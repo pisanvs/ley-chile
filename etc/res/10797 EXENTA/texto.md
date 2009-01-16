@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 10.797, 31 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Esmeralda Nº 165, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-132, comuna de Concepción, superficie 617,20 m2 de terreno, 285,44 m2 de edificación, obras complementarias y especies vegetales dentro de polígono y linderos señalados plano de expropiación S8R-22.213, de aparente dominio de Yolanda el C. Escobar Cabezas, para ejecución del proyecto Programa de Recuperación de Barrios-Pedro de Valdivia, comuna de Concepción, conforme artículo 51 ley Nº 16.391 y DL Nº 2.186. Comisión Peritos integrada por Eduardo Rivera Gajardo, arquitecto, Héctor Peña Ríos, constructor civil y Andrés Risso Caamaño, arquitecto, según informe de fecha 26 de diciembre 2008, fijó monto provisional indemnización en $38.488.194, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
