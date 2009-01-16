@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº1493, de fecha 29 de diciembre del 2008, se expropió el lote de terreno Nº1, superficie 197 m2, Rol Nº3100-1, comuna de Linares, VII Región para la obra "Camino Ruta L-31, Sector Polvorines - La Floresta, Tramo Km. 0,00000 al Km. 15,48000.", y se acordó el valor de indemnización con su propietario SOCIEDAD COMERCIAL INMOBILIARIA Y DE INVERSIONES PRIZANT Y COMPAÑIA, ascendente a la cantidad de $648.986.
+
+Fiscal del Ministerio de Obras Públicas.
