@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°1.487 de fecha 29 de diciembre de 2008, se expropió el lote de terreno N° 4 superficie 453 m2, rol N° 729-16, comuna de Osorno, para la obra "Habilitación Acceso Norte a Osorno X Región, Provincia de Osorno, Comuna de Osorno, X Región", y se acordó el valor de la indemnización con su propietario UBERLINDA JARAMILLO HUENUMIL, ascendente a la cantidad de $41.197.928.
+
+- Fiscal del Ministerio de Obras Públicas.
