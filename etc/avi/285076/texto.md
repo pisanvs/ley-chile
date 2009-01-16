@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por la presente se rectifican publicaciones efectuadas en el Diario Oficial y en el Diario La Nación, ambas de 15 de diciembre de 2008, relativas a la expropiación total, conforme DL Nº 2.186 de 1978, del inmueble denominado Lote B Parcela 7, Las Tinajas 4300, Rol de Avalúo Nº6.400-43, comuna de La Florida, de aparente dominio de Cominetti C C Rossella; correspondiente al Lote Nº1, necesaria para el desarrollo de Programas Habitacionales de Vivienda de la Comuna de La Florida, en el sentido que dicha expropiación se dispuso por resolución exenta Nº 7.916 de 15 de diciembre de 2008, de la Dirección de Serviu Metropolitano, y que el nombre de la aparente propietaria es Cominetti C C Rossella. En lo no rectificado, se mantienen inalterables las publicaciones antes referidas.-
+
+Director (S) Serviu Metropolitano.
