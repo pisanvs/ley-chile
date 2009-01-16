@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 105 de 09.12.2008, Serviu Región del Libertador Bernardo O.Higgins, ordenó expropiación parte de un inmueble ubicado en Manso de Velasco Nº 1110, de la comuna de San Fernando, Rol de Avalúo Nº 260-05, superficie aproximada de 125,79m² de terreno, delimitada en polígono J-K-L-M-E-O-N-Ñ-J conforme al Plano elaborado por Pamela Acuña Illanes, "Proyecto Mejoramiento Red Vial Manso de Velasco y Sector O.Higgins" comuna de San Fernando. De aparente dominio de Sucesión de Alamiro Segundo Muñoz Gajardo, inscrito a fojas 833 Nº 1406 del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 1996. Conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos María Isabel Ríos Marcuello, Carmen Pilar Ríos Marcuello y Patricia Morales Rivera, Arquitecto, Ingeniero y Constructor Civil, respectivamente, según informe de fecha noviembre de 2007. Monto provisional $38.965.546, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.-
+
+Director Serviu Región Libertador Bernardo O.Higgins.
