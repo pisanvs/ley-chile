@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1524 de 31 de diciembre de 2008, en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, fijó el texto actualizado de la Ley Nº15.840, se expropió para la empresa Aguas Andinas S.A., el lote de terreno Nº. 1 para la obra "Colector Interceptor Mapocho Segunda Etapa", que figura a nombre de SUCESION JOAQUIN WALKER RIESCO, rol de avalúo 1195-24, Comuna de MAIPÚ, REGIÓN METROPOLITANA, superficie 4.937 M2. La Comisión de Peritos, fijó el 30 de julio de 2008, en la cantidad de $47.640.716.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
