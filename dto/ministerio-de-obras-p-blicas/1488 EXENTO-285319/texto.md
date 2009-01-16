@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.488 de fecha 29 de diciembre de 2008, se expropió el lote de terreno N° 35-A superficie 14 m2, rol N° 240-20, comuna de Villa Alegre, para la obra "Camino Ruta L-202, Sector Villa Alegre Putagán, Tramo Km. 0,00000 a Km. 11,44287". Comuna de Villa Alegre, Provincia de Linares, VII Región, y se acordó el valor de la indemnización con su propietario SYLVIA o SILVIA INÉS YOLANDA LOYOLA VÁSQUEZ, ascendente a la cantidad de $307.098.
+
+- Fiscal del Ministerio de Obras Públicas.
