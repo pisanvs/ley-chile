@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1536 de 31 de diciembre de 2008, se expropió el lote de terreno Nº1, superficie 11.596 m2., Rol Nº169-1, comuna de Calbuco, X Región para la obra MEJORAMIENTO CONSTRUCCION RUTAS V-843 Y S/R, S: CR.RUTA V-85-PUERTO. KM. 0,00000 A KM. 1,99550, COMUNA DE CALBUCO, PROVINCIA DE LLANQUIHUE, X REGION" y se acordó el valor de indemnización con la COMPAÑÍA DE INVERSIONES ALTAMIRA SA, ascendente a la cantidad de $19.541.530.
+
+- Fiscal del Ministerio de Obras Públicas.
