@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.486 de fecha 29 de diciembre de 2008, se expropió el lote de terreno N° 10 superficie 1.123 m2, rol N° 729-61, comuna de Osorno, para la obra "Habilitación Acceso Norte a Osorno X Región, Provincia de Osorno, Comuna de Osorno, X Región", y se acordó el valor de la indemnización con su propietario ROSA DEL CARMEN ZAPATA NILIAN, ascendente a la cantidad de $44.106.770.
+
+- Fiscal del Ministerio de Obras Públicas.
