@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº1496, de fecha 29 de diciembre del 2008, se expropió el lote de terreno Nº43, superficie 59 m2, Rol Nº5010-252, comuna de Copiapó, III Región para la obra "Concesión Ruta 5 Norte. Tramo: Vallenar - Caldera. Sector: Fin Bypass a Copiapó - Caldera. Km. 824.100,00 al Km. 888.700,00", y se acordó el valor de indemnización con su propietario IVAN SEGUNDO OLMOS TORRES, ascendente a la cantidad de $1.027.080.
+
+- Fiscal del Ministerio de Obras Públicas.
