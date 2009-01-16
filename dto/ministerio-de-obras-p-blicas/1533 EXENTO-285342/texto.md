@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1533 de 31 de diciembre de 2008, se expropió el lote de terreno Nº15, superficie 31 m2, rol de Avalúo 27-31, comuna de Río Hurtado, para la obra "CONSERVACION CAMINO 64E763 SAN PEDRO - BOSQUE PETRIFICADO DE PICHASCA", IV Región y se acordó el valor de la indemnización con su propietario PRUDENCIO DEL CARMEN LEON VELIZ, ascendente a la cantidad de $140.378.
+
+- Fiscal del Ministerio de Obras Públicas.
