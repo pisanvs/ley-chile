@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 435, de 14 de noviembre de 2008, Serviu Región del Bío Bío ordenó expropiación parcial del inmueble ubicado en Esmeralda Nº 61, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-02, comuna Concepción, superficie aproximada 241,973 metros cuadrados de terreno, y 147,8 metros cuadrados de edificación, dentro polígono y linderos señalados en plano expropiación Nº S8R-22.224, de aparente dominio Sucesión Pereira Cartes, para desarrollo proyecto "Programa de Recuperación de Barrios - Pedro de Valdivia Bajo", Prolongación Parque Ecuador, comuna de Concepción, conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por Omar Andrés Aspé Neira, constructor civil, y Rubén Carlos Muñoz Vera y Guillermo Orlando Villafañe Feres, arquitectos, según informe de fecha 3 de noviembre de 2008, fijó monto provisional indemnización en $15.568.783.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío. Serviu Región del Bío Bío.
