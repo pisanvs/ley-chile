@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 106 de 09.12.2008, Serviu Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Manso de Velasco Nº 1140, de la comuna de San Fernando, Rol de Avalúo Nº 260-14, superficie aproximada de 87,39m² de terreno, delimitada en polígono K'-M'-N'-Ñ'-O'-K' conforme al Plano elaborado por Pamela Acuña Illanes, "Proyecto Mejoramiento Red Vial Manso de Velasco y Sector O'Higgins" comuna de San Fernando. De aparente dominio de Anselmo del Carmen Espinoza Espinoza, inscrito a fojas 936 Nº 1550, del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 2000. Conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos María Isabel Ríos Marcuello, Carmen Pilar Ríos Marcuello y Patricia Morales Rivera, Arquitecto, Ingeniero y Constructor Civil, respectivamente, según Informe de fecha noviembre de 2007. Monto provisional $25.119.700, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.-
+
+Director Serviu Región del Libertador Bernardo O'Higgins.
