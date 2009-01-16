@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.485 de fecha 29 de diciembre de 2008, se expropiaron los lotes de terreno N°s 87-B y 87-B1 superficies 144 y 186 m2 respectivamente, rol N° 131-36, comuna de Vichuquén, para la obra "Camino Ruta J-810 Sector Licantén Vichuquén, Tramo Km. 0,000000 a Km. 15,372989". Comunas de Licantén y Vichuquén, Provincia de Curicó, VII Región, y se acordó el valor de la indemnización con su propietario LUIS ORLANDO DEL CARMEN OYARZUN CORREA, ascendente a la cantidad de $10.428.368.
+
+- Fiscal del Ministerio de Obras Públicas.
