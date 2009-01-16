@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1534 de 31 de diciembre de 2008, se expropió el lote de terreno Nº14, superficie 8.833 m2., Rol Nº204-49, comuna de Chaitén, X Región para la obra "MEJORAMIENTO RUTA 7 LONGITUDINAL AUSTRAL, SECTOR EX - POZOS DE EMPRESTITOS - EL AMARILLO, TRAMO KM. 13,000 A Km. 26,700" y se acordó el valor de indemnización con su propietaria LUZMIRA MALDONADO SOTO, áscéndente a la cantidad de $3.179.267.
+
+- Fiscal del Ministerio de Obras Públicas.
