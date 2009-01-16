@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1538 de 31 de diciembre de 2008, se dejó sin efecto el decreto MOP Nº802 de 21 de octubre de 2008, por no haber sido tramitado por la Contraloría General de la República, como asimismo se revocó el decreto MOP Nº1108 de 24 de noviembre de 2004, sólo en la parte que corresponde al lote de terreno Nº2, a nombre de MOEBIS MOLYNEUX MARIA EU Y OTROS.
+
+Fiscal del Ministerio de Obras Públicas.
