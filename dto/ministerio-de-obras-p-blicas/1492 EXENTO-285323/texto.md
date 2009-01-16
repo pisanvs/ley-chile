@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1492 de fecha 29 de diciembre del 2008, se expropió el lote de terreno Nº51-B, superficie 48 m2, Rol Nº1171-5, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N- 102-M, Sector Cobquecura - Límite Regional, Tramo II, Km.10,50000 al Km. 18,60807", VIII Región, y se acordó el valor de indemnización con su propietario GUILLERMO ENRIQUE SALGADO CONTRERAS, ascendente a la cantidad de $391.933.- para el lote Nº51-B.
+
+Fiscal del Ministerio de Obras Públicas.
