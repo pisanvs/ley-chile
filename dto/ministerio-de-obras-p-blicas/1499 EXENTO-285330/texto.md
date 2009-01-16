@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. Nº1499, de fecha 29 de diciembre del 2008, se expropiaron los lotes de terrenos Nos 87-A y 87-A1, superficie 375 y 751 m2 respectivamente, Rol Nº131-12, comuna de Vichuquén, VII Región para la obra "Camino Ruta 3-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 al Km. 15,372989.", y se acordó el valor de indemnización con su propietaria SONIA ESTELA DEL CARMEN DIAZ QUITRAL, ascendente a la cantidad de $2.347.955.
+
+Fiscal del Ministerio de Obras Públicas.
