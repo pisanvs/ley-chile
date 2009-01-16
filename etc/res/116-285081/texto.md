@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 116 de 17.12.2008, Serviu Región del Libertador Bernardo O'Higgins, ordenó expropiación parte de un inmueble ubicado en Membrillar Nº 66, de la comuna de Rancagua, Rol de Avalúo Nº 251-10, superficie aproximada de 21,9 m² de terreno, delimitada en polígono B-E-F-G-C-B conforme al Plano elaborado por Cristian Michell Vergara, Ingeniero Civil, "Mejoramiento Eje Vial Miguel Ramírez Camino Machalí Tramo Poniente" Comuna de Rancagua. De aparente dominio de Asesorías e Inversiones El Cobre. Conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Sr. Sergio Shipley Rubio, Carlos Henríquez Durán y Edmundo Gómez Lagos, Ingeniero, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha noviembre de 2008, monto provisional en $29.436.000. Cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.-
+
+Director Serviu Región del Libertador Bernardo O'Higgins.
