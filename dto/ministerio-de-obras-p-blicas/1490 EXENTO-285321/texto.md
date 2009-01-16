@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1490 de fecha 29 de diciembre del 2008, se expropió el lote de terreno Nº22, superficie 1.040 m2, Rol Nº55-30, comuna de Pumanque, VI Región para la obra "Camino Ruta I -60, Sector Pumanque - Cruce I-72, tramo Km. 20,34083 a Km. 38,49623, Sexta Región" y se acordó el valor de indemnización con su propietario JOSE ALFREDO PIMIENTA VASQUEZ, ascendente a la cantidad de $1.676.080.- para el lote Nº22.
+
+Fiscal del Ministerio de Obras Públicas.
