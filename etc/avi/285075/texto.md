@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por la presente se rectifican publicaciones efectuadas en el Diario Oficial y en el Diario La Nación, ambas de 15 de diciembre de 2008, relativas a la expropiación total, conforme DL Nº 2.186 de 1978, del inmueble denominado Lote Nº 4 Fdo. Santa Elvira, Rol de Avalúo Nº 2898-17, comuna de Cerro Navia, de aparente dominio de Guzmán Nieto José y otros; correspondiente al Lote Nº 4, necesaria para desarrollar Programas Habitacionales de Vivienda de la Comuna de Cerro Navia, en el sentido que el inmueble expropiado es el denominado Lote Nº 4 Fdo. Santa Elvira, y que dicha expropiación se dispuso por resolución exenta Nº 7.915 de 15 de diciembre de 2008, de la Dirección de Serviu Metropolitano. En lo no rectificado, se mantienen inalterables las
+
+publicaciones antes referidas.- Director (S) Serviu Metropolitano.
