@@ -1,0 +1,3 @@
+Por resolución exenta N°59, de 8 de enero de 2009, de esta Subsecretaría, autorízase a VERÓNICA DEL CARMEN VEGA JIMÉNEZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Caleta Junín s/n, Huara, I Región, para elaborar en la línea de proceso de Alga Seca los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 8 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
