@@ -1,0 +1,3 @@
+Por resolución exenta Nº 28, de 7 de enero de 2009, de esta Subsecretaría, autorízase a PRODUCTORA DE ALGAS MARINAS LIMITADA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino La Estancilla Valdivia de Paine a Paine, G - 500 Nº 3750, Parcela Uno, Fundo Valdivia, Paine, Región Metropolitana, para elaborar en la línea de proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
