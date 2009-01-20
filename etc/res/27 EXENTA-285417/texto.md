@@ -1,0 +1,3 @@
+Por resolución exenta Nº 27, de 7 de enero de 2009, de esta Subsecretaría, autorízase a JOSÉ GENARO GUERRERO TORRES para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Los Jazmines s/n, Pichilemu, VI Región, en la línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
