@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.380, de 30 de diciembre de 2008, de esta Subsecretaría, autorízase al CLUB DE PESCA Y CAZA LICAN RAY para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Captura de ejemplares reproductores de la especie Trucha arcoiris (Oncorhynchus mykiss) y Trucha fario (Salmo trutta), en ríos tributarios del lago Calafquén IX y X Región, III etapa 2008/2009", elaborados por la peticionaria y aprobados por esta Subsecretaría de Pesca, los cuales se consideran parte integrante de la presente resolución.
+
+El objetivo de la pesca de investigación que por la presente resolución se autoriza consiste en capturar ejemplares de Trucha arcoiris y Trucha fario maduros sexualmente, desovarlos ex situ, para posteriormente fecundar e incubar los ejemplares en instalaciones especiales.
+
+La pesca de investigación se efectuará por el periodo comprendido entre la fecha de la presente resolución y el 30 de noviembre de 2009, en ríos y arroyos tributarios del Lago Calafquén, IX y X Región, donde podrá capturar, con devolución, 100 ejemplares maduros de trucha arcoiris y de trucha fario.
+
+Valparaíso, 30 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
