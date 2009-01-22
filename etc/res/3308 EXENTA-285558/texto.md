@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.308, de 19 de diciembre de 2008, de esta Subsecretaría, autorízase a la SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de las capturas y desembarques de los recursos demersales extraídos por la flota artesanal de enmalle merluzera en embarcaciones de la zona norte de la VIII Región". El objetivo de la pesca de investigación consiste en monitorear las capturas y desembarques de los recursos pelágicos extraídos por la flota artesanal de enmalle merluzera en embarcaciones de la zona norte de la VIII Región.
+
+La pesca de investigación se efectuará en la VIII Región (paralelos 36º00'39" L.S. y 36º52'00" L.S.), entre la fecha de la presente resolución y el 31 de diciembre de 2008, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación las embarcaciones artesanales individualizadas en la resolución extractada, inscritas en el Registro Pesquero Artesanal de la VIII Región, las que podrán extraer con red de enmalle una cuota total de 100 toneladas del recurso Merluza común.
+
+Valparaíso, 19 de diciembre de 2008.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
