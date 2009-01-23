@@ -1,0 +1,3 @@
+Por resolución exenta Nº 101, de 12 de enero de 2009, de esta Subsecretaría, autorízase a JUSTO LORENZO GARCÍA CAMPOS para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Manao, Hueihue rural s/n, Ancud, Chiloé, X Región, en la línea de proceso Cocido, Fresco enfriado, Congelado y Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 12 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
