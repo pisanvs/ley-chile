@@ -1,0 +1,3 @@
+Por resolución exenta Nº 250, de 19 de enero de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204105011, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES CULTIVADORES Y EXPLOTADORES DE ALGAS "BAHÍA PULELO", para instalar y operar un centro de cultivo ubicado en Bahía Manao, entre Punta Piedras y Punta Putique, X Región.
+
+Valparaíso, 19 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
