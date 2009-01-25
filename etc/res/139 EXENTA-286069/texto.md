@@ -1,0 +1,3 @@
+Por resolución exenta Nº 139, de 12 de enero de 2009, de esta Subsecretaría, autorízase a TEMÍSTOCLES EUGENIO HINOSTROZA RÍOS, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en pasaje Fresia Nº 779, Santa Teresa, Puerto Montt, X Región, en las líneas de proceso Seco Salado y Ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 12 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
