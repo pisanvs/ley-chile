@@ -1,0 +1,3 @@
+Por resolución exenta Nº 248, de 19 de enero de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206103338, presentada por SONIA MARLENE CATEPILLÁN GUINAO, para instalar y operar un centro de cultivo ubicado en canal Caucahué, al sureste de Punta Teliupta, Isla Caucahué, X Región.
+
+Valparaíso, 19 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
