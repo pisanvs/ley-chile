@@ -1,0 +1,3 @@
+Por resolución exenta Nº 195, de 15 de enero de 2009, de esta Subsecretaría, autorízase a NOELFA DEL CARMEN AGUILAR ROBLEDO para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Lote B, sector Caleta Río Seco, Iquique, I Región, para elaborar en línea de proceso Alga seca los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
