@@ -1,10 +1,8 @@
 APRUEBA TEXTO QUE SEÑALA DEL CODIGO TRIBUTARIO
 
-Núm. 830.- Santiago, 27 de Diciembre de 1974.-
+Núm. 830.- Santiago, 27 de diciembre de 1974.- Vistos: lo dispuesto en los Decretos Leyes N°s. 1 y 128, de 1973, y 527, de 1974, la Junta de Gobierno ha resuelto dictar el siguiente
 
-Vistos: lo dispuesto en los decretos leyes N.os 1 y 128, de 1973, y 527, de 1974, la Junta de Gobierno ha resuelto dictar el siguiente,
-
-Decreto ley:
+DECRETO LEY:
 
 #### Artículo 1°
 
@@ -324,9 +322,13 @@ Corresponde al contribuyente probar con los documentos, libros de contabilidad u
 
 El Servicio no podrá prescindir de las declaraciones y antecedentes presentados o producidos por el contribuyente y liquidar otro impuesto que el que de ellos resulte, a menos que esas declaraciones, documentos, libros o antecedentes no sean fidedignos. En tal caso, el Servicio, previos los trámites establecidos en los artículos 63 y 64 practicará las liquidaciones o reliquidaciones que procedan, tasando la base imponible con los antecedentes que obren en su poder. Para obtener que se anule o modifique la liquidación o reliquidación, el contribuyente deberá desvirtuar con pruebas suficientes las impugnaciones del Servicio, en conformidad a las normas pertinentes del Libro Tercero.
 
+> **Nota.** El artículo décimo de la LEY 20322, publicada el 27.01.2009, interpreta la presente norma en el sentido de indicar que en los casos aquí previstos, el trámite establecido en el inciso segundo del artículo 63 del Código Tributario, es obligatorio.
+
 #### Artículo 22
 
 Si un contribuyente no presentare declaración, estando obligado a hacerlo, el Servicio, previos los trámites establecidos en los artículos 63 y 64, podrá fijar los impuestos que adeude con el solo mérito de los antecedentes de que disponga.
+
+> **Nota.** El artículo décimo de la LEY 20322, publicada el 27.01.2009, interpreta la presente norma en el sentido de indicar que en los casos aquí previstos, el trámite establecido en el inciso segundo del artículo 63 del Código Tributario, es obligatorio.
 
 #### Artículo 23
 
@@ -362,7 +364,9 @@ En caso que las circulares, dictámenes y demás documentos mencionados en el in
 
 Cuando deban considerarse separadamente el valor, los gastos o los ingresos producidos o derivados de operaciones que versen conjuntamente sobre bienes muebles e inmuebles, la distribución se hará en proporción al precio asignado en el respectivo acto o al valor contabilizado de unos y otros bienes. Si ello no fuera posible, se tomará como valor de los bienes raíces el de su avalúo fiscal, y el saldo se asignará a los muebles. No obstante, para los efectos del impuesto a la renta se estará en primer lugar al valor o a la proporción del valor contabilizado de unos y otros bienes y, en su defecto, se asignará a los bienes raíces el de su avalúo fiscal y el saldo a los bienes muebles.
 
-Cuando para otros efectos tributarios sea necesario separar o prorratear diversos tipos de ingresos o de gastos y el contribuyente no esté obligado a llevar una contabilidad separada, el Servicio pedirá a éste los antecedentes que correspondan, haciendo uso del procedimiento contemplado en el artículo 63° A falta de antecedentes o si ellos fueren incompletos, el Servicio hará directamente la separación o prorrateo pertinente.
+Cuando para otros efectos tributarios sea necesario separar o prorratear diversos tipos de ingresos o de gastos y el contribuyente no esté obligado a llevar una contabilidad separada, el Servicio pedirá a éste los antecedentes que correspondan, haciendo uso del procedimiento contemplado en el artículo 63°. A falta de antecedentes o si ellos fueren incompletos, el Servicio hará directamente la separación o prorrateo pertinente.
+
+> **Nota.** El artículo décimo de la LEY 20322, publicada el 27.01.2009, interpreta la presente norma en el sentido de indicar que en los casos aquí previstos, el trámite establecido en el inciso segundo del artículo 63 del Código Tributario, es obligatorio.
 
 #### Artículo 28
 
