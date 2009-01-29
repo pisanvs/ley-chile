@@ -1,0 +1,3 @@
+Por resolución exenta Nº 314, de 22 de enero de 2009, de esta Subsecretaría, rectifícase el extracto de la resolución exenta N° 132 de 2009, de esta Subsecretaría, que reconoce la participación conjunta de los armadores Corpesca S.A., Pesquera San José S.A., Southpacific Korp S.A. y Arica Seafoods Producer S.A., en la unidad de pesquería Jurel, en el área marítima correspondiente a la XV, I y II Regiones, en el sentido de reemplazar la razón social del armador "Rica Seafoods Producer S.A.", por la siguiente "ARICA SEAFOODS PRODUCER S.A."
+
+Valparaíso, 22 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
