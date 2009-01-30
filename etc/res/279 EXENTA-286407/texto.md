@@ -1,0 +1,3 @@
+Por resolución exenta Nº 279, de 20 de enero de 2009, de esta Subsecretaría, autorízase a NÉSTOR RAMÓN FACUNDO MARTÍNEZ ÁLVAREZ, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Ramírez Nº 440, Ancud, Chiloé, X Región, en las líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado y Ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de enero de 2009.- María Ángela Barbieri Bellolio.- Subsecretaria de Pesca (S).
