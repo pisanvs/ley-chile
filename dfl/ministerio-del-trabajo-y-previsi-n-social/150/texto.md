@@ -276,7 +276,7 @@ Lo dispuesto en este artículo es sin perjuicio de lo que establece el artículo
 
 #### Artículo 34°
 
-Las asignaciones familiares que correspondan a los pensionados del Sistema de Pensiones de Vejez, Invalidez y Sobrevivencia establecido en el decreto ley N° 3.500, de 1980, serán pagadas directamente por las Compañías de Seguros y las Administradoras de Fondos de Pensiones respectivas, en la misma oportunidad en que les paguen las pensiones, las rentas mensuales de los seguros de renta vitalicia o las mensualidades de los retiros programados, según corresponda.
+Las asignaciones familiares que correspondan a los pensionados del Sistema de Pensiones de Vejez, Invalidez y Sobrevivencia establecido en el decreto ley N° 3.500, de 1980, y a los trabajadores señalados en el inciso segundo del artículo 20 de la ley N° 19.728 serán pagadas directamente por las Compañías de Seguros y las Administradoras de Fondos de Pensiones respectivas, como también por la Sociedad Administradora de Fondos de Cesantía, en la misma oportunidad en que les paguen las pensiones, las rentas mensuales de los seguros de renta vitalicia o las mensualidades de los retiros programados, según corresponda.
 
 #### Artículo 35°
 
