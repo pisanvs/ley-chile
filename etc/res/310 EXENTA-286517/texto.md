@@ -1,0 +1,7 @@
+Por resolución exenta Nº 310, de 22 de enero de 2009, de esta Subsecretaría, autorízase al CENTRO DE ECOLOGÍA APLICADA LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Fauna Íctica en Cuerpos de Agua de las Principales Cuencas del País".
+
+El objetivo de la pesca de investigación consiste en determinar cuantitativamente los efectos que se producirán sobre las comunidades ícticas, producto de la construcción y operación de embalses o proyecto de extracción de aguas; monitorear posibles efectos de ejecución de éstos sobre los sistemas reófilos y fauna íctica, realizar estudios específicos de poblaciones de Galaxias platei y su hábitat en el ríos individualizados en resolución extractada, además de analizar distribución espacial y situación taxonómica de Diplomystes sp. en cuenca del Río Baker y Pascua, pudiendo ampliarse dicho estudio a otras cuencas del país.
+
+La pesca de investigación se efectuará por el período comprendido entre la fecha de la presente resolución y el 31 de enero de 2010, en cuencas de ríos señalados en resolución extractada, donde podrá capturar, con devolución, mediante equipos de pesca eléctrica, redes tipo chinguillos y espineles, ejemplares de especies nativas y no nativas señaladas en la resolución extractada.
+
+Valparaíso, 22 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
