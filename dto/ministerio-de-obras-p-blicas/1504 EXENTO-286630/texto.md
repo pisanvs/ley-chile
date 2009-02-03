@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.504 de 29 de diciembre de 2008, se modificó el numeral segundo del decreto MOP (exento) Nº 1.672 de 25 de noviembre de 2002, que ordenó entre otros, la expropiación del lote Nº 42, en la parte que se refiere al rol de avalúo y nombre del propietario según el Servicio de Impuestos Internos, quedando como a continuación se indica: Becerra Campos Margarita y Otros, rol de avalúo 265-47, y no como en él se señala.
+
+- Fiscal del Ministerio de Obras Públicas.
