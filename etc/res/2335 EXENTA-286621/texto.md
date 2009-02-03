@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.335 de fecha 31 de diciembre de 2008, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 26 para ejecución de la Obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre de Inmobiliaria e Inver Macel Ltda., rol de avalúos según SII Nº 229-5, comuna de Osorno, superficie 26,10 metros cuadrados. La comisión de Peritos integrada por los Sres. Carlos Eugenio Mera Santibáñez, Jorge Max Nusser Arend y Raúl Alejandro Palma Larrea designados por resolución exenta Nº 1.672 de fecha 6 de noviembre del 2007, fijó con fecha 14 de noviembre del 2007, el valor provisional de la indemnización, actualizado a noviembre de 2008 en la suma de $2.588.724. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+Director Regional Serviu Región de Los Lagos.
