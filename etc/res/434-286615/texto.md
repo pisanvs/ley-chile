@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 434, 14 noviembre de 2008, Serviu Región del Bío Bío, ordenó expropiación total inmueble ubicado en Esmeralda Nº53, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-01, de la comuna de Concepción, superficie 164,14 m2 de terreno y 151 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación S8R-22.225, de aparente dominio de Carlos Araneda Bello, para ejecución del proyecto Programa Recuperación de Barrios-Barrio-Pedro de Valdivia Bajo, comuna de Concepción, conforme artículo 51 ley Nº16.391 y D.L. Nº2.186. Comisión Peritos integrada por Omar Andrés Aspé Neira, por el arquitecto Rubén Carlos Muñoz Vera y por el arquitecto Guillermo Orlando Villafañe Feres, según informe de 3 de noviembre de 2008 fijó la indemnización provisional total de terreno y edificación en la suma de $15.305.292.- pagadera de contado.
+
+Director Serviu Región del Bío Bío.
