@@ -1,0 +1,3 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 9.486, 17 noviembre 2008, Serviu Región del Bío Bío se rectificó resolución 4965 de 4 junio 2008 sentido de dejar establecido que el rol de la propiedad que se expropia corresponde al 2202-9 y no el 2206-9 como erróneamente se indica. Asimismo se desistió en forma parcial de la expropiación en lo que respecta al rol 2202-8 enmarcada en el polígono B'-C-D-D'-B' de una superficie de 46,94 metros cuadrados y que corresponde al Lote 11B.
