@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 10.789, 31 diciembre 2008, Serviu Región del Bío Bío, ordenó expropiación parcial inmueble ubicado en calle Daniel Belmar Nº 399 LT 1A, Comuna San Pedro de la Paz, Rol de Avalúo Nº 15008-9, superficie 1.544,16 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-22.209, de aparente dominio de Juan Mauricio Castillo Hemmelmann, para ejecución programa "Recuperación de Barrios", comuna de San Pedro de la Paz, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por constructor civil, Fernando Iván Cerda Espinoza, por el arquitecto Eliseo Eduardo Rivera Gajardo, por el arquitecto Guillermo Orlando Villafañe Feres, según informe de fecha 28 de noviembre de 2008, fijó monto provisional indemnización en $18.503.669, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
