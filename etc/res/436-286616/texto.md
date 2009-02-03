@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 436, 14 noviembre de 2008, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Esmeralda Nº 81, Pedro de Valdivia Bajo, Rol de Avalúo Nº 1103-04, de la comuna de Concepción, superficie 345,60 m2 de terreno y 397,9 m2 de edificación, dentro de polígono y linderos señalados plano de expropiación Nº S8R-22.222, de aparente dominio de Luisa Poblete Durán, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio-Pedro de Valdivia Bajo, comuna de Concepción, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2186. Comisión Peritos integrada por Omar Andrés Aspé Neira, por el arquitecto Rubén Carlos Muñoz Vera, y por el arquitecto Guillermo Orlando Villafañe Feres, según informe de 3 de noviembre de 2008, fijó la indemnización provisional total de terreno y edificación en la suma de $63.564.002.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
