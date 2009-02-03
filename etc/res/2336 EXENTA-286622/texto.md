@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.336, de fecha 31 de diciembre de 2008, Dirección Regional Serviu Región de Los Lagos, ordenó expropiación lote de terreno Nº 35 para ejecución de la Obra "Mejoramiento Avenida Manuel Rodríguez, Osorno", provincia de Osorno, Región de Los Lagos, que figura a nombre de Schilling Robles Beatriz, hoy, Tapia Velásquez, Hugo Fernando, rol de avalúo según SII Nº 201-21, comuna de Osorno, superficie 5,25 metros cuadrados. La comisión de Peritos integrada por los Sres. Juan Samuel Barrientos Bahamonde, Nelson Bernardo Turra Turra y Leopoldo Schumacher Guarda, designados por resolución exenta Nº 1.673, de fecha 6 de noviembre de 2007, modificada por resolución exenta Nº 2.264, de fecha 23 de diciembre de 2008, fijó con fecha 26 de diciembre de 2008, el valor provisional de la indemnización en la suma de $326.600. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7 del decreto ley Nº 2.186.
+
+- Director Regional Serviu Región de Los Lagos.
