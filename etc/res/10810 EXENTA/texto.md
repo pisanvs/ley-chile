@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 10.810, 31 diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle El Guindo Lote 4 (prolongación calle Segunda Longitudinal), Boca Sur, Comuna San Pedro de la Paz, Rol de Avalúo Nº 15008-173, superficie 324,22 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-22.293, de aparente dominio de John Carlos Hanania Batshoun, para ejecución programa "Recuperación de Barrios", comuna de San Pedro de la Paz, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por constructor civil, Fernando Iván Cerda Espinoza, por el arquitecto Eliseo Eduardo Rivera Gajardo, por el arquitecto Guillermo Orlando Villafañe Feres, según informe de fecha 28 de noviembre de 2008, fijó monto provisional indemnización en $1.387.337, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
