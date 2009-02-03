@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 412, 24 octubre 2008, rectificada y complementada por Resolución 458 de 1 de diciembre 2008, Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en Daniel Belmar Interior Nº 502-A, Lote B Boca Sur, Rol de Avalúo Nº 15009-670, comuna San Pedro de la Paz, superficie 1610,56 metros cuadrados de terreno y 148 metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R-22.203, de aparente dominio de Inmobiliaria Rukan-Tec, para ejecución de obras, vinculadas a Proyectos de Mejoramiento de Acceso Construcción de Centro Cívico y Cescom, Barrio Boca Sur, Programa Recuperación de Barrios Región del Bío-Bío, de la comuna de San Pedro de la Paz, conforme artículo 51 ley 16.391 y D.L. 2186. Comisión Peritos integrada por Eliseo Rivera Fajardo, arquitecto, Rubén Carlos Muñoz Vera, arquitecto y Guillermo Orlando Villafañe Feres, arquitecto, según informe de fecha 16 de octubre de 2008, fijó monto provisional indemnización en $22.777.891.-. pagadera de contado.
+
+Director Serviu Región del Río Bío.
