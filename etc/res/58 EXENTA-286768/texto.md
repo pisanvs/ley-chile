@@ -1,0 +1,3 @@
+Por resolución exenta Nº 58, de 8 de enero de 2009, de esta Subsecretaría, autorízase a TROELS BREITING para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Avenida El Morro s/n, Bahía Inglesa, Caldera, III Región, para elaborar en las líneas de proceso Alga seca y Picado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 8 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
