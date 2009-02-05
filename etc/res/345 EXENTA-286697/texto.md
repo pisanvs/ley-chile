@@ -1,0 +1,3 @@
+Por resolución exenta Nº 345, de 23 de enero de 2009, de esta Subsecretaría, autorízase a AQUAPURO S.A. para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Lote 4, Península Caullahuapi, sector Panitao, Bahía Chincui, Puerto Montt, X Región, en las líneas de proceso Fresco Enfriado, Refrigerado, Congelado, Ahumado y Marinado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
