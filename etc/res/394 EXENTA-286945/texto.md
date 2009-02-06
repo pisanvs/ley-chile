@@ -1,0 +1,3 @@
+Por resolución exenta Nº 394, de 29 de enero de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207124040, presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en Seno Martínez, al norte de Ensenada Sin Nombre, Sector-1, XII Región.
+
+Valparaíso, 29 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
