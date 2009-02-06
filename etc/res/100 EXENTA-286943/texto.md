@@ -1,0 +1,3 @@
+Por resolución exenta Nº 100, de 12 de enero de 2009, de esta Subsecretaría, autorízase a MAURICIO ALEJANDRO FIGUEROA SAAVEDRA, para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Parcela Seis A, sector El Mirador, Casablanca, V Región, en las líneas de proceso Alga Seca y Alga Picada, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 12 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
