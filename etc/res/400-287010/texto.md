@@ -1,0 +1,3 @@
+Por resolución Nº 400, de 29 de enero de 2009, de esta Subsecretaría, declárase que con fecha 20 de octubre de 2008 han quedado sin efecto las resoluciones exentas Nº 1.003 de 1998, Nº 2.576 de 1999 y Nº 1.655 de 2001, todas de esta Subsecretaría, que autorizaron a PESQUERA PACÍFICO SUR S.A. para desarrollar actividades extractivas con la nave "Viña del Mar", matrícula 1.673, en virtud de lo dispuesto en el artículo 9º de la ley Nº 19.713 y en la escritura pública citada en Visto de la resolución extractada.
+
+Valparaíso, 29 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
