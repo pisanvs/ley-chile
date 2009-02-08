@@ -1,0 +1,3 @@
+Por resolución exenta Nº 454, de 30 de enero de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207121137, presentada por CULTIVOS MARINOS LAGO YELCHO S.A. para instalar y operar un centro de cultivo ubicado en Estero Córdova, al este de Bahía Williwaw, Isla Desolación, XII Región.
+
+Valparaíso, 30 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
