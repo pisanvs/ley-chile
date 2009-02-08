@@ -1,0 +1,5 @@
+Por resolución exenta N° 462, de 3 de febrero de 2009, de esta Subsecretaría, rectifícase el extracto de la resolución exenta Nº 119 de 2009, de esta Subsecretaría, que reconoce la participación conjunta de los armadores Pesquera El Golfo S.A., Aquafish S.A. y Pesquera Bío Bío S.A., en la unidad de pesquería de Sardina común y Anchoveta, en el área marítima comprendida entre el límite norte de la V Región y el límite sur de la X Región, artículo 2 letra e) de la ley 19.713 y sus modificaciones posteriores, para ejercer el límite máximo de captura por armador establecido en el decreto exento Nº 1.677 de 2008, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de señalar que el grupo de armadores es el siguiente:
+
+"PESQUERA EL GOLFO S.A., AQUAFISH S.A. y PESQUERA BÍO BÍO S.A."
+
+Valparaíso, 3 de febrero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
