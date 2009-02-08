@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN EXENTA Nº 348, DE 21.01.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al Primer Cuatrimestre de 2008, se ha asignado al Centro Cultural-Social y Comunicaciones Vida Plena Nueva Jerusalén, RUT Nº 65.454.340-2 una concesión de Radiodifusión Sonora en Mínima Cobertura, para la comuna de Talca, VII Región, con las características técnicas siguientes: Potencia máxima: 1 Watt; Frecuencia: 96,5 MHz.; Ubicación del Estudio, Planta Transmisora y Sistema Radiante: Calle 9 1/2 Sur Nº 3485, comuna de Talca, VII Región; Coordenadas Geográficas: 35° 26' 06' Latitud Sur y 71° 37' 30' Longitud Oeste (DPS 1956); Sistema Radiante: Direccional con polarización vertical, una (1) antena Yagi de tres elementos, de 4,5 dBd de ganancia máxima y altura del centro de radiación de 6 m.; Pérdidas en cables, conectores: 1,1 dB.
+
+NOTA: VER DIARIO OFICIAL DE 07.02.2009, PAGINA 56
+
+Sin perjuicio de la potencia máxima de 1 watt autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3° de la ley Nº 18.168, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 0,45 watt. atendidas la actual ubicación de las instalaciones contenida en su proyecto técnico y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la Resolución extractada.
+
+Los plazos serán los que se indican a continuación: Inicio de Obras: 5 días; Término de Obras: 30 días, e inicio de Servicio: 59 días. Todos estos plazos se computarán a partir de la fecha de publicación en el Diario Oficial del Decreto que otorgue la concesión.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13°A y 13°B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, que asignó la concesión, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión Subrogante.
