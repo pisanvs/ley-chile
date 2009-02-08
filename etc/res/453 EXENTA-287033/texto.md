@@ -1,0 +1,3 @@
+Por resolución exenta Nº 453, de 30 de enero de 2009, de esta Subsecretaría, recházase la solicitud N° 205104062, presentada por CLAUDIO MARCELO HUERTA GARCÍA para modificar la concesión de acuicultura ubicada al norte de Punta Llancacheo, Isla Puluqui, X Región, otorgada por resolución Nº 20 de 1999, de la Subsecretaría de Marina.
+
+Valparaíso, 30 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
