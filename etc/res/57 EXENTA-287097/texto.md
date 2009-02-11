@@ -1,0 +1,3 @@
+Por resolución exenta Nº 57, de 8 de enero de 2009, de esta Subsecretaría, autorízase a GUILLERMO ERWIN HIDALGO SAPUNAR para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en pasaje Juan Varas Nº 306, Vicuña Mackenna, Chañaral, III Región, en las líneas de proceso Cocido, Fresco refrigerado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 8 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
