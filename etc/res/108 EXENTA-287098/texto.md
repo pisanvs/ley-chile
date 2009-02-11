@@ -1,0 +1,3 @@
+Por resolución exenta Nº 108, de 12 de enero de 2009, de esta Subsecretaría, autorízase a JUAN ALEJANDRO KUHNOW ESPOZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Ángel Scola Nº 585, población Ampliación Oriente, Caldera, III Región, en las líneas de proceso Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Seco salado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 12 de enero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
