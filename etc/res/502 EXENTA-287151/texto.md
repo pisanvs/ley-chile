@@ -1,0 +1,3 @@
+Por resolución exenta Nº502, de 5 de febrero de 2009, de esta Subsecretaría, recházase la solicitud Nº207101003, presentada por SALMONES MULTIEXPORT S.A. para modificar la concesión de acuicultura ubicada en canal Llancahué, al oeste de Punta Pitihorno, X Región, transferida a la peticionaria por resolución Nº1.507, de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 5 de febrero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
