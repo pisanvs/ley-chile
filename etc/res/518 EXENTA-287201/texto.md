@@ -1,0 +1,3 @@
+Por resolución exenta Nº518, de 6 de febrero de 2009, de esta Subsecretaría, rectifícase el numeral 4º inciso 1º de la resolución exenta Nº93, de 2009, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería artesanal de Merluza del sur (Merluccius australis) de aguas interiores de la Décima Región, Zona de Puerto Montt, año 2009", en el sentido de señalar que las actividades de investigación de febrero se realizarán entre el 26 y el 28 de dicho mes, ambas fechas inclusive.
+
+Valparaíso, 6 de febrero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
