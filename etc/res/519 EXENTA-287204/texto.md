@@ -1,0 +1,5 @@
+Por resolución exenta Nº519, de 6 de febrero de 2009, de esta Subsecretaría de Pesca, declárase la caducidad total de la resolución Nº267, de 1999, que autorizó a PESQUERA BÍO BÍO S.A. para realizar actividades pesqueras extractivas con la nave "Biomar III" sobre el recurso Alfonsino con red de arrastre, en las áreas marítimas comprendidas entre la IV Región y el paralelo 41°28,6' L.S. por fuera del área de reserva artesanal y entre los paralelos 41°28,6' L.S. y 44° L.S., al oeste de las 60 millas marinas medidas desde las líneas de base recta.
+
+Declárase la caducidad parcial de la resolución Nº782, de 2001, sólo en cuanto autorizó a Pesquera Bío Bío S.A. para realizar actividades pesqueras extractivas con la nave "Biomar III" sobre el recurso Alfonsino con red de arrastre, en las áreas marítimas de la XV y I Regiones e Islas Oceánicas y su Zona Económica Exclusiva.
+
+Valparaíso, 6 de febrero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
