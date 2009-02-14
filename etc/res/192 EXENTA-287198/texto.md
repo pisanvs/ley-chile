@@ -1,0 +1,3 @@
+Por resolución exenta Nº192, de 15 de enero de 2009, de esta Subsecretaría, autorízase a OLGA ERLINA CISTERNA FERNÁNDEZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino público Puerto Chilote, pasaje 7, Puerto Nuevo, Caleta Punta Lavapié, Arauco, VIII Región, para elaborar en las líneas de proceso Cocido, Fresco enfriado y Fresco refrigerado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de enero de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
