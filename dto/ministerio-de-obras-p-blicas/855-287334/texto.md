@@ -1,0 +1,5 @@
+@@
+
+Por Decreto MOP. Nº 855, de 30 de octubre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 74-A, 77-A, 78-A, 78-B y 79-A, para la obra "Camino Ruta A-123 (Red Vial Andina), Sector Parinacota - Visviri, Tramo Km. 0,00000 a Km. 90,39127, comunas de Putre y General Lagos, Provincia de Parinacota, I Región, Subtramo II, del Km. 51,828000 al Km. 74,53000", que figuran a nombre de ZARZURI MAITA LIANDRO, rol de avalúo 3600-27, superficies 55.063,00 M2, 11.619,00 M2, 40.099,00 M2, 4.161,00 M2. y 3.667,00 M2. La Comisión de Peritos, fijó con fecha 4 de agosto de 2007, complementada por acta de fecha 20 de julio de 2007, en las cantidades de $16.518.900, para el lote Nº 74-A, $3.485.700, para el lote Nº 77-A, $12.389.700, para el lote Nº 78-A, $1.248.300, para el lote Nº 78-B y $1.100.100, para el lote Nº 79-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
