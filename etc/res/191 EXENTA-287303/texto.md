@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 191, fecha 2 de febrero de 2009, dictada por Dirección Regional SERVIU X Región expropió el lote de terreno Nº 7 para la obra "Mejoramiento Eje Guillermo Gallardo - Santa Teresa - Sargento Silva, Puerto Montt" en la comuna de Puerto Montt, Provincia Llanquihue, Décima Región, aparente dominio Suárez Carrasco Rosa Zunilda, Rol de avalúo según SII Nº 38-4, comuna de Puerto Montt, superficie 158,00 metros cuadrados. La Comisión de peritos integrada por los señores Leopoldo Ramón Schumacher Guarda, Carlos Eugenio Mera Santibáñez y Christian Emil Rauch Yáñez, designados Resolución Exenta Nº 932, de 5 de junio de 2008, fijó con fecha 15 de julio de 2008, el valor provisional de la indemnización en la cantidad de $29.337.600, la que ha sido reajustada de acuerdo a la variación del IPC quedando en $30.125.116. La indemnización provisional se pagará al contado. La publicación se efectúa conforme a lo dispuesto en el artículo 7º del decreto ley Nº 2186.
+
+- Director Regional Serviu X Región.
