@@ -1,0 +1,5 @@
+@@
+
+Por Decreto Exento Nº 1247, de 10 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 2, 3, 4, 5 y 27, para la obra "Reposición Ruta D-55, Combarbalá - Monte Patria - Ovalle", provincia de Limarí, IV Región, que figuran a nombre de COM CASTILLO Y MARGARITA ARAYA, roles de avalúo 2520-1 y E/T, superficies 430 M2., 1.646 M2., 1.139 M2., 2.187 M2. y 368 M2. La Comisión de Peritos, fijó con fecha 7 de julio de 2008, en las cantidades de $302.000, para el lote Nº 2, $1.087.600, para el lote Nº 3, $3.316.900, para el lote Nº 4, $3.156.400, para el lote Nº 5 y $1.132.000, para el lote Nº 27. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
