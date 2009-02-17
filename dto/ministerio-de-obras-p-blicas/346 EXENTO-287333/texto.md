@@ -1,0 +1,5 @@
+@@
+
+Por decreto MOP exento Nº 346, de 10 de febrero de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió para la empresa Econssa S.A. el lote de terreno Nº 1, para la obra: "Diseño Instalación Sistema de Alcantarillado de Aguas Servidas de Lican Ray", que figura a nombre de Cabrapan Manquel Margarita, Rol de avalúo Nº 1191-299, Comuna de Villarrica, Región de la Araucanía, superficie: 2,91 Has. La Comisión de Peritos, fijó el monto provisional de la indemnización el 28 de noviembre de 2008, en la cantidad de $72.750.000.- para el lote Nº 1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
