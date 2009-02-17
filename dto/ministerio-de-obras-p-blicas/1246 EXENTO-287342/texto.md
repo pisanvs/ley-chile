@@ -1,0 +1,7 @@
+@@
+
+Por Decreto Exento Nº 1246, de 10 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno Nºs 1, 2, 5, 8, 13, 14, 15, 17, 19, 20, 22, 24 y 26, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 29,00000 al Km.
+
+37,80000", que figuran a nombre de COMUNIDAD AGRÍCOLA LOS HUASCO ALTIN, rol de avalúo 903-49, superficies 1.303 M2., 329 M2., 917 M2., 702 M2., 6.286 M2., 311 M2., 2.617 M2., 775 M2., 718 M2., 659 M2., 2.743 M2., 2.983 M2. y 1.793 M2. La Comisión de Peritos, fijó con fecha 28 de febrero de 2007, en las cantidades de $260.600, para el lote Nº 1, $65.800, para el lote Nº 2, $183.400, para el lote Nº 5, $210.600, para el lote Nº 8, $1.257.200, para el lote Nº 13, $108.850, para el lote Nº 14, $523.400, para el lote Nº 15, $232.500, para el lote Nº 17, $299.300, para el lote Nº 19, $197.700, para el lote Nº 20, $960.050, para el lote Nº 22, $596.600, para el lote Nº 24 y $358.600, para el lote Nº 26. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+- Fiscal del Ministerio de Obras Públicas.
