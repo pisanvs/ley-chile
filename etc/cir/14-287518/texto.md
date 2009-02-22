@@ -1,0 +1,9 @@
+INSTRUCCIONES SOBRE DEVOLUCIÓN ANTICIPADA DE IMPUESTO AUTORIZADA POR EL ARTÍCULO 2º DE LA LEY Nº 20.326
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 14 de fecha 17 de febrero de 2009, que imparte instrucciones sobre devolución anticipada de impuesto autorizada por el artículo 2º de la ley Nº 20.326.
+
+En el Diario Oficial de fecha 29 de enero de 2009, se publicó la ley N° 20.326, la cual mediante su artículo 2°, autoriza la devolución anticipada de impuesto, en los términos que indica dicha norma, a aquellos contribuyentes del Impuesto Global Complementario a quienes en el año tributario 2009 les haya correspondido la devolución del saldo que resultó a su favor conforme a lo establecido en el artículo 97 de la Ley sobre Impuesto a la Renta, que hayan presentado ese año su declaración anual de impuestos, y así lo soliciten por medios electrónicos con anterioridad al 15 de septiembre de 2009, en la forma y plazo que establecerá el Servicio de Impuestos Internos mediante resolución.
+
+Mediante la presente Circular se imparten las instrucciones pertinentes relativas a los contribuyentes beneficiados con la devolución anticipada de impuestos, contribuyentes que no tienen derecho a dicha devolución; monto del anticipo a devolver; monto máximo hasta el cual procede; monto mínimo desde el cual no procede; fecha de pago del anticipo; declaración del anticipo de devolución, e información a los contribuyentes.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en febrero de 2009.
