@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 386 EXENTA, DE 2009
+
+Por resolución exenta Nº 386, de fecha 13 de febrero de 2009, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Organismo Técnico de Capacitación "Asyste Servicios de Capacitación Limitada" o "Asyste Consultores Ltda.", RUT Nº 77.805.400-0, representado legalmente por los señores Jaime Andrés Fernández Oyarce y Ramón Osvaldo Araya Cisternas, para impartir curso de capacitación para conductores que obtuvieron su licencia de conductor clases A1, con anterioridad al 8 de marzo de 1997, con el fin de optar a licencia de conductor profesional clase A3, el que tendrá su lugar de funcionamiento en calle Sazié Nº 2165, comuna de Santiago.
+
+- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana (S).
