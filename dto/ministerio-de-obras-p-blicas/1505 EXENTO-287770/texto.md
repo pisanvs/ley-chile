@@ -1,0 +1,5 @@
+@@
+
+Por decreto MOP (exento) Nº 1505 de 29 de diciembre de 2008, complementado por el decreto MOP (exento) Nº 347 de 10 de febrero de 2009, se dejó sin efecto el decreto (exento) MOP Nº 902 de 10 de noviembre de 2008, por no haber sido tramitado por la Contraloría General de la República, como asimismo se modificó el Nº 2 del decreto Nº 2431 de 23 de septiembre de 1964, en el sentido de que designan a los miembros de la comisión de hombres buenos, quienes deberán fijar la indemnización provisional para los lotes Nºs 2 al 10, necesarios para la ejecución de la obra "Variante Peuco, en camino Longitudinal Sur, sector Angostura", conforme al artículo 2º transitorio del DFL MOP Nº 850, de 1997.
+
+Fiscal del Ministerio de Obras Públicas.
