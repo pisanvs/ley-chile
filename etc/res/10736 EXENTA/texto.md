@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 10.736, 30 diciembre 2008, rectificada por resolución exenta 630 de 4 de febrero de 2009 Serviu Región del Bío Bío ordenó expropiación parcial inmueble ubicado en calle Daniel Belmar A 5 B 4, Boca Sur, Comuna San Pedro de la Paz, Rol de Avalúo Nº 15095-17, superficie 240,50 metros cuadrados de terreno, dentro polígono y linderos señalados plano expropiación S8R-22.279, de aparente dominio de Jorge J. Bachmann Muñoz, para ejecución programa "Recuperación de Barrios" comuna de San Pedro de la Paz, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por arquitecto Rubén Carlos Muñoz Vera, por la arquitecta María Alejandra Gutiérrez Flores, por el constructor civil Omar Andrés Aspé Neira, según informe de fecha 1 de diciembre de 2008, fijó monto provisional indemnización en $2.556.908, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
