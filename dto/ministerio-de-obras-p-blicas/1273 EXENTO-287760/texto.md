@@ -1,0 +1,5 @@
+@@
+
+Por decreto M.O.P. (Exento) Nº 1273 de 19 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la ley Nº 15.840, se expropió el lote de terreno Nº 11-D2 para la obra: Camino Ruta K-45, Sector Pelarco Huencuecho Sur, Tramo km. 0,00000 a km. 8,54141, que figura a nombre de QUINTEROS MUÑOZ SERGIO MARIO, rol de avalúo 81-312 de la Comuna de PELARCO, VII REGIÓN, superficie 422 m2. La Comisión de Peritos con fecha 28 de abril de 2008 fijó el monto de la indemnización provisional en la cantidad de $922.000.- para el lote N° 11-D2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
