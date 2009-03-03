@@ -1,0 +1,5 @@
+@@
+
+Por Decreto MOP Exento Nº 1276, de 19 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 6, para la obra: "Camino Melipeuco Icalma, Sector Melipeuco Tracura Km. 97,50000 al Km. 104,2038", Provincia de Cautín, Comuna de Melipeuco, IX Región", que figura a nombre de LABRANA YEVENES ERIKA MARGOT, rol de avalúo Nº 308-265, Comuna de Melipeuco, Región de la Araucanía, superficie 2.830 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 05 de mayo de 2000, complementada por acta de 01 de agosto de 2008, en la cantidad de $1.899.100.- para el lote Nº6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
