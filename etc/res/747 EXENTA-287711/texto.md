@@ -1,0 +1,3 @@
+Por resolución exenta Nº 747, de 24 de febrero de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207106053, presentada por EVA MARGA-RITA DÍAZ CÁRDENAS para instalar y operar un centro de cultivo ubicado en Bahía Huellonquén, al sureste de Punta Guacahué, Isla Cailín, X Región.
+
+Valparaíso, 24 de febrero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
