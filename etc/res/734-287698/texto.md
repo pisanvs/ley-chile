@@ -1,0 +1,3 @@
+Por resolución Nº 734, de 24 de febrero de 2009, de esta Subsecretaría, rectifícase el extracto de la resolución Nº 70 de 2009, de esta Subsecretaría, que autorizó a PEDRO MANUEL VEGANZONES CÁCERES para instalar colectores de semillas de mitílidos en sector Isla Cailin Bahía Huellonquén, al oeste de Punta Guacahué, Quellón, X Región, en el sentido de reemplazar la frase "1,08 hectáreas" por "4,83 hectáreas".
+
+Valparaíso, 24 de febrero de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
