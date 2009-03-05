@@ -1,0 +1,7 @@
+IMPARTE INSTRUCCIONES SOBRE LO ESTABLECIDO EN EL DECRETO Nº 1.354, PUBLICADO EN EL DIARIO OFICIAL DE 29 DE NOVIEMBRE DE 2008, QUE CONTIENE EL REGLAMENTO A QUE SE REFIERE LA LETRA F), DEL Nº 2, DEL ARTÍCULO 18 BIS, DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 16, de fecha 26 de febrero de 2009, que imparte instrucciones sobre lo establecido en el decreto supremo Nº 1.354, del Ministerio de Hacienda, publicado en el Diario Oficial de 29 de noviembre del año 2008, que aprobó el Reglamento a que se refiere la letra f), del Nº 2, del artículo 18 bis, de la Ley sobre Impuesto a la Renta, estableciendo en lo fundamental las características que deben cumplir los inversionistas institucionales extranjeros no comprendidos en las demás letras de dicho número, ello para los efectos de acceder a la exención del impuesto a la renta a que se refiere dicha disposición legal.
+
+Mediante la presente Circular se da a conocer el texto del decreto supremo Nº 1.354, del Ministerio de Hacienda, y, a la vez, se imparten instrucciones sobre la materia.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en febrero de 2009.
