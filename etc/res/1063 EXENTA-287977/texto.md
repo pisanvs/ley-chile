@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.063 EXENTA,DE 2008
+
+Por resolución exenta Nº 1.063, de fecha 16 de diciembre de 2008, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía, se autoriza el funcionamiento del Terminal de Buses Rurales, ubicado en Avda. Caupolicán esquina Ilabaca, de la comuna de Angol, de propiedad y representada por don Guillermo Javier Cea Rodríguez, RUT 9.060.463-5. El Representante del Terminal individualizado deberá dar cumplimiento a lo establecido en la Ordenanza Local aprobada por decreto exento Nº 1.485, de fecha 15 de diciembre de 2008, dictado por la Municipalidad de Angol, conforme a lo señalado en el art. 3º transitorio del DS 94/84, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes.
+
+Temuco, 17 de diciembre de 2008.- Vivianne Fernández Mora, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
