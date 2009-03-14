@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.022 EXENTA,DE 2009
+
+Por resolución exenta Nº 1.022, de 04.03.2009, del Ministerio de Transportes y Telecomunicaciones, se rectificó de oficio, de conformidad con lo dispuesto en el artículo 62º de la ley Nº 19.880, el llamado a concurso público para el otorgamiento de concesiones de radiodifusión sonora, correspondiente al Primer Cuatrimestre de 2009, publicado en la edición Nº 39.262 del Diario Oficial del día 15.01.2009, en el sentido de suprimir de la convocatoria en dicho concurso, en la tabla titulada "Solicitudes de Renovación", para todos los efectos que hubiere lugar y por los motivos indicados en la parte considerativa de la citada resolución, la concesión de radiodifusión sonora en mínima cobertura para la comuna de San Vicente, VI Región.-
+
+Jefe División Concesiones.
