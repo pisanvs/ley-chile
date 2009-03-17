@@ -1,0 +1,5 @@
+Por resolución exenta N° 819 de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta N° 174, modificado por resoluciones exentas N° 517 y N° 558, todas de 2009, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación en conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería de Merluza austral (Merluccius australis) en la Región de Los Lagos, Subzona Islas de Calbuco", en el sentido de indicar que los límites de captura autorizados para la Subzona Islas de Calbuco, período enero-diciembre de 2009 expresados en toneladas, serán los siguientes:
+
+NOTA: VER DIARIO OFICIAL DE 16.03.2009, PRIMER CUERPO, PAGINA 19
+
+Valparaíso, 5 de marzo de 2009.- Jorge Chocair Santibáñez Subsecretario de Pesca.
