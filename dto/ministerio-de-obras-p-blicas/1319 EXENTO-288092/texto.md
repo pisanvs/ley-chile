@@ -1,0 +1,5 @@
+@@
+
+Por Decreto Exento Nº 1319, de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno N°s 53, 55, 64-A y 76-C, para la obra "Reposición Ruta E-35, cruce Longitudinal Cabildo Petorca, sector III, tramo Km. 40,40000 a Km. 57,65500, comuna de Petorca y Provincia de Petorca, V Región", que figuran a nombre de HENRIQUEZ LARRAIN IRIS, ESTAY ESPINOZA JOSE HONORIO y FISCO ESTACION PETORCA, roles de avalúo 410-2, 137-7 y 136-6, superficies 228 M2., 251 M2., 75 M2. y 914 M2. La Comisión de Peritos, fijó con fecha 18 de junio de 2007, en las cantidades de $1.366.450, para el lote N°53 y $2.310.900, para el lote Nº55; con fecha 11 de octubre de 2007, en la cantidad de $1.478.500, para el lote Nº64-A y con fecha 23 de julio de 2008, en la cantidad de $3.076.200, para el lote Nº76-C. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
