@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 10.741, de 30 diciembre de 2008 Serviu Región del Bío Bío; ordenó expropiación parcial inmueble ubicado en Av. Daniel Belmar LT A 5 B 3, sector Boca Sur, Rol de Avalúo Nº 15.095-16, comuna de San Pedro de la Paz, de aparente dominio de Bachmann Millaleo, Patricia. La superficie afecta expropiación es de 193,68 m2 de terreno, obras complementarias y especies dentro de polígono y linderos señalados en plano de expropiación S8R-22.278, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Omar Aspe Neira, María Gutiérrez Flores y Rubén Muñoz Vera, según informe de 1 de diciembre de 2008 fijó la indemnización provisional parcial de terreno en la suma de $2.560.739, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
