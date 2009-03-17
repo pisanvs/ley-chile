@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 10.742, de 30 diciembre de 2008, Serviu Región del Bío Bío, ordenó expropiación parcial inmueble ubicado en calle Daniel Belmar Nº 235, sector Boca Sur, Rol de Avalúo Nº sin información, comuna de San Pedro de la Paz, actualmente en uso por parte de Maquinarias Lonco. La superficie afecta expropiación es de 1.147,14 m² de terreno, y 4,00 m² de edificación, obras complementarias y especies dentro de polígono y linderos señalados en plano de expropiación S8R-22.290, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D. L. Nº 2.186. Comisión peritos integrada por Omar Aspe Neira, María Gutiérrez Flores y Rubén Muñoz Vera, según informe de 1 de diciembre de 2008 fijó la indemnización provisional parcial de terreno en la suma de $23.691.779, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
