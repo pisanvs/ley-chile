@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Nº 10.740, de 30 diciembre de 2008, Serviu Región del Bío Bío; ordenó expropiación parcial inmueble ubicado en camino Boca Sur, sector Boca Sur, Rol de Avalúo Nº 15.008-52, comuna de San Pedro de la Paz, de aparente dominio de Soc. Pesquera Viento Sur Ltda. La superficie afecta expropiación es de 10.443,2 m2 de terreno, 136,70 m2 de edificación, obras complementarias y especies vegetales dentro de polígono y linderos señalados plano de expropiación Nº S8R-22.212, para ejecución del proyecto Programa de Recuperación de Barrios-Barrio Boca Sur, comuna de San Pedro de la Paz, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por E. Eduardo Rivera Gajardo, Fernando Cerda Espinosa y Guillermo Villafañe Feres, según informe de 2 de diciembre de 2008 fijó la indemnización provisional parcial de terreno y edificación en la suma de $340.385.361, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
