@@ -1,0 +1,5 @@
+@@
+
+Por Decreto M.O.P. (Exento) Nº 1318 de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 71-A para la obra: Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M-Carrizal, Tramo km. 0,50000 a km. 17,34000, que figura a nombre de VERONICA ROMERO CANALES, rol de avalúo EN TRAMITE de la Comuna de SAN JAVIER, VII REGION, superficie 165 m2. La Comisión de Peritos con fecha 29 de julio de 2008, fijó el monto de la indemnización provisional en la cantidad de $651.750.- para el lote Nº 71-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
