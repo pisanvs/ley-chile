@@ -1,0 +1,5 @@
+@@
+
+Por Decreto MOP. Nº 709, de 16 de septiembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno N°s 31, 33 y 34, para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui Horcón", que figuran a nombre de SUCESION ERNESTO MUNIZAGA PERE, rol de avalúo 70-47, comuna de Paihuano, Provincia de Elqui, Región de Coquimbo, superficies 3.084 M2., 1.957 M2. y 1.109 M2. La Comisión de Peritos, fijó con fecha 3 de julio de 2007, en las cantidades de $6.459.600, para el lote N°31, $4.385.600, para el lote Nº33 y $4.092.200, para el lote Nº34. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
