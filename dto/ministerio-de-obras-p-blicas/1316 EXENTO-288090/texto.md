@@ -1,0 +1,5 @@
+@@
+
+Por Decreto Exento Nº 1316, de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral segundo del Decreto Exento Nº1079, de 20 de octubre de 2008, en la parte que se refiere al lote Nº30, que figura a nombre de GALLARDO TAPIA RIGOBERTO Y OTS, rol de avaluo 434-74, superficie 386 M2. La Comisión de Peritos, fijó con fecha 21 de abril de 2008, en la cantidad de $221.700, para la ejecución de las obras del Proyecto Embalse El Bato, "Canal Nuevo Cocinera", Comuna de Illapel, Provincia de Choapa, Región de Coquimbo. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
