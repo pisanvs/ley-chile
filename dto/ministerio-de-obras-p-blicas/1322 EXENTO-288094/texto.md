@@ -1,0 +1,5 @@
+@@
+
+Por Decreto Exento Nº 1322, de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 4, para la obra "Camino Costero Sur, Sector Bahía Mansa Estero Quilhue (Río Llesquehue Caleta El Manzano), tramo Km. 0,00000 a Km. 10,42000, Comuna San Juan de la Costa, Provincia de Osorno, Xª Región", que figura a nombre de I MUNICIPALIDAD DE SAN JUAN DE LA COSTA, rol de avalúo 4219-245, superficie 923 M2. La Comisión de Peritos, fijó con fecha 22 de marzo de 2006, complementada por acta de fecha 2 de agosto de 2007, en la cantidad de $4.572.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
