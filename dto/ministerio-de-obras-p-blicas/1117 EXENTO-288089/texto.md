@@ -1,0 +1,5 @@
+@@
+
+Por Decreto Exento Nº 1117, de 29 de octubre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno N°s 4-A, 8-A, 8-B, 9-A y 9-B, para la obra "Reposición Pav. Ruta 45 Cruce Long. (Socos) Ovalle, Km. 0,50730 a Km. 34,26924", que figuran a nombre de GONZALEZ CASTILLO ANTONIA, CANIHUANTE M PATRICIO A Y OTRO, MANRIQUEZ MUNDACA MARIA SOLEDAD y CACERES ALVAREZ JORGE E Y OTRO, roles de avalúo 485-5, 470-100, 470-99 y 470-98, comuna de Ovalle, Provincia de Limarí, Región de Coquimbo, superficies 604 M2., 1.391 M2., 987 M2., 292 M2. y 427 M2. La Comisión de Peritos, fijó con fecha 6 de noviembre de 2007, en las cantidades de $780.800, para el lote N°4-A, $882.600, para el lote Nº8-A, $640.200, para el lote Nº8-B, $449.720, para el lote Nº9-A y $548.570, para el lote Nº9-B. Las indemnizaciones se pagarán al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
