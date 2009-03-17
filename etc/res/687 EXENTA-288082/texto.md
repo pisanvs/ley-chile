@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta 687, de 6 febrero 2009, Serviu Región del Bío Bío ordenó expropiación parcial de facultades de uso y goce de inmueble ubicado en Av. Alemania Nº 563 Int. Villa Montecea, Rol de Avalúo Nº 452-21, comuna de Los Ángeles, superficie 187,25 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-22.309, de aparente dominio de Martínez Solar, Jorge Hema y Otros, para ejecución del proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Ángeles-Av. Alemania", comuna de Los Ángeles, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión peritos integrada por Claudia Marzullo García, arquitecta, Cecilia Carrasco Verdugo, arquitecta y Mario Bellolio Bosticca, arquitecto, según informe de fecha 1 de diciembre 2008, fijó monto provisional indemnización en $7.714.700, pagadera de contado.-
+
+Director Serviu Región del Bío Bío.
