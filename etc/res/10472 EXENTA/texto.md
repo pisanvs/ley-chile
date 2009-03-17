@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución Exenta 10.472, 18 diciembre 2008, rectificada por resolución exenta Nº 768, 11 febrero de 2009, Serviu Región del Bío Bío ordenó expropiación parcial de facultades de uso y goce de inmueble ubicado en Av. Alemania 489 LTA. calle, Rol de Avalúo Nº 452-20 (Lote 2), comuna de Los Ángeles, superficie 94,77 m2 de terreno, dentro de polígono y linderos señalados plano de expropiación S8R-22.310, de aparente dominio de Luhr Fernández Norma del Carmen, para ejecución del proyecto "Mejoramiento Accesos a la ciudad de Santa María de Los Ángeles - Av. Alemania", comuna de Los Ángeles, conforme artículo 51 ley Nº 16.391 y D.L. Nº 2.186. Comisión Peritos integrada por Claudia Marzullo García, arquitecta, Cecilia Carrasco Verdugo, arquitecta y Mario Bellolio Bosticca, arquitecto, según informe de fecha 01 de diciembre 2008, fijó monto provisional indemnización en $1.952.262.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
