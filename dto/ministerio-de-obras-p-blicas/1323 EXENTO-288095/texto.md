@@ -1,0 +1,7 @@
+@@
+
+Por Decreto Exento Nº 1323, de 28 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropiaron los lotes de terreno N°s 1, 2, 19, 22, 23, 24, 27, 28, 29 y 31, para la obra "Camino Ruta A-123 (Red Vial Andina), Sector Parinacota Visviri, Tramo Km. 0,00000 a Km.
+
+90,39127, comunas de Putre y General Lagos, Provincia de Parinacota, XV Región de Arica y Parinacota, Subtramo IV, del Km. 0,00000 al Km. 23,88200", que figuran a nombre de SUC. MOLLO MOLLO SIMON, MOLLO NORIEGA ANTONIO, HUAYLLA VILLALOBOS ALBERTO Y OTRO, POMA PACO FLORENTINA y GUTIERREZ LLUSCO MARIANO, roles de avalúo 4120-37, 4120-38, 4120-41, 4130-5 y 4130-18, superficies 12.408,70 M2., 15.140,20 M2., 18.942,90 M2., 11.472,70 M2., 11.507,60 M2., 15.069,90 M2., 23.378,00 M2., 13.663,50 M2., 41.276,50 M2., 29.830,90 M2. La Comisión de Peritos, en junio de 2006, fijó las indemnizaciones en las cantidades de $3.722.610, para el lote Nº1, $4.542.060, para el lote Nº2, $5.682.870, para el lote Nº19, $3.441.810, para el lote Nº22, $3.452.280, para el lote Nº23, $5.420.970, para el lote Nº24, $7.013.400, para el lote Nº27, $4.099.050, para el lote Nº28, $12.382.950, para el lote Nº29 y $8.949.270, para el lote Nº31. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
