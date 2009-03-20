@@ -1,0 +1,9 @@
+CERTIFICA CUMPLIMIENTO DE LAS OBRAS E INSTALACIONES CONTEMPLADAS EN EL PROYECTO INTEGRAL DE LA SOCIEDAD OPERADORA CASINO DE JUEGOS PUNTA ARENAS S.A., EN LA COMUNA DE PUNTA ARENAS, EN LA XII REGIÓN DE MAGALLANES Y LA ANTÁRTICA CHILENA
+
+El Superintendente de Casinos de Juego (S), Sr. Fernando Riveros Vidal, de conformidad con lo dispuesto en el artículo 28 de la ley N°19.995 y el artículo 37 del decreto supremo N°211, de 2005, del Ministerio de Hacienda, hoy 13 de marzo de 2009 certifica lo siguiente:
+
+1. Casino de Juegos Punta Arenas S.A. ha dado cumplimiento a las obligaciones que la ley N°19.995 y sus reglamentos establecen respecto de la ejecución de las obras e instalaciones contempladas en el proyecto integral que le fuera autorizado y que ha sido desarrollado conforme a las condiciones establecidas en el permiso de operación otorgado a través del Acuerdo N°2 del acta de la sesión del Consejo Resolutivo de la XII Región de Magallanes y la Antártica Chilena, el 11 de julio de 2006, y de la resolución exenta N°172, de 21 de julio de 2006, de la Superintendencia de Casinos de Juego y sus modificaciones posteriores.
+
+2. A contar de la fecha del presente certificado las sociedades Servicios Hoteleros y Turísticos S.A., Servicios Gastronómicos y Spa Turístico S.A. y Eventos y Convenciones Turísticas S.A., se encuentran habilitadas, respectivamente, para dar inicio a la operación del hotel y el centro de entretenimientos para niños, el spa y los puestos de artesanía, y el business center, el centro de convenciones y el área de exposiciones histórica del proyecto integral de la sociedad operadora Casino de Juegos Punta Arenas S.A.-
+
+Fernando Riveros Vidal, Superintendente de Casinos de Juego (S).
