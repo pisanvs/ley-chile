@@ -4010,25 +4010,15 @@ c) Los bancos pueden cobrar comisiones por el manejo de las cuentas.
 
 2.2. Apertura de las cuentas.
 
-2.2.1. Contrato de apertura.
+2.2.1. Condiciones Generales de Apertura v suscripción de contratos.
 
-Para la apertura de "Cuentas a la vista" se deberá suscribir un contrato entre el banco y el cliente, en el que consten las condiciones a las que estarán sujetas dichas cuentas. Copia de ese contrato debe ser entregado al titular de la cuenta.
+Para operar con "Cuentas a la vista", los bancos deberán aprobar y protocolizar ante Notario Público las Condiciones Generales de Apertura de Cuentas a la Vista. Estas condiciones generales deberán estar disponibles para consulta del público en el sitio web de la respectiva institución, sin perjuicio de mantener también ejemplares físicos en sus oficinas a disposición de los interesados.
 
-Entre las condiciones que constarán en el contrato, deberán incluirse las siguientes:
+Para abrir una cuenta se deberá suscribir un contrato entre el banco y el cliente, en que se hará referencia expresa al documento protocolizado que contenga las "Condiciones Generales de Apertura de Cuentas a la Vista" que corresponda.
 
-a) La especificación de que se trata de una cuenta de depósito a la vista que no devenga intereses ni reajustes. No obstante, tratándose de cuentas en moneda nacional podrá convenirse el pago de intereses, según lo señalado en la letra a) del numeral 2.1 anterior, caso en que deberá dejarse expresa constancia de ello y de las condiciones que regirán el devengo de intereses debiendo, además mantenerse una identificación que permita distinguir estas cuentas, de aquéllas que no devengarán intereses.
+El contenido del contrato, junto con las condiciones generales a las que hace referencia, corresponderá al dispuesto en el Capítulo III.B.1.1 antes mencionado, sin perjuicio de agregar las cláusulas adicionales que sean necesarias para referirse a las características particulares de la cuenta que se contrata.
 
-b) La facultad del banco de poner término a la cuenta, así como la manera en que los fondos quedarán a disposición del titular si se ejerciera dicha facultad y la forma en que se avisará a este último del cierre de la cuenta.
-
-c) El derecho del banco de cobrar comisión y la manera en que comunicará la modalidad de cobro, las tarifas y sus modificaciones.
-
-d) Los procedimientos que debe seguir el titular en caso de extravío de la tarjeta que permite el acceso al sistema automatizado, si la cuenta se encuentra adscrita a tal sistema.
-
-En los contratos los bancos pueden convenir con los titulares las demás condiciones que estimen pertinentes, siempre que no se opongan a lo dispuesto en el Capítulo III.B.1.1 del Compendio de Normas Financieras del Banco Central de Chile, ni a las normas de esta Superintendencia.
-
-En el caso de acordarse el pago de intereses por los saldos mantenidos en estas cuentas, deberá agregarse en el correspondiente contrato una cláusula que estipule dicho pago y si éste fuere condicionado a la mantención de un determinado saldo mínimo promedio mensual, deberá señalarse tal condición, indicando el monto de éste, así como la tasa de interés que se devengará.
-
-Además de las condiciones generales que deben señalarse en el contrato, los bancos deberán informar a los titulares, al momento de la apertura de la cuenta, la situación que la afecta en caso de fallecimiento del titular y los límites de garantía estatal a los depósitos, acorde con lo establecido en el Capítulo 18-8 de esta Recopilación, lo que también podrá quedar señalado, a modo de información, en los respectivos contratos.
+Copia de contrato deberá entregarse al titular de la cuenta.
 
 2.2.2. Registro y verificación de los antecedentes básicos.
 
@@ -4037,10 +4027,6 @@ Para la apertura de las cuentas deben verificarse y registrarse al menos los sig
 a) Número asignado a la cuenta;
 
 b) Nombre completo;
-
-## Capítulo 2-6
-
-Hoja 5
 
 c) Número de cédula de identidad del titular o, en el caso de personas jurídicas, de los apoderados;
 
@@ -4056,17 +4042,13 @@ En todo caso, cuando se trate de cuentas abiertas a nombre de personas jurídica
 
 Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inicial.
 
-2.2.4. Información al Público sobre pago de intereses.
+2.2.4. Apertura de cuentas mediante firmas electrónicas.
 
-Los bancos que acuerden el pago de intereses por los saldos mantenidos en cuentas a la vista en moneda nacional, deberán informar en pizarra la tasa de interés que pagarán por esos saldos, expresada en términos anuales, sobre base de 360 días, como también las condiciones que puedan exigirse para recibir ese beneficio como, por ejemplo, el requisito de mantener un determinado saldo mínimo. Asimismo, deberán informar que el abono de los intereses se hará mensualmente, calculados sobre los saldos mantenidos en el mes precedente.
+De acuerdo con lo establecido en el Capítulo III.B.1.1 antes mencionado, la apertura de las cuentas puede realizarse utilizando firmas electrónicas, siempre que el Directorio, bajo su expresa responsabilidad, haya aprobado las políticas, procedimientos y sistemas para gestionar los riesgos legales y operacionales y prevenir la comisión de delitos.
 
-En el caso que el banco cobre, por otra parte, comisiones por los servicios relacionados con esas cuentas, según lo indicado en el numeral 2.6 del presente título, y esos cobros afecten a las cuentas que devengan intereses, deberá complementarse la información sobre la tasa de interés, con la relativa a las comisiones que las afectan y los conceptos por los cuales se aplicarán (administración de la cuenta; entrega de "cartola"; uso de cajero automático; etc.). En los casos que proceda, deberá informarse la periodicidad que cubre cada cobro, de modo que los interesados puedan tener conocimiento tanto del beneficio que reciben por los intereses que se le abonarán, como de los costos que deban pagar por concepto de las distintas comisiones, sea por la mantención de la cuenta como por las operaciones que se efectúan en relación con ella.
+Dichas normas permiten, no obstante lo indicado en los numerales precedentes, operar de inmediato las cuentas bajo ciertas condiciones que, en todo caso, deberán incluir limitaciones en los montos, disponiéndose de un plazo de 30 días a contar de la fecha del primer depósito para realizar la suscripción y las verificaciones necesarias para mantener abierta la cuenta.
 
-Sin perjuicio de esa información general, las instituciones depositarias deberán informar mediante avisos en sus oficinas, con una anticipación mínima de cinco días a la fecha de su vigencia, cualquier cambio que se haga a las tasas de interés vigentes. Ese aviso podrá omitirse cuando se trate de un aumento de la tasa vigente.
-
-En la publicidad que se haga en medios escritos deberá incluirse la misma información antedicha. Cuando se trate de publicidad en medios audiovisuales se podrá informar la tasa nominal ofrecida adicionada, en los casos que corresponda, de una leyenda que recomiende informarse sobre las comisiones a que están afectas las cuentas a la vista.
-
-Por otra parte, las instituciones que mantengan una página "web", deberán presentar en ella, en un sitio que sea de fácil acceso y ubicación, la información a que se refiere este numeral, incluyendo a modo ilustrativo, uno o más ejemplos que muestren la rentabilidad neta que se obtiene por aplicación de la tasa de interés ofrecida, menos los gastos a que, por concepto de comisiones pudieren estar afectas esas cuentas.
+El Directorio deberá además adoptar las medidas para mantenerse informado de los riesgos de estas operaciones, especialmente en lo que toca al funcionamiento de los controles para la prevención del lavado de activos de que trata el Capítulo 1-14 de esta Recopilación.
 
 2.3. Utilización de sistemas de transferencia electrónica de fondos.
 
@@ -4100,13 +4082,25 @@ b) Los bancos que cobren comisiones por las cuentas a la vista deberán informar
 
 c) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
 
-2.7. Desahucio o cierre de una cuenta.
+2.7. Información al Público sobre pago de intereses.
+
+Los bancos que acuerden el pago de intereses por los saldos mantenidos en cuentas a la vista en moneda nacional, deberán informar en pizarra la tasa de interés que pagarán por esos saldos, expresada en términos anuales, sobre base de 360 días, como también las condiciones que puedan exigirse para recibir ese beneficio como, por ejemplo, el requisito de mantener un determinado saldo mínimo. Asimismo, deberán informar que el abono de los intereses se hará mensualmente, calculados sobre los saldos mantenidos en el mes precedente.
+
+En el caso que el banco cobre, por otra parte, comisiones por los servicios relacionados con esas cuentas, según lo indicado en el numeral 2.6 del presente título, y esos cobros afecten a las cuentas que devengan intereses, deberá complementarse la información sobre la tasa de interés, con la relativa a las comisiones que las afectan y los conceptos por los cuales se aplicarán (administración de la cuenta; entrega de "cartola"; uso de cajero automático; etc.). En los casos que proceda, deberá informarse la periodicidad que cubre cada cobro, de modo que los interesados puedan tener conocimiento tanto del beneficio que reciben por los intereses que se le abonarán, como de los costos que deban pagar por concepto de las distintas comisiones, sea por la mantención de la cuenta como por las operaciones que se efectúan en relación con ella.
+
+Sin perjuicio de esa información general, las instituciones depositarias deberán informar mediante avisos en sus oficinas, con una anticipación mínima de cinco días a la fecha de su vigencia, cualquier cambio que se haga a las tasas de interés vigentes. Ese aviso podrá omitirse cuando se trate de un aumento de la tasa vigente.
+
+En la publicidad que se haga en medios escritos deberá incluirse la misma información antedicha. Cuando se trate de publicidad en medios audiovisuales se podrá informar la tasa nominal ofrecida adicionada, en los casos que corresponda, de una leyenda que recomiende informarse sobre las comisiones a que están afectas las cuentas a la vista.
+
+Por otra parte, las instituciones que mantengan una página "web", deberán presentar en ella, en un sitio que sea de fácil acceso y ubicación, la información a que se refiere este numeral, incluyendo a modo ilustrativo, uno o más ejemplos que muestren la rentabilidad neta que se obtiene por aplicación de la tasa de interés ofrecida, menos los gastos a que, por concepto de comisiones pudieren estar afectas esas cuentas.
+
+2.8. Desahucio o cierre de una cuenta.
 
 Las cuentas de depósito a la vista son de plazo indefinido por lo que sus saldos, mientras esté vigente la cuenta, no quedan sujetos a caducidad.
 
 Para cerrar una cuenta por decisión unilateral del banco depositario, sea porque haya quedado sin saldo o por cualquier otra razón, deberá enviarse un aviso en tal sentido al titular informándole, cuando así corresponda, de la oportunidad en que deberá retirar el saldo que mantuviere.
 
-2.8. Envío periódico del estado de movimiento y saldos.
+2.9. Envío periódico del estado de movimiento y saldos.
 
 Conforme a lo dispuesto en el Capítulo III.B.1.1 del Compendio de Normas Financieras del Banco Central de Chile, las instituciones depositarias deberán enviar periódicamente a los titulares, estados numerados correlativamente con los movimientos y saldo de las cuentas.
 
@@ -4118,7 +4112,7 @@ b) El estado deberá contener al menos la siguiente información: i) número del
 
 c) El estado se enviará por carta al domicilio registrado del titular, salvo que se acuerde con el cliente otra dirección o bien su entrega en un documento magnético por correo electrónico.
 
-2.9. Cuentas abiertas a personas residentes en el exterior.
+2.10. Cuentas abiertas a personas residentes en el exterior.
 
 Los bancos podrán abrir cuentas de depósito a la vista a personas naturales o jurídicas residentes en el exterior, prescindiendo del requisito de exigencia del Rol Único Tributario (RUT) mencionado en el Capítulo 20-1 de esta Recopilación.
 
@@ -4126,13 +4120,21 @@ La finalidad fundamental de estas cuentas, será atender pagos que su titular de
 
 En todo caso, el banco que proceda a abrir una cuenta de esta naturaleza, deberá reunir y mantener los antecedentes mínimos que permitan identificar al titular de ella, su actividad, las condiciones convenidas bajo las cuales operará la cuenta y el objeto de la misma.
 
-2.10. Aplicación de otras disposiciones.
+2.11. Aplicación de otras disposiciones.
 
 Las "Cuentas a la Vista" utilizadas para operar tarjetas de débito, quedan sujetas a las instrucciones complementarias señaladas en el Capítulo 2-15 de esta Recopilación Actualizada de Normas.
 
 Como es natural, a las cuentas de que trata este título les son aplicables todas las instrucciones generales que afectan a depósitos y captaciones, tales como las relativas al encaje, reserva técnica, prohibición de ofrecer otros beneficios apreciables en dinero a los titulares, distintos al pago de intereses en los casos que corresponda, etc.
 
 Por las razones expresadas en el Capítulo 2-4 de esta Recopilación para las cuentas de ahorro, también resulta aplicable para las "Cuentas a la vista" la recomendación de esta Superintendencia en orden a abstenerse de recibir su saldo en garantía, la que, en todo caso, no es válida para los efectos de los límites de crédito del artículo 84 de la Ley General de Bancos.
+
+2.12. Disposiciones transitorias.
+
+Para la aplicación de las nuevas normas introducidas al Compendio de Normas Financieras por Acuerdo N° 1457-04-090122 del Consejo del Banco Central de Chile, se dispone lo siguiente:
+
+Los bancos tendrán plazo hasta el 31 de mayo de 2009 para establecer, protocolizar e informar en el sitio web las Condiciones Generales para la Apertura de Cuentas a la Vista, como asimismo para operar con contratos que contengan todas las condiciones exigidas en el Capítulo III.B.1.1 del Compendio de Normas Financieras.
+
+Aquellos bancos que hayan utilizado firmas electrónicas para la apertura de cuentas vista, deberán ajustar todas las cuentas que hayan abierto bajo esa modalidad a las normas del Capítulo III.B.1.1, para lo cual dispondrán de un plazo hasta del 30 de diciembre de 2009. De acuerdo con lo indicado en la disposición transitoria de dicho Capítulo, el plan de ajuste que se establezca deberá ser informado a esta Superintendencia a más tardar el 22 de abril de 2009.
 
 ## Capítulo 2-8
 
