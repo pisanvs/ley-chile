@@ -12,9 +12,11 @@ Núm. 1.019 exenta.- Visto:
 
 Resolución:
 
-1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, durante los meses de marzo, abril, mayo, junio y septiembre del año 2009, con excepción del mes de Junio donde podrán postular proyectos que cuenten con Certificado de Calificación hasta el 1° de Julio de 2009 inclusive.
+1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, a partir del mes de marzo hasta el mes de noviembre.
 
 2. Los recursos asignados para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta Resolución se distribuyen regionalmente, según el siguiente cuadro:
+
+VER DIARIO OFICIAL DE 26.02.2009, PÁGINA 6.
 
 El número de proyectos seleccionados en cada Región cada mes alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a cada selección mensual, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan, hasta completar el total de sus recursos.
 
@@ -27,8 +29,6 @@ El número de proyectos seleccionados en cada Región cada mes alcanzará hasta 
 6. Los proyectos deberán ingresarse en las Oficinas de Partes del SERVIU correspondiente a la región en la que se postula o de sus Delegaciones Provinciales, según proceda.
 
 7. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los SERVIU en los términos previstos en el D.S. N° 255 (V. y U.), de 2006.
-
-> **Nota.** La Resolución 7228 Exenta, Vivienda, publicado el 19.10.2009, posterga, hasta el día 30 de octubre de 2009, la fecha de inicio del proceso de selección correspondiente al mes de septiembre de 2009 definida en el punto resolutivo 1 de la esta norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
