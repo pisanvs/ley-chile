@@ -1,0 +1,5 @@
+@@
+
+Por resolución exenta Nº 992, de 18 de marzo de 2009, de esta Subsecretaría, modifícase el numeral 12.- de la resolución exenta Nº 3.613 de 2007 que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE para efectuar una pesca de investigación de conforme Términos Técnicos de Referencia del Proyecto "Caracterización de la pesquería de Algas Pardas de las Regiones XV a IV", en el sentido de reemplazar su numeral 12.- por el siguiente: "Para efectos de la recolección y extracción de los ejemplares señalados en el numeral 6º de la presente resolución, se exceptúa el cumplimiento de las vedas extractivas establecidas mediante decretos exentos Nº 1.614 de 2007 y Nº 1.347 de 2008, ambos del Ministerio de Economía, Fomento y Reconstrucción".
+
+Valparaíso, 18 de marzo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
