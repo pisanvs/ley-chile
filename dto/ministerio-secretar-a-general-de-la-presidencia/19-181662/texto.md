@@ -68,6 +68,8 @@ Delégase en los Ministros de Estado la facultad de suscribir, bajo la fórmula 
 
 27.- Los que para cada año calendario, fijen los equipos, unidades o áreas de trabajo de los Ministerios y servicios Públicos, y sus respectivas metas de gestión, que dispone la ley Nº 19.553, modificada por la ley Nº 19.882, con el objeto otorgar a los funcionarios el pago del incremento de desempeño colectivo que forma parte de la asignación de modernización establecida en dicha ley.
 
+28. Disponer aportes o transferencias, con o sin convenio, de los recursos que considere anualmente la Ley de Presupuestos, con excepción de aquellos que de conformidad a la ley citada deban distribuirse directamente por las Subsecretarías correspondientes.
+
 ### II. MINISTERIO DEL INTERIOR
 
 1. Determinación de balnearios y lugares de turismo para el expendio de bebidas alcohólicas, de conformidad con el artículo 28º del D.L. Nº 3.063, de 1979.
