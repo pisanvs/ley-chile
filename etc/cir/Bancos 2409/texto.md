@@ -9286,6 +9286,12 @@ Los bancos podrán realizar inversiones en los bienes recibidos o adjudicados en
 
 Cualquier inversión o gasto que, por su monto o naturaleza no cumpla con lo indicado en los números precedentes, requerirá la autorización previa de esta Superintendencia, a la cual deberán enviarse los antecedentes pertinentes. De igual manera, deberá consultarse a este Organismo antes de contraer compromisos, cuando los montos de los desembolsos representan porcentajes anormales en relación con el valor del bien recibido, cuando los servicios o insumos se adquieran en condiciones diferentes a las de mercado, o en el caso que en tales compromisos intervengan personas relacionadas con la propiedad o gestión del banco.
 
+6.5. Disposiciones transitorias.
+
+El plazo adicional de 18 meses a que se refiere el numeral 3.2 de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes que se hayan recibidos o adjudicados en pago desde el 1 de marzo de 2008 hasta el 31 de marzo de 2010."
+
+Se autoriza además a los bancos que hagan uso de ese plazo adicional, para que el castigo que deben efectuar se realice en parcialidades, debiendo encontrarse castigado al menos una proporción del valor del bien equivalente a la relación entre la cantidad de meses transcurridos desde la fecha de su recepción y el número de meses comprendidos entre esa fecha y aquella que el banco fije para su enajenación al amparo del plazo adicional otorgado.
+
 ## Capítulo 10-2
 
 COLOCACIÓN DE ACCIONES DE PRIMERA EMISIÓN POR CUENTA DE TERCEROS.
@@ -10387,6 +10393,8 @@ Los activos que se identifiquen como "goodwill" originados antes de la fecha en 
 ### 2. Cómputo de provisiones como patrimonio efectivo
 
 Mientras no entren en vigor las normas del Capítulo B-1 del Compendio de normas Contables, las provisiones adicionales a que se refiere la letra b) del numeral 3.1.1 del título I de este Capítulo, deben entenderse referidas a las provisiones adicionales que se trataron en el Capítulo 7-10 de esta Recopilación. En todo caso, a contar del mes de enero de 2008, estas provisiones adicionales serán las únicas que se computarán como patrimonio efectivo.
+
+Junto con lo anterior, desde el mes de abril de 2009 hasta el mes de diciembre de 2010, podrá sumarse a las provisiones adicionales a que se refiere el párrafo precedente y dentro del límite del 1,25% señalado en la referida letra b), un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, cuando dichas garantías correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE. A partir del 31 de enero de 2011, aquel porcentaje disminuirá linealmente el último día de cada mes, en 12 mensualidades iguales y sucesivas.
 
 ### 3. Créditos contingentes
 
