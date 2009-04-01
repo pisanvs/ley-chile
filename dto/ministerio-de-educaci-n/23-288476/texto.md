@@ -1,0 +1,11 @@
+EXTRACTO DE DECRETO Nº 23, DE 2009
+
+Por decreto de Educación Nº 23, de fecha 23 de enero de 2009, se ha aprobado convenio de fecha 14 de enero de 2009, celebrado entre el Ministerio de Educación y el Instituto de Educación Rural, en virtud del cual, y de conformidad con lo dispuesto en el DL Nº 3.166, de 1980, y su Reglamento, fijado por el decreto supremo de Educación Nº 5.077, del mismo año, el Ministerio entrega a la fundación aludida la administración delegada del Liceo Politécnico Juan Terrier Dailly (Ex A-1), obligándose ésta a ejecutarla directamente respecto del Establecimiento Educacional mencionado con el propósito de obtener un mejoramiento cualitativo de la enseñanza media técnica profesional y la formación y capacitación de técnicos de nivel medio más eficientes, por un período de 3 (tres) años calendario.
+
+El Establecimiento Educacional cuya administración se delega cuenta, a la fecha del presente convenio, con 39 cursos, una matrícula de 1.582 alumnos al mes de abril de 2008 y las siguientes especialidades: Administración; Administración Adultos; Contabilidad Adultos; Mecánica Industrial; Mecánica Automotriz; Electricidad; Construcciones Metálicas; Edificación; Terminaciones de Construcción; Vestuario y Confección Textil y Atención de Párvulos.
+
+En virtud del citado convenio el Ministerio entrega a la fundación en comodato y concede el uso gratuito a ésta del inmueble en el que se emplaza el Liceo Politécnico Juan Terrier Dailly (Ex A-1), ubicado en calle Yungay Nº 1154, comuna de Curicó, que comprende tanto los edificios y construcciones, como el predio o terreno, así como los bienes muebles que figuran en el inventario levantado al efecto, todos los que estarán destinados al uso exclusivo de la administración que se ha delegado, de conformidad con las cláusulas pertinentes del convenio suscrito y la normativa vigente.
+
+El Ministerio de Educación entregará anualmente recursos a la fundación para financiar la operación y funcionamiento del Establecimiento Educacional cuya administración se delega, de conformidad con lo establecido en la cláusula del convenio suscrito al efecto.
+
+Santiago, 24 de marzo de 2009.- Cristián Martínez Ahumada, Subsecretario de Educación.
