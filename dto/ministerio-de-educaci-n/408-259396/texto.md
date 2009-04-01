@@ -16,11 +16,11 @@ La ejecución de los fondos destinados a financiar las Prácticas Profesionales 
 
 Habrá una bonificación destinada a financiar las prácticas profesionales de los estudiantes de enseñanza media técnico profesional y que se matriculen en el plan de práctica supervisada de los establecimientos educacionales regidos por el D.F.L. (Ed.) Nº 2, de 1998, y decreto ley Nº 3.166, de 1980.
 
-"La Bonificación" consistirá en un beneficio de carácter pecuniario que el Estado otorgará, a través del Ministerio de Educación, y estará destinado a brindar apoyo económico para que los estudiantes puedan finalizar el proceso formativo de nivel medio técnico profesional, ampliando sus oportunidades de desarrollo e inserción laboral y serán beneficiarios aquellos que cumplan con los requisitos establecidos en el presente reglamento.
+"La Bonificación" consistirá en un beneficio de carácter pecuniario que el Estado otorgará, través de la Junta Nacional de Auxilio Escolar y Becas, y estará destinado a brindar apoyo económico para que los estudiantes puedan finalizar el proceso formativo de nivel medio técnico profesional, ampliando sus oportunidades de desarrollo e inserción laboral y serán beneficiarios aquellos que cumplan con los requisitos establecidos en el presente reglamento.
 
 #### Artículo 2º
 
-"La Bonificación", para el año 2007, ascenderá a la suma de $60.000.- (sesenta mil pesos) y se entregará al estudiante beneficiario hasta en tres cuotas a través de un sistema de pago bancario.
+"La Bonificación", para el año en curso, ascenderá a la suma de 62.500.- (sesenta y dos mil quinientos pesos) y se entregará al estudiante beneficiario hasta en tres cuotas a través de un sistema de pago bancario.
 
 #### Artículo 3º
 
@@ -28,17 +28,15 @@ Los requisitos de postulación que debe cumplir el estudiante beneficiario para 
 
 a) Ser estudiante egresado de Enseñanza Media Técnico Profesional de un establecimiento educacional regido por el D.F.L. (Ed.) Nº 2, de 1980, o decreto ley Nº 3.166, de 1980.
 
-b) Estar matriculado en el establecimiento
+b) Estar matriculado en el establecimiento educacional para realizar el Plan de Práctica Profesional, de acuerdo al Decreto Exento Nº 2.516, de 2007, del Ministerio de Educación, y sus modificaciones.
 
-educacional para realizar el Plan de Práctica Profesional, de acuerdo al decreto exento de Educación Nº 109, de 2002, y sus modificaciones.
-
-c) Realizar o iniciar la práctica profesional durante el año 2007.
+c) Realizar o iniciar la práctica profesional durante el año en curso.
 
 d) Disponer de los siguientes antecedentes:
 
 * El "Plan Práctica", aprobado por el director del establecimiento educacional.
 
-* Un informe del profesor del liceo que supervisa la práctica, acreditando que el estudiante realiza o inicia la práctica profesional durante el año 2007.
+* Un informe del profesor del liceo que supervisa la práctica, acreditando que el estudiante realiza o inicia la práctica profesional durante el año en curso.
 
 #### Artículo 4º
 
@@ -52,13 +50,27 @@ c) Implementación de jornadas y encuentros para la difusión del Programa, con 
 
 #### Artículo 5º
 
-La ejecución del Programa comprenderá todos aquellos actos jurídicos necesarios para la implementación y desarrollo de las actividades indicadas en el presente reglamento, pudiendo el Ministerio de Educación suscribir con personas naturales o jurídicas los convenios que sean necesarios para el cumplimiento de los objetivos propuestos.
+Corresponderá a la Junta Nacional de Auxilio Escolar y Becas la administración de la Bonificación.
+
+En el ejercicio de esta función actuará conforme a sus facultades y a las normas que establece el presente decreto, pudiendo especialmente:
+
+- establecer los plazos y formatos de postulación a la Bonificación;
+
+- asignar y pagar la Bonificación, y
+
+- adoptar las medidas y realizar los estudios necesarios para el buen funcionamiento del programa.
 
 #### Artículo 6º
 
-Los gastos que demande la ejecución y desarrollo del Programa Bonificación Prácticas Profesionales, Educación Media Técnico Profesional, para el año 2007 se imputarán al ítem:
+Las postulaciones a la Bonificación deberán realizarse directamente por los egresados de la Enseñanza Media Técnico Profesional, interesados en acceder al beneficio, a través de un sistema único de postulación, vía Internet, que estará disponible en el portal Web de la Junta Nacional de Auxilio Escolar y Becas, en el que los interesados deberán ingresar los antecedentes exigidos en el formulario dispuesto para tal efecto.
 
-09.01.03.24.03.518, glosa 11.
+#### Artículo 7º
+
+La ejecución del Programa comprenderá todos aquellos actos jurídicos necesarios para la implementación y desarrollo de las actividades indicadas en el presente reglamento, pudiendo la Junta Nacional de Auxilio Escolar y Becas suscribir con personas naturales o jurídicas los convenios que sean necesarios para el cumplimiento de los objetivos propuestos.
+
+#### Artículo 8º
+
+Los gastos que demande la ejecución y desarrollo del Programa Bonificación Prácticas Profesionales, Educación Media Técnico Profesional, se imputarán al ítem que consulte, para dicho efecto, la Ley de Presupuesto del Sector Público para el año correspondiente.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Yasna Provoste Campillay, Ministra de Educación.
 
