@@ -1,0 +1,5 @@
+&#160;
+
+Por decreto exento MOP Nº370 de 23 de febrero de 2009, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del D.F.L. MOP. Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y del D.F.L. MOP. Nº206, de 1960, se expropió el lote de terreno Nº40, para la obra CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA SECTOR DE VALLENAR. KM. 660.000,00 AL KM. 665.000,00, Tercera Región, que figura a nombre de SCHWARZE Y BERNABE LTDA, rol de avalúo 1306-1, comuna de Vallenar, superficie 8.435 m2. La comisión de peritos integrada por los señores Miguel Juan Fernández Cádiz, Marlene Teresa Ríos Marcuello y Andrés Rainer Schulz Villanueva, fijó con fecha 28 de noviembre de 2008, el valor provisional de la indemnización en la cantidad de $373.994.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+- 3> Fiscal del Ministerio de Obras Públicas.
