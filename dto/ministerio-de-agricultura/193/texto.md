@@ -124,59 +124,57 @@ Los profesionales que suscribieren estudios de calificación de terrenos de apti
 
 Las solicitudes que los interesados presenten a la Corporación deberán contener la individualización y firma del propietario o de su representante legal y la individualización del predio con indicación de la superficie solicitada que deberán ser acompañadas, en cada uno de los casos que se indican, de los siguientes antecedentes:
 
-A.- Calificaciones de terrenos de aptitud preferentemente forestal:
+A. Calificaciones de terrenos de aptitud preferentemente forestal:
 
-a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces, o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio;
+a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio;
 
-b) Copia autorizada ante notario o según lo dispuesto en la ley Nº19.088, del certificado de título del profesional autor del estudio técnico;
+b) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de título del profesional autor del estudio técnico. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presentaciones;
 
-c) Certificado de fragilidad de suelos, cuando corresponda;
+c) Estudio técnico de calificación de terrenos de aptitud preferentemente forestal o estudio tipo, cuando se trate de pequeños propietarios forestales que se acojan a lo dispuesto en el artículo 9º del decreto ley, y
 
-d) Estudio técnico de calificación de terrenos de aptitud preferentemente forestal o estudio tipo, cuando se trate de pequeños propietarios forestales que se acojan a lo dispuesto en el artículo 9º del decreto ley; y
+d) Cartografía.
 
-e) Cartografía.
+B. Planes de manejo:
 
-B.- Planes de manejo:
+a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio. Este último certificado sólo procederá cuando el plan de manejo sea un requisito para optar a las bonificaciones forestales;
 
-a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o un certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor del predio en trámite de saneamiento de títulos de dominio. Este último certificado sólo procederá cuando el plan de manejo sea un requisito para optar a las bonificaciones forestales;
+b) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de título del profesional autor del estudio técnico. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presenta-ciones;
 
-b) Copia autorizada ante notario o según lo dispuesto en la ley Nº19.088, del certificado de título del profesional autor del estudio técnico;
-
-c) Copia autorizada ante notario o según lo dispuesto en la ley Nº19.088, del certificado de especialización profesional, para acreditar la calidad de ingeniero agrónomo especializado, cuando corresponda;
+c) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de especialización profesional, para acreditar la calidad de ingeniero agrónomo especializado, cuando corresponda. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presentaciones;
 
 d) Petición para que la Corporación recabe autorización de la Dirección de Fronteras y Límites del Estado, si el plan de manejo contempla corta o explotación de bosques ubicados en zonas fronterizas;
 
-e) Proposición de plan de manejo o plan tipo o norma de manejo, cuando el propietario se acoja a lo dispuesto en los artículos 9º o 29º del decreto ley, según sea procedente; y
+e) Proposición de plan de manejo o plan tipo o norma de manejo, cuando el propietario se acoja a lo dispuesto en los artículos 9º o 29º del decreto ley, según sea procedente, y
 
 f) Cartografía.
 
 C.- Declaración de bosques de protección:
 
-a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces;
+a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces;
 
-b) Copia autorizada ante notario o según lo dispuesto en la ley Nº19.088, del certificado de título del profesional autor del estudio técnico;
+b) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de título del profesional autor del estudio técnico. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presentaciones;
 
 c) Certificado de avalúo, con clasificación de capacidad de uso de suelos, para los efectos del impuesto territorial;
 
-d) Estudio técnico de declaración de bosque de protección; y
+d) Estudio técnico de declaración de bosque de protección, y
 
 e) Cartografía.
 
 D.- Declaración de bosques nativos:
 
-a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces;
+a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces;
 
-b) Certificado de avalúo con clasificación de capacidad de uso de suelos, para los efectos del impuesto territorial; y
+b) Certificado de avalúo con clasificación de capacidad de uso de suelos, para los efectos del impuesto territorial, y
 
-c) Cartografía, identificando la superficie cubierta con bosque nativo que se desee declarar por capacidad de uso de los suelos y una descripción de la vegetación existente.
+c) Cartografía, identificando la superficie cubierta con bosque nativo que se desee declarar por capacidad de uso de los suelos y una descripción de la vegetación exis-tente.
 
 E.- Reconocimiento de suelos forestables:
 
-a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio;
+a) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio;
 
 b) Certificado de avalúo con clasificación de capacidad de uso de suelos, cuando se trate de suelos de clase IV de riego;
 
-c) Informe que justifique la calidad de suelos forestables.
+c) Informe que justifique la calidad de suelos forestables, y
 
 d) Cartografía.
 
@@ -264,6 +262,8 @@ En todos los casos, la Corporación deberá pronunciarse mediante resolución.
 
 Si la Corporación no se pronunciare en los plazos señalados, se dará por aprobada la calificación de terrenos de aptitud preferentemente forestal, la declaración de bosque de protección o la solicitud de aprobación de plan de manejo, debiendo otorgarse el certificado respectivo.
 
+Una vez transcurrido la mitad de los plazos a que se refiere el presente artículo, el interesado podrá requerir a través de la página Web de la Corporación el estado de tramitación de sus solicitudes.
+
 #### Artículo 16º
 
 No obstante lo señalado en el artículo anterior, la Corporación, por excepción y mediante resolución emitida por las Direcciones Regionales, difundida por periódicos locales, podrá ampliar hasta en 60 días corridos el plazo establecido para pronunciarse sobre las solicitudes de calificación de terrenos de aptitud preferentemente forestal. En dicha resolución se deberá indicar el área en que regirá la señalada ampliación, el número de días por el cual se amplía el plazo y el período de vigencia de la medida excepcional.
@@ -310,43 +310,65 @@ e) Medidas de protección que se adoptarán durante la ejecución de faenas para
 
 En la cartografía se indicará, a lo menos, antecedentes administrativos, límite y superficie predial, límites de capacidad de uso de suelos de los terrenos propuestos a calificar, delimitación de las áreas a recuperar o estabilizar, la superficie a forestar, la superficie de terrenos con pendiente superior a 100%, cuando corresponda y aquellas medidas de protección graficables.
 
-#### Artículo 21º
+#### Artículo 21
 
 El estudio técnico para calificar terrenos de aptitud preferentemente forestal que comprenda suelos degradados, deberá identificar, además de lo señalado en el artículo anterior, las categorías de erosión que sufren tales terrenos, según se trate de erosión moderada, severa o muy severa, de acuerdo a los siguientes criterios:
 
-A.- La categoría de erosión moderada se puede manifestar en tipos de erosión laminar o de manto de nivel medio, o en surcos o de canalículos, debiéndose identificar los siguientes indicadores de erosión:
+A.- La categoría de erosión moderada se puede manifestar en tipos de erosión laminar o de manto de nivel medio, o en surcos o de canalículos, debiéndose identificar uno o más de los siguientes indicadores de erosión:
 
-a) presencia de pedestales y pavimentos de erosión en al menos el 15% de la superficie, y
+a) presencia del subsuelo en un área menor al 15% de la superficie;
 
-b) presencia de surcos o canalículos, de
+b) presencia de pedestales y pavimentos de erosión en, al menos, el 15% de la superficie;
 
-profundidad menor a 0,5 metros.
+c) pérdida de suelo original entre el 20 y 60%;
 
-B.- La categoría de erosión severa se puede manifestar en tipos de erosión laminar o de manto intensiva, o de zanjas o cárcavas, debiéndose identificar los siguientes indicadores de erosión:
+d) presencia de surcos o canalículos, de profundidad menor a 0,5 metros, y
 
-a) presencia de pedestales y pavimentos de erosión entre el 15 y 60% de la superficie, y
+e) pérdida de más de un 30% del horizonte A (orgánico-mineral).
 
-b) presencia de zanjas o cárcavas de profundidad de 0.5 a 1 metro, encontrándose a un distanciamiento medio de 10 a 20 metros.
+B.- La categoría de erosión severa se puede manifestar en tipos de erosión laminar o de manto intensiva, o de zanjas o cárcavas, debiéndose identificar uno o más de los siguientes indicadores de erosión:
 
-C.- La categoría de erosión muy severa se puede manifestar en tipos de erosión laminar o de manto muy acelerados, o de cárcavas, debiéndose identificar los siguientes indicadores:
+a) presencia del subsuelo en un área entre 15 y 60% de la superficie;
 
-a) presencia de pedestales y pavimentos de erosión, en más del 60% de la superficie, y
+b) presencia de pedestales y pavimentos de erosión entre el 15 y 60% de la superficie;
 
-b) presencia de cárcavas de profundidad mayor a 1 metro, encontrándose a un distanciamiento medio de 5 a 10 metros.
+c) pérdida del suelo original entre el 60 y 80%;
+
+d) presencia de zanjas o cárcavas de profundidad de 0.5 a 1 metro, encontrándose a un distanciamiento medio de 10 a 20 metros, y
+
+e) pérdida de hasta un 30% del horizonte B.
+
+C.- La categoría de erosión muy severa se puede manifestar en tipos de erosión laminar o de manto muy acelerados, o de cárcavas, debiéndose identificar uno o más de los siguientes indicadores:
+
+a) se presenta a la vista el subsuelo y se encuentra visible el material de origen del suelo, en más del 60% de la superficie;
+
+b) presencia de pedestales y pavimentos de erosión, en más del 60% de la superficie;
+
+c) pérdida de suelo original entre el 80 y 100%;
+
+d) presencia de cárcavas de profundidad mayor a 1 metro, encontrándose a un distanciamiento medio de 5 a 10 metros, y
+
+e) pérdida de más del 30% del horizonte B.
 
 #### Artículo 22
 
-El estudio técnico de calificación de terrenos de aptitud preferentemente forestal, cuando se trate de suelos frágiles, deberá considerar, además de lo señalado en el artículo 20º de este reglamento, la información de fragilidad, certificada por los organismos competentes, la cual deberá considerar las siguientes variables y criterios de decisión, siempre y cuando los terrenos se ubiquen en pendientes superiores a 15%:
+El estudio técnico de calificación de terrenos de aptitud preferentemente forestal cuando se trate de suelos frágiles, deberá considerar, además de lo señalado en el artículo 20 de este Reglamento, la información de fragilidad, certificada por los organismos competentes, la cual deberá considerar las siguientes variables y criterios de decisión:
 
-a) suelos de textura arenosa o no estructurados;
+a) suelos ubicados en pendientes superiores a 15%;
 
-b) suelos de profundidad efectiva menor o igual a 0,50 metros;
+b) suelos de textura arenosa o no estructurados;
 
-c) suelos con pedregosidad superficial sobre 10% y/o en el perfil sobre 30%, y
+c) suelos de profundidad efectiva menor o igual a 0,50 metros;
 
-d) suelos con rocosidad superficial sobre 10% y/o en el perfil sobre 30%.
+d) suelos con pedregosidad superficial sobre 10% y/o en el perfil sobre 30%;
 
-El certificado de fragilidad que emita el organismo competente deberá otorgarse cuando se trate de terrenos ubicados en pendientes superiores a 15% y, al menos, 1 de las variables cumpla los criterios de decisión establecidos precedentemente.
+e) suelos con rocosidad superficial sobre 10% y/o en el perfil sobre 30%;
+
+f) suelos con riesgo cierto de deslizamientos o remoción en masa, y
+
+g) suelos con riesgo cierto de erosión superficial.
+
+El certificado de fragilidad que emita el organismo competente deberá otorgarse cuando, al menos, una de las variables cumpla los criterios de decisión establecidos precedentemente.
 
 #### Artículo 23º
 
