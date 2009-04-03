@@ -44,6 +44,8 @@ e) Las actividades de estabilización de dunas y la forestación de las mismas;
 
 f) El establecimiento de cortinas cortavientos, en suelos de cualquier clase, que se encuentren degradados o con serio peligro de erosión por efecto de la acción eólica.
 
+g) Forestación a alta densidad para fines dendroenergéticos.
+
 El porcentaje de bonificación será de un 75% de los costos netos para las actividades señaladas anteriormente, excepto cuando se trate de forestaciones ejecutadas en suelos degradados con pendientes superiores a 100%, en cuyo caso, el porcentaje de bonificación será de un 90%.
 
 Las bonificaciones por forestación a que se refieren las letras d) y e) precedentes, se pagarán conjuntamente con la bonificación por recuperación de suelos o por estabilización de dunas, cuando corresponda.
@@ -61,6 +63,8 @@ c) Forestación con baja densidad, en los suelos señalados en las letras a) y b
 d) La primera poda de la masa proveniente de las forestaciones ejecutadas a partir del 1º de enero de 1996;
 
 e) El raleo de la masa proveniente de las forestaciones efectuadas a partir del 1º de enero de 1996.
+
+f) Forestación a alta densidad para fines dendroenergéticos.
 
 Las actividades señaladas en las letras d) y e) precedentes deberán ejecutarse dentro de los plazos señalados en el artículo 22º de este reglamento.
 
@@ -96,15 +100,15 @@ Dicha solicitud deberá indicar la individualización del propietario o del pose
 
 A la solicitud se deberán acompañar los siguientes antecedentes:
 
-a) El estudio técnico que acredite el cumplimiento de las actividades bonificables, firmado por su autor.
+a) El estudio técnico que acredite el cumplimiento de las actividades bonificables, firmado por su autor;
 
-b) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 60 días desde la fecha de su expedición por el Conservador de Bienes Raíces. Cuando el solicitante sea poseedor en trámite de regularización de títulos, se deberá acompañar certificado del Ministerio de Bienes Nacionales, que acredite tal circunstancia. No obstante lo anterior, para las segundas y siguientes presentaciones, bastará el certificado de vigencia o una declaración jurada del propietario firmada ante notario, para acreditar que no ha existido cambio en el dominio del respectivo predio;
+b) Copia de inscripción de dominio del predio, con certificado de vigencia que no tenga una antigüedad mayor de 120 días contada desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces o certificado del Ministerio de Bienes Nacionales, que acredite que el solicitante es poseedor en trámite de saneamiento de títulos de dominio;
 
-c) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de título del profesional autor del estudio;
+c) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de título del profesional autor del estudio técnico. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presenta-ciones;
 
-d) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de especialización profesional, para acreditar la calidad de ingeniero agrónomo especializado, cuando corresponda.
+d) Copia autorizada ante notario o según lo dispuesto en la ley Nº 19.088, del certificado de especialización profesional, para acreditar la calidad de ingeniero agrónomo especializado, cuando corresponda. La Corporación mantendrá un listado de profesionales que hayan presentado sus antecedentes de conformidad con este literal, a los cuales no se les requerirá este requisito en siguientes presentaciones;
 
-e) Instrumento público o privado en que conste la transferencia de la bonificación, cuando el solicitante sea persona distinta del propietario del predio, en cuyo caso, no será necesario acreditar el dominio del predio.
+e) Instrumento público o privado en que conste la transferencia de la bonificación, cuando el solicitante sea persona distinta del propietario del predio, en cuyo caso no será necesario acreditar el dominio del predio.
 
 La Corporación no ingresará a trámite las solicitudes incompletas ni enmendadas o aquellas a las cuales no se acompañen los antecedentes mencionados en este artículo.
 
@@ -118,7 +122,7 @@ No obstante, tratándose de pequeños propietarios forestales, el plazo de caduc
 
 #### Artículo 9º
 
-La Corporación deberá pronunciarse, mediante resolución, sobre las solicitudes de bonificación dentro del plazo de 180 días corridos, contados desde el ingreso de la solicitud a la oficina de la Corporación que corresponda. Si no lo hiciere, dicha solicitud se dará por aprobada.
+La Corporación deberá pronunciarse, mediante resolución, sobre las solicitudes de bonificación dentro del plazo de 180 días corridos, contados desde el ingreso de la solicitud a la oficina de la Corporación que corresponda. Si no lo hiciere, dicha solicitud se dará por aprobada. No obstante, una vez transcurrido 90 días desde el ingreso, el interesado podrá requerir en la página Web de la Corporación el estado de tramitación de la solicitud.
 
 #### Artículo 10º
 
@@ -160,7 +164,7 @@ Tratándose de pequeños propietarios forestales el pago del 15% restante de la 
 
 #### Artículo 17º
 
-El estudio técnico que acredite el cumplimiento de las actividades de forestación, deberá incluir, a lo menos: superficie calificada o reconocida, según corresponda, superficie forestada y superficie por la cual se solicita bonificación, señalándose respecto a esta última, especie, tipo de planta, año de plantación, densidad obtenida, fecha de comprobación del prendimiento, metodología, proceso de cálculo y cartografía que deberá indicar la ubicación, superficie y deslindes del predio, superficie calificada o reconocida, y los sectores forestados.
+El estudio técnico que acredite el cumplimiento de las actividades de forestación deberá incluir, a lo menos: superficie calificada o reconocida, según corresponda, superficie forestada y superficie por la cual se solicita bonificación, señalándose respecto a esta última, especie, tipo de planta, año de plantación, densidad obtenida, fecha de comprobación del prendimiento, metodología, proceso de cálculo, estadígrafos resultantes, los cuales no deben presentar un error de muestreo mayor al 10%, y cartografía que deberá indicar la ubicación, superficie y deslindes del predio, superficie calificada o reconocida, y los sectores forestados.
 
 El estudio técnico deberá elaborarse y presentarse a contar del 1º de abril del año siguiente al de la forestación.
 
@@ -222,15 +226,9 @@ La fijación de costos que se realice en virtud del presente artículo, se publi
 
 Para los efectos de la determinación de los costos de las actividades bonificables contenidos en la tabla a que se refiere el artículo anterior, se considerarán, a lo menos, los siguientes rubros e ítemes: 1.- Costos netos de forestación:
 
-a) Costos directos de faenas: producción o adquisición
+a) Costos directos de faenas: producción o adquisición de plantas, preparación del terreno, labores de protección las que podrán incluir cercos reparados, plantación, fertilización y riego, si corresponde;
 
-de plantas, preparación del terreno, labores de
-
-protección, plantación, fertilización y riego, si
-
-corresponde;
-
-b) Gastos generales, y
+b) Gastos generales que podrán incluir los costos de las primas de los seguros forestales, y
 
 c) Asesoría profesional, sólo para pequeños
 
@@ -256,17 +254,9 @@ propietarios forestales.
 
 dunas:
 
-a) Costos directos de faenas: faenas preparatorias,
+a) Costos directos de faenas: faenas preparatorias, producción o adquisición de plantas, labores de protección, las que podrán incluir cercos reparados, fertilización y riego, construcción del cordón antedunas y defensas interiores, siembra o plantación de especies estabilizadoras;
 
-producción o adquisición de plantas, labores de
-
-protección, fertilización y riego, construcción del
-
-cordón antedunas y defensas interiores, siembra o
-
-plantación de especies estabilizadoras;
-
-b) Gastos generales, y
+b) Gastos generales, que podrán incluir los costos de las primas de los seguros forestales, y
 
 c) Asesoría profesional, sólo para pequeños
 
@@ -327,6 +317,10 @@ Lo dispuesto en el inciso anterior no se aplicará para el cobro del 15% restant
 #### Artículo 2º
 
 transitorio: Lo dispuesto en el artículo 9º de este reglamento no regirá para las solicitudes de pago de bonificación respecto de actividades bonificables realizadas con anterioridad a la publicación de la ley Nº 19.561.
+
+#### Artículo 3º
+
+transitorio.- No obstante lo dispuesto en el artículo 27 de este Reglamento, la Corporación Nacional Forestal durante los años 2009 y 2010 podrá modificar, en el transcurso de dichos años, el valor de los costos de las actividades bonificables fijados para cada temporada, la que deberá contar siempre con la aprobación previa de los Ministerios de Agricultura y Hacienda.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Mladinich Alonso, Ministro de Agricultura.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
