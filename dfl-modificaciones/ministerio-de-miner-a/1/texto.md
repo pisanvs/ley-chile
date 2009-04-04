@@ -38,13 +38,13 @@ Las transferencias o cambios en el dominio de los establecimientos, instalacione
 
 #### Artículo quinto
 
-Por exigirlo el interés nacional, el Presidente de la República, por decreto supremo dictado a través del Ministerio de Energía y publicado en el Diario Oficial, podrá imponer deberes y obligaciones determinados destinados a precaver todo hecho que cause o pueda causar daño a las personas o a la propiedad.
+Por exigirlo el interés nacional, el Presidente de la República, por decreto supremo dictado a través del Ministerio de Economía, Fomento y Reconstrucción y publicado en el Diario Oficial, podrá imponer deberes y obligaciones determinados destinados a precaver todo hecho que cause o pueda causar daño a las personas o a la propiedad.
 
 Dichos deberes y obligaciones podrán versar sobre las modalidades con que deberán efectuarse las operaciones de descarga de combustibles desde camiones estanques a los depósitos o instalaciones para su venta al público; las condiciones que deban reunir las instalaciones y las características de los lugares en que se ubiquen; las medidas que deban adoptarse al tiempo de efectuar cada expendio; las condiciones de seguridad de los depósitos de almacenamiento, de los envases, conductos, cañerías u otros medios de traslado o de transporte y, en general, sobre cualquier clase de precauciones para prevenir o evitar todo peligro en la manipulación de tales elementos combustibles o inflamables.
 
 #### Artículo sexto
 
-Por decreto conjunto del Ministerio de Energía, que deberá publicarse en el Diario Oficial, el Presidente de la República podrá declarar como normas oficiales nacionales, las normas técnicas y de Calidad Aplicables a los diversos tipos de petróleo, a los combustibles derivados de éste y a cualquiera otra clase de combustibles.
+Por decreto conjunto del Ministerio de Economía, Fomento y Reconstrucción, que deberá publicarse en el Diario Oficial, el Presidente de la República podrá declarar como normas oficiales nacionales, las normas técnicas y de Calidad Aplicables a los diversos tipos de petróleo, a los combustibles derivados de éste y a cualquiera otra clase de combustibles.
 
 En la misma forma señalada en el inciso anterior podrán dictarse normas sobre comercialización de los productos allí señalados.
 
@@ -62,13 +62,13 @@ INCISO SEGUNDO ELIMINADO.
 
 #### Artículo octavo
 
-Derogado
+El régimen de precios de los productos objeto del presente decreto con fuerza de ley se sujetará, en todo, a lo previsto en la Ley Orgánica del Ministerio de Economía.
 
 #### Artículo noveno
 
-El Ministerio de Energía podrá requerir las declaraciones y la documentación que sean necesarias para el ejercicio de sus atribuciones de las personas referidas en el artículo segundo de este decreto con fuerza de ley.
+El Ministerio de Economía, Fomento y Reconstrucción podrá requerir las declaraciones y la documentación que sean necesarias para el ejercicio de sus atribuciones de las personas referidas en el artículo segundo de este decreto con fuerza de ley.
 
-Estas mismas personas están obligadas a facilitar las inspecciones o visitas que los funcionarios de los Servicios del Ministerio de Energía y de la Superintendencia de Electricidad y Combustibles efectúen en cumplimiento de las atribuciones que les encomiende la ley, a exhibir y a proporcionar los antecedentes que estos les soliciten, en el acto mismo en que lo hagan o en el término que se estime necesario.
+Estas mismas personas están obligadas a facilitar las inspecciones o visitas que los funcionarios de los Servicios del Ministerio de Economía, Fomento y Reconstrucción y de la Superintendencia de Electricidad y Combustibles efectúen en cumplimiento de las atribuciones que les encomiende la ley, a exhibir y a proporcionar los antecedentes que estos les soliciten, en el acto mismo en que lo hagan o en el término que se estime necesario.
 
 INCISO TERCERO ELIMINADO.
 
@@ -118,7 +118,7 @@ transitorio: No obstante lo dispuesto por el artículo 8°, en tanto se dicta la
 
 #### Artículo cuarto
 
-transitorio: La Empresa Nacional del Petróleo continuará proporcionando el personal y los medios materiales que a la fecha mantiene en el Ministerio de Energía, en cumplimiento del artículo 47 del decreto N° 20, del Ministerio de Minería, de 1964, hasta que se fije la planta de dicho Ministerio. En todo caso, cesará la obligación impuesta a la Empresa Nacional del Petróleo el 30 de Junio de 1979.
+transitorio: La Empresa Nacional del Petróleo continuará proporcionando el personal y los medios materiales que a la fecha mantiene en el Ministerio de Economía, Fomento y Reconstrucción, en cumplimiento del artículo 47 del decreto N° 20, del Ministerio de Minería, de 1964, hasta que se fije la planta de dicho Ministerio. En todo caso, cesará la obligación impuesta a la Empresa Nacional del Petróleo el 30 de Junio de 1979.
 
 #### Artículo quinto
 
