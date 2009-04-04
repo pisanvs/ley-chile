@@ -64,8 +64,10 @@ No podrán funcionar los locales o establecimientos que no cuenten con las autor
 
 La presente ordenanza comenzará a regir desde su publicación en el Diario Oficial, sin perjuicio de su inserción en extracto en un diario local y en la página web del municipio.
 
-#### Artículo 13º
+#### Artículo 13°
 
-Los establecimientos destinados a la explotación comercial, regulada por la presente ordenanza, y que en la actualidad se encuentran funcionando sin los permisos municipales correspondientes, deberán regularizar su situación en un plazo máximo de 30 días corridos, contados desde la vigencia de esta ordenanza.
+Los establecimientos destinados a la explotación comercial regulada por la presente ordenanza y que en la actualidad se encuentran funcionando sin los permisos municipales correspondientes deberán regularizar su situación en un plazo máximo de 30 días corridos contados desde la vigencia de esta Ordenanza, otorgándose un plazo adicional de 90 días corridos solo para presentar el informe o certificado referido en el artículo 3º de esta Ordenanza, debiendo cumplir con las restantes normativas o exigencias.
+
+En el intertanto y mientras dicho informe o certificado no se acompañe cualquier permiso municipal tendrá el carácter de precario o transitorio.
 
 Anótese, publíquese, comuníquese, cúmplase, archívese.- Hugo Naim Gebrie Asfura, Alcalde.- Hernán Millán Illanes, Secretario Municipal.
