@@ -1,0 +1,5 @@
+INSTRUYE SOBRE AUTORIZACIÓN A LOS SOCIOS SIN DOMICILIO NI RESIDENCIA EN CHILE, DE SOCIEDADES DE PERSONAS CONSTITUIDAS EN EL PAÍS, PARA DECLARAR Y PAGAR EL IMPUESTO ADICIONAL QUE INDICA, EN LA MISMA MONEDA EXTRANJERA EN QUE ÉSTAS SE ENCUENTREN AUTORIZADAS U OBLIGADAS, Y SEÑALA TIPO DE CAMBIO PARA RETENCIÓN DEL IMPUESTO Y DECLARACIÓN EN MONEDA NACIONAL
+
+Extracto de resolución Ex. Nº43 de 31 de marzo de 2009, que autoriza la declaración y pago en moneda extranjera del Impuesto Adicional del Artículo 60, inciso primero, de la Ley sobre Impuesto a la Renta, según lo establecido por resolución exenta Nº27, de 25 de febrero de 2009, del Servicio de Impuestos Internos, e instruye sobre el tipo de cambio a considerar para la conversión a moneda nacional de la base imponible y las retenciones del Impuesto Adicional que deban declararse y pagarse en esta moneda.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2009.
