@@ -1,0 +1,69 @@
+DENIEGA SOLICITUD DE PRÓRROGA DE CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA DENOMINADA "GUANACOTA", PRESENTADA POR LA SOCIEDAD CONTRACTUAL MINERA COPIAPÓ, EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 112 exento.- Santiago, 31 de marzo de 2009.- Visto: Lo dispuesto en la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica y su Reglamento aprobado mediante decreto supremo Nº 32, de 22 de abril de 2004, del Ministerio de Minería; el decreto supremo Nº 148, de fecha 10 de agosto de 2006, del Ministerio de Minería, que otorgó a la Sociedad Anónima Minera Copiapó, la concesión de exploración de energía geotérmica denominada "Guanacota", publicado en el Diario Oficial el día 7 de febrero de 2007; el oficio ordinario Nº 351, de fecha 22 de marzo de 2007, del Ministerio de Minería; el Acta de Junta General Extraordinaria de la Sociedad Anónima Minera Copiapó, celebrada el día 23 de abril de 2007, reducida a escritura pública en la Cuadragésima Novena Notaría de Santiago, ante el Notario titular don Enrique Tornero Figueroa, bajo el Repertorio Nº 1668; la solicitud de prórroga presentada con fecha 7 de agosto de 2008, por la Sociedad Contractual Minera Copiapó; el Informe de Proyecto de fecha 12 de septiembre de 2008, elaborado por la Unidad Técnica de Geotermia y Contratos Especiales de Operación de Hidrocarburos (CEOP) del Ministerio de Minería; Acta de Sesión del Comité de Análisis de Energía Geotérmica celebrada el día 30 de septiembre de 2008; el oficio ordinario Nº 1.692, de fecha 3 de diciembre de 2008, del Ministerio de Minería; los antecedentes adicionales presentados por la Sociedad Contractual Minera Copiapó, con fecha 26 de diciembre de 2008; el Segundo Informe de Proyecto elaborado por la Unidad Técnica de Geotermia y CEOP del Ministerio de Minería, de fecha 11 de febrero de 2009; Acta de Sesión del Comité de Análisis de Energía Geotérmica celebrada el día 12 de febrero de 2009; el decreto supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería, que faculta al Ministro de Minería a firmar "Por Orden del Presidente de la República" en materia de Concesiones de Energía Geotérmica, y la resolución Nº1.600, del 30 de octubre de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, el Ministerio de Minería, con fecha 10 de agosto de 2006, mediante decreto supremo Nº 148, otorgó a la Sociedad Anónima Minera Copiapó, la concesión de exploración de energía geotérmica denominada "Guanacota", ubicada en la Primera Región de Tarapacá, actual Provincia del Tamarugal, comunas de Colchane, Huara y Pica, en virtud de la Ley Nº19.657, sobre Concesiones de Energía Geotérmica, en base al proyecto de exploración presentado por la sociedad mencionada con fecha 30 de noviembre de 2005.
+
+2. Que, el inciso primero del artículo 36 de la Ley sobre Concesiones de Energía Geotérmica, establece que el período de vigencia de la concesión de exploración de energía geotérmica tendrá una duración de dos años, contado desde la fecha en que haya entrado en vigencia el decreto de concesión.
+
+3. Que, la concesión "Guanacota" entró en vigencia el día 7 de febrero de 2007, fecha en que fue publicada en el Diario Oficial, según lo dispuesto en el artículo 21 de la Ley Nº 19.657.
+
+4. El oficio ordinario Nº 351, de fecha 22 de marzo de 2007, mediante el cual el Ministerio de Minería solicitó a la Sociedad Anónima Minera Copiapó entregar un informe de avance de la ejecución del proyecto hasta esa fecha, en conformidad con lo dispuesto en el artículo 35 de la Ley Nº 19.657.
+
+5. El Acta de la Junta General Extraordinaria celebrada el día 23 de abril de 2007, reducida a escritura pública en la Cuadragésima Novena Notaría de Santiago, ante el Notario titular don Enrique Tornero Figueroa, bajo el Repertorio Nº1.668, donde consta que los accionistas de la Sociedad Anónima Minera Copiapó, acordaron aprobar la modificación de la especie o tipo de sociedad en cuestión, transformándola en una sociedad contractual minera, precisando en sus estatutos que la sociedad "continuará siendo el mismo ente jurídico hasta ahora existente", pasando a denominarse Sociedad Contractual Minera Copiapó. El extracto de dicha escritura pública se inscribió en el Registro de Comercio del Conservador de Bienes Raíces de Santiago a fojas 24.906, Número 18.164 del año 2007 y se anotó al margen de la inscripción de fojas 33.360, Número 17.029 del año 1991, del mismo registro. Al mismo tiempo se inscribió la constitución de la Sociedad Contractual Minera Copiapó, en el Registro de Propiedad del Conservador de Minas de Santiago a fojas 136, Número 40 del año 2007.
+
+6. Que, en virtud de lo establecido en el inciso segundo del artículo 36 de la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica, el concesionario de exploración puede solicitar, por una sola vez, antes de los últimos seis meses del período establecido en el considerando dos anterior, la prórroga de su concesión por un período de dos años adicionales a los dos ya otorgados.
+
+7. Que, con fecha 7 de agosto de 2008, encontrándose dentro del plazo legal, la Sociedad Contractual Minera Copiapó, solicitó la prórroga de la concesión de exploración de energía geotérmica identificada en el considerando 1 de este decreto supremo.
+
+8. Que, teniendo a la vista el Informe de Proyecto de fecha 12 de septiembre de 2008, elaborado por la Unidad Técnica de Geotermia y Contratos Especiales de Operación de Hidrocarburos (CEOP) del Ministerio de Minería, el Comité de Análisis de Energía Geotérmica, en reunión celebrada el día 30 de septiembre de 2008, acordó solicitar a la concesionaria antecedentes adicionales a su petición de prórroga, particularmente, requiriéndole detallar y respaldar las horas de trabajo canceladas a profesionales que realizaron la campaña de exploración geotérmica; entregar mayor detalle técnico en la descripción de las actividades de exploración realizadas y especificar la descripción de las inversiones y resultados que se esperan alcanzar de otorgarse una eventual prórroga de la concesión.
+
+9. El oficio ordinario Nº 1.692, de fecha 3 de diciembre de 2008, mediante el cual la Subsecretaría de Minería, conforme a lo recomendado por el mencionado Comité, solicitó a la Sociedad Contractual Minera Copiapó, complementar los antecedentes fundantes de su solicitud de prórroga al tenor de lo señalado en el considerando anterior de este acto administrativo.
+
+10. Que, en cumplimiento de lo anterior, mediante presentación de fecha 26 de diciembre de 2008, la empresa concesionaria acompañó diversos antecedentes adicionales.
+
+11. El segundo Informe de Proyecto elaborado por la Unidad Técnica de Geotermia y CEOP del Ministerio de Minería, de fecha 11 de febrero de 2009, relativo a la solicitud de prórroga de la concesión "Guanacota" y a los antecedentes complementarios acompañados por la Sociedad Contractual Minera Copiapó.
+
+12. Que, con fecha 12 de febrero de 2009, el Comité de Análisis de Energía Geotérmica, a la luz de los antecedentes aportados por la empresa concesionaria e Informes de Proyecto evacuados por la Unidad Técnica de Geotermia y CEOP, acordó recomendar al Ministerio de Minería denegar la solicitud de prórroga en comento, manifestando los siguientes argumentos:
+
+a) El artículo 62 del decreto supremo Nº32, de 2004, del Ministerio de Minería, que aprobó el Reglamento para la aplicación de la Ley Nº 19.657, define un listado mínimo de antecedentes que el concesionario debe acompañar a la hora de solicitar la prórroga de su concesión.
+
+b) La letra b) del artículo recién mencionado, señala que uno de esos antecedentes consistirá en "Un informe técnico que incluya una síntesis del estado de las tareas de exploración desarrolladas, comparadas con las programadas originalmente...".
+
+c) Que, al momento de resolver una solicitud de prórroga de concesión de exploración de energía geotérmica, las tareas que deben ser evaluadas son las comprometidas en el proyecto original confrontadas con las tareas efectivamente desarrolladas.
+
+d) Analizadas las actividades comprometidas en el proyecto original de exploración presentado por Minera Copiapó S.A., de fecha 30 de noviembre de 2005, y las tareas señaladas como desarrolladas en el Informe de Prórroga de la concesión de exploración geotérmica "Guanacota", presentado el 7 de agosto de 2008, se ha estimado que la perforación de pozos de gradiente debe ser excluida del cálculo de las actividades comprometidas ya que no fueron parte integrante de la propuesta original presentada por la empresa, debiendo, consecuentemente, descartar el gasto efectuado por este concepto.
+
+e) De acuerdo a la Factura Nº 149, de fecha 12 de julio de 2008, emitida por la Sociedad Contractual Minera Tambillos, acompañada al Informe de Prórroga presentado el 07 de agosto de 2008, los servicios descritos como "Avance de Estudios Geofísicos, Perforación de Pozos de Gradientes, Concesión Guanacota", tuvieron un costo, para la Sociedad Contractual Minera Copiapó, de $119.000.000.- (ciento diecinueve millones de pesos), suma equivalente a US$231.860.- (doscientos treinta y un mil ochocientos sesenta dólares), según dólar observado al 07 de agosto de 2008, a saber, US$513,24.- (quinientos trece coma veinticuatro dólares).
+
+f) En la tabla de estructura de costos anotada en las páginas 17 y 18 del Informe de Prórroga de la concesión de exploración geotérmica "Guanacota", la concesionaria señala que, en el ítem "Geofísica", gastó un total de US$255.241.- (doscientos cincuenta y cinco mil doscientos cuarenta y un dólares), según dólar observado recién precisado; invirtiendo en todos los ítemes realizados un monto total de US$280.522.- (doscientos ochenta mil quinientos veintidós dólares); cifra que equivaldría a un 62,2% (sesenta y dos como dos por ciento) del monto total comprometido por la empresa.
+
+g) Sin embargo, de acuerdo a lo razonado en las letras
+
+- **c)** y
+
+- **d)** de este considerando, el Comité estima que el gasto total asociado a las tareas de Geofísica asciende sólo a la suma de US$23.381.- (veintitrés mil trescientos ochenta y un dólares), cifra obtenida al restar del Ítem Geofísica, indicado en la letra
+
+- **f)** anterior, la Factura Nº 149, identificada en la letra
+
+- **e)** del presente considerando; exclusión que provoca la modificación del monto total invertido por la empresa, reduciéndolo a la suma de US$48.662.- (cuarenta y ocho mil seiscientos sesenta y dos dólares), lo cual equivale a un 10,78% (diez coma setenta y ocho por ciento) del monto total comprometido por la empresa durante la concesión de exploración.
+
+h) Conforme lo dispuesto en el inciso segundo del artículo 36 de la Ley Nº 19.657, la concesionaria debe acreditar al menos un 25% (veinticinco por ciento) en la materialización de las inversiones indicadas en la letra c) del artículo 11 del mismo cuerpo legal, el que a su vez, se refiere a los antecedentes generales, técnicos, económicos e inversiones, que el solicitante de una concesión de exploración o explotación de energía geotérmica debe señalar en el proyecto que acompaña a su solicitud de concesión.
+
+i) De este modo, habiendo acreditado, la empresa concesionaria, la materialización de un 10,78% (diez coma setenta y ocho por ciento) del monto total comprometido en su proyecto original, no califica dentro de la condición de admisibilidad establecida en el artículo 36 de la Ley N°19.657, para obtener una resolución favorable a su solicitud de prórroga de la concesión "Guanacota", otorgada en virtud del decreto supremo Nº 148, de 2006, del Ministerio de Minería.
+
+j) Por último, cabe tener presente que de acuerdo a lo establecido en el artículo 35 de la Ley Nº 19.657 y según lo solicitado por el Ministerio de Minería mediante el oficio Ord. Nº 351, identificado en el considerando 4 de este decreto, la Sociedad Contractual Minera Copiapó debía entregar en el mes de marzo de 2007 un Informe que diera cuenta del avance logrado en la ejecución del proyecto hasta esa fecha, obligación que no fue cumplida por la concesionaria, falta que, conforme al artículo 61 del Reglamento para la aplicación de la Ley Nº19.657, constituye "causal suficiente para denegar la solicitud de prórroga del artículo 36 de la ley, si el concesionario no acredita por otros medios y dentro del plazo el cumplimiento del 25% de las inversiones comprometidas para el periodo de concesión.".
+
+13. Por todo lo anteriormente expuesto, principalmente, los argumentos manifestados por el Comité de Análisis de Energía Geotérmica, que el Ministerio de Minería hace suyos, este Servicio estima procedente denegar la solicitud de prórroga de la concesión de exploración de energía geotérmica denominada "Guanacota" de la Sociedad Contractual Minera Copiapó, en virtud de lo establecido en el inciso segundo del artículo 36 de la Ley Nº 19.657, por no haber logrado acreditar un avance igual o superior al 25% (veinticinco por ciento) en la materialización de las inversiones indicadas en la letra c) del artículo 11 de la ley mencionada y, también, conforme lo dispuesto artículo 61 del Reglamento para la aplicación de la Ley Nº 19.657, atendido que la concesionaria no hizo entrega en el mes de marzo del año 2007, del Informe de Avance correspondiente,
+
+Decreto:
+
+#### Artículo único
+
+Deniégase la solicitud de prórroga presentada por la Sociedad Contractual Minera Copiapó respecto de la concesión de exploración de energía geotérmica denominada "Guanacota", otorgada mediante decreto supremo Nº148, fecha 10 de agosto de 2006, del Ministerio de Minería.
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Santiago González Larraín, Ministro de Minería.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Verónica Baraona del Pedregal, Subsecretaria de Minería.
