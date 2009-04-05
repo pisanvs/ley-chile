@@ -1,0 +1,5 @@
+&#160;
+
+Por resolución exenta Nº 1.182, de 30 de marzo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº206101198, presentada por JOSÉ HERIBERTO AYACÁN CÁRDENAS para instalar y operar un centro de cultivo ubicado en Ribera Norte del Río Maullín, al noroeste de Punta San Juan, X Región.
+
+Valparaíso, 30 de marzo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
