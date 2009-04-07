@@ -1,0 +1,3 @@
+Por resolución exenta Nº 909, de 13 de marzo de 2009, de esta Subsecretaría, autorízase a PROCESADORA JORGE VARGAS E.I.R.L. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector El Manzano, comuna de Hualaihué, provincia de Palena, X Región, para elaborar en líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de marzo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
