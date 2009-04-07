@@ -22,7 +22,7 @@ Considerando: Que las personas identificadas en el Visto e), exceptuando la indi
 
 Resolución:
 
-1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.) de 2005, y asígnase directamente 242 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, equivalentes a 162.140 UF, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
+1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.) de 2005, y asígnase directamente 242 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, equivalentes a 161.470 UF, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
 
 Nº RUT Nombre Apellido Apellido
 
@@ -234,7 +234,7 @@ BRÍGIDO PERANCHIGUAY PERANCHIGUAY D.O. 09.12.2008
 
 102 8670469-2 SERGIO MARCELO CARO RÍOS
 
-103 8767140-2 GLADYS DEL CARMEN PAILLÁN COÑOECAR
+103 8767140-2 GLADYS DEL CARMEN COÑOECAR PAILLÁN
 
 104 8780592-1 MARGARITA DEL C. TUREUNA BARRIENTOS
 
@@ -528,7 +528,7 @@ ROSARIO PERANCHIGUAY MANSILLA
 
 239 17258282-6 ANGELO PATRICIO VILLAGRÁN VILLAGRÁN
 
-240 17569360-2 ELENA FIGUEROA FIGUEROA
+240 17569360-2 ELIMINADA
 
 241 17594250-5 JONATHAN VILLEGAS GONZÁLEZ
 
@@ -536,7 +536,7 @@ ROSARIO PERANCHIGUAY MANSILLA
 
 Los subsidios habitacionales que se otorguen a estos beneficiarios, se imputarán a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Vivienda del año 2008.
 
-2.- De acuerdo a lo señalado en la resolución N° 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 3.630 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
+2.- De acuerdo a lo señalado en la resolución N° 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 3.615 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
 
 3.- Autorízase la adquisición de viviendas cuya tasación exceda de 650 UF, de acuerdo a la metodología de cálculo que señala la letra d) del inciso primero del artículo 32 del D.S. N° 174 (V. y U.) de 2005.
 
