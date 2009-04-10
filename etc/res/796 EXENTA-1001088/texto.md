@@ -1,0 +1,3 @@
+Por resolución exenta Nº 796, de 2 de marzo de 2009, de esta Subsecretaría, autorízase a LUIS ALFREDO ELGUETA GONZÁLEZ para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en sector Flamenco s/n, comuna de Chañaral, III Región, en la línea de proceso Alga seca, el recurso hidrobiológico huiro negro.
+
+Valparaíso, 2 de marzo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
