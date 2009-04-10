@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIALIZADORA DEL SUR SEIS LTDA.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 1.078, de fecha 24 de marzo de 2009, otorga a contar del 1° del mes siguiente de esta publicación, al contribuyente Comercializadora del Sur Seis Ltda., RUT N° 76.029.743-7, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la compra de ganado vivo, establecido en la resolución exenta Nº3.721, del 28 de julio de 2000, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1 de agosto de 2000.
