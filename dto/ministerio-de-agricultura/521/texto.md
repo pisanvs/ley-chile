@@ -34,7 +34,25 @@ h) Envasador Pisquero: Es el que fracciona y acondiciona el aguardiente pisquero
 
 i) Reglamento de la ley: Decreto supremo Nº78, de 1986, del Ministerio de Agricultura.
 
+j) Cóctel de Pisco: Se dará este nombre al cóctel producido y envasado en las Regiones de Atacama y Coquimbo, preparado con pisco, frutos, zumo de frutos, jugo de frutos o saborizantes naturales, o con la combinación de uno o más de ellos. Además, podrá contener colorantes, aditivos autorizados en el Reglamento Sanitario de los Alimentos del Ministerio de Salud y su graduación alcohólica mínima será de 4,0 grados Gay-Lussac. El nombre del producto será Cóctel de Pisco, seguido del nombre del ingrediente analcohólico predominante.
+
 Las actividades señaladas en las letras e), f), g) y h) deberán desarrollarse dentro de la zona pisquera.
+
+#### Artículo 2 bis
+
+Se dará el nombre del Pisco Sour al cóctel producido y envasado en las Regiones III y IV, preparado con pisco, zumo de limón o saborizante natural del mismo. Además, podrá contener aditivos autorizados, tales como estabilizantes, espesantes, emulsionantes, enturbiantes y colorantes.
+
+Su graduación alcohólica mínima será de 12 grados Gay-Lussac y su contenido mínimo de impurezas será de 2,0 gramos por litro.
+
+Se acepta que esta bebida se prepare con zumo de otras frutas cítricas o saborizantes naturales de las mismas, pero en tal caso al producto deberá nominarse Pisco Sour, seguido del nombre de la fruta que corresponda.
+
+#### Artículo 2 bis
+
+Se dará el nombre del Pisco Sour al cóctel producido y envasado en las Regiones III y IV, preparado con pisco, zumo de limón o saborizante natural del mismo. Además, podrá contener aditivos autorizados, tales como estabilizantes, espesantes, emulsionantes, enturbiantes y colorantes.
+
+Su graduación alcohólica mínima será de 12 grados Gay-Lussac y su contenido mínimo de impurezas será de 2,0 gramos por litro.
+
+Se acepta que esta bebida se prepare con zumo de otras frutas cítricas o saborizantes naturales de las mismas, pero en tal caso al producto deberá nominarse Pisco Sour, seguido del nombre de la fruta que corresponda.
 
 #### Artículo 3º
 
@@ -104,9 +122,11 @@ DEROGADO
 
 El proceso de destilación del vino para la producción de alcohol para Pisco, deberá hacerse en alambiques de ciclo discontinuo. INCISO DEROGADO
 
-#### Artículo 10
+#### Artículo 10º
 
-Los piscos deberán tener un contenido en ácido volátiles totales no superior a 1,5 gramos por litro y un mínimo de impurezas de 2,5 gramos por litro a 100° Gay Lussac a 20°C de temperatura y su contenido en azúcares no podrá exceder en 5 gramos por litro. Sus graduaciones alcohólicas mínimas serán las que se indican a continuación: a) Pisco Corriente o Tradicional: 30°
+Los piscos deberán tener un contenido en ácidos volátiles totales no superior a 1,5 gramos por litro y un mínimo de impurezas de 2,0 gramos por litro a 100° Gay-Lussac a 20°C de temperatura y su contenido en azúcares no podrá exceder en 5 gramos por litro. Sus graduaciones alcohólicas mínimas serán las que se indican a continuación:
+
+a) Pisco Corriente o Tradicional: 30°
 
 b) Pisco Especial: 35°
 
@@ -157,6 +177,40 @@ Modifícase el decreto supremo Nº 78, de 1986, del Ministerio de Agricultura, e
 a) Sustitúyese en el inciso segundo del artículo 58 la expresión "3,5 gramos por litro" por "2,5 gramos por litro".
 
 b) Deróganse los artículos 13 y 56.
+
+#### Artículo 20
+
+Créase un Consejo Asesor del Ministro de Agricultura, cuyo objetivo será proponer medidas de protección, promoción, innovación, investigación, adecuación normativa, perfeccionamiento técnico y desarrollo de la Denominación de Origen Pisco y de otras materias afines a este sector productivo.
+
+#### Artículo 21
+
+El Consejo Asesor estará integrado por personeros del sector público y del sector privado:
+
+a) El Ministro de Agricultura o la persona que éste designe en su representación, quien lo presidirá;
+
+b) El Secretario Regional Ministerial de Agricultura de la Región de Atacama;
+
+c) El Secretario Regional Ministerial de Agricultura de la Región de Coquimbo;
+
+d) El Director Nacional de la Oficina de Estudios y Políticas Agrarias o la persona que éste designe en su representación;
+
+e) El Director Nacional del Servicio Agrícola y Ganadero o la persona que éste designe en su representación;
+
+f) El Director Nacional del Instituto de Desarrollo Agropecuario o la persona que éste designe en su representación;
+
+g) El Director Ejecutivo del Instituto de Investigaciones Agropecuarias o la persona que éste designe en su representación;
+
+h) El Director Ejecutivo de la Fundación para la Innovación Agraria o la persona que éste designe en su representación;
+
+i) Dos representantes de productores de pisco de las Regiones de Atacama y Coquimbo, designados por la Asociación Gremial que los represente;
+
+j) Dos representantes de productores de uva pisquera de las Regiones de Atacama y Coquimbo, designados por la Asociación Gremial que los represente;
+
+k) Un académico de las universidades chilenas, designado por el Ministro de Agricultura.
+
+El Presidente del Consejo invitará a participar en el mismo a las personas a que se refieren las letras g), h), i), j) y k) precedentes. Además, el Presidente del Consejo podrá invitar a participar a personas representantes de entidades públicas y privadas expertas en la materia, y establecer subcomisiones de trabajo en materias específicas.
+
+El Secretario Ejecutivo del Consejo será designado por el Ministro de Agricultura.
 
 DISPOSICIONES TRANSITORIAS
 

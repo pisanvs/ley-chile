@@ -1116,13 +1116,9 @@ b) Aquellas bebidas alcohólicas con denominación de origen en cuyo proceso de 
 
 c) Los piscos elaborados con variedades de uva distintas a las señaladas en el artículo 5º del decreto Nº 521, de 1999, del Ministerio de Agricultura.
 
-#### Artículo 58°
+#### Artículo 58º
 
-Se dará el nombre de Pisco Sour al coctel producido y envasado en las Regiones III y IV, preparado con pisco, zumo de limón o saborizante natural del mismo. Además podrá contener aditivos autorizados tales como estabilizantes, espesantes, emulsionantes, enturbiantes y colorantes.
-
-Su graduación alcohólica mínima será de 12 grados Gay Lussac y su contenido mínimo de impurezas será de 2,5 gramos por litro.
-
-Se acepta que esta bebida se prepare con zumo de otras frutas cítricas o saborizantes naturales de las mismas, pero en tal caso al producto deberá nominarse Pisco Sour, seguido del nombre de la fruta que corresponda.
+Derogado
 
 ## Título VI
 
