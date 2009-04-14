@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.221, de esta Subsecretaría, modifícase la resolución exenta Nº 1.204, de 2009, que modificó el numeral 6º de la resolución exenta Nº 285, de 2009, ambas de esta Subsecretaría de Pesca que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Plan de Administración para la pesquería artesanal de Merluza del sur (Merluccius australis) en aguas interiores de la Décima Región, Zona Hualaihué, año 2009, mediante utilización del Sistema Electrónico de Identificación, SELID" en el sentido de eliminar la letra b) del numeral 1º de la mencionada resolución.
+
+Valparaíso, 3 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
