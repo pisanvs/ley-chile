@@ -5474,7 +5474,7 @@ Por consiguiente, en un período de encaje regirán dos tipos de paridades fijas
 
 ### 9. Disposición transitoria
 
-No obstante lo dispuesto en numeral 8.2 de este Capítulo, desde el período de encaje que se inicia el 9 de octubre de 2008 hasta el que concluye el 8 de abril de 2009, el encaje en moneda extranjera se podrá constituir también en euros, yenes japoneses o moneda nacional, todas ellas medidas por su equivalente en dólares según las paridades indicadas en el numeral 8.3 precedente."
+No obstante lo dispuesto en numeral 8.2 de este Capítulo, desde el período de encaje que se inicia el 9 de octubre de 2008 hasta el que concluye el 8 de febrero de 2010, el encaje en moneda extranjera se podrá constituir también en euros, yenes japoneses o moneda nacional, todas ellas medidas por su equivalente en dólares según las paridades indicadas en el numeral 8.3 precedente."
 
 ## Capítulo 4-2
 
