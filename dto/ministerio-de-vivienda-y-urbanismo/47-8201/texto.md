@@ -1714,21 +1714,47 @@ vigente y destinarlas a áreas verdes, vialidad o
 
 a los usos determinados por dicha normativa.
 
+Para estos efectos se entenderá por redes y
+
+trazados, todos los componentes de conducción,
+
+distribución, traslado o evacuación, asociados a
+
+los elementos de infraestructura indicados en el
+
+inciso anterior.
+
 El Instrumento de Planificación Territorial
 
-respectivo podrá establecer las condiciones o requisitos
+respectivo definirá en las áreas al interior del
 
-que permitan el emplazamiento de las instalaciones
+límite urbano, las normas urbanísticas que regulen
 
-o edificaciones necesarias para este tipo de uso,
+el emplazamiento de las instalaciones o edificaciones
 
-sin perjuicio del cumplimiento de las normas
+necesarias para este tipo de uso, que no formen parte
 
-ambientales, de las normas de la Ley General de
+de la red, sin perjuicio del cumplimiento de las normas
 
-Urbanismo y Construcciones, de esta
+ambientales, de las normas de la Ley General de Urbanismo
 
-Ordenanza y demás disposiciones pertinentes.
+y Construcciones, de esta Ordenanza y demás disposiciones
+
+pertinentes. En el área rural de los planes reguladores
+
+intercomunales o metropolitanos, dichas instalaciones o
+
+edificaciones estarán siempre admitidas y se sujetarán
+
+a las disposiciones que establezcan los organismos
+
+competentes, sin perjuicio del cumplimiento de la
+
+ley 19.300 y de lo dispuesto en el artículo 55 del
+
+DFL N°458 (V. y U.), de 1975, Ley General de
+
+Urbanismo y Construcciones.
 
 Las instalaciones o edificaciones de este tipo
 
