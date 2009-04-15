@@ -50,7 +50,7 @@ Asociaciones de Armadores
 
 Artesanales de la Décima
 
-Región 10.681 4.700 15.381
+Región 18.800 4.700 23.500
 
 A.G., Registro de Asociación
 
@@ -101,7 +101,5 @@ c) Las fechas de suspensión de las faenas de captura serán determinadas por el
 d) Los excesos en la extracción de la fracción autorizada en el período respectivo se descontarán de la fracción autorizada para el período siguiente a la misma organización, y e) Los remanentes no capturados de la fracción autorizada en el período respectivo acrecentarán a la fracción autorizada para el período siguiente a la misma organización.
 
 5.- Sin perjuicio de lo dispuesto en el numeral 1.-, las capturas de Jurel efectuadas entre el 1º de enero de 2009 y la fecha de publicación de la presente resolución en el Diario Oficial, deberán ser descontadas de las cuotas asignadas a las organizaciones de pescadores artesanales antes individualizados, en proporción a los desembarques informados por las embarcaciones artesanales cuyos armadores hayan sido incluidos en la nómina indicada en el numeral 2.- de la presente resolución.
-
-> **Nota.** La Resolución 2401 Exenta, Economía, publicada el 20.07.2009, modifica el Nº 1 letra A), de la presente norma, en el sentido de reemplazar las asignaciones del recurso Anchoveta Engraulis ringens para las organizaciones de pescadores artesanales por las que en ella se indica.
 
 Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
