@@ -90,15 +90,7 @@ NCh2796.Of2003 Acuerdos de Producción Limpia
 
 (APL) - Vocabulario.
 
-NCh2825.Of2003 Acuerdos de Producción Limpia
-
-(APL) - Requisitos para los
-
-auditores y procedimiento de la
-
-auditoría de evaluación de
-
-cumplimiento.
+NCh2825.Of2003 ANULADA Y REEMPLAZADA
 
 #### Artículo 2º
 

@@ -244,11 +244,7 @@ natural y tiro forzado -
 
 Especificaciones y marcas.
 
-NCh2631/1.Of2002 Incertidumbre - Parte 1: Guía para la
-
-expresión de la incertidumbre de medida
-
-en la calibración.
+NCh2631/1.Of2002 ANULA Y REEMPLAZA
 
 NCh2631/2.Of2002 Incertidumbre - Parte 2: Ejemplos para
 

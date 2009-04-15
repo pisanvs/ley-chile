@@ -34,9 +34,7 @@ propagación de la llama - Parte 6:
 
 Categoría D.
 
-NCh 2797.Of2003 Acuerdos de producción limpia
-
-(APL) - especificaciones.
+NCh 2797.Of2003 ANULADA Y REEMPLAZADA
 
 NCh 2805.Of2003 Tecnología de la información -
 
@@ -48,13 +46,7 @@ emiten certificados de claves
 
 públicas.
 
-NCh 2807.Of2003 Acuerdos de producción limpia
-
-(APL) - diagnóstico, seguimiento y
-
-control, evaluación final y
-
-certificación de cumplimiento.
+NCh 2807.Of2003 ANULADA Y REEMPLAZADA
 
 NCh 2816.Of2003 Trabajo terminológico - principios
 

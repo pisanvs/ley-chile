@@ -48,11 +48,7 @@ funcionalmente dependientes de la
 
 tensión de alimentación.
 
-NCh2011.Of2001 Interruptores para instalaciones
-
-eléctricas fijas domésticas y similares
-
-- Requisitos generales.
+NCh2011.Of2001 ANULADA Y REEMPLAZADA
 
 NCh2024/2.Of2001 Medidores de energía eléctrica activa
 
