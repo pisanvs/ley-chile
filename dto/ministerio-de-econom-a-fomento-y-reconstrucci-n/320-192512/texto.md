@@ -20,15 +20,13 @@ Disposiciones Generales
 
 #### Artículo 1º
 
-Las disposiciones del presente Reglamento se aplicarán a todo tipo de actividad de acuicultura, ya sea que ésta se someta al régimen de concesiones de acuicultura, de autorizaciones o requiera simplemente de su inscripción en el registro nacional de acuicultura, en los términos previstos en el artículo 67 de la Ley General de Pesca y Acuicultura. Asimismo, todo aquel que realice actividades de acuicultura quedará sujeto al cumplimiento de las medidas de protección ambiental, que de forma general o particular, se establezcan para un área geográfica, de acuerdo con lo dispuesto en el artículo 87 de dicha Ley, sin perjuicio de lo dispuesto en otros cuerpos legales o reglamentarios.
+Las disposiciones del presente Reglamento se aplicarán a todo tipo de actividad de acuicultura, ya sea que ésta se someta al régimen de concesiones de acuicultura, de autorizaciones o requiera simplemente de su inscripción en el registro nacional de acuicultura, en los términos previstos en el artículo 67 de la Ley General de Pesca y Acuicultura. Asimismo, todo aquel que realice actividades de acuicultura quedará sujeto al cumplimiento de las medidas de protección ambiental, que de forma general o particular, se establezcan para un área geográfica, de acuerdo con lo dispuesto en los artículos 74 y 87 de dicha Ley, sin perjuicio de lo dispuesto en otros cuerpos legales o reglamentarios.
 
 #### Artículo 2º
 
 Para los efectos del presente Reglamento, se entenderá por:
 
-a) Accidente geográfico: Todas aquellas masas terrestres que toman contacto con el agua bajo la forma de punta, cabo, península, istmo, isla o grupo de islas.
-
-b) Acuicultura: actividad que tiene por objeto la producción de recursos hidrobiológicos organizada por el hombre.
+a) ELIMINADA b) Acuicultura: actividad que tiene por objeto la producción de recursos hidrobiológicos organizada por el hombre.
 
 c) Anti-incrustante: sustancia o agente destinado a evitar que organismos acuáticos se fijen a las estructuras artificiales utilizadas en la acuicultura.
 
@@ -48,7 +46,7 @@ j) ELIMINADA k) ELIMINADA l) Ley: Ley Nº 18.892 General de Pesca y Acuicultura 
 
 m) Módulo de cultivo: Balsa individual, grupo de balsas unidas o cualquier tipo de estructura utilizada para el confinamiento de los recursos hidrobiológicos. En el caso del cultivo en líneas, el módulo lo constituye una agrupación de líneas donde se cultiva un solo grupo de especies.
 
-n) ELIMINADA
+n) Producción: resultado de la suma de todos los egresos, expresados en toneladas, kilos o unidades, y del remanente existente en un centro de cultivo en un período determinado.
 
 o) ELIMINADA
 
@@ -70,21 +68,25 @@ v) Artes de cultivo: Elementos o sistemas utilizados para la realización de acu
 
 Para los efectos del presente Reglamento, constituyen instrumentos para la conservación y evaluación de las capacidades de los cuerpos de agua, los requisitos de operación previstos en las normas generales y especiales del mismo, así como la Caracterización Preliminar de Sitio y la información ambiental en los casos en que resulten procedentes.
 
-Asimismo, para los efectos del presente reglamento, se entenderá que se supera la capacidad de un cuerpo de agua cuando el área de sedimentación presente condiciones anaeróbicas.
+Asimismo, para los efectos del presente reglamento, se entenderá que se supera la capacidad de un cuerpo de agua cuando el área de sedimentación o la columna de agua, según corresponda, presente condiciones anaeróbicas.
 
 #### Artículo 4º
 
-Todo centro de cultivo deberá cumplir siempre con las siguientes condiciones:
+Todo centro de cultivo deberá cumplir siempre con las siguientes condiciones: a) Adoptar medidas para impedir el vertimiento de residuos y desechos sólidos y líquidos, que tengan como causa la actividad, incluidas las mortalidades, compuestos sanguíneos, sustancias químicas, lodos y en general materiales y sustancias de cualquier origen, que puedan afectar el fondo marino, columna de agua, playas, terrenos de playa, sin perjuicio de lo dispuesto por las normas de emisión dictadas en conformidad con el artículo 40 de la Ley Nº 19.300 sobre Bases Generales del Medio Ambiente
 
-a) Disponer los desechos o residuos sólidos y líquidos, incluidos los compuestos sanguíneos y los ejemplares muertos, en depósitos y condiciones que no resulten perjudiciales para el medio circundante. Su acumulación, transporte y disposición final se realizará conforme a los procedimientos establecidos por la autoridad competente.
+La acumulación, traslado y disposición de dichos desechos y residuos deberá hacerse en contenedores herméticos que impidan escurrimientos. El transporte fuera del centro y la disposición final deberá realizarse conforme los procedimientos establecidos por la autoridad competente.
 
-b) Mantener la limpieza de las playas y terrenos de playa aledaños al centro de cultivo de todo residuo sólido generado por la acuicultura. En ningún caso se podrá verter residuos sólidos o desperdicios al agua, al fondo marino o lacustre, ni a terrenos circundantes.
+b) Mantener la limpieza de las playas y terrenos de playa aledaños al centro de cultivo de todo residuo
 
-c) Retirar, al término de su vida útil o a la cesación definitiva de las actividades del centro, todo tipo de soportes no degradables o de degradación lenta que hubieren sido utilizados como sistema de fijación al fondo, con excepción de las estructuras de concreto, pernos y anclas.
+sólido generado por la acuicultura. c) Retirar, al término de su vida útil o a la cesación definitiva de las actividades del centro, todo tipo de soportes no degradables o de degradación lenta que hubieren sido utilizados como sistema de fijación al fondo, con excepción de las estructuras de concreto, pernos y anclas.
 
 d) La profundidad de las redes, linternas u otras artes de cultivo, incluidas las redes loberas, que penden de estructuras flotantes, no debe exceder al 90% de la altura de la columna de agua, respecto del nivel de reducción de sonda, debiendo quedar el decil más profundo siempre libre de estas estructuras. Esta condición no será aplicable a los colectores de semillas y sistemas de fijación al fondo. Tampoco será aplicable respecto de artes de cultivo que hayan sido sumergidos como medida de contingencia ante un florecimiento algal nocivo así declarado por la autoridad pesquera o por otra causa de fuerza mayor.
 
-e) Disponer de sistemas de seguridad, incluyendo los sistemas de fondeo, para prevenir el escape o pérdida masivos de recursos en sistemas de cultivo intensivo o desprendimiento de recursos exóticos en cultivos extensivos.
+e) Disponer de módulos de cultivo y fondeo que presenten condiciones de seguridad apropiadas a las características geográficas y oceanográficas del sitio concesionado, para prevenir el escape o pérdida masiva de recursos en sistemas de cultivo intensivo o desprendimiento o pérdida de recursos exóticos en cultivos extensivos. Deberá verificarse semestralmente el buen estado de los mencionados módulos, debiendo realizarse la mantención en caso necesario para el restablecimiento de las condiciones de seguridad, de lo cual se llevará registro en el centro.
+
+Las condiciones de seguridad de los módulos de cultivo y del fondeo de los centros de cultivo intensivo de peces, deberán ser certificadas anualmente, por un profesional o entidad debidamente calificados.
+
+Una copia de las certificaciones señaladas en el inciso anterior deberán ser mantenidas en el centro de cultivo.
 
 f) Utilizar sólo aquellos sistemas de emisión de sonidos destinados a ahuyentar mamíferos marinos o aves que hubieren sido autorizados expresamente por la autoridad competente.
 
@@ -92,19 +94,39 @@ g) Utilizar los elementos de flotación compuestos de poliestileno expandido (ta
 
 Las medidas de protección ambiental que se requieran en relación con el cultivo de las especies que sean incorporadas en la nómina de especies hidrobiológicas vivas de importación autorizada, fijada en conformidad al artículo 13 de la ley, serán establecidas mediante decreto supremo expedido a través del Ministerio de Economía, Fomento y Reconstrucción, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal que corresponda.
 
+h) Activar durante el proceso de alimentación un sistema de detección o captación del alimento no ingerido. Se exceptúan de esta obligación los centros que alimenten las especies en cultivo, exclusivamente con algas y los centros ubicados en tierra.
+
 #### Artículo 5º
 
-Todo centro debe disponer de un plan de acción ante contingencias ambientales, que establezca las acciones y responsabilidades operativas en caso de ocurrir circunstancias susceptibles de constituir riesgo de daño o que causen daño ambiental. Dicho plan debe considerar, a lo menos, los casos de mortalidades, escapes, o desprendimientos de ejemplares exóticos en cultivo y las pérdidas accidentales de alimento, estructuras de cultivo u otros materiales. Entre las actividades a seguir, el plan deberá comprender acciones de recaptura de los individuos, recolección y disposición segura de desechos y la eliminación de los ejemplares muertos en la forma prevista en la letra a) del artículo 4º.
+Todo centro debe disponer de un plan de acción ante contingencias, que establezca las acciones y responsabilidades operativas en caso de ocurrir circunstancias susceptibles de provocar efectos ambientales negativos o adversos.
 
-En el caso de escape de peces las acciones de recaptura se extenderán hasta por un período de 10 días desde ocurrido éste. En casos calificados, el plazo podrá ser modificado por resolución fundada del Servicio.
+Las contingencias que se deberán considerar serán a lo menos: temporales, terremotos, el enmalle de mamíferos marinos, el choque de embarcaciones con los módulos de cultivo, las pérdidas accidentales de alimento, de estructuras de cultivo u otros materiales, florecimientos algales nocivos, los escapes, o los desprendimientos de ejemplares exóticos en cultivo.
 
-Será responsabilidad del titular disponer de medios adecuados y personal capacitado para el cumplimiento del plan. Los costos de su aplicación serán de cargo del titular del centro de cultivo.
+Entre las actividades a seguir, el plan deberá comprender acciones de recaptura de los individuos, recolección y disposición segura de desechos y la eliminación de los ejemplares muertos en la forma prevista en la letra a) del artículo 4° y en el Decreto Supremo Nº 319 de 2001 del Ministerio de Economía, Fomento y Reconstrucción por el que se aprueba el reglamento de medidas de protección, control y erradicación de enfermedades de alto riesgo para las especies hidrobiológicas.
+
+El plan de acción ante contingencias deberá comprender al menos lo siguiente:
+
+a) Acciones a desarrollar ante una contingencia que se presente y el cronograma de su aplicación;
+
+b) Equipos y elementos necesarios para la correcta aplicación de las acciones enumeradas en el literal anterior, los que deberán comprender al menos los medios de transporte, señalización y comunicación; y
+
+c) Programa actualizado del mantenimiento de los equipos señalados en el inciso anterior.
+
+Un ejemplar escrito del plan de acción de contingencias deberá mantenerse en el centro de cultivo y deberá ser conocido por el personal del mismo. Una copia de dicho plan deberá ser remitido al Servicio.
+
+Será responsabilidad del titular disponer de medios adecuados y personal capacitado para el cumplimiento del plan de acción frente a contingencias. Los costos de su aplicación serán de cargo del titular del centro de cultivo.
 
 Todas las contingencias a que se refiere el presente artículo deberán ser informadas al Servicio y a la Autoridad Marítima dentro de un plazo de 24 horas desde detectado el hecho.
 
 #### Artículo 6º
 
-En caso de escape o desprendimientos masivos de ejemplares desde centros de cultivo, así como la sospecha de que haya ocurrido, deberá presentarse un informe a la Dirección Regional del Servicio o su oficina más cercana en el plazo de 15 días hábiles de detectado el hecho, incluyendo los siguientes datos:
+En el caso de escape de peces o desprendimiento masivo de ejemplares desde centros de cultivo, así como la sospecha de que haya ocurrido, se deberá informar al Servicio y a la Autoridad Marítima dentro de un plazo de 24 horas de detectado el hecho.
+
+Las acciones de recaptura respecto de especies de cultivo en sistemas de producción intensivo o especies exóticas en sistemas de producción extensivos, se extenderán hasta un período de 10 días desde ocurrido éste. En casos calificados, el plazo podrá ser ampliado por Resolución fundada del Servicio.
+
+Será responsabilidad del titular disponer de medios adecuados y personal capacitado para el cumplimiento de las acciones de recaptura.
+
+Se deberá presentar un informe a la Dirección Regional del Servicio o su oficina más cercana en el plazo de 15 días hábiles de detectado el hecho, incluyendo los siguientes datos:
 
 a) Localidad exacta del escape o desprendimiento, señalando la identificación del centro de cultivo;
 
@@ -138,11 +160,13 @@ El uso de mecanismos físicos, productos químicos y biológicos, o la realizaci
 
 #### Artículo 9º
 
-La limpieza de los artes de cultivo y los lavados de redes con y sin antiincrustantes se deberá realizar en instalaciones que traten sus efluentes de acuerdo con las normas de emisión, sin perjuicio de lo dispuesto en el inciso 3º del presente artículo. Los residuos sólidos en ellas generados deben ser dispuestos de acuerdo a lo que estipule la normativa pertinente. El transporte marítimo, fluvial y lacustre de las artes de cultivo deberá realizarse en contenedores que impidan el escurrimiento de líquidos o desprendimiento de material.
+La limpieza de los artes de cultivo y los lavados de redes con y sin antiincrustantes se deber� realizar en instalaciones que traten sus efluentes de acuerdo con la normativa ambiental vigente, sin perjuicio de lo dispuesto en el inciso 3º del presente artículo. Los residuos sólidos en ellas generados deben ser dispuestos de acuerdo a lo que estipule la normativa pertinente. El transporte marítimo, fluvial y lacustre de las artes de cultivo deberá realizarse en contenedores que impidan el escurrimiento de líquidos o desprendimiento de material.
 
 Para realizar la limpieza y lavados antes indicados en plataformas flotantes se requerirá la autorización expresa de la Autoridad Marítima de acuerdo con lo señalado en el inciso sexto del artículo 142 del decreto ley 2.222 de 1978. Sin perjuicio de lo anterior, no se autorizará este lavado en cuerpos de agua terrestres.
 
 No obstante lo dispuesto en el inciso primero, el lavado in situ sólo podrá efectuarse en centros ubicados en mar y siempre que las artes de cultivo no hubieren sido impregnadas con anti-incrustantes que contengan como productos activos elementos tóxicos no degradables o bioacumulables. Las condiciones respectivas serán establecidas por resolución de la Autoridad Marítima.
+
+Las redes removidas para su limpieza no podrán ser mantenidas o acopiadas en el centro de cultivo ni sectores aledaños a éste, sin perjuicio de lo dispuesto en el inciso 2°, en cuyo caso se estará a la autorización otorgada por la Autoridad Marítima.
 
 ## Título II
 
@@ -160,7 +184,7 @@ Estará prohibida la instalación de cerquillos u otras estructuras destinadas a
 
 #### Artículo 11º
 
-Los centros con sistemas de producción extensivo ubicados en porciones de agua y fondo deberán mantener una distancia mínima de 200 metros entre sí y de 400 metros respecto de centros con sistemas de producción intensivo. Quedarán excluidos de esta exigencia aquellos centros que se encuentran en la situación prevista en la letra a) del artículo 13 de este Reglamento y los cultivos de macroalgas fijadas al sustrato.
+Los centros con sistemas de producción extensivo ubicados en porciones de agua y fondo deberán mantener una distancia mínima de 200 metros entre sí y de 400 metros respecto de centros con sistemas de producción intensivo. Quedarán excluidos de esta exigencia los cultivos de macroalgas fijadas al sustrato.
 
 Los cultivos suspendidos de macroalgas deberán mantener una distancia mínima de 50 metros entre sí y respecto de otros centros.
 
@@ -176,13 +200,9 @@ Sistemas de Producción Intensivos
 
 #### Artículo 13°
 
-Los centros con sistemas de producción intensivo ubicados en porciones de agua y fondo deberán conservar una distancia mínima entre sí de 2.778 metros. La distancia mínima de dichos centros respecto de centros con sistemas de producción extensivos, deberá ser de 400 metros.
+Los centros con sistemas de producción intensivo ubicados en porciones de agua y fondo deberán conservar una distancia mínima entre sí de 1,5 millas náuticas. La distancia mínima de dichos centros respecto de centros con sistemas de producción extensivos, deberá ser de 400 metros.
 
-Dichos requisitos no serán exigibles en los siguientes casos:
-
-a) Si entre los límites de ambas solicitudes de concesión y/o concesiones el trazado de cualquier línea recta imaginaria se ve interrumpido por un accidente geográfico, incluso en las más altas mareas.
-
-b) En todo cultivo cuya alimentación se base exclusiva y permanentemente en macroalgas. En este caso la distancia mínima exigible entre centros será de 400 m.
+Los centros de cultivo intensivos, cuya alimentación se base exclusiva y permanentemente en macroalgas, deberán mantener una distancia mínima de 400 metros entre sí y respecto de otros centros.
 
 #### Artículo 13 bis
 
@@ -212,13 +232,13 @@ La CPS será exigible sólo a los proyectos en sectores de agua y fondo que deba
 
 La CPS contendrá los elementos que deberá considerar la autoridad pesquera para evaluar ambientalmente los proyectos y si procediere, otorgar el correspondiente Permiso Ambiental Sectorial.
 
-El titular de un centro de cultivo no podrá superar los niveles de producción informados.
+El titular de un centro de cultivo no podrá superar los niveles de producción informados en la solicitud de concesión o autorización de acuicultura aprobada por la autoridad competente.
 
 #### Artículo 16º
 
 Tanto los contenidos como las metodologías para elaborar la CPS y la INFA serán fijados por resolución de la Subsecretaría.
 
-Esta resolución sólo podrá establecer requerimientos relativos a la descripción de la ubicación y topografía del centro, características hidrográficas del sector, número y ubicación de los sitios de muestreo, registro visual del área, información relativa a especies exóticas bentónicas, parámetros y variables ambientales en el sedimento y columna de agua y las condiciones técnicas bajo las cuales deberá efectuarse la obtención, traslado y análisis de las muestras.
+Esta resolución sólo podrá establecer requerimientos relativos a la descripción de la ubicación y topografía del centro, características hidrográficas del sector, número y ubicación de los sitios de muestreo, registro visual del área, información relativa a especies exóticas bentónicas, parámetros y variables ambientales en el sedimento y columna de agua, y sus límites de aceptabilidad, y las condiciones técnicas bajo las cuales deberá efectuarse la obtención, traslado y análisis de las muestras.
 
 Para establecer los requerimientos a que se refiere el inciso anterior, la resolución fijará categorías de centros de cultivo, las cuales deberán considerar los distintos sistemas de producción, la ubicación de los centros y nivel de producción.
 
@@ -234,29 +254,43 @@ Para que los proyectos de acuicultura en sectores de agua y fondo, o sus modific
 
 #### Artículo 19º
 
-La INFA debe ser presentada por todos los centros de cultivo. Su titular la realizará de acuerdo con los requerimientos establecidos para la categoría en que se encuentre dicho centro. En el caso de centros que durante el período de muestreo se encuentren sin existencia de biomasa, esta obligación deberá ser igualmente cumplida según lo dispuesto en el inciso siguiente. No obstante, en el caso de centros que nunca hayan operado, no será exigible esta obligación.
+En los centros de cultivo de engorda de peces, los muestreos de la INFA se realizarán dos meses antes de iniciarse la cosecha, de acuerdo con los requerimientos establecidos para la categoría en que se encuentre dicho centro.
 
-Para todos los casos, la frecuencia de muestreo y fecha de presentación de la INFA será fijada por resolución de la Subsecretaría".
+En los centros de cultivo de esmoltificación de peces, los muestreos de la INFA se realizarán dos meses antes de la última cosecha que se realice dentro del año calendario. Asimismo, en los centros que mantengan reproductores de peces, los muestreos se realizarán una vez al año, dentro del último trimestre del año.
+
+En los casos que corresponda, será responsabilidad del titular del centro de cultivo informar con la debida anticipación la fecha en que comenzará la cosecha. Si el titular del centro de cultivo decide cosechar antes de la fecha informada, deberá comunicarlo inmediatamente al Servicio.
+
+En los casos de centros de cultivo con sistema de producción extensivo y los de producción intensiva que se alimenten exclusiva y permanentemente de macroalgas, la INFA deberá ser entregada cada dos años. En estos casos, la oportunidad en que deberán realizarse los muestreos será determinada por la resolución a que se refiere el artículo 16 del presente reglamento.
+
+La INFA deberá ser presentada por los titulares de los centros de cultivo dentro de los dos meses siguientes al término de los muestreos.
+
+En cualquier caso, no podrá ingresarse nuevos ejemplares a los centros de cultivo mientras no se cuente con los resultados de la INFA que acrediten que el centro está operando en niveles compatibles con la capacidad del cuerpo de agua, de conformidad con el artículo 3° del presente reglamento.
+
+Sin perjuicio de lo anterior, esta medida no regirá en el caso que la autoridad competente no se hubiere pronunciado en el plazo de tres meses contados desde la fecha de entrega de los resultados de la INFA.
+
+En el caso de centros que no se encuentren en operación, no será exigible la entrega de la INFA. Con todo, en forma previa al ingreso de ejemplares al centro, se requerirá contar con una INFA cuyos resultados acrediten la condición a que se refiere el inciso 6° del presente artículo, y deberá haberse realizado conforme lo establezca la resolución señalada en el artículo 16 del presente reglamento.
 
 La información ambiental deberá ser entregada al Servicio local, el cual remitirá copia del mismo a la Subsecretaría. En caso de inconsistencia técnica en la información ambiental entregada o ante disconformidad entre los antecedentes contenidos en ella y aquellos con que cuente el Servicio, éste podrá exigir información complementaria.
 
 #### Artículo 20º
 
-En el caso de sistemas de producción intensivos, si en el área de sedimentación del centro se detectan condiciones anaeróbicas durante dos años consecutivos, al año siguiente se reducirá en un 30% el número de ejemplares a cultivar, tomando como base el número de ejemplares que ingresó al centro el año anterior. En el caso de sistemas de producción extensivo, al constatarse en el centro en dos años consecutivos la presencia de condiciones anaeróbicas, se disminuirá en un 30% la biomasa inicial de ejemplares o algas a cultivar, según corresponda.
+En el caso que el centro de cultivo supere la capacidad del cuerpo de agua, según lo establecido en el artículo 3°, no se podrá ingresar nuevos ejemplares mientras no se reestablezcan las condiciones aeróbicas de conformidad con el inciso siguiente.
 
-Lo dispuesto en el inciso anterior se aplicará de forma sucesiva mientras no se restablezcan las condiciones aeróbicas.
+Corresponderá al titular del centro de cultivo determinar el momento en que realizará una nueva INFA que deberá acreditar que en el sitio se podrá reanudar y mantener operaciones en condiciones aeróbicas al menos por un ciclo productivo, en el caso del cultivo de peces, y de dos años en los demás casos. En todo caso, el período de inactividad no suspenderá los plazos de caducidad previstos en el artículo 142 de la ley.
 
-No obstante lo anterior, si el titular acredita la adopción de metodologías o acciones que permitan operar en las condiciones que establece el Artículo 17, la Subsecretaría, mediante resolución, podrá autorizar total o parcialmente el reestablecimiento de los niveles productivos.
-
-Sin perjuicio de dispuesto en los incisos anteriores, en aquellos centros ubicados en cuerpos de agua terrestres que estén sometidos a este reglamento, la medida de mitigación forzosa a que se refiere dicho artículo se aplicará una vez producidas las condiciones anaeróbicas.
+La INFA antes señalada deberá ser realizada por un profesional o persona jurídica que cumpla con los requisitos establecidos en el artículo 21.
 
 #### Artículo 21º
 
-Para los efectos del presente reglamento la CPS, la INFA, la información a que se refiere el artículo 18 y los planes a que se refieren los artículos 5 y 10, deberán ser elaborados y suscritos por un profesional que acredite especialización o experiencia en materias marinas, limnológicas o ambientales.
+Para los efectos del presente reglamento la CPS, la INFA, la información a que se refiere el artículo 18 y los planes a que se refieren los artículos 5 y 10, deberán ser elaborados y suscritos por un profesional o persona jurídica que cuente con profesionales que acrediten especialización o experiencia en materias marinas, limnológicas o ambientales. Sin perjuicio de lo anterior, el análisis que realicen los laboratorios para la elaboración de la CPS e INFA deberá ser realizado por laboratorios acreditados ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización, de conformidad con la Norma Chile Nch-ISO/IEC17025:2005 (ES) o la que la reemplace.
 
 El Servicio pondrá a disposición de los interesados los formularios para estandarizar la entrega de la información a que se refiere el presente Reglamento.
 
 La Subsecretaría emitirá, con los datos recopilados, un reporte bienal sobre el estado ambiental de la acuicultura.
+
+#### Artículo 21 bis
+
+Sin perjuicio de lo señalado en los artículos anteriores, en ejercicio de la función fiscalizadora, el Servicio realizará las INFA de los centros de cultivo que determine anualmente, de acuerdo a las metodologías establecidas de conformidad con el artículo 16 del presente reglamento. En este caso, los titulares de dichos centros de cultivo estarán eximidos de presentar la INFA correspondiente a ese período.
 
 #### Artículo 22º
 
@@ -293,6 +327,8 @@ transitorio: La Subsecretaría dispondrá de un año contado desde la publicaci�
 #### Artículo quinto
 
 transitorio: Lo dispuesto en los artículos 4 letras d) y g) y 10 inciso 2º comenzará a regir en el plazo de un año contado desde la publicación del presente decreto supremo.
+
+> **Nota.** El Nº 16 del artículo único del DTO 397, Economía, publicado 15.04.2009, modifica la presente norma, en el sentido de señalar que la obligación establecida en la letra g) del artículo 4 comenzará a regir el 1 de enero de 2010.
 
 #### Artículo sexto
 
