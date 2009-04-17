@@ -26,11 +26,11 @@ De la Administración
 
 El Bienestar será administrado por un Consejo Administrativo, compuesto por seis miembros e integrado de la siguiente forma:
 
-a) El Director General del Servicio de Registro Civil e Identificación o la persona que él designe.
+a) El Director Nacional del Servicio de Registro Civil e Identificación o la persona que él designe.
 
 b) El Jefe del Departamento de Recursos Humanos.
 
-c) Un directivo que será nombrado por el Director General del Servicio de Registro Civil e Identificación.
+c) Un directivo que será nombrado por el Director Nacional del Servicio de Registro Civil e Identificación.
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
@@ -84,7 +84,7 @@ h) Con los demás bienes o recursos que obtenga por cualquier título.
 
 #### Artículo 7
 
-Los fondos del Bienestar serán depositados en cuentas bancarias subsidiarias de la Cuenta Unica Fiscal, y contra ellas podrán girar conjuntamente el Jefe de Bienestar y las personas que el Director General del Servicio de Registro Civil e Identificación designe.
+Los fondos del Bienestar serán depositados en cuentas bancarias subsidiarias de la Cuenta Unica Fiscal, y contra ellas podrán girar conjuntamente el Jefe de Bienestar y las personas que el Director Nacional del Servicio de Registro Civil e Identificación designe.
 
 En caso de ausencia o impedimento de los giradores mencionados en el inciso primero, éstos serán reemplazados por los funcionarios que el Director General haya designado en calidad de suplentes.
 
@@ -214,7 +214,7 @@ a) Préstamo médico: Se otorgará como complemento para ayudar a cancelar la pa
 
 Estos préstamos serán cancelados directamente a los profesionales o a las instituciones que prestaron la atención;
 
-b) Préstamo personal: Se otorgará por una vez en el año calendario y con el objeto de propender al mejoramiento de las condiciones de vida y/o trabajo de sus afiliados. Este préstamo será incompatible con cualquier otro por ser de libre disposición y deberá ser cancelado en forma íntegra para optar a un nuevo préstamo.
+b) Préstamos personales: Se otorgarán de acuerdo a la capacidad crediticia del afiliado, a fin de contribuir a mejorar las condiciones familiares y/o de trabajo de los afiliados".
 
 c) Préstamo de emergencia: Se otorgará ante problemas económicos graves, imprevistos y otras causas justificadas, previo Informe de una Asistente Social del Bienestar;
 
