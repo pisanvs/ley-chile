@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.745, de 31/12/2008, modificó D.S. 552/1988, modificado por Res. (M) 798/1994, de la siguiente forma: Ubicación: Estero Huito; superficie 26,25 Hás.; coordenadas geográficas Carta S.H.O.A. N° 7310, 4ª Edición 1999 (Datum WGS-84). Vértice A Lat. 41°45'10,39" S. Long. 73°09'37,51" W. Vértice B Lat. 41°45'08,66" S. Long. 73°09'39,66" W. Vértice C Lat. 41°45'05,75" S. Long. 73°09'42,00" W. Vértice D Lat. 41°45'02,98" S. Long. 73°09'43,45" W. Vértice E Lat. 41°45'00,63" S. Long. 73°09'47,85" W. Vértice F Lat. 41°44'57,25" S. Long. 73°09'51,47" W. Vértice G Lat. 41°44'53,04" S. Long. 73°09'56,90" W. Vértice H Lat. 41°44'46,27" S. Long. 73°09'45,11" W. Vértice I Lat. 41°44'55,20" S. Long. 73°09'32,90" W. Vértice J Lat. 41°44'54,04" S. Long. 73°09'31,47" W. Vértice K Lat. 41°45'00,59" S. Long. 73°09'22,77" W.
+
+Santiago, 9 de abril de 2009.- Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
