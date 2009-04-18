@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.777, de 31/12/2008, modificó Res. (M) 901/1995, modificada por Res. (M) 1.910/1996, transferida a su actual titular por Res. (M) 405/2002, de la siguiente forma: Ubicación: Canal Quihua, Isla Quihua, superficie 7,34 Hás., coordenadas geográficas Carta S.H.O.A. N° 7310, 4ª Edición 1999 (Datum WGS-84). Vértice A Lat. 41°45'03,61" S. Long. 73°11'33,18" W. Vértice B Lat. 41°44'59,45" S. Long. 73°11'27,24" W. Vértice C Lat. 41°45'05,45" S. Long. 73°11'19,38" W. Vértice D Lat. 41°45'11,15" S. Long. 73°11'19,59" W. Vértice E Lat. 41°45'13,91" S. Long. 73°11'17,09" W. Vértice F Lat. 41°45'15,44" S. Long. 73°11'18,78" W. Vértice G Lat. 41°45'07,00" S. Long. 73°11'28,89" W.
+
+Santiago, 9 de abril de 2009.- Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
