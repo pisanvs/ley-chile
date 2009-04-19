@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.308 de 14 de abril de 2009 de esta Subsecretaría, modifícase la resolución exenta Nº1.268 de 2009, de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Modelo de Gestión Integral de la pesquería de reineta Brama australis, para la flota artesanal de la provincia de Arauco, en la Región del Bío Bío", en el sentido de reemplazar su numeral 4º inciso 1º, por el siguiente:
+
+"Podrán participar en la presente pesca de investigación las embarcaciones y los armadores artesanales inscritos en el Registro Pesquero Artesanal de la VIII Región, con caleta base en la Provincia de Arauco. Las embarcaciones deberán contar con Certificado de Navegabilidad Vigente otorgado por la Autoridad Marítima; en caso que durante la ejecución de la pesca de investigación alguna embarcación deje de contar con la referida certificación, quedará suspendida de operar en el marco de la misma en tanto no regularice su situación."
+
+Valparaíso, 14 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
