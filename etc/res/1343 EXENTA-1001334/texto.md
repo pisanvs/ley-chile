@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.343, de 14 de abril de 2009, de esta Subsecretaría, recházase la solicitud Nº 205041001 presentada por JOHANN SPAARWATER GILDEMEISTER para modificar la concesión de acuicultura ubicada en sector Palo Colorado, IV Región, otorgada por resolución Nº 1.124 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 14 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
