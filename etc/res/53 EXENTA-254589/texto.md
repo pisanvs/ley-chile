@@ -100,7 +100,7 @@ Zona rural tipo 2:
 
 #### Artículo transitorio
 
-Los valores máximos de los índices de calidad de suministro de instalaciones que cumplan con las características de Zona Rural tipo 2 serán aplicados a todas aquellas instalaciones que han sido puestas en servicio con posterioridad a la fecha de publicación de la presente norma.
+SUPRIMIDO.
 
 Anótese, publíquese y notifíquese a las empresas concesionarias de distribución, a la Comisión Nacional de Energía y a la Superintendencia de Electricidad y Combustibles.- Alejandro Ferreiro Yazigi, Ministro de Economía, Fomento y Reconstrucción.
 
