@@ -178,35 +178,41 @@ El valor párvulo-mes a utilizarse para los cálculos del artículo anterior, en
 
 Nivel Sala Cuna
 
-Región Valor Párvulo-mes
+Región
+
+Valor Párvulo-mes
 
 $
 
-I 99.599
+XV de Arica y Parinacota 117.118
 
-II 97.025
+I de Tarapacá 117.118
 
-III 93.522
+II de Antofagasta 114.092
 
-IV 88.416
+III de Atacama 109.973
 
-V 84.953
+IV de Coquimbo 103.968
 
-VI 84.567
+V de Valparaíso 99.896
 
-VII 84.125
+VI del Libertador Gral. Bernardo O'Higgins 99.442
 
-VIII 91.755
+VII del Maule 98.923
 
-IX 90.157
+VIII del Bío-Bío 107.895
 
-X 89.750
+IX de La Araucanía 106.016
 
-XI 130.409
+XIV de Los Ríos 105.537
 
-XII 112.184
+X de Los Lagos 105.537
 
-RM 84.650
+XI de Aysén 153.348
+
+XII de Magallanes y la Antártica Chilena 131.917
+
+Metropolitana 99.540
 
 Niveles Medio Menor, Medio Mayor, Transición y Grupos Heterogéneos
 
@@ -214,31 +220,35 @@ Región Valor Párvulo-mes
 
 $
 
-I 47.619
+XV de Arica y Parinacota 55.995
 
-II 46.376
+I de Tarapacá 55.995
 
-III 44.852
+II de Antofagasta 54.534
 
-IV 42.669
+III de Atacama 52.741
 
-V 40.891
+IV de Coquimbo 50.174
 
-VI 40.955
+V de Valparaíso 48.084
 
-VII 45.445
+VI del Libertador Gral. Bernardo O'Higgins 48.159
 
-VIII 44.709
+VII del Maule 53.439
 
-IX 48.953
+VIII del Bío-Bío 52.573
 
-X 43.505
+IX de La Araucanía 57.564
 
-XI 69.191
+XIV de Los Ríos 51.158
 
-XII 54.403
+X de Los Lagos 51.158
 
-RM 40.884
+XI de Aysén 81.362
+
+XII de Magallanes y la Antártica Chilena 63.972
+
+Metropolitana 48.075
 
 Si el jardín infantil se encuentra ubicado en un sector rural, el aporte correspondiente al valor párvulo-mes se incrementará en un 5%.
 
