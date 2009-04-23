@@ -84,8 +84,6 @@ El área protegida posee una superficie total de 2.622,39 m2, como se indica en 
 
 El área protegida posee una superficie total de 43.558,65 m2, como se indica en el polígono A-B-C-D-E-F-G-H-I-J-K-L-M-N-O-P-Q-A del plano que se adjunta y que forma parte del presente decreto.
 
-> **Nota.** El artículo primero del decreto N° 50, Culturas, publicado el 18.01.2023, modifica la presente norma en el sentido de rectificar la denominación del Monumento Nacional, en la categoría de Monumento Histórico, “Cárcel de San Fernando” por el de “Sitio de Memoria Ex Cárcel Pública de San Fernando”, definir sus valores y atributos, y ampliar sus límites de protección, en los términos descritos en el citado decreto.
-
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Cristián Martínez Ahumada, Subsecretario de Educación.
