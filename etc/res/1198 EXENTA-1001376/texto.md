@@ -1,0 +1,7 @@
+Por resolución exenta Nº1.198 de 30 de marzo de 2009, de esta Subsecretaría, autorízase a SOCIEDAD ADL DIAGNOSTIC CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los T.T.R. Proyecto "Determinación de prevalencia de los virus de la Anemia Infecciosa del Salmón (ISA) y enfermedad pancreática (PD), en la población de peces silvestres y asilvestrados de los lagos de la Región de Los Lagos con concesiones de salmonicultura".
+
+El objetivo de la pesca de investigación consiste en determinar y cuantificar la presencia en la población de peces tanto silvestres como asilvestrados de los virus de Anemia Infecciosa del Salmón y de la Enfermedad Pancreática en lagos con concesiones de salmonicultura.
+
+La pesca de investigación se efectuará dentro de 1 año, en los lagos Rupanco, Llanquihue, Chapo, Popetán, Tepuhueico, Cucao, Huillinco, Tarahuín, Natri y San Antonio, X Región, y el lago Ranco, XIV Región, donde podrá capturar, con y sin devolución, mediante redes de enmalle y transmalle, líneas de pesca y/o trampas, ejemplares de las especies nativas e introducidas, señaladas en la resolución extractada.
+
+Valparaíso, 30 de marzo de 2009.- Jorge Chocair Santibáñez Subsecretario de Pesca.
