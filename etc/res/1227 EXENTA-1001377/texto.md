@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.227, de 3 de abril de 2009, de esta Subsecretaría, autorízase a CHILESAN SOCIEDAD ANÓNIMA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en Lote 3, Quilquel s/n, Dalcahue, Chiloé, X Región, para elaborar en líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Conserva, Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
