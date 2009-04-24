@@ -1,0 +1,13 @@
+COMUNICA VISITA COMISIÓN HOMBRES BUENOS PROYECTO NUEVO TRAMO LÍNEA 1X220 EL RODEO CHENA
+
+Por D.S. N°405, de fecha 28.11.2008, del Ministerio de Economía, Fomento y Reconstrucción, publicado con fecha 27 de febrero de 2009 en el Diario Oficial, otorgó a Transelec S.A. concesión eléctrica definitiva para establecer en la Región Metropolitana, provincia de Maipo, comunas de San Bernardo y Calera de Tango, una línea de transmisión eléctrica en estructuras de doble circuito, en una primera etapa de simple circuito trifásico para posteriormente instalarse el segundo circuito trifásico, con una tensión nominal de 220 kV, que se denominará "Nuevo Tramo Línea 1X220 kV El Rodeo-Chena".
+
+Por R. M. N° 28, de fecha 27.03.2009, del Ministerio de Economía, Fomento y Reconstrucción, designó dos Comisiones de Hombres Buenos para que, en conformidad con lo establecido en el artículo 63° y siguientes del D.F.L. N° 1, de 1982, del Ministerio de Minería, Ley General de Servicios Eléctricos, cuyo texto refundido, coordinado y sistematizado fuera fijado mediante el DFL N° 4/20018, de 2006, de esa misma Secretaría de Estado, el decreto reglamentario N° 113, de 2007 y el decreto N° 405, de 2008, ambos del Ministerio de Economía, Fomento y Reconstrucción, practiquen el avalúo de las indemnizaciones, que de acuerdo a la ley, proceden por las servidumbres eléctricas sobre los predios a que se refiere el mencionado decreto 405 de 2008.
+
+De acuerdo a lo señalado, la primera comisión designada, compuesta por don Fernando Roberto Ortiz Alvarado, RUT 6.365.395-0, Abogado; don Mario Alberto Arenas Pizarro, RUT 3.246.861-6, Arquitecto, y don Víctor Gabriel Valdés Encina, R.U.T. 6.432.092-0, Ingeniero Civil Electricista, corresponde el avalúo de los predios Nos 4 al 76, ambos inclusive, ubicados en la comuna de Calera de Tango, y a la segunda comisión designada, compuesta por don Sergio Eduardo Ravanal Depassier, R.U.T. 3.634.209, Abogado; don Armando José Illanes Oliva, RUT 4.774.129-7, Ingeniero Agrónomo, y don Humberto Antonio Sepúlveda Vergara, R.U.T. 1.979.018-5, Ingeniero Civil, corresponde el avalúo de los predios N° 92 al N° 132, ambos inclusive, ubicados en la comuna de San Bernardo.
+
+Con el objetivo de conocer del propietario del predio afectado sus observaciones sobre la indemnización antes referida, en caso de hacerlas presente, las Comisiones de Hombres Buenos designadas procederán a visitar los predios afectados, de conformidad a planes de vistas presentados por las Comisiones y aprobados por la Superintendencia de Electricidad y Combustibles, los cuales se detallan a continuación:
+
+VER DIARIO OFICIAL DE 23.04.2009, PÁGINAS 20-21.
+
+Comisiones de Hombres Buenos R.M. Exta. Nº28 de 27/03/09 Ministerio de Economía, Fomento y Reconstrucción.
