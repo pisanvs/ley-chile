@@ -24,21 +24,17 @@ Composición del Consejo Administrativo del Servicio de
 
 Bienestar
 
-#### Artículo 2º
+#### Artículo 2°
 
-El Consejo Administrativo del Servicio de Bienestar del Personal, estará integrado por:
+El Consejo Administrativo del Servicio de Bienestar estará integrado por:
 
 a) El Rector de la Universidad o la persona que él designe en su reemplazo, quien lo presidirá.
 
-b) El Director de Administración y Finanzas.
+b) El Director de Recursos Humanos y Bienestar del Personal.
 
-c) El Jefe de la Oficina de Contabilidad y Art. único
+c) El Director de Administración.
 
-Presupuesto.
-
-d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18º del Reglamento General.
-
-El Jefe del Servicio actuará como Secretario del Consejo.
+d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda de acuerdo con lo dispuesto en el inciso tercero del artículo 18° del Reglamento General.
 
 #### Artículo 3º
 
@@ -92,73 +88,53 @@ El Consejo Administrativo del Servicio determinará anualmente, los porcentajes 
 
 Párrafo Segundo De las ayudas económicas
 
-#### Artículo 8º
+#### Artículo 8°
 
 El Servicio de Bienestar podrá otorgar las siguientes ayudas por las causales y de acuerdo a las modalidades que a continuación se indican:
 
-a) Bono de Matrimonio: Cuando el afiliado contraiga matrimonio tendrá derecho a percibir una asignación por este concepto.
-
-Si ambos contrayentes fuesen afiliados, la asignación se cancelará a cada uno en forma independiente.
+a) Bono de Matrimonio: Cuando el afiliado contraiga matrimonio tendrá derecho a percibir una asignación por este concepto. Si ambos contrayentes fuesen afiliados, la asignación se pagará a cada uno en forma independiente.
 
 b) Bono de Natalidad: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-c) Bono de Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
+c) Bono de fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar. En caso del fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de preferencia:
 
-En caso del fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de preferencia:
+1° A la persona que acredite haber efectuado los gastos del funeral;
 
-1º A la persona que acredite haber efectuado los gastos del funeral;
+2° A la persona designada expresamente para tales efectos por el afiliado;
 
-2º A la persona designada expresamente para tales efectos por el afiliado;
+3° Al cónyuge sobreviviente;
 
-3º Al cónyuge sobreviviente;
+4° A los descendientes;
 
-4º A los hijos legítimos;
+5° A los hijos adoptivos;
 
-5º A los hijos naturales;
+6° A los ascendientes;
 
-6º A los hijos adoptivos;
+7° A los hermanos.
 
-7º A los padres legítimos.
+En caso de que el Servicio de Bienestar tenga contratado un seguro de vida para sus afiliados, los beneficiarios del causante no tendrán derecho al pago del Bono de Fallecimiento, salvo que la Compañía de Seguros rechace el pago del seguro a favor de los beneficiarios del causante.
 
-d) Bono de Estudio: Se concederá una asignación de estudios, siempre que las disponibilidades presupuestarias lo permitan, por una vez al año, en el mes que el Consejo Administrativo determine, al afiliado y a las cargas familiares, que se encuentren cursando estudios regulares en los niveles: Pre-Básico, Básico, Medio, Técnico o de Educación Superior, en algún establecimiento del Estado o reconocido por éste.
+d) Bono de Estudio: Se concederá una asignación de estudios, siempre que las disponibilidades presupuestarias lo permitan, por una vez al año, en el mes que el Consejo Administrativo determine, al afiliado y a las cargas familiares, que se encuentran cursando estudios regulares en los niveles: Pre-Básico, Básico, Medio, Técnico o de Educación Superior, en algún establecimiento del Estado o reconocido por éste.
+
+El beneficio bono de estudios se podrá conceder a los afiliados que certifiquen estudios de perfeccionamiento en el extranjero y a las cargas familiares que los acompañen y que certifiquen estar cursando estudios regulares en los niveles: Pre-Básico, Básico, Medio, Técnico o de Educación Superior.
 
 e) Ayuda por Siniestro: Se podrá otorgar ayuda económica especial a los afiliados que lo soliciten, afectados por siniestros u otros debidamente calificados, previo informe social.
 
-Quedan excluidas las situaciones de catástrofes a nivel general de la población.
+f) Se otorgarán Bonificaciones Médicas Especiales por enfermedades de tratamiento prolongado y de alto costo, en los mismos términos señalados en el artículo 7°.
 
-f) Se otorgarán Bonificaciones Médicas Especiales por enfermedades de tratamiento prolongado y de alto costo, en los mismos términos señalados en el
+g) Condonación de Deudas por Préstamos del Servicio, en caso de fallecimiento del afiliado, siempre que las disponibilidades presupuestarias lo permitan.
 
-#### Artículo 7º
-
-g) Condonación de deudas por Préstamos del DTO 16, TRABAJO
-
-Servicio, en caso de fallecimiento del afiliado, siempre que las disponibilidades presupuestarias
-
-lo permitan.
-
-h) Ayuda para pasajes en casos de traslados por
-
-enfermedad, con prescripción médica de traslado. Art. único Nº 1
-
-Se concederá siempre que las disponibilidades
-
-presupuestarias lo permitan, una ayuda para pasajes al afiliado o su carga familiar, que deba trasladarse de ciudad para recibir atención médica.
-
-Cuando la situación lo amerite y/o esté indicado por el médico, se considerará el gasto de un acompañante familiar y/o una persona del área de la salud.
-
-Quedan excluidas las situaciones de catástrofes a nivel general de la población.
-
-El Consejo Administrativo del Servicio determinará anualmente los porcentajes y el monto máximo al que podrá ascender este beneficio.
-
-Quedan excluidas las situaciones de catástrofes a nivel general de la población.
-
-El Consejo Administrativo del Servicio determinará anualmente los porcentajes de las deudas a condonar y el monto máximo al que podrá ascender este beneficio.
+El Consejo del Servicio determinará anualmente los porcentajes de las deudas a condonar y el monto máximo al que podrá ascender este beneficio.
 
 En caso que resultaren saldos impagos, los socios codeudores solidarios mantendrán su responsabilidad.
 
-Para otorgar las ayudas descritas en las letras a), b), c), d), f), g) y h), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios o enfermedad, en su caso.
+h) Ayuda para pasajes en casos de traslado por enfermedad, con prescripción médica de traslado. Se concederá siempre que las disponibilidades presupuestarias lo permitan una ayuda para pasajes al afiliado o su carga familiar, que deba trasladarse de ciudad, para recibir atención médica. Cuando la situación lo amerite y/o esté indicado por el médico, se considerará el gasto de un acompañante familiar y/o una persona del área de la salud.
 
-El Consejo Administrativo del Servicio fijará anualmente los montos a que ascenderán estas ayudas.
+i) Ayuda para alojamiento en casos de traslado por enfermedad, con prescripción médica de traslado. Se concederá siempre que las disponibilidades presupuestarias lo permitan, una ayuda para alojamiento al afiliado o su carga familiar, que deba trasladarse de ciudad, para recibir atención médica. Cuando la situación lo amerite y/o esté indicado por el médico, se considerará el gasto de un acompañante familiar.
+
+Para otorgar las ayudas descritas en las letras a), b), c), d), e), f), g), h) e i), se exigirán los correspondientes certificados que acrediten las circunstancias de matrimonio, nacimiento, fallecimiento, estudios, enfermedad, catástrofe, traslado médico, en su caso.
+
+El Consejo del Servicio determinará anualmente los porcentajes y el monto máximo al que podrá ascender cada beneficio.
 
 Párrafo Tercero: Préstamos
 
