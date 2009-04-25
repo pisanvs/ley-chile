@@ -12,9 +12,9 @@ NCh2898.Of2004 Energía fotovoltaica - Parámetros característicos de sistemas 
 
 NCh2902.Of2004 Energía fotovoltaica - Sistemas de energía solar fotovoltaica - Términos y símbolos.
 
-NCh18000.Of2004 Sistemas de gestión - Prevención de riesgos profesionales - Vocabulario.
+NCh18000.Of2004 ANULA Y REEMPLAZA.
 
-NCh18001.Of2004 Sistemas de gestión - Prevención de riesgos profesionales - Requisitos.
+NCh18001.Of2004 ANULA Y REEMPLAZA.
 
 NCh18002.Of2004 Sistemas de gestión - Prevención de riesgos profesionales - Directrices para la implementación de la norma NCh 18001.
 
