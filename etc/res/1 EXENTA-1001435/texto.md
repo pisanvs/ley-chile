@@ -1,0 +1,5 @@
+EXTRACTO DE DESIGNACIÓN DEL DIRECTOR GENERAL DEL CONSEJO PARA LA TRANSPARENCIA
+
+Mediante sesión Nº16, celebrada el día 9 de enero de 2009 y reducida a escritura pública con fecha 11 de febrero de 2009, ante la Notario Público doña Verónica Salazar Hernández, Suplente de la 37ª Notaría de Santiago, el Consejo Directivo del Consejo para la Transparencia acordó designar como Director General del mismo Consejo a don Raúl Horacio Ferrada Carrasco, abogado, cédula de identidad Nº9.064.468-8, de conformidad con las normas previstas en la Ley Nº20.285, sobre Acceso a la Información Pública. En virtud de dicha designación, y en ejercicio de sus facultades de dirección y administración superior del Consejo para la Transparencia, los integrantes de su Consejo Directivo celebraron, con fecha 3 de marzo de 2009, contrato de trabajo con don Raúl Horacio Ferrada Carrasco, el que fue debidamente aprobado por resolución exenta Nº1, de 6 de marzo de 2009, de la Dirección General del Consejo para la Transparencia.-
+
+Director General.
