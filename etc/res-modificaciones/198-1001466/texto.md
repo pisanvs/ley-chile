@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 198, de 21/01/2009, modificó D.S. (M) 1.113/1989, modificada y transferida a su actual titular por resolución (M) 1.838 de 2003, de la siguiente forma: Ubicación: Sector II: Isla Chidhuapi, Bahía Menea; superficie 29,39 Hás.; coordenadas geográficas Carta S.H.O.A. Nº7310, 4ª Edición 1999 (Datum WGS-84) Vértice A Lat. 41°51’13,64" S. Long. 73°05’02,57" W. Vértice B Lat. 41°51’11,04" S. Long. 73°04’48,92" W. Vértice C Lat. 41°50’42,63" S. Long. 73°04’58,61" W. Vértice D Lat. 41°50’45,23" S. Long. 73°05’12,26" W. Sector III: al Noroeste de Punta La Cruz, Isla Chidguapi; superficie 10,25 Hás.; coordenadas geográficas Carta S.H.O.A. Nº7310, 4ª Edición 1999 (Datum WGS-84) Vértice A Lat. 41°51’09,88" S. Long. 73°03’10,98" W. Vértice B Lat. 41°51’12,59" S. Long. 73°02’54,02" W. Vértice C Lat. 41°51’04,47" S. Long. 73°02’51,69" W. Vértice D Lat. 41°51’01,76" S. Long. 73°03’08,65" W.
+
+Santiago, 20 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
