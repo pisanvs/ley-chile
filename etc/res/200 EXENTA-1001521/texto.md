@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE LA SOCIEDAD "CONSORCIO S.A. ADMINISTRADORA GENERAL DE FONDOS"
+
+Certifico: Que por resolución exenta Nº200 de fecha 15 de abril de 2009, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de la sociedad "Consorcio S.A. Administradora General de Fondos", según lo acordado en Junta Extraordinaria de Accionistas celebrada el 22 de diciembre de 2008, cuya acta fue reducida a escritura pública, ante don Enrique Mira Gazmuri, Notario Suplente de la Vigésima Novena Notaría de Santiago, Raúl Undurraga Laso, con fecha 25 de febrero de 2009. La reforma consiste en establecer el cargo de Vicepresidente para efectos de suplir al Presidente del Directorio en caso de ausencia. Con motivo de dicha modificación fue reformado el Artículo Noveno de los estatutos sociales.
+
+Santiago, 15 de abril de 2009.- Carmen Undurraga Martínez, Secretaria General.
