@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 217, de 21/01/2009, modificó D.S. (M) 879/1992, modificado por resolución (M) 1.349, de 1994, de la siguiente forma: Ubicación: Sector I: Al Norte de Cululir; superficie 0,97 Hás.; coordenadas geográficas Plano DPC-209, 1ª Edición 2002 (Datum WGS-84) Vértice A Lat. 41°24’38,02" S. Long. 72º17’05,03" W.; Vértice B Lat. 41º24’44,98" S. Long. 72º17’06,50" W.; Vértice C Lat. 41°24’45,06" S. Long. 72°17’08,46" W.; Vértice D Lat. 41º24’38,10" S. Long. 72º17’06,99" W.; Sector II: al Sur de Punta Pocoihuén; superficie 0,84 Hás; coordenadas geográficas Plano DPC-209, 1ª Edición 2002 (Datum WGS-84) Vértice A Lat. 41º30’12.55" S. Long. 72º19’35.45" W.; Vértice B Lat. 41º30’14.49" S. Long. 72º19’35.44" W.; Vértice C Lat. 41º30’15.47" S. Long. 72º19’41.47" W.; Vértice D Lat. 41º30’13.53" S. Long. 72º19’41.48" W.
+
+Santiago, 20 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
