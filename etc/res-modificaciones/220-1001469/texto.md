@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 220, de 26/01/2009, modificó DS (M) 1.190/1989, transferida a su actual titular por resolución (M) 101 de 2006, de la siguiente forma: Ubicación: Ensenada Codihué, entre Punta Colaco y Punta Aguantao; superficie 223,56 Hás.; coordenadas geográficas Carta S.H.O.A. Nº7310, 4ª Edición 1999 (Datum WGS-84) Vértice A Lat. 41°46’23,81" S. Long. 73°21’06,68" W. Vértice B Lat. 41°46’24,98" S. Long. 73°20’53,14" W. Vértice C Lat. 41°46’39,09" S. Long. 73°20’52,71" W. Vértice D Lat. 41°46’39,16" S. Long. 73°20’38,60" W. Vértice E Lat. 41°46’29,62" S. Long. 73°20’35,16" W. Vértice F Lat. 41°46’48,47" S. Long. 73°18’18,59" W. Vértice G Lat. 41°47’08,23" S. Long. 73°18’20,99" W. Vértice H Lat. 41°46’41,10" S. Long. 73°21’19,13" W. Vértice I Lat. 41°46’31,14" S. Long. 73°21’17,79" W. Vértice J Lat. 41°46’31,01" S. Long. 73°21’06,61" W.
+
+Santiago, 20 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
