@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.610, de 11/12/2008, modificó D.S. (M) 896/1990, de la siguiente forma: Ubicación: Estero Huito, El Rosario; superficie 0,60 Hás.; coordenadas geográficas Carta Shoa Nº7310, 4ª Edición 1999 (Datum WGS-84) Porción de Playa Vértice A Lat. 41°44’53,98"S. Long. 73°09’07,34"W. Vértice B Lat. 41°44’54,03"S. Long. 73°09’06,04"W. Vértice C Lat. 41°44’50,80"S. Long. 73°09’05,80"W. Vértice D Lat. 41°44’50,74"S. Long. 73°09’07,10"W. Porción de Agua y Fondo Vértice A Lat. 41°44’54,32"S. Long. 73°09’10,48"W. Vértice B Lat. 41°44’51,23"S. Long. 73°09’11,78"W. Vértice C Lat. 41°44’50,93"S. Long. 73°09’10,54"W. Vértice D Lat. 41°44’54,02"S. Long. 73°09’09,24"W.
+
+Santiago, 20 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
