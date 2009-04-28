@@ -342,15 +342,15 @@ SWEET SCARLET X
 
 VERED BEN DAVID X
 
-2.- Para incorporar a la Lista precedente otras variedades de las mismas especies, los interesados deberán entregar al Servicio la descripción varietal correspondiente, en los formularios oficiales respectivos, dentro de los 90 días siguientes a la publicación en el Diario Oficial de la presente resolución.
+2.- Para incorporar a la Lista precedente cualquier otra variedad de especies frutales o de vides, el interesado deberá entregar al Servicio la descripción varietal correspondiente, en el formulario oficial respectivo y poner a su disposición el material vegetal pertinente. Habiéndose recibido todos los antecedentes y mientras el Servicio realiza las comprobaciones pertinentes, la variedad se incluirá en la Lista en forma provisoria.
 
-3.- Las variedades de las especies frutales que no se mencionan en esta Lista, podrán seguir siendo comerciadas durante el plazo máximo de un año a contar de la fecha de publicación de esta resolución en el Diario Oficial.
+3.- DEROGADO.
 
-4.- Las variedades cuya inclusión en la Lista referida se solicite, se incorporarán a la misma en carácter de provisorio, mientras el Servicio realiza las comprobaciones varietales.
+4.- DEROGADO.
 
-5.- Para la realización de dichas comprobaciones, se deberá mantener a lo menos cuatro ejemplares testigos de cada variedad mientras éstas permanezcan en la Lista.
+5.- DEROGADO.
 
-6.- En caso de incumplimiento de la obligación señalada, se eliminará la variedad respectiva de la Lista. Otro tanto ocurrirá si no se paga oportunamente la tarifa correspondiente a las comprobaciones varietales.
+6.- DEROGADO.
 
 > **Nota.** La RES 6478 Exenta, Agricultura, publicada el 01.12.2008, modifica la presente norma, en el sentido de incorporar las variedades de las especies frutales y vides que la citada norma indica.
 
