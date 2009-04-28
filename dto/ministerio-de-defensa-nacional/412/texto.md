@@ -214,7 +214,7 @@ Los grados y jerarquías del Personal de Nombramiento Institucional, Personal de
 
 ## Título II
 
-De la Selección, Ingreso, Ascensos y Llamado al Servicio.
+Del ingreso a Carabineros y de la selección y ascensos.
 
 Capítulo 1°.
 
@@ -248,7 +248,7 @@ La Dirección General de Carabineros designará el personal de Nombramiento Inst
 
 Los Carabineros de Orden y Seguridad y los Cabos 2°s. de Secretaría serán nombrados exclusivamente de entre aquellos Carabineros Alumnos que hayan aprobado los Cursos de formación policial correspondientes.
 
-INCISO SUPRIMIDO.
+El General Director en casos calificados, a petición del interesado y cuando las necesidades institucionales así lo requieran, podrán proponer al Presidente de la República, quien por decreto supremo podrá llamar al servicio hasta por un período de tres años al personal de fila de Orden y Seguridad que se encuentre en situación de retiro temporal.
 
 Capítulo 2°.
 
@@ -449,50 +449,6 @@ Los Oficiales y Personal Civil de Nombramiento Supremo que fuesen clasificados e
 #### Artículo 32°
 
 El personal de Carabineros, para tener derecho al recurso que establece el artículo 36° de la ley 11.595, deberá interponerlo ante la Contraloría General de la República, dentro del plazo fatal de un año, contado desde la fecha del decreto o resolución que le concede el retiro.
-
-Capítulo 3º
-
-Del Llamado al Servicio
-
-#### Artículo 32º bis
-
-El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República llamar al servicio hasta por un período de cinco años a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determina el presente Estatuto. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director, mediante resolución. Este personal no podrá exceder de una cantidad equivalente al uno coma cinco por ciento del total de los empleos fijados en los Escalafones de Fila de la ley que fija la planta de Carabineros.
-
-Los llamados al servicio deberán cumplir con los requisitos de ingreso previstos en el inciso primero del artículo 14º, y haberse encontrado a la época en que se acogió a retiro clasificado en Lista Nº 1, conforme las normas contenidas en el reglamento respectivo.
-
-#### Artículo 32º ter
-
-El personal llamado al servicio conservará el grado jerárquico con que se acogió a retiro, usará uniforme y podrá ejercer mando sobre sus subalternos y subordinados por razón de destino, comisión, grado jerárquico o antigüedad, y se encontrará sujeto a calificación.
-
-Su antigüedad respecto de oficiales y personal de nombramiento institucional, de los escalafones regulares, en igualdad de grados jerárquicos, será a continuación de aquéllos. Entre ellos, se estará a la antigüedad de su respectivo llamado al servicio. Este personal no integrará la planta y no podrá ascender.
-
-#### Artículo 32º quáter
-
-El personal llamado al servicio gozará del sueldo asignado al grado que corresponda a su empleo de acuerdo a lo establecido en el artículo 33º, y de los beneficios y derechos previstos en el artículo 46º del presente Estatuto, con excepción de la Asignación de Casa, Asignación de Ministro de Corte, Bonificación de Permanencia en Actividad, Asignación de Alto Mando, Asignación Policial, Asignación de Permanencia, Asignación de Actividad Peligrosa o Nociva para la Salud, Asignación Académica, Bonificación de Riesgo y Bonificación Especial y la Asignación Especial no imponible. Tampoco tendrá derecho a la Bonificación Compensatoria fijada en el decreto ley Nº 1.619, de 1976.
-
-Las remuneraciones que perciba este personal estarán afectas a los descuentos previstos en el artículo 4º del presente Estatuto del Personal, sobre Fondo Hospitales de Carabineros de Chile; ley Nº 15.386, sobre Fondo de Revalorización de Pensiones; decreto ley Nº 1.812, de 1977, sobre Fondo para el Hospital de la Dirección de Previsión de Carabineros de Chile, y 20 letra a) del decreto ley Nº 844, de 1975, que crea la Dirección de Previsión de Carabineros de Chile. Asimismo, estas remuneraciones serán compatibles con la pensión de retiro a que tengan derecho de acuerdo con la normativa contenida en los artículos 57 y siguientes de la ley Nº 18.961, Orgánica Constitucional de Carabineros de Chile. Una vez que el personal llamado al servicio cese en sus funciones, tendrá derecho a que se le reliquide su pensión conforme a lo dispuesto en el inciso segundo del artículo 70º del presente Estatuto.
-
-La asignación de Especialidad al Grado Efectivo, prevista en la letra r) del artículo 46º, que perciba el personal llamado al servicio, no tendrá el carácter de imponible.
-
-Además, cualquiera que sea su destinación o función, no percibirá ninguno de los sobresueldos o gratificaciones especiales previstos en los artículos 48º y 51º, respectivamente.
-
-Asimismo, el tiempo que este personal permanezca llamado al servicio no se considerará para los efectos de los Bonos de Permanencia previstos en las leyes Nº 19.941 y Nº 20.104, como tampoco para los efectos del artículo 135º.
-
-#### Artículo 32º
-
-quinquies.- Los llamados al servicio cesarán en sus funciones por las siguientes causas:
-
-1) Vencimiento del plazo de su llamamiento, el que no podrá ser superior a cinco años.
-
-2) Renuncia al empleo.
-
-3) No ser necesarios sus servicios, cuando el General Director así lo determine.
-
-4) Salud incompatible con el servicio.
-
-5) Medida disciplinaria expulsiva o inclusión en lista de eliminación.
-
-6) Por otras fijadas en la leyes o reglamentos que le sean aplicables.
 
 ## Título III
 
@@ -1038,13 +994,11 @@ Vestuario, equipo y alimentación
 
 #### Artículo 61°
 
-El personal de oficiales de Fila y de los Servicios, como asimismo el Personal de Nombramiento Institucional, tendrá derecho a que se le provea de vestuario y equipo para lo cual anualmente se determinará en la Ley de Presupuesto, la suma necesaria para atender esta necesidad. Este derecho se hará extensivo al personal de Secretaría y al Llamado al Servicio.
+El personal de oficiales de Fila y de los Servicios, como asimismo el Personal de Nombramiento Institucional, tendrá derecho a que se le provea de vestuario y equipo para lo cual anualmente se determinará en la Ley de Presupuesto, la suma necesaria para atender esta necesidad. Este derecho se hará extensivo al personal de Secretaría.
 
 El reglamento respectivo establecerá las modalidades y procedimientos aplicables al uso de este derecho.
 
-Asimismo, la institución proporcionará alimentación por cuenta fiscal a todo el personal de planta de Carabineros y al
-
-Llamado al Servicio, de mientras desempeñe funciones de guardias, servicios, acuartelamientos u otras actividades debidamente calificadas.
+Asimismo, la institución proporcionará alimentación por cuenta fiscal a todo el personal de planta de Carabineros de mientras desempeñe funciones de guardias, servicios, acuartelamientos u otras actividades debidamente calificadas.
 
 Lo anterior, sin perjuicio de la asignación de rancho contemplada en el presente Estatuto.
 
@@ -1126,9 +1080,11 @@ DEROGADO
 
 El personal que se reincorporare al servicio en el mismo empleo o plaza, pierde el goce de la pensión que se le haya concedido, pero tiene derecho a que el tiempo anterior de servicios sea de abono para los efectos de su retiro posterior.
 
-El personal que vuelva al servicio en otras plazas o empleos de las Fuerzas Armadas, Carabineros o Policía de Investigaciones, por un tiempo no inferior a tres años ininterrumpidos y que también otorguen derecho a pensión de retiro, tendrá derecho a que su pensión anterior le sea reliquidada por una sola vez, incrementándose por cada nuevo año de servicio en un 3,33% del monto que resulte menor entre su última pensión percibida, reajustada conforme a lo establecido en el decreto ley Nº 2.547, de 1979, y el promedio de remuneraciones percibidas durante los últimos treinta y seis meses correspondientes a los nuevos servicios prestados. Con todo, el aumento de la pensión por efectos de la reliquidación, no podrá exceder del 50% del monto que resulte menor entre su última pensión percibida, reajustada conforme a lo establecido en el decreto ley Nº 2.547, de 1979, y el promedio de remuneraciones percibidas durante los últimos treinta y seis meses correspondientes a los nuevos servicios prestados. Para gozar de este beneficio, el personal deberá efectuar o integrar las imposiciones correspondientes y le serán aplicables, en su caso, las normas de la ley Nº 10.986.
+El personal con goce de pensión que vuelva al servicio en otras plazas o empleos de Carabineros, Fuerzas Armadas o Policía de Investigaciones, por un período no inferior a tres años ininterrumpidos, pero que también den derecho a obtener pensión de retiro, tendrá derecho a que su pensión sea reliquidada considerándosele el total del tiempo servido, ya sea en relación con su último empleo, o con el empleo en que obtuvo su anterior pensión de retiro.
 
-En el caso del personal de Carabineros de Chile, llamado al servicio desde el retiro, contemplado en el artículo 16 de la Ley Nº 18.961, Orgánica Constitucional de Carabineros de Chile, y en los artículos 32 bis y siguientes del presente Estatuto, podrá reliquidar en esa condición y conservar el derecho consagrado en el inciso anterior para ser ejercido posteriormente, por una sola vez.
+Si la nueva plaza o empleo se ha ejercido en una institución afecta a un organismo previsional distinto al del que obtuvo su primitiva pensión, el personal podrá optar por la reliquidación de su pensión en uno u otro. En el caso que se opte por el organismo previsional distinto al que estaba suscrito el ocurrente al momento de su reliquidación, las imposiciones previsionales correspondientes deberán ser traspasadas a dicha institución de previsión.
+
+Para tener derecho a los beneficios que establece el inciso anterior, el personal deberá efectuar o integrar las imposiciones correspondientes.
 
 Si el personal vuelto al servicio falleciere en servicio activo, sin haber cumplido los tres años exigidos para reliquidar su pensión y hubiere permanecido dos años como mínimo, sus beneficiarios de montepío tendrán derecho a la reliquidación de su pensión en las mismas condiciones que se señalan en el inciso segundo, para los efectos de la fijación de su correspondiente pensión de montepío.
 
@@ -1216,11 +1172,11 @@ Son servicios efectivos en Carabineros los prestados por el personal en cualquie
 
 Asimismo, serán servicios efectivos todo el tiempo de permanencia como Aspirante a Oficial en la Escuela de Carabineros y como Carabinero alumno en los planteles de formación institucional; el primer año de estudio en las Escuelas Institucionales de las Fuerzas Armadas aprobado con Valer Militar, respecto de quienes ingresen a dichas escuelas sin haber hecho el servicio militar, los dos últimos años de estudio en la Escuela Militar, Naval, de Aviación, de Servicio Femenino Militar, de la Policía de Investigaciones, de las Escuelas de Ingenieros de la Armada y Pilotines, Escuela de Suboficiales, de Armas en el Ejército, la Escuela de Grumetes, la Escuela de Artesanos y otras en que funcionen cursos de Grumetes de la Armada y la Escuela de Especialidades de la Fuerza Aérea, o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido en el respectivo establecimiento, y el tiempo servido como conscripto y aprendiz de las Fuerzas Armadas.
 
+Se considerarán también servicios efectivos los dos últimos años o 4 últimos semestres de estudios profesionales de los oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria y del Servicio Religioso de los escalafones de Carabineros.
+
 Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre el sueldo base del grado 14 de la escala de sueldos de Carabineros.
 
-El tiempo computable en las calidades mencionadas en el inciso anterior no podrá exceder, en ningún caso, de tres años en total.
-
-> **Nota.** La letra a) del numeral 2 del Artículo 10, de la Ley 20735, publicada el 12.03.2014, deroga el inciso tercero de la presente norma.
+El tiempo computable en las calidades mencionadas en los dos incisos anteriores no podrá exceder, en ningún caso, de tres años en total.
 
 #### Artículo 84°
 
@@ -1235,8 +1191,6 @@ Serán, asimismo, computables los servicios válidamente prestados en cualquier 
 Se computarán igualmente para el retiro los años de abono otorgados al personal por accidentes sufridos en actos del servicio.
 
 También se computará el tiempo reconocido en conformidad a la ley N° 10.986, sobre continuidad de la previsión, y el declarado compatible para el retiro o jubilación para todos los efectos legales por cualquier ley de carácter general o particular.
-
-Se considerarán servicios computables los dos últimos años o cuatro últimos semestres de estudios profesionales de los Oficiales de Justicia, Sanidad, Sanidad Dental, Veterinaria, Servicio Religioso, de los Escalafones de Carabineros. Las imposiciones correspondientes serán de cargo de los interesados y se calcularán sobre la base del grado 14 de la escala de sueldos de Carabineros.
 
 #### Artículo 86°
 
@@ -1294,7 +1248,7 @@ La fracción de año correspondiente a cada mes completo se computará a razón 
 
 Asimismo, la pensión se computará como trienio cumplido si al interesado le faltaren seis meses o menos para enterarlo al momento de hacer efectivo su retiro.
 
-Para el personal que se encuentre en la condición señalada en el artículo 118°, se calculará su pensión con un aumento de un año por cada hijo.
+Para el personal que se encuentre en la condición señalada en el artículo 118°, se calculará su pensión con un aumento de dos años si son viudas y de un año por cada hijo.
 
 El aumento de dos años y un año con que se calcula la pensión de retiro para el personal femenino a que se refiere el artículo 118°, se considerará como servicios válidos para el retiro para los efectos de derechos al goce de pensión y reajustabilidad de la pensión de retiro, según procediere.
 
@@ -1580,39 +1534,29 @@ Tratándose del personal señalado en el artículo 103°, se tendrá como sueldo
 
 Al montepío tienen derecho los siguientes asignatarios del causante:
 
-En primer grado la viuda o, en su caso, el viudo.
+En primer grado, la viuda o, en su caso, el viudo que siendo inválido absoluto o mayor de sesenta y cinco años no perciba pensión o rentas de ninguna naturaleza;
 
-El o la cónyuge sobreviviente de un causante pensionado, para ser beneficiario de pensión de montepío, debe haber contraído matrimonio con el causante, a lo menos con tres años de anterioridad a la fecha de su fallecimiento. Esta limitación no se aplicará si a la época del fallecimiento existieren hijos comunes o si la cónyuge se encontrare embarazada, o si el causante falleciere en acto determinado del servicio.
+En segundo grado, los hijos legítimos y naturales;
 
-En segundo grado, los hijos.
+En tercer grado, el padre legítimo inválido absoluto o mayor de sesenta y cinco años;
 
-Los hijos e hijas, para ser beneficiarios de montepío, deben ser solteros y cumplir uno de los siguientes requisitos:
+En cuarto grado, la madre legítima viuda, o la madre natural, sea soltera o viuda;
 
-a) Ser menores de 18 años de edad.
+En quinto grado, las hermanas solteras huérfanas, menores de veintún años de edad o de veintitrés años si fueren estudiantes, cuyos medios propios de vida sean iguales o inferiores a una suma equivalente en ingresos mínimos a un sueldo vital y medio mensual de la Región Metropolitana de Santiago vigente al 14 de agosto de 1981.
 
-b) Ser mayores de 18 años de edad y menores de 24, si son estudiantes de cursos regulares de enseñanza básica, media, técnica o superior. La calidad de estudiante deberá tenerla a la fecha del fallecimiento del causante o adquirirla antes de los 24 años de edad.
+Los asignatarios de montepío, a excepción de los de primer grado, percibirán su pensión respectiva disminuida en un veinticinco por ciento. La cuota anual inferior a una suma equivalente en ingresos mínimos a dos sueldos vitales mensuales de la Región Metropolitana de Santiago, vigentes al 14 de agosto de 1981, no estará afecta a esta restricción.
 
-c) Ser inválido o incapaz absoluto, cualquiera sea su edad. Para estos efectos, la invalidez o incapacidad absoluta puede producirse después del fallecimiento del causante, pero antes de que cumplan las edades máximas establecidas en las letras a) o b) de este inciso, según corresponda.
+Si el causante de montepío dejare viuda o viudo con derecho a montepío e hijos legítimos de anteriores matrimonios o hijos naturales, la pensión se distribuirá entre aquélla, aquél y éstos, en la forma que se determine por la resolución ministerial.
 
-La invalidez de los asignatarios de montepío será declarada como tal sólo cuando sea acreditada por la Comisión Médica o de Sanidad competente de la Institución a que pertenecía el causante.
+Para los efectos de este artículo, la madre legítima anulada de matrimonio y no vuelta a casar, será considerada como madre viuda.
 
-En tercer grado, los padres, siempre que a la época del fallecimiento del imponente sean causantes de asignación familiar, reconocidos por el organismo competente.
+Al personal soltero sin hijos que falleciere en las circunstancias que establece el artículo 120°, cuyo padre legítimo no pudiere gozar del montepío por no reunir las condiciones exigidas por la ley, le sucederá la madre legítima aún cuando estuviere casada con aquél.
 
-A falta de viuda o viudo, sucederán los hijos; a falta de éstos, los padres causantes de asignación familiar.
+A falta de ésta, le sucederán los hermanos solteros huérfanos hasta que cumplan 21 años de edad o 23 años si fueren estudiantes, a menos que acreditaren invalidez o incapacidad absoluta.
 
-Los asignatarios de los grados segundo y tercero percibirán su pensión disminuida en un veinticinco por ciento.
+Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales. No obstante, si entre los asignatarios hubiere alguno afectado por una invalidez o incapacidad absoluta, podrá establecerse por resolución ministerial una forma especial de distribución.
 
-Si el causante dejare viuda o viudo con derecho a montepío e hijos de anteriores matrimonios o no matrimoniales, la pensión se distribuirá entre aquélla, aquél y éstos, en la siguiente forma:
-
-a) Cada hijo de anteriores matrimonios o no matrimoniales recibirá la proporción de la pensión que le hubiese correspondido a la viuda o viudo, de no haber existido estos hijos, determinada como el cociente entre el 40% y el número total de asignatarios del segundo grado.
-
-b) La viuda o viudo recibirá el 100% de la pensión de montepío, a menos que existan hijos de anteriores matrimonios o no matrimoniales, en cuyo caso el porcentaje de la pensión de montepío que corresponda aplicar será determinado conforme a lo señalado en la letra a) precedente.
-
-En el caso del personal soltero o divorciado sin hijos, que fallezca a consecuencia de un acto determinado del servicio, tendrán derecho a montepío los padres.
-
-Concurriendo varias personas llamadas en el mismo grado, la pensión se dividirá entre ellas por partes iguales.
-
-El personal que fallezca en servicio activo dará derecho a sus asignatarios de montepío a percibir, de acuerdo al grado de precedencia antes dicho, el sueldo y demás remuneraciones de que haya disfrutado hasta la fecha del cese respectivo, el que se expedirá de inmediato después de otorgado el montepío o a más tardar dentro del plazo de noventa días. La resolución que otorga el montepío deberá dictarse dentro del plazo de seis meses contados desde la fecha del fallecimiento.
+Se entiende que a falta de la cónyuge viuda o, en su caso, del viudo que, siendo inválido absoluto o mayor de sesenta y cinco años, no perciba pensión o renta de ninguna naturaleza, suceden los hijos legítimos y naturales y, a falta de éstos, los demás asignatarios, de acuerdo con el orden de precedencia indicado en este artículo.
 
 #### Artículo 122°
 
@@ -1628,17 +1572,21 @@ Los montepíos dejados por un mismo causante, se considerarán como un solo mont
 
 #### Artículo 125°
 
-Los asignatarios de montepío no tendrán derecho a impetrar pensión o cesarán en el goce de ella, cuando se encuentren en alguno de los casos siguientes:
+Los asignatarios no tendrán derecho a impetrar la pensión o cesarán en el goce de ella, cuando se encuentren en algunos de los siguientes casos:
 
-1. Haber contraído matrimonio.
+1) Haber celebrado matrimonio.
 
-2. Ser hijo o hija mayor de 18 años de edad. No obstante, estos descendientes podrán continuar en el goce de la pensión hasta que cumplan 24 años de edad, siempre que se encuentren siguiendo cursos regulares en la enseñanza básica, media, técnica o superior. Sin perjuicio de lo anterior, dicha limitación de edad no regirá cuando se encuentren afectados de una invalidez o incapacidad absoluta. Esta invalidez será declarada como tal sólo cuando sea acreditada por la Comisión Médica o de Sanidad de la Institución a que pertenecía el causante.
+2) Ser hijo mayor de veintiún años.
 
-3. Existir sentencia ejecutoriada por la que se declara la nulidad del matrimonio o el divorcio.
+No obstante, estos descendientes podrán continuar en el goce de la pensión de montepío hasta el 31 de Diciembre del año en que cumplan veintitrés años, siempre que se encuentren siguiendo cursos regulares en la enseñanza normal, técnica especializada o superior, en instituciones del Estado o particulares reconocidas por éste.
 
-4. Ser indigno de suceder al causante, declarado por sentencia judicial.
+En todo caso, mantendrán el beneficio sin limitación de edad cuando se trate de incapacidad o invalidez absoluta;
 
-Los asignatarios que hubieren perdido el goce del montepío no podrán recuperarlo por causa alguna, ni aun en el evento de nulidad del matrimonio que fue motivo de tal pérdida.
+3) Existir sentencia ejecutoriada por la que se declare la nulidad del matrimonio o el divorcio perpetuo, y
+
+4) Ser indigno de suceder al causante, declarado por sentencia judicial.
+
+Los asignatarios de montepío que hubieren perdido el goce de éste, no lo recuperarán por causa alguna, ni aún en el evento de nulidad del matrimonio que fue motivo de tal pérdida.
 
 #### Artículo 126°
 
