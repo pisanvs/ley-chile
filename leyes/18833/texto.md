@@ -156,11 +156,7 @@ Corresponderá a las Cajas de Compensación la administración de prestaciones d
 
 8.- Promover, organizar, coordinar y ejecutar iniciativas y acciones que tengan por objeto mejorar el bienestar social de los trabajadores afiliados y su núcleo familiar, y
 
-9.- Constituir sociedades con el objeto exclusivo de emitir y operar medios de pago con provisión de fondos, en los términos establecidos en la ley que autoriza la emisión de estos medios de pago por entidades no bancarias y a la normativa dictada conforme a ella. Las sociedades constituidas en virtud de este numeral quedarán sujetas a la fiscalización de la Superintendencia de Bancos e Instituciones Financieras, quedando los administradores de la Caja de Compensación obligados a cumplir los requisitos de integridad contemplados en el artículo 28 de la Ley General de Bancos.
-
-10.- Constituir sociedades con el objeto exclusivo de prestar uno o más de los servicios de plataforma de financiamiento colectivo, enrutamiento de órdenes, intermediación de instrumentos financieros, asesoría crediticia y asesoría de inversión de conformidad al inciso segundo del artículo 5 de la ley que promueve la competencia e inclusión financiera a través de la innovación y tecnología en la prestación de servicios financieros, Ley Fintec.
-
-11.- Efectuar las demás funciones que establezca la ley.
+9.- Efectuar las demás funciones que establezca la ley.
 
 Las Cajas de Compensación estarán facultadas para celebrar convenios con el Fondo Nacional de Salud, sobre otorgamiento de credenciales de salud, venta, emisión y pago de órdenes de atención, y, otorgamiento y cobro de los préstamos que establece el artículo 31 de la ley N° 18.469.
 
@@ -196,12 +192,6 @@ Lo adeudado por prestaciones de crédito social a una Caja de Compensación por 
 
 Practicada la deducción al trabajador, se entenderá extinguida a su respecto y de sus codeudores la parte correspondiente de la deuda, desde la fecha en que ella hubiera tenido lugar, aunque no haya sido remesada por el empleador a la Caja, debiendo dirigirse exclusivamente contra éste las acciones destinadas al cobro de las sumas no enteradas.
 
-En caso que la entidad empleadora afiliada tenga la calidad de deudora de un procedimiento concursal de liquidación, y una vez que se haya dictado la resolución de liquidación pertinente, regirán las siguientes reglas:
-
-1.- Las cuotas de créditos sociales devengadas y descontadas de la remuneración por el empleador que no hayan sido remesadas a la Caja de Compensación a la fecha de la dictación de la resolución de liquidación gozarán de la preferencia del número 5 del artículo 2472 del Código Civil, siendo obligación de la respectiva Caja de Compensación verificar su crédito.
-
-2.- Corresponderá al trabajador el pago de las cuotas de créditos sociales no devengadas a la fecha de la dictación de la resolución de liquidación, no siendo de cargo de la masa. Para estos efectos, se tendrán por no escritas las convenciones que permitan al empleador, en caso de término de la relación laboral por dictación de la resolución de liquidación, descontar los saldos pendientes por créditos sociales de las indemnizaciones por término de contrato a que tenga derecho el trabajador.
-
 #### Artículo 23
 
 Las Cajas de Compensación podrán establecer un régimen de prestaciones adicionales, consistente en prestaciones en dinero, en especies y en servicio para los trabajadores afiliados y sus familias, que estará regido por un reglamento especial.
@@ -217,16 +207,6 @@ Las Cajas de Compensación podrán convenir con los empleadores afiliados que é
 Se aplicará la ley N° 17.322 a las obligaciones que las entidades empleadoras afiliadas contraigan con las Cajas de Compensación. No obstante podrá operar una compensación de obligaciones entre las Cajas de Compensación y las empresas afiliadas, a solicitud expresa de estas últimas.
 
 > **Nota.** El Art. 40 de la LEY 20233, publicada el 06.12.2007, dispuso que la modificación introducida en el presente artículo rige a contar del primer día del mes siguiente al de su publicación.
-
-#### Artículo 25 bis
-
-Las Cajas de Compensación podrán constituir filiales como Administradoras de Fondos de Pensiones. Estas filiales se sujetarán en todo a las normas establecidas en el decreto ley N° 3.500, de 1980. En este sentido, se constituirán como sociedades anónimas especiales a las que se refiere el Título XIII de la ley N° 18.046, sobre Sociedades Anónimas, y quedarán sujetas a la fiscalización de la Superintendencia de Pensiones.
-
-Las filiales de las Cajas de Compensación constituidas como Administradoras de Fondos de Pensiones deberán observar estrictamente su giro exclusivo, y les quedará prohibido ofrecer u otorgar bajo circunstancia alguna, ya sea directa o indirectamente, ni aun a título gratuito, cualquier otro servicio o producto que resulte ajeno a su giro exclusivo.
-
-La Caja de Compensación matriz de una filial de aquellas a que se refiere el inciso primero no podrá subordinar el ejercicio de cualquier derecho del afiliado, a la incorporación o permanencia de éste en la sociedad filial. Tampoco podrá supeditar el otorgamiento de condiciones más favorables en razón de tales circunstancias.
-
-Para la constitución de las filiales a que se refiere el inciso primero, la Caja de Compensación deberá solicitar la autorización de existencia respectiva a la Superintendencia de Pensiones, siguiendo el procedimiento contenido en los artículos 130 y siguientes de la ley N° 18.046. Para ello, se requerirá la autorización previa de la Superintendencia de Seguridad Social. La Superintendencia de Pensiones sólo podrá otorgar la referida autorización de existencia en la medida que la Superintendencia de Seguridad Social otorgue la autorización antes indicada.
 
 #### Artículo 26
 

@@ -362,7 +362,7 @@ b) Depósitos a plazo, letras de crédito hipotecarias, bonos y otros títulos d
 
 c) Bonos, pagarés y otros títulos de deuda o crédito, emitidos por empresas públicas o privadas;
 
-d) Participación en convenios de créditos en los que concurran dos o más bancos o instituciones financieras, conforme a las normas de carácter general que dicte la Superintendencia, debiendo contemplarse en éstas el riesgo de crédito del deudor;
+d) Participación en convenios de créditos en los que concurran al menos un banco o institución financiera no relacionado con la compañía, conforme a las normas de carácter general que dicte la Superintendencia, debiendo contemplarse en éstas el riesgo de crédito del deudor, y
 
 e) Mutuos hipotecarios endosables, de los señalados en el Título V de esta ley, y
 
