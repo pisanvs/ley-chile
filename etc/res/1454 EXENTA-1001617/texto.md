@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.454, de 23 de abril de 2009, de esta Subsecretaría, autorízase a DANIEL ANDRE PIERRE TOURET E.I.R.L., para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sitio 4, lote 2, La Herradura, Coquimbo, IV Región, para elaborar en línea de proceso Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
