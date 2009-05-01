@@ -1,0 +1,5 @@
+DELEGA FACULTADES QUE INDICA Y DEROGA RESOLUCIONES QUE SEÑALA
+
+Con fecha 14 de abril de 2009, se dictó Resolución Ex. N° 2.645 por la Directora Regional de la V Dirección Regional Valparaíso, en virtud de la cual delega en el Jefe del Departamento Regional de Resoluciones, Jefe de Grupo de Peticiones Administrativas del Departamento Regional de Resoluciones y Jefe de Unidades de su dependencia la facultad para otorgar certificado exención, exención parcial y pago total del impuesto de herencias, y certificado de haber transcurrido los plazos que tiene el Servicio para revisar, liquidar y girar este impuesto. Asimismo, delega en Jefe del Departamento Jurídico Regional y Jefe de Unidades de su dependencia la facultad de otorgar certificados de exención y pago de impuesto a las donaciones. También se deja sin efecto Res. Ex. 540 de 25.10.2004, y modificaciones efectuadas por Res. Ex. 2.115 de 06.06.2005 y Res. Ex. 1.220 de 09.02.2006.-
+
+Erica Morales Lartiga, Directora Regional.
