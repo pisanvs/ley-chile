@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 548, de 8 de abril de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 14, para la obra "Habilitación Acceso Norte a Osorno, Provincia de Osorno", Comuna de Osorno, Xª Región", que figura a nombre de NILIAN LLANQUILEF ISABEL, rol de avalúo 729-15, superficie 996 M2. La Comisión de Peritos, fijó con fecha 30 de octubre de 2007, en la cantidad de $15.140.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
