@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 452 de 27 de febrero de 2009, se expropiaron los lotes de terrenos Nºs. 55 y 57, superficies 1.606 y 135 m2, rol de Avalúo 211-48, comuna de Florida, para la obra "MEJORAMIENTO RUTA 0-390, CRUCE RUTA 148 (Florida) - AUTOPISTA ITATA", VIII Región y se acordó el valor de la indemnización con su propietaria GALVARINO GUAJARDO NUÑEZ, ascendente a la cantidad de $1.419.136.-
+
+Fiscal del Ministerio de Obras Públicas.
