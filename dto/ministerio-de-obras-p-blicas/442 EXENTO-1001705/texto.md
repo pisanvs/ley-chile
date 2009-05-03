@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 442 de fecha 27 de febrero del 2009, se expropió el lote de terreno Nº 26, superficie 37 m2, Rol Nº 154-306, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria FELICINDA DE LAS MERCEDES OYANEDEL HERRERA, ascendente a la ,. cantidad de $1.039.074.- para el lote Nº26.
+
+Fiscal del Ministerio de Obras Públicas.
