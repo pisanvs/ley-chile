@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 537 de 31 de marzo de 2009, se expropió el lote de terreno Nº 112-8, superficie 600 m2, rol de Avalúo 3350-28, comuna de Puerto Montt, para la obra "MEJORAMIENTO RUTA 7, SECTOR QUILLAIPE - LA ARENA, TRAMO KM. 15,84700 AL KM. 40,41746", X Región y se acordó el valor de la indemnización con su propietaria MARIA HELVECIA CASANOVA VILLEGAS, ascendente a la cantidad de $1.638.980.-
+
+Fiscal del Ministerio de Obras Públicas.
