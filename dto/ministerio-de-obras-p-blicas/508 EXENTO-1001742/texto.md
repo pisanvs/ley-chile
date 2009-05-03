@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 508 de 31 de marzo de 2009, se expropió el lote de terreno Nº 22, superficie 557 m2, Rol Nº 49-93, comuna de Chépica, VI Región para la obra "MEJORAMIENTO CAMINO CHIMBARONGO - CHEPICA II, SECTOR CONVENTO VIEJO - AUQUINCO, TRAMO KM. 0,00000 AL KM. 7,75554" y se acordó el valor de indemnización con su propietario LUIS ALEJANDRO FREDES ROJAS, ascendente a la cantidad de $1.659.438.-
+
+Fiscal del Ministerio de Obras Públicas.
