@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 502 de fecha 31 de marzo de 2009, se expropió el lote de terreno Nº 49, superficie 185 m2, rol Nº 18-12, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario MABEL MALEBRAN JERALDO Y OTROS, ascendente a la cantidad de $2.454.184.-
+
+Fiscal del Ministerio de Obras Públicas.
