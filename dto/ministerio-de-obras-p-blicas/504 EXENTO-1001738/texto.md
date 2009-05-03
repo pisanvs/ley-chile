@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 504 de fecha 31 de marzo del 2009, se expropiaron los lotes de terreno Nºs. 2 y 2-A, superficies 158 y 146,05 m2, Rol Nº8008-22, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - Conay, Km. 0,000 al Km. 19,500, Provincia de Huasco, III Región, Etapa III", y se acordó el valor de indemnización con su propietario OMAR ANTONIO CARVAJAL ARAYA, ascendente a la cantidad de $537.176.-
+
+Fiscal del Ministerio de Obras Públicas.
