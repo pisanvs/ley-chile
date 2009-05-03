@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 489 de fecha 31 de marzo de 2009, se expropiaron los lotes de terreno Nºs 8 y 15, superficies 553 y 766 m2 respectivamente, rol Nº 168-40 y 168-1, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 a km. 6,34000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario DIOCLES DEL CARMEN ARIAS BUSTOS Y OTROS, ascendente a la cantidad de $7.207.214.-
+
+Fiscal del Ministerio de Obras Públicas.
