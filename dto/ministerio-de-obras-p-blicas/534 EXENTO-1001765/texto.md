@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 534 de fecha 31 de marzo de 2009, se expro ió el lote de terreno Nº 16, superficie 6.383 m2, rol Nº 423-45, comuna de Illapel, para la obra Proyecto Embalse El Bato,"Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario CREMIRA DEL CARMEN PLAZA FERNANDEZ Y OTROS, ascendente a la cantidad de $4.569.983.-
+
+Fiscal del Ministerio de Obras Públicas.
