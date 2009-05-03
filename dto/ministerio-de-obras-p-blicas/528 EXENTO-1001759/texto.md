@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 528 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 14, superficie 310 m2, Rol Nº 633-63, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000" y se acordó el valor de indemnización con su propietario VICTOR ALFREDO MATUS PINTO Y OTRA, ascendente a la cantidad de $3.614.526.- para el lote Nº14
+
+Fiscal del Ministerio de Obras Públicas.
