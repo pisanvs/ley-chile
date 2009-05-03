@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 523, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 6, superficie 550 m2, Rol Nº 728-3, comuna de Osorno, X Región para la obra "Habilitación Acceso Norte a Osorno, Provincia y Comuna de Osorno, X Región.", y se acordó el valor de indemnización con su propietaria ALICIA EDITH MARILEO MARTINEZ Y OTROS, ascendente a la cantidad de $53.486.257.-
+
+Fiscal del Ministerio de Obras Públicas.
