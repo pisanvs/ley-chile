@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 520, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 4-A, superficie 1.135 m2, Rol Nº 424-37, comuna de Illapel, IV Región para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 al Km. 6,17679.", y se acordó el valor de indemnización con su propietario RAMON NONATO GUERRERO, ascendente a la cantidad de $568.908.
+
+Fiscal del Ministerio de Obras Públicas.
