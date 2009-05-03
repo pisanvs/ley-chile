@@ -12,7 +12,7 @@ NCh 1674 Leche - Ensayo de turbidez modificada.
 
 NCh 1677 Leche en polvo - Determinación del índice de solubilidad.
 
-NCh 1679 Leche en polvo instantánea - Determinación de la instantaneidad.
+NCh 1679 REEMPLAZADA Y ANULADA
 
 NCh 1732/I Leche - Determinación de materia grasa -Método de referencia - Parte I: Método de Röse Gottlieb.
 
