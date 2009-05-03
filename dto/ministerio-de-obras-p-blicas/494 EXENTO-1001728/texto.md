@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 494 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº2, superficie 487 m2, Rol Nº308-40, comuna de Purranque, X Región para la obra "Mejoramiento Camino Ruta U-95, Sector Coñico - Puerto Octay, Km. 7,10000 a Km. 22,50572, Comunas de Purranque y Puerto Octay, Provincia de Osorno, X Región", y se acordó el valor de indemnización con su propietaria LETICIA MIRTA GADICKE VALENZUELA, ascendente a la cantidad de $541.682.- para el lote Nº2.
+
+Fiscal del Ministerio de Obras Públicas.
