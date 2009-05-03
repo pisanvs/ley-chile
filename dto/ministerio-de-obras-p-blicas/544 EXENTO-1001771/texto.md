@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 544, de 31 de marzo de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se dejó sin efecto el decreto MOP. Nº927, de 19 de noviembre de 2008, sólo en la parte que se refiere a los lotes Nºs 12 y 13, en ateción a que han sido eliminados por Resolución S.R.M. III Región Nº1183, de 27 de octubre de 2008. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
