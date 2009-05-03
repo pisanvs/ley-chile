@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 493 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº92, superficie 167 m2, Rol Nº3300-420, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746, Provincia de Llanquihue, X Región " y se acordó el valor de indemnización con su propietario EDITH SALDIVIA REYES, ascendente a la cantidad de $1.942.709.- para el lote Nº92.
+
+Fiscal del Ministerio de Obras Públicas.
