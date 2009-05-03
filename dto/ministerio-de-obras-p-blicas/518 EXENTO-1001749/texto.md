@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 518 de 31 de marzo de 2009, se expropió el lote de terreno Nº 37, superficie 1.289 m2, rol de Avalúo 158-226, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RIO CORRENTOSO - LAS GAVIOTAS. TRAMO KM. 65,58046 A KM. 72,78493", X Región y se acordó el valor de la indemnización con su propietario JUSTO ELI GALLARDO OBANDO, ascendente a la cantidad de $2.520.323.-
+
+Fiscal del Ministerio de Obras Públicas.
