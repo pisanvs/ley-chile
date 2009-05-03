@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 486, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 29-A, superficie 1.780,00 m2, Rol Nº 851-4, comuna de Talca, VII Región para la obra "Habilitación Avda. Circunvalación Río Claro en Talca, Comuna de Talca, Provincia de Talca, VII Región.", y se acordó el valor de indemnización con su propietario CORPORACION NACIONAL FORESTAL REGION DEL MAULE, ascendente a la cantidad de $42.805.035.-
+
+Fiscal del Ministerio de Obras Públicas.
