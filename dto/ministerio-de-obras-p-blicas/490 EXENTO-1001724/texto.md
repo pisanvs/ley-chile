@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 490 de fecha 31 de marzo de 2009, se expropió el lote de terreno Nº 13 superficie 9.661 m2, rol Nº 158-23, comuna de Puerto Octay, para la obra "Camino Construcción Ruta U-91, sector Río Correntoso - Las Gaviotas, Tramo Km. 65,58046 a Km. 72,78493", Provincia de Osorno, X Región y se acordó el valor de la indemnización con su propietario JUNIA AIDENEA FUENTEALBA CERDA Y OTRA, ascendente a la cantidad de $30.224.307.-
+
+Fiscal del Ministerio de Obras Públicas.
