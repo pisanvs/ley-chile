@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 516, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 55, superficie 197 m2, Rol Nº 407-14, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte. Tramo: Vallenar - Caldera. Sector de Vallenar. Km. 660.000,00 al Km. 665.000,00", y se acordó el valor de indemnización con su propietaria MARIA INES ROJAS ARAYA, ascendente a la cantidad de $2.430.000.-
+
+Fiscal del Ministerio de Obras Públicas.
