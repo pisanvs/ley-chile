@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 527 de fecha 31 de marzo del 2009, se expropiaron los lotes de terreno Nºs. 21 y 22 superficies 1.545,00 y 1.495,00 m2, Rol Nº308249, comuna de Purranque, X Región para la obra "Mejoramiento Camino Ruta U-95, Sector Coñico - Puerto Octay, Km. 7,10000 a Km. 22,50572, Comunas de Purranque y Puerto Octay, Provincia de Osorno, X Región", y se acordó el valor de indemnización con su propietario ARNO GUILLERMO GEBAUER POSTLER, ascendente a la cantidad de $6.564.206.- para los lotes Nºs. 21 y 22.
+
+Fiscal del Ministerio de Obras Públicas.
