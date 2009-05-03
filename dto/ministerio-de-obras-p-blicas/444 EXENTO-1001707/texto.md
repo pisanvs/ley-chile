@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 444 de fecha 27 de febrero del 2009, se expropió el lote de terreno Nº 5-A, superficie 12.321 m2, Rol Nº 399-106, comuna de Pitrufquén, IX Región para la obra "Proyecto Mejoramiento Trazado Camino Pitrufquen - Ñancul, Sector Tramo Km. 12,20000 al Km. 23,14000", Provincia de Cautín, Comuna de Pitrufquén, IX Región" y se acordó el valor de indemnización con su propietario PABLO ADONIS GUERRERO COLIPAN Y OTRAS, ascendente a la cantidad de $6.228.135.- para el lote Nº5-A.
+
+Fiscal del Ministerio de Obras Públicas.
