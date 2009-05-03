@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 543, de 31 de marzo de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se dejó sin efecto el Decreto Exento Nº1319, de 28 de noviembre de 2008, sólo en la parte que se refiere al lote de terreno Nº76-C, en atención a que ha sido eliminado por Resolución S.R.M. OO.PP. V Región Nº1724, de 17 de noviembre de 2008. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
