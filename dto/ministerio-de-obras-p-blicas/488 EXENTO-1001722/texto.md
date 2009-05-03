@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 488, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 50, superficie 155 m2, Rol Nº 631-66, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 al Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 al Km. 5,90000.", y se acordó el valor de indemnización con su propietario RUBEN ENRIQUE MATUS SANDIA, ascendente a la cantidad de $7.382.509.-
+
+Fiscal del Ministerio de Obras Públicas.
