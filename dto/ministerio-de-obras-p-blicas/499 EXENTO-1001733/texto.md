@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 499 de fecha 31 de marzo de 2009, se expropiaron los lotes de terreno Nºs 27 y 27-A, superficies 116 y 177 m2 respectivamente, rol Nº 64405, comuna de Molina, para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15 Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000, Comuna de Molina, Provincia de Curicó, VII Región Del Maule" y se acordó el valor de la indemnización con su propietario ILUSTRE MUNICIPALIDAD DE MOLINA, ascendente a la cantidad de $4.112.782.-
+
+Fiscal del Ministerio de Obras Públicas.
