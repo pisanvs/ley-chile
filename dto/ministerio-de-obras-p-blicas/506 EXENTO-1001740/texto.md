@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 506 de fecha 31 de marzo del 2009, se expropiaron los lotes de terreno Nºs. 28 y 33, superficies 211 y 178 m2, Rol Nº 18-25 y 19-17, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle - Hurtado, sector Samo Alto Pichasca", y se acordó el valor de indemnización con su propietaria VIOLETA DEL CARMEN ROJAS PALTA, ascendente a la cantidad de $737.256.- para los lotes Nºs. 28 y 33.
+
+Fiscal del Ministerio de Obras Públicas.
