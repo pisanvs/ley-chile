@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 517 de 31 de marzo de 2009, se expropió el lote de terreno Nº 196, superficie 1.888,00 m2, rol de Avalúo 111-1, comuna de Queilen, para la obra "CAMINO RUTA W-853, TEPUPA - QUEILEN, SECTOR SANTA MARIA - QUEILEN, TRAMO KM. 25,96000 A KM. 42,34833", X Región y se acordó el valor de la indemnización con su propietario JOSE AMADOR ANDRADE NAHUELQUIN, ascendente a la cantidad de $778.338.-
+
+Fiscal del Ministerio de Obras Públicas.
