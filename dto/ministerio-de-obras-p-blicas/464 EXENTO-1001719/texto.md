@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 464, de 20 de marzo de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral tercero del Decreto MOP. Nº831, de 28 de octubre de 2008, en la parte que se al monto de la indemnización provisional $110.600.- el cual corresponde al lote Nº59, y no como en él se indica. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
