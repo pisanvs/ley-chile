@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 497 de 31 de marzo del 2009, se expropió el lote de terreno Nº 13-A, superficie 50 m2., Rol Nº 241-36, comuna de Villa Alegre, VII Región para la obra "CAMINO RUTA L-202, SECTOR VILLA ELEGRE - PUTAGAN KM. 0.00000 A KM. 11.44287", y se acordó el valor de indemnización con su propietario HECTOR HUGO CASTRO BRAVO, ascendente a la cantidad de $831.872.
+
+Fiscal del Ministerio de Obras Públicas.
