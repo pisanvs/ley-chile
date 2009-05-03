@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 536 de 31 de marzo del 2009, se expropió el lote de terreno Nº 6-A, superficie 12.626,5 m2., Rol Nº 629-31, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K- 155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000", y se acordó el valor de indemnización con su propietario JORGE RUBEN CASTRO DAVIES, ascendente a la cantidad de $92.573.717.-
+
+Fiscal del Ministerio de Obras Públicas.
