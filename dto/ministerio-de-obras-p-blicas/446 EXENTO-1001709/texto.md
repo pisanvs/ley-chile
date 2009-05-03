@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 446, de fecha 27 de febrero del 2009, se expropió el lote de terreno Nº 54, superficie 701 m2, Rol Nº 410-2, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500, Comuna y Provincia de Petorca, V Región.", y se acordó el valor de indemnización con su propietaria IRIS GRACIELA DE LAS MERCEDES HENRIQUEZ LARRAIN ó IRIS HENRIQUEZ LARRAIN, ascendente a la cantidad de $10.470.266.-
+
+Fiscal del Ministerio de Obras Públicas.
