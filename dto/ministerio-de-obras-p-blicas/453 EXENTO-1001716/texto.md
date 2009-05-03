@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 453 de fecha 27 de febrero de 2009, se expropió el lote de terreno Nº 53, superficie 2.195 m2, rol Nº 211-42, comuna de Florida, para la obra "Mejoramiento Ruta 0-390, Cruce Ruta 148 (Florida) - Autopista Itata" Región del Bío Bío y se acordó el valor de la indemnización con su propietario OCTAVIO MUÑOZ SANCHEZ, ascendente a la cantidad de $1.639.816.-
+
+Fiscal del Ministerio de Obras Públicas.
