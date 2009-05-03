@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 532 de fecha 31 de marzó de 2009, se expropió el lote de terreno Nº 39, superficie 25 m2, rol Nº 435-27, comuna de Cauquenes, para la obra "Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Chanco, Tramo Cauquenes - Tutuven Km. 2,65000 a Km. 15,24724" VII Región y se acordó el valor de la indemnización con su propietario JAIME GILBERTO DURAN ARAVENA, ascendente a la cantidad de $262.575.-
+
+Fiscal del Ministerio de Obras Públicas.
