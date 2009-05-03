@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 524, de fecha 31 de marzo del 2009, se expropiaron los lotes de terrenos Nºs 2 y 3, superficie 22.500 y 36.940 m2 respectivamente, Rol Nº 158110, comuna de Cochamó, X Región para la obra "Camino Puelo - Paso El Bolsón, Sector Llanada Grande - Segundo Corral, tramo Acceso a Valle Ventisquero.", y se acordó el valor de indemnización con su propietaria ALBA EUDOSIA DELGADO HUBE, ascendente a la cantidad de $26.843.366.-
+
+Fiscal del Ministerio de Obras Públicas.
