@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 487, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 2, superficie 725 m2, Rol Nº 1093-506, comuna de Quillón, VIII Región para la obra "Camino Ruta N-750, Sector Acceso a Puente Coyanco, Km. 0,00000 al Km. 0,33420, VIII Región.", y se acordó el valor de indemnización con su propietario LUIS AURELIO MONSALVES NUÑEZ, ascendente a la cantidad de $24.919.666.-
+
+Fiscal del Ministerio de Obras Públicas.
