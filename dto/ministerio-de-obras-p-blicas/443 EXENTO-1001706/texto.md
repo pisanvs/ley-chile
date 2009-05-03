@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 443 de fecha 27 de febrero del 2009, se expropió el lote de terreno Nº7, superficie 1.774 m2, Rol Nº220-41, comuna de Coelemu, VIII Región para la obra "Camino Ruta 126, sector Coelemu - Rafael - Tomé, Tramo I Km. 0,00000 a Km. 20,30000", y se acordó el valor de indemnización con su propietario REGINALDO SILVA HENRIQUEZ, ascendente a la cantidad de $4.443.556.-
+
+Fiscal del Ministerio de Obras Públicas.
