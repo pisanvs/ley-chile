@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 535 de fecha 31 de marzo de 2009, se expropió el lote de terreno Nº 3, superficie 2.745 m2, rol Nº 8000-4, comuna de Diego de Almagro, para la obra "Reposición Ruta C-17, Inca del Oro - Diego de Almagro", III Región y se acordó el valor de la indemnización con su propietario JOSE RAFAEL FONSECA SANHUEZA, ascendente a la cantidad de $14.488.707.-
+
+Fiscal del Ministerio de Obras Públicas.
