@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 445 de fecha 27 de febrero del 2009, se expropió el lote de terreno Nº 24-A, superficie 120 m2, Rol Nº 154-242, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario SERGIO RENATO OLMOS JIMÉNEZ O SERGIO RENATO OLMOS JIMÉNEZ, ascendente a la cantidad de $3.812.895.- para el lote Nº24-A.
+
+Fiscal del Ministerio de Obras Públicas.
