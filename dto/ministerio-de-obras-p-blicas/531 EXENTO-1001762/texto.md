@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 531 de fecha 31 de marzo de 2009, se expropió el lote de terreno Nº 50, superficie 668 m2, rol Nº 154-192, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario RAÚL EDUARDO MARDONES OYARZÚN O RAUL MARDONES OYARZÚN, ascendente a la cantidad de $3.613.929.-
+
+Fiscal del Ministerio de Obras Públicas.
