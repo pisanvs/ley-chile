@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 533 de fecha 31 de marzo de 2009, se expropió el lote de terreno Nº 19-A, superficie 36 m2, rol en trámite, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario MANUEL HERNAN OLIVARES CASTILLO, ascendente a la cantidad de $292.678.-
+
+Fiscal del Ministerio de Obras Públicas.
