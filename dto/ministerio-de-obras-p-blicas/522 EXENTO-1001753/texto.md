@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 522, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 16, superficie 14.596 m2, Rol W 509-341, comuna de Copiapó, III Región para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By-Pass a Copiapó)", y se acordó el valor de indemnización con su propietario INMOBILIARIA E INVERSIONES ACUARIO LIMITADA, ascendente a la cantidad de $20.567.014.-
+
+Fiscal del Ministerio de Obras Públicas.
