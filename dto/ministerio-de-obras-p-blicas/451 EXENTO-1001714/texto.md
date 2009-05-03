@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 451 de 27 de febrero de 2009, se expropió el lote de terreno Nº 1-C, superficie 6.268 m2, rol de Avalúo 158-231, comuna de Cochamó, para la obra "CAMINO PUELO - PASO EL BOLSON, SECTOR LLANADA GRANDE - RIO MAPOCHO, TRAMO KM. 32,50000 AL KM. 37,40000", X Región y se acordó el valor de la indemnización con su propietario JOSE ARTURO VERA AGUILA, ascendente a la cantidad de $2.257.798.-
+
+Fiscal del Ministerio de Obras Públicas.
