@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 529 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº9, superficie 559 m2, Rol Nº729-59, comuna de Osorno, X Región para la obra "Habilitación Acceso Norte a Osorno, X Región, Provincia y Comuna de Osorno", y se acordó el valor de indemnización con su propietario ARMANDO ZAPATA NILIAN, ascendente a la cantidad de $27.072.157.- para el lote Nº9.
+
+Fiscal del Ministerio de Obras Públicas.
