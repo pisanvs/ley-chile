@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 500 de fecha 31 de marzo de 2009, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 416 y 322 m2 respectivamente, rol Nº 517-4, comuna de Longaví, para la obra "Camino Cruce Longitudinal - Los Marcos Rol L-480, Sector Puente Llollinco, Km. 4,91200 a Km. 5,08819, Comuna de Longaví Provincia de Linares, VII Región" y se acordó el valor de la indemnización con su propietario TERESA DE JESUS MAUREIRA BARROS, ascendente a la cantidad de $1.861.460.-
+
+Fiscal del Ministerio de Obras Públicas.
