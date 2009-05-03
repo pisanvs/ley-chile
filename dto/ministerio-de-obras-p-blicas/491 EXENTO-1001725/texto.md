@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 491 de fecha 31 de marzo de 2009, se expropiaron los lotes de terreno Nºs 1, 2 y 3, superficies 2.891, 3.283 y 1.527 m2 respectivamente, rol Nº 877-17, comuna de Pinto, para la obra "Camino Ruta N-623, Sector Acceso a Puente Atacalco, Km. 0,00000 a Km. 0,58500, VIII Región" y se acordó el valor de la indemnización con su propietario ELLEN EMA BARENDS HAENSGEN Y OTROS, ascendente a la cantidad de $5.222.398.-
+
+Fiscal del Ministerio de Obras Públicas.
