@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 514 de 31 de marzo del 2009, se expropió el lote de terreno Nº 11-Dl, superficie 211 m2., Rol Nº 81-587, comuna de Pelarco, VII Región para la obra "CAMINO RUTA K-45, SECTOR PELARCO HUENCUECHO SUR, TRAMO KM. 0,00000 AL KM. 8,54141", y se acordó el valor de indemnización con su propietaria ANA MARIA DEL ROSARIO ORDAZ GAJARDO, ascendente a la cantidad de $636.165.-
+
+Fiscal del Ministerio de Obras Públicas.
