@@ -100,26 +100,4 @@ Las consultoras antes señaladas deberán entregar un informe de avance durante 
 
 > **Nota.** La letra a), del Nº 1 de la Resolución 1552 Exenta, Economía, publicada el 02.05.2009, modifica la presente norma, en el sentido de incrementar la cuota autorizada para el período septiembre a diciembre en 319,765 toneladas de Merluza del sur, las que se subdividirán en fracciones mensuales expresadas en kilos, de acuerdo a la forma que la citada norma indica.
 
-> **Nota.** NOTA 1 El Nº 1 de la Resolución 2434 Exenta, Economía, publicada el 22.07.2009, modifica la presente norma, en el sentido de descontar, de los remanentes no capturados de las siguientes organizaciones de pescadores artesanales, las cuotas en kilos que a continuación se indican:Organización CuotaSTI Francisco Andrade 66.667STI Litoral Sur 27.444SIND. Aysén-B.M. Pesc. Artes. 53.161STI Estuario Aysén 17.927Total 165.199.
-
-> **Nota.** NOTA 2 El Nº 1 de la Resolución 2497 Exenta, Economía, publicada el 27.07.2009, modifica la presente norma, en el sentido de señalar que los períodos de captura se dividirán de la siguiente manera:Enero a Julio Agosto Septiembre Octubre Noviembre Diciembre (VEDA) Las cuotas mensuales asignadas para los meses de enero a julio se sumarán como una sola cuota asignada a dicho período.
-
-> **Nota.** NOTA 3 El Nº 1 de la Resolución 2558 Exenta, Economía, publicada el 03.08.2009, modifica la presente norma, en el sentido de descontar de los remanentes no capturados de las siguientes organizaciones de pescadores artesanales, las cuotas en kilos que a continuación se indican:Organización Nº Inscripción Cuota (Kilos)STI Elefantes RSU Nº 11.05.0022 21.000STI Playas Blancas RSU Nº 11.02.0075 5.500STI Nueva Ventura RSU Nº 11.02.0077 18.713STI Esfuerzo del Mar RSU Nº 11.02.0100 889Total 46.102.
-
-> **Nota.** NOTA 4 El Nº 1 de la Resolución 2585 Exenta, Economía, publicada el 03.08.2009, modifica la presente norma, en el sentido de descontar de los remanentes no capturados de las siguientes organizaciones de pescadores artesanales, las cuotas en kilos que a continuación se indican:Organización RSU Cuota (Kilos)STI Nuevo Horizonte 11.05.0014 5500STI Pesc. Art. Y B. M Puerto Cisnes 11.05.0017 60977Total 66477.
-
-> **Nota.** NOTA 5 El Nº 1 de la Resolución 3133 Exenta, Economía, publicada el 25.09.2009, modifica la presente norma en el sentido de descontar de los remanentes no capturados de las siguientes organizaciones de pescadores artesanales, las cuotas expresadas en toneladas que a continuación se indican:Organizaciones RSU o Cuota Nº Ins. (Tons)STI Pesc. Art. y B. M. Aysén 11.02.0028 6,506STI Playas Blancas 11.02.0070 4,003STI Elefantes 11.05.0022 4,487STI Esfuerzo del Mar 11.02.0100 0,009STI Nuevo Horizonte 11.05.00 0,056STI Pesc. Art. y B. M. Cisnes 11.05.0017 2,281STI El Pitico 11.05.0024 7,556STI Sur Pesca AG 113-11 9,033TOTAL 33,931
-
-> **Nota.** NOTA 6 El N° 1 de la Resolución 3289 Exenta, Economía, publicada el 08.10.2009, modifica la presente norma, en el sentido de descontar de los remanentes no capturados de las organizaciones de pescadores artesanales que se señalan, las cuotas expresadas en toneladas que de indica en la citada norma.
-
-> **Nota.** NOTA 7 El N° 1 de la Resolución 3606 Exenta, Economía, publicada el 06.11.2009, modifica la presente norma, en el sentido de descontar de los remanentes no capturados de las organizaciones de pescadores artesanales que se señalan, las cuotas expresadas en toneladas que de indica en la citada norma.
-
-> **Nota.** NOTA 8 El N 1 de la Resolución 3665 Exenta, Economía, publicada el 11.11.2009, modifica la presente norma en el sentido de incorporar a la Flota Norte 2 -Rodrigo Azcar Guzmán- a la Asociación de Pescadores Artesanales de la Pesca Demersal de la Undécima Región A.G., Registro de Asociaciones Gremiales N 85-11, con las capturas que se señalan en la norma. Asimismo, ordena reemplazar las asignaciones efectuadas a las organizaciones de pescadores artesanales que se indica, pertenecientes a la Flota Norte 2 - Universidad de Valparaiso - por las que se señalan en la norma.
-
-> **Nota.** NOTA 9 El Nº 1 de la Resolución 3994 Exenta, Economía, publicada el 04.12.2009, modifica la presente norma en el sentido de descontar de los remanentes no capturados de la organización de pescadores artesanales que se indica, la cuota expresada en toneladas que a continuación se señala:Organización Nº Inscripción Cuota (Tons.)STI Elefantes RSU Nº 11.05.0022 9,389
-
-> **Nota.** NOTA 10 La letra a) del Nº 1 de la Resolución 4381 Exenta, Economía, publicada el 06.01.2010, modifica la presente norma en el sentido de incorporar a la consultora Ecomar S.A., como responsable de los mecanismos de control del Régimen Artesanal de Extracción de Merluza del sur de la XI Región que establezca el Servicio Nacional de Pesca.
-
-> **Nota.** NOTA 11 La letra b) del Nº 1 de la Resolución 4381 Exenta, Economía, publicada el 06.01.2010, modifica la presente norma en el sentido de señalar que para el mes de diciembre, la cuota autorizada para las organizaciones de pescadores que indica, ascenderá a 74.551 kilos de Merluza del sur, que se dividirá por flotas de la manera que en dicha norma se señala.
-
 Anótese, comuníquese y publíquese por cuenta de esta Subsecretaría de Pesca.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
