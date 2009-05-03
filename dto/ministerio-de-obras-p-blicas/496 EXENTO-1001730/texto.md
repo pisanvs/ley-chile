@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 496 de 31 de marzo de 2009, se expropiaron los lotes de terrenos Nºs 1 y 2, superficies 549 y 249 m2, Rol Nº 840-5, comuna de Vallenar, III Región para la obra "CONSERVACION RED VIAL REGION DE ATACAMA 2006-2008 (CONSERVACION DE CAMINOS BASICOS (CONSERVACION CAMINO ACCESO A IMPERIAL BAJO, PROVINCIA DE HUASCO, REGION DE ATACAMA ))" y se acordó el valor de indemnización con su propietaria ELIZABETH CLORINDA CORTEZ PAEZ, ascendente a la cantidad de $921.830.-
+
+Fiscal del Ministerio de Obras Públicas.
