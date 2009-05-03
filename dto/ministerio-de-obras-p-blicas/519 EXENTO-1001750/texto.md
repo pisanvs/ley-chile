@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 519, de fecha 31 de marzo del 2009, se expropiaron los lotes de terrenos Nºs 28 y 29, superficie 1.197,00 y 418,00 m2 respectivamente, Rol Nº 143-12, comuna de Chonchi, X Región para la obra "Camino Ruta W-853, Teupa - Queilen, Sector Teupa - Santa María, tramo Km. 6,80000 al Km. 25,95773.", y se acordó el valor de indemnización con su propietario AURELIANO OJEDA OJEDA, ascendente a la cantidad de $850.780.-
+
+Fiscal del Ministerio de Obras Públicas.
