@@ -154,39 +154,39 @@ Disposiciones transitorias
 
 #### Artículo primero
 
-transitorio.- Establécense las siguientes normas o criterios de condonación, para aquellos impuestos girados hasta el 30 de junio de 2012, que se encuentren sujetos a cobranza administrativa y/o judicial:
+transitorio.- Para aquellos impuestos girados hasta el 31 de marzo de 2009, a contribuyentes que registren ventas netas anuales inferiores a 100.000 UF o rentas de Global Complementario inferiores a $67.773.600 anuales, que se encuentren sujetos a cobranza administrativa y judicial, se dictan las siguientes normas o criterios de condonación:
 
 a) El Servicio de Tesorerías podrá aplicar los siguientes porcentajes de condonación a estas deudas pagadas de contado:
 
-i. Condonación de hasta un 90% sobre el interés penal establecido en el artículo 53 del Código Tributario.
+1. Condonación de hasta un 80% sobre el interés penal establecido en el Art. 53 del Código Tributario.
 
-ii. Condonación de hasta un 90% sobre la multa contemplada en el artículo Nº 97, número 2, inciso primero, del Código Tributario.
+2. Condonación de hasta un 80% sobre la multa contemplada en el Art. N° 97, número 2 inciso 1° del C.T.
 
-iii. Condonación de hasta un 90% sobre la multa contemplada en el Nº 11, del artículo 97, del Código Tributario.
+3. Condonación de hasta un 80% sobre la multa contemplada en el N° 11 del Art. 97 del Código Tributario.
 
-b) El Servicio de Tesorerías podrá autorizar convenios de pago, en conformidad al artículo 192 del Código Tributario, con el porcentaje de condonación que se fija más adelante, sólo si en dichos convenios se establece el pago íntegro de la deuda tributaria en cuotas periódicas, sin perjuicio de convenirse un pago de contado por un monto diferente al valor de la cuota. Estos convenios con condonación sólo podrán otorgarse por los siguientes porcentajes:
+b) El Servicio de Tesorerías podrá autorizar convenios de pago, en conformidad al Art. 192 del C.T., con el porcentaje de condonación que se fija más adelante, sólo si en dichos convenios se establece el pago íntegro de la deuda tributaria en cuotas periódicas, sin perjuicio de convenirse un pago de contado por un monto diferente al valor de la cuota. Estos convenios con condonación sólo podrán otorgarse por los siguientes porcentajes:
 
-i. Condonación de hasta un 75% sobre el interés penal establecido en el artículo 53 del Código Tributario.
+1. Condonación de hasta un 55% sobre el interés penal establecido en el Art. 53 del Código Tributario.
 
-ii. Condonación de hasta un 75% sobre la multa contemplada en el artículo Nº 97, número 2, inciso primero, del Código Tributario.
+2. Condonación de hasta un 55% sobre la multa contemplada en el Art. N° 97, número 2 inciso 1° del C.T.
 
-iii. Condonación de hasta un 75% sobre la multa contemplada en el Nº 11, del artículo 97, del Código Tributario.
+3. Condonación de hasta un 55% sobre la multa contemplada en el N° 11 del Art. 97 del Código Tributario.
 
-c) El contribuyente perderá la condonación si no da total cumplimiento al convenio de pago que haya suscrito en conformidad al artículo 192 del Código Tributario.
+c) El contribuyente pierde la condonación si no da total cumplimiento al convenio de pago que haya suscrito en conformidad al artículo 192 del Código Tributario.
 
 #### Artículo segundo
 
-transitorio.- Establécense las siguientes normas o criterios de condonación para las cuotas por concepto de Impuesto Territorial, giradas hasta el 30 de junio de 2012:
+transitorio.- En el caso de cuotas por concepto de Impuesto Territorial, giradas hasta el 31 de marzo de 2009, establécense las siguientes normas o criterios de condonación:
 
-a) Para el caso de pago de contado, el Servicio de Tesorerías podrá aplicar para cada cuota en mora, un porcentaje de condonación de hasta un 90% sobre los intereses penales establecidos en el artículo 53 del Código Tributario.
+a) Para el caso de pago de contado, el Servicio de Tesorerías podrá aplicar para cada cuota en mora, un porcentaje de condonación de hasta un 90% sobre los intereses penales establecidos en el Art. 53 del Código Tributario.
 
-b) El Servicio de Tesorerías podrá autorizar convenios de pago, en conformidad al artículo 192 del Código Tributario, con un 75% de condonación sobre los intereses penales establecidos en el artículo 53 del Código Tributario, sólo si en dichos convenios se establece el pago íntegro de la deuda tributaria en cuotas periódicas, sin perjuicio de convenirse un pago de contado por un monto diferente al valor de la cuota.
+b) El Servicio de Tesorerías podrá autorizar convenios de pago, en conformidad al Art. 192 del C.T. con un 70% de condonación sobre los intereses penales establecidos en el Art. 53 del Código Tributario, sólo si en dichos convenios se establece el pago íntegro de la deuda tributaria en cuotas periódicas, sin perjuicio de convenirse un pago de contado por un monto diferente al valor de la cuota.
 
 c) El contribuyente pierde la condonación si no da total cumplimiento al convenio de pago que haya suscrito en conformidad al artículo 192 del Código Tributario.
 
 #### Artículo tercero
 
-transitorio.- Las normas de condonación establecidas en los artículos 1º y 2º transitorio, estarán vigentes hasta el día 26 de diciembre de 2012.
+transitorio.- Las normas de condonación establecidas en los artículos 1º y 2º transitorio, estarán vigentes hasta el día 30 de junio de 2010.
 
 #### Artículo cuarto
 
@@ -194,7 +194,7 @@ transitorio.- A las deudas que se acojan a los artículos 1º y 2º transitorios
 
 #### Artículo quinto
 
-transitorio.- Lo dispuesto en los artículos 7° y 8° letra d), no será aplicable a aquellos contribuyentes que soliciten un convenio de pago durante la vigencia del artículo quinto de la ley Nº 20.630, que perfecciona la legislación tributaria y financia la reforma educacional, pudiendo acogerse a lo dispuesto en los artículos primero y segundo y 1° y 2° transitorios de esta resolución, por cada giro o cuota adeudada.
+transitorio.- Lo dispuesto en los artículos 7° y 8° letra d), no será aplicable a aquellos contribuyentes que soliciten un convenio de pago durante la vigencia de la ley Nº 20343, pudiendo acogerse a lo dispuesto en los artículos primero y segundo y 1° y 2° transitorios de esta resolución, por cada giro o cuota adeudada.
 
 #### Artículo final
 
