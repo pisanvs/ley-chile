@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 505 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 32-C, superficie 344 m2, Rol Nº 251-140, comuna de Salamanca, IV Región para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca Km. 13,14000 al Km. 23,49783, II Etapa", y se acordó el valor de indemnización con su propietario VALENTIN DEL CARMEN BAEZ VARGAS, ascendente a la cantidad de $2.225.475.- para el lote Nº32-C.
+
+Fiscal del Ministerio de Obras Públicas.
