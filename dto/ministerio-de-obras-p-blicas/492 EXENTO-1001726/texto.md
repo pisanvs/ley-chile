@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 492 de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº7-C, superficie 235 m2, Rol Nº 470-120, comuna de Ovalle, IV Región para la obra "Reposición Pav. Ruta 45, Cruce Long. (Socos) - Ovalle, Km.0,50730 a Km. 34,26924", y se acordó el valor de indemnización con su propietario JULIO EDUARDO POLANCO GALARCE, ascendente a la cantidad de $500.789.- para el lote Nº7-C.
+
+Fiscal del Ministerio de Obras Públicas.
