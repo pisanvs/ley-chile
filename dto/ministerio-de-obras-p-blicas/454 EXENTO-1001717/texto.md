@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 454 de fecha 27 de febrero de 2009, se expropió el lote de terreno Nº 4, superficie 1.099 m2, rol Nº 607-202, comuna de Mulchén, para la obra "Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, Km. 0,00000 a Km. 23,13600, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario CECILIA ALEJANDRA MORALES PALMA Y OTRA, ascendente a la cantidad de $1.437.649.-
+
+Fiscal del Ministerio de Obras Públicas.
