@@ -12,6 +12,6 @@ Tercero: Que, las liebres y conejos europeos están considerados animales dañin
 
 R e s u e l v o:
 
-Primero: Autorízase la caza de liebre europea (Lepus capensis), en la Región de Aysén, y la caza de liebre europea (Lepus capensis) y conejo europeo (Oryctolagus cuniculus) en la XII Región, en y desde caminos públicos.
+Primero: Autorízase la caza de liebre europea (Lepus capensis), en la Región de Aysén del Gral. Carlos Ibáñez del Campo, y la caza de liebre europea (Lepus capensis) y conejo europeo (Oryctolagus cuniculus) en la Región de Magallanes y la Antártica Chilena, con fines de control poblacional, en y desde caminos públicos, excepto en el camino o Ruta X 83, Río Chacabuco Paso Roballos, ubicado en la Provincia Capitán Prat, Región de Aysén del Gral. Carlos Ibáñez del Campo, desde el cruce con Carretera Austral o Ruta 7, Entrada Baker, Paso Roballos (Frontera).
 
 Anótese, comuníquese y publíquese.- Antonio Yaksic Soulé, Director Nacional Servicio Agrícola y Ganadero.
