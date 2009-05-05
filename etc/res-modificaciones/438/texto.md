@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 438, de 20/02/2009, modificó Res. (M) 1.474/2000, modificada por Res. (M) 1.556/2001, de la siguiente forma: Ubicación: Ensenada Nayahue, isla Butachauques, Superficie 14,89 Hás, coordenadas geográficas Carta SHOA Nº7390, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°16'44,28" S. Long. 73°06'15,44" W. Vértice B Lat. 42°16'41,70" S. Long. 73°06'12,75" W. Vértice C Lat. 42°16'40,32" S. Long. 73°06'15,65" W. Vértice D Lat. 42°16'36,50" S. Long. 73°06'17,54" W. Vértice E Lat. 42°16'32,91" S. Long. 73°06'18,27" W. Vértice F Lat. 42°16'28,87" S. Long. 73°06'18,55" W. Vértice G Lat. 42°16'26,28" S. Long. 73°06'31,39" W. Vértice H Lat. 42°16'28,85" S. Long. 73°06'33,11" W. Vértice I Lat. 42°16'30,89" S. Long. 73°06'33,82" W. Vértice J Lat. 42°16'35,66" S. Long. 73°06'37,27" W. Vértice K Lat. 42°16'39,81" S. Long. 73°06'23,41" W.
+
+Santiago, 24 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina, Subrogante.
