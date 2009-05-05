@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 627, de 17/03/2009, modificó DS (M) 972/1988, modificado por Res. (M) 1.565/1994 y autorizada transferir a su actual titular por Res. (M) 1.316/1997, modificada por Res. (M) 1.207/2003, de la siguiente forma: Ubicación: Quetalco, al Este de Punta de Chocomo; Superficie 21,16 Hás.; coordenadas geográficas Carta SHOA Nº7370, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°20'43,79" S. Long. 73°33'16,53" W. Vértice B Lat. 42°20'43,71" S. Long. 73°33'08,44" W. Vértice C Lat. 42°20'50,89" S. Long. 73°33'08,27" W. Vértice D Lat. 42°20'50,79" S. Long. 73°33'00,40" W. Vértice E Lat. 42°20'39,69" S. Long. 73°33'00,65" W. Vértice F Lat. 42°20'39,57" S. Long. 73°32'51,32" W. Vértice G Lat. 42°20'56,10" S. Long. 73°32'50,94" W. Vértice H Lat. 42°20'56,42" S. Long. 73°33'16,33" W.
+
+Santiago, 24 de abril de 2009.- Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
