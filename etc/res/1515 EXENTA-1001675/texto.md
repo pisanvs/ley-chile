@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.515, de 24 de abril de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº206103334, presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para el centro de cultivo ubicado en Ensenada Mapué, Isla Tranqui, X Región, otorgado por resolución Nº717 de 1997 y modificado por resolución Nº1.199 de 2005, ambas de Subsecretaría de Marina.
+
+Valparaíso, 24 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
