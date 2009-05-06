@@ -28,29 +28,9 @@ Resuelvo:
 
 > **Nota.** NOTA 3: El artículo 1º de la RES 512 exenta, Transportes, publicada el 31.03.2007, prorroga la vigencia de la presente norma a contar del 1º de mayo de 2008 y hasta el 30 de abril de 2009, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
 
-> **Nota.** NOTA 4 El Artículo 1º de la Resolución 1165 Exenta, Transportes, publicada el 04.05.2010, prorroga la vigencia de la presente norma a contar del 01 de mayo de 2010 y hasta el 30 de octubre de 2011, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 5 El Artículo 2º de la Resolución 1165 Exenta, Transportes, publicada el 04.05.2010, prorroga hasta el 30 de octubre 2011 o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías, cualquiera de los dos hechos que ocurra primero, la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros, extendidos a la fecha de publicación de la citada resolución, a los buses inscritos en servicios urbanos regidos por la presente norma.
-
-> **Nota.** NOTA 6 El Artículo 1º de la Resolución 3156 Exenta, Transportes, publicada el 09.11.2011, prorroga la vigencia de la presente norma a contar del 31 de octubre de 2011 y hasta el 30 de abril de 2013, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 7 El artículo 1° de la Resolución 996 Exenta, Transportes, publicada el 24.05.2013, prorroga la vigencia de la presente norma a contar del 1 de mayo de 2013 y hasta el 31 de octubre de 2014, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 8 El artículo 1° de la Resolución 2695 Exenta, Transportes, publicada el 29.10.2014, prorroga la vigencia de la presente norma a contar del 1 de noviembre de 2014 y hasta el 30 de abril de 2016, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 8 El artículo 1° de la Resolución 809 Exenta, Transportes, publicada el 02.05.2016, prorroga la vigencia de la presente norma a contar del 1 de mayo de 2016 y hasta el 01 de mayo de 2017, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 9 La Resolución 1005 Exenta, Transportes, publicada el 19.05.2017, modifica la presente norma en el sentido de prorrogar la vigencia de las condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros, prestados mediante buses en las vías ubicadas al interior del Gran Concepción, por un plazo máximo de 18 meses, a contar del 2 de mayo de 2017 y hasta el 2 de noviembre de 2018, o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 10 La Resolución 3215 Exenta, Transportes, publicada el 02.11.2018, dispone prorrogar la vigencia de la presente norma respecto de las condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros, prestados mediante buses en las vías ubicadas al interior del Gran Concepción, por un plazo máximo de 18 meses, a contar del 3 de noviembre de 2018 y hasta el 3 de mayo de 2020, o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 11 La Resolución 890 Exenta, Transportes, publicada el 02.05.2020, dispone prorrogar la vigencia de la presente norma respecto de las condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior del Gran Concepción, por un plazo máximo de 18 meses, a contar del 4 de mayo de 2020 y hasta el 4 de noviembre de 2021, o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
-> **Nota.** NOTA 12 La Resolución 145 Exenta, Transportes, publicada 06.06.2020, se dispuso el aumento de la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros extendidos a la fecha de publicación del extracto de la resolución exenta N° 890 de 2020, del Ministerio de Transportes y Telecomunicaciones para los buses inscritos en los servicios urbanos regidos por la presente norma, hasta el 4 de noviembre de 2021 o bien hasta la entrada en vigencia de un perímetro de exclusión en la zona geográfica del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
-
 #### Artículo 1º
 
-Establécense las siguientes condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de las comunas de Concepción, Chiguayante, Hualqui, Talcahuano, Hualpén, San Pedro de la Paz y Penco.
+Establécense las siguientesNOTA condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de las comunas de Concepción, Chiguayante, Hualqui, Talcahuano, Hualpén, San Pedro de la Paz y Penco.
 
 1. Definiciones
 
@@ -100,8 +80,6 @@ Michimalongo - Los Sauces - Los Pinos - Chorrillos - Edmundo Larenas - Víctor L
 
 Costanera - Jorge Alessandri (hasta Paicaví).
 
-Al interior de dicho perímetro, el Secretario Regional Ministerial de Transportes y Telecomunicaciones, podrá, por resolución fundada y por causas justificadas, tales como cierres y cambio de sentido de tránsito de calles, construcción de obras viales, prohibición de circulación, medidas de gestión de tránsito y transporte público, efectuar modificaciones al recorrido de uno o más servicios.
-
 1.4. Biotren: Servicio de tren suburbano que operará en las comunas pertenecientes al área regulada.
 
 1.5. Bucle: Es el servicio que se presta sobre un subconjunto del trazado del respectivo servicio establecido, con el objeto de optimizar la capacidad de transporte y la frecuencia ofertada.
@@ -110,11 +88,11 @@ Al interior de dicho perímetro, el Secretario Regional Ministerial de Transport
 
 1.7. Flota Teórica: Corresponde al número mínimo de vehículos necesarios para cumplir la frecuencia máxima establecida para cada servicio.
 
-1.8. SUPRIMIDO.
+1.8. Hora Punta Mañana: Corresponde al período comprendido entre las 07:00 y las 09:30 horas de un día hábil.
 
-1.9. SUPRIMIDO.
+1.9. Hora Punta Tarde: Es el período comprendido entre las 17:30 y las 20:30 horas de un día hábil.
 
-1.10. SUPRIMIDO.
+1.10. Hora Fuera de Punta: Corresponde al resto del día no especificado en los períodos de Hora Punta Mañana, Punta Tarde y a los días inhábiles.
 
 1.11.Terminal o Recinto Habilitado Fuera de la Vía Pública: Es el espacio físico que contempla un área de estacionamiento para buses y un área de oficinas y baños para el uso del personal.
 
@@ -138,29 +116,21 @@ e) Los vehículos de la flota deberán cumplir con las normas que establezca por
 
 f) Asientos preferentes. Cada vehículo que integre los servicios, deberá asegurar por lo menos 4 asientos para ser usados en forma preferente por mujeres embarazadas, adultos mayores y discapacitados. Dichos asientos se señalizarán en la forma que para el efecto fije por resolución el Secretario Regional, de acuerdo a lo establecido en el Decreto Supremo N°212/92 del Ministerio de Transportes y Telecomunicaciones.
 
-2.1. Procedimiento de reemplazo. Los vehículos de la flota podrán reemplazarse previa autorización del Secretario Regional, siempre que los vehículos reemplazantes mantengan o mejoren la antigüedad y que tengan al menos 24 asientos y que el promedio de asientos no sea menor al 20% del promedio actual. En todo caso, cuando el reemplazo se realice con vehículos nuevos, éstos deberán cumplir con el decreto supremo Nº 122/1991 y la normativa dictada en conformidad a dicho decreto.
+2.1. Procedimiento de reemplazo. Los vehículos de la flota podrán reemplazarse previa autorización del Secretario Regional, siempre que los vehículos reemplazantes mantengan o mejoren la antigüedad y número promedio de asientos de los vehículos que conforman la flota en servicio al momento del reemplazo y que tengan al menos 24 asientos. En todo caso, cuando el reemplazo se realice con vehículos nuevos, éstos deberán cumplir con el Decreto Supremo Nº 122/91 y la normativa dictada en conformidad a dicho decreto.
 
 2.2. Retiro de vehículos de la flota. Se podrán retirar vehículos de la flota sin ser reemplazados, previa autorización del Secretario Regional. En este caso y si correspondiese, el Secretario Regional efectuará los cálculos para definir el nuevo valor de la frecuencia y flota, cuyos resultados se aproximarán siempre al entero superior, en el caso de resultar números no enteros.
 
 2.3. Plazo para ingreso de vehículos reemplazantes. Será de 120 días corridos contados desde la fecha de retiro del vehículo reemplazado, sin perjuicio del cumplimiento de las frecuencias establecidas en el punto 5 del artículo 1º. Transcurrido este plazo, si no se materializa el reemplazo, se reducirá la flota del servicio. Se revisará la flota cada 2 meses reduciendo, si corresponde, el Nº de cupos máximos del servicio.
 
-2.4. Vehículos de Nuevas Tecnologías y sus Características. El Secretario Regional podrá establecer, en el marco de un proyecto piloto, la inclusión adicional a la flota de vehículos de tecnologías de emisiones distintas a las existentes en la actualidad, tales como gas, electricidad, u otro, hasta un máximo de 3 vehículos por flota. El derecho a incluir Vehículos de Nuevas Tecnologías se podrá transferir entre servicios de un mismo responsable. Dada su condición de proyecto piloto, estos vehículos no serán considerados para el cálculo de reajustabilidad de la tarifa.
+2.4. Vehículos de Nuevas Tecnologías. El SecretarioRegional podrá establecer, en el marco de un proyecto piloto, la inclusión adicional a la flota de vehículos de tecnologías de emisiones distintas a las existentes en la actualidad, tales como gas, electricidad, u otro, hasta un máximo de 3 vehículos por flota. El derecho a incluir Vehículos de Nuevas Tecnologías se podrá transferir entre servicios de un mismo responsable. Dada su condición de proyecto piloto, estos vehículos no serán considerados para el cálculo de reajustabilidad de la tarifa.
 
 2.5. Intercambio o traspaso de vehículos desde un servicio a otro. Se permitirá para los interesados que tengan más de un servicio inscrito bajo el mismo responsable y hagan uso de un mismo terminal o tengan puntos de origen y/o destinos similares.
 
 El responsable del servicio que se encontrare en dicha situación, deberá comunicar por escrito al Secretario Regional, con tres días de anticipación, el ejercicio de este derecho, asegurando siempre una cantidad de vehículos suficiente por cada servicio, para cumplir con la frecuencia correspondiente.
 
-2.6. Imagen y presentación de los vehículos: Los buses que integren las flotas deberán reunir los requisitos de presentación interior y exterior, de pintura, de diseño, de información al usuario y plazos que para el efecto fije por resolución el Secretario Regional Ministerial.
-
-2.7 Sistema de información de flota: Los vehículos que integren las flotas de buses o que se integren a ellas, deberán estar equipados con un conjunto de elementos tecnológicos, en adelante Sistema de Información y Gestión de Flota (SIGF), el que deberá incluir un sistema de posicionamiento global (GPS), orientado a capturar, procesar, registrar y transmitir la información relacionada con la operación de la flota a un servidor de datos central, al cual tendrá acceso, el Ministerio o la Secretaría Regional respecto los datos almacenados de la operación de los servicios. Los antecedentes que de éstos se obtengan, contribuirán al control, planificación, orientación de la actividad de fiscalización y la mejora continua del servicio de transporte público, resguardando la seguridad e integridad de dicha información.
-
-2.8 Los vehículos pertenecientes a las flotas de los servicios deberán portar una cámara de video destinada al registro de eventuales agresiones que pudieran afectar a los conductores. Las filmaciones deberán mantenerse archivadas por el responsable del servicio por el plazo de al menos 30 días corridos, y las que deberán poder ser remitidas, en un medio de almacenamiento magnético o informático correspondiente a un disco compacto o dvd u otro, para el evento que sean requeridas por la Secretaría Regional.
-
-2.9 Flota: La flota deberá estar conformada, como mínimo, por el número de vehículos de la Flota Teórica y, como máximo, por el número de vehículos de la Flota Máxima, según lo señalado para cada servicio en el anexo 1 de la presente resolución.
-
 3. Programas de Operación (PO).
 
-Los servicios podrán presentar, a partir de los 30 días de operación, ante el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, en adelante "el Secretario Regional", una propuesta de Programa de Operación (PO) en papel y en medio magnético, para eventuales modificaciones de frecuencias, velocidades de operación, flota, horarios, terminales y/o trazados, de conformidad al formato que se adjunta en el Anexo 4 de la presente Resolución. Su aprobación estará condicionada al cumplimiento de algunos de los siguientes criterios:
+Los servicios podrán presentar, a partir de los 30 días de operación y cada treinta días, ante el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, en adelante "el Secretario Regional", una propuesta de Programa de Operación (PO) en papel y en medio magnético, para eventuales modificaciones de frecuencias, flota, horarios, terminales y/o trazados, de conformidad al formato que se adjunta en el Anexo 4 de la presente Resolución. Su aprobación estará condicionada al cumplimiento de al menos los siguientes criterios:
 
 3.1. Se admitirá la modificación de los servicios corrientes a servicios de integración, siempre que se acredite la previa suscripción de un contrato entre el solicitante y la Empresa de Ferrocarriles del Estado, a través de su filial Fesub S.A. Esta solicitud de modificación deberá implicar una disminución de la distancia de su recorrido.
 
@@ -168,7 +138,7 @@ Los servicios podrán presentar, a partir de los 30 días de operación, ante el
 
 3.3. La solicitud de modificación no podrá implicar dejar de prestar servicios en sectores o comunas que no cuenten con una adecuada cobertura.
 
-3.4. Se faculta a los responsables para solicitar una modificación de su servicio que contemple cambio de la frecuencia, aumento o retiro de vehículos a la flota autorizada y/o de la distancia recorrida, en caso de comenzar a habitarse nuevos conjuntos habitacionales, creación de centros atractores de viajes, modificación de la infraestructura vial, u otras que impliquen mejoras en la calidad del servicio.
+3.4. Se faculta a los responsables para solicitar una modificación de su servicio, que contemple el aumento de la flota y la distancia recorrida, en caso de comenzar a habitarse nuevos conjuntos habitacionales.
 
 3.5. Otros aspectos que el Secretario Regional establezca por resolución.
 
@@ -180,21 +150,21 @@ Los servicios podrán presentar, a partir de los 30 días de operación, ante el
 
 Sin perjuicio de lo anterior, el Secretario Regional mediante resolución y por razones justificadas, podrá efectuar modificaciones al trazado (recorrido) de los servicios, desde la implementación de los mismos.
 
-4.3 Las empresas responsables de los servicios que soliciten modificaciones de recorridos que impliquen un aumento del mismo, superior al 50% del trazado original, podrán solicitar fundadamente también un reajuste de la tarifa a cobrar sólo para aquellos pasajeros que se dirijan al nuevo destino y viceversa.
-
 5. Frecuencias
 
-5.1. Los servicios estarán obligados a cumplir una frecuencia dentro de los períodos y días establecidos en el Anexo 1. Los responsables de cada servicio podrán solicitar, en el marco del programa de operación, ajustes de las frecuencias establecidas. En todo caso, los servicios no podrán suspenderse dentro del horario establecido en el numeral 8 de la presente resolución, salvo autorización expresa del Secretario Regional, la cual deberá ser otorgada mediante resolución fundada.
+5.1. Frecuencia en Hora Punta: Los servicios estarán obligados a cumplir con la frecuencia máxima establecida en el Anexo 1 de la presente Resolución y que corresponde a la de los períodos denominados Hora Punta Mañana y Hora Punta Tarde.
 
-5.2. SUPRIMIDO.
+5.2. Frecuencia en Hora Fuera de Punta: La frecuencia de los servicios en Hora Fuera de Punta, será la establecida en el Anexo 1 de la presente Resolución.
 
-5.3. SUPRIMIDO.
+5.3. No obstante lo anterior, transcurridos 30 días de operación de los servicios, en el Programa de Operación, los responsables de cada servicio deberán informar al Secretario Regional la frecuencia en Hora Fuera Punta con que desean que opere el respectivo servicio en dicho horario, el cual no podrá exceder el 70% ni ser inferior al 40% de la frecuencia máxima, correspondiente a la de los períodos Hora Punta, por lo que deberá encontrarse dentro del rango antes mencionado.
 
-5.4. La frecuencia para el período comprendido por los meses de enero y febrero de cada año, podrá reducirse en el período P2 hasta un valor equivalente al 40% de la establecida para cada servicio en el Anexo 1 de la presente resolución.
+El responsable del servicio podrá solicitar posteriormente, en el marco del Programa de Operación, nuevos ajustes de frecuencias, de acuerdo a las exigencias anteriores.
+
+En todo caso, los servicios no podrán suspenderse dentro del horario establecido en el numeral 8 de la presente Resolución, salvo autorización expresa del Secretario Regional, la cual deberá ser otorgada mediante resolución fundada.
+
+5.4. Frecuencia en temporada de verano: La frecuencia para el período comprendido por los meses de enero y febrero de cada año, podrá reducirse en hora punta hasta un valor equivalente al 40% de la máxima establecida para cada servicio en el Anexo 1 de la presente Resolución.
 
 5.5. Transferencia de frecuencias: Se podrán transferir frecuencias entre servicios de un mismo responsable, previa autorización del Secretario Regional, quien podrá aceptar o rechazar dichas solicitudes teniendo en consideración la oferta y demanda existente en el área de influencia de los servicios involucrados a la fecha de la solicitud.
-
-5.6 La detención excesiva, recurrente e innecesaria de los vehículos de un servicio, en lugares o sectores determinados por la Secretaría Regional Ministerial y previamente comunicados a los servicios, será sancionada con amonestación por escrito y con el correspondiente cobro de garantías según lo establecido en el DS Nº212/92 del Ministerio de Transportes y Telecomunicaciones. Siempre se considerará que una detención es excesiva cuando supere los tres minutos.
 
 6. Tipos de servicio
 
@@ -226,99 +196,13 @@ Restringida.
 
 6.5. Servicios con variante: Los responsables de los servicios podrán solicitar al Secretario Regional Ministerial que autorice la ejecución de una o más variantes. Para estos efectos, el Secretario Regional deberá dictar una resolución que establezca los requisitos, condiciones de operación y procedimientos para aprobar dichas propuestas de variantes.
 
-7 Calidad de los servicios
+7. Flota
 
-7.1 El responsable del servicio deberá adoptar todas
-
-las medidas tendientes a brindar la mayor
-
-seguridad y comodidad a los usuarios durante la
-
-prestación del servicio.
-
-7.2 El responsable del servicio deberá mantener en sus
-
-oficinas un sistema de registro de reclamos y
-
-sugerencias provenientes directamente de los
-
-usuarios, para resolver a plena satisfacción de
-
-estos últimos los requerimientos que se le
-
-formulen en materias de calidad de servicio y
-
-seguridad. Tal sistema de información deberá estar
-
-permanentemente a disposición para su revisión por
-
-la Secretaría Regional.
-
-7.3 El responsable del servicio deberá mantener
-
-activa, durante todo el período en el cual rijan
-
-las presentes condiciones de operación, una
-
-dirección de correo electrónico vigente y
-
-habilitada, a la cual la Secretaría Regional y la
-
-Oficina de Información, Reclamos y Sugerencias
-
-(OIRS) de la Subsecretaría de Transportes, puedan
-
-enviar comunicaciones con las quejas o reclamos
-
-que se reciban de los usuarios. La comunicación
-
-electrónica señalada, deberá ser contestada por el
-
-responsable del servicio dentro de un plazo de
-
-siete días hábiles, contados desde la fecha de
-
-envío del correo electrónico correspondiente. El
-
-responsable del servicio deberá comunicar a la
-
-Secretaría Regional cualquier cambio en su
-
-dirección de correo electrónico, con una
-
-anticipación de a lo menos cinco días hábiles
-
-antes de producirse dicha modificación.
-
-Ante la omisión de dicha información, se enviará
-
-válidamente cualquier comunicación con quejas o
-
-reclamos de los usuarios a la dirección del correo
-
-electrónico que se encuentre registrada en la
-
-Secretaría Regional. Lo anterior es sin perjuicio
-
-de las comunicaciones que se envíen vía Correos de
-
-Chile o empresas particulares de correspondencia
-
-en relación a cargos administrativos, resoluciones
-
-u otras que no digan relación con reclamos o
-
-quejas de OIRS.
-
-7.4 El responsable del servicio podrá disponer de una página web de información hacia los usuarios del servicio. El Secretario Regional dictará una resolución en la que fijará el contenido mínimo de información para dichos sitios web.
-
-El incumplimiento de las obligaciones dispuestas en este numeral y en los puntos 7.2 y 7.3, será sancionado con una amonestación por escrito y con el correspondiente cobro de garantías según lo establecido en el DS Nº 212/92 del Ministerio de Transportes y Telecomunicaciones.
+La flota deberá estar conformada, como mínimo, por el número de vehículos de la Flota Teórica y, como máximo, por el número de vehículos de la Flota Máxima, según lo señalado para cada servicio en el Anexo 1 de la presente Resolución.
 
 8. Horario de prestación de servicios.
 
 Los servicios deberán operar de lunes a domingo, al menos entre las 06:00 y las 00:00 horas, salvo autorización fundada del Secretario Regional, que deberá tener a la vista los requerimientos o solicitudes de la comunidad, para extender o acortar el horario de prestación de un servicio.
-
-8.1 Prestación de Servicios en Horarios Nocturnos: Los responsables de los servicios podrán solicitar la inscripción de servicios nocturnos, de carácter expreso o corriente y conforme a las condiciones de tarifa y frecuencia que ofrezcan y las que se autoricen por el Secretario Regional en resolución fundada al efecto. Dichos servicios podrán operar sólo en el horario que medie entre 0:01 AM y las 5:59 AM de cada día y podrá ser realizado con vehículos que se encuentren inscritos en otros servicios.
 
 9. Terminal o Recinto Habilitado fuera de la Vía
 
@@ -354,11 +238,11 @@ Período Tarifa Estudiante: Porcentaje a
 
 cobrar
 
-Lunes a Domingo 33% de la tarifa adulto vigente a
+Lunes a sábado, de
 
-febrero de cada año.
+06:00 hr. a 24:00 hr. 33%
 
-Exceptúase de lo anterior, las tarifas escolares vigentes hasta el mes de febrero de 2011, las cuales estarán referidas a la tarifa adulto vigente al 31 de marzo de 2010.
+Domingo y festivos 50%
 
 Los valores resultantes de la aplicación de los porcentajes antes señalados se aproximarán al múltiplo de $10 más próximo.
 
@@ -368,7 +252,51 @@ Lo anterior, sin perjuicio que los operadores informen a la Secretaría Regional
 
 Estudiantes de Enseñanza Básica tendrán tarifa liberada, según lo dispuesto en el D.S. Nº20/82 del Ministerio de Transportes y Telecomunicaciones.
 
-10.3.2. Adultos mayores. Se entenderá por tales, a las mujeres mayores de 60 años y hombres mayores de 65 años. El monto de esta tarifa rebajada no podrá exceder al 60% de la tarifa máxima observada al 31 de octubre de cada año, con excepción de los servicios incorporados al Anexo Nº 1 por la resolución exenta 1.165, de 2010, de este Ministerio, las cuales igualmente no podrán exceder del 60% pero de la tarifa máxima observada para dichos servicios en la fecha antes señalada. Los valores resultantes de la aplicación del porcentaje antes señalado se aproximarán al múltiplo de $10 pesos más próximo. Si el valor resultante fuera un número entero cuyo último dígito sea el 5, dicho valor se convertirá al múltiplo de 10 inmediatamente inferior. Para acceder a esta tarifa el beneficiario deberá cumplir con las condiciones y características que se definan para dicho efecto por resolución del Secretario Regional.
+10.3.2. Adultos mayores. Se entenderá por tales,
+
+a las mujeres mayores de 60 años y
+
+hombres mayores de 65 años. El monto de
+
+esta tarifa rebajada no podrá exceder al
+
+50% de la tarifa máxima autorizada,
+
+vigente al 31 de octubre de cada año. Para
+
+acceder a esta tarifa el beneficiario
+
+deberá cumplir con las condiciones y
+
+características que se definan para dicho
+
+efecto por resolución del Secretario
+
+Regional. Los valores resultantes de
+
+la aplicación del porcentaje antes
+
+señalado se aproximarán al múltiplo
+
+de $10 pesos más próximo. Si el valor
+
+resultante fuera un número entero
+
+cuyo último dígito sea el 5, dicho
+
+valor se convertirá al múltiplo de
+
+10 inmediatamente inferior. Para
+
+acceder a esta tarifa el beneficiario
+
+deberá cumplir con las condiciones
+
+y características que se definan
+
+para dicho efecto por resolución
+
+del Secretario Regional.
 
 10.3.3. Podrán incorporarse a beneficios
 
@@ -386,10 +314,6 @@ pases escolares, adulto mayor u otros
 
 grupos de usuarios.
 
-10 bis. Subsidios
-
-De conformidad con lo establecido en el artículo 6º del Decreto Supremo Nº 5 de 2010, que reglamenta a su vez el artículo 3 literal b) de la Ley Nº20.378, se establece que mediante resoluciones del Ministerio de Transportes y Telecomunicaciones podrá contemplarse la actualización del subsidio para mantener el equilibrio de ingresos ante variaciones de demanda, que experimente cada servicio, grupo de servicios o todos los servicios de una zona. Esta actualización podrá aplicarse de conformidad a la metodología señalada en los artículos anteriores del Decreto ya citado y siempre que exista disponibilidad presupuestaria, según la ejecución de los fondos a que se refieren los artículos 12° y 13° del Decreto Supremo Nº 134 de 2010.
-
 11. Garantías
 
 11.1. Obligación de Constituir Garantías: De conformidad con lo establecido en el artículo 4º del Decreto Supremo Nº 212, se establece que, en caso de aceptarse las solicitudes de inscripción, los servicios deberán constituir garantías de correcta y fiel prestación del servicio en forma previa a su autorización de funcionamiento, de conformidad a lo establecido en el artículo 86º bis del citado decreto.
@@ -404,7 +328,9 @@ De conformidad con lo establecido en el artículo 6º del Decreto Supremo Nº 5 
 
 Dichas garantías deberán ser renovadas o reemplazadas 30 (treinta) días antes de la fecha de su vencimiento, por otras cuyo monto y vigencia, deberá ajustarse a lo establecido en los numerales 11.2 y 11.4, respectivamente, de la presente Resolución.
 
-12. ELIMINADO.
+12. Vigencia de la Inscripción
+
+La inscripción tendrá una vigencia de 90 días a partir de la fecha de inicio de operación del servicio respectivo, o hasta la puesta en marcha del próximo proceso de licitación de vías para el Gran Concepción, cualesquiera de ellos ocurra primero.
 
 13. Restricción vehicular.
 
@@ -448,9 +374,7 @@ El costo de estas capacitaciones no podrá superar el valor de cuatro Unidades d
 
 15. Sanciones
 
-De acuerdo a lo establecido en el Decreto Supremo Nº 212/92, cualquier incumplimiento de lo establecido en la presente Resolución, dará lugar a la aplicación de las sanciones contempladas en dicho reglamento, sin perjuicio del cobro de garantías establecido en el artículo 94º bis C del referido cuerpo reglamentario, salvo las expresamente contenidas en esta resolución.
-
-Para efectos de lo dispuesto en el párrafo anterior, y en relación a lo señalado en el artículo 92, literal c), del decreto supremo Nº 212/92, se entenderá que hay abandono de servicios sin causa justificada en las presentes condiciones de operación, cuando se constatare un cumplimiento de frecuencias igual o menor a 20%, en tres días, verificado en un lapso de 15 días durante el período 2, según medición que deberá realizarse a no más de 500 metros del terminal inscrito para el servicio o recinto habilitado, y cuando se constataren al menos 2 mediciones con cumplimiento de frecuencias menor o igual al 30% en el período 2 o período 4, verificado en un lapso de 15 días, según medición que deberá realizarse a no más de 500 metros del terminal inscrito para el servicio o recinto habilitado.
+De acuerdo a lo establecido en el Decreto Supremo Nº 212/92, cualquier incumplimiento de lo establecido en la presente Resolución, dará lugar a la aplicación de las sanciones contempladas en dicho reglamento, sin perjuicio del cobro de garantías establecido en el artículo 94º bis C del referido cuerpo reglamentario.
 
 16. Supletoriedad del Decreto Supremo Nº 212/92
 
@@ -467,12 +391,6 @@ En todo caso, la autorización de funcionamiento de cada servicio deberá contar
 La solicitud deberá, además de cumplir con los requisitos establecidos en el artículo 3 inciso segundo de la presente Resolución, especificar el trazado, frecuencia, flota teórica y máxima del servicio que se solicita, parámetros que podrán ser modificados por el Secretario Regional por razones técnicas, lo que deberá ser comunicado al interesado dentro de los 6 días hábiles siguientes a su presentación. Si el solicitante no estuviere de acuerdo con dicha modificación podrá desistirse de su presentación, lo que no será impedimento para renovarla con posterioridad en los mismos términos.
 
 Verificado el cumplimiento de los requisitos legales y reglamentarios y, habiéndose aceptado los parámetros del servicio solicitado, el Secretario Regional, previa constitución de las garantías respectivas, dictará la resolución que fije la fecha de operación del mismo, en la cual se establecerán, además, las condiciones específicas de operación y de utilización de vías que sean necesarias para la correcta operación del servicio, tales como, presentación exterior diferenciada, tipos de paraderos o lugares habilitados fuera de la vía pública a utilizar, u otras condiciones similares.
-
-> **Nota.** NOTA 1 El Artículo 1° transitorio de la Resolución 3156 Exenta, Transportes, publicada el 09.11.2011, dispone que las condiciones establecidas en el punto 2.8 de la presente norma, incorporado por el artículo 3º letra c) de la denominada resolución, entrarán en vigencia 12 meses después de la publicación de la citada resolución.
-
-> **Nota.** NOTA 2 El Artículo 2° transitorio de la Resolución 3156 Exenta, Transportes, publicada el 09.11.2011, dispone que las condiciones establecidas en el punto 7 de la presente resolución, incorporado por el artículo 3º letra e) de la denominada resolución, entrarán en vigencia 60 días después de la publicación de la citada resolución.
-
-> **Nota.** NOTA 3 El Artículo 3º transitorio de la Resolución 3156 Exenta, Transportes, publicada el 09.11.2011, dispone que las empresas responsables de servicios que hayan realizado modificaciones de recorridos durante el año 2010 y en lo que va del presente año, y que hayan implicado un aumento en su recorrido igual al estipulado en el punto 4.3 de la presente norma, incorporado por el artículo 3º letra f) de la denominada resolución, podrán solicitar fundadamente un reajuste de la tarifa sólo en los términos señalado en este punto 4.3, dentro del plazo de 30 días desde la publicación de la citada resolución.
 
 #### Artículo 2º
 
