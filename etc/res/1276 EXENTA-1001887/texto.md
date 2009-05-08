@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.276, de 9 de abril de 2009, de esta Subsecretaría, modífíquese en numeral 3.- de la resolución exenta Nº 466 de 2009, de esta Subsecretaría de Pesca, que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN EN CIENCIAS DEL MAR, MARES CHILE LIMITADA, para efectuar una pesca de investigación de conforme Términos Técnicos de Referencia, Proyecto "Control de acceso y desembarque de las pesquerías del recurso Centollón (Paralomis granulosa) en aguas interiores de la XII Región", en el sentido de extender el periodo de ejecución de la pesca de investigación hasta el 31 de mayo de 2009.
+
+Valparaíso, 9 de abril de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
