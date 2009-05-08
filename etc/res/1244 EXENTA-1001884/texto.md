@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.244, de 3 de abril de 2009, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 439 de 2009, de esta Subsecretaría, que autorizó al CENTRO DE INVESTIGACIÓN, DESARROLLO Y CAPACITACIÓN EN CIENCIAS DEL MAR, MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de congrio colorado y raya en la Región de Magallanes y Antártica Chilena, 2009", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 31 de mayo de 2009, inclusive.
+
+Valparaíso, 3 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
