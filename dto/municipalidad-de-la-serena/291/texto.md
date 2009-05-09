@@ -596,53 +596,43 @@ Existirá en la comuna de La Serena el Consejo Comunal de la Infancia el que est
 
 #### Artículo 82
 
-Serán miembros del Consejo Comunal de la Infancia: I. Cinco integrantes designados por las instituciones respectivas por derecho propio.
+El Consejo Comunal de la Infancia se integrará por 11 miembros como mínimo. Podrán postular a ser miembros del citado Consejo los representantes que se señalan a continuación, de acuerdo a los siguientes cupos:
 
-a) Un Concejal de la comuna, elegido por el Concejo Comunal.
+a) Un Concejal de la comuna, elegido por el Concejo Municipal.
 
 b) Un representante del Servicio Nacional de Menores.
 
-c) Un representante de la Junta de Jardines Infantiles.
+c) Un representante de la Junta Nacional de Jardines Infantiles.
 
 d) Un representante de la Secretaría Ministerial de Educación.
 
-e) Un representante de la Dirección Regional de Salud.
+e) Un representante de la Secretaría Ministerial de Salud.
 
-II. 15 Integrantes elegidos en asambleas separadas por estamentos de acuerdo a la distribución que se señala a continuación; previa citación del Secretario Municipal a las organizaciones inscritas en el Registro Público abierto para estos efectos.
+f) Dos representantes de Juntas de Vecinos.
 
-a) Dos representantes de Juntas de Vecinos.
+g) Dos representantes de Organizaciones Comunitarias Funcionales.
 
-b) Dos representantes de Organizaciones Comunitarias Funcionales.
+h) Un representante de Organizaciones No Gubernamentales relacionadas con la salud de la infancia.
 
-c) Dos representantes de Organizaciones No Gubernamentales relacionadas con la salud de la Infancia.
+i) Cuatro representantes de Organizaciones No Gubernamentales relacionadas con la protección de derechos de los niños y niñas.
 
-d) Dos representantes de Organizaciones No Gubernamentales relacionadas con la protección de los derechos de los niños y niñas.
+j) Tres representantes de la Educación Superior, Universidades o Institutos Profesionales.
 
-e) Dos representantes de la Educación Superior, Universidades o Institutos Profesionales.
+k) Un representante de Colegios Municipales, Subvencionados o Particulares de Enseñanza Básica.
 
-f) Un representante de Colegios Municipales de Enseñanza Básica.
+l) Un representante de Colegios Municipales, Subvencionados o Particulares de Enseñanza Media.
 
-g) Un representante de Colegios Municipales de Enseñanza Media.
-
-h) Un representante de Colegios Subvencionados o Particulares de Enseñanza Básica.
-
-i) Un representante de Colegios Subvencionados o Particulares de Enseñanza Media.
-
-j) Un representante de la Empresa Privada.
+m) Un representante de la Empresa Privada.
 
 #### Artículo 83
 
-Los Consejeros serán elegidos en Asambleas separadas por Institución, previa citación por escrito del Secretario Municipal a aquellas organizaciones que se hubieran inscrito en el Registro Público a su cargo.
-
-El Alcalde dispondrá por decreto alcaldicio la fecha a contar de la cual el Secretario Municipal deberá abrir y cerrar el Registro Público.
-
-Al momento de formalizar la inscripción, la entidad respectiva deberá acompañar los siguientes documentos:
+El Alcalde dispondrá, por decreto alcaldicio, la fecha a contar de la cual el Secretario Municipal abrirá y cerrará un Registro Público, oportunidad en la cual los interesados en formar parte del Consejo Comunal de la Infancia deberán llenar una solicitud en tal sentido, acompañando los siguientes documentos:
 
 a) Personalidad Jurídica vigente y sus estatutos.
 
 b) Domicilio en la comuna de La Serena.
 
-Cerrado el respectivo Registro Público, el Secretario Municipal procederá a convocar por escrito y con la debida anticipación, a las entidades inscritas a una Asamblea por Institución, con la finalidad de que elijan a sus representantes ante el Consejo. La elección se realizará mediante votación directa y secreta, levantándose un Acta de todo lo obrado, resultando electo aquel miembro por estamento que obtenga la primera mayoría, quedando elegido como Consejero Suplente aquel que hubiera obtenido la mayoría inmediatamente siguiente al titular.
+Si, una vez abierto el Registro Público para la inscripción de los miembros, no se inscribiere el mínimo de los miembros, se podrá disponer una nueva apertura del Registro, y así sucesivamente, hasta obtener la inscripción del mínimo de miembros exigidos en el artículo 82, respetándose las inscripciones anteriores, debiendo actualizar los antecedentes si así se solicitare por parte de la Secretaria Municipal.
 
 #### Artículo 84
 
