@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.372, de 20 de abril de 2009, de esta Subsecretaría, autorízase a GRANERO SOCIEDAD ANÓNIMA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en José María Caro s/n, Puerto Chacabuco, Puerto Aysén, XI Región, para elaborar en líneas de proceso Harina y Aceite, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
