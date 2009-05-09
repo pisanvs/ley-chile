@@ -1,0 +1,3 @@
+Por resolución Nº 1.596, de 30 de abril de 2009, de esta Subsecretaría, declárase que con fecha 30 de marzo de 2009 ha quedado sin efecto la resolución exenta Nº 2.542 de 2001, de esta Subsecretaría, que autorizó a AGUA FRÍA S.A. para desarrollar actividades extractivas con la nave "Dubrovnik II", matrícula 1749 del Puerto de Coquimbo, en virtud de lo dispuesto en el artículo 9º de la Ley Nº 19.713 y en la escritura pública citada en Visto de la resolución extractada.
+
+Valparaíso, 30 de abril de 2009.- María Ángela Barbieri Bellolio, Subsecretario de Pesca.
