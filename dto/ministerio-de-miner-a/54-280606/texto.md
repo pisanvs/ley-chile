@@ -58,8 +58,6 @@ La concesionaria realizará las siguientes actividades e inversiones: Recolecci�
 
 El plazo máximo de duración de la concesión será de dos años. Para el caso que la concesionaria optare por una prórroga de la misma, haciendo uso del derecho establecido en el artículo 36 de la Ley N°19.657, la concesionaria deberá acreditar a lo menos un avance no inferior al veinticinco por ciento de las actividades e inversiones proyectadas durante el plazo de la exploración, explicitadas en el artículo tercero del presente decreto.
 
-> **Nota.** El artículo primero del decreto 23, Minería, publicado el 25.02.2011, modifica la presente norma, en el sentido de prorrogar por un período de dos años la concesión de exploración de energía geotérmica denominada "Tinguiririca B", de Energía Andina S.A.
-
 #### Artículo quinto
 
 El concesionario de exploración deberá informar al Ministerio de Minería, en el curso del mes de marzo de cada año, sobre la realización de las actividades de exploración y labores comprometidas, haciendo entrega de los datos obtenidos.
