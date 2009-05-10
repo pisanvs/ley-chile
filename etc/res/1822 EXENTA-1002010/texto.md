@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN N° 1.822 EXENTA, DE 20.04.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Primer Cuatrimestre de 2008 se ha asignado a la Agrupación Social y Cultural Hijos y Amigos de Chincolco, RUT N° 65.676.570-4, una concesión de Radiodifusión Sonora en Mínima Cobertura para la Comuna de Petorca, V Región, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 91,7 MHz; estudio principal ubicado en Avda. Pedro Montt N° 1282, Chincolco, comuna de Petorca, V Región; coordenadas geográficas 32° 13' 19" Latitud Sur, 70° 48' 45" Longitud Oeste (Datum PSAD 1956);estudio, planta transmisora y sistema radiante ubicado en Cerro Alto del Puerto s/n, Sector El Valle de Los Olmos, Chincolco, Comuna de Petorca, V Región; coordenadas geográficas 32° 13' 25" Latitud Sur, 70° 49' 35" Longitud Oeste (Dátum PSAD 1956); sistema radiante direccional con polarización vertical, una (1) antena dipolo de 1,3 dBd de ganancia máxima y altura del centro de radiación de 6 m; pérdidas en cables y conectores de 1,3 dB; Pérdidas por lóbulo, de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 09.05.2009, PÁGINA 17.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3° de la Ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución.
+
+Los plazos son: inicio de obras, 10 días; término de obras, 30 días; inicio de servicio, 60 días, computados a partir de la fecha de publicación en el Diario Oficial del Decreto que otorgue la concesión.
+
+Esta publicación se hace según lo dispuesto en los artículos 13°A y 13°B de la ley N° 18.168, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta que se extracta, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
