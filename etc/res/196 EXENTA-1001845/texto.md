@@ -196,7 +196,7 @@ Durante el transcurso del juego, al final de cada pase, el Botón de Salida se t
 
 Ronda de apuestas Pocket o Pre-Flop
 
-Después de realizar las apuestas ciegas (Small Blind y Big Blind), el croupier quema la primera carta del mazo, dejándola en el centro de la mesa donde se ubica el pozo y distribuye dos cartas cubiertas a cada jugador, en dos rondas, comenzando con el jugador que realizó la "Apuesta Ciega Menor" (Small Blind) y finalizando con el jugador marcado con el Botón de Salida. Estas cartas se denominan pocket cards o hole cards, y son las únicas cartas que cada jugador recibe privativa e individualmente, y eventualmente sólo serán descubiertas al mostrar las cartas al final de la mano.
+Después de realizar las apuestas ciegas (Small Blind y Big Blind), el croupier distribuye dos cartas cubiertas a cada jugador, en dos rondas, comenzando con el jugador que realizó la "Apuesta Ciega Menor" (Small Blind) y finalizando con el jugador marcado con el Botón de Salida. Estas cartas se denominan pocket cards o hole cards, y son las únicas cartas que cada jugador recibe privativa e individualmente, y eventualmente sólo serán descubiertas al mostrar las cartas al final de la mano.
 
 En la ronda Pocket, iniciará las apuestas el jugador que esté a la izquierda de quien realiza la "Apuesta Ciega Mayor" (Big Blind), el cual tiene las opciones ir (Call), subir (Raise) o retirarse (Fold), y para la variante Texas Hold'em Poker sin límites, además, jugar su resto de fichas (All In). Tal como se señaló anteriormente, en esta ronda de apuestas no está permitida la jugada Check o pasar. El último en actuar será el jugador que iguale y cuya ubicación sea inmediatamente anterior al jugador que realizó la última subida, resubida o All In.
 
@@ -216,7 +216,7 @@ En este punto, el croupier debe llevar las apuestas al centro de la mesa en el o
 
 Ronda de apuestas Flop
 
-El Croupier quemará una segunda carta cubierta sin dejar ver su número y figura colocando ésta protegida debajo del Pozo, luego el croupier descubrirá las siguientes tres cartas colocándolas paralelas, de una a la vez, a la carta anteriormente quemada formando una línea horizontal, este pozo de tres cartas comunitarias iniciales se denominan "Flop".
+El Croupier quemará una carta cubierta sin dejar ver su número y figura colocando ésta protegida debajo del Pozo, luego el croupier descubrirá las siguientes tres cartas colocándolas paralelas, de una a la vez, a la carta anteriormente quemada formando una línea horizontal, este pozo de tres cartas comunitarias iniciales se denominan "Flop".
 
 A contar de esta segunda ronda de apuestas, los jugadores tendrán las opciones de pasar (Check), retirarse (Fold), igualar (Call), subir (Raise), o resubir (Reraise) y resto (All In), sólo en los casos que corresponda según se indicó anteriormente, para la variante "con límites" según los mínimos y máximos señalados en el epígrafe "Apuestas", y para la variante "sin límites" podrán además jugar su resto (All In), cuando así lo decidan. Así, el primer jugador activo hacia la izquierda del botón inicia las apuestas, dentro de los mínimos y máximos establecidos para esta segunda ronda, dando la vuelta hasta el último jugador activo a la derecha del Botón de Salida. Si dicho jugador decide subir (Raise) o resubir (Reraise), en caso de que se haya subido anteriormente, se continuará el pase hasta que se jueguen las tres (3) resubidas permitidas para la modalidad "con límites", o bien hasta que ningún jugador quiera subir la apuesta anterior, para el caso de la modalidad "sin límites". El último en actuar será el jugador que iguale y cuya ubicación sea inmediatamente anterior al jugador que realizó la última subida, resubida o All In.
 
@@ -226,7 +226,7 @@ El croupier debe llevar las apuestas al centro de la mesa, agrupándolas junto a
 
 Ronda de apuestas Turn
 
-Llegado a este punto el croupier procede a quemar la próxima carta cubierta del mazo -tercera carta quemada- sin dejar ver su número y figura, colocando esta carta protegida debajo del Pozo, acto seguido, el croupier descubre la próxima carta del mazo colocándola paralela al "Flop", esta cuarta carta del pozo comunitario se denomina "Forth Street" o "Turn". Así se inicia la tercera ronda de apuestas dentro de los mínimos y máximos establecidos para ella, posibilidades de subidas y resubidas, y de apuestas según se señaló anteriormente.
+Llegado a este punto el croupier procede a quemar la próxima carta cubierta del mazo sin dejar ver su número y figura, colocando esta carta protegida debajo del Pozo, acto seguido, el croupier descubre la próxima carta del mazo colocándola paralela al "Flop", esta cuarta carta del pozo comunitario se denomina "Forth Street" o "Turn". Así se inicia la tercera ronda de apuestas dentro de los mínimos y máximos establecidos para ella, posibilidades de subidas y resubidas, y de apuestas según se señaló anteriormente.
 
 Al finalizar, los jugadores que pasaron (check) o mandaron (call) tienen que igualar la diferencia entre su apuesta y la apuesta más alta para continuar en el juego, pudiendo cualquiera de ellos retirarse (fold). En caso de que un jugador no pueda igualar la apuesta más alta, deberá jugar el saldo de su dinero, o retirarse. De esta forma, el último jugador en actuar será quien se ubique inmediatamente anterior al jugador que realizó la última subida, resubida o All In.
 
@@ -234,7 +234,7 @@ El croupier procede a trasladar todas las apuestas realizadas al centro de la me
 
 Ronda de apuestas River
 
-El croupier quemará una cuarta carta según el procedimiento ya indicado y descubrirá la quinta carta del pozo comunitario, denominada "Fifth Street" o "River", colocándola paralela al "Flop". De esta manera, se comienza la última ronda del juego dando inicio a la tanda de apuestas con el primer jugador activo a la izquierda del Botón de Salida. Esta cuarta ronda de apuestas también se desarrollará dentro de los mínimos y máximos establecidos para ella, posibilidades de subidas y resubidas, y de apuestas según se señaló anteriormente.
+El croupier quemará una carta según el procedimiento ya indicado y descubrirá la quinta carta del pozo comunitario, denominada "Fifth Street" o "River", colocándola paralela al "Flop". De esta manera, se comienza la última ronda del juego dando inicio a la tanda de apuestas con el primer jugador activo a la izquierda del Botón de Salida. Esta cuarta ronda de apuestas también se desarrollará dentro de los mínimos y máximos establecidos para ella, posibilidades de subidas y resubidas, y de apuestas según se señaló anteriormente.
 
 Una vez finalizada la última resubida o "pagar por ver" o "show down", el croupier indicará al jugador que le pagaron por ver que descubra su juego. En caso que ningún jugador haya pagado por ver o que todos hayan pasado, ganará la mejor mano a la vista, quien se llevará el dinero del pozo. Si dos o más jugadores continúan después de la última ronda de apuestas, se muestran las cartas. En la muestra cada jugador utiliza las cinco mejores cartas posibles de entre las siete que forman sus dos cartas privadas (pocket cards) y las cinco cartas comunitarias. Si dos jugadores o más comparten la mejor mano, entonces el Pozo o Bote se divide por igual entre los jugadores.
 
@@ -365,6 +365,20 @@ d) En la décimo tercera viñeta, sustitúyase la palabra "Fall" por "Fold".
 * Para las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, donde existe un pozo común, se prohíbe el uso de dispositivos de comunicación en la mesa, tales como, teléfonos y/o radios.
 
 * Para las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, no se puede realizar una compra o caja inicial (Buy in) para cubrir una apuesta en curso, sino que sólo se podrá hacer antes de iniciarse un nuevo pase.
+
+12. En el numeral 3.7 bajo el subtítulo "Jugadas Irregulares":
+
+a) En la novena viñeta, reemplázase la oración "si al repartir las cartas se viera más de una carta de algún jugador", por la siguiente "si al repartir las cartas se viera alguna carta de un jugador".
+
+b) Agréganse las siguientes nuevas 4 viñetas finales:
+
+o "En las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, si a un jugador se le caen sus cartas, el pase continúa en forma normal.
+
+o En las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, si un jugador expone sus cartas, el jefe de mesa le advertirá que si ocurre otra vez perderá esa mano, dejando todas sus apuestas ya efectuadas en el pozo.
+
+o En las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, si el Botón de Salida está fuera de posición, siempre y cuando se descubra antes que se haya realizado la "Apuesta Ciega Mayor", se anula este juego.
+
+o En las modalidades de Stud Poker, Texas Hold'em Poker, Seven Stud Poker y Omaha Poker, el jefe de mesa podrá solicitar que abandonen el área de juego a los espectadores que llamen la atención o comenten sobre el progreso del juego.
 
 10.- Que en mérito de lo expuesto en los considerandos precedentes,
 
