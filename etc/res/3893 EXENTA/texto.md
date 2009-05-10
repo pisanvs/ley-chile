@@ -18,7 +18,7 @@ Nº Taller o Ubicación Nº de Fecha de
 
 Entidad resolución resolución
 
-1 Kutz & Rodríguez Av. Carrascal 3878 16 de
+1 Kutz y Rodríguez Av. Carrascal 3878 16 de
 
 Diesel Nº 6450, septiembre
 
@@ -64,13 +64,11 @@ Basulto Nº 3539, septiembre
 
 Estación Central de 2005
 
-8 Fábrica Gaspar de 3885 16 de
+8 Servicios Gaspar de 652 8 de abril
 
-Metropolitana Orense septiembre
+Cordillera S.A. Orense Nº 648, de 2009
 
-de Carrocerías Nº 648, Quinta de 2005
-
-Limitada Normal
+Quinta Normal
 
 9 Leonel Soriano Av. Diego 3886 16 de
 
