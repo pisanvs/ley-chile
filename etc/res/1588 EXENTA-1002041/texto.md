@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.588, de 29 de abril de 2009, de esta Subsecretaría, modifíquese resolución Nº 1.228, de 2009, de esta Subsecretaría, que autorizó a UNIVERSIDAD ANDRÉS BELLO para efectuar una pesca de investigación, T.T.R. Proyecto "Determinación de interacciones interespecíficas entre el Visón Americano (Mustela vison) y el Huillín (Lontra provocax) en ambientes marinos de la XI Región, Chile", en el sentido de extender su período de vigencia hasta el 30 de abril de 2010.
+
+Valparaíso, 29 de abril de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
