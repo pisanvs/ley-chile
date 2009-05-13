@@ -150,9 +150,9 @@ C. Escalafón de Intendencia.
 
 Los escalafones de Material de Guerra e Intendencia comprenderán los grados jerárquicos de Alférez a General de Brigada.
 
-D. Escalafón del Servicio de Personal.
+D. Escalafón del Servicio Femenino Militar.
 
-Este escalafón comprenderá los grados jerárquicos de Alférez a General de Brigada.
+Este escalafón comprenderá los grados jerárquicos de Alférez a Coronel.
 
 ### II. OFICIALES DE LOS SERVICIOS:
 
@@ -350,7 +350,7 @@ K. Escalafón de Servicios Generales.
 
 Este escalafón comprenderá los grados jerárquicos de Cabo a Suboficial.
 
-L. Escalafón del Servicio de Personal.
+L. Escalafón del Servicio Femenino Militar.
 
 Este escalafón comprenderá los grados jerárquicos de Cabo a Suboficial Mayor.
 
@@ -802,7 +802,7 @@ Intendencia:
 
 - Coronel 5 años
 
-3. Escalafón del Servicio de Personal:
+3. Escalafón del Servicio Femenino Militar:
 
 - Alférez 1 año
 
@@ -815,8 +815,6 @@ Intendencia:
 - Mayor 5 años
 
 - Teniente Coronel 5 años
-
-- Coronel 5 años
 
 B. OFICIALES DE LOS SERVICIOS:
 
@@ -1818,8 +1816,6 @@ Normas generales
 
 El personal estará sujeto a los deberes y restricciones inherentes a la profesión militar contenidos en la Ley Nº 18.948, Orgánica Constitucional de las Fuerzas Armadas, en el presente Estatuto, en el Código de Justicia Militar, en el Reglamento de Disciplina respectivo y en la Ordenanza de la Armada, según corresponda. Igualmente, el personal estará sujeto a las obligaciones y prohibiciones establecidas para los empleados de la Administración Civil del Estado en la Ley Nº 18.834, Estatuto Administrativo, en cuanto fuere procedente.
 
-Con todo, sin perjuicio del deber de denuncia contemplado en los artículos 131 del Código de Justicia Militar y 175 del Código Procesal Penal, todo el personal que integre las instituciones de las Fuerzas Armadas, en cualquier calidad jurídica, tiene el deber y la obligación de denunciar, de conformidad con el artículo 153-A, los hechos o conductas contrarias al principio de probidad administrativa, respecto de los cuales hubiere tomado conocimiento en el desempeño de sus funciones.
-
 #### Artículo 139
 
 La jornada de trabajo de los oficiales y del personal del cuadro permanente y de gente de mar y de tropa profesional, estará determinada por las obligaciones propias del servicio.
@@ -1960,22 +1956,6 @@ El personal que infrinja sus obligaciones y deberes funcionarios incurrirá en r
 
 La sanción administrativa o disciplinaria es independiente de la responsabilidad civil o penal y, en consecuencia, la condena, el sobreseimiento y la sentencia absolutoria no excluyen la acción disciplinaria.
 
-#### Artículo 153
-
-A.- Se consideran hechos o conductas que contravienen el principio de probidad administrativa aquellos a que se refiere el artículo 62 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia.
-
-Las denuncias que se formulen deberán ser fundadas, presentarse a través del medio y la forma establecida por la respectiva institución, y deberán contener:
-
-1. La individualización del denunciante.
-
-2. Una relación circunstanciada de los hechos que se denuncian y la identificación de la o las personas involucradas y de los testigos que pudieren existir.
-
-3. Todo otro antecedente que pudiere servir de fundamento a la denuncia y se estime útil para la investigación.
-
-Las denuncias que se formulen en cumplimiento de la obligación establecida en el artículo 138 del presente Estatuto podrán estar sujetas a reserva de identidad, si así lo solicita el denunciante.
-
-Las denuncias respecto de las cuales constare su falsedad, fueren evidentemente infundadas o tuvieren el ánimo deliberado de perjudicar al denunciado, serán consideradas como constitutivas de falta grave a la disciplina, y el denunciante deberá ser sancionado conforme al reglamento de disciplina correspondiente. Lo anterior se entiende sin perjuicio de las responsabilidades penales que pudieren proceder.
-
 #### Artículo 154
 
 Las medidas disciplinarias aplicables al personal son las que determinen el Código de Justicia Militar, el Reglamento de Disciplina para las Fuerzas Armadas y el Reglamento de Disciplina de la Armada.
@@ -1988,13 +1968,11 @@ Las infracciones en que incurra el personal podrán establecerse, cuando corresp
 
 La responsabilidad administrativa se extingue por la muerte o el retiro del personal, por cumplimiento de la sanción y por la prescripción de la acción disciplinaria.
 
-En el caso del personal que a la fecha de su retiro se encuentre sometido a investigación sumaria administrativa, ésta deberá continuarse hasta su normal término, anotándose en su hoja de vida la sanción que el resultado de ella determine.
+En el caso del personal que a la fecha de su retiro se encuentre sometido a investigación sumaria administrativa, el procedimiento deberá continuarse hastasu normal término, anotándose en su hoja de vida la sanción que el resultado del sumario determine.
 
-La acción disciplinaria contra el personal prescribirá en cuatro años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
+La acción disciplinaria contra el personal prescribirá en dos años contados desde el día en que éste hubiere incurrido en la acción u omisión que le da origen. No obstante, si hubieren hechos constitutivos de delito, la acción disciplinaria prescribirá conjuntamente con la acción penal.
 
-La prescripción de la acción disciplinaria se interrumpe, perdiéndose el tiempo transcurrido, si el personal incurre nuevamente en falta administrativa, y se suspende desde la fecha de la resolución que ordene la instrucción de la investigación sumaria administrativa correspondiente.
-
-Si el proceso administrativo se paraliza por más de dos años, o transcurren dos calificaciones funcionarias sin que haya sido sancionado, continuará corriendo el plazo de prescripción como si no se hubiese suspendido.
+La prescripción de la acción disciplinaria se suspende desde la fecha de la resolución que ordene la instrucción de la investigación sumaria administrativa correspondiente.
 
 ### Párrafo 5º
 
@@ -2068,7 +2046,7 @@ Las remuneraciones se devengarán para el personal de planta desde la fecha de n
 
 #### Artículo 169
 
-Los Comandantes en Jefe de las Fuerzas Armadas fijarán y podrán modificar los montos máximos de descuentos voluntarios en las planillas de pago del personal, en favor de cooperativas, mutuales, entidades aseguradoras y servicios médicos o de bienestar social. Con todo, los descuentos voluntarios no podrán exceder del sesenta por ciento de las remuneraciones totales del personal.
+Los Comandantes en Jefe de las Fuerzas Armadas fijarán y podrán modificar los montos máximos de descuentos voluntarios en las planillas de pago del personal, en favor de cooperativas de consumo o de vivienda, mutuales, entidades aseguradoras y servicios médicos o de bienestar social. Con todo, los descuentos voluntarios no podrán exceder del sesenta por ciento de las remuneraciones totales del personal.
 
 #### Artículo 170
 
@@ -2306,21 +2284,97 @@ El personal afecto a este Estatuto, además del sueldo, tendrá derecho a las si
 
 a) Trienios: El personal afecto a la escala de remuneraciones de las Fuerzas Armadas gozará de trienios calculados sobre el sueldo en posesión con los siguientes porcentajes: ocho por ciento para el primero, cuatro por ciento para el segundo y tercero, tres por ciento para los trienios cuarto al séptimo y dos por ciento para los restantes.
 
-El Personal a Jornal gozará de aumentos trienales con los siguientes porcentajes calculados sobre el sueldo base de que esté en posesión: siete por ciento para el primero al tercero, seis por ciento para el cuarto, cinco por ciento para el quinto al séptimo, cuatro por ciento para el octavo al décimo, tres por ciento para el onceavo al treceavo y dos por ciento para el catorceavo.
+El Personal a Jornal gozará de aumentos trienales, con los siguientes porcentajes calculados sobre el salario base de que esté en posesión: cuarenta por ciento para el primero, veinte por ciento para el segundo y tercero, quince por ciento para el cuarto al séptimo, diez por ciento para el octavo y noveno y cinco por ciento para los restantes.
 
 Para los efectos del cálculo de este beneficio serán válidos los siguientes tiempos, siempre que no correspondan a servicios paralelos o simultáneos:
 
-1) Servicios prestados en el ejercicio activo de un empleo de planta, a contrata, a jornal y en general como trabajador en el Ejército, Armada, Fuerza Aérea, Carabineros, en el Ministerio de Defensa Nacional, en sus Servicios dependientes, y en Famae, Asmar y Enaer indistintamente. En ningún caso podrán computarse servicios a honorarios o ad-honorem.
+1) Servicios prestados en el ejercicio activo
 
-2) Los dos últimos años de estudios de las escuelas matrices de las Fuerzas Armadas, Carabineros, de la Policía de Investigaciones y de las Escuelas de Ingenieros y Pilotines de la Armada, en la Escuela de Suboficiales, de Armas y del Servicio Femenino Militar del Ejército, en las Escuelas de Grumetes y Artesanos y otras en que funcionen cursos de grumetes de la Armada y en la Escuela de Especialidades de la Fuerza Aérea, o el tiempo efectivo que durante ese lapso el alumno permanezca o haya permanecido como estudiante en el respectivo establecimiento.
+de un empleo de planta, a contrata, a jornal
 
-3) La totalidad del tiempo servido como conscripto, grumete o aprendiz en el Ejército, Armada y Fuerza Aérea. Se considerará como tiempo de conscripción, respecto de quienes ingresen a las escuelas institucionales sin haber hecho el servicio militar, el primer año de estudio de dichas escuelas, aprobado con valer militar.
+y en general como trabajador en el Ejército,
 
-Con todo, el tiempo computable en virtud de los números 2) y 3) no podrá exceder de tres años en total.
+Armada, Fuerza Aérea, Carabineros, en el
 
-4) El tiempo servido en la Marina Mercante Nacional será válido para los oficiales de los escalafones del Litoral, y de Prácticos de los Servicios Marítimos y para el personal de la reserva llamado al servicio activo proveniente de estos escalafones.
+Ministerio de Defensa Nacional, en sus
 
-5) Los dos últimos años o cuatro últimos semestres de estudios profesionales de los oficiales pertenecientes los escalafones de servicios profesionales y del servicio religioso.
+Servicios dependientes, y en Famae, Asmar y
+
+Enaer indistintamente. En ningún caso podrán
+
+computarse servicios a honorarios o
+
+ad-honorem.
+
+2) Los dos últimos años de estudios de las
+
+escuelas matrices de las Fuerzas Armadas,
+
+Carabineros, de la Policía de Investigaciones
+
+y de las Escuelas de Ingenieros y Pilotines
+
+de la Armada, en la Escuela de Suboficiales,
+
+de Armas y del Servicio Femenino Militar del
+
+Ejército, en las Escuelas de Grumetes y
+
+Artesanos y otras en que funcionen cursos de
+
+grumetes de la Armada y en la Escuela de
+
+Especialidades de la Fuerza Aérea, o el
+
+tiempo efectivo que durante ese lapso el
+
+alumno permanezca o haya permanecido como
+
+estudiante en el respectivo establecimiento.
+
+3) La totalidad del tiempo servido como
+
+conscripto, grumete o aprendiz en el Ejército,
+
+Armada y Fuerza Aérea. Se considerará como
+
+tiempo de conscripción, respecto de quienes
+
+ingresen a las escuelas institucionales sin
+
+haber hecho el servicio militar, el primer año
+
+de estudio de dichas escuelas, aprobado con
+
+valer militar.
+
+Con todo, el tiempo computable en virtud de
+
+los números 2) y 3) no podrá exceder de tres
+
+años en total.
+
+4) El tiempo servido en la Marina Mercante
+
+Nacional será válido para los oficiales de
+
+los escalafones del Litoral, y de Prácticos
+
+de los Servicios Marítimos y para el personal
+
+de la reserva llamado al servicio activo
+
+proveniente de estos escalafones.
+
+5) Los dos últimos años o cuatro últimos
+
+semestres de estudios profesionales de los
+
+oficiales pertenecientes los escalafones de
+
+servicios profesionales y del servicio
+
+religioso.
 
 Los profesores militares gozarán de estos mismos beneficios trienales, calculados sobre el tiempo efectivo de docencia o año lectivo cuando se trate de nombramientos sucesivos que abarquen una duración mínima de nueve meses.
 
@@ -2612,22 +2666,6 @@ Asignación de Conscripto: El contingente del servicio militar obligatorio recib
 
 La asignación de conscripto no podrá ser objeto de ningún descuento interno por parte de las instituciones de las Fuerzas Armadas.
 
-#### Artículo 191 bis
-
-Asignación de estímulo al servicio militar. El contingente del servicio militar obligatorio recibirá, con independencia de lo dispuesto en el artículo anterior, una asignación de estímulo al servicio militar, la cual ascenderá a los montos que a continuación se indican:
-
-1. Setenta y cinco por ciento del sueldo base del grado 32 de la escala de sueldos de las Fuerzas Armadas, durante los doce primeros meses de conscripción.
-
-2. Setenta y cinco por ciento del sueldo base del grado 31 de la escala de sueldos de las Fuerzas Armadas, desde el décimo tercer mes y hasta el vigésimo cuarto mes de conscripción.
-
-La asignación referida en el inciso anterior no será imponible ni tributable, no se considerará para el cálculo de la asignación de zona o la gratificación de embarcado y de submarino, ni servirá como base de cálculo para el otorgamiento de ningún otro beneficio pecuniario que pudiera corresponder al contingente del servicio militar.
-
-Además, esta asignación no podrá ser objeto de ningún descuento interno por parte de las instituciones de las Fuerzas Armadas.
-
-> **Nota.** El artículo primero transitorio de la ley 21723, publicada el 31.01.2025, dispone que la asignación a que hace referencia el presente artículo entrará en vigor para cada una de las ramas de las Fuerzas Armadas, en la fecha de inicio del respectivo proceso de acuartelamiento, esto es, a contar de las siguientes fechas: 01.04.2025 Fuerza Aérea, 07.04.2025 Ejército y 05.05.2025 Armada.
-
-> **Nota.** NOTA 1 El artículo 2 de la ley 21723, publicada el 31.01.2025, dispone que el incremento de la asignación de estímulo al servicio militar dispuesta por la referida disposición regirá para cada una de las ramas de las Fuerzas Armadas, desde el décimo tercer mes de la entrada en vigencia de este artículo, esto es, a contar de las siguientes fechas: 01.05.2026 Fuerza Aérea, 07.05.2026 Ejército y 05.06.2026 Armada.
-
 #### Artículo 192
 
 Asignación de alumno: Los alumnos que cursen los dos últimos años de estudios de los cursos regulares en las escuelas matrices de oficiales, tendrán una asignación mensual ascendente al setenta y cinco por ciento del sueldo base del grado 17 de la escala de sueldos del personal de las Fuerzas Armadas. A esta misma asignación tendrán derecho los alumnos de los cursos especiales, aunque sean de inferior duración. Estos establecimientos deducirán del monto de esta asignación los descuentos previsionales y el remanente será percibido por las respectivas escuelas para atender los gastos que originen estos alumnos.
@@ -2790,11 +2828,9 @@ Lo dispuesto en el inciso anterior, será igualmente aplicable al personal que r
 
 #### Artículo 201
 
-El personal sólo podrá ser llamado al país mediante orden ministerial y por un plazo no superior a treinta días. Si por razones de servicio fuera necesaria su permanencia en el país por un plazo mayor, el llamado o prórroga de su estada deberá efectuarse por decreto supremo. En ambos casos, tendrá derecho a pasajes y a percibir sus remuneraciones como si continuara en comisión en el extranjero. Durante la permanencia en territorio nacional, este personal gozará de viáticos, los cuales le serán calculados sobre sus remuneraciones que le corresponde percibir en Chile y pagados en moneda nacional.
+El personal sólo podrá ser llamado al país mediante orden ministerial y por un plazo no superior a treinta días. Si por razones de servicio fuera necesaria su permanencia en el país por un plazo mayor, el llamado o prórroga de su estada deberá efectuarse por decreto supremo. En ambos casos, tendrá derecho a pasajes y a percibir sus remuneraciones como si continuara en comisión en el extranjero. En ningún caso, la comisión de este personal en el país podrá ser superior a tres meses en el año.
 
-El Ministro de Defensa Nacional podrá delegar en el Comandante en Jefe o en el Jefe del Estado Mayor Conjunto, la facultad señalada en el inciso anterior, para el caso que el personal en comisión de servicio en el extranjero sea llamado al país por un plazo no superior a treinta días.
-
-En ningún caso, la comisión de este personal en el país podrá ser superior a tres meses en el año.
+Durante la permanencia en territorio nacional, este personal gozará de viáticos, los cuales le serán calculados sobre sus remuneraciones que le corresponde percibir en Chile y pagados en moneda nacional.
 
 #### Artículo 202
 
@@ -2846,33 +2882,11 @@ Normas generales
 
 #### Artículo 209
 
-El personal tendrá derecho a feriados, permisos y licencias; a recibir asistencia médica, en conformidad a la ley, en caso de accidentes ocurridos en acto del servicio o de enfermedad contraída a consecuencia del desempeño de sus funciones y a ocupar vivienda fiscal de acuerdo con las disposiciones del presente Estatuto.
-
-Asimismo tendrá derecho a gozar de todas las prestaciones y beneficios que contemple su sistema legal de previsión y de seguridad social, y de protección a la maternidad establecidas en la ley.
-
-Al personal de las Fuerzas Armadas le será aplicable el derecho a fuero laboral establecido en el artículo 201 del Código del Trabajo, conforme a este estatuto. Respecto de quienes sean comprendidos en retiro por contraer enfermedad declarada incurable o enfermedad curable que los imposibilite temporalmente para el servicio, les será aplicable el referido fuero. En estos casos se procederá en la forma prevista en el artículo 246 de este estatuto.
+El personal tendrá derecho a feriados, permisos y licencias; a recibir asistencia médica, en conformidad a la ley, en caso de accidentes ocurridos en acto del servicio o de enfermedad contraída a consecuencia del desempeño de sus funciones y a ocupar vivienda fiscal de acuerdo con las disposiciones del presente Estatuto. Asimismo tendrá derecho a gozar de todas las prestaciones y beneficios que contemple su sistema legal de previsión y de seguridad social, y de protección a la maternidad establecidas en la ley.
 
 #### Artículo 210
 
 El personal tendrá derecho a ser defendido y a exigir que la Institución a la que pertenezca persiga la responsabilidad civil y criminal de las personas que atenten contra su vida o su integridad corporal con motivo del desempeño de sus funciones o que, por dicho motivo, los injurien o calumnien.
-
-#### Artículo 210
-
-A.- Las instituciones de las Fuerzas Armadas deberán contar con un sistema de presentación e ingreso de denuncias a través del cual se iniciará el procedimiento regulado en el reglamento de investigaciones sumarias administrativas de las Fuerzas Armadas, el que debe asegurar el debido proceso, la confidencialidad y evitar dilaciones en la resolución de la denuncia, que puedan entorpecer el correcto funcionamiento de las Fuerzas Armadas.
-
-La denuncia se presentará ante el superior directo del denunciante, quien actuará como mando receptor. Si el denunciado es el superior directo, la denuncia se presentará ante el escalón superior al superior directo, que actuará como mando receptor.
-
-En el plazo de tres días hábiles contado desde la recepción de la denuncia, el mando receptor deberá enviar copia de ella al Director del Personal o su equivalente. El Director del Personal, o su equivalente, supervigilará el procedimiento, de acuerdo a las normas vigentes y a las medidas de protección para el denunciante adoptadas por el mando receptor del denunciante. El Director del Personal de cada institución, o su equivalente, informará mensualmente al Comandante en Jefe respectivo de la sustanciación de este tipo de procedimientos. El Comandante en Jefe, a su vez, informará en el mismo plazo al Ministerio de Defensa.
-
-#### Artículo 210
-
-B.- Constituirá una falta grave a la disciplina, el hecho de adoptar medidas disciplinarias injustificadas, realizar hostigamientos, acoso o cualquier otro tipo de represalias en contra de quien haya efectuado una denuncia fundada en caso de vulneración al principio de la probidad administrativa. Asimismo, constituirá una falta grave a la disciplina el hecho de no adoptar las medidas de resguardo necesarias para el denunciante por parte del mando que haya debido adoptarlas.
-
-Con todo, cuando el denunciante de una vulneración al principio de probidad sea investigado administrativamente por una falta a la disciplina atribuida a él, independientemente de los hechos asociados a la denuncia, el Director del Personal, o su equivalente, deberá verificar que en dicha investigación disciplinaria se cumplan las normas del debido proceso, velando por la independencia de los procesos disciplinario y de denuncia, y que a través del proceso disciplinario no se lleve a cabo una represalia constitutiva de falta grave establecida en el inciso primero.
-
-El denunciante no podrá ser calificado por aquellos oficiales que hayan sido objeto de la denuncia, los que estarán inhabilitados para votar en las instancias de calificación anual y/o de apelación respectiva, respecto de sus denunciantes. En ningún caso el haber efectuado una denuncia podrá ser materia de demérito para el denunciante, salvo los casos previstos en el inciso cuarto del artículo 153-A.
-
-Con todo, el funcionario siempre tendrá el derecho de opción de presentar las denuncias sobre estas materias ante la Contraloría General de la República conforme a las reglas generales.
 
 #### Artículo 211
 
@@ -3132,7 +3146,7 @@ Los decretos o resoluciones de retiro deberán mencionar expresamente la causal 
 
 #### Artículo 246
 
-Los decretos o resoluciones que dispongan el retiro por causales forzosas se dictarán de oficio por la autoridad competente y a contar desde la fecha en que ellas se producen o de una posterior que determine la autoridad, cuando ello corresponda. En el caso de retiro del personal por padecer una enfermedad declarada incurable o enfermedad curable que los imposibilite temporalmente para el servicio, y que se encuentre gozando del fuero laboral regulado en el artículo 209 de este estatuto, dicho retiro se hará efectivo al término del respectivo fuero.
+Los decretos o resoluciones que dispongan el retiro por causales forzosas se dictarán de oficio por la autoridad competente y a contar desde la fecha en que ellas se producen o de una posterior que determine la autoridad, cuando ello corresponda.
 
 La solicitud de retiro absoluto por cumplimiento de años de servicios no podrá ser denegada.
 
