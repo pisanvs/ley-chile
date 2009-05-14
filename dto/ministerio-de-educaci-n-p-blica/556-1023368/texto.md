@@ -72,7 +72,7 @@ a) Plaza Aníbal Pinto, de la ciudad y provincia de Valparaíso, comprendiendo l
 
 Decláranse Santuarios de la Naturaleza:
 
-a) El Parque Quinta Normal, ubicado en la comuna de Quinta Normal, del departamento y provincia de Santiago;
+a) Derogado.
 
 b) La Isla de Sala y Gómez e islotes adyacentes a la Isla de Pascua, y
 
