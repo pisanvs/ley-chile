@@ -160,31 +160,75 @@ c) Contar con el patrocinio de su Universidad, la que deberá acreditar que el a
 
 d) Contar con una vacante en una Universidad o Centro de Estudios extranjero.
 
-#### Artículo 19º
+#### Artículo 19°
 
-Los alumnos seleccionados para realizar la pasantía en el exterior serán acreedores de los siguientes beneficios:
+Los alumnos seleccionados para realizar la pasantía en el exterior a partir del año 2009, serán acreedores de los siguientes beneficios:
 
-a) Un subsidio mensual cuyo monto se determinará en cada caso, el que no podrá exceder de US$ 700, en dólares americanos, según sea el país en que realicen la pasantía. En todo caso, el subsidio indicado precedentemente no podrá exceder de 5 meses.
+a) Un pasaje de ida, en clase económica, desde Santiago, hasta la ciudad donde corresponda que el alumno inicie su programa de estudio en el país de destino, y un pasaje de retorno a Chile, en clase económica, al término de dicho programa.
 
-b) Una asignación para gastos en libros y material de estudios de US$ 300, dólares americanos.
+b) Asignación de manutención mensual para el becario, por un máximo de hasta 6 meses, desde el inicio del programa de estudios, correspondiente al país y ciudad de destino.
 
-c) Pasajes en clase turista desde Santiago hasta el lugar donde el beneficiario realice su pasantía y de regreso una vez concluida esta.
+Los valores de la asignación de manutención mensual que otorga la beca, expresados en dólares americanos, serán los siguientes, según el país y ciudad que a continuación se indican:
 
-d) Un seguro que cubra gastos de enfermedad, de accidente y de defunción para el becario por todo el período que dure la pasantía.
+Manutención
+
+País mensual Becario
+
+US$
+
+Australia 1.556
+
+Canadá 1.567
+
+Canadá Montreal 1.525
+
+Canadá Ottawa 1.569
+
+Canadá Toronto 1.607
+
+Chipre 1.446
+
+Estados Unidos 1.496
+
+Estados Unidos Nueva York 1.700
+
+Filipinas 1.413
+
+Irlanda 1.556
+
+Nueva Zelanda 1.209
+
+Reino Unido 1.816
+
+Suecia 1.557
+
+c) Asignación única para compra de libros y/o materiales de US$150 (ciento cincuenta dólares americanos).
+
+d) Prima semestral de seguro médico para el becario por un monto máximo de US$600 (seiscientos dólares americanos).
 
 #### Artículo 20º
 
-El becario estará sujeto a las siguientes obligaciones:
+Una vez finalizada la beca, el becario tendrá las siguientes obligaciones:
 
-a) Cumplir con las exigencias académicas de la pasantía conforme a la reglamentación aplicada por la Universidad o Centro de Estudios Extranjero.
+a) Cumplir con las exigencias impuestas por la universidad o centro de estudios donde se cursará la pasantía en el extranjero.
 
 b) Mantener un alto nivel de rendimiento académico y observar una conducta intachable durante su permanencia en el extranjero.
 
-c) Regresar al país al término de la pasantía, de acuerdo a la época prevista para ello, y reintegrarse a sus estudios a la Universidad que lo patrocinó.
+c) Iniciar sus estudios en el extranjero en la fecha señalada en el convenio de beca.
 
-d) Prestar servicios por dos años en establecimientos educacionales subvencionados o regidos por el D.L. 3.166, de 1980, una vez que se haya titulado.
+d) Cumplir con los mecanismos que estipule el Ministerio de Educación, a través del Programa de Fortalecimiento del Aprendizaje del Idioma Inglés para hacer efectivos los pagos de los beneficios asociados a la beca.
 
-e) El pasante deberá suscribir un convenio con el Ministerio de Educación donde se compromete a cumplir cada una de las obligaciones precedentemente señaladas.
+e) Mantener su calidad de alumno regular en el extranjero. Cualquier cambio en esta situación deberá ser informada al Ministerio de Educación, a través del Programa de Fortalecimiento del Aprendizaje del Idioma Inglés, en un plazo máximo de 15 días.
+
+f) Abstenerse de ejecutar cualquier actividad remunerada. Sólo se aceptará la realización de actividades académicas remuneradas que estén en directa relación con los estudios en el extranjero.
+
+g) Cualquier situación de salud deberá ser informada al Ministerio de Educación, a través del Programa de Fortalecimiento del Aprendizaje del Idioma Inglés, para considerar un permiso sin suspensión de los beneficios de la beca.
+
+h) Certificar, al término de sus estudios en el extranjero, las calificaciones obtenidas mediante documento emitido por la universidad extranjera con inclusión de certificado donde se explique el rango de aprobación en caso de que éste sea diferente a la escala 1 al 7.
+
+i) Al término de la beca, el becario deberá retornar a Chile y reintegrarse a sus estudios regulares en la Universidad que lo patrocinó. Una vez titulado, el becario deberá prestar servicios por dos años en establecimientos educacionales regidos por el DFL (Ed.) N° 2, de 1998, y por el decreto ley N° 3.166, de 1980.
+
+j) Suscribir un convenio con el Ministerio de Educación, donde se compromete a cumplir cada una de las obligaciones precedentemente señaladas.
 
 #### Artículo 21º
 
@@ -206,9 +250,7 @@ Un decreto del Ministerio de Educación indicará la nómina definitiva de los b
 
 El gasto que demande la aplicación y ejecución del presente decreto se financiará con cargo a los recursos que anualmente se determinen en la Ley de Presupuestos del Sector Público.
 
-Para el presente año el gasto que demande la ejecución de este Programa se imputará al ítem:
-
-09.01.02.24.03.135 del Presupuesto de la Subsecretaría de Educación.
+Para el presente año el gasto que demande la ejecución de este Programa se imputará al ítem: 09.01.04.24.03.517 del Presupuesto de la Subsecretaría de Educación.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Mariana Aylwin Oyarzún, Ministra de Educación.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
