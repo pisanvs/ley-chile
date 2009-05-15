@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.651, de 7 de mayo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203104003, presentada por BENEDICTO OMAR CAMPOS CAIPILLÁN y JUAN CARLOS CAMPOS CAIPILLÁN, para instalar y operar un centro de cultivo ubicado en Isla Puluqui, al oeste de Punta Centinela, X Región.
+
+Valparaíso, 7 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
