@@ -18,6 +18,8 @@ Modifícase el artículo 1º del decreto exento Nº 1.446, de 2007, del Minister
 
 Tipo de Vehículo: Automóvil, marca: Subaru, modelo: Legacy 2.0R 4D AT AWD UQ, Nº motor: D614662, Nº chasis: G053177, color: Plateado Acero Metálico, año: 2009, Placa Unica: BRYJ.73-7".
 
+El vehículo antes individualizado podrá ser estacionado en el domicilio particular del Vicepresidente Ejecutivo de CORFO, ubicado en García Moreno N° 1244, comuna de Ñuñoa y en el domicilio del conductor, ubicado en Raquel N° 59, comuna de San Joaquín.
+
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Edmundo Pérez Yoma, Ministro del Interior.- Jean Jacques Duhart Saurel, Ministro de Economía, Fomento y Reconstrucción (S).
 
 Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Eduardo Escalona Vásquez, Subsecretario de Economía, Fomento y Reconstrucción (S).
