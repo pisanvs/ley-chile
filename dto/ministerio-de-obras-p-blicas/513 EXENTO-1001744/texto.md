@@ -1,3 +1,3 @@
-Por Decreto (Exento) MOP. Nº 513, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 56, superficie 16 m2, Rol Nº 407-11, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte. Tramo: Vallenar - Caldera. Sector de Vallenar. Km. 660.000,00 al Km. 665.000,00", y se acordó el valor de indemnización con su propietario RAMON FLORIDOR GONZALEZ SANTANDER, ascendente a la cantidad de $338.000.
+Por Decreto (Exento) MOP. Nº 513, de fecha 31 de marzo del 2009, se expropió el lote de terreno Nº 56, superficie 16 m2, Rol Nº 407-11, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte. Tramo: Vallenar - Caldera. Sector de Vallenar. Km. 660.000,00 al Km. 665.000,00", y se acordó el valor de indemnización con su propietario Román Floridor González Santander, ascendente a la cantidad de $338.000.
 
 Fiscal del Ministerio de Obras Públicas.
