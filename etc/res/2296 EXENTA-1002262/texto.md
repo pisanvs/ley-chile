@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE PLACILLA
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 2.296, del 24 de abril de 2009, conforme artículo 5º transitorio Código Aguas, aclaró y complementó la resolución exenta Nº 225, de 12 de febrero de 1988, que aprobó estudio técnico de división de los derechos de aprovechamiento de aguas de los predios "La Diana y Los Paltos", "Fundo La Línea, hoy San José de Manantiales", "Resto del Fundo Arica", "Parte del Predio que posee en la comuna de Placilla de este Departamento, que era el Fundo Arica en una mayor extensión" y "Fundo Taulemu" y del proyecto de parcelación "Arica", ubicados en la comuna de Placilla, Región del Libertador Bernardo O'Higgins, en el sentido de establecer la equivalencia en unidad de volumen por unidad de tiempo de los derechos de aprovechamiento de aguas del canal Cervantino o Cervantina, derivado del Río Tinguiririca, y que dichos derechos son consuntivos, de ejercicio permanente y continuo. Publicación hecha conforme artículo 13º Ley Nº 18.377.-
+
+Director Nacional.
