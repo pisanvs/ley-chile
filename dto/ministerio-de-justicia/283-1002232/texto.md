@@ -1,0 +1,41 @@
+CANCELA PERSONALIDAD JURÍDICA A "CORPORACIÓN DE AYUDA A VÍCTIMAS DE DELITOS SEXUALES Y VIOLENCIA INTRAFAMILIAR", DE SANTIAGO
+
+Santiago, 28 de abril de 2009.- Hoy se decretó lo que sigue:
+
+Núm. 283.- Vistos: Estos antecedentes; lo dispuesto en los artículos 545 y siguientes del Código Civil; los artículos 25 y 36 del decreto supremo de Justicia Nº 110, de 1979, y sus modificaciones posteriores, Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones; la resolución Nº 1.600, de la Contraloría General de la República, de fecha 5 de noviembre de 2008, que fija normas sobre Exención del Trámite de Toma de Razón, y lo informado por la Intendencia de la Región Metropolitana de Santiago, mediante Oficio Ord. Nº 658 de 11 de febrero de 2008; por el Subdirector de Fiscalización del Servicio de Impuestos Internos, mediante resolución Nº 55/25, de fecha 25 de abril de 2008, y por el Consejo de Defensa del Estado en Inf. Nº 01142, de fecha 12 de noviembre de 2008,
+
+Considerando:
+
+1.- Que a la entidad "Corporación de Ayuda a Víctimas de Delitos Sexuales y Violencia Intrafamiliar" que también puede usar el nombre de "Corporación La Pastora", con domicilio en la Provincia de Santiago, Región Metropolitana, se le concedió personalidad jurídica por decreto supremo de Justicia Nº 882, de 15 de octubre de 2003.
+
+2.- Que esta Secretaría de Estado, en virtud de las facultades que le otorga el artículo 36 del D.S. de Justicia Nº110, de 1979, y sus modificaciones, dispuso de oficio un procedimiento de fiscalización a dicha entidad.
+
+3.- Que, en el marco del procedimiento mencionado, mediante providencia Nº 7.763, de fecha 26 de noviembre de 2007, esta Cartera de Estado solicitó a la Intendencia Metropolitana de Santiago un informe sobre la marcha general de la entidad, con la finalidad de verificar su actual funcionamiento y el cumplimiento del objeto que justificó la concesión de su personalidad jurídica.
+
+4.- Que, por medio de Oficio Ord. Nº 658 de 11 de febrero de 2008, la Intendencia de la Región Metropolitana de Santiago remitió a este Ministerio el Informe Reservado Nº 11 de fecha 7 de enero de 2008, mediante el cual la Policía de Investigaciones de Chile responde a la solicitud de información sobre la marcha general de la entidad. En dicho informe, se constató que la entidad "no posee cuentas corrientes, bancaria, depósitos a plazo, fondos mutuos o similares...", "... sin embargo es dable indicar que la mencionada representante legal de la entidad en cuestión es además socia, con un 99% de los derechos sociales en la Sociedad Corporación de Ayuda a Víctimas de Delitos Sexuales Limitada, cuya fecha de constitución es el 3 de mayo de 2004, agregando que esta sociedad posee una cuenta corriente, pero cuyo número no lo sabe". Además, se establece que "la entidad Corporación La Pastora presenta múltiples irregularidades detectadas en el desarrollo del presente informe, tales como no contar con una fuente de financiamiento demostrable, ya que la representante legal manifestó que esto se efectuaba a través de donaciones de personas naturales y jurídicas, lo que no ha sido acreditada durante la investigación por parte de la representante legal, además no figura registrado nombres de los donantes, también el hecho que los familiares entrevistados citan solamente haber "prestado" sus nombres a solicitud de la representante con la finalidad que ésta pudiera cumplir con los requisitos que exige la ley, para estos fines. Asimismo, derivado de lo anterior no existe un sistema de control en cuanto al destino de los recursos y tampoco existe constancia que se realicen memorias y balances a los órganos internos en forma anual. Además es dable destacar que existe una Sociedad Corporación de Ayuda a Víctimas de Delitos Sexuales Ltda., donde la representación legal [...] tiene el 99 por ciento de los derechos sociales, [...] y esa sociedad está constituida posterior a la Corporación del mismo nombre, esto hace a Juicio del diligenciador poco transparente la distribución de los ingresos de la Corporación versus de la Sociedad.".
+
+5.- Que, con fecha 12 de marzo de 2008, mediante Providencia Nº 1.674, este Ministerio solicitó al Subdirector de Fiscalización del Servicio de Impuestos Internos informara acerca de la existencia de donaciones con beneficio tributario efectuadas desde el año 2004 a la fecha que pudiere haber sido objeto, en calidad de donataria, la entidad en cuestión.
+
+6.- Que, mediante resolución Nº 55/25, de fecha 25 de abril de 2008, el Subdirector de Fiscalización del Servicio de Impuestos Internos informa a este Ministerio que la entidad "Corporación de Ayuda a Víctimas de Delitos Sexuales y Violencia Intrafamiliar", que también puede usar el nombre "Corporación La Pastora", RUT 65.392.170-5, recibió donaciones en el período comprendido entre los años 2004 y 2008.
+
+7.- Que, con fecha 25 de julio de 2008 acudió al domicilio de la entidad un fiscalizador del Ministerio de Justicia donde no fue posible entrevistarse con persona alguna, dando la impresión que el inmueble se encontraba abandonado, lo que fue ratificado por una comerciante del lugar quien informó que hace días no hay nadie en el citado inmueble.
+
+8.- Que considerando la información contenida en los numerales anteriores, este Ministerio solicitó por Of. Ord. Nº6.673, de fecha 10 de octubre de 2008, un informe en derecho al Consejo de Defensa del Estado, a fin de evaluar la pertinencia de iniciar un procedimiento de cancelación de personalidad jurídica respecto de la entidad fiscalizada.
+
+9.- Que el 12 de noviembre de 2008, se recepcionó el Informe Nº 01142, de igual fecha, del Consejo de Defensa del Estado, por medio del cual se concluye que "En vista de la clara inobservancia de importantes normas contempladas en el estatuto de la Corporación, este Consejo estima que ese Ministerio en uso de las facultades que le confiere el artículo 36º del Reglamento contenido en el D.S. Nº 110 de 1979, y según lo dispone el artículo 25º del mismo al señalar que el Presidente de la República podrá cancelar la personalidad jurídica a una corporación desde el momento que la estime contraria a las leyes, al orden público o a las buenas costumbre o no cumpla con los fines para que fue constituida o incurra en infracciones graves a sus estatutos; [...], se encuentra facultado para cancelar la personalidad jurídica a la entidad en estudio.".
+
+10.- Que en virtud del artículo cuadragésimo quinto de los estatutos de la entidad, "... decretada la disolución forzada de la Corporación sus bienes pasarán a la Institución, sin fines de lucro, con personalidad jurídica vigente denominada "Fundación Santa Clara [...] o en su defecto al Ministerio de Bienes Nacionales".
+
+11.- Que de acuerdo con lo expuesto, especialmente lo informado por la Intendencia de la Región Metropolitana y el Consejo de Defensa del Estado, se han configurado causales suficientes para cancelar la personalidad jurídica de la "Corporación de Ayuda a Víctimas de Delitos Sexuales y Violencia Intrafamiliar" que también puede usar el nombre "Corporación La Pastora".
+
+Decreto:
+
+1.- Cancélase la personalidad jurídica de la entidad denominada "Corporación de Ayuda a Víctimas de Delitos Sexuales y Violencia Intrafamiliar", que también puede usar el nombre "Corporación La Pastora", concedida por decreto supremo Nº 882, de fecha 15 de octubre de 2003, del Ministerio de Justicia.
+
+2.- Destínense los bienes de la "Corporación de Ayuda a Víctimas de Delitos Sexuales y Violencia Intrafamiliar", que también puede usar el nombre "Corporación La Pastora" a la Fundación Santa Clara, en virtud de lo dispuesto en el artículo cuadragésimo quinto de los estatutos de la entidad.
+
+3.- Practíquese, por la Intendencia de la Región Metropolitana, la entrega de los bienes de la entidad disuelta bajo inventario valorizado, debiendo remitirse copia del inventario y del acta que se levante al efecto al Ministerio de Justicia.
+
+Tómese razón, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Maldonado Curti, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Jorge Frei Toledo, Subsecretario de Justicia.
