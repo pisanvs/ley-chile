@@ -1,0 +1,3 @@
+DEROGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CONSTRUCTORA E INVERSIONES P.A.S. LIMITADA
+
+La Décima Dirección Regional Puerto Montt, del Servicio de Impuestos Internos, por resolución Ex. N° 1.530, de fecha 23 de abril de 2009, deroga a contar del 1° del mes siguiente de esta publicación, al contribuyente Constructora e Inversiones P.A.S. Limitada, RUT N° 77.375.770-4, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la Actividad de la Construcción, establecido en la resolución exenta N° 142, del 26 de diciembre de 2005, de la Dirección Nacional del SII.
