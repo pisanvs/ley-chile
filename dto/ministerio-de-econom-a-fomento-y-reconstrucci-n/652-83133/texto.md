@@ -74,7 +74,21 @@ D 33º23'02,90" 71º41'26,84"
 
 SECTOR A
 
-IGM 3300-7130, Escala 1:50.000, Dátum WGS-84
+(Carta SHOA Nº 5120; Esc. 1:20.000; 1ª Ed. 1995) Vértice Latitud S. Longitud W.
+
+A 33°10'59,20" 71°41'17,00"
+
+B 33°10'55,00" 71°41'21,53"
+
+C 33°11'17,70" 71°41'47,69"
+
+D 33°11'24,14" 71°42'15,61"
+
+E 33°11'24,98" 71°42'17,15"
+
+F 33°11'28,43" 71°42'17,15"
+
+G 33°11'31,75" 71°42'12,00"
 
 SECTOR B
 
@@ -453,10 +467,6 @@ H 33°33'28,20" 71°37'35,60"
 I 33°33'36,70" 71°37'32,40"
 
 J 33°33'36,70" 71°37'27,09"
-
-> **Nota.** El Decreto 1239 Exento, Economía, publicado el 18.12.2012, modifica la presente norma, en el sentido de reemplazar las coordenadas geográficas, que estableció el área de manejo y explotación de recursos bentónicos denominada Quintay Sector A, de acuerdo a lo señalado en el decreto extractado.
-
-> **Nota.** NOTA 1 El Decreto 202600025, Economía, publicado el 09.02.2026, modifica la presente norma, en el sentido de reemplazar las coordenadas geográficas, que estableció el área de manejo y explotación de recursos bentónicos denominado Horcón, en la Región de Valparaíso, de acuerdo a lo señalado en el decreto extractado.
 
 #### Artículo 2º
 
