@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.487, de 24 de abril de 2009, de esta Subsecretaría, autorízase a PANADES Y CÍA. LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en calle 16 de Julio, Parcela Nº6, Manzana 29, La Tirana, comuna de Pozo Almonte, I Región, para elaborar en líneas de proceso Secado, Molienda y Mezcla con aceite, el recurso hidrobiológico Haematocuccus.
+
+Valparaíso, 24 de abril de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
