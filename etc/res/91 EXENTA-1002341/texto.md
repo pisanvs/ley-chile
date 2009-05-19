@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A ARIZTÍA COMERCIAL LTDA.
+
+La Dirección Grandes Contribuyentes del SII, por resolución exenta Nº 91 de fecha 20.04.2009, otorga a contar del 1º del mes siguiente al de esta publicación a Ariztía Comercial Ltda., RUT Nº83.614.800-2, la calidad de Agente Retenedor del Impuesto al Valor Agregado, en las ventas de carne que efectúe conforme a lo establecido en la resolución exenta Nº3.722, de 28.07.2000, de la Dirección Nacional del Servicio de Impuestos Internos.- Bernardo Marchant Aguila, Director, Dirección Grandes Contribuyentes.
