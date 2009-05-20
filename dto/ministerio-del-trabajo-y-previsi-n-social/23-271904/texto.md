@@ -260,32 +260,6 @@ Si el Instituto de Previsión Social no acogiese una solicitud de pensión bási
 
 La Superintendencia de Pensiones determinará la forma en la cual el Instituto de Previsión Social procederá al pago del correspondiente beneficio del Sistema de Pensiones Solidarias, una vez que se acredite que el respectivo beneficiario ha dejado de percibir ingresos laborales mensuales de acuerdo a lo establecido en el inciso tercero del artículo 22 de la ley Nº 20.255, señalando los medios a través de los cuales dicho Instituto verificará la información necesaria para tal efecto.
 
-## Título Quinto — Del Instrumento Técnico de Focalización
-
-#### Artículo 33
-
-El Instrumento Técnico de Focalización es el mecanismo que permite evaluar el nivel de pobreza de la población para los efectos de asignar los beneficios del Sistema de Pensiones Solidarias de la ley N° 20.255.
-
-El Instituto de Previsión Social utilizará el Instrumento Técnico de Focalización para los efectos de determinar si los potenciales beneficiarios del Sistema de Pensiones Solidarias cumplen con el requisito establecido en la letra b) del artículo 3° de la ley N° 20.255. Dicho instrumento considerará, al menos, los siguientes factores: la capacidad generadora de ingreso del grupo familiar; el ingreso per cápita del grupo familiar, y un índice de necesidades del grupo familiar.
-
-En el factor capacidad generadora de ingreso se considerará una estimación del potencial ingreso laboral que cada uno de los integrantes del grupo familiar podría recibir en el mercado laboral según sus características observables. En relación a los ingresos del grupo familiar se considerarán los recursos de corto, mediano y largo plazo que posea el grupo familiar, con excepción de los ingresos provenientes del Sistema de Pensiones Solidarias de la ley N° 20.255. El índice de necesidades contabilizará el número de personas que integren el grupo familiar considerando las economías de escalas existentes en su interior y los grados de dependencias de sus miembros.
-
-Como parte del grupo familiar se considerará a las personas señaladas en el artículo 4° de la Ley N° 20.255.
-
-Como resultado de la aplicación del Instrumento Técnico de Focalización se obtendrá un puntaje de focalización previsional.
-
-La Subsecretaría de Previsión Social con la visación del Ministerio de Hacienda, a través de la Dirección de Presupuestos, previo informe del Consejo Consultivo Previsional de conformidad a la letra c) del artículo 66 de la ley N° 20.255, dictará una resolución que contendrá la fórmula matemática de cálculo del puntaje de focalización previsional. Para lo anterior, el Consejo deberá emitir el informe dentro de los veinte días hábiles contados desde que reciba el requerimiento de los Ministerios del Trabajo y Previsión Social y de Hacienda. El Consejo podrá solicitar, por razones fundadas, la prórroga de este plazo por un período que no exceda de 20 días. En caso de no emitirse este informe dentro del plazo, podrá dictarse la resolución precedente sin considerarlo.
-
-#### Artículo 34
-
-El Instituto de Previsión Social para determinar el puntaje de focalización previsional, podrá utilizar la información disponible en el Sistema de Información de Datos Previsionales; en el Registro de Información Social a que se refiere el Decreto Supremo N°160, de 2007, del Ministerio de Planificación, y la información de la Ficha de Protección Social regulada en el Decreto Supremo N° 291, de 2006, del mismo Ministerio; así como la información que le proporcionen los organismos públicos, tales como el Servicio de Impuestos Internos según lo establecido en el artículo 56 de la ley N° 20.255, y los antecedentes que le entreguen los organismos privados a que se refiere la citada norma legal, entre otros. La Superintendencia de Pensiones, mediante norma de carácter general, establecerá la forma de utilización de la referida información en el Instrumento Técnico de Focalización.
-
-El Instituto de Previsión Social verificará la composición del grupo familiar del solicitante de los beneficios del Sistema de Pensiones Solidarias con la información señalada en el inciso precedente. No obstante lo anterior, el eventual beneficiario podrá solicitar ante el referido Instituto que sean o no consideradas en su grupo familiar las personas señaladas en los incisos segundo y tercero del artículo 4° de la ley 20.255, según corresponda, conforme a la norma de carácter general que dicte al efecto la Superintendencia de Pensiones.
-
-#### Artículo 35
-
-A contar del 1º de julio de 2011, los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje de focalización previsional igual o inferior a 1.206 puntos para efecto de acreditar el requisito establecido en la letra b) del artículo 3º de la ley 20.255. Dicho puntaje será calculado de conformidad con el inciso final del artículo 33.
-
 Disposiciones Transitorias
 
 #### Artículo primero
@@ -296,11 +270,7 @@ Durante los dos primeros años de vigencia del Título I de la ley Nº 20.255, p
 
 Para efectos de acreditación del requisito establecido en la letra b) del artículo 3º de la ley Nº 20.255, el Instituto de Previsión Social deberá considerar los siguientes umbrales de focalización, por aplicación de la Ficha de Protección Social, para los períodos que se señalan:
 
-a) Entre el 1º de julio de 2008 y el 30 de junio de 2009, los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje igual o inferior a 11.734 puntos;
-
-b) Entre el 1º de julio de 2009 y el 31 de agosto de 2009, el puntaje deberá ser igual o inferior a 12.185 puntos, y
-
-c) Entre el 1º de septiembre de 2009 y el 30 de junio de 2010, el puntaje deberá ser igual o inferior a 12.666.
+a) Entre el 1º de julio de 2008 y el 30 de junio de 2009, los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje igual o inferior a 11.734 puntos, y b) Entre el 1º de julio de 2009 y el 30 de junio de 2010, el puntaje deberá ser igual o inferior a 12.185 puntos.
 
 Para las personas que superen los umbrales a que se refiere el inciso precedente, se determinará su puntaje considerando lo dispuesto en el artículo 4º de la ley Nº 20.255. En lo demás, se aplicará la misma metodología utilizada para calcular los puntajes por aplicación de la Ficha de Protección Social.
 
@@ -326,7 +296,7 @@ A contar de la fecha de publicación del presente reglamento y hasta el 30 de ju
 
 #### Artículo séptimo
 
-Lo dispuesto en el inciso primero del artículo 15 del presente reglamento, comenzará a regir una vez que se encuentre operativo el registro de datos que para tal efecto administre la Policía de Investigaciones de Chile. Hasta dicha fecha, los solicitantes de beneficios del Sistema de Pensiones Solidarias, acreditarán el cumplimiento de los requisitos de residencia establecidos en las letras c) de los artículos 3º y 16 de la ley Nº 20.255, según corresponda, a través de una declaración que formará parte integrante de la solicitud del beneficio correspondiente.
+Lo dispuesto en el artículo 15 del presente reglamento, regirá a partir del día 1º de julio de 2010. Hasta dicha fecha, los solicitantes de beneficios del Sistema de Pensiones Solidarias, acreditarán el cumplimiento de los requisitos de residencia establecidos en las letras c) de los artículos 3º y 16 de la ley Nº 20.255, según corresponda, a través de una declaración que formará parte integrante de la solicitud del beneficio correspondiente.
 
 INCISO SEGUNDO SUPRIMIDO.
 
