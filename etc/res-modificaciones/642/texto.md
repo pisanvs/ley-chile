@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 642, de 20/03/2009, modificó D.S. (M) 501/1991, de la siguiente forma: Ubicación: Paso Tenaun, al Oeste de Punta Calen, Superficie 2,00 Hás.; coordenadas geográficas Carta Shoa Nº 7370, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°20'41,90" S. Long. 73°29'19,76" W. Vértice B Lat. 42°20'41,16" S. Long. 73°29'19,98" W. Vértice C Lat. 42°20'40,32" S. Long. 73°29'20,52" W. Vértice D Lat. 42°20'39,80" S. Long. 73°29'20,20" W. Vértice E Lat. 42°20'39,83" S. Long. 73°29'06,77" W. Vértice F Lat. 42°20'41,57" S. Long. 73°29'07,64" W. Vértice G Lat. 42°20'42,17" S. Long. 73°29'08,61" W. Vértice H Lat. 42°20'41,99" S. Long. 73°29'12,15" W. Vértice I Lat. 42°20'42,08" S. Long. 73°29'17,41" W.
+
+Santiago, 14 de mayo de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
