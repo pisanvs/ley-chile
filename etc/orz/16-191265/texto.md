@@ -46,7 +46,7 @@ El permiso lo otorgará el Alcalde mediante decreto alcaldicio, previo informe d
 
 El Director de Obras informará favorablemente el permiso cuando el proyecto cumpla con las condiciones establecidas en esta Ordenanza.
 
-El decreto alcaldicio será notificado al beneficiario por el Departamento de Construcción dependiente de la Dirección de Obras. En este acto se levantará acta del estado del Bien Nacional de Uso Público que se autoriza ocupar, debiendo firmar el Acta el beneficiario en señal de conocimiento y de aceptación.
+El decreto alcaldicio será notificado al beneficiario por el Departamento de Rentas dependiente de la Dirección de Administración y Finanzas. En este acto se levantará acta del estado del Bien Nacional de Uso Público que se autoriza ocupar, debiendo firmar el Acta el beneficiario en señal de conocimiento y de aceptación.
 
 #### Artículo 5º
 
@@ -152,14 +152,6 @@ Como una forma de salvar la diferencia de pendientes de las veredas, el interesa
 
 #### Artículo 17º
 
-<!-- parte:6355748 -->
-
-Para garantizar las reposiciones de pavimentos posiblemente dañados cuando el locatario presente término de giro o el permiso le sea caducado, el permisionario deberá entregar garantía bancaria a nombre de la Municipalidad por el monto y vigencia que establecerá el decreto que otorga el permiso.
-
-La garantía se entregará en la Dirección de Obras, dentro de los cinco días hábiles siguientes a la notificación del decreto alcaldicio que autoriza la ocupación.
-
-#### Artículo 18º
-
 <!-- parte:6355749 -->
 
 El permisionario deberá:
@@ -172,13 +164,13 @@ c.- Mantener en perfecto estado el aseo del espacio autorizado a ocupar.
 
 d.- Retirar los quitasoles y el mobiliario en su totalidad, cuando el local esté cerrado.
 
-#### Artículo 19º
+#### Artículo 18º
 
 <!-- parte:6355750 -->
 
 El permiso será personal e intransferible y podrá ser caducado sin derecho a indemnización alguna por parte de la Municipalidad.
 
-#### Artículo 20º
+#### Artículo 19º
 
 <!-- parte:6355751 -->
 
@@ -190,7 +182,7 @@ b.- Colocar logos de publicidad, de cualquier naturaleza, en los quitasoles, mes
 
 c.- Utilizar implementos o efectuar ampliaciones o agregados que signifiquen la ocupación de superficie mayor que la permitida y la proyección de ésta en su altura.
 
-#### Artículo 21º
+#### Artículo 20º
 
 <!-- parte:6355752 -->
 
@@ -198,11 +190,17 @@ La infracción de cualquiera de las disposiciones de esta Ordenanza será denunc
 
 Será causal de término del permiso el incumplimiento reiterado, más de 3 veces, de cualquiera de las disposiciones establecidas en esta Ordenanza, o en la Ordenanza sobre la Actividad Comercial, de Alcoholes, Industrial, Profesional y de Servicios Nº 2 de 6 de marzo de 2000.
 
-#### Artículo 22º
+#### Artículo 22
 
 <!-- parte:6355753 -->
 
 Extinguido el permiso el beneficiario deberá restituir de inmediato al uso público el bien nacional de uso público que se había autorizado ocupar, en las mismas condiciones en que fue entregado.
+
+#### Artículo 23º
+
+<!-- parte:8606004 -->
+
+Corresponderá al Departamento de Rentas Municipales dependiente de la Dirección de Administración y Finanzas y a la Dirección de Protección Civil y Seguridad Vecinal supervigilar el cumplimiento de esta ordenanza y el cuidado y mantención del bien nacional de uso público autorizado a ocupar.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y en extracto en el diario El Mercurio y archívese.- Christian Espejo Muñoz, Alcalde Subrogante.- Josefina García Trias, Secretario Abogado Municipal.
 
