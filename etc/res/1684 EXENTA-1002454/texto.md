@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.684, de 13 de mayo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 207121118, presentada por RIVERFISH SOCIEDAD ANÓNIMA para instalar y operar un centro de cultivo ubicado en canal Contreras, al sur de Isla Surgidero, sector 7, comuna de Río Verde, provincia de Magallanes, XII Región.
+
+Valparaíso, 13 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
