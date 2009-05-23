@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.718, de 15 de mayo de 2009, de esta Subsecretaría, modifícanse los numerales 2, 3, 4, 5, 6, 7, 8 y 9 de la resolución exenta Nº 3.613, de 2007, que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE para efectuar una pesca de investigación de conforme Términos Técnicos de Referencia del Proyecto "Caracterización de la pesquería de Algas Pardas de las Regiones XV a IV", de acuerdo con lo señalado en resolución extractada.
+
+Valparaíso, 15 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
