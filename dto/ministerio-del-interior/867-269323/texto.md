@@ -222,6 +222,18 @@ dl-3,4,5-trimetoxi-alfa-metilfeniletilamina (TMA)
 
 Zipeprol
 
+CP-47,497 o (Z)-3[4-(1,1-Dimetilheptil)-2-hidroxifenil]-ciclohexanol, o también denominada 5-(1,1-Dimetilheptil)-2-[(1R,3S)-3-hidoxiciclohexil]-fenol.
+
+CP-47,497-C6-Homólogos o (Z)-3[4-(1,1-Dimetilheptil)-2-hidroxifenil]-ciclohexanol, o también denominada 5-(1,1-Dimetilheptil)-2-[(1R,3S)-3-hidroxiciclohexil]-fenol.
+
+CP-47,497-C8-Homólogos o (Z)-3[4-(1,1-Dimetilheptil)-2-hidroxifenil]-ciclohexanol, o también denominada 5-(1,1-Dimetilheptil)-2-[(1R,3S)-3-hidroxiciclohexil]-fenol.
+
+CP-47,497-C9-Homólogos o (Z)-3[4-(1,1-Dimetilheptil)-2-hidroxifenil]-ciclohexanol, o también denominada 5-(1,1-Dimetilheptil)-2-[(1R,3S)-3-hidroxiciclohexil]-fenol.
+
+JWH-018 o 1-pentil-3-(1-naftoil)indol, o también denominada (Nafatalen-1-il)(1-pentil-1H-indol-3-il)metanona.
+
+HU-210, o también denominada (6aR,10aR)-9-(Hidroximetil)-6,6-dimetil-3-(2-metiloctan-2-il)-6a,7,10,10a-tetrahidrobenzo[c]cromeno-1-ol.
+
 Los isómeros, ésteres y éteres de las sustancias de esta lista, a menos que estén expresamente exceptuados,
 
 Las sales de las sustancias de esta lista, incluidas las sales de los ésteres, éteres e isómeros, a menos que estén expresamente exceptuadas.
