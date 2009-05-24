@@ -140,7 +140,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
 
-«Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
+«Ducto» (Shaft): conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
 «Edificación aislada»: la separada de los deslindes, emplazada por lo menos a las distancias resultantes de la aplicación de las normas sobre rasantes y distanciamientos que se determinen en el instrumento de planificación territorial o, en su defecto, las que establece la presente Ordenanza.
 
@@ -149,6 +149,8 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 «Edificación continua»: la emplazada a partir de los deslindes laterales opuestos o concurrente de un mismo predio y ocupando todo el frente de éste, manteniendo un mismo plano de fachada con la edificación colindante y con la altura que establece el instrumento de planificación territorial
 
 «Edificación pareada»: la que corresponde a dos edificaciones emplazadas a partir de un deslinde común, manteniendo una misma línea de fachada, altura y longitud de pareo. Las fachadas no pareadas deberán cumplir con las normas previstas para la edificación aislada.
+
+«Edificaciones con destinos complementarios al área verde»: construcciones complementarias a la recreación que no generan metros cuadrados construidos, tales como pérgolas, miradores, juegos infantiles y obras de paisajismo, así como otro tipo de construcciones de carácter transitorio, tales como quioscos.
 
 «Edificio»: toda edificación compuesta por uno o más recintos, cualquiera sea su destino.
 
@@ -242,7 +244,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Monumento Nacional»: edificio, conjunto o área declarada como tal conforme a la ley Nº 17.288 sobre Monumentos Nacionales, mediante decreto del Ministerio de Educación.
 
-«Muro cortafuego»: »: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
+«Muro cortafuego»: el que cumple con la resistencia al fuego requerida según el caso, de acuerdo con el artículo 4.3.3. de esta Ordenanza.
 
 «Muro de separación»: el que divide un predio o un edificio de un mismo dueño.
 
@@ -286,7 +288,7 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 
 «Patrón Nacional de Información Territorial»: ELIMINADO.
 
-«Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial»: conjunto de parámetros de organización y representación de la información contenida en los Instrumentos de Planificación Territorial, tanto en su versión gráfica como digital.
+«Patrón nacional para la representación de Instrumentos de Planificación Territorial»: conjunto de parámetros para la representación de la información contenida en los planos que conforman los Instrumentos de Planificación Territorial, tanto en su versión impresa como digital.
 
 «Pendiente promedio de un terreno»: porcentaje que señala la o las inclinaciones de un terreno con respecto al plano horizontal, calculado de acuerdo a un método geográfico o geométrico generalmente aceptado.
 
@@ -788,6 +790,8 @@ En el caso de anteproyectos de loteo, se entenderá que se mantienen los element
 
 4.8. Para la aplicación de las normas urbanísticas que se relacionen con la superficie, medida y orientación de los deslindes, pendientes y niveles del predio en que se emplazará un proyecto, se utilizará la información contenida en el plano de levantamiento topográfico del predio firmado por profesional competente, cuando éste se acompañe a la solicitud. En tal caso dicho plano deberá singularizarse en la declaración jurada del propietario señalada en el artículo 1.2.2.
 
+Cuando de la aplicación de los coeficientes o parámetros de las normas urbanísticas del instrumento de planificación territorial, resulte una fracción igual o mayor que 0,5, éstos se aproximarán al entero superior.
+
 #### Artículo 1
 
 4.9. El Director de Obras Municipales deberá poner en conocimiento del interesado, por escrito, en un solo acto y dentro del plazo máximo para pronunciarse que corresponda para la actuación requerida, la totalidad de las observaciones que estime deben ser aclaradas o subsanadas antes de aprobarse un anteproyecto o concederse el permiso. Para tal efecto suscribirá un Acta de Observaciones. Si junto con la solicitud correspondiente se cuenta con informe favorable de Revisor Independiente, copia de dichas observaciones deberá ponerse a disposición de éste con el fin de que dicho profesional emita un informe complementario, indicando los criterios técnicos y jurídicos que aplicó en su revisión y respondiendo cada una de las observaciones formuladas.
@@ -992,9 +996,9 @@ A contar del inicio del proceso de aprobación de un proyecto de Instrumento de 
 
 Sólo se considerarán copias auténticas de los planos y demás documentos que conforman un Instrumento de Planificación Territorial las transcripciones debidamente certificadas.
 
-Los planos que conformen un Instrumento de Planificación Territorial deberán realizarse preferentemente sobre base aerofotogramétrica o satelital, debidamente georreferenciada en coordenadas de la proyección Universal Transversal de Mercator (UTM), según Datum 56, Datum 69 ó Datum WGS 84.
+Los planos que conformen un Instrumento de Planificación Territorial deberán confeccionarse sobre base aerofotogramétrica o satelital, debidamente georreferenciada.
 
-Los parámetros de organización y representación de la información contenida en los Instrumentos de Planificación Territorial, tanto en su versión gráfica como digital, deberán elaborarse y modificarse de conformidad a las disposiciones de organización y representación de la información que se señalen en el Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial vigente.
+La representación gráfica de los planos de los Instrumentos de Planificación Territorial, tanto en su versión impresa como digital, deberá elaborarse de conformidad a las simbologías y los tramos que se señalen en el Patrón Nacional para la Representación de Instrumentos de Planificación Territorial.
 
 El Patrón Nacional para la Elaboración de Instrumentos de Planificación Territorial se aprobará mediante Resolución del Ministerio de Vivienda y Urbanismo.
 
@@ -1128,43 +1132,41 @@ De la planificación urbana intercomunal
 
 Cuando esta unidad sobrepase los 500.000 habitantes, le corresponderá la categoría de área metropolitana para los efectos de su planificación.
 
-El ámbito propio de este nivel de planificación territorial será el siguiente:
+El ámbito propio de acción de este nivel de planificación territorial será el siguiente:
 
-1. La definición de los límites de extensión urbana, para los efectos de diferenciar el área urbana del resto del territorio, que se denominará área rural.
+1. La definición del límite del territorio comprendido por el respectivo Plan Regulador Intercomunal.
 
-2. La determinación de las relaciones viales intercomunales, mediante el trazado de las vías expresas y troncales.
+2. En el área urbana:
 
-3. La determinación de una zonificación general, en que se contemplen las construcciones e instalaciones de alto impacto en relación al resto de las actividades urbanas. En ella se incluirán, entre otras, las zonas o condiciones a cumplir para la instalación de industrias molestas y peligrosas; los vertederos de basura y las instalaciones de alto riesgo, como las que involucren radioactividad, almacenamiento de explosivos o productos inflamables, químicos tóxicos, o residuos industriales o mineros.
+a) La definición de los límites de extensión urbana, para los efectos de diferenciar el área urbana del resto del territorio, que se denominará área rural.
 
-4. La determinación de las áreas de desarrollo prioritario, para los efectos de orientar la inversión en materia de infraestructura urbana.
+b) La clasificación de la red vial pública, mediante la definición de las vías expresas y troncales, así como su asimilación, de conformidad con el inciso segundo del artículo 2.3.1. de esta Ordenanza.
 
-5. La fijación de densidades promedio para los centros urbanos, preferentemente diferenciadas por comuna, para la confección o modificación de los planes reguladores comunales.
+c) Los terrenos destinados a vías expresas, troncales y parques de nivel intercomunal, incluidos sus ensanches, afectos a declaratoria de utilidad pública en conformidad al artículo 59 de la Ley General de Urbanismo y Construcciones.
 
-6. La fijación de los porcentajes mínimos de superficie urbana, preferentemente diferenciados por comuna, que deberán contemplarse en la elaboración de los respectivos Planes Reguladores Comunales, para dar cabida a la localización de equipamiento.
+d) Las normas urbanísticas para las edificaciones e instalaciones destinadas a infraestructuras de impacto intercomunal.
 
-7. La determinación de las áreas verdes de nivel intercomunal.
+e) Las normas urbanísticas que deberán cumplir las actividades productivas de impacto intercomunal.
 
-Asimismo, los Planes Reguladores Intercomunales, indistintamente con los Planes Reguladores Comunales, podrán establecer, en su respectivo ámbito territorial, fundadamente a través de estudios, lo siguiente:
+f) La fijación de las densidades promedio y las densidades máximas que podrán establecerse en los planes reguladores comunales para su elaboración o modificación, preferentemente diferenciadas por comunas o sectores de éstas.
 
-a) La determinación de áreas de riesgo, por
+g) La definición del uso de suelo de área verde de nivel intercomunal.
 
-constituir un peligro para los
+h) La definición de las áreas de riesgo o zonas no edificables de nivel intercomunal, de conformidad al artículo 2.1.17. de esta Ordenanza.
 
-asentamientos humanos, conforme al
+Con todo, mediante estudios de mayor detalle, los planes reguladores comunales podrán precisar o disminuir dichas áreas de riesgo y zonas no edificables.
 
-#### Artículo 2
+i) El reconocimiento de áreas de protección de recursos de valor natural y patrimonial cultural, de conformidad al artículo 2.1.18. de esta Ordenanza, cuando corresponda.
 
-1.17. de este mismo Capítulo.
+3. En el área rural:
 
-b) La determinación de áreas de protección
+a) La definición de las áreas de riesgo o zonas no edificables de nivel intercomunal, de conformidad al artículo 2.1.17. de esta Ordenanza.
 
-ambiental de recursos de valor natural, en
+b) El reconocimiento de áreas de protección de recursos de valor natural y patrimonial cultural de conformidad al artículo 2.1.18. de esta Ordenanza, cuando corresponda.
 
-conformidad al artículo 2.1.18. de este
+c) La definición de subdivisión predial mínima en los casos de los Planes Reguladores Metropolitanos de Santiago, Valparaíso y Concepción.
 
-mismo Capítulo.
-
-Con todo, mediante estudios de mayor detalle, los Planes Reguladores Comunales podrán precisar o disminuir las áreas afectas a riesgo o de protección ambiental señaladas en las letras a) y b) anteriores.
+d) Establecer los usos de suelo, para los efectos de la aplicación del artículo 55º de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2
 
@@ -1522,35 +1524,39 @@ Disposiciones complementarias
 
 #### Artículo 2
 
-1.17. En los Instrumentos de Planificación Territorial que corresponda podrán definirse áreas de riesgo, cuando proceda y previo estudio específico, por constituir un peligro potencial para los asentamientos humanos.
+1.17. En los planes reguladores podrán definirse áreas restringidas al desarrollo urbano, por constituir un peligro potencial para los asentamientos humanos.
 
-En dichas áreas de riesgo se determinarán zonas no edificables o de condiciones restringidas de edificación.
+Dichas áreas se denominarán "zonas no edificables" o bien, "áreas de riesgo", según sea el caso, como se indica a continuación:
 
-Por zonas no edificables o restringidas se entenderán aquellas áreas del territorio en las cuales, por razones fundadas, se limite determinado tipo de construcciones y se establezcan los requisitos y condiciones que deberán cumplirse para su utilización.
+Por "zonas no edificables", se entenderán aquellas que por su especial naturaleza y ubicación no son susceptibles de edificación, en virtud de lo preceptuado en el inciso primero del artículo 60º de la Ley General de Urbanismo y Construcciones. En estas áreas sólo se aceptará la ubicación de actividades transitorias.
 
-Ambos tipos de zonas se determinarán en base a las siguientes características:
+Por "áreas de riesgo", se entenderán aquellos territorios en los cuales, previo estudio fundado, se limite determinado tipo de construcciones por razones de seguridad contra desastres naturales u otros semejantes, que requieran para su utilización la incorporación de obras de ingeniería o de otra índole suficientes para subsanar o mitigar tales efectos.
 
-1. Zonas inundables o potencialmente inundables, debido entre otras causas a proximidad de lagos, ríos, esteros, quebradas, cursos de agua no canalizados, napas freáticas y pantanos.
+Para autorizar proyectos a emplazarse en áreas de riesgo, se requerirá que se acompañe a la respectiva solicitud de permiso de edificación un estudio fundado, elaborado por profesional especialista y aprobado por el organismo competente, que determine las acciones que deberán ejecutarse para su utilización, incluida la Evaluación de Impacto Ambiental correspondiente conforme a la Ley 19.300 sobre Bases Generales del Medio Ambiente, cuando corresponda. Este tipo de proyectos podrá recibirse parcial o totalmente en la medida que se hubieren ejecutado las acciones indicadas en el referido estudio. En estas áreas, el plan regulador establecerá las normas urbanísticas aplicables a los proyectos una vez que cumplan con los requisitos establecidos en este inciso.
+
+Las "zonas no edificables" corresponderán a aquellas franjas o radios de protección de obras de infraestructura peligrosa, tales como aeropuertos, helipuertos, torres de alta tensión, embalses, acueductos, oleoductos, gasoductos, u otras similares, establecidas por el ordenamiento jurídico vigente.
+
+Las "áreas de riesgo" se determinarán en base a las siguientes características:
+
+1. Zonas inundables o potencialmente inundables, debido entre otras causas a la proximidad de lagos, ríos, esteros, quebradas, cursos de agua no canalizados, napas freáticas o pantanos.
 
 2. Zonas propensas a avalanchas, rodados, aluviones o erosiones acentuadas.
 
-3. Zonas de actividad volcánica, ríos de lava o fallas geológicas.
+3. Zonas con peligro de ser afectadas por actividad volcánica, ríos de lava o fallas geológicas.
 
-4. Zona, franja o radio de protección de obras de infraestructura peligrosa, tales como aeropuertos, helipuertos públicos, torres de alta tensión, embalses, acueductos, oleoductos, gaseoductos y estanques de almacenamiento de productos peligrosos.
-
-En los casos que la restricción para edificar se deba a razones de seguridad contra desastres naturales u otros motivos subsanables mediante la incorporación de obras de ingeniería u otras suficientes para tales efectos, un proyecto determinado podrá ser autorizado si de acuerdo a estudios fundados, elaborados por profesional especialista, cumple los requisitos y condiciones establecidas para ello, incluida la evaluación de impacto ambiental correspondiente.
+4. Zonas o terrenos con riesgos generados por la actividad o intervención humana.
 
 #### Artículo 2
 
-1.18. En los Instrumentos de Planificación Territorial que corresponda podrán definirse áreas de protección de recursos de valor natural o patrimonial cultural, cuando proceda y previo estudio fundado.
+1.18. Los instrumentos de planificación territorial deberán reconocer las áreas de protección de recursos de valor natural, así como definir o reconocer, según corresponda, áreas de protección de recursos de valor patrimonial cultural.
 
-En dichas áreas de protección se determinarán zonas no edificables o de condiciones restringidas de edificación.
+Para estos efectos, se entenderán por "áreas de protección de recursos de valor natural" todas aquellas en que existan zonas o elementos naturales protegidos por el ordenamiento jurídico vigente, tales como: bordes costeros marítimos, lacustres o fluviales, parques nacionales, reservas nacionales y monumentos naturales.
 
-Por zonas no edificables o restringidas se entenderán aquellas definidas en el inciso tercero del artículo 2.1.17.
+En los casos indicados en el inciso anterior, los instrumentos de planificación territorial podrán establecer las condiciones urbanísticas que deberán cumplir las edificaciones que se pretendan emplazar en dichas áreas. Estas condiciones deberán ser compatibles con la protección oficialmente establecida para dichas áreas.
 
-Por recursos de valor natural se entenderán los bordes costeros marítimos, lacustres o fluviales, los parques nacionales, reservas nacionales, monumentos naturales, altas cumbres y todas aquellas áreas o elementos naturales específicos protegidos por la legislación vigente.
+Se entenderán por "áreas de protección de recursos de valor patrimonial cultural" aquellas zonas o inmuebles de conservación histórica que defina el plan regulador comunal e inmuebles declarados monumentos nacionales en sus distintas categorías, los cuales deberán ser reconocidos por el instrumento de planificación territorial que corresponda.
 
-Por recursos de valor patrimonial cultural se entenderán aquellas áreas o construcciones declaradas de conservación histórica, incluidas aquellas declaradas zonas típicas y Monumentos Nacionales.
+Tratándose de áreas de protección de recursos de valor patrimonial cultural, los instrumentos de planificación territorial deberán establecer las normas urbanísticas aplicables a las ampliaciones, reparaciones, alteraciones u obras menores que se realicen en las edificaciones existentes, así como las aplicables a las nuevas edificaciones que se ejecuten en inmuebles que correspondan a esta categoría, cuando corresponda. Estas normas deberán ser compatibles con la protección oficialmente establecida para dichas áreas.
 
 #### Artículo 2
 
@@ -1600,13 +1606,9 @@ Asimismo, si el citado predio estuviere afecto por el Instrumento de Planificaci
 
 #### Artículo 2
 
-1.22. Los Instrumentos de Planificación Territorial que fijen densidad, deberán expresarla en habitantes por hectárea y se entenderá que su equivalencia o conversión en número de viviendas será igual al valor que resulte de dividir la densidad establecida por el coeficiente 4.
+1.22. Los Instrumentos de Planificación Territorial que fijen densidad, deberán expresarla en densidad bruta en habitantes por hectárea y se entenderá que su equivalencia o conversión en número de viviendas será igual al valor que resulte de dividir la densidad establecida por el coeficiente 4.
 
-Sin perjuicio de lo anterior, para los efectos de la densidad aplicable a los conjuntos de viviendas que se desarrollen en edificación colectiva, con excepción de los conjuntos de viviendas sociales, su equivalencia o conversión en número de viviendas será igual al valor que resulte de dividir la densidad establecida en el Instrumento de Planificación Territorial por 2 cuando la superficie total de la vivienda no supere los 35 m² y no considere más de 2 recintos habitables y por 1 cuando la superficie total de la vivienda no supere los 25 m² y no considere más de 1 recinto habitable.
-
-Para estos efectos, la superficie de terreno a considerar será la del predio en que se emplazará el proyecto, sin descontar áreas declaradas de utilidad pública que pudieran afectarlo, ni superficies de terreno que pudieran anexársele por distintos motivos.
-
-Cuando la declaratoria de utilidad pública por concepto de vialidad afecte al terreno en un porcentaje mayor que lo que debería entregar, para efectos de calcular la densidad neta se considerará el terreno total, restándole sólo el 30%.
+El parámetro de densidad establecido en los instrumentos de planificación territorial sólo se aplicará al destino de vivienda del tipo de uso de suelo residencial.
 
 #### Artículo 2
 
@@ -1644,7 +1646,7 @@ En los conjuntos de viviendas o edificios colectivos se admitirá, como parte de
 
 Cuando los Instrumentos de Planificación Territorial existentes se refieran a uso de vivienda o habitacional, éstos se asimilarán al uso Residencial que señala este artículo.
 
-El destino de vivienda o Residencial se entenderá siempre admitido, salvo que el respectivo Instrumento de Planificación Territorial lo prohíba en forma expresa.
+En los predios ubicados en zonas en que no esté permitido el uso de suelo residencial, se podrán localizar las viviendas necesarias para complementar la actividad permitida. En estos casos, la superficie construida total de las viviendas no podrá superar el 5% de la superficie total del predio.
 
 #### Artículo 2
 
@@ -1788,13 +1790,25 @@ contrario se considerarán como industria.
 
 #### Artículo 2
 
-1.30. El tipo de uso Espacio Público se refiere al sistema vial, a las plazas y áreas verdes públicas, en su calidad de bienes nacionales de uso público.
+1.30. El tipo de uso Espacio Público se refiere al sistema vial, a las plazas, parques y áreas verdes públicas, en su calidad de bienes nacionales de uso público.
 
-La Municipalidad podrá autorizar determinadas construcciones en las áreas verdes de uso público señaladas en los Instrumentos de Planificación Territorial, entendiéndose que éstas mantienen su carácter de tales, siempre que se trate de edificios de uso público o con destinos complementarios al área verde, su emplazamiento no involucre más del 5% del total del área verde y se ejecuten o garanticen las obras paisajísticas que establezca la respectiva Municipalidad, incluyendo la mantención de las mismas.
+La Municipalidad podrá autorizar determinadas construcciones en las áreas verdes y parques a que se refiere el inciso anterior, entendiéndose que éstas mantienen su carácter de tales, siempre y cuando:
 
-En zonas definidas por el Instrumento de Planificación Territorial como área verde de uso público que no se hubieren materializado como tales, la Municipalidad podrá autorizar construcciones hasta en el 10% de tales zonas, siempre que se trate de edificios del tipo señalado en el inciso anterior y simultáneamente se ejecute una parte del área verde no menor a 10 veces la superficie ocupada por la edificación, conforme a las condiciones de mantención y las especificaciones que para la nueva área verde determine el Municipio. En caso de edificaciones que ocupen íntegramente el porcentaje señalado, la superficie de área verde faltante para completar el requisito de 10 veces la superficie de la edificación deberá ser enterada en otra área verde de la comuna, según disponga la Municipalidad.
+1º: Se trate de edificaciones con destinos complementarios al área verde o destinadas a equipamiento,
 
-Las construcciones señaladas en los incisos precedentes podrán realizarse en forma parcial y sucesiva siempre que la suma de ellas, con las ya existentes, no sobrepase el porcentaje máximo consignado.
+2º: El área destinada a estos usos no sea superior al 5% del total del área verde o parque, y
+
+3º: Se ejecuten o garanticen las obras paisajísticas que establezca la respectiva Municipalidad, incluyendo la mantención de las mismas.
+
+Se deberá incluir en el porcentaje recién indicado todas las edificaciones proyectadas y existentes, las vías vehiculares internas necesarias para estos usos, con excepción de la definida en el instrumento de planificación territorial, si la hubiere, y las superficies destinadas a estacionamientos sobre el terreno y cualquier otro porcentaje admitido previamente por el instrumento de planificación territorial.
+
+En las áreas verdes o parques que correspondan a bienes nacionales de uso público y que no se hubieren materializado como tales, la Municipalidad podrá autorizar construcciones de hasta un 10% del total del área verde o parque, siempre que:
+
+a) Se trate de las edificaciones señaladas en el numeral 1º del inciso segundo de este artículo, y
+
+b) Simultáneamente se materialice una parte del área verde no menor a 10 veces la superficie ocupada por la edificación, conforme a las condiciones de mantención y las especificaciones que para la nueva área verde determine el Municipio.
+
+En caso de edificaciones que ocupen íntegramente el porcentaje señalado, la superficie de área verde faltante para completar el requisito indicado en la letra b) se cumplirá en otra área verde o parque existente en la comuna, según disponga la Municipalidad.
 
 INCISO ELIMINADO.
 
@@ -1860,23 +1874,19 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial se distinguirán cuatro escalas de equipamiento independientes de su clase. Estas escalas se dividirán de acuerdo a la carga de ocupación y cantidad de estacionamientos del equipamiento y su ubicación estará condicionada a la categoría de la vía que enfrentan y por la cual acceden. Las escalas son las siguientes:
+1.36. Para los efectos de la aplicación de los Instrumentos de Planificación Territorial, se distinguirán cuatro escalas de equipamiento, divididas según su carga de ocupación y ubicación respecto de la categoría de la vía que enfrentan. Dichas escalas son las siguientes:
 
-1. Equipamiento Mayor: El que contempla una carga de ocupación sobre las 4.000 personas y consulta más de 800 estacionamientos; en este caso, sólo se podrá ubicar en predios que enfrenten vías expresas.
+1. Equipamiento Mayor: El que contempla una carga de ocupación superior a 6.000 personas y sólo se podrá ubicar en predios que enfrenten vías expresas y troncales.
 
-2. Equipamiento Mediano: El que contempla una carga de ocupación de hasta 4.000 personas y no consulta más de 800 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías troncales o expresas.
+2. Equipamiento Mediano: El que contempla una carga de ocupación superior a 1.000 y hasta 6.000 personas y sólo se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
 
-También el que contemple una carga de ocupación de hasta 3.000 personas y no consulta más de 500 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías colectoras, troncales o expresas.
+3. Equipamiento Menor: El que contempla una carga de ocupación superior a 250 y hasta 1.000 personas y sólo se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
 
-3. Equipamiento Menor: El que contempla una carga de ocupación de hasta 1.000 personas y no consulta más de 250 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías de servicio, colectoras, troncales o expresas.
+4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y sólo se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
 
-4. Equipamiento Básico: El que contempla una carga de ocupación de hasta 250 personas y no consulta más de 50 estacionamientos; en este caso, se podrá ubicar en predios que enfrenten vías locales, de servicio, colectoras, troncales o expresas.
+Los Municipios podrán asimilar el equipamiento vecinal al equipamiento menor o al básico señalados en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13 de esta Ordenanza.
 
-En los casos que un proyecto no cumpla copulativamente con la carga de ocupación y número de estacionamientos que señalan los numerales del inciso primero de este artículo, la escala del equipamiento se definirá por la cantidad de estacionamientos que consulte el proyecto.
-
-Sin perjuicio de lo anterior, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de capacidad vial contenido en dicho instrumento de planificación.
-
-Los municipios podrán asimilar el equipamiento vecinal a las denominaciones de equipamiento menor o básico señalados en este artículo, al redefinir su localización conforme al inciso segundo del artículo 2.1.13.
+Por otra parte, las Municipalidades podrán aceptar equipamientos de mayor escala en vías de menor categoría, siempre que se indique en forma expresa en el Instrumento de Planificación Territorial y se encuentre avalado por el respectivo estudio de capacidad vial contenido en dicho instrumento de planificación.
 
 #### Artículo 2
 
@@ -2042,7 +2052,7 @@ Cuando se trate de "loteos con construcción simultánea", se seguirán las mism
 
 En estos casos, el propietario estará obligado a urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento.
 
-3. Cuando se trate de la división de un predio que está afecto a utilidad pública por el Instrumento de Planificación Territorial.
+3. Cuando se trate de la división de un predio que está afecto a utilidad pública por el Instrumento de Planificación Territorial y que no contemple aperturas de nuevas vías públicas por iniciativa del propietario; en caso contrario corresponderá a loteo.
 
 En tal caso, con anterioridad a que el Director de Obras Municipales autorice la enajenación de los sitios resultantes, el propietario deberá urbanizar y ceder, únicamente, la superficie del predio afecta a utilidad pública indicada en el citado instrumento, con un máximo del 30% de la superficie de éste.
 
@@ -2150,7 +2160,9 @@ Las superficies a ceder para áreas verdes podrán disponerse de dos formas:
 
 En los casos de reposiciones de las veredas o calzadas, se deberán construir dichos rebajes de soleras con sus respectivas rampas, permitiendo la continuidad de la circulación peatonal.
 
-2. Las veredas deberán consultar espacios para el desplazamiento de personas con discapacidad en sillas de ruedas. Dichos espacios deberán ser de trazados preferentemente rectos; con pavimento liso; su recorrido deberá estar libre de entrabamientos y obstáculos, y las juntas de dilatación no podrán superar los dos centímetros de ancho.
+2. Las veredas y las circulaciones peatonales deberán facilitar las condiciones para el desplazamiento de personas con discapacidad. El recorrido deberá estar libre de entrabamientos y obstáculos, y las juntas de dilatación no podrán superar los dos centímetros de ancho.
+
+En los casos en que se presenten desniveles del espacio público salvados por escaleras se podrán intercalar rampas antideslizantes, las que deberán cumplir con lo establecido en el numeral 4. del artículo 4.1.7. de esta Ordenanza.
 
 3. Los dispositivos de control de los semáforos de accionamiento manual, que se consulten en las veredas, en los cruces peatonales de vías de tránsito vehicular, deberán ubicarse a una altura máxima de 0,90 m respecto de la vereda.
 
@@ -2462,11 +2474,19 @@ Tratándose de proyectos relacionados con Monumentos Nacionales, zonas típicas,
 
 4.2. Los estacionamientos subterráneos en predios de dominio privado serán considerados como una actividad complementaria a cualquier uso de suelo, sin restricción respecto de su localización, salvo que se trate de zonas en que estén expresamente prohibidos en el Plan Regulador Comunal o Seccional.
 
-Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación o en otros predios que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso, la distancia entre los accesos de uno y otro inmueble, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 300 m tratándose de edificios de vivienda y 600 m en caso de otros usos, debiendo el propietario acreditar, ante la Dirección de Obras Municipales, la compra, el arriendo o el título que le permite la ocupación de dichos estacionamientos.
+Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso deberá cumplirse con las disposiciones señaladas en este artículo.
 
-Los estacionamientos destinados al cumplimiento de esta exigencia, emplazados en un predio distinto al del edificio que generó la obligación, podrán dejar de estar adscritos a esta última en el evento que el Instrumento de Planificación Territorial que hizo exigible la obligación se modifique dejándola sin efecto.
+Para los casos de estacionamientos ubicados en otros predios, la distancia entre los accesos de uno y otro inmueble, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 300 m tratándose de edificios de vivienda y 600 m en caso de otros usos.
 
-Los estacionamientos exigidos deberán tener un ancho mínimo de 2,5 m, un largo no inferior a 5 m y una altura libre mínima de 2 m bajo vigas o elementos horizontales. Dicho ancho mínimo podrá ser disminuido hasta en un 10% por elementos estructurales, siempre que no afecte a más de la mitad del largo requerido.
+Tratándose del cumplimiento de las exigencias de estacionamientos en otros predios, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos.
+
+Los edificios destinados exclusivamente a equipamiento podrán cumplir la exigencia de estacionamientos a que se refiere este artículo en un mismo predio, siempre que los respectivos equipamientos funcionen, sucesivamente, en distintos horarios, de modo que sea posible su uso compartido. Para tal efecto, deberá acreditarse ante la Dirección de Obras Municipales el arriendo u otro título que permita la ocupación compartida. Con todo el Plan Regulador Comunal podrá prohibir el uso compartido de que trata este inciso.
+
+El cumplimiento de los requisitos indicados en este artículo deberá acreditarse ante la Dirección de Obras Municipales previamente al otorgamiento del permiso de edificación respectivo.
+
+Los estacionamientos destinados al cumplimiento de estas exigencias, emplazados en un predio distinto al del edificio que generó la obligación, podrán dejar de estar adscritos al proyecto que generó la obligación en el evento que el Instrumento de Planificación Territorial que hizo exigible la obligación se modifique, dejándola sin efecto o disminuya la exigencia de estacionamientos.
+
+Los estacionamientos contemplados en un proyecto deberán tener un ancho mínimo de 2,5 m, un largo no inferior a 5 m y una altura libre mínima de 2 m bajo vigas o elementos horizontales. Dicho ancho mínimo podrá reducirse hasta en un 10% por elementos estructurales, siempre que no afecte a más de la mitad del largo requerido.
 
 De la dotación mínima de estacionamientos que deba proyectarse, deberán habilitarse para el uso de personas con discapacidad, los estacionamientos resultantes de la aplicación de la tabla contenida en este inciso, con un mínimo de un estacionamiento, salvo que se trate de viviendas unifamiliares o cambio de destino de las mismas. Estos estacionamientos tendrán un ancho mínimo de 3,6 metros, de tal manera de permitir el descenso y ascenso a una zona de circulación libre y segura, la que se deberá demarcar de color amarillo de 1,10 metros de ancho. Esta zona podrá ser común para otros estacionamientos de personas con discapacidad y estará incluida en el ancho de 3,6 metros indicado en el presente inciso. Estos estacionamientos deberán singularizarse en los planos del proyecto y su comunicación con el resto del edificio, así como el acceso al espacio público, deberá efectuarse en concordancia con lo establecido en el artículo 4.1.7. de esta Ordenanza.
 
@@ -2496,7 +2516,7 @@ En los edificios colectivos de vivienda deberá contemplarse al menos un estacio
 
 Los estacionamientos requeridos podrán disponerse como estacionamientos dobles, esto es, uno detrás de otro dispuestos en forma perpendicular a la circulación vehicular, en hasta un 30% del total.
 
-Las características de los estacionamientos que excedan la cuota mínima exigida no estarán reguladas como las anteriores.
+INCISO FINAL DEROGADO.
 
 #### Artículo 2
 
@@ -2624,9 +2644,9 @@ En los casos que el Plan Regulador Comunal o Seccional no consulte disposiciones
 
 1. La longitud del adosamiento no podrá exceder del 40% de la longitud total del deslinde común con el vecino. Cuando la edificación existente sea pareada o continua, a la longitud total de dicho deslinde debe descontarse el tramo ocupado por la parte pareada o continua. El adosamiento no podrá en ningún caso ocupar el antejardín. El Plan Regulador Comunal podrá determinar la distancia mínima de los adosamientos respecto de la línea de edificación.
 
-El porcentaje de adosamiento podrá excederse, tanto para construcciones nuevas como para regularizaciones, con autorización expresa del propietario del predio vecino, suscrita ante Notario.
+El porcentaje de adosamiento podrá excederse, tanto para construcciones nuevas como para regularizaciones, con autorización expresa del propietario del predio vecino, suscrita ante Notario. No obstante, cuando el adosamiento coincida con una edificación existente aprobada con mayor porcentaje de adosamiento, se podrá contemplar una mayor longitud, siempre que no sobrepase la edificación vecina existente.
 
-2. La altura del adosamiento en el deslinde no sobrepasará los 3,5 m. No obstante, cuando el adosamiento coincida con una edificación existente aprobada, de mayor altura, ubicada en el predio vecino a partir del deslinde común, se podrá contemplar una mayor altura y longitud para dicho adosamiento, siempre que no sobrepase la de la edificación vecina existente.
+2. La altura del adosamiento en el deslinde no sobrepasará los 3,5 m. No obstante, cuando el adosamiento coincida con una edificación existente aprobada, de mayor altura, ubicada en el predio vecino a partir del deslinde común, se podrá contemplar una mayor altura para dicho adosamiento, siempre que no sobrepase la de la edificación vecina existente.
 
 3. Las alturas se medirán desde el nivel del suelo natural. Si el nivel de los predios fuere inclinado, la altura máxima permitida deberá medirse desde el punto promedio entre aquellos en que los extremos de la construcción que se adosa corten al deslinde a nivel de terreno natural. Si los predios no se encontraren en un mismo plano, la altura máxima permitida se medirá desde el punto que fije la diferencia media de altura entre los predios.
 
@@ -2776,7 +2796,7 @@ b) Que se ejecute un proyecto de mejoramiento en el espacio público que enfrent
 
 Sólo se podrán hacer las exigencias a que alude la letra b) del inciso anterior, cuando las Municipalidades hayan establecido las características y el diseño de los proyectos de mejoramiento del espacio público mediante planos seccionales.
 
-Las obras que se deban realizar en conformidad al presente artículo deberán contar con recepción final previa o conjuntamente con las obras de edificación.
+Las obras que se deban realizar en conformidad al presente artículo deberán ejecutarse o garantizarse y contar con recepción final previa o conjuntamente con las obras de edificación.
 
 #### Artículo 2
 
@@ -3056,9 +3076,13 @@ Los planos indicados en los números 5 y 6 de este artículo podrán omitirse si
 
 1.3. Para la fusión de dos o más terrenos se presentará una solicitud en que el propietario declare, bajo su exclusiva responsabilidad, ser titular del dominio de los lotes que desea fusionar y un plano firmado por éste y por el arquitecto proyectista, en donde se grafique la situación anterior y la propuesta, indicando los lotes involucrados y sus roles, sus medidas perimetrales, la ubicación de los predios y un cuadro de superficies. Revisados dichos antecedentes, el Director de Obras Municipales aprobará sin más trámite la fusión, autorizando su archivo en el Conservador de Bienes Raíces respectivo.
 
-Para la aprobación de anteproyectos que involucren dos o más predios no se requerirá efectuar las fusiones o modificaciones de deslindes que se contemplen. En la resolución aprobatoria del anteproyecto se consignará la obligación de solicitar dichas acciones en forma previa o conjunta con la solicitud de permiso.
+Para la aprobación de anteproyectos que involucren dos o más predios, no se requerirá efectuar las fusiones, subdivisiones o rectificaciones de deslindes que se contemplen. En la resolución aprobatoria del anteproyecto se consignará la obligación de solicitar dichas acciones en forma previa o conjunta con la solicitud de permiso, siendo requisito para otorgar éste que se haya perfeccionado la actuación correspondiente.
 
-Los derechos municipales a cobrar por la revisión del plano de fusión que trata este artículo serán el equivalente a otros servicios que indica el número 9 de la tabla del artículo 130 de la Ley General de Urbanismo y Construcciones.
+Para la subdivisión y fusión simultánea de dos o más predios, será requisito que el resto del predio que se subdivide cumpla con la superficie predial mínima que establezca el instrumento de planificación territorial, no siendo aplicable este requisito al retazo que se fusionará en el mismo acto.
+
+En los casos que señala el inciso precedente, se presentará una solicitud suscrita por el propietario de los predios involucrados, en la que declare, bajo su exclusiva responsabilidad ser titular del dominio del predio respectivo, acompañando un plano firmado por éste y por el arquitecto proyectista, en el que se grafique la situación anterior, la intermedia y la que se aprueba, indicando los lotes involucrados, sus roles, sus medidas perimetrales, la ubicación de los predios y un cuadro de superficies.
+
+Los derechos municipales a cobrar por la revisión del plano de fusión de que trata este artículo corresponderán a los indicados en el número 9 de la tabla del artículo 130º de la Ley General de Urbanismo y Construcciones. En el caso señalado en el inciso tercero del presente artículo, corresponderá, además, el cobro por concepto de subdivisión, indicado en el número 1 de la tabla antes referida.
 
 #### Artículo 3
 
@@ -3207,6 +3231,10 @@ Para la determinación de los derechos municipales se estará al procedimiento i
 7. Fotocopia de los permisos que se solicita modificar.
 
 Una vez aprobados, y para todos los efectos legales, los nuevos antecedentes reemplazarán a los documentos originales.
+
+En caso de modificaciones de proyectos de loteo que involucren aumento o disminución de los sitios generados, deberá acompañarse un nuevo cálculo de cesiones.
+
+En caso de loteos que cuenten con recepciones parciales de las obras de urbanización, sólo podrán modificarse las partes que no hubieren sido recepcionadas.
 
 ## Capítulo 2.
 
@@ -3358,7 +3386,11 @@ De las plantaciones y obras de ornato
 
 #### Artículo 3
 
-2.11. El urbanizador deberá ejecutar a su costa las plantaciones y obras de ornato correspondientes, como parte de las obras de urbanización señaladas en el artículo 2.2.4. de esta Ordenanza, en conformidad a las disposiciones que al respecto establezca el Plan Regulador Comunal o Seccional, sin perjuicio de las normas complementarias que sobre mobiliario urbano y elementos similares puedan señalar los planos seccionales.
+2.11. El urbanizador deberá ejecutar a su costa las plantaciones y obras de ornato correspondientes, como parte de las obras de urbanización señaladas en el artículo 2.2.4. de esta Ordenanza, referentes a mobiliario urbano, iluminación, pavimentos peatonales y vegetación adecuada al clima, incluida su correspondiente solución de riego, sin perjuicio de las normas que sobre estas materias puedan contemplar las Ordenanzas Municipales.
+
+De no existir dichas disposiciones, las características de las áreas verdes serán definidas por el arquitecto autor del proyecto, debiendo contar a lo menos con mobiliario urbano, iluminación, pavimentos peatonales y vegetación adecuada al clima, incluida su correspondiente solución de riego.
+
+En ambos casos, será necesaria la presentación de un proyecto que señale las obras e instalaciones indicadas en este artículo, las que serán aprobadas y recibidas por la Dirección de Obras Municipales respectiva, de conformidad a lo establecido en el artículo 134º de la Ley General de Urbanismo y Construcciones.
 
 ## Capítulo 3
 
@@ -3611,6 +3643,8 @@ Cuando se requieran juntas estructurales o de dilatación, en la superficie de c
 Todo establecimiento educacional sin importar su carga de ocupación, como asimismo, todo edificio de uso público, sin importar su carga de ocupación que considere al menos un recinto con carga de ocupación superior a 50 personas, tales como: salas de reuniones, teatros, hoteles, restaurantes, clínicas, casinos, etc., deberán contar con un recinto destinado a servicio higiénico con acceso independiente para personas con discapacidad, para uso alternativo de ambos sexos, de dimensión tal, que permita consultar un inodoro, un lavamanos, barras de apoyo y además el ingreso y maniobra de una silla de ruedas con un espacio que permita giros en 180° de un diámetro mínimo de 1,50 metros. Este recinto podrá estar incluido dentro de la dotación mínima de artefactos y servicios higiénicos considerados en la presente Ordenanza.
 
 14. Cuando existan teléfonos de uso público, al menos 1 de cada 5 de ellos, con un mínimo de 1, deberá permitir el uso por personas en sillas de ruedas.
+
+Tratándose de inmuebles definidos como áreas de protección de recursos de valor patrimonial cultural, el Director de Obras Municipales podrá, previa solicitud fundada por parte del propietario, autorizar excepciones a las disposiciones de este artículo. Dicha solicitud deberá fundarse en aspectos estructurales, constructivos o que afecten al valor patrimonial cultural del inmueble.
 
 #### Artículo 4
 
@@ -4758,33 +4792,35 @@ Se exceptúan de lo indicado en el inciso anterior los edificios que cuenten con
 
 3.7. Todo edificio de 7 o más pisos deberá tener, a lo menos, una «zona vertical de seguridad» que, desde el nivel superior hasta el de la calle, permita a los usuarios protegerse contra los efectos del fuego, humos y gases y evacuar masiva y rápidamente el inmueble.
 
+Sin perjuicio de lo establecido en el inciso anterior, todo edificio que contemple más de un piso subterráneo, deberá tener, a lo menos, una "zona vertical de seguridad inferior", que permita comunicar el último nivel del subterráneo con un espacio libre exterior o con el nivel de acceso del edificio.
+
 Sin perjuicio de los requisitos específicos que establezcan las normas técnicas oficiales correspondientes, serán exigibles para las zonas de seguridad de dichos edificios, las siguientes normas generales:
 
 1. La distancia máxima desde la puerta de acceso de un departamento u oficina, hasta el ingreso a una zona vertical de seguridad del mismo piso será de 40 m.
 
 2. El diseño, construcción y terminaciones de las zonas verticales de seguridad y su continuidad hasta el egreso al exterior, a nivel de la calle, deben garantizar una resistencia al fuego correspondiente a la que se indica en la tabla del artículo 4.3.3. y facilitar el ingreso y desplazamiento del personal de bomberos con su material, en caso de incendio.
 
-3. Las zonas verticales de seguridad deben estar dotadas de sistemas de iluminación de emergencia y de ventilación o presurización en caso de escaleras interiores, que permitan a los usuarios evacuar el edificio, sin peligro de verse afectados por los humos y gases generados por el incendio, aun cuando el suministro normal de energía eléctrica sea interrumpido.
+3. Las zonas verticales de seguridad deben estar dotadas de sistemas de iluminación de emergencia y de presurización en caso de escaleras interiores, que permitan a los usuarios evacuar el edificio, sin peligro de verse afectados por los humos y gases generados por el incendio, aun cuando el suministro normal de energía eléctrica sea interrumpido.
 
 4. Las puertas de acceso o egreso, en todos los pisos, deberán ser de cierre automático y con resistencia a la acción del fuego, tanto la hoja como sus componentes, correspondientes a la clase F-60. Todas ellas deberán estar señalizadas con el distintivo "Salida de Emergencia" por la cara que corresponda.
 
-PARRAFO SUPRIMIDO.
+5. En los edificios que consulten zonas verticales de seguridad, tanto superiores como inferiores, éstas deberán evacuar hacia el nivel de acceso del edificio no teniendo continuidad entre ellas.
 
-5. Los edificios que contemplen más de un piso subterráneo deberán consultar una zona vertical de seguridad inferior, que comunique hacia un espacio libre exterior o hacia el nivel de acceso del edificio, desde el último nivel de subterráneo.
+6. Las zonas verticales de seguridad no deberán contener ningún tipo de instalaciones en su interior, tales como: cuarto de útiles de limpieza, ductos de basura, de aire acondicionado, de conducciones de gas o electricidad, gabinete con bocas de salidas de red húmeda o red seca y ascensores o montacargas. Se exceptúan las instalaciones selladas de agua y las instalaciones de emergencia propias de la caja de escalera, tales como presurización e iluminación, siempre que no afecten el ancho mínimo requerido.
 
-6. En los edificios que consulten zonas verticales de seguridad, tanto superiores como inferiores, éstas deberán evacuar hacia el nivel de acceso del edificio no teniendo continuidad entre ellas.
+7. Los edificios de 10 o más pisos de altura deberán disponer de conexiones a la red seca y a la red húmeda, en cada piso, en un vestíbulo que tendrá las siguientes características:
 
-7. Las zonas verticales de seguridad no deberán contener ningún tipo de instalaciones en su interior, tales como: cuarto de útiles de limpieza, ductos de basura, de aire acondicionado, de conducciones de gas o electricidad, gabinete con bocas de salidas de red húmeda o red seca y ascensores o montacargas. Se exceptúan las instalaciones selladas de agua y las instalaciones de emergencia propias de la caja de escalera, tales como presurización e iluminación, siempre que no afecten el ancho mínimo requerido.
+a) Será contiguo a la escalera presurizada y de pasada obligatoria;
 
-8. Los edificios de 10 o más pisos de altura deberán disponer las conexiones de la red seca y la red húmeda, en cada piso, en un vestíbulo contiguo a la escalera presurizada, protegido contra el fuego por muros con igual resistencia que los muros de la escalera. Dicho vestíbulo tendrá un ancho libre no inferior a 1,10 m y un largo libre no inferior a 1,60 m, medido en el sentido del recorrido y su puerta de entrada deberá tener las mismas características que la puerta de entrada a la escalera, conforme al número 4. anterior. En dicho vestíbulo protegido podrán disponerse instalaciones del edificio siempre que no afecten las medidas libres requeridas. Podrán eximirse de contemplar vestíbulo protegido los edificios que cumplan las siguientes condiciones:
+b) Estará protegido contra el fuego por muros con igual resistencia que los muros de la escalera;
 
-a) Que desde la escalera se acceda a un área de uso común con un ancho mínimo de 1,40 m y una superficie de al menos 10,0 m2.
+c) Tendrá un ancho libre no inferior a 1,10 m y un largo libre no inferior a 1,60 m, medidos en el sentido del recorrido;
 
-b) Que las salidas de la red seca y la red húmeda se ubiquen en dicha área común a no más de 2,0 m de la puerta de la escalera, separadas por al menos 4,0 m de la puerta de cualquier unidad funcional independiente.
+d) Su puerta de entrada deberá tener las mismas características señaladas en el número 4. anterior, y
 
-9. Los ductos de toma de aire de los equipos de presurización de las escaleras deberán contemplar una resistencia mínima al fuego de F-60 en toda su extensión.
+e) En él podrán disponerse instalaciones de agua potable del edificio, siempre que no afecten las medidas libres requeridas.
 
-> **Nota.** La letra b) del Nº11 del Decreto 183, vivienda, publicado 22.03.2005, modifica el presente artículo en el sentido de reemplazar en su numeral 4. el guarismo "F-30" por "F-60". Dicha modificación, de acuerdo al artículo transitorio del citado decreto comenzará a regir una vez transcurrido un año desde la fecha de su publicación.
+8. Los ductos de toma de aire de los equipos de presurización de las escaleras deberán contemplar una resistencia mínima al fuego de F-60 en toda su extensión.
 
 #### Artículo 4
 
@@ -5888,6 +5924,8 @@ HOTELES, RESIDENCIALES, HOGARES Y HOSPEDERIAS
 
 9.14. Todo edificio destinado a hotel con capacidad para más de 50 camas deberá consultar al menos una habitación con acceso a un baño privado habilitado para el uso de personas con discapacidad en sillas de ruedas.
 
+Los hoteles que tengan piscinas, deberán contar con dispositivos adecuados para que las personas con discapacidad accedan a ellas. Los camarines y baños existentes en los recintos donde se ubiquen las piscinas deberán tener la superficie suficiente que permita maniobrar una silla de ruedas.
+
 #### Artículo 4
 
 9.15. Derogado.
@@ -6462,7 +6500,7 @@ ESTABLECIMIENTOS INDUSTRIALES O DE BODEGAJE
 
 #### Artículo 4
 
-14.3. Los establecimientos a que se refiere este Capítulo deberán cumplir con todas las demás disposiciones de la presente Ordenanza que les sean aplicables y sólo podrán establecerse en los emplazamientos que determine el instrumento de planificación territorial correspondiente, y a falta de éste, en los lugares que determine la autoridad municipal previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo y del Servicio de Salud del Ambiente, respectivos.
+14.3. Los establecimientos a que se refiere este Capítulo deberán cumplir con todas las demás disposiciones de la presente Ordenanza que les sean aplicables y sólo podrán establecerse en los emplazamientos que determine el instrumento de planificación territorial correspondiente, y a falta de éste, en los lugares que determine la autoridad municipal previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo y Secretaría Regional Ministerial de Salud, respectivas.
 
 #### Artículo 4
 
@@ -6549,6 +6587,8 @@ DE LOS PERMISOS DE EDIFICACION Y SUS TRAMITES
 #### Artículo 5
 
 1.1. Para construir, reconstruir, reparar, alterar, ampliar o demoler un edificio, o ejecutar obras menores, se deberá solicitar permiso del Director de Obras Muncipales respectivo.
+
+Tratándose de regularizaciones de edificaciones construidas con anterioridad al 31 de julio de 1959, sólo se exigirá el cumplimiento de las disposiciones de los planes reguladores referidas a áreas de riesgo o protección, declaraciones de utilidad pública y uso de suelo, así como las normas técnicas de habitabilidad, seguridad, estabilidad y de las instalaciones interiores de electricidad y, cuando corresponda, de agua potable, alcantarillado y gas, de conformidad al procedimiento establecido en la letra B. del numeral 2. del artículo 5.1.4. de esta Ordenanza.
 
 #### Artículo 5
 
@@ -7074,19 +7114,23 @@ En el mismo período señalado en el inciso anterior, el propietario podrá modi
 
 #### Artículo 5
 
-1.20. Si durante el curso de la ejecución de una obra cesare o desistiere en sus funciones alguno o algunos de los profesionales competentes que hayan suscrito el legajo de antecedentes sancionado por el permiso respectivo, el propietario estará obligado a informar de inmediato este hecho a la Dirección de Obras Municipales, indicando la fecha del cese o desistimiento de funciones. No se podrá proseguir la ejecución de la obra, en tanto no haya sido nominado el nuevo profesional responsable.
+1.20. El propietario informará en forma inmediata a la Dirección de Obras Municipales, el cese o desistimiento de funciones de el o de los profesional(es) responsable(s) que haya(n) suscrito el legajo de antecedentes, ocurrido durante la tramitación de una autorización o permiso ante la Dirección de Obras Municipales o con posterioridad a dicha autorización o permiso. En su aviso, el propietario indicará la fecha del cese o desistimiento de funciones. Mientras no se haya nominado el nuevo profesional responsable no se podrá proseguir con la tramitación del expediente o la ejecución de la obra, según corresponda.
 
-El propietario tendrá un plazo de 15 días contados desde la fecha señalada en el inciso anterior, para comunicar a la Dirección de Obras Municipales el nombre del o de los nuevos profesionales responsables, quienes deberán suscribir la comunicación en señal de aceptación de los cargos que asumen y dejar constancia del cambio de profesionales en la carátula o al inicio del libro de obras.
+El propietario tendrá un plazo de 15 días contados desde el cese o desistimiento de funciones, para comunicar a la Dirección de Obras Municipales el nombre de el o de los nuevos profesionales responsables, quienes deberán suscribir esta comunicación en señal de aceptación de los cargos que asumen. Se dejará constancia del cambio de profesionales en el expediente o en la carátula o al inicio del libro de obras, según corresponda.
 
-Conjuntamente con la comunicación a que se refiere el inciso anterior, el propietario acompañará un acta, donde conste el avance físico por partidas de la obra y las observaciones técnicas si las hubiere, suscrita tanto por los profesionales que cesaron o desistieron en sus funciones como por aquellos que asuman los cargos.
+Tratándose de una obra cuya ejecución ya se hubiera iniciado, conjuntamente con la comunicación a que se refiere el inciso anterior, el propietario acompañará un acta en la que conste el avance físico por partidas de la obra y de las observaciones técnicas, si las hubiere.
 
-Si en el acta no constaren las firmas de los profesionales que cesaron o desistieron, el Director de Obras Municipales procederá a citarlos por carta certificada, para que concurran a firmarla o presenten otra acta dentro del plazo de 15 días contados desde la fecha de emisión de la carta certificada.
+Tratándose de autorizaciones o permisos que se encuentren en trámite de aprobación ante la Dirección de Obras Municipales, dicha acta indicará el estado de avance de la tramitación del expediente.
 
-Si los profesionales citados, al concurrir ante la Dirección de Obras Municipales, discreparen del contenido del acta, como asimismo, si presentaren un acta que difiera de la adjuntada por el propietario, el Director de Obras Municipales, con los antecedentes que disponga, inspeccionará la obra y procederá a levantar un acta definitiva en la que conste el estado de avance físico por partidas de la obra y las observaciones técnicas si las hubiere. Si los profesionales citados no concurrieren ante la Dirección de Obras Municipales ni presentaren otra acta dentro del plazo indicado, se entenderá que aceptan el acta acompañada por el propietario.
+El acta a que se refieren los incisos anteriores deberá suscribirse por el o los profesionales que cesaron o desistieron en sus funciones y por el o los que las asumen. En caso de que aquellos no suscriban el acta, el Director de Obras Municipales los citará por carta certificada al domicilio que hayan registrado en esa Dirección de Obras, para que concurran a firmarla o presenten otra acta dentro del plazo de 15 días contados desde la fecha de la recepción de la carta certificada.
 
-Si durante el curso de la ejecución de una obra ésta cambiare de propietario, el nuevo propietario deberá concurrir a la Dirección de Obras Municipales dentro del plazo de los 15 días siguientes de producido el cambio, a suscribir el permiso correspondiente.
+Si los profesionales citados, al concurrir ante la Dirección de Obras Municipales, discreparen del contenido del acta, o bien, presentaren otra cuyo contenido difiera de la adjuntada por el propietario, el Director de Obras Municipales, con los antecedentes que disponga, inspeccionará la obra o revisará el expediente, según corresponda y, levantará otra acta, en la que dejará constancia de las materias indicadas en el inciso tercero de este artículo o bien, del estado de tramitación del expediente ante la Dirección de Obras Municipales, según corresponda. Para todos los efectos, esta acta tendrá carácter definitivo.
 
-Si el propietario no diere cumplimiento a las obligaciones que le impone el presente artículo, el Director de Obras Municipales procederá a paralizar la obra, dictando la resolución correspondiente.
+Si los profesionales citados no concurrieren ante la Dirección de Obras Municipales ni presentaren otra acta dentro del plazo indicado, se entenderá que aceptan el acta acompañada por el propietario.
+
+Si durante la tramitación de una solicitud ante la Dirección de Obras Municipales o durante la ejecución de una obra, ésta cambiare de propietario, el nuevo propietario deberá concurrir a la Dirección de Obras Municipales para suscribir el permiso correspondiente, dentro del plazo de 15 días, contados desde la fecha de la inscripción de dominio a nombre del nuevo titular. En caso que el nuevo titular del dominio sea una comunidad, se requerirá el consentimiento de todos los comuneros para la solicitud del permiso de que trata este inciso.
+
+Si el o los propietarios no dieren cumplimiento a las obligaciones establecidas en el presente artículo, el Director de Obras Municipales procederá a paralizar la obra, dictando la resolución correspondiente.
 
 #### Artículo 5
 
@@ -7449,6 +7493,8 @@ Las construcciones Clase D, G, H e I, no podrán tener más de 2 pisos y la altu
 Las construcciones Clase F no podrán tener más de un piso y su altura libre máxima será de 3,5 m.
 
 Las clases D y E se aceptarán como pisos superiores de construcciones clase C o D, siempre que no se sobrepase la altura permitida.
+
+Las construcciones con estructura soportante de madera y las prefabricadas de madera a que se refieren las clases E y H, deberán cumplir con las disposiciones del artículo 5.6.8. de esta Ordenanza. Igualmente las piezas o elementos de madera, ya sea estructural o de terminación, sometidos o no a cálculo estructural que contengan las demás clases de construcción, deberán cumplir con las disposiciones de los artículos 5.6.6. y 5.6.8. de esta Ordenanza.
 
 En todos los casos que en una misma construcción se empleen dos o más clases, deberán adoptarse los resguardos necesarios en las uniones de materiales, considerando su diferente comportamiento tanto en los sismos como en los cambios de temperatura.
 
@@ -8634,9 +8680,9 @@ Excavaciones para subterráneos.
 
 8.11. Antes de iniciarse las excavaciones para subterráneos adyacentes a la vía pública, el constructor dará cuenta a las empresas distribuidoras de gas, de electricidad, de agua potable, de alcantarillado, de teléfonos y demás que tengan servicios subterráneos, de los trabajos que va a ejecutar, a fin de que éstas tomen las precauciones necesarias para evitar entorpecimientos en sus servicios.
 
-El constructor a cargo de la obra deberá velar por que las excavaciones se realicen conforme al proyecto de estructuras correspondiente y tomar las medidas necesarias para evitar cualquier riesgo a los peatones, tales como cierros de resistencia adecuada, señalizaciones, iluminación de emergencia u otras.
+El constructor a cargo de la obra deberá velar por que las excavaciones se realicen conforme al proyecto de estructuras y su correspondiente mecánica de suelos y tomar las medidas necesarias para evitar cualquier riesgo a los peatones, tales como cierros de resistencia adecuada, señalizaciones, iluminación de emergencia u otras.
 
-Cuando las excavaciones alcancen un nivel igual o inferior al de los cimientos de las propiedades vecinas, el constructor deberá adoptar las precauciones necesarias para evitar cualquier perjuicio.
+Cuando las excavaciones alcancen un nivel igual o inferior al de los cimientos de las propiedades vecinas, el constructor deberá adoptar las precauciones necesarias para evitar cualquier perjuicio. En estos casos, se deberá adjuntar informe de un ingeniero civil en el cual se indicarán las medidas que se deberán adoptar para no afectar estructuralmente las edificaciones vecinas.
 
 Todo reclamo de cualquier persona deberá interponerse con el procedimiento establecido en el artículo 5.1.22.
 
@@ -8708,7 +8754,7 @@ Las cañerías para cargar petróleo podrán llegar hasta la calle con sus union
 
 En las salas de calderas a petróleo se colocarán aparatos extinguidores de incendio o un sistema de agua atomizada contra inflamación de petróleo.
 
-3. El conducto de humo de un edificio podrá ser ejecutado de materiales tales como hormigón armado, albañilería, acero, asbesto cemento, cerámica.
+3. El conducto de humo de un edificio podrá ejecutarse con hormigón armado, albañilería o acero.
 
 Deberá ser construido en tal forma que no ocasione molestias en el edificio ni a los predios vecinos.
 
@@ -8717,10 +8763,6 @@ Cuando se unan varias calderas a un mismo conducto de humo, cada una deberá est
 Los conductos de humo deberán tener en su base una puerta de registro de ajuste hermético, para efectuar la limpieza.
 
 4. Las salas de caldera deberán construirse de material cuya resistencia al fuego sea a lo menos del tipo c y se aislarán de cualquier otro local mediante muros cortafuego y puertas metálicas. Deberán disponer de ventilación directa al exterior y tener una salida por cada 30 m² o fracción de superficie, debiendo ser necesariamente una de ellas oblicua y las demás podrán ser de tipo vertical, que conecten a un recinto intermedio a su vez provisto de una puerta metálica, o bien directamente al exterior.
-
-La capacidad cúbica de las salas de caldera no será inferior a 35m por cada 100.000 kilocalorías/hora de potencia de las calderas en funcionamiento.
-
-Cada caldera deberá tener libre acceso. Al frente del fogón deberá existir un espacio libre no inferior a una y media vez el largo de los tubos de la caldera.
 
 5. La unión de la red de agua potable a la red de calefacción debe hacerse mediante una doble llave u otro dispositivo que impida que el agua de la calefacción vuelva a la red alimentadora.
 
