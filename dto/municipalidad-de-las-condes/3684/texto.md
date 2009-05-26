@@ -22,6 +22,10 @@ del citado instrumento de planificación, obras que deberán estar ejecutadas to
 
 2. La determinación de la participación proporcional de los proyectos de densificación señalados en el punto anterior, la realizará la Dirección de Obras Municipales en base a la proporción del área a densificar en cada proyecto respecto del área total susceptible de ser desarrollada, conforme al Plan Regulador Comunal, según plano de superficies de las áreas E-Ab4 y E-Ab4' y parte del área E-Am1, sector "Lo Fontecilla", señalado en los Vistos;
 
+En la situación de los proyectos de densificación con usos de suelo de equipamiento en las áreas y terrenos que tengan permitido ese uso de suelo, y se emplacen en predios de una superficie igual o superior a 0,5 Há., la determinación de la participación proporcional la efectuará el Director de Obras sobre la base de cálculo señalada en el párrafo anterior, considerando además, los m2. construidos o proyectados susceptibles de ser ejecutados en función de la constructibilidad máxima del predio, utilizando la tabla que otorgue los mayores valores según el área de edificación correspondiente. De modo que el total de m2. posibles de construir en el predio, corresponderá al mismo valor de participación que le correspondería al predio conforme su superficie de terreno.
+
+En estos casos, la participación podrá ser calculada por el total de m2. posibles de construir en el predio, o por parcialidades, coincidentes con las superficies a construir en cada etapa del proyecto hasta completar el total de la participación calculada.
+
 3. El valor total de las obras pendientes del artículo 39, de acuerdo al estudio señalado en los Vistos, asciende a la suma de U.F. 600.922,54, suma que deberá ser aplicada en forma proporcional a cada proyecto que hubiere tomado la opción señalada en el punto 1, hasta la extinción total de las exigencias.
 
 4. El presente decreto alcaldicio deberá ser publicado en el Diario Oficial.
