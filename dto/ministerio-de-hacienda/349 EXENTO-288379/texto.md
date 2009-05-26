@@ -50,6 +50,20 @@ de La Reina,
 
 Santiago.
 
+Ingrid Ximena Manquehue Sur (72) 753763
+
+Chávez Peralta Nº 1445,
+
+Depto., 206, Las 09-3232345
+
+Condes, Santiago
+
+María Fernanda Mercurio 01630, 06-8460084
+
+Álvarez Chávez Villa Teniente, 09-0310535
+
+Rancagua.
+
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta República, Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
