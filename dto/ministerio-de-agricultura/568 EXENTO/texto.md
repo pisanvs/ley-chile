@@ -14,7 +14,7 @@ Decreto:
 
 1.- Autorízase la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos a los vehículos de propiedad de la Comisión Nacional de Riego, que a continuación se individualizan:
 
-a) Station Wagon marca Subaru, modelo N Forester 2.OX AWD, color rojo perla gris, año 2006, Nº Motor C743854, Nº Chasis G085271, Inscripción R.N.V.M. WD.8998-K.
+a) Vehículo Station Wagon, Subaru, Nº Chasis G031481, Nº Motor D549781, Patente BYGB.78, año 2009, color rojo camelia perlado, indicado en la letra c) del Nº 1 del decreto exento Nº 106, de 2009, del Ministerio de Agricultura.
 
 b) Station Wagon marca Subaru, modelo New Legacy 2.0 AWD, color plateado claro, año 2005, Nº Motor C375663, Nº Chasis G028369, Inscripción R.N.V.M. YU.3498-9.
 
