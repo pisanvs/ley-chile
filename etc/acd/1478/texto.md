@@ -1,0 +1,17 @@
+ACUERDO ADOPTADO POR EL CONSEJO EN SU SESIÓN ORDINARIA Nº 1478
+
+Certifico que el Consejo del Banco Central de Chile en su Sesión Ordinaria Nº 1478, celebrada el 20 de mayo de 2009, acordó lo siguiente:
+
+1478-01-090520 - Fija política sobre autorización para el canje de ADRs por acciones, que sean adquiridos por una sociedad chilena con motivo de la realización conjunta de ofertas públicas nacional e internacional.
+
+1. Para el solo efecto de permitir que la Empresa Bancaria o el Banco Custodio, según sea el caso, pueda dar cumplimiento a una solicitud de sustitución de títulos de ADRs por acciones de la Entidad Receptora, que le formule una sociedad chilena que haya adquirido dichos títulos con motivo de ofertas públicas de adquisición de acciones y de ADRs efectuadas conjuntamente en el mercado de valores nacional e internacional y que hayan sido declaradas exitosas, autorizar dicho canje, sin esperar el término del programa de ADRs respectivo, sujeto a las siguientes condiciones:
+
+a) Que en forma simultánea con la petición de autorización que se formule, las partes de la respectiva convención cambiaria celebrada con el Banco Central de Chile, en conformidad al ex Capítulo XXVI del Compendio de Normas de Cambios Internacionales, acuerden ponerle término en la oportunidad que a continuación se indica;
+
+b) Que el término de la convención quede sujeto a la condición consistente en que la Empresa Bancaria efectúe el canje íntegro y oportuno de los ADRs vigentes; o, en su caso, en cuanto a los títulos que no sean canjeados según el programa de canje establecido al efecto, proceda a enajenar en una bolsa de valores chilena las acciones subyacentes correspondientes a estos últimos, transfiriendo el producto de dicha enajenación a los tenedores de ADRs respectivos, todo ello en los términos que corresponda informar a las autoridades reguladoras y al mercado en general;
+
+c) Dejar expresa constancia que la Convención se entenderá vigente para todos los efectos legales, respecto de los demás tenedores de ADRs, domiciliados y residentes en el exterior, mientras no se acredite al Banco Central de Chile el cumplimiento de las condiciones antedichas, mediante la correspondiente certificación efectuada por la Entidad Receptora y la Empresa Bancaria, dejando constancia de ello en una escritura pública complementaria a la de terminación.
+
+2. Precisar, que la adopción de la referida política por parte del Consejo, sólo tiene por objeto autorizar que la Empresa Bancaria sustituya los ADRs por acciones en caso que una sociedad chilena haya efectuado una oferta pública de adquisición de acciones de una Entidad Receptora que haya sido declarada exitosa; y, siempre que como condición esencial, esta última sociedad haya convenido coetáneamente con la autorización de que se trate, el término de la Convención celebrada conforme al ex Capítulo XXVI, dejándose por lo tanto expresa constancia que el inversionista chileno queda sujeto al régimen cambiario vigente que le sea aplicable a la época de la oferta pública de acciones de que se trate, como también, a la de la autorización que otorgue el Banco para estos efectos.
+
+Santiago, 20 de mayo de 2009.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
