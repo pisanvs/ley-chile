@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.759, de 19 de mayo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207122225, presentada por INVERTEC PESQUERA MAR CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en Bahía Pitt, al noreste de Punta Libero, Península Wilcock, sector 8, XII Región.
+
+Valparaíso, 19 de mayo de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
