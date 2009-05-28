@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.766, de 19 de mayo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 204104031 presentada por ALDO MAURICIO BRIONES SAAVEDRA, para instalar y operar un centro de cultivo ubicado en seno Reloncaví, al noroeste de Punta Cuervos, Isla Guar, X Región.
+
+Valparaíso, 19 de mayo de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
