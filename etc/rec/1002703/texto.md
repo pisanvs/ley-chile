@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.367 de 22 de mayo de 2009, se publicó decreto Nº 75, que modifica decreto Nº408, de 1986, con el error que se salva a continuación: página diez, segunda columna, en el punto 2.-, donde dice "... , con redes cuya altura sea igual o superior a 15 brazas y cuya relinga inferior esté aparejada ..." debe decir "... , con redes cuya altura sea igual o menor a 15 brazas y cuya relinga inferior esté aparejada ...".
