@@ -28,8 +28,6 @@ No obstante lo anterior, se permitirá el uso del arte de cerco, sin restricció
 
 No obstante lo anterior, en el área definida en la letra a) se permitirá el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o menor a 15 brazas y cuya relinga inferior esté aparejada con plomadas individuales y espaciadas.
 
-No obstante lo anterior, en el área definida en la letra a) se permitirá el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o superior a 15 brazas y cuya relinga inferior esté aparejada con plomadas individuales y espaciadas.
-
 > **Nota.** El Art. 2º del DTO 218, Economía, publicado el 31.01.2004, dispone que la medida de administración que se indica regirá por el término de dos años, contados desde la publicación del decreto en el Diario Oficial.
 
 > **Nota.** NOTA 1 El Art. 2º del DTO 75, Economía, publicado el 22.05.2009, dispone que la medida de administración que se indica regirá por el término de dos años, contados desde la publicación del decreto en el Diario Oficial.
