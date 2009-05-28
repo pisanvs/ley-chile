@@ -22,7 +22,7 @@ Modifícase el artículo 2º del DS Nº 408, de 1986, del Ministerio de Economí
 
 2.- Agrégase el siguiente inciso final:
 
-"No obstante lo anterior, en el área definida en la letra a) se permitirá el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o superior a 15 brazas y cuya relinga inferior esté aparejada con plomadas individuales y espaciadas".
+"No obstante lo anterior, en el área definida en la letra a) se permitirá el uso del arte de cerco, sin restricción de tamaño de malla, con redes cuya altura sea igual o menor a 15 brazas y cuya relinga inferior esté aparejada con plomadas individuales y espaciadas".
 
 #### Artículo 2º
 
