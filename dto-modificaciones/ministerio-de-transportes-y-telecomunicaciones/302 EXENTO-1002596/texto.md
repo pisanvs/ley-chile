@@ -58,7 +58,7 @@ Sistema Radiante:
 
 - Diagrama de radiación horizontal, de acuerdo a la siguiente tabla:
 
-Radial 0° 20° 40° 60° 80° 100° 120° 140° 160°
+Radial 0º 45º 90º 135º 180º 225º 270º 315º 120º
 
 Pérdida
 
@@ -66,7 +66,7 @@ por
 
 lóbulo
 
-(dB) 4,73 4,08 2,85 1,51 1,01 0,44 0,31 0,09 0,00
+(dB) 22,73 16,54 2,97 0,00 2,97 16,54 22,73 19,33 0,32
 
 4. El presente decreto de modificación deberá publicarse en el Diario Oficial, dentro del plazo de 30 días hábiles, contados desde su notificación a la concesionaria. La no publicación de éste dentro del plazo indicado producirá la extinción de dicho acto administrativo por el solo ministerio de la ley sin necesidad de declaración alguna, de conformidad a lo previsto en el inciso final del artículo 23º de la ley.
 
