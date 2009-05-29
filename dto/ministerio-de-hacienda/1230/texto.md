@@ -6,7 +6,7 @@ Decreto:
 
 #### Artículo primero
 
-Establécense las Aduanas de; Arica; Iquique; Tocopilla; Antofagasta; Chañaral; Coquimbo; Valparaíso; Los Andes; San Antonio; Isla de Pascua; Metropolitana; Talcahuano; La Araucanía; Valdivia; Osorno; Puerto Montt; Puerto Aysén; Coyhaique y Punta Arenas. Lo anterior, sin perjuicio de lo dispuesto en el artículo 14, del Decreto con Fuerza de Ley N° 329, de 1979, sobre Ley Orgánica del Servicio de Aduanas.
+Establécense las Aduanas de; Arica; Iquique; Tocopilla; Antofagasta; Chañaral; Coquimbo; Valparaíso; Los Andes; San Antonio; Isla de Pascua; Metropolitana; Talcahuano; Valdivia; Osorno; Puerto Montt; Puerto Aysén; Coyhaique y Punta Arenas. Lo anterior, sin perjuicio de lo dispuesto en el artículo 14, del Decreto con Fuerza de Ley N° 329, de 1979, sobre Ley Orgánica del Servicio de Aduanas.
 
 #### Artículo segundo
 
@@ -20,241 +20,153 @@ Habilítanse los puntos que se indican, en forma permanente, temporal u ocasiona
 
 A. SUJETOS A LA JURISDICCION DE LA ADUANA DE ARICA:
 
-Punto Habilitación Operaciones
+Punto Habilitado Habilitación Operaciones aduaneras
 
-Habilitado aduaneras
+1.Puerto de Arica Permanente Paso de personas y
 
-1.Puerto Permanente Paso de
+todo tipo de opera-
 
-de Arica personas
+ciones aduaneras.
 
-y todo
+2.Aeropuerto Permanente Paso de personas y
 
-tipo de
+Internacional todo tipo de opera-
 
-operaciones
+Chacalluta ciones aduaneras.
 
-aduaneras.
+3.Estación Permanente Paso de personas y
 
-2.Aeropuerto Permanente Paso de
+Ferrocarril todo tipo de opera-
 
-Internacional personas
+Arica-Tacna ciones aduaneras.
 
-Chacalluta y todo
+4.Estación Permanente Paso de personas y
 
-tipo de
+Ferrocarril todo tipo de opera-
 
-operaciones
+Arica-La Paz ciones aduaneras.
 
-aduaneras.
+5.Paso Visviri Permanente Paso de personas y
 
-3.Estación Permanente Paso de
+17º35'S todo tipo de opera-
 
-Ferrocarril personas
+69º28'W ciones aduaneras.
 
-Arica-Tacna y todo
+6.Paso Portezuelo Permanente Paso de personas y
 
-tipo de
+de Tambo Quemado todo tipo de opera-
 
-operaciones
+18º16'S ciones aduaneras
 
-aduaneras.
+69º04'W
 
-4.Estación Permanente Paso de
+7.Paso Concordia Permanente Paso de personas y
 
-Ferrocarril personas
+18º18'S todo tipo de opera-
 
-Arica-La Paz y todo
+70º19'W ciones aduaneras.
 
-tipo de
+8.Paso Laguna Permanente Paso de funcio-
 
-operaciones
+Blanca/El Ayro nario, técnicos y
 
-aduaneras.
+17º39'23"S trabajadores así
 
-5.Paso Visviri Permanente Paso de
-
-17º35'S personas
-
-69º28'W y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-6.Paso Permanente Paso de
-
-Portezuelo personas
-
-de Tambo y todo
-
-Quemado tipo de
-
-18º16'S operaciones
-
-69º04'W aduaneras
-
-7.Paso Permanente Paso de
-
-Concordia personas
-
-18º18'S y todo
-
-70º19'W tipo de
-
-operaciones
-
-aduaneras.
-
-8.Paso Permanente Paso de
-
-Laguna funcionario,
-
-Blanca/ técnicos y
-
-El Ayro trabajadores
-
-17º39'23"S así como
-
-69º40'34"W vehículos,
+69º40'34"W como vehículos,
 
 maquinarias,
 
 herramientas,
 
-insumos y
+insumos y mate-
 
-materiales
+riales provenientes
 
-provenientes
+del Perú, desti-
 
-del Perú,
+nados a los traba-
 
-destinados a
+jos de manteni-
 
-los trabajos
+miento, reparación,
 
-de manteni-
+limpieza, modifi-
 
-miento,
+cación y ampliación
 
-reparación,
+de los canales del
 
-limpieza,
+Uchusuma y del
 
-modificación
+Mauri.
 
-y ampliación
+9.Paso Huaylillas Permanente Paso de funcio-
 
-de los
+Norte nario, técnicos y
 
-canales del
+17º45'48"S trabajadores así
 
-Uchusuma y
+69º48'26"W como vehículos,
 
-del Mauri.
+maquinarias, herra-
 
-9.Paso Permanente Paso de
+mientas, insumos y
 
-Huaylillas funcionario,
+materiales prove-
 
-Norte técnicos y
+nientes del Perú,
 
-17º45'48"S trabajadores
-
-69º48'26"W así como
-
-vehículos,
-
-maquinarias,
-
-herramientas,
-
-insumos y
-
-materiales
-
-provenientes
-
-del Perú,
-
-destinados
-
-a los
+destinados a los
 
 trabajos de
 
-mantenimiento
+mantenimiento,
 
 reparación,
 
-limpieza,
+limpieza, modifi-
 
-modificación
+cación y ampliación
 
-y ampliación
+de los canales del
 
-de los
+Uchusuma y del
 
-canales
-
-del Uchusuma
-
-y del Mauri.
+Mauri.
 
 B. SUJETOS A LA JURISDICCION DE LA ADUANA IQUIQUE:
 
-Punto Habilitación Operaciones
+Punto Habilitado Habilitación Operaciones aduaneras
 
-Habilitado aduaneras
+1.Paso Cerrito Permanente Paso de personas y
 
-1.Paso Cerrito Permanente Paso de
+Prieto (Colchane) todo tipo de opera-
 
-Prieto personas y
+19º16'S ciones aduaneras.
 
-(Colchane) todo tipo de
+68º37'W
 
-19º16'S operaciones
+2.Paso Apacheta de Permanente Paso de personas.
 
-68º37'W aduaneras.
-
-2.Paso Permanente Paso de
-
-Apacheta de personas.
-
-Irpa o
-
-Cancosa
+Irpa o Cancosa
 
 19º50'S
 
 68º35'W
 
-3.Puerto de Permanente Paso de
+3.Puerto de Iquique Permanente Paso de personas y
 
-Iquique personas y
+todo tipo de opera-
 
-todo tipo de
+ciones aduaneras.
 
-operaciones
+4.Aeropuerto Permanente Paso de personas y
 
-aduaneras.
+Internacional todo tipo de opera-
 
-4.Aeropuerto Permanente Paso de
+Diego Aracena ciones aduaneras.
 
-Internacional personas y
-
-Diego todo tipo de
-
-Aracena operaciones
-
-aduaneras.
-
-5.Caleta Ocasional Paso de
-
-Patillos personas y
+5.Caleta Patillos Ocasional Paso de personas y
 
 todo tipo de
 
@@ -262,31 +174,25 @@ operaciones
 
 aduaneras.
 
-6.Desembocadura Permanente Paso de
+6.Desembocadura Permanente Paso de personas
 
-Río Loa personas y
+Río Loa y todo tipo
 
-todo tipo de
+de operaciones
+
+aduaneras.
+
+7.Quillagua Permanente Paso de personas
+
+y todo tipo de
 
 operaciones
 
 aduaneras.
 
-7.Quillagua Permanente Paso de
+8.Puerto Patache Permanente Paso de personas
 
-personas y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-8.Puerto Permanente Paso de
-
-Patache personas y
-
-todo tipo
+y todo tipo
 
 operaciones
 
@@ -294,141 +200,91 @@ aduaneras.
 
 C. SUJETOS A LA JURISDICCION DE LA ADUANA DE TOCOPILLA:
 
-Punto Habilitación Operaciones
+Punto Habilitado Habilitación Operaciones aduaneras
 
-Habilitado aduaneras
+1.Puerto de Permanente Paso de personas y
 
-1.Puerto de Permanente Paso de
-
-Tocopilla personas y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-D. SUJETOS A LA JURISDICCION DE LA ADUANA DE ANTOFAGASTA:
-
-Punto Habilitación Operaciones
-
-Habilitado aduaneras
-
-1.Paso Abra Permanente Paso de
-
-de Napa personas y
-
-20º30'S operaciones de
-
-68º35'W importación
-
-de azufre,
-
-exportación
-
-y admisión
-
-y salida
-
-temporal de
-
-vehículos,
-
-controladas
-
-en punto
-
-Ollagüe.
-
-2.Paso Salar Permanente Paso de
-
-de Ollagüe personas y
-
-21º12'S todo tipo de
-
-68º13'W operaciones
-
-aduaneras,
-
-controladas
-
-en punto
-
-Ollagüe.
-
-3.Ollagüe Permanente Paso de
-
-personas y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-4.Aeródromo Ocasional Paso de
-
-El Loa personas y
-
-(Calama) todo tipo de
-
-operaciones
-
-aduaneras.
-
-5.Caleta de Ocasional Paso de
-
-Michilla personas y
-
-operaciones de
-
-importación
-
-de ácido
-
-sulfúrico,
-
-exportación
-
-y rancho de
-
-naves.
-
-6.Paso Permanente Paso de
-
-Portezuelo personas y
-
-del Cajón todo tipo de
-
-22º53'S operaciones
-
-67º48'W aduaneras,
-
-controladas
-
-en punto
-
-San Pedro
-
-de Atacama.
-
-7.San Pedro Ocasional Paso de
-
-de Atacama personas y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-8. Puerto de Permanente Paso de personas y
-
-Mejillones todo tipo de opera-
+Tocopilla todo tipo de opera-
 
 ciones aduaneras.
 
-9. Aeropuerto Permanente Paso de personas y
+D. SUJETOS A LA JURISDICCION DE LA ADUANA DE ANTOFAGASTA:
+
+Punto Habilitado Habilitación Operaciones aduaneras
+
+1.Paso Abra de Napa Permanente Paso de personas y
+
+20º30'S operaciones de impor-
+
+68º35'W tación de azufre,
+
+exportación y
+
+admisión y salida
+
+temporal de vehícu-
+
+los, controladas en
+
+punto Ollagüe.
+
+2.Paso Salar Permanente Paso de personas y
+
+de Ollagüe todo tipo de opera-
+
+21º12'S ciones aduaneras,
+
+68º13'W controladas en
+
+punto Ollagüe.
+
+3.Ollagüe Permanente Paso de personas y
+
+todo tipo de opera-
+
+ciones aduaneras.
+
+4.Aeródromo El Loa Ocasional Paso de personas y
+
+(Calama) todo tipo de opera-
+
+ciones aduaneras.
+
+5.Caleta de Michilla Ocasional Paso de personas y
+
+operaciones de
+
+importación de ácido
+
+sulfúrico, exporta-
+
+ción y rancho de
+
+naves.
+
+6.Paso Portezuelo Permanente Paso de personas y
+
+del Cajón todo tipo de opera-
+
+22º53'S ciones aduaneras,
+
+67º48'W controladas en
+
+punto San Pedro de
+
+Atacama.
+
+7.San Pedro Permanente Paso de personas y
+
+de Atacama todo tipo de opera-
+
+ciones aduaneras.
+
+8. Puerto de Permanente Paso de personas y
+
+Mejillones todo tipo de
+
+9.Aeropuerto Permanente Paso de personas y
 
 Internacional todo tipo de opera-
 
@@ -448,9 +304,7 @@ ciones aduaneras.
 
 controladas en punto
 
-San Pedro de
-
-Atacama.
+San Pedro de Atacama.
 
 12.Paso Sico Permanente Paso de personas y
 
@@ -460,17 +314,13 @@ Atacama.
 
 controladas en punto
 
-San Pedro de
-
-Atacama.
+San Pedro de Atacama.
 
 13.Laguna Sico Permanente Paso de personas y
 
 23º52'17''S operaciones de
 
-67º16'11''W importación y
-
-exportación de
+67º16'11''W importación de
 
 energía eléctrica.
 
@@ -480,161 +330,27 @@ energía eléctrica.
 
 68º17'W ciones aduaneras.
 
-15.Caleta Permanente Paso de personas y
+15.Caleta Coloso Permanente Paso de personas y
 
-Coloso todo tipo de opera-
+todo tipo de opera-
 
 ciones aduaneras.
 
-16.Sector Norte Permanente Paso de personas e
+16.Sector Norte Permanente Paso de personas y
 
-Paso Jama Norte importación,
+Paso Jama Norte Operaciones
 
-23º13'S exportación
+23º13'S de importeción
 
-67º03'w y tránsito de
+67º03'w de graneles gaseosos
 
-graneles líquidos y
+17.Sector Sur Permanente Paso de personas
 
-gaseosos
+Paso Jama Sur y operaciones de
 
-17.Sector Sur Permanente Paso de personas e
+23º13'S importación de
 
-Paso Jama Sur importación,
-
-23º13'S exportación y
-
-67º03'W tránsito de
-
-graneles
-
-líquidos y
-
-gaseosos
-
-18.Terminal
-
-marítimo
-
-GNL Mejillones Permanente Paso de
-
-23°03' S, tripulantes,
-
-70°22' W importación y
-
-exportación de
-
-graneles líquidos y
-
-gaseosos,
-
-transporte,
-
-rancho de naves
-
-y traslado de
-
-desperdicios.
-
-19.Muelle Permanente Paso de personas,
-
-Mecanizado exportación
-
-Esperanza de concentrado de
-
-22°43'30" S y cobre y todo
-
-70°18'30" W tipo de operaciones
-
-aduaneras.
-
-20.Terminal Permanente Paso de
-
-Marítimo personas,
-
-Oxiquim, exportación e
-
-en la importación
-
-comuna de de graneles
-
-Mejillones líquidos,
-
-rancho de
-
-naves y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-21.Muelle Terquim Permanente Paso de personas,
-
-S.A., ubicado en exportación e
-
-la bahía de importación de
-
-Mejillones. graneles
-
-líquidos, rancho
-
-de naves y todo
-
-tipo de operaciones
-
-aduaneras.
-
-22.Muelle Interacid Permanente Paso de personas,
-
-Trading (Chile) exportación
-
-S.A.
-
-e importación de graneles
-
-líquidos, rancho
-
-de naves y
-
-todo tipo de
-
-operaciones
-
-aduaneras.
-
-23. Puerto Andino Personas, tripulantes,
-
-23º 05' 4.16" S Permanente importaciones
-
-70º 24' 26.86" W y exportaciones
-
-de graneles,
-
-transporte, rancho
-
-de naves y traslado
-
-de desperdicios.
-
-24. Complejo Permanente Paso de personas,
-
-Portuario y todo tipo de
-
-Mejillones operaciones
-
-aduaneras.
-
-25. Terminal Permanente Operaciones
-
-Marítimo aduaneras de
-
-Enaex importación de
-
-graneles
-
-líquidos.
+67º03'W graneles gaseosos
 
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
@@ -648,11 +364,17 @@ ciones aduaneras.
 
 2.Puerto de Caldera Permanente Paso de personas y
 
-todo tipo
+operaciones
 
-de operaciones
+de importación de
 
-aduaneras.
+combustibles
+
+líquidos; exporta-
+
+ción y rancho
+
+de naves.
 
 3.Puerto de Huasco Permanente Paso de personas
 
@@ -763,42 +485,6 @@ Complementación Minera
 e instrumentos
 
 Complementarios.
-
-11.Muelle Multipro- Permanente Paso de personas,
-
-pósito Puerto mercancías y todo
-
-Las Losas, ubi- tipo de destinacio-
-
-cado en la Bahía nes aduaneras.
-
-Huasco, Sector
-
-de Punta Loros,
-
-Comuna de Huasco,
-
-Tercera Región
-
-de Atacama.
-
-12. Puerto Punta Permanente Paso de Personas y todo
-
-Totoralillo tipo de operaciones
-
-aduaneras
-
-13. TF 091 sector Permanente Exportación
-
-"Paso del" de electricidad
-
-Guanaco
-
-Sonso"
-
-29° 25' 0" S
-
-69° 58' 59" W
 
 F. SUJETOS A LA JURISDICCION DE LA ADUANA DE COQUIMBO:
 
@@ -984,9 +670,9 @@ Viña del Mar ciones aduaneras.
 
 GNL Quintero tripulantes,
 
-32º, 46'S importación y
+importación y
 
-71º, 30'W exportación de
+exportación de
 
 graneles
 
@@ -994,19 +680,9 @@ líquidos y
 
 gaseosos
 
-y rancho de
+32º, 46'S 71º, 30'W y rancho de
 
 naves.
-
-9. Terminal Permanente Importación
-
-Marítimo y exportación
-
-Oxiquim de graneles
-
-líquidos
-
-y gaseosos.
 
 H. SUJETOS A LA JURISDICCION DE LA ADUANA DE LOS ANDES:
 
@@ -1084,297 +760,187 @@ Piuquenes operaciones de admisión
 
 69º52'W mercancías por turistas.
 
-5.Paso Cajón del Maipo Permanente Paso de personas e
+5.Paso Cajón del Maipo Permanente Paso de personas y
 
-34º14'S importación, exportación
+34º14'S operaciones de
 
-69º48'W y tránsito de graneles
+69º48'W importación de graneles
 
-líquidos y gaseosos
+gaseosos.
 
 K. SUJETOS A LA JURISDICCION DE LA ADUANA DE TALCAHUANO:
 
-Punto Habilitación Operaciones
+Punto Habilitado Habilitación Operaciones aduaneras
 
-Habilitado aduaneras
+1.Aeródromo General Ocasional Paso de personas
 
-1.Aeródromo Ocasional Paso de
+Freire (Curicó) y todo tipo de
 
-General personas
+operaciones aduaneras.
 
-Freire y todo
+2.Paso Vergara Temporal Paso de personas y
 
-(Curicó) tipo de
+35º12'S operaciones de admisión
 
-operaciones
+70º31'W y salida temporal de
 
-aduaneras.
-
-2.Paso Temporal Paso de
-
-Vergara personas y
-
-35º12'S operaciones
-
-70º31'W de admisión
-
-y salida
-
-temporal de
-
-mercancías
-
-por
+mercancías por
 
 turistas.
 
-3.Paso Permanente Paso de
+3.Paso Pehuenche Permanente Paso de personas
 
-Pehuenche personas
+35º58'S y todo tipo de
 
-35º58'S y todo
+70º23'W operaciones aduaneras.
 
-70º23'W tipo de
+4.Aeródromo General Ocasional Paso de personas
 
-operaciones
+Bernardo O'Higgins y todo tipo de
 
-aduaneras.
+(Chillán) operaciones aduaneras.
 
-4.Aeródromo Ocasional Paso de
+5.Puerto de Lirquén Permanente Paso de personas y
 
-General personas
+todo tipo de
 
-Bernardo y todo
+operaciones aduaneras.
 
-O'Higgins tipo de
+6.Puerto de Penco Permanente Paso de personas y
 
-(Chillán) operaciones
+todo tipo de
 
-aduaneras.
+operaciones aduaneras.
 
-5.Puerto Permanente Paso de
+7.Molo 500 Base Naval Ocasional Paso de personas y
 
-de Lirquén personas
+todo tipo de
 
-y todo
+operaciones aduaneras.
 
-tipo de
+8.Puerto de Permanente Paso de personas y
 
-operaciones
+San Vicente todo tipo de
 
-aduaneras.
+operaciones aduaneras.
 
-6.Puerto Permanente Paso de
+9.Puerto de Permanente Paso de personas y
 
-de Penco personas
+Talcahuano todo tipo de
 
-y todo
+operaciones aduaneras.
 
-tipo de
+10.Muelle Huachipato Permanente Paso de personas y
 
-operaciones
+todo tipo de
 
-aduaneras.
+operaciones aduaneras.
 
-7.Molo 500 Ocasional Paso de
+11.Aeropuerto Carriel Permanente Paso de personas y
 
-Base personas y
+Sur (Concepción) todo tipo de
 
-Naval todo tipo
+operaciones aduaneras.
 
-de operaciones
+12.Puerto de Coronel Permanente Paso de personas
 
-aduaneras.
-
-8.Puerto de Permanente Paso de
-
-San Vicente personas
-
-y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-9.Puerto de Permanente Paso de
-
-Talcahuano personas
-
-y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-10.Muelle Permanente Paso de
-
-Huachipato personas
-
-y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-11.Aeropuerto Permanente Paso de
-
-Carriel todo tipo
-
-Sur de personas
-
-(Concepción) y operaciones
-
-aduaneras.
-
-12.Puerto de Permanente Paso de
-
-Coronel personas
-
-y todo
-
-tipo de
+y todo tipo de
 
 operaciones
 
 aduaneras
 
-13.Puerto Ocasional Paso de
+13.Puerto de Lota Ocasional Paso de personas y
 
-de Lota personas y
+operaciones de
 
-operaciones
+exportación y
 
-de exportación
+rancho de naves.
 
-y rancho
+14.Paso Pichachén Permanente Paso de personas y
 
-de naves.
+30º27'S todo tipo de
 
-14.Paso Permanente Paso de
+71º07'W operaciones aduaneras.
 
-Pichachén personas
+15.Paso Copahue Temporal Paso de personas y
 
-30º27'S y todo
+37º49'S operaciones de admisión
 
-71º07'W tipo de
+71º07'W y salida temporal de
 
-operaciones
+mercancías por
+
+turistas.
+
+16.Lonquimay Permanente Paso de personas y
+
+todo tipo de
+
+operaciones aduaneras.
+
+17.Paso Pino Hachado Permanente Paso de personas y todo
+
+38º40'S tipo de operaciones
+
+70º53'W aduaneras, controladas
+
+en punto Lonquimay.
+
+18.Aeródromo Permanente Paso de personas
+
+Manquehue y todo tipo de
+
+operaciones aduaneras.
+
+19.Paso Icalma Permanente Paso de personas y todo
+
+36º50'S tipo de operaciones
+
+71º16'W aduaneras, controladas
+
+en punto Lonquimay.
+
+20.Pucón Permanente Paso de personas y todo
+
+tipo de operaciones
 
 aduaneras.
 
-15.Paso Temporal Paso de
+21.Paso Mamuil Malal Permanente Paso de personas y todo
 
-Copahue personas y
+39º35'S tipo de operaciones
 
-37º49'S operaciones
+71º27'W aduaneras, controladas
 
-71º07'W de admisión
+en punto Pucón.
 
-y salida
+22.Terminal Marítimo Ocasional Paso de personas y todo
 
-temporal de
+Escuadrón tipo de operaciones
 
-mercancías
+aduaneras de graneles
 
-por turistas.
+líquidos y rancho de
 
-16. Eliminado.
+naves.
 
-17. Eliminado.
+23.Paso Buta Mallin Permanente Paso de personas e
 
-18. Eliminado.
+37º12'24" importación, exportación
 
-19. Eliminado.
+71º07'06" y tránsito de graneles
 
-20. Eliminado.
+líquidos y gaseosos.
 
-21. Eliminado.
+24. Paso de Reigolil Temporal Paso de Personas
 
-22.Terminal Ocasional Paso de
+39°07' S (Rogativas Indígenas)
 
-Marítimo personas
+71°25' W"
 
-Escuadrón y todo
-
-tipo de
-
-operaciones
-
-aduaneras
-
-de graneles
-
-líquidos
-
-y rancho
-
-de naves.
-
-23.Paso Buta Permanente Paso de
-
-Mallin personas e
-
-37º12'24" importación,
-
-71º07'06" exportación
-
-y tránsito
-
-de graneles
-
-líquidos
-
-y gaseosos.
-
-24. Eliminado.
-
-25. Eliminado.
-
-26. Puerto Permanente Operaciones
-
-Industrial de importación
-
-Cabo Froward y exportación.
-
-27. Estación Permanente Importación
-
-de Medición de gas
-
-Recinto natural.
-
-28. Terminal Permanente Todo tipo
-
-Marítimo de
-
-Abastible operaciones
-
-aduaneras
-
-de graneles
-
-líquidos.
-
-29. Terminal Permanente Todo tipo
-
-Marítimo de
-
-ENAP operaciones
-
-aduaneras
-
-de graneles
-
-líquidos
-
-L. Sujetos a la Jurisdicción de la Aduana de La Araucanía:
-
-M. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
+L. SUJETOS A LA JURISDICCION DE LA ADUANA DE VALDIVIA:
 
 Punto Habilitado Habilitación Operaciones aduaneras
 
@@ -1396,7 +962,7 @@ todo tipo de
 
 operaciones aduaneras.
 
-N. SUJETOS A LA JURISDICCION DE LA ADUANA DE OSORNO:
+M. SUJETOS A LA JURISDICCION DE LA ADUANA DE OSORNO:
 
 Punto Habilitado Habilitación Operaciones aduaneras
 
@@ -1432,217 +998,117 @@ Antonio Samoré y todo tipo de
 
 71°41' W aduaneras
 
-Ñ. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUERTO MONTT:
+N. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUERTO MONTT:
 
-Punto Habilitado Habilitación Operaciones
+Punto Habilitado Habilitación Operaciones aduaneras
 
-aduaneras
+1.Puerto de Permanente Paso de personas
 
-1.Puerto de Permanente Paso de
+Puerto Montt y todo tipo de
 
-Puerto Montt personas
+operaciones aduaneras.
 
-y todo
+2.Puerto de Ancud Ocasional Paso de personas y
 
-tipo
+todo tipo de
 
-de
+operaciones aduaneras.
 
-operaciones
+3.Puerto de Castro Ocasional Paso de personas
 
-aduaneras.
+y todo tipo de
 
-2.Puerto de Ancud Ocasional Paso de
+operaciones aduaneras.
 
-personas
+4.Aeropuerto Permanente Paso de personas
 
-y todo tipo
+Internacional y todo tipo de
 
-de
+El Tepual operaciones aduaneras.
 
-operaciones
+5.Paso Pérez Rosales Permanente Paso de personas y
 
-aduaneras.
+41º04'S operaciones de
 
-3.Puerto de Castro Ocasional Paso de
-
-personas
-
-y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-4.Aeropuerto Permanente Paso de
-
-Internacional personas
-
-El Tepual y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-5. Paso Permanente Paso de
-
-Internacional personas y
-
-Vicente todo tipo de
-
-Pérez operaciones
-
-Rosales aduaneras.
-
-6.Paso Vuriloche Temporal Paso de
-
-41º13'S personas y
-
-71º51'W operaciones
-
-de admisión
-
-y salida
+71º49'W admisión y salida
 
 temporal de
 
-mercancías
-
-por
+mercancías por
 
 turistas.
 
-7.Paso Río Manso Permanente Paso de
+6.Paso Vuriloche Temporal Paso de personas y
 
-41º31'S personas y
+41º13'S operaciones de admisión
 
-71º51'W todo tipo de
+71º51'W y salida temporal de
 
-operaciones
+mercancías por
 
-aduaneras.
+turistas.
+
+7.Paso Río Manso Permanente Paso de personas
+
+41º31'S y todo tipo de
+
+71º51'W operaciones aduaneras.
 
 8. Paso Río Permanente Paso de personas
 
-Puelo Fluvial y todo tipo
+Puelo Fluvial y todo tipo de
 
-42º06'S de
+42º06'S operaciones
 
-71º44'W operaciones
+71º44'W aduaneras.
 
-aduaneras.
+9.Paso Futaleufú Permanente Paso de personas y todo
 
-9.Paso Futaleufú Permanente Paso de
+43º11'S tipo de operaciones
 
-43º11'S personas y todo
+71º45'W aduaneras.
 
-71º45'W tipo de
+10.Paso Río Encuentro Permanente Paso de personas y todo
 
-operacione
+43º35'S tipo de operaciones
 
-saduaneras.
+71º45'W aduaneras.
 
-10.Paso Río Permanente Paso de
-
-Encuentro personas y
-
-43º35'S todo tipo
-
-71º45'W de
-
-operaciones
-
-aduaneras.
-
-11.Panguipulli Permanente Paso de
-
-personas y
+11.Panguipulli Permanente Paso de personas y
 
 todo tipo
 
-de
-
-operaciones
+de operaciones
 
 aduaneras.
 
-12.Muelle en Isla Permanente Paso de
+12.Muelle en Permanente Paso de personas y
 
-Quihua personas,
+Isla Quihua operaciones de
 
-y todo
+Comuna de Calbuco exportación de
 
-tipo de
+astillas y rancho
 
-operaciones
+de naves.
 
-aduaneras.
+13. Paso Huahum Temporal Paso de Personas
 
-13. Paso Huahum Temporal Paso de
+Fluvial (Rafting)"
 
-Fluvial Personas
-
-40°06' S (Rafting)"
+40°06' S
 
 71°40' W
 
-14. Bahía de Chaitén Ocasional Paso de
+14. Bahía de Chaitén Ocasional Paso de personas
 
-42º54'43,79" S personas y
+42º54'43,79" S y todo tipo de
 
-72º42'03,35" W todo tipo
-
-de
-
-operaciones
+72º42'03,35" W operaciones
 
 aduaneras.
 
-15 Terminal Portuario Ocasional Importación de
-
-Skretting graneles
-
-41º 47' 10" S y líquidos,
-
-73º 26' 43" W paso de
-
-personas,
-
-y todo
-
-tipo de
-
-operaciones
-
-aduaneras.
-
-16. Puerto Punta Paso de personas
-
-Caullahuapi S.A. Permanente y todo tipo
-
-de
-
-operaciones
-
-aduaneras.
-
-17. Marina Oxxean Ocasional Paso de
-
-Puerto Montt personas
-
-y todo tipo
-
-de
-
-Operaciones
-
-aduaneras.
-
-O. SUJETOS A LA JURISDICCION DE LA ADUANA DE COIHAIQUE:
+Ñ. SUJETOS A LA JURISDICCION DE LA ADUANA DE COIHAIQUE:
 
 Punto Habilitado Habilitación Operaciones aduaneras
 
@@ -1674,13 +1140,11 @@ Appeleg todo tipo de opera-
 
 71º33'W ciones aduaneras.
 
-5.Aeródromo Permanente Paso de personas
+5.Aeródromo Ocasional Paso de personas y
 
-Balmaceda y todo tipo
+Balmaceda todo tipo de opera-
 
-de operaciones
-
-aduaneras
+(Balmaceda) ciones aduaneras.
 
 6.Paso Huemules Permanente Paso de personas y
 
@@ -1740,7 +1204,7 @@ San Martín operaciones
 
 Turismo).
 
-48°57' S
+48°57' S D.O. 28.08.2003
 
 72°49' W
 
@@ -1750,7 +1214,7 @@ Turismo).
 
 73°07' W y Turismo).
 
-P. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUERTO AYSEN:
+O. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUERTO AYSEN:
 
 Punto Habilitado Habilitación Operaciones aduaneras
 
@@ -1760,31 +1224,13 @@ todo tipo de opera-
 
 ciones aduaneras.
 
-2. Puerto Cisnes Permanente Paso de personas
+2. Puerto Cisnes Ocasional Paso de personas y
 
-y todo tipo de
+todo tipo de opera-
 
-operaciones aduaneras
+ciones aduaneras.
 
-3. Melinka
-
-Rampa fiscal Permanente Paso de personas y todo
-
-La Puntilla tipo de operaciones
-
-Rampa costanera aduaneras.
-
-Huilliches
-
-4. Terminal Permanente Paso de personas
-
-Portuario Raúl y todo tipo de
-
-Marín Balmaceda operaciones
-
-aduaneras
-
-Q. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUNTA ARENAS:
+P. SUJETOS A LA JURISDICCION DE LA ADUANA DE PUNTA ARENAS:
 
 Punto Habilitado Habilitación Operaciones aduaneras
 
@@ -2018,7 +1464,7 @@ Posesión y operaciones de
 
 52°13' S importación de
 
-68°57' W graneles gaseosos
+68°57' W graneles gaseosos D.O. 28.08.2003
 
 y líquidos.
 
@@ -2044,111 +1490,47 @@ graneles gaseosos
 
 y líquidos.
 
-30. Paso Permanente Paso de
+30 Paso Cóndor II
 
-Cóndor II personas y
+52°13'24,80" S
 
-52°13'24,80" S herramientas
+68°56'54" W Permanente Paso de personas y
 
-68°56'54" W pertenecientes
+herramientas
 
-al personal
+pertenecientes al
 
-técnico de la
+personal técnico de la
 
-empresa Gas
+empresa Gas del Sur,
 
-del Sur,
+TGS S.A., encargado
 
-TGS S.A.,
+del mantenimiento de
 
-encargado del
+la infraestructura del
 
-mantenimiento
+gasoducto que conecta
 
-de la
+las localidades de
 
-infraestructura
+Posesión en Chile y el
 
-del gasoducto
-
-que conecta
-
-las
-
-localidades
-
-de Posesión
-
-en Chile y el
-
-Cóndor en
-
-Argentina
-
-31. Puerto Otway Permanente Paso de personas
-
-52º56,5'S y todo tipo
-
-71º43,5'W de operaciones
-
-aduaneras
-
-32. Terminal Permanente Paso de personas
-
-Marítimo y todo tipo de
-
-Patagonia operaciones
-
-Sur Ltda. aduaneras
-
-51º41'51" S
-
-72º31'32" W
-
-33. Terminal Permanente Paso de personas
-
-Marítimo y todo tipo de
-
-Bahía Chilota operaciones
-
-aduaneras.
-
-34. Terminal Permanente Paso de personas
-
-Marítimo y todo tipo de
-
-Bahía Azul operaciones
-
-aduaneras.
-
-35. Aeródromo Permanente Paso de
-
-Teniente personas y
-
-Julio todo tipo de
-
-Gallardo operaciones
-
-51°40'15" S aduaneras.
-
-y
-
-72°31'43" O
+Cóndor en Argentina
 
 > **Nota.** El DTO 29 EXENTO, Hacienda, publicado el12.02.1999 agregó un nuevo punto habilitado con el Nº 23. Con anterioridad el DTO 377 Exento, Hacienda, publicado el 23.12.1998, agregó un punto habilitado con el mismo numeral.
 
 > **Nota.** NOTA 1: El Artículo único del DTO 13 Exento, Hacienda, publicado el 17.03.1999, agregó un nuevo punto habilitado al artículo 1º del decreto 294, incorporándose dicha modificación en el presente decreto.
 
-> **Nota.** NOTA 2: El Decreto 86 EXENTO, Hacienda, publicado el 08.04.1999 agregó un nuevo punto habilitado con el Nº 25 al presente artículo.
+> **Nota.** NOTA 2: El DTO 86 EXENTO, Hacienda, publicado el08.04.1999 agregó un nuevo punto habilitado con el Nº 25 al presente artículo.
 
-> **Nota.** NOTA 3: El artículo primero del Decreto 151 exento, Hacienda, publicado el 21.06.1999, suprimió en el decreto 294 exento, Hacienda, Publicado el 22.09.1998 el Nº 13, modificación que se ha incorporado al presente texto.
+> **Nota.** NOTA 3: El artículo primero del DTO 151 exento, Hacienda, publicado el 21.06.1999, suprimió en el decreto 294 exento, Hacienda, Publicado el 22.09.1998 el Nº 13, modificación que se ha incorporado al presente texto.
 
-> **Nota.** NOTA 4: El Art. segundo, del Decreto 151 exento, Hacienda, publicado el 21.06.1999, modificó los numerales 5 y 6, letra N, del Decreto 294, hacienda, publicado el 22.09.1998, en el sentido allí expresado, por lo que dicha modificación, debe entenderse incorporada al presente texto.
+> **Nota.** NOTA 4: El Art. segundo, del DTO 151 exento, Hacienda, publicado el 21.06.1999, modificó los numerales 5 y 6, letra N, del DTO 294, hacienda, publicado el 22.09.1998, en el sentido allí expresado, por lo que dicha modificación, debe entenderse incorporada al presente texto.
 
-> **Nota.** NOTA 5: El Decreto 363 EXENTO, Hacienda, publicado el 16.12.1999 agregó un nuevo punto habilitado en la letra F con el Nº 18 al presente artículo.
+> **Nota.** NOTA 5: El DTO 363 EXENTO, Hacienda, publicado el 16.12.1999 agregó un nuevo punto habilitado en la letra F con el Nº 18 al presente artículo.
 
-> **Nota.** NOTA 6: El Decreto 565 Exento, Hacienda, publicado el 05.01.2004, modificó el artículo único del Decreto 430 Exento, Hacienda, publicado el 21.08.2003, modificatorio de la presente norma, modificación que ha sido incorporada en el presente texto actualizado.
+> **Nota.** NOTA 6: El DTO 565 Exento, Hacienda, publicado el 05.01.2004, modificó el artículo único del DTO 430 Exento, Hacienda, publicado el 21.08.2003, modificatorio de la presente norma, modificación que ha sido incorporada en el presente texto actualizado.
 
 #### Artículo cuarto
 
