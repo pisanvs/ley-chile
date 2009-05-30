@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.682, de 13 de mayo de 2009, de esta Subsecretaría, autorízase a SOUTH-AM FREEZE DRY S.A. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Camino Santa Filomena, Las Vertientes Nº 2589, Viluco, Buin, Región Metropolitana, para elaborar en las líneas de proceso Congelado y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
