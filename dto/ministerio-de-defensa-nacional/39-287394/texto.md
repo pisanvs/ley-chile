@@ -34,6 +34,18 @@ Patrice Edouard
 
 RUN. Nº : 10.202.951-8
 
+Titular : Mayor
+
+Zuleta Arcos, Alejandro Daniel
+
+RUN Nº : 10.093.826-K
+
+Reemplazante : Mayor
+
+Cuadra de la Riva, Daniel Alfonso
+
+RUN Nº : 10.055.662-6
+
 2.- El Jefe de Plaza dispondrá las medidas necesarias para el resguardo del orden público, durante el plebiscito comunal en su zona jurisdiccional y en los locales de votación a su cargo, quedando facultado para organizar las fuerzas asignadas a su mando.
 
 3.- El Jefe de Plaza asumirá el resguardo del orden público, a partir de las cero horas del 13 de marzo de 2009, y hasta el término de las funciones del Colegio Escrutador, en su respectiva zona jurisdiccional.
