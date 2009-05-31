@@ -184,7 +184,7 @@ Séptimo o
 
 Superior 20%
 
-El último mes de prestación a que tenga derecho el trabajador podrá ser inferior al porcentaje indicado en la tabla precedente y corresponderá al saldo pendiente de la Cuenta Individual por Cesantía.
+El último mes de prestación a que tenga derecho el trabajador podrá ser inferior al porcentaje indicado en la tabla precedente y corresponderá al saldo pendiente de la Cuenta Individual por Cesantía. En todo caso, si el último giro a que tiene derecho el trabajador, de acuerdo a la tabla del inciso segundo, es igual o inferior al 20% del monto del giro anterior, ambos giros se pagarán conjuntamente.
 
 No obstante lo anterior, en el caso de trabajadores que, cumpliendo con los requisitos establecidos en el artículo 24, hayan optado por recibir beneficios con cargo al Fondo de Cesantía Solidario, el monto de las prestaciones a las cuales tengan derecho se regirá por lo establecido en el artículo 25.
 
@@ -735,6 +735,30 @@ G.- El Régimen de Inversión para los Fondos de Cesantía podrá contemplar nor
 La Superintendencia, mediante norma de carácter general, podrá establecer los procedimientos para que la Sociedad Administradora efectúe la evaluación del riesgo de las carteras de inversión para los Fondos de Cesantía. Esta norma determinará la periodicidad con la cual deberá efectuarse la medición de riesgo y la forma cómo se difundirán los resultados de las mediciones que se realicen.
 
 > **Nota.** El Artículo 3º transitorio de la Ley 20328, publicada el 30.01.2009, dispuso que la modificación introducida al presente artículo rige desde el primer día del mes siguiente a aquel en que se tramiten totalmente las modificaciones al Contrato de Administración del Seguro de Cesantía, las que fueron aprobadas por el Decreto 97, Trabajo, publicado el 30 de octubre de 2009.
+
+#### Artículo 58
+
+H.- El Consejo Técnico de Inversiones para los Fondos de Cesantía será el mismo Consejo contemplado en el artículo 167 del decreto ley N° 3.500, de 1980, respecto de las inversiones de los Fondos de Cesantía.
+
+Específicamente, el Consejo tendrá las siguientes atribuciones y funciones:
+
+1) Pronunciarse sobre el contenido del Régimen de Inversión para los Fondos de Cesantía a que se refiere el artículo 58 C de la presente ley y sobre las modificaciones que la Superintendencia de Pensiones proponga efectuar al mismo. Para estos efectos, el Consejo deberá emitir un informe que contenga su opinión técnica en forma previa a la dictación de la norma de carácter general que apruebe o modifique dicho Régimen;
+
+2) Emitir opinión técnica en todas aquellas materias relativas a inversiones de los Fondos de Cesantía contenidas en el Régimen de Inversión para los Fondos de Cesantía, y en especial respecto de la estructura de límites de inversión de los Fondos de Cesantía, la composición de las carteras de inversión referenciales, de los mecanismos de medición del riesgo de las carteras de inversión y de las operaciones señaladas en la letra l) inciso segundo del artículo 45 del decreto ley N° 3.500, de 1980, que efectúen los Fondos de Cesantía;
+
+3) Efectuar propuestas y emitir informes en materia de perfeccionamiento del régimen de inversiones para los Fondos de Cesantía en aquellos casos en que el Consejo lo estime necesario, o cuando así lo solicite la Superintendencia;
+
+4) Pronunciarse sobre las materias relacionadas a inversiones de los Fondos de Cesantía que le sean consultadas por los Ministerios de Hacienda y del Trabajo y Previsión Social; y
+
+5) Encargar la realización de estudios técnicos con relación a las inversiones de los Fondos de Cesantía.
+
+> **Nota.** El artículo tercero Transitorio de la LEY 20328, publicada el 30.01.2009, dispone que las modificaciones relativas al Consejo Técnico de Inversiones entrarán en vigencia el primer día del segundo mes siguiente a la fecha de su publicación.
+
+#### Artículo 58
+
+I.- Los integrantes del Consejo Técnico de Inversiones percibirán una dieta adicional en pesos equivalentes a 17 unidades tributarias mensuales por cada sesión que asistan, con un máximo de 34 unidades tributarias mensuales por cada mes calendario, cuando el Consejo deba tratar en dicha sesión, materias relacionadas exclusivamente con los Fondos de Cesantía.
+
+> **Nota.** El artículo tercero Transitorio de la LEY 20328, publicada el 30.01.2009, dispone que las modificaciones relativas al Consejo Técnico de Inversiones entrarán en vigencia el primer día del segundo mes siguiente a la fecha de su publicación.
 
 #### Artículo 58
 
