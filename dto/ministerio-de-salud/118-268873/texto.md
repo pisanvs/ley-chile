@@ -34,7 +34,7 @@ Decreto:
 
 Determínase que el aporte estatal
 
-que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de Enero a Diciembre del año 2008, ambos meses inclusive, asciende a la suma de $281.737.743.652 (doscientos ochenta y un mil setecientos treinta y siete millones setecientos cuarenta y tres mil seiscientos cincuenta y dos pesos).
+que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de Enero a Diciembre del año 2008, ambos meses inclusive, asciende a la suma de $283.627.186.698 (Doscientos ochenta y tres mil seiscientos veinte y siete millones ciento ochenta y seis mil seiscientos noventa y ocho pesos).
 
 #### Artículo 2°
 
@@ -48,9 +48,9 @@ capita basal, por beneficiario inscrito en los
 
 establecimientos municipales de atención primaria
 
-de salud de cada comuna de $ 1.905 (Mil
+de salud de cada comuna de $2.057 (Dos mil cincuenta
 
-novecientos cinco pesos).
+y siete pesos).
 
 b) Criterios de incremento del per capita basal, según
 
