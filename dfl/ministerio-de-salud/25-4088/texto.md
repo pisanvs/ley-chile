@@ -262,6 +262,8 @@ PROFESIONALES FUNCIONARIOS 8.932
 
 > **Nota.** NOTA: 1 El artículo 1º del DFL 20, Salud, publicado el 20.11.2003, señala que la creación del cargo que dispone, rige a contar del 20.10.2003. Con la creación del cargo que indica, el Total de Cargos de la Planta del Servicio de Salud, pasa a ser de 2442.
 
+> **Nota.** NOTA 2 El artículo único del Decreto con Fuerza de Ley 17, Salud, publicado el 30.05.2009, incrementa en 5 cargos de Médicos Cirujanos, la planta de cargos afectos a la ley Nº 15.076 del Servicio de Salud Metropolitano Norte, fijada en la presente norma.
+
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Carlos Massad A., Ministro de Salud.- Eduardo Aninat Ureta, Ministro de Hacienda.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Dr. Alfredo Avendaño Bertolo, Subsecretario de Salud (S).
