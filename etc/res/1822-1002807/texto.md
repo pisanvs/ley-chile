@@ -1,0 +1,5 @@
+Por resolución Nº1.822, de 22 de mayo de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 1.363 de 2009, de esta Subsecretaría de Pesca que autorizó a la UNIVERSIDAD DEL MAR para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo preliminar de pequeños pelágicos en aguas interiores de la XI Región", en el sentido de reemplazar el inciso final del numeral 7º por el siguiente:
+
+"El incumplimiento de cualquiera de las prohibiciones y obligaciones antes señaladas, debidamente acreditadas mediante informe del Servicio Nacional de Pesca, importará el término de la presente autorización de pesca de investigación, así como la imposibilidad para la empresa consultora infractora de poder participar en cualquier otra pesca de investigación de recursos hidrobiológicos. El hecho constitutivo de infracción deberá ser comunicado por el Servicio Nacional de Pesca a la Subsecretaría la que deberá dejar sin efecto la resolución respectiva.".
+
+Valparaíso, 22 de mayo de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
