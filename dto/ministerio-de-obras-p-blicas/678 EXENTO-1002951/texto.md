@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 678 de 30 de abril de 2009 se expropió el lote de terreno Nº 5, superficie 2.296 m2, Rol Nº 384-114, comuna de Pitrufquén, IX Región para la "ESTUDIO DE INGENIERIA DEL SISTEMA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL LOS AVELLANOS NORTE" y se acordó el valor de indemnización con su propietario ARTURO IVAN MARTINEZ CORTEZ, ascendente a la cantidad de $1.745.635.-.
+
+Fiscal del Ministerio de Obras Públicas.
