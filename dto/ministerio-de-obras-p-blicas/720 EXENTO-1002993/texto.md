@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 720 de fecha 30 de abril de 2009, se expropiaron los lotes de terreno Nºs 5 y 6 superficies 307 y 42 m2, rol Nº 151-41, comuna de Cochamó, para la obra "Construcción Puentes El Salto, Cuarteles Nº 2, Pangalito Nº 1, Pangalito Nº 2 y Cascajal Nº 2, Ruta V-69, Camino Cochamó-Puelo, Provincia de Llanquihue, X Región" y se acordó el valor de la indemnización con su propietario CARLOS JOSÉ MILLACHEO MARTÍNEZ, ascendente a la cantidad de $371.103.-
+
+Fiscal del Ministerio de Obras Públicas.
