@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 668 de 30 de abril de 2009 se expropió el lote de terreno Nº 2, superficie 347 m2, Rol Nº 384-17, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERIA DEL SISTEMA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL LOS AVELLANOS NORTE" y se acordó el valor de indemnización con su propietaria GLADIS ROSA MANQUI RIVEROS, ascendente a la cantidad de $246.358.-.
+
+Fiscal del Ministerio de Obras Públicas.
