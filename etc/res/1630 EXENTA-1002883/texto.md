@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.630, de 7 de mayo de 2009, de esta Subsecretaría de Pesca, modifícase el numeral 5º de la resolución exenta Nº15 de 2009, modificada mediante resoluciones exentas Nº335 y Nº515, de 2009, ambas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería de Merluza del sur (Merluccius australis) en la Región de Los Lagos, Subzona Palena", en el sentido de señalar que los límites de captura autorizados para la Subzona Palena, período enero-diciembre de 2009, expresados en toneladas, serán los siguientes:
+
+VER DIARIO OFICIAL DE 01.06.2009, PRIMER CUERPO, PAGINA 12
+
+Valparaíso, 7 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
