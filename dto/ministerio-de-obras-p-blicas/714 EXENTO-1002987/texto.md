@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 714 de fecha 30 de abril de 2009, se expropió el lote de terreno Nº 88-G1, superficie 10 m², rol Nº 131-41, comuna de Vichuquén, para la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 al Km. 15,372989, Comunas Licantén y Vichuquén Provincia Curicó, VII Región" y se acordó el valor de la indemnización con su propietario MANUEL DAVID QUITRAL CALQUIN, ascendente a la cantidad de $497.896.-
+
+Fiscal del Ministerio de Obras Públicas.
