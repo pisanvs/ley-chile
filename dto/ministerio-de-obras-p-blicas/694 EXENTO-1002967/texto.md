@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 694, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 9, superficie 209 m2, Rol Nº 883-28, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen Conay, Km. 0,000 Km. 19,500, Provincia de Huasco, III Región, Etapa IV", y se acordó el valor de indemnización con su propietario FERNANDO DEL CARMEN VIVANCO, ascendente a la cantidad de $1.109.591.-
+
+Fiscal del Ministerio de Obras Públicas.
