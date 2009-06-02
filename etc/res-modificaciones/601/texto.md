@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 601, de 06/03/2009, modificó D.S. 540/1992, modificado por D.S. 445/1993 y modificado por Res. (M) 1420/2003, de la siguiente forma: Ubicación: Canal Guamblad, al Noroeste de Isla San Pedro (Sectores I y II); superficie Sector I: 7,20 Has., coordenadas geográficas Plano DPC-308, 1ª Edición 2006 (Datum WGS-84) Vértice A Lat. 43°19'58,49" S. Long. 73°48'17,99" W. Vértice B Lat. 43°19'55,21" S. Long. 73°48'12,48" W. Vértice C Lat. 43°20'06,51" S. Long. 73°47'59,85" W. Vértice D Lat. 43°20'09,79" S. Long. 73°48'05,36" W.; superficie Sector II: 7,20 Hás.; coordenadas geográficas Plano DPC-308, 1ª Edición 2006 (Datum WGS-84) Vértice A Lat. 43°20'11,75" S. Long. 73°48'03,78" W. Vértice B Lat. 43°20'09,35" S. Long. 73°47'57,48" W. Vértice C Lat. 43°20'22,28" S. Long. 73°47'48,24" W. Vértice D Lat. 43°20'24,68" S. Long. 73°47'54,54" W.
+
+Santiago, 25 de mayo de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
