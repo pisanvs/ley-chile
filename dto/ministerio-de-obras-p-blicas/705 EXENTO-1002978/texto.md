@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 705, de 30 de abril de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. No 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nºs 11, para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By Pass a Copiapo)", Región de Atacama, comuna de Copiapo, que figura a nombre de VASANGEL SA CHILE Y CIA LTDA, rol de avalúo 512-1, superficie 23.210 M2. La Comisión de Peritos, fijó con fecha 29 de abril de 2008, en la cantidad de $15.808.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
