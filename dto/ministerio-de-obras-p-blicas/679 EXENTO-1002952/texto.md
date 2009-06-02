@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 679 de 30 de abril de 2009 se expropió el lote de terreno Nº 12, superficie 4.235 m2, Rol Nº 384-85, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERIA DEL SISTEMA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL LOS AVELLANOS NORTE" y se acordó el valor de indemnización con su propietario LUIS ALBERTO CONRADO SAUTEREL MAISAN, ascendente a la cantidad de $3.681.172.-.
+
+Fiscal del Ministerio de Obras Públicas.
