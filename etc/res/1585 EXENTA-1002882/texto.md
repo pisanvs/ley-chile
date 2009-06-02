@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.585, de 29 de abril de 2009, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL QUELLÓN VIEJO LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Sector Rural Quellón Viejo, Quellón, Chiloé, X Región, para elaborar en líneas de procesos Cocido, Fresco enfriado, Fresco refrigerado, Congelado y Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de abril de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
