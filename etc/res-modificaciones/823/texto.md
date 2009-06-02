@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 823, de 03/04/2009, modificó Res. (M) 136/1996, de la siguiente forma: Superficie 2,00 Hás.; coordenadas geográficas Carta SHOA Nº 7370, 1ª Edición 1999, (Datum WGS-84), Vértice A Lat. 42°20'24,56" S. Long. 73°32'08,20" W. Vértice B Lat. 42°20'23,13" S. Long. 73°32'07,93" W. Vértice C Lat. 42°20'23,09" S. Long. 73°32'06,97" W. Vértice D Lat. 42°20'23,45" S. Long. 73°32'04,63" W. Vértice E Lat. 42°20'23,48" S. Long. 73°32'01,03" W. Vértice F Lat. 42°20'23,87" S. Long. 73°31'59,20" W. Vértice G Lat. 42°20'24,36" S. Long. 73°31'55,08" W. Vértice H Lat. 42°20'24,73" S. Long. 73°31'52,51" W. Vértice I Lat. 42°20'25,19" S. Long. 73°31'51,20" W. Vértice J Lat. 42°20'26,53" S. Long. 73°31'51,50" W.
+
+Santiago, 25 de mayo de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
