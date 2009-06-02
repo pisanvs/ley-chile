@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 697, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 115-P, superficie 289 m2, Rol Nº 2208-107, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe La Arena, Tramo Km. 15,84700 al Km. 40,41746.", y se acordó el valor de indemnización con su propietaria MARIA ROSA VILLARROEL CASANOVA, ascendente a la cantidad de $1.326.587.-
+
+Fiscal del Ministerio de Obras Públicas.
