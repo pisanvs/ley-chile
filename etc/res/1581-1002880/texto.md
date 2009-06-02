@@ -1,0 +1,3 @@
+Por resolución Nº1.581, de 29 de abril de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº1.448, de 2009, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería del recurso Pejerrey en aguas interiores de la Región de Los Lagos", en el sentido de reemplazar en el numeral 4º inciso 1º, la expresión "11,5 metros" por " 12 metros".
+
+Valparaíso, 29 de abril de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
