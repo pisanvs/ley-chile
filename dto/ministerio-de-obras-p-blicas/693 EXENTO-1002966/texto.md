@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 693 de 30 de abril del 2009, se expropiaron los lotes de terrenos Nºs. 12-B, 12-C, 12-D, 12-E y 12-F, superficies 609, 168, 202, 491 y 331 m2., Rol Nº 239-65, comuna de Villa Alegre, VII Región para la obra "CAMINO RUTA L-202, SECTOR VILLA ALEGRE - PUTAGAN KM. 0.00000 A KM. 11.44287", y se acordó el valor de indemnización con su propietario FLORENTINO SAENS LEIVA, ascendente a la cantidad de $11.230.965.-
+
+Fiscal del Ministerio de Obras Públicas.
