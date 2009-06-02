@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIONES PARCIALES DE INMUEBLES QUE INDICA; NOTIFICACIÓN
+
+Por decreto alcaldicio exento Nº 342, de 5 de marzo de 2009, de la Municipalidad de Huechuraba, se ordenó la expropiación, conforme al D.L. 2.186 de 1978, de parte del inmueble ubicado en Av. Santa Marta Nº 6325, Huechuraba, Rol de avalúo Nº 3130-227, de una superficie de 3.028 m², deslindes según plano confeccionado por el departamento de urbanismo de la Dirección de Obras de Huechuraba, de aparente dominio de Inmobiliaria e Inversiones López de Bello S.A. Comisión integrada por peritos señores Fernando Merino de la Cerda, doña Victoria Blanco Acosta y don Patricio Valdés Rodríguez, arquitectos, fijó monto provisional indemnización en $199.280.000, pagadero al contado.
+
+María Carolina Plaza Guzmán, Alcaldesa de Huechuraba.
