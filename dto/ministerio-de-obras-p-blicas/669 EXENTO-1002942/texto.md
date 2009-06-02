@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 669 de 30 de abril de 2009 se expropió el lote de terreno N° 4, superficie 3.585 m², Rol N° 384-53, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL LOS LINGUES SUR" y se acordó el valor de indemnización con su propietaria ANA MARÍA SCHULZ RILLING, ascendente a la cantidad de $2.357.398.-
+
+Fiscal del Ministerio de Obras Públicas.
