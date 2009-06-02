@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 695, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 97, superficie 3.216 m2, Rol Nº 555-335, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo III Km. 16,04700 al Km. 25,59838." y se acordó el valor de indemnización con su propietaria EDILIA JEANNETTE MORALES PEÑA, ascendente a la cantidad de $1.847.428.-
+
+Fiscal del Ministerio de Obras Públicas.
