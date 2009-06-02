@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 662 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº53, superficie 15.163 m2, Rol Nº834-67, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: de Vallenar Km. 660.000,00 al Km. 665.000,00" y se acordó el valor de indemnización con su propietario JORGE RAUL MORALES SALAS, ascendente a la cantidad de $64.052.000.-
+
+Fiscal del Ministerio de Obras Públicas.
