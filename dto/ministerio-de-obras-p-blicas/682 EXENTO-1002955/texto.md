@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 682 de 30 de abril de 2009 se expropió el lote de terreno Nº 10, superficie 196 m², Rol Nº 383-6, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL LOS LINGUES SUR" y se acordó el valor de indemnización con su propietario ÓSCAR HERNÁN BRUN SCHELL Y OTRAS, ascendente a la cantidad de $218.103.-
+
+Fiscal del Ministerio de Obras Públicas.
