@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 670 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 14, superficie 1.840 m2, Rol Nº 423-46, comuna de Illapel, IV Región para la obra "Proyecto Embalse El Bato, "Canal Nuevo Cocinera" y se acordó el valor de indemnización con su propietario RUBEN DEL ROSARIO GENERAL GENERAL, ascendente a la cantidad de $1.689.418.-.
+
+Fiscal del Ministerio de Obras Públicas.
