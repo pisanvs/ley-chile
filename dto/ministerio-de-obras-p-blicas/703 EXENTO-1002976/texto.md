@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 703, de fecha 30 de abril del 2009, se expropiaron los lotes de terrenos Nºs 28, 29, 30 y 32, superficies 8.332, 1.254, 330 y 1.402 m2 respectivamente, Rol Nº 49-10, comuna de Tierra Amarilla, III Región para la obra "Mejoramiento Ruta C-453, Juntas Iglesia Colorada, Km. 0,00000 Km. 24,74357, Provincia de Copiapo, Región de Atacama", y se acordó el valor de indemnización con su propietario PEDRO SALOMON CRUZ OLIVARES Y OTROS, ascendente a la cantidad de $52.311.041.-
+
+Fiscal del Ministerio de Obras Públicas.
