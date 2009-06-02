@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 660 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº39-1, superficie 98 m2, Rol Nº1301-2, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: de Vallenar Km. 660.000,00 al Km. 665.000,00" y se acordó el valor de indemnización con su propietario OMAR ALBERTO CAMPILLAY ROJAS, ascendente a la cantidad de $7.958.000.-
+
+Fiscal del Ministerio de Obras Públicas.
