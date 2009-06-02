@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 708, de 26/03/2009, modificó Res. (M) 1.035/1997, autorizada transferir a su actual titular por Res. (M) 1.261/1999, de la siguiente forma: Ubicación; Canal Hudson, Sector Estero Rilan; Superficie 44,68 Hás.; coordenadas geográficas Carta SHOA Nº 7370, 1ª Edición 1999, (Datum WGS-84), Vértice A Lat. 42°30'11,13" S. Long. 73°38'10,02" W. Vértice B Lat. 42°29'58,79" S. Long. 73°38'38,33" W. Vértice C Lat. 42°29'41,11" S. Long. 73°38'29,19" W. Vértice D Lat. 42°29'46,91" S. Long. 73°38'06,88" W. Vértice E Lat. 42°29'50,88" S. Long. 73°38'11,42" W. Vértice F Lat. 42°29'50,86" S. Long. 73°38'09,83" W. Vértice G Lat. 42°30'04,69" S. Long. 73°38'09,53" W. Vértice H Lat. 42°30'04,54" S. Long. 73°37'57,91" W. Vértice I Lat. 42°30'11,00" S. Long. 73°37'57,77" W.
+
+Santiago, 25 de mayo de 2009. Por la Sra. Subsecretaria.- Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
