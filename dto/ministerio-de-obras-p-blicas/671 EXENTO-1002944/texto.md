@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 671 de 30 de abril de 2009 se expropió el lote de terreno Nº 4, superficie 925 m², Rol Nº 384-71, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL HUEFEL" y se acordó el valor de indemnización con su propietaria MARINA ELENA ZÚÑIGA AGUILAR, ascendente a la cantidad de $626.874.-
+
+Fiscal del Ministerio de Obras Públicas.
