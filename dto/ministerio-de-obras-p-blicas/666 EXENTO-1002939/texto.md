@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 666 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº5, superficie 1.913 m2, Rol Nº384-115, comuna de Pitrufquén IX Región para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan", obra "Canal Los Avellanos Sur", Comuna de Pitrufquén, Provincia de Cautín, Región de la Araucanía, y se acordó el valor de indemnización con su propietaria ELVIRA PAVEZ CORTES, ascendente a la cantidad de $1.265.233.-
+
+Fiscal del Ministerio de Obras Públicas.
