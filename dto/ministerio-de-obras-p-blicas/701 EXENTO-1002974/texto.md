@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 701, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 8, Superficie 206 m2, Rol Nº 44-58, comuna de Chépica, VI Región para la obra "Mejoramiento Camino Chimbarongo Chépica II, sector Convento Viejo Auquinco, tramo Km. 0,00000 al Km. 7,75554, Sexta Región", y se acordó el valor de indemnización con su propietaria ARMELINA DE LAS MERCEDES MENESES GATICA, ascendente a la cantidad de $995.472.-
+
+Fiscal del Ministerio de Obras Públicas.
