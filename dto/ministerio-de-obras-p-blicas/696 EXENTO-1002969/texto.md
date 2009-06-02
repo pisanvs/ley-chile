@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 696, de fecha 30 de abril del 2009, se expropiaron los lotes de terrenos Nºs 6 y 7, superficies 978 y 347 m2 respectivamente, Rol Nº 881-17, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen Conay, Km. 0,000 Km. 19,500, Provincia de Huasco, III Región, Etapa IV", y se acordó el valor de indemnización con su propietario FELIX MARIA PEREZ NAVARRO Y OTROS, ascendente a la cantidad de $2.300.050.-
+
+Fiscal del Ministerio de Obras Públicas.
