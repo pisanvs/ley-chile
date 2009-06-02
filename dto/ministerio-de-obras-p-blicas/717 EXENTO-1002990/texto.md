@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 717 de fecha 30 de abril de 2009, se expropiaron los lotes de terreno Nºs 42, 43, 44, 47, 48, 49 y 49-A, superficies 1.571, 122, 450, 30, 131, 324 y 21 m2 respectivamente, rol Nº 154-189, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario SOCIEDAD AGRÍCOLA PALTUNCHO LIMITADA, ascendente a la cantidad de $45.459.865.-
+
+Fiscal del Ministerio de Obras Públicas.
