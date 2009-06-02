@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº 708 de 30 de abril de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2 para la obra: Módulo B: Pasarela Peatonal La Chipana, Tramo km. 0,00000 a km. 0,30673, que figura a nombre de FOSSATTI VASQUEZ NATALIO, rol de avalúo 66-197 de la Comuna de TENO, VII REGION, superficie 2.373 m2. La Comisión de Peritos con fecha 16 de junio de 2008 fijó la indemnización provisional en la cantidad de $1.132.850.- para el lote Nº 2. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
