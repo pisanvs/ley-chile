@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 658 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº38, superficie 819 m2, Rol Nº1322-11, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: de Vallenar Km. 660.000,00 al Km. 665.000,00" y se acordó el valor de indemnización con su propietario FRANCISCO FERNANDO BOU BARROETA, ascendente a la cantidad de $11.894.000.-
+
+Fiscal del Ministerio de Obras Públicas.
