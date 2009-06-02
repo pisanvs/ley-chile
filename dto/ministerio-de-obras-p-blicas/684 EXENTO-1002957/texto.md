@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 684 de 30 de abril de 2009 se expropió el lote de terreno Nº 2, superficie 636 m², Rol Nº 385-80, comuna de Pitrufquén, IX Región para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN" OBRA "CANAL ALBERTI" y se acordó el valor de indemnización con su propietario RICARDO CRISTIÁN ALBERTI ARIAS, ascendente a la cantidad de $405.793.
+
+Fiscal del Ministerio de Obras Públicas.
