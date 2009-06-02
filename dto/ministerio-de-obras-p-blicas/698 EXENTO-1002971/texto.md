@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 698, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 110, superficie 1.781 m2, Rol Nº 555-118, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo III Km. 16,04700 al Km. 25,59838." y se acordó el valor de indemnización con su propietaria MARIA LIDIA MILLAR TOLOSA Y OTROS, ascendente a la cantidad de $3.313.142.-
+
+Fiscal del Ministerio de Obras Públicas.
