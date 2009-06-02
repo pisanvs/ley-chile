@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 685 de 30 de abril de 2009, se expropió el lote de terreno Nº 1-A, superficie 1.144 m2, Rol Nº 387-164, comuna de Pitrufquén, IX Región, para la obra "PROYECTO SISTEMA DE REGADIO FAJA MAISAN, OBRAS: FAJAS ADICIONALES CANAL MATRIZ" y se acordó el valor de indemnización con su propietario RICARDO COLICHEO MANQUE, ascendente a la cantidad de $1.035.222.-.
+
+Fiscal del Ministerio de Obras Públicas.
