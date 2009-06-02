@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 721 de fecha 30 de abril de 2009, se expropió el lote de terreno Nº 44-A, superficie 236 m², rol Nº 63-82, comuna de Pumanque, para la obra "Camino Ruta I-60, Sector Pumanque - Cruce I-72, tramo Km.: 20,34083 a Km.: 38,49623, Sexta Región" y se acordó el valor de la indemnización con su propietario DOMINGO ALEJANDRO GALVEZ GALAZ, ascendente a la cantidad de $822.785.-
+
+Fiscal del Ministerio de Obras Públicas.
