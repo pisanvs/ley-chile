@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 657 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº57, superficie 33 m2, Rol Nº407-10, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: de Vallenar Km. 660.000,00 al Km. 665.000,00" y se acordó el valor de indemnización con su propietaria AMELIA ELENA HUERTA SAAVEDRA, ascendente a la cantidad de $644.000.-
+
+Fiscal del Ministerio de Obras Públicas.
