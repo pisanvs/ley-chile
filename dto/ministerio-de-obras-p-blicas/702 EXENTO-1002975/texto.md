@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 702, de fecha 30 de abril del 2009, se expropió el lote de terreno Nº 9, superficie 358 m2, Rol Nº 895-12, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa I, Km. 29,00000 al Km. 37,80000", y se acordó el valor de indemnización con su propietario MANUEL ANTONIO ALCAYAGA AROSTICA, ascendente a la cantidad de $575.636.-
+
+Fiscal del Ministerio de Obras Públicas.
