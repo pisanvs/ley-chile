@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 656 de fecha 30 de abril del 2009, se expropió el lote de terreno Nº49, superficie 375 m2, Rol Nº834-17, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector: de Vallenar Km. 660.000,00 al Km. 665.000,00" y se acordó el valor de indemnización con su propietario WILSON ENRIQUE RIQUELME ALVAREZ, ascendente a la cantidad de $1.758.750.-
+
+Fiscal del Ministerio de Obras Públicas.
