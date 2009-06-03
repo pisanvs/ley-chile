@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.737, de 15 de mayo de 2009, de esta Subsecretaría, autorízase a ALGAS, CULTIVOS, EXPORTACIONES ACEX S.A. para iniciar actividades pesqueras de transformación, para instalar y operar una planta ubicada en Sitio 4, Lote A-1, Predio Santa Filomena, Pan de Azúcar, Coquimbo, IV Región, donde podrá elaborar en la línea de Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
