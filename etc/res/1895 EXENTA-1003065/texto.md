@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.895, de 29 de mayo de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura N° 203101261 presentada por JORGE RAMÓN VICENTE BARRÍA ÁLVAREZ para instalar y operar un centro de cultivo ubicado en canal Cholgo, al sur de Rada Potreros de Cholgo, Isla Llancahué, X Región.
+
+Valparaíso, 29 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
