@@ -26,11 +26,7 @@ Suplente: Alex Williams Daroch Velos, Rut Nº 9.142.953-5.
 
 a) Por los Pescadores Artesanales de la Macro zona constituida por la III y IV Regiones.
 
-Titular: Fernando Tirado Soto, Rut Nº
-
-7.284.874-8 Suplente: Miguel Avalos Medina, Rut Nº
-
-10.838.357-7.
+El cargo titular en representación de los Pescadores Artesanales de la Macro Zona constituida por la III y IV Regiones será ejercido por don Miguel Ávalos Medina, RUT Nº 10.838.357-7.
 
 b) Por los Pescadores Artesanales de la Macro zona constituida por la V a IX Regiones.
 
