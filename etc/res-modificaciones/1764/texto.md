@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.764, de 31/12/2008, modificó DS 466/1987, modificado por DS 727/1987, transferido a su actual titular por Res. (M) 1.581/2005, de la siguiente forma: Ubicación: Sector 1: Puerto Abtao, Península Challahue, Sector 2: Al Sur de Punta Lilihue; superficie 37,25 Hás.; Coordenadas geográficas Carta S.H.O.A. Nº 7310, 4ª Edición 1999 (Datum WGS-84) Sector 1: Vértice A Lat. 41°47'58,15" S. Long 73°21'39,47" W. Vértice B Lat. 41°47'53,46" S. Long 73°21'32,29" W. Vértice C Lat. 41°48'14,12" S. Long. 73°21'08,21" W. Vértice D Lat. 41°48'18,80" S. Long. 73°21'15,39" W. Sector 2: Vértice A Lat. 41°48'19,69" S. Long. 73°20'57,06" W. Vértice B Lat. 41°48'13,63" S. Long. 73°20'53,97" W. Vértice C Lat. 41°48'24,41" S. Long. 73°20'16,22" W. Vértice D Lat. 41°48'30,47" S. Long. 73°20'19,31" W.
+
+Santiago, 1 de junio de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
