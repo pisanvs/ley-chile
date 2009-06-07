@@ -362,7 +362,7 @@ El comité o quien lo represente estará obligado a guardar absoluta reserva sob
 
 ## Título IV
 
-De la Regularización, Disolución y Liquidación
+De la Regularización, Disolución y Quiebra
 
 de las Empresas.
 
@@ -400,39 +400,39 @@ El comité de vigilancia, dentro del plazo de 30 días contado desde el hecho qu
 
 Mientras dure la administración provisoria del comité de vigilancia, la empresa designará un representante para que en su nombre, participe con derecho a voz en las decisiones del comité de vigilancia y en los procesos de traspasos o licitación en resguardo de sus intereses patrimoniales. El comité de vigilancia dará amplia y detallada información a este representante.
 
-3° LIQUIDACIÓN
+3° QUIEBRA
 
 #### Artículo 41
 
-En caso que algún acreedor pida la liquidación forzosa de la empresa, el juzgado deberá dar aviso a la Superintendencia la que investigará la solvencia de aquélla. Si la Superintendencia comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Superintendencia deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales del procedimiento concursal de liquidación. Vencido el plazo seguirá adelante el procedimiento.
+En caso que algún acreedor pida la quiebra de la empresa, el juzgado deberá dar aviso a la Superintendencia la que investigará la solvencia de aquélla. Si la Superintendencia comprobare que puede responder a sus obligaciones, propondrá las medidas conducentes para que prosiga sus operaciones; si no lo estimare posible, informará en tal sentido. La Superintendencia deberá dar su resolución dentro del plazo de veinte días hábiles, contado desde la fecha en que sea requerida por el tribunal y si no se diere, el tribunal procederá sin ella. Durante los 180 días siguientes a la fecha en que se resolviere por el tribunal la prosecución de sus operaciones, nadie podrá entablar contra la empresa acción ejecutiva por cobro de dinero ni demanda alguna y quedarán suspendidas todas las tramitaciones judiciales de la quiebra. Vencido el plazo seguirá adelante el procedimiento.
 
 #### Artículo 42
 
-En caso de proposición de acuerdo de reorganización, el veedor que el tribunal designe tendrá la administración de la empresa como si se tratare de un procedimiento concursal de liquidación declarado. El veedor asumirá sus funciones en la forma y oportunidad establecida en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+En caso de proposición de convenio judicial preventivo, el síndico que el tribunal debe designar conforme al artículo 175 N° 1 de la Ley de Quiebras, tendrá la administración de la empresa como si se tratare de una quiebra declarada. El Síndico asumirá sus funciones en la forma y oportunidad establecidas en el artículo 26 de la misma ley.
 
 #### Artículo 43
 
-Dictada la resolución de liquidación, el liquidador provisional continuará las actividades económicas del deudor mientras la junta de acreedores no designe otro administrador. Esta continuación de actividades económicas no se prolongará más allá de un año contado desde la fecha de la resolución de liquidación, a menos que la junta de acreedores lo acuerde con quórum especial de acuerdo a lo señalado en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+Declarada en quiebra una empresa, el síndico provisional continuará efectivamente el giro de la fallida mientras la junta de acreedores no designe otro administrador. Esta continuación del giro no se prolongará más allá de un año contado desde la fecha de la declaración de la quiebra, a menos que la junta de acreedores lo acuerde con los votos que indica el artículo 112 de la Ley de Quiebras.
 
-Antes de vencido dicho año, sólo con autorización del tribunal que conoce del procedimiento concursal de liquidación podrá ponerse término a la continuación definitiva de las actividades económicas o excluirse de ésta bienes del activo de la liquidación.
+Antes de vencido dicho año, sólo con autorización del tribunal de la quiebra podrá ponerse término a la continuación del giro o excluirse de éste bienes del activo de la quiebra.
 
-Las obligaciones contraídas por el administrador de la continuación de las actividades económicas durante ese primer año sólo podrán hacerse efectivas sobre los bienes comprendidos en dicha continuación y gozarán de la preferencia que establece el artículo 239 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+Las obligaciones contraídas por el administrador del giro durante ese primer año, sólo podrán hacerse efectivas sobre los bienes comprendidos en el giro y gozarán de la preferencia que establece el artículo 100 de la Ley de Quiebras.
 
 #### Artículo 44
 
-Vencido el plazo de un año contado desde que se dicte la resolución de liquidación, podrá continuarse las actividades económicas del deudor en los casos y con arreglo a las normas que señala la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. El acuerdo podrá adoptarse aun antes de vencido dicho plazo. Los bienes que en virtud del acuerdo de los acreedores queden excluidos de la continuación de las actividades económicas seguirán respondiendo por las deudas nacidas durante el primer año.
+Vencido el plazo de un año contado desde la declaración de la quiebra, podrá continuarse el giro en los casos y con arreglo a las normas que señala la Ley de Quiebras. El acuerdo podrá tomarse aún antes de vencido dicho plazo. Los bienes que en virtud del acuerdo de los acreedores queden excluidos del giro, seguirán respondiendo por las deudas nacidas durante el primer año.
 
-Los créditos nacidos después de vencido el primer año de la continuación de las actividades económicas gozarán de la preferencia de pago que establece el artículo 239 de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas respecto de las demás obligaciones del deudor, incluidos los créditos nacidos durante dicho primer año.
+Los créditos nacidos después de vencido el primer año de giro, gozarán de la preferencia de pago que establece el artículo 114 de la Ley de Quiebras respecto de las demás obligaciones del fallido, incluidos los créditos nacidos durante dicho primer año.
 
 #### Artículo 45
 
-Durante el primer año siguiente a la fecha de la resolución de liquidación, los bienes de la empresa sólo podrán ser enajenados como unidad económica a otra sociedad del mismo giro, salvo aquéllos cuya enajenación separada autorice el juez que conoce del procedimiento concursal de liquidación. El adquirente deberá continuar, sin solución de continuidad, el giro de la empresa ordenado en el artículo 41. Si hubiere más de una sociedad del mismo giro, para materializar dicho traspaso, se hará una licitación entre ellas.
+Durante el primer año siguiente a la fecha de la declaración de quiebra, los bienes de la empresa sólo podrán ser enajenados como unidad económica a otra sociedad del mismo giro, salvo aquellos cuya enajenación separada autorice el juez de la quiebra. El adquirente deberá continuar, sin solución de continuidad, el giro de la empresa ordenado en el artículo 41. Si hubiere más de una sociedad del mismo giro, para materializar dicho traspaso, se hará una licitación entre ellas.
 
 #### Artículo 46
 
-Para pronunciarse sobre la solicitud de autorización para terminar el giro, excluir bienes de éste o de la enajenación como unidad económica a que se refieren los artículos precedentes, el tribunal deberá oír previamente al liquidador y al comité de vigilancia representado, para estos efectos, por su presidente o quien haga sus veces conforme al reglamento interno y a la Superintendencia de Valores. El tribunal dará la autorización si viere que accediendo a ellas no se pone en peligro el adecuado funcionamiento del mercado de valores.
+Para pronunciarse sobre la solicitud de autorización para terminar el giro, excluir bienes de éste o de la enajenación como unidad económica a que se refieren los artículos precedentes, el tribunal deberá oír previamente al síndico y al comité de vigilancia representado, para estos efectos, por su presidente o quien haga sus veces conforme al reglamento interno y a la Superintendencia de Valores. El tribunal dará la autorización si viere que accediendo a ellas no se pone en peligro el adecuado funcionamiento del mercado de valores.
 
-En lo que no sea contrario a esta ley se aplicarán los preceptos de la Ley de Reorganización y Liquidación de Activos de Empresas y Personas.
+En lo que no sea contrario a esta ley se aplicarán los preceptos de la ley 18.175.
 
 ## Título V
 
