@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.923, de 1 de junio de 2009, de esta Subsecretaría, modifícase el numeral 7º de la resolución exenta Nº 1.607, de 2009, de esta Subsecretaría de Pesca que autorizó a la CORPORACIÓN DE EDUCACIÓN LA ARAUCANA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Bacalao de profundidad -Captura de peces vivos para proyecto de cultivo experimental", en el sentido de prorrogar el plazo de entrega del informe final al 7 de octubre de 2009.
+
+Valparaíso, 1 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
