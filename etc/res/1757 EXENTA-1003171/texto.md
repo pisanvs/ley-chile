@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.757, de 19 de mayo de 2009, de esta Subsecretaría, autorízase a JUANA ISABEL CHACANA DELGADO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en terreno de playa sector Torres del Inca, Panamericana Norte s/n, Chañaral, III Región, para elaborar en línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de mayo de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
