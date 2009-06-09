@@ -10,7 +10,7 @@ Considerando:
 
 Decreto:
 
-1.- La asignación de recursos del Programa Bonificación a la Contratación de Mano de Obra para beneficiarios del Sistema de Protección Social Chile Solidario, para ambos componentes o líneas de acción señaladas en el Nº 3 del presente decreto, se orientará a la contratación de trabajadores/as que cumplan los siguientes requisitos de acceso:
+1.- La asignación de recursos del Programa Bonificación a la Contratación de Mano de Obra para beneficiarios del Sistema de Protección Social Chile Solidario, para ambos componentes o líneas de acción contempladas en el Nº5 del presente decreto, se orientará a la contratación de trabajadores/as que cumplan los siguientes requisitos de acceso:
 
 a) Encontrarse desempleados.
 
@@ -18,7 +18,7 @@ b) Pertenecer a las familias del Sistema de
 
 Protección Social Chile Solidario.
 
-2.- Para efectos de acceder al Programa, la calidad de trabajador desempleado deberá acreditarse mediante el correspondiente certificado emitido por la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518, o en las instituciones que en la Municipalidad cumplan funciones similares, cuando en la misma no existan las anteriores.
+2.- Para efectos de acceder al Programa, la calidad de trabajador desempleado deberá acreditarse mediante el correspondiente certificado emitido por la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518, o por las instituciones que en la Municipalidad cumplan funciones similares, cuando en la misma no existan las anteriores.
 
 3.- La ejecución de este Programa se efectuará por el Servicio Nacional de Capacitación y Empleo previa suscripción de un convenio con la Subsecretaría del Trabajo.
 
@@ -32,15 +32,19 @@ Con cargo a esta línea se financiará un sistema de incentivo a empleadores, co
 
 Para este componente o línea de acción, será requisito de acceso, tener más de 30 años de edad, cumplidos al momento de la contratación.
 
-Hasta $482.000.000.- de los recursos presupuestarios contemplados para esta línea, podrán destinarse al financiamiento de intermediación laboral, ejecutado a través de las Oficinas Municipales de Información Laboral u otras instituciones públicas o privadas que cumplan similares funciones, orientado a generar un perfil de los beneficiarios del Sistema de Protección Social Chile Solidario, por medio de un diagnóstico que permita identificar las habilidades y competencias básicas de éstos, con el propósito de lograr su inserción en el mercado laboral. Con todo, el monto máximo que podrá gastarse con cargo a los recursos señalados en este párrafo, no podrá exceder de $250.000.-, por cada trabajador beneficiario. Este monto incluye $165.000.-, que se pagarán a condición de la contratación y en proporción a la permanencia del trabajador contemplada en el primer párrafo de esta letra.
+Hasta $482.000.000.- de los recursos presupuestarios contemplados para esta línea, podrán destinarse al financiamiento de iniciativas de fortalecimiento de la institucionalidad de intermediación laboral municipal, ejecutado a través de las Oficinas Municipales de Información Laboral u otras instituciones públicas o privadas que cumplan similares funciones, orientado a la generación de un itinerario personalizado de inserción laboral del usuario, cuyo fin debe ser la incorporación en un trabajo dependiente o independiente.
 
 b) Programa de apoyo al empleo para jóvenes beneficiarios del Sistema Chile Solidario. Con cargo a esta línea se podrá financiar una bonificación a empleadores que contraten jóvenes beneficiarios del Sistema Chile Solidario, consistente en otorgar al empleador un incentivo mensual de hasta un 50% de un ingreso mínimo mensual por cada trabajador contratado. Esta bonificación tendrá una duración de uno a cuatro meses, con la posibilidad de renovación de hasta cuatro meses adicionales. Además, por la contratación de ºestos jóvenes, el empleador tendrá derecho a una contribución al costo de capacitación de cada uno de ellos de hasta $370.000.-, por una sola vez, mientras dure el beneficio.
 
 Para este componente o línea de acción, será requisito de acceso tener entre 18 y 29 años de edad cumplidos al momento de la contratación.
 
-Hasta un máximo de $330.000.000.- de los recursos presupuestarios contemplados para esta línea, podrán destinarse al financiamiento de intermediación laboral, ejecutado a través de las Oficinas Municipales de Información Laboral u otras instituciones públicas o privadas que cumplan similares funciones, orientado a generar un perfil de los beneficiarios del Sistema de Protección Social Chile Solidario, a través de un diagnóstico que permita identificar las habilidades y competencias básicas de éstos, con el propósito de lograr su inserción en el mercado laboral. Con todo, el monto máximo que podrá gastarse con cargo a los recursos señalados en este párrafo, no podrá exceder de $363.000.-, por cada trabajador beneficiario. Este monto incluye $242.000.-, que se pagarán a condición de la contratación y en proporción a la permanencia del trabajador contemplada en el primer párrafo de esta letra.
+Hasta un máximo de $330.000.000.- de los recursos presupuestarios contemplados para esta línea, podrán destinarse al financiamiento de iniciativas de fortalecimiento de la institucionalidad de intermediación laboral municipal, ejecutado a través de las Oficinas Municipales de Información Laboral u otras instituciones públicas o privadas que cumplan similares funciones, orientado a la generación de un itinerario personalizado de inserción laboral del usuario, cuyo fin debe ser la incorporación en un trabajo dependiente o independiente.
 
-6.- Con cargo a las líneas del Programa señaladas en el número anterior, se podrán pagar $22.000.- al mes por concepto de colación, y $33.000.- al mes por concepto de transporte o movilización, para cada trabajador contratado y durante el tiempo que dure la respectiva bonificación.
+c) Incentivo a la Colocación para Oficinas Municipales de Información Laboral u otras entidades públicas o privadas: Habrá un incentivo destinado a las municipalidades o a otras entidades públicas o privadas de hasta $30.000.-, por una sola vez, por cada trabajador/a desempleado que pertenezca a las familias del Sistema Chile Solidario que sea contratado en virtud de una acción de intermediación realizada por estas entidades. En el caso de los Municipios estos fondos deberán ser destinados para el fortalecimiento de las Oficinas Municipales de Información Laboral (OMIL).
+
+Los recursos señalados en las letras a) y b) del presente numeral deberán ser transferidos mediante convenio que suscribirá el Servicio Nacional de Capacitación y Empleo con las municipalidades respectivas, para que éstas implementen estrategias, adquieran insumos y ejecuten otras acciones que vayan en directo beneficio del mejoramiento de la gestión de la OMIL.
+
+6.- Con cargo a las líneas del Programa señaladas en las letras a) y b) del numeral anterior, se podrán pagar $22.000.- al mes por concepto de colación, y $33.000.- al mes por concepto de transporte o movilización, para cada trabajador contratado y durante el tiempo que dure la respectiva bonificación.
 
 7.- El Programa se financiará con cargo a los recursos consultados en la asignación respectiva del presupuesto de la Subsecretaría del Trabajo para el año 2009, según la disponibilidad de recursos consultados en la Ley de Presupuestos y conforme a los datos derivados del Sistema de Protección Social Chile Solidario.
 
