@@ -230,7 +230,7 @@ Quedarán exentos en forma automática del pago del derecho de aseo los usuarios
 
 Los usuarios cuyas viviendas o unidades habitacionales tengan un avalúo fiscal superior al monto exento del impuesto territorial, podrán solicitar anualmente la rebaja o la exención total de los derechos de aseo si sus condiciones socioeconómicas lo ameritan, basándose el Municipio para ello en los indicadores contenidos en la Ficha de Protección Social o el instrumento que la reemplace, hasta 15.000 puntos de la Ficha de Protección Social.
 
-Asimismo, podrán acogerse a dicho beneficio los usuarios de viviendas o unidades habitacionales, que teniendo la calidad de pensionado o jubilados, acrediten un ingreso mensual igual o inferior al valor de cuatro pensiones asistenciales a la fecha en que se solicite la exención y aquellos usuarios que acrediten un ingreso inferior al salario mínimo nacional.
+Asimismo, podrán acogerse a dicho beneficio los usuarios de viviendas o unidades habitacionales, que teniendo la calidad de pensionado o jubilados, acrediten un ingreso mensual igual o inferior al valor de cuatro pensiones básica solidarias a la fecha en que se solicite la exención y aquellos usuarios que acrediten un ingreso inferior al salario mínimo nacional.
 
 En el evento que el usuario del servicio no sea propietario del inmueble, sólo se aplicará la exención establecida en el presente artículo si el usuario es el sujeto pasivo del derecho de aseo en virtud del contrato respectivo. En caso contrario el propietario del inmueble queda afecto al pago del derecho.
 
