@@ -80,7 +80,7 @@ capacitación
 
 #### Artículo 8
 
-Para los fines del proceso de acreditación individual, el Servicio de Salud definirá las horas pedagógicas de capacitación exigidas como mínimo a desarrollar por los funcionarios según la programación trienal de capacitación del Servicio, que serán necesarias para su aprobación, en conformidad a las normas generales que en la materia imparta el Ministerio de Salud y las demás establecidas en los artículos precedentes. Con todo, el mínimo señalado precedentemente no podrá ser inferior a ciento sesenta horas pedagógicas en el trienio respectivo.
+Para los fines del proceso de acreditación individual, el Servicio de Salud definirá las horas pedagógicas de capacitación exigidas como mínimo a desarrollar por los funcionarios según la programación trienal de capacitación del Servicio, que serán necesarias para su aprobación, en conformidad a las normas generales que en la materia imparta el Ministerio de Salud y las demás establecidas en los artículos precedentes. Con todo, el mínimo señalado precedentemente no podrá ser inferior a ciento diez horas pedagógicas en el trienio respectivo.
 
 ### Párrafo 2º
 
