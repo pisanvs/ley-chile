@@ -36,6 +36,8 @@ a) Adquisición de material educativo.
 
 b) Fortalecimiento docente e implementación curricular.
 
+c) Fomento de la incorporación de niños y niñas a Educación Parvularia.
+
 ## Título I
 
 Adquisición de Material Educativo
@@ -66,23 +68,25 @@ Fortalecimiento Docente e Implementación Curricular
 
 #### Artículo 7º
 
-La Línea de Acción Fortalecimiento Docente e Implementación Curricular tiene por objetivo contribuir al desarrollo profesional de los educadores de párvulos, mediante diversas modalidades y programas de perfeccionamiento que permitan la profundización de la bases curriculares, la adquisición de conocimientos específicos y la permanente renovación en sus prácticas de enseñanza-aprendizaje en el aula e incorporación de temas emergentes.
+La Línea de Acción Fortalecimiento Docente e Implementación Curricular tiene por objeto contribuir al desarrollo profesional de los educadores de párvulos, mediante diversas modalidades y programas de perfeccionamiento que permitan profundizar las Bases Curriculares e implementar los programas pedagógicos correspondientes al primer y segundo nivel de transición en los establecimientos educacionales regidos por el DFL Nº2, de 1998 que imparten educación parvularia.
 
 #### Artículo 8º
 
-Esta línea de acción contempla todas aquellas acciones de perfeccionamiento y actualización destinadas a profesionales de la educación parvularia que trabajan directa o indirectamente con niños y/o niñas, tendientes a la aplicación de las bases curriculares vigentes y sus diferentes énfasis, en los primeros y segundos niveles de transición de los establecimientos educacionales regidos por el D.F.L. (Ed.) Nº2, de 1998, que imparten educación parvularia, y está compuesta por:
+Esta Línea de Acción contempla todas aquellas acciones, perfeccionamientos y actualizaciones destinadas a profesionales de la educación parvularia que trabajan directa o indirectamente con niños y/o niñas, tendientes a la aplicación y profundización de las bases curriculares e implementación de los programas pedagógicos correspondientes al primer y segundo nivel de transición, en los establecimientos educacionales regidos por el DFL Nº2, de 1998 que imparten educación parvularia, y está compuesta por:
 
-a) Fortalecimiento Docente: Éste tiene por objetivo el enriquecimiento de las competencias profesionales, la promoción de la revisión y reflexión de las prácticas pedagógicas y el fomento del trabajo cooperativo y coordinado, con el fin de otorgar procesos educativos de calidad en el nivel de educación prebásica, en concordancia con el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas del Ministerio de Educación en relación con las bases curriculares vigentes.
+a.- Fortalecimiento Docente: Éste tiene por objetivo el enriquecimiento de las competencias profesionales, la promoción de la revisión y reflexión de las prácticas pedagógicas y el fomento del trabajo cooperativo y coordinado, con el fin de otorgar procesos educativos de calidad en el nivel de educación prebásica, en concordancia con el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas del Ministerio de Educación en relación con las bases curriculares vigentes.
 
-b) Implementación Curricular: A través de ésta se busca dotar a las y los profesionales de la educación parvularia de medios necesarios para una adecuada implementación del currículo, con el objetivo que los niños y niñas tengan más y mejores aprendizajes y que éstos sean relevantes, significativos y contextualizados.
+b.- Diseño e Implementación Curricular: A través de éste se busca dotar a las y los profesionales de la educación parvularia de medios necesarios para una adecuada implementación del currículo, con el objetivo que los niños y niñas tengan más y mejores aprendizajes y que éstos sean relevantes, significativos y contextualizados.
 
 #### Artículo 9º
 
 El fortalecimiento docente podrá desarrollarse a través de modalidades presenciales, semipresenciales o a distancia, siendo estas dos últimas las que incluyen actividades que se realizan a través de internet. Los cursos podrán ser dictados por Instituciones de Educación Superior reconocidas por el Estado con programas de formación docente, acreditadas de acuerdo a la ley Nº20.129.
 
+Sin perjuicio que las actividades y cursos de perfeccionamiento que contempla el programa, puedan también ser ejecutadas e impartidos por otras instituciones públicas o privadas que estén debidamente acreditadas ante el Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas, de conformidad con lo preceptuado en el artículo 12 de la ley Nº19.070, cuyo texto refundido, coordinado y sistematizado fue fijado por el DFL Nº1, de 1996, del Ministerio de Educación.
+
 #### Artículo 10º
 
-La implementación curricular será abordada por el Ministerio de Educación mediante el desarrollo de programas y proyectos articulados con diferentes instancias públicas y privadas de diferentes énfasis curriculares y temáticas transversales. Forman parte de los énfasis curriculares y las temáticas transversales el trabajo con la familia, atención a las necesidades educativas especiales, informática educativa, interculturalidad bilingüe, estilos de vida saludable, educación en afectividad y sexualidad, enfoque de género, lenguaje y artístico, entre otros.
+La implementación curricular será abordada por el Ministerio de Educación mediante el desarrollo de programas y proyectos articulados con diferentes instancias públicas y privadas de diferentes énfasis curriculares y temáticas transversales. Forman parte de los énfasis curriculares y las temáticas transversales el inicio a la lectura y la escritura para ambos niveles de transición, el trabajo con la familia, atención a las necesidades educativas especiales, informática educativa, interculturalidad bilingüe, estilos de vida saludable, educación en afectividad y sexualidad, enfoque de género, lenguaje y artístico, entre otros.
 
 #### Artículo 11º
 
@@ -97,6 +101,26 @@ Para la implementación y desarrollo de esta línea de acción, el Ministerio de
 4. Realización y coordinación de talleres comunales para educadores(as), agentes de la comunidad y otros actores del sistema educativo sobre la materia.
 
 5. Contratación de asesorías y/o consultorías especializadas de profesionales o expertos, nacionales o extranjeros, sean personas naturales y/o jurídicas, tanto para el diseño, ejecución, perfeccionamiento, implementación y evaluación de esta línea de acción.
+
+## Título III — FOMENTO DE LA INCORPORACIÓN DE NIÑOS Y NIÑAS A LA EDUCACIÓN PARVULARIA.
+
+#### Artículo 11º
+
+(bis).- La línea de acción de Fomento de la Incorporación de Niños y Niñas a la Educación Parvularia, tiene como objetivo, mejorar las oportunidades de acceso a la escuela de los niños y niñas de cuatro años y contribuir así a la universalización, esto es, generalizar en la comunidad nacional esta línea y los propósitos del Ministerio de Educación de crear calidad y equidad en las oportunidades educativas de niños y niñas y está compuesta por:
+
+Coordinación Territorial y Seguimiento de Cobertura.- La incorporación paulatina de todos los niños y niñas de 4 años a las escuelas, requiere de análisis mensuales y anuales, referidos a la matrícula, la asistencia, la deserción y la migración de los niños de 4 años desde los establecimientos dependientes de la Junta Nacional de Jardines Infantiles y la Fundación Integra a las escuelas.
+
+Difusión.- Se ha definido como una acción fundamental, el generar conciencia en la familia, la comunidad educativa y la nación toda en último término, acerca de la importancia de promover la incorporación de niños y niñas de cuatro años de edad a la educación parvularia y la meta de hacer universal en nuestro país los cuatro años como edad de inicio de la formación educativa de los individuos. La sociedad en su conjunto no tiene internalizado culturalmente el impacto positivo que tiene la educación parvularia en la asistencia a la jornada escolar completa, para los posteriores procesos de desarrollo y formación educativa de niños y niñas. Por tanto, se hace necesario realizar campañas de difusión masiva, que permitan con la entrega de información a través de diferentes medios de comunicación, sensibilizar y concientizar a la población a nivel nacional, con el objeto de promover la incorporación de niños y niñas de cuatro años a la educación parvularia.
+
+La difusión se implementará del modo que a continuación se expresa:
+
+i) Contratación de servicios de comunicación visual, radial y escrito para la difusión de las actividades relacionadas con la incorporación de niños y niñas de 4 años a la educación parvularia.
+
+ii) Ejecución de jornadas de coordinación nacional y regional con instituciones y organismos relacionados con la educación parvularia.
+
+iii) Contratación de estudios dirigidos a conocer la demanda sin atender de niños y niñas entre 0 y 4 años.
+
+## Título IV — Normas Generales
 
 ## Título III
 
