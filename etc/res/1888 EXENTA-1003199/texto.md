@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.888, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 774, de 2009, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardinas en aguas interiores de la X Región de Los Lagos-Sur, 2009", en el sentido de modificar el fraccionamiento temporal de la distribución de la cuota de Sardina austral autorizada a ser extraída entre las embarcaciones participantes en la presente pesca de investigación en los términos indicados en la resolución extractada.
+
+Valparaíso, 28 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
