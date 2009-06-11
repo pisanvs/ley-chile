@@ -64,9 +64,7 @@ términos del artículo 1783 del Código Civil.
 
 El monto de este subsidio será el señalado en las tablas siguientes, expresado en Unidades de Fomento, según la comuna o localidad de emplazamiento, del respectivo proyecto habitacional:
 
-VER DIARIO OFICIAL DE 30.01.2009, PAGINAS 11 Y 12.
-
-> **Nota.** El artículo único del Decreto 38, Vivienda, publicado el 30.10.2009, modifica la presente norma, en el sentido de sustituir en la columna «monto de subsidio» de las filas correspondientes a las comunas de Constitución y Curicó, ambas de la Región del Maule, los guarismos "420" por "460" y "480" por "380", respectivamente.
+VER DIARIO OFICIAL DE 30.01.2009, PAGINAS 11 Y 12
 
 #### Artículo 4°
 
@@ -169,10 +167,6 @@ Los plazos para el inicio de las obras y para su término podrán prorrogarse, p
 El incumplimiento en el plazo de inicio de las obras, producirá la caducidad automática de la reserva de cupo de los subsidios correspondientes que se hubiere efectuado.
 
 Si se excediere el plazo antes fijado para la recepción municipal de las obras, se producirá la caducidad automática de la reserva de cupo de los subsidios correspondientes que se hubiere efectuado y se hará efectiva la boleta bancaria de garantía que cauciona el crédito de enlace, si lo hubiere.
-
-#### Artículo 7° bis
-
-No obstante lo dispuesto en el inciso segundo del artículo 6° y en el inciso segundo del artículo 7°, tratándose de convenios suscritos a partir del 21 de mayo de 2009, las obras deberán iniciarse dentro de los 45 días corridos siguientes a la fecha de la total tramitación del acto administrativo del Serviu que apruebe dicho convenio, las que en todo caso deberán iniciarse hasta el 30 de octubre de 2009 y cuya recepción municipal no podrá exceder del 30 de diciembre de 2010, debiendo dejarse constancia de estas obligaciones en el convenio respectivo.
 
 #### Artículo 8°
 
