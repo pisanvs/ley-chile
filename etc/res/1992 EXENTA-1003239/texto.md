@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.992, de 4 de junio de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206106103 presentada por Marine Shells Limitada para instalar y operar un centro de cultivo ubicado en Isla Laitec, al sur de Bahía Ayilemu, comuna de Quellón, provincia de Chiloé, X Región.
+
+Valparaíso, 4 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
