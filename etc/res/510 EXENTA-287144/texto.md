@@ -22,9 +22,19 @@ Que los programas antes indicados no consideran la participación de un consulto
 
 Resuelvo:
 
-1º.- La distribución de la fracción artesanal de la cuota global anual de captura de Anchoveta
+1º.- La distribución de la fracción artesanal de
 
-Engraulis ringens, Sardina común Strangomera bentincki y Jurel Trachurus murphyi, correspondiente al área marítima de la XIV Región, antes denominada Área Norte de la X Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, para el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2009, se efectuará de la siguiente manera:
+la cuota global anual de captura de Anchoveta
+
+Engraulis ringens, Sardina común Strangomera
+
+bentincki y Jurel Trachurus murphyi, correspondiente
+
+al área marítima de la XIV Región, antes denominada
+
+Área Norte de la X Región, sometida al Régimen
+
+Artesanal de Extracción por organizaciones de pescadores artesanales, para el período comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2009, se efectuará de la siguiente manera:
 
 A) Pesquería artesanal de Anchoveta:
 
@@ -109,11 +119,5 @@ d) Los excesos en la extracción de la fracción autorizada en el período respe
 6º.- Recházase los programas de administración de capturas presentados por el Sindicato de Trabajadores Independientes Pescadores Artesanales y Armadores Cerqueros de Valdivia, Registro Sindical Único 10.02.0409, y por la Asociación de Armadores Cerqueros de Valdivia, ACERVAL A.G., Registro de Asociaciones Gremiales 207-10, en virtud de no dar cumplimiento los requisitos establecidos en el artículo 19 incisos 2º y 3º letra f) del D.S. Nº294, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
 
 > **Nota.** La Resolución 2024 Exenta, Economía, publicada el 11.06.2009, modifica la presente norma, en el sentido de modificar la asignación para el recurso Anchoveta, correspondiente a la organización artesanal Asociación Gremial de Armadores Cerqueros de la Región de Los Ríos - ACER A.G., Registro de Asociación Gremial 3793, como en ella se indica.
-
-> **Nota.** NOTA 1 La Resolución 2403 Exenta, Economía, publicada el 20.07.2009, modifica el Nº 1 letra A), de la presente norma, en el sentido de reemplazar las asignaciones del recurso Anchoveta Engraulis ringens para las organizaciones de pescadores artesanales por las que en ella se indica.
-
-> **Nota.** NOTA 2 El Nº 1 de la Resolución 3984 Exenta, Economía, publicada el 03.12.2009, modifica la presente norma en el sentido de reformar la asignación para los recursos Anchoveta y Sardina común, correspondiente a las organizaciones artesanales Asociación de Armadores Cerqueros de Valdivia ACERVAL A.G., Registro de Asociación Gremial 207-10, y Sindicato de Trabajadores Independientes Pescadores Artesanales y Armadores Cerqueros de Valdivia, Registro Sindical único 10.02.0409, en la forma que en dicha norma se señala.
-
-> **Nota.** NOTA 3 El Nº 1 de la Resolución 4251 Exenta, Economía, publicada el 29.12.2009, modifica la presente norma en el sentido de modificar la asignación para los recursos Anchoveta y Sardina común, correspondiente a la Asociación Gremial de Armadores Cerqueros de la Región de Los Ríos - ACER A.G., Registro de Asociación Gremial 3773-2007, de acuerdo con lo que en dicha norma se indica.
 
 Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
