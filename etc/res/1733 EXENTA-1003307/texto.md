@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.733, de 15 de mayo de 2009, de esta Subsecretaría, autorízase a RODRIGO ÁLVARO SIERRALTA ÁLVAREZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Barros Arana Nº 3105, Barrio Industrial, Arica, XV Región, para elaborar en línea de proceso Alga picada, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
