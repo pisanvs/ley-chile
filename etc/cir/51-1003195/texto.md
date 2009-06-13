@@ -8,7 +8,7 @@ Aspectos Generales
 
 En conformidad con lo dispuesto en el artículo 112 de la Ley Nº 18.700, Orgánica Constitucional sobre Votaciones Populares y Escrutinios, corresponde al Ministerio del Interior, previa coordinación con el Ministerio de Defensa Nacional, dictar las disposiciones para el resguardo del orden público con motivo de la realización de una nueva elección municipal, a efectuarse el 14 de junio de 2009, en la comuna de Sierra Gorda, la cual fue convocada por Decreto N° 355, del Ministerio del Interior, de fecha 5 de mayo de 2009, publicado en el Diario Oficial el 15 de mayo de 2009.
 
-La Ley Nº 18.700, ya citada, encarga a las Fuerzas Armadas y a Carabineros el resguardo del orden público, desde el segundo día anterior a un acto plebiscitario y hasta el término de las funciones de los Colegios Escrutadores (Art. 110, Ley Nº 18.700).
+La Ley Nº 18.700, ya citada, encarga a las Fuerzas Armadas y a Carabineros el resguardo del orden público, desde el segundo día anterior a un acto electoral y hasta el término de las funciones de los Colegios Escrutadores (Art. 110, Ley Nº 18.700).
 
 Cabe tener presente que, no obstante las facultades otorgadas a los Jefes de las Fuerzas por la Ley Nº 18.700, los Intendentes Regionales y Gobernadores Provinciales mantienen el ejercicio del gobierno y administración superior de sus respectivos territorios jurisdiccionales.
 
@@ -26,7 +26,7 @@ Lo anterior, se oficializó mediante el decreto supremo N° 71 de fecha 27 de ma
 
 2.- En consecuencia, para la mantención del orden público durante el mencionado proceso, el señor Jefe de Fuerza asumirá el mando de las Fuerzas de Ejército, Armada, Fuerza Aérea, Carabineros y de la Policía de Investigaciones de Chile, en la zona jurisdiccional de la Jefatura de Plaza dispuestas por el citado Decreto.
 
-3.- En cumplimiento a lo anterior, el señor Jefe de Fuerza adoptará las medidas conducentes para el normal desarrollo del proceso plebiscitario.
+3.- En cumplimiento a lo anterior, el señor Jefe de Fuerza adoptará las medidas conducentes para el normal desarrollo del proceso electoral.
 
 4.- El Jefe de Fuerza deberá dar cumplimiento, entre otras, a las siguientes obligaciones:
 
@@ -48,7 +48,7 @@ Disposiciones para la mantención del orden público
 
 A.- Funcionamiento sedes oficiales de partidos políticos y de las Organizaciones Comunitarias de carácter territorial y funcional
 
-1.- Los partidos políticos y las candidaturas independientes podrán tener sedes oficiales y oficinas de propaganda, ambas hasta un máximo de cinco en la comuna, las que podrán exhibir en sus frontispicios letreros, telones, afiches u otra propaganda plebiscitaria a partir del 15 de mayo de 2009 (Art. 33 Ley Nº18.700).
+1.- Los partidos políticos y las candidaturas independientes podrán tener sedes oficiales y oficinas de propaganda, ambas hasta un máximo de cinco en la comuna, las que podrán exhibir en sus frontispicios letreros, telones, afiches u otra propaganda electoral a partir del 15 de mayo de 2009 (Art. 33 Ley Nº18.700).
 
 El Jefe de las Fuerzas y el Ministerio Público deberán inspeccionar tales sedes, declaradas según lo dispuesto en el artículo 157 de la Ley N° 18.700, con el fin de establecer si en ellas se practicare el cohecho de electores, si existieren armas o explosivos, o se realizaren actividades o propaganda electoral fuera del período señalado en el artículo 30 de la misma ley. Deberán llevar a cabo iguales investigaciones en cualquier lugar en que se denuncie la práctica de cohecho, encierro de electores o actividades de propaganda electoral.
 
@@ -60,7 +60,7 @@ Los Presidentes de las Juntas Electorales informarán al Jefe de Fuerza de las u
 
 El Jefe de Fuerza deberá tomar conocimiento preciso de dichas ubicaciones a fin de hacer cumplir lo que dispone la ley en relación con ellos. Verificará, en particular, si cuentan con locales anexos, respecto de los cuales se pueda presumir que sean destinados para concentración de electores, susceptibles de facilitar la práctica del cohecho o impedir el ejercicio del derecho a sufragio.
 
-Si llegare a comprobar su existencia, ordenará se les independice en forma efectiva y si hubiere negativa de los encargados de dichos locales para atender las indicaciones que se impartan, darán cuenta al Ministerio Público, para que éste adopte las medidas del caso, sin perjuicio de que en el día del plebiscito se mantenga una especial atención a este aspecto.
+Si llegare a comprobar su existencia, ordenará se les independice en forma efectiva y si hubiere negativa de los encargados de dichos locales para atender las indicaciones que se impartan, darán cuenta al Ministerio Público, para que éste adopte las medidas del caso, sin perjuicio de que en el día de la elección se mantenga una especial atención a este aspecto.
 
 3.- Las sedes oficiales de los Partidos Políticos y Candidaturas Independientes podrán funcionar incluso el día 14 de junio de 2009, pero en esta oportunidad tan sólo para los siguientes efectos:
 
@@ -104,7 +104,7 @@ Desde que asuman su cargo, los Jefes de Locales dispondrán las medidas necesari
 
 G.- Propaganda Electoral
 
-1.- El artículo 30 de la Ley Nº 18.700 dispone que la propaganda electoral por medio de la prensa y radioemisoras sólo podrá efectuarse desde el trigésimo día anterior (15 de junio de 2009) y hasta el tercer día anterior al plebiscito comunal (las 24:00 hrs. del día 12 de marzo de 2009).
+1.- El artículo 30 de la Ley Nº 18.700 dispone que la propaganda electoral por medio de la prensa y radioemisoras sólo podrá efectuarse desde el trigésimo día anterior (15 de mayo de 2009) y hasta el tercer día anterior a la elección municipal (las 24:00 hrs. del día 11 de junio de 2009).
 
 Asimismo, prohíbe la propaganda electoral en cinematógrafos y salas de exhibición de videos y la que en cualquier lugar o forma se realice por altoparlantes fijos o móviles, con la única excepción de la transmisión de discursos pronunciados en concentraciones públicas.
 
@@ -112,7 +112,7 @@ Asimismo, prohíbe la propaganda electoral en cinematógrafos y salas de exhibic
 
 3.- La Municipalidad deberá, de oficio o a petición de parte, retirar u ordenar el retiro de toda la propaganda electoral que se realice con infracción a lo dispuesto precedentemente. Los partidos políticos y las organizaciones comunitarias de carácter territorial y funcional de la comuna estarán obligados a rembolsar los gastos en que incurra la municipalidad en el retiro de dicha propaganda.
 
-4.- La propaganda mediante volantes, con elementos móviles o por avisos luminosos o proyectados, sólo podrá efectuarse desde el trigésimo día anterior (15 de junio de 2009) y hasta el tercer día anterior al plebiscito comunal (las 24:00 hrs. del día 12 de junio de 2009) (Art. 32 Ley Nº 18.700).
+4.- La propaganda mediante volantes, con elementos móviles o por avisos luminosos o proyectados, sólo podrá efectuarse desde el trigésimo día anterior (15 de mayo de 2009) y hasta el tercer día anterior a la elección municipal (las 24:00 hrs. del día 11 de junio de 2009).
 
 Sin perjuicio de lo anterior, corresponderá al Concejo municipal de la comuna de Sierra Gorda determinar aquellas vías públicas en que, excepcionalmente, la propaganda electoral por medio de elementos móviles o por avisos luminosos o proyectados, no podrá desarrollarse bajo ningún concepto, por estimarse que ella pudiere afectar o interferir el normal desarrollo de las actividades cotidianas de la comuna.
 
@@ -242,7 +242,7 @@ Corresponderá a este delegado, entre otras funciones, informar a los electores 
 
 R.- Detenciones y Arrestos
 
-1.- La Fuerza encargada del orden público a requerimiento de las autoridades pertinentes, o de oficio, detendrá y pondrá a disposición de autoridad judicial a quien impidiere ejercer sus funciones a algún miembro de la Junta Electoral, Mesa Receptora, Colegio Escrutador o al Delegado de aquella (Art. 131 Ley Nº18.700); al que perturbare el orden en el recinto en que funcione una Junta, Mesa Receptora o Colegio Escrutador o en sus alrededores, con el fin de impedir su funcionamiento (Art. 131 Ley N° 18.700); al que votare más de una vez en el mismo plebiscito; al que suplantare la persona de un elector o pretendiere llevar su nombre para sustituirlo; al que confeccionare actas de escrutinio de una mesa que no hubiere funcionado; al que falsificare, sustrajere, ocultase o destruyere algún registro electoral, acta de escrutinio o cédula electoral; al que se apropiare de una urna que contuviere votos emitidos que aún no se hubieren escrutado; al que tuviere cédulas electorales en circunstancias que no sean las previstas por la ley; al que impidiere a cualquier elector ejercer su derecho a sufragar por medios violentos, amenazas o privándolo de su cédula nacional de identidad o cédula de identidad para extranjeros y al que sea sorprendido presionando a un elector con discapacidad, o a la persona que le sirve como asistente (Art. 136 Ley Nº18.700).
+1.- La Fuerza encargada del orden público a requerimiento de las autoridades pertinentes, o de oficio, detendrá y pondrá a disposición de autoridad judicial a quien impidiere ejercer sus funciones a algún miembro de la Junta Electoral, Mesa Receptora, Colegio Escrutador o al Delegado de aquella (Art. 131 Ley Nº18.700); al que perturbare el orden en el recinto en que funcione una Junta, Mesa Receptora o Colegio Escrutador o en sus alrededores, con el fin de impedir su funcionamiento (Art. 131 Ley N° 18.700); al que votare más de una vez en la misma elección; al que suplantare la persona de un elector o pretendiere llevar su nombre para sustituirlo; al que confeccionare actas de escrutinio de una mesa que no hubiere funcionado; al que falsificare, sustrajere, ocultase o destruyere algún registro electoral, acta de escrutinio o cédula electoral; al que se apropiare de una urna que contuviere votos emitidos que aún no se hubieren escrutado; al que tuviere cédulas electorales en circunstancias que no sean las previstas por la ley; al que impidiere a cualquier elector ejercer su derecho a sufragar por medios violentos, amenazas o privándolo de su cédula nacional de identidad o cédula de identidad para extranjeros y al que sea sorprendido presionando a un elector con discapacidad, o a la persona que le sirve como asistente (Art. 136 Ley Nº18.700).
 
 2.- Igualmente, se procederá a la detención del que solicitare votos por paga, dádiva o promesa de dinero u otra recompensa o cohechare en cualquier forma a un elector, presumiéndose esta conducta en el que acompañare a un elector hasta dentro del radio de veinte metros alrededor de una mesa, salvo que se trate de discapacitados que hubieren optado por ser asistidos en el acto de votar, con excepción de los casos de delito flagrante. Asimismo, se detendrá al que vendiere su voto o sufragase por dinero u otra dádiva, y se presumirá que incurre en esta conducta el elector que, en el acto de sufragar, sea sorprendido empleando cualquier procedimiento o medio encaminado a dejar constancia de la preferencia que pueda señalar o haya señalado en la cédula. En este último caso, la detención deberá ser ordenada por el Presidente de Mesa (Art. 137 Ley Nº 18.700).
 
