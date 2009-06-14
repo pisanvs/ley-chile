@@ -1,0 +1,5 @@
+DEROGA LA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOCIEDAD COMERCIAL ANDALUCÍA LTDA.
+
+La VI Dirección Regional Rancagua, del Servicio de Impuestos Internos, por resolución Ex. N° 3.373, de fecha 26 de mayo de 2009, deroga, a contar del 1° del mes siguiente al de esta publicación, y en forma indefinida, a Sociedad Comercial Andalucía Ltda., RUT N° 78.605.300-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de carne y servicios de faenamiento, otorgado en cumplimiento a los requisitos establecidos en la Res. Ex. N° 2.705, del 07/05/1998, modificada por la Res. Ex. N° 3.784, del 25/06/98 y ratificado en Res. Ex. N° 3.722, del 28/07/2000, de la Dirección Nacional, mediante certificado N° 6, publicado en el Diario Oficial el 15/07/1998.-
+
+Mirtha Barra Paredes, Directora Regional.
