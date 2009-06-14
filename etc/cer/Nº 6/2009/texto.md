@@ -48,4 +48,4 @@ En consecuencia, el interés máximo convencional para el mismo período será e
 
 ### 4. Operaciones expresadas en moneda extranjera: 6,21% anual
 
-Santiago, 8 de mayo de 2009.- Gustavo Arriagada Morales, Superintendente de Bancos e Instituciones Financieras.
+Santiago, 8 de junio de 2009.- Gustavo Arriagada Morales, Superintendente de Bancos e Instituciones Financieras.
