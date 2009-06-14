@@ -36,6 +36,8 @@ La Asignación se ejecutará a través del desarrollo de las siguientes líneas 
 
 4. Estudios
 
+5. Línea de especialización de prácticas profesionales.
+
 #### Artículo 4º
 
 De la Línea de Proyectos Concursables: La línea de acción Proyectos Concursables se implementará mediante uno o más concursos anuales, en los que podrán participar los establecimientos educacionales de enseñanza media Técnico Profesional regidos por el DFL (Ed.) Nº 2, de 1998, y los del decreto ley Nº 3.166, de 1980, para que elaboren y presenten Proyectos de Fortalecimiento de las Prácticas Profesionales, a través de un Plan, en el cual deberán incorporar metodologías de seguimiento al plan de práctica profesional de los alumnos en las instituciones y empresas afines a la especialidad.
@@ -67,6 +69,18 @@ El Ministerio de Educación ejecutará esta línea a través del diseño, desarr
 #### Artículo 7º
 
 De la Línea de Estudios: La línea de acción Estudios tiene por objeto contar con información sustantiva, actualizada y pertinente y con estudios respecto del proceso de egreso, práctica profesional y titulación de los alumnos, para la elaboración adecuada de políticas educacionales relacionadas con la Formación Técnica, lo que será realizado a través de levantamiento de información pertinente y análisis de ésta, en lo que dice relación con el papel que dentro del sistema desarrollan docentes, estudiantes, establecimientos educacionales y centros de práctica.
+
+#### Artículo 7º Bis
+
+De la Línea de Especialización de Prácticas Profesionales.
+
+Línea destinada a proporcionar Especialización Técnica en sectores productivos, internos o externos, a los estudiantes egresados de la modalidad de enseñanza Técnico-Profesional, y que se encuentren en proceso de práctica profesional en el ejercicio de un año lectivo.
+
+La participación en esta Línea será propuesta de los establecimientos Técnico Profesional, identificando, tanto el programa de práctica como los alumnos. Los alumnos deberán haber demostrado durante los estudios excelencia académica y técnica, como asimismo, haber demostrado poseer capacidades para establecer buenas relaciones interpersonales y compromiso en su proceso de aprendizaje.
+
+El Ministerio ejecutará esta Línea mediante una o más convocatorias, las que se realizarán a través de la página web del Ministerio de Educación, Portal de la Formación Técnica, cuyas bases y condiciones se incluirán en las respectivas bases técnicas y administrativas. Los postulantes serán evaluados por una Comisión Intersectorial conformada, a lo menos, por un representante del Ministerio, uno del sector productivo pertinente y otro del ámbito privado.
+
+La ejecución de esta Línea requerirá financiamiento para traslados, movilización, estadía, gastos de materiales de estudio y gastos asociados a traslado exterior.
 
 #### Artículo 8º
 
