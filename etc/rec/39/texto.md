@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.384, de 11 de junio del 2009, se publicó Certificado Nº 6/2009 INTERÉS CORRIENTE, que Determina Interés Corriente por el Lapso que Indica, con el error que se salva a continuación: página cuatro, segunda columna, donde dice "... Santiago, 8 de mayo de 2009.- Gustavo Arriagada Morales, Superintendente de Bancos e Instituciones Financieras. ..." debe decir "... Santiago, 8 de junio de 2009.- Gustavo Arriagada Morales, Superintendente de Bancos e Instituciones Financieras. ...".
