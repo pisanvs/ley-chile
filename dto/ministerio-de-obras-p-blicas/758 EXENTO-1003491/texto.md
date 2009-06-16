@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 758, de 19 de mayo de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 4-D, para la obra "Reposición Pav. Ruta 45 Cruce Long. (Socos) - Ovalle, Km. 0,50730 a Km. 34,26924", Provincia de Limarí, IV Región, que figura a nombre de DIAZ CORTES DOMINGO VICENTE, rol de avalúo E/T, superficie 352 M2. La Comisión de Peritos, fijó con fecha 6 de noviembre de 2007, en la cantidad de $9.563.276. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
