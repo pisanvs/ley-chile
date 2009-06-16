@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.012 de 5 de junio de 2009 de esta Subsecretaría, autorízase a CRISTIAN ERNESTO ESPINOZA GONZÁLEZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Francisco Bilbao s/n, sector Quinta, Taltal II Región, en la línea de proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
