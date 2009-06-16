@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 750, de 19 de mayo de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 4, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 29,00000 al Km. 37,80000", comuna de Alto del Carmen, III Región, que figura a nombre de ARROUCH ROJAS BERTA, rol de avalúo 894-16, superficie 9 M2. La Comisión de Peritos, fijó con fecha 28 de febrero de 2007, en la cantidad de $65.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
