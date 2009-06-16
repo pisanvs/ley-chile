@@ -1634,6 +1634,8 @@ Las edificaciones y sus salientes ubicadas delante de los paseos miradores grafi
 
 Sin embargo, para la totalidad de los paseos miradores graficados en los planos PRV-02 y ESPV-01, el Director de Obras Municipales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, podrá autorizar un menor ángulo de rasante siempre que el edificio no obstaculice la visión panorámica del paseo mirador.
 
+Para las edificaciones emplazadas en el área del plan comprendida entre la Plaza Wheelwright y la Plaza Victoria, cuyos límites se encuentran graficados en el Plano ESPV-01 se establecen las siguientes áreas, con restricciones de altura que a continuación se señalan: ARTICULO 18 (DEL ART. 2) -02 y ESPV-01, el Director de Obras Municipales, previo informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo, podrá autorizar un menor ángulo de rasante siempre que el edificio no obstaculice la visión panorámica del paseo mirador.
+
 Para las edificaciones emplazadas en el área del plan comprendida entre la Plaza Wheelwright y la Plaza Victoria, cuyos límites se encuentran graficados en el Plano ESPV-01 se establecen las siguientes áreas, con restricciones de altura que a continuación se señalan:
 
 Area V-1 : Area de restricción de alturas en entorno
@@ -1668,7 +1670,9 @@ correspondientes a la totalidad del sector
 
 graficado en el plano ESPV-01.
 
-Area V-9 : Paseo Costanera y Bodega Simón Bolívar La altura máxima para la edificación será de 9 m.
+Area V-9 : Paseo Costanera y Bodega Simón Bolívar
+
+La altura máxima para la edificación será de 10,8 m.
 
 Area V-10 : Protección de Vistas desde Rambla Bicentenario y Ventana Francia
 
@@ -2122,11 +2126,11 @@ b.4. Distanciamientos: Las edificaciones que enfrenten Avenida España, deberán
 
 Las edificaciones que enfrenten a la Bodega Simón Bolívar deberán distanciarse de ella en la siguiente forma:
 
-* paralelamente a la Bodega: 10 m (salvo en los sectores donde se proyecten atraviesos que la comuniquen con las edificaciones cercanas y que requieran adosamientos, los que deberán ser justificados por la memoria de intervención);
+* paralelamente a la Bodega: 10 m (salvo en los sectores donde se proyecten atraviesos que la comuniquen con las edificaciones cercanas y que requieran adosamientos y, en la medida que ésta se constituya en un eje peatonal estructurante del proyecto de que se trate, se rescate su continuidad interior, dada por la sucesión de sus arcos, y su perspectiva en profundidad, realzando de esta manera su valor patrimonial desde el interior), los que deberán ser justificados por la Memoria de Intervención.
 
 * transversalmente entre ellas y en sentido perpendicular al mar. 15 m.
 
-Las edificaciones que enfrenten el Paseo Costanera deberán distanciarse 25 m mínimo a los ejes de las calles entre Edwards y Freire.
+Las edificaciones que enfrenten el Paseo Costanera, entre las calles Edwards y Rodríguez, deberán generar transparencias o aperturas visuales a nivel de primer piso en los ejes de dichas calles, permitiendo la vista al mar desde Avenida Errázuriz.
 
 b.5. Estacionamientos: Serán obligatoriamente subterráneos tanto bajo los espacios de uso privado como de uso público y cumplirán los estándares del Art. 8 de la Ordenanza local del Plan Regulador Comunal.
 
@@ -2134,7 +2138,7 @@ c) Edificaciones sobre espacios públicos: Podrán permitirse edificaciones sobr
 
 habilitar equipamientos relacionados con el uso del mar o con las actividades culturales que conformen el Parque urbano Marítimo;
 
-- tengan una altura de 6 m sobre el Paseo;
+- tengan una altura de 4.5 m sobre el Paseo;
 
 - mantengan la altura permitida, y
 
@@ -2604,13 +2608,9 @@ b.3 Sistema de Agrupamiento, alturas y distanciamiento:
 
 El sistema de agrupamiento será aislado. En lo que respecta a las normas de adosamiento,
 
-distanciamiento y superficie de rasantes, se estará a lo
+distanciamiento y superficie de rasantes, se estará a lo dispuesto en art. 479° de la O.C.C. y U.
 
-dispuesto en art. 479° de la O.C.C. y U.
-
-b.4 Estacionamientos: Regirá lo dispuesto en los
-
-artículos 8° y 9° de la presente Ordenanza.
+b.4 Estacionamientos: Regirá lo dispuesto en los artículos 8° y 9° de la presente Ordenanza.
 
 Zona D. 1
 
@@ -3682,7 +3682,7 @@ en sur
 
 tramo M - N 15 m.
 
-Decláranse de utilidad pública los espacios destinados a las Ventanas Urbanas (plazas) de Av. Argentina y Av. Francia, Paseo Costanera, y la vialidad interior, conformada por la prolongación de la calle Simón Bolívar hasta el Paseo Costanera y la Avenida Bicentenario, graficados en el plano PRV-BC-01, y sus perfiles.
+Decláranse de utilidad pública los espacios destinados a las Ventanas Urbanas (plazas) de Av. Argentina y Av. Francia, Paseo Costanera, y la vialidad interior, conformada por la prolongación de la calle Simón Bolívar hasta Avenida Bicentenario y la Avenida Bicentenario, graficados en el plano PRV-BC-01, y sus perfiles.
 
 Sólo para los efectos de determinar la escala de los equipamientos que se enfrenten a las vías, y en conformidad a lo dispuesto por el Art. 2.1.36 O. G. U. y C., se considerará que ellas tienen la calidad de vía troncal.
 
