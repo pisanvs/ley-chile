@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.982, de 4 de junio de 2009, de esta Subsecretaría, autorízase a EDUARDO ROBERTO ÁVALOS MORALES para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector lado norte de Punta Tórtolas, Taltal, II Región, para elaborar en línea de proceso Alga seca los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 4 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
