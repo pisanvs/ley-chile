@@ -1,0 +1,11 @@
+INSTRUCCIONES SOBRE EFECTOS TRIBUTARIOS DE LA ADJUDICACIÓN DE BIENES EN LOS CASOS A QUE SE REFIERE EL ART. 17 Nº8 LETRAS f) Y g) DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº37, de fecha 11 de junio de 2009, que imparte instrucciones sobre los efectos tributarios de las adjudicaciones de bienes que tienen lugar con motivo de la partición de una comunidad hereditaria o de la liquidación de la comunidad que se forma con motivo de la disolución de la sociedad conyugal; ello, de conformidad con lo dispuesto en el artículo 17 Nº8 letras f) y g), respectivamente, de la Ley sobre Impuesto a la Renta.
+
+Mediante la presente Circular se dan a conocer las disposiciones legales aplicables y las instrucciones relativas al beneficio tributario, sujetos beneficiarios y costo para fines tributarios de los bienes adjudicados en cada caso, así como los efectos tributarios en materia del impuesto a las ventas y servicios.
+
+Tratándose de la adjudicación de bienes con motivo de la liquidación de la sociedad conyugal, se ha estimado necesario precisar el costo para fines tributarios de los bienes adjudicados, cambiando el criterio sostenido hasta hoy. Así las cosas, se indica que para fines tributarios, el costo de adquisición que debe considerarse respecto del bien adjudicado en la partición de dicha comunidad, corresponde al valor de adjudicación, el que en todo caso deberá corresponder al valor corriente en plaza del bien al momento de la adjudicación. El Servicio de Impuestos Internos hará uso de todas las facultades que le confiere la ley a efectos de verificar dicho valor.
+
+Las presentes instrucciones entrarán en vigencia a partir de la fecha de publicación en extracto de esta Circular en el Diario Oficial, en lo que se refiere al cambio de criterio que contiene.
+
+El texto íntegro de esta Circular está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en junio de 2009.
