@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.032, de 8 de junio de 2009, de esta Subsecretaría, modifícase el numeral 4 de la resolución exenta Nº 774, de 2009, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardinas en aguas interiores de la X Región de Los Lagos - Sur, 2009", en el sentido de reemplazar a las embarcaciones artesanales "Antares II" y "Pacífico Alfa" por las embarcaciones "Antares IV" y "El Pacífico", respectivamente, del listado de naves autorizadas a participar de la presente pesca de investigación.
+
+Valparaíso, 8 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
