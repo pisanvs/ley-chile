@@ -28,7 +28,7 @@ Los programas de especialización que ofrezcan los Servicios de Salud o el Minis
 
 Para dar cumplimiento a lo indicado en el inciso precedente, los Servicios de Salud podrán celebrar convenios entre sí o con otros centros formadores a fin de establecer los programas de especialización que requieran para satisfacer sus necesidades de atención, los que pondrán a disposición de los interesados.
 
-Con tal objeto dichos Servicios podrán solicitar, de conformidad con lo prevenido en la letra c) del inciso tercero del artículo 8º del decreto ley Nº2.763, de 1979, que el Subsecretario de Salud los represente en la celebración de convenios específicos en materia de programas de especialización, como así también en el ofrecimiento de estos programas, a través de un proceso de selección nacional de carácter anual, a los profesionales funcionarios a que se refiere el artículo 6º de este reglamento.
+Con tal objeto dichos Servicios podrán solicitar, de conformidad con lo prevenido en la letra c) del inciso cuarto del artículo 8º del decreto con fuerza de ley Nº1, de 2005, del Ministerio de Salud que el Subsecretario de Redes Asistenciales los represente en la celebración de convenios específicos en materia de programas de especialización, como así también en el ofrecimiento de estos programas, a través de un proceso de selección nacional de carácter anual, a los profesionales funcionarios a que se refiere el artículo 6º de este reglamento.
 
 #### Artículo 4
 
@@ -40,9 +40,11 @@ Del acceso a los programas de especialización
 
 #### Artículo 5
 
-Para optar a programas de especialización el profesional funcionario deberá haberse desempeñado en forma previa, por un lapso no inferior a tres años, en el nivel primario de atención de un Servicio de Salud o en establecimientos de salud municipal. Tratándose de profesionales funcionarios dependientes de los Servicios de Salud, se considerará como desempeño en atención primaria aquel realizado en Hospitales Tipo 3 y 4, consultorios, postas rurales u otras unidades semejantes de igual complejidad de atención. Con todo, respecto de los profesionales de Hospitales Tipo 3, el Subdirector Médico del respectivo Servicio de Salud certificará el tiempo durante el cual dichos servidores se hubieren desempeñado en labores de esa naturaleza.
+Para acceder a programas de especialización el profesional funcionario deberá haberse desempeñado en forma previa, por un lapso no inferior a tres años, en el nivel primario de atención de uno o más Servicios de Salud o en establecimientos de salud municipal. Tratándose de profesionales funcionarios dependientes de los Servicios de Salud, se considerará como desempeño en atención primaria aquel realizado en Hospitales Tipo 3 y 4, consultorios, postas rurales u otras unidades semejantes de igual complejidad de atención. Con todo, respecto de los profesionales de Hospitales Tipo 3, el Subdirector Médico del respectivo Servicio de Salud certificará el tiempo durante el cual dichos servidores se hubieren desempeñado en labores de esa naturaleza.
 
 Se considerará para el cómputo de este plazo el tiempo durante el cual el profesional funcionario haya hecho uso de feriado, de licencia médica o maternal, de permisos con goce de remuneraciones para efectuar actividades de desarrollo de sus competencias y aquellos casos en que, por decisión de la autoridad y por períodos transitorios y determinados, se le encomienden otras actividades relacionadas con la atención primaria.
+
+Con todo, estos profesionales sólo podrán postular hasta el sexto año de permanencia en la Etapa de Destinación y Formación.
 
 #### Artículo 6
 
@@ -136,21 +138,31 @@ Lo anterior es sin perjuicio de lo dispuesto en el inciso 2º del artículo 43 d
 
 Con el fin de garantizar el cumplimiento de las obligaciones de desempeño a que se refieren los artículos precedentes el profesional deberá constituir previamente, cuando corresponda, una garantía equivalente a los gastos originados con motivo de la ejecución del programa y aquellos derivados del incumplimiento, todo ello incrementado en un 50%. Para estos efectos, el Director de Servicio o el Subsecretario en su caso, hará una estimación de los gastos derivados del incumplimiento los que no podrán exceder de un tercio de los gastos ocasionados con motivo de la ejecución de los programas. La caución podrá consistir en póliza de seguro, boleta bancaria u otra garantía suficiente, a juicio exclusivo del jefe superior de la entidad beneficiaria.
 
-No obstante lo señalado en el inciso anterior, el profesional respectivo será además responsable de los perjuicios que el incumplimiento irrogare al Servicio o entidad afectada. Asimismo, quedará impedido de reingresar a la Administración del Estado hasta por un lapso de 6 años. Con todo, cumplida la mitad del tiempo que dure el impedimento, el Subsecretario de Salud, con consulta al Director del Servicio afectado por dicha situación, podrá rehabilitar al profesional, fundado en razones de atención de salud de la población, considerando al efecto circunstancias extraordinarias derivadas de factores tales como aumento de la demanda de atención, falencia de profesionales, emergencias sanitarias y otros semejantes, lo que deberá quedar suficientemente acreditado en la resolución de rehabilitación.
+No obstante lo señalado en el inciso anterior, el profesional respectivo será además responsable de los perjuicios que el incumplimiento irrogare al Servicio o entidad afectada. Asimismo, quedará impedido de reingresar a la Administración del Estado hasta por un lapso de 6 años.
 
 #### Artículo 20
 
-Sin perjuicio de lo señalado en los artículos 17 y 18, los profesionales funcionarios podrán solicitar cambio de Servicio con otro profesional funcionario que se encuentre coetáneamente en obligación similar en un Servicio diferente, el que podrá ser autorizado mediante resolución fundada de cada uno de los Directores de Servicio y siempre que se cumplan las siguientes condiciones:
+Sin perjuicio de lo dispuesto en los artículos 17 y 18, los profesionales funcionarios podrán presentar una solicitud fundada ante el Director del Servicio de Salud del que dependan, adjuntando toda la documentación de respaldo pertinente, para cumplir su compromiso de desempeño en un Servicio de Salud distinto de aquel con el cual se encontraren obligados. Para los efectos de este artículo, la solicitud deberá fundarse en hechos tales como los siguientes:
 
-a) Que ambos profesionales interesados posean el mismo tipo de profesión y jornada; y
+- Razones de salud en la persona del profesional o de familiares directos, fehacientemente acreditadas, cuyos tratamientos requieran del cambio o se vean facilitados por el mismo.
 
-b) Que los Servicios involucrados acepten y se endosen recíprocamente las garantías constituidas por los profesionales.
+- Situaciones personales relevantes, calificadas por el Director, que obliguen al cambio.
+
+- Cambio en las condiciones de trabajo profesional en el Servicio de Salud por razones ajenas al interesado, debidamente acreditadas.
+
+- Situaciones de carácter socioeconómico o familiares graves que afecten en forma directa al profesional o a su familia directa, comprobadas fehacientemente.
+
+Para ello, se requerirá el acuerdo de los respectivos Directores de Servicios de Salud de origen y de destino, quienes podrán otorgarlo sólo en casos calificados mediante resolución fundada, debiendo el primero remitir al segundo la solicitud y antecedentes recibidos a fin de que se pronuncie primero sobre la misma, a fin de tener su decisión como un antecedente de la resolución que aquel deba dictar. Para el ejercicio de esta facultad se requerirá que tanto el Servicio de Salud de origen como el de destino cuenten con las disponibilidades presupuestarias necesarias para ello, pudiendo el Servicio de origen traspasar al de destino los recursos y dotación de personal que se liberen por el cambio del profesional, cuando este último Servicio no cuente con presupuesto para ese fin. Con todo, el Servicio de Salud de origen deberá endosar al Servicio de Salud de destino la garantía otorgada por el profesional funcionario. A esta misma disposición quedarán sujetos los profesionales funcionarios de la Etapa de Destinación y Formación que soliciten cambio a otro Servicio de Salud.
+
+El plazo para presentar la solicitud a que se refiere el inciso anterior será de treinta días hábiles contado desde la fecha del hecho en que se funda la solicitud.
+
+La aceptación de la solicitud deberá ser dada tanto por el Director del Servicio de Salud de origen y como por el de destino, en el orden indicado en el inciso segundo y fundada en el mismo hecho, la que producirá sus efectos a contar de la fecha de la resolución de aceptación que dicte el Servicio de Salud de origen.
 
 Párrafo Final
 
 #### Artículo 21
 
-Para cumplir con la obligación de regular la capacidad formadora de especialistas en el sector, la Subsecretaría de Salud deberá adoptar las medidas tendientes a lograr que la oferta de dichos programas corresponda a las necesidades del país. Esta atribución se ejercerá de acuerdo a las políticas de salud fijadas por el Ministerio y con la asesoría de las comisiones docente asistenciales de las respectivas profesiones.
+Para cumplir con la obligación de regular la capacidad formadora de especialistas en el sector, la Subsecretaría de Redes Asistenciales deberá adoptar las medidas tendientes a lograr que la oferta de dichos programas corresponda a las necesidades del país. Esta atribución se ejercerá de acuerdo a las políticas de salud fijadas por el Ministerio y con la asesoría de las comisiones docente asistenciales de las respectivas profesiones.
 
 ## Artículos transitorios
 
