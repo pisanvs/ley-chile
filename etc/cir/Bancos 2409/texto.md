@@ -882,7 +882,7 @@ ACCIONISTAS. DISPOSICIONES VARIAS.
 
 I. ACTAS DE LAS JUNTAS DE ACCIONISTAS. SU ENVÍO A LA SUPERINTENDENCIA.
 
-Los bancos deberán enviar a este Organismo una copia simple de las actas de las juntas ordinarias y extraordinarias de accionistas, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de celebración de la respectiva Junta.
+Los bancos deberán enviar a este Organismo una copia simple de las actas de las juntas ordinarias y extraordinarias de accionistas, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. Las actas se enviarán a través de SINACOFI y en formato PDF "desprotegido", de modo que el usuario pueda copiar el documento o extractar partes de él sin alterar el original.El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de celebración de la respectiva Junta.
 
 En caso de que el acta sea objeto de modificaciones, se comunicarán a esta Superintendencia también dentro de un plazo de diez días hábiles bancarios, contado desde la fecha en que el acta quede firmada.
 
@@ -1008,7 +1008,7 @@ I. ACTAS DE SESIONES DE DIRECTORIO. SU ENVÍO A LA SUPERINTENDENCIA.
 
 ### 1. Envío de las actas a este Organismo
 
-Los bancos deberán enviar a este Organismo las actas de sesiones de directorio, ordinarias y extraordinarias, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de la correspondiente reunión.
+Los bancos deberán enviar a este Organismo las actas de sesiones de directorio, ordinarias y extraordinarias, tan pronto se encuentren redactadas y bajo la sola firma del gerente general o de quien haga sus veces. Las actas se enviarán a través de SINACOFI y en formato PDF "desprotegido", de modo que el usuario pueda copiar el documento o extractar partes de él sin alterar el original. El plazo máximo para este envío es de diez días hábiles bancarios contado desde la fecha de la correspondiente reunión. Si no se siguiera el procedimiento habitual de incluir en las actas una tabla inicial de su contenido, se enviará esa tabla como información adicional.
 
 En caso de que el acta sea objeto de modificaciones u observaciones se comunicarán a esta Superintendencia también dentro de un plazo de diez días hábiles bancarios, contado desde la fecha en que el acta quede firmada por todos los concurrentes, o se deje constancia en ella de que los que no hayan firmado se encuentran imposibilitados de hacerlo.
 
