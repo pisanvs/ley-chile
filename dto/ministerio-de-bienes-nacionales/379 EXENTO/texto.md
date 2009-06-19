@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN DE USO GRATUITO DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ A LA EMPRESA PORTUARIA IQUIQUE
+
+N° 379 exento.- Santiago, 20 de mayo de 2009.
+
+Mediante decreto exento N° 379, de 20 de mayo de 2009, el Ministerio de Bienes Nacionales otorgó concesión de uso gratuito a la Empresa Portuaria de Iquique, R.U.T. 61.951.300-2, el inmueble fiscal ubicado en la Ruta A-16, en el sector Huantajaya, comuna de Alto Hospicio, provincia de Iquique, Región de Tarapacá, Rol de Avalúo Fiscal N° 5357-1, inscrito a nombre del Fisco, en mayor cabida, a fs. 783 vta. N° 1032, del Registro de Propiedad del Conservador de Bienes Raíces de Iquique, del año 1979, singularizado en el Plano N° 01107-115-C.U., con una superficie de cuarenta mil metros cuadrados (40.000,00 m²), por un plazo de cincuenta (50) años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión se otorga para la ejecución de un proyecto que consiste en la habilitación de un Centro de manipulación y almacenamiento de mercaderías de importación y exportación, en el marco del Tratado de Paz, Amistad y Comercio de 1904, suscrito entre Chile y Bolivia. El contrato de concesión deberá suscribirse dentro del plazo de treinta (30) días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión.
+
+Anótese, regístrese en el Ministerio de Bienes Nacionales, comuníquese, publíquese en extracto en el Diario Oficial y archívese.- Por orden de la Presidenta de la República, Romy Schmidt Crnosija, Ministra de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Augusto Prado Sánchez, Subsecretario de Bienes Nacionales.
