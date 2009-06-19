@@ -20,9 +20,9 @@ b) Elimínase en la tabla inserta en el resuelvo 1°, la fila 240, correspondien
 
 VER DIARIO OFICIAL 04.04.2009, PÁGINA 5.
 
-c) Reemplázase en el enunciado primero del resuelvo 1°, el guarismo "162.140 UF" por "161.470 UF".
+c) Reemplázase en el enunciado primero del resuelvo 1°, el guarismo "162.140 UF" por "150.750 UF".
 
-d) Reemplázase en el resuelvo 2°, el guarismo "3.630 UF" por "3.615 UF".
+d) Reemplázase en el resuelvo 2°, el guarismo "3.630 UF" por "3.375 UF".
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
