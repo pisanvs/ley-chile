@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1º
 
-Los propietarios y meros tenedores de los inmuebles en los que funcionen jardines infantiles, cuyas edificaciones o ampliaciones hayan sido construidas con anterioridad al 31 de diciembre de 2005, con o sin permiso de edificación y que no cuenten con recepción definitiva, podrán, dentro del plazo de dos años contado desde la publicación de esta ley, presentar solicitud y antecedentes de regularización de la situación del inmueble.
+Los propietarios y meros tenedores de los inmuebles en los que funcionen jardines infantiles, cuyas edificaciones o ampliaciones hayan sido construidas con anterioridad al 31 de diciembre de 2008, con o sin permiso de edificación y que no cuenten con recepción definitiva, podrán, dentro del plazo de dos años contado desde el 1 de mayo de 2009, presentar solicitud y antecedentes de regularización de la situación del inmueble.
 
 Para tales efectos, se deberá presentar ante la dirección de obras municipales respectiva, una solicitud de permiso y recepción simultánea, acompañada de los siguientes documentos, de cargo del interesado:
 
