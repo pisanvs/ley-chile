@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A COOPERATIVA CAMPESINA RADALES LTDA.
+
+La Décima Dirección Regional Puerto Montt, del Servicio de Impuestos Internos, por resolución Ex. Nº5.147, de fecha 11 de diciembre de 2008, otorga, a contar del 1º del mes siguiente de esta publicación, al contribuyente Cooperativa Campesina Radales Ltda., RUT Nº77.479.890-0, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la comercialización de Pequeños Productores Agrícolas, establecido en la resolución exenta Nº3.721, del 28 de julio de 2008, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de agosto de 2000.
