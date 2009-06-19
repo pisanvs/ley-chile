@@ -88,9 +88,7 @@ Parte 50: Representación de áreas
 
 en corte.
 
-NCh2796.Of2003 Acuerdos de Producción Limpia
-
-(APL) - Vocabulario.
+NCh2796.Of2003 ANULADA Y REEMPLAZADA
 
 NCh2825.Of2003 ANULADA Y REEMPLAZADA
 
