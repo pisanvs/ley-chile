@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.736, 15 de mayo de 2009, de esta Subsecretaría, autorízase a JUANA GRACIELA GUZMÁN ASTUDILLO para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada Avenida Barrionuevo Nº103, Chañaral, III Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
