@@ -74,9 +74,7 @@ NCh9000.Of.2001 Sistemas de gestión de la calidad
 
 - Fundamentos y vocabulario.
 
-NCh9001.Of.2001 Sistemas de gestión de la calidad
-
-- Requisitos.
+NCh9001.Of.2001 ANULADA Y REEMPLAZADA
 
 NCh9004.Of.2001 Sistemas de gestión de la calidad
 

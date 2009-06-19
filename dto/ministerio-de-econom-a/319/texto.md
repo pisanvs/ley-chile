@@ -10,7 +10,7 @@ Decláranse Normas Oficiales de la República de Chile, las siguientes:
 
 NCh 2018/1 ANULADA Y REEMPLAZADA
 
-NCh 2018/2 Tubos para instalaciones eléctricas - Parte 2: Requisitos particulares para tubos rígidos lisos de materiales aislantes.
+NCh 2018/2 ANULADA Y REEMPLAZADA
 
 #### Artículo 2º
 

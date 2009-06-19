@@ -10,7 +10,7 @@ Decláranse Normas oficiales de la República de Chile, las siguientes: NCh 1095
 
 NCh 1095/2 Lámparas de filamento de tungsteno para iluminación general Parte 2: Lámparas con una duración de 2.500 horas.
 
-NCh 2015 Tubos flexibles de material plástico autoextinguible para canalizaciones eléctricas - Especificaciones.
+NCh 2015 ANULADA Y REEMPLAZADA
 
 #### Artículo 2°
 
