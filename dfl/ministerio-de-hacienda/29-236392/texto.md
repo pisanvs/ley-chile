@@ -82,9 +82,7 @@ b) En los Ministerios, los Secretarios Regionales Ministeriales y los Jefes de D
 
 c) En los servicios públicos, los jefes superiores de los servicios, los subdirectores, los directores regionales o jefaturas de niveles jerárquicos equivalentes o superiores a dichas jefaturas, existentes en la estructura del servicio, cualquiera sea su denominación.
 
-Se exceptúan los rectores de las Instituciones de Educación Superior de carácter estatal, los que se regirán por la Ley Orgánica Constitucional de Enseñanza, la Ley sobre Universidades
-
-del Estado y los estatutos orgánicos propios de cada Institución.
+Se exceptúan los rectores de las Instituciones de Educación Superior de carácter estatal, los que se regirán por la Ley Orgánica Constitucional de Enseñanza y los estatutos orgánicos propios de cada Institución.
 
 #### Artículo 8º
 
@@ -132,23 +130,27 @@ Las personas contratadas a honorarios se regirán por las reglas que establezca 
 
 Para ingresar a la Administración del Estado será necesario cumplir los siguientes requisitos:
 
-a) Ser ciudadano o extranjero poseedor de un permiso de residencia.
+a) Ser ciudadano;
+
+No obstante, en casos de excepción determinados por la autoridad llamada a hacer el nombramiento, podrá designarse en empleos a contrata a extranjeros que posean conocimientos científicos o de carácter especial. Los respectivos decretos o resoluciones de la autoridad deberán ser fundados, especificándose claramente la especialidad que se requiere para el empleo y acompañándose el certificado o título del postulante.
+
+En todo caso, en igualdad de condiciones, se preferirá a los chilenos.
 
 b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere procedente;
 
 c) Tener salud compatible con el desempeño del cargo;
 
-d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley. Para aquellos cargos regidos por esta ley en los que se exija tener licencia de educación media, se entenderá que cumplen dicho requisito las personas con discapacidad mayores de 18 años que acrediten haber completado sus estudios en la modalidad de educación especial. Todo lo anterior, de conformidad con lo dispuesto en el decreto Nº 83, de 2015, del Ministerio de Educación, que aprueba criterios y orientaciones de adecuación curricular para estudiantes con necesidades educativas especiales de educación parvularia y educación básica o la normativa que lo reemplace.
+d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley;
 
-e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones. Con todo, conforme lo establecido en el artículo 121 de este Estatuto, no será necesario el cumplimiento de dicho plazo cuando así lo determine el respectivo fiscal.
+e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
 
-f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por delito que tenga asignada pena de crimen o simple delito. Sin perjuicio de lo anterior, tratándose del acceso a cargos de auxiliares y administrativos, no será impedimento para el ingreso encontrarse condenado por ilícito que tenga asignada pena de simple delito, siempre que no sea de aquellos contemplados en el Título V, Libro II, del Código Penal.
+f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por crimen o simple delito.
 
 #### Artículo 13
 
 Los requisitos señalados en las letras a), b) y d) del artículo anterior, deberán ser acreditados mediante documentos o certificados oficiales auténticos.
 
-El requisito establecido en la letra c) del artículo que precede, se acreditará mediante certificación del Servicio de Salud correspondiente. El solo hecho de contar con una calificación y certificación de discapacidad, de conformidad con lo dispuesto en la ley Nº 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no podrá ser considerado por el respectivo Servicio de Salud como fundamento de incumplimiento de dicho requisito.
+El requisito establecido en la letra c) del artículo que precede, se acreditará mediante certificación del Servicio de Salud correspondiente.
 
 El requisito de título profesional o técnico exigido por la letra d) del artículo anterior, se acreditará mediante los títulos conferidos en la calidad de profesional o técnico, según corresponda, de conformidad a las normas legales vigentes en materia de Educación Superior.
 
@@ -210,7 +212,7 @@ El ingreso a los cargos de carrera en calidad de titular se hará por concurso p
 
 Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho a postular en igualdad de condiciones.
 
-Prohíbese todo acto de discriminación arbitraria que se traduzca en exclusiones o restricciones, tales como aquellas basadas en motivos de raza o etnia, situación socioeconómica, idioma, ideología u opinión política, discapacidad, religión o creencia, sindicación o participación en organizaciones gremiales o la falta de ellas, sexo, orientación sexual, identidad de género, estado civil, edad, filiación, apariencia personal o enfermedad, que tengan por objeto anular o alterar la igualdad de oportunidades o trato en el empleo.
+Prohíbese todo acto de discriminación que se traduzca en exclusiones o preferencias basadas en motivos de raza, color, sexo, edad, estado civil, sindicación, religión, opinión política, ascendencia nacional u origen social que tengan por objeto anular o alterar la igualdad de oportunidades o trato en el empleo.
 
 Las distinciones, exclusiones o preferencias basadas en las calificaciones exigidas para un empleo determinado no serán consideradas discriminación.
 
@@ -258,7 +260,7 @@ Podrán hacerse concursos destinados a disponer de un conjunto de postulantes el
 
 #### Artículo 22
 
-La autoridad facultada para hacer el nombramiento seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original, copia autentificada ante Notario o a través de documento electrónico suscrito con las formalidades que en cada caso exija la ley, los documentos probatorios de los requisitos de ingreso señalados en el artículo 13 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
+La autoridad facultada para hacer el nombramiento seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 13 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
 
 #### Artículo 23
 
@@ -600,13 +602,11 @@ i) Observar una vida social acorde con la dignidad del cargo;
 
 j) Proporcionar con fidelidad y precisión los datos que la institución le requiera relativos a situaciones personales o de familia, cuando ello sea de interés para la Administración, debiendo ésta guardar debida reserva de los mismos;
 
-k) Denunciar, con la debida prontitud, ante el Ministerio Público, las policías, o ante cualquier tribunal con competencia criminal, los hechos de los que tome conocimiento en el ejercicio de sus funciones, y que revistan caracteres de delito.
+k) Denunciar ante el Ministerio Público o ante la policía si no hubiere fiscalía en el lugar en que el funcionario presta servicios, con la debida prontitud, los crímenes o simples delitos y a la autoridad competente los hechos de carácter irregular, especialmente de aquéllos que contravienen el principio de probidad administrativa regulado por la ley Nº 18.575.
 
-l) Denunciar, con la debida prontitud, ante la autoridad competente los hechos de que tome conocimiento en el ejercicio de sus funciones y que revistan el carácter de faltas administrativas o infracciones disciplinarias, especialmente aquellas que contravengan el principio de probidad administrativa.
+l) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
 
-m) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
-
-n) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
+m) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
 
 > **Nota.** Según Dictamen Nº 31.250, de la Contraloría General de la República, de fecha 05.07.2005, debe considerarse como texto vigente de la letra g) del presente artículo el incorporado como modificación a la ley 18834 por el Nº 2 del Art. 5º de la LEY 19653, que dispone lo siguiente: "Observar estrictamente el principio de la probidad administrativa regulado por la ley N 18.575 y demás disposiciones especiales", en lugar del contenido en el presente texto.
 
@@ -672,7 +672,7 @@ Los funcionarios no estarán obligados a trabajar las tardes de los días 17 de 
 
 #### Artículo 72
 
-Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias, permiso postnatal parental o permisos con goce de remuneraciones, previstos en el presente Estatuto, de la suspensión preventiva contemplada en el artículo 136, de caso fortuito o de fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
+Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias o permisos con goce de remuneraciones, previstos en el presente Estatuto, de la suspensión preventiva contemplada en el artículo 136, de caso fortuito o de fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
 
 Las deducciones de rentas motivadas por inasistencia o por atrasos injustificados, no afectarán al monto de las imposiciones y demás descuentos, los que deben calcularse sobre el total de las remuneraciones, según corresponda. Tales deducciones constituirán ingreso propio de la institución empleadora.
 
@@ -714,6 +714,8 @@ Cuando la comisión deba efectuarse en el extranjero, el decreto que así lo dis
 
 Los funcionarios públicos pueden cumplir cometidos funcionarios que los obliguen a desplazarse dentro o fuera de su lugar de desempeño habitual para realizar labores específicas inherentes al cargo que sirven. Estos cometidos no requieren ser ordenados formalmente, salvo que originen gastos para la institución, tales como pasajes, viáticos u otros análogos, en cuyo caso se dictará la respectiva resolución o decreto.
 
+> **Nota.** El artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el Art. 78 de la Ley 18.834. Sin embargo en este texto refundido se alteró la numeración. Consúltese la nota al pie del artículo 84 para ver el contenido de la referida modificación.
+
 ### Párrafo 4º
 
 De la subrogación
@@ -754,7 +756,9 @@ a) Ejercer facultades, atribuciones o representación de las que no esté legalm
 
 b) Intervenir, en razón de sus funciones, en asuntos en que tengan interés él, su cónyuge, sus parientes consanguíneos hasta el tercer grado inclusive o por afinidad hasta el segundo grado, y las personas ligadas a él por adopción;
 
-c) Actuar en juicio ejerciendo acciones civiles en contra de los intereses del Estado o de las instituciones que de él formen parte, salvo que se trate de un derecho que ataña directamente al funcionario, a su cónyuge o a sus parientes hasta el tercer grado de consanguinidad o por afinidad hasta el segundo grado y las personas ligadas a él por adopción;
+c) Actuar en juicio ejerciendo acciones civiles en contra de los intereses del Estado o de las instituciones que de él formen parte, salvo que se trate de un derecho que ataña directamente al funcionario, a su
+
+cónyuge o a sus parientes hasta el tercer grado de consanguinidad o por afinidad hasta el segundo grado y las personas ligadas a él por adopción;
 
 d) Intervenir ante los tribunales de justicia como parte, testigo o perito, respecto de hechos de que hubiere tomado conocimiento en el ejercicio de sus funciones, o declarar en juicio en que tenga interés el Estado o sus organismos, sin previa comunicación a su superior jerárquico;
 
@@ -768,13 +772,13 @@ h) Realizar cualquier actividad política dentro de la Administración del Estad
 
 i) Organizar o pertenecer a sindicatos en el ámbito de la Administración del Estado; dirigir, promover o participar en huelgas, interrupción o paralización de actividades, totales o parciales, en la retención indebida de personas o bienes, y en otros actos que perturben el normal funcionamiento de los órganos de la Administración del Estado;
 
-j) Atentar contra los bienes de la institución, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro;
+j) Atentar contra los bienes de la institución, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro, y
 
-k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen;
+k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen.
 
-l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación, y
+l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo.
 
-m) Realizar todo acto calificado como acoso laboral en los términos que dispone el inciso segundo del artículo 2° del Código del Trabajo.
+> **Nota.** El Nº 3 del artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el artículo 78 de la LEY 18834, que aprueba el Estatuto Administrativo, el que en este texto refundido corresponde al presente artículo. La modificación señalada se ha incorporado al presente texto refundido no obstante que la referencia no es concordante, por cuanto la enumeración de los artículos en el presente texto fue cambiada.
 
 ### Párrafo 6°
 
@@ -844,23 +848,17 @@ Los funcionarios tendrán derecho, además, a ser defendidos y a exigir que la i
 
 La denuncia será hecha ante el respectivo Tribunal por el jefe superior de la institución, a solicitud escrita del funcionario, y cuando el afectado fuere dicho jefe superior, la denuncia la hará el Ministro de Estado que corresponda.
 
-Con todo, cuando se atente contra la vida o integridad física de los funcionarios y las funcionarias, la autoridad deberá resolver fundadamente acerca de la necesidad de iniciar de oficio el procedimiento de investigación sumaria o sumario administrativo para determinar las responsabilidades administrativas en caso de que correspondan.
-
 #### Artículo 90
 
-A.- Los funcionarios que ejerzan las acciones a que se refieren las letras k) y l) del artículo 61 tendrán los siguientes derechos:
+A.- Los funcionarios que ejerzan las acciones a que se refiere la letra k) del artículo 61 tendrán los siguientes derechos:
 
 a) No podrán ser objeto de las medidas disciplinarias de suspensión del empleo o de destitución, desde la fecha en que la autoridad reciba la denuncia y hasta la fecha en que se resuelva en definitiva no tenerla por presentada o, en su caso, hasta noventa días después de haber terminado la investigación sumaria o sumario, incoados a partir de la citada denuncia.
 
-Tratándose de las personas contratadas a honorarios, regirá lo dispuesto en el inciso final del artículo 11; sin embargo, no podrá ponerse término anticipado a su contrato por el hecho de haber denunciado fundadamente, y con prueba suficiente que acredite sus afirmaciones, respecto a la existencia de algún acto o irregularidad de los previstos en las letras k) y l) del artículo 61; que hubiese presenciado o de las que hubiese tomado conocimiento en el ejercicio de sus funciones; caso en el cual la vigencia del contrato se sujetará al plazo acordado en su contratación.
-
-b) No ser trasladados de localidad o de la función que desempeñen, sin su autorización por escrito, durante el lapso a que se refiere la letra precedente. Asimismo, los funcionarios tendrán derecho a solicitar su traslado de la localidad o de la función que desempeñen, especialmente cuando la denuncia se haya realizado en contra de un superior jerárquico. La resolución que deniega esta solicitud deberá fundarse exclusivamente en la imposibilidad material del servicio para organizar sus funciones de forma distinta. Esta decisión deberá ser adoptada por el jefe superior del servicio, y si éste se encuentra implicado en los hechos objeto de la denuncia, por la persona no inhabilitada que le subrogue.
+b) No ser trasladados de localidad o de la función que desempeñaren, sin su autorización por escrito, durante el lapso a que se refiere la letra precedente.
 
 c) No ser objeto de precalificación anual, si el denunciado fuese su superior jerárquico, durante el mismo lapso a que se refieren las letras anteriores, salvo que expresamente la solicitare el denunciante. Si no lo hiciere, regirá su última calificación para todos los efectos legales.
 
 Aceptada la denuncia por una autoridad competente, la formulación de ella ante otras autoridades no dará origen a la protección que establece este artículo.
-
-d) En aquellos casos en que los hechos denunciados hayan implicado un detrimento del patrimonio fiscal, la funcionaria o el funcionario público denunciante tendrá derecho a que se le otorgue una anotación de mérito en el factor que corresponda, que mejore su calificación en el año o período en que se haya acreditado ese detrimento; siempre y cuando haya aportado antecedentes precisos, fundados, comprobables y suficientes para la investigación administrativa o persecución penal.
 
 #### Artículo 90
 
@@ -885,10 +883,6 @@ Las denuncias que no cumplan con lo prescrito en los incisos primero y segundo p
 La autoridad que reciba la denuncia tendrá desde esa fecha un plazo de tres días hábiles para resolver si la tendrá por presentada. En caso que quien reciba la denuncia carezca de competencia para resolver sobre dicha procedencia, tendrá un término de 24 horas para remitirla a la autoridad que considere competente.
 
 Si habiendo transcurrido el término establecido en el inciso anterior, la autoridad no se ha pronunciado sobre la procedencia de la denuncia, entonces se tendrá por presentada.
-
-#### Artículo 90
-
-C.- No serán aplicables los artículos 90 A y 90 B respecto del funcionario que realice su denuncia a través del Canal de Denuncias de la Contraloría General de la República establecido en la ley que establece un nuevo estatuto de protección en favor del denunciante. En dicho caso, serán aplicables las disposiciones contenidas en los títulos II, III y IV de dicha ley.
 
 #### Artículo 91
 
@@ -998,7 +992,7 @@ Los funcionarios que se desempeñen en instituciones que dejen de funcionar por 
 
 El funcionario que desempeñe sus funciones en las comunas de Isla de Pascua, de Juan Fernández y de la Antártica, tendrá derecho a que su feriado se aumente en el tiempo que le demande el viaje de ida al continente y regreso a sus funciones.
 
-Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de Los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles.
+Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de Los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles, siempre que se trasladen a una región distinta de aquélla en la que se encuentren prestando servicios o hacia fuera del país.
 
 #### Artículo 107
 
@@ -1038,8 +1032,6 @@ De las licencias médicas
 
 Se entiende por licencia médica el derecho que tiene el funcionario de ausentarse o reducir su jornada de trabajo durante un determinado lapso, con el fin de atender al restablecimiento de su salud, en cumplimiento de una prescripción profesional certificada por un médico cirujano, cirujano dentista o matrona, según corresponda, autorizada por el competente Servicio de Salud o Institución de Salud Previsional, en su caso. Durante su vigencia el funcionario continuará gozando del total de sus remuneraciones.
 
-Durante el período de permiso postnatal parental regulado en el artículo 197 bis del Código del Trabajo, los funcionarios que hagan uso de él también continuarán gozando del total de sus remuneraciones.
-
 #### Artículo 112
 
 La declaración de irrecuperabilidad de los funcionarios afiliados a una Administradora de Fondos de Pensiones será resuelta por la Comisión Médica competente, en conformidad con las normas legales que rigen a estos organismos, disposiciones a las que se sujetarán los derechos que de tal declaración emanan para el funcionario.
@@ -1054,7 +1046,7 @@ De las prestaciones sociales
 
 #### Artículo 114
 
-En caso de que un funcionario fallezca, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
+En caso de que un funcionario fallezca, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
 
 #### Artículo 115
 
@@ -1104,7 +1096,7 @@ De la responsabilidad administrativa
 
 El empleado que infringiere sus obligaciones o deberes funcionarios podrá ser objeto de anotaciones de demérito en su hoja de vida o de medidas disciplinarias.
 
-Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo, cuyos procedimientos deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
+Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo.
 
 > **Nota.** El artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el Art. 119 de la ley 18834. Sin embargo, al momento de su publicación ya se encontraba vigente el presente texto refundido, donde se re-enumeran los artículos, por lo que no fue posible aplicar la modificación al artículo que lleva ese número. Para mayor información consultar la nota al pie del artículo 125.
 
@@ -1129,22 +1121,6 @@ c) Suspensión del empleo desde treinta días a tres meses, y
 d) Destitución.
 
 Las medidas disciplinarias se aplicarán tomando en cuenta la gravedad de la falta cometida y las circunstancias atenuantes o agravantes que arroje el mérito de los antecedentes.
-
-Se considerará circunstancia atenuante la cooperación eficaz que conduzca al esclarecimiento de los hechos denunciados o permita la identificación de sus responsables, o sirva para prevenir o impedir la perpetración de nuevos hechos.
-
-En estos casos, el fiscal, en el dictamen, vista o informe que emita en el contexto del respectivo procedimiento disciplinario, deberá expresar en qué términos la cooperación prestada ha sido eficaz a los fines señalados en el inciso precedente.
-
-La circunstancia atenuante prevista en este artículo no se aplicará en los siguientes casos:
-
-1. Cuando solo resultare procedente la medida disciplinaria de destitución, de conformidad a lo establecido en el artículo 125.
-
-2. Tratándose de autoridades que desempeñen un cargo de elección popular o de exclusiva confianza de éstos o de la autoridad facultada para efectuar su nombramiento y respecto de cargos de Alta Dirección Pública.
-
-En caso de que la cooperación prestada por el denunciante en razón de su participación en los hechos materia de la denuncia, resultare eficaz para los fines señalados en el inciso primero, la inhabilitación para ingresar a la Administración del Estado que se imponga como consecuencia del procedimiento disciplinario relativo a los hechos denunciados, durará tres años. Dicha circunstancia deberá ser calificada por la autoridad encargada de aplicar la medida disciplinaria y deberá constar en el acto administrativo que se dicte para tales efectos.
-
-Lo señalado en el inciso anterior no tendrá aplicación en caso de auto denuncia de hechos en los que no hubiesen tenido participación terceras personas y tratándose de los sujetos a que refiere el numeral 2 del inciso quinto.
-
-En el caso que se aplique la medida disciplinaria de destitución, como consecuencia de la inobservancia de lo dispuesto en el artículo 84 letra m), el fiscal podrá determinar, considerando lo señalado en el inciso anterior, que el funcionario o funcionaria se encuentra eximido de cumplir el plazo establecido en el artículo 12 letra e), decisión que no será aplicable respecto de la institución que aplica la medida.
 
 #### Artículo 122
 
@@ -1176,23 +1152,19 @@ La medida disciplinaria de destitución procederá sólo cuando los hechos const
 
 a) Ausentarse de la institución por más de tres días consecutivos, sin causa justificada;
 
-b) Infringir las disposiciones de las letras i), j), k), l) y m) del artículo 84;
+b) Infringir las disposiciones de las letras i), j) y k) del artículo 84 de este Estatuto;
 
 c) Condena por crimen o simple delito, y
 
-d) Presentar denuncias falsas de infracciones disciplinarias, faltas administrativas o delitos, a sabiendas o con el ánimo deliberado de perjudicar al o a los sujetos denunciados.
+d) Efectuar denuncias de irregularidades o de faltas al principio de probidad de las que haya afirmado tener conocimiento, sin fundamento y respecto de las cuales se constatare su falsedad o el ánimo deliberado de perjudicar al denunciado.
 
-e) Ejecutar acciones de hostigamiento en contra de cualquier persona que efectúe una denuncia de acuerdo a lo previsto en la ley, o declare como testigo en una investigación administrativa o ante la justicia, afectando su indemnidad o estabilidad en el empleo, su vida o integridad, su libertad o su patrimonio, o que produzca la misma afectación respecto de un miembro de su familia.
-
-f) En los demás casos contemplados en este Estatuto o leyes especiales.
+e) En los demás casos contemplados en este Estatuto o leyes especiales.
 
 > **Nota.** El Nº 3 letra b) del artículo 2º de la LEY 20005, publicada el 18.03.2005, modifica el artículo 119 de la LEY 18834, que aprueba el Estatuto Administrativo. Sin embargo, en el presente texto refundido la enumeración de los artículos fue cambiada, debiendo aquel corresponder, por su contenido, al presente artículo 125. Por cuanto se ha respetado el tenor de la Ley 20005 en el sentido de que lo que se ordena modificar es el artículo 119 de la LEY 18834, los cambios no han sido incorporados en este texto refundido. Sin perjuicio de lo anterior, se hace presente que la modificación agrega una nueva letra c), pasando las actuales letras c) y d) a ser d) y e), respectivamente: "c) Infringir lo dispuesto en la letra l) del artículo 78;"
 
 #### Artículo 126
 
 Si el jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, según corresponda, estimare que los hechos son susceptibles de ser sancionados con una medida disciplinaria o en el caso de disponerlo expresamente la ley, ordenará mediante resolución la instrucción de una investigación sumaria, la cual tendrá por objeto verificar la existencia de los hechos, y la individualización de los responsables y su participación, si los hubiere, designando para tal efecto a un funcionario que actuará como investigador.
-
-Con todo, ante una denuncia de hechos que puedan vulnerar lo dispuesto en el artículo 84 letras l) o m), la autoridad solo podrá desestimarla mediante una resolución fundada y deberá notificar dicho acto dentro del plazo de cinco días a la persona denunciante, la que podrá ejercer el derecho establecido en el artículo 160.
 
 Las notificaciones que se realicen durante la investigación sumaria deberán hacerse personalmente. Si el funcionario no fuere habido por dos días consecutivos en su domicilio o en su lugar de trabajo, se lo notificará por carta certificada, de lo cual deberá dejarse constancia. En ambos casos se deberá dejar copia íntegra de la resolución respectiva. En esta última circunstancia, el funcionario se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
@@ -1219,12 +1191,6 @@ Si la naturaleza de los hechos denunciados o su gravedad así lo exigiere, a jui
 #### Artículo 129
 
 El sumario administrativo se ordenará por el jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, según corresponda, mediante resolución, en la cual designará al fiscal que estará a cargo del mismo. El fiscal deberá tener igual o mayor grado o jerarquía que el funcionario que aparezca involucrado en los hechos.
-
-En caso de que el sumario se ordene por hechos que vulneren lo dispuesto en el artículo 84 letras l) o m), deberá preferentemente designarse fiscal a un funcionario o funcionaria que cuente con formación en materias de prevención, investigación y sanción de acoso, género o derechos fundamentales.
-
-En los procedimientos instruidos para determinar la responsabilidad administrativa en este tipo de casos, las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
-
-Lo anterior se aplicará también para las reclamaciones establecidas en los artículos 137 y 140.
 
 Si designado el fiscal, apareciere involucrado en los hechos investigados un funcionario de mayor grado o jerarquía, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
 
@@ -1280,8 +1246,6 @@ En casos calificados, al existir diligencias pendientes decretadas oportunamente
 
 En el curso de un sumario administrativo el fiscal podrá suspender de sus funciones o destinar transitoriamente a otro cargo dentro de la misma institución y ciudad, al o a los inculpados como medida preventiva.
 
-En caso de que el sumario se adopte por hechos que vulneren lo dispuesto en el artículo 84 letras l) o m), el o la fiscal deberá adoptar las medidas de resguardo necesarias respecto de las personas involucradas. Para ello deberá considerar la gravedad de los hechos imputados, la seguridad de la persona denunciante y las posibles derivadas de las condiciones de trabajo, entre las que se encuentran la separación de los espacios físicos y el otorgamiento a la persona denunciante de atención psicológica temprana, a través de los programas que disponga el organismo administrador respectivo de la ley N°16.744. Las medidas adoptadas se encontrarán vigentes por el tiempo que dure el procedimiento disciplinario y hasta que éste se encuentre afinado.
-
 La medida adoptada terminará al dictarse el sobreseimiento, que será notificado personalmente y por escrito por el actuario, o al emitirse el dictamen del fiscal, según corresponda.
 
 En caso de que el fiscal proponga en su dictamen la medida de destitución, podrá decretar que se mantenga la suspensión preventiva o la destinación transitoria, las que cesarán automáticamente si la resolución recaída en el sumario, o en alguno de los recursos que se interponga conforme al artículo 141, absuelve al inculpado o le aplica una medida disciplinaria distinta de la destitución. Cuando la medida prorrogada sea la suspensión preventiva, el inculpado quedará privado del cincuenta por ciento de sus remuneraciones, que tendrá derecho a percibir retroactivamente si en definitiva fuere absuelto o se le aplicara una sanción inferior a la destitución.
@@ -1291,8 +1255,6 @@ En caso de que el fiscal proponga en su dictamen la medida de destitución, podr
 En el evento de proponer el fiscal el sobreseimiento se enviarán los antecedentes al jefe superior de la institución, el Secretario Regional Ministerial o el Director Regional de servicios nacionales desconcentrados, en su caso, quien estará facultado para aprobar o rechazar tal proposición. En el caso de rechazarla, dispondrá que se complete la investigación dentro del plazo de cinco días.
 
 El sumario será secreto hasta la fecha de formulación de cargos, oportunidad en la cual dejará de serlo para el inculpado y para el abogado que asumiere su defensa.
-
-Cuando el o la fiscal proponga el sobreseimiento, y éste sea aprobado por la autoridad, deberá notificarse la resolución que afina el procedimiento a la persona denunciante de los hechos referidos en el artículo 84 letras l) o m), dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 131.
 
 #### Artículo 138
 
@@ -1316,9 +1278,7 @@ No obstante, la autoridad correspondiente podrá ordenar la realización de nuev
 
 Ningún funcionario podrá ser sancionado por hechos que no han sido materia de cargos.
 
-La aplicación de toda medida disciplinaria deberá ser notificada al afectado. Con todo, cuando la autoridad determine la absolución o aplique cualquier medida disciplinaria respecto de los hechos referidos en el artículo 84 letras l) o m), deberá notificar la resolución que afina el procedimiento a la persona denunciante dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 131.
-
-El acto que sobresee, absuelve o aplique la medida disciplinaria en contra de personas funcionarias del primer nivel jerárquico de la institución o servicio, respecto a hechos referidos en el artículo 84 letras l) o m) estará afecto al trámite de toma de razón por la Contraloría General de la República, el que no podrá realizarse antes del vencimiento del plazo de reclamación señalado en el inciso quinto de este artículo.
+La aplicación de toda medida disciplinaria deberá ser notificada al afectado.
 
 #### Artículo 141
 
@@ -1338,7 +1298,7 @@ Acogida la apelación o propuesta la aplicación de una medida disciplinaria dis
 
 #### Artículo 143
 
-Vencidos los plazos de instrucción de un sumario y no estando éste afinado, la autoridad que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal. En los casos referidos al incumplimiento de las prohibiciones consagradas en el artículo 84 letras l) o m), tales medidas deberán ser adoptadas en el plazo de veinte días contado desde el vencimiento de los plazos de instrucción.
+Vencidos los plazos de instrucción de un sumario y no estando éste afinado, la autoridad que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal.
 
 #### Artículo 144
 
@@ -1394,7 +1354,7 @@ El funcionario que jubile, se pensione u obtenga una renta vitalicia en un régi
 
 La declaración de vacancia procederá por las siguientes causales:
 
-a) Salud irrecuperable o incompatible con el desempeño del cargo. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con lo dispuesto en la ley Nº 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no configurará esta causal.
+a) Salud irrecuperable o incompatible con el desempeño del cargo;
 
 b) Pérdida sobreviniente de alguno de los requisitos de ingreso a la Administración del Estado;
 
@@ -1407,10 +1367,6 @@ d) Por no presentación de la renuncia, según lo señalado en el artículo 148,
 El Jefe superior del servicio podrá considerar como salud incompatible con el desempeño del cargo, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, sin mediar declaración de salud irrecuperable.
 
 No se considerará para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 115 de este Estatuto y el Título II, del Libro II, del Código del Trabajo.
-
-El jefe superior del servicio, para ejercer la facultad señalada en el inciso primero, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
-
-En caso de discapacidad sobreviniente, calificada y certificada según la ley N° 20.422, la evaluación que realice la Comisión de Medicina Preventiva e Invalidez en cumplimiento de lo establecido en el inciso anterior deberá considerar la condición de salud de la persona en relación con el cargo específico que desempeña, indicando si podrá continuar realizando las labores respectivas.
 
 #### Artículo 152
 
@@ -1484,19 +1440,19 @@ Los derechos de los funcionarios consagrados por este Estatuto prescribirán en 
 
 #### Artículo 162
 
-Los funcionarios que ejerzan las profesiones y actividades que, conforme al inciso segundo del artículo 43 de la ley Nº 18.575, se regirán por estatutos de carácter especial, serán los siguientes:
+Los funcionarios que ejerzan las profesiones y actividades que, conforme al inciso segundo del artículo 43 de la ley Nº
+
+18.575, se regirán por estatutos de carácter especial, serán los siguientes:
 
 a) Académicos de las instituciones de Educación Superior;
 
-b) Personal afecto a la ley Nº15.076;
+b) Personal afecto a la ley Nº 15.076;
 
-c) Personal del Servicio Exterior del Ministerio de Relaciones Exteriores. Asimismo el personal de la planta de Secretaría y Administración General del Ministerio de Relaciones Exteriores y de los Servicios Públicos sometidos a la dependencia o supervigilancia del Presidente de la República, a través de este Ministerio, cuando cumplan funciones en el extranjero;
+c) Personal del Servicio Exterior del Ministerio de Relaciones Exteriores. Asimismo el personal de la planta de Secretaría y Administración General del Ministerio de Relaciones Exteriores y de los Servicios Públicos sometidos a la dependencia del Presidente de la República, a través de este Ministerio, cuando cumplan funciones en el extranjero;
 
 d) Personal de la planta de oficiales y vigilantes penitenciarios de Gendarmería de Chile;
 
-e) Personal que cumpla funciones fiscalizadoras en la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, el Servicio de Impuestos Internos, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros, la Superintendencia de Seguridad Social, la Superintendencia de Administradoras de Fondos de Pensiones y la Dirección del Trabajo,
-
-y
+e) Personal que cumpla funciones fiscalizadoras en la Fiscalía Nacional Económica, el Servicio Nacional de Aduanas, el Servicio de Impuestos Internos, la Superintendencia de Bancos e Instituciones Financieras, la Superintendencia de Valores y Seguros, la Superintendencia de Seguridad Social, la Superintendencia de Administradoras de Fondos de Pensiones y la Dirección del Trabajo, y
 
 f) El personal que desempeña actividades directamente vinculadas a la actividad televisiva en la Corporación de Televisión de la Universidad de Chile.
 
@@ -1598,7 +1554,7 @@ A contar de la fecha de la notificación y durante el referido plazo de seis mes
 
 #### Artículo 17
 
-En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha del fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
+En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha del fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
 
 #### Artículo 18
 
