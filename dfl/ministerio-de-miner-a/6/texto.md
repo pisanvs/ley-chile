@@ -182,63 +182,75 @@ PLANTAS DE DIRECTIVOS:
 
 CARGOS DE CARRERA
 
-Jefe Sección grado 11 a) Título de Técnico en
+Jefe Sección Grado 11: i) Título Profesional de una carrera de a lo menos ocho semestres de duración; o
 
-Administración, o
+Título de Técnico de Nivel Superior, otorgado por una Universidad o Instituto
 
-b) Licencia Media, Curso de
+Profesional del Estado o reconocido por éste o aquellos validados en Chile de
 
-Gestión Directiva de, a
+acuerdo con la legislación vigente y acreditar una experiencia como Técnico de
 
-lo menos 90 horas y
+Nivel Superior no inferior a dos años, en el sector público o privado; o
 
-experiencia laboral en el
+ii) Licencia de Enseñanza Media más un curso de Gestión Directiva, de a lo menos 90
 
-Servicio de, a lo menos,
+horas, y experiencia profesional en el sector público o privado de a lo menos seis
 
-10 años.
+años.
 
-PLANTA DE PROFESIONALES:
+PLANTA DE PROFESIONALES
 
-Profesional Grado 4 Título de Ingeniero Civil o
+Profesional Grado 4: Título Profesional de una carrera de, a lo menos, diez semestres de duración, otorgado
 
-Ingeniero Comercial y
+por una Universidad o Instituto Profesional del Estado o reconocido por éste o
 
-experiencia profesional de,
+aquellos validados en Chile de acuerdo con la legislación vigente, y acreditar una
 
-a lo menos, 3 años.
+experiencia profesional no inferior a tres años en el sector público o privado.
 
-Profesional Grado 7 Título de Ingeniero Civil o
+Profesional Grado 7: Título Profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado
 
-Ingeniero Comercial y
+por una Universidad o Instituto Profesional del Estado o reconocido por éste o
 
-experiencia profesional de,
+aquellos validados en Chile de acuerdo con la legislación vigente, y acreditar una
 
-a lo menos, 2 años.
+experiencia profesional no inferior a dos años en el sector público o privado.
 
-Profesional Grado 14 Título de Técnico Estadístico.
+Profesional Grado 14: Título Profesional de una carrera de, a lo menos, ocho semestres de duración,
 
-PLANTA DE TECNICOS:
+otorgado por una Universidad o Instituto Profesional del Estado o reconocido por éste
 
-Técnico Grado 15 Título de Contador y
+o aquellos validados en Chile de acuerdo con la legislación vigente.
 
-experiencia profesional en el
+PLANTA DE TÉCNICOS
 
-Sector Público de, a lo menos,
+Técnico Grado 15: i) Título de Técnico de Nivel Superior otorgado por un Establecimiento de Educación
 
-2 años.
+Superior del Estado o reconocido por éste y acreditar una experiencia como Técnico de
 
-PLANTA DE ADMINISTRATIVOS:
+Nivel Superior no inferior a un año, en el sector público o privado; o
 
-Administrativos Licencia de Educación Media o
+ii) Título de Técnico de Nivel Medio o equivalente, otorgado por el Ministerio de
 
-equivalente.
+Educación y acreditar una experiencia como Técnico de Nivel Medio no inferior a dos años,
 
-PLANTA DE AUXILIARES:
+en el sector público o privado.
 
-Auxiliares Licencia de Educación Básica.
+PLANTA DE ADMINISTRATIVOS
 
-> **Nota.** El artículo primero, del DFL 29, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos, de la Secretaría y Administración General del Ministerio de Minería.NOTA 1: El artículo primero, del DFL 30, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos, de la Secretaría y Administración General del Ministerio de Minería.
+Administrativos: Licencia de Enseñanza Media o equivalente y acreditar una experiencia laboral no inferior
+
+a un año en el sector público o privado.
+
+PLANTA DE AUXILIARES
+
+Auxiliares: Licencia de Enseñanza Media o equivalente.
+
+> **Nota.** El artículo primero, del DFL 29, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos, de la Secretaría y Administración General del Ministerio de Minería.
+
+> **Nota.** NOTA 1 El artículo primero, del DFL 30, Hacienda, publicado el 02.10.2007, crea un cargo de Secretario Regional Ministerial, grado 5, en la Planta de personal de Directivos, de la Secretaría y Administración General del Ministerio de Minería.
+
+> **Nota.** NOTA 2 El artículo primero del DFL 1, Minería, publicado el 19.06.2009, modifica y establece los Requisitos Específicos de ingreso y promoción para los cargos de la planta del personal que en ella se indica.
 
 Anótese, tómese razón, regístrese, publíquese y comuníquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Juan Hamilton Depassier, Ministro de Minería.- Enrique Kraus Rusque, Ministro del Interior.- Alejandro Foxley Rioseco, Ministro de Hacienda.
 
