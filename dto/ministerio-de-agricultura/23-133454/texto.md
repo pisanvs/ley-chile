@@ -10,7 +10,7 @@ Primero.- Decláranse Normas Oficiales de la República de Chile las siguientes:
 
 NCh 1674 Leche - Ensayo de turbidez modificada.
 
-NCh 1677 Leche en polvo - Determinación del índice de solubilidad.
+NCh 1677 REEMPLAZADA Y ANULADA
 
 NCh 1679 REEMPLAZADA Y ANULADA
 
