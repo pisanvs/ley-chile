@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.065, de 11 de junio de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº336, de 2009, modificada mediante resolución exenta Nº534, de 2009, ambas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería artesanal de Congrio dorado (Genypterus blacodes) y Raya (Dipturus spp) en la X Región, temporada 2009", en el sentido de sustituir el inciso 1º del numeral 4º por el siguiente:
+
+"Podrán participar en la presente pesca de investigación los pescadores artesanales y las embarcaciones artesanales, botes y lanchas, con certificado de navegabilidad vigente, inscritos en el Registro Pesquero Artesanal de la X Región.".
+
+Valparaíso, 11 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
