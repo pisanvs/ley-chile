@@ -1,0 +1,9 @@
+Por resolución exenta N° 2.059, de 10 de junio de 2009, de esta Subsecretaría, autorízase al CENTRO DE ESTUDIOS PESQUEROS S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Bases para un Programa Colaborativo de Monitoreo Científico en la Pesquería de Bacalao".
+
+El objetivo principal de la pesca de investigación que por la presente resolución se autoriza consiste en proponer las bases de un programa colaborativo (público-privado) para el monitoreo científico del Bacalao de profundidad, con fines de evaluación y manejo de su pesquería.
+
+La pesca de investigación se efectuará en el área de la unidad de pesquería de Bacalao de profundidad declarada en régimen de desarrollo incipiente, en el área marítima de aguas exteriores comprendida entre el paralelo 47° L.S. y el límite de la Zona Económica Exclusiva de la XII Región, de conformidad con lo dispuesto en el D.S. N° 328 de 1992, modificado mediante D.S. N° 322 de 2001, del Ministerio de Economía, Fomento y Reconstrucción, entre la fecha de la presente resolución y el 31 de diciembre de 2009, ambas fechas inclusive.
+
+En la pesca de investigación que se autoriza participará, la nave "Globalpesca I", de propiedad de Globalpesca S.A., la que podrá extraer mediante espinel tradicional y cachalotera, una cuota máxima total ascendente a 90 toneladas del recurso Bacalao de profundidad, que se imputarán conforme resolución extractada. Persona responsable, don Alejandro Zuleta Villalobos.
+
+Valparaíso, 10 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
