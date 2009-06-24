@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.126, de 17 de junio de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº205104033, presentada por CONSERVAS Y CONGELADOS Y COMPAÑÍA LIMITADA, para instalar y operar un centro de cultivo ubicado en Ensenada Codihué, al este de Punta Barranco, Isla Abtao, X Región.
+
+Valparaíso, 17 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
