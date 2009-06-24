@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.092, de 12 de junio de 2009, de esta Subsecretaría, autorízase a SAMUEL DARÍO GUERRA SEGOVIA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Caleta El Cobre s/n, Antofagasta, II Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso,12 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
