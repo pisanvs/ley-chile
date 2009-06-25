@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.823, de 22 de mayo de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº1.368 de 2009, de esta Subsecretaría que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estimación del descarte de condrictios en la pesquería artesanal de Raya volantín Dipturus (Zearaja) chilensis (Guichenot, 1848) en el litoral de la Región de Los Ríos", en el sentido de incorporar al numeral 5° el siguiente inciso final:
+
+"Asimismo, las embarcaciones artesanales participantes en la presente pesca de investigación podrán extraer, en calidad de fauna acompañante de Raya volantín (Raja favirostris), el recurso Raya espinosa (Dipturus trachyderma), en un porcentaje que no exceda el 20%, medido en peso, en relación a la captura de la especie objetivo, por viaje de pesca.".
+
+Valparaíso, 22 de mayo de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
