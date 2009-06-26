@@ -676,6 +676,10 @@ En caso de vacancia del cargo de alcalde, el concejo procederá a elegir un nuev
 
 La elección se efectuará en sesión extraordinaria que se celebrará dentro de los doce días siguientes a la fecha en que se hubiere producido la vacante. El secretario municipal citará al efecto al concejo con tres días de anticipación a lo menos. El nuevo alcalde así elegido permanecerá en el cargo por el tiempo que faltare para completar el respectivo período, pudiendo ser reelegido. Mientras no sea elegido nuevo alcalde, regirá lo dispuesto en el inciso primero.
 
+#### Artículo 62 bis
+
+En caso de nulidad del acto eleccionario de alcalde, declarada por sentencia firme o ejecutoriada por el tribunal electoral competente, las funciones correspondientes serán desempeñadas por el secretario municipal, hasta la investidura del nuevo alcalde.
+
 ### Párrafo 2º
 
 Atribuciones
@@ -786,7 +790,9 @@ c) Seis concejales en las comunas que cuenten con diez de ellos.
 
 La regulación de los procedimientos administrativos de contratación que realicen las municipalidades se ajustará a la Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios y sus reglamentos.
 
-Sin perjuicio de lo señalado en el inciso anterior, tratándose de la suscripción de convenios marco, deberá estarse a lo establecido en el inciso tercero de la letra d), del artículo 30 de dicha ley.
+Asimismo, el procedimiento administrativo de otorgamiento de concesiones para la prestación de servicios por las municipalidades se ajustará a las normas de la citada ley y sus reglamentos, salvo lo establecido en los incisos cuarto, quinto y sexto del artículo 8° de la presente ley, disposiciones que serán aplicables en todo caso.
+
+Sin perjuicio de lo señalado en el inciso primero, tratándose de la suscripción de convenios marco, deberá estarse a lo establecido en el inciso tercero de la letra d), del artículo 30 de dicha ley.
 
 #### Artículo 67
 
@@ -929,6 +935,12 @@ Los concejales elegidos como independientes no serán reemplazados, a menos que 
 El nuevo concejal permanecerá en funciones el término que le faltaba al que originó la vacante, pudiendo ser reelegido.
 
 En ningún caso procederán elecciones complementarias.
+
+#### Artículo 78 bis
+
+En caso de nulidad del acto eleccionario de concejales, declarada por sentencia firme o ejecutoriada por el tribunal electoral competente, las funciones a que se refieren los artículos 64 y 65 serán desempeñadas, en conjunto y de consuno, por los cuatro funcionarios en ejercicio que sigan al alcalde en orden de jerarquía, con exclusión del juez de policía local, hasta la instalación del nuevo concejo.
+
+Con todo, cuando el tribunal electoral competente hubiese declarado la nulidad de una elección de alcalde y concejales, mediante sentencia firme o ejecutoriada, las atribuciones a que se refiere el inciso anterior serán desempeñadas, en conjunto y de consuno, por los cuatro funcionarios en ejercicio que sigan al alcalde en orden de jerarquía, con exclusión del secretario municipal y del juez de policía local, hasta la instalación del nuevo concejo.
 
 #### Artículo 79
 
