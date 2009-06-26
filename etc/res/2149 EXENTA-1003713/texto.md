@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.149 de 18 de junio de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº207101081, presentada por JOSÉ MIGUEL GALLEGOS CID y REMIGIO ANTONIO GALLEGOS ALVARADO, para instalar y operar un centro de cultivo ubicado en Estero Reloncaví, al sur de Punta Serapio, X Región.
+
+Valparaíso, 18 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
