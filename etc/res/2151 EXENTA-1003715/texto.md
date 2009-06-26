@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.151 de 18 de junio de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº207104033, presentada por SERVICIOS Y MANOFACTURAS ACUAPLUS S.A., para instalar y operar un centro de cultivo ubicado en seno Reloncaví, al suroeste de Punta Blanca, Isla Guar, X Región.
+
+Valparaíso, 18 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
