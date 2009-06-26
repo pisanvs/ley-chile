@@ -534,9 +534,9 @@ PUNTO Latitud (S) Longitud (W)
 
 4 44º 15' 41,00" 74º 12' 26,00"
 
-5 42º 18' 24,00" 74º 09' 32,00"
+5 44º 18' 24,00" 74º 09' 32,00"
 
-6 42º 18' 41,00" 74º 09' 19,00"
+6 44° 18' 41,00" 74º 09' 19,00"
 
 b) Sector Isla Kent: se propone desafectar íntegramente este sector.
 
