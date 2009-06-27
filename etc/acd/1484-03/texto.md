@@ -1,0 +1,85 @@
+ACUERDO ADOPTADO POR EL CONSEJO EN SU SESIÓN ORDINARIA Nº 1484
+
+1484-03-090625 - Reglamento para la Licitación de Compra de Instrumentos de Deuda emitidos por el Banco Central de Chile, contenido en el Capítulo IV.C.1 del Compendio de Normas Financieras.
+
+Certifico que el Consejo del Banco Central de Chile, en su Sesión Ordinaria Nº 1484, celebrada el 25 de junio de 2009, acordó lo siguiente:
+
+1. Modificar el Capítulo IV.C.1 del Compendio de Normas Financieras, que contiene el Reglamento de Licitación de Compra de Instrumentos de Deuda emitidos por el Banco Central de Chile, incorporando las siguientes adecuaciones:
+
+a. En el numeral 5, reemplazar la expresión "la Sección Operaciones de Mercado Abierto" por la expresión "el Departamento Pagos y Valores".
+
+b. Modificar el numeral 8, sustituyéndolo por el texto que se indica a continuación: "La presentación de ofertas hace responsables a las respectivas instituciones respecto de la existencia y autenticidad de los instrumentos a que estas se refieran y, asimismo, implica la aceptación pura y simple de las bases de licitación respectivas y de lo dispuesto en este Capítulo y en las demás normas e instrucciones que dicte el Banco Central de Chile de conformidad al mismo, así como a cualquier otra modificación que se efectúe de la reglamentación citada o a la normativa que la reemplace o sustituya. Los títulos de crédito que las instituciones autorizadas ofrezcan vender al Banco Central de Chile, deberán encontrarse libres de gravámenes, prohibiciones o embargos, medidas precautorias, prenda, u otros derechos reales o medidas que priven, limiten o afecten su libre disposición, lo cual deberá constar en la empresa de depósito y custodia de valores constituida de conformidad con la Ley N° 18.876 en que se encuentren depositados dichos instrumentos, debiendo registrarse los mismos en estado de libre disponibilidad."
+
+c. En el numeral 9, reemplazar la expresión "la Sección Operaciones de Mercado Abierto ya citada" por la expresión "el Departamento Pagos y Valores ya citado".
+
+d. Sustituir el numeral 12 por el siguiente: "El Banco Central de Chile se reserva la facultad de rechazar una o más de las ofertas presentadas sin expresión de causa, atribución cuyo ejercicio no podrá, en ningún caso, entenderse como antecedente o causa constitutiva de daño, perjuicio, detrimento o menoscabo para la o las instituciones participantes."
+
+e. En el segundo párrafo del numeral 14, letra b), agregar, luego del punto aparte, que pasa a ser seguido, lo siguiente: "No obstante, en caso que el Banco Central de Chile así lo determine en las bases de licitación correspondientes, el referido saldo se asignará a aquella oferta que se hubiese recibido en primer lugar."
+
+Asimismo, en la letra c) de dicho numeral, reemplazar el guarismo "10" por "20".
+
+f. En el segundo párrafo del numeral 15, letra b), agregar, luego del punto aparte, que pasa a ser seguido, lo siguiente: "No obstante, en caso que el Banco Central de Chile así lo determine en las bases de licitación correspondientes, el referido saldo se asignará a aquella oferta que se hubiese recibido en primer lugar."
+
+g. En el numeral 18, letra b), sustituir su última oración que dispone: "Tratándose de instrumentos reajustables en dólares de los Estados Unidos de América, se empleará el tipo de cambio a que se refiere el N° 6 del Capítulo I del Compendio de Normas de Cambios Internacionales vigente a la fecha de licitación", por la que se indica: "Tratándose de instrumentos reajustables en dólares de los Estados Unidos de América, se empleará el tipo de cambio a que se refiere el artículo 44 de la Ley Orgánica Constitucional del Banco Central de Chile (LOC) vigente a la fecha de licitación."
+
+Asimismo, sustituir las letras a) y b) del acápite referido al "pago de los instrumentos de deuda" por las siguientes:
+
+"a) En el caso de instrumentos de deuda pagaderos en moneda corriente nacional, con la emisión de una orden de pago nominativa del Banco Central de Chile. Tratándose de instrumentos de deuda pagaderos en dólares de los Estados Unidos de América, con la emisión de un cheque en esa misma moneda del Banco Central de Chile.
+
+b) El abono en la cuenta corriente en pesos o en dólares de los Estados Unidos de América, según sea el caso, que una empresa bancaria mandataria mantenga en el Banco Central de Chile."
+
+h. En el segundo párrafo del numeral 20, reemplazar la expresión "la Sección Operaciones de Mercado Abierto ya citada" por la expresión "el Departamento Pagos y Valores ya citado".
+
+i. Intercalar los siguientes numerales 21 a 28, pasando el actual numeral 21 a ser numeral 29:
+
+Licitaciones de compra mediante el Sistema de Operaciones de Mercado Abierto (SOMA).
+
+"21 El Banco Central de Chile, en adelante indistintamente el "Banco", podrá efectuar las licitaciones de compra de que trata este Capítulo, utilizando los mecanismos de comunicación y conexión de que dispone la plataforma electrónica de transacción provista por el Sistema de Operaciones de Mercado Abierto (SOMA).
+
+Para estos efectos, las instituciones invitadas a participar en dichas operaciones de conformidad con el numeral 1 del presente Reglamento, deberán presentar al Banco una "solicitud de acceso" para operar con sujeción a los términos, condiciones y modalidades previstos en este numeral, cuyo texto se contiene en el Reglamento Operativo del mismo, en adelante el "RO".
+
+Asimismo, las instituciones señaladas deberán haber suscrito y mantener vigentes los siguientes contratos: "Contrato para el Servicio del Sistema de Operaciones de Mercado Abierto - SOMA" (Contrato SOMA) y el Contrato de depósito celebrado por el participante de conformidad a la ley N° 18.876, con la Empresa de Depósito respectiva, en relación con el cual se autorice en forma expresa al Banco para enviar instrucciones a esta última por cuenta y en representación de dicho participante, a fin de permitir la liquidación de las operaciones de licitación de compra a término normadas en el presente Capítulo.
+
+Por otra parte, tratándose de entidades solicitantes que sean participantes del Sistema LBTR del Banco Central de Chile, las instituciones que participen de las licitaciones de compra regladas por este Capítulo deberán informar la Empresa de Depósito y la Cuenta de Depósito abierta en esa Empresa en que se mantendrán depositados los valores que se ofrezca vender al Banco empleando los formularios que contemple el RO. Además, para participar en las licitaciones de compra que se efectúen bajo esta modalidad, esas entidades deberán mantener vigente el correspondiente contrato de adhesión al Sistema LBTR y el contrato de condiciones generales que rigen la apertura de cuentas corrientes bancarias abiertas en el Banco Central de Chile, de acuerdo con lo dispuesto por el artículo 55 de su LOC.
+
+Para el caso de aquellas instituciones solicitantes que no sean participantes del Sistema LBTR, deberá informarse empleando los formularios que contemple el RO, además de la Empresa de Depósito y la Cuenta de Depósito para los fines antedichos, el nombre de la empresa bancaria mandataria cuya cuenta corriente se abonará para el pago de los instrumentos que sean entregados al Banco Central de Chile, conforme a la modalidad de pago prevista en el numeral 18 letra b) de este Capítulo.
+
+22. En todo caso, será condición esencial para la suscripción y aplicación posterior del respectivo Contrato SOMA respecto de las licitaciones en que participe conforme a este numeral, que se acrediten a satisfacción del Banco Central de Chile las capacidades de conexión y comunicación del participante respectivo del SOMA, de acuerdo con lo establecido en el RO.
+
+23. Tratándose de licitaciones de compra efectuadas a través del Sistema SOMA, se comunicará, remitirá y recibirá a través del mismo, tanto el calendario de licitaciones, el anuncio y las bases de licitación, como las ofertas que efectúen los participantes de dicho Sistema que hubieren sido invitados a la licitación correspondiente, del mismo modo que cualquier otro antecedente, registro o información que se requiera en los términos de este Capítulo; todo ello, de conformidad con los procedimientos, condiciones financieras, formatos, plazos y horarios que establezca el RO. Sin perjuicio de lo dispuesto, las comunicaciones antedichas podrán efectuarse telefónicamente a través de la Mesa de Dinero o por cualquier otro medio que el Banco estime satisfactorio a su juicio exclusivo.
+
+Para estos efectos, se deja constancia que las ofertas que se presenten revestirán carácter irrevocable. En todo caso, el Banco Central de Chile comunicará la aceptación de las correspondientes ofertas el mismo día de su recepción mediante el envío de la comunicación que establezca el RO a través del sistema SOMA, en la que se informará el monto adjudicado. El no envío de esta comunicación importará el rechazo de la o las ofertas respectivas. Con todo, la aceptación quedará sujeta a la condición suspensiva de que la institución cuya oferta sea adjudicada cumpla íntegramente con su obligación de entregar al Banco los títulos comprendidos en esta, en la forma prevista en este Capítulo.
+
+Una vez realizada la adjudicación, y de acuerdo con los horarios establecidos en las respectivas bases de licitación, se difundirá el resultado a las instituciones adjudicatarias a través de los mecanismos dispuestos para tal finalidad por el sistema SOMA. En el caso de aquellas ofertas que no pudieren ser aceptadas en su totalidad, los adjudicatarios podrán seleccionar la parte de los títulos de crédito que venderán, lo cual deberá efectuarse en la forma y oportunidad establecida en el RO. En caso de no indicarse los títulos de crédito, el Banco seleccionará, a su juicio exclusivo y dentro del horario que establezca el RO, los títulos de crédito que le deberán ser entregados por el monto parcial asignado, lo cual comunicará a la institución respectiva en la etapa de cierre de la licitación contemplada por el sistema SOMA.
+
+El pago del precio de los instrumentos comprados será abonado por el Banco Central de Chile en la cuenta corriente que hubiere informado el participante de conformidad con lo previsto en el numeral 21, y corresponderá al valor de la oferta respectiva hasta el monto adjudicado una vez efectuada la entrega, en favor del Banco, de la totalidad de los títulos de crédito que componen la oferta de venta, de acuerdo con lo indicado en el párrafo anterior y lo señalado en el numeral 19 de este Capítulo. En el caso que uno o más títulos de crédito no fuesen entregados al Banco, o que los mismos no cumplan con lo exigido por el numeral 8 anterior, la oferta se entenderá rechazada ipso facto en su totalidad, por no haberse cumplido la condición suspensiva indicada, lo cual será comunicado a la institución respectiva a través del sistema SOMA, conjuntamente con la aplicación de lo previsto en el numeral 20 de este Capítulo.
+
+24. Durante el horario de operaciones, el Banco podrá, a su juicio exclusivo, suspender transitoriamente la participación de cualquier institución en las licitaciones de compra cuando esta presente problemas o fallas técnicas que afecten su capacidad de conexión, de comunicación o el normal funcionamiento del sistema SOMA.
+
+En la misma forma, podrá suspender por un plazo de hasta 90 días la participación de cualquier entidad en las licitaciones de compra cuando esta haya incurrido en incumplimiento de las normas establecidas en este Capítulo o en el RO, ofrezca vender al Banco Central de Chile títulos de crédito que no cumplan con los requisitos establecidos en la normativa antedicha, o bien presente problemas o fallas técnicas reiteradas que afecten su capacidad de conexión o de comunicación.
+
+El Banco Central de Chile podrá revocar, a su juicio exclusivo, la calidad de entidad autorizada para participar en las licitaciones de compra a través del Sistema SOMA, respecto de aquellas instituciones o agentes que incurran en incumplimientos graves o reiterados de las normas establecidas por este Capítulo o su RO o que lleven a cabo actuaciones que pongan en riesgo el normal funcionamiento de las referidas operaciones del Sistema LBTR.
+
+En tal caso, el Banco informará la decisión de suspensión o revocación que adopte conforme a los dos párrafos anteriores, a la Superintendencia que corresponda.
+
+25. Solo podrán acceder a las funciones y efectuar operaciones de conformidad con los numerales 21 y siguientes de este Capítulo las personas debidamente autorizadas por el participante, quienes para todos los efectos legales y reglamentarios a que haya lugar se entenderá que actúan por cuenta y a nombre de este último. Dichas personas deberán respetar estrictamente las condiciones de seguridad establecidas, siendo de responsabilidad del participante respectivo que estas cumplan con las condiciones señaladas.
+
+En todo caso, el correspondiente participante responderá por cualquier acto, hecho u omisión proveniente del o los apoderados que designe conforme a la reglamentación e instrucciones aplicables. Por el solo hecho de que un apoderado acceda a las funciones y efectúen operaciones en el sistema SOMA, se entenderá plenamente facultado por el participante respectivo para actuar sin limitaciones ni restricciones de ningún tipo, comprometiendo dicho participante, en consecuencia, su responsabilidad patrimonial por estos conceptos frente al Banco Central de Chile y, en su caso, a los demás participantes del Sistema LBTR.
+
+26. En caso de presentarse contingencias que afecten el normal funcionamiento del Módulo de Compras del sistema SOMA, los participantes deberán ceñirse estrictamente a las instrucciones que imparta el Banco Central de Chile para enfrentar la solución de las mismas, así como también a los procedimientos que, para tales casos, se describan en el RO. El Banco, sin quedar sujeto a responsabilidad alguna, podrá suspender transitoriamente la operación del Módulo Compras del sistema SOMA por razones de seguridad o bien a objeto de solucionar fallas técnicas u otras contingencias operativas que se presenten.
+
+En este evento, el Banco Central de Chile podrá suspender o postergar la licitación de compra correspondiente, así como emplear cualquier otro mecanismo que estime satisfactorio a su juicio exclusivo, comunicando oportunamente a las instituciones o agentes financieros respectivos, las instrucciones de licitación que sean procedentes.
+
+27. El Banco Central de Chile, en su calidad de propietario y administrador de los Sistemas LBTR y SOMA, ha diseñado procedimientos a objeto de solucionar, con un razonable grado de seguridad, las contingencias de conexión, comunicación u operativas que puedan presentarse en los referidos Sistemas, las que, en su caso, podrían afectar el normal acceso y funcionamiento de las operaciones de licitación de compra.
+
+En todo caso, el Banco Central de Chile no tendrá responsabilidad por los eventuales daños o perjuicios que, por concepto de la imposibilidad o limitación en el acceso o el normal funcionamiento en la realización de operaciones de licitación de compra, se originen a los participantes del Sistema LBTR o SOMA o a terceros, por efecto de la ocurrencia de las referidas contingencias, salvo tratándose de daños o perjuicios patrimoniales directos sufridos por los referidos participantes que hubieren sido previsibles al tiempo de ocurrir las mismas, digan estricta relación con el acceso y funcionamiento de las operaciones de licitación de compra y se causen, exclusivamente, con motivo de acciones u omisiones del Banco Central de Chile imputables a su culpa grave o negligencia dolosa.
+
+Cualquier controversia que se suscite entre un participante y el Banco Central de Chile respecto de esta materia, incluida la calificación de los perjuicios causados o la especie de culpa o negligencia existente, deberá ser resuelta de acuerdo con la cláusula sobre arbitraje prevista en el respectivo Contrato de Adhesión al Sistema de Liquidación Bruta en Tiempo Real del Banco Central de Chile (LBTR), salvo en caso de tratarse de participantes que no sean miembros de dicho Sistema, caso en el cual se aplicarán los términos del arbitraje previsto en el Contrato SOMA.
+
+28. Se faculta al Gerente de Mercados Financieros Nacionales del Banco Central de Chile para dictar las resoluciones y suscribir los documentos, actos y contratos que fueren necesarios para la aplicación del presente Capítulo, así como también para dictar el Reglamento Operativo indicado en su numeral 21 e introducir a este las modificaciones que se estimen necesarias para el buen funcionamiento y la seguridad de las operaciones de licitación de compra mediante el Sistema SOMA.
+
+En todo caso, dichas modificaciones deberán ser comunicadas con antelación a las instituciones autorizadas para participar en estas operaciones y regirán a contar de la fecha que se indique."
+
+### 2. Publicar el presente Acuerdo en el Diario Oficial
+
+Santiago, 25 de junio de 2009.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
