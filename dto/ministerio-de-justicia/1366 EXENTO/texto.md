@@ -8,7 +8,7 @@ Decreto:
 
 1.- Concédese personalidad jurídica a la entidad denominada "Fondo de Salud Nacional de los Trabajadores de la Asociación Chilena de Seguridad", con domicilio en la provincia de Santiago, Región Metropolitana de Santiago.
 
-2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos que dan testimonio las escrituras públicas de fechas 30 de enero y 21 de junio de 2004; 15 de marzo, 18 de julio y 4 de diciembre de 2008, todas otorgadas en la Notaría Pública de Santiago de don Jaime Morandé Orrego.
+2.- Apruébanse los estatutos por los cuales se ha de regir la citada entidad, en los términos que dan testimonio las escrituras públicas de fechas 30 de enero y 21 de junio de 2004; 15 de marzo de 2006; 18 de julio y 4 de diciembre de 2008, todas otorgadas en la Notaría Pública de Santiago de don Jaime Morandé Orrego.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Carlos Maldonado Curti, Ministro de Justicia.
 
