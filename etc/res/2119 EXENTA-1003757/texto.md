@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.119, de 17 de junio de 2009, de esta Subsecretaría, autorízase a PRODUCTOS QUÍMICOS ALGINA S.A., para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Hijuela Nº47, lotes B 1b, Lt B2, bahía Chilota, Porvenir, XII Región, para elaborar en las líneas de proceso de Alga Seca y Extracto de Alga (Carragenias, Alginatos), los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 17 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
