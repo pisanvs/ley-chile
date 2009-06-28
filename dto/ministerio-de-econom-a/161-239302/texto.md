@@ -54,9 +54,7 @@ Cargo vacante, por cuanto no se presentaron postulaciones en el plazo reglamenta
 
 2. En representación de las organizaciones gremiales de Tripulantes de naves especiales:
 
-a) Mario Germán Villa Pérez, R.U.T.
-
-Nº 7.826.170-6, en calidad de titular.
+a) DEJA SIN EFECTO.
 
 b) José Espinoza Parada, R.U.T. Nº12.972.976-7
 

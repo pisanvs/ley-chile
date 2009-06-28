@@ -68,9 +68,7 @@ IV En representación de las organizaciones gremiales del sector laboral:
 
 1. En representación de las organizaciones gremiales de Oficiales de naves especiales:
 
-a) Eric Riffo Paz, RUT Nº 9.828.921-2, en
-
-calidad de titular.
+a) DEJA SIN EFECTO.
 
 b) Pedro Lizama Caro, RUT Nº 7.166.542-9, en
 
