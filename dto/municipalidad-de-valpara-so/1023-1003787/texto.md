@@ -1,0 +1,27 @@
+APRUEBA PLANO SECCIONAL BORDE COSTERO SECTOR BARÓN, PLANOS PSPB-01 Y PSPB-02 SECTOR MUELLE BARÓN
+
+Núm. 1.023.- Valparaíso, 5 de junio de 2009.- Vistos: El decreto alcaldicio N° 1.562 de 23 de junio de 2008, por el cual se dio inicio al proceso de aprobación del Plano Seccional Borde Costero Sector Barón, los planos, ordenanza y memoria explicativa del proyecto, las publicaciones legales correspondientes; la exposición al público durante período reglamentario; las observaciones ciudadanas hechas llegar en tiempo y forma, el informe del Asesor Urbanista Municipal a los Sres. Concejales, de fecha 5 de septiembre de 2008; la ley N° 18.695, el artículo 46 de la Ley General de Urbanismo y Construcciones y los artículos 2.6.1, 2.7.9 y 2.1.14 de la Ordenanza General de Urbanismo y Construcciones; el oficio ordinario 138, de 7 de febrero de 2008, del Jefe de la División de Desarrollo Urbano del Ministerio de la Vivienda, y el oficio ordinario N° 319, de 12 de febrero de 2008, del Secretario Regional Ministerial del mismo ministerio; el acuerdo N° 52 de fecha 8 de abril de 2009, adoptado en la Décima Sesión Ordinaria del Concejo Municipal de Valparaíso; el decreto alcaldicio 756, de fecha 17 de abril de 2009, todos referentes al proceso de aprobación del Plano Seccional Borde Costero Sector Barón; y la información entregada a los vecinos y unidades vecinales; la audiencia informativa a la comunidad llevada a cabo el día martes 1° de julio de 2008 en la Sede Central de la Universidad Católica; la presentación ante el Cesco de fecha 31 de julio de 2008; la segunda audiencia pública celebrada el día 18 de agosto de 2008 en edificio municipal, Avda. Argentina 864; la segunda exposición al Cesco celebrada el día 28 de agosto de 2008; las publicaciones legales correspondientes; la exposición al público durante período reglamentario, las observaciones ciudadanas hechas llegar en tiempo y forma; el informe del Asesor Urbanista Municipal de fecha 5 de septiembre de 2008; la ley N° 18.695; el artículo 45 de la Ley General de Urbanismo y Construcciones y los artículos 2.1.13 y 2.1.11 de la Ordenanza General de Urbanismo y Construcciones; y el acuerdo N° 53 de fecha 8 de abril de 2009, adoptado en la Décima Sesión Ordinaria del Concejo Municipal de Valparaíso; el decreto alcaldicio 757, de 17 de abril de 2009, todos referentes al proceso de enmienda de altura del área V-9 de la Zona A3-1; el decreto administrativo N° 2921 de fecha 6 de diciembre de 2008, y en mi calidad de Alcalde de Valparaíso,
+
+Decreto:
+
+Primero: Apruébase el Plano Seccional Borde Costero Sector Barón, los planos PSPB-01 y PSPB-02, Sector Muelle Barón, su memoria y texto resolutivo, de conformidad a los siguientes artículos:
+
+#### Artículo 1
+
+En el artículo 27 de la Ordenanza del Plan Regulador Comunal, aprobado mediante D.S. 26 de 8 de diciembre de 1984, del Ministerio de Vivienda y Urbanismo, publicado en el Diario Oficial de 17 de abril de 1984, y sus modificaciones posteriores, reemplázase la frase calle Simón Bolívar hasta el paseo Costanera por la frase "calle Simón Bolívar hasta avenida Bicentenario".
+
+#### Artículo 2
+
+En el artículo 25 de la Ordenanza del Plan Regulador Comunal de Valparaíso señalado en el artículo anterior, en la Zona A3.1, letra b.4, elimínase la frase "Las edificaciones que enfrenten el paseo Costanera deberán distanciarse 25 m mínimo a los ejes de las calles Edwards y Freire"; reemplazándose por la siguiente: "Las edificaciones que enfrenten el Paseo Costanera entre las calles Edwards y Rodríguez deberán generar transparencias o aperturas visuales a nivel de primer piso en los ejes de dichas calles, permitiendo la vista al mar desde la avenida Errázuriz".
+
+#### Artículo 3
+
+En el artículo 25, en la Zona A3.1, letra b.4, referida a distanciamientos, intercálese el siguiente nuevo párrafo, en la frase entre paréntesis, a continuación de "adosamientos"; "en la medida que ésta se constituya en un eje peatonal estructurante del proyecto de que se trate, se rescate su continuidad interior dada por la sucesión de sus arcos, y su perspectiva en profundidad, realzando de esta manera su valor patrimonial desde el interior," quedando como sigue: "paralelamente a la Bodega: 10 m (salvo en los sectores donde se proyecten atraviesos que la comuniquen con las edificaciones cercanas y que requieran adosamientos y, en la medida que ésta se constituya en un eje peatonal estructurante del proyecto de que se trate, se rescate su continuidad interior dada por la sucesión de sus arcos, y su perspectiva en profundidad, realzando de esta manera su valor patrimonial desde el interior), los que deberán ser justificados por la Memoria de Intervención."
+
+#### Artículo 4
+
+En el artículo 25, en la Zona A3.1, letra c, referida a altura de los edificios conectores sobre el Paseo Costanera, donde dice: "tengan una altura de 6 m sobre el paseo" debe decir: "tengan una altura de 4.5 m sobre el paseo".
+
+Segundo: Enmiéndase el artículo 18, Área V-9, Zona A3-1 de la Ordenanza del Plan Regulador Comunal de Valparaíso, D.S. N° 26, de 8 de diciembre de 1984, publicado en el Diario Oficial de 17 de abril de 1984, modificado por decreto alcaldicio Núm. 190, de 11 de marzo de 2005, publicado en el Diario Oficial del 18 de marzo de 2005, donde dice "altura máxima permitida 9 m", se reemplaza por: "altura máxima permitida 10,8 m.".
+
+Anótese, comuníquese y regístrese.- Jorge Castro Muñoz, Alcalde.- Mariella Valdés Ávila, Secretaria Municipal.
