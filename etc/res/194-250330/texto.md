@@ -122,7 +122,15 @@ proveerlas de los diferentes instrumentos
 
 disponibles y articulados de fomento produc-
 
-tivo;
+tivo como asimismo cofinanciar las actividades
+
+de gobernanza, gestión y administración de
+
+los Programas de Mejoramiento de la
+
+Competitividad de los clusters y los bienes
+
+club de alcance local, sectorial o regional;
 
 d) Promover la coordinación de las acciones
 
@@ -190,77 +198,79 @@ financiados por CORFO o el Comité Innova
 
 Chile. Para estos fines, cada Comité se
 
-avocará al desempeño de las tareas y
+abocará al desempeño de las tareas y cometidos
 
-cometidos que le asignen la Corporación o su
+que le asignen la Corporación o su Comité
 
-Comité Innova Chile, incluidas aquellas que
+Innova Chile, incluidas aquellas que surjan de
 
-surjan de convenios celebrados con la
+convenios celebrados con la Comisión Nacional
 
-Comisión Nacional de Investigación Científica
+de Investigación Científica y Tecnológica
 
-y Tecnológica, CONICYT.
+(CONICYT) y con los gobiernos regionales, los
+
+que podrán contemplar la transferencia de recursos
+
+para la ejecución del convenio. Adicionalmente,
+
+podrán suscribirse convenios de transferencias
+
+con los gobiernos regionales para el financiamiento
+
+de las gobernanzas, gestión y administración de
+
+los Programas de Mejoramiento de la Competitividad
+
+y de los bienes club.
 
 ### 3. Cada Comité estará dirigido por un Consejo
 
-Estratégico, compuesto por los siguientes
-
-integrantes:
+Estratégico, compuesto de la siguiente manera:
 
 a) El respectivo Intendente Regional.
 
-b) El Secretario Regional Ministerial de
+b) El Secretario Regional Ministerial de Economía.
 
-Economía.
+c) El Director Regional de la Corporación.
 
-c) El respectivo Director Regional de la
+d) Un representante del Servicio de Cooperación
 
-Corporación.
+Técnica, SERCOTEC, designado por su Gerente General.
 
-d) Tres representantes del sector privado,
+e) Tres o más representantes del sector privado,
 
-designados por el Intendente de la región
+con un tope de nueve, designados por el Intendente
 
-respectiva, previa consulta con el
+de la región respectiva, previa consulta con el
 
 Vicepresidente Ejecutivo de la Corporación.
 
-e) Dos representantes del sector público en la
+f) Dos o más representantes del sector público
 
-región, designados por el Intendente de la
+en la región, con un tope de seis, designados por
 
-región respectiva.
+el Intendente de la región respectiva.
 
-f) Un representante del Servicio de Cooperación
-
-Técnica, SERCOTEC, designado por su Gerente
-
-General.
-
-En caso de ausencia o impedimento de las autoridades a que se refieren las letras a),
-
-- **b)** y
-
-- **c)** precedentes, éstas serán reemplazadas por quienes los subroguen y, tratándose de las autoridades o personas indicadas en las letras d),
-
-- **e)** y f), serán reemplazadas por quienes sean designados, en calidad de suplentes, por las mismas autoridades y con arreglo al mismo procedimiento indicado en cada una de esas letras. Cada persona o autoridad tendrá su respectivo suplente, el que no podrá reemplazar a ningún otro miembro titular del Consejo Estratégico en caso de ausencia o impedimento.
+En caso de ausencia o impedimento del Intendente Regional, será reemplazado por quien éste designe como consejero suplente. En caso de ausencia o impedimento de las autoridades a que se refieren las letras b) y c), serán reemplazadas por quienes los subroguen. Tratándose de las autoridades o personas indicadas en las letras d), e) y f), serán reemplazadas por quienes sean designadas, en calidad de suplentes, por las mismas autoridades y con arreglo al mismo procedimiento indicado en cada una de estas letras.
 
 La Presidencia del Consejo Estratégico recaerá en el Intendente Regional titular y la Vicepresidencia en la persona o autoridad que el propio Consejo Estratégico designe de entre sus miembros titulares, a propuesta del Intendente Regional. La calidad de Presidente o Vicepresidente y el ejercicio de las facultades que corresponden a dichos cargos, no se extenderá a las autoridades que subroguen al Intendente titular, o a las personas o autoridades que reemplacen al miembro titular del Consejo Estratégico que haya sido designado como Vicepresidente, en caso de ausencia o impedimento de éstos.
 
-El Consejo Estratégico estará facultado para definir las orientaciones y prioridades estratégicas de la respectiva Agenda Regional de Desarrollo Productivo, como asimismo del Comité; fijar su estructura técnica y administrativa, aprobar el presupuesto anual de gastos y los reglamentos internos del Comité; designar al Director de la Agencia Regional de Desarrollo Productivo y sus reemplazantes, a propuesta del Vicepresidente Ejecutivo de la Corporación; pronunciarse sobre la cuenta del Director; disponer la celebración de convenios de colaboración con entidades públicas y privadas cuyo fin sea facilitar el cumplimiento del objeto del Comité; asignar el cumplimiento de determinadas tareas o cometidos a miembros o empleados del Comité, y, en general, adoptar todos los acuerdos que sean necesarios para la realización de la misión y los objetivos del Comité.
+Al Consejo Estratégico le asiste la función y la responsabilidad de velar por el fiel cumplimiento de las tareas asignadas a las Agencias Regionales en el Contrato de Préstamo Nº1829/OC-CH suscrito entre el Gobierno de Chile y el Banco Interamericano de Desarrollo y en el Reglamento Operativo del Programa Agencias Regionales de Desarrollo Productivo. El Consejo Estratégico estará facultado para definir las orientaciones y prioridades estratégicas de la respectiva Agencia Regional; aprobar la Agenda Regional de Desarrollo Productivo; seleccionar los clusters en los que se implementarán los Programas de Mejoramiento de la Competitividad; aprobar el Reglamento Interno del Comité; fijar su estructura técnica y administrativa; aprobar el plan de gastos que se ejecutará con cargo al presupuesto anual del Comité; aprobar el Plan Operativo Anual, a propuesta del Director, el que contendrá las metas, las actividades, las responsabilidades, eventuales riesgos y los gastos necesarios para alcanzar dichas metas, así como los indicadores que permitan verificar sus avances; designar al Director de la Agencia Regional, a propuesta del Vicepresidente Ejecutivo de la Corporación, así como sus reemplazantes; establecer y aplicar criterios y mecanismos de evaluación de desempeño anual del Director del Comité, entre los cuales se deberá considerar el cumplimiento de las metas establecidas en el Programa Operativo Anual; y, en general, adoptar todos los acuerdos que sean necesarios para la realización de la misión y objetivos del Comité.
 
-Para el exclusivo desempeño de las funciones indicadas en el párrafo segundo del numeral 2 de este Reglamento, existirá un Subcomité Regional de Innovación integrado por las autoridades y personas indicadas en las letras b), c),
+Para el exclusivo desempeño de las funciones indicadas en el párrafo segundo del numeral II.2, existirá un Subcomité Regional de Innovación integrado por las autoridades o personas indicadas en las letras b),
 
-- **d)** y
+- **c)** y
 
-- **e)** del párrafo primero del presente numeral, más un representante de la Comisión Nacional de Investigación Científica y Tecnológica, Conicyt. Actuará como presidente del Subcomité Regional de Innovación la autoridad indicada en la letra
+- **f)** del párrafo primero del numeral II.3, más un representante de la Comisión Nacional de Investigación Científica y Tecnológica, CONICYT, y tres representantes del sector privado designados por el Intendente de la región respectiva, previa consulta con el Vicepresidente Ejecutivo de la Corporación. Los representantes del sector privado que integren el Subcomité Regional de Innovación podrán ser personas distintas de los representantes del sector privado que integren el Consejo Estratégico. Para el caso que el número de representantes del sector público que componen el Consejo Estratégico, indicados en la letra
 
-- **b)** y como Vicepresidente la autoridad indicada en la letra
+- **f)** del párrafo primero del numeral II.3, fuere superior a 2, el Consejo Estratégico designará, entre ellos y hasta ese número, quienes integrarán el referido Subcomité. Adicionalmente, por Acuerdo del Consejo Estratégico y a propuesta del Subcomité Regional de Innovación, podrán existir invitados permanentes y/o especiales con derecho a voz. Actuará como Presidente del Subcomité Regional de Innovación la autoridad indicada en la letra
 
-- **c)** precedentes. En caso de ausencia o impedimento del representante de Conicyt, éste será reemplazado por quien designe la referida entidad en calidad de suplente. La calidad de Presidente o Vicepresidente no se extenderá a las autoridades que subroguen al Secretario Regional Ministerial de Economía, o a las personas o autoridades que reemplacen al directivo de Corfo designado por su Vicepresidente Ejecutivo en carácter de titular, en caso de ausencia o impedimento de éstos.
+- **b)** del párrafo primero del numeral II.3 y, como Vicepresidente, la autoridad indicada en la letra
 
-También existirá un Subcomité Regional Coordinador de Acciones de Fomento Productivo para el desempeño de las funciones indicadas en la letra d) del párrafo primero del numeral 2 del presente Reglamento, y las demás tareas o cometidos que el Consejo Estratégico estime conveniente asignarle y que se encuentren comprendidas dentro del objeto precisado en dicho párrafo. Este Subcomité estará integrado por un representante de la Corporación de Fomento de la Producción (Corfo), del Instituto de Desarrollo Agropecuario (Indap), del Servicio de Cooperación Técnica (Sercotec), del Fondo de Solidaridad e Inversión Social (Fosis), de la Dirección General de Relaciones Económicas Internacionales (Prochile), del Servicio Nacional de Turismo (Sernatur), y del Servicio Nacional de Capacitación y Empleo (Sence), designados por los respectivos jefes superiores del servicio o gerentes generales, más tres autoridades o personas designadas por el Intendente Regional que pertenezcan a otras entidades públicas de fomento de la región. En caso de ausencia o impedimento de alguno de ellos será reemplazado por quien se designe, en calidad de suplente, por la misma autoridad que designa al titular. La responsabilidad del funcionamiento de este Subcomité recaerá en el Director de la Agencia Regional.
+- **c)** del mismo párrafo. En caso de ausencia o impedimento del representante de CONICYT, éste será reemplazado por quien designe la referida entidad en calidad de suplente. La calidad de Presidente o Vicepresidente no se extenderá a las autoridades que subroguen al Secretario Regional Ministerial de Economía o al Director Regional de CORFO, en caso de ausencia o impedimento de éstos
+
+También existirá un Subcomité Regional de Red de Acciones de Fomento Productivo para el desempeño de las funciones indicadas en la letra d) del párrafo primero del numeral II.2, y para asesorar al Consejo Estratégico en relación con la modificación y/o actualización de las Agendas Regionales de Desarrollo Productivo; informarle acerca del estado de avance de dicha Agenda Regional y del seguimiento de los compromisos establecidos en los acuerdos presupuestarios suscritos entre los Servicios y la Agencia Regional; asesorar al Consejo Estratégico en sus propuestas de articulaciones programáticas y presupuestarias en torno a los ejes y lineamientos estratégicos establecidos en la Agenda Regional; coordinar las acciones de fomento productivo en la región con arreglo a las definiciones estratégicas y prioridades contempladas en las Agendas Regionales y las demás tareas o cometidos que el Consejo Estratégico estime conveniente asignarle y que se encuentren comprendidas dentro del objeto precisado en dicho párrafo. Este Subcomité estará integrado por un representante de la Corporación de Fomento de la Producción (CORFO), designado por su Vicepresidente Ejecutivo; un representante del Servicio de Cooperación Técnica (SERCOTEC), designado por su Gerente General; un representante del Instituto de Desarrollo Agropecuario (INDAP), designado por su Director Nacional; un representante del Servicio Agrícola y Ganadero (SAG), designado por su Director Nacional; un representante del Servicio Nacional de Capacitación y Empleo (SENCE), designado por su Director Nacional; un representante del Fondo de Solidaridad e Inversión Social (FOSIS), designado por su Director Nacional; un representante del Consejo Regional (CORE), designado por éste a propuesta del Intendente; un representante del Servicio Administrativo del Gobierno Regional, designado por el Intendente y dos representantes de entidades y/o programas públicos de fomento productivo o de desarrollo económico designados por el Intendente. Por Acuerdo del Consejo Estratégico, el número de representantes del Consejo Regional podrá aumentar en uno y el número de representantes de entidades y/o programas de fomento productivo o de desarrollo regional podrán incrementarse hasta cinco, todos ellos designados por las mismas autoridades y según los mismos procedimientos. En caso de ausencia o impedimento de alguno de los integrantes del Subcomité Regional de Red de Acciones de Fomento Productivo, éste será reemplazado por quien se designe en calidad de suplente por la misma autoridad y con arreglo al mismo procedimiento que se designa al titular. Por acuerdo del Consejo Estratégico y a propuesta del Subcomité Regional de Red de Acciones de Fomento Productivo, podrán existir invitados permanentes y/o especiales con derecho a voz, incluyendo empresarios o representantes del sector privado. La responsabilidad del funcionamiento de este Subcomité recaerá en el Director de la Agencia Regional.
 
 El Consejo Estratégico, el Subcomité Regional de Innovación y el Subcomité Regional Coordinador de Acciones de Fomento Productivo se reunirán las veces y en la forma que cada uno de ellos determine. Las citaciones las hará el Director de la Agencia Regional. El quórum para sesionar del Subcomité Regional de Innovación será de a lo menos seis miembros. El quórum para sesionar del Consejo Estratégico y del Subcomité Regional Coordinador de Acciones de Fomento Productivo será de a lo menos cinco miembros, y los Acuerdos de estos órganos se adoptarán por mayoría absoluta de los presentes. Con todo el Consejo Estratégico no podrá sesionar sin la asistencia del Intendente Regional o de quien lo subrogue. En caso de sesionar con la asistencia del Intendente Regional Subrogante corresponderá al Vicepresidente ejercer las atribuciones señaladas en el numeral 4 del presente Reglamento.
 
@@ -466,19 +476,23 @@ y contratos que sean necesarios para cumplir
 
 con sus objetivos.
 
-k) En conjunto con el Director Regional de la
+k) Celebrar contratos con instituciones bancarias
 
-Corporación, o quien le subrogue, podrá abrir
+y operar en cuentas corrientes que sean necesarias
 
-y cerrar cuentas corrientes bancarias y de
+para el funcionamiento de la Agencia Regional,
 
-depósito, girar en ellas, efectuar depósitos,
+previa autorización por escrito de la Gerencia de
 
-retirar talonarios, dar orden de no pago,
+Administración y Finanzas de la Corporación de
 
-reconocer e impugnar saldos y solicitar o
+Fomento de la Producción. Todo lo anterior, en
 
-autorizar cargos en dichas cuentas.
+conformidad con los poderes y firmas conjuntas que,
+
+para la Agencia, disponga el Vicepresidente Ejecutivo
+
+de CORFO en resolución especial.
 
 l) Cautelar los recursos y bienes del Comité y
 
@@ -491,6 +505,8 @@ m) Ejercer las demás funciones y cumplir los
 otros deberes que el Consejo Estratégico
 
 estime conveniente asignarle.
+
+El personal de los Comités, incluido su Director, deberá dar fiel y estricto cumplimiento a la normativa legal y reglamentaria, de naturaleza general o especial, que rige la organización, funcionamiento y procedimientos de CORFO y sus comités. Asimismo, en relación con los bienes a su cargo deberán observar una diligencia y cuidado equiparable a la que se exige a los funcionarios públicos. El Reglamento Interno de cada Comité determinará los tipos de responsabilidad a los cuales estarán afectos sus trabajadores.
 
 6. El Consejo Estratégico y el Subcomité
 
@@ -602,7 +618,7 @@ Corresponderá al Intendente de la Región seleccionar, entre los 9 representant
 
 El quórum para sesionar del respectivo Consejo Estratégico será de a lo menos 10 miembros.
 
-b) El Consejo Estratégico de los Comités "Agencia Regional de Desarrollo Productivo de la Región de Los Ríos y de Arica y Parinacota" estará compuesto, adicionalmente, por dos representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación.
+b) El Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de Los Ríos" estará compuesto por 5 representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación. Por su parte, el Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de Arica y Parinacota" estará compuesto por 8 representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación.
 
 c) El Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de la Araucanía" estará compuesto, adicionalmente, por un académico de la Región, designado por el Intendente y por un gestor o emprendedor de la etnia mapuche de la Región, designado por el Intendente.
 
