@@ -468,7 +468,7 @@ d. En todo local de juegos Electrónicos deberá existir un letrero o rótulo co
 
 e. La iluminación general del local no deberá tener una medida inferior a 150 Lux.
 
-f) Sólo se autorizará la utilización de máquinas de juego en base a la habilidad y destreza del jugador, lo que deberá ser acreditado por un informe de la Policía de Investigaciones a través de su Brigada competente.
+f. Sólo se autorizará la explotación de máquinas de juegos cuyos resultados dependan exclusivamente de la habilidad o destreza del jugador. Estas circunstancias deberá acreditarlas el peticionario de la autorización con un informe pericial emanado de un laboratorio de la especialidad, que cuente con la Certificación ISO 9001, emitido específicamente, por o para cada tipo de máquina a instalar en local del solicitante.
 
 Las máquinas instaladas al interior de locales comerciales con otros usos deberán disponer un área específica para su funcionamiento, no mayor al 50% del local, prohibiéndose su instalación en la vía pública y circulaciones comunes de galerías comerciales abiertas o cerradas y locales de expendio y consumo de bebidas alcohólicas, cerveza, té y café.
 
