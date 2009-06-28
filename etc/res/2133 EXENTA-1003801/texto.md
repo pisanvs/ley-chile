@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.133, de 18 de junio de 2009, de esta Subsecretaría, modifícase el numeral 4.- de la resolución exenta Nº774 de 2009, de esta Subsecretaría, y sus modificaciones posteriores, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardinas en aguas interiores de la X Región de Los Lagos-Sur, 2009", en el sentido de reemplazar a la embarcación artesanal "Don Ángel" por la embarcación "Pilfican III", respectivamente, del listado de naves autorizadas a participar de la presente pesca de investigación.
+
+Valparaíso, 18 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
