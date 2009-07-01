@@ -16,7 +16,7 @@ Plantas Grado Nº de Cargos
 
 Director General 1 1
 
-Directores 2 11
+Directores 2 12
 
 Director Fiscal 2 1
 
@@ -26,7 +26,7 @@ Jefes de Departamento 3 19
 
 ------
 
-43
+44
 
 2.- PLANTA DE PROFESIONALES
 
@@ -114,7 +114,7 @@ Jefes de Departamento 3 19
 
 145
 
-TOTAL GENERAL: 2.326
+TOTAL GENERAL: 2.327
 
 #### Artículo 2º
 
