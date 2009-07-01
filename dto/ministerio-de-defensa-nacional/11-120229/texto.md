@@ -16,6 +16,8 @@ VI Región del Libertador General Bernardo O'Higgins
 
 Lago artificial o embalse Rapel
 
+Lago Cahuil
+
 VII Región del Maule
 
 Lago artificial o Embalse Colbún
@@ -27,8 +29,6 @@ Lago Teno
 Lago Invernada
 
 Lago Vichuquén
-
-Lago o Laguna Cahuil
 
 VIII Región del Bío-Bío
 
