@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.602, de 10/12/2008, modificó D.S. (M) 323/1991, de la siguiente forma: Ubicación: Bahía Linao, Sector Doca; Superficie 1,94 Hás.; coordenadas geográficas Plano DPC-304, 1ª Edición 2005, (Datum WGS-84), Sector Playa (1,39 Hás.) Vértice A Lat. 41º56'36,59" S. Long. 73º33'06,49" W.- Vértice B Lat. 41º56'35,05" S. Long. 73º33'05,91" W.- Vértice C Lat. S. Long 73º33'03,80" W.- Vértice D Lat. 41º56'34,33" S. Long. 73º32'58,84" W.- Vértice E Lat. 41º56'35,31" S. Long. 73º32'59,89" W.- Vértice F Lat. 41º56'35,95" S. Long. 73º33'00,52" W.- Vértice G Lat. 41º56'36,99" S. Long. 73º33'00,76" W. Porción de Agua y Fondo (0,55 Hás) Vértice A Lat. 41º56'34,33" S. Long. 73º32'58,84" W.- Vértice B Lat. 41º56'34,88" S. Long. 73º32'56,90" W.- Vértice C Lat. 41º56'37,63" S. Long. 73º32'58,19" W.- Vértice D Lat. 41º56'36,99" S. Long. 73º33'00,76" W.- Vértice E Lat. 41º56'35,95" S. Long. 73º33'00,52" W.- Vértice F Lat. 41º56'35,31" S. Long. 73º32'59,89" W.
+
+Santiago, 23 de junio de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
