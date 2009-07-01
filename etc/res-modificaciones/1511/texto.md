@@ -1,6 +1,6 @@
 MODIFICA Y AUTORIZA TRANSFERENCIA DE CONCESIÓN DE ACUICULTURA
 
-Mediante resolución 1.511, de 21 de noviembre de 2009, Ministerio de Defensa Nacional, Subsecretaría de Marina, se resolvió:
+Mediante resolución 1.511, de 21 de noviembre de 2008, Ministerio de Defensa Nacional, Subsecretaría de Marina, se resolvió:
 
 1. Modifícase el D.S. 1.264, de fecha 16 de noviembre de 1988, del Ministerio de Defensa Nacional, Subsecretaría de Marina, que otorgó al Sr. Fernando Vial Claro, Concesión sobre Porciones de Agua, en el siguiente sentido:
 
