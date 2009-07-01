@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.120, de 17 de junio de 2009, de esta Subsecretaría, autorízase a RODRIGO ANDRÉS TAULER AROS para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Parcela Nº 22, Lote H, Quebradilla, La Ligua, V Región, para elaborar en línea de proceso Alga seca y Picado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 17 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
