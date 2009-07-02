@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 815 de fecha 29 de mayo de 2009, se expropió el lote de terreno Nº 20, superficie 150 m2, rol Nº 26-50, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario IBAR DEL CARMEN ADAOS PIZARRO Y OTRA, ascendente a la cantidad de $860.555.-
+
+Fiscal del Ministerio de Obras Públicas.
