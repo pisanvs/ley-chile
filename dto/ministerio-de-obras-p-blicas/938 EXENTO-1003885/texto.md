@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº938, de 23 de junio de 2009, se rectificó el Decreto NO 533 de 31 de marzo de 2009. en su numeral 20, atendido que la propietaria del predio expropiado es doña AMIRLA ELIZABETH OLIVARES CASTILLO. Asimismo, rectifica el numera 3º, del mismo Decreto, en cuanto don MANUEL HERNAN OLIVARES CASTILLO, comparece sólo en calidad de mandatario de la expropiada.
+
+Fiscal del Ministerio de Obras Públicas.
