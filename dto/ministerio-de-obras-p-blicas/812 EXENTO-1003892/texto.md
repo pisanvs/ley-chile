@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 812 de fecha 29 de mayo de 2009, se expropió el lote de terreno Nº 33-A, superficie 1.167,92 m2, rol Nº 385-66, comuna de Pitrufquén, para el "Sistema de Regadío Faja Maisan", obra: "Fajas Adicionales Canal Comuy", Comuna de Pitrufquén, Provincia de Cautín, IX Región de La Araucanía y se acordó el valor de la indemnización con su propietario JOSE MERCEDES JARAMILLO JARAMILLO, ascendente a la cantidad de $744.058.-
+
+Fiscal del Ministerio de Obras Públicas.
