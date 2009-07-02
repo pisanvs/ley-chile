@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 813 de fecha 29 de mayo de 2009, se expropió el lote de terreno Nº 2, superficie 4.445 m2, rol Nº 423-51, comuna de Illapel, para la Obra: Embalse El Bato "Canal Nuevo Cocinera" Comuna de Illapel, Provincia de Choapa, Región de Coquimbo y se acordó el valor de la indemnización con su propietario JUAN CIRIACO QUIROGA OLIVARES, ascendente a la cantidad de $3.221.559.-
+
+Fiscal del Ministerio de Obras Públicas.
