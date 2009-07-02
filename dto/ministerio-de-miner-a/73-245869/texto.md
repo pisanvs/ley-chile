@@ -20,7 +20,7 @@ Los recursos del Fondo de Estabilización de Precios de Combustibles Derivados d
 
 #### Artículo 2º
 
-Los aportes y retiros al Fondo deberán efectuarse en dólares de los Estados Unidos de América, por el Servicio de Tesorerías, de acuerdo a lo previsto en los artículos 3º y 4º de la ley. Para el manejo y control del Fondo se deberá crear las cuentas presupuestarias que sean necesarias.
+Los aportes y retiros al Fondo deberán efectuarse en dólares de los Estados Unidos de América, por el Servicio de Tesorerías, de acuerdo a lo previsto en los artículos 3º y 4º y en el inciso cuarto del artículo tercero transitorio de la ley. Para el manejo y control del Fondo se deberá crear las cuentas presupuestarias que sean necesarias.
 
 #### Artículo 3º
 
@@ -28,13 +28,13 @@ El Servicio de Tesorerías informará a la Comisión Nacional de Energía, en ad
 
 ## Título II
 
-De los combustibles derivados del petróleo a los cuales
+De los combustibles a los cuales
 
 se les aplica la ley
 
 #### Artículo 4º
 
-Las disposiciones de la ley y del presente reglamento se aplicarán sólo a las siguientes categorías de combustibles derivados del petróleo:
+Las disposiciones de la ley y del presente reglamento se aplicarán sólo a las siguientes categorías de combustibles derivados del petróleo y al gas natural licuado, en lo que corresponda:
 
 a) Gasolina automotriz.
 
@@ -54,7 +54,11 @@ Esta categoría comprende el gas licuado en todos Art. único Nº 2 a)
 
 sus grados.
 
-Exclúyanse de la aplicación de las disposiciones legales y reglamentarias mencionadas toda otra categoría de combustibles derivados del petróleo que no se encuentre comprendida dentro de la enumeración precedente, como acontece con categorías tales como petróleos combustibles, gasolina de aviación, kerosene de aviación, gas natural, y otros derivados utilizados en procesos industriales como etileno, propileno, metanol, nafta, solventes, asfaltos, entre otros.
+e) Gas natural licuado.
+
+Esta categoría comprende el gas natural en estado líquido y el gas natural en estado gaseoso que provenga de una planta de regasificación ubicada en territorio nacional.
+
+Exclúyanse de la aplicación de las disposiciones legales y reglamentarias mencionadas toda otra categoría de combustibles derivados del petróleo que no se encuentre comprendida dentro de la enumeración precedente, como acontece con categorías tales como petróleos combustibles, gasolina de aviación, kerosene de aviación y otros derivados utilizados en procesos industriales como etileno, propileno, metanol, nafta, solventes, asfaltos, entre otros, como también el gas natural en estado gaseoso que no provenga de una planta de regasificación ubicada en territorio nacional.
 
 ## Título III
 
@@ -82,7 +86,7 @@ Los precios de paridad que se determinen regirán a partir del jueves siguiente 
 
 #### Artículo 7º
 
-La Comisión podrá requerir todos los antecedentes que sean pertinentes de los productores, refinadores, distribuidores, importadores, exportadores y personas o empresas de la Marina Mercante y organismos del sector público y privado pudiendo utilizarlos para los efectos de emitir sus informes respecto a los precios de paridad, precios de referencia, saldo del Fondo y créditos e impuestos. En especial podrá recabar antecedentes de las ventas nacionales y de los programas de importación de los combustibles gasolina automotriz, kerosene doméstico, petróleo diesel y gas licuado, de las empresas productoras, refinadoras, distribuidoras e importadoras de estos productos, y de los recursos disponibles del Fondo.
+La Comisión podrá requerir todos los antecedentes que sean pertinentes de los productores, refinadores, regasificadores, distribuidores, importadores, exportadores y personas o empresas de la Marina Mercante y organismos del sector público y privado pudiendo utilizarlos para los efectos de emitir sus informes respecto a los precios de paridad, precios de referencia, saldo del Fondo, créditos e impuestos y mecanismo de equilibrio de precios para el gas natural licuado, en adelante, el mecanismo de equilibrio. En especial podrá recabar antecedentes de las ventas nacionales y de los programas de importación de los combustibles gasolina automotriz, kerosene doméstico, petróleo diesel, gas licuado y gas natural licuado, de las empresas productoras, regasificadoras, refinadoras, distribuidoras e importadoras de estos productos, y de los recursos disponibles del Fondo.
 
 La Comisión deberá indicar los valores de los precios históricos y precios futuros del crudo WTI y de los valores históricos de los diferenciales de refinación para cada combustible, en el informe semanal sobre los precios de referencia, señalando los períodos de tiempos considerados para cada uno de éstos "n", "m" y "s" en la Ley, y las ponderaciones asignadas para el cálculo del precio de referencia intermedio del crudo WTI y el valor del precio de referencia intermedio, inferior y superior de los combustibles afectos.
 
@@ -90,7 +94,7 @@ La Comisión deberá señalar la fuente de información usada en las respectivas
 
 #### Artículo 8º
 
-El Ministerio de Minería deberá informar al Servicio de Impuestos Internos los precios de referencia y precio de paridad, y los impuestos y créditos si corresponden, antes de la fecha de su vigencia, para el efecto establecido en el artículo 19º de este Reglamento.
+El Ministerio de Minería deberá informar semanalmente al Servicio de Impuestos Internos los precios de referencia y precio de paridad, y los impuestos y créditos si corresponden, antes de la fecha de su vigencia, para el efecto establecido en el artículo 19º de este Reglamento. Asimismo, deberá informar el impuesto o crédito resultante de la aplicación del mecanismo de equilibrio.
 
 ## Título IV
 
@@ -100,9 +104,9 @@ De los impuestos y créditos fiscales específicos
 
 La Comisión deberá informar semanalmente al Ministerio de Minería, los impuestos y créditos a aplicar, si procede, para cada producto.
 
-El Ministerio de Minería determinará si corresponde reducir los créditos fiscales por cada metro cúbico de los combustibles en el evento que la estimación del valor total de los créditos proyectados, para el período que reste para la vigencia de la aplicación del mecanismo de estabilización, fuese superior al saldo del Fondo determinado por la Comisión. Los créditos proyectados serán determinados por la Comisión considerando el precio de paridad proyectado de cada producto, el diferencial de refinación proyectado de cada producto, el precio proyectado del crudo WTI, así como otros antecedentes que estime pertinentes. Por su parte, el saldo del Fondo será el que determine la Comisión, la que podrá considerar para estos efectos los antecedentes entregados por el Servicio de Tesorerías, las empresas productoras, distribuidoras e importadoras de los combustibles afectos a la ley y otros antecedentes de que disponga.
+El Ministerio de Minería determinará si corresponde reducir los créditos fiscales por cada metro cúbico de los combustibles en el evento que la estimación del valor total de los créditos proyectados, descontando el valor total de los impuestos proyectados, para el período que reste para la vigencia de la aplicación de los mecanismos de estabilización y de equilibrio, fuese superior al saldo del Fondo determinado por la Comisión. Los créditos e impuestos proyectados serán determinados por la Comisión considerando el precio de paridad proyectado de cada combustible derivado del petróleo, el diferencial de refinación proyectado de cada combustible derivado del petróleo, el precio proyectado del crudo WTI, la aplicación del mecanismo de equilibrio, así como otros antecedentes que estime pertinentes. Por su parte, el saldo del Fondo será el que determine la Comisión, la que podrá considerar para estos efectos los antecedentes entregados por el Servicio de Tesorerías, las empresas productoras, distribuidoras, regasificadoras e importadoras de los combustibles afectos a la ley, otros organismos del sector público y privado y otros antecedentes de que disponga.
 
-Las empresas productoras, refinadoras, distribuidoras e importadoras de derivados del petróleo deberán informar a la Comisión Nacional de Energía, en la forma que ésta determine, todos los jueves o el día hábil anterior si éste es feriado, la mejor estimación de las operaciones relativas a los combustibles señalados en el artículo 4º del presente reglamento, que presentarán al Servicio de Tesorerías por:
+Las empresas productoras, refinadoras, distribuidoras e importadoras de derivados del petróleo y las empresas importadoras de gas natural licuadodeberán informar a la Comisión Nacional de Energía, en la forma que ésta determine, todos los jueves o el día hábil anterior si éste es feriado, la mejor estimación de las operaciones relativas a los combustibles señalados en el artículo 4º del presente reglamento, que presentarán al Servicio de Tesorerías por:
 
 a) Los volúmenes de producción propia vendidos
 
@@ -132,15 +136,29 @@ siguientes.
 
 Asimismo, las compañías distribuidoras e importadoras de los combustibles afectos a la ley deberán informar a la Comisión, todos los jueves o el día hábil anterior si éste es feriado, la mejor estimación de los volúmenes informados como vendidos de los combustibles señalados en el artículo 4º que terminarán siendo exportados de acuerdo a la ley o comprados por las empresas navieras para lo señalado en el artículo 17º del presente reglamento, todo ello para el período de 14 días previos al jueves de la semana en que corresponda informar, el señalado día jueves y los seis días siguientes.
 
-La Comisión deberá indicar en su informe semanal de impuestos y créditos, la estimación del valor total de los créditos proyectados para el periodo que reste para la vigencia de la aplicación del mecanismo de estabilización establecido en la ley. Para estos efectos podrá considerar una estimación de las ventas proyectadas para tal período, así como estimaciones de los créditos e impuestos proyectados y estimaciones de los recursos del Fondo para el período señalado.
+La Comisión deberá indicar en su informe semanal de impuestos y créditos, la estimación del valor total de los créditos proyectados, descontando el valor total de los impuestos proyectados, para el periodo que reste para la vigencia de la aplicación de los mecanismos de estabilización y equilibrio establecidos en la ley. Para estos efectos podrá considerar una estimación de las ventas proyectadas para tal período, así como estimaciones de los créditos e impuestos proyectados y estimaciones de los recursos del Fondo para el período señalado.
+
+Para efectos de determinar el impuesto o crédito fiscal que corresponda aplicar al gas natural licuado, la Comisión deberá informar el menor valor, en unidades de energía, entre el gas licuado de petróleo y el petróleo diesel, calculado en la forma señalada en el artículo tercero transitorio de la Ley.
 
 #### Artículo 10º
 
 La primera venta o importación de los combustibles derivados del petróleo a que se refiere la ley estará gravada con un impuesto equivalente a la diferencia, cuando ella sea positiva, entre el precio de referencia inferior y el precio de paridad, el que se aplicará por cada metro cúbico de producto vendido o importado, en la semana respectiva. La fracción señalada se empleará con dos decimales, truncando el resto.
 
-El monto del impuesto se expresará en dólares de los Estados Unidos de América y se pagará en la moneda de libre curso legal de acuerdo a la equivalencia de aquella moneda según el tipo de cambio observado, publicado por el Banco Central de Chile, vigente el día martes anterior al período de siete días que comienza un jueves en que se devenguen los impuestos correspondientes; en caso que el día martes fuese inhábil se considerará el tipo de cambio del día hábil inmediatamente anterior al día martes.
+Asimismo, la importación de gas natural licuado estará gravada con un impuesto cuyo monto por metro cúbico será igual al monto del impuesto del mismo período que grave al combustible de menor valor, en unidades de energía, entre el gas licuado de petróleo y el petróleo diesel, multiplicado por 0,95904 si el combustible de menor valor es gas licuado o por 0,64384 si se trata de petróleo diesel. Este impuesto se aplicará por cada metro cúbico de gas natural licuado importado de poder calorífico superior de 13.100 kilocalorías por kilogramo y se expresará con dos decimales, truncando el resto.
 
-El importador que deba pagar este impuesto deberá declararlo al Servicio de Tesorerías en los términos y por los medios que dicho servicio determine, dentro del plazo fatal que expira el último día hábil bancario del período de catorce días consecutivos que comienza el jueves siguiente a la fecha en que hubiere efectuado las importaciones que motivan el pago. El impuesto, deberá ser enterado dentro de los catorce días consecutivos siguientes al último día hábil bancario del período de siete días consecutivos que comienza el jueves anterior a la fecha en que hubiere efectuado la importación, directamente en el Servicio de Tesorerías.
+El valor en unidades de energía del gas licuado de petróleo y del petróleo diesel, corresponderá al precio de paridad más el impuesto que lo grave o menos el crédito que se le aplique, según sea el caso, en la misma semana respectiva a que alude el inciso primero de este artículo, de acuerdo a la operatoria del Fondo, dividido por 9,1560 en el caso del diesel y por 6,1468 en el caso del gas licuado de petróleo. El valor de los combustibles quedará así expresado en dólares por Gigacaloría para efectos de su comparación.
+
+El importador, productor o refinador que deba pagar este impuesto, deberá declararlo al Servicio de Tesorerías, en los términos y por los medios que dicho servicio determine, dentro del plazo fatal que expira el último día hábil bancario del período de catorce días consecutivos que comienza el jueves siguiente a la fecha en que hubiere efectuado las importaciones que motivan el pago. El impuesto deberá ser enterado dentro del plazo antes señalado, directamente en el Servicio de Tesorerías.
+
+El importador, productor o refinador deberá acompañar al formulario por el cual pague el impuesto una declaración firmada por el representante legal, por producto, que contenga las siguientes menciones y antecedentes:
+
+a) Nombre o razón social, Rol Único Tributario y domicilio del sujeto que paga el impuesto y/o de su representante legal;
+
+b) Listado de los informes de importación, señalando la cantidad de metros cúbicos importados del producto en el período semanal durante el cual se devengó el impuesto; número y fecha de cada uno de los informes de importación cursados durante el período. Para el gas natural licuado, el volumen en metros cúbicos deberá ser expresado en base a un poder calorífico superior de 13.100 kilocalorías por kilogramo;
+
+c) Monto del impuesto determinado en dólares y en la moneda de libre curso legal y tipo de cambio usado en la conversión, y
+
+d) Precio de paridad correspondiente a la semana en que se devengó el impuesto.
 
 El importador deberá acompañar al formulario por el cual pague el impuesto una declaración firmada por el representante legal, por producto, que contenga las siguientes menciones y antecedentes:
 
@@ -157,6 +175,10 @@ INCISO QUINTO DEROGADO INCISO SEXTO DEROGADO
 #### Artículo 11º
 
 Los productores, refinadores o importadores que efectúen la primera venta o importación de los combustibles derivados del petróleo a que se refiere la ley, tendrán derecho a percibir un crédito fiscal equivalente a la diferencia, cuando ella sea positiva, entre el precio de paridad y el de referencia superior, el que se aplicará por cada metro cúbico de producto vendido o importado en la semana respectiva. La fracción señalada se empleará con dos decimales, truncando el resto. Con todo, tratándose del kerosene doméstico, durante los meses de junio, julio, agosto y septiembre de los años de vigencia del Fondo, el monto del crédito será igual al resultante de la diferencia entre el precio de paridad y el de referencia superior, multiplicada por el factor 1,5. Este factor se aplicará a las primeras ventas o importaciones efectuadas entre el 1 de junio y el 30 de septiembre.
+
+Los importadores de gas natural licuado que tengan derecho a percibir un crédito fiscal, recibirán el equivalente al crédito del combustible de menor valor expresado en unidades de energía según lo establece el inciso final del artículo 9º del presente reglamento, multiplicado por 0,95904 si el combustible de menor valor es gas licuado o por 0,64384 si se trata de petróleo diesel. Este crédito se aplicará por cada metro cúbico de gas natural licuado importado de poder calorífico superior de 13.100 kilocalorías por kilogramo y se expresará con dos decimales, truncando el resto.
+
+El valor en unidades de energía del gas licuado de petróleo y del petróleo diesel se calculará como el correspondiente precio de paridad más el impuesto que lo grave o menos el crédito que se le aplique, según corresponda, en la misma semana respectiva a que alude el inciso primero de este artículo, de acuerdo a la operatoria del Fondo, dividido por 9,1560 en el caso del diesel y por 6,1468 en el caso del gas licuado de petróleo. El valor de los combustibles quedará así expresado en dólares por Gigacaloría para efectos de su comparación
 
 El monto del crédito se expresará en dólares de los Estados Unidos de América y se pagará a los importadores, con exclusión de la Empresa Nacional del Petróleo (ENAP) y sus filiales, en la moneda de libre curso legal por el Servicio de Tesorerías, de acuerdo a la equivalencia de aquella moneda según el tipo de cambio observado, publicado por el Banco Central de Chile, vigente el día martes anterior al período de siete días que comienza un jueves en que se hubieren efectuado las importaciones que motivan el pago del crédito fiscal; en caso que el día martes fuese inhábil se considerará el tipo de cambio del día hábil inmediatamente anterior al día martes.
 
@@ -182,7 +204,13 @@ número y fecha de cada uno de los informes
 
 de importación causados durante ese
 
-período;
+período. Para el gas natural licuado, el
+
+volumen en metros cúbicos deberá ser
+
+expresado en base a un poder calorífico
+
+superior de 13.100 kilocalorías por kilogramo;
 
 c) Monto del crédito determinado en dólares y
 
@@ -204,33 +232,49 @@ Tratándose de ENAP y sus filiales, mensualmente, mediante una o más transferen
 
 Los importadores de combustibles señalados en el articulo 4º del presente reglamento, podrán efectuar ante el Servicio Nacional de Aduanas declaraciones de trámite anticipado, debiendo regirse por las disposiciones que establezca el señalado Servicio para estos efectos Servicio para estos efectos.
 
+#### Artículo 11º ter
+
+Para la determinación del poder calorífico superior del gas natural licuado importado y la conversión del volumen en metros cúbicos de dicho gas a su equivalente energético de poder calorífico superior de 13.100 kcal/kg (kilocalorías por kilogramo), así como para la conversión del volumen de gas natural licuado a un volumen equivalente de gas natural en estado gaseoso se deberán aplicar las especificaciones que a continuación se indican:
+
+a) Para la determinación del poder calorífico superior del gas natural licuado importado se deberá utilizar el procedimiento de cálculo señalado en la Norma Chilena NCh2380.Of1997/ISO 6976 "Gas Natural - Cálculo del poder calorífico, densidad, densidad relativa y número de Wobbe a partir de la composición" o aquella que la reemplace. El sistema de muestreo se efectuará de acuerdo a lo señalado en la Norma Internacional ISO 8943:2007 "Refrigerated light hydrocarbon fluids - Sampling of liquefied natural gas - Continuous and intermittent methods".
+
+b) Para la conversión del volumen en metros cúbicos del gas natural licuado a su equivalente energético de poder calorífico superior de 13.100 kilocalorías por kilogramo importado se aplicará la siguiente metodología:
+
+VER DIARIO OFICIAL DE 01.07.2009, PÁGINA 14.
+
+Aplicada la fórmula anterior, y dado que la cantidad de moles permanece constante, entonces:
+
+VER DIARIO OFICIAL DE 01.07.2009, PÁGINA 14.
+
+El factor de compresibilidad del gas se determinará según la Norma Chilena NCh2380.Of1997/ISO 6976 "Gas Natural - Cálculo del poder calorífico, densidad, densidad relativa y número de Wobbe a partir de la composición" o aquella que la reemplace.
+
 #### Artículo 12º
 
-Los impuestos que se establecen por la ley no constituirán base imponible del impuesto al valor agregado ni del impuesto contemplado en el artículo 6º de la ley 18.502, en ninguna etapa de la importación, producción, refinación, distribución ni en la venta al consumidor. Los créditos fiscales serán deducibles de la base imponible en la primera venta o en la importación.
+Los impuestos que se establecen por la ley no constituirán base imponible del impuesto al valor agregado ni del impuesto contemplado en el artículo 6º de la ley 18.502, en ninguna etapa de la importación, producción, refinación, regasificación, distribución ni en la venta al consumidor. Los créditos fiscales serán deducibles de la base imponible en la primera venta o en la importación.
 
-#### Artículo 13º
+#### Artículo 13°
 
-De conformidad a lo dispuesto en el artículo 7° de la ley, los exportadores de los combustibles que hubieren adquirido combustibles que al tiempo de su primera venta o importación tuvieron impuesto a que se refiere el artículo 10º de este Reglamento tendrán derecho, al efectuar la exportación de ellos, a solicitar su devolución ante el Servicio de Tesorerías, de acuerdo al valor vigente a la fecha de la exportación. En el evento de no existir contemplado un impuesto respecto de la primera venta o importación a la fecha de efectuarse la exportación de los combustibles, el exportador no tendrá derecho a solicitar la devolución del impuesto que hubiere soportado o pagado.
+De conformidad a lo dispuesto en el artículo 7° y en el inciso séptimo del artículo tercero transitorio de la ley, los exportadores de los combustibles que hubieren adquirido combustibles que al tiempo de su primera venta o importación tuvieron impuesto a que se refiere el artículo 10° de este Reglamento tendrán derecho, al efectuar la exportación de ellos, a solicitar su devolución ante el Servicio de Tesorerías, de acuerdo al valor vigente a la fecha de la exportación, entendiéndose por tal, para efectos de este reglamento, la fecha del conocimiento de embarque o en caso de venta de combustibles realizada por agencias de nave a armadores no domiciliados en el país, la fecha de la guía de despacho. En el evento de no existir un impuesto respecto de la primera venta o importación a la fecha de efectuarse la exportación de los combustibles, el exportador no tendrá derecho a solicitar la devolución del impuesto que hubiere soportado o pagado.
 
 La solicitud de devolución del impuesto podrán efectuarla los exportadores dentro del plazo fatal que expira el último día hábil bancario del período de catorce días consecutivos que comienza el jueves siguiente a la fecha en que se efectúe la exportación, debiendo para ese efecto acompañar una declaración firmada por el representante legal que contenga las siguientes menciones y antecedentes:
 
-a) Nombre o razón social, Rol Unico Tributario y domicilio del solicitante y de su representante legal;
+a) Nombre o razón social, Rol Único Tributario y domicilio del solicitante y de su representante legal;
 
-b) Cantidad de metros cúbicos exportados;
+b) Cantidad de metros cúbicos exportados. El volumen del gas natural en estado gaseoso deberá ser expresado como volumen en estado líquido, con un poder calorífico superior de 13.100 kilocalorías por kilogramo;
 
-c) Fotocopia de las facturas que acrediten las adquisiciones de los combustibles, jurando ser ellas las de los combustibles que se posean en existencia de fecha más antigua;
+c) Fotocopia de las facturas que acrediten las adquisiciones de los combustibles derivados del petróleo, jurando ser ellas las de los combustibles que se posean en existencia de fecha más antigua. En el caso de gas natural licuado, fotocopia de las facturas que acrediten las adquisiciones de ese combustible, jurando ser ellas las del gas natural licuado que se posean en existencia de fecha más reciente y, tratándose de gas natural en estado gaseoso, además, que éste provenga de una planta de regasificación ubicada en territorio nacional;
 
 d) Fotocopia del conocimiento de embarque de los combustibles exportados, y
 
-e) Precio de paridad de la semana correspondiente al pago del impuesto.
+e) Precio de paridad de la semana correspondiente al pago del impuesto de los combustibles derivados del petróleo.
 
 El Servicio de Tesorerías deberá proceder a devolver las cantidades respectivas dentro del plazo de catorce días consecutivos siguientes al último día hábil bancario del período de siete días que comienza el jueves anterior a la fecha de presentación de la solicitud en la cual se dé cumplimiento a los requisitos señalados precedentemente.
 
 INCISO ELIMINADO
 
-#### Artículo 14º
+#### Artículo 14°
 
-De conformidad a lo dispuesto en el artículo 7° de la ley, los exportadores que hubieren adquirido combustibles que al tiempo de su primera venta o importación tuvieron derecho al crédito a que se refiere el artículo 11º de este Reglamento, deberán por los productos que exporten, reintegrar ese crédito de acuerdo al valor vigente de éste a la fecha de la exportación.
+De conformidad a lo dispuesto en el artículo 7° y en el inciso séptimo del artículo tercero transitorio de la ley, los exportadores que hubieren adquirido combustibles que al tiempo de su primera venta o importación tuvieron derecho al crédito a que se refiere el artículo 11° de este Reglamento, deberán, por los productos que exporten, reintegrar ese crédito considerando los valores vigentes de éstos a la fecha de la exportación, entendiéndose por tal, para efectos de este reglamento, la fecha del conocimiento de embarque o en caso de venta de combustibles realizada por agencias de nave a armadores no domiciliados en el país, la fecha de la guía de despacho.
 
 En el evento de no estar contemplado un crédito respecto de la primera venta o importación a la fecha de efectuarse la exportación de los combustibles, el exportador no tendrá la obligación de reintegrar el crédito. Dicho reintegro deberán efectuarlo los exportadores, distintos de ENAP y filiales, en el Servicio de Tesorerías dentro de los catorce días consecutivos siguientes al último día hábil bancario del período de siete días consecutivos que comienza el jueves anterior a la fecha en que hubiere efectuado la exportación, debiendo acompañar a la declaración de reintegro los antecedentes mencionados en el artículo precedente.
 
@@ -238,27 +282,29 @@ Tratándose de ENAP y sus filiales, en los casos en que hubiera existido un cré
 
 #### Artículo 15º
 
-Para los efectos de la aplicación de la ley, los productores, refinadores e importadores deberán seguir respecto de las existencias de combustibles que posean, el siguiente orden para determinar la aplicación del crédito o pago del impuesto:
+Para los efectos de la aplicación de la ley, los productores, refinadores, regasificadores e importadores deberán seguir respecto de las existencias de combustibles que posean, el siguiente orden para determinar la aplicación del crédito o pago del impuesto:
 
 a) En primer término, se considerarán los combustibles importados o adquiridos a terceros siguiendo el orden de antigüedad que tuvieran las facturas de adquisición y/o declaración de importación de ellos, y
 
 b) En último término, en el evento de no poseerse existencia de combustibles adquiridos o importados, se considerarán los combustibles que sean de producción propia.
 
-Los distribuidores de combustibles deberán aplicar la tasa de impuesto vigente a la fecha de la venta, para efectos de calcular el Impuesto al Valor Agregado.
+Los exportadores de combustibles derivados del petróleo podrán solicitar la devolución de los impuestos y deberán efectuar el reintegro del crédito en su caso, siguiendo el orden de antigüedad que tuvieran las facturas de adquisición y/o declaraciones de importación de los productos que se exportan. Tratándose de exportadores de gas natural licuado en estado gaseoso para solicitar la devolución de los impuestos y efectuar el reintegro del crédito en su caso, se deberá comenzar por la documentación más reciente de las facturas de adquisición y/o declaraciones de importación de los productos que se exportan, finalizando por las más antiguas.
+
+Para efectos de calcular el Impuesto al Valor Agregado, los distribuidores de combustibles derivados del petróleo deberán aplicar el impuesto vigente a la fecha de la venta. Por su parte, los distribuidores de gas natural licuado en estado gaseoso deberán aplicar el impuesto asociado a la documentación más reciente de las facturas de adquisición y/o declaraciones de importación, finalizando por las más antiguas.
 
 #### Artículo 16º
 
 DEROGADO
 
-#### Artículo 17º
+#### Artículo 17°
 
-Las empresas navieras mercantes que efectúen transporte de pasajeros o carga, nacional o internacional, para los efectos de realizar directamente ese transporte, se someterán al mismo procedimiento establecido en los artículos anteriores respecto de los exportadores, por las compras de combustibles gravados o con el crédito establecido en la ley, que realicen dentro del territorio nacional. El plazo para efectuar el reintegro del crédito será dentro del período de siete días que comienza el jueves siguiente a la fecha en que hubiere efectuado la adquisición respectiva. La devolución del impuesto podrá solicitarla dentro del plazo fatal que expira al término del período de siete días que comienza el jueves siguiente a la fecha en que se efectúe la adquisición correspondiente.
+Las empresas navieras mercantes que efectúen transporte de pasajeros o carga, nacional o internacional, para los efectos de realizar directamente ese transporte, se someterán al mismo procedimiento establecido en los artículos anteriores respecto de los exportadores, por las compras de combustibles gravados o con el crédito establecido en la ley, que realicen dentro del territorio nacional. El plazo para efectuar el reintegro del crédito será dentro de los catorce días consecutivos siguientes al último día hábil bancario del período de siete días consecutivos que comienza el jueves anterior a la fecha en que hubiere efectuado la adquisición respectiva. La devolución del impuesto podrá solicitarla dentro del plazo fatal que expira el último día hábil bancario del período de catorce días consecutivos que comienza el jueves siguiente a la fecha en que se efectúe la adquisición correspondiente.
 
 #### Artículo 18º
 
 En las facturas que no sean de exportación y que se emitan respecto de las primeras ventas de combustibles, deberá dejarse constancia expresa del impuesto que los grava o del crédito que tienen derecho.
 
-En el caso de no tratarse de la primera venta o importación, deberá registrarse separadamente del valor de la factura el monto del impuesto devengado con anterioridad a ella. En caso que se hubiere devengado un crédito, éste se indicará en la factura como antecedente referencial para los efectos establecidos en los artículos 14º, 15º y 17º del presente Reglamento.
+En el caso de no tratarse de la primera venta o importación, deberá registrarse separadamente del valor de la factura el monto del impuesto devengado con anterioridad a ella. En caso que se hubiere devengado un crédito, éste se indicará en la factura como antecedente referencial para los efectos establecidos en los artículos 14º, 15º y 17º del presente Reglamento. Para el gas natural en estado gaseoso proveniente de la regasificación en territorio nacional de gas natural licuado, el Servicio de Impuestos Internos podrá definir la forma en que se contabilizarán los créditos o impuestos en las respectivas facturas.
 
 #### Artículo 19º
 
@@ -290,15 +336,11 @@ La Dirección de Presupuestos informará mensualmente el saldo neto resultante d
 
 DEROGADO
 
-## Título VII
+Derogado
 
-Vigencia
+#### Artículo 23°
 
-#### Artículo 23º
-
-El precio de paridad y los precios de referencia se fijarán, y los impuestos y créditos fiscales específicos que correspondan se calcularán, por primera vez, dentro de la semana en que se publique la ley. Estos valores regirán a partir del lunes de la semana siguiente
-
-INCISO ELIMINADO
+(DEROGADO)
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Alfonso Dulanto Rencoret, Ministro de Minería.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
