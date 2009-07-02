@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 822 de 29 de mayo de 2009, se expropió el lote de terreno Nº 43, superficie 101 m2, rol de Avalúo 70-103, comuna de Paihuano, para la obra "MEJORAMIENTO CAMINO 64D485, SECTOR PISCO ELQUI - HORCON", IV Región y se acordó el valor de la indemnización con su propietaria CLEMIRA DEL ROSARIO RODRIGUEZ CEURA, ascendente a la cantidad de $391.500.-
+
+Fiscal del Ministerio de Obras Públicas.
