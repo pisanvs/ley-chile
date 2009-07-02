@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 814 de fecha 29 de mayo de 2009, se expropió el lote de terreno Nº 27, superficie 152 m2, rol en trámite, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario DELFIN DEL ROSARIO GONZALEZ VALDIVIA, ascendente a la cantidad de $329.521.-
+
+Fiscal del Ministerio de Obras Públicas.
