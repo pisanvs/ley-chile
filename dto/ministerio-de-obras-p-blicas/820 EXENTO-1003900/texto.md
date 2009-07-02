@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 820 de 29 de mayo de 2009, se expropió el lote de terreno Nº 25, superficie 14 m2, rol de Avalúo 18-143, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario REIMUNDO VALDIVIA CISTERNAS, ascendente a la cantidad de $4.242.424.-
+
+Fiscal del Ministerio de Obras Públicas.
