@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 821 de 29 de mayo de 2009, se expropió el lote de terreno Nº 66, superficie 30 m2, rol de Avalúo E/T, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario LAUREANO RODRIGUEZ ALBURQUENQUE, ascendente a la cantidad de $637.208.-
+
+Fiscal del Ministerio de Obras Públicas.
