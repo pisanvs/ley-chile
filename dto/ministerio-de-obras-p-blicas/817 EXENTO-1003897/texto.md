@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 817 de fecha 29 de mayo del 2009, se expropió el lote de terreno Nº42, superficie 31 m2, Rol Nº70-169, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón,', y se acordó el valor de indemnización con su propietaria DORA LUCINDA DE LAS MERCEDES VERA QUIROZ, ascendente a la cantidad de $160.875.-
+
+Fiscal del Ministerio de Obras Públicas.
