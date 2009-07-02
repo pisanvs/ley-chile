@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 810 de fecha 29 de mayo de 2009, se expropió el lote de terreno Nº 38-1, superficie 453 m2, rol Nº 1322-12, comuna de Vallenar, para la obra "Concesión Ruta 5 Norte Tramo: Vallenar - Caldera Sector de Vallenar Km. 660.000,00 al Km. 665.000,00", III Región y se acordó el valor de la indemnización con su propietario LLORENTE INDUSTRIAL SOCIEDAD ANONIMA, ascendente a la cantidad de $6.858.500.
+
+Fiscal del Ministerio de Obras Públicas.
