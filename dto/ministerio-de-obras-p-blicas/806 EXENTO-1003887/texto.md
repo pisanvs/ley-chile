@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº806, de fecha 29 de mayo del 2009, se expropió el lote de terreno Nº 35-8, superficie 1.397 m2, Rol Nº 1015-202, comuna de Vallenar, III Región para la obra "Concesión Ruta 5 Norte. Tramo: Vallenar Caldera. Sector de Vallenar. Km. 660.000,00 al Km. 665.000,00", y se acordó el valor de indemnización con su propietaria ESPERANZA PIZARRO ASTORGA, ascendente a la cantidad de $3.001.500.-
+
+Fiscal del Ministerio de Obras Públicas.
