@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº819 de fecha 29 de mayo del 2009, se expropiaron los lotes de terreno Nºs. 7 y 8, superficies 80 y 78 m2, Rol Nº99-19, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietaria XIMENA CAREY ARRIOLA, ascendente a la cantidad de $4.541.625.-
+
+Fiscal del Ministerio de Obras Públicas.
