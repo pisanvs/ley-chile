@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.218, de 24 de junio de 2009, de esta Subsecretaría, modifícase la resolución Nº 2.118 de 2009, de esta Subsecretaría, que autorizó a PESQUERA VILLA ALEGRE Y COMPAÑÍA LIMITADA para iniciar actividades pesqueras de transformación, en el sentido de incorporar los recursos hidrobiológicos señalados en resolución extractada.
+
+Valparaíso, 24 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
