@@ -50,7 +50,7 @@ Asociaciones de Armadores
 
 Artesanales de la Décima
 
-Región 18.800 4.700 23.500
+Región 10.681 4.700 15.381
 
 A.G., Registro de Asociación
 
