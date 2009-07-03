@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.735, de 15 de mayo de 2009, de esta Subsecretaría, autorízase a JUAN LUIS DÍAZ COLLAO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Quinta Los Olivos, calle Bilbao, camino al Basural, Taltal, II Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de mayo de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
