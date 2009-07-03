@@ -74,6 +74,120 @@ S.A.
 
 - San Vicente Terminal Internacional S.A.
 
+- Aguas del Altiplano S.A.
+
+- Aquabio S.A.
+
+- Aguas de Antofagasta S.A.
+
+- Tratacal S.A.
+
+- Aguas Chañar S.A.
+
+- Aguas del Valle S.A.
+
+- Aguas La Serena S.A.
+
+- Empresa de Servicios Totoralillo ESSETO S.A.
+
+- Empresa de Servicios Sanitarios San Isidro ESSSI S.A.
+
+- ESVAL S.A.
+
+- Cooperativa de AP Santo Domingo Coopagua Ltda.
+
+- Asociación de Vecinos Población Mirasol de Algarrobo
+
+- Comunidad Balneario Brisas de Mirasol
+
+- Corporación Balneario Algarrobo Norte
+
+- E.A.P. Los Molles S.A.
+
+- Sociedad Agrícola y Servicios Isla de Pascua S.A.
+
+- Inmobiliaria Norte Mar S.A.
+
+- Lago Peñuelas S.A.
+
+- ESSBIO S.A.
+
+- Aguas Nuevo Sur Maule S.A.
+
+- Cooperativa Comuna de Sagrada Familia Ltda.
+
+- Aguas del Centro S.A.
+
+- Cooperativa de la Comunidad Maule Ltda.
+
+- Cooperativa de la Comunidad de Sarmiento Ltda.
+
+- Aguas San Pedro S.A.
+
+- Aguas Araucanía S.A.
+
+- Aguas Quepe S.A.
+
+- Empresa de Servicios Sanitarios de Los Lagos S.A.
+
+- Sanitaria Sur S.A.
+
+- Aguas Patagonia de Aysén S.A.
+
+- Aguas Magallanes S.A.
+
+- Aguas Décima S.A.
+
+- Aguas Andinas S.A.
+
+- Aguas Cordillera S.A.
+
+- Aguas Manquehue S.A.
+
+- Servicomunal S.A.
+
+- Servilampa S.A.
+
+- Servicio Municipal de AP y Alc. De Maipú SMAPA
+
+- Aguas Santiago S.A.
+
+- Aguas Santiago Poniente ASP S.A.
+
+- Comunidad de Servicios Remodelación San Borja COSSBO
+
+- Empresa de AP Lo Aguirre EMAPAL S.A.
+
+- Empresa Particular de Ap y Alc La Leonera S.A.
+
+- Explotaciones Sanitarias ESSA S.A.
+
+- Melipilla Norte S.A.
+
+- Alberto Planella Ortiz Servicio de AP Santa Rosa del Peral
+
+- Servicios Sanitarios Larapinta Selar S.A.
+
+- Empresa de Servicios Sanitarios Lo Prado SEPRA S.A.
+
+- Novaguas S.A.
+
+- Huertos Familiares S.A.
+
+- Aguas de Las Lilas S.A.
+
+- BCC S.A.
+
+- Aguas de Colina S.A.
+
+- Empresa de Agua Potable Izarra de Lo Aguirre S.A.
+
+- Servicios Sanitarios Llanos del Solar S.A.
+
+- Sanitaria Aguas Lampa S.A.
+
+- Servicios Sanitarios de La Estación S.A.
+
 #### Artículo 2º
 
 En la misma situación señalada en el artículo 1º estará el personal de las empresas concesionarias de los frentes de atraque de las entidades portuarias señaladas precedentemente, que durante el período comprendido entre el primero de agosto de 2008 y el 31 de julio del año 2009 se adjudiquen las referidas concesiones.
