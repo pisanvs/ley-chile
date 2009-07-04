@@ -8,7 +8,7 @@ Resuelvo:
 
 1º Delégase en los Jefes de División de Ingeniería de Electricidad y de Combustibles o en sus subrogantes legales, la facultad de firmar bajo la fórmula "Por orden de la Superintendenta", en sus respectivas áreas, los siguientes documentos:
 
-1.1 Oficios mediante los cuales se formulan cargos por infracciones a la normativa vigente en materia de electricidad, gas y combustibles líquidos.
+1.1 DEROGADO
 
 1.2 Resoluciones a través de las cuales se otorgan los permisos de extensión provisoria de líneas a que se refiere el inciso final del artículo 29 del DFL Nº 1, de 1982, del Ministerio de Minería.
 
