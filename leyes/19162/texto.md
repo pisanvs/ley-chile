@@ -18,6 +18,10 @@ d) La refrigeración de las carnes, y
 
 e) La clasificación del ganado mayor y menor, tipificación de sus canales, el desposte y la denominación de los cortes básicos, según las normas contenidas en el Reglamento respectivo.
 
+#### Artículo 1° bis
+
+El Servicio Agrícola y Ganadero establecerá las normas de un Sistema de Trazabilidad del ganado y carne, las que deberán, a lo menos, contemplar los siguientes elementos: registro de establecimientos pecuarios, declaración de existencias de animales, identificación animal oficial, registro de movimientos de animales y base de datos oficial.
+
 #### Artículo 2°
 
 El Presidente de la República, mediante decreto supremo expedido a través del Ministerio de Agricultura, el que, además, llevará la firma del Ministro de Salud, reglamentará el funcionamiento de los mataderos y establecerá normas generales mínimas, tales como, estructuras adecuadas, corrales de material lavable, agua potable fría y caliente, sistema de evacuación de estiércol, destructor de decomisos, equipos de faenamiento con res colgante, áreas y cámaras de enfriamiento, sistema de evacuación de aguas servidas, cámaras frigoríficas y procedimientos técnicos que atenúen el sufrimiento de los animales.
@@ -30,7 +34,7 @@ La complementación del sistema de clasificación, tipificación y nomenclatura 
 
 #### Artículo 4°
 
-Corresponderá al Servicio Agrícola y Ganadero fiscalizar y controlar la aplicación del sistema de clasificación, tipificación y nomenclatura de cortes; fiscalizar el cumplimiento de las exigencias impuestas a los mataderos o de cualquier operación o manipulación de los productos cárneos, incluidos los sistemas de transporte y frigoríficos, sin perjuicio de las atribuciones que tienen los Servicios de Salud u otros organismos públicos. El Servicio Agrícola y Ganadero podrá, en caso calificado, encomendar la ejecución de algunas de estas funciones a entidades públicas o a profesionales idóneos.
+Corresponderá al Servicio Agrícola y Ganadero fiscalizar y controlar tanto la aplicación de la trazabilidad del ganado y carne como la clasificación, tipificación y nomenclatura de cortes; asimismo, fiscalizará el cumplimiento de las exigencias impuestas a los mataderos o de cualquier operación o manipulación de los productos cárneos, incluidos los sistemas de transporte y frigoríficos, sin perjuicio de las atribuciones que tienen los Servicios de Salud u otros organismos públicos. El Servicio Agrícola y Ganadero podrá, en caso calificado, encomendar la ejecución de algunas de estas funciones a entidades públicas o a profesionales idóneos.
 
 #### Artículo 5º
 
@@ -74,7 +78,7 @@ producto.
 
 #### Artículo 8°
 
-El que infrinja las normas sobre salud animal en los mataderos, sobre clasificación de ganado, tipificación de sus canales y nomenclatura de corte, y el que, en el proceso de comercialización, cambie, adultere o elimine una tipificación o nomenclatura ya efectuada, será sancionado con multas de 1 a 100 unidades tributarias mensuales y con el comiso de los productos, sin perjuicio de la clausura temporal o definitiva del local, en caso de reincidencia. La misma sanción será aplicada al que infrinja las normas contenidas en la presente ley y sus reglamentos, en lo relacionado con mataderos, frigoríficos y medios de transporte de ganado en pie y carne. Igual sanción se aplicará a quienes infrinjan las normas de rotulación, tratándose de productos envasados, o exhiban carteles, letreros o elementos de propaganda, en los locales de venta o comercialización de productos con leyendas o indicaciones que no correspondan al producto ofrecido.
+El que infrinja las normas sobre salud animal en los mataderos, trazabilidad del ganado y carne o clasificación de ganado, tipificación de sus canales y nomenclatura de corte, y el que, en el proceso de comercialización, cambie, adultere o elimine una tipificación o nomenclatura ya efectuada, será sancionado con multas de 1 a 100 unidades tributarias mensuales y con el comiso de los productos, sin perjuicio de la clausura temporal o definitiva del local, en caso de reincidencia. La misma sanción será aplicada al que infrinja las normas contenidas en la presente ley y sus reglamentos, en lo relacionado con mataderos, frigoríficos y medios de transporte de ganado en pie y carne. Igual sanción se aplicará a quienes infrinjan las normas de rotulación, tratándose de productos envasados, o exhiban carteles, letreros o elementos de propaganda, en los locales de venta o comercialización de productos con leyendas o indicaciones que no correspondan al producto ofrecido.
 
 #### Artículo 9°
 
