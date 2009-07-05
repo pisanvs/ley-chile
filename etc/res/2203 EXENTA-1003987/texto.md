@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.203, de 23 de junio de 2009, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 1.451, modificada por resolución exenta Nº 2.051, ambas de 2009, de esta Subsecretaría, que autorizó a la CORPORACIÓN PARA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Monitoreo de parámetros biológicos pesqueros de la pesquería artesanal de Sardina común en la Región del Bío Bío", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 9 de diciembre de 2009, inclusive.
+
+Valparaíso, 23 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
