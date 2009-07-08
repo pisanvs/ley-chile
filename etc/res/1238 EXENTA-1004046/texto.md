@@ -1,0 +1,5 @@
+APRUEBA PROGRAMA DE ENSEÑANZA PARA OBTENCIÓN DE LICENCIA DE CONDUCTOR CLASE B, A ESCUELA DE CONDUCTORES NO PROFESIONALES O CLASE B "SOCIEDAD BRIONES Y CORNEJO LIMITADA"
+
+Por resolución exenta Nº1.238, de fecha 11 de junio de 2009, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Sociedad Briones y Cornejo Limitada", cuyo nombre de fantasía es "INTERLAGOS LTDA.", RUT Nº76.212.470-K, y cuyo representante legal y director es el señor Jorge Segundo Briones Alfaro, la que tendrá su lugar de funcionamiento en el local ubicado en Av. Concha y Toro Nº2498, comuna de Puente Alto.-
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
