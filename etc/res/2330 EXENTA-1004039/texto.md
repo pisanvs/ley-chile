@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.330, de 2 de julio de 2009 de esta Subsecretaría, declárese la caducidad total de la resolución exenta Nº31 de 2005, modificada mediante resolución exenta Nº230 de 2006, ambas de esta Subsecretaría de Pesca, que autorizó a don LAUTARO OPAZO TORRES, para desarrollar actividades pesqueras extractivas con la nave "Laureano VI", por haber incurrido en la causal de caducidad prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, de conformidad con el Informe Técnico citado en la resolución extractada.
+
+Deniégase la solicitud de extender el plazo de reinicio de operaciones pesqueras extractivas respecto de la nave antes individualizada, en virtud de lo resuelto precedentemente.
+
+Valparaíso, 2 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
