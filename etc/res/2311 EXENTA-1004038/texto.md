@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.311, de 26 de junio de 2009, de esta Subsecretaría, declárase la caducidad parcial de la resolución Nº269 de 1990 de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA CONCEPCIÓN LIMITADA, para realizar actividades pesqueras extractivas con la nave "Hecht", sobre el recurso Bacalao de profundidad, en el área marítima comprendida entre la IX Región y el paralelo 41°30' L.S., por haber incurrido en causal de caducidad establecida en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura de conformidad con el memorándum técnico citado en los vistos de la presente resolución extractada.
+
+Valparaíso, 26 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
