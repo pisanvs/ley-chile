@@ -22,11 +22,15 @@ Las prestaciones del régimen consistirán en préstamos en dinero.
 
 Los préstamos podrán ser otorgados para las finalidades relacionadas con las necesidades del trabajador y del pensionado afiliados, y de sus causantes de asignación familiar, relativas a:
 
-a) Bienes de consumo durables, trabajo, educación, salud, recreación, ahorro previo para la adquisición de viviendas, contingencias familiares y otras necesidades de análoga naturaleza, como asimismo para la reparación de viviendas. El plazo de restitución de estos préstamos no podrá exceder de siete años.
+a) Bienes de consumo durables, trabajo, educación, salud, recreación, ahorro previo para la adquisición de viviendas, contingencias familiares, y otras necesidades de análoga naturaleza. El plazo de restitución de estos préstamos no podrá exceder de siete años.
 
-b) Préstamos destinados a la adquisición de viviendas. El plazo de restitución de estos préstamos no podrá exceder de treinta años.
+En el caso de los créditos de educación, el plazo antes indicado podrá ampliarse previa autorización de la Superintendencia de Seguridad Social hasta 15 años.
 
-Corresponderá a la Superintendencia de Seguridad Social impartir las instrucciones para el otorgamiento de los préstamos del régimen.
+b) Préstamos destinados a la adquisición, construcción, ampliación y reparación de viviendas, y al refinanciamiento de mutuos hipotecarios. El plazo de restitución de estos préstamos no podrá exceder de cuarenta años.
+
+Las Cajas de Compensación podrán otorgar y administrar mutuos hipotecarios endosables de los señalados en el título V del DFL Nº251 de 1931, del Ministerio de Hacienda, siempre que se inscriban en el registro especial que lleva al efecto la Superintendencia de Valores y Seguros. Para inscribirse y mantenerse en el referido registro, las Cajas requerirán la autorización de la Superintendencia de Seguridad Social, para lo cual deberán acreditar que cumple con los requisitos de solvencia y liquidez que establezca dicho Organismo, el que informará periódicamente a la Superintendencia de Valores y Seguros el cumplimiento de los requisitos indicados. En todo caso, previa consulta a la Superintendencia de Valores y Seguros, la Superintendencia de Seguridad Social podrá revocar, por resolución fundada, la autorización para mantenerse en el registro indicado, en aquellos casos que las Cajas de Compensación incumplan gravemente las instrucciones que al efecto imparta esta última entidad. Notificada la resolución de revocación, la Caja afectada deberá dejar de inmediato de otorgar mutuos hipotecarios endosables.
+
+Corresponderá a la Superintendencia de Seguridad Social impartir las instrucciones para el otorgamiento de los préstamos del régimen, y asimismo establecer los requisitos de liquidez y solvencia que deben cumplir las Cajas de Compensación.
 
 #### Artículo 5º
 
@@ -36,15 +40,13 @@ Podrán ser beneficiarios del régimen los trabajadores y pensionados afiliados 
 
 El reglamento particular del régimen de cada Caja de Compensación deberá contener disposiciones sobre las siguientes materias referentes a los préstamos:
 
-1.- Establecer si se requerirán o no períodos mínimos DTO 34, TRABAJO de afiliación a la Caja y/o de permanencia en la
-
-empresa para su obtención;
+1.- Establecer si se requerirán o no períodos mínimos de afiliación a la Caja y/o de permanencia en la empresa para su obtención;
 
 2.- Sistemas de selección y prioridades para su otorgamiento;
 
 3.- Capacidad económica del solicitante para su restitución;
 
-4.- Plazos, períodos de gracia y cauciones. Tratándose de los préstamos de la letra b) del artículo 4º de este Reglamento, se deberá contemplar la obligación de contar con una garantía hipotecaria de la vivienda que se adquiere;
+4.- Plazos, períodos de gracia y cauciones. Los préstamos destinados al financiamiento de la adquisición, construcción, ampliación y reparación de viviendas y al refinanciamiento de mutuos hipotecarios, deberán garantizarse con primera hipoteca constituida sobre la vivienda objeto del contrato;
 
 5.- Criterios para la fijación de las tasas de interés de acuerdo con los tipos de crédito establecidos en el artículo 4º, y
 
