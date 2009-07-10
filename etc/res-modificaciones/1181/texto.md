@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) Nº1.181, de 05/06/2009, modificó Res. (M) 1.371/1997; autorizada transferir a su actual titular por Res. (M) 1.463/2000, de la siguiente forma: Ubicación: Canal Yal, Sector Quinched; superficie 10,00 Hás.; coordenadas geográficas Carta SHOA Nº7370, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°35'19,91" S. Long. 73°46'29,82" W. Vértice B Lat. 42°35'19,96" S. Long. 73°46'34,33" W. Vértice C Lat. 42°35'24,31" S. Long. 73°46'34,25" W. Vértice D Lat. 42°35'24,17" S. Long. 73°46'20,70" W. Vértice E Lat. 42°35'09,95" S. Long. 73°46'20,88" W. Vértice F Lat. 42°35'11,88" S. Long. 73°46'25,89" W. Vértice G Lat. 42°35'09,25" S. Long. 73°46'27,76" W. Vértice H Lat. 42°35'11,48" S. Long. 73°46'29,97" W.
+
+Santiago, 3 de julio de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
