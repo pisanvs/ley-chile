@@ -1272,7 +1272,7 @@ DE LAS SANCIONES
 
 #### Artículo 131°
 
-Las infracciones a la presente Ordenanza serán denunciadas a los Juzgados de Policía Local y sancionadas con multa de una a cinco unidades tributarias mensuales.
+Las infracciones a la presente Ordenanza serán denunciadas a los Juzgados de Policía Local y sancionadas con multa de una a cinco unidades tributarias mensuales. Sin perjuicio de lo anterior, una vez notificada la infracción, el Alcalde podrá clausurar los establecimientos o locales comerciales que contravienen las disposiciones de la Ley General de Urbanismo y Construcciones, de la Ordenanza General de Urbanismo y Construcciones y de las Ordenanzas Municipales.
 
 #### Artículo 132°
 
