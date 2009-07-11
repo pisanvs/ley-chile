@@ -602,7 +602,11 @@ i. Enzimas pectolíticas.
 
 j. Betaglucanasa.
 
+k. Materia proteica de origen vegetal.
+
 15. El uso de madera en diferentes formas.
+
+16. El empleo de Acido D,L- Tartárico, también llamado Acido Racémico o de su sal neutra de potasio, en mostos y vinos, con el fin de eliminar el exceso de calcio.
 
 #### Artículo 23º
 
@@ -654,11 +658,13 @@ h. Enzimas pectolíticas.
 
 i. Betaglucanasa.
 
+j. Materia proteica de origen vegetal.
+
 15. El empleo de tanino.
 
 16. El empleo de carbón activado.
 
-17. El tratamiento mediante sulfato de cobre en dosis máxima de 1 mg/L.
+17. El tratamiento mediante sulfato de cobre en dosis máxima de 10 mg/L.
 
 18. El empleo de polivinilpolipirrolidona en dosis máxima de 80 g/hL.
 
@@ -679,6 +685,20 @@ i. Betaglucanasa.
 26. El empleo de ureasa.
 
 27. El uso de madera en diferentes formas en el estacionamiento y envejecimiento de vino.
+
+28. El empleo de Acido D,L- Tartárico, también llamado Acido Racémico o de su sal neutra de potasio, con el fin de eliminar el exceso de calcio.
+
+29. La adición de Dicarbonato de Dimetilo (DMDC), sólo en vinos cuyo contenido de azúcar sea igual o superior a 5 g/L, en dosis máxima de 200 mg/L.
+
+30. El empleo de Manoproteinas de Levaduras, con el fin de lograr la estabilización tartárica y/o proteica.
+
+31. El tratamiento mediante Citrato de Cobre en dosis máximas de 1 g/hL.
+
+32. La adición de Carboximetilcelulosa (CMC), con el fin de lograr la estabilización tartárica en vinos y vinos espumosos en dosis máximas de 100 mg/L.
+
+33. El empleo de Columna de Cono Rotatorio para el desalcoholizado parcial del vino, siempre que el producto final no disminuya en más de 2° GL, la graduación alcohólica inicial.
+
+34. El empleo de Resinas de Intercambio Catiónico, con el fin de lograr la estabilización tartárica.
 
 #### Artículo 24°
 
@@ -716,7 +736,7 @@ e) Los productos finales que contengan más de 200 mg/L de ácido sórbico en fo
 
 f) Los productos finales que contengan más de 300 mg/L de anhídrido sulfuroso total o más de 75 mg/L al estado libre, y tratándose de vinos dulces, los que contengan más de 400 y 100 mg/L respectivamente.
 
-g) Aquellos productos finales que contengan una cantidad de sodio excedentario superior a 60 mg/L o de sulfatos expresados en sulfato de potasio superior a 2 g/L, salvo en los vinos dulces, generosos y licorosos que podrán contener hasta 4 g/L de sulfatos por litro.
+g) Aquellos productos finales que contengan una cantidad de sodio excedentario superior a 80 mg/L o de sulfatos expresados en sulfato de potasio superior a 2 g/L, salvo en los vinos dulces, generosos y licorosos que podrán contener hasta 4 g/L de sulfatos por litro.
 
 h) Aquellos productos finales que contengan más de 1 g/L de ácido cítrico, o más de 1 mg/L de cobre por litro.
 
