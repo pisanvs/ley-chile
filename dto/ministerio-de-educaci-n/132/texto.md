@@ -8,11 +8,11 @@ Decreto:
 
 #### Artículo 1º
 
-Créase la Beca de Capacitación de Monitores que participan en talleres de aprendizaje para alumnos de primero a cuarto año de enseñanza básica que presenten retraso escolar, que consistirá en una asignación mensual ascendente a $55.000.- (cincuenta y cinco mil pesos), para cada monitor.
+Créase la Beca de Capacitación de Monitores que participan en talleres de aprendizaje para alumnos de primero a cuarto año de enseñanza básica que presenten retraso escolar, que consistirá en una asignación mensual ascendente a $65.000.- (sesenta y cinco mil pesos) por cada monitor o monitora.
 
 #### Artículo 2º
 
-La beca se otorgará por un período de 4 meses y 15 días y serán beneficiarios de ella, las personas que habiendo sido seleccionadas por los directores de las escuelas adscritas al Programa de Educación Básica, asistan a las actividades de capacitación y colaboren en los talleres de aprendizaje. La asignación correspondiente a 15 días, ascenderá a la suma de $27.500 (veintisiete mil quinientos pesos) para cada monitor.
+La beca se otorgará por un período de 8 meses y 15 días y serán beneficiarios de ella, las personas que habiendo sido seleccionadas por los directores de las escuelas adscritas al Programa de Educación Básica, asistan a las actividades de capacitación y colaboren en los talleres de aprendizaje. La asignación correspondiente a 15 días, ascenderá a la suma de 32.500 (treinta y dos mil quinientos para cada monitor o monitora.
 
 #### Artículo 3º
 
@@ -30,7 +30,7 @@ Los montos correspondientes al pago de las becas se pondrán mensualmente a disp
 
 #### Artículo 6º
 
-El gasto que signifique el pago de las becas se imputará al Item Art. único 09.01.03.24.03.511, Glosa 8 Programa de Educación Básica del Presupuesto de la Subsecretaría de Educación correspondiente al año 2007.
+El gasto que signifique el pago de las becas se imputará al Item Artículo único 09.01.03.24.03.511, Glosa 8 programa de Educación Básica del Presupuesto de la Subsecretaría de Educación correspondiente al año 2009.
 
 Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Sergio Bitar Chacra, Ministro de Educación.
 
