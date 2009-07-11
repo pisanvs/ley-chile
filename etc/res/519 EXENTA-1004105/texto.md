@@ -1,0 +1,11 @@
+REVOCA FACULTADES JEFE OFICINA JURÍDICA Y DELEGA EN JEFE DEPARTAMENTO JURÍDICO Y EN JEFA OFICINA PROCEDIMIENTOS ADMINISTRATIVOS TRIBUTARIOS
+
+Resolución exenta Nº519, 05/06/2009, revocó delegación Jefe Oficina Jurídica y delegó en Jefe Departamento Jurídico, facultades de informar a tribunales en procedimiento reclamo Impuesto Timbres y Estampillas y sobre monto impuesto que afecta contrato donación, sea cual fuere su cuantía; dictar resoluciones autoricen o denieguen disposición bienes hereditarios, respecto sucesiones que no hubieren pagado impuesto herencias, intervenir designación peritos para tasar bienes hereditarios en casos proceda trámite; pedir antecedentes procesos insinuación de donación; liquidar y girar Impuesto Herencias y Donaciones que proceda, en caso mora en pago del tributo; liquidar y girar Impuesto Ley Herencias y Donaciones y otorgar Certificado Exención Impuestos Donaciones y Certificado Pago Impuestos Donaciones.
+
+Delegó en Jefa OPAT, facultades aplicar sanciones infracciones artículo 97 Nºs 6, 7, 10, 17, 19, 20 y 21 Código Tributario, y conceder condonaciones que se soliciten respecto sanciones que corresponda aplicar; y de aplicar sanciones administrativas que correspondan a infracciones señaladas, cuando transcurrido plazo legal, no se haya reclamado de ellas y de resolver administrativamente, de acuerdo a artículo 6º, letra B, Nº5 Código Tributario, peticiones de revisión que deduzcan en cualquier tiempo, respecto liquidaciones, giros o resoluciones que incidan en pago impuesto o en elementos sirvan de base para determinarlo.
+
+Delegó Jefes Unidades Dirección Regional, facultad conozcan y resuelvan denuncias, no reclamadas, por infracciones tributarias contempladas art. 97º números 20 y 21 Código Tributario, y conceder condonaciones que les corresponda aplicar, sin perjuicio facultades delegadas en otros funcionarios.
+
+Revocó resoluciones exentas Nºs 2.302 31/10/1994; 444 20/11/1998; 392 20/05/2008 y 26 30/01/2004.-
+
+Elías Sánchez Ávila, Director Regional Subrogante.
