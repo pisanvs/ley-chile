@@ -1,0 +1,5 @@
+DELEGA FACULTAD RESOLVER SOLICITUDES ADMINISTRATIVAS DEVOLUCIÓN DE IMPUESTOS
+
+Resolución exenta Nº569, 19/06/2009, delegó en Jefatura Depto. Regional de Resoluciones y Jefaturas Unidades de Porvenir y Natales facultades de resolver administrativamente peticiones de devoluciones y ordenar devolución de sumas ingresadas en arcas fiscales indebidamente, doblemente o en exceso a título de impuestos, reajustes, intereses o sanciones y resolver administrativamente peticiones de imputación al pago de impuestos o contribuciones de cualquier especie o a pagos provisionales de impuesto, de las sumas ingresadas en arcas fiscales indebidamente, doblemente o en exceso a título de impuestos, reajustes, intereses o sanciones. Lo anterior sólo cuando se trate de peticiones de devolución o imputación que den lugar a una resolución exenta de "toma de razón" por Contraloría General República.-
+
+Elías Sánchez Ávila, Director Regional Subrogante.
