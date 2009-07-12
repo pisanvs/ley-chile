@@ -70,6 +70,10 @@ Otórgase a los Directores de Servicios de Salud del país, las siguientes facul
 
 6°.- Ejercer, dentro de sus facultades, todas las tareas que, de acuerdo a la fase de Pandemia declarada por la Organización Mundial de la Salud, le correspondan de acuerdo al Plan Nacional de Preparación para una Pandemia de Influenza, aprobado por decreto supremo N° 86, de 23 de octubre de 2008, del Ministerio de Salud, publicado en el Diario Oficial el 3 de marzo de 2009.
 
+> **Nota.** El artículo 1º, Nº 1 del Decreto 45, Salud, publicado el 11.07.2009, complementa la presenta norma, en sentido de que la facultad contemplada se hará efectiva en todos los establecimientos asistenciales privados que tengan convenio vigente con el Servicio de Salud correspondiente.
+
+> **Nota.** NOTA 1 El artículo 1º, Nº 3 del Decreto 45, Salud, publicado el 11.07.2009, complementa la presenta norma, para dar plena ejecución a lo en este número, los Directores de los Servicios de Salud podrán solicitar a los Reectores de las Universidades reconocidas oficialmente en Chile y que impartan las carreras que allí se señalan, una nómina de los estudiantes de dichas carreras para los fines señalados.
+
 #### Artículo 5°
 
 Otórgase al Director de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, las siguientes facultades:
@@ -112,13 +116,17 @@ Adicionalmente, el Ministerio de Salud podrá disponer la entrega de antivirales
 
 Todos los establecimientos asistenciales públicos y privados estarán obligados a mantener una efectiva y permanente coordinación con la autoridad sanitaria y asistencial del lugar.
 
+> **Nota.** El artículo 1º, Nº 2 del Decreto 45, Salud, publicado el 11.07.2009, establece la forma en la cual se efectuará la entrega y distribución de antivirales a todas las personas que los requieran.
+
 #### Artículo 12°
 
 Para los efectos de hacer frente a los mayores gastos que demande la implementación de estas medidas sanitarias de excepción, se incrementarán los presupuestos ordinarios de los servicios y entidades involucradas, en los montos que en su oportunidad determine la Presidenta de la República, a través del Ministerio de Hacienda.
 
 #### Artículo 13°
 
-Todos los Servicios Públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas deberán proporcionar la colaboración y ejecutar las acciones que les requieran el Ministerio de Salud, los Secretarios Regionales Ministeriales de Salud y los Directores de los Servicios de Salud para el cumplimiento de las facultades extraordinarias que se otorgan en virtud del presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar la emergencia.
+Todos los Servicios Públicos y demás organismos de la Administración del Estado, en el ámbito de sus respectivas competencias, y otras entidades públicas o privadas deberán proporcionar la colaboración y ejecutar las acciones que les requieran el Ministerio de Salud, los Secretarios Regionales Ministeriales de Salud y los Directores de los Servicios de Salud para el cumplimiento de las facultades extraordinarias que se otorgan en virtud del presente acto y las demás acciones que dichas autoridades estimen necesarias para enfrentar la emergencia.
+
+Todo lo anterior de conformidad con lo señalado en los convenios que previamente corresponda celebrar al respecto, donde se establezcan los servicios requeridos y el precio por ellos.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Álvaro Erazo Latorre, Ministro de Salud.- Andrés Velasco Brañes, Ministro de Hacienda.
 
