@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.123, 17 de junio de 2009, de esta Subsecretaría, autorízase a JORGE PABLO ANDRÉS BELMAR RUSSELL para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en kilómetro 6 de camino a Queilen, Pucatué, Chonchi, Chiloé, X Región, en las líneas de procesos Cocido, Fresco enfriado, Congelado, Seco salado, Salado húmedo, Ahumado y Conserva.
+
+Valparaíso, 17 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
