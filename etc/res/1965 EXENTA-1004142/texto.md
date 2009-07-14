@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.965, de 3 de junio de 2009, de esta Subsecretaría, modifíquese en numeral 3.- de la resolución exenta Nº466 de 2009, modificada mediante resolución exenta Nº1.276 de 2009, ambas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control de acceso y desembarque de las pesquerías del recurso Centollón (Paralomis granulosa) en aguas interiores de la XII Región", en el sentido de extender el periodo de ejecución de la pesca de investigación hasta el 30 de junio de 2009.
+
+Valparaíso, 3 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
