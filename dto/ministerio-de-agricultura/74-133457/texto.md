@@ -14,7 +14,7 @@ NCh 1011/2.Of80 Leche y productos lácteos - Muestreo - Parte 2: Productos elabo
 
 NCh 1012.Of80 Leche para consumo - Requisitos.
 
-NCh 1013.Of80 Leche en polvo y leche en polvo instantánea - Requisitos.
+NCh 1013.Of80 ANULADA Y REEMPLAZADA.
 
 NCh 1014.Of80 Leche condensada - Requisitos.
 
