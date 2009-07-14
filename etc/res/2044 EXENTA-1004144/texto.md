@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.044, de 9 de junio de 2009, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº439 de 2009, modificada mediante resolución exenta Nº1.244, ambas de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de Congrio dorado y Raya en la Región de Magallanes y Antártica Chilena, 2009", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 30 de junio de 2009, inclusive.
+
+Valparaíso, 9 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
