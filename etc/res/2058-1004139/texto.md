@@ -1,0 +1,3 @@
+Por resolución N° 2.058, de 10 de junio de 2009, de esta Subsecretaría, modifícase el numeral 4.- de la resolución exenta N° 1.448 de 2009, de esta Subsecretaría, y sus modificaciones posteriores, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería del recurso Pejerrey en aguas interiores de la Región de Los Lagos", en el sentido de permitir a las embarcaciones autorizadas a participar en la presente pesca de investigación el uso de virador de tipo chigre o cabezal simple.
+
+Valparaíso, 10 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
