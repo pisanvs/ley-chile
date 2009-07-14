@@ -1,0 +1,7 @@
+Por resolución exenta Nº2.026, de esta Subsecretaría, modifícase la resolución exenta Nº2.728 de 2008, modificada mediante resolución exenta Nº3.099 de 2008, ambas de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de Reineta (Brama australis), en aguas exteriores de la X Región", en el sentido de agregar al numeral 4º, los siguientes incisos tercero y cuarto:
+
+"Asimismo podrán participar en la presente pesca de investigación las embarcaciones artesanales inscritas en el Registro Pesquero Artesanal de la X Región. Los armadores deberán presentar a la consultora el certificado de navegabilidad al día de la respectiva embarcación y copia de la correspondiente inscripción en el RPA de la X Región.
+
+Durante el período de ejecución del presente estudio, la consultora procederá a distribuir las embarcaciones participantes en los puertos de acreditación habilitados, Ancud y Carelmapu, con la finalidad de mejorar las condiciones de desembarque del recurso y mantener un mejor control operativo de la flota participante.".
+
+Valparaíso, 5 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
