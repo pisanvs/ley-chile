@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº4.942 EXENTA, DE 08.07.2009
+
+Por resolución exenta que se indica, del Ministerio de Educación, se elimina del Libro de Registro de Centros de Formación Técnica en que se encuentra inscrito el Centro de Formación Técnica Asiste Limitada (antes Centro de Formación Técnica Centro de Investigación para el Desarrollo y Capacitación Limitada), con el Nº367, de fecha 29 de octubre de 2008, organizado por la Sociedad Centro de Formación Técnica Asiste Limitada o C.F.T. Asiste Ltda., ubicado en calle San Antonio Nº378, Oficina 1211, de la ciudad de Santiago, representada legalmente, indistintamente a cualquiera de los socios doña María Gabriela Cornejo Gaete o don Yanko Roberto Salas Cornejo.
+
+Santiago, 9 de julio de 2009.- Cristián Martínez Ahumada, Subsecretario de Educación.
