@@ -98,6 +98,10 @@ La Municipalidad estará facultada para cobrar, conjuntamente los derechos munic
 
 Sólo se podrá conceder un permiso de ocupación respecto de una misma persona, con el objeto de impedir la acumulación de ellos por un solo locatario. Como también no se entregarán otros módulos a miembros de un mismo grupo familiar.
 
+#### Artículo noveno
+
+"Complementando lo dispuesto en el artículo 3º y 3º bis de la presente Ordenanza, se faculta al(la) Alcalde(sa) para otorgar excepcionalmente permisos gratuitos a servicios públicos o entidades públicas o entidades privadas sin fines de lucro, respecto de alguno de los inmuebles (locales comerciales, cafeterías y servicios higiénicos) ubicados en el Parque Nicolás Tirado, quedando a su criterio determinar el tiempo de duración mediante una resolución debidamente fundada, en razones de interés general, con un plazo máximo de hasta 5 años.
+
 ## Capítulo III
 
 Del locatario
