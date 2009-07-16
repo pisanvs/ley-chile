@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 882, de 16 de junio de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 77, para la obra "Camino Ruta W-853, Teupa Queilen, Sector Teupa Santa María, Tramo Km. 6,80000 a Km. 25,95773", Provincia de Chiloé, Xª Región", comuna de CHONCHI, que figura a nombre de NANCUL NANCUL LUIS MAURICIO, rol de avalúo 146-11, superficie 211 M2. La Comisión de Peritos, fijó con fecha 12 de julio de 2004, en la cantidad de $42.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
