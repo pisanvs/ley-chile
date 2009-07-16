@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE ROMERAL
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº3.202, del 16 de junio de 2009, conforme artículo 5º transitorio Código Aguas, dejó sin efecto resolución Nº2.207 de 21 de abril de 2009, rectificó y complementó la resolución exenta Nº2.025, de fecha 28 de septiembre de 1987, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de los predios "Hijuela Tercera del Fundo Santa Laura" e "Hijuela D del Fundo El Guaico" y del Proyecto de Parcelación "San Pablo", ubicado en la comuna de Romeral, Región del Maule, en el sentido de determinar que los derrames que utiliza la Reserva (exclusión) de la "Hijuela D del Fundo El Guaico" son de la Hijuela Guaico Centro, y que los derechos aprobados en la resolución que se rectifica son superficiales, corrientes y consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º ley Nº18.377.- Director Nacional.
