@@ -1,0 +1,11 @@
+OTORGA A ECONSSA CHILE S.A. AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto supremo Nº175 del Ministerio de Obras Públicas, de fecha 30 de abril de 2009, tramitado el 4 de junio de 2009, se otorgó a ECONSSA Chile S.A., RUT Nº96.579.410-7, domiciliada en calle Monjitas Nº392, piso 10, oficina 1003, Santiago, Región Metropolitana, la ampliación de las concesiones de producción y distribución de agua potable y recolección y disposición de aguas servidas, destinadas a la atención de las áreas denominadas A1 Surponiente Norte y A2 Surponiente Sur, de la comuna de Vallenar, III Región. La zona de concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas, se encuentra identificada y delimitada en los planos codificados con el NºSC-03-02 A, denominados "Planes de Desarrollo Servicio de Agua Potable y Alcantarillado Sector Surponiente de Vallenar Territorio Operacional de Agua Potable" y "Planes de Desarrollo Servicio de Agua Potable y Alcantarillado Sector Surponiente de Vallenar Territorio Operacional de Aguas Servidas", que forman parte integrante del presente decreto.
+
+En el primer establecimiento (año 2013), se consulta dar servicio a 1.710 arranques de agua potable y uniones domiciliarias de alcantarillado. En tanto, al final del período (año 2022) se consulta dar servicios a 3.447 arranques de agua potable e igual número de uniones domiciliarias de alcantarillado.
+
+El servicio público de producción de agua potable, para los primeros 5 años, será abastecido por las fuentes que se indican en el Nº3.1 letra a), de la Ficha de Antecedentes Técnicos, sobre la cual la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, y se encuentran afectos a la concesión.
+
+Las demás condiciones de prestación de los servicios otorgados en la ampliación, son las establecidas en la Ficha de Antecedentes Técnicos (F.A.T.) NºSC-03-02 A, que forma parte integrante del mismo decreto. Programa de Desarrollo, nivel tarifario, garantías y otros en decreto extractado, que se redujo a escritura pública de fecha 16 de junio de 2009, ante el Notario Público de Santiago, don Alberto Mozó Aguilar.
+
+Santiago, junio de 2009.- Magaly Espinosa Sarria, Superintendenta de Servicios Sanitarios.
