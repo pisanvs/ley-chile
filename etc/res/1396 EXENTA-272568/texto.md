@@ -12,7 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Prohíbese la circulación de todo tipo de vehículos motorizados por la calzada oriente de Av. Neptuno, entre Av. San Pablo y calle Reina Maud, comuna de Lo Prado, desde el día jueves 19 de junio de 2008 y hasta el 30 de junio de 2009.
+1.- Prohíbese la circulación de todo tipo de vehículos motorizados por la calzada oriente de Av. Neptuno, entre Av. San Pablo y calle Reina Maud, comuna de Lo Prado, desde el día jueves 19 de junio de 2008 y hasta el 31 de diciembre de 2009.
 
 2.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizarán el estricto cumplimiento de la medida precedentemente descrita.
 
