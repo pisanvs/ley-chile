@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.131 EXENTA, DE 19.06.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Primer Cuatrimestre de 2008, se ha asignado a CTA Comunicaciones Radiales Compañía Limitada, RUT Nº 76.131.520-K, una concesión de Radiodifusión Sonora en Mínima Cobertura para la Comuna de Arauco, VIII Región, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 104,9 MHz; estudio, planta transmisora y sistema radiante ubicado en Alonso de Ovalle s/n, Laraquete, Comuna de Arauco, VIII Región, coordenadas geográficas 37°10'07" Latitud Sur, 73°11'12" Longitud Oeste (Datum PSAD 1956); sistema radiante direccional, polarización vertical, una (1) antena Yagi de tres elementos, ganancia máxima de 4,40 dBd y altura del centro de radiación de 6 m; pérdidas en cables, conectores y otras de 6,04 dB (incluye atenuador de 3 dB); pérdidas por lóbulo, de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 17.07.2009, PÁGINA 12.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución.
+
+Los plazos son: inicio de obras, 10 días; término de obras, 30 días; inicio de servicio, 50 días, computados a partir de la fecha de publicación en el Diario Oficial del decreto que otorgue la concesión.
+
+Esta publicación se hace según lo dispuesto en los artículos 13ºA y 13ºB de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, dentro del plazo de 5 días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
