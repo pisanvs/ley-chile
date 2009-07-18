@@ -1,0 +1,7 @@
+AUTORIZA EMISORES ELECTRÓNICOS
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº101, de 10 de julio de 2009, que autoriza a contribuyentes como emisor electrónico.
+
+Se autoriza como emisor de documentos tributarios electrónicos a contribuyentes RUT 78.307.010-3, RUT 96.721.090-0, RUT 8.352.320-4, RUT 76.544.650-3, RUT 77.177.290-0, RUT 76.781.710-K, RUT 77.504.820-4, RUT 87.911.700-3, RUT 76.969.390-4, RUT 76.371.450-0, RUT 76.092.230-7, RUT 8.333.890-3, RUT 76.216.210-5, RUT 77.594.930-9, RUT 96.888.460-3, RUT 96.867.180-4, RUT 76.115.080-4, RUT 96.630.500-2, RUT 76.560.090-1, RUT 96.755.520-7, RUT 52.005.292-5, RUT 99.561.920-2, RUT 79.716.270-1, RUT 76.529.250-6, RUT 78.384.080-4, RUT 92.177.000-6, RUT 77.545.040-1, RUT 96.980.250-3, RUT 96.602.240-K, RUT 76.597.810-6, RUT 76.750.620-1, RUT 3.087.130-8, RUT 92.749.000-5, RUT 99.503.760-2, RUT 76.380.570-0, RUT 96.972.010-8, RUT 79.818.130-0, RUT 76.052.976-1, RUT 76.058.555-6 y RUT 76.665.990-K, a contar del mes de julio de 2009. En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2009.
