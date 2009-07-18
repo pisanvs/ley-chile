@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.068, de 11 de junio de 2009, de esta Subsecretaría, autorízase a RAÚL ALEJANDRO JÉLDEZ, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Quinta Los Olivos, kilómetro 4 de carretera de Taltal, Taltal, II Región, en la línea de proceso alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 11 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
