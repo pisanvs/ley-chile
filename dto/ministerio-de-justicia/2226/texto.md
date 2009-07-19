@@ -1972,33 +1972,19 @@ Si con motivo del acto realizado sobreviniere una declaración de guerra, repres
 
 #### Artículo 261
 
-Será castigado con la pena de reclusión menor en cualquiera de sus grados:
-
-1° El que obligue a los prisioneros de guerra a combatir contra sus banderas, los maltrate de obra, los injurie gravemente, o los prive del alimento indispensable o de la asistencia médica necesaria;
-
-2° El que, contraviniendo las instrucciones recibidas, sin necesidad y maliciosamente, ataque hospitales o asilos de beneficencia dados a conocer por los signos establecidos para tales casos, o destruya templos, bibliotecas, museos, archivos u obras notables de arte;
-
-3° El que, contraviniendo también las instrucciones recibidas y sin exigirlo las operaciones de la guerra, destruyere vías de comunicación, telegráficas o de otra clase;
-
-4° El que, sin provocación, ofendiere de obra o palabra a un parlamentario.
+Derogado
 
 #### Artículo 262
 
-Serán castigados con la pena de presidio mayor en su grado medio a máximo los militares que, faltando a la obediencia que deben a sus jefes, incendien o destruyan edificios u otras propiedades, saqueen a los habitantes de los territorios en que operen o cometan otros actos de violencia grave en las personas.
-
-A los promotores y al de mayor empleo se les aplicará la pena como si el delito estuviere revestido de una circunstancia agravante, y si del delito hubiere resuelto la muerte de alguna persona, se les aplicará la pena de presidio mayor en su grado máximo a muerte.
+Derogado
 
 #### Artículo 263
 
-El que despoje de sus vestidos u otros efectos a un herido o prisionero de guerra para apropiárselo, sufrirá la pena de presidio mayor en cualquiera de sus grados.
-
-Si al despojar al herido le causare otras lesiones o le agravase notablemente su estado, poniendo en peligro su vida o causándole su pérdida, la pena podrá elevarse hasta la de presidio perpetuo.
-
-En las penas anteriores incurrirá también el que por crueldad y fuera del caso de legítima defensa, cometa violencias innecesarias con un militar herido o enfermo.
+Derogado
 
 #### Artículo 264
 
-Será castigado con la pena de reclusión menor en sus grados mínimo a medio, el que, en tiempo de guerra y en la zona de operaciones de una fuerza en campaña, use sin derecho las insignias, banderas o emblemas de la Cruz Roja.
+Derogado
 
 ## Título IV
 
