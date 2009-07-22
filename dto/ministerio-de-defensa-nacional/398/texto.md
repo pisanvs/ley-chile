@@ -60,11 +60,15 @@ Los Prácticos Autorizados, durante el cumplimiento de sus funciones, quedarán 
 
 #### Artículo 9
 
-La comisión de pilotaje y la de practicaje se inician desde el momento en que el práctico es designado para dicho efecto, y concluye con la entrega del "Parte de Viaje" o la inscripción en el "Libro Registro de Faenas de Practicaje", según corresponda.
+La comisión de pilotaje y la de practicaje se inician desde el momento en que el práctico es designado para dicho efecto, y concluye con la entrega del "Parte de Viaje".
 
 #### Artículo 10
 
-El "Parte de Viaje" se ajustará al formato establecido por la Dirección General y deberá ser entregado por el práctico en un plazo no superior a 3 días hábiles, contados desde su desembarco de la nave en la que ha cumplido sus funciones. El práctico no podrá iniciar una nueva comisión mientras no haya dado cumplimiento a dicha obligación. El Libro Registro de Faenas de Practicaje es aquel en que, de conformidad con lo establecido en el artículo 17 del decreto supremo N° 397, de 1985, de la Subsecretaría de Marina, se deja constancia de las faenas de practicaje efectuadas en cada Gobernación Marítima o Capitanía de Puerto.
+El "Parte de Viaje" se ajustará al formato establecido por la Dirección General y deberá ser entregado por el práctico en un plazo no superior a 3 días hábiles, contados desde su desembarco de la nave en la que ha cumplido sus funciones.
+
+El práctico no podrá iniciar una nueva comisión mientras no haya dado cumplimiento a dicha obligación.
+
+Inciso Derogado.
 
 #### Artículo 11
 
@@ -86,13 +90,13 @@ el Servicio de Practicaje y Pilotaje
 
 Podrán postular al nombramiento como prácticos autorizados, quienes manifiesten su intención de ingresar como tales, sea de puerto o canales, en solicitud dirigida al Director General, y cumplan con las normas de selección psicofísicas establecidas en el Título IV del presente reglamento; que acrediten a satisfacción de la Dirección General, su idoneidad profesional, la aprobación del Curso General de Practicaje y Pilotaje, y reúnan además, los siguientes requisitos: 1.- Para ejercer funciones de Practicaje: 1.1 Los ex-Prácticos Oficiales que acrediten:
 
-- **a)** Haberse desempeñado durante cinco o más años como Práctico Oficial y no haber permanecido fuera del ejercicio de las actividades de practicaje o pilotaje por más de tres años.
+- **a)** Haberse desempeñado durante cinco o más años como Práctico Oficial.
 
 - **b)** Que su retiro de la Armada no haya sido causado por incapacidad psicofísica, mala calificación o como resultado de una sanción disciplinaria en investigación sumaria administrativa o de una sentencia judicial ejecutoriada. 1.2 Los Capitanes de Alta Mar que acrediten:
 
 - **a)** Estar en posesión del título vigente de Capitán de Alta Mar.
 
-- **b)** Haber ejercido mando en naves mercantes de bandera chilena a lo menos durante 24 meses en los últimos cinco años.
+- **b)** Haber ejercido mando en naves mercantes o especiales mayores, a lo menos durante 24 meses en los últimos cinco años.
 
 - **c)** Que su retiro de la Marina Mercante Nacional no haya sido causado por incapacidad psicofísica.
 
@@ -100,49 +104,45 @@ Podrán postular al nombramiento como prácticos autorizados, quienes manifieste
 
 - **e)** Dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o mayores de 80 metros de eslora máxima.
 
-- **f)** Haber cumplido un período de entrenamiento, supervisado por un práctico oficial, en las condiciones que fije la Dirección General. 1.3 Los Oficiales Ejecutivos de la Armada, en retiro, que acrediten:
+- **f)** Haber cumplido un período de entrenamiento, en las condiciones que fije la Dirección General. 1.3 Los Oficiales Ejecutivos de la Armada, en retiro, que acrediten:
 
-- **a)** Haber alcanzado el grado de Capitán de Fragata Ejecutivo.
+a) Haber alcanzado el grado de Capitán de Fragata Ejecutivo.
 
-- **b)** No haber permanecido fuera del servicio naval por más de tres años.
+b) Que su retiro de la Armada no se deba a incapacidad psicofísica, o mala calificación o como resultado de una sanción disciplinaria en investigación sumaria administrativa o de una sentencia judicial ejecutoriada.
 
-- **c)** Que su retiro de la Armada no se deba a incapacidad psicofísica, o mala calificación o como resultado de una sanción disciplinaria en investigación sumaria administrativa o de una sentencia judicial ejecutoriada.
+c) Dos o más años de mando efectivo en buques de la Armada de más de 1.000 toneladas de desplazamiento o mayores de 80 metros de eslora máxima.
 
-- **d)** Dos o más años de mando efectivo en buques de la Armada mayores de 1.000 toneladas de desplazamiento máximo o mayores de 80 metros de eslora máxima.
+Para efectos de mando efectivo se considerará los efectuados a contar del grado de Capitán de Corbeta. En igualdad de condiciones, existiendo dos o más postulantes, serán preferidos aquellos que acrediten más tiempo de mando efectivo en buques mayores de 1.000 toneladas de desplazamiento o mayores de 80 metros de eslora máxima.
 
-- **e)** Haber cumplido un período de entrenamiento, supervisado por un práctico oficial, en las condiciones que fije la Dirección General. 1.4 Los ex-Prácticos Autorizados que acrediten:
+d) Haber cumplido un período de entrenamiento, en las condiciones que fije la Dirección General. 1.4 Los ex-Prácticos Autorizados que acrediten:
 
 - **a)** Haberse desempeñado durante cinco años o más como Prácticos Autorizados.
 
-- **b)** No haber permanecido fuera del ejercicio de las actividades de practicaje o pilotaje por más de tres años.
+- **b)** Que su retiro del servicio de practicaje o pilotaje no se deba a incapacidad psicofísica o sanción disciplinaria. 2.- Para ejercer las funciones de pilotaje: 2.1 Los ex-Prácticos Oficiales deberán cumplir con los requisitos exigidos en el párrafo 1.1. precedente, y realizar un viaje de entrenamiento por cada año que hayan permanecido sin navegar ruta de canales, hasta un máximo de cinco viajes. 2.2. Los Capitanes de Alta Mar deberán cumplir con los requisitos exigidos en las letras a), b),
 
-- **c)** Que su retiro del servicio de practicaje o pilotaje no se deba a incapacidad psicofísica o sanción disciplinaria. 2.- Para ejercer las funciones de pilotaje: 2.1 Los ex-Prácticos Oficiales deberán cumplir con los requisitos exigidos en ekl párrafo 1.1. precedente, y realizar un viaje de entrenamiento por cada año que hayan permanecido sin navegar ruta de canales, hasta un máximo de cinco viajes. 2.2 Los Capitanes de Alta Mar deberá cumplir con los requisitos exigidos en las letras a), c), y
+- **c)** y
 
-- **d)** del párrafo 1.2 precedente, y acreditar:
+- **d)** del párrafo 1.2 precedente y acreditar:
 
-- **a)** Dos o más años de mando efectivo en naves de arqueo bruto mayor de 1.000 toneladas o más de 80 metros de eslora máxima.
+a) Dos o más años de mando efectivo en naves de un arqueo bruto mayor de 1.000 toneladas o más de 80 metros de eslora máxima.
 
-- **b)** Estar en posesión del certificado por la Dirección General, que lo autoriza en su calidad de Capitán, a navegar en las rutas habituales de canales sin práctico.
+b) Estar en posesión del certificado otorgado por la Dirección General, que lo autoriza en su calidad de Capitán, a navegar en las rutas habituales de canales sin práctico.
 
-- **c)** Haber cumplido un viaje de entrenamiento con un práctico oficial en las condiciones que fije la Dirección General, por cada año que hayan permanecido sin navegar ruta de canales, hasta completar un máximo de cinco viajes. 2.3 Los Oficiales Ejecutivos de la Armada, en retiro, deberán cumplir con los requisitos exigidos en las letras a),
+c) Haber cumplido un viaje de entrenamiento, en las condiciones que fije la Dirección General, por cada año que haya permanecido sin navegar ruta de canales, hasta completar un máximo de cinco viajes.".
 
-- **b)** y
+2.3 Los Oficiales Ejecutivos de la Armada, en retiro, deberán cumplir con los requisitos exigidos en las letras a) y b) del párrafo 1.3 precedente, y acreditar:
 
-- **c)** del párrafo 1.3 precedente, y acreditar:
+a) Dos años de mando efectivo en buques de la Armada, mayores de 1.000 toneladas de desplazamiento máximo o de más de 80 metros de eslora máxima. Para efectos de mando efectivo se considerará los efectuados a contar del grado de Capitán de Corbeta. En igualdad de condiciones, existiendo dos o más postulantes, serán preferidos aquellos que acrediten más tiempo de mando efectivo en buques mayores de 1.000 toneladas de desplazamiento o mayores de 80 metros de eslora máxima.
 
-- **a)** Dos o más años de mando efectivo en buques de la Armada mayores de 1.000 toneladas de desplazamiento máximo o de más de 80 metros de eslora máxima, o haber pertenecido a la lista oficial de pilotos para buques de Armadas extranjeras de la Dirección General del Personal de la Armada, haber realizado a lo menos diez pilotajes en canales.
-
-- **b)** Un mínimo de 700 horas y 8.400 millas navegadas como Oficial de Guardia responsable de la navegación o como Comandante de buque, en canales.
-
-- **c)** Haber cumplido un viaje de entrenamiento con un práctico oficial, en las condiciones que fije la Dirección General, por cada año que hayan permanecido sin navegar ruta de canales, hasta completar un máximo de 5 viajes.
+b) Haber cumplido un viaje de entrenamiento, en las condiciones que fije la Dirección General, por cada año que haya permanecido sin navegar ruta de canales, hasta completar un máximo de cinco viajes.
 
 #### Artículo 13
 
 Los períodos y viajes de entrenamiento exigidos para ser designado práctico autorizado, y ejercer como tal funciones de practicaje y pilotaje, deberán ser cumplidos a iniciativa y por cuenta de cada postulante, en naves de bandera chilena o extranjera que sean mayores de 1.000 toneladas de registro grueso o de más de 80 metros de eslora máxima.
 
-Con todo, un 20% de las maniobras o un viaje al menos, según corresponda, deberán haber sido cumplidos en una nave no menor de 5.000 toneladas de registro grueso o de más de 150 metros de eslora máxima.
+Con todo, un 20% de las maniobras o un viaje al menos, según corresponda, deberán haber sido cumplidos en una nave no menor de 3.000 toneladas de registro grueso o de más de 120 metros de eslora máxima.
 
-El cumplimiento de este requisito para prácticos autorizados de canales, será supervisado por un práctico oficial embarcado, quien emitirá su opinión sobre la idoneidad para el cargo, dejando constancia además si el postulante ha participado activamente en la navegación de ruta de canales, la que deberá contemplar, a lo menos, los siguientes pasos: Angostura Inglesa, Angostura Guía, Paso Shoal y Pasos Gray o Mayne.
+El cumplimiento de este requisito para prácticos autorizados de canales, será supervisado por el capitán de la nave, quien dejará constancia si el postulante ha participado activamente en la navegación de ruta de canales, la que deberá contemplar, a lo menos, los siguientes pasos: Angostura Inglesa, Angostura Guía, Paso Shoal y Pasos Gray y Mayne.
 
 El cumplimiento de entrenamiento para prácticos autorizado de puerto, será supervisado por uno o más prácticos habilitados del puerto de desempeño, quienes emitirán su opinión sobre la idoneidad del postulante para el cargo. La extensión del período y la cantidad de maniobras que se deban realizar, serán fijadas por la Dirección General, de acuerdo a las características propias de cada puerto.
 
@@ -154,7 +154,7 @@ Una vez que los postulantes a prácticos autorizados hayan cumplido las exigenci
 
 #### Artículo 15
 
-Anualmente, durante el mes de enero, el Director General determinará por resolución, el número que conformará la nómina permanente de los Prácticos Autorizados que cumplirán funciones de pilotaje y practicaje para dicho año.
+Anualmente, el Director General determinará por resolución el número que conformará la nómina permanente de los prácticos autorizados que cumplirán funciones de pilotaje o practicaje para el año siguiente.
 
 Para la determinación del número de Prácticos Autorizados que cumplirán funciones de pilotaje, se utilizará la siguiente fórmula:
 
