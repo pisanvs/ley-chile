@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.415, de 20 de julio de 2009, se publicó decreto número 1.161 exento, que "ESTABLECE ÁREA DE MANEJO Y EXPLOTACIÓN DE RECURSOS BENTÓNICOS PARA LA VIII REGIÓN", con el error de transcripción que se salva a continuación: tanto en el Sumario como en la página tres, primera columna, donde dice ".... Núm. 1.661 exento..." debe decir "... Núm. 1.161 exento...".
