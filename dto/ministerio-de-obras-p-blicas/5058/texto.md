@@ -8,13 +8,7 @@ D e c r e t o:
 
 Decláranse Normas Oficiales de la República de Chile, las siguientes normas chilenas con sus respectivos códigos y títulos de identificación.
 
-NCh777/1.Of2000 Agua potable - Fuentes de
-
-abastecimiento y obras de captación -
-
-Parte 1: Terminología, clasificación y
-
-requisitos generales.
+NCh777/1.Of2000 ANULADA Y REEMPLAZADA.
 
 NCh777/2.Of2000 Agua potable - Fuentes de
 
