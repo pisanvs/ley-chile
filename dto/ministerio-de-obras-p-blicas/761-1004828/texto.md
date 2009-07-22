@@ -6,7 +6,7 @@ Decreto:
 
 1º.- Decláranse Normas Oficiales de la República de Chile las siguientes:
 
-NCh1618.Of80 Tubos de polipropileno, PP, para conducción de fluidos a presión-Requisitos.
+NCh1618.Of80 ANULADA Y REEMPLAZADA.
 
 NCh1635.Of80 Tubos de policloruro de vinilo (PVC), rígido para instalaciones sanitarias de alcantarillado domiciliario-Requisitos.
 
