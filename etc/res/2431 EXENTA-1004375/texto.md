@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.431, de 14 de julio de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 208106004 presentada por RADOMIRO FRANCISCO RAIN CAYÚN para instalar y operar un centro de cultivo ubicado Bahía Huellonquén, al sureste de Punta Guacahué, Isla Cailín, X Región.
+
+Valparaíso, 14 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
