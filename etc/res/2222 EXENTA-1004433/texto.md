@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.222, de 24 de junio de 2009, de esta Subsecretaría, autorízase a ÁNGEL DEL CARMEN MAYA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada a 2 km. al norte de Punta Cabeza de Vaca, entre Punta Cabeza de Vaca y Bahía Totoralillo, comuna de Caldera, III Región, en la línea de proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 24 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
