@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.412, de 14 de julio de 2009, de esta Subsecretaría, autorízase a LORENA ALEJANDRA CAMPOS TORRES para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Juan Martínez Nº 222, Población Diego Portales Palazuelos, III Región, en líneas de proceso Cocido, Fresco enfriado, Congelado y Fresco refrigerado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 14 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
