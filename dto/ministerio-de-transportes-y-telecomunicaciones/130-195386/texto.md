@@ -198,6 +198,42 @@ Las mediciones se efectuarán conforme al ciclo ESC indicado en la letra b) del 
 
 La verificación de emisiones contaminantes de estos vehículos que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo total, en condiciones de carga, deberá ser del 4% como máximo o su equivalente técnico en flujo parcial, en el ensayo de aceleración libre, de un coeficiente de extinción (k) de 1,0 (m-1) como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en la letra d) del artículo 4.
 
+#### Artículo 3º ter
+
+Los buses con motor diesel destinados a la prestación de servicios de locomoción colectiva urbana en la provincia de Santiago y/o comunas de San Bernardo y Puente Alto, respecto de los cuales se solicite su primera inscripción en el Registro de Servicios de Transporte de Pasajeros de Santiago, después de seis meses de publicado el D.S. Nº 42, de 2009, del Ministerio de Transportes y Telecomunicaciones, deberán contar con un motor y con un filtro de partículas para el post tratamiento de las emisiones de material particulado del motor, el que deberá ser parte de los componentes que el fabricante ofrece como equipamiento original de fábrica, tal que las emisiones contaminantes no superen los niveles máximos de emisiones establecidos en a.1 o a.2.
+
+a.1) Emisiones provenientes del sistema de escape, en gramos/caballos de fuerza al freno-hora (g/bHp-h):
+
+VER DIARIO OFICIAL DE 24.07.2009, PÁGINA 10.
+
+Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 86 (Code of Federal Regulations)
+
+a.2) Emisiones provenientes del sistema de escape, en gramos/kiloWatt-hora (g/kW-h), deberán cumplir con los niveles de emisión señalados en las tablas 2 y 3:
+
+VER DIARIO OFICIAL DE 24.07.2009, PÁGINA 11.
+
+Las mediciones se efectuarán conforme al ciclo ESC (Ciclo Europeo de Estado Continuo) indicado en la letra b) del artículo 4.
+
+VER DIARIO OFICIAL DE 24.07.2009, PÁGINA 11.
+
+Las mediciones se efectuarán conforme al ciclo ETC (Ciclo Europeo de Transición) indicado en la letra b) del artículo 4.
+
+Para acreditar el cumplimiento de los límites máximos de emisiones indicados anteriormente, se deberá cumplir con, al menos, uno de los siguientes requisitos técnicos mínimos, el que deberá ser acreditado como parte del proceso de certificación de la norma de emisión del motor:
+
+a) Que, el motor operando en combinación con el filtro de partículas, cumpla con los niveles de emisiones establecidos en a.1 o a.2 medidos en las condiciones normalizadas que allí se indican.
+
+b) Que, se acredite mediante la presentación de los antecedentes técnicos y descriptivos que el filtro de partículas se encuentre en el listado de sistemas ensayados y aprobados que publica la Federal Office for the Environment (FOEN) de Suiza; o bien, que se acredite que éste cumple con las condiciones de medición establecidas de acuerdo al Código de Regulaciones del Estado de California de los Estados Unidos de América, en el Título 13, Capítulo 14, secciones 2700 a 2710, para un nivel 3 de reducción de Material Particulado y que el motor cumple con los niveles máximos de emisiones establecidos en a.1) o a.2), considerando para la verificación del cumplimiento del nivel de emisiones de Material Particulado (MP), la multiplicación del nivel de emisiones de la certificación del motor por, uno menos la eficiencia del filtro, dividida esta última por cien.
+
+c) Que, se acredite mediante la realización de ensayos en el Centro de Control y Certificación Vehicular, del Ministerio de Transportes y Telecomunicaciones, una eficiencia mínima del filtro de partículas del 80%, en la reducción de material particulado en masa, en combinación con un motor para el cual ya se hubiese acreditado que cumple los niveles de emisiones señalados en el Art. 3º bis del presente decreto.
+
+Para los efectos de lo señalado en esta letra, los ensayos serán realizados en un bus equipado con la combinación del filtro de partículas y del motor correspondiente y en base a pruebas en carga sobre un dinamómetro de chasis. Los ensayos serán realizados con equipo estándar para el tratamiento de la muestra y para el sistema gravimétrico de determinación del Material Particulado y sobre un dinamómetro de chasis, a una potencia absorbida al eje de 35 [kW] y a una velocidad de 60 [km/hr], en la marcha del sistema de transmisión que resulte apropiada o que indique el fabricante o su representante; o mediante el ciclo de conducción que determine en el futuro el Centro de Control y Certificación Vehicular del Ministerio de Transportes y Telecomunicaciones. La muestra será de flujo total, tomada desde el tubo de escape con y sin el filtro. La eficiencia será calculada como:
+
+VER DIARIO OFICIAL DE 24.07.2009, PÁGINA 11.
+
+Para este último caso la verificación del nivel de emisiones de Material Particulado (MP) establecido en a.1) o a.2) se realizará multiplicando el nivel de emisiones de la certificación del motor por, uno menos la eficiencia del filtro, dividida esta última por cien.
+
+En la verificación de emisiones contaminantes de estos vehículos que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo parcial en carga y en el ensayo de aceleración libre, deberá ser de 0,24 m-1, como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en la letra d) del artículo 4º.
+
 ## Título III
 
 Procedimiento de medición
