@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.409, de 14 de julio de 2009, de esta Subsecretaría, autorízase a CECILIA DEL CARMEN PÉREZ JIMÉNEZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Caleta Constitución, II Región, para elaborar en línea de proceso Alga Seca (secado y molienda), los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 14 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
