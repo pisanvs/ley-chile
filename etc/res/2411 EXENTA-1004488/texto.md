@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.411, de 14 de julio de 2009, de esta Subsecretaría, autorízase a JACQUELINE NIEVES FERRADA IRIBARREN para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en 4,4 kilómetros al norte de Caleta Urco, II Región, para elaborar en líneas de proceso Alga Seca y Harina de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 14 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
