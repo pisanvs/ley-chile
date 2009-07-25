@@ -18,7 +18,7 @@ Región Recursos (UF)
 
 Antofagasta 2.835
 
-Atacama 3.720
+Atacama 3.255
 
 Coquimbo 13.134,20
 
@@ -40,13 +40,13 @@ Aysén 2.112
 
 Metropolitana 762
 
-Total País 222.218,65
+Total País 221.753,65
 
 El número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica y el subsidio de saneamiento si corresponde.
 
 3. El puntaje de corte, su cálculo y procedimiento será determinado conforme a lo establecido en la resolución exenta N° 7.080 (V. y U.), de 2008.
 
-4. Mediante Resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+4. Mediante Resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública. |!
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
