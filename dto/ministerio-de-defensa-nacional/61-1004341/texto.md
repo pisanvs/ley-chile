@@ -12,7 +12,7 @@ Considerando: Que el titular de la Cartera de Defensa Nacional realizará una co
 
 Decreto:
 
-Nómbrase Ministro de Defensa Nacional Subrogante al Ministro de Obras Públicas, don Sergio Bitar Chacra, del 27 al 31 de mayo de 2009.
+Nómbrase Ministro de Defensa Nacional Subrogante al Ministro de Obras Públicas, don Sergio Bitar Chacra, desde las 11:00 hrs. del día 26 al 31 de mayo del 2009.
 
 MICHELLE BACHELET JERIA, Presidenta de la República.- Francisco Vidal Salinas, Ministro de Defensa Nacional.
 
