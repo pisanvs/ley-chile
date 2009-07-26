@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.507, de 21 de julio de 2009, de esta Subsecretaría modifícase la resolución exenta Nº 2.116 de 2009 de esta Subsecretaría de Pesca que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2008-36 denominado "Sistema de selección de las capturas en la pesquería demersal centro-sur", en el sentido de reemplazar su numeral 5º por el siguiente:
+
+"5.- En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán capturar un máximo de 45 toneladas de Merluza común Merluccius gayi gayi, las que se imputarán a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura de la mencionada especie establecida mediante decreto exento Nº 1.675 de 2008, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 21 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
