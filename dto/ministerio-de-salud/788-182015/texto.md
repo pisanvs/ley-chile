@@ -60,7 +60,7 @@ Del ingreso a la Etapa de Destinación y Formación
 
 #### Artículo 7
 
-La permanencia de los profesionales funcionarios en la Etapa de Destinación y Formación no podrá exceder de nueve años y se cumplirá mediante el desempeño de empleos a contrata, anuales y prorrogables.
+La permanencia de los profesionales funcionarios en la Etapa de Destinación y Formación no podrá exceder de nueve años y se cumplirá mediante el desempeño de empleos a contrata, anuales y prorrogables. En todo caso, de conformidad con los criterios que, por decreto expedido por el Ministerio de Salud, bajo la fórmula "Por orden del Presidente de la República" y suscrito por el Ministro de Hacienda, el Director del Servicio de Salud podrá autorizar fundadamente la prórroga del contrato hasta por el plazo máximo de dos años respecto de los profesionales funcionarios que al noveno año se encuentren cumpliendo un programa de especialización y sólo para efecto de cumplir dicho programa.
 
 #### Artículo 8
 
@@ -74,9 +74,9 @@ El proceso de selección nacional para el ingreso a la Etapa de Destinación y F
 
 #### Artículo 10
 
-El Subsecretario de Salud, a solicitud de los Servicios de Salud, coordinará a nivel nacional la realización del proceso de selección referido en el artículo anterior, debiendo, para estos efectos, adoptar todas las medidas y resoluciones que estime necesarias.
+El Subsecretario de Redes Asistenciales, a solicitud de los Servicios de Salud, coordinará a nivel nacional la realización del proceso de selección referido en el artículo anterior, debiendo, para estos efectos, adoptar todas las medidas y resoluciones que estime necesarias.
 
-Con tal objeto, los Servicios de Salud comunicarán a la Subsecretaría de Salud el número de plazas de contratos de la Etapa de Destinación y Formación que deban ser provistas en el respectivo proceso de selección, indicando las características que deberán tener los cargos correspondientes.
+Con tal objeto, los Servicios de Salud comunicarán a la Subsecretaría de Redes Asistenciales el número de plazas de contratos de la Etapa de Destinación y Formación que deban ser provistas en el respectivo proceso de selección, indicando las características que deberán tener los cargos correspondientes.
 
 #### Artículo 11
 
@@ -88,29 +88,31 @@ El llamado a participar en el respectivo proceso de selección se publicará, po
 
 #### Artículo 13
 
-Para cada proceso de selección la Subsecretaría de Salud elaborará bases, las que establecerán procedimientos de postulación, rubros de antecedentes a ponderar y métodos de evaluación, que aseguren un proceso de selección objetivo, técnico e imparcial. Asimismo, las bases regularán todo lo concerniente al ordenamiento de los puntajes obtenidos, a la forma y lugar de publicidad de los resultados y a las modalidades de los llamados para aceptación de cargos.
+Para cada proceso de selección la Subsecretaría de Redes Asistenciales elaborará bases, las que establecerán procedimientos de postulación, rubros de antecedentes a ponderar y métodos de evaluación, que aseguren un proceso de selección objetivo, técnico e imparcial. Asimismo, las bases regularán todo lo concerniente al ordenamiento de los puntajes obtenidos, a la forma y lugar de publicidad de los resultados y a las modalidades de los llamados para aceptación de cargos.
 
 #### Artículo 14
 
-Los antecedentes de los postulantes serán evaluados por una Comisión de Selección designada, en cada oportunidad, por el Subsecretario de Salud, la que deberá estar integrada, entre otros, por dos profesionales funcionarios de la respectiva profesión, propuestos por las asociaciones gremiales sucesoras de los Colegios Profesionales correspondientes.
+Los antecedentes de los postulantes serán evaluados por una Comisión de Selección designada, en cada oportunidad, por el Subsecretario de Redes Asistenciales, la que deberá estar integrada, entre otros, por dos profesionales funcionarios de la respectiva profesión, propuestos por las asociaciones gremiales sucesoras de los Colegios Profesionales correspondientes.
 
 En caso de ausencia o impedimento de cualquier integrante de la Comisión, su reemplazo será dispuesto por la misma autoridad.
 
-De lo resuelto por la Comisión de Selección se podrá recurrir de reposición apelando en subsidio ante el Subsecretario de Salud dentro de los cinco días de notificado el resultado del respectivo proceso de selección.
+La comisión encargada del proceso de selección podrá considerar la aplicación de instrumentos de selección, tales como oposición de antecedentes, pruebas, entrevistas, exámenes u otros que evalúen las competencias del postulante para el ejercicio del cargo. Dichos instrumentos deberán ser públicos y abiertos a todo participante y tendrán carácter de nacional.
+
+De lo resuelto por la Comisión de Selección se podrá recurrir de reposición apelando en subsidio ante el Subsecretario de Redes Asistenciales dentro de los cinco días de notificado el resultado del respectivo proceso de selección.
 
 #### Artículo 15
 
-Resuelto el proceso de selección coordinado por la Subsecretaría de Salud, ésta comunicará a los Servicios de Salud la nómina de los profesionales seleccionados que hubieren aceptado los cargos ofrecidos por los respectivos Servicios y les remitirá los antecedentes de los interesados para que se dispongan las correspondientes contrataciones.
+Resuelto el proceso de selección coordinado por la Subsecretaría de Redes Asistenciales, ésta comunicará a los Servicios de Salud la nómina de los profesionales seleccionados que hubieren aceptado los cargos ofrecidos por los respectivos Servicios y les remitirá los antecedentes de los interesados para que se dispongan las correspondientes contrataciones.
 
 #### Artículo 16
 
-Los cargos que no fueren aceptados después de un tercer llamado en los procesos de selección coordinados por la Subsecretaría de Salud, y aquellos que quedaren vacantes con posterioridad a dichos procesos, podrán ser provistos dentro de los 90 días siguientes en un proceso de selección a nivel nacional, efectuado por los respectivos Servicios de Salud.
+Los cargos que no fueren aceptados después de un tercer llamado en los procesos de selección coordinados por la Subsecretaría de Redes Asistenciales, y aquellos que quedaren vacantes con posterioridad a dichos procesos, podrán ser provistos dentro de los 90 días siguientes en un proceso de selección a nivel nacional, efectuado por los respectivos Servicios de Salud.
 
-A estos procesos se les aplicarán, en lo pertinente, las mismas normas establecidas en este reglamento para los procesos de selección coordinados por la Subsecretaría de Salud, incluidas las relativas a la integración de la Comisión de Selección, la que será designada por los respectivos Directores de los Servicios.
+A estos procesos se les aplicarán, en lo pertinente, las mismas normas establecidas en este reglamento para los procesos de selección coordinados por la Subsecretaría de Redes Asistenciales, incluidas las relativas a la integración de la Comisión de Selección, la que será designada por los respectivos Directores de los Servicios.
 
 #### Artículo 17
 
-Los directores de los Servicios de Salud estarán facultados para contratar directamente profesionales funcionarios en la Etapa de Destinación y Formación, cuando circunstancias fundadas lo justifiquen en razón de necesidades del Servicio, en forma transitoria y por períodos determinados. Estas contrataciones no podrán exceder del 20% de la dotación de horas asignadas a esta Etapa, en cada Servicio.
+Los directores de los Servicios de Salud estarán facultados para contratar directamente profesionales funcionarios en la Etapa de Destinación y Formación, cuando circunstancias fundadas lo justifiquen en razón de necesidades del Servicio, en forma transitoria y por períodos determinados. Estas contrataciones podrán disponerse en toda época del año con cargo a la dotación de horas asignadas a esta Etapa, sea cual fuere la causa por las que se encuentren disponibles, siempre que no excedan del 20% de la dotación de horas asignadas a ella, en cada Servicio.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Michelle Bachelet Jeria, Ministra de Salud.
 
