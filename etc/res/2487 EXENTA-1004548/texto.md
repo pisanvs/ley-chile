@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.487 de 15 de julio de 2009 de esta Subsecretaría, modifícase el numeral 3 de la resolución exenta N° 1.211 de 2009, de esta Subsecretaría, que autorizó a la CORPORACIÓN PARA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Caracterización de la pesca con cerco del recurso Mote (Normanichthys crockeri) en la Región del Bío Bío", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 9 de diciembre de 2009, inclusive.
+
+Valparaíso, 15 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca
