@@ -96,25 +96,25 @@ de conducir 15% UTM
 
 de conducir 10% UTM
 
-24 Fotografías Digitalizadas $1.500.-
+24 Fotografías digitalizadas 4% UTM
 
-25 Cuestionario base Exámenes Teóricos 0,04% UTM
+25 Cuestionario base Exámenes Teóricos 4% UTM
 
-26 Cambio restricción Licencia de Conducir 0,21% UTM
+26 Cambio restricción Licencia de Conducir 21% UTM
 
 27 Restricción y/o modificación del
 
 documento emitido de la Licencia
 
-de Conducir por error involuntario 0,02% UTM
+de Conducir por error involuntario 2% UTM
 
 u omisión administrativa
 
 28 Examen Teórico, Psicotécnico
 
-o práctico cuando no sea el fin 0,5% UTM
+o práctico cuando no sea el fin 5% UTM
 
-29 Derechos no contemplados 0,11% UTM
+29 Derechos no contemplados 11% UTM
 
 2º Dicha complementación comenzará a regir a partir de la fecha de publicación en el Diario Oficial.
 
