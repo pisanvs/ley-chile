@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.428, de 14 de julio de 2009, de esta Subsecretaría, autorízase a GÉNESIS VALERIA PINO HERNÁNDEZ E.I.R.L. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Transversal 1 Nº 242 Barrio Industrial, Caldera, III Región, en líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado, Conserva, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 14 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
