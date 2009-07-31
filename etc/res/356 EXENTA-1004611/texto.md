@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZO PARA EL INICIO DE OPERACIONES DEL CASINO DE JUEGO Y LA EJECUCIÓN DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA RANTRUR S.A.
+
+Por resolución exenta N°356, de 23 de julio de 2009, la Superintendencia de Casinos de Juego concedió la prórroga de plazo que solicitó la sociedad operadora Rantrur S.A. En virtud de la prórroga concedida, el plazo de 668 días para el inicio de operaciones del casino de juego y el plazo de 790 días para el desarrollo de las demás obras e instalaciones del proyecto integral autorizado en comuna de Castro, contemplado en resolución exenta N°278, de 20 de agosto de 2008, de la Superintendencia, que le otorgó un permiso de operación para casino de juego en dicha comuna, se extenderá hasta 841 días para el inicio de operaciones del casino de juego y hasta 1.051 días para la ejecución de las demás obras comprendidas en el proyecto integral, contados desde el 8 de septiembre de 2008.
+
+Santiago, 27 de julio de 2009.- Superintendente de Casinos de Juego.
