@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.535, de 24 de julio de 2009, de esta Subsecretaría, rectifícase la resolución Nº 2.068 de 2009, de esta Subsecretaría, que autorizó a RAÚL ALEJANDRO VARGAS JÉLVEZ, para instalar y operar una planta ubicada en Quinta Los Olivos, kilómetro 4 de carretera de Taltal, Taltal II Región, en el sentido de señalar que el nombre del solicitante es Raúl Alejandro Vargas Jélvez.
+
+Valparaíso, 24 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
