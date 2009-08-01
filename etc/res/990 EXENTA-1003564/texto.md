@@ -78,6 +78,10 @@ a. Sistema Interconectado Central: período comprendido entre las 18:00 y las 23
 
 b. Sistema Interconectado del Norte Grande: período del día comprendido entre las 18:00 y las 23:00 horas -mientras rija el horario oficial de invierno- y entre las 19:00 y 24:00 horas -mientras rija el horario oficial de verano- de cada día de todos los meses del año, exceptuándose, a solicitud del cliente, los días domingo, festivos y sábado inmediatamente siguientes o anteriores a un día laboral festivo, siempre y cuando y de ser necesario, el usuario asuma los costos de inversión correspondientes.
 
+c. Sistema de Punta Arenas, Puerto Natales, Porvenir, Puerto Williams, Aisén, Palena y General Carrera: Período comprendido entre las 17:00 y las 22:00 horas de cada día de los meses de mayo, junio, julio, agosto y septiembre.
+
+d. Sistemas de Cochamó y Hornopirén: Período que rige para el Sistema Interconectado Central.
+
 ### 4. DE LOS INFORMES
 
 4.1 Los informes que emitan los Organismos autorizados conforme a la presente resolución, serán de uso exclusivo del Organismo, siendo éstos responsables de su custodia.
