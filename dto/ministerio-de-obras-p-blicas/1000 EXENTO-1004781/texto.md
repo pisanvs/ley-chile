@@ -1,0 +1,3 @@
+Por decreto MOP exento N°1.000, de 30 de junio de 2009, se expropió el lote de terreno N°3, superficie 1.331 m2, Rol N° 384-124, comuna de Pitrufquén, IX Región, para la obra "Estudio de Ingenieria del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan", Obra "Canal Huefel, Comuna de Pitrufquén, Provincia de Cautín, Region de la Araucanía" y se acordó el valor de indemnización con su propietario José Mercedes Jaramillo Jaramillo, ascendente a la cantidad de $919.934.-
+
+Fiscal del Ministerio de Obras Públicas.
