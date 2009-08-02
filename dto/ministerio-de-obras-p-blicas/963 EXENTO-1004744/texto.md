@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°963 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 2-A1 superficie 571 m², rol N° 169-3, comuna de Calbuco, para la obra "Mejoramiento Construcción Rutas V-843 y S/R, S: CR. Ruta V-85-Puerto, Km. 0,00000 al Km. 1,99550, Comuna de Calbuco, Provincia de Llanquihue, X Región" y se acordó el valor de la indemnización con su propietario FRESIA GREGORIA SCHIATTINO LEMUS, ascendente a la cantidad de $2.646.026.-
+
+Fiscal del Ministerio de Obras Públicas.
