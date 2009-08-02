@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°976 de fecha 30 de junio del 2009, se expropió el lote de terreno N°37, superficie 27 m², Rol N° 279-31, comuna de Los Vilos, IV Región para la obra "Mejoramiento Ruta D-875, Sector Quilimari-Guanguali, tramo Km. 1,79200 a Km. 16,00000", y se acordó el valor de indemnización con su propietario ARTURO DEL CARMEN MARTÍNEZ CORREA, ascendente a la cantidad de $382.482.- para el lote N°37.
+
+Fiscal del Ministerio de Obras Públicas.
