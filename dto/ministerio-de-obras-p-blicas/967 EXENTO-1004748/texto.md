@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N°967 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 27-B, superficie 483 m2, rol N° 421-588, comuna de Illapel, para la obra "Construcción Variante, sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679", IV Región y se acordó el valor de la indemnización con su propietaria MARITZA JUDITH HENRIQUEZ JELDRES, ascendente a la cantidad de $476.757.-
+
+Fiscal del Ministerio de Obras Públicas.
