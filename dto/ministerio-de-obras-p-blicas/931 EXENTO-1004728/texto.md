@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°931 de fecha 23 de junio de 2009, se expropiaron los lotes de terreno N°s 56, 58, 59, 60 y 61, superficies 681, 3.042, 7.219, 4.670 y 2.910 m2 respectivamente, rol N° 43-3, comuna de Quilaco, para la obra "Mejoramiento Ruta Q75, Sector Mulchén - Quilaco, Km. 0,00000 a Km. 23,13600" VIII Región y se acordó el valor de la indemnización con su propietario EUGENIA CONTRERAS SHARPE, ascendente a la cantidad de $14.223.220.-
+
+Fiscal del Ministerio de Obras Públicas.
