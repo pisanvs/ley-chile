@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 987 de 30 de junio de 2009, se expropiaron los lotes de terrenos N°s. 4-E y 6, superficies 823 y 883 m², rol de Avalúo 453-17, comuna de Ovalle, para la obra "REPOSICIÓN PAV. RUTA 45 CRUCE LONG. (SOCOS) - OVALLE, KM. 0,50730 al KM. 34,26924", IV Región y se acordó el valor de la indemnización con su propietario DOMINGO ALFONSO CHELEN ARAYA, ascendente a la cantidad de $5.007.401.-
+
+Fiscal del Ministerio de Obras Públicas.
