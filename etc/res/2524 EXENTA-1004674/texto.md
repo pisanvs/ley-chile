@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.524, de 23 de julio de 2009, de esta Subsecretaría, autorízase a MÓNICA DEL TRÁNSITO VÁSQUEZ PLAZA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en camino al Vertedero s/n, Taltal, II Región, en la línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
