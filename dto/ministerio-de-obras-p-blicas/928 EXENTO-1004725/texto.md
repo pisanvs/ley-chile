@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°928, de fecha 23 de junio del 2009, se expropiaron los lotes de terreno N°s 2-B y 4, superficie 453 y 759 m2 respectivamente, Rol N° 20-37, comuna de Puerto Varas, X Región para la obra "Construcción By Pass Chonchi extensión Calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región.", y se acordó el valor de indemnización con su propietaria ERNA DE LOURDES ANDRADE OYARZUN, ascendente a la cantidad de $15.906.710.-
+
+Fiscal del Ministerio de Obras Públicas.
