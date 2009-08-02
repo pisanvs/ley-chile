@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 962 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 1, superficie 90 m2, rol N° 9317-196, comuna de Valparaíso, para la obra "Ampliación Camino La Pólvora, Sector Enlace Ruta 68 - Quebrada Las Animas, Sector Cruce Placilla, Tramo Km. 2,50000 al Km. 2,80000" V Región y se acordó el valor de la indemnización con su propietaria ROSA ELVIRA SUÁREZ URETA, ascendente a la cantidad de $2.141.298.-
+
+Fiscal del Ministerio de Obras Públicas.
