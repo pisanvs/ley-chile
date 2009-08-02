@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE CHIMBARONGO
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 3.593 del 06 de julio de 2009, conforme artículo 5º transitorio Código Aguas, aclaró resolución exenta del Servicio Agrícola y Ganadero Nº 866 de fecha 25 de junio de 1987, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de los predios denominados "Fundo Santa Marta antes San Rafael", "Hijuela Número Uno que es parte del Fundo Santa Elisa de Chimbarongo" y "Hijuela Tercera del Fundo Santa Elisa de Chimbarongo" y del Proyecto de Parcelación "Santa Elisa", ubicados en la comuna de Chimbarongo, Región del Libertador Bernardo O'Higgins, en el sentido de establecer las equivalencias en unidad de volumen por unidad de tiempo, de los derechos de aprovechamiento de aguas del canal Hacienda de Chimbarongo, derivado del Río Tinguiririca y que dichos derechos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º Ley Nº 18.377.- Director Nacional.
