@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 996, de 30 de junio de 2009, se expropió el lote de terreno N° 1, superficie 8.527 m2, Rol N° 386-42, comuna de Pitrufquén, IX Región, para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan" Obra: "Canal Nueva Etruria" y se acordó el valor de indemnización con su propietaria Gladys Alberti Granzotto, ascendente a la cantidad de $7.792.646.-
+
+Fiscal del Ministerio de Obras Públicas.
