@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N°969 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 73-A, superficie 849 m2, Rol N° 45-2, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria ANA MARIA CORTÉS HERRERA Y OTROS, ascendente a la cantidad de $11.173.268.- para el lote N° 73-A.-
+
+Fiscal del Ministerio de Obras Públicas.
