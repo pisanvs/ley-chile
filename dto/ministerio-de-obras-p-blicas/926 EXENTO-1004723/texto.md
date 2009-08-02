@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 926, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 1, superficie 27 m2, Rol N° 187-31, comuna de Arauco, VIII Región para la obra "Camino Ruta P-22, Sector Llico Punta Lavapie. Tramo Km. 0,00000 al Km. 6,52000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario JUAN DE LA CRUZ MARTINEZ PEDRERO, ascendente a la cantidad de $387.730.-
+
+Fiscal del Ministerio de Obras Públicas.
