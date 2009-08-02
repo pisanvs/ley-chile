@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 916, de fecha 23 de junio del 2009, se expropiaron los lotes de terreno N°s 3 y 4, superficie 357 y 514 m2 respectivamente, Rol N° 200-372, comuna de Panguipulli, X Región para la obra "Conservación Periódica Puente Cachím, Camino Cachím Palitue, S/Rol.", y se acordó el valor de indemnización con su propietaria ARACELI RUDY FOITZICK FOITZICK, ascendente a la cantidad de $2.371.059.-
+
+Fiscal del Ministerio de Obras Públicas.
