@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°932 de fecha 23 de junio de 2009, se expropió el lote de terreno N° 11 superficie 7.512 m², rol N° 158-54, comuna de Puerto Octay, para la obra "Camino Construcción Ruta U-91, sector Río Correntoso-Las Gaviotas, Tramo Km. 65,58046 a Km. 72,78493", Provincia de Osorno, X Región y se acordó el valor de la indemnización con su propietario JOSÉ HÉCTOR VEGA MANCILLA, ascendente a la cantidad de $23.572.413.-
+
+Fiscal del Ministerio de Obras Públicas.
