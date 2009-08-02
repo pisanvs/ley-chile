@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°970 de fecha 30 de junio del 2009, se expropió el lote de terreno N° 19, superficie 10.063 m², Rol N° 158-285, comuna de Puerto Octay, X Región para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso-Las Gaviotas, Tramo Km. 65,58046 al Km. 72,78493, Provincia de Osorno, X Región" y se acordó el valor de indemnización con su propietario RICARDO RENÉ CERDA MANCILLA, ascendente a la cantidad de $31.536.819. para el lote N°19.
+
+Fiscal del Ministerio de Obras Públicas.
