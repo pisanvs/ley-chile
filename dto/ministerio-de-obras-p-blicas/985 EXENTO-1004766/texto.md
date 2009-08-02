@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°985, de fecha 30 de junio del 2009, se expropiaron los lotes de terreno Nos 86-A y 86-B, superficies 461 y 392 m2, Rol N° 131-28, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-810, Sector Licantén-Vichuquén, Tramo Km. 0,00000 al Km. 15,372989", y se acordó el valor de indemnización con su propietario LUIS OSVALDO RAMÍREZ CALQUIN, ascendente a la cantidad de $4.212.666.- para los lotes Nos 86-A y 86-B.-
+
+Fiscal del Ministerio de Obras Públicas.
