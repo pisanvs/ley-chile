@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N°960 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 1-A, superficie 2.067,00 m2, rol N° 1602-62, comuna de Santo Domingo, para la obra "Construcción Puentes Yali 1 y Yali 2, Ruta G-80-I, Tramo Km. 13,40000 a Km. 14,50000, Comuna y Provincia de San Antonio, V Región" y se acordó el valor de la indemnización con su propietaria PATRICIA DE LAS MERCEDES ORTEGA RAMIREZ, ascendente a la cantidad de $5.227.720.-
+
+Fiscal del Ministerio de Obras Públicas.
