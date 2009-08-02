@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°922, de fecha 23 de junio del 2009, se expropiaron los lotes de terreno N°s 148, 148-A y 149-A, superficie 192, 112 y 143 m2 respectivamente, Rol N° 2206-56, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe La Arena, Tramo Km. 15,84700 al Km. 40,41746.", y se acordó el valor de indemnización con su propietaria ELFRIDA MARIA CASANOVA ZUÑIGA, ascendente a la cantidad de $2.450.594.-
+
+Fiscal del Ministerio de Obras Públicas.
