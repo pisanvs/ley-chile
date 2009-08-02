@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°917, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 7, Superficie 187 m2, Rol N° 155-275, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 al Km. 19,47571", y se acordó el valor de indemnización con su propietaria BENIGNA DEL CARMEN FUENTES ALARCON, ascendente a la cantidad de $2.776.169.-
+
+Fiscal del Ministerio de Obras Públicas.
