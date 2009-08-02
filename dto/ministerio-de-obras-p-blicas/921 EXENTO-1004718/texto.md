@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°921, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 55, superficie 129 m2, Rol de avaluó en trámite, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietaria RAMONA GONZALEZ, ascendente a la cantidad de $1.023.009.-
+
+Fiscal del Ministerio de Obras Públicas.
