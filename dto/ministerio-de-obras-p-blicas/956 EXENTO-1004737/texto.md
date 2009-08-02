@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°956 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 15, superficie 151 m2, rol N° 187-34, comuna de Arauco, para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapie, Tramo Km. 0,00000 a Km. 6,52000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Isidoro Mendoza Bravo, ascendente a la cantidad de $1.302.753.-
+
+Fiscal del Ministerio de Obras Públicas.
