@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°965 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 76-D, superficie 192 m2, rol N° 1213-119, comuna de Coelemu, para la obra "Camino Ruta 126, sector Coelemu - Rafael - Tomé, Tramo I, Km. 0,00000 a Km. 20,30000" VIII Región y se acordó el valor de la indemnización con su propietario EULALIA EUDOSIA GONZALEZ HERNANDEZ, ascendente a la cantidad de $539.742.
+
+Fiscal del Ministerio de Obras Públicas.
