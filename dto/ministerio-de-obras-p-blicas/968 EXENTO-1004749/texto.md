@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP N°968 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 5, superficie 245 m², Rol N° 24-43, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Zona Urbana, Quilaco, Km. 22,76349 a Km. 23,13600, Región del Bío Bío", y se acordó el valor de indemnización con su propietario FÉLIX ANTONIO PINO MATUS, ascendente a la cantidad de $4.583.966.- para el lote N°5.
+
+Fiscal del Ministerio de Obras Públicas.
