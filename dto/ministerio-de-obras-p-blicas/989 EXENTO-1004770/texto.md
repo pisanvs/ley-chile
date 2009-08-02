@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 989 de 30 de junio de 2009, se expropió el lote de terreno N° 140-A, superficie 105 m², rol de Avalúo 3400-32, comuna de Puerto Montt, para la obra "MEJORAMIENTO RUTA 7, SECTOR QUILLAIPE - LA ARENA, Tramo KM. 15,84700 al KM. 40,41746", X Región y se acordó el valor de la indemnización con su propietario HELMUTT OMAR VILLEGAS GOMEZ, ascendente a la cantidad de $736.520.-
+
+Fiscal del Ministerio de Obras Públicas.
