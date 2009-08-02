@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 986, de 30 de junio de 2009, se expropió el lote de terreno N° 6, superficie 259 m2, Rol de avalúo 24-4, comuna de Quilaco, para la obra "Mejoramiento Ruta Q-75, Sector Zona Urbana Quilaco, Km. 22,76349 al Km. 23,13600, Región del Bío-Bío", VIII Región, y se acordó el valor de la indemnización con su propietaria Sylvia de Lourdes Pastén Vega, ascendente a cantidad de $5.513.038.-
+
+Fiscal del Ministerio de Obras Públicas.
