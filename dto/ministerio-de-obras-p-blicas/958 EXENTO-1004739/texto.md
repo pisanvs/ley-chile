@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N°958 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 4, superficie 231 m2, rol N° 24-44, comuna de Quilaco, para la obra "Mejoramiento Ruta Q-75, Sector Zona Urbana Quilaco, Km. 22,76349 al Km. 23,13600, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario JOSE EMILIANO PINO CABEZAS, ascendente a la cantidad de $4.353.611.-
+
+Fiscal del Ministerio de Obras Públicas.
