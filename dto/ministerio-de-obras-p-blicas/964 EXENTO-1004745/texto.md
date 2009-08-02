@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N°964 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 30, superficie 1.445 m2, rol N° 192-81, comuna de Arauco, para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapie, Tramo Km. 0,00000 a Km. 6,52000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario CARLOS ROBERTO MARTINEZ SÁEZ, ascendente a la cantidad de $920.561.-
+
+Fiscal del Ministerio de Obras Públicas.
