@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 993, de 30 de junio de 2009, se expropió el lote de terreno N° 1, superficie 3.395 m2, Rol N° 385-75, comuna de Pitrufquén, IX Región, para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan" Obra: "Canal Los Pinos" y se acordó el valor de indemnización con su propietaria Úrsula Edith Bormann Mahncke, ascendente a la cantidad de $2.649.774.-
+
+Fiscal del Ministerio de Obras Públicas.
