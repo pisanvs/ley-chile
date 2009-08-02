@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°920, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 4, superficie 78 m2, Rol N° 99-37, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietaria MARIA DORIS MORALES VALLEJOS, ascendente a la cantidad de $1.509.875.-
+
+Fiscal del Ministerio de Obras Públicas.
