@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N°980 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 53, superficie 396 m2, Rol N° 18-93, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle - Hurtado, sector Samo Alto Pichasca", y se acordó el valor de indemnización con su propietaria ORMIDA DEL CARMEN JERALDO FLORES, ascendente a la cantidad de $1.912.142.- para el lote N° 53.-
+
+Fiscal del Ministerio de Obras Públicas.
