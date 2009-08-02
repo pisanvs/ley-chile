@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 924, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 71, superficie 24 m2, Rol de avaluó en trámite, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietaria NELIDA AUDELIS MUNDACA ROJAS Y OTROS, ascendente a la cantidad de $370.296.-
+
+Fiscal del Ministerio de Obras Públicas.
