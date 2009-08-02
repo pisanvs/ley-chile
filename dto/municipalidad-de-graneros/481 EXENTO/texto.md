@@ -58,17 +58,23 @@ Corresponderá al Departamento de Tránsito y Transporte Público dictar las nor
 
 Las medidas que se dicten en tal sentido serán hechas cumplir por Carabineros e Inspectores Municipales.
 
-#### Artículo 6º
+#### Artículo 6°
 
 Las Ferias Libres de la Comuna de Graneros funcionarán en los siguientes lugares:
 
-• Días Miércoles: calle Salvador Gutiérrez, desde la intersección de la calle Valparaíso hasta calle Concepción.
+• Días Miércoles: Calle Salvador Gutiérrez, desde la intersección de la calle Valparaíso hasta Calle Santiago.
 
 • Días Viernes: calle J.M. Cousiño, frente Complejo Deportivo Nestlé.
 
 • Días Sábados: Villa La Compañía, Callejón de Las Águilas.
 
 • Días Domingos: Guillermo Berríos, desde la intersección de la calle Ovalle hasta Chorrillos, Pasaje 20.
+
+En caso de emergencia, los lugares establecidos para el traslado de la Feria serán:
+
+Días Miércoles: Calle Valparaíso, desde Salvador Gutiérrez hasta Camino Real.
+
+Días Domingo: Avda. Luis Barros Borgoño, desde Avda. La Compañía hasta calle Santa Elena.
 
 #### Artículo 7º
 
@@ -80,9 +86,9 @@ Asimismo, la Municipalidad podrá autorizar nuevos lugares de funcionamiento, pr
 
 Las Ferias sólo podrán instalarse dentro de los límites definidos para cada una de ellas y bajo ningún pretexto podrán ampliarse más allá del espacio autorizado; para tales efectos, el Departamento de Rentas y Feriantes limitará el número de patentes al espacio autorizado de cada Feria.
 
-#### Artículo 9º
+#### Artículo 9°
 
-Los días de funcionamiento de las ferias serán los días miércoles, viernes, sábados y domingos de cada semana, el horario de funcionamiento de estos recintos será exclusivamente el siguiente:
+Los días de funcionamiento de la Ferias serán los días miércoles, viernes, sábados y domingos de cada semana, el horario de funcionamiento de estos recintos, entendiéndose hora de llegada e ida de los feriantes, será exclusivamente el siguiente:
 
 • Miércoles y Viernes: Inicio 07:00 horas; término 15:00 horas.
 
@@ -102,7 +108,7 @@ De los Puestos
 
 #### Artículo 11º
 
-La superficie máxima a ocupar por cada puesto en las ferias será de 4 metros de frente y 2,5 metros de fondo y bajo ningún pretexto o circunstancia, los feriantes podrán ocupar una superficie mayor.
+La superficie máxima a ocupar por cada puesto en las ferias será de 4 metros de frente y 3 metros de fondo y bajo ningún pretexto o circunstancia, los feriantes podrán ocupar una superficie mayor.
 
 #### Artículo 12º
 
