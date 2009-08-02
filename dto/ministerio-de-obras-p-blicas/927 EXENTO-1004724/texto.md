@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 927, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 57, superficie 4.368 m2, Rol N° 43-60, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario RALPH SHARPE BEZANILLA, ascendente a la cantidad de $3.775.258.-
+
+Fiscal del Ministerio de Obras Públicas.
