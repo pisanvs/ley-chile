@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 990 de 30 de junio de 2009, se expropió el lote de terreno N° 17, superficie 29 m², rol de Avalúo 27-46, comuna de Río Hurtado, para la obra "CONSERVACIÓN CAMINO 64E763 SAN PEDRO - BOSQUE PETRIFICADO DE PICHASCA", IV Región y se acordó el valor de la indemnización con su propietaria GRACIELA DEL CARMEN GUERRERO GUERRERO, ascendente a la cantidad de $804.163.-
+
+Fiscal del Ministerio de Obras Públicas.
