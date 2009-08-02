@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°913, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 45, superficie 82 m2, Rol N° 70-174, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietaria DELFIA HORTENSIA RIVERA MURA, ascendente a la cantidad de $1.799.834.-
+
+Fiscal del Ministerio de Obras Públicas.
