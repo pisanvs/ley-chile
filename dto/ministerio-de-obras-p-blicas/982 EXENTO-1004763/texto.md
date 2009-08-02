@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº982, de fecha 30 de junio de 2009, se expropiaron los lotes de terreno Nºs. 5 y 6, superficies 141 y 64 m2, Rol Nº 155-260, comuna de Las Cabras, VI Región, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario Ceferino Eduardo Osorio Palacios, ascendente a la cantidad de $3.633.959 para los lotes Nºs. 5 y 6.-
+
+Fiscal del Ministerio de Obras Públicas.
