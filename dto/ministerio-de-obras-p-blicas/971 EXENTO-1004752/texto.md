@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°971 de fecha 30 de junio del 2009, se expropiaron los lotes de terreno Nos 8, 9 y 10, superficies 121.532, 755 y 147.019 m², Rol N° 121-44, comuna de Freirina, III Región para la obra "Conservación Red Vial Región de Atacama 2006-2008 (Conservación Periódica, C-536, Carrizalillo-Los Lobitos, Km. 61,08000 al Km. 74,17618, Provincia de Huasco, Región de Atacama" y se acordó el valor de indemnización con la SOCIEDAD AGRÍCOLA Y COMERCIAL KONAVLE LIMITADA, ascendente a la cantidad de $54.635.880. para los lotes Nos 8, 9 y 10.
+
+Fiscal del Ministerio de Obras Públicas.
