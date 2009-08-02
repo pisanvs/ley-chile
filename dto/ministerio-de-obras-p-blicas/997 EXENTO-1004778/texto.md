@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 997, de 30 de junio de 2009, se expropió el lote de terreno N° 1, superficie 1.221,78 m2, Rol N° 314-79, comuna de Pitrufquén, IX Región, para la obra "Regadío Faja Maisan, Red Terciaria, Sector Huallizada, Canal FM3-6D" y se acordó el valor de indemnización con su propietario Juan Millanca Burgos, ascendente a la cantidad de $4.327.618.-
+
+Fiscal del Ministerio de Obras Públicas.
