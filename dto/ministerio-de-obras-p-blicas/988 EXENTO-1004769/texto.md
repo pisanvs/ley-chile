@@ -1,0 +1,3 @@
+Por decreto MOP Exento N° 988 de fecha 30 de junio de 2009, se expropió el lote de terreno Nº. 1, superficie 1.443 m²., Rol Nº 104-18, comuna de Peralillo, VI Región, para la obra "CONSTRUCCION PUENTE CALLEUQUE EN RUTA I-340 PERALILLO (KM: 10,92000 a Km. 11,22000)" y se acordó el valor de indemnización con su propietario ELÍAS RAMÓN ANIBAL VALDES URRUTIA, ascendente a la cantidad de $6.775.026.-
+
+Fiscal del Ministerio de Obras Públicas.
