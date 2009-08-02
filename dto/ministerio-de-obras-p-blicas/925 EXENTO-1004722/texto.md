@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 925, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 5, superficie 212 m2, Rol N° 351-44, comuna de Villarrica, IX Región para la obra "obra "Camino Ruta S-69, Sector Pedregoso Villarrica Tramo Km. 25,80000 al Km. 38,52500." y se acordó el valor de indemnización con su propietario CORNELIO DEL TRANSITO QUEZADA RIQUELME, ascendente a la cantidad de $441.256.-
+
+Fiscal del Ministerio de Obras Públicas.
