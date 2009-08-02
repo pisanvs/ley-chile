@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 998, de 30 de junio de 2009, se expropió el lote de terreno N° 5, superficie 327 m2, Rol N° 381-104, comuna de Pitrufquén, IX Región para la obra "Diseño Definitvo de la Red Secundaria y Terciaria de Canales de Riego Proyecto de Faja Maisan" Obra "Canal Quinque, Derivado 7" Comuna de Pitrufquén, Provincia de Cautín, IX Región, y se acordó el valor de indemnización con su propietaria Nelly del Carmen Arzola Marican, ascendente a la cantidad de $258.860.-
+
+Fiscal del Ministerio de Obras Públicas.
