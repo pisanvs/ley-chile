@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 912, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 23, superficie 63 m2, Rol N° 18-28, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietario RAMON ERNESTO VALDIVIA SANTANDER, ascendente a la cantidad de $549.501.-
+
+Fiscal del Ministerio de Obras Públicas.
