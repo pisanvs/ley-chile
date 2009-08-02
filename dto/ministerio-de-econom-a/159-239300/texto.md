@@ -70,9 +70,7 @@ IV En representación de las organizaciones gremiales del Sector Laboral:
 
 1. En representación de las Organizaciones Gremiales de Oficiales de Naves Especiales:
 
-a) D. Sergio Alfonso Pizarro Araya, RUT
-
-Nº10.262.384-3, en calidad de titular.
+a) DEJA SIN EFECTO.
 
 b) D. Alfredo Fernando Gary Delgado, RUT
 
