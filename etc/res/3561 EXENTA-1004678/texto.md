@@ -1,0 +1,5 @@
+DERECHOS DE AGUA EN COMUNA DE CABILDO
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 3.561, del 3 de julio de 2009, conforme artículo 5° transitorio Código Aguas, complementó resolución exenta Nº 17, de 4 de enero de 2006, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de parte del Proyecto de Parcelación "Los Molinos", de la comuna de Cabildo, Región de Valparaíso, en el sentido de aprobar la distribución de los Derechos de Agua conducidos por el canal El Peumo o del Alto, derivado del río La Ligua, entre las diferentes unidades del proyecto, con la equivalencia que se indica expresada en unidad de volumen por unidad de tiempo, y que dichos derechos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º, ley Nº 18.377.- Director Nacional.
