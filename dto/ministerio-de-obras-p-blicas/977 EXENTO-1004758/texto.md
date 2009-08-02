@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°977 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 16, superficie 122 m², Rol N° 192-21, comuna de Arauco, VIII Región para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapie, tramo Km. 0,00000 al Km. 6,52000, Región del Bío - Bío", y se acordó el valor de indemnización con su propietario JOSÉ APARICIO SÁEZ GALLEGOS, ascendente a la cantidad de $1.315.948.- para el lote N°16.-
+
+Fiscal del Ministerio de Obras Públicas.
