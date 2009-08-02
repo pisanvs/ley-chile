@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 978, de 30 de junio de 2009, se expropió el lote de terreno N° 2-A, superficie 1.109 m2, Rol de avalúo 20-20, comuna de Chonchi, para la obra "Construcción By Pass Chonchi Extensión calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región", y se acordó el valor de la indemnización con su propietario Carlos Sahr Diaz y Otros, ascendente a la cantidad de $156.721.563.-
+
+Fiscal del Ministerio de Obras Públicas.
