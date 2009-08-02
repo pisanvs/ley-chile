@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N°957 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 4, superficie 167 m2, rol N° 538-58, comuna de Combarbalá, para la obra "Camino Los Llanos - La Cuadra, 64E699, Sector Km. 0,00000 a Km. 1,97000", IV Región y se acordó el valor de la indemnización con su propietaria BERTA REGINA CORTÉS BRUNA, ascendente a la cantidad de $774.960.-
+
+Fiscal del Ministerio de Obras Públicas.
