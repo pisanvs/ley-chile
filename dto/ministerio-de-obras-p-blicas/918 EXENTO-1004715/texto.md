@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°918, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 4, superficie 671 m2, Rol N° 1439-152, comuna de Puerto Varas, X Región para la obra "Reposición Ruta 225 CH, Sector Puerto Varas Ensenada X Región, Tramo Km. 0,00000 al Km. 10,16000.", y se acordó el valor de indemnización con su propietario INMOBILIARIA ALTOS DEL LLANQUIHUE LTDA, ascendente a la cantidad de $4.879.155.-
+
+Fiscal del Ministerio de Obras Públicas.
