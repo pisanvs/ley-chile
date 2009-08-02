@@ -2384,7 +2384,7 @@ Además de las causales de implicancia o recusación de los jueces, que serán a
 
 Los abogados o procuradores de las partes podrán, por medio del relator de la causa, recusar sin expresión de causa a uno de los abogados de la lista, no pudiendo ejercer este derecho sino respecto de dos miembros, aunque sea mayor el número de partes litigantes. Esta recusación deberá hacerse antes de comenzar la audiencia en que va a verse la causa, cuando se trate de abogados que hayan figurado en el acta de instalación del respectivo Tribunal, o en el momento de la notificación a que se refiere el artículo 166 del Código de Procedimiento Civil en los demás casos.
 
-Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 5.600 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 4.200 pesos.
+Para recusar a un abogado integrante de la Corte Suprema deberá pagarse en estampillas un impuesto de $ 6.000 pesos, y para recusar a un abogado integrante de la Corte de Apelaciones, uno de $ 4.500 pesos.
 
 #### Artículo 199
 
@@ -5742,7 +5742,7 @@ Si el litigante pobre obtuviere en el juicio, será obligado a destinar una déc
 
 #### Artículo 595
 
-Corresponde a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda gratuitamente las causas civiles y otro que defienda las causas del trabajo de las personas que hubieren obtenido o debieran gozar del mencionado privilegio. Con todo, cuando las necesidades lo requieran, y el número de abogados en ejercicio lo permita, la Corte de Apelaciones respectiva podrá disponer que los jueces de letras designen dos o más abogados en cada turno, estableciendo la forma en que se deban distribuir las causas entre los abogados designados.
+Corresponde a los jueces de letras designar cada mes y por turno, entre los no exentos, un abogado que defienda las causas civiles y otro que defienda las causas del trabajo de las personas que hubieren obtenido o debieran gozar del mencionado privilegio. Con todo, cuando las necesidades lo requieran, y el número de abogados en ejercicio lo permita, la Corte de Apelaciones respectiva podrá disponer que los jueces de letras designen dos o más abogados en cada turno, estableciendo la forma en que se deban distribuir las causas entre los abogados designados.
 
 En la misma forma y para los mismos fines harán los jueces de letras a quienes se refiere el inciso precedente, las correspondientes designaciones de procuradores y receptores.
 
@@ -5751,6 +5751,8 @@ Cuando alguna persona que goce del privilegio de pobreza no pueda ser servida po
 En las comunas o agrupaciones de comunas en donde hubiere dos o más jueces de letras, hará las designaciones generales prevenidas en los dos primeros incisos de este artículo, el más antiguo, y las especiales del inciso precedente el que conociere del negocio en que han de aplicarse.
 
 Las designaciones generales de abogados, procuradores y receptores de turno deberán hacerse por las Cortes de Apelaciones para el territorio jurisdiccional en que éstas tengan su residencia.
+
+> **Nota.** La Sentencia S/Nº, Tribunal Constitucional, publicada el 01.08.2009, declaró inconstitucional la palabra "gratuitamente", entiendiendose derogada a partir de su publicación. La citada derogación se ha incorporado al presente texto actualizado.
 
 #### Artículo 596
 
