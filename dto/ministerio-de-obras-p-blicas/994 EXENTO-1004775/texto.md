@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 994, de 30 de junio de 2009, se expropió el lote de terreno N° 2, superficie 1.440 m2, Rol N° 387-16, comuna de Pitrufquén, IX Región, para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan" Obra: "Canal Nueva Etruria A." y se acordó el valor de indemnización con su propietario Juan Bautista Segundo Muñoz Mardones, ascendente a la cantidad de $1.020.972.-
+
+Fiscal del Ministerio de Obras Públicas.
