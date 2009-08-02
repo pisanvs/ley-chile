@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°983 de fecha 30 de junio de 2009, se expropiaron el lote de terreno N° 69, superficie 241 m², Rol N° 223-146, comuna de Cañete, VIII Región para la obra "Mejoramiento Ruta P-560, Sector Cañete - Cayucupil, Tramo Km. 0,00000 a Km. 12,80844", y se acordó el valor de indemnización con su propietaria ELBA CHANQUEO HUENUAN, ascendente a la cantidad de $154.288. para el lote N°69.-
+
+Fiscal del Ministerio de Obras Públicas.
