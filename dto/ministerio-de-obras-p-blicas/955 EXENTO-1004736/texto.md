@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N°955 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 3, superficie 3.647 m2, rol N° 103-31, comuna de Peralillo, para la obra "Construcción Puente Calleuque en Ruta 1-340 Peralillo, Km. 10,92000 a Km. 11,22000, Sexta Región y se acordó el valor de la indemnización con su propietario ALBERTO TAGLE DARTNELL, ascendente a la cantidad de $8.801.993.-
+
+Fiscal del Ministerio de Obras Públicas.
