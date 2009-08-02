@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°973 de fecha 30 de junio de 2009, se expropiaron los lotes de terreno N°s 67 y 69, superficies 92 y 39 m², Rol N° 155-307, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3.56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria MARÍA CRISTINA ROJAS ROJAS, ascendente a la cantidad de $1.173.372.- para los lotes N°s. 67 y 69.-
+
+Fiscal del Ministerio de Obras Públicas.
