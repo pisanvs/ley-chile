@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 972 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 4, superficie 497 m2, Rol N° 351-43, comuna de Villarrica, IX Región para la obra "Camino Ruta S-69, Sector Pedregoso - Villarrica Tramo Km. 25,80000 a Km. 38,52500, Comuna de Villarrica, Provincia de Cautín, IX Región" y se acordó el valor de indemnización con su propietario FLORENCIO DEL CARMEN SEPÚLVEDA JARA, ascendente a la cantidad de $686.609.- para el lote N°4.-
+
+Fiscal del Ministerio de Obras Públicas.
