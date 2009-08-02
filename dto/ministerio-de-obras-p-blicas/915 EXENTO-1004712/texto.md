@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N°915, de fecha 23 de junio del 2009, se expropió el lote de terreno N° 44, superficie 111 m2, Rol N° 58-152, comuna de Romeral, VII Región para la obra "Camino Ruta J-55 Guaico 3 P. Vergara, Sector Guaico 3 La Unión, Tramo Km. 0,00000 al Km. 7,60000, VII Región.", y se acordó el valor de indemnización con su propietario JOSE ALFREDO CORNEJO BRIONES, ascendente a la cantidad de $545.646.-
+
+Fiscal del Ministerio de Obras Públicas.
