@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N°959 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 24, superficie 2.367 m2, rol N° 48-1, comuna de Chépica, para la obra "Mejoramiento Camino Chimbarongo - Chépica II, sector Convento Viejo - Auquinco, tramo Km. 0,00000 al Km. 7,75554, sexta Región" y se acordó el valor de la indemnización con su propietario MIGUEL ÓSCAR HINOJOSA FUENTES, ascendente a la cantidad de $5.950.849.-
+
+Fiscal del Ministerio de Obras Públicas.
