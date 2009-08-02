@@ -1,0 +1,3 @@
+Por decreto (Exento) MOP N°984 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 6, superficie 663 m², Rol N° 215-25, comuna de Cañete, VIII Región para la obra "Reposición 9 Puentes Menores Emergencia año 2006, VIII Región, Sector Puentes Licauquen 1 y 2", y se acordó el valor de indemnización con su propietario FLAVIO ANSELMO TOLEDO CAMPOS, ascendente a la cantidad de $637.855.- para el lote N°6.-
+
+Fiscal del Ministerio de Obras Públicas.
