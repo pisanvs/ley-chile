@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°961 de fecha 30 de junio de 2009, se expropió el lote de terreno N° 8, superficie 74 m2, rol N° 1189-58, comuna de Arauco, para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapie, Tramo Km. 0,00000 a Km. 6,52000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Rosamelia Mendoza Valdebenito, ascendente a la cantidad de $1.477.034.-
+
+Fiscal del Ministerio de Obras Públicas.
