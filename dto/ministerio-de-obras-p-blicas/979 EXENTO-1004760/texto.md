@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N°979 de fecha 30 de junio de 2009, se expropió el lote de terreno N°44, superficie 53 m2, Rol N°70-110, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietario MODESTO DEL TRÁNSITO ESPEJO RIVERA, ascendente a la cantidad de $228.888.-
+
+Fiscal del Ministerio de Obras Públicas.
