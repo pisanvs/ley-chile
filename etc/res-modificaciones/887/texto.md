@@ -1,6 +1,6 @@
 MODIFICA Y AUTORIZA TRANSFERENCIA DE CONCESIÓN DE ACUICULTURA
 
-Mediante resolución 887, de 9 de marzo de 2009, del Ministerio de Defensa Nacional, Subsecretaría de Marina se resolvió:
+Mediante resolución 887, de 9 de abril de 2009, del Ministerio de Defensa Nacional, Subsecretaría de Marina se resolvió:
 
 1.- Modifícase la resolución Nº1.194, de 16 de mayo de 2002, en el siguiente sentido:
 
