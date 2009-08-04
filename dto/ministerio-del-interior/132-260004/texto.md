@@ -158,27 +158,29 @@ Estímulo a la Eficiencia
 
 La distribución, entre las regiones, del cinco por ciento por Estímulo a la Eficiencia se calculará en base a los aspectos, indicadores y ponderaciones siguientes:
 
-1.- Aspecto Mejoramiento de la Salud
+1. Aspecto Mejoramiento de la Salud
 
-Número Indicador Ponderación en
+Ponderación en puntaje
 
-(i) puntaje de
+Número Indicador de eficiencia regional
 
-eficiencia
+1 Variación de
 
-regional (Pi)
+la Actividad de
 
-1 Variación de la Actividad de
+Atención Primaria 25%
 
-Atención Primaria de Salud (IAAPS) 14%
+de Salud (IAAPS)
 
-2 Variación de la Actividad de
+2 Variación de los
 
-Salud Pública (IASP) 13%
+Años de Vida
 
-3 Variación de los Años de Vida
+Potencialmente 15%
 
-Potencialmente Perdidos (AVPP) 13%
+Perdidos (AVPP)
+
+Los indicadores números 4, 5 y 6 del Nº 2 denominado “Aspecto Mejoramiento de la Educación” pasan a ser números 3, 4 y 5, y los indicadores números 7 y 8, del Nº 3 denominado “Aspecto Gestión de la Inversión Regional” pasan a ser números 6 y 7.
 
 2.- Aspecto Mejoramiento de la Educación
 
@@ -264,39 +266,7 @@ La operación mide el aumento o disminución en (t-1) de actividad de la región
 
 #### Artículo 19
 
-El IASP expresa la actividad en el ámbito de salud ambiental y su información es proporcionada anualmente por las respectivas Secretarías Regionales Ministeriales de Salud, contemplando los siguientes tipos de actividad:
-
-1. Prestaciones Generales.
-
-2. Saneamiento Básico.
-
-3. Control de Alimentos.
-
-4. Zoonosis.
-
-5. Contaminación Ambiental.
-
-6. Programa Vigilancia Calidad del Aire.
-
-7. Prestaciones de Laboratorio.
-
-El indicador de variación del IASP se calcula de la siguiente manera:
-
-r
-
-IAPS
-
-t-1
-
--------,
-
-r
-
-IAPS
-
-t-2
-
-La operación mide el aumento o disminución en (t-1) de actividad en el ámbito de salud ambiental de la región r respecto del año anterior (t-2).
+Derogado
 
 #### Artículo 20
 
@@ -330,7 +300,7 @@ El indicador Cobertura Preescolar Regional corresponde al cuociente entre el nú
 
 #### Artículo 23
 
-El indicador Inversión Destinada a la Enseñanza Técnico Profesional corresponde al cuociente entre el porcentaje del presupuesto regional asignado a iniciativas de inversión para educación técnico profesional y el presupuesto total asignado por la región para el Sector Educación, calculado con los datos correspondientes al año anterior al de la distribución. El dato definido en el numerador será proporcionado por el Ministerio de Planificación y la información del denominador estará disponible en la Subsecretaría de Desarrollo Regional y Administrativo.
+El indicador Inversión Destinada a la Enseñanza Técnico Profesional corresponde al cuociente entre el porcentaje del presupuesto regional asignado a iniciativas de inversión para educación técnico profesional y el presupuesto total asignado por la región para el Sector Educación, calculado con los datos correspondientes al año anterior al de la distribución. Los datos definidos en el numerador y denominador de este indicador estarán disponibles en la Subsecretaría de Desarrollo Regional y Administrativo.
 
 #### Artículo 24
 
@@ -358,35 +328,39 @@ La Subsecretaría de Desarrollo Regional y Administrativo, luego de calcular el 
 
 TABLA DE DISTRIBUCION
 
-Orden decreciente % Distribución del
+Orden decreciente en % Distribución del 5%
 
-en puntaje de eficiencia 5% de eficiencia
+puntaje de eficiencia de eficiencia
 
-1 20%
+1 15,0%
 
-2 17%
+2 13,0%
 
-3 15%
+3 11,5%
 
-4 13%
+4 10,5%
 
-5 10%
+5 9,5%
 
-6 7%
+6 8,5%
 
-7 4%
+7 7,5%
 
-8 3,5%
+8 6,5%
 
-9 3,0%
+9 5,5%
 
-10 2,5%
+10 4,0%
 
-11 2,0%
+11 3,0%
 
-12 1,5%
+12 2,0%
 
 13 1,5%
+
+14 1,0%
+
+15 1,0%
 
 En el caso que dos o más regiones hubieren obtenido idéntico puntaje se las ubicará igualmente en orden decreciente, percibiendo el promedio que resulte de la suma de los porcentajes que les correspondan de acuerdo a sus respectivas ubicaciones.
 
