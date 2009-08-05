@@ -46,7 +46,7 @@ Resuelvo:
 
 1º. Rechácese la solicitud de acceso a la información pública Folio Ak002P0000038, formulada por doña Helen del Pilar Gerber Contreras, individualizada en el Considerando 1º de la presente resolución.
 
-2º. Declárense reservados en su totalidad los domicilios consignados ante el Servicio, en virtud del artículo 21, número 1 letra c) de la ley Nº20.285, sobre Acceso a la Información Pública.
+2º. DEROGADO.
 
 Anótese, comuníquese y publíquese.- Christian Behm Sepúlveda, Director Nacional.
 
