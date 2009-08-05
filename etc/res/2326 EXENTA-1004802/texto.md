@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.326, de 2 de julio de 2009, de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº 14, modificada mediante resoluciones exentas Nº 334, Nº 559 y Nº 995, todas de 2009, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y seguimiento de la pesquería de Merluza del Sur (Merluccius australis) en la Región de Los Lagos, Subzona Patagonia", en el sentido de indicar que los límites de captura autorizados para la Subzona Patagonia, período enero-diciembre de 2009, expresados en toneladas, serán los siguientes:
+
+VER DIARIO OFICIAL DE 04.08.2009, PÁGINA 10.
+
+Valparaíso, 2 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaría de Pesca (S).
