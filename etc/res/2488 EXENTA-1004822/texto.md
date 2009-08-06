@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.488, de 15 de julio de 2009, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 1.219 de 2009, de esta Subsecretaría, que autorizó a la UNIVERSIDAD AUSTRAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado, "Monitoreo Biológico de la Pesquería Artesanal de Anchoveta y Sardina común, en la Región de Los Ríos, Otoño 2009", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 30 de septiembre de 2009, inclusive.
+
+Valparaíso, 15 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
