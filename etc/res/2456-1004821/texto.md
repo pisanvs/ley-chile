@@ -1,0 +1,7 @@
+Por resolución Nº 2.456 de 15 de julio de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 163 de 2009, de esta Subsecretaría y sus modificaciones posteriores, que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de Jurel en la IV Región, temporada 2009", en el sentido de incorporar el siguiente numeral 5 Bis.-:
+
+"5 Bis.- Sin perjuicio de lo dispuesto en el numeral anterior, las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación podrán extraer, con red de cerco, una cuota total de 1.500 toneladas del recurso Jurel Trachurus murphyi. Las capturas efectuadas se imputarán a la fracción autorizada para ser extraída con fines de investigación de la cuota global anual del recurso Jurel establecida mediante decreto exento Nº 1.675 de 2008, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores.
+
+Los excesos en que se incurra respecto de la cuota autorizada en el párrafo primero se imputarán a la cuota global anual de captura del recurso Jurel asignada a la IV Región para el período noviembre-diciembre de 2009, establecida conforme al decreto exento Nº 1.675 de 2008, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores."
+
+Valparaíso, 15 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
