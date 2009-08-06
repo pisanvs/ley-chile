@@ -38,6 +38,8 @@ Los propietarios y/o arrendatarios de locales de expendio de bebidas y/o comidas
 
 El permiso lo otorgará el Alcalde, mediante decreto alcaldicio, previo informe de la Dirección de Obras Municipales.
 
+El decreto alcaldicio será notificado al beneficiario por el Departamento de Rentas dependiente de la Dirección de Administración y Finanzas. En este caso se levantará acta del estado del Bien Nacional de Uso Público que se autoriza ocupar, debiendo firmar el acta el beneficiario en señal de conocimiento y de aceptación.
+
 #### Artículo 5º
 
 <!-- parte:6348746 -->
@@ -113,6 +115,12 @@ Será causal de término del permiso, el incumplimiento reiterado, más de 3 vec
 <!-- parte:6348755 -->
 
 Extinguido el permiso, el beneficiario deberá restituir de inmediato al uso público el bien nacional de uso público que se había autorizado ocupar.
+
+#### Artículo 15
+
+<!-- parte:8763363 -->
+
+Artículo Nº 15: Corresponderá al Departamento de Rentas Municipales dependiente de la Dirección de Administración y Finanzas y a la Dirección de Protección Civil y Seguridad Vecinal supervigilar el cumplimiento de esta Ordenanza y el cuidado y mantención del Bien Nacional de Uso Público autorizado a ocupar.
 
 Anótese, comuníquese, publíquese en el Diario Oficial y en extracto en el diario El Mercurio y archívese.- Cristián Labbé Galilea, Alcalde.- Josefina García Trías, Secretario Abogado Municipal.
 
