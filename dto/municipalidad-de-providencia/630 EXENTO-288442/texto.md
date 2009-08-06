@@ -178,15 +178,37 @@ Las mediciones podrán ser revisadas por la Inspección del Departamento de Aseo
 
 El conjunto de mediciones permitirá establecer el promedio de volumen diario entregado al camión recolector.
 
-El excedente de basura o volumen de exceso (VE) y su valor esta rá expresado en UTM en litros/días/mes en la Ordenanza de Derechos Municipales.
+El excedente de basura o volumen de exceso (VE) y su valor estará expresado en UTM en litros/días/mes en la Ordenanza de Derechos Municipales.-
 
-VER DIARIO OFICIAL DE 28.03.2009 PAGINA 10
+Volumen de Exceso (VE)
+
+a) Frecuencia diaria
+
+VER DIARIO OFICIAL DE 05.08.2009, PÁGINA 5.
 
 Donde Mi - 60 (litros) es el valor registrado, en litros de basura, del excedente del usuario de frecuencia diaria del servicio, en la i-ésima medición realizada.
 
-VER DIARIO OFICIAL DE 28.03.2009 PAGINA 10
+b) Frecuencia día por medio
+
+VER DIARIO OFICIAL DE 05.08.2009, PÁGINA 5.
 
 Donde Mi /2 - 60 (litros) es el valor registrado, en litros de basura, del excedente del usuario de frecuencia día por medio del servicio, en la i-ésima medición realizada.
+
+Para calcular el valor monetario específico de una unidad predial generadora, se multiplicará el volumen de exceso por el valor unitario del litro/día/mes definido en la Ordenanza de Derechos Municipales, expresado en UTM según la categoría tarifaria correspondiente y luego por el valor oficial en pesos ($) equivalente a la UTM del mes anterior al vencimiento, finalmente se multiplicará por el número de meses de funcionamiento en el año (M) y se procederá a dividirlo por dos.
+
+Valor Semestral (VS)= VE x F x UTM X M/2
+
+VS =Valor semestral del excedente de basura
+
+VE =Volumen Excedente (litros/día)
+
+F =Tarifa litro/día/mes expresada en UTM
+
+UTM =Valor UTM en pesos ($)
+
+M =Número de meses de funcionamiento en el
+
+año.
 
 #### Artículo 23º
 
