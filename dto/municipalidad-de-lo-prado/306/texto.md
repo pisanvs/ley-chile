@@ -116,17 +116,17 @@ La Municipalidad, a través de la Dirección de Administración y Finanzas y Tes
 
 En los convenios de pago será la Dirección de Administración y Finanzas la que establecerá las facilidades de pago otorgadas al contribuyente moroso, correspondiéndole además determinar las condiciones de cada Convenio de Pago, considerando las siguientes pautas:
 
-1. La obligatoriedad del pago al contado de a lo menos el 20% de la deuda.
+1. La obligatoriedad de pago al contado de un 10% de la deuda.
 
 2. La periodicidad de las cuotas será fijada atendiendo al monto de la deuda y su naturaleza.
 
-3. El número de las cuotas será fijado de acuerdo a las posibilidades de pago del contribuyente, pero en ningún caso su número podrá exceder de doce, ni éstas ser inferior al 50% de una U.T.M.
+3. El número de las cuotas será fijado de acuerdo a las posibilidades de pago del contribuyente, pero en ningún caso su número podrá exceder de doce.
 
 4. Tratándose de contribuciones que se adeuden por concepto permisos de circulación, las facilidades de pago en ningún caso pueden exceder la fecha de vencimiento del próximo período ordinario de renovación.
 
 5. Procurar establecer las condiciones que resulten más convenientes al interés municipal.
 
-6. Para situaciones generales, independientemente del monto de la deuda, deberá pagarse el 20% al contado al momento de suscribirse un convenio, y el saldo se dividirá en cuotas de igual monto, cuotas que en ningún caso podrán exceder de 12.
+6. Para situaciones especiales el Director de Administración y Finanzas podrá aceptar un monto inferior al contado, previo informe social.
 
 #### Artículo 16
 
@@ -205,5 +205,13 @@ Vigencia
 #### Artículo 27
 
 La presente Ordenanza comenzará a regir a contar de la fecha de publicación del presente decreto en el Diario Oficial.
+
+#### Artículo Transitorio
+
+Las personas que tengan deudas atrasadas por un año o más por concepto de derechos, patentes y contribuciones morosas, podrán regularizar su situación ante la Dirección de Administración y Finanzas y solicitar suscribir un convenio de pago para ponerse al día, lo que podrán efectuar hasta el 30 de septiembre del presente año.
+
+En el evento que tuvieran un convenio de pago vigente, esté o no al día, podrán reliquidar su deuda ante la Dirección de Administración y Finanzas y suscribir convenio por la totalidad adeudada en las condiciones que resulten más ventajosas que determine el Director de Administración y Finanzas especialmente para este efecto.
+
+Lo anterior no se aplicará por concepto de deudas provenientes de permisos de circulación por existir norma legal expresa sobre esta materia.
 
 Anótese, publíquese, comuníquese y archívese.- L. Gonzalo Navarrete Muñoz, alcalde.- Georgina Villarroel Báez, secretaria municipal.
