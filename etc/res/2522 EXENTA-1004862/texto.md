@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.522, de 23 de julio de 2009, de esta Subsecretaría, autorízase a KAY RUTH DÍAZ GONZÁLEZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Ruta 5 Norte, kilómetro 668, Vallenar, III Región, para elaborar en línea de proceso Alga seca y Picado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
