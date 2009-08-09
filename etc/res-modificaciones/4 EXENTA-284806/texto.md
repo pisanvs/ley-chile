@@ -10,7 +10,7 @@ a) En don J. H. Timoschenko Giliberto Yagnam, profesional, ingeniero agrónomo, 
 
 b) En don Raúl Hernán Bastidas Solís, profesional, médico veterinario, grado 8 EUS titular, RUT Nº 6.664.612-2, respecto de las materias que se originen en el territorio de las Provincias Llanquihue y Palena.
 
-c) En don Oscar Alberto Neumann Alvarado, profesional, médico veterinario, grado 13 EUS titular, RUT Nº 6.463.853-K, respecto de las materias que se originen en el territorio de la Provincia de Chiloé.
+c) En don Cristian Andrés Araneda González, profesional, médico veterinario, grado 7 EUS., contratado, RUT Nº 13.057.395-9 respecto de las materias que se originen en el territorio jurisdiccional de la Provincia de Chiloé.
 
 2.- Compleméntese en el Número 1 Párrafo 'En el orden sanitario y medio ambiental', de la mencionada resolución exenta Nº 0004 de 2005, en cuanto se otorgan nuevas facultades a los Jefes de las Oficinas Provinciales ya individualizados y al Delegado Provincial Llanquihue-Palena, y dichas materias son:
 
