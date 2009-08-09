@@ -58,7 +58,7 @@ El almacenamiento de asbesto, como materia prima, deberá hacerse en forma tal q
 
 #### Artículo 9º
 
-Las actividades de demolición, desmantelamiento o modificación relacionadas con edificaciones, equipos, instalaciones o maquinarias que tuvieran fibras de asbesto friable, requerirán de autorización previa de la autoridad sanitaria correspondiente. Para su obtención el dueño de las edificaciones, maquinarias, equipos o instalaciones deberá presentar un plan de trabajo en el que se prevean las medidas que se adoptarán para proteger la salud de los trabajadores y de la población aledaña.
+Las actividades relacionadas con edificaciones, equipos, instalaciones o maquinarias que tuvieren aislante de fibras de asbesto friable, tales como demolición, desmantelamiento o modificación de éstos, requerirán de autorización previa de la autoridad sanitaria competente. Para su obtención el dueño de las edificaciones, maquinarias, equipos o instalaciones deberá presentar un plan de trabajo en el que se prevean las medidas que se adoptarán para proteger la salud de los trabajadores y de la población aledaña.
 
 Deberá siempre solicitarse la autorización señalada, si durante el desarrollo de alguna de las actividades referidas se encuentra asbesto friable del que no se hubiere tenido conocimiento al inicio de las obras, paralizando las mismas hasta la obtención de dicho permiso.
 
