@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.629, de 4 de agosto de 2009, de esta Subsecretaría, recházase la solicitud C.I. Nº 1275 de 2004, presentada por AGROINDUSTRIAL SANTA CRUZ S.A., para modificar la concesión de acuicultura ubicada al este de Punta Larga, Península Guapilacui, X Región, otorgada por resolución Nº 1.625, de 2002, de la Subsecretaría de Marina.
+
+Valparaíso, 4 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
