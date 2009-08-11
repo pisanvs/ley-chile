@@ -430,6 +430,10 @@ Se podrá conformar una lista de espera con los participantes no seleccionados a
 
 Para los efectos del programa de formación, el Director de la Academia requerirá periódicamente al Ministerio de Justicia, a la Corporación Administrativa del Poder Judicial o a la Oficina del Escalafón de la Corte Suprema, un informe acerca del número de vacantes que existan en el Escalafón Primario del Poder Judicial.
 
+#### Artículo 36º bis
+
+Para los efectos de lo dispuesto en los incisos cuarto y quinto del artículo 10 de la Ley Nº 19.346, la obligación de postular a cargos del Escalafón Primario del Poder Judicial se entenderá cumplida si el egresado del respectivo Programa de Formación postula a lo menos a tres concursos del Escalafón Primario del Poder Judicial. Al menos una de dichas postulaciones deberá ser a un cargo de Sexta o Séptima Categoría. El cumplimiento de la obligación deberá ser acreditada mediante la entrega a la Academia del documento debidamente certificado por la Corte de Apelaciones respectiva en que conste la oposición al concurso.
+
 ## Título VI
 
 Del programa de habilitación para Ministros de Corte
