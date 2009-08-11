@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGION DE LA ARAUCANÍA A LA MUNICIPALIDAD DE ERCILLA
+
+Núm. 450 exento.- Santiago, 1 de julio de 2009.
+
+Mediante decreto exento N° 450, de 1 de julio de 2009, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Municipalidad de Ercilla, RUT 69.180.600-6, el inmueble fiscal ubicado en calle Aníbal Pinto N° 060, de la localidad de Pidima, que corresponde al Lote N° 1C, de la comuna de Ercilla, provincia de Malleco y Región de la Araucanía, Rol de Avalúo Fiscal N° 364-27, inscrito a nombre del Fisco, en mayor cabida, a fs. 449 vta. N° 510, del Registro de Propiedad de 1997, del Conservador de Bienes Raíces de Collipulli, singularizado en el plano N° IX-1-8041-C.U., de una superficie de 3.820,00 m², por un plazo de quince (15) años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión gratuita se otorga con el fin de destinar el predio fiscal para desarrollar un proyecto que consiste en la "Construcción, Habilitación y Funcionamiento de un Jardín Infantil conformado por una Sala Cuna con capacidad para 20 lactantes y un Nivel Medio para 32 párvulos, con financiamiento de la JUNJI". El contrato de concesión deberá suscribirse dentro del plazo de treinta (30) días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión.
+
+Anótese, regístrese en el Ministerio de Bienes Nacionales, notifíquese, publíquese en extracto en el Diario Oficial y archívese.- Por orden de la Presidenta de la República, Romy Schmidt Crnosija, Ministra de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Augusto Prado Sánchez, Subsecretario de Bienes Nacionales.
