@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.290, de 26 de junio de 2009, de esta Subsecretaría, autorízase a CARLOS ALEJANDRO MARIÑO DÍAZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Caleta Constitución s/n, Antofagasta, II Región, en la línea de proceso Alga Seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 26 de junio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
