@@ -22,7 +22,7 @@ Tendrán preferencia, al momento de postular, aquellos empleadores que contemple
 
 El empleador podrá optar a una contribución por el costo de capacitación de los trabajadores contratados con cargo a esta línea de hasta $50.000, por una sola vez, por cada trabajador, la cual en todo caso deberá ejecutarse en el período de 4 meses antes señalado.
 
-Para que la empresa reciba efectivamente esta bonificación, los trabajadores deberán tener la calidad de jefes de hogar.
+Esta bonificación será destinada preferentemente a trabajadores que tengan la calidad de jefes de hogar.
 
 No podrán acceder a este programa quienes perciban ingresos por pensiones de vejez de cualquier tipo, incluidas las derivadas de un sistema de previsión, lo anterior es sin perjuicio de las compatibilidades que la ley Nº20.255 establece; igualmente no será impedimento para acceder a este programa el ser beneficiario de las pensiones establecidas en la ley Nº19.123, modificada por la ley Nº19.980 y la ley Nº19.992.
 
