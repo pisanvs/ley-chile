@@ -1,0 +1,3 @@
+Por resolción exenta Nº2.661, de 5 de agosto de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº205104017 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, ALGUEROS, MARISCADORES, "La Esperanza", para instalar y operar un centro de cultivo ubicado en Estero Cholhue, Isla Guar, X Región.
+
+Valparaíso, 5 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
