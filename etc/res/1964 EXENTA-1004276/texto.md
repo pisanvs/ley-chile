@@ -1,4 +1,4 @@
-DISPONE LA SUPRESIÓN DE LA SUBOFICINA PRESIDENTE RÍOS DEL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, UBICADA EN EL HOSPITAL LAS HIGUERAS, OCTAVA REGIÓN DEL BÍO BÍO
+DISPONE LA SUPRESIÓN DE LA SUBOFICINA COMUNA DE TALCAHUANO DEL SERVICIO DE REGISTRO CIVIL E IDENTIFICACIÓN, UBICADA EN EL HOSPITAL LAS HIGUERAS, OCTAVA REGIÓN DEL BÍO BÍO
 
 Santiago, 1 de julio de 2009.- Hoy se resolvió lo que sigue:
 
@@ -6,7 +6,7 @@ Núm. 1.964 exenta.- Vistos: Lo preceptuado en el DFL Nº1/19.653 de 2000, que f
 
 Considerando:
 
-1.- Que el exiguo número de actuaciones que realiza la Suboficina de Registro Civil, abierta en el Hospital Las Higueras de Talcahuano, ubicado en la circunscripción de Presidente Ríos de la misma comuna, no representa un beneficio considerable para nuestros usuarios ni para este Servicio.
+1.- Que el exiguo número de actuaciones que realiza la Suboficina de Registro Civil, abierta en el Hospital Las Higueras de Talcahuano, ubicado en la circunscripción de Presidente Ríos, comuna de Talcahuano, no representa un beneficio considerable para nuestros usuarios ni para este Servicio.
 
 2.- Que la Oficina de Registro Civil e Identificación de Presidente Ríos se encuentra físicamente muy cercana al citado centro hospitalario.
 
@@ -16,7 +16,7 @@ Considerando:
 
 Resuelvo:
 
-1. Suprímese a contar del día 1º de julio de 2009, la Suboficina Presidente Ríos del Servicio de Registro Civil e Identificación que funciona en el Hospital Las Higueras, en la comuna de Presidente Ríos, Región del Bío Bío.
+1. Suprímese a contar del día 1º de julio de 2009, la Suboficina Presidente Ríos del Servicio de Registro Civil e Identificación que funciona en el Hospital Las Higueras, en la comuna de Talcahuano, Región del Bío Bío.
 
 2. Efectúese el traslado de los registros, documentos y demás antecedentes, de la Suboficina de Presidente Ríos a la Oficina de Registro Civil e Identificación de Presidente Ríos, debidamente inventariados, los que permanecerán bajo su custodia.
 
