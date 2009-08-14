@@ -18,6 +18,4 @@ ESTADÍSTICAS PUBLICADAS DEL BANCO CENTRAL DE CHILE
 
 (Artículo 53° de la Ley Orgánica Constitucional del Banco Central de Chile, en adelante, el "Banco Central")
 
-> **Nota.** El Acuerdo 1625, Banco Central de Chile, publicado el 03.08.2011, modifica el presente cuadro en el sentido reemplazar en la Sección III sobre Actividad Económica y Gasto por la que señala el referido Acuerdo.
-
 Santiago, 6 de agosto de 2009.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
