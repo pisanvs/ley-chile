@@ -76,7 +76,7 @@ El monto máximo del subsidio o cobertura de las operaciones será de hasta el 6
 
 Podrá otorgarse por lo tanto, cobertura a más de una operación por el mismo RUT de beneficiario mientras exista margen disponible, calculado conforme a las normas que establece este numeral, y mientras cada una de las coberturas otorgadas no superen el límite porcentual señalado o, en el conjunto de las coberturas, no se exceda el tope máximo de US$8.000.000.- antes indicado.
 
-Dicha Cobertura no incluirá intereses, ni gastos de cobranza, ni costas procesales o personales, ni comisiones.
+Dicha Cobertura no incluirá intereses, ni gastos de cobranza, ni costas procesales o personales, ni comisiones diferentes a la señalada en el número 8 de este Reglamento.
 
 El Intermediario participante que otorgue financiamientos acogidos a la Cobertura, deberá establecer los procedimientos internos que sean necesarios para verificar que estos recursos han sido destinados a los fines para los que fueron otorgados, conforme a lo establecido en el numeral 1º anterior.
 
