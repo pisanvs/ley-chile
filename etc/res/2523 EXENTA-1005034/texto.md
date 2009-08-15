@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.523, de 23 de julio de 2009, de esta Subsecretaría, autorízase a RAÚL MATÍAS SALAS DÍAZ, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector B de la Mina San Juan Uno al Cinco, Sierra Paposo, comuna de Taltal, II Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca.
