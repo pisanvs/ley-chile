@@ -32,6 +32,8 @@ Educación Media 13 de mayo 16 de mayo
 
 5 de agosto 8 de agosto
 
+4 de noviembre 7 de noviembre
+
 Anótese y publíquese.- Mónica Jiménez de la Jara, Ministra de Educación.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a usted, Cristián Martínez Ahumada, Subsecretario de Educación.
