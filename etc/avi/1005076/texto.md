@@ -1,0 +1,19 @@
+DISPONE EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICA
+
+La Ilustre Municipalidad de Los Ángeles, en base a Acuerdo Nº 1.090-08 del Concejo Municipal, adoptado con fecha 15 septiembre 2008, dispuso la expropiación parcial de inmuebles localizados Avenida Francisco Encina, individualizados en proyecto pavimentación aprobado por SERVIU denominado BB-1017 y BB-1018, "Construcción Pavimento Avenida Francisco Encina, Los Ángeles"; decreto alcaldicio Nº 397, de 19 marzo 2009, que nombra Comisión de Peritos, constitución de Comisión de Peritos de 14 abril 2009; Informe de Comisión de Peritos de 29 abril 2009; DL Nº 2.186, de 1978, Ley Orgánica de Procedimientos de Expropiaciones; y facultad que confiere ley Nº 18.695, Orgánica Constitucional de Municipalidades, cuyo texto refundido, coordinado, sistematizado y actualizado fue fijado mediante el DFL Nº 1-19.704, año 2002, dispuso expropiación parcial de siguientes propiedades localizadas en Avenida Francisco Encina, individualizadas en proyecto pavimentación aprobado por SERVIU denominado BB-1017 y BB-1018, "Construcción Pavimento Avenida Francisco Encina, Los Ángeles", comuna Los Ángeles, VIII Región, cuyos decretos alcaldicios expropiatorios, roles de avalúo, superficies, ubicación y montos provisionales de indemnización son: 1) Propiedad Rol Avalúo Nº 525-401: decreto alcaldicio Nº 1.117, del 29 de julio 2009, Alejandro Enrique Faure Lühr y otros, 1.297 mts², más edificación, Avenida Los Carrera 1420, Los Ángeles. Suma por consignar para indemnización provisional: $20.745.
+
+- **512.-** 2) Propiedad Rol Avalúo Nº 1535-74: decreto alcaldicio Nº1.118, del 29 de julio 2009, Héctor Raúl Soto Tillería, 222 mts², Quinta Santa Inés, Avenida Francisco Encina Nº 145, Los Ángeles. Suma por consignar para indemnización provisional: $3.342.
+
+- **079.-** 3) Propiedad Rol avalúo Nº 1535-75: decreto alcaldicio Nº 1.121, del 29 de julio 2009, Ximena del Pilar Echeverría Pezoa, 393 mts², Avenida Francisco Encina Nº 383, Los Ángeles. Suma por consignar para indemnización provisional: $4.347.
+
+- **104.-** 4) Propiedad Rol Avalúo Nº 1535-534: decreto alcaldicio Nº 1.123, del 29 de julio 2009, Sociedad de Transporte de Pasajeros Paillihue Avellano S.A., 193,30 mts², Avenida Francisco Encina Nº 1355, Los Ángeles. Suma por consignar para indemnización provisional: $2.084.
+
+- **028.-** 5) Propiedad Rol Avalúo Nº 1535-393: decreto alcaldicio Nº 1.124, del 29 de julio 2009, Abastible S.A., 650,95 mts², Panamericana Sur esquina Camino El Peral, Los Ángeles. Suma por consignar para indemnización provisional: $6.739.
+
+- **232.-** 6) Propiedad Rol avalúo Nº 1535-3: decreto alcaldicio Nº 1.125, de 29 de julio 2009, Sociedad Ana Barrueto Young y Cía. Ltda., 632,15 mts², Lo Raquel, Los Ángeles. Suma por consignar para indemnización provisional: $3.460.
+
+- **569.-** 7) Propiedad Rol Avalúo Nº 1535-285: decreto alcaldicio Nº 1.126, de 29 de julio 2009, María Cristina Umarán Barrueto, 210,73 mts², Parcela 23, Lo Raquel, Los Ángeles. Suma por consignar para indemnización provisional: $1.263.593. Las indemnizaciones señaladas se pagarán de contado, mediante vale vista emitido a nombre de quienes acrediten calidad de propietario de inmueble, en caso de que se suscriba una transacción respecto del valor fijado entre la entidad expropiante y expropiada que establecerá el monto de la indemnización, su forma y plazo de pago, o bien, mediante depósito en cuenta corriente del Tribunal competente, si no existiere acuerdo. La publicación se efectuará en cumplimiento dispuesto artículo 7 DL 2.186, de 1978.
+
+Nota: El abajo firmante certifica que el extracto es fiel a decretos alcaldicios ya mencionados.
+
+Los Ángeles, 30 de julio de 2009.- Juan Carlos Muñoz Gajardo, Alcalde (S).
