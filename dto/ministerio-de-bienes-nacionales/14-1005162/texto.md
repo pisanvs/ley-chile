@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE VALPARAÍSO A LA MUNICIPALIDAD DE ISLA DE PASCUA
+
+Mediante decreto supremo Nº 14, de 22 de enero de 2009, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Municipalidad de Isla de Pascua, RUT 69.061.800-1, el inmueble fiscal, ubicado en Avenida Hotu Matua s/Nº, Sector Kai Rautu, de la comuna y provincia de Isla de Pascua, Región de Valparaíso, inscrito a nombre del Fisco, en mayor cabida, a fs. 1 Nº 1, del Registro de Propiedad de 1966, del Conservador de Bienes Raíces de Isla de Pascua, singularizado en el plano Nº V-2-987-C.U., de una superficie de 4.010,00 m², por un plazo de diez (10) años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión gratuita se otorga con el fin de destinar eI predio fiscal exclusivamente para el funcionamiento de bodega, taller mecánico, corral municipal y estacionamiento de maquinaria pesada y vehículos que posee dicha corporación, debiendo, en su calidad de administradora, encargarse de su habilitación, gestión, mantención y conservación, cumpliendo con las normativas ambientales vigentes que le sean aplicable, e implementando las medidas necesarias que aseguren un buen manejo ambiental para el objeto de la concesión, con la prohibición de subconcesionarlo en todo o parte.
+
+El decreto con su texto completo se encuentra archivado en el Ministerio de Bienes Nacionales.
+
+Extracto autorizado por el Subsecretario de Bienes Nacionales, don Augusto Prado Sánchez.
