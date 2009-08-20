@@ -340,13 +340,13 @@ Se entenderá como continuadoras legales de los actuales clubes, fundaciones o c
 
 #### Artículo 43
 
-Las nuevas organizaciones que se creen con posterioridad a la entrada en vigencia de esta ley y que tengan por objeto organizar, producir, comercializar y participar en actividades deportivas profesionales, deberán necesaria y obligatoriamente constituirse como Sociedades Anónimas Deportivas Profesionales.
+Las nuevas organizaciones que se creen con posterioridad a la entrada en vigencia de esta ley y que tengan por objeto organizar, producir, comercializar y participar en actividades deportivas profesionales, deberán necesaria y obligatoriamente constituirse como organizaciones deportivas profesionales de acuerdo a lo que establece esta ley.
 
 DISPOSICIONES TRANSITORIAS
 
 #### Artículo 1º
 
-transitorio.- Las organizaciones deportivas que se encuentren participando actualmente en actividades o torneos deportivos profesionales, cualquiera sea la normativa bajo la cual se constituyeron, deberán adecuar sus estatutos a las normas de esta ley dentro del plazo de dieciocho meses contado desde la entrada en vigencia de la misma.
+transitorio.- Las organizaciones deportivas que se encuentren participando actualmente en actividades o torneos deportivos profesionales, cualquiera sea la normativa bajo la cual se constituyeron, deberán adecuar sus estatutos a las normas de esta ley dentro del plazo de cinco años contado desde la entrada en vigencia de la misma.
 
 Cualquiera sea la forma que adopten, deberán dar cuenta de ello al Instituto Nacional de Deportes de Chile y a la Superintendencia de Valores y Seguros. A partir de ese momento, quedarán sometidas a la fiscalización de la mencionada Superintendencia y del referido Instituto.
 
