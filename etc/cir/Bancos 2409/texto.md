@@ -10188,59 +10188,55 @@ PATRIMONIO PARA EFECTOS LEGALES Y REGLAMENTOS.
 
 ### I. CAPITAL BASICO, PATRIMONIO EFECTIVO Y LÍMITES LEGALES Y REGLAMENTARIOS
 
-1. Situación consolidada del banco con sus sucursales y sociedades filiales.
+### 1. Situación consolidada del banco
 
-Las normas relativas al capital básico y patrimonio efectivo a que se refiere el artículo 66 de la Ley General de Bancos, se cumplirán considerando los activos consolidados del banco con: a) sus filiales en el país, con excepción de las sociedades de apoyo al giro constituidas al amparo del artículo 74 de la Ley General de Bancos; y, b) sus sucursales o filiales establecidas en países clasificados en primera categoría de riesgo, según lo indicado en el Capítulo 1-12 de esta Recopilación, por alguna de las empresas clasificadoras internacionales que allí se mencionan.
+Las normas relativas al capital básico, patrimonio efectivo y ponderación de activos por riesgo, a que se refieren los artículos 66 y 67 de la Ley General de Bancos, se cumplirán considerando los estados financieros consolidados del banco.
 
-Los criterios de consolidación para estos efectos serán los mismos que deben utilizarse para la preparación de los estados financieros consolidados, con la diferencia de que se considerarán solo las entidades que se indican en el párrafo precedente.
+El monto del patrimonio efectivo consolidado deberá calcularse de acuerdo con lo indicado en el numeral 3.1 de este título. Dicho monto corresponderá al que debe considerarse para el cumplimiento de las disposiciones de la Ley General de Bancos que se refieren al "patrimonio efectivo", con excepción de las indicadas en el párrafo siguiente.
 
-También se tomarán los activos consolidados del banco con las filiales y sucursales que participan en la consolidación, cuando se trate de los límites de crédito establecidos en los N°s. 1, 2 y 4 del artículo 84 de la Ley General de Bancos y tratados en los Capítulos 12-3, 12-4 y 12-5 de esta Recopilación.
-
-Para los demás límites a que se refiere la Ley General de Bancos, deben computarse solamente las operaciones del banco, considerando el capital básico o el patrimonio efectivo, según corresponda, determinados también en la forma que se establece en este Capítulo, salvo que se trate del límite a que se refiere el N° 1 del artículo 80, en que se considerará el patrimonio efectivo sin consolidar.
+Cuando se trate de de los límites señalados en el artículo 65, en el N° 1 del artículo 80 y en el N° 5 del artículo 84, de la Ley General de Bancos, debe considerarse el patrimonio efectivo no consolidado a que se refiere el numeral 3-2.
 
 ### 2. Capital básico
 
-El "capital básico" corresponderá al importe neto que debe mostrarse en los estados financieros como "Patrimonio atribuible a tenedores patrimoniales" según lo indicado en el Compendio de Normas Contables.
+El "capital básico" corresponderá al importe neto que debe mostrarse en los estados financieros consolidados como "Patrimonio atribuible a tenedores patrimoniales" según lo indicado en el Compendio de Normas Contables. Al tratarse de un banco que no prepara estados financieros consolidados, corresponderá a la suma de las cuentas que conforman el rubro del patrimonio en el Estado de Situación Financiera.
 
-Para la aplicación del artículo 66 de la Ley General de Bancos, que exige un capital básico no inferior al 3% del activo total neto de provisiones exigidas, el monto de dicho activo se determinará de acuerdo con lo indicado en el N° 1 del título II de este Capítulo, debiendo considerarse los activos consolidados del banco con sus filiales y sucursales.
+Para la aplicación del artículo 66 de la Ley General de Bancos, que exige un capital básico no inferior al 3% del activo total neto de provisiones exigidas, el monto de dicho activo se determinará de acuerdo con lo indicado en el N° 1 del título II de este Capítulo.
 
-El capital básico antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren al capital básico o capital pagado y reservas.
+El capital básico antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren al "capital básico" o "capital pagado y reservas".
 
 ### 3. Patrimonio efectivo
 
-3.1. Determinación del patrimonio efectivo
-
-3.1.1. Agregados y deducciones al capital básico.
+3.1. Determinación del patrimonio efectivo.
 
 El patrimonio efectivo será igual al capital básico antes mencionado, con los agregados y deducciones que se indican a continuación:
 
-a) Se agregan los bonos subordinados emitidos por el banco que se computan como patrimonio efectivo, de acuerdo con lo indicado en el Capítulo 9-6 de esta Recopilación.
+a) Se agrega el monto de los bonos subordinados emitidos por el banco que se computan como patrimonio efectivo, de acuerdo con lo indicado en el Capítulo 9-6 de esta Recopilación.
 
-b) Se agregan las provisiones adicionales que el banco hubiera constituido según lo indicado en el N° 9 del Capítulo B-1 del Compendio de Normas Contables, hasta por un monto equivalente al 1,25 % de los activos ponderados por riesgo.
+b) Se agrega el monto las provisiones adicionales que el banco hubiera constituido según lo indicado en el N° 9 del Capítulo B-1 del Compendio de Normas Contables, hasta por un monto equivalente al 1,25 % de los activos ponderados por riesgo.
 
-c) Se deducen todos los activos que correspondan a "goodwill".
+c) Se deduce el monto de todos los activos que correspondan a "goodwill".
 
-d) Se deducen los activos que correspondan a inversiones en filiales o sucursales en el exterior que no participen en la consolidación.
+d) Cuando la suma de los activos correspondientes a inversiones minoritarias en sociedades distintas de empresas de apoyo al giro sea superior al 5% del capital básico, se deducirá la cantidad en que aquella suma exceda ese porcentaje.
 
-e) Cuando los activos por inversiones minoritarias en sociedades distintas de empresas de apoyo al giro representen un porcentaje importante del capital básico, se efectuará también la deducción que corresponda según lo dispuesto en el numeral 3.1.2 siguiente.
+e) Se agrega el monto correspondiente al "Patrimonio atribuible a interés minoritario" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
 
-Los activos que se mencionan en las letras precedentes serán los activos consolidados a que se refiere el N° 1 de este título. Al respecto debe tenerse presente que el interés minoritario que se origina en esa consolidación no se computa como patrimonio efectivo.
+En concordancia con lo indicado en la letra d), para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, se clasificarán en categoría 5 los activos que correspondan a inversiones minoritarias en sociedades de apoyo al giro, como asimismo el monto de las inversiones minoritarias en otras sociedades hasta un tope de el 5% del capital básico.
 
-3.1.2. Tratamiento de inversiones minoritarias en sociedades.
+3.2. Aplicación del patrimonio no consolidado.
 
-Para establecer la magnitud de los activos correspondientes a inversiones en sociedades que pueden dar origen a una deducción, se sumarán los correspondientes a las inversiones minoritarias en sociedades distintas de las empresas de apoyo al giro.
+Cuando se trate de los límites aludidos en el tercer párrafo del N° 1 de este título, el patrimonio efectivo se calculará también a partir del capital básico definido en el N° 1 de estas normas, con los siguientes agregados y deducciones:
 
-Si esa suma supera el equivalente al 5% del capital básico, se estará en la situación prevista en la letra e) del numeral precedente, caso en el cual la deducción corresponderá a la cantidad en que aquella suma exceda ese 5%.
+i) Se agregan los mismos montos que se indican en las letras
 
-3.1.3. Inversiones en sociedades que se ponderan en categoría 5.
+- **a)** y
 
-En concordancia con lo anterior, se clasificarán en categoría 5 para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, los activos que correspondan a inversiones en sociedades de apoyo al giro, cualquiera sea la participación que se tenga en ellas, como asimismo el monto de las inversiones minoritarias en otras sociedades que no exceda el 5% del capital básico, de acuerdo con lo indicado en el numeral 3.1.2 precedente.
+- **b)** del numeral 3.1 precedente y se deducen los montos de los activos del banco que correspondan a los conceptos indicados en las letras
 
-3.2. Aplicación del patrimonio efectivo.
+- **c)** y
 
-Para los efectos del artículo 66 de la Ley General de Bancos, que exige un patrimonio efectivo no inferior al 8% de los activos ponderados por riesgo, como asimismo para las demás disposiciones que se refieren a la relación porcentual entre patrimonio efectivo y activos ponderados, los activos se clasificarán de acuerdo con lo indicado en el N° 2 del título II de este Capítulo, debiendo considerarse los activos consolidados del banco con sus filiales y sucursales, cuando corresponda, según lo previsto en el N° 1 de este título.
+- **d)** de ese numeral.
 
-El patrimonio efectivo antes definido se aplicará para todos los límites establecidos en la Ley General de Bancos que se refieren a ese concepto, con excepción del límite tratado en el N° 1 de su artículo 80, debiendo considerarse los activos consolidados cuando se trate de los márgenes de crédito a que se refieren los N°s. 1, 2 y 4 de su artículo 84.
+ii) Se deducen los montos de los activos del banco que correspondan a las inversiones en las sociedades que participan en la consolidación de los estados financieros consolidados.
 
 ### 4. Reparto de dividendos o remesas de utilidades
 
@@ -10254,13 +10250,11 @@ Si bien las agencias de bancos extranjeros no reparten dividendos, dichas instit
 
 ### 1. Activo total
 
-El activo total corresponderá a los activos consolidados del banco con sus filiales y sucursales que participan en la consolidación según lo indicado en el N° 1 del título I de este Capítulo, con las deducciones o agregados que se indican a continuación:
+El activo total corresponderá a los activos consolidados del banco según lo indicado en el N° 1 del título I de este Capítulo (o bien a los activos del banco cuando éste no prepara estados financieros consolidados), con las deducciones o agregados que se indican a continuación:
 
 a) Se agregan los equivalentes de crédito de los instrumentos derivados según lo instruido en el N° 3 de este título y se deducen los activos correspondientes a estos instrumentos.
 
 b) Se agregan los montos correspondientes a las exposiciones de los créditos contingentes, calculados según lo indicado en el Capítulo B-3 del Compendio de Normas Contables, menos los importes de las provisiones constituidas sobre esas operaciones.
-
-Al tratarse de bancos que no tengan filiales ni sucursales en el exterior que participen en la consolidación, deben aplicarse estas mismas reglas.
 
 Para los efectos de los requerimientos de capital, los activos se ponderarán por riesgo según lo indicado en el N° 2 siguiente.
 
@@ -10318,7 +10312,7 @@ c) Exposiciones de créditos contingentes netas de provisiones, con excepción d
 
 2.5. Categoría 5.
 
-En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores, con excepción del activo correspondiente a "Documentos a cargo de otros bancos (canje)", el que se asignará a la Categoría 1. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c), d) y e) del numeral 3.1.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
+En esta categoría deben computarse todos los demás activos no incluidos en las categorías anteriores, con excepción del activo correspondiente a "Documentos a cargo de otros bancos (canje)", el que se asignará a la Categoría 1. El importe clasificado en esta categoría corresponderá, en consecuencia, al activo total a que se refiere el N° 1 de este título II, menos los montos del activo que deben deducirse para determinar el patrimonio efectivo según lo previsto en las letras c) y d) del numeral 3.1 del título I de este Capítulo y menos los importes de los activos clasificados en las categorías anteriores.
 
 3.- Equivalente de crédito de los instrumentos derivados.
 
@@ -10392,7 +10386,7 @@ Los activos que se identifiquen como "goodwill" originados antes de la fecha en 
 
 ### 2. Cómputo de provisiones como patrimonio efectivo
 
-Mientras no entren en vigor las normas del Capítulo B-1 del Compendio de normas Contables, las provisiones adicionales a que se refiere la letra b) del numeral 3.1.1 del título I de este Capítulo, deben entenderse referidas a las provisiones adicionales que se trataron en el Capítulo 7-10 de esta Recopilación. En todo caso, a contar del mes de enero de 2008, estas provisiones adicionales serán las únicas que se computarán como patrimonio efectivo.
+Mientras no entren en vigor las normas del Capítulo B-1 del Compendio de normas Contables, las provisiones adicionales a que se refiere la letra b) del numeral 3.1 del título I de este Capítulo, deben entenderse referidas a las provisiones adicionales que se trataron en el Capítulo 7-10 de esta Recopilación. En todo caso, a contar del mes de enero de 2008, estas provisiones adicionales serán las únicas que se computarán como patrimonio efectivo.
 
 Junto con lo anterior, desde el mes de abril de 2009 hasta el mes de diciembre de 2010, podrá sumarse a las provisiones adicionales a que se refiere el párrafo precedente y dentro del límite del 1,25% señalado en la referida letra b), un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, cuando dichas garantías correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE. A partir del 31 de enero de 2011, aquel porcentaje disminuirá linealmente el último día de cada mes, en 12 mensualidades iguales y sucesivas.
 
@@ -10458,9 +10452,9 @@ Los límites señalados en los números precedentes son sin perjuicio de las may
 
 5. Créditos otorgados por las sucursales y filiales del banco o que se concedan a esas entidades.
 
-El límite de crédito de que trata el N° 1 del artículo 84 de la Ley General de Bancos y el presente Capítulo, debe cumplirse considerando las operaciones consolidadas del banco con sus filiales en el país, con excepción de las empresas de apoyo al giro constituidas al amparo del artículo 74 de la Ley, y con sus sucursales y filiales establecidas en países clasificados en primera categoría de riesgo por alguna de las empresas clasificadoras internacionales mencionadas en el Capítulo 1-12 de esta Recopilación.
+El límite de crédito de que trata el presente Capítulo, debe cumplirse considerando las operaciones consolidadas del banco con: i) sus filiales constituidas de acuerdo con los artículos 70 y 70 bis de la Ley General de Bancos y con el artículo 23 bis del D.L, N° 3.500; ii) sus filiales creadas como sociedades de apoyo al giro al amparo del artículo 74 de la Ley General de Bancos; y, iii) las sucursales y filiales establecidas en el exterior.
 
-Por consiguiente, por una parte deben computarse también los créditos que otorguen esas filiales y sucursales y, por otra, no quedan afectos a este límite los créditos que se otorguen entre sí las distintas entidades que participan en esa consolidación.
+De acuerdo con lo anterior, deben computarse también para el límite de que se trata, los créditos que otorguen aquellas filiales o sucursales, con excepción de los otorgados por las sociedades de apoyo al giro a que se refiere la letra a) del artículo 74. Por otra parte, quedan exentos de ese límite, los créditos que se otorguen entre sí el banco y las entidades mencionadas en el párrafo precedente.
 
 Los títulos de oferta pública representativos de deuda que se encuentren vendidos con pacto de retrocompra por las filiales bancarias Corredoras de Bolsa, como asimismo las operaciones con pacto de retroventa que esas filiales efectúen con ese tipo de títulos, se computarán para los efectos de los límites a que se refiere este número, por el importe que resulte de aplicar al valor de mercado de los respectivos instrumentos, el porcentaje que se menciona en la sección VIII de la Circular N° 632 y sus modificaciones, de la Superintendencia de Valores y Seguros, de acuerdo a las condiciones que en ella se especifican.
 
