@@ -64,7 +64,17 @@ La publicación del manual de procedimiento, evaluación y selección del progra
 
 #### Artículo 2º
 
-El monto total asignado para el otorgamiento del beneficio del que da cuenta el presente programa, asciende a la suma de $150.000.000.- (ciento cincuenta millones de pesos).
+El monto total asignado para el otorgamiento del beneficio del que da cuenta el presente programa, asciende a la suma de $187.200.000. (ciento ochenta y siete millones doscientos mil pesos), con el siguiente desglose:
+
+- Prebásica: 52 becas de $100.000.- (cien mil pesos) cada una, para gastos de educación de los hijos(as) que cursen prekinder y kinder durante el año 2009.
+
+- Básica: 577 becas de $100.000.- (cien mil pesos) cada una, para gastos de educación de los hijos(as) que cursen enseñanza general básica durante el año 2009.
+
+- Media: 383 becas de $200.000.- (doscientos mil pesos) cada una, para gastos de educación de los hijos(as) que cursen enseñanza media, durante el año 2009. No se bonificará prácticas profesionales o preuniversitarias.
+
+- Superior: 158 becas de $300.000.- (trescientos mil pesos) cada una, para los hijos(as) que cursen enseñanza superior universitaria o técnica en instituciones de educación públicas o privadas reconocidas por el Estado, durante el año 2009.
+
+- Especial: 3 becas de $100.000.- (cien mil pesos) para gastos de educación de los hijos(as) que cursen enseñanza general básica durante el año 2009 y que tengan un promedio inferior al exigido en la letra d) del artículo 7, pero que esté debidamente justificado por presentar alguna discapacidad (sensorial, intelectual, motora, de la relación y comunicación y trastornos específicos del lenguaje) que se encuentren con apoyo psicopedagógico o evaluación diferenciada, o que hayan sufrido alguna enfermedad o accidente que haya limitado su buen rendimiento escolar.
 
 #### Artículo 3°
 
@@ -224,19 +234,17 @@ d) Presentación de antecedentes, en postulaciones formuladas con anterioridad, 
 
 e) Haber sido beneficiario de algún Programa con recursos del Fondo de Administración Pesquero, durante el presente año, de carácter similar o análogo.
 
-3.- Autorízase girar para el otorgamiento del beneficio de que da cuenta el presente programa, 50 becas de $100.
+3. Autorízase girar para el otorgamiento del beneficio de que da cuenta el presente programa, 52 becas de $100.
 
-- **000.-** cada una, para gastos de educación de los hijos/as que cursen enseñanza prebásica; 450 becas de $100.
+- **000.-** cada una, para gastos de educación de los hijos/as que cursen enseñanza prebásica; 577 becas de $100.
 
-- **000.-** cada una, para gastos de educación de los hijos/as que cursen enseñanza básica; 310 becas de $200.
+- **000.-** cada una, para gastos de educación de los hijos/as que cursen enseñanza básica; 383 becas de $200.
 
-- **000.-** cada una, para gastos de educación de los hijos que cursen enseñanza media; 110 becas de $ 300.
+- **000.-** cada una, para gastos de educación de los hijos(as) que cursen enseñanza media, 158 becas de $300.
 
-- **000.-** cada una para los hijos/as que cursen enseñanza superior universitaria o técnica en instituciones reconocidas por el Estado; y 30 becas de $100.
+- **000.-** (trescientos mil pesos) cada una para los hijos/as que cursen enseñanza superior universitaria o técnica en instituciones de educación públicas o privadas reconocidas por el Estado; y 3 becas de $100.
 
-- **000.-** (cien mil pesos) y 10 becas de $200.
-
-- **000.-** (doscientos mil pesos), para gastos de educación de los hijos(as) que cursen enseñanza general básica o media, respectivamente, durante el año 2009 y que tengan un promedio inferior al exigido en la letra d) del artículo 7 del Manual, pero que esté debidamente justificado por presentar alguna discapacidad (sensorial, intelectual, motora, de la relación, comunicación y trastornos específicos del lenguaje), que se encuentren con apoyo psicopedagógico o evaluación diferenciada, o que hayan sufrido alguna enfermedad o accidente que haya limitado su buen rendimiento escolar. El monto total asignado para el otorgamiento del beneficio de que da cuenta el presente programa asciende a la suma de $150.000.000.-
+- **000.-** (cien mil pesos), para gastos de educación de los hijos(as) que cursen enseñanza general básica o media, respectivamente, durante el año 2009 y que tengan un promedio inferior al exigido en la letra d) del artículo 7, pero que esté debidamente justificado por presentar alguna discapacidad (sensorial, intelectual, motora, de la relación y comunicación y trastornos específicos del lenguaje) que se encuentren con apoyo psicopedagógico o evaluación diferenciada o que hayan sufrido alguna enfermedad o accidente que haya limitado su buen rendimiento escolar. El monto total asignado para el otorgamiento del beneficio de que da cuenta el presente programa asciende a la suma de $187.200.000. (ciento ochenta y siete millones doscientos mil pesos)
 
 4.- Impútese el gasto que irrogue la presente Resolución al Subtítulo 24, Ítem 03, Asignación 002 del presupuesto vigente del Fondo de Administración Pesquero para el año 2009.
 
