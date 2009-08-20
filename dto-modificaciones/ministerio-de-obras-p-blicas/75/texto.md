@@ -614,7 +614,7 @@ b) Nacionalidad;
 
 c) RUT;
 
-d) Estudios universitarios, estudios técnicos, año de egreso y título obtenido. Sólo se aceptará certificado de título en original, extendido por instituciones acreditadas por el Ministerio de Educación.
+d) Estudios universitarios, estudios técnicos, año de egreso y título obtenido. Sólo se aceptará certificado de título en original, extendido por instituciones acreditadas por el Ministerio de Educación o copia autorizada ante Notario. En casos fundados el Jefe del Departamento de Registros exigirá certificados originales.
 
 e) Totalidad de obras ejecutadas e informadas por el contratista para acreditar experiencia, más obras realizadas para el MOP o para terceros, debidamente acreditadas, con posterioridad a su inscripción;
 
@@ -632,7 +632,7 @@ organización, con indicación de la información correspondiente a las letras a
 
 k) Copia o fotocopia legalizada de la declaración de impuesto anual a la Renta, correspondiente al año tributario respectivo;
 
-l) Autorización del contratista para que el MOP pueda solicitar al SII una certificación de su declaración de renta, y
+l) Autorización del contratista para que el El Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta, y
 
 m) Cualquier otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
 
@@ -654,7 +654,7 @@ e) RUT de la sociedad y de los integrantes de la organización superior;
 
 f) Personal profesional distinto del referido en la letra c), con indicación de la misma información requerida en el artículo 7º, letra j);
 
-g) Estudios universitarios, o técnicos, según corresponda, año de egreso; y título obtenido de las personas referidas en las letras c) y f); Sólo se aceptará certificado de título en original, extendido por instituciones acreditadas por el Ministerio de Educación;
+g) Estudios universitarios, o técnicos, según corresponda, año de egreso; y título obtenido de las personas referidas en las letras c) y f); Sólo se aceptará certificado de título en original, extendido por instituciones acreditadas por el Ministerio de Educación o copia autorizada ante Notario. En casos fundados el Jefe del Departamento de Registros exigirá certificados originales.
 
 h) Totalidad de obras ejecutadas e informadas por el contratista para acreditar experiencia, más obras realizadas para el MOP o para terceros, debidamente acreditadas, con posterioridad a su inscripción.
 
@@ -668,7 +668,7 @@ l) Capacidad económica;
 
 m) Copia o fotocopia legalizada de la declaración de impuesto anual a la Renta, correspondiente al año tributario respectivo;
 
-n) Autorización del contratista para que el MOP pueda solicitar al SII una certificación de su declaración de renta, y
+n) Autorización del contratista para que el Jefe del Departamento de Registros pueda solicitar al SII una certificación de su declaración de renta, y
 
 ñ) Cualquiera otra información que pueda exigir el Ministerio para precisar, aclarar o verificar la idoneidad del contratista en relación a lo establecido en las letras anteriores.
 
@@ -1562,11 +1562,11 @@ Sólo podrán participar en licitaciones con Registro Especial las personas natu
 
 #### Artículo 73
 
-Será condición indispensable para que un contratista pueda participar en una licitación, acreditar una capacidad económica disponible mínima del 15% del valor del presupuesto oficial o estimativo, según proceda.
+Será condición indispensable para que un contratista pueda participar en una licitación, acreditar una capacidad económica disponible mínima del 10% del valor del presupuesto oficial o estimativo, según proceda.
 
-Si el plazo de ejecución de la obra es superior a un año, el presupuesto oficial o estimativo, para los efectos del inciso anterior, será el correspondiente a la inversión considerada por la Dirección para el primer año de trabajo. En casos especiales, las Direcciones podrán fijar condiciones distintas a las indicadas.
+Si el plazo de ejecución de la obra es superior a un año, el presupuesto oficial o estimativo, para los efectos del inciso anterior, será el correspondiente a la inversión considerada por la Dirección para el primer año de trabajo. Las Direcciones podrán fijar, en las bases administrativas, condiciones distintas a las indicadas.
 
-La capacidad económica disponible mínima del contratista corresponderá a la capacidad económica acreditada a la fecha de su participación en la licitación, ante el Registro de Obras Mayores, de Obras Menores, o Especial según corresponda, calculada según se establece en el artículo 27, y disminuida en un 15% del saldo financiero de todas las obras ya iniciadas o por iniciarse, que tenga contratadas para ser ejecutadas durante los 12 meses siguientes a la fecha de apertura de la licitación. Los saldos de obra se reajustarán al mes inmediatamente anterior al de la fecha de su apertura, conforme al sistema de reajuste del contrato.
+La capacidad económica disponible mínima del contratista corresponderá a la capacidad económica acreditada a la fecha de su participación en la licitación, ante el Registro de Obras Mayores, de Obras Menores, o Especial según corresponda, calculada según se establece en el artículo 27, y disminuida en un 10% del saldo financiero de todas las obras ya iniciadas o por iniciarse, que tenga contratadas para ser ejecutadas durante los 12 meses siguientes a la fecha de apertura de la licitación. Los saldos de obra se reajustarán al mes inmediatamente anterior al de la fecha de su apertura, conforme al sistema de reajuste del contrato.
 
 #### Artículo 74
 
@@ -1602,9 +1602,9 @@ b) Declaración que consigne lo siguiente:
 
 c) Programa de Trabajo, en forma de carta Gantt con relación de precedencia, o en el formato especial que se entregue con el Proyecto para este objeto, en el que se indicarán las fechas de inicio y término de las diversas secciones o etapas de la obra, y el que deberá incluir todos los distintos ítem de la licitación. Si el Proyecto así lo requiere, en esta etapa deberá entregarse un programa detallado, aplicando un método de programación del tipo "ruta crítica", incluyendo todos los ítem, cantidades de obras, el camino crítico, las holguras principales y toda la información pertinente a este tipo de métodos de programación.
 
-d) Lista de los elementos, maquinarias y equipos con que contará para ejecutar las obras, sean propios o arrendados, según requerimiento del Proyecto.
+d) Si se solicita en las bases administrativas: lista de los elementos, maquinarias y equipos con que contará para ejecutar las obras, sean propios o arrendados, según requerimiento del Proyecto.
 
-e) Listado de los profesionales que actuarán en la obra a tiempo completo o parcial, según lista especificada en el Proyecto y que cumplan con los requisitos mínimos establecidos en el mismo, con sus correspondientes Curricula vitae; como mínimo, en este listado se incluirán el profesional residente y los especialistas considerados de especial relevancia para el tipo de obra de que se trate.
+e) Si se solicita en las bases administrativas: listado de los profesionales que actuarán en la obra a tiempo completo o parcial, según lista especificada en el Proyecto y que cumplan con los requisitos mínimos establecidos en el mismo, con sus correspondientes Curricula vitae; como mínimo, en este listado se incluirán el profesional residente y los especialistas considerados de especial relevancia para el tipo de obra de que se trate.
 
 Respecto a los profesionales descritos en el inciso anterior, una vez adjudicado el contrato, el contratista tendrá un plazo de 15 días para someter a la aprobación del inspector fiscal cualquier cambio que requiera; el profesional de reemplazo deberá tener calificaciones al menos iguales al profesional reemplazado.
 
@@ -1622,7 +1622,7 @@ La omisión de cualquier obra que el proponente esté ejecutando o en vías de i
 
 En el sobre Propuesta Económica se incluirá la propuesta hecha en el formulario especial entregado al proponente.
 
-Adicionalmente se incluirá un análisis detallado de costos, cuyo desglose será como mínimo, el establecido en el presupuesto oficial, y ciñéndose al mismo esquema considerado en éste; separadamente se indicarán los montos o porcentajes correspondientes a gastos generales desglosados detalladamente, imprevistos y utilidades.
+Adicionalmente se incluirá un análisis detallado de costos, cuyo desglose será el establecido en el presupuesto oficial o el que se señale en las bases administrativas, y ciñéndose al mismo esquema considerado en éste; separadamente se indicarán los montos o porcentajes correspondientes a gastos generales desglosados detalladamente, y utilidades.
 
 #### Artículo 77
 
@@ -2300,7 +2300,7 @@ Todos los pagos efectuados al contratista, en exceso, deberán ser devueltos por
 
 #### Artículo 156
 
-Los estados de pago que no sean pagados dentro de los 30 días siguientes a su fecha, devengarán, a contar del término de dicho plazo y hasta la fecha efectiva de pago, como único interés, el interés corriente que para operaciones reajustables en moneda nacional determina la Superintendencia de Bancos e Instituciones Financieras, sobre la suma a pagar, debiendo hacerse efectiva la responsabilidad administrativa por tales atrasos. Se considerará como fecha del estado de pago la que fija el inciso 2° del artículo 154 y como fecha de pago la del cheque correspondiente.
+Los estados de pago que no sean pagados dentro de los 30 días siguientes a su fecha, devengarán, a contar del término de dicho plazo y hasta la fecha efectiva de pago, como único interés, el interés corriente que para operaciones reajustables en moneda nacional determina la Superintendencia de Bancos e Instituciones Financieras, sobre la suma a pagar. Se considerará como fecha del estado de pago la que fija el inciso 2° del artículo 154 y como fecha de pago la del cheque correspondiente.
 
 #### Artículo 157
 
@@ -2404,7 +2404,7 @@ La recepción provisional de las obras correspondientes al Registro de Obras Men
 
 Las obras correspondientes a los registros de obras menores expresamente identificados en este sentido en el documento "Registro de Contratistas - Categorías y Especialidades", serán recibidas mediante una recepción única, a través de una comisión compuesta por dos profesionales idóneos propuestos por el Director Regional, asesorados por el inspector fiscal.
 
-La resolución que designe a la comisión de recepción provisional será dictada por la autoridad que adjudicó el contrato, a más tardar dentro del plazo de 20 días, contados desde la fecha del oficio del Inspector Fiscal. Dicha comisión deberá evacuar su informe en un plazo no superior a 20 días, a contar de la fecha de notificación de su designación.
+La resolución que designe a la comisión de recepción provisional será dictada , a más tardar dentro del plazo de 20 días, contados desde la fecha del oficio del Inspector Fiscal, por el Director Nacional o Regional del Servicio ejecutor. En el caso de contratos con el Cuerpo Militar del Trabajo será dictada por el Director General de Obras Públicas. Dicha comisión deberá evacuar su informe en un plazo no superior a 20 días, a contar de la fecha de notificación de su designación.
 
 A la recepción podrán asistir, además de la comisión, el inspector fiscal y el contratista o su representante, los que deberán ser previamente citados.
 
@@ -2438,7 +2438,7 @@ Si después de efectuada la recepción provisional de la obra, resulta que los t
 
 El plazo de garantía de fiel cumplimiento del contrato por parte del contratista, será de un año para las obras del Registro de Obras Mayores y de 6 meses para las del Registro de Obras Menores, salvo que las bases administrativas fijen un plazo diferente, el que se comenzará a contar a partir de la fecha fijada como término de la obra. La Dirección mantendrá durante el período establecido en el Artículo 96 de este Reglamento, la garantía que caucionó el contrato.
 
-Estos plazos se entenderán sin perjuicio del plazo de garantía legal de cinco años, a que se refiere el artículo 2.003, número 3 del Código Civil, el que se contará desde la recepción definitiva de la obra.
+Estos plazos se entenderán sin perjuicio del plazo de garantía legal de cinco años, a que se refiere el artículo 2.003, número 3 del Código Civil.
 
 #### Artículo 171
 
@@ -2572,9 +2572,9 @@ De la liquidación del contrato
 
 La liquidación del contrato se hará por la Dirección conforme a las resoluciones adoptadas por ella, con sujeción estricta a este Reglamento. Su aprobación se hará sin perjuicio de que el contratista pueda hacer valer por su parte los recursos que procedan ante la Contraloría General de la República.
 
-La Dirección deberá formular la liquidación del contrato, y devolver la garantía de fiel cumplimiento del contrato, dentro del plazo de 90 días contados desde la fecha del acta de recepción definitiva o única; en el caso de recepción única por liquidación anticipada imputable al contratista, se podrá prorrogar el plazo hasta por 180 días más, previa aprobación del Director General. Dentro de estos mismos plazos, la Dirección informará al Registro General de Contratistas el monto final del contrato y la fecha de su liquidación.
+La Dirección deberá formular la liquidación del contrato, y devolver la garantía de fiel cumplimiento del contrato, dentro del plazo de 90 días contados desde la fecha del acta de recepción definitiva o única; en casos especiales debidamente fundados por el Director Nacional respectivo, se podrá prorrogar el plazo hasta por 180 días más, previa aprobación del Director General. Dentro de estos mismos plazos, la Dirección informará al Registro General de Contratistas el monto final del contrato y la fecha de su liquidación.
 
-Cuando la liquidación no se haya formulado en el plazo señalado en el inciso anterior, el MOP restituirá al contratista el dinero que hubiese desembolsado para mantener vigente, después de transcurrido dicho plazo, la garantía del contrato.
+Cuando la liquidación no se haya formulado en los plazos de vigencia de la boleta bancaria o póliza de seguro señalados en el inciso primero del artículo 96, el MOP restituirá al contratista el dinero que hubiese desembolsado para mantener vigente, después de transcurrido dicho plazo, la garantía del contrato.
 
 El contratista que no haya aceptado la liquidación podrá reclamar de ella, dentro de un plazo de 90 días contados desde la fecha de tramitación de la resolución pertinente. Transcurrido ese plazo, la liquidación se entenderá aceptada por el contratista.
 

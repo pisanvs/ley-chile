@@ -1468,19 +1468,17 @@ Para definir la nota de este sub-grupo, el calificador considerará los siguient
 
 A.2 Antecedentes (Ponderación 0,25)
 
-Para definir la nota de este sub-grupo, el calificador considerará los siguientes factores:
+Para definir la nota de este sub-grupo, el calificador considerará el siguiente factor:
 
 - Años de trabajo conjunto del equipo permanente.
 
-- Grado de participación efectiva del Cuadro Directivo en los trabajos realizados.
-
 - Si el Consultor no ha tenido actividad anterior en calidad de empresa propiamente tal, la Comisión de Evaluación podrá considerar la experiencia y antecedentes de los profesionales que forman su cuadro permanente, para efectos de calificar este grupo.
 
-B. Plan de Trabajo y Metodología.
+B. Metodología.
 
 Para definir la nota de este grupo, cada calificador deberá considerar los siguientes factores:
 
-- Grado de comprensión del proyecto a inspeccionar Plan de Trabajo (Cronograma de Actividades y secuencia lógica de ellas).
+- Grado de comprensión del proyecto a inspeccionar.
 
 - Efectividad de los métodos y procedimientos propuestos para el control de la obra.
 
@@ -1496,13 +1494,9 @@ Para definir la nota de este sub-grupo, el calificador considerará los siguient
 
 - Calidad Curricular de los Profesionales y Asesores propuestos.
 
-C.2 Suficiencia del Equipo (Ponderación 0,5) Para definir la nota de este sub-grupo, el calificador considerará los siguientes factores:
+C.2 Suficiencia del Equipo (Ponderación 0,5) Para definir la nota de este sub-grupo, el calificador considerará el siguiente factor:
 
 - Grado de participación del equipo permanente de la firma en relación al trabajo por ejecutar.
-
-- Capacidad disponible del equipo propuesto en relación al volumen de trabajos en ejecución y por ejecutar.
-
-- Horas comprometidas de cada profesional en las diferentes actividades de la Asesoría.
 
 #### Artículo 42°
 
@@ -1894,9 +1888,7 @@ Todos los gastos notariales y de cualquier clase que se deriven de la autorizaci
 
 #### Artículo 63°
 
-La liquidación final del contrato se hará efectiva dentro de los noventa días siguientes a la fecha de término de la Consultoría, en las condiciones señaladas en el contrato.
-
-A la referida liquidación deberá adjuntarse la calificación señalada en el Artículo 92° de este Reglamento.
+La liquidación final del contrato se hará efectiva dentro de los noventa días siguientes a la fecha de término de la Consultoría, en las condiciones señaladas en el contrato. En casos especiales debidamente fundados por el Director Nacional respectivo, el plazo podrá extenderse en 90 días adicionales.
 
 #### Artículo 64°
 
@@ -2066,7 +2058,7 @@ De los Pagos
 
 El Ministerio pagará las cantidades en la forma y en los plazos estipulados en el contrato, previo cumplimiento por parte del Consultor de las formalidades definidas en las Bases y el presente Reglamento.
 
-Los pagos se harán mediante estados de pago por cada etapa aprobada por el Inspector Fiscal, en las oportunidades, montos y con las formalidades establecidas en las Bases.
+Para los contratos de estudios y proyectos los pagos se harán mediante estados de pago por cada etapa aprobada por el Inspector Fiscal, en las oportunidades, montos y con las formalidades establecidas en las Bases.
 
 Cuando en el contrato se establezca reembolso de gastos, éstos se íncluirán en los Estados de Pago, siempre que hayan sido autorizados en las Bases.
 
@@ -2180,7 +2172,7 @@ De las Calificaciones del Trabajo de Consultoría
 
 #### Artículo 92°
 
-Cada Trabajo de Consultoría será objeto de una calificación dentro de los 30 días siguientes a su término oficial.
+Cada Trabajo de Consultoría será objeto de una calificación dentro de los 60 días siguientes a su término oficial.
 
 La calificación será efectuada por una Comisión Calificadora integrada por el Jefe de Departamento correspondiente o Director Regional de la Dirección Contratante, quien la presidirá y por dos profesionales designados por el Director Nacional o por el Secretario Regional Ministerial, en cuyo caso podrá ser cualquiera de los radicados en su región. El Inspector Fiscal hará las veces de Secretario.
 
@@ -2244,7 +2236,7 @@ En el silencio de las bases, los factores a utilizar serán a = 0,75 y b = 0,25.
 
 Cada uno de los aspectos parciales representativos de la calidad del trabajo será calificado en forma independiente por los miembros de la Comisión con una nota en una escala de uno a siete. El promedio aritmético de cada aspecto se multiplicará por su correspondiente ponderación parcial y los productos se sumarán para obtener la nota globai del aspecto Calidad del Trabajo.
 
-Para calificar el cumplimiento de los plazos se procederá a obtener, tanto para el plazo total como para cada plazo parcial, el cuociente contractual total o parcial, incluidos los aumentos de plazos aprobados y el plazo total o parcial real de ejecución, medidos ambos en días calendarios.
+Para calificar el cumplimiento de los plazos se procederá a obtener, tanto para el plazo total como para cada plazo parcial, el cuociente contractual total o parcial, incluidos los aumentos de plazos aprobados y el plazo total o parcial real de ejecución, medidos ambos en días calendarios. Sin perjuicio de lo anterior, en los contratos de asesoría a la inspección fiscal se considerará sólo el cumplimiento de los plazos de entrega de los informes: inicial, mensual y final que se indiquen en las bases administrativas.
 
 Los plazos reales se entenderán contados desde la misma fecha que los plazos contractuales totales o parciales. Según sea el valor de K, se asignarán notas según la tabla siguiente:
 
