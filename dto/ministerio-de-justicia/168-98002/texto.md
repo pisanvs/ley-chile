@@ -20,7 +20,9 @@ a) Tanatológicas o Autopsias: $11.543.-
 
 b) Examenes Clínicos : $ 2.218.-
 
-c) Examenes Psiquiátricos : $ 5.543.-
+c) Exámenes Psiquiátricos : $158.848.-
+
+d) Exámenes Psicológicos : $102.081.-
 
 #### Artículo 2º
 
