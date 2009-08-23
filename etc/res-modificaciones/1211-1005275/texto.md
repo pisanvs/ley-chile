@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.211, de 08/06/2009, modificó Res. (M) 1.172/2000, de la siguiente forma: Ubicación: Ensenada Ahoni, al Oeste de Punta Ahoni, Superficie 22,67 Hás.; Coordenadas geográficas Plano DPC-307, 1ª edición 2006 (Datum WGS-84); Vértice A Lat. 42°44'58,25" S. Long. 73°35'06,46" W. Vértice B Lat. 42°44'53,19" S. Long. 73°34'53,96" W. Vértice C Lat. 42°44'53,68" S. Long. 73°34'47,08" W. Vértice D Lat. 42°44'55,61" S. Long. 73°34'40,50" W. Vértice E Lat. 42°45'00,76" S. Long. 73°34'33,67" W. Vértice F Lat. 42°45'04,07" S. Long. 73°34'33,29" W. Vértice G Lat. 42°45'10,55" S. Long. 73°34'32,28" W. Vértice H Lat. 42°45'03,66" S. Long. 73°34'49,80" W. Vértice I Lat. 42°45'03,86" S. Long. 73°35'05,71" W.
+
+Santiago, 17 de agosto de 2009.- Por la Sra., Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
