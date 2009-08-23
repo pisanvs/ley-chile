@@ -104,7 +104,7 @@ IX.- NOVENA REGION:
 
 a) CENTRO PARA LA INTERNACION EN REGIMEN CERRADO: en el inmueble ubicado en Ruta Temuco-Chol Chol sin número, kilómetro 27 y medio, comuna de Chol Chol.
 
-b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en Avenida Balmaceda Nº 751, comuna de Temuco.
+b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en los inmuebles ubicados en Avenida Balmaceda Nº 751 y en calle Arturo Prat Nº 030, comuna de Temuco
 
 c) CENTRO DE INTERNACION PROVISORIA: en el inmueble ubicado en Ruta Temuco-Chol Chol sin número, kilómetro 27 y medio, comuna de Chol Chol.
 
