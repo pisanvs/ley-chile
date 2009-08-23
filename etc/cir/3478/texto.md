@@ -1,0 +1,11 @@
+INSTRUYE SOBRE TRATAMIENTO TRIBUTARIO DE LAS PROVISIONES, CASTIGOS, RENEGOCIACIONES Y REMISIONES DE CRÉDITOS OTORGADOS POR LOS BANCOS
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 47 de fecha 18 de agosto de 2009, conjunta con la Circular Bancos Nº 3.478 de fecha 18 de agosto de 2009, de la Superintendencia de Bancos e Instituciones Financieras, que imparte instrucciones relativas al tratamiento tributario de las provisiones, castigos y remisiones de créditos otorgados por los bancos.
+
+El inciso segundo, del Nº 4, del artículo 31, de la Ley sobre Impuesto a la Renta, deja sujeto el tratamiento como gastos deducibles en la determinación de la renta líquida imponible de Primera Categoría de las provisiones y castigos de los créditos incluidos en la cartera vencida de los bancos, a normas conjuntas impartidas por la Superintendencia de Bancos e Instituciones Financieras y el Servicio de Impuestos Internos. Por su parte, el inciso tercero, del mismo Nº 4, establece que tales normas serán también aplicables para regular los efectos en dicha determinación de las remisiones de créditos riesgosos que efectúen los bancos a sus deudores, en la parte que se encuentren afectos a provisiones constituidas conforme a la normativa sobre clasificación de la cartera de créditos establecida por la SBIF.
+
+En cumplimiento de los referidos mandatos legales se han impartido hasta la fecha diversas normas conjuntas. Sin embargo, debido a que actualmente las instrucciones dictadas sobre la materia por la referida Superintendencia se circunscriben a definir criterios contables para la confección de los estados financieros de los bancos y ya no guardan una relación directa con su tratamiento tributario, resulta de la mayor relevancia proceder a su actualización.
+
+Por tal motivo, mediante las presentes instrucciones conjuntas se reemplazan las vigentes hasta la fecha, las que dejan de tener aplicación.
+
+El texto íntegro de esta Circular Conjunta está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en agosto de 2009.
