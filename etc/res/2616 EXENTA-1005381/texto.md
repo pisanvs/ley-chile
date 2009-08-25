@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.616, de 3 de agosto de 2009, de esta Subsecretaría, modifícase el numeral 5º de la resolución exenta Nº2.011, de 2009, de esta Subsecretaría de Pesca que autorizó a HÉCTOR SEGUEL ARÉVALO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto "Monitoreo de la pesquería artesanal de Anchoveta y Sardina común para embarcaciones de caleta San Vicente en la Región del Bío Bío, año 2009", en el sentido de incrementar la cuota de captura autorizada en 990 toneladas de anchoveta y 10 toneladas de Sardina común.
+
+Valparaíso, 3 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
