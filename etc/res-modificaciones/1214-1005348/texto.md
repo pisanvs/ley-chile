@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.214, de 08/06/2009, modificó Res. (M) 513/1999, de la siguiente forma: Ubicación: Canal Dalcahue, Sector Curaco de Vélez, Isla Quinchao, superficie 1,93 Hás.; coordenadas geográficas Carta SHOA Nº 7370, 1ª edición 1999 (Datum WGS-84). Vértice A Lat. 42º26'17,97"S. Long. 73º36'57,22"W. Vértice B Lat. 42º26'17,86"S. Long. 73º36'56,81"W. Vértice C Lat. 42º26'20,03"S. Long. 73º36'55,77"W. Vértice D Lat. 42º26'19,50"S. Long. 73º36'53,75"W. Vértice E Lat. 42º26'17,33"S. Long. 73º36'54,79W. Vértice F Lat. 42º26'17,20"S. Long. 73º36'54,29"W. Vértice G Lat. 42º26'27,00S. Long. 73º36'49,59"W. Vértice H Lat. 42º26'27,77"S. Long. 73º36'52,52"W.
+
+Santiago, 19 de agosto de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
