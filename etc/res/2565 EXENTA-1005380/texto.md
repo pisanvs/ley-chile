@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.565, de 29 de julio de 2009, de esta Subsecretaría, autorízase a SERGIO ANTONIO TABILO ALVARADO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Hacienda Margarita, Lote I, kilómetro 840, Ruta 5 Norte, III Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
