@@ -22,7 +22,7 @@ Delégase en los Ministros de Estado la facultad de suscribir, bajo la fórmula 
 
 4. Contratos de personal a honorarios a suma alzada u otro sistema, incluidos los realizados en conformidad con lo dispuesto en el artículo 13º, inciso 2º, del D.L. Nº 1.608, siempre que éstos no representen una retribución mensual superior a 250 UTM.
 
-5. Contratos a honorarios de personas jurídicas cuyo monto total no exceda de 5.000 UTM.
+5. Contratos a honorarios de personas jurídicas cuyo monto total no exceda de 20.000 UTM.
 
 6. Término anticipado del contrato respecto de los números 3, 4 y 5 del presente artículo.
 
@@ -152,7 +152,7 @@ Nº 228, de 1994, del Ministerio del Interior.
 
 4. Autorización de Sistemas de Depuración y Neutralización de Residuos Líquidos Industriales.
 
-5. Fijación de caudales ecológicos mínimos en los casos calificados que define el artículo 129 bis 1 del Código de Aguas. Art. 1º
+5. Fijación de caudales ecológicos mínimos en los casos calificados que define el artículo 129 bis 1 del Código de Aguas.
 
 6. Denegación parcial de un derecho de aprovechamiento de aguas, conforme al artículo 147 bis del Código de Aguas.
 
