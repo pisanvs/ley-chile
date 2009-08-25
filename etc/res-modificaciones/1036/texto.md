@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.036, de 13/05/2009, modificó Res. (M) 1640/1996, de la siguiente forma: Ubicación: Canal Dalcahue, Sector Punta Degan, Isla Quinchao; superficie 3,20 Hás.; coordenadas geográficas Carta SHOA N° 7370, 1ª edición 1999 (Datum WGS-84). Vértice A Lat. 42°23'04,59"S. Long. 73°36'24,37"W. Vértice B Lat. 42°23'06,31"S. Long. 73°36'23,89"W. Vértice C Lat. 42°23'05,03"S. Long. 73°36'18,00"W. Vértice D Lat. 42°23'03,05"S. Long. 73°36'14,40"W. Vértice E Lat. 42°22'57,51"S. Long. 73°36'11,99"W. Vértice F Lat. 42°22'55,19"S. Long. 73°36'07,07"W. Vértice G Lat. 42°22'54,24"S. Long. 73°36'07,16"W. Vértice H Lat. 42°22'56,88"S. Long. 73°36'12,55"W. Vértice I Lat. 42°23'01,35"S. Long. 73°36'18,49"W.
+
+Santiago, 19 de agosto de 2009. Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
