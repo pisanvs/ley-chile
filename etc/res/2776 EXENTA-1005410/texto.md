@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.776, de 18 de agosto de 2009, de esta Subsecretaría, autorízase a POLYMET LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Sitio 5, Manzana Nº 6, Parque Industrial AGPIM, Mejillones, II Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
