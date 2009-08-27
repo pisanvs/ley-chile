@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.787, de 19 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº2.595, de 2009, modificada mediante resolución exenta Nº2.739, de 2009, ambas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Pesca de Investigación Pesquerías Demersales y Pelágicas de Merluza del Sur, Congrio dorado, Raya y Reineta; Magallanes y Antártica Chilena", en el sentido de incorporar el siguiente numeral 14 bis:
+
+"14 bis.- Para efectos de la presente pesca de investigación se exceptúa el cumplimiento de la veda extractiva del recurso Raya volantín establecida mediante decreto exento Nº1.228, de 2009, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 19 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
