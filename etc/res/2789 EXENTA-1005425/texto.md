@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.789, de 19 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 336, de 2009, modificada mediante resoluciones exentas Nº 534 y Nº 2.065, ambas de 2009, todas de esta Subsecretaría de Pesca, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería artesanal de Congrio dorado (Genypterus blacodes) y Raya (Dipturus spp) en la X Región, temporada 2009", en el sentido de agregar al numeral 6º el siguiente inciso final:
+
+"Para efectos de la presente pesca de investigación se exceptúa el cumplimiento de la veda extractiva del recurso Raya volantín establecida mediante decreto exento Nº 1.228, de 2009, del Ministerio de Economía, Fomento y Reconstrucción. Lo anterior, sin perjuicio de lo dispuesto en el inciso 1º del presente numeral relativo a la veda biológica del recurso Raya.".
+
+Valparaíso, 19 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
