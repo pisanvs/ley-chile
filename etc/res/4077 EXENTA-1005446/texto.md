@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.077 EXENTA, DE 04.08.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Segundo Cuatrimestre de 2008, se ha asignado a Centro de Cultura y Comunicación "Forestal al Día", RUT N° 65.092.840-7, una concesión de Radiodifusión Sonora en Mínima Cobertura para la comuna de Viña del Mar, V Región, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 92,7 MHz; estudio, planta transmisora y sistema radiante ubicado en Esmeralda Nº 459, Población El Esfuerzo, Forestal Alto, comuna de Viña del Mar, V Región, coordenadas geográficas 33°02'18" Latitud Sur, 71°32'17" Longitud Oeste (Datum PSAD 56); sistema radiante direccional con polarización vertical, una (1) antena Yagi de 2 elementos, ganancia máxima de 5,0 dBd y altura del centro de radiación de 6 m; pérdidas en cables, conectores y otras de 5,0 dB (incluye atenuador de 3 dB); pérdidas por lóbulo de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 26.08.2009, PÁGINA 10.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3° de la ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución.
+
+Esta publicación se hace según lo dispuesto en los artículos 13° A y 13° B de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, dentro del plazo de 5 días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
