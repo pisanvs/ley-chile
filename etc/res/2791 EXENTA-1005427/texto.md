@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.791, de 19 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº2.400, de 2008, modificada mediante resolución exenta Nº3.021, de 2008, ambas de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo y control del esfuerzo de la flota artesanal en la pesquería del recurso Tollo (Mustelus mento, squalus acanthias y Mustelus whitneyi) en aguas marítimas de la X Región", en el sentido de incorporar al numeral 6º el siguiente inciso final:
+
+"Para efectos de la presente pesca de investigación se exceptúa el cumplimiento de la veda extractiva del recurso Tollo establecida mediante decreto exento Nº 1.227, de 2009, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 19 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
