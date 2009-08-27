@@ -1,6 +1,6 @@
 ESTABLECE COSTOS PARA EFECTOS DE ENTREGA DE INFORMACIÓN PÚBLICA
 
-Núm. 15 exenta.- Santiago, 12 de agosto de 2009.- Vistos: La ley Nº 17.301; la ley Nº 20.285, sobre acceso a la información pública; decretos supremos Nºs 1.574, de 1971, y 205, de 2006, ambos del Ministerio de Educación; decreto supremo Nº 13, de 13 de abril de 2009, del Ministerio Secretaría General de la Presidencia; instrucción general Nº 2, del Consejo para la Transparencia, de 8 de mayo de 2009, publicada en el Diario Oficial de 16 de mayo de 2009; la resolución Nº 1.600, de 2008, de la Contraloría General de la República; Ord. (Gabmin) Nº 877, del señor Ministro Secretario General de la Presidencia, y demás normas pertinentes.
+Núm. 015/2283 exenta.- Santiago, 12 de agosto de 2009.- Vistos: La ley Nº 17.301; la ley Nº 20.285, sobre acceso a la información pública; decretos supremos Nºs 1.574, de 1971, y 205, de 2006, ambos del Ministerio de Educación; decreto supremo Nº 13, de 13 de abril de 2009, del Ministerio Secretaría General de la Presidencia; instrucción general Nº 2, del Consejo para la Transparencia, de 8 de mayo de 2009, publicada en el Diario Oficial de 16 de mayo de 2009; la resolución Nº 1.600, de 2008, de la Contraloría General de la República; Ord. (Gabmin) Nº 877, del señor Ministro Secretario General de la Presidencia, y demás normas pertinentes.
 
 Considerando:
 
