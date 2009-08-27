@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.788, de 19 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº1.755, de 2009, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería de Pejegallo en aguas interiores y exteriores de la X Región", en el sentido de incorporar al numeral 5º el siguiente inciso final:
+
+"Para efectos de la presente pesca de investigación se exceptúa el cumplimiento de la veda extractiva del recurso Pejegallo establecida mediante decreto exento Nº 1.226, de 2009, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 19 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
