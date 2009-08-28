@@ -108,4 +108,8 @@ Las vías estructurantes de la comuna, que están consagradas en el plan regulad
 
 La presente ordenanza viene en derogar toda otra disposición contenida en ordenanza anterior que sea contraria o discordante a ésta.
 
+#### Artículo 15º
+
+Las normas de la presente Ordenanza no obstan a las restricciones o limitaciones que puedan establecer los respectivos reglamentos de copropiedad o los acuerdos de asambleas de copropietarios, en relación con el horario de funcionamiento de locales comerciales que expenden bebidas alcohólicas, ubicados dentro de comunidades o condominios, dentro del marco horario fijado por la presente ordenanza, y que se establezcan o acuerden de conformidad con la legislación respectiva.
+
 Anótese, comuníquese, publíquese y archívese.- Jacqueline van Rysselberghe Herrera, Alcaldesa.- Manuel Lagos Espinoza, Secretario Municipal.
