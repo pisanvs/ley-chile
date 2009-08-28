@@ -76,7 +76,9 @@ l. El "Comité Regional de Innovación de la Región Metropolitana" pasará a de
 
 Además, créanse los siguientes Comités: a. El Comité "Agencia Regional de Desarrollo Productivo de la Región de Los Ríos", que podrá utilizar indistintamente el nombre "Agencia Regional de Los Ríos".
 
-b. El Comité "Agencia Regional de Desarrollo Productivo de la Región de Arica y Parinacota", que podrá utilizar indistintamente el nombre "Agencia Regional de Arica y Parinacota". II Apruébase el siguiente Reglamento por el cual deberán regirse los Comités indicados en el número precedente:
+b. El Comité "Agencia Regional de Desarrollo Productivo de la Región de Arica y Parinacota", que podrá utilizar indistintamente el nombre "Agencia Regional de Arica y Parinacota".
+
+II. Apruébase el siguiente Reglamento por el cual deberán regirse los Comités indicados en el número precedente; como asimismo al Comité "Agencia Regional de Innovación y Desarrollo Productivo de la Región del Bío-Bío", creado en virtud del Acuerdo de Consejo N° 2.391, de 2006, modificado por los acuerdos 2.402 y 2.528, de 2006 y 2008, respectivamente:
 
 1. Los Comités "AGENCIAS REGIONALES DE DESARROLLO PRODUCTIVO" serán unidades dependientes de la Corporación, actuarán bajo la personalidad jurídica de ésta y se regirán por lo dispuesto en el artículo 7° del D.F.L. N° 211, de 1960 y, adicionalmente, por las normas del presente Reglamento, sin perjuicio de la normativa aplicable a la Corporación.
 
@@ -630,9 +632,19 @@ e) El Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productiv
 
 f) El Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de Valparaíso" estará compuesto, adicionalmente, por tres representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación.
 
-Tratándose del Subcomité Coordinador de Acciones de Fomento Productivo estará compuesto, adicionalmente, por el Seremi de Economía de la Región. Tratándose del Subcomité Regional de Innovación estará compuesto, adicionalmente, por un representante del sector privado, designado por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación; dos representantes del sector público, designados por el Intendente, y por un representante del Ministerio de Hacienda en la
+Tratándose del Subcomité Coordinador de Acciones de Fomento Productivo estará compuesto, adicionalmente, por el Seremi de Economía de la Región. Tratándose del Subcomité Regional de Innovación estará compuesto, adicionalmente, por un representante del sector privado, designado por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación; dos representantes del sector público, designados por el Intendente, y por un representante del Ministeriode Hacienda en la Región.
 
-Región.
+10.- NORMAS ESPECIALES APLICABLES AL COMITÉ "AGENCIA REGIONAL DE INNOVACIÓN Y DESARROLLO PRODUCTIVO DE LA REGIÓN DEL BÍO-BÍO"
+
+Sin perjuicio de la aplicación de las demás disposiciones contenidas en los numerales 1 al 8 del presente reglamento, en lo que fuere pertinente, al Comité "Agencia Regional de Innovación y Desarrollo Productivo de la Región del Bío-Bío" le serán aplicables las siguientes reglas especiales:
+
+a) El Comité se denominará "Agencia Regional de Innovación y Desarrollo Productivo de la Región del Bío-Bío" y podrá usar, indistintamente, el nombre de "Agencia Regional del Bío-Bío".
+
+b) En esta región, la Agenda Regional de Desarrollo Productivo llevará el nombre de "Agenda Regional de Innovación y Desarrollo Productivo de la Región del Bío-Bío".
+
+c) Para el cumplimiento de su objeto, el Comité podrá, adicionalmente, promover la coordinación de las acciones públicas de fomento productivo en la región, con las acciones derivadas de organismos vinculados al Sistema Nacional de Ciencia y Tecnología.
+
+d) No habrá un Subcomité Regional de Innovación y, por ende, no le serán aplicables las normas que lo regulan.
 
 III Apruébanse las siguientes disposiciones
 
