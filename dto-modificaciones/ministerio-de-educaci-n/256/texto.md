@@ -28,11 +28,11 @@ Modifícase el decreto supremo Nº 40, de 1996, del Ministerio de Educación, qu
 
 #### Artículo 2º
 
-Los nuevos planes y programas de estudio que se elaboren de acuerdo a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios deberán aplicarse gradualmente a partir del año 2011, según el siguiente calendario:
+Los nuevos planes y programas de estudio que se elaboren de acuerdo a los Objetivos Fundamentales y Contenidos Mínimos Obligatorios deberán aplicarse gradualmente a partir del año 2010, según el siguiente calendario:
 
-- Año escolar 2011: 5° a 8° año de Educación Básica.
+- Año escolar 2010: 5° a 8° año de Educación Básica.
 
-- Año escolar 2012: 1° a 4° año de Educación Básica.
+- Año escolar 2011: 1° a 4° año de Educación Básica.
 
 #### Artículo Transitorio
 
