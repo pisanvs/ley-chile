@@ -270,7 +270,11 @@ Durante los dos primeros años de vigencia del Título I de la ley Nº 20.255, p
 
 Para efectos de acreditación del requisito establecido en la letra b) del artículo 3º de la ley Nº 20.255, el Instituto de Previsión Social deberá considerar los siguientes umbrales de focalización, por aplicación de la Ficha de Protección Social, para los períodos que se señalan:
 
-a) Entre el 1º de julio de 2008 y el 30 de junio de 2009, los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje igual o inferior a 11.734 puntos, y b) Entre el 1º de julio de 2009 y el 30 de junio de 2010, el puntaje deberá ser igual o inferior a 12.185 puntos.
+a) Entre el 1º de julio de 2008 y el 30 de junio de 2009, los eventuales beneficiarios del Sistema de Pensiones Solidarias deberán tener un puntaje igual o inferior a 11.734 puntos;
+
+b) Entre el 1º de julio de 2009 y el 31 de agosto de 2009, el puntaje deberá ser igual o inferior a 12.185 puntos, y
+
+c) Entre el 1º de septiembre de 2009 y el 30 de junio de 2010, el puntaje deberá ser igual o inferior a 12.666.
 
 Para las personas que superen los umbrales a que se refiere el inciso precedente, se determinará su puntaje considerando lo dispuesto en el artículo 4º de la ley Nº 20.255. En lo demás, se aplicará la misma metodología utilizada para calcular los puntajes por aplicación de la Ficha de Protección Social.
 
