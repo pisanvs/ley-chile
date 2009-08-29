@@ -14,17 +14,7 @@ Considerando:
 
 Resuelvo:
 
-1.- Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros en calzada central de Av. Pedro Aguirre Cerda, de la comuna de Cerrillos, en los tramos de la misma, que según sus sentidos de tránsito, se indican en el siguiente cuadro:
-
-DESDE HASTA SENTIDO DE PISTA
-
-USO EXCLUSIVO
-
-BUSES
-
-Av. Suiza Lo Errázuriz Norte - Sur
-
-Lo Errázuriz Av. Departamental Sur-Norte
+1.- Establécense pistas de uso exclusivo para buses de transporte público urbano de pasajeros en calzada central del eje comprendido por Av. Pedro Aguirre Cerda, Camino a Melipilla y Av. Esquina Blanca, de las comunas de Cerrillos y Maipú, en los tramos del mismo, que según sus sentidos de tránsito, se indican en el siguiente cuadro:
 
 Podrán también excepcionalmente circular en las referidas pistas los vehículos de emergencia, de Gendarmería de Chile, los adscritos al Programa de Fiscalización de la Subsecretaría de Transportes que se encuentren desempeñando labores de control; y aquellos vehículos municipales destinados a cumplir funciones de apoyo a la función policial, que se encuentren debidamente identificados.
 
