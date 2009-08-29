@@ -168,6 +168,10 @@ El incumplimiento en el plazo de inicio de las obras, producirá la caducidad au
 
 Si se excediere el plazo antes fijado para la recepción municipal de las obras, se producirá la caducidad automática de la reserva de cupo de los subsidios correspondientes que se hubiere efectuado y se hará efectiva la boleta bancaria de garantía que cauciona el crédito de enlace, si lo hubiere.
 
+#### Artículo 7° bis
+
+No obstante lo dispuesto en el inciso segundo del artículo 6° y en el inciso segundo del artículo 7°, tratándose de convenios suscritos a partir del 21 de mayo de 2009, las obras deberán iniciarse dentro de los 45 días corridos siguientes a la fecha de la total tramitación del acto administrativo del Serviu que apruebe dicho convenio, las que en todo caso deberán iniciarse hasta el 30 de octubre de 2009 y cuya recepción municipal no podrá exceder del 30 de diciembre de 2010, debiendo dejarse constancia de estas obligaciones en el convenio respectivo.
+
 #### Artículo 8°
 
 Una vez que la respectiva empresa constructora, o la inmobiliaria o la cooperativa de vivienda con la cual se hubiere suscrito el convenio, comunique al Serviu el inicio de las obras, éste podrá otorgar un préstamo de enlace, hasta por un plazo máximo de dos años, en las condiciones que señala el presente reglamento, a la empresa constructora que tenga a su cargo la construcción del proyecto.
