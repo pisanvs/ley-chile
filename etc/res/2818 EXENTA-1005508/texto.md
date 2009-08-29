@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.818, de 21 de agosto de 2009, de esta Subsecretaría, declárase la caducidad total de las resoluciones exentas Nº1.376 y Nº3.205 ambas de 2005, que autorizaron a AQUAFISH S.A., para desarrollar actividades pesqueras extractivas con la nave "Altar 10", matrícula 3121, por haber incurrido en la causal de caducidad prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, de conformidad con los informes técnicos citados en los Vistos de la resolución extractada.
+
+Valparaíso, 21 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
