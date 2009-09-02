@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1092, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº109, superficie 160 m2, Rol Nº107-34, comuna de Los Muermos, X Región para la obra "Camino Ruta V-60, Sector El Tepual Las Quemas Los Muermos, Km. 0,00000 al Km. 32,27442.", y se acordó el valor de indemnización con su propietaria SONIA DEL CARMEN OJEDA LEVINERI, ascendente a la cantidad de $631.908.-
+
+Fiscal del Ministerio de Obras Públicas.
