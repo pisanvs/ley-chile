@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 5.570 de 12 de agosto de 2009 de Serviu Metropolitano, se ordenó expropiación, conforme DL Nº 2.186 de 1978, una porción de terreno, en la cual existe propiedad común entre los presuntos propietarios de los inmuebles ubicados en Las Industrias 5219-A, Rol de Avalúo Nº 5012-6, de aparente dominio de Transa Securitizadora S.A.; Las Industrias 5219-B, Rol de Avalúo Nº 5012-27, de aparente dominio de Francisco Alberto Tiznado Esquiv; Las Industrias 5219-C, Rol de Avalúo Nº 5012-28, de aparente dominio de Leasing Chile S.A.; Las Industrias 5219-D, Rol de Avalúo Nº 5012-29, de aparente dominio de Boston Securitizadora S.A.; Las Industrias 5219-E, Rol de Avalúo Nº 5012-30, de aparente dominio de Transa Securitizadora S.A.; Las Industrias 5219-F, Rol de Avalúo Nº 5012-31, de aparente dominio de Vera Salas Alejandra Inés y otro; Las Industrias 5219-G, Rol de Avalúo Nº 5012-32, de aparente dominio de San Martín Luis Jara; Las Industrias 5219-H, Rol de Avalúo Nº 5012-33, de aparente dominio de Transa Securitizadora S.A.; todos de la comuna de San Joaquín; correspondiente a Lote Nº 243, del Proyecto Vial "Habilitación Corredor de Transporte Público Av. Las Industrias", San Joaquín. Comisión integrada por Eric Ehrenfeld Allera, arquitecto; Patricia Morales Rivera, constructor civil; y Soledad Herrera Zúñiga, ingeniero civil, según informe de 8 de mayo de 2009, fijó monto provisional indemnización en $8.380.180.- pagadera al contado.-
+
+Director SERVIU Metropolitano.
