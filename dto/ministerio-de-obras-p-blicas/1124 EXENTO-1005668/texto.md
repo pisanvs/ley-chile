@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1124 de 31 de julio de 2009, se expropiaron los lotes de terrenos Nºs. 15 y 16, superficies 139 y 186 m2, rol de Avalúo 923-6, comuna de Alto del Carmen, para la obra "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL , ETAPA II", III Región y se acordó el valor de la indemnización con su propietario GREGORIO DEL CARMEN VEGA RIVERA, ascendente a la cantidad de $1.523.039.-
+
+Fiscal del Ministerio de Obras Públicas.
