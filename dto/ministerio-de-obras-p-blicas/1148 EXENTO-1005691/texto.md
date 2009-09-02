@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1148, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº4, superficie 161 m2, Rol Nº922-24, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietaria ADELAIDA BOLADOS PAEZ, ascendente a la cantidad de $386.552.-
+
+Fiscal del Ministerio de Obras Públicas.
