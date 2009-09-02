@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1118 de 31 de julio de 2009, se expropió el lote de terreno Nº11, superficie 1.371 m2, rol de Avalúo 427-190, comuna de Illapel, para la obra "CAMINO RUTA D-85, D-81, SECTOR BY PASS ILLAPEL, KM. 0,00000 A Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario EDUARDO ALEJANDRO PERALTA ASTUDILLO, ascendente a la cantidad de $3.072.779.-
+
+Fiscal del Ministerio de Obras Públicas.
