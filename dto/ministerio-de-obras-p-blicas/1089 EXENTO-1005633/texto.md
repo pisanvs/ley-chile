@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1089, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº29, superficie 258 m2, Rol de Avaluó en tramite, comuna de Los Vilos, IV Región para la obra "Mejoramiento Ruta D-875, Sector Quilimari Guanguali, tramo Km. 1,79200 al Km. 16,0000", y se acordó el valor de indemnización con su propietario MANUEL ALCIDES RENE CESPED GONZALEZ, ascendente a la cantidad de $1.223.539.-
+
+Fiscal del Ministerio de Obras Públicas.
