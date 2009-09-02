@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1137, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno Nºs. 2 y 4, superficies 38 y 266 m2, Rol Nº911-1, comuna de Alto del Carmen, III Región para la obra " Mejoramiento Ruta C-495, El Transito - Junta Valeriano, Etapa I, Km. I , Km. 37,80000 al Km. 44,06000" y se acordó el valor de indemnización con WALTER JOSE SERICHE ROBLEDO, ascendente a la cantidad de $1.221.805.- para los lotes Nºs. 2 y 4.
+
+Fiscal del Ministerio de Obras Públicas.
