@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1090, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno N°s 26 y 27, superficie 37 y 121 m2 respectivamente, Rol Nº924-5, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietario ARMANDO ANIBAL MIRANDA, ascendente a la cantidad de $1.353.848.-
+
+Fiscal del Ministerio de Obras Públicas.
