@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1123 de 31 de julio de 2009, se expropió el lote de terreno Nº3-A, superficie 436 m2, rol de Avalúo 424-36, comuna de Illapel, para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679", IV Región y se acordó el valor de la indemnización con su propietario BENITO DEL CARMEN ROZAS CESPED, ascendente a la cantidad de $428.551.-
+
+Fiscal del Ministerio de Obras Públicas.
