@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1110, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno Nºs. 22 y 23 superficies 45 y 30 m2, Rol Nº923-5, comuna de Alto del Carmen, III Región para la obra " Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II" y se acordó el valor de indemnización con JUAN ZOROBABEL REYNUABA GODOY, ascendente a la cantidad de $975.254.- para los lotes Nºs. 22 y 23.
+
+Fiscal del Ministerio de Obras Públicas.
