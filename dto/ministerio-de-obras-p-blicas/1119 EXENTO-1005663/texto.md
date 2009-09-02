@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1119 de 31 de julio de 2009, se expropió el lote de terreno Nº22, superficie 1.019 m2, rol de Avalúo 427-220, comuna de Illapel, para la obra "CAMINO RUTA D-85, D-81, SECTOR BY PASS ILLAPEL, KM. 0,00000 A Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario SERGIO ALBERTO TRIGO SALINAS Y OTROS, ascendente a la cantidad de $1.647.678.-
+
+Fiscal del Ministerio de Obras Públicas.
