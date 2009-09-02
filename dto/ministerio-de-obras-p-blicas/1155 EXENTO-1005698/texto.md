@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1155 de fecha 31 de julio del 2009, se expropió el lote de terreno Nº694-A, superficie 133,59 m2, Rol Nº387-162, comuna de Pitrufquén IX, Región para la obra "Proyecto Sistema de Regadío Faja Maisan, Obras: Fajas Adicionales Canal Matriz" y se acordó el valor de indemnización con su propietario JORGE ANTITUR CHEUQUEÑANCO, ascendente a la cantidad de $85.540.-
+
+Fiscal del Ministerio de Obras Públicas.
