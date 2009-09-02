@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1145, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº33, superficie 139 m2, Rol Nº939-9, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", y se acordó el valor de indemnización con su propietario JOSE MARCIAL TORRES SUAREZ, ascendente a la cantidad de $539.128.-
+
+Fiscal del Ministerio de Obras Públicas.
