@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1107, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº2, superficie 5.929 m2, Rol Nº415-20, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474" y se acordó el valor de indemnización con su propietario PEDRO ELISEO LOPEZ LEON Y OTROS, ascendente a la cantidad de $39.222.835.- para el lote Nº2.
+
+Fiscal del Ministerio de Obras Públicas.
