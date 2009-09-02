@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1099 de fecha 31 de julio de 2009, se expropió el lote de terreno Nº48, superficie 195 m2, rol Nº921-9, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C489, Sendero Peatonal, Etapa I", III Región y se acordó el valor de la indemnización con su propietario ANTONIO BOLADOS ROJAS, ascendente a la cantidad de $829.296.-
+
+Fiscal del Ministerio de Obras Públicas.
