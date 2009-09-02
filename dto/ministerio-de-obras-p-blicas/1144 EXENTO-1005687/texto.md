@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1144, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº9, superficie 79 m2, Rol Nº922-1, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II" y se acordó el valor de indemnización con GAVINO DEL CARMEN BOLADOS PAEZ, ascendente a la cantidad de $319.913.- para el lote Nº9.
+
+Fiscal del Ministerio de Obras Públicas.
