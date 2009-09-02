@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1105 de fecha 31 de julio de 2009, se expropió el lote de terreno Nº2, superficie 271 m2, rol Nº922-22, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C489, Sendero Peatonal, Etapa II", III Región y se acordó el valor de la indemnización con su propietario IVAN RUDICO BOLADOS PAEZ, ascendente a la cantidad de $587.328.-
+
+Fiscal del Ministerio de Obras Públicas.
