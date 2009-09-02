@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1135, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº42, superficie 79 m2, Rol Nº901-43, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", y se acordó el valor de indemnización con su propietario ARMANDO DEL ROSARIO DIAZ RIVERA, ascendente a la cantidad de $660.674.-
+
+Fiscal del Ministerio de Obras Públicas.
