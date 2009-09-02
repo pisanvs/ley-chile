@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1117 de 31 de julio de 2009, se expropió el lote de terreno Nº18, superficie 2.380 m2, Rol Nº509-110, comuna de Copiapó, III Región para la obra "MEJORAMIENTO DE RUTA C-386, BIFURCACION RUTA TOLEDO (BY-PASS A COPIAPO), REGIÓN DE ATACAMA" y se acordó el valor de indemnización con su propietaria SYLVIA MARIA ALBINA PORCILE RISI, ascendente a la cantidad de $3.703.000.-
+
+Fiscal del Ministerio de Obras Públicas.
