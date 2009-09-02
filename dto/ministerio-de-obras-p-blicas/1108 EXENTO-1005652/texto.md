@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1108, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno Nºs. 8-A, 10, 12, 26-A y 30, superficies 14.343, 2.474, 100, 1.688 y 1.575 m2, Rol Nº427-57, comuna de Illapel, IV Región para la obra 'Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474" y se acordó el valor de indemnización con su propietario MIGUEL DOMENECH PALLEJA, ascendente a la cantidad de $37.629.162.- para los lotes Nºs. 8-A, 10, 12, 26-A y 30.
+
+Fiscal del Ministerio de Obras Públicas.
