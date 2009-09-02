@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN PARA NUEVAS EXTRACCIONES DE AGUAS SUBTERRÁNEAS LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DEL VALLE DEL RÍO LIMARÍ, LOCALIZADO EN LA PROVINCIA DE LIMARÍ, REGIÓN DE COQUIMBO
+
+Mediante resolución DGA Nº 115, de fecha 2 de julio de 2009, se ha declarado Área de restricción para extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común del Valle del Río Limarí, correspondiente a Combarbalá, Cogotí, Río Pama, Quebrada Grande, Higuerilla, El Ingenio y Guatulame, ubicados en las comunas de Combarbalá, Monte Patria, Río Hurtado, Ovalle, Punitaqui, provincia de Limarí, Región de Coquimbo. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Coquimbo y en la página web de la DGA.-
+
+Rodrigo Weisner Lazo, Director General de Aguas.
