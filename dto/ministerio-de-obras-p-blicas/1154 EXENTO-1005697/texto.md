@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1154 de fecha 31 de julio del 2009, se dejó sin efecto el Decreto MOP Nº544 de 31 de julio de 2008 y expropió el lote de terreno Nº6-A, superficie 2.485 m2, Rol Nº169-14, comuna de Colina, Región Metropolitana para la obra 'Calle de Servicio By Pass Colina, Eje Calle San Luis Km. 0,00240 al Km.0,12000, Eje Caletera Km. 0,00000 a Km. 1,10000, Comuna de Colina, Provincia de Chacabuco, Región Metropolitana, y se acordó el valor de indemnización con su propietario INMOBILIARIA LAS QUILAS S.A., ascendente a la cantidad de $65.284.349.-
+
+Fiscal del Ministerio de Obras Públicas.
