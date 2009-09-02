@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1128, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº20, superficie 39 m2, Rol Nº1700-1, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", y se acordó el valor de indemnización con su propietario SERGIO HERMOGENES CERICHE RAMOS, ascendente a la cantidad de $297.246.-
+
+Fiscal del Ministerio de Obras Públicas.
