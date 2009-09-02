@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1157, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº2, superficie 3.805 m2, Rol Nº387-248, comuna de Pitrufquén, IX Región para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan, Obra Canal Nueva Etruria", y se acordó el valor de indemnización con su propietario JUAN IGNACIO HUAIQUIMIL LEFIN, ascendente a la cantidad de $3.988.688.-
+
+Fiscal del Ministerio de Obras Públicas.
