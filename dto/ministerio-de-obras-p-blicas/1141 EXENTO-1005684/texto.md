@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1141, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº46-D, superficie 627 m2, Rol Nº280-65, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario FLORENCIO DE LAS ROSAS JAQUE SOTO, ascendente a la cantidad de $27.363.362.- para el lote Nº46-D.
+
+Fiscal del Ministerio de Obras Públicas.
