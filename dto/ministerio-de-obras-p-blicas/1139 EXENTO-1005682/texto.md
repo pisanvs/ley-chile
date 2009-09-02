@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1139, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº24, superficie 568 m2, Rol En Trámite, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474" y se acordó el valor de indemnización con su propietaria NINFA DEL CARMEN SUAREZ SUAREZ, ascendente a la cantidad de $1.798.193.- para el lote Nº24.
+
+Fiscal del Ministerio de Obras Públicas.
