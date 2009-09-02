@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1122 de 31 de julio de 2009, se expropió el lote de terreno Nº11, superficie 248 m2, rol de Avalúo 296-118, comuna de Los Vilos, para la obra "MEJORAMIENTO RUTA D-875, SECTOR QUILIMARI - GUANGUALI, TRAMO KM. 1,79200 A KM. 16,0000", IV Región y se acordó el valor de la indemnización con su propietaria EDELMIRA CORREA OLIVARES, ascendente a la cantidad de $1.270.818.-
+
+Fiscal del Ministerio de Obras Públicas.
