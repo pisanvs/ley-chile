@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1102 de fecha 31 de julio de 2009, se expropiaron los lotes de terreno Nºs 44 y 45, superficies 989 y 99 m2 respectivamente, rol Nº940-1, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", III Región y se acordó el valor de la indemnización con su propietario ROSA EMILIA MORALES SOTOMAYOR Y OTROS, ascendente a la cantidad de $4.203.797.-
+
+Fiscal del Ministerio de Obras Públicas.
