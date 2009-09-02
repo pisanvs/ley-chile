@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1130, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº29-A, superficie 780 m2, Rol de Avaluó en trámite, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, tramo Km. 0,00000 al Km. 4,05474", y se acordó el valor de indemnización con su propietaria ANA MARIA LUPERFINA VILLALOBOS GOMEZ Y OTROS, ascendente a la cantidad de $1.063.366.-
+
+Fiscal del Ministerio de Obras Públicas.
