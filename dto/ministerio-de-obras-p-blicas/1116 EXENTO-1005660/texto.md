@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1116 de 31 de julio de 2009, se expropió el lote de terreno Nº81, superficie 169 m2, rol de Avalúo 33-25, comuna de Rio Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietario HELIO GONZALEZ ARAYA, ascendente a la cantidad de $432.174.-
+
+Fiscal del Ministerio de Obras Públicas.
