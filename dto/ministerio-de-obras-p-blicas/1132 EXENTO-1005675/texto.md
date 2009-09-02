@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1132, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº23, superficie 357 m2, Rol Nº427-219, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, tramo Km. 0,00000 al Km. 4,05474", y se acordó el valor de indemnización con su propietario HECTOR ALADINO CARVAJAL MONTENEGRO, ascendente a la cantidad de $756.461.-
+
+Fiscal del Ministerio de Obras Públicas.
