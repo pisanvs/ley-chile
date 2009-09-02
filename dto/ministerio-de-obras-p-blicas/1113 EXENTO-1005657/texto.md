@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1113, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno Nºs. 43 y 47, superficies 66 y 235 m2, Roles Nº940-28 y 9216, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" y se acordó el valor de indemnización con HERMINDA DIAZ RIVERA Y OTRA, ascendente a la cantidad de $1.008.967.- para los lotes Nºs. 43 y 47.
+
+Fiscal del Ministerio de Obras Públicas.
