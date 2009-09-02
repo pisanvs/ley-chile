@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1152, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº30, superficie 52 m2, Rol Nº923-37, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II" y se acordó el valor de indemnización con AGUSTIN DEL CARMEN VILLALOBOS VALENZUELA, ascendente a la cantidad de $371.667.- para el lote Nº30.
+
+Fiscal del Ministerio de Obras Públicas.
