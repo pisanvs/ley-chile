@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1146, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno N°s 21-B y 28, superficie 531 y 622 m2 respectivamente, Rol Nº427-3, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, tramo Km. 0,00000 al Km. 4,05474", y se acordó el valor de indemnización con su propietario FROILAN LEMUS ROJAS, ascendente a la cantidad de $1.382.147.-
+
+Fiscal del Ministerio de Obras Públicas.
