@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1140 de fecha 31 de julio del 2009, se expropió el lote de terreno Nº50, superficie 37 m2, Rol Nº18-184, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle - Hurtado, sector Samo Alto Pichasca", y se acordó el valor de indemnización con su propietaria GRACIELA ELENA JERALDO FLORES, ascendente a la cantidad de $1.593.781.- para el lote Nº50.
+
+Fiscal del Ministerio de Obras Públicas.
