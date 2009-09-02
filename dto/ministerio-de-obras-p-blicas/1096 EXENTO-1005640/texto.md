@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1096, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº39, superficie 124 m2, Rol Nº925-10, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietario MISAEL CUBILLOS RIVERA, ascendente a la cantidad de $903.291.-
+
+Fiscal del Ministerio de Obras Públicas.
