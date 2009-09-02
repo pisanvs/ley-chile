@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1109, de fecha 31 de julio del 2009, se dejó sin efecto el Decreto MOP Nº735 de 30 de septiembre de 2008 y se expropió el lote de terreno Nº6, superficie 2.328 m2, Rol Nº1016-18, comuna de Vallenar, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sector Puente La Verbena " y se acordó el valor de indemnización con RENE ALEJANDRO SANDOVAL DIAZ Y OTROS, ascendente a la cantidad de $7.085.556.- para el lote Nº6.
+
+Fiscal del Ministerio de Obras Públicas.
