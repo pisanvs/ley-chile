@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1111, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº27, superficie 179 m2, Rol Nº970-13, comuna de Alto del Carmen, III Región para la obra " Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" y se acordó el valor de indemnización con DANIEL RAMIRO SALAZAR CUBILLOS, ascendente a la cantidad de $476.802.- para el lote Nº27.
+
+Fiscal del Ministerio de Obras Públicas.
