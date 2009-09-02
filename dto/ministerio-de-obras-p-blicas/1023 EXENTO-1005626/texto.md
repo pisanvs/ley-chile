@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1023 de 30 de junio de 2009, se expropió el lote de terreno Nº11-1, superficie 777 m2., rol de avalúo 32-36, comuna de Hijuelas, para la obra "PROYECTO: CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 2: KM. 0.000,00 AL KM. 38.500,00. TRAMO 1: KM. 0.000,00 AL KM. 21.000,00", V Región, se acordó el valor de la indemnización con su propietario JORGE AMPELIO MAGNERE GAETE, ascendente a la cantidad de $27.842.732.-.
+
+Fiscal del Ministerio de Obras Públicas.
