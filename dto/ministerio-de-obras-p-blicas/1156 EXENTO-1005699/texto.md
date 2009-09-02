@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1156, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº1, superficie 1.111 m2, Rol Nº381-278, comuna de Pitrufquén, IX Región para la obra "Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan, Obra Canal Mapu Quimey Desagüe", y se acordó el valor de indemnización con su propietario AYDEE PINTO MANRIQUEZ, ascendente a la cantidad de $1.776.600.-
+
+Fiscal del Ministerio de Obras Públicas.
