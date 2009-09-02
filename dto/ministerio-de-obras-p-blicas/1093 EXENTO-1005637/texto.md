@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1093, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno N°s 12 y 12-A, superficie 57 y 90 m2 respectivamente, Rol Nº922-3, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietario EMILIO SILVIO SEGUNDO MANCILLA RAMIREZ, ascendente a la cantidad de $721.497.-
+
+Fiscal del Ministerio de Obras Públicas.
