@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1103 de fecha 31 de julio de 2009, se expropió el lote de terreno Nº5-A, superficie 4.720 m2, rol Nº427-39, comuna de Illapel, para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario PEDRO DEL CARMEN ESQUIVEL SAAVEDRA, ascendente a la cantidad de $5.098.240.-
+
+Fiscal del Ministerio de Obras Públicas.
