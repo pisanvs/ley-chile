@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1149, de fecha 31 de julio del 2009, se expropiaron los lotes de terreno N°s 36, 37 y 38, superficie 74, 63 y 136 m2 respectivamente, Rol Nº925-15, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietaria LUZMIRA CUBILLOS RIVERA, ascendente a la cantidad de $2.363.074.-
+
+Fiscal del Ministerio de Obras Públicas.
