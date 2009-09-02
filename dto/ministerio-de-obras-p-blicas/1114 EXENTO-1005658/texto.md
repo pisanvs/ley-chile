@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1114, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº11, superficie 76 m2, Rol Nº952-25, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II" y se acordó el valor de indemnización con EMETERIA ARDILES ACUÑA, ascendente a la cantidad de $454.565.- para el lote Nº11.
+
+Fiscal del Ministerio de Obras Públicas.
