@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1142 de fecha 31 de julio del 2009, se expropió el lote de terreno Nº120-A, superficie 108 m2, Rol Nº3350-63, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746, Provincia de Llanquihue, X Región" y se acordó el valor de indemnización con su propietario MIGUEL SEGUNDO VIVAR VALDERAS, ascendente a la cantidad de $573.584.- para el lote Nº120-A.
+
+Fiscal del Ministerio de Obras Públicas.
