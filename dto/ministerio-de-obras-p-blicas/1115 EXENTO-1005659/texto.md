@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1115, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº131-B, superficie 279 m2, Rol Nº275-96, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietaria SANDRY ALEJANDRA JAQUE GONZALEZ, ascendente a la cantidad de $1.025.521.- para el lote Nº131-B.
+
+Fiscal del Ministerio de Obras Públicas.
