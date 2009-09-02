@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1136, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº41, superficie 275 m2, Rol Nº631-86, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas Buena Paz, Tramo Km. 0,00000 al Km. 10,40000. Camino Mejoramiento Ruta K-15 Sector Quechereguas, Tramo Km. 5,70000 al Km. 5,90000.", y se acordó el valor de indemnización con su propietario ESTEBAN MANUEL MATUS GARCIA, ascendente a la cantidad de $2.593.754.-
+
+Fiscal del Ministerio de Obras Públicas.
