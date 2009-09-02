@@ -62,13 +62,17 @@ diciembre 0,35200 UTM
 
 Circunscripciones Electorales 0,12931 UTM
 
-- Fotocopias simples, tamaño carta u
+- Fotocopia simple, tamaño carta c/u 0.000272 UTM
 
-oficio, c/u 0,00086 UTM
+- Fotocopia simple, tamaño oficio c/u 0.000272 UTM
 
-- Fotocopias reducidas o doble carta,
+- Fotocopias reducidas o doble carta c/u 0.000544 UTM
 
-c/u 0,00129 UTM
+- Disco compacto (CD) para entrega
+
+de la información solicitada en
+
+respaldo digital Valor CD 0.005436 UTM
 
 3.- Autorízase una vez realizada la conversión de los valores fijados en el artículo precedente, el cobro de la cantidad monetaria entera inmediatamente superior a $0,50 (cincuenta centésimos de pesos), como asimismo, el cobro de la cantidad monetaria entera inmediatamente inferior en los casos que la fracción decimal no ascienda a la señalada.
 
