@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1133, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº1, superficie 92 m2, Rol Nº121-48, comuna de Pucón, IX Región para la obra "Proyecto reconstrucción Puente Carhuello, Camino Cristo Carhuello Quelhue, sector Km. 2,68000 al Km. 2,77000." y se acordó el valor de indemnización con su propietaria ANA MARIANELA VILLALON ALISTE Y OTROS, ascendente a la cantidad de $727.094.-
+
+Fiscal del Ministerio de Obras Públicas.
