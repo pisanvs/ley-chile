@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1131, de fecha 31 de julio del 2009, se expropió el lote de terreno Nº155-B, superficie 2.847 m2, Rol Nº276-108, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L 30 M Carrizal, Tramo Km. 0,50000 al Km. 17,34000.", y se acordó el valor de indemnización con su propietaria MARGARITA EUGENIA GONZALEZ MARQUEZ, ascendente a la cantidad de $22.118.191.-
+
+Fiscal del Ministerio de Obras Públicas.
