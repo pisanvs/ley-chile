@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1100 de fecha 31 de julio de 2009, se expropió el lote de terreno Nº24, superficie 119 m2, rol Nº924-12, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", III Región y se acordó el valor de la indemnización con su propietario ROSA GREGORIA PAREDES CHAVEZ, ascendente a la cantidad de $1.139.619.-
+
+Fiscal del Ministerio de Obras Públicas.
