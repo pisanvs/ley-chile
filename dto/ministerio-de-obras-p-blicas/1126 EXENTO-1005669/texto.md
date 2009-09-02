@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1126 de fecha 31 de julio del 2009, se expropiaron los lotes de terreno Nºs. 4-C y 4-D, superficies 140 y 30 m2, Rol Nº154-284, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria GUILLERMINA MARIA ANGELICA GUZMAN CASTRO, ascendente a la cantidad de $2.874.914.- para los lotes Nºs 4-C y 4-D.
+
+Fiscal del Ministerio de Obras Públicas.
