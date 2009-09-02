@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1150 de fecha 31 de julio del 2009, se dejó sin efecto el Decreto MOP Nº545 de 31 de julio de 2008 y expropiaron los lotes de terreno Nºs 5 y 7, superficies 1.102 y 1.021 m2, Rol Nº945-3 y 945-4, comuna de Colina, Región Metropolitana para la obra "Calle de Servicio By Pass Colina, Eje Calle San Luis Km. 0,00240 al Km.0,12000, Eje Caletera Km. 0,0000 a Km. 1,1000, Comuna de Colina, Provincia de Chacabuco, Región Metropolitana, y se acordó el valor de indemnización con su propietario SOCIEDAD INMOBILIARIA EL CACIQUE LIMITADA, ascendente a la cantidad de $54.676.229.-
+
+Fiscal del Ministerio de Obras Públicas.
