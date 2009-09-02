@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE LA CUENCA DEL ESTERO NILAHUE, LOCALIZADO EN LA PROVINCIA DE COLCHAGUA, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+
+Mediante resolución DGA N° 114, de fecha 2 de julio de 2009, se ha declarado Área de restricción para nuevas extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común de la cuenca del Estero Nilahue, correspondientes a Nilahue antes de Quiahue, Estero Quiahue, Estero Lolol, Estero Pumanque y Nilahue en Santa Teresa, ubicado en las comunas de Santa Cruz, Lolol, Chépica y Pumanque, provincia de Colchagua, Región del Libertador General Bernardo O'Higgins. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región del Libertador General Bernardo O'Higgins y en la pagina Web de la DGA.-
+
+Rodrigo Weisner Lazo, Director General de Aguas.
