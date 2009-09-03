@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.874, de 26 de agosto de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 204103056, presentada por Salmones Antártica S.A. para el centro de cultivo ubicado en Bajo Chincui, Isla Butachauques, X Región, transferido a la peticionaria mediante resolución Nº 1.165 de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 26 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
