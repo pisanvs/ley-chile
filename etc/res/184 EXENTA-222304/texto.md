@@ -28,9 +28,7 @@ soldar y roscados para tubos de
 
 cobre - Requisitos generales.
 
-NCh2843.Of2004 Adopción de normas internacionales
-
-como normas nacionales.
+NCh2843.Of2004 ANULADA Y REEMPLAZADA.
 
 NCh2851.Of2004 Publicaciones técnicas -
 

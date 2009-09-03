@@ -10,9 +10,7 @@ Decláranse Normas Oficiales de la República de Chile, las siguientes:
 
 NCh 1430 Extintores portátiles - Características y rotulación,
 
-NCh 1724 Extintores portátiles - Polvo químico seco -
-
-Requisitos y método de ensayo.
+NCh 1724 ANULA Y REEMPLAZA
 
 #### Artículo 2º
 

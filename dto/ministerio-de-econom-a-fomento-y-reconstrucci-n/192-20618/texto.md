@@ -10,7 +10,7 @@ Decláranse normas oficiales de la República de Chile las siguientes:
 
 NCh 2265 Gas natural comprimido - Inspección periódica de cilindros de acero sin costura para uso en vehículos motorizados.
 
-NCh 2293 Artefactos para calefacción local, que usan combustibles gaseosos - Estufas conectadas con circuito abierto de combustión.
+NCh 2293 ANULA Y REEMPLAZA.
 
 #### Artículo 2°
 

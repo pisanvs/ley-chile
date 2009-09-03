@@ -44,11 +44,7 @@ las normas-Métodos de análisis
 
 químico.
 
-NCh2777.Of2003 Tecnología de la información-Código
-
-de práctica para la gestión de
-
-seguridad de la información.
+NCh2777.Of2003 ANULADA Y REEMPLAZADA.
 
 NCh2797.Of2003 ANULADA
 
