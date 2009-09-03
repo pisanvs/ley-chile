@@ -26,25 +26,15 @@ c) La necesidad de administrar eficientemente la numeración del Servicio Públi
 
 Resuelvo:
 
-Establécese que, para fines de asignación de numeración al Servicio Público de Voz sobre Internet, las respectivas concesionarias de dicho servicio podrán optar por una de las siguientes estructuras de numeración:
+Establécese que la numeración para el Servicio Público de Voz sobre Internet tendrá la siguiente estructura:
 
-a) 44 + YXXXXXX
+44 + YXXXXXX
 
 donde:
 
 • El número 44 es un código de área virtual móvil;
 
-• Y puede ser cualquier dígito entre 2 y 9, ambos inclusive; y
-
-• X puede ser cualquier dígito entre 0 y 9, ambos inclusive.
-
-o bien,
-
-b) 9 + 44XXXXXX
-
-donde:
-
-• El número 9 es un código de área virtual móvil; y
+• Y puede ser cualquier dígito entre 2 y 9, ambos inclusive, y
 
 • X puede ser cualquier dígito entre 0 y 9, ambos inclusive.
 
