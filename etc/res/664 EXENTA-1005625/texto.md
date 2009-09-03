@@ -1,0 +1,5 @@
+ORDENA PUBLICACIÓN DE RESOLUCIÓN Nº 664 EXENTA, DE 2008, QUE REVOCA RECONOCIMIENTO OFICIAL QUE INDICA
+
+Por resolución exenta Nº 186, de 2 de abril de 2009, se ordenó, en su resuelvo Nº 3, publicar en el Diario Oficial el extracto de la resolución exenta Nº 664, de fecha 5 de noviembre de 2008, de esta Secretaría Regional, que dispuso la revocación del reconocimiento oficial de la Escuela de Conductores Profesionales denominada INACAP, cuyo Representante Legal era don Tomás Irarrázaval Llona, y que desarrollaba sus servicios en calle Yumbel Nº 811, de la comuna de Copiapó, III Región de Atacama. Mediante esta publicación dicha resolución se entenderá por cumplida y totalmente tramitada.
+
+Anótese, notifíquese y publíquese en extracto.- Yanira Elizabeth Ardiles Neira, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
