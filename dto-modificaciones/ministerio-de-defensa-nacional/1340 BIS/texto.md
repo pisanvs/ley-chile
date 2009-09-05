@@ -2198,6 +2198,12 @@ La ronda tendrá facultad de proceder a detener a las personas cogidas en flagra
 
 La resistencia, los ultrajes, las violencias o vías de hecho contra el personal de la Capitanía de Puerto, en el ejercicio de sus funciones o a causa de ellas, se considerarán como hechos a los agentes de la fuerza pública.
 
+#### Artículo 266º bis
+
+<!-- parte:10058006 -->
+
+Los Oficiales y Gente de Mar que ejerzan funciones de policía marítima, usarán como distintivo una placa, que los identificará como tales, según modelo que determinará por resolución el Director General del Territorio Marítimo y de Marina Mercante.
+
 #### Artículo 266
 
 <!-- parte:10049363 -->
