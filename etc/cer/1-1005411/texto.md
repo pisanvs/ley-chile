@@ -4,7 +4,7 @@ Publicado de acuerdo a lo dispuesto en el Nº 14 de resolución exenta Nº 3.722
 
 RUT Razón Social Certificado Nº Fecha
 
-78.887.600-2 Sociedad Comercial 1 10.03.2009
+76.887.600-2 Sociedad Comercial 1 10.03.2009
 
 Multicarnes Ltda.
 
