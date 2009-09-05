@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.600, de 30 de julio de 2009, de esta Subsecretaría, autorízase a PRÓSPERO SEGUNDO ESPINOZA BARRAZA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Lote 11, Parcela 10, fundo San Enrique de Bucalemu, V Región, para elaborar en líneas de proceso Secado y Picado de algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 30 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
