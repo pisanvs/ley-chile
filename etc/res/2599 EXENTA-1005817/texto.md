@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.599, de 30 de julio de 2009, de esta Subsecretaría, autorízase a LUISA MAGALY CERDA GARCÍA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Placilla s/n Quebrada de Talca, IV Región, para elaborar en línea de Alga seca y Alga picada, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 30 de julio de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
