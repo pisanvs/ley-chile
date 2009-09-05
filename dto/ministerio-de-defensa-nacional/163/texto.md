@@ -166,7 +166,7 @@ que no hubieren sido admitidos a tramitación o a los que hubieren sido retirado
 
 Tratándose de matrículas de naves o artefactos navales, la Autoridad Marítima podrá rechazar el nombre que el solicitante ha señalado para ellos, cuando ya existieran otros matriculados bajo el mismo nombre, o por otra razón fundada.
 
-Toda nave deberá llevar marcado su nombre en letras de tamaño proporcional a su porte, en la popa y las amuras. Además, en la popa y debajo del nombre, deberá llevar marcado el nombre del puerto de matrícula.
+Toda nave deberá llevar marcado su nombre en letras de tamaño proporcional a su porte, en la popa y las amuras. Además, en la popa y debajo de su nombre deberá llevar el nombre del puerto de matrícula o de domicilio de su propietario, a elección de este último.
 
 De lo resuelto, podrá pedirse reconsideración fundada al Director General.
 
@@ -178,7 +178,7 @@ Si el Director General devuelve el título presentado, por alguna causa legal o 
 
 La enajenación de naves mayores por acto entre vivos y la constitución de derechos reales sobre ellas, cuando ocurran en Chile se otorgarán por escritura pública. Los actos y contratos respecto de naves menores constarán por escrito y las firmas de los otorgantes deberán ser autorizadas ante notario.
 
-Los actos y contratos que se otorguen en el extranjero se regirán por la ley del lugar de su otorgamiento. Con todo, la transferencia del dominio de naves y la constitución sobre ellas de derechos reales que puedan producir efectos en Chile deberán constar en instrumentos escritos cuyas firmas estén autorizadas por un ministro de fe y cuya autenticidad se probará por cualesquiera de los medios establecidos en el artículo 345 del Código de Procedimiento Civil. Tratándose de documentos extendidos en idioma extranjero, deberán acompañarse, además, la traducción auténtica realizada por un traductor oficial del Ministerio de Relaciones Exteriores.
+Los actos y contratos que se otorguen en el extranjero se regirán por la ley del lugar de su otorgamiento. Con todo, la transferencia del dominio de naves y la constitución sobre ellas de derechos reales que puedan producir efectos en Chile deberán constar en instrumentos escritos cuyas firmas estén autorizadas por un ministro de fe y cuya autenticidad se probará por cualesquiera de los medios establecidos en el artículo 345 del Código de Procedimiento Civil. Tratándose de documentos extendidos en idioma extranjero, distinto del inglés, deberá acompañarse, además, la traducción auténtica realizada por un traductor oficial del Ministerio de Relaciones Exteriores.
 
 Cuando la adquisición de la nave tenga lugar en Chile en virtud de un contrato de construcción, se considerará como título la respectiva escritura pública o instrumento escrito autorizado por notario, conforme lo dispuesto por el artículo 832 del Código de Comercio. En dicho instrumento, deberá dejarse constancia de la entrega de la nave por el constructor a su dueño, del precio convenido y la forma y condiciones en que se haya realizado o deba realizarse su pago.
 
