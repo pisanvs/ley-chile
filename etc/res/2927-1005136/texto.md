@@ -16,15 +16,11 @@ Resolución:
 
 Asígnase a contar de la fecha que se indica al siguiente abogado, para que ejerza la función de Abogado del Servicio de Tesorerías con jurisdicción en las localidades que se indican:
 
-Nombre : Nelson Israel Saavedra
-
-Contreras
+Nombre : Nelson Israel Saavedra Contreras
 
 RUT : 13.906.015-6
 
-Ubicación : Primera Región - Provincial de
-
-Arica - Staff
+Ubicación : Décimo Quinta - Regional Arica- Staff
 
 Calidad Jurídica : Contrata
 
@@ -36,12 +32,10 @@ Grado : 11 E.U.
 
 Función : Abogado
 
-Fecha Inicio : 01/08/2009
+Fecha inicio : 01/08/2009
 
-Jurisdicción : Todas las comunas de la Décima
+Jurisdicción : Todas las comunas de la Décimo Quinta Región
 
-Quinta Región.
-
-Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorerías, dependientes de las Tesorerías Regionales o Tesorerías Provinciales de la Región Décima Quinta.
+Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los abogados del Servicio de Tesorerías, dependientes de la Tesorería Regional o Tesorerías Provinciales de la Décimo Quinta Región.
 
 Anótese, comuníquese y publíquese.- Andrea Tohá Veloso, Jefe División de Personal.
