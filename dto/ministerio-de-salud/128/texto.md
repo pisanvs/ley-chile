@@ -32,7 +32,7 @@ e) Areas: cada uno de los aspectos generales en que serán evaluados los logros 
 
 área técnica, área clínica y área organizacional;
 
-f) Establecimiento (s): las siguientes dependencias de los Servicios de Salud: Dirección de Servicio, Hospitales, Institutos, Centros de Diagnóstico Terapéutico, Centros de Referencia de Salud, Dirección de Atención Primaria, Consultorios y Postas Rurales, en concordancia con lo establecido en el decreto ley Nº2.763 y sus reglamentos;
+f) Establecimiento (s): las siguientes dependencias de los Servicios de Salud: Dirección de Servicio, Hospitales, Institutos, Centros de Diagnóstico Terapéutico, Centros de Referencia de Salud, Dirección de Atención Primaria, Consultorios y Postas Rurales, en concordancia con lo establecido en el decreto con fuerza de ley Nº1 de 2005, del Ministerio de Salud y sus reglamentos;
 
 g) Factores: cada uno de los aspectos específicos que, dentro de una área determinada, deben ser evaluados en base a un sistema de puntuación que será definido en las Bases respectivas. En todo caso, las actividades que permitan acreditar un factor determinado no podrán utilizarse además para acreditar otro, sea dentro de la misma área o en otra distinta;
 
@@ -54,7 +54,7 @@ Durante el curso del noveno año de permanencia en un cargo de planta, en los Ni
 
 Los profesionales que desempeñen más de un cargo de planta, deberán presentar sus antecedentes para acreditarse respecto de cada uno de ellos, en la oportunidad que corresponda.
 
-Por su parte, los profesionales contratados en la Etapa de Planta Superior, conforme a la facultad establecida en el artículo 21 de la Ley Nº19.664, y cuyos contratos hayan sido prorrogados en el mismo empleo por un lapso mínimo de nueve años, podrán acogerse voluntariamente a acreditación en ese empleo, y los efectos de dicha acreditación se regirán por las normas generales, sin perjuicio de la facultad del Director del Servicio para poner término o no renovar el respectivo contrato. Esta acreditación constituirá un antecedente que se considerará favorablemente en el concurso, si los profesionales postulan a un cargo de planta.
+Por su parte, los profesionales contratados en la Etapa de Planta Superior, conforme a la facultad establecida en el artículo 21 de la Ley Nº19.664, y cuyos contratos hayan sido prorrogados en el mismo empleo y Servicio de Salud por un lapso mínimo de nueve años, deberán someterse a acreditación en ese empleo, y los efectos de dicha acreditación se regirán por las normas generales, sin perjuicio de la facultad del Director del Servicio para poner término o no renovar el respectivo contrato. Esta acreditación constituirá un antecedente que se considerará favorablemente en el concurso, si los profesionales postulan a un cargo de planta. La no presentación de los antecedentes para la acreditación, cuando corresponda hacerlo, hará incurrir a los profesionales a que se refiere este artículo, en la pérdida de requisitos para continuar ejerciendo el empleo y se le pondrá término a su contrato dentro de los quince días hábiles siguientes a la fecha en que debió someterse a la acreditación.
 
 ### Párrafo 2º
 
@@ -428,7 +428,7 @@ De la acreditación por excelencia
 
 #### Artículo 23
 
-Transcurridos cinco años de permanencia en un cargo de planta, en los Niveles I o II, los profesionales podrán presentar sus antecedentes para acreditación de excelencia, siempre que cumplan con los requisitos establecidos en el artículo siguiente.
+Transcurridos cinco años de permanencia en un cargo de planta o en un empleo a contrata, en los Niveles I o II, los profesionales podrán presentar sus antecedentes para acreditación de excelencia, siempre que cumplan con los requisitos establecidos en el artículo siguiente.
 
 Quienes no aprueben esa acreditación seguirán sometidos a las normas generales sobre presentación para acreditación ordinaria.
 
@@ -484,7 +484,7 @@ Para ser acreditado el profesional deberá obtener al menos 600 puntos como punt
 
 #### Artículo 27
 
-A más tardar durante la primera quincena del mes de marzo de cada año, el Subdirector Médico del Servicio de Salud dispondrá la confección de la nómina de todos los profesionales funcionarios titulares de los Niveles I y II que al 1° de mayo del mismo año les corresponda presentar sus antecedentes para acreditación, incluidos aquellos cargos que, no habiendo acreditado satisfactoriamente sus titulares en el o los años anteriores, deban volver a presentar sus antecedentes para acreditación de conformidad a lo prevenido en el inciso tercero del artículo 18 de la ley. Asimismo, se consignarán los cargos de los profesionales a contrata que, de conformidad a lo prevenido en el inciso segundo del artículo 21 de la ley, opten por presentar sus antecedentes a acreditación y aquellos que postulen a acreditación de excelencia, los cuales podrán manifestar su voluntad en ese sentido a más tardar el 28 de febrero.
+A más tardar durante la primera quincena del mes de marzo de cada año, el Subdirector Médico del Servicio de Salud dispondrá la confección de la nómina de todos los profesionales funcionarios titulares de los Niveles I y II que al 1° de mayo del mismo año les corresponda presentar sus antecedentes para acreditación, incluidos aquellos cargos que, no habiendo acreditado satisfactoriamente sus titulares en el o los años anteriores, deban volver a presentar sus antecedentes para acreditación de conformidad a lo prevenido en el inciso tercero del artículo 18 de la ley. Asimismo, se consignarán los cargos de los profesionales a contrata que, de conformidad a lo prevenido en el inciso segundo del artículo 21 de la ley, deban presentar sus antecedentes a acreditación y aquellos que postulen a acreditación de excelencia, los cuales podrán manifestar su voluntad en ese sentido a más tardar el 28 de febrero.
 
 Se hará difusión de esta nómina en la forma prevista en el inciso final del artículo 25.
 
@@ -567,6 +567,8 @@ Efectos de la acreditación
 Los profesionales que aprueben la acreditación accederán en el respectivo cargo al nivel inmediatamente siguiente, siempre que exista cupo financiero para ello, lo que deberá ser reconocido por resolución del Director del Servicio de Salud de conformidad con lo dispuesto en el artículo 18 de la Ley N°19.664, a contar de cuya data percibirán la asignación de experiencia calificada. El Director deberá dictar dicha resolución en el plazo de 30 días corridos, contados desde la fecha de la resolución a que se refiere el artículo 32 de la misma ley.
 
 De no existir cupo, pasarán a integrar, por orden de precedencia, según el proceso en que resultaron acreditados, una nómina por profesión que para esos efectos llevará el Servicio, en espera de cupo financiero para estos casos. El nuevo monto del beneficio se pagará sólo desde que se genere dicho cupo financiero, en la forma prevista en el inciso tercero del artículo 32 de la Ley 19.664.
+
+En todo caso, para los efectos del plazo al que deban someterse a una nueva acreditación, los profesionales que se encuentren en la nómina podrán abonar el tiempo que deban esperar por el cupo financiero para acceder al siguiente nivel de la Etapa, debiendo considerarse, asimismo, los logros alcanzados durante este tiempo por los profesionales en el ejercicio de sus funciones.
 
 #### Artículo 35
 
