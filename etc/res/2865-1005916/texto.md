@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.865, de 26 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº2.436, de 2009, de esta Subsecretaría, que autorizó a la FUNDACIÓN CHINQUIHUE para efectuar una pesca de investigación de conformidad con las Términos Técnicos de Referencia del Proyecto denominado “Caracterización y monitoreo de una pesquería de pequeña escala de Sardina austral (Sprattus fueguensis), en aguas interiores de la Región de Los Lagos, Temporada 2009”, en el siguiente sentido:
+
+a) Intercálese en el numeral 4.-, un inciso a continuación del primer inciso, cuyo texto es el siguiente: “A las citadas embarcaciones les está prohibido utilizar bomba para el secado de pescado (yoma), permitiéndoseles el uso de chigre artesanal o cabezal de virado de jareta, acorde con el utilizado en la actividad pesquera de pequeña escala. Asimismo, no podrán participar en la referida pesca de investigación, todas aquellas embarcaciones que hubiesen acreditado en otra u otras pescas de investigación los equipamientos denominados Winche, yoma o power block.”.
+
+b) Reemplázase el numeral 7.- letra c), por el siguiente: “Utilizar como puertos de desembarque y acreditación, los que a continuación se detallan: i) Calbuco, muelle artesanal La Vega; ii) Puerto Montt; Terminal Pesquero Chinquihue; iii) Cochamó, Rampa y iv) Dalcahue, muelle artesanal.”.
+
+Valparaíso, 26 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
