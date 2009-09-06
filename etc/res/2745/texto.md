@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.745, de 13 de agosto de 2009, de esta Subsecretaría, autorízase a CARMELO AURELIANO MAYORGA MUÑOZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Oruro, Ovalle, IV Región, para elaborar en líneas de Alga Seca y Picado de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de agosto de 2009.- Jorge Chocair Santibáñez Subsecretario de Pesca.
