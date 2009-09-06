@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.326, de 24/06/2009, modificó Res. (M) 1.961/1996, transferida por Res. (M) 1.747/2004, y transferida a su actual titular por Res. (M) 1.568/2005, de la siguiente forma: Superficie 19,11 Hás.; coordenadas geográficas Plano DPC-307, 1ª Edición 2006 (Datum WGS-84) Vértice A Lat. 42°59’53,34" S., Long. 73°26’09,08" W.; Vértice B Lat. 42°59’54,91" S., Long. 73°26’00,16" W.; Vértice C Lat. 42°59’58,80" S., Long. 73°26’01,32" W.; Vértice D Lat. 43°00’01,44" S., Long. 73°25’44,93" W., Vértice E Lat. 42°59’57,86" S., Long. 73°25’46,38" W.; Vértice F Lat. 42°59’56,21" S., Long. 73°25’36,46" W.; Vértice G Lat. 43°00’09,39" S., Long. 73°25’31,38" W.; Vértice H Lat. 43°00’10,80" S., Long. 73°25’41,57" W.; Vértice I Lat. 43°00’03,80" S., Long. 73°25’44,27" W.; Vértice J Lat. 43°00’00,80" S., Long. 73°26’01,71" W.; Vértice K Lat. 43°00’05,14" S., Long. 73°26’03,38" W.; Vértice L Lat. 43°00’03,56" S., Long. 73°26’12,40" W.
+
+Santiago, 31 de agosto de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
