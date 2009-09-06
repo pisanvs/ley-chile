@@ -62,6 +62,12 @@ dosis o concentración
 
 utilizada.
 
+Jatrofa Paraguay Sin declaraciones adicionales
+
+(Jatropha
+
+curcas)
+
 2. Adicionalmente las semillas deberán cumplir con los requisitos que disponen las regulaciones que fijan las normas para la investigación, producción y comercio de semillas.
 
 3. Las semillas deben encontrarse libres de suelo y de semillas de malezas cuarentenarias y no cuarentenarias reglamentadas establecidas por las resoluciones respectivas, condición que se verificará en la inspección fitosanitaria en el puerto de ingreso.
