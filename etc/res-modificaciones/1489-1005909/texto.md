@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.489, de 08/07/2009, modificó DS (M) 421/1988, modificado por Res. (M) 1.117/1994 y Res. (M) 1.038/2000, de la siguiente forma: Ubicación: Estero Compú, Compú, Sectores 1 y 2; superficie total 4,00 Hás.; coordenadas geográficas Plano DPC-307, 1ª Edición 2006, (Datum WGS-84), Sector I; Estero Compú, Compú; (2,00 Hás.), Vértice A Lat. 42°51’47,49" S., Long. 73°43’18,06" W.; Vértice B Lat. 42°51’50,37" S., Long. 73°43’10,16" W.; Vértice C Lat. 42°51’53,27" S., Long. 73°43’12,12" W.; Vértice D Lat. 42°51’50,40" S., Long. 73°43’20,02" W.; coordenadas geográficas Plano DPC-307, 1ª Edición 2006, (Datum WGS-84) Sector II; Estero Compú, Compú; (2,00 Hás.), Vértice A Lat. 42°51’52,65" S., Long. 73°43’02,73" W.; Vértice B Lat. 42°51’55,82" S., Long. 73°42’55,04" W.; Vértice C Lat. 42°51’58,65" S., Long. 73°42’57,20" W.; Vértice D Lat. 42°51’55,48" S., Long. 73°43’04,89" W.
+
+Santiago, 31 de agosto de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
