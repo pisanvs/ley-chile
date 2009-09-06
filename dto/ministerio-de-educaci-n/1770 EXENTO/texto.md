@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº 1.770 EXENTO, DE 28 DE AGOSTO DE 2009
+
+Por decreto exento que se indica del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica Centro de Estudios Paramédicos de Santiago - Cepsa, de la ciudad de Santiago, organizado por la Sociedad Centro de Formación Técnica Centro de Estudios Paramédicos de Santiago Cepsa Limitada o Centro de Formación Técnica Centro de Estudios Paramédicos de Santiago Cepsa o Centro de Formación Técnica Cepsa o Cepsa Limitada o Cepsa o Centro de Estudios Paramédicos de Santiago Limitada o Centro de Formación Técnica Centro de Estudios Paramédicos de Santiago, representada legalmente por doña Ximena Charpentier Canales, cuya Casa Central está ubicada en Avenida Troncal San Francisco Nº 0331 de Puente Alto y elimínase a dicho Centro del Registro correspondiente en que se encuentra inscrito con el Nº 153.
+
+Asimismo, se derogan los decretos exentos de Educación y las resoluciones exentas de Educación que reconocieron oficialmente y aprobaron los planes y programas de estudio de las carreras técnicas para el Centro de Formación Técnica Centro de Estudios Paramédicos de Santiago - Cepsa, de la ciudad de Santiago.
+
+Santiago, 1 de septiembre de 2009.- Cristián Martínez Ahumada, Subsecretario de Educación.
