@@ -52,6 +52,12 @@ Copihues Nº
 
 252, Chillán
 
+Francisco José Alcalá de Henares (09) 0999850
+
+Lama Vergara Nº 1187, Villa (042) 655080
+
+Barcelona, Chillán.
+
 CONSTRUCTORES CIVILES
 
 Nombre Dirección Teléfono
@@ -79,6 +85,12 @@ Villa Doña 09-76071542
 Francisca,
 
 Chillán
+
+Marcela Lorena Alcalá de Henares (08) 8286928
+
+Zúñiga Henríquez Nº 1187, Villa (042) 272480
+
+Barcelona, Chillán.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.
 
