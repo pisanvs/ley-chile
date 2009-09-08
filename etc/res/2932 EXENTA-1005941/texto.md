@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.932, de 1 de septiembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207104070 presentada por ENRIQUE FERNANDO CHÁVEZ MONTIEL, para instalar y operar un centro de cultivo ubicado en Estero Chauquiar, sector Desembocadura Estero Chucahua, Isla Puluqui, X Región.
+
+Valparaíso, 1 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
