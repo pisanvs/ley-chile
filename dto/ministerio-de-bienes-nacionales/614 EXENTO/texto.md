@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE LA ARAUCANÍA A LA MUNICIPALIDAD DE TRAIGUÉN
+
+Extracto de decreto exento Nº 614.- Santiago, 14 de agosto de 2009.
+
+Mediante decreto exento Nº 614, de 14 de agosto de 2009, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la Municipalidad de Traiguén, RUT 69.180.700-2, el inmueble fiscal ubicado en calle Aníbal Pinto Nº 150, de la comuna de Traiguén, provincia de Malleco y Región de la Araucanía, Rol de avalúo fiscal Nº 352-1, inscrito a nombre del Fisco, en mayor cabida, a fs. 112 vta., Nº 354, del Registro de Propiedad de 1918, del Conservador de Bienes Raíces de Traiguén, singularizado en el plano Nº 09210-969-C.U., de una superficie de 363,00 m2, por un plazo de quince (15) años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión gratuita se otorga con el fin de destinar el predio fiscal para desarrollar un proyecto que consiste en la “construcción de un jardín infantil con financiamiento de la JUNJI”, conformado por una sala cuna con capacidad para 20 lactantes de 0-2 años y un nivel medio para 32 párvulos de 2-4 años. El contrato de concesión deberá suscribirse dentro del plazo de treinta (30) días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión.
+
+Anótese, regístrese en el Ministerio de Bienes Nacionales, notifíquese, publíquese en extracto en el Diario Oficial, y archívese.- Por orden de la Presidenta de la República, Romy Schmidt Crnosija, Ministra de Bienes Nacionales.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Augusto Prado Sánchez, Subsecretario de Bienes Nacionales.
