@@ -72,7 +72,7 @@ De la misma manera, las personas que posean un título de nivel medio obtenido e
 
 #### Artículo 6º
 
-La Unidad de Atención e Información Educacional procederá a practicar la convalidación de estudios, otorgando un certificado de estudios que señale los cursos convalidados. La convalidación se hará mediante el examen de legalidad de la documentación escolar presentada para acreditar el nivel de escolaridad que se solicita se reconozca. Lo anterior, de acuerdo con las orientaciones técnico-pedagógicas que entregue la División de Educación General.
+La División de Educación General, a través de la Oficina encargada, procederá a practicar la convalidación de estudios, otorgando un certificado de estudios que señale los cursos convalidados. La convalidación se hará mediante el examen de legalidad de la documentación escolar presentada para acreditar el nivel de escolaridad que se solicita que se reconozca.
 
 III.- DE LA VALIDACION DE ESTUDIOS PARA EDUCACION BASICA
 
