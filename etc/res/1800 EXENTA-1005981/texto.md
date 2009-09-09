@@ -1,0 +1,5 @@
+RESOLUCIÓN Nº1.800 EXENTA, DE 2009
+
+Por resolución exenta Nº 1.800, de fecha 10 de agosto de 2009, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Osorio y Castillo Limitada", cuyo nombre de fantasía es "Acacia Conductores Limitada", RUT Nº 76.031.505-2, representada legalmente por Greyzi Wendi Huepe Quiroz, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clase A2, A3, A4 y A5, en la sede ubicada en Nemesio Vicuña Nº 797, y en taller mecánico ubicado en Sargento Menadier Nº 0298, ambos en la comuna de Puente Alto.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana (S).
