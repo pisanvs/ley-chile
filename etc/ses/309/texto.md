@@ -4,7 +4,7 @@ La Comisión, en su Sesión Nº 309 celebrada el 27 de agosto de 2009, de acuerd
 
 Extracto de los Antecedentes
 
-a) Fecha de inicio de la investigación: 4 de septiembre de 2006.
+a) Fecha de inicio de la investigación: 4 de septiembre de 2009.
 
 b) Producto objeto de la solicitud: leche en polvo, clasificada en los códigos arancelarios: 0402.1000, 0402.2111, 0402.2112, 0402.2113, 0402.2114, 0402.2115, 0402.2116, 0402.2117, 0402.2118, 0402.2911, 0402.2912, 0402.2913, 0402.2914, 0402.2915 0402.2916, 0402.2917 y 0402.2918; y queso gouda, clasificado en el código arancelario 0406.9010.
 
