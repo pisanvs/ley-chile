@@ -28,11 +28,13 @@ Destínase las bandas de frecuencias 2.496 - 2.572 MHz y 2.614 - 2.690 MHz para 
 
 #### Artículo 2º
 
-Destínase la banda de frecuencias 2.572 - 2.614 MHz, para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transmitir varios programas de televisión en un canal de 6 MHz autorizados mediante permiso de servicio limitado de televisión, o transportar señales, tales como, voz, datos e imágenes autorizados mediante concesión de servicio intermedio de telecomunicaciones.
+Destínase la banda de frecuencias 2.572 - 2.614 MHz, para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transmitir varios programas de televisión en un canal de 6 MHz autorizados mediante permiso de servicio limitado de televisión, o transportar señales, tales como, voz, datos e imágenes autorizados mediante concesión de servicio público o intermedio de telecomunicaciones.
+
+La banda 2.572 - 2.614 MHz también podrá destinarse para el reemplazo de determinadas frecuencias que deban ser despejadas por mandato de una norma técnica. La respectiva reasignación de frecuencias se efectuará mediante modificación de las correspondientes autorizaciones.
 
 #### Artículo 3º
 
-Los respectivos permisos y concesiones serán otorgados mediante concurso público. La cantidad de permisos y concesiones a asignar en la banda de frecuencias 2.496 - 2.690 MHz se establecerá en las bases del concurso respectivo.
+Los respectivos permisos y concesiones serán otorgados mediante concurso público, excepto en el caso señalado en el inciso 2° del artículo 2° de la presente norma. La cantidad de permisos y concesiones a asignar en la banda de frecuencias 2.496 - 2.690 MHz se establecerá en las bases del concurso respectivo.
 
 #### Artículo 4º
 
