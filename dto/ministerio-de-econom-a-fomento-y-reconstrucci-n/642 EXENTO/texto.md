@@ -324,6 +324,10 @@ c) Plazo de inicio de las obras: a más tardar 30 días contados desde la public
 
 d) Plazo para la entrada en operación del Proyecto: a más tardar el último día del mes del plazo indicado en el número 1.5 del artículo segundo presente decreto.
 
+Sin perjuicio de lo establecido en el literal d) precedente, el Ministerio, previo informe de la Comisión, podrá en forma excepcional, por una única vez, a petición del adjudicatario, precisando los motivos concretos que sustentan la decisión administrativa y basado en antecedentes objetivos, no imputables al adjudicatario, conceder una ampliación del plazo establecido en el numeral 1.5 del artículo segundo del presente Decreto. En todo caso, para optar a dicha ampliación, el adjudicatario deberá demostrar fehacientemente, en todo momento, haber actuado con la diligencia y celo necesario para cumplir en tiempo y forma con los plazos otorgados.
+
+Las Bases señalarán las condiciones y mecanismos mediante los cuales se autorice dicha ampliación, la que no podrá exceder en 50% el plazo originalmente establecido para la entrada en operación del Proyecto.
+
 En caso que alguno de los plazos anteriores terminen en un día no hábil, entendiendo por tal un sábado, domingo o festivo, el correspondiente plazo se entenderá prorrogado hasta el día hábil inmediatamente siguiente.
 
 3.2.3 Financiamiento del Proceso de Licitación
@@ -440,7 +444,7 @@ c) Garantizar el cumplimiento de los plazos para la entrada en operación del Pr
 
 d) Precaver eventuales daños a terceros.
 
-Las Bases establecerán la forma de constitución de dichas garantías, el plazo de su vigencia y la oportunidad en que deben ser tomadas, como las condiciones que las hacen ejecutables y el plazo y forma de su devolución, si procede. Las garantías o cauciones serán tomadas por el adjudicatario a beneficio fiscal y su ejecución estará a cargo del Ministerio.
+Las Bases establecerán la forma de constitución de dichas garantías, el plazo de su vigencia y la oportunidad en que deben ser tomadas, las condiciones que las hacen ejecutables y el plazo y forma de su devolución, si procede. Las garantías o cauciones serán tomadas por el adjudicatario a beneficio del Ministerio de Economía, Fomento y Reconstrucción, o de su sucesor legal, y su cobro estará a cargo de la DP, para lo cual el Ministerio, o su sucesor legal, individualmente o con la entidad pública con la que deba actuar en conjunto para la aplicación de la Ley General de Servicios Eléctricos, deberá endosarlas dentro de los 30 días siguientes a su recepción, en comisión de cobranza a la DP
 
 3.4 DE LA EJECUCIÓN DEL PROYECTO
 
@@ -448,7 +452,7 @@ Las Bases establecerán la forma de constitución de dichas garantías, el plazo
 
 El cumplimiento de las condiciones del Proyecto, es decir, el seguimiento de las condiciones señaladas por el adjudicatario en su propuesta, deberá ser supervisado por la DP conforme a las condiciones y mecanismos que se establezcan en el presente decreto y las Bases.
 
-La DP será responsable de supervigilar el cumplimiento de las condiciones del Proyecto, mediante auditorías de la ejecución del Proyecto, aprobar el cumplimiento de los hitos relevantes del Proyecto y de informar los eventuales incumplimientos de plazos y condiciones al Ministerio, para efectos que se hagan efectivas las garantías o cauciones correspondientes, conforme a las modalidades, formalidades y plazos que especificarán las Bases.
+La DP será responsable de supervigilar el cumplimiento de las condiciones del Proyecto, mediante auditorías de la ejecución del mismo, aprobar el cumplimiento de sus hitos relevantes y hacer efectivas las garantías o cauciones correspondientes, conforme a las modalidades, formalidades y plazos que especificarán las Bases, en caso de eventuales incumplimientos de cualquiera de los requisitos, condiciones, plazos, modalidades u otros aspectos considerados en el Proyecto, lo que deberá ser informado oportunamente al Ministerio y a la Comisión.
 
 Las características de la auditoría de ejecución del Proyecto se especificarán en las Bases. Con todo, el costo de su contratación y de la supervisión de la DP, son parte de los costos del Proceso de Licitación y se financiarán conforme a lo dispuesto en el Artículo 96° del DFL Nº 4.
 
