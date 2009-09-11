@@ -1,0 +1,9 @@
+Por resolución exenta Nº 2.942, de 3 de septiembre de 2009, de esta Subsecretaría, aplícase a PESCA CHILE S.A., EMDEPES S.A., FRIOSUR X S.A., PESQUERA SUR AUSTRAL S.A. cuya participación conjunta fue reconocida mediante resolución exenta Nº 143 de 2008, de esta Subsecretaría, la sanción establecida en el artículo 11 inciso 1º de la ley Nº 19.713, respecto de la unidad de pesquería de Merluza del sur en el área marítima comprendida entre los paralelos 47º L.S. y 57º L.S., individualizada en el artículo 2º letra i) de la ley Nº 19.713.
+
+Descuéntese a los armadores antes individualizados, el triple del exceso capturado durante el año 2008, en la unidad de pesquería de Merluza del sur en el área marítima comprendida entre las paralelos 47º L.S. y 57º L.S., lo que equivale a 0,782 toneladas del límite máximo de captura asignado para el año 2009, distribuidas de la siguiente manera: Pesca Chile S.A.: 0,503 toneladas, Emdepes S.A.: 0,274 toneladas, Friosur X S.A.: 0,001, Pesquera Sur Austral S.A.: 0,004 toneladas.
+
+Redúzcase los límites máximos de captura asignados para el año 2009, a los armadores que a continuación se individualizan, quedando para el año 2009, el límite que en cada caso se indica: Pesca Chile S.A.: 2.791,605 toneladas, Emdepes S.A.: 1.519,183 toneladas, Friosur X S.A.: 2,933 toneladas, Pesquera Sur Austral S.A.: 21,868 toneladas.
+
+Los descuentos se harán efectivos de los límites máximos de captura autorizados para el año 2009, mediante decreto exento Nº 1.677 de 2008, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
