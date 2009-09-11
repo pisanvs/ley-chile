@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE FAF INTERNATIONAL SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 529, de fecha 27 de agosto de 2009, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos, de la sociedad anónima FAF International Seguros Generales S.A., acordada en juntas extraordinarias de accionistas celebradas con fechas 14 de mayo de 2009 y 8 de julio de 2009, reducidas a escrituras públicas con fechas 18 de mayo de 2009 y 8 de julio de 2009, respectivamente, ambas otorgadas ante Notaría de Santiago de doña Nancy de la Fuente Hernández, domiciliada en Huérfanos Nº 1117, oficina Nº 1014, Santiago.
+
+Se fija el capital suscrito y pagado en la suma de 2.333.925.000 pesos dividido en 10.193 acciones nominativas de una misma serie y sin valor nominal. Este capital se aumenta en 1.712.520.000 pesos mediante la emisión de 7.500 acciones nominativas de una misma serie, sin valor nominal, las que deberán ser emitidas, suscritas y pagadas dentro de un plazo de 3 años contados a partir del 14 de mayo de 2009. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 27 de agosto de 2009.- Carmen Undurraga Martínez, Secretario General.
