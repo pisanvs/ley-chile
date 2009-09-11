@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.775, de 18 de agosto de 2009, de esta Subsecretaría, autorízase a LUIS IVÁN CORTÍNEZ VILLEGAS, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Lote 4, Hacienda Margarita, kilómetro 841 de Ruta 5 Norte, III Región, en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de agosto de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
