@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.726, de 12 de agosto de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 2.728, de 2008, modificada mediante resoluciones exentas Nº 3.099 de 2008, Nº 1.307 y Nº 2.026, ambas de 2009, todas de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de reineta (Brama australis), en aguas exteriores de la X Región", en el sentido de reemplazar las embarcaciones Cecilia III y Don Pedro III por las embarcaciones Don Fernando II y Héctor Andrés, según se indica en la resolución extractada.
+
+Valparaíso, 12 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
