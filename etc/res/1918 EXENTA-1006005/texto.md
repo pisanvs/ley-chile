@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.918 EXENTA, DE 2009
+
+Por resolución exenta Nº 1.918 de 4 de septiembre de 2009, del Ministerio de Transportes y Telecomunicaciones, y considerando que previamente se declaró desierta la Licitación de Vías Gran Valparaíso a Servicios Urbanos de Transporte Público Remunerado de Pasajeros prestado con Buses y/o Trolebuses - Proceso II, se prorroga hasta el 6 de marzo de 2011 o bien hasta la fecha en que comience la puesta en marcha del nuevo proceso de Licitación de uso de Vías del Gran Valparaíso cualquiera de los hechos que ocurra primero, la vigencia de la resolución exenta Nº 2.311 de 2006, por la cual se establece Perímetro de Exclusión en Zonas Urbanas que indica y se dispone del cumplimiento de condiciones específicas de operación y de utilización de vías para servicios urbanos de transporte público de pasajeros prestados mediante buses en la vías ubicadas dentro del mismo, situadas geográficamente en el conglomerado urbano de las comunas de Valparaíso, Viña del Mar, Quilpué, Villa Alemana y Concón.-
+
+René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
