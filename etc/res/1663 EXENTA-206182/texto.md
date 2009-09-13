@@ -1,4 +1,4 @@
-FIJA PROCEDIMIENTO Y PLAZO PARA ESTABLECER Y ACEPTAR INTERCONEXIONES EN LA RED TELEFONICA MOVIL PARA EL INTERCAMBIO DE MENSAJES DE TEXTO
+FIJA PROCEDIMIENTO Y PLAZO PARA ESTABLECER Y ACEPTAR INTERCONEXIONES EN LA RED TELEFONICA PARA EL INTERCAMBIO DE MENSAJES DE TEXTO
 
 Núm. 1.663 exenta.- Santiago, 19 de diciembre de 2002.- Vistos:
 
@@ -12,15 +12,13 @@ d) La Resolución Nº55, de 1992, cuyo texto refundido, coordinado y sistematiza
 
 Considerando:
 
-a) Que compete a la Subsecretaría de
+a) Que compete a la Subsecretaría de Telecomunicaciones la dictación de la normativa que asegure el buen funcionamiento de los servicios de telecomunicaciones.
 
-Telecomunicaciones la dictación de la normativa que asegure el buen funcionamiento de los servicios de telecomunicaciones.
+b) Que los avances tecnológicos permiten suministrar nuevas prestaciones a través de la red telefónica, resulta necesario que éstas se provean a través de interconexiones con el objeto que los usuarios puedan comunicarse entre sí, y en uso de mis atribuciones legales,
 
-b) Que los avances tecnológicos permiten suministrar nuevas prestaciones a través de la red telefónica móvil, resulta necesario que éstas se provean a través de interconexiones con el objeto que los usuarios puedan comunicarse entre sí, y en uso de mis atribuciones legales,
+R e s u e l v o:
 
-R e s u e l v o :
-
-Fíjase el siguiente procedimiento y plazo para establecer y aceptar interconexiones entre las concesionarias de la red telefónica móvil, incluidas las del mismo tipo, para el intercambio de mensajes de texto consistentes en letras, símbolos, números o combinaciones de ellos:
+Fíjase el siguiente procedimiento y plazo para establecer y aceptar interconexiones entre las concesionarias de servicio público telefónico, incluidas las de servicios del mismo tipo para el intercambio de mensajes de texto consistentes en letras, símbolos, números o combinaciones de ellos:
 
 #### Artículo 1º
 
