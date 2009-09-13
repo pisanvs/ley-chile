@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.579, de 24/07/2009, modificó Res. (M) 1.053/2006, transferida a su actual titular por Res. (M) 668/2006, de la siguiente forma: Ubicación: Estero Yaldad, al suroeste de Isla Captuno; superficie 17,00 Hás.; coordenadas geográficas Plano DPC-307, 1ª edición 2006 (Datum WGS-84) Vértice A Lat. 43°07'19,24" S. Long. 73°44'10,27" W. Vértice B Lat. 43°07'19,07" S. Long. 73°43'57,29" W. Vértice C Lat. 43°07'22,32" S. Long. 73°43'56,87" W. Vértice D Lat. 43°07'22,22" S. Long. 73°43'48,08" W. Vértice E Lat. 43°07'26,76" S. Long. 73°43'48,89" W. Vértice F Lat. 43°07'29,43" S. Long. 73°44'02,81" W. Vértice G Lat. 43°07'29,62" S. Long. 73°44'18,57" W. Vértice H Lat. 43°07'21,73" S. Long. 73°44'18,54" W. Vértice I Lat. 43°07'21,61" S. Long. 73°44'10,83" W.
+
+Santiago, 7 de septiembre de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
