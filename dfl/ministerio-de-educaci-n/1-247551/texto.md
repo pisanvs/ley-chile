@@ -6,313 +6,139 @@ Visto: lo dispuesto en el artículo 64 de la Constitución Política de la Repú
 
 Decreto con Fuerza de Ley
 
-## Título Preliminar
-
-Normas generales y conceptos
+## Título Preliminar — (DEROGADO)
 
 #### Artículo 1°
 
-La presente Ley Orgánica Constitucional fija los requisitos mínimos que deberán cumplir los niveles de enseñanza básica y enseñanza media, y asimismo regula el deber del Estado de velar por su cumplimiento. Del mismo modo norma el proceso de reconocimiento oficial de los establecimientos educacionales de todo nivel.
+(DEROGADO)
 
 #### Artículo 2°
 
-La educación es el proceso permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad alcanzar su desarrollo moral, intelectual, artístico, espiritual y físico mediante la transmisión y el cultivo de valores, conocimientos y destrezas, enmarcados en nuestra identidad nacional, capacitándolas para convivir y participar en forma responsable y activa en la comunidad.
-
-La educación es un derecho de todas las personas. Corresponde, preferentemente, a los padres de familia el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho; y, en general, a la comunidad, el deber de contribuir al desarrollo y perfeccionamiento de la educación.
-
-El embarazo y la maternidad, no constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel. Estos últimos deberán, además, otorgar las facilidades académicas del caso.
-
-Es también deber del Estado fomentar el desarrollo de la educación en todos los niveles, en especial la educación parvularia, y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana, fomentar la paz, estimular la investigación científica y tecnológica, la creación artística, la práctica del deporte y la protección e incremento del patrimonio cultural de la Nación.
-
-Las infracciones a lo dispuesto en el inciso tercero precedente serán sancionadas con multas de hasta 50 unidades tributarias mensuales, las que podrán doblarse en caso de reincidencia.
-
-Las sanciones que se impongan deberán fundarse en el procedimiento establecido en el inciso segundo del artículo 27 de la presente
+(DEROGADO)
 
 #### Artículo 3°
 
-El Estado tiene, asimismo, el deber de resguardar especialmente la libertad de enseñanza.
-
-Es deber del Estado financiar un sistema gratuito destinado a asegurar el acceso de la población a la enseñanza básica.
+(DEROGADO)
 
 #### Artículo 4°
 
-La educación se manifiesta a través de la enseñanza formal y de la enseñanza informal.
-
-La enseñanza formal es aquella que, estructurada científicamente, se entrega de manera sistemática.
-
-Está constituida por niveles que aseguran la unidad del proceso educativo y facilitan la continuidad del mismo a lo largo de la vida de las personas.
-
-Se entiende por enseñanza informal a todo proceso vinculado con el desarrollo del hombre y la sociedad, facilitado por la interacción de unos con otros y sin la tuición del establecimiento educacional como agencia institucional educativa.
-
-Se obtiene en forma no estructurada y sistemática del núcleo familiar, de los medios de comunicación y, en general, del entorno en la cual está inserta.
+(DEROGADO)
 
 #### Artículo 5°
 
-La enseñanza formal se denomina regular cuando sus niveles se imparten a educandos que cumplen los requisitos establecidos, de ingreso y de progreso en ella.
+(DEROGADO)
 
 #### Artículo 6°
 
-La enseñanza que se imparta en los establecimientos o instituciones educacionales no tiene otras limitaciones que las impuestas por la moral, las buenas costumbres, el orden público y la seguridad nacional.
-
-Los establecimientos o instituciones educacionales, cuya enseñanza sea reconocida oficialmente, no podrán orientarse a propagar tendencia político partidista alguna.
+(DEROGADO)
 
 #### Artículo 7°
 
-La educación parvularia es el nivel educativo que atiende integralmente niños y niñas desde su nacimiento hasta su ingreso a la enseñanza básica, sin constituir antecedente obligatorio para ésta. Su propósito es favorecer de manera sistemática, oportuna y pertinente, aprendizajes relevantes y significativos en los párvulos, apoyando a la familia en su rol insustituible de primera educadora.
-
-La educación parvularia no exige requisitos mínimos para acceder a ella, ni permite establecer diferencias arbitrarias.
+(DEROGADO)
 
 #### Artículo 8°
 
-La enseñanza básica es el nivel educacional que procura fundamentalmente el desarrollo de la personalidad del alumno y su capacitación para su vinculación e integración activa a su medio social, a través del aprendizaje de los contenidos mínimos obligatorios que se determinen en conformidad a la presente ley y que le permiten continuar el proceso educativo formal.
+(DEROGADO)
 
 #### Artículo 9°
 
-La enseñanza media es el nivel educacional que atiende a la población escolar que haya finalizado el nivel de enseñanza básica y tiene por finalidad procurar que cada alumno, mediante el proceso educativo sistemático, logre el aprendizaje de los contenidos mínimos obligatorios que se determinen en conformidad a la presente ley, perfeccionándose como persona y asumiendo responsablemente sus compromisos con la familia, la comunidad, la cultura y el desarrollo nacional.
-
-Dicha enseñanza habilita, por otra parte, al alumno para continuar su proceso educativo formal a través de la educación superior o para incorporarse a la vida del trabajo.
+(DEROGADO)
 
 #### Artículo 10°
 
-Sin perjuicio de lo establecido en los artículos anteriores se podrá, en virtud de la libertad de enseñanza, impartir cualquiera otra clase de enseñanza que no aspire al reconocimiento oficial.
+(DEROGADO)
 
 #### Artículo 11°
 
-Los procesos de selección de alumnos deberán ser objetivos y transparentes, asegurando el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías establecidas en la Constitución y en los tratados suscritos y ratificados por Chile.
+(DEROGADO)
 
-Al momento de la convocatoria, el sostenedor del establecimiento deberá informar:
-
-a) Número de vacantes ofrecidas en cada nivel;
-
-b) Criterios generales de selección;
-
-c) Plazo de postulación y fecha de publicación de los resultados;
-
-d) Requisitos de los postulantes, antecedentes y documentación a presentar;
-
-e) Tipos de pruebas a las que serán sometidos los postulantes, y
-
-f) Monto y condiciones del cobro por participar en el proceso.
-
-Una vez realizada la selección, el establecimiento publicará en un lugar visible la lista de los seleccionados. A quienes no resulten seleccionados o a sus apoderados, cuando lo soliciten, deberá entregárseles un informe con los resultados de sus pruebas firmado por el encargado del proceso de selección del establecimiento.
-
-## Título I
-
-Requisitos mínimos de la enseñanza básica y media y normas objetivas para velar por su cumplimiento.
+## Título I — (DEROGADO)
 
 #### Artículo 12°
 
-La enseñanza básica tendrá como objetivos generales lograr que los educandos al egresar, sean capaces de:
-
-a) Comprender la realidad en su dimensión personal, social, natural y transcendente, y desarrollar sus potencialidades físicas, afectivas e intelectuales de acuerdo a su edad;
-
-b) Pensar en forma creativa, original, reflexiva, rigurosa y crítica, y tener espíritu de iniciativa individual, de acuerdo a sus posibilidades;
-
-c) Desempeñarse en su vida de manera responsable, mediante una adecuada formación espiritual, moral y cívica de acuerdo a los valores propios de nuestra cultura;
-
-d) Participar en la vida de la comunidad consciente de sus deberes y derechos, y prepararse para ser ciudadanos, y
-
-e) Proseguir estudios de nivel medio, de acuerdo con sus aptitudes y expectativas.
+(DEROGADO)
 
 #### Artículo 13°
 
-Para lograr los objetivos generales señalados en el artículo anterior, los alumnos de la enseñanza básica deberán alcanzar los siguientes requisitos mínimos de egreso:
-
-a) Saber leer y escribir; expresarse correctamente en el idioma castellano en forma oral y escrita, y ser capaz de apreciar otros modos de comunicación;
-
-b) Dominar las operaciones aritméticas fundamentales y conocer los principios de las matemáticas básicas y sus nociones complementarias esenciales;
-
-c) Desarrollar su sentido patrio y conocer la historia y geografía de Chile con la profundidad que corresponde a este nivel;
-
-d) Conocer y practicar sus deberes y derechos respecto de la comunidad, en forma concreta y aplicada a la realidad que el educando y su familia viven;
-
-e) Conocer las nociones elementales de las ciencias naturales y sociales; comprender y valorar la importancia del medio ambiente, y
-
-f) Tomar conciencia de la importancia de participar activamente en expresiones de la cultura relacionadas con el arte, la ciencia y la tecnología, y de obtener un desarrollo físico armónico.
+(DEROGADO)
 
 #### Artículo 14°
 
-La enseñanza media tendrá como objetivos generales lograr que los educandos al egresar, sean capaces de:
-
-a) Desarrollar sus capacidades intelectuales, afectivas y físicas basadas en valores espirituales, éticos y cívicos que le permitan dar una dirección responsable a su vida, tanto en el orden espiritual como material y que le faculten para participar permanentemente en su propia educación;
-
-b) Desarrollar su capacidad de pensar libre y reflexivamente y juzgar, decidir y emprender actividades por sí mismo;
-
-c) Comprender el mundo en que vive y lograr su integración en él;
-
-d) Conocer y apreciar nuestro legado histórico cultural y conocer la realidad nacional e internacional, y
-
-e) Proseguir estudios o desarrollar actividades de acuerdo con sus aptitudes y expectativas.
+(DEROGADO)
 
 #### Artículo 15°
 
-Para lograr los objetivos generales señalados en el artículo anterior, los alumnos de enseñanza media deberán alcanzar los siguientes requisitos mínimos de egreso:
-
-a) Adquirir y valorar el conocimiento de la filosofía, de las ciencias, de las letras, de las artes y de la tecnología, con la profundidad que corresponda a este nivel, desarrollando aptitudes para actuar constructivamente en el desarrollo del bienestar del hombre;
-
-b) Adquirir las habilidades necesarias para usar adecuadamente el lenguaje oral y escrito y apreciar la comunicación en las expresiones del lenguaje;
-
-c) Adquirir los conocimientos que le permitan apreciar las proyecciones de la ciencia y tecnología moderna;
-
-d) Conocer y apreciar el medio natural como un ambiente dinámico y esencial para el desarrollo de la vida humana;
-
-e) Conocer y comprender el desarrollo histórico y los valores y tradiciones nacionales que le permitan participar activamente en los proyectos de desarrollo del país;
-
-f) Desarrollar la creatividad y la habilidad para apreciar los valores expresivos de la comunicación estética en las diversas manifestaciones culturales;
-
-g) Lograr un desarrollo físico armónico para desempeñarse adecuadamente en la vida, y
-
-h) Adquirir la motivación y preparación necesaria que le faciliten su desarrollo personal.
+(DEROGADO)
 
 #### Artículo 16°
 
-El nivel de enseñanza básica regular tendrá una duración de ocho años y el nivel de enseñanza media regular tendrá una duración mínima de cuatro años.
-
-Tratándose de la enseñanza de adultos y de la especial o diferencial, el Presidente de la República por decreto supremo expedido a través del Ministerio de Educación, podrá autorizar modalidades de estudio de menor o mayor duración.
+(DEROGADO)
 
 #### Artículo 17°
 
-La edad mínima para el ingreso a la enseñanza básica regular será de seis años y la edad máxima para el ingreso a la enseñanza media regular será de dieciocho años. Con todo, tales límites de edad podrán ser distintos tratándose de enseñanza de adultos y de la especial o diferencial, las que se especificarán por decreto supremo expedido a través del Ministerio de Educación.
+(DEROGADO)
 
 #### Artículo 18°
 
-Para ingresar a la enseñanza media se requiere haber aprobado la enseñanza básica o tener estudios equivalentes.
-
-Por decreto supremo expedido a través del Ministerio de Educación se reglamentará la forma como se validarán los estudios realizados al margen del sistema formal y convalidarán los estudios equivalentes a la enseñanza básica o media realizados en el extranjero y el otorgamiento de las certificaciones correspondientes.
+(DEROGADO)
 
 #### Artículo 19°
 
-Por decreto supremo expedido a través del Ministerio de Educación deberá reglamentarse la duración mínima del año escolar y las normas en virtud de las cuales los organismos regionales respectivos determinarán, de acuerdo a las condiciones de cada región, las fechas o períodos de suspensión y de interrupción de las actividades escolares.
+(DEROGADO)
 
 #### Artículo 20°
 
-Corresponderá al Presidente de la República, por decreto supremo, dictado a través del Ministerio de Educación, previo informe favorable del Consejo Superior de Educación a que se refiere el artículo 36, establecer los objetivos fundamentales para cada uno de los años de estudio de las enseñanzas básica y media, como asimismo de los contenidos mínimos obligatorios que facilitarán el logro de los objetivos formulados, los que deberán publicarse íntegramente en el Diario Oficial.
-
-Los establecimientos educacionales tendrán libertad para fijar planes y programas de estudios que consideren adecuados para el cumplimiento de los referidos objetivos y contenidos mínimos obligatorios por año y los complementarios que cada uno de ellos fije.
-
-Los establecimientos educacionales harán entrega a la autoridad regional de educación correspondiente, de los planes y programas que libremente elaboren, debiendo dicha autoridad certificar la fecha de entrega.
-
-Los planes y programas se entenderán aceptados por el Ministerio de Educación transcurridos noventa días, contados desde la fecha de su entrega, fecha a partir de la cual se incorporarán al registro de planes y programas que el Ministerio llevará al efecto.
-
-No obstante, dicho Ministerio podrá objetar los respectivos planes y programas que se presenten para su aprobación, dentro del mismo plazo a que se refiere el inciso anterior, si éstos no se ajustan a los objetivos fundamentales y contenidos mínimos que se establezcan de acuerdo a esta ley. Esta objeción deberá notificarse por escrito en ese plazo mediante carta certificada dirigida al domicilio del respectivo establecimiento.
-
-En todo caso, procederá el reclamo de los afectados por la decisión del Ministerio de Educación, en única instancia, ante el Consejo Superior de Educación, en el plazo de quince días, contado desde la fecha de la notificación del rechazo, disponiendo dicho Consejo de igual plazo para pronunciarse sobre el reclamo.
-
-El Ministerio de Educación deberá elaborar planes y programas de estudios para los niveles de enseñanza básica y media, los cuales deberán ser aprobados previamente por el Consejo Superior de Educación. Dichos planes y programas serán obligatorios para los establecimientos que carezcan de ellos.
+(DEROGADO)
 
 #### Artículo 21°
 
-Corresponderá al Ministerio de Educación diseñar los instrumentos que permitan el establecimiento de un sistema para la evaluación periódica, tanto en la enseñanza básica como de la media, del cumplimiento de los objetivos fundamentales y de los contenidos mínimos de esos niveles.
-
-Previa aprobación del Consejo Superior de Educación dicho Ministerio procederá a establecer la aplicación periódica del sistema de evaluación a que se refiere el inciso anterior, debiendo en todo caso, efectuar pruebas de evaluación, a lo menos, al término de la educación básica y de la educación media. El Ministerio de Educación deberá elaborar estadísticas de sus resultados, por región y por establecimientos educacionales, los que deberán publicarse en alguno de los diarios de circulación nacional o regional y además fijarse en lugares visibles en cada establecimiento evaluado.
-
-En caso alguno la publicación incluirá la individualización de los alumnos.
+(DEROGADO)
 
 #### Artículo 22°
 
-La enseñanza media que se imparta en los establecimientos de educación de las Instituciones de la Defensa Nacional deberá cumplir con los objetivos generales y requisitos mínimos de egreso señalados en esta ley y con los específicos que determine la reglamentación institucional respectiva.
+(DEROGADO)
 
-El Estado, por intermedio del Ministerio de Defensa Nacional, velará por el cumplimiento de los requisitos mínimos de egreso de la enseñanza media en dichos establecimientos.
-
-## Título II
-
-Reconocimiento Oficial del Estado a establecimientos que impartan enseñanza en los niveles parvulario, básico y medio.
+## Título II — (DEROGADO)
 
 #### Artículo 23°
 
-El Ministerio de Educación reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza en los niveles básico y medio, cuando así lo soliciten y cumplan con los siguientes requisitos:
-
-a) Tener un sostenedor, que podrá ser una persona natural o jurídica, que será responsable del funcionamiento del establecimiento educacional. Dicho sostenedor o representante legal, en su caso, deberá a lo menos, contar con licencia de educación media;
-
-b) Ceñirse a planes y programas de estudio, sean propios del establecimiento o los generales elaborados por el Ministerio de Educación, de acuerdo a lo señalado en el artículo 20 de esta ley;
-
-c) Poseer el personal docente idóneo que sea necesario y el personal administrativo y auxiliar suficiente que les permita cumplir con las funciones que les corresponden, atendido el nivel y modalidad de la enseñanza que impartan y la cantidad de alumnos que atiendan.
-
-Se entenderá por docente idóneo al que cuente con el título de profesor del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes;
-
-d) Funcionar en un local que cumpla con las normas de general aplicación previamente establecidas, y
-
-e) Disponer de mobiliario, elementos de enseñanza y material didáctico mínimo adecuado al nivel y modalidad de la educación que pretenda impartir, conforme a normas de general aplicación, establecidas por ley.
-
-Asimismo, dicho Ministerio reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza parvularia en cualquiera de sus niveles, a solicitud de los mismos y siempre que reúnan los requisitos contemplados en el artículo 24 siguiente.
-
-El Ministerio de Educación podrá encomendar a la Junta Nacional de Jardines Infantiles la certificación del cumplimiento de dichos requisitos.
+(DEROGADO)
 
 #### Artículo 24°
 
-Los requisitos para el reconocimiento oficial de los establecimientos que impartan enseñanza parvularia, serán los siguientes:
-
-a) Tener un sostenedor que cumpla con los requisitos establecidos en el artículo 23 precedente y que no haya sido condenado a pena aflictiva;
-
-b) Tener un proyecto educativo que tenga como referente las Bases Curriculares de la Educación Parvularia elaboradas por el Ministerio de Educación;
-
-c) Contar con el personal idóneo y calificado;
-
-d) Disponer del mobiliario, equipamiento y material didáctico necesario, de acuerdo con los niveles de atención respecto de los cuales solicite reconocimiento, y
-
-e) Acreditar que el local en el cual funciona el establecimiento, cumple con las normas de general aplicación previamente establecidas.
-
-Los requisitos contemplados en las letras c) y d), serán reglamentados mediante decreto supremo del Ministerio de Educación.
+(DEROGADO)
 
 #### Artículo 25°
 
-El establecimiento educacional que opte al reconocimiento oficial deberá presentar al Secretario Regional Ministerial de Educación correspondiente, una solicitud acompañada de los antecedentes que acrediten el cumplimiento de los requisitos a que se refieren los artículos anteriores.
-
-Si dicha solicitud no se resolviera dentro de los noventa días posteriores a su entrega, se tendrá por aprobada.
-
-Si la solicitud fuere rechazada, se podrá reclamar ante el Ministro de Educación en un plazo de quince días contado desde la notificación del rechazo, el que resolverá dentro de los quince días siguientes.
+(DEROGADO)
 
 #### Artículo 26°
 
-El reconocimiento oficial se hará por resolución del Secretario Regional Ministerial de Educación que corresponda, en la que se indicará, a lo menos, el nombre y dirección del establecimiento, la identificación del sostenedor o del representante legal, en su caso, y el nivel de enseñanza que imparta.
-
-Obtenido el reconocimiento oficial, un establecimiento educacional sólo requerirá nueva autorización de acuerdo con los procedimientos descritos en los artículos 23 y 24, para crear un nivel o una modalidad educativa diferente.
+(DEROGADO)
 
 #### Artículo 27°
 
-En caso de pérdida de alguno de los requisitos exigidos para ser reconocidos oficialmente o de incumplimiento de lo dispuesto en el artículo 20, y oído previamente el sostenedor o representante legal, el establecimiento educacional podrá ser sancionado con amonestación, multa o revocación del reconocimiento oficial, mediante resolución de la correspondiente Secretaría Regional Ministerial de Educación.
-
-La Secretaría Regional Ministerial de Educación correspondiente será el organismo competente para sustanciar el procedimiento respectivo y aplicar las sanciones que procedan. Para ello, deberá ponderar las pruebas que se presenten en los descargos.
-
-La multa no podrá ser inferior a un cinco por ciento ni exceder del cincuenta por ciento de una unidad de subvención educacional por alumno. De esta sanción podrá reclamarse ante el Subsecretario de Educación en un plazo de cinco días hábiles, contado desde la notificación de la resolución que ordena su aplicación.
-
-De la sanción de revocación del reconocimiento oficial podrá apelarse ante el Ministro de Educación en un plazo de quince días hábiles, contado desde la fecha de notificación de la resolución que ordena su aplicación.
-
-El Ministro de Educación o el Subsecretario, en su caso, tendrán un plazo de quince días hábiles para resolver.
+(DEROGADO)
 
 #### Artículo 28°
 
-Tratándose de establecimientos educacionales que impartan enseñanza parvularia en cualquiera de sus niveles, la pérdida de alguno de los requisitos exigidos en el artículo 24° y sus reglamentos, se acreditará mediante un procedimiento administrativo sumario en donde deberá ser oído el sostenedor o representante legal del establecimiento.
-
-El procedimiento podrá iniciarse de oficio por la Secretaría Regional Ministerial de Educación respectiva, o a solicitud de la Junta Nacional de Jardines Infantiles.
-
-Corresponderá a dicha Secretaría desarrollar el procedimiento sumario y aplicar al establecimiento de educación parvularia, según el caso, las siguientes sanciones, de acuerdo con la gravedad o reiteración de la infracción:
-
-a) Multa a beneficio fiscal de 3 a 20 unidades tributarias mensuales;
-
-b) Suspensión temporal del reconocimiento hasta por el plazo de 6 meses, y
-
-c) Pérdida del reconocimiento oficial.
-
-De la resolución que dicte el Secretario Regional Ministerial de Educación, podrá apelarse ante el Subsecretario de Educación dentro del plazo de 15 días hábiles contado desde la notificación de dicha resolución.
+(DEROGADO)
 
 #### Artículo 29°
 
-Los establecimientos reconocidos oficialmente certificarán las calificaciones anuales de cada alumno y, cuando proceda, el término de los estudios de enseñanza básica y media.
-
-No obstante, la licencia de educación media será otorgada por el Ministerio de Educación.
+(DEROGADO)
 
 #### Artículo 30°
 
-La licencia de educación media permitirá optar a la continuación de estudios de nivel superior, previo cumplimiento de los requisitos establecidos por ley o por las instituciones de educación superior.
+(DEROGADO)
 
 #### Artículo 31°
 
-El Ministerio de Educación otorgará el título de técnico de nivel medio a los alumnos de los establecimientos de enseñanza media técnico profesional, cuya licencia será equivalente a la licencia de enseñanza media.
+(DEROGADO)
 
 #### Artículo 32°
 
-No obstante lo dispuesto en los artículos precedentes, los establecimientos de educación de las Instituciones de la Defensa Nacional, que impartan enseñanza media, se regirán en cuanto a su creación, funcionamiento y planes de estudio por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional.
+(DEROGADO)
 
 ## Título III
 
@@ -376,201 +202,55 @@ El grado de magister es el que se otorga al alumno de una universidad que ha apr
 
 El grado de doctor es el máximo que puede otorgar una universidad. Se confiere al alumno que ha obtenido un grado de licenciado o magister en la respectiva disciplina y que haya aprobado un programa superior de estudios y de investigación, y acredita que quien lo posee tiene capacidad y conocimientos necesarios para efectuar investigaciones originales. En todo caso, además de la aprobación de cursos u otras actividades similares, un programa de doctorado deberá contemplar necesariamente la elaboración, defensa y aprobación de una tesis, consistente en una investigación original, desarrollada en forma autónoma y que signifique una contribución a la disciplina de que se trate.
 
-### Párrafo 2°
-
-Del Consejo Superior de Educación y del Sistema
-
-de Licenciamiento.
+### Párrafo 2º — (DEROGADO)
 
 #### Artículo 36°
 
-Créase el Consejo Superior de Educación, organismo autónomo con personalidad jurídica y patrimonio propio que se relacionará con el Presidente de la República a través del Ministerio de Educación.
-
-Se excluye a este organismo de la aplicación de las normas del Título II de la ley N° 18.575.
-
-Dicho Consejo tendrá los siguientes integrantes:
-
-a) El Ministro de Educación o el representante que éste designe.
-
-Presidirá el Consejo el Ministro de Educación, en el caso que asista a las sesiones.
-
-b) Un académico universitario designado por los rectores de las universidades estatales chilenas, en reunión convocada por el rector de la universidad más antigua;
-
-c) Un académico, designado por las universidades privadas que gocen de autonomía académica, en reunión convocada por el rector de la universidad privada más antigua;
-
-d) Un académico designado por los rectores de los institutos profesionales chilenos que gocen de autonomía académica, en reunión convocada por el rector del instituto más antiguo;
-
-e) Dos representantes de las Academias del Instituto de Chile, elegidos por dicho organismo de entre sus miembros;
-
-f) Un académico designado por la Excma. Corte Suprema de Justicia;
-
-g) Un académico designado conjuntamente por el Consejo Superior de Ciencias y el Consejo Superior de Desarrollo Tecnológico. La designación de este representante se hará en forma alternada, en el orden indicado;
-
-h) Un académico designado por los Comandantes en Jefe de las Fuerzas Armadas y el General Director de Carabineros de Chile;
-
-i) El Secretario Ejecutivo, que tendrá sólo derecho a voz.
-
-Los académicos deberán tener la jerarquía de profesores titulares o su equivalente.
-
-El Consejo designará de entre los consejeros señalados en las letras b), c), d), e), f), g) y h) que sean académicos universitarios, un Vicepresidente que presidirá el Consejo en caso de ausencia del Ministro de Educación.
-
-Permanecerá en esa calidad por un período de dos años o por el tiempo que le reste como consejero y no podrá ser reelegido.
-
-Los miembros del Consejo durarán cuatro años en sus cargos, y podrán ser designados nuevamente por una sola vez.
-
-Para sesionar el Consejo requerirá de la mayoría absoluta de sus miembros y sus acuerdos se adoptarán por mayoría absoluta de sus miembros presentes.
-
-Los consejeros tendrán derecho a gozar de una dieta por sesión que asistan, que podrá ascender hasta 2 U.T.M., con un máximo de 25 U.T.M. por mes. Esta asignación será compatible con toda otra remuneración de carácter público.
+(DEROGADO)
 
 #### Artículo 37°
 
-El Secretario Ejecutivo será su ministro de fe y deberá cumplir los acuerdos del Consejo pudiendo, para estos efectos, celebrar los actos y contratos que sean necesarios.
+(DEROGADO)
 
 #### Artículo 38°
 
-El Consejo tendrá una Secretaría Técnica que realizará las tareas que este organismo le encomiende para el cumplimiento de sus atribuciones.
-
-El Secretario Ejecutivo del Consejo dirigirá la Secretaría Técnica.
+(DEROGADO)
 
 #### Artículo 39°
 
-La Secretaría Técnica tendrá una planta de personal compuesta por un Secretario Ejecutivo, cuatro profesionales, dos administrativos y un auxiliar.
-
-El personal se regirá por el derecho laboral común y sus remuneraciones serán equivalentes, respectivamente, a los grados de la Escala Única de Sueldos de la Administración Pública que se indican: a las del Grado 3° Directivo Profesional, la del Secretario Ejecutivo; al Grado 4° Profesional, la de dos profesionales; al Grado 5° Profesional los otros dos profesionales; al Grado 14° no Profesional, los dos administrativos y al Grado 19° no Profesional, el auxiliar.
-
-Corresponderá al Secretario Ejecutivo proveer el resto de los cargos de la planta del personal. El Secretario Ejecutivo estará facultado asimismo, para designar personal adicional a contrata asimilado a un grado de la planta o a honorarios, cuando las funciones del Consejo lo requieran.
+(DEROGADO)
 
 #### Artículo 40°
 
-El patrimonio del Consejo estará formado por:
-
-a) Los fondos que la Ley de Presupuestos u otras leyes especiales le otorguen;
-
-b) Los aranceles que perciba de acuerdo a esta ley;
-
-c) Los bienes que el Consejo adquiera a cualquier título y las rentas provenientes de éstos;
-
-d) Los ingresos que perciba por prestación de servicios, y
-
-e) Las donaciones o cualquier tipo de ingresos que reciba de personas naturales o jurídicas. Estas donaciones o ingresos, estarán exentos de toda contribución o impuesto de cualquier naturaleza y las donaciones quedarán exentas del trámite de insinuación.
+(DEROGADO)
 
 #### Artículo 41°
 
-Corresponderán al Consejo Superior de Educación las siguientes atribuciones:
-
-a) Pronunciarse sobre los proyectos institucionales que presenten las distintas universidades, institutos profesionales y centros de formación técnica para los efectos de su reconocimiento oficial;
-
-b) Verificar progresivamente el desarrollo de los proyectos institucionales de conformidad a las normas de licenciamiento establecidas en esta ley;
-
-c) Establecer sistemas de examinación selectiva para las instituciones de educación sometidas a procesos de licenciamiento, salvo que el Consejo declare exentas determinadas carreras.
-
-Dicha exención no procederá respecto de aquellas carreras cuyos títulos profesionales requieren haber obtenido previamente a su otorgamiento el grado de licenciado.
-
-Esta examinación tendrá por objeto evaluar el cumplimiento de los planes y programas de estudio y el rendimiento de los alumnos;
-
-d) Recomendar al Ministro de Educación la aplicación de sanciones a las entidades en proceso de licenciamiento;
-
-e) Informar al Ministerio de Educación respecto de las materias establecidas en los artículos 20 y 21 de esta ley, en el plazo máximo de sesenta días contados desde la recepción de la solicitud por parte del Ministerio. Si el Consejo no se pronunciare dentro de dicho plazo, se entenderá cumplido el trámite respectivo;
-
-f) Servir como órgano consultivo del Ministerio de Educación en las materias relacionadas con la presente ley.
-
-g) Designar al Secretario Ejecutivo, el que permanecerá en el cargo mientras cuente con la confianza del Consejo;
-
-h) Designar comisiones ad-hoc en todos aquellos casos en que sea necesaria la asesoría de expertos en materias especiales o sobre aquellas en que por su trascendencia se encuentre involucrada la fe pública;
-
-i) Encomendar la ejecución de acciones o servicios a personas o instituciones públicas o privadas, para el debido cumplimiento de sus funciones;
-
-j) Dar cumplimiento a lo dispuesto en el inciso segundo del artículo 43;
-
-k) Desarrollar toda otra actividad que diga relación con sus objetivos, y
-
-l) Establecer su reglamento interno de funcionamiento.
+(DEROGADO)
 
 #### Artículo 42°
 
-Anualmente, se fijarán por acuerdo del Consejo Superior de Educación los montos de los aranceles que cobrará el Consejo por el licenciamiento, los que tendrán los siguientes valores mínimos y máximos:
-
-Mínimo Máximo
-
-- Análisis del 30 U.T.M. 80 U.T.M.
-
-proyecto de
-
-desarrollo
-
-institucional
-
-por el proyecto
-
-global:
-
-y, adicionalmente, 15 U.T.M. 30 U.T.M.
-
-por cada carrera.
-
-- Verificación
-
-del avance del
-
-proyecto
-
-valor anual: 50 U.T.M. 100 U.T.M.
-
-y adicionalmente,
-
-por alumno. 5% U.T.M. 10% U.T.M.
-
-y, por la
-
-examinación de
-
-cada alumno. 5% U.T.M. 10% U.T.M.
-
-Los aranceles fijados en este artículo podrán pagarse hasta en diez mensualidades.
-
-Dichos aranceles constituirán ingresos propios del Consejo Superior de Educación.
+(DEROGADO)
 
 #### Artículo 43°
 
-El licenciamiento comprende la aprobación del proyecto institucional y el proceso que permite evaluar el avance y concreción del proyecto educativo de la nueva entidad, a través de variables significativas de su desarrollo, tales como docentes, didácticas, técnico-pedagógicas, programas de estudios, físicos y de infraestructura, así como los recursos económicos y financieros necesarios para otorgar los grados académicos y los títulos de que se trate.
-
-El licenciamiento se realizará por el Consejo Superior de Educación.
-
-Las universidades e institutos profesionales que hayan obtenido su total autonomía podrán voluntariamente entregar al Consejo los antecedentes necesarios para los efectos de proporcionar una adecuada información a los usuarios del sistema.
+(DEROGADO)
 
 #### Artículo 44°
 
-Las nuevas entidades de enseñanza superior deberán presentar al Consejo Superior de Educación un proyecto de desarrollo institucional, conforme a lo señalado en el inciso primero del artículo anterior.
-
-Este Consejo deberá pronunciarse sobre dicho proyecto en un plazo máximo de noventa días contado desde su recepción, aprobándolo o formulándole observaciones. Si no se pronunciare dentro de dicho plazo, se considerará aprobado el proyecto.
-
-Si formulare observaciones, las entidades de enseñanza superior tendrán un plazo de sesenta días, contado desde la notificación de éstas, para conformar su proyecto a dichas observaciones. Si así no lo hicieren, el proyecto se tendrá por no presentado.
-
-El Consejo Superior de Educación tendrá un plazo de sesenta días contado desde la fecha de la respuesta a las observaciones, para pronunciarse sobre ellas. Si no lo hiciere, se aplicará lo señalado en el inciso segundo de este artículo.
-
-El Consejo Superior de Educación deberá certificar la aprobación o rechazo del proyecto, enviando copia al Ministerio de Educación.
+(DEROGADO)
 
 #### Artículo 45°
 
-El Consejo Superior de Educación verificará el desarrollo del proyecto institucional aprobado. Dicho Consejo comprobará el cumplimiento del proyecto durante un período de seis años.
-
-Para estos efectos, el Consejo, anualmente, deberá emitir un informe del estado de avance del proyecto, haciendo las observaciones fundadas que le merezca su desarrollo y fijando plazos para subsanarlas. Sin perjuicio de lo anterior, hará evaluaciones parciales y requerirá las informaciones pertinentes.
-
-Además, el Consejo deberá someter a examinaciones selectivas determinadas asignaturas o cursos de las carreras impartidas por los establecimientos sometidos a licenciamiento.
-
-Se entenderá que la examinación es favorable cuando más del cincuenta por ciento de los alumnos examinados aprueban las correspondientes asignaturas.
-
-En el caso que las observaciones no se subsanen oportunamente, el Consejo someterá, por el período que determine, la examinación total de la carrera o dispondrá la suspensión de ingreso de nuevos alumnos a todas o a algunas de sus carreras. Si las situaciones representadas se reiteran, podrá solicitar al Ministerio de Educación la cancelación de la personalidad jurídica y la revocación del reconocimiento oficial.
+(DEROGADO)
 
 #### Artículo 46°
 
-Las universidades, institutos profesionales y centros de formación técnica que, al cabo de seis años de licenciamiento hubieren desarrollado su proyecto satisfactoriamente a juicio del Consejo, alcanzarán su plena autonomía y podrán otorgar toda clase de títulos y grados académicos en forma independiente, lo que deberá certificarse por el Consejo.
-
-En caso contrario, podrá ampliar el período de licenciamiento hasta por cinco años, pudiendo disponer la suspensión del ingreso de nuevos alumnos. Si transcurrido el nuevo plazo, la entidad de enseñanza superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar al Ministerio de Educación la revocación del reconocimiento oficial y cancelación de la personalidad jurídica.
+(DEROGADO)
 
 #### Artículo 47°
 
-Durante el período de licenciamiento las universidades e institutos profesionales o técnicos de nivel superior deberán seguir el mismo procedimiento inicial respecto de otros grados de licenciado o de títulos profesionales que deseen otorgar.
+(DEROGADO)
 
 ### Párrafo 3°
 
@@ -1022,43 +702,39 @@ Las instituciones de educación superior de carácter privado que cuenten con ap
 
 Los objetivos y contenidos mínimos a que se refiere el inciso primero del artículo 20, se establecerán a partir del 1º de enero de 1991.
 
-ARTICULOS TRANSITORIOS
+ARTICULOS TRANSITORIOS (DEROGADO)
 
-#### Artículo 1º
+#### Artículo 1°
 
-Los institutos profesionales y los centros de formación técnica, creados en virtud de lo dispuesto en el decreto con fuerza de ley Nº 5 y Nº 24, de 1981 respectivamente, deberán ajustarse a lo prescrito en el artículo 34, inciso segundo de esta ley, en un plazo de dos años.
+(DEROGADO)
 
-#### Artículo 2º
+#### Artículo 2°
 
-Las universidades e institutos profesionales creados y organizados en virtud de las normas contenidas en los decretos con fuerza de ley Nº 1 de 1980 y Nº 5 de 1981, del Ministerio de Educación Pública que no opten por el sistema de licenciamiento establecido en la presente ley continuarán rigiéndose por las normas que le son actualmente aplicables y obtendrán su plena autonomía una vez cumplidas las exigencias allí establecidas y podrán otorgar independientemente toda clase de títulos profesionales y grados académicos.
+TRANSITORIO.- (DEROGADO)
 
-El Ministerio de Educación podrá encargar a una determinada entidad examinadora o a una comisión especial, la realización de las actividades de examinación cuando, por circunstancias ajenas a las entidades adscritas a este sistema, carecieren de ellas. Por otra parte, la entidad examinada podrá en esta misma situación, parcialmente, someterse al sistema de licenciamiento.
+#### Artículo 3°
 
-#### Artículo 3º
+TRANSITORIO.- (DEROGADO)
 
-Las entidades de Educación Superior que se creen dentro del plazo de dos años a contar de la fecha de publicación de esta ley, podrán optar por el sistema de examinación establecido en el decreto con fuerza de ley Nº 1, de 1980 y Nº 5 de 1981, del Ministerio de Educación Pública, en las mismas condiciones señaladas en el artículo precedente, o por el sistema de licenciamiento previsto en este cuerpo legal.
+#### Artículo 4°
 
-Transcurrido dicho plazo, sólo regirá el sistema de licenciamiento de que trata el párrafo 2º del Título III de esta ley.
+(DEROGADO)
 
-#### Artículo 4º
+#### Artículo 5°
 
-Los centros de formación técnica creados de acuerdo al decreto con fuerza de ley Nº 24, de 1981, que a la fecha de dictación de esta ley tengan más de seis años de actividades docentes, tendrán derecho a solicitar al Ministerio de Educación que se declare su autonomía de conformidad con el artículo 73 de esta ley. En estos casos, el Ministerio de Educación contará con un plazo de 12 meses para pronunciarse acerca de la solicitud.
+(DEROGADO)
 
-#### Artículo 5º
+#### Artículo 6°
 
-La primera designación de los integrantes del Consejo Superior de Educación deberá efectuarse dentro del plazo máximo de 30 días contado desde la fecha de publicación de esta ley en el Diario Oficial.
+(DEROGADO)
 
-Si los nombramientos no se pudieren efectuar por falta de designación por parte del organismo respectivo, ésta deberá hacerse por el Presidente de la República dentro de los diez días siguientes al vencimiento del plazo señalado en el inciso anterior. Dichos representantes se mantendrán en sus cargos hasta que el organismo correspondiente formule la nominación pertinente.
+#### Artículo 7°
 
-Artícu1lo 6º.- Corresponderá al Ministro de Educación arbitrar las medidas conducentes a la puesta en marcha del Consejo Superior de Educación.
+(DEROGADO)
 
-#### Artículo 7º
+#### Artículo 8°
 
-Los institutos profesionales que estén impartiendo carreras de pedagogía, educación parvularia y periodismo que de acuerdo a esta ley requieran de licenciatura previa, para obtener el título profesional correspondiente, podrán seguir impartiéndolas en las mismas condiciones, pero no podrán crear nuevas carreras de este tipo.
-
-#### Artículo 8º
-
-Sin perjuicio de lo dispuesto en el artículo 40 de esta ley, durante el año 1990 el Ministerio de Educación concurrirá al financiamiento del Consejo Superior de Educación mediante transferencias de recursos desde la Secretaría y Administración General de dicho Ministerio.
+(DEROGADO)
 
 Tómese razón, comuníquese y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Sergio Bitar Chacra, Ministro de Educación.
 
