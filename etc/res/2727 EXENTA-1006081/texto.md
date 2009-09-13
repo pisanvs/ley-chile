@@ -1,0 +1,3 @@
+Por resolución exenta número 2.727 de 12 de agosto de 2009, de esta Subsecretaría, autorízase a TOMÁS CLEMENTE FREDES FLORES, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Los Olivos N° 13, comuna de Canela, IV Región, en líneas de procesos Alga Seca y Picado de Algas, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de agosto de 2009. Jorge Chocair Santibáñez, Subsecretario de Pesca.
