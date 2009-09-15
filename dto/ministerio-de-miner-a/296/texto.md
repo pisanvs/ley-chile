@@ -22,43 +22,49 @@ g) Que, según lo establece el mismo precepto legal, dicha representación debe 
 
 Decreto:
 
+> **Nota.** El número 1 del artículo primero del Decreto 92, Minería, publicado el 14.09.2009, sustituye la denominación de la Comisión creada en virtud de la presente norma por "Comisión Técnica Asesora del Presidente de la República en Materias Relacionadas con Posibles Impactos del Cobre en la Salud y el Medio Ambiente".
+
 1.- Créase una Comisión Técnica Asesora encargada de colaborar y asesorar al Presidente de la República en las negociaciones que llevará a cabo el Gobierno de Chile con la Organización Mundial de la Salud (OMS) y/o con gobiernos extranjeros u otras organizaciones internacionales para revisar la "Guía sobre Calidad del Agua Potable (1993)", emitida por dicho organismo de la Organización de las Naciones Unidas (ONU), y los criterios de salud ambiental relacionados con los posibles efectos para la salud que se atribuyen al cobre contenido en el agua potable y otros elementos.
 
 2.- La Comisión Técnica Asesora estará compuesta por el o los representantes de cada uno de los organismos que se mencionan a continuación:
 
-a) El Ministerio de Relaciones Exteriores, por medio del Director de Política Multilateral y por un representante designado por el Ministro de esa Secretaría de Estado;
+a) El Ministerio de Relaciones Exteriores, por medio de un representante designado por el Ministro;
 
-b) El Ministerio de Salud, por medio del Jefe de la División de Salud Ambiental, en cuanto ejerce como contraparte técnica nacional de la Organización Mundial de la Salud, en lo relativo a la calidad del agua potable y al Programa Internacional de Seguridad Química de la misma organización;
+b) El Ministerio de Minería, por medio de un representante designado por el Ministro;
 
-c) El Ministerio de Minería, por medio del Jefe de la Unidad Ambiental del Ministerio de Minería, dependiente del Subsecretario de este Ministerio;
+c) El Ministerio de Salud, por medio de un representante designado por el Ministro;
 
-d) La Comisión Chilena del Cobre, por medio de su Vicepresidente Ejecutivo, quien la presidirá, y de dos funcionarios de la misma institución que éste designe;
+d) La Comisión Chilena del Cobre, por medio de su Vicepresidente Ejecutivo, quien la presidirá, y de dos profesionales designados por él, uno de los cuales ejercerá la labor de Secretario Ejecutivo de la CTA;
 
-e) La Comisión Nacional del Medio Ambiente (Conama), por medio de su Director Ejecutivo o por quien éste designe en su reemplazo;
+e) La Comisión Nacional de Medio Ambiente, por medio de un representante designado por el Ministro Presidente de dicha Comisión;
 
-f) La Corporación Nacional del Cobre de Chile (CODELCO-CHILE), por medio de un representante designado por la Vicepresidencia Corporativa de Finanzas, Promoción y Sustentabilidad".
+f) La Corporación Nacional del Cobre de Chile (Codelco-Chile), por medio de un representante designado por su Presidente Ejecutivo;
 
-g) El Centro de Investigación Minera y Metalúrgica (CIMM), por medio de su Director Ejecutivo o su representante;
+g) El Centro Chileno de Promoción del Cobre, por medio de un representante designado por su Presidente;
 
-h) El Instituto de Nutrición y Tecnología de los Alimentos (INTA) de la Universidad de Chile, por medio de su Director o su representante;
+h) El Centro de Investigación Minera y Metalúrgica (CIMM), por medio de su Director Ejecutivo o su representante;
 
-i) El Centro Chileno de Promoción del Cobre (Procobre), por medio de su Director Ejecutivo;
+i) El Instituto de Nutrición y Tecnología de los Alimentos (INTA) de la Universidad de Chile, por medio de su Director o su representante, y
 
-j) El Centro de Minería de la Pontificia Universidad Católica de Chile, por medio de su Director o su representante, y
+j) El Centro de Minería de la Pontificia Universidad Católica de Chile, por medio de su Director o su representante.
 
-k) Por tres miembros destacados de la comunidad académica, empresarial o de Gobierno que la misma Comisión podrá designar según sea requerido de acuerdo con la materia en estudio.
+3.- Son funciones de la "Comisión Técnica Asesora del Presidente de la República en Materias Relacionadas con Posibles Impactos del Cobre en la Salud y el Medio Ambiente" las siguientes:
 
-3.- Serán funciones específicas de la Comisión:
+a) Vigilar, detectar y proponer medidas frente a acciones o situaciones relacionadas con eventuales impactos en la salud humana y/o el medio ambiente que pudieran implicar limitaciones a la industria del cobre;
 
-a) Asesorar en la presentación y negociación de la solicitud de revisión de la referida Guía de la Organización Mundial de la Salud, en lo referente al contenido de cobre en el agua potable, con los ministerios y servicios del Estado e instituciones de derecho público o privado.
+b) Proveer la experiencia acumulada durante los años de funcionamiento de la CTA a disposición de quienes se vinculen al desarrollo de medidas regulatorias internacionales que pudieran afectar otros minerales de relevancia para el país;
 
-b) Preparación de una estrategia general, un programa de trabajo a mediano plazo y un presupuesto general en cumplimiento de los objetivos señalados;
+c) Sugerir mecanismos para asegurar la identificación de las demandas de consumidores, organizaciones internacionales, gubernamentales y no gubernamentales, que expresen postura en materia del impacto del cobre, sobre las personas y/o el medio ambiente, incluyendo la coordinación con el Ministerio de Relaciones Exteriores;
 
-c) Estar informada y hacer proposiciones para otras acciones que, en organismos internacionales y a nivel bilateral, deban conducirse, sobre los posibles efectos en la salud por la presencia del cobre en el agua potable y otros elementos, debido a las implicaciones que de ellas se deriven en las negociaciones con la Organización Mundial de la Salud;
+d) Asesorar a los organismos públicos y privados que corresponda, en el marco de procesos y negociaciones sobre regulaciones internacionales, en el ámbito de los efectos del cobre en la salud humana y el medio ambiente. En ese contexto, proveer información pertinente a organismos reguladores nacionales para resguardar coherencia entre regulaciones nacionales e internacionales;
 
-d) Preparar sugerencias relacionadas con la forma de operación e integración de los grupos de expertos de la Organización Mundial de la Salud, criterios y bases de información que lo alimentan, y e) Proponer estudios y/o asistir a visitas, seminarios y/o talleres sobre el tema, a nivel nacional e internacional, y utilizar la información que resulte de éstos.
+e) Proponer lineamientos para el desarrollo de investigación científica en función de las necesidades detectadas;
 
-f) Constituirá, también, función específica de la Comisión Técnica Asesora asesorar al Gobierno de Chile en las negociaciones en que participe, especialmente, respecto del agua en su relación con la salud y el medio ambiente (de carácter ecotoxicológico) que fortalezcan estratégicamente o limiten potencialmente los usos del cobre, aportando para ello antecedentes técnicos y científicos.
+f) Sugerir mecanismos eficientes para hacer efectivas líneas de investigación, estudios, seminarios o talleres relacionados con el objetivo para el que fue creada, tanto a nivel nacional como internacional;
+
+g) Preparar una estrategia general y un programa de trabajo a mediano plazo con seguimiento anual, para dar cumplimiento a los objetivos señalados y elaborar el presupuesto anual para el desarrollo de sus actividades;
+
+h) Promover la comunicación y difusión de su labor, y elaborar una cuenta pública anual.
 
 4.- Los diferentes ministerios y servicios del Estado, embajadas y representaciones en el exterior, municipalidades y organismos descentralizados, prestarán su colaboración a las funciones de la Comisión que por el presente decreto se crea.
 
