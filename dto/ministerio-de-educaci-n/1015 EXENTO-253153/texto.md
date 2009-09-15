@@ -20,23 +20,23 @@ Decreto:
 
 Asígnase a la División de Planificación y Presupuesto del Ministerio de Educación, el vehículo que se indica a continuación:
 
-Vehículo : Automóvil
+Vehículo : Station Wagon
 
 Marca : Hyundai
 
-Modelo : Elantra GLS 1.8
+Modelo : Tucson GL 2.000 Mec
 
-Año fabricación : 2.003
+Año fabricación : 2009
 
-Nº motor : G4GB2523914
+Nº motor : G4GC8321803
 
-N° chasis : KMHDN41CP3U581302
+Nº chasis : KMHJM81BP9U998919
 
 Reg. Nacional Vehículos
 
-Motorizados : VX.8513-9
+Motorizados : BYPR.25-9
 
-Placa única : VX.8513-9
+Placa Única : BYPR.25-9
 
 #### Artículo segundo
 
