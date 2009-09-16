@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 1260 de fecha 25 de agosto de 2009, se expropió el lote de terreno N° 19, superficie 41 m2, rol N° 923-19, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua-Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", III Región y se acordó el valor de la indemnización con su propietario CARLOTA DEL CARMEN PAREDES, ascendente a la cantidad de $576.669.-
+
+Fiscal del Ministerio de Obras Públicas.
