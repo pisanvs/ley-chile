@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1257, de fecha 25 de agosto del 2009, se expropió el lote de terreno N° 35, superficie 160 m2, Rol Nº 18-140, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietario RAMON DEL ROSARIO VALENZUELA GUERRERO, ascendente a la cantidad de $846.708.-
+
+Fiscal del Ministerio de Obras Públicas.
