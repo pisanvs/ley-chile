@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 1.246 de fecha 25 de agosto de 2009, se expropió el lote de terreno Nº 9 superficie 254 m2, rol Nº 351-53, comuna de Villarrica, para la obra camino Ruta S-69, Sector Pedregoso-Villarrica Tramo Km. 25,80000 a Km. 38,52500, comuna de Villarrica, provincia de Cautín, IX Región y se acordó el valor de la indemnización con su propietario JUAN DE LA CRUZ SUAZO JELDRES, ascendente a la cantidad de $817.050.-
+
+Fiscal del Ministerio de Obras Públicas.
