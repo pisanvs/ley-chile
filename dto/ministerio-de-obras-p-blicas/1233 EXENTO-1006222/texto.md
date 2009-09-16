@@ -1,0 +1,3 @@
+Por decreto exento Nº 1.233, de 25 de agosto de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 1, para la obra: "Conservación Periódica Puente El Tigre, Camino Palena-El Tigre-Escuela El Tigre", Comuna de Palena, Provincia de Palena, X Región, que figura a nombre de Retamal Molina Francisco, rol de avalúo 104-72, superficie 452 M². La Comisión de Peritos, fijó con fecha 10 de junio de 2006, en la cantidad de $195.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
