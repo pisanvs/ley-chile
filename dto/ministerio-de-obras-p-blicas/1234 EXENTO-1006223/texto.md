@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1234, de 25 de agosto de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 28-B, para la obra Camino Ruta I-512 Sector La Capilla - Lo Valdivia - Boyeruca, Tramo: Km. 0,0000 a Km. 7,00499, VI Región, comuna de Paredones, Provincia de Cardenal Caro, que figura a nombre de MARDONADO CASTILLO LILIANA DE LS, rol de avalúo 35-034, superficie 111 M2. La Comisión de Peritos, fijó con fecha 31 de agosto de 2006, en la cantidad de $140.815. La indemnizacilón se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
