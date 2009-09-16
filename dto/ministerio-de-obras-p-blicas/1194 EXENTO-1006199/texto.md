@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1194, de 19 de agosto de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 8-A para la obra: "Camino San Fabián - Coihueco, Sector Km. 0,00000 a Km. 3,10000", que figura a nombre de Parroquia de San Fabián, rol de avalúo Nº 54-9, comuna de San Fabián, VIII Región, superficie 209 m2. La Comisión de Peritos, fijó el monto provisional de la indemnización el 30 de enero de 2009, en la cantidad de $313.500.- para el lote Nº 8-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
