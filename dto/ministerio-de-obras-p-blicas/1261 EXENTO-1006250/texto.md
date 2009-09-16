@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 1261, de fecha 25 de agosto del 2009, se expropiaron los lotes de terreno N°s 7, 7-A y 7-B, superficie 5.563, 1.797 y 1.800 m2 respectivamente, Rol N° 134-28, comuna de Chonchi, X Región para la obra "Construcción By Pass Chonchi extensión Calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región", y se acordó el valor de indemnización con su propietaria PATRICIA AURORA ÁLVAREZ PÉREZ, ascendente a la cantidad de $68.237.150.-
+
+Fiscal del Ministerio de Obras Públicas.
