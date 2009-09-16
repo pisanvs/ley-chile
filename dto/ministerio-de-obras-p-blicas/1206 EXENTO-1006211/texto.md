@@ -1,0 +1,3 @@
+Por Decreto Exento N° 1206, de 19 de agosto de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840, se expropió el lote de terreno N° 11, para la obra "Conservación Camino 64E763 San Pedro - Bosque Petrificado de Pichasca", comuna de Río Hurtado, Provincia de Limarí, IV Región, que figura a nombre de VALENZUELA TAIPE HILDA, rol de avalúo 27-11, superficie 7 M2. La Comisión de Peritos, con fecha 8 de octubre de 2007, fijó el monto provisional de la indemnización, en la cantidad de $142.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
