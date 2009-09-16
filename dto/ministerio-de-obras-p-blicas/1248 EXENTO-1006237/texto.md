@@ -1,0 +1,3 @@
+Por Decreto (exento) MOP Nº 1.248, de fecha 25 de agosto de 2009, se expropió el lote de terreno Nº 73, superficie 62 m2, rol Nº 2.203-72, comuna de Puerto Montt, X Región para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, Tramo Km. 15,84700 al Km. 40,41746", y se acordó el valor de indemnización con su propietario Sixto Sigifredo Barrientos Jara, ascendente a la cantidad de $842.160.-
+
+Fiscal del Ministerio de Obras Públicas.
