@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1254 de 25 de agosto de 2009, se expropió el lote de terreno N° 100, superficie 89,93 m2, rol de Avalúo 260-476, comuna de Salamanca, para la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, III Etapa" IV Región y se acordó el valor de la indemnización con su propietario Comité de Agua Potable Rural El Tambo, ascendente a la cantidad de $691.999.-
+
+Fiscal del Ministerio de Obras Públicas.
