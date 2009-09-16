@@ -1,6 +1,6 @@
 APRUEBA MODIFICACIONES A LA ORDENANZA LOCAL DE DERECHOS MUNICIPALES POR PERMISOS, CONCESIONES Y SERVICIOS
 
-Núm. 3.036 exento.- Rancagua, 14 de julio de 2009.
+Núm. 1.539 exento.- Rancagua, 14 de julio de 2009.
 
 I.- Apruébense las modificaciones a la "Ordenanza Local de Derechos Municipales por Permisos, Concesiones y Servicios", en el siguiente sentido:
 
