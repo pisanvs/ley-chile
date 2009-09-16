@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 1256 de fecha 25 de agosto de 2009, se expropió el lote de terreno N° 28, superficie 167 m2, rol N° 924-4, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua-Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", III Región y se acordó el valor de la indemnización con su propietario BERTA JULIA PAREDES ZUMARAN, ascendente a la cantidad de $1.395.588.-
+
+Fiscal del Ministerio de Obras Públicas.
