@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1251 de fecha 25 de agosto de 2009, se expropió el lote de terreno N° 151-B, superficie 210 m2, rol N° 266-72, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario LUIS ENRIQUE GALDAMES YAÑEZ, ascendente a la cantidad de $809.823.-
+
+Fiscal del Ministerio de Obras Públicas.
