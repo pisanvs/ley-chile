@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1.249 de fecha 25 de agosto de 2009, se expropió el lote de terreno Nº 205-A, superficie 65 m2, rol Nº 202-778, comuna de Longaví, para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 a Km. 19,41782", comuna de Longaví, provincia de Linares - VII Región y se acordó el valor de indemnización con su propietaria Eliana Rosa o Eliana del Carmen Salazar Carrasco, ascendente a la cantidad de $333.476.-
+
+Fiscal del Ministerio de Obras Públicas.
