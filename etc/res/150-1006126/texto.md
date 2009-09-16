@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN PARA NUEVAS EXTRACCIONES DE AGUAS SUBTERRÁNEAS LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE AGUAS ARRIBA DEL EMBALSE CULIMO, PANGALILLO, LOS CÓNDORES, GUANGUALÍ Y QUILIMARÍ LOCALIZADO EN LA PROVINCIA DE CHOAPA, REGIÓN DE COQUIMBO
+
+Mediante resolución DGA Nº 150, de fecha 11 de agosto de 2009, se ha declarado área de restricción para extracciones de aguas subterráneas los sectores hidrogeológicos de aprovechamiento común de aguas arriba del Embalse Culimo, Pangalillo, Los Cóndores, Guangualí y Quilimarí, localizado en la comuna de Los Vilos, en la provincia de Choapa, Región de Coquimbo. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Coquimbo y en la página Web de la DGA.-
+
+Rodrigo Weisner Lazo, Director General de Aguas.
