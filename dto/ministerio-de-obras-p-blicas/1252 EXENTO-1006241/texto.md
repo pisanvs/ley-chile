@@ -1,0 +1,3 @@
+Por Decreto MOP exento Nº 1252 de 25 de agosto de 2009, se expropió el lote de terreno Nº 78, superficie 145 m2, rol de Avalúo 32-77, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietaria Sara Antonia Rojas Carvajal y Otros, ascendente a la cantidad de $1.480.740.-
+
+Fiscal del Ministerio de Obras Públicas.
