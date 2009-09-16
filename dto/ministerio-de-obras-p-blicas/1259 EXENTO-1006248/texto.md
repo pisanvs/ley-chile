@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1259 de 25 de agosto de 2009, se expropió el lote de terreno Nº 30, superficie 989 m2, rol de Avalúo 169-30, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 a Km. 6,34000, Región del Bío-Bío", VIII Región y se acordó el valor de la indemnización con su propietario Armando Manuel Torres Chamorro, ascendente a la cantidad de $8.981.564.-
+
+Fiscal del Ministerio de Obras Públicas.
