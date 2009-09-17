@@ -14,7 +14,7 @@ Decreto:
 
 Decláranse como Normas Oficiales de la República de Chile, las siguientes normas chilenas con su respectivo código y título de identificación:
 
-NCh771/1.Of2008: Agua potable - Fuentes de
+NCh777/1.Of2008: Agua potable - Fuentes de
 
 abastecimiento y obras de
 
