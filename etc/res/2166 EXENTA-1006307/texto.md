@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUTO NACIONAL DE CONDUCTORES PROFESIONALES LIMITADA A IMPARTIR CURSOS DE CAPACITACIÓN PARA CONDUCTORES
+
+Por resolución exenta Nº 2.166, de fecha 7 de septiembre de 2009, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Organismo Técnico de Capacitación "Instituto Nacional de Conductores Profesionales Limitada" o "Inacop Ltda.", RUT Nº 76.222.680-4, representado legalmente por el señor Esteban Andrés Barrera Chacón, para impartir cursos de capacitación para conductores que obtuvieron su licencia de conductor clase A1 y/o A2 con anterioridad al 8 de marzo de 1997, con el fin de optar a licencia de conductor profesional clase A3 y/o A5, respectivamente, según decreto supremo Nº 61/2001, del Ministerio de Transportes y Telecomunicaciones, el que tendrá su lugar de funcionamiento en San Diego Nº 31, oficina 408, comuna de Santiago.-
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
