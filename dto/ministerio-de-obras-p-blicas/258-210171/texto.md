@@ -180,6 +180,10 @@ Galvarino:
 
 . El tramo urbano de la Ruta S-10, desde Freire hasta el límite urbano Oriente; a través de Camino a Lautaro.
 
+General López:
+
+• El tramo urbano de la Ruta S-273, desde el límite urbano Sur hasta Ruta S-31, a través de Luis Cruz Martínez e Ignacio Carrera Pinto.
+
 Gualpin:
 
 . El tramo urbano de la Ruta S-60, desde el límite urbano Norte hasta el límite urbano Sur; a través de: Av. Esperanza, Manuel Plaza, O'Higgins, Prat y Camino a Toltén.
@@ -249,6 +253,8 @@ Victoria:
 Vilcún:
 
 . El tramo urbano de la Ruta S-31, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de: López, Arturo Prat, Schmidt y Camino a Cherquenco.
+
+• El tramo urbano de la Ruta S-185, desde el límite urbano Norte hasta Schmidtm a través de Quintrilpe.
 
 Villa García:
 
