@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-1) Prohíbese la circulación de todo vehículo motorizado en la Avenida Turi, entre calles O'Higgins y Las Vegas, ciudad de Calama, desde el 26 de junio al 30 de agosto de 2009. Las vías alternativas para el tránsito vehicular serán: De Oriente a Poniente calle Santiago y de Poniente a Oriente calle Topater.
+1) Prohíbese la circulación de todo vehículo motorizado en la Avenida Turi, entre calles O'Higgins y Las Vegas, ciudad de Calama, desde el 26 de junio al 19 de septiembre de 2009. Las vías alternativas para el tránsito vehicular serán: De Oriente a Poniente calle Santiago y de Poniente a Oriente calle Topater.
 
 2) La I. Municipalidad de Calama, Dirección de Tránsito y Transporte Público, dispondrá las desviaciones de tránsito y las señalizaciones adecuadas y necesarias al efecto, y las fiscalizaciones para el estricto cumplimiento de las normas de tránsito y de los plazos concedidos para el desarrollo de los trabajos programados, debiendo dar cumplimiento cabalmente a lo indicado en Ord. 264, del 12 de junio de 2009 y plano, documentos que forman parte integrante de la presente resolución.
 
