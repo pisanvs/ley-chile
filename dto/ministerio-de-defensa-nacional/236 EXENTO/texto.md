@@ -16,21 +16,21 @@ Decreto:
 
 Vehículo : Automóvil
 
-Marca : Honda
+Marca : Samsung
 
-Modelo : Accord 2.3
+Modelo : SM5
 
-Año : 1999
+Año : 2007
 
-Color : Beige
+Color : Verde agua
 
-Número motor : 2132512
+Número motor : SR20414613
 
-Número de chasis : 1HGCG5650XA502610
+Número de chasis : KNMA4C2BM8P603994
 
-Placa única : TH.5762-K
+Placa única : VK-5234
 
-Inscripción en el R.V.M. : TH.5762-K
+Inscripción en el R.V.M. : VK-5234-7
 
 2.- Autorízase la circulación para actividades propias del cargo, en los días sábado en la tarde, domingo y festivos a los siguientes vehículos de dotación de la Dirección General de Aeronáutica Civil:
 
@@ -1785,6 +1785,8 @@ Placa única : TE.3362-K
 Inscripción en el R.V.M. : TE.3362-K
 
 3.- Deróganse los decretos supremos exentos (Av.) Nº 68, del 27 de enero de 2000; Nº 70, del 27 de enero de 2000; Nº 368, del 16 de julio de 2001, y Nº 564, del 2 de julio de 2002, del Ministerio de Defensa Nacional.
+
+> **Nota.** El N° 1 del Decreto 682 Exento, Defensa, publicado el 17.09.2009, modifica la presente norma en el sentido de reemplazar las unidades a las cuales se encontraban destinados los vehículos que en dicha norma se indican por los que en cada caso se señala.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República, Vivianne Blanlot Soza, Ministra de Defensa Nacional.- Andrés Zaldívar Larraín, Ministro del Interior.
 
