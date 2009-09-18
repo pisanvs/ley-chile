@@ -96,21 +96,9 @@ Corresponde al ordenamiento, mediante asignaciones especiales, de los estudios, 
 
 Dichas asignaciones especiales corresponderán al código y nombre que se le asigne en el Banco Integrado de Proyectos (BIP).
 
-### V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA
-
-Corresponde a las instancias previas al devengamiento en la ejecución del presupuesto, que las entidades públicas deberán utilizar e informar con el objeto de conocer el avance en la aplicación de los recursos presupuestarios.
-
-PREAFECTACION: Corresponde a las decisiones que dan cuenta de intenciones de gasto y sus montos y que no originan obligaciones con terceros, tales como la identificación de iniciativas de inversión, distribución regional de gastos, procesos de selección, solicitud de cotizaciones directas o a través de los sistemas de la Dirección de Compras y Contratación Pública, llamados a licitación y similares.
-
-AFECTACION: Corresponde a las decisiones que importan el establecimiento de obligaciones con terceros sujetos a los procedimientos de perfeccionamiento que, en cada caso, correspondan, tales como adjudicaciones de contratos o selección de proveedores de bienes y servicios comprendidos en convenios marco suscritos por la Dirección de Compras y Contrataciones Públicas.
-
-COMPROMISO CIERTO: Corresponde a las decisiones de gasto que, por el avance en su concreción, dan origen a obligaciones recíprocas con terceros contratantes, tales como la emisión de órdenes de compra por la contratación del suministro de bienes o servicios o la ejecución de obras, según corresponda. Se incluyen en esta etapa las obligaciones de carácter legal y contractual asociadas al personal de planta y a contrata.
-
-COMPROMISO IMPLICITO: Corresponde a aquellos gastos que por su naturaleza o convención, no pasan previamente por alguna de las etapas de afectación antes establecidas y se originan en forma simultánea al devengamiento, como es el caso de los servicios básicos, peajes, permisos de circulación de vehículos y similares.
-
 CLASIFICADOR DE INGRESOS Y GASTOS
 
-2. Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
+2.Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
 
 Subt. Item Asig.
 
@@ -159,8 +147,6 @@ Subt. Item Asig.
 002 Derechos de Explotación ENAP
 
 003 Gasolinas, Petróleo Diesel y Otros
-
-01 03 004 Derechos de Extracción Ley de Pesca
 
 04 Impuestos a los Actos Jurídicos
 
@@ -574,10 +560,6 @@ el Código del Trabajo
 
 y Comisiones
 
-004 Prestaciones de Servicios
-
-en Programas Comunitarios.
-
 22 BIENES Y SERVICIOS DE CONSUMO
 
 01 Alimentos y Bebidas
@@ -766,10 +748,6 @@ Infantiles
 
 Similares.
 
-011 Servicios de Producción y
-
-Desarrollo de Eventos.
-
 999 Otros
 
 09 Arriendos
@@ -902,8 +880,6 @@ Cuidado del Niño
 
 006 Subsidio de Cesantía
 
-012 Aporte Familiar Permanente de marzo
-
 03 Prestaciones Sociales del
 
 Empleador
@@ -915,10 +891,6 @@ Empleador
 003 Fondo Retiro Funcionarios
 
 Públicos Ley Nº 19.882
-
-004 Otras indemnizaciones
-
-012 Aporte Familiar Permanente de marzo
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -1688,9 +1660,7 @@ participación que se determine del "Fondo
 
 Común Municipal", en conformidad a lo
 
-dispuesto en el artículo 38 del DL.
-
-N° 3.063, de 1979.
+dispuesto en el artículo 38 del DL. N° 3.063, de 1979.
 
 Comprende las siguientes asignaciones:
 
@@ -2465,40 +2435,6 @@ sesiones, y la entrega de fondos para
 fines específicos, de acuerdo con las
 
 disposiciones legales vigentes
-
-004 Prestaciones de Servicios en
-
-Programas Comunitarios
-
-Comprende la contratación de
-
-personas naturales sobre la
-
-base de honorarios, para la
-
-prestación de servicios
-
-ocasionales y/o transitorios,
-
-ajenos a la gestión administrativa
-
-interna de las respectivas
-
-municipalidades, que estén
-
-directamente asociados al
-
-desarrollo de programas en
-
-beneficio de la comunidad, en
-
-materias de carácter social,
-
-cultural, deportivo, de
-
-rehabilitación o para enfrentar
-
-situaciones de emergencia
 
 22 BIENES Y SERVICIOS DE CONSUMO
 
@@ -3642,22 +3578,6 @@ electrónicos de transmisión de datos,
 
 textos o similares.
 
-011 Servicios de Producción y Desarrollo
-
-de Eventos
-
-Son los gastos por concepto de
-
-contratación de personas jurídicas,
-
-para la producción y desarrollo integral
-
-de eventos sociales, culturales
-
-y deportivos, que realizan en beneficio
-
-de la comunidad las municipalidades.
-
 999 Otros
 
 Son los gastos por concepto de otros
@@ -4181,8 +4101,6 @@ Considera las siguientes asignaciones:
 003 Fondo Retiro Funcionarios Públicos
 
 Ley Nº 19.882.
-
-004 Otras indemnizaciones
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -5712,9 +5630,7 @@ Para realizar la referida desagregación, se considerarán las siguientes distin
 
 06 Programas Culturales: comprende todo gasto relacionado con el desarrollo de iniciativas que ejecute directamente el municipio, orientadas al fomento y difusión de la cultura y de las artes entre los habitantes de la comuna. Incluye las subvenciones a entidades públicas o privadas que conceda con la misma finalidad.
 
-> **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
-
-> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el Diario Oficial.
+> **Nota.** El DTO 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
 
 Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
