@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.700, de 12 de agosto de 2009, de esta Subsecretaría, autorízase a HONORIO GARCÉS VERGARA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Avenida Brasil Nº 100, Calbuco, X Región, para elaborar en líneas de Fresco enfriado, Congelado y Salado húmedo, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
