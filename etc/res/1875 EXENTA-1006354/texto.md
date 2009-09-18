@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.875 EXENTA, DE 2009
+
+Por resolución exenta Nº 1.875 de 28 de agosto de 2009, se aprobó la modificación del Contrato de Concesión de Uso de Vías de la Ciudad de Santiago para la prestación de servicios urbanos de transporte público remunerado de pasajeros mediante buses de fecha 3 de julio de 2009, suscrita entre el Ministerio de Transportes y Telecomunicaciones y la sociedad concesionaria de la Unidad de Negocio Troncal Nº 1, Inversiones Alsacia S.A., en virtud de la cual las partes acordaron modificar el Contrato de Concesión de Vías suscrito con fecha 28 de enero de 2005, que las vincula, extendiendo el plazo contemplado en dicho contrato, de acuerdo a lo previsto en el artículo 3.4.4.2.1 de las Bases de Licitación Transantiago 2003, por 108 meses, a contar del 22 de octubre de 2009, totalizando 156 meses.-
+
+René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.
