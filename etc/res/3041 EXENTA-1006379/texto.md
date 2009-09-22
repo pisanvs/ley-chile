@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.041, de 10 de septiembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 94105015 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES CULTIVADORES Y EXPLOTADORES DE ALGAS PUNTA CHILÉN para instalar y operar un centro de cultivo ubicado en Bahía Hueihue, al oeste de Bajo Cholche, X Región.
+
+Valparaíso, 10 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
