@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.098 de 14 de septiembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203103078, presentada por Andrés Alejandro Johnson González, para instalar y operar un centro de cultivo ubicado en Canal Hudson, al sur de Punta Coñao, Isla Quinchao, X Región.
+
+Valparaíso, 14 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
