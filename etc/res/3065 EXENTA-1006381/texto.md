@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.065, de 10 de septiembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207122436 presentada por ACUÍCOLA, COMERCIAL E INDUSTRIAL AQUASAL LIMITADA para instalar y operar un centro de cultivo ubicado en Bahía Sivewright, Isla Manuel Rodríguez, XII Región.
+
+Valparaíso, 10 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
