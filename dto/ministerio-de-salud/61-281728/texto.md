@@ -32,7 +32,7 @@ Para efectos de este reglamento las expresiones que a continuación se indican t
 
 a) Calibración: Operación que establece la relación entre la lectura de un instrumento de medición o sensor y, el valor obtenido por un patrón.
 
-b) Contaminante de interés sanitario: Toda sustancia o elemento cuya presencia en el aire se encuentre en concentraciones tales que representen un riesgo para la salud o el bienestar de las personas.
+b) Contaminante de interés sanitario: Todo elemento, compuesto, sustancia, derivado químico o biológico cuya presencia en el aire pueda constituir un riesgo para la vida o la salud de la población.
 
 c) Datos crudos: Valores obtenidos directamente del monitor o sensor, expresados en sus dimensiones físicas correspondientes, sobre los cuales no se ha aplicado ningún tipo de intervención con posterioridad a la medición.
 
@@ -60,11 +60,11 @@ l) Patrón secundario: Patrón cuyo valor se establece por comparación con un p
 
 m) Precisión aceptada: Es el valor máximo de variación aceptado expresado en porcentaje.
 
-n) Promedio diario: Aquel que se calcula con la información medida entre la hora 1 y hora 24. El promedio diario deberá calcularse con al menos 18 valores de promedio. La medición de material particulado con equipos basados en el método gravimétrico de alto y bajo volumen, el promedio diario se calculará sobre la base de 18 horas continuas de medición. Ello, sin perjuicio de lo dispuesto en la norma de emisión respectiva.
+n) Promedio diario: Aquel que se calcula con la información medida entre la hora 0 y la hora 23. El promedio diario deberá calcularse con al menos 18 valores de promedio. En la medición de material particulado con equipos basados en el método gravimétrico de alto y bajo volumen, el promedio diario se calculará sobre la base de 18 horas continuas de medición. Ello sin perjuicio de lo dispuesto en las normas primarias de calidad del aire respectivas.
 
 ñ) Promedio horario: Corresponde al que se calcula con los valores medidos entre el minuto uno y el minuto 60 de la hora. El promedio horario, para el caso de monitores continuos de gases, debe calcularse sobre el promedio de las mediciones realizadas durante cinco minutos consecutivos, es decir, el promedio horario se obtendrá de promediar aritméticamente 12 valores promedio. En el caso de los medidores continuos de material particulado, el valor promedio horario se calculará sobre el promedio de las mediciones realizadas durante 15 minutos consecutivos, es decir, el promedio horario se obtendrá de promediar aritméticamente 4 valores promedio.
 
-En todo caso, el valor promedio horario puede ser calculado sobre la base de un número mayor de promedios a petición de la autoridad sanitaria. Ello, sin perjuicio de lo dispuesto en la norma de emisión respectiva.
+En todo caso, el valor promedio horario puede ser calculado sobre la base de un número mayor de promedios a petición de la autoridad sanitaria. Ello sin perjuicio de lo dispuesto en las normas primarias de calidad del aire respectivas.
 
 o) Resolución temporal: Período que emplea un monitor, sensor o muestreador ambiental para realizar una medición discreta.
 
@@ -80,7 +80,7 @@ t) Zona horaria: Se utilizará para el monitoreo de contaminantes el horario ofi
 
 #### Artículo 3º
 
-Todas las estaciones de monitoreo de calidad del aire que realicen mediciones de contaminantes atmosféricos de interés sanitario a solicitud de la autoridad sanitaria, o bien, que monitoreen una norma primaria de calidad del aire, o lo hagan de acuerdo a una Resolución de Calificación Ambiental o Plan de Prevención y/o Descontaminación, y por tanto deban ser clasificadas como de representatividad poblacional, se sujetarán a las disposiciones del presente reglamento.
+Todas las estaciones de monitoreo de calidad del aire que realicen mediciones de contaminantes atmosféricos de interés sanitario de conformidad con la normativa vigente, y las que monitoreen una norma primaria de calidad del aire se sujetarán a las disposiciones del presente reglamento.
 
 ## Título II
 
@@ -94,7 +94,7 @@ Con el objeto de asegurar que las mediciones realizadas en dicha estación se ha
 
 #### Artículo 5º
 
-Las estaciones de monitoreo sólo deberán emplear instrumentos de medición de concentraciones ambientales de contaminantes atmosféricos incluidos en la lista de Métodos Denominados de Referencia y Equivalentes publicada por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica, o que cuenten con certificación de alguna de las agencias de los países miembros de la Comunidad Europea, que implementan las directrices del Comité Europeo para Estandarizaciones. Ello, sin perjuicio de lo dispuesto en la norma de emisión respectiva.
+Las estaciones de monitoreo sólo deberán emplear instrumentos de medición de concentraciones ambientales de contaminantes atmosféricos incluidos en la lista de Métodos Denominados de Referencia y Equivalentes publicada por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica o que cuenten con certificación de alguna de las agencias de los países miembros de la Comunidad Europea que implementan las directrices del Comité Europeo para Estandarizaciones o que tengan certificación de que dan cumplimiento a los estándares de calidad exigidos en el país de origen entregada por algún ente acreditado por el gobierno de ese país. Ello, sin perjuicio de lo dispuesto en las normas primarias de calidad del aire respectivas.
 
 #### Artículo 6º
 
@@ -134,7 +134,7 @@ Las casetas de monitoreo en cuyo interior funcionen equipos monitores o sensores
 
 #### Artículo 10
 
-A lo menos un vez al año debe realizarse un chequeo de señales de transmisión de los sistemas y subsistemas contenidos en las estaciones de monitoreo, corroborando la calidad de la señal de los equipos analizadores o sensores, con el sistema de almacenamiento de los datos. Para esto, se debe verificar la coincidencia de los valores de la señal generada (sea esta expresada en voltaje, corriente, frecuencia u otra) por el analizador o sensor y la señal que se recibe en la central de almacenamiento, sea esta un computador, datalogger o cualquier otro medio de almacenamiento de información. Tal verificación debe quedar registrada en el libro de vida del analizador o sensor.
+A lo menos una vez al año debe realizarse un chequeo de señales de transmisión de los sistemas y subsistemas contenidos en las estaciones de monitoreo, corroborando la calidad de la señal de los equipos analizadores o sensores, con el sistema de almacenamiento de los datos. Para esto, se debe verificar la coincidencia de los valores de la señal generada (sea esta expresada en voltaje, corriente, frecuencia u otra) por el analizador o sensor y la señal que se recibe en la central de almacenamiento, sea esta un computador, datalogger o cualquier otro medio de almacenamiento de información. Tal verificación debe quedar registrada en el libro de vida del analizador o sensor.
 
 En el caso de los subsistemas, se debe verificar que las señales del computador, datalogger u otro coincidan con los datos del sistema de adquisición de datos, lo que debe quedar registrado en la bitácora de la estación.
 
