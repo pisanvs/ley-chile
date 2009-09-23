@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.089, de 11 de septiembre de 2009, de esta Subsecretaría, autorízase a COMERCIAL NAHUELBUTA LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Tepual Lote C, Ruta V-60 s/n, kilómetro 13,5, Puerto Montt, X Región, para elaborar en línea de Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 11 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
