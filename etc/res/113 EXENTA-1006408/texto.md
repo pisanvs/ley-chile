@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIONES EXENTAS QUE SE INDICAN, RELATIVAS A DELEGACIÓN DE FACULTADES EN LOS FUNCIONARIOS DE LOS DEPARTAMENTOS DE AVALUACIONES QUE CADA UNA SEÑALA
+
+Por resoluciones exentas Nºs. 1.060, de 31.08.2009; 1.028, de 31.07.2009; 2.034, de 09.09.2009; 31, de 28.08.2009; 2.397, de 11.08.2009; 5.325, de 05.08.2009; 4.913, de 07.08.2009; 4.111, de 03.08.2009; 7.438, de 12.08.2009; 3.495, de 31.07.2009; 1.840, de 12.08.2009; 3.018, de 17.08.2009; 631, de 21.08.2009; 754, de 19.08.2009; 113, de 10.08.2009; 6.804, de 07.08.2009, y 4.249, de 13.08.2009, respectivamente, los directores de Arica - Parinacota, I, II, III, IV, V, VI, VII, VIII, IX, de Los Ríos, X, XI, XII, XIV, XV y XVI Direcciones Regionales del Servicio, delegan facultades de acuerdo a lo establecido en la resolución exenta Nº 109, de 28.07.2009, agregando además en la resolución exenta de la XII Dirección Regional la delegación de facultades que señala en funcionarios que indica.
+
+El texto íntegro de estas resoluciones está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl).
+
+Santiago, 11 de septiembre de 2009.- Gina Anastasov Aguilera, Secretaria General Servicio de Impuestos Internos.
