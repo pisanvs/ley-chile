@@ -92,14 +92,6 @@ Nº chasis : KMHEM41BP4A075724
 
 Patente : YN-4897-0
 
-> **Nota.** El Nº 1 del Decreto 650 exento, Agricultura, publicado el 20.01.2011, modificó la presente norma en el sentido de eliminar el automóvil que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 2 del Decreto 718 Exento, Agricultura, publicado el 03.02.2012, modifica la presente norma, en el sentido de dejar sin efecto las autorizaciones al vehículo Station Wagon, patente BL JJ 55-5 de la Subsecretaría de Agricultura y del vehículo del Servicio Agrícola y Ganadero, patente YN-4897-0, contenidas en el presente Decreto.
-
-> **Nota.** NOTA 2 El numeral 1 del Decreto 330 Exento, Agricultura, publicado el 28.02.2014 modifica la presente norma en el sentido de establecer que la fecha de término de la autorización otorgada por este decreto, será el 10 de marzo de 2014.
-
-> **Nota.** NOTA 3 El numeral 1 del Decreto 74 Exento, Agricultura, publicado el 14.04.2014 modifica la presente norma en el sentido de establecer que el término de la autorización otorgada por este decreto, será hasta que se den de baja los vehículos de conformidad a derecho.
-
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Marigen Hornkohl Venegas, Ministra de Agricultura.- Edmundo Pérez Yoma, Ministro del Interior.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente Ud., Reinaldo Ruiz V., Subsecretario de Agricultura.
