@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.701, de 12 de agosto de 2009, de esta Subsecretaría, autorízase a ARNOLDO CERVANDO KAISER COLIVORO para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Ten-ten s/n, Castro, Chiloé, X Región, para elaborar en líneas de proceso Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Ahumado y Conserva los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 12 de agosto de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
