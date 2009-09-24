@@ -52,6 +52,18 @@ Enseñanza Superior: 200 (doscientas) becas de $300.000.- (trescientos mil pesos
 
 Becas Especiales: 50 (cincuenta) becas de enseñanza básica de $100.000.- (cien mil pesos) y 30 (treinta) becas de enseñanza media de $200.000.- (doscientos mil pesos), para otorgar a postulantes que tengan un promedio inferior a lo exigido en la letra i del artículo 7 del presente manual y que presenten alguna discapacidad sensorial, intelectual, motora, de la relación y comunicación; trastornos específicos del lenguaje o que se encuentren con apoyo sicopedagógico o evaluación diferenciada durante el año 2008.
 
+Aquellos postulantes que resulten beneficiarios de acuerdo a lo que establece el artículo 12 del presente Manual, y que además se encuentren clasificados dentro del 1º y 2º quintil de puntaje establecido en la Ficha de Protección Social vigente, se les beneficiará con un incremento en las becas equivalente a $100.000.- (cien mil pesos) por cada beca, quedando en definitiva el monto de dicha asignación de acuerdo a lo siguiente:
+
+Enseñanza Básica: $200.000.- (doscientos mil pesos).
+
+Enseñanza Media: $300.000.- (trescientos mil pesos).
+
+Enseñanza Superior: $400.000.- (cuatrocientos mil pesos).
+
+Beca Especial Básica: $200.000.- (doscientos mil pesos).
+
+Beca Especial Media: $300.000.- (trescientos mil pesos)
+
 #### Artículo 3º
 
 El beneficio de que trata el presente Programa se entregará, por regla general, a razón de una vez por cada ex tripulante.
@@ -209,6 +221,8 @@ Este listado final de beneficiarios, resultante de la evaluación de los anteced
 #### Artículo 12º
 
 Accederán a la calidad de beneficiarios del Programa de Apoyo Social, Consistente en Aporte para Gastos de Educación de Hijos/as de Trabajadores Desplazados del Sector Pesquero Industrial bajo la Vigencia de la ley 19.713, año 2009" los postulantes que se encuentren dentro de los 200 mejores puntajes para ayudas para gastos de educación superior; 270 mejores puntajes para educación media; 450 mejores puntajes para ayudas para gastos de educación básica; 50 mejores puntajes para gastos de educación especial básica, y 30 mejores puntajes para gastos de educación especial media, considerando la nómina a que se refiere el artículo anterior.
+
+Los postulantes que resulten beneficiarios de acuerdo a lo establecido precedentemente, y que además, se encuentren dentro del 1º y 2º quintil de puntaje establecido en la Ficha de Protección Social vigente, recibirán el incremento a que se refiere el artículo 2º del presente Manual y de acuerdo a los montos que en dicho artículo se señalan.
 
 ## Título IV
 
