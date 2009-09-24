@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.021, de 10 de septiembre de 2009, de esta Subsecretaría, autorízase a BRAULIO ANTONIO ARAYA ROBLES para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en caleta San Marcos s/n (Plano 01101-266-CR), I Región, para elaborar en línea de proceso Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 10 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
