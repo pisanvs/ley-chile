@@ -1,104 +1,12 @@
-ADECUA PLANTAS Y ESCALAFONES DE LA COMISION NACIONAL DE ENERGIA, AL ARTICULO 5° DE LA LEY N° 18.834, SOBRE ESTATUTO ADMINISTRATIVO
+SUSTITUYE LOS REQUISITOS ESPECÍFICOS DE INGRESO Y PROMOCIÓN DE LAS PLANTAS DE PERSONAL DE LA COMISIÓN NACIONAL DE ENERGÍA
 
-Santiago, 24 de Enero de 1990.- Hoy se decretó lo que sigue:
-
-D.F.L. N° 2.- Vistos: Las facultades que me confieren los artículos 1° y 2° transitorios de la Ley N° 18.834, que aprobó el Estatuto Administrativo, dicto el siguiente:
+DFL Núm. 2.- Santiago, 7 de julio de 2009.- Visto: Lo dispuesto en el artículo 64 de la Constitución Política de la República; el decreto con fuerza de ley Nº 2, de 1990, del Ministerio de Minería; las facultades que me confiere el artículo 34 de la ley Nº 20.313; y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, dicto el siguiente
 
 Decreto con fuerza de ley:
 
 #### Artículo único
 
-Adécuanse las plantas y escalafones del personal de la Comisión Nacional de Energía, a lo dispuesto en el artículo 5° de la Ley N° 18.834, en la forma que se señala:
-
-SITUACION ACTUAL
-
-_______________________________________________________
-
-Escalafón/Cargos Nivel N° Cargos
-
--------------------------------------------------------
-
-PLANTA PROFESIONAL
-
-Profesionales I 4
-
-Profesionales II 2
-
-Profesionales III 2
-
-Profesionales IV 2
-
-Profesional V 1
-
-Profesional VI 1
-
-PLANTA TECNICO ADMINISTRATIVO
-
-Contador 1
-
-Secretaria Bilingüe I 1
-
-Secretarias Bilingüe II 2
-
-PLANTA SERVICIOS MENORES:
-
-Auxiliar I 1
-
-Auxiliar II 1
-
-Auxiliares III 2
-
-_______________________________________________________
-
-Total 21
-
--------------------------------------------------------
-
-PLANTA ADECUADA A LA LEY N° 18.834
-
-_______________________________________________________
-
-Planta/Cargos Nivel N° Cargos
-
--------------------------------------------------------
-
-PROFESIONALES:
-
-Profesionales I 4
-
-Profesionales II 2
-
-Profesionales III 2
-
-Profesionales IV 2
-
-Profesional V 1
-
-Profesional VI 1
-
-TECNICOS
-
-Técnico 1
-
-Técnicos I 2
-
-Técnicos II 2
-
-AUXILIARES
-
-Auxiliar I 1
-
-Auxiliar II 1
-
-Auxiliares III 2
-
-_______________________________________________________
-
-Total 21
-
--------------------------------------------------------
-
-Establécense los siguientes requisitos para el ingreso y promoción en las plantas y cargos que se señalan:
+Sustitúyanse los requisitos específicos de ingreso y promoción en la planta de personal de la Comisión Nacional de Energía, establecidos en el decreto con fuerza de ley Nº 2, de 1990, del Ministerio de Minería, por los que se indican a continuación:
 
 a) PLANTA DE PROFESIONALES:
 
@@ -140,16 +48,34 @@ Nivel II: Licencia de enseñanza media o equivalente y acreditar una experiencia
 
 Nivel III: Licencia de enseñanza media o equivalente.
 
-Anótese, tómese razón, regístrese, publíquese y comuníquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Jorge López Bain, Ministro de Minería.- Carlos Francisco Cáceres C., Ministro del Interior.- Martín Costabal Llona, Ministro de Hacienda.
+Disposición Transitoria:
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud.- Nelson Ferrada Aroca, Capitán de Navío, Subsecretario de Minería.
+#### Artículo único
 
-CONTRALORIA GENERAL DE LA REPUBLICA División Jurídica División de Toma de Razón y Registro Cursa con alcance DFL. N° 2, de 1990, del Ministerio de Minería
+Los requisitos establecidos en el artículo anterior de este decreto con fuerza de ley no serán exigibles respecto de quienes, a la fecha de su entrada en vigencia, se encuentren desempeñando como funcionarios de planta o a contrata los cargos respectivos, los que serán exigibles sólo respecto de nuevas designaciones.
 
-N° 10.135.- Santiago, 3 de Abril de 1990.-
+Anótese, tómese razón por la Contraloría General de la República, regístrese, publíquese y archívese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Santiago González Larraín, Ministro de Minería.- Andrés Velasco Brañes, Ministro de Hacienda.
 
-Mediante el decreto con fuerza de ley del epígrafe, documento que ha sido dictado por el Presidente de la República en virtud de la facultad que le otorga el artículo 1° transitorio de la ley N° 18.834, se adecuan la planta y escalafones de la Comisión Nacional de Energía a las plantas establecidas en el artículo 5° permanente de la ley citada.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Jorge Gómez Oyarzo, Jefe División Jurídica.
 
-Esta Contraloría General ha tomado razón de dicho cuerpo legal, pero cumple con hacer presente que el texto en estudio debe entenderse complementado por el artículo 61 de la ley N° 18.827, en lo referente a los cargos de Presidente y Secretario Ejecutivo de la Comisión Nacional de Energía, toda vez que tales plazas integran la planta de ese organismo, contenida en el precepto recién citado. Saluda atentamente a US.- Osvaldo Iturriaga Ruiz, Contralor General de la República.
+CONTRALORÍA GENERAL DE LA REPÚBLICA
 
-Al señor Ministro de Minería Presente
+División Jurídica
+
+Cursa con alcance el decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Minería
+
+Nº 51.829.- Santiago, 16 de septiembre de 2009.
+
+Esta Contraloría General ha tomado razón del decreto con fuerza de ley Nº 2, de 2009, del Ministerio de Minería, que sustituye los requisitos específicos de ingreso y promoción en la planta de personal de la Comisión Nacional de Energía, establecidos en el decreto con fuerza de ley Nº 2, de 1990, del mismo Ministerio.
+
+No obstante lo anterior, en relación con la expresión "Validados", utilizada en los diversos niveles cuyos requisitos se regulan en el artículo único, letra a), del texto normativo en estudio, cumple con hacer presente que dicho término debe entenderse comprensivo del reconocimiento, revalidación y convalidación de títulos profesionales que le corresponde efectuar a la Universidad de Chile, de acuerdo a lo establecido en el artículo 6º del decreto con fuerza de ley Nº 3, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 153, de 1981, del mismo origen, que aprueba los Estatutos de dicha Casa de Estudios Superiores, sin perjuicio, por cierto, de lo que se establece en los Tratados Internacionales vigentes sobre la materia.
+
+Asimismo, respecto a lo preceptuado en la disposición transitoria del documento en análisis, es necesario advertir que las nuevas designaciones a que alude deben entenderse referidas a aquellas que en el futuro correspondan respecto de los funcionarios que la misma norma indica.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Minería
+
+Presente.
