@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.982, de 8 de septiembre de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 2.529 de 2009, de esta Subsecretaría de Pesca que autorizó a SOCIEDAD DE DESARROLLO DE LA PESCA ARTESANAL S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Análisis del rendimiento de pesca y condición del stock de merluza común Merluccius gayi gayi, monitoreados a través de las capturas y desembarques", en el sentido de incorporar el siguiente numeral 5º bis:
+
+"5º bis.- Para efectos de la presente pesca de investigación se exceptúa el cumplimiento de la veda biológica del recurso Merluza común establecida mediante decreto exento Nº 959 de 2006, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 8 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
