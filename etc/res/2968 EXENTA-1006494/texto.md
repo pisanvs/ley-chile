@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.968, de 8 de septiembre de 2009 de esta Subsecretaría, autorízase a MANUEL ALEJANDRO ANDRADES ROJAS para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Comunidad Agrícola Lorenzo Peralta de Punilla N° 03, Ovalle, IV Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 8 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
