@@ -8,17 +8,7 @@ R e s u e l v o:
 
 Decláranse Normas Oficiales de la República de Chile, las siguientes Normas Chilenas con sus respectivos códigos y títulos de identificación:
 
-NCh2598/1. Of2002 Materiales metálicos-Verificación
-
-de máquinas de ensayos estáticos
-
-uniaxiales-Parte 1: Máquinas de
-
-ensayo de tracción/compresión-
-
-Verificación y calibración del
-
-sistema de medición de fuerza.
+NCh2598/1. Of2002 ANULA Y REEMPLAZA
 
 NCh2649. Of2002 Comportamiento de artefactos
 
