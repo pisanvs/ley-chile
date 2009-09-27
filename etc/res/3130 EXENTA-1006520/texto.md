@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.130, de 15 de septiembre de 2009, de esta Subsecretaría, autorízase a PESQUERA ISLA QUIHUA S.A. para ampliar actividades pesqueras extractivas con la nave "Terranova", en el área marítima comprendida desde la V a IX Regiones, por fuera de la línea imaginaria trazada a una distancia de 60 millas marinas medidas desde las líneas de base normales, con arrastre de media agua, sobre el recurso hidrobiológico Jibia o Calamar rojo.
+
+Valparaíso, 15 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
