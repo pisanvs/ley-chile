@@ -80,25 +80,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (ARICA)
 
-3.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Galloper II 2.5
-
-Año : 2002
-
-Color : Gris grafito
-
-Nº Motor : D4BH1-371801
-
-Chasis Nº : KMXKPS1CP2U-440579
-
-I.R.N.V.M. : VB.5012-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(ARICA)
+3.- ELIMINADO
 
 4.- Vehículo . Furgón
 
@@ -160,45 +142,9 @@ Destinación : Servicio Nacional de Aduanas
 
 (IQUIQUE)
 
-7.- Vehículo . Station Wagon
+7.- ELIMINADO
 
-Marca : Hyundai
-
-Modelo : Galloper II 2.5
-
-Año : 2002
-
-Color : Gris grafito
-
-Nº Motor : D4BH1-382130
-
-Chasis Nº : KMXKPS1CP2U-443072
-
-I.R.N.V.M. : VB.5014-3
-
-Destinación : Servicio Nacional de Aduanas
-
-(IQUIQUE)
-
-8.- Vehículo . Minibús
-
-Marca : Hyundai
-
-Modelo : Grace 12 DLX 2.5
-
-Año : 2002
-
-Color : Blanco
-
-Nº Motor : D4BF1-182377
-
-Chasis Nº : KMJFD27FP2K.512940
-
-I.R.N.V.M. : VB.5011-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(IQUIQUE)
+8.- ELIMINADO
 
 9.- Vehículo . Furgón
 
@@ -260,25 +206,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (ANTOFAGASTA)
 
-12.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Galloper II 2.5
-
-Año : 2002
-
-Color : Gris plata
-
-Nº Motor : D4BH1351671
-
-Chasis Nº : KMXKPS1CP2U440007
-
-I.R.N.V.M. : UX.4024-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(ANTOFAGASTA)
+12.- ELIMINADO
 
 13.- Vehículo . Station Wagon
 
@@ -340,25 +268,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (CHAÑARAL)
 
-16.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Galloper II XL
-
-Año : 2002
-
-Color : Azul
-
-Nº Motor : D4BH1343301
-
-Chasis Nº : KMXKPS1CP1U427644
-
-I.R.N.V.M. : UC.9854-8
-
-Destinación : Servicio Nacional de Aduanas
-
-(COQUIMBO)
+16.- ELIMINADO
 
 17.- Vehículo : Camioneta
 
@@ -500,25 +410,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (VALPARAÍSO)
 
-24.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner Tole Diesel 1.9
-
-Año : 2002
-
-Color : Blanco
-
-Nº Motor : 10DXDM0000470
-
-Chasis Nº : 60450269
-
-I.R.N.V.M. : VB.8128-6
-
-Destinación : Servicio Nacional de Aduanas
-
-(Valparaíso)
+24.- ELIMINADO
 
 25.- Vehículo . Minibús
 
@@ -660,25 +552,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (VALPARAÍSO)
 
-32.- Vehículo . Minibús
-
-Marca : Hyundai
-
-Modelo : H1 SVX 2.5
-
-Año : 2005
-
-Color : Blanco
-
-Nº Motor : D4BH5099368
-
-Chasis Nº : KMJWWH7P5U668235
-
-I.R.N.V.M. : YV.7297-4
-
-Destinación : Servicio Nacional de Aduanas
-
-(VALPARAÍSO)
+32.- ELIMINADO
 
 33.- Vehículo . Station Wagon
 
@@ -740,85 +614,13 @@ Destinación : Servicio Nacional de Aduanas
 
 (SANTIAGO)
 
-36.- Vehículo . Furgón
+36.- ELIMINADO
 
-Marca : Peugeot
+37.- ELIMINADO
 
-Modelo : Partner Tole 1.9
+38.- ELIMINADO
 
-Año : 2002
-
-Color : Blanco
-
-Nº Motor : 10DXDM0000376
-
-Chasis Nº : 60450152
-
-I.R.N.V.M. : VD.1411-1
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
-
-37.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner Tole 1.9
-
-Año : 2002
-
-Color : Blanco
-
-Nº Motor : 10DXDM0000504
-
-Chasis Nº : 60450267
-
-I.R.N.V.M. : VD.1412-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
-
-38.- Vehículo : Automóvil
-
-Marca : Peugeot
-
-Modelo : 406 ST 1.8 AUT
-
-Año : 2002
-
-Color : Verde oakland
-
-Nº Motor : 10LT020505840
-
-Chasis Nº : 2S000290
-
-I.R.N.V.M. : VD.1413-8
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
-
-39.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner Tole
-
-Año : 2002
-
-Color : Blanco
-
-Nº Motor : 10DXDC6004564
-
-Chasis Nº : 60443635
-
-I.R.N.V.M. : VA.4254-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
+39.- ELIMINADO
 
 40.- Vehículo . Furgón
 
@@ -1040,25 +842,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (OSORNO)
 
-51.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner Tole 1.9
-
-Año : 2002
-
-Color : Blanco blanquise
-
-Nº Motor : 10DXDM4000069
-
-Chasis Nº : 60450266
-
-I.R.N.V.M. : VD.9719-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(OSORNO)
+51.- ELIMINADO
 
 52.- Vehículo . Camioneta
 
