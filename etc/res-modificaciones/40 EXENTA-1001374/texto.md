@@ -4,8 +4,6 @@ Núm. 40 exenta.- Santiago, 16 de abril de 2009.- Vistos: El DFL Nº10, de 1981 
 
 Resolución:
 
-> **Nota.** El numeral 2 de la Resolución 10 Exenta, Empresa de Correos de Chile, publicada el 14.02.2014, deroga, en lo pertinente, la presente norma.
-
 1. Modifíquese la resolución exenta Nº1.736 de fecha 10 de noviembre de 1993, que crea el "Servicio Opcional de Embalaje" en los términos que a continuación se indican:
 
 a. El Servicio Opcional de Embalaje proporciona al cliente de la Empresa de Correos de Chile una caja de cartón normalizada que permite disponer envíos de correspondencia para los Servicios de Encomienda, Courier o equivalentes.
