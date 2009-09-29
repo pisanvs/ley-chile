@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.091, de 11 de septiembre de 2009, de esta Subsecretaría, autorízase a COMERCIALIZADORA MAGDA ISABEL GAMBOA JARA EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Avenida Fermín Vivaceta Nº 616, Independencia, Región Metropolitana, para elaborar en líneas Fresco enfriado y congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
