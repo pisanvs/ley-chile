@@ -340,6 +340,10 @@ La misma excepción será aplicable a los casos de solicitudes de fusión de con
 
 transitorio: La distancia mínima a que se refiere el artículo 13 bis no será exigible a las solicitudes acogidas a trámite por el Servicio con antelación a la publicación del presente decreto supremo, ni a las que se hubieren otorgado con anterioridad a él.
 
+#### Artículo 8°
+
+transitorio.- Por el período de seis meses contados desde la fecha de publicación en el Diario Oficial del presente decreto, se suspende la exigencia establecida en el inciso 1° del artículo 21 a los laboratorios que realizan análisis para elaboración de CPS e INFA, consistente en su acreditación ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización, de conformidad con la Norma Chile Nch-ISO/IEC17025:2005 (ES) o la que la reemplace.
+
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Felipe Sandoval Precht, Subsecretario de Pesca.
