@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.088, de 11 de septiembre de 2009, de esta Subsecretaría, autorízase a SEAWEED EXPORT COMPANY SOCIEDAD ANÓNIMA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Lote A-2 y Lote B-1, Panamericana Norte, kilómetro 114, Nogales, de La Calera, V Región, para elaborar en líneas de Alga seca y Algina, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 11 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
