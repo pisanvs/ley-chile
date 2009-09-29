@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.969, de 8 de septiembre de 2009, de esta Subsecretaría, autorízase a AGUSTÍN ELÍAS BERRÍOS BEIZA, para iniciar actividades pesqueras de transformación, para instalar y operar una planta en Parcela de Secano Nº 8 (ex Hacienda Catapilco), camino a Laguna de Zapallar, comuna de Zapallar, provincia de Petorca, V Región, para elaborar en líneas de procesos Fresco enfriado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 8 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
