@@ -6344,11 +6344,11 @@ Si la Parte consultada no contesta la solicitud de consultas dentro del plazo de
 
 (a) en el supuesto establecido en el Artículo 16.5;
 
-(a) dentro de los treinta (30) días siguientes de la entrega de la solicitud de consultas;
+(b) dentro de los treinta (30) días siguientes de la entrega de la solicitud de consultas;
 
-(b) dentro de quince (15) días siguientes de la entrega de una solicitud de consultas en asuntos relativos a mercancías perecederas; u
+(c) dentro de quince (15) días siguientes de la entrega de una solicitud de consultas en asuntos relativos a mercancías perecederas; u
 
-(d) otro plazo que acuerden las Partes,
+(d) otro plazo que acuerden las Partes.
 
 2. La Parte que solicita la Intervención de la Comisión explicará las razones para la solicitud, incluyendo la identificación de la medida u otro asunto en cuestión, y una indicación de los fundamentos jurídicos de la controversia.
 
@@ -6362,11 +6362,11 @@ Si la Parte consultada no contesta la solicitud de consultas dentro del plazo de
 
 (c) formular recomendaciones.
 
-4. Salvo que decida otra cosa, la Comisión acumulará dos o más procedimientos que conozca según este Artículo relativos a una misma medida o asunto. La Comisión podrá acumular dos o más procedimientos referentes a otros asuntos de los que conozca conforme a este Artículo, cuando considere conveniente examinarlos conjuntamente.
+5. Salvo que decida otra cosa, la Comisión acumulará dos o más procedimientos que conozca según este Artículo relativos a una misma medida o asunto. La Comisión podrá acumular dos o más procedimientos referentes a otros asuntos de los que conozca conforme a este Artículo, cuando considere conveniente examinarlos conjuntamente.
 
-5. Una Parte también podrá solicitar por escrito una reunión de la Comisión cuando se hubieran realizado consultas de conformidad el Capítulo 6 (Medidas Sanitarias y Fitosanitarias) y Capítulo 7 (Obstáculos Técnicos al Comercio), las que sustituirán las consultas establecidas en el Artículo 16.4.
+6. Una Parte también podrá solicitar por escrito una reunión de la Comisión cuando se hubieran realizado consultas de conformidad el Capítulo 6 (Medidas Sanitarias y Fitosanitarias) y Capítulo 7 (Obstáculos Técnicos al Comercio), las que sustituirán las consultas establecidas en el Artículo 16.4.
 
-6. La Comisión se podrá reunir de manera presencial o a través de cualquier medio tecnológico que se encuentre a disposición de las Partes que les permita cumplir con esta etapa del procedimiento.
+7. La Comisión se podrá reunir de manera presencial o a través de cualquier medio tecnológico que se encuentre a disposición de las Partes que les permita cumplir con esta etapa del procedimiento.
 
 #### Artículo 16
 
@@ -6376,7 +6376,7 @@ Si la Parte consultada no contesta la solicitud de consultas dentro del plazo de
 
 (a) los quince (15) días siguientes de la reunión de la Comisión conforme al Artículo 16.6;
 
-(b) los quince (15) días siguientes de la reunión de la Comisión para tratar el asunto más reciente que le haya sido sometido, cuando se hayan acumulado varios procedimientos conforme al Artículo 16.6.4;
+(b) los quince (15) días siguientes de la reunión de la Comisión para tratar el asunto más reciente que le haya sido sometido, cuando se hayan acumulado varios procedimientos conforme al Artículo 16.6.5;
 
 (c) los treinta (30) días siguientes a que una Parte haya entregado una solicitud de consultas conforme al Artículo 16.6 en un asunto relativo a mercancías perecederas, si la Comisión no se hubiere reunido de acuerdo con el Artículo 16.6;
 
@@ -6530,7 +6530,7 @@ El tribunal arbitral deberá presentar a las Partes en la controversia un inform
 
 7. A solicitud escrita de la Parte afectada, el tribunal arbitral original determinará si el nivel de beneficios que la Parte reclamante ha suspendido es excesivo, en conformidad con el párrafo 3. Si el tribunal arbitral no puede constituirse con sus integrantes originales, se aplicará el procedimiento establecido en el Artículo 16.8.
 
-8. El tribunal arbitral proferirá su resolución dentro de los sesenta (60) días siguientes a la solicitud efectuada en conformidad con el párrafo 6, o si el tribunal arbitral no puede constituirse con sus integrantes originales, a la fecha en que se haya designado al último árbitro. La resolución del tribunal arbitral será definitiva y obligatoria. La resolución será comunicada a las Partes en la controversia y puesta a disposición pública.
+8. El tribunal arbitral proferirá su resolución dentro de los sesenta (60) días siguientes a la solicitud efectuada en conformidad con el párrafo 7, o si el tribunal arbitral no puede constituirse con sus integrantes originales, a la fecha en que se haya designado al último árbitro. La resolución del tribunal arbitral será definitiva y obligatoria. La resolución será comunicada a las Partes en la controversia y puesta a disposición pública.
 
 #### Artículo 16
 
