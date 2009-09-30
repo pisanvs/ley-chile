@@ -48,6 +48,12 @@ adicionales
 
 (Phalaris canariensis)
 
+Amaranto México Sin declaraciones
+
+(Amaranthus adicionales
+
+hypochondriacus)
+
 Anís Cualquier
 
 origen Sin declaraciones
