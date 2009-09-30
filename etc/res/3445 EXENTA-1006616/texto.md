@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A TOROMIRO S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución Ex. Nº 3.445, de fecha 11 de septiembre de 2009, otorga a contar del 1º del mes siguiente de esta publicación, al contribuyente Toromiro S.A., RUT Nº 76.011.573-8, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la compras de ganado vivo establecido en el Nº 2 de la Res. Ex Nº 3.721, del 28 de julio de 2000 de la Dirección Nacional del SII.
