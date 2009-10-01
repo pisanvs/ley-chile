@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.471 de 26 de Septiembre del 2009, se publicó Decreto Núm. 3.459 exento.- de 11 de septiembre de 2009, que Aprueba Reformas de Estatutos a "Asociación Nacional de Fútbol Amateur de Chile", con el error que se salva a continuación: página once, primera columna, donde dice "... , de 2003, publicado en el Diario Oficial de 6 de noviembre de 2008, ..." debe decir "... , de 2003, publicado en el Diario Oficial de 13 de febrero de 2004; en la Resolución Nº 1600, de 2008, publicada en el Diario Oficial de 6 de noviembre de 2008, ...".
