@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1327 de fecha 31 de agosto del 2009, se expropió el lote de terreno N°77, superficie 70 m2, Rol Nº155-117, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario CARLOS ENRIQUE NORAMBUENA VALENZUELA, ascendente a la cantidad de $1.084.450.- para el lote N°77.
+
+Fiscal del Ministerio de Obras Públicas.
