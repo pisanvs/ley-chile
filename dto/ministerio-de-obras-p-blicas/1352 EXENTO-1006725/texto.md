@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1352 de 31 de agosto de 2009, se expropió el lote de terreno Nº39, superficie 2.363 m2, Rol Nº63-33, comuna de Pumanque, VI Región para la obra "CAMINO RUTA I-60, SECTOR PUMANQUE - CRUCE I-72. TRAMO KM. 20,34083 A KM. 38,49623, SEXTA REGION" y se acordó el valor de indemnización con su propietaria MARIA DORA MUÑOZ GONZALEZ Y OTROS, ascendente a la cantidad de $9.716.366.-
+
+Fiscal del Ministerio de Obras Públicas.
