@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº 1424, de 31 de agosto de 2009, se revocó el Decreto MOP Nº224, de 27 de febrero de 2001, que ordenaba la expropiación del lote de terreno Nº 128-1, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector: Km. 68.400,00 al Km. 95.600,00. By-Pass Rancagua", debido a que en virtud de nuevos antecedentes se determinó que dicho lote forma parte de un camino que tiene la calidad de bien nacional de uso público, y en consecuencia no es procedente su expropiación.
+
+Fiscal del Ministerio de Obras Públicas.
