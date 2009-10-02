@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1367 de fecha 31 de agosto del 2009, se expropió el lote de terreno N°175-A, superficie 167 m2, Rol N°202-267, comuna de Longaví, VII Región para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 al Km. 19,41782" y se acordó el valor de indemnización con su propietario AURELIO DEL CARMEN SAN MARTIN GUZMAN, ascendente a la cantidad de $606.903.-
+
+Fiscal del Ministerio de Obras Públicas.
