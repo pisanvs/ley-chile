@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1364, de fecha 31 de agosto del 2009, se expropió el lote de terreno N°56, superficie 80 m2, Rol N°434-166, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren", y se acordó el valor de indemnización con su propietaria con MIRYAM AMANDA VALDES PEREZ, ascendente a la cantidad de $349.948.- para el lote N°56.
+
+Fiscal del Ministerio de Obras Públicas.
