@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1365, de fecha 31 de agosto del 2009, se expropiaron los lotes de terreno N°s. 15 y 16, superficies 551 y 736 m2, Rol N°432021, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren", y se acordó el valor de indemnización con su propietario con RENAN JAVIER GALVEZ ZARATE, ascendente a la cantidad de $1.557.573.- para los lotes N°s. 15 y 16.
+
+Fiscal del Ministerio de Obras Públicas.
