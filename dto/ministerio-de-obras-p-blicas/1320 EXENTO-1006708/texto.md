@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1320 de fecha 31 de agosto de 2009, se expropió el lote de terreno Nº178-A, superficie 116 m2, rol Nº202-247, comuna de Longaví, para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 a Km. 19,41782, comuna de Longaví, provincia de Linares, VII Región" y se acordó el valor de la indemnización con su propietario JOSE RAUL QUEZADA VERGARA, ascendente a la cantidad de $508.842.-
+
+Fiscal del Ministerio de Obras Públicas.
