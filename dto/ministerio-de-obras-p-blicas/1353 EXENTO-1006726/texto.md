@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1353 de 31 de agosto de 2009, se expropió el lote de terreno Nº5, superficie 358 m2, Rol Nº44-57, comuna de Chépica, VI Región para la obra "MEJORAMIENTO CAMINO CHIMBARONGO - CHEPICA II, SECTOR CONVENTO VIEJO - AUQUINCO, TRAMO KM. 0,00000 AL KM. 7,75554" y se acordó el valor de indemnización con su propietaria ELIANA ROSA CANALES FARIAS Y OTROS, ascendente a la cantidad de $16.896.087.-
+
+Fiscal del Ministerio de Obras Públicas.
