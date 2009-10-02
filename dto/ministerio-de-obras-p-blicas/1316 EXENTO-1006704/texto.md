@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1316 de fecha 31 de agosto de 2009, se expropiaron los lotes de terreno N°s 200-B y 200-C, superficies 43 y 43 m2 respectivamente, rol Nº202773, comuna de Longaví, para la obra "Camino Mejoramiento Ruta L-535, Sector Chalet Quemado - Loma de Vásquez, Tramo Km. 0,00000 a Km. 19,41782, comuna de Longaví, provincia de Linares, VII Región" y se acordó el valor de la indemnización con su propietario MARISOL DEL CARMEN SALAZAR CARRASCO, ascendente a la cantidad de $325.754.-
+
+Fiscal del Ministerio de Obras Públicas.
