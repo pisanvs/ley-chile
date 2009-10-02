@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1355 de 31 de agosto de 2009, se expropió el lote de terreno Nº 154-A, superficie 606 m2., Rol Nº 266-71, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietario FRANCISCO ANTONIO MARQUEZ ESPINOSA, ascendente a la cantidad de $7.386.368.-
+
+Fiscal del Ministerio de Obras Públicas.
