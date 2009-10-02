@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exenta) Nº 1507 de 21 de septiembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840 y Art. 12 de la Ley N°18.777, se expropió para Aguas Manquehue S.A., el lote de terreno Nº100 para la obra Estanque Chicureo Bajo, que figura a nombre de FALABELLA PERAGALLO ELIANA, rol de avalúo 1022-100, Comuna de COLINA, REGIÓN METROPOLITANA, superficie 5.040 M2. La Comisión de Peritos, fijó el 5 de julio de 2009, en la cantidad de $60.186.284.- para el lote N°100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
