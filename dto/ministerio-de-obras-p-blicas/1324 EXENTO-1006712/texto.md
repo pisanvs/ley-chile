@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1324 de 31 de agosto de 2009, se expropió el lote de terreno Nº34, superficie 193 m2, rol de Avalúo 925-11, comuna de Alto del Carmen, para la obra "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA II", III Región y se acordó el valor de la indemnización con su propietaria AIDA RIVERA ALARCON, ascendente a la cantidad de $1.350.716.-
+
+Fiscal del Ministerio de Obras Públicas.
