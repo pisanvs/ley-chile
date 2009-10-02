@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1328, de fecha 31 de agosto del 2009, se expropió el lote de terreno N°58, superficie 1.062 m2, Rol N°434-437, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren" y se acordó el valor de indemnización con su propietario AUGUSTO ALFREDO URRUTIA ABURTO, ascendente a la cantidad de $1.169.377.- para el lote N°58.
+
+Fiscal del Ministerio de Obras Públicas.
