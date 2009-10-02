@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1366, de fecha 31 de agosto del 2009, se expropió el lote de terreno N°54, superficie 55 m2, Rol N°434-164, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren", y se acordó el valor de indemnización con su propietario con ELISEO ENRIQUE VERGARA PEREZ, ascendente a la cantidad de $662.004.- para el lote Nº54.
+
+Fiscal del Ministerio de Obras Públicas.
