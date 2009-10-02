@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.011, de 10 de septiembre de 2009, de esta Subsecretaría, autorízase a PLANTA DE PROCESO LA CALETA DEL CALEUCHE LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar una planta en sector rural de San Antonio, comuna de Ancud, Chiloé, X Región, para elaborar en líneas de Cocido, Fresco Enfriado y Congelado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 10 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
