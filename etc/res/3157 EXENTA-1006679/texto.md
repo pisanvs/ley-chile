@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.157, de 21 de septiembre de 2009, de esta Subsecretaría, autorízase a PUERTO DE HUMOS S.A., para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Parcela 32, sector Lagunitas, camino a Las Quemas, Parque Industrial Apiasmontt, Puerto Montt, X Región, para elaborar en líneas Fresco Enfriado, Fresco Refrigerado, Congelado, Seco Salado, Ahumado y Conserva, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
