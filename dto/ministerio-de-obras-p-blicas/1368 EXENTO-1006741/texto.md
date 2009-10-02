@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1368, de fecha 31 de agosto del 2009, se expropió el lote de terreno N°67, superficie 25 m2, Rol N°434-238, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren", y se acordó el valor de indemnización con su propietario con JOSE ANTONIO VILLALOBOS AGUILERA, ascendente a la cantidad de $158.263.- para el lote N°67.
+
+Fiscal del Ministerio de Obras Públicas.
