@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1357, de fecha 31 de agosto del 2009, se expropiaron los lotes de terreno N°s 51-A y 53-A, superficie 1.083 y 1.609 m2 respectivamente, Rol Nº132-26, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-810, Sector Licantén Vichuquén, Tramo Km. 0,000000 al Km. 15,372989.", y se acordó el valor de indemnización con su propietario ELIO VERGARA, ascendente a la cantidad de $5.944.378.-
+
+Fiscal del Ministerio de Obras Públicas.
