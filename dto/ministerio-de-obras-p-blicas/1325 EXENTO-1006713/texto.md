@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1325 de 31 de agosto de 2009, se expropió el lote de terreno Nº29, superficie 2.159 m2, rol de Avalúo 421-8, comuna de Illapel, para la obra "Construcción Variante, Cruce Sector Ruta D-37-E (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679", IV Región y se acordó el valor de la indemnización con la SOCIEDAD DE PARCELEROS DE LA HACIENDA ILLAPEL LIMITADA, ascendente a la cantidad de $1.354.910.-
+
+Fiscal del Ministerio de Obras Públicas.
