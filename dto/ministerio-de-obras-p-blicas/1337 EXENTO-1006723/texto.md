@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1337 de fecha 31 de agosto del 2009, se expropió el lote de terreno N°16-A, superficie 285 m2, Rol N°387-16, comuna de Pitrufquén IX, Región para la obra "SISTEMA DE REGADIO FAJA MAISAN," OBRA: "FAJAS ADICIONALES CANAL MAHUIDANCHE", y se acordó el valor de indemnización con su propietario JUAN BAUTISTA SEGUNDO MUÑOZ MARDONES, ascendente a la cantidad de $185.415.-
+
+Fiscal del Ministerio de Obras Públicas.
