@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1315 de fecha 31 de agosto de 2009, se expropió el lote de terreno Nº8, superficie 163 m2, rol Nº922-15, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", III Región y se acordó el valor de la indemnización con su propietario DAISY ELLYDE PAEZ MONARDEZ, ascendente a la cantidad de $987.229.-
+
+Fiscal del Ministerio de Obras Públicas.
