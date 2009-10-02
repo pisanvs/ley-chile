@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1356, de fecha 31 de agosto del 2009, se expropió el lote de terreno Nº8, superficie 355 m2, Rol Nº20-33, comuna de Chonchi, X Región para la obra "Construcción By Pass Chonchi extensión Calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región.", y se acordó el valor de indemnización con su propietario WALDO MARIO ALVAREZ PEREZ, ascendente a la cantidad de $6.551.078.-
+
+Fiscal del Ministerio de Obras Públicas.
