@@ -96,7 +96,7 @@ En una primera etapa debe construirse una casa de servicios, en la cual se insta
 
 1.1.6 Entrada en Operación
 
-El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 18 meses siguientes a la fecha de adjudicación de la licitación.
+El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 24 meses siguientes a la fecha de adjudicación de la licitación.
 
 1.1.7 Valor de Inversión y Costo de Operación, Mantenimiento y Administración referenciales
 
@@ -132,7 +132,7 @@ Como resultado de esta faena, debe recuperarse el conductor de cobre y la mayor 
 
 1.2.4 Entrada en Operación
 
-El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 18 meses siguientes a la fecha de adjudicación de la licitación.
+El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 36 meses siguientes a la fecha de adjudicación de la licitación.
 
 1.2.5 Valor de Inversión y COMA
 
@@ -152,7 +152,7 @@ El proyecto contempla modificar la conexión actual, tipo Tap Off, por una conex
 
 1.3.3 Entrada en Operación
 
-El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 18 meses siguientes a la fecha de adjudicación de la licitación.
+El proyecto deberá ser construido y entrar en operación, a más tardar, dentro de los 40 meses siguientes a la fecha de adjudicación de la licitación.
 
 1.3.4 Valor de Inversión y COMA
 
@@ -198,7 +198,7 @@ VER DIARIO OFICIAL DE 22.06.2009, PAGINA 4.
 
 Transelec S. A. deberá realizar la licitación de la construcción de cada obra de ampliación especificada en el Artículo Segundo del presente decreto, a través de un proceso de licitación público, abierto y transparente, auditable por la Superintendencia de Electricidad y Combustibles, en adelante e indistintamente la "Superintendencia", de acuerdo a las condiciones establecidas en el artículo 94º del DFL Nº 4.
 
-El proceso de licitación y adjudicación deberá estar finalizado dentro de los 4 meses, contados desde la fecha de publicación del presente decreto en el Diario Oficial.
+El proceso de licitación y adjudicación deberá estar finalizado dentro de los 5 meses, contados desde la fecha de publicación del presente decreto en el Diario Oficial
 
 3.1.2 Bases de Licitación
 
