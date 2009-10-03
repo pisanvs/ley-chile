@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.159, de 21 de septiembre de 2009, de esta Subsecretaría, autorízase a BLAS DEL ROSARIO ARAYA LEDEZMA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Playa El Bote s/n, Caleta Constitución, Antofagasta, II Región, para elaborar en la línea de proceso Alga Seca, los recursos hidrobiológicos señalados en la resolución extractada.
+
+Valparaíso, 21 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
