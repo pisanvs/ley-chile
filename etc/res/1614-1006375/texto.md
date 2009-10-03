@@ -1,6 +1,6 @@
 RECTIFICA RESOLUCIÓN (M) 185, DE 2009
 
-Mediante resolución (M) Nº 1.614, de 31 de julio de 2006, Subsecretaría de Marina, Ministerio de Defensa Nacional, se resolvió lo siguiente:
+Mediante resolución (M) Nº 1.614, de 31 de julio de 2009, Subsecretaría de Marina, Ministerio de Defensa Nacional, se resolvió lo siguiente:
 
 Modifícase la resolución 185, de 21 de enero de 2009, Subsecretaría de Marina, Ministerio de Defensa Nacional, que autorizó al Sr. Enzo Efraín Caro Alvarado, a transferir a Salmones Humboldt S.A., la Concesión de Acuicultura de Porción de Agua y Fondo de Mar, otorgada por resolución 576 de 2006, modificada por resolución 1.314 de 2008, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina.
 
