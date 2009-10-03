@@ -8,6 +8,6 @@ Resuelvo:
 
 A) Pesquería artesanal de Anchoveta
 
-B) Pesquería artesanal de Anchoveta
+B) Pesquería artesanal de Sardina común.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Por cuenta de esta Subsecretaría, Jorge Chocair Santibáñez, Subsecretario de Pesca.
