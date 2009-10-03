@@ -22,7 +22,7 @@ DE LOS LLAMADOS A CONCURSOS
 
 Los concursos serán convocados por el Director de Presupuestos.
 
-Sin perjuicio de sus atribuciones sobre esta materia, el Director de Presupuestos deberá llamar a concurso interno de promociones cuando el número de cargos vacantes de cualesquiera de las plantas de directivos, profesionales administrativos y auxiliares, por separado, sea mayor al diez por ciento del número total de cargos que registra la respectiva planta.
+En dicha convocatoria se deberán especificar los cargos vacantes objeto del concurso, y de estimarlo pertinente podrá disponerse la aplicación del procedimiento de multiconcursabilidad a que se refiere el decreto Nº 69, de 2004, del Ministerio de Hacienda
 
 ### Párrafo 2°
 
@@ -166,7 +166,7 @@ La provisión de los cargos vacantes de cada planta se efectuará, en cada grado
 
 #### Artículo 18
 
-Las vacantes que se produzcan por efecto de la provisión de los cargos conforme al artículo anterior, se proveerán en acto seguido, como parte del mismo concurso y siguiendo iguales reglas.
+Las vacantes que se produzcan por efecto de la provisión de los cargos conforme al artículo anterior, se proveerán, de ser posible, en acto seguido, como parte del mismo concurso y siguiendo iguales reglas cuando así se hubiere dispuesto en la convocatoria a que alude el artículo 2º.
 
 En caso de producirse empate, los funcionarios serán designados conforme al resultado de la última calificación obtenida, y en el evento de mantenerse esta igualdad, decidirá el Director de Presupuestos. Una vez aplicadas las normas anteriores, las vacantes que subsistieren, de proveerse, se sujetarán a las normas generales de la ley N° 18.834.
 
