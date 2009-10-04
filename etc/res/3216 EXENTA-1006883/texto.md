@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.216, de 24 de septiembre de 2009, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA GENMAR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Don Chelo I" en el área marítima de la VIII Región, por fuera del área de reserva artesanal, con red de arrastre, sobre los siguientes recursos hidrobiológicos: Besugo y Alfonsino.
+
+Valparaíso, 24 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
