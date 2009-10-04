@@ -594,23 +594,25 @@ DE LAS VIVIENDAS, LOCALES, CAMPAMENTOS Y DEMAS
 
 #### Artículo 77°
 
-El Reglamento comprenderá normas como las que se refieren a:
+El reglamento comprenderá normas como las que se refieren a:
 
 a) las condiciones de saneamiento previo de los terrenos que se destinarán a nuevas construcciones, de acuerdo con las características y las necesidades higiénicas de la localidad, sin perjuicio de lo dispuesto en las leyes especiales que rijan la materia;
 
 b) la calidad, naturaleza y demás requisitos higiénicos que deberán tener los materiales empleados en las construcciones y reparaciones de casas, edificios y locales;
 
-c) las condiciones sanitarias y de seguridad que deben cumplir una casa, edificio o local, para ser habitados u ofrecidos en arrendamiento y la determinación del número máximo de personas que pueden ocuparlos;
+c) las condiciones sanitarias y de seguridad que deben cumplir una casa, edificio o local, para ser habitada u ofrecidos en arrendamiento y la determinación del número máximo de personas que pueden ocuparlos;
 
-d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatros, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras.
+d) las condiciones sanitarias y de seguridad de los locales o sitios en que se efectúen espectáculos públicos y de esparcimiento o recreo, o se alberguen transitoriamente grupos de personas, como ser escuelas, teatro, cines, estadios, carpas, campamentos de verano, de faenas mineras u otras.
 
 e) la prohibición de mantener determinadas especies de animales o el número máximo de ellos que pueden ser tolerados en una casa habitación o en locales públicos o privados, y las condiciones de higiene y seguridad que deben cumplirse para su mantención, y
 
 f) la protección contra insectos, roedores y otros animales capaces de transmitir enfermedades al hombre.
 
-> **Nota.** Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas en Campings o Campamentos de Turismo.
+Los métodos que se utilicen para los efectos de lo dispuesto en la letra f) del inciso anterior, deberán ser racionales, tender al mínimo riesgo para la salud de las personas y evitar el sufrimiento innecesario de los animales vertebrados.
 
-> **Nota.** NOTA 1: Véase el Decreto 289, Salud, publicado el 13.11.1989, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas de los Establecimientos Educacionales.
+> **Nota.** Véase el Decreto 289, Salud, publicado el 13.11.1989, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas de los Establecimientos Educacionales.
+
+> **Nota.** NOTA 1: Véase el Decreto 301, Salud, publicado el 14.12.1984, que aprueba el Reglamento sobre Condiciones Sanitarias Mínimas en Campings o Campamentos de Turismo.
 
 ### Párrafo III
 
@@ -1270,9 +1272,11 @@ Para llevar a cabo esta medida, el Director del correspondiente Servicio de Salu
 
 #### Artículo 171°
 
-(162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria. Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa.
+(162).- De las sanciones aplicadas por el Servicio Nacional de Salud podrá reclamarse ante la justicia ordinaria civil, dentro de los cinco días hábiles siguientes a la notificación de la sentencia, reclamo que tramitará en forma breve y sumaria.
 
 El tribunal desechará la reclamación si los hechos que hayan motivado la sanción se encuentren comprobados en el sumario sanitario de acuerdo a las normas del presente Código, si tales hechos constituyen efectivamente una infracción a las leyes o reglamentos sanitarios y si la sanción aplicada es la que corresponde a la infracción cometida.
+
+> **Nota.** La Sentencia S/N, Tribunal Constitucional, Rol 1345-09, publicada el 28.05.2009, declara que es inconstitucional el precepto legal contenido en las expresiones: "Para dar curso a ellos se exigirá que el infractor acompañe el comprobante de haber pagado la multa", incluidas en la parte final de este inciso, ya eliminada del presente texto actualizado.
 
 #### Artículo 172°
 
