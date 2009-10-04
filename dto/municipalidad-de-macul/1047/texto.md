@@ -1,0 +1,3 @@
+NOTIFICACION
+
+Por decreto alcaldicio Nº 1.047 (15.07.2009), la I. Municipalidad de Macul otorgó un plazo de 10 días al Sr. José Aliro Oyanedel, para hacer retiro del kiosco ubicado en Exequiel Fernández frente al Nº 2068, Comuna de Macul, por infringir la Ordenanza sobre Actividad Comercial, Industrial y Servicios, facultando a la Dirección de Aseo y Ornato para su retiro, si no se diere cumplimiento.
