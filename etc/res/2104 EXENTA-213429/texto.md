@@ -96,7 +96,7 @@ capillaceum y S. palustre.
 
 #### Artículo 2º
 
-Se declara Área Libre de las plagas cuarentenarias de Globodera rostochiensis y Globodera pallida; Thecaphora solani y Ralstonia solanacearum (raza 3, biovar 2), a la Provincia de Arauco - Región del Bío-Bío, Regiones de la Araucanía, de Los Ríos, de Los Lagos, de Aisén del Gral. Carlos Ibáñez del Campo y de Magallanes y Antártica Chilena inclusive.
+Se declara Área Libre de Globodera rostochiensis, Globodera pallida, Thecaphora solani y Ralstonia solanacearum (raza 3, biovar 2), al territorio continental de la Provincia de Arauco - Región VIII del Bío-Bío, Región IX de la Araucanía, Región XIV de Los Ríos, Región X de Los Lagos, Región XI de Aysén del Gral. Carlos Ibáñez del Campo y Región XII de Magallanes y de la Antártica Chilena.
 
 #### Artículo 3º
 
