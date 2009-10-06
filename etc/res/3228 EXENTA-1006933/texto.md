@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.228, de 24 de septiembre de 2009, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PESSUR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Pesur I", en el área marítima comprendida entre el paralelo 33º L.S. a la VIII Región, por fuera del área de reserva artesanal, con red de arrastre, sobre los siguientes recursos hidrobiológicos: Besugo y Alfonsino.
+
+Valparaíso, 24 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
