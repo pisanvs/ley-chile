@@ -20,8 +20,6 @@ Resolución :
 
 4.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 4 de esta Resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad, el nombre del proyecto, el puntaje obtenido por el grupo o por cada postulante, así como el plazo de que dispondrán los interesados para presentar al SERVIU respectivo sus observaciones o reclamos, si correspondiere.
 
-> **Nota.** El Nº 2 de la Resolución 6238 Exenta, Vivienda, publicada el 07.10.2010, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el punto resolutivo 2, recursos comprometidos para la selección del mes de junio de 2009, las columnas correspondientes a Título II -UF, a Total -UF y a Total, y las filas correspondientes a la Región 8 y a Total, por las que en dicha norma se indican.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
