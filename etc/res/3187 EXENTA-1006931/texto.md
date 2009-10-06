@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.187, de 21 de septiembre de 2009, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 2.116 de 2009, modificada mediante resolución exenta Nº 2.507 de 2009, ambas de esta Subsecretaría de Pesca que autorizó a la PONTIFICIA UNIVERSIDAD CATÓLICA DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2008-36 denominado "Sistema de selección de las capturas en la pesquería demersal centro-sur", en el sentido de señalar que las actividades de investigación se extenderán hasta el 17 de noviembre de 2009, inclusive.
+
+Valparaíso, 21 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
