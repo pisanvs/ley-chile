@@ -1046,7 +1046,7 @@ Para proceder al pago el SERVIU exigirá la presentación de los documentos que 
 
 Tratándose de viviendas terminadas de un proyecto que puedan habilitarse independientemente, el Serviu podrá pagar el subsidio correspondiente una vez cumplidos los requisitos para el pago, exigidos en el número 2 del inciso segundo de este artículo.
 
-La prohibición a que se refieren los números 1. y 2. del inciso segundo de este artículo caducará automáticamente, de pleno derecho, transcurrido el plazo de de 5 años contados desde la fecha de su inscripción. El beneficiario que deseare enajenarla antes del cumplimiento de dicho plazo deberá obtener del SERVIU la autorización correspondiente, la que se otorgará bajo la condición que se le restituya el monto del subsidio al valor de la Unidad de Fomento vigente a la fecha de la restitución.
+La prohibición a que se refieren los números 1. y 2. del inciso tercero de este artículo caducará automáticamente, de pleno derecho, transcurrido el plazo de de 5 años contados desde la fecha de su inscripción. El beneficiario que deseare enajenarla antes del cumplimiento de dicho plazo deberá obtener del SERVIU la autorización correspondiente, la que se otorgará bajo la condición que se le restituya el monto del subsidio al valor de la Unidad de Fomento vigente a la fecha de la restitución.
 
 ## Título XIV — DE LAS ENTIDADES DE GESTIÓN INMOBILIARIA SOCIAL (EGIS)
 
@@ -1062,7 +1062,7 @@ a) En el caso que luego de ingresado un proyecto al Banco la EGIS patrocinante d
 
 b) Cuando no existan EGIS dispuestas a patrocinar un proyecto habitacional, previa autorización de la Subsecretaria de Vivienda y Urbanismo, a petición fundada del Director SERVIU respectivo.
 
-c) En el caso señalado en el inciso final del Artículo 53.
+c) En el caso señalado en el inciso final del Artículo 54.
 
 #### Artículo 58
 
@@ -1121,6 +1121,10 @@ El Serviu podrá, si lo estima conveniente, realizar una tasación de la viviend
 Una vez dictada la resolución que aprueba la operación, el Serviu tendrá un plazo de 7 días corridos para emitir el certificado de subsidio, cuya vigencia será de 180 días, contados desde la fecha de su emisión.
 
 El Ministro de Vivienda y Urbanismo podrá, mediante resoluciones fundadas, prorrogar el plazo de vigencia del certificado de subsidio u otorgar un nuevo plazo de vigencia al mismo, siempre que antes de la fecha de expiración del plazo señalado en el inciso anterior, la escritura de compraventa se hubiere ingresado para su inscripción al Conservador de Bienes Raíces respectivo.
+
+#### Artículo 60 bis
+
+El subsidio a que se refiere el artículo anterior no podrá aplicarse al pago del precio de una vivienda que se pretenda adquirir entre parientes por consanguinidad o afinidad, en línea recta hasta el segundo grado inclusive y en línea colateral hasta el cuarto grado inclusive.
 
 #### Artículo 61
 
