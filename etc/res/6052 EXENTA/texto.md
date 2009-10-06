@@ -20,7 +20,7 @@ Considerando: La situación de catástrofe que afecta a 77 familias desplazadas 
 
 Resolución:
 
-1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.), de 2005, y asígnanse directamente 77 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
+1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.), de 2005, y asígnanse directamente 76 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
 
 Nº RUT 1 NOMBRE
 
@@ -174,15 +174,19 @@ Nº RUT 1 NOMBRE
 
 75 7.501.734-0 ANDRADE GARCIA DORI
 
-76 3.367.639-5 ALBERTO SEGUNDO DIUJENIO LINARES
+76 ELIMINADA.
 
 77 11.545.687-3 JUAN CARLOS MUÑOZ MALDONADO
 
 Los subsidios habitacionales que se otorguen a estos beneficiarios, se imputarán a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Vivienda del año 2008.
 
-2.- De acuerdo a lo señalado en la resolución exenta Nº 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 1.618 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
+2.- De acuerdo a lo señalado en la resolución exenta Nº 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 1.603 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
 
 3.- Autorízase la adquisición de viviendas, cuya tasación exceda de 650 UF, de acuerdo a la metodología de cálculo que señala la letra d) del inciso primero del artículo 32 del D.S. Nº 174 (V. y U.), de 2005.
+
+4. Exímese de los requisitos indicados en los títulos III, IV y V del DS Nº 174 (V. y U.) de 2005, y asignase directamente 1 Subsidio del Fondo Solidario de Vivienda en la modalidad de construcción, por un monto de 670 UF, al Sr. Alberto Segundo Diujenio Linares, RUT 3.387.639-5, de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentra calificado como caso de emergencia.
+
+5. De acuerdo a lo señalado en la resolución exenta Nº 533 (V. y U.), de 1997, que Fija Procedimiento para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 28 UF correspondiente a honorarios por Asistencia Técnica para la operación del Sr. Diujenio Linares y 10 UF por concepto de Inspección Técnica de Obras.
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
