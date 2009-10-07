@@ -28,6 +28,8 @@ Unidades de Fomento.
 
 ocurrido en esa región. 5.- Que se trate de una vivienda de conjuntos habitacionales de viviendas Serviu o Serviu-banca, emplazadas en las comunas de la Provincia de Palena, afectadas a consecuencia de la catástrofe ocurrida en esas comunas en el mes de mayo de 2008.
 
+6.- Que se trate de una vivienda de alguno de los conjuntos habitacionales de viviendas SERVIU o SERVIU-Banca, incluidos en el Anexo N°2 del Informe de la Comisión Especial Investigadora de la Cámara de Diputados encargada de analizar la grave contaminación por plomo que afecta a miles de personas en la ciudad de Arica, de fecha 4 de agosto de 2004, aprobado por dicha Cámara en sesión N° 53 de fecha 17 de marzo de 2005, copia del cual se acompaña y se entenderá formar parte integrante del presente decreto.
+
 #### Artículo 3º
 
 Los deudores que al último día hábil del mes anterior al de la fecha de publicación del presente decreto hubieren pagado a lo menos el 50% del crédito original o del consolidado, en su caso, obtendrán una subvención igual al saldo total de su deuda, previo pago de un monto equivalente en pesos, moneda nacional, de 12 Unidades de Fomento a su valor vigente a la fecha de su pago efectivo.
