@@ -32,6 +32,8 @@ Unidades de Fomento.
 
 ocurrido en esa región. 5.- Que se trate de una vivienda de conjuntos habitacionales de viviendas Serviu o Serviu-banca, emplazadas en las comunas de la Provincia de Palena, afectadas a consecuencia de la catástrofe ocurrida en esas comunas en el mes de mayo de 2008.
 
+6.- Que se trate de una vivienda de alguno de los conjuntos habitacionales de viviendas SERVIU o SERVIU-Banca, incluidos en el Anexo N°2 del Informe de la Comisión Especial Investigadora de la Cámara de Diputados encargada de analizar la grave contaminación por plomo que afecta a miles de personas en la ciudad de Arica, de fecha 4 de agosto de 2004, aprobado por dicha Cámara en sesión N° 53 de fecha 17 de marzo de 2005, copia del cual se acompaña y se entenderá formar parte integrante del presente decreto.
+
 #### Artículo 3º
 
 <!-- parte:8432852 -->
