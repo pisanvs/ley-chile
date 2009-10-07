@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.201, de 23 de septiembre de 2009, de esta Subsecretaría, autorízase a ABEL ABSALÓN LUENGO EWERT, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Astillero, Cruce San José, Dalcahue, Chiloé X Región, para elaborar en líneas Fresco Enfriado, Fresco Refrigerado, Congelado, Deshidratado y Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
