@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.158, de 21 de septiembre de 2009, de esta Subsecretaría, autorízase a SIMÓN EDUARDO RETAMALES PIZARRO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en El Ajial, Los Vilos, IV Región, para elaborar en línea Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 21 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
