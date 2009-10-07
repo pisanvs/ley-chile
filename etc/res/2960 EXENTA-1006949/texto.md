@@ -1,0 +1,7 @@
+Por resolución exenta Nº2.960, de 8 de septiembre de 2009, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con el proyecto "Pesca en sistemas lacustres y fluviales de la cuenca del río Baker, XI Región de Aysén".
+
+El objetivo de la pesca de investigación consiste en determinar patrones comunitarios y poblacionales de la fauna íctica, determinar la diversidad espacial, comparar condiciones de dominancia de salmónidos versus fauna nativa, determinar factores que permiten la coexistencia de especies nativas con las introducidas y proponer estrategias de conservación.
+
+La pesca de investigación se efectuará por el término de doce meses contados desde la fecha de la presente resolución, en la cuenca del río Baker, en lagos, lagunas y ríos, identificados en los términos técnicos de referencia, donde podrá capturar, con devolución, mediante equipos de pesca eléctrica y redes, ejemplares de las especies nativas e introducidas indicadas en la resolución extractada. Asimismo podrá capturar sin devolución las especies señaladas en la misma resolución, sin perjuicio de las excepciones contempladas en ella.
+
+Valparaíso, 8 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
