@@ -6236,14 +6236,10 @@ Para todos los casos en que se proponga la alteración de la topografía, talude
 
 > **Nota.** NOTA 3 El Nº 9 del DTO 78, M. de Concepción, publicado el 09.02.2009, modificó el cuadro que indica en el Artículo 57, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
 
-> **Nota.** NOTA 4 El Nº 8 del DTO 78, M. de Concepción, publicado el 09.02.2009, modificó el cuadro que indica en el Artículo 49, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado. Por su parte, el Nº 10 de la misma norma modificó el cuadro que indica en el Artículo 58, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
+> **Nota.** NOTA 4 El Nº 10 del DTO 78, M. de Concepción, publicado el 09.02.2009, modificó el cuadro que indica en el Artículo 58, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
+
+> **Nota.** NOTA 5 El Nº 8 del DTO 78, M. de Concepción, publicado el 09.02.2009, modificó el cuadro que indica en el Artículo 49, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
 
 > **Nota.** NOTA 5 El N° 1 del Decreto 1088, M. de Concepción, publicado el 07.10.2009, prorroga por el plazo de 5 años a partir de la fecha de la publicación de esta norma, las declaratorias de utilidad pública correspondientes a los terrenos destinados a parques comunales propuestos, emplazados en el Área Urbana del Plan Regulador Comunal que se indican en el cuadro presente cuadro.
 
-> **Nota.** NOTA 6 El N° 2 del Decreto 1088, M. de Concepción, publicado el 07.10.2009, reemplaza en el cuadro de vialidad denominado "Vías Troncales", la fila correspondiente a calle "Av. Vicuña Mackena", por la que en ella se indica.
-
-> **Nota.** NOTA 7 El Decreto 208, M. de Concepción, publicado el 03.04.2019, modificó el Plan Regulador de la Comuna de Concepción, aprobado por la presente norma, en la forma que indica.
-
-> **Nota.** NOTA 8 El Decreto 756, M. de Concepción, publicado el 23.10.2020, modificó el cuadro de vialidad del Artículo 57, el que no se ingresó por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
-
-> **Nota.** NOTA 9 El Decreto 494, M. de Concepción, publicado el 06.07.2021, modificó el Plan Regulador de la Comuna de Concepción, aprobado por la presente norma, en la forma que indica.
+> **Nota.** NOTA 6 El N° 2 del Decreto 1088, M. de Concepción, publicado el 07.10.2009,reelplaza en el cuadro de vialidad denominado "Vías Troncales", la fila correspondiente a calle "Av. Vicuña Mackena", por la que en ella se indica.
