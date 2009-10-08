@@ -1,0 +1,7 @@
+EXTRACTO DE DECRETO Nº2.043 EXENTO, DE 29 DE SEPTIEMBRE DE 2009
+
+Por decreto exento que se indica del Ministerio de Educación, se revoca el reconocimiento oficial del Centro de Formación Técnica CEFONOR, organizado por la Sociedad Centro de Formación Técnica Cefonor Limitada o C.F.T. CEFONOR LTDA., representada legalmente por doña Amelia Rosa Salinas Miranda y/o doña Iris María Contreras Tapia y elimínase a dicho Centro del Registro correspondiente en que se encuentra inscrito con el Nº245, ubicado en calle Los Claveles Nº1313, Villa Florida de la ciudad de Antofagasta.
+
+Asimismo se derogan los decretos exentos de Educación Nº334 del 20 de marzo de 1997 modificado por decreto exento de Educación Nº244 del 4 de julio de 2000, Nº77 del 1 de marzo de 2001, Nº445 del 10 de julio de 2001, Nº647 del 22 de agosto de 2003, Nº122 del 8 de marzo de 2004 y Nº451 de 29 de junio de 2004 que reconoció oficialmente y aprobó los planes y programas de estudios de las carreras técnicas para el Centro de Formación Técnica CEFONOR de la ciudad de Antofagasta y resolución exenta de Educación Nº6.156 del 15 de mayo de 2003 que amplió el período de acreditación de la entidad.
+
+Santiago, 2 de octubre de 2009.- Cristian Martínez Ahumada, Subsecretario de Educación.
