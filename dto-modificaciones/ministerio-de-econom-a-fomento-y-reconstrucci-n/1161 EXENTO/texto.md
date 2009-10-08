@@ -16,9 +16,9 @@ Decreto:
 
 Modifíquese el numeral 1°.- del decreto exento N° 115 de 1998, del Ministerio de Economía, Fomento y Reconstrucción, modificado mediante decretos citados en Visto, en el sentido que se indica a continuación:
 
-a) En el sentido de señalar que la veda biológica reproductiva para los recursos Anchoveta Engraulis ringens y Sardina común Strangomera bentincki, en el área marítima comprendida entre la V a XIV Regiones, regirá entre los días 21 de agosto y 21 de octubre de cada año calendario, ambas fechas inclusive.
+a) En el sentido de señalar que la veda biológica reproductiva para los recursos Anchoveta Engraulis ringens y Sardina común Strangomera bentincki, en el área marítima comprendida entre la V a XIV Regiones, regirá entre los días 21 de agosto y 4 de octubre de cada año calendario, ambas fechas inclusive.
 
-b) En el sentido de señalar que la veda biológica reproductiva para los recursos Anchoveta Engraulis ringens y Sardina común Strangomera bentincki, en el área marítima de la X Región, regirá entre los días 15 de septiembre y 15 de noviembre de cada año calendario, ambas fechas inclusive.
+b) En el sentido de señalar que la veda biológica reproductiva para los recursos Anchoveta Engraulis ringens y Sardina común Strangomera bentincki, en el área marítima de la X Región, regirá entre los días 15 de septiembre y 31 de octubre de cada año calendario, ambas fechas inclusive.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.
 
