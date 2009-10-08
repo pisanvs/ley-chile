@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA
+
+Resolución exenta Nº866 del 28 de septiembre de 2009, resolvió la Clausura a partir de esta fecha de Estancia Lois Mar Rol 5111-21 de propiedad de Ramón Haro Gómez. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos o presentar un Programa de Tratamiento mediante baño de inmersión con un producto efectivo, en un plazo no superior al 30.12.2009. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.-
+
+Punta Arenas, 7 de septiembre de 2009.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
