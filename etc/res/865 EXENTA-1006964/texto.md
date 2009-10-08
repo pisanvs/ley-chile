@@ -1,0 +1,5 @@
+EXTRACTO RESOLUCIÓN DE CLAUSURA
+
+Resolución exenta Nº865, del 25 de septiembre de 2009, resolvió la Clausura a partir de esta fecha de Estancia Dinah, Rol 5126-035 de propiedad de Dinah Macley Ensor. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos o presentar un programa de tratamiento mediante baño de inmersión con un producto efectivo, en un plazo no superior al 30.12.2009. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.-
+
+Punta Arenas, 7 de septiembre de 2009.- Carlos Rowland Ovando, Director SAG XII Región Magallanes y Antártica Chilena.
