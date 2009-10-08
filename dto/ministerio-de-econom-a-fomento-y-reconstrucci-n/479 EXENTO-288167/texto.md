@@ -16,11 +16,11 @@ Decreto:
 
 Fíjase para el año 2009 las siguientes cuotas anuales de captura de Erizo Loxechinus albus, a ser extraídas en las áreas marítimas que se indican:
 
-La cuota total de 16.970 toneladas se distribuirá geográficamente de la siguiente forma:
+La cuota total de 19.935 toneladas se distribuirá geográficamente de la siguiente forma:
 
 - 1.670 toneladas para ser extraídas en el área marítima de la X Región, comprendida al norte de las Islas Chauques.
 
-- 10.300 toneladas para ser extraídas desde el área marítima de la X Región comprendida al sur de las Islas Chauques, y en la Zona Contigua de la XI Región, por parte de buzos de la X Región, autorizados a operar en este sector, de conformidad con lo establecido en la Resolución Nº 893 de 2009.
+- 13.265 toneladas para ser extraídas desde el área marítima de la X Región comprendida al sur de las Islas Chauques, y en la Zona Contigua de la XI Región, por parte de buzos de la X Región, autorizados a operar en este sector, de conformidad con lo establecido en la Resolución Nº 893 de 2009.
 
 - 5.000 toneladas para ser extraídas en el área marítima de la XI Región.
 
@@ -31,6 +31,12 @@ La actividad extractiva sobre el recurso Erizo en la X Región, en la zona compr
 - 200 toneladas a ser extraídas desde el 1 al 30 de septiembre de 2009.
 
 - 100 toneladas a ser extraídas desde el 1 al 14 de octubre de 2009.".
+
+La actividad extractiva sobre el recurso Erizo en la X Región en la zona comprendida al sur de las Islas Chauques y en la Zona Contigua de la XI Región, se podrá realizar conforme a los siguientes términos:
+
+- 1.000 toneladas a ser extraídas en la X Región en la zona comprendida al sur de las Islas Chauques.
+
+- 1.000 toneladas a ser extraídas en la Zona Contigua de la XI Región.
 
 #### Artículo 2º
 
