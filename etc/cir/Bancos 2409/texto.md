@@ -8286,7 +8286,7 @@ OPERACIONES CON LETRAS DE CREDITO.
 
 ### I. DE LAS LETRAS DE CREDITO
 
-La emisión de letras de crédito y las operaciones que los bancos pueden realizar con estos instrumentos se rigen por las disposiciones del Título XIII de la Ley General de Bancos, sin perjuicio de los demás preceptos de la misma Ley que les fueran aplicables; por las normas específicas contenidas en los Capítulos II.A.1, II.A.1.1 y II.A.1.2 del Compendio de Normas Financieras y por las instrucciones que se imparten en este Capítulo.
+La emisión de letras de crédito y las operaciones que los bancos pueden realizar con estos instrumentos se rigen por las disposiciones del Título XIII de la Ley General de Bancos, sin perjuicio de los demás preceptos de la misma Ley que les fueran aplicables; por las normas específicas contenidas en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile (en adelante "Capítulo II.A.1"), y por las instrucciones que se imparten en este Capítulo.
 
 Los bancos deben tener presente que la emisión de letras de crédito puede tener su origen exclusivamente en el otorgamiento de préstamos en la misma modalidad. En otros términos, el monto de las letras de crédito en circulación emitidas por un banco deben mantener un equilibrio permanente con el saldo de préstamos en letras de crédito, ya sea que la respectiva hipoteca se encuentre debidamente inscrita a su favor o que aún no se haya cumplido ese trámite.
 
@@ -8302,7 +8302,7 @@ a) Monto de la emisión propuesta, moneda o unidad de valor en que se expresará
 
 El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales.
 
-Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el artículo 30 del Capítulo II.A.1 antes mencionado, en la que se expresarán las letras de crédito. El corte de las letras será determinado libremente por la institución emisora.
+Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el N° 3 del Capítulo II.A.1, en la que se expresarán las letras de crédito. El corte de las letras será determinado libremente por la institución emisora.
 
 b) Plazo de los préstamos.
 
@@ -8312,19 +8312,21 @@ c) Tasa de interés.
 
 Es preciso tener presente que la tasa de interés es libre y puede ser fija o flotante, con la limitación que la del préstamo debe ser idéntica a la de las respectivas letras de crédito, sin considerar, para este efecto, la comisión a cargo del deudor del crédito.
 
-La tasa de interés variable debe tener por base la tasa TIP a que se refiere el párrafo siguiente, salvo que se trate de letras de crédito emitidas y pagaderas en moneda extranjera, expresadas en moneda extranjera y pagaderas en moneda chilena o en pesos moneda chilena reajustables por la variación del tipo de cambio del Dólar de los Estados Unidos de América, en cuyos casos la tasa de interés flotante debe tener por base la tasa Prime o Libo.
+Cuando se trate de tasas de interés fijas, se podrá pactar tasas diferentes para distintos períodos durante la vigencia del préstamo, lo que deberá quedar establecido en el correspondiente contrato de mutuo y en las respectivas letras de crédito.
 
-Cuando se establezca una tasa de interés flotante tomando por base la tasa TIP, se deberá señalar expresamente que aquella tasa variará semestralmente considerando la Tasa de Interés Promedio (TIP) establecida en el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada por el Banco Central de Chile y publicada en el Diario Oficial en la segunda quincena de los meses de mayo y noviembre de cada año. Sin embargo, durante el período inicial de vigencia, la tasa de interés será aquella que conste en la respectiva letra y en el mutuo. Las tasas variables calculadas en la forma antedicha, regirán para el segundo semestre del mismo año en que se determine y para el primer semestre del año siguiente respectivamente.
+Al tratarse de tasas de interés flotante, ellas deben tener por base tasas o índices de tasas informadas por el Banco Central de Chile o esta Superintendencia.
 
-En todo caso, cuando se trate de letras de crédito para vivienda la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
+En todo caso, la tasa de interés flotante no podrá ser superior en más de tres puntos porcentuales con respecto a la tasa de interés que se aplique en la fecha en que comience la vigencia del crédito. A vía de ejemplo, si la tasa de interés al inicio del crédito fuera de 7% anual, el valor máximo que podría alcanzar dicha tasa sería del 10% anual.
 
-Asimismo, el valor mínimo para la tasa de interés flotante en las letras de crédito para vivienda, no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que el banco que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
+Asimismo, el valor mínimo para la tasa de interés flotante, no podrá ser inferior a tres puntos porcentuales con respecto a la tasa que se aplique al comienzo del crédito, salvo que el banco que lo otorgue opte, al momento de cursarlo, por prescindir del límite inferior de variación de la tasa de interés aplicable al préstamo y a las letras de crédito. Esta condición deberá quedar expresamente indicada en el respectivo contrato de mutuo y en el texto de las letras de crédito.
+
+Los períodos en que se apliquen distintos niveles de tasa fija, como asimismo los de las variaciones para la aplicación de tasas flotantes, deberán comprender al menos un período de amortización de las letras.
 
 d) Amortización.
 
 En lo relativo a la amortización, deberá especificarse si ésta será ordinaria directa o indirecta. De acuerdo a la definición legal se entiende por amortización ordinaria directa, aquella en que periódicamente el emisor paga parte del capital y de los intereses convenidos, cuyos importes se expresan en el respectivo cupón. La amortización ordinaria indirecta es aquella que se efectúa por compra o por rescate de las letras de crédito o por sorteo a la par, hasta por un valor nominal igual al fondo de amortización correspondiente al período respectivo.
 
-Las letras de crédito destinadas a préstamos para la vivienda, se amortizarán siempre en la modalidad ordinaria directa trimestral, con servicio en los meses de marzo, junio, septiembre y diciembre de cada año. El último servicio ordinario de estas letras deberá recaer siempre en el mes de diciembre.
+Las letras de crédito destinadas a préstamos para la vivienda, se amortizarán siempre en la modalidad ordinaria directa trimestral, con servicio el último día de cada trimestre calendario (marzo, junio, septiembre y diciembre).
 
 e) Valor del cupón.
 
@@ -8350,13 +8352,15 @@ b) Tasa de interés y plazo.
 
 En las letras de crédito con tasa de interés fija se colocarán, a continuación de los signos alfabéticos señalados en la letra a) precedente, cinco signos numéricos. Los tres primeros dígitos corresponderán a la tasa de interés. El tercero de ellos indicará la fracción decimal, en caso de haberla, en tanto que los dos últimos indicarán el plazo de extinción total del instrumento.
 
-Al tratarse de letras de crédito con tasa de interés variable, en lugar de los tres dígitos correspondientes a la tasa de interés, se indicarán las letras "TIP" cuando corresponda a una tasa basada en la Tasa de Interés Promedio, o las letras "VAR" cuando la tasa se base en una distinta.
+Al tratarse de letras de crédito con tasa de interés variable o con tasas fijas distintas según los períodos predeterminados, en lugar de los tres dígitos correspondientes a la tasa de interés, se utilizará un código que será proporcionado por esta Superintendencia en la oportunidad en que registre la respectiva tabla de desarrollo.
 
 c) Origen de la letra de crédito y periodicidad de amortización.
 
 La finalidad de la letra de crédito, esto es, si se trata de letras de crédito que tengan su origen en mutuos para financiamiento de vivienda o para fines generales, estará representada por un signo alfabético que se imprimirá a continuación de los signos numéricos señalados en la letra b) precedente. Este signo alfabético indicará, además, la periodicidad de las amortizaciones de las letras de crédito, según se muestra a continuación.
 
-V = Vivienda con amortización directa trimestral.
+V = Vivienda, originada por préstamos otorgados a deudores de cualquier categoría con cobertura de garantía normal.
+
+W = Vivienda, originada por préstamos otorgados a deudores de primera categoría, con cobertura de garantía inferior a la normal según lo indicado en el numeral 2.2 del título II de este Capítulo.
 
 A = Fines generales con amortización directa trimestral.
 
@@ -8382,27 +8386,21 @@ Luego del signo alfabético a que se refiere la letra c) precedente, se imprimir
 
 5 = Pagadera en moneda extranjera.
 
-La aplicación práctica de las instrucciones contenidas en este numeral se demuestra a continuación mediante el siguiente ejemplo: Una letra de crédito para vivienda, emitida a 20 años plazo, con un tasa de interés del 8,5% anual y expresada en índice Valor Promedio (IVP), tendrá el siguiente código: AD08520V2. Asimismo, una letra de crédito de iguales características que la señalada pero con tasa de interés flotante basada en la tasa TIP, llevará el siguiente código: ADTIP20V2. No obstante que mediante esta codificación se identifican ahora las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda". Este código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
+La aplicación práctica de las instrucciones contenidas en este numeral se muestra con el siguiente ejemplo: Una letra de crédito para vivienda con cobertura de garantía normal, emitida a 20 años plazo, con un tasa de interés del 8,5% anual durante toda su vigencia y expresada en índice Valor Promedio (IVP), tendrá el código "AD08520V2".
+
+El código de identificación se imprimirá en el lado superior izquierdo de la letra de crédito, bajo el nombre de la entidad emisora y en tipos suficientemente destacados.
+
+No obstante que la codificación identifica las letras que corresponden a créditos para fines generales y las que tienen su origen en préstamos para vivienda, deberá agregarse en el caso de estas últimas, a continuación del código, la palabra "Vivienda" cuando su código contenga la letra "V ", o la expresión "Vivienda Cobertura Especial" cuando contenga la letra "W " según lo indicado en la letra c) de este numeral.
 
 1.2.2 Código de transacción bursátil.
 
-Los bancos están facultados para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación y custodia de estos títulos.
-
-Este código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio de Santiago. La impresión deberá efectuarse en caracteres menos destacados que los empleados por este Organismo para designar los títulos y se ubicará bajo el código alfanumérico establecido por esta Superintendencia, en un espacio que no exceda de las siguientes dimensiones:
-
-LARGO : 2 cm. máximo.
-
-ANCHO : 0,6 cm. máximo.
-
-DIGITOS : 3 caracteres alfabéticos, numéricos o mixtos, como máximo.
-
-Esta codificación podrá agregarse a las letras de crédito en la oportunidad en que cada institución lo estime necesario.
+Los bancos están facultados para imprimir en las letras de crédito el "código de transacción bursátil", con el objeto de facilitar la intermediación y custodia de estos títulos, que pueden tener distintas modalidades de tasas y fechas de emisión nominal. Ese código se fijará, en cada caso, de común acuerdo con la Bolsa de Comercio de Santiago.
 
 1.3. Texto de las letras de crédito para la vivienda.
 
-El texto y las menciones que deberán contener las letras de crédito para vivienda se indican en los Anexos N°s. 3, 4, 5 y 6 de este Capítulo, según se trate de letras expresadas en Unidades de Fomento, en índice Valor Promedio, a tasa de interés fija o variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar el mismo texto de los Anexos señalados, según corresponda.
+El texto y las menciones que deberán contener las letras de crédito para vivienda se indican en los Anexos N°s. 3, 4 y 5 de este Capítulo, según se trate de letras con tasa de interés fija por todo el plazo del crédito, con tasa de interés fija por períodos predeterminados o bien con tasa de interés variable. Las letras de crédito para otros fines que contemplen la misma modalidad de amortización ordinaria directa, podrán incorporar el mismo texto de los Anexos señalados, según corresponda.
 
-El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 7 y 8.
+El texto de las letras de crédito con amortización ordinaria indirecta se ajustará al que se señala en los Anexos N°s. 6, 7 y 8.
 
 En los anexos N°s. 9 y 10 se muestra el diseño de un cupón de letra de crédito con tasa de interés fija y tasa de interés variable, respectivamente, que como se puede apreciar, incluye la identificación de la letra a que corresponde.
 
@@ -8418,7 +8416,7 @@ En los casos en que se requiera ampliar el monto de emisión de una serie inclui
 
 Requisito indispensable para el registro del prospecto, será el envío a esta Superintendencia, para su aprobación, de las tablas de desarrollo correspondientes a las letras de crédito y de la información relativa a las tablas de desarrollo que se utilizarán para los respectivos mutuos hipotecarios.
 
-Dichas tablas deben prepararse de acuerdo con las instrucciones de este Capítulo y teniendo presente también, cuando correspondan a créditos para adquisición de viviendas, el Reglamento Financiero contenido en el Capítulo II.A.2 del Compendio de Normas Financieras del Banco Central de Chile.
+Dichas tablas deben prepararse de acuerdo con las instrucciones de las presentes normas y del Capítulo II.A.1.
 
 2.1. Tablas de desarrollo de las letras de crédito.
 
@@ -8442,7 +8440,7 @@ Las tablas de desarrollo deberán estar referidas a una unidad de capital y debe
 
 Para el cálculo de las tasas de interés trimestrales, equivalentes a una tasa de interés anual fija, se emplearán no menos de 7 decimales. El séptimo decimal se aumentará al valor inmediatamente superior sólo cuando el octavo sea igual o superior a cinco.
 
-Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuando se trate de letras de crédito con tasa de interés flotante, se indicará la tasa inicial utilizada para el cálculo de las amortizaciones de capital y, cuando corresponda, la tasa máxima y la tasa mínima.
+Aparte del cuadro descrito, se deberá indicar la tasa de interés anual aplicada y los períodos de amortización o pago de intereses. Cuando se trate de letras de crédito con tasa de interés flotante, se indicará la tasa inicial utilizada para el cálculo de las amortizaciones de capital la tasa máxima y, cuando corresponda, la tasa mínima.
 
 2.2. Tablas de desarrollo de los mutuos.
 
@@ -8470,31 +8468,29 @@ A fin de facilitar el cobro de los mutuos hipotecarios y de conformidad con lo d
 
 2.3. Tablas de desarrollo aplicables a los créditos para adquisición de vivienda.
 
-Los bancos podrán omitir el envío de las tablas de desarrollo de las letras de crédito para vivienda cuando deseen utilizar las tablas de uso general que fueron entregadas por esta Superintendencia a cada banco y que se identifican en el Anexo N° 11 de este Capítulo. En tal caso, bastará señalar el código que identifica la tabla y mencionar si las letras estipulan una tasa de interés fija o flotante. Si fueren con tasa flotante, se indicará, también, si la tasa quedará o no sujeta a un límite mínimo.
+Los bancos podrán omitir el envío de las tablas de desarrollo de las letras de crédito para vivienda con una tasa fija única, cuando deseen utilizar las tablas de uso general que fueron entregadas por esta Superintendencia a cada banco y que se identifican en el Anexo N° 11 de este Capítulo. En tal caso, bastará con señalar el código que identifica la tabla.
 
-En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente, además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo.
+En todo caso, para construir una tabla de desarrollo de letras de crédito para vivienda con tasa fija única, en la cual se basan también las amortizaciones de capital de aquéllas que se emiten con tasa variable, debe tenerse presente, además de lo indicado en el numeral 2.1 anterior, que el factor correspondiente al valor del cupón será siempre el mismo, excepto el último que podrá ser diferente por efecto del cálculo. El mismo procedimiento se seguirá cuando se apliquen tasas fijas diferentes para distintos períodos, en que el factor será el mismo para cada período, salvo para el último cupón de la letra.
 
 El valor presente que se determine no deberá contener una diferencia superior o inferior a 0,0005 unidades, para una obligación o deuda referida a una unidad de capital.
 
-A cada tabla de desarrollo de letras de crédito deberá acompañarse en un anexo a la misma, un extracto de la tabla de desarrollo de los mutuos correspondientes. En ese extracto se informará solamente lo siguiente: La serie de las letras correspondientes; la tasa de la comisión prevista para los respectivos préstamos; el número y la periodicidad de los dividendos; y el total de los intereses y de la comisión que se percibirá según la respectiva tabla de desarrollo, en relación a una unidad de capital. Si se contemplaran diferentes tasas de comisiones para una misma serie de letras, se incluirá la información correspondiente a cada una de las tasas consideradas.
+A cada tabla de desarrollo de letras de crédito deberá acompañarse en un anexo a la misma, un extracto de la tabla de desarrollo de los mutuos correspondientes. En ese extracto se informará solamente lo siguiente: La serie de las respectivas letras, cuando corresponda; la tasa de la comisión prevista para los respectivos préstamos; el número y la periodicidad de los dividendos; y el total de los intereses y de la comisión que se percibirá según la respectiva tabla de desarrollo, en relación a una unidad de capital. Si se contemplaran diferentes tasas de comisiones para una misma serie de letras, se incluirá la información correspondiente a cada una de las tasas consideradas.
 
 Cuando se trate del registro de letras de crédito, correspondientes a series cuyas tablas de desarrollo no sea necesario enviar por encontrarse ya incorporadas al Anexo N° 11 de este Capítulo se remitirá, de todas maneras, junto con la solicitud de registro, la información antedicha relativa a las tablas de desarrollo previstas para los respectivos mutuos.
 
 2.4. Aprobación de las tablas de desarrollo.
 
-Los plazos establecidos en el Reglamento Financiero del Banco Central de Chile para la aprobación por parte de esta Superintendencia de las tablas de desarrollo presentadas por los bancos, se contarán desde la fecha de presentación a este Organismo de los respectivos prospectos, siempre que éstos no sean objetados por falta de antecedentes, deficiencias en su preparación u otras causas. En el caso de rechazo de un prospecto por alguno de los motivos señalados, el plazo de aprobación de las respectivas tablas de desarrollo, se contará desde la fecha en que dichos reparos hayan sido solucionados.
-
-En cualquier caso, los bancos no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas por esta Superintendencia.
+Los bancos no podrán comprometer operaciones sobre la base de tablas de desarrollo que aún no hayan sido autorizadas de acuerdo con lo indicado en el artículo 111 de la Ley General de Bancos y en el N° 8 del Capítulo II.A.1.
 
 ### 3. Confección de las láminas y registro de las medidas de seguridad
 
+Sobre la base de lo establecido en el N° 25 del Capítulo II.A.1, se disponen las siguientes normas relativas a la confección de las láminas:
+
 3.1. Características generales.
 
-Las dimensiones de las láminas no excederán de las señaladas en el Anexo N° 1 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile. A la misma disposición deberán atenerse con respecto a la ubicación de los antecedentes de las referidas láminas.
+Los bancos procurarán, entre ellos, uniformar el tamaño de las láminas, la ubicación de los antecedentes y el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc.
 
 Las letras de crédito para la vivienda deben ser de color azul, en tanto que las letras de crédito para fines generales podrán ser de cualquier otro color, diferente del azul, debiendo procurarse cierta uniformidad y permanencia en su utilización.
-
-Los bancos procurarán, entre ellos, uniformar el diseño de los caracteres para imprimir las láminas de las letras de crédito, como asimismo la orla que éstas llevarán, el valor de cada cupón cuando se trate de letras de crédito de similares características, colores de los caracteres, fondos, etc.
 
 3.2. Impresión de las letras de crédito.
 
@@ -8504,7 +8500,7 @@ Sin perjuicio de las demás instrucciones contenidas en este título, la impresi
 
 3.2.1. Normas de seguridad.
 
-Conforme a lo dispuesto en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, las letras de crédito deberán ser confeccionadas considerando al menos dos de las siguientes medidas de seguridad:
+Las láminas deberán ser confeccionadas considerando al menos dos de las siguientes medidas de seguridad:
 
 a) El papel que se utilice deberá ser con reacción química, sello de agua del emisor o exclusivo para especies valoradas.
 
@@ -8536,7 +8532,7 @@ Cuando los bancos emisores decidan cambiar las medidas de seguridad de las letra
 
 ### 4. Emisión nominal y material de las letras
 
-Cada letra de crédito llevará una fecha de referencia para el cálculo de los cupones, esto es, la fecha en la que se inicia la correspondiente Tabla de Desarrollo de la letra, la que se denominará "fecha de emisión nominal". En las letras de crédito para fines generales, la "fecha de emisión nominal" será el día primero del mes en que se efectúe su emisión material. En tanto que en las letras de crédito para financiamiento de viviendas, la "fecha de emisión nominal" será siempre el primero de enero del año en que se efectúe su emisión material.
+Cada letra de crédito llevará una fecha de referencia para el cálculo de los cupones, esto es, la fecha en la que se inicia la correspondiente Tabla de Desarrollo de la letra, la que se denominará "fecha de emisión nominal". En las letras de crédito para fines generales, la "fecha de emisión nominal" será el día primero del mes en que se efectúe su emisión material. En tanto que en las letras de crédito para financiamiento de viviendas, la "fecha de emisión nominal" será el primero de enero del año en que se efectúe su emisión material, o bien el primer día del mes de la emisión material, según sea el caso.
 
 Por otra parte, la emisión material de las letras de crédito, deberá hacerse en el mes en que se celebre el respectivo contrato de mutuo.
 
@@ -8548,7 +8544,7 @@ En los demás préstamos que otorguen de conformidad con las disposiciones de es
 
 ### 6. Normas sobre destrucción o pérdida de letras de crédito
 
-Los bancos podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Capítulo II.A. 1.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los bancos podrán reemplazar las letras de crédito destruidas o perdidas, ateniéndose a las disposiciones que para el efecto se establecen en el Anexo N° 1 del Capítulo II.A.1.
 
 ### 7. Letras depositadas en una empresa de depósito y custodia de valores
 
@@ -8586,7 +8582,7 @@ Cuando se trate de letras de crédito desmaterializadas, el pago se efectuará d
 
 Los sorteos de letras de crédito deberán incluir tanto aquellos valores que tengan existencia material como aquellos que no la tengan y que corresponda sortear de acuerdo con los cortes respectivos.
 
-Los bancos que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los bancos que efectúen sorteos, deberán entregar a la empresa de depósito y custodia de valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 5° del Anexo N° 3 del Capítulo II.A.1.
 
 ### 8. Registro de letras de crédito
 
@@ -8604,7 +8600,7 @@ b) Fechas de las anotaciones en el Registro.
 
 c) Número y monto de cada mutuo hipotecario asociado a las letras emitidas.
 
-d) Serie, número y monto de cada una de las letras de crédito emitidas por el respectivo mutuo hipotecario. Se anotará también en el Registro, cuando corresponda, el pagaré de cancelación parcial del cupón a que se refiere la letra c) del número 5 del Título V del Reglamento Financiero del Banco Central de Chile.
+d) Serie, número y monto de cada una de las letras de crédito emitidas por el respectivo mutuo hipotecario.
 
 En el registro deben ingresarse e identificarse según su tipo de emisión, tanto las letras de crédito que se emiten físicamente como las correspondientes al sistema de emisión desmaterializada.
 
@@ -8628,17 +8624,17 @@ Conforme a lo establecido en el artículo 96 de la Ley General de Bancos, esta S
 
 Los bancos deberán atenerse estrictamente a las instrucciones que sobre la materia ha impartido esta Superintendencia, en especial en lo relativo a los antecedentes legales, sociales, financieros y administrativos de la sociedad que debe contener el extracto informativo que éstas mantengan a disposición del público.
 
-Asimismo, los bancos cuidarán de informar al público inversionista de las características principales de las letras de crédito emitidas, tales como monto de la emisión, series y numeración de las letras, tasa de interés, sistema de reajuste y amortización, etc.
+Asimismo, los bancos cuidarán de informar al público inversionista de las características principales de las letras de crédito emitidas, tales como monto de la emisión, series y numeración de las letras, tasa de interés, sistema de reajuste y amortización, etc., como asimismo la información adicional que se indica en el numeral 2.2 del título II de este Capítulo, cuando se trate de letras originadas por los préstamos a que se refiere ese numeral.
 
 ### 10. Información a las Bolsas de Valores
 
-Los bancos que efectúen amortizaciones de letras de crédito por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 21 del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Los bancos que efectúen amortizaciones de letras de crédito por sorteo, deberán enviar a las Bolsas de Valores, al día siguiente hábil bancario de realizado el sorteo, copia simple del acta a que se refiere el artículo 5° del Anexo N° 3 del Capítulo II.A.1.
 
 II.- PRESTAMOS EN LETRAS DE CREDITO.
 
 ### 1. Mutuos hipotecarios
 
-De acuerdo con las disposiciones establecidas en el Reglamento Financiero del Banco Central de Chile, los bancos deberán incorporar obligatoriamente en los contratos de compraventa y mutuo hipotecario correspondientes a préstamos para vivienda, las cláusulas indicadas en los anexos N°s. 1 y 2, adjuntos al presente Capítulo, según se trate de operaciones con tasa de interés fija o flotante, respectivamente.
+Los contratos de compraventa y mutuo hipotecario correspondientes a préstamos para vivienda, deberán contener las cláusulas indicadas en los anexos N°s. 1 y 2 de este Capítulo, cuyos textos contienen, sólo a modo de ejemplo, condiciones específicas de tipo de tasa y reajustabilidad.
 
 Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, los bancos podrán seguir un procedimiento simplificado de escrituración de los mutuos, mediante el uso de escrituras públicas de cláusulas generales inscritas en el Registro de Hipotecas y Gravámenes del respectivo Conservador de Bienes Raíces. Las escrituras que se inscriban para el efecto deberán contener solamente aquellas cláusulas que son comunes a todos los mutuos de que se trate, es decir, no contendrán aquellas referidas a la individualización de los deudores, garantías, tasas de interés, plazos u otras especificaciones que son propias de un contrato en particular. Las escrituras públicas de cláusulas generales de que se trata, constituirán un contrato de adhesión, debiendo darse a conocer su contenido a la parte que lo acepte y dejarse constancia en cada mutuo de la fecha y notaría en que la respectiva escritura fue otorgada, de su inscripción y de la entrega de una copia simple al mutuario.
 
@@ -8646,21 +8642,25 @@ Conforme a lo establecido en el artículo 5° de la Ley N° 19.439, los bancos p
 
 2.1. Monto máximo de los préstamos.
 
-Las normas del Banco Central de Chile establecen que los préstamos que se efectúen bajo esta modalidad, no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía.
+De acuerdo con lo indicado en los N°s. 10 y 11 del Capítulo II.A.1, los préstamos en letras de crédito no podrán exceder del 75% del valor de tasación del inmueble ofrecido en garantía ni del precio de venta cuando se trate de operaciones de compra venta, salvo que se cumplan ciertas condiciones que permiten alcanzar hasta el 100% del valor de la garantía o del precio de venta, el que sea menor. Dichas condiciones se tratan en el numeral 2.2 siguiente.
 
-En caso de operaciones de compra venta de bienes raíces, dichos préstamos tampoco podrán exceder del mencionado importe o del 75% del precio de venta del respectivo inmueble si este último precio fuere inferior al valor de tasación.
+Como es natural, además de esos límites, los bancos deben tener presente los márgenes de crédito establecidos en el artículo 84 de la Ley General de Bancos.
 
-No obstante lo anterior, cuando se trate de créditos otorgados en moneda extranjera o de operaciones en moneda chilena indexadas a una moneda extranjera, dichos límites serán del 60%.
+2.2. Préstamos hasta por el valor de tasación o precio del bien.
 
-Además, como es natural, deberán tenerse presente los márgenes individuales de crédito establecidos en el artículo 84 de la Ley General de Bancos.
+Para otorgar préstamos en letras de crédito hasta por el valor de tasación o, en su caso, del precio venta si éste fuera inferior, los bancos deberán encontrarse clasificados en nivel A de solvencia, de conformidad con lo dispuesto en el Art. 61 de la Ley General de Bancos y en el Capítulo 1-13 de esta Recopilación, y cumplir con las demás condiciones que se indican en el N° 11 del Capítulo II.A.1.
 
-2.2. Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
+Las políticas que deben ser aprobadas por el Directorio según esas normas, deben alcanzar también la definición de los deudores que se entienden comprendidos en la "más alta calidad crediticia" y que se exige como condición para otorgar los préstamos.
+
+Los bancos que otorguen los mutuos hipotecarios a que se refiere este numeral, deberán mantener publicada en su sitio web una síntesis de la Política de Riesgo de Crédito que fue aprobada, el límite máximo fijado para el cuociente entre el valor del préstamo y el menor valor entre la tasación y el precio de venta del inmueble ofrecido en garantía.
+
+2.3. Monto máximo del dividendo pactado en préstamos para viviendas cuyo valor de tasación no sea superior a 3.000 U.F.
 
 En los préstamos destinados a la adquisición o construcción de viviendas cuyo valor de tasación sea igual o inferior al equivalente de 3.000 Unidades de Fomento, el dividendo que se pacte no podrá exceder, al momento del otorgamiento del crédito, al 25% de los ingresos del prestatario. Para estos efectos sólo podrán considerarse, además de los ingresos del prestatario, los de un tercero, siempre que éste se constituya en fiador y codeudor solidario del crédito.
 
 ### 3. Garantía hipotecaria
 
-La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda, de acuerdo a lo señalado en el numeral 2.1 de este título y según sea el caso, del 60% ó 75% del valor de tasación del inmueble o de su precio de venta.
+La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda el 75 % del valor de tasación o del precio de venta del inmueble. Ese límite será de un 60 % cuando se trate de obligaciones pagaderas o expresadas en moneda extranjera, o reajustables por la variación del tipo de cambio de las monedas extranjeras que constituyen sistemas de reajustabilidad autorizados.
 
 Si dos bancos participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
@@ -8668,17 +8668,19 @@ Si dos bancos participan simultáneamente en el otorgamiento de un crédito de e
 
 El valor de tasación del inmueble que servirá de garantía será determinado por un perito designado por el banco y el costo que ello irrogue será de cargo del deudor. En la tasación del inmueble que debe practicarse, sólo se comprenderá el valor de las mejoras permanentes adheridas a éste, cuyo concepto se encuentra definido en las normas generales de derecho. Atendida la importancia de efectuar una tasación que refleje el valor real de la propiedad que se recibirá en garantía, de manera que constituya un resguardo efectivo para la institución, ésta deberá cuidar de que en el procedimiento empleado se consideren y ponderen correctamente los factores que inciden en el valor que se le asigne al bien raíz.
 
-### 5. Comisión
+### 5. Comisión y tasa efectiva
 
-Los bancos pueden pactar libremente con los mutuarios la comisión que cobrarán sobre el mutuo. La comisión acordada deberá indicarse explícitamente en el respectivo contrato, ya sea como un monto o como una proporción del capital insoluto del préstamo, de acuerdo a lo que se haya establecido en la tabla de desarrollo del mutuo que se convenga aplicar, de modo que no se confunda con los intereses, con la amortización del crédito o con cualquier otro gasto de la operación. Esta comisión, en caso que se exprese como una proporción del saldo insoluto del crédito, será decreciente conforme a dicha proporción.
+Los bancos pueden pactar libremente con los mutuarios la comisión que cobrarán, la que corresponderá a la diferencia entre la(s) tasa(s) de interés del mutuo hipotecario y la(s) tasa(s) de interés de las letras de crédito emitidas por el banco para otorgar dicho mutuo.
 
-En todo caso, la tasa de la comisión no estará sujeta a fluctuaciones y para su cálculo deben emplearse las fórmulas indicadas por el Banco Central de Chile en el Anexo del Capítulo II.A.2 del Compendio de Normas Financieras.
+En todo caso, la suma de la(s) tasa(s) de interés y la comisión, no podrá exceder la tasa de interés máxima convencional vigente al momento del pacto. En el caso de tasas de interés flotante ello se refiere, claro está, a la tasa que se aplica en el período inicial.
 
-Lo anteriormente expuesto, es sin perjuicio de lo dispuesto en el numeral 2.3 del título I de este Capítulo.
+La comisión deberá ser fija como proporción del capital insoluto del préstamo, salvo que se que pactara el pago de un monto fijo en cada dividendo.
 
-El importe de la comisión deberá indicarse explícitamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
+La comisión acordada deberá indicarse explícitamente en el respectivo contrato y el importe cobrado se indicará separadamente en cada dividendo, de manera que no se confunda con los intereses, con la amortización o con cualquier otro gasto.
 
-Por otra parte, los bancos deben tener presente que la suma de las tasas de interés y de la comisión, no podrá exceder a la tasa de interés máxima convencional vigente al momento de la convención.
+De acuerdo con lo dispuesto en el Capítulo II.A.1, la(s) tasa(s) más la comisión deberá(n) expresarse en una "tasa efectiva". La(s) tasa(s) efectiva(s) debe ser informada tanto a los interesados en obtener el préstamo como a los deudores en la respectiva liquidación, debiéndose dejar constancia de ella también en el contrato de mutuo.
+
+Cuando se trate de préstamos en los que se pacten tasas fijas diferentes para distintos períodos, corresponde indicar la tasa efectiva de cada uno de los períodos. Por su parte, cuando se convenga una tasa de interés variable, se indicará la tasa efectiva correspondiente al primer período y la fórmula para calcular la tasa efectiva en los períodos siguientes, informando además la tasa efectiva máxima que podrá tener el préstamo y, cuando corresponda, la tasa efectiva mínima.
 
 6.- Entrega del importe de los préstamos.
 
@@ -8686,27 +8688,15 @@ La entidad otorgante de préstamos en letras de crédito, hará entrega de ésta
 
 Debe tenerse presente que el producto de los préstamos en letras de crédito que se concedan para edificaciones o para de construcción de obras destinadas al mejor aprovechamiento agrícola o industrial del inmueble, se entregará en cuotas sucesivas, a medida del avance de las obras, conforme con lo dispuesto en el artículo 93 de la Ley General de Bancos.
 
-En consideración a que el importe de las letras de crédito debe guardar perfecta concordancia con el importe del respectivo mutuo, la entidad emisora de letras de crédito para vivienda, antes de ponerlas en circulación, deberá desprender los cupones correspondientes a los trimestres comprendidos entre el 1° de enero del año en que se efectúe la emisión material de las respectivas letras de crédito y el trimestre en que el deudor comience a pagar sus dividendos. En los casos en que el primer dividendo corresponda pagarlo en los meses de enero,abril, julio u octubre, el último cupón que desprenderá la institución
+Debido a que el importe de las letras de crédito debe concordar con el del mutuo respectivo, antes de poner en circulación las letras de crédito para vivienda la entidad emisora deberá desprender los cupones que, de conformidad con lo dispuesto en el N° 28 del Capítulo II.A.1, no corresponde que sean pagados por ella. En caso de que, por la fecha en la que se efectúe la emisión material de las letras de crédito, corresponda pagar una fracción de un cupón de las letras de crédito emitidas, ella será pagada al vencimiento de dicho cupón. Dicha fracción, que corresponde al monto de la amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el pago de los dividendos y el último día del respectivo trimestre, podrá ser documentada mediante la suscripción de un pagaré.
 
-emisora será el que venza en el mes precedente a aquél en que el mutuario deba iniciar el servicio de su obligación.
-
-Si el inicio del pago de los dividendos corresponde al segundo o tercer mes de un trimestre calendario, el emisor estará obligado a entregar al mutuario,mediante un pagaré expresado en la moneda o unidad de valor que corresponda, el monto dela amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el pago de los dividendos y el último día del respectivo trimestre calendario.
-
-Dicho pagaré podrá extenderse a la orden, nominativo o al portador. La fecha de vencimiento deberá ser coincidente con la del cupón correspondiente al trimestre en que se efectúe la emisión material de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la fecha de vencimiento del cupón inmediatamente anterior y la del último día del mes anterior al de inicio del pago del mutuo. El pagaré deberá indicar, además, la obligación hipotecaria a que corresponde.
-
-Cuando se trate de préstamos en letras de crédito para fines generales en lasque se hubiere convenido que el crédito empezará a devengar intereses y reajustes a favor del acreedor desde el día primero del mes subsiguiente a aquél en que se celebre el respectivo contrato de mutuo, la institución emisora deberá desprender el primer cupón de las correspondientes letras de crédito. En tales casos la institución emisora deberá entregar al mutuario, mediante un pagaré expresado en la moneda o unidad de valor que corresponda, el monto de la amortización e intereses por el período comprendido entre el día 1° del mes en que se inicie el servicio del mutuo y la fecha de vencimiento del cupón retirado.
-
-El referido pagaré, al igual que el señalado precedentemente, podrá ser a la orden, nominativo o al portador y deberá indicar la obligación hipotecaria a que corresponde.
-
-De acuerdo a lo señalado en el párrafo anterior, la fecha de vencimiento debe ser coincidente con la del cupón que hubiere sido desprendido de la letra y su monto será igual al valor de dicho cupón, deducido el importe devengado entre la "fecha de emisión nominal" de las respectivas letras y el día primero del mes subsiguiente a esa fecha.
+El mismo procedimiento deberá seguirse cuando se trate de letras de crédito para fines generales en las que se hubiere convenido que el crédito empezará a devengar intereses y reajustes desde el día primero del mes subsiguiente de aquél en que se celebre el respectivo contrato de mutuo.
 
 ### 7. Dividendos
 
-El artículo 1° del Capítulo II.A.1 del Compendio de Normas Financieras vigente sobre emisión de letras de crédito, dispone que el reembolso de los préstamos otorgados mediante estos instrumentos se hará por medio de dividendos anticipados que comprenderán el interés, la amortización y la comisión.
+El N° 2 del Capítulo II.A.1 dispone que el reembolso de los préstamos otorgados mediante estos instrumentos se hará por medio de dividendos anticipados que comprenderán el interés, la amortización y la comisión.
 
-Se entenderán como dividendos anticipados en los préstamos para la vivienda, aquéllos cuyo pago deba hacerse al comienzo de cada uno de los intervalos de pago acordados. Este intervalo debe ser mensual, debiendo pagarse los dividendos dentro de los diez primeros días del respectivo período. En los préstamos para vivienda debe tenerse presente que la suma de tres dividendos mensuales debe corresponder al valor del cupón trimestral de las letras de crédito emitidas.
-
-La suma de los dividendos del mutuo, cualquiera sea la periodicidad en que deben ser pagados, debe ser coincidente, en lo que a cuota de capital e intereses se refiere, con la respectiva cuota de amortización de capital e intereses de las correspondientes letras de crédito emitidas.
+Se entenderán como dividendos anticipados en los préstamos para la vivienda, aquéllos cuyo pago deba hacerse al comienzo de cada uno de los intervalos de pago acordados. En estos préstamos, de conformidad con lo dispuesto en el N° 35 del Capítulo II.A.1, la suma de la amortización más los intereses de los doce dividendos mensuales de un año calendario, deben corresponder al valor de los cuatro cupones trimestrales de ese mismo año, de las letras emitidas. En los préstamos para vivienda debe tenerse presente que la suma de tres dividendos mensuales debe corresponder al valor del cupón trimestral de las letras de crédito emitidas.
 
 Cuando se trate de préstamos en letras de crédito para vivienda, el primer dividendo vencerá en el mes subsiguiente a aquél en que se hubiere celebrado el respectivo contrato de mutuo. En el caso de préstamos en letras de crédito para fines generales, los dividendos tendrán la periodicidad y el vencimiento que se hubiere convenido expresamente en el contrato de mutuo. En estos últimos créditos se podrá pactar que el devengo de intereses, comisiones y reajustes a favor del banco acreedor se inicie el día 1° del mes en que se firme la correspondiente escritura o el día primero del mes subsiguiente a éste.
 
@@ -8718,13 +8708,9 @@ Cuando el pago se realice en esta última forma, las letras serán recibidas por
 
 El pago total o parcial extraordinario puede hacerse en todo tiempo, salvo en los meses en que deban realizarse los sorteos, cuando así corresponda.
 
-En el caso de una amortización extraordinaria total de la deuda, el deudor debe pagar los dividendos del período de amortización en que se efectúe el pago anticipado, más el capital insoluto que resulte una vez deducida la amortización incluida en dichos dividendos.
-
 Cuando se trate de amortizaciones anticipadas parciales, el pago se aplicará proporcionalmente a los dividendos restantes de la deuda, de modo que el importe de éstos se rebajará sin alterar el plazo pactado de ella. En este caso, el monto pagado por el deudor se aplicará al capital insoluto a la fecha del pago y, sobre la base del saldo resultante y del plazo remanente, se recalcularán los dividendos que deben pagarse a partir del mes siguiente. En caso de operaciones con tasa de interés variable, la amortización de capital que corresponderá incluir en los dividendos remanentes, se calculará según la tasa de interés vigente en la fecha en que se efectúe el pago anticipado.
 
-En conformidad con lo dispuesto en el inciso segundo del artículo 100 de la Ley General de Bancos, el deudor que amortice en forma extraordinaria, total o parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente, cualquiera hubiera sido la cantidad pagada anticipadamente.
-
-Para ese efecto, los bancos deberán considerar los intereses y comisiones que, según las correspondientes tablas de desarrollo, correspondería cobrar en el período de amortización siguiente a aquél en que se realice el pago anticipado. Al tratarse de operaciones con tasa de interés variable, se utilizará para este efecto, la tasa vigente para los dividendos del período en el cual se paga anticipadamente.
+En conformidad con lo dispuesto en el inciso segundo del artículo 100 de la Ley General de Bancos, el deudor que amortice en forma extraordinaria, total o parcialmente el saldo de su deuda, debe pagar a la entidad emisora, adicionalmente, una suma equivalente al interés y comisión correspondiente a un período de amortización de las letras de su préstamo, calculada sobre el monto que se amortice extraordinariamente.
 
 De cualquier modo, el cobro adicional de dichos intereses y comisiones, es un derecho que la ley confiere a las entidades emisoras y, por lo tanto, es perfectamente renunciable, de manera que su aplicación queda entregada al buen criterio de las instituciones acreedoras.
 
@@ -8750,7 +8736,7 @@ También deberán efectuar amortización extraordinaria de estos instrumentos, c
 
 9.2. Por no registrar la hipoteca dentro del plazo previsto.
 
-Se realizará una amortización extraordinaria cuando la garantía hipotecaria que caucione un préstamo de esta naturaleza, no se encontrare inscrita en el Conservador de Bienes Raíces dentro de un plazo de 180 días corridos contados desde la fecha de la escritura de mutuo. En este último caso, una vez efectuada la amortización extraordinaria, el préstamo no se considerará otorgado mediante letras de crédito y no se le aplicarán las disposiciones del Título XIII de la Ley General de Bancos ni las contenidas en el Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
+Se realizará una amortización extraordinaria cuando la garantía hipotecaria que caucione un préstamo de esta naturaleza, no se encontrare inscrita en el Conservador de Bienes Raíces dentro de un plazo de 180 días corridos contados desde la fecha de la escritura de mutuo. En este último caso, una vez efectuada la amortización extraordinaria, el préstamo no se considerará otorgado mediante letras de crédito y no se le aplicarán las disposiciones del Título XIII de la Ley General de Bancos ni las contenidas en el Capítulo II.A.1.
 
 9.3. Por ejecución de la garantía o por castigo del crédito.
 
@@ -8770,7 +8756,7 @@ Las amortizaciones extraordinarias por este concepto podrán realizarse en el pe
 
 10.1. Información anticipada.
 
-El banco deberá informar al deudor, en forma anticipada, acerca de los gastos globales aproximados que la operación demandará. En el cálculo deberán considerarse los siguientes:
+El banco deberá informar al deudor, en forma anticipada, acerca de los gastos globales aproximados que la operación demandará. En el cálculo deberán considerarse todos los gastos que pueden ser de cargo del deudor de acuerdo con lo indicado en el Capítulo II.A.1, los que corresponden a:
 
 a) Pago de impuestos de timbres y estampillas;
 
@@ -8782,13 +8768,11 @@ d) Prima de Seguro de Incendio;
 
 e) Tasación del inmueble hipotecado;
 
-f) Prima de Seguro de Desgravamen;
+f) Estudio de Títulos y redacción de escritura.
 
-g) Prima de seguro de cesantía involuntaria, en caso que el deudor de crédito para vivienda decida contratar este seguro; y,
+g) Prima de seguros de desgravamen o de cesantía involuntaria, en caso que el deudor de crédito decida contratar alguno de ellos, cuando corresponda.
 
-h) Estudio de Títulos y redacción de escritura.
-
-Asimismo, se deberá informar al deudor sobre el plazo de la operación, la tasa de interés que devengará el crédito y la comisión que se cobrará, cuya tasa no podrá ser variable. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos.
+En lo que toca a las características del crédito ofrecido, se deberá informar el plazo de la operación, la(s) tasa(s) de interés que devengará el crédito y la comisión que se cobrará. Cuando se trate de préstamos en letras de crédito con tasa de interés flotante, se hará notar particularmente la variabilidad de los dividendos. De acuerdo con el Capítulo II.A.1 y según lo indicado en el N° 5 del presente título, deberá proporcionarse al cliente la información de la(s) tasa(s) efectiva(s).
 
 Igualmente, deberá explicarse de manera general el sistema de financiamiento a través de la emisión de letras de crédito, con especial mención de las opciones que existen para vender las respectivas letras de crédito en el mercado o para que las adquiera el propio banco emisor; plazo estimado para la venta de las letras de crédito, en caso que ella se le encargue a la entidad emisora; las diferencias que pueden producirse en dicha venta en relación con su valor par y la política de la institución en cuanto a garantizar el precio de compra de tales instrumentos. También deberá hacerse presente que en la correspondiente escritura de mutuo deberá precisarse la parte contratante que se hará cargo de las diferencias de precio en la venta de las letras.
 
@@ -8798,13 +8782,13 @@ Se recomienda a los bancos que, en su propio resguardo, obtengan del interesado 
 
 10.2. Información que debe incluir la liquidación.
 
-Los bancos deberán entregar al beneficiario de préstamos en letras de crédito, ya sea que se hubieren otorgado para la adquisición, construcción o ampliación de viviendas o para fines generales o que se destinen al pago anticipado de otro préstamo de igual naturaleza, una liquidación en que conste cada uno de los gastos detallados en el numeral 10.1 precedente y los datos que a continuación se indican:
+Los bancos deberán entregar al beneficiario de préstamos en letras de crédito, ya sea que se hubieren otorgado para la adquisición, construcción o ampliación de viviendas o para fines generales o que se destinen al pago anticipado de otro préstamo de igual naturaleza, una liquidación en que conste:
 
-a) La tasa de interés asociada al mutuo hipotecario. Al tratarse de mutuos con tasa de interés flotante, se informará sobre las tasas de interés máximas y mínimas que se han pactado, como también los montos máximos y mínimos que puede alcanzar el servicio del mutuo según dichas tasas de interés. También se informarán los períodos de vigencia de esas tasas de interés.
+a) El detalle de los gastos que correspondan, por los conceptos indicados en el primer párrafo del numeral 10.1 precedente.
 
-b) La comisión cobrada por el banco.
+b) El plazo a que ha sido concedido el crédito, la(s) tasa(s) de interés y las comisiones que se han pactado en el mutuo respectivo. Cuando se pacte más de una tasa fija o una tasa flotante, se indicarán los períodos de vigencia, las tasas de interés máximas y mínimas y los montos máximos y mínimos que, según dichas tasas, pueden alcanzar los dividendos.
 
-c) El plazo a que ha sido concedido el crédito, de acuerdo al mutuo respectivo.
+c) La(s) tasa(s) de interés efectiva, según lo indicado en el N° 5 de este título.
 
 d) El calendario de servicios de la deuda contraída, en el cual se señalará el dividendo total a pagar en cada fecha de pago, cuando la tasa de interés sea fija, o bien, sólo el monto de la amortización y de la comisión y la fórmula para calcular los intereses, cuando se trate de créditos con tasa de interés flotante.
 
@@ -8830,9 +8814,9 @@ Las normas del Banco Central de Chile, si bien no permiten otorgar garantía de 
 
 12.1. Condiciones de los nuevos créditos.
 
-Los bancos están facultados para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza.
+Los bancos están facultados para otorgar préstamos en letras de crédito que tengan por finalidad pagar anticipadamente otro préstamo de igual naturaleza, otorgado por la misma u otra institución financiera.
 
-Estos nuevos préstamos pueden cursarse en la misma moneda o modalidad de reajuste que contemplaba el crédito que se paga o en otra distinta, siempre que se encuentre dentro de las autorizadas por el Banco Central de Chile.
+Estos nuevos préstamos pueden cursarse en monedas y modalidades de reajustes o de intereses distintas a las del crédito en letras de crédito que se prepaga.
 
 El monto del nuevo crédito que se curse, comprenderá el saldo del préstamo de igual naturaleza y sus respectivos créditos complementarios que se paguen bajo esta modalidad, siempre que estos últimos consten en el correspondiente mutuo. Además, se podrán incluir en el monto de esta operación los siguientes conceptos:
 
@@ -8848,15 +8832,13 @@ Los préstamos en letras de crédito que tengan por objeto pagar anticipadamente
 
 12.3. Relación deuda-garantía.
 
-El monto del préstamo en letras de crédito no debe exceder del 60% ó 75% del valor de la garantía, según corresponda. Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
+El monto del préstamo en letras de crédito que se otorgue para pagar otro de la misma naturaleza, debe ajustarse a su respectivo límite, según lo indicado en los numerales 2.1 y 2.2 de este título. De acuerdo con lo dispuesto en el Capítulo II.A.1, el nuevo crédito queda exento de dichos límites por el período que medie entre la fecha de su otorgamiento y aquella en que se efectúe el prepago del anterior.
 
-En todo caso, las normas del Banco Central de Chile permiten que los préstamos en letras de crédito otorgados para pagar anticipadamente otro u otros préstamos de igual naturaleza, queden exentos del referido límite, por el período que medie entre la fecha de su otorgamiento y la fecha en que se efectúe dicho prepago.
+Para los fines de determinar el porcentaje que representa la garantía, se considerará el valor de las letras expresado en las láminas, menos la parte de amortización contenida en los cupones trimestrales desprendidos de ellas que correspondan al período comprendido entre la fecha de emisión nominal y el día primero del mes subsiguiente al de emisión material de las letras, cuando éstas sean para vivienda y, en caso que sean para fines generales, cuando se haya pactado esa modalidad en el respectivo mutuo.
 
 12.4. Prepagos de créditos para vivienda.
 
 Si el préstamo que se paga anticipadamente fue cursado en letras de crédito para vivienda, el nuevo crédito que se conceda para el pago de aquél, debe corresponder a letras de crédito para vivienda. En caso que el préstamo que se prepague hubiere sido cursado en letras de crédito para fines generales y su producto destinado a la adquisición, construcción o ampliación de viviendas, siempre que éstos hayan sido otorgados al usuario final de tales inmuebles, el nuevo préstamo puede ser cursado en letras de crédito para vivienda. En los demás casos, el nuevo crédito deberá ser cursado en letras de crédito para fines generales.
-
-Los bancos también pueden otorgar préstamos en letras de crédito para pagar anticipadamente préstamos hipotecarios que hubieren sido financiados con recursos diferentes de los instrumentos antes indicados, cursados por ellas o por la Asociación Nacional de Ahorro y Préstamo, siempre que las operaciones que se paguen anticipadamente hayan sido otorgadas a largo plazo. Estos nuevos préstamos serán en letras de crédito para vivienda o para fines generales, según haya sido el destino del crédito que se prepague mediante este procedimiento.
 
 12.5. Procedimiento que deberá seguir el deudor.
 
@@ -8886,11 +8868,13 @@ ANEXO N° 1
 
 CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FIJA E HIPOTECA PARA LA ADQUISICION DE VIVIENDA
 
-Cláusula: El precio de la compraventa es la suma de $...............que se entera:
+Los textos que siguen consideran, a modo de ejemplo, un crédito pactado en U.F. con una tasa de interés fija única y cobro de comisiones como porcentaje del capital insoluto:
+
+Cláusula: El precio de la compraventa es la suma de $................que se entera:
 
 a) Con $.................que el comprador paga al vendedor en este acto en dinero efectivo.
 
-b) Con $.................valor que las partes de común acuerdo asignan a las letras de crédito de la Serie....de emisión nominal 1° de enero del presente año, por.......Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula...... de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
+b) Con $.................valor que las partes de común acuerdo asignan a las letras de crédito de la Serie.... de emisión nominal 1° de enero del presente año, por.......Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a.................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula.......de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato.
 
@@ -8898,101 +8882,105 @@ El vendedor declara haber recibido la totalidad del precio y lo declara en conse
 
 Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
 
-Cláusula: Entre el banco.............................y don ..................................................se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
+Cláusula: Entre el banco................................y don .................................................... se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, que contienen las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes.
 
-Cláusula: El banco.................................. a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don .......................................................la cantidad de...........................................U.F en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a .....U.F. emitidas materialmente por el propio banco al día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie....... que ganan un interés del ....% anual, con una amortización directa trimestral en el plazo de .... años. La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
+Cláusula: El banco .................................... a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ................................................ la cantidad de ........................................ U.F en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a ..... U.F. emitidas materialmente por el propio banco al día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie ........que ganan un interés del ....% anual, con una amortización directa trimestral en el plazo de .... años. La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
 
-Cláusula: El deudor se obliga a pagar al banco la expresada cantidad de .........U.F. nominales e iniciales reducidas al día 1o del mes subsiguiente a la fecha de este contrato a ........ U.F. en el plazo de ...... meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devenga el presente contrato será de ....% anual, la que incluye el interés propiamente tal y la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. El dividendo mensual a pagar será el que resulte de multiplicar por ....... el número de U.F. que corresponde a cada uno de los .....dividendos, a contar del dividendo N° ...... , que constan en la tabla de desarrollo, que se reproduce en la parte pertinente al final de la escritura, elaborada por el Banco a vía ejemplar para un préstamo y obligación de 1 U.F. y que se encuentra protocolizada con fecha ..............bajo el N° ......en la Notaría de ....................... de don ................................... El deudor declara conocer y aceptar la indicada tabla. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, forma parte íntegramente de la presente escritura para todos los efectos legales.
+Cláusula: El deudor se obliga a pagar al banco la expresada cantidad de .........U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a .........U.F. en el plazo de ....... meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devenga el presente contrato será de ....% anual, la que incluye el interés propiamente tal y la comisión, de acuerdo con las normas establecidas para tales efectos en Capítulo II.A.1 del Compendio de Normas Financieras antes referido. El dividendo mensual a pagar será el que resulte de multiplicar por ........el número de U.F. que corresponde a cada uno de los ..... dividendos, a contar del dividendo N° .... , que constan en la tabla de desarrollo, que se reproduce en la parte pertinente al final de la escritura, elaborada por el Banco a vía ejemplar para un préstamo y obligación de 1 U.F. y que se encuentra protocolizada con fecha .............. bajo el N° ...... en la Notaría de ...................... de don .................................... El deudor declara conocer y aceptar la indicada tabla. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Capítulo II.A.1 antes mencionado, forma parte íntegramente de la presente escritura para todos los efectos legales.
 
 Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresada en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
 
-Cláusula: Las letras de crédito que el banco conforme a lo estipulado en este instrumento entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a ................U.F., obligación que el banco documenta mediante pagaré expresado en Unidades de Fomento por el monto indicado y con el mismo vencimiento del cupón correspondiente de acuerdo a lo dispuesto en la letra c) del N°5 Título V del reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
+Cláusula: Las letras de crédito que el banco conforme a lo estipulado en este instrumento entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Capítulo II.A.1 varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a .................U.F. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
 
-La cantidad antes mencionada no devengará intereses de ningún tipo.
-
-Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ...... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
+Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ....... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
 
 A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
 
 Cláusula:
 
-No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula.....del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de................
+No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula..... del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de ...................
 
 ANEXO N° 2
 
 CLAUSULAS QUE DEBEN ESTABLECERSE EN LOS CONTRATOS DE COMPRAVENTA, MUTUO CON TASA DE INTERES FLOTANTE E HIPOTECA PARA LA ADQUISICION DE VIVIENDA.
 
-Cláusula: El precio de la compraventa es la suma de $........ que se entera:
+Los textos que siguen consideran, a modo de ejemplo, un crédito pactado en U.F. con una tasa de interés flotante igual a la tasa TIP, con variación semestral y cobro de comisiones como porcentaje del capital insoluto:
 
-a) Con $............que el comprador paga al vendedor en este acto en dinero efectivo.
+Cláusula: El precio de la compraventa es la suma de $......... que se entera:
 
-b) Con $............... valor que las partes de común acuerdo asignan a las letras de crédito de la Serie ...... de emisión nominal 1° de enero del presente año, por ..... Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a ...................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula..... de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en el párrafo V del Reglamento Financiero para la adquisición de viviendas a que se refiere la cláusula siguiente.
+a) Con $............ que el comprador paga al vendedor en este acto en dinero efectivo.
+
+b) Con $................ valor que las partes de común acuerdo asignan a las letras de crédito de la Serie ....... de emisión nominal 1° de enero del presente año, por ..... Unidades de Fomento, nominales e iniciales, que quedarán reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a ....................Unidades de Fomento, que el Banco entrega al vendedor con cargo al préstamo que le otorga al comprador en la cláusula..... de esta escritura. La reducción antes referida se produce en virtud de la aplicación de las normas contenidas en Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile.
 
 El comprador declara haber recibido materialmente a su entera conformidad la propiedad raíz materia de este contrato.
 
 El vendedor declara haber recibido la totalidad del precio y lo declara en consecuencia, íntegramente pagado.
 
-Las partes renuncian ex presamente a las acciones resolutorias que pudieran emanar del presente contrato.
+Las partes renuncian expresamente a las acciones resolutorias que pudieran emanar del presente contrato.
 
-Cláusula: Entre el Banco.................................. y don........................................................ se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos, y al Acuerdo del Consejo Monetario adoptado en Sesión N°23 de 6 de noviembre de 1980, publicado en el Diario Oficial de fecha 12 de noviembre de 1980 y sus modificaciones, que fijó el texto refundido de las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes, en especial el Reglamento Financiero para la adquisición de viviendas adoptado en sesión N°1437 de fecha 28 de abril de 1982 del Comité Ejecutivo del Banco Central de Chile, publicado en el Diario Oficial de 5 de mayo de 1982, y sus modificaciones.
+Cláusula: Entre el Banco..................................... y don .......................................... se ha convenido en el siguiente contrato de mutuo sujeto a las disposiciones del Título XIII de la Ley General de Bancos y del Capítulo II.A.1 del Compendio de Normas Financieras del Banco Central de Chile, que contienen las normas sobre emisión de letras de crédito y demás normas reglamentarias pertinentes.
 
-Cláusula: El banco.........................................a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don .............................................................la cantidad de .............U.F. en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a .............U.F. emitidas materialmente por el propio banco el día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie......... con una amortización directa trimestral en el plazo de .........años, que ganan intereses variables semestralmente, pagaderos por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP) de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, y se aplicará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente. En todo caso, la tasa de interés que se aplique no podrá variar, durante la vigencia de las letras de crédito, en más de tres puntos porcentuales respecto a la tasa de interés del.......% anual, vigente el día 1o del mes subsiguiente a la fecha del presente contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
+Cláusula: El banco.......................................... a fin de enterar la parte del precio referido en la letra b) de la cláusula anteprecedente, da en préstamo a don ..................................................... la cantidad de ............. U.F. en letras de crédito nominales e iniciales, reducidas al día 1° del mes subsiguiente a la fecha del presente contrato a .............U.F. emitidas materialmente por el propio banco el día 1° del mes en que se firma esta escritura, de emisión nominal 1° de enero del presente año, de la Serie ..........con una amortización directa trimestral en el plazo de ......... años, que ganan intereses variables semestralmente, pagaderos por trimestre vencido, los que se calcularán a la Tasa de Interés Promedio (TIP) de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, y se aplicará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente. En todo caso, la tasa de interés que se aplique no podrá variar, durante la vigencia de las letras de crédito, en más de tres puntos porcentuales respecto a la tasa de interés del........% anual, vigente el día 1° del mes subsiguiente a la fecha del presente contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). La obligación rige desde el día 1° del mes subsiguiente a la fecha de este contrato, declarando el deudor haber recibido las letras de crédito a su entera satisfacción y facultando al banco para que las entregue al vendedor.
 
-Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de ..............U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a ................ U.F. en el plazo de ............ meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devengará el presente contrato, variará semestralmente y corresponderá a la Tasa de Interés Promedio de que trata el Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año, la que se aplicará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, más la comisión, de acuerdo con las normas establecidas para tales efectos en el Reglamento Financiero del Banco Central antes referido. En todo caso, la mencionada tasa de interés no podrá variar en más de tres puntos porcentuales respecto a la tasa del.............% anual vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo mensual a pagar será variable e igual a: La amortización que resulte de multiplicar por........ el número de U.F. que corresponde a cada uno de los dividendos, a contar del dividendo N°.... , que constan en la tabla de desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación de 1 U.F., la que se reproduce en la parte pertinente al final de la escritura y que se encuentra protocolizada con fecha ....... bajo el N° ...........en la Notaría de .............. de don........................................... ; más la comisión correspondiente al dividendo, calculada también sobre la base de la misma tabla de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla. El deudor declara conocer y aceptar la indicada tabla de amortización y comisiones y la fórmula para el cálculo de los intereses que en ella se indica. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Reglamento Financiero antes mencionado, incluida la fórmula que en ella se indica, forma parte íntegramente de la presente escritura para todos los efectos legales.
+Cláusula: El deudor se obliga a pagar al Banco la expresada cantidad de .............. U.F. nominales e iniciales reducidas al día 1° del mes subsiguiente a la fecha de este contrato a ................. U.F. en el plazo de ............ meses, a contar del día 1° de ese mes, por medio de dividendos anticipados, mensuales y sucesivos. Dichos dividendos comprenderán la amortización, los intereses y la comisión. La tasa de interés real, anual y vencida que devengará el presente contrato, variará semestralmente y corresponderá a la Tasa de Interés Promedio (TIP) antes mencionada, más la comisión. En todo caso, la mencionada tasa de interés no podrá variar en más de tres puntos porcentuales respecto a la tasa del.............% anual vigente el día 1° del mes subsiguiente a la fecha de este contrato. (En caso que la institución financiera opte por prescindir del límite inferior de variación de la tasa de interés, deberá señalar expresamente esa decisión). El dividendo mensual a pagar será variable e igual a: La amortización que resulte de multiplicar por .........el número de U.F. que corresponde a cada uno de los dividendos, a contar del dividendo N° .... , que constan en la tabla de desarrollo elaborada por el Banco a vía ejemplar para un préstamo u obligación de 1 U.F., la que se reproduce en la parte pertinente al final de la escritura y que se encuentra protocolizada con fecha ........bajo el N° ............en la Notaría de ............... de don ............................................ ; más la comisión correspondiente al dividendo, calculada también sobre la base de la misma tabla de desarrollo y más los intereses que se calcularán en cada oportunidad sobre el saldo insoluto del capital, utilizando la fórmula que se incluye en dicha tabla. El deudor declara conocer y aceptar la indicada tabla de amortización y comisiones y la fórmula para el cálculo de los intereses que en ella se indica. Las partes dejan expresa constancia de que la referida tabla, confeccionada de acuerdo con las pautas señaladas en el Capítulo II.A.1 antes mencionado, incluida la fórmula que en ella se indica, forma parte íntegramente de la presente escritura para todos los efectos legales.
 
 Los dividendos se pagarán dentro de los primeros diez días de cada mes. Esta obligación se entiende constituida para responder al pago de la emisión de letras de crédito expresadas en Unidades de Fomento hecha por el Banco en conformidad a la Ley. Queda expresamente estipulado que esta obligación tendrá el carácter de indivisible para todos los efectos legales.
 
-Cláusula: Las letras de crédito que el Banco, conforme a lo estipulado en este instrumento, entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Reglamento Financiero varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización ascendente a ....U.F. más el interés que se devengue a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, obligación que el Banco documenta mediante pagaré expresado en Unidades de Fomento por el monto de la amortización indicado, al que se le agregarán los respectivos intereses, con el mismo vencimiento del cupón correspondiente, de acuerdo a lo dispuesto en la letra c) del N°5 título V del Reglamento Financiero para la adquisición de viviendas. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
+Cláusula: Las letras de crédito que el banco, conforme a lo estipulado en este instrumento, entrega al vendedor, se encuentran con el(o los) cupón(es) correspondiente(s) desprendido(s) de acuerdo a las normas del Capítulo II.A.1 varias veces citado y el Banco se obliga a pagar a quien corresponda la parte de amortización e interés del cupón respectivo, que se devenguen a contar del día 1° del mes subsiguiente al del presente contrato y hasta el día del vencimiento del referido cupón, ascendente a .................U.F. El pago se efectuará siempre y cuando las letras de crédito que se otorgan en mutuo al comprador, se encuentren debidamente registradas, conforme a las normas vigentes. Si al vencimiento del cupón respectivo no se hubiere practicado el registro, el pago se efectuará una vez registradas las letras de crédito.
 
-Si el pagaré no es cobrado al vencimiento, no devengará intereses de ningún tipo a contar de esa fecha.
-
-Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ..... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
+Cláusula: El deudor puede reembolsar anticipadamente todo o al menos un ...... del capital adeudado sea en dinero, o en letras de crédito del mismo emisor, de la misma serie y del mismo año. Estas letras serán recibidas a la par. En el caso de efectuarse amortizaciones extraordinarias en dinero, se harán en moneda corriente por el equivalente del valor de las Unidades de Fomento a la fecha de hacerse la amortización.
 
 A virtud de estas amortizaciones parciales, se rebajará proporcionalmente el valor de los dividendos mensuales posteriores a la amortización, sin alteración del plazo de la deuda.
 
-Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula..... del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de ..........................
+Cláusula: No obstante haber recibido el vendedor la totalidad del precio de la compraventa a que se alude en la cláusula ..... del presente contrato el vendedor y comprador exponen que han convenido que cualquier diferencia de precio que se produzca en la venta de las letras de crédito que efectúe el vendedor directamente o a través de un tercero, en relación a su valor par, será de cargo de ...........................
 
 ANEXO N° 3
 
-TEXTO LETRA DE CREDITO PARA VIVIENDA
+TEXTO LETRA DE CREDITO PARA VIVIENDA CON INTERES FIJO UNICO
 
-(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
-
-.
-
-Este banco pagará la presente Letra de Crédito........ por............U.F., que ganará el interés anual del ...% a ..... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
-
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
-
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .......... de ..... ...........................,de la Superintendencia de Bancos e Instituciones Financieras.
+El ejemplo que sigue considera el caso de una letra de crédito en I.V.P, originada por préstamos para vivienda con cobertura inferior a la normal otorgados a deudores de primera categoría:
 
 .
 
-ANEXO 4
-
-TEXTO LETRA DE CREDITO PARA VIVIENDA
-
-(AMORTIZACION ORDINARIA DIRECTA CON INTERES FIJO)
-
-.
-
-Este banco pagará la presente Letra de Crédito..............por........I.V.P., que ganará el interés anual del....% a .......... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de Índice Valor Promedio que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito.............. por ........ I.V.P., que ganará el interés anual del....% a ...........años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de Índice Valor Promedio que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° ................., de ..................., de la Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .................., de ................, de la Superintendencia de Bancos e Instituciones Financieras.
+
+________________ ________________
+
+APODERADO APODERADO
+
+ANEXO N° 4
+
+TEXTO LETRA DE CREDITO PARA VIVIENDA CON INTERES FIJO POR PERIODOS DETERMINADOS
+
+El ejemplo que sigue considera el caso de una letra de crédito en U.F., originada por préstamos para vivienda con cobertura normal:
 
 .
 
-NEXO N° 5
+Este banco pagará la presente Letra de Crédito .............. por .......UF., que ganará el siguiente interés anual en los períodos que se indican: ...................................................................
 
-TEXTO DE LETRA DE CREDITO PARA VIVIENDA
+El interés se pagará por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente por los montos y en las fechas señaladas en sus cupones y extraordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización extraordinaria de esta letra no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de Unidades de Fomento que corresponda, en la forma señalada en la Ley 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
-(AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .................., de ................... , de la Superintendencia de Bancos e Instituciones Financieras.
+
+________________ ________________
+
+APODERADO APODERADO
+
+ANEXO N° 5
+
+TEXTO LETRA DE CREDITO PARA VIVIENDA CON INTERES VARIABLE
+
+El ejemplo que sigue considera el caso de una letra de crédito en U.F., originada por préstamos para vivienda con cobertura normal, con tasa de interés variable semestralmente, igual a la tasa TIP:
 
 .
 
-Este banco pagará la presente Letra de Crédito por ....... U.F., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del ... % anual, a ...........años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito por ........ U.F., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N° 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa del ... % anual, a ...........años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente de las unidades de fomento que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
@@ -9000,55 +8988,53 @@ La tasa de interés se determinará según la fórmula:
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA
-
-SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
+EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN UNIDADES DE FOMENTO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
 
 Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°.............. de ............. de la Superintendencia de Bancos e Instituciones Financieras.
 
-.
+________________ ________________
+
+APODERADO APODERADO
 
 ANEXO N° 6
 
-TEXTO DE LA LETRA DE CREDITO PARA VIVIENDA
-
-(AMORTIZACION ORDINARIA DIRECTA CON INTERES VARIABLE)
+TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES FIJO UNICO
 
 .
 
-Este banco pagará la presente Letra de Crédito ........ por ......... I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV. B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior) en más de tres puntos porcentuales a la tasa d e l...% anual, a ...... años plazo, pagadero por trimestres vencidos, de conformidad con lo indicado en cada cupón y contra recepción de éstos, previa confrontación con esta letra. La amortización de este título se hará ordinariamente en la forma dispuesta en el Título XIII de la Ley General de Bancos y conforme a los Acuerdos adoptados sobre la materia por el Consejo del Banco Central. Desde la fecha de vencimiento de los cupones o de la amortización extraordinaria de esta letra, no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se realizará por el equivalente en moneda corriente del índice valor promedio que corresponda, en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+--------------- pagará la presente Letra de Crédito------------ por ------------ U.F./I.V.P./M.E/ que ganará el interés anual del----------- , a ---------------- años plazo pagadero por -----------------------vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del------- ------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de -----------------que corresponda en la forma señalada en la Ley N°18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
 
-La tasa de interés se determinará según la fórmula:
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° ---------, de ------------------- de la Superintendencia de Bancos e Instituciones Financieras.
 
-.
+________________ ________________
 
-y se aplicará sobre el saldo de capital que se indica en cada cupón.
-
-EL VALOR NOMINAL DE ESTA LETRA ES EQUIVALENTE EN INDICE VALOR PROMEDIO A LA SUMA DE LAS AMORTIZACIONES NO COBRADAS DE LOS CUPONES.
-
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N°--------de -------- de la Superintendencia de Bancos e Instituciones Financieras.
-
-.
+APODERADO APODERADO
 
 ANEXO N° 7
 
-TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES FIJO
+TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES FIJO POR PERIODOS DETERMINADOS
 
 .
 
--------------- pagará la presente Letra de Crédito----------- por------------U.F./I.V.P./M.E/ que ganará el interés anual del---------- , a ---------------años plazo pagadero por--------------------- vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del------------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de --------------- que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
+--------------- pagará la presente Letra de Crédito------------ por ------------ U.F./I.V.P./M.E/ que ganará el siguiente interés anual en los períodos que se indican: ...................................................................
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° --------, de ------------------- de la Superintendencia de Bancos e Instituciones Financieras.
+El interés se pagará por --------------------- vencidos contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del-------------------en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ---------------- que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de Junio de 1981 y sus modificaciones.
 
-.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N ° ---------, de -------------------- de la Superintendencia de Bancos e Instituciones Financieras.
+
+________________ ________________
+
+APODERADO APODERADO
 
 ANEXO N° 8
 
 TEXTO LETRA DE CREDITO CON AMORTIZACION ORDINARIA INDIRECTA E INTERES VARIABLE
 
+El ejemplo que sigue considera el caso de una letra de crédito en U.F, con tasa de interés variable semestralmente, igual a la tasa TIP:
+
 .
 
-Este banco pagará la presente Letra de Crédito....... por......... U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior), en más de tres puntos porcentuales a la tasa del....% anual, a ....... años plazo pagadero por........ vencidos, contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del............en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ...........que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
+Este banco pagará la presente Letra de Crédito........por .......... U.F./I.V.P., que ganará un interés variable semestralmente, según la Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile en la segunda quincena de los meses de mayo y noviembre de cada año y que se devengará en el segundo semestre del mismo año y en el primer semestre del año siguiente, respectivamente, no pudiendo ser superior (ni inferior), en más de tres puntos porcentuales a la tasa del.... % anual, a ........años plazo pagadero por ........ vencidos, contados desde la fecha de su emisión, en cambio del cupón respectivo y previa confrontación con este documento. Esta Letra de Crédito será pagada desde el día siguiente al del............ en que fuere sorteada en la forma dispuesta en el Título XIII de la Ley General de Bancos y en conformidad a los Acuerdos sobre la materia adoptados por el Consejo del Banco Central. Desde la fecha del vencimiento de los cupones o de la amortización de este título no se devengarán nuevos intereses ni reajustes. El pago de los cupones y de la letra se hará por el equivalente en moneda corriente de ........... que corresponda en la forma señalada en la Ley N° 18.010, publicada en el Diario Oficial de 27 de junio de 1981 y sus modificaciones.
 
 La tasa de interés se determinará según la fórmula:
 
@@ -9056,13 +9042,17 @@ La tasa de interés se determinará según la fórmula:
 
 y se aplicará sobre el saldo de capital que se indica en cada cupón.
 
-Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N° .....de ........... , de esta Superintendencia de Bancos e Instituciones Financieras.
+Esta letra tiene su origen en la obligación hipotecaria arriba anotada y corresponde al prospecto a que se refiere el Certificado N ° ..... de ............, de esta Superintendencia de Bancos e Instituciones Financieras.
 
-.
+________________ ________________
+
+APODERADO APODERADO
 
 ANEXO N° 9
 
-MODELO CUPON DE LA LETRA CON INTERES FIJO
+MODELO CUPON DE LA LETRA CON INTERES FIJO UNICO O INTERES FIJO POR PERIODOS DETERMINADOS
+
+SERIE 0000000 - CORTE - LETRA DE CREDITO N°
 
 .
 
@@ -9072,17 +9062,21 @@ ANEXO N° 10
 
 MODELO CUPON DE LA LETRA CON INTERES VARIABLE
 
+El modelo que sigue considera las condiciones de las letras que se tomaron a modo de ejemplo en los Anexos N°s. 5 y 8 anteriores.
+
+SERIE 0000000 - CORTE - LETRA DE CREDITO N°
+
 .
 
 NOTA: Cuando el número del cupón se imprima por medios computacionales, tendrá la ubicación y dimensiones que el banco determine, debiendo ser, en todo caso, fácilmente identificable y legible.
 
 ANTECEDENTES ACERCA DE LA FORMULA MENCIONADA EN EL CUPON
 
-s= Saldo de capital adeudado a la fecha de la última amortización, sobre el cual se determinarán los intereses.
+s = Saldo de capital adeudado a la fecha de la última amortización, sobre el cual se determinarán los intereses.
 
-n= Número de períodos de amortización comprendidos en el lapso de un año. A vía de ejemplo, si la amortización es semestral: n = 2.
+n = Número de períodos de amortización comprendidos en el lapso de un año. A vía de ejemplo, si la amortización es semestral: n = 2.
 
-TIP= Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile, que corresponda aplicar en el respectivo período, sin exceder el límite máximo de dicha tasa ni el límite mínimo, en caso que no se haya prescindido de este último.
+TIP = Tasa de Interés Promedio de que trata el N°5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certificada y publicada por el Banco Central de Chile, que corresponda aplicar en el respectivo período, sin exceder el límite máximo de dicha tasa ni el límite mínimo, en caso que no se haya prescindido de este último.
 
 X = Monto de los intereses ganados al término del período considerado.
 
@@ -9094,9 +9088,7 @@ deberá comprender a lo menos siete decimales. El séptimo decimal podrá elevar
 
 Anexo N° 11
 
-Hoja 1
-
-INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO
+INDICE DE CODIGOS DE TABLAS DE DESARROLLO DE LETRAS DE CREDITO PARA VIVIENDA CON TASA FIJA UNICA
 
 .
 
