@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.199, 23 de septiembre 2009, de esta Subsecretaría, autorízase a SOCIEDAD PRODUCTORA, DISTRIBUIDORA Y COMERCIALIZADORA MUNDO MARINO S.A., para iniciar actividades pesqueras de transformación, para instalar y operar planta en Las Enredaderas Nº 2548, Independencia, Región Metropolitana, para elaborar en línea Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
