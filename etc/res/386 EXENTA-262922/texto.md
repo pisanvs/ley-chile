@@ -138,6 +138,8 @@ Ofertas por Aumento o Reducción de Consumo de Generadores a Consumidores con Ca
 
 Los generadores, en forma directa o a través de las empresas concesionarias de servicio público de distribución, podrán ofrecer y/o convenir reducciones o aumentos temporales de consumo con los consumidores de menos de 500 kilowatts pertenecientes a los diferentes grupos de consumo de las concesionarias. Estas ofertas se sujetarán a las disposiciones siguientes.
 
+De las Ofertas por Aumento o Reducción de Consumo realizadas a través de empresas concesionarias de servicio público de distribución
+
 #### Artículo 13º
 
 Las ofertas deberán publicarse en uno o más diarios de amplia circulación en la zona geográfica, provincia o comuna en la cual se localizan los consumidores pertenecientes al Grupo de Consumo al cual la oferta va dirigida. Lo anterior, sin perjuicio de la difusión que respecto de ella los generadores estimen necesario efectuar a través de otros medios de comunicación. La publicación deberá efectuarse al menos durante dos días consecutivos.
@@ -177,6 +179,8 @@ b) Conforme se señala en el Artículo 7º de la presente resolución, no se adm
 c) Si las ofertas previamente cursadas y vigentes para el período de siete días consecutivos que se inicia a las 00:00 horas del día sábado inmediatamente siguiente, en adelante, semana de oferta, fueren ofertas por reducción de consumos, se rechazarán las ofertas nuevas que se efectuaren por aumentos de consumo. En caso contrario, se rechazarán las ofertas nuevas que se efectuaren por reducción.
 
 d) Si no hubieren ofertas previamente cursadas con vigencia para la semana de oferta señalada, y entre las ofertas nuevas hubiere ofertas por reducción y ofertas por aumento, sólo se dará curso a las ofertas por reducción si se cumple que el promedio de los costos marginales esperados para dicha semana, determinado como el promedio simple de los costos marginales puestos en los puntos de entrada del sistema de distribución que abastece al Grupo de Consumo correspondiente, es superior al precio promedio de la energía aplicable en dicha semana a los clientes regulados que lo componen conforme la especificación tarifaria. En caso contrario, sólo se dará curso a las ofertas por aumento.
+
+e) No se aceptarán nuevas ofertas por aumentos de consumo si hubiese vigente para la semana de oferta señalada en el literal c), alguna oferta por reducción de consumo realizada en el marco de un mandato al que se refiere el artículo 20º-1 de esta resolución. Asimismo, no se aceptarán ofertas por reducciones de consumo si hubiese vigente para la semana de oferta señalada alguna oferta por aumento de consumo realizada en el marco de un mandato.
 
 A estos efectos, los costos marginales esperados puestos en los puntos de entrada del sistema de distribución para la semana señalada, serán calculados e informados por la Dirección de Peajes del CDEC respectivo considerando los costos marginales contenidos en la correspondiente programación semanal. Éstos se determinarán como el promedio ponderado de los costos marginales esperados en cada barra que se vincula al correspondiente Grupo de Consumo, y serán referidos a nivel señalado utilizando factores de pérdida referenciales que supondrán que no existen restricciones de transmisión aguas abajo de las barras consideradas en dicha programación. Estos factores de pérdida podrán ser informados por las distribuidoras correspondientes si así lo solicitare la Dirección de Peajes del sistema respectivo.
 
@@ -231,6 +235,150 @@ Los costos de las publicaciones serán de cargo de los generadores correspondien
 #### Artículo 20º
 
 Una vez formulada la oferta, sea directamente o a través de las empresas distribuidoras en los términos señalados en las disposiciones anteriores, ella se entenderá aceptada tácitamente por parte de los usuarios de menos de 500 kW destinatarios por la sola reducción o aumento del consumo, según el caso, y los generadores quedarán obligados a cumplir las condiciones de precio y demás condiciones ofrecidas para el periodo indicado en sus ofertas.
+
+De las Ofertas por Aumento o Reducción de Consumo realizadas de manera directa por las empresas de generación
+
+#### Artículo 20º
+
+1: Cada generador podrá ejercer su derecho a ofrecer y/o convenir de manera directa reducciones o aumentos temporales de consumo con los consumidores de menos de 500 kilowatts, pertenecientes a los distintos grupos de consumo de las concesionarias, previo acuerdo y mandato especial otorgado ante notario con una tercera persona jurídica que no realice actividades de generación, transmisión o distribución de electricidad. El mandato deberá facultar temporalmente a dicha tercera persona a realizar una oferta, a cuenta y riesgo del generador y bajo los términos del mandato, a los consumidores señalados por aumentos o reducciones temporales de su consumo, sin perjuicio de lo establecido en el artículo 43º de la ley 19.496.
+
+De la oferta realizada
+
+#### Artículo 20º
+
+2: La oferta que se realice a los consumidores de algún grupo de consumo de las concesionarias, en el marco del mandato señalado en el artículo anterior, deberá formularse en términos no discriminatorios y transparentes, deberá precisar el periodo por el que se ofrecen las condiciones propuestas y la forma y mecanismos de los incentivos que se otorgarán por las reducciones o aumentos de consumo. Dichos mecanismos no podrán tener condiciones que graven, multen o perjudiquen a los consumidores.
+
+#### Artículo 20º
+
+3: La oferta deberá tener un periodo de vigencia menor o igual a un año, deberá tener una fecha de inicio igual o posterior al 1 de marzo de cada año y una fecha de término igual o anterior al 28 de febrero y anterior a la fecha de término del mandato que le da origen. Los incentivos que se ofrezcan a los consumidores por aumentos o reducciones de su consumo deberán tener asociados, a modo de referencia para los consumidores, una equivalencia en pesos chilenos por kilowatt-hora aumentado o reducido, según corresponda, que deberá ser informada de manera veraz y oportuna y no podrá ser alterada una vez vigente la oferta, a menos que dicha alteración favorezca al consumidor de acuerdo a lo señalado en el artículo 20º-5.
+
+#### Artículo 20º
+
+4: Respecto a las ofertas que se realicen en el marco de lo señalado en el artículo 20º-1, cuando en un grupo de consumo se encuentren vigentes ofertas por reducción de consumo, cualquier nueva oferta que se realice a dicho grupo de consumo durante el periodo de vigencia de las primeras, deberá ser por reducción de consumo. Asimismo, cuando las ofertas vigentes sean por aumento de consumo, cualquier nueva oferta que se realice durante el periodo de vigencia de las primeras, deberá ser por aumento de consumo.
+
+En caso que no se encuentre vigente alguna oferta, solamente se podrá realizar una oferta por reducción de consumo si se cumple que el promedio de los costos marginales esperados durante su periodo de vigencia, determinado como el promedio simple de los costos marginales puestos en los puntos de entrada del sistema de distribución que abastece al Grupo de Consumo correspondiente, es superior al precio promedio de la energía vigente a la fecha, aplicable en dicho periodo a los clientes regulados que lo componen conforme a la especificación tarifaria. En caso contrario, solamente se podrá realizar una oferta por aumento de consumo. Se deberá considerar en el cálculo del precio promedio de la energía, cuando corresponda, el ajuste al que se refiere el artículo 157º de la ley, pero no se deberá considerar su indexación esperada para el periodo de vigencia de la oferta ni los cargos o abonos a los que se refiere el artículo 27º transitorio de la ley.
+
+A estos efectos, los costos marginales esperados puestos en los puntos de entrada del sistema de distribución para la semana señalada, serán calculados e informados por la Dirección de Peajes del CDEC respectivo, a solicitud de la empresa de generación respectiva, considerando los costos marginales contenidos en la correspondiente programación de operación para los próximos 12 meses. Éstos se determinarán como el promedio ponderado de los costos marginales esperados en hidrología media para el período de vigencia de la oferta en cada barra que se vincula al correspondiente Grupo de Consumo, y serán referidos al nivel señalado utilizando factores de pérdida referenciales que supondrán que no existen restricciones de transmisión aguas abajo de las barras consideradas en dicha programación. Estos factores de pérdida podrán ser informados por las distribuidoras correspondientes si así lo solicitare la Dirección de Peajes del sistema respectivo.
+
+#### Artículo 20º
+
+5: La oferta deberá formularse considerando que todo el aumento o reducción de consumo, según corresponda, que le sea computado a un consumidor que acceda a dicha oferta deberá tener asociado algún tipo de beneficio o incentivo. La oferta, con todas sus características, condiciones y equivalencias, deberá publicitarse durante su periodo de vigencia a los grupos de consumo a quienes va dirigida. Las características y condiciones de la oferta sólo podrán ser mejoradas, en condiciones no discriminatorias, mientras se encuentre vigente.
+
+Del convenio con consumidores de menos de 500 k
+
+#### Artículo 20º
+
+6: Para acceder a una oferta realizada en el marco de un mandato, los consumidores deberán suscribir con el mandatario, un convenio de aceptación de las condiciones de la oferta por escrito, ya sea en papel o en formato electrónico. El mandatario será responsable de que los consumidores que suscriban un convenio tengan conocimiento previo de las características y condiciones de la oferta, así como también de las disposiciones establecidas en los artículos 20º-10, 20º-11, 20º-12 y 20º-17 de la presente resolución.
+
+#### Artículo 20º
+
+7: El contenido del convenio de aceptación deberá sujetarse expresamente a lo establecido en la ley Nº 19.496 y en la presente resolución. Su fecha referencial de término deberá ser anterior al término de la oferta que le da origen. Cada convenio deberá registrar el RUN del consumidor que lo suscribe y el identificador o número de cliente perteneciente a una empresa de distribución. Se podrá registrar un identificador o número de cliente por convenio. Un mismo RUN del consumidor no podrá tener asociado más de tres convenios en el marco de una misma oferta.
+
+#### Artículo 20º
+
+8: Para que un convenio suscrito sea válido el consumidor deberá presentar el original de una de las dos últimas facturas o boletas remitidas por la distribuidora, debidamente pagada, con el identificador o número de cliente registrado en el convenio. El mandatario será responsable de exigir y cautelar que este requisito sea cumplido por los consumidores, debiendo establecer un plazo y registro adecuados para el mismo.
+
+#### Artículo 20º
+
+9: El mandatario deberá comunicar a la respectiva empresa de distribución, para su registro, la siguiente información de cada convenio: fecha referencial de término, identificador del cliente, RUN del consumidor que lo suscribe y generador mandante. Esta comunicación deberá hacerse dentro de los tres días hábiles siguientes a la validación del convenio, según lo indicado en el artículo anterior. La empresa de distribución deberá informar al mandatario, dentro de los tres días hábiles siguientes, si el convenio fue registrado vinculándolo al número de cliente o si no procede su registro debido al cruce temporal con el periodo de vigencia de otro convenio previamente registrado y vinculado al número de cliente o debido a que el número de cliente no pertenece al grupo de consumo al cual está dirigido la oferta. El mandatario, a su costo, podrá acordar otros plazos y mecanismos para facilitar el intercambio de esta información con la empresa de distribución.
+
+#### Artículo 20º
+
+10: La vigencia del convenio y la aplicación de los incentivos ofrecidos comenzará a partir del siguiente periodo de facturación del cliente, posterior a la fecha de su comunicación a la empresa de distribución. La vigencia del convenio y la aplicación de los incentivos finalizarán junto con el periodo de facturación del cliente que contenga la fecha referencial de término del convenio.
+
+#### Artículo 20º
+
+11: Un convenio válido registrado, no podrá ponérsele término hasta que finalice su periodo de vigencia. No obstante, en presencia de un decreto de racionamiento a que se refiere el artículo 163º de la ley se suspenderá durante su vigencia la publicidad, suscripción, registro y aplicación de aquellas ofertas y convenios que ofrezcan incentivos por aumentos de los consumos.
+
+#### Artículo 20º
+
+12: Los incentivos que se hayan ofrecido a los consumidores por aumentos o reducciones de su consumo deberán permanecer vigentes con el convenio. El identificador o número de cliente permanecerá vinculado al convenio válido registrado y no podrá ser registrado en ningún otro convenio o ser sujeto de beneficio de ofertas por reducciones o aumentos de consumo que se ofrecieren a través de empresas concesionarias de servicio público de distribución hasta que termine su periodo de vigencia.
+
+Otras consideraciones
+
+#### Artículo 20º
+
+13: El mandatario podrá solicitar de la respectiva empresa de distribución la información del consumo histórico individual de los últimos 15 meses de los clientes consumidores de menos de 500 kW que hayan suscrito un convenio válido registrado con él. Esta solicitud podrá hacerse por una sola vez durante la vigencia del convenio. En todo caso, esta información sólo podrá ser puesta a disposición del mandatario previa presentación del consentimiento expreso del cliente consumidor respectivo. Dicho documento deberá ser suscrito por el cliente por escrito, ya sea en papel o en formato electrónico, de manera independiente a la suscripción del convenio respectivo y deberá ajustarse a lo establecido en la ley 19.628. La empresa de distribución dispondrá de cinco días hábiles para hacer entrega de esta información en formato electrónico al mandatario solicitante.
+
+#### Artículo 20º
+
+14: Corresponderá a las empresas concesionarias de distribución determinar las reducciones o aumentos de consumo de los usuarios o clientes a los que se refiere el artículo 21º que tengan convenios válidos registrados y vigentes, a efectos de aplicar lo indicado en el capítulo 5 de esta norma. Mientras se encuentre vigente un convenio válido registrado, a las empresas concesionarias de distribución no les corresponderá pagar a estos clientes por concepto de reducción o aumentos de su consumo. A efectos de imputar al generador mandante la reducción o aumento de consumo determinado a cada cliente con convenio, se entenderá que ésta se distribuye de manera uniforme a lo largo de todo el periodo de facturación del cliente.
+
+#### Artículo 20º
+
+15: Dentro de los diez días hábiles posteriores al término de un periodo de facturación de un cliente con convenio vigente, la empresa de distribución deberá informar al mandatario respectivo la siguiente información: Identificador del cliente, su consumo de referencia y su consumo real para dicho periodo de facturación. El mandatario y la empresa de distribución podrán acordar otros plazos y mecanismos para facilitar el intercambio de esta información, a cargo del primero.
+
+#### Artículo 20º
+
+16: Toda la información que el mandatario recabe de los consumidores, en el marco de un mandato temporal para realizar ofertas, no podrá ser comercializada, cedida o intercambiada con terceros. Esta obligación no se extinguirá con el término del mandato.
+
+#### Artículo 20º
+
+17: Los reclamos formulados ante el mandatario por los consumidores respecto de la aplicación del convenio, se regirán por el acuerdo al que lleguen las partes o, a falta de acuerdo, deberán someterse a las normas establecidas en la ley Nº 19.496. Sin perjuicio de lo anterior, el mandatario deberá responder el reclamo dentro del plazo de 15 días hábiles. Se entenderá aceptado el reclamo cuando no sea resuelto dentro del plazo estipulado.
+
+#### Artículo 20º
+
+18: Las empresas distribuidoras y las empresas generadoras que efectúen suministros a usuarios finales sujetos a regulación de precios desde sus instalaciones de generación o transporte, deberán registrar en cada boleta o factura con la cual facturen el suministro a sus usuarios finales regulados, si éstos presentan o no algún convenio vigente registrado y, en caso de tenerlo, el nombre del respectivo mandatario y el RUN del suscriptor.
+
+#### Artículo 20º
+
+19: Dentro de los primeros 10 días de cada mes, las distribuidoras concesionarias facturarán a los generadores mandantes de una oferta que tengan asociados convenios vigentes con sus clientes, los costos resultantes de la implementación de los convenios asociados a una oferta.
+
+#### Artículo 20º
+
+20: Anualmente, las distribuidoras deberán notificar a las empresas de generación, vía correo electrónico o carta certificada, el presupuesto de costos aprobado asociado a las actividades de implementación de los convenios a que se refiere el presente artículo. Para los consumidores de menos de 500 kW se distinguirán dos tipos de costo:
+
+a) Costo de implementación de convenios.
+
+El costo de implementación de convenios se divide en un costo de registro inicial (CRI) y en un costo de gestión (CGC) de convenios. El CRI se determinará como un costo total por los convenios informados por el mandatario durante un mes y se presupuestará para cada Grupo de Consumo conforme a la siguiente expresión:
+
+CRI = CRU × NCI
+
+Donde:
+
+CRI Costo total de registro de los convenios informados en el grupo de consumo respectivo ($/mes).
+
+CRU Costo por convenio informado, incurrido por la distribuidora por el mayor uso en sus recursos existentes ($/convenio).
+
+NCI Número de convenios informados en el mes para el Grupo de Consumo respectivo.
+
+El CGC se determinará en base a un periodo de un mes completo de vigencia de cada convenio y se presupuestará para cada Grupo de Consumo conforme a la siguiente expresión:
+
+CGC = CGU × NCV
+
+Donde:
+
+CGC Costo total de gestión mensual de los convenios vigentes en el grupo de consumo respectivo ($/mes).
+
+CGU Costo por convenio con un mes completo de vigencia, incurrido por la distribuidora por el mayor uso en sus recursos existentes ($/convenio/mes).
+
+NCV Número de convenios con un mes completo de vigencia en el Grupo de Consumo respectivo.
+
+b) Costo de la entrega de información histórica de clientes.
+
+El Costo de la entrega de información histórica de clientes se determinará como un costo total por el número de solicitudes de información histórica de clientes que la distribuidora haya cursado y entregado al mandatario durante un mes, conforme a lo indicado en el artículo 20º-13 y se presupuestará para cada Grupo de Consumo, conforme a la siguiente expresión:
+
+CEI = CHU × NSI
+
+Donde:
+
+CEI Costo total de la distribuidora por cursar y entregar durante un mes las solicitudes de información histórica realizadas por el mandatario ($/mes).
+
+CHU Costo por solicitud de información histórica cursada y entregada, incurrido por la distribuidora por el mayor uso en sus recursos existentes ($/solicitud).
+
+NSI Número de solicitudes de información histórica cursadas y entregadas durante el mes para el Grupo de Consumo respectivo.
+
+#### Artículo 20º
+
+21: El valor CRU, CGU y CHU será presupuestado y definido anualmente por la distribuidora, y podrá indexarse mensualmente conforme a lo establecido en el artículo 32º.
+
+#### Artículo 20º
+
+22: El presupuesto de costos deberá ser aprobado por la Comisión y sólo podrá contemplar costos adicionales a los que la distribuidora hubiere de incurrir de no tener que registrar y gestionar convenios asociados a una oferta específica, en los plazos establecidos.
+
+En particular dicho presupuesto no incluirá el costo asociado a las actividades señaladas en el artículo 5º, artículo 6º, artículo 20º-11, artículo 20º-18, artículo 21º y artículo 36º de la presente resolución. No incluirá, adicionalmente, costos asociados a la puesta en marcha y mantención de los mecanismos que permiten hacer operativas las disposiciones de la presente resolución.
+
+La distribuidora no podrá aplicar parámetros de costos distintos a los que se encuentren vigentes conforme al presupuesto aprobado, salvo en el caso de los plazos y mecanismos acordados a los que se refieren el artículo 20º-9 y artículo 20º-15.
 
 ## Capítulo 4
 
@@ -412,7 +560,7 @@ Los valores INST, ARR y NC tendrán vigencia de un año.
 
 #### Artículo 33º
 
-El presupuesto de costos deberá ser aprobado por la Comisión previo a su publicación, y sólo podrá contemplar costos adicionales a los que la distribuidora hubiere de incurrir de no existir ofertas específicas.
+El presupuesto de costos deberá ser aprobado por la Comisión, y sólo podrá contemplar costos adicionales a los que la distribuidora hubiere de incurrir de no existir ofertas específicas.
 
 En particular, el presupuesto de costos no incluirá el costo asociado a las actividades señaladas en el Artículo 5º, Artículo 6º, Artículo 21º, y Artículo 36º de la presente resolución. Tampoco se incluirán costos asociados a la puesta en marcha y mantención de los mecanismos que permiten hacer operativas las disposiciones de la presente resolución.
 
@@ -424,7 +572,7 @@ Los costos de implementación de los convenios con usuarios de capacidad superio
 
 #### Artículo 35º
 
-La distribuidora no podrá aplicar parámetros de costo distintos a los que se encuentren vigentes conforme la publicación del presupuesto.
+La distribuidora no podrá aplicar parámetros de costo distintos a los que se encuentren vigentes conforme al presupuesto aprobado.
 
 ## Capítulo 7
 
@@ -432,7 +580,7 @@ Información
 
 #### Artículo 36º
 
-La especificación de los grupos de consumo que la distribuidora deberá poner a disposición de los generadores conforme se señala en el Artículo 6º deberá considerar para cada Grupo de Consumo lo siguiente:
+La especificación de los grupos de consumo que la distribuidora deberá poner a disposición de los generadores, dentro de los veintes días hábiles siguientes a la aprobación del Grupo de Consumo por parte de la Comisión conforme se señala en el Artículo 6º deberá considerar para cada Grupo de Consumo lo siguiente:
 
 1. Identificación del Grupo de Consumo. Corresponde a un nombre genérico que efectúa una referencia general a la zona correspondiente. Dicho denominador será consignado en la boleta del usuario correspondiente conforme se señala en el Artículo 6º.
 
@@ -445,6 +593,8 @@ La especificación de los grupos de consumo que la distribuidora deberá poner a
 5. Identificación de cada uno de los clientes regulados de capacidad conectada igual o superior a los 500 kW pertenecientes al Grupo de Consumo.
 
 Se incluirá la razón social del cliente, su dirección, la opción tarifaria y la serie de consumo mensual para los últimos 24 meses.
+
+6. Número total de clientes finales sometidos a regulación de precios localizados en el Grupo de Consumo, con capacidad conectada inferior a 500 kW, que a la fecha de entrega de la información hayan suscrito un convenio válido registrado por alguna oferta vigente realizada en el marco de lo señalado en el artículo 20º-1, desglosados por opción tarifaria y por oferta de aumento o reducción de consumo. Esta información deberá actualizarse y ponerse a disposición de los generadores respectivos durante los primeros cinco días de cada mes en que se encuentre vigente alguna oferta que se realice en el marco de lo señalado en el artículo 20º-1.
 
 En todo caso, la información a que se refiere el número 5 del presente artículo, sólo podrá ser puesta a disposición de los generadores que corresponda previo consentimiento expreso del cliente respectivo, y ante consulta por escrito de la distribuidora que le da suministro. El formato de consulta al cliente que deberá ser utilizado por las distribuidoras a estos efectos deberá ser aprobado por la Comisión antes de su utilización, y copia de las respuestas correspondientes, deberán ser remitidas a dicho organismo.
 
