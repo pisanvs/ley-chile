@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.010, de 10 de septiembre de 2009, de esta Subsecretaría, autorízase a LUIS ENRIQUE OLIVARES DÍAZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Sector Caleta Constitución s/nº, comuna de Antofagasta, II Región, para elaborar en línea Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 10 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
