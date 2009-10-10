@@ -68,7 +68,7 @@ DE LA SOLICITUD DE BECAS:
 
 #### Artículo 7°
 
-Las postulaciones a las becas serán recibidas en la oficina de la Dirección de Desarrollo Comunitario de la Municipalidad durante el mes de enero de cada año, mediante el formulario de postulación y los documentos que se señalan a continuación:
+Las postulaciones a las becas serán recibidas en la oficina de la Dirección de Desarrollo Comunitario de la Municipalidad hasta el 30 de abril de cada año, además para los estudiantes de nivel superior en el segundo semestre hasta el 31 de agosto de cada año, mediante el formulario de postulación y los documentos que se señalan a continuación:
 
 - Certificado de nacimiento original.
 
@@ -80,15 +80,17 @@ Las postulaciones a las becas serán recibidas en la oficina de la Dirección de
 
 - Certificado de residencia extendido por la Junta de vecinos correspondiente a su domicilio.
 
-- En el caso de los estudiantes de enseñanza media, haber aprobado el curso anterior con a lo menos un promedio académico de 5.8.
+- En el caso de los estudiantes de enseñanza media, haber aprobado el curso anterior con a lo menos un promedio académico de 5.0.
 
-- En el caso de los estudiantes de educación superior el mínimo de promedio académico exigido será de nota 5.0 anual y un 70% de las asignaturas cursadas en el año aprobado, como mínimo.
+- En el caso de los estudiantes de educación superior el requisito exigido es acreditar al inicio de cada semestre su calidad de alumno regular mediante certificado emitido por las Universidades o Institutos Superiores a que pertenece.
 
 - Cumplir con el procedimiento de inscripción y postulación a la Beca.
 
 - No podrán postular alumnos que hayan obtenido un título de Educación Superior y que se encuentren cursando estudios de post grado.
 
 - No podrán postular a la Beca los alumnos que hayan perdido el beneficio en el ciclo lectivo anterior a la convocatoria de inscripción.
+
+En caso de fuerza mayor o caso fortuito debidamente acreditado el comité de evaluación de becas, podrá reevaluar una postulación fuera de plazo.
 
 DE LA DURACION DEL BENEFICIO:
 
@@ -116,7 +118,7 @@ Evaluadas las postulaciones de acuerdo a los requisitos establecidos en los Art�
 
 #### Artículo 12°
 
-Las becas se concederán en estricto orden de prelación comenzando por los concursantes que tengan mayores calificaciones, decreciendo de manera directamente proporcional hasta extinguirse en el límite 5.80 para los estudiantes de enseñanza media y en el límite 5,00 para los alumnos de educación superior, todo ello de acuerdo a la escala de méritos establecida por el Comité de Becas.
+Las becas se concederán en estricto orden de prelación comenzando por los concursantes que tengan mayores calificaciones, decreciendo de manera directamente proporcional hasta extinguirse en el límite 5.0 para los estudiantes de enseñanza media y en el caso de los estudiantes de educación superior el requisito exigido es acreditar al inicio de cada semestre su calidad de alumno regular mediante certificado emitido por las Universidades o Institutos Superiores a que pertenece, todo ello de acuerdo a la escala de méritos establecida por el Comité de Becas.
 
 En cualquier caso el comité seleccionador no tendrá atribución alguna para incorporar a los listados de alumnos seleccionados a quienes no cumplan con el requisito de la nota mínima exigida.
 
@@ -259,5 +261,11 @@ Enseñanza media:
 Enseñanza superior
 
 - Si el becario, originario tanto en la localidad de Baquedano como en Sierra Gorda, cursa estudios de educación superior, se le asignará el monto de $65.000 pesos mensuales.
+
+## Capítulo VI
+
+#### Artículo transitorio
+
+que los alumnos de enseñanza superior podrán postular hasta el 30 de septiembre de 2009, por esta única vez.
 
 Anótese, comuníquese, cúmplase y archívese.- Carlos López Vega, Alcalde.- Bárbara Silva Leris, Secretaria Municipal.
