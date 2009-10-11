@@ -2,8 +2,6 @@ FIJA ORDENANZA DE ZONIFICACION DE LOS NEGOCIOS DE EXPENDIO DE BEBIDAS ALCOHOLICA
 
 Núm. 101.- Santiago, 30 de junio de 2005.- ORDENANZA DE ZONIFICACION DE LOS NEGOCIOS DE EXPENDIO DE BEBIDAS ALCOHOLICAS DEL BARRIO BRASIL
 
-> **Nota.** Los Nº 1 y Nº 2 del Decreto 2933, M. de Santiago, publicado el 04.09.2010, modifican la presente norma, en cuanto al título, los artículo 2 y 6 respectivamente, que por su redacción no es posible efectuar la actualización que indica.
-
 ## Título I
 
 DE LA ZONIFICACION
