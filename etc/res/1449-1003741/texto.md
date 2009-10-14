@@ -54,39 +54,131 @@ El cálculo de la fórmula deberá realizarse considerando en el volumen de la b
 
 #### Artículo tercero
 
-Los titulares de los centros de cultivo ubicados en las subzonas que se indican en el presente artículo, deberán cumplir con períodos de descanso coordinado durante un plazo de 3 meses. Por su parte los centros de acopio de peces deberán cumplir con periodos de descanso coordinado durante el último mes del trimestre mencionado. Los ejemplares que ingresen al centro de acopio deberán estar en buen estado de salud, lo cual debe ser acreditado en base a un certificado de salud para transporte de peces vivos emitido por un médico veterinario.
+Los titulares de los centros de cultivo ubicados en las subzonas que se indican en el presente artículo, deberán cumplir con períodos de descanso coordinado durante un plazo de 3 meses.
 
 Durante dicho período estará prohibido el ingreso y mantención de especies en los centros de cultivo integrantes del área.
 
 Los titulares de los centros de cultivos integrantes del área de manejo sanitario, deberán informar por escrito al Servicio todas las operaciones de desinfección y traslado de estructuras, embarcaciones, alimentos y cualquier otro elemento que haya estado presente en el centro de cultivo con ocasión de la engorda y cosecha de peces. Esta información debe ser enviada con al menos 48 horas de anticipación a la realización de la operación.
 
-Los períodos descanso por área de manejo sanitario serán los siguientes:
+Los períodos de descanso por área de manejo sanitario serán los siguientes:
 
-> **Nota.** NOTA 1 El Artículo primero de la Resolución 1308 Exenta, Economía, publicada el 23.06.2012, modifica el cuadro de períodos de descanso que estableció medidas de manejo sanitario por área, hoy agrupaciones de concesiones, en el sentido de sustituir el primer y segundo período de descanso de las agrupaciones de concesiones N° 25 A y N° 25 B, según lo indicado en la citada resolución.
+Región Zona Periodos de descanso
 
-> **Nota.** NOTA 2 El Artículo primero de la Resolución 2601 Exenta, Economía, publicada el 27.11.2012, modifica el cuadro de períodos de descanso que estableció medidas de manejo sanitario por área, hoy agrupaciones de concesiones, en el sentido de incorporar el primer y segundo período de descanso de las agrupaciones de concesiones 21 D, según lo indicado en la citada resolución.
+X 1 Enero-Marzo 2011
 
-> **Nota.** NOTA 3 El Artículo primero de la Resolución 3042 Exenta, Economía, publicada el 14.01.2013, modifica el cuadro de períodos de descanso que estableció medidas de manejo sanitario por área, hoy agrupaciones de concesiones, en el sentido de incorporar los períodos de descanso sanitario para la agrupación de concesiones 4B.
+X 2 Octubre-Diciembre 2010
 
-> **Nota.** NOTA 4 El Artículo primero de la Resolución 2971 Exenta, Economía, publicada el 17.01.2013, modifica el cuadro de concesiones, sólo en cuanto a modificar el segundo período de descanso de la agrupación de concesiones 17B, a dos meses de descanso durante el verano, esto es febrero-marzo 2013.
+X 3A Abril-Junio 2009
 
-> **Nota.** NOTA 5 El Artículo primero de la Resolución 69 Exenta, Economía, publicada el 08.02.2014, modifica el cuadro de concesiones, en el sentido de establecer el período de descanso de la ACS 18A para la X Región, de diciembre 2015 a febrero 2016.
+X 3B Enero-Marzo 2010
 
-> **Nota.** NOTA 6 El Artículo primero de la Resolución 646 Exenta, Economía, publicada el 19.03.2014, modifica el cuadro de concesiones, en el sentido de establecer el período de descanso de la agrupación de concesiones Nº 25 B sera de septiembre-noviembre de 2014.
+X 6 Diciembre 2009
 
-> **Nota.** NOTA 7 El Artículo primero de la Resolución 2846 Exenta, Economía, publicada el 04.09.2014, modifica el cuadro contenido en la presente norma, en el sentido de incorporar nuevos periodos de descanso para las organizaciones que la citada norma indica.
+Febrero 2010
 
-> **Nota.** NOTA 8 El numeral 1° letra b, de la Resolución 3246 Exenta, Economía, publicada el 22.09.2014, modifica el cuadro de concesiones, en el sentido de establecer el período de descanso de la agrupación de concesiones Nº 30 B y de su cuarto período de descanso, donde dice: "noviembre 2015-enero 2016", debe decir "noviembre 2016-enero 2017".
+X 7 Enero-Marzo 2011
 
-> **Nota.** NOTA 9 La Resolución 4831 Exenta, Economía, publicada el 20.12.2014, modifica el cuadro contenido en el presente artículo, en el sentido de sustituir, para las agrupaciones de concesiones Nos. 25 A y 25 B ubicadas en la XI Región, los segundos períodos de descanso, por "Octubre-Diciembre 2015", y "Abril-Junio 2017", respectivamente.
+X 8 Mayo-Julio 2009
 
-> **Nota.** NOTA 10 La letra a) del artículo primero de la Resolución 5188 Exenta, Economía, publicada el 16.01.2015, modifica el cuadro contenido en el presente artículo, en el sentido de sustituir el tercer período de descanso sanitario del centro de cultivo, código Nº 100271, perteneciente a la agrupación de concesiones Nº 2, ubicada en la X Región, por el siguiente "Febrero-Marzo 2015.
+X 9A Enero-Marzo 2011
 
-> **Nota.** NOTA 11 El Artículo primero de la Resolución 7704 Exenta, Economía, publicada el 11.09.2015, modifica el cuadro de concesiones, en el sentido de establecer el período de 5º Descanso de la ACS 6 para la X Región, de Julio - Septiembre 2017.
+X 9B Febrero-Abril 2010
 
-> **Nota.** NOTA 12 El Artículo primero de la Resolución 142 Exenta, Economía, publicada el 03.02.2016, modifica el cuadro de concesiones, en el sentido de sustituir el tercer periodo de descanso de la agrupación de concesiones Nº 22 C, ubicada en la XI Región, por el siguiente "Junio - Agosto 2016.
+X 9C Enero-Marzo 2009
 
-> **Nota.** NOTA 13 El Artículo primero de la Resolución 7921 Exenta, Economía, publicada el 08.10.2016, modifica el cuadro de concesiones, en el sentido de establecer el período de 5º Descanso de la ACS 6 para la X Región, de Octubre-Diciembre 2017.
+X 10B Febrero-Abril 2010
+
+X 11 Enero-Marzo 2010
+
+X 13 Octubre-Diciembre 2009
+
+X 14 Junio-Agosto 2009
+
+X 15 Abril-Junio 2009
+
+X 16 Diciembre-Febrero 2010
+
+X 17A Mayo-Julio 2010
+
+XI 18A Mayo-Julio 2009
+
+XI 18B Enero-Marzo 2010
+
+XI 18C Agosto-Octubre 2010
+
+XI 18D Octubre-Diciembre 2009
+
+XI 19A Junio-Agosto 2010
+
+XI 19B Marzo-Mayo 2009
+
+XI 19C Julio-Septiembre 2009
+
+XI 20 Julio-Septiembre 2009
+
+XI 21A Junio-Agosto 2010
+
+XI 21B Julio-Septiembre 2010
+
+XI 21C Diciembre 2009-Febrero 2010
+
+XI 22A Abril-Junio 2010
+
+XI 22B Mayo-Julio 2009
+
+XI 22C Enero-Marzo 2011
+
+XI 22D Junio-Agosto 2010
+
+XI 23A Enero-Marzo 2011
+
+XI 23B Mayo-Julio 2010
+
+XI 23C Enero-Marzo 2011
+
+XI 24 Octubre-Diciembre 2009
+
+XI 25 Julio-Septiembre 2012
+
+XI 27 Febrero-Abril 2009
+
+XI 28A Enero-Marzo 2012
+
+XI 28B Enero-Marzo 2011
+
+XI 29 Diciembre-Febrero 2010
+
+XI 30A Abril-Junio 2011
+
+XI 30B Marzo-Mayo 2010
+
+XI 31A Mayo-Julio 2009
+
+XI 31B Septiembre-Noviembre 2010
+
+XI 32 Febrero-Abril 2010
+
+XI 33 Agosto-Octubre 2010
+
+XI 34 Junio-Agosto 2011
+
+XI 35 Julio-Septiembre 2009
+
+X 10A Agosto-Octubre 2012
+
+X 12A Mayo-Julio 2011
+
+X 12B Mayo-Julio 2012
+
+X 12C Mayo-Julio 2012
+
+X 17B Agosto-Octubre 2010
+
+XI 26A Diciembre 2011-
+
+Febrero 2012
+
+XI 26B Enero-Marzo 2013
 
 #### Artículo cuarto
 
@@ -94,6 +186,6 @@ Los titulares de cada centro de cultivo integrante de un área deberán dar estr
 
 #### Artículo quinto
 
-Por disposición del artículo 86 de la Ley General de Pesca y Acuicultura, la infracción de lo dispuesto en la presente resolución se sancionará conforme a las disposiciones del Título IX de esa ley, en relación al artículo 77 del DS 319 citado en Vistos, con excepción de aquellos casos en que proceda la aplicación de lo dispuesto en el artículo 118 ter de la Ley General de Pesca y Acuicultura.
+Por disposición del artículo 86 de la Ley General de Pesca y Acuicultura, la infracción de lo dispuesto en la presente resolución se sancionará conforme a las disposiciones del Título IX de esa ley, en relación al artículo 77 del Reglamento.
 
 Anótese, comuníquese y publíquese.- Félix Inostroza Cortés, Director Nacional.
