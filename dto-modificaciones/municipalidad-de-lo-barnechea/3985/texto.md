@@ -1,0 +1,21 @@
+MODIFICA PLAN REGULADOR COMUNAL
+
+Núm. 3.985.- Lo Barnechea, 2 de octubre de 2009.- Visto y teniendo presente: El decreto sección 1ª Nº 1.320, de fecha 27 de junio de 2008; la Memoria Explicativa y Proposición de Texto Aprobatorio de la Modificación al Plan Regulador Comunal, denominado "MPRC-LB-11 artículos 34 y 35 del PRC de Lo Barnechea"; certificado Nº 209, del 7 de julio de 2009, suscrito por el Secretario Abogado Municipal (S), que certifica el cumplimiento de los trámites señalados en los incisos segundo al quinto del artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones; el Ord. Alc. Nº 418, de fecha 4 de julio de 2008, suscrito por la Sra. Alcaldesa, que informa a los vecinos sobre el proceso de modificación; las publicaciones en el diario El Mercurio de fechas 5 y 12 de julio de 2008, que informan lugar y fecha de audiencias públicas y de la exposición del proyecto de modificación y fecha de término del plazo para formular observaciones; el acta de asistencia a la Primera Audiencia Pública de fecha 14 de julio de 2008; los oficios Secplan Nºs. 19 al 39 de fecha 4 de julio de 2008; el decreto sección 1ª Nº 1.625, de fecha 29 de julio de 2008, y el Acta de Sesión del Consejo Económico y Social de fecha 6 de agosto de 2008; el certificado Nº 206, de fecha 6 de julio de 2009, suscrito por el Secretario Abogado Municipal (S); la exposición al público entre el día 17 de julio y el 18 de agosto de 2008; el acta de asistencia a la Segunda Audiencia Pública de fecha 18 de agosto de 2008; las siete cartas de observaciones de los vecinos recibidas; los oficios Secplan Nºs. 101 al 121 y Nºs. 131 al 151, de fechas 14 y 21 de octubre de 2008, respectivamente; el certificado Nº 207, de fecha 6 de julio de 2009, suscrito por el Secretario Abogado Municipal (S); la resolución exenta Nº 942, de fecha 10 de diciembre de 2008, suscrita por la COREMA-RM, que califica ambientalmente favorable el proyecto; los Ord. Alc. Nºs. 151 al 157, de fecha 2 de abril de 2009, suscritos por el Sr. Alcalde, que informa a los vecinos los acuerdos Nºs. 2.857 al 2.861 adoptados por el Concejo Municipal; el informe Nº 2, de fecha 30 de junio de 2009, suscrito por el Asesor Urbanista; el acuerdo Nº 2.862 del Concejo Municipal tomado en Sesión Ordinaria Nº 640, de fecha 19 de marzo de 2009, que aprueba el proyecto; el decreto Nº 2.065, de fecha 4 de junio de 2009, que ordena remitir el proyecto a la Seremi-Minvu; el Ord. Alc. Nº 280, de 2009, suscrito por el Sr. Alcalde (S), que ingresa el proyecto a la Seremi Minvu para trámite oficial y revisión; el Ord. Nº 3.907, de Seremi Minvu RM de fecha 8 de septiembre de 2009, que informa favorablemente el proyecto; el acuerdo Nº 3.024 adoptado por el Concejo Municipal en Sesión Extraordinaria Nº 153, de fecha 24 de septiembre de 2009; lo establecido en los artículos 43 y 45 de la Ley General de Urbanismo y Construcciones, y el artículo 2.1.13 de su Ordenanza General, y el uso de las facultades que me confieren los artículos 56 y 63, letra i) de la ley Nº 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+1.- Promúlguese la modificación al Plan Regulador Comunal de Lo Barnechea conforme a lo siguiente:
+
+#### Artículo 1
+
+Modifícase el Plan Regulador Comunal de Lo Barnechea aprobado mediante decreto alcaldicio Nº 1.295, de fecha 03.09.02, publicado en el Diario Oficial con fecha 05.09.02, en el sentido de modificar el texto de la Ordenanza Local, según se justifica en la Memoria Explicativa de la presente modificación, en lo siguiente:
+
+a.- Derógase el inciso tercero del artículo 34º de la Ordenanza del Plan Regulador Comunal de Lo Barnechea.
+
+b.- Derógase el artículo 35º de la Ordenanza del Plan Regulador Comunal de Lo Barnechea.
+
+2.- La presente modificación al Plan Regulador Comunal de Lo Barnechea se publicará y archivará de conformad a lo dispuesto en el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones.
+
+Anótese, comuníquese, publíquese y archívese.- Felipe Guevara Stephens, Alcalde.- José Domingo Sagües López, Secretario Abogado Municipal.
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.- José Domingo Sagües López, Secretario Abogado Municipal.

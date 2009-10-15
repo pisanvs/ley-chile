@@ -436,11 +436,7 @@ El presente artículo define el listado de las obras generales que constituyen l
 
 Constituyen, además, obras de urbanización vial, el diseño y ejecución de obras de arte tales como: colectores de aguas lluvias, protección de quebradas y esteros (canalización, entubamiento y encauzamiento) y otras en cuanto afecten a la vialidad.
 
-SUPRIMIDO
-
-M 6 O Avda. Costanera Norte
-
-Ejecución entre Puente San Enrique y Límite
+SUPRIMIDO M 6 O Avda. Costanera Norte Ejecución entre Puente San Enrique y Límite
 
 comuna Vitacura.
 
@@ -792,9 +788,19 @@ Monasterio).
 
 La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros.
 
-#### Artículo 12º
+a.- VIAS METROPOLITANAS
 
-Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
+VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
+
+b.- VIAS INTERCOMUNALES PRINCIPALES
+
+VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
+
+c.- VIAS INTERCOMUNALES VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
+
+RED VIAL LOCAL
+
+VER DIARIO OFICIAL DE 05.09.2002, PAGINA 8 ARTICULO 12º Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
 
 Estas vías mantienen sus anchos existentes entre líneas oficiales, salvo aquellos casos en que expresamente se dispongan modificaciones como ensanches, ya sea en el Plano Regulador, en los loteos y en las subdivisiones incorporadas a éstos.
 
@@ -866,7 +872,9 @@ a) Los espacios de estacionamiento deberán desarrollarse en un plano horizontal
 
 Cada estacionamiento deberá tener libre ingreso y salida.
 
-b) En aquellas densificaciones en las que de la aplicación del estándar, resulten asignadas dos o más unidades por unidad habitacional, ellas podrán ser emplazadas en línea, compartiendo el mismo ingreso y salida.
+b) En aquellas densificaciones en las que de la aplicación del estándar, resulten asignadas dos o más unidades por unidad habitacional, ellas podrán ser emplazadas en línea, compartiendo el mismo
+
+ingreso y salida.
 
 c) El ancho mínimo de pasillo (un solo sentido de tránsito) en función del ángulo del estacionamiento, es el siguiente:
 
@@ -1166,7 +1174,11 @@ Los equipamientos construidos en áreas verdes, tendrán los estacionamientos qu
 
 #### Artículo 22º
 
-Derogado.
+En las áreas verdes de uso público sólo se autorizarán construcciones complementarias y compatibles con el carácter del área verde, permitiendo exclusivamente actividades relacionadas con lo recreacional-deportivo y de esparcimiento al aire libre. Para las actividades complementarias en ningún caso se podrá superar los porcentajes establecidos en el artículo 2.1.30 de la Ordenanza General de Urbanismo y Construcciones.
+
+En los casos en que la Municipalidad conceda su autorización, deberá otorgar la correspondiente concesión, en la cual fijará las condiciones para cada proyecto específico.
+
+CAPITULO I AREAS VERDES Y CAUCES NATURALES
 
 #### Artículo 23º
 
@@ -1308,7 +1320,11 @@ de trote, etc.
 
 Científico: Institutos de Investigación Científica y/o Tecnológica
 
-Comercio: SUPRIMIDO.-
+Comercio: Restaurantes
+
+Fuentes de Soda
+
+Bares y similares
 
 a.2.- Area Verde
 
@@ -1538,15 +1554,11 @@ Los cierros de sitios eriazos, obligatorios conforme lo dispone el Artículo 2.5
 
 a) Altura 2,00 mts.
 
-b) Ser transparentes y consignarse en la puerta el
-
-número municipal y el teléfono del
-
-responsable de su mantención.
+b) Ser transparentes y consignarse en la puerta el número municipal y el teléfono del responsable de su mantención.
 
 #### Artículo 31º
 
-Los antejardines mínimos corresponderán a los establecidos en los respectivos planos de loteo aprobados con anterioridad a la entrada en vigencia del PRC. Las disposiciones establecidas sobre esta materia para las diferentes Zonas en que se divide la comuna será aplicable a los futuros loteos.
+Los antejardines mínimos corresponderán a los DTO 1651, establecidos en los respectivos planos de loteo aprobados con anterioridad a la entrada en vigencia del PRC. Las disposiciones establecidas sobre esta materia para las diferentes Zonas en que se divide la comuna será aplicable a los futuros loteos.
 
 Los predios que colinden con áreas verdes públicas, deberán respetar un antejardín mínimo de 3.00 mts. en el frente que colinden con éstas.
 
@@ -1594,7 +1606,9 @@ a) El empalme de la vía pública con el acceso a un predio, o a un conjunto de 
 
 b) En lo que se refiere al cálculo del porcentaje máximo de ocupación de suelo, se deberá cumplir con el artículo 3.3.2.2 del P.R.M.S.
 
-c) Los desmontes, definidos en el artículo 1.1.2. de la Ordenanza General de Urbanismo y Construcciones, que sea necesario efectuar para producir escalonamientos, no podrán superar los 3,50 mts. de altura, medidos respecto al terreno natural, en conformidad al artículo 3.3.2.3 del PRMS.
+C) Los desmontes, definidos en el artículo 1.1.2. de la Ordenanza General de Urbanismo y Construcciones, que sea necesario efectuar para producir escalonamientos, no podrán superar los
+
+3,50 mts. de altura, medidos respecto al terreno natural, en conformidad al artículo 3.3.2.3 del PRMS.
 
 d) Los rellenos que produzcan abalconamientos, se deberán circunscribir a los distanciamientos y rasantes definidos en el artículo 2.6.3. de la Ordenanza General de Urbanismo y Construcciones.
 
@@ -1684,7 +1698,11 @@ En el territorio de este plan, las actividades definidas bajo el uso de activida
 
 Para los efectos señalados en el artículo anterior, se establecen las siguientes definiciones:
 
-a) Talleres Menores: Predios, recintos, instalaciones, construcciones y/o edificios en que se realizan las actividades de producción, procesamiento y/o transformación de productos finales, intermedios o insumos, ocupando para ello no más de 10 operarios. El radio de acción es de al menos el barrio y como máximo el límite comunal. b) Almacenamiento: Recintos de acopio, y bodegaje complementarios y ligados a la actividad comercial y de oficinas. En ningún caso existirán como destino independiente, y no podrán exceder del 50% de la superficie de la actividad.
+a) Talleres Menores: Predios, recintos,
+
+instalaciones, construcciones y/o edificios en que se realizan las actividades de producción, procesamiento y/o transformación de productos finales, intermedios o insumos, ocupando para ello
+
+no más de 10 operarios. El radio de acción es de al menos el barrio y como máximo el límite comunal. b) Almacenamiento: Recintos de acopio, y bodegaje complementarios y ligados a la actividad comercial y de oficinas. En ningún caso existirán como destino independiente, y no podrán exceder del 50% de la superficie de la actividad.
 
 c) Actividades de impacto similar al industrial:
 
@@ -1714,15 +1732,7 @@ CODIGO PRODUCTO PRINCIPAL PROCESAMIENTO
 
 31173 Pasteles Fabricación
 
-31171 ELIMINADO
-
-31174 Fideos, tallarines
-
-y otras pastas Elaboración
-
-31191 Cacao y chocolate Fabricación
-
-31192 Confites Fabricación
+31171 ELIMINADO 31174 Fideos, tallarines y otras pastas Elaboración 31191 Cacao y chocolate Fabricación 31192 Confites Fabricación
 
 31211 Condimentos Elaboración
 
@@ -1756,15 +1766,7 @@ y acabado
 
 32151 Sogas y cordeles Fabricación
 
-31219 Industria alimenticia Fabricación
-
-no clasificada. de empanadas
-
-y comida para
-
-llevar
-
-32201 Prendas de vestir Confección
+31219 Industria alimenticia Fabricación no clasificada. de empanadas y comida para llevar 32201 Prendas de vestir Confección
 
 32202 Sombreros, guantes y otros
 
@@ -1978,7 +1980,9 @@ Todas aquellas no mencionadas en esta Ordenanza se entenderán expresamente proh
 
 Para los efectos de aplicar la presente Ordenanza, el área urbana se divide en las Zonas que
 
-se definen a continuación, las cuales se encuentran graficadas en el Plano PRC-LB 1.
+se definen a continuación, las cuales se encuentran
+
+graficadas en el Plano PRC-LB 1.
 
 ZONA A "PUEBLO LO BARNECHEA"
 
@@ -1987,8 +1991,6 @@ ZONA B "RAUL LABBE"
 ZONA C "PUEBLO SAN ENRIQUE"
 
 ZONA D "LAS PUERTAS- SAN FRANCISCO"
-
-Zona E "Equipamiento Educacional"
 
 ZONA F "LA ERMITA DE SAN ANTONIO"
 
@@ -2001,10 +2003,6 @@ ZONA I "EL ARRAYAN ALTO"
 ZONA J "LA DEHESA"
 
 ZONA K "LA DEHESA ALTA"
-
-Zona L "Circunvalación Vial"
-
-Zona LL "Equipamiento de Culto".
 
 ZONA M "AVDA. LA DEHESA"
 
@@ -2040,17 +2038,13 @@ RESTRICCIONES, CONDICIONES Y NOTAS
 
 Actividades Productivas en calles y pasajes cerrados y/o
 
-abiertos de ancho entre líneas oficiales inferior a 15 mts. y calzada menor a 7 mts.
-
-(N4) ELIMINADA.
+abiertos de ancho entre líneas oficiales inferior a 15 mts. y calzada menor a 7 mts. (N4) Los equipamientos que se desempeñen en uno o más locales diferentes deberán formar parte de un conjunto unitario de a lo menos 1.500 m² construidos.
 
 (N5) En la zona D, al oriente de la calle San José de la Sierra la rasante será de 46º y el distanciamiento de 20 metros, medidos desde el eje del deslinde con la Zona C2. (N6) Para el destino "Oficinas en general", se podrán utilizar las condiciones de edificación correspondientes
 
 al Uso Residencial.
 
-(N7) ELIMINADA.
-
-(N8) Condición especial de altura máxima de 20 metros para la nave central del culto y de 30 metros para campanarios en el uso Culto"
+(N7) Los equipamientos que enfrenten a la Circunvalación Vial, en las vías Camino Los Trapenses tramo Valle de la Unión - José Alcalde Délano y Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo, sólo podrán desarrollarse en sitios de mínimo 10.000 m2.
 
 ZONA A "PUEBLO LO BARNECHEA"
 
@@ -2090,7 +2084,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto (N8) Museos
+Culto Museos
 
 Cultura Bibliotecas
 
@@ -2244,7 +2238,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto (N8) Museos
+Culto Museos
 
 Cultura Bibliotecas
 
@@ -2368,9 +2362,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 800 m2 800 m2
+Superficie predial mínima 800 m2 800 m2
 
 Frente Predial mínimo 16 mts 16 mts
 
@@ -2552,9 +2544,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 800 m2 800 m2
+Superficie predial mínima 800 m2 800 m2
 
 Frente Predial mínimo 20 mts 20 mts
 
@@ -2640,9 +2630,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 350 m2 350 m2
+Superficie predial mínima 350 m2 350 m2
 
 Frente Predial mínimo 15 mts. 15 mts.
 
@@ -2740,7 +2728,7 @@ Gimnasios
 
 Esparcimiento Casino
 
-Comercio Centros Comerciales
+Comercio (N4) Centros Comerciales
 
 Supermercados
 
@@ -2784,7 +2772,7 @@ Fuentes de Soda
 
 Salón de té
 
-Servicios Municipios
+Servicios (N4) Municipios
 
 Juzgados
 
@@ -2836,9 +2824,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 2.000 m2 2.000 m2
+Superficie predial mínima 2.000 m2 2.000 m2
 
 Frente Predial mínimo 35 mts 35 mts
 
@@ -2846,7 +2832,7 @@ Antejardín mínimo 7 mts 7 mts
 
 Coeficiente de ocupación
 
-de suelo 0,35 0,6
+de suelo 0,35 0,35
 
 Coeficiente de
 
@@ -2882,29 +2868,9 @@ Adosamientos O. Gral de O. Gral de
 
 U. y C. U. y C.
 
-1.- Aquellos terrenos que, por sus condiciones especiales, estén imposibilitados de cumplir con el tamaño mínimo predial, por estar limitados por vialidad o áreas verdes públicas o privadas, o estar rodeado por sitios consolidados con densificación, la superficie predial mínima será de 1.200 m² para todos los usos
+1. Aquellos terrenos que no cumplan con la superficie predial mínima de 2.000 m² y frente predial mínimo por no poder crecer al estar rodeados por espacios públicos (calles y/o áreas verdes), podrán acogerse al resto de las normas.
 
-2. ELIMINADO.
-
-Zona E "Equipamiento Educacional"
-
-Esta zona está constituida por los sitios numerados del I. al VIII. en el listado que se incluye a continuación, los que se grafican en el plano MPRC-LB-16.
-
-EQUIPAMIENTO DE EDUCACIÓN
-
-CONDICIONES DE USO DE SUELO
-
-a.) Usos Permitidos y Restringidos
-
-a.1 Equipamiento:
-
-ANota: Se permitirán todas aquellas actividades complementarias al destino educacional.
-
-b.) Usos Prohibidos
-
-Todos aquellos que no estén expresamente permitidos.
-
-CONDICIONES DE EDIFICACIÓN
+2. Todas las calles existentes de ancho menor a 15 mts. , quedan afectadas a un ensanche hasta completar 7.5 mts. a ambos costados tomados desde el eje de la calzada.
 
 ZONA F "LA ERMITA DE SAN ANTONIO"
 
@@ -3024,9 +2990,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 60 m2 800 m2 Frente predial mínimo No 15 mts. Antejardín mínimo No No Coeficiente de ocupación de suelo 0,6 0,7
+Superficie predial mínima 60 m2 800 m2 Frente predial mínimo No 15 mts. Antejardín mínimo No No Coeficiente de ocupación de suelo 0,6 0,7
 
 Coeficiente de
 
@@ -3150,13 +3114,11 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 4.000 m2 4.000 m2
+Superficie predial mínima 4.000 m2 4.000 m2
 
 Frente predial mínimo 30 mts 30 mts
 
-Antejardín mínimo 5 mts 5 mts
+Antejardín mínimo 15 mts 15 mts
 
 Coeficiente de
 
@@ -3206,9 +3168,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie de Subdivisión
-
-Predial Mínima 2.000 m2
+Superficie predial mínima 2.000 m2
 
 Frente Predial mínimo 20 mts
 
@@ -3242,13 +3202,11 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie de Subdivisión
-
-Predial Mínima 4.000 m²
+Superficie predial mínima 4.000 m²
 
 Frente Predial mínimo 30 mts
 
-Antejardín mínimo 5 mts
+Antejardín mínimo 15 mts
 
 Coeficiente de ocupación
 
@@ -3278,9 +3236,7 @@ CONDICIONES DE SUBDIVISIÓN Y EDIFICACION
 
 Clase Actividad
 
-Superficie de Subdivisión
-
-Predial Mínima 900 m2
+Superficie Predial Mínima 900 m2
 
 Frente Predial Mínimo 18 mts
 
@@ -3314,37 +3270,69 @@ pisos.
 
 Adosamiento O. Gral. de U. y C.
 
-a.1.1) Condiciones de excepción - Sub-Zona J1 "La Dehesa Antigua"
+a.1.1) Condiciones de excepción
 
-En el área denominada "La Dehesa Antigua", cuyos límites generales (excluidas las zonas M, N y O del presente instrumento) son: Límite poniente del Pueblo de Lo Barnechea, Ejes de Avda. El Rodeo, Estero Las Hualtatas, Camino de la Villa, Camino Turístico Sur y calle Raúl Labbé, se podrá:
+En el área denominada "La Dehesa Antigua", cuyos límite generales (excluida la zona M,N y O del presente instrumento) son: Límite poniente del Pueblo de Lo Barnechea, Ejes de Avda. El Rodeo, Estero Las Hualtatas, Camino de la Villa, Camino Turístico Sur y calle Raúl Labbé, en tanto no se apruebe un Seccional de Renovación Urbana, se podrá:
 
-CONDICIONES DE EDIFICACIÓN
+a.1.1.1) Autorizar subdivisiones de 480 m2 con uso residencial exclusivo y una vivienda por predio, bajo las siguientes condiciones:
 
-a.1.2) Subzona J2 de Densificación
+CONDICIONES DE SUBDIVISION Y EDIFICACION
 
-En el área destinada a Densificación signada como "J2", cuyos límites se grafican en el plano MPRC-LB-24, se podrá:
+USO DE SUELO Residencial
 
-CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN
+Superficie Predial Mínima 480 m2
 
-USO DE SUELO RESIDENCIAL
+Frente Predial Mínimo 15 mts
 
 Antejardín Mínimo 5 mts
 
-Coeficiente de Ocupación de Suelo Max. 0,4
+Coeficiente de Ocupación de
 
-Coeficiente Constructibilidad Máxima 1,8
+Suelo Máx. 0,4
+
+Coeficiente Constructibilidad
+
+Máxima 0,6
 
 Sistema de Agrupamiento Aislada
 
-Altura Máxima 17.50 mts (5 pisos)
+Altura Máxima 10.50 mts (2 pisos)
 
-Densidad Bruta Máxima 456 h/h
+Densidad bruta máxima 92 h/h
 
-Rasante y Distanciamiento 70º y 3 mts con/sin vano en 1º
-
-y 2º pisos.
+Rasante y Distanciamiento O. Gral. de U. y C.
 
 Adosamiento O. Gral. de U. y C.
+
+a.1.1.2) Edificar una altura máxima de 4 pisos (14 mts.) en sitios, existentes o fusionados, de superficie mínima 2.500 mts y con uso residencial exclusivo, bajo las siguientes condiciones:
+
+CONDICIONES DE SUBDIVISION Y EDIFICACION
+
+USO DE SUELO Residencial
+
+Superficie Predial Mínima 2.500 m2
+
+Frente Predial Mínimo 12 mts
+
+Antejardín Mínimo 5 mts
+
+Coeficiente de Ocupación de
+
+Suelo Máx. 0,25
+
+Coeficiente Constructibilidad
+
+Máxima 1,0
+
+Sistema de Agrupamiento Aislada
+
+Altura Máxima 14 mts (4 pisos)
+
+Densidad bruta máxima 304 h/h
+
+Rasante y Distanciamiento 60° y 6 mts
+
+Adosamiento No
 
 a.2) Equipamiento:
 
@@ -3386,9 +3374,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 900 m2
+Superficie Predial Mínima 900 m2
 
 Frente Predial Mínimo 18 mts
 
@@ -3412,13 +3398,295 @@ Rasante y Distanciamiento O. Gral. de U. y C.
 
 Adosamiento No
 
-a.2.2) ELIMINADO.
+a.2.2) Equipamiento de Circunvalación
+
+Se podrá construir equipamiento en los sitios que enfrentan la Circunvalación Vial formada por las
+
+siguientes vías: - - Camino Los Trapenses: tramo José Alcalde Délano - Valle de la Unión (N7) y tramo Valle de la Unión - Av. Paseo Pie Andino, este último tramo según lo graficado en el plano MPRC-LB-04. D.O. 25.05.2006
+
+- Av. Paseo Pie Andino, desde Camino Los Trapenses hasta calle El Rodeo.
+
+- El Rodeo, desde la Av. Paseo Pie Andino hasta José Alcalde Délano.
+
+- José Alcalde Délano, desde calle El Rodeo hasta Camino Los Trapenses.
+
+No podrán acogerse a los usos de suelo que más adelante se señalan los sitios que cumplan con las siguientes condiciones:
+
+- Se eximen de esta posibilidad aquellos sitios que, enfrentando la Circunvalación Vial indicada, se ubican en la vereda norte Avda. José Alcalde Délano entre el Estero Las Hualtatas y fondos de sitios de casas al poniente de la calle La Mañana y los sitios en la cuadra oriente de Camino Los Trapenses entre esquina Parque Las Pataguas a el límite norte del loteo Las Pataguas. El equipamiento permitido con frente a la Circunvalación Vial será de las siguientes clases y actividades, según los tramos que a continuación se indican:
+
+i) Camino Los Trapenses, tramo Valle de la Unión -
+
+Av. Paseo Pie Andino, según lo graficado en el plano MPRC-LB-04:
+
+Equipamiento
+
+Clase Actividad
+
+Educación Educación Media
+
+Educación Básica
+
+Jardines Infantiles
+
+Parvularios
+
+Culto Bibliotecas
+
+Cultura Salas de concierto
+
+Auditorios
+
+Teatros
+
+Casa de la Cultura
+
+Museos
+
+Social J. de Vecinos
+
+C. de Madres
+
+C. Sociales
+
+Seguridad Tenencias
+
+Retenes
+
+Bomberos
+
+Deportes Centros deportivos
+
+Piscinas
+
+Gimnasios
+
+Comercio (N4) Centros Comerciales
+
+Supermercados
+
+Locales comerciales
+
+Centros de Servicio Automotriz
+
+Locales de venta de combustibles
+
+líquidos Restaurantes
+
+Fuentes de soda
+
+Servicios (N4) Oficinas en general (abogados,
+
+dentistas, notarios, etc.)
+
+Bancos
+
+Correos
+
+Telégrafos
+
+Servicios de utilidad pública
+
+Lavanderías
+
+Peluquerías
+
+Costurerías y modas
+
+Servicios artesanales (reparación de
+
+objetos diversos)
+
+ii) Circunvalación Vial: Av. Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo; El Rodeo tramo Paseo Pie Andino - J.A. Délano; José Alcalde Délano tramo El Rodeo - Camino Los Trapenses, y Camino Los Trapenses, tramo José Alcalde Délano -
+
+Valle La Unión:
+
+El equipamiento permitido con frente a la Circunvalación Vial será de los siguientes tipos:
+
+Tipo Equipamiento
+
+Salud (N4) Clínicas
+
+Postas
+
+Consultorios
+
+Educación Universidades
+
+Liceos
+
+Academias
+
+Institutos
+
+Colegios
+
+Escuelas Básicas
+
+Jardines Infantiles
+
+Parvularios
+
+Culto Bibliotecas
+
+Cultura Salas de concierto
+
+Auditorios
+
+Teatros
+
+Casa de la Cultura
+
+Templos
+
+Parroquias
+
+Capillas
+
+Cines
+
+Museos
+
+Jardines botánicos
+
+Social J. de Vecinos
+
+C. de Madres
+
+C. Sociales
+
+Seguridad Comisarías
+
+Tenencias
+
+Retenes
+
+Bomberos
+
+Deportes Centros deportivos
+
+Piscinas
+
+Gimnasios
+
+Esparcimiento Juegos electrónicos
+
+Comercio (N4) Centros Comerciales
+
+Supermercados
+
+Grandes tiendas
+
+Locales comerciales
+
+Centros de servicio automotriz
+
+Locales de venta de combustibles
+
+líquidos
+
+Discotecas
+
+Restaurantes
+
+Hosterías
+
+Hoteles
+
+Fuentes de soda
+
+Servicios (N4) Municipio
+
+Oficinas en general, (abogados,
+
+dentistas, notarios, etc.)
+
+Bancos
+
+Correos
+
+Telégrafos
+
+Servicios de utilidad pública
+
+Lavanderías
+
+Peluquerías
+
+Gasfiterías
+
+Costurerías y modas
+
+Jardines de plantas
+
+Talleres menores Servicios artesanales CONDICIONES DE SUBDIVISION Y EDIFICACION
+
+USO DE SUELO EQUIPAMIENTO CIRCUNVALACION
+
+Superficie Predial Mínima 10.000 m2
+
+Frente Predial Mínimo 50 mts
+
+Antejardín Mínimo 5 mts
+
+Coeficiente de Ocupación
+
+de Suelo Máx. 0,6
+
+Coeficiente
+
+Constructibilidad Máxima 1,0
+
+Sistema de Agrupamiento Aislada
+
+Altura Máxima 20 mts (5 pisos)
+
+Rasante y Distanciamiento
+
+Con vivienda 45° y 17.50 mts
+
+Con equipamiento 60° y 7.50 mts
+
+Adosamiento sólo en
+
+deslinde con equipamiento O. Gral. de Urb.
+
+y Construcción
+
+Nota: Para efectos de aplicar rasante y distanciamiento en deslindes hacia sitios no construidos se considerará que éstos son de equipamiento hasta 100 mts medidos desde la línea oficial de la circunvalación.
+
+1.- La avenida de circunvalación vial definida en a.2.2) se encuentra identificada en el plano PRC-LB 1 Zonificación, con la demarcación de sus líneas oficiales.
+
+2.- Todo proyecto de loteo, subdivisión o urbanización y edificación en general que enfrente la Circunvalación Vial deberá relacionarse con ésta mediante calle de servicio separada de la principal por un bandejón de área verde de mínimo 2 mts de ancho.
+
+3.- Las construcciones destinadas a equipamiento no podrán disponer de accesos vehiculares y/o peatonales, por calles laterales o posteriores, debiendo en todos los casos respetar el antejardín de éstas y forestarlo. En el caso que se disponga de una vía lateral interior de salida hacia el frente del predio, se deberá impedir toda conexión con la vía residencial mediante un cierro y respetar el antejardín y forestarlo.
+
+4.- Los sitios que, enfrentando la Circunvalación Vial, no cumplan con la superficie ni el frente mínimo por estar limitados por vialidad y/o áreas verdes públicas, existentes o proyectadas en el instrumento de planificación comunal, podrán desarrollar proyectos de equipamiento si cumplen con las demás normas establecidas.
+
+5.- En los sitios de una o más hectáreas de superficie que enfrenten la Circunvalación Vial se podrá desarrollar proyectos de loteos y subdivisiones destinados a equipamientos, si el terreno total cumple con todas las normas establecidas y los sitios resultantes quedan destinados en forma exclusiva y permanente al uso de suelo de equipamiento según el cuadro del punto a.2.2) condición de subdivisión y edificación.
+
+6.- Igualmente, en un conjunto de sitios existentes, construidos, que alcancen una superficie total de una o más hectáreas y que enfrenten la Circunvalación Vial en no menos de 50 mts., se podrá desarrollar un proyecto total de equipamiento, empleando cambios de destino si fuere necesario, siempre que el proyecto total cumpla como conjunto con las normas generales establecidas.
+
+En este caso no será obligatoria la fusión de los sitios, pero cada uno de ellos quedará destinado en forma exclusiva y permanente al uso de suelo de equipamiento según el cuadro del punto a.2.2)
+
+7.- Los casos, establecidos en los puntos 4, 5 y 6 precedentes, podrán aplicarse simultáneamente y se regirán por las normas sobre subdivisión y edificación establecidas en el cuadro del punto a.2.2)
+
+8.- Queda expresamente prohibido en terrenos con uso de suelo residencial exclusivo, otros usos y actividades entre ellas, el desarrollo de actividades complementarias al uso de equipamiento tales como carga y descarga de materiales e insumos, disposición y acopio de materiales, insumos y residuos, patio de maniobras, instalación de elementos publicitarios y otros. Dichas actividades sólo podrán desarrollarse en sitios con uso de suelo equipamiento.
 
 a.3) Areas Verdes
 
 Todo proyecto de área verde deberá ser ejecutado por un profesional especialista y aceptado por la Dirección de Aseo y Ornato en forma previa a la autorización de la Dirección de Obras.
 
-a.4) Espacio Público (Artículo 2.1.30. , Capítulo 1, Título 2 OGUC)
+a.4) Actividades productivas
+
+Se permiten las actividades productivas clasificadas como inofensivas por el Servicio de Salud correspondiente y previa autorización del Director de Obras Municipal (OGUC Art. 2.1.28, inciso 2º).
+
+Sin perjuicio de las normas del artículo 4.14.2, capítulo 14 del título 4 de la OGUC las actividades productivas declaradas inofensivas se asimilarán a las disposiciones establecidas para Equipamiento, clases comercio o servicios, cuando se acredite que no producirán molestias al vecindario.
+
+a.5) Infraestructura
+
+Se permite el uso de terminales de locomoción colectiva urbana categoría B con hasta 30 vehículos usuarios y 4 estacionamientos.
+
+a.6) Espacio Público (Artículo 2.1.30. , Capítulo 1, Título 2 OGUC)
 
 b.) Usos Prohibidos
 
@@ -3432,9 +3700,7 @@ a.) Usos Permitidos.
 
 a.1) Residencial
 
-a.2) Areas Verdes
-
-a.3) Espacio Público
+a.2) Areas Verdes a.3) Espacio Público
 
 b.) Usos Prohibidos
 
@@ -3444,13 +3710,11 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO Residencial
 
-Superficie de Subdivisión
-
-Predial Mínima 4.000 m2
+Superficie predial mínima 4.000 m2
 
 Frente predial mínimo 30 mts
 
-Antejardín mínimo 5 mts
+Antejardín mínimo 15 mts
 
 Coeficiente de ocupación
 
@@ -3469,106 +3733,6 @@ Densidad bruta máxima 19 h/h
 Rasante y distanciamiento O. Gral de U. y C.
 
 Adosamientos No
-
-Zona L "Circunvalación Vial"
-
-CONDICIONES DE USO DE SUELO
-
-a.) Usos permitidos y restringidos
-
-a.1) Residencial
-
-a.2) Equipamiento:
-
-El equipamiento permitido en la Circunvalación Vial será de las siguientes clases y actividades, según los tramos que a continuación se indican:
-
-i) Camino Los Trapenses, tramo Valle de la Unión – Av. Paseo Pie Andino:
-
-.
-
-ii) Av. Paseo Pie Andino tramo Camino Los Trapenses – El Rodeo; El Rodeo tramo Paseo Pie Andino – J.A. Délano; José Alcalde Délano tramo El Rodeo – Camino Los Trapenses; y Camino Los Trapenses, tramo José Alcalde Délano – Valle La Unión:
-
-.
-
-La Zona L "Circunvalación Vial" se encuentra graficada en el plano MPRC-LB-18.
-
-a.3) Áreas verdes
-
-a.4) Actividades productivas
-
-Se permiten las actividades productivas clasificadas como inofensivas por el Servicio de Salud correspondiente.
-
-a.5) Infraestructura
-
-Se permiten los terminales de locomoción colectiva urbana categoría B con hasta 30 vehículos usuarios y 4 estacionamientos.
-
-a.6) Espacio Público
-
-b.) Usos de Suelo Prohibidos
-
-Todos aquellos que no estén expresamente permitidos o que no cumplan con las exigencias establecidas para los usos restringidos. En forma explícita se prohíben las plantas de tratamiento de aguas servidas.
-
-CONDICIONES DE SUBDIVISIÓN
-
-La superficie predial mínima establecida en el siguiente cuadro, es una norma urbanística aplicable solo a los procesos de urbanización del suelo, relativos a los casos en que se solicite la subdivisión, loteo o división afecta de un determinado predio.
-
-.
-
-CONDICIONES DE EDIFICACIÓN
-
-.
-
-Sub-zona L1 "Densificación Circunvalación Vial"
-
-Corresponde al subsector residencial exclusivo dentro de la Circunvalación Vial, graficado en el Plano MPRC-LB-18.
-
-CONDICIONES DE USO DE SUELO
-
-a.) Usos Permitidos
-
-a.1) Residencial
-
-CONDICIONES DE SUBDIVISIÓN
-
-.
-
-CONDICIONES DE EDIFICACIÓN
-
-.
-
-b.) Usos de Suelo Prohibidos
-
-Todos aquellos que no estén expresamente permitidos o que no cumplan con las exigencias establecidas para los usos restringidos. En forma explícita se prohíbe el uso de suelo equipamiento.
-
-Zona LL "Equipamiento de Culto"
-
-Esta zona está constituida por los sitios numerados del 1 al 6 en el listado que se incluye a continuación, los que se grafican en el plano MPRC-LB-20.
-
-EQUIPAMIENTO DE CULTO
-
-.
-
-CONDICIONES DE USO DE SUELO
-
-a.) Usos Permitidos y Restringidos
-
-a.1 Equipamiento:
-
-TIPO EQUIPAMIENTO
-
-Culto-Cultura Templos, santuarios, sinagogas, mezquitas, Museos,
-
-Bibliotecas
-
-ANota: Se permitirán todas aquellas actividades complementarias al destino culto-cultura.
-
-b.) Usos Prohibidos
-
-Todos aquellos que no estén expresamente permitidos.
-
-CONDICIONES DE EDIFICACIÓN
-
-.
 
 ZONA M "AVDA. LA DEHESA"
 
@@ -3604,7 +3768,7 @@ Jardines Infantiles
 
 Parvularios
 
-Culto (N8) Museos
+Culto Museos
 
 Cultura Jardines Botánicos
 
@@ -3646,9 +3810,9 @@ Piscinas
 
 Gimnasios
 
-Esparcimiento Juegos electrónicos
+Esparcimiento (N4) Juegos electrónicos
 
-Comercio Centros Comerciales
+Comercio (N4) Centros Comerciales
 
 Supermercados
 
@@ -3670,7 +3834,7 @@ Fuentes de soda
 
 Salón de té
 
-Servicios Municipios
+Servicios (N4) Municipios
 
 Telégrafos
 
@@ -3708,9 +3872,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 2000 m2 2.500 m2
+Superficie predial mínima 2000 m2 2.500 m2
 
 Frente predial mínimo 40 mts 40 mts
 
@@ -3743,8 +3905,6 @@ U. y C. 60º y 10 mts
 Adosamientos O.G. de O.G. de
 
 U. y C. U. y C.
-
-1.- Aquellos terrenos que, por sus condiciones especiales, estén imposibilitados de cumplir con el tamaño mínimo predial, por estar limitados por vialidad o áreas verdes públicas o privadas, o estar rodeado por sitios consolidados con densificación, la superficie predial mínima será de 1.200 m² para todos los usos
 
 Todo loteo , subdivisión, urbanización y/o edificación
 
@@ -3818,9 +3978,7 @@ CONDICIONES DE SUBDIVISION Y EDIFICACION
 
 USO DE SUELO RESIDENCIAL EQUIPAMIENTO
 
-Superficie de Subdivisión
-
-Predial Mínima 2.500 m2 2.500 m2
+Superficie predial mínima 2.500 m2 2.500 m2
 
 Frente predial mínimo 40 mts 40 mts
 
@@ -3854,64 +4012,22 @@ Adosamientos O. Gral. de O. Gral.
 
 U. y C. de U. y C.
 
-## Título X — PROPAGANDA Y PUBLICIDAD
-
-CAPÍTULO I: DE LA PUBLICIDAD EN ESPACIO PÚBLICO
-
-#### Artículo 56º
-
-Los soportes de carteles publicitarios estarán permitidos en el espacio de uso público destinado a vialidad, debiendo dar cumplimiento a toda la normativa vigente aplicable. Se deberá obtener el VºBº del Servicio de Vivienda y Urbanismo Metropolitano para los permisos de soportes publicitarios dentro de la faja de vialidad, excepto para las vías declaradas como caminos públicos en la comuna.
-
-#### Artículo 57º
-
-De conformidad al Artículo 38º del DFL Nº 850/1998, queda prohibida la instalación de publicidad en el espacio destinado a Caminos Públicos. La instalación de soportes de carteles publicitarios en las fajas adyacentes a los caminos públicos, deberá ser autorizada por el Director de Vialidad del Ministerio de Obras Públicas de la Región Metropolitana.
-
-#### Artículo 58º
-
-Las instalaciones publicitarias no podrán en caso alguno obstruir la visión en cruce de calles y de la señalización de tránsito, fijas o dinámicas, ni obstaculizar o dificultar el funcionamiento de paradas de locomoción colectiva como también el normal y seguro desplazamiento de peatones.
-
-CAPÍTULO II: DE LA PUBLICIDAD EN ESPACIO PRIVADO
-
-#### Artículo 59º
-
-Se permitirán instalaciones publicitarias en propiedad privada que puedan ser vistas u oídas desde el espacio público sólo en las siguientes ocasiones:
-
-a) Elementos publicitarios provisorios:
-
-Se permitirá la instalación provisoria de elementos publicitarios referidos a proyectos aprobados en permisos de edificación otorgados por la Dirección de Obras Municipales y sólo mientras dure la ejecución de las obras.
-
-b) Elementos publicitarios en sitios eriazos:
-
-Queda expresamente prohibida la instalación de cualquier tipo de publicidad en sitios eriazos, con excepción de elementos publicitarios referidos a la venta o arriendo del terreno, el que se considera provisorio.
-
-Queda expresamente prohibido todo lo no señalado en este artículo.
-
 Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo Sagues López, Ministro de Fe, Secretario Abogado Municipal.
 
 > **Nota.** El DTO 1544, M. de Lo Barnechea, publicado el 22.10.2003, modifica el presente artículo, en el sentido de aumentar en un 20%, el coeficiente de constructibilidad máxima del cuadro de Condiciones de Subdivisión y Edificación de la Zona J "La Dehesa", es decir, de 0.35 a 0.42; según se establece en el texto de la Memoria Explicativa y Ordenanza, elaborados por la citada Municipalidad.
+
+> **Nota.** NOTA 1 El Art. 2º del DTO 1546, M. de Lo Barnechea, publicado el 25.11.2004, modificó el cuadro contenido en la letra c. del artículo 11 de la presente norma, la que por restricciones técnicas temporales no ha podido ser incorporada en este texto actualizado.
+
+> **Nota.** NOTA 2 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro contenido en la letra c. del artículo 11 de la presente norma, la que por restricciones técnicas temporales no ha podido ser incorporada en este texto actualizado.NOTA 2 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de estacionamiento para equipamiento del artículo 20 de la presente norma, en la forma que en el se señala.
 
 > **Nota.** NOTA 3 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de Condiciones de Subdivisión y Edificación del artículo 55, en el sentido de eliminar de todas las zonas (A,B,C, D,F,G,H,I,J,K,M,N Y O), la exigencia de Frente predial mínimo.
 
 > **Nota.** NOTA 4 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de Condiciones de Subdivisión y Edificación del artículo 55, Punto a.2.2) de la zona J, reemplazándolo por uno nuevo, el cual no ha sido ingresado por restricciones técnicas temporales.
 
-> **Nota.** NOTA 5 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de condiciones de Subdivisión y Edificación, contenido en la Zona O Parque Praguer en el artículo 55º del Título IX Zonificación, Usos de Suelo y Normas Específicas, la altura de edificación máxima permitida en pisos, el cual no ha sido ingresado por restricciones técnicas temporales.
+> **Nota.** NOTA 5: El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de condiciones de Subdivisión y Edificación, contenido en la Zona O Parque Praguer en el artículo 55º del Título IX Zonificación, Usos de Suelo y Normas Específicas, la altura de edificación máxima permitida en pisos, el cual no ha sido ingresado por restricciones técnicas temporales.
 
-> **Nota.** NOTA 6 El DTO 1091, M. de lo Barnechea, publicado el 21.06.2005, da por subsanada la omisión del requisito de forma que indica en la modificación a este plano contenida en el DTO 1544, publicado el 22.01.2003, señalando que a partir de su fecha de publicación regirá íntegramente dicha modificación.
+> **Nota.** NOTA 6: El DTO 1091, M. de lo Barnechea, publicado el 21.06.2005, da por subsanada la omisión del requisito de forma que indica en la modificación a este plano contenida en el DTO 1544, publicado el 22.01.2003, señalando que a partir de su fecha de publicación regirá íntegramente dicha modificación.
 
-> **Nota.** NOTA 8 El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
+> **Nota.** NOTA 7: El artículo 2º del DTO 649, M. de lo Barnechea, publicado el 04.04.2006, modifica el cuadro de la Red Vial Local contenido en este artículo. Dicha modificación no ha sido incorporada al presente texto actualizado por restriccionestécnicas temporales.
 
-> **Nota.** NOTA 9 La letra C) del Artículo Único del Nº 1 del Decreto 998, Municipalidad de Lo Barnechea, publicado el 09.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años las declaratorias de utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro del artículo 11º.
-
-> **Nota.** NOTA 10 La letra b) del artículo 2° del Decreto 314, M. de Lo Barnechea, publicado el 26.01.2013, reemplaza en el cuadro "Sistema Vial Comunal" del presente artículo las filas correspondientes a las vías L14 Comandante Malbec y L28 Robles, por las indicadas en la citada norma.
-
-> **Nota.** NOTA 11 La letra c) del artículo único del Decreto 912, Municipalidad de Lo Barnechea, publicado el 06.03.2013, modifica la presente norma en el sentido de suprimir el numeral 3 del punto a.2.2) de la Zona J. Sin embargo, el referido punto a.2.2 ha sido eliminado con anterioridad.
-
-> **Nota.** NOTA 12 La letra a) del artículo 2° del Decreto 6789, Municipalidad de Lo Barnechea, publicado el 22.12.2013, modifica la presente norma en el sentido de incorporar el plano MPRC-LB-17, que precisa el límite de aplicación de la Zona J "La Dehesa" y modificar la lámina 7 del Plano PRC-LB-1 "Zonificación" del Plan Regulador Comunal de Lo Barnechea.
-
-> **Nota.** NOTA 13 La letra a) del artículo único del Decreto 5655, Municipalidad de Lo Barnechea, publicado el 01.10.2015, modifica la presente norma en el sentido de reemplazar las filas del artículo 20, indicadas en la citada norma.
-
-> **Nota.** NOTA 14 La letra a) del artículo único del Decreto 5794, Municipalidad de Lo Barnechea, publicado el 03.10.2015, modifica el polígono de la última fila, descrito en el cuadro bajo el título "Equipamiento de Educación" para el establecimiento Nº VIII, en el sentido que, donde dice "36-37-38-39-40-41-42-43-44-45-46-39" debe decir "36-37-38-39-40-41-42-43-36".
-
-> **Nota.** NOTA 15 La letra a) del Artículo Único del Decreto 1614, Municipalidad de Lo Barnechea, publicado el 13.05.2016, modifica el cuadro inserto en el articulo 11 del presente anexo de la manera que el citado Decreto indica.
-
-> **Nota.** NOTA 16 El artículo segundo del numeral 1° del Decreto 537, Municipalidad de lo Barnechea , publicado el 30.08.2018, modifica la Ordenanza Local del Plan Regulador Comunal de Lo Barnechea de la manera que la citada norma indica.
+> **Nota.** NOTA 8: El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
