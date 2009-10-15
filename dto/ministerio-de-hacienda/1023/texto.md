@@ -1,0 +1,13 @@
+NOMBRA INTEGRANTES QUE INDICA EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE RANCAGUA
+
+Núm. 1.023.- Santiago, 31 de agosto de 2009.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; el oficio Ord. DAV6.00 - Nº 4, de 14 de agosto de 2009, de la Secretaría del Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie No Agrícola, con jurisdicción en territorio de la Ilustrísima Corte de Apelaciones de Rancagua; oficio Nº1194-09/Pres. de la Presidencia de la Ilustrísima Corte de Apelaciones de Rancagua, de 13 de agosto de 2009; oficio Nº1146-08/PL, de 10 de octubre de 2008, de la misma Corte, conteniendo el acuerdo de pleno del día 7 del mismo mes y año, de igual Tribunal; el Nº 25 del numeral VI del artículo primero del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600, de 30 de octubre 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República,
+
+Decreto:
+
+1º.- Déjase sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua, la designación recaída en el Ministro señor Ricardo de Dios Pairicán García, RUT Nº 8.113.508-8, como Presidente Titular de dicho Tribunal, efectuada por decreto supremo Nº660, de 5 de junio de 2009, de esta Secretaría de Estado, publicado en el Diario Oficial de fecha 30 de julio del mismo año, y nómbrase en su reemplazo al Ministro señor Miguel Eduardo Vázquez Plaza, RUT Nº 6.578.323-1.
+
+2º.- Déjase sin efecto, además, en el Tribunal Especial de Alzada de los Bienes Raíces de Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua, la designación recaída en el Ministro señor Miguel Eduardo Vázquez Plaza, RUT Nº 6.578.323-1, como Presidente Titular de dicho Tribunal, efectuada por decreto supremo Nº 660, de 5 de junio de 2009, de esta Secretaría de Estado, publicado en el Diario Oficial de fecha 30 de julio del mismo año, y nómbrase en su reemplazo al Ministro señor Ricardo de Dios Pairicán García, RUT Nº 8.113.508-8.
+
+Tómese razón, regístrese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
