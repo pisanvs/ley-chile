@@ -1,0 +1,21 @@
+DEJA SIN EFECTO RESOLUCIONES QUE INDICA
+
+Núm. 3.349 exenta.- Valparaíso, 7 de octubre de 2009.- Visto: Lo informado por la División de Administración Pesquera de esta Subsecretaría mediante Memorándum (URB) Nº107, de fecha 17 de septiembre de 2009; la Ley General de Pesca y Acuicultura Nº 18.892 y sus modificaciones, cuyo texto refundido, coordinado y sistematizado fue fijado por el DS Nº430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; la ley Nº 19.492, la ley Nº 19.880; los DS Nº 355 de 1995, Nº 572 de 2000 y Nº 253 de 2002 y los decretos exentos Nº 509 de 1997, Nº 207 de 2002 y Nº 193 de 2003, todos del Ministerio de Economía, Fomento y Reconstrucción; las resoluciones Nº 2.119 de 1999, Nº 1.902 de 2000, Nº 534 y Nº 2.367, ambas de 2002, Nº 2.815 de 2003, Nº 96 y Nº 3.298, ambas de 2005, todas de esta Subsecretaría.
+
+Considerando:
+
+Que mediante la resolución Nº 3.298 de 2005, de esta Subsecretaría, se aprobó el quinto informe de seguimiento para el área de manejo denominada Maitencillo, IV Región, presentada por la Asociación Gremial de Pescadores Artesanales de Caleta Maitencillo, comuna de Canela, provincia de Choapa, IV Región, y en ella se estableció para su titular la obligación de entregar el sexto informe de seguimiento del área solicitada hasta el 31 de julio del año 2006.
+
+Que según lo informado por la División de Administración Pesquera de esta Subsecretaría mediante Memorándum citado en Visto, la organización no ha hecho ingreso del sexto informe de seguimiento del área solicitada.
+
+Que el artículo 16 letra g) del DS Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción, ordena dejar sin efecto la resolución que autoriza la realización del proyecto de manejo y explotación del área, así como la que aprueba la propuesta del estudio de situación base del área de manejo y las resoluciones que aprueban los informes anuales de seguimiento, en el caso que su titular no cumpla por tres años consecutivos con la entrega del informe de seguimiento respectivo.
+
+Resuelvo:
+
+1.- Déjanse sin efecto las resoluciones Nº 2.119 de 1999, Nº 1.902 de 2000, Nº 534 y Nº2.367, ambas de 2002, Nº 2.815 de 2003, Nº 96 y Nº 3.298, ambas de 2005, todas de esta Subsecretaría, en virtud de las cuales se aprobó respectivamente, la proposición del estudio de situación base, el proyecto de manejo y explotación, el primer, segundo, tercer, cuarto y quinto informe de seguimiento para el área de manejo denominada Maitencillo IV Región, establecida en el artículo 1º Nº 18 del decreto exento Nº 509 de 1997, modificado por los decretos exentos Nº 207, de 2002 y Nº 193 de 2003, todos del Ministerio de Economía, Fomento y Reconstrucción, presentado por la Asociación Gremial de Pescadores Artesanales de Caleta Maitencillo, comuna de Canela, provincia de Choapa, IV Región, inscrito en el Registro Nacional de Pescadores Artesanales con el Nº 238, de fecha 11 de agosto de 1998, domiciliado en Caleta Maitencillo S/Nº, comuna de Canela, IV Región, de conformidad con lo dispuesto en la parte considerativa de la presente resolución y a lo establecido en el artículo 16, letra g) del DS Nº355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+2.- La presente resolución podrá ser impugnada por la interposición del recurso de reposición contemplado en el artículo 59 de la ley 19.880, ante esta misma Subsecretaría y dentro del plazo de 5 días hábiles contados desde la respectiva notificación, sin perjuicio de la aclaración del acto dispuesta en el artículo 62 del citado cuerpo legal y de las demás acciones y recursos que la solicitante estime pertinentes.
+
+3.- Transcríbase copia de esta resolución al Servicio Nacional de Pesca, con el objeto que deje sin efecto el convenio de uso del área de manejo antes individualizada y a la Dirección General del Territorio Marítimo y de Marina Mercante.
+
+Anótese, notifíquese por carta certificada al interesado y publíquese por cuenta de esta Subsecretaría.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
