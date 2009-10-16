@@ -1,0 +1,7 @@
+DERECHOS DE AGUAS EN COMUNA DE CHIMBARONGO
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 5.483, del 17 de septiembre de 2009, conforme artículo 5º transitorio Código Aguas, dejó sin efecto resolución Nº 3.974, de 20 de julio de 2009, y complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 349, de fecha 25 de marzo de 1987, que aprobó el Estudio Técnico de División de Derechos de Aprovechamiento de Aguas de los predios "Hijuela Oriente o del Cerro del Fundo Santa Isabel" y "Resto del Predio Santa Isabel, antes Hijuela Tercera del Fundo Santa Isabel, denominado también Hijuela El Martillo" y de parte del Proyecto de Parcelación "Santa Isabel", ubicado en la Comuna de Chimbarongo, Región del Libertador Bernardo O’Higgins, en el sentido de distribuir los derechos de aprovechamiento de aguas del canal Común, derivado del río Tinguiririca, en unidad de volumen por unidad de tiempo, entre las propiedades que formaron parte del predio "Hijuela Segunda de Santa Isabel", que son integrantes del proyecto de parcelación mencionado, además de los derechos de adquisición, estableciendo la ubicación de la bocatoma del canal y que dichos derechos son superficiales y corrientes, consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.
+
+Director Nacional.
