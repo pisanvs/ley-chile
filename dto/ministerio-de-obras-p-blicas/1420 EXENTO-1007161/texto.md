@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1420, de 31 de agosto de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral sexto del Decreto Exento Nº1119, de 29 de octubre de 2008, en cuanto a que el monto de la indemnización referente a la expropiación de los lotes de terreno Nºs 1 y 3, debe imputarse a la CUENTA DE APORTE 2140501, RUT 85.306.000-3 Crr 3 DE LA DIRECCION DE VIALIDAD. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
