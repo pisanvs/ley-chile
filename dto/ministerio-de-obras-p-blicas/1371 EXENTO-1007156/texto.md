@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1371, de 31 de agosto de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral segundo del Decreto Exento Nº881, de 16 de junio de 2009, en la parte que se refiere a la individualización del propietario de los lotes de terreno Nºs 157-A, 158-A y 159-A, el cual es SUC. BALCAZAR IGOR MANUEL. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
