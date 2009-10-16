@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1311, de 31 de agosto de 2009, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento Nº520, de 31 de marzo de 2009, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº4-A, con motivo de la obra: "Construcción Variante, Cruce sector Ruta D-37-F (Limahuida) - Cruce Ruta D-81 (Peralillo), Km. 0,00000 a Km. 6,17679". Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 28 de agosto de 2008, ascendente a la cantidad de $340.500.
+
+Fiscal del Ministerio de Obras Públicas.
