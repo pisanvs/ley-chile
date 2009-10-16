@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1374, de 31 de agosto de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 3, para la obra "Construcción Puentes Pichi Río Negro y Río Blanco", Comuna de Puerto Octay, Provincia de Osorno, Xª Región, que figura a nombre de AGR FOREST Y GANADERA LOS ULMO, rol de avalúo 162-79, superficie 6.532,56 M2. La Comisión de Peritos, fijó con fecha 15 de julio de 2001, en la cantidad de $3.266.280. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
