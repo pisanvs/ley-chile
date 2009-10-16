@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1503, de 21 de septiembre de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral sexto del Decreto Exento Nº881, de 5 de noviembre de 2008, en cuanto a que el monto de la indemnización referente a la expropiación del lote de terreno Nº2, debe imputarse a la CUENTA DE APORTE 2140501, RUT 85.306.000-3 Crr 3 DE LA DIRECCION DE VIALIDAD. La publicación
+
+Fiscal del Ministerio de Obras Públicas.
