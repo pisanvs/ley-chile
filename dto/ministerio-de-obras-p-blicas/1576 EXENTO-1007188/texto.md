@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1576 de fecha 30 de septiembre de 2009, se expropió el lote de terreno Nº 13, superficie 6.820 m2, rol Nº 183-1, comuna de Quilicura, para la obra "Mejoramiento del Cauce del Estero Las Cruces", Comunas de Quilicura y Pudahuel, Provincia de Santiago, Región Metropolitana y se acordó el valor de la indemnización con su propietario BANCO DEL DESARROLLO, ascendente a la cantidad de $286.976.000.
+
+Fiscal del Ministerio de Obras Públicas.
