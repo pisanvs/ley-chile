@@ -1,0 +1,3 @@
+DEROGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SALMOFOOD S. A.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 390 de fecha 29 de enero de 2009, deroga a contar del 1º del mes siguiente de esta publicación, al contribuyente Salmofood S.A., RUT 96.677.260-3, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la Adquisición de Especies Hidrobiológicas, establecido en la resolución exenta Nº 3.311 del 30 de junio del 2000, de la Dirección Nacional del SII.
