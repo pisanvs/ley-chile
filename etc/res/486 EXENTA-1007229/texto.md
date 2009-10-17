@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZOS PARA INICIO DE OPERACIONES DEL CASINO DE JUEGO Y CUMPLIMIENTO DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA CASINO DE JUEGOS COYHAIQUE S.A. EN COMUNA DE COYHAIQUE
+
+Por resolución exenta Nº486, de 9 de octubre de 2009, Superintendencia de Casinos de Juego concedió prórroga de plazos solicitada por sociedad operadora Casino de Juegos Coyhaique S.A. tanto para inicio de operaciones del casino de juegos como para desarrollo de obras e instalaciones del proyecto integral autorizado en comuna de Coyhaique. En virtud de prórrogas concedidas, plazos de 24 meses para inicio operaciones del casino de juegos y desarrollo de obras e instalaciones que comprenden proyecto integral, contemplados en resolución exenta Nº279, de 20 de agosto de 2008, que le otorgó permiso de operación para casino de juego en dicha comuna, se extenderán hasta 32 meses, respectivamente, es decir, hasta 8 de mayo de 2011.
+
+Santiago, 9 de octubre de 2009.- Superintendente de Casinos de Juego.
