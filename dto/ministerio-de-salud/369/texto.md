@@ -8,8 +8,6 @@ Decreto:
 
 Apruébase el siguiente Reglamento del Régimen de Prestaciones de Salud:
 
-> **Nota.** El artículo 30 del Decreto 34, Salud, publicado el 25.10.2022, que aprueba el reglamento sobre condiciones clínicas generales y circunstancias para certificar estado de emergencia o urgencia en paciente adulto, recién nacido y pediátrico, deroga el presente decreto en lo que resulte incompatible con las disposiciones de la citada norma.
-
 I.- DISPOSICIONES GENERALES
 
 #### Artículo 1°
