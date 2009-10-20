@@ -60,8 +60,6 @@ Total País 2.724.109,0
 
 6º.- Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El Nº 1 de la Resolución 7831 Exenta, Vivienda, publicada el 10.11.2009, modifica la presente norma en el sentido de reemplazar la tabla inserta en el Nº 4 por la que en ella se incluye.
-
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
