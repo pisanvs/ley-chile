@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.766, de 04/09/2009, modificó DS (M) 476/1992, modificado por Res. (M) Nº 1.374/1997, de la siguiente forma: Ubicación: Establecimiento 2: Canal Lemuy, Sector Caleta Puqueldón, Isla Lemuy, comuna de Puqueldón, provincia de Chiloé, X Región de Los Lagos, Superficie 27,28 Hás.; coordenadas geográficas referidas a Carta SHOA Nº 7370, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°35'29,08"S. Long. 73°40'32,98"W. Vértice B Lat. 42°35'28,74"S. Long. 73°40'03,20"W. Vértice C Lat. 42°35'35,22"S. Long. 73°40'03,07"W. Vértice D Lat. 42°35'35,56"S. Long. 73°40'32,84"W. Vértice E Lat. 42°35'29,13"S. Long. 73°40'32,98"W. Vértice F Lat. 42°35'32,20"S. Long. 73°41'14,55"W. Vértice G Lat. 42°35'35,39"S. Long. 73°41'14,49"W. Vértice H Lat. 42°35'35,73"S. Long. 73°41'44,26"W. Vértice I Lat. 42°35'29,25"S. Long. 73°41'44,40"W. Vértice J Lat. 42°35'28,91"S. Long. 73°41'14,63"W. Vértice K Lat. 42°35'32,15"S. Long. 73°41'14,56"W.
+
+Santiago, 14 de octubre de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
