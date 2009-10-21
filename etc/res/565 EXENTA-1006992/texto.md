@@ -34,7 +34,7 @@ En uso de mis facultades legales:
 
 I. Ordénese el retiro de cercos, eliminación de trazados y desalojo de todo tipo de edificación y/o construcción del sector denominado Las Piscinas, ubicado entre los Kms. 942 y 945 camino interno C-4, provincia de Chañaral, Región de Atacama.
 
-En caso de no cumplir con lo ordenado, se actuará debida y seguidamente al vencimiento del plazo otorgado, con el auxilio de la fuerza pública, si fuere necesario y/o hubiere oposición de los actuales ocupantes, a fin de obtener la desocupación total del inmueble.
+En caso de no cumplir con lo ordenado dentro de tercero día desde la publicación de la presente resolución, se actuará debida y seguidamente al vencimiento del plazo otorgado con el auxilio de la fuerza pública si fuere necesario y/o si hubiere oposición de los actuales ocupantes, a fin de obtener la desocupación total del inmueble.
 
 II. Publíquese la presente resolución en el Diario Oficial y en un diario de circulación regional, para los efectos de lo resuelto en el numeral anterior.
 
