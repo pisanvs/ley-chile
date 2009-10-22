@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.426, de 15 de octubre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206105029 presentada por SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES, AYUDANTES Y RAMOS SIMILARES "ESTERO EL DIQUE" de Cayucan, comuna de Ancud, para instalar y operar un centro de cultivo ubicado en estero Quetalmahue, sector estero del Dique, X Región.
+
+Valparaíso, 15 de octubre de 2009.- Jorge Chocair Santibañez, Subsecretario de Pesca.
