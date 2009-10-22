@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.425, de 15 de octubre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 207106022 presentada por SALMONES CAILIN S.A., para el centro cultivo ubicado en Isla Laitec, al norte de Punta Lili, X Región, otorgado por resolución Nº 1.011 de 1998 de la Subsecretaría de Marina.
+
+Valparaíso, 15 de octubre de 2009.- Jorge Chocair Santibañez, Subsecretario de Pesca.
