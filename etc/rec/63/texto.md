@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.488, de 17 de octubre de 2009, se publicó extracto de resolución Nº 5.220 exenta, de 2009, con los errores que se salvan a continuación: en el sumario, primera columna y página siete, segunda columna, donde dice "... Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes ..." debe decir "... Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Telecomunicaciones ...".
