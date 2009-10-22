@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.190, de 22 de septiembre de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº2.595 de 2009, modificada mediante resoluciones exentas Nº 2.739 y Nº 2.787, ambas de 2009, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación Pesquerías Demersales y Pelágicas de Merluza del sur, Congrio dorado, Raya y Reineta; Magallanes y Antártica Chilena", en el sentido de incorporar el siguiente numeral 9 bis:
+
+"9º bis. Asimismo, para efectos de la presente pesca de investigación, autorízase una cuota de captura ascendente a 30 toneladas del recurso Congrio dorado a ser extraída en el área de aguas interiores de la XII Región y Antártica Chilena.
+
+Las capturas de Congrio dorado, extraídas en calidad de especie objetivo o de fauna acompañante, se imputarán a la reserva de investigación de la cuota global anual de captura establecida para esta especie mediante decreto exento Nº 1.675 de 2008 del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 22 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
