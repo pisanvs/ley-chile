@@ -30,19 +30,19 @@ Nº Chassis : JN1CPGD22Z0744774
 
 R.N.V.M. : ZW 7448-8
 
-b) Vehículo : Mini Bus
+b) Vehículo : Minibús
 
-Marca : Ford
+Marca : Hyundai
 
-Modelo : E-350; 5.8; AT
+Modelo : New H-1 MB GLS 2.5 4x2
 
-Año Fabricación : 1993
+Año fabricación : 2009
 
-Nº Motor : 77137
+Nºmotor : D2BH9003799
 
-Nº Chassis : 1FBJS31H9PHB77137
+Nºchasis : KMJWAH7HP9U143589
 
-R.N.V.M. : UN 8352-5
+R.N.V.M. : BWKL.49-5
 
 2.- El Departamento de Administración y Finanzas de la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt), deberá coordinar, supervisar y autorizar el uso y disposición de los vehículos señalados precedentemente manteniendo una nómina actualizada de los choferes designados para la conducción.
 
