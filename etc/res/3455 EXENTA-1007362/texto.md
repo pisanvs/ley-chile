@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.455, de 16 de octubre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº207122421 presentada por ACUÍCOLA COMERCIAL E INDUSTRIAL AQUASAL LIMITADA, para instalar y operar un centro de cultivo ubicado en Seno Sin Nombre, al este de Isla Manuel Rodríguez, sector 2, XII Región.
+
+Valparaíso, 16 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
