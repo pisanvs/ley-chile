@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.381, de 13 de octubre de 2009, de esta Subsecretaría, autorízase a SOCIEDAD DE INVERSIONES CABOMA LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Guacolda S/Nº, Tirúa, VIII Región, para elaborar en las líneas de Cocido, Fresco enfriado, Congelado, Seco Salado, Salado Húmedo, Ahumado, Conserva, Alga seca, Deshidratado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 13 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
