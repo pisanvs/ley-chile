@@ -38,6 +38,8 @@ Los valores antes señalados se reajustarán cada seis meses según variación d
 
 Los valores por los costos directos de reproducción deberán ser pagados directamente al Departamento de Bienes y Servicios del Ministerio Secretaría General de la Presidencia, el que entregará un comprobante de pago al solicitante.
 
+Sin perjuicio de lo anterior, los valores por los costos directos de reproducción que deban pagar los solicitantes de acceso a la información domiciliados fuera de la Región Metropolitana, podrán ser pagados mediante depósito bancario en la cuenta corriente que al efecto señalará el Ministerio Secretaría General de la Presidencia en el respectivo oficio de respuesta.
+
 Déjase constancia que, de acuerdo a lo dispuesto en el artículo 18 del Artículo Primero de la ley Nº 20.285 y en el artículo 13 del D.S. Nº 13, de 2009, del Ministerio Secretaría General de la Presidencia, la obligación de esta Secretaría de Estado de entregar la información solicitada se suspende en tanto el interesado no cancele los valores que fija el presente decreto.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, José Antonio Viera-Gallo Quesney, Ministro Secretario General de la Presidencia.
