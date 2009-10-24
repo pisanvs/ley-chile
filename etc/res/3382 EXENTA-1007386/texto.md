@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.382, de 13 de octubre de 2009, de esta Subsecretaría, autorízase a PATRICIA MELLA Y COMPAÑÍA LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Caleta Constitución, Isla Santa María, Antofagasta, II Región, para elaborar en línea Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 13 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
