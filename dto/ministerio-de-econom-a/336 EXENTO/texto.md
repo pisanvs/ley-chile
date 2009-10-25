@@ -68,17 +68,17 @@ D 45º20'22,40" 073º43'10,40"
 
 4) En el sector denominado Islote Queulat, un área inscrita en la figura irregular, cuyos vértices tienen las siguientes coordenadas:
 
-(CARTA SHOA Nº8500; ESC. 1:80.000; 1ª ED. 1949)
+(DATUM WGS-84)
 
-Vértices Latitud S. Longitud W.
+Puntos Latitud Longitud
 
-A 44º29'27,00" 072º36'15,00"
+A 44°29’27.01" 072°36’21.75"
 
-B 44º29'22,00" 072º36'46,00"
+B 44°29’31.61" 072°35’51.05"
 
-C 44º30'09,00" 072º37'03,00"
+C 44°30’14.12" 072°36’11.62"
 
-D 44º30'11,00" 072º36'37,00"
+D 44°30’11.87" 072°36’37.97"
 
 5) En el sector denominado Canal Yacaf, un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas son las siguientes:
 
