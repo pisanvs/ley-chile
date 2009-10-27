@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.460, de 16 de octubre de 2009, de esta Subsecretaría, autorízase a JUAN ENRIQUE ARACENA TAPIA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Avenida Héroes de la Concepción Nº 12375, Lote Nº 1, Manzana 14, La Chimba, Antofagasta, II Región, para elaborar en línea Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 16 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
