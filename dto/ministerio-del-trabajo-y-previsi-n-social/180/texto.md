@@ -76,7 +76,7 @@ b) con las sumas que anualmente se consulten en el presupuesto de la Institució
 
 c) con el aporte mensual de los afiliados en servicio activo, de hasta el 2% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo;
 
-d) con el aporte mensual de los afiliados jubilados, de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte institucional, porcentaje que fijará anualmente el Consejo.
+d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, porcentaje que fijará anualmente el Consejo, más la cantidad correspondiente al aporte institucional que podrá ser entre el 20% y el 100%, de acuerdo a lo que anualmente fije el Consejo.
 
 e) con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
