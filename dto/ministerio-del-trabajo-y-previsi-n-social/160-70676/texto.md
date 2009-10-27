@@ -106,9 +106,9 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 También se otorgará una ayuda para adquisición de nicho-bóveda al funcionario afiliado que careciere de él y a sus cargas familiares reconocidas, una vez acreditado el deceso de la persona.
 
-d) Educación: El Servicio concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+d) Educación: El Servicio concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas familiares que realicen regularmente estudios de enseñanza básica, media, técnica y superior en algún establecimiento educacional del Estado, o reconocido por éste. Asimismo, el servicio concederá, además, una bonificación para calzado escolar a las cargas familiares del afiliado que realicen estudios de enseñanza básica.
 
-e) Becas de estudio: El Servicio, siempre que su disponibilidad presupuestaria lo permita, podrá otorgar becas de estudio a los afiliados y a sus cargas familiares, que cursen Enseñanza Superior cuando su situación socio-económica y/o rendimiento académico lo amerite.
+e) Becas de estudio: El Servicio, siempre que su disponibilidad presupuestaria lo permita, podrá otorgar becas de estudio a los afiliados y a sus cargas familiares que cursen enseñaza básica, media, técnica y superior en establecimientos educacionales del Estado, o reconocidos por éste, cuando su situación socioeconómica y/o rendimiento académico lo amerite.
 
 f) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificado como tal por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el art. 15º del Reglamento General o artículo 8º del presente Reglamento.
 
@@ -192,7 +192,7 @@ b) Con los aportes que anualmente se consulten en el presupuesto de la Instituci
 
 c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;
 
-d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte institucional;
+d) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más el porcentaje del aporte institucional, suma que de acuerdo a la disponibilidad financiera, fijará anualmente el Consejo Administrativo de Bienestar y que en ningún caso podrá ser inferior al 50% ni superior al 100%;
 
 e) Con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
