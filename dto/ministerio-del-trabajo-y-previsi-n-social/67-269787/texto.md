@@ -56,9 +56,11 @@ d) Con los intereses de los préstamos que el Servicio otorgue a sus afiliados.
 
 e) Con las comisiones o bonificaciones provenientes de los convenios que el Servicio celebre con empresas industriales, comerciales, de servicios u otros necesarios para el funcionamiento y cumplimiento de sus fines.
 
-f) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias, y
+f) Con las sumas de dinero provenientes de herencias, legados, donaciones y erogaciones voluntarias.
 
 g) Con los bienes y recursos que el Servicio obtenga a cualquier título.
+
+h) Con las sumas de dinero provenientes de la realización de actividades tales como rifas, sorteos y bingos; actividades que sólo podrán llevarse a efecto previa autorización del Sr. Ministro del Interior o del Sr. Intendente de la Región Metropolitana de Santiago, según corresponda de acuerdo a la normativa vigente.
 
 Los dineros del Servicio serán depositados en una cuenta corriente subsidiaria de la Cuenta Corriente Única Fiscal del BancoEstado y contra ella podrán girar conjuntamente el Presidente del Consejo y un representante de los afiliados que se designará en la primera sesión del Consejo posterior a la respectiva elección.
 
@@ -184,9 +186,15 @@ Artículo Nº11 Para conceder un préstamo el Consejo deberá considerar especia
 
 Otros beneficios
 
-Artículo Nº12 El Servicio podrá, siempre que sus recursos financieros lo permitan, efectuar actividades que tengan por objeto el esparcimiento, desarrollo físico, social y cultural de sus afiliados y cargas familiares, pudiendo para ello adquirir bienes, elementos deportivos y demás que fueren necesarios para la realización de estas actividades; podrá administrar colonias de vacaciones y adquirir implementos necesarios para el cumplimiento de estos objetivos. Además, podrá adquirir regalos de navidad, celebrar y financiar las fiestas de navidad, fiestas patrias, aniversario del Gobierno Regional u otras actividades.
+Artículo Nº12 El Servicio podrá, siempre que sus recursos financieros lo permitan, efectuar actividades que tengan por objeto el esparcimiento, desarrollo físico, social y cultural de sus afiliados y cargas familiares, pudiendo para ello adquirir bienes, elementos deportivos y demás que fueren necesarios para la realización de estas actividades; podrá administrar colonias de vacaciones y adquirir implementos necesarios para el cumplimiento de estos objetivos. Además, podrá adquirir regalos de navidad, celebrar y financiar las fiestas de navidad, fiestas patrias, aniversario del Gobierno Regional, aniversario del Servicio, Día de la Secretaria, Día del Niño, Día Internacional de la Mujer, Día de la Madre, Día del Padre y/o cualquier otra actividad de carácter internacional, nacional, institucional o actividad propia del Servicio.
 
 El Servicio podrá administrar recintos de veraneo, jardines infantiles, casinos de personal, clubes corporativos y, en general, otros recintos destinados al uso de sus afiliados, no pudiendo en ningún caso contratar personal, facultad que corresponde al Intendente Regional.
+
+#### Artículo 12º bis
+
+El Servicio podrá, siempre que sus recursos financieros lo permitan, efectuar presentes, regalos, obsequios u otros similares con motivo de acontecimientos tales como nacimiento de hijo/a, matrimonio, cumpleaños de sus afiliados; sin perjuicio de los beneficios establecidos en las letras a) y b) del artículo 7º del Título V del presente Reglamento.
+
+Asimismo y sin perjuicio del subsidio establecido en la letra d) del artículo 7º del Título V del presente Reglamento, el Servicio podrá, en la medida que sus recursos financieros lo permitan, otorgar a sus afiliados y cargas familiares reconocidas, por una sola vez en cada año calendario, Becas al Mejor Rendimiento Académico de éstos, para cuyo efecto deberá dictarse un Reglamento que, a lo menos, contemple un procedimiento para la postulación, selección de los becados y monto de la becas, reglamento que deberá ser aprobado por el Consejo Administrativo; del mismo modo, el Consejo Administrativo deberá aprobar, siempre que los recursos financieros del Servicio lo permitan, el costo que importe llevar a cabo la ceremonia de entrega de las Becas al Mejor Rendimiento Académico; costo en el cual podrá estar incorporado el gasto de diplomas y cóctel, entre otros.
 
 Artículo Nº13 El Servicio procurará el progreso social, educacional, deportivo y artístico del afiliado y sus cargas familiares, utilizando al máximo sus recursos y las facilidades que le otorguen el Gobierno Regional, otras entidades o la propia comunidad.
 
