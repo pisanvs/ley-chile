@@ -8300,9 +8300,7 @@ En el prospecto se deberán mencionar y describir las siguientes condiciones de 
 
 a) Monto de la emisión propuesta, moneda o unidad de valor en que se expresará y si las letras serán al portador o nominativas.
 
-El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales.
-
-Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el N° 3 del Capítulo II.A.1, en la que se expresarán las letras de crédito. El corte de las letras será determinado libremente por la institución emisora.
+El emisor deberá acompañar un detalle de las series que se propone emplear con indicación de si se destinarán al financiamiento de vivienda o a fines generales. Pertenecerán a una misma serie las letras que tengan idénticas características en cuanto a tasa de interés, forma y plazo de amortización. Asimismo, se indicará la moneda o unidad de valor a que se refiere el N° 3 del Capítulo II.A.1, en la que se expresarán las letras de crédito. El corte de las letras será determinado libremente por la institución emisora.
 
 b) Plazo de los préstamos.
 
@@ -8371,6 +8369,8 @@ C = Fines generales con amortización directa semestral.
 D = Fines generales con amortización directa mensual.
 
 G = Fines generales con período de gracia.
+
+Cuando se trate de letras de crédito para fines generales con amortización directa originadas por préstamos otorgados a deudores de primera categoría, con cobertura de garantía inferior a la normal según lo indicado en el numeral 2.2 del título II de este Capítulo, en lugar de los signos A, B, C, D y G, llevarán los signos J, K, L, M y N, respectivamente.
 
 d) Unidad de valor en que está expresado el documento.
 
