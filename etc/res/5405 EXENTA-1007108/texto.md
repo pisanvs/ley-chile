@@ -30,6 +30,8 @@ Aclaración: Exclúyase del llamado a concurso público para el otorgamiento de 
 
 > **Nota.** La Resolución 5549 Exenta, Transportes, publicada el 22.10.2009, modifica la presente norma, en el sentido de rectificar el presente llamado para el concurso público correspondiente al Tercer Cuatrimestre de 2009, en la forma que en ella se indica.
 
+> **Nota.** NOTA 1 La Resolución 5705 Exenta, Transportes, publicada el 29.10.2009, rectifica la presente norma, en el sentido de incluir la comuna señalada en la letra b) de los Considerandos en el Concurso Público para el otorgamiento de concesiones del servicio de radiodifusión sonora de mínima cobertura correspondiente al Tercer Cuatrimestre de 2009.
+
 Anótese, comuníquese y publíquese en el Diario Oficial.- Por orden del Subsecretario de Telecomunicaciones, Nelson Donoso Yantén, Jefe de División Concesiones.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Francisco Miranda Olivos, Jefe Depto. Servicios Públicos.
