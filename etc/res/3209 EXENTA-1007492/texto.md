@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.209, de 23 de septiembre de 2009, de esta Subsecretaría, autorízase a ANTONIO DA VENEZIA RETAMALES para ampliar actividades pesqueras extractivas con la nave "Tío Gringo", en el área marítima comprendida entre la IV a VII Regiones, por fuera del área de reserva artesanal, con espinel, sobre los siguientes recursos hidrobiológicos: Azulejo y Tiburón o marrajo.
+
+Valparaíso, 23 de septiembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
