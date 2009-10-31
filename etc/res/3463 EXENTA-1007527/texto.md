@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.463, de 16 de octubre de 2009, de esta Subsecretaría, modifícase el numeral 4.- de la resolución exenta Nº892, de 2009, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de la actividad operacional de pesca artesanal de pequeños pelágicos VIII Región del Bío-Bío, 2009", en el sentido de reemplazar a la embarcación artesanal "Jerusalén" (RPA 30968) por la embarcación "Don Humberto M" (RPA 902770) en el listado de embarcaciones autorizadas a operar en la presente pesca de investigación.
+
+Valparaíso, 16 de octubre de 2009.- Jorge Chocair Santibáñez, Subsebretario de Pesca.
