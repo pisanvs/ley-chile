@@ -1,0 +1,5 @@
+AUTORIZA FUNCIONAMIENTO DE TERMINAL NO URBANO PARA SERVICIOS DE LOCOMOCIÓN COLECTIVA TANTO INTERURBANA COMO RURAL
+
+Por resolución exenta Nº254, de 30 de septiembre de 2009, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, se sustituyó el resuelvo 1º) de la resolución exenta Nº34 de 26 de enero de 1996 indicada por el siguiente: "1º Autorízase el funcionamiento del Terminal no Urbano para servicios de Locomoción Colectiva tanto Interurbana como Rural prestado mediante buses, de propiedad de doña Zoila Teresa Romero Yáñez Rol Único Tributario Nº2.499.660-3, ubicado en calle Aníbal Pinto Nº443 de la comuna de Coelemu". En lo no modificado se mantiene íntegra y vigente la resolución exenta Nº34/96, de fecha 26 de enero de 1996, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío. En especial, lo relativo al cumplimiento estricto de la Ordenanza Municipal de Terminales de Locomoción Colectiva no Urbana vigente de la comuna de Coelemu.-
+
+Hugo Cautivo Baltierra, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Bío Bío.
