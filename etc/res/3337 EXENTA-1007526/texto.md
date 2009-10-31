@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.337, de 6 de octubre de 2009, de esta Subsecretaría, modifícase los numerales 4º y 6º de la resolución exenta Nº2.000 de 2009, de esta Subsecretaría de Pesca que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE, Sede Coquimbo para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2009-15 denominado "Evaluación directa de langostino colorado y langostino amarillo entre la II y la VIII Región, año 2009", en el sentido de reemplazar la embarcación "Isabel S" por la embarcación artesanal "Don José Miguel", matrícula 670 de Caldera, R.P.A. Nº35893.
+
+Valparaíso, 6 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
