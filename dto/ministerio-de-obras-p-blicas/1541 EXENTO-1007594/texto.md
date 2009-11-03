@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1541, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 17, superficie 3.152 m2, Rol de Avaluó en tramite, comuna de Copiapó, III Región para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By-Pass a Copiapó)", y se acordó el valor de indemnización con su propietaria INVERSIONES MIRAMONTI LIMITADA, ascendente a la cantidad de $4.533.480.
+
+Fiscal del Ministerio de Obras Públicas.
