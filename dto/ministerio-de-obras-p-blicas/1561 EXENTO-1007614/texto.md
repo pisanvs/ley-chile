@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº 1561 de 30 de septiembre de 2009, se modificó el numeral segundo de los Decretos MOP N° 685 de 16 de septiembre de 2008 y Decreto MOP (Exento) N° 1086 de 20 de octubre de 2008, que ordenaron, entre otros, la expropiación de los lotes N° 8, 9, 11, 14, 16, 17, 18, 19 y lote 15 respectivamente, en la parte que se refiere al número del rol de avalúo, comuna y al nombre de los propietarios según el Servicio de Impuestos Internos. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
