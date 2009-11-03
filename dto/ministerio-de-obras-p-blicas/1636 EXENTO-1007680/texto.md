@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1636, de 13 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 22-A, para la obra "Camino Puelo Paso El Bolsón, sector Lago Tagua Tagua Llanada Grande, Km. 12,530 al Km. 32,500", Comuna de Cochamó, Provincia de Llanquihue, Xª Región, que figura a nombre de NUNEZ ROSAS ROMAN, rol de avalúo 158-158, superficie 1.410 M2. La Comisión de Peritos, fijó con fecha 8 de febrero de 2007, en la cantidad de $408.900. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
