@@ -1,0 +1,5 @@
+Por Decreto Exento Nº 1628, de 13 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 59, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida Canelillo", que figura a nombre de COLLAO MOLINA OMAR SUC, rol de avalúo 439-24, comuna de Illapel, Provincia de Choapa, IV Región, superficie 1.908 M2. La Comisión de Peritos, fijó con fecha 23 de agosto de 2008, complementada por acta de fecha 18 de mayo de 2009, en lo que se refiere al lote Nº59, en la cantidad de $3.415.000, para el lote Nº59 . La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+> **Nota.** El Decreto 1948 Exento, Obras Públicas, publicado el 01.12.2009, modifica la presente norma en el sentido de dejarla sin efecto sólo en la parte que se refiere al lote de terreno Nº62.
+
+Fiscal del Ministerio de Obras Públicas.
