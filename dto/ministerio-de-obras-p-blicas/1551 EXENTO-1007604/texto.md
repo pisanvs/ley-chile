@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1551 de 30 de septiembre de 2009, se expropiaron los lotes de terrenos Nºs. 13, 14, 15, 16, 17, 18 y 19, superficies 516, 479, 433, 257, 4, 136 y 98 m2, rol de Avalúo Nº 169-14, comuna de Colina, para la obra "CALLE DE SERVICIO BY PASS COLINA, EJE CALLE SAN LUIS KM. 0,00240 A KM. 0,12000, EJE CALETERA KM. 0,00000 a KM. 1,10000, COMUNA DE COLINA, PROVINCIA DE CHACABUCO, REGION METROPOLITANA", y se acordó el valor de la indemnización con SOCIEDAD INMOBILIARIA EL CACIQUE LIMITADA, ascendente a la cantidad de $49.153.312.
+
+Fiscal del Ministerio de Obras Públicas.
