@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1535, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 3, superficie 1.015 m2, Rol Nº 907-18, comuna de Alto del Carmen, III Región para la obra "Reposición Puente Malaguin y otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Malaguin)", y se acordó el valor de indemnización con su propietario JOSE GUILLERMO LARRAL DROGUETT, ascendente a la cantidad de $936.479.
+
+Fiscal del Ministerio de Obras Públicas.
