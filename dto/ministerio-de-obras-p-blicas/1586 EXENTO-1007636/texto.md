@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1586, de 30 de septiembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 5, para la obra "Normalización Estero DAgostini Punta Arenas XII Región", Provincia de Magallanes, Comuna de Punta Arenas, que figura a nombre de MAALOUF MASSU MARISOL Y OT, rol de avalúo 5028-244, superficie 651,92 M2. La Comisión de Peritos, fijó con fecha 23 de abril de 2009, en la cantidad de $27.347.392. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
