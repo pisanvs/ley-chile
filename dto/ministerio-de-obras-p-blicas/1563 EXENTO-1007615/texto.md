@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1563, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 9, superficie 101 m2, Rol de Avaluó en trámite, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietaria GEORGINA MACARENA GARCIA CONTRERAS Y OTROS, ascendente a la cantidad de $17.914.602.
+
+Fiscal del Ministerio de Obras Públicas.
