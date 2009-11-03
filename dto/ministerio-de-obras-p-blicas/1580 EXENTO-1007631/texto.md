@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 1580 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 15-A, superficie 728,4 m2, rol N° 386-229, comuna de Pitrufquén, para la Obra: "Diseño Definitivo de la Red Secundaria y Terciaria de Canales de Riego Proyecto Faja Maisan, Obra Canal California" IX Región y se acordó el valor de la indemnización con su propietario JUAN ANTONIO TRIPAILAF JARAMILLO, ascendente a la cantidad de $739.540.
+
+Fiscal del Ministerio de Obras Públicas.
