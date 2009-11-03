@@ -32,9 +32,7 @@ d) El(la) Director(a) del Instituto de Desarrollo Agropecuario (INDAP);
 
 e) Un representante de la Corporación de Fomento de la Producción (CORFO);
 
-f) Un representante del Ministerio de Hacienda.
-
-g) 12 representantes del sector exportador silvoagropecuario y sus respectivos suplentes de los cuales 3 deberán estar vinculados a la pequeña agricultura exportadora, todos designados por el Ministro de Agricultura.
+f) Un representante del Ministerio de Hacienda. g) El Coordinador General del Comité Coordinador de Asuntos Internacionales del Ministerio de Agricultura.
 
 h) 12 representantes del sector privado y sus respectivos suplentes, de los cuales 9 deberán estar vinculados al Sector Exportador Silvoagropecuario y 3 vinculados a la Agricultura Campesina, todos designados por el Ministro de Agricultura.
 
