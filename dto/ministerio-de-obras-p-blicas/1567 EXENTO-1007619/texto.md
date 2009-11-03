@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1567 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 5, superficie 49 m2, rol N° 103-39, comuna de Peralillo, para la obra "Construcción Puente Calleuque en Ruta I-340 Peralillo (KM: 10,92000 a KM: 11,22000)", Sexta Región y se acordó el valor de la indemnización con su propietario ELÍAS ALBERTO TAGLE VALDÉS, ascendente a la cantidad de $607.842.
+
+Fiscal del Ministerio de Obras Públicas.
