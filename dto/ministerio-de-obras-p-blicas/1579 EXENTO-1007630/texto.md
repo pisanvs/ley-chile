@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 1579 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 2, superficie 1.377 m2, rol N° 383-7, comuna de Pitrufquén, para la Obra: "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan", Obra "Canal Los Lingues Sur", Comuna de Pitrufquén, Provincia de Cautín, Región de la Araucanía y se acordó el valor de la indemnización con su propietario MARILYN ISOLDE SCHNEIDER ZUBER, ascendente a la cantidad de $906.666.
+
+Fiscal del Ministerio de Obras Públicas.
