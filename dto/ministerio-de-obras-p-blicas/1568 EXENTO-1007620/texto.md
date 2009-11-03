@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1568, de fecha 30 de septiembre del 2009, se expropiaron los lotes de terreno N°s 17 y 18, superficie 87 y 30 m2 respectivamente, Rol N° 971-15, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", y se acordó el valor de indemnización con su propietaria SOCIEDAD AGRICOLA VIÑA NEGRA LIMITADA, ascendente a la cantidad de $671.211.
+
+Fiscal del Ministerio de Obras Públicas.
