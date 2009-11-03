@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1569 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 1, superficie 842 m2, rol N° 153-94, comuna de Nancagua, para la obra "Camino Rutas I-756 e I-760, sector Cunaco - Isla del Guindo - Quinahue, Tramo Km. 1,30000 a Km. 6,73626", Sexta Región y se acordó el valor de la indemnización con su propietario AVELINO DEL CARMEN VÁSQUEZ GALAZ, ascendente a la cantidad de $2.109.993.
+
+Fiscal del Ministerio de Obras Públicas.
