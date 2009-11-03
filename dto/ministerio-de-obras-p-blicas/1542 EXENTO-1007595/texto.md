@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1542, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 12, superficie 245 m2, Rol de Avaluó en tramite, comuna de Alto del Carmen, III Región para la obra "Reposición Puente Malaguin y otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Valeriano)", y se acordó el valor de indemnización con su propietaria PARROQUIA NUESTRA SEÑORA DEL CARMEN, ascendente a la cantidad de $1.784.686.
+
+Fiscal del Ministerio de Obras Públicas.
