@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1545, de fecha 30 de septiembre del 2009, se expropiaron los lotes de terreno N°s 46 y 47, superficie 204 y 94 m2 respectivamente, Rol N° 925-1, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II", y se acordó el valor de indemnización con su propietaria ELBA MIRELLA NUÑEZ DE LA TORRE, ascendente a la cantidad de $988.774.
+
+Fiscal del Ministerio de Obras Públicas.
