@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1564 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 61, superficie 2.885 m2, rol N° 189-25, comuna de Arauco, para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapié, Tramo Km. 0,00000 a Km. 6,52000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario NIXON GREGORIO GAYOSO MARTÍNEZ Y OTROS, ascendente a la cantidad de $1.808.500.
+
+Fiscal del Ministerio de Obras Públicas.
