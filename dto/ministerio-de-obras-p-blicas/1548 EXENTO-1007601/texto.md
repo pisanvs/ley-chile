@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1548 de 30 de septiembre de 2009, se expropió el lote de terreno Nº 17-A, superficie 8.068 m2, rol de Avalúo 144-42, comuna de Huasco, para la obra "Construcción Camino Costero, Tramo Huasco - Carrizal, Provincia de Huasco, Región Atacama, Etapa II", III Región y se acordó el valor de la indemnización con su propietario FRANCISCO LUCIANO JOSÉ CABEZAS ROJAS Y OTROS, ascendente a la cantidad de $584.770.
+
+Fiscal del Ministerio de Obras Públicas.
