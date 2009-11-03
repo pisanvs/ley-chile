@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1534 de 30 de septiembre del 2009, se expropió el lote de terreno Nº 24, superficie 203 m2., Rol Nº 644-3, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K- 155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000", y se acordó el valor de indemnización con su propietario LUIS AURELIO GONZÁLEZ HENRÍQUEZ, ascendente a la cantidad de $2.058.335.
+
+Fiscal del Ministerio de Obras Públicas.
