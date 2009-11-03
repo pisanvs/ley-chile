@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1539 de 30 de septiembre de 2009, se expropió el lote de terreno Nº 36, superficie 680 m2, rol de Avalúo 432-016, comuna de Illapel, para la obra "Mejoramiento Ruta D-805, Illapel - Caren", IV Región y se acordó el valor de la indemnización con su propietario EDUARDO LÓPEZ VILLALOBOS Y OTROS, ascendente a la cantidad de $1.579.438.
+
+Fiscal del Ministerio de Obras Públicas.
