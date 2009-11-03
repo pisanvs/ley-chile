@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1565 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 6 superficie 285,00 m2, rol N° 1439-119, comuna de Puerto Varas, para la obra Reposición Ruta 225 Ch, Sector Puerto Varas - Ensenada X Región, tramo de Km. 0,0000 a Km. 10,16000, Comuna de Puerto Varas, Provincia de Llanquihue, X Región y se acordó el valor de la indemnización con su propietario PABLO ANDRÉS KAST SOMMERHOFF Y OTROS, ascendente a la cantidad de $2.235.827.
+
+Fiscal del Ministerio de Obras Públicas.
