@@ -1,0 +1,3 @@
+Por Decreto MOP N° 1578 de 30 de septiembre de 2009, se expropió el lote de terreno N° 1, superficie 3.478 m2, Rol N° 382-47, comuna de Pitrufquén, IX Región, para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN", OBRA "CANAL MAPU QUIMEY, DERIVADO 5" y se acordó el valor de indemnización con su propietario REINER CLAUS PFEIFFER BABILECK, ascendente a la cantidad de $2.641.800.
+
+Fiscal del Ministerio de Obras Públicas.
