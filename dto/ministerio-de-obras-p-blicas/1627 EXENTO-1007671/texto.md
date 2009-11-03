@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1627, de 13 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 25, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, Xª Región, que figura a nombre de COOP AGROP CHILOE LTDA, rol de avalúo 1118-21, superficie 13.057 M2. La Comisión de Peritos, fijó con fecha 8 de septiembre de 2008, en la cantidad de $8.277.100. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
