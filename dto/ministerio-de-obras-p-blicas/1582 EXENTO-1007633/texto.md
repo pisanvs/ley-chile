@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1582, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 9, superficie 1.518 m2, Rol N° 384-102, comuna de Pitrufquén, IX Región para la obra "Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan, Obra Canal Los Avellanos Sur", y se acordó el valor de indemnización con su propietario FRANCISCO CORTES MAISSAN, ascendente a la cantidad de $973.330.
+
+Fiscal del Ministerio de Obras Públicas.
