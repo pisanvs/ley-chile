@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1555 de fecha 30 de septiembre de 2009, se expropió el lote de terreno N° 43-C, superficie 510 m2, rol N° 280-123, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario ADOLFO SEGUNDO YÁÑEZ GONZÁLEZ, ascendente a la cantidad de $22.065.669.
+
+Fiscal del Ministerio de Obras Públicas.
