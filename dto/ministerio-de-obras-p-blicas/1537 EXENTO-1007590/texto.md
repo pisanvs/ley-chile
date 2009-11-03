@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1537 de fecha 30 de septiembre de 2009, se expropió el lote de terreno Nº 93-B2, superficie 105 m2, rol Nº 131-68, comuna de Vichuquén, para la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 a Km. 15,372989" VII Región y se acordó el valor de la indemnización con su propietario JOSÉ MANUEL CALQUÍN GAMBOA, ascendente a la cantidad de $832.711.
+
+Fiscal del Ministerio de Obras Públicas.
