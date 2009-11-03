@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1533 de 30 de septiembre de 2009, se expropió el lote de terreno Nº 1, superficie 2.294 m2, rol de Avalúo 147-127, comuna de Dalcahue, para la obra "REPOSICION PUENTES PUNTRA Y BUTALCURA, SECTOR ACCESO PUENTE BUTALCURA, TRAMO KM. 1.148,95000 AL KM. 1.159,71670, COMUNA DE DALCAHUE, PROVINCIA DE CHILOÉ, X REGIÓN", y se acordó el valor de la indemnización con su propietario ]OSÉ ENRIQUE ANDRADE ALVARADO, ascendente a la cantidad de $4.126.741.
+
+Fiscal del Ministerio de Obras Públicas.
