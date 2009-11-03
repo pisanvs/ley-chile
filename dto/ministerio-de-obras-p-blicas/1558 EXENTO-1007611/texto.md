@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 1558, de 30 de septiembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 60-C, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, Xª Región, que figura a nombre de VERA MONTECINOS MARCOS Y OTRA, sin rol, superficie 943 M2. La Comisión de Peritos, fijó con fecha 17 de abril de 2009, en la cantidad de $6.365.865. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
