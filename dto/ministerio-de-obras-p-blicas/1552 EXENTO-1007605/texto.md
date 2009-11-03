@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1552 de fecha 30 de septiembre de 2009, se expropiaron los lotes de terreno Nºs 89-D y 89-D1, superficie 248 y 253 m2 respectivamente, rol Nº 131-10, comuna de Vichuquén, para la obra "Camino Ruta J-810, Sector Licanten - Vichuquén, Tramo Km. 0,000000 a Km. 15,372989" VII Región y se acordó el valor de la indemnización con su propietario CARLOS GASTÓN MUÑOZ ARELLANO Y OTRA, ascendente a la cantidad de $8.331.508.
+
+Fiscal del Ministerio de Obras Públicas.
