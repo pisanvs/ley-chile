@@ -1,0 +1,3 @@
+Por decreto MOP. Nº 881, de 5 de noviembre de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 2, para la obra: "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sector Puente La Verbena", que figura a nombre de Torres Torres Andrés Cándido, rol de avalúo 839-6, comuna de Vallenar, superficie 5.897 M2. La Comisión de Peritos, fijó con fecha 2 de agosto de 2006, en la cantidad de $9.500.912. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
