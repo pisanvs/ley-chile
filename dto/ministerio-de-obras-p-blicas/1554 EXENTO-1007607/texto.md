@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1554, de fecha 30 de septiembre del 2009, se expropiaron los lotes de terreno N°s 38 y 40, superficie 5.083 y 1.484 m2 respectivamente, Rol N° 897-1, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa I, Km. 29,00000 al Km. 37,80000", y se acordó el valor de indemnización con su propietaria SOCIEDAD AGRICOLA VIÑEDOS DE LA PLATA LIMITADA, ascendente a la cantidad de $10.743.663.
+
+Fiscal del Ministerio de Obras Públicas.
