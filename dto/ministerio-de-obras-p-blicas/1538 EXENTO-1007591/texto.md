@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1538 de 30 de septiembre de 2009, se expropió el lote de terreno Nº 6, superficie 11 m2, rol de Avalúo E/T, comuna de Paihuano, para la obra "MEJORAMIENTO CAMINO 64D485, SECTOR PISCO ELQUI - HORCÓN", IV Región y se acordó el valor de la indemnización con su propietario MANUEL AUGUSTO GONZÁLEZ PASTÉN, ascendente a la cantidad de $558.500.
+
+Fiscal del Ministerio de Obras Públicas.
