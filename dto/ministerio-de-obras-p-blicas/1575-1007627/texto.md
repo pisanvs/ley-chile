@@ -1,0 +1,3 @@
+Por Decreto MOP N° 1575 de 30 de septiembre de 2009, se expropió el lote de terreno N° 6, superficie 5.311 m2, Rol N° 382-2, comuna de Pitrufquén, IX Región, para la obra "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN", OBRA "CANAL MAPU QUIMEY, DERIVADO 5" y se acordó el valor de indemnización con su propietario RONALDO BUCK RILLING, ascendente a la cantidad de $3.313.600.
+
+Fiscal del Ministerio de Obras Públicas.
