@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1581, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 1, superficie 1.315 m2, Rol N° 386-62, comuna de Pitrufquén, IX Región para la obra "Diseño Definitivo de la Red Secundaria y Terciaria de Canales Faja Maisan, Obra Canal California Desagüe", y se acordó el valor de indemnización con su propietario MARIANO TRIPAILAF REYES, ascendente a la cantidad de $894.200.
+
+Fiscal del Ministerio de Obras Públicas.
