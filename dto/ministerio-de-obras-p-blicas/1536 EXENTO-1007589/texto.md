@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1536, de fecha 30 de septiembre del 2009, se expropió el lote de terreno N° 44-B, superficie 49 m2, Rol N° 70-112, comuna de Paihuano, IV Región para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", y se acordó el valor de indemnización con su propietaria XIMENA PAOLA DEL CARMEN CORTES CORTES, ascendente a la cantidad de $197.709.
+
+Fiscal del Ministerio de Obras Públicas.
