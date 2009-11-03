@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1550 de 30 de septiembre de 2009, se expropió el lote de terreno Nº 38, superficie 134 m2, rol de Avalúo 172-18, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA - LIMITE REGIONAL, TRAMO II KM. 10,50000 A KM. 18,60807, VIII Región" y se acordó el valor de la indemnización con su propietario BERNARDINO FERNANDO PÉREZ BRAIN, ascendente a la cantidad de $465.789.
+
+Fiscal del Ministerio de Obras Públicas.
