@@ -1,0 +1,17 @@
+EXTRACTO ESCRITURA DE CONSTITUCIÓN "PARTIDO ECOLOGISTA DEL SUR"
+
+Por resolución O-Nº 21.460, de fecha 21 de octubre de 2009, se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la ley Nº 18.603.
+
+Por escritura pública de fecha 14 de agosto de 2009, otorgada ante don Alberto Herman Montauban, Notario Suplente del Titular de la Sexta Notaría de Santiago, modificado por escritura pública del día 15 de octubre del año en curso, se constituyó como partido político la entidad denominada "Partido Ecologista del Sur". Su sigla es "PES". Su lema "Por un Desarrollo Sustentable para Chile". No presenta símbolo.
+
+Declaración de Principios: Uno.- Por una Sociedad Sustentable. Pretendemos construir una nueva sociedad, que permita a los seres humanos realizarse plenamente en un equilibrio armónico con sus semejantes y en una relación responsable con el ambiente en que vive. Dos.- Por un Desarrollo Económico a Escala Humana. Una nueva concepción del desarrollo económico debe priorizar la satisfacción de las necesidades vitales de todos los habitantes del país y prever la conservación y reproducción del patrimonio natural y de los recursos naturales, entendiendo que crecimiento económico no es un fin en sí mismo, ni tampoco un sinónimo de desarrollo humano. Tres.- Democracia Participativa. Somos partidarios de una democracia plena, en que cada ciudadano tenga el derecho a expresar su opinión y a tomar parte en las decisiones políticas, sociales, económicas y ambientales, que afectan sus vidas, sus familias, sus comunidades y sus territorios. Cuatro.- Justicia Social y Equidad. La riqueza del país y su progreso deben beneficiar a cada una de las familias, de manera que el esfuerzo individual sea recompensado, garantizando a cada persona las oportunidades para su mayor desarrollo material y espiritual posibles. Cinco.- Por la Diversidad y la Paz. Somos partidarios de la paz y las relaciones solidarias y de colaboración entre los pueblos, como método para alcanzar una sociedad civilizada a nivel planetario.
+
+La Directiva Central provisional del Partido Ecologista del Sur estará conformada por las siguientes personas: Presidente: Cristian Orlando Villarroel Novoa; Secretario General: Pablo Andrés Riveros Quiroz; Tesorero: Gonzalo Iñiguez González.
+
+El Tribunal Supremo provisional del Partido Ecologista del Sur estará conformado por las siguientes personas: Presidente: Rosa Inés Martínez Moraga; Vicepresidente: Francisco Javier Pinto Sepúlveda; Secretario: María del Pilar Mazane Béjar.
+
+En caso de fallecimiento, renuncia o imposibilidad, definitiva o transitoria, de alguno de los miembros de la Directiva Central y del Tribunal Supremo provisionales, que se produzca antes de la inscripción del partido, se procederá a su reemplazo mediante designación de un nuevo miembro, de entre los suscriptores de la escritura de constitución, por los miembros provisionales de la Directiva Central y Tribunal Supremo que se encontraran aún en ejercicio, por acuerdo de simple mayoría de sus miembros.
+
+El domicilio común es calle Huérfanos Nº 1022, oficina 1104, comuna Santiago.-
+
+Juan Ignacio García Rodríguez, Director.
