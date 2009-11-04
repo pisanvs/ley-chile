@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.575, de 23 de octubre de 2009, de esta Subsecretaría, autorízase a IMPORT. Y EXPORT. GUANGJIN LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar planta en Panamericana Norte Km. 668, sector Bajos de Marañon, Vallenar, III Región, para elaborar en las líneas de Alga Seca, Molienda y Picado de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de octubre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
