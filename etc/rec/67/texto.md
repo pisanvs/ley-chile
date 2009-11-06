@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº39.488, de 17 de octubre de 2009, se publicó resolución Nº285 exenta, que determina la existencia de un mecanismo de cobro y registro de los costos directos de reproducción para efectos que indica, con los errores que se salvan a continuación: en el sumario, primera columna y página tres, primera columna, donde dice "... Intendencia Región Metropolitana de Santiago..." debe decir "...Gobierno Regional Metropolitano de Santiago...".
