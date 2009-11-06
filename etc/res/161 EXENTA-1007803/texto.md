@@ -1,0 +1,7 @@
+AMPLÍA AUTORIZACIÓN A SHELL CHILE S.A. COMERCIAL E INDUSTRIAL, RUT Nº92.011.000-2, OTORGADA POR RES. EX. Nº460 DE 1997, AMPLIADA POR RES. EX. Nº111 DE 2006, Y ESTABLECE PLAZO MÁXIMO DE DURACIÓN DE ESTA AUTORIZACIÓN EN LOS TÉRMINOS QUE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº161 del 30 de octubre de 2009, que:
+
+Amplía la autorización otorgada a Shell Chile S.A. Comercial e Industrial, RUT Nº92.011.000-2 , por resolución exenta Nº460 de 1997, ampliada por resolución exenta Nº111 de 2006, respecto de las guías de despacho que debe emitir por las ventas al crédito de petróleo diesel, combustibles y lubricantes, destinados a la carga de tambores, depósitos o estanques para reserva o stocks, necesarios para abastecer otros vehículos o maquinarias, efectuadas mediante el sistema "Tarjeta Shell Card Transporte". Se establece además para estas autorizaciones una duración de un año, a contar desde la fecha de publicación en el Diario Oficial de esta resolución, teniendo la posibilidad, el contribuyente, de solicitar la prórroga de este plazo.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de octubre, de 2009.
