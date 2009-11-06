@@ -18,11 +18,11 @@ Resuelvo:
 
 #### Artículo 1º
 
-Delégase en el Encargado Provincial de Pago de la Provincia Cautín Norte la siguiente facultad: Informar, al Jefe de la Unidad Regional de Subvenciones, de acuerdo al artículo 24 del D.F.L. Nº 2, de Educación, de 1998, los establecimientos educacionales que no han dado a conocer a los padres y apoderados el sistema de exención de los cobros mensuales dentro del mes de agosto anterior.
+Delégase en el Encargado Provincial de Pago de Subvenciones de la Provincia Cautín Norte, la siguiente facultad: Informar al Jefe de la Unidad Regional de Subvenciones, de acuerdo al artículo 24 del DFL Nº2, de Educación, de 1998 los establecimientos educacionales que no han dado a conocer a los padres y apoderados el sistema de exención de los cobros mensuales dentro del mes de agosto anterior.
 
 #### Artículo 2º
 
-Delégase en el Encargado Provincial de Cautín Norte, las siguientes facultades.
+Delégase en el Encargado Provincial de Pago de Subvenciones de Cautín Norte, las siguientes facultades:
 
 1.- Elaborar el informe fundado de las Actas de Fiscalización que contengan observaciones referidas a incumplimientos o pérdida de requisitos para mantener el reconocimiento oficial, remitir las Actas junto a dicho informe al Jefe de la Unidad Regional de Subvenciones, como además fijar un plazo para subsanar aquellos incumplimientos detectados que sean leves; todo, de acuerdo al artículo 15 del D.S. de Educación Nº 177, de 1996, y el artículo 24 del D.S. de Educación Nº 8.144, de 1980.
 
