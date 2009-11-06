@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 4.802 EXENTA, DE 04.09.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Primer Cuatrimestre de 2008, se ha asignado a la Sociedad de Comunicaciones Mapuche Pelom Ltda., RUT Nº 77.378.150-8, una concesión de Radiodifusión Sonora en Mínima Cobertura para la comuna de Padre Las Casas, IX Región, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 102,1 MHz; estudio, planta transmisora y sistema radiante ubicado en calle Baquedano Nº 785, comuna de Concepción, VIII Región; coordenadas geográficas 38°45'17" Latitud Sur, 72°35'03" Longitud Oeste (Datum PSAD 1956); Sistema Radiante Direccional con polarización vertical, una (1) antena Yagi de 2 elementos, 3,0 dBd de ganancia máxima y una altura del centro de radiación de 6 m; pérdidas en cables y conectores y otras de 3,0 dB; pérdidas por lóbulo de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 05.11.2009, PÁGINA 18.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución extractada.
+
+Los plazos son: Inicio de obras, 10 días; término de obras, 20 días; inicio de servicio, 30 días, computados a partir de la fecha de publicación en el Diario Oficial del decreto que otorgue la concesión.
+
+Esta publicación se hace según lo dispuesto en los artículos 13ºA y 13ºB de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
