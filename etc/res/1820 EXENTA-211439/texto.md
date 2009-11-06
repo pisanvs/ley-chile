@@ -6,11 +6,31 @@ Núm. 1.820 exenta.- Visto: El D.S. Nº 114 (V. y U.), de 1994, y sus modificaci
 
 R e s o l u c i ó n:
 
-1º.- La presente resolución fija el sistema de postulación al Programa de Pavimentación Participativa, reglamentado por el D.S. Nº 114 (V. y U.), de 1994, y sus modificaciones, para lo cual las inscripciones respectivas tendrán carácter permanente. Corresponderá a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo efectuar los procesos de selección e informar los períodos y fechas de dichos procesos.
+1º.- La presente resolución fija el sistema de postulación al Programa de Pavimentación Participativa, reglamentado por el DS Nº 114 (V. y U.), de 1994, para lo cual las inscripciones respectivas tendrán carácter permanente.
+
+Corresponderá a las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, en adelante Seremi, convocar a postulación a los Comités de Pavimentación y a las municipalidades y efectuar los procesos de selección de proyectos, conforme al siguiente procedimiento:
+
+i) Cumplir con el instructivo del Ministerio de Vivienda y Urbanismo que establece actividades y fechas del calendario para el proceso de postulación y selección de proyectos.
+
+ii) Formalizar la convocatoria a la postulación y la realización del proceso de selección mediante resoluciones de la respectiva Seremi. En estas resoluciones se incluirán los procesos involucrados, el calendario y las fechas que se consultan. Asimismo, se señalará el porcentaje de recursos que corresponderá a cada comuna de los asignados al Programa regional, como también los déficit existentes de pavimentación y/o de repavimentación, según corresponda.
+
+iii) La convocatoria a postular deberá ser publicada en uno o más periódicos de circulación nacional y/o regional, de amplia cobertura.
+
+Esta convocatoria también podrá ser difundida por otros medios de comunicación masiva, como radio y/o televisión.
+
+iv) Para los efectos de participar en un proceso de selección de proyectos, las correspondientes Seremi recibirán postulaciones hasta el 30 de octubre de cada año.
+
+v) Excepcionalmente, y por expresas instrucciones del Ministro de Vivienda y Urbanismo, la respectiva Seremi podrá convocar a los Comités de Pavimentación y a las Municipalidades a postulaciones exrraordinarias con cierre de recepción de proyectos en dicha Seremi en una fecha posterior al último proceso de selección realizado, con el objeto de efectuar una selección adicional de proyectos, los cuales pasarán a integrar el Programa Anual de Obras original.
+
+Estos procesos de selección extraordinarios también deberán cumplir con los requisitos, criterios, operaciones y actos señalados en los artículos 7º, 8º y 9º del DS Nº 114 (V. y U.), de 1994.
 
 Formando parte de las actividades de aplicación del Programa, las Secretarías Regionales Ministeriales deberán realizar tareas para su difusión anual en las comunas y sectores habitacionales que tienen déficit de pavimentos, especialmente en aquéllas que no se han integrado al Programa, como también en sectores postergados en materia de adelantos urbanos.
 
 En el desarrollo de estas actividades de difusión y de capacitación, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá contar con una estrategia que considere el objetivo, las realidades locales y asegure contenidos mínimos de información para ser entregados a los beneficiarios, que les permita igualdad de oportunidades para integrarse y participar en el Programa.
+
+Las calles y pasajes que se postulan al Programa deberán estar emplazados en centros poblados urbanos o rurales. Tratándose de centros poblados rurales, la aplicación del Programa será evaluada y definida por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, en adelante SEREMI MINVU, a solicitud de la correspondiente Municipalidad. Para estos efectos las SEREMI MINVU podrán aplicar un catastro de pavimentos, el que anualmente mantendrán actualizado en función de las obras de pavimentación que se construyan, a fin de conocer el déficit vigente en cada comuna.
+
+Los Condominios de Viviendas Sociales podrán postular al Programa de Pavimentación Participativa, para la pavimentación o la repavimentación de sus calles y pasajes interiores. Esta postulación deberá cumplir con los mismos requisitos exigidos a los Comités de Pavimentación. Para estos efectos y para lo establecido en el artículo 41 de la ley Nº 19.537, se considerarán Viviendas Sociales las que cumplan con los requisitos señalados en el artículo 40 de la ley Nº 19.537.
 
 2º.- Los interesados en participar en los procesos de selección que efectúen las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, deberán concurrir a inscribirse a través de grupos organizados, denominados Comités de Pavimentación, que tengan representante legal o mandatario que los represente con facultades suficientes, que actuarán en nombre y representación de cada integrante que postula por su intermedio.
 
@@ -18,11 +38,17 @@ En el desarrollo de estas actividades de difusión y de capacitación, la Secret
 
 a) Nómina que incluya individualización completa de cada integrante del Comité, señalando sus nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de cada uno de ellos.
 
-b) Identificación de la comuna, calle o pasaje y el tramo.
+b) Identificación de la comuna, centro poblado (ciudad, pueblo o villorrio), calle o pasaje y el tramo respectivo. Se deberá señalar si el proyecto postula a pavimentación o a repavimentación.
 
-Se deberá señalar si el proyecto postula a pavimentación o a repavimentación. c) Oficio del SERVIU correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto; planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el SERVIU para el correcto diseño de las obras de pavimentación.
+c) Oficio del SERVIU correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto;
 
-Tratándose de obras de repavimentación, se deberá incluir adicionalmente lo siguiente: monografía de los pavimentos existentes (materialidad; ubicación, tipo y magnitud de deterioros; espesores de capas estructurales; otro que requiera el SERVIU); obras de pavimentación que se mantienen; materiales que se reciclan (localización; tipo; cantidad; costo). El respectivo SERVIU deberá verificar en terreno los antecedentes técnicos de estos proyectos.
+planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el SERVIU para el correcto diseño de las obras de pavimentación.
+
+Tratándose de obras de repavimentación, se deberá incluir adicionalmente lo siguiente: monografía de los pavimentos existentes (materialidad;
+
+ubicación, tipo y magnitud de deterioros;
+
+espesores de capas estructurales; otro que requiera el SERVIU); obras de pavimentación que se mantienen; materiales que se reciclan (localización; tipo; cantidad; costo). El respectivo SERVIU deberá verificar en terreno los antecedentes técnicos de estos proyectos.
 
 Los ingenieros proyectistas deberán estar inscritos en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo.
 
@@ -80,6 +106,10 @@ categoría 2, previo informe social
 
 de la Municipalidad.
 
+Estarán exentos de efectuar el aporte financiero que requiere el presente Programa, los "Comités de Pavimentación muy Vulnerables", calificados como tales por la respectiva Municpalidad. La calificación de "Comité de Pavimentación muy Vulnerable" procederá respecto de aquellos Comités en que a lo menos el 50% de las familias que lo integran hubieren obtenido en su Ficha de Protección Social un puntaje no superior al establecido para el primer quintil. Para estos efectos, la Municipalidad deberá adjuntar a la postulación el informe social que respalde y fundamente la calificación de "Comité de Pavimentación muy Vulnerable" firmado por el Alcalde respectivo, junto con la nómina de las familias que lo integran, indicando sus puntajes correspondientes de la Ficha de Protección Social.
+
+Igualmente estarán exentos de realizar el aporte financiero que requiere este Programa los Comités de Pavimentación que pertenezcan a cualquiera de los Barrios priorizados en el Programa Recuperación de Barrios, y la respectiva Municipalidad en relación a dichos proyectos.
+
 e) Indicación del monto total del aporte que efectuará el Municipio, que no podrá ser inferior al señalado a continuación: Región
 
 Comuna Aporte
@@ -92,397 +122,401 @@ Comunal
 
 (en %)
 
-Región I deTarapacá
+REGION XIV DE ARICA Y PARINACOTA
 
-Arica 9 Pozo Almonte 16
+ARICA 7 PUTRE 5
 
-Camarones 7 Pica 23
+CAMARONES 5 GENERAL LAGOS 5
 
-Putre 13 Huara 16
+REGIÓN I DE TARAPACÁ
 
-General lagos 5 Colchane 17
+IQUIQUE 9 HUARA 5
 
-Iquique 10 Camiña 9
+POZO ALMONTE 10 COLCHANE 0
 
-Alto hospicio 5
+PICA 7 CAMIÑA 6
 
-Región II de Antofagasta
+ALTO HOSPICIO 5
 
-Tocopilla 8 Antofagasta 9
+REGIÓN II DE ANTOFAGASTA
 
-Maria Elena 5 Tal Tal 7
+TOCOPILLA 7 ANTOFAGASTA 8
 
-Calama 8 Mejillones 11
+MARIA ELENA 5 TAL TAL 7
 
-San. Pedro. de
+CALAMA 7 MEJILLONES 9
 
-Aatacama 14 Sierra Gorda 12
+SAN. PEDRO. DE
 
-Ollagüe 5
+AATACAMA 7 SIERRA GORDA 12
 
-Región III de Atacama
+OLLAGÜE 5
 
-Chañaral 8 Vallenar 8
+REGIÓN III DE ATACAMA
 
-Diego de Almagro 8 Freirina 7
+CHAÑARAL 7 VALLENAR 8
 
-Copiapó 8 Huasco 9
+DIEGO DE ALMAGRO 8 FREIRINA 7
 
-Caldera 8 Alto del
+COPIAPÓ 7 HUASCO 9
 
-Carmen 10
+CALDERA 7 ALTO DEL
 
-Tierra Amarilla 8
+CARMEN 12
 
-Región IV de Coquimbo
+TIERRA AMARILLA 8
 
-La Serena 9 Monte Patria 8
+REGIÓN IV DE COQUIMBO
 
-La Higuera 14 Combarbalá 8
+LA SERENA 7 MONTE PATRIA 7
 
-Coquimbo 9 Punitaqui 8
+LA HIGUERA 5 COMBARBALÁ 8
 
-Andacollo 8 Illapel 8
+COQUIMBO 9 PUNITAQUI 0
 
-Vicuña 8 Salamanca 8
+ANDACOLLO 0 ILLAPEL 7
 
-Paihuano 8 Los Vilos 9
+VICUÑA 6 SALAMANCA 6
 
-Ovalle 8 Canela o Mincha 9
+PAIHUANO 6 LOS VILOS 6
 
-Río Hurtado 9
+OVALLE 6 CANELA O MINCHA 6
 
-Región V Valparaíso
+RÍO HURTADO 5
 
-La Ligua 8 Hijuelas 7
+REGIÓN V VALPARAÍSO
 
-Petorca 7 Limache 8
+LA LIGUA 6 HIJUELAS 6
 
-Cabildo 7 Olmué 8
+PETORCA 5 LIMACHE 6
 
-Zapallar 15 Valparaíso 9
+CABILDO 5 OLMUÉ 6
 
-Papudo 7 Viña del Mar 10
+ZAPALLAR 10 VALPARAÍSO 7
 
-Los Andes 8 Con Con 13
+PAPUDO 5 VIÑA DEL MAR 10
 
-San Esteban 8 Quintero 10
+LOS ANDES 7 CON CON 8
 
-Calle Larga 7 Puchuncaví 11
+SAN ESTEBAN 5 QUINTERO 7
 
-Rinconada 8 Quilpue 8
+CALLE LARGA 5 PUCHUNCAVÍ 8
 
-San Felipe 8 Villa Alemana 9
+RINCONADA 5 QUILPUE 7
 
-Putaendo 7 Casablanca 11
+SAN FELIPE 7 VILLA ALEMANA 7
 
-Santa María 6 Juan Fernández 5
+PUTAENDO 5 CASABLANCA 6
 
-Panquehue 7 San aantonio 9
+SANTA MARÍA 5 JUAN FERNÁNDEZ 5
 
-Llay - Llay 7 Cartagena 12
+PANQUEHUE 7 SAN ANTONIO 7
 
-Catemu 7 El Tabo 18
+LLAY - LLAY 6 CARTAGENA 0
 
-Quillota 8 El Quisco 17
+CATEMU 7 EL TABO 8
 
-La Cruz 7 Algarrobo 16
+QUILLOTA 6 EL QUISCO 9
 
-Calera 7 Santo Domingo 15
+LA CRUZ 5 ALGARROBO 10
 
-Nogales 7 Isla de Pascua 5
+CALERA 6 SANTO DOMINGO 10
 
-Región VI del Libertador General Bernardo O'Higgins
+NOGALES 6 ISLA DE PASCUA 5
 
-Rancagua 8 Las Cabras 8
+REGIÓN VI DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
-Graneros 8 San Fernando 8
+RANCAGUA 7 LAS CABRAS 6
 
-Mostazal 8 Chimbarongo 8
+GRANEROS 6 SAN FERNANDO 7
 
-Codegua 7 Placilla 6
+MOSTAZAL 5 CHIMBARONGO 6
 
-Machalí 8 Nancagua 7
+CODEGUA 5 PLACILLA 5
 
-Olivar 7 Chépica 6
+MACHALÍ 0 NANCAGUA 5
 
-Requínoa 8 Santa Cruz 7
+OLIVAR 7 CHÉPICA 5
 
-Rengo 8 Lolol 7
+REQUÍNOA 6 SANTA CRUZ 6
 
-Malloa 7 Pumanque 6
+RENGO 6 LOLOL 5
 
-Quinta. de Tilcoco 7 Palmilla 6
+MALLOA 5 PUMANQUE 5
 
-San Vicente 8 Peralillo 7
+QTA. DE TILCOCO 5 PALMILLA 5
 
-Pichidegua 7 Pichilemu 9
+SAN VICENTE 6 PERALILLO 5
 
-Peumo 7 Navidad 11
+PICHIDEGUA 6 PICHILEMU 6
 
-Coltauco 8 Litueche 6
+PEUMO 5 NAVIDAD 5
 
-Coínco 6 La Estrella 10
+COLTAUCO 5 LITUECHE 5
 
-Doñihue 8 Marchigüe 6
+COÍNCO 5 LA ESTRELLA 5
 
-Paredones 7
+DOÑIHUE 6 MARCHIGÜE 5
 
-Región VII del Maule
+PAREDONES 5
 
-Curicó 8 Empedrado 5
+REGIÓN VII DEL MAULE
 
-Teno 7 Pencahue 6
+CURICÓ 8 EMPEDRADO 0
 
-Romeral 8 Constitución 9
+TENO 7 PENCAHUE 5
 
-Molina 8 Curepto 7
+ROMERAL 8 CONSTITUCIÓN 7
 
-Sagrada Familia 7 Linares 8
+MOLINA 8 CUREPTO 5
 
-Hualañé 7 Yerbas Buenas 7
+SAGRADA FAMILIA 7 LINARES 6
 
-Licantén 7 Colbún 7
+HUALAÑÉ 7 YERBAS BUENAS 6
 
-Vichuquén 7 Longaví 7
+LICANTÉN 7 COLBÚN 7
 
-Rauco 6 Parral 8
+VICHUQUÉN 7 LONGAVÍ 5
 
-Talca 8 Retiro 7
+RAUCO 6 PARRAL 0
 
-Pelarco 6 Villa Aalegre 6
+TALCA 8 RETIRO 0
 
-San Rafael 6 San Javier 7
+PELARCO 6 VILLA ALEGRE 5
 
-Río Claro 6 Cauquenes 8
+SAN RAFAEL 6 SAN JAVIER 7
 
-San Clemente 8 Pelluhue 14
+RÍO CLARO 6 CAUQUENES 0
 
-Maule 7 Chanco 7
+SAN CLEMENTE 8 PELLUHUE 6
 
-Región VIII del Bío Bío
+MAULE 7 CHANCO 5
 
-Chillán 8 Tomé 9
+REGIÓN VIII DEL BÍO BÍO
 
-Chillán Viejo 9 Florida 7
+CHILLÁN 7 TOMÉ 0
 
-San Carlos 7 Hualquil 7
+CHILLÁN VIEJO 5 FLORIDA 5
 
-Ñiquén 7 Coronel 5
+SAN CARLOS 6 HUALQUIL 7
 
-San Fabián 5 Lota 8
+ÑIQUÉN 5 CORONEL 5
 
-Coihueco 7 Santa Juana 8
+SAN FABIÁN 0 LOTA 0
 
-Pinto 7 Lebu 7
+COIHUECO 0 SANTA JUANA 5
 
-San Ignacio 7 Arauco 7
+PINTO 0 LEBU 0
 
-El Carmen 7 Curanilahue 7
+SAN IGNACIO 0 ARAUCO 7
 
-Pemuco 6 Los Alamos 6
+EL CARMEN 0 CURANILAHUE 0
 
-Yungay 8 Cañete 7
+PEMUCO 0 LOS ALAMOS 0
 
-Bulnes 7 Contulmo 7
+YUNGAY 6 CAÑETE 6
 
-Quillón 8 Tirúa 6
+BULNES 5 CONTULMO 0
 
-Ranquil 7 Los Angeles 8
+QUILLÓN 5 TIRÚA 0
 
-Portezuelo 5 Cabrero 7
+RANQUIL 5 LOS ANGELES 7
 
-Coelemu 7 Tucapel 7
+PORTEZUELO 0 CABRERO 7
 
-Trehuaco 6 Antuco 5
+COELEMU 7 TUCAPEL 5
 
-Cobquecura 6 Quilleco 7
+TREHUACO 5 ANTUCO 5
 
-Quirihue 7 Santa Bárbara 7
+COBQUECURA 5 QUILLECO 0
 
-Ninhue 7 Quillaco 5
+QUIRIHUE 0 SANTA BÁRBARA 6
 
-San Nicolás 7 Mulchén 7
+NINHUE 0 QUILLACO 0
 
-Concepción 10 Negrete 6
+SAN NICOLÁS 0 MULCHÉN 0
 
-San Pedro de la Paz 8 Nacimiento 8
+CONCEPCIÓN 7 NEGRETE 0
 
-Chiguayante 8 Laja 7
+SAN PEDRO DE LA PAZ 7 NACIMIENTO 0
 
-Talcahuano 8 San Rosendo 6
+CHIGUAYANTE 6 LAJA 7
 
-Penco 8 Yumbel 10
+TALCAHUANO 8 SAN ROSENDO 5
 
-Alto del Bío-Bío 5 Hualpén 5
+PENCO 6 YUMBEL 8
 
-Región IX de la Araucanía
+HUALPÉN 5 ALTO BÍO-BÍO 0
 
-Angol 5 Cunco 7
+REGIÓN IX DE LA ARAUCANÍA
 
-Renaico 6 Melipeuco 5
+ANGOL 5 CUNCO 5
 
-Collipulli 7 Curarrehue 6
+RENAICO 0 MELIPEUCO 5
 
-Lonquimay 6 Pucón 8
+COLLIPULLI 0 CURARREHUE 5
 
-Curacautín 8 Villarrica 8
+LONQUIMAY 0 PUCÓN 8
 
-Ercilla 6 Freire 8
+CURACAUTÍN 0 VILLARRICA 6
 
-Victoria 7 Pitrufquén 7
+ERCILLA 0 FREIRE 6
 
-Traiguén 6 Gorbea 7
+VICTORIA 6 PITRUFQUÉN 5
 
-Lumaco 7 Loncoche 7
+TRAIGUÉN 0 GORBEA 0
 
-Purén 7 Toltén 7
+LUMACO 0 LONCOCHE 0
 
-Los Sauces 6 Teodoro
+PURÉN 0 TOLTÉN 5
 
-Schmidt 7
+LOS SAUCES 0 TEODORO
 
-Temuco 8 Saavedra 7
+SCHMIDT 6
 
-Padre Las Casas 8 Carahue 8
+TEMUCO 7 SAAVEDRA 0
 
-Lautaro 7 Nueva
+PADRE LAS CASAS 7 CARAHUE 0
 
-Imperial 8
+LAUTARO 6 NUEVA
 
-Perquenco 5 Galvarino 7
+IMPERIAL 0
 
-Vilcún 7 Chol-Chol 5
+PERQUENCO 0 GALVARINO 0
 
-Región X de Los Lagos
+VILCÚN 6 CHOL-CHOL 5
 
-Valdivia 9 Cochamó 5
+REGION XV DE LOS RIOS
 
-San José. Mariquina 7 Calbuco 8
+VALDIVIA 7 MÁFIL 5
 
-Lanco 7 Maullín 7
+SN. J. MARIQUINA 6 PANGUIPULLI 7
 
-Los Lagos 7 Los Muermos 6
+LANCO 5 LA UNIÓN 6
 
-Futrono 7 Fresia 6
+LOS LAGOS 5 PAILLACO 5
 
-Corral 7 Llanquihue 7
+FUTRONO 5 RÍO BUENO 0
 
-Máfil 6 Frutillar 7
+CORRAL 5 LAGO RANCO 5
 
-Panguipulli 8 Castro 9
+REGIÓN X DE LOS LAGOS
 
-La Unión 7 Ancud 8
+OSORNO 7 FRUTILLAR 5
 
-Paillaco 7 Quemchi 7
+SAN PABLO 5 CASTRO 7
 
-Río Bueno 7 Dalcahue 8
+PUYEHUE 5 ANCUD 7
 
-Lago Ranco 7 Curaco de
+PUERTO OCTAY 5 QUEMCHI 5
 
-Vélez 6
+PURRANQUE 6 DALCAHUE 5
 
-Osorno 8 Quinchao 9
+RÍO NEGRO 5 CURACO DE
 
-San Pablo 6 Puqueldón 6
+VÉLEZ 5
 
-Puyehue 7 Chonchi 8
+S. JUAN DE LA COSTA 5 QUINCHAO 5
 
-Puerto Octay 7 Queilén 7
+PUERTO MONTT 7 PUQUELDÓN 5
 
-Purranque 7 Quellón 7
+PUERTO VARAS 7 CHONCHI 6
 
-Río Negro 7 Chaitén 7
+COCHAMÓ 5 QUEILÉN 7
 
-San Juan de la Costa 7 Hualaihue 7
+CALBUCO 6 QUELLÓN 6
 
-Puerto Montt 8 Futaleufú 5
+MAULLÍN 7 CHAITÉN 5
 
-Puerto Varas 9 Palena 5
+LOS MUERMOS 5 HUALAIHUE 7
 
-Región XI de Aysén del General Carlos Ibáñez del Campo
+FRESIA 5 FUTALEUFÚ 5
 
-Coihaique 9 Chile Chico 6
+LLANQUIHUE 6 PALENA 5
 
-Lago Verde 5 Río Ibáñez 5
+REGIÓN XI DE AYSÉN DEL GENERAL CARLOS IBÁÑEZ DEL CAMPO
 
-Aysén 8 Cochrane 5
+COIHAIQUE 7 CHILE CHICO 5
 
-Cisnes 7 O'Higgins 5
+LAGO VERDE 5 RÍO IBÁÑEZ 5
 
-Guaitecas 5 Tortel 9
+AYSÉN 6 COCHRANE 5
 
-Región XII de Magallanes y de la Antártica Chilena
+CISNES 7 O'HIGGINS 5
 
-Natales 9 Porvenir 6
+GUAITECAS 5 TORTEL 5
 
-Torres del Paine 5 Primavera 5
+REGIÓN XII DE MAGALLANES Y DE LA ANTÁRTICA CHILENA
 
-Punta Arenas 9 Timaukel 5
+NATALES 7 PORVENIR 5
 
-Río Verde 5 Navarino 5
+TORRES DEL PAINE 5 PRIMAVERA 5
 
-Laguna Blanca 5 Antártica 5
+PUNTA ARENAS 8 TIMAUKEL 5
 
-San Gregorio 5
+RÍO VERDE 5 NAVARINO 5
 
-Región Metropolitana
+LAGUNA BLANCA 5 ANTÁRTICA 5
 
-Santiago 23 Quinta Normal 8
+SAN GREGORIO 5
 
-Independencia 9 Lo Prado 8
+REGIÓN METROPOLITANA
 
-Conchalí 9 Pudahuel 8
+SANTIAGO 25 QUINTA NORMAL 7
 
-Huechuraba 11 Cerro Navia 8
+INDEPENDENCIA 8 LO PRADO 7
 
-Recoleta 8 Renca 8
+CONCHALÍ 7 PUDAHUEL 7
 
-Providencia 25 Quilicura 16
+HUECHURABA 10 CERRO NAVIA 7
 
-Vitacura 21 Colina 8
+RECOLETA 8 RENCA 7
 
-Lo Barnechea 17 Lampa 9
+PROVIDENCIA 25 QUILICURA 8
 
-Las Condes 18 Til - Til 8
+VITACURA 25 COLINA 8
 
-Ñuñoa 11 Puente Alto 7
+LO BARNECHEA 12 LAMPA 7
 
-La Reina 9 San José de
+LAS CONDES 25 TIL - TIL 7
 
-Maipo 9
+ÑUÑOA 10 PUENTE ALTO 7
 
-Macul 9 Pirque 16
+LA REINA 8 S. JOSÉ DE
 
-Peñalolén 8 San Bernardo 8
+MAIPO 7
 
-La Florida 8 Buin 8
+MACUL 8 PIRQUE 8
 
-San Joaquín 9 Paine 8
+PEÑALOLÉN 7 SAN BERNARDO 7
 
-La Granja 8 Calera de
+LA FLORIDA 7 BUIN 6
 
-Tango 10
+SAN JOAQUÍN 7 PAINE 6
 
-La Pintana 8 Melipilla 8
+LA GRANJA 7 CALERA DE
 
-San Ramón 8 María Pinto 8
+TANGO 7
 
-San Miguel 10 Curacaví 8
+LA PINTANA 7 MELIPILLA 7
 
-La Cisterna 8 Alhué 5
+SAN RAMÓN 7 MARÍA PINTO 6
 
-El Bosque 8 San Pedro 6
+SAN MIGUEL 8 CURACAVÍ 8
 
-Pedro Aguirre. Cerda 8 Talagante 8
+LA CISTERNA 7 ALHUÉ 5
 
-Lo Espejo 8 Peñaflor 8
+EL BOSQUE 7 SAN PEDRO 6
 
-Estación Central 8 Padre Hurtado 8
+PEDRO A. CERDA 7 TALAGANTE 6
 
-Cerrillos 11 Isla de Maipo 7
+LO ESPEJO 6 PEÑAFLOR 6
 
-Maipú 8 El Monte 7
+ESTACIÓN CENTRAL 8 PADRE HURTADO 6
+
+CERRILLOS 8 ISLA DE MAIPO 6
+
+MAIPÚ 8 EL MONTE 7
 
 El monto de aporte mínimo municipal anteriormente definido es válido tanto para calles como para pasajes.
 
@@ -492,43 +526,23 @@ g) Acreditación de existencia de redes públicas de alcantarillado de aguas ser
 
 h) Acta de Reunión en que conste que el proyectista expuso el proyecto al respectivo Comité de Pavimentación, acogiendo las observaciones planteadas por sus integrantes, que fueren atendibles, y que dicho Comité está de acuerdo con el diseño realizado.
 
-i) Presupuesto del proyecto que señale claramente el valor unitario del metro cuadrado de pavimento a aplicar, el cual deberá ser igual o inferior a los valores indicados para cada región en el siguiente cuadro:
+i) Presupuesto del proyecto que señale claramente el valor unitario del metro cuadrado de pavimentación o de repavimentación a aplicar, según sea el caso, el cual deberá ser igual o inferior a los valores indicados para cada región en las siguientes tablas respectivamente:
 
-Región Valores Límites de
+VER DIARIO OFICIAL DE 22.08.2008, PAGINA 7
 
-Pavimentación (en $/m2)
+j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
-Pasajes Calles
+Se eximen de la aplicación de Valores Límites de Pavimentación, las comunas insulares de Isla de Pascua y archipiélago de Juan Fernández, pertenecientes a la V Región, atendida su situación de aislamiento.
 
-I 18.000 24.000
-
-II 28.000 30.000
-
-III 18.000 18.000
-
-IV 17.000 22.000
-
-V 24.000 29.000
-
-VI 24.000 28.000
-
-VII 17.000 20.000
-
-VIII 21.000 24.000
-
-IX 20.000 23.000
-
-X 27.000 35.000
-
-XI 35.000 45.000
-
-XII 41.500 52.500
-
-RM 27.500 30.000
-
-Se eximen de la aplicación de Valores Límites de Pavimentación, las comunas insulares de Isla de Pascua y archipiélago de Juan Fernández, pertenecientes a la V Región, atendida su situación de aislamiento. Los montos de los aportes definidos en las letras d) y e) anteriores serán calculados en base al valor total de la obra según el valor referencial del metro cuadrado de pavimento a que se refiere el número 7º de la presente resolución.
+Los montos de los aportes definidos en las letras d) y e) anteriores serán calculados en base al valor total de la obra según el valor referencial del metro cuadrado de pavimento a que se refiere el número 7º de la presente resolución.
 
 En casos calificados por el Municipio se podrá aplicar combinaciones de aportes entre el Comité y el Municipio, diferentes a las referidas en las letras d) y e), siempre que sumados ambos alcancen el aporte mínimo requerido por el programa.
+
+Si el diseño del proyecto de ingeniería de pavimentación o de repavimentación ha sido financiado por el Comité o por la Municipalidad, éste será considerado como parte del aporte mínimo requerido por el Programa o podrá incrementar dicho aporte mínimo, según corresponda. Para estos efectos, el costo del diseño del proyecto de ingeniería se considerará equivalente al 3% del costo total de las obras de pavimentación, calculadas en base al valor referencial del m2.
+
+Las SEREMI MINVU, en materia de postulación, y los Servicios de Vivienda y Urbanización en relación al diseño de los proyectos de pavimentación, en la medida que sus recursos lo permitan, brindarán Asistencia Técnica a las Municipalidades y a los Comités de Pavimentación de sectores y comunas de más escasos recursos, que aún no se han integrado al Programa.
+
+Quedarán exentos de concurrir con los aportes señalados en este número, tanto los comités de pavimentación como las municipalidades respectivas, aquellos proyectos correspondientes a programas de inversión sectorial vigentes, de arrastre o nuevos, emplazados en las comunas que sean declaradas zonas afectadas por sismos o catástrofes, conforme al D.S. Nº 104, de Interior, de 1977, que fijó el texto refundido, coordinado y sistematizado del Título I de la ley Nº 16.282. Este beneficio regirá durante la vigencia de la declaratoria antes mencionada.
 
 4º.- El ahorro en dinero deberá estar depositado, a la fecha de la inscripción, a nombre de cada miembro del respectivo Comité o a nombre del Comité, en una Cuenta de Ahorro. El ahorro se acreditará al momento de la inscripción, presentando fotocopia de la libreta de ahorro correspondiente.
 
@@ -542,9 +556,9 @@ Los Comités de Pavimentación que deseen participar en el Proceso de Selección
 
 Será requisito que las Municipalidades estén al día con el respectivo SERVIU en el ingreso de aportes del Programa correspondientes a anteriores llamados. La SEREMI deberá verificar la existencia de deudas de aportes, para lo cual, con anterioridad al concurso, deberá solicitar al SERVIU el informe específico. De existir deudas, la SEREMI lo informará a las respectivas Municipalidades antes de la fecha de cierre del llamado, otorgándoles un plazo para ponerse al día en el pago de éstas antes de la fecha de publicación de la selección preliminar. La SEREMI deberá devolver las correspondientes postulaciones de aquellos Municipios que no se pongan al día en el pago de su deuda. Los recursos que sean liberados por esta causa serán redistribuidos a otras comunas de la Región, respetando la distribución aprobada por el Gobierno Regional.
 
-7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 1 de marzo de cada año. En caso de que el proyecto que se postula incluya la pavimentación de aceras, soluciones de aguas lluvia para puntos bajos de calzada u obras anexas imprescindibles para la ejecución de las obras de pavimentación cuyo financiamiento debe ser compartido, sus costos deberán incluirse en el Presupuesto de la Obra de Pavimentación.
+7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 1 de marzo de cada año. En caso de que el proyecto que se postula incluya la pavimentación de aceras, soluciones de aguas lluvia para puntos bajos de calzada u obras anexas imprescindibles para la ejecución de las obras de pavimentación cuyo financiamiento debe ser compartido, sus costos deberán incluirse en el Presupuesto de la Obra de Pavimentación. Para la determinación del valor referencial antes aludido, el Serviu resguardará la eficiencia y la eficacia en la utilización de los recursos fiscales. Para tal efecto, sólo considerará aquellos contratos cuyos costos reales no superen en más de un 30% su presupuesto original. Para la terminación de estos valores referenciales, la Unidad de Costos del Serviu deberá consultar al Departamento de Programación y Control y a la Unidad Técnica de Pavimentación de dicho Servicio, como también al Departamento de Planes y Programas de la respectiva Seremi.
 
-El SERVIU tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. Las soluciones de pavimentación a aplicar deberán cumplir condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación, de julio de 1994, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
+El SERVIU tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. Las soluciones de pavimentación a aplicar deberán cumplir condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2008, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
 
 a) Indice de Serviciabilidad Inicial (pi) 4,5 en hormigón de cemento vibrado y 4,2 en concreto asfáltico en caliente e Indice de Serviciabilidad Final (pf) 2,0 para ambas soluciones de pavimentación, o índice equivalente como el Indice de Rugosidad Internacional (IRI).
 
@@ -560,9 +574,9 @@ importancia urbana, considerándose para estos efectos el ancho y la longitud de
 
 d) Grado de cobertura o eficacia del proyecto, expresado como la superficie de calzada a construir en m² por unidad de viviendas beneficiadas (M2/VIV.). e) Antigüedad de la postulación, expresada como el número de veces que un Comité ha participado válidamente en procesos de selección de proyectos.
 
-f) Costo del pavimento o eficiencia del proyecto, que relaciona el costo referencial del pavimento adoptado con el costo referencial del pavimento de menor valor de la respectiva región. g) Acción de pavimentación, la que se refiere a obras de pavimentación de calzadas en tierra o a obras de repavimentación de calzadas con pavimento que presentan alto nivel de deterioro.
+f) Costo del pavimento o eficiencia del proyecto, que relaciona el costo referencial del pavimento adoptado con el costo referencial del pavimento de menor valor de la respectiva región.
 
-En ambos casos pueden incluir las respectivas aceras.
+g) Acción de pavimentación, la que se refiere a obras de pavimentación de calzadas en tierra o a obras de repavimentación de calzadas con pavimento que presentan alto nivel de deterioro. En ambos casos pueden incluir las respectivas aceras.
 
 9º.- Para calcular el puntaje por concepto de cada uno de los factores definidos en el número anterior, se procederá de la siguiente forma:
 
@@ -646,6 +660,10 @@ CB= Costo referencial por m² del pavimento base.
 
 Corresponde al pavimento de menor valor en cada comuna, distinguiéndose calles de pasajes.
 
+Los costos referenciales por m2 de pavimentos a utilizar en este cálculo corresponden a los determinados por el SERVIU, según lo establecido en el número 7º precedente.
+
+Si el costo referencial por m2 del pavimento adoptado duplica al costo referencial del m2 del pavimento base, o es aún mayor dicho costo, el puntaje por este factor es cero (0).
+
 g) Acción de pavimentación: Corresponderán 50 puntos si se trata de obra de pavimentación de calzada en tierra y 5 puntos si se trata de obra de repavimentación de calzada existente con alto nivel de deterioro.
 
 La calzada que postule a repavimentación deberá cumplir las siguientes condiciones técnicas que den cuenta de su alto nivel de deterioro:
@@ -700,19 +718,35 @@ En la segunda reunión, el Comité de Pavimentación entregará un Acta de Confo
 
 11º.- Una vez firmado el convenio antes referido, el Serviu respectivo deberá proceder a licitar las obras objeto del programa.
 
+Para la contratación de la ejecución de las obras de pavimentación, la respectiva programación de licitaciones en el primer año de ejecución del programa de obras deberá considerar los plazos suficientes para el caso de ser necesaria una nueva licitación, especialmente cuando deba declararse desierta la primera licitación debido a que las ofertas recibidas no resultaren convenientes a los intereses del Programa.
+
+En todo caso, el Serviu procurará que los montos de las adjudicaciones de los contratos se ajusten a los presupuestos consultados en la selección de los proyectos, esto es, a los determinados a valor referencial, y no podrá adjudicar una licitación, debiendo declararla desierta, si las ofertas presentadas sobrepasan el 30% del presupuesto de la obra seleccionada.
+
+Excepcionalmente y por razones fundadas, el SERVIU, previa autorización escrita del Ministro de Vivienda y Urbanismo, podrá adjudicar una licitación cuando la oferta económica más baja sobrepase el 30% del presupuesto programado para la respectiva obra de pavimentación. El SERVIU al requerir dicha autorización deberá acompañar los antecedentes de respaldo técnicos y presupuestarios en que se sustenta su petición.
+
 12º.- Será condición para la adjudicación de las propuestas de construcción de las obras seleccionadas, que el Municipio haya enterado en caja del Serviu respectivo los aportes correspondientes a los Comités y al Municipio o que al menos se haya establecido entre el Serviu y el Municipio una programación de ingreso de los aportes comunales comprometidos dentro del año en que se inicia el Programa, lo que deberá constar en el Convenio respectivo y ser objeto de aprobación por el Concejo Comunal. En caso de que el Municipio no dé cumplimiento a ninguna de las dos alternativas de ingreso de aportes al Serviu, la Secretaría Regional Ministerial de Vivienda y Urbanismo podrá proceder a una nueva redistribución de fondos sectoriales comprometidos en dicha comuna, seleccionando proyectos de la lista de espera de acuerdo a la distribución existente del Gobierno Regional y según el orden de prioridad obtenido por éstos o en su defecto disminuyendo el arrastre del Programa. El Serviu comunicará al Gobierno Regional respectivo los compromisos financieros asumidos por los Municipios de la Región y los plazos límites establecidos en cada convenio para enterar dichos aportes en las arcas del Serviu. Podrá también solicitar la intervención del Gobierno Regional en caso de producirse incumplimiento del Municipio respecto del integro de los aportes convenidos y del cumplimiento de los plazos establecidos para enterar dichos aportes en la caja del Serviu.
 
 13º.- Al menos un mes antes de publicar las licitaciones para la contratación de la ejecución de las obras del Programa, el SERVIU deberá informar a los respectivos Municipios las deudas por concepto de aportes de llamados anteriores que mantienen con el SERVIU, otorgando un plazo máximo hasta antes de la fecha de publicación para que los Municipios involucrados se pongan al día con dicho compromiso. Cumplido dicho plazo sin que ello ocurra, la SEREMI conjuntamente con el SERVIU evaluarán postergar las licitaciones de Municipios que mantengan estas deudas a otra fecha dentro del primer año de ejecución o excluir los respectivos proyectos del Programa, asignando los fondos liberados a proyectos de otras comunas.
 
 El SERVIU deberá realizar un permanente monitoreo del ingreso a Caja de dicho Servicio de aportes Municipales comprometidos, debiendo elaborar un informe mensual de su cumplimiento, detallado por comuna y llamado, el que remitirá a la SEREMI, al Gobierno Regional y a la División de Desarrollo Urbano del MINVU e informar estas deudas a las respectivas Municipalidades.
 
-14º.- El Municipio apoyará la labor del respectivo Serviu regional en la inspección de las obras de pavimentación durante su ejecución. Para ello, el Serviu o el Municipio contratarán a un inspector técnico de obra, con experiencia en inspección de obras de pavimentación, que representará los intereses comunales durante la ejecución de los trabajos. Para la contratación de estos servicios se podrá emplear hasta el 2% del monto de la inversión sectorial asignada a la comuna por el Programa. El pago de estos gastos lo realizará el respectivo Serviu, el cual en todo caso mantendrá la responsabilidad de las obras que le asigna la ley.
+14º.- El Municipio apoyará la labor del respectivo Serviu regional en la inspección de las obras de pavimentación durante su ejecución. Para ello, el Serviu o el Municipio contratarán a un inspector técnico de obra, con experiencia en inspección de obras de pavimentación, que representará los intereses comunales durante la ejecución de los trabajos. Para la contratación de estos servicios se podrá emplear hasta el 2% del monto de la inversión sectorial asignada a la comuna por el Programa. El pago de estos gastos lo realizará el respectivo Serviu, el cual en todo caso mantendrá la responsabilidad de las obras que le asigna la ley. El Serviu podrá requerir material fotográfico o grabación en vídeo de alta resolución, como información mínima necesaria sobre la situación de pavimentación antes, durante y una vez finalizadas las obras. Dicho material gráfico deberá ser mantenido en buenas condiciones para ser consultado.
 
 Los responsables del Programa de Pavimentación Participativa en la Secretaría Regional Ministerial de Vivienda y Urbanismo, previa autorización de sus respectivas Jefaturas y existiendo disponibilidades presupuestarias para financiar los gastos que ello irrogue, podrán efectuar visita a terreno de obras de pavimentación a construir o en construcción, con el objetivo de monitorear su ejecución.
 
-14º.- Derógase la resolución exenta Nº 1.930 (V. y U.), de 1997, publicada en el Diario Oficial de 4 de agosto de 1997 y sus modificaciones.
+15º.- A fin de velar por la calidad de los diseños y de las obras del Programa, los respectivos proyectistas (consultores e ingenieros civiles) y empresas constructoras responsables de los diseños y de la construcción de las obras, deberán ser periódicamente evaluados por el Serviu respectivo, según los procedimientos y metodologías que establecen el "Registro Nacional de Consultores" y el "Registro Nacional de Contratistas", regulados, respectivamente, por DS Nº 135 (V. y U.), de 1978, y por DS Nº 127 (V. y U.), de 1977.
 
-> **Nota.** El Nº 1º D) de la RES 2983 Exenta, vivienda, publicada el 10.09.2005, ordena sustituir la letra c), del inciso segundo, de la letra i), del número 3º, por la siguiente: "c) En el caso de las comunas de Ovalle, Canela e Illapel de la IV Región, de las comunas de Valparaíso y de Viña del Mar de la V Región y de las comunas de Penco, Tomé, Talcahuano, Lota, Coronel y Lebu de la VIII Región, en atención a sus características morfológicas, que demandan la ejecución de obras especiales de estabilización de suelos y de canalización de aguas lluvias en el espacio público, el valor límite de pavimentación podrá ser incrementado, sólo por concepto de obras anexas imprescindibles, hasta en $20.000 por metro cuadrado." Sin embargo, la citada letra no que se indica no existe, por tanto, no se ha incorporado al presente texto actualizado.
+16º.- Durante la ejecución de las obras de pavimentación o de repavimentación del Programa, los proyectos y obras sólo podrán sufrir modificaciones o ajustes menores propios de la gestión de un contrato de obras, como disminuciones, ampliaciones u obras extraordinarias, que impliquen un aumento de monto del contrato original de hasta un 10%. Sin embargo, de existir una necesidad técnica impostergable de contratar obras adicionales por un mayor monto, para permitir la correcta construcción de las obras de pavimentación o de repavimentación, además de cumplir con los requisitos exigidos al efecto por el DS Nº 236 (V. y U.), de 2002, previamente deberá contar con visación de la Unidad Técnica de Proyectos del respectivo Serviu, de la Seremi respectiva, por las implicancias presupuestarias y programáticas que involucre, como asimismo del Comité de Pavimentación y de la Municipalidad respectivos.
+
+17º.- Derógase la resolución exenta Nº 1.930 (V. y U.), de 1997, publicada en el Diario Oficial de 4 de agosto de 1997 y sus modificaciones.
+
+> **Nota.** El Nº 1º D) de la RES 2983 Exenta, vivienda, publicada el 10.09.2005, ordena sustituir la letra c), del inciso segundo, de la letra i), del número 3º, por la siguiente: "c) En el caso de las comunas de Ovalle, Canela e Illapel de la IV Región, de las comunas de Valparaíso y de Viña del Mar de la V Región y de las comunas de Penco, Tomé, Talcahuano, Lota, Coronel y Lebu de la VIII Región, en atención a sus características morfológicas, que demandan la ejecución de obras especiales de estabilización de suelos y de canalización de aguas lluvias en el espacio público, el valor límite de pavimentación podrá ser incrementado, sólo por concepto de obras anexas imprescindibles, hasta en $20.000 por metro cuadrado." Sin embargo, la citada letra que se indica no existe, por tanto, no se ha incorporado al presente texto actualizado.
+
+> **Nota.** NOTA 1: La letra D) del Nº 1 de la RES 5644 exenta, Vivienda, publicada el 22.08.2008, reemplazó las tablas contenidas en el inciso 1º de la letra i) del Nº 3, las que no se ingresaron por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
+
+> **Nota.** NOTA 2: Las letras E) y F) del Nº 1 de la RES 5644 exenta, Vivienda, publicada el 22.08.2008, modificaron la letra c) del inciso 3º de la letra i), en el siguiente sentido: "E) Reemplázase en la letra c) del inciso tercero de la letra i) del número 3º, el guarismo $20.000 por el guarismo $25.000. F) Agrégase a la letra c) del inciso tercero de la letra i) del número 3º, el siguiente inciso: "Excepcionalmente en otras comunas, la Seremi, con aprobación del Serviu respectivo, podrá autorizar la aplicación del beneficio especificado en el inciso anterior a aquellos proyectos que presenten situaciones extremas y fundadas de requerimientos de mayores obras anexas imprescindibles para la pavimentación y que por esta razón superen el Valor Límite de Pavimentación fijado en esta resolución.". Por no estar incorporada la citada letra, según lo que se expone en nota anterior, no se ha ingresado al presente texto actualizado.
+
+> **Nota.** NOTA 3 El Nº 1 de la Resolución 7226 exenta, Vivienda, publicada el 05.11.2009, reemplazó las tablas contenidas en el inciso 1º de la letra i) del Nº 3, las que no se ingresaron por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
 
 #### Artículo 1º
 
@@ -725,6 +759,16 @@ transitorio: Durante el año 2004, si después de efectuada la selección corres
 #### Artículo 3°
 
 Transitorio: Durante el año 2005 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, tendrá como fecha de cierre el día 30 de Septiembre del 2005.
+
+#### Artículo 4º
+
+Transitorio. En consideración a los beneficios que consultan los Planes Territoriales Habitacional y Urbano para las Provincias de Chiloé y Palena, para las regiones de Los Ríos y de Aysén y para la comuna de Cochamó y sus fundamentos, se reducen en un 50% los aportes requeridos por el Programa, a las Municipalidades que las conforman, para los efectos del próximo 19º Proceso de Selección de Proyectos.
+
+El beneficio dispuesto en el inciso anterior podrá ser aplicable a procesos de selección de proyectos efectuados con anterioridad a la vigencia de la presente resolución, sólo respecto de actuaciones aun no realizadas y/o efectos aun no producidos.
+
+#### Artículo 5º
+
+Transitorio. Durante el año 2009 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 30 de noviembre de 2009.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
