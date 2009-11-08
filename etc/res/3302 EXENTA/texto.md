@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.302, de 5 de octubre de 2009, de esta Subsecretaría, autorízase a CLARA LUZ CORREA DÍAZ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Sitio Nº 6, Villa El Estero Duao, Licantén, VII Región, para elaborar en líneas Cocido, Fresco enfriado, Fresco refrigerado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 5 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
