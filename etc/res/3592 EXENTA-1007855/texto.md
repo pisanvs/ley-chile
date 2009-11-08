@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.592, de 28 de octubre de 2009, de esta Subsecretaría, autorízase a MARCELINO GONZÁLEZ SILVA para ampliar actividades pesqueras extractivas con la nave "Berta", en el área marítima comprendida entre la V a VIII Regiones, por fuera del área de reserva artesanal, con red de arrastre, sobre los siguientes recursos hidrobiológicos: Besugo y Alfonsino.
+
+Valparaíso, 28 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
