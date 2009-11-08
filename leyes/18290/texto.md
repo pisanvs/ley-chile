@@ -1036,7 +1036,7 @@ Prohíbese a los conductores de estos vehículos:
 
 2.- Llevar pasajeros en las pisaderas y no mantener cerradas las puertas del vehículo cuando se encuentre en movimiento;
 
-3.- Admitir individuos ebrios, desaseados, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad o cualquier clase de comercio en el vehículo;
+3.- Admitir individuos ebrios, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad;
 
 4.- Admitir animales, canastos, bultos o paquetes que molesten a los pasajeros o que impidan la circulación por el pasillo del vehículo. Exceptúanse de esta prohibición, los perros de asistencia que acompañen a pasajeros con discapacidad.
 
@@ -1045,6 +1045,22 @@ Prohíbese a los conductores de estos vehículos:
 6.- Aumentar o disminuir la velocidad del vehículo con el objeto de disputarse pasajeros, entorpeciendo la circulación y el buen servicio, y
 
 7.- Fumar en el interior del vehículo.
+
+#### Artículo 91 bis
+
+Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones:
+
+a) Los trabajadores vendedores ambulantes independientes del transporte deberán contar con iniciación de actividades como tales ante el Servicio de Impuestos Internos.
+
+b) En el caso de que dichos trabajadores se encuentren, además, organizados y registrados como sindicato de trabajadores independientes en la Dirección del Trabajo, podrán solicitar, a su costo, la emisión de una credencial que los acredite como tales.
+
+c) Los trabajadores que ejerzan este oficio deberán acreditar el origen de las mercaderías que expendan y exhibir la copia de su iniciación de actividades, ante el requerimiento que en cualquier momento efectúe la fuerza pública.
+
+d) Las empresas de transporte urbano de pasajeros podrán acordar con los sindicatos de trabajadores independientes la emisión de credenciales que permitan el ejercicio de esta actividad.
+
+e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejercicio de esta actividad en sus respectivas máquinas, salvo si ello implica, en un momento determinado, un peligro de accidente vial, o bien entorpece de manera manifiesta y evidente la comodidad de los pasajeros, especialmente en las horas de mayor congestión. Asimismo, deberán negarse a la subida de un vendedor en paraderos no autorizados.
+
+f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor.
 
 De los pasajeros de vehículos de locomoción
 
