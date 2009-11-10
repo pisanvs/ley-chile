@@ -4,8 +4,6 @@ Núm. 6 exenta.- Santiago, 15 de enero de 2009.- Vistos: El DFL Nº 10, de 1981 
 
 Resolución:
 
-> **Nota.** El numeral II de la resolución 89 exenta, Correos, publicada el 02.10.2007, deroga, en lo pertinente, la presente norma.
-
 1.- Aplíquese, a contar del 19 de enero de 2009
 
 la siguiente estructura tarifaría base máxima a los
