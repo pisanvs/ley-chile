@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.515, de 20 de octubre de 2009, de esta Subsecretaría, autorízase a JOSÉ MARIANO MONTEALEGRE ANDRADE para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Lote dos del Lote A, Predio Santa Gema, camino Chillán a Yungay, Km. 10, Chillán Viejo, Chillán, VIII Región, donde podrá elaborar en la línea Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de octubre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
