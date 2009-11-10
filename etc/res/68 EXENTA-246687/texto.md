@@ -4,10 +4,6 @@ Núm. 68 exenta.- Santiago, 30 de noviembre de 2006.- Vistos: El DFL N°10, de 1
 
 Resolución:
 
-> **Nota.** La Resolución 13 exenta, Transportes, publicada el 09.04.2011 modifica la presente norma en su numeral 1 de la manera que en ella se indica
-
-> **Nota.** NOTA 1 El Número II de la Resolución 58 exenta, Transportes, publicada el 20.08.2011 modifica la presente norma en el sentido que en ella se indica.
-
 1° Créase y reglaméntase el servicio postal de encomienda estándar para el ámbito nacional.
 
 #### Artículo 1°
