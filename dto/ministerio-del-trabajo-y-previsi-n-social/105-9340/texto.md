@@ -46,33 +46,25 @@ c) De escolaridad: Se concederá por cada afiliado estudiante o por cada estudia
 
 Para el efecto de este subsidio, se entenderá que son estudiantes quienes cursen regularmente estudios o actividades de pre-kinder, kindergarten, educación básica, media, diferencial, universitaria, técnica, superior o comercial, en algún establecimiento del Estado o reconocido por éste. Asimismo, podrán dar lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural, previa calificación, según pautas que determine el Consejo Administrativo;
 
-d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este subsidio se pagará, aun cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
+d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este beneficio no procederá cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
 
-La defunción deberá acreditarse mediante el correspondiente certificado.
+La defunción deberá acreditarse mediante el correspondiente certificado. En caso de fallecimiento del afiliado, este subsidio se pagará, cuando corresponda, a quien acredite haber cancelado los gastos del funeral. En caso de existir un remanente, éste se pagará conforme al siguiente orden de precedencia:
 
-En caso de fallecimiento del afiliado, este subsidio se pagará de acuerdo al siguiente orden de precedencia:
+1.- Hijos menores de 25 años.
 
-1.- Cónyuge sobreviviente.
+2.- Cónyuge sobreviviente.
 
-2.- Hijos.
+La calidad de hijos menores de 25 años o cónyuge sobreviviente deberá acreditarse mediante los correspondientes certificados de nacimiento y matrimonio.
 
-3.- Padres.
+En caso de faltar los enumerados se pagará a quien el afiliado haya designado mediante carta firmada ante Notario y entregada en el Departamento de Bienestar. En la eventualidad que el afiliado mantuviera deudas con el Departamento de Bienestar, éstas se pagarán en primer lugar.
 
-La calidad de cónyuge sobreviviente, hijos o padres deberá acreditarse mediante los correspondientes certificados.
-
-En caso de faltar los enumerados, se pagará a quienes sean beneficiarios de la posesión efectiva del afiliado.
-
-En la eventualidad que el afiliado mantuviera deudas con el Departamento de Bienestar, éstas se pagarán en primer lugar.
-
-Se otorgará el mismo subsidio de fallecimiento por el hijo recién nacido, aun cuando no hubiese sido reconocido como carga familiar y por el mortinato a partir del 5º mes de gestación.
-
-El monto de cada una de las asignaciones a que se refiere esta letra será determinado anualmente por el Consejo Administrativo del Departamento de Bienestar del Poder Judicial, de acuerdo a las disponibilidades presupuestarias y conforme a parámetros objetivos y generales.
+Se otorgará el mismo subsidio de fallecimiento del hijo recién nacido aun cuando no hubiere sido reconocido como carga familiar, y por el mortinato a partir del 5º mes de gestación;
 
 e) Para fomento del estudio o beca de escolaridad: Anualmente el afiliado tendrá derecho a esta asignación por cada hijo reconocido como causante de asignación familiar que siga cursos regulares en la enseñanza básica, media, normal, técnica, especializada o superior, en instituciones del Estado o reconocidas por éste, y que cumpla las condiciones de rendimiento o de necesidad económica que determine el Consejo Administrativo. El afiliado devengará también este beneficio en caso que fuere el mismo quien sigue aquellos cursos regulares. Los montos y condiciones de estas becas se fijarán anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento y conforme a parámetros objetivos y generales, que se darán a conocer a los afiliados con a lo menos sesenta días de anticipación al inicio de las postulaciones;
 
 f) De Navidad: Se otorgará este beneficio a todos los socios que estén afiliados al Departamento de Bienestar al uno de diciembre de cada año. Los montos y modalidades serán fijados anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento.
 
-g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento calificado; o por cualquier otra situación imprevista y que cause grave daño personal o material al afiliado o su grupo familiar, calificada por el Consejo Administrativo.
+El monto de cada una de las asignaciones a que se refiere este artículo será determinado anualmente por el Consejo Administrativo del Departamento.
 
 #### Artículo 5°
 
@@ -221,10 +213,6 @@ En el caso de los funcionarios que se acogen a jubilación, este plazo comenzar�
 #### Artículo 14°
 
 Los afiliados tendrán derecho a percibir los beneficios médicos que el Departamento otorga desde la fecha de incorporación. Los demás beneficios, podrán ser solicitados una vez transcurridos 5 meses desde la incorporación, o dentro de los plazos especiales establecidos en el presente reglamento.
-
-#### Artículo transitorio
-
-Excepcionalmente, con motivo del terremoto que afectó a Chile en la madrugada del 27 de Febrero de 2010, y sólo en esta ocasión, para solicitar este subsidio se requerirá únicamente tener la calidad de afiliado al departamento a la fecha en que acaeció dicho fenómeno natural.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.- Soledad Alvear Valenzuela, Ministro de Justicia.
 
