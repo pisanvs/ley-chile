@@ -1,10 +1,10 @@
-APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL SERVICIO DE SALUD LLANQUIHUE - CHILOE - PALENA
+APRUEBA REGLAMENTO DEL SERVICIO DE BIENESTAR DEL SERVICIO DE SALUD DEL RELONCAVI
 
 Núm. 98.- Santiago, mayo 24 de 1996.- Vistos: lo dispuesto en las Leyes Nºs. 11.764, artículo 134, 16.395, artículo 24, y 17.538, artículo único; en el Decreto Ley Nº 2763, de 1979; en el Decreto Supremo Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social; y la facultad que me confiere el artículo 32, Nº 8, de la Constitución Política de la República de Chile,
 
 D e c r e t o:
 
-Apruébase el siguiente Reglamento del Servicio de Bienestar para los funcionarios del Servicio de Salud Llanquihue, Chiloé y Palena.
+Apruébase el siguiente Reglamento del Servicio de Bienestar para los funcionarios del Servicio de Salud del Reloncaví
 
 T I T U L O I
 
@@ -12,7 +12,7 @@ Del Servicio de Bienestar
 
 #### Artículo 1º
 
-El Servicio de Bienestar del Servicio de Salud Llanquihue, Chiloé y Palena, en adelante "El Servicio", tiene por objeto contribuir al bienestar del afiliado y sus causantes de asignación familiar, cooperando a su adaptación al medio y a la elevación de sus condiciones de vida.
+El Servicio de Bienestar del Servicio de Salud del Reloncaví, en adelante "El Servicio", tiene por objeto contribuir al bienestar del afiliado y sus causantes de asignación familiar, cooperando a su adaptación al medio y a la elevación de sus condiciones de vida.
 
 El referido Servicio se regirá por el artículo 134 de la Ley Nº 11.764, la Ley Nº 17.538, el artículo 24 de la Ley Nº 16.395, el D.S. Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "El Reglamento General", y por el presente Reglamento.
 
@@ -48,7 +48,7 @@ Para ser elegido representante de los afiliados se requiere, además de los requ
 
 a) Ser afiliado al Servicio de Bienestar con una antigüedad no inferior a dos años.
 
-b) No ser integrante de la planta de directivos del Servicio de Salud Llanquihue, Chiloé y Palena.
+b) No ser integrante de la planta de directivos del Servicio de Salud del Reloncaví.
 
 #### Artículo 5º
 
@@ -74,7 +74,7 @@ El Servicio de Bienestar obtendrá su Financiamiento a través de los siguientes
 
 a) Con una cuota de incorporación que deberán pagar los afiliados por una sola vez, de hasta el 2% de su remuneración mensual imponible para pensiones o de su pensión de jubilación, porcentaje que fijará anualmente el Consejo Administrativo;
 
-b) Con los aportes que anualmente se consulten en el presupuesto del Servicio de Salud Llanquihue-Chiloé-Palena y que éste aportará conforme a las normas legales, reglamentarias y estatutarias vigentes;
+b) Con los aportes que anualmente se consulten en el presupuesto del Servicio de Salud del Reloncaví y que éste aportará conforme a las normas legales, reglamentarias y estatutarias vigentes;
 
 c) Con el aporte mensual de los afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones, porcentaje que fijará anualmente el Consejo Administrativo;
 
@@ -84,15 +84,23 @@ e) Con los intereses de los préstamos que otorgue el Servicio a sus afiliados;
 
 f) Con las comisiones que perciban en virtud de los convenios que celebren con terceros para el otorgamiento de beneficios a sus afiliados;
 
-g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias a su favor; y
+g) Con las sumas provenientes de herencias, legados, donaciones y erogaciones voluntarias a su favor,
 
-h) Con los demás bienes o recursos que el servicio obtenga a cualquier otro título.
+h) Con los demás bienes o recursos que el servicio obtenga a cualquier otro título,
+
+i) Aquellos dineros que se generen de los fondos provenientes de las operaciones del Artículo 8º inciso 3º, y;
+
+j) Con los excedentes que se generen de la administración de los Recintos de Veraneo u otros recintos o establecimientos, determinando el Consejo Administrativo anualmente el porcentaje de excedentes que pasa al presupuesto del Servicio de Bienestar
 
 #### Artículo 8º
 
 Los fondos del Servicio de Bienestar serán depositados en una cuenta corriente subsidiaria de la Cuenta Unica Fiscal y contra ella sólo podrán girar conjuntamente el Jefe del Servicio de Bienestar y el funcionario designado por el Director del Servicio de Salud, no pudiendo dicha designación recaer en el contador del mismo.
 
 En casos de ausencia o impedimento de los giradores mencionados en el inciso primero, éstos serán reemplazados por los funcionarios que el Director del Servicio de Salud haya designado en calidad de suplentes.
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio de Bienestar podrán ser invertidos en instrumentos que otorguen rentabilidad, en conformidad con lo dispuesto en el artículo 3º del decreto ley Nº 1.056, de 1975 y sus modificaciones posteriores, previa autorización del Ministerio de Hacienda y sólo respecto de los recursos provenientes de ventas de activos o excedentes estacionales de caja, conforme lo dispone el artículo 2º del decreto ley Nº 1.263, de 1975. Lo anterior, con la finalidad de obtener mayores recursos que permitan aumentar los fondos en beneficio de los afiliados/as.
+
+El monto de los fondos y la forma en que serán depositados será determinado por el Consejo Administrativo anualmente
 
 T I T U L O V
 
@@ -146,25 +154,25 @@ El Servicio podrá otorgar las siguientes ayudas en dinero o en especies no suje
 
 a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
 
-b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
+b) Nacimiento: Se concederá una ayuda cuando el afiliado compruebe con instrumento público el nacimiento de un hijo o la adopción de un menor. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y cada una de sus cargas familiares reconocidas incluido el mortinato, a partir del quinto mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1.) A la persona designada expresamente para tales efectos por el afiliado;
+1.- A la persona designada expresamente para tales efectos por el afiliado.
 
-2.) Al cónyuge sobreviviente;
+2.- Al cónyuge sobreviviente.
 
-3.) A los hijos legítimos;
+3.- A los hijos
 
-4.) A los hijos naturales;
+4.- A los padres
 
-5.) A los padres legítimos;
+5.- A la persona que acredite haber efectuado los gastos del funeral
 
-6.) A la persona que acredite haber efectuado los gastos del funeral.
+d) Educación: Se concederá una asignación de educación, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles de enseñanza pre-básica, básica, media, técnica, especializada y superior, en algún establecimiento del Estado o reconocido por éste.
 
-d) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, siempre que las disponibilidades presupuestarias lo permitan, a los afiliados y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+Se entenderá por niveles pre-básicos: nivel medio menor, nivel medio mayor, primer nivel de transición (pre-Kinder) y segundo nivel de transición (Kinder).
 
 e) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la educación de un afiliado o de sus hijos causantes de asignación familiar.
 
@@ -188,13 +196,21 @@ Además, el Servicio podrá celebrar y financiar la Celebración de Aniversario 
 
 #### Artículo 13º
 
-El Servicio de Bienestar propenderá al progreso social, educacional, deportivo y artístico de sus afiliados y cargas familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+El Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida y/o seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+El Servicio de Bienestar propenderá al progreso social cultural, recreativo, educacional, artístico y deportivos de sus beneficiarios. Con este objeto, siempre que sus recursos lo permitan, podrá:
 
-#### Artículo 14º
+a) Celebrar y financiar la Navidad para sus afiliados, cargas familiares; como asimismo celebrar, financiar el Día aniversario del Servicio de Salud, Día del Hospital, con actividades recreativas, deportivas en las cuales participen sus afiliados.
 
-El Servicio de Bienestar podrá, además, administrar colonias, refugios, casa de huéspedes u otras instalaciones que le sean asignadas para el uso de sus beneficiarios, quedando excluidas de dicha facultad la de contratar personal, la que corresponderá a la respectiva institución.
+b) Financiar o ayudar a financiar actividades culturales, deportivas, recreativas, festividades navideñas, actividades vacacionales, encuentros folclóricos, festivales musicales y programas de información a los afiliados.
+
+c) Conceder ayudas a los Jardines Infantiles, clubes escolares, colonias de veraneo y de vacaciones, hogares sociales, casinos del personal, policlínicos del personal, clubes deportivos y, en general, otras actividades que propendan a los fines señalados anteriormente y que beneficien directamente a sus afiliados.
+
+d) Asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional, cultural y/o jurídica, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+
+e) Administrar colonias de veraneo, Jardines Infantiles, refugios, casa de huéspedes, Sedes sociales, Complejos Deportivos, Economatos y otros inmuebles para el uso de sus beneficiarios, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la institución. Asimismo podrá celebrar convenios con otros Servicios de Bienestar con el objeto de que sus afiliados puedan hacer uso de los inmuebles que éstos administren, y
+
+f) Otorgar a sus afiliados/as regalos en: cumpleaños, fiestas patrias, día del padre, día de la madre, día del niño, día de la secretaria, día de la mujer, día de las profesiones, en reconocimiento a los afiliados destacados por su labor en el Servicio, en reconocimiento al socio jubilado, y otras que apruebe el Consejo Administrativo. Asimismo podrá adquirir y vender a sus afiliados vales de supermercado, abastecedora y distribuidoras de combustibles y multitiendas.
 
 Párrafo Tercero
 
@@ -252,7 +268,7 @@ Disposiciones generales
 
 #### Artículo 19º
 
-Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento.
+Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Servicio a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Servicio o dentro de los plazos especiales establecidos en el presente Reglamento. Con todo y en forma excepcional, se podrá prescindir de los plazos establecidos precedentemente, si así lo autoriza el Consejo, en consideración a la situación especial del afiliado.
 
 #### Artículo 20º
 
@@ -260,7 +276,7 @@ Corresponderá al Consejo Administrativo determinar los procedimientos o documen
 
 #### Artículo 21º
 
-El derecho a solicitar los beneficios que concede el Servicio de Bienestar caducará luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlo.
+El derecho a solicitar los beneficios que concede el Servicio de Bienestar caducará luego de transcurridos seis meses desde la fecha en que haya ocurrido el hecho constitutivo de la causal que se invoque para solicitarlo. Tratándose de la adopción de un menor, el plazo de caducidad del cobro del subsidio por nacimiento se contará desde la fecha de la inscripción de la sentencia que concede la adopción en el registro pertinente del Servicio de Registro Civil e Identificación.
 
 En el caso de los funcionarios que se acogen a jubilación, este plazo comenzará a regir desde la fecha en que se declare la calidad de tal, para los beneficios causados en el período comprendido entre esta fecha y la del cese de sus funciones.
 
