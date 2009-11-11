@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.478, de 16 de octubre de 2009, de esta Subsecretaría, autorízase a UNIVERSIDAD DE CONCEPCIÓN para desarrollar actividades experimentales de cultivo de semillas de bivalvos marinos, cuyo objetivo general consiste en la producción de semillas de bivalvos marinos para el desarrollo de la acuicultura a pequeña escala.
+
+Las actividades se desarrollarán por el término de 3 años, en la concesión marítima otorgada a la peticionaria mediante D.S. Nº 73, de 1982, renovado mediante D.S. Nº 307, de 2003, ambos del Ministerio de Defensa Nacional, y en la concesión de acuicultura otorgada por resolución Nº 1.693, de 2002, de la Subsecretaría de Marina, ambos ubicados en Bahía Villarrica, Dichato, VIII Región.
+
+Valparaíso, 16 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
