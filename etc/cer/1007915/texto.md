@@ -1,0 +1,9 @@
+CERTIFICA CUMPLIMIENTO DE LAS OBRAS CORRESPONDIENTES AL MUSEO UBICADO EN LAS RUINAS DE HUANCHACA, CAFETERÍA, TIENDA DE SOUVENIRS, SALA DE EXPOSICIONES Y ANFITEATRO, CONTEMPLADOS EN EL PROYECTO INTEGRAL DE LA SOCIEDAD OPERADORA OPERACIONES EL ESCORIAL S.A., EN LA COMUNA DE ANTOFAGASTA
+
+El Superintendente de Casinos de Juego, Sr. Francisco Javier Leiva Vega, de conformidad con lo dispuesto en el artículo 28 de la ley Nº 19.995 y el artículo 37 del decreto supremo Nº 211, de 2005, del Ministerio de Hacienda, hoy 16 de marzo de 2009, certifica lo siguiente:
+
+1. Operaciones El Escorial S.A. ha dado cumplimiento a las obligaciones que la ley Nº 19.995 y sus reglamentos establecen respecto de la ejecución de las obras e instalaciones correspondientes al Museo ubicado en el sector de las Ruinas de Huanchaca, con una cafetería, tienda de souvenirs, sala de exposiciones, y que incluye un anfiteatro al aire libre, y que ha sido desarrollado conforme a las condiciones establecidas en el permiso de operación otorgado a través del Acuerdo Nº 2 del Acta de la sesión del Consejo Resolutivo de la II Región de Antofagasta, el 10 de julio de 2006, y de la resolución exenta Nº 175, de 21 de julio de 2006, de la Superintendencia de Casinos de Juego y sus modificaciones posteriores.
+
+2. A contar de la fecha del presente certificado, la Fundación Ruinas de Huanchaca y doña Liliana Alejandra Castillo Sandoval, se encuentran habilitadas para dar inicio, respectivamente, a la operación del Museo y cafetería y tienda de souvenirs comprendidos en el proyecto integral de la sociedad operadora Operaciones El Escorial S.A.-
+
+Francisco Javier Leiva Vega, Superintendente de Casinos de Juego.
