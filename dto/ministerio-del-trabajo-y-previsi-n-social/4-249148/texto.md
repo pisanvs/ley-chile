@@ -162,15 +162,21 @@ Para solicitar esta ayuda, deberá comprobarse la necesidad mediante un certific
 
 f) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio, con excepción de préstamos habitacionales.
 
-El monto de las ayudas contempladas en las letras
+g) Vacaciones: Se otorgará un Bono de Vacaciones, por una sola vez en el año al afiliado(a).
 
-- **a)** a
+h) Beneficio de Navidad: Se otorgará a todos los afiliados(as) en el mes de diciembre y consistirá en una Canasta Familiar en especies o en un vale, para canjearlo por mercadería.
 
-- **e)** precedentes será determinado por el Consejo conforme a lo señalado en la letra
+i) Beca de Excelencia Académica: Se otorgará por una sola vez en el año, a los hijos(as) de los afiliados(as) que cursen Enseñanza Básica, Media, Técnica o Universitaria.
 
-- **g)** del artículo 29º del Reglamento General.
+j) Beneficio de Fiestas Patrias: Se otorgará a todos los afiliados un bono, en el mes de septiembre de cada año.
 
-Para solicitar los beneficios señalados en las letras a), b), c) y d), el afiliado deberá presentar una solicitud con el certificado respectivo emitido por el Servicio de Registro Civil e Identificación o el establecimiento educacional, según corresponda. En el caso del beneficio señalado en la letra e), se deberán presentar, junto con la solicitud, antecedentes suficientes que a juicio del Consejo acrediten la situación del afiliado.
+El monto de las ayudas contempladas en las letras a), b), c), d), e), g), h), i), y j), precedentes será determinado por el Consejo conforme a lo señalado en la letra g), del artículo 29º del Reglamento General.
+
+Para solicitar los beneficios señalados en las letras a), b), c), y d), el afiliado deberá presentar una solicitud con el certificado respectivo emitido por el Servicio de Registro Civil e Identificación o el establecimiento educacional, según corresponda. En el caso del beneficio señalado en la letra e), se deberá presentar, junto con la solicitud, antecedentes suficientes que a juicio del Consejo acrediten la situación del afiliado.
+
+Los beneficios establecidos en las letras h) y j) se entregarán a todos los afiliados(as) que se encuentren al día en sus aportes y que no tengan deudas pendientes con el Servicio de Bienestar.
+
+Para solicitar el beneficio establecido en la letra i), el afiliado(a) deberá presentar en el mes de marzo, junto con su solicitud, los siguientes documentos: Certificado de alumno regular y concentración de notas del año inmediatamente anterior. Para optar a este beneficio, se deberá tener un promedio de notas igual o superior a 6
 
 Párrafo Tercero
 
