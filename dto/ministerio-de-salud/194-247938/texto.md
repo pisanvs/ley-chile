@@ -2198,10 +2198,6 @@ CROTAMITON Crema 10%
 
 Loción tópica 10%
 
-Alternativa:
-
-Lindano Emulsión 1%
-
 DELTAMETRINA PIPERONIL BUTOXIDO Loción 20 mg + 2,5 mg
 
 Champú 20 mg + 2,5 mg
