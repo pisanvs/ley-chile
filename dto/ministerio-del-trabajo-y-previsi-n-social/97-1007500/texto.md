@@ -47,3 +47,23 @@ La personería de don Aldo Simonetti Piani y don Víctor Patricio Calvo Ebensper
 Anótese, comuníquese, tómese razón y publíquese.- Michelle Bachelet Jeria, Presidenta de la República.- Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a usted, para su conocimiento.- Mauricio Jélvez Maturana, Subsecretario del Trabajo.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance el decreto Nº 97, de 2009, del Ministerio del Trabajo y Previsión Social
+
+Nº 59.425.- Santiago, 28 de octubre de 2009.
+
+Esta Contraloría General ha dado curso al documento individualizado en la suma, mediante el cual se aprueban modificaciones al contrato de administración del seguro obligatorio de cesantía, por cuanto se ajusta a derecho.
+
+No obstante, cumple con hacer presente, que la cita al artículo 42 de la ley N° 19.728 que se hace en la parte final de la cláusula quinta de la convención que se aprueba por el decreto en análisis corresponde, en virtud del artículo cuarto transitorio de la ley N° 20.328, al precepto actualmente vigente.
+
+Saluda atentamente a Ud., Sonia Doren Lois, Contralor General de la República Subrogante.
+
+A la señora
+
+Ministra del Trabajo y Previsión Social
+
+Presente.
