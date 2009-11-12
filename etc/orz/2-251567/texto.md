@@ -56,6 +56,8 @@ Acopiador: Persona natural o jurídica que adquiere miel de terceros, sean apicu
 
 Apiario: Lugar donde se encuentra un conjunto de colmenas igual o superior a cinco unidades por apicultor, con toda la infraestructura que le permita funcionar como una unidad operativa básica de producción, independiente de su especialización.
 
+Apiario Temporal: Los apicultores residentes, con sus apiarios debidamente inscritos, pueden trasladarlos dentro de la comuna. Siempre que ello no signifique un perjuicio a otros apicultores residentes.
+
 Colmena: Conjunto de abejas (Apis mileferas) que forman una familia compuesta por una abeja reina, abejas obreras y zánganos.
 
 Panal: Es una estructura utilizada para el funcionamiento de colonias de abejas melíferas, incluidas las colmenas sin panal fijo, y de todos los diseños de colmenas de panal movible (incluidas las colmenas núcleos), pero no los embalajes o jaulas para confinar las abejas con fines de transporte o de aislamiento.
@@ -74,6 +76,8 @@ Oficina SAG: Unidad operativa territorial del Servicio Agrícola y Ganadero en c
 
 Fiscalizador Municipal: Funcionarios Municipales que sean designados para fiscalizar las materias de la presente ordenanza.
 
+Polinización: Proceso por medio del cual se incorpora en la producción industrial de cultivos de cualquier naturaleza, en forma tecnológicamente planificada, insectos polinizadores como las abejas y sus apiarios
+
 Del Area de Explotación
 
 #### Artículo 3º
@@ -84,7 +88,11 @@ Del Apicultor Residente
 
 #### Artículo 4º
 
+El apicultor residente es quien tenga residencia efectiva, con domicilio y actividad comercial en la Comuna de Panguipulli, no inferior a dos y un año, respectivamente, certificado por órganos competentes
+
 El apicultor residente tiene el derecho sobre el uso de las especies florales melíferas de los bosques y praderas que se encuentran en los predios fiscales y privados que protegen el suelo y relieve de las cuencas y sectores precordilleranos dentro de los límites del área de explotación apícola. Los apicultores residentes registrarán sus apiarios en el Servicio Agrícola y Ganadero, los que serán señalizados y registrados por los organismos públicos competentes.
+
+El número de apiarios no debe ser superior al establecido en el artículo 8º, con el objeto de resguardar la carga floral
 
 Del Apicultor Trashumante
 
@@ -98,25 +106,31 @@ b) Registro de movimientos de colmenas trashumantes del SAG en que se dé cuenta
 
 Todo arrendador de un predio para colmenas trashumantes, deberá registrarse en la Oficina de Desarrollo Económico Local. El incumplimiento de esta obligación será sancionado de conformidad a lo establecido en el artículo séptimo de esta ordenanza.
 
+Asimismo, estará obligado a comunicar a la oficina del Servicio Agrícola y Ganadero SAG Comunal o en su defecto en la Municipalidad de Panguipulli, dentro de las 24 horas siguientes al ingreso a la comuna. Este registro es sin perjuicio de lo dispuesto en el artículo 8º.
+
+Esta comunicación será obligatoria también para el apicultor residente que desee trasladarse dentro de la comuna. Este traslado debe notificarlo por escrito a la Municipalidad de Panguipulli, con un plazo no superior a 24 horas posteriores al traslado.
+
+Para estos efectos deberá respetarse además la normativa que referente a la Trashumancia entregue SAG.
+
 Sanidad Apícola
 
 #### Artículo 6º
 
-Todo apicultor trashumante que se encuentre en la comuna de Panguipulli estará sujeto a la fiscalización y control sanitario de sus apiarios, los cuales serán muestreados en los predios receptores y el costo que ello implique será asumido por los propietarios de las colmenas.
+Todo apicultor trashumante y residente que se encuentre en la comuna de Panguipulli estará sujeto a la fiscalización y control sanitario de sus apiarios, los cuales serán muestreados en los predios receptores y el costo que ello implique será asumido por los propietarios de las colmenas.
 
-El SAG monitoreará a los apicultores de la comuna para detectar especialmente la presencia de Loque Americana, Loque Europea, Acariosis y Escarabajo de la colmena.
+El SAG actuará frente a los apicultores de la comuna de Panguipulli de acuerdo a su programa anual de vigilancia
 
 De las Prohibiciones
 
 #### Artículo 7º
 
-No podrán ingresar a la comuna de Panguipulli colmenas o cualquier material biológico, químico, equipos, utensilios y materiales, provenientes de una región, provincia o comuna que no se encuentren amparadas por un certificado sanitario emitido por el SAG. Este certificado no podrá tener más de treinta días de antigüedad y deberá acreditar especialmente el encontrarse libre las colmenas, de Loque Americana, Loque Europea, Acariosis y Escarabajo de la colmena.
+No podrán ingresar a la comuna de Panguipulli colmenas provenientes de una región, provincia o comuna que no se encuentren amparadas por un certificado sanitario emitido por el SAG o por un tercero acreditado por el SAG. Este certificado no deberá tener más de treinta días de antigüedad y deberá acreditar especialmente el encontrarse libre de Loque Americana.
 
 #### Artículo 8º
 
-No podrán instalarse colmenas trashumantes en un área de resguardo de cinco kilómetros a la redonda de cualquier apicultor residente que tenga registrado su apiario ante el SAG.
+No podrán instalarse colmenas trashumantes en un área de resguardo de cinco kilómetros a la redonda de cualquier apicultor residente que tenga registrado su apiario ante el SAG. En todo caso, el número de colmenas por apicultor no podrá superar o exceder las 300 unidades en el radio de cinco kilómetros establecidos.
 
-El propietario, arrendatario o tenedor de un predio rural que transgreda directa o indirectamente esta prohibición, será sancionado con una multa de cinco Unidades Tributarias Mensuales a beneficio municipal.
+El registro del apicultor ante el SAG, Municipalidad, INDAP, u otro organismo pertinente, es de carácter personal e intransferible.
 
 De la transgresión a lo dispuesto en el inciso primero, conocerá el Juzgado de Policía Local de conformidad al procedimiento preceptuado en la ley 18.287.
 
@@ -127,6 +141,20 @@ Sin perjuicio de lo anterior, los apicultores afectados podrán ejercer en contr
 El SAG o los Inspectores Municipales podrán denunciar los incumplimientos o contravenciones a la presente ordenanza ante el Juzgado de Policía Local, el que podrá ordenar además de la multa referida en el artículo anterior, la inmediata expulsión de las colmenas trashumantes o el cambio de ubicación de la zona, siendo de cargo del infractor los gastos que ello irrogue.
 
 #### Artículo 10º
+
+En caso de que el Apicultor Residente cuente con un contrato de Polinización se podrá aumentar el número de colmenas definidos en el artículo 8º y/o disminuir los 5 kilómetros de resguardo establecidos en esta ordenanza, mientras dure el contrato de polinización.
+
+#### Artículo 11
+
+El trashumante que directa o indirectamente transgreda esta ordenanza, recibirá una multa de 20 a 30 UTM y aquel que reitere esta conducta será sancionado con una multa de 30 a 100 UTM.
+
+El residente que no cumple con la presente ordenanza, recibirá una multa de 5 UTM.
+
+El propietario, arrendatario o tenedor de un predio rural que transgreda directa o indirectamente esta prohibición, será sancionado con una multa de 5 UTM.
+
+Todas las multas señaladas son de beneficio Municipal.
+
+#### Artículo 12
 
 Las acciones de fiscalización, notificación y denuncia contempladas en la presente ordenanza corresponderá a los Inspectores Municipales, a los funcionarios del SAG y/o a Carabineros de Chile.
 
