@@ -336,21 +336,23 @@ todo tipo de opera-
 
 ciones aduaneras.
 
-16.Sector Norte Permanente Paso de personas y
+16.Sector Norte Permanente Paso de personas e
 
-Paso Jama Norte Operaciones
+importación, exportación
 
-23º13'S de importeción
+Paso Jama Norte y tránsito de graneles
 
-67º03'w de graneles gaseosos
+23º13'S líquidos y gaseosos
 
-17.Sector Sur Permanente Paso de personas
+67º03'w
 
-Paso Jama Sur y operaciones de
+17.Sector Sur Permanente Paso de personas e
 
-23º13'S importación de
+Paso Jama Sur importación, exportación
 
-67º03'W graneles gaseosos
+23º13'S y tránsito de graneles
+
+67º03'W líquidos y gaseosos
 
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
@@ -760,13 +762,13 @@ Piuquenes operaciones de admisión
 
 69º52'W mercancías por turistas.
 
-5.Paso Cajón del Maipo Permanente Paso de personas y
+5.Paso Cajón del Maipo Permanente Paso de personas e
 
-34º14'S operaciones de
+34º14'S importación, exportación
 
-69º48'W importación de graneles
+69º48'W y tránsito de graneles
 
-gaseosos.
+líquidos y gaseosos
 
 K. SUJETOS A LA JURISDICCION DE LA ADUANA DE TALCAHUANO:
 
