@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.654, de esta Subsecretaría, modifícase el numeral 3.- de la resolución Nº 3.613 de 2007, de esta Subsecretaría, que autorizó a la Universidad Católica del Norte para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Caracterización de la Pesquería de Algas Pardas de las Regiones XV a IV", en el sentido de ampliar el plazo señalado hasta el 31 de diciembre de 2009, sólo respecto del área marítima que comprende el litoral de la III Región de Atacama y la IV Región de Coquimbo.
+
+Valparaíso, 2 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
