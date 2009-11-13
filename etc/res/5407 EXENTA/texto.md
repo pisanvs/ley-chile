@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN N° 5.407 EXENTA, DE 08-10-2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público correspondiente al Segundo Cuatrimestre de 2007, se ha asignado a Compañía de Radio y Televisión Nuevo Mundo S.A., RUT N° 99.510.820-8, una concesión de Radiodifusión Sonora en Mínima Cobertura, para la Comuna de Graneros, VI Región, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 107,3 MHz; estudio, planta transmisora y sistema radiante ubicados en Caupolicán N° 212, población Domingo Yáñez, comuna de Graneros, VI Región, coordenadas geográficas 34°04'23" Latitud Sur y 70°43'42" Longitud Oeste (datum PSAD 1956); sistema radiante direccional con polarización vertical, una (1) antena Yagi de tres (3) elementos, ganancia máxima de 4,5 dBd y una altura del centro de radiación de 6 m; pérdidas en cables y conectores de 1,5 dB; y pérdidas por lóbulo, de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAl DE 12.11.2009, PÁGINA 35.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3° de la Ley N° 18.168, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la concesionaria deberá operar con una potencia máxima del transmisor de 0,3 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones contenida en su proyecto técnico y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución.
+
+Los plazos son: inicio de obras, 15 días; término de obras, 30 días; inicio de servicio, 60 días, computados a partir de la fecha de publicación en el Diario Oficial del Decreto que otorgue la concesión.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13°A y 13°B de la ley N° 18.168, a objeto de que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, dentro del plazo de cinco (5) días hábiles contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Servicios de Radiodifusión.
