@@ -12,7 +12,7 @@ Establécese, a contar de la fecha del presente decreto, el siguiente orden de s
 
 2. Don Carlos Riveros Astudillo, Director Regional Interino de SERCOTEC.
 
-3. Don Jaime Montenegro Alvarado, Director Regional Subrogante de Sernapesca.
+3. Don Néstor Leonel Lloyd Márquez, Director Regional Subrogante de Sernapesca.
 
 El orden de la subrogación es el que se ha indicado.
 
