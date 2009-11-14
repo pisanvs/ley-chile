@@ -112,7 +112,7 @@ Cuando se trate del desarrollo de la actividad junto a otro giro comercial con p
 
 Los contribuyentes pagarán los siguientes derechos municipales por los locales comerciales que cuenten con máquinas de habilidad y/o destreza, de acuerdo a la siguiente tabla:
 
-a) Por 1 máquina, deberá pagar 3 UTM por semestre o fracción, por cada una de ellas;
+a) por una (1) máquina, deberá pagar 1 UTM por semestre o fracción, por cada una de ellas;
 
 b) Por 2 máquinas, deberá pagar 5 UTM por semestre o fracción, por cada una de ellas;
 
