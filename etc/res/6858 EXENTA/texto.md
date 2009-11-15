@@ -42,29 +42,27 @@ El horario de funcionamiento para conocer y probar este módulo en el sistema co
 
 Región Total UF
 
-Arica Parinacota 3.684
+Coquimbo 34.280
 
-Coquimbo 65.200
+Valparaíso 196.808
 
-Valparaíso 179.000
+L.B. O'Higgins 152.348
 
-L.B. O'Higgins 187.050
+Maule 190.960
 
-Maule 173.650
+Bío Bío 269.636
 
-Bío Bío 296.800
+Araucanía 74.226
 
-Araucanía 101.580
+De Los Ríos 11.505
 
-De Los Ríos 10.758
+De Los Lagos 96.912
 
-De Los Lagos 210.730
+Magallanes 9.496
 
-Magallanes 20.432
+Metropolitana 739.516
 
-Metropolitana 684.531
-
-TOTAL 1.933.415
+TOTAL 1.775.687
 
 El número de seleccionados en el país alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos anteriormente, incluidos sus respectivos servicios de asistencia técnica y subsidio diferenciado a la localización, si corresponde.
 
