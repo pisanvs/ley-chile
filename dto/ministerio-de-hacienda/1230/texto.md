@@ -354,6 +354,24 @@ Paso Jama Sur importación, exportación
 
 67º03'W líquidos y gaseosos
 
+18. Terminal marítimo
+
+GNL Mejillones Permanente Paso de tripulantes,
+
+23°03' S, 70°22' W importación y
+
+exportación de
+
+graneles líquidos y
+
+gaseosos, transporte,
+
+rancho de naves y
+
+traslado de
+
+desperdicios.
+
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
 Punto Habilitado Habilitación Operaciones aduaneras
