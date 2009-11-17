@@ -1,0 +1,3 @@
+Por decreto exento Nº 1850, de 27 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 4, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Paso Peatonal La Puntilla", que figura a nombre de TORRES ALFARO BERNARDO ENRIQUE, rol de avalúo 8001-5, superficie 223 M2. La Comisión de Peritos, fijó con fecha 31 de octubre de 2008, en la cantidad de $331.600. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
