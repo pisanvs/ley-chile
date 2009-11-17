@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.847 de fecha 27 de octubre de 2009, se expropiaron los lotes de terreno N°s 10 y 10-A, superficies 46 y 30 m2 repectivamente, rol N° 266-6, comuna de Mulchén, para la obra "Mejoramiento Ruta Q-75, Sector Zona Urbana Mulchén, Km. 0,00000 a Km. 0,38700, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Domingo Aguilera Barrera, ascendente a la cantidad de $22.206.334.
+
+Fiscal del Ministerio de Obras Públicas.
