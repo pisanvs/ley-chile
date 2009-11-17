@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.843 de 27 de octubre de 2009, se expropió el lote de terreno N° 9, superficie 12.158 m2, Rol N° 6000-22, comuna de Copiapó, III Región para la obra "Mejoramiento de Ruta C-386, Bifurcación Ruta Toledo (By-pass a Copiapó), Región de Atacama" y se acordó el valor de indemnización con la Sociedad Agrícola Oasis Limitada, ascendente a la cantidad de $5.388.192.
+
+Fiscal del Ministerio de Obras Públicas.
