@@ -1,0 +1,3 @@
+Por decreto exento Nº 1970, de 12 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N° 1, para la obra: Proyecto: "Nuevo Aeródromo Sector Chaitén", Comuna de Chaitén, Provincia de Palena, Región de Los Lagos, que figura a nombre de IZQUIERDO MENENDEZ SANTIAGO, rol de avalúo 203-1, superficie 2.204.735 M2. La Comisión de Peritos, fijó con fecha 14 de septiembre de 2009, en la cantidad de $440.947.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
