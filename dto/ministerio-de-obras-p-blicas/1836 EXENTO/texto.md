@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1836, de fecha 27 de octubre del 2009, se expropió el lote de terreno N° 1, superficie 130 m2, Rol Nº 1401-7, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Paso Peatonal La Puntilla", y se acordó el valor de indemnización con su propietario BALTAZAR o BALTASAR DEL CARMEN OLGUIN OLGUIN, ascendente a la cantidad de $677.250.
+
+Fiscal del Ministerio de Obras Públicas.
