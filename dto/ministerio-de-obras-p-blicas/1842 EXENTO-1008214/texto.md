@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 1.842 de 27 de octubre de 2009, se expropió el lote de terreno N° 4, superficie 5.008 m2, rol de Avalúo 185-44, comuna de San Nicolás, para la obra "Mejoramiento Ruta N-532, Cruce N-50 - Puyaral - Puente El Ala, Prov. Ñuble", VIII Región y se acordó el valor de la indemnización con su propietario Fidel Hermógenes Herrera Quijada, ascendente a la cantidad de $5.150.264.
+
+Fiscal del Ministerio de Obras Públicas.
