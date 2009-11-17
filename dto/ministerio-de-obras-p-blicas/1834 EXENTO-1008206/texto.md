@@ -1,0 +1,3 @@
+Por decreto mop (exento) N° 1.834 de fecha 27 de octubre de 2009, se expropió el lote de terreno N° 2, superficie 171 m2, rol N° 207-4, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de la Gloria (por tramos), Km. 28,69536 al Km. 39,66000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Salvador Hernán Merino Meza, ascendente a la cantidad de $208.294.
+
+Fiscal del Ministerio de Obras Públicas.
