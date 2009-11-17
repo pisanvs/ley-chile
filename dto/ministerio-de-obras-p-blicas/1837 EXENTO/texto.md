@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.837 de 27 de octubre de 2009, se expropió el lote de terreno N° 24, superficie 74 m2, Rol N° 4500-9, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000" y se acordó el valor de indemnización con don Ramón Arcadio Ardiles Ardiles, ascendente a la cantidad de $4.446.933.
+
+Fiscal del Ministerio de Obras Públicas.
