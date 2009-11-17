@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1831 de 27 de octubre de 2009, se expropió el lote de terreno N° 60, superficie 188 m2, Rol N° 912-27, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRANSITO - JUNTA VALERIANO, ETAPA I, KM. 37,80000 AL KM. 44,06000" y se acordó el valor de indemnización con doña MARIA LORENA IBARRA MORAGA, ascendente a la cantidad de $1.490.545.
+
+Fiscal del Ministerio de Obras Públicas.
