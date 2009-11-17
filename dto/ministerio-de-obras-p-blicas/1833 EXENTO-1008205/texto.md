@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº 1.833 de fecha 27 de octubre del 2009, se expropió el lote de terreno Nº 44, superficie 77 m2, Rol Nº 43-76, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, Km. 0,00000 al Km. 23,13600, Región Bío Bío", y se acordó el valor de indemnización con su propietario Héctor Aníbal Quezada Robles, ascendente a la cantidad de $415.050.- para el lote Nº 44.
+
+Fiscal del Ministerio de Obras Públicas.
