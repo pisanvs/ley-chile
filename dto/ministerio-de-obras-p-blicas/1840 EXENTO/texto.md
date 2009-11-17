@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.840 de fecha 27 de octubre del 2009, se expropió el lote de terreno N° 6, superficie 35 m2, Rol N° 343-8, comuna de Penco, VIII Región para la obra "Reposición y Ampliación Ruta 150, Sector Lirquén - Quebrada Honda, Provincia de Concepción, Región del Bío Bío", y se acordó el valor de indemnización con su propietario Fernando Toro Parra, ascendente a la cantidad de $2.528.185.- para el lote N° 6.
+
+Fiscal del Ministerio de Obras Públicas.
