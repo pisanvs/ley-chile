@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1839, de fecha 27 de octubre del 2009, se expropió el lote de terreno N° 4, Superficie 462 m2, Rol N° 103-62, comuna de Peralillo, VI Región para la obra "Construcción Puente Calleuque en Ruta I-340 Peralillo (Km: 10,92000 a Km: 11,22000)", y se acordó el valor de indemnización con su propietario RAUL HERNAN TOLORZA MENESES, ascendente a la cantidad de $2.488.696.
+
+Fiscal del Ministerio de Obras Públicas.
