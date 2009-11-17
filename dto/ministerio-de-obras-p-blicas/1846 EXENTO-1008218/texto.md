@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.846 de fecha 27 de octubre de 2009, se expropió el lote de terreno N° 17, superficie 4.375 m2, rol N° 209-15, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de la Gloria (por tramos), Km. 28,69536 al Km. 39,66000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Sociedad Inmobiliaria Yalber Limitada, ascendente a la cantidad de $18.098.496.
+
+Fiscal del Ministerio de Obras Públicas.
