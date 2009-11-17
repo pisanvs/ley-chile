@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1835, de fecha 27 de octubre del 2009, se expropió el lote de terreno N° 1, superficie 160 m2, Rol Nº 925-12, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Paso Peatonal El Berraco", y se acordó el valor de indemnización con su propietario GREGORIO RIVERA ALARCON, ascendente a la cantidad de $1.289.000.
+
+Fiscal del Ministerio de Obras Públicas.
