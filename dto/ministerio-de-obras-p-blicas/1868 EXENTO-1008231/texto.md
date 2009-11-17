@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 1.868 de 30 de octubre de 2009, se expropió el lote de terreno N°1, superficie 1.297 m2, Rol N° 132-46, comuna de El Carmen, VIII Región, para la obra Diseño de Obras Complementarias Proyecto Laja - Diguillín, "Nuevo Trazado Canal Unificado" y se acordó el valor de indemnización con su propietario Hugo Franklin Mardones Cancino, ascendente a la cantidad de $1.230.035.
+
+Fiscal del Ministerio de Obras Públicas.
