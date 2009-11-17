@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1844, de fecha 27 de octubre del 2009, se expropiaron los lotes de terreno N°s 24, 25 y 26, superficie 331, 250 y 201 m2 respectivamente, Rol N° 442-33, comuna de Cauquenes, VII Región para la obra "Camino Cauquenes Chanco Nº Rol M-50, Sector Tutuven Chanco, Tramo Km. 15,20000 al Km. 28,80000.", y se acordó el valor de indemnización con su propietario EUSEBIO DEL TRANSITO RECABAL VILLEGAS, ascendente a la cantidad de $7.744.720.
+
+Fiscal del Ministerio de Obras Públicas.
