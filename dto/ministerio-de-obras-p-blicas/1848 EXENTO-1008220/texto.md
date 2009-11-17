@@ -1,0 +1,3 @@
+Por decreto (exento) MOP. N° 1848, de fecha 27 de octubre del 2009, se expropió el lote de terreno N° 17, superficie 10.323 m2, Rol N° 158-283, comuna de Puerto Octay, X Región para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493.", y se acordó el valor de indemnización con su propietario AMERICO ARTURO ACUÑA ROSAS Y OTRA, ascendente a la cantidad de $32.441.804.
+
+Fiscal del Ministerio de Obras Públicas.
