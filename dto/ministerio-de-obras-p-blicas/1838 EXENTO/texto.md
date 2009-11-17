@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.838 de fecha 27 de octubre del 2009, se expropió el lote de terreno N°25, superficie 621 m2, Rol N° 609-106, comuna de Mulchén, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, Km. 0,00000 a Km. 23,13600, Región Bío Bío", y se acordó el valor de indemnización con su propietario Patricio Aranguez Burgos, ascendente a la cantidad de $2.118.773.- para el lote N° 25.
+
+Fiscal del Ministerio de Obras Públicas.
