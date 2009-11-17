@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1.845 de fecha 27 de octubre del 2009, se expropió el lote de terreno N°2, superficie 36 m2, Rol N° 343-4, comuna de Penco, VIII Región para la obra "Reposición y Ampliación Ruta 150, Sector Lirquén - Quebrada Honda, Provincia de Concepción, Región del Bío Bío", y se acordó el valor de indemnización con su propietario Eduardo Nova Bello y Otros ascendente a la cantidad de $8.649.776.- para el lote N° 2.
+
+Fiscal del Ministerio de Obras Públicas.
