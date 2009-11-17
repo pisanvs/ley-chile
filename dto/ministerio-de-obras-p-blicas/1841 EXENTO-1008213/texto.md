@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 1.841 de fecha 27 de octubre de 2009, se expropiaron los lotes de terreno N°s 6 y 7, superficies 18 y 565 m2 respectivamente, rol N° 207-3, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de la Gloria (por tramos), Km. 28,69536 al Km. 39,66000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario Eduardo Darío Ramírez Castro y Otros, ascendente a la cantidad de $5.056.436.
+
+Fiscal del Ministerio de Obras Públicas.
