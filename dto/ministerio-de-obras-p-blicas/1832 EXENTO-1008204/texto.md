@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 1832 de fecha 27 de octubre del 2009, se expropió el lote de terreno N°1, superficie 263 m2, Rol N° 180-29, comuna de Arauco, VIII Región para la obra "Camino Ruta P-352, Sector Puente Quidico 2, Región del Bío Bío", y se acordó el valor de indemnización con su propietario JOSE MANUEL CARRILLO HUENCHUMAN, ascendente a la cantidad de $290.747.- para el lote N°1.
+
+Fiscal del Ministerio de Obras Públicas.
