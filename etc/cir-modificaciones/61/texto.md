@@ -1,0 +1,9 @@
+MODIFICA CRITERIO CONTENIDO EN LA CIRCULAR Nº 58, DE 2001, RESPECTO DE LOS EFECTOS TRIBUTARIOS DE LOS PAGOS EFECTUADOS A TÍTULO DE PATENTE MINERA, RESPECTO DE PERTENENCIAS EN EXPLOTACIÓN, EN RELACIÓN CON LO DISPUESTO EN EL ARTÍCULO 21 DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 61, de fecha 11/11/09 que dispone cambio de criterio contenido en la circular Nº 58, de 2001, en relación a los efectos tributarios de los pagos efectuados a título de patente minera, respecto de pertenencias en explotación.
+
+Las cantidades pagadas a título de patentes mineras, correspondientes a pertenencias que se encuentran en explotación, al no constituir un gasto para efectos de determinar la renta líquida imponible afecta al Impuesto de Primera Categoría, conforme lo establece el artículo 163 del Código de Minería, se encuentran comprendidas en la excepción que contempla el artículo 21 de la Ley sobre Impuesto a la Renta, que dispone que se excepcionarán de lo dispuesto por este artículo el pago de las patentes mineras en la parte que no sean deducibles como gasto, por lo que no se afectarán con la tributación contenida en esta última disposición legal.
+
+Los pagos efectuados a título de patente minera por la pertenencia o la concesión de exploración que la haya precedido, durante los cinco años inmediatamente anteriores a aquél en que se inicie la explotación de la pertenencia, por contribuyentes mineros o empresas mineras que declaren su renta efectiva afecta al Impuesto de Primera Categoría, sobre la base de contabilidad fidedigna, no se afectarán con la tributación establecida en el referido artículo 21, ya que para fines tributarios tienen el tratamiento de gastos de organización y puesta en marcha.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2009.
