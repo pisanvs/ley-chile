@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.855, de 23/09/2009, modificó resolución (M) 191/1996, autorizada a transferir a su actual titular por Res. (M) 1.281/2001, de la siguiente forma: Ubicación: Canal Hudson, Punta Huenao, Isla Quinchao, superficie 12,00 Hás.; coordenadas geográficas Carta SHOA. N° 7370, 1ª Edición 1999 (Datum WGS-84), Vértice A Lat. 42°28'30,01" S. Long. 73°37'27,62" W, Vértice B Lat. 42°28'34,08" S. Long. 73°37'15,24" W, Vértice C Lat. 42°28'32,60" S. Long. 73°37'13,80" W, Vértice D Lat. 42°28'31,71" S. Long. 73°37'16,62" W, Vértice E Lat. 42°28'25,31" S. Long. 73°37'03,92" W, Vértice F Lat. 42°28'18,61" S. Long. 73°37'15,38" W, Vértice G Lat. 42°28'23,41" S. Long. 73°37'21,13" W.
+
+Santiago, 10 de noviembre de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
