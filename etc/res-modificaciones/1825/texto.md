@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 1.825, de 14/09/2009, modificó Res. (M) 1.215/1998; de la siguiente forma: Ubicación: Puerto Calderilla, al Sur de Roca Augusta, superficie 3,96 Hás.; coordenadas geográficas Carta SHOA. Nº 3111, 9ª Edición enero 2004 (Datum WGS-84), Vértice A Lat. 27º05'22,27" S. Long. 70º50'50,32" W, Vértice B Lat. 27º05'24,27" S. Long. 70º50'49,02" W, Vértice C Lat. 27º05'28,26" S. Long. 70º50'54,02" W, Vértice D Lat. 27º05'22,76" S. Long. 70º'50'59,32" W, Vértice E Lat. 27º05'23,76" S. Long. 70º51'01,02" W, Vértice F Lat. 27º05'29,76" S. Long. 70º50'56,52" W, Vértice G Lat. 27º05'28,27" S. Long. 70º50'49,02" W, Vértice H Lat. 27º05'23,27" S. Long. 70º50'45,52" W, Vértice I Lat. 27º05'21,27" S. Long. 70º50'47,82" W.
+
+Santiago, 10 de noviembre de 2009.- Por la Sra. Subsecretaria, Humberto Ramírez Navarro, Subjefe Subsecretaría de Marina.
