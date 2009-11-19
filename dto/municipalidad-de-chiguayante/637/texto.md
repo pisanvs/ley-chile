@@ -3752,28 +3752,6 @@ estructurante.
 
 2,00 m. de altura.
 
-ZONA ESPECIAL RESIDENCIA Y EQUIPAMIENTO ZRE
-
-USOS PERMITIDOS:
-
-- Residencial.
-
-- Equipamiento: De las siguientes clases:
-
-Culto y Cultura: Sólo aquello destinados al desarrollo espiritual - religioso; centros culturales y bibliotecas.
-
-Comercio: Sólo centros y locales comerciales.
-
-Servicios.
-
-- Espacio Público.
-
-- Área Verde.
-
-CONDICIONES DE SUBDIVISIÓN, URBANIZACIÓN Y EDIFICACIÓN:
-
-.
-
 ZONA ESPECIAL DE INDUSTRIA CONSOLIDADA ZI.
 
 Esta zona corresponde a los polígonos industriales existentes graficados en el plano PRCH-2.
@@ -4134,12 +4112,6 @@ Usos Prohibidos:
 
 - Todos los usos de equipamiento, residencia, actividades productivas e infraestructura exceptuados y/o no mencionados como permitidos, según corresponda, con las excepciones que puedan aplicarse según lo establecido en la Ordenanza General de Urbanismo y Construcciones y en particular las contenidas en la presente Ordenanza Local.
 
-Los loteos con construcción simultánea de vivienda unifamiliar DFL 2 de 1959 o conjuntos de vivienda económicas colectivas en extensión acogidos o no a la Ley 19.537 de Copropiedad Inmobiliaria, que sean presentados con el objetivo de solucionar problemas habitacionales de quienes acrediten tener la calidad de afectados por sismos o catástrofes declarados por decreto supremo en el marco del artículo 1º de la ley 16.282, podrán incrementar hasta en un 20% la densidad habitacional definida, según corresponda, en las zonificaciones del presente artículo. El presente incremento se aplicará a los proyectos mencionados por un lapso de 3 años contados desde la publicación del respectivo decreto supremo que declare zona afectada por sismo o catástrofe.
-
-> **Nota.** El Nº 2 del Decreto 179, Municipalidad de Chiguayante, publicado el 04.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años a partir de la fecha de caducidad establecida en la ley Nº20.331, de fecha 12.02.2009, las declaratorias de utilidad pública correspondientes a los terrenos destinados a vías estructurantes colectoras propuestas y a los parques comunales propuestos, emplazados en el Área Urbana del Plan Regulador Comunal de Chiguayante y que se establecen en el artículo 26 "Zona Especial por Parque Ribereño ZPR".
-
-> **Nota.** NOTA 2 El Nº 1 del Decreto 864, Municipalidad de Chiguayante, publicado el 14.04.2015, modifica la presente norma en el sentido de dejar sin efecto las declaratorias de utilidad pública de los terrenos que fueron destinados a circulaciones, plazas y parques, incluidos sus ensanches.
-
 ## Capítulo V
 
 Vialidad
@@ -4156,9 +4128,13 @@ Los perfiles geométricos viales, así como el ancho de sus calzadas y el diseñ
 
 #### Artículo 29
 
-La vialidad estructurante y las prolongaciones de calles, identificadas en el Plano PRCH-2, están constituidas por las vías que se señalan en el siguiente cuadro:
+La vialidad estructurante y las prolongaciones de calles, identificadas en el Plano PRCH-2, están constituidas por las vías que se señalan en el siguiente cuadro: VIALIDAD ESTRUCTURANTE
 
-Vía Troncal: (T); Vía Colectora: (C); Vía de Servicio: (S); En el círculo de código de las vías en el plano: COD: Número de la vía; LO: Ancho entre líneas oficiales; LE: Ancho entre líneas de edificación.
+VER DIARIO OFICIAL DE 04.07.2003. PAGINAS 13-14.
+
+Vía Troncal:(T); Vía Colectora :(C); Vía de Servicio :(S); En el círculo de código de las vías en el plano: COD: Número de la vía; LO: Ancho entre líneas oficiales.; LE: Ancho entre líneas de edificación.
+
+> **Nota.** El Nº 2 del DTO 749, M. de Chiguayante, publicado el 28.07.2006, reemplaza los cuadros Vialidad Estructurante y Vialidad Estructurante Secundaria, por los que indica la citada norma. Dichos cuadros no han si incorporados al presente texto actualizado por razones técnicas jurídicas.
 
 #### Artículo 30
 
