@@ -26,7 +26,7 @@ Durante el periodo señalado en el inciso 1º del presente artículo, se prohíb
 
 2. Asimismo, en el período señalado en el numeral anterior y en el resto de la temporada de pesca, comprendida entre el segundo viernes del mes de noviembre de 2009 y el primer domingo del mes de mayo de 2010, ambas fechas inclusive, la actividad de pesca recreativa de salmónidos en el Lago Llanquihue se realizará bajo las siguientes condiciones:
 
-a) Pesca con devolución, debiendo efectuarla en las mejores condiciones posibles para los ejemplares liberados.
+a) Pesca con devolución de todas las especies de truchas. Sólo se permitirá la captura de 1 ejemplar de las especies de salmón salar, salmón coho o salmón chinook, en cada jornada de pesca y por pescador. Cumplida dicha cantidad, el resto de los ejemplares deberán ser devueltos de la mejor manera posible a su medio.
 
 b) Sólo uso de señuelo artificial y anzuelos sin rebarba.
 
