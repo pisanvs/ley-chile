@@ -18,9 +18,11 @@ a) Establecimientos educacionales que al mes de marzo del año 2004 contaban con
 
 b) Establecimientos educacionales rurales unidocentes, municipalizados o particulares subvencionados, que al mes de marzo de 2004 tenían 17 o más alumnos matriculados.
 
+> **Nota.** La letra A) del artículo Único del Decreto 302, Educación, publicado el 19.11.2009, ordenaba modificar el presente artículo en el sentido de sustituir en las letras a) y b) el guarismo "2006" por "2009". No ha sido posible llevar a cabo tal modificación, por cuanto el texto de la norma tiene el guarismo "2004".
+
 #### Artículo 2º
 
-La beca consistirá en un subsidio ascendente a un monto mensual de $50.000.- (cincuenta mil pesos) para cada Monitor Ayudante, por 22 horas de trabajo semanal, durante siete (7) meses (mayo a noviembre).
+La beca consistirá en un subsidio ascendente a un monto mensual de $60.000.- (sesenta mil pesos) para cada Monitor Ayudante, por 22 horas de trabajo semanal, durante siete (7) meses (mayo a noviembre).
 
 #### Artículo 3º
 
@@ -54,11 +56,11 @@ La entrega y administración del beneficio estará a cargo de la Secretaría Reg
 
 #### Artículo 6º
 
-Para el Programa de Educación Básica, durante el presente año, se contempla el otorgamiento de un máximo de 2.000 (dos mil) becas.
+Para el Programa de Educación Básica, durante el presente año, se contempla el otorgamiento de un máximo de 500 (quinientas) becas.
 
 #### Artículo 7º
 
-El gasto que signifique el pago de las becas se imputará al Item 09.01.03.24.03.511, Glosa 8, del Presupuesto de la Subsecretaría de Educación correspondiente al año 2008.
+El gasto que signifique el pago de las becas se imputará al Item 09.01.03.24.03.511, Glosa 8 Programa de Educación Básica del Presupuesto de la Subsecretaría de Educación correspondiente al año 2009.
 
 Anótese, refréndese, tómese razón y publíquese.- Por orden del Presidente de la República, Sergio Bitar Chacra, Ministro de Educación.
 
