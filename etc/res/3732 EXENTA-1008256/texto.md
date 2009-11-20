@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.732, de 9 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 206103171, presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en noreste de Punta Centinela, Isla Tranqui, X Región.
+
+Valparaíso, 9 de noviembre de 2009.- María Angela Barbieri Bellolio, Subsecretaria de Pesca (S).
