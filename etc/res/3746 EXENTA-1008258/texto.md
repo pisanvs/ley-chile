@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.746 de 12 de noviembre de 2009 de esta Subsecretaría, declárase la caducidad parcial de las resoluciones exentas Nº 1.850 de 2000 y Nº 2.898 de 2002, ambas de esta Subsecretaría, sólo en cuanto autorizaron a don MARCELINO GONZÁLEZ SILVA para realizar actividades pesqueras extractivas con la nave "Berta", respecto del recurso hidrobiológico Reineta, en las áreas marítimas comprendidas entre la IV a IX Regiones y I a IX Regiones, respectivamente, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 12 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
