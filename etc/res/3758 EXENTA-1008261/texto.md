@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.758, de 12 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207103211, presentada por EVELYN FABIOLA RITTER LINNEBRINK, para instalar y operar un centro de cultivo ubicado en Isla Quinchao, al oeste de Punta Tanecuhe, X Región.
+
+Valparaíso, 12 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
