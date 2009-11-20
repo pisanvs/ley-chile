@@ -54,45 +54,15 @@ Legal (SML)
 
 Campo Valor
 
-SPECIMENID Es el identificador de una muestra
+SPECIMENID Es el identificador de una muestra en
 
-en CODIS. La composición de este
+CODIS. La composición de este código de
 
-código de trece caracteres es la
-
-siguiente:
+trece caracters es la siguiente:
 
 Posición Descripción
 
-1-2 Regla general: La muestra
-
-biológica está asociada a
-
-un solo procedimiento
-
-judicial. En este caso, se
-
-debe ingresar 00 (cero
-
-cero).
-
-Excepción: La muestra
-
-biológica está asociada a
-
-más de un procedimiento
-
-judicial. En este caso, se
-
-numerará correlativamente
-
-cada ocurrencia repetida
-
-de la muestra partiendo de
-
-01 (cero uno).
-
-3 a 8 Número de muestra para
+1 a 8 Número de muestra para
 
 análisis (especimen),
 
@@ -104,17 +74,17 @@ irrepetible por
 
 año/laboratorio.
 
-9 a 10 Dos últimos dígitos del
+9 a 10 Dos últimos dígitos del año en
 
-año en que se determinó la
+que se determinó la huella
 
-huella genética.
+genética
 
 11 a 13 Código de laboratorio,
 
-asignado por el SML
+asignado por el SML durante la
 
-durante la acreditación.
+acreditación
 
 SPECIMENCATEORY Los valores en Anexo D del
 
