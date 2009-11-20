@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.747 de 12 de noviembre de 2009, de esta Subsecretaría, rectifícase el numeral 1º y el extracto de la resolución exenta Nº 3.677 de 2009, de esta Subsecretaría que autorizó a PESQUERA ENFEMAR LIMITADA para ampliar actividades pesqueras extractivas, en el sentido de señalar que la nave autorizada se denomina "María Emperatriz III" y no como allí se indica.
+
+Valparaíso, 12 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
