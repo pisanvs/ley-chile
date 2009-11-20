@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.745 de 12 de noviembre de 2009 de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.230 de 1992, de esta Subsecretaría, sólo en cuanto autorizó a PESCA CHILE S.A. para realizar actividades pesqueras extractivas con la nave "Puerto Ballena", en el área marítima comprendida entre el paralelo 44º 30' y 57º L.S., sobre el recurso hidrobiológico Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 12 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
