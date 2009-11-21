@@ -74,7 +74,7 @@ La labor de inspección o verificación del cumplimiento de las normas podrá se
 
 Los mencionados estándares deberán ser establecidos usando criterios validados, públicamente conocidos y con consulta a los organismos técnicos competentes.
 
-12.- Establecer un sistema de acreditación para los prestadores institucionales que necesiten de autorización sanitaria o declaración jurada para funcionar. Para estos efectos se entenderá por acreditación el proceso periódico de evaluación respecto del cumplimiento de los estándares mínimos señalados en el numeral anterior, de acuerdo al tipo de establecimiento y a la complejidad de las prestaciones.
+12.- Establecer un sistema de acreditación para los prestadores institucionales autorizados para funcionar. Para estos efectos se entenderá por acreditación el proceso periódico de evaluación respecto del cumplimiento de los estándares mínimos señalados en el numeral anterior, de acuerdo al tipo de establecimiento y a la complejidad de las prestaciones.
 
 Un reglamento del Ministerio de Salud establecerá el sistema de acreditación, la entidad o entidades acreditadoras, públicas o privadas, o su forma de selección; los requisitos que deberán cumplir; las atribuciones del organismo acreditador en relación con los resultados de la evaluación; la periodicidad de la acreditación; las características del registro público de prestadores acreditados, nacional y regional, que deberá mantener la Superintendencia de Salud; los aranceles que deberán pagar los prestadores por las acreditaciones, y las demás materias necesarias para desarrollar el proceso.
 
@@ -94,19 +94,7 @@ Las universidades reconocidas oficialmente en Chile serán entidades certificado
 
 16.- Formular políticas que permitan incorporar un enfoque de salud intercultural en los programas de salud en aquellas comunas con alta concentración indígena.
 
-17.- Establecer a través de un reglamento las funciones de profesionales y entidades técnicas reconocidas para informar o certificar el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para el otorgamiento de autorizaciones de su competencia o de órganos sectoriales relacionados, así como los requisitos y procedimientos para su reconocimiento, registro y control, conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
-
-18.- Reconocer profesionales y entidades técnicas, cuando corresponda, para que informen o certifiquen, a requerimiento de quien solicite una autorización de competencia de las Secretarías Regionales Ministeriales, el cumplimiento de una o más condiciones o requisitos técnicos exigidos normativamente para su otorgamiento, e incluirlas en el registro que disponga para estos efectos, el que deberá mantener actualizado y publicado en su respectivo sitio web.
-
-Las funciones específicas de los profesionales y entidades técnicas reconocidas, así como los requisitos y procedimientos para su reconocimiento, registro y control, serán establecidos reglamentariamente conforme con lo dispuesto en el Título IV Párrafo 2° de la Ley Marco de Autorizaciones Sectoriales.
-
-19.- Establecer, a través de un reglamento, los supuestos de hecho en que procederá la aplicación de técnicas habilitantes como alternativa a las autorizaciones de su competencia o de órganos sectoriales dependientes o relacionados, establecidas en esta y otras leyes, con motivo de ser aquellas suficientes para resguardar adecuadamente su objeto de protección a la luz de los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales y las normas establecidas en los artículos 9 y siguientes de dicha ley.
-
-Para la formulación del reglamento señalado en el párrafo primero, el Ministerio consultará a los órganos sectoriales dependientes o relacionados con competencia para otorgar la autorización respecto de la cual se implementan técnicas habilitantes alternativas, así como a la Oficina de Autorizaciones Sectoriales e Inversión, para efectos de evitar o precaver conflictos de normas y resguardar su coordinación y cooperación.
-
-Si el establecimiento de técnicas habilitantes alternativas implica la supresión o reemplazo de autorizaciones cuya tramitación cuenta con instancias de participación de terceros, el Ministerio solicitará a la Oficina de Autorizaciones Sectoriales e Inversión llevar a cabo el proceso de consulta establecido en el artículo 66 de la Ley Marco de Autorizaciones Sectoriales, previo a su dictación.
-
-20.- Las demás que le confieren las leyes y reglamentos.
+17.- Las demás que le confieren las leyes y reglamentos.
 
 #### Artículo 5º
 
@@ -143,10 +131,6 @@ a) Participar en la realización de los concursos para proveer en propiedad empl
 b) Coordinar a nivel nacional, a solicitud de los Servicios de Salud, los procesos de selección de médicos cirujanos, cirujanos dentistas, farmacéuticos o químicos farmacéuticos y bioquímicos, para el ingreso a la Etapa de Destinación y Formación a que llamen dichos Servicios, conceder becas a personas de esas profesiones, en cumplimiento de programas de perfeccionamiento o especialización que respondan a las necesidades del país en general o de los Servicios de Salud en particular, en la forma en que lo determine el reglamento, sin perjuicio de las atribuciones de los propios Servicios en la materia y regular la capacidad formadora de especialistas en el sector, y
 
 c) Celebrar, cuando así lo determine el Ministro, los actos y convenios que por su materia afecten a todos o algunos de los Servicios de Salud, previo informe favorable de éstos, y que surtirán los mismos efectos que si ellos los hubiesen celebrado directamente. El Subsecretario de Redes Asistenciales subrogará al Ministro de Salud en ausencia del Subsecretario titular de Salud Pública.
-
-#### Artículo 8° bis
-
-La Subsecretaría de Redes Asistenciales coordinará el otorgamiento de prestaciones o atenciones de salud a distancia a través de tecnologías de la información y las comunicaciones.
 
 #### Artículo 9º
 
@@ -198,15 +182,7 @@ Los procedimientos a que se refiere este numeral deberán ser concordados con lo
 
 9.- Organizar, bajo su dependencia y apoyar el funcionamiento de la Comisión de Medicina Preventiva e Invalidez.
 
-10.- Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos en que consten las firmas de las autoridades del Ministerio de Salud o de algún profesional del área de la salud que acredite el estado de salud de una persona o le prescriba algún tratamiento o medicación.
-
-11.- Revisar la regulación aplicable a los proyectos o actividades objeto de su competencia, formular un diagnóstico y propuestas para su perfeccionamiento normativo y su adecuada implementación, de conformidad con los criterios definidos en el Título VII de la Ley Marco de Autorizaciones Sectoriales.
-
-En el ejercicio de esta función deberá revisar que las autorizaciones que sean de su competencia cumplan con los criterios establecidos en el artículo 61 de la Ley Marco de Autorizaciones Sectoriales, y propondrá, cuando corresponda, su eliminación o reemplazo por técnicas habilitantes alternativas.
-
-El diagnóstico y las propuestas resultantes serán presentadas ante la Oficina de Autorizaciones Sectoriales e Inversión, por intermedio del Ministro de Salud, cuando corresponda.
-
-12.- Las demás que establezcan las leyes y reglamentos.
+10.- Las demás que establezcan las leyes y reglamentos.
 
 #### Artículo 13
 
@@ -236,37 +212,33 @@ De las funciones
 
 Créanse los siguientes Servicios de Salud, en adelante los Servicios, que coordinadamente tendrán a su cargo la articulación, gestión y desarrollo de la Red Asistencial correspondiente, para la ejecución de las acciones integradas de fomento, protección y recuperación de la salud y rehabilitación de las personas enfermas:
 
-1. Uno en la Región de Arica y Parinacota: Arica y Parinacota.
+Dos en la Región de Tarapacá:
 
-2. Uno en la Región de Tarapacá: Tarapacá.
+Arica e Iquique.
 
-3. Uno en la Región de Antofagasta: Antofagasta.
+Uno en la Región de Antofagasta:
 
-4. Uno en la Región de Atacama: Atacama.
+Antofagasta.
 
-5. Uno en la Región de Coquimbo: Coquimbo.
+Uno en la Región de Atacama:
 
-6. Tres en la Región de Valparaíso: Valparaíso-San Antonio, Viña del Mar-Quillota-Petorca y Aconcagua.
+Atacama.
 
-7. Uno en la Región del Libertador General Bernardo O'Higgins: O'Higgins.
+Uno en la Región de Coquimbo:
 
-8. Uno en la Región del Maule: Maule.
+Coquimbo.
 
-9. Uno en la Región del Ñuble: Ñuble.
+Tres en la Región de Valparaíso: Valparaíso - San Antonio, Viña del Mar - Quillota y Aconcagua. Uno en la Región del Libertador General Bernardo O'Higgins: Libertador General Bernardo O'Higgins.
 
-10. Cuatro en la Región del Biobío: Concepción, Arauco, Talcahuano y Biobío.
+Uno en la Región del Maule: Maule.
 
-11. Dos en la Región de La Araucanía: Araucanía Sur y Araucanía Norte.
+Cinco en la Región del Bío - Bío: Concepción, Arauco, Talcahuano, Ñuble y Bío -Bío. Dos en la Región de la Araucanía: Araucanía Sur y Araucanía Norte. Uno en la Región de Los Ríos: Valdivia. Tres en la Región de Los Lagos: Osorno, del Reloncaví y Chiloé.
 
-12. Uno en la Región de Los Ríos: Los Ríos.
+Uno en la Región de Aysén del General Carlos Ibáñez del Campo: Aysén del General Carlos Ibáñez del Campo.
 
-13. Tres en la Región de Los Lagos: Osorno, Reloncaví y Chiloé.
+Uno en la Región de Magallanes y de la Antártica Chilena: Magallanes.
 
-14. Uno en la Región de Aysén del General Carlos Ibáñez del Campo: Aysén.
-
-15. Uno en la Región de Magallanes y de la Antártica Chilena: Magallanes.
-
-16. Seis en la Región Metropolitana de Santiago: Metropolitano Central, Metropolitano Sur, Metropolitano Sur-Oriente, Metropolitano Oriente, Metropolitano Norte y Metropolitano Occidente.
+Seis en la Región Metropolitana de Santiago: Central, Sur, Sur - Oriente, Oriente, Norte y Occidente.
 
 Los Servicios serán organismos estatales, funcionalmente descentralizados, dotados de personalidad jurídica y patrimonio propio para la realización de las referidas acciones.
 
@@ -281,60 +253,6 @@ Su sede y territorio serán establecidos por decreto supremo.
 La Red Asistencial de cada Servicio de Salud estará constituida por el conjunto de establecimientos asistenciales públicos que forman parte del Servicio, los establecimientos municipales de atención primaria de salud de su territorio y los demás establecimientos públicos o privados que suscriban convenio con el Servicio de Salud respectivo, conforme al artículo 2° de esta ley, los cuales deberán colaborar y complementarse entre sí para resolver de manera efectiva las necesidades de salud de la población.
 
 La Red Asistencial de cada Servicio de Salud deberá colaborar y complementarse con la de los otros Servicios de Salud, a fin de resolver adecuadamente las necesidades de salud de la población.
-
-#### Artículo 17 bis
-
-El Hospital Clínico de la Universidad de Chile es un establecimiento que forma parte del Sistema Nacional de Servicios de Salud para el efecto de otorgar atenciones de salud a los beneficiarios del Régimen de Prestaciones de Salud contenido en el Libro II, en la modalidad de atención establecida en el inciso primero del artículo 141, y formará parte de la Red Asistencial de uno o más Servicios de Salud, en virtud del o los convenios que suscribirán la Universidad de Chile, el Fondo Nacional de Salud y el Servicio de Salud respectivo, en el marco de la autonomía, proyecto académico y rol formador de dicha institución de educación superior del Estado, conforme lo establecido en su estatuto institucional y en la ley N° 21.094.
-
-Lo anterior, sin perjuicio de la facultad del Subsecretario de Redes Asistenciales de suscribir el o los referidos convenios en representación de dos o más Servicios de Salud a efectos de integrar al Hospital Clínico de la Universidad de Chile a las redes asistenciales de aquellos servicios, conforme a lo dispuesto en la letra c) del artículo 8.
-
-El o los convenios que integren al Hospital Clínico de la Universidad de Chile a la Red Asistencial tendrán por objeto que el establecimiento tome a su cargo, por cuenta del Servicio de Salud respectivo, conforme a los mismos mecanismos de pagos y aranceles, una parte de la población beneficiaria de su territorio, especialmente, a los habitantes de las comunas de Recoleta, Independencia, Conchalí, Huechuraba, Quilicura, Lampa, Til Til, Colina y Renca. Asimismo, las prestaciones de alta complejidad que se le asignen para la ejecución de las acciones de fomento, protección y recuperación de la salud o rehabilitación de enfermos.
-
-El Fondo Nacional de Salud, la Universidad de Chile, el Servicio de Salud respectivo, o el Subsecretario de Redes Asistenciales cuando suscriba el convenio, podrán solicitar su suspensión temporal en caso de incumplimiento grave de las obligaciones estipuladas, según el procedimiento establecido en el mismo instrumento.
-
-Con todo, los convenios que suscriba el Ministerio de Salud con el Hospital Clínico de la Universidad de Chile deberán propender a ampliar, entre otros, los cupos de formación de la especialidad de geriatría para ser destinados a las regiones con mayor proporción de adultos mayores del país.
-
-#### Artículo 17 ter
-
-Las personas que no sean beneficiarias del convenio señalado en el artículo anterior podrán requerir y obtener del Hospital Clínico de la Universidad de Chile el otorgamiento de prestaciones de salud, conforme lo autoriza el artículo 99 de la ley N° 18.681, y la letra a) del artículo 39 de la ley N° 21.094.
-
-Con todo, la atención de las personas a que se refiere el inciso anterior no podrá significar postergación o menoscabo de la atención que el Hospital Clínico de la Universidad de Chile deberá prestar a los beneficiarios del convenio referido en el artículo anterior. En consecuencia, con la sola excepción de urgencias debidamente calificadas, dichos beneficiarios se preferirán por sobre las personas señaladas en el inciso anterior.
-
-#### Artículo 17 quáter
-
-El o los convenios que integren al Hospital Clínico de la Universidad de Chile a la Red Asistencial deberán contemplar, al menos, el siguiente contenido mínimo, según corresponda:
-
-1. Los objetivos y metas sanitarias.
-
-2. El marco presupuestario asignado, el que deberá ser pagado en duodécimos, siempre que el o los convenios aseguren la debida rendición de cuentas, la eficiencia en el uso de recursos y métodos de reliquidación. Este marco presupuestario no podrá ser superior a lo autorizado por la ley de Presupuestos para el Sector Público de cada año. Con todo, deberá tener como referencia un promedio de las prestaciones otorgadas por el hospital a los beneficiarios del Sistema Nacional de Servicios de Salud durante a lo menos los últimos tres años.
-
-3. Los niveles de actividad y el monitoreo por egreso, por cirugía mayor ambulatoria o por cualquier tipo de labor.
-
-4. Los procedimientos de control, evaluación y rendición de cuentas.
-
-5. La población beneficiaria del Servicio de Salud Metropolitano Norte que estará a cargo del Hospital Clínico de la Universidad de Chile, la que deberá incluir, especialmente, a los habitantes de las comunas de Recoleta, Independencia, Conchalí, Huechuraba, Quilicura, Lampa, Til Til, Colina y Renca, así como los lineamientos para resolver las necesidades de salud de dicha población de acuerdo con la cartera de servicios, la que deberá incluirse en el convenio.
-
-6. Los establecimientos de atención primaria de la red del Servicio de Salud Metropolitano Norte cuyos usuarios serán atendidos por el Hospital Clínico de la Universidad de Chile en todo tipo de prestaciones sanitarias, previa derivación de sus profesionales, delegándose en el referido hospital las funciones para proporcionar las prestaciones de salud correspondientes.
-
-7. Las prestaciones de alta complejidad que el Hospital Clínico de la Universidad de Chile brindará a los beneficiarios del Sistema Nacional de Servicios de Salud que sean derivados por los profesionales respectivos en el marco de la modalidad de atención institucional, delegándose en el recinto las funciones para otorgar dichas prestaciones.
-
-8. Los lineamientos para realizar las prestaciones de alta complejidad como referente de la Red del Sistema Nacional de Servicios de Salud.
-
-9. El o los mecanismos de pago del Fondo Nacional de Salud corresponderán a los mismos mecanismos utilizados para el pago a los demás establecimientos de la Red Asistencial de los Servicios de Salud, según el tipo de prestaciones y las condiciones en que éstas se otorguen. Sin perjuicio de lo anterior, los valores de las prestaciones se fijarán con el Fondo Nacional de Salud de común acuerdo, en atención a la naturaleza universitaria y estatal del hospital clínico reconocida en el siguiente numeral.
-
-10. Un aporte anual por ser "Hospital Universitario Público", en consideración a la naturaleza universitaria y estatal del hospital clínico, cuando las acciones que realice vayan en beneficio del sistema de salud, según los lineamientos y las definiciones del Ministerio de Salud. Dicho aporte se determinará anualmente mediante la aplicación de los criterios e indicadores fijados en un decreto dictado bajo la fórmula "Por orden del Presidente de la República", firmado por el Ministro de Salud y suscrito además por el Ministro de Hacienda. Tales criterios e indicadores deberán considerar, al menos, los profesionales en formación de especialistas y sub-especialistas, publicaciones académicas, proyectos de investigación, vinculación con el medio y el impacto de las actividades del hospital clínico en regiones. El aporte se determinará previo requerimiento que realizará la Rectoría de la Universidad de Chile al Ministerio de Salud durante el proceso de formulación presupuestaria.
-
-11. La obligación del Hospital Clínico de la Universidad de Chile de mantener sistemas de información compatibles e interoperables con los de la Red Asistencial correspondiente, los que serán determinados por la Subsecretaría de Redes Asistenciales y el Fondo Nacional de Salud. Tanto el referido Fondo como la mencionada subsecretaría deberán colaborar con el hospital clínico en el cumplimiento de esta obligación.
-
-12. La obligación del hospital clínico de entregar la información estadística y de atención de pacientes que le sea solicitada, de acuerdo con sus competencias legales, por el Ministerio de Salud, el Fondo Nacional de Salud, el Servicio de Salud respectivo, la Superintendencia de Salud, los establecimientos de la Red Asistencial correspondiente u otra institución con atribuciones para requerirla.
-
-13. El aporte que el Estado entregará anualmente a la Universidad de Chile para la adquisición de equipos, equipamientos médicos y renovación de infraestructura del hospital clínico, mediante programas presupuestarios y/o su incorporación al plan de inversiones de la red pública de salud.
-
-14. Las causales de incumplimiento grave del convenio, así como el procedimiento para suspenderlo temporalmente por medio de resolución fundada en la ocurrencia de alguna de estas causales.
-
-La determinación de las prestaciones que otorgará el Hospital Clínico de la Universidad de Chile deberá considerar toda su capacidad disponible y las necesidades del Sistema Nacional de Servicios de Salud, además de los requerimientos docentes del establecimiento en el marco de su rol formador y proyecto académico, lo que será acordado al menos una vez al año en el o los respectivos convenios o en un anexo a dichos instrumentos.
-
-En todo lo no regulado por este artículo, se aplicarán supletoriamente las disposiciones contenidas en el decreto con fuerza de ley N° 36, de 1980, del Ministerio de Salud Pública.
 
 #### Artículo 18
 
@@ -450,15 +368,13 @@ Sin perjuicio de lo dispuesto en esta letra, el Director podrá designar en comi
 
 p) Celebrar convenios de gestión con las respectivas entidades administradoras de salud municipal, o con establecimientos de atención primaria, que tengan por objeto, entre otros, asignar recursos asociados al cumplimiento de metas sanitarias, aumento de la resolutividad de sus establecimientos y mejoramiento de los niveles de satisfacción del usuario. Los referidos convenios deberán contemplar, en general, los objetivos y metas, prestaciones y establecimientos de atención primaria involucrados, así como las actividades a realizar, indicadores, medios de verificación y las medidas que se adoptarán en caso de incumplimiento de las obligaciones contraídas.
 
-Los convenios de gestión deberán aprobarse por resolución fundada del Director del Servicio, en la que se consignarán los antecedentes que justifiquen su celebración y los criterios utilizados para elegir a los establecimientos participantes. Los convenios podrán extenderse a otros establecimientos municipales de atención primaria que lo soliciten, siempre que exista disponibilidad presupuestaria para esos fines y que se presenten antecedentes que lo justifiquen desde los puntos de vista económico y sanitario;
+Los convenios de gestión deberán aprobarse por resolución fundada del Director del Servicio, en la que se consignarán los antecedentes que justifiquen su celebración y los criterios utilizados para elegir a los establecimientos participantes. Losconvenios podrán extenderse a otros establecimientos municipales de atención primaria que lo soliciten, siempre que exista disponibilidad presupuestaria para esos fines y que se presenten antecedentes que lo justifiquen desde los puntos de vista económico y sanitario;
 
 q) Evaluar el cumplimiento de las normas técnicas, planes y programas que imparta el Ministerio de Salud a los establecimientos de atención primaria de salud, y el cumplimiento de las metas fijadas a dichos establecimientos en virtud de los convenios celebrados conforme a la letra anterior y al artículo 57 de la ley Nº 19.378. Si el Director del Servicio verificara un incumplimiento grave de las obligaciones señaladas anteriormente, podrá representar tal circunstancia al alcalde respectivo. Asimismo, dicha comunicación será remitida al Intendente Regional, para los efectos de lo dispuesto en el artículo 9º de la ley N° 18.695, Ley Orgánica Constitucional de Municipalidades, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 1-19.704, de 2001, del Ministerio del Interior;
 
-r) Elaborar el presupuesto de la Red Asistencial de Salud a su cargo y formular las consideraciones y observaciones que le merezcan los presupuestos de los hospitales autogestionados;
+r) Elaborar el presupuesto de la Red Asistencial de Salud a su cargo y formular las consideraciones y observaciones que le merezcan los presupuestos de los hospitales autogestionados, y
 
-s) Otorgar apostillas en conformidad a lo establecido en la Convención de La Haya que Suprime la Exigencia de Legalización de Documentos Públicos Extranjeros, en los documentos en que consten las firmas de las autoridades del Ministerio de Salud o de algún profesional del área de la salud que acredite el estado de salud de una persona o le prescriba algún tratamiento o medicación, y
-
-t) Desempeñar las demás funciones y atribuciones que le asignen las leyes y reglamentos.
+s) Desempeñar las demás funciones y atribuciones que le asignen las leyes y reglamentos.
 
 #### Artículo 24
 
@@ -872,11 +788,11 @@ Su sede será la ciudad de Santiago, sin perjuicio de las oficinas que pueda est
 
 #### Artículo 50
 
-Serán funciones del Fondo:
+Serán funciones del Fondo: a) Recaudar, administrar y distribuir los recursos señalados en el artículo 55 de la presente ley y fiscalizar la recaudación de los señalados en la letra b) de dicho artículo;
 
-a) Recaudar, administrar y distribuir los recursos señalados en el artículo 55 de la presente ley y fiscalizar la recaudación de los señalados en la letra b) de dicho artículo;
+b) Financiar, en todo o en parte, de acuerdo a las políticas y prioridades de salud para el país que defina el Ministerio de Salud, y a lo dispuesto en el Régimen de Prestaciones de Salud del Libro II de esta Ley, a través de aportes, pagos directos, convenios u otros mecanismos que establezca mediante resolución, las prestaciones que se otorguen a los beneficiarios del Régimen del Libro II de esta Ley en cualquiera de sus modalidades, por organismos, entidades y personas que pertenezcan o no al Sistema o dependan de éste, sean públicos o privados.
 
-b) Financiar, en todo o en parte, de acuerdo a las políticas y prioridades de salud para el país que defina el Ministerio de Salud, y a lo dispuesto en el Régimen de Prestaciones de Salud del Libro II de esta Ley, a través de aportes, pagos directos, convenios u otros mecanismos que establezca mediante resolución, las prestaciones que se otorguen a los beneficiarios del Régimen del Libro II de esta Ley en cualquiera de sus modalidades, por organismos, entidades y personas que pertenezcan o no al Sistema o dependan de éste, sean públicos o privados. Asimismo, financiar en los mismos términos, la adquisición de los equipos, instrumental, implementos y otros elementos de infraestructura que requieran los establecimientos públicos que integran el Sistema. El financiamiento de las prestaciones podrá incluir el costo de reposición del capital.
+Asimismo, financiar en los mismos términos, la adquisición de los equipos, instrumental, implementos y otros elementos de infraestructura que requieran los establecimientos públicos que integran el Sistema. El financiamiento de las prestaciones podrá incluir el costo de reposición del capital.
 
 La Ley de Presupuestos contemplará, en el presupuesto del Fondo Nacional de Salud, los recursos que éste podrá destinar al financiamiento de los convenios que celebre con organismos, entidades y personas que no pertenezcan al Sistema Nacional de Servicios de Salud, privados y/o públicos, para proveer determinadas prestaciones en la Modalidad de Atención Institucional a que se refiere el Libro II de esta Ley. Los convenios deberán celebrarse a precios no superiores a los contenidos en el arancel y normas señaladas en el Libro II de esta Ley. Sólo en casos excepcionales, por resolución fundada del Ministro de Salud y por el plazo máximo de un año, se podrán celebrar convenios a precios superiores a los indicados en el arancel de dicho Libro. En todo caso, el monto de los recursos que el Fondo podrá destinar al financiamiento de dichos convenios no podrá exceder el equivalente al 10% del presupuesto total de la Modalidad de Atención Institucional.
 
@@ -888,33 +804,17 @@ Tratándose de la Modalidad de Atención Institucional, el afectado podrá recur
 
 En el caso de la Modalidad de Libre Elección, será aplicable lo dispuesto en el inciso noveno del artículo 143 de esta Ley;
 
-c) Colaborar con el Ministerio de Salud en la compatibilización y consolidación financiera de los proyectos de presupuesto de los Servicios de Salud y otros organismos vinculados con esa Secretaría de Estado, con el presupuesto global de Salud;
+c) Colaborar con el Ministerio de Salud en la compatibilización y Art. 1°, consolidación financiera de los proyectos de presupuesto de los Servicios de Salud y otros organismos vinculados con esa Secretaría de Estado, con el presupuesto global de Salud;
 
-d) Colaborar con el Subsecretario de Salud Pública en la administración del financiamiento de las acciones de salud a que se refiere el inciso tercero del artículo 9° de esta Ley;
+d) Colaborar con el Subsecretario de Salud Pública en la administración del financiamiento de las acciones de salud a que se refiere el inciso Art. 1°, tercero del artículo 9° de esta Ley; e) Conocer y resolver, de acuerdo con la normativa vigente, los reclamos que sus beneficiarios efectúen, conforme a los procedimientos que fije el Ministerio de Salud, sin perjuicio de la competencia de otros organismos públicos, conforme a la ley;
 
-e) Asegurar el otorgamiento de las prestaciones de diagnósticos y tratamientos de alto costo, en la forma y condiciones establecidas en la ley, y administrar operativamente los recursos contemplados para el financiamiento de dichos diagnósticos y tratamientos.
+f) Tratar datos personales o sensibles con el fin de proteger la salud de la población o para la determinación y otorgamiento de beneficios de salud. Para los efectos previstos en este número, podrá requerir de las personas naturales o jurídicas, públicas o privadas, la información que fuera necesaria. Todo ello conforme a las normas de la ley Nº 19.628, y
 
-f) Conocer y resolver, de acuerdo con la normativa vigente, los reclamos que sus beneficiarios efectúen, conforme a los procedimientos que fije el Ministerio de Salud, sin perjuicio de la competencia de otros organismos públicos, conforme a la ley;
-
-g) Velar por el correcto funcionamiento de la licitación, contratación e implementación de la Modalidad de Cobertura Complementaria en los términos a que se refieren los artículos 144 bis y siguientes de esta ley. Para estos efectos, le corresponderá, entre otras funciones, elaborar la o las pólizas de seguro que deberán observar las compañías de seguro que otorguen la mencionada cobertura y depositarlas en la Comisión para el Mercado Financiero, conforme a las disposiciones de la letra e) del artículo 3° del decreto con fuerza de ley N° 251, de 1931, del Ministerio de Hacienda, sobre compañías de seguro, sociedades anónimas y bolsas de comercio.
-
-Asimismo, el Fondo Nacional de Salud podrá ejecutar todas las acciones necesarias para procurar la contratación del seguro por las personas beneficiarias señaladas en el artículo 144 bis;
-
-h) Tratar datos personales o sensibles con el fin de proteger la salud de la población o para la determinación y otorgamiento de beneficios de salud. Para los efectos previstos en este número, podrá requerir de las personas naturales o jurídicas, públicas o privadas, la información que fuera necesaria. Todo ello conforme a las normas de la ley Nº 19.628, y
-
-i) Ejercer las demás funciones y obligaciones que le asignen las leyes y reglamentos.
+g) Ejercer las demás funciones y obligaciones que le asignen las leyes y reglamentos.
 
 Los beneficiarios, afiliados y sus empleadores de los sectores público y privado, entidades de previsión y demás servicios públicos, estarán obligados a proporcionar al Fondo la información necesaria que tenga relación directa con sus funciones y que éste requiera para el mejor cumplimiento de las funciones que la ley le asigna. Si los informes o antecedentes que solicite revisten el carácter de secretos o reservados por su naturaleza o por disposición especial que no tenga fuerza de ley, deberán ser mantenidos en secreto o reserva. Si tales informes o documentos secretos o reservados deban ser proporcionados por servicios, organismos o entidades públicas, lo harán por intermedio del Ministro del que dependan o mediante el cual se encuentren vinculados con el gobierno.
 
 Para efecto de lo dispuesto en la ley Nº 17.322, el Fondo Nacional de Salud tendrá las mismas atribuciones que esta ley confiere a las entidades o instituciones de previsión, aun cuando no será considerado entidad de previsión para ningún efecto.
-
-#### Artículo 50 bis
-
-El Fondo Nacional de Salud deberá informar a la Comisión Ciudadana de Vigilancia y Control del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de las materias y en las condiciones que establezca la ley.
-
-Será de responsabilidad del director del Fondo Nacional de Salud proporcionar la referida información.
-
-Asimismo, el Fondo Nacional de Salud deberá implementar y administrar el sistema de información para el otorgamiento de las prestaciones incorporadas al Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de acuerdo a la ley respectiva.
 
 #### Artículo 51
 
@@ -1170,12 +1070,6 @@ La Central proveerá de medicamentos, instrumental y demás elementos o insumos 
 
 Estas funciones son sin perjuicio de la facultad de los Servicios de Salud y de otros organismos o entidades del Sistema para adquirir dichos elementos de otros proveedores.
 
-#### Artículo 68 bis
-
-La Central de Abastecimiento del Sistema Nacional de Servicios de Salud proveerá al Hospital Clínico de la Universidad de Chile, según los precios que se acuerden, de medicamentos, instrumental y otros elementos o insumos que pueda requerir, en los mismos términos, condiciones y disponibilidad que los demás órganos y establecimientos que forman parte del Sistema Nacional de Servicios de Salud, para cuyos efectos se requerirá únicamente el respaldo presupuestario correspondiente.
-
-Lo establecido precedentemente no obstará a que la Universidad de Chile celebre convenios adicionales con la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, o a la facultad de esa institución de educación superior para adquirir los referidos elementos de otros proveedores en conformidad a la ley.
-
 #### Artículo 69
 
 La Central será la continuadora legal, con los mismos derechos y obligaciones, del Servicio Nacional de Salud en lo referente a la Central de Abastecimiento de dicho Servicio, para los efectos patrimoniales.
@@ -1188,65 +1082,13 @@ Serán funciones de la Central:
 
 a) Proveer de medicamentos, artículos farmacéuticos y de laboratorio, material quirúrgico, instrumental y demás elementos e insumos que se requieran para el ejercicio de las acciones de salud a que se refiere el artículo 68.
 
-Para estos fines, la Central podrá adquirir, almacenar, distribuir, transportar, arrendar y vender esos elementos a los organismos, entidades, establecimientos y personas que formen parte del Sistema, con el solo objeto de cumplir los planes y programas del Ministerio y a los demás organismos públicos, entre cuyos fines institucionales esté la realización de acciones de salud en favor de sus beneficiarios, de conformidad al reglamento.
-
-La Central estará obligada a publicar
-
-y a mantener actualizados los precios
-
-de todos los productos que provea y los
-
-descuentos que aplique en la venta por
-
-volumen;
+Para estos fines, la Central podrá adquirir, almacenar, distribuir, transportar, arrendar y vender esos elementos a los organismos, entidades, establecimientos y personas que formen parte del Sistema, con el solo objeto de cumplir los planes y programas del Ministerio y a los demás organismos públicos, entre cuyos fines institucionales esté la realización de acciones de salud en favor de sus beneficiarios; de conformidad al reglamento;
 
 b) Mantener en existencia una cantidad adecuada de elementos de la misma naturaleza, determinados por el Ministerio de Salud, necesarios para el eficiente cumplimiento de sus programas;
 
 c) Atender las necesidades que en las materias de su competencia le encomiende satisfacer el Supremo Gobierno, en caso de emergencias nacionales o internacionales, y
 
 d) Prestar servicios de asesoría técnica a otros organismos y entidades del Sistema.
-
-e) Proveer los productos sanitarios necesarios para el otorgamiento de las prestaciones cubiertas por el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo. Asimismo, podrá proveer los productos sanitarios para tratamientos de alto costo no cubiertos por dicho Sistema, para las Fuerzas Armadas y de Orden y Seguridad y para las Instituciones de Salud Previsional, a solicitud de los organismos respectivos, previo pago anticipado de, al menos, los gastos que irrogue su importación y,o registro. Para los efectos de esta letra, la Central podrá registrar, importar, adquirir, almacenar, distribuir, transportar, arrendar y vender esos productos.
-
-#### Artículo 70 bis
-
-La Central podrá ejercer las funciones señaladas en la letra a) del artículo 70 respecto de farmacias y almacenes farmacéuticos privados, así como de establecimientos de salud sin fines de lucro a los que se refiere el artículo 121 del Código Sanitario.
-
-La farmacia, almacén farmacéutico o establecimiento de salud sin fines de lucro de que se trate podrá solicitar a la Central los productos sanitarios que sean necesarios para el adecuado abastecimiento y atención de la población. La Central evaluará la solicitud y, en caso de ser aprobada, procederá a la provisión de los productos sanitarios según las reglas generales. Para ello, podrá acumular la demanda a la de los establecimientos del Sistema. La Central sólo podrá negarse a la solicitud cuando no se cumplan los supuestos de este artículo o cuando la compra a través de ella no suponga una ventaja en las condiciones comerciales.
-
-La Central priorizará las solicitudes de convenios con las empresas de menor tamaño conforme al artículo segundo de la ley Nº 20.416, que fija normas especiales para las empresas de menor tamaño.
-
-A partir de la entrada en vigencia de esta ley, la Central no podrá intermediar productos sanitarios a farmacias, almacenes farmacéuticos o establecimientos de salud sin fines de lucro que sean sancionados por infracción de alguna de las disposiciones del artículo 3 del decreto ley Nº 211, de 1973, que fija normas para la defensa de la libre competencia, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1, de 2004, del Ministerio de Economía, Fomento y Reconstrucción.
-
-La Central deberá constituir un consejo consultivo conformado por el Director de ese organismo o quien este designe, por un representante del director del Fondo Nacional de Salud, por un representante del director del Instituto de Salud Pública y por tres economistas con experiencia demostrada en mercados regulados. Al menos uno de estos últimos deberá poseer conocimientos en economía de la salud. Este consejo recomendará, de acuerdo con la duración de las licitaciones que realice la Central, el precio máximo de venta al público que podrán cobrar las farmacias, almacenes farmacéuticos o establecimientos de salud sin fines de lucro, respecto de los medicamentos adquiridos mediante el procedimiento establecido en este artículo. Las sesiones de este consejo serán públicas y sus integrantes, en el momento de asumir su encargo, deberán presentar una declaración de intereses que contenga la individualización de las actividades profesionales, laborales, económicas, gremiales o de beneficencia, sean o no remuneradas, que realicen o en que participen, o que hayan realizado o en que hayan participado en los últimos cinco años.
-
-En el acto de la venta a la farmacia, almacén farmacéutico o establecimiento de salud sin fines de lucro, la Central determinará el precio máximo de venta al público que estos podrán cobrar respecto del medicamento adquirido mediante el mecanismo establecido en este artículo.
-
-Para efectos de lo dispuesto en el artículo 3 de la ley Nº 20.724, que modifica el Código Sanitario en materia de regulación de farmacias y medicamentos, los precios máximos de los productos intermediados por la Central serán informados en forma separada del resto de los productos.
-
-Todas las ventas que efectúe la Central en virtud de este artículo deberán ser publicadas en su sitio web institucional.
-
-Anualmente, la Central deberá publicar un informe en el cual se detallen las ventas realizadas en el marco de este artículo, con las respectivas circunstancias.
-
-La fiscalización y sanción por el incumplimiento de lo dispuesto en el inciso sexto, por parte de farmacias, almacenes farmacéuticos y establecimientos de salud sin fines de lucro, será efectuada por el Instituto de Salud Pública, conforme a lo dispuesto en el Libro X del Código Sanitario. Las infracciones serán sancionadas de acuerdo con el artículo 174 de dicho Código, pero en estos casos la multa no será inferior a quinientas unidades tributarias mensuales.
-
-> **Nota.** El artículo transitorio de la Ley 21198, Salud publicada el 08.01.2020, dispone la entrada en vigencia del presente articulo en forma gradual desde la fecha de promulgación de la citada ley, de acuerdo con la capacidad instalada de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud conforme al orden de prelación que en la norma se establece.
-
-#### Artículo 70 ter
-
-La Central podrá importar, adquirir, almacenar, distribuir, transportar, arrendar y vender los medicamentos, dispositivos médicos y demás productos necesarios para el cumplimiento de sus funciones y facultades.
-
-En el caso de productos sanitarios importados, la Central podrá exceptuarse de la obligación de suscribir el contrato de suministro, bastando al efecto la aceptación de la orden de compra, o la constitución de garantías de fiel cumplimiento, para lo cual deberá adoptar, antes del pago, las medidas necesarias que permitan verificar la conformidad en la recepción de los productos. Previamente, el Director deberá dictar una resolución fundada, basada en motivos calificados por la autoridad sanitaria, tales como la insuficiente capacidad de oferta o el desabastecimiento de productos sanitarios, y en razones de práctica o regulación comercial internacional.
-
-#### Artículo 70 quáter
-
-Las farmacias y almacenes farmacéuticos que intermedien con la Central deberán solicitar y mantener en existencias, al menos, los petitorios mínimos a que hacen referencia los artículos 94 y 101, inciso quinto, del Código Sanitario. Estos medicamentos deberán ser dispensados, expendidos o vendidos de manera preferente al público, y sólo podrán ser reemplazados por un producto equivalente terapéutico o bioequivalente, en el evento de que las personas lo soliciten, de lo que se deberá dejar constancia.
-
-Las instituciones o establecimientos de salud sin fines de lucro que intermedien con la Central deberán mantener en existencias, al menos, los petitorios mínimos a que hacen referencia los artículos 94 y 101, inciso quinto, del Código Sanitario, y los medicamentos e insumos que utilicen para el otorgamiento de sus prestaciones de salud, los que deberán ser administrados de manera obligatoria a los pacientes, sin perjuicio de los derechos que a estos reconoce la ley Nº 20.584.
-
-Las entidades sin fines de lucro que no formen parte de la red de prestadores de salud quedan exceptuadas de la obligación de mantener los petitorios mínimos.
-
-La infracción de lo dispuesto en este artículo será sancionada con una multa no inferior a doscientas cincuenta unidades tributarias mensuales, conforme a lo establecido en el Libro X del Código Sanitario.
 
 ## Título II
 
@@ -1348,10 +1190,6 @@ Los funcionarios del Ministerio de Salud y de los Servicios de Salud, del Fondo 
 
 El personal a jornal que se contrate para labores de carácter transitorio se regirá por el Código del Trabajo y será imponente del Instituto de Normalización Previsional o de una Administradora de Fondos de Pensiones, según corresponda.
 
-#### Artículo 79 bis
-
-Los prestadores del sistema podrán otorgar prestaciones de salud mediante tecnologías de la información y comunicaciones, y podrán contratar profesionales conforme al régimen laboral que corresponda. Estos profesionales quedarán sujetos al cumplimiento de objetivos asociados a la realización de atenciones médicas de salud digital, y podrán desarrollar sus labores fuera de las dependencias institucionales, previa autorización de la autoridad que corresponda. Un reglamento dictado por el Ministerio de Salud, suscrito además por el Ministro de Hacienda, determinará las condiciones y las autorizaciones bajo las cuales se aplicará lo dispuesto en este artículo, y establecerá además los mecanismos para resguardar la productividad y eficiencia de las prestaciones otorgadas con independencia de la modalidad de atención, ya sea mediante tecnologías de la información y comunicaciones, así como de aquellas otorgadas presencialmente. Lo anterior, de acuerdo a los recursos que disponga para estos efectos cada año la Ley de Presupuestos del Sector Público.
-
 #### Artículo 80
 
 El Ministerio de Salud, los Servicios de Salud, el Fondo Nacional de Salud, el Instituto de Salud Pública, la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, la Superintendencia de Salud y los Establecimientos de Salud de Carácter Experimental, se regirán por las normas del decreto ley Nº 1.263, de 1975, y disposiciones complementarias.
@@ -1376,9 +1214,9 @@ Corresponderá esta asignación al personal que haya prestado servicios para alg
 
 #### Artículo 84
 
-El monto mensual que corresponderá a cada funcionario por concepto de asignación de desarrollo y estímulo al desempeño colectivo, se calculará sobre el sueldo base más las asignaciones establecidas en los artículos 17 y 19 de la ley Nº 19.185, y, cuando corresponda, la señalada en el artículo 2º de la ley N° 19.699.
+El monto mensual que corresponderá a cada funcionario por concepto de asignación de desarrollo y estímulo al desempeño colectivo, se calculará sobre el letra b) sueldo base más las asignaciones establecidas en los artículos 17 y 19 de la ley Nº 19.185, y, cuando corresponda, la señalada en el artículo 2º de la ley N° 19.699.
 
-El componente base ascenderá, para el personal de la planta de técnicos o asimilado a ella, al 10,5% aplicado sobre la base señalada en el inciso primero y, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, al 10,5% aplicado sobre la misma base de cálculo. El componente variable será, para el personal de la planta de técnicos o asimilado a ella, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas. El componente variable será, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas.
+El componente base ascenderá, para el personal de la planta de técnicos o asimilado a ella, al 10% aplicado sobre la base señalada en el inciso primero y, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, al 10,5% aplicado sobre la misma base de cálculo. El componente variable será, para el personal de la planta de técnicos o asimilado a ella, de 11% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,5% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas. El componente variable será, para el personal de la planta de administrativos y auxiliares o asimilados a ellas, de 11,5% sobre igual base de cálculo, para aquellos funcionarios que se desempeñen en las entidades que hubieren cumplido el 90% o más de las metas fijadas para el año anterior, y de 5,75% para aquellos funcionarios de las entidades que cumplan entre el 75% y menos del 90% de las metas fijadas.
 
 > **Nota.** El artículo Décimo Transitorio de la LEY 20209, publicada el 30.07.2007, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de enero de 2007.
 
@@ -1514,8 +1352,6 @@ Para tener derecho a la asignación de turno, los funcionarios deberán estar fo
 
 Esta asignación se percibirá mientras el trabajador se encuentre en funciones en los puestos de trabajo mencionados, e integre el sistema de turnos rotativos cubiertos por cuatro o tres funcionarios, manteniendo el derecho a percibirla durante los períodos de ausencia con goce de remuneraciones originados por permisos, licencias y feriado legal. Asimismo, será considerada como estipendio de carácter general y permanente, para efectos del inciso tercero del artículo 21 de la ley N° 19.429.
 
-El concepto de permiso mencionado en el inciso anterior se entiende que incluye, entre otros, el permiso a que se refiere el artículo 31 de la ley Nº19.296.
-
 #### Artículo 97
 
 Las horas extraordinarias que, en virtud de lo dispuesto en la letra c) del artículo 98 de la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, puedan percibir los funcionarios de planta y a contrata de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda y el decreto ley Nº 249, de 1974, cualquiera que sea el motivo de su origen, no constituirán remuneración permanente para ningún efecto legal. En consecuencia, no se percibirán durante los feriados, licencias y permisos con goce de remuneraciones.
@@ -1610,7 +1446,7 @@ funcionaria
 
 #### Artículo 102
 
-La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, y del señalado en el artículo 17 bis, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 30%, 40% y 30%, respectivamente.
+La promoción de los funcionarios de las plantas de técnicos, administrativos y auxiliares de las Subsecretarías del Ministerio de Salud; del Instituto de Salud Pública de Chile; de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud y de los Servicios de Salud señalados en el artículo 16 de este cuerpo legal, regidos por la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el decreto con fuerza de ley N° 29, de 2004, del Ministerio de Hacienda, y el decreto ley Nº 249, de 1974, se efectuará mediante un procedimiento de acreditación de competencias, en el cual se evaluará la capacitación, la experiencia calificada y la calificación obtenida por el personal en el período objeto de acreditación, con una ponderación de 33%, 33% y 34%, respectivamente.
 
 Los funcionarios deberán someterse anualmente al sistema de acreditación de competencias en el cargo que sirvan.
 
@@ -1722,11 +1558,9 @@ La Superintendencia de Salud será considerada, para todos los efectos legales, 
 
 Corresponderá a la Superintendencia supervigilar y controlar a las instituciones de salud previsional, en los términos que señale este Capítulo, el Libro III de esta Ley y las demás disposiciones legales que sean aplicables, y velar por el cumplimiento de las obligaciones que les imponga la ley en relación a las Garantías Explícitas en Salud, los contratos de salud, las leyes y los reglamentos que las rigen.
 
-Asimismo, la Superintendencia de Salud supervigilará y controlará al Fondo Nacional de Salud en todas aquellas materias que digan estricta relación con los derechos que tienen los beneficiarios del Libro II de esta Ley en las modalidades de atención institucional, de libre elección, y de cobertura complementaria, sin perjuicio de las facultades de la Comisión para el Mercado Financiero respecto de las compañías de seguro, lo que la ley establezca como Garantías Explícitas en Salud y al Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
+Asimismo, la Superintendencia de Salud supervigilará y controlará al Fondo Nacional de Salud en todas aquellas materias que digan estricta relación con los derechos que tienen los beneficiarios del Libro II de esta Ley en las modalidades de atención institucional, de libre elección, y lo que la ley establezca como Garantías Explícitas en Salud.
 
 Igualmente, concernirá a la Superintendencia la fiscalización de todos los prestadores de salud públicos y privados, sean éstos personas naturales o jurídicas, respecto de su acreditación y certificación, así como la mantención del cumplimiento de los estándares establecidos en la acreditación.
-
-De la misma manera, le corresponde el control y supervigilancia del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo. Para estos efectos, podrá regular, fiscalizar y resolver las controversias respecto de prestadores, seguros, fondos e instituciones que participen de todos los sistemas previsionales de salud, incluyendo los de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile.
 
 ### Párrafo 2°
 
@@ -1868,43 +1702,39 @@ La Superintendencia ejercerá la supervigilancia y el control del Fondo Nacional
 
 ### Párrafo 2°
 
-De la Supervigilancia y Control de las Garantías Explícitas en Salud y del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo
+De la supervigilancia y control de las Garantías Explícitas en Salud
 
 #### Artículo 115
 
-Le corresponderán a la Superintendencia las siguientes funciones y atribuciones, las que ejercerá a través de la Intendencia de Fondos y Seguros Previsionales de Salud, respecto de la supervigilancia y control de las Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo:
+Le corresponderán a la Superintendencia las siguientes funciones y atribuciones, las que ejercerá a través de la Intendencia de Fondos y Seguros Previsionales de Salud, respecto de la supervigilancia y control de las Garantías Explícitas en Salud:
 
-1.- Interpretar administrativamente las leyes, reglamentos y demás normas que rigen el otorgamiento de las Garantías Explícitas en Salud, y de las prestaciones del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costoimpartir instrucciones de general aplicación y dictar órdenes para su aplicación y cumplimiento;
+1.- Interpretar administrativamente las leyes, reglamentos y demás normas que rigen el otorgamiento de las Garantías Explícitas en Salud, impartir instrucciones de general aplicación y dictar órdenes para su aplicación y cumplimiento;
 
-2.- Fiscalizar los aspectos jurídicos y financieros, para el debido cumplimiento de las obligaciones que establecen las Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo;
+2.- Fiscalizar los aspectos jurídicos y financieros, para el debido cumplimiento de las obligaciones que establecen las Garantías Explícitas en Salud;
 
 3.- Velar por el cumplimiento de las leyes y reglamentos que los rigen y de las instrucciones que la Superintendencia emita, sin perjuicio de las facultades que pudieren corresponder a otros organismos fiscalizadores;
 
 4.- Dictar las instrucciones de carácter general que permitan la mayor claridad en las estipulaciones de los contratos de salud y los convenios que se suscriban entre los prestadores y las instituciones de salud previsional y el Fondo Nacional de Salud, con el objeto de facilitar su correcta interpretación y fiscalizar su cumplimiento, correspondiéndole especialmente velar por que éstos se ajusten a las obligaciones que establecen las Garantías Explícitas en Salud;
 
-5.- Dictar las instrucciones de carácter general al Fondo Nacional de Salud, instituciones de salud previsionales, prestadores e instituciones de salud de las Fuerzas Armas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile, con el objeto de facilitar la aplicación del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo y el acceso a sus beneficiarios; realizar la correcta interpretación de sus normas, y fiscalizar su cumplimiento, salvo en las materias propias reguladas en el Código Sanitario;
+5.- Difundir periódicamente información que permita a los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud una mejor comprensión de los beneficios y obligaciones que imponen las referidas Garantías Explícitas en Salud e informar periódicamente sobre las normas e instrucciones dictadas e interpretaciones formuladas por la Superintendencia, en relación con los beneficios y obligaciones de los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud, respecto del Régimen General de Garantías en Salud.
 
-6.- Difundir periódicamente información que permita a los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud una mejor comprensión de los beneficios y obligaciones que imponen las referidas Garantías Explícitas en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo e informar periódicamente sobre las normas e instrucciones dictadas e interpretaciones formuladas por la Superintendencia, en relación con los beneficios y obligaciones de los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud, respecto del Régimen General de Garantías en Salud y el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
+6.- Requerir de los prestadores, sean públicos o privados, las fichas clínicas u otros antecedentes médicos que sean necesarios para resolver los reclamos de carácter médico presentados ante la Superintendencia por los afiliados o beneficiarios de las instituciones fiscalizadas. La Superintendencia deberá adoptar las medidas que sean necesarias para mantener la confidencialidad de la ficha clínica;
 
-7.- Requerir de los prestadores, sean públicos o privados, las fichas clínicas u otros antecedentes médicos que sean necesarios para resolver los reclamos de carácter médico presentados ante la Superintendencia por los afiliados o beneficiarios de las instituciones fiscalizadas. La Superintendencia deberá adoptar las medidas que sean necesarias para mantener la confidencialidad de la ficha clínica;
+7.- Requerir de los prestadores, tanto públicos como privados, la información que acredite el cumplimiento de las Garantías Explícitas en Salud sobre acceso, oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos;
 
-8.- Requerir de los prestadores, tanto públicos como privados, la información que acredite el cumplimiento de las Garantías Explícitas en Salud sobre acceso, oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos;
+8.- Recibir, derivar o absolver, en su caso, las consultas y, en general, las presentaciones que formulen los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud;
 
-9.- Requerir de los prestadores, tanto públicos como privados, del Fondo Nacional de Salud, de la Comisión Ciudadana de Vigilancia y Control del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, de la Central de Abastecimiento del Sistema Nacional de Servicios de Salud, de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones y Gendarmería de Chile y en general, de cualquier institución pública y,o privada la información que acredite el cumplimiento del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, sobre oportunidad y calidad de las prestaciones y beneficios de salud que se otorguen a los beneficiarios, sin perjuicio de las facultades que pudieren corresponder a otros organismos. Esta facultad se extenderá al otorgamiento de las prestaciones no contempladas pero asociadas al Sistema, efectuadas en la Red de Prestadores aprobada por el Ministerio de Salud;
+9.- Dictar resoluciones de carácter obligatorio que permitan suspender transitoriamente los efectos de actos que afecten los beneficios a que tienen derecho los cotizantes y beneficiarios, en relación con las Garantías Explícitas en Salud y los contratos de salud;
 
-10.- Recibir, derivar o absolver, en su caso, las consultas y, en general, las presentaciones que formulen los cotizantes y beneficiarios de las instituciones de salud previsional y del Fondo Nacional de Salud;
+10.- Requerir de los organismos del Estado los informes que estime necesarios para el cumplimiento de sus funciones;
 
-11.- Dictar resoluciones de carácter obligatorio que permitan suspender transitoriamente los efectos de actos que afecten los beneficios a que tienen derecho los cotizantes y beneficiarios, en relación con las Garantías Explícitas en Salud y los contratos de salud así como con el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo;
+11.- Imponer las sanciones que correspondan de conformidad a la ley, y
 
-12.- Requerir de los organismos del Estado los informes que estime necesarios para el cumplimiento de sus funciones;
-
-13.- Imponer las sanciones que correspondan de conformidad a la ley, y
-
-14.- Las demás que contemplen las leyes.
+12.- Las demás que contemplen las leyes.
 
 #### Artículo 116
 
-El Fondo Nacional de Salud y las instituciones de salud previsional devolverán lo pagado en exceso por el beneficiario en el otorgamiento de las prestaciones, según lo determine la Superintendencia mediante resolución, conforme a lo dispuesto en las Garantías Explícitas en Salud y en el Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo.
+El Fondo Nacional de Salud y las instituciones de salud previsional devolverán lo pagado en exceso por el beneficiario en el otorgamiento de las prestaciones, según lo determine la Superintendencia mediante resolución, conforme a lo dispuesto en las Garantías Explícitas en Salud.
 
 Dichas resoluciones y las sanciones de pago de multa constituirán título ejecutivo para todos los efectos legales, una vez que se hayan resuelto los recursos a que se refieren los artículos siguientes o haya transcurrido el plazo para interponerlos.
 
@@ -1984,7 +1814,7 @@ Le corresponderán a la Superintendencia, para la fiscalización de todos los pr
 
 La Intendencia de Prestadores de Salud no será competente para pronunciarse sobre el manejo clínico individual de casos.
 
-11. Fiscalizar a los prestadores de salud en el cumplimiento de lo dispuesto en los artículos 134 bis; 141, incisos penúltimo y final; 141 bis; 173, incisos séptimo y octavo, y 173 bis, y sancionar su infracción.
+11. Fiscalizar a los prestadores de salud en el cumplimiento de lo dispuesto en los artículos 141, inciso final; 141 bis; 173, inciso séptimo, y 173 bis, y sancionar su infracción.
 
 La infracción de dichas normas será sancionada, de acuerdo a su gravedad, con multa de diez hasta mil unidades tributarias mensuales.
 
@@ -1998,31 +1828,9 @@ Para la aplicación de estas sanciones la Superintendencia se sujetará a lo est
 
 Para efectos de dar cumplimiento a lo señalado en este numeral, la Superintendencia deberá implementar un sistema de atención continuo y expedito para recibir y resolver los reclamos que sobre esta materia se formulen.
 
-12. Imponer las sanciones que corresponda, en conformidad a la ley.
+12. Imponer las sanciones que corresponda, en conformidad a la ley, y
 
-13. Otorgar apostillas en conformidad
-
-a lo establecido en la Convención de La
-
-Haya que Suprime la Exigencia de
-
-Legalización de Documentos Públicos
-
-Extranjeros, en los documentos en que
-
-consten las firmas de las autoridades
-
-del Ministerio de Salud o de algún
-
-profesional del área de la salud que
-
-acredite el estado de salud de una
-
-persona o le prescriba algún
-
-tratamiento o medicación, y
-
-14. Realizar las demás funciones que la ley y los reglamentos le asignen.
+13. Realizar las demás funciones que la ley y los reglamentos le asignen.
 
 Los instrumentos regulatorios utilizados en la labor de fiscalización, por parte de la Superintendencia, serán iguales para los establecimientos públicos y privados, de acuerdo a la normativa vigente.
 
@@ -2132,94 +1940,6 @@ Los bienes muebles e inmuebles de propiedad de la Superintendencia de Institucio
 
 Las multas que aplique la Superintendencia serán a beneficio fiscal.
 
-## Capítulo VIII
-
-Del Consejo Consultivo sobre Seguros Previsionales de Salud
-
-#### Artículo 130 bis
-
-Créase un Consejo Consultivo sobre Seguros Previsionales de Salud, de carácter técnico, en adelante e indistintamente el "Consejo", que tendrá como función asesorar a la Superintendencia de Salud en el proceso de presentación, evaluación y aprobación de los planes de pago y ajustes de las Instituciones de Salud Previsional, por restitución de cobros realizados en exceso por aplicar tablas de factores elaboradas por dichas instituciones distintas a la Tabla Única de Factores de la Superintendencia de Salud.
-
-Las opiniones, pronunciamientos, estudios y propuestas del Consejo no tendrán el carácter de vinculantes y serán remitidos a la Superintendencia de Salud. Deberán ponerse a disposición del público a través de la página web institucional de la Superintendencia, en el plazo máximo de treinta días corridos desde dicha remisión.
-
-La Superintendencia de Salud deberá justificar de forma clara y precisa en su pronunciamiento la circunstancia de no integrar o rechazar las opiniones, pronunciamientos, estudios y propuestas del Consejo, el cual deberá estar a disposición del público a través de su página web institucional en el plazo máximo de treinta días corridos desde que se dicte la resolución.
-
-#### Artículo 130 ter
-
-El Consejo estará constituido por cinco personas, de vasta experiencia profesional y/o académica comprobada, en materias de salud pública, economía de salud o derecho sanitario.
-
-Los consejeros durarán en su cargo el tiempo que requieran para su cometido en virtud de lo establecido en el artículo 130 bis.
-
-Los integrantes del Consejo tendrán derecho a percibir una dieta equivalente a quince unidades de fomento por cada sesión a la que asistan, con un máximo de sesenta unidades de fomento por cada mes calendario. Esta dieta será compatible con otros ingresos que perciba cada consejero.
-
-Les corresponderá a los consejeros designar a uno de ellos como presidente del Consejo, quien presidirá las sesiones. Asimismo, deberán elegir a uno de ellos como subrogante del presidente del Consejo.
-
-#### Artículo 130 quáter
-
-La calidad de consejero será incompatible con el ejercicio de los cargos de ministro de Estado, subsecretario, diputado, senador, delegado presidencial regional o provincial, alcalde, concejal, gobernador regional, consejero regional, miembro del escalafón primario del Poder Judicial, fiscal del Ministerio Público, funcionario del Banco Central de Chile, miembro de las Fuerzas Armadas y de Orden y Seguridad Pública y miembro de los órganos de dirección de los partidos políticos.
-
-#### Artículo 130
-
-quinquies.- Los integrantes del Consejo estarán inhabilitados para prestar asesorías a las Instituciones de Salud Previsional, mientras ejerzan el cargo.
-
-No podrán integrar el Consejo aquellas personas que tengan conflictos de interés. Se entenderá, especialmente, que existe conflicto de interés en las siguientes circunstancias:
-
-1) Si en los últimos cinco años han ocupado los cargos de directores, gerentes, administradores, ejecutivos principales de una Institución de Salud Previsional o de un Prestador Institucional de Salud relacionado según lo dispuesto en el artículo 100 de la ley N° 18.045, de Mercado de Valores.
-
-2) Si en los últimos dos años, como persona natural o a través de sociedades de personas de las que los integrantes del Consejo formen parte; o en sociedades comanditas por acciones, anónimas cerradas en que aquéllos o éstas sean accionistas, o en sociedades anónimas abiertas en que aquéllos o éstas sean dueños de acciones que representen el 10% o más del capital, han prestado servicios de asesoría en materia de aseguramiento de prestaciones de salud, cualquiera sea la naturaleza del vínculo a una Institución de Salud Previsional o a un Prestador Institucional de Salud relacionado según lo dispuesto en el artículo 100 de la ley N° 18.045; o hayan sido gestores de intereses de las mismas instituciones, por sí o por terceras personas o sociedades.
-
-3) Tener interés económico personal en uno o más de los aspectos o asuntos que le corresponde conocer en el ejercicio de su función, o tenerlo su cónyuge o conviviente civil, hijos o parientes hasta el cuarto grado de consanguinidad y segundo de afinidad, inclusive, o una persona jurídica, en la que tenga, directa o indirectamente, el 10% o más de la participación, acciones o derechos, cualquiera sea su tipo, o ejerza en ella funciones de administración y/o control.
-
-4) Participar, directa o indirectamente, en un prestador institucional de salud privado relacionado con una o más Instituciones de Salud Previsional, según lo dispuesto en el artículo 100 de la ley N° 18.045. Se incluye en esta inhabilidad cualquier tipo de participación que genere beneficios económicos a la persona integrante del Consejo o a las personas naturales o jurídicas indicadas en el numeral precedente.
-
-Para efectos de lo establecido en el numeral 3) anterior, no se considerará tener interés económico personal si la persona o alguno de los parientes señalados en dicho numeral, es o ha sido afiliado o beneficiario del sistema privado de salud.
-
-Una vez cesados en sus cargos, y por el plazo de seis meses, los exconsejeros no podrán prestar servicio alguno, sea de forma gratuita o remunerada, ni adquirir participación en la propiedad de entidades respecto de las cuales se hace referencia en los numerales anteriores. La prohibición de que trata este artículo se extiende a aquellas empresas que formen parte del mismo grupo empresarial en los términos del artículo 96 de la ley Nº 18.045.
-
-#### Artículo 130
-
-sexies.- Serán causales de cesación en el cargo de consejero las siguientes:
-
-a) Expiración del período para el que fue nombrado.
-
-b) Renuncia voluntaria.
-
-c) Condena a pena aflictiva.
-
-d) El fallecimiento de la persona.
-
-e) Incapacidad psíquica o física sobreviniente para el desempeño del cargo.
-
-f) Incurrir en alguna causal de inhabilidad o incompatibilidad a las que se refieren los dos artículos anteriores.
-
-g) Incumplimiento grave y manifiesto de las normas sobre probidad administrativa. Se entenderá como tal el incumplimiento de las normas señaladas en el artículo 130 septies, y particularmente, el incumplimiento del deber de abstención señalado en el mismo.
-
-h) Falta grave al cumplimiento de las obligaciones como consejero. Se entenderá como falta grave, entre otras, la inasistencia injustificada a dos sesiones consecutivas o a cuatro sesiones del Consejo, durante un mismo año calendario, así como el incumplimiento del deber de reserva y secreto establecido en el artículo 130 octies.
-
-El consejero respecto del cual se verificare alguna causal de las contenidas en los literales c) a e) cesará automáticamente en su cargo, debiendo comunicarse de inmediato dicha circunstancia al Consejo.
-
-La verificación de las causales señaladas en los literales g) y h) será realizada por el resto del Consejo, en sesión convocada especialmente para tal efecto, de acuerdo con lo establecido en el reglamento. Para este caso, el Consejo podrá sesionar sin necesidad de que sea convocado por el Superintendente.
-
-#### Artículo 130
-
-septies.- A los integrantes del Consejo les serán aplicables las normas sobre probidad administrativa establecidas en el decreto con fuerza de ley Nº 1/19.653, promulgado en 2000 y publicado en 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, y particularmente, el deber de abstención establecido en el artículo 12 de la ley N° 19.880, que establece bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado.
-
-Asimismo, a los consejeros les serán aplicables las normas contenidas en la ley N° 20.880, sobre probidad en la función pública y prevención de los conflictos de intereses, y en particular, estarán obligados a realizar la declaración de intereses y patrimonio establecida en el Título II de dicha ley. También, a los consejeros les serán aplicables las normas contenidas en la ley N° 20.730 que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios.
-
-#### Artículo 130
-
-octies.- El Superintendente deberá convocar al Consejo a sesiones ordinarias, a lo menos, una vez cada dos meses, mientras duren las atribuciones contempladas en esta ley. Podrá también convocar al Consejo a sesiones extraordinarias cuando existan circunstancias que así lo requieran.
-
-Para sesionar, el Consejo requerirá un quórum mínimo de tres integrantes, incluida la presencia de quien ejerza la presidencia o quien lo subrogue. En las sesiones los consejeros tendrán derecho a voz y voto. El Consejo adoptará sus acuerdos por la mayoría simple de sus integrantes presentes. En caso de no alcanzarse dicha mayoría, quien ejerza la presidencia o quien le subrogue tendrá la facultad de dirimir entre las alternativas presentadas. De los acuerdos que adopte el Consejo deberá dejarse constancia en el acta de la sesión respectiva, donde también deberán consignarse los votos de minoría.
-
-El Superintendente de Salud tendrá derecho a ser oído por el Consejo cada vez que lo estime conveniente, pudiendo concurrir a sus sesiones.
-
-Para su buen funcionamiento, el Consejo contará con una secretaría ejecutiva que estará a cargo de un funcionario o funcionaria designada por la Superintendencia, quien no percibirá remuneración adicional alguna por esta función, y que tendrá como funciones actuar como ministro de fe en el Consejo, realizar el levantamiento de los acuerdos y recomendaciones y la propuesta de acta de cada una de las sesiones, y todas aquellas funciones necesarias para el correcto funcionamiento del Consejo. Asimismo, la Superintendencia de Salud proporcionará el apoyo administrativo y de servicios para el desarrollo de sus funciones.
-
-Las materias tratadas en cada sesión del Consejo deberán constar en actas elaboradas por la secretaría ejecutiva y ser aprobadas oportunamente por las personas integrantes del Consejo, las que estarán sujetas a publicidad, de conformidad a lo previsto en la ley N° 20.285, sobre acceso a la información pública.
-
-Los integrantes del Consejo y la secretaría ejecutiva deberán guardar absoluta reserva y secreto de la información y documentos de los que tome conocimiento en el cumplimiento de sus labores, sin perjuicio de las informaciones que deban proporcionar en conformidad a la ley.
-
 # Libro II
 
 REGULA EL EJERCICIO DEL DERECHO CONSTITUCIONAL A LA PROTECCIÓN DE LA SALUD Y CREA UN RÉGIMEN DE PRESTACIONES DE SALUD
@@ -2246,10 +1966,6 @@ Establécese un Régimen de Prestaciones de Salud, denominado en adelante el Ré
 
 Sus beneficiarios tendrán derecho a las acciones de salud previstas en este Libro en las condiciones que él establece.
 
-#### Artículo 134 bis
-
-Los prestadores de salud, las instituciones de salud previsional, el Fondo Nacional de Salud u otras entidades, tanto públicas como privadas, que elaboren, procesen o almacenen datos de origen sanitario no podrán vender, ceder o transferir, a cualquier título, bases de datos que contengan información sensible respecto de sus usuarios, beneficiarios o pacientes, si no cuentan para ello con el consentimiento del titular de tales datos, en los términos previstos en la ley N° 19.628 o en otras normas especiales que regulen dicha materia, salvo que se trate del otorgamiento de los beneficios de salud que les correspondan, así como del cumplimiento de sus respectivos objetivos legales, para lo cual no se requerirá de dicho consentimiento.
-
 ## Título I
 
 De los Afiliados y Beneficiarios
@@ -2262,7 +1978,7 @@ a) Los trabajadores dependientes de los sectores público y privado. Tratándose
 
 En todo caso, los trabajadores dependientes contratados diariamente por turnos o jornadas, que registren, al menos, sesenta días de cotizaciones en los doce meses calendario anteriores, mantendrán la calidad de afiliados durante los doce meses siguientes a aquel correspondiente a la última cotización;
 
-b) Los trabajadores independientes que coticen para salud;
+b) Los trabajadores independientes que coticen en cualquier régimen legal de previsión;
 
 c) Las personas que coticen en cualquier régimen legal de previsión en calidad de imponentes voluntarios, y
 
@@ -2320,8 +2036,6 @@ b) Asistencia médica curativa que incluye consulta, exámenes y procedimientos 
 
 c) Atención odontológica, en la forma que determine el reglamento.
 
-La mamografía contenida en el Examen de Medicina Preventiva, y que fuere solicitada de acuerdo con la frecuencia establecida por el Ministerio de Salud, no requerirá de la orden médica respectiva para respaldar el otorgamiento del examen imagenológico. Asimismo, los prestadores deberán informar a los beneficiarios su carácter gratuito, por hallarse comprendido en el examen señalado en la letra a) del inciso primero de este artículo. El prestador que tome ese examen tendrá la obligación de informar al paciente en caso de resultado alterado o que deba complementar con estudios adicionales. La Superintendencia de Salud emitirá las instrucciones requeridas para dar fiel cumplimiento a lo dispuesto en este inciso.
-
 #### Artículo 139
 
 Toda mujer embarazada tendrá derecho a protección del Estado durante el embarazo y hasta el sexto mes del nacimiento del hijo, la que comprenderá el control del embarazo y puerperio.
@@ -2334,95 +2048,13 @@ La atención del parto estará incluida en la asistencia médica a que se refier
 
 Se incluyen entre las prestaciones de salud que proporciona el Régimen aquellas acciones de promoción, protección y otras relativas a las personas o al ambiente, que se determinen en los programas y planes que fije el Ministerio de Salud, en la forma y modalidades establecidas en las disposiciones que rigen a los organismos que integran el Sistema Nacional de Servicios de Salud, a quienes corresponderá la ejecución de tales acciones.
 
-#### Artículo 140 bis
-
-Con el objeto de gestionar de forma eficiente los tiempos de espera sanitarios, establécese el Sistema de Acceso Priorizado, consistente en el otorgamiento por el Fondo Nacional de Salud de un acceso priorizado y protección financiera para la realización de intervenciones sanitarias que hayan sido priorizadas para el año respectivo por el Ministerio de Salud, a través del decreto a que se refiere el artículo siguiente.
-
-La realización de las intervenciones sanitarias priorizadas considerará todos los elementos que se requieran para ello, tales como, medicamentos hospitalarios, insumos hospitalarios, honorarios médicos, hospitalizaciones, atenciones post hospitalarias y complicaciones post operatorias, de acuerdo con la indicación médica respectiva, según indique el decreto señalado en el artículo siguiente.
-
-El Fondo Nacional de Salud, sujeto a la disponibilidad presupuestaria del Sistema de Acceso Priorizado, celebrará contratos o convenios con prestadores de salud no pertenecientes al Sistema Nacional de Servicios de Salud, que cuenten con capacidad resolutiva para la realización de dichas intervenciones sanitarias, mediante mecanismos de pago destinados a financiar soluciones a las intervenciones sanitarias correspondientes.
-
-Para los efectos del artículo 140 quinquies, la contratación o adjudicación de estos contratos o convenios deberá dar cumplimiento a las disposiciones de la ley Nº 19.886, ley de bases sobre contratos administrativos de suministro y prestación de servicios.
-
-Las intervenciones sanitarias priorizadas deberán otorgarse de conformidad a los artículos 140 quinquies y 140 sexies, según corresponda.
-
-#### Artículo 140 ter
-
-Durante el último mes de cada año, un decreto del Ministerio de Salud, expedido bajo la fórmula "por orden del Presidente de la República", visado por la Dirección de Presupuestos, determinará la nómina de intervenciones sanitarias priorizadas para los beneficiarios señalados en los artículos 140 quinquies y 140 sexies, respectivamente, para el año calendario siguiente, que serán otorgadas a través del Sistema de Acceso Priorizado del Fondo Nacional de Salud. Este decreto señalará las prestaciones que el sistema considerará para cada intervención priorizada.
-
-El decreto del Ministerio de Salud deberá fundarse en un estudio elaborado por éste previamente, el que considerará especialmente:
-
-a) Las intervenciones sanitarias cuya prioridad proponen las subsecretarías de Salud Pública y de Redes Asistenciales, en base a un análisis de los problemas de salud no garantizados por la ley Nº 19.966, que establece un régimen de garantías en salud.
-
-b) Un análisis cuantitativo realizado por la Subsecretaría de Redes Asistenciales sobre la capacidad resolutiva de los prestadores pertenecientes al Sistema Nacional de Servicios de Salud y de los tiempos de espera de las personas beneficiarias para el otorgamiento de las prestaciones que se relacionan con los problemas de salud determinados en el literal anterior, con la finalidad de identificar las necesidades de la población.
-
-Este análisis deberá considerar un estudio del uso eficiente de la capacidad de los prestadores del Sistema Nacional de Salud, dentro del horario de funcionamiento regular.
-
-c) Un análisis realizado por el Fondo Nacional de Salud de la oferta disponible para la realización de las intervenciones sanitarias por parte de los prestadores no pertenecientes al Sistema Nacional de Servicios de Salud que hayan celebrado un contrato o convenio con el Fondo Nacional de Salud.
-
-d) Una estimación realizada por el Fondo Nacional de Salud del costo esperado de las intervenciones sanitarias propuestas según la letra a), y una proyección anual del presupuesto estimado y la cantidad de intervenciones que podrán ser otorgadas a través del Sistema de Atención Priorizada.
-
-El estudio a que se refiere el inciso anterior y los elementos en que se funda deberán publicarse en el sitio web institucional del Ministerio de Salud y remitirse a las comisiones de Salud de la Cámara de Diputados y del Senado, una vez que se publique el decreto señalado en el inciso primero.
-
-No se podrán incluir en la priorización aquellas intervenciones sanitarias que, al momento de la dictación del decreto, se encuentren garantizadas mediante las garantías explícitas en salud establecidas en virtud de la ley Nº 19.966, ni las que formen parte del Sistema de Protección Financiera para el otorgamiento de aquellos diagnósticos y tratamientos de alto costo establecido en la ley Nº 20.850. Si una intervención sanitaria garantizada pasa a estar incorporada en cualquiera de los regímenes señalados en este inciso, dejará de formar parte del Sistema de Acceso Priorizado y en todo caso se resguardarán los derechos de las personas que ya hubieran sido beneficiadas.
-
-La vigencia de la nómina de intervenciones sanitarias priorizadas será anual, para el año calendario respectivo, sin perjuicio de que pueda incluir intervenciones que hayan sido priorizadas en años anteriores, en tanto sea pertinente según lo establezca el decreto respectivo.
-
-El decreto del Ministerio de Salud indicará el presupuesto máximo a ejecutarse a través del Sistema de Acceso Priorizado en el año calendario, y lo distribuirá en partes iguales entre los casos previstos en el artículo 140 quinquies y aquellos señalados en el artículo 140 sexies.
-
-Excepcionalmente, para evitar una subejecución del presupuesto, el Ministerio de Hacienda, a propuesta del Fondo Nacional de Salud, podrá redistribuir el presupuesto anual del Sistema de Acceso Priorizado por medio de un decreto. La propuesta del Fondo Nacional de Salud deberá fundarse en la existencia de un riesgo concreto de subejecución presupuestaria, tal como, no existir suficiente demanda de una o más de las intervenciones priorizadas, o cambios en la disponibilidad de oferta de los prestadores.
-
-#### Artículo 140 quáter
-
-Podrán acceder al Sistema de Acceso Priorizado todas las personas beneficiarias del Fondo Nacional de Salud que cumplan con las condiciones médicas necesarias para la intervención y con los requisitos que se establecen en los artículos siguientes. Dicho acceso estará limitado por la disponibilidad presupuestaria que contemple el decreto referido en el artículo 140 ter para el año calendario correspondiente.
-
-#### Artículo 140
-
-quinquies.- Respecto de las personas beneficiarias del Fondo Nacional de Salud o del Programa de Reparación y Atención Integral de Salud, que se encuentren en lista de espera de una intervención priorizada de conformidad con el decreto a que se refiere el artículo 140 ter, el Fondo Nacional de Salud, de oficio, las ingresará al Sistema de Acceso Priorizado, y las derivará a un prestador para la realización de la intervención correspondiente. Las intervenciones sanitarias priorizadas deberán iniciarse dentro del plazo que establezca el contrato o convenio respectivo. Asimismo, estos convenios deberán incorporar las sanciones que se impondrán al prestador que lo incumpla.
-
-Sin perjuicio de lo anterior, en caso de que un prestador incumpla con el plazo del convenio o no realice la intervención sanitaria en la fecha programada por razones no imputables al beneficiario, éste o su representante podrá solicitar al Fondo Nacional de Salud su derivación a otro prestador. Para asegurar la correcta y segura realización de la intervención sanitaria priorizada, el Ministerio de Salud podrá dictar protocolos de derivación que incluyan en ella los tiempos y calidad de la atención.
-
-La Subsecretaría de Redes Asistenciales informará al Fondo Nacional de Salud acerca de aquellas personas que se encuentran en lista de espera para una de las intervenciones sanitarias priorizadas.
-
-Para todos los efectos legales estas atenciones de salud se entenderán otorgadas en la Modalidad de Atención Institucional.
-
-El decreto a que se refiere el artículo 140 ter contendrá los criterios para el acceso y la designación de las personas beneficiarias que se encuentren en lista de espera, los que serán propuestos por el Fondo al Ministerio de Salud. En estos criterios siempre se deberá priorizar los tiempos de espera de las personas y la necesidad sanitaria.
-
-#### Artículo 140
-
-sexies.- Respecto de las personas beneficiarias del Fondo Nacional de Salud que pertenezcan a los grupos B, C y D, que requieran la realización de una de las intervenciones sanitarias priorizadas de conformidad con el decreto al que se refiere el artículo 140 ter, podrán acceder al Sistema de Acceso Priorizado enterando un deducible que operará como su único copago por la realización de la intervención priorizada, y será de cargo íntegro del Fondo todo lo que exceda a aquél, según el contenido de la intervención sanitaria que establezca el decreto.
-
-El monto del deducible será diferenciado por grupo, correspondiendo:
-
-a) Al grupo B, el equivalente de 1,5 ingresos mínimos mensuales.
-
-b) Al grupo C, al equivalente a 2 ingresos mínimos mensuales.
-
-c) Al grupo D, al equivalente de 3 ingresos mínimos mensuales.
-
-Una vez enterado el deducible y cumplidos los demás requisitos que señala esta ley, la persona beneficiaria podrá elegir a uno de los prestadores disponibles en convenio de acuerdo al inciso tercero del artículo 140 bis.
-
-Para efectos del cálculo del deducible se considerará el ingreso mínimo mensual vigente al momento en que se acceda al Sistema de Acceso Priorizado. En el evento de que la persona beneficiaria o su representante no acceda a este Sistema u opte porque las prestaciones le sean otorgadas por una entidad que no cuente con un convenio para el Sistema de Acceso Priorizado, se aplicará lo establecido en el artículo 143.
-
-Las atenciones de salud que se otorguen conforme a este artículo se entenderán realizadas en la Modalidad de Libre Elección, sin perjuicio de lo cual estarán limitadas al presupuesto determinado en conformidad a los incisos sexto y séptimo del artículo 140 ter. Asimismo, quedarán excluidas para el otorgamiento de los préstamos contemplados en el artículo 162.
-
-#### Artículo 140
-
-septies.- El Fondo Nacional de Salud velará por el correcto funcionamiento del Sistema de Acceso Priorizado. Corresponderá a la Superintendencia de Salud el conocimiento de los reclamos que las personas beneficiarias interpongan en contra del Fondo Nacional de Salud por el acceso al referido sistema y sus beneficios, en conformidad al artículo 117 y siguientes.
-
-#### Artículo 140
-
-octies.- El Fondo Nacional de Salud dictará una resolución exenta, previa visación de la Dirección de Presupuestos, que contendrá las directrices operativas para que las personas beneficiarias referidas en los artículos 140 quinquies y 140 sexies accedan al Sistema de Acceso Priorizado en los términos descritos.
-
-La resolución a que se refiere el inciso anterior deberá considerar, al menos, las condiciones y procedimientos para que las personas beneficiarias puedan acceder al Sistema de Acceso Priorizado; los términos y procedimientos para que el Fondo Nacional de Salud asigne y derive a los beneficiarios del artículo 140 quinquies a los prestadores que corresponda; los mecanismos de seguimiento del gasto, y las demás cuestiones necesarias para la operatividad del Sistema de Acceso Priorizado.
-
 #### Artículo 141
 
 Las prestaciones comprendidas en el Régimen General de Garantías en Salud se otorgarán por el Fondo Nacional de Salud, a través de los Establecimientos de Salud correspondientes a la Red Asistencial de cada Servicio de Salud y los Establecimientos de Salud de carácter experimental. Las prestaciones se concederán por esos organismos a través de sus establecimientos, con los recursos físicos y humanos de que dispongan, sin perjuicio de los convenios que puedan celebrar al efecto los Servicios de Salud o el Fondo Nacional de Salud con otros organismos públicos o privados.
 
-Con todo, en los casos de emergencia o urgencia debidamente certificadas por un médico cirujano, el Fondo Nacional de Salud pagará directamente al prestador público o privado el valor por las prestaciones que hayan otorgado a sus beneficiarios, de acuerdo a los mecanismos dispuestos en el presente Libro y en el Libro I de esta Ley. Asimismo, en estos casos, se prohíbe a los prestadores exigir a los beneficiarios de esta ley, dinero, cheques u otros instrumentos financieros para garantizar el pago o condicionar de cualquier otra forma dicha atención. El Ministerio de Salud determinará por reglamento las condiciones generales y las circunstancias bajo las cuales una atención o conjunto de atenciones será considerada de emergencia o urgencia.
+Con todo, en los casos de emergencia o urgencia debidamente certificadas por un médico cirujano, el Fondo Nacional de Salud pagará directamente al prestador público o privado el valor por las prestaciones que hayan otorgado a sus beneficiarios, de acuerdo a los mecanismos dispuestos en el presente Libro y en el Libro I de esta Ley.
 
-Con todo, los prestadores de salud no podrán consultar sistemas de información comercial de ningún tipo, ni aun con el consentimiento del paciente, para efectos de condicionar o restringir una atención de urgencia.
+Asimismo, en estos casos, se prohíbe a los prestadores exigir a los beneficiarios de esta ley, dinero, cheques u otros instrumentos financieros para garantizar el pago o condicionar de cualquier otra forma dicha atención. El Ministerio de Salud determinará por reglamento las condiciones generales y las circunstancias bajo las cuales una atención o conjunto de atenciones será considerada de emergencia o urgencia.
 
 #### Artículo 141 bis
 
@@ -2434,7 +2066,7 @@ En los casos de atenciones de emergencia, debidamente certificadas por un médic
 
 #### Artículo 142
 
-No obstante lo dispuesto en el artículo 141, las personas afiliadas y las personas beneficiarias que de ellos dependan, podrán optar por atenderse bajo las modalidades de Libre Elección, de Cobertura Complementaria, o ambas, que se establecen en los artículos siguientes. En estos casos, podrán elegir al prestador de salud que, conforme a la modalidad respectiva, otorgue la prestación requerida.
+No obstante lo dispuesto en el artículo 141, los afiliados y los beneficiarios que de ellos dependan, podrán optar por atenderse de acuerdo con la modalidad de "libre elección" que se establece en el artículo siguiente, caso en el cual gozarán de libertad para elegir al profesional o el establecimiento e institución asistencial de salud que, conforme a dicha modalidad, otorgue la prestación requerida.
 
 #### Artículo 143
 
@@ -2472,108 +2104,6 @@ Sin perjuicio de las sanciones establecidas en este artículo, el Fondo Nacional
 
 La modalidad de "libre elección", a que se refieren los artículos 142 y 143, se aplicará a la atención odontológica, en la forma que determine el reglamento y en la medida que exista disponibilidad presupuestaria.
 
-#### Artículo 144 bis
-
-Las personas afiliadas que se encuentren en los grupos B, C y D podrán inscribirse en la Modalidad de Cobertura Complementaria que se establece en los artículos 144 ter y siguientes, en tanto hayan efectuado cotizaciones de salud durante los últimos seis meses.
-
-Sin perjuicio de lo señalado en el inciso anterior, quienes hayan pagado por primera vez cotizaciones de salud y lo hagan en el Fondo Nacional de Salud, podrán optar por inscribirse en esta modalidad sin cumplir el requisito mínimo de cotizaciones.
-
-Excepcionalmente, los trabajadores y trabajadoras independientes que paguen sus cotizaciones en la forma establecida en el artículo 92 F del decreto ley N° 3.500, de 1980, del Ministerio del Trabajo y Previsión Social, que establece un Nuevo Sistema de Pensiones, requerirán que el monto pagado por cotizaciones de salud sea al menos el equivalente a doce cotizaciones legales de salud por el ingreso mínimo mensual. Si los fondos retenidos por la Tesorería General de la República para estos efectos no fueren suficientes, podrán cotizar en la forma establecida en el inciso cuarto del artículo 90 de ese cuerpo normativo.
-
-#### Artículo 144 ter
-
-La Modalidad de Cobertura Complementaria es aquella en virtud de la cual las personas afiliadas al Fondo Nacional de Salud, que cumplan los requisitos establecidos en el artículo anterior, se inscriben voluntariamente en esta modalidad para efectos de obtener acceso y protección financiera para las prestaciones de salud aranceladas en una red de prestadores determinada, obligándose al pago de una prima complementaria. La modalidad también contiene un seguro catastrófico en los términos del artículo 144 quáter.
-
-Esta modalidad permite a las personas inscritas recibir prestaciones ambulatorias y hospitalarias en una red de prestadores y bajo un arancel asociado. Las personas inscritas deberán pagar una prima adicional a la cotización legal para salud, por la cual recibirán una cobertura financiera complementaria a la otorgada por el Fondo Nacional de Salud, para el financiamiento de dichas prestaciones.
-
-Las prestaciones cubiertas en la Modalidad de Cobertura Complementaria serán financiadas por el Fondo Nacional de Salud de conformidad con el arancel que se fije al efecto, y en la parte que le corresponda; por la cobertura financiera complementaria que otorgue la compañía de seguros en los términos que establece la póliza, y por el copago al que concurra la persona beneficiaria. La cobertura financiera complementaria otorgada por las compañías de seguro tendrá un tope anual en los términos que se establezcan en la póliza.
-
-Una resolución del Ministerio de Salud, a propuesta del Fondo Nacional de Salud, establecerá el arancel señalado en el presente artículo. Dicha resolución deberá ser suscrita, además, por el Ministerio de Hacienda. Este arancel deberá contemplar, a lo menos, las prestaciones contenidas en el arancel de la modalidad de libre elección. En el caso de la atención hospitalaria se contemplarán mecanismos de pago destinados a financiar la solución del problema de salud. El arancel de la modalidad de cobertura complementaria podrá considerar prestaciones con pertinencia sanitaria no contenidas en el arancel de la modalidad de libre elección. Para la incorporación de nuevas prestaciones en el arancel de la modalidad, se podrán considerar otros aranceles para personas no beneficiarias del Libro II de este decreto con fuerza de ley, a que se refiere el artículo 24 de la ley N° 18.681, que establece normas complementarias de administración financiera, de incidencia presupuestaria y personal.
-
-Aquellas prestaciones financiadas en conformidad a este artículo quedarán excluidas para el otorgamiento de préstamos contemplados en el artículo 162 de esta ley.
-
-Las prestaciones derivadas de atenciones de emergencia o urgencia debidamente certificadas por un médico cirujano se regirán por las reglas del inciso segundo del artículo 141 y del literal a) del inciso tercero del artículo 143, según corresponda.
-
-#### Artículo 144 quáter
-
-Las personas que se inscriban en la Modalidad de Cobertura Complementaria accederán, además, a un seguro catastrófico en virtud del cual tendrán derecho a una protección financiera especial que cubrirá todos los copagos derivados de un determinado problema de salud y de cargo de la persona beneficiaria que superen, dentro de un año de vigencia de la póliza respectiva, el deducible correspondiente.
-
-El seguro catastrófico operará con prestadores dentro de la misma red a la que accede la persona beneficiaria en virtud de la Modalidad de Cobertura Complementaria, y respecto de aquellas prestaciones financiadas en conformidad al arancel a que hace referencia el inciso cuarto del artículo 144 ter.
-
-La cobertura del seguro catastrófico será de cargo de la compañía de seguros que otorgue la cobertura financiera complementaria. Esta deberá ser activada por la compañía de seguros de forma automática, una vez que los copagos financiados por las personas inscritas superen el deducible.
-
-Este seguro catastrófico no será aplicable a aquellas prestaciones cubiertas en las leyes N° 19.966, que establece un régimen de garantías en salud, y N° 20.850, que crea un sistema de protección financiera para diagnósticos y tratamientos de alto costo y rinde homenaje póstumo a don Luis Ricarte Soto Gallegos.
-
-La resolución a que hace referencia el inciso cuarto del artículo anterior podrá excluir otras prestaciones de la cobertura del seguro catastrófico.
-
-#### Artículo 144
-
-quinquies.- La persona afiliada que se inscriba en la modalidad señalada en el artículo 144 ter deberá inscribir a las personas a que hacen referencia los literales b) y c) del artículo 136 de esta ley, y al conviviente civil, conforme al artículo 29 de la ley N° 20.830, que crea el Acuerdo de Unión Civil, si correspondiere.
-
-Realizada la inscripción, la persona afiliada deberá pagar una prima por sí y por cada persona inscrita, que constituirá ingreso para la compañía de seguros que otorgue la cobertura financiera complementaria y no constituirá, en caso alguno, ingreso fiscal ni formará parte del presupuesto público; la cual se podrá enterar a través de entidades que recauden cotizaciones de seguridad social.
-
-Los empleadores podrán celebrar convenios o contratos colectivos con sus trabajadores para efectos de aportar al pago de la prima complementaria para quienes se encuentren afiliados al Fondo Nacional de Salud, y a sus grupos familiares.
-
-La prima complementaria será la misma para cada una de las personas inscritas, sin distinción ni discriminación alguna. Sin perjuicio de lo anterior, podrán existir condiciones especiales de precio de prima para grupos familiares, las cuales quedarán determinadas en la póliza. Con todo, el precio de la prima para grupos familiares nunca podrá ser mayor a la suma de las primas de todos sus integrantes.
-
-El valor de la prima complementaria se fijará en unidades de fomento y se determinará en la forma establecida en las Bases de Licitación. El Director del Fondo Nacional de Salud deberá adecuar mediante una resolución el valor de la prima complementaria, de conformidad a las modificaciones al arancel a que hace referencia el inciso cuarto del artículo 144 ter y los cambios en la siniestralidad que experimente la población inscrita en la Modalidad de Cobertura Complementaria, cuando se cumplan los presupuestos establecidos en las Bases de Licitación y en conformidad a la fórmula que en ellas se establezca. Las adecuaciones serán aplicables a las personas inscritas en la modalidad al momento de la renovación de la inscripción en la forma establecida en el inciso siguiente, previa notificación por parte de la compañía de seguros, por medios electrónicos o carta certificada, la que deberá realizarse con treinta días de anticipación a dicha renovación.
-
-La inscripción de la persona afiliada en la modalidad será por un plazo de doce meses, renovable automáticamente por períodos iguales, y podrá renunciar a esta informando de ello al Fondo Nacional de Salud a través de sus canales de atención con al menos diez días de anticipación al término del plazo original o sus renovaciones. Excepcionalmente, la persona afiliada podrá, en cualquier momento, renunciar a la modalidad fundando su solicitud en cesantía, en variación permanente de su cotización legal y/o de la composición de su grupo familiar. La renuncia de la persona afiliada deberá incluir a todo su grupo familiar.
-
-Las personas beneficiarias que incumplan el pago de la prima complementaria no se encontrarán amparados por la cobertura en el mes respectivo. Asimismo, en el caso que durante dos meses continuos o tres meses discontinuos, dentro de un período de doce meses, dejen de dar cumplimiento al pago de la prima, dejarán de tener acceso a la Modalidad de Cobertura Complementaria, lo que deberá ser notificado por la compañía de seguros, por medios electrónicos o carta certificada, con al menos cinco días hábiles de anticipación a la fecha de cesación de la modalidad, e informarán de ello al Fondo Nacional de Salud. La exclusión a la persona de esta modalidad deberá incluir a todo su grupo familiar y no inhibe a la compañía de seguros de perseguir el cobro de los saldos insolutos hasta el cese de la cobertura. Con todo, en caso de que la persona afiliada sea trabajador o trabajadora dependiente o pensionada deberá ser reincorporado o reincorporada con efecto retroactivo si se acredita que las primas complementarias correspondientes a los meses impagos les fueron descontadas por su empleador o empleadora, o por la entidad encargada del pago de la pensión.
-
-En caso de que la persona haya dejado de tener acceso a la Modalidad de Cobertura Complementaria por renuncia o no pago de la prima complementaria, sólo podrá volver a inscribirse en aquella transcurridos seis meses desde el cese de la cobertura. Para inscribirse nuevamente deberá, además, haber solucionado las eventuales deudas que se hubiesen generado durante su adscripción a esta modalidad en períodos anteriores.
-
-Que la persona afiliada haya dejado de tener acceso a la Modalidad de Cobertura Complementaria no implicará la afectación de su afiliación ni acceso a coberturas a través del Fondo Nacional de Salud.
-
-#### Artículo 144
-
-sexies.- El Fondo Nacional de Salud adjudicará mediante licitación pública el otorgamiento de la cobertura financiera complementaria a la que accederán las personas que se inscriban en la Modalidad de Cobertura Complementaria.
-
-El proceso de licitación se regirá por las normas y condiciones establecidas en las respectivas Bases, las que deberán ser públicas, contener criterios y requisitos objetivos, y respetar los principios de igualdad y libre concurrencia entre los oferentes.
-
-Las Bases de Licitación para cada proceso serán establecidas por el Fondo Nacional de Salud, mediante resolución, que deberá ser suscrita además por la Dirección de Presupuestos.
-
-Estas Bases contendrán las condiciones necesarias para la adjudicación de la licitación y la continuidad en la cobertura financiera complementaria de las personas inscritas en esta modalidad, debiendo, a lo menos, establecer los siguientes elementos:
-
-a) Las etapas y plazos de la licitación, los plazos y modalidades de aclaración de las Bases, la entrega y la apertura de las ofertas, la evaluación de las ofertas, la adjudicación y la firma del contrato respectivo.
-
-b) Las condiciones y exigencias que deberán cumplir las ofertas.
-
-c) Los criterios objetivos que serán considerados para adjudicar la licitación, entre los que deberá incluirse un valor de la prima, un monto de tope de cobertura financiera complementaria anual y las condiciones especiales de precio de prima para grupos familiares.
-
-d) La forma de designación de las comisiones evaluadoras.
-
-e) El plazo de duración del contrato, el que no podrá ser superior a cuatro años.
-
-f) Las condiciones de otorgamiento de la cobertura financiera complementaria y del seguro catastrófico, incluyendo el deducible conforme al artículo 144 quáter, el que deberá establecerse en proporción a la prima complementaria.
-
-g) Las condiciones y exigencias que deberán cumplir las compañías de seguros tanto al momento de participar en los procesos licitatorios como durante la ejecución del contrato adjudicado. Entre las condiciones y exigencias que deberán establecerse, estarán aquellas referidas a la o las clasificaciones de riesgo mínimas con las que deberá contar cada oferente al momento de la licitación, el patrimonio mínimo y el patrimonio de riesgo que pueda requerirse especialmente para la oferta de esta cobertura, las reservas técnicas, los instrumentos, activos y límites de inversión que determine la Comisión para el Mercado Financiero de acuerdo con las normas del decreto con fuerza de ley Nº 251, de 1931, del Ministerio de Hacienda. Sin perjuicio de lo anterior, no podrán participar en la licitación aquellas compañías de seguros que se encuentren al momento de iniciado el proceso de licitación o se hayan encontrado dentro de los últimos doce meses anteriores, en alguna de las situaciones descritas en el Título IV del mismo texto legal.
-
-h) La determinación de las medidas a aplicar en los casos de incumplimiento del contrato y de las causales expresas en que dichas medidas deberán fundarse, así como el procedimiento para su aplicación.
-
-i) Las modificaciones y las causales de terminación de los contratos.
-
-j) Las características y condiciones generales de la póliza, incluyendo el porcentaje de cobertura financiera complementaria, el valor referencial de la prima y las fórmulas de adecuación de la misma, un monto mínimo referencial de tope de cobertura financiera complementaria anual y las condiciones especiales de precio de prima para grupos familiares.
-
-k) Cualquier otra condición que el Fondo Nacional de Salud estime pertinente o necesaria para el correcto desarrollo de la Modalidad de Cobertura Complementaria.
-
-#### Artículo 144
-
-septies.- En caso de que se declarara desierta la licitación, o bien todas las ofertas fueran declaradas inadmisibles en el proceso licitatorio, el Fondo Nacional de Salud deberá convocar a un nuevo proceso de licitación pública dentro de un plazo máximo de tres meses desde esa declaración. Para convocar este proceso, el Fondo deberá emitir una nueva resolución que establezca las Bases de este nuevo proceso de conformidad al artículo 144 sexies.
-
-Si el nuevo proceso licitatorio no es adjudicado a uno o más oferentes, el Fondo Nacional de Salud podrá realizar un proceso de contratación directa de conformidad a los términos de referencia que éste fije mediante una resolución fundada que deberá ser suscrita por la Dirección de Presupuestos y publicada en su sitio web institucional.
-
-En el caso que existan contratos ya adjudicados, y corresponda hacer un nuevo proceso de licitación, si éste se declarase desierto, dicha declaración habilitará al Fondo Nacional de Salud para prorrogar los contratos adjudicados vigentes por una sola vez. De no ser posible la prórroga, el Fondo Nacional de Salud podrá realizar un proceso de contratación directa de conformidad al presente artículo.
-
-En cualquier caso, las personas afiliadas y las personas beneficiarias seguirán afectas al Régimen a que se refiere el Libro II de esta ley.
-
-#### Artículo 144
-
-octies.- Vencido el plazo del contrato adjudicado a la compañía de seguros por la licitación, o en caso de término por cualquier otro motivo, y si la nueva licitación es adjudicada a una compañía de seguros distinta, los beneficiarios con contratos vigentes continuarán afiliados a éstas, hasta el vencimiento de sus respectivas pólizas, tras lo cual podrán optar entre continuar afiliados a esta modalidad de cobertura complementaria, en los términos ofrecidos por la nueva compañía de seguros, o renunciar a ella, con al menos diez días de anterioridad al vencimiento de sus pólizas.
-
-En todo lo que no esté regulado expresamente y sea compatible con lo expuesto en los artículos 144 bis, 144 ter, 144 quáter, 144 quinquies, 144 sexies y 144 septies, se aplicarán las normas de la Modalidad de Libre Elección a la Modalidad de Cobertura Complementaria.
-
 #### Artículo 145
 
 El examen de salud referido en el artículo 138, letra a), y las acciones y prestaciones de salud indicadas en el artículo 139, incisos primero y segundo, y en el artículo 140, serán gratuitos.
@@ -2590,7 +2120,7 @@ Las personas carentes de recursos o indigentes, tendrán derecho a recibir gratu
 
 #### Artículo 148
 
-Los trabajadores afiliados independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, tendrán derecho a las prestaciones médicas que proporciona el Régimen y a la atención en la modalidad de "libre elección", a partir del día 1 de julio del año en que pagaron las cotizaciones mediante la declaración anual de impuesto a la renta respectiva y hasta el día 30 de junio del año siguiente a dicho pago. Los trabajadores independientes que no hayan pagado sus cotizaciones mediante la citada declaración requerirán un mínimo de seis meses de cotizaciones en los últimos doce meses anteriores a la fecha en que impetren el beneficio, continuas o discontinuas.
+Los trabajadores afiliados independientes, para tener derecho a las prestaciones médicas que proporciona el Régimen y a la atención en la modalidad de "libre elección", requerirán de un mínimo de seis meses de cotizaciones en los últimos doce meses anteriores a la fecha en que impetren el beneficio, continuas o discontinuas.
 
 ### Párrafo 2°
 
@@ -2604,13 +2134,11 @@ Tratándose de los trabajadores independientes a que se refiere el artículo 135
 
 1.- Contar con una licencia médica autorizada;
 
-2.- Tener doce meses de afiliación a salud anteriores al mes en el que se inicia la licencia;
+2.- Tener doce meses de afiliación previsional anteriores al mes en el que se inicia la licencia;
 
-3.- Haber enterado al menos seis meses de cotizaciones continuas o discontinuas dentro del período de doce meses de afiliación a salud anterior al mes en que se inició la licencia, y
+3.- Haber enterado al menos seis meses de cotizaciones continuas o discontinuas dentro del período de doce meses de afiliación previsional anterior al mes en que se inició la licencia, y
 
 4.- Estar al día en el pago de las cotizaciones. Se considerará al día al trabajador que hubiere pagado la cotización correspondiente al mes anterior a aquél en que se produzca la incapacidad.
-
-En el caso de los trabajadores independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, se entenderán cumplidos los requisitos señalados en los numerales 2, 3 y 4 del inciso precedente, a partir del día 1 de julio del año en que se pagaron las cotizaciones y hasta el día 30 de junio del año siguiente a dicho pago.
 
 #### Artículo 150
 
@@ -2624,23 +2152,19 @@ El trabajador requerirá el pago del subsidio por incapacidad laboral en el resp
 
 Si la licencia se otorga en virtud de una enfermedad que ocasiona una pérdida parcial de la capacidad laboral y por ende dispone un reposo parcial, el subsidio y la remuneración se calcularán en proporción al tiempo de reposo, debiendo el empleador pagar lo que corresponda al período de la jornada efectivamente trabajada.
 
-Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. Para el cálculo de los subsidios de los trabajadores independientes del artículo 89 del decreto ley N° 3.500, de 1980, generados por licencias otorgadas durante el período a que se refiere el inciso final del artículo 149, se deberá considerar además la renta imponible anual establecida en el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, dividida por doce. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones previsionales, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia. Si dentro de dicho período sólo se registraren uno o dos meses con rentas y/o subsidios, para determinar el límite del subsidio diario se dividirá por 30 ó 60 respectivamente.
+Tratándose de trabajadores independientes, el subsidio total o parcial se calculará en base al promedio de la renta mensual imponible, del subsidio, o de ambos, por los que hubieren cotizado en los últimos seis meses anteriores al mes en que se inicia la incapacidad laboral. En todo caso, el monto diario de los subsidios del inciso primero del artículo 195 y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N°18.867, no podrá exceder del equivalente a las rentas imponibles deducidas las cotizaciones previsionales, los subsidios o ambos, por los cuales se hubiera cotizado en los tres meses anteriores al octavo mes calendario anterior al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los ocho meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%. Los aludidos tres meses deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al octavo mes calendario que precede al mes de inicio de la licencia.
+
+Si dentro de dicho período sólo se registraren uno o dos meses con rentas y/o subsidios, para determinar el límite del subsidio diario se dividirá por 30 ó 60 respectivamente.
 
 Con todo, tratándose de trabajadores independientes afiliados al Nuevo Sistema de Pensiones del Decreto Ley N° 3.500, de 1980, en el cálculo de los subsidios no podrán considerarse rentas mensuales que tengan una diferencia entre sí, superior al 25%. En el evento de existir esa diferencia o diferencias superiores se considerará en el mes o meses de que se trate, la renta efectiva limitada al 125% de la renta mensual menor del período respectivo.
 
 Para los efectos del cálculo de los subsidios a que se refieren las disposiciones del Código del Trabajo citadas en el inciso segundo, se considerarán como un solo subsidio los originados en diferentes licencias médicas otorgadas en forma continuada sin interrupción entre ellas.
 
-#### Artículo 152 bis
-
-Los trabajadores independientes tendrán derecho al permiso postnatal parental del artículo 197 bis del Código del Trabajo, el cual podrán ejercer por doce semanas, percibiendo la totalidad del subsidio, o por dieciocho semanas, percibiendo la mitad de aquel, además de las rentas o remuneraciones que pudieren percibir, dando aviso a la entidad pagadora del subsidio antes del inicio del período.
-
-La base de cálculo del subsidio establecido en este artículo será la misma del descanso de maternidad a que se refiere el inciso primero del artículo 195 del Código del Trabajo. Para efectos de determinar la compatibilidad de subsidios a que tiene derecho el trabajador se aplicará lo dispuesto en los incisos segundo y siguientes del artículo 25 del decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978.
-
 #### Artículo 153
 
-El derecho a licencia por enfermedad, descanso de maternidad o enfermedad grave del hijo menor de un año y el derecho a permiso postnatal parental del personal afecto a la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el Decreto con Fuerza de Ley N° 29, de 2004, del Ministerio de Hacienda, se regirá por lo establecido en dicho cuerpo legal.
+El derecho a licencia por enfermedad, descanso de maternidad o enfermedad grave del hijo menor de un año del personal afecto a la ley N° 18.834, cuyo texto refundido, coordinado y sistematizado se fijó por el Decreto con Fuerza de Ley N° 29, de 2004, del Ministerio de Hacienda, se regirá por lo establecido en dicho cuerpo legal.
 
-Estos trabajadores tendrán derecho, durante el goce de la licencia y el permiso postnatal parental, a la mantención del total de sus remuneraciones y su pago corresponderá al Servicio o Institución empleadora, sin perjuicio de lo dispuesto en el artículo 12 de la Ley N° 18.196.
+Estos trabajadores tendrán derecho, durante el goce de la licencia, a la mantención del total de sus remuneraciones y su pago corresponderá al Servicio o Institución empleadora, sin perjuicio de lo dispuesto en el artículo 12 de la Ley N° 18.196.
 
 La parte de sus remuneraciones sobre la que no han efectuado cotización para los efectos de esta ley, será de cargo exclusivo del Servicio o Institución empleadora.
 
@@ -2693,8 +2217,6 @@ Las deudas generadas por incumplimiento en el pago de las tarifas que señala el
 #### Artículo 159
 
 Los afiliados, con las excepciones que establece esta ley, deberán contribuir al financiamiento del valor de las prestaciones y atenciones que ellos y los respectivos beneficiarios soliciten y que reciban del Régimen, mediante pago directo, en la proporción y forma que más adelante se indican. El valor de las prestaciones será el que fije el arancel aprobado por los Ministerios de Salud y de Hacienda a proposición del Fondo Nacional de Salud.
-
-El arancel del que trata el inciso anterior cubrirá la entrega de las atenciones o prestaciones que ahí se señalan, incluyendo las prestaciones realizadas a distancia, mediante tecnologías de la información y comunicaciones, en la forma que ahí se establezca.
 
 #### Artículo 160
 
@@ -2772,9 +2294,7 @@ En el caso que ambos cónyuges sean afiliados, sus hijos y demás cargas de fami
 
 Corresponderá al Fondo Nacional de Salud determinar el ingreso mensual del beneficiario, para lo cual podrá exigir una declaración jurada de los beneficiarios, como asimismo, requerir de los empleadores, entidades de previsión y cualquier organismo de la Administración del Estado, las informaciones que estime pertinentes con ese objeto.
 
-En el caso de los trabajadores independientes a que se refiere el artículo 89 del decreto ley N° 3.500, de 1980, la renta mensual corresponderá al 80% del conjunto de las rentas brutas anuales gravadas por el artículo 42, N° 2º, de la Ley sobre Impuesto a la Renta divididas por doce. En el caso de los trabajadores independientes a que se refiere el inciso tercero del artículo 90 del referido decreto ley, la renta mensual corresponderá a aquella declarada ante la respectiva institución de salud previsional o del Fondo Nacional de Salud, según sea su afiliación.
-
-Si los ingresos del beneficiario experimentaren una variación que permitiera clasificarlo en un grupo diferente, deberá comunicar tal circunstancia al Fondo Nacional de Salud y éste lo reclasificará, sin perjuicio de la facultad de dicho Fondo para reclasificarlo de oficio, mediante resolución fundada, que será notificada por medios electrónicos o mediante carta certificada. El Fondo deberá reclasificar siempre a las personas afiliadas y beneficiarias que de ellas dependan pertenecientes a los grupos B, C y D, en el grupo A en el evento que dichas personas afiliadas dejen de enterar sus cotizaciones durante el período de doce meses consecutivos. La persona afiliada que sea trabajadora dependiente o pensionada deberá ser reincorporada con efecto retroactivo si acredita que la cotización correspondiente a los meses impagos le fue descontada por su empleador o empleadora, o la entidad encargada del pago de la pensión.
+Si los ingresos del beneficiario experimentaren una variación que permitiera clasificarlo en un grupo diferente, deberá comunicar tal circunstancia al Fondo Nacional de Salud y éste lo reclasificará.
 
 ## Título V
 
@@ -2864,7 +2384,7 @@ De las Instituciones
 
 #### Artículo 171
 
-Las Instituciones de Salud Previsional financiarán las prestaciones y beneficios de salud, con cargo al aporte de la cotización legal para salud o una superior convenida, a las personas que indica el artículo 135 de esta Ley.
+Las Instituciones de Salud Previsional financiarán las prestaciones y beneficios de salud, con cargo al aporte de la cotización legal para salud o una superior convenida, a las personas que indica el artículo 135 de esta Ley. Para efectos de la aplicación de lo dispuesto en el número 7 del artículo 13 de la ley sobre Impuesto a las Ventas y Servicios, se entenderá que dichas Instituciones sustituyen en las prestaciones y beneficios de salud a los Servicios de Salud y Fondo Nacional de Salud.
 
 Las Instituciones deberán constituirse como personas jurídicas y registrarse en la Superintendencia.
 
@@ -2893,8 +2413,6 @@ Lo dispuesto en el inciso precedente se aplicará también respecto de atencione
 En las situaciones indicadas en los incisos cuarto y quinto de este artículo, las Instituciones podrán repetir en contra del afiliado el monto que exceda de lo que les corresponda pagar conforme al plan de salud convenido.
 
 Asimismo, en las situaciones indicadas en los incisos cuarto y quinto de este artículo, se prohíbe a los prestadores exigir a los beneficiarios de esta ley, dinero, cheques u otros instrumentos financieros para garantizar el pago o condicionar de cualquier otra forma dicha atención.
-
-Con todo, los prestadores de salud no podrán consultar sistemas de información comercial de ningún tipo, ni aun con el consentimiento del paciente, para efectos de condicionar o restringir una atención de urgencia.
 
 Para los efectos de la aplicación de este artículo se entenderá que las Instituciones han otorgado un préstamo a sus cotizantes por la parte del valor de las prestaciones que sea de cargo de estos, si una vez transcurrido el plazo de treinta días hábiles desde que la ISAPRE ha pagado al prestador el valor de las atenciones otorgadas, el cotizante no ha enterado dicho monto directamente a la Institución de Salud Previsional.
 
@@ -3070,7 +2588,7 @@ Sin perjuicio de lo anterior, los fondos afectos a la garantía y los documentos
 
 La garantía de que trata este artículo será inembargable y en ningún caso podrá ser inferior al equivalente, en moneda nacional, a dos mil unidades de fomento.
 
-En caso de cancelación del registro de una Institución de Salud Previsional, la garantía que deben mantener las Instituciones será liquidada y pagada exclusivamente por la Superintendencia, aún en caso que la Institución se encuentre sometida a un procedimiento concursal de liquidación, quedando, en consecuencia, dicha garantía fuera de la masa hasta que pierda su inembargabilidad.
+En caso de cancelación del registro de una Institución de Salud Previsional, la garantía que deben mantener las Instituciones será liquidada y pagada exclusivamente por la Superintendencia, aún en caso de quiebra de la Institución, quedando, en consecuencia, dicha garantía fuera de la masa de la quiebra hasta que pierda su inembargabilidad.
 
 #### Artículo 182
 
@@ -3136,11 +2654,15 @@ Las cotizaciones para salud que se pacten de conformidad a esta Ley, gozarán de
 
 #### Artículo 188
 
-Toda vez que se produjeren excedentes de la cotización legal en relación con el precio de las Garantías Explícitas en Salud y el precio del plan convenido, en los términos a que se refiere el inciso siguiente, esos excedentes serán de propiedad del afiliado, inembargables e incrementarán una cuenta corriente individual que la Institución deberá abrir a favor del afiliado, aumentando la masa hereditaria en el evento de fallecimiento. El afiliado sólo podrá renunciar a ellos para destinarlos a financiar los beneficios adicionales tanto de los contratos que se celebren conforme al artículo 200 de esta ley, como de los contratos individuales compensados y de aquellos otros contratos que señale la Superintendencia de Salud mediante norma de carácter general.
+Toda vez que se produjeren excedentes de la cotización legal en relación con el precio de las Garantías Explícitas en Salud y el precio del plan convenido, en los
+
+términos a que se refiere el inciso siguiente, esos excedentes serán de propiedad del afiliado, inembargables e incrementarán una cuenta corriente individual que la Institución deberá abrir a favor del afiliado, aumentando la masa hereditaria en el evento de fallecimiento. El afiliado sólo podrá renunciar a ellos para destinarlos a financiar los beneficios adicionales tanto de los contratos que se celebren conforme al artículo 200 de esta ley, como de los contratos individuales compensados y de aquellos otros contratos que señale la Superintendencia de Salud mediante norma de carácter general.
 
 Cualquier estipulación en contrario a lo señalado, establecida en el contrato de salud previsional, se tendrá por no escrita.
 
 Para los efectos de determinar los excedentes a que se refiere este artículo, se considerará como cotización legal la percibida por la Institución y aquella que haya sido declarada, aun cuando no se haya enterado efectivamente.
+
+INCISO SUPRIMIDO
 
 Sin perjuicio de lo dispuesto en el artículo 197, el saldo acumulado en la cuenta corriente podrá ser requerido por el afiliado o beneficiario sólo para los siguientes fines:
 
@@ -3160,25 +2682,23 @@ préstamos de salud que la Institución de Salud Previsional le hubiese otorgado
 
 En cualquier momento, el afiliado podrá resolver el destino de los excedentes de su cuenta corriente, de acuerdo al inciso precedente.
 
-Con todo, anualmente la Institución de Salud Previsional deberá devolver al afiliado el saldo acumulado en su cuenta individual de excedentes que no haya sido requerido para alguno de los fines indicados en el inciso cuarto, monto que se pagará en la forma que señale la Superintendencia de Salud mediante norma de carácter general.
+Al momento de celebrarse el contrato de salud, el monto de los excedentes a destinar a la cuenta corriente individual no podrá ser superior al 10% de la cotización legal para salud, calculada sobre el monto promedio de los últimos tres meses de la remuneración, renta o pensión según sea el caso, sin perjuicio del tope legal establecido. En caso de que en las sucesivas adecuaciones anuales, el monto de los excedentes a destinar a la cuenta corriente individual superen el referido 10%, la ISAPRE estará obligada a ofrecer al afiliado un plan de salud alternativo cuyo precio más se aproxime al plan actualmente convenido; en ningún caso, el afiliado estará obligado a suscribir el plan de salud lternativo. Con todo, la totalidad de los excedentes siempre incrementará la cuenta corriente individual del usuario.
 
-Para ello, cada Institución de Salud Previsional deberá habilitar un sistema en línea que permita a los afiliados verificar sus excedentes y determinar su uso y destino libremente, entre todas las alternativas descritas en este artículo. Cada afiliado podrá siempre optar por el prestador con el cual hará uso de sus excedentes, sin que la Institución de Salud Previsional pueda limitar o restringir esa decisión. Los prestadores tendrán derecho a recibir en línea el pago de estas prestaciones, con cargo al saldo disponible que cada afiliado posea en su cuenta individual de excedentes.
+Los fondos acumulados en la cuenta corriente se reajustarán de acuerdo a la variación que experimente el Indice de Precios al Consumidor y devengarán el interés promedio pagado por los bancos en operaciones reajustables de no
 
-Al momento de celebrar un contrato de salud, las Instituciones de Salud Previsional no podrán ofrecer planes cuyos precios sean inferiores al valor de la cotización legal para salud del afiliado, calculada sobre el monto promedio de los últimos seis meses de la remuneración, renta o pensión, según sea el caso.
+más de un año, según lo informado por el Banco Central de Chile en el respectivo período. El reajuste y el interés deberán ser abonados cada seis meses en la cuenta corriente por la respectiva Institución de Salud Previsional. Por su parte, la Institución podrá cobrar semestralmente a cada cotizante por la mantención de la cuenta un porcentaje cuyo monto máximo será fijado por la Superintendencia de Instituciones de Salud Previsional, siempre y cuando el saldo de ella sea positivo.
 
-En caso de que, en las sucesivas adecuaciones anuales, el monto de los excedentes a destinar a la cuenta corriente individual supere el 5% de la cotización legal para salud, la Institución de Salud Previsional estará obligada a ofrecer al afiliado la incorporación de nuevos beneficios o planes de salud alternativos, cuyos precios más se aproximen al valor de su nueva cotización legal para salud y hayan sido comercializados dentro de los seis meses anteriores al ofrecimiento. Las condiciones generales de cada plan de salud ofrecido deberán ser las mismas que se estén ofreciendo a esa fecha a los nuevos contratantes del respectivo plan y no podrán importar una discriminación entre dichos afiliados. En ningún caso, el afiliado estará obligado a suscribir uno de los planes de salud alternativos ofrecidos por la Institución de Salud Previsional. Mientras no suscriba un nuevo plan cuyo precio mejor se aproxime al valor de su cotización legal, toda diferencia superior al 5% de la cotización legal no generará excedentes.
+Con todo, cuando por cualquier causa se ponga fin a un contrato, la Institución deberá entregarle al afiliado, en un plazo máximo de 30
 
-Con todo, las revisiones de las adecuaciones anuales a que hace referencia el inciso anterior no podrán tener en consideración el estado de salud del afiliado y sus beneficiarios.
-
-Los fondos acumulados en la cuenta corriente se reajustarán de acuerdo a la variación que experimente el Indice de Precios al Consumidor y devengarán el interés promedio pagado por los bancos en operaciones reajustables de no más de un año, según lo informado por el Banco Central de Chile en el respectivo período. El reajuste y el interés deberán ser abonados cada seis meses en la cuenta corriente por la respectiva Institución de Salud Previsional. Por su parte, la Institución podrá cobrar semestralmente a cada cotizante por la mantención de la cuenta un porcentaje cuyo monto máximo será fijado por la Superintendencia de Instituciones de Salud Previsional, siempre y cuando el saldo de ella sea positivo.
-
-Con todo, cuando por cualquier causa se ponga fin a un contrato, la Institución deberá entregarle al afiliado, en un plazo máximo de 30 días contado desde el término, una liquidación en que se detalle el monto de lo acumulado en la cuenta abierta por ella a su favor, debidamente actualizado. Igual liquidación deberá ser puesta en conocimiento del afiliado con a lo menos tres meses de anticipación al cumplimiento de la anualidad.
+días contado desde el término, una liquidación en que se detalle el monto de lo acumulado en la cuenta abierta por ella a su favor, debidamente actualizado. Igual liquidación deberá ser puesta en conocimiento del afiliado con a lo menos tres meses de anticipación al cumplimiento de la anualidad.
 
 Los excedentes producidos durante la respectiva anualidad que no sean utilizados por cualquier causa, se acumularán para el período siguiente.
 
-En el evento en que se ponga término al contrato de salud y el interesado se incorpore a otra ISAPRE, deberán traspasarse dichos fondos a la respectiva Institución de Salud Previsional. Si el interesado decide, a partir de ese momento, efectuar sus cotizaciones en el Fondo Nacional de Salud, los haberes existentes a su favor deberán ser traspasados a dicho fondo.
+En el evento en que se ponga
 
-> **Nota.** NOTA 1 El Nº 6 de la letra A) del artículo único de la LEY 20317, publicada el 24.01.2009, ordena sustituir el guarismo "60" por "tres meses", omitiendo suprimir la palabra "días" que se encontraba después del "60".
+término al contrato de salud y el interesado se incorpore a otra ISAPRE, deberán traspasarse dichos fondos a la respectiva Institución de Salud Previsional. Si el interesado decide, a partir de ese momento, efectuar sus cotizaciones en el Fondo Nacional de Salud, los haberes existentes a su favor deberán ser traspasados a dicho fondo.
+
+> **Nota.** El artículo transitorio de la LEY 20317, publicada el 24.01.2009, dispone que las modificaciones que introduce a la presente norma, entrarán en vigencia el primer día del mes subsiguiente a su publicación.NOTA 1: El Nº 6 de la letra A) del artículo único de la LEY 20317, publicada el 24.01.2009, ordena sustituir el guarismo "60" por "tres meses", olvidando suprimir la palabra "días" que se encontraba después del "60".
 
 ### Párrafo 4°
 
@@ -3188,13 +2708,11 @@ De las Prestaciones
 
 Para el otorgamiento de las prestaciones y beneficios de salud que norma esta ley, las personas indicadas en el artículo 184 deberán suscribir un contrato de plazo indefinido, con la Institución de Salud Previsional que elijan.
 
-En este contrato, las partes convendrán libremente el plan de salud, el cual podrá considerar bonificación de prestación a prestación o por paquetes de prestaciones, debiendo detallar las prestaciones y beneficios incluidos, así como la forma, modalidad y condiciones de su otorgamiento. Con todo, los referidos contratos deberán comprender, como mínimo, lo siguiente:
+En este contrato, las partes convendrán libremente las prestaciones y beneficios incluidos, así como la forma, modalidad y condiciones de su otorgamiento. Con todo, los referidos contratos deberán comprender, como mínimo, lo siguiente:
 
 a) Las Garantías Explícitas relativas a acceso, calidad, protección financiera y oportunidad contempladas en el Régimen General de Garantías en Salud, en conformidad a lo dispuesto en la ley que establece dicho Régimen.
 
 Asimismo, se deberá pactar un plan complementario a las Garantías Explícitas señaladas precedentemente, el que incluirá los beneficios del artículo 149 de esta Ley, y los referidos en el artículo 194 de esta ley, en tanto no sean parte de dichas Garantías Explícitas, incluyendo copagos máximos, porcentajes de cobertura y valores sobre los cuales se aplicarán, según corresponda. Este plan deberá contemplar, a lo menos, las prestaciones y la cobertura financiera que se fije como mínimo para la modalidad de libre elección que debe otorgar el Fondo Nacional de Salud, de acuerdo a lo dispuesto en el Régimen General de Garantías en Salud.
-
-Asimismo, las instituciones de salud previsional deberán informar a sus afiliados respecto de la existencia y cobertura del Sistema de Protección Financiera para Diagnósticos y Tratamientos de Alto Costo, y, cuando proceda, transferir al Fondo para Diagnósticos y Tratamientos de Alto Costo los recursos que por concepto de cobertura adicional de enfermedades catastróficas corresponda otorgar. Esta última materia deberá ser reglada mediante instrucciones de la Intendencia de Fondos y Seguros Previsionales de la Superintendencia de Salud.
 
 b) El Plan de Salud Complementario, que podrá contener una o más de las siguientes modalidades para el otorgamiento de las prestaciones o beneficios:
 
@@ -3226,7 +2744,9 @@ Las Instituciones de Salud Previsional no podrán excepcionarse de la responsabi
 
 Asimismo, se deberá explicitar la cobertura que se otorgará a las atenciones de urgencia, sea que éstas se realicen por los prestadores mencionados en el párrafo anterior o por otros distintos.
 
-Los contratos de salud deberán establecer el derecho del afiliado que, con ocasión de una emergencia, haya ingresado a un prestador distinto de los mencionados en el párrafo primero de este numeral, a ser trasladado a alguno de los prestadores individualizados en el plan, y el derecho de la Institución de Salud Previsional a trasladar al paciente a uno de estos prestadores, sujetándose a las siguientes reglas:
+Los contratos de salud deberán establecer el derecho del afiliado que, con ocasión de una emergencia, haya ingresado a un prestador distinto de los mencionados en el
+
+párrafo primero de este numeral, a ser trasladado a alguno de los prestadores individualizados en el plan, y el derecho de la Institución de Salud Previsional a trasladar al paciente a uno de estos prestadores, sujetándose a las siguientes reglas:
 
 a.- Corresponderá al médico tratante en el establecimiento determinar el momento a partir del cual el paciente se encuentra en condiciones de ser trasladado.
 
@@ -3246,7 +2766,7 @@ Sin perjuicio de lo dispuesto en el artículo 202 de esta ley, deberá establece
 
 d) Mecanismos para el otorgamiento de todas las prestaciones y beneficios que norma esta ley y de aquellos que se estipulen en el contrato.
 
-e) Precio del plan y la unidad en que se pactará, señalándose que el precio expresado en dicha unidad solo podrá variar una vez cumplidos los respectivos períodos anuales. Asimismo, deberá indicarse el arancel o catálogo valorizado de prestaciones con sus respectivos topes que se considerará para determinar el financiamiento de los beneficios, la unidad en que estará expresado y la forma y oportunidad en que se reajustará. Dicho arancel de referencia contemplará, a lo menos, las prestaciones contenidas en el arancel del Fondo Nacional de Salud a que se refiere el artículo 159 de esta Ley, o el que lo reemplace en la modalidad de libre elección.
+e) Precio del plan y la unidad en que se pactará, señalándose que el precio expresado en dicha unidad letra solo podrá variar una vez cumplidos los respectivos períodos anuales. Asimismo, deberá indicarse el arancel o catálogo valorizado de prestaciones con sus respectivos topes que se considerará para determinar el financiamiento de los beneficios, la unidad en que estará expresado y la forma y oportunidad en que se reajustará. Dicho arancel de referencia contemplará, a lo menos, las prestaciones contenidas en el arancel del Fondo Nacional de Salud a que se refiere el artículo 159 de esta Ley, o el que lo reemplace en la modalidad de libre elección.
 
 El precio de las Garantías Explícitas se regulará de acuerdo a lo dispuesto en el Párrafo 5° de este Título.
 
@@ -3254,9 +2774,9 @@ f) Montos máximos de los beneficios para cada beneficiario, si los hubiere, o b
 
 g) Restricciones a la cobertura. Ellas solo podrán estar referidas a enfermedades preexistentes declaradas, por un plazo máximo de dieciocho meses, contado desde la suscripción del contrato, y tendrán la limitación establecida en el inciso primero del artículo 190.
 
-En el caso del embarazo se deberá consignar claramente que la cobertura será proporcional al período que reste para que ocurra el nacimiento.
+En el caso del embarazo se eberá consignar claramente que la cobertura será proporcional al período que reste para que ocurra el nacimiento.
 
-No obstante lo anterior, en el caso de enfermedades preexistentes declaradas, el futuro afiliado podrá, en casos calificados, solicitar por escrito, con copia a la Intendencia de Fondos y Seguros Previsionales en Salud, que la Institución le otorgue para dichas patologías, por dieciocho meses más, la cobertura que el Fondo Nacional de Salud ofrece en la Modalidad de Libre Elección a que se refiere el Libro II de esta Ley. Lo anterior, con la finalidad de ser aceptado en la respectiva Institución de Salud Previsional. La Superintendencia regulará, mediante instrucciones de general aplicación, la operación de lo dispuesto en este párrafo.
+No obstante lo anterior, en el caso de enfermedades preexistentes Art. declaradas, el futuro afiliado podrá, en casos calificados, solicitar por escrito, con copia a la Intendencia de Fondos y Seguros Previsionales en Salud, que la Institución le otorgue para dichas patologías, por dieciocho meses más, la cobertura que el Fondo Nacional de Salud ofrece en la Modalidad de Libre Elección a que se refiere el Libro II de esta Ley. Lo anterior, con la finalidad de ser aceptado en la respectiva Institución de Salud Previsional. La Superintendencia regulará, mediante instrucciones de general aplicación, la operación de lo dispuesto en este párrafo.
 
 h) Estipulación precisa de las exclusiones, si las hubiere, referidas a las prestaciones señaladas en el inciso segundo del artículo 190.
 
@@ -3270,8 +2790,6 @@ Cada vez que un afiliado o beneficiario solicite a una Institución de Salud Pre
 
 Si la Institución de Salud Previsional considera que la información proporcionada por el prestador es incompleta, imprecisa o teme fundadamente que no se ajusta a la verdad, podrá designar un médico cirujano independiente de las partes para que revise personalmente la ficha clínica. Si de la revisión resulta que no corresponde otorgar la cobertura financiera solicitada, la Institución de Salud Previsional informará de tal circunstancia al afiliado, el que podrá recurrir ante la Superintendencia, a fin de que ésta resuelva la controversia. El médico cirujano que se designe deberá estar inscrito en un registro que la Superintendencia llevará para estos efectos.
 
-Con el solo objetivo de que las Isapres puedan revisar la correcta emisión de las cuentas cobradas por los prestadores de salud con los que tienen convenios de pago a través de paquetes de prestaciones, los prestadores deberán poner a disposición de la Institución de Salud Previsional el detalle de las prestaciones otorgadas a las personas beneficiarias que han requerido la atención de salud mediante esta modalidad.
-
 El o los prestadores de salud deberán dar cumplimiento al requerimiento señalado en el inciso anteprecedente, y deberán permitir la revisión de la ficha clínica, dentro del plazo de cinco días hábiles. La Institución de Salud Previsional deberá mantener la información recibida en reserva, de acuerdo a lo dispuesto en la Ley Nº 19.628.
 
 Corresponderá a la Superintendencia vigilar el adecuado ejercicio de esta facultad y resolver los conflictos que puedan producirse entre los prestadores y las ISAPRES.
@@ -3279,8 +2797,6 @@ Corresponderá a la Superintendencia vigilar el adecuado ejercicio de esta facul
 #### Artículo 190
 
 No podrá estipularse un plan complementario en el que se pacten beneficios para alguna prestación específica por un valor inferior al 25% de la cobertura que ese mismo plan le confiera a la prestación genérica correspondiente. Asimismo, las prestaciones no podrán tener una bonificación inferior a la cobertura financiera que el Fondo Nacional de Salud asegura, en la modalidad de libre elección, a todas las prestaciones contempladas en el arancel a que se refiere el artículo 31 de la Ley N° 19.966, que establece el Régimen General de Garantías en Salud. Las cláusulas que contravengan esta norma se tendrán por no escritas.
-
-Lo señalado en el inciso anterior no será aplicable a los planes complementarios cuya bonificación esté definida en copago fijo o a través de mecanismos de pago al prestador por paquetes de prestaciones, tales como pago asociado al diagnóstico o grupos relacionados por el diagnóstico. En ningún caso, las coberturas que otorguen las Instituciones de Salud Previsional podrán ser inferiores a aquellas que otorgue el Fondo Nacional de Salud por la misma prestación contenida en los mencionados mecanismos de pago.
 
 Asimismo, no podrá convenirse exclusión de prestaciones, salvo las siguientes:
 
@@ -3302,7 +2818,11 @@ Para los efectos de esta Ley, se entenderá que son preexistentes aquellas enfer
 
 Sin perjuicio de lo anterior, la Institución de Salud Previsional estará obligada a concurrir al pago de prestaciones por enfermedades o condiciones de salud preexistentes no declaradas, en los mismos términos estipulados en el contrato para prestaciones originadas por enfermedades o condiciones de salud no preexistentes cubiertas por el plan, si se acredita que la omisión se debió a justa causa de error o cuando haya transcurrido un plazo de cinco años, contado desde la suscripción del contrato o desde la incorporación del beneficiario, en su caso, sin que el beneficiario haya requerido atención médica por la patología o condición de salud preexistente. En estos casos, tampoco procederá la terminación del contrato de salud.
 
-Se presumirá la mala fe si la Institución probare que la patología o condición de salud preexistente requirió atención médica durante los antedichos cinco años y el afiliado a sabiendas la ocultó a fin de favorecerse de esta disposición legal. En estos casos, la Institución de Salud Previsional podrá poner término al contrato, en los términos señalados en el artículo 201;
+Se presumirá la mala fe si la Institución probare que la patología o condición de salud preexistente requirió atención médica durante los antedichos cinco años y el afiliado a sabiendas la ocultó a fin de favorecerse de esta disposición legal. En estos casos, la Institución de Salud Previsional podrá poner
+
+término al contrato, en los términos
+
+señalados en el artículo 201;
 
 7.- Prestaciones otorgadas fuera del territorio nacional;
 
@@ -3358,13 +2878,13 @@ Los contratos de salud a que hace referencia el artículo 189 de esta Ley, deber
 
 El cotizante podrá, una vez transcurrido un año de vigencia de beneficios contractuales, desahuciar el contrato, para lo cual bastará una comunicación escrita a la Institución con copia al empleador o a la entidad pagadora de la pensión, según corresponda, dada con una antelación de, a lo menos, un mes del cumplimiento del primer año o de la fecha posterior en que se hará efectiva la desafiliación, quedando él y sus cargas, si no optaren por un nuevo contrato de salud previsional, afectos al régimen general de cotizaciones, prestaciones y beneficios de salud que les correspondan como beneficiarios del Libro II de esta Ley. La Superintendencia podrá impartir instrucciones de general aplicación sobre la forma y procedimiento a que deberán ceñirse las comunicaciones indicadas precedentemente.
 
-Anualmente, las Instituciones podrán revisar los contratos de salud, pudiendo sólo modificar el precio base del plan, con las limitaciones a que se refiere el artículo 198, en condiciones generales que no importen discriminación entre los afiliados de un mismo plan. Las revisiones no podrán tener en consideración el estado de salud del afiliado y beneficiario. Estas condiciones generales deberán ser las mismas que se estén ofreciendo a esa fecha a los nuevos contratantes en el respectivo plan. La infracción a esta disposición dará lugar a que el contrato se entienda vigente en las mismas condiciones generales, sin perjuicio de las demás sanciones que se puedan aplicar. La adecuación propuesta deberá ser comunicada al afectado de conformidad a lo dispuesto en el artículo 198. En tales circunstancias, el afiliado podrá aceptar el contrato con la adecuación de precio propuesta por la Institución de Salud Previsional; en el evento de que nada diga, se entenderá que acepta la propuesta de la Institución. En la misma oportunidad y forma en que se comunique la adecuación, la Institución de Salud Previsional deberá ofrecer uno o más planes alternativos cuyo precio base sea equivalente al vigente, a menos que se trate del precio del plan mínimo que ella ofrezca; se deberán ofrecer idénticas alternativas a todos los afiliados del plan cuyo precio se adecua, los que, en caso de rechazar la adecuación, podrán aceptar alguno de los planes alternativos que se les ofrezcan o bien desafiliarse de la Institución de Salud Previsional. En este caso, las Isapres no podrán modificar el factor asociado al plan de salud, si éste fuere superior. Sólo podrán ofrecerse planes que estén disponibles para todos los afiliados y el precio deberá corresponder al precio base modificado por las tablas de riesgo según edad y sexo correspondientes.
+Anualmente, en el mes de suscripción del contrato, las Instituciones podrán revisar los contratos de salud, pudiendo sólo modificar el precio base del plan, con las limitaciones a que se refiere el artículo 198, en condiciones generales que no importen discriminación entre los afiliados de un mismo plan. Las revisiones no podrán tener en consideración el estado de salud del afiliado y beneficiario. Estas condiciones generales deberán ser las mismas que se estén ofreciendo a esa fecha a los nuevos contratantes en el respectivo plan. La infracción a esta disposición dará lugar a que el contrato se entienda vigente en las mismas condiciones generales, sin perjuicio de las demás sanciones que se puedan aplicar. La adecuación propuesta deberá ser comunicada al afectado mediante carta certificada expedida con, a lo menos, tres meses de anticipación al vencimiento del período. En tales circunstancias, el afiliado podrá aceptar el contrato con la adecuación de precio propuesta por la Institución de Salud Previsional; en el evento de que nada diga, se entenderá que acepta la propuesta de la Institución. En la misma oportunidad y forma en que se comunique la adecuación, la Institución de Salud Previsional deberá ofrecer uno o más planes alternativos cuyo precio base sea equivalente al vigente, a menos que se trate del precio del plan mínimo que ella ofrezca; se deberán ofrecer idénticas alternativas a todos los afiliados del plan cuyo precio se adecua, los que, en caso de rechazar la adecuación, podrán aceptar alguno de los planes alternativos que se les ofrezcan o bien desafiliarse de la Institución de Salud Previsional. Sólo podrán ofrecerse planes que estén disponibles para todos los afiliados y el precio deberá corresponder al precio base modificado por las tablas de riesgo según edad y sexo correspondientes.
 
 Sin perjuicio de lo anterior, las modificaciones de los beneficios contractuales podrán efectuarse por mutuo acuerdo de las partes y darán origen a la suscripción de un nuevo plan de salud de entre los que se encuentre comercializando la Institución de Salud Previsional.
 
-Si el afiliado estimare que los planes ofrecidos no reúnen las condiciones de equivalencia indicadas en el inciso tercero, podrá recurrir ante la Superintendencia, la que resolverá en los términos señalados en el artículo 117 de esta Ley. Cuando el cotizante desahucie el contrato y transcurrido el plazo de antelación que corresponde, la terminación surtirá plenos efectos a contar del primero de junio del año respectivo.
+Si el afiliado estimare que los planes ofrecidos no reúnen las condiciones de equivalencia indicadas en el inciso tercero, podrá recurrir ante la Superintendencia, la que resolverá en los términos señalados en el artículo 117 de esta Ley. Cuando el cotizante desahucie el contrato y transcurrido el plazo de antelación que corresponde, la terminación surtirá plenos efectos a contar del primer día del mes subsiguiente a la fecha de expiración de dicho plazo.
 
-Los beneficios contemplados para un mes estarán financiados por la cotización devengada en el mes inmediatamente anterior cualquiera sea la época en que la Institución perciba efectivamente la cotización. En el caso de los trabajadores independientes del artículo 89 del decreto ley N° 3.500, de 1980, los beneficios contemplados para el período comprendido entre el día 1 de julio del año en que se pagaron las cotizaciones y el día 30 de junio del año siguiente a dicho pago estarán financiados por las cotizaciones a que se refiere el inciso primero del artículo 90 del decreto ley N° 3.500, de 1980, las que se pagarán anualmente de acuerdo a lo dispuesto en el artículo 92 F del citado decreto ley.
+Los beneficios contemplados para un mes estarán financiados por la cotización devengada en el mes inmediatamente anterior cualquiera sea la época en que la Institución perciba efectivamente la cotización.
 
 En el evento que al día del término del contrato por desahucio el cotizante esté en situación de incapacidad laboral, el contrato se extenderá de pleno derecho hasta el último día del mes en que finalice la incapacidad y mientras no se declare la invalidez del cotizante.
 
@@ -3376,61 +2896,29 @@ Igual plazo tendrá la Institución de Salud Previsional para informar del no pa
 
 El incumplimiento de la obligación señalada en los dos incisos precedentes, será sancionado por la Superintendencia con multa, en los términos del artículo 220 de esta Ley. En el caso de trabajadores independientes, cotizantes voluntarios o trabajadores que, habiendo sido dependientes, se encuentren en situación de cesantía, la falta de notificación oportuna, además, impedirá a la Institución de Salud Previsional poner término al contrato por no pago de la cotización ni cobrar intereses, reajustes y multas.
 
-> **Nota.** El artículo 95 de la ley 21647, publicada el 23.12.2023, dispone que, excepcionalmente, el proceso de adecuación de los precios base de los planes de salud a que se refieren los artículos 197 y 198 del presente decreto con fuerza de ley, estará sujeto a dichas normas con las modificaciones que incorpora la citada disposición.
-
 #### Artículo 198
 
-Las modificaciones a los precios base de los planes de salud se sujetarán a las siguientes reglas:
+La libertad de las Instituciones de Salud Previsional para cambiar los precios base de los planes de salud en los términos del inciso tercero del artículo 197 de esta Ley, se sujetará a las siguientes reglas:
 
-1. El Superintendente de Salud fijará mediante resolución, anualmente, un indicador que será un máximo para las Instituciones de Salud Previsional que apliquen una variación porcentual al precio base de sus planes de salud, conforme al procedimiento que se establece en el numeral siguiente.
+1.- Antes del 31 de marzo de cada año, las ISAPRES deberán informar a la Superintendencia el precio base, expresado en unidades de fomento, de cada uno de los planes de salud que se encuentren vigentes al mes de enero del año en curso y sus respectivas carteras a esa fecha.
 
-2. Para determinar el valor anual del indicador, el Superintendente de Salud deberá seguir el siguiente procedimiento:
+Para expresar en unidades de fomento los precios base de los planes de salud que se encuentren establecidos en moneda de curso legal, las Instituciones de Salud Previsional utilizarán el valor que dicha unidad monetaria tenga al 31 de diciembre del año anterior.
 
-a) Anualmente, la Superintendencia de Salud deberá calcular los índices de variación de los costos de las prestaciones de salud, de variación de la frecuencia de uso experimentada por las mismas y de variación del costo en subsidios por incapacidad laboral del sistema privado de salud. Asimismo, deberá incorporar en el cálculo el costo de las nuevas prestaciones y la variación de frecuencia de uso de las prestaciones, que se realicen en la modalidad de libre elección de FONASA y cualquier otro elemento que sirva para incentivar la contención de costos del gasto en salud.
+2.- En dicha oportunidad, también deberán informar la variación que experimentará el precio base de todos y cada uno de los contratos cuya anualidad se cumpla entre los meses de julio del año en curso y junio del año siguiente. Dichas variaciones no podrán ser superiores a 1,3 veces el promedio ponderado de las variaciones porcentuales de precios base informadas por la respectiva Institución de Salud Previsional, ni inferiores a 0,7 veces dicho promedio.
 
-Un decreto supremo dictado por el Ministerio de Salud y suscrito además por el Ministerio de Economía, Fomento y Turismo, que se revisará al menos cada tres años, aprobará la norma técnica que determine el algoritmo de cálculo para determinar el indicador propuesto, estableciendo, al menos, la ponderación de los factores que sirvan para el cálculo del indicador, en especial los señalados en el párrafo precedente.
+El promedio ponderado de las variaciones porcentuales de precio base se calculará sumando las variaciones de precio de cada uno de los planes cuya anualidad se cumpla en los meses señalados en el párrafo anterior, ponderadas por el porcentaje de participación de su cartera respectiva en la suma total de beneficiarios de estos contratos. En ambos casos, se considerará la cartera vigente al mes de enero del año en curso.
 
-b) Para estos efectos, la Superintendencia de Salud validará mensualmente los registros de prestaciones y sus frecuencias, cartera de beneficiarios y subsidios por incapacidad laboral enviados por las Instituciones de Salud Previsional. Se considerará como período de referencia del indicador a que se refiere el numeral 1 de este artículo, los meses de enero a diciembre de al menos dos años anteriores a la publicación del mismo. Sin perjuicio de lo anterior, la Superintendencia de Salud podrá tratar datos personales, para lo cual podrá requerir del Fondo Nacional de Salud, del Ministerio de Salud y de los demás organismos públicos, instituciones privadas de salud y prestadores de salud, toda información agregada o desagregada, registro o dato que sea necesario para el correcto cálculo del indicador. Los datos personales que sean obtenidos en este proceso estarán bajo la protección que establece la ley N° 19.628, sobre protección de la vida privada.
+3.- Asimismo, la variación anual de los precios base de los planes creados entre febrero y junio del año en curso, ambos meses inclusive, deberá ajustarse a la regla indicada en el párrafo primero del numeral 2 precedente, al cumplirse la anualidad respectiva.
 
-c) En el proceso de validación de los registros, la Superintendencia de Salud tendrá amplias facultades para requerir de las Instituciones de Salud Previsional y de los prestadores de salud toda la información financiera, contable y operativa que se precise para la correcta construcción del indicador y cualquier otra información que requiera para dichos efectos.
+4.- La Institución de Salud Previsional podrá optar por no ajustar los precios base de aquellos planes de salud en donde el límite inferior de la variación, a que alude el numeral 2, es igual o inferior a 2%. Dicha opción deberá ser comunicada a la Superintendencia en la misma oportunidad a que alude el numeral 1 de este artículo.
 
-d) Durante los primeros diez días corridos del mes de marzo de cada año, el Superintendente de Salud dictará una resolución que contendrá el índice de variación porcentual que se aplicará como máximo a los precios base de los planes de salud. Dicha resolución deberá publicarse en el Diario Oficial y en la página web de la Superintendencia de Salud.
+5.- En ningún caso las ISAPRES podrán ofrecer rebajas o disminuciones respecto del precio base del plan de que se trate informado a la Superintendencia, a los afiliados vigentes o a los nuevos contratantes de ese plan.
 
-El índice de variación porcentual así fijado se entenderá justificado para todos los efectos legales.
+6.- Se prohíbe ofrecer o pactar planes alternativos con menos de un año de comercialización o que, cumpliendo con la vigencia indicada, no tengan personas adscritas, a los afiliados o beneficiarios cuya anualidad se cumpla en el período indicado en el numeral 2. La misma prohibición se aplicará cuando se ponga término al contrato y la persona se afilie nuevamente en la misma Institución de Salud Previsional.
 
-3. Dentro del plazo de quince días corridos contado desde la publicación del indicador a que se refiere el literal d) del numeral 2 anterior, las Instituciones de Salud Previsional deberán informar a la Superintendencia de Salud su decisión de aumentar o no el valor del precio base de los planes de salud. En el evento de que el indicador sea negativo, las Instituciones de Salud Previsional no podrán subir el precio. En caso de que decidan aumentar el precio base, el porcentaje de ajuste informado que aplicarán a todos sus planes de salud deberá ser acompañado de los siguientes antecedentes:
+Corresponderá a la Superintendencia fiscalizar el cumplimiento de esta norma, pudiendo dejar sin efecto alzas de precios que no se ajusten a lo señalado precedentemente, sin perjuicio de aplicar las sanciones que estime pertinentes, todo lo cual será informado al público en general, mediante publicaciones en diarios de circulación nacional, medios electrónicos u otros que se determine.
 
-a) Porcentaje de la variación anual del gasto por persona beneficiaria, con consideración de todas aquellas prestaciones de salud bonificadas por las Instituciones de Salud Previsional que se financian a través del plan complementario de salud, y con exclusión de las Garantías Explícitas en Salud contempladas en el Régimen General de Garantías en Salud.
-
-b) Porcentaje de variación anual de la frecuencia de uso de prestaciones bonificadas por las Instituciones de Salud Previsional, por persona beneficiaria, con exclusión de las Garantías Explícitas en Salud contempladas en el Régimen General de Garantías en Salud.
-
-c) Porcentaje de variación anual del costo en subsidios de incapacidad laboral por persona beneficiaria de cargo de la Institución de Salud Previsional, incluidas las licencias médicas que hayan sido reconsideradas por la propia institución o por la Comisión de Medicina Preventiva e Invalidez.
-
-d) Costo en unidades de fomento de las nuevas prestaciones contempladas en el arancel a que hace referencia el artículo 159 de esta ley del año en análisis.
-
-e) Porcentaje de variación anual del costo operacional, que corresponde a la suma del costo en prestaciones de salud, excluyéndose las Garantías Explícitas en Salud contempladas en el Régimen General de Garantías en Salud, y en subsidios de incapacidad laboral, por persona beneficiaria.
-
-La Superintendencia de Salud, mediante circular dictada al efecto, detallará la forma en que las Instituciones de Salud Previsional deberán informar cada uno de los antecedentes antes indicados.
-
-Vencido el plazo señalado en el presente numeral, la Superintendencia dictará una resolución que contendrá la verificación del porcentaje de ajuste de cada una de las Instituciones de Salud Previsional, informado en base a los antecedentes aportados. Dicha resolución autorizará el ajuste de los precios base de los planes de salud de la Institución de Salud Previsional respectiva que, en ningún caso, podrá ser superior al valor resultante de la verificación realizada por la Superintendencia ni al indicador a que hacen referencia este artículo. Esta resolución deberá publicarse en el Diario Oficial y en la página web de la Superintendencia de Salud. Si en su ajuste la Institución respectiva no supera el indicador de costos de la salud, ni el valor verificado por la Superintendencia de Salud, se entenderá el ajuste de los precios bases justificado para todos los efectos legales.
-
-Si el valor verificado es negativo, la Institución de Salud Previsional respectiva no podrá aumentar el valor del precio base de sus planes de salud.
-
-4. La Institución de Salud Previsional que, dentro del plazo señalado en el numeral anterior, decida aumentar el valor del precio base de los planes de salud deberá comunicar dicha adecuación, en el mismo mes de marzo del año respectivo, a los afiliados que correspondan. La comunicación deberá realizarse por medios electrónicos en base a la última información registrada por la persona afiliada. De no contar con dicha información, ésta se realizará por carta certificada, y se entenderá practicada al quinto día, contado desde el día siguiente a su envío.
-
-La comunicación que efectúe la respectiva Institución de Salud Previsional deberá contener, a lo menos, la decisión de adecuar los planes de salud, el porcentaje de tal adecuación, los antecedentes que la justifican y la resolución de la Superintendencia de Salud que verifica el porcentaje de alza de la referida Institución. Esta comunicación no podrá contener ni adjuntar información, documentos o cualquier antecedente adicional que no tengan relación con la adecuación propuesta.
-
-Las Instituciones de Salud Previsional deberán estar siempre en condiciones de acreditar la remisión de la comunicación a sus cotizantes, independientemente de la forma de notificación.
-
-A fin de dar cumplimiento a las reglas sobre notificación antes señaladas, las Instituciones de Salud Previsional deberán instar a sus afiliados al uso de medios electrónicos. La institución respectiva deberá dejar constancia de que la persona afiliada otorgó su voluntad sobre el uso de esta forma de notificación. Al respecto, la Institución de Salud Previsional deberá estar siempre en condiciones de acreditar las medidas adoptadas para tal efecto.
-
-Los nuevos precios entrarán en vigencia a partir del mes de junio de cada año, con excepción de aquellos planes que a dicha fecha tengan menos de un año, de aquellos expresados en la cotización legal obligatoria y de aquellos que se rigen de acuerdo a lo dispuesto en el artículo 200 de este cuerpo legal.
-
-> **Nota.** NOTA 1 El artículo 95 de la ley 21647, publicada el 23.12.2023, dispone que, excepcionalmente, el proceso de adecuación de los precios base de los planes de salud a que se refieren los artículos 197 y 198 del presente decreto con fuerza de ley, estará sujeto a dichas normas con las modificaciones que incorpora la citada disposición.
-
-#### Artículo 198 bis
-
-Para que las Isapres puedan efectuar una variación en el precio de los planes de salud, conforme a lo establecido en el artículo precedente, deberán haber dado estricto cumplimiento, en el año precedente a la vigencia del referido indicador, a la normativa relacionada con el Plan Preventivo de Isapres establecido por la Intendencia de Fondos y Seguros Previsionales de la Superintendencia de Salud, así como con las metas de cobertura para el examen de medicina preventiva, en conformidad a lo establecido en el artículo 138 de esta ley, en ambos casos de acuerdo a las normas de general aplicación que dicte la Superintendencia de Salud al respecto, pudiendo establecer cumplimientos parciales, que no podrán ser inferiores al 50 por ciento de la establecida en el decreto respectivo. Ambas obligaciones deberán ser acreditadas por los organismos que tengan convenios vigentes con la Superintendencia de Salud, en el mes de enero del año en que se aplique el indicador señalado, lo que será fiscalizado por la Superintendencia de Salud. En caso de alerta sanitaria, el Superintendente de Salud podrá rebajar prudencialmente las metas asignadas.
+Lo señalado en los incisos precedentes no será aplicable a los contratos de salud previsional cuyo precio se encuentre expresado en un porcentaje equivalente a la cotización legal.
 
 #### Artículo 199
 
@@ -3440,13 +2928,13 @@ La Superintendencia fijará, mediante instrucciones de general aplicación, la e
 
 Cada rango de edad que fije la Superintendencia en las instrucciones señaladas en el inciso precedente se sujetará a las siguientes reglas:
 
-1.- DEROGADO;
+1.- El primer tramo comenzará desde el nacimiento y se extenderá hasta menos de dos años de edad;
 
-2.- DEROGADO;
+2.- Los siguientes tramos, desde los dos años de edad y hasta menos de ochenta años de edad, comprenderán un mínimo de tres años y un máximo de cinco años;
 
-3.- DEROGADO;
+3.- La Superintendencia fijará, desde los ochenta años de edad, el o los tramos que correspondan;
 
-4.- DEROGADO, y
+4.- La Superintendencia deberá fijar, cada diez años, la relación máxima entre el factor más bajo y el más alto de cada tabla, diferenciada por sexo, y
 
 5.- En cada tramo, el factor que corresponda a una carga no podrá ser superior al factor que corresponda a un cotizante del mismo sexo.
 
@@ -3457,8 +2945,6 @@ Cada plan de salud sólo podrá tener incorporada una tabla de factores. Las Ins
 Sin perjuicio de lo dispuesto en el inciso precedente, las Instituciones de Salud Previsional podrán establecer nuevas tablas cada cinco años, contados desde las últimas informadas a la Superintendencia, manteniéndose vigentes las anteriores en los planes de salud que las hayan incorporado.
 
 Las Instituciones de Salud Previsional estarán obligadas a aplicar, desde el mes en que se cumpla la anualidad y de conformidad con la respectiva tabla, el aumento o la reducción de factor que corresponda a un beneficiario en razón de su edad, y a informar al cotizante respectivo mediante carta ertificada expedida en la misma oportunidad a que se refiere el inciso tercero del artículo 197.
-
-> **Nota.** La Sentencia S/N° del Tribunal Constitucional, publicada el 09.08.2010, declaró inconstitucional los numerales 1, 2, 3 y 4 del inciso tercero del presente artículo, entiendiendose derogados a partir de su publicación de la citada Sentencia. La citada derogación se ha incorporado al presente texto actualizado.
 
 #### Artículo 200
 
@@ -3550,29 +3036,13 @@ El precio de los beneficios a que se refiere este Párrafo, y la unidad en que s
 
 Sin perjuicio de la fecha de afiliación, las Instituciones de Salud Previsional estarán obligadas a asegurar las Garantías Explícitas en Salud a que se refiere este Párrafo, a contar del primer día del sexto mes siguiente a la fecha de publicación del decreto que las contemple o de sus posteriores modificaciones. Dichas Garantías Explícitas sólo podrán variar cuando el referido decreto sea revisado y modificado.
 
-La Institución de Salud Previsional deberá informar a la Superintendencia, dentro del plazo previsto en el artículo siguiente, el precio que cobrará por las Garantías Explícitas en Salud. Dicho precio se expresará en unidades de fomento o en la moneda de curso legal en el país. Corresponderá a la Superintendencia publicar en el Diario Oficial, con treinta días de anticipación a la vigencia del antedicho decreto, a lo menos, el precio fijado por cada Institución de Salud Previsional, conjuntamente con los montos resultantes de la verificación realizada de conformidad al artículo 206 bis. Se presumirá de derecho que los afiliados han sido notificados del precio, desde la referida publicación.
+La Institución de Salud Previsional deberá informar a la Superintendencia, dentro de los noventa días siguientes a la publicación del mencionado decreto, el precio que cobrará por las Garantías Explícitas en Salud. Dicho precio se expresará en unidades de fomento o en la moneda de curso legal en el país. Corresponderá a la Superintendencia publicar en el Diario Oficial, con treinta días de anticipación a la vigencia del antedicho decreto, a lo menos, el precio fijado por cada Institución de Salud Previsional. Se presumirá de derecho que los afiliados han sido notificados del precio, desde la referida publicación.
 
 La Institución de Salud Previsional podrá cobrar el precio desde el mes en que entre en vigencia el decreto o al cumplirse la respectiva anualidad; en este último caso, no procederá el cobro con efecto retroactivo. La opción que elija la Institución de Salud Previsional deberá aplicarse a todos los afiliados a ella.
 
 El precio sólo podrá variar cada tres años, contados desde la vigencia del decreto respectivo, o en un plazo inferior, si el decreto es revisado antes del período señalado.
 
 En las modificaciones posteriores del decreto que contiene las Garantías Explícitas en Salud, la Institución de Salud Previsional podrá alterar el precio, lo que deberá comunicar a la Superintendencia en los términos señalados en el inciso segundo de este artículo. Si nada dice, se entenderá que ha optado por mantener el precio.
-
-#### Artículo 206 bis
-
-La Superintendencia de Salud, a través de la Intendencia de Fondos y Seguros Previsionales de Salud, verificará el precio que las Isapres cobrarán por las Garantías Explícitas de Salud, de conformidad al siguiente procedimiento:
-
-a) En el plazo de quince días corridos contado desde la publicación del decreto que contemple o modifique las Garantías Explícitas de Salud, las Isapres deberán informar a la Superintendencia de Salud los precios que cobrarán por dichas garantías a sus afiliados. En dicha comunicación, las Isapres deberán señalar y justificar el precio que cobrarán por las Garantías Explícitas de Salud y acompañarán todos los antecedentes técnicos que sirven de base para el cálculo.
-
-La Superintendencia de Salud, mediante circular dictada al efecto, determinará la información, así como la forma de presentar cada uno de los antecedentes técnicos antes indicados.
-
-b) Con tales antecedentes, la Superintendencia de Salud verificará el precio que corresponde a cada Isapre.
-
-La verificación de los precios informados por las Isapres deberá considerar la variación de los costos de las prestaciones de salud, y la variación de la frecuencia de uso experimentada por ellas. Asimismo, deberá observar el costo de las prestaciones incluidas en las canastas de Garantías Explícitas de Salud, la tasa de uso efectivo de tales Garantías por parte de los beneficiarios, y el estudio de verificación de costos regulado en la ley N° 19.996, que establece un Régimen de Garantías en Salud.
-
-c) El Superintendente de Salud dictará una resolución que contendrá la verificación de los precios informados por las Isapres y el precio que cobrará cada una de ellas por las Garantías Explícitas de Salud a sus afiliados, dentro del plazo de treinta días corridos contado desde la publicación del decreto a que hace referencia la letra a). Dicha resolución deberá publicarse en el Diario Oficial y en la página web de la Superintendencia de Salud.
-
-Los precios que cobrarán las Isapres por las Garantías Explícitas de Salud así fijados se entenderán justificados para todos los efectos legales. Estos precios entrarán en vigencia junto con el decreto que hace referencia el literal a).
 
 #### Artículo 207
 
@@ -3738,7 +3208,7 @@ c.- Cuando la Institución mantenga un indicador de liquidez igual o inferior a 
 
 d.- Cuando se incumpla alguna de las etapas contempladas en el Plan de Ajuste y Contingencia, y
 
-e.- Cuando se dicte la resolución de liquidación de la Institución. En este caso, la existencia del liquidador no obstará ni afectará en modo alguno las facultades conferidas al administrador provisional para licitar la cartera y las que posea el Superintendente para los efectos de liquidar la garantía.
+e.- Cuando se declare la quiebra de la Institución. En este caso, la existencia del síndico no obstará ni afectará en modo alguno las facultades conferidas al administrador provisional para licitar la cartera y las que posea el Superintendente para los efectos de liquidar la garantía.
 
 Con todo, la Superintendencia de Salud deberá aplicar lo dispuesto en el inciso anterior cuando las Instituciones, en cualquier momento, presentaren un patrimonio inferior a cinco mil unidades de fomento o una garantía por debajo de las dos mil unidades de fomento.
 
@@ -3752,7 +3222,7 @@ La Superintendencia podrá cancelar, mediante resolución fundada, el registro d
 
 grave y reiterado dentro de un período de doce meses de las obligaciones que establece la ley o de las instrucciones que imparta la Superintendencia, debidamente observado o sancionado en cada oportunidad por ésta.
 
-3.- Por encontrarse en un procedimiento concursal de liquidación.
+3.- Por quiebra de la Institución.
 
 4.- Por pérdida de la personalidad jurídica de la Institución.
 
@@ -3786,8 +3256,6 @@ Cancelada la inscripción de una Institución de Salud Previsional en el registr
 
 3.- Una vez solucionados los créditos enumerados, si quedare un remanente, se procederá al pago de las deudas con los prestadores de salud, íntegramente o a prorrata, según sea el caso.
 
-Se preferirá a los prestadores no relacionados, para cuya determinación se estará a la definición de persona relacionada establecida en el artículo 100 de la ley N° 18.045.
-
 Las órdenes de atención, bonos de atención o similares que las Instituciones de Salud Previsional hayan emitido para el financiamiento de las prestaciones otorgadas a sus beneficiarios y que posean los prestadores de salud, sólo pueden ser consideradas en el tercer orden de prelación para efectos del pago con cargo a la garantía;
 
 4.- Posteriormente, si queda un remanente, se enterará el valor que se haya definido en la licitación de la cartera o de la Institución, de acuerdo con lo prescrito por el inciso octavo del artículo 221;
@@ -3810,7 +3278,7 @@ Los interesados podrán impugnar los cálculos dentro de los diez días siguient
 
 d) Agotado el plazo o resueltas las impugnaciones, la Superintendencia pagará las deudas, en un término no superior a noventa días.
 
-Cuando la garantía resulte insuficiente para pagar las deudas a los afiliados de una Institución de Salud Previsional cuyo registro haya sido cancelado y se encuentre sometida a un procedimiento concursal de liquidación, la Intendencia de Fondos y Seguros Previsionales de Salud deberá emitir una resolución que contenga la identificación del afiliado o el prestador y el monto adeudado. Dicha resolución tendrá mérito ejecutivo y será remitida al liquidador, para los efectos de ser considerada en el pago con cargo a la masa del deudor. Lo anterior se entiende sin perjuicio del derecho de los afiliados y prestadores de hacer valer directamente sus acreencias en el procedimiento concursal de liquidación.
+Cuando la garantía resulte insuficiente para pagar las deudas a los afiliados de una Institución de Salud Previsional cuyo registro haya sido cancelado y se encuentre declarada en quiebra, la Intendencia de Fondos y Seguros Previsionales de Salud deberá emitir una resolución que contenga la identificación del afiliado o el prestador y el monto adeudado. Dicha resolución tendrá mérito ejecutivo y será remitida al síndico de la quiebra, para los efectos de ser considerada en el pago con cargo a la masa del fallido. Lo anterior se entiende sin perjuicio del derecho de los afiliados y prestadores de hacer valer directamente sus acreencias en la quiebra.
 
 En aquella parte que no haya podido ser solucionada con la garantía, los créditos contenidos en el numeral 2 del inciso primero de este artículo gozarán del privilegio concedido a los créditos del número 6 del artículo 2.472 del Código Civil, los que, en todo caso, se pagarán con preferencia a aquéllos, rigiendo en todo lo demás lo dispuesto en el artículo 2.473 del mismo Código.
 
