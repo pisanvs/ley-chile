@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.754, de 12 de noviembre de 2009, de esta Subsecretaría, autorízase a COMERCIALIZADORA AZUL PROFUNDO S.A. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Calle D, Manzana D, Sitio 26, Parque Industrial Escuadrón II, Coronel, VIII Región, para elaborar en la línea de aceite, los recursos indicados en la resolución extractada.
+
+Valparaíso, 12 de noviembre de 2009. María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
