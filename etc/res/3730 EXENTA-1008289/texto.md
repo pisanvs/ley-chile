@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.730, de 9 de noviembre de 2009 de esta Subsecretaría, autorízase a PEÑA Y COMPAÑÍA LIMITADA, para iniciar actividades pesqueras de transformación, instalar y operar planta ubicada Avenida Las Industrias s/nº, esquina American Smelting, Caldera, III Región, para elaborar en líneas Cocido, Fresco-enfriado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 9 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
