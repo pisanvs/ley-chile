@@ -4,153 +4,245 @@ La Junta de Gobierno de la República de Chile ha dado su aprobación al siguien
 
 Proyecto de ley:
 
-#### Artículo 1°
+#### Artículo 1º
 
-Fíjase la siguiente planta de cargos del Servicio Electoral, cuyos grados serán determinados según la Escala Unica de Sueldos del decreto ley N° 249, de 1973, y sus modificaciones posteriores a la legislación que la sustituya:
+Fíjase la Planta de Personal del Servicio Electoral que a continuación se indica, de conformidad con lo dispuesto en el artículo 5º del decreto con fuerza de ley Nº 29, de 2005, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834:
 
-=======================================================
+Planta/Cargos Grados Nº cargos
 
-Grado N° de
+### I. PLANTA DE DIRECTIVOS
 
-Escalafón/Cargo Nivel EUS Cargos
+JEFE SUPERIOR DEL SERVICIO
 
-=======================================================
+Director 1 C1
 
-JEFES SUPERIORES DE SERVICIOS
+Planta/Cargos Grados Nº cargos
 
-(1)
+DIRECTIVOS AFECTOS AL TÍTULO VI LEY Nº 19.882
 
-Director II 1 C 1
+Subdirector 2° 1
 
-DIRECTIVOS SUPERIORES (9)
+Jefes de División 3° 3
 
-Sub Director I 2° 1
+Directores Regionales 5° 8
 
-Asesor Jurídico II 3° 1
+Directores Regionales 6° 7
 
-Jefes Departamentos II 3° 3
+DIRECTIVOS DE CARRERA
 
-Jefes de Sub Departamentos III 4° 4
+Jefes Sub departamento 4° 8
 
-DIRECTIVOS (15)
+Directivos 7° 5
 
-Directivos I 5° 2
+Directivos 8° 5
 
-Directores Regionales I 5° 7
+Directivos 9° 5
 
-Directores Regionales II 6° 6
+Directivos 10° 6
 
-JEFATURAS A (14)
+Total Directivos 49
 
-Jefes I 9° 6
+### II. PLANTA DE PROFESIONALES
 
-Jefes II 10° 8
-
-JEFATURAS B (16)
-
-Jefes I 11° 4
-
-Jefes I 12° 7
-
-Jefes II 13° 5
-
-PROFESIONALES (6)
+Profesionales 4° 2
 
 Profesionales 5° 2
 
 Profesionales 6° 2
 
-Profesional 7° 1
+Profesionales 7° 2
 
-Profesional 9° 1
+Profesionales 8° 2
 
-CONTADORES (4)
+Profesionales 9° 2
 
-Contador I 10° 1
+Profesionales 10° 3
 
-Contadores I 12° 2
+Profesionales 11° 3
 
-Contador II 13° 1
+Profesionales 12° 4
 
-SECRETARIAS EJECUTIVAS (6)
+Total Profesionales 22
 
-Secretaria Ejecutiva I 10° 1
+### III. PLANTA DE TÉCNICOS
 
-Secretaria Ejecutiva I 11° 1
+Técnicos 9° 3
 
-Secretaria Ejecutiva II 13° 1
+Técnicos 10° 3
 
-Secretarias Ejecutivas II 15° 2
+Técnicos 11° 3
 
-Secretaria Ejecutiva III 17° 1
+Técnicos 12° 3
 
-OFICIALES ADMINISTRATIVOS (115)
+Técnicos 13° 3
 
-Oficiales Administrativos I 14° 7
+Técnicos 14° 3
 
-Oficiales Administrativos I 15° 9
+Técnicos 15° 3
 
-Oficiales Administrativos II 16° 11
+Total Técnicos 21
 
-Oficiales Administrativos II 17° 12
+### IV. PLANTA DE ADMINISTRATIVOS
 
-Oficiales Administrativos II 18° 14
+Administrativos 10° 5
 
-Oficiales Administrativos II 19° 16
+Administrativos 11° 5
 
-Oficiales Administrativos III 21° 14
+Administrativos 12° 5
 
-Oficiales Administrativos III 23° 12
+Administrativos 13° 6
 
-Oficiales Administrativos III 24° 10
+Administrativos 14° 12
 
-Oficiales Administrativos IV 26° 6
+Administrativos 15° 10
 
-Oficiales Administrativos IV 28° 4
+Administrativos 16° 13
 
-MAYORDOMOS (3)
+Administrativos 17° 15
 
-Mayordomo I 19° 1
+Administrativos 18° 14
 
-Mayordomo I 20° 1
+Total Administrativos 85
 
-Mayordomo I 21° 1
+### V. PLANTA DE AUXILIARES
 
-CHOFERES (3)
+Auxiliares 19° 5
 
-Chofer I 20° 1
+Auxiliares 20° 8
 
-Choferes I 21° 2
+Auxiliares 21° 12
 
-AUXILIARES (41)
+Auxiliares 22° 10
 
-Auxiliares I 21° 3
+Total Auxiliares 35
 
-Auxiliares I 22° 4
-
-Auxiliares II 23° 6
-
-Auxiliares II 24° 8
-
-Auxiliares II 25° 9
-
-Auxiliares II 26° 7
-
-Auxiliares III 28° 3
-
-Auxiliar III 31° 1
-
-----
-
-TOTAL DE CARGOS 233
+Total Planta 212
 
 Se podrá contratar personal a contrata o a honorarios a suma alzada o asimilado a grados, en forma transitoria, al margen de los cargos contemplados en la Planta.
 
 El Director podrá contratar a este personal mediante resolución, previa visación de la Dirección de Presupuestos.
 
-> **Nota.** El Art. 6 de la LEY 20174, publicada el 05.04.2007, dispuso la creación de los siguientes cargos, en la planta de personal del Servicio Electoral fijada por el presente artículo."ESCALAFON/CARGO NIVEL GRADO Nº CARGOS TOTAL EUSDIRECTIVOSDirector Regional II 6º 1 1OFICIALES ADMINISTRATIVOSOficialesAdministrativos II 16º 1OficialesAdministrativos II 18º 1 2CHOFERESChoferes I 22º 1 1Total 4." El Artículo 13 de la referida LEY 20174, dispuso que la modificación introducida en el presente artículo rige a contar de 180 días después de su publicación.
+#### Artículo 1º
 
-> **Nota.** NOTA 1: El Art. 1º de la LEY 20266, publicada el 07.06.2008, dispuso la creación de los siguientes cargos, en la planta de personal del Servicio Electoral fijada por el presente artículo."Escalafón/Cargo Nivel Grado EUS Nº CargosDIRECTIVOSDirector Regional II 6 1OFICIALESADMINISTRATIVOSOficialesAdministrativos II 16 1OficialesAdministrativos II 18 1CHOFERES I 22 1TOTAL 4"
+A.- Establécense los siguientes requisitos específicos para el ingreso y promoción en las plantas y cargos que a continuación se indican:
+
+I.- PLANTA DE DIRECTIVOS.
+
+Jefe Superior del Servicio:
+
+Director, grado 1C: Abogado con más de diez años de título y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
+
+Directivos afectos al Título VI de la ley Nº 19.882:
+
+- Subdirector, grado 2°: Abogado con más de diez años de título y no haber desempeñado cargos de representación popular o de dirigente de partido político en los cinco años anteriores a su designación.
+
+- Jefes de División, grado 3º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cinco años en el sector público o privado.
+
+- Directores Regionales, grado 5º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cuatro años en el sector público o privado.
+
+- Directores Regionales, grado 6º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
+
+Directivos de Carrera:
+
+- Jefes Sub departamento, grado 4º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cuatro años en el sector público o privado.
+
+- Directivos, grado 7º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
+
+- Directivos, grados 8º y 9º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+
+- Directivos, grado 10º, alternativamente:
+
+i) Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente, o,
+
+ii) Título profesional de una carrera de a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a un año en el sector público o privado.
+
+II.- PLANTA DE PROFESIONALES.
+
+Profesionales, grado 4º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a cuatro años en el sector público o privado.
+
+Profesionales, grados 5º, 6º y 7º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a tres años en el sector público o privado.
+
+Profesionales, grados 8º y 9º:
+
+Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a dos años en el sector público o privado.
+
+Profesionales, grados 10º y 11º, alternativamente:
+
+i) Título profesional de una carrera de, a lo menos, diez semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente, o,
+
+ii) Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente y acreditar una experiencia profesional no inferior a un año en el sector público o privado.
+
+Profesionales, grado 12º: Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una Universidad o Instituto Profesional del Estado o reconocidos por éste o aquellos validados en Chile de acuerdo a la legislación vigente.
+
+III.- PLANTA DE TÉCNICOS.
+
+Técnicos, grado 9º, alternativamente:
+
+i) Título Técnico de Nivel Superior otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste y acreditar una experiencia como Técnico de Nivel Superior no inferior de cuatro años en el sector público o privado, o,
+
+ii) Título Técnico de Nivel Medio o equivalente otorgado por el Ministerio de Educación y acreditar una experiencia como Técnico de Nivel Medio no inferior a cinco años en el sector público o privado.
+
+Técnicos, grados 10º y 11º, alternativamente:
+
+i) Título Técnico de Nivel Superior otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste y acreditar una experiencia como Técnico de Nivel Superior no inferior de tres años en el sector público o privado, o,
+
+ii) Título Técnico de Nivel Medio o equivalente otorgado por el Ministerio de Educación y acreditar una experiencia como Técnico de Nivel Medio no inferior a cuatro años en el sector público o privado.
+
+Técnicos, grados 12º y 13º, alternativamente:
+
+i) Título Técnico de Nivel Superior otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste y acreditar una experiencia como Técnico de Nivel Superior no inferior de dos años en el sector público o privado, o,
+
+ii) Título Técnico de Nivel Medio o equivalente otorgado por el Ministerio de Educación y acreditar una experiencia como Técnico de Nivel Medio no inferior a tres años en el sector público o privado.
+
+Técnicos, grado 14º, alternativamente:
+
+i) Título Técnico de Nivel Superior otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste y acreditar una experiencia como Técnico de Nivel Superior no inferior de un año en el sector público o privado, o,
+
+ii) Título Técnico de Nivel Medio o equivalente otorgado por el Ministerio de Educación y acreditar una experiencia como Técnico de Nivel Medio no inferior a dos años en el sector público o privado.
+
+Técnicos, grado 15º, alternativamente:
+
+i) Título Técnico de Nivel Superior otorgado por un Establecimiento de Educación Superior del Estado o reconocido por éste, o,
+
+ii) Título Técnico de Nivel Medio o equivalente otorgado por el Ministerio de Educación, y acreditar una experiencia como Técnico de Nivel Medio no inferior a un año en el sector público o privado.
+
+IV.- PLANTA DE ADMINISTRATIVOS.
+
+Administrativos, grados 10º y 11º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral en funciones administrativas, no inferior a cuatro años en el sector público o privado.
+
+Administrativos, grados 12º y 13º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral en funciones administrativas, no inferior a tres años en el sector público o privado.
+
+Administrativos, grados 14º y 15º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral en funciones administrativas, no inferior a dos años en el sector público o privado.
+
+Administrativos, grados 16º y 17º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral en funciones administrativas, no inferior a un año en el sector público o privado.
+
+Administrativos, grado 18º: Licencia de Enseñanza media o equivalente.
+
+V.- PLANTA DE AUXILIARES.
+
+Auxiliares, grado 19º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral no inferior a cuatro años en el sector público o privado.
+
+Auxiliares, grado 20º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral no inferior a tres años en el sector público o privado.
+
+Auxiliares, grado 21º: Licencia de Enseñanza media o equivalente y acreditar una experiencia laboral no inferior a dos años en el sector público o privado.
+
+Auxiliares, grado 22º: Licencia de Enseñanza media o equivalente.
 
 #### Artículo 2°
 
