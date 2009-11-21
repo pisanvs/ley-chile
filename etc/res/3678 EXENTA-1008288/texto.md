@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.678, de 5 de noviembre de 2009, de esta Subsecretaría, autorízase a PESQUERA ENFEMAR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Aquiles Pancho", en el área marítima de la V Región, por fuera del área de reserva artesanal, con red de arrastre, sobre el recurso hidrobiológico Raya volantín.
+
+Valparaíso, 5 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
