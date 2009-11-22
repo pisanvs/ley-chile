@@ -22,10 +22,6 @@ I Región de Tarapacá
 
 Provincia Caleta
 
-Arica Arica
-
-Camarones
-
 Iquique Pisagua
 
 Riquelme
@@ -166,6 +162,10 @@ Puerto Aldea (Hornilla)
 
 Totoral
 
+El Apolillado
+
+Playa Chica de La Herradura
+
 Limarí Talcaruca
 
 Limarí
@@ -233,6 +233,10 @@ San Pedro de Concón
 Higuerilla
 
 Montemar
+
+Provincia Caleta (uso temporal)
+
+Valparaíso Alejandro Selkirk
 
 San Antonio Cartagena
 
@@ -500,70 +504,6 @@ X Región de Los Lagos
 
 Provincia Caleta
 
-Valdivia Amargos
-
-Huape
-
-Mancera
-
-Chaihuín
-
-Huiro
-
-San Carlos
-
-Bahía San Juan
-
-La Aguada
-
-Corral Bajo
-
-Corral
-
-Lamehuapi
-
-Hueicolla
-
-Mississipi
-
-Maiquillahue
-
-Mehuín
-
-Los Molinos
-
-El Piojo
-
-Niebla
-
-La Misión
-
-Bonifacio
-
-San Ignacio
-
-Isla del Rey
-
-Valdivia
-
-Chan-chan
-
-Osorno Manquemapu
-
-San Pedro
-
-Milagro
-
-Pucatrihue
-
-Cóndor
-
-Manzano
-
-Muicolpue
-
-Bahía Mansa
-
 Llanquihue Calbuco - La Vega
 
 Isla Tabón
@@ -729,6 +669,16 @@ Puerto Hualaihué
 Rolecha
 
 Huequi
+
+Trentelhué
+
+Quetén
+
+Chauchil
+
+Lleguimán
+
+Quiaca
 
 Redelhue
 
@@ -991,6 +941,82 @@ Barranco Amarillo
 Antártica Chilena Puerto Williams
 
 Puerto Toro
+
+XIV REGIÓN DE LOS RÍOS
+
+Provincia Caleta
+
+Valdivia Amargos
+
+Huape
+
+Mancera
+
+Chaihuín
+
+Huiro
+
+San Carlos
+
+Bahía San Juan
+
+La Aguada
+
+Corral Bajo
+
+Corral
+
+Lamehuapi
+
+Hueicolla
+
+Mississipi
+
+Maiquillahue
+
+Mehuín
+
+Los Molinos
+
+El Piojo
+
+Niebla
+
+La Misión
+
+Bonifacio
+
+San Ignacio
+
+Isla del Rey
+
+Valdivia
+
+Chan-chan
+
+Osorno Manquemapu
+
+San Pedro
+
+Milagro
+
+Pucatrihue
+
+Cóndor
+
+Manzano
+
+Muicolpue
+
+Bahía Mansa
+
+XV REGIÓN DE ARICA Y PARINACOTA
+
+Provincia Caleta
+
+Arica Arica
+
+Camarones
 
 Artículo dos. La Subsecretaría de Marina, previa consulta a la Dirección General del Territorio Marítimo y de Marina Mercante, a la Dirección de Obras Portuarias, del Ministerio de Obras Públicas y al Servicio Nacional de Pesca, del Ministerio de Economía, Fomento y Reconstrucción y a la respectiva Comisión Regional de Uso del Borde Costero, la que deberá, a su vez, consultar al Municipio involucrado, propondrá a la Comisión Nacional de Uso del Borde Costero del Litoral la incorporación o eliminación de caletas de pescadores artesanales de la presente nómina oficial.
 
