@@ -428,7 +428,7 @@ La Dirección de Obras Municipales indicará en cada caso las condiciones de seg
 
 #### Artículo 69º
 
-Prohíbase en el territorio de la comuna de Santiago la instalación temporal o permanente de circos que ofrezcan, con fines comerciales y/o benéficos, ya sea como atractivo principal o secundario, números artísticos, de destreza y/o simple exhibición de especies animales domésticos, domesticables, silvestres o salvajes en cautiverio, salvo iniciativa expresa del Alcalde, con acuerdo del Concejo de Santiago.
+Derogado
 
 #### Artículo 70º
 
