@@ -1,0 +1,3 @@
+Por resolución exenta N° 3.753, de 12 de noviembre de 2009 de esta Subsecretaría, modifícanse los numerales 4.- y 5.- de la resolución exenta N° 774 de 2009, de esta Subsecretaría, y sus modificaciones posteriores, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de Anchoveta y Sardinas en aguas interiores de la X Región de Los Lagos-Sur, 2009", en el sentido de reemplazar a la embarcación artesanal "Don Francisco" por la embarcación "Don Francisco I" del listado de naves autorizadas a operar en el marco de la presente resolución.
+
+Valparaíso, 12 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
