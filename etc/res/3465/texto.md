@@ -1,0 +1,5 @@
+Por resolución Nº 3.465 de 16 de octubre de 2009 de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 1.448 de 2009, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería del recurso Pejerrey en aguas interiores de la Región de Los Lagos", en el sentido de incorporar el siguiente inciso final:
+
+"Asimismo, se exceptúa a las embarcaciones participantes de la presente pesca de investigación del cumplimiento de la veda extractiva establecida mediante decreto exento Nº 1.410 de 2009, del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 16 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
