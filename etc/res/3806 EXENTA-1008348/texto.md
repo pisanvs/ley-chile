@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.806, de 13 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111341, presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA para instalar y operar un centro de cultivo ubicado en estero sin nombre, de Isla Salas, sector 2, XI Región.
+
+Valparaíso, 13 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
