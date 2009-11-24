@@ -60,7 +60,7 @@ El empleador se considerará trabajador independiente para los efectos prevision
 
 Para los efectos de la legislación laboral y de seguridad social, se entiende por empresa toda organización de medios personales, materiales e inmateriales, ordenados bajo una dirección, para el logro de fines económicos, sociales, culturales o benéficos, dotada de una individualidad legal determinada.
 
-Las infracciones a las normas que regulan las entidades a que se refiere este artículo se sancionarán de conformidad con lo dispuesto en el artículo 478 de este Código.
+Las infracciones a las normas que regulan las entidades a que se refiere este artículo se sancionarán de conformidad con lo dispuesto en el artículo 507 de este Código.
 
 #### Artículo 4
 
@@ -120,7 +120,11 @@ Si el trabajador se negare a firmar, el empleador enviará el contrato a la resp
 
 Si el empleador no hiciere uso del derecho que se le confiere en el inciso anterior, dentro del respectivo plazo que se indica en el inciso segundo, la falta de contrato escrito hará presumir legalmente que son estipulaciones del contrato las que declare el trabajador.
 
-El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
+El empleador, en todo caso, estará obligado a mantener en el lugar de trabajo, o en un lugar fijado con anterioridad y que deberá haber sido autorizado previamente por la Inspección del Trabajo, un ejemplar del contrato, y, en su caso, uno del finiquito en que conste el término de la relación laboral, firmado por las partes.
+
+Conforme a lo señalado en el inciso anterior, cuando exista la necesidad de centralizar la documentación laboral y previsional, en razón de tener organizado su giro económico en diversos establecimientos, sucursales o lugares de trabajo o por razones de administración, control, operatividad o seguridad o que sus trabajadores presten servicios en instalaciones de terceros, o lugares de difícil ubicación específica, o carentes de condiciones materiales en las cuales mantener adecuadamente la referida documentación, como labores agrícolas, mineras o forestales y de vigilancia entre otras, las empresas podrán solicitar a la Dirección del Trabajo autorización para centralizar los documentos antes señalados y ofrecer mantener copias digitalizadas de dichos documentos laborales y previsionales. Para estos efectos, el Director del Trabajo, mediante resolución fundada, fijará las condiciones y modalidades para dicha centralización. La Dirección del Trabajo deberá resolver la solicitud de que trata este inciso en un plazo de treinta días, no siendo exigible la obligación establecida en el inciso quinto, en tanto no se notifique dicha respuesta al peticionario.
+
+La autorización de centralización podrá extenderse a toda la documentación laboral y previsional que se deriva de las relaciones de trabajo, salvo en lo referido al registro control de asistencia a que se refiere el inciso primero del artículo 33 de este Código.
 
 #### Artículo 10
 
@@ -426,7 +430,7 @@ El descanso y las obligaciones y prohibiciones establecidas al respecto en los d
 
 Las empresas o faenas no exceptuadas del descanso dominical no podrán distribuir la jornada ordinaria de trabajo en forma que incluya el día domingo o festivo, salvo en caso de fuerza mayor.
 
-Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 477.
+Si la Dirección del Trabajo estableciere fundadamente que no hubo fuerza mayor, el empleador deberá pagar las horas como extraordinarias y se le aplicará una multa con arreglo a lo previsto en el artículo 506.
 
 #### Artículo 38
 
@@ -540,7 +544,9 @@ En los contratos que tengan una duración de treinta días o menos, se entender�
 
 Lo dispuesto en el inciso anterior no regirá respecto de aquellas prórrogas que, sumadas al período inicial del contrato, excedan de sesenta días.
 
-Las infracciones a lo dispuesto en el inciso tercero del presente artículo, serán sancionadas con una multa a beneficio fiscal de 1 a 20 Unidades Tributarias Mensuales más el incremento a que alude el inciso primero del artículo 477, en su caso.
+INCISO DEROGADO.
+
+> **Nota.** NOTA 1 El Nº 2 del artículo único de la Ley 20281, publicada el 21.07.2008, reemplaza la expresión "la remuneración" por "el sueldo",y omite cambiar la expresión "calculada" por "calculado", produciendo la inconsistencia en el presente texto.
 
 #### Artículo 45
 
@@ -828,7 +834,7 @@ El porcentaje de aprendices no podrá exceder del diez por ciento del total de t
 
 #### Artículo 86
 
-Las infracciones a las disposiciones del presente capítulo serán sancionadas con las multas a que se refiere el artículo 477.
+Las infracciones a las disposiciones del presente capítulo serán sancionadas con las multas a que se refiere el artículo 506.
 
 ## Capítulo II
 
@@ -1918,11 +1924,11 @@ Con todo, el empleador podrá convalidar el despido mediante el pago de las impo
 
 Sin perjuicio de lo anterior, el empleador deberá pagar al trabajador las remuneraciones y demás prestaciones consignadas en el contrato de trabajo durante el período comprendido entre la fecha del despido y la fecha de envío o entrega de la referida comunicación al trabajador. No será exigible esta obligación del empleador cuando el monto adeudado por concepto de imposiciones morosas no exceda de la cantidad menor entre el 10% del total de la deuda previsional o 2 unidades tributarias mensuales, y siempre que dicho monto sea pagado por el empleador dentro del plazo de 15 días hábiles contado desde la notificación de la respectiva demanda.
 
-Los errores u omisiones en que se incurra con ocasión de estas comunicaciones que no tengan relación con la obligación de pago íntegro de las imposiciones previsionales, no invalidarán la terminación del contrato, sin perjuicio de las sanciones administrativas que establece el artículo 477 de este Código.
+Los errores u omisiones en que se incurra con ocasión de estas comunicaciones que no tengan relación con la obligación de pago íntegro de las imposiciones previsionales, no invalidarán la terminación del contrato, sin perjuicio de las sanciones administrativas que establece el artículo 506 de este Código.
 
 La Inspección del Trabajo, de oficio o a petición de parte, estará especialmente facultada para exigir al empleador la acreditación del pago de cotizaciones previsionales al momento del despido, en los casos a que se refieren los incisos precedentes. Asimismo, estará facultada para exigir el pago de las cotizaciones devengadas durante el lapso a que se refiere el inciso séptimo. Las infracciones a este inciso se sancionarán con multa de 2 a 20 UTM.
 
-> **Nota.** El artículo 1º de la LEY 20194, publicada el 07.07.2007, interpreta el inciso séptimo de la presente norma, en el sentido que debe interpretarse y aplicarse de forma tal que el pago al cual está obligado el empleador moroso en el pago de las cotizaciones previsionales comprende la totalidad del período de tiempo que media entre la fecha del despido y la fecha de envío o entrega de la comunicación mediante la cual el empleador le comunica al trabajador que ha pagado las cotizaciones morosas, con las formalidades indicadas en el inciso sexto de dicha disposición legal, sin perjuicio del plazo de prescripción señalado en el inciso tercero del artículo 480, del mismo Código, el que sólo se considerará para los efectos de la interposición de la respectiva demanda.
+> **Nota.** El artículo 1º de la LEY 20194, publicada el 07.07.2007, interpreta el inciso séptimo de la presente norma, en el sentido que debe interpretarse y aplicarse de forma tal que el pago al cual está obligado el empleador moroso en el pago de las cotizaciones previsionales comprende la totalidad del período de tiempo que media entre la fecha del despido y la fecha de envío o entrega de la comunicación mediante la cual el empleador le comunica al trabajador que ha pagado las cotizaciones morosas, con las formalidades indicadas en el inciso sexto de dicha disposición legal, sin perjuicio del plazo de prescripción señalado en el inciso tercero del artículo 510, del mismo Código, el que sólo se considerará para los efectos de la interposición de la respectiva demanda.
 
 #### Artículo 163
 
@@ -2002,7 +2008,7 @@ El empleador estará obligado a pagar las indemnizaciones a que se refiere el in
 
 Sin perjuicio de lo establecido en el inciso anterior, las partes podrán acordar el fraccionamiento del pago de las indemnizaciones; en este caso, las cuotas deberán consignar los intereses y reajustes del período. Dicho pacto deberá ser ratificado ante la Inspección del Trabajo. El simple incumplimiento del pacto hará inmediatamente exigible el total de la deuda y será sancionado con multa administrativa.
 
-Si tales indemnizaciones no se pagaren al trabajador, éste podrá recurrir al mismo tribunal señalado en el artículo anterior, en el mismo plazo allí indicado, para que se ordene y cumpla dicho pago, pudiendo el juez en este caso incrementarlas hasta en un 150%, y
+Si tales indemnizaciones no se pagaren al trabajador, éste podrá recurrir al tribunal que corresponda, para que en procedimiento ejecutivo se cumpla dicho pago, pudiendo el juez en este caso incrementarlas hasta en un 150%, sirviendo para tal efecto de correspondiente título, la carta aviso a que alude el inciso cuarto del artículo 162, y
 
 b) Si el trabajador estima que la aplicación de esta causal es improcedente, y no ha hecho aceptación de ella del modo previsto en la letra anterior, podrá recurrir al tribunal mencionado en el artículo precedente, en los mismos términos y con el mismo objeto allí indicado. Si el Tribunal rechazare la reclamación del trabajador, éste sólo tendrá derecho a las indemnizaciones señaladas en los artículos 162, inciso cuarto, y 163 incisos primero o segundo, según corresponda, con el reajuste indicado en el artículo 173, sin intereses.
 
@@ -2554,7 +2560,9 @@ Ningún empleador podrá condicionar la contratación de trabajadoras, su perman
 
 #### Artículo 195
 
-Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él. El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
+Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
+
+El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
 
 Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 
@@ -2655,6 +2663,10 @@ El empleador designará la sala cuna a que se refiere el inciso anterior, de ent
 INCISO SUPRIMIDO
 
 El empleador pagará el valor de los pasajes por el transporte que deba emplearse para la ida y regreso del menor al respectivo establecimiento.
+
+El trabajador o trabajadora a quienes, por sentencia judicial, se le haya confiado el cuidado personal del menor de dos años, tendrá los derechos establecidos en este artículo si éstos ya fueran exigibles a su empleador.
+
+Lo anterior se aplicará, además, si la madre fallece, salvo que el padre haya sido privado del cuidado personal por sentencia judicial.
 
 #### Artículo 204
 
@@ -3440,29 +3452,21 @@ b) Los que por cualquier medio entorpezcan o impidan la libertad de opinión de 
 
 #### Artículo 292
 
-Las prácticas antisindicales o desleales serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción y la circunstancia de tratarse o no de una reiteración.
+- Las prácticas antisindicales o desleales serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción. En caso de tratarse de una reincidencia, se sancionará con multas de cien a ciento cincuenta unidades tributarias mensuales.
 
 Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
 
-El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales corresponderá a los Juzgados de Letras del Trabajo.
+El conocimiento y resolución de las infracciones por prácticas desleales o antisindicales se sustanciará conforme las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
 
-La Inspección del Trabajo deberá denunciar al tribunal competente, los hechos que estime constitutivos de prácticas antisindicales o desleales de los cuales tome conocimiento, y acompañará a dicha denuncia, el informe de fiscalización correspondiente. Los hechos constatados de que dé cuenta dicho informe, constituirán presunción legal de veracidad, con arreglo al inciso final del artículo 23 del decreto con fuerza de ley Nº 2, de 1967, del Ministerio del Trabajo y Previsión Social.
+La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas antisindicales o desleales, de los cuales tome conocimiento.
 
-Asimismo, la Inspección podrá hacerse parte en el juicio que por esta causa se entable.
+Si la práctica antisindical hubiere implicado el despido de un trabajador respecto de quien se haya acreditado que se encuentra amparado por el fuero establecido en los artículos 221, 224, 229, 238, 243 y 309, el juez, en su primera resolución deberá disponer, de oficio o a petición de parte, la inmediata reincorporación del trabajador a sus labores y el pago de las remuneraciones y demás prestaciones derivadas de la relación laboral durante el período comprendido entre la fecha del despido y aquélla en que se materialice la reincorporación, todo ello, bajo apercibimiento de multa de cincuenta a cien unidades tributarias mensuales.
 
-Sin perjuicio de lo anterior, cualquier interesado podrá denunciar conductas antisindicales o desleales y hacerse parte en el proceso. Las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado.
+Para los efectos de dar cumplimiento a lo dispuesto en el inciso precedente, el tribunal señalará en la resolución que decrete la reincorporación el día y la hora en que ésta se deberá cumplir y el funcionario que la practicará, pudiendo encargar dicha diligencia a un funcionario de la Inspección del Trabajo designado por ésta. Asimismo, dispondrá que se acredite dentro de los cinco días siguientes a la reincorporación el pago de las remuneraciones y demás prestaciones adeudadas, aplicándose a este respecto la forma de establecer las remuneraciones a que se refiere el artículo 71.
 
-Recibida la denuncia, el juez citará a declarar al denunciado, ordenándole acompañar todos los antecedentes que estime necesarios para resolver. Citará también a la misma audiencia al denunciante y a los presuntamente afectados, para que expongan lo que estimen conveniente acerca de los hechos denunciados.
+En caso de negativa del empleador a dar cumplimiento cabal a la orden de reincorporación o ante una nueva separación o no pago oportuno y debido de las remuneraciones y demás prestaciones laborales, el tribunal, de oficio, hará efectivos los apercibimientos con que se hubiese decretado la medida de reincorporación, sin perjuicio de sustituir o repetir el apremio hasta obtener el cumplimiento íntegro de la medida decretada.
 
-La citación se efectuará por carta certificada, dirigida a los domicilios que figuren en el informe de fiscalización y se entenderá practicada en el plazo a que se refiere el artículo 478 bis.
-
-La referida audiencia deberá realizarse en una fecha no anterior al quinto ni posterior al décimo día siguiente a la fecha de la citación. Con el mérito del informe de fiscalización, de lo expuesto por los citados y de las demás pruebas acompañadas al proceso, las que apreciará en conciencia, el juez dictará sentencia en la misma audiencia o dentro de tercero día.
-
-Si la práctica antisindical hubiere implicado el despido de un trabajador respecto de quien se haya acreditado que se encuentra amparado por el fuero establecido en los artículos 221, 224, 229, 238, 243 y 309, el Juez, en su primera resolución dispondrá, de oficio o a petición de parte, la inmediata reincorporación del trabajador a sus labores, sin perjuicio de lo dispuesto en el inciso segundo del artículo 174, en lo pertinente.
-
-Si la sentencia da por establecida la práctica antisindical o desleal, además, dispondrá que se subsanen o enmienden los actos que constituyen dicha práctica; el pago de la multa a que se refiere este artículo, fijando su monto, y que se reincorpore en forma inmediata a los trabajadores sujetos a fuero laboral separados de sus funciones, si esto no se hubiere efectuado antes.
-
-Copia de esta sentencia, deberá remitirse a la Dirección del Trabajo, para su registro.
+Contra estas resoluciones no procederá recurso alguno.
 
 #### Artículo 293
 
@@ -3470,15 +3474,9 @@ Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad pen
 
 #### Artículo 294
 
-Si una o más de las prácticas antisindicales o desleales establecidas en este Libro o en el Título VIII del Libro IV, han implicado el despido de trabajadores no amparados por fuero laboral, éste no producirá efecto alguno.
+Si una o más de las prácticas antisindicales o desleales establecidas en este Libro o en el Título VIII, del Libro IV, han implicado el despido de trabajadores no amparados por fuero laboral, éste no producirá efecto alguno y se aplicará lo dispuesto en el artículo 487, con excepción de sus incisos tercero y cuarto.
 
-El trabajador deberá intentar la acción correspondiente dentro del plazo a que se refiere el artículo 168.
-
-El trabajador podrá optar entre la reincorporación decretada por el tribunal o el derecho a la indemnización establecida en el artículo 163, con el correspondiente recargo y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a tres meses ni superior a once meses de la última remuneración mensual.
-
-En caso de optar por la indemnización a que se refiere el inciso anterior, ésta será fijada incidentalmente por el tribunal que conozca de la causa.
-
-El juez de la causa, en estos procesos, deberá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 292.
+El trabajador podrá optar entre la reincorporación decretada por el tribunal o el derecho a la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, con el correspondiente recargo de conformidad a lo dispuesto en el artículo 168 y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual.
 
 #### Artículo 294 bis
 
@@ -3644,7 +3642,7 @@ a) Deberá tratarse de grupos de ocho o más trabajadores.
 
 b) Los trabajadores serán representados por una comisión negociadora, de no menos de tres integrantes ni más de cinco, elegida por los involucrados en votación secreta celebrada ante un Inspector del Trabajo.
 
-c) El empleador estará obligado a dar respuesta a la presentación hecha por los trabajadores dentro del plazo de 15 días. Si así no lo hiciere, se aplicará la multa prevista en el artículo 477.
+c) El empleador estará obligado a dar respuesta a la presentación hecha por los trabajadores dentro del plazo de 15 días. Si así no lo hiciere, se aplicará la multa prevista en el artículo 506.
 
 d) La aprobación de la propuesta final del empleador deberá ser prestada por los trabajadores involucrados en votación secreta celebrada ante un inspector del Trabajo.
 
@@ -4018,7 +4016,7 @@ Extinguido el contrato colectivo, sus cláusulas subsistirán como integrantes d
 
 #### Artículo 349
 
-El original de dicho contrato colectivo, así como las copias auténticas de este instrumento autorizadas por la Inspección del Trabajo, tendrán mérito ejecutivo y los Juzgados de Letras del Trabajo conocerán de estas ejecuciones, conforme al procedimiento señalado en el artículo 461 de este Código.
+El original de dicho contrato colectivo, así como las copias auténticas de este instrumento autorizadas por la Inspección del Trabajo, tendrán mérito ejecutivo y los Juzgados de Letras del Trabajo conocerán de estas ejecuciones, conforme al procedimiento señalado en el Párrafo 4°, del Capítulo II, del Título I, del Libro V, de este Código.
 
 No obstante lo dispuesto en el inciso precedente, el incumplimiento de las estipulaciones contenidas en contratos y convenios colectivos y fallos arbitrales, será sancionado con multa a beneficio fiscal de hasta diez unidades tributarias mensuales. La aplicación, cobro y reclamo de esta multa se efectuarán con arreglo a las disposiciones del Título II del Libro V de este Código.
 
@@ -4468,17 +4466,21 @@ d) Los miembros de la comisión negociadora que divulguen a terceros ajenos a é
 
 #### Artículo 389
 
-Las infracciones señaladas en los artículos precedentes serán sancionadas con multas de una unidad tributaria mensual a diez unidades tributarias anuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción y la circunstancia de tratarse o no de una reiteración.
+- Las infracciones señaladas en los artículos precedentes serán sancionadas con multas de diez a ciento cincuenta unidades tributarias mensuales, teniéndose en cuenta para determinar su cuantía la gravedad de la infracción. En caso de tratarse de una reincidencia, se sancionará con multas de cien a ciento cincuenta unidades tributarias mensuales.
 
 Las multas a que se refiere el inciso anterior serán a beneficio del Servicio Nacional de Capacitación y Empleo.
 
-El conocimiento y resolución de las infracciones por prácticas desleales corresponderá a los Juzgados de Letras del Trabajo con sujeción a las normas establecidas en el artículo 292, quedando facultadas las partes interesadas para formular la respectiva denuncia directamente ante el Tribunal. Las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado.
+El conocimiento y resolución de las infracciones por prácticas desleales en la negociación colectiva se sustanciará conforme a las normas establecidas en el Párrafo 6º, del Capítulo II, del Título I, del Libro V, del presente Código.
 
-El juzgado respectivo ordenará el cese de la conducta o medida constitutiva de práctica desleal y podrá reiterar las multas hasta el cese de la misma.
+La Inspección del Trabajo deberá denunciar al tribunal competente los hechos que estime constitutivos de prácticas desleales en la negociación colectiva, de los cuales tome conocimiento.
 
 #### Artículo 390
 
 Lo dispuesto en el artículo anterior es sin perjuicio de la responsabilidad penal en los casos en que las conductas sancionadas como prácticas desleales configuren faltas, simples delitos o crímenes.
+
+#### Artículo 390 bis
+
+La Dirección del Trabajo deberá llevar un registro de las sentencias condenatorias por prácticas desleales en la negociación colectiva, debiendo publicar semestralmente la nómina de empresas y organizaciones sindicales infractoras. Para este efecto, el tribunal enviará a la Dirección del Trabajo copia de los respectivos fallos.
 
 ## Título IX
 
@@ -4794,7 +4796,7 @@ a) las cuestiones suscitadas entre empleadores y trabajadores por aplicación de
 
 b) las cuestiones derivadas de la aplicación de las normas sobre organización sindical y negociación colectiva que la ley entrega al conocimiento de los juzgados de letras con competencia en materia del trabajo;
 
-c) las cuestiones y reclamaciones derivadas de la aplicación o interpretación de las normas sobre previsión o seguridad social, cualquiera que fuere su naturaleza, época u origen, y que fueren planteadas por los trabajadores o empleadores referidos en la letra a);
+c) las cuestiones derivadas de la aplicación de las normas de previsión o de seguridad social, planteadas por pensionados, trabajadores activos o empleadores, salvo en lo referido a la revisión de las resoluciones sobre declaración de invalidez o del pronunciamiento sobre otorgamiento de licencias médicas;
 
 d) los juicios en que se demande el cumplimiento de obligaciones que emanen de títulos a los cuales las leyes laborales y de previsión o seguridad social otorguen mérito ejecutivo;
 
@@ -4828,111 +4830,67 @@ Las referencias que las leyes o reglamentos hagan a las Cortes del Trabajo o a l
 
 ## Capítulo II
 
-DEL PROCEDIMIENTO
+De los principios formativos del proceso y del procedimiento en juicio del trabajo
 
-### Párrafo 1°
+### Párrafo 1º
 
-Reglas Comunes
+De los principios formativos del proceso
 
 #### Artículo 425
 
-Las causas laborales se substanciarán de acuerdo con el procedimiento que establece este título, el que será aplicable en todas aquellas cuestiones, trámites o actuaciones que no se encuentren sometidas a una regla especial diversa, cualquiera que sea su naturaleza.
+- Los procedimientos del trabajo serán orales, públicos y concentrados. Primarán en ellos los principios de la inmediación, impulso procesal de oficio, celeridad, buena fe, bilateralidad de la audiencia y gratuidad.
 
-Las causas laborales en que se invoque una acusación de acoso sexual, deberán ser mantenidas en custodia por el secretario del tribunal, y sólo tendrán acceso a ellas las partes y sus apoderados judiciales.
+Todas las actuaciones procesales serán orales, salvo las excepciones expresamente contenidas en esta ley.
+
+Las actuaciones realizadas oralmente, por o ante el juez de la causa, serán registradas por cualquier medio apto para producir fe y que permita garantizar la fidelidad, conservación y reproducción de su contenido. Se considerarán válidos, para estos efectos, la grabación en medios de reproducción fonográfica, audiovisual o electrónica. La audiencia deberá ser registrada íntegramente, como asimismo todas las resoluciones, incluyendo la sentencia que dicte el juez fuera de ella.
 
 #### Artículo 426
 
-Sólo a falta de norma expresa establecida en este texto o en leyes especiales, se aplicarán supletoriamente las disposiciones de los Libros I y II del Código de Procedimiento Civil.
+En las citaciones a las audiencias, se hará constar que se celebrarán con las partes que asistan, afectándole a la que no concurra todas las resoluciones que se dicten en ella, sin necesidad de ulterior notificación.
+
+Las partes podrán concurrir a estas audiencias por intermedio de mandatario, el que se entenderá de pleno derecho facultado para transigir, sin perjuicio de la asistencia de sus apoderados y abogados.
+
+Iniciada la audiencia, ésta no podrá suspenderse. Excepcionalmente, y sólo en el evento de caso fortuito o fuerza mayor, el juez podrá, mediante resolución fundada, suspender la audiencia. En el mismo acto deberá fijar nuevo día y hora para su realización.
+
+El tribunal deberá habilitar horarios especiales en caso de que el desarrollo de la audiencia exceda al horario normal de su funcionamiento.
 
 #### Artículo 427
 
-Las partes deberán comparecer con patrocinio de abogado y representadas por persona legalmente habilitada para actuar en juicio, todo ello conforme a lo dispuesto en la ley N.° 18.120, sobre comparecencia en juicio.
+Las audiencias se desarrollarán en su totalidad ante el juez de la causa, el que las presidirá y no podrá delegar su ministerio. El incumplimiento de este deber será sancionado con la nulidad insaneable de las actuaciones y de la audiencia, la que deberá declarar el juez de oficio o a petición de parte.
 
-Los Consultorios Jurídicos de las Corporaciones de Asistencia Judicial, o los abogados de turno, en su caso, representarán y asesorarán gratuitamente a los trabajadores que tengan derecho al privilegio de pobreza.
-
-Si el trabajador obtuviere en el juicio, las costas personales a cuyo pago fuere condenada la contraparte pertenecerán a la Corporación de Asistencia Judicial o al abogado de turno que lo hubiere defendido.
+Sin embargo, en los juzgados de letras que cuenten con un juez y un secretario, y sólo cuando la Corte de Apelaciones respectiva no ejerza la atribución que le confiere el artículo 47 del Código Orgánico de Tribunales, el juez, cuando hubiere retardo en el despacho de los asuntos sometidos al conocimiento del tribunal o cuando el mejor servicio judicial así lo exigiere, podrá autorizar al secretario abogado, para que, en calidad de suplente, asuma en todo el curso del juicio. En este caso, se entenderá para todos los efectos legales que el juez falta en su despacho, y sólo aquél podrá presidir la audiencia, dictar el fallo y llevar a cabo todas las actuaciones que correspondan, aplicándose a su respecto lo señalado en el inciso primero.
 
 #### Artículo 428
 
-En las causas laborales, los Juzgados de Letras del Trabajo de Santiago podrán decretar diligencias para cumplirse directamente en las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, San Bernardo, Calera de Tango, Puente Alto, San José de Maipo y Pirque sin necesidad de exhorto.
-
-Lo dispuesto en el inciso anterior, se aplicará también a los juzgados de San Miguel y a los juzgados con competencia en materia laboral de las comunas de San Bernardo y Puente Alto, respecto de actuaciones que deban practicarse en Santiago o en cualquiera de ellos.
-
-La facultad establecida en el inciso primero regirá asimismo, para los Juzgados de La Serena y Coquimbo; de Concepción y Talcahuano; de Osorno y Río Negro, y de Puerto Montt, Puerto Varas y Calbuco.
+Los actos procesales serán públicos y deberán realizarse con la celeridad necesaria, procurando concentrar en un solo acto aquellas diligencias en que esto sea posible.
 
 #### Artículo 429
 
-Los plazos que se establecen en este Título son fatales, cualesquiera sea la forma en que se expresen, salvo aquellos establecidos para la realización de actuaciones propias del tribunal. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar el acto se extingue por el solo ministerio de la ley al vencimiento del plazo. En estos casos el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
+El tribunal, una vez reclamada su intervención en forma legal, actuará de oficio. Decretará las pruebas que estime necesarias, aun cuando no las hayan ofrecido las partes y rechazará mediante resolución fundada aquellas que considere inconducentes. De esta resolución se podrá deducir recurso de reposición en la misma audiencia. Adoptará, asimismo, las medidas tendientes a evitar la paralización del proceso y su prolongación indebida y, en consecuencia, no será aplicable el abandono del procedimiento.
 
-Los términos de días que establece este título, se entenderán suspendidos durante los días feriados salvo que el tribunal, por motivos justificados y en resolución fundada, haya dispuesto expresamente lo contrario.
+El tribunal corregirá de oficio los errores que observe en la tramitación del juicio y adoptará las medidas que tiendan a evitar la nulidad del procedimiento. La nulidad procesal sólo podrá ser decretada si el vicio hubiese ocasionado perjuicio al litigante que la reclama y si no fuese susceptible de ser subsanado por otro medio. En el caso previsto en el artículo 427, el tribunal no podrá excusarse de decretar la nulidad.
 
-Durante el feriado de vacaciones, se aplicará a los asuntos laborales lo dispuesto en el artículo 314 del Código Orgánico de Tribunales.
+No podrá solicitar la declaración de nulidad la parte que ha originado el vicio o concurrido a su materialización.
 
 #### Artículo 430
 
-La primera notificación al demandado deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
+Los actos procesales deberán ejecutarse de buena fe, facultándose al tribunal para adoptar las medidas necesarias para impedir el fraude, la colusión, el abuso del derecho y las actuaciones dilatorias.
 
-Esta notificación se practicará por un receptor o por un empleado del respectivo tribunal, designado para ello por el juez, de oficio o a petición de parte.
+El juez podrá rechazar de plano aquellas actuaciones que considere dilatorias.
 
-En los lugares y recintos de libre acceso público, la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia al notificado. En los juicios ejecutivos, no podrá efectuarse el requerimiento de pago en público y, de haberse notificado la demanda en un lugar o recinto de libre acceso público, se estará a lo establecido en el N.° 1.° del artículo 443 del Código de Procedimiento Civil.
-
-Además, la notificación podrá hacerse en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado o en el lugar donde éste ordinariamente ejerce su industria, profesión o empleo, o en cualquier recinto privado en que éste se encuentre y al cual se permita el libre acceso del ministro de fe.
-
-Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente. Los plazos se aumentarán en la forma establecida en el artículo 259 del Código de Procedimiento Civil.
-
-Igualmente, son lugares hábiles para practicar la notificación el oficio del secretario, la casa que sirva para despacho del tribunal y la oficina o despacho del ministro de fe que practique la notificación. Los jueces no podrán, sin embargo, ser notificados en el local en que desempeñan sus funciones.
+Se entenderá por actuaciones dilatorias todas aquellas que con el sólo objeto de demorar la prosecución del juicio sean intentadas por alguna de las partes. De la resolución que declare como tal alguna actuación, la parte afectada podrá reponer para que sea resuelta en la misma audiencia.
 
 #### Artículo 431
 
-Si buscada en dos días distintos en su habitación, o en el lugar donde habitualmente ejerce su industria, profesión o empleo, no es habida la persona a quien debe notificarse, se acreditará que ella se encuentra en el lugar del juicio y cuál es su morada o lugar donde ejerce su industria, profesión o empleo, bastando para comprobar estas circunstancias la debida certificación del ministro de fe.
+En las causas laborales, toda actuación, trámite o diligencia del juicio, realizada por funcionarios del tribunal será gratuita para las partes. El encargado de la gestión administrativa del tribunal será responsable de la estricta observancia tanto de esta gratuidad como del oportuno cumplimiento de las diligencias.
 
-Establecidos ambos hechos, el tribunal ordenará que la notificación se haga entregando las copias a que se refiere el inciso primero del artículo 430 a cualquiera persona adulta que se encuentre en la morada o en el lugar donde la persona que se va a notificar ejerce su industria, profesión o empleo. Si nadie hay allí, o si por cualquier otra causa no es posible entregar dichas copias a las personas que se encuentren en esos lugares, se fijará en la puerta un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce en ella y de las resoluciones que se notifican. En caso que la morada o el lugar donde pernocta o el lugar donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio o recinto, dejándose testimonio expreso de esta circunstancia. El ministro de fe dará aviso de esta notificación, a ambas partes, el mismo día en que se efectúe o a más tardar el día hábil siguiente, dirigiéndoles carta certificada.
+Las partes que gocen de privilegio de pobreza tendrán derecho a defensa letrada gratuita por parte de las respectivas Corporaciones de Asistencia Judicial o, en su defecto, por un abogado de turno, o del sistema de defensa gratuita que disponga la ley. Asimismo, tendrán derecho, a que todas las actuaciones en que deban intervenir auxiliares de la administración de justicia se cumplan oportuna y gratuitamente.
 
-Lo dispuesto en este artículo no se aplicará al caso de notificación contemplado en el artículo 432.
+Las defensas orales sólo podrán ser efectuadas por abogados habilitados.
 
-#### Artículo 433
+### Párrafo 2º
 
-Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar, o que por su número dificulten considerablemente la práctica de la diligencia, el juez podrá, con conocimiento de causa, autorizar que la notificación se efectúe por medio de un aviso publicado en el Diario Oficial conforme a un extracto redactado por el secretario del tribunal, que contendrá un resumen de la demanda y copia íntegra de la resolución recaída en ella. El aviso se insertará en los números del Diario Oficial correspondientes a los días primero o quince de cualquier mes o al día siguiente hábil si dicho diario no se publicare en las fechas indicadas.
-
-El mismo aviso se publicará, además, en un diario o periódico del lugar donde se sigue la causa o de la cabecera de la provincia si allí no los hay.
-
-Si la notificación a que se refiere este artículo fuere solicitada por el o los trabajadores, la publicación en el Diario Oficial será gratuita.
-
-#### Artículo 434
-
-La sentencia definitiva de primera instancia, la resolución que recibe la causa a prueba y las resoluciones que ordenen la comparecencia personal de las partes se notificarán por cédula.
-
-Para estos efectos, todo litigante deberá designar un lugar conocido dentro de los límites urbanos de la ciudad en que funcione el tribunal respectivo y esta designación se considerará subsistente mientras no haga otra la parte interesada.
-
-La notificación por cédula se practicará por los funcionarios a que se refiere el inciso segundo del artículo 430, dejándose copia íntegra de la resolución y de los datos necesarios para su acertada inteligencia.
-
-#### Artículo 435
-
-Las demás resoluciones se notificarán por el estado diario, en la forma que establece el artículo 50 del Código de Procedimiento Civil. En este estado deberá dejarse constancia del hecho de haberse dictado sentencia.
-
-Esta forma de notificación se hará extensiva a las resoluciones a que se refiere el inciso primero del artículo anterior, respecto de las partes que no hayan hecho la designación a que se refiere el inciso segundo del mismo artículo y esta notificación se producirá sin necesidad de petición de parte y sin previa orden del tribunal.
-
-Si la primera resolución hubiese sido notificada por aviso y los notificados no hubieren comparecido en el juicio, las demás resoluciones que se dicten se notificarán por el estado diario con excepción de la sentencia definitiva, que deberá notificarse conforme a lo dispuesto en el artículo 433.
-
-El tribunal, en casos calificados, podrá disponer que cualquiera resolución sea notificada personalmente o por cédula.
-
-#### Artículo 436
-
-Las notificaciones que se practiquen por los receptores o por un empleado del tribunal serán gratuitas para las partes que gocen del privilegio de pobreza.
-
-Asimismo, serán gratuitas para aquellos trabajadores cuyos ingresos mensuales sean inferiores a cinco ingresos mínimos mensuales.
-
-DEROGADO
-
-> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
-
-#### Artículo 437
-
-El juez podrá corregir de oficio los errores que observe en la tramitación del proceso. Podrá, asimismo, tomar las medidas que tiendan a evitar la nulidad de los actos de procedimiento.
-
-### Párrafo 2°
-
-Del procedimiento de aplicación general
+Reglas Comunes
 
 #### Artículo 432
 
@@ -4940,23 +4898,53 @@ En todo lo no regulado en este Código o en leyes especiales, serán aplicables 
 
 No obstante, respecto de los procedimientos especiales establecidos en los Párrafos 6° y 7° de este Capítulo II, se aplicarán supletoriamente, en primer lugar, las normas del procedimiento de aplicación general contenidas en su Párrafo 3°.
 
+#### Artículo 433
+
+Siempre que alguna de las partes lo solicite para sí, y el tribunal acceda a ello, las actuaciones procesales, a excepción de las audiencias, podrán realizarse por medios electrónicos que permitan su adecuada recepción, registro y control. En este caso el administrador del tribunal deberá dejar constancia escrita de la forma en que se realizó dicha actuación.
+
+#### Artículo 434
+
+Las partes deberán comparecer con patrocinio de abogado y representadas por persona legalmente habilitada para actuar en juicio.
+
+El mandato judicial y el patrocinio constituido en el Tribunal de Letras del Trabajo, se entenderá constituido para toda la prosecución del juicio en el Tribunal de Cobranza Laboral y Previsional, a menos que exista constancia en contrario.
+
+#### Artículo 435
+
+Los plazos que se establecen en este Libro son fatales, salvo aquellos establecidos para la realización de actuaciones propias del tribunal, cualquiera que sea la forma en que se expresen. En consecuencia, la posibilidad de ejercer un derecho o la oportunidad para ejecutar un acto se extingue, por el solo ministerio de la ley, con el vencimiento del plazo.
+
+En estos casos, el tribunal, de oficio o a petición de parte, proveerá lo que convenga para la prosecución del juicio, sin necesidad de certificado previo.
+
+Los términos de días que establece este Título se entenderán suspendidos durante los días feriados. El feriado de vacaciones a que se refiere el artículo 313 del Código Orgánico de Tribunales no regirá respecto de las causas laborales.
+
+#### Artículo 436
+
+La primera notificación a la parte demandada deberá hacerse personalmente, entregándosele copia íntegra de la resolución y de la solicitud en que haya recaído. Al demandante se le notificará por el estado diario.
+
+Esta notificación se practicará por el funcionario que el juez determine, atendiendo a las circunstancias del lugar en que funcione el tribunal y restantes consideraciones que miren a la eficacia de la actuación. La parte interesada podrá siempre encargar a su costa la práctica de la notificación a un receptor judicial.
+
+En los lugares y recintos de libre acceso público la notificación personal se podrá efectuar en cualquier día y a cualquier hora, procurando causar la menor molestia al notificado.
+
+Además, la notificación personal se podrá efectuar en cualquier día, entre las seis y las veintidós horas, en la morada o lugar donde pernocta el notificado, en el lugar donde ordinariamente ejerce su industria, profesión o empleo, o en el recinto del tribunal.
+
+El juez podrá, por motivos fundados, ordenar que la notificación se practique en horas diferentes a las indicadas en el inciso anterior.
+
+Si la notificación se realizare en día inhábil, los plazos comenzarán a correr desde las cero horas del día hábil inmediatamente siguiente.
+
+#### Artículo 437
+
+En los casos en que no resulte posible practicar la notificación personal, por no ser habida la persona a quien debe notificarse y siempre que el ministro de fe encargado de la diligencia establezca cuál es su habitación o el lugar donde habitualmente ejerce su industria, profesión o empleo y, tratándose de persona natural, que se encuentra en el lugar del juicio, de lo que dejará constancia, se procederá a su notificación en el mismo acto y sin necesidad de nueva orden del tribunal, entregándose las copias a que se refiere el inciso primero del artículo precedente a cualquier persona adulta que se encuentre en la morada o en el lugar donde la persona a quien debe notificarse habitualmente ejerce su industria, profesión o empleo. Si, por cualquier causa, ello no fuere posible, la notificación se hará fijando, en lugar visible, un aviso que dé noticia de la demanda, con especificación exacta de las partes, materia de la causa, juez que conoce de ella y resoluciones que se notifican. En caso que la habitación o el lugar en que pernocta la persona a quien debe notificarse, o aquel donde habitualmente ejerce su industria, profesión o empleo, se encuentre en un edificio o recinto al que no se permite libre acceso, el aviso y las copias se entregarán al portero o encargado del edificio, dejándose testimonio expreso de esta circunstancia.
+
+El ministro de fe dará aviso de esta notificación a ambas partes, el mismo día en que se efectúe o a más tardar el día hábil siguiente, dirigiéndoles carta certificada. La omisión en el envío de la carta no invalidará la notificación, pero hará responsable al infractor de los daños y perjuicios que se originen y el tribunal, previa audiencia del afectado, deberá imponerle alguna de las medidas que se señalan en los números 2, 3 y 4 del artículo 532 del Código Orgánico de Tribunales.
+
 #### Artículo 438
 
 Cuando se notifique la demanda a un trabajador en el lugar donde ordinariamente preste sus servicios, deberá efectuarse siempre en persona, si dicho lugar corresponde a la empresa, establecimiento o faena que dependa del empleador con el cual litigue.
 
 #### Artículo 439
 
-La demanda se interpondrá por escrito y deberá contener:
+Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar o que por su número dificulten considerablemente la práctica de la diligencia, el juez podrá disponer que la notificación se efectúe mediante la publicación de un aviso o por cualquier medio idóneo que garantice el derecho a la defensa y los principios de igualdad y de bilateralidad de la audiencia.
 
-1.- la designación del tribunal ante quien se entabla;
-
-2.- el nombre, apellidos, domicilio y profesión u oficio del demandante y de las personas que lo representen, y naturaleza de la representación;
-
-3.- el nombre, apellidos, domicilio y profesión u oficio del demandado;
-
-4.- la exposición clara de los hechos y fundamentos de derecho en que se apoya, y
-
-5.- la enunciación precisa y clara de las peticiones que se someten a la resolución del tribunal.
+Si se dispone que la notificación se practique por aviso, éste se publicará por una sola vez en el Diario Oficial u otro diario de circulación nacional o regional, conforme a un extracto emanado del tribunal, el que contendrá un resumen de la demanda y copia íntegra de la resolución recaída en ella. Si el aviso se publicara en el Diario Oficial, ello será gratuito para los trabajadores.
 
 #### Artículo 439 bis
 
@@ -4970,127 +4958,43 @@ Con todo, si en cualquier región del país la cercanía y conectividad de las c
 
 #### Artículo 440
 
-Admitida la demanda a tramitación, se conferirá traslado de ella al demandado para que la conteste por escrito.
+Las resoluciones en que se ordene la comparecencia personal de las partes, que no hayan sido expedidas en el curso de una audiencia, se notificarán por carta certificada.
 
-El término para contestarla será de diez días fatales, el que se aumentará con la tabla de emplazamiento a que se refiere el artículo 259 del Código de Procedimiento Civil.
+Las notificaciones por carta certificada se entenderán practicadas al quinto día siguiente a la fecha de entrega de la carta en la oficina de correos, de lo que se dejará constancia.
 
-La contestación a la demanda deberá contener:
+Para los efectos de practicar las notificaciones por carta certificada a que hubiere lugar, todo litigante deberá designar, en su primera actuación, un lugar conocido dentro de los límites urbanos de la ciudad en que funcione el tribunal respectivo y esta designación se considerará subsistente mientras no haga otra la parte interesada.
 
-1.- la designación del tribunal ante quien se entabla;
-
-2.- el nombre, apellidos, domicilio, profesión u oficio del demandado;
-
-3.- todas las excepciones dilatorias y perentorias y los hechos en que se fundan. Con posterioridad no podrá hacerse valer excepción alguna, y
-
-4.- la enunciación precisa y clara, consignada en la conclusión de las peticiones que se sometan a la resolución del tribunal.
-
-En el escrito de contestación el demandado podrá deducir reconvención cuando el tribunal sea competente para conocer de ella como demanda y siempre que tenga por objeto enervar la acción deducida o esté íntimamente ligada con ella. En caso contrario, no se admitirá a tramitación. La reconvención se sujetará a las normas señaladas en el artículo 439 y se tramitará conjuntamente con la demanda.
-
-Todas las excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva, pero el tribunal podrá acoger las dilatorias de incompetencia, de falta de capacidad o de personería del demandante, o aquella en que se reclame el procedimiento siempre que aparezcan manifiestamente admisibles, una vez contestado el traslado respectivo o vencido el término que establece el artículo 441.
-
-Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir traslado de la demanda, deberá ordenar la notificación de ella a la o las instituciones de seguridad social a las que corresponda percibir la respectiva cotización.
-
-Dicha notificación se efectuará por el ministro de fe del tribunal a través de carta certificada, conteniendo copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas y equivaldrá al reclamo a que hace referencia el artículo 4º de la ley Nº 17.322, debiendo aquéllas hacerse parte en la causa en los plazos y bajo las condiciones a que se refieren dicho precepto y el artículo 4º bis del mismo cuerpo legal.
-
-Estas notificaciones se entenderán practicadas desde el tercer día a aquél en que sea expedida la carta, debiendo el ministro de fe dejar constancia en el expediente de la fecha del envío.
-
-> **Nota.** El Art. 1º Transitorio de la LEY 20023, publicada el 31.05.2005, dispuso que la modificación introducida al presente artículo regirá a contar del primer día del tercer mes siguiente al de inicio de funcionamiento de los juzgados de cobranza laboral y previsional, la que se inició 9 meses después de la publicación de la LEY 20022, efectuada el 30 de mayo de 2005, y se aplicará a las demandas que se interpongan a contar de dicha fecha.
+Respecto de las partes que no hayan efectuado la designación a que se refiere el inciso precedente, las resoluciones que debieron notificarse por carta certificada lo serán por el estado diario, sin necesidad de petición de parte y sin previa orden del tribunal.
 
 #### Artículo 441
 
-Deducida reconvención o interpuestas excepciones dilatorias, el tribunal dará el traslado respectivo. El demandante tendrá cinco días para contestar unas y otras. La contestación a la reconvención deberá cumplir con lo establecido en el artículo 440.
+Las restantes resoluciones se entenderán notificadas a las partes desde que se incluyan en el estado diario.
 
 #### Artículo 442
 
-Contestada que sea la demanda, de no interponerse reconvención o excepciones dilatorias, o evacuado el traslado conferido, de haberse interpuesto éstas, o vencido el término legal para ello sin haberlas contestado, el tribunal recibirá de inmediato la causa a prueba y fijará los puntos sobre los cuales ésta deberá recaer.
-
-De no haber hechos sustanciales, pertinentes y controvertidos, citará a las partes a oír sentencia y, además, a una audiencia de conciliación, en el plazo y conforme a las disposiciones del inciso siguiente.
-
-En la misma resolución y sin más trámites, citará a las partes a una audiencia de conciliación y prueba para un día no anterior al octavo ni posterior al décimo quinto día siguientes a la fecha de notificación de la resolución. Si el tribunal lo estimare conveniente, podrá disponer la comparecencia personal de las partes a esta audiencia, las que podrán hacerlo en dicha forma o bien mediante mandatario especialmente facultado para transigir, sin perjuicio de la asistencia de sus apoderados y abogados.
-
-La resolución a que se refiere este artículo se notificará por cédula y, en su contra, sólo procederá el recurso de reposición, el que deberá interponerse dentro de tercero día de notificada que sea ésta, y fallarse antes de la celebración del comparendo.
+Salvo la primera notificación al demandado, las restantes podrán ser efectuadas, a petición de la parte interesada, en forma electrónica o por cualquier otro medio que ésta señale. En este caso, se dejará debida constancia de haberse practicado la notificación en la forma solicitada.
 
 #### Artículo 443
 
-La parte que desee rendir prueba testimonial deberá presentar, dentro de los tres días siguientes a la notificación de la resolución que recibe la causa a prueba, una lista que expresará el nombre y apellidos, profesión u oficio y domicilio de los testigos.
-
-Asimismo, y sólo en el mismo escrito, podrá solicitar la citación de todos o algunos de los testigos. El tribunal, por una sola vez, decretará la citación solicitada. Esta se hará, bajo apercibimiento de arresto, mediante carta certificada enviada al domicilio indicado en la respectiva lista de testigos. La citación se entenderá practicada al tercer día hábil siguiente a la fecha de entrega de la carta a la oficina de correos, de lo cual el secretario dejará constancia en el expediente. La parte podrá efectuar la notificación por cédula, a su costa. La citación implica la concurrencia a la audiencia de prueba y a toda continuación de ésta, hasta que el testigo haya prestado su declaración.
-
-De igual manera, en el mismo escrito deberá solicitarse la absolución de posiciones, y acompañarse o solicitarse la exhibición de toda la prueba documental que no se hubiese presentado con anterioridad.
-
-La remisión de oficios, informes de peritos y la inspección personal del juez, podrán solicitarse en el escrito a que se refieren los incisos anteriores o en la audiencia de prueba, a elección de la parte interesada.
+Los incidentes de cualquier naturaleza deberán promoverse preferentemente en la audiencia respectiva y resolverse de inmediato. Excepcionalmente, el tribunal podrá dejar su resolución para la sentencia definitiva.
 
 #### Artículo 444
 
-La audiencia se celebrará con las partes que asistan. El tribunal someterá a éstas las bases sobre las cuales estima posible una conciliación y el juez personalmente las instará a ello. Las opiniones que el tribunal emita al efecto no serán causal de inhabilitación.
+En el ejercicio de su función cautelar, el juez decretará todas las medidas que estime necesarias para asegurar el resultado de la acción, así como para la protección de un derecho o la identificación de los obligados y la singularización de su patrimonio en términos suficientes para garantizar el monto de lo demandado.
 
-De producirse la conciliación, se estará a lo que se establece en el artículo 267 del Código de Procedimiento Civil.
+Con todo, las medidas cautelares que el juez decrete deberán ser proporcionales a la cuantía del juicio.
 
-De no producirse la conciliación y haberse recibido la causa a prueba, se procederá a recibir de inmediato la prueba ofrecida por las partes, como también cualquier otro elemento de convicción que, a juicio del tribunal, fuere pertinente y que las partes hubiesen ofrecido con anterioridad. El orden de recepción de las pruebas será el siguiente: documental, confesional y testimonial, sin perjuicio de que el tribunal pueda modificarlo por causa justificada. La prueba documental a que se refiere este inciso es la ordenada exhibir de acuerdo a lo dispuesto en el inciso tercero del artículo 443.
+Las medidas cautelares podrán llevarse a efecto antes de notificarse a la persona contra quien se dicten, siempre que existan razones graves para ello y el tribunal así lo ordene. Transcurridos cinco días sin que la notificación se efectúe, quedarán sin valor las diligencias practicadas.
 
-Siempre que no alcanzare a rendirse la prueba el día fijado para la audiencia, el tribunal continuará recibiéndola al día siguiente hábil, y si ello no fuere posible en los días hábiles más próximos hasta su conclusión.
+Las medidas precautorias se podrán disponer en cualquier estado de tramitación de la causa aun cuando no esté contestada la demanda o incluso antes de su presentación, como prejudiciales. En ambos casos se deberá siempre acreditar razonablemente el fundamento y la necesidad del derecho que se reclama. Si presentada la demanda al tribunal respectivo persistieran las circunstancias que motivaron su adopción, se mantendrán como precautorias. Si no se presentare la demanda en el término de diez días contados desde la fecha en que la medida se hizo efectiva, ésta caducará de pleno derecho y sin necesidad de resolución judicial, quedando el solicitante por este solo hecho responsable de los perjuicios que se hubiere causado. Con todo, por motivos fundados y cuando se acredite por el demandante el inminente término de la empresa o su manifiesta insolvencia, el juez podrá prorrogar las medidas prejudiciales precautorias por el plazo prudencial que estime necesario para asegurar el resultado de la litis.
 
-De no haber conciliación ni hechos sustanciales, pertinentes y controvertidos, el tribunal dictará sentencia de inmediato o, a más tardar, dentro del décimo quinto día.
+Habiendo sido notificada la demanda, la función cautelar del tribunal comprenderá la de requerir información de organismos públicos, empresas u otras personas jurídicas o naturales, sobre cualquier antecedente que a criterio del juez contribuya al objetivo perseguido.
 
 #### Artículo 445
 
-La confesión judicial sólo podrá pedirse una vez por cada parte y las posiciones deberán absolverse en la audiencia de prueba. El pliego de posiciones respectivo deberá entregarse al tribunal al momento de iniciarse la audiencia.
+En toda resolución que ponga término a la causa o resuelva un incidente, el juez deberá pronunciarse sobre el pago de las costas del procedimiento, tasando las procesales y regulando las personales, según proceda.
 
-Las posiciones deberán ser atingentes a los hechos materia de prueba y redactarse en términos claros y precisos, de manera de permitir su fácil comprensión. El tribunal, de oficio o a petición de parte, podrá modificar, aclarar o declarar improcedentes las preguntas.
-
-La resolución que cite a absolver posiciones se notificará por cédula, lo que deberá haberse realizado con una anticipación no menor a tres días hábiles de la fecha fijada para la audiencia. La parte que no haya designado domicilio de conformidad a lo establecido en el inciso segundo del artículo 434, será notificada por el estado.
-
-La persona citada a absolver posiciones está obligada a concurrir personalmente a la audiencia, a menos que designe especialmente a un mandatario para tal objeto. La designación de dicha persona deberá constar por escrito y hacerse con anticipación a la fecha fijada para la comparecencia. La absolución de posiciones de este mandatario se considerará, para todos los efectos legales, como si hubiese sido hecha personalmente por la persona cuya comparecencia se decretó. No habrá lugar a delegación cuando se trate de absolver posiciones sobre hechos propios.
-
-Si no se comparece a la audiencia o compareciendo se negase a declarar o se diese respuestas evasivas, se presumirán efectivos los hechos categóricamente afirmados en el pliego. En ningún caso, habrá lugar a lo establecido en el inciso segundo del artículo 394 del Código de Procedimiento Civil.
-
-#### Artículo 446
-
-Los instrumentos deberán acompañarse en parte de prueba y bajo los apercibimientos legales que, según su naturaleza, se establecen en el Código de Procedimiento Civil. Ello no obstante, los instrumentos acompañados en el escrito de demanda y en la demanda reconvencional, deberán impugnarse en la respectiva contestación o en el plazo conferido para ésta. En ningún caso el plazo para impugnar la prueba instrumental podrá exceder de la audiencia de prueba, y si estuviere pendiente a la fecha de su realización, la impugnación deberá hacerse precisamente en la audiencia.
-
-En la audiencia de prueba, excepcionalmente y por causa muy justificada, el tribunal podrá admitir prueba instrumental adicional o complementaria a la ya acompañada. En este evento la impugnación de los nuevos instrumentos deberá hacerse en la misma audiencia o, a petición fundada de parte, dentro de tercero día. Las resoluciones que dicte el tribunal en virtud de lo dispuesto en este inciso, son inapelables.
-
-#### Artículo 447
-
-Se podrá solicitar la exhibición de instrumentos que existan en poder de la otra parte o de un tercero, en los términos de los incisos primero, segundo y cuarto del artículo 349 del Código de Procedimiento Civil. El tribunal, de acceder a tal petición, junto con determinar el día, la hora y el lugar en que esta diligencia deba llevarse a efecto, apercibirá con arresto a la persona obligada a efectuar la exhibición, para el caso de negativa o dilación injustificadas. En todo caso, el tribunal deberá cuidar la celeridad del procedimiento.
-
-#### Artículo 448
-
-El Tribunal sólo dará lugar a la petición de oficios, cuando se trate de requerir información objetiva sobre los hechos materia del juicio y se solicite respecto de autoridades públicas o representantes de instituciones o empresas públicas o privadas. El oficio deberá señalar específicamente el o los hechos sobre los cuales se pide el informe.
-
-Tratándose de solicitudes de oficios a las que acceda el Tribunal, éste deberá disponer su despacho inmediato a las personas o entidades públicas o privadas requeridas, quienes estarán obligadas a evacuar la respuesta dentro del plazo que al efecto fije el Tribunal, el que en todo caso no podrá exceder de 30 días. A petición de la parte que lo solicita o de la persona o entidad requerida, el plazo para evacuar el oficio podrá ser ampliado por el Tribunal cuando existan antecedentes fundados que lo aconsejen. Si vencido el término indicado el oficio no hubiere sido evacuado, el Tribunal fijará un plazo de cinco días para su entrega, bajo apercibimiento de arresto.
-
-El mismo plazo, la posibilidad de su ampliación y el apercibimiento indicados en el inciso anterior regirán para los peritos, en relación a sus informes, desde la aceptación de su cometido.
-
-#### Artículo 449
-
-Los testigos podrán declarar únicamente ante el tribunal que conozca de la causa.
-
-Serán admitidos a declarar sólo hasta dos testigos, por cada parte, sobre cada uno de los puntos de prueba fijados en la resolución respectiva.
-
-Las declaraciones se regirán por las normas de los artículos 363, 364, 365, 366, 367, 368, 370, 373 excluida la referencia al artículo 372, 374 y 375 del Código de Procedimiento Civil, con la salvedad que las resoluciones que adopte el tribunal en virtud de estas disposiciones, son inapelables.
-
-#### Artículo 450
-
-Las tachas que se deduzcan se resolverán en la sentencia definitiva y, a su respecto, no se admitirá prueba testimonial. Las partes podrán acompañar los antecedentes que las justifiquen hasta la citación para oír sentencia.
-
-El hecho de ser el testigo dependiente de la parte que lo presenta o de litigar o haber litigado en juicio de la misma naturaleza con la parte contraria, no invalida su testimonio. Asimismo, el tribunal podrá otorgar el valor de presunción judicial a los dichos de los testigos inhabilitados por alguna de las causales que establece el artículo 358 del Código de Procedimiento Civil.
-
-#### Artículo 451
-
-Se levantará acta de todo lo obrado en la audiencia, dejándose constancia clara y precisa de lo expuesto por las partes, de la prueba recibida y de las diligencias de prueba realizadas en ella.
-
-#### Artículo 452
-
-Vencido el término de prueba, y dentro de los cinco días siguientes, las partes podrán hacer por escrito las observaciones que el examen de la prueba les sugiera. Expirado este plazo, se haya o no presentado escrito y existan o no diligencias pendientes, el tribunal citará para oír sentencia, la que se dictará dentro de los quince días siguientes.
-
-Citadas las partes para oír sentencia, no se admitirán escritos ni pruebas de ningún género.
-
-#### Artículo 453
-
-No será motivo para suspender el curso del juicio ni será obstáculo para la dictación del fallo el hecho de existir alguna diligencia de prueba pendiente, a menos que el tribunal, por resolución fundada, la estime estrictamente necesaria para la acertada resolución de la causa. En este caso, la reiterará como medida para mejor resolver.
-
-En caso que la medida para mejor resolver consista en reiterar un oficio, el tribunal fijará un plazo prudencial para su respuesta bajo apercibimiento de multa de hasta 10 unidades tributarias mensuales, la que podrá reiterar hasta el debido cumplimiento de lo ordenado.
+Cuando el trabajador ha litigado con privilegio de pobreza, las costas personales a cuyo pago sea condenada la contraparte pertenecerán a la respectiva Corporación de Asistencia Judicial, al abogado de turno, o a quien la ley señale.
 
 #### Artículo 454
 
@@ -5100,41 +5004,9 @@ Toda medida para mejor resolver deberá cumplirse dentro del plazo de diez días
 
 En ningún caso el tribunal podrá decretar estas medidas transcurridos diez días desde que se citó a las partes a oír sentencia.
 
-#### Artículo 455
+### Párrafo 3º
 
-El tribunal apreciará la prueba conforme a las reglas de la sana crítica. Las presunciones simplemente legales se apreciarán también en la misma forma.
-
-#### Artículo 456
-
-Al apreciar las pruebas según la sana crítica, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia en cuya virtud les designe valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
-
-#### Artículo 457
-
-Los incidentes de cualquiera naturaleza que se promuevan en el juicio no suspenderán el curso de éste y se substanciarán en ramo separado. La sentencia definitiva se pronunciará sobre las acciones y excepciones deducidas y sobre los incidentes, o sólo sobre éstos cuando sean previos o incompatibles con aquéllas.
-
-#### Artículo 458
-
-La sentencia definitiva deberá contener:
-
-1. el lugar y fecha en que se expida;
-
-2. la individualización completa de las partes litigantes;
-
-3. una síntesis de los hechos y de las alegaciones de las partes;
-
-4. el análisis de toda la prueba rendida;
-
-5. las consideraciones de hecho y de derecho que sirvan de fundamento al fallo;
-
-6. los preceptos legales o, a falta de éstos, los principios de equidad en que el fallo se funda;
-
-7. la resolución de las cuestiones sometidas a la decisión del tribunal con expresa determinación de las sumas que ordene pagar, si ello fuere procedente, y
-
-8. el pronunciamiento sobre el pago de costas y, en su caso, los motivos que tuviere el tribunal para absolver de su pago a la parte vencida.
-
-La sentencia que se dicte en la audiencia, de conformidad a lo establecido en el inciso final del artículo 444, sólo deberá cumplir con los requisitos de los números 2, 5, 6, 7 y 8.
-
-### Párrafo 3° — Del juicio laboral de menor cuantía
+Del procedimiento de aplicación general
 
 #### Artículo 446
 
@@ -5156,11 +5028,105 @@ En materias de seguridad social, cuando se demande a una institución de previsi
 
 Cuando se demanden períodos de cotizaciones de seguridad social impagas, el juez de la causa al conferir el traslado de la demanda, deberá ordenar la notificación de ella a la o las instituciones de seguridad social a las que corresponda percibir la respectiva cotización. Dicha notificación se efectuará a través de carta certificada, la que contendrá copia íntegra de la demanda y de la resolución recaída en ella o un extracto si fueren muy extensas.
 
+#### Artículo 447
+
+El juez deberá declarar de oficio cuando se estime incompetente para conocer de la demanda, en cuyo caso así lo declarará, señalará el tribunal competente, y le enviará los antecedentes.
+
+Si de los datos aportados en la demanda se desprendiere claramente la caducidad de la acción, el tribunal deberá declararlo de oficio y no admitirá a tramitación la demanda respecto de esa acción.
+
+En materias de previsión o seguridad social, el juez admitirá la demanda a tramitación, sólo si el actor ha dado cumplimiento a lo dispuesto en el inciso cuarto del artículo precedente, de lo contrario, deberá rechazar de plano dicha demanda.
+
 #### Artículo 448
 
-El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado, aunque procedan de distintos títulos.
+El actor podrá acumular en su demanda todas las acciones que le competan en contra de un mismo demandado.
 
 En el caso de aquellas acciones que corresponda tramitar de acuerdo a procedimientos distintos, se deberán deducir de conformidad a las normas respectivas, y si una dependiere de la otra, no correrá el plazo para ejercer aquella hasta ejecutoriado que sea el fallo de ésta.
+
+#### Artículo 449
+
+Si ante el mismo tribunal se tramitan varias demandas contra un mismo demandado y las acciones son idénticas, aunque los actores sean distintos, el juez de oficio o a petición de parte podrá decretar la acumulación de las causas, siempre que se encuentren en un mismo estado de tramitación y no implique retardo para una o más de ellas.
+
+Solicitada la acumulación, se concederá un plazo de tres días a la parte no peticionaria para que exponga lo conveniente sobre ella. Transcurrido este plazo, haya o no respuesta, el tribunal resolverá.
+
+Con todo, el juez tendrá siempre la facultad de desacumular las causas.
+
+#### Artículo 450
+
+El procedimiento regulado en este Párrafo se desarrollará en dos audiencias, la primera preparatoria y la segunda de juicio, conforme a las reglas que se señalan en los artículos siguientes.
+
+#### Artículo 451
+
+Admitida la demanda a tramitación, el tribunal deberá, de inmediato y sin más trámite, citar a las partes a una audiencia preparatoria, fijando para tal efecto, dentro de los treinta y cinco días siguientes a la fecha de la resolución, el día y la hora para su celebración, debiendo mediar entre la notificación de la demanda y citación, y la celebración de la audiencia, a lo menos, quince días.
+
+En la citación se hará constar que la audiencia preparatoria se celebrará con las partes que asistan, afectándole a aquella que no concurra todas las resoluciones que se dicten en ella, sin necesidad de ulterior notificación. Asimismo, deberá indicarse en la citación que las partes, en dicha audiencia, deberán señalar al tribunal todos los medios de prueba que pretendan hacer valer en la audiencia oral de juicio, como así también requerir las diligencias de prueba atinentes a sus alegaciones, para que el tribunal examine su admisibilidad.
+
+#### Artículo 452
+
+El demandado deberá contestar la demanda por escrito con a lo menos cinco días de antelación a la fecha de celebración de la audiencia preparatoria.
+
+La contestación deberá contener una exposición clara y circunstanciada de los hechos y fundamentos de derecho en los que se sustenta, las excepciones y/o demanda reconvencional que se deduzca, así como también deberá pronunciarse sobre los hechos contenidos en la demanda, aceptándolos o negándolos en forma expresa y concreta.
+
+La reconvención sólo será procedente cuando el tribunal sea competente para conocer de ella como demanda y siempre que esté íntimamente ligada a ella.
+
+La reconvención deberá contener las menciones a que se refiere el artículo 446 y se tramitará conjuntamente con la demanda.
+
+#### Artículo 453
+
+- En la audiencia preparatoria se aplicarán las siguientes reglas:
+
+1) La audiencia preparatoria comenzará con la relación somera que hará el juez de los contenidos de la demanda, así como de la contestación y, en su caso, de la demanda reconvencional y de las excepciones, si éstas hubieren sido deducidas por el demandado en los plazos establecidos en el artículo 452.
+
+Si ninguna de las partes asistiere a la audiencia preparatoria, éstas tendrán el derecho de solicitar, por una sola vez, conjunta o separadamente, dentro de quinto día contados desde la fecha en que debió efectuarse, nuevo día y hora para su realización.
+
+A continuación, el juez procederá a conferir traslado para la contestación de la demanda reconvencional y de las excepciones, en su caso.
+
+Una vez evacuado el traslado por la parte demandante, el tribunal deberá pronunciarse de inmediato respecto de las excepciones de incompetencia, de falta de capacidad o de personería del demandante, de ineptitud del libelo, de caducidad, de prescripción o aquélla en que se reclame del procedimiento, siempre que su fallo pueda fundarse en antecedentes que consten en el proceso o que sean de pública notoriedad. En los casos en que ello sea procedente, se suspenderá la audiencia por el plazo más breve posible, a fin de que se subsanen los defectos u omisiones, en el plazo de cinco días, bajo el apercibimiento de no continuarse adelante con el juicio.
+
+Las restantes excepciones se tramitarán conjuntamente y se fallarán en la sentencia definitiva.
+
+La resolución que se pronuncie sobre las excepciones de incompetencia del tribunal, caducidad y prescripción, deberá ser fundada y sólo será susceptible de apelación aquella que las acoja. Dicho recurso deberá interponerse en la audiencia. De concederse el recurso, se hará en ambos efectos y será conocido en cuenta por la Corte.
+
+Cuando el demandado no contestare la demanda, o de hacerlo no negare en ella algunos de los hechos contenidos en la demanda, el juez, en la sentencia definitiva, podrá estimarlos como tácitamente admitidos.
+
+Si el demandado se allanare a una parte de la demanda y se opusiera a otras, se continuará con el curso de la demanda sólo en la parte en que hubo oposición. Para estos efectos, el tribunal deberá establecer los hechos sobre los cuales hubo conformidad, estimándose esta resolución como sentencia ejecutoriada para todos los efectos legales, procediendo el tribunal respecto de ella conforme a lo dispuesto en el artículo 462.
+
+2) Terminada la etapa de discusión, el juez llamará a las partes a conciliación, a cuyo objeto deberá proponerles las bases para un posible acuerdo, sin que las opiniones que emita al efecto sean causal de inhabilitación.
+
+Producida la conciliación, sea ésta total o parcial, deberá dejarse constancia de ella en el acta respectiva, la que suscribirán el juez y las partes, estimándose lo conciliado como sentencia ejecutoriada para todos los efectos legales.
+
+Se tramitará separadamente, si fuere necesario, el cobro de las sumas resultantes de la conciliación parcial.
+
+3) Contestada la demanda, sin que se haya opuesto reconvención o excepciones dilatorias, o evacuado el traslado conferido de haberse interpuesto éstas, el tribunal recibirá de inmediato la causa a prueba, cuando ello fuere procedente, fijándose los hechos a ser probados. En contra de esta resolución y de la que no diere lugar a ella, sólo procederá el recurso de reposición, el que deberá interponerse y fallarse de inmediato.
+
+De no haber hechos sustanciales, pertinentes y controvertidos, el tribunal dará por concluida la audiencia y procederá a dictar sentencia.
+
+4) El juez resolverá fundadamente en el acto sobre la pertinencia de la prueba ofrecida por las partes, pudiendo valerse de todas aquellas reguladas en la ley. Las partes podrán también ofrecer cualquier otro elemento de convicción que, a juicio del tribunal, fuese pertinente.
+
+Sólo se admitirán las pruebas que tengan relación directa con el asunto sometido al conocimiento del tribunal y siempre que sean necesarias para su resolución.
+
+Con todo, carecerán de valor probatorio y, en consecuencia, no podrán ser apreciadas por el tribunal las pruebas que las partes aporten y que se hubieren obtenido directa o indirectamente por medios ilícitos o a través de actos que impliquen violación de derechos fundamentales.
+
+5) La exhibición de instrumentos que hubiere sido ordenada por el tribunal se verificará en la audiencia de juicio. Cuando, sin causa justificada, se omita la presentación de aquellos que legalmente deban obrar en poder de una de las partes, podrán estimarse probadas las alegaciones hechas por la parte contraria en relación con la prueba decretada.
+
+6) Se fijará la fecha para la audiencia de juicio, la que deberá llevarse a cabo en un plazo no superior a treinta días. Las partes se entenderán citadas a esta audiencia por el solo ministerio de la ley.
+
+7) Se decretarán las medidas cautelares que procedan, a menos que se hubieren decretado con anterioridad, en cuyo caso se resolverá si se mantienen.
+
+8) El tribunal despachará todas las citaciones y oficios que correspondan cuando se haya ordenado la práctica de prueba que, debiendo verificarse en la audiencia de juicio, requieran citación o requerimiento.
+
+La resolución que cite a absolver posiciones se notificará en el acto al absolvente. La absolución de posiciones sólo podrá pedirse una vez por cada parte.
+
+La citación de los testigos deberá practicarse por carta certificada, la que deberá despacharse con al menos ocho días de anticipación a la audiencia, al domicilio señalado por cada una de las partes que presenta la testimonial.
+
+Sin perjuicio de lo anterior, cuando se decrete la remisión de oficios o el informe de peritos, el juez podrá recurrir a cualquier medio idóneo de comunicación o de transmisión de datos que permita la pronta práctica de las diligencias, debiendo adoptar las medidas necesarias para asegurar su debida recepción por el requerido, dejándose constancia de ello.
+
+Cuando se rinda prueba pericial, el informe respectivo deberá ser puesto a disposición de las partes en el tribunal al menos tres días antes de la celebración de la audiencia de juicio. El juez podrá, con el acuerdo de las partes, eximir al perito de la obligación de concurrir a prestar declaración, admitiendo en dicho caso el informe pericial como prueba. La declaración de los peritos se desarrollará de acuerdo a las normas establecidas para los testigos.
+
+El tribunal sólo dará lugar a la petición de oficios cuando se trate de requerir información objetiva, pertinente y específica sobre los hechos materia del juicio. Cuando la información se solicite respecto de entidades públicas, el oficio deberá dirigirse a la oficina o repartición en cuya jurisdicción hubieren ocurrido los hechos o deban constar los antecedentes sobre los cuales se pide informe. Las personas o entidades públicas o privadas a quienes se dirija el oficio estarán obligadas a evacuarlo dentro del plazo que fije el tribunal, el que en todo caso no podrá exceder a los tres días anteriores al fijado para la audiencia de juicio, y en la forma que éste lo determine, pudiendo disponer al efecto cualquier medio idóneo de comunicación o de transmisión de datos.
+
+9) En esta audiencia, el juez de la causa podrá decretar diligencias probatorias, las que deberán llevarse a cabo en la audiencia de juicio.
+
+10) Se levantará una breve acta de la audiencia que sólo contendrá la indicación del lugar, fecha y tribunal, los comparecientes que concurren a ella, la hora de inicio y término de la audiencia, la resolución que recae sobre las excepciones opuestas, los hechos que deberán acreditarse e individualización de los testigos que depondrán respecto a ésos, y, en su caso, la resolución a que se refieren el párrafo final del número 1) y el número 2) de este artículo.
 
 #### Artículo 454
 
@@ -5212,163 +5178,465 @@ Con todo, si a juicio del juez hubiere puntos no suficientemente esclarecidos, p
 
 10) Si una de las partes alegare entorpecimiento en el caso de la imposibilidad de comparecencia de quien fuere citado a la diligencia de confesión, deberá acreditarlo al invocarla, debiendo resolverse el incidente en la misma audiencia. Sólo podrá aceptarse cuando se invocaren hechos sobrevinientes y de carácter grave, en cuyo caso, deberá el juez adoptar las medidas inmediatas que fueren necesarias para su realización a la mayor brevedad, notificándose a las partes en el acto.
 
+#### Artículo 455
+
+Al finalizar la audiencia se extenderá el acta correspondiente, en la que constará el lugar, fecha e individualización del tribunal, de las partes comparecientes, de sus apoderados y abogados, y de toda otra circunstancia que el tribunal estime necesario incorporar.
+
+#### Artículo 456
+
+El tribunal apreciará la prueba conforme a las reglas de la sana crítica.
+
+Al hacerlo, el tribunal deberá expresar las razones jurídicas y las simplemente lógicas, científicas, técnicas o de experiencia, en cuya virtud les asigne valor o las desestime. En general, tomará en especial consideración la multiplicidad, gravedad, precisión, concordancia y conexión de las pruebas o antecedentes del proceso que utilice, de manera que el examen conduzca lógicamente a la conclusión que convence al sentenciador.
+
+#### Artículo 457
+
+El juez podrá pronunciar el fallo al término de la audiencia de juicio o, en todo caso, dictarlo dentro del plazo de décimo quinto día, contado desde la realización de ésta, en cuyo caso citará a las partes para notificarlas del fallo, fijando día y hora al efecto, dentro del mismo plazo.
+
+Las partes se entenderán notificadas de la sentencia, sea en la audiencia de juicio o en la actuación prevista al efecto, hayan o no asistido a ellas.
+
+#### Artículo 458
+
+La sentencia definitiva se pronunciará sobre las acciones y excepciones deducidas que no se hubieren resuelto con anterioridad y sobre los incidentes, en su caso, o sólo sobre éstos cuando sean previos e incompatibles con aquéllas.
+
 #### Artículo 459
 
-En caso de que la cuantía de lo disputado no exceda de cuatro ingresos mínimos, el demandante deberá señalar en su demanda si opta porque ésta se tramite conforme al procedimiento establecido en los artículos precedentes o por el de este artículo. Si nada dijere, se entenderá que opta por el procedimiento ordinario que se contiene en el párrafo anterior.
+La sentencia definitiva deberá contener:
 
-De optarse por el procedimiento a que se refiere este párrafo las partes podrán comparecer personalmente, sin necesidad de patrocinio de abogado y en conformidad a las reglas siguientes:
+1.- El lugar y fecha en que se expida;
 
-a) Presentada la demanda, el tribunal citará a las partes a una audiencia de discusión, conciliación y prueba, a la cual éstas deberán concurrir con todos sus medios de prueba, dentro de los diez días siguientes;
+2.- La individualización completa de las partes litigantes;
 
-b) La notificación de la demanda se hará de conformidad a lo establecido en el inciso segundo del artículo 430. Esta deberá realizarse con no menos de cinco días de anticipación a la fecha fijada para la audiencia y, en lo posible, deberá hacerse personalmente. De no encontrarse al demandado en su domicilio, se le dejará copia íntegra de la demanda y de la resolución recaída en ella, que se entregará a persona adulta que se encuentre en dicho domicilio. Además, se enviará al demandado carta certificada comunicándole el hecho de la demanda y la fecha en que debe comparecer ante el tribunal. El secretario deberá certificar el cumplimiento de esta disposición;
+3.- Una síntesis de los hechos y de las alegaciones de las partes;
 
-c) La audiencia se celebrará con las partes que asistan.
+4.- El análisis de toda la prueba rendida, los hechos que estime probados y el razonamiento que conduce a esta estimación;
 
-En esta audiencia, el tribunal escuchará a las partes, las instará a una conciliación y, de no producirse ésta, recibirá en el mismo acto todas las pruebas que las partes le ofrezcan y que sean atingentes con el asunto en discusión. Terminada la recepción de la prueba, el tribunal citará a las partes para oír sentencia, la que dictará en el acto o dentro de tercero día.
+5.- Los preceptos constitucionales, legales o los contenidos en tratados internacionales ratificados por Chile y que se encuentren vigentes, las consideraciones jurídicas y los principios de derecho o de equidad en que el fallo se funda;
 
-En caso que toda la prueba no alcance a recibirse en la audiencia, se estará a lo dispuesto en el inciso cuarto del artículo 444;
+6.- La resolución de las cuestiones sometidas a la decisión del tribunal, con expresa determinación de las sumas que ordene pagar o las bases necesarias para su liquidación, si ello fuere procedente, y
 
-d) La prueba se apreciará en conciencia;
+7.- El pronunciamiento sobre el pago de costas y, en su caso, los motivos que tuviere el tribunal para absolver de su pago a la parte vencida.
 
-e) La sentencia que se dicte sólo contendrá las indicaciones que se establecen en los números 1, 2, 6, 7 y 8 del artículo 458 y será notificada en la forma que se señala en la letra b) precedente, y
-
-f) La sentencia definitiva sólo será susceptible del recurso de apelación, el cual, una vez ingresado a la Corte de Apelaciones respectiva y sin esperar comparecencia alguna de las partes, se conocerá en cuenta y gozará de preferencia para su resolución.
-
-### Párrafo 4°
-
-De la ejecución de las resoluciones y del juicio ejecutivo
+La sentencia que se dicte en la audiencia preparatoria, sólo deberá cumplir con los requisitos de los números 1, 2, 5, 6 y 7.
 
 #### Artículo 460
 
-En las causas del trabajo, la ejecución de las resoluciones se sujetará a las normas del título XIX del libro I del Código de Procedimiento Civil, con las modificaciones siguientes:
-
-a) el procedimiento incidental de que tratan los artículos 233 y siguientes del Código de Procedimiento Civil, tendrá lugar siempre que se solicite el cumplimiento de una sentencia ante el tribunal que la dictó, dentro de los sesenta días contados desde que la ejecución se hizo exigible.
-
-b) la notificación de las resoluciones se practicará por los funcionarios que se señalan en el inciso segundo del artículo 430, salvo aquellas que corresponda notificar por el estado diario;
-
-c) al proceder a trabar embargo sobre bienes muebles, el funcionario respectivo deberá efectuar una tasación prudencial de los mismos, que consignará en el acta de la diligencia.
-
-Tales bienes no podrán ser vendidos, en una primera subasta, en un valor inferior al setenta y cinco por ciento de la respectiva tasación. Si los bienes embargados no se vendieren serán rematados, sin mínimo, en una segunda subasta. El ejecutante podrá participar en la subasta en las condiciones antes señaladas e incluso adjudicarse en pago el bien embargado, y
-
-d) los receptores y el empleado del mismo tribunal que el juez designe en cada caso, serán los funcionarios habilitados para practicar el embargo y demás diligencias de la ejecución.
+Si el juez que presidió la audiencia de juicio no pudiere dictar sentencia, aquélla deberá celebrarse nuevamente.
 
 #### Artículo 461
 
-El juicio ejecutivo derivado de asuntos laborales, se regirá, en lo pertinente, por las disposiciones de los Títulos I y II del Libro III del Código de Procedimiento Civil con las modificaciones señaladas en las letras b), c) y d) del artículo anterior.
+En caso de ser procedente, la sentencia de término será notificada a los entes administradores de los respectivos sistemas de seguridad social, con el objeto de que éstos hagan efectivas las acciones contempladas en la ley Nº 17.322 o en el decreto ley Nº 3.500, de 1980, según corresponda.
 
 #### Artículo 462
 
-Tendrán mérito ejecutivo ante los Juzgados de Letras del Trabajo y ante los Juzgados de Cobranza Laboral y Previsional las actas que den constancia de acuerdos producidos ante los inspectores del trabajo, firmadas por las partes y autorizadas por éstos y que contengan la existencia de una obligación laboral o sus copias certificadas por la respectiva Inspección del Trabajo.
+Una vez firme la sentencia, lo que deberá certificar de oficio el tribunal, y siempre que no se acredite su cumplimiento dentro del término de cinco días, se dará inicio a su ejecución de oficio por el tribunal, de conformidad a lo dispuesto en los artículos siguientes.
 
-> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
+### Párrafo 4º
 
-### Párrafo 5°
-
-De los recursos
+Del cumplimiento de la sentencia y de la ejecución de los títulos ejecutivos laborales
 
 #### Artículo 463
 
-En los juicios laborales tendrán lugar los mismos recursos que proceden en los juicios ordinarios en lo civil y se les aplicarán las mismas reglas en todo cuanto no se encuentre modificado por las normas de este párrafo.
+La tramitación de los títulos ejecutivos laborales se desarrollará de oficio y por escrito por el tribunal, dictándose al efecto las resoluciones y ordenándose las diligencias que sean necesarias para ello.
 
 #### Artículo 464
 
-La solicitud de reposición de una resolución pronunciada en un comparendo deberá interponerse y resolverse en el acto.
+Son títulos ejecutivos laborales:
+
+1.- Las sentencias ejecutoriadas;
+
+2.- La transacción, conciliación y avenimiento que cumplan con las formalidades establecidas en la ley;
+
+3.- Los finiquitos suscritos por el trabajador y el empleador y autorizados por el Inspector del Trabajo o por funcionarios a los cuales la ley faculta para actuar como ministros de fe en el ámbito laboral;
+
+4.- Las actas firmadas por las partes, y autorizadas por los Inspectores del Trabajo y que den constancia de acuerdos producidos ante éstos o que contengan el reconocimiento de una obligación laboral o de cotizaciones de seguridad social, o sus copias certificadas por la respectiva Inspección del Trabajo;
+
+5.- Los originales de los instrumentos colectivos del trabajo, respecto de aquellas cláusulas que contengan obligaciones líquidas y actualmente exigibles, y las copias auténticas de los mismos autorizadas por la Inspección del Trabajo, y
+
+6.- Cualquier otro título a que las leyes laborales o de seguridad social otorguen fuerza ejecutiva.
 
 #### Artículo 465
 
-Sólo serán apelables las sentencias definitivas de primera instancia, las resoluciones que pongan término al juicio o hagan imposible su continuación y las que se pronuncien sobre medidas precautorias.
-
-Tratándose de precautorias, la apelación de la resolución que otorgue una medida o que rechace su alzamiento se concederá en el sólo efecto devolutivo.
+En las causas laborales el cumplimiento de la sentencia se sujetará a las normas del presente Párrafo, y a falta de disposición expresa en este texto o en leyes especiales, se aplicarán supletoriamente las normas del Título XIX del Libro Primero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.
 
 #### Artículo 466
 
-El recurso de apelación deberá interponerse en el plazo de cinco días contados desde la notificación de la respectiva resolución a la parte que lo entabla.
+Una vez ejecutoriada la sentencia y transcurrido el plazo señalado en el artículo 462, el tribunal ordenará el cumplimiento del fallo y lo remitirá, junto a sus antecedentes, dentro de quinto día al Juzgado de Cobranza Laboral y Previsional, cuando ello fuere procedente, a fin de que éste continúe con la ejecución, de conformidad a las reglas de este Párrafo.
 
-Al deducir el recurso, deberá el apelante fundarlo someramente, exponiendo las peticiones concretas que formula respecto de la resolución apelada.
+Recibidos los antecedentes por el Juzgado de Cobranza Laboral y Previsional, o certificado por el tribunal que dictó la sentencia que ésta se encuentra ejecutoriada, según sea el caso, se deberán remitir sin más trámite a la unidad de liquidación o al funcionario encargado para que se proceda a la liquidación del crédito, ya sea determinando los montos que reflejen los rubros a que se ha condenado u obligado el ejecutado y, en su caso, se actualicen los mismos, aplicando los reajustes e intereses legales.
 
-El apelado podrá hacer observaciones a la apelación hasta antes de la vista de la causa.
+La liquidación deberá practicarse dentro de tercero día y será notificada por carta certificada a las partes, junto con el requerimiento al ejecutado para que pague dentro de los cinco días siguientes. En caso que la ejecución haya quedado a cargo de un tercero, la notificación deberá practicarse a éste en forma personal.
 
 #### Artículo 467
 
-Los autos se enviarán a la Corte de Apelaciones al tercer día de notificada la resolución que concede el último recurso de apelación.
-
-Las partes se considerarán emplazadas en segunda instancia por el hecho de notificárseles la concesión del recurso de apelación.
+Iniciada la ejecución, el tribunal, de oficio o a petición de parte, podrá ordenar a la Tesorería General de la República que retenga de las sumas que por concepto de devolución de impuestos a la renta corresponda restituir al ejecutado, el monto objeto de la ejecución, con sus reajustes, intereses y multas. Esta medida tendrá el carácter de cautelar.
 
 #### Artículo 468
 
-En lo demás, la apelación se regirá por las normas que establece el Código de Procedimiento Civil, con la salvedad que no será necesaria la comparecencia de las partes en segunda instancia.
+En el caso que las partes acordaren una forma de pago del crédito perseguido en la causa, el pacto correspondiente deberá ser ratificado ante el juez de la causa y la o las cuotas acordadas deberán consignar los reajustes e intereses del período. El pacto así ratificado, tendrá mérito ejecutivo para todos los efectos legales.
+
+El no pago de una o más cuotas hará inmediatamente exigible el total de la deuda, facultándose al acreedor para que concurra ante el mismo tribunal, dentro del plazo de sesenta días contado desde el incumplimiento, para que se ordene el pago, pudiendo el juez incrementar el saldo de la deuda hasta en un ciento cincuenta por ciento.
+
+La resolución que establece el incremento se tramitará incidentalmente. Lo mismo se aplicará al incremento fijado por el juez en conformidad al artículo 169 de este Código.
 
 #### Artículo 469
 
-En segunda instancia no será admisible prueba alguna. Ello no obstante, el tribunal de alzada podrá admitir prueba documental, siempre que la parte que la presente justifique haber estado imposibilitada de presentarla en primera instancia.
+Notificada la liquidación, las partes tendrán el plazo de cinco días para objetarla, sólo si de ella apareciere que hay errores de cálculo numérico, alteración en las bases de cálculo o elementos o incorrecta aplicación de los índices de reajustabilidad o de intereses emanados de los órganos competentes.
+
+El tribunal resolverá de plano la objeción planteada, pudiendo oír a la contraria si estima que los antecedentes agregados a la causa no son suficientes para emitir pronunciamiento.
 
 #### Artículo 470
 
-El tribunal de segunda instancia podrá decretar como medidas para mejor resolver, las diligencias probatorias que estime indispensables para el acertado fallo del recurso. Estas diligencias podrán ser practicadas por uno de sus miembros designado para este efecto.
+La parte ejecutada sólo podrá oponer, dentro del mismo plazo a que se refiere el artículo anterior, acompañando antecedentes escritos de debida consistencia, alguna de las siguientes excepciones: pago de la deuda, remisión, novación y transacción.
 
-La dictación de estas medidas no se extenderá a la prueba testimonial ni a la confesión en juicio.
+De la oposición se dará un traslado por tres días a la contraria y con o sin su contestación se resolverá sin más trámites, siendo la sentencia apelable en el solo efecto devolutivo.
 
 #### Artículo 471
 
-Las causas laborales gozarán de preferencia para su vista y su conocimiento se ajustará estrictamente al orden de su ingreso al tribunal. Sin perjuicio de lo dispuesto en el inciso tercero del artículo 69 del Código Orgánico de Tribunales, deberá designarse un día a la semana, a lo menos, para conocer de ellas, completándose las tablas si no hubiere número suficiente, en la forma que determine el Presidente de la Corte de Apelaciones, quien será responsable disciplinariamente del estricto cumplimiento de esta preferencia.
+Si no se ha pagado dentro del plazo señalado para ello en el inciso tercero del artículo 466, sin perjuicio de lo señalado en el artículo 468, el ministro de fe designado por el tribunal procederá a trabar embargo sobre bienes muebles o inmuebles suficientes para el cumplimiento íntegro de la ejecución y sus costas, tasando prudencialmente los mismos, consignándolo así en el acta de la diligencia, todo ello sin que sea necesaria orden previa del tribunal.
 
-Si el número de causas en apelación hiciese imposible su vista y fallo en un plazo no superior a dos meses, contado desde su ingreso a la Secretaría, el Presidente de las Cortes de Apelaciones que funcionen divididas en más de dos salas, determinará que una de ellas, a lo menos, se aboque exclusivamente al conocimiento de estas causas por el lapso que se estime necesario para superar el atraso.
+Si no ha habido oposición oportuna o existiendo ha sido desechada, se ordenará sin más trámite hacer debido pago al ejecutante con los fondos retenidos, embargados o cautelados. En su caso, los bienes embargados serán rematados por cifras no menores al setenta y cinco por ciento de la tasación en primera subasta; en la segunda el mínimo será del cincuenta por ciento del valor de la tasación, y en la tercera no habrá mínimo. El ejecutante podrá participar en el remate y adjudicarse los bienes con cargo al monto de su crédito.
+
+Los trámites y diligencias del procedimiento de apremio ya indicados, serán fijados por el tribunal consecuentemente con los principios propios de la judicatura laboral y teniendo como referencia las reglas de la ejecución civil, en lo que sean conciliables con dichos principios.
 
 #### Artículo 472
 
-Si de los antecedentes de la causa apareciere que el tribunal de primera instancia ha omitido pronunciarse sobre alguna acción o excepción hecha valer en el juicio, la Corte se pronunciará sobre ella.
-
-Podrá, asimismo, fallar las cuestiones tratadas en primera instancia y sobre las cuales no se haya pronunciado la sentencia por ser incompatibles con lo resuelto.
-
-Deberá la Corte, en todo caso, invalidar de oficio la sentencia apelada, cuando aparezca de manifiesto que se ha faltado a un trámite o diligencia que tenga el carácter esencial o que influya en lo dispositivo del fallo. En el mismo fallo señalará el estado en que debe quedar el proceso y devolverá la causa dentro de segundo día de pronunciada la resolución, salvo que el vicio que diere lugar a la invalidación de la sentencia fuere alguno de los contemplados en las causales números 4a, 6a y 7a del artículo 768 del Código de Procedimiento Civil y en haber sido pronunciada con omisión de cualquiera de los requisitos enumerados en el artículo 458, en cuyo caso el mismo tribunal deberá, acto continuo y sin nueva vista, pero separadamente, dictar la sentencia que corresponde con arreglo a la ley.
+Las resoluciones que se dicten en los procedimientos regulados por este Párrafo serán inapelables, salvo lo dispuesto en el artículo 470.
 
 #### Artículo 473
 
-La sentencia deberá pronunciarse dentro del plazo de cinco días contados desde el término de la vista de la causa.
+Tratándose de títulos ejecutivos laborales distintos a los señalados en el número 1 del artículo 464, su ejecución se regirá por las disposiciones que a continuación se señalan y a falta de norma expresa, le serán aplicables las disposiciones de los Títulos I y II del Libro Tercero del Código de Procedimiento Civil, siempre que dicha aplicación no vulnere los principios que informan el procedimiento laboral.
 
-La Corte de Apelaciones se hará cargo en su fallo de las argumentaciones formuladas por las partes en los escritos que al efecto le presenten.
+Una vez despachada la ejecución, el juez deberá remitir sin más trámite la causa a la unidad de liquidación o al funcionario encargado, según corresponda, para que se proceda a la liquidación del crédito, lo que deberá hacerse dentro de tercer día.
 
-Dictado el fallo, el expediente será devuelto, dentro del segundo día, al tribunal de origen para el cumplimiento de la sentencia.
+En los juicios ejecutivos se practicará personalmente el requerimiento de pago al deudor y la notificación de la liquidación, pero si no es habido se procederá en la forma establecida en el artículo 437, expresándose en la copia a que este mismo se refiere, a más del mandamiento, la designación del día, hora y lugar que fije el ministro de fe para practicar el requerimiento. No concurriendo a esta citación el deudor, se trabará el embargo inmediatamente y sin más trámite.
 
-#### Artículo 473 bis
+En lo demás, se aplicarán las reglas contenidas en los artículos 467, 468, 469; inciso primero del artículo 470, e incisos segundo y tercero del artículo 471.
 
-Las causas laborales gozarán de preferencia para su vista y conocimiento en la Corte Suprema.
+### Párrafo 5º
 
-## Título II
-
-DEL PROCEDIMIENTO DE RECLAMO POR SANCIONES POR INFRACCIONES A LAS LEYES Y REGLAMENTOS VIGENTES
+De los recursos
 
 #### Artículo 474
 
-Las sanciones por infracciones a las legislaciones laboral y de seguridad social como a sus reglamentos se aplicarán administrativamente por los respectivos inspectores o funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.
-
-En todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4.°
-
-La resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días de notificada por un funcionario de la Dirección del Trabajo o de Carabineros de Chile, previa consignación de la tercera parte de la multa.
-
-Una vez ejecutoriada la resolución que aplique la multa administrativa, tendrá mérito ejecutivo, persiguiéndose su cumplimiento de oficio por el Juzgado de Letras del Trabajo o el Juzgado de Cobranza Laboral y Previsional, según corresponda.
-
-Serán responsables del pago de la multa la persona natural o jurídica propietaria de la empresa, predio o establecimiento.
-
-Subsidiariamente responderán de ellas los directores, gerentes o jefes de la empresa, predio o establecimiento donde se haya cometido la falta.
-
-> **Nota.** El artículo 16 de la LEY 20022, publicada el 30.05.2005, dispone que las modificaciones que introduce a la presente norma, rigen nueve meses después de su publicación.
+Los recursos se regirán por las normas establecidas en este Párrafo, y supletoriamente por las normas establecidas en el Libro Primero del Código de Procedimiento Civil.
 
 #### Artículo 475
 
-Los funcionarios a quienes se acredite que han aplicado sanciones injustas o arbitrarias y que así se califique por el jefe superior del Servicio, serán sancionados con alguna de las medidas disciplinarias del artículo 116 del Estatuto Administrativo, atendido el mérito de los antecedentes que se reúnan en el sumario correspondiente.
+La reposición será procedente en contra de los autos, decretos, y de las sentencias interlocutorias que no pongan término al juicio o hagan imposible su continuación.
+
+En contra de la resolución dictada en audiencia, la reposición deberá interponerse en forma verbal, inmediatamente de pronunciada la resolución que se impugna, y se resolverá en el acto.
+
+La reposición en contra de la resolución dictada fuera de audiencia, deberá presentarse dentro de tercero día de notificada la resolución correspondiente, a menos que dentro de dicho término tenga lugar una audiencia, en cuyo caso deberá interponerse a su inicio, y será resuelta en el acto.
+
+#### Artículo 476
+
+Sólo serán susceptibles de apelación las sentencias interlocutorias que pongan término al juicio o hagan imposible su continuación, las que se pronuncien sobre medidas cautelares y las que fijen el monto de las liquidaciones o reliquidaciones de beneficios de seguridad social.
+
+Tratándose de medidas cautelares, la apelación de la resolución que la otorgue o que rechace su alzamiento, se concederá en el solo efecto devolutivo.
+
+De la misma manera se concederá la apelación de las resoluciones que fijen las liquidaciones o reliquidaciones de beneficios de seguridad social.
+
+#### Artículo 477
+
+Tratándose de las sentencias definitivas, sólo será procedente el recurso de nulidad, cuando en la tramitación del procedimiento o en la dictación de la sentencia definitiva se hubieren infringido sustancialmente derechos o garantías constitucionales, o aquélla se hubiere dictado con infracción de ley que hubiere influido sustancialmente en lo dispositivo del fallo. En contra de las sentencias definitivas no procederán más recursos.
+
+El recurso de nulidad tendrá por finalidad invalidar el procedimiento total o parcialmente junto con la sentencia definitiva, o sólo esta última, según corresponda.
+
+#### Artículo 478
+
+El recurso de nulidad procederá, además:
+
+a) Cuando la sentencia haya sido pronunciada por juez incompetente, legalmente implicado, o cuya recusación se encuentre pendiente o haya sido declarada por tribunal competente;
+
+b) Cuando haya sido pronunciada con infracción manifiesta de las normas sobre la apreciación de la prueba conforme a las reglas de la sana crítica;
+
+c) Cuando sea necesaria la alteración de la calificación jurídica de los hechos, sin modificar las conclusiones fácticas del tribunal inferior;
+
+d) Cuando en el juicio hubieren sido violadas las disposiciones establecidas por la ley sobre inmediación o cualquier otro requisito para los cuales la ley haya previsto expresamente la nulidad o lo haya declarado como esencial expresamente;
+
+e) Cuando la sentencia se hubiere dictado con omisión de cualquiera de los requisitos establecidos en los artículos 459, 495 ó 501, inciso final, de este Código, según corresponda; contuviese decisiones contradictorias; otorgare más allá de lo pedido por las partes, o se extendiere a puntos no sometidos a la decisión del tribunal, sin perjuicio de las facultades para fallar de oficio que la ley expresamente otorgue, y
+
+f) Cuando la sentencia haya sido dictada contra otra pasada en autoridad de cosa juzgada y hubiere sido ello alegado oportunamente en el juicio.
+
+El tribunal ad quem, al acoger el recurso de nulidad fundado en las causales previstas en las letras b), c), e), y f), deberá dictar la sentencia de reemplazo correspondiente con arreglo a la ley. En los demás casos, el tribunal ad quem, en la misma resolución, determinará el estado en que queda el proceso y ordenará la remisión de sus antecedentes para su conocimiento al tribunal correspondiente.
+
+No producirán nulidad aquellos defectos que no influyan en lo dispositivo del fallo, sin perjuicio de las facultades de corregir de oficio que tiene la Corte durante el conocimiento del recurso. Tampoco la producirán los vicios que, conocidos, no hayan sido reclamados oportunamente por todos los medios de impugnación existentes.
+
+Si un recurso se fundare en distintas causales, deberá señalarse si se invocan conjunta o subsidiariamente.
+
+#### Artículo 479
+
+El recurso de nulidad deberá interponerse por escrito, ante el tribunal que hubiere dictado la resolución que se impugna, dentro del plazo de diez días contados desde la notificación respectiva a la parte que lo entabla.
+
+Deberá expresar el vicio que se reclama, la infracción de garantías constitucionales o de ley de que adolece, según corresponda, y en este caso, además, señalar de qué modo dichas infracciones de ley influyen sustancialmente en lo dispositivo del fallo.
+
+Una vez interpuesto el recurso, no podrá invocarse nuevas causales. Con todo, la Corte, de oficio, podrá acoger el recurso deducido por un motivo distinto del invocado por el recurrente, cuando aquél corresponda a alguno de los señalados en el artículo 478.
+
+#### Artículo 480
+
+Interpuesto el recurso el tribunal a quo se pronunciará sobre su admisibilidad, declarándolo admisible si reúne los requisitos establecidos en el inciso primero del artículo 479.
+
+Los antecedentes se enviarán a la Corte correspondiente dentro de tercero día de notificada la resolución que concede el último recurso, remitiendo copia de la resolución que se impugna, del registro de audio y de los escritos relativos al recurso deducido.
+
+La interposición del recurso de nulidad suspende los efectos de la sentencia recurrida.
+
+Si una o más de varias partes entablare el recurso de nulidad, la decisión favorable que se dictare aprovechará a los demás, a menos que los fundamentos fueren exclusivamente personales del recurrente, debiendo el tribunal declararlo así expresamente.
+
+Ingresado el recurso al tribunal ad quem, éste se pronunciará en cuenta acerca de su admisibilidad, declarándolo inadmisible si no concurrieren los requisitos del inciso primero del artículo 479, careciere de fundamentos de hecho o de derecho o de peticiones concretas, o, en los casos que corresponda, el recurso no se hubiere preparado oportunamente.
+
+#### Artículo 481
+
+En la audiencia, las partes efectuarán sus alegaciones sin previa relación.
+
+El alegato de cada parte no podrá exceder de treinta minutos.
+
+No será admisible prueba alguna, salvo las necesarias para probar la causal de nulidad alegada.
+
+La falta de comparecencia de uno o más recurrentes a la audiencia dará lugar a que se declare el abandono del recurso respecto de los ausentes.
+
+#### Artículo 482
+
+El fallo del recurso deberá pronunciarse dentro del plazo de cinco días contado desde el término de la vista de la causa.
+
+Cuando no sea procedente la dictación de sentencia de reemplazo, la Corte, al acoger el recurso, junto con señalar el estado en que quedará el proceso, deberá devolver la causa dentro de segundo día de pronunciada la resolución.
+
+Si los errores de la sentencia no influyeren en su parte dispositiva, la Corte podrá corregir los que advirtiere durante el conocimiento del recurso.
+
+No procederá recurso alguno en contra de la resolución que falle un recurso de nulidad. Tampoco, en contra de la sentencia que se dictare en el nuevo juicio realizado como consecuencia de la resolución que hubiere acogido el recurso de nulidad.
+
+#### Artículo 483
+
+Excepcionalmente, contra la resolución que falle el recurso de nulidad, podrá interponerse recurso de unificación de jurisprudencia.
+
+Procederá el recurso de unificación de jurisprudencia cuando respecto de la materia de derecho objeto del juicio existieren distintas interpretaciones sostenidas en uno o más fallos firmes emanados de Tribunales Superiores de Justicia.
+
+#### Artículo 483
+
+A.- El recurso de que trata el artículo precedente, deberá interponerse ante la Corte de Apelaciones correspondiente en el plazo de quince días desde la notificación de la sentencia que se recurre, para que sea conocido por la Corte Suprema.
+
+El escrito que lo contenga deberá ser fundado e incluirá una relación precisa y circunstanciada de las distintas interpretaciones respecto de las materias de derecho objeto de la sentencia, sostenidas en diversos fallos emanados de los Tribunales Superiores de Justicia. Asimismo, deberá acompañarse copia del o los fallos que se invocan como fundamento. Interpuesto el recurso, no podrá hacerse en él variación alguna.
+
+Sólo si el recurso se interpone fuera de plazo, el tribunal a quo lo declarará inadmisible de plano. Contra dicha resolución únicamente podrá interponerse reposición dentro de quinto día, fundado en error de hecho. La resolución que resuelva dicho recurso será inapelable.
+
+La interposición del recurso no suspende la ejecución de la resolución recurrida, salvo cuando su cumplimiento haga imposible llevar a efecto la que se dicte si se acoge el recurso. La parte vencida podrá exigir que no se lleve a efecto tal resolución mientras la parte vencedora no rinda fianza de resultas a satisfacción del tribunal. El recurrente deberá ejercer este derecho conjuntamente con la interposición del recurso y en solicitud separada.
+
+El tribunal a quo, al declarar admisible el recurso, deberá pronunciarse de plano sobre la petición a que se refiere el inciso anterior. En contra de tal resolución no procederá recurso alguno.
+
+La Corte de Apelaciones correspondiente remitirá a la Corte Suprema copia de la resolución que resuelve la nulidad, del escrito en que se hubiere interpuesto el recurso, y los demás antecedentes necesarios para la resolución del mismo.
+
+La sala especializada de la Corte Suprema sólo podrá declarar inadmisible el recurso por la unanimidad de sus miembros, mediante resolución fundada en la falta de los requisitos de los incisos primero y segundo de este artículo. Dicha resolución sólo podrá ser objeto de recurso de reposición dentro de quinto día.
+
+Declarado admisible el recurso por el tribunal ad quem, el recurrido, en el plazo de diez días, podrá hacerse parte y presentar las observaciones que estime convenientes.
+
+#### Artículo 483
+
+B.- En la vista de la causa se observarán las reglas establecidas para las apelaciones. Con todo, la duración de las alegaciones de cada parte, se limitarán a treinta minutos.
+
+#### Artículo 483
+
+C.- El fallo que se pronuncie sobre el recurso sólo tendrá efecto respecto de la causa respectiva, y en ningún caso afectará a las situaciones jurídicas fijadas en las sentencias que le sirven de antecedente.
+
+Al acoger el recurso, la Corte Suprema dictará acto continuo y sin nueva vista, pero separadamente, la sentencia de reemplazo en unificación de jurisprudencia.
+
+La sentencia que falle el recurso así como la eventual sentencia de reemplazo, no serán susceptibles de recurso alguno, salvo el de aclaración, rectificación o enmienda.
+
+#### Artículo 484
+
+Las causas laborales gozarán de preferencia para su vista y su conocimiento se ajustará estrictamente al orden de su ingreso al tribunal.
+
+Sin perjuicio de lo dispuesto en el inciso tercero del artículo 69 del Código Orgánico de Tribunales, deberá designarse un día a la semana, a lo menos, para conocer de ellas, completándose las tablas si no hubiere número suficiente, en la forma que determine el Presidente de la Corte de Apelaciones, quien será responsable disciplinariamente del estricto cumplimiento de esta preferencia.
+
+Si el número de causas pendientes hiciese imposible su vista y fallo en un plazo inferior a dos meses, contado desde su ingreso a la Secretaría, el Presidente de la Corte de Apelaciones que funcione dividida en más de dos salas, determinará que una de ellas, a lo menos, se aboque exclusivamente al conocimiento de estas causas por el lapso que estime necesario para superar el atraso.
+
+### Párrafo 6º
+
+Del Procedimiento de Tutela Laboral
+
+#### Artículo 485
+
+El procedimiento contenido en este Párrafo se aplicará respecto de las cuestiones suscitadas en la relación laboral por aplicación de las normas laborales, que afecten los derechos fundamentales de los trabajadores, entendiéndose por éstos los consagrados en la Constitución Política de la República en su artículo 19, números 1º, inciso primero, siempre que su vulneración sea consecuencia directa de actos ocurridos en la relación laboral, 4º, 5º, en lo relativo a la inviolabilidad de toda forma de comunicación privada, 6º, inciso primero, 12º, inciso primero, y 16º, en lo relativo a la libertad de trabajo, al derecho a su libre elección y a lo establecido en su inciso cuarto, cuando aquellos derechos resulten lesionados en el ejercicio de las facultades del empleador.
+
+También se aplicará este procedimiento para conocer de los actos discriminatorios a que se refiere el artículo 2° de este Código, con excepción de los contemplados en su inciso sexto.
+
+Se entenderá que los derechos y garantías a que se refieren los incisos anteriores resultan lesionados cuando el ejercicio de las facultades que la ley le reconoce al empleador limita el pleno ejercicio de aquéllas sin justificación suficiente, en forma arbitraria o desproporcionada, o sin respeto a su contenido esencial. En igual sentido se entenderán las represalias ejercidas en contra de trabajadores, en razón o como consecuencia de la labor fiscalizadora de la Dirección del Trabajo o por el ejercicio de acciones judiciales.
+
+Interpuesta la acción de protección a que se refiere el artículo 20 de la Constitución Política, en los casos que proceda, no se podrá efectuar una denuncia de conformidad a las normas de este Párrafo, que se refiera a los mismos hechos.
+
+#### Artículo 486
+
+Cualquier trabajador u organización sindical que, invocando un derecho o interés legítimo, considere lesionados derechos fundamentales en el ámbito de las relaciones jurídicas cuyo conocimiento corresponde a la jurisdicción laboral, podrá requerir su tutela por la vía de este procedimiento.
+
+Cuando el trabajador afectado por una lesión de derechos fundamentales haya incoado una acción conforme a las normas de este Párrafo, la organización sindical a la cual se encuentre afiliado, directamente o por intermedio de su organización de grado superior, podrá hacerse parte en el juicio como tercero coadyuvante.
+
+Sin perjuicio de lo anterior, la organización sindical a la cual se encuentre afiliado el trabajador cuyos derechos fundamentales han sido vulnerados, podrá interponer denuncia, y actuará en tal caso como parte principal.
+
+La Inspección del Trabajo, a requerimiento del tribunal, deberá emitir un informe acerca de los hechos denunciados. Podrá, asimismo, hacerse parte en el proceso.
+
+Si actuando dentro del ámbito de sus atribuciones y sin perjuicio de sus facultades fiscalizadoras, la Inspección del Trabajo toma conocimiento de una vulneración de derechos fundamentales, deberá denunciar los hechos al tribunal competente y acompañar a dicha denuncia el informe de fiscalización correspondiente. Esta denuncia servirá de suficiente requerimiento para dar inicio a la tramitación de un proceso conforme a las normas de este Párrafo. La Inspección del Trabajo podrá hacerse parte en el juicio que por esta causa se entable.
+
+No obstante lo dispuesto en el inciso anterior, la Inspección del Trabajo deberá llevar a cabo, en forma previa a la denuncia, una mediación entre las partes a fin de agotar las posibilidades de corrección de las infracciones constatadas.
+
+La denuncia a que se refieren los incisos anteriores deberá interponerse dentro de sesenta días contados desde que se produzca la vulneración de derechos fundamentales alegada. Este plazo se suspenderá en la forma a que se refiere el artículo 168.
+
+#### Artículo 487
+
+Este procedimiento queda limitado a la tutela de derechos fundamentales a que se refiere el artículo 485.
+
+No cabe, en consecuencia, su acumulación con acciones de otra naturaleza o con idéntica pretensión basada en fundamentos diversos.
+
+#### Artículo 488
+
+La tramitación de estos procesos gozará de preferencia respecto de todas las demás causas que se tramiten ante el mismo tribunal.
+
+Con igual preferencia se resolverán los recursos que se interpongan.
+
+#### Artículo 489
+
+Si la vulneración de derechos fundamentales a que se refieren los incisos primero y segundo del artículo 485, se hubiere producido con ocasión del despido, la legitimación activa para recabar su tutela, por la vía del procedimiento regulado en este Párrafo, corresponderá exclusivamente al trabajador afectado.
+
+La denuncia deberá interponerse dentro del plazo de sesenta días contado desde la separación, el que se suspenderá en la forma a que se refiere el inciso final del artículo 168.
+
+En caso de acogerse la denuncia el juez ordenará el pago de la indemnización a que se refiere el inciso cuarto del artículo 162 y la establecida en el artículo 163, con el correspondiente recargo de conformidad a lo dispuesto en el artículo 168 y, adicionalmente, a una indemnización que fijará el juez de la causa, la que no podrá ser inferior a seis meses ni superior a once meses de la última remuneración mensual.
+
+Con todo, cuando el juez declare que el despido es discriminatorio por haber infringido lo dispuesto en el inciso cuarto del artículo 2° de este Código, y además ello sea calificado como grave, mediante resolución fundada, el trabajador podrá optar entre la reincorporación o las indemnizaciones a que se refiere el inciso anterior.
+
+En caso de optar por la indemnización a que se refiere el inciso anterior, ésta será fijada incidentalmente por el tribunal que conozca de la causa.
+
+El juez de la causa, en estos procesos, podrá requerir el informe de fiscalización a que se refiere el inciso cuarto del artículo 486.
+
+Si de los mismos hechos emanaren dos o más acciones de naturaleza laboral, y una de ellas fuese la de tutela laboral de que trata este Párrafo, dichas acciones deberán ser ejercidas conjuntamente en un mismo juicio, salvo si se tratare de la acción por despido injustificado, indebido o improcedente, la que deberá interponerse subsidiariamente. En este caso no será aplicable lo dispuesto en el inciso primero del artículo 488. El no ejercicio de alguna de estas acciones en la forma señalada importará su renuncia.
+
+#### Artículo 490
+
+La denuncia deberá contener, además de los requisitos generales que establece el artículo 446, la enunciación clara y precisa de los hechos constitutivos de la vulneración alegada acompañándose todos los antecedentes en los que se fundamente.
+
+En el caso que no los contenga, se concederá un plazo fatal de cinco días para su incorporación.
+
+#### Artículo 491
+
+Admitida la denuncia a tramitación, su substanciación se regirá por el procedimiento de aplicación general contenido en el Párrafo 3°.
+
+#### Artículo 492
+
+El juez, de oficio o a petición de parte, dispondrá, en la primera resolución que dicte, la suspensión de los efectos del acto impugnado, cuando aparezca de los antecedentes acompañados al proceso que se trata de lesiones de especial gravedad o cuando la vulneración denunciada pueda causar efectos irreversibles, ello, bajo apercibimiento de multa de cincuenta a cien unidades tributarias mensuales, la que podrá repetirse hasta obtener el debido cumplimiento de la medida decretada. Deberá también hacerlo en cualquier tiempo, desde que cuente con dichos antecedentes.
+
+Contra estas resoluciones no procederá recurso alguno.
+
+#### Artículo 493
+
+Cuando de los antecedentes aportados por la parte denunciante resulten indicios suficientes de que se ha producido la vulneración de derechos fundamentales, corresponderá al denunciado explicar los fundamentos de las medidas adoptadas y de su proporcionalidad.
+
+#### Artículo 494
+
+Con el mérito del informe de fiscalización, cuando corresponda, de lo expuesto por las partes y de las demás pruebas acompañadas al proceso, el juez dictará sentencia en la misma audiencia o dentro de décimo día. Se aplicará en estos casos, lo dispuesto en el artículo 457.
+
+#### Artículo 495
+
+La sentencia deberá contener, en su parte resolutiva:
+
+1. La declaración de existencia o no de la lesión de derechos fundamentales denunciada;
+
+2. En caso afirmativo, deberá ordenar, de persistir el comportamiento antijurídico a la fecha de dictación del fallo, su cese inmediato, bajo el apercibimiento señalado en el inciso primero del artículo 492;
+
+3. La indicación concreta de las medidas a que se encuentra obligado el infractor dirigidas a obtener la reparación de las consecuencias derivadas de la vulneración de derechos fundamentales, bajo el apercibimiento señalado en el inciso primero del artículo 492, incluidas las indemnizaciones que procedan, y
+
+4. La aplicación de las multas a que hubiere lugar, de conformidad a las normas de este Código.
+
+En cualquier caso, el juez deberá velar para que la situación se retrotraiga al estado inmediatamente anterior a producirse la vulneración denunciada y se abstendrá de autorizar cualquier tipo de acuerdo que mantenga indemne la conducta lesiva de derechos fundamentales.
+
+Copia de esta sentencia deberá remitirse a la Dirección del Trabajo para su registro.
+
+### Párrafo 7°
+
+Del procedimiento monitorio
+
+#### Artículo 496
+
+Respecto de las contiendas cuya cuantía sea igual o inferior a diez ingresos mínimos mensuales, sin considerar, en su caso, los aumentos a que hubiere lugar por aplicación de los incisos quinto y séptimo del artículo 162; y de las contiendas a que se refiere el artículo 201 de este Código, se aplicará el procedimiento que a continuación se señala.
+
+#### Artículo 497
+
+Será necesario que previo al inicio de la acción judicial se haya deducido reclamo ante la Inspección del Trabajo que corresponda, la que deberá fijar día y hora para la realización del comparendo respectivo, al momento de ingresarse dicha reclamación.
+
+Se exceptúan de esta exigencia las acciones referentes a las materias reguladas por el artículo 201 de este Código.
+
+La citación al comparendo de conciliación ante la Inspección del Trabajo se hará mediante carta certificada, en los términos del artículo 508, o por funcionario de dicho organismo, quien actuará en calidad de ministro de fe, para todos los efectos legales. En este caso, deberá entregarse personalmente dicha citación al empleador o, en caso de no ser posible, a persona adulta que se encuentre en el domicilio del reclamado.
+
+Las partes deberán concurrir al comparendo de conciliación con los instrumentos probatorios de que dispongan, tales como contrato de trabajo, balances, comprobantes de remuneraciones, registros de asistencia y cualesquier otros que estimen pertinentes.
+
+Se levantará acta de todo lo obrado en el comparendo, entregándose copia autorizada a las partes que asistan.
+
+#### Artículo 498
+
+En caso que el reclamante no se presentare al comparendo, estando legalmente citado, se pondrá término a dicha instancia, archivándose los antecedentes.
+
+Sin perjuicio de lo señalado en el inciso anterior, el trabajador podrá accionar judicialmente conforme a las reglas del procedimiento de aplicación general regulado en el Párrafo 3° del presente Título.
+
+#### Artículo 499
+
+Si no se produjere conciliación entre las partes o ésta fuere parcial, como asimismo en el caso que el reclamado no concurra al comparendo, el trabajador podrá interponer demanda ante el juez del trabajo competente, dentro del plazo establecido en los artículos 168 y 201 de este Código, según corresponda.
+
+La demanda deberá interponerse por escrito y contener las menciones a que se refiere el artículo 446 de este Código.
+
+Deberá acompañarse a ella el acta levantada en el comparendo celebrado ante la Inspección del Trabajo y los documentos presentados en éste. Esta exigencia no regirá en el caso de la acción emanada del artículo 201.
+
+#### Artículo 500
+
+En caso que el juez estime fundadas las pretensiones del demandante, las acogerá inmediatamente; en caso contrario las rechazará de plano. Para pronunciarse, deberá considerar, entre otros antecedentes, la complejidad del asunto que se somete a su decisión, la comparecencia de las partes en la etapa administrativa y la existencia de pagos efectuados por el demandado. En caso de no existir antecedentes suficientes para este pronunciamiento, el tribunal deberá citar a la audiencia establecida en el inciso quinto del presente artículo.
+
+Las partes sólo podrán reclamar de esta resolución dentro del plazo de diez días hábiles contado desde su notificación, sin que proceda en contra de ella ningún otro recurso.
+
+La notificación al demandado se practicará conforme a las reglas generales.
+
+En todo caso, en la notificación se hará constar los efectos que producirá la falta de reclamo o su presentación extemporánea.
+
+Presentada la reclamación dentro de plazo, el juez citará a las partes a una audiencia única de conciliación, contestación y prueba, la que deberá celebrarse dentro de los quince días siguientes a su presentación.
+
+Si el empleador reclama parcialmente de la resolución que acoge las pretensiones del trabajador, se aplicará lo establecido en el artículo 462.
+
+#### Artículo 501
+
+Las partes deberán asistir a la audiencia con todos sus medios de prueba y, en caso de comparecer a través de mandatario, éste deberá estar expresamente revestido de la facultad de transigir.
+
+La audiencia tendrá lugar con sólo la parte que asista.
+
+El juez deberá dictar sentencia al término de la audiencia, la que deberá contener las menciones señaladas en los números 1, 2, 5, 6 y 7 del artículo 459.
+
+#### Artículo 502
+
+Las resoluciones dictadas en el procedimiento monitorio serán susceptibles de ser impugnadas por medio de todos los recursos establecidos en este Código, con excepción del recurso de unificación de jurisprudencia contenido en los artículos 483 y siguientes.
+
+## Título II
+
+Del procedimiento de reclamación de multas y demás resoluciones administrativas
+
+#### Artículo 503
+
+Las sanciones por infracciones a la legislación laboral y de seguridad social y a sus reglamentos, se aplicarán administrativamente por los respectivos inspectores del trabajo o por los funcionarios que se determinen en el reglamento correspondiente. Dichos funcionarios actuarán como ministros de fe.
+
+En todos los trámites a que dé lugar la aplicación de sanciones, regirá la norma del artículo 4° de este Código.
+
+La resolución que aplique la multa administrativa será reclamable ante el Juez de Letras del Trabajo, dentro de quince días hábiles contados desde su notificación. Dicha reclamación deberá dirigirse en contra del Jefe de la Inspección Provincial o Comunal a la que pertenezca el funcionario que aplicó la sanción.
+
+Admitida la reclamación a tramitación, previa verificación de los requisitos señalados en el inciso anterior, su substanciación se regirá por el procedimiento de aplicación general contenido en el Párrafo 3°, del Capítulo II, del Título I del presente Código, a menos que la cuantía de la multa, al momento de la dictación de la resolución que la impone o de la que resuelve la reconsideración administrativa respecto de ella, sea igual o inferior a 10 Ingresos Mínimos Mensuales, caso en el cual, se sustanciará de acuerdo a las reglas del procedimiento monitorio, contenidas en los artículos 500 y siguientes del presente Código.
+
+En contra de la sentencia que resuelva una reclamación se podrá recurrir conforme a lo establecido en el artículo 502 del presente Código.
+
+#### Artículo 504
+
+En todos aquellos casos en que en virtud de este Código u otro cuerpo legal, se establezca reclamación judicial en contra de resoluciones pronunciadas por la Dirección del Trabajo, distintas de la multa administrativa o de la que se pronuncie acerca de una reconsideración administrativa de multa, se sustanciará de acuerdo a las reglas del procedimiento monitorio, contenidas en los artículos 500 y siguientes del presente Código.
 
 Título Final
 
 DE LA FISCALIZACION, DE LAS SANCIONES Y DE LA PRESCRIPCION
 
-#### Artículo 476
+#### Artículo 505
 
 La fiscalización del cumplimiento de la legislación laboral y su interpretación corresponde a la Dirección del Trabajo, sin perjuicio de las facultades conferidas a otros servicios administrativos en virtud de las leyes que los rigen.
 
 Los funcionarios públicos deberán informar a la Inspección del Trabajo respectiva, las infracciones a la legislación laboral de que tomen conocimiento en el ejercicio de su cargo.
 
-#### Artículo 477
+#### Artículo 506
 
 Las infracciones a este Código y a sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas con multa de una a veinte unidades tributarias mensuales, según la gravedad de la infracción.
 
@@ -5388,7 +5656,7 @@ Las infracciones a las normas sobre fuero sindical se sancionarán con multa a b
 
 > **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
-#### Artículo 478
+#### Artículo 507
 
 Se sancionará con una multa a beneficio fiscal de 5 a 100 unidades tributarias mensuales, al empleador que simule la contratación de trabajadores a través de terceros, cuyo reclamo se regirá por lo dispuesto en el artículo 474. En este caso, el empleador quedará sujeto al cumplimiento de todas las obligaciones laborales y previsionales y al pago de todas las prestaciones que correspondieren respecto de los trabajadores objetos de la simulación.
 
@@ -5402,15 +5670,15 @@ El plazo de prescripción que extinga las acciones y derechos a que se refieren 
 
 > **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
-#### Artículo 478 bis
+#### Artículo 508
 
 Las notificaciones que realice la Dirección del Trabajo se podrán efectuar por carta certificada, dirigida al domicilio que las partes hayan fijado en el contrato de trabajo, en el instrumento colectivo o proyecto de instrumento cuando se trate de actuaciones relativas a la negociación colectiva, al que aparezca de los antecedentes propios de la actuación de que se trate o que conste en los registros propios de la mencionada Dirección. La notificación se entenderá practicada al sexto día hábil contado desde la fecha de su recepción por la oficina de Correos respectiva, de lo que deberá dejarse constancia por escrito.
 
-#### Artículo 479
+#### Artículo 509
 
 Las personas que incurran en falsedad en el otorgamiento de certificados, permisos o estado de salud, en falsificación de éstos, o en uso malicioso de ellos, serán sancionadas con las penas previstas en el artículo 202 del Código Penal.
 
-#### Artículo 480
+#### Artículo 510
 
 Los derechos regidos por este Código prescribirán en el plazo de dos años contados desde la fecha en que se hicieron exigibles.
 
@@ -5424,7 +5692,7 @@ Los plazos de prescripción establecidos en este Código no se suspenderán, y s
 
 Con todo, la interposición de un reclamo administrativo debidamente notificado ante la Inspección del Trabajo respectiva, dentro de los plazos indicados en los incisos primero, segundo, tercero y cuarto suspenderá también la prescripción, cuando la pretensión manifestada en dicho reclamo sea igual a la que se deduzca en la acción judicial correspondiente, emane de los mismos hechos y esté referida a las mismas personas. En estos casos, el plazo de prescripción seguirá corriendo concluido que sea el trámite ante dicha Inspección y en ningún caso podrá exceder de un año contado desde el término de los servicios.
 
-#### Artículo 481
+#### Artículo 511
 
 Facúltase al Director del Trabajo, en los casos en que el afectado no haya reclamado de conformidad con el artículo 474 de este Código, para dejar sin efecto o rebajar, en su caso, las multas administrativas impuestas por funcionarios de su dependencia y renunciar o desistirse de la acción ejecutiva para su cobro siempre que concurra alguna de las circunstancias siguientes:
 
@@ -5434,13 +5702,15 @@ Facúltase al Director del Trabajo, en los casos en que el afectado no haya recl
 
 Si dentro de quince días de notificada la multa, el empleador corrigiere la infracción a satisfacción de la Dirección del Trabajo, el monto de la multa se rebajará en un cincuenta por ciento, sin perjuicio del derecho de solicitar una reconsideración por el monto total de la multa, a la misma Dirección.
 
-#### Artículo 482
+Los empleadores que no presenten diferencias arbitrarias de remuneraciones entre trabajadores que desempeñen cargos y responsabilidades similares, podrán solicitar la rebaja del 10% de las multas adicionalmente a lo que se resuelva por aplicación de los incisos precedentes, en tanto las multas cursadas no se funden en prácticas antisindicales o infracción a los derechos fundamentales.
+
+#### Artículo 512
 
 El Director del Trabajo hará uso de esta facultad mediante resolución fundada, a solicitud escrita del interesado, la que deberá presentarse dentro del plazo de treinta días de notificada la resolución que aplicó la multa administrativa.
 
 Esta resolución será reclamable ante el Juez de Letras del Trabajo dentro de quince días de notificada y en conformidad al artículo 474 de este Código.
 
-#### Artículo 483
+#### Artículo 513
 
 Toda persona que contrate los servicios intelectuales o materiales de terceros, que esté sujeta a la fiscalización de la Dirección del Trabajo, deberá dar cuenta a la Inspección del Trabajo correspondiente dentro de los tres días hábiles siguientes a que conoció o debió conocer del robo o hurto de los instrumentos determinados en el artículo 31 del decreto con fuerza de ley N.° 2, de 1967, del Ministerio del Trabajo y Previsión Social, que el empleador está obligado a mantener en el lugar de trabajo. El empleador sólo podrá invocar la pérdida de los referidos documentos si hubiere cumplido con el trámite previsto anteriormente y hubiese, además, efectuado la denuncia policial respectiva.
 
