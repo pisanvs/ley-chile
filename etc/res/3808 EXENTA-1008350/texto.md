@@ -1,0 +1,3 @@
+Por resolución exenta número 3.808, de 13 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111169, presentada por INVERSIONES CHIPANA LIMITADA para instalar y operar un centro de cultivo ubicado en Canal Moraleda, entre Isla Cuptana e Islote Lorca, XI Región.
+
+Valparaíso, 13 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
