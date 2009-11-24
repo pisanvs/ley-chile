@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.554, de 23 de otubre de 2009, de esta Subsecretaría, autorízase a EDUARDO SERGIO TOBAR CORVALÁN para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Puente Tierra s/n, Km. 5,5, Tirúa Sur, VIII Región, en las líneas de proceso Cocido, Congelado, Alga seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de octubre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
