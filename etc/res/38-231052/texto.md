@@ -236,6 +236,8 @@ En la zona preferentemente comercial ( ZU-2 ) se podrá excavar la totalidad del
 
 En las zonas preferentemente residenciales las excavaciones para subterráneos no podrán exceder del 70% de la superficie predial.
 
+Igualmente, en la Zona ZU-9, se podrá excavar la totalidad del terreno para la habilitación de subterráneos
+
 #### Artículo 11°
 
 Equipamiento:
@@ -749,6 +751,34 @@ Disposiciones complementarias:
 - Las canchas deportivas y graderías de público no se contabilizan para el cálculo de la ocupación del suelo.
 
 - El equipamiento complementario sobre las áreas verdes requiere de aprobación del Concejo Municipal por tratarse de bien nacional de uso público, sujetos a la administración municipal.
+
+Zona ZU-9
+
+Esta Zona se encuentra delimitada por las calles El Abra, por el norte; Avenida Grau, por el oriente y por el sur, y por Avenida Balmaceda por el poniente, tal como queda graficado en el Plano Modificación PRC-06.
+
+El área territorial de la Zona ZU-9 está comprendida en la línea poligonal cerrada, definida por los puntos 1-2-3-4, descrita a continuación:
+
+Cuadro Nº 1
+
+• Usos de suelo permitidos:
+
+- Equipamiento de Salud
+
+- Equipamiento de Servicio
+
+- Residencial
+
+- Área Verde
+
+• Uso de suelo prohibido:
+
+- Todos los no indicados como permitidos
+
+Condiciones de Subdivisión predial y Edificación.
+
+Cuadro Nº 2 Uso de Suelo: Equipamiento Salud
+
+Cuadro Nº 3 Usos de Suelo: Residencial y Equipamiento de Servicios
 
 ZONA ZE - 1 : Expansión Comercial.
 
