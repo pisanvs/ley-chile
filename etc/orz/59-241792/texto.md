@@ -1062,4 +1062,10 @@ La presente Ordenanza no regirá el comercio que se ejerza en la denominada Feri
 
 La presente Ordenanza entrará en vigencia al día siguiente de su publicación en el Diario Oficial, fecha en que se entenderá derogada la Ordenanza No. 5, de fecha 26 de noviembre de 1979, y sus Decretos Modificatorios.
 
+#### Artículo transitorio
+
+Autorízase, por una sola vez, a los comerciantes que actualmente explotan comercio estacionado y ambulante, en Bienes Nacionales de Uso Público, al amparo de permisos otorgados a terceros, para regularizarlos y enrolarlos a sus nombres, siempre y cuando lo hayan solicitado por escrito, con fecha anterior al 31 de julio de 2009.
+
+Estos nuevos enrolamientos no estarán afectos al pago del derecho a que se refiere el artículo 14º, Nº 23.1 y 23.2, de la Ordenanza Nº 94, sobre "Derechos Municipales por Permisos, Concesiones y Servicios Municipales
+
 Anótese y transcríbase a todas las Reparticiones Municipales, Juzgados de Policía Local de Santiago, Intendencia Regional Metropolitana, Prefectura Central de Carabineros, Servicio de Salud del Ambiente, y pase a la Dirección General de Inspección para su conocimiento y fines consiguientes.- Jaime Ravinet de la Fuente, Alcalde de Santiago.- Alfredo Egaña Respaldiza, Secretario Municipal.
