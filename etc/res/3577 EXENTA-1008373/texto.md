@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.577, de 23 de octubre de 2009, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL DE PUERTO CISNES para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Avenida Arturo Prat s/n, Varadero de Puerto Cisnes, Puerto Cisnes, XI Región, para elaborar en las líneas de proceso de Cocido, Fresco Enfriado, Congelado, Seco Salado, Salado Húmedo, Ahumado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de octubre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
