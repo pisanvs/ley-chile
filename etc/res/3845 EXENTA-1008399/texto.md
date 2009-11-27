@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.845, de 19 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 203101369, presentada por FELIPE RAFAEL CHÁVEZ CATEPILLÁN para instalar y operar un centro de cultivo ubicado en estero Reloncaví, sector norte de Farallones Marimeli, X Región.
+
+Valparaíso, 19 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
