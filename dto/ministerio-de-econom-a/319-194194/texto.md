@@ -384,7 +384,7 @@ c) Se deberá limpiar y desinfectar las superficies de los botes utilizados y lo
 
 d) Antes y después del uso del equipo empleado para la recolección de mortalidades, deberá desinfectarse, debiendo existir un sistema de registros de dicha actividad.
 
-La mortalidad diaria de los centros de cultivo de peces en mar será sometida a ensilaje dentro de las 24 horas. El depósito temporal de mortalidades debe efectuarse en envases especialmente destinados para este fin, debidamente identificados y con tapa, paredes y fondo herméticos que impidan posibles derrames.
+La mortalidad diaria de los centros de cultivo de peces en mar y en agua dulce será sometida a ensilaje dentro de las 24 horas. El depósito temporal de mortalidades debe efectuarse en envases especialmente destinados para este fin, debidamente identificados y con tapa, paredes y fondo herméticos que impidan posibles derrames.
 
 Se entenderá por ensilaje el procedimiento de transformación de la mortalidad mediante una molienda y adición de ácido fórmico hasta alcanzar y mantener un pH 4, en una mezcla homogénea, de lo cual deberá llevarse un registro diario.
 
