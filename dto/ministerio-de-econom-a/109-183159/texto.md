@@ -92,8 +92,6 @@ H 29° 38' 34.99" 71° 19' 11.94"
 
 I 29° 38' 35.18" 71° 19' 06.57"
 
-> **Nota.** El Decreto 1338 Exento, Economía, publicado 10.01.2013, modifica la presente norma en el sentido de reemplazar las coordenadas geográficas del área de manejo y explotación de recursos bentónicos denominada Tarcaruca Sector B, en la IV Región, según lo indicado en el citado decreto.
-
 #### Artículo 2º
 
 <!-- parte:6327524 -->
