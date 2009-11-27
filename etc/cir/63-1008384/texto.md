@@ -1,0 +1,5 @@
+INSTRUCCIONES SOBRE RECUPERACIÓN DEL PAGO DE PATENTES POR LA NO UTILIZACIÓN DE AGUAS A QUE SE REFIERE EL TÍTULO XI DEL CÓDIGO DE AGUAS, A TRAVÉS DE SU IMPUTACIÓN A LOS PAGOS PROVISIONALES MENSUALES OBLIGATORIOS O A OTROS IMPUESTOS DE RETENCIÓN O RECARGO DE DECLARACIÓN MENSUAL Y PAGO SIMULTÁNEO QUE DEBAN PAGARSE EN LA MISMA FECHA, DE ACUERDO A LO ESTABLECIDO EN EL ARTÍCULO 129 BIS 20, DEL MISMO CÓDIGO
+
+Extracto de Circular del Servicio de Impuestos Internos Nº63, del 23 de noviembre de 2009. Mediante la presente circular se dan a conocer las normas legales sobre la materia y las instrucciones sobre el tratamiento tributario de las patentes pagadas por la no utilización de las aguas, detallando las condiciones y requisitos que se deben cumplir para que dicha recuperación opere respecto de los contribuyentes beneficiados y la forma en que debe efectuarse su imputación a los impuestos referidos.
+
+El texto íntegro de esta circular está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2009.
