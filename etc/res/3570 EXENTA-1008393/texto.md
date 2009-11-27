@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.570, de 23 de octubre de 2009, de esta Subsecretaría, autorízase a CARLOS FÉLIX CUBILLOS ESPINOZA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Caleta Constitución s/n, sector terreno de playa, Isla Santa María, Antofagasta, II Región, para elaborar en línea Alga seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 23 de octubre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
