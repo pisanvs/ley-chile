@@ -20,33 +20,37 @@ Decreto:
 
 Establécese el área de manejo y explotación de recursos bentónicos denominada Isla Choros, en la IV Región, en un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-(CARTA IGM Nº 2900-7115, 1ª Ed. 1967, Esc. 1:50.000)
+COORDENADAS GEOGRÁFICAS REFERIDAS AL
 
-Puntos Latitud Longitud
+DATUM WGS-84
 
-A 29º14'52,84" 71º31'31,22"
+Punto Latitud Longitud
 
-B 29º14'37,32" 71º31'50,70"
+(S) (W)
 
-C 29º14'37,46" 71º32'14,50"
+A 29° 14' 50.02" 71° 31' 54.85"
 
-D 29º15'02,99" 71º32'44,48"
+B 29° 15' 05.54" 71° 31' 35.37"
 
-E 29º15'57,71" 71º32'52,48"
+C 29° 15' 30.88" 71° 31' 56.79"
 
-F 29º16'23,48" 71º33'07,81"
+D 29° 16' 26.10" 71° 32' 14.16"
 
-G 29º16'37,20" 71º33'11,84"
+E 29° 16' 54.58" 71° 32' 08.25"
 
-H 29º17'00,31" 71º33'12,89"
+F 29° 17' 30.83" 71° 32' 45.55"
 
-I 29º17'18,13" 71º32'41,39"
+G 29° 17' 13.01" 71° 33' 17.05"
 
-J 29º16'41,88" 71º32'04,09"
+H 29° 16' 49.90" 71° 33' 15.50"
 
-K 29º16'13,40" 71º32'10,00"
+I 29° 16' 36.18" 71° 33' 11.97"
 
-L 29º15'18,18" 71º31'52,64"
+J 29° 16' 10.41" 71° 32' 56.64"
+
+K 29° 15' 15.69" 71° 32' 48.64"
+
+L 29° 14' 50.16" 71° 32' 18.66"
 
 #### Artículo 2º
 
