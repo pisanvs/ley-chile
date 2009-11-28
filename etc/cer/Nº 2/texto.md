@@ -1,0 +1,7 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA EN LAS VENTAS DE CARNE A CENCOSUD RETAIL S.A.
+
+Certificado Nº 2.- El Director de Grandes Contribuyentes del Servicio de Impuestos Internos que suscribe, certifica que la empresa Cencosud Retail S.A., RUT Nº 81.201.000-K, domiciliada en esta ciudad, Avenida Kennedy Nº 9001, piso 5, comuna de Las Condes, cumple con los requisitos establecidos en la resolución Nº 3.722, de 28 de julio de 2000, publicada en el Diario Oficial de 1 de agosto de 2000 y que, en consecuencia, tiene la calidad de retenedor del Impuesto al Valor Agregado en las ventas de carnes y servicios de faenamiento de ganado que efectúe.
+
+La presente autorización regirá a contar del día primero del mes siguiente al de la fecha de publicación de este Certificado en el Diario Oficial, por su cuenta y costo, dentro de los primeros quince días de la emisión del presente Certificado, y tendrá vigencia indefinida, siempre que dé cabal cumplimiento a las obligaciones señaladas en la resolución mencionada. Su incumplimiento producirá la caducidad de esta autorización y la aplicación de las sanciones que fueran procedentes.
+
+Santiago, 23 de noviembre de 2009.- Bernardo Marchant Águila, Director Grandes Contribuyentes.
