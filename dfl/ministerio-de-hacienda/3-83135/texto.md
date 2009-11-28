@@ -1,10 +1,10 @@
 FIJA TEXTO REFUNDIDO, SISTEMATIZADO Y CONCORDADO DE LA LEY GENERAL DE BANCOS Y DE OTROS CUERPOS LEGALES QUE SE INDICAN
 
-D.F.L. Núm. 3.- Santiago, 26 de noviembre de 1997.-
-
-Vistos: lo dispuesto en el decreto con fuerza de ley Nº 252, de 1960, Ley General de Bancos; en el decreto ley Nº 1.097, de 1975, sobre Ley Orgánica de la Superintendencia de Bancos e Instituciones Financieras, y en los demás textos legales que se refieren a bancos y sociedades financieras u otras empresas fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras; lo dispuesto en el artículo 2º transitorio de la ley Nº 19.528, de 4 de noviembre de 1997, y las facultades que me confiere el artículo 32, Nº 3, de la Constitución Política de la República de Chile, dicto el siguiente:
+D.F.L. Núm. 3.- Santiago, 26 de noviembre de 1997.- Vistos: lo dispuesto en el decreto con fuerza de ley Nº 252, de 1960, Ley General de Bancos; en el decreto ley Nº 1.097, de 1975, sobre Ley Orgánica de la Superintendencia de Bancos e Instituciones Financieras, y en los demás textos legales que se refieren a bancos y sociedades financieras u otras empresas fiscalizadas por la Superintendencia de Bancos e Instituciones Financieras; lo dispuesto en el artículo 2º transitorio de la ley Nº 19.528, de 4 de noviembre de 1997, y las facultades que me confiere el artículo 32, Nº 3, de la Constitución Política de la República de Chile, dicto el siguiente:
 
 D e c r e t o c o n f u e r z a d e l e y:
+
+> **Nota.** El Nº 14 del artículo 3º de la LEY 20190, publicada el 05.06.2007, derogó el Título XIV "Sociedades Financieras" y todas las referencias contenidas en la presente ley a las citadas sociedades.
 
 #### Artículo único
 
@@ -728,7 +728,7 @@ Encaje y Reserva Técnica de los Bancos
 
 Las empresas bancarias y el Banco del Estado de Chile deberán mantener, por sus depósitos a la vista y a plazo u obligaciones, los encajes que determine el Banco Central de Chile.
 
-Para estos efectos, se considerarán depósitos u obligaciones a la vista aquellos cuyo pago pueda ser legalmente requerido dentro de un plazo inferior a treinta días. Los que sólo puedan serlo en un plazo de treinta días o más, se considerarán a plazo.
+> **Nota.** El Nº 6 del artículo 3º de la LEY 20190, publicada El 05.06.2007, suprime el inciso segundo del presente artículo.
 
 #### Artículo 64
 
@@ -740,13 +740,13 @@ Si la falta de encaje se originare por causa de cierre bancario y no se prolonga
 
 #### Artículo 65
 
-Los depósitos en cuenta corriente y los demás depósitos y captaciones a la vista que un banco reciba, como asimismo las sumas que deba destinar a pagar obligaciones a la vista que contraiga dentro de su giro financiero, en la medida que excedan de dos veces y media su capital pagado y reservas, deberán mantenerse en caja o en una reserva técnica consistente en depósitos en el Banco Central de Chile o en documentos emitidos por esta institución o el Servicio de Tesorerías, para cuyo vencimiento no falten más de 90 días. Los documentos del Banco Central de Chile serán rescatados por éste por el valor del saldo de capital adeudado, más intereses y reajustes calculados hasta la fecha de la recepción, a solo requerimiento del banco titular cuando se encuentre en alguna de las situaciones previstas en los párrafos 2º y 3º del Título XV.
+Los depósitos en cuenta corriente y los demás depósitos y captaciones a la vista que un banco reciba, como asimismo las sumas que deba destinar a pagar obligaciones a la vista que contraiga dentro de su giro financiero, en la medida que excedan de dos veces y media su patrimonio efectivo, deberán mantenerse en caja o en una reserva técnica consistente en depósitos en el Banco Central de Chile o en documentos emitidos por esta institución o por la Tesorería General de la República a cualquier plazo valorados según precios de mercado. Los documentos del Banco Central de Chile serán rescatados por éste por el valor del saldo de capital adeudado, más intereses y reajustes calculados hasta la fecha de la recepción, a solo requerimiento del banco titular cuando se encuentre en alguna de las situaciones previstas en los párrafos 2º y 3º del Título XV.
 
 Para los efectos de este artículo:
 
-a) Se considerarán depósitos y obligaciones a la vista aquellos cuyo pago pueda ser legalmente requerido en forma incondicional, de inmediato o dentro de un plazo inferior a treinta días y también los depósitos y captaciones a plazo a contar desde el décimo día que preceda al de su vencimiento.
+a) Se considerarán depósitos y obligaciones a la vista aquellos cuyo pago pueda ser legalmente requerido en forma incondicional, de inmediato .
 
-b) Los préstamos que el banco haya recibido de otro se considerarán siempre como obligaciones a plazo.
+b) Los depósitos, préstamos o cualquiera otra obligación que el banco haya contraído con otra empresa bancaria. se considerarán siempre como obligaciones a plazo.
 
 Los depósitos y obligaciones afectos a las normas de este artículo que excedan de la suma señalada en el inciso primero no estarán sujetos a la obligación de encaje prevista en el artículo 63; ni las cantidades que el banco mantenga en el Banco Central de Chile en virtud de ellas servirán para constituirlo.
 
@@ -915,6 +915,14 @@ b) Comprar y vender bienes corporales muebles o inmuebles sólo para realizar op
 Podrán también los bancos constituir filiales como sociedades inmobiliarias, las que, en su constitución y operación, se sujetarán a las normas de esta ley. Podrán además, constituir o formar parte de Administradoras de Fondos para la Vivienda, de acuerdo con las leyes que los rijan.
 
 > **Nota.** El artículo 1º Transitorio de la LEY 19934, publicada 21.02.2004, dispone que las modificaciones al presente artículo entrarán en vigencia ciento ochenta días después de su publicación.
+
+#### Artículo 70 bis
+
+Asimismo, los bancos y sociedades financieras pueden constituir en el país sociedades filiales de asesoría previsional, a que se refiere el decreto ley N° 3.500, de 1980. Las entidades de asesoría previsional serán supervisadas también por la Superintendencia de Pensiones, de acuerdo a lo dispuesto en el decreto ley N° 3.500.
+
+Las Superintendencias de Valores y Seguros y de Pensiones, mediante norma de carácter general conjunta, impartirán a las sociedades de asesoría previsional, que sean filiales de bancos, instrucciones destinadas a garantizar la independencia de su actuación, estándoles especialmente vedado a los bancos condicionar el otorgamiento de créditos a la contratación de servicios de asesoría previsional a través de un asesor relacionado con el banco.
+
+> **Nota.** El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que el presente artículo regirá a contar del primer día del séptimo mes siguiente al de su publicación.
 
 #### Artículo 71
 
@@ -1098,11 +1106,7 @@ Toda infracción a lo dispuesto en este número será sancionada con una multa d
 
 3) No podrá conceder, directa o indirectamente, crédito alguno con el objeto de habilitar a una persona para que pague al banco acciones de su propia emisión. Si contraviniere esta disposición pagará una multa igual al valor del crédito.
 
-4) El monto total de los créditos que un banco pueda conceder a sus trabajadores, no podrá exceder de un 1,5% del patrimonio efectivo de la empresa ni individualmente del 10% de dicho límite.
-
-No obstante, los bancos podrán otorgar a sus trabajadores, sin sujeción a los límites del inciso anterior, préstamos con garantía hipotecaria con el objeto de que adquieran una casa habitación para su uso personal. Respecto de una misma persona, esta facultad podrá ejercitarse en una sola oportunidad mientras subsista la calidad de trabajador.
-
-En ningún caso una empresa bancaria podrá conceder, directa o indirectamente, créditos a un director, o a cualquiera persona que se desempeñe en ella como apoderado general. Tampoco podrá conceder créditos al cónyuge ni a los hijos menores bajo patria potestad de tales personas, ni a las sociedades en que cualquiera de ellas forme parte o tenga participación. Para la aplicación de este precepto, la Superintendencia podrá establecer, mediante normas generales, que queden excluidas de la limitación, las sociedades en que tales personas tengan una participación que no sobrepase determinado porcentaje.
+4) En ningún caso una empresa bancaria podrá conceder, directa o indirectamente, créditos a un director, o a cualquiera persona que se desempeñe en ella como apoderado general. Tampoco podrá conceder créditos al cónyuge ni a los hijos menores bajo patria potestad de tales personas, ni a las sociedades en que cualquiera de ellas forme parte o tenga participación. Para la aplicación de este precepto, la Superintendencia podrá establecer, mediante normas generales, que queden excluidas de la limitación, las sociedades en que tales personas tengan una participación que no sobrepase determinado porcentaje.
 
 Las personas que entren a desempeñarse en un banco no podrán asumir sus funciones mientras no ajusten su situación crediticia con dicha empresa a las normas de este precepto.
 
@@ -1484,9 +1488,9 @@ Producida esta situación, el Banco Central de Chile, a petición de la instituc
 
 Desde la fecha de presentación de las proposiciones de convenio y mientras no exista una decisión de los acreedores sobre ellas, no será exigible para la institución el pago de los depósitos y otras obligaciones que no sean los que señala el artículo 65, inciso segundo, letra a).
 
-Los depósitos y captaciones a plazo a que se refiere la misma disposición, se entenderán a la vista para los efectos de su pago inmediato, cuando su vencimiento ocurra dentro de los diez días siguientes a la fecha en que el banco haya presentado las proposiciones de convenio.
-
 Los depósitos a la vista que el banco reciba en el período indicado en el inciso sexto no quedarán afectos a la suspensión de pagos y deberán llevarse en contabilidad separada.
+
+> **Nota.** El Nº 15 del artículo 3º de la LEY 20190, publicada el 05.06.2007, elimíno el inciso penúltimo del presente artículo.
 
 #### Artículo 124
 
@@ -1578,7 +1582,7 @@ El liquidador tendrá un plazo de tres años para el desempeño de su cargo y te
 
 #### Artículo 132
 
-Declarada la liquidación forzosa de un banco, los depósitos en cuenta corriente y los otros depósitos a la vista que haya recibido, las obligaciones a la vista que haya contraído en su giro financiero y los depósitos y captaciones a plazo a que se refiere el inciso segundo, letra a), del artículo 65, se pagarán con cargo a los fondos que se encuentren en caja o depositados en el Banco Central de Chile o invertidos en documentos representativos de la reserva técnica de que trata dicho artículo, sin que les sean aplicables los procedimientos de pago ni las limitaciones que rigen el proceso de liquidación forzosa. Para los efectos contemplados en este artículo, se presume que todos los fondos que existan en la caja de la institución son de aquellos que deben destinarse a los pagos de que trata este precepto.
+Declarada la liquidación forzosa de un banco, los depósitos en cuenta corriente y los otros depósitos a la vista que haya recibido y las obligaciones a la vista que haya contraído en su giro financiero, se pagarán con cargo a los fondos que se encuentren en caja o depositados en el Banco Central de Chile o invertidos en documentos representativos de la reserva técnica de que trata dicho artículo, sin que les sean aplicables los procedimientos de pago ni las limitaciones que rigen el proceso de liquidación forzosa. Para los efectos contemplados en este artículo, se presume que todos los fondos que existan en la caja de la institución son de aquellos que deben destinarse a los pagos de que trata este precepto.
 
 Si los fondos previstos en este artículo fueren insuficientes, el liquidador deberá proceder con la mayor diligencia y premura a efectuar estos pagos y, para tal efecto, podrá enajenar desde luego los demás activos que resulten necesarios para ello. El Banco Central de Chile deberá proporcionarle los fondos necesarios para pagar a los acreedores de las obligaciones de que trata este artículo. Con este objeto el Banco Central de Chile podrá, a su elección, adquirir activos del banco o concederle préstamos. Los préstamos que el Banco Central de Chile otorgue para cumplir esta obligación, o la señalada en el artículo 123, gozarán de preferencia respecto de cualquier otro acreedor, sean éstos preferentes o valistas.
 
@@ -1744,7 +1748,7 @@ Cuando una obligación garantizada conste en un documento a la orden, se presumi
 
 #### Artículo 147
 
-Si el pago de una obligación a plazo corresponde efectuarlo dentro del sistema previsto en el artículo 65, dicha obligación no se considerará para los efectos de este párrafo.
+Derogado
 
 #### Artículo 148
 
