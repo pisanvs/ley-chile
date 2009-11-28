@@ -70,8 +70,6 @@ F 36° 32' 28.17" 072° 57'24.53"
 
 G 36° 32' 28.17" 072° 57'25.28"
 
-> **Nota.** El Decreto 1238 Exento, Economía, publicado el 04.12.2012, dispone reemplazar las coordenadas geográficas indicadas en la presente norma de la manera que el citado decreto extractado señala.
-
 #### Artículo 2º
 
 Podrán optar a estas áreas de manejo y explotación de recursos bentónicos las organizaciones de pescadores artesanales legalmente constituidas, de conformidad con lo establecido en los Títulos III y IV del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.

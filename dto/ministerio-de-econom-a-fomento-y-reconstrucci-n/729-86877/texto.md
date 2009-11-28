@@ -68,15 +68,17 @@ D 36°58'11,21" 73°32'17,90"
 
 2) En el Sector denominado Coliumo, un área inscrita en la figura irregular, entre la línea de la costa y los vértices cuyas coordenadas son las siguientes:
 
-SECTOR A
+(Datum WGS-84)
 
-(CARTA SHOA Nº 611; ESC. 1:50.000; 6ª ED. 1985)
+Puntos Latitud Longitud
 
-Vértice Latitud S. Longitud W.
+A 36° 32'28.17" 072°57'25.28"
 
-A 36°32'27,00" 72°56'51,00"
+B 36° 32'28.17" 072°57'21.44"
 
-B 36°32'12,00" 72°57'17,30"
+C 36° 32'40.97" 072°56'59.74"
+
+D 36° 32'45.46" 072°56'58.59"
 
 3) En el Sector denominado Lenga, un área inscrita en
 
