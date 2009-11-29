@@ -336,7 +336,7 @@ De los Cónsules Honorarios.
 
 1. Los Cónsules Honorarios pueden ser chilenos, o extranjeros si cuentan con el consentimiento del Estado receptor, y deben reunir los siguientes requisitos que acreditarán a satisfacción del Ministerio:
 
-a) Tener para el ingreso a la función consular más de 21 años y menos de 60 - salvo el caso de los ex funcionarios del Servicio Exterior, que podrán ser nombrados aunque excedan esa edad -, contar con los recursos económicos que les permitan vivir con independencia y decoro; ejercer una profesión, comercio o actividad honrosas; gozar de consideración social en la localidad, si los candidatos fuesen o hubieren sido residentes en ella, y tener la preparación necesaria para el desempeño de la función consular.
+a) Contar con los recursos económicos que les permitan vivir con independencia y decoro; ejercer una profesión, comercio o actividad honrosas; gozar de consideración social en la localidad, si los candidatos fuesen o hubieren sido residentes en ella, y tener la preparación necesaria para el desempeño de la función consular.
 
 b) Asimismo, deberán reunir las condiciones dispuestas por las leyes y reglamentos vigentes. Para los de nacionalidad extranjera es obligatorio, además, el conocimiento del idioma español.
 
