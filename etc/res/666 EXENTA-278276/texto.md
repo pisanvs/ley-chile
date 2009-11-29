@@ -132,21 +132,15 @@ N° personas hipertensas bajo control de 20 y más años, compensados ( P.A. < 1
 
 Total personas hipertensas bajo control de 20 y más años a diciembre 2009
 
-Meta 6.- Obesidad en niños/as menores de 6 años bajo control. Meta= 8%
+Meta 6.- Obesidad en niños/as menores de 6 años bajo control: Meta 9,7%
 
-Se espera detener el aumento de la malnutrición por exceso reduciendo el porcentaje de obesidad en niños menores de 6 años. El porcentaje esperado para el país es 8% como máximo.
+Se espera detener el aumento de malnutrición por exceso, reduciendo el porcentaje de obesidad en niños menores de 6 años. El porcentaje esperado para el país es 9,7% como máximo.
 
-Las comunas o establecimientos, según sea la unidad de análisis previamente definida por el Servicio de Salud, que estén sobre este porcentaje de obesidad deberán impulsar el logro de la meta. Quienes tengan porcentajes inferiores de obesidad en niños/as menores de 6 años bajo control, deberán mantenerlo o disminuir, de acuerdo a lo obtenido a diciembre 2008.
+Las comunas o establecimientos según sea la unidad de análisis, previamente definida por el Servicio de Salud, que estén sobre este porcentaje de obesidad deberán impulsar el logro de la meta. Quienes tengan porcentajes inferiores de obesidad en niños/as menores de 6 años bajo control, deberán mantenerlo o disminuir de acuerdo a lo obtenido a diciembre de 2008.
 
 Indicador:
 
-N° de Niños/as menores de 6 años obesos bajo control a
-
-diciembre 2009 x 100
-
-----------------------------------------------------
-
-Población total de niños/as menores de 6 años bajo control a diciembre 2009
+Nº de niños/as menores de 6 años obesos bajo control a diciembre de 2009 x 100 Población total de niños/as menores de 6 años bajo control a diciembre de 2009
 
 Meta 7.- Profesionales con Agenda centralizada en SOME en cada establecimiento
 
@@ -204,21 +198,17 @@ Nº de reclamos respondidos con solución, en 20 días hábiles, de enero a dici
 
 Nº total de reclamos de enero a diciembre de 2009.
 
-Meta 10.- Vacunación 3ª dosis Pentavalente del Programa Nacional de Inmunizaciones. Meta de 90%
+Meta 10.- Vacunación 3ª dosis Pentavalente del Programa Nacional de Inmunizaciones. Meta de 95%
 
-La meta de cobertura de vacunación con la tercera dosis pentavalente del calendario de vacunación vigente para el año 2009 es de 90%.
+La meta de cobertura de vacunación, con la tercera dosis pentavalente del calendario de vacunación vigente para el año 2009 es de 95%.
 
 Las comunas o establecimientos, según sea la unidad de análisis previamente definida por el Servicio de Salud, que estén bajo este porcentaje, deberán estimular el logro de la meta.
 
 Quienes tengan porcentajes superiores, deberán mantenerlo o aumentar, de acuerdo a lo obtenido a diciembre 2008.
 
-Indicador
+Indicador:
 
-Nº de Niños y Niñas vacunados con la 3ª dosis de vacuna pentavalente. x 100
-
-----------------------------------------------------
-
-Nº total de Niños y Niñas residentes en la comuna.
+Nº de niños/as vacunados con la 3ª dosis de vacuna pentavalente x 100 Nº total de niños y niñas inscritos validados para el año 2009.
 
 Anótese y publíquese.- María Soledad Barría Iroumé, Ministra de Salud.
 
