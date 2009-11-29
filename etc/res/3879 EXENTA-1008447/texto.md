@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.879, de 20 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 205111359 presentada por SOCIEDAD DE INVERSIONES CAIQUENES LIMITADA para instalar y operar un centro de cultivo ubicado en canal Carrera del Diablo, entre Isla Fitz Roy y Península de Taitao, sector 2, XI Región.
+
+Valparaíso, 20 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
