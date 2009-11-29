@@ -16,37 +16,39 @@ Asígnase al Jefe de la División de Educación General del Ministerio de Educac
 
 Vehículo : Automóvil
 
-Marca : Chevrolet
+Marca : Nissan
 
-Modelo : Astra 1.8 GL
+Modelo : Sentra 2.000 cc-BL-801
 
-Año Fabricación : 2000
+Año Fabricación : 2008
 
-Nº Motor : NJ0046811
+Nº Motor : MR20228375H
 
-Nº Chasis : 76946
+Nº Chasis : 3N1AB61D6ZL501478
 
-Reg. Nacional Vehículos
+Reg. Nacional
 
-Motorizados : UA.1891-1
+Vehículos
 
-Placa Unica : UA.1891-1
+Motorizados : BSCC.89-3
+
+Placa Única : BSCC.89-3
 
 #### Artículo 2º
 
-Autorízase al Jefe de la División de Educación General para guardar el vehículo indicado en el artículo anterior en su domicilio particular y, cuando sea necesario, en el domicilio particular del respectivo chofer.
+Derogado
 
 #### Artículo 3º
 
-El Departamento de Administración General del Ministerio de Educación, a través de la Sección Equipamiento, deberá mantener una nómina actualizada del chofer designado para la conducción del vehículo indicado precedentemente, y de su domicilio particular.
+Derogado
 
 #### Artículo 4º
 
-La autoridad señalada en el artículo 1º deberá rendir caución, en la forma establecida en la ley, cuando conduzca habitualmente el vehículo que le ha sido asignado.
+Derogado
 
 #### Artículo 5º
 
-Autorízase al vehículo indicado en este decreto para circular los días sábados en la tarde, domingos y festivos y sin el disco distintivo señalado en el artículo 3º del decreto ley Nº 799, de 1974.
+Derogado
 
 #### Artículo 6º
 
