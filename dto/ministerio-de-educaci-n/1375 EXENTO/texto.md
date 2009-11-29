@@ -122,7 +122,7 @@ Marca : Hyundai
 
 Modelo : Elantra 2.0 GLS AT AC 2AB
 
-Año fabricación : 2008 D.O. 14.07.2008
+Año fabricación : 2008
 
 Nº motor : G4GC7112400
 
@@ -162,7 +162,7 @@ Marca : Chevrolet
 
 Modelo : Luv D-Max 3.5 4WD DAB
 
-Año fabricación : 2008 D.O. 14.07.2008
+Año fabricación : 2008
 
 Nº motor : G277759
 
@@ -238,23 +238,23 @@ Nº Placa Unica : NW.4485-0
 
 12.- Vehículo : Automóvil
 
-Marca : Chevrolet
+Marca : Nissan
 
-Modelo : Optra II LS NB 4P 1.8
+Modelo : Sentra 1.8 Aut.
 
-Año : 2007
+Año Fabricación : 2004
 
-Nº Motor : F18D3043875K
+Nº Motor : QG18794825R
 
-Nº Chassis : KL1JJ52B07K621807
+Nº Chasis : 3N1CB51S2ZL025361
 
 Reg. Nacional
 
 Vehículos
 
-Motorizados : MZ.9481-9
+Motorizados : XV.2896-4
 
-Nº Placa Unica : MZ.9481-9
+Placa Única : XV.2896-4
 
 #### Artículo segundo
 
