@@ -1,0 +1,9 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.124 EXENTA, DE 12.11.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del tercer cuatrimestre de 2008 se ha asignado a Universidad de Concepción, RUT Nº 81.494.400-K, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de Chillán, VIII Región, con las características técnicas siguientes: Potencia 1.000 W; frecuencia 94,7 MHz; estudio, planta transmisora y sistema radiante ubicados en 18 de Septiembre Nº 723, Chillán, VIII Región, coordenadas geográficas 36°36’17" Latitud Sur, 72°06’08" Longitud Oeste (Datum PSAD 56); sistema radiante omnidireccional con polarización circular, arreglo de 4 antenas Anillo, de 3 dBd de ganancia máxima y una altura del centro de radiación de 50 metros; pérdidas en cables, conectores y otros de 4,84 dB.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la ley Nº 18.168, General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de diez (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
