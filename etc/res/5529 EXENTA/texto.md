@@ -30,32 +30,6 @@ La Comisión Técnica Evaluadora deberá velar porque los proyectos postulantes 
 
 4°.- Los recursos involucrados para la selección de los proyectos postulantes al llamado a concurso dispuesto en el número 1º de esta resolución, serán los siguientes:
 
-Región Recursos (UF)
-
-Antofagasta 487.500,0
-
-Atacama 54.772,0
-
-Coquimbo 190.768,0
-
-Valparaíso 419.644,0
-
-O'Higgins 125.487,0
-
-Maule 259.978,0
-
-Bío-Bío 556.708,0
-
-Araucanía 111.435,0
-
-Los Ríos 144.945,0
-
-Los Lagos 340.352,0
-
-Metropolitana 32.520,0
-
-Total País 2.724.109,0
-
 5º.- El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, subsidio diferenciado de localización, si corresponde, e inspección técnica de obras.
 
 6º.- Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
