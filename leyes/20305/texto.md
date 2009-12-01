@@ -58,17 +58,17 @@ Podrá acceder al bono el personal que cese en sus funciones o termine su contra
 
 #### Artículo 3°
 
-El jefe superior de servicio o la jefatura máxima que corresponda, a partir del primer mes del semestre anterior a aquel en que el trabajador cumpla las edades señaladas en el número 4 del artículo 2°, se entenderá facultado para requerir de los organismos previsionales y de la Superintendencia de Administradoras de Fondos de Pensiones, la estimación acerca de la tasa de reemplazo líquida del trabajador de conformidad a lo dispuesto en el número 3 del artículo anterior. Para ello, el jefe superior de servicio o la jefatura máxima que corresponda, informará a dichos organismos y Superintendencia, la remuneración promedio líquida del trabajador según lo establecido en el número antes señalado. Además, deberá adjuntar una declaración del trabajador sobre sus eventuales beneficiarios de pensión de sobrevivencia, a menos que éste no la proporcione. Dicha declaración se efectuará de acuerdo a las instrucciones que imparta la Superintendencia de Administradoras de Fondos de Pensiones.
+El jefe superior de servicio o la jefatura máxima que corresponda, deberá recibir del trabajador que haya cumplido las edades indicadas en el número 4 del artículo 2°, la solicitud para acceder al bono dentro de los 12 meses siguientes al cumplimiento de las edades antes mencionadas, debiendo proceder a verificar los requisitos señalados en el inciso final del artículo 1°, y en los números 1, 2 y 4 del artículo 2°, además de determinar la remuneración promedio líquida. Asimismo, deberá requerir a la Superintendencia de Pensiones, la estimación acerca de la tasa de reemplazo líquida del trabajador de conformidad a lo dispuesto en el número 3 del artículo anterior.
+
+La solicitud que se remita a la Superintendencia de Pensiones, deberá adjuntar, además del cálculo de la remuneración promedio líquida, la declaración del trabajador sobre sus eventuales beneficiarios de pensión de sobrevivencia, a menos que éste no la proporcione. Dicha declaración se efectuará de acuerdo a las instrucciones que imparta la Superintendencia de Pensiones.
 
 Para los efectos de lo dispuesto en el inciso anterior, la Superintendencia de Administradoras de Fondos de Pensiones deberá solicitar los antecedentes necesarios a las administradoras de fondos de pensiones.
 
-Los organismos previsionales y la Superintendencia de Administradoras de Fondos de Pensiones deberán remitir la información señalada en el inciso primero dentro del plazo de 60 días, contado desde la recepción de solicitud de información. Sin embargo, si al vencimiento de dicho plazo no estuviere informado el bono de reconocimiento del trabajador, la Superintendencia prorrogará ese plazo por 30 días. El jefe superior de servicio o la jefatura máxima que corresponda, sumará las tasas de reemplazos líquidas informadas por las entidades señaladas en el inciso anterior y el resultado lo comunicará por escrito al trabajador.
+Los organismos previsionales y la Superintendencia de Administradoras de Fondos de Pensiones deberán remitir la información señalada en el inciso primero dentro del plazo de 60 días, contado desde la recepción de solicitud de información. Sin embargo, si al vencimiento de dicho plazo no estuviere informado el bono de reconocimiento del trabajador, la Superintendencia prorrogará ese plazo por 30 días.
 
-El trabajador, a partir de la notificación de la comunicación dispuesta en el inciso anterior y hasta los 12 meses siguientes al cumplimiento de las edades señaladas en el numeral 4 del artículo anterior, deberá presentar la solicitud para acceder al bono ante el jefe superior de servicio o la jefatura máxima de la entidad en la cual preste sus servicios.
+El jefe superior de servicio o la jefatura máxima que corresponda, notificará por escrito al trabajador la tasa de reemplazo líquida informada por las entidades señaladas en el inciso anterior.
 
-En caso que el trabajador no haya sido notificado de la comunicación señalada en el inciso anterior y haya cumplido las edades indicadas en el numeral 4 del artículo 2°, deberá presentar ante el jefe superior de servicio o la jefatura máxima de la entidad a la cual pertenece la solicitud para acceder al bono dentro de los 12 meses siguientes al cumplimiento de las edades antes mencionadas.
-
-Con todo, si el trabajador no presenta la solicitud para acceder al bono dentro de los plazos señalados en los incisos quinto o sexto, se entenderá que renuncia a dicho beneficio.
+Con todo, si el trabajador no presenta la solicitud para acceder al bono dentro de los plazos señalados en el inciso primero, se entenderá que renuncia a dicho beneficio.
 
 El jefe superior de servicio o la jefatura máxima de la entidad a la que pertenece el trabajador, ordenará certificar a quien corresponda el cumplimiento de los requisitos señalados en el artículo anterior. Para ello, podrá requerir información de cualquier otro organismo público para efectos de lo previsto en dicho artículo.
 
@@ -120,7 +120,9 @@ Los recursos del "Fondo Bono Laboral" serán invertidos en los valores e instrum
 
 El Servicio de Tesorerías pagará el bono a los beneficiarios. Para ello, el jefe superior de servicio o jefatura máxima respectiva remitirá a dicho servicio copia del acto administrativo que concede el bono, adjuntando los antecedentes que acrediten el cumplimiento de los requisitos establecidos en los números 2 y 4 del artículo 2º, y la respuesta de los organismos previsionales y de la Superintendencia de Administradoras de Fondos de Pensiones sobre la tasa de reemplazo líquida. Además, deberá informar la fecha en que comenzará a pagarse el bono al beneficiario.
 
-El Servicio de Tesorerías podrá celebrar convenios con las administradoras de fondos de pensiones, compañías de seguros u otras entidades, para efectuar el pago del bono a través de ellas. El bono se devengará y pagará al personal mencionado en el artículo 1º, que cumpla con las exigencias establecidas en el artículo 2º, a contar del mes subsiguiente al de la fecha en que dicho personal hubiere cesado en el cargo o terminado el contrato de trabajo, sea por renuncia voluntaria, por obtener pensión de vejez de conformidad al decreto ley Nº 3.500, de 1980, por supresión del empleo o por aplicación del inciso primero del artículo 161 del Código del Trabajo.
+El Servicio de Tesorerías podrá celebrar convenios con las administradoras de fondos de pensiones, compañías de seguros u otras entidades, para efectuar el pago del bono a través de ellas.
+
+El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes siguiente a la dictación del acto administrativo de concesión del beneficio.
 
 #### Artículo 9°
 
@@ -150,7 +152,7 @@ a) Pensión de invalidez líquida: aquella que perciba el trabajador señalado e
 
 b) Remuneración promedio líquida: corresponderá a la última remuneración mensual que percibió el trabajador antes de obtener la pensión de invalidez mencionada en el inciso primero, reajustada de acuerdo a los reajustes generales de remuneraciones otorgados a los trabajadores del sector público, por el período comprendido entre la obtención de la pensión de invalidez y el cumplimiento de las edades indicadas en el numeral 4° del artículo 2°.
 
-Para los referidos trabajadores, el bono se devengará y pagará a contar del mes subsiguiente a la total tramitación del acto administrativo que concede el bono.
+El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes siguiente a la dictación del acto administrativo de concesión del beneficio.
 
 Este personal podrá acceder al bono siempre que presente su solicitud para acceder al bono hasta el 31 de diciembre de 2024.
 
@@ -166,7 +168,9 @@ b) Remuneración promedio líquida, corresponderá a la última remuneración me
 
 Dicho personal presentará su solicitud ante el jefe superior de servicio o jefatura máxima de la institución u organismo mencionado en el artículo 1° en el cual hubiere cesado en funciones o terminado su contrato de trabajo, a partir del cumplimiento de las edades señaladas en el número 4 del artículo 2° y hasta los 12 meses siguientes al cumplimiento de esas edades. Con todo, si dicho personal no presenta la solicitud para acceder al bono dentro de este plazo, se entenderá que renuncia al bono.
 
-A partir de la fecha de presentación de la solicitud del inciso anterior, la referida jefatura se entenderá facultada para requerir la información señalada en el inciso primero del artículo 3°. Para el personal señalado en este artículo, el bono se devengará y pagará a contar del mes subsiguiente al de la fecha de la total tramitación del acto administrativo que lo concede.
+A partir de la fecha de presentación de la solicitud del inciso anterior, la referida jefatura se entenderá facultada para requerir la información señalada en el inciso primero del artículo 3°.
+
+El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes siguiente a la dictación del acto administrativo de concesión del beneficio.
 
 El personal a que se refiere el presente artículo podrá acceder al bono siempre que presente su solicitud hasta el 31 de diciembre del año 2024.
 
@@ -218,7 +222,9 @@ d) Haber tenido a lo menos 20 años de servicios en las instituciones señaladas
 
 e) Cumplir con lo dispuesto en el numeral 3° del artículo 2°.
 
-Cuando se trate de personas afectas a este artículo que se encuentren percibiendo pensiones de vejez del decreto ley N°3.500, de 1980, se le considerará como pensión de vejez líquida, aquella que perciban al momento de presentar la solicitud a que se refiere el inciso tercero del presente artículo, descontadas las cotizaciones obligatorias de salud. En caso que dichas personas hayan optado por retirar excedentes de libre disposición, con cargo a sus cotizaciones obligatorias, la pensión de vejez líquida para efectos de este artículo, será calculada según sea la modalidad de pensión de vejez que hubieren tenido a dicha data:
+Cuando se trate de personas afectas a este artículo que se encuentren percibiendo pensiones de vejez del decreto ley N°3.500, de 1980, se le considerará como pensión de vejez líquida, aquella que perciban al momento de presentar la solicitud a que se refiere el inciso tercero del presente artículo, descontadas las cotizaciones obligatorias de salud. En caso que los trabajadores a que se refiere el presente artículo, hayan optado por la modalidad de pensión Renta Temporal con Renta Vitalicia Diferida, se considerará como pensión de vejez líquida, la renta vitalicia diferida que perciban a la fecha de la solicitud del beneficio, o bien la que tengan contratada a dicha fecha.
+
+En caso que dichas personas hayan optado por retirar excedentes de libre disposición, con cargo a sus cotizaciones obligatorias, la pensión de vejez líquida para efectos de este artículo, será calculada según sea la modalidad de pensión de vejez que hubieren tenido a dicha data:
 
 1. Renta Vitalicia Inmediata o Renta Vitalicia Inmediata con Retiro Programado: la pensión de vejez líquida será estimada considerando: i) el saldo acumulado en la cuenta de capitalización individual al momento de obtener la pensión, incluidos el monto retirado como excedente de libre disposición con cargo a las cotizaciones obligatorias y el bono de reconocimiento a que tenga derecho, e ii) la tasa de interés promedio implícita en las rentas vitalicias correspondientes a las pensiones de vejez contratadas en el mes en que el trabajador suscribió el contrato de seguro de renta vitalicia.
 
@@ -236,7 +242,13 @@ Respecto de las personas mencionadas en el inciso primero que hubieren obtenido 
 
 A partir de la fecha de presentación de la solicitud del inciso anterior, la referida jefatura se entenderá facultada para requerir la información señalada en el inciso primero del artículo 3°.
 
-Para el personal señalado en este artículo, el bono se devengará y pagará a contar del mes subsiguiente de la fecha de total tramitación del acto administrativo que lo concede.".
+El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes siguiente a la dictación del acto administrativo de concesión del beneficio.
+
+#### Artículo Sexto
+
+La Superintendencia de Pensiones deberá, en el plazo de 120 días contados desde el 1 de diciembre de 2009, recalcular la tasa de reemplazo líquida de acuerdo a la modalidad a que se refiere el párrafo segundo del literal e) del inciso segundo del artículo anterior, respecto de los trabajadores que habiendo presentado su solicitud dentro de los plazos señalados en el precitado artículo, ésta hubiere sido rechazada por exceder su tasa de reemplazo líquida a 55%.
+
+La nueva certificación de tasa de reemplazo líquida deberá ser remitida al jefe superior del servicio o jefatura máxima que corresponda, para que proceda a la concesión del bono en la medida que se hayan acreditado los demás requisitos legales para impetrarlo.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

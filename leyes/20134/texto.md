@@ -60,7 +60,11 @@ Un reglamento, que será emitido por el Ministerio del Trabajo y Previsión Soci
 
 #### Artículo 5º
 
-El costo total de los bonos que se concedan no podrá exceder de $32.486.000.000.
+El costo total de los bonos que se concedan no podrá exceder de $32.486.000.000. Tal monto podrá ser excedido en la cantidad que se fije mediante decreto del Ministerio de Hacienda suscrito bajo la fórmula "Por orden del Presidente de la República" para el pago del bono para aquellas personas que, cumpliendo con los requisitos exigidos y que hayan postulado dentro de la fecha establecida en la ley y su reglamento, les sea reconocido el derecho a percibirlo por Resolución emitida antes del 1 de enero del 2010.
+
+Mediante igual procedimiento al señalado en el inciso precedente, podrá incrementarse el referido monto para el pago del bono a todas aquellas personas que hubieren obtenido pensión no contributiva por acto administrativo emitido con anterioridad al 1 de diciembre de 2009, habiendo presentado la solicitud de reconocimiento de la calidad de exonerado político ante el Ministerio del Interior con anterioridad al mes de febrero de 2005 y otorgada con posterioridad a esta última fecha y que cumplan con los demás requisitos exigidos por esta ley para tener derecho a percibirlo.
+
+El gasto que irrogue durante el año 2010 la aplicación de este artículo, se financiará con los recursos contemplados en el Subtítulo 23 del Presupuesto del Instituto de Previsión Social que se apruebe en la Ley de Presupuestos del año 2010. No obstante lo anterior, el Ministerio de Hacienda, con cargo a la partida presupuestaria Tesoro Público, podrá suplementar dicho presupuesto en la parte del gasto que no pudiere financiar con dichos recursos.
 
 #### Artículo transitorio
 
