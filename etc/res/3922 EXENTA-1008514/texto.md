@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.922, de 24 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 202103106 presentada por COMERCIALIZADORA DE PRODUCTOS MARÍTIMOS COIHUIN LIMITADA, para instalar y operar un centro de cultivo ubicado en Estero Chullec, Isla Quinchao, X Región.
+
+Valparaíso, 24 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
