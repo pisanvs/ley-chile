@@ -1570,7 +1570,7 @@ La aprobación de proyectos de urbanización producto de los proyectos de loteo 
 
 Los antejardines mínimos no establecidos en los planos de loteo y/o seccionales, ni en las disposiciones que se fijan sobre esta materia para las diferentes Áreas de Edificación, serán de 5 m. para los predios que enfrentan calles, y de 3 m. para los predios que enfrentan pasajes y/o áreas verdes sin una vía pública de por medio.
 
-Sin perjuicio de los antejardines fijados en los cuadros de edificación del artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones en edificaciones acogidas a los cuadros sin densificación del artículo 41, los interesados podrán mantener la aplicación del antejardín existente, cuando este sea menor que el antejardín fijado por dichos cuadros, excepto en las propiedades en vías afectas a utilidad pública, en las cuales se aplicarán siempre los antejardines de los cuadros citados.
+Sin perjuicio de los antejardines fijados en los Cuadros de Edificación del Artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones en edificaciones acogidas a los cuadros sin densificación del Artículo 41, se aplicará los antejardines de loteo, excepto en las vías afectas a utilidad pública.
 
 #### Artículo 9
 
@@ -1806,9 +1806,9 @@ Más de 12000 m2. 5 estacionamientos de 30 m2. c/u
 
 f) Los recintos destinados exclusivamente a celebración de culto, deberán disponer de los estacionamientos indicados en la tabla; con excepción de los recintos destinados a oficinas, salas de reunión u otros destinos anexos, los cuales se regirán por lo establecido para cada uno de ellos en esta Ordenanza. Para estos efectos, se podrá destinar hasta un 30% del antejardín para estacionamiento, siempre que dicho antejardín tenga un fondo igual o superior a 20 m.
 
-g) Los recintos destinados a la educación pre-escolar, básica y media de más de 100 alumnos, deberán disponer, adicionalmente, de un recinto de estacionamiento para uso de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
+g) Los recintos destinados a la educación Pre- escolar, básica y media, deberán disponer, adicionalmente, de un recinto de estacionamiento y de una pista caletera de desembarque al interior del predio para uso exclusivo de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
 
-h) La dotación mínima de estacionamientos para visitas, tanto estándar como para discapacitados, exigidos por esta ordenanza y por la Ordenanza General de Urbanismo y Construcciones, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos podrán ubicarse en el antejardín hasta en un tercio de su frente.
+h) Los estacionamientos para visitas, minusválidos y los estacionamientos adicionales exigidos por esta Ordenanza, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos deberán tener fácil acceso desde la vía pública y podrán ubicarse ocupando hasta el 20% de la superficie de antejardín.
 
 i) Los proyectos deberán contar con la aprobación de un Estudio de Impacto sobre el Sistema de Transporte Urbano (EISTU), si corresponde, en conformidad con lo dispuesto por la Ley General de Urbanismo y Construcciones. Al efecto, se deberá utilizar la metodología aprobada por Resolución Exenta Nº 2.379, del Ministerio de Vivienda y Urbanismo, de fecha 10 de julio de 2003, publicada en el Diario Oficial del 08 de septiembre de 2003, previo a la obtención del permiso de obras y al inicio de la construcción.(1)
 
@@ -1984,7 +1984,7 @@ b. Área E-Ab2: Edificación Aislada baja Nº 2
 
 Cuadro 10: Área E-Ab2: Edificación Aislada baja N° 2
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 16.
+NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 16
 
 NOTAS:
 
@@ -2005,46 +2005,6 @@ medianero norte, no podrá adosarse y el
 distanciamiento será de 8 m. según Plano
 
 MR-10-01 (2)
-
-c) Los predios en Área E-Ab2 ubicados al norte
-
-de Vía Blanca, singularizados en el polígono
-
-A-B-C-D-E-A del plano MR-24-02, no podrán
-
-generar nuevos adosamientos hacia los predios
-
-vecinos que se emplazan en el Área E-Ab1
-
-contigua.
-
-d) Sobre la altura máxima establecida en el
-
-cuadro que antecede, se disminuirá en un 50%
-
-el incremento de altura señalado en el
-
-#### Artículo 2
-
-6.9 de la Ordenanza General de
-
-Urbanismo y Construcciones, en todos los
-
-predios que enfrentan la Av. Luis Pasteur,
-
-entre Av. Parque Antonio Rabat y Río
-
-Mapocho; Av. La Vendimia, entre Av. Parque
-
-Antonio Rabat y Av. Agua del Palo; Av. Parque
-
-Antonio Rabat, entre Av. Luis Pasteur y Av.
-
-Agua del Palo, y la vereda oriente de Av.
-
-Agua del Palo, entre Costanera Norte Av. Santa
-
-María y Av. La Vendimia.
 
 ______________________________
 
@@ -2354,11 +2314,13 @@ independiente.
 
 i. Área E-Am5: Edificación Aislada media Nº 5
 
-Cuadro 24: Área E-Am5: Edificación aislada media Nº 5
+Cuadro 24: Área E-Am5: Edificación Aislada media Nº 5
+
+NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 17
 
 NOTA:
 
-a) Los subterráneos podrán ocupar hasta un 40% del
+a) Los subterráneos podrán ocupar hasta un 20% del
 
 terreno para ser destinados a bodegas y/o
 
@@ -2366,17 +2328,11 @@ estacionamientos con sus respectivas áreas de
 
 circulación.
 
-b) Para los terrenos que enfrentan Av. Las Condes,
-
-el antejardín será variable, la línea de
-
-edificación se encontrará definida a 29 m. del
-
-eje de la Av. Las Condes.
-
 En esta Área se permitirá realizar proyectos de densificación conforme a las normas contenidas en la siguiente Tabla, sin perjuicio del cumplimiento de las disposiciones de la Ley General de Urbanismo y Construcciones y de su Ordenanza:
 
 Cuadro 25: Área E-Am5: Edificación Aislada media Nº 5, Densificación
+
+NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 17
 
 NOTAS:
 
@@ -2390,23 +2346,151 @@ terreno para ser destinados a bodegas y/o
 
 estacionamientos con sus respectivas áreas de
 
-circulación.
+circulación
 
 c) En el primer piso no se autoriza la construcción
 
 de departamentos de uso residencial, sólo se
 
-permitirán usos complementarios a las viviendas,
+permitirán usos complementarios a las
 
-pertenecientes al bien común, los cuales no se
+viviendas, pertenecientes al bien común, los
 
-podrán enajenar en forma independiente.
+cuales no se podrán enajenar en forma
+
+independiente.
+
+d) En los terrenos ubicados en Av. Vitacura desde
+
+El Manantial hacia el Oriente, y en Av.
+
+Tabancura, regirán las siguientes condiciones
+
+especiales:(1)
+
+i) El antejardín será de 5 m, y se admitirá
+
+que la edificación de hasta dos pisos de
+
+altura ocupe hasta el 0,40 del suelo, con
+
+0,30 de área libre, y con un
+
+distanciamiento mínimo a los medianeros
+
+laterales de 4 m; sobre los dos pisos de
+
+altura la edificación deberá atenerse al
+
+coeficiente de ocupación de suelo y al
+
+distanciamiento mínimo a medianeros que
+
+figuran en esta tabla de densificación. La
+
+urbanización existente en dicho sector
+
+deberá complementarse de modo que todo
+
+cableado nuevo o preexistente en el frente
+
+del terreno sea subterráneo (incluidos
+
+transformadores u otros).
+
+ii) El área libre deberá ubicarse a nivel del
+
+terreno natural o en otros planos de nivel
+
+directamente comunicados con la parte de
+
+área libre a nivel del terreno.
+
+iii) Los subterráneos podrán ocupar hasta un 80
+
+% del terreno.
+
+iv) En el primer piso no se autoriza la
+
+construcción de departamentos de uso
+
+residencial.
+
+En el resto, regirán las condiciones del
+
+Cuadro de densificación precedente.
 
 ______________________________
 
-1 Modificado por decreto alcaldicio sección 1ª Nº 3/763, D.O. 31.03.06 (Modificación Nº 5).
+(1) Modificado por Decreto Alcaldicio sección 1ª Nº
 
-2 Modificado por decreto alcaldicio sección 1ª Nº 3/450, D.O. 13.03.06 (Modificación Nº 12).
+3/763, D.O. 31.03.06. (Modificación Nº 5)
+
+e) Para los terrenos que enfrenten la calle Los
+
+Abedules (1), regirán las siguientes condiciones
+
+especiales:
+
+i) La subdivisión mínima será de 800 m;
+
+ii) La construcción en los dos primeros pisos,
+
+hasta una altura de 6 m. mínimo, deberá
+
+situarse 2 m. al interior del predio en
+
+relación a la línea de Edificación y no se
+
+permitirá volados sobre el antejardín.
+
+iii) En este sector, en proyectos destinados
+
+total o parcialmente a uso de Equipamiento
+
+y que contemplen Antejardines Abiertos (es
+
+decir, libres de elementos tales como
+
+estacionamientos, nichos de medidores,
+
+medidores, acometidas aéreas, cierros no
+
+removibles, cambios de nivel y que tengan
+
+un tratamiento de piso a nivel de la vereda
+
+que empalme con ella y con los paños
+
+vecinos de similares características) , se
+
+admitirá un coeficiente de
+
+constructibilidad de 1,8 con un coeficiente
+
+de Área Libre de 0,25 y, para el primer y
+
+segundo pisos, una ocupación de suelo de
+
+0,5 y una separación a medianeros de 4m.
+
+iv) No se admitirá estacionamientos en
+
+superficie en calzada y no se aplicará el
+
+#### Artículo 27
+
+de la Ordenanza del PRCV.
+
+En el resto, regirán las condiciones del
+
+Cuadro de densificación precedente.
+
+______________________________
+
+(1) Modificado por Decreto Alcaldicio sección 1ª Nº
+
+3/450, D.O. 13.03.06. (Modificación Nº 12)
 
 j. Área E-Am6: Edificación Aislada media Nº 6
 
@@ -3338,61 +3422,17 @@ desarrollarse en un recinto interior cerrado y
 
 techado.
 
-u.- Área E.Ae5, Edificación Aislada Especial Nº 5, Sector Costanera Sur tramo Oriente (3)
+u.- Área E.Ae5, Edificación Aislada Especial Nº 5, Sector Costanera Sur tramo Oriente (1)
 
-Esta área comprende los terrenos situados dentro de la manzana comprendida entre calle San Damián, Av. Las Condes, San Francisco de Asís y Costanera Sur Av. San Josemaría Escrivá de Balaguer.
+Esta área comprende los terrenos situados dentro de la manzana comprendida entre San Damián, Av. Las Condes, San Francisco de Asís y Av. Costanera Sur, señalados como área E-Ae 5 en el Plano MR-19-01.
 
-Dentro de esta área, los proyectos que no sean de densificación se regirán por las normas del área E-Am5 (Edificación Aislada media N° 5). En lo que respecta a proyectos de densificación se aplicará el siguiente cuadro:
-
-NOTAS:
-
-a) En caso de proyectos que contemplen una vía
-
-abierta al uso público, de al menos 20 m de
-
-ancho, que conecte Av. Las Condes con Av.
-
-Costanera Sur, la altura podrá aumentarse hasta
-
-12 pisos y 42 m. Esta cesión puede ser
-
-compartida por 2 o más propietarios.
-
-b) Al menos el 50% del perímetro de fachadas de las
-
-edificaciones en altura de 4 o más pisos deberá
-
-llegar al terreno natural.
-
-c) El propietario deberá remodelar el área frente a
-
-la propiedad comprendida entre la solera y la
-
-línea de edificación, de acuerdo al respectivo
-
-Plano de Tratamiento del Espacio Público
-
-aprobado por el Asesor Urbanista.
-
-d) El propietario deberá soterrar los cables aéreos
-
-existentes en el frente del predio.
-
-e) Los 3 primeros pisos destinados a comercio
-
-podrán tener 6 m. de altura cada uno.
-
-f) Para los terrenos que enfrentan Av. Las Condes,
-
-el antejardín será variable, la Línea de
-
-Edificación se encontrará definida a 31 m. del
-
-eje de la Av. Las Condes.
+Dentro de esta área, los proyectos que no sean de densificación se regirán por las normas del área E- Am5 (Edificación Aislada media Nº 5). En lo que respecta a proyectos de densificación, se aplicará el siguiente cuadro:
 
 _______________________________
 
-3 Modificado por decreto alcaldicio sección 1ª Nº 3/3.084, D.O. 22.12.07 (Modificación Nº 19).
+(1) Modificado por Decreto Alcaldicio sección 1ª Nº
+
+3/3.084, D.O. 22.12.07. (Modificación Nº 19)
 
 Cuadro 46: Área E-Ae5: Edificación Aislada especial Nº 5
 
@@ -4006,12 +4046,6 @@ desarrollo espiritual o
 
 religioso
 
-3. Av. Manquehue 1320, Actividades de
-
-Las Hualtatas 6060 desarrollo espiritual o
-
-religioso
-
 5 Av. Padre Hurtado
 
 848, Mar Jónico 8860 Actividades de
@@ -4056,16 +4090,6 @@ _______________________________
 
 3/473, D.O. 04.03.02. (Enmienda Nº 2)
 
-NOTA:
-
-En los predios en que se desarrollan Actividades de desarrollo espiritual o religioso, identificados en el cuadro precedente, se permitirá:
-
-a) Un coeficiente de ocupación de suelo de 0,65.
-
-b) Una altura de máxima de edificación, sólo para
-
-los edificios destinados a templos.
-
 c) Equipamiento de Educación
 
 Cuadro 55: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Educación
@@ -4086,85 +4110,91 @@ educacional
 
 educacional
 
-5. Av. Luis Pasteur 6700 Establecimiento
+5. Av. Luis Pasteur 6600 Establecimiento
 
 educacional
 
-6. Av. Nueva Costanera
+6. Av. Luis Pasteur 6700 Establecimiento
+
+educacional
+
+7. Av. Nueva Costanera
 
 4190 Establecimiento
 
 educacional
 
-7. Av. Padre Hurtado 1150 Establecimiento
+8. Av. Padre Hurtado 1150 Establecimiento
 
 educacional
 
-8. Av. Presidente Kennedy
+9. Av. Presidente Kennedy
 
 5850 Establecimiento
 
 educacional
 
-9. Av. Vitacura 10.15(1) Establecimiento
+10. Av. Vitacura 7404,
+
+El Aromo 7367 Establecimiento
 
 educacional
 
-10. Costanera Norte Establecimiento
+11. Av. Vitacura 10.15(1) Establecimiento
 
-Av. Santa María 6.400 Educacional
+educacional
 
-11. Costanera Norte Av.
+12. Costanera Norte Av.
 
 Santa María 6480 Establecimiento
 
 educacional
 
-12. El Litre 1410 Establecimiento
+13. El Litre 1410 Establecimiento
 
 educacional
 
-13. Las Hualtatas 7440 Establecimiento
+14. Las Hualtatas 7440 Establecimiento
 
 educacional
 
-14. Las Hualtatas
+15. Las Hualtatas
 
 10500 (*) Establecimiento
 
 educacional
 
-15. Las Tranqueras 1180 Establecimiento
+16. Las Tranqueras 1180 Establecimiento
 
 educacional
 
-16. Lo Arcaya 1970 Establecimiento
+17. Lo Arcaya 1970 Establecimiento
 
 educacional
 
-17. Lo Beltrán 8751,
+18 Lo Beltrán 8751,
 
 Las Tranqueras 1851 Establecimiento
 
 Educacional
 
-18. Padre Damián de
+19. Padre Damián de
 
 Veuster 2215 Establecimiento
 
 educacional
 
-19. Parque Antonio
+20. Parque Antonio
 
 Rabat 6150 Establecimiento
 
 educacional
 
-20. San Damián 0100 Establecimiento
+21. San Damián 0100 Establecimiento
 
 educacional
 
-21. Vía Morada 5.400 Establecimiento
+22. Vía Morada 5.400 Establecimiento
 
 educacional
 
@@ -4173,8 +4203,6 @@ educacional
 d) Equipamiento de Salud (2)
 
 Cuadro 56: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Salud
-
-1. Av. Luis Pasteur 5292 Atenciones de salud
 
 1. Av. Presidente Kennedy 3210 Atenciones de salud
 
@@ -4307,8 +4335,6 @@ Nacional Av. Nueva Costanera 4270
 9 Estadio Manquehue Av. Vitacura 5841
 
 10 Estadio Sirio Av. Vitacura 8751
-
-> **Nota.** El numeral 1 del Decreto 3, Municipalidad de Vitacura, publicado el 03.04.2018, modifica las condiciones de uso de suelo y edificación aplicables al polígono A-B-C-D-E-F-G-H-I-A otorgando la condición de edificación Especial N° 2 Parques Metropolitanos (E-e2) en la Lámina 1 de Edificación y la zona de uso de suelo Equipamiento Especial N° 2 Parques Metropolitanos (U-Ee2) en la Lámina 2 de Usos de Suelo establecido en el presente Decreto, de acuerdo a la Memoria Explicativa y según lo graficado en los planos MR-32-01 de Edificación y MR-32-02 de Usos de Suelo, escala 1:2.000, que constituyen un solo cuerpo legal y que se aprueban por la citada norma.
 
 CAPÍTULO V: Vialidad
 
