@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.918, de 24 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207122356 presentada por INVERSIONES Y CULTIVOS MARINOS LIMITADA, para instalar y operar un centro de cultivo ubicado en Península Muñoz Gamero, al norte de Seno Águila, XII Región.
+
+Valparaíso, 24 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
