@@ -16,39 +16,41 @@ D e c r e t o:
 
 Asígnase al Secretario Ministerial de Educación de la V Región de Valparaíso, para su uso privativo, en las funciones inherentes a su respectivo cargo, el vehículo que se indica a continuación:
 
-Vehículo : Automóvil
+V ehículo : Automóvil
 
-Marca : Chevrolet
+Marca : Nissan
 
-Modelo : Astra GLS
+Modelo : Sentra 2.000 cc-BL-801
 
-Año Fabricación : 2002
+Año Fabricación : 2008
 
-Nº Motor : 8C0014057
+Nº Motor : MR20229451H
 
-Nº Chasis : 76477
+Nº Chasis : 3N1AB61DXZL501497
 
-Reg. Nacional Vehículos
+Reg. Nacional
 
-Motorizados : UV-2549-2
+Vehículos
 
-Placa Unica : UV-2549-2
+Motorizados : BSCC.88-5
+
+Placa Única : BSCC.88-5
 
 #### Artículo 2º
 
-Autorízase al Secretario Ministerial de Educación de la V Región para guardar el vehículo indicado en el artículo anterior, en su domicilio particular y cuando sea necesario, para guardarlo en el domicilio particular del respectivo chofer.
+Derogado
 
 #### Artículo 3º
 
-El Departamento de Administración General del Ministerio de Educación, a través de la Sección Equipamiento, deberá mantener una nómina actualizada del chofer designado para la conducción del vehículo indicado precedentemente y de su domicilio particular.
+Derogado
 
 #### Artículo 4º
 
-La autoridad señalada en el artículo 1º deberá rendir caución, en la forma establecida en la ley, cuando conduzca habitualmente el vehículo que le ha sido asignado.
+Derogado
 
 #### Artículo 5º
 
-Autorízase al vehículo indicado en este decreto para circular los días sábado en la tarde, domingo y festivos y sin el disco distintivo señalado en el artículo 3º del decreto ley Nº 799 de 1974.
+Derogado
 
 #### Artículo 6º
 
