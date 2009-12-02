@@ -1,0 +1,3 @@
+Por Decreto MOP Nº1984 de fecha 17 de noviembre del 2009, se dejó sin efecto el Decreto MOP Nº1190 de 31 de agosto de 2001, que ordenó la expropiación del lote Nº31-1, a doña Aída Angélica Gutiérrez Mendoza, correspondiente a la obra Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur Enlace Quilpué Oriente Ramal Nor- Poniente Km. 96.373.50 a Km. 97.040,00, por no ser necesario para la mencionada obra.-
+
+Fiscal del Ministerio de Obras Públicas.
