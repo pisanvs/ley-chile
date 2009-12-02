@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1901 de 30 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 14, para la ejecución de la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo II, Km. 10,50000 a Km. 18,60807, VIII Región", que figura a nombre de ALARCON SANHUEZA NEFTALI, Rol de avalúo: 189-23, comuna de COBQUECURA, superficie 7.386 m2. La Comisión de Peritos, fijó el 25 de julio de 2007, en la cantidad de $26.251.333, para el lote N°14. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
