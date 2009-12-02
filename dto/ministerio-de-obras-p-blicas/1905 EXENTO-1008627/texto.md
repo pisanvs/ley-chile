@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 1905, de fecha 30 de octubre del 2009, se expropió el lote de terreno N° 78-A, superficie 16.721 m2, Rol N° 265-2 comuna de Los Vilos, IV Región para la obra "Camino Cavilolen Fundo El Mauro, Ruta D-865, Sector Las Vacas Caimanes, Tramo Km. 0,00000 al Km. 25,14000", y se acordó el valor de indemnización con su propietario FELIPE MONTALVA SANTANA Y OTRAS, ascendente a la cantidad de $3.749.538.-
+
+Fiscal del Ministerio de Obras Públicas.
