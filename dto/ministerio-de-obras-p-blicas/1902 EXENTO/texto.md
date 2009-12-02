@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1902 de fecha 30 de octubre del 2009, se expropiaron los lotes de terreno Nºs. 9, 10, y 11, superficies 238, 1.310 y 524 m2, Rol Nº17-9, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle - Hurtado, sector Samo Alto Pichasca", y se acordó el valor de indemnización con su propietario COMUNIDAD LAS MINILLAS, ascendente a la cantidad de $778.102.- para los lotes Nºs. 9, 10 y 11.-
+
+Fiscal del Ministerio de Obras Públicas.
