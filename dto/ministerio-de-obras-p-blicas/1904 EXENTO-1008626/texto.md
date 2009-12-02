@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1904 de 30 de octubre de 2009, se expropió el lote de terreno Nº7 superficie 2.810 m2, rol de Avalúo 351-38, comuna de Villarrica, para la obra "CAMINO RUTA S-69, SECTOR PEDREGOSO - VILLARRICA, TRAMO KM. 25,80000 A KM. 38,52500", IX Región y se acordó el valor de la indemnización con su propietario ELEODORO RIVERAS MONSALVE, ascendente a la cantidad de $5.107.760.-
+
+Fiscal del Ministerio de Obras Públicas.
