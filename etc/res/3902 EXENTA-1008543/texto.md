@@ -1,0 +1,13 @@
+Por resolución exenta Nº 3.902, de 23 de noviembre de 2009, de esta Subsecretaría, autorízase al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero artesanal de Merluza común (Merluccius gayi gayi) en las Regiones VI y VII, período noviembre-diciembre 2009".
+
+El objetivo general de la pesca de investigación que por la presente resolución se autoriza consiste en realizar un levantamiento de datos biológicos y pesqueros base de la actividad pesquera artesanal de Merluza común en las zonas Rae Sur de la Región de O'Higgins y Norte 1, Norte 2 y Centro de la Región del Maule, a fin de mantener la continuidad de la recopilación de información relevante para la Administración de este recurso.
+
+La pesca de investigación se efectuará en el área marítima de la VI Región Sur, VII Región Norte 1, VII Región norte 2 y VII Región Centro, hasta una distancia de 60 millas náuticas medidas desde la costa, de conformidad con lo dispuesto en el decreto exento Nº 154 de 2003, del Ministerio de Economía, Fomento y Reconstrucción, entre la fecha de la presente resolución y el 31 de diciembre de 2009, ambas fechas inclusive.
+
+Podrán participar en la presente pesca de investigación, los pescadores artesanales y las embarcaciones artesanales inscritos en el Registro Pesquero Artesanal de la VI o VII Región, según corresponda, sección Merluza común, en una caleta base correspondiente al área de estudio. Asimismo, las embarcaciones artesanales deberán contar con Certificado de Navegabilidad Vigente, otorgado por la Autoridad Marítima y calificar como bote con motor fuera de borda.
+
+En cumplimiento del objetivo de la presente pesca de investigación, el conjunto de las embarcaciones artesanales participantes podrá extraer, con espinel, enmalle o línea de mano, el recurso Merluza común, en calidad de especie objetivo, un máximo de 400 toneladas en el periodo de estudio, fraccionadas de la manera señalada en la resolución extractada. Las capturas se imputarán a la fracción autorizada a ser extraída con fines de investigación de la cuota global anual de captura de Merluza común.
+
+El Instituto designa como persona responsable de esta pesca de investigación a su Director Ejecutivo, don Juan Mauricio Braun Alegría.
+
+Valparaíso, 23 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
