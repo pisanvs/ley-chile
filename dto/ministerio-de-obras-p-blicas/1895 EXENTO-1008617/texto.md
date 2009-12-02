@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1895, de 30 de octubre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 127, para la obra: "Camino Ruta P-40, sector Arauco Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío", que figura a nombre de BOSQUES ARAUCO S.A., rol de avalúo N° 176-33, comuna de Arauco, superficie 7.902 m2. La Comisión de Peritos, el 30 de enero de 2009, fijó el monto de la indemnización provisional en la cantidad de $4.260.144.- para el lote N°127. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
