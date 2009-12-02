@@ -18,9 +18,11 @@ d) Personal de nombramiento supremo y Personal de nombramiento institucional a q
 
 e) Personal contemplado en la Planta de oficiales, empleados civiles y servicios generales de Policía de Investigaciones de Chile, a que se refiere el decreto con fuerza de ley N° 1, de la Subsecretaría de Investigaciones, de 1980;
 
-f) Alumnos de las Escuelas Institucionales de las Fuerzas Armadas, Carabineros de Chile y Policía de Investigaciones de Chile, aunque no sean personal de planta, y
+f) Alumnos de las Escuelas Institucionales de las Fuerzas Armadas, Carabineros de Chile y Policía de Investigaciones de Chile, aunque no sean personal de planta;
 
-g) Personal de las Plantas de la Dirección de Previsión de Carabineros de Chile. El régimen de desahucio de este personal se regirá exclusivamente por las normas contenidas en el decreto ley N° 2.049, de 1977.
+g) Personal de Planta de la Central Nacional de Informaciones, contemplado en el artículo 3° del decreto ley N° 1.878, de 1977, y
+
+h) Personal de las Plantas de la Dirección de Previsión de Carabineros de Chile. El régimen de desahucio de este personal se regirá exclusivamente por las normas contenidas en el decreto ley N° 2.049, de 1977.
 
 #### Artículo 2°
 
@@ -28,7 +30,7 @@ Los imponentes de la Caja de Previsión de la Defensa Nacional y de la Direcció
 
 #### Artículo 3°
 
-El personal no contemplado en el artículo 1°, que a partir de la vigencia de esta ley ingrese a las Instituciones, Servicios, Organismos y Empresas, dependientes del Ministerio de Defensa Nacional o del Ministerio del Interior y Seguridad Pública, o que se relacionen con el Gobierno por su intermedio, o a aquellos, Servicios, Organismos o Empresas que leyes especiales les hicieren aplicables los regímenes previsionales indicados en el mismo artículo, quedará afecto al Sistema Previsional establecido en el decreto ley N° 3.500, de 1980.
+El personal no contemplado en el artículo 1°, que a partir de la vigencia de esta ley ingrese a las Instituciones, Servicios, Organismos y Empresas, dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno por su intermedio, o a aquellos, Servicios, Organismos o Empresas que leyes especiales les hicieren aplicables los regímenes previsionales indicados en el mismo artículo, quedará afecto al Sistema Previsional establecido en el decreto ley N° 3.500, de 1980.
 
 #### Artículo 4°
 
@@ -96,7 +98,7 @@ La pensión de montepío a que se refieren los incisos anteriores estará afecta
 
 #### Artículo 10
 
-Los pensionados de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile, seguirán afectos a dichos organismos de previsión en caso de volver al servicio en otras plazas o empleos, sea en calidad de planta o contrata o sujetos al Código del Trabajo, de instituciones, servicios, organismos y empresas, dependientes del Ministerio de Defensa Nacional o del Ministerio del Interior y Seguridad Pública o que se relacionen con el Gobierno por su intermedio o, a aquellos servicios, organismos o empresas que por leyes especiales estén afectos a los regímenes previsionales de las citadas entidades.
+Los pensionados de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile, seguirán afectos a dichos organismos de previsión en caso de volver al servicio en otras plazas o empleos de instituciones, servicios, organismos y empresas, dependientes del Ministerio de Defensa Nacional o que se relacionen con el Gobierno por su intermedio o, a aquellos sevicios, organismos o empresas que por leyes especiales estén afectos a los regímenes previsionales de las citadas entidades.
 
 ARTICULOS TRANSITORIOS
 

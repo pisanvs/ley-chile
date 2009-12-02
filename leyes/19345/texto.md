@@ -10,6 +10,8 @@ Los trabajadores de la Administración Civil del Estado, centralizada y descentr
 
 Lo dispuesto en el inciso anterior no será aplicable al personal afecto a las disposiciones relativas a accidentes en actos de servicio y enfermedades profesionales contenidas en el decreto con fuerza de ley N° 1, de la Subsecretaría de Guerra, en el decreto con fuerza de ley N° 2, del Ministerio del Interior, ambos de 1968, en el decreto con fuerza de ley N° 1, de 1980, de la Subsecretaría de Investigaciones y en las leyes N°s. 18.948 y 18.961.
 
+Sin perjuicio de lo anterior, los trabajadores de las empresas públicas creadas por ley, que se relacionen con el Gobierno a través del Ministerio de Defensa Nacional, esto es, Fábricas y Maestranzas del Ejército-FAMAE, Astilleros y Maestranzas de la Armada-ASMAR y la Empresa Nacional de Aeronáutica de Chile-ENAER, que presten servicios regidos por el Código del Trabajo y que se encuentren afiliados al sistema previsional establecido en el decreto ley N° 3.500, de 1980, quedarán sujetos a las disposiciones contenidas en la ley N° 16.744, sobre Seguro Contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales.
+
 #### Artículo 2°
 
 A las entidades empleadoras de los trabajadores a que se refiere el inciso primero del artículo anterior que optaren por adherirse a las Mutualidades de Empleadores señaladas en la ley N° 16.744 no les será aplicable lo dispuesto en los incisos primero letra e) y tercero del artículo 12 del citado cuerpo legal. Asimismo, lo dispuesto en la letra e) del inciso primero y en el inciso tercero del artículo 12 de la ley N° 16.744, no se aplicará a los empleadores del sector privado adheridos a una Mutualidad por las obligaciones contraídas por ésta derivadas de prestaciones que deban otorgarse a los trabajadores a que se refiere el inciso primero del artículo 1° de la presente ley. Sin perjuicio de lo anterior, respecto de sus trabajadores, las entidades empleadoras referidas en el inciso primero del artículo 1° de esta ley serán subsidiariamente responsables del otorgamiento de las prestaciones a que se refiere la ley N° 16.744.
@@ -35,6 +37,8 @@ a) Congreso Nacional, para lo cual bastará el acuerdo de los Presidentes de amb
 b) Poder Judicial, en que la resolución corresponderá a la Corte Suprema.
 
 c) Municipalidades, en que la resolución del Alcalde requerirá el acuerdo del Concejo respectivo.
+
+d) Las empresas públicas creadas por ley, que se relacionen con el Gobierno a través del Ministerio de Defensa Nacional, en que la resolución corresponderá a la dirección de la empresa.
 
 #### Artículo 4°
 
