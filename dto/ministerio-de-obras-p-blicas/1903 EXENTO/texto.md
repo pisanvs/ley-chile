@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1903 de fecha 30 de octubre de 2009, se expropiaron los lotes de terreno Nºs 130-H y 132-D superficies 70 y 81 m2 respectivamente, rol Nº3400-34, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746", Provincia de Llanquihue, X Región y se acordó el valor de la indemnización con su propietario LUCIA DEL CARMEN MILLAR SOTO, ascendente a la cantidad de $791.597.-
+
+Fiscal del Ministerio de Obras Públicas.
