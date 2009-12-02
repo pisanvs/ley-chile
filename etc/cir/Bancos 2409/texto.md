@@ -688,11 +688,7 @@ La reserva que establece este artículo es aplicable a bancos, los que, además,
 
 #### Artículo 44
 
-La Ley General de Bancos establece en su artículo 84 N° 4 una restricción a las operaciones de crédito que un banco puede realizar con sus trabajadores.
-
-Asimismo, prohíbe a los bancos conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en él como apoderado general.
-
-Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco en la Ley General de Bancos.
+El artículo 84 N° 4 de la Ley General de Bancos prohíbe a los bancos conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en él como apoderado general. Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco en la Ley General de Bancos.
 
 Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no son propiamente operaciones bancarias, que los directores del banco, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con el banco. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, a una agencia de valores perteneciente a un director o gerente en que éste tenga intereses, que realice operaciones de compra o venta de valores mobiliarios por intermedio o con el agente de valores, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no será necesario cumplir con el artículo 44 de la Ley N° 18.046.
 
@@ -10436,7 +10432,7 @@ Este límite de un 30 % del patrimonio efectivo debe entenderse referido al conj
 
 ### 4. Aplicación de otros márgenes de crédito
 
-Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco y a trabajadores de la empresa, según se dispone en los N°s. 2 y 4 del artículo 84 de la Ley General de Bancos.
+Los límites señalados en los números precedentes son sin perjuicio de las mayores limitaciones que pudieren derivarse de la aplicación de los márgenes de crédito a personas relacionadas directa o indirectamente a la propiedad o gestión del banco, según se dispone en el N° 2 del artículo 84 de la Ley General de Bancos.
 
 5. Créditos otorgados por las sucursales y filiales del banco o que se concedan a esas entidades.
 
@@ -11067,94 +11063,6 @@ Quedan afectos a este límite global tanto los créditos que se indican en el t�
 En todo momento los bancos deberán respetar, tanto las condiciones en que pueden pactarse los créditos a personas relacionadas, según lo establecido en el N° 1 precedente, como el límite de créditos a cada grupo de personas relacionadas y también el límite global de créditos a personas relacionadas a que se refieren los N°s. 2 y 3 de este título.
 
 Cualquiera infracción a estas disposiciones será castigada con una multa del 20% sobre el monto del crédito concedido.
-
-## Capítulo 12-5
-
-LÍMITES DE CRÉDITO A TRABAJADORES DEL BANCO.
-
-### 1. Límites de crédito a trabajadores
-
-De acuerdo con lo dispuesto en el N° 4 del artículo 84 de la Ley General de Bancos, el monto total de los créditos que un banco puede otorgar a sus trabajadores, no puede exceder de un 1,5% del patrimonio efectivo de la empresa, ni puede ser superior, individualmente, al 10% de dicho límite.
-
-Para el cumplimiento de este límite, deben computarse también los contratos de leasing celebrados con los trabajadores, en concordancia con lo dispuesto en el N° 9 del título II del Capítulo 12-3 de esta Recopilación.
-
-No quedan sujetos a los límites señalados, los préstamos con garantía hipotecaria que, en una sola oportunidad respecto de una misma persona, se otorguen a los trabajadores con el objeto de que adquieran una casa habitación para su uso personal. Quedan incluidos en esta exención, las operaciones de leasing para vivienda que tengan ese fin.
-
-Todo lo anterior es sin perjuicio del cumplimiento de los límites individuales de crédito de que trata el N° 1 del referido artículo 84 y de la prohibición de otorgar crédito a los empleados que se desempeñen como apoderados generales de la institución establecida en el inciso tercero del N° 4 antes mencionado, materias a las que se refieren los Capítulos 12-3 y 12-12 de esta Recopilación de normas, respectivamente.
-
-Estas instrucciones rigen igualmente para los créditos que otorgue el Banco del Estado de Chile a su personal, según Resolución N° 37, del 13 de marzo de 1991, del Ministerio de Hacienda, dictada en virtud de lo dispuesto en el artículo 44 de la Ley Orgánica del Banco del Estado de Chile, modificado por el N° IV del ARTICULO SEGUNDO de la Ley N° 18.840.
-
-2. Aplicación de los límites en forma consolidada con filiales y sucursales.
-
-Los bancos deben dar cumplimiento a lo dispuesto en este Capítulo considerando tanto a sus empleados como a los contratados por las filiales y sucursales que participan en la consolidación de acuerdo con lo indicado en el Capítulo 12-1 de esta Recopilación, debiendo computarse los créditos otorgados por todas las entidades que consolidan.
-
-Por consiguiente, las alusiones que en los numerales que siguen se hacen a un banco en relación con sus empleados o sus créditos concedidos, deben entenderse referidas a la matriz con esas filiales y sucursales, como una sola entidad para estos efectos.
-
-### 3. Concepto de trabajador
-
-Para los efectos de los márgenes de que trata este Capítulo, debe entenderse por trabajador a toda persona que preste servicios al banco en forma continua y permanente, con una clara subordinación o sin ella, remunerada mediante honorarios o un sueldo pagadero en períodos fijos, ya sea que esté o no sujeta a horario de trabajo, se desempeñe dentro o fuera del local de la respectiva entidad, tenga o no otros empleadores o ejerza libremente su profesión.
-
-### 4. Créditos afectos a los límites individuales y global
-
-4.1. Obligaciones por créditos.
-
-Para los efectos de la aplicación del N° 4 del artículo 84 de la Ley General de Bancos, que limita el monto tanto individual como global de los créditos otorgados a los trabajadores de los respectivos bancos, deben considerarse todas las obligaciones directas e indirectas que mantengan los trabajadores con la respectiva institución, con excepción de los créditos para la adquisición de vivienda que cumplan las condiciones señaladas en el N° 5 de este Capítulo. Además, deben computarse las obligaciones complementarias que tuvieren esas mismas personas, imputadas de conformidad con lo dispuesto en el artículo 85 del referido cuerpo legal.
-
-4.2. Créditos cursados a la cónyuge de un trabajador.
-
-Quedarán sujetos a los límites ya señalados los créditos directos e indirectos que se cursen a la cónyuge de un trabajador del respectivo banco, a menos que concurran las siguientes causales que permitan eximir dichos créditos de los referidos límites:
-
-a) Que la mujer casada con un trabajador del banco dentro del régimen de sociedad conyugal, desempeñe algún empleo o ejerza una profesión, oficio o industria separados de los de su marido. En este caso, de conformidad con lo dispuesto en el artículo 150 del Código Civil, la mujer se considera separada de bienes respecto de su empleo, oficio, profesión o industria y de lo que en ellos obtenga. En tales situaciones, la mujer deberá acreditar la calidad que invoque.
-
-b) Que la mujer casada con un trabajador del banco, lo esté bajo el régimen de separación de bienes.
-
-De acuerdo con lo señalado precedentemente, los créditos otorgados a las mujeres que se encuentren en las situaciones previstas en las letras a) y b) anteriores, que actúen sobre la base de la responsabilidad y solvencia de la administración de su patrimonio reservado o propio, no quedarán afectos a los límites de que trata el inciso primero del N° 4 del artículo 84 ya mencionado, siempre que el marido no caucione o afiance dichos créditos, toda vez que en caso de hacerlo, estos quedarán sujetos a los límites de que se trata.
-
-Por otra parte, cabe señalar que todo crédito otorgado al marido de una trabajadora del respectivo banco, no queda afecto a los límites en comento, siempre que la mujer no caucione o afiance los créditos otorgados a su marido, ya que de hacerlo, éstos quedarán sometidos a los límites de que trata el N° 4 del artículo 84 ya citado.
-
-4.3. Anticipos de sueldos o gratificaciones.
-
-Los anticipos de sueldos, de gratificaciones o de otros beneficios que los bancos concedan a sus trabajadores, se consideran crédito a no ser que, en el caso de los anticipos de sueldo, éstos se hayan otorgado para ser pagados totalmente con el sueldo del mismo mes calendario en el que se cursen y, en los demás casos, que el adelanto constituya una proporción equivalente o inferior a la parte de los beneficios ya devengada. Todo adelanto que comprometa emolumentos futuros, debe considerarse crédito para todos los efectos legales y queda sujeto, por lo tanto, a las limitaciones que rigen para los créditos a los trabajadores del banco, ya que la excepción antes referida se justifica sólo porque es un consecuencia directa del contrato de trabajo.
-
-### 5. Préstamos para la adquisición de vivienda
-
-5.1. Exención de los límites de crédito para trabajadores.
-
-El inciso segundo del N° 4 del artículo 84 de la Ley General de Bancos, faculta a las empresas para otorgar a sus trabajadores, sin sujeción a los límites del inciso primero del mismo artículo, préstamos con garantía hipotecaria con el objeto de que adquieran una casa habitación para su uso personal.
-
-Respecto de una misma persona esta facultad podrá ejercitarse en una sola oportunidad mientras subsista la calidad de trabajador, a no ser que se trate de un nuevo crédito hipotecario destinado a pagar anticipadamente préstamos de similar naturaleza y propósito, adeudados ya sea al mismo banco o a uno distinto.
-
-Debe tenerse presente que los créditos que los bancos otorguen a sus trabajadores bajo la forma de saldos de precio, para financiar la adquisición de bienes de propiedad de la respectiva institución, están sujetos a los límites a que se refiere el primer inciso del N° 4 del artículo 84.
-
-5.2. Requisitos de los préstamos.
-
-Los préstamos que los bancos otorguen a sus trabajadores para la compra de una vivienda, a que se refiere el numeral 5.1 anterior, deben reunir los siguientes requisitos:
-
-a) Que se trate de préstamos con garantía hipotecaria, sean o no en letras de crédito;
-
-b) Que su objeto sea la adquisición de una vivienda y no la construcción o ampliación de ella;
-
-c) que los préstamos se encuadren en las condiciones y normas generales establecidas para estas operaciones, especialmente en lo relativo a plazos y tasas de interés;
-
-d) que las letras de crédito, cuando se trate de préstamos de esta naturaleza y ellas sean adquiridas por el banco, lo sean a los precios y condiciones normales vigentes en el mercado; y,
-
-e) que los trabajadores beneficiarios de estos créditos suscriban una declaración jurada, en la que dejen constancia de que el inmueble que adquirirán mediante el préstamo que les otorguen lo destinarán a su uso personal.
-
-### 6. Cómputo de las obligaciones para ajustarse a los márgenes
-
-Si el límite global de crédito se encuentra cubierto por préstamos u otros créditos ya concedidos, el banco no puede otorgar nuevos créditos a sus trabajadores, mientras se mantenga esta situación. Del mismo modo, la empresa no puede otorgar nuevos créditos a un trabajador o a su cónyuge, salvo que ésta cumpla con los requisitos indicados en las letras a) y b) del numeral 4.2 anterior, si ello produce un exceso en relación con el 0,15 % del patrimonio efectivo establecido por la ley como límite individual.
-
-6.1. Efecto de los intereses y reajustes.
-
-Para establecer la procedencia de otorgar un nuevo crédito afecto a los márgenes de que se trata, deben computarse, junto con éste, las obligaciones a que se refiere el N° 4 del presente Capítulo, incluyendo el capital insoluto, los reajustes o variación del tipo de cambio y los intereses ganados y no percibidos a la fecha en que aquél se otorgaría.
-
-6.2. Deudas de personas que adquieren la calidad de trabajador.
-
-Las personas que adquieran la calidad de trabajador de un banco y que mantengan deudas con ésta, deberán ajustar previamente sus obligaciones a los límites de que trata el N° 4 del artículo 84 ya citado y, por lo tanto, no podrán asumir sus funciones mientras los créditos que adeuden excedan dichos límites. Lo mismo deberá hacer la cónyuge del trabajador cuando los créditos que se le hubieren cursado queden sujetos a estos límites de conformidad con lo previsto en el numeral 4.2 de este Capítulo.
-
-No obstante lo anterior, cuando la deuda de estas personas corresponda a un crédito con garantía hipotecaria cursado para la compra de una vivienda para su uso personal, éste podrá acogerse a la exención de que trata el N° 4 de este Capítulo, siempre que cumpla los requisitos y condiciones que allí se señalan.
-
-Debe tenerse presente, sin embargo, que la facultad de otorgar créditos para la vivienda, exentos de los límites, puede ejercitarse por una sola vez para cada deudor; por lo tanto, cuando una persona que haya obtenido créditos en esas condiciones deje de tener la calidad de trabajador del banco acreedor, y posteriormente se reintegre a ella, recuperando esa calidad, estará impedida de obtener un nuevo crédito acogido a la exención de los márgenes del artículo 84 N° 4 ya citado.
 
 ## Capítulo 12-7
 
