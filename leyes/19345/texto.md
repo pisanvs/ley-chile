@@ -12,6 +12,8 @@ Los trabajadores de la Administración Civil del Estado, centralizada y descentr
 
 Lo dispuesto en el inciso anterior no será aplicable al personal afecto a las disposiciones relativas a accidentes en actos de servicio y enfermedades profesionales contenidas en el decreto con fuerza de ley N° 1, de la Subsecretaría de Guerra, en el decreto con fuerza de ley N° 2, del Ministerio del Interior, ambos de 1968, en el decreto con fuerza de ley N° 1, de 1980, de la Subsecretaría de Investigaciones y en las leyes N°s. 18.948 y 18.961.
 
+Sin perjuicio de lo anterior, los trabajadores de las empresas públicas creadas por ley, que se relacionen con el Gobierno a través del Ministerio de Defensa Nacional, esto es, Fábricas y Maestranzas del Ejército-FAMAE, Astilleros y Maestranzas de la Armada-ASMAR y la Empresa Nacional de Aeronáutica de Chile-ENAER, que presten servicios regidos por el Código del Trabajo y que se encuentren afiliados al sistema previsional establecido en el decreto ley N° 3.500, de 1980, quedarán sujetos a las disposiciones contenidas en la ley N° 16.744, sobre Seguro Contra Riesgos de Accidentes del Trabajo y Enfermedades Profesionales.
+
 #### Artículo 2°
 
 <!-- parte:7191150 -->
@@ -41,6 +43,8 @@ a) Congreso Nacional, para lo cual bastará el acuerdo de los Presidentes de amb
 b) Poder Judicial, en que la resolución corresponderá a la Corte Suprema.
 
 c) Municipalidades, en que la resolución del Alcalde requerirá el acuerdo del Concejo respectivo.
+
+d) Las empresas públicas creadas por ley, que se relacionen con el Gobierno a través del Ministerio de Defensa Nacional, en que la resolución corresponderá a la dirección de la empresa.
 
 #### Artículo 4°
 
