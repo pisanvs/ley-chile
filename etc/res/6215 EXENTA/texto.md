@@ -1,0 +1,7 @@
+DERECHO DE APROVECHAMIENTO DE AGUA EN COMUNA DE SAN FERNANDO
+
+Servicio Agrícola y Ganadero, mediante resolución exenta Nº 6.215, del 26 de octubre de 2009, conforme artículo 5º transitorio Código Aguas, aclaró y complementó resolución exenta Nº 361, de 8 de mayo de 1988, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas de los predios "Hijuela Oriente o Hijuela D que es parte de los antiguos fundos Angostura, Chorrillos e Hijuela Chorrillos" y "Cañadilla y Cerros de Chorrillos" y de parte del Proyecto de Parcelación "Chorrillos", ubicados en la comuna de San Fernando, Región del Libertador Bernardo O'Higgins, en el sentido de establecer las equivalencias en unidad de volumen por unidad de tiempo, de los derechos de aprovechamiento de aguas del canal El Tambo derivado del río Tinguiririca, para el Sector Excluido de la expropiación de la "Hijuela Viña Norte o Hijuela "C" que es parte de los antiguos fundos Angostura, Chorrillos e Hijuela Chorrillos" y del canal Miraflores derivado del río Tinguiririca, para parte del Proyecto de Parcelación, estableciendo que dichos derechos son consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.
+
+Director Nacional.
