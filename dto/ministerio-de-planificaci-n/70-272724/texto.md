@@ -30,7 +30,9 @@ a) De Planificación,
 
 b) Del Interior,
 
-c) De la Secretaría General de la Presidencia, d) De Relaciones Exteriores,
+c) De la Secretaría General de la Presidencia,
+
+d) De Relaciones Exteriores,
 
 e) De Educación,
 
@@ -53,6 +55,8 @@ m) De la Secretaría General de Gobierno.
 n) De Cultura.
 
 ñ) De Energía.
+
+o) De Minería.
 
 El Consejo será presidido por la Ministra de Planificación y en su ausencia por los Ministros que corresponda conforme al orden de precedencia señalado en el inciso anterior.
 
