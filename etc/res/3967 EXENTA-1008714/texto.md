@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.967, de 26 de noviembre de 2009, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 1.473, de 2004 y Nº 3.130, de 2005, ambas de esta Subsecretaría, correspondientes al área de manejo Castillo Sector A, XI Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS Y PESCADORES ARTESANALES PLAYAS BLANCAS en virtud del artículo 16, letra g), del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
