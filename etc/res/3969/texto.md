@@ -1,0 +1,3 @@
+Por resolución Nº 3.969, de 26 de noviembre de 2009, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº2.467, de 2000, Nº 525 y Nº 1.048, ambas de 2002, Nº 1.429 y Nº 1.633, ambas de 2003, Nº 1.754, de 2004, Nº 1.988, de 2005, Nº 930 y Nº 1.515, ambas de 2006, todas de esta Subsecretaría, correspondientes al área de manejo "Chome", VIII Región, cuyo titular es la ASOCIACIÓN GREMIAL DE PESCADORES ARTESANALES BUZOS MARISCADORES Y ALGUEROS DE CALETA CHOME en virtud del artículo 16, letra g), del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
