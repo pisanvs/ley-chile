@@ -218,13 +218,13 @@ Las naves con pabellón chileno estarán liberadas del empleo obligatorio de pr�
 
 a) En maniobras de fondear y levar a la gira.
 
-b) Naves menores de 10.000 toneladas de registro grueso, al mando de capitanes de alta mar, oficiales de cubierta o puente y de oficiales de pesca, que se encuentren debidamente habilitados para el efecto, conforme a los requisitos que fije la Dirección General para cada puerto, de acuerdo a las atribuciones de mando que le corresponda de conformidad con lo previsto por el Reglamento sobre Formación, Titulación y Carrera Profesional del Personal Embarcado, y en el Reglamento de Títulos Profesionales y Permisos de Embarco de Oficiales de la Marina Mercante y de Naves Especiales, para el caso de los oficiales de pesca.
+b) Naves menores de 25.000 toneladas de registro grueso, al mando de capitanes de alta mar, oficiales de cubierta o puente y de oficiales de pesca, que se encuentren debidamente habilitados para el efecto, conforme a los requisitos que fije la Dirección General para cada puerto, de acuerdo a las atribuciones de mando que le corresponda de conformidad con lo previsto por el Reglamento sobre Formación, Titulación y Carrera Profesional del Personal Embarcado, y en el Reglamento de Títulos Profesionales y Permisos de Embarco de Oficiales de la Marina Mercante y de Naves Especiales, para el caso de los oficiales de pesca.
+
+Se exceptúan de la liberación anterior, a las naves nacionales que transporten combustibles líquidos o gaseosos mayores de 10.000 toneladas de registro grueso.
 
 c) Naves menores de cincuenta toneladas de registro grueso.
 
-Las naves con pabellón extranjero menores de
-
-cincuenta toneladas de registro grueso estarán
+Las naves con pabellón extranjero menores de cincuenta toneladas de registro grueso estarán
 
 liberadas del empleo obligatorio de prácticos de puerto, en todos los casos.
 
