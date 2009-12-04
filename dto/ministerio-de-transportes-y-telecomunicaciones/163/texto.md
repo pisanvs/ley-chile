@@ -306,4 +306,8 @@ Los requisitos establecidos en el artículo 35° inciso 2° del presente decreto
 
 Hasta el 31 de diciembre de 2008, no regirá para los automóviles con que se preste el servicio Arica-Tacna, la exigencia contenida en la letra d) del artículo 19, en lo que se refiere al modelo standard de fabricación, sin adaptaciones o modificaciones en su estructura.
 
+#### Artículo 5º
+
+Desde la fecha de publicación del presente decreto y hasta el 31 de diciembre de 2009, se podrá adaptar o modificar el modelo standard de fabricación de los automóviles con que se preste el servicio Arica-Tacna acreditándolo ante la Secretaría Regional Ministerial de la XV Región. La acreditación realizada en virtud de este artículo habilita para seguir prestando el servicio en dicha condición, al igual que con aquellos vehículos comprendidos en el artículo anterior.
+
 Anótese, tómese razón y publíquese.- AUGUSTO PINOCHET UGARTE.- Enrique Escobar, Ministro de Transportes y Telecomunicaciones.
