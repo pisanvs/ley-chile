@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.968, de 26 de noviembre de 2009, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 2.466, de 2000, Nº 2.167, de 2003, Nº 469, de 2004 y Nº 2.046, de 2005, de esta Subsecretaría, correspondientes al área de manejo Pueblo Hundido, VIII Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES Y ACTIVIDADES CONEXAS DE LAS CALETAS DE PUEBLO HUNDIDO, LA CONCHILLA Y EL MORRO DE LOTA en virtud del artículo 16, letra g), del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
