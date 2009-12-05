@@ -1,0 +1,3 @@
+Por resolución Nº 3.999, de 30 de noviembre de 2009, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 2.817 de 2004, Nº 1.949 y Nº 3.863, ambas de 2005, todas de esta Subsecretaría, correspondientes al área de manejo "Matanzas Sector C", VI Región, cuyo titular es la ORGANIZACIÓN COMUNITARIA FUNCIONAL DE PESCADORES ARTESANALES BUZOS MARISCADORES Y ALGUEROS DE MATANZAS Y LA VEGA DE PUPUYA en virtud del artículo 16, letra g), del DS Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
