@@ -382,6 +382,20 @@ Finalmente, se considerarán sanciones gravísimas aquellas catalogadas en los a
 
 La presente ordenanza empezará a regir a contar de la fecha de su publicación legal.
 
+## Título VII
+
+DEL HORARIO DE FUNCIONAMIENTO DEL VERTEDERO MUNICIPAL O RELLENO SANITARIO
+
+#### Artículo 48
+
+El horario de atención a público del Vertedero Municipal o Relleno Sanitario sólo será entre las 22:00 horas y las 15:00 horas del día siguiente, en días hábiles administrativos.
+
+No habrá atención a público entre las 15:01 horas de los días sábado, y hasta las 21:59 horas de los días domingo.
+
+No habrá excepciones al horario establecido en la presente norma, salvo que existieran razones de fuerza mayor o caso fortuito, y esta situación lo probare el solicitante documentadamente, lo que será evaluado por el Director de Aseo y Ornato, previo informe favorable de la unidad de Medio Ambiente del municipio.
+
+Se presumirá falta de probidad administrativa de los funcionarios que autoricen el ingreso de vehículos o personas al vertedero o relleno sanitario fuera del horario establecido en la presente ordenanza, salvo cuando exista orden de autoridad competente, y con conocimiento de causa.
+
 #### Artículo transitorio
 
 La aplicación del artículo 38 ter se realizará a partir de la fecha en que la comunidad cuente con las canchas para la práctica correspondiente.
