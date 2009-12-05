@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.004, de 30 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 96110277, presentada por JORGE ALEJANDRO CARLOS JOSÉ OSSA ARANGUA para instalar y operar un centro de cultivo ubicado en estero Quitralco, al norte de Península Llanos, XI Región.
+
+Valparaíso, 30 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
