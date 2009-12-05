@@ -4,15 +4,11 @@ La Junta de Gobierno de la República de Chile ha dado su aprobación al siguien
 
 Proyecto de ley
 
-> **Nota.** El artículo 2º transitorio de la ley 20401, publicada el 04.12.2009, prorrogó la vigencia de la presente norma por el plazo de 12 años a contar de la fecha de su publicación.
+> **Nota.** El Artículo 2º transitorio de la LEY 20401, publicada el 04.12.2009, prorrogó la vigencia de la presente norma por el plazo de 12 años a contar de la fecha de su publicación.
 
-> **Nota.** NOTA 1 El artículo 72 de la ley 21405, publicada el 22.12.2021, modifica la presente norma en el sentido de renovar su vigencia por el plazo de un año, a contar de la fecha de término de la prórroga aprobada por el artículo 2º transitorio de la ley 20.401.
+#### Artículo 1°
 
-> **Nota.** NOTA 2 El artículo 45 de la ley 21526, publicada el 28.12.2022, modifica la presente norma en el sentido de renovar su vigencia por el plazo de un año, a contar de la fecha de término de la prórroga a la cual se refiere el artículo 72 de la ley 21405.
-
-#### Artículo 1º
-
-El Estado, por intermedio de la Comisión Nacional de Riego, bonificará el costo de estudios, construcción y rehabilitación de obras de riego o drenaje, así como de proyectos integrales de riego o drenaje que incorporen el concepto de uso multipropósito; inversiones en equipos y elementos de riego mecánico o de generación; y, en general, toda obra de puesta en riego u otros usos asociados directamente a las obras bonificadas, habilitación y conexión, cuyos proyectos sean seleccionados y aprobados en la forma que se establece en esta ley.
+El Estado, por intermedio de la Comisión Nacional de Riego, bonificará el costo de estudios, construcción y rehabilitación de obras de riego o drenaje y las inversiones en equipos y elementos de riego mecánico o de generación, siempre que se ejecuten para incrementar el área de riego, mejorar el abastecimiento de agua en superficies regadas en forma deficitaria, mejorar la calidad y la eficiencia de la aplicación del agua de riego o habilitar suelos agrícolas de mal drenaje y, en general, toda obra de puesta en riego u otros usos asociados directamente a las obras de riego bonificadas, habilitación y conexión, cuyos proyectos sean seleccionados y aprobados en la forma que se establece en esta ley.
 
 La bonificación del Estado a que se refiere esta ley se aplicará de la siguiente manera:
 
@@ -32,17 +28,11 @@ La Comisión considerará objetivos ambientales en los proyectos de riego bonifi
 
 Excepcionalmente, en casos calificados por la Comisión Nacional de Riego, podrán bonificarse como proyectos anexos a los de riego propiamente tales, obras destinadas a solucionar problemas de agua en el sector pecuario y otros relacionados con el desarrollo rural de los predios o sistemas de riego que se acojan a los beneficios de esta ley.
 
-La suma del costo de las obras y el monto de las inversiones a que se refieren los incisos anteriores para efectos de la bonificación no podrá exceder de 50.000 unidades de fomento, sin perjuicio de que el costo total de la obra pueda ser mayor.
+La suma del costo de las obras y el monto de las inversiones a que se refieren los incisos anteriores para efectos de la bonificación no podrá exceder de 12.000 unidades de fomento, sin perjuicio de que el costo total de la obra pueda ser mayor.
 
-En todo caso el aporte en los proyectos intraprediales se calculará sobre un máximo de 50.000 unidades de fomento, siendo la diferencia de cargo del postulante.
+En todo caso el aporte en los proyectos intraprediales se calculará sobre un máximo de 12.000 unidades de fomento, siendo la diferencia de cargo del postulante.
 
-En el caso en que los postulantes sean organizaciones de usuarios definidas por el Código de Aguas o comunidades de aguas y de obras de drenaje que hayan iniciado su proceso de constitución, podrán presentar proyectos de un valor de hasta 250.000 unidades de fomento, que beneficien en conjunto a sus asociados, comuneros o integrantes.
-
-Los proyectos cuyo costo no supere las 30.000 unidades de fomento podrán postular a la bonificación máxima establecida en los artículos 1º y 3º de esta ley, según corresponda. Igualmente, los proyectos cuyo costo sea superior al monto señalado podrán postular a las bonificaciones máximas antes referidas, en la parte que no exceda de las 30.000 unidades de fomento. Para cada uno de los demás tramos incrementales situados por sobre las 30.000 unidades de fomento, la bonificación máxima a la que se podrá postular irá disminuyendo de acuerdo a lo establecido en el reglamento.
-
-Los proyectos cuyo costo supere las 15.000 unidades de fomento deberán contar previamente con Recomendación Favorable del Ministerio de Desarrollo Social. El plazo para pronunciarse respecto de la recomendación será de 60 días corridos, contado desde la fecha de ingreso de la respectiva solicitud ante el mencionado Ministerio. El interesado podrá invocar el silencio administrativo positivo en caso de no existir pronunciamiento de la autoridad dentro del plazo antes señalado.
-
-Los concursos para la bonificación de proyectos cuyo valor sea superior a 15.000 e inferior a 250.000 unidades de fomento se regirán por un procedimiento especial contemplado en el reglamento.
+En el caso en que los postulantes sean organizaciones de usuarios definidas por el Código de Aguas o comunidades de aguas y de obras de drenaje que hayan iniciado su proceso de constitución, podrán presentar proyectos de un valor de hasta 30.000 unidades de fomento, que beneficien en conjunto a sus asociados, comuneros o integrantes.
 
 #### Artículo 2°
 
@@ -104,8 +94,6 @@ El proyecto que consulte el mayor valor en la variable superficie recibirá por 
 
 Al proyecto de menor costo por beneficiario se le adjudicarán cuatrocientos puntos y al de mayor, cero punto.
 
-En la evaluación de los proyectos cuyo costo supere las 15.000 unidades de fomento, sólo se considerará las variables "Aporte" y "Costo" de acuerdo a los numerales 1) y 3) precedentes. Para este caso, al proyecto que proponga el mayor aporte se le otorgarán quinientos puntos en la calificación de esa variable, y al que ofrezca el menor, cero puntos. Al proyecto de menor costo por hectárea beneficiada se le adjudicarán quinientos puntos, y al de mayor, cero puntos.
-
 A los proyectos que consulten valores intermedios de las variables, se les asignarán puntajes en proporción a las posiciones que ocupen entre los dos extremos indicados para cada una de dichas variables.
 
 INCISO DEROGADO
@@ -141,14 +129,6 @@ La bonificación se pagará una vez que las obras estén totalmente ejecutadas y
 Tratándose de equipos y elementos de riego mecánico, la bonificación se pagará en las condiciones y oportunidades que establezca el reglamento.
 
 La Comisión deberá pronunciarse sobre la recepción de las obras dentro del plazo de 90 días hábiles, a contar desde la fecha en que el interesado comunique por escrito haber concluido la ejecución de las mismas. Si dicho organismo no se pronunciare o no formulare reparos dentro de ese lapso, las obras se tendrán por aprobadas.
-
-#### Artículo 7º bis
-
-Los proyectos cuyo costo supere las 30.000 unidades de fomento deberán contar con una inspección y recepción técnica de obras de costo del beneficiario. La Comisión Nacional de Riego sólo podrá emitir la orden de pago del Certificado de Bonificación al Riego y Drenaje cuando las obras cuenten con inspección y recepción técnica favorable en los términos que señale el reglamento. La Comisión Nacional de Riego podrá denegar la referida orden de pago cuando, a partir de los informes de inspección o recepción técnica de las obras, o de las inspecciones aleatorias que se indican en el inciso tercero de este artículo, pudiese constatarse que el inspector técnico de obras ha incurrido en incumplimiento de la ley o del reglamento.
-
-La inspección y recepción técnica de obras de proyectos de más de 30.000 unidades de fomento deberá llevarse a cabo por personas inscritas en el Registro Público Nacional de Consultores de la Comisión Nacional de Riego para Obras Medianas. El reglamento establecerá los parámetros y condiciones necesarios para la ejecución de las labores de inspección y recepción técnica de éstas.
-
-Sin perjuicio de lo señalado precedentemente, la Comisión Nacional de Riego podrá efectuar inspecciones aleatorias de obras, en terreno, a objeto de verificar que las labores de inspección y recepción técnica se ejecuten de conformidad a los parámetros y condiciones que establezca el reglamento y la información proporcionada por la inspección privada de las obras.
 
 #### Artículo 8°
 
@@ -195,10 +175,6 @@ Será competente para aplicar esta sanción, el Juez de Policía Local que sea a
 #### Artículo 15
 
 La bonificación que establece esta ley se financiará con los recursos que cada año consulte la Ley de Presupuesto del Sector Público y se pagará a través del Servicio de Tesorerías en la forma que determine el reglamento.
-
-El Programa Subsidios de la Partida Tesoro Público incluirá los recursos necesarios para financiar el gasto anual que demande la aplicación de la presente ley. La correspondiente glosa presupuestaria deberá identificar fondos separados con los montos que anualmente podrán comprometerse en llamados a concurso, distinguiendo entre aquellas obras cuyo costo no supere las 15.000 unidades de fomento y aquellas que superen dicho monto.
-
-Los Gobiernos Regionales, en coordinación con la Comisión Nacional de Riego, podrán celebrar convenios mandato o de programación, anuales o plurianuales, con el objeto de fomentar la inversión privada regional en obras de riego y drenaje.
 
 #### Artículo 16
 
