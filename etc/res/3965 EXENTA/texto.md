@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.965, de 26 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud Nº 206103254, presentada por SALMONES MAINSTREAM S.A. para modificar la concesión de acuicultura otorgada por resolución Nº 1.068 de 2003, transferida por resolución Nº 1.323 de 2008, ambas de la Subsecretaría de Marina, canal Caucahué, ensenada Cheñique, Isla Caucahué, X Región.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
