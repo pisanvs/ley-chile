@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.003, de 30 de noviembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 201111269, presentada por PACIFIC SEAFOODS S.A. para instalar y operar un centro de cultivo ubicado en Canal Darwin, al Sur de Punta Figueroa, Isla Palumbo (Centro Henry), XI Región.
+
+Valparaíso, 30 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
