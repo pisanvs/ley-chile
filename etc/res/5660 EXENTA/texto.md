@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 5.660 EXENTA, DE 21.10.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del tercer cuatrimestre de 2007, se ha asignado a la Sociedad de Comunicaciones El Shaddai Limitada, RUT Nº 77.860.310-1, una concesión de Radiodifusión Sonora en Mínima Cobertura para la comuna de Peñalolén, Región Metropolitana, con las características técnicas siguientes: Potencia máxima de 1 W; Frecuencia 102,9 MHz; Estudio, Planta Transmisora y Sistema Radiante ubicados en la Quebrada Umallani, Población Las Parcelas Nº 1421, comuna de Peñalolén, Región Metropolitana: Coordenadas geográficas 33°28'04" Latitud Sur, 70°32'07" Longitud Oeste (Datum PSAD 1956); Sistema Radiante Direccional con polarización vertical, una (1) antena Dipolo con reflector de 5,0 dBd de Ganancia Máxima y una altura del Centro de Radiación de 6 m; Pérdidas en cables, conectores y otras de 20,5 dB (incluye atenuador de 20 dB); Pérdidas por lóbulo de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 04.12.2009, PÁGINA 29.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3º de la ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la futura concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución extractada.
+
+Los plazos son: inicio de obras, 10 días; término de obras, 30 días; inicio de servicio, 60 días, computados a partir de la fecha de publicación en el Diario Oficial del decreto que otorgue la concesión.
+
+Esta publicación se hace según lo dispuesto en los artículos 13ºA y 13ºB de la ley Nº 18.168, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta que se extracta, dentro del plazo de 5 días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Radiodifusión.
