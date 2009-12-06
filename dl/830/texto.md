@@ -638,11 +638,33 @@ Salvo disposición en contrario, los preceptos de este Código, no modifican las
 
 #### Artículo 62
 
-La Justicia Ordinaria podrá ordenar el examen de las cuentas corrientes en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias.
+- La Justicia Ordinaria podrá autorizar el examen de información relativa a las operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias. Igual facultad tendrán los Tribunales Tributarios y Aduaneros cuando conozcan de un proceso sobre aplicación de sanciones conforme al artículo 161.
 
 Asimismo, el Director podrá disponer dicho examen, por resolución fundada, cuando el Servicio se encuentre investigando infracciones a las leyes tributarias sancionadas con pena corporal.
 
-> **Nota.** El Artículo 43 de la Ley 19806, publicada el 31.05.2002, ordenó modificar el presente artículo. Sin embargo la Sentencia del Tribunal Constitucional publicada como anexo de la misma ley ordenó eliminar dicha modificación por inconstitucional, por lo tanto no se ha incorporado en el presente texto actualizado. En el diario oficial del 01.06.2002, se publicó la rectificación pertinente.
+#### Artículo 62 bis
+
+Para los efectos a que se refiere el inciso tercero del artículo precedente, será competente para conocer de la solicitud de autorización judicial que el Servicio interponga para acceder a la información bancaria sujeta a reserva o secreto, el Tribunal Tributario y Aduanero correspondiente al domicilio en Chile que haya informado el banco al Servicio, conforme al número 4) del inciso tercero del artículo precedente. Si se hubiese informado un domicilio en el extranjero o no se hubiese informado domicilio alguno, será competente el Tribunal Tributario y Aduanero correspondiente al domicilio del banco requerido.
+
+La solicitud del Servicio deberá ser presentada conjuntamente con los antecedentes que sustenten el requerimiento y que justifiquen que es indispensable contar con dicha información para determinar las obligaciones tributarias del contribuyente, identificando las declaraciones o falta de ellas, en su caso, que se pretende verificar. En el caso de requerimientos efectuados desde el extranjero, deberá indicarse la entidad requirente de la información y los antecedentes de la solicitud respectiva.
+
+El Juez Tributario y Aduanero resolverá la solicitud de autorización citando a las partes a una audiencia que deberá fijarse a más tardar el decimoquinto día contado desde la fecha de la notificación de dicha citación. Con el mérito de los antecedentes aportados por las partes, el juez resolverá fundadamente la solicitud de autorización en la misma audiencia o dentro del quinto día, a menos que estime necesario abrir un término probatorio por un plazo máximo de cinco días.
+
+La notificación al titular de la información se efectuará considerando la información proporcionada por el banco al Servicio, conforme al número 4) del inciso tercero del artículo precedente, de la siguiente forma:
+
+a) Por cédula, dirigida al domicilio en Chile que el banco haya informado, o
+
+b) Por avisos, cuando el banco haya informado al Servicio que su cliente tiene domicilio en el extranjero, que el titular de la información no es ya su cliente, o bien cuando no haya informado domicilio alguno.
+
+Para los efectos de la notificación por avisos, el secretario del Tribunal preparará un extracto, en que se incluirá la información necesaria para que el titular de la información conozca del hecho de haberse requerido por el Servicio su información bancaria amparada por secreto o reserva, la identidad del tribunal en que tal solicitud se ha radicado y la fecha de la audiencia fijada.
+
+En cualquiera de los casos anteriores, cuando el banco haya informado al Servicio el correo electrónico registrado por el titular de la información, el secretario del Tribunal comunicará también por esa vía el hecho de haber ordenado la notificación respectiva, cuya validez no se verá afectada por este aviso adicional. Asimismo, cuando se notifique por avisos, el secretario del Tribunal deberá despachar, dejando constancia de ello en el expediente, carta certificada al último domicilio registrado ante el banco, de haber sido informado, comunicando que se ha ordenado la notificación por avisos, cuya validez no se verá afectada por la recepción exitosa o fallida de esta comunicación adicional.
+
+En contra de la sentencia que se pronuncie sobre la solicitud procederá el recurso de apelación, el que deberá interponerse en el plazo de cinco días contado desde su notificación, y se concederá en ambos efectos. La apelación se tramitará en cuenta, a menos que cualquiera de las partes, dentro del plazo de cinco días contado desde el ingreso de los autos en la Secretaría de la Corte de Apelaciones, solicite alegatos. En contra de la resolución de la Corte no procederá recurso alguno.
+
+El expediente se tramitará en forma secreta en todas las instancias del juicio.
+
+Las disposiciones del artículo 62 y de este artículo no restringirán las demás facultades de fiscalización del Servicio.
 
 #### Artículo 63
 
@@ -1848,7 +1870,7 @@ Se tendrá como parte en segunda instancia al respectivo Abogado Provincial, aun
 
 #### Artículo 192
 
-El Servicio de Tesorerías podrá otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado salvo que no hayan concurrido después de haber sido sancionados conforme al artículo 97, número 21, se encuentren procesados o, en su caso, acusados conforme al Código Procesal Penal, o hayan sido sancionados por delitos tributarios hasta el cumplimiento total de su pena, situaciones que el Servicio informará a Tesorería para estos efectos.
+El Servicio de Tesorerías podrán otorgar facilidades hasta de un año, en cuotas periódicas, para el pago de los impuestos adeudados, a aquellos contribuyentes que acrediten su imposibilidad de cancelarlos al contado salvo que no hayan concurrido después de haber sido sancionados conforme al artículo 97, número 21, se encuentren procesados o, en su caso, acusados conforme al Código Procesal Penal, o hayan sido sancionados por delitos tributarios hasta el cumplimiento total de su pena, situaciones que el Servicio informará a Tesorería para estos efectos.
 
 Facúltase al Tesorero General de la República para condonar total o parcialmente los intereses y sanciones por la mora en el pago de los impuestos sujetos a la cobranza administrativa y judicial, mediante normas o criterios de general aplicación que se determinarán para estos efectos por resolución del Ministro de Hacienda.
 
@@ -1861,6 +1883,8 @@ En todo caso, el contribuyente acogido a facilidades de pago, no podrá invocar 
 Las formalidades a que deberán someterse los mencionados convenios, serán establecidas mediante instrucciones internas dictadas por el Tesorero General, el que estará facultado para decidir las circunstancias y condiciones en que se exigirá de los deudores la aceptación de letras de cambio a fin de facilitar el pago de las cuotas convenidas, como igualmente, para remitirlas en cobranza al Banco del Estado de Chile. Dicha Institución podrá percibir por la cobranza de estas letras la comisión mínima establecida para esta clase de operaciones.
 
 > **Nota.** El artículo único de la LEY 20221, publicada el 29.09.2007, amplía, a contar del día primero del mes siguiente al de publicación de esta ley, hasta un máximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero del presente artículo, concede al Servicio de Tesorerías para otorgar facilidades para el pago de impuestos adeudados, sólo respecto de aquellos impuestos girados hasta el día 30 de junio de 2007 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorerías, se podrá ejercer por el lapso de seis meses, contados desde la fecha de vigencia de esta ley. La primera de las cuotas deberá ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.
+
+> **Nota.** NOTA 1 El artículo 7º de la LEY 20343, publicada el 28.04.2009, amplía, a contar del día primero del mes siguiente al de la publicación de la presente ley, hasta un máximo de treinta y seis meses, en cuotas fijas o variables, el plazo que el inciso primero de este artículo, concede al Servicio de Tesorerías para otorgar facilidades para el pago de impuestos adeudados, sólo respecto de aquellos impuestos girados hasta el día 31 de marzo de 2009 y que se encuentren sujetos a cobranza administrativa o judicial. La facultad que se concede al Servicio de Tesorerías en este artículo, se podrá ejercer hasta el 30 de junio del año 2010. La primera de las cuotas deberá ser enterada al momento de suscribir el convenio, no pudiendo exceder su monto una treintaiseisava parte del monto total adeudado, salvo que el deudor, en forma expresa, solicite pagar un monto mayor.
 
 #### Artículo 193°
 
