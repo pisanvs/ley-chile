@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL EN LA REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA AL INSTITUTO NACIONAL DE ESTADÍSTICAS
+
+Extracto de decreto exento Nº 868.- Santiago, 6 de noviembre de 2009.
+
+Mediante decreto exento Nº 868, de 6 de noviembre de 2009, el Ministerio de Bienes Nacionales otorgó concesión gratuita al Instituto Nacional de Estadísticas, RUT 60.703.000-6, los inmuebles fiscales, ubicados en el Edificio de los Servicios Públicos, situado en calle Bories Nº 473, esquina calle Croacia, comuna de Punta Arenas, provincia de Magallanes, Región de Magallanes y de la Antártica Chilena; que corresponde al área Nº 1, del piso 9º, singularizado en el Plano Nº XII-2-1666 C.U., de una superficie de 224,566 m²; y las áreas Nº 1 y Nº 13, del subterráneo del mismo edificio, singularizados en el Plano Nº XII-2-1667 C.U., de una superficie de 16,484 m² y 19,385 m², respectivamente; enrolados en el Servicio de Impuestos Internos con el Nº 1260-68, e inscritos a nombre del Fisco, en mayor cabida, a fs. 1.485 Nº 1.590, del Registro de Propiedad de 1997, del Conservador de Bienes Raíces de Punta Arenas; por un plazo de cincuenta (50) años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión gratuita se otorga para el funcionamiento de las oficinas de la Dirección Regional del Instituto Nacional de Estadísticas en el área Nº 1, del piso Nº 9, y para bodegas las áreas Nº 1 y Nº 13, del subterráneo.
+
+El decreto con su texto completo se encuentra archivado en el Ministerio de Bienes Nacionales.
+
+Extracto autorizado por el Subsecretario de Bienes Nacionales don Augusto Prado Sánchez.- Augusto Prado Sánchez, Subsecretario de Bienes Nacionales.
