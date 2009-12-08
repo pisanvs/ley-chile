@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.981, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a SANTIAGO EDUARDO BUGUEÑO GÁLVEZ para iniciar actividades pesqueras de transformación, para instalar y operar una planta en calle Transversal s/n-B, Lote 5, Manzana 4, Barrio Industrial de la comuna de Caldera, III Región, para elaborar en la línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
