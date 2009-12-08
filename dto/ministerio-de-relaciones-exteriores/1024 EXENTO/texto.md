@@ -4,13 +4,13 @@ Núm. 1.024 exento.- Santiago, 17 de julio de 2006.- Vistos: Lo dispuesto en los
 
 Considerando:
 
-1º Que por la naturaleza de las funciones propias de la Dirección General de Relaciones Económicas Internacionales y, en particular, las que corresponde cumplir a su Director General, se hace necesario que el vehículo de la dotación de dicho servicio que se singulariza en el numeral 1º de la parte dispositiva de este decreto, pueda desplazarse a lo largo de todo el país en cualquier día del año, como asimismo, circular prescindiendo del uso del disco distintivo estatal a que hace referencia el artículo 3º del decreto ley Nº 799, de 1974;
+1º Que por la naturaleza de las funciones propias de la Dirección General de Relaciones Económicas Internacionales y, en particular, las que corresponde cumplir a su Directora de Promoción de Exportaciones, se hace necesario que el vehículo de la dotación de dicho servicio que se singulariza en el numeral 1º de la parte dispositiva de este decreto, pueda desplazarse a lo largo de todo el país en cualquier día del año, como asimismo, circular prescindiendo del uso del disco distintivo estatal a que hace referencia el artículo 3º del decreto ley Nº 799, de 1974;
 
 2º Que el vehículo marca Peugeot modelo 406 ST 2.0 color gris cuarzo, placa patente UZ-2156, autorizado por decreto exento del Ministerio de Relaciones Exteriores Nº R-24 de 31 de octubre de 2001, para circular en las condiciones precedentemente indicadas, ha sido dado de baja y reemplazado por el vehículo que a continuación se indica,
 
 Decreto:
 
-1º Autorízase a circular en días sábado en la tarde, domingo y festivos, al automóvil de la Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, que a continuación se singulariza, asignado al uso del señor Director General de Relaciones Económicas Internacionales don Carlos Furche G. o en su defecto al funcionario que lo subrogue;
+1º Autorízase a circular en días sábado en la tarde, domingo y festivos, al automóvil de la Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, que a continuación se singulariza, asignado al uso de la Directora de Promoción de Exportaciones, señora Alicia Frohmann Steinberg o en su defecto al funcionario que lo subrogue;
 
 Automóvil : Sedan
 
