@@ -10,11 +10,27 @@ Decreto:
 
 Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie:
 
-Presidente Titular: Rosa María Pinto Egusquiza, RUT Nº4.303.976-5 Presidente Suplente: Oscar Clavería Guzmán, RUT Nº5.427.368-1
+Presidente:
+
+Titular: Ministra doña Marta
+
+Carrasco Arellano, RUT Nº 3.947.557-K.
+
+Suplente: Ministra doña Laura
+
+Soto Torrealba, RUT Nº 5.569.364-1.
 
 Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie:
 
-Presidente Titular: Gabriela Soto Chandía, RUT Nº 4.621.207-K Presidente Suplente: Enrique Álvarez Girat, RUT Nº 3.639.422-6
+Presidente:
+
+Titular: Ministra doña Virginia
+
+Soublette Miranda, RUT Nº 7.688.804-3.
+
+Suplente: Ministro don Óscar
+
+Clavería Guzmán, RUT Nº 5.427.368-1.
 
 Tómese razón, regístrese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.
 
