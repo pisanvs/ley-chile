@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.977, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a PIETRO SALVATORE ZAZZALI TOLEDO para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Quinta Los Olivos, Km. 4, sitio vecino a Sra. Oróstegui, Taltal, II Región, para elaborar en línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
