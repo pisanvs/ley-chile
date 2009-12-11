@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-1) Prohíbese la circulación de todo vehículo motorizado en las calles Caparrosa entre Pedro Aguirre Cerda y Huamachuco y calles Huamachuco entre Caparrosa y Pablo Neruda, de la ciudad de Antofagasta, desde el 25 de mayo al 30 de octubre de 2009, entre las 8:00 a 18:00 hrs. Se deberá mantener el acceso vehicular para los residentes de cada vía a pavimentar y el tránsito peatonal deberá estar expedito al menos por un costado de las vías, en todo momento de los trabajos.
+1) Prohíbese la circulación de todo vehículo motorizado en las calles Caparrosa entre Pedro Aguirre Cerda y Huamachuco y calles Huamachuco entre Caparrosa y Pablo Neruda, de la ciudad de Antofagasta, desde el 25 de mayo al 15 de diciembre de 2009, entre las 8:00 a 18:00 hrs. Se deberá mantener el acceso vehicular para los residentes de cada vía a pavimentar y el tránsito peatonal deberá estar expedito al menos por un costado de las vías, en todo momento de los trabajos.
 
 El desvío para la Línea de Buses Nº111 será de norte a sur: Pedro Aguirre Cerda - Tepual - Aguirre Cerda - Pérez Canto - Héroes de La Concepción - Vladimir Saavedra - Huamachuco - recorrido normal.
 
