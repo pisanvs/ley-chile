@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.985, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a RENÉ ALEJANDRO ULLOA AMPUERO para iniciar actividades pesqueras de transformación, instalar y operar planta ubicada calle Pisagua s/nº, Carelmapu, comuna de Maullín, X Región, para elaborar en línea de Cocido, Fresco-enfriado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
