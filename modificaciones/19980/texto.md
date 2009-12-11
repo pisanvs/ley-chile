@@ -112,6 +112,8 @@ En los presupuestos de los Servicios de Salud se consultarán los recursos espec
 
 d) Aquellos que se individualizan en la Nómina de Personas Reconocidas como Víctimas, que forma parte del Informe de la Comisión Nacional sobre Prisión Política y Tortura, creada por el decreto supremo Nº 1.040, de 2003, del Ministerio del Interior.".
 
+e) Los padres, cónyuges, la madre o padre de los hijos de filiación no matrimonial y los hijos menores de 25 años de edad, o discapacitados de cualquier edad, de las personas señaladas en la letra anterior.
+
 #### Artículo octavo
 
 En el presupuesto del Ministerio del Interior se consultarán los recursos que éste deberá destinar al financiamiento de convenios que celebre con organismos, entidades y personas jurídicas, todas sin fines de lucro, para la creación y mantención de memoriales y sitios históricos recordatorios de las víctimas a que se refiere el artículo 18 de la ley Nº 19.123.

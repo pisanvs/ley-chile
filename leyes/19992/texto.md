@@ -118,7 +118,7 @@ Los beneficios establecidos en el Título II de la presente ley se financiarán 
 
 #### Artículo 17
 
-Los hijos de las víctimas de violaciones a los derechos humanos individualizadas en los anexos "Listado de Prisioneros Políticos y Torturados" y "Menores de Edad Nacidos en Prisión o Detenidos con sus Padres" de la Nómina de Personas Reconocidas como Víctimas, que forma parte del Informe de la Comisión Nacional sobre Prisión Política y Tortura, y que así lo decidan, estarán exentos de realizar el Servicio Militar Obligatorio.
+Los parientes hasta segundo grado en la línea recta y hasta cuarto en la línea colateral, inclusive, de las víctimas de violaciones a los derechos humanos individualizadas en los anexos "Listado de Prisioneros Políticos y Torturados" y "Menores de Edad Nacidos en Prisión o Detenidos con sus Padres" de la Nómina de Personas Reconocidas como Víctimas, que forma parte del Informe de la Comisión Nacional sobre Prisión Política y Tortura, y de aquéllas individualizadas como tales conforme a leyes posteriores, y que así lo decidan, estarán exentos de realizar el Servicio Militar Obligatorio.
 
 ARTICULOS TRANSITORIOS
 

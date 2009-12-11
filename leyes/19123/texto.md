@@ -352,6 +352,8 @@ DEL CUMPLIMIENTO DEL SERVICIO MILITAR OBLIGATORIO
 
 Los hijos de filiación matrimonial, hijos de filiación no matrimonial y adoptivos de las personas a que se refiere el artículo 18 de la presente ley, quedarán en la categoría de disponibles a que se refiere el artículo 30 del decreto ley N° 2.306, de 1978, sobre Reclutamiento y Movilización de las Fuerzas Armadas, cuando así lo soliciten directamente o por intermedio de la Corporación que se establece en el Título I de esta ley.
 
+Lo dispuesto en el inciso anterior será aplicable a los parientes hasta segundo grado en la línea recta y hasta cuarto grado en la línea colateral, inclusive, de dichas víctimas, y de aquellas individualizadas como tales conforme a leyes posteriores.
+
 ## Título VI
 
 DEL FINANCIAMIENTO
