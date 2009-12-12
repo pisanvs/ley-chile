@@ -116,6 +116,10 @@ d) Los excesos en la extracción de la fracción autorizada en el período respe
 
 6.- Establécese los días lunes a viernes de cada semana, entre la fecha de la presente resolución y el 30 de abril de 2009, y los días lunes a sábado de cada semana, entre el 1º mayo al 31 de diciembre de 2009, como días de captura para las organizaciones de pescadores artesanales individualizadas en el numeral 1.- de la presente resolución.
 
+7º.- Fíjase el día 31 de diciembre de 2009, inclusive, como plazo fatal para que todas las organizaciones de pescadores artesanales sometidas al Régimen Artesanal de Extracción establecido mediante decreto exento Nº 332, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, comuniquen por escrito a esta Subsecretaría el listado oficial de los afiliados inscritos y de sus embarcaciones, en caso de los armadores, que participarán por la respectiva organización en el Régimen, o en su caso las variaciones o modificaciones que en el número de pescadores o embarcaciones hayan experimentado las mismas.
+
+Para tales efectos, las organizaciones de pescadores artesanales antes indicadas deberán remitir una carta firmada por la directiva respectiva, acompañando los antecedentes indicados en el inciso 2º del artículo 7º del DS Nº 296, de 2004, del Ministerio de Economía, Fomento y Reconstrucción, que aprueba el Reglamento del Régimen Artesanal de Extracción establecido en el artículo 48 A de la Ley General de Pesca y Acuicultura.
+
 > **Nota.** La RES 579 Exenta, Economía, publicada el 18.02.2009, rectifica la presente norma, en el sentido de reemplazar los coeficientes establecidos para las organizaciones de pescadores y la distribución de las fracciones artesanales de las pesquerías, en la forma que indica.
 
 > **Nota.** NOTA 1: La RES 775 Exenta, Economía, publicada el 05.03.2009, modifica la presente norma, el sentido de reemplazar los coeficientes establecidos para las organizaciones de pescadores y la distribución de las fracciones artesanales de las pesquerías, en la forma que indica.
@@ -127,5 +131,17 @@ d) Los excesos en la extracción de la fracción autorizada en el período respe
 > **Nota.** NOTA 4 La Resolución 2021 Exenta, Economía, publicada el 11.06.2009, modifica la presente norma, el sentido de reemplazar los coeficientes establecidos para las organizaciones de pescadores y la distribución de las fracciones artesanales de las pesquerías, en la forma que indica.
 
 > **Nota.** NOTA 5 La Resolución 2023 Exenta, Economía, publicada el 11.06.2009, modifica las asignaciones de recursos, correspondientes a las organizaciones artesanales Asociación Gremial de Pescadores y Armadores Artesanales Pelágicos de la Región del Bío-Bío, Pesca Mar A.G., Registro de Asociaciones Gremiales 450-8, Sindicato de Pescadores Artesanales y Armadores Artesanales de la Octava Región, SPAADA SD, Registro Sindical Único 08.05.0339, Sindicato Independiente de Armadores y Pescadores Artesanales Afines, SARPE, Registro Sindical Único 08.05.0398, y Sindicato de Trabajadores Independientes de la Pesca Artesanal, Armadores Artesanales Pelágicos, Pescadores Artesanales propiamente tales y actividades Conexas de Caleta San Vicente "Sindicato Tsunami", Registro Sindical Único 08.05.0428, como en ella se indica.
+
+> **Nota.** NOTA 6 La Resolución 2223 Exenta, Economía, publicada el 01.07.2009, modifica la presente norma en el sentido de reemplazar las asignaciones de Anchoveta y Sardina común para las organizaciones de pescadores artesanales que señala, por las en ella se indica.
+
+> **Nota.** NOTA 7 La Resolución 2331 Exenta, Economía, publicada el 07.07.2009, modifica las letras A y B del Nº 2 de la presente norma, el sentido de reemplazar las asignaciones de Anchoveta y Sardina comn para las organizaciones de pescadores artesanales que señala,por las en ella se indica.
+
+> **Nota.** NOTA 8 La Resolución 2402 Exenta, Economía, publicada el 20.07.2009, modifica la presente norma en el sentido de reemplazar las asignaciones de Anchoveta y Sardina común para las organizaciones de pescadores artesanales que señala, por las en ella se indica.
+
+> **Nota.** NOTA 9 La Resolución 3066 Exenta, Economía, publicada el 17.09.2009, modifica la presente norma en el sentido de reemplazar las asignaciones de Anchoveta y Sardina común para las organizaciones de pescadores artesanales que señala, por las en ella se indica.
+
+> **Nota.** NOTA 10 La Resolución 3338 Exenta, Economía, publicada el 14.10.2009, modifica la presente norma, en el sentido modificar las asignaciones para los recursos de Anchoveta, correspondientes a las organizaciones artesanales Asociación Gremial de Productores Pelágicos Artesanales de las Caletas de Talcahuano y San Vicente de la VIII Región GEMAR A.G., Registro de Asociaciones Gremiales 464-8, y Sindicato de Trabajadores Independiente Pescadores de Caleta Cocholgue, Registro Sindical Único 08.06.0023, según en ella se indica.
+
+> **Nota.** NOTA 11 El Nº 1 de la Resolución 3983 Exenta, Economía, publicada el 03.12.2009, modifica la presente norma, en el sentido de modificar las asignaciones para los citados recursos, correspondiente a la organización artesanal Cooperativa de Pescadores Pelilleros Isla Santa María Ltda., Registro de Cooperativa Rol 1826, de acuerdo a lo que en dicha norma se señala.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Por cuenta de esta Subsecretaría, Jorge Chocair Santibáñez, Subsecretario de Pesca.
