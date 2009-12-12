@@ -1,0 +1,3 @@
+Por resolución exenta 3.789, de 13 de noviembre de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 3.571 de 2009, de esta Subsecretaría, que autorizó al Instituto de Investigación Pesquera para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2008-10 denominado "Distribución de pre-reclutas de Jurel en aguas oceánicas frente a la costa de Chile", en el sentido de reemplazar, en sus numerales 4.- y 5.-, a la nave industrial "Pehuenco", del armador Pesquera Bío Bío S.A., por la nave industrial "Ventisquero", del armador Pesquera San José S.A.
+
+Valparaíso, 13 de noviembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
