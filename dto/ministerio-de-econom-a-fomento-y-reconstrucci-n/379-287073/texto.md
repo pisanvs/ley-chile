@@ -418,19 +418,19 @@ Dicho envío se realizará a la dirección consignada en la Lista, pudiendo la C
 
 El Cupón será nominativo constando en el mismo el nombre del jefe de familia, en adelante indistintamente el 'usuario'.
 
-El Cupón deberá presentarse en la oficina comercial de la concesionaria respectiva, al momento de pagar la Cuenta correspondiente. La presentación podrá efectuarse por el usuario o por quien éste autorice. Se entenderá autorizada la persona que presente el Cupón junto a fotocopia simple de la cédula de identidad del usuario.
+El Cupón deberá presentarse en la oficina comercial de la concesionaria respectiva. La presentación podrá efectuarse por el usuario o por quien éste autorice. Se entenderá autorizada la persona que presente el Cupón junto a fotocopia simple de la cédula de identidad del usuario.
 
-En dicha oportunidad, la concesionaria procederá a descontar del monto total de las prestaciones, el monto total establecido en el Cupón. Si el monto del subsidio señalado en el Cupón excediere el monto total de las prestaciones, el remanente deberá informarse en aquella parte del Cupón que quedará en posesión del usuario, según lo establecido en el inciso séptimo de este Artículo y abonarse automáticamente en la próxima Cuenta o en las sucesivas, en la misma forma y con las mismas menciones establecidas en el inciso segundo del Artículo 5° de este decreto.
+La concesionaria abonará el monto total del subsidio a la Cuenta o a las Cuentas sucesivas, en caso que no se hubiese pagado íntegramente en la anterior, en la misma forma y con las mismas menciones establecidas en el inciso segundo del artículo 5º de este decreto.
 
-El Cupón constará de dos partes; la primera parte contendrá, a lo menos, campos impresos indicando el nombre del usuario, su número de cédula de identidad y el monto total del subsidio. Asimismo, contendrá campos a completar por la concesionaria al momento de aplicarse el descuento, en los cuales indicará el número de cliente al cual se le aplicará el subsidio y el nombre y número de cédula de identidad de quien presentó el Cupón, en caso de ser distinto del usuario. Dicha parte será retenida por la concesionaria.
+El Cupón constará de dos partes; la primera parte contendrá, a lo menos, campos impresos indicando el nombre del usuario, su número de cédula de identidad y el monto total del subsidio. Asimismo, contendrá campos a completar por la concesionaria al momento de recibir el Cupón, en los cuales indicará el número de cliente al cual se le aplicará el subsidio y el nombre y número de cédula de identidad de quien presentó el Cupón, en caso de ser distinto del usuario. Dicha parte será retenida por la concesionaria.
 
-La segunda parte, que deberá adjuntarse a la Cuenta y en consecuencia, quedará en posesión del usuario, contendrá, a lo menos, un campo impreso con el monto total del subsidio, y campos a completar por la concesionaria al momento de aplicarse el descuento. Estos últimos campos serán el monto total de las prestaciones, el monto a pagar por el usuario luego de descontar el monto del subsidio y el saldo de subsidio a favor del usuario, en caso de haberlo. Alternativamente, la concesionaria podrá entregar un comprobante que, a lo menos, contenga los campos antes indicados, el que deberá adjuntarse a la Cuenta y, en consecuencia, quedará en posesión del usuario.
+La segunda parte quedará en posesión del usuario y contendrá a lo menos un campo impreso con el monto total del subsidio.
 
 En el plazo de 20 días a contar de la fecha de publicación del presente decreto, la SEC dictará una resolución que establezca las normas necesarias y convenientes para la implementación del mecanismo establecido en este Artículo.
 
-#### Artículo 8°
+#### Artículo 8º
 
-Será requisito para el uso del Cupón, y por consiguiente para la aplicación del subsidio, que el usuario pague por completo la diferencia, en caso de haberla, entre el monto total de las prestaciones y el monto señalado en el Cupón.
+Derogado
 
 #### Artículo 9°
 
@@ -461,6 +461,8 @@ Las concesionarias deberán mantener un archivo o registro de las listas enviada
 #### Artículo 14°
 
 Las reclamaciones que reciban las concesionarias de los potenciales beneficiarios y que no pudieren solucionar directamente, o aquellas que sean recibidas por las municipalidades o por alguna otra institución pública, serán informadas a la SEC, para que ésta recabe los antecedentes necesarios de los órganos competentes para autorizar la aplicación del subsidio de que se trate.
+
+La SEC, en los casos señalados en el inciso precedente, como asimismo en aquellos casos en que las reclamaciones le sean interpuestas directamente, podrá instruir a la concesionaria correspondiente que aplique el subsidio como un descuento en la Cuenta.
 
 #### Artículo 15°
 

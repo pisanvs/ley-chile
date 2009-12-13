@@ -82,7 +82,9 @@ La concesionaria deberá informar de estos casos a la SEC al momento de solicita
 
 #### Artículo 12º
 
-Las reclamaciones que reciban las concesionarias de los potenciales beneficiarios y que no pudieren solucionar directamente, serán informadas a la SEC para que ésta recabe los antecedentes necesarios de los órganos competentes para autorizar la aplicación del subsidio de que se trate.
+Las reclamaciones que reciban las concesionarias de los potenciales beneficiarios y que no pudieren solucionar directamente, o aquellas que sean recibidas por las municipalidades o por alguna otra institución pública, serán informadas a la SEC, para que ésta recabe los antecedentes necesarios de los órganos competentes para autorizar la aplicación del subsidio de que se trate.
+
+La SEC, en los casos señalados en el inciso precedente, como asimismo en aquellos casos en que las reclamaciones le sean interpuestas directamente, podrá instruir a la concesionaria correspondiente que aplique el subsidio como un descuento en la cuenta de energía eléctrica del beneficiario.
 
 #### Artículo 13º
 
