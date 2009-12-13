@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.030, de 7 de diciembre de 2009, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 424 y Nº 2.012, ambas de 1999, Nº 2.508 de 2000, Nº 853 de 2001, Nº 1.300 de 2002 y Nº 2.176 de 2003, todas de esta Subsecretaría, correspondientes al área de manejo Punta Lirquén, VIII Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES BUZOS MARISCADORES DE LIRQUÉN, en virtud del artículo 16, letra g), del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
