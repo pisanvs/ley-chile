@@ -12,79 +12,35 @@ Visto: Lo dispuesto en las leyes Nºs. 18.956, 18.962, Orgánica Constitucional 
 
 D e c r e t o:
 
-#### Artículo 1º
+#### Artículo 1°
 
-La ejecución del Programa de Educación Media se regulará de acuerdo a las disposiciones que fija el presente decreto.
+La Ejecución del Programa de Educación Media se regulará de acuerdo a las disposiciones que fija el presente decreto.
 
-El Programa de Educación Media busca mejorar la oferta educativa y aumentar la retención de los alumnos y alumnas en los establecimientos educacionales diurnos que atienden a la población con mayor vulnerabilidad social y educativa y comprende las siguientes líneas de acción:
+El Programa de Educación Media busca mejorar la oferta, retención y los resultados educativos e institucionales en los establecimientos educacionales subvencionados por el Estado que imparten Educación Media, y comprende las siguientes Líneas de Acción:
 
-Línea de Ciudadanía, Inclusión y Cultura Juvenil en el Liceo, la cual se orienta a lograr que los liceos fortalezcan espacios de participación y expresión juvenil; procesos de inclusión de la diversidad, esto es, alumnos en situaciones o condiciones especiales derivadas de circunstancias personales, del nivel socioeconómico de su familia o del entorno en que se desarrollan, y apoyo a trayectorias educativas y laborales, con el fin que los jóvenes permanezcan y completen su enseñanza media, alcanzando doce años de escolaridad y que accedan, de manera creciente, a una oferta educativa de calidad.
+a) Línea de fortalecimiento de competencias docentes en implementación curricular, procesos técnico pedagógicos y prácticas institucionales de gestión, destinada a elevar los logros de aprendizaje de los estudiantes en el ámbito de la formación general y la formación diferenciada, asegurando de esta forma la disponibilidad de recursos y servicios pedagógicos de calidad.
 
-Línea de fortalecimiento de la Enseñanza Media Técnico Profesional, la cual se orienta a mejorar la educación técnica profesional a través del desarrollo curricular de esta modalidad en el aula, fortaleciendo la labor pedagógica y didáctica de los docentes, entregando orientaciones e instrumentos para mejorar la calidad de las prácticas profesionales que realizan los estudiantes egresados y para que los liceos elaboren propuestas de calidad de la supervisión de dichas prácticas.
+b) Línea de fortalecimiento de los procesos de inclusión de la diversidad y de trayectorias educativas y laborales, con el fin que los estudiantes permanezcan y completen su Educación Media, alcanzando los 12 años de escolaridad.
 
-Línea de Fortalecimiento de la Profesión Docente de Enseñanza Media, cuyo objetivo es mejorar las prácticas pedagógicas y elevar los logros de aprendizaje de los alumnos y alumnas en el ámbito de la formación general en los liceos subvencionados humanístico-científicos y técnico-profesionales.
+c) Línea de asistencia técnica a liceos de alta vulnerabilidad educativa, dirigida a proveer de asesorías especializadas para la instalación de competencias, según las necesidades y particularidades de los establecimientos educacionales, a través de la contratación de instituciones de Educación Superior y otros organismos idóneos en el área de la asesoría educacional.
 
-Línea de Fortalecimiento de la Gestión Escolar de la Educación Media, cuyo objetivo es la profesionalización y liderazgo directivo, el desarrollo de un sistema de mejoramiento continuo de la gestión escolar y el impulso de una mayor autonomía escolar y participación de la comunidad.
+d) Línea de fortalecimiento de la gestión escolar, destinada a promover el liderazgo de los directivos, el desarrollo de un sistema de mejoramiento continuo y competencias en los equipos directivos que permitan el impulso de una mayor autonomía al interior de los establecimientos educacionales.
+
+e) Línea de apoyo a la elaboración e implementación de planes de mejoramiento educativo, destinada a promover la instalación de un modelo de mejoramiento continuo en los establecimientos educacionales, centrado en el aprendizaje.
 
 #### Artículo 2º
 
 Las líneas de acción y las actividades cuya ejecución comprende el desarrollo del programa de que trata este decreto, para los establecimientos afectos al régimen del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, y los regulados por el decreto ley Nº3.166, de 1980, son las siguientes:
 
-a) Asignación de becas anuales de retención a estudiantes de enseñanza media con mayores niveles de vulnerabilidad socioeducativa, matriculados en establecimientos educacionales que presenten dificultades para retener a sus estudiantes, de acuerdo al IRRE definido en el inciso siguiente.
+a) Asignación de becas anuales de retención a estudiantes de educación media con mayores niveles de vulnerabilidad socioeducativa, calificados de altamente vulnerables por condición de embarazo, maternidad, paternidad y aquellos beneficiarios del programa Chile Solidario, que cursen el primer, segundo o tercer año de Educación Media.
 
-Para estos efectos se entenderá por:
+La Beca de Retención consiste en la asignación de recursos financieros al estudiante para favorecer su permanencia en el establecimiento educacional, con el objeto de alcanzar los doce años de escolaridad obligatoria, que establece el artículo 19 N° 10 de la Constitución Política de la República de Chile.
 
-- Beca de retención: La asignación de recursos financieros al alumno y/o alumna para favorecer su permanencia en el establecimiento educacional con el objeto de alcanzar 12 años de escolaridad obligatoria, que establece el artículo 19 Nº 10 de la Constitución Política de la República de Chile.
+A partir del año 2009 se asignará un total de hasta 19.110 Becas de Retención Escolar, incluyendo aquellos estudiantes que gozan del beneficio desde años anteriores, por un monto igual a $ 162.000.- (ciento sesenta y dos mil pesos), siempre que se consulten los recursos necesarios en la respectiva Ley de Presupuestos para el Sector Público. El monto de la Beca se reajustará anualmente de acuerdo a la variación experimentada por el Índice de Precios al Consumidor, del año anterior al ejercicio presupuestario correspondiente.
 
-- Vulnerabilidad socioeducativa del alumno y/o alumna: Los alumnos y/o alumnas que presentan un alto riesgo de deserción escolar determinados según Indice de Retiro por Alumno y/o Alumna (IRRA), obtenido en base a los siguientes indicadores: asistencia promedio, sobre edad y promedio de notas del estudiante.
+La Beca será administrada directamente por la Junta Nacional de Auxilio Escolar y Becas.
 
-- Establecimientos con dificultades para retener a sus estudiantes: Aquellos establecimientos que presentan un puntaje igual o superior a 50, en un rango que va de 0 a 100, en el Indice de Riesgo de Retiro por Establecimiento (IRRE), que considera las variables de: promedio de años de escolaridad de las madres de los alumnos y/o alumnas del establecimiento, promedio de aprobación y de asistencia del establecimiento durante el año anterior a la asignación de la beca y tasa de repitencia del establecimiento.
-
-Para el cálculo del Indice de Retiro por Alumno y/o Alumna (IRRA) e Indice de Riesgo de Retiro por Establecimiento (IRRE) se utilizará la información contenida en la base de datos del Registro de Estudiantes de Chile, del proceso de Actas y Rendimiento del año anterior cursado por el postulante. En el caso de los establecimientos educacionales, la ponderación de los indicadores de cada uno de ellos se hará bajo un modelo de regresión lógica aditiva múltiple, en la cual el rango del puntaje va de un rango de 0 a 100, siendo este último el que representa el máximo riesgo.
-
-Las becas nuevas se asignarán a los alumnos y/o alumnas de primero medio que cumplan con mayores niveles de vulnerabilidad socioeducativa, matriculados en establecimientos con dificultades para retener a sus estudiantes, debiendo priorizarse a los alumnos con mayor vulnerabilidad socioeconómica, tales como los de Chilesolidario y alumnas madres.
-
-Los postulantes que sean elegidos para la asignación de la beca deberán firmar, como condición para la obtención misma, una carta - compromiso con el Director del establecimiento por la cual se obliguen a mantener su matrícula actual, renovar voluntariamente su matrícula en el sistema educativo al año siguiente, mejorar su promedio de asistencia respecto del año anterior y mantener un mínimo de 80% de asistencia durante el año. Estos compromisos serán considerados requisitos copulativos.
-
-Serán causales de pérdida de la beca para el año siguiente:
-
-i) El incumplimiento de alguna de las
-
-obligaciones asumidas en la carta -
-
-compromiso con el Director del
-
-establecimiento, que se señala en el inciso
-
-precedente.
-
-ii) El traslado del beneficiario a la "Jornada
-
-Vespertina" o Educación de Adultos.
-
-iii) Repetir el mismo grado o curso, por segunda
-
-vez.
-
-iv) Ser beneficiario de la Beca Presidente de la
-
-República o Beca Zonas Extremas u otro
-
-beneficio legalmente incompatible con ésta.
-
-v) Matricularse en un establecimiento que no
-
-reúna los requisitos establecidos en este
-
-literal para la asignación de la beca.
-
-La asignación y administración de esta Beca de Retención será realizada por la Junta Nacional de Auxilio Escolar y Becas, de acuerdo a los criterios establecidos en este decreto, salvo en lo que respecta al año 2007 que será administrada conjuntamente entre el Ministerio de Educación y la Junta Nacional de Auxilio Escolar y Becas, conforme a los términos establecidos en un Convenio de Colaboración.
-
-Los resultados de la asignación de la beca serán comunicados por la Junta Nacional de Auxilio Escolar y Becas a los directores de los establecimientos educacionales que tengan alumnos y/o alumnas beneficiarios (as), quienes deberán notificar al alumno y/o alumna y al padre o apoderado, y requerir la firma de la carta - compromiso que se establece en este literal como condición para la obtención de la beca.
-
-Para el año 2007 se asignarán un total de 18.651 becas anuales de retención, incluyendo las becas de aquellos alumnos que gozan del beneficio desde años anteriores, por un monto igual a $150.000 cada una.
-
-b) Mejoramiento de las condiciones de habitabilidad y de equipamiento de internados de los establecimientos regidos por el DFL Nº2 de Educación de 1998 y decreto ley Nº 3.166 de 1980, de todo el país que atienden a estudiantes de liceos del Programa Liceo para Todos, mediante el aporte de equipamiento en calefacción, servicios higiénicos, alojamiento e implementación de programas pedagógicos, recreativos y sociales, entre otros similares.
+b) Mejoramiento de las condiciones de habitabilidad y de equipamiento de internados de los establecimientos regidos por el DFL Nº2 de Educación de 1998 y decreto ley Nº 3.166 de 1980, de todo el país que atienden a estudiantes de establecimientos de educación media focalizados y prioritarios, mediante el aporte de equipamiento en calefacción, servicios higiénicos e implementación de programas pedagógicos, recreativos y sociales, entre otros similares.
 
 c) Desarrollo de Planes de Asesoría orientados a disminuir la tasa de retiro y repitencia y a mejorar los resultados educativos de los liceos focalizados y prioritarios, cuyo diseño y ejecución será responsabilidad de Instituciones Asesoras Externas contratadas especialmente para realizar una atención diferenciada a cada establecimiento, debiendo dicho plan fortalecer los ámbitos de gestión directiva, gestión curricular y pedagógica, gestión de la convivencia e inclusión escolar, en cada uno de ellos.
 
@@ -104,7 +60,11 @@ g) Desarrollo de estudios y proyectos en ámbitos pedagógicos, de integración 
 
 h) Capacitación y honorarios para docentes y especialistas que ejercen labores de coordinación y apoyo técnico para el Mejoramiento de la Educación Media.
 
-i) Contratación a honorarios de profesionales que deberán ser educadores en el Subsector de Aprendizaje de Lenguaje y Comunicación y Sector de Matemática para la realización de capacitaciones y la generación de redes pedagógicas locales de apoyo a la implementación curricular y pedagógica. El número de profesionales a contratar y sus honorarios se fijarán de conformidad a la disponibilidad presupuestaria del año correspondiente.
+i) Contratación a honorarios de profesionales de la docencia en sectores y subsectores de aprendizaje para apoyar la gestión e implementación curricular y pedagógica. El número de profesionales a contratar y sus honorarios se fijarán de conformidad a la disponibilidad presupuestaria del año correspondiente.
+
+j) Realización de proyectos elaborados por los establecimientos educacionales sobre iniciativas juveniles, escuela solidaria y orientaciones que refuercen procesos de inclusión y de desarrollo de trayectorias educativas y desarrollo de planes de acción, orientados a disminuir las tasas de retiro y repitencia y a mejorar los resultados educativos de los liceos.
+
+k) Elaboración e Implementación de Planes de Mejoramiento Educativo, los cuales corresponden a propuestas elaboradas con autonomía por los docentes, tendientes a mejorar los resultados educativos e institucionales en los establecimientos educacionales subvencionados por el Estado, regidos por el D.F.L. N° 2, de 1998 y por el D.L. N° 3.166, de 1980.
 
 Para el año 2007 se contratarán un máximo de 60 profesionales con un honorario único y total de hasta $480.000 por persona. Este monto se pagará en dos cuotas: la primera, contra la presentación del proyecto de trabajo y la segunda cuota, contra la presentación y aprobación de los informes que acrediten la realización de las actividades previstas.
 
@@ -112,11 +72,9 @@ Para el año 2007 se contratarán un máximo de 60 profesionales con un honorari
 
 El desarrollo del Programa de Educación Media comprende la celebración, con las personas naturales o jurídicas que corresponda, de todos aquellos actos jurídicos necesarios para la implementación de las actividades, incluidos aquellos que estén relacionados con la operación del presente programa.
 
-#### Artículo 4º
+#### Artículo 4°
 
-El gasto que demande la aplicación del Programa de Educación Media se imputará al ítem que se consulte anualmente para el sector público para estos efectos.
-
-Para el año 2007 se imputará al ítem 09-01-03-24- 03-512, glosa 09 del presupuesto asignado a la Subsecretaría de Educación.
+Los gastos que irrogue la ejecución del Programa de Educación Media para el año 2009, se imputarán al Ítem 09-01-03-24-03-512, glosa 09, de la ley N° 20.314, de Presupuestos del Sector Público para el año 2009.
 
 Anótese, refréndese, tómese razón y publíquese.- Por orden del Presidente de la República, Mariana Aylwin Oyarzún, Ministra de Educación.- María Eugenia Wagner Brizzi, Ministra de Hacienda (S).
 
