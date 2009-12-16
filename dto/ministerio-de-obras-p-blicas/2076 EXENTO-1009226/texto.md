@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2076 de 30 de diciembre del 2009, se expropió el lote de terreno Nº50-A, superficie 1.948 m2., Rol Nº132-14, comuna de Vichuquén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTÉN - VICHUQUÉN TRAMO KM. 0,000000 AL KM. 15,372989", y se acordó el valor de indemnización con su propietario EUGENIO DEL CARMEN CUBILLOS CORREA Y OTROS, ascendente a la cantidad de $4.826.155.-
+
+Fiscal del Ministerio de Obras Públicas.
