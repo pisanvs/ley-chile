@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 2157 de 30 de noviembre de 2009, se expropiaron los lotes de terrenos N°s. 1-11 y 1-13, superficies 315 y 151 m2., rol de avalúo 153-95, comuna de Llay-Llay, para la obra "CAMINO RUTA 5 NORTE, TRAMO: SANTIAGO - LOS VILOS. SECTOR: CUESTA LAS CHILCAS KM. 74.268,90 AL KM. 78.932,00", V Región, se acordó el valor de la indemnización con su propietario ÁLVARO HERNÁN MONDACA PÉREZ, ascendente a la cantidad de $1.012.215.-
+
+Fiscal del Ministerio de Obras Públicas.
