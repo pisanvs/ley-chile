@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2.102 de fecha 30 de noviembre de 2009, se expropiaron los lotes de terreno Nºs 2 y 5, superficies 19 y 90 m2 respectivamente, rol Nº2617-7 y 2617-1, comuna de Valdivia, para la obra "Camino Reposición Ruta 207, Sector Cruce Longitudinal (Paillaco) Valdivia, tramo Km. 28,81000 al Km. 43,93340, Provincia de Valdivia, X Región" y se acordó el valor de la indemnización con su propietario PATRICIO RUBEN RODRIGUEZ MARTEL, ascendente a la cantidad de $12.867.933.-
+
+Fiscal del Ministerio de Obras Públicas.
