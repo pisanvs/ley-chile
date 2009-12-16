@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2028, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra "Mejoramiento Ruta 5 - W - 15 - 175, Sector Ruta 5 Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé, Xa Región", Comuna de Ancud, que figura a nombre de STRAUSSMANN STOHR RODOLFO G, rol de avalúo 1182-2, superficie 2.714 M2. La Comisión de Peritos, fijó con fecha 15 de noviembre de 2007, en la cantidad de $1.459.500. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
