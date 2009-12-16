@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2027, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº73-A, para la obra "Camino Ruta V-60, Sector El Tepual - Las Quemas - Los Muermos, Km. 0,00000 a Km. 32,27442", Provincia de Llanquihue, Xa Región", Comuna de Los Muermos, que figura a nombre de DORNER KNEER ANIBAL ENRIQUE, rol de avalúo 409-48, superficie 524 M2. La Comisión de Peritos, fijó con fecha 21 de septiembre de 2004, en la cantidad de $235.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
