@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº2.103, de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno Nºs. 17-C y 19-A, superficies 1.273 y 9.322 m2, Rol Nº281-20, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-MCarrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietaria SOCIEDAD ALVAREZ Y PEREZ LIMITADA, ascendente a la cantidad de $39.736.402.- para los lotes Nºs. 17-C y 19-A.
+
+Fiscal del Ministerio de Obras Públicas.
