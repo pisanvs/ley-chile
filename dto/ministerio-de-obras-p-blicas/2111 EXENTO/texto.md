@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2.111 de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno Nºs. 56 y 56-A, superficies 90 y 262,6 m2, Rol Nº1169-130, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario TIBURCIO SEGUNDO TAPIA CARRERA, ascendente a la cantidad de $2.650.575. para los lotes Nºs. 56 y 56-A.-
+
+Fiscal del Ministerio de Obras Públicas.
