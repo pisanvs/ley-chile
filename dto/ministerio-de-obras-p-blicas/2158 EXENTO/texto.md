@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2158, de 30 de noviembre de 2009, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento Nº650, de 31 de julio de 2008, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº32, con motivo de la obra: "Mejoramiento Ruta 7, sector Quillaipe La Arena, tramo Km. 15,84700 a Km. 40,41746", Provincia de Llanquihue, Comuna de Puerto Montt. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 18 de agosto de 2004, complementada por acta de fecha 25 de marzo de 2008, ascendente a la cantidad de $310.800.
+
+Fiscal del Ministerio de Obras Públicas.
