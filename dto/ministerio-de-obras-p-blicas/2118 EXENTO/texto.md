@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2118, de fecha 30 de noviembre del 2009, se expropió el lote de terreno N° 3, superficie 1.006 m2, Rol N° 607-113, comuna de Mulchén, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario DAVID RENE SANDOVAL POZAS, ascendente a la cantidad de $802.558.-
+
+Fiscal del Ministerio de Obras Públicas.
