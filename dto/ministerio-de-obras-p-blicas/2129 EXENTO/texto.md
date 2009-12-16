@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2129 de fecha 30 de noviembre de 2009, se expropió el lote de terreno N° 101-A, superficie 1.895 m2, rol N° 259-112, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial - Carahue Tramo Km. 0,00000 al Km. 21,58295, Subtramo III Km. 12,86300 al Km. 21,58295, provincia de Cautín, comuna de Carahue IX Región" y se acordó el valor de la indemnización con su propietario MARÍA INÉS CADIN CURIHUENTRO, ascendente a la cantidad de $1.825.247.-
+
+Fiscal del Ministerio de Obras Públicas.
