@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2128 de fecha 30 de noviembre de 2009, se expropió el lote de terreno N° 191, superficie 468 m2, rol N° 177-60, comuna de Arauco, para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario JOSE DOMINGO ANTINAO CÁRDENAS, ascendente a la cantidad de $214.608.-
+
+Fiscal del Ministerio de Obras Públicas.
