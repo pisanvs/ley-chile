@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2046, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº115-V1, para la obra "Mejoramiento Ruta 7, Sector Quillaipe - La Arena, tramo Km. 15,84700 al Km. 40,41746, Provincia de Llanquihue Xa Región, Comuna de Puerto Montt, que figura a nombre de GONZALEZ ANAZCO ANIBAL, rol de avalúo 2206-98, superficies 18 M2. La Comisión de Peritos, fijó con fecha 5 de junio de 2006, en la cantidad de $54.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
