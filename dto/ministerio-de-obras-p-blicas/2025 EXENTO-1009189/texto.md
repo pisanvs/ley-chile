@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2025, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº217, para la obra "Camino Ruta W-853, Teupa - Queilen, Sector Santa María - Queilen, Tramo Km. 25,96000 a Km. 42,34833", Provincia de Chiloé, Xa Región, que figura a nombre de I MUNICIPALIDAD DE QUEILEN, rol de avalúo 113-47, superficie 141 M2. La Comisión de Peritos, fijó con fecha 25 de octubre de 2002, en la cantidad de $35.250. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas. ,
