@@ -32,8 +32,6 @@ Resolución:
 
 10.- Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el D.S. N° 255 (V. y U.), de 2006.
 
-> **Nota.** El Nº 1 de la Resolución 4582 Exenta, Vivienda, publicada el 05.08.2010, modifica la presente norma en el sentido de sustituir en el cuadro inserto en el punto resolutivo 2, reemplazado por el punto resolutivo 1 de la resolución exenta Nº 211 (V. y U.), de 2010, las filas correspondientes a Antofagasta y Total, por las que la propia resolución indica.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
