@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2089 de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno Nºs 69, 70, 71 y 72, superficies 1.834, 8.884 y 7.193 y 178 m2, Rol Nº170-256, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario ARMANDO MANUEL TORRES CHAMORRO, ascendente a la cantidad de $11.903.802.-
+
+Fiscal del Ministerio de Obras Públicas.
