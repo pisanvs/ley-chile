@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2077 de fecha 30 de noviembre de 2009, se expropiaron los lotes de terreno Nºs 35 y 36, superficies 1.006 y 1.565 m2 respectivamente, rol Nº158-234, comuna de Cochamó, para la obra "Camino Puelo Paso El Bolsón, Sector Lago Tagua Tagua - Llanada Grande, Tramo Km. 12,530 al Km. 32,500" X Región y se acordó el valor de la indemnización con su propietario LIDIA JUDHIT VERA AGUILA, ascendente a la cantidad de $1.086.577.-
+
+Fiscal del Ministerio de Obras Públicas.
