@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2115 de 30 de noviembre de 2009, se expropió el lote de terreno Nº25, superficie 172 m2., rol de avalúo Nº154-164, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", V Región, y se acordó el valor de la indemnización con su propietaria doña YILDA LUISA PEREZ PEÑA Y OTROS, ascendente a la cantidad de $906.865.-
+
+Fiscal del Ministerio de Obras Públicas.
