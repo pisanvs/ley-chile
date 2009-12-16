@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 1.236, de 3 de diciembre de 2009, Serviu III Región de Atacama, conforme D.L. Nº 2.186, de 1978, y D.S. Nº 104, de V. y U., de 2007, ordenó la expropiación parcial del inmueble denominado Lote 53, ubicado en calle Los Carrera Nº 5633, ciudad de Copiapó, Rol de avalúo fiscal Nº 00552-00018, de aparente dominio de Dagoberto Gonzalo Ávalos Araya, para proyecto "Mejoramiento Pavimentación Avenida Los Carrera, Copiapó". Comisión tasadora integrada por Manuel Pino Acevedo, arquitecto; Jaime Marín Salgado, ingeniero civil, y Ximena Peñaloza Herrero, arquitecto, según informe de 28 de noviembre de 2008, fijó un monto provisional de indemnización de $33.206.900, pagadera al contado.-
+
+Director Serviu III Región Atacama.
