@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2082, de fecha 30 de noviembre del 2009, se expropió el lote de terreno N° 138, superficie 123 m2, Rol N° 1170-4, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario MAX EDUARDO FERNADEZ MUÑOZ, ascendente a la cantidad de $467.400.-
+
+Fiscal del Ministerio de Obras Públicas.
