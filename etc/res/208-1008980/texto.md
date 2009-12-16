@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN PARA NUEVAS EXTRACCIONES DE AGUAS SUBTERRÁNEAS, LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE SAN VICENTE, YALI MEDIO, ESTERO SAN PEDRO Y ESTERO LAS DIUCAS, EN LA COMUNA DE SAN PEDRO, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA
+
+Mediante resolución DGA Nº 208, de fecha 26 de octubre de 2009, se ha declarado Área de restricción para nuevas extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común de San Vicente, Yali Medio, Estero San Pedro y Estero Las Diucas, en la comuna de San Pedro, provincia de Melipilla, Región Metropolitana. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región Metropolitana y en la página Web de la DGA.-
+
+Rodrigo Weisner Lazo, Director General de Aguas.
