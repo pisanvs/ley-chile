@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 2152 de 30 de noviembre de 2009, se expropió el lote de terreno N°16, superficie 36 m2, Rol N° 153-76, comuna de Pemuco, VIII Región, para la obra DISEÑO DE OBRAS COMPLEMENTARIAS PROYECTO LAJA - DIGUILLÍN, "ENTREGA CLAUDIO QUILODRÁN" y se acordó el valor de indemnización con su propietario CLAUDIO ALFREDO QUILODRÁN SANDOVAL, ascendente a la cantidad de $21.714.-
+
+Fiscal del Ministerio de Obras Públicas.
