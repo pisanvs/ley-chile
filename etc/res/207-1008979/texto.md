@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DEL HUASCO CORRESPONDIENTE A HUASCO DESEMBOCADURA, FREIRINA BAJO, FREIRINA ALTO, VALLENAR BAJO, VALLENAR ALTO, EL TRÁNSITO Y RÍO DEL CARMEN, LOCALIZADO EN LA PROVINCIA DE HUASCO, REGIÓN DE ATACAMA Y PARTE DE LA PROVINCIA DE ELQUI, REGIÓN DE COQUIMBO
+
+Mediante resolución DGA Nº 207, de fecha 26 de octubre de 2009, se ha declarado Área de restricción para nuevas extracciones de aguas subterráneas, los sectores hidrogeológicos de aprovechamiento común del acuífero del Huasco correspondiente a Huasco Desembocadura, Freirina Bajo, Freirina Alto, Vallenar Bajo, Vallenar Alto, El Tránsito y Río del Carmen, en la provincia de Huasco, Región de Atacama y parte de la provincia de Elqui, Región de Coquimbo. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Coquimbo y en la pagina Web de la DGA.-
+
+Rodrigo Weisner Lazo, Director General de Aguas.
