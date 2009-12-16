@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2222, de 30 de noviembre de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se modificó el numeral tercero del Decreto Exento MOP. Nº1626, de 13 de octubre de 2009, necesario para la ejecución de la obra "Camino Puelo Paso El Bolsón, sector Llanada Grande Río Mapocho, Km. 32,50000 a Km 37,40000", en cuanto a que la fecha de tasación correspondiente al lote Nº15-A, es 12 de diciembre de 2006. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
