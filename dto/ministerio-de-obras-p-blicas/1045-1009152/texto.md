@@ -1,0 +1,3 @@
+Por Decreto M.O.P. Nº1045 de 20 de julio de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº93-D para la obra: Camino Chovellen Cobquecura, Sector Chovellen Límite Regional, Tramo 18,260.00 a km. 35,158.60, que figura a nombre de SOC FORESTAL MILLALEMU S A, rol de avalúo 549-40 de la Comuna de PELLUHUE, VII REGION, superficie 200 m2. La Comisión de Peritos con fecha 1 de octubre de 2002, fijó en la cantidad de $280.000.- para el lote N°93-D. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
