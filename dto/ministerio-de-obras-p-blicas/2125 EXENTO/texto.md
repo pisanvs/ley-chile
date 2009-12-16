@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 2125 de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno N°s. 5 y 5-A, superficies 345 y 104 m2, Rol N° 169-62, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietaria LUISA ELIANA LLANOS ALARCÓN, ascendente a la cantidad de $1.616.471.- para los lotes N°s 5 y 5-A.-
+
+Fiscal del Ministerio de Obras Públicas.
