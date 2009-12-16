@@ -290,7 +290,7 @@ Este servicio consiste en la instalación o retiro (desinstalación) físico del
 
 Este servicio incluye la conexión o desconexión del medidor, según corresponda. En el caso de la instalación y dependiendo de la modalidad en que se preste, el servicio incluye:
 
-• Modalidad 1: Las actividades de adosamiento
+- Modalidad 1: Las actividades de adosamiento
 
 del medidor a un medio de
 
@@ -300,13 +300,13 @@ medidor al empalme y la puesta
 
 en funcionamiento.
 
-• Modalidad 2: La conexión del medidor al
+- Modalidad 2: La conexión del medidor al
 
 empalme y la puesta en
 
 funcionamiento.
 
-• Modalidad 3: La puesta en funcionamiento.
+- Modalidad 3: La puesta en funcionamiento.
 
 Para efectos de la instalación, el servicio no incluye la provisión del medidor, el cual puede ser aportado por el cliente o por la empresa a expresa solicitud del cliente.
 
@@ -524,7 +524,7 @@ A continuación se presentan las fórmulas de precios unitarios de los distintos
 
 Para cada área típica de distribución, los ponderadores F1, F2, F3, V1, V2 y V3 a emplear en las fórmulas de indexación de los distintos servicios, se presentan a continuación:
 
-VER DIARIO OFICIAL DE 04.12.2009, PÁGINA 11.
+.
 
 4.3 Parámetros bases (CF0i y CV0i)
 
