@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 2074 de fecha 30 de noviembre de 2009, se expropiaron los lotes de terreno Nºs 187, 189 y 190, superficies 384, 1.235 y 58 m2, rol Nº178-49, comuna de Arauco, para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario ROSA ELVIRA FERNANDEZ DIAZ, ascendente a la cantidad de $670.800.-
+
+Fiscal del Ministerio de Obras Públicas.
