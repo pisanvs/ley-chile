@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2126 de fecha 30 de noviembre de 2009, se expropió el lote de terreno N° 4, superficie 1.368,00 m2, rol N° 167-74, comuna de Calbuco, para la obra "Mejoramiento Construcción Rutas V-843 y S/R, S: CR. Ruta V-85-Puerto, Km. 0,00000 a Km. 1,99550, Comuna de Calbuco, Provincia de Llanquihue, X Región" y se acordó el valor de la indemnización con su propietario ABELARDO SOTO SANTANA Y OTRO, ascendente a la cantidad de $2.107.760.-
+
+Fiscal del Ministerio de Obras Públicas.
