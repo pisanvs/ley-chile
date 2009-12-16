@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2122, de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno N°s 102 y 108, superficies 68 y 383 m2 respectivamente, Rol N° 170-177 (lote Nº102), y Rol Nº166-1 (lote Nº108), comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario IVAN ALFONSO MOYA RODRIGUEZ Y OTROS, ascendente a la cantidad de $2.399.700.-
+
+Fiscal del Ministerio de Obras Públicas.
