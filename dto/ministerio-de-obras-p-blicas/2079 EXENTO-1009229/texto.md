@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2079 de fecha 30 de noviembre del 2009, se expropió el lote de terreno Nº10, superficie 702 m2, Rol Nº168-71, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario JOSÉ BLAS SÁNCHEZ PARRA Y OTROS, ascendente a la cantidad de $1.770.795.- para el lote Nº10.
+
+Fiscal del Ministerio de Obras Públicas.
