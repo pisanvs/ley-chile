@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2044, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº3, para la obra "CAMINO Ruta W-853 Teupa Queilen, Sector Teupa - Santa María, Tramo Km. 6,80000 a Km. 25,95773", Provincia de Chiloé, Xa Región", que figura a nombre de BORQUEZ TIRACHINI LUIS ANTONIO, rol de avalúo 140-11, superficie 558 M2. La Comisión de Peritos, fijó con fecha 7 de mayo de 2004, en la cantidad de $167.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
