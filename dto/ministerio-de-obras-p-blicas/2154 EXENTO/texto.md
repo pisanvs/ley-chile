@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº2154 de 30 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°1 para la ejecución de la obra: Sistema de Agua Potable Rural Vaquería Alquihue, que figura a nombre de GARCIA AREVALO LUIS ORLANDO, rol de avalúo 218-3, Comuna de VILLA ALEGRE, VII Región, superficie 425,70 M2. La Comisión de Peritos con fecha 8 de julio de 2008, fijó el monto de la indemnización provisional en la cantidad de $2.976.200.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
