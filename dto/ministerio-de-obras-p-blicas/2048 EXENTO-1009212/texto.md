@@ -1,0 +1,3 @@
+Por Decreto Exento Nº2048, de 23 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº4, para la obra "Construcción Puentes El Salto, Cuarteles Nº2, Pangalito Nº1, Pangalito Nº2 y Cascajal Nº2", Ruta V-69, Camino Cochamo - Puelo, Provincia de Llanquihue, Xa Región, que figura a nombre de AGUILAR MIRANDA JUAN DE LA CRU, rol de avalúo 151-1, superficie 643 M2. La Comisión de Peritos, fijó con fecha 13 de junio de 2005, en la cantidad de $257.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
