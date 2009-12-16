@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2073, de fecha 30 de noviembre del 2009, se expropió el lote de terreno N° 145-A, superficie 512 m2, Rol N° 166-65, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria ROSA DEL CARMEN LOPEZ CHAMORRO, ascendente a la cantidad de $1.945.600.-
+
+Fiscal del Ministerio de Obras Públicas.
