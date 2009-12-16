@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2.121 de 30 de noviembre de 2009, se expropió el lote de terreno Nº45, superficie 294 m2, rol de Avalúo 901-69, comuna de Alto del Carmen, para la obra "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA II", III Región y se acordó el valor de la indemnización con su propietario CLAUDIO ANTONIO MONDACA ARRIAGADA, ascendente a la cantidad de $705.290.-
+
+Fiscal del Ministerio de Obras Públicas.
