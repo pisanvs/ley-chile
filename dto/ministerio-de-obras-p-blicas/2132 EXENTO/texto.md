@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2132 de fecha 30 de noviembre de 2009, se expropió el lote de terreno N° 92, superficie 304 m2, rol N° 614-29, comuna de Tomé, para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", Región del Bío Bío" y se acordó el valor de la indemnización con su propietario PEDRO SALVADOR MONTERO ALVAREZ, ascendente a la cantidad de $476.416.-
+
+Fiscal del Ministerio de Obras Públicas.
