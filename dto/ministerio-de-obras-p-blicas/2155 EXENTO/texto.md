@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2155, de 30 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 1, para la obra "Acceso y explanada del Muelle Puerto Tranquilo, Sector de Tranquilo, Comuna de Río Ibáñez, Provincia del General Carrera, XI Región", que figura a nombre de MAUREIRA ORTIZ ROMILIO, rol de avalúo 841-10, superficie 1.890 M2. La Comisión de Peritos, fijó con fecha 21 de enero de 2002, en la cantidad de $2.165.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
