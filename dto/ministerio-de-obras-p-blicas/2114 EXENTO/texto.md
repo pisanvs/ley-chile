@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2114 de fecha 30 de noviembre del 2009, se expropió el lote de terreno Nº44-A, superficie 34 m2, Rol Nº1171-8, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo II, Km.10,50000 al Km. 18,60807", VIII Región, y se acordó el valor de indemnización con su propietaria MARIA TERESA VEGA CHAMORRO, ascendente a la cantidad de $796.500.- para el lote Nº44-A.
+
+Fiscal del Ministerio de Obras Públicas.
