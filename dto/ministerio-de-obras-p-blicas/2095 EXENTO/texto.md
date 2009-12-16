@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº2095 de 30 de noviembre de 2009, se expropió el lote de terreno Nº26, superficie 38 m2, Rol Nº971-25, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA - LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA I" y se acordó el valor de indemnización con don RUBÉN NOLBERTO PÁEZ OSSANDÓN, ascendente a la cantidad de $286.521.-
+
+Fiscal del Ministerio de Obras Públicas.
