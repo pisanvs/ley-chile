@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2093 de fecha 30 de noviembre de 2009, se expropió el lote de terreno Nº115-G1, superficie 58 m2, rol Nº2208-103, comuna de Puerto Montt, para la obra "Mejoramiento Ruta 7, sector Quillaipe - La Arena, tramo Km. 15,84700 a Km. 40,41746" X Región y se acordó el valor de la indemnización con su propietario BEDER DE LA ROSA ZARATE ZARATE, ascendente a la cantidad de $1.200.866.-
+
+Fiscal del Ministerio de Obras Públicas.
