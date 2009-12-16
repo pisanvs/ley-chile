@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº2094, de fecha 30 de noviembre del 2009, se expropió el lote de terreno Nº66-C1, superficie 1.430 m2, Rol Nº281-94, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario GONZALO RENÉ MORALES SUPÚLVEDA, ascendente a la cantidad de $2.195.580.- para el lote Nº66-C1.-
+
+Fiscal del Ministerio de Obras Públicas.
