@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2.123 de 30 de noviembre de 2009, se expropió el lote de terreno Nº6, superficie 1,210 m2, rol de Avalúo 155-673, comuna de Chonchi, para la obra "REPOSICION PUENTES CHUMONO, LA CALDERA Y CURAHUELVO", "CAMINO HUILLINCO - CUCAO, ROL W-850, COMUNA DE CHONCHI, PROVINCIA DE CHILOE", y se acordó el valor de la indemnización con su propietario TURISMO Y HOTELERIA HUILLINCO S.A., ascendente a la cantidad de $5.147.235.-
+
+Fiscal del Ministerio de Obras Públicas.
