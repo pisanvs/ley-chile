@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 2130 de 30 de noviembre de 2009, se expropiaron los lotes de terrenos N°s. 2 y 3, superficies 303 y 296 m2, rol de Avalúo 155-3, comuna de Chonchi, para la obra "REPOSICION PUENTES CHUMONO, LA CALDERA Y CURAHUELVO", "CAMINO HUILLINCO - CUCAO, ROL W-850, COMUNA DE CHONCHI, PROVINCIA DE CHILOÉ", y se acordó el valor de la indemnización con su propietaria doña ORIETTA DE LAS MERCEDES BRAVO SÁEZ, ascendente a la cantidad de $2.054.974.-
+
+Fiscal del Ministerio de Obras Públicas.
