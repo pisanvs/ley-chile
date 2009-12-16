@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2088 de 30 de noviembre de 2009, se expropió el lote de terreno Nº10-A, superficie 38,83 m2., rol de avalúo Nº154-267, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", V Región, y se acordó el valor de la indemnización con su propietaria doña MARÍA VERÓNICA BRUNA LEIVA, ascendente a la cantidad de $791.574.-
+
+Fiscal del Ministerio de Obras Públicas.
