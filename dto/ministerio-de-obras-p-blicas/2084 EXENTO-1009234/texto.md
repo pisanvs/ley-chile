@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2084 de fecha 30 de noviembre del 2009, se expropió el lote de terreno Nº53-I, superficie 112 m2, Rol Nº169-101, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietaria MARIA SOLEDAD ALARCON AGURTO, ascendente ala cantidad de $952.000.- para el lote Nº53-I.
+
+Fiscal del Ministerio de Obras Públicas.
