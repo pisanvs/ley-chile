@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 2131 de fecha 30 de noviembre del 2009, se expropiaron los lotes de terreno N°s. 47 y 47-A, superficies 254 y 146 m2, Rol N° 169-88, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario PEDRO ANTONIO VALLADARES SALGADO, ascendente a la cantidad de $3.745.976.- para los lotes N°s 47 y 47-A.-
+
+Fiscal del Ministerio de Obras Públicas.
