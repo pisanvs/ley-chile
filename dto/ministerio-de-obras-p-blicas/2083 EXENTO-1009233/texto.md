@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2083 de fecha 30 de noviembre de 2009, se expropió el lote de terreno Nº16, superficie 265 m2, rol Nº209-42, comuna de Florida, para la obra "Reposición Ruta 148, s: Quillón Agua de la Gloria (Por Tramos), Km. 28,69536 al Km. 39,66000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario ADOLFO HUMBERTO INOSTROZA ESPINOZA, ascendente a la cantidad de $355.926.-
+
+Fiscal del Ministerio de Obras Públicas.
