@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº2149 de 30 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°.1 para la ejecución de la obra: Sistema de Agua Potable Rural La Unión Ortúzar, que figura a nombre de POCH FRISMAN ALBERTO Y OTRA, rol de avalúo 59-22, Comuna de ROMERAL, VII Región, superficie 592 M2. La Comisión de Peritos con fecha 29 de octubre de 2009, fijó el monto de la indemnización provisional en la cantidad de $1.298.100.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
