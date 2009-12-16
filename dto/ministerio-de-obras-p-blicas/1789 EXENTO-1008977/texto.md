@@ -1,0 +1,41 @@
+DENIEGA EN PARTE SOLICITUDES DE DERECHOS DE APROVECHAMIENTO DE AGUAS SUPERFICIALES QUE INDICA
+
+Núm. 1.789 exento.- Santiago, 20 de octubre de 2009.- Vistos: Lo dispuesto en los artículos 147 bis inciso tercero y 147 ter.- de la ley Nº 20.017, de 16 de junio de 2005, que modificó el Código de Aguas; el informe técnico DEP Nº 3, denominado "Caudal de Reserva para el abastecimiento de la población en la cuenca del río Queuco, Región del Bío Bío", de fecha 23 de septiembre de 2009, de la División de Estudios y Planificación, del Departamento de Administración de Recursos Hídricos, de la Dirección Regional del Bío Bío; el decreto Segpres Nº 87, de fecha 23 de agosto de 2005, que delegó la facultad contenida en el artículo 147 bis inciso tercero de la ley Nº 20.017, de 2005, en el Sr. Ministro de Obras Públicas; la resolución Nº 1.600, de fecha 30 de octubre de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+Que mediante la ley Nº 20.017, de 16 de junio de 2005, se modificó el Código de Aguas, introduciéndose los artículos 147 bis inciso tercero y 147 ter.-, los cuales otorgaron al Presidente de la República, mediante decreto fundado y con informe de la Dirección General de Aguas, la facultad de denegar parcialmente solicitudes de derecho de aprovechamiento de aguas.
+
+Que esta facultad se ejercerá cuando sea necesario reservar el recurso para el abastecimiento de la población por no existir otros medios para obtener el agua, o bien, tratándose de solicitudes de derechos no consuntivos y por circunstancias excepcionales y de interés nacional.
+
+Que el decreto fundado que disponga la denegación parcial de una o más solicitudes, para reservar dichas aguas para el abastecimiento de la población por no existir otros medios para obtener el agua, o bien, tratándose de solicitudes de derechos no consuntivos y por circunstancias excepcionales y de interés nacional, se publicará por una sola vez en el Diario Oficial el día primero o quince de cada mes, o el primer día hábil siguiente si aquéllos fueran feriados.
+
+Que al respecto el informe técnico DEP Nº 3, de fecha 23 de septiembre de 2009, de la División de Estudios y Planificación, del Departamento de Administración de Recursos Hídricos, de la Dirección Regional del Bío Bío, señala que en la cuenca del río Queuco es necesario reservar un caudal de 2,2 metros cúbicos por segundo, de ejercicio eventual y discontinuo en los meses de mayo, julio, agosto, septiembre, octubre y noviembre.
+
+Que, por otra parte, existe la solicitud de derechos de aprovechamiento no consuntivos sobre aguas superficiales y corrientes en el río Queuco, por un caudal de 32 metros cúbicos por segundo, cuyo punto de captación se ubica 100 metros aguas abajo del balseadero que existe junto a la descarga del estero Guanaco en el río Queuco, a una cota de 500 m.s.n.m., y cuyo punto de restitución se ubica en el río Queuco 700 metros aguas arriba de su confluencia con el río Bío Bío a cota 350 m.s.n.m., respectivamente, con una distancia de 10.900 metros y un desnivel de 150 metros, presentada con fecha 7 de octubre de 1980 por don Hernán Lacalle Soza, don Natalio Sermini Ríos y don José Luis Undurraga Matta, contenida en el expediente administrativo UA-0802-7, cuya denominación anterior era M-14-339.
+
+Que, por otra parte, existe otra solicitud de derechos de aprovechamiento no consuntivos sobre aguas superficiales y corrientes en el río Queuco, por un caudal de 50 metros cúbicos por segundo, cuyo punto de captación se ubica en un punto situado aproximadamente 18 kilómetros aguas arriba de la confluencia del río Queuco con el río Bío Bío, a una cota de 540 m.s.n.m., y cuyo punto de restitución se hará en el mismo río Queuco, en un punto ubicado 5 kilómetros aguas arriba de su confluencia con el río Bío Bío a cota 410 m.s.n.m., respectivamente, con una distancia aproximada de 11 kilómetros y un desnivel de 130 metros, presentada con fecha 23 de octubre de 1980 por Sociedad Hidroeléctrica Melocotón Limitada, contenida en el expediente administrativo UA-0802-8, cuya denominación anterior era M-17-82.
+
+Que, con la finalidad de propender al abastecimiento de agua potable para la población, la supervivencia y desarrollo de la comunidad y el medio ambiente y turismo, así como la evaluación desarrollada para el programa "Saneamiento Títulos de Derechos de Aprovechamiento de Agua, comuna Alto Bío Bío (código BIP 30072268) que tiene como objetivo fundamental responder a las necesidades de abastecimiento para bebida y servicio de la población, así como para sus actividades de ganadería y riego, a escala de subsistencia, permiten establecer que un caudal de 2,2 metros cúbicos por segundo a reservar cubriría las necesidades antes planteadas para esta cuenca, resguardándose, de esta forma, el sustento y desarrollo de las actividades, costumbres y tradiciones de la población de la cuenca.
+
+Que dicho Informe señala que la cuenca del río Queuco es capaz de generar el caudal que se ha estimado reservar de 2,2 m3/s, sin perjuicio que a nivel de fuente exista dicho caudal para reservar, se deben considerar las restricciones de la cuenca mayor a la que pertenece el río Queuco, esto es, la del río Bío Bío, consistente en que aguas abajo de la confluencia del río Queuco con el río Bío Bío fue otorgado por medio de resoluciones DGA Nº 112 y Nº 475, ambas de 2006, un derecho de aprovechamiento de tipo no consuntivo a Sociedad Hidroeléctrica Melocotón Limitada, solicitud contenida en expediente UA-0802-5 (Código antiguo M-17-80), por lo cual se hace allí necesario realizar el balance de recursos disponibles en la cuenca.
+
+Que en virtud de lo antes indicado, se hace necesario denegar parcialmente las solicitudes contenidas en los expedientes administrativos UA-0802-7 y UA-0802-8, en el sentido de descontar un caudal de 2,2 metros cúbicos por segundo, de ejercicio eventual y discontinuo en los meses de mayo, julio, agosto, septiembre, octubre y noviembre en el río Queuco, del caudal total susceptible de ser constituido.
+
+Que, por lo tanto, en uso de la facultad consignada en el artículo 147 bis inciso tercero de la ley Nº 20.017, de 2005, que modificó el Código de Aguas, las razones precedentemente indicadas, y las solicitudes contenidas en los expedientes administrativos UA-0802-7 y UA-0802-8, procede que se deniegue en la parte correspondiente a un caudal de 2,2 metros cúbicos por segundo, de ejercicio eventual y discontinuo en los meses de mayo, julio, agosto, septiembre, octubre y noviembre en el río Queuco, provincia de Bío Bío, Región del Bío Bío.
+
+Decreto:
+
+1.- Deniégase parcialmente en los expedientes administrativos UA-0802-7 y UA-0802-8 la parte correspondiente a un caudal de 2,2 metros cúbicos por segundo, de ejercicio eventual y discontinuo en los meses de mayo, julio, agosto, septiembre, octubre y noviembre en el río Queuco, provincia de Bío Bío, Región del Bío Bío.
+
+2.- Rebájese de la disponibilidad de agua en la cuenca del río Queuco un caudal de 2,2 metros cúbicos por segundo, de ejercicio eventual y discontinuo en los meses de mayo, julio, agosto, septiembre, octubre y noviembre.
+
+3.- Publíquese el presente decreto por una sola vez en el Diario Oficial el día 1 o 15 de cada mes, o el primer día hábil inmediatamente siguiente si aquéllos fueran feriados.
+
+4.- Regístrese el presente decreto de conformidad con lo dispuesto en el artículo 122 del Código de Aguas.
+
+5.- Comuníquese el presente decreto al Sr. Director General de Aguas; a la División Legal de la Dirección General de Aguas; al Departamento de Administración de Recursos Hídricos de la Dirección General de Aguas; al Centro de Información de Recursos Hídricos de la Dirección General de Aguas; a las respectivas Oficinas Regionales y Provinciales de la Dirección General de Aguas; a la Oficina de Partes de la Dirección General de Aguas.
+
+Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar, Ministro de Obras Públicas.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Juan Eduardo Saldivia Medina, Subsecretario de Obras Públicas.
