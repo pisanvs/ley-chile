@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2225, de 30 de noviembre de 2009 y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se modificó el numeral sexto del Decreto Exento MOP. Nº1641, de 13 de octubre de 2009, necesario para la ejecución de la obra "Reposición Puente El Malito Nº1 en Ruta 235-CH", Provincia de Palena, Xª Región, en cuanto a que el monto de la indemnización referente a la expropiación de los lotes de terreno Nºs 1, 2 y 3, debe imputarse a la SUB ASIGNACION 20144598-5. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
