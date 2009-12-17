@@ -6,7 +6,7 @@ Núm. 2.937 exenta.- Visto: El D.S. Nº 255, de 2006, y sus modificaciones, en e
 
 Resolución:
 
-1.- Llámase a postulación a proyectos de las regiones señaladas en el punto resolutivo 2 de la presente resolución, para el otorgamiento de subsidios habitacionales destinados al acondicionamiento térmico de la vivienda conforme al Título II del Programa de Protección del Patrimonio Familiar, Mejoramiento de la Vivienda, regulado por el D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, a partir del mes de mayo y hasta el mes de noviembre.
+1.- Llámase a postulación a proyectos de las regiones señaladas en el punto resolutivo 2 de la presente resolución, para el otorgamiento de subsidios habitacionales destinados al acondicionamiento térmico de la vivienda conforme al Título II del Programa de Protección del Patrimonio Familiar, Mejoramiento de la Vivienda, regulado por el D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, a partir del mes de mayo y hasta el mes de diciembre, siendo las excepciones la selección del mes de mayo en la cual se seleccionarán proyectos con Certificado de Calificación hasta el día martes 7 de mayo de 2009 y la del mes de diciembre en la cual se seleccionarán proyectos con Certificado de Calificación hasta el día lunes 21 de diciembre de 2009.
 
 2.- Los recursos asignados para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución se distribuyen regionalmente, según el siguiente cuadro:
 
@@ -45,6 +45,10 @@ VER DIARIO OFICIAL DE 09.05.2009, PÁGINA 10.
 c) Proyectos que para cumplir con el artículo 4.1.10. o como parte del mejoramiento de la vivienda, incorporen Doble Vidriado Hermético en más de un 50% de su superficie vidriada: 30 puntos.
 
 8.- Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los SERVIU en los términos previstos en el D.S. N° 255 (V. y U.), de 2006.
+
+> **Nota.** La Resolución 7232 Exenta, Vivienda, publicada el 19.10.2009, complementa la presente norma, en el sentido de establecer los remanentes de recursos asignados en el cuadro inserto en el punto resolutivo 2 de esta norma.
+
+> **Nota.** NOTA 1 La Resolución 8793 Exenta, Vivienda, publicada el 16.12.2009, complementa la presente norma, en el sentido de definir los remanentes de recursos asignados en el cuadro inserto en el punto resolutivo 2 de esta norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
