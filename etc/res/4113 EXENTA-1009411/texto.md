@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.113, de 11 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207101100, presentada por MARCELA WALESKA VELÁSQUEZ STRAUSSMANN para instalar y operar un centro de cultivo ubicado en seno Reloncaví, al suroeste de Bancos de Coihuín, X Región.
+
+Valparaíso, 11 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
