@@ -1,0 +1,5 @@
+AUTORIZA DELEGAR FACULTADES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 185 del 11 de diciembre de 2009, que autoriza al Jefe del Departamento Subdirección: "Dirección Grandes Contribuyentes", para delegar en el Jefe del Departamento Jurídico la facultad para resolver administrativamente las peticiones de revisión respecto de liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo, practicados por la "Dirección Grandes Contribuyentes" y la derogación de la resolución Ex. SII. Nº 61, de 14 de mayo de 2008, a contar de la vigencia de la resolución que se dicte.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre, de 2009.
