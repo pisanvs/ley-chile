@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.978, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a ARSENIO ROBERTO CAMPUSANO VERGARA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Sitio 14, manzana A, Caleta Chañaral, Freirina, III Región, para elaborar en línea Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
