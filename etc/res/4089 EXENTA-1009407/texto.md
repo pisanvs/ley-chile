@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.089, de 9 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud Nº208121149 presentada por ACUINOVA CHILE S.A. para modificar la concesión de acuicultura ubicada en Estero Staples, al norte de caleta Sholl, Isla Capitán Aracena, XII Región, transferida a la peticionaria por resolución Nº 886, de 2009, de la Subsecretaría de Marina.
+
+Valparaíso, 9 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
