@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.092, de 9 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206101148, presentada por PRODUCTOS DEL MAR VENTISQUEROS S.A. para instalar y operar un centro de cultivo ubicado al oeste de Isla Malomacun, X Región.
+
+Valpararíso, 9 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
