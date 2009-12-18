@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 2.062 de 27/10/2009, modificó D.S. (M) 609/1990, modificado y transferido a su actual titular por Res. (M) 902/2003, de la siguiente forma: Sector 1: Estero Castro, al Oeste de Punta Arena; Sector 2: Estero Castro, al Este de Punta Fango, comuna de Chonchi; Superficie 4,40 Hás.; coordenadas geográficas Referidas a Carta SHOA Nº 7370, 1ª Edición 1999 (Datum WGS-84), Sector Nº 1 Vértice A Lat. 42°32’34,36" S. Long. 73°46’28,53" W. Vértice B Lat. 42°32’34,25" S. Long. 73°46’18,88" W. Vértice C Lat. 42°32’37,49" S. Long. 73°46’18,82" W. Vértice D Lat. 42°32’37,60" S. Long. 73°46’28,46" W. Sector Nº 2 Vértice A Lat. 42°32’34,46" S. Long. 73°46’39,63" W. Vértice B Lat. 42°32’34,35" S. Long. 73°46’29,99" W. Vértice C Lat. 42°32’37,60" S. Long. 73°46’29,93" W. Vértice D Lat. 42°32’37,70" S. Long. 73°46’39,57" W.
+
+Santiago, 11 de diciembre de 2009.- Por la Sra. Subsecretaria, Felipe García-Huidobro Correa, Subjefe Subsecretaría de Marina.
