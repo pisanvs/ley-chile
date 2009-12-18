@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.887, de 20 de noviembre de 2009, de esta Subsecretaría, autorizase a RODRIGO HERIBERTO MUÑOZ AGUILERA para iniciar actividades pesqueras de transformación, instalar y operar planta ubicada en Avenida Dolores Endeiza Nº 86, Tongoy, IV Región, para elaborar en líneas Cocido, Fresco-Enfriado, Congelado, Surimi, Salado Húmedo, Ahumado, Agar Agar y Alga Seca, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 20 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
