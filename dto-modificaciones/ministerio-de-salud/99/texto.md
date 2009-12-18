@@ -6,9 +6,11 @@ Decreto:
 
 Modifícase el decreto supremo Nº 466 de 1984, del Ministerio de Salud, publicado en el Diario Oficial de fecha 12 de marzo de 1985, que aprueba el Reglamento de Farmacias, Droguerías, Almacenes Farmacéuticos, Botiquines y Depósitos Autorizados, en la forma que a continuación se indica.
 
-1º.- Incorpóranse los siguientes dos primeros incisos al artículo 6º:
+1°.- Incorpóranse los siguientes dos primeros incisos al artículo 6°:
 
-"En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos. Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.".
+"En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos.
+
+Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.".
 
 2º.- Incorpórese el siguiente inciso segundo, al artículo 56:
 

@@ -36,7 +36,9 @@ La autorización de instalación o funcionamiento será válida por un plazo de 
 
 #### Artículo 6°
 
-En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos. Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.
+En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos.
+
+Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.
 
 En aquellas localidades en que no existan farmacias ni almacenes farmacéuticos, el Director del respectivo Servicio de Salud podrá autorizar la venta al público de productos farmacéuticos, de alimentos de uso médico, y de elementos de curación y de primeros auxilios por las farmacias o botiquines de los establecimientos asistenciales de la localidad.
 
