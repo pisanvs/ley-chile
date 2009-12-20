@@ -20,7 +20,7 @@ Resolución:
 
 1º.- Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda, para el desarrollo de Proyectos de Construcción, modalidad Construcción en Sitio Propio, en la comuna de La Florida, Región Metropolitana.
 
-Los proyectos deberán contar con Certificado de Calificación al último día hábil de cada mes, a partir del mes de septiembre, hasta el mes de noviembre del año 2009. De consiguiente, se efectuarán procesos de selección y/o preselección entre los meses de septiembre y noviembre, con los proyectos previamente calificados hasta las fechas antes mencionadas.
+Los proyectos deberán contar con Certificado de Calificación al último día hábil de cada mes, a partir del mes de septiembre, hasta el 21 de diciembre del año 2009. De consiguiente, se efectuarán procesos de selección y/o preselección, con los proyectos previamente calificados hasta la fecha antes mencionada.
 
 2º.- Los proyectos podrán participar acreditando la inhabitabilidad total o parcial, producto de la acción de termitas, de la actual vivienda del postulante, con el certificado correspondiente extendido por la autoridad competente.
 
