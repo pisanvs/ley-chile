@@ -10,7 +10,7 @@ Núm. 5.433 exenta.- Visto:
 
 Resolución:
 
-1.- Llámase a postulación a proyectos de la Región de Aysén, para el otorgamiento de subsidios habitacionales destinados al acondicionamiento térmico de la vivienda, conforme al Título II del Programa de Protección del Patrimonio Familiar, Mejoramiento de la Vivienda, regulado por el DS N° 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, a partir del mes de agosto y hasta el mes de noviembre. Con excepción de la primera selección mensual, que se efectuará el día 7 de septiembre de 2009.
+.- 1.- Llámase a postulación a proyectos de la Región de Aysén, para el otorgamiento de subsidios habitacionales destinados al acondicionamiento térmico de la vivienda conforme al Título II del Programa de Protección del Patrimonio Familiar, Mejoramiento de la Vivienda, regulado por el DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2009, a partir del mes de agosto y hasta el mes de diciembre, siendo las excepciones la primera selección mensual, en la cual se seleccionarán proyectos con Certificado de Calificación hasta el día martes 7 de septiembre de 2009 y la del mes de diciembre en la cual se seleccionarán proyectos con Certificado de Calificación hasta el día lunes 21 de diciembre de 2009.
 
 2.- El monto total de recursos asignados para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución, es de 50.000 UF.
 
