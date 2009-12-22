@@ -564,6 +564,18 @@ o) Arriendo moto-niveladora por hora 0,70 UTM
 
 p) Arriendo de Sillas c/u 0,008 UTM
 
+q) Sobre las tarifas de cobro de acceso al balneario municipal:
+
+-Acceso peatonal (por persona) 0,027 UTM
+
+-Camping (máximo 6 personas) 0,32 UTM
+
+-Camping (persona adicional) 0,027 UTM
+
+-Acceso a zona de picnic (por persona) 0,013 UTM
+
+-Arriendo casino (por hora) 0,22 UTM
+
 #### Artículo 46
 
 <!-- parte:8650615 -->
