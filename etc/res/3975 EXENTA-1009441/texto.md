@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.975, de 26 de noviembre de 2009 de esta Subsecretaría, autorízase a SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS, PESCADORES Y ALGUEROS "LA GAVIOTA", para iniciar actividades pesqueras de transformación, para instalar y operar una planta en sector Llanos de Marañón s/nº, Loteo Nº 33, Barrio Industrial, Vallenar, III Región, para elaborar en línea de Alga Seca y Aceite, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
