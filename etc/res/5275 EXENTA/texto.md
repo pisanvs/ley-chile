@@ -138,6 +138,12 @@ B) Sujeto a la jurisdicción de la Aduana de Puerto Aysén, en la Región de Ays
 
 Aysén
 
+- Puerto Oxxean Chacabuco, en la provincia de Aysén.
+
+43°27’52" S
+
+72°49’30" W
+
 C) Sujetos a la jurisdicción de la Dirección Regional de la Aduana de Puerto Montt, en la Región de Los Lagos:
 
 - Paso de Futaleufú, en la provincia de Palena
