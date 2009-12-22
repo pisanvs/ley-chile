@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.167 de 16 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 208012002 presentada por CORPORACIÓN PRIVADA PARA EL DESARROLLO DE LA UNIVERSIDAD ARTURO PRAT (Cordunap), para instalar y operar un centro de cultivo ubicado al norte de Playa Primeras Piedras, I Región.
+
+Valparaíso, 16 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
