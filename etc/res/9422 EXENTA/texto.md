@@ -76,215 +76,43 @@ Podrá solicitarse una resolución anticipadas sobre las siguientes materias:
 
 5. SOLICITUD DE RESOLUCIÓN ANTICIPADA. REQUISITOS
 
-5.1.REQUISITOS GENERALES
+5.1. REQUISITOS GENERALES
 
 La solicitud, los antecedentes y documentos que sirven de fundamento a la solicitud deberán ser adecuados, correctos y veraces.
 
-Toda solicitud de resolución anticipada, independiente de la materia a la que se refiere, deberá cumplir, a lo menos, con los siguientes requisitos:
+Toda solicitud de resolución anticipada, independiente de la materia a la que se refiere, deberá ser presentada directamente por el solicitante o por un tercero, debiendo cumplir con los siguientes requisitos:
 
-5.1.1 La solicitud deberá ser presentada por
+5.1.1 La solicitud deberá ser presentada por escrito, en idioma español.
 
-escrito, en idioma español.
+5.1.2 Identificar al solicitante con indicación de número de RUT, dirección, teléfono, fax y dirección de correo electrónico. En caso que el solicitante actúe a través de un tercero, deberá adjuntarse el mandato por el cual se acredite la representación y el poder respectivo, el que deberá extenderse por escritura pública, documento privado suscrito ante Notario o poder simple.
 
-5.1.2 Identificar al solicitante con
+5.1.3 Expresar la voluntad de ser notificado mediante carta certificada o comunicación electrónica de las actuaciones en la dirección de correo electrónico indicada en el numeral 5.1.2. En el caso que el solicitante sitúe su domicilio en el extranjero, se le notificará únicamente por vía electrónica.
 
-indicación de número de RUT, cuando
+5.1.4 Describir la operación que se propone efectuar.
 
-corresponda, dirección, teléfono y
+5.1.5 Señalar las disposiciones legales y normas aplicables en que se funda la solicitud, en cuanto sean de conocimiento del solicitante.
 
-fax. En
+5.1.6 Adjuntar todos los antecedentes, tales como catálogos, folletos, cartillas técnicas, fotografías, informes, estudios y similares que acrediten lo solicitado, debidamente traducidos al español en caso de estar en otro idioma, que coadyuven en la emisión de la resolución requerida. La Aduana podrá liberar de la exigencia de traducir los documentos referidos al español, cuando se le solicite fundadamente.
 
-caso que el solicitante actúe a través
+5.1.7 Señalar expresamente que la materia por la que solicita la resolución no ha sido objeto de acción o demanda, recursos o reclamaciones ante los tribunales ordinarios, como tampoco objeto de reclamo conforme al artículo 117 de la Ordenanza de Aduanas o de una presentación o solicitud ante la Aduana que se encuentre pendiente de ser resuelta por vía administrativa.
 
-de un agente de aduana o un tercero,
+5.1.8 Cuando la Aduana lo requiera, deberán acompañarse muestras de la mercancía, como por ejemplo en el caso de productos químicos, alimentos, textiles, plástico, papel y cartón, madera, metal común, manufacturas o dispositivos electrónicos.
 
-deberá adjuntarse el mandato por el
+5.1.9 Identificar cualquier información que considere confidencial, conforme a lo establecido en el numeral 4 precedente, debiendo indicar los conceptos genéricos que deben reemplazar la información considerada confidencial, velando por la correcta comprensión del contenido de la resolución anticipada solicitada.
 
-cual se acredite la representación y
+5.1.10 Acompañar declaración jurada simple respecto a:
 
-el poder respectivo, el que deberá
+a) Que la materia por la que solicita la resolución no ha sido objeto de acción o demanda, recursos o reclamaciones ante los tribunales ordinarios, como tampoco objeto de reclamo conforme al artículo 117 de la Ordenanza de Aduanas o haya sido objeto de una presentación o solicitud cuya resolución por vía administrativa se encuentre pendiente, promovida por el solicitante.
 
-extenderse por escritura pública o
+b) Acerca de la exactitud e integridad de la información aportada por el solicitante.
 
-documento privado suscrito ante
-
-Notario.
-
-5.1.3 Expresar la voluntad de ser notificado
-
-mediante carta certificada o
-
-comunicación electrónica de las
-
-actuaciones; indicando en el último
-
-caso, bajo su responsabilidad, una
-
-dirección de correo electrónico
-
-habilitada. En el caso que el
-
-solicitante sitúe su domicilio en el
-
-extranjero, se le notificará
-
-únicamente por vía electrónica,
-
-debiendo indicar bajo su
-
-responsabilidad, una dirección de
-
-correo electrónico habilitada.
-
-5.1.4 Describir de manera completa todos
-
-los hechos relevantes respecto de la
-
-operación que se propone efectuar.
-
-5.1.5 Señalar las disposiciones legales y
-
-normas aplicables, así como los
-
-fundamentos esgrimidos por el
-
-solicitante.
-
-5.1.6 Adjuntar todos los antecedentes,
-
-catálogos, folletos, cartillas
-
-técnicas, fotografías, informes,
-
-estudios y similares
-
-que acrediten lo solicitado,
-
-debidamente traducidos al español en
-
-caso de estar en otro idioma, que
-
-coadyuven en la emisión de
-
-la resolución requerida. La Aduana
-
-podrá liberar de la exigencia de
-
-traducir los documentos referidos al
-
-español, cuando se le solicite
-
-fundadamente.
-
-5.1.7 Señalar expresamente que la materia
-
-por la que solicita la resolución no
-
-ha sido objeto de acción o demanda,
-
-recursos o reclamaciones ante los
-
-tribunales ordinarios, como tampoco
-
-objeto de reclamo conforme al artículo
-
-117 de la Ordenanza de Aduanas o de
-
-una presentación o solicitud ante la
-
-Aduana que se encuentre pendiente de
-
-ser resuelta por vía administrativa.
-
-5.1.8 Cuando la Aduana lo requiera, deberán
-
-acompañarse muestras de la mercancía,
-
-como por ejemplo en el caso de
-
-productos químicos, alimentos,
-
-textiles, plástico, papel y cartón,
-
-madera, metal común, manufacturas o
-
-dispositivos electrónicos.
-
-5.1.9 Identificar cualquier información que
-
-considere confidencial, conforme a lo
-
-establecido en el numeral 4
-
-precedente, debiendo indicar los
-
-conceptos genéricos que deben
-
-reemplazar la información considerada
-
-confidencial, velando por la correcta
-
-comprensión del contenido de la
-
-resolución anticipada solicitada.
-
-5.1.10 Acompañar declaración jurada simple
-
-respecto a:
-
-a) Que la materia por la que
-
-solicita la resolución no ha sido
-
-objeto de acción o demanda,
-
-recursos o reclamaciones ante los
-
-tribunales ordinarios, como
-
-tampoco objeto de reclamo
-
-conforme al artículo 117 de la
-
-Ordenanza de Aduanas o haya sido
-
-objeto de una presentación o
-
-solicitud cuya resolución por vía
-
-administrativa se encuentre
-
-pendiente, promovida por el
-
-solicitante.
-
-b) Acerca de la exactitud e
-
-integridad de la información
-
-aportada por el solicitante.
-
-5.1.11 Indicar si la importación se va
-
-acoger a algún acuerdo comercial
-
-suscrito por Chile, cuando
-
-corresponda.
-
-5.1.12 DEROGADO
+5.1.11 Indicar si la importación se va acoger a algún acuerdo comercial suscrito por Chile, cuando corresponda.
 
 5.2. REQUISITOS ESPECIALES EN CASO DE CLASIFICACIÓN ARANCELARIA
 
-5.2.1 Referirse sólo a una mercancía o
+5.2.1 Referirse sólo a una mercancía o producto. En caso que se trate de más de una mercancía o producto, se deberán presentar solicitudes separadas.
 
-producto. En caso que se trate de más
-
-de una mercancía o producto, se
-
-deberán presentar solicitudes
-
-separadas.
+5.2.2 indicar la clasificación arancelaria que en opinión del solicitante corresponde asignar a la mercancía.
 
 5.3. REQUISITOS ESPECIALES EN CASO DE APLICACIÓN DE LOS CRITERIOS O MÉTODOS DE VALORACIÓN ADUANERA
 
@@ -418,7 +246,7 @@ los documentos que acreditan dicho
 
 valor.
 
-5.5.5 Indicar la disposición y del acuerdo
+5.5.5 Indicar la disposición del acuerdo
 
 comercial, conforme al cual se autoriza
 
