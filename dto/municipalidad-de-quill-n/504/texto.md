@@ -384,6 +384,18 @@ o) Arriendo moto-niveladora por hora 0,70 UTM
 
 p) Arriendo de Sillas c/u 0,008 UTM
 
+q) Sobre las tarifas de cobro de acceso al balneario municipal:
+
+-Acceso peatonal (por persona) 0,027 UTM
+
+-Camping (máximo 6 personas) 0,32 UTM
+
+-Camping (persona adicional) 0,027 UTM
+
+-Acceso a zona de picnic (por persona) 0,013 UTM
+
+-Arriendo casino (por hora) 0,22 UTM
+
 ARTICULO Nº 46.- Cuando se arrienden el Gimnasio, Estadio y el recinto Carnaval a personas particulares o Jurídicas para actividades de actos masivos como bailes, encuentros deportivos, actos públicos, etc, los organizadores deberán entregar al municipio una garantía de 20 UTM, la cual se devolverá una vez que se reciba conforme y verificando previamente que no existen daños a propiedad o en su defecto se hará efectiva la garantía.
 
 ARTICULO Nº 47.- Los usuarios quedan obligados a someterse y cumplir las disposiciones y exigencias que contempla la presente Ordenanza, como asimismo las normas que imparta el jefe la administración del gimnasio.
