@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.128, de 11 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204103045 presentada por HUGO CARLOS CHÁVEZ CATEPILLÁN, para instalar y operar un centro de cultivo ubicado en estero Comau, entre río Leptepu y río Bodudahue, X Región.
+
+Valparaíso, 11 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaría de Pesca (S).
