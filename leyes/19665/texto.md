@@ -494,7 +494,7 @@ En los casos que se indican en este artículo, el juez de letras de la jurisdicc
 
 En la Primera Región de Tarapacá, el juez de letras de la comuna de Pozo Almonte.
 
-En la Segunda Región de Antofagasta, los jueces de letras de las comunas de María Elena, Mejillones y de Taltal.
+En la Segunda Región de Antofagasta, los jueces de letras de las comunas de María Elena y de Taltal.
 
 En la Tercera Región de Atacama, los jueces de letras de las comunas de Chañaral, Freirina y Caldera.
 
@@ -514,7 +514,7 @@ En la Décima Región de Los Lagos, los jueces de letras de las comunas de Pangu
 
 En la Undécima Región del General Carlos Ibáñez del Campo, los jueces de letras de las comunas de Cisnes, Chile Chico, Aisén y Cochrane.
 
-En la Duodécima Región de Magallanes y Antártica Chilena, los jueces de letras de las comunas de Natales, Porvenir y Cabo de Hornos.
+En la Duodécima Región de Magallanes y Antártica Chilena, los jueces de letras de las comunas de Natales y Porvenir.
 
 #### Artículo 4º
 
@@ -2322,46 +2322,6 @@ i. El N° 8 del artículo 13 de la ley Nº 15.231, sobre organización y atribuc
 
 ii. Los artículos 177 a 181 de la ley Nº 17.105, Ley de Alcoholes, Bebidas Alcohólicas y Vinagres.
 
-#### Artículo 12 ter
-
-Créase una Comisión de Coordinación del Sistema de Justicia Penal, de carácter permanente y consultivo, que tendrá como objetivo procurar el fortalecimiento y buen funcionamiento del sistema procesal penal, a través de proposiciones técnicas que faciliten su desarrollo, seguimiento y evaluación, así como la acción mancomunada de las instituciones en ella representadas.
-
-Dicha Comisión estará integrada por el Ministro de Justicia, quien la presidirá, por el Presidente de la Corte Suprema, por el Fiscal Nacional del Ministerio Público, por el Defensor Nacional de la Defensoría Penal Pública, por el Presidente del Colegio de Abogados con mayor número de afiliados, por el General Director de Carabineros, por el Director General de la Policía de Investigaciones de Chile y por el Subsecretario de Justicia.
-
-La Comisión de Coordinación sesionará en forma ordinaria, convocada por su presidente, cada dos meses, dentro de los primeros quince días del mes correspondiente. Las sesiones extraordinarias serán convocadas por el presidente de la Comisión o por éste a solicitud de dos de sus miembros.
-
-La Comisión no podrá sesionar ni adoptar acuerdos sin la concurrencia de, al menos, cuatro de sus integrantes. Sus acuerdos se adoptarán por la mayoría absoluta de sus miembros presentes. Si un integrante titular estuviere imposibilitado de asistir, será reemplazado por quien corresponda que lo subrogue.
-
-La Comisión de Coordinación tendrá un secretario ejecutivo, que será designado por ésta y participará en sus reuniones sólo con derecho a voz. El secretario ejecutivo deberá levantar acta de cada sesión respecto a las materias tratadas y de los acuerdos adoptados, y, en su caso, incluirá los antecedentes estadísticos, técnicos, financieros y demás pertinentes en que se haya fundado la Comisión para obrar y resolver. Estas actas serán públicas de acuerdo a las disposiciones establecidas en la ley Nº 20.285, sobre Acceso a la Información Pública. La secretaría ejecutiva estará radicada administrativamente en el Ministerio de Justicia.
-
-La Comisión podrá invitar a sus sesiones a los particulares y representantes de organizaciones e instituciones privadas que estime pertinente y a cualquier autoridad o funcionario del Estado o podrá solicitar ser recibida por ellos para recabar antecedentes o representar las necesidades que sea indispensable atender para la buena marcha del sistema de justicia penal.
-
-Con el fin de garantizar el trabajo coordinado de los actores involucrados, el Fiscal Nacional del Ministerio Público, el General Director de Carabineros de Chile y el Director General de la Policía de Investigaciones de Chile deberán remitir conjuntamente a la Comisión, en el mes de octubre de cada año, un diagnóstico de la gestión institucional y una propuesta de objetivos comunes a partir de los cuales deberán realizar sus planes de trabajo, con el objeto de mejorar el funcionamiento del sistema.
-
-La Comisión, considerando los diagnósticos y resultados obtenidos a partir de la gestión conjunta a que se refiere el inciso anterior, y conforme al análisis que por su propia competencia le corresponde desarrollar, en el mes de marzo de cada año elaborará una propuesta de Plan Anual de Capacitación Interinstitucional para el Poder Judicial, el Ministerio Público, la Defensoría Penal Pública, Carabineros de Chile y la Policía de Investigaciones de Chile, cuyo cumplimiento será informado a la Comisión de manera semestral.
-
-Con el fin de analizar la evolución del sistema procesal penal, efectuar las mejoras que corresponda y hacer más eficaz la persecución penal, el Fiscal Nacional del Ministerio Público, el General Director de Carabineros de Chile y el Director General de la Policía de Investigaciones de Chile deberán remitir a la Comisión y al Consejo Nacional de Seguridad Pública, con anterioridad a las reuniones periódicas que celebre la Comisión y el Consejo en los meses de mayo y octubre de cada año, un diagnóstico respecto del cumplimiento de sus fines institucionales en relación con la persecución penal.
-
-De acuerdo a la información de que cada institución disponga, el diagnóstico contendrá, a lo menos, estadísticas sobre el número de denuncias recibidas por categorías de principales delitos, condenas, archivos provisionales, decisiones de no perseverar, formalizaciones, detenciones efectuadas, órdenes de detención pendientes, suspensiones condicionales del procedimiento, procedimientos abreviados, sobreseimientos, resoluciones que decreten la prisión preventiva, imputados en prisión preventiva e imputados con órdenes de detención pendiente por incumplimiento de medidas cautelares. Estas estadísticas contendrán la información adicional que permita una mejor comprensión de los datos proporcionados, indicando de qué forma éstos dan cuenta del cumplimiento de los fines institucionales de los organismos informantes.
-
-En todo caso, la Comisión y el Consejo Nacional de Seguridad Pública podrán requerir mayor información o antecedentes para una mejor comprensión de los datos proporcionados.
-
-Un reglamento, que llevará la firma del Ministro de Justicia, establecerá las demás disposiciones concernientes a la organización y funcionamiento de la Comisión, así como los requisitos para desempeñar el cargo de secretario ejecutivo y el procedimiento de designación de éste.
-
-#### Artículo 12 quáter
-
-Créanse Comisiones Regionales de Coordinación del Sistema de Justicia Penal, de carácter permanente, en cada una de las regiones del país, con el objeto de desarrollar labores de coordinación, seguimiento y evaluación del sistema procesal penal en la región respectiva, así como de sugerir propuestas tendientes a mejorar el funcionamiento del mismo.
-
-Las Comisiones Regionales dependerán de la Comisión de Coordinación a que se refiere el artículo precedente, a la que remitirán, a lo menos semestralmente, información sobre el funcionamiento y estadísticas del sistema de justicia penal en su región.
-
-Cada Comisión Regional estará integrada por el Secretario Regional Ministerial de Justicia, quien la presidirá, por el Presidente de la Corte de Apelaciones respectiva, por el Fiscal Regional del Ministerio Público, por el Defensor Regional respectivo, por el Jefe de Zona de Carabineros pertinente, por el Jefe de Zona Policial que corresponda y por el Presidente del Colegio de Abogados con mayor número de afiliados en la región. En el caso de existir dos o más Cortes de Apelaciones en la región, la Comisión estará integrada por todos los Presidentes de esas Cortes.
-
-En la Región Metropolitana, el Fiscal Nacional del Ministerio Público y el Defensor Nacional designarán al fiscal y defensor regionales que integrarán la respectiva Comisión Regional.
-
-Serán aplicables a las Comisiones Regionales las normas relativas al quórum de funcionamiento y de reemplazo de los integrantes que se prescriben en el artículo anterior.
-
-La Comisión Regional deberá reunirse cada dos meses y podrá invitar a cualquier autoridad o funcionario del Estado que se desempeñe en la región, a los particulares y representantes de organizaciones e instituciones privadas que estime pertinentes o solicitar ser recibida por cualquiera de ellos para recabar antecedentes o representar las necesidades que advierta en el funcionamiento del sistema de justicia penal en la región.
-
 #### Artículo 13
 
 El mayor gasto que signifique la aplicación de esta ley se financiará con los recursos asignados al Poder Judicial en la ley de Presupuestos del Sector Público del año correspondiente.
@@ -2550,7 +2510,7 @@ Las Cortes de Apelaciones llamarán a concurso para proveer los cargos de jueces
 
 Juzgados de garantía correspondientes a las Cortes de Apelaciones de Valparaíso, Rancagua, Chillán, Concepción, Valdivia y Puerto Montt: diciembre de 2004.
 
-Juzgados de garantía correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008, sin perjuicio de lo que se señala en el N° 4 ter).
+Juzgados de garantía correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008.
 
 4) Una vez nombrados los jueces de garantía que asumirán en mayo del año correspondiente, las Cortes de Apelaciones efectuarán el llamado para el nombramiento de cuatro jueces de tribunal de juicio oral en lo penal, que constituirán una sala, con la finalidad de que asuman en los meses señalados en la tabla siguiente:
 
@@ -2586,7 +2546,7 @@ Las Cortes de Apelaciones llamarán a concurso para proveer los cargos de jueces
 
 Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Valparaíso, Rancagua, Chillán, Concepción, Valdivia y Puerto Montt: diciembre de 2005.
 
-Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008, sin perjuicio de lo que se señala en el N° 4 ter).
+Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008.
 
 4 bis) La sala, constituida de acuerdo al inciso primero del numeral anterior, actuará como itinerante dentro del territorio jurisdiccional correspondiente, ejerciendo, para todos los efectos legales, la competencia de los tribunales de juicio oral en lo penal de la Región o jurisdicción de la Corte respectiva, según sea el caso, que no estén instalados, hasta que todos se encuentren en funcionamiento por aplicación de dicho numeral.
 
@@ -2596,23 +2556,17 @@ Dicha sala funcionará, para todos los efectos administrativos, en el juzgado de
 
 4 bis B) Las Cortes podrán elaborar ternas simultáneas, de manera que el procedimiento respectivo concluya dentro de los plazos correspondientes.
 
-4 ter) Excepcionalmente, se diferirá el nombramiento de 131 cargos de jueces de garantía y de jueces de tribunal de juicio oral en lo penal en los territorios jurisdiccionales de las Cortes de Apelaciones de Santiago y de San Miguel. Sus nombramientos serán realizados de acuerdo a las necesidades derivadas de las cargas de trabajo de los tribunales de estas jurisdicciones, conforme a las siguientes reglas generales: hasta 24 cargos serán nombrados en el período comprendido entre el 1 de enero de 2012 y el 31 de diciembre del mismo año; hasta 30 cargos en el período comprendido entre el 1 de enero de 2013 y el 31 de diciembre del mismo año.
-
-La Corte Suprema, previo informe técnico de la Corporación Administrativa del Poder Judicial, determinará, de entre los jueces señalados en este numeral, las cantidades que correspondan a jueces de garantía y a jueces de tribunal oral en lo penal en cada período.
-
 5) La Corte Suprema podrá disponer la ampliación de los plazos establecidos en los números precedentes cuando, atendido el número de cargos vacantes por proveer, ello resulte necesario para dar cumplimiento al plazo de instalación de los nuevos tribunales.
 
 6) El Presidente de la República procederá a la designación de los nuevos jueces dentro del plazo de veinte días desde que reciba las ternas respectivas.
 
 7) Para postular a los cargos de juez de juzgado de garantía y juez de tribunal de juicio oral en lo penal, con arreglo a lo previsto en los números 3) y 4) de este artículo, los postulantes, además de cumplir con los requisitos comunes, deberán haber aprobado el curso habilitante que la Academia Judicial impartirá al efecto. Con este objeto, la Academia Judicial deberá adoptar las medidas necesarias a fin de que se impartan suficientes cursos habilitantes en todas las regiones del país. Asimismo, podrá acreditar o convalidar como curso habilitante estudios equivalentes que hayan realizado los postulantes.
 
-8) SUPRIMIDO.
+8) SUPRIMIDO
 
 9) Los jueces a que se refieren los números anteriores no sufrirán disminución de remuneraciones, pérdida de la antigüedad que poseyeren en el Escalafón Primario del Poder Judicial, ni disminución de ninguno de sus derechos funcionarios.
 
-10) SUPRIMIDO.
-
-11) Los secretarios de los juzgados que son suprimidos por la presente ley, gozarán de un derecho preferente para ser incluidos en las ternas que se formen para proveer los cargos de jueces de los juzgados de garantía o de los tribunales de juicio oral en lo penal de su misma jurisdicción, en relación con los postulantes que provengan de igual o inferior categoría, siempre que hayan figurado en las dos primeras listas de mérito durante los dos últimos años.
+10) SUPRIMIDO 11) Los secretarios de los juzgados que son suprimidos por la presente ley, gozarán de un derecho preferente para ser incluidos en las ternas que se formen para proveer los cargos de jueces de los juzgados de garantía o de los tribunales de juicio oral en lo penal de su misma jurisdicción, en relación con los postulantes que provengan de igual o inferior categoría, siempre que hayan figurado en las dos primeras listas de mérito durante los dos últimos años.
 
 Asimismo, dichos secretarios que, por cualquier circunstancia, no fueren nombrados en los juzgados de garantía y en los tribunales de juicio oral en lo penal que se crean por la presente ley, serán destinados por la Corte de Apelaciones respectiva, con a lo menos 90 días de antelación a la supresión del tribunal, en un cargo de igual jerarquía al que a esa fecha poseyeren y de la misma jurisdicción, sin necesidad de nuevo nombramiento y sin que resulte afectado, bajo ningún respecto, ninguno de sus derechos funcionarios.
 
@@ -2936,7 +2890,7 @@ Si vacaren los cargos de juez o secretario de ese juzgado del crimen, la Corte d
 
 #### Artículo 6º
 
-DEROGADO
+Créase una Comisión de Coordinación de la Reforma Procesal Penal, la que tendrá como función realizar los estudios y proposiciones técnicas que faciliten la puesta en marcha del nuevo sistema procesal penal y la acción mancomunada con tal fin de las instituciones en ella representadas, así como hacer el seguimiento y evaluación del proceso de implementación de la reforma procesal penal. Dicha Comisión estará integrada por el Ministro de Justicia, quien la presidirá, por el Presidente de la Corte Suprema, por el Fiscal Nacional del Ministerio Público, por el Defensor Nacional de la Defensoría Penal Pública, por un Ministro de la Corte Suprema elegido por el pleno de ese tribunal, por el Presidente del Colegio de Abogados con mayor número de afiliados, y por el Subsecretario de Justicia. La Comisión de Coordinación sesionará a lo menos una vez al mes. La Comisión de Coordinación tendrá un Secretario Ejecutivo, que será designado por ésta y participará en sus reuniones con derecho a voz pero no a voto. Para el cumplimiento de sus funciones, el Secretario Ejecutivo podrá contratar hasta cuatro profesionales que se integrarán a dicha Secretaría, sin perjuicio de constituir equipos de trabajo interinstitucionales, integrados por representantes de las diversas instituciones involucradas. La Comisión de Coordinación se disolverá, suprimiéndose el cargo de Secretario Ejecutivo, por el solo ministerio de la ley, cinco años después de la entrada en vigencia de la reforma procesal penal en la Región Metropolitana de Santiago. Para regular, en lo no contemplado en esta ley, su organización y funcionamiento, la Comisión de Coordinación dictará un reglamento, dentro del plazo de 30 días de constituida. Créanse Comisiones Regionales de Coordinación de la Reforma Procesal Penal en cada una de las Regiones del país. Estas Comisiones serán presididas por el Intendente Regional respectivo e integradas por el Secretario Regional Ministerial de Justicia, que actuará como secretario ejecutivo, por el Presidente de la Corte de Apelaciones, por el Fiscal Regional o los Fiscales Regionales, según sea el caso, del Ministerio Público, por el Defensor o los Defensores Regionales, por el Presidente Regional del Capítulo respectivo de la Asociación Chilena de Municipalidades, por el Presidente del Colegio de Abogados con mayor número de afiliados en la Región respectiva, por los representantes zonales de Carabineros de Chile y de la Policía de Investigaciones de Chile, por el Director Regional de Gendarmería de Chile y por el Director Regional del Servicio Médico Legal. Dichas Comisiones tendrán a su cargo labores de coordinación, seguimiento y evaluación de la reforma procesal penal en la Región respectiva. Además, podrán sugerir propuestas tendientes a corregir el funcionamiento de la misma. Dependerán de la Comisión de Coordinación a que se refiere el inciso primero de este artículo, a la que remitirán, a lo menos trimestralmente, información sobre el funcionamiento y estadísticas del nuevo sistema de justicia penal.
 
 #### Artículo 7º
 
