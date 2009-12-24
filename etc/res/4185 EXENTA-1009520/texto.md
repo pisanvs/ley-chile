@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.185, de 16 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud Nº 207111141, presentada por SALMONES MAINSTREAM S.A., para modificar la concesión de acuicultura ubicada en Canal Darwin, entre Islote del Pangal y Punta San Emilio, Isla Luz, XI Región, otorgada por resolución Nº 1.604, de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
