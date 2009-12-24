@@ -17,3 +17,15 @@ Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Con
 Santiago, 14 de diciembre de 2009.- MICHELLE BACHELET JERIA, Presidenta de la República.- Carlos Maldonado Curti, Ministro de Justicia.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Jorge Frei Toledo, Subsecretario de Justicia.
+
+Tribunal Constitucional
+
+Proyecto de ley que modifica el artículo quinto transitorio de la ley 19.665, que extiende el funcionamiento de los tribunales que indica, (Boletín 6750-07)
+
+El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal, ejerciera el control de constitucionalidad respecto del artículo único del mismo; y que por sentencia de 24 de noviembre de 2009 en los autos Rol Nº 1.543-09-CPR.
+
+Declaró:
+
+Que el artículo único del proyecto remitido es constitucional.
+
+Santiago, 24 de noviembre de 2009.- Marta de la Fuente Olguín, Secretario Suplente.
