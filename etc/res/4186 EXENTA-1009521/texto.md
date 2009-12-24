@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.186, de 16 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206104029 presentada por GERMONT S.A., para el centro de cultivo ubicado al sur de Punta Rumen, Isla Quenu, X Región, otorgado por resolución Nº 1.434, de 2001, de la Subsecretaría de Marina.
+
+Valparaíso, 16 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
