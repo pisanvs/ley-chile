@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.184, de 16 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 207101028 presentada por TRUSAL S.A., para el centro de cultivo ubicado en Estero Reloncaví, al sur de Punta Pocoihuén, X Región, otorgado por DS Nº 879 de 1992, del Ministerio de Defensa Nacional.
+
+Valparaíso, 16 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
