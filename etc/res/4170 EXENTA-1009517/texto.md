@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.170, de 16 de diciembre de 2009, de esta Subsecretaría, declárese la caducidad parcial de la resolución exenta Nº 1.458 de 1997, de esta Subsecretaría de Pesca, sólo en cuanto autorizó a don Tomás Hugo Quezada Bernal para ampliar actividades pesqueras extractivas con la nave "Tío Tomás", respecto del recurso hidrobiológico Bacalao de profundidad, en el área marítima de la V Región desde Punta Liles (32º45’40" L.S.) hasta la X Región, por haber incurrido en la causal de caducidad prevista en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, de conformidad con el memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
