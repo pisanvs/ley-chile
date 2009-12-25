@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.017, de 3 de diciembre de 2009 de esta Subsecretaría, acógese el recurso de reposición presentado por PESQUERA ISLA QUIHUA S.A. en contra de la resolución exenta Nº 3.130 de 2009, de esta Subsecretaría de Pesca, en virtud de lo señalado en la parte considerativa de la resolución extractada y lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Modifícase el numeral 2º de la resolución exenta Nº 3.130 de 2009, que autorizó a Pesquera Isla Quihua S.A. para ampliar actividades pesqueras extractivas con la nave Terranova, en el sentido de reemplazar su numeral 2º por el siguiente: "2.- La peticionaria podrá realizar actividades pesqueras con la nave antes individualizada, en el área marítima comprendida desde la V a IX Regiones, por fuera del área de reserva artesanal, con arrastre de media agua, sobre el recurso hidrobiológico Jibia o Calamar rojo Dosidicus gigas.".
+
+Valparaíso, 3 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
