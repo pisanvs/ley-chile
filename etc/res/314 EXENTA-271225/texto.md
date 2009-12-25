@@ -108,6 +108,10 @@ encasillamientos, nombramientos y no incorporaciones derivados de actos administ
 
 46) Convenciones que efectúen la liquidación de los contratos y/o el finiquito de los mismos.
 
+47) Aprobación de los bienes y servicios prestados por las personas naturales y jurídicas contratadas por la Subsecretaría, incluyendo los informes correspondientes a las consultorías, previo visto bueno de la Contraparte Técnica, en su caso.
+
+48) Resoluciones que aprueben o rechacen la elegibilidad de los institutos, centros tecnológicos o centros de transferencia tecnológica, en los términos previstos en el decreto supremo Nº 68, de 23 de febrero de 2009, del Ministerio de Economía, Fomento y Reconstrucción, que aprobó el reglamento para la elegibilidad de instituciones receptoras de recursos provenientes de la Provisión del Fondo de Innovación para la Competitividad, de decisión regional, y la pérdida o recuperación de la citada elegibilidad.
+
 #### Artículo 2º
 
 Deléganse en el Jefe de la División Jurídica las siguientes facultades:
