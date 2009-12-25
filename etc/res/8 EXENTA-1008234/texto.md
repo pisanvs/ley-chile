@@ -18,7 +18,7 @@ Resuelvo:
 
 1.- Las actividades de pesca recreativa que se realicen en el Río Petrohué y Lago Todos los Santos, incluyendo los ríos y arroyos efluentes y afluentes, ubicado en la X Región, entre el 13 de noviembre de 2009 y el primer domingo de mayo de 2010, ambas fechas inclusive, deberán realizarse bajo las siguientes condiciones:
 
-a) Pesca con devolución de todas las especies nativas y salmonídeas en el Río Petrohué.
+a) Pesca con devolución de todas las especies nativas y salmonídeas en el Río Petrohué y sus tributarios.
 
 b) En el Río Petrohué, sólo se permitirá la captura de las especies de salmón salar, salmón coho y salmón chinook hasta un ejemplar por pescador, en cada jornada de pesca en el sector de Los Arenales aguas debajo de las coordenadas geográficas 41°19' 28,71" L. S. y 72°24'3,34" L. W. Cumplida dicha cantidad, el resto de los ejemplares deberán ser devueltos a su medio en las mejores condiciones posibles.
 
@@ -32,7 +32,7 @@ f) Uso exclusivo de pesca con mosca en los ríos tributarios del Río Petrohué.
 
 g) Prohibición de pesca desde puentes camineros que estén sobre el Río Petrohué y sus tributarios.
 
-h) Prohibición de uso de motores en embarcaciones que realicen pesca recreativa en el sector que va desde la desembocadura del Río Hueñu Hueñu (coordenadas geográficas 41°15'8,43" L. S. y 72°26'19,72" L.W.) y hasta desembocadura de Río Frío (coordenadas geográficas 41°19'28,71" L. S. y 72°24'3,34" L.W.).
+h) Prohibición de realizar pesca recreativa en embarcaciones con motor en servicio, en el sector que va desde la desembocadura de Río Hueñu Hueñu (coordenadas geográficas 41º 15' 8,43" L. S. y 72º 26' 19,72" L.W.) y hasta desembocadura de río Frío (coordenadas geográficas 41º 19' 28,71" L.S. y 72º 24' 3,34" L.W.)
 
 i) Los peces capturados y liberados deberán ser devueltos al lago o río en las mejores condiciones posibles, incluso aquellos que presenten signos de mortalidad, para que sean aprovechados exclusivamente por la fauna existente.
 
