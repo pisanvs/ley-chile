@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.506 de 9 de noviembre de 2009, se publicó Decreto Núm. 4.397, que "RECTIFICA DECRETO N° 3.985, DE 2009, QUE PROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL", con el error que se salva a continuación: página cinco, primera columna, donde dice: "... RECTIFICA DECRETO N° 3.985, DE 1999, QUE PROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL ..." debe decir "... RECTIFICA DECRETO N° 3.985, DE 2009, QUE PROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL ...".
