@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.198 de 17 de diciembre de 2009 de esta Subsecretaría, déjense sin efecto las resoluciones Nº 1.444 de 2002, Nº 2.417 de 2003 y Nº 2.609 de 2004, de esta Subsecretaría, correspondientes al área de manejo Tanaún, Sector B, X Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES Y RAMOS SIMILARES "CALETA TANAÚN", comuna de Dalcahue, en virtud del artículo 16, letra g), del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
