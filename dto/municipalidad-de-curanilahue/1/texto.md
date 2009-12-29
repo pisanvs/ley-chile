@@ -628,8 +628,6 @@ la copia 5% UTM
 
 los cierres correspondientes por mt2 5% UTM
 
-> **Nota.** El Nº 1 del Decreto 2131, Municipalidad de Curanilahue, publicado el 27.05.2010, modifica la presente norma en el sentido de agregar un Nº 21, cuyo contenido es del siguiente tenor: 21.- Déjese sin efecto el cobro de los Derechos Municipales por concepto de certificado, al declararse zona de catástrofe por el organismo competente, a las familias con viviendas que hayan sufrido daño.
-
 #### Artículo 17°
 
 La ocupación temporal de espacio público, por faenas relacionadas con instalaciones de servicios públicos, tales como agua potable, alcantarillado, electricidad, gas, teléfono y otros similares, pagará un derecho municipal básico y uniforme; equivalente al valor de 3 cuotas de ahorro para la vivienda, más las cantidades que se indicarán a continuación.
