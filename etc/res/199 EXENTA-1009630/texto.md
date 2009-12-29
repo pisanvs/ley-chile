@@ -1,0 +1,5 @@
+ESTABLECE NUEVA DECLARACIÓN JURADA ANUAL, EN LOS CASOS QUE INDICA, COMPLEMENTANDO RESOLUCIÓN EX. Nº 55, DE 2003
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 199 del 22 de diciembre de 2009, que establece una nueva declaración jurada anual, Formulario Nº 1807, denominada "Declaración Jurada Anual sobre Antecedentes de las Reorganizaciones Empresariales", que deberán presentar los contribuyentes respecto de las modificaciones efectuadas a los datos y antecedentes contenidos en el formulario de inicio de actividades, en los casos de: transformación de sociedades, conversión de empresa individual en sociedad, aporte de todo el activo y pasivo a otra sociedad, fusión de sociedades, absorción de sociedades, y división de sociedades.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre, de 2009.
