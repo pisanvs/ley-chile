@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.240, de 21 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 205103170 presentada por SOCIEDAD LAS VEGAS DEL MAR LIMITADA, para el centro de cultivo ubicado al norte de Punta Coñao, Isla Quinchao, X Región, transferido a la peticionaria por resolución Nº 1.669 de 2003, de la Subsecretaría de Marina.
+
+Valparaíso, 21 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
