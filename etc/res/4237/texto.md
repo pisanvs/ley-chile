@@ -1,0 +1,7 @@
+Por resolución Nº 4.237, de 21 de diciembre de 2009, de esta Subsecretaría, aplícase al grupo de armadores PESQUERA BAHÍA CORONEL S.A., PESQUERA CENTRO SUR S.A., SALMOALIMENTOS S.A., e INVERSIONES PESQUERAS S.A., cuya participación conjunta fue reconocida mediante resolución exenta Nº 115 de 2009, de esta Subsecretaría de Pesca, la sanción establecida en el artículo 12 inciso 4º de la ley Nº 19.713, respecto de la unidad de pesquería de Sardina común (Clupea bentincki) y Anchoveta (Engraulis ringens) individualizada en el artículo 2º letra e) de la ley Nº 19.713.
+
+Descuéntese el 10% de los límites máximos de captura autorizados al grupo de armadores antes individualizado, ascendente a 472,986 toneladas de Anchoveta y 2.575,024 toneladas de Sardina común, quedando un remanente para el año 2009, ascendente a 4.256,870 toneladas de Anchoveta y 23.175,219 toneladas para Sardina común, fraccionado por armador de la manera señalada en la resolución extractada.
+
+El descuento antes señalado se hará efectivo durante el presente año calendario. En el evento que el límite máximo de captura del armador antes individualizado se hubiere agotado, el descuento deberá efectuarse el año 2010.
+
+Valparaíso, 21 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
