@@ -646,9 +646,7 @@ Nº255, (V. y U.), de 2006.
 
 b) Diseñar el o los proyectos de mejoramiento, de ampliación y de habilitación social, cuando corresponda, de acuerdo al D.S. Nº255, (V. y U.), de 2006, y a los requerimientos de los postulantes, debiendo contar para su presentación con la aprobación del postulante o del representante legal del grupo, según corresponda.
 
-c) Asesorar a los beneficiarios para la contratación de una empresa constructora que cumpla con los requisitos exigidos en el artículo 34 del D.S.
-
-Nº255, (V. y U.), de 2006, dando cumplimiento a los plazos señalados en el artículo 21 letra I) del mismo reglamento. El Prestador PPPF o el Municipio del mismo proyecto, no podrán actuar como empresa constructora en ese proyecto ni estar afectos entre ellos a alguna de las inhabilidades señaladas en el inciso cuarto del artículo 4º de la Ley Nº19.886.
+c) Asesorar a los beneficiarios para la contratación de una empresa constructora que cumpla con los requisitos exigidos en el artículo 34 del D.S. Nº255, (V. y U.), de 2006, dando cumplimiento a los plazos señalados en el artículo 21 letra I) del mismo reglamento. El Prestador PPPF o el Municipio del mismo proyecto, no podrán actuar como empresa constructora en ese proyecto ni estar afectos entre ellos a alguna de las inhabilidades señaladas en el inciso sexto del artículo 4º de la ley Nº 19.886.
 
 d) En caso que corresponda, realizar las gestiones pertinentes ante las entidades crediticias para la calificación y evaluación del postulante para la obtención del crédito y para su aplicación al pago de las obras correspondientes al proyecto.
 
@@ -674,35 +672,13 @@ Las actividades vinculadas a la Gestión de Proyectos e Inspección Técnica de 
 
 El pago correspondiente a esta área se efectuará una vez desarrolladas las actividades señaladas en este numeral, con su correspondiente certificación, cuando corresponda, y autorizado por el SERVIU respectivo el pago del o de los correspondientes Certificados de Subsidio conforme al artículo 37 del D.S. Nº 255, (V. y U.), de 2006.
 
-52.3. Elaboración y Ejecución del Plan de Habilitación Social
+52.3. Elaboración y Ejecución del Plan de Habilitación Social.
 
-Se aplicará sólo a proyectos postulados en forma colectiva, en dos etapas:
+Esta área se aplicará sólo a los proyectos postulados en forma colectiva, debiendo ajustarse a las exigencias contenidas en los artículos 23 bis. y 23 ter. del DS Nº 255 (V. y U.), de 2006.
 
-a) Etapa de Preparación y Postulación del Plan de Habilitación Social correspondiente a las actividades que se desarrollan en forma previa a la postulación al subsidio a cualquiera de los Títulos del Programa de Protección del Patrimonio Familiar, consistentes en:
+El pago correspondiente a esta área se efectuará una vez realizadas las actividades involucradas en el Plan de Habilitación Social debidamente visado por el SERVIU, debiendo contar también con la aprobación expresa, de a lo menos, la mayoría absoluta de las familias y/o de sus representantes legales, según proceda y acompañarse para estos efectos, además, las actas de las reuniones realizadas conforme a lo dispuesto en el artículo 23 ter. del reglamento antes citado, firmadas por los asistentes, con constancia del RUT de cada uno de ellos.
 
-- Difusión a las familias sobre los contenidos del Programa Habitacional y los derechos y deberes que tienen las familias que postulan a éste.
-
-- Actividades que informen a las familias sobre los contenidos del proyecto.
-
-- Un diagnóstico de las familias y del entorno físico a intervenir. Este diagnóstico deberá entregar una justificación de la postulación del proyecto al Programa, debiendo reflejar su pertinencia, su aprobación por parte de las familias y la utilidad que tendrá a futuro la materialización de la obra.
-
-- Presentación de una propuesta de actividades dirigidas a las familias, las que se desarrollarán en la Etapa de Ejecución del Plan, con el objeto que éstas den un uso y mantención adecuados a las obras que dicen relación con el proyecto presentado, debiendo obtener un compromiso de las familias en este sentido.
-
-- Proposición de actividades de difusión acerca de la normativa que regula los derechos y deberes de las familias en relación con los bienes de uso común, particularmente respecto de aquéllos que componen el proyecto.
-
-b) Ejecución del Plan de Habilitación Social: que comprende las actividades que se deben desarrollar con posterioridad a la selección del proyecto en cualquiera de los Títulos del Programa a los que se postule, consistentes en:
-
-- La realización de todas las actividades incluidas en el Plan de Habilitación Social presentado al postular.
-
-- Desarrollo de a lo menos una charla informativa a las familias que postularon el proyecto. En esta actividad se deberá informar acerca del avance de las obras, de los plazos para su total ejecución, de los potenciales problemas advertidos y las posibles soluciones, debiendo una vez finalizadas las obras, efectuar una charla que entregue recomendaciones acerca del uso y mantención futura de las obras realizadas.
-
-- Obtener la aprobación por parte de las familias a las actividades ejecutadas en el Plan de Habilitación Social.
-
-Esta área se pagará una vez realizadas las actividades involucradas en el Plan de Habilitación Social aprobado por el SERVIU, debiendo contar además con la aprobación expresa de a lo menos la mayoría absoluta de las familias y/o de su representante legal, según proceda.
-
-Las actividades correspondientes a esta área de Elaboración y Ejecución del Plan de Habilitación Social, estarán a cargo de un profesional del área social, quien deberá ser individualizado en el contrato de asistencia técnica, el que no podrá atender simultáneamente a más de 240 familias de este Programa.
-
-Para los efectos de los servicios de asistencia técnica y social de que trata este numeral, se entenderá por profesional del área social aquél que acredite poseer alguno de los siguientes títulos profesionales: economista, sociólogo, psicólogo, antropólogo, asistente social o trabajador social, geógrafo o abogado.".
+Las actividades correspondientes a esta área de Elaboración y Ejecución del Plan de Habilitación Social, estarán a cargo de un profesional del área social, que esté en posesión de uno de los títulos a que se alude en el inciso segundo del número 18 del artículo 2º de esta resolución, quien deberá ser individualizado en el contrato de asistencia técnica; dicho profesional no podrá atender simultáneamente a más de 240 familias de este Programa.
 
 53.- El SERVIU pagará al Prestador PPPF o al Municipio, según corresponda, la prestación de los servicios de asistencia técnica e inspección técnica de obras, mediante los cupones a que se refiere el artículo 32 del D.S. Nº255 (V. y U.), de 2006.
 
@@ -710,225 +686,139 @@ Los cupones destinados al pago de los servicios de asistencia técnica serán pa
 
 54.- El incumplimiento por parte del Prestador PPPF o del Municipio, facultará al SERVIU para disponer el no pago del cupón que aún se encuentre pendiente. El SERVIU podrá además solicitar al grupo o al beneficiario el reemplazo del Prestador PPPF o del Municipio.
 
-55.- De los honorarios a pagar por la Asistencia Técnica e Inspección Técnica de Obras.
+55. De los honorarios a pagar por la Asistencia Técnica e Inspección Técnica de Obras.
 
-El SERVIU pagará al Prestador PPPF o al Municipio por los servicios de asistencia técnica e inspección técnica de obras, un honorario por familia, que varía según el Título del Programa y los montos del subsidio habitacional correspondiente, que se expresarán en Unidades de Fomento.
+El SERVIU pagará al Prestador PPPF o al Municipio, por los servicios de asistencia técnica e inspección técnica de obras, un honorario por familia, según el Título del Programa y los tramos de subsidio definidos en la tabla inserta en el artículo 6º del DS Nº 255 (V. y U.), de 2006.
 
-Los valores a pagar por cada familia se ajustarán a las siguientes tablas:
+Los montos de honorarios a pagar por cada familia serán los siguientes, expresados en unidades de fomento:
 
-## Título I — Mejoramiento del Entorno y del
+## Título I — Equipamiento Comunitario y/o Mejoramiento del Entorno.
 
-Equipamiento Comunitario
+Tramos de Subsidio Título I PPPF
 
-Tramo 1 Tramo 2 Tramo 3
+Subsidios Subsidios Subsidios Subsidios
 
-Subsidio de Subsidio de Subsidio de
+Tramo 1 Tramo 2 Tramo 3 Tramo 4
 
-hasta 12 UF más de 12 y hasta 14 UF
+Organización
 
-más de 14 UF
-
-Organización de
-
-la Demanda y
+de la Demanda y 1 1,5 1,5 2
 
 Postulación de
 
-Proyectos 1 1,5 2
+Proyectos
 
 Gestión de
 
-Proyectos e
+Proyectos e 2 2,5 2,5 3
 
 Inspección
 
-Técnica de Obras 2 2,5 3
+Técnica de Obras
 
-## Título II — Mejoramiento de la Vivienda, de acuerdo a la siguiente tipología de proyectos, según se definen en la letra b) del artículo 8º del D.S. Nº 255 (V. y U.), de 2006:
+## Título II — Mejoramiento de la Vivienda.
+
+De acuerdo a la tipología de proyecto de que se trate, según lo establecido en la letra b) del artículo 5º del DS Nº 255 (V. y U.), de 2006, los montos de honorarios a pagar por cada familia serán los siguientes:
 
 A. Proyectos de Seguridad de la Vivienda:
 
-Tramo 1 Tramo 2 Tramo 3
+Tramos de Subsidio Título II PPPF
 
-Subsidio de Subsidio de Subsidio de
+Subsidios Subsidios Subsidios Subsidios
 
-hasta 50 UF más de 50 UF mas de 60
+Tramo 1 Tramo 2 Tramo 3 Tramo 4
 
-y hasta 60 UF
+Organización
 
-UF
-
-Organización de
-
-la Demanda y
+de la Demanda y 2 2,5 2,5 3
 
 Postulación de
 
-Proyectos 2 2,5 3
+Proyectos
 
 Gestión de
 
-Proyectos e
+Proyectos e 3,5 4 4 4,5
 
 Inspección
 
-Técnica de Obras 3,5 4 4,5
+Técnica de Obras
 
-B. Proyectos de Habitabilidad de la Vivienda:
+B. Proyectos de Habitabilidad de la Vivienda y para Obras de Innovaciones de Eficiencia Energética:
 
-Tramo 1 Tramo 2 Tramo 3
+Tramos de Subsidio Título II PPPF
 
-Subsidio de Subsidio de Subsidio de
+Subsidios Subsidios Subsidios Subsidios
 
-hasta 50 UF más de 50 UF mas de 60
+Tramo 1 Tramo 2 Tramo 3 Tramo 4
 
-y hasta 60 UF
+Organización
 
-UF
-
-Organización de
-
-la Demanda y
-
-Postulación de
-
-Proyectos 1,5 2,0 2,5
-
-Gestión de
-
-Proyectos e
-
-Inspección
-
-Técnica de Obras 3,0 3,5 4,0
-
-C. Proyectos de Mantención de la Vivienda:
-
-Tramo 1 Tramo 2 Tramo 3
-
-Subsidio de Subsidio de Subsidio de
-
-hasta 50 UF más de 50 UF mas de 60
-
-y hasta 60 UF
-
-UF
-
-Organización de
-
-la Demanda y
-
-Postulación de
-
-Proyectos 1,0 1,5 2,0
-
-Gestión de
-
-Proyectos e
-
-Inspección
-
-Técnica de Obras 2,5 3,0 3,5
-
-D. Proyectos de Mejoramiento de Bienes Comunes Edificados: Se pagará de acuerdo a los montos indicados en las tablas de las letras A, B y C precedentes, siempre que correspondan a bienes comunes edificados, conforme a lo señalado en el punto b.4) del artículo 8º del D.S. Nº255 (V. y U.), de 2006.
-
-Tratándose de Proyectos de Mejoramiento de la Vivienda que postulan a más de alguna de las tipologías señaladas con las letras A, B, C y/o D precedentes, se pagará una sola vez por las áreas Organización de la Demanda y Postulación de Proyectos y Gestión de Proyecto e Inspección Técnica de Obras, considerando el mayor precio asignado a estas áreas en las correspondientes tipologías.
-
-## Título III — Ampliación de la Vivienda
-
-Para subsidios correspondientes a viviendas de menos de 12 m²
-
-Tramo 1 Tramo 2 Tramo 3
-
-Subsidio de Subsidio de Subsidio de
-
-hasta 50 UF más de 150 mas de 180
-
-UF y hasta UF
-
-180 UF
-
-Organización de
-
-la Demanda y
-
-Postulación de
-
-Proyectos 3 3 4
-
-Gestión de
-
-Proyectos e
-
-Inspección
-
-Técnica de Obras 5 6 6
-
-Para subsidios correspondientes a viviendas entre 12 y 28 m² (1)
-
-Tramo 1 Tramo 2 Tramo 3
-
-Subsidio de Subsidio de Subsidio de
-
-acuerdo a acuerdo a acuerdo a
-
-fórmula fórmulas fórmula
-
-195-3,75 xm² 205-3,75 xm² 225-3,75 xm²
-
-Vivienda Vivienda y Vivienda
-
-240-3,75 xm²
-
-Vivienda
-
-Organización de
-
-La Demanda y
+de la Demanda y 1,5 2 2 2,5
 
 Postulación
 
-de Proyectos 3 3 4
+de Proyectos
 
 Gestión de
 
-Proyectos e
+Proyectos e 3 3,5 3,5 4
 
 Inspección
 
-Técnica de
+Técnica de Obras
 
-Obras 5 6 6
+C. Proyectos de Mantención de la Vivienda:
 
-(1) Se aplican fórmulas indicadas en el artículo 7º del D.S. Nº255, V. y U. de 2006.
+Tramos de Subsidio Título II PPPF
 
-Para subsidios correspondientes a viviendas de más de 28 m²
+Subsidios Subsidios Subsidios Subsidios
 
-Tramo 1 Tramo 2 Tramo 3
+Tramo 1 Tramo 2 Tramo 3 Tramo 4
 
-Subsidio de Subsidio de Subsidio de
+Organización
 
-hasta 50 UF más de 150 mas de 180
+de la Demanda y 1 1,5 1,5 2
 
-UF y hasta UF
+Postulación
 
-180 UF
-
-Organización de
-
-la Demanda y
-
-Postulación de
-
-Proyectos 3 3 4
+de Proyectos
 
 Gestión de
 
-Proyectos e
+Proyectos e 2,5 3 3 3,5
 
 Inspección
 
-Técnica de Obras 5 6 6
+Técnica de Obras
+
+D. Proyectos de Mejoramiento de Bienes Comunes Edificados: Los honorarios a pagar se determinarán de acuerdo a los montos indicados en las tablas de las letras A, B y C precedentes, siempre que correspondan a bienes comunes edificados, conforme a lo señalado en el punto b.4) del artículo 5º del DS Nº 255 (V. y U.), de 2006.
+
+Tratándose de Proyectos de Mejoramiento de la Vivienda que postulan a más de una de las tipologías señaladas en las letras A, B, C y D precedentes, los honorarios correspondientes a las áreas Organización de la Demanda y Postulación de Proyectos y Gestión de Proyecto e Inspección Técnica de Obras, se pagarán una sola vez, considerando el mayor honorario asignado a estas áreas en las correspondientes tipologías.
+
+## Título III — Ampliación de la Vivienda.
+
+Tramos de Subsidio Título III PPPF
+
+Subsidios Subsidios Subsidios Subsidios
+
+Tramo 1 Tramo 2 Tramo 3 Tramo 4
+
+Organización
+
+de la Demanda y 3 3 3 4
+
+Postulación
+
+de Proyectos
+
+Gestión de
+
+Proyectos e 5 6 6 6
+
+Inspección
+
+Técnica de Obras
 
 56.- De los honorarios a pagar por el Plan de Habilitación Social.
 
@@ -940,7 +830,7 @@ Beneficiarios Beneficiarios
 
 Plan de
 
-Habilitación Social 1,5 1
+Habilitación Social 1 0,5
 
 Para determinar el valor a pagar por familia respecto del área Plan de Habilitación Social, se sumará el monto correspondiente a cada tramo de tamaño del proyecto respectivo, agregando al monto que corresponde al primer tramo el correspondiente al segundo tramo, cuando corresponda.
 
@@ -955,6 +845,36 @@ Para determinar el valor a pagar por familia respecto del área Plan de Habilita
 De las facultades del SERVIU antes mencionadas, se dejará constancia tanto en el contrato que suscriba el Prestador PPPF o el Municipio con el o los beneficiarios, como en el correspondiente contrato de construcción.
 
 El SERVIU podrá actuar como Prestador PPPF, en los casos en que exista imposibilidad total o transitoria para contratar estos servicios con un Prestador PPPF o con el Municipio.
+
+58. Tratándose de proyectos a los que se refiere el Capítulo Segundo del DS Nº 255 (V. y U.), de 2006, destinados a prestar atención a grupos organizados de copropietarios de Condominios de Viviendas Sociales, las áreas de asistencia técnica y social que deberá brindar el Prestador de Servicios de Asistencia Técnica o la Municipalidad serán las siguientes:
+
+- Organización de la Demanda, Formalización del Condominio y Postulación de Proyectos.
+
+- Gestión de Proyectos e Inspección Técnica de Obras.
+
+- Elaboración y Ejecución del Plan de Habilitación Social.
+
+58.1. La Organización de la Demanda, Formalización del Condominio y Postulación de Proyectos, comprenderá además de las labores señaladas en el número 52.1 del artículo 6º de esta resolución, las siguientes:
+
+- Organización de las familias para la realización de la Asamblea de Copropietarios.
+
+- Redacción del Reglamento de Copropiedad y su aprobación por la Asamblea.
+
+- Realización de trámites para la reducción a escritura pública del correspondiente Reglamento de Copropiedad y para su inscripción en el Conservador de Bienes Raíces.
+
+- Asesorar a la Asamblea de Copropietarios en el nombramiento del Comité de Administración y del Administrador del Condominio, levantando el Acta de la Asamblea correspondiente.
+
+58.2. El Área de Gestión de Proyectos e Inspección Técnica de Obras comprenderá las labores señaladas en el número 52.2 del artículo 6º.
+
+58.3. El Área de Elaboración y Ejecución del Plan de Habilitación Social comprenderá las labores y actividades descritas en el artículo 23 ter. del D.S. 1 Nº 255 (V. y U.), de 2006, debiendo la realización efectiva de éstas ajustarse a lo indicado en el número 52.3 del artículo 6º de esta resolución.
+
+Los honorarios a pagar al Prestador de Servicios de Asistencia Técnica o a la Municipalidad por las labores efectivamente desempeñadas, correspondientes al área de Organización de la Demanda, Formalización del Condominio y Postulación de Proyectos, serán los señalados en las tablas insertas en el número 55 del artículo 6º de esta resolución, incrementados en 0,5 U.F. por cada familia, siempre que hubiere desarrollado efectivamente las tareas correspondientes a Formalización del Condominio.
+
+Respecto de las áreas de Gestión de Proyectos e Inspección Técnica de Obras y Elaboración y Ejecución del Plan de Habilitación Social, se estará a los honorarios indicados en los números 55 y 56 del artículo 6º de esta resolución, sin que proceda incremento de dichos montos por ningún concepto.
+
+Tratándose de Proyectos que postulan a más de uno de los Títulos que contempla el D.S. Nº 255 (V. y U.), de 2006, y/o a más de una de las tipologías que considera el Título II de dicho reglamento, por las áreas Organización de la Demanda, Formalización del Condominio, Postulación de Proyectos, Gestión de Proyectos e Inspección Técnica de Obras, se pagará una sola vez considerando el mayor honorario asignado a estas áreas.
+
+El pago de los honorarios por estos servicios procederá en la misma oportunidad y de la misma manera dispuesta en esta resolución para los proyectos correspondientes a los Títulos I, II y III del DS Nº 255 (V. y U.), de 2006.
 
 Anótese, tómese razón y publíquese.- Sergio Henríquez Díaz, Ministro de Vivienda y Urbanismo.
 
