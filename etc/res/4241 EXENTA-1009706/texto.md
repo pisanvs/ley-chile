@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.241, de 21 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 207103017 presentada por CULTIVOS MARINOS CHILOÉ S.A., para el centro de cultivo ubicado en estero Butatique, Isla Butachauques, X Región, otorgado por DS Nº 542 de 1993, del Ministerio de Defensa Nacional.
+
+Valparaíso, 21 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
