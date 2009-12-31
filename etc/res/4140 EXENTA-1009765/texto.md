@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.140, de 15 de diciembre de 2009, de esta Subsecretaría, autorízase a SOCIEDAD IMPORTADORA Y EXPORTADORA ESPERANZA CHILE LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar planta en localidad de Bellavista s/n, Monte Patria, IV Región, para elaborar en las líneas Alga seca y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 15 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
