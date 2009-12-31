@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.152, de 15 de diciembre de 2009, de esta Subsecretaría, autorízase a MARINE GEL ANTARTIC S.A., para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Capitanía Nº 75, sector Bahía Chilota, Porvenir, XII Región, para elaborar en líneas de proceso Alga seca y Extracto de algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
