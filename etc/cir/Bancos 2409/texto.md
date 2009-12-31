@@ -3690,8 +3690,6 @@ Los anuncios de disminución de tasas de interés o aumentos de comisiones de qu
 
 Los bancos que cobren comisiones o que establezcan montos mínimos de depósitos, deberán indicar dichas condiciones en todo aviso con fines publicitarios referidos a sus cuentas de ahorro a plazo.
 
-En toda publicidad que comprenda cuentas de ahorro con pago de reajustes, se indicará la periodicidad en que se abonan los reajustes, esto es, si trimestral o anualmente, o cuáles son los requisitos que se exigen para pactar una periodicidad trimestral en caso que se ofrezcan alternativamente ambas modalidades.
-
 Si la publicidad se refiere exclusivamente a cuentas de ahorro sin libreta, deberá señalarse expresamente que se trata de una "Cuenta de ahorro sin libreta".
 
 En caso de que el banco ofrezca cuentas de ahorro con seguros asociados, se indicará que la contratación de tales seguros es completamente voluntaria.
@@ -5136,7 +5134,7 @@ TARJETAS DE DÉBITO.
 
 ### 1. Emisión y operación de tarjetas de débito
 
-De conformidad con lo dispuesto en el Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile, las tarjetas de débito sólo pueden ser emitidas por bancos establecidos en el país.
+De conformidad con lo dispuesto en el Capítulo III.J.2 del Compendio de Normas Financieras del Banco Central de Chile, las tarjetas de débito sólo pueden ser emitidas por bancos y cooperativas de ahorro y crédito fiscalizados por esta Superintendencia.
 
 Según esas normas, se entiende por "tarjeta de débito", cualquiera tarjeta u otro documento que identifica a su titular con su emisor y que "sea utilizada como instrumento de pago en la red de establecimientos afiliados al sistema que cuenten con dispositivos electrónicos que operen con captura en línea de las transacciones y que los montos correspondientes sean debitados inmediatamente en la cuenta del Titular y acreditados en la cuenta del beneficiario, sólo si dichas transacciones son autorizadas y existen fondos suficientes". Podrán girarse con tarjetas de débito las cuentas corrientes bancarias, las cuentas de ahorro a la vista y las demás cuentas a la vista tratadas, respectivamente, en los Capítulos 2-2, 2-4 y 2-6 de esta Recopilación Actualizada de Normas.
 
