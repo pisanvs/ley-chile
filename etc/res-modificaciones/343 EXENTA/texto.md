@@ -1,0 +1,21 @@
+MODIFICA CALENDARIO DE LAS RESOLUCIONES EXENTAS Nº 124, DE 2006 Y Nº 288, DE 2009
+
+Núm. 343 exenta.- Concepción, 7 de diciembre de 2009.- Visto: Lo dispuesto en el artículo 1° de la Constitución Política de la República de Chile; la Ley N° 18.059; los artículos 107º y 113º del D.F.L. N° 1 de 2007, que fijó el texto refundido, coordinado y sistematizado de la Ley de Tránsito, publicada en el Diario Oficial el 29 de octubre de 2009; el decreto supremo Nº 255 del año 1981, del Ministerio de Transportes y Telecomunicaciones; las resoluciones Nº 59, de 1985 y Nº 39, de 1992, todas del Ministerio antes señalado; la resolución exenta Nº 124, de 7 de junio de 2006, modificada por las resoluciones exentas Nº 02, Nº 54 y Nº 73, todas del 2007, resolución exenta N° 86 de 2008, la resolución exenta N° 84 de 2009 y la resolución exenta N° 288 de 2009, todas de esta Secretaría Regional Ministerial; la Minuta de Evaluación de la Reducción de Frecuencia del Transporte Público en Concepción de octubre de 2009, elaborada por Sectra Área Sur y la carta de 26 de octubre de 2009 emanada de la Asociación Provincial de Taxis Colectivos Aprotac A.G. Concepción con propuesta de calendario de restricción vehicular.
+
+Considerando:
+
+1.- Que, de conformidad a lo dispuesto en el artículo 118 de la Ley N° 18.290, de Tránsito, actualmente artículo 113 del D.F.L. N° 1 que fijó el texto refundido, coordinado y sistematizado de la Ley de Tránsito y mediante la resolución exenta N°124 de 2006, de esta Secretaría Regional Ministerial, se prohibió la circulación de taxis colectivos en las vías públicas de la comuna de Concepción que conforman el área constituida por la línea poligonal cerrada formada por la siguientes vías: Paicaví (desde Avenida Jorge Alessandri) - Bulnes - Janequeo - Los Carrera - Lientur - Las Heras - Fresia - Los Carrera - Irarrázabal - Lientur - Roosevelt - Chacabuco - Lincoyán - Víctor Lamas - Esmeralda - Costanera - Zañartu - Avenida Arturo Prat - 21 de Mayo - Avenida Jorge Alessandri (hasta Paicaví).
+
+2.- Que, la resolución exenta N° 124, de 7 de junio de 2006, ha sido modificada y prorrogada sucesivamente por las resoluciones exentas Nº 02, Nº 54 y Nº 73, todas del 2007, resolución exenta Nº 86 de 2008, la resolución exenta N° 84 de 2009 y la resolución exenta N° 288 de 2009, todas de esta Secretaría Regional Ministerial, quedando la prohibición de la circulación de taxis colectivos en las vías públicas de la comuna de Concepción que conforman el área indicada precedentemente hasta el 4 de septiembre de 2010, inclusive.
+
+3.- Que, mediante carta de 26 de octubre de 2009, emanada de la Asociación Provincial de Taxis Colectivos Aprotac A.G. Concepción, acompaña una propuesta de calendario de restricción vehicular en la cual realizan una serie de ajustes a los dígitos originalmente fijados por la resolución exenta N° 288 de 2009, especialmente en lo referido a distorsiones ocasionadas por los días feriados.
+
+4.- Que, analizada por esta Autoridad Regional la propuesta de calendarización de restricción vehicular de la asociación gremial referida de taxis colectivos y no existiendo perjuicio a interesados, toda vez que las variaciones se producirán en fechas que no han acaecido aún, por lo que resulta aceptable la misma,
+
+Resuelvo:
+
+1.- Modifíquese el calendario de restricción vehicular establecido en el numeral 1° de la resolución exenta N° 124 de 2006 y en la resolución exenta Nº 288, de fecha 30 de octubre de 2009, de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, por el siguiente:
+
+2.- La presente resolución entrará en vigencia a partir de la fecha de su publicación en el Diario Oficial. En todo lo demás se mantiene vigente la resolución exenta N° 124 de 2006, modificada por la resolución exenta N° 288 de 2009, ambas de esta Secretaría Regional Ministerial.
+
+Anótese, comuníquese y publíquese.- Hugo Cautivo Baltierra, Secretario Regional Ministerial Transportes y Telecomunicaciones Región del Bío Bío.
