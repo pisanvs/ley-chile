@@ -50,11 +50,11 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Arcada, Arquería»: conjunto o serie de arcos de una construcción.
 
-«Area de extensión urbana»: área territorial establecida en los Instrumentos de Planificación Territorial destinada a la extensión del área urbana.
+«Area de extensión urbana»: superficie del territorio ubicada al interior del límite urbano, destinada al crecimiento urbano proyectado por el plan regulador intercomunal.
 
-«Area rural»: área territorial establecida en los Instrumentos de Planificación Territorial que está fuera de los límites urbanos o de extensión urbana en su caso.
+«Area rural»: territorio ubicado fuera del límite urbano.
 
-«Area urbana»: área territorial destinada a acoger usos urbanos, comprendida dentro de los límites urbanos establecidos por los Instrumentos de Planificación Territorial.
+«Area urbana»: superficie del territorio ubicada al interior del límite urbano, destinada al desarrollo armónico de los centros poblados y sus actividades existentes y proyectadas por el instrumento de planificación territorial.
 
 «Area verde»: superficie de terreno destinada preferentemente al esparcimiento o circulación peatonal, conformada generalmente por especies vegetales y otros elementos complementarios.
 
@@ -140,7 +140,7 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Distanciamiento»: distancia horizontal mínima entre un deslinde y el punto más cercano de una edificación.
 
-«Ducto» (Shaft): conducto técnico generalmente destinado a contener las instalaciones de un edificio.
+«Ducto» (Shaft) : conducto técnico generalmente destinado a contener las instalaciones de un edificio.
 
 «Edificación aislada»: la separada de los deslindes, emplazada por lo menos a las distancias resultantes de la aplicación de las normas sobre rasantes y distanciamientos que se determinen en el instrumento de planificación territorial o, en su defecto, las que establece la presente Ordenanza.
 
@@ -164,7 +164,9 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Edificio de oficinas»: el conformado por recintos destinados a la prestación de servicios profesionales, administrativos, financieros, de seguros, intermediación de intangibles y otros análogos.
 
-«Edificio de uso público»: aquel en donde se reúne o atiende habitualmente un gran número de personas, tales como: oficinas públicas, bancos, estadios, cines, centros comerciales, supermercados y otros análogos.
+«Edificio de uso público»: aquel con destino de equipamiento cuya carga de ocupación total, es superior
+
+a 100 personas.
 
 «Edificio industrial»: aquel en donde se fabrican o elaboran productos industriales.
 
@@ -210,15 +212,17 @@ Al Ministerio de Vivienda y Urbanismo le corresponde estudiar las modificaciones
 
 «Inmueble de conservación histórica»: el individualizado como tal en un Instrumento de Planificación Territorial dadas sus características arquitectónicas, históricas o de valor cultural, que no cuenta con declaratoria de Monumento Nacional.
 
-«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente.
-
-Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
+«Inspector técnico»: profesional competente, independiente del constructor, que fiscaliza que las obras se ejecuten conforme a las normas de construcción que le sean aplicables y al permiso de construcción aprobado. Se entenderá también como tal, la persona jurídica en cuyo objeto social esté comprendido el servicio de fiscalización de obras y que para estos efectos actúe a través de un profesional competente. Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terceros, podrá el inspector fiscal desempeñarse como inspector técnico.
 
 «Instalación de publicidad»: todo elemento publicitario ubicado en la vía pública o que pueda ser visto u oído desde la misma.
 
 «Instrumento de Planificación Territorial»: vocablo referido genérica e indistintamente al Plan Regional de Desarrollo Urbano, al Plan Regulador Intercomunal o Metropolitano, al Plan Regulador Comunal, al Plan Seccional y al Límite Urbano.
 
 «Libro de Obras»: documento con páginas numeradas que forma parte del expediente oficial de la obra y que se mantiene en ésta durante su desarrollo, en el cual se consignan las instrucciones y observaciones a la obra formuladas por los profesionales competentes, los instaladores autorizados, el inspector técnico, el revisor independiente cuando corresponda, y los inspectores de la Dirección de Obras Municipales o de los Organismos que autorizan las instalaciones.
+
+«Límite urbano»: línea imaginaria que delimita las áreas urbanas y de extensión urbana establecidas en los instrumentos de planificación territorial, diferenciándolos del resto del área comunal.
+
+«Límite de extensión urbana»: línea imaginaria que determina la superficie máxima destinada al crecimiento urbano proyectado por el plan regulador intercomunal.
 
 «Línea de edificación»: la señalada en el instrumento de planificación territorial, a partir de la cual se podrá levantar la edificación en un predio.
 
@@ -453,8 +457,6 @@ Tratándose de construcciones que ejecuta el Estado, por cuenta propia o de terc
 «Zona vertical de seguridad»: vía vertical de evacuación protegida de los efectos del fuego que, desde cualquier nivel hasta el de salida, permite a los usuarios evacuar el edificio sin ser afectados por el fuego, humo o gases.
 
 Las definiciones de los vocablos contenidos en este artículo prevalecerán sobre toda otra que contengan los Instrumentos de Planificación Territorial relativas a la misma materia.
-
-> **Nota.** NOTA 2 El artículo primero transitorio del Decreto 115, Vivienda, publicado el 03.08.2002, dispuso que las modificaciones introducidas a la presente norma regirán una vez transcurridos 180 días de su publicación.
 
 #### Artículo 1
 
@@ -1600,9 +1602,13 @@ En las áreas rurales la superficie predial mínima será la que determine el re
 
 1.21. En los casos que un predio quede afecto a dos o más zonas o subzonas, de uno o más Instrumentos de Planificación Territorial, las disposiciones establecidas en éstos deberán cumplirse en cada una de dichas zonas, con excepción de las normas sobre densidad, coeficiente de constructibilidad, de ocupación de suelo y de ocupación de los pisos superiores, las cuales, luego de calculadas para cada zona por separado, podrán promediarse para el predio en su conjunto, para luego distribuirse según determine el arquitecto autor del proyecto, respetando en todo caso las alturas máximas permitidas para cada zona. En caso que en una de las zonas o subzonas las normas señaladas en este inciso no tuvieren limitación, no podrán promediarse para el resto del predio.
 
-Si al predio de que trata el inciso anterior lo afectaren dos o más zonas o subzonas con distintos usos de suelo, se admitirán todos los que le permita su frente a la calle de mayor ancho o los que le permita la zona que afecte a dos tercios o más de la superficie del terreno, salvo que alguno de los destinos tuviere restricción expresa indicada en el Instrumento de Planificación Territorial o que se trate de los usos Actividades Productivas o Infraestructura. En todo caso, los accesos a cada destino deben contemplarse por la vía que enfrenta la zona o subzona que los admite.
+Si al predio de que trata el inciso anterior lo afectaren dos o más zonas o subzonas con distintos usos de suelo, se admitirán todos los que le permita su frente a la calle de mayor ancho o los que le permita la zona que afecte a dos tercios o más de la superficie del terreno, salvo que alguno de los destinos tuviere restricción expresa indicada en el instrumento de planificación territorial o que se trate de los usos de Infraestructura y/o de Actividades Productivas, circunstancia estas últimas en que se aplicará lo dispuesto en el inciso siguiente. En todo caso, los accesos a cada destino deben contemplarse por la vía que enfrenta la zona o subzona que los admite.
+
+Si del predio afecto a dos o más zonas o subzonas con distintos usos de suelo, al menos el 30% de su superficie permite los usos de suelo de actividades productivas y/o infraestructura, se admitirá en todo el terreno dicho uso de suelo, debiendo observarse lo señalado en el inciso precedente en lo relativo a los accesos a cada destino. Con todo, el instrumento de planificación territorial que corresponda podrá prohibir la aplicación de este inciso dentro de su territorio.
 
 Asimismo, si el citado predio estuviere afecto por el Instrumento de Planificación Territorial a prolongaciones o nuevas calles que lo dividieran en porciones, las normas señaladas en el inciso primero podrán calcularse sobre la superficie total del predio descontando las áreas afectas, para luego distribuirlas en los saldos prediales según determine el arquitecto autor del proyecto, sin perjuicio de las cesiones que correspondan conforme al artículo 70 de la Ley General de Urbanismo y Construcciones.
+
+Lo dispuesto en este artículo es sin desmedro de la aplicación, cuando corresponda, del artículo 55° de la Ley General de Urbanismo y Construcciones.
 
 #### Artículo 2
 
@@ -1665,6 +1671,8 @@ Los Planos Reguladores Comunales podrán establecer porcentajes distintos para t
 1.28. El tipo de uso Actividades Productivas comprende a todo tipo de industrias y aquellas instalaciones de impacto similar al industrial, tales como grandes depósitos, talleres o bodegas industriales. El Instrumento de Planificación Territorial podrá establecer limitaciones a su instalación, sin perjuicio del cumplimiento de las normas ambientales y demás disposiciones pertinentes.
 
 Las actividades productivas señaladas en el inciso anterior pueden ser calificadas como inofensivas, molestas, insalubres, contaminantes o peligrosas por la Secretaría Regional Ministerial de Salud correspondiente. Sin embargo, las que cuenten con calificación de dicha Secretaría Regional Ministerial como actividad inofensiva podrán asimilarse al uso de suelo Equipamiento de clase comercio o servicios, previa autorización del Director de Obras Municipales cuando se acredite que no producirán molestias al vecindario.
+
+En aquellos casos en que el instrumento de planificación territorial permita la actividad de industria, estará siempre admitido el emplazamiento de las instalaciones o edificaciones destinadas a infraestructura que sean calificadas conforme al artículo 4.14.2. de esta Ordenanza, en forma idéntica o con menor riesgo al de la actividad permitida. Con todo, el instrumento de planificación territorial que corresponda podrá prohibir la aplicación de este inciso dentro de su territorio.
 
 #### Artículo 2
 
@@ -1768,11 +1776,7 @@ Ministerial de Salud respectiva, de conformidad a
 
 lo preceptuado en el artículo 4.14.2. de esta
 
-Ordenanza, y aquellas que sean calificadas como
-
-contaminantes y/o peligrosas deberán localizarse
-
-fuera de los límites urbanos.
+Ordenanza.
 
 Las instalaciones o edificaciones de
 
@@ -2384,29 +2388,25 @@ Las ciclovías serán permitidas en todas las vías existentes, debiendo ubicars
 
 3.3. Las vías de uso público para la circulación peatonal, se definirán considerando las siguientes características:
 
-1. Pasajes en general. Están destinados a la circulación de peatones y al tránsito eventual de vehículos. Su longitud máxima entre vías de circulación vehicular permanente es de 200 m, o de 100 m cuando sólo tienen acceso a una de ellas. Consultan un ancho de al menos 8 m entre líneas oficiales, con una faja pavimentada de un ancho no inferior a 3,5 m y antejardines de al menos 2 m de ancho, salvo cuando tienen un ancho de 10 m o más entre líneas oficiales.
+1. Pasajes en general. Están destinados a la circulación de peatones y al tránsito eventual de vehículos.
 
-Los pasajes sin salida consultarán, en el extremo opuesto a su empalme con la vía, un área pavimentada que permite el giro de vehículos livianos. Cuando su longitud sea inferior a 50 m tendrán un ancho no menor a 6 m entre líneas oficiales con una faja pavimentada de al menos 3 m.
+Para que una vía sea considerada como pasaje, deberá tener un ancho no inferior a 8 metros ni superior a 11 metros, medidos entre líneas oficiales, debiendo cumplir con las siguientes condiciones:
 
-Los pasajes no podrán consultar acceso vehicular a edificios colectivos de más de tres pisos de altura.
+Los pasajes sin salida corresponden a aquellos a los cuales se accede sólo por uno de sus extremos desde una vía de circulación vehicular continua y contemplan en el otro extremo una área pavimentada que permita el giro en 180º de vehículos, incluidos los de emergencia, cuyo radio interior no sea inferior a 6 metros.
 
-ELIMINADO.
+Los pasajes con salida corresponden a aquellos en que por ambos extremos se accede a vías de circulación vehicular continua.
 
-La longitud de los pasajes se medirá en su eje, a partir de la línea oficial de la calle que les da acceso.
+Con todo, los pasajes no podrán considerarse como acceso para los usos de suelo de infraestructura, actividades productivas, equipamiento y residencial, con excepción del destino de vivienda. En este último caso los pasajes no podrán servir de acceso exclusivo a viviendas que excedan los dos pisos de altura más mansarda.
 
-La distancia desde el acceso a cualquier predio hasta la vía de circulación vehicular más próxima, no podrá ser superior a 100 m.
-
-Los pasajes peatonales exclusivos no deben constituirse como único acceso a las viviendas, salvo casos excepcionales.
-
-También como excepción, en los casos de construcciones interiores, los pasajes deben tener un ancho de hasta 3 m, o de hasta 2,5 m cuando sirven sólo a una vivienda interior.
-
-También como excepción, los pasajes podrán tener un ancho de hasta 3 m en los casos que sirvan hasta 3 viviendas interiores, y de hasta 2,5 m, cuando sirven sólo a una vivienda interior.
+Los pasajes peatonales exclusivos no podrán constituir el único acceso a las viviendas, salvo en los casos en que no existan vías públicas que le den acceso.
 
 2. Pasajes en pendiente elevada: Son vías de uso público exclusivamente para la circulación peatonal ejecutadas en terrenos de pendiente promedio superior a 20%. Deben tener un ancho entre líneas oficiales no inferior a 4 m, con una faja pavimentada de un ancho no menor a 1,2 m dispuesta como escala, rampa o combinación de ambas.
 
 Deben tener pendientes no superiores a 60% para el caso de escaleras y de hasta 15% para las rampas.
 
 Donde se requiere encauzar aguas lluvias se deberá consultar badenes longitudinales para su encauzamiento.
+
+> **Nota.** El artículo transitorio del Decreto 10, Vivienda, publicado el 23.05.2009, establece que las modificaciones introducidas a la presente norma comenzarán a regir una vez transcurridos 180 días contados desde su publicación.
 
 #### Artículo 2
 
