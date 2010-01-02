@@ -3426,7 +3426,7 @@ Los accionistas sólo serán responsables hasta el monto de sus respectivos apor
 
 <!-- parte:8725202 -->
 
-La sociedad por acciones que durante más de 90 días seguidos reúna los requisitos de los números 1) ó 2) del inciso segundo del artículo 2° de la ley N° 18.046, por el solo ministerio de la ley se transformará en una sociedad anónima abierta, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+La sociedad por acciones que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
 
 #### Artículo 431
 
@@ -3550,147 +3550,165 @@ El estatuto establecerá los medios de comunicación entre la sociedad o los acc
 
 En los traspasos de acciones deberá constar la declaración del cesionario en el sentido que conoce la normativa legal que regula este tipo social, el estatuto de la sociedad y las protecciones que en ellos puedan o no existir respecto del interés de los accionistas. La omisión de esta declaración no invalidará el traspaso, pero hará responsable al cedente de los perjuicios que ello irrogue.
 
+§ 9. De las Agencias de Sociedades Extranjeras u otras Personas Jurídicas con Fines de Lucro
+
 #### Artículo 447
 
-<!-- parte:8725878 -->
+<!-- parte:8791837 -->
 
-DEROGADO
+Para que una sociedad u otra persona jurídica con fines de lucro extranjera pueda constituir agencia en Chile, su agente o representante deberá protocolizar en una notaría del domicilio que ésta tendrá en Chile, en el idioma oficial del país de origen, traducidos al español si no estuvieren en ese idioma, los siguientes documentos emanados del país en que se haya constituido, debidamente legalizados:
+
+1) Los antecedentes que acrediten que se encuentra legalmente constituida de acuerdo a la ley del país de origen y un certificado de vigencia de la entidad;
+
+2) Copia auténtica de los estatutos vigentes, y
+
+3) Un poder general otorgado por la entidad al agente que ha de representarla en el país, en el que consten la personería del mandante y se exprese en forma clara y precisa que el agente obra en Chile bajo la responsabilidad directa de la entidad, con amplias facultades para ejecutar operaciones en su nombre y en que se le otorguen expresamente las facultades a que se refiere el inciso segundo del artículo 7° del Código de Procedimiento Civil.
 
 #### Artículo 448
 
-<!-- parte:8725879 -->
+<!-- parte:8791841 -->
 
-DEROGADO
+Por escritura pública de la misma fecha y ante el mismo notario ante el cual se efectúe la protocolización a que se refiere el artículo anterior, el agente deberá declarar a nombre de la entidad y con poder suficiente para ello:
+
+1) El nombre con que la entidad funcionará en Chile y el objeto u objetos de ella;
+
+2) Que la entidad conoce la legislación chilena y los reglamentos por los cuales habrán de regirse en el país, sus agencias, actos, contratos y obligaciones;
+
+3) Que los bienes de la entidad quedan afectos a las leyes chilenas, especialmente para responder de las obligaciones que ella haya de cumplir en Chile;
+
+4) Que la entidad se obliga a mantener en Chile bienes de fácil realización para atender a las obligaciones que hayan de cumplirse en el país;
+
+5) Cuál es el capital efectivo que va a tener en el país para el giro de sus operaciones y la fecha y forma en que éste ha de ingresar en la caja de la agencia en Chile, y
+
+6) Cuál es el domicilio de la agencia principal.
 
 #### Artículo 449
 
-<!-- parte:8725880 -->
+<!-- parte:8791842 -->
 
-DEROGADO
+Un extracto de la protocolización y de la escritura a que se refieren los artículos precedentes, debidamente certificado por el notario respectivo, en que conste la fecha y número de la protocolización y de la escritura antes mencionada; el nombre de la entidad y aquel con que funcionará en Chile; el domicilio que tendrá en el país; el capital de la agencia y el nombre del agente o representante, deberá inscribirse en el Registro de Comercio correspondiente al domicilio de la agencia principal y publicarse, por una sola vez en el Diario Oficial; todo ello, dentro de los 60 días contados desde la fecha de la protocolización.
 
 #### Artículo 450
 
-<!-- parte:8725881 -->
+<!-- parte:8791843 -->
 
-DEROGADO
+El agente deberá cumplir con las mismas formalidades señaladas en los artículos anteriores de este título, respecto de cualquiera modificación que se produzca en relación con los documentos o declaraciones a que estas disposiciones se refieren, excepto la mencionada en el número 4) del artículo 448. El agente deberá publicar el balance anual de la agencia en un diario del domicilio de ésta, dentro del cuatrimestre siguiente a la fecha del cierre del ejercicio.
 
 #### Artículo 451
 
-<!-- parte:8725882 -->
+<!-- parte:8791844 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 452
 
-<!-- parte:8725883 -->
+<!-- parte:8791845 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 453
 
-<!-- parte:8725884 -->
+<!-- parte:8791846 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 454
 
-<!-- parte:8725885 -->
+<!-- parte:8791847 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 455
 
-<!-- parte:8725886 -->
+<!-- parte:8791848 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 456
 
-<!-- parte:8725887 -->
+<!-- parte:8791849 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 457
 
-<!-- parte:8725888 -->
+<!-- parte:8791850 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 458
 
-<!-- parte:8725889 -->
+<!-- parte:8791851 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 459
 
-<!-- parte:8725890 -->
+<!-- parte:8791852 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 460
 
-<!-- parte:8725891 -->
+<!-- parte:8791853 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 461
 
-<!-- parte:8725892 -->
+<!-- parte:8791854 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 462
 
-<!-- parte:8725893 -->
+<!-- parte:8791855 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 463
 
-<!-- parte:8725894 -->
+<!-- parte:8791856 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 464
 
-<!-- parte:8725895 -->
+<!-- parte:8791857 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 465
 
-<!-- parte:8725896 -->
+<!-- parte:8791858 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 466
 
-<!-- parte:8725897 -->
+<!-- parte:8791859 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 467
 
-<!-- parte:8725898 -->
+<!-- parte:8791860 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 468
 
-<!-- parte:8725899 -->
+<!-- parte:8791861 -->
 
-DEROGADO
+Derogado.
 
 #### Artículo 469
 
-<!-- parte:8725900 -->
+<!-- parte:8791862 -->
 
-DEROGADO
+Derogado.
 
-### 9. Disposiciones relativas a la sociedad
-
-en comandita
+### 10. Disposiciones relativas a la sociedad en comandita
 
 #### Artículo 470
 
@@ -3718,7 +3736,7 @@ La comandita simple se forma por la reunión de un fondo suministrado en su tota
 
 La comandita por acciones se constituye por la reunión de un capital dividido en acciones o cupones de acción y suministrado por socios cuyo nombre no figura en la escritura social.
 
-### 10. De la comandita simple
+### 11. De la comandita simple
 
 #### Artículo 474
 
@@ -3842,7 +3860,7 @@ Habiendo uno o más socios comanditarios y muchos colectivos, sea que todos ést
 
 En caso de duda, la sociedad se reputará colectiva.
 
-### 11. De la comandita por acciones
+### 12. De la comandita por acciones
 
 #### Artículo 491
 
@@ -3974,7 +3992,7 @@ Si el pleito versare sobre objetos de interés particular de algunos accionistas
 
 En cualquiera de los dos casos propuestos, los accionistas podrán intervenir personalmente en la causa, a cargo de soportar los gastos de su intervención.
 
-### 12. De la asociación o cuentas en participación
+### 13. De la asociación o cuentas en participación
 
 #### Artículo 507
 
