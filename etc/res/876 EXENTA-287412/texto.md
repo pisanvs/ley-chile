@@ -16,40 +16,6 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución son los siguientes:
 
-Región Recursos (UF)
-
-Arica y Parinacota 263.580
-
-Tarapacá 209.643
-
-Antofagasta 399.108
-
-Atacama 150.026
-
-Coquimbo 202.229
-
-Valparaíso 694.288
-
-O'Higgins 602.199
-
-Maule 74.921
-
-Bío-Bío 1.290.864
-
-Araucanía 17.576
-
-Los Ríos 204.276
-
-Los Lagos 597.400
-
-Aysén 257.462
-
-Magallanes 120.374
-
-Metropolitana 2.114.852
-
-Total País 7.198.798
-
 En cada concurso, el número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obras y el subsidio diferenciado a la localización si corresponde.
 
 3. El puntaje de corte de las familias postulantes, su cálculo y procedimiento será determinado conforme a lo establecido en la resolución exenta N° 7.080 (V. y U.), de 2008.
