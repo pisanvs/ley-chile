@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN EXENTA N° 5.732, DE 26.10.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Primer Cuatrimestre de 2008, se ha asignado a CENTRO CULTURAL EL DESPERTAR DE LAS MUJERES, RUT N° 65.389.840-1, una concesión de Radiodifusión Sonora en Mínima Cobertura para la Comuna de San Bernardo, Región Metropolitana, con las características técnicas siguientes: Potencia máxima de 1 W; frecuencia 94,9 MHz; estudio, planta transmisora y sistema radiante ubicado en O’Higgins N° 948, Depto. 302, Comuna de San Bernardo, Región Metropolitana, coordenadas geográficas 33° 35’ 18" Latitud Sur, 70° 42’ 32" Longitud Oeste (dátum PSAD 1956); sistema radiante direccional con polarización vertical, antena dipolo ½ onda, ganancia máxima de 1,5 dBd y altura del centro de radiación de 6 m; pérdidas en cables, conectores y otras de 6,5 dB (incluye atenuador de 5,0 dB); pérdidas por lóbulo de acuerdo a la siguiente tabla:
+
+VER DIARIO OFICIAL DE 02.01.2010, PÁGINA 30.
+
+Sin perjuicio de la potencia máxima de 1 W autorizada a esta concesión, en cuanto elemento de su esencia, y a fin de cumplir con los requisitos previstos en la letra a) del artículo 3° de la Ley, en particular en lo referido a que la zona de cobertura de este servicio de radiodifusión sonora no debe sobrepasar los límites territoriales de la respectiva comuna, la concesionaria deberá operar con una potencia máxima del transmisor de 1 W, atendidas la actual ubicación de su planta transmisora y demás instalaciones y el conjunto de las restantes características técnicas del sistema radiante autorizadas en la resolución.
+
+Los plazos son: inicio de obras, 30 días; término de obras, 60 días; inicio de servicio, 90 días, computados a partir de la fecha de publicación en el Diario Oficial del Decreto que otorgue la concesión.
+
+Esta publicación se hace según lo dispuesto en los artículos 13°A y 13°B de la ley N° 18.168, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta que se extracta, dentro del plazo de (5) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe División Concesiones.
