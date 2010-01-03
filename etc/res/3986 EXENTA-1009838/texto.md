@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.986, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a PEDRO BALBINO MANSILLA ARTEAGA para iniciar actividades pesqueras de transformación, instalar y operar planta ubicada en sector San Antonio s/nº, Quellón, Chiloé, X Región, en líneas de proceso Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
