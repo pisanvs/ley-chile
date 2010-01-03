@@ -26,11 +26,11 @@ Aduanero
 
 (US$/Ton)
 
-Trigo 1001.9000 Los demás 87,77
+Trigo 1001.9000 Los demás 89,89
 
 Harina de 1101.0000 Harina de
 
-Trigo 136,92
+Trigo 140,23
 
 Trigo o de morcajo
 
