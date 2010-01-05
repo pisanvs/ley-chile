@@ -96,12 +96,6 @@ Podrán utilizar dispositivos luminosos, fijos o giratorios, de luces intermiten
 
 - Vehículos en los que se trasladen a personas que, de acuerdo a un informe de Carabineros de Chile, requieran de protección especial.
 
-- Vehículos utilizados por el Programa de Fiscalización del Ministerio de Transportes y Telecomunicaciones, en las labores de control de tránsito por calles y caminos.
-
-- Vehículos utilizados por la Oficina Nacional de Emergencia (Onemi) que circulen para atender las emergencias, desastres y catástrofes que puedan ocurrir dentro del territorio nacional.
-
-- Vehículos utilizados por el Servicio Médico Legal para el traslado de personas fallecidas.
-
 #### Artículo 9º
 
 Los vehículos motorizados, que en su fabricación hayan sido dotados de luces de circulación diurna podrán utilizarlas.
@@ -150,73 +144,17 @@ Los vidrios de los vehículos livianos, medianos y pesados, definidos en los Dec
 
 #### Artículo 17º
 
-Los dispositivos para casos de emergencia a que se refiere el numeral 7º del artículo 75 del DFL Nº1, de 2007, de los Ministerios de Transportes y Telecomunicaciones y de Justicia, que contiene el texto refundido, coordinado y sistematizado de la ley Nº 18.290, de Tránsito, serán los siguientes y deberán cumplir con los requisitos que en cada caso se indican:
+Los dispositivos para casos de emergencia, dos a lo menos, a que se refiere el artículo 79 número 7 de la Ley Nº 18.290, de Tránsito, deberán cumplir con las siguientes características:
 
-1.- Triángulos.-
+* Tener forma de un triángulo equilátero.
 
-- Deberán ser a lo menos 2 y tener la forma de triángulo equilátero.
+* Ser visibles tanto de día como de noche, por lo que sus lados deberán contar con material que asegure su retrorreflexión.
 
-- Deberán ser visibles tanto de día como de noche, por lo que sus lados deberán contar con material que asegure su retrorreflexión.
+* Ser confeccionados con materiales que en el evento de ser embestidos por un vehículo, no dañen a este último.
 
-- Deberán ser confeccionados con materiales que en el evento de ser embestidos por un vehículo, no dañen a este último.
-
-- Deberán ser estables, de manera tal que su ubicación y posición no se alteren por la vibración y corrientes de aire provocadas por el paso de los demás vehículos.
+* Deberán ser estables, de manera tal que su ubicación y posición no se alteren por la vibración y corrientes de aire provocadas por el paso de los demás vehículos.
 
 Estos dispositivos se colocarán uno por delante y otro por detrás del vehículo, en forma tal que sean visibles por los demás conductores. En vías de sentido único de tránsito o de más de tres pistas de circulación en un mismo sentido, bastará la colocación de un solo dispositivo ubicado detrás del vehículo en la forma antes indicada.
-
-2.- Chaleco de alta visibilidad.-
-
-- Deberá ser confeccionado con material fluorescente, entendiéndose éste como aquel que emite radiación óptica de longitud de onda mayor que la absorbida
-
-- Deberá ser de color amarillo, debiendo el color estar dentro del área definida por las siguientes coordenadas cromáticas:
-
-Coordenadas cromáticas
-
-X y
-
-0,387 0,610
-
-0,356 0,494
-
-0,398 0,452
-
-0,460 0,540
-
-- Deberá contar con bandas de material retrorreflectante de un ancho no inferior a 50 mm, dispuestas según una de las alternativas descritas a continuación:
-
-a) Dos bandas horizontales rodeando el torso, separadas por una distancia mínima de 50 mm, y bandas que unan la banda superior del torso de adelante hacia atrás, pasando por cada hombro. La parte baja de la banda inferior del torso debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
-
-.
-
-Cotas en mm
-
-b) Una banda horizontal que rodee el torso, y bandas que unan aquélla de adelante hacia atrás por sobre cada hombro. La parte baja de la banda del torso debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
-
-.
-
-Cotas en mm
-
-c) Dos bandas horizontales rodeando el torso, separadas por una distancia mínima de 50 mm. La parte baja de la banda inferior debe estar a una distancia mínima de 50 mm del borde inferior del chaleco.
-
-.
-
-Cotas en mm
-
-El material de las bandas retrorreflectantes deberá cumplir con los requisitos mínimos para el coeficiente de retrorreflexión, medido en cd/(lx.m²), de acuerdo a los datos consignados en la siguiente tabla:
-
-Ángulo de Ángulo de iluminación
-
-observación 5º 20º 30º 40º
-
-12' 330 290 180 65
-
-20' 250 200 170 60
-
-1º 25 15 12 10
-
-1º30' 10 7 5 4
-
-El chaleco deberá encontrarse siempre en un lugar del vehículo que sea accsesible desde el interior del mismo.
 
 #### Artículo 18º
 
