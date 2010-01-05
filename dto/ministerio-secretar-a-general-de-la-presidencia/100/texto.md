@@ -68,6 +68,10 @@ El ejercicio de las funciones públicas obliga a sus titulares a dar estricto cu
 
 Son públicos los actos y resoluciones de los órganos del Estado, así como sus fundamentos y los procedimientos que utilicen. Sin embargo, sólo una ley de quórum calificado podrá establecer la reserva o secreto de aquéllos o de éstos, cuando la publicidad afectare el debido cumplimiento de las funciones de dichos órganos, los derechos de las personas, la seguridad de la Nación o el interés nacional.
 
+El Presidente de la República, los Ministros de Estado, los diputados y senadores, y las demás autoridades y funcionarios que una ley orgánica constitucional señale, deberán declarar sus intereses y patrimonio en forma pública.
+
+Dicha ley determinará los casos y las condiciones en que esas autoridades delegarán a terceros la administración de aquellos bienes y obligaciones que supongan conflicto de interés en el ejercicio de su función pública. Asimismo, podrá considerar otras medidas apropiadas para resolverlos y, en situaciones calificadas, disponer la enajenación de todo o parte de esos bienes.
+
 #### Artículo 9º
 
 El terrorismo, en cualquiera de sus formas, es por esencia contrario a los derechos humanos.
@@ -308,25 +312,9 @@ Nadie puede ser obligado a pertenecer a una asociación.
 
 Prohíbense las asociaciones contrarias a la moral, al orden público y a la seguridad del Estado.
 
-Los partidos políticos no podrán intervenir en actividades ajenas a las que les son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el servicio electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.
+Los partidos políticos no podrán intervenir en actividades ajenas a las que les son propias ni tener privilegio alguno o monopolio de la participación ciudadana; la nómina de sus militantes se registrará en el servicio electoral del Estado, el que guardará reserva de la misma, la cual será accesible a los militantes del respectivo partido; su contabilidad deberá ser pública; las fuentes de su financiamiento no podrán provenir de dineros, bienes, donaciones, aportes ni créditos de origen extranjero; sus estatutos deberán contemplar las normas que aseguren una efectiva democracia interna. Una ley orgánica constitucional establecerá un sistema de elecciones primarias que podrá ser utilizado por dichos partidos para la nominación de candidatos a cargos de elección popular, cuyos resultados serán vinculantes para estas colectividades, salvo las excepciones que establezca dicha ley. Aquellos que no resulten elegidos en las elecciones primarias no podrán ser candidatos, en esa elección, al respectivo cargo. Una ley orgánica constitucional regulará las demás materias que les conciernan y las sanciones que se aplicarán por el incumplimiento de sus preceptos, dentro de las cuales podrá considerar su disolución. Las asociaciones, movimientos, organizaciones o grupos de personas que persigan o realicen actividades propias de los partidos políticos sin ajustarse a las normas anteriores son ilícitos y serán sancionados de acuerdo a la referida ley orgánica constitucional.
 
-La Constitución Política garantiza el pluralismo político. Son
-
-inconstitucionales
-
-los partidos,
-
-movimientos u otras
-
-formas de organización
-
-cuyos objetivos, actos
-
-conductas no respeten
-
-los principios básicos
-
-del régimen democrático y constitucional, procuren el establecimiento de un sistema totalitario, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella como método de acción política.
+La Constitución Política garantiza el pluralismo político. Son inconstitucionales los partidos, movimientos u otras formas de organización cuyos objetivos, actos o conductas no respeten los principios básicos del régimen democrático y constitucional, procuren el establecimiento de un sistema totalitario, como asimismo aquellos que hagan uso de la violencia, la propugnen o inciten a ella como método de acción política.
 
 Corresponderá al Tribunal Constitucional declarar esta inconstitucionalidad.
 
@@ -336,9 +324,7 @@ Las personas sancionadas en virtud de este precepto no podrán ser objeto de reh
 
 La duración de las inhabilidades contempladas en dicho inciso se elevará al doble en caso de reincidencia;
 
-16º.- La libertad de
-
-trabajo y su protección.
+16º.- La libertad de trabajo y su protección.
 
 Toda persona tiene derecho a la libre contratación y a la libre elección del trabajo con una justa retribución.
 
@@ -392,13 +378,7 @@ En tal caso, esas actividades estarán sometidas a la legislación común aplica
 
 Sólo en virtud de una ley, y siempre que no signifique tal discriminación, se podrán autorizar determinados beneficios directos o indirectos en favor de algún sector, actividad o zona geográfica, o establecer gravámenes especiales que afecten a uno u otras. En el caso de las franquicias o beneficios indirectos, la estimación del costo de éstos deberá incluirse anualmente en la Ley de Presupuestos;
 
-23º.- La libertad para adquirir el dominio de toda clase de bienes,
-
-excepto aquellos que la
-
-naturaleza ha hecho
-
-comunes a todos los hombres o que deban pertenecer a la Nación toda y la ley lo declare así. Lo anterior es sin perjuicio de lo prescrito en otros preceptos de esta Constitución.
+23º.- La libertad para adquirir el dominio de toda clase de bienes, excepto aquellos que la naturaleza ha hecho comunes a todos los hombres o que deban pertenecer a la Nación toda y la ley lo declare así. Lo anterior es sin perjuicio de lo prescrito en otros preceptos de esta Constitución.
 
 Una ley de quórum calificado y cuando así lo exija el interés nacional puede establecer limitaciones o requisitos para la adquisición del dominio de algunos bienes;
 
@@ -631,6 +611,10 @@ Los Ministros serán responsables individualmente de los actos que firmaren y so
 Los Ministros podrán, cuando lo estimaren conveniente, asistir a las sesiones de la Cámara de Diputados o del Senado, y tomar parte en sus debates, con preferencia para hacer uso de la palabra, pero sin derecho a voto. Durante la votación podrán, sin embargo, rectificar los conceptos emitidos por cualquier diputado o senador al fundamentar su voto.
 
 Sin perjuicio de lo anterior, los Ministros deberán concurrir personalmente a las sesiones especiales que la Cámara de Diputados o el Senado convoquen para informarse sobre asuntos que, perteneciendo al ámbito de atribuciones de las correspondientes Secretarías de Estado, acuerden tratar.
+
+#### Artículo 37 bis
+
+A los Ministros les serán aplicables las incompatibilidades establecidas en el inciso primero del artículo 58. Por el solo hecho de aceptar el nombramiento, el Ministro cesará en el cargo, empleo, función o comisión incompatible que desempeñe. Durante el ejercicio de su cargo, los Ministros estarán sujetos a la prohibición de celebrar o caucionar contratos con el Estado, actuar como abogados o mandatarios en cualquier clase de juicio o como procurador o agente en gestiones particulares de carácter administrativo, ser director de bancos o de alguna sociedad anónima y ejercer cargos de similar importancia en estas actividades.
 
 Bases generales de la Administración del Estado
 
@@ -916,11 +900,11 @@ Esta disposición no rige en caso de guerra exterior; ni se aplica a los cargos 
 
 Cesará en el cargo el diputado o senador que se ausentare del país por más de treinta días sin permiso de la Cámara a que pertenezca o, en receso de ella, de su Presidente.
 
-Cesará en el cargo el diputado o senador que durante su ejercicio celebrare o caucionare contratos con el Estado, el que actuare como abogado o mandatario en cualquier clase de juicio contra el Fisco, o como procurador o agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza. En la misma sanción incurrirá el que acepte ser director de banco o de alguna sociedad anónima, o ejercer cargos de similar importancia en estas actividades.
+Cesará en el cargo el diputado o senador que durante su ejercicio celebrare o caucionare contratos con el Estado, o el que actuare como procurador o agente en gestiones particulares de carácter administrativo, en la provisión de empleos públicos, consejerías, funciones o comisiones de similar naturaleza. En la misma sanción incurrirá el que acepte ser director de banco o de alguna sociedad anónima, o ejercer cargos de similar importancia en estas actividades.
 
 La inhabilidad a que se refiere el inciso anterior tendrá lugar sea que el diputado o senador actúe por sí o por interpósita persona, natural o jurídica, o por medio de una sociedad de personas de la que forme parte.
 
-Cesará en su cargo el diputado o senador que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervengan en ellos ante cualquiera de las partes. Igual sanción se aplicará al parlamentario que actúe o intervenga en actividades estudiantiles, cualquiera que sea la rama de la enseñanza, con el objeto de atentar contra su normal desenvolvimiento.
+Cesará en su cargo el diputado o senador que actúe como abogado o mandatario en cualquier clase de juicio, que ejercite cualquier influencia ante las autoridades administrativas o judiciales en favor o representación del empleador o de los trabajadores en negociaciones o conflictos laborales, sean del sector público o privado, o que intervengan en ellos ante cualquiera de las partes. Igual sanción se aplicará al parlamentario que actúe o intervenga en actividades estudiantiles, cualquiera que sea la rama de la enseñanza, con el objeto de atentar contra su normal desenvolvimiento.
 
 Sin perjuicio de lo dispuesto en el inciso séptimo del número 15º del artículo 19, cesará, asimismo, en sus funciones el diputado o senador que de palabra o por escrito incite a la alteración del orden público o propicie el cambio del orden jurídico institucional por medios distintos de los que establece esta Constitución, o que comprometa gravemente la seguridad o el honor de la Nación.
 
@@ -1767,6 +1751,8 @@ Al efectuar ese reconocimiento, Chile reafirma su facultad preferente para ejerc
 La cooperación y asistencia entre las autoridades nacionales competentes y la Corte Penal Internacional, así como los procedimientos judiciales y administrativos a que hubiere lugar, se sujetarán a lo que disponga la ley chilena.
 
 La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
+
+Vigesimoquinta.- La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
