@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.276, 22 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207122369 presentada por EMPRESAS AQUACHILE S.A., para instalar y operar un centro de cultivo ubicado en estero Poca Esperanza, al sur de península Barros Arana, sector 3, XII Región.
+
+Valparaíso, 22 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
