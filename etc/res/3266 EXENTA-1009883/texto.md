@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.266 EXENTA, DE 2009
+
+Por resolución exenta Nº 3.266, de fecha 14 de diciembre de 2009, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Organismo Técnico de Capacitación "Servicios de Capacitación P y A Limitada" o "Captracon Ltda.", RUT Nº 76.765.360-3, representado legalmente por el señor Pedro Arcadio Monsalve Fuentes, para impartir cursos de capacitación para conductores que obtuvieron su licencia de conductor clase A1 y/o A2, con anterioridad al 8 de marzo de 1997, con el fin de optar a licencia de conductor profesional clase A3 y/o A5, respectivamente, según decreto supremo Nº 61/2001, del Ministerio de Transportes y Telecomunicaciones, el que tendrá su lugar de funcionamiento en los locales ubicados en Valentín Letelier Nº 1381, oficina 901, y Abdón Cifuentes Nº 51, ambas en la comuna de Santiago.-
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
