@@ -42,7 +42,7 @@ Los deudores que a la fecha antes indicada no estén al día en el servicio de s
 
 #### Artículo 5º
 
-La subvención correspondiente señalada en los artículos 3° y 4° se hará efectiva sólo una vez enterado el pago previo exigido en dichos preceptos, el que podrá efectuarse hasta el último día hábil del mes de diciembre de 2009.
+La subvención correspondiente señalada en los artículos 3° y 4° se hará efectiva sólo una vez enterado el pago previo exigido en dichos preceptos, el que podrá efectuarse hasta el último día hábil del mes de diciembre de 2010.
 
 Se entenderá que el deudor está al día en el servicio de su deuda si por no haber suscrito ningún convenio de pago estuviere sirviendo normalmente el dividendo pactado originalmente, y en el caso de haber suscrito un convenio de pago conforme a las normas vigentes con anterioridad al presente decreto, estuviere dando cumplimiento a las cuotas pactadas en dicho convenio.
 
@@ -113,6 +113,10 @@ El procedimiento de aplicación a los deudores SERVIU-BANCA de los beneficios co
 Los deudores que se sientan afectados por la clasificación a que se refieren los artículos 2°, 3° y 4° del presente decreto, podrán reclamar ante el SERVIU respectivo, acompañando los antecedentes fidedignos en que sustentan su reclamo.
 
 Por razones de urgencia, la Contraloría General de la República se servirá tomar razón del presente decreto en el plazo de cinco días.
+
+#### Artículo 10
+
+Aquellos deudores habitacionales que adquirieron una vivienda del SERVIU asignada con anterioridad al 31 de mayo de 2007, cuya operación crediticia para su adquisición, por razones que no les son imputables, se formalizó con posterioridad a esa fecha, podrán acogerse a las disposiciones del presente decreto obteniendo una subvención igual al saldo total de su deuda previo pago de un monto equivalente en pesos, moneda nacional, de 18 unidades de fomento a su valor vigente a la fecha de su pago efectivo.
 
 Anótese, tómese razón y publíquese.- Belisario Velasco Baraona, Vicepresidente de la República.- Paulina Saball Astaburuaga, Ministra de Vivienda y Urbanismo Subrogante.
 
