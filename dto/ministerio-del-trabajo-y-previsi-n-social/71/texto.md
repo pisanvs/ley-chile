@@ -40,7 +40,9 @@ De la Comisión Ergonómica Nacional
 
 #### Artículo 4°
 
-La Comisión Ergonómica Nacional es una entidad autónoma, que se relaciona con el Ejecutivo a través de la Subsecretaría de Previsión Social, y funcionará en la ciudad de Santiago.
+La Comisión Ergonómica Nacional gozará de autonomía para calificar una labor como trabajo pesado, y funcionará en la ciudad de Santiago.
+
+La Superintendencia de Pensiones ejercerá la supervigilancia y fiscalización de la Comisión Ergonómica Nacional. Asimismo, impartirá las normas operativas que se requieran para calificar labores como trabajos pesados y controlará que dicha Comisión dé debido cumplimiento a las funciones que le correspondan. La asistencia administrativa de la Comisión Ergonómica Nacional será de cargo de la Superintendencia de Pensiones.
 
 #### Artículo 5°
 
@@ -62,11 +64,17 @@ g) Un empresario designado por la organización empresarial más representativa 
 
 #### Artículo 6°
 
-Los miembros de la Comisión Ergonómica Nacional señalados en las letras a) a e) inclusive del artículo anterior, serán designados por el Ministro del Trabajo y Previsión Social, previa proposición que efectuará el Superintendente de Seguridad Social. Corresponderá, asimismo, al citado Superintendente efectuar la proposición para la designación de profesionales que actuarán como suplentes de los miembros titulares de la Comisión, en caso de ausencia o impedimento de éstos.
+Los miembros de la Comisión Ergonómica Nacional señalados en las letras
 
-Para los efectos de lo dispuesto en el inciso anterior, la citada Superintendencia publicará un aviso en el Diario Oficial y en, a lo menos, dos periódicos de circulación nacional, con el objeto que los interesados que se encuentren en posesión de los títulos universitarios y especialidades a que alude el artículo 5° de este reglamento, efectúen su postulación en el plazo que fije dicha Institución.
+- **b)** a
 
-Los postulantes deberán acompañar los antecedentes que acrediten el cumplimiento de los requisitos respectivos.
+- **e)** inclusive del artículo anterior, serán designados, mediante resolución, por el Superintendente de Pensiones. Tratándose del miembro señalado en la letra
+
+- **a)** y su respectivo suplente, su designación será efectuada, por decreto, por el Ministro del Trabajo y Previsión Social, a proposición del Superintendente de Pensiones. Corresponderá, asimismo, al citado Superintendente efectuar la proposición para la designación de profesionales que actuarán como suplentes de los miembros titulares de la Comisión, en caso de ausencia o impedimento de éstos.
+
+Los miembros titulares y suplentes de la Comisión Ergonómica Nacional designados por el Superintendente, serán seleccionados a partir de un Registro Público que administrará la Superintendencia, según lo dispuesto en el inciso sexto del artículo 3º de la Ley Nº 19.404.
+
+Para ser incluido en el Registro Público a que se refiere el inciso anterior, los interesados deberán presentar una solicitud en tal sentido ante la Superintendencia, a la que deberán proporcionar toda la documentación que permita certificar la calidad de profesional habilitado.
 
 #### Artículo 7°
 
@@ -74,7 +82,7 @@ Los miembros de la Comisión Ergonómica Nacional contemplados en las letras f) 
 
 #### Artículo 8°
 
-Los miembros de la Comisión Ergonómica Nacional, con exclusión del mencionado en la letra g) del artículo 5° de este reglamento, tendrán derecho a percibir honorarios por su desempeño, el cual se fijará por el Ministerio del Trabajo y Previsión Social, a través de la Subsecretaría de Previsión Social, mediante un decreto.
+Los miembros de la Comisión Ergonómica Nacional, con exclusión del mencionado en la letra g) del artículo 5° de este reglamento, tendrán derecho a percibir honorarios por su desempeño, el cual se fijará por la Superintendencia de Pensiones, mediante resolución.
 
 #### Artículo 9°
 
@@ -136,11 +144,9 @@ i) Atender al público en los casos en que sea requerido por cuestiones relativa
 
 j) Mantener el archivo de los acuerdos de la Comisión;
 
-k) Recibir, revisar y despachar toda la correspondencia, documentos, solicitudes o certificaciones que lleguen a la comisión, preocupándose que ellos estén ajustados a las leyes y reglamentos vigentes y estén acompañados de los antecedentes personales y previsionales exigidos;
+k) Recibir, revisar y despachar toda la correspondencia, documentos, solicitudes o certificaciones que lleguen a la comisión, preocupándose que ellos estén ajustados a las leyes y reglamentos vigentes y estén acompañados de los antecedentes personales y previsionales exigidos, y
 
-l) Solicitar la asesoría técnica o profesional pertinente, y
-
-m) Supervisar el funcionamiento administrativo de la Comisión y adoptar las medidas necesarias para ello.
+l) Solicitar la asesoría técnica o profesional pertinente.
 
 #### Artículo 15
 
@@ -156,7 +162,9 @@ De la Comisión de Apelaciones
 
 #### Artículo 16
 
-La Comisión de Apelaciones es una entidad autónoma, que se relaciona con el Ejecutivo a través de la Subsecretaría de Previsión Social y que funcionará en la ciudad de Santiago.
+La Comisión de Apelaciones conocerá las reclamaciones respecto de las que deba pronunciarse y funcionará en la ciudad de Santiago.
+
+La Superintendencia de Pensiones ejercerá la supervigilancia y fiscalización de la Comisión de Apelaciones. Asimismo, controlará que dicha Comisión dé debido cumplimiento a las funciones que le correspondan. La asistencia administrativa de la Comisión de Apelaciones será de cargo de la Superintendencia de Pensiones.
 
 #### Artículo 17
 
@@ -164,15 +172,15 @@ La Comisión a que se refiere el artículo anterior estará integrada por tres m
 
 #### Artículo 18
 
-Los integrantes de esta comisión serán nombrados por el Ministro del Trabajo y Previsión Social, a proposición del Superintendente de Seguridad Social, quien seleccionará a las personas propuestas, en calidad de titulares y suplentes, en la misma forma a que se refiere el artículo 6° de este Reglamento.
+Los integrantes de esta comisión serán nombrados por el Superintendente de Pensiones, quien seleccionará a las personas propuestas, en calidad de titulares y suplentes, en la misma forma a que se refiere el artículo 6° de este Reglamento.
 
-Asimismo, el Ministro del Trabajo y Previsión Social designará de entre aquéllos un presidente titular. El presidente de esta Comisión tendrá las atribuciones contempladas en el artículo 14 de este reglamento, en lo que sea pertinente.
+Asimismo, el Superintendente de Pensiones designará de entre aquéllos un presidente titular. El presidente de esta Comisión tendrá las atribuciones contempladas en el artículo 14 de este reglamento, en lo que sea pertinente.
 
 La Comisión designará entre sus miembros a un secretario quien tendrá la calidad de ministro de fe y subrogará al presidente en caso de ausencia o impedimento de éste.
 
 #### Artículo 19
 
-Los integrantes de la Comisión de Apelaciones tendrán derecho a percibir honorarios por su desempeño, el cual se fijará por el Ministerio del Trabajo y Previsión Social, a través de la Subsecretaría de Previsión Social, mediante un decreto.
+Los integrantes de la Comisión de Apelaciones tendrán derecho a percibir honorarios por su desempeño, el cual se fijará por la Superintendencia de Pensiones, mediante resolución.
 
 #### Artículo 20
 
@@ -192,9 +200,9 @@ Del Procedimiento
 
 #### Artículo 22
 
-Para los efectos de la Ley N° 19.404, la Comisión Ergonómica Nacional actuará de oficio o a requerimiento del trabajador interesado, del empleador, del sindicato respectivo o del delegado del personal, en su caso. El requerimiento deberá presentarse en la Secretaría Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del requirente.
+Para los efectos de la Ley N° 19.404, la Comisión Ergonómica Nacional actuará de oficio o a requerimiento del trabajador interesado, del empleador, del sindicato respectivo o del delegado del personal, en su caso. El requerimiento deberá presentarse en la Superintendencia de Pensiones o en la Secretaría Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del requirente.
 
-La Comisión Ergonómica Nacional confeccionará los formularios de solicitud de calificación de trabajos pesados.
+La Comisión Ergonómica Nacional confeccionará los formularios de solicitud de calificación de trabajos pesados, los que podrán presentarse en medios físicos o electrónicos.
 
 Junto con la solicitud deberán proporcionarse los siguientes antecedentes:
 
@@ -206,7 +214,7 @@ c) Demás antecedentes que estime pertinente acompañar.
 
 #### Artículo 23
 
-La Secretaría Regional Ministerial del Trabajo y Previsión Social deberá remitir el respectivo requerimiento a la Comisión Ergonómica Nacional dentro de los 5 días hábiles siguientes a su recepción.
+La Secretaría Regional Ministerial del Trabajo y Previsión Social o la Superintendencia de Pensiones deberán remitir el respectivo requerimiento a la Comisión Ergonómica Nacional dentro de los 5 días hábiles siguientes a su recepción.
 
 #### Artículo 24
 
@@ -220,33 +228,33 @@ Las solicitudes de informe que despache la Comisión serán reiteradas cuantas v
 
 #### Artículo 26
 
-Durante el proceso de calificación, la Comisión Ergonómica Nacional podrá requerir de los servicios públicos o privados relacionados con la salud ocupacional, la remisión de informes técnicos complementarios de evaluación de la labor en análisis. igualmente, podrá disponer la contratación de especialistas o peritos para la emisión de los informes que estime del caso solicitar.
+Durante el proceso de calificación, la Comisión Ergonómica Nacional podrá requerir de los servicios públicos o privados relacionados con la salud ocupacional, la remisión de informes técnicos complementarios de evaluación de la labor en análisis. igualmente, podrá disponer la contratación de especialistas o peritos para la emisión de los informes que estime del caso solicitar. La suscripción de los referidos contratos corresponderá efectuarla a la Superintendencia de Pensiones.
 
 Asimismo, en el evento que lo estime necesario, la Comisión Ergonómica Nacional comunicará al respectivo empleador la existencia de un requerimiento de calificación de trabajo pesado, pudiendo, además, solicitarle antecedentes relacionados con dicho proceso.
 
 #### Artículo 27
 
-Para los efectos de la contratación de los especialistas y peritos a que se refiere el artículo anterior, la Comisión Ergonómica Nacional procederá a abrir un registro público de interconsultores, el que deberá contemplar, a lo menos, un especialista o perito por cada Región del país. Asimismo, corresponderá a dicha Comisión, la fijación y calificación de los requisitos objetivos que aquéllos han de cumplir.
+Para los efectos de la contratación de los especialistas y peritos a que se refiere el artículo anterior, la Superintendencia de Pensiones procederá a abrir un registro público de interconsultores, el que deberá contemplar, a lo menos, un especialista o perito por cada Región del país. Asimismo, corresponderá a dicha Superintendencia, la fijación y calificación de los requisitos objetivos que aquéllos han de cumplir, consultando previamente a la Comisión Ergonómica Nacional.
 
-Para los efectos señalados en el inciso anterior, la Comisión publicará un aviso en un periódico de circulación nacional.
+Para los efectos señalados en el inciso anterior, la Superintendencia publicará un aviso en un periódico de circulación nacional.
 
 En el desempeño de su función, los interconsultores deberán ceñirse a los criterios de evaluación contenidos en el instrumento guía a que alude el artículo 2° de este Reglamento.
 
-Los especialistas y peritos tendrán derecho a percibir honorarios por su desempeño.
+Los especialistas y peritos tendrán derecho a percibir honorarios por su desempeño, financiados con cargo al presupuesto de la Superintendencia de Pensiones.
 
 #### Artículo 28
 
 La Comisión Ergonómica Nacional notificará por escrito al trabajador, al empleador y a los demás interesados a que alude el artículo 22 de este Reglamento, si correspondiere, su dictamen. Igual notificación deberá efectuar a las Administradoras de Fondos de Pensiones y al Instituto de Normalización Previsional, en su caso, una vez ejecutoriado este dictamen.
 
-La notificación del mismo se hará por carta certificada, la que se entenderá efectuada al 5° día hábil siguiente a su franqueo postal.
+La notificación del mismo se hará por carta certificada, la que se entenderá efectuada al 3º día siguiente a la recepción de la carta certificada en la oficina de correos que corresponda. Adicionalmente podrá efectuarse la notificación por medios electrónicos.
 
 El dictamen de la Comisión Ergonómica Nacional quedará ejecutoriado al vencimiento del plazo para interponer el reclamo o, en su defecto, una vez notificada la resolución de la Comisión de Apelaciones.
 
 #### Artículo 29
 
-La Comisión de Apelaciones conocerá de las reclamaciones que formulen el empleador o los trabajadores afectados por los dictámenes que emita la Comisión Ergonómica Nacional. El reclamo deberá interponerse ante el Secretario Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del recurrente, dentro del plazo de 30 días hábiles contado desde la notificación del dictamen respectivo.
+La Comisión de Apelaciones conocerá de las reclamaciones que formulen el empleador o los trabajadores afectados por los dictámenes que emita la Comisión Ergonómica Nacional. El reclamo deberá interponerse ante el Superintendente de Pensiones o el Secretario Regional Ministerial del Trabajo y Previsión Social que corresponda al domicilio del recurrente, dentro del plazo de 30 días hábiles contado desde la notificación del dictamen respectivo.
 
-Esta Secretaría deberá certificar la fecha de recepción del reclamo y remitirlo dentro de los cinco días hábiles siguientes a la Comisión Ergonómica Nacional.
+Esta Secretaría o Superintendencia deberán certificar la fecha de recepción del reclamo y remitirlo dentro de los cinco días hábiles siguientes a la Comisión Ergonómica Nacional.
 
 La Comisión Ergonómica Nacional remitirá los reclamos, conjuntamente con todos sus antecedentes, a la Comisión de Apelaciones, dentro del plazo de 5 días hábiles siguientes a su recepción.
 
