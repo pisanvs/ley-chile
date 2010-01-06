@@ -1,0 +1,9 @@
+CERTIFICA CUMPLIMIENTO DE LAS OBRAS CORRESPONDIENTES A LA DISCOTECA Y A LAS DOS TORRES DE 7 PISOS CADA UNA, CON OFICINAS, LOCALES COMERCIALES Y, ADEMÁS, UNA GALERÍA COMERCIAL CONTEMPLADOS EN EL PROYECTO INTEGRAL DE LA SOCIEDAD OPERADORA LATIN GAMING CALAMA S.A., EN LA COMUNA DE CALAMA
+
+El Superintendente de Casinos de Juego, Sr. Francisco Javier Leiva Vega, de conformidad con lo dispuesto en el artículo 28 de la ley N° 19.995 y el artículo 37 del decreto supremo N° 211, de 2005, del Ministerio de Hacienda, hoy 17 de diciembre de 2009, certifica lo siguiente:
+
+1. Latin Gaming Calama S.A. ha dado cumplimiento a las obligaciones que la ley N° 19.995 y sus reglamentos establecen respecto de la ejecución de las obras e instalaciones correspondientes a la discoteca y a las dos torres de 7 pisos cada una, con oficinas, locales comerciales y, además, una galería comercial ubicadas en calle Balmaceda/Chorrillos s/n, que han sido desarrolladas conforme a las condiciones establecidas en el permiso de operación otorgado a través del acuerdo N° 2 del acta de la sesión del Consejo Resolutivo de la II Región de Antofagasta, el 28 de agosto de 2006, y comunicado el 14 de septiembre de 2006 mediante resolución exenta N° 252 de la Superintendencia de Casinos de Juego y a sus posteriores modificaciones.
+
+2. A contar de la fecha del presente certificado, la sociedad Murano Calama Limitada se encuentra habilitada para dar inicio a la operación de la discoteca y la sociedad Inmobiliaria Da Vinci S.A. para dar inicio a la operación de las dos torres de 7 pisos cada una, con oficinas, locales comerciales y, además, una galería comercial, todos comprendidos en el proyecto integral de la sociedad operadora Latin Gaming Calama S.A.-
+
+Francisco Javier Leiva Vega, Superintendente de Casinos de Juego.
