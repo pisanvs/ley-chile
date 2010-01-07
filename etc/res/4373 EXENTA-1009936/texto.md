@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.373, de 29 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud Nº 206111234 presentada por PRODUCTOS MARINOS MARDIM LIMITADA para modificar la concesión de acuicultura ubicada canal Jacaf, XI Región, transferida a la peticionaria por resolución Nº 1.345 de 1999, de la Subsecretaría de Marina.
+
+Valparaíso, 29 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
