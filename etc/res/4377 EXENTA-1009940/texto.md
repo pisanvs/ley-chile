@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.377, de 29 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud Nº 204101126 presentada por SALMONES MAULLÍN LIMITADA para modificar la concesión de acuicultura ubicada en Bahía Huenquillahue, al noroeste de Punta Ilque, X Región, otorgada por D.S. Nº 34 de 1993, del Ministerio de Defensa Nacional.
+
+Valparaíso, 29 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
