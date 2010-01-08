@@ -614,7 +614,9 @@ Sin perjuicio de lo anterior, los Ministros deberán concurrir personalmente a l
 
 #### Artículo 37 bis
 
-A los Ministros les serán aplicables las incompatibilidades establecidas en el inciso primero del artículo 58. Por el solo hecho de aceptar el nombramiento, el Ministro cesará en el cargo, empleo, función o comisión incompatible que desempeñe. Durante el ejercicio de su cargo, los Ministros estarán sujetos a la prohibición de celebrar o caucionar contratos con el Estado, actuar como abogados o mandatarios en cualquier clase de juicio o como procurador o agente en gestiones particulares de carácter administrativo, ser director de bancos o de alguna sociedad anónima y ejercer cargos de similar importancia en estas actividades.
+A los Ministros les serán aplicables las incompatibilidades establecidas en el inciso primero del artículo 58. Por el solo hecho de aceptar el nombramiento, el Ministro cesará en el cargo, empleo, función o comisión incompatible que desempeñe.
+
+Durante el ejercicio de su cargo, los Ministros estarán sujetos a la prohibición de celebrar o caucionar contratos con el Estado, actuar como abogados o mandatarios en cualquier clase de juicio o como procurador o agente en gestiones particulares de carácter administrativo, ser director de bancos o de alguna sociedad anónima y ejercer cargos de similar importancia en estas actividades.
 
 Bases generales de la Administración del Estado
 
@@ -1752,7 +1754,7 @@ La cooperación y asistencia entre las autoridades nacionales competentes y la C
 
 La jurisdicción de la Corte Penal Internacional, en los términos previstos en su Estatuto, sólo se podrá ejercer respecto de los crímenes de su competencia cuyo principio de ejecución sea posterior a la entrada en vigor en Chile del Estatuto de Roma.
 
-Vigesimoquinta.- La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.
+VIGÉSIMOQUINTA.- La modificación introducida en el inciso cuarto del artículo 60, entrará en vigencia transcurridos ciento ochenta días a contar de la publicación de esta ley en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Eduardo Dockendorff Vallejos, Ministro Secretario General de la Presidencia.-Francisco Vidal Salinas, Ministro del Interior.- Ignacio Walker Prieto, Ministro de Relaciones Exteriores.- Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción y Presidente de la Comisión Nacional de Energía.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Educación.- Luis Bates Hidalgo, Ministro de Justicia.- Jaime Estévez Valencia, Ministro de Obras Públicas y de Transportes y Telecomunicaciones.- Jaime Campos Quiroga, Ministro de Agricultura.- Yerko Ljubetic Godoy, Ministro del Trabajo y Previsión Social.- Pedro García Aspillaga, Ministro de Salud.- Alfonso Dulanto Rencoret, Ministro de Minería.- Sonia Tschorne Berestescky, Ministra de Vivienda y Urbanismo y de Bienes Nacionales.- Osvaldo Puccio Huidobro, Ministro Secretario General de Gobierno.- Yasna Provoste Campillay, Ministra de Planificación.
 
