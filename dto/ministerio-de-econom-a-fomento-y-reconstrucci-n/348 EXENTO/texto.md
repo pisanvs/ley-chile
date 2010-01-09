@@ -14,7 +14,11 @@ D e c r e t o:
 
 #### Artículo 1º
 
-Establécese a partir de 1997 una veda biológica anual de Locate (Thais chocolata), en el litoral comprendido entre la I a IV Regiones, entre los días 1 de marzo a 30 de junio y 1 de septiembre a 31 de diciembre de cada año.
+Establécese a partir de 1997 una veda biológica anual del recurso hidrobiológico Locate (Thais chocolata), en los litorales y fechas que a continuación se señalan:
+
+a) para el litoral comprendido entre la XV, I y II Regiones, desde el 1 de marzo hasta el 31 de octubre, de cada año.
+
+b) para el litoral comprendido entre la III y IV Regiones, desde el 1 de marzo hasta el 30 de junio y del 1 de septiembre hasta el 31 de diciembre, de cada año.
 
 #### Artículo 2º
 
