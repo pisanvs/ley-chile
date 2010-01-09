@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN N° 6.532 EXENTA, DE 02.12.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Tercer Cuatrimestre de 2008, se ha asignado a Compañía Chilena de Comunicaciones S.A., RUT N° 94.795.000-2, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de Angol, IX Región, con las características técnicas siguientes: Potencia 1 kW; frecuencia 94,1 MHz; estudio ubicado en Julio Sepúlveda N° 879, Angol, IX Región, coordenadas geográficas 32°45’30" Latitud Sur, 72°40’25" Longitud Oeste (Datum Provisorio Sudamericano 1956); planta transmisora y sistema radiante ubicados en Cerro Las Acequias, Angol, IX Región, coordenadas geográficas 37°47’21" Latitud Sur, 72°43’54" Longitud Oeste (Datum Provisorio Sudamericano 1956); sistema radiante Omnidireccional con polarización circular, arreglo de cuatro (4) antenas Anillo terminado en barras, 3 dBd de ganancia máxima y altura del centro de radiación de 20 m; pérdidas en cables y conectores de 0,8 dB.
+
+El radioenlace estudio-planta será de 5 dBd de ganancia y 4 watts de potencia.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la ley N°18.168, General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la resolución exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.-
+
+Por orden del Subsecretario de Telecomunicaciones, Jefe Departamento Servicios de Radiodifusión.
