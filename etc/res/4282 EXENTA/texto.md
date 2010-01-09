@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.282, de 22 de diciembre de 2009, de esta Subsecretaría, autorízase a FRIGORÍFICO PATAGONIA S.A. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en John Williams Nº 01, Porvenir, XII Región, para elaborar en las líneas de Cocido y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 22 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
