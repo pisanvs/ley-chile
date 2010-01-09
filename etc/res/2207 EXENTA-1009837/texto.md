@@ -14,7 +14,7 @@ VER DIARIO OFICIAL DE 02.01.2010, PÁGINA 10.
 
 4º Que con fecha 30.07.2009 se efectuó una auditoría in situ, con el objeto de evaluar las competencias del personal y equipos propuestos para realizar las inspecciones y ensayos indicados en la solicitud de autorización.
 
-5º Que mediante el Oficio Ord. Sec Nº 4.639, del 13.08.2009, se le informa a la empresa DICTUS S.A. respecto de las observaciones encontradas en la auditoría indicada anteriormente, las cuales se refieren principalmente a la falta de identificación o codificación de instrumentos para aplicar los ensayos no destructivos, y la necesidad de conocer los formatos de registros utilizados en el ensayo de ultrasonido.
+5º Que mediante el Oficio Ord. Sec Nº 4.639, del 13.08.2009, se le informa a la empresa DICTUC S.A. respecto de las observaciones encontradas en la auditoría indicada anteriormente, las cuales se refieren principalmente a la falta de identificación o codificación de instrumentos para aplicar los ensayos no destructivos, y la necesidad de conocer los formatos de registros utilizados en el ensayo de ultrasonido.
 
 6º Que mediante presentación de fecha 22.09.2009, ingresada en esta Superintendencia con número OP 23264, la empresa DICTUC S.A. responde a las observaciones señaladas por esta Superintendencia en el oficio mencionado en el Considerando anterior.
 
@@ -28,7 +28,7 @@ Por lo tanto, DICTUC S.A. cumple con los requisitos establecidos en la resoluci�
 
 Resuelvo:
 
-1º Autorízase a DICTUS S.A., RUT 96.691.330-4, representada legalmente por el Sr. Jaime Retamal Pinto, RUT 11.657.136-6, ubicada en Avenida Vicuña Mackenna 4860, comuna de Macul, Santiago, como Organismo de Certificación para las actividades indicadas en la Tabla I y Tabla II, indicadas en el Considerando 1º de la presente resolución, pudiendo con ello otorgar los correspondientes certificados de conformidad.
+1º Autorízase a DICTUC S.A., RUT 96.691.330-4, representada legalmente por el Sr. Jaime Retamal Pinto, RUT 11.657.136-6, ubicada en Avenida Vicuña Mackenna 4860, comuna de Macul, Santiago, como Organismo de Certificación para las actividades indicadas en la Tabla I y Tabla II, indicadas en el Considerando 1º de la presente resolución, pudiendo con ello otorgar los correspondientes certificados de conformidad.
 
 2º El profesional habilitado para firmar los certificados de comformidad correspondientes a dicho Organismo de Certificación, y que cumple con los requisitos establecidos en la normativa legal vigente, será el siguiente.
 
