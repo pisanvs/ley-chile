@@ -34,29 +34,27 @@ La Comisión Técnica Evaluadora deberá velar porque los proyectos postulantes 
 
 Región Recursos (UF)
 
-Antofagasta 108.818
+Antofagasta 130.249
 
-Atacama 141.843
+Atacama 59.790
 
-Coquimbo 232.251
+Coquimbo 42.527
 
-Valparaíso 702.278
+Valparaíso 875.014
 
-L. B. O'Higgins 391.477
+L. B. O’Higgins 219.594
 
-Maule 186.108
+Maule 129.664
 
-Bío Bío 839.666
+Bío-Bío 105.112
 
-Araucanía 270.014
+Araucanía 123.396
 
-Los Ríos 134.808
+Los Ríos 98.146
 
-Los Lagos 86.068
+Metropolitana 365.117
 
-Metropolitana 745.941
-
-Total país 3.839.272
+Total País 2.148.609
 
 5º.- El número de proyectos seleccionados y preseleccionados en cada región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, subsidio diferenciado de localización, si corresponde, e inspección técnica de obras.
 
