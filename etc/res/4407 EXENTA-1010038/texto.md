@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.407, de 30 de diciembre de 2009, de esta Subsecretaría, recházase la solicitud Nº 206101220, presentada por MARCELA WALESKA VELÁSQUEZ STRAUSSMANN para modificar la concesión de acuicultura ubicada en Seno Reloncaví, al oeste de Roca Verde, otorgada por resolución Nº 69, de 2005, de la Subsecretaría de Marina, X Región.
+
+Valparaíso, 30 de diciembre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
