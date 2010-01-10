@@ -1,4 +1,4 @@
-FIJA NORMA TECNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 2.496 - 2.572 MHz; 2.572 - 2.614 MHz y 2.614 - 2.690 MHz
+FIJA NORMA TECNICA PARA EL USO DE LAS BANDAS DE FRECUENCIAS 2.500 - 2.572 MHz; 2.572 - 2.620 MHz y 2.620 - 2.690 MHz
 
 Santiago, 3 de mayo de 2005.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -18,23 +18,23 @@ Considerando: La necesidad de administrar eficientemente la utilización del esp
 
 Resuelvo:
 
-Fíjase la siguiente norma técnica para el uso de las bandas de frecuencias 2.496 - 2.572 MHz; 2.572 -
+Fíjase la siguiente norma técnica para el uso de las bandas de frecuencias 2.500 - 2.572 MHz; 2.572 -
 
-2.614 MHz y 2.614 - 2.690 MHz.
+2.620 MHz y 2.620 - 2.690 MHz.
 
 #### Artículo 1º
 
-Destínase las bandas de frecuencias 2.496 - 2.572 MHz y 2.614 - 2.690 MHz para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transportar señales, tales como, voz, datos e imágenes, autorizados mediante concesión.
+Destínase las bandas de frecuencias 2.500 - 2.572 MHz y 2.620 - 2.690 MHz para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transportar señales, tales como, voz, datos e imágenes, autorizados mediante concesión.
 
 #### Artículo 2º
 
-Destínase la banda de frecuencias 2.572 - 2.614 MHz, para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transmitir varios programas de televisión en un canal de 6 MHz autorizados mediante permiso de servicio limitado de televisión, o transportar señales, tales como, voz, datos e imágenes autorizados mediante concesión de servicio público o intermedio de telecomunicaciones.
+Destínase la banda de frecuencias 2.572 - 2.620 MHz, para la operación de equipos de radiocomunicaciones de los servicios fijo y/o móvil, que empleando tecnología digital de libre elección, permiten transmitir varios programas de televisión en un canal de 6 MHz autorizados mediante permiso de servicio limitado de televisión, o transportar señales, tales como, voz, datos e imágenes autorizados mediante concesión de servicio público o intermedio de telecomunicaciones.
 
-La banda 2.572 - 2.614 MHz también podrá destinarse para el reemplazo de determinadas frecuencias que deban ser despejadas por mandato de una norma técnica. La respectiva reasignación de frecuencias se efectuará mediante modificación de las correspondientes autorizaciones.
+La banda 2.572 - 2.620 MHz también podrá destinarse para el reemplazo de determinadas frecuencias que deban ser despejadas por mandato de una norma técnica. La respectiva reasignación de frecuencias se efectuará mediante modificación de las correspondientes autorizaciones.
 
 #### Artículo 3º
 
-Los respectivos permisos y concesiones serán otorgados mediante concurso público, excepto en el caso señalado en el inciso 2° del artículo 2° de la presente norma. La cantidad de permisos y concesiones a asignar en la banda de frecuencias 2.496 - 2.690 MHz se establecerá en las bases del concurso respectivo.
+Los respectivos permisos y concesiones serán otorgados mediante concurso público, excepto en el caso señalado en el inciso 2° del artículo 2° de la presente norma. La cantidad de permisos y concesiones a asignar en la banda de frecuencias 2.500 - 2.690 MHz se establecerá en las bases del concurso respectivo.
 
 #### Artículo 4º
 
@@ -42,11 +42,11 @@ La zona de servicio de cada concesión o permiso podrá abarcar el territorio de
 
 #### Artículo 5º
 
-Para el caso de las bandas de frecuencias 2.496 - 2.572 MHz y 2.614 - 2.690 MHz, la distribución de bloques de frecuencias se definirá dependiendo de la evolución tecnológica y recomendaciones o acuerdos de organismos internacionales. El tipo de servicio será definido en las bases del respectivo concurso público.
+Para el caso de las bandas de frecuencias 2.500 - 2.572 MHz y 2.620 - 2.690 MHz, la distribución de bloques de frecuencias se definirá dependiendo de la evolución tecnológica y recomendaciones o acuerdos de organismos internacionales. El tipo de servicio será definido en las bases del respectivo concurso público.
 
 #### Artículo 6º
 
-Para la banda 2.572 - 2.614 MHz la distribución de bloques de frecuencias es la siguiente:
+Para la banda 2.572 - 2.620 MHz la distribución de bloques de frecuencias es la siguiente:
 
 Bloques Frecuencias (MHz)
 
@@ -64,9 +64,11 @@ Bloques Frecuencias (MHz)
 
 7 2.608 - 2.614
 
+8 2.614 - 2.620
+
 #### Artículo 7º
 
-Para los servicios que operen en la banda 2.572 - 2.614 MHz la potencia máxima radiada isótropa equivalente no deberá exceder 33 dBW y la zona de servicio quedará delimitada por el contorno en que la densidad de flujo de potencia es de -73 dBW/m2.
+Para los servicios que operen en la banda 2.572 - 2.620 MHz la potencia máxima radiada isótropa equivalente no deberá exceder 33 dBW y la zona de servicio quedará delimitada por el contorno en que la densidad de flujo de potencia es de -73 dBW/m2.
 
 #### Artículo 8º
 
@@ -98,11 +100,11 @@ La adecuación de las actuales titulares de autorizaciones del servicio limitado
 
 #### Artículo 4º
 
-Para los demás servicios que operan en la banda 2.496 - 2.690 MHz la Subsecretaría mediante resolución asignará nuevas frecuencias en reemplazo de las frecuencias actualmente asignadas.
+Para los demás servicios que operan en la banda 2.500 - 2.690 MHz la Subsecretaría mediante resolución asignará nuevas frecuencias en reemplazo de las frecuencias actualmente asignadas.
 
 #### Artículo 5º
 
-La Subsecretaría sólo llamará a concurso público para la asignación de concesiones o permisos en la banda 2.572 - 2.614 MHz una vez que haya concluido el proceso de reasignación de frecuencias de las actuales titulares del servicio limitado de televisión multicanal en la banda de 2,6 GHz. Para el caso de asignación de concesiones para el uso de las bandas 2.496 - 2.572 MHz y 2.614 - 2.690 MHz se llamará a concurso cuando se haya definido la respectiva canalización y se haya concluido el proceso de reasignación de frecuencias asignadas en estas bandas con anterioridad a la fecha de publicación de la presente resolución.
+La Subsecretaría sólo llamará a concurso público para la asignación de concesiones o permisos en la banda 2.572 - 2.620 MHz una vez que haya concluido el proceso de reasignación de frecuencias de las actuales titulares del servicio limitado de televisión multicanal en la banda de 2,6 GHz. Para el caso de asignación de concesiones para el uso de las bandas 2.500 - 2.572 MHz y 2.620 - 2.690 MHz se llamará a concurso cuando se haya definido la respectiva canalización y se haya concluido el proceso de reasignación de frecuencias asignadas en estas bandas con anterioridad al 6 de mayo de 2005.
 
 Anótese y publíquese en el Diario Oficial.- Christian Nicolai Orellana, Subsecretario de Telecomunicaciones.
 
