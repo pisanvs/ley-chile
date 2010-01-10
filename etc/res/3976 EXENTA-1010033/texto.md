@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.976, de 26 de noviembre de 2009, de esta Subsecretaría, autorízase a CORNELIO SEGUNDO RIVERA MORALES para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector Entrada Este de Taltal s/nº, Taltal, II Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 26 de noviembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
