@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.501, de 3 de noviembre de 2009, se publicó extracto de resolución N° 4.796 exenta, de 04.09.2009, que Asigna Concesión de Radiodifusión Sonora que indica, con el error que se salva a continuación: página veinticinco, segunda columna, donde dice "... , planta transmisora y sistema radiante ubicado en el Pasaje Tres N° 514, Villa Cóndores de Chile II, comuna de Rancagua, VI Región; ..." debe decir "... , planta transmisora y sistema radiante ubicado en el Pasaje Tres N° 514, Villa Cóndores de Chile II, comuna de Nancagua, VI Región; ..."
