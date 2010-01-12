@@ -28,11 +28,7 @@ potable - diseño, cálculo y requisitos
 
 de las redes interiores.
 
-NCh2556.Of2000 Tubos de propileno copolímero random
-
-para la conducción de agua fría y
-
-caliente bajo presión.
+NCh2556.Of2000 ANULADA Y DEJADA SIN EFECTO
 
 #### Artículo 2º
 
