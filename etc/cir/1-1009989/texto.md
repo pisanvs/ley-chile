@@ -1,0 +1,5 @@
+INSTRUCCIONES SOBRE EFECTOS TRIBUTARIOS ADJUDICACIÓN DE BIENES, ART. 17 Nº 8, LETRAS F) Y G) LIR, EN CASO DERECHOS SOCIALES. COMPLEMENTA CIRCULAR Nº 37, DE 2009
+
+Extracto de circular del Servicio de Impuestos Internos Nº 1, de fecha 6 de enero de 2010, que complementa las instrucciones impartidas mediante la circular Nº 37, de 11 de junio de 2009, relativas a los efectos tributarios de la adjudicación de bienes en los casos a que se refiere el artículo 17 Nº 8, letras f) y g) de la Ley sobre Impuesto a la Renta, para cuando los bienes adjudicados correspondan a derechos sociales, caso en el cual, se deberá aplicar lo dispuesto por los incisos 3º, 4º y 5º del artículo 41 de la misma ley, según corresponda.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en enero de 2010.
