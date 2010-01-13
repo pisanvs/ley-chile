@@ -894,7 +894,7 @@ Del ámbito de aplicación
 
 #### Artículo 85
 
-Será aplicada en todo el territorio de la comuna de La Reina. Podrá extenderse este ámbito por acuerdo expreso entre entes locales que contribuyan a la aplicación del contenido de esta Ordenanza.
+Será aplicada en todo el territorio de la comuna de Santa Bárbara. Podrá extenderse este ámbito por acuerdo expreso entre entes locales que contribuyan a la aplicación del contenido de esta Ordenanza.
 
 De la competencia
 
