@@ -125,3 +125,25 @@ Para efectos del documento de acuerdo señalado, se considerará la compensació
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Sergio Bitar Chacra, Ministro de Obras Públicas.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Sonia Tschorne Berestesky, Subsecretaria de Obras Públicas Subrogante.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de la Vivienda y Urbanismo y
+
+Obras Públicas y Transportes
+
+Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº 809, de 2008, del Ministerio de Obras Públicas
+
+Nº 61.131.- Santiago, 24 de diciembre de 2008.
+
+La Contraloría General ha dado curso el instrumento del rubro, que modifica por razones de interés público las características de las obras y servicios que indica en la obra pública fiscal "Centro de Justicia de Santiago", pero cumple con manifestar que en atención a que el acto en examen no ha sido suscrito por el Ministro de Justicia, lo dispuesto en la cláusula décima del mismo, en lo que respecta a los pagos directos de la compensación que corresponda a favor del concesionario por parte del Ministerio de Justicia, procederá en tanto se prevea de ese modo de conformidad con el ordenamiento jurídico.
+
+Saluda atentamente a US., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Obras Públicas
+
+Presente
