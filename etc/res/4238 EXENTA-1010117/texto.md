@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.238, de 21 de diciembre de 2009, de esta Subsecretaría, autorízase a NICANOR ANTONIO CAMPUSANO SEPÚLVEDA para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Caleta Chañaral de Aceituno s/n, Caleta Chañaral, III Región, para elaborar en línea de proceso Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 21 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
