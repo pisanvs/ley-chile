@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.439, 30 de diciembre de 2009 de esta Subsecretaría, autorízase a SOCIEDAD PESCADORES S.A. para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en calle Bernardo O’Higgins, parcela 341, Placilla, Valparaíso, V Región, para elaborar en las líneas de Cocido, Fresco-Enfriado, Congelado, Surimi, Seco-Salado, Salado Húmedo, Ahumado, Conservas, Agar-Agar, Alga Seca, Deshidratado, Alginato, Carragenina, Vivos y Harina, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 30 de diciembre de 2009.- Germán Loyola Bastías, Subsecretario de Pesca (S).
