@@ -16,7 +16,7 @@ NCh18000.Of2004 ANULA Y REEMPLAZA.
 
 NCh18001.Of2004 ANULA Y REEMPLAZA.
 
-NCh18002.Of2004 Sistemas de gestión - Prevención de riesgos profesionales - Directrices para la implementación de la norma NCh 18001.
+NCh18002.Of2004 ANULA Y REEMPLAZA
 
 #### Artículo 2º
 
