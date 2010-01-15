@@ -10,11 +10,9 @@ D e c r e t o:
 
 Decláranse Normas Oficiales de la República de Chile, las siguientes normas chilenas con sus respectivos códigos y títulos de identificación:
 
-NCh2008.Of2002 Seguridad de artefactos eléctricos
+NCh2008.Of2002 ANULADA Y REEMPLAZADA
 
-IEC 60335-1 de uso doméstico y similares -
-
-Requisitos generales.
+IEC 60335-1
 
 NCh2014/1.Of2002 ELIMINADA
 
