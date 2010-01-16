@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 2338 de fecha 28 de diciembre del 2009, se expropiaron los lotes de terreno N°s. 16, 16-A, 17 y 23 superficies 413, 612, 1.867 y 107 m2, Rol N°155-255, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria ISABEL DEL CARMEN VENEGAS DONOSO Y OTROS, ascendente a la cantidad de $5.363.922.- para los lotes N°s. 16, 16-A, 17 y 23.
+
+Fiscal del Ministerio de Obras Públicas.
