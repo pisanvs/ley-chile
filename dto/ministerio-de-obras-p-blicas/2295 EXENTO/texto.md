@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 2295 de fecha 21 de diciembre del 2009, se expropió el lote de terreno N°37, superficie 155 m2, Rol N° 155-612, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario MARCELO ANDRES GONZALEZ CACERES, ascendente a la cantidad de $613.161.- para el lote N°37.
+
+Fiscal del Ministerio de Obras Públicas.
