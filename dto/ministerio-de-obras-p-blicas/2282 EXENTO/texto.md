@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2282 de fecha 21 de diciembre de 2009, se expropió el lote de terreno N° 13, superficie 82 m2, rol N° 155-717, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571", Sexta Región y se acordó el valor de la indemnización con su propietario FIDEL ANTONIO CALDERON SOTO, ascendente a la cantidad de $800.604.-
+
+Fiscal del Ministerio de Obras Públicas.
