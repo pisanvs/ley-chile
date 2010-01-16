@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2324, de fecha 28 de diciembre del 2009, se expropió el lote de terreno N° 120, superficie 120 m2, Rol Nº 434-255, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren.", y se acordó el valor de indemnización con su propietario GUSTAVO DEL CARMEN CORTES GALVEZ, ascendente a la cantidad de $380.210.-
+
+Fiscal del Ministerio de Obras Públicas.
