@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2341, de fecha 28 de diciembre del 2009, se expropió el lote de terreno N° 54, superficie 1.165 m2, Rol N° 633-77, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 al Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 al Km. 5,90000.", y se acordó el valor de indemnización con su propietario JOSE VENTURA BUSTAMANTE PALMA, ascendente a la cantidad de $34.097.633.
+
+Fiscal del Ministerio de Obras Públicas.
