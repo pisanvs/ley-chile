@@ -78,11 +78,11 @@ y del lugar donde podrán emplazarse
 
 #### Artículo 6º
 
-Para los efectos previstos en esta ordenanza, las actividades que se desarrollen en la Avenida del Mar se clasificarán en Masivas, entendiéndose por tales aquellas que puedan convocar a más de dos mil personas o que convocando a un menor número de personas se estime que se desarrollarán con niveles de ruido superiores al máximo permitido para zonas residenciales (actualmente 55 decibeles) y no Masivas entendiéndose por tales aquellas no comprendidas en la definición anterior.
+Para los efectos previstos en esta Ordenanza, las actividades que se desarrollen en la Avenida del Mar se clasificarán en Masivas, entendiéndose por tales aquellas que puedan convocar a más de dos mil personas, y No Masivas, entendiéndose por tales aquellas no comprendidas en la definición anterior.
 
 #### Artículo 7º
 
-Las actividades Masivas que se instalen en bien nacional de uso público deberán ubicarse al norte del Faro Monumental de La Serena.
+Las actividades Masivas que se instalen en bien nacional de uso público deberán ubicarse al norte del faro monumental de La Serena, salvo que en consideración a la importancia de la actividad el alcalde autorice su instalación en otro sector de la Avenida del Mar, lo que hará mediante la dictación del respectivo decreto.
 
 #### Artículo 8º
 
