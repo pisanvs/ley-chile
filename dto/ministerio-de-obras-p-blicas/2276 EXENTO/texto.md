@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2276 de fecha 21 de diciembre de 2009, se expropiaron los lotes de terreno N°s 81, 86, 86-A, 98-B, 102-A y 107, superficies 7.290, 3.403, 726, 3.391, 77 y 354 m2 respectivamente, rol N° 170-178 y 166-1, comuna de Cobquecura, para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 6,34000 a Km. 10,50000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario CECILIA DEL CARMEN MOYA HUTCHINSON Y OTROS, ascendente a la cantidad de $27.273.709.-
+
+Fiscal del Ministerio de Obras Públicas.
