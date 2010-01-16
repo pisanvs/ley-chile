@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 2328 de fecha 28 de diciembre del 2009, se expropió el lote de terreno N°81, superficie 67 m2, Rol N° 155-516, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario SERGIO SEGUNDO FUENTES CARVAJAL, ascendente a la cantidad de $841.376.- para el lote N°81.
+
+Fiscal del Ministerio de Obras Públicas.
