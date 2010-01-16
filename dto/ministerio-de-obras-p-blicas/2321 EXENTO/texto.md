@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 2321, de fecha 28 de diciembre del 2009, se expropió el lote de terreno N° 27-B, superficie 1.129 m2, Rol N° 279-35, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L - 30 - M - Carrizal, Tramo Km. 0,50000 al Km. 17,34000.", y se acordó el valor de indemnización con su propietario ALBERTINO SALAS CARRASCO, ascendente a la cantidad de $3.324.769.-
+
+Fiscal de¡ Ministerio de Obras Públicas.
