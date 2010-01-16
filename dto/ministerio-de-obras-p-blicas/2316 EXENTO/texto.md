@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 2316 de fecha 28 de diciembre del 2009, se expropió el lote de terreno N°14, superficie 69 m2, Rol N° 155-725, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las CabrasEl Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria ROSA PALMIRA CALDERON SOTO, ascendente a la cantidad de $877.911.- para el lote N°14.
+
+Fiscal del Ministerio de Obras Públicas.
