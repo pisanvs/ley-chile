@@ -42,7 +42,7 @@ Continuo 50%
 
 Altura máxima de
 
-agrupamiento Aislado -
+agrupamiento Aislado 12,5 m.
 
 Pareado 12.5 m
 
@@ -56,65 +56,73 @@ Oriente: Calle Los Pensamientos; Poniente: Calle
 
 Los Claveles, y Sur: Línea Férrea.
 
-b) Reemplázase el artículo 15º, por el siguiente:
+b) Sustitúyese la letra b) del Nº1 por lo siguiente:
 
-#### Artículo 15º
+"Agrégase al artículo 15º -1, a continuación de su actual inciso final, lo siguiente:
 
-Las edificaciones y/o cambio de destino, sea este último, parcial o total, ubicados al interior del área normada por el Plan Regulador Comunal y sus Seccionales, deberá contemplar el número de estacionamientos contenidos en el siguiente cuadro:
+Toda construcción o cambio de destino, sea esta última parcial o total, ubicada en el sector S-3 Huertos Familiares, deberá contemplar el número de estacionamientos contenidos en el siguiente cuadro:
 
 Destino Nº Estacionamientos
 
-Educación pública 1 estacionamiento por aula o sala
+Educación pública 1 estacionamiento por
 
-De actividades.
+aula o sala de
 
-Educación particular
+actividades.
 
-y particular 3 por aula o sala de actividades
+Educación particular y particular 3 por aula o sala de
 
-subvencionada
+subvencionada actividades.
 
-Culto 1 por cada 5 asientos
+Culto 1 por cada 5
 
-Hotel 1 por cada 6 camas
+asientos.
 
-Sede comunitaria 1 por cada 50 m2 de superficie
+Hotel 1 por cada 6 camas.
 
-construida
+Sede comunitaria 1 por cada 50 m2 de
 
-Comercio 1 por cada 20 m2 de superficie
+superficie
 
-construida
+construida.
 
-Bar, cafeterías y
+Comercio 1 por cada 20 m2 de
 
-restaurante 1 por cada 5 m2 de superficie
+superficie
 
-construida
+construida.
 
-Servicios
+Bar, cafeterías y restaurantes 1 por cada 5 m2 de
 
-profesionales
+superficie
 
-y consultas 1 por cada 30 m2 de superficie
+construida.
 
-construida
+Servicios profesionales y
 
-Vivienda 1, hasta 60 m2 construidos*
+consultas. 1 por cada 30 m2 de
 
-2, desde 70 a 140 m2 construidos*
+superficie
 
-3, desde 140 m2 construidos y más*
+construida.
 
-* En el caso de las viviendas acogidas a la ley
+Vivienda 1, hasta 60 m2
 
-19.537, la superficie de referencia corresponde a
+construidos*.
 
-la superficie por unidad, muros incluidos.
+2, desde 70 a 140 m2
 
-Los conjuntos de viviendas acogidos a la ley 19.537, deberán consultar a lo menos un estacionamiento adicional a los indicados en el cuadro anterior por cada una de las viviendas que forman parte del conjunto, los que podrán ubicarse sea en los espacios de propiedad común sea en el espacio público que enfrenta el predio. Los lugares habilitados para tal efecto, estarán dispuestos en forma tal que no limiten la circulación peatonal y vehicular tanto en los bienes nacionales de uso público como en los espacios de uso común ubicados al interior del conjunto.
+construidos*.
 
-Las disposiciones indicadas en este artículo reemplazan aquellas establecidas en los Planes Seccionales en forma previa a la promulgación de esta norma.
+3, desde 140 m2
+
+construidos y
+
+más*.
+
+* En el caso de las viviendas acogidas a la ley 19.537, la superficie de referencia corresponde a la superficie por unidad, muros incluidos.
+
+Los conjuntos de viviendas acogidos a la ley 19.537 deberán consultar, a lo menos, un estacionamiento adicional a los indicados en el cuadro anterior por cada una de las viviendas que forman parte del conjunto, los que podrán ubicarse, sea en los espacios de propiedad común, sea en el espacio público que enfrenta el predio. Los lugares habilitados para tal efecto estarán dispuestos en forma tal que no limiten la circulación peatonal y vehicular tanto en los bienes nacionales de uso público como en los espacios de uso común ubicados al interior del conjunto
 
 2º.- Publíquese el presente decreto en el Diario Oficial de la República de Chile y en un diario de aquellos de mayor circulación en la comuna.
 
