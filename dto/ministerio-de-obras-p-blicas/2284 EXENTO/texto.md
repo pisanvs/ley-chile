@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2284 de fecha 21 de diciembre de 2009, se expropió el lote de terreno N° 8, superficie 161 m2, rol N° 155-226, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571", Sexta Región y se acordó el valor de la indemnización con su propietario RODOLFO DEL CARMEN ROJAS QUINTANILLA, ascendente a la cantidad de $1.304.159.
+
+Fiscal del Ministerio de Obras Públicas.
