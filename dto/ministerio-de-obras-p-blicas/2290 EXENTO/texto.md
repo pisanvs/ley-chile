@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2290 de fecha 21 de diciembre de 2009, se expropió el lote de terreno N° 76, superficie 149 m2, rol N° 155-382, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571", Sexta Región y se acordó el valor de la indemnización con su propietario JOSE PATRICIO MADRID SOTO, ascendente a la cantidad de $891.149.-
+
+Fiscal del Ministerio de Obras Públicas.
