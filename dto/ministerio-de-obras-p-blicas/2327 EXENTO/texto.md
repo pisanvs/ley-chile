@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 2327 de fecha 28 de diciembre del 2009, se expropió el lote de terreno N°59, superficie 31 m2, Rol N° 155-568, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario JUAN ALBERTO CONTRERAS MADRID, ascendente a la cantidad de $664.523.- para el lote N°59.
+
+Fiscal del Ministerio de Obras Públicas.
