@@ -1,0 +1,3 @@
+Por resolución exenta Nº 18, de 5 de enero de 2010, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 207111092, presentada por PRODUCTOS MARINOS MARDIM LIMITADA, para el centro de cultivo ubicado en Canal Jacaf, al Noroeste de Islotes Gemmel, X Región, otorgado en concesión por resolución Nº 1.215 de 2000, de la Subsecretaría de Marina.
+
+Valparaíso, 5 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
