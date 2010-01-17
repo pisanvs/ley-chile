@@ -1644,6 +1644,8 @@ Para la fijación y aplicación de dichos usos de suelo, éstos se agrupan en lo
 
 Las antenas con sus soportes y elementos rígidos con sus elementos adicionales se entenderán complementarias a los usos de suelo residencial, equipamiento, actividades productivas, infraestructura y área verde. En el caso del uso de suelo espacio público sólo se podrán localizar donde lo autorice la respectiva Municipalidad.
 
+Los destinos de salas cuna y jardines infantiles se entenderán siempre admitidos en las zonas con usos de suelo residencial y/o en las que se permita cualquiera clase de equipamiento. Para efectos de su autorización, se deberá cumplir con las restantes normas urbanísticas establecidas en el plan regulador. En caso que en la zona en que se emplacen se establezca más de una norma urbanística se deberá aplicar la más restrictiva.
+
 #### Artículo 2
 
 1.25. El tipo de uso Residencial contempla preferentemente el destino vivienda, e incluye hogares de acogida, así como edificaciones y locales destinados al hospedaje, sea éste remunerado o gratuito, siempre que no presten servicios comerciales adjuntos, tales como bares, restaurantes o discotecas, en cuyo caso requerirán que en el lugar donde se emplazan esté admitido algún uso comercial.
@@ -2469,6 +2471,24 @@ DE LOS ESTACIONAMIENTOS, ACCESOS Y SALIDAS VEHICULARES.
 4.1. Todo edificio que se construya deberá proyectarse con una dotación mínima de estacionamientos de acuerdo a lo que fije el Instrumento de Planificación Territorial respectivo.
 
 Tratándose de proyectos relacionados con Monumentos Nacionales, zonas típicas, inmuebles o zonas de conservación histórica, o que se emplacen al costado de vías de más de 100 años de antigüedad o de paseos peatonales, el Director de Obras Municipales podrá, previa solicitud fundada por parte del interesado, autorizar excepciones a las disposiciones de este Capítulo.
+
+#### Artículo 2
+
+4.1. bis El Plan Regulador Comunal podrá considerar una dotación mínima de estacionamientos para bicicletas, a los cuales sólo les serán aplicables las disposiciones de este artículo.
+
+Los estacionamientos para bicicletas deberán tener un ancho mínimo de 0,5 m. y 1,5 m. de largo. Dicho ancho mínimo podrá reducirse hasta en un 20% cuando los estacionamientos para bicicletas se dispongan como estacionamientos que se enfrenten y ocupen la misma estructura de apoyo.
+
+Los estacionamientos para bicicletas deberán contar con una estructura de apoyo y se dispondrán de manera horizontal, oblicua o vertical sobre el piso o muros, debiendo disponerse de los implementos de sujeción que permitan su fijación mediante cerraduras, llaves o similares.
+
+Los estacionamientos para bicicletas deberán estar emplazados a no más de 50 metros de distancia a algunos de los accesos a la edificación que genera la obligación.
+
+Las exigencias de estacionamientos para bicicletas deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios que consulten estacionamientos para bicicletas y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio.
+
+Para los casos de estacionamientos para bicicletas ubicados en otros predios, la distancia entre los accesos de uno y otro inmueble, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 50 m.
+
+Tratándose del cumplimiento de las exigencias de estacionamientos en otros predios, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos.
+
+Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamientos para bicicletas a la vivienda unifamiliar.
 
 #### Artículo 2
 
@@ -5097,6 +5117,8 @@ Se calificarán como Hogares Estudiantiles las edificaciones destinadas a reside
 #### Artículo 4
 
 5.3. Las solicitudes de permiso para construir locales escolares o para adecuar edificios existentes para tal fin, podrán ser admitidas a tramitación por la Dirección de Obras Municipales únicamente si el Plan Regulador Comunal vigente a la fecha de la respectiva solicitud, contempla, ya sea implícita o explícitamente, el uso de suelo de equipamiento educacional para el sector en el cual se pretenden localizar. Asimismo, el cambio de destino de las edificaciones para estos fines, deberá también ser concordante con el uso de suelo permitido por dicho instrumento de planificación territorial. En el caso de áreas urbanas que no cuenten con normas al respecto, se entenderá que está autorizada su localización en cualquier ubicación de ella.
+
+Lo dispuesto en el inciso precedente no será aplicable a los proyectos de equipamiento educacional de nivel parvulario, destinados a jardín infantil y/o sala cuna, los cuales se entenderán siempre admitidos conforme a lo señalado en el artículo 2.1.24 de esta Ordenanza.
 
 Los hogares estudiantiles se considerarán como vivienda, para el efecto de su localización. Cuando estén emplazados en el mismo predio que un local escolar, se considerarán equipamiento educacional.
 
