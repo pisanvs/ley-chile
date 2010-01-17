@@ -1,0 +1,3 @@
+Por resolución exenta Nº 86, de 6 de enero de 2010, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206101151, presentada por PRODUCTOS DEL MAR VENTISQUEROS S.A., para los centros de cultivo ubicados en Canal Cholgo, al este de Rada Potreros de Cholgo, X Región, correspondientes a los sectores 1, 2 y 3.
+
+Valparaíso, 6 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
