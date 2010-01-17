@@ -1,0 +1,3 @@
+Por resolución exenta Nº 82, de 6 de enero de 2010, de esta Subsecretaría, recházase la solicitud presentada por PACIFIC SEAFOODS S.A., para modificar la concesión de acuicultura ubicada en Paso Tres Cruces, al sur de Isla Figueroa (Centro Nevenka), XI Región, otorgada por resolución Nº 1.187 de 2006, de la Subsecretaría de Marina.
+
+Valparaíso, 6 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
