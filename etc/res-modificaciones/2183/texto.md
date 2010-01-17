@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 2.183, de 11/11/2009, modificó resolución (M) 1.837/2000, de la siguiente forma: Ubicación: Puerto Calderilla, al este de Punta Ester, comuna de Caldera; Superficie 4,38 Has.; coordenadas geográficas Referidas a Carta SHOA Nº 3111, 9ª Edición enero 2004 (Datum WGS-84), Porción de agua y fondo: 4,15 hectáreas Vértice A Lat. 27°05’08,01" S. Long. 70°51’13,18" W. Vértice B Lat. 27°05’06,61" S. Long. 70°50’58,98" W. Vértice C Lat. 27°05’11,71" S. Long. 70°51’08,98" W. Vértice D Lat. 27°05’13,61" S. Long. 70°51’09,98" W. Vértice E Lat. 27°05’13,11" S. Long. 70°51’15,98" W. Vértice F Lat. 27°05’10,91" S. Long. 70°51’13,98" W. Terreno de playa: 0,23 Hectáreas Vértice G Lat. 27°05’08,52" S. Long. 70°51’16,53" W. Vértice H Lat. 27°05’08,32" S. Long. 70°51’17,33" W. Vértice I Lat. 27°05’05,12" S. Long. 70°51’16,53" W. Vértice J Lat. 27°05’05,32" S. Long. 70°51’15,73" W.
+
+Santiago, 8 de enero de 2010.- Por la sra. Subsecretaria, Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
