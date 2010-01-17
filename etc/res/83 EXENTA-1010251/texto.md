@@ -1,0 +1,3 @@
+Por resolución exenta Nº 83, de 6 de enero de 2010, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 99101041 presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES ALGUEROS, MARISCADORES Y RAMAS SIMILARES "LA PENÍNSULA", para instalar y operar un centro de cultivo ubicado en Bancos de Coihuín, X Región.
+
+Valparaíso, 6 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
