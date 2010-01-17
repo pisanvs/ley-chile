@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.083, de 9 de diciembre de 2009, de esta Subsecretaría, autorízase a LUIS ALBERTO VELARDE TOLEDO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Quinta Los Olivos, kilómetro 4, Taltal, II Región, para elaborar en línea Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 9 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
