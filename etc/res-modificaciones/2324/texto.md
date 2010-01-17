@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución (M) 2.324, de 27/11/2009, modificó resolución (M) 1.440/1997, de la siguiente forma: Superficie 0,60 Has.; coordenadas geográficas Sector de Playa tiene una superficie de 0,60 hectáreas y está delimitado por las siguientes coordenadas geográficas: Carta SHOA Nº 7370, 1ª Edición 1999 (Datum WGS-84): Vértice A Lat. 42°19’35,95" S. Long. 73°26’46,86" W. Vértice B Lat. 42°19’36,02" S. Long. 73°26’45,12" W. Vértice C Lat. 42°19’31,17" S. Long. 73°26’44,73" W. Vértice D Lat. 42°19’31,09" S. Long. 73°26’46,47" W. Sector de agua y fondo de mar: Tiene una superficie de 1,50 hectáreas y está delimitado por las siguientes coordenadas geográficas: Carta SHOA Nº 7370, 1ª Edición 1999 (Datum WGS-84): Vértice A Lat. 42°19’31,17" S. Long. 73°26’44,73" W. Vértice B Lat. 42°19’31,36" S. Long. 73°26’40,37" W. Vértice C Lat. 42°19’36,22" S. Long. 73°26’40,76" W. Vértice D Lat. 42°19’36,02" S. Long. 73°26’45,12" W.
+
+Santiago, 8 de enero de 2010.- Por la Sra. Subsecretaria, Gonzalo Campos Narducci, Subjefe Subsecretaría de Marina Subrogante.
