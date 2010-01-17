@@ -164,7 +164,7 @@ Curacautín:
 
 . El tramo urbano de la Ruta 181 CH, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de Av. Manuel Rodríguez.
 
-. El tramo urbano de la Ruta S-11-R, desde Av. Manuel Rodríguez hasta el límite urbano Sur; a través de: Camino a Lautaro, Av. General Carrera y Av. Pérez Canto.
+. El tramo urbano de la Ruta S-11-R, a través de: Camino a Lautaro.
 
 . El tramo urbano de la Ruta R-755, desde el límite urbano Norte hasta Manuel Rodríguez; a través de Camino a Tolhuaca.
 
@@ -182,7 +182,7 @@ Galvarino:
 
 General López:
 
-• El tramo urbano de la Ruta S-273, desde el límite urbano Sur hasta Ruta S-31, a través de Luis Cruz Martínez e Ignacio Carrera Pinto.
+- El tramo urbano de la Ruta S-273, desde el límite urbano Sur hasta Ruta S-31, a través de Luis Cruz Martínez e Ignacio Carrera Pinto.
 
 Gualpin:
 
@@ -254,7 +254,7 @@ Vilcún:
 
 . El tramo urbano de la Ruta S-31, desde el límite urbano Poniente hasta el límite urbano Oriente; a través de: López, Arturo Prat, Schmidt y Camino a Cherquenco.
 
-• El tramo urbano de la Ruta S-185, desde el límite urbano Norte hasta Schmidtm a través de Quintrilpe.
+- El tramo urbano de la Ruta S-185, desde el límite urbano Norte hasta Schmidtm a través de Quintrilpe.
 
 Villa García:
 
