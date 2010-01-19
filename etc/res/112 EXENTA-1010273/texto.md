@@ -1,0 +1,3 @@
+Por resolución exenta Nº 112, de 6 de enero de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 1.836 de 2008, de esta Subsecretaría, que autorizó a don LEONARDO ALBERTO MIRANDA ÁVILA para efectuar una pesca de investigación de conformidad con los TTR de la resolución extractada, en el sentido de extender su vigencia hasta el 31 de diciembre de 2010.
+
+Valparaíso, 6 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
