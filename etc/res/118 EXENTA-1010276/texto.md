@@ -1,0 +1,3 @@
+Por resolución exenta Nº 118, de 7 de enero de 2010, de esta Subsecretaría, recházase la solicitud Ingreso Subpesca Nº 9.797 de 2007, presentada por MARINE HARVEST CHILE S.A. para modificar la concesión de acuicultura ubicada en Canal King, sector Estero sur de Isla Level, Isla Tránsito, XI Región, otorgada por resolución Nº 1.666 de 2004, de la Subsecretaría de Marina.
+
+Valparaíso, 7 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
