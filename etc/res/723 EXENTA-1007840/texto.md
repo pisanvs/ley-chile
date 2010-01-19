@@ -86,19 +86,21 @@ N° niños de 6 años inscritos con alta odontológica total de enero a diciembr
 
 Total niños de 6 años inscritos validados para el año 2010
 
-Meta 4.- Compensación de personas diabéticas bajo control de 20 y más años
+Meta 4.- Compensación de personas diabéticas bajo control de 20 y más años.
 
-Meta: 50%
+Meta=40%
 
 Indicador:
 
-N° personas diabéticas bajo control de 20 y más años, compensadas (Hb A1 c "<"7%) según último control vigente), de enero a diciembre del 2010 x 100
+Nº personas diabéticas bajo control de 20 y más años, compensadas (Hb A1 c&lt7%) según último control vigente), de enero a diciembre del 2010 x 100.
 
-Total personas diabéticas bajo control de 20 y más años a diciembre 2010
+Total de personas diabéticas bajo control de 20 y más años a diciembre de 2010.
 
-La compensación de personas diabéticas bajo control de 20 y más años, esperado a nivel de país para el año 2010, es de 50%.
+La compensación de personas diabéticas bajo control de 20 y más años, esperado a nivel de país para el año 2010 es de 40%.
 
-Las comunas o establecimientos que estén bajo este porcentaje de compensación, según sea la unidad de análisis previamente definida por el Servicio de Salud, deberán promover gradualmente el logro de la meta. Quienes tengan porcentajes de compensación superiores, deberán aumentar o mantenerla, de acuerdo a lo obtenido a diciembre 2009.
+Las comunas o establecimientos que estén bajo este porcentaje de compensación, según sea la unidad de análisis previamente definida por el Servicio de Salud, deberán promover gradualmente el logro de la meta.
+
+Quienes tengan porcentajes de compensación superiores, deberán aumentar o mantenerla, de acuerdo a lo obtenido a diciembre de 2009.
 
 Meta 5.- Compensación de personas hipertensas bajo control de 20 y más años
 
