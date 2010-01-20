@@ -42,8 +42,6 @@ r) Teniendo presente lo prescrito en los artículos 20 letra f), 24 letra o), y 
 
 Resuelvo:
 
-> **Nota.** El Decreto 729, Municipalidad de las Condes, publicado el 28.01.2011, introdujo diversas modificaciones en la presente Ordenanza. No se ha podido incorporar esta actualización por existir diferencias en los textos de algunos de los artículos que se modifican.
-
 1° Apruebase el Plan Regulador Comunal de Las Condes, constituido por la Memoria Explicativa, el Estudio de Factibilidad, la Ordenanza Local y los PRCLC-93 láminas N°s. 1, 2 y 3, planos que expresan gráficamente las disposiciones sobre Edificación, Usos de Suelo y Vialidad.
 
 > **Nota.** El DTO 98, Vivienda y Urbanismo, publicado el 27.07.1998, modificó el presente Plan Regulador en la forma que señala.
@@ -406,7 +404,13 @@ La aprobación de proyectos de urbanización producto de los proyectos de loteo 
 
 Los antejardines mínimos no establecidos en los respectivos planos de loteos y seccionales, ni en las disposiciones que se fijan sobre esta materia para las diferentes áreas de edificación serán de 5.00 m. para calles, y de 3.00 m. para pasajes, y predios que enfrentan áreas verdes y demás bienes de uso público.
 
-Los proyectos con subsidio estatal o municipal, calificados por la Dirección de Obras Municipales como viviendas sociales, ampliación de conjuntos de viviendas sociales y/o de equipamiento municipal, no requerirán de antejardín.
+Sin perjuicio de lo señalado en el inciso anterior, los proyectos que se emplacen en áreas EAa, EAm y aquellos proyectos de densificación en las áreas EAb4 y EAb4', respecto de los antejardines deberán además cumplir las siguientes condiciones:
+
+A) Aquellos terrenos con pendiente promedio inferior al 10%, deberán dar una solución tal entre los niveles del antejardín y aquellos existentes en las aceras que enfrente el proyecto, que en ningún punto se produzca una diferencia de nivel mayor a 0,60 mts.
+
+B) En proyectos de densificación de más de 3 pisos de altura destinados a vivienda, no se permite utilizar el antejardín para estacionamiento de vehículos, tanto de visita como aquellos que correspondan a los exigidos por los instrumentos de planificación vigentes. En proyectos de equipamiento, sean éstos producto de cambio de destino o de una densificación, queda prohibido el uso del antejardín como estacionamiento o para exposición de productos.
+
+C) Los proyectos que consideren en el antejardín, la ventilación de los pisos subterráneos, las cámaras y registros de todas las instalaciones propias del proyecto, deberán presentar a la Dirección de Obras Municipales para su aprobación, una solución técnica que no considere estas instalaciones sobre el nivel natural del terreno. El ducto de evacuación de gases de los grupos electrógenos no podrá situarse en el antejardín.
 
 #### Artículo 10
 
@@ -812,8 +816,6 @@ que enfrentan por el norte Calle Renato Sánchez
 
 y Avda. Presidente Errázuriz.
 
-> **Nota.** El N° 2 de la letra B), del N° 2 del decreto 3591, M. DE LAS CONDES, publicado el 04.11.2022, modificó en la forma que indica el cuadro contenido en el presente artículo.
-
 #### Artículo 35
 
 La ubicación y límites de las áreas de edificación y las zonas de usos del suelo son las indicadas en el Plano PRCLC-93 láminas 1 y 2, y en la presente Ordenanza.
@@ -854,29 +856,21 @@ En las Areas de Edificación Alta, Media y Baja EAb2 y Eab3, los proyectos de vi
 
 En las áreas de edificación alta y media, los proyectos que se acojan a las disposiciones aplicables a un predio existente residual de densificación, deberán cumplir con las normas de edificación establecidas en las siguientes tablas:
 
-TABLA A) PARA PREDIO EXISTENTE
+TABLA A) PARA PREDIO EXISTENTE RESIDUAL DE
 
-RESIDUAL DE DENSIFICACION,
+DENSIFICACION, EN AREAS DE EDIFICACIÓN ALTA O
 
-EN AREAS DE EDIFICACIÓN
-
-ALTA O MEDIA, CON USO DE
-
-SUELO UVO, UV1, UV2, UV3,
+MEDIA, CON USO DE SUELO UVO, UV1, UV2, UV3,
 
 UC1, UC2.
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 10.
 
-TABLA B) PARA PREDIO EXISTENTE
+TABLA B) PARA PREDIO EXISTENTE RESIDUAL DE
 
-RESIDUAL DE DENSIFICACION,
+DENSIFICACION, EN AREAS DE EDIFICACIÓN ALTA O
 
-EN AREAS DE EDIFICACIÓN
-
-ALTA O MEDIA CON USO DE
-
-SUELO UC1, UC2.
+MEDIA CON USO DE SUELO UC1, UC2.
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 10.
 
@@ -912,47 +906,33 @@ _______________________________________________________ | NOTA: VER DIARIO OFICI
 
 |_____________________________________________________|
 
-1. Área E-Ab1: edificación aislada baja N° 1. A) Viviendas aisladas. Las viviendas unifamiliares aisladas en un predio podrán edificarse cumpliendo las normas que se establecen en la siguiente tabla:
+1. Área E-Ab1: edificación aislada baja N° 1. A) Viviendas aisladas. Las viviendas unifamiliares aisladas en un predio podrán edificarse cumpliendo las normas que se establecen en la siguiente
+
+tabla:
 
 Tabla A)
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-Las edificaciones de
+Las edificaciones de los conjuntos de
 
-los conjuntos de
+viviendas económicas de hasta 4 pisos de
 
-viviendas económicas
+altura máxima y los loteos DFL-2 con
 
-de hasta 4 pisos de
+construcción simultánea deberán respetar
 
-altura máxima y los
-
-loteos DFL-2 con
-
-construcción simultánea
-
-deberán respetar una
-
-rasante de 45° en los
-
-deslindes con los
+una rasante de 45° en los deslindes con los
 
 predios vecinos.
 
-B) Viviendas colectivas
+B) Viviendas colectivas en un predio.
 
-en un predio. Los
+Los proyectos de viviendas unifamiliares o
 
-proyectos de viviendas
+colectivas aisladas podrán edificarse
 
-unifamiliares o colectivas
-
-aisladas podrán edificarse
-
-cumpliendo las normas
-
-que se establecen en
+cumpliendo las normas que se establecen en
 
 la siguiente tabla:
 
@@ -960,325 +940,199 @@ Tabla B)
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-Los proyectos que se
+Los proyectos que se emplacen en el área
 
-emplacen en el área
+delimitada por la Avda. Charles Hamilton
 
-delimitada por la Avda.
+por el norte, Avda. San Francisco de Asís
 
-Charles Hamilton por el
+por el oriente, y Avda. Francisco Bulnes
 
-norte, Avda. San Francisco
+Correa por el sur y la calle Montecasino
 
-de Asís por el oriente,
+por el poniente se regirán por las normas
 
-y Avda. Francisco Bulnes
-
-Correa por el sur y la
-
-calle Montecasino por
-
-el poniente se regirán
-
-por las normas señaladas
-
-en la siguiente tabla:
+señaladas en la siguiente tabla:
 
 Tabla C)
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-La altura máxima de las
+La altura máxima de las edificaciones que
 
-edificaciones que
+enfrentan la calle Montecasino no podrán
 
-enfrentan la calle
+sobrepasar en más de 3.50 metros el nivel
 
-Montecasino no podrán
+de solera de dicha calle, medida sobre el
 
-sobrepasar en más de
-
-3.50 metros el nivel
-
-de solera de dicha
-
-calle, medida sobre el
-
-eje de la línea oficial
-
-correspondiente al
+eje de la línea oficial correspondiente al
 
 predio.
 
-2. Área E-Ab2: edificación
+2. Área E-Ab2: edificación aislada baja N° 2.
 
-aislada baja N° 2. Las
+Las edificaciones que se emplacen en las
 
-edificaciones que se emplacen
+áreas E-Ab2 deberán cumplir con las normas
 
-en las áreas E-Ab2 deberán
-
-cumplir con las normas
-
-específicas de la
-
-siguiente tabla:
+específicas de la siguiente tabla:
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-En los deslindes de
+En los deslindes de aquellos predios que
 
-aquellos predios que
+pertenezcan parcial o totalmente a esta
 
-pertenezcan parcial o
+área E-Ab2 y sean colindantes con áreas de
 
-totalmente a esta
+edificación media y alta, se aplicará una
 
-área E-Ab2 y sean
+rasante de 60° para ambas áreas.
 
-colindantes con áreas de
+En el área comprendida por la línea
 
-edificación media y alta,
+poligonal definida; por el eje de la Avda.
 
-se aplicará una rasante
+Francisco Bulnes Correa entre el eje de
 
-de 60° para ambas áreas.
+Avda. Camino El Alba y su intersección con
 
-En el área comprendida
+el eje de calle Los Monjes; el eje de calle
 
-por la línea poligonal
+Los Monjes hasta su intersección con el eje
 
-definida; por el eje de
+de calle El Convento; el eje de calle el
 
-la Avda. Francisco Bulnes
+Convento hasta su intersección con el eje
 
-Correa entre el eje de
+de la Avda. San Francisco de Asís; el eje
 
-Avda. Camino El Alba y
+de la Avda. San Francisco de Asís hasta su
 
-su intersección con
+intersección con la proyección de los
 
-el eje de calle Los Monjes;
+fondos prediales de los lotes que enfrentan
 
-el eje de calle Los Monjes
+por el poniente la Avda. Plaza; fondos
 
-hasta su intersección con
+prediales de los lotes que se ubican en la
 
-el eje de calle El Convento;
+acera poniente de la Avda. Plaza hasta su
 
-el eje de calle el Convento
+intersección con el eje de Avda. Camino El
 
-hasta su intersección con
+Alba; el eje de Avda. Camino El Alba hasta
 
-el eje de la Avda.
+su intersección con el eje de la Avda.
 
-San Francisco de Asís; el
+Francisco Bulnes Correa, la densidad neta
 
-eje de la Avda. San Francisco
+máxima de los proyectos en esta área no
 
-de Asís hasta su intersección
+podrá superar las 20 viviendas por
 
-con la proyección de los
+hectárea.
 
-fondos prediales de los lotes
+En el área de edificación E-Ab2, los
 
-que enfrentan por el
+proyectos que se emplacen en los predios
 
-poniente la Avda. Plaza;
+ubicados en calle Vasco de Gama acera sur
 
-fondos prediales de los
+entre el pasaje del mismo nombre y calle
 
-lotes que se ubican en la
+Martín Alonso Pinzón, pueden optar a la
 
-acera poniente de la
+tabla para predios remanentes establecida
 
-Avda. Plaza hasta su
-
-intersección con el eje
-
-de Avda. Camino El
-
-Alba; el eje de Avda.
-
-Camino El Alba hasta
-
-su intersección con el
-
-eje de la Avda. Francisco
-
-Bulnes Correa, la densidad
-
-neta máxima de los proyectos
-
-en esta área no
-
-podrá superar las 20
-
-viviendas porhectárea.
-
-En el área de edificación
-
-E-Ab2, los proyectos que
-
-se emplacen en los predios
-
-ubicados en calle Vasco de
-
-Gama acera sur entre el
-
-pasaje del mismo nombre y
-
-calle Martín Alonso Pinzón,
-
-pueden optar a la tabla
-
-para predios remanentes
-
-establecida en la presente
-
-Ordenanza.
+en la presente Ordenanza.
 
 3. Área E-Ab3: edificación aislada baja N° 3.
 
-Las edificaciones que
+Las edificaciones que se emplacen en las
 
-se emplacen en las
+áreas E-Ab3 deberán cumplir con las normas
 
-áreas E-Ab3 deberán
-
-cumplir con las normas
-
-específicas de la
-
-siguiente tabla:
+específicas de la siguiente tabla:
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-En los deslindes de
+En los deslindes de aquellos predios que
 
-aquellos predios que
+pertenezcan parcial o totalmente a esta
 
-pertenezcan parcial o
+área E-Ab3 y sean colindantes con las áreas
 
-totalmente a esta
+de edificación media y alta, se aplicará
 
-área E-Ab3 y sean
-
-colindantes con las
-
-áreas de edificación
-
-media y alta, se
-
-aplicará una rasante
-
-de 60° para ambas
-
-áreas.
+una rasante de 60° para ambas áreas.
 
 4. Área E-Ab4: edificación aislada baja N° 4.
 
-Modifícanse las tablas
+Modifícanse las tablas A) y B) del área de
 
-A) y B) del área de
+Edificación aislada Baja N°4 en la forma
 
-Edificación aislada Baja
-
-N°4 en la forma siguiente:
+siguiente:
 
 Tabla A)
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
-Los proyectos de viviendas
+Los proyectos de viviendas y los
 
-y los equipamientos que
+equipamientos que se emplacen en el área
 
-se emplacen en el área
+E-Ab4 podrán optar a la densificación de
 
-E-Ab4 podrán optar a la
+acuerdo a la tabla B), siempre que se
 
-densificación de acuerdo
+cumpla lo siguiente:
 
-a la tabla B), siempre
+a) Realizar un estudio de factibilidad que
 
-que se cumpla lo siguiente:
+señale el impacto proporcional sobre los
 
-a) Realizar un estudio de
+proyectos deficitarios del área
 
-factibilidad que
+señalados en el artículo 39 de la
 
-señale el impacto
+presente Ordenanza. Este estudio deberá
 
-proporcional sobre los
+considerar lo señalado en la Ordenanza
 
-proyectos deficitarios
+del Plan Regulador Metropolitano de
 
-del área señalados
+Santiago actuando como contraparte la
 
-en el artículo 39 de la
+Municipalidad a través del Director de
 
-presente Ordenanza.
+Obras Municipales quien se pronunciará
 
-Este estudio deberá
+respecto de la metodología y el estudio.
 
-considerar lo señalado
+b) Estar ejecutadas parcial o totalmente
 
-en la Ordenanza del
+las obras que dan factibilidad de
 
-Plan Regulador Metropolitano
+urbanización y de vialidad al área y que
 
-de Santiago actuando
+se definen en el artículo 39 de la
 
-como contraparte la
+presente Ordenanza. Se consideran
 
-Municipalidad a través
+ejecutadas parcialmente las obras sólo
 
-del Director de Obras
+en el momento en que se encuentren
 
-Municipales quien se
-
-pronunciará respecto de
-
-la metodología y el estudio.
-
-b) Estar ejecutadas parcial
-
-o totalmente las obras
-
-que dan factibilidad de
-
-urbanización y de
-
-vialidad al área y que
-
-se definen en el
-
-#### Artículo 39
-
-de la
-
-presente Ordenanza.
-
-Se consideran
-
-ejecutadas parcialmente
-
-las obras sólo
-
-en el momento en que
-
-se encuentren
-
-materializadas o
-
-garantizadas las
+materializadas o garantizadas las
 
 siguientes obras:
 
-Ensanche de calzada en
+Ensanche de calzada en la siguiente
 
-la siguiente Avenida:
+Avenida:
 
 Avenida Las Condes
 
@@ -1290,19 +1144,13 @@ VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 11.
 
 Los proyectos destinados a equipamiento de educación, cultura y salud, emplazados en terrenos de 5 o más hectáreas que opten por la tabla A o B y que se ubiquen en el polígono definido por la Av. Monseñor Álvaro del Portillo ex General Blanche y Avenida Plaza por el norte, la calle Carlos Peña Otaegui por el sur, Avda. Pie Andino por el oriente y Avda. San Carlos de Apoquindo por el poniente, podrán contemplar el emplazamiento de equipamiento de escala mayor aun cuando enfrenten vías de menor categoría, con una altura máxima de 5 pisos y 17,50 mts., en cumplimiento con el Art. 2.1.36, inciso tercero, de la O.G.U.C.
 
-5. Area E-Ab4': edificación
-
-aislada baja N° 4
+5. Area E-Ab4': edificación aislada baja N° 4
 
 prima.
 
-Modifícanse las tablas A),
+Modifícanse las tablas A), B) y C) del área
 
-B) y C) del área
-
-de Edificación aislada
-
-Baja N°4 prima en la
+de Edificación aislada Baja N°4 prima en la
 
 forma siguiente:
 
@@ -1312,83 +1160,51 @@ VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 12.
 
 Los proyectos de viviendas y los equipamientos que se emplacen en el área E-Ab4' podrán optar a la densificación de acuerdo a la tabla B) o C), siempre que se cumpla lo siguiente:
 
-a) Realizar un estudio de
+a) Realizar un estudio de factibilidad que
 
-factibilidad que
+señale el impacto proporcional sobre los
 
-señale el impacto
+proyectos deficitarios del área señalados
 
-proporcional sobre los
+en el artículo 39 de la presente Ordenanza.
 
-proyectos deficitarios
+Este estudio deberá considerar lo señalado
 
-del área señalados
+en la Ordenanza del Plan Regulador
 
-en el artículo 39 de
+Metropolitano de Santiago actuando como
 
-la presente Ordenanza.
+contraparte la Municipalidad a través del
 
-Este estudio deberá
+Director de Obras Municipales quien se
 
-considerar lo señalado
-
-en la Ordenanza del
-
-Plan Regulador
-
-Metropolitano de Santiago
-
-actuando como contraparte
-
-la Municipalidad a través
-
-del Director de Obras
-
-Municipales quien se
-
-pronunciará respecto de
-
-la metodología y el
+pronunciará respecto de la metodología y el
 
 estudio.
 
-b) Estar ejecutadas parcial
+b) Estar ejecutadas parcial o totalmente las
 
-o totalmente las obras
+obras que dan factibilidad de urbanización
 
-que dan factibilidad de
+y de vialidad al área y que se definen en
 
-urbanización y de
+el artículo 39 de la presente Ordenanza. Se
 
-vialidad al área y que
+consideran ejecutadas parcialmente las
 
-se definen en el
+obras sólo en el momento en que se
 
-#### Artículo 39
+encuentren materializadas o garantizadas
 
-de la presente
-
-Ordenanza. Se
-
-consideran ejecutadas
-
-parcialmente las obras
-
-sólo en el momento en
-
-que se encuentren
-
-materializadas o garantizadas
-
-aquellas señaladas para
-
-el área Eab4.
+aquellas señaladas para el área Eab4.
 
 Tabla B)
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 12.
 
-Los proyectos de loteo que opten por acogerse a las disposiciones de la tabla B), podrán disminuir hasta un 25% la subdivisión predial mínima, siempre y cuando el porcentaje de predios que no cumple la subdivisión predial mínima no exceda el 20% del total de predios del loteo.
+Los proyectos de loteo que opten por acogerse a
+
+las disposiciones de la tabla B), podrán disminuir hasta un 25% la subdivisión predial mínima, siempre y cuando el porcentaje de predios que no cumple la subdivisión predial mínima no exceda el 20% del total de predios del loteo.
 
 Tabla C)
 
@@ -1412,69 +1228,45 @@ El área libre de la tabla B) deberá disponerse en el nivel natural de terreno.
 
 En el área comprendida entre la Avda. Paul Harris por el norte, la Avda. Charles Hamilton por el sur, la calle Lo Fontecilla por el oriente y la Avda. Estoril por el poniente, correspondiente al sector "Lo Fontecilla", los proyectos de viviendas y los equipamientos que se emplacen en el área descrita precedentemente podrán optar a la densificación de acuerdo a la tabla C), siempre que se cumpla lo siguiente:
 
-a) Realizar un estudio de
+a) Realizar un estudio de factibilidad que
 
-factibilidad que
+señale el impacto proporcional sobre los
 
-señale el impacto
+proyectos deficitarios del área señalados
 
-proporcional sobre los
+en el artículo 39 de la presente Ordenanza.
 
-proyectos deficitarios
+Este estudio deberá considerar lo señalado
 
-del área señalados
+en la Ordenanza del Plan Regulador
 
-en el artículo 39 de la
+Metropolitano de Santiago actuando como
 
-presente Ordenanza.
+contraparte la Municipalidad a través del
 
-Este estudio deberá
+Director de Obras Municipales quien se
 
-considerar lo señalado
-
-en la Ordenanza del Plan
-
-Regulador Metropolitano
-
-de Santiago actuando como
-
-contraparte la Municipalidad
-
-a través del Director de
-
-Obras Municipales quien se
-
-pronunciará respecto de
-
-la metodología y el
+pronunciará respecto de la metodología y el
 
 estudio.
 
-b) Estar ejecutadas parcial
+b) Estar ejecutadas parcial o totalmente las
 
-o totalmente las
+obras que dan factibilidad de urbanización
 
-obras que dan factibilidad
+y de vialidad al área y que se definen en
 
-de urbanización y de vialidad
+el artículo 39 de la presente Ordenanza. Se
 
-al área y que se definen en
+consideran ejecutadas parcialmente las
 
-el artículo 39 de la presente
+obras sólo en el momento en que se
 
-Ordenanza. Se consideran
+encuentren materializadas o garantizadas
 
-ejecutadas parcialmente las
+aquellas señaladas para el área Eab4 y
 
-obras sólo en el momento
-
-en que se encuentren
-
-materializadas o garantizadas
-
-aquellas señaladas para
-
-el área Eab4 y Eab4'.
+Eab4'.
 
 Tabla C).
 
@@ -1590,63 +1382,41 @@ En el área delimitada EAm4 "Sector Visviri", aquellos proyectos de uso no resid
 
 En esta área los proyectos podrán aumentar su altura hasta 18,0 metros siempre y cuando reduzcan su ocupación de suelo al 45%. El proyecto que se desarrolle con menor ocupación de suelo y mayor altura deberá respetar un porcentaje único de ocupación de suelo. En ningún caso, el cuerpo edificado resultante producto de la aplicación de esta norma especial, podrá escalonarse. Para los proyectos ubicados en las zonas UC1 y UC2, la norma contenida en este párrafo se aplicará sólo si el proyecto cumple copulativamente con las condiciones siguientes:
 
-a) Genere todos sus accesos
+a) Genere todos sus accesos por Avda. Padre
 
-por Avda. Padre Hurtado,
+Hurtado, Alexander Fleming, Bilbao y Cuarto
 
-Alexander Fleming, Bilbao
+Centenario según corresponda.
 
-y Cuarto Centenario
+b) Contemple adicionalmente una franja privada
 
-según corresponda.
+destinada exclusivamente a jardines y
 
-b) Contemple adicionalmente
+parques excluyendo cualquier otros usos de
 
-una franja privada
+15,0 metros por calle Visviri o calle
 
-destinada exclusivamente
+Manuel Claro Vial. Esta franja podrá
 
-a jardines y parques
+destinarse exclusivamente a jardines y
 
-excluyendo cualquier
+parque excluyéndose cualquier otro uso. En
 
-otros usos de 15,0 metros
+todo caso dicha franja se considerará para
 
-por calle Visviri o calle
+efecto de los coeficientes señalados en la
 
-Manuel Claro Vial. Esta
+tabla B). El uso de área verde de esta
 
-franja podrá destinarse
+franja de 15,0 metros persistirá sólo en
 
-exclusivamente a jardines y
+tanto se mantenga el uso comercial u otro
 
-parque excluyéndose cualquier
+diferente a vivienda, pero si el uso pasara
 
-otro uso. En todo caso dicha
+a ser residencial se verá reducida a 4,0
 
-franja se considerará para
-
-efecto de los coeficientes
-
-señalados en la tabla B).
-
-El uso de área verde de
-
-esta franja de 15,0 metros
-
-persistirá sólo en tanto
-
-se mantenga el uso comercial
-
-u otro diferente a vivienda,
-
-pero si el uso pasara
-
-a ser residencial se verá
-
-reducida a 4,0 metros en
-
-la forma más arriba prevista.
+metros en la forma más arriba prevista.
 
 Las áreas de servicio de estos proyectos, patios de maniobra, de carga y descarga no podrán ser desarrolladas en el perímetro del terreno, salvo que ellas se desarrollen en subterráneo.
 
@@ -1658,21 +1428,13 @@ Tabla C.
 
 VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 14.
 
-(**) Para efecto de definir
+(**) Para efecto de definir la altura máxima
 
-la altura máxima
+aplicable a cada porción del predio se
 
-aplicable a cada
+considerará una línea imaginaria trazada
 
-porción del predio se
-
-considerará una línea
-
-imaginaria trazada
-
-a 60 metros de la Línea
-
-Oficial de la
+a 60 metros de la Línea Oficial de la
 
 Avda. Presidente Riesco.
 
@@ -1814,43 +1576,31 @@ Los proyectos que opten por la tabla C), sólo podrán disponer el uso de equipa
 
 En el área EAa+cm los proyectos de densificación podrán incorporar edificación continua media para destinos que no sean vivienda, cumpliendo las siguientes normas:
 
-a) Las edificaciones sobre
+a) Las edificaciones sobre el nivel de la
 
-el nivel de la construcción
+construcción continua deben emplazarse en la
 
-continua deben emplazarse
+línea de edificación.
 
-en la línea de edificación.
+b) La línea de edificación de la construcción
 
-b) La línea de edificación de
+continua será la establecida por el
 
-la construcción continua
+antejardín correspondiente en el plano de
 
-será la establecida por el
+loteo. A partir de esta línea de edificación
 
-antejardín correspondiente
+la longitud del cuerpo continuo será
 
-en el plano de loteo. A partir
-
-de esta línea de edificación
-
-la longitud del cuerpo
-
-continuo será equivalente
-
-como máximo al 40% del deslinde
+equivalente como máximo al 40% del deslinde
 
 común.
 
-c) El área libre resultante
+c) El área libre resultante de la aplicación
 
-de la aplicación del
+del coeficiente de área libre, podrá
 
-coeficiente de área libre,
-
-podrá desarrollarse en un
-
-nivel distinto al de
+desarrollarse en un nivel distinto al de
 
 primer piso.
 
@@ -1898,49 +1648,35 @@ En esta área los proyectos de densificación que se emplacen en predios que enf
 
 Colón, podrán incorporar edificación continua media con una altura máxima de 4 pisos o 14 metros, para destinos que no sean vivienda, cumpliendo las siguientes normas:
 
-a) Las edificaciones sobre
+a) Las edificaciones sobre el nivel de la
 
-el nivel de la construcción
-
-continua deben emplazarse en
+construcción continua deben emplazarse en
 
 la línea de edificación.
 
-b) La línea de edificación
+b) La línea de edificación de la construcción
 
-de la construcción continua
+continua será la establecida por el
 
-será la establecida por el
+antejardín correspondiente en el plano de
 
-antejardín correspondiente
+loteo.
 
-en el plano de loteo.
+c) A partir de esta línea de edificación la
 
-c) A partir de esta línea
+longitud del cuerpo continuo será
 
-de edificación la longitud
+equivalente como máximo al 40% del deslinde
 
-del cuerpo continuo será
-
-equivalente como máximo
-
-al 40% del deslinde
-
-común. En ningún caso
-
-podrá fraccionarse el
+común. En ningún caso podrá fraccionarse el
 
 cuerpo continuo.
 
-d) El área libre resultante
+d) El área libre resultante de la aplicación
 
-de la aplicación del
+del coeficiente de área libre, podrá
 
-coeficiente de área libre,
-
-podrá desarrollarse en
-
-un nivel distinto al de
+desarrollarse en un nivel distinto al de
 
 primer piso.
 
@@ -2061,10 +1797,6 @@ VER TABLA EN DIARIO OFICIAL DE 05.12.2003 PÁGINA 16.
 En el área Ee1 (Edificación Especial N°1), las edificaciones existentes al momento de aprobación de la presente modificación, se exceptúan de cumplir con la norma de antejardín mínimo establecido en la tabla. Sin embargo, toda nueva edificación deberá respetar el antejardín mínimo.
 
 > **Nota.** Las letras F, G y H del artículo único del DTO 3218, M. de Las Condes, publicado el 05.12.2003, modifican el presente artículo introduciendo diversas modificaciones a las tablas y áreas indicadas en éste, las cuales no se han incorporado al presente texto actualizado por razones técnicas temporales.
-
-> **Nota.** NOTA 1 El N° 3, de la letra B), del N° 2 del decreto 3591, M. de Las Condes, publicado el 04.11.2022, modificó el presente artículo en la forma que indica.
-
-> **Nota.** NOTA 2 El N° 1 del Decreto 346, M. de Las Condes, publicado el 11.02.2023, dispone rectificar en la forma que indica la modificación introducida al presente artículo por el Decreto 3591, M. de Las Condes, publicado el 04.11.2022.
 
 #### Artículo 39
 
@@ -2337,12 +2069,6 @@ Presidente Errázuriz.
 > **Nota.** El Nº 24 del DTO 3218, M. de Las Condes, publicado el 05.12.2003, modificó el presente artículo, reemplazando o agregando vías al cuadro de esta norma. Estas modificaciones no se han incorporado al presente texto actualizado por razones técnicas temporales.
 
 > **Nota.** NOTA 1 El Nº 5 del Decreto 173, Municipalidad de las Condes, publicado el 19.01.2010, modifica la presente norma en el sentido de reemplazar en el cuadro de "Vialidad Comunal" para las vías Colectoras, de Servicio y Locales, el renglón correspondiente al tramo de la Avenida Plaza, entre Avenida Camino El Alba y Avenida Carlos Peña Otaegui, por el que en dicha norma se detalla.
-
-> **Nota.** NOTA 2 El numeral 1° del Decreto 1132, M. de las Condes, publicado el 12.11.2015, modifica la presente norma en el sentido de eliminar en el cuadro de "Vialidad Comunal", la afectación a utilidad pública, de la nómina de vías y/o tramos de vías clasificadas como colectoras de servicio y locales, que la citada norma indica.
-
-> **Nota.** NOTA 3 El numeral 2° del Decreto 1132, M. de las Condes, publicado el 12.11.2015, modifica la presente norma en el sentido de rectificar error de clasificación para la Avenida Las Condes, en el tramo avenida Presidente Kennedy y Camino a Farellones nominada como vía Troncal, clasificándola como vía Expresa en concordancia con lo establecido en la Ordenanza del Plan Regulador Metropolitano de Santiago.
-
-> **Nota.** NOTA 4 Los numerales 1° y 2° del Decreto 8676, M. de las Condes, publicado el 27.12.2017, modifica la presente norma en el sentido de eliminar los cuadros correspondientes a la nómina de vías y/o tramos de vías clasificadas como colectoras de servicio y locales, contenidos en el numeral primero decreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015, y derogar el inciso segundo del numeral primero del decreto alcaldicio Sección 1ª N° 1.132, de 24 de abril de 2015.
 
 #### Artículo 46
 
