@@ -72,11 +72,13 @@ En aquellas instituciones con una dotación efectiva de más de 50 funcionarios,
 
 #### Artículo 8º
 
-Todos los funcionarios que laboren en las instituciones afectas al incremento por desempeño colectivo y que al momento de determinarse los equipos, unidades o áreas de trabajo hayan prestado servicios efectivos durante a lo menos 6 meses, deberán ser incluidos en uno de dichos equipos, no pudiendo en caso alguno serlo simultáneamente en más de un equipo.
+Todos los funcionarlos que laboren en las Instituciones afectas al incremento por desempeño colectivo al momento de determinarse los equipos, unidades o áreas de trabajo, deberán ser incluidos en uno de aquéllos, no pudiendo en caso alguno serlo simultáneamente en más de un equipo, unidad o área de trabajo.
 
-Los funcionarios que se incorporen a la institución después de la determinación de los equipos, unidades o áreas de trabajo y aquellos que, de conformidad con lo establecido en el inciso anterior, no les correspondiere estar en un equipo, unidad o área de trabajo no tendrán derecho al incremento por desempeño colectivo.
+Los funcionarios que se incorporen a la Institución después de la determinación de los equipos, unidades o áreas de trabajo deberán ser integrados a uno de ellos, sólo en la medida que dicha incorporación se materialice, a lo menos, con seis meses de anticipación al año calendario en que corresponda el pago del incremento por desempeño colectivo.
 
-Aquellos funcionarios a quienes, correspondiendo el incremento por desempeño colectivo, dejen de prestar servicios antes de completarse el trimestre respectivo que les da derecho a pago, tendrán derecho a que dicho incremento se pague en proporción a los meses completos efectivamente trabajados.
+Quienes se incorporen con posterioridad a la fecha señalada en el inciso anterior no serán incorporados en ninguno de los equipos, unidades o áreas de trabajo ya definidos y consiguientemente no tendrán derecho al incremento por desempeño colectivo a pagar el año siguiente al de su incorporación.
+
+Aquellos funcionarios a quienes, correspondiendo el incremento por desempeño colectivo, dejen de prestar servicios antes de completar el trimestre respectivo que les da derecho al pago, tendrán derecho a que dicho incremento se pague, en proporción a los meses completos efectivamente trabajados.
 
 #### Artículo 9º
 
@@ -86,7 +88,7 @@ Asimismo, podrá cambiarse de equipo, unidad o área de trabajo a un funcionario
 
 Los funcionarios que durante el período de ejecución de las Metas de Desempeño Colectivo se encontraren en alguna de las situaciones previstas en los incisos precedentes devengarán el incremento por desempeño colectivo correspondiente a los equipos donde haya servido, en forma proporcional al tiempo servido en cada uno de ellos.
 
-El responsable de la institución a la que el funcionario afectado por alguna de las situaciones previstas en los incisos primero y segundo del presente artículo pertenezca proporcionará, a través de la Secretaría Técnica, los antecedentes respectivos para que la Comisión proceda a la modificación del respectivo Acuerdo de Desempeño.
+En los casos previstos en el inciso segundo del artículo octavo y en los incisos primero y segundo del presente artículo, el responsable de la institución deberá proporcionar a la Secretaría Técnica los antecedentes respectivos para que la Comisión proceda a la modificación del respectivo Acuerdo de Desempeño. La Secretaría Técnica será responsable de mantener actualizadas las nóminas de los integrantes de cada Acuerdo de Desempeño.
 
 ## Título III
 
