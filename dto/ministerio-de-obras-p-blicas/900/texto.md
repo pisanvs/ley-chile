@@ -92,7 +92,7 @@ La obra cuya ejecución en concesión se apruebe deberá licitarse dentro de un 
 
 El postulante que ha dado origen a la licitación tendrá derecho a un premio en la evaluación de la oferta que formule con ocasión de la licitación de la concesión, cuya consideración será especificada en el Reglamento y en las Bases. Además, el Ministerio podrá ofrecer al postulante, el reembolso de todo o parte de los costos de los estudios que debió realizar para su proposición. Este reembolso podrá ser hecho directamente por el Ministerio de Obras Públicas si el proyecto presentado no se licita, o si la licitación convocada no se perfecciona por falta de adjudicación o por cualquier otra causa en uno o dos llamados, o se licita por un sistema distinto del de concesión. En caso de licitarse por concesión, este reembolso será de cargo del adjudicatario de la concesión, en la forma, modo y plazo que se establezca en las Bases de la Licitación. El Ministerio entregará al postulante un certificado en el que se individualizará al adjudicatario y se liquidará el monto de reembolso, el que tendrá mérito ejecutivo para todos los efectos legales. En caso que el postulante se adjudique la concesión, la forma, modo y plazos a que se sujetará el reembolso serán establecidas por el Ministerio en el respectivo contrato de concesión.
 
-La realización de estudios de preinversión y los proyectos de inversión a ejecutarse mediante el sistema de concesión deberán contar, como documento interno de la Administración, con un informe emitido por el Ministerio de Desarrollo Social. En el caso de los proyectos de inversión, el informe deberá estar fundamentado en una evaluación técnica y económica que analice su rentabilidad social. Los informes relativos a los estudios de preinversión y proyectos de inversión formarán parte del Banco Integrado de Proyectos de Inversión administrado por el Ministerio de Desarrollo Social. Mientras no se cuente con dicho informe no se podrá iniciar el proceso de licitación.
+Los proyectos a ejecutarse mediante el sistema de concesión, deberán contar, como documento interno de la Administración y, previo al llamado a licitación, con informe del organismo de planificación nacional, el cual deberá estar fundamentado en una evaluación técnica económica que analice su rentabilidad.
 
 #### Artículo 3°
 
@@ -598,15 +598,15 @@ Si dada la gravedad del caso ello fuera necesario, la Comisión podrá requerir 
 
 #### Artículo 38°
 
-En caso que se declare el inicio del procedimiento concursal de liquidación del concesionario, la primera junta ordinaria de acreedores deberá pronunciarse, a proposición del liquidador o de dos o más acreedores, por subastar la concesión o por la continuación definitiva de actividades económicas del concesionario. Si no hubiere acuerdo sobre una u otra de estas materias, deberá procederse a la subasta de la concesión.
+En caso de quiebra del concesionario, la primera junta ordinaria de acreedores deberá pronunciarse, a proposición del síndico o de dos o más acreedores, por subastar la concesión o por la continuación efectiva del giro del concesionario. Si no hubiere acuerdo sobre una u otra de estas materias, deberá procederse a la subasta de la concesión.
 
 Para la subasta de la concesión, las bases de la misma deberán respetar los términos, beneficios y condiciones del contrato de concesión primitivo. El mínimo de las posturas, en la primera subasta, no podrá ser inferior a los dos tercios del monto de la deuda contraída. A falta de postores se efectuará la segunda subasta sin mínimo.
 
 La adjudicación de la concesión se ajustará a lo previsto en el artículo 21.
 
-En el evento de que la junta de acreedores acordare la continuación definitiva de actividades económicas del concesionario, ésta no estará sujeta a otro plazo de término que lo que reste del contrato de concesión. En lo demás, se regulará por lo previsto en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas respecto de la continuación definitiva de actividades económicas.
+En el evento de que la junta de acreedores acordare la continuación efectiva del giro del concesionario, ésta no estará sujeta a otro plazo de término que lo que reste del contrato de concesión. En lo demás, se regulará por lo previsto en los artículos 112 y siguientes de la ley N° 18.175.
 
-En caso de declararse el inicio de un procedimiento concursal de liquidación, el Ministerio nombrará un representante para que, actuando coordinadamente con el liquidador y la junta de acreedores, vele por el mantenimiento del o de los servicios objeto de la concesión, sin perjuicio de que la representación del interés fiscal sea realizada por quien o quienes corresponda.
+En caso de quiebra, el Ministerio nombrará un representante para que, actuando coordinadamente con el síndico y la junta de acreedores, vele por el mantenimiento del o de los servicios objeto de la concesión, sin perjuicio de que la representación del interés fiscal sea realizada por quien o quienes corresponda.
 
 #### Artículo 39°
 
@@ -640,9 +640,21 @@ El cincuenta por ciento de estas multas ingresará al Fondo Común Municipal, pa
 
 En el juzgamiento de estas infracciones, constituirán medios de prueba las fotografías, filmaciones y cualquier otro medio técnico que el Ministerio de Obras Públicas hubiese autorizado para el control del incumplimiento de los pagos tarifarios.
 
-#### Artículo 43
+#### Artículo 43°
 
-DEROGADO.
+Establécese una prenda especial de concesión de obra pública, la cual será sin desplazamiento de los derechos y bienes prendados. Ella podrá ser pactada por el concesionario con los financistas de la obra o de su operación o en la emisión de títulos de deuda de la sociedad concesionaria. Ella podrá recaer:
+
+a) sobre el derecho de concesión de obra pública que para el concesionario emane del contrato;
+
+b) sobre todo pago comprometido por el Fisco a la sociedad concesionaria a cualquier título, en virtud del contrato de concesión, y
+
+c) sobre los ingresos de la sociedad.
+
+Esta prenda deberá constituirse por escritura pública e inscribirse en el Registro de Prenda Industrial del Conservador de Bienes Raíces de Santiago y en el del domicilio de la sociedad concesionaria, si éste fuere distinto. Además, deberá anotarse al margen de la inscripción de la sociedad concesionaria en el respectivo Registro de Comercio. Cuando esta prenda recaiga sobre acciones de la sociedad concesionaria, se anotará, además, en los registros correspondientes de la sociedad.
+
+A esta prenda se aplicará lo dispuesto en los artículos 25, inciso primero, 30; 31; 32; 33; 36; 37; 38; 40; 42; 43; 44; 46; 48; 49 y 50 de la ley N° 5.687, sobre Prenda Industrial.
+
+Será competente para conocer de todo litigio y de la ejecución de esta prenda especial de concesión de obra pública, a elección del acreedor, el Juez de Letras de la ciudad cabecera de la Región en la que se encuentre inscrita la sociedad concesionaria o el de asiento de corte en que tuviere su domicilio aquél.
 
 ARTICULOS TRANSITORIOS
 

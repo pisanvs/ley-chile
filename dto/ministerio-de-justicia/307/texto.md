@@ -46,7 +46,7 @@ Si transcurriere ese plazo sin que el Juez haya sido designado por la Municipali
 
 El cargo de Juez de Policía Local es incompatible con cualquier otro de la Municipalidad donde desempeña sus funciones y con el de Juez de otra comuna.
 
-Sin embargo, dos o más Municipalidades vecinas podrán reunirse y acordar, en la forma en que esos municipios convengan, la instalación de un Juzgado de Policía Local, que tendrá jurisdicción sobre las respectivas comunas, determinando a la vez las cuotas que para dichos servicios corresponderá a los diversos municipios. Lo anterior es sin perjuicio de lo dispuesto en el artículo 44 de la ley N° 18.695, Orgánica Constitucional de Municipalidades.
+Sin embargo, dos o más Municipalidades vecinas podrán reunirse y acordar la creación de un Juzgado de Policía Local, que tendrá jurisdicción sobre las respectivas comunas, determinando a la vez las cuotas que para dichos servicios corresponderá a los diversos municipios.
 
 En las Municipalidades con presupuestos inferiores a setenta sueldos vitales anuales de la respectiva provincia y en aquéllas ubicadas en una provincia en que el número de abogados que ejerzan la profesión sea igual o inferior a diez, el Juez de Policía Local podrá desempeñar también, sin mayor remuneración, las funciones de abogado municipal, cuando así lo acuerde la Municipalidad.
 
@@ -56,11 +56,13 @@ Los Jueces de Policía Local deberán tener el grado máximo del escalafón muni
 
 Sin perjuicio de lo anterior, existirá además una Asignación de Incentivo por Gestión Jurisdiccional, imponible y tributable, cuyo pago se efectuará con cargo al presupuesto de la respectiva Municipalidad, que tendrá el carácter de renta para todo efecto legal, la que se concederá teniendo como base los resultados de la calificación que efectúe cada Corte de Apelaciones, de acuerdo al procedimiento señalado en el artículo 8°, que se percibirá mensualmente durante el año inmediatamente siguiente al del respectivo proceso calificatorio y que se ceñirá al siguiente procedimiento:
 
-i) Para aquellos jueces de policía local calificados en Lista Sobresaliente o Muy Buena, a que se refiere el inciso tercero del artículo 278 del Código Orgánico de Tribunales, la asignación corresponderá a un 20% de la suma del sueldo base y la asignación municipal.
+i) Para el treinta y tres por ciento de los jueces de policía local mejor calificados por la Corte respectiva, la asignación corresponderá a un 20% de la suma del sueldo base y la asignación municipal.
 
-ii) Para aquellos jueces de policía local calificados en Lista Satisfactoria o Regular, contemplada en la norma citada precedentemente, la asignación corresponderá a un 10% de la suma del sueldo base y la asignación municipal.
+ii) Para los jueces de policía local que les sigan en orden descendente de evaluación, hasta completar el sesenta y seis por ciento de los mejor evaluados por la respectiva Corte, la asignación corresponderá a un 10% de la suma del sueldo base y la asignación municipal.
 
-iii) No tendrán derecho a percibir este incentivo los jueces de policía local calificados en Lista Condicional o Deficiente, ni aquellos que durante el año anterior al pago del mismo, por cualquier motivo, no hayan prestado servicios efectivos en el Juzgado de Policía Local durante seis meses o más, con la sola excepción de los períodos por los cuales se hubiesen acogido a licencias médicas contempladas en su régimen estatutario.
+iii) En caso de producirse empate en los puntajes de calificación entre varios jueces correspondientes a una misma Corte, y cuando ello impida determinar el porcentaje de incentivo que corresponde a cada juez, la respectiva Corte deberá dirimir dichos empates.
+
+iv) No tendrán derecho a percibir este incentivo los jueces de policía local que sean calificados en lista condicional o deficiente, ni aquellos que durante el año anterior al pago del mismo, por cualquier motivo, no hayan prestado servicios efectivos en el Juzgado de Policía Local durante seis meses o más, con la sola excepción de los períodos por los cuales se hubiesen acogido a licencias médicas contemplados en su régimen estatutario.
 
 En todo caso, los Jueces de Policía Local deben tener su domicilio dentro de la provincia a que corresponda la comuna donde presten sus servicios.
 
@@ -92,7 +94,7 @@ Los Jueces de Policía Local serán independientes de toda autoridad municipal e
 
 Los Jueces de Policía Local estarán directamente sujetos a la supervigilancia directiva, correccional y económica de la respectiva Corte de Apelaciones.
 
-Asimismo, dichos Jueces estarán obligados a remitir cada tres meses a la Corte de Apelaciones que corresponda un informe de la gestión del Tribunal a su cargo, para que la Corte los considere en la calificación anual del Juez. Los informes deberán remitirse a la respectiva Corte dentro de los primeros diez días hábiles de los meses de enero, abril, julio y octubre, y contendrán al menos los siguientes datos del trimestre anterior:
+Asimismo, dichos Jueces estarán obligados a remitir cada tres meses a la Corte de Apelaciones que corresponda un informe de la gestión del Tribunal a su cargo, para que la Corte los considere en la calificación anual del Juez. Los informes deberán remitirse a la respectiva Corte dentro de los primeros diez días hábiles de los meses de marzo, junio, septiembre y diciembre, y contendrán al menos los siguientes datos del trimestre anterior:
 
 1. Número de causas ingresadas, en total y por materia reclamada, indicando el estado en que se encuentren y los motivos del retardo y paralización que algunas de ellas sufrieren;
 
@@ -168,7 +170,7 @@ c) De las infracciones:
 
 6° A las leyes sobre pavimentación.
 
-7º A la ley que limita la generación de productos desechables y regula los plásticos.
+7º- DEROGADO
 
 8°- A la Ley sobre Expendio y Consumo de Bebidas Alcohólicas, de acuerdo a lo dispuesto en el artículo 53 de ese cuerpo legal.
 
@@ -176,15 +178,11 @@ c) De las infracciones:
 
 10°- A los artículos 5°, 6°, 10° y 12° de la ley N° 5.172, 13 de Diciembre de 1933, sobre Espectáculos Públicos Diversiones y Carreras;
 
-11°- A la ley N° 13.937, de 1 de Junio de 1960, sobre letrero con nombre de las calles en los inmuebles o sitios eriazos que hagan esquina;
+11° A la ley N° 13.937, de 1 de Junio de 1960, sobre letrero con nombre de las calles en los inmuebles o sitios eriazos que hagan esquina;
 
-12°- A la ley N° 4.023, de 12 de Junio de 1924, sobre guía de libre tránsito;
+12° A la ley N° 4.023, de 12 de Junio de 1924, sobre guía de libre tránsito, y
 
-13°- Al decreto con fuerza de ley 34, de 1931, sobre pesca y su reglamento;
-
-14°- A la ley que prohíbe la entrega de bolsas plásticas de comercio, y
-
-15º- A la ley que establece medidas de protección a la lactancia materna y su ejercicio.
+13°- Al decreto con fuerza de ley 34, de 1931, sobre pesca y su reglamento.
 
 > **Nota.** El artículo transitorio de la LEY 19925, publicada el 19.01.2004, dispone que la modificación al presente artículo entrará en vigencia gradualmente para las Regiones V, VI, VIII, X y Metropolitana de Santiago, de conformidad a lo dispuesto en el artículo 7º transitorio de la ley 19665, aplicándose entretanto las disposiciones legales existentes.
 

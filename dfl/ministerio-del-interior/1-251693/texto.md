@@ -216,9 +216,11 @@ Para garantizar el cumplimiento de los fines de las municipalidades y su adecuad
 
 6.- El cien por ciento de lo recaudado por multas impuestas por los Juzgados de Policía Local, por infracciones o contravenciones a las normas de tránsito, detectadas por medio de equipos de registro de infracciones.
 
-No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva.
+No obstante, tratándose de multas por infracciones o contravenciones al artículo 118 bis de la ley Nº 18.290, sólo el 70% de ellas pasarán a integrar el Fondo Común Municipal, quedando el porcentaje restante a beneficio de la municipalidad en que se hubiere aplicado la multa respectiva. Con todo, tratándose de las multas impuestas por infracción a la prohibición establecida en el inciso primero del artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, sólo el cincuenta por ciento de lo recaudado ingresará al Fondo Común Municipal, pasando el cincuenta por ciento restante a beneficio municipal.
 
 La distribución de este Fondo se sujetará a los criterios y normas establecidos en la Ley de Rentas Municipales.
+
+> **Nota.** La referencia efectuada en el inciso tercero, número 6 al artículo 118 bis de la Ley N° 18.290, debe entenderse efectuada al artículo 114 del decreto con fuerza de ley N° 1, del Ministerio de Justicia, de 2007, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.290, en razón de su contenido.
 
 ### Párrafo 4º
 

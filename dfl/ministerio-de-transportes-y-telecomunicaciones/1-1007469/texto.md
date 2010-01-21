@@ -16,7 +16,7 @@ Decreto con fuerza de ley:
 
 #### Artículo 1
 
-A la presente ley quedarán sujetas todas las personas que como peatones, pasajeros o conductores de cualquiera clase de vehículos, usen o transiten por los caminos, calles, ciclovías y demás vías públicas, rurales o urbanas, caminos vecinales o particulares destinados al uso público, de todo el territorio de la República.
+A la presente ley quedarán sujetas todas las personas que como peatones, pasajeros o conductores de cualquiera clase de vehículos, usen o transiten por los caminos, calles y demás vías públicas, rurales o urbanas, caminos vecinales o particulares destinados al uso público, de todo el territorio de la República.
 
 Asimismo se aplicarán estas normas, en lo que fueren compatibles, en aparcamientos y edificios de estacionamiento y demás lugares de acceso público.
 
@@ -34,113 +34,99 @@ Para todos los efectos de esta ley, las palabras o frases que se indican a conti
 
 5) Berma: Faja lateral, pavimentada o no, adyacente a la calzada de un camino;
 
-6) Bicicleta: Ciclo de dos ruedas cuyos pedales transmiten el movimiento a la rueda trasera, generalmente por medio de un plato, un piñón y una cadena;
+6) Calzada: Parte de una vía destinada al uso de vehículos y animales;
 
-7) Calzada: Parte de una vía destinada al uso de vehículos y animales;
+7) Camino: Vía rural destinada al uso de peatones, vehículos y animales;
 
-8) Camino: Vía rural destinada al uso de peatones, vehículos y animales;
+8) Ciclovía o ciclopista: Espacio destinado al uso exclusivo de bicicletas y triciclos;
 
-9) Ciclo: Vehículo no motorizado de una o más ruedas, propulsado exclusivamente por una o más personas situadas en él, tales como bicicletas y triciclos. También se considerarán ciclos aquellos vehículos de una o más ruedas que cuenten con un motor auxiliar eléctrico, de una potencia nominal continua máxima de 0,25 kilowatts, en los que la alimentación es reducida o interrumpida cuando el vehículo alcanza una velocidad máxima de 25 kilómetros por hora o antes si el ciclista termina de pedalear o propulsarlo, los que se considerarán para los efectos de esta ley como vehículos no motorizados;
+9) Conductor: Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales;
 
-10) Ciclovía: Espacio destinado al uso exclusivo de bicicletas y otros ciclos, que puede estar segregada física o visualmente, según las características y clasificaciones que se definan mediante reglamento;
+10) Cruce: La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso;
 
-11) Conductor: Toda persona que conduce, maneja o tiene control físico de un vehículo motorizado en la vía pública; que controla o maneja un vehículo remolcado por otro; o que dirige, maniobra o está a cargo del manejo directo de cualquier otro vehículo, de un animal de silla, de tiro o de arreo de animales;
+11) Cruce de ferrocarriles: Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes;
 
-12) Cruce: La unión de una calle o camino con otros, aunque no los atraviese. Comprende todo el ancho de la calle o camino entre las líneas de edificación o deslindes en su caso;
+12) Cruce regulado: Aquel en que existe semáforo funcionando normalmente, excluyendo la intermitencia; o hay Carabinero dirigiendo el tránsito;
 
-13) Cruce de ferrocarriles: Intersección de una calle o camino con una vía férrea por la cual existe tráfico regular de trenes;
+13) Cuneta: En calles, el ángulo formado por la calzada y el plano vertical producido por diferencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad;
 
-14) Cruce regulado: Aquel en que existe semáforo funcionando normalmente, excluyendo la intermitencia; o hay Carabinero dirigiendo el tránsito;
+14) Chasis: Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga;
 
-15) Cuneta: En calles, el ángulo formado por la calzada y el plano vertical producido por diferencia de nivel entre calzada y acera. En los caminos, el foso lateral de poca profundidad;
+15) Demarcación: Símbolo, palabra o marca de preferencia longitudinal o transversal, sobre la calzada para guía del tránsito de vehículos y peatones;
 
-16) Chasis: Armazón del vehículo, que comprende el bastidor, ruedas, transmisión con o sin motor, excluida la carrocería y todos los accesorios necesarios para acomodar al conductor, pasajeros o carga;
+16) Derecho preferente de paso: Prerrogativa de un peatón o conductor de un vehículo para proseguir su marcha;
 
-17) Demarcación: Símbolo, palabra o marca de preferencia longitudinal o transversal, sobre la calzada para guía del tránsito de vehículos y peatones;
+17) Detención: Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra;
 
-18) Derecho preferente de paso: Prerrogativa de un peatón o conductor de un vehículo para proseguir su marcha;
+18) Eje de calzada: La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales;
 
-19) Detención: Paralización a que obligan los dispositivos de señalización del tránsito o las órdenes de los funcionarios encargados de su regulación, como asimismo, la paralización breve de un vehículo para recibir o dejar pasajeros, pero sólo mientras dure esta maniobra;
+19) Esquina: El vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso;
 
-20) Eje de calzada: La línea longitudinal a la calzada, demarcada o imaginaria, que determinará las áreas con sentido de tránsito opuesto de la misma; al ser imaginaria, la división es en dos partes iguales;
+20) Estacionamiento o aparcamiento: Lugar permitido por la autoridad para estacionar;
 
-21) Esquina: El vértice del ángulo que forman las líneas de edificación o deslinde convergentes, según sea el caso;
+21) Estacionar: Paralizar un vehículo en la vía pública con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros;
 
-22) Estacionamiento o aparcamiento: Lugar permitido por la autoridad para estacionar;
+22) Guarda - cruzada: Encargado de la vigilancia de un cruce de ferrocarril;
 
-23) Estacionar: Paralizar un vehículo en la vía pública con o sin el conductor, por un período mayor que el necesario para dejar o recibir pasajeros;
+23) Homologación: Procedimiento mediante el cual se certifica que un modelo de vehículo motorizado cumple las normas técnicas vigentes emanadas del Ministerio de Transportes y Telecomunicaciones;
 
-24) Guarda - cruzada: Encargado de la vigilancia de un cruce de ferrocarril;
+24) Intersección: Área común de calzadas que se cruzan o convergen;
 
-25) Homologación: Procedimiento mediante el cual se certifica que un modelo de vehículo motorizado cumple las normas técnicas vigentes emanadas del Ministerio de Transportes y Telecomunicaciones;
+25) Licencia de conductor: Documento que la autoridad competente otorga a una persona para conducir un vehículo;
 
-26) Intersección: Área común de calzadas que se cruzan o convergen;
-
-27) Licencia de conductor: Documento que la autoridad competente otorga a una persona para conducir un vehículo motorizado o a tracción animal;
-
-28) Línea de detención de vehículos: La línea transversal a la calzada, demarcada o imaginaria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está:
+26) Línea de detención de vehículos: La línea transversal a la calzada, demarcada o imaginaria, antes de una intersección o un paso para peatones, que no debe ser sobrepasada por los vehículos que deban detenerse. Si no estuviera demarcada, se entiende que está:
 
 a) en cruces regulados y pasos para peatones, a no menos de un metro antes de éstos, y
 
 b) en otros cruces, justo antes de la intersección;
 
-29) Línea de detención adelantada: Línea transversal a la calzada demarcada conforme al reglamento, antes de un cruce regulado con semáforo, que determina el inicio de la zona de espera especial para conductores de ciclos o motocicletas;
+27) Línea de edificación: La formada por el deslinde de la propiedad con la acera;
 
-30) Línea de edificación: La formada por el deslinde de la propiedad con la acera;
+28) Locomoción colectiva: El servicio remunerado de transporte de personas en vehículos destinados al uso público;
 
-31) Locomoción colectiva: El servicio remunerado de transporte de personas en vehículos destinados al uso público;
+29) Luz baja: Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros;
 
-32) Luz baja: Luz proyectada por los focos delanteros del vehículo en que el borde superior del haz luminoso es paralelo a la calzada y cuya potencia permite visualizar obstáculos a una distancia no inferior a 50 metros;
+30) Luz alta: Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros;
 
-33) Luz alta: Luz proyectada por los focos delanteros del vehículo en forma paralela a la calzada, cuya potencia permite visualizar obstáculos a una distancia no inferior a 150 metros;
+31) Luz de estacionamiento: Luz continua o intermitente que permite identificar un vehículo estacionado;
 
-34) Luz de estacionamiento: Luz continua o intermitente que permite identificar un vehículo estacionado;
+32) Padrón o permiso de circulación: Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas;
 
-35) Padrón o permiso de circulación: Documento otorgado por la autoridad, destinado a individualizar al vehículo y a su dueño con el objeto de que pueda circular por las vías públicas;
+33) Paso para peatones: La senda de seguridad en la calzada, señalizada conforme al reglamento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras;
 
-36) Paso para peatones: La senda de seguridad en la calzada, señalizada conforme al reglamento. En cruces regulados no demarcados, corresponderá a la franja formada por la prolongación imaginaria de las aceras;
+34) Pista de circulación: Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos;
 
-37) Pista de circulación: Faja demarcada o imaginaria destinada al tránsito de una fila de vehículos;
+35) Pista de uso exclusivo: Espacio de la calzada debidamente señalizado, destinado únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
 
-38) Pista de uso exclusivo: Espacio de la calzada debidamente señalizado, destinado únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
+36) Placa patente: Distintivo que permite individualizar al vehículo;
 
-39) Placa patente: Distintivo que permite individualizar al vehículo;
+37) Semáforo: Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones;
 
-40) Semáforo: Dispositivo luminoso mediante el cual se regula la circulación de vehículos y peatones;
+38) Señal de tránsito: Los dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito;
 
-41) Señal de tránsito: Los dispositivos, signos y demarcaciones oficiales, de mensaje permanente o variable, instalados por la autoridad con el objetivo de regular, advertir o encauzar el tránsito;
+39) Sobrepasar: Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada;
 
-42) Sobrepasar: Maniobra mediante la cual un vehículo pasa a otro u otros que circulan en el mismo sentido sin traspasar el eje de la calzada;
+40) Taxi: Automóvil destinado públicamente al transporte de personas;
 
-43) Taxi: Automóvil destinado públicamente al transporte de personas;
+41) Tránsito: Desplazamiento de peatones, animales o vehículos por vías de uso público;
 
-44) Tránsito: Desplazamiento de peatones, animales o vehículos por vías de uso público;
+42) Vehículo: Medio con el cual, sobre el cual o por el cual toda persona u objeto puede ser transportado por una vía;
 
-45) Triciclo motorizado de carga: Vehículo motorizado de tres ruedas destinado exclusivamente al transporte de carga. La capacidad de carga de estos vehículos no podrá superar los 300 kilogramos de peso.
+43) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
 
-46) Vehículo: Medio motorizado o no motorizado con el cual, sobre el cual o por el cual toda persona u objeto puede transportarse o ser transportado por una vía. Quedan excluidas de esta definición aquellas ayudas técnicas que permitan a personas con movilidad reducida o infantes, transportarse o ser transportados, tales como sillas de ruedas, motorizadas o no, coches para bebé y otros similares;
+44) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
 
-47) Vehículo de emergencia: El perteneciente a Carabineros de Chile e Investigaciones, al Cuerpo de Bomberos, a las brigadas forestales de la Corporación Nacional Forestal, a las Fuerzas Armadas, vehículos que cumplen funciones de seguridad municipal pertenecientes tanto a las municipalidades como a las asociaciones de municipalidades, al Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil y las ambulancias de las instituciones fiscales o de los establecimientos particulares que tengan el respectivo permiso otorgado por la autoridad competente;
+45) Vehículo para el transporte escolar: Vehículo motorizado construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad;
 
-48) Vehículo de locomoción colectiva: Vehículo motorizado, destinado al uso público, para el transporte remunerado de personas, exceptuados los taxis que no efectúen servicio colectivo;
+46) Vía: Calle, camino u otro lugar destinado al tránsito;
 
-49) Vehículo para el transporte escolar: Vehículo motorizado construido para transportar más de siete pasajeros sentados y destinado al transporte de escolares desde o hacia el colegio o relacionado con cualquiera otra actividad;
+47) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
 
-50) Vehículo tranvía: Vehículo motorizado destinado al transporte público remunerado de pasajeros, que se desplaza en zonas urbanas exclusivamente a través de rieles sobre la vía.
+48) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
 
-51) Vía: Calle, camino u otro lugar destinado al tránsito;
+49) Zona rural: Área geográfica que excluye las zonas urbanas, y
 
-52) Vía de tránsito restringido: Aquella en que los conductores, los propietarios de los terrenos adyacentes u otras personas no tienen derecho a entrar o salir, sino por los lugares y bajo las condiciones fijadas por la autoridad competente;
-
-53) Zona de espera especial: Área señalizada conforme al reglamento, que permite a los conductores de ciclos o motocicletas detenerse y reiniciar su marcha delante de otros vehículos motorizados, en un cruce regulado con semáforo;
-
-54) Zona de tránsito calmado: Vía o conjunto de vías emplazadas en zonas urbanas, definidas dentro de una determinada área geográfica, en las que a través de condiciones físicas u operacionales de las vías se establecen velocidades máximas de circulación inferiores a las establecidas en esta ley, pudiendo éstas ser de 40 kilómetros por hora, 30 kilómetros por hora o 20 kilómetros por hora;
-
-55) Vía exclusiva: Calzada debidamente señalizada, destinada únicamente al uso de ciertos vehículos, determinados por la autoridad correspondiente;
-
-56) Zona rural: Área geográfica que excluye las zonas urbanas, y
-
-57) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
+50) Zona urbana: Área geográfica cuyos límites, para los efectos de esta ley, deben estar determinados y señalizados por las Municipalidades.
 
 #### Artículo 3
 
@@ -156,23 +142,19 @@ Las Municipalidades, en caso alguno, podrán dictar normas destinadas a modifica
 
 Carabineros de Chile y los Inspectores Fiscales y Municipales serán los encargados de supervigilar el cumplimiento de las disposiciones a que se refiere la presente ley, sus reglamentos y las de transporte y tránsito terrestre que dicte el Ministerio de Transportes y Telecomunicaciones o las Municipalidades, debiendo denunciar, al Juzgado que corresponda, las infracciones o contravenciones que se cometan. Asimismo, fiscalizarán el cumplimiento de las normas sobre jornada de trabajo de los conductores de vehículos destinados al servicio público de pasajeros o de carga, contenidas en el Código del Trabajo, y denunciarán su incumplimiento a la Inspección del Trabajo correspondiente al domicilio del empleador.
 
-Con la finalidad de hacer más eficaces las labores de supervigilancia de las disposiciones de transporte y tránsito, las personas señaladas en el inciso anterior podrán cumplir dichas labores manteniendo en reserva su identificación. Con todo, para efectuar el control, cursar la infracción y efectuar la denuncia ante el juzgado competente y solicitar la documentación respectiva al infractor, deberán identificarse en su calidad funcionaria.
-
-Para los efectos de lo dispuesto en los incisos precedentes, podrán utilizarse equipos de registro y de detección de infracciones, en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+Para los efectos del inciso anterior, podrán utilizarse equipos de registro y de detección de infracciones, en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
 Los equipos de registro de infracciones podrán consistir en películas cinematográficas, fotográficas, fonográficas u otras formas de reproducción de la imagen y del sonido y, en general, en medios aptos para producir fe.
 
 Las normas de tránsito cuyo cumplimiento se fiscalice mediante el uso de los equipos antes mencionados deberán estar señalizadas de conformidad a las disposiciones del Manual de Señalización de Tránsito, cuando corresponda.
 
-El reglamento, que se expedirá por intermedio del Ministerio de Transportes y Telecomunicaciones, contemplará los estándares técnicos que tales equipos deberán cumplir en resguardo de su confiabilidad y certeza, y establecerá las condiciones en que han de ser usados para que las imágenes u otros elementos de prueba que de ellos se obtengan puedan servir de base para denunciar infracciones o contravenciones. Entre estas últimas, dispondrá especialmente la existencia de señales de tránsito que adviertan con claridad y en forma oportuna a los conductores o pasajeros los sectores o vehículos en que se usan estos equipos. Cuando éstos se utilicen para controlar vehículos, se adoptarán las medidas necesarias para asegurar el respeto y protección a la vida privada, tales como la prohibición de que las imágenes permitan individualizar a los ocupantes de los vehículos.
-
-Los equipos que se utilicen para registrar y detectar las infracciones de evasión contenidas en el número 4 del artículo 199 y en el número 42 del artículo 200 permitirán la individualización de los pasajeros infractores. El Ministerio de Transportes y Telecomunicaciones estará facultado para tratar la información que obtenga mediante el uso de estos equipos con la finalidad de cursar las respectivas infracciones y efectuar las citaciones al juzgado de policía local competente. Asimismo, podrá emplear la información recogida para mejorar la calidad de los servicios de transporte público, incrementar la eficiencia y eficacia de los controles de fiscalización, y efectuar el levantamiento, clasificación, comparación y análisis de información estadística agregada.
+El reglamento, que se expedirá por intermedio del Ministerio de Transportes y Telecomunicaciones, contemplará los estándares técnicos que tales equipos deberán cumplir en resguardo de su confiabilidad y certeza, y establecerá las condiciones en que han de ser usados para que las imágenes u otros elementos de prueba que de ellos se obtengan puedan servir de base para denunciar infracciones o contravenciones. Entre estas últimas, dispondrá especialmente la existencia de señales de tránsito que adviertan con claridad y en forma oportuna a los conductores los sectores en que se usan estos equipos; y adoptará medidas tendientes a asegurar el respeto y protección a la vida privada, tal como la prohibición de que las imágenes permitan individualizar a los ocupantes del vehículo.
 
 Los equipos de registro y detección de infracciones relativas a velocidad y luz roja sólo podrán ser operados por Carabineros de Chile, y por los inspectores fiscales designados por el Ministerio de Obras Públicas, en el caso de las plazas de peaje, operación de túneles y en los tramos en que se estén realizando obras de reparación y mantención de caminos públicos construidos y explotados al amparo del decreto supremo Nº 900, del Ministerio de Obras Públicas, de 1996, que fijó el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 164, del Ministerio de Obras Públicas, de 1991, Ley de Concesiones de Obras Públicas.
 
-El juez de policía local sólo admitirá a tramitación la denuncia basada en los señalados medios probatorios luego de cerciorarse de que éstos se obtuvieron por los respectivos carabineros o inspectores fiscales usando un equipo de registro de infracciones con sujeción al reglamento. Al efecto, podrá estimar suficiente comprobación el certificado que expida el jefe de la correspondiente unidad policial, el director del tránsito o el inspector fiscal del Ministerio de Transportes y Telecomunicaciones y se acompañe a la denuncia.
+El juez de policía local sólo admitirá a tramitación la denuncia basada en los señalados medios probatorios luego de cerciorarse de que éstos se obtuvieron por los respectivos carabineros o inspectores fiscales usando un equipo de registro de infracciones con sujeción al reglamento. Al efecto, podrá estimar suficiente comprobación el certificado que expida el jefe de la correspondiente unidad policial o el Director del Tránsito y se acompañe a la denuncia.
 
-En todo caso, si la denuncia por supuesta infracción o contravención a las normas de tránsito se funda únicamente en alguno de dichos medios de prueba y, entre la fecha en que se habría cometido y aquélla en que se notificó la citación al juzgado de policía local a la persona a cuyo nombre esté inscrito el vehículo o al pasajero infractor, según corresponda, transcurrieren más de cuarenta y cinco días, no podrá continuar el procedimiento y el juez ordenará el archivo de los antecedentes.
+En todo caso, si la denuncia por supuesta infracción o contravención a las normas de tránsito se funda únicamente en alguno de dichos medios de prueba y, entre la fecha en que se habría cometido y aquélla en que se notificó la citación al juzgado de policía local a la persona a cuyo nombre esté inscrito el vehículo transcurrieren más de cuarenta y cinco días, no podrá continuar el procedimiento y el juez ordenará el archivo de los antecedentes.
 
 ## Título I
 
@@ -190,7 +172,7 @@ En uso de sus atribuciones el tribunal competente podrá exigir la presentación
 
 Los documentos antes indicados otorgados en el país, son instrumentos públicos.
 
-Se exceptúa de la exigencia establecida en el inciso primero de este artículo a los alumnos en práctica de las escuelas de conductores que, acompañados de un instructor habilitado, lo hagan en vehículos de la escuela, a los postulantes a licencia de conducir que se encuentren realizando el examen práctico acompañados de un funcionario municipal habilitado para tales efectos y a los conductores de 18 o más años de edad que conduzcan vehículos motorizados de tres ruedas, cuya velocidad máxima no supere los 30 kilómetros por hora.
+Se exceptúa de la exigencia establecida en el inciso primero de este artículo a los alumnos en práctica de las escuelas de conductores que, acompañados de un instructor habilitado, lo hagan en vehículos de la escuela.
 
 #### Artículo 6
 
@@ -200,13 +182,13 @@ Asimismo, tratándose de vehículos motorizados, deberán portar y entregar el c
 
 #### Artículo 7
 
-Se prohíbe al propietario o encargado de un vehículo motorizado o a tracción animal facilitarlo a una persona que no posea licencia para conducirlo.
+Se prohíbe al propietario o encargado de un vehículo facilitarlo a una persona que no posea licencia para conducirlo.
 
-Si se sorprendiere conduciendo un vehículo motorizado o a tracción animal a quien no porte los documentos a que se refiere el artículo anterior, Carabineros podrá retirar el vehículo de circulación para ser puesto a disposición del tribunal competente, para la aplicación de las sanciones que correspondan. Si antes de enviarse el parte al respectivo tribunal, lo que no podrá ocurrir sino pasadas cuarenta y ocho horas, el conductor acredita ante Carabineros poseer la documentación adecuada y vigente, se le devolverá el vehículo, cursándose la infracción correspondiente.
+Si se sorprendiere conduciendo un vehículo a quien no porte los documentos a que se refiere el artículo anterior, Carabineros podrá retirar el vehículo de circulación para ser puesto a disposición del tribunal competente, para la aplicación de las sanciones que correspondan. Si antes de enviarse el parte al respectivo tribunal, lo que no podrá ocurrir sino pasadas cuarenta y ocho horas, el conductor acredita ante Carabineros poseer la documentación adecuada y vigente, se le devolverá el vehículo, cursándose la infracción correspondiente.
 
 #### Artículo 8
 
-Los propietarios o encargados de vehículos motorizados y a tracción animal no podrán celebrar actos o contratos que impliquen la conducción de esos vehículos por personas que no tengan una licencia vigente para conducir la clase de vehículo de que se trate.
+Los propietarios o encargados de vehículos no podrán celebrar actos o contratos que impliquen la conducción de esos vehículos por personas que no tengan una licencia vigente para conducir la clase de vehículo de que se trate.
 
 Si la infracción a esta prohibición fuera cometida por personas o empresas dedicadas a dar en arrendamiento vehículos motorizados, serán sancionadas con la clausura del establecimiento, que no podrá ser inferior a siete días ni superior a quince. En caso de reincidencia, los plazos señalados se elevarán al doble y en caso de una tercera infracción, el Juez decretará la clausura definitiva del establecimiento.
 
@@ -238,7 +220,7 @@ Para el transporte de personas:
 
 Clase A-1: Para conducir taxis.
 
-Clase A-2: Para conducir indistintamente taxis, ambulancias o vehículos motorizados de transporte público y privado de personas con capacidad de diez a diecisiete asientos, excluido el conductor, o de hasta treinta y dos asientos, cuando se haya estado en posesión de esta licencia por, a lo menos, dos años y siempre que el largo del vehículo no exceda los nueve metros.
+Clase A-2: Para conducir indistintamente taxis, ambulancias o vehículos motorizados de transporte público y privado de personas con capacidad de diez a diecisiete asientos, excluido el conductor.
 
 Clase A-3: Para conducir indistintamente taxis, vehículos de transporte remunerado de escolares, ambulancias o vehículos motorizados de transporte público y privado de personas sin limitación de capacidad de asientos.
 
@@ -264,7 +246,7 @@ Clase D: Para conducir maquinarias automotrices como tractores, sembradoras, cos
 
 Clase E: Para conducir vehículos a tracción animal, como carretelas, coches, carrozas y otros similares.
 
-Clase F: Para conducir vehículos motorizados de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones de Chile, de Gendarmería de Chile, del Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil y Bomberos de Chile.
+Clase F: Para conducir vehículos motorizados de las Fuerzas Armadas, Carabineros de Chile, Policía de Investigaciones de Chile, de Gendarmería de Chile y Bomberos de Chile.
 
 El Ministerio de Transportes y Telecomunicaciones establecerá, mediante Reglamento, los cursos, exigencias y requisitos especiales que deberá exigir la Academia Nacional de Bomberos a sus postulantes, para otorgarles el certificado que los habilite para solicitar la licencia de conductor clase F.
 
@@ -280,15 +262,11 @@ Los postulantes a licencia de conductor deberán reunir los siguientes requisito
 
 1) Acreditar idoneidad moral, física y psíquica;
 
-2) Acreditar conocimientos teóricos y prácticos de conducción, así como de las disposiciones legales y reglamentarias que rigen al tránsito público. Para la conducción de los triciclos motorizados de carga, los conocimientos teóricos se acreditarán mediante un examen simplificado, en los términos que lo establezca el reglamento respectivo del Ministerio de Transportes y Telecomunicaciones;
+2) Acreditar conocimientos teóricos y prácticos de conducción, así como de las disposiciones legales y reglamentarias que rigen al tránsito público;
 
-3) Poseer cédula nacional de identidad o de extranjería vigentes, con letras o dígitos verificadores;
+3) Poseer cédula nacional de identidad o de extranjería vigentes, con letras o dígitos verificadores, y
 
-4) Acreditar, mediante declaración jurada, que no es consumidor de drogas, estupefacientes o sustancias sicotrópicas prohibidas que alteren o modifiquen la plenitud de las capacidades físicas o síquicas, conforme a las disposiciones contenidas en la ley Nº 20.000 y su Reglamento. La fiscalización del cumplimiento de esta disposición se hará de acuerdo con los artículos 182 y 183 de esta ley, y
-
-5) Acreditar, en caso de las clases A-1, A-2 y A-3, que no tiene anotaciones relativas a los delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal. Lo anterior, mediante el respectivo certificado de antecedentes para fines especiales del Registro General de Condenas.
-
-6) No haber sido sorprendido por Carabineros de Chile realizando alguna de las conductas descritas en los incisos primero de los artículos 25 y 26 de la ley N° 19.925, sobre expendio y consumo de bebidas alcohólicas, en los últimos doce meses.
+4) Acreditar, mediante declaración jurada, que no es consumidor de drogas, estupefacientes o sustancias sicotrópicas prohibidas que alteren o modifiquen la plenitud de las capacidades físicas o síquicas, conforme a las disposiciones contenidas en la ley Nº 20.000 y su Reglamento. La fiscalización del cumplimiento de esta disposición se hará de acuerdo con los artículos 182 y 183 de esta ley.
 
 Para obtener las licencias que a continuación se señalan, los postulantes deberán reunir, además, los siguientes requisitos especiales:
 
@@ -298,13 +276,9 @@ LICENCIA PROFESIONAL
 
 2) Acreditar haber estado en posesión de la licencia Clase B durante dos años;
 
-3) Aprobar los cursos teóricos y prácticos que impartan las escuelas de conductores profesionales debidamente reconocidas por el Estado;
+3) Aprobar los cursos teóricos y prácticos que impartan las escuelas de conductores profesionales debidamente reconocidas por el Estado, y
 
-4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia profesional clases A-2, A-3 o A-4;
-
-5) Acreditar, para el caso de las licencias de conductor profesional clases A-3 y A-5, en aquellos casos de conductores que no hayan estado en posesión de las licencias indicadas en el número 4) precedente, haber aprobado un curso teórico y práctico especial, que contemple el uso de simuladores de inmersión total u otra tecnología equivalente, cuyas características y especificaciones técnicas estarán establecidas en un reglamento dictado por el Ministerio de Transportes y Telecomunicaciones, en una Escuela para Conductores Profesionales reconocida oficialmente por dicho Ministerio, que haya sido autorizada para impartir este curso especial, de conformidad con el respectivo reglamento, y
-
-6) Aprobar en la Municipalidad respectiva el examen teórico correspondiente a la Clase de licencia profesional a la que se postula.
+4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la licencia Clase A-2 o Clase A-1. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia Clase A-4.
 
 LICENCIA NO PROFESIONAL CLASE B
 
@@ -320,9 +294,7 @@ LICENCIA NO PROFESIONAL CLASE C
 
 1.- Tener como mínimo 18 años de edad, y
 
-2.- Ser egresado de enseñanza básica. Este requisito no será exigible a quienes postulen a esta licencia para conducir triciclos motorizados de carga.
-
-El otorgamiento de la licencia Clase C para conducir triciclos motorizados de carga sólo habilitará para la conducción de este tipo de vehículos.
+2.- Ser egresado de enseñanza básica.
 
 LICENCIA ESPECIAL CLASE D
 
@@ -358,9 +330,7 @@ A) LICENCIA PROFESIONAL
 
 a) La idoneidad física y psíquica por medio de un certificado expedido por el médico del Departamento de Tránsito y Transporte Público Municipal respectivo;
 
-b) Los conocimientos teóricos por medio del examen rendido en la Municipalidad respectiva, y los conocimientos prácticos por medio de certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, debiendo el Director de Tránsito de la Municipalidad correspondiente adoptar las medidas que estime necesarias a fin de comprobar la efectividad de dichos conocimientos y las destrezas y habilidades requeridas para conducir el vehículo de que se trate.
-
-A los conductores profesionales que renueven su licencia profesional no les será exigible el requisito especial establecido en los números 3) o 5), según corresponda, del inciso segundo del artículo 13, en el acápite Licencia Profesional.
+b) Los conocimientos teóricos y prácticos, por medio de certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, sin perjuicio del deber por parte del Director de Tránsito de la Municipalidad respectiva de adoptar las medidas que estime necesarias, a fin de comprobar la efectividad de dichos conocimientos y las destrezas y habilidades requeridas para conducir el vehículo de que se trate.
 
 B) LICENCIA NO PROFESIONAL Y LICENCIA ESPECIAL
 
@@ -393,8 +363,6 @@ Para calificar la idoneidad moral de los interesados a que se refiere el artícu
 3. Por delitos contra el orden de la familia y la moralidad pública, y
 
 4. Por el delito de conducir con licencia de conductor, boleta de citación o permiso provisorio judicial para conducir, falsos u obtenidos en contravención a esta ley o pertenecientes a otra persona.
-
-5. Por delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal para el caso de las licencias de conductor profesional clase A-1, A-2 y A-3.
 
 #### Artículo 17
 
@@ -498,7 +466,7 @@ DE LA ENSEÑANZA DE LAS NORMAS DE TRÁNSITO Y DE LAS ESCUELAS DE CONDUCTORES
 
 #### Artículo 30
 
-El Ministerio de Educación deberá contemplar en los programas de los establecimientos de enseñanza básica y media del país, entre sus actividades oficiales y permanentes, la enseñanza de las disposiciones que regulan el tránsito, el uso de las vías públicas y los medios de transportes motorizados y no motorizados.
+El Ministerio de Educación deberá contemplar en los programas de los establecimientos de enseñanza básica y media del país, entre sus actividades oficiales y permanentes, la enseñanza de las disposiciones que regulan el tránsito, el uso de las vías públicas y los medios de transportes.
 
 §2. DE LAS ESCUELAS DE CONDUCTORES
 
@@ -506,9 +474,11 @@ El Ministerio de Educación deberá contemplar en los programas de los estableci
 
 #### Artículo 31
 
-Las Escuelas para Conductores podrán ser de clase A, para Conductores Profesionales y no profesionales, y, de Clase B, para postulantes de licencia no profesional, de Clase C, o Especial Clase D o de varias a la vez.
+Las Escuelas para Conductores podrán ser de clase A, para Conductores Profesionales y no profesionales, y, de Clase B, para postulantes de licencia no profesional, Clases B y C, o Especial Clase D.
 
-Las Escuelas deberán impartir los conocimientos, destrezas y habilidades necesarias para la conducción de los vehículos motorizados a que se refiere la respectiva licencia. Su enseñanza deberá promover el conocimiento, respeto y cuidado de los derechos y deberes de los peatones, ciclistas y conductores de otros ciclos.
+LEY Nº18.290
+
+Las Escuelas deberán impartir los conocimientos, destrezas y habilidades necesarias para la conducción de los vehículos motorizados a que se refiere la respectiva licencia.
 
 #### Artículo 32
 
@@ -538,8 +508,6 @@ g) Adquirir conocimientos generales sobre relaciones humanas para lograr una mej
 
 Además, deberán tener la infraestructura docente, de equipamiento y elementos de docencia necesarios para impartir debidamente la correspondiente enseñanza. El personal docente deberá poseer la idoneidad moral y profesional que requiere la asignatura respectiva.
 
-Sin perjuicio de la libertad señalada en el inciso precedente, el Ministerio de Transportes y Telecomunicaciones establecerá en un reglamento, la duración del curso y contenidos mínimos prácticos y teóricos que habrá de considerar el programa del curso especial especificado en el número 5) del artículo 13, incluyendo el mínimo de horas de conducción por alumno en vehículo y el mínimo y máximo de horas en simulador, las cuales en ningún caso podrán superar un 30 por ciento del total de horas de conducción, y todas las materias relacionadas con su debida instrucción.
-
 #### Artículo 34
 
 Las Escuelas de Conductores Profesionales, para obtener su reconocimiento oficial, deberán entregar a la autoridad regional de transportes correspondiente, los planes y programas que elaboren para cumplir los objetivos establecidos en el artículo anterior. Asimismo, deberán señalar la infraestructura, equipamiento, elementos de docencia, calificaciones, títulos, especialidades y experiencia del personal docente, y el lugar o los lugares donde funcionará la Escuela. Todo cambio de lugar deberá ser informado al Ministerio de Transportes y Telecomunicaciones, dentro de los 5 días siguientes de efectuado el traslado.
@@ -568,7 +536,7 @@ A los cursos impartidos por las Escuelas de Conductores Profesionales les serán
 
 #### Artículo 37
 
-El Ministerio de Transportes y Telecomunicaciones podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales, mediante resolución fundada, si ésta no cumple con los planes, programas, docencia e infraestructura que determinaron su reconocimiento oficial. También podrá revocar dicho reconocimiento y,o cursar una multa a beneficio fiscal de 300 a 500 unidades tributarias mensuales en caso de acreditarse que la Escuela ha otorgado certificados a personas que no han recibido total o parcialmente los contenidos, actividades, evaluaciones y,o asignaturas, prácticas o teóricas, que corresponden a los cursos que imparten. Esta resolución se notificará al representante legal de la Escuela mediante carta certificada enviada al lugar de funcionamiento que ésta haya registrado en el Ministerio, entendiéndose practicada la notificación a contar del tercer día siguiente a su recepción en la oficina de Correos del lugar de funcionamiento de la Escuela. La afectada, dentro de los 15 días siguientes a su notificación, podrá solicitar reconsideración de la cancelación, acompañando a su solicitud todos los antecedentes que justifiquen sus descargos.
+El Ministerio de Transportes y Telecomunicaciones podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales, mediante resolución fundada, si ésta no cumple con los planes, programas, docencia e infraestructura que determinaron su reconocimiento oficial. Esta resolución se notificará al representante legal de la Escuela mediante carta certificada enviada al lugar de funcionamiento que esté registrado en el Ministerio. La afectada, dentro de los 15 días siguientes de entregada la carta al Servicio de Correos, podrá solicitar reconsideración de la cancelación, acompañando a su solicitud todos los antecedentes que justifiquen sus descargos.
 
 El Ministerio deberá resolver esta solicitud dentro de los 30 días siguientes a la fecha de su presentación. La resolución que recaiga en ella deberá ser notificada a la interesada, dentro de los 5 días siguientes a la fecha de su pronunciamiento, mediante carta certificada enviada al domicilio que la recurrente haya señalado en su presentación y, de no haberlo hecho, al lugar de funcionamiento que la Escuela tenga registrado en el Ministerio. La no resolución oportuna o su falta de notificación o la notificación tardía, hará que se tenga por aceptada la reconsideración. De rechazar la reconsideración, la afectada podrá reclamar a la Corte de Apelaciones respectiva, dentro del plazo de 10 días contados desde la fecha de entrega, al Servicio de Correos, de la carta certificada que notifique el rechazo. La Corte de Apelaciones conocerá en cuenta, sin esperar la comparecencia del reclamante y en única instancia.
 
@@ -588,37 +556,15 @@ La constitución del dominio, su transmisión, transferencia y los gravámenes s
 
 #### Artículo 39
 
-El Servicio de Registro Civil e Identificación llevará un Registro de Vehículos Motorizados en la base de datos central de su sistema electrónico, en el cual se inscribirán los vehículos y la individualización de sus propietarios y se anotarán las patentes únicas que otorgue.
+El Servicio de Registro Civil e Identificación llevará un Registro de Vehículos Motorizados en la base de datos central de su sistema mecanizado, en el cual se inscribirán los vehículos y la individualización de sus propietarios y se anotarán las patentes únicas que otorgue.
 
-La inscripción de un vehículo se efectuará al otorgarse la patente única. Los documentos que autoricen dicha inscripción serán incorporados en el Repositorio Digital del Servicio de Registro Civil e Identificación.
+Además, en cada oficina del Servicio de Registro Civil e Identificación habrá un libro repertorio y un índice, los que estarán a cargo del Oficial Civil respectivo.
 
-En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo, en la forma y condiciones que indique el reglamento referido en el artículo 46.
+La inscripción de un vehículo se efectuará al otorgarse la patente única. Los documentos que autoricen dicha inscripción serán incorporados en el Archivo Nacional del Servicio de Registro Civil e Identificación.
 
-Declarada la pérdida total de un vehículo asegurado como resultado de su destrucción o porque haya sido desarmado total o parcialmente, la compañía aseguradora deberá requerir la cancelación de la inscripción del vehículo respectivo en el Registro Nacional de Vehículos Motorizados, informará de ello al asegurado y devolverá las respectivas placas patentes.
+En él se anotarán también todas las alteraciones en los vehículos que los hagan cambiar su naturaleza, sus características esenciales, o que los identifican, como asimismo su abandono, destrucción o su desarmaduría total o parcial o la cancelación de la inscripción a solicitud del propietario. Para estos efectos su propietario estará obligado a dar cuenta del hecho de que se trate al Registro. En su caso, deberá cancelarse la inscripción y retirarse las patentes del vehículo.
 
-En el caso de que la pérdida total sea declarada respecto de vehículos asegurados que no estén comprendidos en el inciso anterior, y que sean susceptibles de reparación, las compañías de seguros deberán regularizar la propiedad de los vehículos siniestrados, y requerirán su inscripción en el Registro Nacional de Vehículos Motorizados a su nombre o a nombre de los compradores respectivos, en el plazo de treinta días contado desde la firma del finiquito por el asegurado o del pago de la indemnización.
-
-Mientras no se efectúen las inscripciones, anotaciones y cancelaciones ordenadas, los vehículos que se encuentren en las situaciones antes descritas quedarán bajo la responsabilidad de la aseguradora.
-
-Asimismo, deberá anotarse la denuncia por la apropiación de un vehículo motorizado, especificando si ha sido objeto de robo o hurto, a requerimiento de la autoridad policial, judicial o del Ministerio Público. Si se tratare de un robo, el registro especificará si se ejerció sobre su legítimo tenedor alguna de las conductas descritas en el artículo 439 del Código Penal.
-
-La denuncia deberá ser incorporada dentro de las cuatro horas siguientes de efectuado el requerimiento a que se refiere el inciso precedente. La referida anotación deberá constar en los certificados de inscripciones y anotaciones vigentes del vehículo respectivo.
-
-La información sobre las denuncias incorporadas al Registro de Vehículos Motorizados se encontrará permanentemente a disposición del público, en las páginas web institucionales de Carabineros de Chile, de la Policía de Investigaciones de Chile y del Ministerio Público, especificando, entre otros datos, la placa patente única, el número de motor, número de chasis, color, año y las circunstancias en que fue apropiado.
-
-#### Artículo 39 bis
-
-La primera inscripción de los vehículos nuevos o usados, según corresponda, así como las variaciones del dominio de los vehículos inscritos; los gravámenes, prohibiciones, embargos y medidas precautorias; los arrendamientos con opción de compra y otros títulos que otorguen la mera tenencia material; las alteraciones que hagan cambiar la naturaleza de los vehículos, sus características esenciales o que los identifican; su abandono, destrucción o desarmaduría total o parcial; las denuncias por la apropiación de un vehículo motorizado; las rectificaciones de errores, omisiones o cualquier modificación equivalente de una inscripción; y las cancelaciones de inscripción, se tramitarán a través del sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, acompañando la documentación pertinente.
-
-Tratándose de la primera inscripción del dominio de un vehículo en el Registro de Vehículos Motorizados, quien solicite dicho trámite deberá presentar la respectiva factura electrónica, documentos aduaneros o sentencia judicial y el comprobante del pago de los tributos correspondientes, sin perjuicio de cualquier otra documentación cuya presentación disponga el reglamento indicado en el artículo 46.
-
-Si la solicitud está fundada en una factura de primera venta, ésta deberá haber sido emitida por empresas incluidas en la nómina de habilitados que el Servicio de Registro Civil e Identificación deberá llevar especialmente al efecto.
-
-El Servicio de Registro Civil e Identificación determinará, de conformidad con un reglamento que se dictará para ese efecto, los requisitos mínimos que deberá contener la nómina, tales como el nombre, razón social y número de RUT del emisor de la factura. En el reglamento se establecerá, además, la forma y requisitos para incorporarse a aquella nómina.
-
-Si el vendedor o emisor de la factura no se encuentra incluido en la nómina mencionada en el inciso anterior, el Servicio de Registro Civil e Identificación no procederá a la inscripción del vehículo y no podrá hacer entrega de las placas patentes respectivas.
-
-> **Nota.** NOTA 1 El artículo segundo transitorio de la ley 21601, publicada el 11.09.2023, dispone que la dictación del reglamento a que se refiere la presente norma, deberá efectuarse en el plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial.
+Asimismo, deberá anotarse la denuncia por la sustracción de un vehículo motorizado a requerimiento de una autoridad policial o judicial, o de su propietario en ciertos casos, en la forma y condiciones que determine el reglamento.
 
 #### Artículo 40
 
@@ -656,23 +602,19 @@ En el Registro de Vehículos Motorizados se inscribirán, además, las variacion
 
 No serán oponibles a terceros ni se podrán hacer valer en juicio los gravámenes, prohibiciones, embargos, medidas precautorias, arrendamientos con opción de compra u otros títulos que otorguen la tenencia material del vehículo, mientras no se efectúe la correspondiente anotación en el Registro.
 
-Si el acto que sirvió de título a la transferencia de un vehículo fuere consensual, ésta se realizará mediante declaración escrita conjunta que suscribirán, el adquirente y la persona a cuyo nombre figure inscrito el vehículo ante Oficial de Registro Civil e Identificación, a través del formulario correspondiente en el sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación o adjuntando dicha declaración suscrita por ambas partes con firma electrónica avanzada. Cuando la transferencia se verifique a través de un instrumento público o privado autorizado ante notario, se incorporará al sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación. El reglamento referido en el artículo 46 indicará la forma de llevar a cabo estas anotaciones.
-
-Asimismo, el citado reglamento regulará la forma en la cual se incorporarán al sistema electrónico del Registro de Vehículos Motorizados aquellos actos que deban efectuarse de manera presencial.
+Si el acto que sirvió de título a la transferencia de un vehículo fuere consensual, se acreditará mediante declaración escrita conjunta que suscribirán ante el Oficial de Registro Civil e Identificación el adquirente y la persona a cuyo nombre figure inscrito el vehículo, o mediante instrumento público o instrumento privado autorizado ante Notario.
 
 #### Artículo 42
 
 Las inscripciones y anotaciones se realizarán por estricto orden de presentación de la solicitud respectiva.
 
-De igual manera quedarán anotadas dichas solicitudes en el Repertorio Electrónico que se formará con las presentaciones diarias, anotación que valdrá como fecha de la inscripción.
+De igual manera se anotarán dichas solicitudes en el Repertorio, anotación que valdrá como fecha de la inscripción.
 
-El Repertorio será generado diariamente por el Oficial de Registro Civil e Identificación, quien deberá incorporar los datos en el sistema electrónico del Registro de Vehículos Motorizados, certificando el número de anotaciones efectuadas, de conformidad a lo dispuesto en el reglamento referido en el artículo 46.
+El Repertorio será cerrado diariamente por el Oficial de Registro Civil e Identificación, dejando expresa constancia del número de anotaciones efectuadas.
 
-El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición. En caso de que se trate de un vehículo nuevo regirá lo dispuesto en el inciso segundo del artículo 51.
+El adquiriente de un vehículo deberá solicitar su inscripción dentro de los treinta días siguientes a la fecha de su adquisición.
 
-En los casos en que el título traslaticio de dominio sea autorizado por un notario u otro ministro de fe, éste deberá requerir del vendedor un certificado del Registro de Multas del Tránsito no pagadas, al momento de la celebración del contrato, y solicitar la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.
-
-El comprador responderá sólo por las multas empadronadas que figuren en el certificado emitido por el Servicio de Registro Civil e Identificación al momento de la compra. Dicho Servicio se abstendrá de anotar la multa impaga en el Registro de Multas de Tránsito no Pagadas, si el propietario del vehículo que figura en el Registro de Vehículos Motorizados es distinto de quien lo era a la fecha de la infracción. Lo anterior no obsta a la responsabilidad de la persona condenada al pago de la multa.
+En los casos en que el título translaticio de dominio sea autorizado por Notario u otro Ministro de fe, éste deberá requerir la inscripción a costa del adquirente, en el plazo señalado en el inciso anterior.
 
 La inscripción de dominio de los vehículos deberá indicar el domicilio del propietario.
 
@@ -690,13 +632,11 @@ Se presumirá propietario de un vehículo motorizado la persona a cuyo nombre fi
 
 #### Artículo 45
 
-El adquirente de un vehículo motorizado por acto entre vivos o por sucesión por causa de muerte podrá solicitar a través del sistema electrónico del Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, de conformidad a lo señalado en el reglamento referido en el artículo 46, que se inscriba el vehículo a su nombre, acreditando previamente el título de dominio. Podrá, igualmente, solicitar un certificado que pruebe haber requerido la inscripción.
+El adquirente de un vehículo motorizado por acto entre vivos o por sucesión por causa de muerte podrá solicitar ante cualquier Oficial de Registro Civil e Identificación del país, que se inscriba el vehículo a su nombre, acreditando previamente el título de dominio. Podrá, igualmente, solicitar un certificado que pruebe haber requerido la inscripción.
 
 #### Artículo 46
 
 Un reglamento establecerá las menciones que deba contener la inscripción para la adecuada individualización del vehículo y su propietario, así como las demás formalidades que deberán observarse.
-
-Asimismo, regulará las materias dispuestas en el artículo 39 bis, y todas aquellas que resulten necesarias para el buen funcionamiento del sistema electrónico del Registro de Vehículos Motorizados.
 
 #### Artículo 47
 
@@ -734,11 +674,9 @@ El Servicio de Registro Civil e Identificación cobrará los derechos que se est
 
 Los vehículos motorizados no podrán transitar sin la placa única, el permiso de circulación otorgado por las Municipalidades y el certificado de un seguro obligatorio de accidentes causados por vehículos motorizados.
 
-Todo vehículo motorizado nuevo que se comercialice en el país deberá entregarse por parte de los comercializadores con sus placas patentes únicas instaladas.
-
-Los comercializadores que infrinjan lo dispuesto en el inciso precedente serán sancionados conforme a lo dispuesto en el inciso cuarto del artículo 204.
-
 Los remolques y semirremolques que deban inscribirse en el Registro Especial de Remolques y Semirremolques, deberán tener placa patente única, requisito sin el cual no estarán autorizados a transitar.
+
+La placa patente única deberá obtenerse en la Oficina del Servicio de Registro Civil e Identificación en que se solicite la inscripción.
 
 El certificado del seguro obligatorio de accidentes causados por vehículos motorizados deberá portarse siempre en el vehículo y encontrarse vigente.
 
@@ -752,9 +690,9 @@ Asimismo, determinará los colores, forma y dimensiones, condiciones de mantenci
 
 #### Artículo 53
 
-La obtención de la placa patente única y de la inscripción correspondiente deberá solicitarse a través de cualquiera de las oficinas del Servicio de Registro Civil e Identificación del país, mediante su sistema electrónico, de conformidad a lo dispuesto en el respectivo reglamento. La entrega material de la placa patente única se efectuará en las oficinas habilitadas al efecto. El Servicio de Registro Civil e Identificación dispondrá la habilitación de al menos una oficina en cada región del país para efectos de la entrega material de las placas patentes.
+La obtención de la patente única y de la inscripción correspondiente se solicitará en cualquiera Oficina de Registro Civil e Identificación, la que otorgará el certificado de inscripción que lo identifique.
 
-El certificado que dé cuenta de la solicitud de inscripción a que se refiere el inciso anterior deberá otorgarse cada vez que se cambie el titular del dominio del vehículo.
+Igual certificado deberá otorgarse cada vez que se cambie el titular del dominio del vehículo.
 
 El certificado de inscripción se otorgará en ejemplares cuya forma y especificaciones técnicas las determinará el reglamento y será uniforme para todo el país.
 
@@ -768,11 +706,9 @@ El certificado de inscripción deberá contener, a lo menos, las siguientes indi
 
 4. Marca, año, modelo del vehículo y los números de fábrica que lo identifiquen;
 
-5. Fecha de emisión del certificado de inscripción;
+5. Fecha de emisión del certificado de inscripción, y
 
-6. Fecha en que se practicó la inscripción, así como la fecha del cambio del propietario, si lo hubiere, y
-
-7. La anotación sobre denuncias por la apropiación de vehículos a que se refiere el artículo 39.
+6. Fecha en que se practicó la inscripción, así como la fecha del cambio del propietario, si lo hubiere.
 
 El certificado de inscripción de los camiones y tractocamiones cuyo peso bruto vehicular sea igual o superior a 3.860 kilogramos, deberá contener además las siguientes menciones:
 
@@ -796,17 +732,13 @@ El certificado de inscripción de los camiones y tractocamiones cuyo peso bruto 
 
 La exigencia de patente única tendrá las siguientes excepciones:
 
-1.- Las Municipalidades podrán otorgar, semestralmente, permisos de circulación provisional a las personas jurídicas con establecimientos comerciales dentro de sus comunas, con el objeto de que sean utilizados por la casa comercial para exhibición en la vía pública de vehículos motorizados nuevos.
+1.- Las Municipalidades podrán otorgar, anualmente, permisos de circulación provisional a las personas naturales o jurídicas con establecimientos comerciales dentro de sus comunas, para ser utilizada por la casa comercial en los vehículos motorizados nuevos, para sus necesidades de traslado o exhibición en la vía pública.
 
-Estos permisos se otorgarán en un determinado número, no superior a cinco, para una misma persona jurídica.
-
-Las Municipalidades llevarán un registro de los permisos de circulación provisionales que se otorguen. Junto con ello, el municipio deberá entregar placas provisorias cuyo diseño y características serán fijadas por el Ministerio de Transportes y Telecomunicaciones.
-
-Las Municipalidades que otorguen estos permisos deberán informarlos a la Subsecretaría de Desarrollo Regional y Administrativo en la oportunidad y forma que ésta determine.
+Estos permisos se otorgarán en un determinado número, no superior a cinco para una misma persona natural o jurídica. En casos especialmente calificados por la Municipalidad, este número podrá aumentar a diez.
 
 2.- Los vehículos extranjeros en tránsito temporal que tengan la placa de su país y que hayan cumplido las exigencias que requiere la patente extranjera;
 
-3.- Los vehículos nuevos con peso bruto vehicular igual o superior a 3.860 kilogramos, que solo puedan desplazarse por sus propios medios y únicamente para fines de traslado a dependencias del comercializador. El Ministerio de Transportes y Telecomunicaciones determinará la forma y los requisitos con que estos vehículos podrán circular sin el uso de la patente única mediante un reglamento.
+3.- Los vehículos nuevos cuyos propietarios los internen al país o los adquieran en una firma importadora, de una armaduría o un establecimiento comercial, podrán transitar por la vía pública por un tiempo no superior a cinco días con la factura de compra del vehículo, para el solo efecto de obtener la patente única y el permiso de circulación, y
 
 4.- Los vehículos pertenecientes a las Fuerzas Armadas y a Carabineros de Chile, debidamente identificados y destinados exclusivamente a uso militar o policial, según el caso.
 
@@ -818,9 +750,7 @@ Si la placa patente original se extravía, se inutiliza o se deteriora gravement
 
 Todo vehículo que transite sin llevar la placa patente respectiva, será retirado de la circulación por Carabineros o Inspectores Municipales, para ser puesto a disposición del Juzgado de Policía Local que corresponda. Dichos vehículos serán mantenidos en lugares especialmente habilitados por la Municipalidad para tal efecto, quedando el Juez facultado para ordenar su devolución al propietario tan pronto éste obtenga la placa patente.
 
-El mismo procedimiento se aplicará a los vehículos que transiten sin el permiso de circulación vigente, sin el certificado vigente del seguro obligatorio de accidentes personales, sin el certificado de revisión técnica al día o sin contar con el certificado de homologación individual o que circulen con placa patente oculta, en mal estado o con el número de identificación del vehículo (VIN) o de motor adulterados o borrados.
-
-Se entenderá que la placa patente se encuentra oculta o en mal estado cuando esté cubierta o mantenga cualquier elemento, fijo o móvil, que dificulte su identificación total o parcialmente o posea un deterioro considerable.
+El mismo procedimiento se aplicará a los vehículos que transiten sin el permiso de circulación vigente o sin el certificado vigente de un seguro obligatorio de accidentes causados por vehículos motorizados.
 
 #### Artículo 57
 
@@ -876,21 +806,17 @@ El remolque de vehículos motorizados deberá efectuarse en las condiciones que 
 
 #### Artículo 62
 
-Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas. En el caso específico de los vehículos pertenecientes a los Cuerpos de Bomberos y de aquellos utilizados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, las características técnicas y pesos máximos permitidos deberán considerar a lo menos la necesidad de su adecuada y oportuna intervención en el auxilio de incendios y otros siniestros, sus especiales características funcionales y su flujo de circulación.
+Los vehículos deberán reunir las características técnicas de construcción, dimensiones y condiciones de seguridad, comodidad, presentación y mantenimiento que establezca el Ministerio de Transportes y Telecomunicaciones, y no podrán exceder los pesos máximos permitidos por el Ministerio de Obras Públicas.
 
 No podrán transitar los vehículos que excedan los pesos máximos permitidos.
-
-Los vehículos motorizados deberán contar con su placa patente única grabada, de forma permanente, en sus vidrios y espejos laterales. Un reglamento del Ministerio de Transportes y Telecomunicaciones deberá establecer las características de este grabado.
-
-> **Nota.** El artículo segundo transitorio de la ley 21601, publicada el 11.09.2023, dispone que la dictación del reglamento a que se refiere la presente norma, deberá efectuarse en el plazo de seis meses contado desde la publicación de esta ley en el Diario Oficial. Adicionalmente, establece que la obligación de grabar la placa patente única en vidrios y espejos laterales de los vehículos motorizados será aplicable conforme a lo siguiente: a) para vehículos nuevos, la obligación será exigible desde el cuarto mes de publicado el reglamento en el Diario Oficial; b) para vehículos comercializados con anterioridad a la publicación de esta ley, la obligación será exigible luego de transcurridos doce meses desde la publicación del reglamento en el Diario Oficial.
 
 #### Artículo 63
 
 En casos de excepción debidamente calificados, y tratándose de cargas indivisibles la Dirección de Vialidad podrá autorizar la circulación de vehículos que excedan las dimensiones o pesos establecidos como máximos, con las precauciones que en cada caso se disponga.
 
-Esta autorización deberá ser comunicada, oportunamente, a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos para lo cual autorizará, según el nivel de riesgo, la contratación de servicios de seguridad privada que permitan la custodia y transporte de carga sobredimensionada.
+Esta autorización deberá ser comunicada, oportunamente, a Carabineros de Chile con el objeto de que adopte las medidas de seguridad necesarias para el desplazamiento de dichos vehículos.
 
-La autorización establecida en el inciso primero estará sujeta a un cobro de los derechos que se establezcan por decreto supremo del Ministerio de Obras Públicas, a beneficio de la Dirección de Vialidad.
+Dichas autorizaciones estarán sujetas a un cobro de los derechos que se establezcan por decreto supremo del Ministerio de Obras Públicas, a beneficio de la Dirección de Vialidad.
 
 §2. DE LA CARGA
 
@@ -914,23 +840,7 @@ No se podrá transportar materias peligrosas en vehículos de alquiler ni en los
 
 En los vehículos motorizados de carga no se podrá transportar personas en los espacios destinados a carga, cualquiera que sea la clase de vehículo, salvo en casos justificados, y adoptando las medidas de seguridad apropiadas.
 
-En ningún caso los vehículos motorizados de tres ruedas destinados al transporte de carga podrán transportar personas en los espacios destinados a carga.
-
-§3. DEL TRANSPORTE DE CONCENTRADOS MINERALES
-
-#### Artículo 67 bis
-
-El transporte de concentrados minerales deberá realizarse siempre por medios herméticos y con los grados de humedad necesarios para evitar su volatilidad.
-
-Se entenderá que el transporte se realiza de la manera antes indicada, cuando se haga por medios estancos a pulverulentos, que impidan el paso de líquidos y sólidos, desde y hacia la carga que se transporta, a fin de evitar cualquier derrame eventual o accidental durante el traslado.
-
-#### Artículo 67 ter
-
-Un reglamento expedido por los ministerios de Transportes y Telecomunicaciones, de Minería y del Medio Ambiente determinará la forma en que se realizará la carga, transporte y descarga de minerales y de concentrados de minerales como también las obligaciones del generador de la carga en tal procedimiento. Lo anterior, con el objetivo de impedir la emisión de partículas al aire libre en el transporte de dichos elementos.
-
-El referido reglamento se deberá dictar dentro del plazo de ciento veinte días desde la fecha de publicación de la presente ley.
-
-§4. DE LAS MEDIDAS DE SEGURIDAD
+§3. DE LAS MEDIDAS DE SEGURIDAD
 
 (ARTS. 68 - 81)
 
@@ -950,7 +860,7 @@ Los vehículos deberán contar con el o los sistemas de freno, luces y elementos
 
 #### Artículo 71
 
-Se prohíbe el uso, adosamiento o la conducción con luces o focos distintos o adicionales a los permitidos por la ley o sus reglamentos.
+Se prohíbe el uso de cualquier foco o luz que induzca a error en la conducción.
 
 Sólo los vehículos de emergencia y los demás que determine el reglamento que se dicte podrán o deberán estar provistos de dispositivos luminosos, fijos o giratorios, y su uso se sujetará a lo que el reglamento respectivo determine.
 
@@ -982,7 +892,7 @@ No podrá hacerse uso del aparato sonoro de un vehículo en el interior, al entr
 
 Los vehículos motorizados según tipo y clase estarán provistos, además, de los siguientes elementos:
 
-1.- Vidrios de seguridad que permitan una perfecta visibilidad desde y hacia el interior del vehículo. Podrá contar con vidrios oscuros o polarizados que cumplan con los factores de transmisión regular de la luz u otras cualidades ópticas, y las certificaciones, establecidas en el reglamento.
+1.- Vidrios de seguridad que permitan una perfecta visibilidad desde y hacia el interior del vehículo. Prohíbense los vidrios oscuros o polarizados, salvo los que se contemplen en el Reglamento.
 
 Prohíbese la colocación en ellos de cualquier objeto que impida la plena visual;
 
@@ -1008,15 +918,11 @@ Tratándose de los vehículos de carga, de movilización colectiva o de caracter
 
 El uso de cinturón de seguridad será obligatorio para los ocupantes de los asientos delanteros. Igual obligación regirá para los ocupantes de asientos traseros de vehículos livianos, definidos por el decreto supremo Nº 211, de 1991, del Ministerio de Transportes y Telecomunicaciones, cuyo año de fabricación sea 2002 o posterior. En los servicios de transporte de pasajeros en taxis, cualquiera sea su modalidad, la responsabilidad del uso del cinturón de seguridad recae en el pasajero, salvo que dicho elemento no funcione, en cuyo caso será imputable a su propietario.
 
-Se prohíbe el traslado de menores de doce años en los asientos delanteros en automóviles, camionetas, camiones y similares, excepto en aquellos de cabina simple.
+Se prohíbe el traslado de menores de ocho años en los asientos delanteros en automóviles, camionetas, camiones y similares, excepto en aquellos de cabina simple.
 
-Los conductores serán responsables del uso obligatorio de sistema de retención infantil para niños de hasta 8 años, inclusive, o estatura de 135 centímetros y 33 kilogramos de peso que viajen en los asientos traseros de los vehículos livianos, de acuerdo a las exigencias y el calendario que fijará el reglamento. Asimismo, este reglamento establecerá las categorías de los sistemas de retención infantil, de acuerdo a la edad, peso y estatura de los menores. Se exceptúan de esta obligación, los servicios de transporte de pasajeros en taxis, en cualquiera de sus modalidades.
+Los conductores, serán responsables del uso obligatorio de sillas para niños menores de cuatro años que viajen en los asientos traseros de los vehículos livianos, de acuerdo a las exigencias y el calendario que fijará el reglamento. Se exceptúan de esta obligación, los servicios de transporte de pasajeros en taxis, en cualquiera de sus modalidades.
 
 Los vehículos de transporte escolar deberán estar equipados con cinturón de seguridad para todos sus pasajeros y su uso será obligatorio en todos los vehículos cuyo año de fabricación sea 2007 en adelante.
-
-Las mismas obligaciones establecidas en el inciso anterior regirán para los minibuses cuyo año de fabricación sea 2012 en adelante.
-
-Los buses que presten servicios de transporte interurbano público o privado de pasajeros deberán estar equipados con cinturón de seguridad en todos sus asientos. Su uso será obligatorio para el pasajero, salvo que dicho elemento no funcione, en cuyo caso la infracción a esta obligación será imputable al propietario del vehículo. Esta obligación será exigible a los buses que presten servicios de transporte público interurbano de pasajeros cuyo año de fabricación sea 2008 en adelante. En los buses de transporte privado interurbano de pasajeros dichas exigencias serán aplicables en vehículos cuyo año de fabricación sea 2012 o posterior. Sin perjuicio de lo anterior, su uso será obligatorio en todos aquellos vehículos que dispongan de cinturón de seguridad, cualquiera sea su año de fabricación, pudiendo el conductor del vehículo solicitar el descenso del pasajero que se niegue a usarlo, además de la multa a que se expone el pasajero.
 
 #### Artículo 76
 
@@ -1032,15 +938,13 @@ El Ministerio de Transportes y Telecomunicaciones podrá determinar otras reglas
 
 Los vehículos motorizados deberán estar equipados, ajustados o carburados de modo que el motor no emita materiales o gases contaminantes en un índice superior a los permitidos.
 
-Quedarán exceptuados de lo dispuesto en el inciso anterior los vehículos pertenecientes a los Cuerpos de Bomberos y aquellos utilizados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil.
-
 Cuando Carabineros constate técnicamente que un vehículo ha superado dichos índices, podrá retirarlo de la circulación, poniéndolo a disposición del tribunal competente en los lugares habilitados por las Municipalidades, de los cuales únicamente podrá retirarlo con autorización del Juez, que la otorgará con el objeto de que el infractor solucione el problema de contaminación denunciado. En estos casos se aplicará el Artículo 156 de esta Ley.
 
 El Juez podrá absolver al conductor que, denunciado por conducir un vehículo con emanación de gases, acreditare haber reparado el vehículo y subsanado la causa de la emanación a la fecha de su comparecencia al Tribunal, mediante certificado expedido por un establecimiento competente.
 
 #### Artículo 79
 
-Ningún vehículo podrá usarse para llevar mayor número de personas que aquél para el cual fue diseñado o equipado. Tratándose de motocicletas, motonetas y bicimotos, el acompañante deberá ir sentado a horcajadas.
+Las motocicletas, motonetas, bicimotos, triciclos y bicicletas no podrán usarse para llevar mayor número de personas que aquél para el cual fueron diseñados y equipados. El acompañante deberá ir sentado a horcajadas.
 
 #### Artículo 80
 
@@ -1050,7 +954,7 @@ Todo conductor de motocicletas, motonetas, bicimotos y su acompañante deberán 
 
 En los vehículos de tracción animal deberán usarse animales adiestrados y con arneses que reúnan condiciones que permitan mantener el control del vehículo y proporcionen seguridad a los ocupantes.
 
-§5. DISTINTIVOS Y COLORES DE CIERTOS VEHÍCULOS
+§4. DISTINTIVOS Y COLORES DE CIERTOS VEHÍCULOS
 
 (ARTS. 82 - 83)
 
@@ -1068,7 +972,7 @@ Los demás vehículos que por su función requieran de una identificación espec
 
 ## Título VI
 
-DEL TRANSPORTE PÚBLICO DE PASAJEROS
+DEL TRANSPORTE PÚBLICO DE PASAJEROS Y DE LOS PASAJEROS DE VEHÍCULOS DE LOCOMOCIÓN COLECTIVA
 
 (ARTS. 84-88)
 
@@ -1086,7 +990,7 @@ Artículos 85.- Los servicios de locomoción colectiva de pasajeros y de taxis, 
 
 #### Artículo 86
 
-Al ser requerido por un pasajero, de palabra o mediante la señal correspondiente, o cuando haya personas que deseen subir al vehículo, el conductor estará obligado a detener su marcha completamente en el paradero más próximo. La detención deberá hacerse siempre al costado derecho de los caminos, sobre la berma, y en la vía urbana, junto a la acera, o al costado izquierdo cuando exista una zona destinada exclusivamente para la detención de los vehículos de transporte público remunerado de pasajeros o cuando las condiciones así lo permitan y lo autorice el Secretario Regional Ministerial de Transportes y Telecomunicaciones respectivo.
+Al ser requerido por un pasajero, de palabra o mediante la señal correspondiente, o cuando haya personas que deseen subir al vehículo, el conductor estará obligado a detener su marcha completamente en el paradero más próximo. La detención deberá hacerse siempre al costado derecho de los caminos, sobre la berma, y en la vía urbana, junto a la acera.
 
 #### Artículo 87
 
@@ -1096,7 +1000,7 @@ Prohíbese a los conductores de estos vehículos:
 
 2.- Llevar pasajeros en las pisaderas y no mantener cerradas las puertas del vehículo cuando se encuentre en movimiento;
 
-3.- Admitir individuos que fumen o que no guarden compostura debida, o que ejerzan la mendicidad.
+3.- Admitir individuos ebrios, desaseados, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad o cualquier clase de comercio en el vehículo;
 
 4.- Admitir animales, canastos, bultos o paquetes que molesten a los pasajeros o que impidan la circulación por el pasillo del vehículo. Exceptúanse de esta prohibición, los perros de asistencia que acompañen a pasajeros con discapacidad;
 
@@ -1106,81 +1010,17 @@ Prohíbese a los conductores de estos vehículos:
 
 7.- Fumar en el interior del vehículo.
 
-#### Artículo 87 bis
+> **Nota.** El Nº 1 del artículo único de la LEY 20388, publicada el 07.11.2009, ordenó modificar el artículo 91 de la Ley 18290. Sin embargo, la modificación no se incorporó al texto refundido debido a que la referencia no es concordante, ya que la enumeración de los artículos en el texto refundido fue cambiada. De acuerdo a los contenidos, el texto que correspondería actualizar es el presente artículo, que quedaría como sigue: "Articulo 87.- Prohíbese a los conductores de estos vehículos: 1.- Proveerlos de combustible con personas en su interior; 2.- Llevar pasajeros en las pisaderas y no mantener cerradas las puertas del vehículo cuando se encuentre en movimiento; 3.- Admitir individuos ebrios, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad; 4.- Admitir animales, canastos, bultos o paquetes que molesten a los pasajeros o que impidan la circulación por el pasillo del vehículo. Exceptúanse de esta prohibición, los perros de asistencia que acompañen a pasajeros con discapacidad. 5.- Ponerlo en movimiento o no detenerlo completamente cuando hayan pasajeros que deseen subir o bajar del vehículo; 6.- Aumentar o disminuir la velocidad del vehículo con el objeto de disputarse pasajeros, entorpeciendo la circulación y el buen servicio, y 7.- Fumar en el interior del vehículo."
 
-Aquellos conductores con licencia de conducir profesional clase A-1, A-2 o A-3 que hayan sido condenados por los delitos previstos en el Libro Segundo, Título VII, Párrafos 5, 6 y 6 bis del Código Penal no podrán desempeñarse en ninguna modalidad de servicios de transporte público de pasajeros.
+> **Nota.** NOTA 1 El Nº 2 del artículo único de la LEY 20388, ordenó agregar un artículo 91 bis. De acuerdo a su contenido, dicho artículo debería quedar ubicado a continuación del artículo 87 del presente texto refundido. Su texto es el siguiente: "Articulo 87 bis.- Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones: a) Los trabajadores vendedores ambulantes independientes del transporte deberán contar con iniciación de actividades como tales ante el Servicio de Impuestos Internos. b) En el caso de que dichos trabajadores se encuentren, además, organizados y registrados como sindicato de trabajadores independientes en la Dirección del Trabajo, podrán solicitar, a su costo, la emisión de una credencial que los acredite como tales. c) Los trabajadores que ejerzan este oficio deberán acreditar el origen de las mercaderías que expendan y exhibir la copia de su iniciación de actividades, ante el requerimiento que en cualquier momento efectúe la fuerza pública. d) Las empresas de transporte urbano de pasajeros podrán acordar con los sindicatos de trabajadores independientes la emisión de credenciales que permitan el ejercicio de esta actividad. e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejercicio de esta actividad en sus respectivas máquinas, salvo si ello implica, en un momento determinado, un peligro de accidente vial, o bien entorpece de manera manifiesta y evidente la comodidad de los pasajeros, especialmente en las horas de mayor congestión. Asimismo, deberán negarse a la subida de un vendedor en paraderos no autorizados. f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor."
 
-En caso que un conductor contravenga esta prohibición, la licencia de conductor será cancelada según las reglas que establece el artículo 20 de la presente ley.
-
-#### Artículo 87 ter
-
-Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones:
-
-a) Los trabajadores vendedores ambulantes independientes del transporte deberán contar con iniciación de actividades como tales ante el Servicio de Impuestos Internos.
-
-b) En el caso de que dichos trabajadores se encuentren, además, organizados y registrados como sindicato de trabajadores independientes en la Dirección del Trabajo, podrán solicitar, a su costo, la emisión de una credencial que los acredite como tales.
-
-c) Los trabajadores que ejerzan este oficio deberán acreditar el origen de las mercaderías que expendan y exhibir la copia de su iniciación de actividades, ante el requerimiento que en cualquier momento efectúe la fuerza pública.
-
-d) Las empresas de transporte urbano de pasajeros podrán acordar con los sindicatos de trabajadores independientes la emisión de credenciales que permitan el ejercicio de esta actividad.
-
-e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejercicio de esta actividad en sus respectivas máquinas, salvo si ello implica, en un momento determinado, un peligro de accidente vial, o bien entorpece de manera manifiesta y evidente la comodidad de los pasajeros, especialmente en las horas de mayor congestión. Asimismo, deberán negarse a la subida de un vendedor en paraderos no autorizados.
-
-f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor.
-
-§2. DE LAS OBLIGACIONES DE LOS PASAJEROS
+§2. DE LOS PASAJEROS DE VEHÍCULOS DE LOCOMOCIÓN COLECTIVA
 
 #### Artículo 88
 
-Los pasajeros tienen la obligación de pagar la tarifa, respetar las normas de comportamiento que determinan la ley, la moral y las buenas costumbres y abstenerse de ejecutar cualquier acto que impida el normal desempeño del conductor. Este último tendrá la facultad de no admitir a personas que puedan causar problemas o desórdenes al interior del vehículo o que se encuentren en manifiesto estado de ebriedad. Asimismo, les estará estrictamente prohibido fumar.
+Los pasajeros tienen la obligación de pagar la tarifa, respetar las normas de comportamiento que determinan la ley, la moral y las buenas costumbres y abstenerse de ejecutar cualquier acto que impida el normal desempeño del conductor.
 
-§3. DEL ACCESO AL TRANSPORTE PÚBLICO REMUNERADO DE PASAJEROS Y SU CONTROL
-
-#### Artículo 88 bis
-
-Al Ministerio de Transportes y Telecomunicaciones le corresponde definir y regular la confección, entrega, condiciones y procedimiento de uso, supervisión, vigencia, caducidad, retiro y reposición de cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros. Cuando se trate de instrumentos o mecanismos destinados a estudiantes, tales como el pase escolar o pase de educación superior, dicha reglamentación corresponderá conjuntamente a los Ministerios de Transportes y Telecomunicaciones y de Educación.
-
-Para estos efectos, el o los Ministerios, según corresponda, podrán, por sí o a través de terceros, emitir instrumentos o mecanismos que permitan el uso del transporte público remunerado por plazos diarios, semanales, mensuales o anuales, los cuales podrán, a través de tarifas fijas o diferenciadas, incentivar su adquisición por parte de los pasajeros.
-
-Las cuotas de transporte contenidas en los medios de acceso al transporte público remunerado de pasajeros estarán sujetas a las siguientes disposiciones:
-
-a) Transcurridos dos años de inactividad desde la última carga o uso de cuotas de transporte contenidas en un medio de acceso de prepago basado en monedero (saldo almacenado en la tarjeta), el titular de dicho medio de acceso podrá solicitar la extensión de la vigencia de dichas cuotas de transporte, por un año más, o bien transferirlas a otro medio de acceso, previa acreditación de titularidad, tenencia sostenida o historial de carga de ellas. En caso de no solicitar la extensión o al término de esta última, las cuotas de transporte contenidas en el medio de acceso quedarán irrevocablemente vencidas.
-
-b) Transcurridos cinco años de inactividad desde la última carga o uso de cuotas de transporte contenidas en un medio de acceso de prepago basado en cuentas de transporte ABT (AccountBasedTicketing) con saldo almacenado centralmente en un repositorio digital o nube, las cuotas de transporte contenidas en dicho medio de acceso quedarán irrevocablemente vencidas.
-
-Asimismo, el o los Ministerios, según corresponda, podrán celebrar todo acto o contrato orientado a proveer de los instrumentos o mecanismos que permitan el uso del transporte público remunerado a través de otros medios de común utilización, como tarjetas de crédito, prepago o débito de bancos o instituciones financieras, e instituciones no bancarias autorizadas por la ley; tarjetas o instrumentos magnéticos, electrónicos o cualquier sistema análogo emitido por privados para fines particulares, tales como proveer de transporte a los trabajadores, funcionarios o usuarios de un establecimiento, y homologarlos para su utilización como medio que permita el acceso al sistema de transporte público remunerado de pasajeros.
-
-En el momento de la entrega de un instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, podrá solicitarse la individualización y el domicilio del requirente, quien lo entregará de forma voluntaria, para el solo efecto de acreditar su calidad de beneficiario o usuario frecuente, por medio de la exhibición de documentos de identificación expedidos por la autoridad pública, como cédula de identidad, licencia de conducir o pasaporte. Con todo, sólo podrán acceder a los beneficios quienes estén incorporados al "Registro de Usuarios".
-
-Los antecedentes requeridos de conformidad a lo establecido en el inciso precedente serán incorporados en un "Registro de Usuarios", a cargo del Ministerio de Transportes y Telecomunicaciones, cuyas finalidades serán velar por el correcto otorgamiento de los beneficios derivados del uso del transporte público, constatar el debido uso de los referidos mecanismos o instrumentos y verificar el uso frecuente del transporte público por parte de los usuarios, así como para propósitos estadísticos y para el desarrollo de políticas públicas asociadas al transporte público remunerado de pasajeros.
-
-Los órganos del Estado podrán efectuar, en el marco de sus atribuciones, el tratamiento de los datos personales contenidos en el "Registro de Usuarios", en la medida que lo hagan de manera adecuada y pertinente con las finalidades del mismo. Con todo, la información que provenga de instrumentos como el pase escolar, o de cualquier otro instrumento o mecanismo que pertenezca a un niño, niña o adolescente, deberá ser especialmente protegida por el Ministerio de Transportes y Telecomunicaciones, extremando las medidas de seguridad adecuadas y velando por que su tratamiento sólo se efectúe atendiendo al interés superior de todas las personas menores de 18 años.
-
-La información contenida en el "Registro de Usuarios" será reservada, de conformidad con lo dispuesto en el inciso segundo del artículo 8° de la Constitución Política de la República, por afectarse con su publicidad los derechos de las personas. Sin perjuicio de ello, los titulares de los datos consignados en el Registro podrán acceder gratuitamente a éstos y ejercer los demás derechos establecidos en la ley N° 19.628, sobre Protección de la Vida Privada.
-
-Tratándose de solicitudes de información efectuadas de conformidad con lo dispuesto en la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado, contenida en el artículo primero de la ley Nº 20.285, los datos de carácter personal del "Registro de Usuarios" que en ellas se requieran estarán protegidos por la causal de reserva establecida en el numeral 2 del artículo 21 de dicho cuerpo legal.
-
-Para todos los efectos legales, el pase escolar, pase de educación superior y cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros con una franquicia, exención o rebaja tarifaria, es un instrumento de carácter público, personal e intransferible. Por pase escolar o pase de educación superior se entiende aquél regulado por el decreto N° 20, del Ministerio de Transportes y Telecomunicaciones, del año 1982, y todas sus modificaciones, o la normativa que lo reemplace.
-
-#### Artículo 88 ter
-
-Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles que preste servicios de transporte de pasajeros podrán retener o solicitar la inutilización del instrumento o mecanismo que permita el acceso del transporte público, en el caso de constatarse el uso indebido de éste, debiendo efectuar la denuncia respectiva y, cuando corresponda, entregar al infractor constancia de la retención, con la individualización de quien efectúa el control y el organismo al que se remitirá la denuncia. El instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros será puesto luego a disposición del organismo que determine el Ministerio de Transportes y Telecomunicaciones, cuando se trate de la infracción establecida en el número 4 del artículo 199 de la presente ley.
-
-Para los efectos de lo dispuesto en el inciso anterior, existe uso indebido del instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, cuando se acceda a éste utilizando un pase escolar, pase de educación superior o cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros, sin ser su titular, de conformidad a lo dispuesto en el número 4 del artículo 199 de la presente ley.
-
-Para los efectos señalados en este artículo, Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles que preste servicios de transporte de pasajeros, debidamente identificados, deberán consignar los datos de la persona que, sin ser el titular, utilice un instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros, requiriendo a la entidad competente la inutilización para su uso en estos servicios. Con el objeto de consignar los datos del infractor, Carabineros de Chile, los inspectores fiscales y municipales y el personal autorizado de ferrocarriles de servicio metropolitano podrán solicitar que el portador del instrumento o mecanismo de pago respectivo acredite su identidad o la titularidad del mismo o la adquisición del saldo o cuotas de transporte contenidas en ellos.
-
-Con la finalidad de obtener información de los pasajeros infractores para citarlos o para efectuar las denuncias ante los juzgados competentes, el Ministerio de Transportes y Telecomunicaciones podrá celebrar convenios con otros órganos del Estado y requerirles información, debiendo éstos dar las facilidades necesarias para su acceso. Para estos efectos podrán utilizarse medios tecnológicos que optimicen la obtención de la referida información.
-
-Todos los datos que consignen los funcionarios en cumplimiento de las obligaciones descritas en los incisos precedentes estarán protegidos por la ley N° 19.628, sobre Protección de la Vida Privada, y deberán ser tratados sólo con la finalidad de efectuar la denuncia de las respectivas infracciones cometidas por los usuarios a las autoridades competentes. Los datos consignados deberán ser destruidos dentro del plazo máximo de tres años, contado desde su consignación.
-
-#### Artículo 88 quáter
-
-Los concesionarios de uso de vías, los propietarios de buses y, en general, los prestadores de servicio de transporte público remunerado de pasajeros o quienes sean autorizados por éstos podrán constatar el cumplimiento de la obligación del pago de la tarifa por parte de los pasajeros, para lo cual podrán exigir la exhibición del instrumento o mecanismo que permita el acceso del transporte público remunerado de pasajeros.
-
-En caso que el pasajero se rehúse a exhibir el instrumento o mecanismo que permita el acceso al transporte público remunerado de pasajeros o si se constatare el uso de los servicios de transporte público remunerado de pasajeros sin el pago de la tarifa correspondiente, las personas señaladas en el inciso anterior podrán disponer que los infractores hagan abandono del vehículo de transporte público remunerado de pasajeros.
-
-Si Carabineros de Chile constatare el no pago de la tarifa por parte del pasajero, cursará las infracciones administrativas dispuestas para el caso del número 42 del artículo 200 y, cuando corresponda, la del inciso tercero del artículo 204. Para el evento de que la persona no indique su domicilio, Carabineros, dentro de sus competencias, podrá conducir al pasajero a una unidad policial, para el solo efecto de verificar su domicilio y proceder a efectuar la respectiva citación ante el juzgado de policía local.
+Asimismo, les estará estrictamente prohibido fumar.
 
 ## Título VII
 
@@ -1194,27 +1034,17 @@ Las Municipalidades no otorgarán permisos de circulación a ningún vehículo m
 
 La revisión técnica que señala el inciso anterior comprenderá, en forma especial, los sistemas de dirección, frenos, luces, neumáticos y combustión interna.
 
-Sólo en el caso de los triciclos motorizados de carga, la revisión técnica consistirá en una inspección ocular de los elementos de seguridad del vehículo que el Ministerio de Transportes y Telecomunicaciones determine en el reglamento respectivo, los que se verificarán, de igual modo, en las correspondientes plantas.
-
 Dicho documento o el de homologación, en su caso, y el de gases, deberán portarse siempre en el vehículo y encontrarse vigentes.
 
 #### Artículo 90
 
 El Ministerio de Transportes y Telecomunicaciones podrá licitar la función de homologación de vehículos, entre empresas que persigan fines de lucro conforme a las bases de licitación, y por el tiempo que determine, pudiendo incluir el uso y goce o la mera tenencia de bienes que le hayan sido destinados para cumplir dicha función.
 
-#### Artículo 90 bis
-
-El Ministerio de Transportes y Telecomunicaciones podrá autorizar establecimientos o talleres que realicen transformación, adaptación o conversión de tipos de propulsión de vehículos motorizados en uso de combustión interna a eléctricos; así como otras adaptaciones y transformaciones a dichos vehículos que incidan sobre la seguridad vial, la seguridad de las personas que intervienen en dichos procedimientos y la de los ocupantes de los vehículos. Las transformaciones o adaptaciones indicadas deberán realizarse conforme lo determinen el o los reglamentos que el Ministerio de Transportes y Telecomunicaciones dicte al efecto, los que deberán contener, a lo menos, los alcances y procedimientos técnicos a seguir según los modelos de vehículo. Los valores que el Ministerio de Transportes y Telecomunicaciones podrá cobrar se definirán en el reglamento respectivo.
-
-En caso de aquellos establecimientos o talleres que, contando con estas autorizaciones, realicen transformaciones, adaptaciones o conversiones en vehículos cuyos modelos de vehículos no hayan sido autorizados por el Ministerio de Transportes y Telecomunicaciones; o no se ciñan al procedimiento y requisitos establecidos en el reglamento respectivo, serán sancionados con la revocación de la referida autorización.
-
-En el caso de los talleres o establecimientos que sin contar con las debidas autorizaciones realicen transformaciones, adaptaciones o conversiones de las que se encuentran reguladas por el Ministerio de Transportes y Telecomunicaciones, se les aplicará la multa establecida en el inciso segundo del artículo 180.
-
-Si se sorprende un vehículo motorizado en uso transformado, convertido o adaptado sin contar con el certificado respectivo, según lo establecido en el reglamento, Carabineros de Chile, Inspectores Fiscales o Municipales podrán retirar el vehículo de circulación para ser puesto a disposición del tribunal competente. A su vez, quien sea sorprendido conduciendo un vehículo que no cuente con los certificados correspondientes a los que hace alusión el presente inciso, será sancionado con una multa de una coma cinco a tres unidades tributarias mensuales.
-
 #### Artículo 91
 
 Lo dispuesto en el artículo 89 no obsta a las revisiones que decreten los Tribunales en los casos particulares que conozcan y de los controles que se practiquen en la vía pública.
+
+> **Nota.** El Nº 1 y N° 2 del artículo único de la LEY 20388, publicada el 07.11.2009 ordenó modificar el artículo 91 y agregar un artículo 91 bis en la Ley 18290. Sin embargo, dichas modificaciones no se incorporaron en este texto refundido debido a que la referencia no es concordante, ya que la enumeración de los artículos es distinta. De acuerdo a los contenidos, el texto a actualizar por la Ley 20388 correspondería al artículo 87 y el artículo adicionado a continuación de éste. Ambos textos pueden ser revisados en la nota incorporada en el artículo 87.
 
 #### Artículo 92
 
@@ -1224,7 +1054,7 @@ El vehículo y el permiso de circulación deberán ser restituidos por el Tribun
 
 Sin embargo, si el desperfecto del vehículo fuere subsanado en el lugar en que se constató la infracción, podrá autorizarse para que se continúe de inmediato en circulación, sin retirarse el padrón o permiso respectivo y sin perjuicio de efectuarse la denuncia correspondiente por la infracción cometida.
 
-En todo caso, el juez podrá disponer, si lo estima procedente, una revisión del vehículo por un establecimiento competente. En los casos de vehículos retirados de circulación y que se encuentren en las hipótesis del artículo 197 ter, el juez deberá siempre ordenar su retiro de circulación por un plazo no inferior a treinta días y si las condiciones lo ameritan, la revocación del certificado de revisión técnica. Para dicha revocación el juez deberá informar al Secretario Regional Ministerial de Transportes respectivo, quien instruirá el cambio de estado del documento a la planta de revisión técnica que lo hubiera emitido, e indicará al tribunal la planta a la que deberá concurrir el interesado para realizar una nueva revisión técnica.
+En todo caso, el Juez siempre podrá disponer, si lo estima procedente, una revisión del vehículo por un establecimiento competente.
 
 Lo anterior es sin perjuicio de las medidas de carácter administrativo que adopte el Ministerio de Transportes y Telecomunicaciones en uso de sus facultades legales, en lo relativo a los vehículos de carga, a los destinados al transporte colectivo de personas y a los automóviles destinados a la prestación de servicios de uso público.
 
@@ -1328,7 +1158,7 @@ Si la luz amarilla los sorprende tan próximos al cruce que ya no puedan detener
 
 Los peatones que enfrenten esta señal, deberán abstenerse de descender a la calzada y los que se encuentren en el paso para peatones tienen derecho a terminar el cruce.
 
-c) Luz roja: indica detención. Los vehículos que enfrenten esta señal deberán detenerse antes de la línea de detención o la línea de detención adelantada, en su caso, y no deberán avanzar hasta que se encienda la luz verde.
+c) Luz roja: indica detención. Los vehículos que enfrenten esta señal deberán detenerse antes de la línea de detención y no deberán avanzar hasta que se encienda la luz verde.
 
 Los peatones que enfrenten esta señal no deberán bajar a la calzada ni cruzarla.
 
@@ -1336,7 +1166,7 @@ Los peatones que enfrenten esta señal no deberán bajar a la calzada ni cruzarl
 
 a) Una luz roja intermitente indica "CEDA EL PASO".
 
-b) Dos luces rojas intermitentes en forma alternada, significan que los vehículos que las enfrenten no deben sobrepasar la línea de detención, la línea de detención adelantada, en su caso, o, si no las hubiera, la vertical de la señal. Estas luces sólo podrán instalarse en cruces ferroviarios a nivel y para dar preferencia de paso a vehículos de bomberos o ambulancias que se incorporan a la vía.
+b) Dos luces rojas intermitentes en forma alternada, significan que los vehículos que las enfrenten no deben sobrepasar la línea de detención o, si no la hubiera, la vertical de la señal. Estas luces sólo podrán instalarse en cruces ferroviarios a nivel y para dar preferencia de paso a vehículos de bomberos o ambulancias que se incorporan a la vía.
 
 c) Luz amarilla intermitente, advierte peligro.
 
@@ -1352,7 +1182,7 @@ La indicación de flecha verde intermitente tendrá el mismo significado que la 
 
 4.- Indicaciones para vehículos de transporte público:
 
-Tratándose de pistas segregadas destinadas exclusiva y permanentemente a la circulación de vehículos que prestan servicio de transporte público de pasajeros, los semáforos podrán ser diferentes y en ellos se podrá reemplazar el color verde por el blanco.
+Tratándose de pistas segregadas destinadas exclusiva y permanentemente a la circulación de vehículos que prestan servicio de transporte público de pasajeros, los sem�foros podr�n ser diferentes y en ellos se podrá reemplazar el color verde por el blanco.
 
 5.- Los semáforos destinados exclusivamente a los peatones o a los ciclistas se distinguirán por tener dibujado sobre la lente la figura de un peatón o de una bicicleta, según corresponda. Los colores tendrán el siguiente significado:
 
@@ -1392,8 +1222,6 @@ Se prohíbe llevar abiertas las puertas del vehículo, abrirlas antes de su comp
 
 Ninguna persona podrá conducir un vehículo cuando se encuentre en condiciones físicas o psíquicas deficientes.
 
-No se entenderá, para efectos de esta ley, como condición física o psíquica deficiente, arrojar en el informe de alcoholemia o en el resultado de la prueba respiratoria que hubiere sido practicada por Carabineros de Chile, una dosificación igual o inferior a 0,3 gramos por mil de alcohol en la sangre.
-
 #### Artículo 110
 
 Se prohíbe, al conductor y a los pasajeros, el consumo de bebidas alcohólicas en el interior de vehículos motorizados.
@@ -1404,9 +1232,9 @@ Se prohíbe, asimismo, la conducción de cualquier vehículo o medio de transpor
 
 Para la determinación del estado de ebriedad del imputado o del hecho de encontrarse bajo la influencia del alcohol, el tribunal podrá considerar todos los medios de prueba, evaluando especialmente el estado general del imputado en relación con el control de sus sentidos, como también el nivel de alcohol presente en el flujo sanguíneo, que conste en el informe de alcoholemia o en el resultado de la prueba respiratoria que hubiera sido practicada por Carabineros.
 
-Sin perjuicio de lo anterior, se entenderá que hay desempeño en estado de ebriedad cuando el informe o prueba arroje una dosificación igual o superior a 0,8 gramos por mil de alcohol en la sangre o en el organismo.
+Sin perjuicio de lo anterior, se entenderá que hay desempeño en estado de ebriedad cuando el informe o prueba arroje una dosificación igual o superior a 1,0 gramos por mil de alcohol en la sangre o en el organismo.
 
-Se entenderá que hay desempeño bajo la influencia del alcohol cuando el informe o prueba arroje una dosificación superior a 0,3 e inferior a 0,8 gramos por mil de alcohol en la sangre. Si la dosificación fuere menor, se estará a lo establecido en el artículo 109 y en el Nº 1 del artículo 200, si correspondiere.
+Se entenderá que hay desempeño bajo la influencia del alcohol cuando el informe o prueba arroje una dosificación superior a 0,5 e inferior a 1,0 gramos por mil de alcohol en la sangre. Si la dosificación fuere menor, se estará a lo establecido en el artículo 109 y en el Nº 1 del artículo 200, si correspondiere.
 
 #### Artículo 112
 
@@ -1418,15 +1246,11 @@ El Ministerio de Transportes y Telecomunicaciones podrá prohibir, por causa jus
 
 Sin perjuicio de lo anterior, Carabineros de Chile queda autorizado para adoptar, en forma transitoria, medidas que alteren el tránsito de vehículos o su estacionamiento en las vías públicas cuando circunstancias especiales lo hagan necesario.
 
-En todo caso, los vehículos de tres ruedas destinados al transporte de carga no podrán circular por autopistas y autovías.
-
 #### Artículo 114
 
 En los caminos públicos en que opere un sistema electrónico de cobro de tarifas o peajes, sólo podrán circular los vehículos que estén provistos de un dispositivo electrónico habilitado u otro sistema complementario que permitan su cobro. La infracción a esta prohibición será sancionada con una multa de una unidad tributaria mensual y para todos los efectos se entenderá como una infracción grave de conformidad al artículo 200 Nº 7 de la presente ley.
 
-Si en un día calendario se cometen dos o más contravenciones a la prohibición dispuesta en el inciso anterior, solo se considerará la primera para todos los efectos legales.
-
-Los equipos y demás medios utilizados para la implementación de este sistema, constituyen equipos de registro de infracciones, rigiéndose por lo dispuesto en el inciso tercero del artículo 3º y en el artículo 24, ambos de la ley Nº 18.287 y en el artículo 4º de esta ley, salvo en lo previsto en sus incisos sexto, séptimo, octavo, noveno y décimo. Los estándares técnicos y condiciones de instalación, funcionamiento y uso de los mismos serán regulados por el Ministerio de Obras Públicas.
+Los equipos y demás medios utilizados para la implementación de este sistema, constituyen equipos de registro de infracciones, rigiéndose por lo dispuesto en el inciso tercero del artículo 3º y en el artículo 24, ambos de la ley Nº 18.287 y en el artículo 4º de esta ley, salvo en lo previsto en sus incisos quinto, sexto, séptimo y octavo. Los estándares técnicos y condiciones de instalación, funcionamiento y uso de los mismos serán regulados por el Ministerio de Obras Públicas.
 
 #### Artículo 115
 
@@ -1436,7 +1260,7 @@ Ningún vehículo podrá ser conducido marcha atrás, salvo que esta maniobra se
 
 En las vías públicas, los vehículos deberán circular por la mitad derecha de la calzada, salvo en los siguientes casos:
 
-1.- Cuando se adelante o sobrepase a otro vehículo motorizado que va en el mismo sentido, bajo las reglas que rigen tal movimiento;
+1.- Cuando se adelante o sobrepase a otro vehículo que va en el mismo sentido, bajo las reglas que rigen tal movimiento;
 
 2.- Cuando el tránsito por la mitad derecha de una calzada esté impedido por construcciones, reparaciones u otros accidentes que alteren la normal circulación, y
 
@@ -1444,11 +1268,11 @@ En las vías públicas, los vehículos deberán circular por la mitad derecha de
 
 #### Artículo 117
 
-Ningún vehículo motorizado podrá circular a menor velocidad que la mínima fijada para la respectiva vía. En todo caso, los vehículos que, dentro de los límites fijados, circulen a una velocidad inferior a la máxima deberán hacerlo por su derecha.
+Ningún vehículo podrá circular a menor velocidad que la mínima fijada para la respectiva vía. En todo caso, los vehículos que, dentro de los límites fijados, circulen a una velocidad inferior a la máxima deberán hacerlo por su derecha.
 
 #### Artículo 118
 
-En caso de haber agua en la calzada, el conductor cuidará que ésta no moje la acera ni a los peatones o conductores de ciclos.
+En caso de haber agua en la calzada, el conductor cuidará que ésta no moje la acera ni a los peatones.
 
 #### Artículo 119
 
@@ -1458,25 +1282,17 @@ En las vías de doble tránsito, los vehículos que circulen en sentidos opuesto
 
 El conductor de un vehículo que adelante o sobrepase a otro, deberá hacerlo por la izquierda y a una distancia que garantice seguridad, y no volverá a tomar la pista de la derecha hasta que tenga distancia suficiente y segura delante del vehículo que acaba de adelantar o sobrepasar.
 
-En caso de que un vehículo motorizado adelante o sobrepase a bicicletas u otros ciclos, deberá mantener una distancia prudente respecto al ciclo de aproximadamente 1,50 metros, durante toda la maniobra.
-
 El conductor del vehículo que es adelantado o sobrepasado deberá ceder el paso en favor del que lo adelante o sobrepase y no deberá aumentar la velocidad hasta que éste complete la maniobra.
-
-En caso de que el vehículo adelantado sea un vehículo no motorizado, el conductor de éste deberá permitir la maniobra, acercándose al costado derecho o izquierdo de la pista, según corresponda.
 
 #### Artículo 121
 
 El conductor de un vehículo puede sobrepasar a otro, por la derecha, cuando sea posible efectuar este movimiento con absoluta seguridad y solamente en las condiciones siguientes:
 
-1.- Cuando el vehículo alcanzado esté efectuando o a punto de efectuar un viraje a la izquierda;
+1.- Cuando el vehículo alcanzado esté efectuando o a punto de efectuar un viraje a la izquierda, y
 
-2.- Cuando en vías urbanas existan tres o más pistas con el mismo sentido del tránsito, y
-
-3.- Cuando se sobrepase a ciclos que circulen por la pista izquierda.
+2.- Cuando en vías urbanas existan tres o más pistas con el mismo sentido del tránsito.
 
 En ningún caso podrá efectuarse esta maniobra fuera de la calzada.
-
-Adicionalmente, los conductores de ciclos, motocicletas o motonetas podrán sobrepasar por la misma pista a otros vehículos, por cualquiera de los costados de éstos, para alcanzar la línea de detención o la línea de detención adelantada, según corresponda. Esta maniobra deberá efectuarse a una velocidad moderada, tomando las precauciones necesarias para realizarla con seguridad y siempre que los vehículos a los que se sobrepase se encuentren detenidos.
 
 #### Artículo 122
 
@@ -1500,7 +1316,7 @@ Los vehículos que circulen por una zona de tránsito en rotación, como monumen
 
 En las calzadas que dispongan de dos o más pistas demarcadas se observarán las siguientes normas:
 
-1.- En el espacio demarcado para una pista, circularán los vehículos uno en pos de otro, cualquiera que sea su naturaleza o tamaño, y no deberán transitar en forma paralela o en doble fila dos o más vehículos, aunque su estructura reducida lo hiciere posible, como tampoco podrán pasarse unos a otros, sin perjuicio de lo dispuesto en el inciso final del artículo 121 y en el artículo 130;
+1.- En el espacio demarcado para una pista, circularán los vehículos uno en pos de otro, cualquiera que sea su naturaleza o tamaño, y no deberán transitar en forma paralela o en doble fila dos o más vehículos, aunque su estructura reducida lo hiciere posible, como tampoco podrán pasarse unos a otros;
 
 2.- El vehículo será conducido en forma tal que quede, por completo, dentro del espacio demarcado y sólo podrá salir de él siempre que tal movimiento pueda efectuarse a la pista adyacente y, en ningún caso, pasar ésta para entrar, de inmediato, a la siguiente.
 
@@ -1556,7 +1372,7 @@ DE LOS VIRAJES Y SEÑALES DE ADVERTENCIA
 
 #### Artículo 134
 
-El conductor de un vehículo que tenga el propósito de virar, carecerá de toda preferencia para ejecutar esta maniobra y deberá respetar el derecho preferente de paso que tengan, en estas circunstancias, los otros vehículos que circulen, los ciclos que circulen en ciclovía y los peatones en los pasos a ellos destinados, que estén o no demarcados.
+El conductor de un vehículo que tenga el propósito de virar, carecerá de toda preferencia para ejecutar esta maniobra y deberá respetar el derecho preferente de paso que tengan, en estas circunstancias, los otros vehículos que circulen y los peatones en los pasos a ellos destinados, que estén o no demarcados.
 
 En el caso que dos vehículos se aproximen a un cruce por distintas vías, con el propósito de virar ambos a su izquierda, el derecho preferente de paso de uno respecto al otro se regirá por la aplicación general de lo establecido en el artículo 139.
 
@@ -1564,15 +1380,13 @@ En el caso que dos vehículos se aproximen a un cruce por distintas vías, con e
 
 El conductor de un vehículo que tenga el propósito de virar en una intersección, lo hará como sigue:
 
-1.- Viraje a la derecha: la iniciación de un viraje a la derecha y el viraje mismo deberá hacerse tan cerca como sea posible de la cuneta de la mano derecha o del borde de la calzada, a menos que exista una ciclovía, en cuyo caso dicho viraje deberá hacerse lo más cerca del elemento segregador. Con todo, en el caso de viraje a la derecha debidamente señalizado por un vehículo de carga articulado compuesto de camión tractor y semirremolque, o de camión y remolque, no regirá lo prevenido anteriormente, debiendo los demás conductores aguardar que dicho vehículo termine su maniobra;
+1.- Viraje a la derecha: la iniciación de un viraje a la derecha y el viraje mismo deberá hacerse tan cerca como sea posible de la cuneta de la mano derecha o del borde de la calzada. Con todo, en el caso de viraje a la derecha debidamente señalizado por un vehículo de carga articulado compuesto de camión tractor y semirremolque, o de camión y remolque, no regirá lo prevenido anteriormente, debiendo los demás conductores aguardar que dicho vehículo termine su maniobra;
 
 2.- Viraje a la izquierda: para efectuar un viraje a la izquierda desde una vía de doble tránsito hacia otra vía de doble tránsito, el vehículo deberá aproximarse al costado derecho del eje o de la línea central de la vía por donde transita y, después de pasar la intersección, deberá entrar a la otra vía, tomando el lado derecho de su eje o de la línea central;
 
 3.- Para efectuar un viraje a la izquierda desde una vía de doble tránsito a una de tránsito en un solo sentido, el vehículo deberá tomar previamente el costado derecho del eje o de la línea central de la vía por donde se transita e ingresar a la pista más próxima a su viraje, y
 
 4.- El viraje a la izquierda desde una vía de tránsito en un solo sentido hacia otra de doble tránsito, deberá efectuarse de manera que el vehículo, una vez pasada la intersección, tome el costado derecho del eje o de la línea central de la vía de doble tránsito.
-
-En caso de congestión, los conductores procurarán mantener despejadas las intersecciones y deberán permitir, de forma alternada, el viraje de los vehículos que acceden a la vía.
 
 #### Artículo 136
 
@@ -1602,7 +1416,7 @@ Todas las señales de advertencia con el brazo, deberán hacerse por el conducto
 
 3.- Disminución de velocidad o detención, brazo extendido hacia abajo.
 
-Con todo, tratándose de bicimotos, triciclos, bicicletas y similares, la señalización de maniobra de viraje a la derecha podrá ser advertida con el brazo de ese lado extendido horizontalmente, pudiendo además utilizar un señalizador eléctrico adosado a su cuerpo.
+Con todo, tratándose de bicimotos, triciclos, bicicletas y similares, la señalización de maniobra de viraje a la derecha podrá ser advertida con el brazo de ese lado extendido horizontalmente.
 
 ## Título XI
 
@@ -1622,11 +1436,9 @@ Este derecho preferente de paso no regirá en los siguientes casos:
 
 2.- En aquellos cruces donde se haya determinada la preferencia mediante signos "PARE" o "CEDA EL PASO";
 
-3.- En las zonas rurales, donde tendrá preferencia el conductor del vehículo que circule por un camino principal, con respecto al que se aproxime o llegue por una vía secundaria. Se entenderá por camino principal, el que tenga pavimento de concreto, asfalto, macadam bituminoso definitivo o los que expresamente determine y señalice la Dirección de Vialidad;
+3.- En las zonas rurales, donde tendrá preferencia el conductor del vehículo que circule por un camino principal, con respecto al que se aproxime o llegue por una vía secundaria. Se entenderá por camino principal, el que tenga pavimento de concreto, asfalto, macadam bituminoso definitivo o los que expresamente determine y señalice la Dirección de Vialidad, y
 
-4.- Respecto de los vehículos que se vayan a incorporar a una zona de tránsito en rotación, y
-
-5.- En los cruces donde se aproxime un vehículo tranvía, sea por la derecha o la izquierda.
+4.- Respecto de los vehículos que se vayan a incorporar a una zona de tránsito en rotación.
 
 #### Artículo 140
 
@@ -1668,15 +1480,13 @@ Ninguna persona podrá conducir un vehículo a una velocidad mayor de la que sea
 
 En todo caso, la velocidad debe ser tal, que permita controlar el vehículo cuando sea necesario, para evitar accidentes.
 
-Con todo, el conductor del vehículo deberá siempre respetar los límites máximos de velocidad prescritos en el artículo siguiente.
-
 #### Artículo 145
 
 Cuando no existan los riesgos o circunstancias señaladas en los artículos anteriores, serán límites máximos de velocidad los siguientes:
 
 1.- En zonas urbanas:
 
-1.1.- Vehículos de menos de 3.860 kilogramos de peso bruto vehicular y motocicletas: 50 kilómetros por hora.
+1.1.- Vehículos de menos de 3.860 kilogramos de peso bruto vehicular y motocicletas: 60 kilómetros por hora.
 
 1.2.- Vehículos con más de 17 asientos, incluido el del conductor, buses, camiones de 3.860 kilogramos de peso bruto vehicular o más y vehículos de transporte escolar: 50 kilómetros por hora.
 
@@ -1692,9 +1502,7 @@ Cuando no existan los riesgos o circunstancias señaladas en los artículos ante
 
 Las Municipalidades en las zonas urbanas y la Dirección de Vialidad en las zonas rurales, en casos excepcionales, por razones fundadas y previo estudio elaborado de acuerdo a los criterios que contemple el Manual de Señalización de Tránsito para la determinación de las velocidades mínimas o máximas, podrán aumentar o disminuir los límites de velocidad establecidos en esta ley, para una determinada vía o parte de ésta.
 
-Asimismo, las Municipalidades en las zonas urbanas, por razones fundadas, podrán establecer zonas de tránsito calmado en áreas residenciales o de alta concentración de comercio y servicios, entre otras.
-
-Estas modificaciones deberán contar con informe previo del Ministerio de Transportes y Telecomunicaciones, a través de la Secretaría Regional Ministerial competente, y deberán darse a conocer por medio de señales oficiales.
+Las modificaciones a que se refiere el inciso anterior deberán darse a conocer por medio de señales oficiales.
 
 En Zona de Escuela, en horarios de entrada y salida de los alumnos, los vehículos no podrán circular a más de treinta kilómetros por hora.
 
@@ -1702,9 +1510,9 @@ El conductor que se aproxime a un vehículo de transporte escolar detenido con s
 
 #### Artículo 147
 
-No deberá conducirse un vehículo motorizado a una velocidad tan baja que impida el desplazamiento normal y adecuado de la circulación.
+No deberá conducirse un vehículo a una velocidad tan baja que impida el desplazamiento normal y adecuado de la circulación.
 
-La Dirección de Vialidad o las Municipalidades, podrán fijar velocidades mínimas, bajo las cuales ningún conductor podrá conducir su vehículo motorizado, cuando por estudios técnicos se establezca su necesidad para el normal y adecuado desplazamiento de la circulación.
+La Dirección de Vialidad o las Municipalidades, podrán fijar velocidades mínimas, bajo las cuales ningún conductor podrá conducir su vehículo, cuando por estudios técnicos se establezca su necesidad para el normal y adecuado desplazamiento de la circulación.
 
 ## Título XIII
 
@@ -1714,9 +1522,7 @@ DEL ESTACIONAMIENTO Y DE LA DETENCIÓN
 
 #### Artículo 148
 
-Los vehículos deberán ser estacionados al lado derecho de la calzada en el sentido del tránsito. Las Municipalidades o la Dirección de Vialidad, podrán, en caso debidamente calificado y siempre que no entorpezcan la circulación, autorizar la detención o el estacionamiento al lado izquierdo, colocando para ello la correspondiente señalización, sin perjuicio de la facultad que corresponde a los Secretarios Regionales Ministeriales de Transportes y Telecomunicaciones conforme a lo dispuesto en el artículo 86.
-
-En todas las vías públicas donde esté permitido estacionar sujeto al pago de un precio o tarifa, su cobro deberá efectuarse de conformidad a lo dispuesto en los números 1, 2 y 3 del artículo 15 A de la ley N° 19.496. No se podrá exigir al usuario, bajo circunstancia alguna, el pago por rangos o tramos de tiempo superior o distinto del tiempo efectivamente utilizado.
+Los vehículos deberán ser estacionados al lado derecho de la calzada en el sentido del tránsito. Las Municipalidades o la Dirección de Vialidad, podrán, en caso debidamente calificado y siempre que no entorpezcan la circulación, autorizar la detención o el estacionamiento al lado izquierdo, colocando para ello la correspondiente señalización.
 
 #### Artículo 149
 
@@ -1744,7 +1550,7 @@ Si la vía en que se estacione tuviere inclinación deberá dejarlo, además, co
 
 La detención en sitios no autorizados para estacionarse, se permitirá sólo por el tiempo mínimo necesario para tomar o dejar pasajeros.
 
-Se prohíbe al conductor y pasajeros abrir las puertas del vehículo antes de su completa detención, mantenerlas abiertas y descender o permitir el descenso, sin asegurarse previamente de que ello no implica entorpecimiento o peligro.
+Se prohíbe al conductor abrir las puertas del vehículo antes de su completa detención, mantenerlas abiertas y descender o permitir el descenso, sin asegurarse previamente de que ello no implica entorpecimiento o peligro.
 
 #### Artículo 154
 
@@ -1762,11 +1568,9 @@ Se prohíben las siguientes detenciones y estacionamientos:
 
 6.- En los puentes, túneles, estructuras elevadas y pasos bajo y sobre nivel de las vías públicas, en las cuestas, en las curvas de los caminos;
 
-7.- Dentro de un cruce;
+7.- Dentro de un cruce, y
 
-8.- En las calzadas o bermas de los caminos públicos de dos o más pistas de circulación en un mismo sentido, y
-
-9.- De vehículos motorizados en las ciclovías.
+8.- En las calzadas o bermas de los caminos públicos de dos o más pistas de circulación en un mismo sentido.
 
 #### Artículo 155
 
@@ -1864,7 +1668,7 @@ El tránsito de los peatones deberá hacerse de acuerdo con las normas siguiente
 
 2.- En aquellas vías públicas donde no haya acera, deberán hacerlo por las bermas o franjas laterales de la calzada y por el costado izquierdo de ellas, enfrentando los vehículos que circulen en sentido opuesto;
 
-3.- No podrán permanecer en las calzadas de las calles, caminos o ciclovías, ni saltar vallas peatonales ni pasar entre o sobre rejas u otros dispositivos existentes entre calzadas con tránsito opuesto;
+3.- No podrán permanecer en las calzadas de las calles o caminos, ni saltar vallas peatonales ni pasar entre o sobre rejas u otros dispositivos existentes entre calzadas con tránsito opuesto;
 
 4.- Cruzar las calzadas por los pasos para peatones o por los pasos a desnivel;
 
@@ -1940,7 +1744,7 @@ En los accidentes del tránsito, constituyen presunción de responsabilidad del 
 
 13.- Salirse de la pista de circulación o cortar u obstruir sorpresivamente la circulación reglamentaria de otro vehículo;
 
-14.- Detenerse o estacionarse en una curva, en la cima de una cuesta, en el interior de un túnel, en ciclovías o sobre un puente y en la intersección de calles o caminos, o en contravención a lo dispuesto en el número 8 del artículo 154;
+14.- Detenerse o estacionarse en una curva, en la cima de una cuesta, en el interior de un túnel o sobre un puente y en la intersección de calles o caminos, o en contravención a lo dispuesto en el número 8 del artículo 154;
 
 15.- No hacer el conductor, en forma oportuna, las señales reglamentarias;
 
@@ -1960,15 +1764,11 @@ Se presumirá la culpabilidad del o de los que no lo hicieren y abandonaren el l
 
 Asimismo, se presumirá la responsabilidad del conductor que no cumpla lo establecido en el artículo 176 y abandonare el lugar del accidente.
 
-En todo caso, para hacer efectivos los seguros de daños a terceros o propios, el interesado deberá informar el siniestro mediante declaración jurada simple presentada ante la respectiva compañía aseguradora, y no se requerirá de otros actos o documentos expedidos por la autoridad policial, tales como constancias o denuncias.
-
 #### Artículo 169
 
 De las infracciones a los preceptos del tránsito será responsable el conductor del vehículo.
 
 El conductor, el propietario del vehículo y el tenedor del mismo a cualquier título, a menos que estos últimos acrediten que el vehículo fue usado contra su voluntad, son solidariamente responsables de los daños o perjuicios que se ocasionen con su uso, sin perjuicio de la responsabilidad de terceros de conformidad a la legislación vigente.
-
-No obstante lo establecido en el inciso anterior, el funcionario de Carabineros de Chile, de la Policía de Investigaciones de Chile o de Gendarmería de Chile, que conduciendo un vehículo motorizado en persecución de un delito o en la ejecución de procedimientos estrictamente policiales o propios de la institución a la que pertenece ocasione daños o perjuicios, no será responsable de ellos, sin perjuicio de la responsabilidad que le corresponda al propietario del vehículo.
 
 De igual manera, si se otorgare una licencia de conductor con infracción a las normas de esta ley, el o los funcionarios responsables de ello, sean o no municipales, serán solidariamente responsables de los daños y perjuicios que se ocasionen por culpa del conductor a quien se le hubiere otorgado dicha licencia, sin perjuicio de las sanciones penales y administrativas que correspondan.
 
@@ -2034,7 +1834,7 @@ En las infracciones señaladas en los artículos 200, Nº 26 y 201, Nº 10, se e
 
 #### Artículo 176
 
-En todo accidente del tránsito en que se produzcan lesiones o muerte, el conductor que participe en los hechos estará obligado a detener su marcha, prestar la ayuda que fuese posible y dar cuenta a la autoridad policial más inmediata, entendiéndose por tal cualquier funcionario de Carabineros que estuviere próximo al lugar del hecho, para los efectos de la denuncia ante el Tribunal correspondiente.
+En todo accidente del tránsito en que se produzcan lesiones, el conductor que participe en los hechos estará obligado a detener su marcha, prestar la ayuda que fuese necesaria y dar cuenta a la autoridad policial más inmediata, entendiéndose por tal cualquier funcionario de Carabineros que estuviere próximo al lugar del hecho, para los efectos de la denuncia ante el Tribunal correspondiente.
 
 #### Artículo 177
 
@@ -2084,15 +1884,11 @@ En el caso que la persona se apreste a conducir bajo la influencia del alcohol, 
 
 #### Artículo 183
 
-Carabineros podrá someter a cualquier conductor a una prueba respiratoria evidencial u otra prueba científica, a fin de acreditar la presencia de alcohol en el organismo y su dosificación, o el hecho de encontrarse la persona conduciendo bajo la influencia del alcohol o de estupefacientes o sustancias sicotrópicas o en estado de ebriedad.
-
-Con el objeto de garantizar la precisión de la prueba que se practique, ésta deberá ser realizada con instrumentos certificados por el Ministerio de Transportes y Telecomunicaciones, conforme a las características técnicas que defina el reglamento, distinguiendo entre aquellos que son capaces de detectar la conducción bajo la influencia del alcohol de los otros. En caso que en el momento de efectuarse el procedimiento de fiscalización no se encuentre disponible el instrumento para realizar la prueba, Carabineros podrá llevar al conductor a la Comisaría más cercana que cuente con dicho equipo, o podrá disponer que se realice un examen, de acuerdo a lo dispuesto en los incisos siguientes.
-
 Cuando fuere necesario someter a una persona a un examen científico para determinar la dosificación del alcohol en la sangre o en el organismo, los exámenes podrán practicarse en cualquier establecimiento de salud habilitado por el Servicio Médico Legal, de conformidad a las instrucciones generales que imparta dicho Servicio. El responsable del establecimiento arbitrará todas las medidas necesarias para que dichos exámenes se efectúen en forma expedita y para que los funcionarios de Carabineros empleen el menor tiempo posible en la custodia de los imputados que requieran la práctica de los mismos.
 
 Sin perjuicio de lo dispuesto en el artículo anterior, el conductor y el peatón que hayan tenido participación en un accidente de tránsito del que resulten lesionados o muertos serán sometidos a una prueba respiratoria o de otra naturaleza destinada a establecer la presencia de alcohol o de sustancias estupefacientes o sicotrópicas en sus cuerpos. En esos casos, los funcionarios de Carabineros deberán practicar al conductor y peatón las pruebas respectivas y, de carecer en el lugar de los elementos técnicos necesarios para ello, o de proceder la práctica de la alcoholemia, los llevarán de inmediato al establecimiento de salud más próximo. Se aplicarán al efecto las reglas del inciso precedente.
 
-INCISO SUPRIMIDO.
+La negativa injustificada a someterse a las pruebas o exámenes a que se refieren este artículo y el artículo 182, o la circunstancia de huir del lugar donde se hubiere ejecutado la conducta delictiva, en su caso, serán apreciadas por el juez como un antecedente calificado, al que podrá dar valor suficiente para establecer el estado de ebriedad o influencia de sustancias estupefacientes o sicotrópicas en que se encontraba el imputado.
 
 #### Artículo 184
 
@@ -2116,7 +1912,7 @@ Carabineros de Chile o Inspectores Municipales tomarán nota de todo desperfecto
 
 #### Artículo 189
 
-Las Municipalidades proporcionarán a Carabineros de Chile formularios de denuncias, boletas de recibos de contraventores y de especies retenidas, precisando el tipo de vehículo involucrado.
+Las Municipalidades proporcionarán a Carabineros de Chile formularios de denuncias, boletas de recibos de contraventores y de especies retenidas.
 
 ## Título XVII
 
@@ -2146,7 +1942,7 @@ El que instale señales de tránsito o barreras sin estar facultado para ello, s
 
 #### Artículo 192
 
-Será castigado con presidio menor en su grado medio a máximo y, en su caso, con la suspensión de la licencia de conductor o inhabilidad para obtenerla, hasta por 5 años, y multa de 50 a 100 unidades tributarias mensuales, el que:
+Será castigado con presidio menor en su grado medio a máximo y, en su caso, con la suspensión de la licencia de conductor o inhabilidad para obtenerla, hasta por 5 años, el que:
 
 a) Falsifique una licencia de conductor, boleta de citación, o un permiso provisorio o cualquier certificado o documento requerido por esta ley para obtenerlos;
 
@@ -2156,77 +1952,29 @@ c) Presente, a sabiendas, certificados falsos para obtener licencia de conductor
 
 d) Obtenga una licencia de conductor, sin cumplir con los requisitos legales para ello, mediante soborno, dádivas, uso de influencias indebidas o amenaza;
 
-e) Conduzca, a sabiendas, un vehículo con placa patente falsa, alterada o que corresponda a otro vehículo, cuando ésta sea exigible conforme con lo dispuesto en el artículo 51;
+e) Conduzca, a sabiendas, un vehículo con placa patente ocultada o alterada o utilice, a sabiendas, una placa patente falsa o que corresponda a otro vehículo;
 
 f) Certifique, indebida o falsamente, conocimientos, habilidades, prácticas de conducción o realización de cursos de conducir que permitan obtener una licencia de conductor;
 
-g) Otorgue un certificado de revisión técnica sin haber practicado realmente la revisión o que contenga afirmaciones de hechos relevantes contrarios a la verdad; detente formularios para extenderlos, sin tener título para ello; falsifique un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio;
-
-h) Conduzca, a sabiendas, un vehículo motorizado con el número de chasis adulterado o borrado, e
-
-i) Adultere o borre el número de chasis de un vehículo motorizado.
-
-j) Adquiera o solicite para sí o para otro, personalmente o por interpósita persona, la inscripción de un vehículo motorizado, a sabiendas que el número de chasis o número de identificación del vehículo (VIN) esté adulterado o borrado, sea falso o no corresponda al declarado en el documento o que corresponda al de otro vehículo.
-
-k) Conduzca un vehículo motorizado, a sabiendas, con el número de identificación del vehículo (VIN) o de motor adulterado o borrado; o corresponda al de otro vehículo, y el que adultere o borre el número de identificación del vehículo (VIN) o de su motor.
+g) Otorgue un certificado de revisión técnica sin haber practicado realmente la revisión o que contenga afirmaciones de hechos relevantes contrarios a la verdad; detente formularios para extenderlos, sin tener título para ello; falsifique un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio.
 
 El que adultere un certificado de revisión técnica o de emisión de gases, permiso de circulación o certificado de seguro obligatorio o utilice a sabiendas uno falsificado o adulterado, será sancionado con la pena señalada en el artículo 490, Nº 2, del Código Penal.
 
 Las penas señaladas en este artículo se aplicarán también al responsable de la circulación de un vehículo con permiso de circulación, certificado de seguro automotor o certificado de revisión técnica falsos, adulterados u obtenidos en contravención de esta ley o utilizando una placa patente falsa, adulterada o que correspondiere a otro vehículo.
 
-#### Artículo 192 bis
-
-El que encargue o realice, mediante vehículos motorizados, no motorizados o a tracción animal, el transporte, traslado o depósito de basuras, desechos o residuos de cualquier tipo, hacia o en la vía pública, sitios eriazos, en vertederos o depósitos clandestinos o ilegales, o en los bienes nacionales de uso público, será sancionado en la siguiente forma:
-
-Con multa de 2 a 100 unidades tributarias mensuales a quien encargue el traslado o depósito, siempre que cualquiera de ellos se haya ejecutado. La misma sanción se aplicará al propietario del vehículo motorizado con el cual se realice el transporte, traslado o depósito, salvo que acredite que el vehículo fue tomado sin su conocimiento o sin su autorización expresa o tácita;
-
-Con multa de 2 a 50 unidades tributarias mensuales a quien realice el depósito o el traslado conduciendo vehículos motorizados. Adicionalmente, se sancionará con la suspensión de la licencia de conducir e inhabilidad para obtenerla hasta por dos años;
-
-Con multa de 0,2 a 1 unidad tributaria mensual y el retiro del carretón y los aperos a quien conduzca un vehículo a tracción animal. El animal será entregado a quien conducía el vehículo;
-
-Con la misma multa anterior y el retiro del vehículo a tracción manual a quien lo conduzca o a quien realice el traslado en vehículo no motorizado, y
-
-Con una multa de 20 a 150 unidades tributarias mensuales, si se encarga o realiza el transporte, traslado o depósito de desechos tóxicos, peligrosos o infecciosos, en cualquier tipo de vehículo. Adicionalmente, será castigado con presidio menor en su grado medio y con la suspensión de la licencia de conducir e inhabilidad para obtenerla hasta por dos años.
-
-A los reincidentes de las conductas descritas anteriormente, se les impondrá como mínimo el doble de la multa establecida como base para cada conducta. Adicionalmente, en los casos que corresponda, se suspenderá nuevamente la licencia de conducir, al menos, por un mínimo de seis meses y hasta dos años.
-
-Los vehículos y especies que se encuentren en las situaciones descritas serán retirados de circulación por Carabineros de Chile, poniéndolos a disposición del tribunal competente en los lugares contemplados por las municipalidades para tal efecto, aplicándose al infractor lo dispuesto en los incisos segundo y tercero del artículo 156 de esta ley.
-
-La municipalidad de la comuna en donde transita el vehículo que sea retirado de circulación, por sí o a través de terceros, deberá descargar la basura, desechos o residuos y los trasladará hasta los rellenos sanitarios autorizados. El infractor, sea éste el propietario del vehículo, motorizado o no motorizado, el que encargue o realice, deberá pagar la multa correspondiente y los costos asociados al traslado y disposición de la basura, desechos o residuos en que incurra la municipalidad. El vehículo que sea retirado de circulación en conformidad con el inciso precedente sólo será devuelto al propietario contra entrega del comprobante de pago de las multas respectivas y de los costos asociados al traslado y disposición de la basura, desechos o residuos.
-
-El transporte de los elementos indicados en los incisos anteriores se regirá, en lo referente a los horarios, vías y demás reglas de tránsito que regulen dicho traslado, por lo dispuesto en la ordenanza municipal correspondiente a la comuna en donde aquéllos son generados.
-
-No obstante lo preceptuado en el inciso anterior, con el objetivo de poder verificar si el depósito de dichos elementos se realizará en un establecimiento habilitado para ello, a los transportistas de carga sólo se les exigirá que cuenten con el documento tributario pertinente que acredite el origen y destino de su recorrido.
-
-Asimismo, en el caso de las instituciones del Estado y municipalidades, ellas deberán exigir a los vehículos recolectores de residuos domiciliarios y de residuos sólidos inertes la respectiva autorización del director del área de la institución que dé cuenta de la existencia del contrato de disposición final en el cual se indique que el destino último de los desechos será un relleno sanitario o un vertedero legalmente autorizado.
-
-Lo dispuesto en este artículo no regirá para el caso del retiro de residuos sanitarios u otros que requieran de una autorización o permiso especial, o cuyo transporte esté sujeto a una regulación específica.
-
-#### Artículo 192 ter
-
-El transporte y retiro de escombros en contenedores o sacos se realizará cubriendo la carga de forma que se impida el esparcimiento, dispersión de materiales o polvo durante su traslado y que éstos se caigan de sus respectivos transportes. El que efectúe el transporte sin adoptar las medidas indicadas deberá pagar una multa de hasta 3 unidades tributarias mensuales.
-
-En todo caso, la persona natural o jurídica que cuente con la autorización para trasladar escombros deberá comunicar por escrito a la municipalidad cuál será la cantidad de metros cúbicos de escombros que se depositarán, su naturaleza y composición, el modo y los medios a emplear en el retiro, el transporte de los mismos y su lugar de destino.
-
-#### Artículo 192 quáter
-
-Cualquier persona que sorprenda o detecte las conductas descritas en los artículos 192 bis o 192 ter podrá poner en conocimiento de este hecho a las municipalidades, a Carabineros de Chile o a la autoridad sanitaria, quienes remitirán los antecedentes al Ministerio Público o a los tribunales competentes, según corresponda. Las personas podrán acompañar fotografías, filmaciones u otros medios de prueba que acrediten el lugar, la patente del vehículo o el día en que sucedieron los hechos.
-
 #### Artículo 193
 
-El que, infringiendo la prohibición establecida en el inciso segundo del artículo 110, conduzca, opere o desempeñe las funciones bajo la influencia del alcohol, será sancionado con multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por tres meses. Si a consecuencia de esa conducción, operación o desempeño, se causaren daños materiales o lesiones leves, será sancionado con una multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por seis meses. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor a siete días.
+El que infringiendo la prohibición establecida en el inciso segundo del artículo 110, conduzca, opere o desempeñe las funciones bajo la influencia del alcohol, ya sea que no se ocasione daño alguno ni lesiones, o que con ello se causen daños materiales o lesiones leves, será sancionado con multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por un mes.
 
-Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones menos graves, se impondrá la pena de prisión en su grado mínimo o multa de cuatro a diez unidades tributarias mensuales y la suspensión de la licencia de conducir por nueve meses.
+Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones menos graves, se impondrá la pena de prisión en su grado mínimo o multa de cuatro a diez unidades tributarias mensuales y la suspensión de la licencia de conducir de dos a cuatro meses.
 
-Si se causaren lesiones graves, la pena asignada será aquélla señalada en el artículo 490, Nº 2, del Código Penal y la suspensión de la licencia de conducir de dieciocho a treinta y seis meses.
+Si se causaren lesiones graves, la pena asignada será aquélla señalada en el artículo 490, Nº 2, del Código Penal y la suspensión de la licencia de conducir de cuatro a ocho meses.
 
-Si se causaren algunas de las lesiones indicadas en el artículo 397, Nº 1, del Código Penal o la muerte, se impondrá la pena de reclusión menor en su grado máximo, multa de veintiuno a treinta unidades tributarias mensuales y la suspensión de la licencia para conducir por el plazo que determine el juez, el que no podrá ser inferior a treinta y seis ni superior a sesenta meses.
+Si se causaren algunas de las lesiones indicadas en el artículo 397, Nº 1, del Código Penal o la muerte, se impondrá la pena de reclusión menor en su grado máximo, multa de ocho a quince unidades tributarias mensuales y la suspensión de la licencia para conducir por el plazo que determine el juez, el que no podrá ser inferior a doce ni superior a veinticuatro meses.
 
-INCISO ELIMINADO.
+Los jueces podrán siempre, aunque no medie condena por concurrir alguna circunstancia eximente de responsabilidad penal, decretar la inhabilidad temporal o perpetua para conducir vehículos motorizados, si las condiciones psíquicas y morales del autor lo aconsejan.
 
-En caso de reincidencia el infractor sufrirá, además de la pena que le corresponda, la suspensión de la licencia para conducir por el tiempo que estime el juez, el que no podrá ser inferior a cuarenta y ocho ni superior a setenta y dos meses.
-
-Las penas de multas de este artículo podrán siempre ser reemplazadas, a voluntad del infractor, por trabajos a favor de la comunidad y la asistencia a charlas sobre la conducción bajo los efectos del alcohol o estupefacientes, las que serán impartidas por el respectivo municipio.
+En caso de reincidencia el infractor sufrirá, además de la pena que le corresponda, la suspensión de la licencia para conducir por el tiempo que estime el juez, el que no podrá ser inferior a veinticuatro ni superior a cuarenta y ocho meses.
 
 #### Artículo 194
 
@@ -2236,109 +1984,21 @@ El que, a cualquier título que sea, explote un vehículo de transporte público
 
 #### Artículo 195
 
-El incumplimiento de la obligación de dar cuenta a la autoridad de todo accidente en que sólo se produzcan daños, señalada en el artículo 168, será sancionado con multa de tres a siete unidades tributarias mensuales y con la suspensión de la licencia hasta por un mes.
-
-El incumplimiento de la obligación de detener la marcha, prestar la ayuda posible y dar cuenta a la autoridad de todo accidente en que se produzcan lesiones, señalada en el artículo 176, se sancionará con la pena de presidio menor en su grado medio, inhabilidad perpetua para conducir vehículos de tracción mecánica y multa de siete a diez unidades tributarias mensuales.
-
-Si en el caso previsto en el inciso anterior las lesiones producidas fuesen de las señaladas en el número 1º del artículo 397 del Código Penal o se produjese la muerte de alguna persona, el responsable será castigado con la pena de presidio menor en su grado máximo, inhabilidad perpetua para conducir vehículos de tracción mecánica, multa de once a veinte unidades tributarias mensuales y con el comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal. Para los efectos de determinar la pena prevista en este inciso, será aplicable lo dispuesto en los artículos 196 bis y 196 ter de esta ley.
-
-Las penas previstas en este artículo se impondrán al conductor conjuntamente con las que le correspondan por la responsabilidad que le pueda caber en el respectivo delito o cuasidelito, de conformidad con lo dispuesto en el artículo 74 del Código Penal.
-
-#### Artículo 195 bis
-
-La negativa injustificada de un conductor a someterse a las pruebas respiratorias u otros exámenes científicos destinados a establecer la presencia de alcohol o de sustancias estupefacientes o psicotrópicas en el cuerpo, previstos en el artículo 182, será sancionada con multa de tres a diez unidades tributarias mensuales y con la suspensión de su licencia hasta por un mes.
-
-En caso de accidentes que produzcan lesiones de las comprendidas en el número 1º del artículo 397 del Código Penal o la muerte de alguna persona, la negativa injustificada del conductor que hubiese intervenido en ellos a someterse a las pruebas respiratorias evidenciales o a los exámenes científicos señalados en el artículo 183 de esta ley para determinar la dosificación de alcohol en la sangre o la presencia de drogas estupefacientes o sicotrópicas, o la realización de cualquier maniobra que altere sus resultados, o la dilación de su práctica con ese mismo efecto, serán castigadas con la pena de presidio menor en su grado máximo, multa de once a veinte unidades tributarias mensuales, inhabilidad perpetua para conducir vehículos de tracción mecánica y comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal. Para los efectos de determinar la pena prevista en este inciso, será aplicable lo dispuesto en los artículos 196 bis y 196 ter de esta ley.
-
-La pena prevista en el inciso anterior se impondrá al conductor conjuntamente con la que le corresponda por la responsabilidad que le pueda caber en el respectivo delito o cuasidelito, de conformidad con lo dispuesto en el artículo 74 del Código Penal.
+El incumplimiento, a sabiendas, de lo señalado en el artículo 168 será sancionado con multa de tres a siete unidades tributarias mensuales y con la suspensión de su licencia hasta por un mes. El incumplimiento, a sabiendas, de lo señalado en el artículo 176 será sancionado con la suspensión de la licencia de conductor por un plazo máximo de doce meses y si el juez así lo estimare, presidio menor en grado mínimo a medio, salvo que las lesiones producidas tengan el carácter de leves, en cuyo caso se aplicará la sanción del inciso primero del artículo 193.
 
 #### Artículo 196
 
-El que infrinja la prohibición establecida en el inciso segundo del artículo 110, cuando la conducción, operación o desempeño fueren ejecutados en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, será sancionado con la pena de presidio menor en su grado mínimo y multa de dos a diez unidades tributarias mensuales, además de la suspensión de la licencia para conducir vehículos motorizados por el término de dos años, si fuese sorprendido en una primera ocasión, la suspensión por el término de cinco años, si es sorprendido en un segundo evento y, finalmente, con la cancelación de la licencia al ser sorprendido en una tercera ocasión, ya sea que no se ocasione daño alguno, o que con ello se causen daños materiales o lesiones leves. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor de siete días.
+El que infrinja la prohibición establecida en el inciso segundo del artículo 110, cuando la conducción, operación o desempeño fueren ejecutados en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, será sancionado con la pena de presidio menor en su grado mínimo y multa de dos a diez unidades tributarias mensuales, ya sea que no se ocasione daño alguno, o que con ello se causen daños materiales o lesiones leves. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor de siete días.
 
-Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones graves o menos graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales, además de la suspensión de la licencia de conducir por el término de treinta y seis meses en el caso de producirse lesiones menos graves, y de cinco años en el caso de lesiones graves. En caso de reincidencia, el juez deberá decretar la cancelación de la licencia.
+Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones graves o menos graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales.
 
-Si se causare alguna de las lesiones indicadas en el número 1º del artículo 397 del Código Penal o la muerte de alguna persona, se impondrán las penas de presidio menor en su grado máximo, en el primer caso, y de presidio menor en su grado máximo a presidio mayor en su grado mínimo, en el segundo. En ambos casos, se aplicarán también las penas de multa de ocho a veinte unidades tributarias mensuales, de inhabilidad perpetua para conducir vehículos de tracción mecánica y el comiso del vehículo con que se ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal.
+Si se causaren algunas de las lesiones indicadas en el artículo 397 Nº 1 del Código Penal o la muerte de una o más personas, se impondrán las penas de presidio menor en su grado máximo y multa de ocho a veinte unidades tributarias mensuales.
 
-Al autor del delito previsto en el inciso precedente se le impondrá el máximum o el grado máximo de la pena corporal allí señalada, según el caso, conjuntamente con las penas de multa, inhabilidad perpetua para conducir vehículos motorizados y comiso que se indican, si concurriere alguna de las circunstancias siguientes:
+El tribunal, en todo caso, podrá hacer uso de la facultad que le confiere el inciso final del artículo 193.
 
-1.- Si el responsable hubiese sido condenado anteriormente por alguno de los delitos previstos en este artículo, salvo que a la fecha de comisión del delito hubieren transcurrido los plazos establecidos en el artículo 104 del Código Penal respecto del hecho que motiva la condena anterior.
+Enlos delitos previstos en este artículo se aplicarán como pena accesoria la suspensión de la licencia para conducir vehículos motorizados por el término de seis meses a un año; de uno a dos años, si se causaren lesiones menos graves o graves, de dos a cuatro años, si resultare la muerte. En caso de reincidencia, los plazos máximos señalados en este inciso se elevarán al doble, debiendo el juez decretar la cancelación de la licencia cuando estime que la conducción de vehículos por parte del infractor ofrece peligro para el tránsito o para la seguridad pública; lo que fundará en las anotaciones que registre la hoja de vida del conductor o en razones médicas debidamente comprobadas.
 
-2.- Si el delito hubiese sido cometido por un conductor cuya profesión u oficio consista en el transporte de personas o bienes y hubiere actuado en el ejercicio de sus funciones.
-
-3.- Si el responsable condujere el vehículo con su licencia de conducir cancelada, o si ha sido inhabilitado a perpetuidad para conducir vehículos motorizados.
-
-#### Artículo 196 bis
-
-Para determinar la pena en los casos previstos en los incisos tercero y cuarto del artículo 196, el tribunal no tomará en consideración lo dispuesto en los artículos 67, 68 y 68 bis del Código Penal y, en su lugar, aplicará las siguientes reglas:
-
-1.- Si no concurren circunstancias atenuantes ni agravantes en el hecho, el tribunal podrá recorrer toda la extensión de la pena señalada por la ley al aplicarla.
-
-2.- Si, tratándose del delito previsto en el inciso tercero del artículo 196, concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena de presidio menor en su grado máximo. Si concurren una o más agravantes y ninguna atenuante, aplicará la pena de presidio mayor en su grado mínimo.
-
-3.- Si, tratándose del delito establecido en el inciso cuarto del artículo 196, concurren una o más circunstancias atenuantes y ninguna agravante, el tribunal impondrá la pena en su grado mínimo. Si concurren una o más agravantes y ninguna atenuante, la impondrá en su grado máximo. Para determinar en tales casos el mínimo y el máximo de la pena, se dividirá por mitad el período de su duración: la más alta de estas partes formará el máximo y la más baja el mínimo.
-
-4.- Si concurren circunstancias atenuantes y agravantes, se hará su compensación racional para la aplicación de la pena, graduando el valor de unas y otras.
-
-5.- El tribunal no podrá imponer una pena que sea mayor o menor al marco fijado por la ley. Con todo, podrá imponerse la pena inferior en un grado si, tratándose de la eximente del número 11 del artículo 10 del Código Penal, concurriere la mayor parte de sus requisitos, pero el hecho no pudiese entenderse exento de pena.
-
-#### Artículo 196 ter
-
-Respecto del delito previsto en el inciso tercero del artículo 196, será aplicable lo previsto en la ley Nº 18.216, conforme a las reglas generales. Sin embargo, la ejecución de la respectiva pena sustitutiva quedará en suspenso por un año, tiempo durante el cual el condenado deberá cumplir en forma efectiva la pena privativa de libertad a la que fuere condenado.
-
-Con todo, no se aplicará en estas situaciones lo dispuesto en el artículo 38 de dicha ley y en ningún caso la sustitución de la pena privativa de libertad implicará la sustitución o suspensión del cumplimiento de las multas, comiso e inhabilitaciones impuestas.
-
-#### Artículo 196 quáter
-
-Será sancionado con la pena de presidio menor en cualquiera de sus grados y multa de once a quince unidades tributarias mensuales, el que falsificare cualquier instrumento o dispositivo de pago de tarifa, de acreditación de dicho pago y,o de rebaja tarifaria u otros beneficios, que permita acceder a los servicios de transporte público remunerado de pasajeros.
-
-Para estos efectos, se entenderá especialmente que comete falsificación el que:
-
-1°. Modifique o altere cualquier dato de fabricación del medio de pago.
-
-2°. Altere las fechas verdaderas.
-
-3°. Haga en un documento verdadero cualquiera alteración o intercalación que varíe su sentido.
-
-4°. Dé copia en forma fehaciente de un documento supuesto, o manifestando en ella cosa contraria o diferente de la que contenga el verdadero original.
-
-5°. Copie, parcial o totalmente, la información de los datos contenidos en el medio de acceso, sin estar debidamente facultado para ello.
-
-Al autor del delito previsto en este artículo se le impondrá el grado máximo de la pena corporal señalada, según el caso, cuando concurra alguna de las circunstancias siguientes:
-
-a) Cuando se falsifiquen instrumentos o dispositivos para uso masivo.
-
-b) Cuando se trate de un empleado público, que comete falsificación abusando de su oficio.
-
-#### Artículo 196
-
-quinquies.- Se entenderá que comete falsificación el que maliciosamente hiciere uso de un instrumento o dispositivo falsificado para acceder a los servicios de transporte público remunerado de pasajeros. El que incurra en esta conducta será sancionado con la pena establecida en el artículo precedente.
-
-#### Artículo 196
-
-sexies.- Será sancionado con la pena agravada del artículo 196 quáter el que comercialice o distribuya los referidos instrumentos o dispositivos falsificados.
-
-#### Artículo 196
-
-septies.- Será sancionado con la pena de presidio menor en su grado mínimo a medio y con multa de diez a cincuenta unidades tributarias mensuales, según las circunstancias:
-
-a) El que indebidamente se apodere, comercialice, encargue, exporte, transmita, importe o distribuya la información contenida en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros.
-
-b) El que indebidamente y de cualquier modo altere, modifique, dañe o destruya los datos contenidos en un medio tecnológico de acceso a los servicios de transporte público remunerado de pasajeros en perjuicio del Sistema de Transporte Público remunerado de pasajeros.
-
-Para los efectos de este artículo, se entenderá por medios tecnológicos de acceso a los servicios de transporte público remunerado de pasajeros, aquellos elementos o dispositivos tecnológicos autorizados por el Ministerio de Transportes y Telecomunicaciones o la autoridad competente, que permitan acceder a los servicios de transporte público remunerado de pasajeros y pagar la tarifa correspondiente.
-
-Las penas establecidas en este artículo se aumentarán en un grado si quien incurre en las conductas:
-
-1° Las realiza maliciosamente, siendo responsable de la información con ocasión del ejercicio de su oficio.
-
-2° Las realiza sobre datos del sistema de información relativos a medios de acceso a los servicios de transporte público remunerado de pasajeros y pago de la tarifa correspondiente, contenidos en el sistema de tratamiento de información de dichos servicios.
-
-#### Artículo 196
-
-octies.- El que lesione, en razón del ejercicio de sus funciones a un inspector fiscal del Ministerio de Transportes y Telecomunicaciones, al personal de la Empresa de los Ferrocarriles del Estado y sus filiales, o de Metro S.A., que realicen servicios de fiscalización, o a quienes sean contratados por empresas operadoras de servicios de transporte público para realizar labores de verificación de pago de tarifa, será sancionado con la pena asignada al delito correspondiente, aumentada en un grado.
-
-Asimismo, el que amenace a las personas señaladas en el inciso anterior, en los términos de los artículos 296 o 297 del Código Penal, en razón del ejercicio de sus funciones, será sancionado con la pena asignada al delito correspondiente, aumentada en un grado.
+Las medidas indicadas en el inciso precedente no podrán ser suspendidas, ni aun cuando el juez hiciere uso de la facultad contemplada en el artículo 398 del Código Procesal Penal. Sin embargo, cumplidos a lo menos seis años desde que se canceló la licencia de conducir, el juez podrá alzar esa medida cuando nuevos antecedentes permitan estimar fundadamente que ha desaparecido el peligro para el tránsito o para la seguridad pública que importaba la conducción de vehículos motorizados por el infractor.
 
 #### Artículo 197
 
@@ -2348,9 +2008,9 @@ Tratándose de procedimientos por faltas, el fiscal podrá solicitar la aplicaci
 
 Para los efectos de la aplicación del artículo 395 del Código Procesal Penal, el juez deberá informar al imputado todas las penas copulativas y accesorias que de acuerdo a la ley pudieren imponérsele, cualquiera sea su naturaleza.
 
-En el caso de los delitos de conducción, operación o desempeño en estado de ebriedad o bajo la influencia de sustancias estupefacientes o sicotrópicas, el tribunal, a petición del fiscal, el querellante o la víctima, podrá decretar la medida cautelar de suspensión provisoria de la licencia de conducir desde que se realice la audiencia de control de detención, debiendo quedar constancia en la hoja de vida del conductor. El tiempo que medie entre dicha audiencia y la dictación de la sentencia se imputará a la condena.
+En el caso de los delitos de conducción, operación o desempeño en estado de ebriedad o bajo la influencia de sustancias estupefacientes o sicotrópicas, el juez de garantía podrá decretar, de conformidad a las reglas del Código Procesal Penal, la medida cautelar de retención del carné, permiso o licencia de conductor del imputado, por un plazo que no podrá ser superior a seis meses.
 
-Asimismo, en los procedimientos por los delitos a que se refiere el inciso primero, el fiscal podrá solicitar al juez de garantía la suspensión del procedimiento, reuniéndose los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, debiendo siempre decretar la suspensión, cancelación o inhabilitación perpetua, conforme a lo establecido en los artículos 193 y 196, según corresponda. En estos delitos no procederá la atenuante de responsabilidad penal contenida en el artículo 11 N° 7ª del Código Penal.
+Asimismo, en los procedimientos por estos delitos, el fiscal podrá solicitar al juez de garantía la suspensión del procedimiento, reuniéndose los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer, además de cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, la suspensión de la licencia para conducir por un plazo no menor de seis meses ni superior a un año.
 
 Tratándose del procedimiento simplificado, la suspensión condicional del procedimiento podrá solicitarse en la audiencia que se llevare a efecto de acuerdo con el artículo 394 del Código Procesal Penal.
 
@@ -2362,49 +2022,9 @@ Lo establecido en el inciso anterior procederá siempre que el imputado tuviere 
 
 Si no concurrieren las circunstancias establecidas en los dos incisos precedentes, se mantendrá detenido al imputado para ponerlo a disposición del tribunal, el que podrá decretar la prisión preventiva cuando procediere de acuerdo con las reglas generales. Sin perjuicio de la citación al imputado, o de su detención cuando corresponda, aquél será conducido a un establecimiento hospitalario para la práctica de los exámenes a que se refiere el artículo 183.
 
-Las penas de suspensión, cancelación o inhabilitación perpetua para conducir vehículos a tracción mecánica o animal, no podrán ser suspendidas, ni aun cuando el juez hiciere uso de la facultad contemplada en el artículo 398 del Código Procesal Penal.
-
-#### Artículo 197 bis
-
-Los jueces podrán siempre, aunque no medie condena por concurrir alguna circunstancia eximente de responsabilidad penal, decretar la inhabilidad temporal o perpetua para conducir vehículos motorizados, si las condiciones psíquicas y morales del autor lo aconsejan.
-
-#### Artículo 197 ter
-
-Para los efectos de este artículo, se entenderán por carreras no autorizadas las siguientes conductas realizadas sin la autorización o permiso correspondiente por parte de la autoridad competente, con vehículos motorizados y en cualquiera de los lugares señalados en el artículo 1:
-
-1° Carreras que se efectúen contra otros vehículos, contra reloj o cualquier otro dispositivo para medir el tiempo, para medir velocidades máximas o hasta llegar o pasar un punto, meta o destino determinado.
-
-2° Competencia de destrezas, deslizamientos o derrapes.
-
-3° Competencias de maniobras o de velocidad que pongan en peligro la vida o integridad física de terceras personas.
-
-El que condujere un vehículo motorizado participando en carreras no autorizadas será sancionado con la pena de presidio menor en su grado mínimo o multa de dos a diez unidades tributarias mensuales, ya sea que no se ocasione daño alguno, o que con ello se causen daños materiales o lesiones leves. Para estos efectos se reputarán leves, aquellas que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor de siete días.
-
-Si, a consecuencia de esta conducción, se causaren lesiones menos graves o graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales.
-
-Si se causare alguna de las lesiones indicadas en el número 1° del artículo 397 del Código Penal o la muerte de alguna persona, se impondrán las penas de presidio menor en su grado máximo, en el primer caso, y de presidio menor en su grado máximo a presidio mayor en su grado mínimo, en el último. En ambos casos, se aplicarán también, además del comiso del vehículo, las penas de multa de ocho a veinte unidades tributarias mensuales y de inhabilidad perpetua para conducir vehículos de tracción mecánica.
-
-Al autor de los delitos establecidos en los incisos segundo y tercero se le impondrá, además, la pena de comiso del vehículo con que ha cometido el delito, sin perjuicio de los derechos del tercero propietario, que podrá hacer valer conforme a las reglas generales del Código Procesal Penal; y la de suspensión de la licencia para conducir vehículos motorizados por el término de seis meses hasta dos años, si fuere sorprendido en una primera ocasión, la suspensión hasta por cinco años, si fuere sorprendido en un segundo evento y con la cancelación de la licencia al ser sorprendido en una tercera oportunidad.
-
-Las penas dispuestas en los incisos anteriores también serán aplicables a quienes, concertados para su ejecución, faciliten vehículos motorizados para la participación en carreras clandestinas en los términos del N° 3 del artículo 15 del Código Penal.
-
-El que organizare carreras no autorizadas será sancionado con la pena de presidio menor en su grado mínimo y multa de 8 a 20 unidades tributarias mensuales. Si con ocasión o con motivo de la ejecución de la conducta señalada en este inciso obtuviere algún beneficio económico para sí o para un tercero, se le aplicará la pena de presidio menor en su grado medio y multa de 20 unidades tributarias mensuales.
-
-#### Artículo 197 quáter
-
-Se considerará como circunstancia atenuante especial de la responsabilidad penal para los delitos previstos en el artículo anterior, la colaboración relevante en el esclarecimiento de la participación responsable de quienes organicen, participen en la organización o conduzcan vehículos motorizados en carreras no autorizadas, pudiendo rebajarse la pena en un grado. Para tener por configurada esta circunstancia atenuante, el juez deberá corroborar la colaboración relevante con otros antecedentes de la causa penal.
-
-La rebaja del grado deberá ser efectuada con posterioridad al cálculo de otras circunstancias atenuantes o agravantes de responsabilidad criminal.
-
-#### Artículo 197
-
-quinquies.- El que condujere un vehículo motorizado y sobrepase en 60 kilómetros por hora los límites de velocidad fijados en los artículos 145 y 146 será sancionado con la pena de prisión en su grado máximo o multa de 2 a 10 unidades tributarias mensuales; y la suspensión de la licencia para conducir vehículos motorizados por el término de seis meses hasta dos años, si fuere sorprendido en una primera ocasión; la suspensión hasta por cinco años, si fuere sorprendido en un segundo evento y con la cancelación de la licencia al ser sorprendido en una tercera oportunidad.
-
-En caso de producirse las lesiones o muerte descritas en los incisos segundo y tercero del artículo 197 ter se aplicarán las penas privativas de libertad y pecuniarias que ese artículo establece.
-
 #### Artículo 198
 
-El que atentare contra un vehículo motorizado, se encuentre o no en circulación, apedreándolo o arrojándole otros objetos contundentes o inflamables o por cualquier otro medio semejante, será castigado con pena de presidio menor en su grado mínimo.
+El que atentare contra un vehículo motorizado en circulación, apedreándolo o arrojándole otros objetos contundentes o inflamables o por cualquier otro medio semejante, será castigado con pena de presidio menor en su grado mínimo.
 
 Si a consecuencias del atentado se causare la muerte o se lesionare a alguna persona, se aplicarán las penas señaladas al delito de que se trate, aumentadas en un grado.
 
@@ -2418,21 +2038,9 @@ Si sólo se produjeren daños en las cosas, se aplicará la pena del inciso prim
 
 Son infracciones o contravenciones gravísimas, las siguientes:
 
-1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE".
+1.- No detenerse ante la luz roja de las señales luminosas del tránsito, o ante la señal "PARE", y
 
-2.- Conducir un vehículo motorizado o a tracción animal sin haber obtenido licencia de conductor, sin perjuicio de lo dispuesto en el artículo 194.
-
-3.- Conducir un vehículo infringiendo lo dispuesto en los incisos tercero y cuarto del artículo 75.
-
-4.- Acceder a los servicios de transporte público remunerado de pasajeros utilizando un pase escolar, pase de educación superior o cualquier instrumento o mecanismo que permita el uso del transporte público remunerado de pasajeros con beneficios, sin ser su titular, o alterándolo con el fin de aparentar la titularidad sobre éstos, para el exclusivo uso de quien efectúe tal alteración.
-
-5.- Conducir un vehículo manipulando un dispositivo de telefonía móvil o cualquier otro artefacto electrónico o digital, que no venga incorporado de fábrica en él, excepto si la acción se realiza a través de un sistema de manos libres, conforme a las especificaciones que determine el reglamento.
-
-6.- Conducir un vehículo sin la placa patente única cuando ésta sea exigible conforme con lo dispuesto en el artículo 51.
-
-7.- Conducir un vehículo con la placa patente oculta o que utilice objetos, accesorios, luces o aditamentos que obstaculicen su plena percepción, o si la placa patente se encuentra en mal estado y dificulte la identificación del vehículo, siempre que la placa patente sea exigible conforme a lo dispuesto en el artículo 51.
-
-> **Nota.** De conformidad con el Art. transitorio de la ley 20904, publicada el 16 de marzo de 2016, las obligaciones que la citada ley introduce en el inciso 4° del artículo 75 serán exigibles transcurridos 12 meses desde su publicación.
+2.- Conducir sin haber obtenido licencia de conductor, sin perjuicio de lo dispuesto en el artículo 194.
 
 #### Artículo 200
 
@@ -2446,7 +2054,7 @@ Son infracciones o contravenciones graves las siguientes:
 
 4. Entregar el dueño o su tenedor un vehículo para que lo conduzca persona que no cumpla con los requisitos para conducir;
 
-5. DEROGADO.
+5. Conducir un vehículo sin la placa patente;
 
 6. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros de Chile o las de un inspector fiscal en los procedimientos de fiscalización del transporte público y privado remunerado de pasajeros y transporte de carga;
 
@@ -2464,9 +2072,7 @@ Son infracciones o contravenciones graves las siguientes:
 
 13. Infringir las normas sobre virajes contempladas en los artículos 134 y 135;
 
-14. Conducir un vehículo con sus sistemas de direcció
-
-n o de frenos en condiciones deficientes;
+14. Conducir un vehículo con sus sistemas de dirección o de frenos en condiciones deficientes;
 
 15. Conducir un vehículo sin luces en las horas y circunstancias en que las exige esta ley o sus reglamentos;
 
@@ -2494,15 +2100,15 @@ n o de frenos en condiciones deficientes;
 
 27. Conducir un vehículo con infracción de lo señalado en los artículos 62 o 65;
 
-28. Estacionarse en, usar u ocupar estacionamientos exclusivos para personas con discapacidad, sin derecho a ello;
+28. Usar indebidamente estacionamientos exclusivos para personas con discapacidad;
 
 29. Detener o estacionar un vehículo en doble fila, respecto a otro vehículo detenido o estacionado junto a la cuneta;
 
 30. Cruzar una vía férrea en lugar no autorizado;
 
-31.- Conducir un vehículo infringiendo lo dispuesto en el número 10 y en el inciso segundo del artículo 75;
+31. Conducir un vehículo infringiendo lo dispuesto en el número 10 del artículo 75;
 
-32. Suprimido;
+32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efectúe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
 
 33. Mantener abiertas las puertas de un vehículo de locomoción colectiva mientras se encuentra en movimiento; llevar pasajeros en las pisaderas o no detenerse junto a la acera al tomar o dejar pasajeros;
 
@@ -2516,43 +2122,21 @@ n o de frenos en condiciones deficientes;
 
 38. Usar los particulares, dispositivos especiales propios de vehículos de emergencia, salvo los autorizados por el reglamento;
 
-39. Detenerse, tratándose de medios de locomoción pública, en la intersección de calles, a dejar o tomar pasajeros en segunda fila o en paraderos no autorizados;
+39. Detenerse, tratándose de medios de locomoción pública, en la intersección de calles, a dejar o tomar pasajeros en segunda fila o en paraderos no autorizados, y
 
-40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves;
+40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves.
 
-41.- Infringir lo dispuesto en el inciso final del artículo 75;
-
-42. Usar los servicios de transporte público remunerado de pasajeros sin pagar la tarifa correspondiente, y
-
-43. Infringir lo dispuesto en el artículo 86.
-
-44. Infringir lo dispuesto en los artículos 67 bis y 67 ter, en lo referente al transporte, carga y descarga de minerales y de concentrado de minerales.
-
-45. Conducir un vehículo que no cuente con la placa patente grabada de forma permanente en los vidrios y espejos laterales, cuando esto sea exigible conforme a esta ley y sus reglamentos.
-
-46. Tratándose de comercializadores de vehículos motorizados, vender un vehículo sin la placa patente grabada de forma permanente en los vidrios y espejos laterales, cuando el grabado sea exigible conforme a esta ley y sus reglamentos.
-
-En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
-
-#### Artículo 200 bis
-
-Se prohíbe la venta y carga al público de combustible a los vehículos motorizados que no cuenten con su placa patente delantera o trasera.
-
-Las estaciones de servicio y de autoservicio deberán exhibir carteles visibles que indiquen expresamente la prohibición de venta y carga de combustible a los vehículos que no cuenten con su placa patente señalados en el inciso anterior.
-
-La contravención a lo dispuesto en este artículo será castigada con multa de 10 a 100 unidades tributarias mensuales y se aplicará al concesionario o dueño de la estación de servicio. Al que reiterare la conducta se le aplicará siempre el máximo de la multa.
-
-> **Nota.** El artículo tercero transitorio de la ley 21601, publicada el 11.09.2023, dispone que la obligación establecida en el inciso segundo de la presente norma, entrará en vigencia treinta días después de publicada la citada ley en el Diario Oficial.
+En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo.
 
 #### Artículo 201
 
 Son infracciones o contravenciones menos graves, las siguientes:
 
-1. Estacionar o detener un vehículo en lugares prohibidos, sin perjuicio de lo establecido en los números 7, 28, 29 y 39 del artículo anterior;
+1. Estacionar o detener un vehículo en lugares prohibidos sin perjuicio de lo establecido en los números 7, 29 y 39 del artículo anterior, o estacionar en un espacio destinado a vehículos para personas con discapacidad, sin derecho a ello;
 
 2. Infringir las normas del artículo 115;
 
-3. Conducir un vehículo usando indebidamente las luces, con luces o focos distintos o adicionales a los permitidos en esta ley o sus reglamentos, sin perjuicio de lo establecido en el número 15 del artículo anterior;
+3. Conducir un vehículo usando indebidamente las luces, sin perjuicio de lo establecido en el número 15 del artículo anterior;
 
 4. Infringir, los conductores, las disposiciones del artículo 142 ó 143 sobre vehículos de emergencia;
 
@@ -2560,7 +2144,7 @@ Son infracciones o contravenciones menos graves, las siguientes:
 
 6. No respetar las prohibiciones establecidas en el artículo 137;
 
-7. Conducir un vehículo motorizado sin silenciador o con éste o el tubo de escape en malas condiciones, o con el tubo de salida antirreglamentario;
+7. Conducir un vehículo sin silenciador o con éste o el tubo de escape en malas condiciones, o con el tubo de salida antirreglamentario;
 
 8. No llevar los elementos señalados en los números 1, 2 y 3 del artículo 75;
 
@@ -2576,7 +2160,7 @@ Son infracciones o contravenciones menos graves, las siguientes:
 
 imero del artículo 110;
 
-14. Conducir bicicletas, motocicletas o vehículos similares, contraviniendo la norma sobre uso obligatorio de casco protector y demás elementos de seguridad. Asimismo, constituirá infracción la conducción de vehículos motorizados utilizando un casco que no cumpla con la obligación establecida en el artículo 80;
+14. Conducir bicicletas, motocicletas o vehículos similares, contraviniendo la norma sobre uso obligatorio de casco protector y demás elementos de seguridad;
 
 15. No cumplir las obligaciones que impone el artículo 176;
 
@@ -2616,7 +2200,7 @@ Constituirá infracción menos grave, exceder hasta en 10 kilómetros por hora e
 
 Constituirá infracción grave, exceder de 11 a 20 kilómetros por hora el límite máximo de velocidad de los artículos 145 y 146.
 
-Constituirá infracción gravísima, exceder entre 20 y 60 kilómetros por hora el límite máximo de velocidad señalado en los artículos 145 y 146.
+Constituirá infracción gravísima, exceder en más de 20 kilómetros por hora el límite máximo de velocidad de los artículos 145 y 146.
 
 #### Artículo 204
 
@@ -2632,15 +2216,7 @@ La pena de multa se aplicará a los infractores de los preceptos de esta ley, de
 
 A los reincidentes de infracciones gravísimas o graves, cometidas en los últimos tres y dos años, respectivamente, se les impondrá el doble de la multa establecida para cada infracción, la que se elevará al triple en caso de incurrirse nuevamente en dicha conducta. Lo anterior, sin perjuicio de las suspensiones o cancelaciones de licencias de conductor que corresponda.
 
-Las personas que indiquen un domicilio falso o inexistente en un procedimiento de fiscalización donde sean citadas al juzgado de policía local serán sancionadas con multa de una a diez unidades tributarias mensuales.
-
-El comercializador que entregue un vehículo nuevo sin la placa patente única instalada será sancionado con multa de 10 a 50 unidades tributarias mensuales.
-
-El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 5 a 75 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
-
-La infracción de la prohibición establecida en el número 3 del artículo 160 será sancionada con multa de media unidad tributaria mensual a dos unidades tributarias mensuales. La reincidencia será sancionada con multa de dos a cuatro unidades tributarias mensuales.
-
-En los casos señalados en el inciso anterior, la mercadería será decomisada. Los elementos perecibles serán distribuidos entre los establecimientos de caridad o asistencia de la comuna respectiva, según lo establezcan las ordenanzas municipales correspondientes. Los demás elementos serán destruidos según lo dispongan las mismas ordenanzas.
+El adquirente de un vehículo, que no cumpla con la obligación establecida en el inciso cuarto del artículo 42, o que indique domicilio falso o inexistente, será sancionado con multa de 3 a 50 unidades tributarias mensuales. Asimismo, si no diera cumplimiento a la obligación establecida en el inciso final del mismo artículo, será sancionado con multa de 3 a 5 unidades tributarias mensuales.
 
 Al que transporte cargas peligrosas sin ajustarse a las normas reglamentarias que rigen la actividad, se le aplicará una multa de 5 a 20 unidades tributarias mensuales, respectivamente.
 
@@ -2658,7 +2234,7 @@ Las multas señaladas en los artículos anteriores, no estarán afectas a recarg
 
 Los distintivos y dispositivos que se utilicen en contravención a la ley o los reglamentos y los taxímetros que se usen adulterados, caerán en comiso y serán destruidos.
 
-§ 3. DE LA SUSPENSIÓN E INHABILITACIÓN PARA CONDUCIR VEHÍCULOS A TRACCIÓN MECÁNICA Y LA CANCELACIÓN DE LA LICENCIA DE CONDUCTOR.
+### 3. DE LA SUSPENSION Y CANCELACION DE LA LICENCIA DE CONDUCTOR
 
 (ARTS. 207 - 209)
 
@@ -2672,25 +2248,23 @@ b) Tratándose de procesos por acumulación de infracciones, al responsable de d
 
 #### Artículo 208
 
-La pena de suspensión para conducir vehículos de tracción mecánica o animal conlleva la imposibilidad de usarla durante el tiempo de la condena; la de inhabilitación para conducir vehículos de tracción mecánica o animal conlleva la cancelación de la licencia de conducir o la imposibilidad de obtenerla.
-
 Sin perjuicio de las multas que sean procedentes y de lo señalado en los artículos 193 y 196, el juez decretará la cancelación de la licencia de conducir del infractor, en los siguientes casos:
 
-a) Ser responsable, durante los últimos doce meses, de tres o más infracciones o contravenciones gravísimas;
+a) Ser responsable por tres veces dentro de los últimos 12 meses de conducir un vehículo bajo la influencia del alcohol o ser responsable por tres veces dentro de los últimos 24 meses de conducir en estado de ebriedad o bajo el efecto de estupefacientes o sustancias sicotrópicas;
 
-b) Haber sido condenado con la suspensión de la licencia de conducir por tres veces dentro de los últimos doce meses, o cuatro veces dentro de los últimos veinticuatro meses.
+b) Ser reincidente, dentro de los últimos sesenta meses, en cuasidelito de homicidio o de lesiones con alguno de los resultados señalados en el número 1º del artículo 397 del Código Penal o por conducir vehículos motorizados o a tracción animal en estado de ebriedad o con pérdida notoria de conciencia debido al consumo de estupefacientes o sustancias sicotrópicas;
+
+c) Ser responsable, durante los últimos doce meses, de tres o más infracciones o contravenciones gravísimas;
+
+d) Haber sido condenado con la suspensión de la licencia de conducir por tres veces dentro de los últimos doce meses, o cuatro veces dentro de los últimos veinticuatro meses.
 
 El infractor, transcurridos que sean dos años desde la fecha de cancelación de su licencia de conducir, podrá solicitar una nueva al Departamento de Tránsito y Transporte Público de la municipalidad de su domicilio, de acuerdo a las normas establecidas en el Título I de esta ley, salvo que la sentencia condenatoria haya impuesto una pena superior, en cuyo caso regirá ésta.
 
-En los casos que, como consecuencia de la aplicación de lo dispuesto en los artículos 193 y 196, se hubiere cancelado la licencia de conducir, el juez, transcurridos doce años desde que se canceló la licencia, podrá alzar esta medida cuando nuevos antecedentes permitan estimar fundadamente que ha desaparecido el peligro para el tránsito o para la seguridad pública que importaba la conducción de vehículos motorizados por el infractor.
-
 #### Artículo 209
 
-El conductor que hubiere sido condenado a las penas de suspensión o inhabilitación perpetua para conducir vehículos de tracción mecánica o animal, y fuere sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta, será castigado con presidio menor en su grado mínimo y multa de hasta diez unidades tributarias mensuales.
+El que haya sido sancionado con la cancelación de su licencia de conductor y que, no obstante ello, sea sorprendido conduciendo un vehículo, será castigado con la pena de presidio menor en su grado mínimo y multa de hasta quince unidades tributarias mensuales.
 
-Si los delitos a que se refieren los artículos 193 y 196 de la presente ley, fueren cometidos por quien no haya obtenido licencia de conducir, o que, teniéndola, hubiese sido cancelada o suspendida, el tribunal deberá aumentar la pena en un grado.
-
-Lo previsto en el presente artículo no se aplicará a quienes fueren condenados por los delitos contemplados en los incisos tercero y cuarto del artículo 196.
+Si el conductor hubiese sido sancionado con la suspensión de su licencia y es sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta será castigado con prisión en su grado máximo y multa de hasta diez unidades tributarias mensuales.
 
 ## Título XVIII
 
@@ -2720,11 +2294,9 @@ as condenas por cancelación o suspensión de la licencia de conductor;
 
 5.- Comunicar al Juzgado de Policía Local respectivo los antecedentes para la cancelación o suspensión de la licencia de conductor por reincidencia en infracciones o contravenciones a esta ley;
 
-6.- Remitir la información que les sea requerida por los Tribunales de Justicia, Carabineros de Chile o por los Departamentos de Tránsito y Transportes Público Municipal;
+6.- Remitir la información que les sea requerida por los Tribunales de Justicia, Carabineros de Chile o por los Departamentos de Tránsito y Transportes Público Municipal, y
 
-7.- Otorgar los certificados que les sean solicitados por los conductores inscritos, y
-
-8.- Registrar las anotaciones que consten en el "Registro de Pasajeros Infractores.
+7.- Otorgar los certificados que les sean solicitados por los conductores inscritos.
 
 #### Artículo 212
 
@@ -2790,79 +2362,17 @@ Una institución privada y sin fines de lucro, que tenga dentro de sus objetivos
 
 Los vehículos motorizados antiguos o históricos deberán cumplir las normas especiales de emisión y estarán afectos a las restricciones de circulación que determine el reglamento. El Ministerio de Transportes y Telecomunicaciones les otorgará un certificado de revisión técnica y un distintivo especial, sin los cuales no podrán transitar.
 
-## Título XX
-
-DE LAS BICICLETAS Y OTROS CICLOS
-
-(ARTS. 221-224)
-
-#### Artículo 221
-
-El Ministerio de Transportes y Telecomunicaciones dictará un reglamento que regule las condiciones de gestión y seguridad de tránsito que deberán cumplir las ciclovías para su correcta operación. Se entenderá por condiciones de gestión y seguridad de tránsito, los requisitos de diseño y características técnicas con las que deberán planificarse, implementarse y mantenerse las ciclovías. Asimismo, dicho reglamento definirá las especificaciones técnicas de los elementos de seguridad para los ocupantes de ciclos, tales como casco, elementos reflectantes, frenos, luces y otros accesorios de seguridad de los ciclos.
-
-El Ministerio de Transportes y Telecomunicaciones, a través de sus secretarías regionales ministeriales, autorizará, mediante resolución, la operación de las ciclovías que cumplan los requisitos indicados en el reglamento señalado en el inciso anterior. Dicha resolución deberá indicar el nombre de la o las vías en que se ubicará la ciclovía, los tramos que ocupará, su emplazamiento, accesos y el sentido del tránsito que tendrá, entre otros aspectos que el reglamento señale.
-
-El Ministerio de Transportes y Telecomunicaciones podrá, además, establecer prohibiciones de circulación sobre las ciclovías para tipos específicos de ciclos, considerando sus dimensiones, estructura u otras similares que puedan afectar la correcta operación de las ciclovías, en los términos que señale el referido reglamento.
-
-#### Artículo 222
-
-Para la circulación en zonas urbanas los conductores de ciclos deberán respetar las siguientes reglas:
-
-a) Los ciclos deberán transitar por las ciclovías. A falta de éstas lo harán por la pista derecha de la calzada. Constituyen una excepción a la obligación de transitar por la pista derecha de la calzada, los siguientes casos:
-
-i. Los establecidos en los números 1 y 2 del artículo 116.
-
-ii. En vías unidireccionales, cuando exista una pista de uso exclusivo de buses ubicada al costado derecho de la calzada. En esta situación, los ciclos deberán circular por el costado izquierdo de la pista izquierda. Tratándose de vías bidireccionales, esta disposición se aplicará sólo en caso de existir bandejón central o mediana.
-
-iii. Cuando el ciclo deba virar a la izquierda, lo que deberá hacer de conformidad con las normas del Título X.
-
-b) Los ciclos podrán circular excepcionalmente por aceras adecuando su velocidad a la de los peatones, y respetando en todo momento la preferencia de éstos, cuando no exista una ciclovía y sólo en los siguientes casos:
-
-i. Tratándose de conductores menores de 14 años o adultos mayores.
-
-ii. Tratándose de personas que circulen con niños menores de 7 años.
-
-iii. Tratándose de personas con alguna discapacidad, como también aquéllas de movilidad reducida.
-
-iv. Aun existiendo una ciclovía, cuando las condiciones de ésta o de la calzada, o las condiciones climáticas hagan peligroso continuar.
-
-En el caso de que la circulación por la ciclovía o la calzada se vea imposibilitada, el conductor del ciclo podrá utilizar excepcionalmente la acera, respetando siempre la prioridad del peatón y los vehículos que ingresen a las edificaciones o emerjan de éstas. El desplazamiento deberá efectuarlo a velocidad de peatón, alejado de las edificaciones o cierres, y si el flujo peatonal es muy alto deberá descender del ciclo.
-
-c) En el caso de tener que utilizar un cruce peatonal, el conductor del ciclo deberá detenerse antes del mismo y atravesarlo a velocidad reducida, respetando siempre la prioridad del peatón, a velocidad de peatón y si el flujo peatonal es muy alto deberá descender del ciclo.
-
-d) Los peatones deberán cruzar las ciclovías por los lugares debidamente señalizados y no podrán permanecer ni caminar por ellas.
-
-#### Artículo 223
-
-Son deberes de los conductores de ciclos los siguientes:
-
-a) Conducir un ciclo atento a las condiciones del tránsito, sin utilizar elementos que dificulten sus sentidos de visión y audición.
-
-b) Conducir un ciclo equipado con al menos un sistema de freno que sea eficaz.
-
-c) En caso de transportar menores de 7 años, el conductor deberá ser mayor de edad.
-
-d) En caso de utilizar un sistema de remolque para el transporte de personas, animales o mercancías, el conductor deberá ser mayor de edad. En todo caso, dicho sistema deberá cumplir los estándares definidos por el Ministerio de Transportes y Telecomunicaciones.
-
-#### Artículo 224
-
-Las bicicletas deberán estacionarse preferentemente en los lugares habilitados para ello, dejando en todos los casos un espacio para la libre circulación de peatones.
-
-Queda prohibido aferrar por cualquier medio las bicicletas en zonas reservadas para carga y descarga en la calzada en el horario dedicado a dicha actividad, en zonas de estacionamiento para personas con discapacidad, en zonas de estacionamiento prohibido conforme señalización, en paradas de transporte público y en pasos de peatones.
-
-Los estacionamientos de bicicletas quedan única y exclusivamente reservados a este tipo de vehículo.
-
 TÍTULO FINAL
 
 DE LA VIGENCIA DE LA LEY
 
-(ARTS. 225-226)
+(ARTS. 220-221)
 
-#### Artículo 225
+#### Artículo 221
 
 La presente ley empezará a regir el 1º de enero de 1985. No obstante los incisos cuarto y quinto del artículo 22 regirán a contar del 1º de enero de 1986.
 
-#### Artículo 226
+#### Artículo 222
 
 Derógase a partir del 1º de enero de 1985, el decreto con fuerza de ley Nº 3.068, de 1964, Ordenanza General del Tránsito.
 
@@ -2892,21 +2402,7 @@ Los conductores a que se refieren los incisos primero y segundo de este artícul
 
 #### Artículo 5º
 
-Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente las licencias profesionales clases A-3 y A-5.
-
-En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
-
-#### Artículo 6
-
-Durante el primer año de vigencia de la presente ley, no será exigible a los conductores de los vehículos empleados por el Servicio de Seguridad, Salvamento y Extinción de Incendios de la Dirección General de Aeronáutica Civil, el contar con la licencia especial Clase F.
-
-#### Artículo 7°
-
-Prorrógase por dos años, contados desde la fecha de vencimiento consignada en el documento, la vigencia de todas las licencias de conductor cuyo control correspondía realizar originalmente durante el año 2022.
-
-Prorrógase por un año, contado desde la fecha de vencimiento consignada en el documento, la vigencia de todas las licencias de conductor cuyo control corresponda realizar originalmente durante los años 2023 y 2024.
-
-Las licencias no profesionales clase B, C o especiales cuyo control corresponda realizar originalmente durante los años 2020, 2021, 2022, 2023 y 2024, se renovarán por el plazo que resta conforme lo establecido en el artículo 19, contado desde la fecha de vencimiento consignada en el documento. Para el caso de las licencias profesionales y aquellas que se hayan otorgado conforme al inciso final del artículo 22, su renovación se otorgará por el término que corresponda de acuerdo a las reglas generales.
+Los titulares de licencias de conductor clase A-1 y A-2, otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional clase A-3, en el caso de la licencia clase A-1 obtenida antes del 8 de marzo de 1997, y la licencia profesional clase A-5, en el caso de la licencia clase A-2 obtenida antes del 8 de marzo de 1997, acreditando haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
 Tómese razón, regístrese, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Carlos Maldonado Curti, Ministro de Justicia.
 
