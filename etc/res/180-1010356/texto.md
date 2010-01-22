@@ -1,0 +1,3 @@
+Por resolución Nº 180, de 11 de enero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 3.538 de 2004 y Nº 2.433 de 2005, ambas de esta Subsecretaría, correspondientes al área de manejo "Cailín Sector E", X Región, cuyo titular es el SINDICATO DE TRABAJADORES Y TRABAJADORAS INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES Y ACUICULTORES Y RAMOS SIMILARES de la comuna de Quellón, en virtud del artículo 11 inciso final, del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 11 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
