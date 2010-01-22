@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.100, de 10 de diciembre de 2009, de esta Subsecretaría, autorízase a DOMITILA DEL CARMEN BURGOS JOFRÉ para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en La Pólvora Nº 766, Isla Robinson Crusoe, Archipiélago Juan Fernández, V Región, para elaborar en líneas de procesos Cocido, Fresco-Enfriado y Congelado los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 10 de diciembre de 2009.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
