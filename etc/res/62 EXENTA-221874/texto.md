@@ -8,33 +8,25 @@ Considerando: Los objetivos acordados por esta Secretaría Regional Ministerial 
 
 R e s u e l v o:
 
-### 1. Todo el personal de conducción, en la jornada
+1. Todo el personal de conducción, en la jornada laboral, de los servicios de taxis colectivos que
 
-laboral, de los servicios de taxis colectivos que
+utilizan las vías de la ciudad de Concepción deberán usar uniforme según las características que se indicarán.
 
-utilizan las vías de la ciudad de Concepción deberán
-
-usar uniforme según las características que se
-
-indicarán.
-
-### 2. Las características de los uniformes serán las
-
-siguientes:
+### 2. Las características de los uniformes serán las siguientes:
 
 a. Pantalón de tela o jeans de color azul oscuro.
 
-b. Camisa de color celeste.
+b. Camisa de color celeste o polera de color celeste con cuello, tipo piqué.
 
-c. Corbata de color azul.
+c. ELIMINADA.
 
 3. El costo del uniforme no podrá traspasarse al conductor y será de exclusiva responsabilidad del Representante Legal del Servicio respectivo velar que esta obligación se cumpla. La cantidad mínima de tenidas de vestir por conductor serán tres, a fin de velar por la adecuada presentación.
 
-4. En el período comprendido entre el 01 de octubre al 01 de marzo de cada año, los conductores podrán hacer uso de camisa manga corta y se permitirá no usar la corbata.
+4. En el período comprendido entre el entre el 1 de septiembre al 15 de marzo, los conductores podrán hacer uso de camisa manga corta.
 
-5. En el período comprendido entre el 01 de marzo al 30 de septiembre de cada año, deberá adicionarse al vestuario la entrega de un chaleco y además una chaqueta o cortaviento de color azul oscuro.
+5. En el período comprendido entre el 01 de marzo al 30 de septiembre de cada año, deberá adicionarse al vestuario la entrega de un chaleco y además una chaqueta o cortaviento o polar de color azul oscuro.
 
-6. A los conductores de sexo femenino, la prenda de vestir camisa será reemplazada por una blusa y la corbata por una cinta de los mismos colores indicados anteriormente.
+6. A los conductores de sexo femenino, la prenda de vestir camisa será reemplazada por una blusa.
 
 7. La empresa responsable del servicio deberá velar por el cumplimiento de lo dispuesto en esta resolución.
 
