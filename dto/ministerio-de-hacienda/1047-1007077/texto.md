@@ -2,7 +2,7 @@ NOMBRA INTEGRANTES QUE INDICA EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIEN
 
 Núm. 1.047.- Santiago, 14 de septiembre de 2009.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; Res. Nº 172, de 28 de agosto de 2009; el oficio reservado DJU16.00 Nº 60, de 30 de julio de 2009, de la XVI Dirección Regional Metropolitana Santiago Sur del Servicio de Impuestos Internos; el oficio Nº 1754-09, 30 de julio de 2009, de la Oficina de Pleno de la Ilustrísima Corte de Apelaciones de San Miguel; acuerdo de pleno de 16 de marzo de 2009, del mismo Tribunal; el Nº 25 del numeral VI del artículo primero del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600, de 30 de octubre 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República, y
 
-Considerando: Que el nombramiento del Ministro Roberto Contreras Olivares, RUT Nº 7.079.886-7, como Presidente suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera y Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de San Miguel, efectuado por decreto supremo Nº 640, de 15 de mayo de 2007, publicado en el Diario Oficial de 20 de junio del mismo año, se encuentra actualmente vigente,
+Considerando: Que el nombramiento del Ministro Roberto Contreras Olivares, RUT Nº 7.079.886-7, como Presidente suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de San Miguel, efectuado por decreto supremo Nº 640, de 15 de mayo de 2007, publicado en el Diario Oficial de 20 de junio del mismo año, se encuentra actualmente vigente,
 
 Decreto:
 
