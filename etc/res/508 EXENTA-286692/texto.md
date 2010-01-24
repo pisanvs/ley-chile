@@ -16,8 +16,6 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución son los siguientes:
 
-VER DIARIO OFICIAL DE 04.02.2009, PÁGINA 46.
-
 En cada concurso, el número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica y el subsidio de saneamiento si corresponde.
 
 3. El puntaje de corte, su cálculo y procedimiento será determinado conforme a lo establecido en la resolución exenta Nº 7.080 (V. y U.), de 2008.
@@ -28,9 +26,9 @@ En cada concurso, el número de proyectos seleccionados y preseleccionados en ca
 
 VER DIARIO OFICIAL DE 01.04.2009, PÁGINA 12.
 
-> **Nota.** La Resolución 3296 Exenta, Vivienda, publicada el 23.05.2009, modifica la presente norma, en el sentido de agregar en la tabla inserta en el punto resolutivo 5, las localidades que se indican a continuación: Región Provincia Comuna Localidad Osorno Río Negro Río Negro Los Lagos Llanquihue Los Muermos Los Muermos.
+> **Nota.** La RES 5422 Exenta, Vivienda, publicada el 07.08.2009, modifica la presente norma, en el sentido de agregar en la tabla inserta en el punto resolutivo, las localidades que se indican a continuación: Región Provincia Comuna Localidad Araucanía Cautín Teodoro Schmidt Teodoro Schmidt
 
-> **Nota.** NOTA 1 La Resolución 3705 Exenta, Vivienda, publicada el 09.06.2009, modifica la presente norma, en el sentido de reemplazar en la tabla inserta en su número 2º, donde se establecen los recursos dispuestos para la selección para cada región, las filas correspondientes a la Región de O'Higgins y al "Total País", por las siguientes: Región Recursos (UF) L.B O'Higgins 129.424 Total País 1.391.711,35
+> **Nota.** NOTA 1 La RES 5998 Exenta, Vivienda, publicada el 24.08.2009, modifica la presente norma, en el sentido de agregar en la tabla inserta en el punto resolutivo, las localidades que en ella se indican.
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
