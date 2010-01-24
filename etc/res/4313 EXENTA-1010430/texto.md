@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.313, de 22 diciembre de 2009, de esta Subsecretaría, autorízase a INVERSIONES COIHUIN LIMITADA para iniciar actividades pesqueras de transformación, para iniciar y operar planta ubicada en camino rural Huelmo-Huatral, Km. 3, Puerto Montt, para elaborar en las líneas de proceso de cocido, fresco refrigerado, congelado y conserva los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 22 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
