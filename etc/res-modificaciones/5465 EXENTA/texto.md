@@ -56,7 +56,7 @@ Metropolitana 42.238,00
 
 Total país 1.201.538,35
 
-2. Llámase a postulación en condiciones especiales para el otorgamiento de subsidios del Sistema de Subsidio Habitacional Rural a familias que integren el catastro de la Línea de Atención a Campamentos en las Regiones de Atacama, Coquimbo, Valparaíso, Maule, Araucanía y Los Lagos, para proyectos que cuenten con certificado de calificación definitiva hasta el último día hábil de los meses de agosto, septiembre, octubre, noviembre y hasta el 21 de diciembre del año 2009. En tal sentido, se efectuarán cinco procesos de selección con los proyectos calificados hasta los días mencionados, hasta agotar la totalidad de los recursos dispuestos para cada región.
+2. Llámase a postulación en condiciones especiales para el otorgamiento de subsidios del Sistema de Subsidio Habitacional Rural a familias que integren el catastro de la Línea de Atención a Campamentos en las Regiones de Atacama, Coquimbo, Valparaíso, Maule, Bío Bío, Araucanía y Los Lagos, para proyectos que cuenten con certificado de calificación definitiva hasta el último día hábil de los meses de agosto, septiembre, octubre, noviembre y diciembre del año 2009. En tal sentido, se efectuarán cinco procesos de selección con los proyectos calificados hasta los días mencionados, hasta agotar la totalidad de los recursos dispuestos para cada región.
 
 3. Los recursos involucrados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 2 de esta resolución son los siguientes:
 
