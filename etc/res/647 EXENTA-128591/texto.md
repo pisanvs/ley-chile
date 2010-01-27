@@ -36,9 +36,7 @@ NCh2420/2.Of.98 Vocabulario y símbolos estadístico - Parte 2:
 
 Control estadístico de calidad.
 
-NCh2450.Of98 Vocabulario de términos fundamentales y
-
-generales de metrología.
+NCh2450.Of98 ANULADA Y REEMPLAZADA
 
 #### Artículo 2º
 
