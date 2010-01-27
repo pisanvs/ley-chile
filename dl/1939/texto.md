@@ -36,8 +36,6 @@ Corresponderá al Ministerio formar y conservar el catastro de los bienes raíce
 
 Las reparticiones de la Administración Pública centralizadas y descentralizadas deberán poner a disposición del Ministerio los antecedentes e instrumentos relacionados con estos bienes, en la forma, plazos y condiciones que señale el reglamento.
 
-El Ministerio mantendrá la información de los bienes a que se refieren los incisos precedentes en un sistema informático georreferencial, disponible en su sitio electrónico institucional, con el fin de permitir conocer su ubicación, avalúo, titularidad, destino y demás antecedentes que señale el reglamento a que hace referencia el inciso anterior. Dicha información deberá publicarse en el sitio web en forma completa y actualizada, y de un modo que permita su fácil identificación y un acceso expedito.
-
 #### Artículo 4°
 
 Los Notarios, Conservadores, Archiveros, los empleados públicos y en general, todos aquellos funcionarios que puedan contribuir, en razón de sus cargos, al cumplimiento de las funciones que correspondan al Ministerio y a sus servicios dependientes, estarán obligados a proporcionar gratuitamente los documentos y copias de instrumentos públicos que les sean requeridos, como asimismo, a efectuar también gratuitamente, las inscripciones, cancelaciones y demás anotaciones que se les soliciten a favor del Fisco.
@@ -298,7 +296,7 @@ Autorízase a las Municipalidades, a las Instituciones y Empresas del Estado y, 
 
 #### Artículo 37
 
-La donación de bienes que se haga al Fisco por cualquier institución o persona será aceptada mediante una resolución de la Dirección, sin perjuicio de lo dispuesto en leyes especiales. Estas donaciones estarán exentas de toda clase de impuestos y tendrán la calidad de gasto necesario para producir la renta para los efectos de lo establecido en la Ley sobre Impuesto a la Renta, contenida en el artículo 1 del decreto ley N° 824, de 1974. Por su parte, estas donaciones no estarán sujetas al límite global absoluto establecido en el artículo 10 de la ley N° 19.885, y no requerirán del trámite de la insinuación.
+La donación de bienes que se haga al Fisco por cualquier institución o persona será aceptada mediante una resolución de la Dirección, sin perjuicio de lo dispuesto en leyes especiales. Estas donaciones estarán exentas de toda clase de impuestos y no requerirán del trámite de la insinuación.
 
 Tratándose de bienes raíces, corresponderá a la Dirección estudiar y calificar los títulos de dominio del donante y redactar la escritura pública de donación que será suscrita, en representación del Fisco, por el Director o por el funcionario que éste designe.
 
@@ -522,7 +520,11 @@ Cualquier acto en contravención a lo dispuesto en el inciso anterior, será nul
 
 #### Artículo 62
 
-B.- DEROGADO.
+B.- Establécese una prenda especial, que no requerirá de autorización previa del Ministerio, sobre el derecho de concesión que para el concesionario emane del contrato o sobre los flujos futuros de la concesión, con el objeto de garantizar cualquier obligación que se derive directa o indirectamente de la ejecución del proyecto o de la concesión.
+
+Esta prenda deberá constituirse por escritura pública, inscribirse en el Registro de Prenda Industrial del Conservador de Bienes Raíces del lugar en que se halla ubicado el inmueble, anotarse al margen de la inscripción exigida por el artículo 59 de esta ley y notificarse al Ministerio por intermedio de un Notario.
+
+A la prenda le serán aplicables los artículos 25 inciso primero, 29, 30, 31, 32, 33, 36, 37, 38, 40, 42, 43, 44, 46, 48, 49 y 50 de la ley N° 5.687, sobre Prenda Industrial, en todo lo que no se contravenga con las disposiciones de este párrafo.
 
 #### Artículo 62
 
@@ -540,7 +542,7 @@ C.- La concesión se extinguirá por las siguientes causales:
 
 La declaración de incumplimiento grave de las obligaciones del concesionario deberá solicitarse por el Ministerio al Tribunal Arbitral establecido en el artículo 63, fundándose en algunas de las causales establecidas en el respectivo contrato de concesión o en las respectivas bases de licitación.
 
-Declarado el incumplimiento grave de las obligaciones del concesionario por el Tribunal Arbitral, se extingue el derecho del primitivo concesionario para explotar la concesión y el Ministerio procederá a designar un interventor, que sólo tendrá las facultades necesarias para velar por el cumplimiento del contrato de concesión, siéndole aplicables las normas del veedor cuando actúa como interventor conforme a lo dispuesto en la Ley de Reorganización y Liquidación de Activos de Empresas y Personas. Este interventor responderá de culpa leve.
+Declarado el incumplimiento grave de las obligaciones del concesionario por el Tribunal Arbitral, se extingue el derecho del primitivo concesionario para explotar la concesión y el Ministerio procederá a designar un interventor, que sólo tendrá las facultades necesarias para velar por el cumplimiento del contrato de concesión, siéndole aplicables las normas del artículo 200, números 1 al 5 de la ley N° 18.175, sobre Quiebras. Este interventor responderá de culpa leve.
 
 El Ministerio deberá proceder, además, a licitar públicamente y en el plazo de 180 días corridos, contado desde la declaración, el contrato de concesión por el plazo que le reste. Las bases de la licitación deberán establecer los requisitos que habrá de cumplir el nuevo concesionario. Al asumir el nuevo concesionario, cesará en sus funciones el interventor que se haya designado en virtud de lo dispuesto en el inciso anterior.
 
@@ -548,7 +550,7 @@ La declaración de incumplimiento grave de las obligaciones del concesionario ha
 
 A falta de estipulación en contrario, todo lo edificado y plantado por el concesionario en el inmueble fiscal y todas las mejoras que le hubiere efectuado, pasarán a dominio fiscal, sin indemnización alguna, una vez extinguida la concesión.
 
-En caso de inicio de un procedimiento concursal de liquidación del concesionario, el liquidador deberá proceder a subastar la concesión dentro del más breve plazo posible. Para estos efectos, las bases de la subasta de la concesión deberán respetar los términos, beneficios y condiciones del contrato de concesión primitivo. El Ministerio nombrará un representante para que, actuando coordinadamente con el Síndico y la Junta de Acreedores, vele por el cumplimiento de esta disposición.
+En caso de quiebra del concesionario, el Síndico deberá proceder a subastar la concesión dentro del más breve plazo posible. Para estos efectos, las bases de la subasta de la concesión deberán respetar los términos, beneficios y condiciones del contrato de concesión primitivo. El Ministerio nombrará un representante para que, actuando coordinadamente con el Síndico y la Junta de Acreedores, vele por el cumplimiento de esta disposición.
 
 #### Artículo 62
 

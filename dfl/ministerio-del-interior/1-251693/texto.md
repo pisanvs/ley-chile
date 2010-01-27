@@ -344,13 +344,19 @@ Quien ejerza la jefatura de esta unidad deberá poseer indistintamente el títul
 
 #### Artículo 25
 
-A la unidad encargada de la función de aseo y ornato corresponderá velar por:
+A la unidad encargada de la función de medio ambiente, aseo y ornato corresponderá velar por:
 
 a) El aseo de las vías públicas, parques, plazas, jardines y, en general, de los bienes nacionales de uso público existentes en la comuna;
 
-b) El servicio de extracción de basura, y
+b) El servicio de extracción de basura;
 
-c) La construcción, conservación y administración de las áreas verdes de la comuna.
+c) La construcción, conservación y administración de las áreas verdes de la comuna;
+
+d) Proponer y ejecutar medidas tendientes a materializar acciones y programas relacionados con medio ambiente;
+
+e) Aplicar las normas ambientales a ejecutarse en la comuna que sean de su competencia, y
+
+f) Elaborar el anteproyecto de ordenanza ambiental. Para la aprobación de la misma, el concejo podrá solicitar siempre un informe técnico al Ministerio del Medio Ambiente.
 
 #### Artículo 26
 

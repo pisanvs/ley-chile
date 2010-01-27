@@ -26,13 +26,13 @@ b) Conservación del Patrimonio Ambiental: el uso y aprovechamiento racionales o
 
 c) Contaminación: la presencia en el ambiente de sustancias, elementos, energía o combinación de ellos, en concentraciones o concentraciones y permanencia superiores o inferiores, según corresponda, a las establecidas en la legislación vigente;
 
-d) Contaminante: todo elemento, compuesto, sustancia, derivado químico o biológico, energía, radiación, vibración, ruido, luminosidad artificial o una combinación de ellos, cuya presencia en el ambiente, en ciertos niveles, concentraciones o períodos de tiempo, pueda constituir un riesgo a la salud de las personas, a la calidad de vida de la población, a la preservación de la naturaleza o a la conservación del patrimonio ambiental;
+d) Contaminante: todo elemento, compuesto, sustancia, derivado químico o biológico, energía, radiación, vibración, ruido, o una combinación de ellos, cuya presencia en el ambiente, en ciertos niveles, concentraciones o períodos de tiempo, pueda constituir un riesgo a la salud de las personas, a la calidad de vida de la población, a la preservación de la naturaleza o a la conservación del patrimonio ambiental;
 
 e) Daño Ambiental: toda pérdida, disminución, detrimento o menoscabo significativo inferido al medio ambiente o a uno o más de sus componentes;
 
 f) Declaración de Impacto Ambiental: el documento descriptivo de una actividad o proyecto que se pretende realizar, o de las modificaciones que se le introducirán, otorgado bajo juramento por el respectivo titular, cuyo contenido permite al organismo competente evaluar si su impacto ambiental se ajusta a las normas ambientales vigentes;
 
-g) Desarrollo sustentable: el proceso de mejoramiento sostenido y equitativo de la calidad de vida de las personas, fundado en medidas apropiadas de conservación y protección del medio ambiente, considerando el cambio climático de manera de no comprometer las expectativas de las generaciones futuras;
+g) Desarrollo Sustentable: el proceso de mejoramiento sostenido y equitativo de la calidad de vida de las personas, fundado en medidas apropiadas de conservación y protección del medio ambiente, de manera de no comprometer las expectativas de las generaciones futuras;
 
 h) Educación Ambiental: proceso permanente de carácter interdisciplinario, destinado a la formación de una ciudadanía que reconozca valores, aclare conceptos y desarrolle las habilidades y las actitudes necesarias para una convivencia armónica entre seres humanos, su cultura y su medio bio-físico circundante;
 
@@ -45,10 +45,6 @@ i bis). Evaluación Ambiental Estratégica: el procedimiento realizado por el Mi
 j) Evaluación de Impacto Ambiental: el procedimiento, a cargo del Servicio de Evaluación Ambiental, que, en base a un Estudio o Declaración de Impacto Ambiental, determina si el impacto ambiental de una actividad o proyecto se ajusta a las normas vigentes;
 
 k) Impacto Ambiental: la alteración del medio ambiente, provocada directa o indirectamente por un proyecto o actividad en un área determinada;
-
-k bis) Impacto crítico: alteración del medio ambiente, en especial de la salud y/o de los componentes ambientales, provocada directa o indirectamente por un proyecto o actividad, que no puede ser mitigada, reparada o compensada adecuadamente en conformidad con el decreto que declare la zona como latente o saturada.
-
-El reglamento establecerá los criterios específicos que permitan establecer la existencia de un impacto crítico para cada componente, tales como exposición y riesgo, o permanencia, capacidad de regeneración o renovación del recurso, y las condiciones que hacen posible la presencia de desarrollo de las especies y ecosistemas, en cuanto corresponda.
 
 l) Línea de Base: la descripción detallada del área de influencia de un proyecto o actividad, en forma previa a su ejecución;
 
@@ -72,13 +68,9 @@ r) Recursos Naturales: los componentes del medio ambiente susceptibles de ser ut
 
 s) Reparación: la acción de reponer el medio ambiente o uno o más de sus componentes a una calidad similar a la que tenían con anterioridad al daño causado o, en caso de no ser ello posible, restablecer sus propiedades básicas;
 
-t) Zona Latente: aquélla en que la medición de la concentración de contaminantes en el aire, agua o suelo se sitúa entre el 80% y el 100% del valor de la respectiva norma de calidad ambiental.
+t) Zona Latente: aquélla en que la medición de la concentración de contaminantes en el aire, agua o suelo se sitúa entre el 80% y el 100% del valor de la respectiva norma de calidad ambiental, y
 
 u) Zona Saturada: aquélla en que una o más normas de calidad ambiental se encuentran sobrepasadas.
-
-v) Plan de Prevención: instrumento de gestión ambiental que tiene por finalidad evitar que los niveles establecidos en las normas primarias y/o secundarias de calidad ambiental se encuentren en saturación, a través de la definición e implementación de medidas y acciones específicas, que logren la reducción de los niveles de concentración señalados en dichas normas por debajo de la latencia.
-
-w) Plan de Descontaminación: instrumento de gestión ambiental que, a través de la definición e implementación de medidas y acciones específicas, tiene por finalidad recuperar los niveles establecidos en las normas primarias y/o secundarias de calidad ambiental de una zona calificada como saturada por uno o más contaminantes.
 
 #### Artículo 3°
 
@@ -122,7 +114,7 @@ En todo caso, siempre deberán someterse a evaluación ambiental estratégica lo
 
 La elaboración de las políticas y planes deberá contemplar las etapas de diseño y aprobación.
 
-En la etapa de diseño, el organismo que dictará la política o plan, deberá considerar criterios de desarrollo sustentable, objetivos ambientales y efectos ambientales derivados de los factores críticos de decisión, los que incluirán la mitigación y adaptación al cambio climático, según corresponda. Durante esta etapa se deberá integrar a otros órganos de la administración del Estado vinculados a las materias objeto de la política o plan, así como otros instrumentos relacionados con ellos, a fin de garantizar la actuación coordinada de las entidades públicas involucradas en los proyectos afectados por la política o plan. En el caso señalado en el inciso segundo, se deberán siempre considerar los instrumentos relacionados con capacidad vial elaborados por la autoridad competente.
+En la etapa de diseño, el organismo que dictará la política o plan, deberá considerar los objetivos y efectos ambientales del instrumento, así como los criterios de desarrollo sustentable de los mismos. Durante esta etapa se deberá integrar a otros órganos de la administración del Estado vinculados a las materias objeto de la política o plan, así como otros instrumentos relacionados con ellos, a fin de garantizar la actuación coordinada de las entidades públicas involucradas en los proyectos afectados por la política o plan. En el caso señalado en el inciso segundo, se deberán siempre considerar los instrumentos relacionados con capacidad vial elaborados por la autoridad competente.
 
 En la etapa de aprobación, se deberá elaborar un anteproyecto de política o plan que contendrá un informe ambiental, que será remitido al Ministerio del Medio Ambiente para sus observaciones, para luego ser sometido a consulta pública por parte del organismo responsable.
 
@@ -141,22 +133,6 @@ d) Forma de publicidad de la política o plan, así como su reformulación poste
 #### Artículo 7º quáter
 
 La etapa de aprobación de la política o plan, culminará con una resolución del Ministerio sectorial, en la cual se señalará el proceso de elaboración de la política o plan desde su etapa de diseño, la participación de los demás organismos del Estado, la consulta pública realizada y la forma en que ha sido considerada, el contenido del informe ambiental y las respectivas consideraciones ambientales y de desarrollo sustentable que debe incorporar la política o plan para su dictación, así como los criterios e indicadores de seguimiento destinados a controlar la eficacia del plan o política, y los criterios e indicadores de rediseño que se deberán considerar para la reformulación de dicho plan o política en el mediano o largo plazo.
-
-### Párrafo 1º — ter
-
-Del Programa de Regulación Ambiental
-
-#### Artículo 7°
-
-quinquies.- El Ministerio del Medio Ambiente establecerá un programa de regulación ambiental que contenga los criterios de sustentabilidad y las prioridades programáticas en materia de políticas, planes y programas para la elaboración y revisión de los instrumentos de gestión ambiental y de gestión del cambio climático, en el ámbito de sus competencias.
-
-Dicho programa se fundamentará en antecedentes sobre el estado de la situación ambiental del país, las evidencias de impactos ambientales nacionales, regionales o locales y los objetivos y metas establecidos en la Estrategia Climática de Largo Plazo y la Contribución Determinada a Nivel Nacional. Asimismo, podrá señalar indicadores que permitan evaluar el progreso en la elaboración y revisión de los instrumentos respectivos.
-
-El Ministerio del Medio Ambiente podrá requerir a los demás órganos de la Administración del Estado competentes la información y antecedentes que sean necesarios para la elaboración del programa.
-
-El programa deberá publicarse en el Diario Oficial y mantenerse permanentemente a disposición de la ciudadanía.
-
-El programa será dictado mediante resolución exenta del Ministerio del Medio Ambiente, a lo menos cada dos años. El Ministro del Medio Ambiente, anualmente, dará cuenta pública en la sala de ambas cámaras del Congreso Nacional sobre el estado de avance de dicho programa. Los presidentes de la Cámara de Diputados y del Senado, respectivamente, citarán a una sesión especial para dicho efecto.
 
 ### Párrafo 2°
 
@@ -218,7 +194,7 @@ g) Proyectos de desarrollo urbano o turístico, en zonas no comprendidas en algu
 
 h) Proyectos industriales o inmobiliarios que se ejecuten en zonas declaradas latentes o saturadas;
 
-i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos o greda;
+i) Proyectos de desarrollo minero, incluidos los de carbón, petróleo y gas comprendiendo las prospecciones, explotaciones, plantas procesadoras y disposición de residuos y estériles, así como la extracción industrial de áridos, turba o greda;
 
 j) Oleoductos, gasoductos, ductos mineros u otros análogos;
 
@@ -234,15 +210,11 @@ n) Proyectos de explotación intensiva, cultivo, y plantas procesadoras de recur
 
 o) Proyectos de saneamiento ambiental, tales como sistemas de alcantarillado y agua potable, plantas de tratamiento de aguas o de residuos sólidos de origen domiciliario, rellenos sanitarios, emisarios submarinos, sistemas de tratamiento y disposición de residuos industriales líquidos o sólidos;
 
-p) Ejecución de obras, programas o actividades en áreas que formen parte del Sistema Nacional de Áreas Protegidas, humedales urbanos y en otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
+p) Ejecución de obras, programas o actividades en parques nacionales, reservas nacionales, monumentos naturales, reservas de zonas vírgenes, santuarios de la naturaleza, parques marinos, reservas marinas o en cualesquiera otras áreas colocadas bajo protección oficial, en los casos en que la legislación respectiva lo permita;
 
-q) Aplicación masiva de productos químicos en áreas urbanas o zonas rurales próximas a centros poblados, humedales, o a cursos o masas de agua que puedan ser afectadas;
+q) Aplicación masiva de productos químicos en áreas urbanas o zonas rurales próximas a centros poblados o a cursos o masas de agua que puedan ser afectadas, y
 
-r) Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas, forestales e hidrobiológicas que utilicen organismos genéticamente modificados con fines de producción y en áreas no confinadas. El reglamento podrá definir una lista de especies de organismos genéticamente modificados que, como consecuencia de su comprobado bajo riesgo ambiental, estarán excluidos de esta exigencia. El mismo reglamento establecerá el procedimiento para declarar áreas como libres de organismos genéticamente modificados, y
-
-s) Ejecución de obras o actividades que puedan significar una alteración física o química a los componentes bióticos, a sus interacciones o a los flujos ecosistémicos de humedales que se encuentran total o parcialmente dentro del límite urbano, y que impliquen su relleno, drenaje, secado, extracción de caudales o de áridos, la alteración de la barra terminal, de la vegetación azonal hídrica y ripariana, la extracción de la cubierta vegetal de turberas o el deterioro, menoscabo, transformación o invasión de la flora y la fauna contenida dentro del humedal, indistintamente de su superficie.
-
-t) Plantas de desalinización de dimensiones industriales y proyectos de extracción intensiva de agua de mar.
+r) Proyectos de desarrollo, cultivo o explotación, en las áreas mineras, agrícolas, forestales e hidrobiológicas que utilicen organismos genéticamente modificados con fines de producción y en áreas no confinadas. El reglamento podrá definir una lista de especies de organismos genéticamente modificados que, como consecuencia de su comprobado bajo riesgo ambiental, estarán excluidos de esta exigencia. El mismo reglamento establecerá el procedimiento para declarar áreas como libres de organismos genéticamente modificados.
 
 #### Artículo 11
 
@@ -254,7 +226,7 @@ b) Efectos adversos significativos sobre la cantidad y calidad de los recursos n
 
 c) Reasentamiento de comunidades humanas, o alteración significativa de los sistemas de vida y costumbres de grupos humanos;
 
-d) Localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación, humedales protegidos, glaciares y áreas con valor para la observación astronómica con fines de investigación científica, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende emplazar;
+d) Localización en o próxima a poblaciones, recursos y áreas protegidas, sitios prioritarios para la conservación, humedales protegidos y glaciares, susceptibles de ser afectados, así como el valor ambiental del territorio en que se pretende emplazar;
 
 e) Alteración significativa, en términos de magnitud o duración, del valor paisajístico o turístico de una zona, y
 
@@ -282,7 +254,7 @@ b) La descripción de la línea de base, que deberá considerar todos los proyec
 
 c) Una descripción pormenorizada de aquellos efectos, características o circunstancias del artículo 11 que dan origen a la necesidad de efectuar un Estudio de Impacto Ambiental.
 
-d) Una predicción y evaluación del impacto ambiental del proyecto o actividad, incluidas las eventuales situaciones de riesgo y los efectos adversos del cambio climático sobre los elementos del medio ambiente, cuando corresponda. Cuando el proyecto deba presentar un Estudio de Impacto Ambiental por generar alguno de los efectos, características o circunstancias señaladas en la letra a) del artículo 11, y no existiera Norma Primaria de Calidad o de Emisión en Chile o en los Estados de referencia que señale el Reglamento, el proponente deberá considerar un capítulo específico relativo a los potenciales riesgos que el proyecto podría generar en la salud de las personas.
+d) Una predicción y evaluación del impacto ambiental del proyecto o actividad, incluidas las eventuales situaciones de riesgo. Cuando el proyecto deba presentar un Estudio de Impacto Ambiental por generar alguno de los efectos, características o circunstancias señaladas en la letra a) del artículo 11, y no existiera Norma Primaria de Calidad o de Emisión en Chile o en los Estados de referencia que señale el Reglamento, el proponente deberá considerar un capítulo específico relativo a los potenciales riesgos que el proyecto podría generar en la salud de las personas.
 
 e) Las medidas que se adoptarán para eliminar o minimizar los efectos adversos del proyecto o actividad y las acciones de reparación que se realizarán, cuando ello sea procedente;
 
@@ -568,7 +540,7 @@ En caso que la Declaración de Impacto Ambiental hubiese sido objeto de aclaraci
 
 #### Artículo 30 bis
 
-Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos que generen cargas ambientales para las comunidades próximas. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de treinta días, contado desde la publicación en el Diario Oficial del proyecto sometido a Declaración de Impacto Ambiental de que se trate.
+Las Direcciones Regionales o el Director Ejecutivo, según corresponda, podrán decretar la realización de un proceso de participación ciudadana por un plazo de veinte días, en las Declaraciones de Impacto Ambiental que se presenten a evaluación y se refieran a proyectos que generen cargas ambientales para las comunidades próximas. Todo ello, siempre que lo soliciten a lo menos dos organizaciones ciudadanas con personalidad jurídica, a través de sus representantes, o como mínimo diez personas naturales directamente afectadas. Esta solicitud deberá hacerse por escrito y presentarse dentro del plazo de 10 días, contado desde la publicación en el Diario Oficial del proyecto sometido a Declaración de Impacto Ambiental de que se trate.
 
 Si durante el procedimiento de evaluación de la Declaración de Impacto Ambiental, ésta hubiese sido objeto de aclaraciones, rectificaciones o ampliaciones que afecten sustantivamente los impactos ambientales del proyecto, el organismo competente deberá abrir una nueva etapa de participación ciudadana, esta vez por diez días, período en el cual se suspenderá de pleno derecho el plazo de tramitación de la Declaración de Impacto Ambiental. El Reglamento deberá precisar qué tipo de aclaraciones, rectificaciones o ampliaciones, según el tipo de proyecto o actividad, serán consideradas como modificaciones sustantivas a los proyectos.
 
@@ -646,17 +618,15 @@ De las Normas de Calidad Ambiental y de la Preservación de la Naturaleza y Cons
 
 #### Artículo 32
 
-Mediante decreto supremo, que llevará las firmas del Ministro del Medio Ambiente y del Ministro de Salud, se promulgarán las normas primarias de calidad ambiental. Estas normas serán de aplicación general en todo el territorio de la República y definirán los niveles que originan situaciones de emergencia. El Ministerio de Salud podrá solicitar fundadamente al Ministerio del Medio Ambiente la dictación de una norma primaria de calidad, la que deberá dictarse dentro de un plazo que no podrá exceder de cuatro años, a menos que dentro de tal plazo indique las razones técnicas para no acoger la solicitud.
+Mediante decreto supremo, que llevará las firmas del Ministro del Medio Ambiente y del Ministro de Salud, se promulgarán las normas primarias de calidad ambiental. Estas normas serán de aplicación general en todo el territorio de la República y definirán los niveles que originan situaciones de emergencia. El Ministerio de Salud podrá solicitar fundadamente al Ministerio del Medio Ambiente la dictación de una norma primaria de calidad, la que deberá dictarse dentro de un plazo que no podrá exceder de cinco años, a menos que dentro de tal plazo indique las razones técnicas para no acoger la solicitud.
 
 Mediante decreto supremo que llevará las firmas del Ministro del Medio Ambiente y del ministro competente según la materia de que se trate, se promulgarán las normas secundarias de calidad ambiental.
 
 Un reglamento establecerá el procedimiento a seguir para la dictación de normas de calidad ambiental, que considerará a lo menos las siguientes etapas: análisis técnico y económico, desarrollo de estudios científicos, consultas a organismos competentes, públicos y privados, análisis de las observaciones formuladas y una adecuada publicidad. Establecerá además los plazos y formalidades que se requieran para dar cumplimiento a lo dispuesto en este artículo y los criterios para revisar las normas vigentes.
 
-Toda norma de calidad ambiental será revisada por el Ministerio del Medio Ambiente a lo menos cada cuatro años, aplicando el mismo procedimiento antes señalado.
+Toda norma de calidad ambiental será revisada por el Ministerio del Medio Ambiente a lo menos cada cinco años, aplicando el mismo procedimiento antes señalado.
 
 La coordinación del proceso de generación de las normas de calidad ambiental, y la determinación de los programas y plazos de cumplimiento de las mismas, corresponderá al Ministerio del Medio Ambiente.
-
-Toda persona o agrupación de personas tendrá derecho a solicitar fundadamente la dictación de normas primarias o secundarias de calidad ambiental respecto de contaminantes que a la fecha de la solicitud no se encuentren regulados mediante instrumentos de gestión ambiental vigentes. El Ministerio del Medio Ambiente deberá dar respuesta fundada dentro del plazo de treinta días contado desde la presentación de la solicitud.
 
 #### Artículo 33
 
@@ -666,15 +636,17 @@ Estos programas serán regionalizados. Respecto de la Zona Económica Exclusiva 
 
 #### Artículo 34
 
-El Estado administrará un Sistema Nacional de Áreas Protegidas, con objeto de asegurar la conservación de la biodiversidad y la protección del patrimonio natural. La administración del Sistema Nacional de Áreas Protegidas corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
+El Estado administrará un Sistema Nacional de Areas Silvestres Protegidas, que incluirá los parques y reservas marinas, con objeto de asegurar la diversidad biológica, tutelar la preservación de la naturaleza y conservar el patrimonio ambiental. La administración y supervisión del Sistema Nacional de Áreas Silvestres Protegidas del Estado corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
 
 #### Artículo 35
 
-Con el mismo propósito señalado en el artículo precedente, el Estado fomentará e incentivará la creación de áreas protegidas de propiedad privada, las que formarán parte del Sistema Nacional de Áreas Protegidas.
+Con el mismo propósito señalado en el artículo precedente, el Estado fomentará e incentivará la creación de áreas silvestres protegidas de propiedad privada, las que estarán afectas a igual tratamiento tributario, derechos, obligaciones y cargas que las pertenecientes al Sistema Nacional de Areas Silvestres Protegidas del Estado.
 
-La supervisión de estas áreas corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
+La supervisión de estas áreas silvestres corresponderá al Servicio de Biodiversidad y Áreas Protegidas.
 
-La creación, desafectación y regulación de estas áreas se regirá por lo dispuesto en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
+La afectación de estas áreas será voluntaria y se perfeccionará mediante resolución dictada por el organismo señalado en el inciso anterior, que acoge la respectiva solicitud de su propietario, quien deberá reducir la resolución a escritura pública e inscribirla, para efectos de publicidad, en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces competente.
+
+La desafectación se producirá por vencimiento del plazo, por resolución de dicho organismo fundada en el incumplimiento de las obligaciones establecidas en el reglamento, o a petición anticipada del propietario. En los dos últimos casos podrá aplicar una multa, a beneficio fiscal, que no excederá del monto acumulado y actualizado de impuestos y contribuciones de los que el inmueble estuvo exento en virtud de su afectación en el período correspondiente.
 
 El reglamento establecerá los requisitos, plazos y limitaciones de aplicación general que se deberán cumplir para gozar de las franquicias, ejercer los derechos y dar cumplimiento a las obligaciones y cargas a que se refiere el inciso primero.
 
@@ -686,9 +658,9 @@ Sobre estas áreas protegidas mantendrán sus facultades los demás organismos p
 
 #### Artículo 37
 
-El Ministerio del Medio Ambiente clasificará las especies de plantas, algas, hongos y animales nativos, sobre la base de antecedentes científico-técnicos, y según su estado de conservación, en las categorías recomendadas para tales efectos por la Unión Internacional para la Conservación de la Naturaleza (UICN) u otro organismo internacional que dicte pautas en estas materias. Para tal efecto, el Servicio de Biodiversidad y Áreas Protegidas formulará una propuesta de clasificación al Ministerio del Medio Ambiente. Un reglamento dictado por el Ministerio del Medio Ambiente fijará el procedimiento de tal clasificación
+El reglamento fijará el procedimiento para clasificar las especies de plantas, algas, hongos y animales silvestres, sobre la base de antecedentes científico-técnicos, y según su estado de conservación, en las categorías recomendadas para tales efectos por la Unión Mundial para la Conservación de la Naturaleza (UICN) u otro organismo internacional que dicte pautas en estas materias.
 
-De conformidad a dichas clasificaciones, el Servicio de Biodiversidad y Áreas Protegidas deberá aprobar planes de recuperación, conservación y gestión de especies, de acuerdo a lo dispuesto en la Ley que crea el Servicio de Biodiversidad y Áreas Protegidas.
+De conformidad a dichas clasificaciones el Ministerio del Medio Ambiente deberá aprobar planes de recuperación, conservación y gestión de dichas especies. El reglamento definirá el procedimiento de elaboración, el sistema de información pública y el contenido de cada uno de ellos.
 
 #### Artículo 38
 
@@ -710,8 +682,6 @@ Las normas de emisión se establecerán mediante decreto supremo, que llevará l
 
 Corresponderá al Ministerio del Medio Ambiente proponer, facilitar y coordinar la dictación de normas de emisión, para lo cual deberá sujetarse a las etapas señaladas en el artículo 32, inciso tercero, y en el respectivo reglamento, en lo que fueren procedentes, considerando las condiciones y características ambientales propias de la zona en que se aplicarán, pudiendo utilizar las mejores técnicas disponibles, como criterio para determinar los valores o parámetros exigibles en la norma, cuando corresponda.
 
-Toda persona o agrupación de personas tendrá derecho a solicitar fundadamente la dictación de normas de emisión respecto de fuentes que a la fecha de la solicitud no se encuentren reguladas mediante instrumentos de gestión ambiental vigentes. El Ministerio del Medio Ambiente deberá dar respuesta fundada dentro del plazo de treinta días contado desde la presentación de la solicitud.
-
 ### Párrafo 6°
 
 De los Planes de Manejo, Prevención o
@@ -724,7 +694,7 @@ El uso y aprovechamiento de los recursos naturales renovables se efectuará aseg
 
 #### Artículo 42
 
-El Servicio de Biodiversidad y Áreas Protegidas conjuntamente con el organismo público encargado por la ley de regular el uso o aprovechamiento de los recursos naturales en un área determinada, exigirá, cuando corresponda, el cumplimiento de planes de manejo de los mismos, a fin de asegurar su conservación.
+El Ministerio del Medio Ambiente conjuntamente con el organismo público encargado por la ley de regular el uso o aprovechamiento de los recursos naturales en un área determinada, exigirá, cuando corresponda, la presentación y cumplimiento de planes de manejo de los mismos, a fin de asegurar su conservación.
 
 Estos incluirán, entre otras, las siguientes consideraciones ambientales:
 
@@ -734,7 +704,7 @@ b) Mantención del valor paisajístico, y
 
 c) Protección de especies clasificadas según lo dispuesto en el artículo 37.
 
-Lo dispuesto en este artículo es sin perjuicio de lo establecido en otros cuerpos legales, sobre planes de manejo de recursos naturales renovables, y no se aplicará alos planes de manejo de áreas protegidas ni a aquellos proyectos o actividades respecto de los cuales se hubiere aprobado un Estudio o una Declaración de Impacto Ambiental.
+Lo dispuesto en este artículo es sin perjuicio de lo establecido en otros cuerpos legales, sobre planes de manejo de recursos naturales renovables, y no se aplicará a aquellos proyectos o actividades respecto de los cuales se hubiere aprobado un Estudio o una Declaración de Impacto Ambiental.
 
 #### Artículo 43
 
@@ -746,23 +716,11 @@ El decreto supremo señalado en el inciso anterior dejará sin efecto las respec
 
 Esta declaración tendrá como fundamento las mediciones, realizadas o certificadas por los organismos públicos competentes, en las que conste haberse verificado la condición que la hace procedente. El procedimiento estará a cargo de la Secretaría Regional Ministerial de Medio Ambiente. Si la zona objeto de la declaración estuviere situada en distintas regiones, el procedimiento estará a cargo del Ministerio del Medio Ambiente.
 
-#### Artículo 43 bis
-
-Una vez declarada una zona como latente o saturada, mediante resolución suscrita por el Ministro del Medio Ambiente, se podrán adoptar, fundadamente, medidas provisionales de acuerdo a lo señalado en el artículo 32 de la ley N° 19.880, en conformidad con los antecedentes considerados en el proceso de elaboración de la norma que declara la zona como latente o saturada, así como con la norma de calidad respectiva y con la naturaleza y gravedad de afectación de los componentes ambientales y la salud de la población, durante el plazo considerado para la elaboración de anteproyecto de plan respectivo. Dichas medidas podrán mantenerse hasta la dictación del respectivo plan de prevención o descontaminación. Las medidas provisionales establecidas se extinguirán una vez publicado en el Diario Oficial el decreto que establezca el plan de prevención o descontaminación, por el solo ministerio de la ley.
-
-Las medidas provisionales podrán ser alzadas o modificadas durante el procedimiento de elaboración del plan de prevención y/o de descontaminación, de oficio o a solicitud de parte, en virtud de circunstancias sobrevinientes o que no pudieron ser tenidas en cuenta en el momento de su adopción.
-
 #### Artículo 44
 
 Mediante decreto supremo del Ministerio del Medio Ambiente, que llevará además la firma del ministro sectorial que corresponda, se establecerán planes de prevención o de descontaminación, cuyo cumplimiento será obligatorio en las zonas calificadas como latentes o saturadas, respectivamente.
 
-La elaboración de estos planes y su proposición a la autoridad competente para su establecimiento corresponderá al Ministerio del Medio Ambiente, previo informe de la Secretaría Regional Ministerial respectiva. Para estos efectos se seguirá el mismo procedimiento y etapas establecidos en el inciso tercero del artículo 32 de la presente ley el que no podrá exceder el plazo de cuatro años contado desde la publicación del decreto supremo que declaró la zona como latente o saturada.
-
-Todo plan de prevención o de descontaminación será revisado por el Ministerio del Medio Ambiente, al menos, cada cinco años, y se aplicará el mismo procedimiento señalado en el inciso anterior.
-
-El incumplimiento de los plazos dispuestos en este artículo, así como de los señalados en el artículo 32, por parte de la jefatura o jefe superior del órgano o servicio de la Administración del Estado respectivo, será sancionado con la medida disciplinaria de multa equivalente a media remuneración mensual, previa instrucción de una investigación sumaria o sumario administrativo, llevado por la Contraloría General de la República, de acuerdo a las normas de su ley orgánica y del Estatuto Administrativo.
-
-Si la autoridad o jefatura superior del órgano o servicio de la Administración del Estado sancionado persiste en su actitud, se le aplicará el doble de la sanción indicada y la suspensión en el cargo por un término de cinco días.
+La elaboración de estos planes y su proposición a la autoridad competente para su establecimiento corresponderá al Ministerio del Medio Ambiente, previo informe de la Secretaría Regional Ministerial respectiva. Para estos efectos se seguirá el mismo procedimiento y etapas establecidos en el inciso tercero del artículo 32 de la presente ley.
 
 #### Artículo 45
 
@@ -785,8 +743,6 @@ g) La estimación de sus costos económicos y sociales, y
 h) La proposición, cuando sea posible, de mecanismos de compensación de emisiones.
 
 Las actividades contaminantes ubicadas en zonas afectas a planes de prevención o descontaminación, quedarán obligadas a reducir sus emisiones a niveles que permitan cumplir los objetivos del plan en el plazo que al efecto se establezca.
-
-Los Planes de Prevención contemplarán además medidas que se harán efectivas en caso de declararse la misma zona geográfica como saturada por los contaminantes que estuvieren latentes. Dichas medidas se mantendrán vigentes hasta la dictación del respectivo plan de descontaminación.
 
 #### Artículo 46
 
@@ -811,22 +767,6 @@ Una ley establecerá la naturaleza y las formas de asignación, división, trans
 #### Artículo 48 bis
 
 Los actos administrativos que se dicten por los Ministerios o servicios para la ejecución o implementación de normas de calidad, emisión y planes de prevención o descontaminación, señalados en tales instrumentos, deberán contar siempre con informe previo del Ministerio del Medio Ambiente.
-
-### Párrafo 6° — bis
-
-De la certificación, rotulación y etiquetado
-
-#### Artículo 48 ter
-
-Corresponderá al Ministerio del Medio Ambiente otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que sean voluntariamente solicitados u obligatoriamente requeridos y cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de acuerdo a los requisitos que establezca el reglamento.
-
-Asimismo, el reglamento deberá determinar el procedimiento al cual se sujetará el otorgamiento de los certificados, rótulos y etiquetas.
-
-Será de cargo del solicitante del certificado, rótulo o etiqueta adjuntar a su petición un informe favorable de cumplimiento de los requisitos que el reglamento señale, emitido por aquellas entidades que la Superintendencia del Medio Ambiente autorice según lo dispuesto en el artículo 3 literal v) de su ley orgánica.
-
-Dicha Superintendencia será la encargada de fiscalizar el debido cumplimiento de las disposiciones de que trata este artículo, en los casos que corresponda.
-
-La infracción de esta normativa será sancionada de conformidad a lo dispuesto en el Título III de la ley orgánica de la Superintendencia del Medio Ambiente, encontrándose ésta facultada, además, para revocar el certificado, rótulo o etiqueta como sanción. Sin perjuicio de lo anterior, la falsificación o utilización maliciosa de los certificados, rótulos o etiquetas será sancionada según lo establecido en los artículos 193, 194 y 196, según corresponda, del Código Penal. El reglamento definirá el procedimiento que se aplicará en estos casos.
 
 ### Párrafo 7°
 
@@ -922,7 +862,7 @@ De la Fiscalización
 
 #### Artículo 64
 
-La fiscalización del permanente cumplimiento de las normas y condiciones sobre la base de las cuales se han aprobado o aceptado los Estudios y Declaraciones de Impacto Ambiental, de las medidas e instrumentos que establezcan los Planes de Prevención y de Descontaminación y de las normas de calidad y emisión, será efectuada por la Superintendencia del Medio Ambiente de conformidad a lo señalado por la ley.
+La fiscalización del permanente cumplimiento de las normas y condiciones sobre la base de las cuales se han aprobado o aceptado los Estudios y Declaraciones de Impacto Ambiental, de las medidas e instrumentos que establezcan los Planes de Prevención y de Descontaminación, de las normas de calidad y emisión, así como de los planes de manejo establecidos en la presente ley, cuando correspondan, será efectuada por la Superintendencia del Medio Ambiente de conformidad a lo señalado por la ley.
 
 #### Artículo 65
 
@@ -948,7 +888,7 @@ Cuando los proyectos o actividades excedan el monto señalado, el proceso de sel
 
 El Fondo de Protección Ambiental estará formado por:
 
-a) Herencias, legados y donaciones, cualquiera sea su origen. Para estos efectos, las donaciones al Ministerio del Medio Ambiente destinadas al Fondo de Protección Ambiental se regirán por lo dispuesto en el artículo 4° de la ley N° 19.896, siéndoles aplicables los beneficios tributarios del artículo 37 del decreto ley N° 1.939 que establece normas sobre adquisición, administración y disposición de bienes del Estado;
+a) Herencias, legados y donaciones, cualquiera sea su origen. En el caso de las donaciones, ellas estarán exentas del trámite de insinuación;
 
 b) Recursos destinados para este efecto, en la Ley de Presupuestos de la Nación;
 
@@ -974,9 +914,9 @@ Corresponderá especialmente al Ministerio:
 
 a) Proponer las políticas ambientales e informar periódicamente sobre sus avances y cumplimientos.
 
-b) Proponer políticas, planes, programas, normas y supervigilar el Sistema Nacional de Áreas Protegidas.
+b) Proponer las políticas, planes, programas, normas y supervigilar el Sistema Nacional de Áreas Protegidas del Estado, que incluye parques y reservas marinas, así como los santuarios de la naturaleza, y supervisar el manejo de las áreas protegidas de propiedad privada.
 
-c) Derogada.
+c) Proponer las políticas, planes, programas, normas y supervigilar las áreas marinas costeras protegidas de múltiples usos.
 
 d) Velar por el cumplimiento de las convenciones internacionales, en que Chile sea parte en materia ambiental, y ejercer la calidad de contraparte administrativa, científica o técnica de tales convenciones, sin perjuicio de las facultades del Ministerio de Relaciones Exteriores.
 
@@ -990,9 +930,9 @@ g) Proponer políticas y formular normas, planes y programas en materia de resid
 
 h) Proponer políticas y formular los planes, programas y planes de acción en materia de cambio climático. En ejercicio de esta competencia deberá colaborar con los diferentes órganos de la Administración del Estado a nivel nacional, regional y local con el objeto de poder determinar sus efectos, así como el establecimiento de las medidas necesarias de adaptación y mitigación.
 
-i) Proponer políticas y formular planes, programas y acciones que establezcan los criterios básicos y las medidas preventivas para favorecer la recuperación y conservación de los recursos hídricos, genéticos, las plantas, algas, hongos y animales silvestres, los hábitats, los paisajes, ecosistemas y espacios naturales, en especial los frágiles y degradados, contribuyendo al cumplimiento de los convenios internacionales de conservación de la biodiversidad.
+i) Proponer políticas y formular planes, programas y acciones que establezcan los criterios básicos y las medidas preventivas para favorecer la recuperación y conservación de los recursos hídricos, genéticos, la flora, la fauna, los hábitats, los paisajes, ecosistemas y espacios naturales, en especial los frágiles y degradados, contribuyendo al cumplimiento de los convenios internacionales de conservación de la biodiversidad.
 
-j) Elaborar y ejecutar estudios y programas de investigación de su competencia.
+j) Elaborar y ejecutar estudios y programas de investigación, protección y conservación de la biodiversidad, así como administrar y actualizar una base de datos sobre biodiversidad.
 
 k) Elaborar los estudios necesarios y recopilar toda la información disponible para determinar la línea de base ambiental del país, elaborar las cuentas ambientales, incluidos los activos y pasivos ambientales, y la capacidad de carga de las distintas cuencas ambientales del país.
 
@@ -1024,8 +964,6 @@ s) Participar en el procedimiento de evaluación ambiental estratégica de las p
 
 t) Generar y recopilar la información técnica y científica precisa para la prevención de la contaminación y la calidad ambiental, en particular lo referente a las tecnologías, la producción, gestión y transferencias de residuos, la contaminación atmosférica y el impacto ambiental.
 
-t bis) Otorgar certificados, rótulos o etiquetas a personas naturales o jurídicas públicas o privadas, respecto de tecnologías, procesos, productos, bienes, servicios o actividades, que cumplan con los criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, en conformidad a la ley.
-
 u) Administrar la información de los programas de monitoreo de calidad del aire, agua y suelo, proporcionada por los organismos competentes, cuando corresponda.
 
 v) Financiar proyectos y actividades orientados a la protección del medio ambiente, el desarrollo sustentable, la preservación de la naturaleza, la conservación del patrimonio ambiental, la educación ambiental y la participación ciudadana.
@@ -1040,11 +978,11 @@ z) Asumir todas las demás funciones y atribuciones que la ley le encomiende.
 
 ### Párrafo 2º
 
-Del Consejo de Ministros para la Sustentabilidad y el Cambio Climático, Naturaleza y Funciones
+Del Consejo de Ministros para la Sustentabilidad, Naturaleza y Funciones
 
 #### Artículo 71
 
-Créase el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Turismo; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería; de Desarrollo Social y Familia; de Bienes Nacionales; de Educación, y de Ciencia, Tecnología, Conocimiento e Innovación.
+Créase el Consejo de Ministros para la Sustentabilidad, presidido por el Ministro del Medio Ambiente e integrado por los Ministros de Agricultura; de Hacienda; de Salud; de Economía, Fomento y Reconstrucción; de Energía; de Obras Públicas; de Vivienda y Urbanismo; de Transportes y Telecomunicaciones; de Minería, y de Planificación.
 
 En caso de ausencia o impedimento del Presidente, éste será reemplazado por el Ministro que corresponda según el orden establecido en el inciso anterior.
 
@@ -1054,7 +992,7 @@ a) Proponer al Presidente de la República las políticas para el manejo, uso y 
 
 b) Proponer al Presidente de la República los criterios de sustentabilidad que deben ser incorporados en la elaboración de las políticas y procesos de planificación de los ministerios, así como en la de sus servicios dependientes y relacionados.
 
-c) Pronunciarse sobre las propuestas de creación de áreas protegidas del Estado que efectúe el Ministerio del Medio Ambiente.
+c) Proponer al Presidente de la República la creación de las Áreas Protegidas del Estado, que incluye parques y reservas marinas, así como los santuarios de la naturaleza y de las áreas marinas costeras protegidas de múltiples usos.
 
 d) Proponer al Presidente de la República las políticas sectoriales que deben ser sometidas a evaluación ambiental estratégica.
 
@@ -1064,17 +1002,15 @@ f) Pronunciarse sobre los proyectos de ley y actos administrativos que se propon
 
 #### Artículo 72
 
-El Consejo de Ministros para la Sustentabilidad y el Cambio Climático celebrará sesiones cuando lo convoque su Presidente. El quórum para sesionar será de seis consejeros y los acuerdos se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del Ministro Presidente o quien lo reemplace. El Consejo en su primera sesión determinará las normas para su funcionamiento. El Consejo deberá sesionar al menos dos veces al año.
-
-Las sesiones del Consejo de Ministros para la Sustentabilidad y el Cambio Climático deberán ser transmitidas en directo por el medio más idóneo y, además, grabadas y publicadas íntegramente en un plazo máximo de veinticuatro horas en la plataforma que se disponga para dicho efecto en el sitio oficial del Ministerio del Medio Ambiente, bajo los mecanismos de transparencia activa que dispone la ley. Adicionalmente, las actas de la sesión deberán ser publicadas en la misma plataforma en el plazo de diez días hábiles.
+El Consejo de Ministros para la Sustentabilidad celebrará sesiones cuando lo convoque su Presidente. El quórum para sesionar será de seis consejeros y los acuerdos se adoptarán por la mayoría absoluta de los asistentes. En caso de empate, decidirá el voto del Ministro Presidente o quien lo reemplace. El Consejo en su primera sesión determinará las normas para su funcionamiento. El Consejo deberá sesionar al menos dos veces al año.
 
 #### Artículo 73
 
-El Consejo de Ministros para la Sustentabilidad y el Cambio Climático podrá sesionar en las dependencias del Ministerio del Medio Ambiente, el que proporcionará los medios materiales para su funcionamiento. El Consejo contará con el apoyo de un funcionario del Ministerio del Medio Ambiente, propuesto por el Ministro del ramo y aprobado por el Consejo, quien actuará como Secretario del mismo, correspondiéndole levantar actas de las sesiones respectivas.
+El Consejo de Ministros para la Sustentabilidad podrá sesionar en las dependencias del Ministerio del Medio Ambiente, el que proporcionará los medios materiales para su funcionamiento. El Consejo contará con el apoyo de un funcionario del Ministerio del Medio Ambiente, propuesto por el Ministro del ramo y aprobado por el Consejo, quien actuará como Secretario del mismo, correspondiéndole levantar actas de las sesiones respectivas.
 
-Los acuerdos del Consejo de Ministros para la Sustentabilidad y el Cambio Climático que deban materializarse mediante actos administrativos que conforme al ordenamiento jurídico deben dictarse a través de una Secretaría de Estado, serán expedidos a través del Ministerio del Medio Ambiente.
+Los acuerdos del Consejo de Ministros para la Sustentabilidad que deban materializarse mediante actos administrativos que conforme al ordenamiento jurídico deben dictarse a través de una Secretaría de Estado, serán expedidos a través del Ministerio del Medio Ambiente.
 
-Los acuerdos del Consejo de Ministros para la Sustentabilidad y el Cambio Climático serán obligatorios para los organismos de la Administración del Estado al cual estén dirigidos, incurriendo en responsabilidad administrativa los funcionarios que no den cumplimiento a los mismos.
+Los acuerdos del Consejo de Ministros para la Sustentabilidad serán obligatorios para los organismos de la Administración del Estado al cual estén dirigidos, incurriendo en responsabilidad administrativa los funcionarios que no den cumplimiento a los mismos.
 
 ### Párrafo 3º
 
@@ -1108,31 +1044,29 @@ c) Colaborar con los municipios respectivos en materia de gestión ambiental
 
 ### Párrafo 4º
 
-Del Consejo Nacional para la Sustentabilidad y el Cambio Climático y de los Consejos Consultivos Regionales
+De los Consejos Consultivos
 
 #### Artículo 76
 
-Habrá un Consejo Nacional para la Sustentabilidad y el Cambio Climático integrado por:
+Habrá un Consejo Consultivo del Ministerio del Medio Ambiente presidido por el Ministro del Medio Ambiente e integrado por:
 
-a) Dos científicos, uno de los cuales será experto en materia de cambio climático, propuestos en quina por el Consejo de Rectores de las Universidades Chilenas.
+a) Dos científicos, propuestos en quina por el Consejo de Rectores de las Universidades Chilenas.
 
-b) Dos representantes de organizaciones no gubernamentales sin fines de lucro que tengan por objeto la protección del medio ambiente, uno de los cuales será experto en materia de cambio climático.
+b) Dos representantes de organizaciones no gubernamentales sin fines de lucro que tengan por objeto la protección del medio ambiente.
 
-c) Dos representantes de centros académicos independientes que estudien o se ocupen de materias ambientales, uno de los cuales será experto en materia de cambio climático.
+c) Dos representantes de centros académicos independientes que estudien o se ocupen de materias ambientales.
 
-d) Dos representantes del empresariado, uno de los cuales pertenecerá al sector energía.
+d) Dos representantes del empresariado, propuestos en quina por la organización empresarial de mayor representatividad en el país.
 
 e) Dos representantes de los trabajadores, propuestos en quina por la organización sindical de mayor representatividad en el país.
 
 f) Un representante del Presidente de la República.
 
-g) Dos representantes de organizaciones de jóvenes que tengan por objeto la protección del medio ambiente.
-
-Los consejeros serán nombrados de manera paritaria por el Presidente de la República por un período de dos años, el que podrá prorrogarse por una sola vez. Un reglamento establecerá el funcionamiento del Consejo.
+Los consejeros serán nombrados por el Presidente de la República por un período de dos años, el que podrá prorrogarse por una sola vez. Un reglamento establecerá el funcionamiento del Consejo.
 
 #### Artículo 77
 
-Corresponderá al Consejo Consultivo absolver las consultas que le formule el Ministerio del Medio Ambiente y el Consejo de Ministros para la Sustentabilidad y el Cambio Climático, emitir opiniones sobre los anteproyectos de ley y decretos supremos que fijen normas de calidad ambiental, de preservación de la naturaleza y conservación del patrimonio ambiental, instrumentos de gestión del cambio climático, planes de prevención y de descontaminación, regulaciones especiales de emisiones y normas de emisión que les sean sometidos a su conocimiento. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
+Corresponderá al Consejo Consultivo absolver las consultas que le formule el Ministerio del Medio Ambiente y el Consejo de Ministros para la Sustentabilidad, emitir opiniones sobre los anteproyectos de ley y decretos supremos que fijen normas de calidad ambiental, de preservación de la naturaleza y conservación del patrimonio ambiental, planes de prevención y de descontaminación, regulaciones especiales de emisiones y normas de emisión que les sean sometidos a su conocimiento. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
 
 #### Artículo 78
 
@@ -1148,7 +1082,7 @@ d) Dos representantes de los trabajadores.
 
 e) Un representante del Ministro del Medio Ambiente.
 
-Los consejeros serán nombrados de manera paritaria por el Intendente a proposición del Secretario Regional Ministerial del Medio Ambiente, previa consulta a las respectivas organizaciones o sindicatos más representativos de la región. Respecto de los científicos, éstos serán propuestos por las universidades o institutos profesionales establecidos en la región, si no las hubiere, los designará libremente el Intendente Regional. Los consejeros durarán en sus funciones por un período de dos años, el que podrá prorrogarse por una sola vez. Un Reglamento establecerá el funcionamiento de estos Consejos.
+Los consejeros serán nombrados por el Intendente a proposición del Secretario Regional Ministerial del Medio Ambiente, previa consulta a las respectivas organizaciones o sindicatos más representativos de la región. Respecto de los científicos, éstos serán propuestos por las universidades o institutos profesionales establecidos en la región, si no las hubiere, los designará libremente el Intendente Regional. Los consejeros durarán en sus funciones por un período de dos años, el que podrá prorrogarse por una sola vez. Un Reglamento establecerá el funcionamiento de estos Consejos.
 
 Corresponderá al Consejo Consultivo Regional absolver las consultas que le formulen el Intendente, el Gobierno Regional y el Secretario Regional Ministerial del Medio Ambiente. Asimismo, podrá pronunciarse, de oficio, sobre temas ambientales de interés general y ejercer todas las demás funciones que le encomiende el Ministerio y la ley.
 
@@ -1241,8 +1175,6 @@ d) Las herencias y legados que acepte, lo que deberá hacer con beneficio de inv
 Los proyectos serán calificados por una Comisión presidida por el Intendente e integrada por los Secretarios Regionales Ministeriales del Medio Ambiente, de Salud, de Economía, Fomento y Reconstrucción, de Energía, de Obras Públicas, de Agricultura, de Vivienda y Urbanismo, de Transportes y Telecomunicaciones, de Minería, y de Planificación, y el Director Regional del Servicio, quien actuará como secretario.
 
 Las Direcciones Regionales de Evaluación Ambiental conformarán un comité técnico integrado por el Secretario Regional Ministerial del Medio Ambiente, quien lo presidirá, y el Director Regional de Evaluación Ambiental, los directores regionales de los servicios públicos que tengan competencia en materia del medio ambiente, incluido el Gobernador Marítimo correspondiente, y el Consejo de Monumentos Nacionales. Este comité elaborará un acta de evaluación de cada proyecto la que será de libre acceso a los interesados.
-
-> **Nota.** El Artículo Único de la Ley 20473, publicada el 13.11.2010, otorga, transitoriamente, las facultades fiscalizadoras y sancionadoras que indica a la comisión señalada en el presente Artículo.
 
 #### Artículo 87
 

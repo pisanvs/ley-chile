@@ -20,7 +20,7 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1°
 
-A las disposiciones de esta ley quedará sometida la preservación de los recursos hidrobiológicos, y toda actividad pesquera extractiva, de acuicultura, de investigación y deportiva, que se realice en aguas terrestres, aguas interiores, mar territorial o zona económica exclusiva de la República y en las áreas adyacentes a esta última sobre las que exista o pueda llegar a existir jurisdicción nacional de acuerdo con las leyes y tratados internacionales.
+A las disposiciones de esta ley quedará sometida la preservación de los recursos hidrobiológicos, y toda actividad pesquera extractiva, de acuicultura y de investigación se realice en aguas terrestres, aguas interiores, mar territorial o zona económica exclusiva de la República y en las áreas adyacentes a esta última sobre las que exista o pueda llegar a existir jurisdicción nacional de acuerdo con las leyes y tratados internacionales.
 
 Quedarán también sometidas a ella las actividades pesqueras de procesamiento y transformación, y el almacenamiento, transporte o comercialización de recursos hidrobiológicos.
 
@@ -32,47 +32,27 @@ Lo dispuesto en los dos incisos anteriores se entenderá sin perjuicio de las di
 
 Para los efectos de esta ley se dará a las palabras que en seguida se definen, el significado que se expresa:
 
-1) Actividad pesquera extractiva: actividad pesquera que tiene por objeto capturar, cazar, segar o recolectar recursos
+1) Actividad pesquera extractiva: actividad pesquera que tiene por objeto capturar, cazar, segar o recolectar recursos hidrobiológicos. En este concepto no quedarán incluidas la acuicultura, la pesca de investigación y la deportiva.
 
-hidrobiológicos. En este concepto no quedarán incluidas la acuicultura, la pesca de investigación y la deportiva.
+2) Actividad pesquera de transformación: actividad pesquera que tiene por objeto la elaboración de productos provenientes de cualquier especie hidrobiológica, mediante el procesamiento total o parcial de capturas propias o ajenas obtenidas en la fase extractiva.
 
-2) Actividad pesquera de transformación: actividad pesquera que tiene por objeto la elaboración de productos
+No se entenderá por actividad pesquera de transformación la evisceración de los peces capturados, su conservación en hielo, ni la aplicación de otras técnicas de mera preservación de especies hidrobiológicas.
 
-provenientes de cualquier especie hidrobiológica, mediante el procesamiento total o parcial de capturas propias o ajenas obtenidas en la fase extractiva.
+3) Acuicultura: actividad que tiene por objeto la producción de recursos hidrobiológicos organizada por el hombre. Cultivo abierto: actividad de acuicultura en la cual la producción de recursos hidrobiológicos se realiza aprovechando el ciclo biológico de especies, como las anádromas y cátadromas, que permite que una o más de las fases del cultivo se realice en áreas no confinadas.
 
-No se entenderá por actividad pesquera de transformación la evisceración de los peces capturados, su conservación en hielo, ni la aplicación de otras
-
-técnicas de mera preservación de especies hidrobiológicas.
-
-3) Acuicultura: actividad que tiene por objeto la producción de recursos hidrobiológicos organizada por el hombre.
-
-Cultivo abierto: actividad de acuicultura en la cual la producción de recursos hidrobiológicos se realiza aprovechando el ciclo biológico de especies, como las
-
-anádromas y cátadromas, que permite que una o más de las fases del cultivo se realice en
-
-áreas no confinadas.
-
-Se entenderá por especies anádromas aquellas especies hidrobiológicas cuyo ciclo de vida se inicia en aguas terrestres para posteriormente migrar al mar, lugar donde crecen y se desarrollan hasta que alcanzan su madurez sexual, etapa en que vuelven a sus cursos de origen completando su ciclo con el proceso reproductivo, y en algunos casos luego de ocurrido
-
-éste, mueren.
+Se entenderá por especies anádromas aquellas especies hidrobiológicas cuyo ciclo de vida se inicia en aguas terrestres para posteriormente migrar al mar, lugar donde crecen y se desarrollan hasta que alcanzan su madurez sexual, etapa en que vuelven a sus cursos de origen completando su ciclo con el proceso reproductivo, y en algunos casos luego de ocurrido éste, mueren.
 
 Se entenderá por especies catádromas aquellas especies hidrobiológicas cuyo ciclo de vida se inicia en el mar, lugar desde donde migran a cursos de agua dulce, en donde crecen y se desarrollan hasta volver a las aguas de origen cuando han alcanzado su madurez sexual, donde completan el proceso reproductivo.
 
-4) Aguas interiores: son aquellas aguas situadas al interior de la
+4) Aguas interiores: son aquellas aguas situadas al interior de la línea de base del mar territorial.
 
-línea de base del mar territorial.
-
-5) Aparejo de pesca: sistema o artificio de pesca preparado para la captura de recursos hidrobiológicos, formado por
-
-líneas o cabos con anzuelos o con otros útiles que, en general, sean aptos para dicho fin, pero sin utilizar paños de redes.
+5) Aparejo de pesca: sistema o artificio de pesca preparado para la captura de recursos hidrobiológicos, formado por líneas o cabos con anzuelos o con otros útiles que, en general, sean aptos para dicho fin, pero sin utilizar paños de redes.
 
 6) Apozamiento: es la acumulación de recursos hidrobiológicos bentónicos en su mismo medio de vida, ya sea que estén confinados o libres, los cuales han sido removidos y trasladados desde los lugares en donde habitan en forma natural.
 
 7) Area de pesca: espacio geográfico definido como tal por la autoridad para los efectos de ejercer en él actividades pesqueras extractivas de una especie hidrobiológica determinada.
 
-8) Armador pesquero industrial: persona inscrita en el registro industrial, que ejecuta por su cuenta y riesgo una actividad
-
-pesquera extractiva o de transformación a bordo, utilizando una o más naves o embarcaciones pesqueras, cualquiera sea el tipo, tamaño, diseño o especialidad de éstas, las que deberán estar identificadas e inscritas como tales en los registros a cargo de la autoridad marítima.
+8) Armador pesquero industrial: persona inscrita en el registro industrial, que ejecuta por su cuenta y riesgo una actividad pesquera extractiva o de transformación a bordo, utilizando una o más naves o embarcaciones pesqueras, cualquiera sea el tipo, tamaño, diseño o especialidad de éstas, las que deberán estar identificadas e inscritas como tales en los registros a cargo de la autoridad marítima.
 
 En adelante, en esta ley se denominan dichas naves "naves o embarcaciones pesqueras", o simplemente "naves o embarcaciones".
 
@@ -86,25 +66,25 @@ es el acto administrativo mediante el cual la Subsecretaría otorga a una person
 
 12) Barcos fábrica o factoría: es la nave que realiza faenas de pesca y efectúa a bordo procesos de transformación a las capturas, incluyendo en ellos la congelación de las mismas. No se considerarán procesos de tranformación la mera evisceración, como el uso de técnicas de preservación parta la mantención de las capturas en fresco, entendiendo por tales el uso de hielo o de productos químicos y la sola refrigeración.
 
-Entre los diversos tipos de barcos fábrica o factoría existentes, clasificados de acuerdo a su sistema o aparejo de pesca, se entenderá por barco fábrica o factoría arrastrero: aquel que en sus operaciones de pesca extractiva utiliza como arte de pesca la red de arrastre; por barco
+Entre los diversos tipos de barcos fábrica o factoría existentes, clasificados de acuerdo a su sistema o aparejo de pesca, se entenderá por barco fábrica o factoría arrastrero: aquel que en sus operaciones de pesca extractiva utiliza como arte de pesca la red de arrastre; por barco fábrica o factoría espinelero o palangrero: aquel que en sus operaciones de pesca extractiva utiliza como aparejo de pesca el espinel o palangre; y por barco fábrica o factoría cerquero: aquel que utiliza en sus operaciones de pesca extractiva la red de cerco.
 
-fábrica o factoría espinelero o palangrero: aquel que en sus operaciones de pesca extractiva utiliza como aparejo de pesca el espinel o palangre; y por barco fábrica o factoría cerquero: aquel que utiliza en sus operaciones de pesca extractiva la red de cerco.
-
-13) Concesión de acuicultura: es el acto administrativo mediante
-
-el cual el Ministerio de Defensa Nacional otorga a una persona los derechos de uso y goce, por tiempo indefinido sobre determinados bienes nacionales, para que ésta realice en ellos actividades de acuicultura.
+13) Concesión de acuicultura: es el acto administrativo mediante el cual el Ministerio de Defensa Nacional otorga a una persona los derechos de uso y goce, por tiempo indefinido sobre determinados bienes nacionales, para que ésta realice en ellos actividades de acuicultura.
 
 PARRAFO ELIMINDO
 
-14) Conservación: uso presente y futuro, racional, eficaz y
-
-eficiente de los recursos naturales y su ambiente.
+14) Conservación: uso presente y futuro, racional, eficaz y eficiente de los recursos naturales y su ambiente.
 
 14) bis. Descarte: es la acción de desechar al mar especies hidrobiológicas capturadas.
 
-15) Embarcación pesquera artesanal o, simplemente, embarcación artesanal: embarcación explotada por un armador artesanal, de una eslora
+15) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros, 80 metros cúbicos de capacidad de bodega, y de hasta 50 toneladas de registro grueso.
 
-máxima no superior a 18 metros y de hasta 50 toneladas de registro grueso identificada e inscrita como tal en los registros a cargo de la autoridad marítima.
+Por reglamento se establecerán categorías de embarcaciones artesanales por eslora.
+
+Asimismo, se determinará para cada categoría, su capacidad de carga máxima, el volumen máximo de bodega y la superficie mínima destinada a habitabilidad, teniendo en consideración la explotación racional de los recursos hidrobiológicos y las condiciones de trabajo a bordo. En todo caso, la capacidad de carga máxima por viaje de pesca de la categoría correspondiente a la mayor eslora, no podrá exceder de 80 toneladas.
+
+En el evento que sea constatada la operación de una embarcación artesanal que no cumpla lo dispuesto en el reglamento antes mencionado en relación a su volumen o superficie, se suspenderán sus actividades extractivas quedando prohibido el zarpe de la embarcación infractora hasta que se certifique la adecuación de sus características a dicho texto.
+
+Si se constata por tres veces, en el plazo dos años, que una embarcación artesanal ha desembarcado capturas que exceden la capacidad máxima por viaje de pesca, se suspenderán los derechos derivados de la inscripción en el registro pesquero artesanal por el plazo de tres meses, quedando prohibido el zarpe de la embarcación infractora desde que se comunique dicha circunstancia.
 
 16) Enfermedades de alto riesgo: se entenderá por enfermedades de alto riesgo, la desviación del estado completo de bienestar físico de un organismo, que involucra un conjunto bien definido de síntomas y etiología, que conduce a una grave limitante de sus funciones normales, asociada a altas mortalidades de carácter transmisible a organismos de la misma u otras especies.
 
@@ -124,53 +104,49 @@ máxima no superior a 18 metros y de hasta 50 toneladas de registro grueso ident
 
 24) Línea de base normal: Línea de bajamar de la costa del territorio continental e insular de la República. En los lugares en que la costa tenga profundas aberturas y escotaduras, o en los que haya una franja de islas a lo largo de la costa situada en su proximidad inmediata, podrá adoptarse, de conformidad al Derecho Internacional, como método para trazar la línea de base desde la que ha de medirse el mar territorial, el de líneas de base rectas que unan los puntos apropiados.
 
-25) Mar presencial: es aquella parte de la alta mar, existente para la comunidad internacional, entre el límite de nuestra zona económica exclusiva continental y el meridiano que, pasando por el borde occidental de la plataforma continental de la Isla de Pascua, se prolonga desde el paralelo del hito N° 1 de la
+25) Mar presencial: es aquella parte de la alta mar, existente para la comunidad internacional, entre el límite de nuestra zona económica exclusiva continental y el meridiano que, pasando por el borde occidental de la plataforma continental de la Isla de Pascua, se prolonga desde el paralelo del hito N° 1 de la línea fronteriza internacional que separa Chile y Perú, hasta el Polo Sur.
 
-línea fronteriza internacional que separa Chile y Perú, hasta el Polo Sur.
+26) "Ministerio": el Ministerio de Economía, Fomento y Reconstrucción, "Ministro": el titular de dicho Ministerio; "Subsecretaría": la de Pesca; "Subsecretario": el de Pesca; "Servicio": el Servicio Nacional de Pesca.
 
-26) "Ministerio": el Ministerio de Economía, Fomento y Reconstrucción, "Ministro": el titular de dicho Ministerio; "Subsecretaría": la de Pesca; "Subsecretario": el de Pesca;
-
-"Servicio": el Servicio Nacional de Pesca.
-
-27) Pequeño armador pesquero industrial: persona inscrita en el Registro Nacional Pesquero Industrial, que ejecuta una actividad pesquera extractiva utilizando hasta tres naves, de hasta 22,5 metros de eslora
-
-máxima y de hasta 100 toneladas de registro grueso cada una.
+27) Pequeño armador pesquero industrial: persona inscrita en el Registro Nacional Pesquero Industrial, que ejecuta una actividad pesquera extractiva utilizando hasta tres naves, de hasta 22,5 metros de eslora máxima y de hasta 100 toneladas de registro grueso cada una.
 
 28) Permiso extraordinario de pesca: es el acto administrativo mediante el cual la Subsecretaría a través del procedimiento establecido en esta ley faculta a las personas adjudicatarias de cuotas individuales de captura para realizar actividades pesqueras extractivas, por el tiempo de vigencia del permiso, en pesquerías declaradas en los regímenes de plena explotación, o en pesquerías en desarrollo incipiente o en pesquerías en recuperación.
 
-29) Pesca artesanal: actividad pesquera extractiva realizada por personas naturales que en forma personal, directa y habitual trabajan como pescadores
+29) Pesca artesanal: actividad pesquera extractiva realizada por personas naturales que, en forma personal, directa y habitual, trabajan como pescadores artesanales inscritos en el Registro Pesquero Artesanal, con o sin el empleo de una embarcación artesanal.
 
-artesanales. Para los efectos de esta ley, se distinguirá entre armador artesanal, mariscador, alguero y pescador artesanal propiamente tal. Estas categorías de pescador artesanal no serán excluyentes unas de otras, pudiendo por tanto una persona ser calificada y actuar simultánea o sucesivamente en dos o más de ellas, siempre que todas se ejerciten en la misma Región, con las solas excepciones que contempla el título IV de la presente ley.
+Sin perjuicio de lo anterior, se considerará también como pesca artesanal la actividad pesquera extractiva realizada por personas jurídicas que estén compuestas exclusivamente por personas naturales inscritas como pescadores artesanales en los términos establecidos en esta ley. Esta excepción será aplicable sólo a armadores y a organizaciones de pescadores artesanales.
 
-Se considerará también como pesca artesanal, la actividad pesquera extractiva que realicen personas jurídicas, siempre que éstas estén compuestas exclusivamente por personas naturales inscritas como pescadores artesanales en los términos establecidos en esta ley.
+Para los efectos de esta ley, la actividad pesquera artesanal se ejerce a través de una o más de las siguientes categorías: armador artesanal, pescador artesanal propiamente tal, buzo, recolector de orilla, alguero o buzo apnea:
 
-- Pescador artesanal propiamente tal: es aquél que se desempeña como patrón o tripulante en una embarcación artesanal cualquiera que sea su régimen de retribución.
+a) Armador artesanal: es el pescador artesanal, la persona jurídica o la comunidad, en los términos que establece el Código Civil, propietaria de hasta dos embarcaciones artesanales. Tratándose de las personas naturales y de las empresas individuales de responsabilidad limitada, las dos embarcaciones artesanales de que pueden ser propietarias, no podrán tener, en conjunto, una capacidad de bodega que exceda de cien metros cúbicos. En el caso de las personas jurídicas y de las comunidades, entendiendo por tales las contempladas en el Código Civil, las dos embarcaciones artesanales de que pueden ser propietarias, no podrán tener, en conjunto, una capacidad de bodega que exceda de ciento sesenta metros cúbicos.
 
-- Armador artesanal: es el pescador artesanal propietario de hasta dos embarcaciones artesanales, las cuales en conjunto no podrán exceder de 50 toneladas de registro grueso. Si los propietarios de una embarcación artesanal son dos o más personas, se entenderá que todos ellos son sus armadores artesanales, existiendo siempre responsabilidad solidaria entre todos ellos para todos los efectos por el pago de las multas que se deriven de las sanciones pecuniarias impuestas de acuerdo con esta ley.
+Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal.
 
-- Mariscador: es el pescador artesanal que efectúa actividades de extracción de moluscos, crustáceos, equinodermos y mariscos en general, con o sin el empleo de una embarcación artesanal.
+En el caso que el armador sea una comunidad, deberá estar integrada sólo por pescadores artesanales, existiendo siempre responsabilidad solidaria entre todos ellos para el pago de las patentes y de las multas que se deriven de las sanciones pecuniarias impuestas de acuerdo con esta ley, según corresponda.
 
-- Alguero: es el pescador artesanal que realiza recolección y segado de algas, con o sin el empleo de una embarcación artesanal.
+Sólo podrán inscribirse en esta categoría los pescadores artesanales propiamente tales y los buzos.
+
+b) Pescador artesanal propiamente tal: es aquel que se desempeña como patrón o tripulante en una embarcación artesanal, cualquiera que sea su régimen de retribución.
+
+c) Buzo: es la persona que realiza actividad extractiva de recursos hidrobiológicos mediante buceo con aire, abastecido desde superficie o en forma autónoma.
+
+d) Recolector de orilla, alguero o buzo apnea: es la persona que realiza actividades de extracción, recolección o segado de recursos hibrobiológicos.
+
+Las categorías antes señaladas no serán excluyentes unas de otras, pudiendo, por tanto, una persona ser calificada y actuar simultánea o sucesivamente en dos o más de ellas, siempre que todas se ejerciten en la misma región, sin perjuicio de las excepciones que contempla el título IV de la presente ley.
 
 30) Pesca de investigación: actividad pesquera extractiva que tiene por objeto la realización de los siguientes tipos de pesca sin fines comerciales:
 
 - Pesca exploratoria: uso de equipos de detección y artes o aparejos de pesca para determinar la existencia de recursos pesqueros presentes en un área y obtener estimaciones cualitativas o cuantitativas.
 
-- Pesca de prospección: uso de equipos de detección y artes o aparejos de pesca, especialmente diseñados para capturar cierto tipo de especie, con el objeto de determinar su cantidad y su distribución espacial en un
-
-área determinada.
+- Pesca de prospección: uso de equipos de detección y artes o aparejos de pesca, especialmente diseñados para capturar cierto tipo de especie, con el objeto de determinar su cantidad y su distribución espacial en un área determinada.
 
 - Pesca experimental: uso de artes o aparejos y sistemas de pesca para determinar las propiedades de éstos y sus efectos en la especie o especies objetivo de la captura, como así también cuando corresponda, evaluar el impacto sobre otras especies asociadas y sobre el hábitat mismo.
 
 31) Pesca industrial: actividad pesquera extractiva realizada por armadores industriales, utilizando naves o embarcaciones pesqueras, de conformidad con esta ley.
 
-32) Pesquería en recuperación: es aquella pesquería que se encuentra sobreexplotada y sujeta a una veda extractiva, de a lo menos tres
+32) Pesquería en recuperación: es aquella pesquería que se encuentra sobreexplotada y sujeta a una veda extractiva, de a lo menos tres años, con el propósito de su recuperación, y en las que sea posible fijar una cuota global anual de captura.
 
-años, con el propósito de su recuperación, y en las que sea posible fijar una cuota global anual de captura.
-
-33) Pesquería incipiente: es aquella pesquería demersal o bentónica sujeta al régimen general de acceso, en la cual se puede fijar una cuota global anual de captura, en que no se realice esfuerzo de pesca o
-
-éste se estime en términos de captura anual de la especie objetivo menor al diez por ciento de dicha cuota y respecto de la cual haya un número considerable de interesados por participar en ella.
+33) Pesquería incipiente: es aquella pesquería demersal o bentónica sujeta al régimen general de acceso, en la cual se puede fijar una cuota global anual de captura, en que no se realice esfuerzo de pesca o éste se estime en términos de captura anual de la especie objetivo menor al diez por ciento de dicha cuota y respecto de la cual haya un número considerable de interesados por participar en ella.
 
 34) Plan de manejo: compendio de normas y conjunto de acciones
 
@@ -192,9 +168,7 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 42) Repoblación: es la acción que tiene por objeto incrementar el el tamaño o la distribución geográfica de la población de una especie hidrobiológica, por medios artificiales.
 
-43) Reserva marina: área de resguardo de los recursos hidrobiológicos con el objeto de proteger zonas de reproducción, caladeros de pesca y áreas de repoblamiento por manejo. Estas
-
-áreas quedarán bajo la tuición del Servicio y sólo podrá efectuarse en ellas actividades extractivas por períodos transitorios previa resolución fundada de la Subsecretaría.
+43) Reserva marina: área de resguardo de los recursos hidrobiológicos con el objeto de proteger zonas de reproducción, caladeros de pesca y áreas de repoblamiento por manejo. Estas áreas quedarán bajo la tuición del Servicio y sólo podrá efectuarse en ellas actividades extractivas por períodos transitorios previa resolución fundada de la Subsecretaría.
 
 44) Stock: es la fracción explotable de una población de un recurso hidrobiológico.
 
@@ -202,29 +176,19 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 46) Unidad de pesquería: conjunto de actividades de pesca industrial ejecutadas respecto de una especie hidrobiológica determinada, en un área geográfica específica.
 
-47) Valor de sanción: monto en dinero expresado en unidades tributarias mensuales y en toneladas de peso físico de la especie hidrobiológica de que se trate, en estado natural, que servirá de unidad de cuenta para la aplicación de las sanciones que establece esta ley. El valor de sanción por especie será fijado anualmente por decreto supremo del Ministerio, previo informes
+47) Valor de sanción: monto en dinero expresado en unidades tributarias mensuales y en toneladas de peso físico de la especie hidrobiológica de que se trate, en estado natural, que servirá de unidad de cuenta para la aplicación de las sanciones que establece esta ley. El valor de sanción por especie será fijado anualmente por decreto supremo del Ministerio, previo informes técnicos de la Subsecretaría de Pesca y del Consejo Nacional de Pesca.
 
-técnicos de la Subsecretaría de Pesca y del Consejo Nacional de Pesca.
-
-48) Veda: acto administrativo establecido por autoridad
-
-competente en que está prohibido capturar o extraer un recurso hidrobiológico en un área determinada por un espacio de tiempo.
+48) Veda: acto administrativo establecido por autoridad competente en que está prohibido capturar o extraer un recurso hidrobiológico en un área determinada por un espacio de tiempo.
 
 - Veda biológica: prohibición de capturar o extraer con el fin de resguardar los procesos de reproducción y reclutamiento de una especie hidrobiológica. Se entenderá por reclutamiento la incorporación de individuos juveniles al stock.
 
-- Veda extractiva: prohibición de captura o extracción en un
-
-área específica por motivos de conservación.
+- Veda extractiva: prohibición de captura o extracción en un área específica por motivos de conservación.
 
 - Veda extraordinaria: prohibición de captura o extracción, cuando fenómenos oceanográficos afecten negativamente una pesquería.
 
-49) Vivero o centro de acopio:
+49) Vivero o centro de acopio: establecimiento que tiene por objeto la mantención temporal de recursos hidrobiológicos provenientes de centros de cultivo o actividades extractivas autorizados, para su posterior comercialización o transformación.
 
-establecimiento que tiene por objeto la mantención temporal de recursos hidrobiológicos provenientes de centros de cultivo o actividades extractivas autorizados, para su posterior comercialización o transformación.
-
-50) Centro de matanza:
-
-establecimiento que tiene por objeto el sacrificio, desangrado y eventual eviscerado de recursos hidrobiológicos, para su posterior transformación. Se entenderá también por centro de matanza, los pontones destinados a los objetos antes indicados, sólo respecto de recursos hidrobiológicos provenientes de cultivo, quedando los demás sometidos a lo dispuesto en el artículo 162 de esta ley.
+50) Centro de matanza: establecimiento que tiene por objeto el sacrificio, desangrado y eventual eviscerado de recursos hidrobiológicos, para su posterior transformación. Se entenderá también por centro de matanza, los pontones destinados a los objetos antes indicados, sólo respecto de recursos hidrobiológicos provenientes de cultivo, quedando los demás sometidos a lo dispuesto en el artículo 162 de esta ley.
 
 51) Organismo genéticamente modificado (OGM): Organismo cuyo material genético ha sido alterado en una forma que no ocurre naturalmente por cruzamiento y/o por recombinación natural.
 
@@ -250,7 +214,7 @@ c) Fijación de cuotas anuales de captura por especie en un área determinada. E
 
 Podrá establecerse fundadamente una reserva de la cuota global de captura para fines de investigación, la que no podrá exceder de un 3% de la cuota global de captura. No obstante, en pesquerías declaradas en plena explotación, podrá establecerse una reserva de hasta un 5% por motivos fundados, debiendo aprobarse por seis de los siete consejeros representantes indicados en el numeral 5 del artículo 146 y por los dos tercios de los miembros en ejercicio del Consejo Nacional de Pesca. Podrán hacerse también estas reservas de cada una de las fracciones de cuota asignadas al sector artesanal e industrial.
 
-d) Declaración de áreas específicas y delimitadas que se denominan Parques Marinos, destinados a preservar unidades ecológicas de interés para la ciencia y cautelar áreas que aseguren la mantención y diversidad de especies hidrobiológicas, como también aquellas asociadas a su hábitat. Para la declaración se consultará a los Ministerios que corresponda. Los Parques Marinos quedarán bajo la tuición del Servicio y en ellos no podrá efectuarse ningún tipo de actividad, salvo aquellas que se autoricen con propósitos de observación, investigación o estudio.
+d) Declaración de áreas específicas y delimitadas que se denominan Parques Marinos, destinados a preservar unidades ecológicas de interés para la ciencia y cautelar áreas que aseguren la mantención y diversidad de especies hidrobiológicas, como también aquellas asociadas a su hábitat. Para la declaración se consultará a los Ministerios que corresponda. Los Parques Marinos quedarán bajo la tuición del Servicio y en ellos no podrá efectuarse ningún tipo de actividad, salvo aquellas que se autoricen con propósitos de observación, investigación o estudio. Las declaraciones de parques y reservas marinos, a que hacen mención esta letra y el artículo 48 letra b), serán realizadas mediante decreto del Ministerio del Medio Ambiente.
 
 e) Establecimiento de porcentaje de desembarque de especies como fauna acompañante.
 
@@ -337,6 +301,42 @@ Para los efectos de este párrafo, anualmente y en el mes de septiembre de cada 
 Se entenderá que las especies no contenidas en dicha nómina son especies de primera importación.
 
 Por decreto supremo, expedido a través del Ministerio, se determinará el procedimiento y las demás condiciones que deberán cumplirse para la importación de organismos genéticamente modificados, que sean incluidos en la nómina a que alude el inciso anterior.
+
+### Párrafo 4º
+
+De la protección, rescate, rehabilitación, reinserción, observación y monitoreo de mamíferos, reptiles y aves hidrobiológicas
+
+#### Artículo 13
+
+A.- La Subsecretaría, mediante resolución, establecerá el procedimiento y características a las que deberá someterse el rescate de los individuos de una especie hidrobiológica que se encuentren en amenaza evidente e inminente de muerte o daño físico, o que se encuentren incapacitados para sobrevivir en su medio.
+
+Para estos efectos, se entenderá por rescate el proceso orientado a salvaguardar o a liberar a uno o más individuos, de una amenaza evidente o inminente de muerte o daño físico, cuando ello sea producto de efectos de actividades antrópicas, contaminación de su medio o factores ambientales adversos, y reinsertarlo a su medio natural cuando las condiciones lo permitan.
+
+#### Artículo 13
+
+B.- Los ejemplares que, siendo afectados por actividades antrópicas, contaminación de su medio o factores ambientales adversos, hayan sido rescatados conforme al procedimiento establecido de acuerdo con el artículo anterior, o que hayan sido retenidos, incautados, confiscados o decomisados por alguna autoridad fiscalizadora, deberán ser devueltos en forma inmediata al medio natural.
+
+No obstante lo anterior, en caso que tales ejemplares no puedan ser devueltos al medio natural en condiciones que no menoscaben su supervivencia natural, o en caso que exista alta incertidumbre sobre si su incorporación al medio perjudicará a las poblaciones del sector en que serán devueltos, tales ejemplares deberán ser enviados en forma inmediata a un centro de rehabilitación de especies hidrobiológicas. En el evento que no exista un centro de rehabilitación en la respectiva provincia, o que los ejemplares pertenezcan a especies o poblaciones aléctonas, dichos individuos podrán ser enviados a un establecimiento autorizado en que se mantengan especies en cautiverio, como zoológicos, centros de exhibición pública u otros que cuenten con la infraestructura adecuada y personal capacitado para realizar tales funciones. Esta autorización será otorgada caso a caso y sólo con el fin de ser rehabilitados y devueltos a su medio ambiente natural y no podrán ser comercializados o utilizados de forma alguna con fines comerciales.
+
+Para estos efectos, se entenderá por centros de rehabilitación de especies hidrobiológicas los establecimientos destinados a mantener temporalmente a los ejemplares con el fin de efectuarles controles sanitarios o proporcionarles el tratamiento veterinario o asistencial apropiado para su recuperación o rehabilitación, según sea el caso. La permanencia de los ejemplares en dichos centros de rehabilitación deberá ser evaluada periódicamente por un profesional competente.
+
+Las actividades de rehabilitación deberán respetar las características biológicas y de comportamiento de las distintas especies, en especial, no procederá la rehabilitación "ex situ" tratándose de cetáceos mayores.
+
+#### Artículo 13
+
+C.- Mediante resolución de la Subsecretaría, previo informe técnico del Servicio, se establecerá el procedimiento de reconocimiento oficial de los centros de rehabilitación autorizados a mantener ejemplares de acuerdo con lo dispuesto en el artículo anterior, los requisitos que deberán cumplir para efectos de dicho reconocimiento, la clasificación de acuerdo con el tipo de actividades que le sean autorizadas y el procedimiento de certificación al que deberán someterse periódicamente. El Registro de los centros de rehabilitación que llevará el Servicio deberá ser público y actualizado mediante evaluaciones periódicas que garanticen el cumplimiento de estándares sanitarios y medio ambientales.
+
+#### Artículo 13
+
+D.- La reinserción o liberación de los ejemplares mantenidos en un centro de rehabilitación deberá efectuarse en su hábitat natural. Un reglamento establecerá el procedimiento de reinserción, sus características y la calidad técnica que deberá poseer el personal que ejecute dicha actividad.
+
+#### Artículo 13
+
+E.- La observación de mamíferos, reptiles y aves hidrobiológicas consistente en el acercamiento voluntario a ejemplares de tales especies en forma directa o desde un medio de transporte aéreo, terrestre, marítimo, lacustre o fluvial, con la finalidad de propiciar un contacto visual con éstas en su hábitat natural, con fines recreativos, de investigación o educativos, quedará sometida a las disposiciones del presente párrafo.
+
+En el desarrollo de las actividades de observación se deberá garantizar un comportamiento respetuoso con los ejemplares así como asegurar el resguardo de las características específicas de cada especie y la seguridad de los observadores. Se prohíbe la realización de cualquier acto de acoso o de persecución que altere la conducta de algún ejemplar, o que implique forzar el contacto físico con algún ejemplar ocasionando maltrato, estrés o daño físico al mismo.
+
+Uno o más reglamentos establecerán los procedimientos y requisitos a que se someterá el registro del avistamiento de cetáceos, así como la observación de mamíferos, reptiles y aves hidrobiológicas.
 
 ## Título III
 
@@ -646,7 +646,7 @@ Las organizaciones de pescadores artesanales a las cuales se les entregue un ár
 
 El pago de esta patente regirá a partir del segundo año contado desde la celebración del convenio de uso
 
-El reglamento determinará las condiciones y modalidades de los términos técnicos de referencia de los proyectos de manejo y explotación, las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud.
+El reglamento determinará las condiciones y modalidades de los términos técnicos de referencia de los proyectos de manejo y explotación, las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud. Dicha determinación se efectuará mediante decreto que llevará las firmas de los Ministros del Ministerio del Medio Ambiente y de Economía, Fomento y Reconstrucción.
 
 e) Podrá aplicarse a las unidades de pesquería de recursos bentónicos que alcancen el estado de plena explotación un sistema denominado "Régimen Bentónico de Extracción". Este régimen consistirá en la fijación de una cuota total de extracción y en la asignación de cuotas individuales de extracción.
 
@@ -696,13 +696,39 @@ El reglamento determinará el procedimiento de sustitución de embarcaciones art
 
 #### Artículo 50
 
-A.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley. En el caso de los buzos, serán reemplazables además por incapacidad total y permanente.
+A.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
+
+El reemplazo operará en forma indivisible respecto de todas las pesqueras cerradas y vigentes que el reemplazado tenga inscritas en el Registro, en cualquier categoría, quedando sin efecto la inscripción respecto de las pesqueras con acceso abierto, por el solo ministerio de la ley.
+
+Para estos efectos, el Servicio otorgará, a petición del titular de la inscripción, un certificado que acredite la individualización del titular de aquélla, las características básicas de la nave, en su caso, y la individualización de la o las pesqueras inscritas que mantiene vigentes.
+
+Este certificado tendrá una duración indefinida, mientras se mantenga la vigencia de la suspensión del acceso y no se vea afectado por la causal de caducidad en que pueda incurrir el titular de la inscripción.
 
 Para estos efectos, se deberá presentar una solicitud ante el Servicio, en que conste la manifestación de voluntad de ambas partes de ejercer la facultad establecida en el inciso primero. El Servicio efectuará el reemplazo en aquellas pesquerías que se encuentren vigentes.
 
 El reemplazante deberá cumplir, en todo caso, con los requisitos establecidos en el artículo 51.
 
-El armador reemplazante deberá, además, acreditar el título de dominio o tenencia sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 29.
+El armador reemplazante deberá, además, acreditar el título de
+
+dominio sobre la embarcación, en la forma establecida en el artículo 52, letra a), quedando sujeto a la limitación establecida en la mencionada disposición y en el artículo 2º, número 29.
+
+El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
+
+Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en los
+
+últimos tres años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
+
+Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo
+
+63, y que den cuenta de capturas efectuadas en la pesquería respectiva. En el caso de los buzos y de los pescadores propiamente tales, se acreditará la habitualidad mediante la información de los zarpes de embarcaciones en cuya tripulación hubiere participado el reemplazante, que consten ante la autoridad marítima.
+
+En el caso que se modifique parcialmente la integración de una comunidad o persona jurídica, el o los nuevos integrantes o socios deberán cumplir con el requisito de habitualidad antes
+
+señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
+
+El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta.
+
+El reemplazo no operará respecto de la categoría de recolector de orilla, alguero y buzo apnea, ni podrá ser invocada por el reemplazante.
 
 > **Nota.** El artículo único de la LEY 19922, publicada el 23.12.2003, suspende, por el periodo de 18 meses, la vigencia del presente artículo.
 
@@ -718,23 +744,25 @@ DEL REGISTRO NACIONAL DE PESCADORES ARTESANALES
 
 #### Artículo 51
 
-Los que deseen inscribirse en el registro artesanal deberán cumplir los siguientes requisitos:
+Para inscribirse en el Registro Artesanal deberán cumplirse los siguientes requisitos:
 
-a) Ser persona natural o jurídica constituida exclusivamente por personas naturales que tengan la calidad de pescador artesanal en conformidad a esta ley.
+a) Ser persona natural, chilena o extranjera con permanencia definitiva, o ser persona jurídica de conformidad con el artículo
 
-b) Ser chileno o extranjero con permanencia definitiva.
+2°, N°29, de esta ley.
 
-c) Haber obtenido la matrícula de pescador artesanal de la autoridad marítima que corresponda.
+b) Haber obtenido el título o matrícula de la Autoridad Marítima que lo habilite para desempeñarse como tal. Este requisito no será aplicable a la categoría de recolector de orilla, alguero y buzo apnea.
 
-d) Acreditar domicilio en la región especificando provincia, comuna y localidad en la cual se solicita la inscripción y no encontrarse inscrito en otras regiones en el registro artesanal.
+c) Acreditar domicilio en la región especificando comuna y caleta base en la cual se solicita la inscripción y no encontrarse inscrito en otras regiones en el registro artesanal.
+
+d) Los pescadores artesanales, para estar en el Registro, deberán acreditar residencia efectiva de al menos tres años consecutivos en la Región respectiva.
 
 #### Artículo 52
 
-Para inscribir embarcaciones en el registro artesanal, deberán cumplirse los siguientes requisitos:
+Para inscribir embarcaciones con sus respectivos armadores y caleta base en el registro artesanal, deberán cumplirse los siguientes requisitos:
 
 a) Acreditar el dominio de ellas mediante su inscripción como embarcación pesquera, en los registros a cargo de la autoridad marítima, de acuerdo con las leyes y reglamentos.
 
-b) Acreditar que la o las embarcaciones tienen una eslora máxima no superior a 18 metros y a 50 toneladas de registro grueso.
+b) Acreditar las características principales de la embarcación artesanal, de conformidad con lo dispuesto en el artículo 2°, N° 15, de esta ley.
 
 c) Acreditar que el armador, según corresponda, se encuentra inscrito como pescador artesanal.
 
@@ -1136,7 +1164,7 @@ El incumplimiento de cualquiera de las medidas establecidas en el reglamento, se
 
 #### Artículo 87
 
-Por uno o más decretos supremos expedidos por intermedio del Ministerio, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal de Pesca que corresponda, se deberán reglamentar las medidas de protección del medio ambiente para que los establecimientos que exploten concesiones o autorizaciones de acuicultura operen en niveles compatibles con las capacidades de los cuerpos de agua lacustres, fluviales y marítimos.
+Por uno o más decretos supremos expedidos por intermedio de los Ministerios de Economía, Fomento y Reconstrucción y del Medio Ambiente, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal de Pesca que corresponda, se deberán reglamentar las medidas de protección del medio ambiente para que los establecimientos que exploten concesiones o autorizaciones de acuicultura operen en niveles compatibles con las capacidades de los cuerpos de agua lacustres, fluviales y marítimos.
 
 El incumplimiento de cualquiera de las medidas establecidas en el reglamento, indicado en el inciso anterior, será sancionado conforme a las normas del título IX.
 
@@ -1292,21 +1320,19 @@ DE LA PESCA DEPORTIVA
 
 #### Artículo 103
 
-La pesca deportiva es aquella actividad pesquera realizada por personas naturales, nacionales o extranjeras, que tiene por objeto la captura de especies hidrobiológicas en aguas terrestres, aguas interiores, mar territorial o zona económica exclusiva, sin fines de lucro y con propósito de deporte, recreo, turismo o pasatiempo, y que se realiza con un aparejo de pesca personal apropiado al efecto.
-
-Por decreto del Ministerio, previo informe técnico de la Subsecretaría, se establecerán los aparejos de pesca personales que calificarán a estos efectos como propios de la pesca deportiva, considerándose a los demás como de pesca artesanal o industrial.
+DEROGADO
 
 #### Artículo 104
 
-Las personas naturales chilenas o extranjeras que practiquen pesca deportiva, deberán siempre dar cumplimiento a las normas de administración pesquera que establece la presente ley.
+DEROGADO
 
 #### Artículo 105
 
-Mediante decreto del Ministerio, previo informe técnico de la Subsecretaría, se podrá establecer la obligatoriedad para quienes realicen pesca deportiva, de estar en posesión de una licencia que los habilite para pescar una o más especies, señalándose las áreas habilitadas, así como establecer el monto de los derechos para su obtención.
+DEROGADO
 
 #### Artículo 106
 
-Con el fin de orientar los campeonatos de pesca y caza submarina hacia un mayor respeto a la naturaleza e incentivar nuevas formas de competencia, las federaciones y organismos correspondientes deberán someter las bases de dichos campeonatos a la aprobación previa del Servicio.
+DEROGADO
 
 ## Título IX
 
@@ -1470,7 +1496,7 @@ Las personas que efectúen faenas de pesca artesanal sin estar inscritas en el r
 
 #### Artículo 121
 
-El que infringiere las normas sobre pesca deportiva será sancionado con una multa de una a treinta unidades tributarias mensuales.
+DEROGADO
 
 ### Párrafo 2°
 
@@ -1675,6 +1701,22 @@ DELITOS ESPECIALES Y PENALIDADES
 #### Artículo 135
 
 El que capturare o extrajere recursos hidrobiológicos utilizando elementos explosivos, tóxicos u otros cuya naturaleza provoque daño a esos recursos o a su medio, será sancionado con multa de 50 a 300 unidades tributarias mensuales, y con la pena de presidio menor en su grado mínimo.
+
+#### Artículo 135 bis
+
+El que dé muerte o realice actividades de caza o captura de un ejemplar de cualquier especie de cetáceos será sancionado con la pena de presidio mayor en su grado mínimo y comiso, sin perjuicio de las sanciones administrativas que correspondan de conformidad a la ley. Asimismo, el que tenga, posea, transporte, desembarque, elabore o efectúe cualquier proceso de transformación, así como comercialice o almacene estas especies vivas o muertas o parte de éstas será sancionado con la pena de comiso y presidio menor en su grado medio, sin perjuicio de las sanciones administrativas que correspondan de conformidad a la ley.
+
+No tendrá responsabilidad penal el que con fines de investigación y rehabilitación, mantenga en cautiverio, posea o transporte ejemplares vivos, siempre que cuente con un permiso temporal y específico otorgado por la Subsecretaría o el Servicio, según corresponda.
+
+Asimismo, no tendrá responsabilidad penal, el que tenga, posea o transporte ejemplares muertos, partes de éstos o sus derivados, siempre que cuente con un permiso otorgado por el Servicio. Dicha autorización sólo podrá ser otorgada a instituciones de educación reconocidas por el Estado, museos y centros de investigación y conservación marina ubicados en el territorio nacional que tengan fines de docencia, investigación, depósito o exhibición.
+
+No constituirá delito la muerte accidental de los ejemplares de cetáceos siempre que se acredite el cumplimiento de las normas de seguridad emanadas de las autoridades competentes y lo establecido en la ley. Éstas deberán referirse específicamente a cómo evitar colisiones en áreas determinadas.
+
+#### Artículo 135 ter
+
+Las naves que circulen en espacios marítimos de soberanía y jurisdicción nacional y las aeronaves que sobrevuelen sobre dichos espacios que desarrollen actividades de avistamiento y observación deberán dar cumplimiento a lo establecido en el artículo 13 E. El incumplimiento de estas obligaciones será sancionado de conformidad a lo señalado en el artículo 116.
+
+Lo anterior es sin perjuicio del cumplimiento de las normas sobre seguridad marítima y aérea, y sobre navegación y aeronavegación establecidas por la Dirección General del Territorio Marítimo y Marina Mercante y por la Dirección General de Aeronáutica Civil, según corresponda.
 
 #### Artículo 136
 
@@ -2151,6 +2193,8 @@ Los recursos que contemple este Fondo para cada año calendario deberán distrib
 Para la administración del Fondo, la Subsecretaría de Pesca proveerá los recursos necesarios.
 
 El Fondo se financiará con cargo a rentas generales de la Nación.
+
+Asimismo, el Fondo tendrá por objeto financiar proyectos de investigación sobre especies hidrobiológicas de importancia para la pesca recreativa, restauración de hábitat y programas de promoción, fomento, administración, vigilancia y fiscalización de las actividades de pesca recreativa.
 
 ARTICULOS TRANSITORIOS
 

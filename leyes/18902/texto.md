@@ -14,7 +14,7 @@ Su domicilio será la ciudad de Santiago.
 
 #### Artículo 2º
 
-Corresponderá a la Superintendencia de Servicios Sanitarios la fiscalización de los prestadores de servicios sanitarios, del cumplimiento de las normas relativas a servicios sanitarios y el control de los residuos líquidos industriales, pudiendo al efecto, de oficio o a petición de cualquier interesado, inspeccionar las obras de infraestructura sanitaria que se efectúen por las prestadoras, tomando conocimiento de los estudios que le sirven de base.
+Corresponderá a la Superintendencia de Servicios Sanitarios la fiscalización de los prestadores de servicios sanitarios, del cumplimiento de las normas relativas a servicios sanitarios y el control de los residuos líquidos industriales que se encuentren vinculados a las prestaciones o servicios de las empresas sanitarias, pudiendo al efecto, de oficio o a petición de cualquier interesado, inspeccionar las obras de infraestructura sanitaria que se efectúen por las prestadoras, tomando conocimiento de los estudios que le sirven de base.
 
 ## Título II
 

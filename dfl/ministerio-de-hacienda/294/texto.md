@@ -10,7 +10,7 @@ Objeto
 
 #### Artículo 1
 
-° El Ministerio de Agricultura será la Secretaría de Estado encargada de fomentar, orientar y coordinar las industrias agropecuaria y pesquera del país. Su acción estará encaminada, fundamentalmente, a obtener el aumento de la producción nacional; la conservación, protección y acrecentamiento de los recursos naturales renovables y el mejoramiento de las condiciones de nutrición del pueblo.
+° El Ministerio de Agricultura será la Secretaría de Estado encargada de fomentar, orientar y coordinar las industrias agropecuaria y pesquera del país. Su acción estará encaminada, fundamentalmente, a obtener el aumento de la producción nacional; la protección de los recursos naturales renovables del ámbito silvoagropecuario, sin perjuicio de las atribuciones del Ministerio del Medio Ambiente, y el mejoramiento de las condiciones de nutrición del pueblo.
 
 ## Título II
 

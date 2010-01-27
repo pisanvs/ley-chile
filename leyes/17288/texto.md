@@ -260,13 +260,15 @@ De los Santuarios de la Naturaleza e Investigaciones Científicas
 
 Son santuarios de la naturaleza todos aquellos sitios terrestres o marinos que ofrezcan posibilidades especiales para estudios e investigaciones geológicas, paleontológicas, zoológicas, botánicas o de ecología, o que posean formaciones naturales, cuyas conservaciones sea de interés para la ciencia o para el Estado.
 
-Los sitios mencionados que fueren declarados santuarios de la naturaleza quedarán bajo la custodia del Consejo de Monumentos Nacionales, el cual se hará asesorar para los efectos por especialistas en ciencias naturales.
+Los sitios mencionados que fueren declarados santuarios de la naturaleza quedarán bajo la custodia del Ministerio del Medio Ambiente, el cual se hará asesorar para los efectos por especialistas en ciencias naturales.
 
-No se podrá, sin la autorización previa del Consejo, iniciar en ellos trabajos de construcción o excavación, ni desarrollar actividades como pesca, caza, explotación rural o cualquiera otra actividad que pudiera alterar su estado natural.
+No se podrá, sin la autorización previa del Servicio, iniciar en ellos trabajos de construcción o excavación, ni desarrollar actividades como pesca, caza, explotación rural o cualquiera otra actividad que pudiera alterar su estado natural.
 
-Si estos sitios estuvieren situados en terrenos particulares, sus dueños deberán velar por su debida protección, denunciando ante el Consejo los daños que por causas ajenas a su voluntad se hubieren producido en ellos.
+Si estos sitios estuvieren situados en terrenos particulares, sus dueños deberán velar por su debida protección, denunciando ante el Servicio los daños que por causas ajenas a su voluntad se hubieren producido en ellos.
 
-Se exceptúan de esta disposición aquellas áreas que en virtud de atribución propia, el Ministerio de Agricultura declare Parques Nacionales o tengan tal calidad a la fecha de publicación de esta ley.
+La declaración de santuario de la naturaleza deberá contar siempre con informe previo del Consejo de Monumentos Nacionales.
+
+Se exceptúan de esta disposición aquellas áreas que en virtud de atribución propia, el Ministerio del Medio Ambiente declare Parques Nacionales o tengan tal calidad a la fecha de publicación de esta ley.
 
 La infracción a lo dispuesto en este artículo será sancionada con multa de cincuenta a quinientas unidades tributarias mensuales.
 
