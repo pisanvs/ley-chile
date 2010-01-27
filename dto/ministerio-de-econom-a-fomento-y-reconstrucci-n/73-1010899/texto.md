@@ -10,7 +10,7 @@ Decreto:
 
 304 ch. 68 (ex 34 70ch), electrodos para soldar al arco manual. Terminología y clasificación.
 
-305 ch. 68 (ex 34 71ch), electrodos para soldar al arco manual aceros al carbono y aceros de baja aleación. Códigos de designación o identificación.
+305 ch. 68 (ex 34 71ch) ANULADA Y REEMPLAZADA.
 
 2º) El presente decreto deja sin efecto las normas INDITECNOR 34 -- 70ch) "Electrodos para soldar al arco. Terminología y Clasificación" y 34 -- 71ch "Electrodos revestidos para soldar al arco aceros al carbono y aceros de baja aleación: símbolos", declaradas Normas Oficiales de la República de Chile, por decreto 502, Ministerio de Economía de 19 de Julio de 1960.
 
