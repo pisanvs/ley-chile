@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN EXENTA N° 6.527, DE 02.12.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA.
+
+En el concurso público del Tercer Cuatrimestre de 2008, se ha asignado a FINIS TERRAE SOCIEDAD RADIODIFUSORA S.A., R.U.T. N° 86.597.200-8, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de Iquique, I Región, con las características técnicas siguientes: Potencia 1000 W; frecuencia 92,7 MHz; estudio ubicado en calle Félix de Amesti N° 124, Las Condes, Región Metropolitana, coordenadas geográficas 33° 24' 42" Latitud Sur; 70° 34' 45" Longitud Oeste (Datum Provisorio Sudamericano 1956); planta transmisora y sistema radiante ubicados en Cerro Tarapacá, Iquique, I Región, coordenadas geográficas 20° 20' 53" Latitud Sur, 70° 06' 23" Longitud Oeste (Datum Provisorio Sudamericano 1956); sistema radiante omnidireccional con polarización circular, arreglo de cuatro (4) anillos, con tilt eléctrico de 16° bajo la horizontal, ganancia máxima de 3,0 dBd y -16,1 dBd en el plano horizontal, altura del centro de radiación de 35 m; pérdidas en cables y conectores de 0,9 dB.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la Ley N° 18.168 General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+POR ORDEN DEL SUBSECRETARIO DE TELECOMUNICACIONES
+
+JEFE DEPARTAMENTO SERVICIOS DE RADIODIFUSIÓN
