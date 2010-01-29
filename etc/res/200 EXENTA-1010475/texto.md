@@ -42,7 +42,7 @@ Doña María Eugenia Wagner Brizzi, por un período de cuatro años.
 
 Don Hernán de Solminihac Tampier, por un período de seis años.
 
-5.- Establézcase como fecha de asunción del cargo de miembros integrantes titulares y suplentes del Panel de Expertos contemplado en la Ley N° 20.378, el 28 de enero de 2009.
+5.- Establézcase como fecha de asunción del cargo de miembros integrantes titulares y suplentes del Panel de Expertos contemplado en la Ley N° 20.378, el 28 de enero de 2010.
 
 6.- Infórmese a través de la página web del Ministerio de Transportes y Telecomunicaciones.
 
