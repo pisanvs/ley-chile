@@ -1,0 +1,3 @@
+Por resolución exenta Nº 4.344, de 29 de diciembre de 2009, de esta Subsecretaría, autorízase a MÓNICA PATRICIA LEIVA ASTUDILLO, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en sector rural Notuco s/nº, Chonchi, Chiloé, X Región, para elaborar en línea de cocido, fresco enfriado, ahumado, conserva y deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
