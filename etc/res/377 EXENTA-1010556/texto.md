@@ -1,0 +1,5 @@
+Por resolución exenta Nº 377, de 20 de enero de 2010, de esta Subsecretaría, rectifícase el extracto de la resolución exenta Nº 169, de 2010, de esta Subsecretaría, que reconoce la participación conjunta de los armadores CORPESCA S.A., PESQUERA SAN JOSÉ S.A., SOUTHPACIFIC KORP S.A., ARICA SEAFOODS PRODUCER S.A. en la unidad de pesquería Sardina española y Anchoveta, en el área marítima correspondiente a la XV, I y II Regiones, individualizada en la letra q) del artículo 2 de la ley 19.713, y sus modificaciones posteriores, para ejercer el límite máximo de captura por armador establecido en el decreto exento Nº 1.926, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de reemplazar la suma del mencionado extracto por la siguiente:
+
+Reconoce participación conjunta de armadores en la unidad de pesquería de Sardina española y Anchoveta, artículo 2 letra q) ley 19.713.
+
+Valparaíso, 20 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
