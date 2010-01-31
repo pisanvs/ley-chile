@@ -32,6 +32,8 @@ d) Que las naves que realizan esta actividad pesquera utilicen permanentemente, 
 
 e) Que dichas naves sean sometidas, conforme a la práctica internacional y a las recomendaciones de las organizaciones internacionales de conservación y de pesca, seguridad marítima y preservación del medio ambiente acuático, de las cuales Chile es Parte, a los mismos controles e inspecciones que se exigen a las embarcaciones nacionales.
 
+Cuando las naves pesqueras indicadas en el inciso primero utilicen naves que les presten servicios de apoyo logístico, avituallamiento o preparación de la pesca, tales como el transporte de personas, el transbordo o transporte de recursos hidrobiológicos o de productos derivados de éstos, combustibles, artes de pesca, insumos, o cualquier otro suministro, el acceso a puertos y servicios portuarios para las naves que proveen tales servicios será otorgado cuando las naves pesqueras cumplan con lo indicado en las letras a), b), c), d) y e) anteriores.
+
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.- María Soledad Alvear Valenzuela, Ministra de Relaciones Exteriores.- Michelle Bachelet Jeria, Ministra de Defensa Nacional.-
 
 Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Felipe Sandoval Precht, Subsecretario de Pesca.
