@@ -1,0 +1,3 @@
+Por resolución exenta Nº 378, de 20 de enero de 2010, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.235, de 1992, de esta Subsecretaría, sólo en cuanto autorizó a PESCA CHILE S.A. para realizar actividades pesqueras extractivas con la nave "Chomapi Maru", en el área marítima comprendida entre los paralelos 44°30' y 57° L.S., sobre el recurso hidrobiológico Alfonsino, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 20 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
