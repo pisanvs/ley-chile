@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2277 de 21 de diciembre de 2009, se expropió el lote de terreno Nº31, superficie 7.065 m2, rol de Avalúo 625-194, comuna de Tomé, para la obra "REPOSICION Y AMPLIACION RUTA 150, SECTOR LIRQUEN - QUEBRADA HONDA, PROVINCIA DE CONCEPCION, REGION DEL BIO BIO", VIII Región y se acordó el valor de la indemnización con su propietario ERNESTO HARALDO STUCK COSTER, ascendente a la cantidad de $18.751.733.-
+
+Fiscal del Ministerio de Obras Públicas.
