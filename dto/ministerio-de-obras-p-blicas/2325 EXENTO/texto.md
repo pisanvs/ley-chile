@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2325 de 28 de diciembre de 2009, se expropió el lote de terreno Nº10-E, superficie 45,81 m2., rol de avalúo Nº154-264, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", V Región, y se acordó el valor de la indemnización con su propietario don FELIPE RUBEN GALLARDO SAAVEDRA, ascendente a la cantidad de $435.828.-
+
+Fiscal del Ministerio de Obras Públicas.
