@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2339 de 28 de diciembre del 2009, se expropiaron los lotes de terrenos Nºs. 19-A y 20-A, superficie 3.996 y 4.445 m2., Rol Nº152-130 y 152-132, comuna de Licantén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTEN - VICHUQUEN TRAMO KM. 0,000000 AL KM. 15,372989", y se acordó el valor de indemnización con su propietaria MERCEDES ROSA CORDERO MARTINEZ Y OTROS, ascendente a la cantidad de $7.985.678.-
+
+Fiscal del Ministerio de Obras Públicas.
