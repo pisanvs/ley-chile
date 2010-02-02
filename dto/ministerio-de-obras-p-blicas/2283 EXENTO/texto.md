@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2283, de fecha 21 de diciembre del 2009, se expropió el lote de terreno Nº143, superficie 141 m2, Rol Nº178-84, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria SONIA MAGALI GARCIA DIAZ, ascendente a la cantidad de $74.350.-
+
+Fiscal del Ministerio de Obras Públicas.
