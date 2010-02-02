@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2367 de 31 de diciembre de 2009, se expropió el lote de terreno NO 66-D, superficie 4.060 m2., Rol Nº281-89, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria MARGARITA LASTENIA SEPULVEDA RIQUELME, ascendente a la cantidad de $5.627.198.-
+
+Fiscal del Ministerio de Obras Públicas.
