@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIÓN DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Por resolución exenta Nº 3.621 de 31 de diciembre de 2009 del Serviu Región de Antofagasta, se dispuso la expropiación de los inmuebles ubicados en la comuna de Antofagasta: 1) Pasaje Riquelme Nº 1558, Rol de Avalúo Nº 964-29, de propiedad de Karina Basualto Julio, inscrito a fojas 3.987 vta., Nº 4.568, año 2007 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, por un monto de indemnización provisoria de $5.012.500; 2) Pasaje Riquelme Nº 1580, Rol de Avalúo Nº 964-5, de propiedad de Rigoberto Carvajal Miranda, Adela Carvajal Miranda, Isabel Carvajal Miranda, Sylvia Carvajal Miranda, Pedro Carvajal Miranda y Petronila Carvajal Miranda, inscrito a fojas 1.465 vta., Nº 2041 año 1997 y a fojas 1.459 vta. Nº 1.622 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, por un monto de indemnización provisoria de $9.090.000; y 3) Calle Vergara Nº 3019, hoy Nº 2945, Rol de Avalúo Nº 964-18, de propiedad de Gloria Morales Silva, Elisa Morales Silva, María Morales Morales, Leonardo Morales Morales y Erick Morales Morales, inscrito a fojas 674, Nº 992 del año 1993 del Registro de Propiedad del Conservador de Bienes Raíces de Antofagasta, por un monto de indemnización provisoria de $4.526.000.
+
+Directora Serviu Región de Antofagasta.
