@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2329, de fecha 28 de diciembre del 2009, se expropió el lote de terreno Nº137, superficie 2.126 m2, Rol Nº177-13, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria AMANTINA GARCIA DIAZ, ascendente a la cantidad de $1.200.400.-
+
+Fiscal del Ministerio de Obras Públicas.
