@@ -1,0 +1,3 @@
+Por Decreto MOP Nº2365 de fecha 31 de diciembre del 2009, se expropió el lote de terreno Nº42-A, superficie 52 m2, Rol Nº1171-4, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo II, Km.10,50000 al Km. 18,60807", VIII Región, y se acordó el valor de indemnización con su propietaria LIDIA DEL CARMEN MOENA SALGADO, ascendente a la cantidad de $2.383.000.- para el lote Nº42-A.
+
+Fiscal del Ministerio de Obras Públicas.
