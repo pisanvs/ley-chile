@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2279 de 21 de diciembre de 2009, se expropió el lote de terreno Nº76-D, superficie 418 m2., rol de avalúo Nº46-6, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", V Región, y se acordó el valor de la indemnización con su propietario don JAIME DEL CARMEN DELGADO BRUNA, ascendente a la cantidad de $14.459.101.-
+
+Fiscal del Mínisterio de Obras Públicas.
