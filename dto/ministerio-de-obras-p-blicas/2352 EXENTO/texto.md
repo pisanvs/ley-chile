@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº2352 de fecha 31 de diciembre del 2009, se expropió el lote de terreno Nº10-D, superficie 43,17 m2, Rol Nº154-263, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietario CRISTOBAL PATRICIO OYANADEL SAAVEDRA, ascendente a la cantidad de $425.636.- para el lote Nº10-D.
+
+Fiscal del Ministerio de Obras Públicas.
