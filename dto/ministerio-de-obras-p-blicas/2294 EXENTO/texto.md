@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2294, de fecha 21 de diciembre del 2009, se expropió el lote de terreno Nº169, superficie 89 m2, Rol Nº177-68, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario GASTON GUSTAVO GARRIDO HUENTEO, ascendente a la cantidad de $335.600.-
+
+Fiscal del Ministerio de Obras Públicas.
