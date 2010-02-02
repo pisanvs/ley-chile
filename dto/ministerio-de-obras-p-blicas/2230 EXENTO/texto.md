@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2230, de fecha 28 de diciembre del 2009, se expropió el lote de terreno Nº163, superficie 720 m2, Rol Nº178-97 - en trámite, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario HECTOR FERNANDO BERNAL MORAGA, ascendente a la cantidad de $720.581.-
+
+Fiscal del Ministerio de Obras Púbicas.
