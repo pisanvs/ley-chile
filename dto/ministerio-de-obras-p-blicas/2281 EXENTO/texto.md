@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2281 de 21 de diciembre de 2009, se expropiaron los lotes de terrenos Nºs. 19 y 21, superficies 186 y 1.589 m2, rol de Avalúo 609-33, comuna de Mulchén, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BIO-BIO", VIII Región y se acordó el valor de la indemnización con su propietaria AMELIA ELISA URRUTIA CONCHA, ascendente a la cantidad de $2.823.368.-
+
+Fiscal del Ministerio de Obras Públícas.
