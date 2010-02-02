@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2369 de fecha 31 de diciembre del 2009, se expropió el lote de terreno Nº11, superficie 634 m2, Rol Nº168-4, Comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000, Región del Bío Bío", y se acordó el valor de indemnización con su propietario PATRICIO EDMUNDO PARRA RETAMAL, ascendente a la cantidad de $5.408.146.- para el lote Nº11.
+
+Fiscal dei Ministerio de Obras Públicas.
