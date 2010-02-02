@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2371, de fecha 31 de diciembre del 2009, se expropiaron los lotes de terreno Nºs 136-A y 136-C, superficies 596 y 2.637 m2 respectivamente, Rol Nº170-563, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario LEONEL REMATO FERNANDEZ CARMONA, ascendente a la cantidad de $12.885.400.-
+
+Fiscal del Ministerio de Obras Públicas.
