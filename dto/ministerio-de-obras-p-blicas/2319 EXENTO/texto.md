@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2319, de fecha 28 de diciembre del 2009, se expropió el lote de terreno Nº37, superficie 161 m2, Rol Nº938-26, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I", y se acordó el valor de indemnización con su propietario HECTOR GUILLERMO ROJAS JIMENEZ Y OTROS, ascendente a la cantidad de $506.957.-
+
+Fiscal del Ministerio de Obras Públicas.
