@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2358 de fecha 31 de diciembre del 2009, se expropiaron los lotes de terreno Nºs. 48 y 48-A, superficies 104 y 70 m2, Rol Nº1169-27, Comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000, Región del Bío Bío", y se acordó el valor de indemnización con su propietaria PAULINA LUCIA FRIAS LOPEZ, ascendente a la cantidad de $1.549.582.- para los lotes Nºs. 48 y 48-A.
+
+Fiscal del Ministerio de Obras Públicas.
