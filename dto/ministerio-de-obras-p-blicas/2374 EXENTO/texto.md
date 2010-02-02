@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2374 de 31 de diciembre de 2009, se expropió el lote de terreno Nº101-B superficie 1.690 m2., Rol Nº276-99, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietario JOSE ENRIQUE REYES JARA, ascendente a la cantidad de $17.465.040.-
+
+Fiscal del Ministerio de Obras Públicas.
