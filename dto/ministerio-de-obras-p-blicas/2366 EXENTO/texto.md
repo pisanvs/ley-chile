@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2366 de techa 31 de diciembre de 2009, se expropió el lote de terreno Nº44, superficie 297 m2, rol Nº633-29, comuna de Molina, para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas - Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15 Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000" VII Región y se acordó el valor de la indemnización con su propietario SERAFIN RENE ARENAS GARCIA, ascendente a la cantidad de $4.074.328.
+
+Fiscal del Ministerio de Obras Públicas.
