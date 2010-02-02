@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2373 de 31 de diciembre de 2009, se expropió el lote de terreno Nº107-B superficie 238 m2., Rol Nº276-90, comuna de San Javier, VII Región, ºCAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria AIDA DOLORES VALDERRAMA AREVALO, ascendente a la cantidad de $13.071.958.-
+
+Fiscal del Ministerio de Obras Públicas.
