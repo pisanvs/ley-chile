@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2372 de fecha 31 de diciembre de 2009, se expropió el lote de terreno Nº141, superficie 1.259 m2, rol Nº154-116, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo Km. 3,56000 al Km. 19,47571", Sexta Región y se acordó el valor de la indemnización con su propietario ALIRO DEL CARMEN ABARCA OLIVARES, ascendente a la cantidad de $12.024.733.-
+
+Fiscal del Ministerio de Obras Públicas.
