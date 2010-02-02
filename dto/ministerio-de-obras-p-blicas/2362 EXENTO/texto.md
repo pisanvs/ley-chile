@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2362 de 31 de diciembre de 2009, se expropió el lote de terreno NO 120-13, superficie 393 m2., Rol Nº275-101, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietario JUAN FRANCISCO GONZALEZ AREVALO, ascendente a la cantidad de $1.490.574.-
+
+Fiscal del Ministerio de Obras Públicas.
