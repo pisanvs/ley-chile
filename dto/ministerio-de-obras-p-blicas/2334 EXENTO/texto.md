@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2334 de 28 de diciembre de 2009, se expropió el lote de terreno Nº10-C, superficie 41,29 m2., rol de avalúo Nº154-265, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500", V Región, y se acordó el valor de la indemnización con su propietario doña MARIA DOLORES BUSTAMANTE BUSTAMANTE, ascendente a la cantidad de $417.852.-
+
+Fiscal del Ministerio de Obras Públicas.
