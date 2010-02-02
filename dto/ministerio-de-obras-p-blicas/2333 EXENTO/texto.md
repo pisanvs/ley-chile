@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº2333, de fecha 28 de diciembre del 2009, se expropió el lote de terreno Nº49, superficie 156 m2, Rol Nº921-2, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa 1", y se acordó el valor de indemnización con su propietaria FRESIA AMERICA ZUARES, ascendente a la cantidad de $635.533.-
+
+Fiscal del Ministerio de Obras Públicas.
