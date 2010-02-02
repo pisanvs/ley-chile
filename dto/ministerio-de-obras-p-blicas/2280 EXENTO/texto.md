@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2280 de 21 de diciembre de 2009, se expropió el lote de terreno Nº66, superficie 136 m2, rol de Avalúo 434-176, comuna de Illapel, para la obra "Mejoramiento Ruta D-805, Illapel - Caren", IV Región y se acordó el valor de la indemnización con su propietario GERMAN DEL CARMEN PIÑONES VILLALOBOS, ascendente a la cantidad de $684.200.-
+
+Fiscal del Ministerio de Obras Públicas.
