@@ -18,8 +18,6 @@ Decreto:
 
 Establécese una veda extractiva para el recurso Lobo marino común Otaria flavescens, en todo el litoral de la República, por el término de 3 años contados desde la fecha de publicación del presente Decreto en el Diario Oficial.
 
-> **Nota.** El Decreto 115 Exento, Economía, publicado el 03.02.2012, modifica la presente norma que establece una veda extractiva para el recurso Lobo marino común Otaria flavescens, en todo el litoral de la República, por el término de 3 años, en los términos indicados en el decreto extractado.
-
 #### Artículo 2º
 
 Durante la vigencia de la presente veda extractiva, se prohíbe además, la tenencia, posesión, transporte, desembarque, elaboración o cualquier proceso de transformación, así como su comercialización o almacenamiento, sea de ejemplares enteros o partes de éstos, provenientes de actividades extractivas.
