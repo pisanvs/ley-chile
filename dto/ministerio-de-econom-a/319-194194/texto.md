@@ -224,6 +224,8 @@ l) procedimiento de control de los tratamientos terapéuticos y profilácticos, 
 
 m) Operación de viveros o centros de acopio.
 
+En virtud de las actividades establecidas en las letras f) y l), los titulares de los centros de cultivo deberán informar mensualmente al Servicio la utilización de vacunas, antimicrobianos y de todo otro tipo de tratamientos terapéuticos. Asimismo, los titulares deberán informar, en la forma que establezcan los programas sanitarios antes señalados, los resultados de los tratamientos aplicados.
+
 #### Artículo 13º
 
 Los Programas Sanitarios Específicos comprenderán:
@@ -302,9 +304,13 @@ q) aplicación de medidas profilácticas y terapéuticas, disponiendo las condic
 
 r) procedimientos de siembra, cosecha y descanso, para los ejemplares, coordinado entre los centros de cultivo que comparten una misma área de manejo sanitario o zona, según corresponda.
 
+s) número máximo de ejemplares a sembrar por unidad de cultivo, considerando una tasa de mortalidad esperada, peso promedio a la cosecha y profundidad útil de las estructuras de cultivo.
+
 #### Artículo 16º
 
 El Servicio deberá emitir informes semestrales en base al análisis de los datos y resultados obtenidos a través de la aplicación de los programas sanitarios específicos que se hubieren dictado, los que serán remitidos a la Subsecretaría.
+
+Asimismo el Servicio deberá anualmente emitir un informe que dé cuenta del uso de antimicrobianos en la acuicultura. Dicho informe será público y estará a disposición de los interesados en el sitio electrónico del Servicio.
 
 #### Artículo 17º
 
@@ -470,6 +476,8 @@ No podrán trasladarse peces, en ningún estado de desarrollo entre centros de m
 
 Todo traslado de peces para siembra en el mar requerirá un certificado del estado sanitario de los ejemplares conforme lo indicado en el artículo 75.
 
+La siembra deberá ser a número final. Prohíbese el desdoble de ejemplares entre jaulas de centros de cultivo, salvo cuando se establezca por resolución del Servicio como una medida de emergencia para el control de una enfermedad de alto riesgo.
+
 #### Artículo 24 ter
 
 Cada doce meses, los centros de cultivo de peces ubicados en lagos deberán retirar todos los ejemplares por el plazo mínimo de 30 días o el que se haya dispuesto en el programa sanitario específico que corresponda.
@@ -482,7 +490,35 @@ En los centros de cultivo se deberá mantener registro de los procedimientos rut
 
 Todos los procedimientos de desinfección deberán usar agentes de limpieza y desinfección registrados por el Ministerio de Salud y autorizados por la Dirección General del Territorio Marítimo y cumplir la normativa vigente sobre emisión. Los productos de limpieza y desinfectantes deberán mantenerse en adecuadas condiciones de almacenamiento, rotulados y debidamente cerrados mientras no se usan. Además, deberá mantenerse archivada la ficha técnica de los detergentes y desinfectantes en uso, tanto para consulta del personal técnico de la empresa como de funcionarios del Servicio que inspeccionen el centro. Asimismo, deberá mantenerse registros de los proveedores y fechas de adquisición de detergentes y desinfectantes.
 
-La limpieza y desinfección del centro de cultivo posterior a la cosecha y de los medios de transporte de los ejemplares, deberá ser certificada por el Servicio, de conformidad con el programa sanitario general de limpieza y desinfección. Dicha certificación tendrá una vigencia de un mes.
+La limpieza y desinfección exigida en el presente reglamento, deberán ser realizadas de conformidad con el programa sanitario general respectivo, por personas naturales o jurídicas que cumplan los siguientes requisitos:
+
+a) Contar con personal capacitado cuyas labores deberán estar supervisadas por un "técnico responsable en terreno".
+
+b) Contar con equipos y materiales para llevar a cabo los procedimientos de desinfección previstos en los programas sanitarios.
+
+c) Las dependencias de quienes presten servicios de limpieza y desinfección, deberán cumplir con las siguientes especificaciones:
+
+i. Dependencias de trabajo de uso exclusivo;
+
+ii. Construcción con piso y paredes sólidas, lavables y no porosas;
+
+iii. Conexión a la red de alcantarillado;
+
+iv. disponer de agua corriente fría y caliente;
+
+v. Disponer de una sala exclusiva para almacenar los equipos y materiales desinfectados;
+
+vi. Disponer de una bodega donde se almacenen los detergentes y desinfectantes.
+
+En los casos en que el lavado, limpieza y desinfección se realice en los centros de cultivo sin la prestación de servicios de terceros, se deberá contar con un profesional responsable de las actividades.
+
+Los equipos e implementos utilizados en la faena de limpieza y desinfección deberán ser lavados, enjuagados y desinfectados con agua dulce al término de cada faena. Debe mantenerse registro de los procedimientos efectuados, del personal involucrado y archivo de los documentos tributarios por la compra de detergentes y desinfectantes, los cuales deberán estar a disposición del Servicio.
+
+Un programa sanitario establecerá los registros que deberán llevar quienes realicen desinfección.
+
+Una vez terminada la faena de limpieza, lavado y desinfección, el prestador de servicios deberá entregar un certificado foliado y en triplicado, emitido por el responsable técnico. El original deberá quedar en la empresa a la que se le prestó el servicio, la segunda copia debe entregarse al Servicio y la tercera copia debe quedar archivada en la empresa que realizó la faena de limpieza, lavado y desinfección. En los casos en que el lavado, limpieza y desinfección haya sido efectuada en el centro de cultivo sin la prestación de servicios de terceros, deberá quedar registro de dicha actividad, lo que será objeto de fiscalización por parte del Servicio.
+
+El certificado emitido para los medios de transporte tendrá una validez exclusiva para el traslado por el cual se está desinfectando. Terminado dicho traslado, el medio de transporte deberá proceder a una nueva faena de limpieza, lavado y desinfección al cual se le deberá adjuntar su respectivo certificado.
 
 ## Título VI
 
@@ -684,7 +720,7 @@ l) Los ejemplares que deban ser transportados vivos, no deberán ser alimentados
 
 Deberán desinfectarse los embalajes y todos los elementos empleados en el transporte.
 
-Todos los medios de transporte que sean utilizados para trasladar especies hidrobiológicas desde o hacia centros de cultivo, viveros, centros de matanza o plantas de proceso, deberán ser limpiados y desinfectados en forma previa a la carga y con posterioridad a la descarga, conforme lo disponga el programa sanitario correspondiente. El cumplimiento de dichas condiciones se acreditará con un certificado de desinfección emitido por el Servicio, de conformidad con el programa sanitario general de limpieza y desinfección. Dicha certificación tendrá una vigencia de un mes.
+Todos los medios de transporte que sean utilizados para trasladar especies hidrobiológicas desde o hacia centros de cultivo, viveros, centros de matanza o plantas de proceso, deberán ser limpiados y desinfectados en forma previa a la carga y con posterioridad a la descarga, conforme lo disponga el programa sanitario correspondiente.
 
 El procedimiento de limpieza y desinfección de los medios de transporte y de los contendedores utilizados, se realizará conforme al programa sanitario general correspondiente, el que deberá prever tres niveles de limpieza y desinfección como mínimo, atendiendo el riesgo. Se exigirá siempre el mayor nivel de limpieza y desinfección al ingreso y salida de zonas infectadas y al transporte de reproductores o smolts que se realice en un medio de transporte utilizado previamente en el transporte de peces de cosecha o mortalidades.
 
@@ -735,6 +771,10 @@ El Servicio fiscalizará el uso, en especies hidrobiológicas, de productos farm
 #### Artículo 57º
 
 Los tratamientos terapéuticos y profilácticos aplicados a poblaciones de especies hidrobiológicas deberán estar avalados por la prescripción escrita de un médico veterinario.
+
+En el caso de los tratamientos terapéuticos, su aplicación requerirá un diagnóstico clínico previo realizado por el profesional respectivo. Asimismo, previo a la aplicación de antimicrobianos, deberán obtenerse muestras para la posterior confirmación del diagnóstico mediante análisis de laboratorios. La aplicación de antimicrobianos podrá realizarse encontrándose pendientes los resultados de los análisis.
+
+Prohíbese la aplicación de antimicrobianos con fines profilácticos.
 
 #### Artículo 58º
 
