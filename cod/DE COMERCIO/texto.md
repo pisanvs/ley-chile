@@ -8532,7 +8532,7 @@ En la primera junta se tratará especialmente sobre las siguientes materias:
 
 #### Artículo 109°
 
-Si de la cuenta presentada por el síndico apareciere que el producto probable de la realización del activo de la quiebra no excederá de mil unidades de fomento, se procederá a la realización sumaria del activo. En este caso, el síndico provisional pasará a tener el carácter de definitivo y liquidará el activo en la forma más conveniente para los intereses de la masa, en un plazo no superior a seis meses.
+Si de la cuenta presentada por el síndico apareciere que el producto probable de la realización del activo de la quiebra no excederá de 2.000 unidades de fomento, se procederá a la realización sumaria del activo. En este caso, el síndico provisional pasará a tener el carácter de definitivo y liquidará el activo en la forma más conveniente para los intereses de la masa, en un plazo no superior a seis meses.
 
 Si el fallido o cualquiera de los acreedores no estuviere de acuerdo con la estimación del valor del activo presentada por el síndico, deberá así manifestarlo en la misma junta. Sobre esta objeción el tribunal resolverá a más tardar dentro del quinto día, pudiendo solicitar informe pericial si lo estimare necesario. En contra de la resolución que se pronuncie sobre el valor probable del activo, no procederá recurso alguno.
 
@@ -9428,9 +9428,11 @@ Transcurrido un año desde la notificación de la declaratoria de quiebra, el fa
 
 1.- Que no se hayan deducido acciones criminales en su contra dentro de dicho plazo;
 
-2.- DEROGADO.
+2.- Derogado.
 
 3.- Que, habiendo sido condenado el fallido en alguno de dichos juicios criminales, hubiere cumplido las penas y satisfecho íntegramente las deudas.
+
+A todos los deudores comprendidos en el artículo 1° del ARTÍCULO UNDÉCIMO de la ley que fija normas especiales para empresas de menor tamaño se les aplicará lo dispuesto en este artículo aunque se encuentren comprendidos en el artículo 41 y el plazo de la rehabilitación será de seis meses contado desde que se hubiere declarado la quiebra.
 
 La solicitud de rehabilitación se notificará en igual forma que la declaratoria de quiebra.
 
