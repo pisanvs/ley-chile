@@ -1,0 +1,3 @@
+Por resolución exenta Nº 421, de esta Subsecretaría, autorízase a MARES DEL SUR S.p.A. para iniciar actividades pesqueras de transformación, instalar y operar una planta en calle Volcán Lascar Nº 781, Parque Industrial Lo Boza, Pudahuel, Región Metropolitana, para elaborar en líneas de Fresco-enfriado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 22 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
