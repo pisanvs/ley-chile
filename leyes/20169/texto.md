@@ -52,7 +52,9 @@ g) El ejercicio manifiestamente abusivo de acciones judiciales con la finalidad 
 
 h) La imposición por parte de una empresa a un proveedor, de condiciones de contratación para sí, basadas en aquellas ofrecidas por ese mismo proveedor a empresas competidoras de la primera, para efectos de obtener mejores condiciones que éstas; o, la imposición a un proveedor de condiciones de contratación con empresas competidoras de la empresa en cuestión, basadas en aquellas ofrecidas a ésta. A modo de ejemplo, se incluirá bajo esta figura la presión verbal o escrita, que ejerza una empresa a un proveedor de menor tamaño cuyos ingresos dependen significativamente de las compras de aquélla, para obtener un descuento calculado a partir del precio pactado por ese mismo proveedor con algún competidor de la primera empresa.
 
-i) El establecimiento o aplicación de cláusulas contractuales o conductas abusivas en desmedro de los proveedores, el incumplimiento sistemático de deberes contractuales contraídos con ellos o de los plazos dispuestos en la ley Nº 19.983 para el cumplimiento de la obligación de pago del saldo insoluto contenido en la factura.
+i) El establecimiento de cláusulas contractuales o conductas abusivas en desmedro de los proveedores o el incumplimiento sistemático de deberes contractuales contraídos con ellos.
+
+Sin perjuicio de lo anterior y cualquiera sea la naturaleza jurídica del deudor, la empresa de menor tamaño afectada podrá demandar el monto de los perjuicios que deriven del incumplimiento, de acuerdo a las normas generales. La acción podrá ser ejercida por el afectado personalmente, en demanda colectiva o representado por la entidad gremial que les agrupe, todo ello de acuerdo a lo dispuesto en el ARTÍCULO NOVENO números dos al cinco de la ley que fija normas especiales para empresas de menor tamaño
 
 ## Capítulo III
 

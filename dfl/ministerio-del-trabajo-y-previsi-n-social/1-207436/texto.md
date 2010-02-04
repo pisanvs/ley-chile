@@ -1782,7 +1782,7 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 5.- las obligaciones y prohibiciones a que estén sujetos los trabajadores;
 
-6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias;
+6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
 
 7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
 
@@ -5636,25 +5636,41 @@ La fiscalización del cumplimiento de la legislación laboral y su interpretaci�
 
 Los funcionarios públicos deberán informar a la Inspección del Trabajo respectiva, las infracciones a la legislación laboral de que tomen conocimiento en el ejercicio de su cargo.
 
+#### Artículo 505 bis
+
+Para los efectos de este Código y sus leyes complementarias, los empleadores se clasificarán en micro, pequeña, mediana y gran empresa, en función del número de trabajadores.
+
+Se entenderá por micro empresa aquella que tuviere contratados de 1 a 9 trabajadores, pequeña empresa aquella que tuviere contratados de 10 a 49 trabajadores, mediana empresa aquella que tuviere contratados de 50 a 199 trabajadores y gran empresa aquella que tuviere contratados 200 trabajadores o más.
+
 #### Artículo 506
 
-Las infracciones a este Código y a sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas con multa de una a veinte unidades tributarias mensuales, según la gravedad de la infracción.
+Las infracciones a este Código y sus leyes complementarias, que no tengan señalada una sanción especial, serán sancionadas de conformidad a lo dispuesto en los incisos siguientes, según la gravedad de la infracción.
 
-Asimismo, si el empleador tuviere contratados cincuenta o más trabajadores, las multas aplicables ascenderán de dos a cuarenta unidades tributarias mensuales.
+Para la micro empresa y la pequeña empresa, la sanción ascenderá de 1 a 10 unidades tributarias mensuales.
 
-Con todo, si el empleador tuviere contratados 200 o más trabajadores, las multas aplicables ascenderán de tres a sesenta unidades tributarias mensuales.
+Tratándose de medianas empresas, la sanción ascenderá de 2 a 40 unidades tributarias mensuales.
 
-En el caso de las multas especiales que establece este Código, su rango se duplicará o triplicará, según corresponda, si se dan las condiciones establecidas en los incisos segundo y tercero de este artículo.
+Tratándose de grandes empresas, la sanción ascenderá de 3 a 60 unidades tributarias mensuales.
 
-No obstante lo anterior, si un empleador tuviere contratados nueve o menos trabajadores, el Inspector del Trabajo respectivo podrá, si lo estima pertinente, autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de la multa impuesta por la asistencia obligatoria a programas de capacitación dictados por la Dirección del Trabajo, los que, en todo caso, no podrán tener una duración superior a dos semanas.
+En el caso de las multas especiales que establece este Código, su rango se podrá duplicar y triplicar, según corresponda, si se dan las condiciones establecidas en los incisos tercero y cuarto de este artículo, respectivamente y de acuerdo a la normativa aplicable por la Dirección del Trabajo.
 
-Autorizada la sustitución, si el empleador no cumpliere con su obligación de asistir a dichos programas dentro del plazo de dos meses, procederá la aplicación de la multa originalmente impuesta, aumentada en un ciento por ciento.
+La infracción a las normas sobre fuero sindical se sancionará con multa de 14 a 70 unidades tributarias mensuales.
 
-Tratándose de empresas de veinticinco trabajadores o menos, la Dirección del Trabajo podrá autorizar, a solicitud del afectado, y sólo por una vez en el año, la sustitución de la multa impuesta por infracción a normas de higiene y seguridad, por la incorporación en un programa de asistencia al cumplimiento, en el que se acredite la corrección de la o las infracciones que dieron origen a la sanción y la puesta en marcha de un sistema de gestión de seguridad y salud en el trabajo. Dicho programa deberá implementarse con la asistencia técnica del Organismo Administrador de la ley Nº 16.744, al que se encuentre afiliada o adherida la empresa infractora y deberá ser presentado para su aprobación por la Dirección del Trabajo, debiendo mantenerse permanentemente a su disposición en los lugares de trabajo.
+#### Artículo 506 bis
 
-Las infracciones a las normas sobre fuero sindical se sancionarán con multa a beneficio fiscal, de 14 a 70 unidades tributarias mensuales.
+El inspector del trabajo que constate en una micro o pequeña empresa una infracción legal o reglamentaria que no ponga en riesgo inminente la seguridad o la salud de los trabajadores podrá conceder un plazo de, a lo menos, cinco días hábiles para dar cumplimiento a las normas respectivas.
 
-> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
+#### Artículo 506 ter
+
+Tratándose de micro y pequeñas empresas, y en los casos en que el afectado no hubiere recurrido de conformidad a los artículos 503 y 511 de este Código, el inspector del trabajo respectivo autorizará, a solicitud del sancionado, y sólo por una vez en el año respecto de la misma infracción, la sustitución de la multa impuesta por alguna de las modalidades siguientes:
+
+1. Si la multa impuesta es por infracción a normas de higiene y seguridad, por la incorporación en un programa de asistencia al cumplimiento, en el que se acredite la corrección de la o las infracciones que dieron origen a la sanción y la puesta en marcha de un sistema de gestión de seguridad y salud en el trabajo. Dicho programa deberá implementarse con la asistencia técnica del organismo administrador de la ley Nº 16.744, al que se encuentre afiliada o adherida la empresa infractora y deberá ser presentado para su aprobación por la Dirección del Trabajo, debiendo mantenerse permanentemente a su disposición en los lugares de trabajo. La presente disposición será igualmente aplicada por la autoridad sanitaria que corresponda, en aquellos casos en que sea ésta quien aplique la sanción.
+
+2. En el caso de multas no comprendidas en el número anterior, y previa acreditación de la corrección, de la o las infracciones que dieron origen a la sanción, por la asistencia obligatoria del titular o representante legal de la empresa de menor tamaño, o de los trabajadores vinculados a las funciones de administración de recursos humanos que él designe a programas de capacitación dictados por la Dirección del Trabajo, los que tendrán una duración máxima de dos semanas.
+
+La solicitud de sustitución deberá presentarse dentro del plazo de treinta días de notificada la resolución de multa administrativa.
+
+Autorizada la sustitución de la multa de conformidad a lo dispuesto precedentemente, si el empleador no cumpliere con su obligación de incorporarse en un programa de asistencia al cumplimiento o de asistencia a programas de capacitación, según corresponda, en el plazo de 60 días, procederá al aumento de la multa original, el que no podrá exceder de un 25% de su valor.
 
 #### Artículo 507
 
@@ -5694,15 +5710,13 @@ Con todo, la interposición de un reclamo administrativo debidamente notificado 
 
 #### Artículo 511
 
-Facúltase al Director del Trabajo, en los casos en que el afectado no haya reclamado de conformidad con el artículo 474 de este Código, para dejar sin efecto o rebajar, en su caso, las multas administrativas impuestas por funcionarios de su dependencia y renunciar o desistirse de la acción ejecutiva para su cobro siempre que concurra alguna de las circunstancias siguientes:
+Facúltase al Director del Trabajo, en los casos en que el afectado no hubiere recurrido de conformidad al artículo 503 y no hubiere solicitado la sustitución del artículo 506 ter de este Código, para reconsiderar las multas administrativas impuestas por funcionarios de su dependencia en la forma siguiente:
 
-1) Que se acredite fehacientemente haber dado íntegro cumplimiento a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción;
+1. Dejando sin efecto la multa, cuando aparezca de manifiesto que se ha incurrido en un error de hecho al aplicar la sanción.
 
-2) Que aparezca de manifiesto que se ha incurrido en un error de hecho al imponerse la multa.
+2. Rebajando la multa, cuando se acredite fehacientemente haber dado íntegro cumplimiento, a las disposiciones legales, convencionales o arbitrales cuya infracción motivó la sanción.
 
-Si dentro de quince días de notificada la multa, el empleador corrigiere la infracción a satisfacción de la Dirección del Trabajo, el monto de la multa se rebajará en un cincuenta por ciento, sin perjuicio del derecho de solicitar una reconsideración por el monto total de la multa, a la misma Dirección.
-
-Los empleadores que no presenten diferencias arbitrarias de remuneraciones entre trabajadores que desempeñen cargos y responsabilidades similares, podrán solicitar la rebaja del 10% de las multas adicionalmente a lo que se resuelva por aplicación de los incisos precedentes, en tanto las multas cursadas no se funden en prácticas antisindicales o infracción a los derechos fundamentales.
+Si dentro de los quince días siguientes de notificada la multa, el empleador corrigiere la infracción, el monto de la multa se rebajará, a lo menos, en un cincuenta por ciento. Tratándose de la micro y pequeña empresa, la multa se rebajará, a lo menos, en un ochenta por ciento.
 
 #### Artículo 512
 
