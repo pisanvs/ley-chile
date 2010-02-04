@@ -1,0 +1,5 @@
+INCIDENCIAS TRIBUTARIAS DE LA MODIFICACIÓN DEL LÍMITE MÁXIMO IMPONIBLE, PARA EL CÁLCULO DE LAS COTIZACIONES DEL SEGURO DE CESANTÍA Y DE LAS COTIZACIONES PREVISIONALES, EFECTUADA POR LA SUPERINTENDENCIA DE PENSIONES
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 11, de fecha 29 de enero de 2010, que con motivo de la publicación en el Diario Oficial de 9 de enero de 2010, de las resoluciones exentas Nºs. 22 y 23, de 8 de enero de 2010, de la Superintendencia de Pensiones, que modifican los límites máximos imponibles para el cálculo de las cotizaciones del seguro de cesantía señaladas en el artículo 5º de la ley Nº 19.728 y de las cotizaciones previsionales a que se refiere el Título III y el artículo 84 del decreto ley Nº 3.500, de 1980, respectivamente, instruye sobre sus efectos tributarios.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en enero de 2009.
