@@ -20,9 +20,9 @@ El Consejo de la Sociedad Civil del Ministerio de Relaciones Exteriores, en adel
 
 #### Artículo 2º
 
-El Consejo del Ministerio de Relaciones Exteriores, en adelante "el Ministerio" será un órgano de carácter consultivo, cuyo principal objetivo será contribuir con ideas y opiniones que puedan ser tomadas en cuenta por la autoridad superior del servicio en el proceso de toma de decisiones y en el seguimiento de las políticas públicas impulsadas tanto por el Ministerio como por sus servicios dependientes y relacionados, sean ellos la Dirección General de Relaciones Económicas Internacionales (DIRECON), la Dirección Nacional de Fronteras y Límites del Estado (DIFROL), el Instituto Antártico Chileno (INACH) y la Agencia de Cooperación Internacional de Chile (AGCI).
+El Consejo del Ministerio de Relaciones Exteriores, en adelante "el Ministerio" será un órgano de carácter consultivo, cuyo principal objetivo será contribuir con ideas y opiniones que puedan ser tomadas en cuenta por la autoridad superior del servicio en el proceso de toma de decisiones y en el seguimiento de las políticas públicas impulsadas tanto por el Ministerio como por sus servicios dependientes y relacionado, sean ellos la Dirección General de Relaciones Económicas Internacionales (DIRECON), la Dirección Nacional de Fronteras y Límites del Estado (DIFROL), el Instituto Antártico Chileno (INACH) y la Agencia de Cooperación Internacional de Chile (AGCI).
 
-El presente Reglamento será aplicable al Ministerio y a sus servicios dependientes y relacionados. Sin perjuicio de lo señalado, los servicios podrán igualmente establecer sus propios Consejos en ámbitos de su competencia específica.
+El presente Reglamento será aplicable al Ministerio y a sus servicios dependientes y relacionado. Sin perjuicio de lo señalado, los servicios podrán igualmente establecer sus propios Consejos en ámbitos de su competencia específica.
 
 ## Título II
 
