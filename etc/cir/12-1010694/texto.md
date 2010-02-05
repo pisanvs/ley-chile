@@ -1,0 +1,5 @@
+EXTRACTO DE CIRCULAR Nº12, DE 29 DE ENERO DE 2010, QUE IMPARTE INSTRUCCIONES RELATIVAS AL PROCEDIMIENTO DE REVISIÓN ADMINISTRATIVA, DURANTE EL PROCESO DE REAVALÚO DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE NO AGRÍCOLA CORRESPONDIENTES A SITIOS NO EDIFICADOS, PROPIEDADES ABANDONADAS Y POZOS LASTREROS UBICADOS EN LAS ÁREAS URBANAS
+
+Por la presente Circular, se establece un procedimiento de revisión administrativa de los avalúos fiscales fijados en el reavalúo de los bienes raíces no agrícolas, correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros, año 2010, a través del formulario Nº2835 (F2835).
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet, www.sii.cl, y se incluirá en el Boletín del SII, correspondiente al mes de enero de 2010.
