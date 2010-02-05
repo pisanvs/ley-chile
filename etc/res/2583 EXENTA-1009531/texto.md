@@ -52,7 +52,7 @@ f) Aquellos casos que se ubiquen en predios existentes residuales de densificaci
 
 Resuelvo:
 
-1. Prorrógase, hasta por un plazo máximo de 3 meses, a contar de la publicación en el Diario Oficial de la presente resolución, la postergación de permisos de construcciones asociadas a las autorizaciones de cambios de destino en parte de las Zonas de uso de suelo UV, UV1 y UV2 del Plan Regulador Comunal (PRC) de Las Condes, vigente y dispuesta por Decreto Sección 1ª Nº 4.068, de 2009, del Sr. Alcalde de la I. Municipalidad de Las Condes, de fecha 24 de septiembre de 2009, publicado en el Diario Oficial con fecha 26 de septiembre de 2009, y definida de la siguiente forma:
+1. Prorrógase, hasta por un plazo máximo de 3 meses, a contar de la publicación en el Diario Oficial de la presente resolución, la postergación de permisos de construcciones asociadas a las autorizaciones de cambios de destino en parte de las Zonas de uso de suelo UV, UV1 y UV2 del Plan Regulador Comunal (PRC) de Las Condes, vigente y dispuesta por Decreto Sección 1ª Nº 4.068, de 2009, del Sr. Alcalde de la I. Municipalidad de Las Condes, de fecha 24 de septiembre de 2009, publicado en el Diario Oficial con fecha 26 de septiembre de 2009, con las siguientes excepciones:
 
 a) Aquellos casos que se ubiquen en predios de las zonas UV1, que enfrenten las siguientes calles y avenidas:
 
