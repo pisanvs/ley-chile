@@ -402,7 +402,7 @@ Mando Militar es el que corresponde por naturaleza al Oficial de Armas y por exc
 
 (48).- El mando superior de cada una de las instituciones de las Fuerzas Armadas será ejercido por el Comandante en Jefe, con el grado de General de Ejército, Almirante o General del Aire, según corresponda.
 
-Su designación recaerá siempre en un Oficial de Estado Mayor perteneciente a los escalafones de Armas, Ejecutivo y del Aire, de conformidad, además, con lo establecido en el artículo 93 de la Constitución Política de la República.
+Su designación recaerá siempre en un Oficial de Estado Mayor perteneciente a los escalafones de Armas, Ejecutivo y del Aire, de conformidad, además, con lo establecido en el artículo 104 de la Constitución Política de la República.
 
 #### Artículo 47
 
@@ -590,7 +590,7 @@ Con todo, la administración del sistema de salud del personal de planta, en ser
 
 (64).- Los regímenes previstos en el artículo anterior serán aplicables, además, a las siguientes personas:
 
-a) Al personal de las plantas de las Subsecretarías de Guerra, Marina y Aviación.
+a) DEROGADO.
 
 b) Al personal de reserva llamado al servicio activo, en tanto mantenga la calidad de tal.
 
