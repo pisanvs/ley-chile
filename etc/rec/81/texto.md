@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.577 de 3 de febrero de 2010, páginas 11 y 12, respectivamente, fueron publicados los decretos Nº 3, que modifica precios de referencia para combustibles derivados del petróleo y el Nº 4, que modifica precios de paridad para combustibles derivados del petróleo, con el siguiente error tanto en el sumario como en la página 11: en los encabezados referidos al Ministerio del cual emanan los decretos antes señalados, éstos aparecen bajo el Título del "MINISTERIO DE MINERÍA", debiendo aparecer, atendida su reciente creación, bajo el "MINISTERIO DE ENERGÍA".
