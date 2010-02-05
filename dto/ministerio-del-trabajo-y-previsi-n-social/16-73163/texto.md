@@ -26,37 +26,19 @@ El Servicio de Bienestar otorgará a sus afiliados y cargas familiares, en la me
 
 #### Artículo 3º
 
-El Servicio de Bienestar otorgará también a sus afiliados y sus cargas familiares, ayudas de carácter social las que se indican a continuación, de acuerdo a las siguientes modalidades y causales: a) Matrimonio: Se otorgará esta ayuda por una sola
+El Servicio de Bienestar otorgará también a sus afiliados y sus cargas familiares, ayudas de carácter social las que se indican a continuación, de acuerdo a las siguientes modalidades y causales:
 
-vez. Si ambos contrayentes fueran afiliados se otorgará
+a) Matrimonio: Se otorgará esta ayuda por una sola vez. Si ambos contrayentes fueran afiliados se otorgará el beneficio a cada uno de ellos.
 
-el beneficio a cada uno de ellos.
+b) Nacimiento: Si ambos padres estuvieran afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
 
-b) Nacimiento: Si ambos padres estuvieran afiliados
-
-al Servicio de Bienestar, cada uno de ellos tendrá
-
-derecho a este beneficio en forma independiente.
-
-c) Fallecimiento: Se concederá una ayuda por el
-
-fallecimiento del afiliado y de cada una de sus cargas
-
-familiares, incluido el mortinato a partir del quinto
-
-mes de gestación y el fallecimiento del hijo recién
-
-nacido, que no hubiere sido aún reconocido como carga
+c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga
 
 familiar.
 
-En caso de fallecimiento del afiliado, esta ayuda
+En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-se otorgará en el siguiente orden de precedencia:
-
-1º A la persona designada expresamente para tales
-
-efectos por el afiliado;
+1º A la persona designada expresamente para tales efectos por el afiliado;
 
 2º Al cónyuge sobreviviente;
 
@@ -64,53 +46,17 @@ efectos por el afiliado;
 
 4º A los padres legítimos;
 
-5º A la persona que acredite haber efectuado los
+5º A la persona que acredite haber efectuado los gastos del funeral.
 
-gastos del funeral.
+d) Escolaridad: El Servicio de Bienestar otorgará una ayuda educacional una vez al año por cada carga familiar que se encuentre estudiando regularmente en algún establecimiento educacional del Estado o reconocido por éste, de enseñanza parvularia, básica, media o superior.
 
-d) Escolaridad: El Servicio de Bienestar otorgará
+A este beneficio también tendrá derecho el afiliado que se encuentre estudiando en algún establecimiento de los mencionados en el párrafo precedente.
 
-una ayuda educacional una vez al año por cada carga
+e) Becas de Estudio: El Servicio, siempre que sus disponibilidades presupuestarias lo permitan, podrá otorgar becas de estudio destinadas a complementar los gastos derivados de la Educación Superior del afiliado o de sus hijos causantes de asignación familiar, cuando su situación socio-económica y/o rendimiento académico lo amerite. El Consejo Administrativo regulará la forma, oportunidad, plazos, requisitos y montos, para el otorgamiento de este beneficio.
 
-familiar que se encuentre estudiando regularmente en
+f) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio por concepto de préstamos que éste le hubiere otorgado.
 
-algún establecimiento educacional del Estado o
-
-reconocido por éste, de enseñanza parvularia, básica,
-
-media o superior.
-
-A este beneficio también tendrá derecho el afiliado
-
-que se encuentre estudiando en algún establecimiento de
-
-los mencionados en el párrafo precedente.
-
-e) Becas de Estudio: El Servicio, siempre que sus
-
-disponibilidades presupuestarias lo permitan, podrá
-
-otorgar becas de estudio destinadas a complementar los
-
-gastos derivados de la Educación Superior del afiliado o
-
-de sus hijos causantes de asignación familiar, cuando su
-
-situación socio-económica y/o rendimiento académico lo
-
-amerite. El Consejo Administrativo regulará la forma,
-
-oportunidad, plazos, requisitos y montos, para el
-
-otorgamiento de este beneficio.
-
-f) Desgravamen: Al fallecimiento de un afiliado se
-
-entenderán condonadas automáticamente las deudas que
-
-tuviere pendientes con el Servicio por concepto de
-
-préstamos que éste le hubiere otorgado.
+g) Beca de Alimentación: El servicio de Bienestar podrá otorgar becas de alimentación a los afiliados que acrediten una situación socioeconómica aflictiva calificada por el/la Asistente Social o, en su defecto, por el/la Jefe del Servicio de Bienestar. El Consejo Administrativo regulará la forma, oportunidad, plazos, requisitos y montos, para el otorgamiento de este beneficio, el que podrá ser parcial o total, de acuerdo a la situación en estudio.
 
 #### Artículo 4º
 
