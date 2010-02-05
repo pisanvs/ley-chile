@@ -916,12 +916,6 @@ VER DIARIO OFICIAL DE 04.02.2004, PÁGINA 13.
 
 No obstante las normas indicadas precedentemente para las distintas zonas del plan, en el "área de transición urbana" correspondiente a la franja de 100 m. de ancho graficada en el plano de zonificación del PRCPH - 01 de Padre Hurtado, definida al interior del límite urbano, entre los puntos 11 y 20 del mismo, ambos inclusive, la densidad máxima permitida en los proyectos de uso residencial será de 90 hab./ há.
 
-> **Nota.** El Numeral 1º del Decreto 1996, Municipalidad de Padre Hurtado, publicado el 31.05.2013, modifica la presente norma en el sentido de introducir cambios a la Zona A Centro Comunal, de la manera indica por la citada norma.
-
-> **Nota.** NOTA 1 El Numeral 3º del Decreto 1141, Municipalidad de Padre Hurtado, publicado el 16.03.2016, modifica la presente norma en el sentido de introducir cambios a la Zona E2: Equipamiento Comunitario.
-
-> **Nota.** NOTA 2 El artículo único del Decreto 999, Municipalidad de Padre Hurtado, publicado el 13.06.2019, modifica la presente norma en el sentido de introducir cambios a la Zona E2: Equipamiento Comunitario.
-
 #### Artículo 4
 
 3.3 La ubicación, límites y reglamentaciones de las áreas de restricción serán las indicadas en los cuerpos legales respectivos y en el presente plan, además de las disposiciones contempladas en la siguiente tipología de esta Ordenanza:
@@ -1007,8 +1001,6 @@ VER DIARIO OFICIAL DE 04.02.2004, PÁGINA 14.
 De acuerdo a lo dispuesto en el artículo 33, de la Ley Orgánica General Constitucional de Municipalidades, sólo se podrán afectar otras vías locales, de servicio y plazas que hayan sido definidos como tales por el Concejo Municipal a propuesta del Alcalde, cuando se haya efectuado la provisión de fondos necesarios para proceder a su inmediata expropiación.
 
 > **Nota.** El Nº 1 del Decreto 439, Municipalidad de Padre Hurtado, publicado el 04.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años la afectación a utilidad pública de algunos de los tramos de las vías colectoras de la comuna que se señalan en el artículo 5.1.6 letra c), individualizados en dicho Decreto.
-
-> **Nota.** NOTA 1 El Artículo Único del Número 1 del Decreto 872, Municipalidad de Padre Hurtado, publicada el 13.05.2017, modifica la presente norma en el sentido de relocalizar las áreas verdes del Sector Triunfo de Chile-San Ignacio y la calle Alberto Hurtado, definido por el Polígono A, B, C, D, E, F, G, H, I, J, K, L, M, N, A, todo de acuerdo a la memoria explicativa y a lo graficado en Planos MPRCPH-07 y MPRCPH-02-a.
 
 ### Párrafo 2 — Estacionamientos.
 
