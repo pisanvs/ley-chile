@@ -900,6 +900,8 @@ Z2 Zona Residencia Mixta
 
 Z3 Zona Residencial, en Densidad Alta
 
+Z3-1 Zona Residencial, en Densidad Alta
+
 Z4 Zona Residencial, en Densidad Media
 
 Z5 Zona Area Verde - Deporte
@@ -1810,6 +1812,24 @@ C.3.3 Talleres de carácter inofensivo
 
 VER DIARIO OFICIAL DE 31.01.2002, PAGINA 12.
 
+Artículo Nº60.1.
+
+Z3-1 Zona Residencial, en Densidad Alta
+
+Densidad Bruta Máxima:
+
+- 320 Hab/há.
+
+A.- Usos de Suelo Permitidos:
+
+- Residencial
+
+- Equipamiento de las siguientes clases: comercio, culto y cultura, deporte, educación, salud, seguridad, servicios, social.
+
+B.- Usos de Suelo Prohibidos: Todos aquellos no señalados como permitidos.
+
+C.- Normas Urbanísticas:
+
 ARTICULO N° 61
 
 Z4 ZONA RESIDENCIAL EN DENSIDAD MEDIA
@@ -2709,3 +2729,5 @@ ARTICULO N° 79
 Los perfiles geométricos viales, así como el ancho de sus calzadas, el diseño de sus empalmes y/o cruces, etc., será definido en los respectivos proyectos de loteo, estudios y/o proyecto de vialidad, según corresponda. Serán obligatorias en la localidad de Alto Hospicio - Alto Molle las recomendaciones para el diseño de elementos de infraestructura vial urbana, contenidas en el "Manual de Vialidad Urbana", aprobado por D. S. N° 12 (V. y U.) de 1984 y "Manual de Carreteras de M.O.P.", respectivamente.
 
 Iquique, noviembre del 2001.- Jorge Alejandro Soria Quiroga, Alcalde Municipalidad de Iquique.- María Angélica Vega Pinto, Secretaria Municipal.- Jorge Poblete Grez, Arquitecto Consultor Plan Regulador Comunal.
+
+> **Nota.** El Artículo 1º del Decreto 37, Vivienda, publicado el 04.02.2010, modifica la presente norma en el sentido de sustituir la normativa aplicable al terreno de propiedad de SERVIU Región de Tarapacá, delimitado por la línea poligonal A-B-C-D-E-F-A, ubicado frente a la Avenida Oriente esquina de calle Los Álamos, correspondiente a la zona "Z6 Zona de Equipamiento y Parque", por la que se indica en el artículo 2º del mismo Decreto 37 para la zona "Z3-1 Zona Residencial, en Densidad Alta", de conformidad a lo graficado en el Plano MPRCAHAM-1/2009, denominado "Modificación Plan Regulador Comunal Iquique sector Alto Hospicio-Alto Molle, Sector Las Parcelas (ex Parque Oriente)", confeccionado a escala 1:5000 por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Tarapacá.
