@@ -1,0 +1,5 @@
+REVOCA DELEGACIONES DE FACULTADES EFECTUADAS EN EL JEFE DE OFICINA JURÍDICA Y DELEGA ATRIBUCIONES QUE INDICA
+
+Por resolución Ex. RCO03.00 Nº10 de 29/01/2010, Dirección Regional de Copiapó del Servicio de Impuestos Internos, el suscrito revocó las delegaciones efectuadas al Jefe de la Oficina Jurídica y delegó en el Jefe de Departamento Jurídico de esta III Dirección Regional las facultades individualizadas en dicha resolución, y que se ha efectuado en cumplimiento de resolución exenta Nº20, de 27 de enero de 2010, del Director Nacional del Servicio de Impuestos Internos, que suprime el Departamento Tribunal Tributario y Oficina Jurídica, y crea Departamento Jurídico en la III Dirección Regional Copiapó; autorizando la delegación de facultades que indica en su resolutivo Sexto.-
+
+Pedro Omar Acuña Pérez, Director Regional (S).
