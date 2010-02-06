@@ -702,7 +702,7 @@ La Comere deberá presentar al Subsecretario de Salud Pública una terna compues
 
 #### Artículo 87°
 
-Los miembros de la Comere gozarán de una remuneración equivalente a un ingreso mínimo por cada sesión a que asistan, la que se pagará mensualmente. En ningún caso, la remuneración mensual podrá exceder de cuatro ingresos mínimos mensuales.
+Los miembros de la Comere gozarán de una remuneración equivalente a un ingreso mínimo por cada sesión a que asistan, la que se pagará mensualmente. En ningún caso, la remuneración mensual podrá exceder de seis ingresos mínimos mensuales.
 
 #### Artículo 88°
 
