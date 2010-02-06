@@ -1602,7 +1602,7 @@ Deberán señalizar adecuadamente estas zonas y la reglamentación a la cual fue
 
 11. Todos los balnearios públicos y condominios deberán contar con salvavidas debidamente acreditados por la Gobernación Marítima.
 
-12.- ELIMINADO
+12. Las embarcaciones a motor deberán circular en horario de las 17:00 a 21:00 hrs.
 
 ARTICULO Nº 209.- Se prohíbe estrictamente la caza de aves y animales acuáticos en lagos, lagunas u humedales.
 
