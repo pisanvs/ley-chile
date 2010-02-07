@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4.343, de 29 de diciembre de 2009, de esta Subsecretaría, modifícase la resolución exenta Nº 2.595, de 2009, modificada mediante resoluciones exentas Nº 2.739, Nº 2.787 y Nº 3.190, todas de 2009, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación Pesquerías Demersales y Pelágicas de Merluza del sur, Congrio dorado, Raya y Reineta; Magallanes y Antártica Chilena", en el sentido de incorporar al numeral 18, la siguiente letra f):
+
+"f) Las embarcaciones de transporte seleccionadas deberán disponer obligatoriamente de un equipo de posicionamiento satelital proporcionado por la consultora para efectos de registrar geográficamente las áreas de pesca".
+
+Valparaíso, 29 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
