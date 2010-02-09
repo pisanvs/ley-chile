@@ -54,6 +54,28 @@ aplicables a los contratos de
 
 préstamos de dicho Banco.
 
+La tasa de interés antes indicada
+
+podrá sustituirse, en ejercicio de
+
+la "Opción de Conversión de Tasas
+
+de Interés", a tasa de interés
+
+variable, fija o a una combinación
+
+de ambas, en los términos
+
+contemplados en el nuevo Capítulo
+
+IV de las Estipulaciones Especiales
+
+que se incorpora en el Contrato
+
+Modificatorio Nº 1 del Préstamo Nº
+
+1829/OC-CH.
+
 Comisión de
 
 Crédito : Hasta 0,75% anual sobre la parte no
