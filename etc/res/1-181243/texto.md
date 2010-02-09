@@ -10,7 +10,9 @@ Los letreros publicitarios podrán estar pintados sobre la carrocería o ser de 
 
 Tales buses también podrán contar en el interior del vehículo con letreros publicitarios, los que deberán instalarse sobre el borde superior de las ventanas en cada vehículo. Todos los letreros interiores de publicidad, deberán tener la misma altura, la que no podrá exceder de 30 cm. En el costado opuesto a la puerta delantera, deberá quedar un espacio libre de, al menos, 150 cm. de largo que permita situar allí los carteles o inscripciones que establezca la reglamentación emanada del Ministerio de Transportes y Telecomunicaciones.
 
-2. En los taxis colectivos se podrá instalar sólo un letrero exterior con inscripciones de anuncios relativos al servicio y publicidad, el que deberá ubicarse sobre el techo y en forma transversal al vehículo. Este letrero deberá ser de forma rectangular, o aproximadamente rectangular, que deberá poder inscribirse en un rectángulo de 80 cm. de ancho y 40 cm. de alto. Asimismo, se permitirá la publicidad en el extremo inferior de la luneta trasera del vehículo, mediante el uso de una lámina adhesiva de un alto no superior a 15 centímetros, la que en todo caso no deberá obstaculizar la plena visibilidad de la tercera luz de freno.
+2. En los taxis colectivos se podrá instalar sólo un letrero exterior con inscripciones de anuncios relativos al servicio y publicidad, el que deberá ubicarse sobre el techo y en forma transversal al vehículo. Este letrero deberá ser de forma rectangular, o aproximadamente rectangular, que deberá poder inscribirse en un rectángulo de 80 cm. de ancho y 40 cm. de alto.
+
+En todas las modalidades de vehículos de alquiler, se permitirá la publicidad en el extremo inferior de la luneta trasera del vehículo, mediante el uso de una lámina adhesiva de un alto no superior a 30 centímetros, la que en todo caso no deberá obstaculizar la plena visibilidad de la tercera luz de freno.
 
 3. La publicidad que se realice deberá cumplir con las disposiciones municipales y otras que la regulen.
 
