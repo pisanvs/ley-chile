@@ -42,7 +42,7 @@ b) Hernán Díaz Reyes RUT, N° 7.410.759-3, en calidad de suplente.
 
 a) Cristóbal Thompson Santos, RUT N° 8.419.054-3, en calidad de titular.
 
-b) Carlos Cabrera Undurruga, RUT N° 6.550.586-K, en calidad de suplente.
+b) René Salinas Blanco, RUT Nº 10.230.404-7, en calidad de suplente.
 
 ### IV. En representación de las organizaciones gremiales del sector laboral:
 
