@@ -1,0 +1,3 @@
+Por resolución exenta Nº 574, de 29 de enero de 2010, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 204111242 presentada por SERVIVIOS MARÍTIMOS OXXEAN SOCIEDAD ANÓNIMA, para instalar y operar un centro de cultivo ubicado en canal Errázuriz, lado weste de Isla Traiguén, sector 1, XI Región.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
