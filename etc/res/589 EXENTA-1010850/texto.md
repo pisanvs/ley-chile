@@ -1,0 +1,3 @@
+Por resolución exenta Nº 589, de 29 de enero de 2010, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 207123085 presentada por INVERTEC PESQUERA MAR DE CHILOÉ S.A., para instalar y operar un centro de cultivo ubicado en Seno Chasco, al norte de Península Brecknock, XII Región.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
