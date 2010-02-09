@@ -42,6 +42,32 @@ Tasa de interés : Tasa variable determinada
 
 semestralmente por el BID.
 
+La tasa de interés antes
+
+indicada podrá sustituirse,
+
+en ejercicio de la "Opción
+
+de Conversión de Tasas de
+
+Interés", a tasa de interés
+
+variable, fija o a una
+
+combinación de ambas, en los
+
+términos contemplados en el
+
+nuevo Capítulo IV de las
+
+Estipulaciones Especiales que
+
+se incorpora en el Contrato
+
+Modificatorio Nº 3 del Préstamo
+
+Nº 1286/OC-CH.
+
 Comisión de crédito : Hasta 0,75% anual sobre la
 
 parte no desembolsada del
