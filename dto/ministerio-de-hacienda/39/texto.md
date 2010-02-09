@@ -40,6 +40,28 @@ Interés : Tasa anual variable, determinada
 
 semestralmente por el BID.
 
+La tasa de interés antes indicada
+
+podrá sustituirse, en ejercicio
+
+de la "Opción de Conversión de
+
+Tasas de Interés", a tasa de
+
+interés variable, fija o a una
+
+combinación de ambas, en los
+
+términos contemplados en el nuevo
+
+Capítulo IV de las Estipulaciones
+
+Especiales que se incorpora en el
+
+Contrato Modificatorio Nº 1 del
+
+Préstamo Nº 853/OC-CH.
+
 Comisión de
 
 Crédito : No más de 0,75% por año sobre la
