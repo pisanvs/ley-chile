@@ -1,0 +1,3 @@
+Por resolución Nº 566, de 29 de enero de 2010, de esta Subsecretaría, déjase sin efecto resoluciones Nº 919 de 2004 y Nº 1.667 de 2005, ambas de esta Subsecretaría, correspondientes al área de manejo Caleta Obispo, III Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES MIXTO DE BUZOS Y RECOLECTORES DE ORILLA DE CALDERA, en virtud del artículo 16, letra g), del D.S. Nº 355 de 1995. del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaría de Pesca (S).
