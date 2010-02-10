@@ -1,0 +1,25 @@
+PROMULGA MODIFICACIÓN AL PLAN REGULADOR COMUNAL DE LO BARNECHEA
+
+Núm. 998/10.- Lo Barnechea, 4 de febrero de 2010.- Teniendo presente: El decreto Sección 1ª Nº 1.320 de fecha 27 de junio de 2008; la Memoria Explicativa y Proposición de Texto Aprobatorio de la Modificación al Plan Regulador Comunal, denominado "MPRC-LB-10 Actualización de la Vialidad Estructurante Comunal de Lo Barnechea"; Certificado Nº 385 del 21 de diciembre de 2009 suscrito por el Secretario Abogado Municipal que certifica el cumplimiento de los trámites señalados en los incisos segundo al quinto del artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones; el Ord. Alc. Nº 418 de fecha 4 de julio de 2008 suscrito por la Sra. Alcaldesa que informa a los vecinos sobre el proceso de modificación; las publicaciones en el diario El Mercurio de fechas 5 y 12 de julio de 2008 que informan lugar y fecha de audiencias públicas y de la exposición del proyecto de modificación y fecha de término del plazo para formular observaciones; el acta de la Primera Audiencia Pública de fecha 14 de julio de 2008; los Oficios Secplan Nºs. 19 al 39 de fecha 4 de julio de 2008; el decreto Sección 1ª Nº 1.625 de fecha 29 de julio de 2008 y el Acta de Sesión del Consejo Económico y Social de fecha 6 de agosto de 2008; el Certificado Nº 384 de fecha 21 de diciembre de 2009 suscrito por el Secretario Abogado Municipal; la exposición al público entre el día 17 de julio y el 18 de agosto de 2008; el acta de la Segunda Audiencia Pública de fecha 18 de agosto de 2008; las dieciséis cartas de observaciones de los vecinos recibidas; los Oficios Secplan Nºs. 101 al 121 y Nºs. 131 al 151 de fechas 14 y 21 de octubre de 2008, respectivamente; el Certificado Nº 386 de fecha 21 de diciembre de 2009 suscrito por el Secretario Abogado Municipal; la resolución exenta Nº 1.048 de fecha 17 de diciembre de 2009 suscrito por la Corema-RM que califica ambientalmente favorable el proyecto; los Ord. Alc. Nºs. 151 al 157 de fecha 13 de noviembre de 2008 suscritos por la Sra. Alcaldesa que informa a los vecinos los Acuerdos Nºs. 2.731 al 2.747 adoptados por el Concejo Municipal; el Cuadro Resumen de Ajustes al Proyecto de fecha 15 de diciembre de 2009 suscrito por el Asesor Urbanista; el Acuerdo Nº 3.089 del Concejo Municipal tomado en Sesión Ordinaria Nº 667 de fecha 7 de enero de 2010 que aprueba el proyecto; el decreto Nº 102 de fecha 13 de enero de 2010 que ordena remitir el proyecto a la Seremi-Minvu; el Ord. Alc. Nº 32 de 2010 suscrito por el Sr. Alcalde que ingresa el proyecto a la Seremi Minvu para trámite oficial y revisión; el Ord. Nº 656 de Seremi Minvu RM de fecha 4 de febrero de 2010 que informa favorablemente el proyecto; lo establecido en los artículos 43 y 45 de la Ley General de Urbanismo y Construcciones y el artículo 2.1.11 de su Ordenanza General y el uso de las facultades que me confieren los artículos 56 y 63, letra i) de la ley Nº 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+1.- Promúlguese la Modificación al Plan Regulador Comunal de Lo Barnechea conforme a lo siguiente:
+
+#### Artículo único
+
+Modifícase el Plan Regulador Comunal de Lo Barnechea aprobado mediante Decreto Alcaldicio Nº 1.295 de fecha 03.09.02, publicado en el Diario Oficial con fecha 05.09.02 y sus modificaciones posteriores, en el sentido de reemplazar los cuadros del artículo 11º contenido en el Título III Vialidad de su Ordenanza Local; de sustituir el Plano PRC-LB-02 "Vialidad" por el Plano PRC-LB-02/A "Vialidad Área Urbana Principal", escala 1:5.000; y de prorrogar por 5 años las declaratorias a utilidad pública de las vías colectoras y sus respectivos tramos, que en este acto se aprueba.
+
+Modificar el Plan Regulador Comunal de Lo Barnechea de la siguiente forma:
+
+A.- Apruébese el nuevo Plano PRC-LB-2/A "Vialidad Área Urbana Principal" escala 1:5.000 en sus 8 láminas, que reemplaza el Plano PRC-LB-2 "Vialidad" (Decreto 1.295 D.O. 05.09.02) y sus modificaciones: Plano MPRC-LB-01 "Disminuye ancho vía C38O Camino El Huinganal-Dos Poniente: Tramo Vía Panorámica - Comandante Malbec" (Decreto 1.546 D.O. 05.09.02), Plano MPRC-LB-02 "Diversas modificaciones al PRC: Suprime vía L3 Boulevard de la Luna" (Decreto 1.651 D.O. 18.12.04), Plano MPRC-LB-03 "Disminuye ancho vías L13, L19, L25, L26 y L29 de la Red Vial Local" (Decreto 649 D.O. 04.04.06).
+
+B.- Reemplácense los cuadros del artículo 11º la Ordenanza del Plan Regulador Comunal de Lo Barnechea, por los siguientes nuevos cuadros:
+
+C.- Prorróguense por 5 años las declaratorias a utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro precedente del artículo 11º.
+
+2.- La presente modificación al Plan Regulador Comunal de Lo Barnechea se publicará y archivará de conformidad a lo dispuesto en el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones.
+
+Anótese, comuníquese, publíquese y archívese.- Felipe Guevara Stephens, Alcalde.- Mario Cassanello Munita, Secretario Abogado Municipal (S).
+
+Lo que comunico a Ud. para su conocimiento y fines consiguientes.- Mario Cassanello Munita, Secretario Abogado Municipal (S).
