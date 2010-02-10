@@ -788,19 +788,9 @@ Monasterio).
 
 La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros.
 
-a.- VIAS METROPOLITANAS
+#### Artículo 12º
 
-VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
-
-b.- VIAS INTERCOMUNALES PRINCIPALES
-
-VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
-
-c.- VIAS INTERCOMUNALES VER DIARIO OFICIAL DE 05.09.2002, PAGINA 7
-
-RED VIAL LOCAL
-
-VER DIARIO OFICIAL DE 05.09.2002, PAGINA 8 ARTICULO 12º Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
+Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
 
 Estas vías mantienen sus anchos existentes entre líneas oficiales, salvo aquellos casos en que expresamente se dispongan modificaciones como ensanches, ya sea en el Plano Regulador, en los loteos y en las subdivisiones incorporadas a éstos.
 
@@ -4016,10 +4006,6 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 
 > **Nota.** El DTO 1544, M. de Lo Barnechea, publicado el 22.10.2003, modifica el presente artículo, en el sentido de aumentar en un 20%, el coeficiente de constructibilidad máxima del cuadro de Condiciones de Subdivisión y Edificación de la Zona J "La Dehesa", es decir, de 0.35 a 0.42; según se establece en el texto de la Memoria Explicativa y Ordenanza, elaborados por la citada Municipalidad.
 
-> **Nota.** NOTA 1 El Art. 2º del DTO 1546, M. de Lo Barnechea, publicado el 25.11.2004, modificó el cuadro contenido en la letra c. del artículo 11 de la presente norma, la que por restricciones técnicas temporales no ha podido ser incorporada en este texto actualizado.
-
-> **Nota.** NOTA 2 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro contenido en la letra c. del artículo 11 de la presente norma, la que por restricciones técnicas temporales no ha podido ser incorporada en este texto actualizado.NOTA 2 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de estacionamiento para equipamiento del artículo 20 de la presente norma, en la forma que en el se señala.
-
 > **Nota.** NOTA 3 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de Condiciones de Subdivisión y Edificación del artículo 55, en el sentido de eliminar de todas las zonas (A,B,C, D,F,G,H,I,J,K,M,N Y O), la exigencia de Frente predial mínimo.
 
 > **Nota.** NOTA 4 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de Condiciones de Subdivisión y Edificación del artículo 55, Punto a.2.2) de la zona J, reemplazándolo por uno nuevo, el cual no ha sido ingresado por restricciones técnicas temporales.
@@ -4028,6 +4014,6 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 
 > **Nota.** NOTA 6: El DTO 1091, M. de lo Barnechea, publicado el 21.06.2005, da por subsanada la omisión del requisito de forma que indica en la modificación a este plano contenida en el DTO 1544, publicado el 22.01.2003, señalando que a partir de su fecha de publicación regirá íntegramente dicha modificación.
 
-> **Nota.** NOTA 7: El artículo 2º del DTO 649, M. de lo Barnechea, publicado el 04.04.2006, modifica el cuadro de la Red Vial Local contenido en este artículo. Dicha modificación no ha sido incorporada al presente texto actualizado por restriccionestécnicas temporales.
-
 > **Nota.** NOTA 8: El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
+
+> **Nota.** NOTA 9 La letra C) del Artículo Único del Nº 1 del Decreto 998, Municipalidad de Lo Barnechea, publicado el 09.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años las declaratorias de utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro del artículo 11º.
