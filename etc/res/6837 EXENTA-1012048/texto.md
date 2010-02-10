@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN EXENTA N° 6.837, DE 16.12.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA.
+
+En el concurso público del Tercer Cuatrimestre de 2008, se ha asignado a SOCIEDAD RADIODIFUSORA MONTECARLO LIMITADA, R.U.T. N° 79.688.830-K, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de Iquique, I Región, con las características técnicas siguientes: Potencia 1 kW; frecuencia 90.3 MHz; estudio ubicado en Avda. Gabriel González Videla N° 2301, La Serena, IV Región, coordenadas geográficas 29° 55’ 45" Latitud Sur, 71º 15’ 31" Longitud Oeste (Dátum Provisorio Sudamericano 1956); planta transmisora y sistema radiante ubicados en Cerro Tarapacá, Iquique, I Región, coordenadas geográficas 20° 20’ 50" Latitud Sur, 70° 06’ 20" Longitud Oeste (Dátum Provisorio Sudamericano 1956); sistema radiante omnidireccional, con polarización circular, arreglo de cuatro (4) antenas Anillo Terminado en Barras, tilt eléctrico de 15,8° bajo la horizontal, de 3 dBd de ganancia máxima y -16.1 dBd de ganancia en el plano horizontal, altura del centro de radiación de 25 m; pérdidas en cables y conectores de 2.0 dB.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la Ley N° 18.168 General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+POR ORDEN DEL SUBSECRETARIO DE TELECOMUNICACIONES
+
+JEFE DEPARTAMENTO RADIODIFUSIÓN
