@@ -1,0 +1,3 @@
+Por resolución exenta Nº 673, de 4 de febrero de 2010, de esta Subsecretaría, recházase la solicitud Nº 206101146, presentada por PRODUCTOS DEL MAR VENTISQUEROS S.A., para modificar los centros de cultivo correspondientes a los sectores 4, 5 y 6, ubicados en Canal Cholgo, sector Rada Potreros de Cholgo, X Región, transferidos a la peticionaria por resolución Nº 2.048 de 1999, de la Subsecretaría de Marina.
+
+Valparaíso, 4 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
