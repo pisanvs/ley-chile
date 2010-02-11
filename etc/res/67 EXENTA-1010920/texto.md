@@ -1,0 +1,3 @@
+Por resolución exenta Nº67, de 6 de enero de 2010, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº665 de 2009, de esta Subsecretaría, que autorizó a MARÍA JOSÉ PÉREZ ÁLVAREZ para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio del Delfín chileno (Cephalororhynchus eutropia) y otros cetáceos en Chile", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2010, inclusive.
+
+Valparaíso, 6 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
