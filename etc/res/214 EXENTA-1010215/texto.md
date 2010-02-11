@@ -32,8 +32,6 @@ Resolución:
 
 10. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los SERVIU en los términos previstos en el D.S. N° 255, (V. y U.), de 2006.
 
-> **Nota.** El N° 2 de la Resolución 1482 Exenta, Vivienda, publicada el 11.03.2009, modifica la presente norma, en el sentido de reemplazar el monto de Unidades de Fomento que se destinarán al financiamiento de los subsidios y los recursos destinados al pago de los servicios de asistencia técnica, estableciendo una distribución por título y por región, quedando el Llamado Nacional de Febrero de 2010 del Programa de Protección del Patrimonio Familiar en su modalidad de Condominio de Viviendas Sociales, de acuerdo a la distribución que en ella se indica.
-
 Anótese, publíquese y archívese. Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
