@@ -22,7 +22,7 @@ Considerando: Que las personas identificadas en el Visto e), exceptuando la indi
 
 Resolución:
 
-1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.) de 2005, y asígnase directamente 242 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, equivalentes a 161.470 UF, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
+1. Exímese de los requisitos indicados en los títulos III, IV y V del D.S. N° 174 (V. y U.) de 2005, y asígnase directamente 237 Subsidios del Fondo Solidario de Vivienda en la modalidad de adquisición de viviendas del capítulo I, por un monto de 670 UF cada uno, equivalentes a 158.790 UF, a los desplazados de la comuna de Chaitén, que a consecuencia de la erupción del Volcán Chaitén se encuentran calificados como casos de emergencia y que se individualizan en la siguiente nómina:
 
 Nº RUT Nombre Apellido Apellido
 
@@ -68,7 +68,7 @@ Paterno Materno
 
 20 4769956-8 JOSÉ TADEO TUREUNA VILLEGAS
 
-21 4773013-9 LUZMIRA RAQUEL ROSAS CÁRCAMO
+21 ELIMINADO.
 
 22 4773333-2 ROSAMELIA VÁSQUEZ MANCILLA
 
@@ -346,11 +346,9 @@ ALBERTO GUICHAQUELEN PERANCHIGUAY
 
 155 11252662-5 NELSON BELARMIN TUREUNA TUREUNA
 
-156 11335257-4 SANDRA
+156 11335257-4 SANDRA MIGUELINA VALLADARES SOTOMAYOR
 
-MIGUELINA VALLADARES SOTOMAYOR
-
-157 11358307-K MICAELA CONCHA MELINAO
+157 ELIMINADO.
 
 158 11433004-3 JOSÉ ASENCIO MAYORGA
 
@@ -386,13 +384,11 @@ ALMERINDA CHIGUAY MILLAQUIEN
 
 173 12540540-1 JAIME ZAPATA PINTO
 
-174 12761622-1 ISIDORA
-
-MARCELA MILLACAR PERANCHIGUAY
+174 12761622-1 ISIDORA MARCELA MILLACAR PERANCHIGUAY
 
 175 12934071-1 ROSA DINA MAYORGA BARRIENTOS
 
-176 12935438-0 HORTENCIA MARINA CHIGUAY CHIGUAY
+176 ELIMINADO.
 
 177 13002364-9 SERGIO MAURICIO CAILEO VEGA
 
@@ -418,7 +414,7 @@ MARCELA MILLACAR PERANCHIGUAY
 
 188 13410100-8 GLADYS PAMELA GALLARDO BARRIENTOS
 
-189 13508167-1 RAFAEL ALEJANDRO OBANDO ESPINOZA
+189 ELIMINADO.
 
 190 13594614-1 MARCELO IVÁN MANCILLA BÓRQUEZ
 
@@ -488,7 +484,7 @@ ROSARIO PERANCHIGUAY MANSILLA
 
 219 15795084-3 LUIS SALVADOR ZAPATA PINTO
 
-220 15855645-6 LEONARDO ALEXIS OBANDO ESPINOZA
+220 ELIMINADO.
 
 221 15865702-3 JULIO CÉSAR NILIAN TECAS
 
@@ -536,7 +532,7 @@ ROSARIO PERANCHIGUAY MANSILLA
 
 Los subsidios habitacionales que se otorguen a estos beneficiarios, se imputarán a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Vivienda del año 2008.
 
-2.- De acuerdo a lo señalado en la resolución N° 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 3.615 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
+2.- De acuerdo a lo señalado en la resolución N° 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 3.594 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
 
 3.- Autorízase la adquisición de viviendas cuya tasación exceda de 650 UF, de acuerdo a la metodología de cálculo que señala la letra d) del inciso primero del artículo 32 del D.S. N° 174 (V. y U.) de 2005.
 

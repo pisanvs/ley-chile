@@ -98,7 +98,7 @@ Nº RUT 1 NOMBRE
 
 37 1.960.079-3 MARIO MEDINA ARRIAZA
 
-38 10.362.927-6 GALLARDO ROSAS MARIA
+38 ELIMINADO.
 
 39 13.594.590-0 LUZ QUICEL QUICEL
 
@@ -180,7 +180,7 @@ Nº RUT 1 NOMBRE
 
 Los subsidios habitacionales que se otorguen a estos beneficiarios, se imputarán a los recursos autorizados a la Región de Los Lagos, para el Programa Fondo Solidario de Vivienda del año 2008.
 
-2.- De acuerdo a lo señalado en la resolución exenta Nº 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 1.603 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
+2.- De acuerdo a lo señalado en la resolución exenta Nº 533 (V. y U.), de 1997, que fija procedimientos para la Prestación de Servicios de Asistencia Técnica, asígnase el monto de 1.596 UF correspondiente a honorarios de Asistencia Técnica para estas operaciones.
 
 3.- Autorízase la adquisición de viviendas, cuya tasación exceda de 650 UF, de acuerdo a la metodología de cálculo que señala la letra d) del inciso primero del artículo 32 del D.S. Nº 174 (V. y U.), de 2005.
 
