@@ -62,6 +62,10 @@ n) Atención obstétrica;
 
 o) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m) precedentes.
 
+#### Artículo 2º bis
+
+"El Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, y contratar seguros de vida para sus afiliados, seguros de salud para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertas por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+
 ### Párrafo II
 
 De la atención económica y social
@@ -77,6 +81,8 @@ b) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo, legítimo
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado o de cada una de sus cargas familiares, incluido el mortinato a partir del 5° mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado, este beneficio se concederá según el siguiente orden de precedencia: Cónyuge sobreviviente, hijos legítimos, hijos naturales, padres o persona que acredite haber efectuado los gastos del funeral.
+
+En casos calificados por el Consejo Administrativo, se podrá otorgar una ayuda especial por fallecimiento de alguno de los padres que no sea carga familiar del afiliado.
 
 d) Educación: Se concederá una asignación de escolaridad, a los afiliados y cargas familiares que se encuentren cursando estudios en algún establecimiento del Estado o reconocido por éste, en los niveles Básico, Medio, Técnico o Educación Superior.
 
@@ -94,7 +100,7 @@ El monto de las ayudas contempladas en las letras a), b), c), d),
 
 #### Artículo 4°
 
-El Servicio de Bienestar podrá celebrar y distribuir obsequios en las festividades de Navidad, Fiestas Patrias y aniversario de la Universidad, al afiliado y cargas familiares, siempre que sus disponibilidades presupuestarias lo permitan.
+El Servicio de Bienestar podrá celebrar y distribuir obsequios en las festividades de Navidad, Fiestas Patrias, día del niño y aniversario de la Universidad, al afiliado y cargas familiares, siempre que sus disponibilidades presupuestarias lo permitan.
 
 ### Párrafo III
 
