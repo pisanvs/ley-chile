@@ -60,7 +60,9 @@ s) De un miembro del Instituto de Historia de la Arquitectura de la Facultad de 
 
 El Presidente de la República designará, cada tres años, a los miembros del Consejo que no lo sean por derecho propio, a propuesta de las respectivas instituciones, a excepción del cargo de la letra o), que será propuesto por el Ministerio de Educación Pública, y del de la letra p), que será designado a propuesta en terna de las dos entidades que allí se mencionan.
 
-t)Un representante del Consejo Nacional de la Cultura y las Artes.
+t)Un representante del Consejo Nacional de la Cultura y las Artes, y
+
+u) Un representante del Servicio Nacional de Turismo.
 
 #### Artículo 3
 

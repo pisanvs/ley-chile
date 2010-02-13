@@ -164,7 +164,245 @@ Personal y Patrimonio
 
 #### Artículo 16°
 
-Derogado.
+Fíjanse las siguientes plantas de cargos del Servicio Nacional de Turismo, y su correspondiente ubicación en la Escala Unica de Sueldos:
+
+A. DIRECCION NACIONAL
+
+PLANTA DIRECTIVA
+
+------------------------------------------------------
+
+Número Grado
+
+Cargos Denominación E. U.
+
+------------------------------------------------------
+
+1 Director Nacional --------------- 3°
+
+1 Subdirector de Desarrollo ------- 4°
+
+1 Subdirector Regional ------------ 4°
+
+1 Subdirector de Operaciones y
+
+Control-------------------------- 4°
+
+1 Fiscal -------------------------- 4°
+
+1 Jefe Depto. Planificación ------- 5°
+
+1 Jefe Depto. Promoción y Fomento-- 5°
+
+1 Jefe Depto. Inspección ---------- 6°
+
+1 Jefe Depto. Administrativo------- 7°
+
+-----
+
+9
+
+PLANTA PROFESIONAL
+
+3 Profesionales ------------------- 6°
+
+2 Profesionales ------------------- 7°
+
+1 Profesional --------------------- 8°
+
+2 Profesionales ------------------- 9°
+
+1 Profesional --------------------- 10°
+
+2 Profesionales ------------------- 12°
+
+2 Profesionales ------------------- 14°
+
+1 Profesional --------------------- 16°
+
+1 Profesional --------------------- 17°
+
+------
+
+15
+
+PLANTA EXPERTOS
+
+3 Expertos Jefes ------------------ 12°
+
+3 Expertos Jefes ------------------ 13°
+
+2 Expertos ------------------------ 14°
+
+2 Expertos ------------------------ 15°
+
+3 Expertos ------------------------ 17°
+
+1 Experto ------------------------- 19°
+
+------
+
+14
+
+PLANTA TECNICA
+
+2 Técnicos ------------------------ 14°
+
+2 Técnicos ------------------------ 15°
+
+2 Técnicos ------------------------ 16°
+
+1 Técnico ------------------------ 17°
+
+2 Técnicos ------------------------ 18°
+
+1 Técnico ------------------------ 19°
+
+1 Técnico ------------------------ 21°
+
+1 Técnico ------------------------ 23°
+
+------
+
+12
+
+PLANTA ADMINISTRATIVA
+
+6 Oficiales Administrativos ------- 19°
+
+3 Oficiales Administrativos ------- 20°
+
+4 Oficiales Administrativos ------- 21°
+
+3 Oficiales Administrativos-------- 23°
+
+2 Oficiales Administrativos ------- 25°
+
+3 Oficiales Administrativos ------- 27°
+
+2 Oficiales Administrativos ------- 29°
+
+3 Oficiales Administrativos-------- 31°
+
+------
+
+26
+
+PLANTA SERVICIOS MENORES
+
+1 Mayordomo ----------------------- 25°
+
+1 Auxiliar Especializado ---------- 25°
+
+1 Chofer -------------------------- 25°
+
+2 Choferes------------------------- 26°
+
+2 Auxiliares de Servicios --------- 27°
+
+2 Auxiliares de Servicios --------- 28°
+
+1 Auxiliar de Servicio ------------ 29°
+
+1 Auxiliar de Servicio ------------ 31°
+
+1 Auxiliar de Servicio ------------ 33°
+
+1 Auxiliar de Servicio ------------ 35°
+
+------
+
+13
+
+TOTAL: 89
+
+B. PLANTA REGIONAL
+
+PLANTA DIRECTIVA
+
+2 Directores Regionales ----------- 5
+
+4 Directores Regionales ----------- 6
+
+4 Directores Regionales ----------- 7
+
+2 Directores Regionales ----------- 8
+
+-----
+
+12
+
+Los cargos de Directores Regionales grado 5° se transformarán en grado 6° a medida que vayan quedando vacantes, después de su primera provisión.
+
+PLANTA PROFESIONAL
+
+3 Profesionales ------------------- 6°
+
+2 Profesionales ------------------- 7°
+
+4 Profesionales ------------------- 8°
+
+2 Profesionales ------------------- 10°
+
+2 Profesionales ------------------- 14°
+
+1 Profesional --------------------- 17°
+
+------
+
+14
+
+PLANTA TECNICA
+
+1 Técnico ------------------------- 14°
+
+5 Técnicos ------------------------ 15°
+
+5 Técnicos ------------------------ 17°
+
+4 Técnicos ------------------------ 18°
+
+-----
+
+15
+
+PLANTA ADMINISTRATIVA
+
+2 Oficiales Administrativos ------- 19°
+
+2 Oficiales Administrativos ------- 20°
+
+2 Oficiales Administrativos ------- 21°
+
+3 Oficiales Administrativos ------- 23°
+
+1 Oficial Administrativo ---------- 25°
+
+1 Oficial Administrativo ---------- 27°
+
+1 Oficial Administrativo ---------- 31°
+
+-----
+
+12
+
+PLANTA SERVICIOS MENORES
+
+3 Auxiliares de Servicios --------- 25°
+
+3 Auxiliares de Servicios --------- 27°
+
+1 Auxiliar de Servicio ------------ 28°
+
+2 Auxiliares de Servicios---------- 31°
+
+1 Auxiliar de Servicio ------------ 35°
+
+-----
+
+10
+
+TOTAL: 63
 
 #### Artículo 17°
 
@@ -174,13 +412,49 @@ El personal del Servicio Nacional de Turismo se regirá por el D.F.L. N° 338, d
 
 El Director Nacional de Turismo, de conformidad con lo establecido en el artículo 31 de la ley N° 18.575, y con sujeción a la planta y la dotación máxima de personal, establecerá mediante resolución fundada, su organización interna y determinará las denominaciones y funciones que correspondan a cada una de las unidades establecidas para el cumplimiento de las funciones del Servicio.
 
-#### Artículo 19
+#### Artículo 19°
 
-Derogado.
+Para ser designado en los cargos de Subdirector, Director Regional y Jefe de Departamento se requerirá estar en posesión de un título profesional universitario afín con la función o tener la calidad de Oficial de las Fuerzas Armadas o de Carabineros de Chile, en servicio activo o en retiro, o tener una experiencia de 8 años en actividades afines con la función. Para ser designado en el cargo de Fiscal se requerirá estar en posesión de título de Abogado.
 
-#### Artículo 20
+La provisión por nombramiento en cargos de las plantas profesionales del Servicio, con profesionales cuyas posiciones relativas, según el artículo 12°, del D.L. 249, de 1973, tengan como nivel máximo en la Escala Unica de Sueldos los grados 4° o 6°, deberán poseer, además del título correspondiente, la siguiente experiencia en actividades afines con la función de acuerdo a la siguiente pauta:
 
-Derogado.
+------------------------------------------------------
+
+Grado E. U. Experiencia
+
+------------------------------------------------------
+
+6° 8 años
+
+7° 5 años
+
+8° 4 años
+
+9° 3 años
+
+10° 2 años
+
+Respecto de los profesionales cuyos grados máximos sean de 12°, 13° ó 14°, se requerirá, además del título, la siguiente experiencia:
+
+------------------------------------------------------
+
+Grado E. U. Experiencia
+
+------------------------------------------------------
+
+12° 8 años
+
+14° 5 años
+
+16° 3 años
+
+Para ingresar a la Planta de Expertos se requerirá estar en posesión de un título relacionado con la actividad del Sector Turismo, otorgado por organismos internacionales de nivel universitario o por Escuelas Oficiales de Turismo nacionales o extranjeras, y tener 2 años de experiencia en el sector turismo.
+
+Para ingresar a las plantas técnicas del Servicio se requerirá estar en posesión de un título técnico universitario o estar inscrito en el Colegio de Técnicos respectivo.
+
+#### Artículo 20°
+
+La provisión de los cargos de las plantas profesionales establecidas en el artículo 16° del presente decreto ley no podrá hacerse, sea por nombramiento, ascenso, permuta o encasillamiento, en cargos cuya ubicación exceda del grado máximo de la posición relativa de la respectiva profesión, contenida en el artículo 12°, del D.L. N° 249, de 1973.
 
 #### Artículo 21°
 
