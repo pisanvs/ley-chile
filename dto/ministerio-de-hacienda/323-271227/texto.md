@@ -16,7 +16,9 @@ Decreto
 
 #### Artículo 1º
 
-Autorízase a la Zofri S.A. la instalación de recintos fuera del perímetro de la Zona Franca de Iquique, en la comuna de Alto Hospicio, que se individualizan en el artículo 2 del presente decreto, acogidos al régimen de Zona Franca, destinados a recibir automóviles para su almacenamiento y comercialización, y además, tratándose de automóviles usados, para el desarrollo de las actividades que implica su desarme, desabolladura, pintura, cambio de neumáticos, servicios mecánicos y cambio de volante.
+Autorízase a la Zofri S.A. la instalación de recintos fuera del perímetro de la Zona Franca de Iquique, en la comuna de Alto Hospicio, que se individualizan en el artículo 2 del presente decreto, acogidos al régimen de Zona Franca, destinados a recibir vehículos para su almacenamiento y comercialización, y además, tratándose de vehículos usados, para el desarrollo de las actividades que implica su desarme, desabolladura, pintura, cambio de neumáticos, servicios mecánicos y cambio de volante.
+
+Asimismo, se autoriza a la ZOFRI S.A. para que en los recintos mencionados en el inciso precedente, pueda almacenar y comercializar maquinarias, vehículos pesados y equipos industriales de grandes volúmenes, dimensiones y tonelajes, sus partes y piezas y desarrollar todas las actividades relativas al armado y ensamblado de dichas maquinarias, vehículos pesados y equipos industriales.
 
 #### Artículo 2º
 
