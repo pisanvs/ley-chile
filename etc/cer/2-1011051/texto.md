@@ -1,0 +1,7 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA EN LAS VENTAS DE CHATARRA A CONFORMADORA DE METALES LIMITADA
+
+Núm. 2.- El Director de la Dirección de Grandes Contribuyentes del Servicio de Impuestos Internos que suscribe, certifica que, al contribuyente Conformadora de Metales Limitada, RUT Nº 96.687.870-3, representante legal, señor Patricio Olivares Cooper, RUT Nº 3.980.381-K, con domicilio en Américo Vespucio Nº 1020, comuna de Pudahuel, se le otorga la calidad de agente retenedor de IVA en las ventas de chatarra, ya sea por cumplimiento de requisitos, adecuado comportamiento tributario o porque a juicio del Director el ejercicio de dicha calidad es de interés para el sector y para el buen funcionamiento del mercado. Lo anterior en virtud de las facultades contenidas en el artículo 3º inciso tercero de la Ley sobre Impuesto a las Ventas y Servicios, esto a partir del día 1º del mes siguiente al de la publicación de este certificado en el Diario Oficial, por cuenta y costo del contribuyente y en forma indefinida, de acuerdo a lo señalado en el ordinario Nº3.450 de fecha 04/12/2009, de la Subdirección de Fiscalización.
+
+El plazo de la publicación en el Diario Oficial de este certificado es dentro de los 15 días corridos siguientes a la fecha de su emisión.
+
+Santiago, 21 de enero de 2010.- Bernardo Marchant Águila, Director Dirección Grandes Contribuyentes.
