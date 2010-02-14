@@ -768,6 +768,14 @@ Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito
 
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
 
+Asimismo, no podrá deducir, retener o compensar suma alguna por el no pago de efectos de comercio que el empleador hubiera autorizado recibir como medio de pago por los bienes suministrados o servicios prestados a terceros en su establecimiento.
+
+La autorización del empleador, señalada en el inciso anterior, deberá constar por escrito, así como también los procedimientos que el trabajador debe cumplir para recibir como forma de pago los respectivos efectos de comercio.
+
+En caso de robo, hurto, pérdida o destrucción por parte de terceros de bienes de la empresa sin que haya mediado responsabilidad del trabajador, el empleador no podrá descontar de la remuneración del o de los trabajadores el monto de lo robado, hurtado, perdido o dañado.
+
+La infracción a esta prohibición será sancionada con la restitución obligatoria, por parte del empleador, de la cifra descontada, debidamente reajustada, sin perjuicio de las multas que procedan de conformidad a este Código.
+
 #### Artículo 59
 
 <!-- parte:8511898 -->
@@ -2174,6 +2182,8 @@ En ningún caso las alternativas que se pacten, en uno u otro evento, podrán im
 
 DEL REGLAMENTO INTERNO
 
+.
+
 #### Artículo 153
 
 <!-- parte:8512006 -->
@@ -2204,7 +2214,7 @@ El reglamento interno deberá contener, a lo menos, las siguientes disposiciones
 
 6.- la designación de los cargos ejecutivos o dependientes del establecimiento ante quienes los trabajadores deban plantear sus peticiones, reclamos, consultas y sugerencias, y en el caso de empresas de doscientos trabajadores o más, un registro que consigne los diversos cargos o funciones en la empresa y sus características técnicas esenciales;
 
-7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores;
+7.- las normas especiales pertinentes a las diversas clases de faenas, de acuerdo con la edad y sexo de los trabajadores, y a los ajustes necesarios y servicios de apoyo que permitan al trabajador con discapacidad un desempeño laboral adecuado;
 
 8.- la forma de comprobación del cumplimiento de las leyes de previsión, de servicio militar obligatorio, de cédula de identidad y, en el caso de menores, de haberse cumplido la obligación escolar;
 
