@@ -54,9 +54,9 @@ l) Defensor Nacional;
 
 m) Subsecretarios de Estado y otros altos funcionarios con rango de Subsecretario;
 
-n) Embajadores, Funcionarios de Carrera del Servicio Exterior; Directores y Subdirectores; Funcionarios Directivos y Profesionales de la Secretaría y Administración General hasta el grado 8 de la Escala Unica de Sueldos inclusive, del Ministerio de Relaciones Exteriores y de sus Servicios Públicos Dependientes;
+n) Embajadores, Funcionarios de Carrera del Servicio Exterior; Directores y Subdirectores; Funcionarios Directivos y Profesionales de la Secretaría y Administración General hasta el grado 8 de la Escala Unica de Sueldos inclusive, del Ministerio de Relaciones Exteriores, de sus Servicios Públicos Dependientes y Relacionado;
 
-ñ) Agregados señalados en el artículo 4º y 5º del decreto con fuerza de ley Nº 33 de 1979 del Ministerio de Relaciones Exteriores; funcionarios directivos, profesionales, técnicos y administrativos del Ministerio de Relaciones Exteriores y de sus servicios públicos dependientes, sin distinción de grado, cuando viajen al exterior en comisiones de servicio o destinados a una Misión de Chile, por un período superior a un año;
+ñ) Agregados señalados en el artículo 4º y 5º del decreto con fuerza de ley Nº 33 de 1979 del Ministerio de Relaciones Exteriores; funcionarios directivos, profesionales, técnicos y administrativos del Ministerio de Relaciones Exteriores, de sus servicios públicos dependientes y relacionado, sin distinción de grado, cuando viajen al exterior en comisiones de servicio o destinados a una Misión de Chile.
 
 o) Delegados de Chile a conferencias internacionales;
 
@@ -80,6 +80,8 @@ u) Cónyuges cualquiera sea su nacionalidad, de las personas incluidas en las le
 
 - **s)** del presente artículo, mientras permanezcan en calidad de tales.
 
+v) Funcionarios de la Planta de Auxiliares del Ministerio de Relaciones Exteriores, de sus servicios públicos dependientes y relacionado, cuando viajen destinados a una Misión Diplomática, representación consular u otra dependencia de Chile en el exterior, o en comisiones de servicio dispuestas a través del decreto supremo o resolución, según corresponda.
+
 #### Artículo 5º
 
 El Ministerio de Relaciones Exteriores otorgará "Pasaporte Oficial" a las siguientes personas de nacionalidad chilena:
@@ -96,7 +98,7 @@ e) Secretarios de Comisiones del Senado y de la Cámara de Diputados;
 
 f) Funcionarios de la Administración del Estado, de la Judicatura, del Magisterio, de las Fuerzas Armadas, Carabineros, Policía de Investigaciones; Jefes Superiores y Funcionarios de los Organismos Autónomos del Estado a quienes mediante decreto supremo o resolución pertinente, se les confiera misiones oficiales en el exterior, según corresponda;
 
-g) Funcionarios de la Planta de Auxiliares del Ministerio de Relaciones Exteriores y de sus servicios públicos dependientes, cuando viajen destinados a una Misión Diplomática, representación consular u otra dependencia de Chile en el exterior, o en comisiones de servicio dispuestas a través del decreto supremo o resolución, según corresponda;
+g) SUPRIMIDA.
 
 h) Personal al servicio particular de los funcionarios destinados a prestar servicios por más de un año en el exterior, en el caso que el Estado receptor lo exija para el otorgamiento de la visa y acreditación correspondientes.
 
