@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN PARA NUEVAS EXTRACCIONES DE AGUAS SUBTERRÁNEAS EN LOS SUBSECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE PUANGUE ALTO, PUANGUE MEDIO, CHOLQUI, POPETA, MELIPILLA Y LA HIGUERA, CORRESPONDIENTES AL ACUÍFERO PUANGUE-MELIPILLA, QUE COMPRENDE LAS COMUNAS DE CURACAVÍ, MARÍA PINTO Y MELIPILLA, EN LA PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA DE SANTIAGO
+
+Mediante resolución DGA Nº 304 (Exenta), de fecha 8 de febrero de 2010, se ha modificado el Área de restricción para nuevas extracciones de aguas subterráneas en los subsectores hidrogeológicos de aprovechamiento común de Puangue Alto, Puangue Medio, Cholqui, Popeta, Melipilla y La Higuera, correspondientes al acuífero Puangue-Melipilla, que comprende las comunas de Curacaví, María Pinto y Melipilla, en la provincia de Melipilla, Región Metropolitana de Santiago. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región Metropolitana de Santiago y en la página web de la DGA.
+
+Rodrigo Weisner Lazo, Director General de Aguas.
