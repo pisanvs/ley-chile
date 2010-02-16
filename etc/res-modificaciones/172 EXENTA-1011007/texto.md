@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN LOS SECTORES ACUÍFEROS DE ESTERO CACHAGUA, ESTERO PAPUDO, MAIPO-DESEMBOCADURA, SECTOR CATAPILCO SUBSECTOR LA LAGUNA, SECTOR HORCÓN, SECTOR QUINTERO SUBSECTOR DUNAS DE QUINTERO, ESTERO LAS SALINAS SUR, ESTERO PUCHUNCAVÍ Y ROCAS DE SANTO DOMINGO, REGIÓN DE VALPARAÍSO
+
+Mediante resolución D.G.A. Nº 172 (exenta), de fecha 27 de enero de 2010, se ha modificado el Área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común los sectores acuíferos de Estero Cachagua, Estero Papudo, Maipo-Desembocadura, sector Catapilco subsector La Laguna, sector Horcón, sector Quintero subsector Dunas de Quintero, Estero Las Salinas Sur, Estero Puchuncaví y Rocas de Santo Domingo, Región de Valparaíso. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Valparaíso y en la página web de la DGA.
+
+Rodrigo Weisner Lazo, Director General de Aguas.
