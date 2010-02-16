@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN EL SUBSECTOR ACUÍFERO DE EL MONTE, QUE COMPRENDE LAS COMUNAS DE EL MONTE, TALAGANTE, ISLA DE MAIPO, MELIPILLA, BUIN, PEÑAFLOR Y PAINE, PROVINCIAS DE TALAGANTE, MELIPILLA Y MAIPO, REGIÓN METROPOLITANA
+
+Mediante resolución D.G.A Nº 248 (Exenta), de fecha 4 de febrero de 2010, se ha modificado el Área de restricción para nuevas extracciones de aguas subterráneas, en el subsector acuífero de El Monte, que comprende las comunas de El Monte, Talagante, Isla de Maipo, Melipilla, Buin, Peñaflor y Paine, provincias de Talagante, Melipilla y Maipo, Región Metropolitana. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región Metropolitana de Santiago y en la página web de la DGA.
+
+Fernando Valdés Hernández, Director General de Aguas (S).
