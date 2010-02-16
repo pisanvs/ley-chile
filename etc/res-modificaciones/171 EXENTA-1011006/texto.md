@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DEL SECTOR HIDROGEOLÓGICO DE APROVECHAMIENTO COMÚN PARA EL ACUÍFERO DE LA CUENCA DEL ESTERO SAN JERÓNIMO LO ORREGO, EN LAS COMUNAS DE ALGARROBO Y CASABLANCA, PROVINCIAS DE SAN ANTONIO Y VALPARAÍSO, RESPECTIVAMENTE, REGIÓN DE VALPARAÍSO
+
+Mediante Resolución D.G.A. Nº 171 (exenta), de fecha 27 de enero de 2010, se ha modificado el Área de restricción para nuevas extracciones de aguas subterráneas, en el sector Hidrogeológico de aprovechamiento común para el acuífero de la cuenca del estero San Jerónimo Lo Orrego, en las comunas de Algarrobo y Casablanca, provincias de San Antonio y Valparaíso respectivamente, Región de Valparaíso. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Valparaíso y en la página web de la DGA.
+
+Rodrigo Weisner Lazo, Director General de Aguas.
