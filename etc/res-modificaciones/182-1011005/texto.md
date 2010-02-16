@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DE LA CUENCA DEL ESTERO NILAHUE CORRESPONDIENTES A NILAHUE ANTES DE QUIAHUE, ESTERO QUIAHUE, ESTERO LOLOL, ESTERO PUMANQUE Y NILAHUE EN SANTA TERESA, EN LA PROVINCIA DE COLCHAGUA, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O’HIGGINS
+
+Mediante resolución D. G. A. Nº 182, de fecha 27 de enero de 2010, se ha modificado el área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común de la cuenca del Estero Nilahue correspondientes a Nilahue antes de Quiahue, estero Quiahue, estero Lolol, estero Pumanque y Nilahue en Santa Teresa, en la provincia de Colchagua, Región del Libertador General Bernardo O’Higgins. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región del Libertador General Bernardo O’Higgins y en la página web de la DGA.
+
+Rodrigo Weisner Lazo, Director General de Aguas.
