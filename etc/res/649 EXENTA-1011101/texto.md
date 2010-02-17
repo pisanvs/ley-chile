@@ -1,0 +1,3 @@
+Por resolución exenta Nº 649, de 3 de febrero de 2010, de esta Subsecretaría, autorízase a TECNOALIMENTOS LIMITADA para iniciar actividades pesqueras de transformación, instalar y operar planta ubicada en camino El Nogal Nº 1314, Parcela 5, sector El Trapiche, Rancagua, VI Región, en línea de proceso Alga seca y Picado de algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
