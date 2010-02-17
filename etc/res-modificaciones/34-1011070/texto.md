@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA Nº 193 DE 22 DE DICIEMBRE DE 2009, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA SOBRE TRABAJADORES, SEGÚN CASA MATRIZ O SUCURSALES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 34 del 11 de febrero de 2010, que modifica instrucciones sobre "Declaración jurada anual sobre trabajadores, según casa matriz o sucursales", Formulario 1802, que deberán presentar las personas naturales y jurídicas, sociedades de hecho y comunidades, que determinen su renta efectiva mediante contabilidad completa y balance general, y que paguen rentas del artículo 42 Nº 1 de la Ley sobre Impuesto a la Renta, o el sueldo empresarial establecido en el inciso tercero del artículo 31 Nº 6 de la ley antes mencionada.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además aparecerá en el Boletín del SII del mes de febrero, de 2010.
