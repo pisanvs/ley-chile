@@ -22,39 +22,35 @@ Establécense las siguientes áreas de manejo y explotación de recursos bentón
 
 A) En el sector denominado Río Colun sector A, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4000-7330; 1ª Edición 1972;
+COORDENADAS GEOGRÁFICAS REFERIDAS AL DATUM WGS-84
 
-Escala 1:50.000
+Puntos Latitud(S) Longitud (W)
 
-Puntos Latitud (S) Longitud (W)
+A 40º 05’ 06,96" 073º 38’ 47,34"
 
-A 40° 04' 52.49" 073° 38' 37.80"
+B 40º 05’ 11,05" 073º 38’ 48,32"
 
-B 40° 04' 56.66" 073° 38' 38.72"
+C 40º 05’ 17,62" 073º 39’ 09,53"
 
-C 40° 05' 03.29" 073° 39' 00.25"
+D 40º 05’ 14,49" 073º 39’ 10,94"
 
-D 40° 04' 59.97" 073° 39' 01.56"
+E 40º 05’ 06,95" 073º 38’ 52,66"
 
-E 40° 04' 52.61" 073° 38' 43.51"
-
-F 40° 04' 53.16" 073° 38' 41.30"
+F 40º 05’ 07,12" 073º 38’ 50,79"
 
 B) En el sector denominado Río Colun sector B, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4000-7330; 1ª Edición 1972;
+COORDENADAS GEOGRÁFICAS REFERIDAS AL DATUM WGS-84
 
-Escala 1:50.000
+Puntos Latitud(S) Longitud (W)
 
-Puntos Latitud (S) Longitud (W)
+A 40º 04’ 27,71" 073º 38’ 11,60"
 
-A 40° 04' 14.70" 073° 37' 58.61"
+B 40º 04’ 29,13" 073º 38’ 08,18"
 
-B 40° 04' 47.83" 073° 38' 12.96"
+C 40º 05’ 02,54" 073º 38’ 22,60"
 
-C 40° 04' 47.09" 073° 38' 17.19"
-
-D 40° 04' 13.42" 073° 38' 02.29"
+D 40º 05’ 01,97" 073º 38’ 26,55"
 
 #### Artículo 2º
 
