@@ -236,6 +236,8 @@ Dado lo anterior, el traslado de las mercancías de un vehículo a otro, en este
 
 Dicho transbordo sólo podrá efectuarse en las Zonas Primarias de jurisdicción de las Aduanas.
 
+1.12.- El traslado de vehículos chilenos provenientes desde la Zona Franca de Iquique con destino a la Zona Franca de Punta Arenas, amparados por "Solicitudes de Reexpedición" emitidas en la Aduana de Iquique, en tránsito por territorio Argentino, debe estar amparado por el respectivo MIC/DTA
+
 ### 2. Salida
 
 2.1.- Presentación
@@ -290,9 +292,9 @@ Al presentarse el vehículo en frontera, si corresponde a un vehículo con carga
 
 Si todo se encuentra conforme, tanto para el caso de los vehículos chilenos como extranjeros, se debe proceder a:
 
-• Dejar copia del MIC (Archivo).
+. Dejar copia del MIC (Archivo).
 
-• cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
+. cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
 
 2.3.2 MIC/DTA en lastre o remonta.
 
@@ -354,9 +356,9 @@ a) Los camiones con carga general de ingreso se deberán presentar ante el Contr
 
 Si todo se encuentra conforme, tanto para el caso de los vehículos chilenos como extranjeros, se debe proceder a:
 
-• Dejar copia del MIC (Archivo).
+. Dejar copia del MIC (Archivo).
 
-• cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
+. cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
 
 b) En el caso de carga peligrosa, y dependiendo de las condiciones operativas de la zona primaria de la Aduana de la cual depende el paso fronterizo de ingreso, se podrá realizar el cierre de la operación directamente en frontera o se deberán presentar en el Control de Zona Primaria respectiva, dependiendo de lo que disponga cada Aduana.
 
@@ -364,9 +366,9 @@ c) En los casos de carga en tránsito, se deberán presentar ante la Aduana de s
 
 Si todo se encuentra conforme, tanto para el caso de los vehículos chilenos como extranjeros, se debe proceder a:
 
-• Dejar copia del MIC (Archivo).
+. Dejar copia del MIC (Archivo).
 
-• Cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
+. Cumplir este documento, y reflejar este cumplido ingresándolo en la opción Cierre MIC del sistema SIROTE.
 
 En caso de encontrarse errores o diferencias entre lo manifestado y lo presentado ante Aduana se devolverá la documentación al usuario para que realice la tramitación de una aclaración, y el cierre del MIC/DTA en SIROTE se dejará pendiente.
 
