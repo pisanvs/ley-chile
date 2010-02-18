@@ -1,0 +1,3 @@
+Por resolución exenta Nº 568, de 29 de enero de 2010, de esta Subsecretaría, autorízase a COMERCIAL E INVERSIONES LAS DELICIAS LIMITADA para iniciar actividades pesqueras de transformación, instalar y operar una planta en Lote A2, Parcela Nº 5, Sector Cosmito, Penco, VIII Región, para elaborar en las líneas de Seco salado, Salado húmedo, Harina, Alga seca, Deshidratado y Semiseco enfriado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretario de Pesca (S).
