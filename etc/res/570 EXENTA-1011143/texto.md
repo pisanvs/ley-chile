@@ -1,0 +1,3 @@
+Por resolución exenta Nº 570, de 29 de enero de 2010 de esta Subsecretaría, autorízase a NORPATAGONIA SEAFOODS SOCIEDAD ANÓNIMA, para iniciar actividades pesqueras de transformación, instalar y operar una planta en calle Arica Nº 2478, Valdivia, XIV Región, para elaborar en las líneas de Cocido, Fresco-Enfriado, Congelado, Seco-Salado, Ahumado, Conservas, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
