@@ -60,4 +60,36 @@ Al presente artículo, considera para todo aquel establecimiento contemplado en 
 
 6. La presente ordenanza comenzará a regir 30 días después de su publicación en el Diario Oficial y/o un periódico de circulación local.
 
+#### Artículo transitorio
+
+Modifíquese el horario de funcionamiento, es decir apertura y cierre, de los locales comerciales de acuerdo a la clasificación que más adelante se indica, por el período comprendido entre el 15 de enero de 2010 y hasta el 15 de abril de 2010:
+
+Clasificación Tipos de Establecimientos Horario de
+
+Funcionamiento
+
+C Restaurantes Diurnos o
+
+Nocturnos De lunes a
+
+domingo entre
+
+(sólo clientes) las 10:00 y las
+
+03:00 del día
+
+siguiente
+
+F Establecimientos de
+
+expendio de Todos los días
+
+cervezas o sidra de entre las 10:00
+
+frutas y las 03:00 del
+
+día siguiente
+
+Al presente artículo, considera para todo aquel establecimiento contemplado en las letras C, F, su hora de cierre se ampliará en una hora adicional los fines de semana y festivos.
+
 Anótese, comuníquese, publíquese y archívese.- Eduardo Cerda Lecaros, Alcalde.- Rayén Tapia Leiva, Secretaria Municipal (S).
