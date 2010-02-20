@@ -78,19 +78,13 @@ De la Tasación de los Bienes Raíces
 
 #### Artículo 3°
 
-El Servicio de Impuestos Internos deberá reavaluar, cada 4 años, los bienes raíces agrícolas y no agrícolas sujetos a las disposiciones de esta ley, aplicándose la nueva tasación, para cada serie, simultáneamente a todas las comunas del país.
-
-No obstante lo dispuesto en el inciso anterior, el Servicio de Impuestos Internos deberá reavaluar, en el período comprendido entre dos reavalúos nacionales, aquellas comunas o sectores de éstas en que se produzca una ampliación en el límite urbano de un plan regulador. Para estos efectos, el Servicio de Impuestos Internos deberá ser informado por la autoridad que promulgue los respectivos planes reguladores del hecho de la publicación de éstos, dentro del plazo de tercero día.
-
-Para efectos del reavalúo a que se refiere el inciso anterior, el Servicio de Impuestos Internos tendrá un plazo de seis meses contados desde que reciba la información señalada.
+El Servicio de Impuestos Internos deberá reavaluar, cada 5 años, los bienes raíces agrícolas y no agrícolas sujetos a las disposiciones de esta ley, aplicándose la nueva tasación, para cada serie, simultáneamente a todas las comunas del país.
 
 Para estos efectos, el Servicio podrá solicitar la asistencia y cooperación de los municipios para la tasación de los bienes raíces de sus respectivos territorios y requerir de los propietarios la información de sus propiedades; todo lo anterior, en la forma y plazo que el Servicio determine. Para recoger esta información, el Servicio de Impuestos Internos facilitará el cumplimiento tributario a través de los mecanismos disponibles al efecto. Esta información no debe implicar costos para el propietario.
 
 Con ocasión de los reavalúos, el giro del impuesto territorial a nivel nacional no podrá aumentar en más de un 10%, el primer semestre de vigencia de los reavalúos, en relación al impuesto territorial que debiera girarse conforme a la ley en el semestre inmediatamente anterior a la vigencia de dicho reavalúo, de haberse aplicado las tasas correspondientes del impuesto a la base imponible de cada una de las propiedades.
 
-No obstante lo establecido en el inciso anterior, a aquellos predios cuyo avalúo se determine conforme a lo dispuesto en el inciso segundo, se les girará el total del impuesto reavaluado en el semestre anterior al que corresponda aplicarle el nuevo avalúo fiscal.
-
-Para todas las propiedades de la Serie Agrícola y de la Serie No Agrícola que, con ocasión del respectivo reavalúo, aumenten sus contribuciones en más de un 25%, respecto de las que debieron girarse en el semestre inmediatamente anterior, de haberse aplicado la tasa correspondiente del impuesto a su base imponible y cuya cuota trimestral de contribuciones reavaluada sea superior a $ 5.000 del 1 de enero de 2003, la parte que exceda a los guarismos antes descritos, se incorporará semestralmente en hasta un 10%, calculando dicho incremento sobre la cuota girada en el semestre inmediatamente anterior, por un período máximo de hasta 7 semestres, excluido el primero.
+Para todas las propiedades de la Serie Agrícola y de la Serie No Agrícola que, con ocasión del respectivo reavalúo, aumenten sus contribuciones en más de un 25%, respecto de las que debieron girarse en el semestre inmediatamente anterior, de haberse aplicado la tasa correspondiente del impuesto a su base imponible y cuya cuota trimestral de contribuciones reavaluada sea superior a $ 5.000 del 1 de enero de 2003, la parte que exceda a los guarismos antes descritos, se incorporará semestralmente en hasta un 10%, calculando dicho incremento sobre la cuota girada en el semestre inmediatamente anterior, por un período máximo de hasta 8 semestres, excluido el primero, de tal forma de que al décimo semestre a todos los predios se les girará el impuesto reavaluado correspondientemente.
 
 Para estos efectos, a las propiedades exentas de contribuciones en el semestre inmediatamente anterior al reavalúo, se les considerará una cuota base trimestral de $ 4.000 del 1 de enero de 2003. Esta cantidad, como asimismo la señalada en el inciso anterior, se reajustarán en la misma forma y porcentaje que los avalúos de los bienes raíces.
 
@@ -98,7 +92,7 @@ Para los efectos de la tasación a que se refiere el inciso primero, el Servicio
 
 No obstante lo dispuesto en el inciso primero, el Servicio de Impuestos Internos tasará con vigencia a contar del 1 de enero de cada año, los bienes raíces no agrícolas que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en las áreas urbanas, con sujeción a las normas establecidas en el N° 2 del artículo 4°. Para estos efectos, el Servicio podrá requerir anualmente de los propietarios la declaración a que se refiere el inciso anterior.
 
-Para las propiedades señaladas en el inciso anterior, se aplicará el mismo mecanismo de determinación del impuesto territorial a que se refiere el inciso séptimo, en lo que corresponda al primer año.
+Para las propiedades señaladas en el inciso anterior, se aplicará el mismo mecanismo de determinación del impuesto territorial a que se refiere el inciso cuarto, en lo que corresponda al primer año.
 
 > **Nota.** El artículo 1º transitorio de la LEY 20033, publicada el 01.07.2005, dispone que la modificación de la presente norma, rige a contar del 01.01.2006.
 
@@ -160,91 +154,17 @@ Con todo, sobre la más alta de las tasas así determinadas para la serie no agr
 
 > **Nota.** NOTA 1: El Art. único del DTO 1456, publicado el 19.01.2006, modificó las tasas del impuesto territorial aplicables sobre los avalúos de los bienes raíces no agrícolas, de la siguiente forma:" 1.- 1,0% para los bienes raíces no agrícolas destinados a la habitación en la parte de la base imponible que no exceda de $51.416.601 del 1 de julio de 2005; y 1,2% en la parte de la base imponible que exceda el monto señalado. 2.- 1,2% a la base imponible de los bienes raíces no agrícolas no incluidos en el punto 1. Estas tasas regirán durante todo el tiempo de vigencia de los nuevos avalúos de los bienes raíces no agrícolas determinados por el Servicio de Impuestos Internos."
 
-> **Nota.** NOTA 2 El Artículo Único del Decreto 1777, Hacienda, publicado el 05.02.2013, modifica la presente norma en el sentido de fijar la tasa del impuesto territorial, que corresponde aplicar sobre los avalúos de los bienes raíces no agrícolas, no habitacionales, con excepción de los estacionamientos y bodegas asociados a conjuntos habitacionales acogidos a la Ley Nº 19.537 sobre Copropiedad Inmobiliaria, en 1,2% sobre la base imponible. Esta tasa regirá durante todo el tiempo de vigencia de los nuevos avalúos.
-
-> **Nota.** NOTA 3 El artículo primero del Decreto 5, Hacienda, publicado el 05.02.2014, modifica la presente norma en el sentido de fijar la tasa de impuesto territorial a que se refiere la letra b) del presente artículo en 1,143 % al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros, como asimismo a estacionamientos y bodegas asociados a conjuntos habitacionales acogidos a la ley Nº 19.537, sobre Copropiedad Inmobiliaria. Por su parte, el articulo segundo del señalado Decreto fijó la tasa de impuesto territorial a que se refiere la letra c), aplicable a los bienes raíces no agrícolas destinados a la habitación, en 0,980% al año, en la parte de la base imponible que no exceda del monto indicado en el mismo literal, y en 1,143% al año, en la parte de la base imponible que exceda el monto allí señalado.
-
-> **Nota.** NOTA 4 El artículo único del Decreto 159, Hacienda, publicado el 21.03.2015, modifica la presente norma en el sentido de fijar la tasa de impuesto territorial a que se refiere la letra b) del presente artículo en 1,20% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros, ubicados en las áreas urbanas. Tasa que regirá durante el tiempo de vigencia del avalúo fijado para el año 2015.
-
-> **Nota.** NOTA 5 El artículo 1° del Decreto 1, Hacienda, publicado el 12.02.2016, fija a contar del 1º de enero de 2016, la tasa del impuesto territorial a que se refiere la letra a) del presente artículo en 0,860% al año, aplicable a los bienes raíces agrícolas.
-
-> **Nota.** NOTA 6 El artículo 1° del Decreto 1, Hacienda, publicado el 12.02.2016, fija, a contar del 1º de enero de 2016, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo, en 1,204% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros, ubicados en las áreas urbanas.
-
-> **Nota.** NOTA 7 El artículo 1° del Decreto 1886, Hacienda, publicado el 04.03.2017, fija a contar 1 de enero del año 2017, la tasa de impuesto territorial a que se refiere la letra b) del presente artículo, en un 1,212% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas y pozos lastreros, ubicados en áreas urbanas.
-
-> **Nota.** NOTA 8 El artículo 1° del Decreto 1, Hacienda, publicado el 15.02.2018, fija a contar del 1º de enero de 2018, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en un 1,138% al año, aplicable a los bienes raíces no agrícolas.
-
-> **Nota.** NOTA 9 El artículo 2° del Decreto 1, Hacienda, publicado el 15.02.2018, fija a contar del 1º de enero de 2018, la tasa del impuesto territorial a que se refiere la letra c) del presente artículo en un 0,975% al año, aplicable a los bienes raíces no agrícolas destinados a la habitación en la parte de la base imponible que no exceda el monto indicado en la referida letra; y en 1,138% al año, en la parte de la base imponible que lo exceda.
-
-> **Nota.** NOTA 10 El artículo 1° del Decreto 458, Hacienda, publicado el 02.04.2018, fija a contar del 1º de enero de 2018, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en un 1,088% al año, aplicable a los bienes raíces no agrícolas.
-
-> **Nota.** NOTA 11 El artículo 2° del Decreto 458, Hacienda, publicado el 02.04.2018, fija a contar del 1º de enero de 2018, la tasa del impuesto territorial a que se refiere la letra c) del presente artículo en un 0,933% al año, aplicable a los bienes raíces no agrícolas destinados a la habitación en la parte de la base imponible que no exceda el monto indicado en la referida letra; y en 1,088% al año, en la parte de la base imponible que lo exceda.
-
-> **Nota.** NOTA 12 El artículo 1° del Decreto 39, Hacienda, publicado el 23.03.2019, fija a contar del 01.01.2019, la la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en un 1,088% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en áreas urbanas.
-
-> **Nota.** NOTA 13 El numeral 1 del Decreto 342, Hacienda, publicado el 11.03.2021, fija a contar del 1 de enero de 2021, la tasa del Impuesto Territorial a que se refiere la letra b) del presente artículo en 1,131% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en áreas urbanas.
-
-> **Nota.** NOTA 14 El artículo 1° del Decreto 437, Hacienda, publicado el 12.04.2022, dispone fijar, a contar del 1° de enero del año 2022, la tasa de impuesto territorial a que se refiere la letra b) del presente artículo en 1,042% al año, aplicable a los bienes raíces no agrícolas. Por su parte, el artículo 2º del señalado decreto fija, a contar del 1° de enero del año 2022, la tasa de impuesto territorial a que se refiere la letra c) del presente artículo, en 0,893% al año, aplicable a los bienes raíces no agrícolas destinados a la habitación en la parte de la base imponible que no exceda el monto indicado en la resolución Ex. SII N°11 de 2022, del Servicio de Impuestos Internos y en 1,042% al año, en la parte de la base imponible que lo exceda.
-
-> **Nota.** NOTA 15 El artículo 1° del Decreto 226, Hacienda, publicado el 23.03.2023, fija a contar del 1 de enero de 2023, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en 1,137% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en áreas urbanas.
-
-> **Nota.** NOTA 16 El artículo 1° del Decreto 102, Hacienda, publicado el 07.03.2024, fija a contar del 1 de enero de 2024, la tasa del impuesto territorial a que se refiere la letra a) del presente artículo en 0,4% al año, aplicable a los bienes raíces agrícolas.
-
-> **Nota.** NOTA 17 El artículo 2° del Decreto 102, Hacienda, publicado el 07.03.2024, fija a contar del 1 de enero de 2024, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en 1,23% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en áreas urbanas.
-
-> **Nota.** NOTA 18 El artículo 1° del Decreto 213, Hacienda, publicado el 29.03.2025, fija a contar del 1 de enero de 2025, la tasa del impuesto territorial a que se refiere la letra b) del presente artículo en 1,23% al año, aplicable a los bienes raíces no agrícolas correspondientes a sitios no edificados, propiedades abandonadas o pozos lastreros, ubicados en áreas urbanas.
-
-#### Artículo 7° bis
-
-Sobretasa de impuesto territorial. Establécese una sobretasa anual del impuesto territorial a beneficio fiscal calculada sobre el avalúo fiscal total en la parte que exceda de 670 unidades tributarias anuales, sujeta a las siguientes disposiciones.
-
-1. Contribuyente. Esta sobretasa aplicará a las personas naturales y jurídicas, y a las entidades sin personalidad jurídica, respecto de los bienes raíces de que sean propietarios conforme al registro de propiedad de bienes raíces del respectivo Conservador de Bienes Raíces.
-
-No obstante lo anterior, no estarán gravados con esta sobretasa los bienes raíces de propiedad de los contribuyentes que tributen conforme al artículo 14 letra D) de la Ley sobre Impuesto a la Renta respecto de los bienes raíces, o parte de ellos, que destinen al negocio o giro de la empresa. Asimismo, tampoco estarán gravados con esta sobretasa los bienes raíces en que inviertan los fondos de pensiones conforme a la letra n) del artículo 45 del decreto ley N° 3.500, de 1980.
-
-Tampoco estarán gravados con esta sobretasa los bienes sujetos a la aplicación del artículo 27 de esta ley.
-
-2. Base imponible. Avalúo fiscal total. El avalúo fiscal total corresponde a la suma de los avalúos fiscales de cada uno de los bienes raíces de propiedad de un mismo contribuyente según su valor al 31 de diciembre del año anterior al que se devenga esta sobretasa. Tratándose de bienes raíces en donde se tiene una cuota del dominio en conjunto con otros copropietarios, se considerará únicamente la proporción en el avalúo fiscal equivalente a la cuota de dominio que le corresponda.
-
-Para el cálculo del avalúo fiscal total no se considerará el monto del avalúo fiscal de un bien raíz en la misma proporción en que se encuentre exento, total o parcialmente, de impuesto territorial conforme al Cuadro Anexo de esta ley o por cualquier ley especial.
-
-Por su parte, para el cálculo del avalúo fiscal total se considerará íntegramente el avalúo fiscal de los bienes raíces de la serie agrícola y no agrícola con destino habitacional, incluyendo en ambos casos el monto del avalúo exento de impuesto territorial que establece el artículo 2°.
-
-El Servicio de Impuestos Internos podrá ejercer la facultad de fiscalización dispuesta en el artículo 70 de la Ley sobre Impuesto a la Renta para determinar el origen de los fondos con que se ha adquirido un bien raíz. Asimismo, podrá ejercer la facultad establecida en el artículo 64 del Código Tributario respecto de los actos y contratos celebrados para la adquisición de bienes raíces.
-
-3. Tasa marginal por tramos. Una vez determinado el avalúo fiscal total en la forma prevista en el número anterior, la sobretasa se aplicará en forma marginal, considerando los siguientes tramos de avalúo fiscal total:
-
-a) Sobre 670 unidades tributarias anuales y hasta 1.175 unidades tributarias anuales, la tasa será de 0,075%.
-
-b) Sobre 1.175 unidades tributarias anuales y hasta 1.510 unidades tributarias anuales, la tasa será de 0,15%.
-
-c) Sobre 1.510 unidades tributarias anuales, la tasa será de 0,425%.
-
-Los montos correspondientes a cada tramo de avalúo fiscal total se incrementarán en el mismo porcentaje en que se aumente el avalúo de la serie no agrícola en cada proceso de reavalúo que aplique el Servicio de Impuestos Internos de conformidad al artículo 3°. Este incremento de los tramos de avalúo fiscal total aplicará para la determinación de la sobretasa a partir de la vigencia del avalúo determinado a consecuencia del proceso de reavalúo.
-
-Para la determinación de los tramos de avalúo fiscal total, la unidad tributaria anual se convertirá a su valor en pesos de diciembre del año anterior en que deba pagarse esta sobretasa.
-
-4. Devengo y pago de la sobretasa. Esta sobretasa se devengará anualmente al 1° de enero, considerando los bienes raíces inscritos en el Conservador de Bienes Raíces a nombre del contribuyente al 31 de diciembre del año anterior. La sobretasa devengada al 1° de enero corresponderá a la sobretasa total para el contribuyente respecto del período anual entre el 1° de enero y el 31 de diciembre del año de devengo. En consecuencia, en caso que el contribuyente enajene un bien raíz durante el año, no se afectará la aplicación de la sobretasa devengada el 1° de enero del año respectivo.
-
-El giro y pago de la sobretasa se realizará en la misma oportunidad aplicable al impuesto territorial según lo establecido en el artículo 22. Para estos efectos se reajustará el valor del avalúo fiscal total al 31 de diciembre del año anterior, de acuerdo a la norma de reajuste establecida en el artículo 9.
-
-El Servicio de Impuestos Internos emitirá un giro de esta sobretasa junto con los roles semestrales de contribuciones. Dicho giro contendrá los datos indispensables establecidos en el artículo 18.
-
-El contribuyente podrá reclamar de la sobretasa, sus fundamentos y su giro en conformidad al procedimiento a que se refiere el artículo 123 y siguientes del Código Tributario, salvo que lo reclamado se refiera al avalúo fiscal de un bien raíz que forma parte del avalúo fiscal total, en cuyo caso dicho reclamo deberá efectuarse de conformidad a lo dispuesto en los artículos 149 y siguientes del Código Tributario. En estos casos, lo resuelto será aplicable respecto del impuesto territorial y de la sobretasa.
-
-5. Tratamiento tributario de la sobretasa. La presente sobretasa tendrá el mismo tratamiento tributario que aquel establecido en esta y otras leyes para el impuesto territorial.
-
-En caso que un contribuyente sea propietario de bienes raíces que tengan distintos destinos y que, conforme a las disposiciones que resulten aplicables, den derecho a una rebaja del impuesto territorial como crédito, a una deducción del mismo como gasto o se encuentren afectos a un tratamiento tributario específico, según corresponda, el monto del crédito, del gasto, o de cualquier otro efecto tributario asociado al mismo, se aplicará proporcionalmente de acuerdo al valor del avalúo fiscal del bien raíz cuyo destino de derecho al crédito, a su rebaja como gasto o genere cualquier otro efecto, respecto del total del valor del avalúo fiscal de los bienes raíces que componen el avalúo fiscal total.
-
 #### Artículo 8º
 
-Los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, y que correspondan a sitios no edificados, propiedades abandonadas o pozos lastreros, pagarán una sobretasa del 100% respecto de la tasa vigente del impuesto. La referida sobretasa no se aplicará en áreas de extensión urbana o urbanizables, así determinadas por los respectivos instrumentos de planificación territorial.
+Los bienes raíces no agrícolas afectos a impuesto territorial, ubicados en áreas urbanas, y que correspondan a sitios no edificados con urbanización, propiedades abandonadas o pozos lastreros, pagarán una sobretasa del 100% respecto de la tasa vigente del impuesto. La referida sobretasa no se aplicará en áreas de extensión urbana o urbanizables, así determinadas por los respectivos instrumentos de planificación territorial.
 
-Con todo, esta sobretasa no se aplicará a los inmuebles localizados fuera de los límites del área geográfica donde se prestan los servicios públicos de distribución de agua potable y de recolección de aguas servidas. Dicha situación deberá acreditarse por el dueño u ocupante del inmueble ante la respectiva municipalidad mediante la presentación de certificado expedido por la empresa concesionaria correspondiente.
+Con todo, en el caso de sitios no edificados, esta sobretasa regirá a contar del año subsiguiente de la recepción en forma definitiva, total o parcial, de las respectivas obras de urbanización. No obstante, tratándose de proyectos de subdivisión o loteo, cuya superficie sea superior a cincuenta hectáreas, la sobretasa referida se aplicará a los sitios resultantes de la subdivisión o loteo transcurrido el plazo de diez años contado desde la fecha de recepción definitiva, total o parcial, de dichas obras de urbanización.
 
-En los casos en que, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demolición total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado, la sobretasa a que se refiere el inciso primero de este artículo sólo se aplicará transcurrido el plazo de diez años contado desde la fecha en que se verificó el hecho constitutivo del siniestro.
+En los casos en que, con motivo de un siniestro o por causa no imputable al propietario u ocupante, se produzca la demolición total de las construcciones de un inmueble, o quede inhabilitado para ser utilizado, la sobretasa a que se refiere el inciso primero de este artículo sólo se aplicará transcurrido el plazo de diez
 
-Para la aplicación de esta sobretasa y de lo dispuesto en el artículo 3º de la presente ley, los municipios deberán informar al Servicio de Impuestos Internos, la nómina de propiedades a que se refieren los incisos primero y segundo de este artículo, en la forma y plazo que dicho Servicio determine.
+años contado desde la fecha en que se verificó el hecho constitutivo del siniestro.
+
+Para la aplicación de esta sobretasa y de lo dispuesto en el artículo 3º de la presente ley, los municipios deberán informar al Servicio de Impuestos Internos, la nómina de propiedades declaradas como abandonadas y las correspondientes a pozos lastreros en la forma y plazo que dicho Servicio determine.
 
 > **Nota.** NOTA : El Art. primero de la LEY 20280, publicada el 04.07.2008, dispuso que las modificaciones introducidas en el presente artículo tendrán la misma vigencia que las introducidas en esta ley por los Arts. 1º y 2º de la LEY 20233, vale decir, rigen a contar del 1º de enero de 2006.
 
@@ -362,11 +282,13 @@ Sobre la base de los avalúos vigentes para cada semestre, consideradas las modi
 
 #### Artículo 19º
 
-El Servicio de Impuestos Internos hará efectivas las variaciones que se determinen respecto de los impuestos y la sobretasa establecida en el artículo 7° bis contenidas en los roles semestrales de contribuciones y en los giros a que se refiere el N° 4 del artículo 7° bis, mediante roles o giros suplementarios o de reemplazo.
+El Servicio de Impuestos Internos hará efectivas las variaciones que se determinen respecto de los impuestos girados en los roles semestrales de contribuciones a que se refiere el artículo anterior, mediante roles suplementarios de contribuciones y roles de reemplazos de contribuciones que se confeccionarán por comunas.
 
-Los roles suplementarios contendrán las diferencias de impuesto territorial y los giros suplementarios las diferencias de la sobretasa establecida en el artículo 7° bis, provenientes de modificaciones que importen un mayor pago de impuesto territorial o de la sobretasa, respecto de lo que figure en los roles o giros semestrales. Por su parte, los roles de reemplazo contendrán aquellas modificaciones que signifiquen una rebaja del impuesto territorial y los giros de reemplazo aquellas que signifiquen una rebaja de la sobretasa, respecto de lo que figure en los giros semestrales. En el caso de roles o giros de reemplazo, se incluirá el total del nuevo monto por cobrar.
+Los roles suplementarios contendrán las diferencias de contribuciones provenientes de modificaciones que importen una mayor contribución a la que figura en los roles semestrales; los roles de reemplazo contendrán todas aquellas modificaciones que signifiquen rebaja de la contribución anotada en los roles semestrales, incluyéndose en este caso, el total del nuevo monto por cobrar.
 
-El impuesto territorial y la sobretasa establecida en el artículo 7° bis que deban pagarse retroactivamente, se girarán, sobre la base del avalúo que corresponda al semestre en que se realice el giro y su retroactividad no podrá ser superior a tres años contados desde que se notifique el rol o giro semestral, suplementario o de reemplazo, según corresponda.
+Las contribuciones que deban pagarse retroactivamente con respecto al semestre en que se pongan en cobranza los roles suplementarios y de reemplazos, se girarán sobre la base del avalúo del semestre en que se pongan en cobro dichos roles. La retroactividad no podrá ser superior a tres años.
+
+En los casos en que, con ocasión de nuevas construcciones, ampliaciones o instalaciones, deba procederse al cobro retroactivo de contribuciones y el predio en que ellas se hayan efectuado hubiere sido objeto de enajenación, aquél se hará efectivo a contar del 1º de enero del año siguiente al de la correspondiente inscripción de dominio en el Registro de Propiedad del Conservador de Bienes Raíces.
 
 #### Artículo 20º
 
@@ -403,8 +325,6 @@ El impuesto territorial anual será pagado en cada año en cuatro cuotas en los 
 Los impuestos incluidos en los roles suplementarios y de reemplazos a que se refiere el artículo 19º, serán pagados en los meses de junio y diciembre de cada año e incorporarán las modificaciones establecidas en resoluciones notificadas hasta el 30 de abril y 31 de octubre, respectivamente, del semestre en que deban pagarse los impuestos.
 
 No obstante lo señalado en el inciso anterior, el Director Nacional del Servicio de Impuestos Internos estará facultado para dividir el pago de los impuestos indicados en parcialidades por pagarse conjuntamente con las contribuciones futuras, en un plazo máximo de dos años.
-
-La sobretasa establecida en el artículo 7° bis, incluida en los giros suplementarios y de reemplazo a que se refiere el artículo 19, será pagada en los meses de junio y diciembre de cada año e incorporará las diferencias establecidas en las resoluciones notificadas hasta el 30 de abril y 31 de octubre, respectivamente, del año en que deba pagarse.
 
 Asimismo, la inscripción de nuevas propiedades en los roles de avalúos y contribuciones correspondientes deberá efectuarse, a más tardar, en el año siguiente de recibido, por parte del Servicio de Impuestos Internos, el certificado de recepción final emitido por la municipalidad respectiva.
 
@@ -449,8 +369,6 @@ Disposiciones varias
 #### Artículo 28º
 
 Los contribuyentes y las personas tenedoras de predios estarán obligados a facilitar la visita y mensura de los inmuebles y a suministrar al Servicio de Impuestos Internos, los datos que éste solicite, relacionados con la estimación y descripción de ellos.
-
-Los contribuyentes, notarios y conservadores deberán entregar al Servicio de Impuestos Internos, por medios electrónicos, la información que dispongan en relación a la determinación del impuesto territorial y la sobretasa establecida en el artículo 7° bis, según lo determine el Servicio mediante resolución.
 
 #### Artículo 29º
 
@@ -563,10 +481,6 @@ Isla de Pascua.
 19) Aeródromos pertenecientes a la Federación Aérea de Chile y Clubes Aéreos, en la parte correspondiente exclusivamente al sector de pistas de aterrizaje y las instalaciones anexas necesarias para su operación.
 
 20) Fundación Chile, su sede Matriz.
-
-21) Establecimientos de Larga Estadía de Adultos Mayores calificados mediante resolución dictada por el Ministerio de Hacienda, que atiendan principalmente a personas vulnerables y dependientes, conforme a la certificación otorgada por el Servicio Nacional del Adulto Mayor, en la parte destinada a atender a dichas personas, siempre que los establecimientos no generen rentas por actividades distintas al objetivo señalado y cuyo administrador sea una persona jurídica sin fines de lucro, propietaria del inmueble o que lo ocupe a título gratuito.
-
-En caso que, concedida la exención, el Servicio de Impuestos Internos constate y declare fundadamente el incumplimiento de los requisitos señalados, podrá dejar sin efecto la exención, y girar los impuestos que corresponda por el o los años en que se verificó el incumplimiento.
 
 C) Los Bienes Raíces de propiedad de las siguientes agrupaciones, siempre que cuenten con personalidad jurídica, que estén destinados al servicio de sus miembros y no produzcan renta por actividades distintas a dicho objeto:
 
