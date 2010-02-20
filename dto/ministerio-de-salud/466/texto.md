@@ -156,6 +156,8 @@ Las farmacias deberán poseer los siguientes Registros Oficiales:
 
 Estos registros serán foliados y deberán ser autorizados por el Servicio de Salud, o visados por el Instituto de Salud Pública de Chile, según corresponda, debiendo mantenerse y estar a disposición de los funcionarios del Servicio de Salud o Instituto de Salud Pública de Chile en todo momento y circunstancia.
 
+Las denuncias estampadas en el Libro de Reclamos que digan relación con calidad, seguridad y eficacia de los productos farmacéuticos que se expenden en la farmacia, así como la disponibilidad de aquellos considerados en el Petitorio Farmacéutico, en la forma como establece el artículo 93, deberán ser contestadas dentro de plazo máximo de 3 días por el Director Técnico del establecimiento con copia a la SEREMI de Salud correspondiente.
+
 #### Artículo 19°
 
 El Registro de recetas estará destinado a:
@@ -772,21 +774,11 @@ Petitorio de Farmacia
 
 #### Artículo 92°
 
-Las farmacias deberán mantener en existencia, a lo menos, los productos farmacéuticos incluidos en el Formulario Nacional aprobado por decreto supremo 314, de 24 de agosto de 1983, del Ministerio de Salud y sus modificaciones.
+Derogado.
 
-Dichos productos podrán corresponder a los genéricos o sus similares de marca registrada.
+#### Artículo 93
 
-#### Artículo 93°
-
-Se exceptuarán de la disposición anterior los siguientes productos farmacéuticos:
-
-- Anestésicos generales quirúrgicos;
-
-- Curarizantes;
-
-- Gases (oxígeno), y
-
-- Medicamentos utilizados en el tratamiento de las neoplasias.
+Las farmacias, con exclusión de aquellas aludidas en el artículo 11, deberán mantener en existencia, como mínimo, los siguientes productos del Formulario Nacional de Medicamentos, los que constituirán su Petitorio:
 
 ## Título X
 
