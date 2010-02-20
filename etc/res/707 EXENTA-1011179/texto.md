@@ -1,0 +1,3 @@
+Por resolución exenta Nº 707, de 5 de febrero de 2010, de esta Subsecretaría, autorízase a ÓSCAR JOVINO ALTAMIRANO SANTANA para iniciar actividades pesqueras de transformación, instalar y operar planta en sector Tehuaco Bajo s/nº Rural, Ancud, Chiloé, X Región, para elaborar en las líneas de Cocido, Fresco-enfriado, Fresco-refrigerado, Congelado, Conserva y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
