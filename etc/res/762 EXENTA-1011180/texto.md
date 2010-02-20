@@ -1,0 +1,3 @@
+Por resolución exenta Nº 762, de 12 de febrero de 2010, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº 208121154, presentada por SALMONES MULTIEXPORT S.A., para instalar y operar un centro de cultivo ubicado en Estero Staples, al este de Caleta Sholl, Isla Capitán Aracena, XII Región.
+
+Valparaíso, 12 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
