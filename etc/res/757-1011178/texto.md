@@ -1,0 +1,3 @@
+Por resolución Nº 757, de 12 de febrero de 2010, de esta Subsecretaría, declárase la caducidad de las siguientes resoluciones de esta Subsecretaría, conforme lo dispuesto en artículo 7º del D.S. Nº 175 de 1980, del Ministerio de Economía, Fomento y Reconstrucción, que autorizaron para operar plantas procesadoras de recursos hidrobiológicos: 1) Nº 2063 de 2004, que autorizó a SOCIEDAD COMERCIALIZADORA DE PRODUCTOS DEL MAR SIFROMAR SOCIEDAD ANÓNIMA; 2) Nº 418 y Nº 2448, ambas de 2003 y Nº 1006 de 2005, que autorizaron a Productos del Mar Tenglofish Limitada.
+
+Valparaíso, 12 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
