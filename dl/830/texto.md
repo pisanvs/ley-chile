@@ -134,6 +134,38 @@ La unidad tributaria mensual o anual se expresará siempre en pesos, desprecián
 
 13°.- Por transformación de sociedades, el cambio de especie o tipo social efectuado por reforma del contrato social o de los estatutos, subsistiendo la personalidad jurídica.
 
+### Párrafo 4 — .º
+
+Derechos de los Contribuyentes
+
+#### Artículo 8º bis
+
+Sin perjuicio de los derechos garantizados por la Constitución y las leyes, constituyen derechos de los contribuyentes, los siguientes:
+
+1° Derecho a ser atendido cortésmente, con el debido respeto y consideración; a ser informado y asistido por el Servicio sobre el ejercicio de sus derechos y en el cumplimiento de sus obligaciones.
+
+2° Derecho a obtener en forma completa y oportuna las devoluciones previstas en las leyes tributarias, debidamente actualizadas.
+
+3° Derecho a recibir información, al inicio de todo acto de fiscalización, sobre la naturaleza y materia a revisar, y conocer en cualquier momento, por un medio expedito, su situación tributaria y el estado de tramitación del procedimiento.
+
+4° Derecho a ser informado acerca de la identidad y cargo de los funcionarios del Servicio bajo cuya responsabilidad se tramitan los procesos en que tenga la condición de interesado.
+
+5° Derecho a obtener copias, a su costa, o certificación de las actuaciones realizadas o de los documentos presentados en los procedimientos, en los términos previstos en la ley.
+
+6° Derecho a eximirse de aportar documentos que no correspondan al procedimiento o que ya se encuentren acompañados al Servicio y a obtener, una vez finalizado el caso, la devolución de los documentos originales aportados.
+
+7° Derecho a que las declaraciones impositivas, salvo los casos de excepción legal, tengan carácter reservado, en los términos previstos por este Código.
+
+8° Derecho a que las actuaciones se lleven a cabo sin dilaciones, requerimientos o esperas innecesarias, certificada que sea, por parte del funcionario a cargo, la recepción de todos los antecedentes solicitados.
+
+9° Derecho a formular alegaciones y presentar antecedentes dentro de los plazos previstos en la ley y a que tales antecedentes sean incorporados al procedimiento de que se trate y debidamente considerados por el funcionario competente.
+
+10° Derecho a plantear, en forma respetuosa y conveniente, sugerencias y quejas sobre las actuaciones de la Administración en que tenga interés o que le afecten.
+
+Los reclamos en contra de actos u omisiones del Servicio que vulneren cualquiera de los derechos de este artículo serán conocidos por el Juez Tributario y Aduanero, conforme al procedimiento del Párrafo 2º del Título III del Libro Tercero de este Código.
+
+En toda dependencia del Servicio de Impuestos Internos deberá exhibirse, en un lugar destacado y claramente visible al público, un cartel en el cual se consignen los derechos de los contribuyentes expresados en la enumeración contenida en el inciso primero.
+
 # Libro Primero
 
 DE LA ADMINISTRACION, FISCALIZACION Y PAGO
@@ -164,7 +196,7 @@ Los plazos relacionados con las actuaciones del Servicio que venzan en días sá
 
 #### Artículo 11
 
-Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación.
+Toda notificación que el Servicio deba practicar se hará personalmente, por cédula o por carta certificada dirigida al domicilio del interesado, salvo que una disposición expresa ordene otra forma de notificación o que el interesado solicite para sí ser notificado por correo electrónico. En este último caso, la notificación se entenderá efectuada en la fecha del envío del correo electrónico, certificada por un ministro de fe. El correo contendrá una trascripción de la actuación del Servicio, incluyendo los datos necesarios para su acertada inteligencia, y será remitido a la dirección electrónica que indique el contribuyente, quien deberá mantenerla actualizada, informando sus modificaciones al Servicio en el plazo que determine la Dirección. Cualquier circunstancia ajena al Servicio por la que el contribuyente no reciba el correo electrónico, no anulará la notificación.
 
 La carta certificada mencionada en el inciso precedente podrá ser entregada por el funcionario de correos que corresponda, en el domicilio del notificado, a cualquiera persona adulta que se encuentre en él, debiendo ésta firmar el recibo respectivo.
 
@@ -358,7 +390,9 @@ Toda liquidación de impuestos practicada por el Servicio tendrá el carácter d
 
 No procederá el cobro con efecto retroactivo cuando el contribuyente se haya ajustado de buena fe a una determinada interpretación de las leyes tributarias sustentada por la Dirección o por las Direcciones Regionales en circulares, dictámenes, informes u otros documentos oficiales destinados a impartir instrucciones a los funcionarios del Servicio o a ser conocidos de los contribuyentes en general o de uno o más de éstos en particular.
 
-En caso que las circulares, dictámenes y demás documentos mencionados en el inciso 1°, sean modificados, se presume de derecho que el contribuyente ha conocido tales modificaciones desde que hayan sido publicadas de acuerdo con el artículo 15°.
+El Servicio mantendrá a disposición de los interesados, en su sitio de Internet, las circulares o resoluciones destinadas a ser conocidas por los contribuyentes en general y los oficios de la Dirección que den respuesta a las consultas sobre la aplicación e interpretación de las normas tributarias. Esta publicación comprenderá, a lo menos, las circulares, resoluciones y oficios emitidos en los últimos tres años.
+
+En caso que las circulares, dictámenes y demás documentos mencionados en el inciso 1° sean modificados, se presume de derecho que el contribuyente ha conocido tales modificaciones desde que hayan sido publicadas de acuerdo con el artículo 15°.
 
 #### Artículo 27
 
@@ -610,7 +644,21 @@ Del examen y secreto de las declaraciones y de la facultad de tasar.
 
 #### Artículo 59
 
-Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes.
+Dentro de los plazos de prescripción, el Servicio podrá examinar y revisar las declaraciones presentadas por los contribuyentes. Cuando se inicie una fiscalización mediante requerimiento de antecedentes que deberán ser presentados al Servicio por el contribuyente, se dispondrá del plazo fatal de nueve meses, contado desde que el funcionario a cargo de la fiscalización certifique que todos los antecedentes solicitados han sido puestos a su disposición para, alternativamente, citar para los efectos referidos en el artículo 63, liquidar o formular giros.
+
+El plazo señalado en el inciso anterior será de doce meses, en los siguientes casos:
+
+a) Cuando se efectúe una fiscalización en materia de precios de transferencia.
+
+b) Cuando se deba determinar la renta líquida imponible de contribuyentes con ventas o ingresos superiores a 5.000 unidades tributarias mensuales.
+
+c) Cuando se revisen los efectos tributarios de procesos de reorganización empresarial.
+
+d) Cuando se revise la contabilización de operaciones entre empresas relacionadas.
+
+No se aplicarán los plazos referidos en los incisos precedentes en los casos en que se requiera información a alguna autoridad extranjera ni en aquéllos relacionados con un proceso de recopilación de antecedentes a que se refiere el número 10 del artículo 161.
+
+El Servicio dispondrá de un plazo de doce meses, contado desde la fecha de la solicitud, para fiscalizar y resolver las peticiones de devolución relacionadas con absorciones de pérdidas.
 
 #### Artículo 60
 
@@ -638,9 +686,43 @@ Salvo disposición en contrario, los preceptos de este Código, no modifican las
 
 #### Artículo 62
 
-- La Justicia Ordinaria podrá autorizar el examen de información relativa a las operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias. Igual facultad tendrán los Tribunales Tributarios y Aduaneros cuando conozcan de un proceso sobre aplicación de sanciones conforme al artículo 161.
+La Justicia Ordinaria podrá autorizar el examen de información relativa a las operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, en el caso de procesos por delitos que digan relación con el cumplimiento de obligaciones tributarias. Igual facultad tendrán los Tribunales Tributarios y Aduaneros cuando conozcan de un proceso sobre aplicación de sanciones conforme al artículo 161.
 
-Asimismo, el Director podrá disponer dicho examen, por resolución fundada, cuando el Servicio se encuentre investigando infracciones a las leyes tributarias sancionadas con pena corporal.
+Asimismo, en ejercicio de sus facultades fiscalizadoras y de conformidad a lo establecido por el Título VI del Libro Tercero, el Servicio podrá requerir la información relativa a las operaciones bancarias de personas determinadas, comprendiéndose todas aquellas sometidas a secreto o sujetas a reserva, que resulten indispensables para verificar la veracidad e integridad de las declaraciones de impuestos, o falta de ellas, en su caso. La misma información podrá ser solicitada por el Servicio para dar cumplimiento a los siguientes requerimientos:
+
+i) Los provenientes de administraciones tributarias extranjeras, cuando ello haya sido acordado bajo un convenio internacional de intercambio de información suscrito por Chile y ratificado por el Congreso Nacional.
+
+ii) Los originados en el intercambio de información con las autoridades competentes de los Estados Contratantes en conformidad a lo pactado en los Convenios vigentes para evitar la doble imposición suscritos por Chile y ratificados por el Congreso Nacional.
+
+Salvo los casos especialmente regulados en otras disposiciones legales, los requerimientos de información bancaria sometida a secreto o reserva que formule el Director de conformidad con el inciso anterior, se sujetarán al siguiente procedimiento:
+
+1) El Servicio, a través de su Dirección Nacional, notificará al banco, requiriéndole para que entregue la información dentro del plazo que ahí se fije, el que no podrá ser inferior a cuarenta y cinco días contados desde la fecha de la notificación respectiva. El requerimiento deberá cumplir, a lo menos, con los siguientes requisitos:
+
+a) Contener la individualización del titular de la información bancaria que se solicita;
+
+b) Especificar las operaciones o productos bancarios, o tipos de operaciones bancarias, respecto de los cuales se solicita información;
+
+c) Señalar los períodos comprendidos en la solicitud, y
+
+d) Expresar si la información se solicita para verificar la veracidad e integridad de las declaraciones de impuestos del contribuyente o la falta de ellas, en su caso, o bien para dar cumplimiento a un requerimiento de información de los indicados en el inciso anterior, identificando la entidad requirente y los antecedentes de la solicitud.
+
+2) Dentro de los cinco días siguientes de notificado, el banco deberá comunicar al titular la información requerida, la existencia de la solicitud del Servicio y su alcance. La comunicación deberá efectuarse por carta certificada enviada al domicilio que tenga registrado en el banco o bien por correo electrónico, cuando así estuviera convenido o autorizado expresamente. Toda cuestión que se suscite entre el banco y el titular de la información requerida relativa a las deficiencias en la referida comunicación, o incluso a la falta de la misma, no afectarán el transcurso del plazo a que se refiere el numeral precedente. La falta de comunicación por parte del banco lo hará responsable de los perjuicios que de ello puedan seguirse para el titular de la información.
+
+3) El titular podrá responder el requerimiento al banco dentro del plazo de 15 días contado a partir del tercer día desde del envío de la notificación por carta certificada o correo electrónico a que se refiere el número 2) de este inciso. Si en su respuesta el titular de la información autoriza al banco a entregar información al Servicio, éste deberá dar cumplimiento al requerimiento sin más trámite, dentro del plazo conferido.
+
+Del mismo modo procederá el banco en aquellos casos en que el contribuyente le hubiese autorizado anticipadamente a entregar al Servicio información sometida a secreto o reserva, cuando éste lo solicite en conformidad a este artículo. Esta autorización deberá otorgarse expresamente y en un documento exclusivamente destinado al efecto. En tal caso, el banco estará liberado de aplicar el procedimiento previsto en el número 2) de este inciso. El contribuyente siempre podrá revocar, por escrito, la autorización concedida al banco, lo que producirá efectos a contar de la fecha en que la revocación sea recibida por el banco.
+
+A falta de autorización, el banco no podrá dar cumplimiento al requerimiento ni el Servicio exigirlo, a menos que este último le notifique una resolución judicial que así lo autorice de conformidad a lo establecido en el artículo siguiente.
+
+4) Dentro de los cinco días siguientes a aquel en que venza el plazo previsto para la respuesta del titular de la información, el banco deberá informar por escrito al Servicio respecto de si ésta se ha producido o no, así como de su contenido. En dicha comunicación el banco deberá señalar el domicilio registrado en él por el titular de la información, así como su correo electrónico, en caso de contar con este último antecedente. Además, de ser el caso, se deberá señalar si el titular de la información ha dejado de ser cliente del banco.
+
+5) Acogida la pretensión del Servicio por sentencia judicial firme, éste notificará al banco acompañando copia autorizada de la resolución del tribunal. La entidad bancaria dispondrá de un plazo de diez días para la entrega de la información solicitada.
+
+6) El retardo u omisión total o parcial en la entrega de la información por parte del banco será sancionado de conformidad con lo dispuesto en el inciso segundo del número 1° del artículo 97.
+
+La información bancaria sometida a secreto o sujeta a reserva, obtenida por el Servicio bajo este procedimiento, tendrá el carácter de reservada de conformidad a lo establecido en el artículo 35 y sólo podrá ser utilizada por éste para verificar la veracidad e integridad de las declaraciones de impuestos, o la falta de ellas, en su caso, para el cobro de los impuestos adeudados y para la aplicación de las sanciones que procedan. El Servicio adoptará las medidas de organización interna necesarias para garantizar su reserva y controlar su uso adecuado. La información así recabada que no dé lugar a una gestión de fiscalización o cobro posterior, deberá ser eliminada, no pudiendo permanecer en las bases de datos del Servicio.
+
+Las autoridades o funcionarios del Servicio que tomen conocimiento de la información bancaria secreta o reservada estarán obligados a la más estricta y completa reserva respecto de ella y, salvo los casos señalados en el inciso segundo, no podrán cederla o comunicarla a terceros. La infracción a esta obligación se castigará con la pena de reclusión menor en cualquiera de sus grados y multa de diez a treinta unidades tributarias mensuales. Asimismo, dicha infracción dará lugar a responsabilidad administrativa y se sancionará con destitución.
 
 #### Artículo 62 bis
 
@@ -1060,11 +1142,11 @@ La sanción pecuniaria establecida en el inciso precedente podrá hacerse efecti
 
 El que concertado facilitare los medios para que en las referidas presentaciones se incluyan maliciosamente datos o antecedentes falsos, será sancionado con la pena de presidio menor en su grado mínimo y con multa de una unidad tributaria mensual a una unidad tributaria anual.
 
-24°.- Los contribuyentes de los impuestos establecidos en la Ley sobre Impuesto a la Renta, contenida en el artículo 1º del decreto ley Nº 824, de 1974, que dolosamente y en forma reiterada, reciban de las instituciones a las cuales efectúen donaciones, contraprestaciones directas o indirectas o en beneficio de sus empleados, directores o parientes consanguíneos de éstos, hasta el segundo grado, en el año inmediatamente anterior a aquél en que se efectúe la donación o, con posterioridad a ésta, en tanto la donación no se hubiere utilizado íntegramente por la donataria o simulen una donación, en ambos casos, de aquellas que otorgan algún tipo de beneficio tributario que implique en definitiva un menor pago de algunos de los impuestos referidos, serán sancionados con la pena de presidio menor en sus grados medio a máximo. Para estos efectos, se entenderá que existe reiteración cuando se realicen dos o más conductas de las que sanciona este inciso, en un mismo ejercicio comercial anual.
+24°.- Los contribuyentes de los impuestos establecidos en la Ley sobre Impuesto a la Renta, que dolosamente reciban contraprestaciones de las instituciones a las cuales efectúen donaciones, en los términos establecidos en los incisos primero y segundo del artículo 11 de la ley N° 19.885, sea en beneficio propio o en beneficio personal de sus socios, directores o empleados, o del cónyuge o de los parientes consanguíneos hasta el segundo grado, de cualquiera de los nombrados, o simulen una donación, en ambos casos, de aquellas que otorgan algún tipo de beneficio tributario que implique en definitiva un menor pago de algunos de los impuestos referidos, serán sancionados con la pena de presidio menor en sus grados mínimo a medio.
 
-El que dolosamente destine o utilice donaciones de aquellas que las leyes permiten rebajar de la base imponible afecta a los impuestos de la Ley sobre Impuesto a la Renta o que otorgan crédito en contra de dichos impuestos, a fines distintos de los que corresponden a la entidad donataria de acuerdo a sus estatutos, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+Para los efectos de lo dispuesto en el inciso precedente, se entenderá que existe una contraprestación cuando en el lapso que media entre los seis meses anteriores a la fecha de materializarse la donación y los veinticuatro meses siguientes a esa data, el donatario entregue o se obligue a entregar una suma de dinero o especies o preste o se obligue a prestar servicios, cualquiera de ellos avaluados en una suma superior al 10% del monto donado o superior a 15 Unidades Tributarias Mensuales en el año a cualquiera de los nombrados en dicho inciso.
 
-Los contribuyentes del impuesto de primera categoría de la Ley sobre Impuesto a la Renta, que dolosamente y en forma reiterada, deduzcan como gasto de la base imponible de dicho impuesto donaciones que las leyes no permiten rebajar, serán sancionados con la pena de presidio menor en sus grados medio a máximo.
+El donatario que dolosamente destine o utilice donaciones de aquellas que las leyes permiten rebajar de la base imponible afecta a los impuestos de la Ley sobre Impuesto a la Renta o que otorgan crédito en contra de dichos impuestos, a fines distintos de los que corresponden a la entidad donataria de acuerdo a sus estatutos, será sancionado con la pena de presidio menor en sus grados medio a máximo.
 
 25.- El que actúe como usuario de las Zonas Francas establecidas por ley, sin tener la habilitación correspondiente, o teniéndola, la haya utilizado con la finalidad de defraudar al Fisco, será sancionado con una multa de hasta ocho Unidades Tributarias Anuales y con presidio menor en sus grados medio a máximo.
 
