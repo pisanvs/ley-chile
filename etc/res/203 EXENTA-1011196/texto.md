@@ -1,0 +1,7 @@
+APRUEBA FUSIÓN DE SOCIEDADES "ASESORÍAS PREVISIONALES PLANVITAL INTERNACIONAL S.A." Y "MAGISTER INTERNACIONAL S.A."
+
+Certifico que por resolución Nº E-203-2010, de fecha 10 de febrero de 2010, se aprobó la fusión de las sociedades "Asesorías Previsionales Planvital Internacional S.A." y "Magister Internacional S.A.", por haber adquirido ésta a la sociedad Asesorías e Inversiones Los Olmos S.A., 700 acciones de que era titular en aquella sociedad, que representan el 0,15% de sus acciones. Del mismo modo, AFP Planvital S.A. vendió a su sociedad filial, Magister Internacional S.A. 465.733 acciones de Asesorías Previsionales Planvital Internacional S.A., lo que representa el 99,85% de sus acciones, circunstancia que determinó la concurrencia de la causal establecida en el número 2 del artículo 103 de la ley Nº 18.046, sobre Sociedades Anónimas, produciéndose así, la fusión de ambas sociedades filiales por incorporación del activo y pasivo de la sociedad Asesorías Previsionales Planvital Internacional S.A. a Magister Internacional S.A., que la absorbe y por haberse radicado en esta última, el 100% de las acciones de la primera.
+
+Finalmente, se declara disuelta y se cancela la autorización de existencia otorgada por resolución Nº E-178-2003, de fecha 3 de enero de 2003, de esta Superintendencia, inscrita a fojas 849 Nº 686, del Registro de Comercio del año 2003, publicada en el Diario Oficial de fecha 13 de enero de 2003.
+
+Santiago, 10 de febrero de 2010.- Renato Hamel Maturana, Superintendente de Pensiones Subrogante.
