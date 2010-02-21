@@ -28,9 +28,9 @@ Conceptos Generales
 
 Ámbito de aplicación. La presente resolución tiene por objeto regular las condiciones y requisitos que deberán cumplir las personas, naturales o jurídicas, o quien las represente, que deseen ingresar al país, ya sea para consumo humano, reproceso o para uso en otros fines, recursos hidrobiológicos o sus productos derivados, y establecer el procedimiento a través del cual se deberá acreditar el origen legal de estos.
 
-La acreditación de origen legal tiene por objeto demostrar ante el Servicio, mediante la exhibición o presentación del certificado respectivo, que los recursos hidrobiológicos, objeto del ingreso, han sido capturados o cosechados conforme a la normativa nacional e internacional que le sea aplicable en el país de origen, y, en el caso de productos pesqueros, que el recurso utilizado o materia prima y su elaboración se ajusta a la normativa antes señalada.
+La acreditación de origen legal tiene por objeto demostrar ante el Servicio, que los recursos hidrobiológicos importados, han sido capturados o cosechados conforme a la normativa nacional e internacional que le sea aplicable en el país de origen, y, en el caso de productos pesqueros, que el recurso utilizado o materia prima y su elaboración se ajusta a la normativa antes señalada.
 
-Quedarán sometidos a las exigencias de esta resolución sólo los ingresos de recursos hidrobiológicos o sus productos derivados, cuyo destino final no sean los mercados de la Unión Europea, los cuales se regirán por las disposiciones de la resolución Nº 2.794, de 23 de diciembre de 2009, del Servicio. También, quedarán excluidos de cumplir con esta resolución los ingresos peces ornamentales y los productos de la acuicultura.
+También, quedarán excluidos de cumplir con esta Resolución, las importaciones de especies hidrobiológicas ornamentales y los productos asociados a su manutención, salud y alimentación, así como los productos hidrobiológicos para la acuicultura.
 
 #### Artículo Segundo
 
@@ -54,7 +54,9 @@ Definiciones. Para los efectos de la presente resolución los términos que a co
 
 9) Página Web del Servicio: Dominio Internet www.sernapesca.cl, en el cual los importadores podrán obtener los documentos necesarios para acreditar el origen legal de los recursos hidrobiológicos o sus productos derivados, ante el Servicio.
 
-http://www.sernapesca.cl/index.php?option=com content&task=view&id=944&Itemid=415
+http://www.sernapesca.cl/index.php?option=com content&task=view&id=944&;Itemid=415
+
+10) Productos hidrobiológicos para la Acuicultura: son todos aquellos recursos hidrobiológicos vivos, en cualquier estado de desarrollo, obtenidos a partir de crías o larvas, incluidos las ovas, gametos o espermas de especies hidrobiológicas, y cuyo destino sea el desarrollo de actividades de acuicultura.
 
 ## Título II
 
@@ -89,6 +91,10 @@ El Servicio y Aduana retendrán una copia simple de los documentos señalados en
 #### Artículo Cuarto
 
 Certificación especial por organización regional de ordenación pesquera. Cuando la importación o ingreso se refiera a la especie Bacalao de Profundidad (Dissostichus spp), el documento que se menciona en la letra b del Artículo Tercero de esta resolución, debe ser reemplazado por el Documento de Captura CCAMLR (DCD-E), establecido en la Medida de Conservación 10-05 de la Comisión de la Convención para la Conservación de Recursos Marinos Vivos Antárticos.
+
+#### Artículo Cuarto
+
+Bis. Otras formas de acreditación. No obstante lo señalado en el numeral 1, letra b) del Artículo Tercero, los países, previo acuerdo con el Servicio, podrán utilizar medios electrónicos para establecer, validar o presentar los certificados de origen legal y, asimismo, admitir o aceptar otros modelos o modalidades de certificación la que, en todo caso, debe cumplir, al menos, con la información básica requerida en el modelo de certificado establecido por el Servicio.
 
 ## Título III
 
