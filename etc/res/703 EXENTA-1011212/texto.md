@@ -1,0 +1,3 @@
+Por resolución exenta Nº 703, de 5 de febrero de 2010, de esta Subsecretaría, autorízase a ARSENIO ALEXIS CAMPUSANO MAMANI para iniciar actividades pesqueras de transformación, instalar y operar planta en Lote Nº 6, Caleta Chañaral de Aceituno s/n, comuna de Freirina, III Región, para elaborar en la línea de Secado y Picado de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
