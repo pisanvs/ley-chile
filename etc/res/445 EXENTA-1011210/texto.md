@@ -1,0 +1,3 @@
+Por resolución exenta Nº 445 de 25 de enero 2010, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA ENFEMAR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Aquiles Pancho", en el área marítima de la V Región, por fuera del área de reserva artesanal, con espinel, sobre el recurso hidrobiológico Raya volantín.
+
+Valparaíso, 25 de enero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
