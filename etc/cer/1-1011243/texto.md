@@ -1,0 +1,5 @@
+CERTIFICA CALIDAD DE AGENTE RETENEDOR DEL IVA A MAYORISTA DEL SUR LIMITADA
+
+Nº 1.- Certifico que Raúl Francisco Sotomayor Valenzuela, RUT Nº 7.601.866-9, y Gonzalo Dulanto Letelier, RUT Nº 7.773.536-4, ambos representantes legales de Mayorista del Sur Limitada, RUT Nº 76.027.289-2, cumple los requisitos establecidos en la resolución Ex Nº 3.784, del 25.06.1998, publicada en el Diario Oficial el 30.06.98, modificada por la resolución Ex Nº 3.722, de 28.07.2000, publicada en el Diario Oficial de 01.08.2000, y que en consecuencia tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de carne y servicios de faenamiento de ganado que efectúe durante el período comprendido entre el 1º del mes siguiente al de la publicación de este Certificado en el Diario Oficial, con vigencia indefinida.
+
+Temuco, 3 de febrero de 2010.- René Cornejo Cáceres, Director Regional de la Araucanía.
