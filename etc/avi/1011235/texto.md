@@ -1,0 +1,3 @@
+NOTA:
+
+Se informa que, legalmente: el "Ministerio de Economía, Fomento y Reconstrucción", a contar del 12 de febrero 2010, pasó a llamarse "Ministerio de Economía, Fomento y Turismo"; a contar del 3 de febrero 2010 la "Subsecretaría de Economía, Fomento y Reconstrucción" se llama "Subsecretaría de Economía y Empresas de Menor Tamaño". Sus futuras publicaciones en el Diario Oficial, de acuerdo a instrucciones de este Ministerio, según el caso y fecha de su dictación y tramitación legal, se harán bajo el epígrafe del nombre que corresponda, para facilitar y advertir su lectura al público.
