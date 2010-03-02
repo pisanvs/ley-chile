@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2221, de 30 de noviembre de 2009, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el numeral tercero del Decreto Exento MOP. Nº1205, de 19 de agosto de 2009, en la parte que se refiere a la fecha de tasación del lote de terreno Nº59, el cual es 5 de noviembre de 2008 y no como en él se indica. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
