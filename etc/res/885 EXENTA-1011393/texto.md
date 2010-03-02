@@ -1,0 +1,3 @@
+Por resolución exenta Nº 885 de 23 de febrero de 2010, de esta Subsecretaría, recházase la solicitud de modificación de concesión de acuicultura Nº 206111183, presentada por HUMBERTO JOSÉ FISCHER LLOP, para el centro de cultivo ubicado en Canal Tránsito, sector noroeste de Caleta Madina, Isla Tránsito, XI Región.
+
+Valparaíso, 23 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
