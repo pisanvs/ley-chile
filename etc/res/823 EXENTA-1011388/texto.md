@@ -1,0 +1,3 @@
+Por resolución exenta Nº 823, de 18 de febrero de 2010, de esta Subsecretaría, autorízase a SOCIEDAD COMERCIAL, EXPORTADORA Y DE INVERSIONES SOCOSEP LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Calle E, Lote 17-A-1; Parque Industrial Escuadrón 1, Coronel, VIII Región, para elaborar en línea de Aceite (Refinamiento), los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
