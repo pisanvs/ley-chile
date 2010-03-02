@@ -1,0 +1,5 @@
+DERECHOS DE AGUAS EN COMUNAS DE COIHUECO Y CHILLÁN
+
+Servicio Agrícola, y Ganadero mediante resolución exenta Nº 795 del 8 de febrero de 2010, conforme artículo 5º transitorio Código Aguas, aclaró y complementó la resolución exenta del Servicio Agrícola y Ganadero Nº 747 de fecha 5 de mayo de 1992, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del predio Resto de un Retazo de terreno de Ciento Veinticinco coma dos hectáreas de superficie del Fundo Reloca y Resto del "Fundo Reloca" y del Proyecto de Parcelación "Laurel de Oro", ubicados en las comunas de Coihueco y Chillán, Región del Bío Bío, en el sentido de establecer la equivalencia, en unidad de volumen por unidad de tiempo, de los derechos de aprovechamiento de aguas del río Chillán conducidos por el canal La Victoria para las unidades del proyecto, estableciendo que los derechos de aprovechamiento de aguas son superficiales, corrientes, consuntivos, de ejercicio permanente y continuo. Publicación hecha conforme artículo 13º de la Ley Nº 18.377.
+
+Director Nacional.
