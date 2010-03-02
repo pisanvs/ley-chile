@@ -1,0 +1,3 @@
+Por decreto exento MOP N° 251, de 3 de febrero de 2010, se dejó sin efecto el decreto exento MOP N° 1.727, de 20 de octubre de 2009, que ordenaba la expropiación del lote de terreno N° 12, para la obra "Concesión Ruta 5 Norte. Trarno: Vallenar-Caldera. Sector: Vallenar- Inicio By-Pass a Copiapó. Km. 665.000,00 al Km. 783.402,00", por no ser necesaria su expropiación para la obra.
+
+Fiscal del Ministerio de Obras Públicas.
