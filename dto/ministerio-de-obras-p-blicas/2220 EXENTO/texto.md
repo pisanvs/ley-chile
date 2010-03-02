@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2.220, de 30 de noviembre de 2009, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del decreto exento MOP. N° 1.349, de 28 de noviembre de 2009, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno N° 51, con motivo de la obra: "Mejoramiento Ruta D-595, Ovalle - Hurtado, Sector Samo Alto Pichasca". Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 13 de agosto de 2007, ascendente a la cantidad de $154.000.
+
+Fiscal del Ministerio de Obras Públicas.
