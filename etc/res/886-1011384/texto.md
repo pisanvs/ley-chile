@@ -1,0 +1,3 @@
+Por resolución Nº 886, de 23 de febrero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº 810, de 2000, Nº 1.070, de 2001, Nº 663 y Nº 2.826, ambas del 2002, Nº 1.011 y Nº 2.123, ambas del 2003, Nº 1.361 y Nº 2.816, ambas del 2004, todas de esta Subsecretaría, correspondientes al área de manejo Punta Atala, II Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES DE BUZOS MARISCADORES Y RAMOS SIMILARES DE LA CALETA PUNTA ATALA de la comuna de Tocopilla, en virtud del artículo 16, letra g), del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
