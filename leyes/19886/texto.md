@@ -16,8 +16,6 @@ Los contratos que celebre la Administración del Estado, a título oneroso, para
 
 Para los efectos de esta ley, se entenderán por Administración del Estado los órganos y servicios indicados en el artículo 1º de la ley Nº18.575, salvo las empresas públicas creadas por ley y demás casos que señale la ley.
 
-Esta ley también será aplicable al Consejo Nacional de Televisión.
-
 #### Artículo 2º
 
 Para los efectos de esta ley se entenderá por contrato de suministro el que tiene por objeto la compra o el arrendamiento, incluso con opción de compra, de productos o bienes muebles.
@@ -62,7 +60,7 @@ De los requisitos para contratar con la Administración del Estado
 
 #### Artículo 4º
 
-Podrán contratar con la Administración las personas naturales o jurídicas, chilenas o extranjeras, que acrediten su situación financiera e idoneidad técnica conforme lo disponga el reglamento, cumpliendo con los demás requisitos que éste señale y con los que exige el derecho común. Quedarán excluidos quienes, dentro de los dos años anteriores al momento de la presentación de la oferta, de la formulación de la propuesta o de la suscripción de la convención, según se trate de licitaciones públicas, privadas o contratación directa, hayan sido condenados por prácticas antisindicales o infracción a los derechos fundamentales del trabajador, o por delitos concursales establecidos en el Código Penal.
+Podrán contratar con la Administración las personas naturales o jurídicas, chilenas o extranjeras, que acrediten su situación financiera e idoneidad técnica conforme lo disponga el reglamento, cumpliendo con los demás requisitos que éste señale y con los que exige el derecho común, Quedarán excluidos quienes, al momento de la presentación de la oferta, de la formulación de la propuesta o de la suscripción de la convención, según se trate de licitaciones públicas, privadas o contratación directa, hayan sido condenados por prácticas antisindicales o infracción a los derechos fundamentales del trabajador, dentro de los anteriores dos años.
 
 En caso de que la empresa que obtiene la licitación o celebre convenio registre saldos insolutos de remuneraciones o cotizaciones de seguridad social con sus actuales trabajadores o con trabajadores contratados en los últimos dos años, los primeros estados de pago producto del contrato licitado deberán ser destinados al pago de dichas obligaciones, debiendo la empresa acreditar que la totalidad de las obligaciones se encuentran liquidadas al cumplirse la mitad del período de ejecución del contrato, con un máximo de seis meses. El respectivo servicio deberá exigir que la empresa contratada proceda a dichos pagos y le presente los comprobantes y planillas que demuestren el total cumplimiento de la obligación. El incumplimiento de estas obligaciones por parte de la empresa contratada, dará derecho a dar por terminado el respectivo contrato, pudiendo llamarse a una nueva licitación en la que la empresa referida no podrá participar.
 
@@ -98,27 +96,9 @@ La licitación pública será obligatoria cuando las contrataciones superen las 
 
 #### Artículo 6º
 
-Las bases de licitación deberán establecer las condiciones que permitan alcanzar la combinación más ventajosa entre todos los beneficios del bien o servicio por adquirir y todos sus costos asociados, presentes y futuros. En el caso de la prestación de servicios habituales, que deban proveerse a través de licitaciones o contrataciones periódicas, se otorgará mayor puntaje o calificación a aquellos postulantes que exhibieren mejores condiciones de empleo y remuneraciones. En las bases de licitación y en la evaluación de las respectivas propuestas se dará prioridad a quien oferte mayores sueldos por sobre el ingreso mínimo mensual y otras remuneraciones de mayor valor, tales como las gratificaciones legales, la duración indefinida de los contratos y condiciones laborales que resulten más ventajosas en atención a la naturaleza de los servicios contratados. Del mismo modo, se dará prioridad a las propuestas que garanticen los pagos a que alude el inciso sexto. Estas condiciones no podrán establecer diferencias arbitrarias entre los proponentes, ni sólo atender al precio de la oferta.
+Las bases de licitación deberán establecer las condiciones que permitan alcanzar la combinación más ventajosa entre todos los beneficios del bien o servicio por adquirir y todos sus costos asociados, presentes y futuros. En el caso de la prestación de servicios habituales, que deban proveerse a través de licitaciones o contrataciones periódicas, se otorgará mayor puntaje o calificación a aquellos postulantes que exhibieren mejores condiciones de empleo y remuneraciones. Estas condiciones no podrán establecer diferencias arbitrarias entre los proponentes, ni sólo atender al precio de la oferta.
 
-Tratándose de las bases de licitación de los servicios de recolección de residuos sólidos domiciliarios, las municipalidades deberán sujetarse a los contenidos mínimos que para ellas establezca un reglamento expedido a través del Ministerio del Interior y Seguridad Pública, de acuerdo a la tipología de municipios determinados en dicho reglamento, salvo en lo referente a mejores condiciones de empleo y remuneración regulado por el presente artículo. Dichas bases de licitación y las adjudicaciones deberán ser sometidas al trámite de toma de razón por la Contraloría General de la República.
-
-Para determinar la tipología de los municipios se deberá considerar, al menos, el número de habitantes, el tamaño de las comunas, la dificultad de acceso y otras condiciones de la comuna en que se brindará el servicio de recolección de residuos domiciliarios.
-
-En las licitaciones indicadas en el inciso segundo, el criterio económico deberá ponderar al menos un 50 por ciento y el criterio mejores condiciones de empleo y remuneraciones a que se refiere el inciso primero deberá ponderarse en al menos un 30 por ciento del puntaje total de evaluación. Además, este criterio de mejores condiciones de empleo y remuneración no podrá formar parte de otro criterio de evaluación.
-
-Para efectos de lo señalado en el inciso anterior, el criterio mejores condiciones de empleo y remuneraciones se compondrá a lo menos de los siguientes subfactores:
-
-a) La remuneración total que se ofrezca pagar a cada trabajador, conforme lo establece el artículo 42 del Código del Trabajo, la cual no podrá ser inferior al promedio de las remuneraciones que perciben los trabajadores que prestan los servicios indicados en el inciso segundo, y a la función que han cumplido en los tres últimos meses, previos al inicio del proceso licitatorio. Para estos efectos, la municipalidad deberá indicar en las bases de licitación el referido promedio de remuneraciones para cada función, según se trate de conductor, peoneta o barrendero, concernientes al proceso licitatorio anterior, considerando únicamente al personal que labore directamente en acciones operativas del servicio de recolección de residuos sólidos domiciliarios.
-
-b) El número de trabajadores de la empresa que actualmente presta el servicio concesionado, que continuará prestando servicios para el nuevo concesionario.
-
-c) Las condiciones de empleo, entre las cuales deberá considerar la existencia de prestaciones de bienestar, la contratación mediante contratos de trabajo indefinidos, la existencia de contratos colectivos vigentes u otras que establezca la municipalidad.
-
-En las licitaciones que tengan por objeto proveer de servicios de alimentación a establecimientos de educación parvularia, básica y media administrados por la Junta Nacional de Auxilio Escolar y Becas y en aquellos establecimientos de educación superior y de formación técnico-profesional o similares que contengan puntos de canje asociados a la tarjeta de la ley de la beca BAES, establecimientos de salud pública, establecimientos penitenciarios y casinos y cafeterías que estén dentro o sean parte de alguna institución u organismo de la administración del Estado, las bases de licitación deberán contemplar condiciones para la provisión de servicios de alimentación de personas que padezcan enfermedades por intolerancias alimentarias, enfermedad celíaca o alergia alimentaria.
-
-En los contratos de prestación de servicios para establecimientos de educación parvularia, escolar y preescolar, los contratos de trabajo del personal que se desempeña en la manipulación de alimentos deberán contemplar el pago de las remuneraciones de los meses de diciembre, enero y febrero en las mismas condiciones de los meses precedentes, de conformidad con lo dispuesto en el inciso primero del artículo 75 bis del Código del Trabajo.
-
-También se dará prioridad, en los términos del inciso primero, a las empresas que mantengan vigentes convenios colectivos con las organizaciones sindicales representativas de sus trabajadores o que le hagan aplicables a estos convenios colectivos acordados por otros empleadores u organizaciones gremiales de empleadores, suscritos de conformidad a las reglas del Título X del Libro IV del Código del Trabajo.
+Asimismo, en los contratos de prestación de servicios para establecimientos escolares y pre- escolares, los contratos de trabajo de las manipuladoras de alimentos deberán contemplar el pago de las remuneraciones de los meses de enero y febrero.
 
 En todo caso, la Administración deberá propender a la eficacia, eficiencia y ahorro en sus contrataciones.
 
@@ -308,9 +288,7 @@ Los integrantes del Tribunal elegirán a uno de sus miembros para que lo presida
 
 Los integrantes designados en calidad de suplentes ejercerán el cargo que les haya sido asignado en aquellos casos en que, por cualquier circunstancia, no sea desempeñado por el titular. Dicha suplencia no podrá extenderse por más de seis meses continuos, al término de los cuales deberá, necesariamente, proveerse el cargo con un titular, de la manera ya señalada, por el período que reste para el ejercicio del mismo.
 
-Los integrantes del Tribunal tendrán derecho a que se les pague la suma equivalente a un treintavo de la renta del Grado IV, correspondiente a Ministros de Corte de Apelaciones, por cada sesión a la que asistan, con un máximo de veintiuno sesiones mensuales. Con todo, no podrá celebrarse más de una sesión diariamente.
-
-En el caso de convocarse a más de doce sesiones en un mismo mes calendario, dichas sesiones se celebrarán preferentemente por los integrantes del Tribunal suplentes.
+Los integrantes del Tribunal tendrán derecho a que se les pague la suma equivalente a un treintavo de la renta del Grado IV, correspondiente a Ministros de Corte de Apelaciones, por cada sesión a la que asistan, con un máximo de doce sesiones mensuales.
 
 Los integrantes del Tribunal permanecerán en el ejercicio de sus cargos por un plazo de cinco años, pudiendo ser nuevamente designados, de la misma forma antes establecida.
 
@@ -493,130 +471,6 @@ La contratación de acciones de apoyo a que se refiere la ley Nº 18.803, deber�
 #### Artículo 35
 
 El sistema de información de compras y contrataciones de la Administración será el continuador legal, para todos los efectos legales, del establecido por el decreto supremo Nº 1.312, de 1999, del Ministerio de Hacienda.
-
-## Capítulo VII
-
-De la probidad administrativa y transparencia en la contratación pública
-
-> **Nota.** El inciso primero del artículo sexto transitorio de la Ley 21634, publicada el 11.12.2023, dispone que las normas del presente Capítulo, agregado por el N° 48 del artículo primero de la citada norma, respecto de los contratos de ejecución y concesión de obras de los Ministerios de Obras Públicas y de Vivienda y Urbanismo, entrarán en vigencia dos años después de la publicación de la referida ley en el Diario Oficial.
-
-#### Artículo 35 bis
-
-Una vez determinada la necesidad de adquirir bienes o servicios, se iniciará el proceso de preparación de la contratación administrativa.
-
-Previo al inicio de cualquier procedimiento de contratación pública, el organismo del Estado estará obligado a consultar el Catálogo de Convenio Marco antes de llamar a una Licitación Pública, Licitación Privada, Trato Directo o Contratación Excepcional Directa con Publicidad u otro procedimiento especial de contratación.
-
-Una vez verificada la indisponibilidad del bien o servicio o que mediante otro procedimiento de contratación pueden obtenerse mejores condiciones, el organismo del Estado deberá determinar el tipo de procedimiento adecuado para realizar la contratación administrativa, así como también elaborar las bases de licitación en los casos que corresponda. Para lo anterior, deberá seguir las disposiciones establecidas en la ley, el reglamento o las instrucciones de la Dirección de Compras y Contratación Pública cuando ello corresponda o, en su caso, las normas especiales que rijan el respectivo procedimiento de contratación. Con todo, los organismos del Estado que adjudiquen contratos según lo contemplado en este inciso deberán garantizar la igualdad de los oferentes, la libre competencia y la desconcentración de adjudicaciones, y promoverán la participación de las micro, pequeñas y medianas empresas en los procesos de contratación.
-
-En las adquisiciones y contrataciones complejas y en aquellas por sobre los montos que determine el reglamento, los organismos del Estado deberán previamente obtener y analizar información acerca de las características técnicas de los bienes o servicios requeridos, de sus precios, de los costos asociados, considerando el ciclo de vida útil del bien a adquirir, o de cualquiera otra característica relevante que requieran.
-
-Si para ello es indispensable hacer consultas a terceros ajenos a los organismos del Estado, éstas deberán efectuarse mediante una consulta pública a través del Sistema de Información y Gestión de Compras y Contrataciones del Estado. Excepcionalmente, y en caso de que no se obtenga la información necesaria para efectuar la contratación por medio del sistema correspondiente, las entidades contratantes podrán obtener directamente sus cotizaciones a través de correos electrónicos, sitios web, catálogos electrónicos, listas o comparadores de precios por internet, u otros medios similares, de lo que deberá quedar registro en el Sistema de Información y Gestión de Compras y Contrataciones del Estado.
-
-Sólo cuando sea imprescindible, en consideración al tipo de bien o servicio por adquirir, podrán realizarse reuniones presenciales o virtuales entre funcionarios de un organismo comprador y los potenciales proveedores, con el fin de obtener información sobre dicho bien o servicio. De todas las actuaciones señaladas en este inciso deberá quedar registro en el Sistema de Información y Gestión de Compras y Contrataciones del Estado. En dicho caso, se deberá cumplir con lo dispuesto en la ley N° 20.730, que regula el lobby y las gestiones que representen intereses particulares ante las autoridades y funcionarios.
-
-Sin perjuicio de lo anterior, los organismos de la Administración del Estado previo a efectuar cualquier adquisición deberán consultar en el medio que para ello disponga la Dirección de Compras y Contratación Pública, si existen bienes que sean de propiedad de otros organismos del Estado o servicios compartidos, que les permitan satisfacer la necesidad requerida. El reglamento podrá eximir del procedimiento de consulta cuando el bien requerido o servicio, por su naturaleza, no pueda ser reutilizado o compartido y, en general, no se produzcan excedentes de ellos, o bien, su valor comercial no supere el monto mínimo allí señalado.
-
-Las bases de licitación, en los casos que corresponda, deberán describir los bienes o servicios por contratar, sin que de manera arbitraria se privilegie a determinados productos o servicios por sobre otros que permitan satisfacer la necesidad del organismo del Estado, de manera equivalente.
-
-#### Artículo 35 ter
-
-Se prohíbe la comunicación entre los participantes o interesados en el proceso de contratación una vez iniciado el procedimiento de contratación, o entre eventuales interesados o participantes en él y las personas que desempeñen funciones en el organismo licitante que participen del proceso de adjudicación, independientemente de su calidad jurídica, en lo referido directa o indirectamente a tal proceso, salvo que se realice a través del Sistema de Información y Gestión de Compras Públicas administrado por la Dirección de Compras y Contratación Pública y en la forma establecida en las bases de licitación, que asegure la participación e igualdad de todos los oferentes.
-
-#### Artículo 35 quáter
-
-Ningún organismo del Estado podrá suscribir contratos administrativos con el personal del mismo organismo, cualquiera que sea su calidad jurídica, o con las personas naturales contratadas a honorarios por ese organismo, ni con sus cónyuges o convivientes civiles, ni con las demás personas unidas por los vínculos de parentesco en segundo grado de consanguinidad o afinidad, ni con sociedades de personas o empresas individuales de responsabilidad limitada de las que formen parte o sean beneficiarios finales, ni con sociedades en comanditas por acciones, sociedades por acciones o anónimas cerradas en que sean accionistas directamente, o como beneficiarios finales, ni con sociedades anónimas abiertas en que aquéllos o éstas sean dueños de acciones que representen el 10 por ciento o más del capital, directamente o como beneficiarios finales, ni con los gerentes, administradores, representantes o directores de cualquiera de las sociedades antedichas.
-
-La prohibición establecida en el inciso anterior debe entenderse respecto del personal dependiente de la misma autoridad o jefatura superior del organismo o servicio público que intervenga en el procedimiento de contratación.
-
-Igualmente, la prohibición para suscribir contratos establecida en el inciso primero se extenderá, respecto de los funcionarios directivos de los organismos del Estado, hasta el nivel de jefe de departamento o su equivalente, y de los funcionarios definidos en el reglamento que participen en procedimientos de contratación, a las personas unidas a ellos por los vínculos de parentesco descritos en la letra b) del artículo 54 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, y a las sociedades en que aquellos o éstas participen en los términos expuestos en el inciso primero, durante el tiempo en que ejerzan sus funciones, y hasta el plazo de un año contado desde el día en que el respectivo funcionario o funcionaria haya cesado en su cargo.
-
-Sin perjuicio de lo anterior, cuando circunstancias excepcionales lo hagan necesario, de acuerdo a lo señalado por el jefe de servicio, los organismos del Estado podrán celebrar dichos contratos, siempre que se ajusten a condiciones de equidad similares a las que habitualmente prevalecen en el mercado. La aprobación del contrato deberá hacerse por resolución fundada, que se comunicará al superior jerárquico del suscriptor, a la Contraloría General de la República y a la Cámara de Diputados, en el caso de los órganos de la Administración del Estado. En el caso del Congreso Nacional, la comunicación se dirigirá a la Comisión de Ética y Transparencia del Senado o a la Comisión de Ética y Transparencia de la Cámara de Diputados, según corresponda y, en el caso del Poder Judicial, a su Comisión de Ética.
-
-#### Artículo 35
-
-quinquies.- Las autoridades y los funcionarios, independientemente de su calidad jurídica, deberán abstenerse de intervenir en procedimientos de contratación pública o ejecución contractual en los que puedan tener interés.
-
-Son motivos de abstención los siguientes:
-
-1. Tener interés en los términos indicados por el inciso tercero del artículo 44 de la ley Nº 18.046, sobre sociedades anónimas. En este caso, se considerará que existe un interés personal también cuando lo tenga el conviviente civil, los parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, o aquel o aquella con quienes tenga hijos en común.
-
-2. Incurrir en alguno de los motivos de abstención a que se refiere el artículo 12 de la ley Nº 19.880, que establece las bases de los procedimientos administrativos que rigen los actos de los organismos de la Administración del Estado. En este caso, se considerará que existe un interés personal también cuando lo tenga el conviviente civil, los parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, o aquel o aquella con quienes tenga hijos en común.
-
-3. Haberse desempeñado en los últimos veinticuatro meses como director, administrador, gerente, trabajador dependiente o asesor, consejero o mandatario, ejecutivo principal o miembro de algún comité, en sociedades o entidades respecto de las cuales deba tomarse una decisión. Se entenderán también comprendidas dentro de esta causal aquellas entidades que formen parte de un mismo grupo empresarial, como matrices, filiales o coligadas, en los términos definidos en el artículo 96 de la ley N° 18.045, de Mercado de Valores.
-
-4. Haber emitido opinión, por cualquier medio, sobre un procedimiento de contratación en curso y cuya resolución se encuentre pendiente.
-
-5. Participar en decisiones en que exista cualquier circunstancia que le reste imparcialidad.
-
-#### Artículo 35
-
-sexies.- Los contratos celebrados con infracción de lo dispuesto en el presente Capítulo serán nulos. El personal al que se refiere el artículo 12 bis que haya participado en su tramitación incurrirá en contravención al principio de probidad administrativa descrito en el numeral 6 del inciso primero del artículo 62 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, sin perjuicio de la responsabilidad civil y penal que les corresponda.
-
-La Dirección de Compras y Contratación Pública deberá implementar un canal reservado para recibir denuncias sobre irregularidades en los procedimientos de contratación regidos por la presente ley.
-
-#### Artículo 35
-
-septies.- Sin perjuicio de las causales de inhabilidad para formar parte del Registro de Proveedores establecidas en virtud del artículo 17, podrán quedar inhabilitados del referido Registro las siguientes personas:
-
-a) Quienes hayan sido condenados por delitos concursales establecidos en el Título IX del Libro II del Código Penal, o en sede penal, por delitos establecidos en los numerales 4° párrafos primero, segundo, tercero y quinto; 10° párrafo tercero; 22°; 23° párrafo primero; 24° párrafo tercero, y 25° del artículo 97 del Código Tributario.
-
-b) Las personas naturales o jurídicas que hayan sido condenados en virtud de una sentencia firme o ejecutoriada por incumplimiento contractual respecto de un contrato de suministro y prestación de servicios suscrito con alguno de los organismos sujetos a esta ley, derivado de culpa o falta de diligencia en el cumplimiento de sus obligaciones.
-
-c) Quienes hayan sido condenados por prácticas antisindicales o infracción de los derechos fundamentales del trabajador.
-
-d) Las personas que hayan sido condenadas por los delitos de cohecho establecido en el Párrafo 2 del Título V del Libro II del Código Penal, lavado de activos establecido en el Título III de la ley N° 19.913, que crea la Unidad de Análisis Financiero y modifica diversas disposiciones en materia de lavado y blanqueo de activos, o financiamiento del terrorismo contemplado en el artículo 8º de la ley N° 18.314, que determina conductas terroristas y fija su penalidad.
-
-Para efectos de lo anterior, la Dirección de Compras y Contratación Pública declarará inhábiles a las personas incluidas en las listas de personas naturales y jurídicas, incluyendo a sus accionistas y beneficiarios finales, declaradas inelegibles para la adjudicación de contratos, elaboradas por las instituciones financieras multilaterales.
-
-e) El proveedor que ha informado, según lo requerido en el inciso tercero del artículo 16, antecedentes maliciosamente falsos, que han sido enmendados o tergiversados o se presentan de una forma que claramente induce a error para efectos de su evaluación.
-
-Para efectos de la aplicación de esta causal, en caso de que la Dirección tome conocimiento de que el proveedor ha presentado información en los términos descritos, deberá notificarlo, y le otorgará un plazo de diez días para subsanar el vicio. En caso que la información requerida no sea enmendada dentro de dicho plazo, procederá la aplicación de la inhabilidad para participar en el Registro.
-
-En los casos señalados en los literales a) y d), en la demanda o querella se podrá solicitar, además, que se extienda la inhabilidad en el Registro de Proveedores a las personas jurídicas en las que el condenado participe como socio o accionista, titular de al menos el 10 por ciento de las acciones o derechos sociales, o como beneficiario final.
-
-Respecto de la causal señalada en el literal b), en la demanda se podrá solicitar también que la inhabilidad del Registro se extienda a otras personas jurídicas que tengan un objeto similar al del demandado, e iguales socios, accionistas o beneficiarios finales, así como también, a sus beneficiarios finales, en cuanto personas naturales.
-
-Tratándose de los casos señalados en el literal c), en la demanda se podrá solicitar la inhabilidad respecto de las personas jurídicas que hayan sido consideradas por sentencia firme o ejecutoriada como un solo empleador con el condenado, para efectos laborales y previsionales conforme al inciso cuarto del artículo 3° del Código del Trabajo, sea que se encuentren o no inscritas en el Registro.
-
-La inhabilidad en el Registro de Proveedores será aplicable cada vez que se configure la ocurrencia de las circunstancias reguladas en los literales a), b), c), d) o e).
-
-La inhabilidad se podrá aplicar por hasta dos años contados desde la fecha en que se encuentre firme o ejecutoriada la sentencia respectiva, salvo en el caso del literal d), en que se extenderá por el tiempo que dure la pena de inhabilitación establecida en el artículo 251 quáter del Código Penal, o, en su caso, la condena.
-
-Para efectos de determinar la duración de la inhabilidad, el juez deberá considerar especialmente en los fundamentos de su sentencia el bien jurídico o derecho vulnerado, la magnitud de la infracción en consideración a los terceros afectados, la reiteración de la conducta denunciada, el interés público afectado y la proporcionalidad del probable efecto económico que tendría su aplicación en consideración a la conducta denunciada, tanto respecto de quien haya sido directamente inhabilitado, como de todos aquellos a quienes se les extienda la inhabilidad en virtud de lo dispuesto en los incisos segundo, tercero y cuarto.
-
-Sin perjuicio de lo señalado en el inciso anterior, en los casos en que la sanción de inhabilidad del Registro de Proveedores pueda causar graves consecuencias sociales y económicas o daños serios a la comunidad, o sea perjudicial para el Estado, el tribunal no la aplicará. Para la determinación del interés público afectado o las consecuencias económicas que la inhabilidad pueda provocar a la comunidad o al Estado, el tribunal deberá solicitar a la Dirección de Compras y Contratación Pública su opinión fundada.
-
-Una vez aplicada la inhabilidad en el Registro de Proveedores, el tribunal comunicará este hecho a la Dirección de Compras y Contratación Pública y le remitirá copia del respectivo fallo.
-
-Cuando la Dirección de Compras y Contratación Pública tome conocimiento de alguna de las circunstancias señaladas en el presente artículo, dictará una resolución por la cual aplicará la inhabilidad en el Registro de Proveedores al proveedor que haya sido condenado, o rechazará su ingreso a él, en su caso, lo que le será notificado. Contra la presente resolución, el proveedor afectado podrá interponer los recursos que establezca la ley.
-
-#### Artículo 35
-
-octies.- Lo señalado en el artículo anterior se aplicará al Registro de Contratistas y Consultores del Ministerio de Obras Públicas, a los registros del Ministerio de Vivienda y Urbanismo y a todos los demás registros que tengan por objeto inscribir a personas naturales o jurídicas, para el suministro de bienes muebles, la ejecución de obras, o la prestación de servicios a organismos del Estado, según las reglas que se explicitan a continuación.
-
-Para llevar a cabo la inhabilidad señalada en el artículo anterior, tratándose de otros registros electrónicos distintos de aquel establecido por el artículo 16, una vez que el organismo del Estado a cargo de administrar el respectivo registro tome conocimiento de alguna de las circunstancias señaladas en el artículo 35 septies, dictará una resolución por la cual declarará la inhabilidad en el registro al proveedor sancionado en virtud de lo señalado en ese artículo, lo que será notificado al proveedor. La sanción de inhabilidad del respectivo registro podrá ser impugnada por el proveedor ante el organismo administrativo o jurisdiccional competente, según corresponda.
-
-En caso de que las causales contenidas en el artículo anterior sean equivalentes a aquellas sanciones contempladas en los registros especiales, éstas deberán ser aplicadas en conformidad a su normativa especial.
-
-En los contratos de concesión de obra pública solo les será aplicable lo dispuesto en las letras a) y d) del artículo 35 septies. Para esos efectos, en lugar de la inhabilidad en el Registro de Proveedores, procederá una inhabilidad para participar en licitaciones de obra pública de concesión por un plazo máximo de dos años, en procesos de precalificación de proyectos por el mismo tiempo y, cuando corresponda, la exclusión en la etapa de precalificación para una obra en particular.
-
-#### Artículo 35
-
-nonies.- Toda persona que tenga por función calificar o evaluar procesos de licitación pública o privada deberá suscribir una declaración jurada, por cada procedimiento de contratación, en la que declare expresamente la ausencia de conflictos de intereses y se obliguen a guardar confidencialidad sobre él.
-
-Asimismo, toda persona contratada a honorarios que participe de las funciones señaladas en el inciso anterior, tendrá la calidad de agente público, por lo que estará sujeto a responsabilidad administrativa en el desempeño de ellas, sin perjuicio de la responsabilidad civil o penal que corresponda.
-
-#### Artículo 35
-
-decies.- Cuando tome conocimiento de hechos que puedan constituir infracciones a la presente ley, la Contraloría General de la República, en el ámbito de su competencia, podrá ordenar a la autoridad dotada de potestad disciplinaria dar inicio a los procedimientos que correspondan, o incoar directamente procedimientos disciplinarios, con arreglo a lo establecido en el Título VIII de la ley N° 10.336, de organización y atribuciones de la Contraloría General de la República, cuyo texto refundido fue fijado en el decreto supremo N° 2.421, de 1964, del Ministerio de Hacienda.
-
-Si la Contraloría General de la República incoa directamente un procedimiento disciplinario, deberá proponer a la autoridad que tenga la potestad disciplinaria las sanciones que, en definitiva, estime procedentes, o la absolución de los funcionarios o agentes públicos involucrados. Establecida la responsabilidad disciplinaria por la Contraloría, la autoridad administrativa correspondiente podrá imponer una sanción distinta de la propuesta sólo si lo efectúa mediante resolución fundada que la justifique.
-
-El acto administrativo que imponga la sanción deberá dictarse dentro del plazo de treinta días hábiles, contado desde que se ha tomado conocimiento del acto dictado por la Contraloría que aprueba el sumario y propone a la autoridad competente las respectivas sanciones que estime procedentes. La infracción del Jefe de Servicio a lo dispuesto en este inciso será sancionada con censura o multa de hasta el 50 por ciento de su remuneración, la que será aplicada por la Contraloría, previa instrucción de una investigación sumaria o sumario administrativo.
-
-En todo caso, la Contraloría General de la República podrá ejercer las restantes atribuciones que le reconoce el ordenamiento jurídico.
-
-Si del estudio de los antecedentes aparece que los hechos revisten caracteres de delito, la Contraloría deberá denunciar dichos hechos ante el Ministerio Público. Asimismo, en caso de estimar que los hechos materia de la investigación tienen el carácter de infracciones que puedan generar responsabilidades administrativas distintas de la disciplinaria, de competencia de otra autoridad de fiscalización o control, la Contraloría deberá denunciar dichos hechos a los órganos respectivos, a objeto de que éstos se avoquen al conocimiento de estas materias dentro del ámbito de sus competencias.
 
 #### Artículo 36
 
