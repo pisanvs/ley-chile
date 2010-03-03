@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN DE CLAUSURA DE ESTANCIA LOS PIONEROS
+
+Resolución exenta Nº 188 del 18 de febrero de 2010, resolvió la Clausura a partir de esta fecha de Estancia Los Pioneros, roles 5101-48 y 5101-60 de propiedad de Modesto Barría Santana. Queda prohibida la entrada o salida de animales fuera de los límites del predio clausurado. Cualquier movimiento debe ser autorizado por el SAG. El propietario de los animales debe realizar el tratamiento antiparasitario a todos los animales ovinos o presentar un Programa de Tratamiento mediante baño de inmersión con un producto efectivo, en un plazo no superior al 01-04-2010. Deberá comunicar al SAG la fecha exacta de la aplicación del tratamiento, para una visita inspectiva que permita comprobar el cumplimiento de la medida. Los gastos de la aplicación de las medidas sanitarias son de cargo del dueño, tenedor o internador de los animales.
+
+Punta Arenas, 18 de febrero de 2010. Jaime Briones Becerra, Director SAG (I) Región Magallanes y Antártica Chilena.
