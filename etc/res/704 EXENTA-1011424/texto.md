@@ -1,0 +1,3 @@
+Por resolución exenta Nº 704, de 5 febrero de 2010, de esta Subsecretaría, autorízase a MARÍA HORTENSIA GALLEGOS BURGOS para iniciar actividades pesqueras de transformación, instalar y operar una planta en Puerto Nuevo s/n, Caleta Punta Lavapié, comuna de Arauco, VIII Región, para elaborar en las líneas de Cocido, Fresco-Enfriado, Fresco-Refrigerado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
