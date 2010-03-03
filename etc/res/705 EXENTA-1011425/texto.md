@@ -1,0 +1,3 @@
+Por resolución exenta Nº 705, de 5 de febrero de 2010, de esta Subsecretaría, autorízase a MARITZA DEL CARMEN AEDO OVANDO para iniciar actividades pesqueras de transformación, para instalar y operar planta en Camino Correntoso Km. 11, Puerto Montt, X Región, donde podrá elaborar en las líneas de Ahumado y Marinado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
