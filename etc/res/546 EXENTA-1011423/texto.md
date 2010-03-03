@@ -1,0 +1,3 @@
+Por resolución exenta Nº 546, de 28 de enero de 2010, de esta Subsecretaría, autorízase a FERNANDO ARNALDO MONTECINOS FUNES para iniciar actividades pesqueras de transformación, instalar y operar una planta en Punta de Cangrejo s/nº, Caleta El Blanco, Antofagasta, II Región, para elaborar en línea Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 28 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
