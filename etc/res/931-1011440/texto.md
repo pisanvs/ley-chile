@@ -1,0 +1,3 @@
+Por resolución Nº931, de 25 de febrero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº1.406, de 1999; Nº1.030, de 2000; Nº1.812, de 2002; Nº1.180 y Nº3.036, ambas de 2003; Nº918 y Nº1.921, ambas de 2004, todas de esta Subsecretaría, correspondientes al área de manejo Llico Sur Roca Blanca, VIII Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES Y ACTIVIDADES CONEXAS DE CALETA LLICO en virtud del artículo 16, letra g), del D.S. Nº355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
