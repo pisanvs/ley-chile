@@ -1,0 +1,3 @@
+Por resolución Nº927, de 25 de febrero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº2.011 de 2004 y Nº2.421 de 2005, ambas de esta Subsecretaría, correspondientes al área de manejo Puerto Gala, Sector C, XI Región, cuyo titular es la ASOCIACIÓN GREMIAL DE PESCADORES ARTESANALES Y BUZOS MARISCADORES DE ISLA TOTO en virtud del artículo 16, letra g), del DS Nº355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
