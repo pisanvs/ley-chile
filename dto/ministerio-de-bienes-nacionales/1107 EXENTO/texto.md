@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN DE USO GRATUITO DE INMUEBLE FISCAL EN LA REGIÓN DE COQUIMBO, A LA MUNICIPALIDAD DE VICUÑA
+
+Extracto de decreto exento Nº1.107.- Santiago, 31 de diciembre de 2009.
+
+Mediante decreto N° 1.107, de 31 de diciembre de 2009, el Ministerio de Bienes Nacionales otorgó concesión gratuita a la RUT N° 69.040.500-8; inmueble fiscal que corresponde al Sitio N° 7, manzana "G", Sector y Población de Calingasta, comuna de Vicuña, provincia de Elqui, Región de Coquimbo; rol de avalúo fiscal N° 250-44; inscrito a nombre del Fisco a fs. 62 vta. N° 11, del Registro de Propiedad del año, del Conservador de Bienes Raíces de Vicuña; singularizado en el plano N° IV-1-2057-C.R.; de una superficie de 2.260,10 m². La concesión se otorga por un plazo de 16 años, contado desde la fecha de suscripción de la escritura pública de concesión. La concesión se otorga para dar cumplimiento al Proyecto consistente en la Construcción, Habilitación y Funcionamiento de dos Salas Cunas y dos Niveles Medios, con capacidad para 40 lactantes en Sala Cuna y para 64 párvulos en los Niveles Medios. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Augusto Prado Sánchez, Subsecretario de Bienes Nacionales.
