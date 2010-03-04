@@ -1,0 +1,3 @@
+Por resolución Nº952, de 25 de febrero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº3.278, de 2003; Nº2.144, de 2004, y Nº2.636, de 2005, todas de esta Subsecretaría, correspondientes al área de manejo Añihue, Sector A, XI Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL DE PUERTO RAÚL MARÍN BALMACEDA, XI RegióN, en virtud del artículo 16, letra g), del D.S. Nº355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
