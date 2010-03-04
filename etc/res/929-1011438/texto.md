@@ -1,0 +1,3 @@
+Por resolución Nº929, de 25 de febrero de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones Nº1.900 de 1999, Nº675 y Nº1.704, ambas de 2000, Nº8 de 2002, Nº2.164 de 2003, Nº1.552 y Nº3.080, ambas de 2004, todas de esta Subsecretaría, correspondientes al área de manejo Punta Pichicui, VIII Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES, BUZOS MARISCADORES, ACUICULTORES Y ALGUEROS "RÍO TUBUL" en virtud del artículo 16, letra g), del DS Nº355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 25 de febrero de 2010. Jorge Chocair Santibáñez, Subsecretario de Pesca.
