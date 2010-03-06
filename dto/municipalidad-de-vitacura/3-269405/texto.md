@@ -1984,7 +1984,7 @@ b. Área E-Ab2: Edificación Aislada baja Nº 2
 
 Cuadro 10: Área E-Ab2: Edificación Aislada baja N° 2
 
-NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 16
+NOTA: VER DIARIO OFICIAL DE 21.02.2008, PAGINA 16.
 
 NOTAS:
 
@@ -2005,6 +2005,46 @@ medianero norte, no podrá adosarse y el
 distanciamiento será de 8 m. según Plano
 
 MR-10-01 (2)
+
+c) Los predios en Área E-Ab2 ubicados al norte
+
+de Vía Blanca, singularizados en el polígono
+
+A-B-C-D-E-A del plano MR-24-02, no podrán
+
+generar nuevos adosamientos hacia los predios
+
+vecinos que se emplazan en el Área E-Ab1
+
+contigua.
+
+d) Sobre la altura máxima establecida en el
+
+cuadro que antecede, se disminuirá en un 50%
+
+el incremento de altura señalado en el
+
+#### Artículo 2
+
+6.9 de la Ordenanza General de
+
+Urbanismo y Construcciones, en todos los
+
+predios que enfrentan la Av. Luis Pasteur,
+
+entre Av. Parque Antonio Rabat y Río
+
+Mapocho; Av. La Vendimia, entre Av. Parque
+
+Antonio Rabat y Av. Agua del Palo; Av. Parque
+
+Antonio Rabat, entre Av. Luis Pasteur y Av.
+
+Agua del Palo, y la vereda oriente de Av.
+
+Agua del Palo, entre Costanera Norte Av. Santa
+
+María y Av. La Vendimia.
 
 ______________________________
 
