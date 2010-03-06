@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 6.750 EXENTA, DE 11.12.2009, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA.
+
+En el concurso público del Tercer Cuatrimestre de 2008, se ha asignado a CORPORACIÓN IGLESIA DE LOS ADVENTISTAS DEL SÉPTIMO DÍA, R.U.T. N° 82.745.300-5, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de La Unión, XIV Región, con las características técnicas siguientes: Potencia 1 kW; frecuencia 102,5 MHz; estudio ubicado en Arturo Prat N° 356, La Unión, XIV Región, coordenadas geográficas 40° 17' 39" Latitud Sur, 73° 04' 43" Longitud Oeste (Datum Provisorio Sudamericano 1956); planta transmisora y sistema radiante ubicados en sector Centinela S/N°, La Unión, XIV Región, coordenadas geográficas 40° 14' 34" Latitud Sur, 73° 04' 10" Longitud Oeste (Datum Provisorio Sudamericano 1956); sistema radiante direccional con polarización vertical, arreglo de cuatro antenas Direccional de tres elementos, 11,5 dBd de ganancia máxima, altura del centro de radiación de 30 m; pérdidas en cables y conectores de 2,6 dB; y pérdidas por lóbulo de acuerdo a la siguiente tabla:
+
+El radioenlace estudio-planta será de 9 dBd de ganancia y 10 Watts de potencia.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de las obras e inicio de servicio.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la Ley N° 18.168 General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+POR ORDEN DEL SUBSECRETARIO DE TELECOMUNICACIONES JEFE DEPARTAMENTO SERVICIOS DE RADIODIFUSIÓN (S)
