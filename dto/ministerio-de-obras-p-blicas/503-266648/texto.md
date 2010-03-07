@@ -45,3 +45,23 @@ Decreto:
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Eduardo Bitrán Colodro, Ministro de Obras Públicas.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Patricio Aguilera Poblete, Subsecretario de Obras Públicas Subrogante.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de la Vivienda y Urbanismo y Obras Públicas y Transportes
+
+Subdivisión Jurídica
+
+Cursa con alcance decreto Nº 503, de 2007, del Ministerio de Obras Públicas
+
+Nº 51.514.- Santiago, 14 de noviembre de 2007.
+
+La Contraloría General ha dado curso regular al documento de la suma, a través del cual se aprueba el convenio complementario Nº 6 que modifica el contrato de concesión de la obra pública fiscal denominada "Concesión Internacional Sistema Oriente-Poniente", pero cumple señalar que, en lo sucesivo, el Servicio deberá arbitrar las medidas pertinentes, a fin de que se sometan, oportunamente, a la toma de razón los decretos que sancionen esa clase de acuerdos que inciden en inversiones en obras ya realizadas.
+
+Saluda atentamente a US, Noemí Rojas Llanos, Contralor General de la República Subrogante.
+
+Al señor
+
+Ministro de Obras Públicas
+
+Presente.
