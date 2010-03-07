@@ -72,6 +72,8 @@ El Consejo del Centro se reunirá las veces y en la forma que el mismo determine
 
 El quórum para sesionar será de, a lo menos, cinco miembros, y los acuerdos se adoptarán por simple mayoría de los presentes.
 
+Se entenderá que participan en las sesiones de su Consejo Directivo aquellos miembros que a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y del Secretario del Consejo Directivo. Sólo será procedente esta modalidad cuando en la sesión correspondiente existiere quórum presencial.
+
 II.1.B. Atribuciones del Consejo Directivo.
 
 El Consejo Directivo tendrá, entre otras, las siguientes facultades:
@@ -116,7 +118,9 @@ e) Presentar a la consideración del Consejo Directivo del Centro el presupuesto
 
 f) Contratar al personal profesional, técnico y administrativo que se considere necesario para ejecutar las actividades del Centro, e informar al Consejo del mismo de estas contrataciones. Sin perjuicio de lo establecido por el artículo 9 del decreto ley Nº 1.953, de 1977, por el artículo 62 de la ley Nº 18.482, y en la resolución conjunta Nº 5, de 2005, modificada por la Nº 138, de 2007 ambas de los Ministerios de Economía, Fomento y Reconstrucción y de Hacienda Pública, sus modificaciones o el texto que las reemplace, los trabajadores dependientes que se contraten en uso de esta atribución tendrán carácter de particulares, rigiéndose por el Código del Trabajo y leyes complementarias, en los términos establecidos por la Contraloría General de la República en esta materia. Dentro de esta facultad, el Director Ejecutivo podrá disponer y contratar para los funcionarios del Centro, la capacitación que estime necesaria, como también dictar los actos relativos a temas laborales y de seguridad social, sin perjuicio de operar a través de la Plataforma de Recursos Humanos de la Corporación de Fomento de la Producción.
 
-g) Asistir a las reuniones del Consejo Directivo con derecho a voz, y desempeñar la función de Secretario de las mismas, a menos que designe a otro empleado del Centro para desempeñar esta última función.
+g) Asistir a las reuniones del Consejo Directivo con derecho a voz y designar a un funcionario del Comité para desempeñar la función de Secretario del Consejo Directivo con las siguientes facultades: certificar la asistencia de los miembros al Consejo Directivo, de
+
+levantar actas de las sesiones, y certificar los acuerdos que el Consejo Directivo adopte en dichas sesiones.
 
 h) Cautelar los recursos y bienes del Centro, y confeccionar y mantener al día un inventario de los bienes que el Centro maneje.
 
@@ -126,11 +130,17 @@ j) Disponer todo tipo de procedimientos administrativos, ejecutar o suscribir to
 
 k) Ejercer las demás funciones y cumplir los otros deberes que por normativa común o especial le corresponda o el Consejo Directivo le asigne mediante acuerdo.
 
+l) Celebrar contratos de arrendamiento de bienes inmuebles, y suscribir todos los documentos que resulten necesarios para dar cumplimiento a la normativa vigente respecto de la celebración de dichos contratos.
+
+m) Contratar personal y expertos nacionales o extranjeros sobre la base de honorarios, que posean los conocimientos necesarios para
+
+desempeñar determinadas asesorías o trabajos especializados.
+
 El Vicepresidente Ejecutivo de la Corporación podrá designar uno o más subrogantes del Director Ejecutivo, quienes actuarán en ausencia del titular, con todas sus facultades, lo que no será necesario acreditar ante terceros.
 
 ### III. PLATAFORMA DE SERVICIOS COMPARTIDOS
 
-La Corporación a través de sus plataformas de servicios compartidos y bajo las facultades determinadas para la propia operación interna, proporcionará al Centro, conforme a sus requerimientos, los servicios de contabilidad, tesorería, control presupuestario, oficina de partes, bienes de consumo e inventariables, servicios operacionales u otros. Los gastos que irrogue el funcionamiento del Centro serán rebajados del presupuesto fijado para su adecuado funcionamiento.
+La Corporación a través de sus plataformas de servicios compartidos y bajo las facultades determinadas para la propia operación interna, proporcionará al Centro, conforme a sus requerimientos, los servicios de contabilidad, tesorería, control presupuestario, oficina de partes, bienes de consumo e inventariables, servicios operacionales u otros. Los gastos que irrogue el funcionamiento del Centro serán imputados a los ítems presupuestarios que corresponda, y que se contemplen para tal efecto, de conformidad con la Ley de Presupuestos del Sector Público de cada año.
 
 ### IV. DISPOSICIONES FINALES
 
