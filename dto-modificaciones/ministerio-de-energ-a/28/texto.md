@@ -12,7 +12,7 @@ Inferior Intermedio Superior Paridad
 
 US$/m³ US$/m³ US$/m³ US$/m³
 
-P. Combustible 409.10 467.00 526.00 476.62
+P. Combustible 409.10 467.60 526.00 476.62
 
 2.- Los precios establecidos en el numeral precedente entrarán en vigencia el día lunes 1 de marzo de 2010.
 
