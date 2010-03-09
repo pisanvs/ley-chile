@@ -1,0 +1,3 @@
+Por resolución exenta Nº 822, de 18 de febrero de 2010, de esta Subsecretaría, autorízase a SOCIEDAD WENDT FISH LIMITADA para iniciar actividades pesqueras de transformación, para instalar y operar una planta en Putemun, sector Tey, Parcela N° 1, Castro, Chiloé, X Región, donde podrá elaborar en las líneas de Cocido, Fresco-enfriado, Congelado, Conservas, Harina y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
