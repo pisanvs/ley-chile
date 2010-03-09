@@ -41,3 +41,23 @@ Decreto:
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar Chacra, Ministro de Obras Públicas.- Juan Eduardo Saldivia Medina, Subsecretario de Obras Públicas.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Juan Eduardo Saldivia Medina, Subsecretario de Obras Públicas.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de la Vivienda y Urbanismo y Obras Públicas y Transportes
+
+Subdivisión Jurídica
+
+Cursa con alcance decreto Nº 471, de 2008, del Ministerio de Obras Públicas
+
+Nº 41.964.- Santiago, 5 de septiembre de 2008.
+
+La Contraloría General ha dado curso al documento del epígrafe, que rectifica deslindes de las zonas de las concesiones sanitarias de ECONSSA CHILE S.A. (ex ESSAR S.A.) que indica, pero cumple con precisar que las áreas geográficas que se aprueban en el numeral 1º del acto administrativo en examen corresponden a las identificadas en el plano Registro Ord. SISS Nº 2202/08, de la Superintendencia de Servicios Sanitarios, lo que se ha omitido consignar en su texto.
+
+Saluda atentamente a US., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Obras Públicas
+
+Presente
