@@ -1,0 +1,3 @@
+Por resolución exenta Nº 706, de 5 de febrero de 2010, de esta Subsecretaría, autorízase a JESSICA MARYAN MARAMBIO ROJAS, para iniciar actividades pesqueras de transformación, instalar y operar una planta en Dolores Endeiza Nº 189, Sitio Nº 8, Manzana A, Tongoy, IV Región, para elaborar en las líneas de Cocido, Fresco-Enfriado, Congelado, Ahumado y Conserva, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 5 de febrero de 2010.- Germán Loyola Bastías, Subsecretario de Pesca (S).
