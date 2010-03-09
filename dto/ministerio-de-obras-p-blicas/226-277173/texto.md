@@ -107,3 +107,29 @@ TOTAL 340.057
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Sergio Bitar Chacra, Ministro de Obras Públicas.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Juan Eduardo Saldivia Medina, Subsecretario de Obras Públicas.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de la Vivienda y Urbanismo y Obras Públicas y Transportes
+
+Subdivisión Jurídica
+
+Subdivisión Control Técnico de Obras
+
+Subdivisión de Auditoría e Inspección
+
+Cursa con alcance el decreto Nº 226, de 2008, del Ministerio de Obras Públicas
+
+Nº 38.654.- Santiago, 18 de agosto de 2008.
+
+La Contraloría General ha dado curso al instrumento del rubro, que aprueba el Convenio Complementario Nº 3, que modifica el contrato de concesión de la obra pública denominada "Aeropuerto Internacional Arturo Merino Benítez de Santiago".
+
+Sin perjuicio de lo anterior, cabe hacer presente que es menester actualizar el plano que grafica el emplazamiento de todas las obras ejecutadas en el aludido aeropuerto, el que debe registrar el destino y ubicación exacta de cada dependencia.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Obras Públicas
+
+Presente.
