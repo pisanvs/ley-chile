@@ -114,6 +114,24 @@ hasta el límite urbano Surponiente, a través
 
 de calle Javier Errázuriz y calle Caupolicán.
 
+PUMANQUE:
+
+* El tramo urbano de la Ruta I-60, Cruce Ruta
+
+90 (Ex Ruta I-50 - Población) - Cruce Ruta
+
+I-72 (La Quesería), desde el límite urbano
+
+norte al límite urbano sur, a través del
+
+sistema vial urbano de las calles Av. Cura
+
+Cornejo, Av. Rosario, calle Luis Barahona,
+
+Av. Manuel Rodríguez, Av. Bernardo O’Higgins
+
+y Av. 11 de Septiembre.
+
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar Chacra, Ministro de Obras Públicas.
