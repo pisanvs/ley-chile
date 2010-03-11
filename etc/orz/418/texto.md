@@ -1030,6 +1030,72 @@ Telefónica 1,5/3,160 0.5
 
 ## Título XIII
 
+Derechos Municipales para Terminal Rodoviario
+
+> **Nota.** El Nº1 de la Ordenanza 443, Municipalidad de Iquique, publicada el 10.03.2010, ordenó agregar un nuevo Título XIII, a continuación del artículo 31º bis. El referido título se ha agregado a continuación del artículo 31, por cuanto el señalado artículo 31º bis no se encuentra en el presente texto actualizado.
+
+#### Artículo 31 ter
+
+La o las personas o empresas concesionarias del Terminal Rodoviario deberán pagar al municipio un arriendo fijo mensual, consistente en 27.98 U.T.M.
+
+Asimismo, dichas empresas deberán pagar un monto variable, también mensualmente y en términos unitarios, por buses atendidos en la losa del terminal, consistente en: 0.0099 U.T.M.
+
+Las sumas señaladas en los incisos anteriores deberán enterarse en arcas municipales dentro del quinto día hábil siguiente al mes en que se haya devengado la obligación.
+
+#### Artículo 31 quater
+
+a): El concesionario podrá cobrar a las empresas de buses, como tarifa máxima, por el derecho al uso de losa para salidas y por salida, los siguientes valores, impuestos incluidos:
+
+Empresas Servicios Nacionales: $2.000
+
+Empresas Servicios Internacionales: $5.000
+
+Estos montos podrán reajustarse en el mes de enero de cada año según la variación del Índice de Precios al Consu-midor.
+
+#### Artículo 31 quater
+
+b): El concesionario podrá cobrar a las empresas de buses, como tarifa máxima, por el derecho al uso de la losa para llegadas y por llegada, los siguientes valores, impuestos incluidos:
+
+Empresas Servicios Nacionales: $3.000
+
+Empresas Servicios Internacionales: $5.000
+
+Estos montos podrán reajustarse en el mes de enero de cada año según la variación del Índice de Precios al Consumidor.
+
+#### Artículo 31
+
+quinquies: Los precios o valores por actividades económicas al interior del Terminal de Buses serán fijados por la empresa concesionaria, no pudiendo exceder de los siguientes montos:
+
+a) Arrendamiento, subcontratación u otra forma jurídica para la explotación de boleterías y/u oficinas, por cada una 3,255 U.T.M.
+
+b) Custodia de equipajes 21,702 U.T.M.
+
+c) Cafetería 3,255 U.T.M.
+
+d) Estacionamiento 0.0 U.T.M.
+
+e) Kioscos de diarios, revistas y confites 6,276 U.T.M.
+
+f) Baños públicos de damas y varones 20,346 U.T.M.
+
+g) Servicios de taxis, previa autorización de la Dirección de Tránsito y Transporte Público 0.0 U.T.M.
+
+h) Arrendamiento de espacios para publicidad y propaganda dentro del recinto del Terminal 5,425 U.T.M.
+
+i) Arrendamiento de espacios para publicidad y propaganda en muros externos del Terminal 13,564 U.T.M.
+
+j) Servicio de Cajero Automático 24,415 U.T.M.
+
+k) Servicios anexos y otros análogos (Internet, teléfonos públicos, tele-fax, juegos, etc.) y cualquiera actividad comercial y/o servicio complementario al servicio que presta el Terminal 9,495 U.T.M.
+
+#### Artículo 31
+
+sexies: Cualquier otra actividad que el concesionario del Terminal de Buses pueda desarrollar como parte de los servicios ofrecidos, en la respectiva propuesta pública, y que sea autorizada por la Dirección de Tránsito y Transporte Público de la Municipalidad, cuya tarifa será definida de acuerdo a la respectiva oferta económica.
+
+Se faculta a la o las empresas concesionarias para que puedan subarrendar aquellos servicios, estableciéndose como precio aquel que sea estipulado de acuerdo a la autonomía de las partes.
+
+## Título XIV
+
 Sanciones
 
 #### Artículo 32º
