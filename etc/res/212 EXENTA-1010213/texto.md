@@ -22,6 +22,8 @@ La distribución por tramos de precio de vivienda, cuando corresponda, se determ
 
 6°.- Para los efectos de lo dispuesto en el Título II del D.S. N° 40, (V. y U,), de 2004, regirán las zonas de renovación urbana determinadas mediante Resolución Exenta N° 843, de este Ministerio, de 1995 y sus modificaciones y las zonas de desarrollo prioritario determinadas mediante resolución exenta N° 1.366, de este Ministerio, de 2001 y sus modificaciones, en las que los postulantes que resultaren seleccionados para el goce del subsidio habitacional que regula el Título II referido, podrán adquirir una vivienda, entendiéndose que las referencias que en dichas resoluciones se hacen al D.S. N° 44, (V. y U.), de 1988, se encuentran referidas al D.S. N° 40, (V. y U.), de 2004, en lo que corresponda.
 
+> **Nota.** El Nº4 de la Resolución 1489 Exenta, Vivienda, publicado el 11.03.2010, modifica el presente numeral en el sentido de dejar sin efecto las 84 solicitudes de postulación para el primer llamado 2010 del Sistema de Subsidio Habitacional regulado por el D.S. Nº 40 (V. y U.), de 2004, presentadas por las personas individualizadas en las nóminas que se acompañan (páginas 1 a la 19), por las causales que en cada caso se expresan.
+
 Anótese, publíquese y archívese. Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento, Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
