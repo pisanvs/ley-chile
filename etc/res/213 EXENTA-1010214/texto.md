@@ -28,8 +28,6 @@ La Comisión Técnica Evaluadora deberá velar porque los proyectos postulantes 
 
 4°.- Los recursos involucrados para la selección de los proyectos postulantes al llamado a concurso dispuesto en el número 1° de esta Resolución, serán los siguientes:
 
-.
-
 5°.- El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, subsidio diferenciado de localización, si corresponde, e inspección técnica de obras.
 
 6°.- Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
