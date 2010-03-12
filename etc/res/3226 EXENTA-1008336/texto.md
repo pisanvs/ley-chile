@@ -20,19 +20,21 @@ II.- Fíjese un nuevo orden de subrogación del Cargo de Director Suplente grado
 
 III.-Fíjese un nuevo orden de subrogación del Cargo a contrata 3º EUR, de la Planta de Profesionales de la Dirección General de Relaciones Económicas Internacionales, desempeñado por doña Alicia Frohmann Steinberg (RUT: 9.215.862-4), quien ejerce la Jefatura de la Dirección de Promoción de Exportaciones:
 
-1. Manuel Valencia Astorga (RUT: 4.777.426-8), Director grado 3º E.U.R. del Escalafón de Directivos del Servicio.
+a) María Lorena Sepúlveda Villa (RUT: 9.497.696-0), funcionaria de planta grado 4º E.U.R. del Escalafón de Profesionales del Servicio.
 
-2. María Lorena Sepúlveda Villa (RUT: 9.497.696-0), funcionaria de planta grado 4º E.U.R. del Escalafón de Profesionales del Servicio.
+b) Mauricio Bordachar Moraga (RUT: 8.189.502-3), funcionario de planta grado 4º E.U.R. del Escalafón de Profesionales del Servicio.
 
-3. Rodolfo Morales Tallar (RUT: 3.967.807-1), Jefe de Departamento grado 4º E.U.R. del Escalafón de Directivos del Servicio.
+c) Grani Martic Lausic (RUT: 8.630.178-4), funcionaria a contrata asimilada a grado 4º E.U.R. de la Planta de Profesionales del Servicio.
 
 IV.- Fíjese un nuevo orden de subrogación del Cargo de Director grado 3º EUR, de la Planta de Directivos de la Dirección General de Relaciones Económicas Internacionales, desempeñado por don Cristian Maturana Sanhueza, (RUT: 10.477.893-3), quien ejerce la Jefatura del Departamento Administrativo:
 
-1. Andrés Alliendes Rocco (RUT: 7.185.786-7), funcionario a contrata asimilado a grado 4º E.U.R. del Escalafón de Profesionales del Servicio.
+a) Cristián Contreras Orellana (RUT: Nº12.695.228-7), funcionario a contrata asimilado a grado 4º E.U.R. de la Planta de Profesionales del Servicio.
 
-2. Rosa Cristina Cayupi Alca (RUT: 6.078.934-7), Jefe de Departamento Suplente grado 4º E.U.R. de la Planta Directiva del Servicio.
+b) Giorna Morales Cruz (RUT: 13.466.102-k), funcionaria a contrata asimilada a grado 4º E.U.R. de la Planta de Profesionales del
 
-3. Giorna Morales Cruz (RUT: 13.466.102-K), funcionaria a contrata asimilada a grado 4º E.U.R. del Escalafón de Profesionales del Servicio.
+Servicio.
+
+c) Rosa Cristina Cayupi Alca (RUT: 6.078.934-7), Jefe de Departamento Suplente grado 4º E.U.R. de la Planta Directiva del Servicio.
 
 V.- Por razones impostergables de buen servicio, esta resolución comenzará a regir a contar del 16 de octubre de 2009.
 
