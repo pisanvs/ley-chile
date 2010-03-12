@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+La Municipalidad de Los Vilos, en relación a la incorporación de un nuevo derecho en la Ordenanza Local de Derechos Municipales, cuyo decreto fue publicado el día sábado 27 de febrero de 2010, en el Diario Oficial, viene a rectificar por error de transcripción el instrumento en comento, en el sentido que la disposición de escombros (con manejo) en el botadero municipal asciende a UTM 0,05 - Decreto Alcaldicio Nº1.120.

@@ -4,6 +4,6 @@ Núm. 864.- Los Vilos, 17 de febrero de 2010.- Vistos y Considerando: El decreto
 
 Decreto:
 
-1.- Apruébase incorporar un nuevo derecho en la Ordenanza Local de Derechos Municipales, en el Título "Derechos Municipales por Aseo y Ornato", Artículo 5º, se agrega una letra f) Disposición de Escombros en el Botadero Municipal UTM 0,15 (sin manejo) y UTM 0,005 (con manejo)".
+1.- Apruébase incorporar un nuevo derecho en la Ordenanza Local de Derechos Municipales, en el Título "Derechos Municipales por Aseo y Ornato", Artículo 5º, se agrega una letra f) Disposición de Escombros en el Botadero Municipal UTM 0,15 (sin manejo) y UTM 0,05 (con manejo)".
 
 Anótese, comuníquese, dese cuenta y archívese.- Juan Jorquera Niño de Zepeda, Alcalde.- Eveling Cuevas Trigo, Secretaria Municipal.
