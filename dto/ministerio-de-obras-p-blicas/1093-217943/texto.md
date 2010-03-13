@@ -316,6 +316,14 @@ Jefe Oficina Regional Inferior a 5.000
 
 con VºBº SEREMI
 
+#### Artículo 2
+
+transitorio: Durante el año 2010 para las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío y de la Araucanía, y únicamente para los contratos de obras que se celebren bajo el amparo del D.S. N° 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declaró zona de catástrofe a las Regiones señaladas, los montos señalados en la letra "b" del numeral 1 de la letra A del artículo segundo, serán los siguientes:
+
+#### Artículo 3
+
+transitorio: Durante el año 2010 la Orden de Ejecución de Obra o Consultoría señalada en el numeral primero de la letra C del artículo segundo no se exigirá para los contratos que se celebren en las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío y de la Araucanía bajo el amparo del D.S. N° 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declaró zona de catástrofe a las Regiones que indica.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Clemente Pérez Errázuriz, Subsecretario de Obras Públicas.

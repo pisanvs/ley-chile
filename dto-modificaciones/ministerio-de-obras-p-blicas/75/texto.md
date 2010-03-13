@@ -2654,6 +2654,8 @@ Durante el año 2009, las Bases Administrativas podrán incorporar en el proceso
 
 Durante el año 2009, las Bases Administrativas podrán establecer que la evaluación de las ofertas técnicas y económicas se realicen en un solo acto.
 
+Artculo 7: Durante el ao 2010 y slo para las Regiones Metropolitana, de Valparaso, del Libertador Bernardo OHiggins, del Maule, del Biobo y de la Araucana, y nicamente para los contratos de obras que se celebren bajo el amparo del D.S. N 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declar zona de catstrofe a las Regiones que indica, el porcentaje sealado en los incisos primero y segundo del artculo 106 ser de un 50%.
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Clemente Pérez Errazúriz, Subsecretario de Obras Públicas.
