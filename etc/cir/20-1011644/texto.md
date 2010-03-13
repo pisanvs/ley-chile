@@ -1,0 +1,5 @@
+CAMBIA CRITERIO EN CUANTO AL ALCANCE DE LA EXPRESIÓN "EN LA QUE TENGAN INTERESES" DEL ARTÍCULO 17 Nº 8 Y 41 DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 20 de fecha 8 de marzo de 2010, mediante la cual se cambia el criterio sostenido por este Servicio hasta la fecha para los efectos de aplicar lo dispuesto en los artículos 17 Nº 8 y 41, inciso 4º, de la Ley sobre Impuesto a la Renta. A partir de lo dispuesto en esta Circular, debe entenderse que la persona que concurre a la formación o constitución de una sociedad a través del respectivo aporte, tiene interés en la sociedad que se constituye, a la que enajena el bien aportado.
+
+El texto íntegro de esta Circular está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en marzo, de 2010.
