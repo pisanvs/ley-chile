@@ -1,0 +1,3 @@
+Por resolución exenta Nº 967, de 26 de febrero de 2010, de esta Subsecretaría, modifíquese el numeral 3º de la resolución Nº 61, de 2010, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2009-04 denominado "Evaluación hidroacústica reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2010", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de marzo de 2010, inclusive.
+
+Valparaíso, 26 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
