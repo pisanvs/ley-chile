@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN EXENTA Nº 194 DE 22 DE DICIEMBRE DE 2009, QUE ESTABLECE OBLIGACIÓN DE PRESENTAR DECLARACIÓN JURADA A LAS SOCIEDADES DE PERSONAS, SOCIEDADES DE HECHO, COMUNIDADES Y SOCIEDADES EN COMANDITA POR ACCIONES, RESPECTO DE LA PARTICIPACIÓN DE SUS SOCIOS GESTORES
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 47 del 8 de marzo de 2010, que, modifica instrucciones sobre "Declaración jurada que deben presentar las sociedades de personas, sociedades de hecho, comunidades y sociedades en comandita por acciones, respecto de sus socios gestores", que determinen su renta efectiva mediante contabilidad completa y balance general", a través del Formulario 1803, sobre información del porcentaje de participación de cada socio en el capital social, el monto total del capital propio tributario de la sociedad y la proporción que le corresponda a cada socio en el capital propio tributario, de acuerdo al porcentaje antes señalado.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo, de 2010.
