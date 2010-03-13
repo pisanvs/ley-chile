@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.005, de 3 de marzo de 2010, de esta Subsecretaría, modifícase el numeral 4º de la resolución Nº 417, de 2010, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio-temporal de las capturas de Jurel, Región Arica y Parinacota, Tarapacá y Antofagasta, año 2010", en el sentido de incorporar a la embarcación artesanal Cayumanqui, RPA 925966, a la nómina de participantes en el estudio.
+
+Valparaíso, 3 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
