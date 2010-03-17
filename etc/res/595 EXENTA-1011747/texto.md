@@ -1,0 +1,3 @@
+Por resolución exenta Nº 595, de 29 de enero de 2010, de esta Subsecretaría, modifíquese el numeral 3.- de la resolución exenta Nº 283 de 2009, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE VALPARAÍSO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Ecología trófica de aves y mamíferos marinos en la Reserva Nacional Pingüino de Humboldt, III y IV Región", en el sentido de extender su período de vigencia hasta el 21 de enero de 2011, inclusive.
+
+Valparaíso, 29 de enero de 2010.- María Ángela Barbieri Bellolio, Subsecretaria de Pesca (S).
