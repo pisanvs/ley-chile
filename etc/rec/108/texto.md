@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.611 de 15 de marzo del 2010, se publicó decreto Núm. 177 que "ADJUDICA Y OTORGA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA DENOMINADA PUCHULDIZA SUR 1, UBICADA EN LA COMUNA DE COLCHANE, PROVINCIA DEL TAMARUGAL, REGIÓN DE TARAPACÁ, A LA EMPRESA ENERGÍA ANDINA S.A., EN VIRTUD DE LA LEY N° 19.657", con el error que se salva a continuación: Primer Cuerpo, página cuarenta, primera columna, en el punto 2, del Considerando, donde dice: "... Que, mediante resolución exenta N° 20-52, de fecha 27 de noviembre de 2008, ..." debe decir "... Que, mediante resolución exenta N° 2052, de fecha 27 de noviembre de 2008,...".

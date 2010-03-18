@@ -82,8 +82,6 @@ Según lo señalado en el anexo 14 y como resultado de la exploración geotérmi
 
 El plazo máximo de duración de la concesión de exploración de energía geotérmica Puchuldiza Sur 1, será de dos años. En el evento que la concesionaria opte por una prórroga de la misma, haciendo uso del derecho establecido en el artículo 36 de la ley Nº 19.657, deberá acreditar, a lo menos, un avance no inferior al veinticinco por ciento (25%) de las actividades e inversiones proyectadas de acuerdo a los montos y cronograma de actividades consignados en el artículo tercero anterior.
 
-> **Nota.** El artículo cuarto del decreto 171 exento, Energía, publicado el 24.05.2012, modifica la presente norma en el sentido de prorrogar por un período de dos años la concesión a partir del día 16 de marzo de 2012.
-
 #### Artículo sexto
 
 El concesionario de exploración deberá informar al Ministerio de Minería, en el curso del mes de marzo de cada año, sobre la realización de las actividades e inversiones comprometidas.
