@@ -2446,6 +2446,8 @@ Cualesquiera otros individuos que hubieren tomado parte en la asociación y los 
 
 Las penas de los artículos 293 y 294 se impondrán sin perjuicio de las que correspondan, por los crímenes o simples delitos cometidos con motivo u ocasión de tales actividades.
 
+Cuando la asociación se hubiere formado a través de una persona jurídica, se impondrá además, como consecuencia accesoria de la pena impuesta a los responsables individuales, la disolución o cancelación de la personalidad jurídica.
+
 #### Artículo 295
 
 Quedarán exentos de las penas señaladas en los artículos anteriores aquellos de los culpables que, antes de ejecutarse alguno de los crímenes o simples delitos que constituyen el objeto de la asociación y antes de ser perseguidos, hubieren revelado a la autoridad la existencia de dichas asociaciones, sus planes y propósitos.
@@ -3920,17 +3922,19 @@ Las disposiciones del presente párrafo sólo tendrán lugar cuando el hecho no 
 
 Están exentos de responsabilidad criminal y sujetos únicamente a la civil por los hurtos, defraudaciones o daños que recíprocamente se causaren:
 
-1.º Los parientes consanguíneos legítimos en toda la línea recta.
+1.º Los parientes consanguíneos en toda la línea recta.
 
-2.º Los parientes consanguíneos legítimos hasta el segundo grado inclusive de la línea colateral.
+2.º Los parientes consanguíneos hasta el segundo grado inclusive de la línea colateral.
 
-3.° Los parientes afines legítimos en toda la línea recta.
+3.° Los parientes afines en toda la línea recta.
 
-4.° Los padres y los hijos naturales.
+4.° Derogado.
 
 5.° Los cónyuges.
 
 La excepción de este artículo no es aplicable a los extraños que participaren del delito.
+
+Además, esta exención no será aplicable cuando la víctima sea una persona mayor de sesenta años.
 
 ## Título Décimo
 

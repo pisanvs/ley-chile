@@ -48,11 +48,11 @@ Creación de nuevos juzgados. Créanse juzgados de familia, con asiento en cada 
 
 a) Primera Región de Tarapacá:
 
-Iquique, con siete jueces, con competencia sobre la comuna de Iquique.
+Iquique, con siete jueces, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
 b) Segunda Región de Antofagasta:
 
-Antofagasta, con diez jueces, con competencia sobre las comunas de Antofagasta y Sierra Gorda.
+Antofagasta, con diez jueces, con competencia sobre las comunas de Antofagasta, Mejillones y Sierra Gorda.
 
 Calama, con cinco jueces, con competencia sobre las comunas de la provincia de El Loa.
 
@@ -116,9 +116,11 @@ Parral, con dos jueces, con competencia sobre las comunas de Parral y Retiro.
 
 h) Octava Región del Bío-Bío:
 
+Chillán, con cuatro jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco y Chillán Viejo.
+
 Concepción, con diez jueces, con competencia sobre las comunas de Concepción, Penco, Hualqui, San Pedro de la Paz y Chiguayante.
 
-Talcahuano, con siete jueces, con competencia sobre las comunas de Talcahuano y Hualpén, y que tendrá, para todos los efectos legales, la categoría de juzgado asiento de Corte.
+Talcahuano, con seis jueces, con competencia sobre las comunas de Talcahuano y Hualpén, y que tendrá, para todos los efectos legales, la categoría de juzgado asiento de Corte.
 
 Los Angeles, con cinco jueces, con competencia sobre las comunas de Los Angeles, Quilleco y Antuco.
 
@@ -138,7 +140,7 @@ j) Décima Región de Los Lagos:
 
 Osorno, con cinco jueces, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa.
 
-Puerto Montt, con seis jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
+Puerto Montt, con cinco jueces, con competencia sobre las comunas de Puerto Montt y Cochamó.
 
 Puerto Varas, con dos jueces, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia.
 
@@ -152,7 +154,7 @@ Coihaique, con dos jueces, con competencia sobre las comunas de Coihaique y Río
 
 l) Duodécima Región de Magallanes:
 
-Punta Arenas, con cuatro jueces, con competencia sobre las comunas de la provincia de Magallanes.
+Punta Arenas, con cuatro jueces, con competencia sobre las comunas de la provincia de Magallanes y Antártica Chilena.
 
 m) Región Metropolitana de Santiago:
 
@@ -172,7 +174,7 @@ Colina, con tres jueces, con competencia sobre las comunas de la provincia de Ch
 
 Créanse, además, los siguientes juzgados de familia, que tendrán categoría de juzgado asiento de Corte para todos los efectos legales, con asiento dentro de la Provincia de Santiago, con el número de jueces y la competencia que en cada caso se indica:
 
-Cuatro juzgados de familia, con competencia sobre las comunas de la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, Pudahuel, Quinta Normal, Cerro Navia y Lo Prado. El Primer y Segundo Juzgado de Familia de Santiago contarán con quince jueces, el Tercero con catorce jueces y el Cuarto con trece jueces.
+Cuatro juzgados de familia, todos con trece jueces, con competencia sobre las comunas de la provincia de Santiago, con excepción de las comunas de San Joaquín, La Granja, La Pintana, San Ramón, San Miguel, La Cisterna, El Bosque, Pedro Aguirre Cerda, Lo Espejo, Pudahuel, Quinta Normal, Cerro Navia y Lo Prado.
 
 Dos juzgados, con diez jueces cada uno, con competencia sobre las comunas de San Miguel, San Joaquín, La Granja, La Pintana, San Ramón, Pedro Aguirre Cerda, La Cisterna, El Bosque y Lo Espejo.
 
@@ -185,12 +187,6 @@ Valdivia, con cinco jueces, con competencia sobre las comunas de Valdivia y Corr
 ñ) Decimoquinta Región de Arica y Parinacota:
 
 Arica, con siete jueces, con competencia sobre las comunas de las provincias de Arica y Parinacota.
-
-o) Decimosexta Región de Ñuble:
-
-Chillán, con cuatro jueces, con competencia sobre las comunas de Chillán, Pinto, Coihueco
-
-y Chillán Viejo.
 
 #### Artículo 4° bis
 
@@ -458,13 +454,13 @@ El ministro de fe dará aviso de esta notificación a ambas partes el mismo día
 
 Cuando la demanda deba notificarse a persona cuya individualización o domicilio sean difíciles de determinar, el juez dispondrá que se practique por cualquier medio idóneo que garantice la debida información del notificado, para el adecuado ejercicio de sus derechos.
 
-Las restantes notificaciones se practicarán por el estado diario electrónico, sin perjuicio de lo dispuesto en el inciso séptimo.
+Las restantes notificaciones se practicarán por el estado diario, salvo que se trate de las sentencias definitivas y de las resoluciones en que se ordene la comparecencia personal de las partes que no hayan sido expedidas en el curso de alguna de las audiencias, las que serán notificadas por carta certificada.
+
+Las notificaciones por carta certificada se entenderán practicadas desde el tercer día siguiente a aquél en que fueron expedidas.
 
 Excepcionalmente, y por resolución fundada, el juez podrá ordenar que la notificación se practique por personal de Carabineros o de la Policía de Investigaciones.
 
-Los abogados patrocinantes y los mandatarios judiciales de las partes, en la primera actuación que realicen en el proceso, deberán indicar otra forma de notificación electrónica que elijan para sí, que el juez califique como expedita y eficaz, bajo apercibimiento de serles notificadas por el estado diario electrónico todas las resoluciones que se dicten en lo sucesivo en el proceso. El medio de notificación indicado por las partes será aplicable también respecto de las sentencias definitivas y las resoluciones en que se ordene la comparecencia personal de las partes que no hayan sido expedidas en el curso de alguna de las audiencias. Con todo, si el demandado no hubiere realizado ninguna actuación en juicio o si las partes no hubieren designado un medio de notificación electrónico cuando comparecieren, conforme a lo dispuesto en el inciso final del artículo 18, estas resoluciones serán notificadas por carta certificada.
-
-Las notificaciones por carta certificada se entenderán practicadas desde el tercer día siguiente a aquel en que fueron expedidas, de lo que se dejará constancia. La notificación electrónica se entenderá practicada desde el momento de su envío.
+Los patrocinantes de las partes, en la primera actuación que realicen en el proceso, deberán indicar otra forma de notificación que elijan para sí, que el juez califique como expedita y eficaz, bajo apercibimiento de serles notificadas por el estado diario todas las resoluciones que se dicten en lo sucesivo en el proceso.
 
 #### Artículo 24
 
@@ -750,22 +746,6 @@ El juez podrá eximir a la parte de comparecer personalmente, lo que deberá hac
 
 Del mismo modo, el demandado que tuviere su domicilio en un territorio jurisdiccional distinto de aquél en que se presentó la demanda, podrá contestarla y demandar reconvencionalmente, por escrito, ante el juez con competencia en materias de familia de su domicilio, sin perjuicio de la designación de un representante para que comparezca en su nombre en las audiencias respectivas.
 
-#### Artículo 60 bis
-
-De la comparecencia voluntaria de las partes a audiencia por videoconferencia. El juez podrá autorizar la comparecencia remota por videoconferencia de cualquiera de las partes que así lo solicite, a una o varias de las audiencias judiciales de su competencia que se verifiquen presencialmente en el tribunal, si cuenta con los medios idóneos para ello y si, en su opinión, dicha forma de comparecencia resultare eficaz y no causare indefensión.
-
-La parte interesada deberá solicitar comparecer por esta vía hasta dos días antes de la realización de la audiencia, ofreciendo algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, a efectos de que el tribunal coordine la realización de la audiencia. Si no fuere posible contactar a la parte interesada a través de los medios ofrecidos tras tres intentos, de lo cual se deberá dejar constancia, se entenderá que no ha comparecido a la audiencia.
-
-La comparecencia remota de la parte se realizará desde cualquier lugar, con auxilio de algún medio tecnológico compatible con los utilizados por el Poder Judicial e informados por su Corporación Administrativa. Adicionalmente, para el caso en que la parte se encontrare fuera de la región en que se sitúa el tribunal, la comparecencia remota también podrá realizarse en dependencias de cualquier otro tribunal, si éste contare con disponibilidad de medios electrónicos y dependencias habilitadas. La Corte Suprema deberá regular mediante auto acordado la forma en que se coordinará y se hará uso de dichas dependencias.
-
-La constatación de la identidad de la parte que comparece de forma remota se deberá efectuar inmediatamente antes de la audiencia, de manera remota ante el ministro de fe o el funcionario que determine el tribunal respectivo, mediante la exhibición de su cédula de identidad o pasaporte, de lo que se dejará registro. Con todo, la declaración de parte, testigos y peritos y otras actuaciones que el juez determine sólo podrá rendirse en dependencias del tribunal.
-
-La disponibilidad y correcto funcionamiento de los medios tecnológicos de las partes que comparezcan remotamente en dependencias ajenas al Poder Judicial será de su responsabilidad. Con todo, la parte podrá alegar entorpecimiento si el mal funcionamiento de los medios tecnológicos no fuera atribuible a ella. En caso de acoger dicho incidente, el tribunal fijará un nuevo día y hora para la continuación de la audiencia, sin que se pierda lo obrado con anterioridad a dicho mal funcionamiento. En la nueva audiencia que se fije, el tribunal velará por la igualdad de las partes en el ejercicio de sus derechos.
-
-Lo dispuesto en los incisos anteriores es sin perjuicio de la modalidad de funcionamiento excepcional a través de audiencias remotas, por razones de buen servicio judicial, regulado en el artículo 47 D del Código Orgánico de Tribunales.
-
-> **Nota.** NOTA 1 El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 60 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
-
 #### Artículo 61
 
 Audiencia preparatoria. En la audiencia preparatoria se procederá a:
@@ -852,21 +832,11 @@ Practicada la prueba, el juez podrá solicitar a un miembro del consejo técnico
 
 Finalmente, las partes formularán, oralmente y en forma breve, las observaciones que les merezca la prueba y la opinión del miembro del consejo técnico, así como sus conclusiones, de un modo preciso y concreto, con derecho a replicar respecto de las conclusiones argumentadas por las demás.
 
-#### Artículo 64 bis
-
-En los divorcios de mutuo acuerdo, cumplidos los requisitos señalados en el artículo 55 de la ley Nº 19.947, que establece nueva ley de matrimonio civil, el tribunal podrá acceder de plano a la demanda si las partes así lo solicitan y acompañan en ese acto los documentos necesarios para acoger la pretensión.
-
-Para lo dispuesto en el inciso anterior, las partes, a través del sistema de tramitación electrónica del Poder Judicial, deberán acompañar los documentos fundantes de su solicitud y, para efectos de lo dispuesto en el inciso final del artículo 55 de la citada ley, dos declaraciones juradas de testigos que permitan acreditar que no ha existido por parte de los cónyuges reanudación de la vida en común con ánimo de permanencia. De la misma forma, y sin perjuicio de la prueba documental que pudiera presentarse, podrá acreditarse el tiempo de cese de la convivencia, tratándose de un matrimonio celebrado con anterioridad a la fecha de entrada en vigencia de la ley N° 19.947.
-
-Las declaraciones juradas a que hace referencia el inciso anterior podrán ser suscritas mediante firma electrónica simple.
-
 #### Artículo 65
 
 Sentencia. Una vez concluido el debate, el juez comunicará de inmediato su resolución, indicando los fundamentos principales tomados en consideración para dictarla. Excepcionalmente, cuando la audiencia de juicio se hubiere prolongado por más de dos días, podrá postergar la decisión del caso hasta el día siguiente hábil, lo que se indicará a las partes al término de la audiencia, fijándose de inmediato la oportunidad en que la decisión será comunicada.
 
 El juez podrá diferir la redacción del fallo hasta por un plazo de cinco días, ampliables por otros cinco por razones fundadas, fijando la fecha en que tendrá lugar la lectura de la sentencia, la que podrá efectuarse de manera resumida.
-
-> **Nota.** El artículo decimonoveno transitorio de la ley 21394, publicada el 30.11.2021, modifica, a partir de la publicación de la cita ley, y por un lapso de un año, el inciso segundo del presente artículo, en el sentido de ampliar el plazo para dictar sentencia de cinco a diez días.
 
 #### Artículo 66
 
@@ -1108,10 +1078,6 @@ Remisión de antecedentes si el hecho denunciado reviste caracteres de delito. E
 
 Si de los antecedentes examinados en la audiencia preparatoria o en la del juicio aparece que el denunciado o demandado ha ejercido violencia en los términos establecidos en el artículo 14 de la Ley sobre Violencia Intrafamiliar, el tribunal los remitirá al Ministerio Público.
 
-Previo a remitir una causa al Ministerio Público, el juez de familia adoptará las medidas cautelares que correspondan, las que se mantendrán vigentes en tanto el fiscal no solicite su modificación o cese.
-
-Si se plantea una contienda de competencia relacionada a un asunto de violencia intrafamiliar entre un juez de familia y el Ministerio Público o un juez de garantía, el juez de familia involucrado podrá adoptar las medidas cautelares que sean procedentes, las que se mantendrán vigentes hasta que la contienda de competencia sea resuelta.
-
 > **Nota.** El artículo 25 de la LEY 20066, publicada el 07.10.2005, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de octubre de 2005.
 
 #### Artículo 91
@@ -1126,8 +1092,6 @@ Medidas cautelares en protección de la víctima. El juez de familia deberá dar
 
 1. Prohibir al ofensor acercarse a la víctima y prohibir o restringir la presencia de aquél en el hogar común y en el domicilio, lugar de estudios o de trabajo de ésta, así como en cualquier otro lugar en que la víctima permanezca, concurra o visite habitualmente. Si ambos trabajan o estudian en el mismo lugar, se oficiará al empleador o director del establecimiento para que adopte las medidas de resguardo necesarias.
 
-Cuando el tribunal decrete la medida cautelar de prohibición de acercamiento, ordenará su supervisión a Carabineros de Chile. La procedencia de la supervisión adicional de la medida cautelar de prohibición de acercamiento, por medio de monitoreo telemático, se sujetará a los términos dispuestos en el artículo 92 bis.
-
 2. Asegurar la entrega material de los efectos personales de la víctima que optare por no regresar al hogar común.
 
 3. Fijar alimentos provisorios.
@@ -1136,7 +1100,7 @@ Cuando el tribunal decrete la medida cautelar de prohibición de acercamiento, o
 
 5. Decretar la prohibición de celebrar actos o contratos.
 
-6.- Prohibir el porte y tenencia de cualquier arma de fuego, municiones y cartuchos; disponer la retención de los mismos, y prohibir la adquisición o almacenaje de los objetos singularizados en el artículo 2º de la ley Nº17.798, sobre Control de Armas. De ello se informará, según corresponda, a la Dirección General de Movilización, a la Comandancia de Guarnición o al Director del Servicio respectivo para los fines legales y reglamentarios pertinentes. Con todo, el imputado podrá solicitar ser excluido de estas medidas en caso de demostrar que sus actividades industriales, comerciales o mineras requieren de alguno de esos elementos.
+6. Prohibir el porte y tenencia o incautar cualquier arma de fuego. De ello se informará, según corresponda, a la Dirección General de Movilización, a la Comandancia de Guarnición o al Director del Servicio respectivo para los fines legales y reglamentarios que correspondan.
 
 7. Decretar la reserva de la identidad del tercero denunciante.
 
@@ -1151,30 +1115,6 @@ Tratándose de adultos mayores en situación de abandono, el tribunal podrá dec
 Para estos efectos, se entenderá por situación de abandono el desamparo que afecte a un adulto mayor que requiera de cuidados.
 
 > **Nota.** El artículo 25 de la LEY 20066, publicada el 07.10.2005, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de octubre de 2005.
-
-#### Artículo 92 bis
-
-Supervisión por monitoreo telemático de la medida cautelar de prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio. Cuando el juez con competencia en materias de familia imponga al ofensor la medida cautelar del numeral 1 del artículo 92, podrá decretar que dicha prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio, sea supervisada por monitoreo telemático regulado en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento, siempre y cuando se cumplieren los siguientes requisitos, de los que deberá dejar constancia expresa en la resolución:
-
-a) Que existieren uno o más antecedentes que permitan presumir fundadamente que el denunciado ha cometido un hecho constitutivo de violencia intrafamiliar de conformidad al artículo 5° de la ley Nº 20.066.
-
-b) Que existan antecedentes suficientes que permitan al juez considerar que la supervisión mediante monitoreo telemático de la medida cautelar del numeral 1 del artículo 92, resulta necesaria para resguardar la seguridad de la víctima o de su familia.
-
-c) Que el informe de evaluación de riesgo emanado de las Policías o del Consejo Técnico del Tribunal, elaborado en base a la Pauta Unificada de Evaluación Inicial de Riesgo, indique un riesgo alto para la víctima.
-
-En el caso de demandas escritas, en el más breve plazo posible y por la vía más expedita, se citará a la víctima a la entrevista para la evaluación del riesgo que realizará el Consejo Técnico del Tribunal en base a la Pauta Unificada de Evaluación Inicial de Riesgo.
-
-Para estos efectos, tan pronto se recibiere la denuncia de un hecho con informe de evaluación de riesgo alto para la víctima, el tribunal de oficio, por medio de la correspondiente unidad de administración de causas, o de quien ejerza las funciones de ésta, ordenará a Gendarmería de Chile que emita un informe relativo a la factibilidad técnica de la supervisión por monitoreo telemático de la medida cautelar establecida en el numeral 1 del artículo 92, remitiéndole por la vía más expedita toda la información necesaria para el adecuado diligenciamiento del requerimiento. Con todo, en los casos en que ya constare un informe de factibilidad técnica con una antigüedad máxima de seis meses, el tribunal podrá tenerlo a la vista y prescindir de solicitar un nuevo informe, en tanto no hubieren cambiado las circunstancias existentes al tiempo de expedición de aquél.
-
-Gendarmería de Chile deberá remitir el informe de factibilidad técnica al tribunal en un plazo que en caso alguno podrá ser superior a cinco días hábiles contado desde la recepción del requerimiento.
-
-Recibido el informe al que se refiere el inciso segundo, el tribunal lo agregará de inmediato a la causa y, cuando se hubiere impuesto al ofensor la medida cautelar del numeral 1 del artículo 92, procederá a pronunciarse a la mayor brevedad posible acerca de la supervisión de dicha medida mediante monitoreo telemático, por medio de una resolución fundada, en la cual expresará de manera clara, lógica y completa, cada uno de los antecedentes calificados que justificaren la decisión, de conformidad con lo dispuesto en el inciso primero de este artículo.
-
-En los casos que el informe de Gendarmería de Chile determine que no existe factibilidad técnica, el tribunal dictará instrucciones específicas a Carabineros de Chile para asegurar la eficacia de la medida cautelar de prohibición de acercarse a la víctima, a su domicilio, lugar de trabajo o estudio.
-
-#### Artículo 92 ter
-
-Audiencia de seguimiento de la medida cautelar del numeral 1 del artículo 92, supervisada por monitoreo telemático. Dentro de los noventa días desde que se hubiere decretado la medida cautelar de prohibición de acercamiento a la víctima, a su domicilio, lugar de trabajo o estudio, supervisada por monitoreo telemático, el juez de familia citará de oficio a una audiencia, con el fin de considerar su cesación o prolongación, según si se mantuvieren los requisitos del artículo 92 bis.
 
 #### Artículo 93
 
@@ -1248,9 +1188,7 @@ De los actos judiciales no contenciosos
 
 Del procedimiento aplicable. Los actos judiciales no contenciosos cuyo conocimiento corresponda a los jueces de familia se regirán por las normas de la presente ley y, en lo no previsto en ellas, por el Libro IV del Código de Procedimiento Civil, a menos que resulten incompatibles con la naturaleza de los procedimientos que esta ley establece, particularmente en lo relativo a la exigencia de oralidad.
 
-La solicitud podrá ser presentada por escrito y el juez podrá resolverla de plano, a menos que considere necesario oír a los interesados. En este último caso, citará a una audiencia, a la que concurrirán con todos sus antecedentes, a fin de resolver en ella la cuestión no contenciosa sometida a su conocimiento. El interesado podrá solicitar del tribunal que se le autorice a comparecer a esta audiencia por vía remota por videoconferencia, según lo dispuesto en el artículo 60 bis de esta ley.
-
-> **Nota.** NOTA 2 El inciso segundo del artículo duodécimo transitorio de la ley 21394, publicada el 30.11.2021, dispone que, durante el periodo de un año contado desde la entrada en vigencia señalada en el inciso primero de la citada norma transitoria, las disposiciones contenidas en el artículo 60 bis de la presente norma, regirán en los tiempos y territorios en que las disposiciones del artículo decimosexto transitorio no fueren aplicables, de conformidad a la extensión temporal o territorial que conforme dicho artículo disponga la Corte Suprema.
+La solicitud podrá ser presentada por escrito y el juez podrá resolverla de plano, a menos que considere necesario oír a los interesados. En este último caso, citará a una audiencia, a la que concurrirán con todos sus antecedentes, a fin de resolver en ella la cuestión no contenciosa sometida a su conocimiento.
 
 ### Párrafo 4º — Procedimiento Contravencional ante los Tribunales de Familia
 
@@ -1340,8 +1278,6 @@ DE LA MEDIACION FAMILIAR
 
 Mediación. Para los efectos de esta ley, se entiende por mediación aquel sistema de resolución de conflictos en el que un tercero imparcial, sin poder decisorio, llamado mediador, ayuda a las partes a buscar por sí mismas una solución al conflicto y sus efectos, mediante acuerdos.
 
-La mediación, con acuerdo de las partes, se podrá realizar vía remota mediante videoconferencia según lo dispuesto en el artículo 109 bis, si el mediador contare con los medios tecnológicos para ello. Ambas partes podrán comparecer remotamente, o bien, una de ellas podrá hacerlo de manera remota y la otra en las dependencias del mediador o del Centro de Mediación, si así lo convinieren.
-
 > **Nota.** El artículo 7º de la LEY 20286, publicada el 15.09.2008, dispone que las modificaciones introducidas por el numeral 44) del artículo 1º regirán transcurridos noventa días desde su publicación.
 
 #### Artículo 104
@@ -1406,7 +1342,7 @@ Una vez realizadas las actuaciones a que se refieren los artículos precedentes,
 
 #### Artículo 108
 
-Citación a la sesión inicial de mediación. El mediador designado fijará una sesión inicial de mediación. A ésta citará, conjunta o separadamente, a los adultos involucrados en el conflicto, quienes deberán concurrir personalmente o vía remota por videoconferencia, según corresponda, sin perjuicio de la comparecencia de sus abogados.
+Citación a la sesión inicial de mediación. El mediador designado fijará una sesión inicial de mediación. A ésta citará, conjunta o separadamente, a los adultos involucrados en el conflicto, quienes deberán concurrir personalmente, sin perjuicio de la comparecencia de sus abogados.
 
 La primera sesión comenzará con la información a los participantes acerca de la naturaleza y objetivos de la mediación, los principios que la informan y el valor jurídico de los acuerdos a que puedan llegar.
 
@@ -1420,22 +1356,6 @@ Si el requerido, citado por una sola vez, no acude a la primera sesión de media
 
 > **Nota.** El artículo 7º de la LEY 20286, publicada el 15.09.2008, dispone que las modificaciones introducidas por el numeral 44) del artículo 1º regirán transcurridos noventa días desde su publicación.
 
-#### Artículo 109 bis
-
-Mediación por vía remota mediante videoconferencia. La mediación que se efectuare por vía remota mediante videoconferencia se realizará de conformidad a lo dispuesto en este artículo y a las demás normas del Título V que no resulten contradictorias.
-
-El mediador dispondrá de un medio de contacto que asegure la adecuada comunicación con las partes y que permita la oportuna y efectiva entrega y recepción de la información necesaria para la conducción del proceso de mediación remota.
-
-En la víspera de la sesión de mediación, las partes proporcionarán al mediador algún medio de contacto oportuno, tales como número de teléfono o correo electrónico, para efectos de intercambiar información y para la coordinación de las sesiones que pudieran tener lugar; y deberán remitir por escrito al mediador el acuerdo para la realización de la mediación vía remota. Las partes que concurran vía remota deberán previamente remitirle al mediador copia de su cédula de identidad al medio de contacto que aquel les hubiere indicado.
-
-Al inicio de la sesión, el mediador deberá verificar la identidad de las partes y solicitar que éstas ratifiquen su voluntad de llevar adelante el proceso de mediación remota por videoconferencia. A su vez, el mediador deberá constatar, sea mediante preguntas o la exhibición del entorno, que las partes que concurren vía remota se encuentran en un lugar adecuado para participar de la sesión de mediación que cumpla con las condiciones de idoneidad y privacidad suficientes, así como también, que no se encuentran presentes terceras personas ajenas al proceso.
-
-El mediador deberá prestar especial atención a que el intercambio de información entre las partes se realice de manera fluida y clara sin ningún tipo de coacción externa. El mediador estará siempre facultado para poner término o suspender un proceso de mediación seguido por vía remota si observare que el mismo no se pudiere realizar en conformidad a los principios de la mediación.
-
-Si hubiere mal funcionamiento de los medios tecnológicos, el mediador dispondrá la suspensión de la sesión y fijará un nuevo día y hora para su continuación en la fecha más próxima posible. Lo anterior es sin perjuicio de lo dispuesto en el inciso final del artículo 111.
-
-Las sesiones de mediación no podrán ser grabadas, captadas, interceptadas, divulgadas ni reproducidas por las partes, el mediador ni por terceras personas, por ningún medio material, digital o de comunicación masiva. Tampoco se podrán fotografiar imágenes o documentos de la sesión. La infracción a lo dispuesto en este artículo será sancionada de acuerdo a las penas establecidas en el artículo 161 - A del Código Penal.
-
 #### Artículo 110
 
 Duración de la mediación. El proceso de mediación no podrá durar más de sesenta días, contados desde que se comunica al mediador su designación por parte del juzgado de familia.
@@ -1448,7 +1368,7 @@ Durante ese plazo, podrán celebrarse todas las sesiones que el mediador y las p
 
 #### Artículo 111
 
-Acta de mediación. En caso de llegar a acuerdo sobre todos o algunos de los puntos sometidos a mediación, se dejará constancia de ello en un acta de mediación, la que, luego de ser leída por los participantes, será firmada por ellos y por el mediador, quedando una copia en poder de cada una de las partes. En caso que la mediación se verificare vía remota por videoconferencia, el acta podrá ser firmada mediante firma electrónica simple o avanzada.
+Acta de mediación. En caso de llegar a acuerdo sobre todos o algunos de los puntos sometidos a mediación, se dejará constancia de ello en un acta de mediación, la que, luego de ser leída por los participantes, será firmada por ellos y por el mediador, quedando una copia en poder de cada una de las partes.
 
 El acta deberá ser remitida por el mediador al tribunal para su aprobación en todo aquello que no fuere contrario a derecho, pudiendo el juez en todo caso, subsanar los defectos formales que tuviera, respetando en todo momento la voluntad de las partes expresada en dicha acta. Aprobada por el juez, tendrá valor de sentencia ejecutoriada.
 
@@ -1463,8 +1383,6 @@ Se entenderá que la mediación se frustra si alguno de los participantes, citad
 Registro de mediadores. La mediación que regula el presente Título sólo podrá ser conducida por las personas inscritas en el Registro de Mediadores que mantendrá, permanentemente actualizado, el Ministerio de Justicia a través de las Secretarías Regionales Ministeriales, con las formalidades establecidas en el reglamento.
 
 En dicho Registro, deberá individualizarse a todos los mediadores inscritos y consignarse el ámbito territorial en que prestarán servicios. Éste deberá corresponder, a lo más, al territorio jurisdiccional de una Corte de Apelaciones o de varias, siempre que se encuentren en una misma región y a lo menos, a todo el territorio jurisdiccional de un tribunal de primera instancia con competencia en asuntos de familia. Además, si corresponde, se señalará su pertenencia a una institución o persona jurídica.
-
-El mediador podrá llevar adelante el proceso de mediación siempre que se encuentre adscrito, en virtud de lo señalado en el inciso anterior, al territorio jurisdiccional del tribunal competente para conocer del conflicto.
 
 El Ministerio de Justicia proporcionará a las Cortes de Apelaciones la nómina de los mediadores habilitados en su respectivo territorio jurisdiccional. Asimismo, deberá mantener en su página web dicha nómina, la cual deberá ordenar a los mediadores por comunas y contener los datos básicos de cada uno de ellos.
 
@@ -1537,10 +1455,6 @@ Composición de la planta de los juzgados de familia. Los juzgados de familia qu
 11) Juzgados con doce jueces: doce jueces, un administrador, doce miembros del consejo técnico, cuatro jefes de unidad, cuatro administrativos jefes, un administrativo contable, trece administrativos 1º, seis administrativos 2º, nueve administrativos 3º y dos auxiliares.
 
 12) Juzgados con trece jueces: trece jueces, un administrador, doce miembros del consejo técnico, cuatro jefes de unidad, cuatro administrativos jefes, un administrativo contable, trece administrativos 1º, seis administrativos 2º, nueve administrativos 3º y dos auxiliares.
-
-13) Juzgados con catorce jueces: catorce jueces, un administrador, trece miembros del consejo técnico, cuatro jefes de unidad, cuatro administrativos jefe, un administrativo contable, trece administrativos 1º, siete administrativos 2º, diez administrativos 3º y tres auxiliares.
-
-14) Juzgados con quince jueces: quince jueces, un administrador, catorce miembros del consejo técnico, cuatro jefes de unidad, cuatro administrativos jefe, un administrativo contable, trece administrativos 1º, ocho administrativos 2º, once administrativos 3º y tres auxiliares.
 
 #### Artículo 116
 
@@ -2305,46 +2219,6 @@ Asimismo, las Cortes de Apelaciones podrán nombrar en calidad de interinos al p
 Artículo undécimo.- Lo dispuesto en los artículos 127 y 128 regirá a partir del día 1 de enero de 2005.".
 
 Artículo duodécimo.- Mientras no entren en vigencia las disposiciones legales que reglarán el tratamiento que corresponda dar a los menores infractores de la ley penal y a los menores gravemente vulnerados o amenazados en sus derechos, los jueces de familia podrán adoptar respecto de niños, niñas y adolescentes, imputados de haber cometido un crimen o simple delito, las medidas cautelares especiales de que trata el artículo 71 de esta ley.
-
-#### Artículo decimo
-
-tercero.- Sin perjuicio de lo dispuesto en leyes especiales o en cualquier etapa del procedimiento, sea éste ordinario, especial o de cumplimiento, el juez, a petición de parte, teniendo en cuenta la verosimilitud del derecho invocado y el peligro en la demora que implica la tramitación, podrá decretar la medida cautelar de retención de los fondos acumulados en la cuenta de capitalización individual de cotizaciones obligatorias por los montos de retiro autorizados por la ley N° 21.248, que el respectivo afiliado o beneficiario de pensión de sobrevivencia solicitó retirar o pueda solicitar retirar, con objeto de cautelar derechos derivados de pensiones alimenticias invocados ante sí y que se encuentren devengados. Recibida la solicitud, el tribunal deberá resolverla de plano y en el más breve plazo, que no podrá exceder de 48 horas.
-
-Asimismo, en cualquier etapa del procedimiento, sea éste ordinario, especial o de cumplimiento, el juez, con objeto de cautelar derechos derivados de pensiones alimenticias invocados ante sí y que se encuentren devengados, podrá decretar de oficio la medida cautelar de retención de los fondos acumulados en la cuenta de capitalización individual de cotizaciones obligatorias por los montos de retiro autorizados por la ley N° 21.248, que el respectivo afiliado o beneficiario de pensión de sobrevivencia solicitó retirar o pueda solicitar retirar, teniendo en cuenta la verosimilitud del derecho invocado y el peligro en la demora que implica la tramitación.
-
-Para los efectos de lo dispuesto en los dos incisos anteriores, se entenderá que existe inminencia del retiro de los fondos durante toda la vigencia de la ley N° 21.248 y, en consecuencia, que existe peligro en la demora que implica la tramitación.
-
-La medida cautelar de retención decretada conforme al presente artículo surtirá efecto desde la notificación de la resolución a la Administradora de Fondos de Pensiones respectiva, y aun antes de notificarse a la persona contra quien se dicte. Para estos efectos, cuando el tribunal decretare la medida cautelar de retención, dictará resolución ordenando que sea notificada a la Administradora de Fondos de Pensiones respectiva en el más breve plazo y por medios electrónicos, y que la notificación a la persona contra quien se dicte la medida sea practicada inmediatamente después de la notificación a la Administradora de Fondos de Pensiones. Cuando al tribunal no le constare la Administradora de Fondos de Pensiones correspondiente, o hubiere duda al respecto, deberá ordenar que la resolución sea notificada, en el más breve plazo y por medios electrónicos a todas las Administradoras de Fondos de Pensiones. La Administradora de Fondos de Pensiones respectiva, tan pronto fuere notificada de la resolución, deberá comunicar dicha resolución al afiliado o beneficiario de pensión de sobrevivencia contra quien se dictó la medida, mediante medios electrónicos o, en su defecto, mediante carta certificada dirigida al domicilio registrado en la Administradora de Fondos de Pensiones. En estos casos, la comunicación por medios electrónicos o por carta certificada, servirá de suficiente notificación, la que se entenderá practicada, según corresponda, a contar del envío de la comunicación por medios electrónicos, o a contar del tercer día siguiente a la recepción de la carta certificada en la oficina de Correos respectiva.
-
-En los casos en que la resolución que ordena la medida cautelar regulada en el presente artículo fuere notificada a la Administradora de Fondos de Pensiones con posterioridad a que se hubiere concretado la entrega de la primera cuota, y antes de hacer la entrega de la segunda cuota, la medida cautelar de retención decretada surtirá efectos respecto de los fondos cuya entrega aún no se ha verificado.
-
-La medida cautelar de retención decretada conforme al presente artículo tendrá valor durante todo el tiempo en que se mantengan las causas que la han motivado, sin necesidad de renovación. La medida deberá alzarse siempre que desaparezca el peligro que se ha procurado evitar o se otorguen cauciones suficientes.
-
-La persona contra quien se dictó la medida de que trata este artículo podrá solicitar que ella sea limitada al monto necesario para responder por la deuda de alimentos. Si el tribunal decretase que la medida de retención quedase limitada a dicho monto, y éste fuere inferior al monto máximo que el afiliado o beneficiario de pensión de sobrevivencia se encontrare autorizado a retirar por la ley N° 21.248, se podrá solicitar a la Administradora de Fondos de Pensiones que continúe con la tramitación de la solicitud de retiro de fondos, por los montos no retenidos por el tribunal.
-
-#### Artículo decimo
-
-cuarto.- A cada afiliado o beneficiario de pensión de sobrevivencia que solicite el retiro de fondos acumulados en la cuenta de capitalización individual de cotizaciones obligatorias autorizado por la ley N° 21.248, la Administradora de Fondos de Pensiones le deberá consultar si tiene deudas impagas originadas por obligaciones alimentarias ordenadas por resolución judicial, y, si el solicitante manifestare que sí tiene deudas de este orden, quedará suspendida la tramitación de la solicitud de retiro de fondos. Lo anterior, sin perjuicio de lo que además disponga la Superintendencia de Pensiones, conforme a lo dispuesto en la ley N° 21.248 y en conformidad a las facultades que le reconoce su normativa orgánica respecto de sus entidades fiscalizadas. La consulta de que trata este inciso deberá formularse respecto de toda solicitud, incluso respecto de aquellas que a la fecha de la entrada en vigencia de este artículo se encontraren pendientes de tramitación, como, asimismo, en los casos en que, habiéndose concretado la entrega de la primera cuota, aún reste hacer la entrega de la segunda cuota. En este último caso, la suspensión de que trata este inciso implicará la paralización de la entrega de la segunda cuota, rigiendo igualmente lo dispuesto en el inciso segundo.
-
-La tramitación de la solicitud de retiro de fondos que hubiere quedado suspendida en los términos dispuestos en el inciso anterior, solo continuará su curso una vez que se acredite ante la Administradora de Fondos de Pensiones, que el afiliado o beneficiario de pensión de sobrevivencia solicitante del retiro de fondos no registra deudas originadas por obligaciones alimentarias ordenadas por resolución judicial, o bien, que teniendo deudas impagas por pensiones alimenticias ordenadas por resolución, ha otorgado cauciones suficientes para responder por ellas.
-
-#### Artículo decimo
-
-quinto.- Periódicamente, cada juzgado con competencia en materias de familia dictará resolución ordenando remitir a cada una de las Administradoras de Fondos de Pensiones, una nómina con indicación de todas las personas que al día de remisión de la nómina registren deudas derivadas de pensiones alimenticias que han sido invocadas ante los juzgados con competencia en materias de familia del país y que se encuentren liquidadas, con señalamiento de la identificación de cada uno de los deudores, causas respectivas, y montos resultantes de las liquidaciones efectuadas por orden de los respectivos tribunales.
-
-A contar de la notificación a las Administradoras de Fondos de Pensiones, las órdenes de retención que se encuentren notificadas a las Administradoras de Fondos de Pensiones se ajustarán hasta los montos de las respectivas liquidaciones, si correspondiere, o bien, a falta de retención previa, quedarán retenidos los fondos que el respectivo afiliado o beneficiario de pensión de sobrevivencia solicitó retirar o pueda solicitar retirar, conforme a la ley N° 21.248, hasta el monto de las respectivas liquidaciones, con objeto de cautelar los respectivos derechos derivados de pensiones alimenticias invocados ante los juzgados con competencia en materias de familia y que se encuentren devengados.
-
-La retención de fondos de que trata este artículo tendrá valor durante todo el tiempo en que se mantengan las causas que la han motivado. La retención deberá hacerse cesar, solo por resolución del juzgado con competencia en materia de familia que conoce de la causa señalada en la nómina que dio lugar a la retención, siempre que desaparezca el peligro que se ha procurado evitar o se otorguen cauciones suficientes. Si la retención cautelare el resultado de varias causas, solo quedará sin efecto cuando se dispusiere su alzamiento en la totalidad de dichos procesos.
-
-#### Artículo decimo
-
-sexto.- Si al momento de la notificación a una Administradora de Fondos de Pensiones de una resolución que ordena la retención judicial de fondos, ya se hubiere concretado el retiro de fondos autorizado por la ley N° 21.248 del respectivo afiliado o beneficiario de pensión de sobrevivencia, la Administradora de Fondos de Pensiones deberá informar por medios electrónicos dicha circunstancia al tribunal que dictó la resolución, señalando el domicilio registrado por el afiliado o el beneficiario de pensión de sobrevivencia, el detalle del monto retirado, la fecha en que le fue formulada la solicitud de retiro, y la fecha de entrega de los fondos al respectivo afiliado o beneficiario de pensión de sobrevivencia, y la respuesta que esta persona dio a la Administradora de Fondos de Pensiones ante la consulta de si tenía deudas impagas originadas por obligaciones alimentarias ordenadas por resolución judicial, dispuesta en el inciso primero del artículo decimocuarto transitorio de esta ley. En caso que la respuesta del afiliado o beneficiario de pensión de sobrevivencia a la consulta dispuesta en el inciso primero del artículo decimocuarto transitorio de esta ley hubiere sido negativa, la Administradora de Fondos de Pensiones además deberá informar por medios electrónicos los mismos antecedentes al Ministerio Público para que se persigan las responsabilidades legales que correspondan.
-
-Si al momento de la recepción por una Administradora de Fondos de Pensiones de una de las nóminas de deudores de pensiones alimenticias, según lo dispuesto en el artículo decimoquinto transitorio de esta ley, ya se hubiere concretado el retiro de fondos autorizado por la ley N° 21.248 por alguno de los afiliados o beneficiarios de pensiones de sobrevivencia incluidos en la nómina, dicha Administradora de Fondos de Pensiones deberá informar dicha circunstancia a los respectivos tribunales y al Ministerio Público, en los mismos términos y señalando los mismos antecedentes dispuestos en el inciso anterior.
-
-La responsabilidad de la Administradora de Fondos de Pensiones que diere lugar a algún retiro de fondos que a la fecha del retiro se encontraban retenidos por orden judicial o por efecto de lo dispuesto en el artículo decimoquinto transitorio de esta ley, se perseguirán ante los tribunales de justicia y por la Superintendencia de Pensiones, de conformidad a las normas legales vigentes.
-
-Para el solo efecto del pago de pensiones alimenticias será embargable el 10% que el afiliado a una administradora de fondos de pensiones pueda retirar de su cuenta de capitalización individual de conformidad con lo previsto en la ley N° 21.248.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 82 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

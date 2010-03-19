@@ -38,19 +38,19 @@ f) Crear y mantener sistemas de información y registros estadísticos en relaci
 
 #### Artículo 4º
 
-Corresponderá al Ministerio de la Mujer y la Equidad de Género proponer al Presidente de la República las políticas públicas para el cumplimiento de los objetivos de esta ley.
+Corresponderá al Servicio Nacional de la Mujer proponer al Presidente de la República las políticas públicas para el cumplimiento de los objetivos de esta ley.
 
 En coordinación y colaboración con los organismos públicos y privados pertinentes formulará anualmente un plan nacional de acción.
 
-Para los efectos de los incisos anteriores, el Ministerio de la Mujer y la Equidad de Género tendrá las siguientes funciones:
+Para los efectos de los incisos anteriores, el Servicio Nacional de la Mujer tendrá las siguientes funciones:
 
 a) Impulsar, coordinar y evaluar las políticas gubernamentales en contra de la violencia intrafamiliar;
 
 b) Recomendar la adopción de medidas legales, reglamentarias o de otra naturaleza para prevenir, sancionar y erradicar la violencia intrafamiliar;
 
-c) Promover la contribución de los medios de comunicación para erradicar la violencia contra la mujer y realzar el respeto a su dignidad.
+c) Prestar asistencia técnica a los organismos que intervengan en la aplicación de esta ley que así lo requieran, y
 
-Corresponderá al Servicio Nacional de la Mujer y la Equidad de Género prestar asistencia técnica a los organismos que intervengan en la aplicación de esta ley que así lo requieran.
+d) Promover la contribución de los medios de comunicación para erradicar la violencia contra la mujer y realzar el respeto a su dignidad.
 
 #### Artículo 5º
 
@@ -68,7 +68,7 @@ Los actos de violencia intrafamiliar que no constituyan delito serán de conocim
 
 Situación de riesgo. Cuando exista una situación de riesgo inminente para una o más personas de sufrir un maltrato constitutivo de violencia intrafamiliar, aun cuando éste no se haya llevado a cabo, el tribunal, con el solo mérito de la denuncia, deberá adoptar las medidas de protección o cautelares que correspondan.
 
-Se presumirá que existe una situación de riesgo inminente como la descrita en el inciso anterior cuando haya precedido intimidación de causar daño por parte del ofensor o cuando concurran además, respecto de éste, circunstancias o antecedentes tales como: drogadicción, alcoholismo, una o más denuncias por violencia intrafamiliar, condena previa por violencia intrafamiliar, procesos pendientes o condenas previas por crimen o simple delito contra las personas o por alguno de los delitos establecidos en los párrafos 5 y 6 del Título VII, del Libro Segundo del Código Penal o por infracción a la ley N°17.798, o antecedentes psiquiátricos o psicológicos que denoten características de personalidad violenta. Asimismo, se presumirá que hay una situación de riesgo inminente, cuando el denunciado oponga, de manera violenta, su negativa a aceptar el término de una relación afectiva que ha mantenido recientemente con la víctima.
+Se presumirá que existe una situación de riesgo inminente como la descrita en el inciso anterior cuando haya precedido intimidación de causar daño por parte del ofensor o cuando concurran además, respecto de éste, circunstancias o antecedentes tales como: drogadicción, alcoholismo, una o más denuncias por violencia intrafamiliar, condena previa por violencia intrafamiliar, procesos pendientes o condenas previas por crimen o simple delito contra las personas o por alguno de los delitos establecidos en los párrafos 5 y 6 del Título VII, del Libro Segundo del Código Penal o por infracción a la ley N°17.798, o antecedentes psiquiátricos o psicológicos que denoten características de personalidad violenta.
 
 Además, el tribunal cautelará especialmente los casos en que la víctima esté embarazada, se trate de una persona con discapacidad o tenga una condición que la haga vulnerable. Se considerará especialmente como situación de riesgo inminente el hecho de que un adulto mayor, dueño o poseedor, a cualquier título, de un inmueble que ocupa para residir, sea expulsado de él, relegado a sectores secundarios o se le restrinja o limite su desplazamiento al interior de ese bien raíz, por algunos de los parientes señalados en el artículo 5º.
 
@@ -92,9 +92,7 @@ c) Prohibición de porte y tenencia y, en su caso, el comiso, de armas de fuego.
 
 d) La asistencia obligatoria a programas terapéuticos o de orientación familiar. Las instituciones que desarrollen dichos programas darán cuenta al respectivo tribunal del tratamiento que deba seguir el agresor, de su inicio y término.
 
-e) Obligación de presentarse regularmente ante la unidad policial que determine el juez.
-
-El juez fijará prudencialmente el plazo de estas medidas, que no podrá ser inferior a seis meses ni superior a dos años, atendidas las circunstancias que las justifiquen. Ellas podrán ser prorrogadas, a petición de la víctima, si se mantienen los hechos que las justificaron. En el caso de la letra d), la duración de la medida será fijada, y podrá prorrogarse, tomando en consideración los antecedentes proporcionados por la institución respectiva.
+El juez fijará prudencialmente el plazo de estas medidas, que no podrá ser inferior a seis meses ni superior a un año, atendidas las circunstancias que las justifiquen. Ellas podrán ser prorrogadas, a petición de la víctima, si se mantienen los hechos que las justificaron. En el caso de la letra d), la duración de la medida será fijada, y podrá prorrogarse, tomando en consideración los antecedentes proporcionados por la institución respectiva.
 
 Sin perjuicio de lo anterior, el juez, en la sentencia definitiva, fijará los alimentos definitivos, el régimen de cuidado personal y de relación directa y regular de los hijos si los hubiere y cualquier otra cuestión de familia sometida a su conocimiento por las partes.
 
@@ -128,10 +126,6 @@ Para apreciar la habitualidad, se atenderá al número de actos ejecutados, así
 
 El Ministerio Público sólo podrá dar inicio a la investigación por el delito tipificado en el inciso primero, si el respectivo Juzgado de Familia le ha remitido los antecedentes, en conformidad con lo dispuesto en el artículo 90 de la ley N° 19.968.
 
-#### Artículo 14 bis
-
-En los delitos constitutivos de violencia intrafamiliar, el juez, para efectos de evaluar la irreprochable conducta anterior del imputado, deberá considerar las anotaciones que consten en el registro a que se refiere el artículo 12 de esta ley.
-
 #### Artículo 15
 
 Medidas cautelares. En cualquier etapa de la investigación o del procedimiento sobre delitos constitutivos de violencia intrafamiliar, y aun antes de la formalización, el tribunal con competencia en lo penal podrá decretar las medidas cautelares que sean necesarias para proteger a la víctima de manera eficaz y oportuna, tales como las que establece el artículo 92 de la ley Nº 19.968 y las aludidas en el artículo 7° de esta ley.
@@ -140,7 +134,7 @@ Medidas cautelares. En cualquier etapa de la investigación o del procedimiento 
 
 Medidas accesorias. Las medidas accesorias que establece el artículo 9º serán aplicadas por los tribunales con competencia en lo penal, cuando el delito constituya un acto de violencia intrafamiliar, sin perjuicio de las sanciones principales y accesorias que correspondan al delito de que se trate.
 
-El tribunal fijará prudencialmente el plazo de esas medidas, que no podrá ser inferior a seis meses ni superior a dos años, atendidas las circunstancias que las justifiquen. Dichas medidas podrán ser prorrogadas, a petición de la víctima, si se mantienen los hechos que las justificaron. En el caso de la letra d) del artículo 9º, la duración de la medida será fijada, y podrá prorrogarse, tomando en consideración los antecedentes proporcionados por la institución respectiva.
+El tribunal fijará prudencialmente el plazo de esas medidas, que no podrá ser inferior a seis meses ni superior a un año, atendidas las circunstancias que las justifiquen. Dichas medidas podrán ser prorrogadas, a petición de la víctima, si se mantienen los hechos que las justificaron. En el caso de la letra d) del artículo 9º, la duración de la medida será fijada, y podrá prorrogarse, tomando en consideración los antecedentes proporcionados por la institución respectiva.
 
 #### Artículo 17
 
