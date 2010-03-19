@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.053, de 10 de marzo de 2010, de esta Subsecretaría, rectifícase el numeral 2.- de la resolución exenta Nº 2.087, de 2004, de esta Subsecretaría de Pesca, que otorgó a BRACPESCA S.A. un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Langostino colorado, fijada en los artículos transitorios 1º letra e) y 4º de la Ley General de Pesca y Acuicultura, en el sentido de indicar que dicho permiso faculta a su titular para pescar anualmente un 0,5% fijo de la cuota global anual de captura que se establezca, de conformidad con lo dispuesto en el artículo 39 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 10 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
