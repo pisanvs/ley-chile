@@ -34,7 +34,7 @@ Sólo se podrán cultivar ovas triploides que provengan de cepas que desarrollan
 
 #### Artículo 3º
 
-El interesado deberá acreditar que las ovas de Trucha Alpina son 100% triploides, a través de un certificado de origen emitido por un laboratorio de diagnóstico o por una institución conocida por el Servicio Nacional de Pesca para tal efecto.
+El interesado deberá acreditar que las ovas de Trucha Alpina son 99% triploides, a través de un certificado de origen emitido por un laboratorio de diagnóstico o por una institución conocida por el Servicio Nacional de Pesca para tal efecto.
 
 La metodología para determinar la triploidía será establecida mediante resolución de la Subsecretaría de Pesca.
 
