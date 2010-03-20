@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.007, de 3 de marzo de 2010, de esta Subsecretaría, autorízase a LUIS ANSELMO VÉLIZ RIVERA, para iniciar actividades pesqueras de transformación, instalar y operar planta en Oruro Alto s/n, Ruta 5, Ovalle, IV Región, para elaborar en líneas de Alga Seca y Picado de Algas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
