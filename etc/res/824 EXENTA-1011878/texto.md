@@ -1,0 +1,3 @@
+Por resolución exenta Nº824, de 18 de febrero de 2010, de esta Subsecretaría, autorízase a SERVICIOS Y REFINERÍAS DEL NORTE S.A., Serenor, para iniciar actividades pesqueras de transformación, instalar y operar planta en Avenida Arturo Prat Nº93, Iquique, I Región, para elaborar en línea de Aceite (refinamiento), los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
