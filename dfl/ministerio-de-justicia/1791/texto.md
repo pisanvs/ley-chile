@@ -76,31 +76,31 @@ El personal de Gendarmería se agrupa en plantas y dentro de éstas en los escal
 
 I PLANTA DE OFICIALES PENITENCIARIOS
 
-Para desempeñar el cargo de Director Nacional se requerirá, alternativamente:
+Grados Grado jerárquico Nº de cargos
 
-i) Título profesional de una carrera de, a lo menos,
+1 C Director Nacional 1
 
-ocho semestres de duración, otorgado por una
+3º Subdirector 2
 
-institucón de educación superior del Estado o
+4º Inspector 25
 
-reconocida por éste o aquellos reconocidos,
+6º Subinspector 41
 
-revalidados y convalidados, de acuerdo al artículo 6º
+8º Alcaide Mayor 85
 
-del decreto con fuerza de ley N° 3, de 2006, del
+10º Alcaide 1º 137
 
-Ministerio de Educación, y acreditar una experiencia
+12º Alcaide 2º 192
 
-profesional no inferior a cinco años en el sector
+16º Subalcaide 229
 
-público o privado, o
+Subtotal 712
 
-ii) Haberse desempeñado en el cargo de Subdirector
+Para desempeñar los cargos de Director Nacional y de Subdirectores se requerirá, alternativamente:
 
-Operativo o de Coronel de la Planta de Oficiales
+i) Grado académico de licenciado, magister o doctor, o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste, o
 
-Penitenciarios.
+ii) Haberse desempeñado en el cargo de Inspector del Escalafón de Oficiales Penitenciarios.
 
 B. ESCALAFON DE OFICIALES PENITENCIARIOS FEMENINOS
 
@@ -130,7 +130,27 @@ Subtotal 22
 
 Total de la Planta 413
 
-II PLANTA DE SUBOFICIALES Y GENDARMES
+II PLANTA DE VIGILANTES PENITENCIARIOS
+
+Grados Grado Jerárquico Nº de cargos
+
+9º Gendarme Mayor 196
+
+10º Vigilante Mayor 260
+
+12º Gendarme 1º 415
+
+14º Gendarme 2º 756
+
+16º Vigilante 1º 1139
+
+18º Vigilante 2º 1545
+
+22º Gendarme 2459
+
+26º Vigilante 2429
+
+Subtotal 9199
 
 ESCALAFON DE OFICIALES ADMINISTRATIVOS PENITENCIARIOS
 
@@ -480,7 +500,7 @@ Total General_ _ _ _ _ _ _ _ _ _ 5.423
 
 > **Nota.** NOTA: 1.3 Ver el Decreto con Fuerza de Ley N° 9/90, del Ministerio de Justicia, publicado en el "Diario Oficial" de 2 de Octubre de 1990, que adecúa el Escalafón del Personal de Gendarmería de Chile que indica al artículo 5° de la ley N° 18.834, sobre Estatuto Administrativo.
 
-> **Nota.** NOTA 2 El Artículo 3 del DFL 1, Justicia, publicado el 10.11.2010, incrementó en dos el número de cargos grado 9° del Escalafón de Oficiales Administrativos Penitenciarios, establecido en el presente artículo y sus modificaciones posteriores.
+> **Nota.** NOTA 2: El artículo primero del DFL 38, Hacienda, publicado el 30.10.2007, crea dos cargos de Inspector, grado 4º, en la Planta de Oficiales Penitenciarios de Gendarmería de Chile.
 
 #### Artículo 9°
 
@@ -576,7 +596,7 @@ h) Cumplir, además, las exigencias que establezca el reglamento de la Escuela d
 
 Para ingresar a las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes será indispensable haber aprobado los cursos de formación de Aspirante a Oficial o Gendarme-Alumno, según corresponda, en la Escuela de Gendarmería.
 
-Los Aspirantes a Oficiales y los Gendarmes-Alumnos mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda, previo informe técnico elaborado por Gendarmería de Chile.
+Los Aspirantes a Oficiales y los Gendarmes-Alumnos mientras realicen cursos de formación tendrán la calidad de becarios. Su dotación será fijada anualmente por medio de un decreto supremo del Ministerio de Justicia expedido bajo la fórmula "Por orden del Presidente de la República", el que también deberá ser suscrito por el Ministro de Hacienda.
 
 Los aspirantes a Oficiales y Gendarmes-Alumnos, tendrán derecho a un estipendio mensual que anualmente consultará la ley de presupuestos, el que será equivalente al sueldo base de los grado 20° y 22° de la Escala Unica, respectivamente.
 
@@ -692,7 +712,7 @@ La fecha de los ascensos del personal afecto a este Estatuto será la misma de l
 
 #### Artículo 24
 
-Los ascensos se concederán en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, considerando la antigüedad en la institución, el orden de egreso de la Escuela de Gendarmería y el cumplimiento de los requisitos establecidos en los numerales 2), 3) y 4) del artículo 26 de este Estatuto y lo dispuesto en el reglamento correspondiente.
+Los ascensos se concederán en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes, considerando el promedio de notas obtenidas en los cursos de formación correspondientes, así como el cumplimiento de los requisitos establecidos en los numerales 2), 3) y 4) del artículo 26 de este Estatuto y lo dispuesto en el reglamento correspondiente.
 
 La ponderación de los factores mencionados en el inciso anterior estará contenida en el decreto con fuerza de ley respectivo.
 
@@ -711,8 +731,6 @@ El personal de las Plantas de Oficiales Penitenciarios y de Suboficiales y Genda
 3) Haber aprobado los cursos de perfeccionamiento y los exámenes habilitantes a que se refiere el artículo 17, en las condiciones que determine el reglamento, y
 
 4) Cumplir con el requisito del tiempo mínimo en el grado.
-
-> **Nota.** El Artículo Único de la Ley 20674, publicada el 31.05.2013, establece que el Director Nacional de Gendarmería de Chile podrá, dentro del período comprendido entre el 31 de mayo de 2013 y el 30 de noviembre del año 2014, a través de resolución fundada, y existiendo vacantes, ascender a los funcionarios de la institución que no cuenten con el requisito señalado en el número 4) del presente artículo o en el artículo único transitorio del decreto con fuerza de ley Nº 2, del Ministerio de Justicia, de 2011, según sea el caso, respetando estrictamente el orden del escalafón de antigüedad dentro del respectivo grado. Asimismo, establece que la referida facultad no será aplicable a los funcionarios titulares de los cargos de Subteniente y Teniente Segundo, grados 16º y 14º, respectivamente, de la Planta de Oficiales Penitenciarios, ni a los funcionarios titulares de los cargos de Gendarme y Gendarme Segundo, grados 26º y 24º, respectivamente, de la Planta de Suboficiales y Gendarmes a quienes le será aplicable lo dispuesto en los artículos 34 A y 34 B, respectivamente, de la presente norma.
 
 #### Artículo 27°
 
@@ -814,21 +832,9 @@ Una vez que se produzcan las vacantes necesarias, los funcionarios obtendrán la
 
 En el caso que los funcionarios a que se refiere este artículo, cesen en funciones por cualquier causa, sin haber obtenido la titularidad del cargo correspondiente, se entenderá que la obtuvieron para todos los efectos legales.
 
-#### Artículo 34
-
-C.- Los funcionarios titulares de cargos de la Planta de Suboficiales y Gendarmes que se encuentren ocupando un cargo entre los grados 22° y 10° de la EUS, y que hayan cumplido seis años de permanencia en el respectivo grado, recibirán las remuneraciones correspondientes al grado inmediatamente superior, en caso de no existir vacantes disponibles para materializar los ascensos correspondientes y siempre que cumplan todos los requisitos para el ascenso a dicho grado.
-
-Lo dispuesto en el inciso precedente será asimismo aplicable a los funcionarios titulares de cargos de la Planta de Oficiales Penitenciarios que se encuentren ocupando un cargo entre los grados 12° y 6° de la EUS.
-
-Con todo, los funcionarios que asciendan conforme a lo dispuesto en el artículo 35 deberán completar, además de los seis años de permanencia en el grado a que se refiere el inciso primero, el tiempo remanente a que se refieren los artículos 33 y 34, que no hubiesen alcanzado a cumplir por aplicación del referido artículo 35.
-
 #### Artículo 35°
 
-Sin perjuicio de lo dispuesto en los artículos 33 y 34, de existir vacantes disponibles para materializar los ascensos, los funcionarios del grado inmediatamente inferior podrán ascender sin haber cumplido el requisito de tiempo mínimo de permanencia en el grado establecido en los artículos antes citados. Con todo, deberán haber cumplido al menos un año en el grado en que se encuentren para poder ascender, sin perjuicio de los demás requisitos legales establecidos para dicho propósito, según corresponda, velando Gendarmería de Chile por su oportuno cumplimiento.
-
-Lo dispuesto en el inciso anterior también resultará aplicable para los funcionarios afectos al artículo único transitorio del decreto con fuerza de ley N° 2, de 2010, del Ministerio de Justicia, que fija normas para la promoción de cargos en las plantas de Oficiales Penitenciarios y de Suboficiales y Gendarmes.
-
-Lo dispuesto en el inciso primero no será aplicable a los funcionarios titulares de los cargos de Subteniente y Teniente Segundo, grados 16° y 14° de la EUS, respectivamente, de la Planta de Oficiales Penitenciarios, ni a los funcionarios titulares de los cargos de Gendarme y Gendarme Segundo, grados 26° y 24°, respectivamente de la Planta de Suboficiales y Gendarmes.
+Derogado.
 
 #### Artículo 36°
 
@@ -892,7 +898,7 @@ Existirán cuatro listas de clasificación: lista 1, de Mérito; lista 2, Buena;
 
 Sólo serán hábiles para ascender los funcionarios clasificados en listas 1 y 2, y serán eliminados del servicio los funcionarios clasificados en lista 4, o por 2 años consecutivos en lista 3, sin perjuicio de que se complete la cuota de eliminación.
 
-El Ministro de Justicia y Derechos Humanos, a proposición del Director Nacional de Gendarmería de Chile y con anterioridad a la primera reunión de las Juntas Calificadoras a que se refiere el artículo 43, determinará anualmente el número de funcionarios de la Planta I de Oficiales Penitenciarios, y de la Planta II de Suboficiales y Gendarmes, que deben acogerse a retiro, de acuerdo a las necesidades de la Institución. Corresponderá al Director Nacional de Gendarmería de Chile individualizar a quienes se le aplicarán los cupos, conforme a los criterios que establezca el reglamento.
+Anualmente el Director Nacional determinará, de acuerdo con las necesidades institucionales, el personal que debe acogerse a retiro o eliminación.
 
 La lista anual de retiros y eliminación del personal se formará con el siguiente orden de prelación:
 

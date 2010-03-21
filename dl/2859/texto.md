@@ -36,13 +36,13 @@ Mientras se encuentre vigente el escalafón de Oficiales Administrativos Peniten
 
 Corresponde a Gendarmería de Chile:
 
-a) Dirigir todos los establecimientos penales del país, aplicando las normas previstas en el régimen penitenciario que señala la ley y velar por la seguridad interior de ellos. Además, deberá estar a cargo de la seguridad perimetral de los centros del Servicio Nacional de Reinserción Social Juvenil para la internación provisoria y el cumplimiento de las sanciones privativas de libertad de los adolescentes por infracción de ley penal.
+a) Dirigir todos los establecimientos penales del país, aplicando las normas previstas en el régimen penitenciario que señala la ley y velar por la seguridad interior de ellos. Además, deberá estar a cargo de la seguridad perimetral de los centros del Servicio Nacional de Menores para la internación provisoria y el cumplimiento de las sanciones privativas de libertad de los adolescentes por infracción de ley penal.
 
 b) Cumplir resoluciones emanadas de autoridad competente, relativas al ingreso y a la libertad de las personas sometidas a su guarda, sin que le corresponda calificar el fundamento, justicia o legalidad de tales requerimientos;
 
 c) Recibir y poner a disposición del tribunal competente los imputados conforme a lo dispuesto en el Código Procesal Penal y leyes especiales;
 
-d) Colaborar en la vigilancia de los Centros del Servicio Nacional de Reinserción Social Juvenil para adolescentes que se encuentran en internación provisoria o con sanción privativa de libertad, realizando las siguientes funciones:
+d) Colaborar en la vigilancia de los Centros del Servicio Nacional de Menores para adolescentes que se encuentran en internación provisoria o con sanción privativa de libertad, realizando las siguientes funciones:
 
 1. Ejercer la vigilancia y custodia perimetral permanente de los centros privativos de libertad.
 
@@ -50,7 +50,7 @@ d) Colaborar en la vigilancia de los Centros del Servicio Nacional de Reinserci�
 
 3. Colaborar en el manejo de conflictos al interior de los centros, tales como fugas, motines y riñas.
 
-4. Asesorar a los funcionarios del Servicio Nacional de Reinserción Social Juvenil en el manejo de conflictos internos y de la seguridad en general.
+4. Asesorar a los funcionarios del Servicio Nacional de Menores en el manejo de conflictos internos y de la seguridad en general.
 
 5. Realizar los traslados de los adolescentes a tribunales y a otras instancias externas de acuerdo a solicitudes de la autoridad competente.
 
@@ -64,13 +64,11 @@ e) Custodiar y atender a las personas privadas de libertad en las siguientes cir
 
 f) Contribuir a la reinserción social de las personas privadas de libertad, mediante la ejecución de acciones tendientes a eliminar su peligrosidad y lograr su reintegración al grupo social;
 
-g) Asistir en el medio libre a las personas que accedan al mismo por encontrarse cumpliendo condenas o por otra causa legal, en las condiciones que señalen los reglamentos;
+g) Asistir en el medio libre a las personas que accedan al mismo por encontrarse cumpliendo condenas o por otra causa legal, en las condiciones que señalen los reglamentos, y
 
 h) Resguardar la seguridad interna de los recintos donde funcionan el Ministerio de Justicia, la Corte Suprema y en general los Tribunales de Justicia que determine el Presidente de la República por decreto supremo, sin perjuicio de las atribuciones de las fuerzas de orden.
 
-i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe, y
-
-j) Administrar el dispositivo de monitoreo telemático, de conformidad a lo dispuesto en la ley Nº 18.216 y el reglamento respectivo, y en la ley que "Establece monitoreo telemático en las leyes Nº 20.066 y Nº 19.968" y su reglamento.
+i) Contratar, directamente, el planeamiento, estudio, proyección, construcción, ampliación, reparación y conservación de los inmuebles donde funcionen los establecimientos penitenciarios del país, cualquiera sea el monto que la ejecución de dichas obras importe.
 
 El régimen penitenciario es incompatible con todo privilegio o discriminación arbitraria, y sólo considerará aquellas diferencias exigidas por políticas de segmentación encaminadas a la reinserción social y a salvaguardar la seguridad del imputado y condenado y de la sociedad.
 
@@ -84,7 +82,7 @@ De la Estructura Orgánica
 
 Gendarmería de Chile se organizará en una Dirección Nacional y Direcciones Regionales.
 
-La Dirección Nacional organizará su trabajo a través de la Subdirección de Administración y Finanzas, la Subdirección de Reinserción Social, la Subdirección Operativa y la Escuela de Gendarmería de Chile del General Manuel Bulnes Prieto, en adelante la Escuela de Gendarmería.
+La Dirección Nacional organizará su trabajo a través de la Subdirección de Administración y Finanzas, la Subdirección Técnica, la Subdirección Operativa y la Escuela de Gendarmería de Chile del General Manuel Bulnes Prieto, en adelante la Escuela de Gendarmería.
 
 En cada región del país existirá una Dirección Regional, a cargo de un Director Regional que será de la exclusiva confianza del Director Nacional. Las Direcciones Regionales organizarán su trabajo a través de las sedes que señale el reglamento orgánico que estará contenido en un decreto supremo expedido por medio del Ministerio de Justicia, el que deberá ser también suscrito por el Ministro de Hacienda.
 
@@ -160,10 +158,6 @@ d) Aquellos que afectaren gravemente la continuidad del Servicio, poniendo en ri
 
 25.- Ejercer las demás atribuciones que ésta u otras leyes le confieran.
 
-#### Artículo 6 bis
-
-Para efectos de lo dispuesto en el numeral 19 del artículo precedente, existirá una "Unidad de Defensa Funcionaria".
-
 #### Artículo 7°
 
 La Subdirección de Administración y Finanzas estará encargada de velar por la eficaz, eficiente y oportuna gestión de los recursos humanos, financieros y materiales de Gendarmería de Chile a objeto de lograr un adecuado funcionamiento de la Institución.
@@ -190,7 +184,7 @@ La Jefatura de esta Subdirección será asumida por el Subdirector de Administra
 
 #### Artículo 8°
 
-La Subdirección de Reinserción Social estará encargada de desarrollar los programas y proyectos institucionales tendientes a la reinserción social de las personas atendidas en los distintos sistemas, velando por el mejoramiento permanente del régimen penitenciario.
+La Subdirección Técnica estará encargada de desarrollar los programas y proyectos institucionales tendientes a la reinserción social de las personas atendidas en los distintos sistemas, velando por el mejoramiento permanente del régimen penitenciario.
 
 Esta Subdirección tendrá las siguientes funciones:
 
@@ -198,13 +192,13 @@ a) Desarrollar y gestionar las actividades de educación, trabajo, deportes, rec
 
 b) Supervisar técnicamente los servicios que se prestan en los establecimientos concesionados.
 
-c) Ejercer el control y gestionar los programas de atención y asistencia de los condenados que cumplan penas sustitutivas a la reclusión.
+c) Ejercer el control y gestionar los programas de atención y asistencia de los condenados que gocen de medidas alternativas a la reclusión.
 
 d) Gestionar los planes y programas de asistencia de las personas que habiendo cumplido sus condenas, requieran de apoyo para su reinserción social.
 
 e) Diseñar, supervisar y controlar técnicamente los programas y proyectos que se adjudiquen para el apoyo de la reinserción social en los diferentes sistemas.
 
-f) Generar y mantener bases de datos estadísticos de la población privada de libertad y que cumpla una de las penas sustitutivas establecidas en la ley N° 18.216, relativas a sus características socioeconómicas, el quebrantamiento de la pena, la reincidencia luego del cumplimiento de la condena, y todas aquellas que establezcan otras leyes y reglamentos.
+f) Generar y mantener bases de datos estadísticos de la población privada de libertad y sujeta a una de las medidas establecidas en la ley N° 18.216, relativas a sus características socioeconómicas, el quebrantamiento de la pena, la reincidencia luego del cumplimiento de la condena, y todas aquellas que establezcan otras leyes y reglamentos.
 
 La Jefatura de esta Subdirección será asumida por el Subdirector Técnico quien será designado por el Director Nacional, de conformidad con lo dispuesto en el Título VI de la ley N° 19.882.
 
@@ -217,8 +211,6 @@ Esta Subdirección tendrá las siguientes funciones:
 a) Asesorar, controlar y coordinar las acciones relativas a la seguridad penitenciaria y de los bienes y recursos que Gendarmería de Chile ha asignado a los distintos establecimientos penitenciarios del país.
 
 b) Velar por el adecuado diseño, ejecución, desarrollo y control de los proyectos de seguridad electrónica, en los establecimientos penitenciarios.
-
-c) Asesorar, controlar y coordinar las acciones relativas a la persecución y prevención del surgimiento y operación de asociaciones delictivas o criminales.
 
 La Jefatura de esta Subdirección será asumida por el Subdirector Operativo, que será un funcionario de exclusiva confianza del Director Nacional y será nombrado de entre los Oficiales Penitenciarios titulares del cargo de Coronel que se encuentren entre las cinco primeras antigüedades de dicho grado.
 
@@ -292,10 +284,6 @@ El personal perteneciente a las plantas de Oficiales Penitenciarios y de Gendarm
 
 Lo anterior sin perjuicio de lo dispuesto en la ley N° 17.798.
 
-El personal a que se refiere el inciso primero que, en ejercicio de su cargo o con ocasión de éste haga uso de su arma de servicio, armamento menos letal o elementos no letales, para rechazar alguna violencia o vencer la resistencia contra la autoridad, no podrá ser separado de sus funciones ni ver afectada su remuneración, mientras no concluya la investigación administrativa respectiva.
-
-Lo anterior, sin perjuicio de las facultades de la autoridad respectiva para ordenar el desarrollo de labores distintas de las que motivaron la investigación administrativa mientras ésta se desarrolle.
-
 #### Artículo 14
 
 Al personal de Gendarmería de Chile le será aplicable la ley N° 19.296, que establece normas sobre asociaciones de funcionarios de la Administración del Estado.
@@ -306,37 +294,23 @@ El personal de gendarmería deberá otorgar a cada persona bajo su cuidado un tr
 
 #### Artículo 15
 
-A.- El que matare a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
-
-La conducta establecida en el inciso anterior será castigada con presidio perpetuo a presidio perpetuo calificado si concurre alguna de las circunstancias siguientes:
-
-a) Si se comete mediante precio, recompensa o promesa, o cualquier otro tipo de beneficio para sí o para un tercero.
-
-b) Si se ejecuta con auxilio de gente armada o de personas que aseguren o proporcionen la impunidad.
-
-c) Si el imputado formó parte de una agrupación o reunión de delincuentes, aun cuando ésta o aquella no configure una asociación ilícita.
+A.- El que matare a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado con la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
 
 #### Artículo 15
 
-B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones, será castigado:
+B.- El que hiriere, golpeare o maltratare de obra a un miembro de Gendarmería de Chile durante el desempeño de sus funciones o en razón de ellas, será castigado:
 
-1. Con la pena de presidio mayor en su grado medio a máximo, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+1. Con la pena de presidio mayor en su grado medio, si del resultado de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
-2. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+2. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
 3. Con presidio menor en su grado medio a máximo, si le causare lesiones menos graves.
 
-4. Con presidio menor en su grado mínimo, si le ocasionare lesiones leves.
+4. Con presidio menor en su grado mínimo, o multa de seis a once unidades tributarias mensuales, si le ocasionare lesiones leves.
 
 #### Artículo 15
 
-C.- Cuando los delitos establecidos en los artículos 395 y 396 del Código Penal se cometan respecto de un miembro de Gendarmería de Chile en razón de su cargo o con motivo u ocasión del ejercicio de sus funciones se aplicarán las penas que siguen:
-
-1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
-
-2° Con presidio mayor en su grado medio, cuando fuere víctima del delito establecido en el inciso primero del artículo 396.
-
-3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
+C.- Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando los delitos que estos preceptos establecen se cometan contra un funcionario de Gendarmería de Chile que se encontrare en el desempeño de sus funciones o en razón de ellas.
 
 #### Artículo 15
 
@@ -345,10 +319,6 @@ D.- El que amenazare a un miembro de Gendarmería de Chile en los términos de l
 #### Artículo 16
 
 La creación, modificación o supresión de establecimientos penales y carcelarios, su clasificación, denominación y la determinación de sus características, se hará mediante decreto supremo del Ministerio de Justicia, previo informe o a proposición del Director Nacional, de acuerdo con las necesidades institucionales y los recursos de que se disponga.
-
-#### Artículo 16 bis
-
-Los permisos de salida que beneficien a condenados a presidio perpetuo serán autorizados por el juez de garantía de la comuna de asiento de la unidad penal respectiva.
 
 #### Artículo 17
 
@@ -409,26 +379,6 @@ Los funcionarios que asistan a cursos de perfeccionamiento y especialización di
 #### Artículo 26
 
 Las resoluciones e instrucciones generales relacionadas con la administración de la Institución, deberán ser publicadas en el Boletín Oficial de Gendarmería de Chile.
-
-#### Artículo 27
-
-Se considerarán secretos los siguientes documentos, cuya publicidad afectare la seguridad del personal de Gendarmería de Chile o la seguridad de la Nación:
-
-1.- Los relativos a la identificación tanto de los funcionarios de las plantas como, en general, de otras dotaciones de su personal.
-
-2.- Los atinentes a planos o instalaciones de unidades penales u otras instalaciones de la institución y los planes de operación o de servicio de la misma, con sus respectivos antecedentes, considerando especialmente los horarios de ingreso y salidas de los funcionarios penitenciarios desde y hacia las unidades penales y los protocolos que traten sobre el traslado de personas privadas de libertad.
-
-3.- Los concernientes a las características de armas de fuego, partes y piezas de ellas, municiones, explosivos, sustancias químicas y demás efectos a que se refiere la ley N° 17.798 usados por Gendarmería de Chile.
-
-Con todo, la referida información deberá ser entregada siempre a requerimiento de la Cámara de Diputados, los tribunales de justicia, la Contraloría General de la República, el Ministerio Público, el Ministerio de Justicia y Derechos Humanos y la Dirección de Presupuestos, en el ejercicio de sus funciones.
-
-En el caso a que se refiere el inciso precedente, la información entregada mantendrá su carácter reservado para los funcionarios que accedan a ella con ocasión de los referidos requerimientos.
-
-#### Artículo 28
-
-La concesión de permisos de salida ordinarios deberá ser comunicada por escrito al tribunal a cargo de la ejecución de la pena, dentro de los cinco días siguientes contados desde la notificación del permiso a la persona condenada, con indicación del tipo de permiso otorgado y su extensión.
-
-Los permisos solicitados por personas condenadas a presidio perpetuo deberán ser comunicados al tribunal a cargo de la ejecución de la pena, desde su postulación.
 
 ## Artículos transitorios
 
