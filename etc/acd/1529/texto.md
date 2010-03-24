@@ -72,7 +72,7 @@ Este documento contiene las bases del concurso público de antecedentes, para ef
 
 Cabe considerar que la mencionada Ministro Suplente fue designada en el referido cargo por el Consejo del Banco Central de Chile mediante Acuerdo adoptado en sesión extraordinaria N 1262E, celebrada con fecha 27 de abril de 2006, y el nombramiento correspondiente se hizo efectivo por Decreto Supremo N° 166, de fecha 17 de mayo de 2006, del Ministerio de Economía, Fomento y Reconstrucción, suscrito también por el señor Ministro de Hacienda.
 
-Por lo expuesto, se convoca a concurso público de antecedentes con el objeto proveer dicho cargo por el tiempo que resta para completar el período legal para el cual fue designada doña María Soledad Arellano Schmidt, esto es, hasta el 12 de mayo del año 2010.
+Por lo expuesto, se convoca a concurso público de antecedentes con el objeto proveer dicho cargo por el tiempo que resta para completar el período legal para el cual fue designada doña María Soledad Arellano Schmidt, esto es, hasta el 12 de mayo del año 2012.
 
 El texto refundido, coordinado y sistematizado del D.L. 211, modificado por la Ley N° 20.361, se contiene en el D.F.L N°1, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el Diario Oficial de 7 de marzo de 2005.
 
