@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.616 de 20 de Marzo del 2010, se publicó Acuerdo N° 1529-01-100318, de fecha 18 de Marzo de 2010, del Consejo del Banco Central de Chile, con el error que se salva a continuación: página veintiuno, segunda columna, donde dice "... fue designada doña María Soledad Arellano Schmidt, esto es, hasta el 12 de mayo del año 2010. ..." debe decir "... fue designada doña María Soledad Arellano Schmidt, esto es, hasta el 12 de mayo del año 2012. ...".
