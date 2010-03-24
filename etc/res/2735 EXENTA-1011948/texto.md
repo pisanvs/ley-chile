@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.735 EXENTA, DE 2009, SOBRE ACCESO A LA INFORMACIÓN PÚBLICA
+
+Mediante resolución (E) Nº 2.735, de fecha 22 de diciembre de 2009, el Ministerio de Minería resolvió de acuerdo a la ley Nº 20.285, sobre Acceso a la Información Pública, lo siguiente:
+
+1º. Rechácese parcialmente la solicitud de acceso a la información pública Folio AS001C0000013, formulada con fecha 23 de noviembre de 2009, por don José Manuel Soffia, Gerente General de la empresa Energía Andina S.A., mediante la cual manifestó lo siguiente: "Por medio de la presente, vengo en solicitar a este Ministerio se sirva otorgar a costa del interesado, Energía Andina S.A., copia de los expedientes de tramitación de las concesiones de exploración de energía geotérmica denominadas "Polloquere 1, Pampa Lirima 1, Pampa Lirima 2, Pampa Lirima 3 y Pampa Lirima 4".
+
+2º. Declárense reservados los proyectos técnicos y los antecedentes financieros y comerciales, incluidos en las propuestas de las empresas Western Geopower SpA., Sociedad Contractual Minera Virginia, Empresa Nacional de Geotermia S.A. y Geotermia del Pacífico Servicios de Ingeniería Limitada, presentadas en la licitación pública para el otorgamiento de las concesiones de exploración de energía geotérmica denominadas "Pampa Lirima 1", "Pampa Lirima 2", "Pampa Lirima 3" y "Pampa Lirima 4", en virtud del artículo 20 y artículo 21, número 2 de la ley Nº 20.285.
+
+3º Entréguese a don José Manuel Soffia una copia en formato digital guardada en un disco compacto, de los antecedentes que dieron lugar a la adjudicación y otorgamiento de las concesiones de exploración de energía geotérmica denominadas "Pampa Lirima 1", "Pampa Lirima 2", "Pampa Lirima 3", "Pampa Lirima 4" y "Polloquere 1", excluidos los proyectos técnicos y los antecedentes financieros y comerciales de los oferentes señalados.
+
+El texto completo de esta resolución se encuentra disponible en el banner "Gobierno Transparente - Actos con efectos sobre terceros" en la página web www.minmineria.cl.
