@@ -10,7 +10,7 @@ Introdúcense en el decreto supremo Nº 232, de 13 de octubre de 2004, del Minis
 
 1. En el artículo 4:
 
-a) En la letra n) sustitúyase a continuación de los vocablos "del Ministerio de Relaciones Exteriores" la letra "y" por una coma, (,), elimínase el punto y coma final (;) y agréganse las palabras "y Relacionado" seguido por un punto y coma (;)".
+a) En la letra n) sustitúyase a continuación de los vocablos "del Ministerio de Relaciones Exteriores" la letra "y" por una coma, (,), elimínase el punto y coma final (;) y agréganse las palabras "y Relacionado" seguido de un punto y coma (;)".
 
 b) En la letra ñ) reemplázase a continuación de las palabras "administrativos del Ministerio de Relaciones Exteriores" la conjunción "y" por una coma (,), elimínase después de la palabra "dependientes" la coma (,) y agréganse las expresiones "y relacionado" seguido de una coma (,)".
 
