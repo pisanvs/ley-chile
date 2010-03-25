@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DE MAGALLANES Y DE LA ANTÁRTICA CHILENA, A "MADERAS SAN VICENTE LIMITADA"
+
+Mediante decreto exento Nº 320, de 9 de marzo de 2010, el Ministerio de Bienes Nacionales otorgó concesión onerosa directa a Sociedad Colectiva Comercial de Responsabilidad Limitada "Maderas San Vicente Limitada", RUT Nº 86.116.600-7, inmueble fiscal ubicado en lugar denominado Las Nieves, signado como Lote 4B-a, comuna de Laguna Blanca, provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, Rol de Avalúo Fiscal Nº 5111-173, inscrito a nombre del Fisco en mayor cabida a fs. 625 Nº 464 del Registro de Propiedad del año 1997, del Conservador de Bienes Raíces de Punta Arenas, singularizado en el plano Nº 12102-01-CR, de una superficie de 1.203,21 Hás. La concesión se otorga por un plazo de 25 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble, será el equivalente en moneda nacional a UF 105,76. La concesión se otorga para dar cumplimiento al Proyecto denominado "Complejo Turístico Las Nieves".
+
+El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.- Carlos Llancaqueo Mellado, Subsecretario de Bienes Nacionales.
