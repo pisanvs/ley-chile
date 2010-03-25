@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.586 de 13 de febrero del 2010, se publicó Decreto Núm. 130, que "MODIFICA REGLAMENTO DE PASAPORTES DIPLOMÁTICOS Y OFICIALES", con el error que se salva a continuación: página cinco, primera columna, en el Artículo único, letra a), donde dice: " ... , elimínase el punto y coma final (;) y agréganse las palabras "y Relacionado" seguido por un punto y coma (;)". ..." debe decir " ... , elimínase el punto y coma final (;) y agréganse las palabras "y Relacionado" seguido de un punto y coma (;)". ..."
