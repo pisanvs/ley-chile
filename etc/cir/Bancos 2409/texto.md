@@ -6318,6 +6318,8 @@ En todo caso, las normas del artículo 10 de la Ley N° 18.010 no se aplican al 
 
 Por otra parte, debe tenerse en cuenta que el artículo transitorio de la Ley N° 19.951 permite aplicar las comisiones de prepago que se hubieren pactado antes del 26 de junio de 2004 (fecha de publicación de esa ley), como asimismo que el artículo 3° transitorio de la Ley 19.528 estableció que el pago anticipado de créditos que se hubieren otorgado antes del 4 de noviembre de 1997 (fecha en que esa ley entró en vigor) se rige por las disposiciones vigentes en la fecha de su otorgamiento.
 
+Como es natural, dado que las disposiciones del artículo 10 de la Ley N° 18.010 se refieren al pago anticipado por parte del deudor, no procede aplicar comisiones de prepago cuando una deuda deba extinguirse por razones distintas, como es el caso, por ejemplo, del pago de seguros de sismo, desgravamen u otros seguros a favor del banco.
+
 ### 5. Normas para la aplicación de tasas de interés variables
 
 5.1 Condiciones que deben cumplir las tasas variables que pacten los bancos.
