@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CHILLÁN
+
+Por resolución SII Nº 27, de 11 de diciembre de 2009, se designó a don Oscar Hormazábal Rodríguez, RUT Nº 12.361.508-5, como Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Chillán.
