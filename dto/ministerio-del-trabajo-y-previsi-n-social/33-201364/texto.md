@@ -36,11 +36,11 @@ De la administración
 
 El Bienestar será administrado por un Consejo Administrativo, que estará integrado por los siguientes miembros:
 
-a) El Director Administrativo Nacional, o la persona que éste designe en su reemplazo, quien lo presidirá;
+a) El Defensor Nacional, o la persona que éste designe en su reemplazo, quien lo presidirá;
 
 b) El Jefe de la Unidad Administrativa de Recursos Humanos de la Defensoría Nacional;
 
-c) El Jefe de la Unidad Administrativa de Evaluación, Control y Reclamaciones, y
+c) El Jefe de la Unidad de Asesoría Jurídica, y
 
 d) Tres representantes de los afiliados; uno de los cuales será designado por la Asociación de Funcionarios que corresponda, cuando proceda, en conformidad al inciso 3º del artículo 18º del Reglamento General, los otros dos serán elegidos por simple mayoría de votos, en votación directa, personal, secreta y en un solo acto. En caso de empate el afiliado que tenga mayor antigüedad en el Servicio de Bienestar será elegido.
 
@@ -104,55 +104,79 @@ En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente o
 
 5º) A la persona que acredite haber efectuado los gastos del funeral.
 
-También se otorgará una ayuda para adquisición de sepultura, al funcionario afiliado que careciera de ella y a sus cargas familiares. Este beneficio será compatible con cualquier otro igual o similar que confiera la ley u otros organismos o instituciones públicas o privadas.
+INCISO DEROGADO.
 
-d) Educación: el Bienestar concederá una bonificación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas que cursen estudios regulares en algún establecimiento educacional del Estado o reconocido por éste; de a lo menos, un año académico, en los niveles: pre-básico, básico, medio, técnico o de educación superior;
+d) Educación: el Bienestar concederá una bonificación de escolaridad siempre que las disponibilidades presupuestarias lo permitan, una vez al año, al afiliado y cargas que cursen estudios regulares en algún establecimiento educacional del Estado o reconocido por éste; de a lo menos, un año académico, en los niveles: prekínder, kínder, básico, medio, técnico o de educación superior;
 
-Esta bonificación se extenderá también a los hijos del afiliado que constituyan carga familiar que asistan a establecimientos de educación parvularia, pre- kindergarten y kindergarten.
+INCISO DEROGADO.
 
 e) Becas estudiantiles: El Bienestar podrá otorgar beca escolar al afiliado o a cualquiera de sus cargas familiares acreditadas que se encuentren cursando estudios regulares de educación técnico-profesional o superior en establecimientos del Estado o reconocidos por éste y que acrediten rendimiento escolar conforme a lo que al efecto fije y califique anualmente el Consejo Administrativo;
 
-f) Incendio: Cuando el afiliado haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante de los enseres a causa de dicho siniestro, según calificación del Consejo Administrativo;
+f) Catástrofe: cuando el afiliado haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante sus enseres como consecuencia de incendio, terremoto, inundación u otra catástrofe de la naturaleza, cuya gravedad será calificada en todos los casos por el Consejo Administrativo.
 
-g) Catástrofe: Cuando el afiliado haya sufrido un grave perjuicio en su vivienda o haya perdido parte importante de los enseres como consecuencia de terremoto, inundación u otra catástrofe de la naturaleza o actos terroristas cuya gravedad será calificada por el Consejo Administrativo;
+g) Ayuda médica: En caso de enfermedades catastróficas y tratamientos médicos prolongados de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar una ayuda económica complementaria a las prestaciones contempladas en el artículo 8º.
 
-h) Ayuda médica: En caso de enfermedades catastróficas y tratamientos médicos prolongados de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar una ayuda económica complementaria a las prestaciones contempladas en el artículo 8º.
+h) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiere otorgado.
 
-i) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Bienestar por concepto de préstamos que éste le hubiere otorgado.
-
-j) Vacaciones: Se concederá anualmente, de una sola vez, una ayuda al afiliado que tenga derecho y haga uso efectivo de sus vacaciones legales, una vez dictada la resolución de la Defensoría Penal Pública que conceda el correspondiente feriado legal.
+i) Vacaciones: Se concederá anualmente, de una sola vez, una ayuda al afiliado que tenga derecho y haga uso efectivo de sus vacaciones legales, una vez dictada la resolución de la Defensoría Penal Pública que conceda el correspondiente feriado legal.
 
 El afiliado que no haga uso de vacaciones durante el año calendario no gozará de este beneficio; no obstante si al año siguiente acumulare su feriado legal, se le otorgará el monto de la bonificación correspondiente a cada período de feriado Legal;
 
-k) Alimentación de lactantes: El Bienestar podrá bonificar el valor de los alimentos preparados, especiales para lactantes, que deban suministrárseles por prescripción médica a los hijos menores de un año de los afiliados, que constituyan carga familiar; considerándose para dicho efecto en el ítem de medicamentos.
+j) Alimentación de lactantes: El Bienestar podrá bonificar el valor de los alimentos preparados, especiales para lactantes, que deban suministrárseles por prescripción médica a los hijos menores de un año de los afiliados, que constituyan carga familiar.
+
+k) Actividad física y deportiva: se otorgará una ayuda anual por afiliado con el objeto de promover la salud física y mental de los
+
+afiliados a Bienestar.
+
+Este bono tendrá la calidad de reembolso del gasto efectivo realizado por el afiliado, con el tope anual establecido por el consejo.
 
 El monto de las ayudas y bonificaciones a que se refiere este artículo será fijado por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Bienestar.
 
 #### Artículo 11º
 
-El Bienestar, podrá conceder préstamos a sus afiliados, cuando sus recursos lo permitan, por las siguientes causales:
+El Bienestar podrá conceder préstamos a sus afiliados, cuando sus recursos lo permitan, por las siguientes causales:
 
-1.- Préstamo médico: se otorgará como complemento de las prestaciones a que se refiere el artículo 8º del presente Reglamento.
+a) Préstamo médico: Se otorgará exclusivamente como
 
-2.- Préstamo de auxilio: se otorgará ante problemas económicos graves y otras causas justificadas.
+complemento de las prestaciones médicas a que se
 
-3.- Préstamo de emergencia: Se otorgará por necesidades urgentes debidamente calificadas por el Consejo Administrativo.
+refiere el artículo 8º del presente Reglamento.
 
-En estos tres casos anteriores, el préstamo podrá concederse sin que sea necesario que el afiliado haya pagado íntegramente un préstamo de auxilio obtenido con anterioridad, y
+Para obtener un nuevo préstamo médico, será
 
-4.- Préstamo habitacional: Se otorgarán por acuerdo unánime de los miembros del Consejo Administrativo y cuando los recursos del Bienestar lo permitan. Se otorgará para completar el ahorro previo necesario a objeto de obtener el subsidio habitacional que otorga el Estado para la adquisición de una vivienda, y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado.
+necesario haber pagado íntegramente el anterior.
 
-Este mismo beneficio y por el monto que se establezca por el Consejo Administrativo, se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia.
+b) Préstamo de auxilio: Se otorgará a solicitud del
 
-Para solicitar un nuevo préstamo habitacional, será necesario haber pagado íntegramente el anterior.
+afiliado, sin expresión de causa.
+
+Para obtener un nuevo préstamo de auxilio, no
+
+será requisito haber pagado íntegramente un
+
+préstamo obtenido con anterioridad.
+
+c) Préstamo habitacional: Se otorgará con
+
+autorización expresa del Consejo Administrativo,
+
+por una sola vez, con el objeto de completar el
+
+ahorro previo necesario para obtener el subsidio
+
+otorgado por el Estado con el fin de obtener una
+
+vivienda, y su monto no podrá ser superior al 50%
+
+de la cantidad ahorrada por el afiliado.
 
 #### Artículo 12º
 
-Los préstamos médicos, de auxilio y de emergencia serán servidos en un plazo de hasta 12 meses; los habitacionales, en un plazo de hasta 36 meses, los préstamos concedidos con ocasión de un sismo u otra catástrofe, en el plazo de hasta 30 meses, todos contados a partir del mes siguiente al de su otorgamiento, en cuotas iguales y sucesivas.
+Los préstamos médico y de auxilio serán servidos en un plazo máximo de 12 meses; el préstamo habitacional será servido en un plazo máximo de 36 meses.
 
-Los préstamos devengarán un interés anual que fijará el Consejo Administrativo antes del ejercicio financiero, y se reajustarán de acuerdo al mecanismo que determine anualmente el mismo Consejo conforme a lo dispuesto en la ley Nº 18.010.
+Todos los préstamos serán descontados de las remuneraciones de los afiliados en cuotas iguales y sucesivas, no serán objeto de prepago ni de consolidaciones de deudas. Cada afiliado podrá mantener descuentos de cuotas de un máximo de 2 préstamos en forma simultánea.
 
-Para solicitar un nuevo préstamo de auxilio y/o de emergencia, será necesario haber pagado íntegramente el anterior. Lo señalado no se aplicará a los préstamos cuyas causales de petición se hayan originado por sismos, incendios u otras catástrofes.
+Todos los préstamos devengarán un interés anual que fijará el Consejo Administrativo antes del ejercicio financiero, y se reajustarán de acuerdo al mecanismo que determine anualmente el mismo Consejo conforme a lo dispuesto en la ley Nº 18.010.
 
 #### Artículo 13º
 
@@ -164,19 +188,41 @@ La solicitud de cualquier tipo de préstamo deberá ser suscrita, además del af
 
 #### Artículo 15º
 
-Las sumas que el afiliado deba pagar mensualmente al Bienestar, no podrán, en caso alguno, exceder del 40% de su remuneración imponible para pensiones, o de su pensión, según corresponda.
+Las sumas que el afiliado deba pagar mensualmente al Bienestar, no podrán, en caso alguno, exceder del 30% de su remuneración imponible para pensiones, o de su pensión, según corresponda.
 
-#### Artículo 16º
+#### Artículo 16
 
-El Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y familiares, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle. Por lo tanto, el Bienestar impulsará toda actividad que conduzca al perfeccionamiento o recreación de los afiliados, también impulsará actividades deportivas, de carácter no profesional, con el fin de propender a la recreación y al desarrollo físico de los afiliados y sus familias.
+El Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y cargas familiares, optimizando el uso de los recursos propios y aquellos que pueda gestionar en otras organizaciones públicas y privadas.
 
-Con este objeto el Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos y en general, y otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+Con este objetivo podrá, de acuerdo a su disponibilidad de recursos presupuestarios y con la aprobación del Consejo Administrativo:
+
+a) Contribuir al financiamiento de proyectos
+
+recreativo-culturales presentados por sus
+
+afiliados.
+
+b) Contribuir a la celebración de Fiestas Patrias.
+
+c) Contribuir a la celebración de Navidad de los
+
+afiliados y sus cargas familiares.
+
+d) Implementar proyectos específicos orientados a
+
+dar respuesta a requerimientos de los afiliados,
+
+así como a la integración socio laboral de éstos,
+
+a través de encuentros interregionales,
+
+consejería y educación financiera, desarrollo de
+
+acciones preventivas en salud y
+
+sobreendeudamiento.
 
 #### Artículo 17º
-
-El Bienestar podrá celebrar las festividades de Navidad, Año Nuevo y 18 de Septiembre para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan. Para el goce de este beneficio se requerirá tener tres meses de afiliación desde que se autorizó su ingreso al Bienestar.
-
-#### Artículo 18º
 
 El Bienestar podrá, además, administrar colonias, refugios, casas de huéspedes u otras instalaciones que le sean asignadas para el uso de sus afiliados, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la Defensoría Penal Pública. Asimismo, podrá celebrar convenios con otros Servicios de Bienestar con el objeto que sus afiliados puedan hacer uso de las instalaciones que ellos administren.
 
@@ -184,7 +230,7 @@ El Bienestar podrá, además, administrar colonias, refugios, casas de huéspede
 
 Del financiamiento
 
-#### Artículo 19º
+#### Artículo 18º
 
 El Bienestar obtendrá su financiamiento a través de los siguientes recursos:
 
@@ -206,7 +252,7 @@ h) Con los demás bienes o recursos que el Bienestar obtenga a cualquier otro t�
 
 i) Con los excedentes que genere la administración de los servicios dependientes.
 
-#### Artículo 20º
+#### Artículo 19º
 
 Los fondos del Bienestar se depositarán en una Cuenta Unica Fiscal.
 
@@ -218,11 +264,11 @@ En caso de ausencia o impedimento de los giradores mencionados, éstos serán re
 
 Disposiciones Generales
 
-#### Artículo 21º
+#### Artículo 20º
 
 Los afiliados tendrán derecho a percibir la totalidad de los beneficios médicos que otorgue el Bienestar a contar de la fecha de su ingreso, una vez aprobada la solicitud respectiva. Los demás beneficios podrán solicitarse tres meses después que el afiliado se incorpore al Bienestar.
 
-#### Artículo 22º
+#### Artículo 21º
 
 El derecho a solicitar los beneficios que concede el Bienestar caducará a los seis meses de ocurrido el hecho constitutivo de la causal que se invoque para solicitarlos.
 
