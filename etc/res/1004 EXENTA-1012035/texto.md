@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.004, de 3 de marzo de 2010, de esta Subsecretaría, autorízase a UNIVERSIDAD DE CONCEPCIÓN, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Pesca de Investigación en el río San Pedro (XIV), asociado al estudio de potencialidad de cultivo de peces nativos" individualizado en la resolución extractada.
+
+El objetivo de la pesca de investigación consiste en obtener ejemplares de las especies señaladas en resolución extractada para llevar a cabo estudio de potencialidad de cultivo de especies nativas, el cual es parte del plan de manejo especie específico de la fauna íctica del río San Pedro, de acuerdo a resolución Nº 118, de 2008, de la Comisión Regional del Medio Ambiente de la XIV Región, para la central hidroeléctrica San Pedro.
+
+La pesca de investigación se efectuará por un período de un año contado desde la fecha de la presente resolución, en el área de influencia de central hidroeléctrica del río San Pedro, que va desde 1,5 kilómetros aguas abajo del desagüe del Lago Riñihue, XIV Región, hasta 1 kilómetro aguas debajo de la futura restitución de dicha central, donde podrá capturar, mediante pesca eléctrica y redes de encierro las especies señaladas en la resolución extractada.
+
+Valparaíso, 3 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
