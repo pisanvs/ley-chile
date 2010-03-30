@@ -6,7 +6,7 @@ Núm. 3.988 exento.- Visto: Los antecedentes adjuntos, el Informe del Departamen
 
 Decreto:
 
-1. Autorízase a la entidad denominada "Corporación Nacional del Cáncer" para realizar una colecta nacional el día viernes 9 de abril 2010.
+1. Autorízase a la entidad denominada "Corporación Nacional del Cáncer" para realizar una colecta nacional el día viernes 25 de junio 2010.
 
 2.- Las utilidades, producto de esta colecta, serán destinadas a subsidios de tratamientos quimioterápicos de pacientes Fonasa, diagnóstico precoz de cánceres cérvico-uterino, de mamas y de próstata, hospedaje de enfermos en tránsito, servicio de rehabilitación a la mujer mastectomizada, creación y donación de servicios especializados en hospitales dependientes del Estado, etc.
 
