@@ -1,0 +1,3 @@
+Por resolución exenta Nº 827 de 18 de febrero de 2010 de esta Subsecretaría, autorízase a AÍDA YASNA DEL CARMEN ORÓSTEGUI CORTÉS, para iniciar actividades pesqueras de transformación, instalar y operar una planta ubicada en sitio Quinta Los Olivos, Taltal, II Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de febrero de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
