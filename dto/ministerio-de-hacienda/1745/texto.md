@@ -4,19 +4,23 @@ Núm. 1.745.- Santiago, 26 de diciembre de 2008.- Vistos: El artículo 32 númer
 
 Decreto:
 
-1) Autorízase a la Empresa de los Ferrocarriles del Estado para que contrate uno o más créditos externos y/o internos, con uno o más bancos nacionales y/o internacionales, hasta por un total de US$88.500.000 (ochenta y ocho millones quinientos mil dólares de los Estados Unidos de América), o su equivalente en otras monedas, más los reajustes, intereses y comisiones que correspondan, de acuerdo a lo dispuesto en los artículos 1º y 2º de la ley Nº 19.847. El objetivo del/o los créditos es financiar el "Plan Trienal de Desarrollo 2008-2010" de la Empresa de los Ferrocarriles del Estado.
+1) Autorízase a la Empresa de los Ferrocarriles del Estado para que contrate uno o más créditos externos y/o internos, con uno o más bancos nacionales y/o internacionales, hasta por un total de US$108.500.000 (Ciento ocho millones quinientos mil dólares de los Estados Unidos de América), o su equivalente en otras monedas, más los reajustes, intereses y comisiones que correspondan, de acuerdo a lo dispuesto en los artículos 1º y 2º de la ley Nº 19.847. El objetivo del o de los créditos es financiar el "Plan Trienal de Desarrollo 2008-2010", por un total de US$88.500.000 (Ochenta y ocho millones quinientos mil dólares de los Estados Unidos de América) y financiar déficits transitorios de caja por un total de US$20.000.000 (Veinte millones de dólares de los Estados Unidos de América) ambos de la Empresa de los Ferrocarriles del Estado.
 
 2) Las Condiciones Financieras de los créditos serán las siguientes:
 
-a) Monto : Hasta US$88.500.000 (ochenta y ocho
+a) Monto : Hasta US$108.500.000 (Ciento ocho
 
 millones quinientos mil dólares de
 
-los Estados Unidos de América).
+los Estados Unidos de América) o su
 
-b) Plazo de
+equivalente en pesos o Unidades
 
-Amortización : No menos de 8 años.
+de Fomento.
+
+b) Plazo Total
+
+del crédito : No menos de 5 años.
 
 c) Período de
 
@@ -34,25 +38,37 @@ Intereses : Trimestrales o semestrales.
 
 f) Tasa de
 
-Interés : Tasa fija o bien tasa variable Libor
+Interés : (i) Tasa Fija, la cual no podrá
 
-US$6 meses más un Margen Aplicable
+superar el 7% anual; o bien (ii) tasa
 
-que no podrá superar el nivel de los
+variable LIBOR Dólar de 6 meses más
 
-Credit Default Swaps de la República
+un margen aplicable que no podrá
 
-de Chile a 10 años al momento de la
+superar el 3,00% en el caso que el
 
-firma del contrato de crédito.
+financiamiento esté denominado
 
-g) Comisiones : Las habituales para este tipo de
+en dólares,ya sea parcial o
 
-operaciones, las cuales no podrán
+totalmente; y en caso que el
 
-superar el 0,50% del capital del
+financiamiento esté denominado en
 
-crédito.
+pesos o Unidades de Fomento, de
+
+manera total o parcial, la tasa de
+
+interés será de TAB en pesos o Unidades
+
+de Fomento, según sea el caso, más un
+
+margen aplicable que no podrá superar
+
+el 4,00%.
+
+g) ELIMINADA.
 
 h) Garantizador : República de Chile, hasta por
 
@@ -62,7 +78,31 @@ dólares de los Estados Unidos de
 
 América).
 
-k) Prepago : Sí, sin costo adicional.
+k) Prepago : Sí, sin costo adicional. Siempre que se efectúe en una fecha de pago
+
+de intereses y/o amortizaciones
+
+l) Comisión de
+
+Estructuración : No podrá superar el 1,50% del total
+
+del capital comprometido del crédito.
+
+m) Comisión de
+
+disponibilidad : No podrá superar el 1,00% del capital
+
+no desembolsado, durante el período
+
+de utilización o desembolso.
+
+n) Comisión de
+
+Agente : No podrá superar los US$35.000 anuales.
+
+o) Período de
+
+Desembolso : 12 meses.
 
 3) En Virtud de lo dispuesto en los artículos 45 y 46 del D.L. Nº 1.263, de 1975, la documentación correspondiente a la garantía indicada en el número 1 deberá ser suscrita por el Tesorero General de la República de Chile y refrendada por el Contralor General de la República de Chile.
 
@@ -80,7 +120,7 @@ k) Prepago : Sí, sin costo adicional.
 
 10) La Empresa deberá observar las instrucciones establecidas en el anexo adjunto, el cual es parte integrante del presente decreto.
 
-11) Esta autorización tendrá un plazo de validez hasta el 31 de diciembre del 2009.
+11) Esta autorización tendrá un plazo de validez hasta el hasta el 30 de junio del año 2010.
 
 En el curso del mes siguiente a la fecha en que se firmen los referidos contratos de crédito, la Empresa de los Ferrocarriles del Estado deberá enviar a la Dirección de Presupuestos un informe adjuntando las condiciones financieras finales pactadas, el programa de utilización según la fecha de desembolso prevista y un calendario del servicio de la deuda.
 
