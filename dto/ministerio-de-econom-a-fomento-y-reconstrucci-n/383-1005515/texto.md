@@ -66,23 +66,11 @@ j) Subsecretaría: la Subsecretaría de Pesca, del Ministerio de Economía, Fome
 
 Fijación de nivel mínimo de operación por especie y área.
 
-El nivel mínimo de operación será el que se indica en cada caso:
+Se fija como nivel mínimo de operación el equivalente a un 5% de la producción anual, determinado en la forma que establece el presente artículo, expresado en toneladas, kilos o unidades, el que además deberá ir acompañado de estructuras o de superficie sembrada, según corresponda, necesarias para dicha producción anual.
 
-a) En el caso de centros de cultivo que tengan autorizado un grupo de especies de aquellos señalados en el artículo 21 bis del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción: 5% de la producción anual.
+El porcentaje antes señalado será calculado para cada una de las especies o por grupo de especies al cual pertenezca, de conformidad con el artículo 21 bis del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción, y respecto del área donde se cultiven dichas especies, delimitada dentro de la respectiva concesión o autorización de acuicultura.
 
-b) En el caso de centros de cultivo que tengan autorizadas especies pertenecientes a un mismo grupo de aquellos señalados en el artículo 21 bis del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción: 5% de la producción anual de cualquiera de las especies autorizadas.
-
-c) En el caso de centros de cultivo que tengan autorizada una especie que no pertenezca a un grupo de aquellos señalados en el artículo 21 bis del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción: 5% de la producción anual.
-
-d) En el caso de centros de cultivo que tengan autorizados dos o más grupos de especies de los señalados en el artículo 21 bis del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción: 5% de la producción anual de una o más especies de cada grupo u 8% de la producción anual de cualquiera de las especies de un mismo grupo.
-
-e) En el caso de centros de cultivo que tengan autorizada una o más especies que pertenezcan a uno o más grupos de especies de los señalados en el artículo 21 bis del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción, y/o especies que no pertenezcan a ningún grupo: 5% de la producción anual de una o más especies que pertenecen al mismo grupo, además del 5% de la producción anual de especies que no pertenecen a ningún grupo u 8% de la producción anual de cualquiera de las especies.
-
-El nivel mínimo de operación se expresará en toneladas, kilos o unidades de conformidad como hubiere sido autorizada la producción anual en el proyecto técnico, el que además deberá corresponder a las estructuras o de superficie sembrada, según corresponda, necesarias para dicha producción anual y dando cumplimiento a las exigencias de densidad de siembra fijadas de conformidad con el reglamento a que se refiere el artículo 86 de la ley, en los casos que corresponda.
-
-En los casos en que la producción máxima esté aprobada en unidades de peso, el nivel de operación mínima será determinado por el número de ejemplares ingresados al centro de cultivo al inicio del ciclo productivo considerando el peso promedio de cosecha esperado.
-
-El nivel mínimo de operación no podrá ser superior al 50% de la operación máxima prevista cada año para el centro de cultivo en la resolución de calificación ambiental, y resultará de calcular el 5% u 8% según corresponda sobre:
+El nivel mínimo de operación no podrá ser superior al 50% de la operación máxima prevista cada año para el centro de cultivo en la resolución de calificación ambiental, y resultará de calcular el 5% sobre:
 
 a) La producción anual proyectada como máxima por el titular en el último proyecto técnico aprobado por la Subsecretaría y que se encuentre vigente.
 
@@ -92,23 +80,41 @@ Se entiende por proyecto técnico vigente, aquel aprobado por la Subsecretaría 
 
 #### Artículo 4º
 
+Forma de contabilizar los años de operación.
+
+Para efectos de contabilizar el primer año de operación de una concesión o autorización de acuicultura, se considerarán 12 meses continuos contados desde la fecha de su entrega material.
+
+Lo anterior no será aplicable a aquellas concesiones o autorizaciones de acuicultura que al 10 de enero de 2006, fecha de publicación de la ley Nº 20.091, hayan cumplido su primer año de vigencia, en cuyo caso se considerarán 12 meses continuos contados desde la publicación del extracto de la respectiva resolución en el Diario Oficial.
+
+Para la contabilización de los siguientes años de operación, se considerarán 12 meses continuos contados desde el 1º de enero del año siguiente al que se cumpla el primer año.
+
+Sin embargo, el número de meses que el titular haya operado la concesión o autorización de acuicultura desde que se cumpla su primer año de operación y hasta el 31 de diciembre, podrán ser sumados conjuntamente o por separado, a aquel año o años que éste elija para completar el número de meses requerido por el artículo 5º del presente reglamento para considerar un año como operado, los cuales una vez sumados se agotarán definitivamente. Si el número de estos meses es igual o superior a 6, podrá optar por una vez, para que todos ellos sean considerados como un año adicional de operación. La opción deberá ejercerla el titular de la concesión o autorización de acuicultura al solicitar el respectivo certificado de operación ante el Servicio.
+
+Con todo, la suma de meses indicada en el inciso anterior, sólo es para efectos de dar cumplimiento a los niveles mínimos de operación para el uso de años que contemplan los artículos 80 bis y 80 ter de la ley. En ningún caso podrá ser utilizada por el titular para evadir otras obligaciones legales o reglamentarias, o para subsanar la configuración de una causal de caducidad.
+
+#### Artículo 5º
+
 Tiempo que se considera mediar entre una cosecha y la próxima siembra.
 
 Fíjase como tiempo que media entre una cosecha y la próxima siembra, para los efectos señalados en el inciso 3º del artículo 69 bis de la ley, el plazo de seis meses. Por tanto, para determinar si una concesión o autorización de acuicultura ha operado durante un año determinado, ésta deberá haber operado de conformidad con lo señalado en el artículo 3º del presente reglamento, al menos 6 meses durante el plazo de 12 meses determinado de conformidad con lo establecido en el artículo anterior.
 
-> **Nota.** El numeral 3 del Artículo Único del Decreto 330, Economía, publicado el 30.03.2010, contiene una modificación al presente artículo en el sentido de eliminar su inciso segundo. Esta actualización no ha sido posible de realizar por cuanto este artículo consta de tan solo un inciso.
+#### Artículo 6º
 
-#### Artículo 5º
+Contabilización del plazo para ejercer los derechos contemplados en los artículos 80 bis y 80 ter de la ley.
+
+Para efectos de contabilizar el plazo de tres años consecutivos de operación a los que se refieren los incisos 2º y 3º del artículo 80 bis, y letra b) del artículo 80 ter de la ley es necesario que se dé cumplimiento a lo establecido en el inciso 2º del artículo 5º en relación con el artículo 3º, ambos de este reglamento, por tres años sucesivos.
+
+El titular de un centro de cultivo que se desarrollaba en terrenos privados y que antes de la publicación de la ley Nº 20.091 requería de una autorización de acuicultura otorgada por la Subsecretaría, podrá hacer uso del número de años que éste haya operado hasta el 10 de enero de 2006, contabilizados de la forma establecida en el artículo 4º del presente reglamento, para efectos de invocar la calidad de acuicultor habitual.
+
+#### Artículo 7º
 
 Operación que puede hacer valer el titular.
 
-La operación que un titular podrá utilizar para ejercer los derechos contemplados en el artículo 80 bis de la Ley comprenderá sólo aquella que éste haya informado, no pudiendo invocar los años de operación que la concesión o autorización de acuicultura registraba a nombre de titulares anteriores.
+La operación que un titular podrá utilizar para ejercer los derechos contemplados por la ley, comprenderá sólo aquella que éste haya informado, no pudiendo invocar los años de operación que la concesión o autorización de acuicultura registraba a nombre de titulares anteriores.
 
 Sin perjuicio de lo anterior, cuando se invoque por primera vez la calidad de acuicultor habitual de conformidad con el artículo 80 bis de la ley, el titular de la concesión o autorización de acuicultura respectiva, podrá invocar los años de operación con que ésta cuente, independiente de que fuera operada por él.
 
-El titular de un centro de cultivo que se desarrollaba en terrenos privados y que antes de la publicación de la Ley Nº20.091 requería de una autorización de acuicultura otorgada por la Subsecretaría, podrá hacer uso del número de años que éste haya operado, hasta el 10 de enero de 2006.
-
-#### Artículo 6º
+#### Artículo 8º
 
 Forma de acreditar operación.
 
@@ -116,7 +122,15 @@ La acreditación de operación sólo podrá realizarse mediante formularios entr
 
 Sin perjuicio de lo anterior, aquellas actividades de cultivo autorizadas por la Subsecretaría de Pesca o de Marina, según corresponda, y que hayan iniciado operación antes del 23 de septiembre de 1995, se entenderá que han operado por el número de años que le anteceden, contados desde la fecha del acto que las autorizó.
 
-#### Artículo 7º
+#### Artículo 9º
+
+Indicación de producción mínima.
+
+La resolución de la Subsecretaría que aprueba el proyecto técnico y cronograma de actividades deberá indicar expresamente cuál es el nivel mínimo de operación por especie y área.
+
+Asimismo, el nivel mínimo de operación que cada concesión o autorización de acuicultura debe cumplir de conformidad con lo establecido en el artículo 3º de este reglamento, deberá quedar consignado en el Registro Nacional de Acuicultura que el Servicio tiene a su cargo.
+
+#### Artículo 10º
 
 Vigencia.
 
