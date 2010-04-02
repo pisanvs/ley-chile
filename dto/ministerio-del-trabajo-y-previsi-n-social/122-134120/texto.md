@@ -94,7 +94,9 @@ El Servicio Nacional, para efectos de autorizar los gastos de capacitación en q
 
 #### Artículo 14
 
-Los intereses o cualquier otro incremento que tuvieren los aportes de las empresas a los organismos técnicos intermedios, accederán al capital y se considerarán para establecer los límites de gastos de administración a que se refiere el artículo 10 de este reglamento, cuando corresponda.
+Los aportes de las empresas afiliadas podrán invertirse en el sistema financiero sólo en instrumentos de renta fija. Los intereses y cualquier otro incremento que tuvieren los aportes de las empresas a los organismos técnicos intermedios para capacitación accederán a las respectivas cuentas.
+
+Con todo, la cuenta de administración a que se refiere el artículo 8º deberá invertirse, de igual forma, separadamente de las demás cuentas.
 
 #### Artículo 15
 
@@ -104,7 +106,7 @@ Para estos efectos, los organismos técnicos intermedios para capacitación debe
 
 1º Abrir una cuenta de excedentes de capacitación, de excedentes de certificación de competencias laborales y otra de excedentes de reparto, en que se depositarán los remanentes de cada una de las cuentas, las que se administrarán separadamente, y
 
-2º Presentar al Servicio Nacional un programa anual de capacitación y/o de evaluación y de certificación de competencias laborales, cuyo objeto será asegurar la ejecución de la totalidad de los recursos existentes en cada una de las cuentas de excedentes. Asimismo, podrá presentar un proyecto específico, en conformidad a lo señalado en el artículo 11 de este Reglamento.
+2º Presentar al Servicio Nacional, antes del 30 de junio de cada año, por empresa afiliada, un programa anual de capacitación y/o de evaluación y de certificación de competencias laborales, cuyo objeto será asegurar la ejecución de la totalidad de los recursos existentes en cada una de las cuentas de excedentes. Estos programas deberán ser elaborados por las empresas afiliadas con el acuerdo de los respectivos comités bipartitos de capacitación, en los términos dispuestos en el párrafo 2º, del Título I, de la ley Nº 19.518 y, en definitiva, contar con la aprobación del Servicio Nacional. Estos programas anuales podrán ser modificados por las empresas afiliadas antes de su ejecución, siempre y cuando, cuenten con la aprobación del Servicio Nacional. En caso contrario, el organismo técnico intermedio para capacitación no podrá disponer de estos recursos para sus empresas afiliadas, los cuales deberán ser transferidos a la cuenta becas de franquicia tributaria del mismo período o de los sucesivos años, si hubieren excedentes. Asimismo, podrá presentar un proyecto específico, durante el mismo año, en conformidad a lo señalado en el artículo 11 de este reglamento.
 
 Si al final del nuevo ejercicio anual y a pesar de haberse cumplido el programa a que refiere el inciso anterior, quedaren remanentes en las cuentas de excedentes, éstos deberán destinarse necesariamente al programa de becas a que se refiere el artículo siguiente.
 
@@ -112,7 +114,7 @@ Los organismos deberán presentar dichos programas a la autorización del Servic
 
 #### Artículo 16
 
-Sin perjuicio de lo establecido en el artículo anterior, las empresas aportantes, que correspondan, podrán autorizar a los organismos técnicos intermedios para capacitación, hasta el último día hábil del mes de enero de cada año, a destinar todo o parte de los recursos de las cuentas de excedentes, al desarrollo de programas de becas de capacitación orientados a trabajadores de menor calificación y remuneración que se desempeñen para empresas que no sean afiliadas al mencionado organismo, así como a jóvenes, personas de escasos recursos que se encuentren cesantes o que buscan trabajo por primera vez, como asimismo a los demás grupos vulnerables definidos como tales por resolución del Director Nacional de acuerdo a lo establecido en el inciso segundo, del artículo 20 bis, del decreto supremo Nº 98, de 1997, del Ministerio del Trabajo y Previsión Social. Estas becas deberán ajustarse a las definiciones que establezca el Servicio Nacional de Capacitación y Empleo, a través de una o más resoluciones.
+Sin perjuicio de lo establecido en el artículo anterior, las empresas aportantes, que correspondan, podrán autorizar a los organismos técnicos intermedios para capacitación, hasta el último día hábil del mes de enero de cada año, a destinar todo o parte de los recursos de las cuentas de excedentes, al desarrollo de programas de becas de capacitación orientados a trabajadores de menor calificación y remuneración que se desempeñen para empresas que no sean afiliadas al mencionado organismo, así como a jóvenes, personas de escasos recursos que se encuentren cesantes o que buscan trabajo por primera vez, como asimismo a los demás grupos vulnerables definidos como tales por resolución del Director Nacional de acuerdo a lo establecido en el inciso segundo, del artículo 20 bis, del decreto supremo Nº 98, de 1997, del Ministerio del Trabajo y Previsión Social. Estas becas deberán ajustarse a las definiciones que establezca el Servicio Nacional de Capacitación y Empleo, a través de una o más resoluciones, previa consulta al Consejo Nacional de Capacitación, regulado en el párrafo 2º, del Título Preliminar de la ley Nº 19.518.
 
 Asimismo, estos programas de becas de capacitación podrán destinarse a trabajadores de empresas no adherentes al organismo técnico intermedio para capacitación que presten servicios en régimen de subcontratación o servicios transitorios a las empresas afiliadas, de acuerdo a la ley Nº 20.123.
 
@@ -120,7 +122,7 @@ Con todo, con cargo a los aludidos remanentes, los organismos técnicos intermed
 
 Para los efectos anteriores, los organismos técnicos intermedios para capacitación deberán presentar los correspondientes programas al Servicio Nacional, a más tardar el último día hábil de febrero de cada año.
 
-Los mencionados organismos asignaránJ los recursos mediante licitación pública, conforme a las correspondientes bases administrativas aprobadas por el Servicio Nacional y al programa anual de becas de franquicia tributaria convenido y autorizado por dicho servicio. Los programas de becas podrán contemplar los beneficios adicionales que establece el artículo 70 de la ley Nº 19.518, siempre que así, lo autorice el Servicio Nacional en las correspondientes bases administrativas antes aludidas.
+Los mencionados organismos asignarán los recursos mediante licitación pública, conforme a las correspondientes bases administrativas aprobadas por el Servicio Nacional y al programa anual de becas de franquicia tributaria convenido y autorizado por dicho servicio. El organismo técnico intermedio para capacitación no podrá cobrar suma alguna por concepto de las bases administrativas.Los programas de becas podrán contemplar los beneficios adicionales que establece el artículo 70 de la ley Nº 19.518, siempre que así, lo autorice el Servicio Nacional en las correspondientes bases administrativas antes aludidas.
 
 Los recursos destinados a estos programas por el organismo se administrarán separadamente en una cuenta denominada de becas de franquicia tributaria.
 
