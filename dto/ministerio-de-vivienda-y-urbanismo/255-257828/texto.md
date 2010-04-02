@@ -1010,6 +1010,8 @@ Tratándose de postulaciones al Título II, el domicilio en que se haga la encue
 
 c) Tratándose de postulaciones al Título II Mejoramiento de la Vivienda, con excepción de los Proyectos de Mejoramiento de Bienes Comunes Edificados a que se refiere el punto b.4) del artículo 5°, o de postulaciones al Título III Ampliación de la Vivienda, ni el postulante ni su cónyuge podrán ser propietarios de otra vivienda, salvo que por resolución fundada del SERVIU se autorice la postulación siempre que la vivienda que integra el proyecto corresponda a la que habitan.
 
+No regirá esta prohibición cuando el postulante casado bajo el régimen de sociedad conyugal se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
+
 d) Que la vivienda que integra el proyecto corresponda a una Vivienda Objeto del Programa.
 
 e) No estar afecto a las incompatibilidades señaladas en el artículo 15.

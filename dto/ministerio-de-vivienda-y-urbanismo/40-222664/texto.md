@@ -302,6 +302,8 @@ g. Cuando el postulante o su cónyuge invoque su condición de persona reconocid
 
 h. Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de ésta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
 
+i. Cuando el postulante casado bajo el régimen de sociedad conyugal se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
+
 ### Párrafo 8° — DE LOS FACTORES DE PUNTAJE
 
 #### Artículo 15
