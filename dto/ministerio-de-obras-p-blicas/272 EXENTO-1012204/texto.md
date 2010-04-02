@@ -1,0 +1,3 @@
+Por decreto exento Nº 272, de 5 de marzo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió para la Empresa ESSAL S.A., el lote de terreno N° 1, para la obra "Recinto Acceso y Tránsito a Estanque Agua Potable Frutillar Bajo", Provincia de Llanquihue, Xª Región, comuna de Frutillar, que figura a nombre de SOC DE DESARROLLO RIO RANQUIL LT Y O, rol de avalúo 241-204, superficie 536 M2. La Comisión de Peritos, fijó con fecha 28 de diciembre de 2009, en la cantidad de $1.876.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
