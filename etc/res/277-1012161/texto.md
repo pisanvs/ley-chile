@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN EL SUBSECTOR HIDROGEOLÓGICO DE APROVECHAMIENTO COMÚN DE EL MONTE, LOCALIZADO EN LAS PROVINCIAS DE TALAGANTE, MAIPO Y MELIPILLA, REGIÓN METROPOLITANA
+
+Mediante resolución DGA Nº 277, de fecha 24 de septiembre de 2008, se ha declarado área de restricción para extracciones de aguas subterráneas el subsector hidrogeológico de aprovechamiento común de El Monte, ubicado en las provincias de Talagante, Melipilla y Maipo, Región Metropolitana, y mediante resolución DGA Nº 248 exenta, de 4 de febrero de 2010, se modifica la resolución DGA Nº 277, de fecha 24 de septiembre de 2008, en el sentido que indica. Los antecedentes se encuentran disponibles en oficina de la Dirección General de Aguas de la Región Metropolitana y en la página web de la DGA.-
+
+RODRIGO WEISNER LAZO, DIRECTOR GENERAL DE AGUAS.
