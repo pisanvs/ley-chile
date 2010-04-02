@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.082, de 10 de marzo de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 924, modificada mediante resolución exenta Nº 1.030, ambas de 2010, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel en la III Región, temporada 2010", en el sentido de incorporar el siguiente numeral 5.- Ter:
+
+"5 Ter.- Sin perjuicio de lo dispuesto en los numerales anteriores, las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación, podrán extraer, con red de cerco, una cuota total de 1.500 toneladas del recurso Jurel, la cual será imputada a la fracción reservada para fines de investigación de la cuota global anual de Jurel, establecida mediante decreto exento Nº 1.925, de 2009, del Ministerio de Economía, Fomento y Reconstrucción. Con todo, la operación de las embarcaciones artesanales sobre la cuota antes indicada sólo se hará efectiva una vez agotada la cuota establecida en el numeral 5 Bis.- de la presente resolución.
+
+En el evento que la cuota autorizada en el párrafo primero sea extraída antes del período autorizado, se deberán suspender las actividades autorizadas al amparo de la presente pesca de investigación.
+
+Los excesos en que se incurra, respecto de la cuota autorizada en virtud de este artículo, se imputarán a la cuota global anual de captura del recurso Jurel asignada a la III Región para el período noviembre - diciembre de 2010, establecida conforme al decreto exento Nº 1.925, de 2009, del Ministerio de Economía, Fomento y Reconstrucción".
+
+Valparaíso, 10 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
