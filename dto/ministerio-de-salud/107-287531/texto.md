@@ -32,13 +32,13 @@ Decreto:
 
 #### Artículo 1°
 
-Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2009, ambos meses inclusive, asciende a la suma de $331.743.234.062 (trescientos treinta y un mil setecientos cuarenta y tres millones doscientos treinta y cuatro mil sesenta y dos pesos).
+Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2009, ambos meses inclusive, asciende a la suma de $332.744.611.770 (trescientos treinta y dos mil setecientos cuarenta y cuatro millones seiscientos once mil setecientos setenta pesos).
 
 #### Artículo 2°
 
 El referido aporte se transferirá por mensualidades, por intermedio de la municipalidad respectiva, a cada entidad administradora de salud municipal y su monto se determina aplicando a un aporte general y básico que se detalla, los criterios de incremento o rebaja, según corresponda, señalados, en el artículo 49 de la ley N°19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $ 2.130 (Dos mil ciento treinta pesos).
+a) Aporte básico unitario homogéneo, denominado per cápita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de 2.207 (dos mil doscientos siete pesos).
 
 b) Criterios de incremento del per cápita basal, según corresponda:
 
