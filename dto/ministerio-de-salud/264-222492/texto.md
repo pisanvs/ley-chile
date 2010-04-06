@@ -32,9 +32,11 @@ a) Producto farmacéutico indispensable: Medicamento que es básico, de la mayor
 
 b) Nombre genérico: Denominación aceptada por la Organización Mundial de la Salud, bajo distintivos y siglas "Denominaciones Comunes Internacionales" (D.C.I.) o "International Nonpropietary Names (I.N.N.)" o en las farmacopeas oficialmente reconocidas en el país.
 
-c) Medicamento genérico: Medicamento que se distribuye o expende rotulado con el nombre genérico del principio activo.
+b1) Denominación Común Internacional: Nombre recomendado por la Organización Mundial de la Salud para las substancias farmacéuticas.
 
-d) Relación riesgo-beneficio (relación beneficio-riesgo): Relación entre los beneficios y los riesgos que presenta el empleo de un medicamento. Expresa un juicio sobre la función del medicamento en la práctica médica, basado en datos sobre su eficacia y seguridad y en consideraciones sobre su posible uso indebido, la gravedad y el pronóstico de la enfermedad, etc. El concepto puede aplicarse a un solo medicamento o a las comparaciones entre dos o más medicamentos empleados para una misma indicación.
+c) Medicamento Genérico: Medicamento que se registra, distribuye o expende exclusivamente rotulado bajo la Denominación Común Internacional y puede provenir de múltiples proveedores.
+
+d) Relación riesgo-beneficio (relación beneficio-riesgo): Relación entre los beneficios y los riesgos que presenta el empleo de un medicamento. Expresa un juicio sobre la función del medicamento en la práctica médica, basado en datos sobre su eficacia y seguridad y en consideraciones sobre la gravedad y el pronóstico de la enfermedad, etc. El concepto puede aplicarse a un solo medicamento o a las comparaciones entre dos o más medicamentos empleados para una misma indicación.
 
 e) Efectividad en función del costo: Relación entre costo, medido en valor monetario, y efectividad, cuantificada mediante indicadores específicos de efecto.
 
@@ -48,57 +50,57 @@ h) Farmacovigilancia: Ciencia o conjunto de actividades relacionadas con la dete
 
 El Formulario Nacional de Medicamentos está constituido por los siguientes documentos:
 
-A. La nómina de productos estructurados por grupo y subgrupo terapéutico. Cada producto se describe por el nombre genérico de su principio activo, la sal o éster cuando corresponda, forma(s) farmacéutica(s) y dosis por forma(s) farmacéutica(s) o por unidad de administración.
+A. La nómina de productos estructurados por grupo y subgrupo terapéutico. Cada producto se describe por el nombre genérico de su principio activo, la sal o éster cuando corresponda, forma(s) farmacéutica(s) y dosis por forma(s) farmacéutica(s) o por unidad de administración y su correspondiente código internacional ATC (Sistema de Clasificación Anatómico Terapéutico y Químico).
 
 Esta nómina será aprobada por decreto supremo.
 
 Podrán incluirse productos farmacéuticos que signifiquen una alternativa de tratamiento a los productos definidos en la lista, aun cuando estén constituidos por principios activos diferentes.
 
-B. Las monografías de cada producto farmacéutico, incluyendo los productos alternativos, deberán consignar la estructura química y propiedades físico-químicas, estabilidad cuando corresponda, acción o acciones farmacológicas, farmacocinética, uso o usos terapéuticos, forma o formas farmacéuticas, vías de administración y dosis para cada uso terapéutico, reacciones adversas, contraindicaciones, interacciones, precauciones, advertencias sobre peligros que entrañe su administración, manera de evitarlos y combatirlos. Las monografías serán aprobadas como anexo del decreto supremo aludido en la letra A precedente.
+B. Las monografías de cada producto farmacéutico incluyendo los productos que son alternativas de tratamiento. Estas monografías deberán consignar para el principio activo, la denominación común internacional o el de las farmacopeas oficialmente reconocidas, las características físico-químicas, acción o acciones farmacológicas y farmacocinéticas, forma o formas farmacéuticas, vías de administración y dosis, reacciones adversas y, si corresponde, contraindicaciones, interacciones, precauciones, advertencias, usos terapéuticos aprobados en el registro sanitario y, si procede, otros usos terapéuticos reconocidos y sancionados por el Instituto de Salud Pública como de utilidad. Las monografías serán aprobadas como anexo del decreto supremo aludido en la letra A precedente.
 
 #### Artículo 4º
 
-Los medicamentos que integran la nómina del Formulario deben estar disponibles en el país para toda la población que lo requiera y corresponderá a la autoridad sanitaria arbitrar los mecanismos que permitan la disponibilidad de aquellos que no se encuentren comercializados en el país, en casos excepcionales y para usos medicinales urgentes.
+Los medicamentos que integran la nómina del Formulario deben estar disponibles en el país para toda la población que lo requiera y corresponderá a la autoridad sanitaria arbitrar los mecanismos que permitan la disponibilidad de aquellos que no se encuentren comercializados en el país.
 
-La nómina de los productos farmacéuticos señalados en la letra A del artículo anterior, que constituyen el Formulario Nacional de Medicamentos, que están registrados y comercializados en el país, se enunciará por orden alfabético de la denominación genérica de los productos farmacéuticos de la lista aprobada, señalando la sal o éster cuando corresponda, forma(s) farmacéutica(s) y dosis (expresada como base según corresponda) por forma(s) farmacéutica(s) o por unidad de administración y será aprobada por resolución del Ministerio de Salud de disposición obligatoria en farmacias. Esta nómina consignará el medicamento correspondiente, por su denominación genérica y la marca comercial, si existiere, el respectivo fabricante o importador.
+Los productos farmacéuticos que constituyen el Formulario Nacional de Medicamentos serán de existencia obligatoria en farmacias, respecto de los petitorios que les son reglamentariamente exigibles.
 
-Los arsenales farmacológicos de los establecimientos asistenciales públicos y privados del país deben incluir medicamentos del Formulario Nacional para su administración a los enfermos que requieren de su atención.
-
-Igual obligación deberán cumplir las farmacias y demás establecimientos del área farmacéutica, respecto de los petitorios que les son reglamentariamente exigibles.
+Los arsenales farmacológicos de los establecimientos asistenciales del país deberán basarse en los medicamentos del Formulario Nacional para su administración a las personas que requieran su atención, de acuerdo con sus respectivos ámbitos de acción
 
 #### Artículo 5º
 
-Los medicamentos que integran el Formulario Nacional serán seleccionados sobre la base de los siguientes criterios:
+Los medicamentos que integran el Formulario Nacional serán seleccionados sobre la base de los siguientes criterios, en orden de prioridad:
 
-1. Eficacia y seguridad en el uso.
+1. Productos definidos como indispensables.
 
-2. Adecuada relación riesgo-beneficio y efectividad en función del costo.
+2. Productos con seguridad y eficacia demostrada.
 
-3. Cumplimiento de los principios de la medicina basada en la evidencia, en especial si integran la farmacoterapia incorporada en las normas clínicas, guías terapéuticas o protocolos que se aprueben para abordar las patologías de mayor prevalencia y aquellas prioritarias, en el marco de los objetivos sanitarios del país.
+3. Productos que cumplen los principios de la medicina basada en la evidencia, en especial aquellos que integran la farmacoterapia incorporada en las normas clínicas, guías terapéuticas o protocolos que se aprueben para abordar las patologías de mayor prevalencia y aquellas prioritarias, en el marco de los objetivos sanitarios del país.
+
+4. Productos que demuestren una mejor efectividad versus costo.
 
 #### Artículo 6º
 
-Para la actualización del Formulario se deberán tener presentes los siguientes antecedentes:
+La responsabilidad del seguimiento y actualización del Formulario corresponderá a la Subsecretaría de Salud Pública de este Ministerio, el que mediante decreto supremo constituirá una comisión técnico-científica, de carácter asesor, de funcionamiento permanente, cuyas funciones y demás regulaciones serán determinadas en el mismo decreto.
 
-1.- Los informes sobre el logro del objetivo terapéutico de la farmacoterapia contenida en las normas, protocolos o guías clínicas en uso.
-
-2.- Las sugerencias fundamentadas que realicen los comités de farmacia y terapéutica de los establecimientos asistenciales de los Servicios de Salud y de otras instituciones públicas y privadas del país.
-
-3.- Las opiniones de las sociedades científicas.
-
-4.- Los resultados de los estudios de utilización disponibles para grupos terapéuticos específicos.
-
-5.- Los informes de farmacovigilancia nacionales e internacionales.
-
-6.- Las revisiones sistemáticas sobre medicina basada en la evidencia.
-
-La actualización de la nómina y monografías del Formulario deberá ser aprobada cada dos años.
+Esta Comisión estará constituida por un grupo multiprofesional, en el cual se integrará a profesionales que formen parte de los estamentos de rectoría, regulación y control, en materia de productos farmacéuticos, de los organismos públicos del sector salud, sin perjuicio de los expertos que sea necesario convocar en la oportunidad que sean requeridos.
 
 #### Artículo 7º
 
-La responsabilidad del seguimiento y actualización del Formulario corresponderá al Ministerio de Salud, el que mediante decreto supremo constituirá una comisión técnico-científica, de carácter asesor, de funcionamiento permanente, cuyas funciones y demás regulaciones serán determinadas en el mismo decreto.
+La actualización del Formulario se realizará en términos generales cada dos años, sin perjuicio de las incorporaciones o eliminaciones que puedan efectuarse en la oportunidad en que sean requeridas.
 
-Esta Comisión estará constituida por un grupo multiprofesional, en el cual se integrará a profesionales que formen parte de los estamentos de rectoría, regulación y control, en materia de productos farmacéuticos, de los organismos públicos del sector salud, sin perjuicio de los expertos que sea necesario convocar en la oportunidad que sean requeridos.
+Para ambos efectos la Comisión podrá proponer de motu proprio, a solicitud de Servicios de Salud, otras instituciones públicas y/o privadas del país, tanto la actualización como la incorporación específica de determinados principios activos y/o formas farmacéuticas, las que deberán ser autorizadas por decreto del Ministerio de Salud.
+
+Para estos propósitos se deberán tener presentes las siguientes consideraciones:
+
+1.- Los requerimientos fármaco-terapéuticos para incorporar a las guías clínicas y protocolos que se emplearán en el sistema de atención público.
+
+2.- Las sugerencias fundamentadas que realicen los comités de farmacia y terapéutica de los establecimientos asistenciales.
+
+3.- Los resultados de los estudios de utilización disponibles para grupos terapéuticos específicos.
+
+4.- Los informes de fármaco-vigilancia nacionales e internacionales.
+
+5.- Las revisiones sistemáticas sobre medicina basada en la evidencia.
 
 #### Artículo 8º
 
