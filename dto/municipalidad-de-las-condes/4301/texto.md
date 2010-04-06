@@ -38,11 +38,17 @@ Los estacionamientos regidos por la presente Ordenanza estarán debidamente iden
 
 #### Artículo 4º
 
+<!-- parte:8904719 -->
+
+No estarán afectos al cobro de la tarifa establecida en el artículo 2º, los vehículos particulares de contaminación ambiental 0%, los que serán autorizados para estos efectos por la Dirección de Tránsito y Transporte Público.
+
+#### Artículo 5º
+
 <!-- parte:8499082 -->
 
 Todo vehículo deberá estacionarse correctamente en el respectivo espacio demarcado destinado a ello, de manera que no sobresalga ni ocupe parte alguna de otro lugar de estacionamiento o de las vías públicas, ni entorpezca el libre acceso o salida de los mismos.
 
-#### Artículo 5º
+#### Artículo 6º
 
 <!-- parte:8499083 -->
 
