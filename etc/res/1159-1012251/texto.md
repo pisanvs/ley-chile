@@ -1,0 +1,3 @@
+Por resolución Nº 1.159, de 29 de Marzo de 2010, de esta Subsecretaría, déjense sin efecto las resoluciones Nº 375 y Nº 2359, ambas de 2001, Nº 2829 de 2002, Nº 2753 de 2003 y Nº 768 de 2004, todas de esta Subsecretaría, correspondientes al área de manejo Marín Balmaceda, Sector B, XI Región, cuyo titular es el Sindicato de Trabajadores Independientes de la Pesca Artesanal de Puerto Raúl Marín Balmaceda, en virtud del artículo 16 letra g) del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
