@@ -1,0 +1,3 @@
+Por resolución exenta Nº 980, de 3 de marzo de 2010, de esta Subsecretaría, autorízase a ESTEBAN DEL CARMEN CALQUÍN DÍAZ, para iniciar actividades pesqueras de transformación, instalar y operar planta en El Boldo, Villa Angosta s/n, comuna de Licantén, provincia de Curicó, VII Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
