@@ -1,0 +1,3 @@
+Por resolución Nº 1.155, de 29 de marzo de 2010, de esta Subsecretaría, déjense sin efecto las resoluciones Nº 324 y Nº 3698, ambas de 2004 y de esta Subsecretaría, correspondientes al área de manejo Puerto Gala, Sector F, XI Región, cuyo titular es la Asociación Gremial de Pescadores Artesanales y Buzos Mariscadores de Isla Toto, en virtud del artículo 16 letra g), del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
