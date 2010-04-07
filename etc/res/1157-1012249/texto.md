@@ -1,0 +1,3 @@
+Por resolución Nº 1.157, de 29 de marzo de 2010, de esta Subsecretaría, déjense sin efecto las resoluciones Nº 1020 de 2000, Nº 1142 de 2001, Nº 383 de 2002 y Nº 2326 de 2003, todas de esta Subsecretaría correspondientes al área de manejo Bahía Mejillones, Sector A, II Región, cuyo titular es el Sindicato de Trabajadores Independientes Pescadores Artesanales comuna de Mejillones, en virtud del artículo 16 letra g) del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de Marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
