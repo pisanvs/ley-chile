@@ -1,0 +1,3 @@
+Por resolución Nº 1.156, de 29 de marzo de 2010, de esta Subsecretaría, déjense sin efecto las resoluciones Nº 2154 de 2004 y Nº 246 de 2005, ambas de esta Subsecretaría, correspondientes al área de manejo Río Seco, Sector A, I Región, cuyo titular es el Sindicato de Trabajadores Independientes de Buzos Mariscadores y Ayudantes y Afines de Caleta Río Seco, en virtud del artículo 16 letra g), del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
