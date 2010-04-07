@@ -1,0 +1,3 @@
+Por resolución Nº 1.158, de 29 de marzo de 2010, de esta Subsecretaría, déjense sin efecto las resoluciones Nº 608 y Nº 2802, ambas de 2003, y Nº 1483 de 2004, todas de esta Subsecretaría, correspondientes al área de manejo Punta Concura, X Región, cuyo titular es el Sindicato de Trabajadores Independientes, Pescadores y Buzos Mariscadores y Ramos Similares "Río Hueihue", en virtud del artículo 16 letra g), del D. S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
