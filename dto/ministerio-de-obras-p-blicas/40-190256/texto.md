@@ -32,11 +32,11 @@ Decreto:
 
 5.1.- Rol S-92 al Camino Gorbea - Cuesta Lastarria Loncoche, definiendo su inicio y término en la intersección con el Camino Longitudinal.
 
-5.2.- Rol No. 205 al Camino Mariquina - Valdivia, definido su inicio en la intersección con el Camino Longitudinal (Mariquina) y su término en la Ciudad de Valdivia (Acceso Norte a Valdivia).
+5.2.- DEROGADO.
 
-5.3.- Rol No. 207 al Camino Paillaco - Valdivia, definido su inicio en la intersección con el Camino Longitudinal (Paillaco) y su término en la Ciudad de Valdivia (Acceso Sur a Valdivia).
+5.3.- DEROGADO.
 
-6.- DECLARASE CAMINOS NACIONALES A LOS ACCESOS NORTE Y SUR A LA CIUDAD DE VALDIVIA MENCIONADOS EN EL PUNTO 5.2 Y 5.3, CON LOS ROLES 205 Y 207 RESPECTIVAMENTE.
+6.- DEROGADO.
 
 Anótese, tómese razón, comuníquese y publíquese.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Bruno Siebert Held, Brigadier General, Ministro de Obras Públicas.
 
