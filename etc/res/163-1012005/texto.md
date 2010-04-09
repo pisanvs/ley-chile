@@ -31,3 +31,25 @@ Vértice E Lat. 44°39’15.66" S. Long. 73°51’59.83" W.
 3.- Objeto de la concesión, amparar la instalación y operación de un cultivo del grupo de especies Salmónidos, el que se debe desarrollar dentro del área asignada.
 
 Santiago, 9 de marzo de 2010.- Por la Sra. Subsecretaria, Felipe García-Huidobro Correa, Subjefe Subsecretaría de Marina.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance la resolución Nº 163, de 2010, del Ministerio de Defensa Nacional, Subsecretaría de Marina
+
+Nº 11.024.- Santiago, 26 de febrero de 2010.
+
+Esta Contraloría General ha dado curso al documento singularizado en el epígrafe, que otorga la concesión de acuicultura de porción de agua y fondo de mar que indica, por cuanto se ajusta a derecho.
+
+No obstante lo anterior, es preciso señalar que las coordenadas geográficas indicadas en la parte final del Nº 2 resolutivo están referidas a la carta SHOA Nº 8.500, lo que se ha omitido indicar en el instrumento en estudio.
+
+Con el alcance que antecede se ha tomado razón de la resolución del rubro.
+
+Saluda atentamente a Ud., Sonia Doren Lois, Contralor General de la República Subrogante.
+
+A la señora
+
+Subsecretaria de Marina
+
+Presente
