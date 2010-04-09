@@ -9272,7 +9272,7 @@ Cualquier inversión o gasto que, por su monto o naturaleza no cumpla con lo ind
 
 6.5. Disposiciones transitorias.
 
-El plazo adicional de 18 meses a que se refiere el numeral 3.2 de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes que se hayan recibidos o adjudicados en pago desde el 1 de marzo de 2008 hasta el 31 de marzo de 2010."
+El plazo adicional de 18 meses a que se refiere el numeral 3.2 de este Capítulo, podrá aplicarse también a los bienes que no se encuentren en las situaciones que se indican en ese numeral, cuando se trate de bienes que se hayan recibidos o adjudicados en pago desde el 1 de marzo de 2008 hasta el 31 diciembre de 2010.
 
 Se autoriza además a los bancos que hagan uso de ese plazo adicional, para que el castigo que deben efectuar se realice en parcialidades, debiendo encontrarse castigado al menos una proporción del valor del bien equivalente a la relación entre la cantidad de meses transcurridos desde la fecha de su recepción y el número de meses comprendidos entre esa fecha y aquella que el banco fije para su enajenación al amparo del plazo adicional otorgado.
 
