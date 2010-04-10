@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.092, de 16 de marzo de 2010, de esta Subsecretaría, modifícase la resolución Nº 989, modificada por resolución Nº 1.579 y Nº 1.692, todas de 2009 y de esta Subsecretaría, que autorizó a la SOCIEDAD COMERCIAL Y CONSULTORA, MATAMALA, TRONCOSO Y UGALDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y dimensionamiento de la flota pesquera del recurso pulpo Enteroctopus megalocyathus en aguas interiores de la X Región, temporada 2009", en el sentido de ampliar el plazo establecido en el numeral 3.- por doce meses, contados desde la fecha de la presente resolución.
+
+Valparaíso, 16 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
