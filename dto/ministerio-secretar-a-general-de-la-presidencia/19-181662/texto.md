@@ -340,29 +340,29 @@ Nº 228, de 1994, del Ministerio del Interior.
 
 ### XIV. MINISTERIO DE BIENES NACIONALES
 
-1. Otorgamiento de títulos gratuitos de dominio a personas de escasos recursos incluidos los otorgados de conformidad con la ley Nº 18.270 y Ley 18.616.
+1. Otorgamiento de títulos gratuitos de domino, urbanos y rurales, a personas de escasos recursos, incluidos los otorgados de conformidad con el D.L. 2.885, la ley Nº 18.270, la ley Nº 18.616 u otras leyes vigentes sobre la materia, respecto de inmuebles fiscales cuya tasación comercial sea superior a 500 U.T.M., y declaración de caducidad del título conforme lo establecido en el artículo 94 del D.L. 1.939, de 1977.
 
-2. DEROGADO
+2. Transferencias gratuitas de inmuebles fiscales a las personas jurídicas referidas en el artículo 61 del D.L. 1.939, de 1977, cuyo valor comercial fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del mismo cuerpo legal, sea superior a 2.500 U.T.M. e igual o inferior a 5.000 U.T.M.
 
-3. Ventas directas o adjudicadas en propuesta pública de inmuebles cuyo avalúo fiscal no exceda de 5.000 unidades de fomento.
+3. Venta o permuta de inmuebles fiscales, mediante trato directo, licitación privada o pública, cuyo valor comercial, fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del D.L. 1.939, de 1977, sea superior a 2.500 U.T.M. e igual o inferior a 5.000 U.T.M. Esta delegación incluye todas las resoluciones que se dicten en el respectivo proceso, incluyendo la aprobación de las bases de licitación, sus modificaciones y de los contratos respectivos.
 
-4. Permutas de inmuebles fiscales cuyo avalúo no exceda de 5.000 unidades de fomento.
+4. Aprobación de los contratos de permuta y venta de inmuebles fiscales cuyo valor sea superior a 5.000 U.T.M., así como la aprobación de los contratos de compra de inmuebles cualquiera sea su valor.
 
-5. Adjudicación de inmuebles en pública subasta.
+5. DEROGADO.
 
-6. Constitución y alzamiento de servidumbres sobre bienes raíces fiscales.
+6. Constitución y alzamientos de servidumbres sobre bienes raíces fiscales, a excepción de las servidumbres legales.
 
 7. Afectación y desafectación de bienes nacionales de uso público.
 
-8. Fijación de los deslindes de los cauces de los ríos, de conformidad con el D.S. Nº 609, de 1978, del Ministerio de Bienes Nacionales.
+8. Destinaciones de inmuebles fiscales a favor de los organismos dependientes del Ministerio de Defensa Nacional, Carabineros de Chile y Policía de Investigaciones, y destinaciones para fines de conservación ambiental, protección del patrimonio y/o planificación, gestión y manejo sustentable de sus recursos.
 
 9. Restitución y pago de indemnizaciones de la ley Nº 19.568 por bienes confiscados.
 
-10. Alzamiento de prohibiciones de enajenar inmuebles transferidos gratuitamente hasta un avalúo de 5.000 unidades de fomento.
+10. DEROGADO.
 
 11. Arrendamiento de inmuebles fiscales por períodos superiores a cinco años, si fueren urbanos y diez años si fueren rurales y siempre que no excedan de veinte años cuando se trate de instituciones educacionales, de beneficencia u otras entidades que las destinen a objetivos de interés nacional o regional.
 
-12. Otorgamiento de concesiones y destinaciones sobre bienes fiscales y nacionales de uso público.
+12. Otorgamiento de concesiones onerosas hasta por 50 años y concesiones gratuitas por plazos superiores a 5 años, conforme lo establecido en el art. 61 del D.L 1.939, ponerles término y caducarlas.
 
 ### XV. MINISTERIO DE PLANIFICACION Y COOPERACION
 
