@@ -1,36 +1,24 @@
-REGLAMENTO SOBRE AREAS DE MANEJO Y EXPLOTACION DE RECURSOS BENTONICOS
+MODIFICA DECRETO Nº 355, DE 1995
 
-Núm. 355.- Santiago, 12 de Junio de 1995.- Visto: Lo dispuesto en el artículo 32 N° 8 de la Constitución Política del Estado; el D.F.L. N° 5, de 1983; el D.S. N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, que fijó el texto refundido de la Ley N° 18.892 y sus modificaciones; el D.F.L. N° 340, de 1960, D.S. N° 660, de 1960 y N° 476, de 1995, todos del Ministerio de Defensa Nacional;
+Núm. 49.- Santiago, 2 de febrero de 2009.- Visto: Lo dispuesto en el artículo 32 Nº 6 de la Constitución Política de la República; el D.F.L. Nº 5, de 1983; la Ley General de Pesca y Acuicultura Nº 18.892, y sus modificaciones, cuyo texto refundido fue fijado por el D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; los D.S. Nº 355, de 1995, Nº 572, de 2000, Nº 253, de 2002 y 357, de 2005, todos del Ministerio de Economía, Fomento y Reconstrucción.
 
-C o n s i d e r a n d o :
+Considerando:
 
-Que la Ley General de Pesca y Acuicultura ha establecido una medida de administración pesquera denominada áreas de manejo y explotación de recursos bentónicos.
+Que mediante el D.S. Nº 355, de 1995, modificado por D.S. Nº 572, de 2000, Nº 253, de 2002 y Nº 357, de 2005, todos del Ministerio de Economía, Fomento y Reconstrucción, se estableció el Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos.
 
-Que el artículo 48 letra d) de la Ley General de Pesca y Acuicultura prescribe que un reglamento determinará las condiciones y modalidades de los términos técnicos de referencia de los proyectos de manejo y explotación, las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud.
+Que resulta necesario modificar el Reglamento anteriormente señalado, con la finalidad de simplificar los procedimientos para los proyectos y planes de manejo, incorporando además la regulación de actividades complementarias dentro de ellos, y establecer mecanismos para el ejercicio de actividades pesqueras extractivas y de otra índole, dentro del área de manejo.
 
-Que las áreas de manejo de recursos bentónicos constituyen un instrumento idóneo para la conservación y aprovechamiento racional de los mismos y de colaboración de las organizaciones de pescadores artesanales con la administración pesquera.
+Decreto:
 
-D e c r e t o :
+#### Artículo único
 
-## Título I
+Modifícase el D.S. Nº 355, de 1995, Reglamento sobre Áreas de Manejo y Explotación de Recursos Bentónicos, modificado por D.S. Nº 572, de 2000, Nº 253, de 2002 y Nº 357, de 2005, todos del Ministerio de Economía, Fomento y Reconstrucción, en la forma que a continuación se indica:
 
-Disposiciones generales
+1.- Elimínase el artículo 2º, pasando el artículo 3º a ser 2º, el artículo 4º a ser 3º, el artículo 5º a ser 4º y el artículo 5º bis pasando a ser 5º.
 
-#### Artículo 1°
+2.- Reemplázase en el artículo 3º, que pasa a ser artículo 2º la frase "párrafo 1º del Título II" por la expresión "artículo 4º del presente reglamento".
 
-La medida de administración denominada Areas de Manejo y Explotación de Recursos Bentónicos consiste en la asignación de áreas determinadas a organizaciones de pescadores artesanales legalmente constituidas para su manejo y explotación, conforme a las disposiciones legales y reglamentarias pertinentes.
-
-#### Artículo 2°
-
-Eliminado
-
-#### Artículo 2°
-
-Las áreas de manejo y explotación de recursos bentónicos que se otorguen quedarán en todo caso, sujetas a las medidas de administración de los recursos hidrobiológicos consignadas en el artículo 4º del presente reglamento, como también a aquellas establecidas en el artículo 48 de la Ley General de Pesca y Acuicultura.
-
-#### Artículo 3°
-
-Para los efectos del presente Reglamento se entenderá por:
+3.- Reemplázase el artículo 4º, que pasa a ser artículo 3º, por el siguiente "Para los efectos del presente Reglamento se entenderá por:
 
 a) Recursos bentónicos: Corresponde a aquellos recursos hidrobiológicos integrados por aquellas especies de invertebrados bentónicos y algas.
 
@@ -64,21 +52,11 @@ o) Carta bentónica: Plano que define la localización y distribución espacial 
 
 p) "Ministerio": El Ministerio de Economía, Fomento y Reconstrucción; "Subsecretaría": la de Pesca; "Servicio": el Servicio Nacional de Pesca; SUBMARINA: Subsecretaría de Marina; DIRECTEMAR: Dirección General de Territorio Marítimo y Marina Mercante.
 
-## Título II
+4.- Elimínase en el artículo 5º, que pasa a ser artículo 4º su inciso 3º.
 
-Establecimiento de las áreas de manejo y explotación de recursos bentónicos
+5.- Reemplázase el artículo 5º bis, que pasa a ser artículo 5º, por el siguiente:
 
-#### Artículo 4°
-
-En la franja costera de las cinco millas que la ley reserva a la pesca artesanal, como en las aguas terrestres e interiores, podrán establecerse áreas de manejo y explotación de recursos bentónicos.
-
-Las áreas de manejo y explotación de recursos bentónicos se establecerán para cada una de las regiones, mediante Decreto Supremo del Ministerio de Economía, Fomento y Reconstrucción, previos informes técnicos de la Subsecretaría y del Consejo Zonal de Pesca respectivo.
-
-INCISO ELIMINADO.
-
-#### Artículo 5°
-
-Las organizaciones de pescadores artesanales legalmente constituidas podrán solicitar al Ministerio, el establecimiento de un área de manejo, mediante presentación a la Subsecretaría de los siguientes antecedentes:
+"Las organizaciones de pescadores artesanales legalmente constituidas podrán solicitar al Ministerio, el establecimiento de un área de manejo, mediante presentación a la Subsecretaría de los siguientes antecedentes:
 
 a) Certificado de vigencia de la o las organizaciones de pescadores artesanales.
 
@@ -92,101 +70,73 @@ Recibida la solicitud, si no existiere sobreposición con concesiones de acuicul
 
 Una vez recibida la consulta, el Consejo deberá consultar, dentro del plazo de 48 horas, a la Dirección Regional de Pesca y a la Corporación Nacional de Desarrollo Indígena, en su caso, con competencia en la zona geográfica donde se ubica el área de manejo solicitada. Además, deberá consultar a las organizaciones de pescadores artesanales domiciliadas en la comuna o comunas donde se emplaza el sector solicitado. Sin perjuicio de lo anterior, además podrá consultar a las instituciones u organizaciones que el Presidente del Consejo Zonal de Pesca estimare pertinentes.
 
-Todos los organismos consultados, señalados en el inciso anterior, deberán emitir sus respuestas dentro del plazo de un mes de efectuado el requerimiento. Transcurrido dicho término, y no habiéndose dado respuesta, el Consejo respectivo podrá prescindir del requerimiento efectuado, entendiéndose que existe una opinión favorable por parte del organismo consultado.
+Todos los organismos consultados, señalados en el inciso anterior, deberán emitir sus respuestas dentro del plazo de un mes de efectuado el requerimiento. Transcurrido dicho término, y no habiéndose dado respuesta, el Consejo respectivo podrá prescindir del requerimiento efectuado, entendiéndose que existe una opinión favorable por parte del organismo consultado.".
 
-#### Artículo 6°
+6.- Reemplázase el artículo 6º por el siguiente:
 
-Recibido el pronunciamiento del Consejo, la Subsecretaría remitirá la consulta a la Subsecretaría de Marina, para que informe fundadamente dentro del plazo de 3 meses desde recibido el requerimiento. En el pronunciamiento deberán explicitarse las posibles restricciones asociadas a las actividades que requieran utilizar la columna de agua al interior del área de manejo.
+"Recibido el pronunciamiento del Consejo, la Subsecretaría remitirá la consulta a la Subsecretaría de Marina, para que informe fundadamente dentro del plazo de 3 meses desde recibido el requerimiento. En el pronunciamiento deberán explicitarse las posibles restricciones asociadas a las actividades que requieran utilizar la columna de agua al interior del área de manejo.
 
-El Servicio deberá solicitar la destinación del área de manejo al Ministerio de Defensa Nacional dentro del plazo de 2 meses contado desde la fecha de publicación del respectivo decreto. El plazo para el pronunciamiento respecto de la destinación solicitada se regirá por lo establecido al efecto en el Reglamento de Concesiones Marítimas.
+El Servicio deberá solicitar la destinación del área de manejo al Ministerio de Defensa Nacional dentro del plazo de 2 meses contado desde la fecha de publicación del respectivo decreto. El plazo para el pronunciamiento respecto de la destinación solicitada se regirá por lo establecido al efecto en el Reglamento de Concesiones Marítimas.".
 
-#### Artículo 6° bis
+7.- Agréguese el siguiente artículo 6º bis:
 
-La solicitud a que se refiere el artículo anterior no otorga preferencia alguna a la o las organizaciones de pescadores artesanales que la efectúen, respecto de la asignación del área de manejo y explotación de recursos bentónicos que se establezca como resultado de la respectiva petición, debiendo someterse a lo dispuesto en el artículo 48 letra d) de la Ley y en los Títulos III y IV del presente reglamento.
+"La solicitud a que se refiere el artículo anterior no otorga preferencia alguna a la o las organizaciones de pescadores artesanales que la efectúen, respecto de la asignación del área de manejo y explotación de recursos bentónicos que se establezca como resultado de la respectiva petición, debiendo someterse a lo dispuesto en el artículo 48 letra d) de la Ley y en los Títulos III y IV del presente reglamento.".
 
-## Título III
+8.- Modifícase el artículo 7º en el siguiente sentido:
 
-Sujetos jurídicos destinatarios
+a) Sustitúyase en el inciso 2º la palabra "proyecto" por la frase "proyecto de manejo.".
 
-#### Artículo 7°
+b) Sustitúyase en el inciso 3º la frase "Ley General de Pesca y Acuicultura" por la palabra "Ley".
 
-Sólo podrán optar a las áreas de manejo las organizaciones de pescadores artesanales legalmente constituidas.
+9.- Sustitúyase en el artículo 8º la frase "registro artesanal" por la frase "Registro Pesquero Artesanal.".
 
-Dos o más organizaciones podrán solicitar una misma área de manejo. En este caso, deberán presentar conjuntamente la solicitud, manifestando expresamente en ella su voluntad de ejecutar conjuntamente el proyecto de manejo.
+10.- Reemplázase el enunciado del Título IV por el siguiente: "De la solicitud de asignación y su tramitación".
 
-De conformidad con el numeral 29 del artículo 2° de la Ley, las organizaciones de pescadores artesanales serán aquellas personas jurídicas compuestas exclusivamente por personas naturales inscritas como pescadores artesanales en los términos establecidos en el artículo 51 de esta misma ley.
+11.- Modifícase el artículo 9º en la siguiente forma:
 
-#### Artículo 8°
+a) Sustitúyase en el inciso 1º la frase "Servicio Nacional de Pesca" por la frase "Servicio, una vez dictado el decreto de destinación respectivo".
 
-Las personas jurídicas constituidas del modo antes descrito, deberán inscribirse como tales en el Registro Pesquero Artesanal.
+b) Sustitúyase en la letra b) del inciso 1º la palabra "socios" por la palabra "integrantes".
 
-## Título IV
+c) Reemplázase la letra c) del inciso 1º por la siguiente: "Lista de pescadores artesanales integrantes de la organización u organizaciones, identificados individualmente con su nombre, domicilio, cédula de identidad, categoría y número de inscripción en el Registro Pesquero Artesanal, caleta base y puerto de desembarque.".
 
-De la solicitud de asignación y su tramitación
+d) Reemplázase la letra e) del inciso por la siguiente: "Domicilio urbano para efecto de notificaciones de los actos administrativos respectivos. Asimismo la o las organizaciones de pescadores artesanales podrán fijar una casilla de correos, dirección en el radio urbano o casilla electrónica, con el objeto de dar aviso de la existencia de una notificación de los actos administrativos respectivos.".
 
-#### Artículo 9°
+e) Agréguese la siguiente letra f): "Copia autorizada del contrato suscrito con la institución ejecutora para la realización del proyecto de manejo y explotación del área.".
 
-La solicitud para la obtención de un área de manejo deberá presentarse por escrito al Servicio, una vez dictado el decreto de destinación respectivo, firmada por los representantes legales de la respectiva organización u organizaciones de pescadores artesanales; en ésta deberán proporcionarse los siguientes antecedentes:
+12.- Modifícase el artículo 11 en la siguiente forma:
 
-a) Copia autorizada de los estatutos de la organización u organizaciones de pescadores artesanales.
+a) Sustitúyase en el inciso 2º la frase "luego, de la formulación de un plan de manejo y explotación" por la expresión "en base a este, de una propuesta de plan de manejo y explotación.".
 
-b) Certificado de vigencia de la personalidad jurídica que acredite además, el número de integrantes de la organización u organizaciones.
+b) Reemplázase el inciso 3º por el siguiente: "La o las organizaciones deberán entregar a la Subsecretaría, dentro del plazo de ocho meses contados desde el tercer día hábil del despacho por correo certificado de la resolución a que se refiere el inciso primero, el proyecto de manejo desarrollado de conformidad con lo dispuesto en el Título V del presente reglamento.".
 
-c) Lista de pescadores artesanales integrantes de la organización u organizaciones, identificados individualmente con su nombre, domicilio, cédula de identidad, categoría y número de inscripción en el Registro Pesquero Artesanal, caleta base y puerto de desembarque.
+c) Elimínase el inciso 4º.
 
-d) Copia autorizada del Rol Único Tributario (R.U.T.) de la o las organizaciones de pescadores artesanales. En caso que el área sea solicitada por más de una organización, se deberá indicar aquella que será responsable del pago de la patente.
+d) Reemplázase el inciso 5º por el siguiente: "El plazo a que se refiere el inciso anterior podrá prorrogarse, por una sola vez, por un término máximo de tres meses. Para estos efectos el titular deberá presentar ante la Subsecretaría una solicitud fundada mientras se encuentre vigente el plazo señalado en el inciso tercero."
 
-e) Domicilio urbano para efecto de notificaciones de los actos administrativos respectivos. Asimismo la o las organizaciones de pescadores artesanales podrán fijar una casilla de correos, dirección en el radio urbano o casilla electrónica, con el objeto de dar aviso de la existencia de una notificación de los actos administrativos respectivos.
+e) Reemplázase el inciso 7º por el siguiente: "Transcurrido el plazo o la prórroga en su caso, sin que se hubiere ingresado en la Subsecretaría el proyecto de manejo, quedará sin efecto la resolución a que se refiere el inciso 1º del presente artículo. Un extracto de dicha resolución se publicará en el Diario Oficial por cuenta de la Subsecretaría."
 
-f) Copia autorizada del contrato suscrito con la institución ejecutora para la realización del proyecto de manejo y explotación del área.
-
-#### Artículo 10°
-
-El Servicio verificará el cumplimiento de cada uno de los antecedentes exigidos en el artículo anterior, dentro de un plazo de 15 días hábiles y remitirá los mismos a la Subsecretaría o los devolverá a la organización u organizaciones con las observaciones que corresponda.
-
-#### Artículo 11°
-
-Si la solicitud cumple con todos los antecedentes a que se refiere el artículo 9º, la Subsecretaría, dentro del plazo de 10 días contados desde su recepción, dictará una resolución autorizando a la o las organizaciones para realizar un proyecto de manejo y explotación en el área solicitada.
-
-El proyecto de manejo y explotación constará de una etapa de estudio de la situación base del área y en base a este, de una propuesta de plan de manejo y explotación.
-
-La o las organizaciones deberán entregar a la Subsecretaría, dentro del plazo de ocho meses contados desde el tercer día hábil del despacho por correo certificado de la resolución a que se refiere el inciso primero, el proyecto de manejo desarrollado de conformidad con lo dispuesto en el Título V del presente reglamento.
-
-INCISO ELIMINADO.
-
-El plazo a que se refiere el inciso anterior podrá prorrogarse, por una sola vez, por un término máximo de tres meses. Para estos efectos el titular deberá presentar ante la Subsecretaría una solicitud fundada mientras se encuentre vigente el plazo señalado en el inciso tercero.
-
-La Subsecretaría se pronunciará mediante resolución, autorizando o denegando la prórroga solicitada.
-
-Transcurrido el plazo o la prórroga en su caso, sin que se hubiere ingresado en la Subsecretaría el proyecto de manejo, quedará sin efecto la resolución a que se refiere el inciso 1º del presente artículo. Un extracto de dicha resolución se publicará en el Diario Oficial por cuenta de la Subsecretaría.
-
-#### Artículo 12°
-
-La Subsecretaría deberá aprobar o rechazar el proyecto de manejo y explotación, en el plazo de dos meses, a contar de la fecha de ingreso de este informe a la Subsecretaría.
+13.- Reemplázase el artículo 12 por el siguiente: "La Subsecretaría deberá aprobar o rechazar el proyecto de manejo y explotación, en el plazo de dos meses, a contar de la fecha de ingreso de este informe a la Subsecretaría.
 
 En el evento que la Subsecretaría apruebe el proyecto de manejo y explotación, dictará una resolución en tal sentido, remitiendo copia de ella al Servicio. Dicha resolución deberá indicar las actividades autorizadas a realizar en el área de manejo, de conformidad con lo dispuesto en el presente Reglamento, durante el período comprendido entre la fecha de esta resolución y aquella en que venza el plazo para entregar el informe de seguimiento.
 
 En el evento que la Subsecretaría rechace el proyecto de manejo, la o las respectivas organizaciones tendrán un plazo de hasta 6 meses para presentar un nuevo informe a contar de la fecha de la resolución de rechazo. La Subsecretaría tendrá dos meses para aprobar o rechazar este nuevo informe.
 
-En el caso que se rechace por segunda vez el proyecto de manejo y explotación, la Subsecretaría dictará una resolución fundada en tal sentido, y dejará sin efecto la resolución a que se refiere el inciso 1º del artículo anterior.
+En el caso que se rechace por segunda vez el proyecto de manejo y explotación, la Subsecretaría dictará una resolución fundada en tal sentido, y dejará sin efecto la resolución a que se refiere el inciso 1º del artículo anterior.".
 
-#### Artículo 13°
-
-En el plazo de tres meses contados desde la notificación del decreto de destinación marítima respectivo y habiendo sido ejecutoriada la resolución que aprobó el proyecto de manejo y explotación para el área solicitada, el Servicio deberá celebrar un convenio de uso con la o las organizaciones titulares.
+14.- Reemplázase el artículo 13 por el siguiente: "En el plazo de tres meses contados desde la notificación del decreto de destinación marítima respectivo y habiendo sido ejecutoriada la resolución que aprobó el proyecto de manejo y explotación para el área solicitada, el Servicio deberá celebrar un convenio de uso con la o las organizaciones titulares.
 
 El convenio de uso constituirá el título de uso de la respectiva área de manejo y explotación de recursos bentónicos y tendrá una vigencia de hasta 4 años, pero no podrá en ningún caso exceder el plazo de vigencia de la respectiva destinación, sin perjuicio de estar afecto a las causales de caducidad establecidas en artículo 144 de la Ley y en el artículo 21 del presente Reglamento. El citado convenio deberá incorporar dentro de sus causales de caducidad lo establecido en la Ley de Concesiones Marítimas y su reglamento respectivo.
 
 Si el convenio de uso no se celebrare dentro del plazo señalado en el inciso primero, por un hecho imputable a la o las organizaciones titulares, la Subsecretaría mediante resolución fundada, dejará sin efecto la resolución a que se refiere el inciso 1º del artículo 11, la que aprobó el proyecto de manejo y explotación, y los informes de seguimiento, en su caso.
 
-En el caso que, de conformidad con lo establecido en la Ley de Concesiones Marítimas y su reglamento, la destinación marítima no sea otorgada por el Ministerio de Defensa Nacional, deberán dejarse sin efecto los actos administrativos que correspondan y se procederá a la desafectación del área de manejo.
+En el caso que, de conformidad con lo establecido en la Ley de Concesiones Marítimas y su reglamento, la destinación marítima no sea otorgada por el Ministerio de Defensa Nacional, deberán dejarse sin efecto los actos administrativos que correspondan y se procederá a la desafectación del área de manejo."
 
-## Título V
+15.- Elimínanse los artículos 14 y 15, pasando el artículo 16 a ser 14.
 
-Del contenido de los proyectos y planes de manejo y explotación.
+16.- Reemplázase el enunciado del Título V por el siguiente: "Del contenido de los proyectos y planes de manejo y explotación.".
 
-#### Artículo 14°
-
-Los planes de manejo y explotación deberán cumplir con los siguientes requisitos generales:
+17.- Reemplázase el artículo 16, que pasa ser artículo 14, por el siguiente: "Los planes de manejo y explotación deberán cumplir con los siguientes requisitos generales:
 
 a) El área solicitada deberá ser de aquellas que el Ministerio haya determinado para estos fines, de acuerdo a lo establecido en el artículo 6º.
 
@@ -204,11 +154,11 @@ f) No podrá contemplar la eliminación de ejemplares de especies secundarias o 
 
 No obstante lo anterior, se podrán establecer cuotas o criterios de remoción o traslado de estas especies, como parte de un estudio específico.
 
-g) Podrá contemplar el desarrollo de actividades de acuicultura de acuerdo al Reglamento de Actividades de Acuicultura en áreas de manejo y explotación de recursos bentónicos.
+g) Podrá contemplar el desarrollo de actividades de acuicultura de acuerdo al Reglamento de Actividades de Acuicultura en áreas de manejo y explotación de recursos bentónicos.".
 
-#### Artículo 15°
+18.- Elimínase el artículo 17, pasando el artículo 18 a ser el 15 y el artículo 19 a ser 16.
 
-El estudio de situación base del área, deberá contener:
+19.- Reemplázase el artículo 18, que pasa ser artículo 15, por el siguiente: "El estudio de situación base del área, deberá contener:
 
 1. Antecedentes generales del área.
 
@@ -286,33 +236,19 @@ d) Descripción socioeconómica de la organización
 
 solicitante y de la localidad en que se inserta.
 
-5. Fuentes y montos del financiamiento utilizado.
+5. Fuentes y montos del financiamiento utilizado.".
 
-#### Artículo 16°
+20.- Modifícase el artículo 19, que pasa ser artículo 16, en la siguiente forma:
 
-El plan de manejo y explotación del área deberá indicar:
+a) En el inciso 1º, letra d) sustitúyase la palabra "cosecha" por la palabra "extracción".
 
-a) Objetivos principales y secundarios del plan.
+b) Reemplázase la letra f) por la siguiente: "Fuentes y montos del financiamiento para el desarrollo del plan de manejo propuesto.".
 
-b) Proposición metodológica detallada, técnicamente fundamentada en los resultados del estudio de la situación base del área, indicando los estudios que se realizarán para sustentar el plan de manejo y explotación del área solicitada.
+c) Elimínase del inciso 1º, la letra g).
 
-c) Descripción y justificación de las acciones que se pretende realizar para sustentar la productividad de la o las especies principales.
+21.- Agréguese un nuevo artículo 16 bis: "Durante la ejecución del plan de manejo y explotación, la o las organizaciones titulares podrán solicitar directamente a la Subsecretaría modificaciones al mismo, las que deberán ser aprobadas o rechazadas mediante resolución.".
 
-d) Proposición de un programa de explotación anual del área, especificando la modalidad y períodos de extracción, así como los criterios de explotación mediante los cuales se determinarán las cantidades de la especie principal a extraer anualmente. Dichos criterios de explotación aprobados en el plan de manejo se verificarán mediante las resoluciones de la Subsecretaría que aprueben de la extracción de recursos bentónicos que se propongan por la organización u organizaciones.
-
-e) Programa de actividades y su cronograma de ejecución.
-
-f) Fuentes y montos del financiamiento para el desarrollo del plan de manejo propuesto.
-
-g) ELIMINADA.
-
-#### Artículo 16 bis
-
-Durante la ejecución del plan de manejo y explotación, la o las organizaciones titulares podrán solicitar directamente a la Subsecretaría modificaciones al mismo, las que deberán ser aprobadas o rechazadas mediante resolución.
-
-#### Artículo 17
-
-El plan de manejo y explotación deberá contemplar la presentación de informes de seguimiento anuales, los cuales serán evaluados por la Subsecretaría, y deberán ser efectuados por la institución ejecutora contratada por la organización u organizaciones titulares.
+22.- Reemplázase el artículo 19º bis, que pasa ser artículo 17, por el siguiente: "El plan de manejo y explotación deberá contemplar la presentación de informes de seguimiento anuales, los cuales serán evaluados por la Subsecretaría, y deberán ser efectuados por la institución ejecutora contratada por la organización u organizaciones titulares.
 
 El informe de resultados del seguimiento deberá incluir:
 
@@ -330,9 +266,11 @@ f) Acciones de manejo y explotación propuestas para el próximo período.
 
 g) Programa de actividades y cronograma.
 
-h) Fuentes y montos del financiamiento para actividades desarrolladas y propuestas.
+h) Fuentes y montos del financiamiento para actividades desarrolladas y propuestas."
 
-#### Artículo 18°
+23.- Intercálase entre el artículo 19º bis, que pasa a ser artículo 17 y el artículo 20 los siguientes artículos 18, 19, 20 y 21, pasando el artículo 20 a ser 22:
+
+#### Artículo 18
 
 La Subsecretaría aprobará o rechazará el informe de seguimiento del plan de manejo y explotación del área mediante resolución.
 
@@ -340,7 +278,7 @@ En caso que existieren observaciones al informe de seguimiento presentado, la Su
 
 Si el titular no subsanare las observaciones dentro de plazo, el informe de seguimiento deberá ser rechazado mediante resolución fundada y se tendrá por no presentado para los efectos del artículo 21 del presente Reglamento.
 
-#### Artículo 19°
+#### Artículo 19
 
 La entrega de los informes de seguimiento de un área de manejo, podrá entrar en régimen bienal, mediante solicitud a la Subsecretaría, consignando este requerimiento en el informe de seguimiento que corresponda, exclusivamente cuando se cumplan los siguientes requisitos:
 
@@ -354,7 +292,7 @@ d) Patente del área de manejo al día.
 
 Aquellas áreas de manejo en régimen de entrega bienal de sus seguimientos, cuyos informes sean rechazados o no cumplan con la entrega dentro de plazo, deberán retornar al régimen anual de entrega de informes.
 
-#### Artículo 20°
+#### Artículo 20
 
 El plazo de entrega de los informes de seguimiento en cualquiera de sus modalidades podrá prorrogarse, por una sola vez, por un término máximo de tres meses. Para estos efectos el titular deberá presentar ante la Subsecretaría una solicitud fundada mientras se encuentre vigente el plazo señalado por resolución.
 
@@ -368,11 +306,11 @@ Con todo, en caso de que la autoridad declarare una situación o estado de catá
 
 En el mismo caso, la Subsecretaría podrá autorizar, mediante resolución fundada, a las organizaciones de pescadores artesanales titulares de un área de manejo, llevar a cabo acciones de manejo no contempladas en los citados proyectos o en los respectivos informes de seguimiento que les hubieren sido aprobados, sin necesidad de que los interesados acrediten el cumplimiento de los requisitos correspondientes, ello, siempre que la mencionada autoridad cuente con información biológica suficiente que permita la ejecución de la acción de manejo solicitada.
 
-#### Artículo 22
+24.- Modifícase el artículo 20, que pasa ser artículo 22, por el siguiente: "La información contenida en los proyectos y planes de manejo, incluidas las bases de datos originales empleadas para la elaboración de los informes, deberá ser presentada y entregada a la Subsecretaría, de acuerdo a los formatos establecidos por resolución de ésta y será usada con fines de administración y desarrollo pesquero, con carácter confidencial, salvo que la organización u organizaciones autoricen su difusión.
 
-La información contenida en los proyectos y planes de manejo, incluidas las bases de datos originales empleadas para la elaboración de los informes, deberá ser presentada y entregada a la Subsecretaría, de acuerdo a los formatos establecidos por resolución de ésta y será usada con fines de administración y desarrollo pesquero, con carácter confidencial, salvo que la organización u organizaciones autoricen su difusión.
+La Subsecretaría remitirá copia de las resoluciones que dicte de conformidad con el presente Reglamento al Servicio Nacional de Pesca, a la Subsecretaría de Marina del Ministerio de Defensa Nacional y a la Dirección General de Territorio Marítimo y Marina Mercante.".
 
-La Subsecretaría remitirá copia de las resoluciones que dicte de conformidad con el presente Reglamento al Servicio Nacional de Pesca, a la Subsecretaría de Marina del Ministerio de Defensa Nacional y a la Dirección General de Territorio Marítimo y Marina Mercante.
+25.- Agrégase el siguiente Título VI, reemplazándose íntegramente los actuales Títulos VI, VII y VIII, que pasan a ser VII, VIII y IX respectivamente, por lo siguiente:
 
 ## Título VI
 
@@ -436,7 +374,7 @@ a) Ubicación geográfica y superficie del polígono que contendrá las estructu
 
 b) Período de permanencia en el agua de los colectores y estructuras de soporte, el cual no podrá ser superior a 8 meses. Al término del período autorizado, se deberán retirar los colectores y las estructuras de soporte, pudiendo mantenerse las estructuras de anclaje debidamente señalizadas para su reutilización.
 
-c) Fuentes y montos del financiamiento.
+c) Fuentes y montos del financiamiento."
 
 ## Título VII
 
@@ -480,7 +418,7 @@ Si la renuncia cumple con los requisitos antes señalados, la Subsecretaría dic
 
 ## Título VIII
 
-De las instituciones ejecutoras
+De las Instituciones Ejecutoras
 
 #### Artículo 31
 
@@ -516,24 +454,22 @@ Las actividades de pesca extractiva señaladas en el presente título sólo podr
 
 Asimismo, estas actividades no podrán llevarse a efecto durante la ejecución de las faenas de evaluación directa previstas en el cronograma del plan de manejo respectivo cuya ejecución haya sido previamente informada al Servicio.
 
-TITULO FINAL
+26.- Modifícase el Título Final en la forma que a continuación se indica:
 
-#### Artículo 37
+a) Los artículos 30, 31 y 32, pasan a ser los artículos 37, 38 y 39 respectivamente.
 
-Las organizaciones de pescadores artesanales titulares de un área de manejo deberán informar al Servicio las actividades pesqueras extractivas de recursos bentónicos de acuerdo a las disposiciones establecidas para estos efectos.
+b) Reemplázase el artículo 30, que pasa ser artículo 37, por el siguiente:
 
-#### Artículo 38
+"Las organizaciones de pescadores artesanales titulares de un área de manejo deberán informar al Servicio las actividades pesqueras extractivas de recursos bentónicos de acuerdo a las disposiciones establecidas para estos efectos".
 
-La fiscalización e inspección de la ejecución de los estudios y planes de manejo y explotación corresponderán al Servicio.
+c) Reemplázase en el artículo 31, que pasa a ser artículo 38, la frase "Servicio Nacional de Pesca, el que deberá informar periódicamente a la Subsecretaría de Pesca" por la palabra "Servicio".
 
-#### Artículo 39
-
-Déjase sin efecto los Decretos Supremos N° 34 y N° 174, ambos de 1995, del Ministerio de Economía, Fomento y Reconstrucción, sin tramitar.
+27.- Agrégase la siguiente disposición transitoria:
 
 #### Artículo transitorio
 
-Durante un plazo de un año, a contar de la publicación en el Diario Oficial del presente Reglamento, la o las organizaciones titulares de un área de manejo, podrán entrar en régimen bienal para la entrega de informes de seguimiento, mediante solicitud a la Subsecretaría que incluya los antecedentes establecidos en el artículo 19 del presente reglamento.
+Durante un plazo de un año, a contar de la publicación en el Diario Oficial del presente Reglamento, la o las organizaciones titulares de un área de manejo, podrán entrar en régimen bienal para la entrega de informes de seguimiento, mediante solicitud a la Subsecretaría que incluya los antecedentes establecidos en el artículo 19 del presente reglamento".
 
-Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.
+Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Juan Manuel Cruz Sánchez, Subsecretario de Pesca Subrogante.
+Lo que transcribe para su conocimiento.- Saluda atentamente a Ud., Jorge Chocair Santibáñez, Subsecretario de Pesca.
