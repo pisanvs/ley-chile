@@ -12,7 +12,13 @@ Autorízase a Polla Chilena de Beneficencia S.A., para que, derivado de los Sist
 
 El sorteo de números a que alude el artículo anterior consistirá en la extracción, sin reposición, de a lo más 20 bolillas de una tómbola, en la cual se han introducido previamente un total de 20, o 21, o 22, o 23, o 24, o 25, o 26, o 27, o 28, o 29, o 30, o 31, o 32, o 33, o 34, o 35, o 36, o 37, o 38, o 39, o 40, o 41, o 42, o 43, o 44, o 45, o 46, o 47, o 48, o 49, o 50, o 51, o 52, o 53, o 54, o 55, o 56, o 57, o 58, o 59, o 60, o 61, o 62, o 63, o 64, o 65, o 66, o 67, o 68, o 69, o 70, o 71, o 72, o 73, o 74, o 75, o 76, o 77, o 78, o 79, o 80, o 81, o 82, o 83, o 84, o 85, o 86, o 87, o 88, o 89, o 90 bolillas, según lo determine Polla Chilena de Beneficencia S.A., numeradas correlativamente del 1 al 20, o 21, o 22, o 23, o 24, o 25, o 26, o 27, o 28, o 29, o 30, o 31, o 32, o 33, o 34, o 35, o 36, o 37, o 38, o 39, o 40, o 41, o 42, o 43, o 44, o 45, o 46, o 47, o 48, o 49, o 50, o 51, o 52,o 53, o 54, o 55, o 56, o 57, o 58, o 59, o 60, o 61, o 62, o 63, o 64, o 65, o 66, o 67, o 68, o 69, o 70, o 71, o 72, o 73, o 74, o 75, o 76, o 77, o 78, o 79, o 80, o 81, o 82, o 83, o 84, o 85, o 86, o 87, o 88, o 89, o 90 según corresponda. Sin perjuicio de lo anterior, según lo determine Polla Chilena de Beneficencia S.A., a las bolillas numeradas de la manera señalada se les podrá asignar una figura o símbolo diferente para cada una, y, en tal caso, éstas llevarán adheridas además un logo o etiqueta con la respectiva figura que la identifique. Para determinar los ganadores de las diversas categorías de premios, no se considerará el orden de extracción de los números sorteados, sino la coincidencia entre éstos y los que señalen los registros de las apuestas en el sistema informático de captación de apuestas de Polla Chilena de Beneficencia y los documentos, recibos o respaldos emitidos por ésta en su caso.
 
-INCISO SUPRIMIDO
+INCISO SUPRIMIDO.
+
+Asimismo, el sorteo de números podrá efectuarse a través de la selección aleatoria efectuada por el sistema informático de Polla Chilena de Beneficencia S.A.
+
+Para tal efecto, el sistema que se utilice para efectuar la selección aleatoria de números deberá ser validado por alguno de los laboratorios certificadores acreditados por la Superintendencia de Casinos de Juego de Chile, para la homologación de las máquinas de azar. Este laboratorio efectuará su validación en forma previa al inicio de la operación del sistema sobre aspectos como idoneidad, funcionalidad e inviolabilidad. Este sistema deberá ser auditado y certificado mediante una inspección o examen anual por alguno cualesquiera de los laboratorios acreditados ante la Superintendencia de Casinos de Juego. Polla Chilena de Beneficencia S.A. deberá remitir una copia de dicho informe al Ministerio de Hacienda en cada oportunidad.
+
+Polla Chilena de Beneficencia S.A. determinará en un plazo de 30 días contados desde que se encuentre implementado el sistema informático, si el sorteo se efectúa mediante la modalidad de extracción desde una tómbola o mediante la selección aleatoria de números a través de dicho sistema, pudiendo establecer una u otra en forma separada, lo que se comunicará al público con una anticipación no inferior a 7 días anteriores a la fecha en que efectúe el sorteo correspondiente, por los medios que estime convenientes. En caso que se cambie la modalidad del sorteo adoptado, se comunicará dicho cambio al público con una anticipación no inferior a 7 días anteriores a la fecha en que se efectúe el sorteo correspondiente, por los medios que estime convenientes.
 
 Los apostadores podrán participar en los sorteos de números señalados en los incisos precedentes, mediante dos modalidades que podrán coexistir conjuntamente:
 
@@ -44,15 +50,17 @@ INCISOS 5º a 12º SUPRIMIDOS
 
 #### Artículo 4º
 
-Serán ganadores aquellos documentos o cartones que hayan completado la coincidencia de a lo más la totalidad de números pronosticados o pre-impresos con cualquiera de los números extraídos de la tómbola. Polla Chilena de Beneficencia S.A. determinará la o las categorías de apuestas, documentos o cartones ganadores, cuyas denominaciones o "nombres de fantasía" serán determinados por ella. Determinará, además, el orden de importancia o jerarquía de las mismas.
+Serán ganadores aquellos documentos o cartones que hayan completado la coincidencia de a lo más la totalidad de números pronosticados o pre-impresos con cualquiera de los números extraídos de la tómbola o seleccionados aleatoriamente por el sistema informático de Polla Chilena de Beneficencia S.A.. Polla Chilena de Beneficencia S.A. determinará la o las categorías de apuestas, documentos o cartones ganadores, cuyas denominaciones o "nombres de fantasía" serán determinados por ella. Determinará, además, el orden de importancia o jerarquía de las mismas.
 
-En caso de haberse efectuado la extracción de las bolillas sin que se hubiesen producido ganadores en alguna categoría, el monto del pozo de premios asignado a la categoría respectiva se sumará al de la misma categoría del sorteo siguiente, y así sucesivamente, hasta que hubiere ganadores; o bien se distribuirá entre las demás categorías de premios, según lo determine Polla Chilena con anticipación al respectivo sorteo.
+En caso de haberse efectuado la extracción de las bolillas o la selección aleatoria de los números efectuada por el sistema informático de Polla Chilena de Beneficencia S.A. sin que se hubiesen producido ganadores en alguna categoría, el monto del pozo de premios asignado a la categoría respectiva se sumará al de la misma categoría del sorteo siguiente, y así sucesivamente, hasta que hubiere ganadores; o bien se distribuirá entre las demás categorías de premios, según lo determine Polla Chilena con anticipación al respectivo sorteo.
 
 Corresponderá a Polla Chilena de Beneficencia S.A. determinar la distribución entre las categorías de premios precedentes del porcentaje destinado a premios por el artículo 90 de la ley Nº 18.768, pudiendo, en todo caso, establecer montos fijos para los ganadores individuales de una o más categorías.
 
 El establecimiento de premios fijos en ningún caso podrá significar la trasgresión de lo dispuesto en materia de porcentaje destinado a premios en el citado artículo 90 de la ley Nº 18.768.
 
 Con todo, ninguno de los montos individuales de premios de una categoría de menor importancia puede resultar superior al de una categoría de mayor importancia. En tal evento, el monto destinado a premios de las respectivas categorías se sumará para repartir por partes iguales entre el total de ganadores de ambas. Si a pesar de estas sumas los premios de las dos categorías resultasen de un monto inferior que otra categoría de menor importancia, se sumará el monto destinado a las tres categorías para repartirlo por partes iguales entre todos los acertantes de ellas, y así sucesivamente.
+
+Polla Chilena de Beneficencia S.A. estará facultada para establecer en estos sorteos categorías de premiación en las cuales resulten ganadores documentos, recibos o respaldos sin que sea requisito que exista coincidencia con los números sorteados.
 
 #### Artículo 5º
 
@@ -96,9 +104,9 @@ La apuesta que no ha llegado a perfeccionarse por faltar alguno de los requisito
 
 6) Serán excluidas del sorteo las apuestas cuyos registros computacionales presenten errores de cualquier naturaleza que impidan o dificulten su procesamiento, las que contengan una cantidad de pronósticos mayores que los autorizados y aquellas que, por cualquier causa, no hubieren sido entregadas a Polla Chilena de Beneficencia S.A. dentro de los plazos y horarios que ésta determine.
 
-7) Existirá un registro de Apuestas Excluidas de cada sorteo, en caso de haberlas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se certificará por el Notario ante quien se celebre el sorteo.
+7) Existirá un registro de Apuestas Excluidas de cada sorteo, en caso de haberlas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se certificará por el Notario ante quien se celebre el sorteo, en el caso que Polla Chilena de Beneficencia S.A. hubiera optado por efectuarlo mediante la extracción de bolillas numeradas desde una tómbola.
 
-Se emitirá un Listado de Apuestas Excluidas, el que las identificará con las menciones que Polla Chilena de Beneficencia S..A. determine. Esta información se consignará en un Acta Notarial.
+Se emitirá un Listado de Apuestas Excluidas, el que las identificará con las menciones que Polla Chilena de Beneficencia S..A. determine. Esta información se consignará en un Acta Notarial, en el caso que Polla Chilena de Beneficencia S.A. hubiera optado por efectuarlo mediante la extracción de bolillas numeradas desde una tómbola.
 
 Polla Chilena de Beneficencia S.A. dará a conocer al público, en la forma que ella determine, la cantidad e individualización de las apuestas excluidas.
 
@@ -132,11 +140,11 @@ Los sorteos serán públicos y se realizarán en el lugar, día y hora que Polla
 
 #### Artículo 8º
 
-En cada sorteo actuará como Ministro de Fe un Notario Público, el que deberá intervenir, además, en las labores de supervisión previa a la realización del sorteo, tales como la revisión de las bolillas numeradas que correspondan y la colocación de ellas en la tómbola.
+En el caso que Polla Chilena de Beneficencia S.A. hubiere optado por la modalidad de extracción de bolillas numeradas desde una tómbola, en dicho sorteo actuará como Ministro de Fe un Notario Público, el que deberá intervenir, además, en las labores de supervisión previa a la realización del sorteo, tales como la revisión de las bolillas numeradas que correspondan y la colocación de ellas en la tómbola.
 
 #### Artículo 9º
 
-El día fijado para la realización de los sorteos y una vez que el Notario Público verifique que se han introducido las bolillas que corresponda, según lo determine Polla Chilena de Beneficencia S.A., debidamente numeradas en forma correlativa, se procederá a la extracción aleatoria que representen la series ganadoras.
+Si el sorteo se llevara a cabo conforme a la modalidad señalada en el artículo anterior, el día fijado para la realización del sorteo, y una vez que el Notario Público verifique que se han introducido las bolillas que corresponda, según lo determine Polla Chilena de Beneficencia S.A., debidamente numeradas en forma correlativa, se procederá a la extracción aleatoria que representen las series ganadoras.
 
 #### Artículo 10º
 
@@ -144,7 +152,9 @@ El premio asignado a cada apuesta que resulte ganadora dentro de su categoría s
 
 #### Artículo 11º
 
-Terminado el sorteo, se levantarán las actas notariales del sorteo principal, en las cuales deberán constar: a) Monto de los premios correspondientes a cada
+Terminado el sorteo, se levantarán las actas del sorteo principal, en las cuales deberán constar:
+
+a) Monto de los premios correspondientes a cada
 
 categoría de ganadores.
 
@@ -155,6 +165,8 @@ c) Número de ganadores por cada categoría.
 d) Cualquier otra circunstancia que se estime
 
 necesario consignar.
+
+En el caso que Polla Chilena de Beneficencia S.A. hubiere optado por la modalidad de extracción de bolillas numeradas desde una tómbola, el Notario Público deberá certificar las actas precedentemente señaladas.
 
 #### Artículo 12º
 
