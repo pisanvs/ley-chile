@@ -14,21 +14,29 @@ El sorteo de números a que alude el artículo anterior, consistirá en extraer 
 
 El sorteo, si así lo determina Polla Chilena de Beneficencia S.A., podrá efectuarse también con otra modalidad, mediante el sistema de conformación dígito a dígito del número, con la sola condición de que todos los números de la serie tengan la misma probabilidad de ser extraídos.
 
+Asimismo, el sorteo de números podrá efectuarse a través de la selección aleatoria efectuada por el sistema informático de Polla Chilena de Beneficencia S.A.
+
+Para tal efecto, el sistema que se utilice para efectuar la selección aleatoria de números deberá ser validado por alguno de los laboratorios certificadores acreditados por la Superintendencia de Casinos de Juego de Chile, para la homologación de las máquinas de azar. Este laboratorio efectuará su validación en forma previa al inicio de la operación del sistema sobre aspectos como idoneidad, funcionalidad e inviolabilidad. Este sistema deberá ser auditado y certificado mediante una inspección o examen anual por alguno cualesquiera de los laboratorios acreditados ante la Superintendencia de Casinos de Juego. Polla Chilena de Beneficencia S.A. deberá remitir una copia de dicho informe al Ministerio de Hacienda en cada oportunidad.
+
+Polla Chilena de Beneficencia S.A. determinará, en un plazo de 30 días contados desde que se encuentre implementado el sistema informático, si el sorteo se efectúa mediante la modalidad de extracción desde una tómbola o mediante la selección aleatoria de números a través de dicho sistema, pudiendo establecer una u otra en forma separada, lo que se comunicará al público con una anticipación no inferior a 7 días anteriores a la fecha en que efectúe el sorteo correspondiente, por los medios que estime convenientes. En caso que se cambie la modalidad del sorteo adoptado, se comunicará dicho cambio al público con una anticipación no inferior a 7 días anteriores a la fecha en que se efectúe el sorteo correspondiente, por los medios que estime convenientes.
+
 #### Artículo 3º
 
-Polla Chilena de Beneficencia S.A., determinará con la debida anticipación, las apuestas que podrá efectuar el público, respecto al número que se extraerá, conforme al artículo anterior. Las modalidades de las apuestas podrán ser las siguientes:
+Polla Chilena de Beneficencia S.A., determinará con la debida anticipación, las apuestas que podrá efectuar el público, respecto al número que se extraerá o seleccionará, conforme al artículo anterior. Las modalidades de las apuestas podrán ser las siguientes:
 
-a) Pronosticar exactamente el número extraído, tanto sus dígitos como su precisa posición dentro de él.
+a) Pronosticar exactamente el número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A., tanto sus dígitos como su precisa posición dentro de él.
 
-b) Pronosticar los dígitos que conformarán el número extraído, sin importar su posición.
+b) Pronosticar los dígitos que conformarán el número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A., sin importar su posición.
 
-c) Pronosticar cuáles serán los dos últimos dígitos del número extraído, con la exacta posición de cada uno de ellos.
+c) Pronosticar cuáles serán los dos últimos dígitos del número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A., con la exacta posición de cada uno de ellos.
 
-d) Pronosticar cuáles serán los dos primeros dígitos del número extraído, con la exacta posición de ellos.
+d) Pronosticar cuáles serán los dos primeros dígitos del número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A., con la exacta posición de ellos.
 
-e) Pronosticar cuáles serán, exactamente, el primer y último dígito del número extraído.
+e) Pronosticar cuáles serán, exactamente, el primer y último dígito del número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A..
 
-f) Pronosticar para un dígito escogido, su exacta posición en el número extraído.
+f) Pronosticar para un dígito escogido, su exacta posición en el número extraído o seleccionado por el sistema informático de Polla Chilena de Beneficencia S.A..
+
+Polla Chilena de Beneficencia S.A. estará facultada para establecer en estos sorteos categorías de premiación en las cuales resulten ganadores documentos, recibos o respaldos sin que sea requisito que exista coincidencia con los números sorteados.
 
 #### Artículo 4º
 
@@ -84,9 +92,9 @@ La apuesta que no ha llegado a perfeccionarse por faltar alguno de los requisito
 
 6) Serán excluidas del sorteo las apuestas cuyos registros computacionales presenten errores de cualquier naturaleza que impidan o dificulten su procesamiento, las que contengan una cantidad de pronósticos mayores que los autorizados y aquellas que, por cualquier causa, no hubieren sido entregadas a Polla Chilena de Beneficencia S.A. dentro de los plazos y horarios que ésta determine.
 
-7) Existirá un registro de Apuestas Excluidas de cada sorteo, en caso de haberlas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se certificará por el Notario ante quien se celebre el sorteo.
+7) Existirá un registro de Apuestas Excluidas de cada sorteo, en caso de haberlas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se certificará por el Notario ante quien se celebre el sorteo, en el caso que Polla Chilena de Beneficencia S.A. hubiera optado por efectuarlo mediante la extracción de bolillas numeradas desde una tómbola.
 
-Se emitirá un Listado de Apuestas Excluidas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se consignará en un Acta Notarial.
+Se emitirá un Listado de Apuestas Excluidas, el que las identificará con las menciones que Polla Chilena de Beneficencia S.A. determine. Esta información se consignará en un Acta Notarial, en el caso que Polla Chilena de Beneficencia S.A. hubiera optado por efectuar el sorteo mediante la extracción de bolillas numeradas desde una tómbola.
 
 Polla Chilena de Beneficencia S.A. dará a conocer al público, en la forma que ella determine, la cantidad e individualización de las apuestas excluidas.
 
@@ -132,7 +140,7 @@ Los sorteos serán públicos y se realizarán en el lugar, día y hora que Polla
 
 #### Artículo 9º
 
-En cada sorteo actuará como Ministro de Fe, un Notario Público, quien verificará la extracción del número favorecido y además, deberá intervenir en labores previas a la realización del sorteo, tales como la revisión de las bolillas numeradas que corresponda, la colocación de ellas en la tómbola, según sea el sistema adoptado conforme al artículo 2º.
+En el caso que Polla Chilena de Beneficencia S.A. hubiere optado por la modalidad de extracción de bolillas numeradas desde una tómbola, en dicho sorteo actuará como Ministro de Fe un Notario Público, el que deberá intervenir, además, en las labores de supervisión previa a la realización del sorteo, tales como la revisión de las bolillas numeradas que correspondan y la colocación de ellas en la tómbola.
 
 #### Artículo 10º
 
@@ -148,7 +156,7 @@ En el caso de que alguna o algunas de las categorías tuviera pozo acumulado en 
 
 #### Artículo 11º
 
-Terminado el sorteo, se levantará un acta notarial en la cual deberá contar:
+Terminado el sorteo, se levantará un acta en la cual deberá contar:
 
 a) Monto de los premios correspondientes a cada categoría de ganadores.
 
@@ -157,6 +165,8 @@ b) Los números sorteados.
 c) Números de ganadores por categoría.
 
 d) Cualquiera otra circunstancia que se estime necesario consignar.
+
+En el caso que Polla Chilena de Beneficencia S.A. hubiere optado por la modalidad de extracción de bolillas numeradas desde una tómbola, el Notario Público deberá certificar las actas precedentemente señaladas.
 
 #### Artículo 12
 
