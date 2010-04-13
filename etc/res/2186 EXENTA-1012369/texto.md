@@ -1,0 +1,421 @@
+LLAMA A CONCURSO EN CONDICIONES ESPECIALES PARA PROYECTOS DE CONSTRUCCIÓN DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA EN SU CAPÍTULO PRIMERO PARA LAS REGIONES QUE INDICA
+
+Santiago, 9 de abril de 2010.- Hoy se resolvió lo que sigue:
+
+Núm. 2.186 exenta.- Vistos:
+
+a) El D.S N° 104, de Interior, de 1977, que fija el texto refundido, coordinado y sistematizado del Título I de la Ley 16.282;
+
+b) El D.S. N° 332 (V. y U.), de 2000, y sus modificaciones, que reglamenta Sistema de Atención Habitacional para Situaciones de Emergencia;
+
+c) El D.S Nº 174 (V. y U.), de 2005, y sus modificaciones, que reglamenta el Programa Fondo Solidario de Vivienda;
+
+d) El D.S. N° 150, del Ministerio del Interior, de fecha 27 de febrero de 2010, que señala como zona afectada por catástrofe derivada del sismo de gran magnitud a las Regiones de Valparaíso, del Libertador Bernardo O’Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana;
+
+e) La resolución exenta Nº 8.820, de fecha 10 de diciembre de 2009, y sus modificaciones, del Ministerio de Vivienda y Urbanismo, que autoriza el otorgamiento de subsidios habitacionales correspondientes a los llamados que se efectúen durante el año 2010 y señala el monto de los recursos destinados, entre otros, a la atención a través del programa regulado por el D.S Nº174 (V. y U.), de 2005;
+
+f) La resolución N° 533 (V. y U.), de 1997, y sus modificaciones, que fija procedimiento para la prestación de servicios de asistencia técnica a programas que indica; y
+
+Considerando:
+
+a) Que a causa del terremoto y posterior tsunami acaecidos con fecha 27 de febrero de 2010 en las Regiones de Valparaíso, Metropolitana, del Libertador Bernardo O’Higgins, del Maule, del Bío Bío y de la Araucanía existe una gran cantidad de personas damnificadas cuyas viviendas han resultado destruidas o con grados de inhabitabilidad que hacen imposible la residencia de las familias afectadas;
+
+b) Que es de extrema relevancia y urgente necesidad para este Ministerio implementar medidas para la construcción de viviendas para las familias damnificadas con mayor vulnerabilidad, por lo que dicto la siguiente
+
+Resolución:
+
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el desarrollo de proyectos de construcción en las Regiones de Valparaíso, del Libertador Bernardo O’Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
+
+2. Los proyectos que se postulen deberán obtener certificado de Calificación Definitiva o Condicional hasta el 15 de diciembre del año 2010. Mediante Resoluciones del Ministro de Vivienda y Urbanismo, se seleccionarán los proyectos que obtengan Certificado de Calificación, según orden de obtención de dicha Calificación, hasta agotar los recursos disponibles para el llamado en cada región, según se establece en el punto 4 de la presente resolución.
+
+### 3. Los proyectos deberán cumplir con las siguientes condiciones:
+
+a. Podrán participar en el presente llamado los
+
+damnificados como consecuencia de la catástrofe
+
+señalada en el considerando a) de esta
+
+resolución. La calidad de damnificado se
+
+acreditará mediante la Ficha de Registro de
+
+Damnificados extendida por la respectiva
+
+Municipalidad, la que será ingresada en el
+
+sistema computacional que el Ministerio de
+
+Vivienda y Urbanismo ha implementado para estos
+
+efectos y con certificado de inhabitabilidad
+
+expedido por la Dirección de Obras respectiva,
+
+con la descripción del daño, señalando, a lo
+
+menos individualización del jefe de hogar
+
+afectado con indicación del número de su cédula
+
+nacional de identidad (RUN o RUT), dirección del
+
+inmueble afectado, rol de avalúo fiscal del
+
+inmueble y a qué título ocupaba la vivienda.
+
+b. No podrán postular a este llamado las personas
+
+que aun cuando tengan la calidad de
+
+damnificados, sean propietarios de otro inmueble
+
+de carácter habitacional o cuando lo fuere su
+
+cónyuge; ni las personas o sus cónyuges cuyo
+
+certificado de subsidio esté vigente.
+
+c. Para el presente concurso en condiciones
+
+especiales sólo podrán postular proyectos, las
+
+Entidades de Gestión Inmobiliaria Social (EGIS),
+
+con convenio marco regional vigente, que hayan
+
+presentado proyectos de construcción y obtenido
+
+certificado de calificación respectiva por parte
+
+de la Comisión Técnico Evaluadora del Serviu, en
+
+cualquier región del país desde la fecha en que
+
+comenzó a regir dicho convenio. También podrán
+
+participar del presente llamado los Prestadores
+
+de Asistencia Técnica y Social (PSAT) que
+
+hubieran tenido proyectos calificados como
+
+hábiles para el Título III del D.S. N° 255 (V. y
+
+U.), de 2006.
+
+d. Para los Prestadores de Asistencia Técnica y
+
+Social (PSAT) que han calificado proyectos para
+
+el Título III del D.S. N° 255 (V. y U.), de 2006
+
+y municipalidades que participen como Entidad de
+
+Gestión Inmobiliaria Social en el presente
+
+concurso no regirá el requisito señalado en la
+
+letra precedente debiendo tener convenio marco
+
+vigente.
+
+e. En proyectos de tipología Construcción en Sitio
+
+Propio se aceptarán postulaciones de grupos
+
+menores a 10 familias o indivi-duales.
+
+f. Para proyectos colectivos participantes en el
+
+presente llamado, se exigirá que el grupo
+
+organizado esté integrado a lo menos con un 80%
+
+de familias damnificadas. Excepcionalmente,
+
+podrán existir proyectos con un porcentaje menor
+
+al antes señalado, autorizado por el
+
+Subsecretario de Vivienda y Urbanismo, previa
+
+solicitud fundada del Director Serviu de la
+
+Región correspondiente.
+
+g. Los postulantes al presente concurso, que formen
+
+parte del grupo organizado que integra el
+
+proyecto, y que no tengan la calidad de
+
+damnificados, deberán cumplir con los requisitos
+
+establecidos en los Títulos III, IV y V del D.S.
+
+N° 174 (V. y U.), de 2005.
+
+h. Los postulantes damnificados al presente llamado
+
+especial se eximirán del cumplimiento del
+
+requisito de acreditar ahorro, señalado en el
+
+## Título IV — del presente reglamento.
+
+i. Los postulantes participantes de este llamado
+
+especial, que acrediten condición de
+
+damnificados, deberán presentar Ficha de
+
+Protección Social. Sin embargo el Puntaje de
+
+Carencia Habitacional del grupo organizado o del
+
+postulante individual podrá superar el puntaje
+
+de ingreso establecido mediante resolución
+
+exenta N° 7.080 (V. y U.), de 2008. Los
+
+postulantes que formen parte de grupos
+
+organizados y no tengan la calidad de
+
+damnificado deberán acreditar Puntaje de
+
+Carencia Habitacional igual o inferior a 8.500
+
+puntos.
+
+j. Los postulantes al presente llamado especial que
+
+tengan la calidad de damnificados no estarán
+
+afectos al impedimento señalado en el artículo
+
+6, número 3, relativo a haber obtenido algún
+
+beneficio anterior del Serviu, o de sus
+
+antecesores legales, o de las Municipalidades, o
+
+del Ministerio de Bienes Nacionales, o a través
+
+de los mecanismos del Impuesto Habitacional.
+
+k. Los postulantes que tengan la calidad de
+
+damnificados podrán acreditar disponibilidad de
+
+terreno mediante constitución de derecho real de
+
+uso a su favor o al de su cónyuge, por parte del
+
+propietario sobre una porción del mismo, según
+
+lo señalado en el artículo 28, letra j.7, sin
+
+que sea exigible cumplir con la condición de
+
+parentesco.
+
+l. A contar de la fecha de emisión del Certificado
+
+de Proyecto Ingresado, la Comisión Técnica
+
+Evaluadora dispondrá de un plazo máximo de 20
+
+días corridos para calificar los antecedentes
+
+acompañados que respalden la factibilidad
+
+técnica, económica, legal y social del proyecto,
+
+debiendo emitir en ese plazo las observaciones
+
+al proyecto si corresponde o su calificación
+
+respectiva.
+
+m. Los proyectos podrán permanecer en el Banco "Con
+
+Observaciones" hasta por 30 días corridos
+
+contados desde la fecha de emisión del documento
+
+de observaciones. Cumplido dicho plazo, sin
+
+respuesta por parte de la EGIS, el proyecto será
+
+eliminado del Banco de Proyectos.
+
+n. A contar de la fecha en que la EGIS ingrese al
+
+Serviu los antecedentes y documentos requeridos
+
+por la Comisión Técnico Evaluadora, ésta
+
+dispondrá como máximo de otros 10 días corridos
+
+para otorgar un Certificado de Calificación
+
+Definitiva o Condicionada o eliminar el proyecto
+
+del Banco, devolviendo a la EGIS todos sus
+
+antecedentes.
+
+o. Los montos de subsidio a que podrá optar cada
+
+postulante serán los señalados en el artículo 3°
+
+del D.S. N°174 (V. y U.), de 2005, para
+
+proyectos de construcción, aumentados en 10
+
+Unidades de Fomento para las familias que tengan
+
+la calidad de damnificado, pudiendo en todos los
+
+casos optarse además a los montos adicionales de
+
+subsidios complementarios que establece ese
+
+reglamento, según corresponda.
+
+p. Para acceder al Subsidio Diferenciado a la
+
+Localización para adquisición del terreno, los
+
+proyectos de la tipología Construcción en Nuevos
+
+Terrenos que participen del presente llamado
+
+deberán haber obtenido los máximos de puntaje
+
+contemplados en el "N°1. Localización" de la
+
+Pauta "Localización y Espacio Público",
+
+contenida en el Artículo 35, solamente en las
+
+categorías de "Ubicación Según Instrumento de
+
+Planificación Territorial" y "Tipo de
+
+Conectividad a Red Vial Rural o Urbana", no
+
+siendo necesario obtener puntaje máximo en la
+
+categoría de "Acceso a Servicios y Transporte
+
+Público". Para el presente llamado, se otorgará
+
+puntaje máximo en la categoría de "Ubicación
+
+Según Instrumento de Planificación Territorial"
+
+a los proyectos emplazados en áreas urbanas o
+
+áreas de extensión urbana.
+
+q. Los proyectos de viviendas que se emplacen en
+
+áreas declaradas como Zonas de Conservación
+
+Histórica o Zonas Típicas o Pintorescas, o se
+
+trate de Inmuebles de Conservación Histórica o
+
+Monumento Histórico, podrán obtener hasta 200
+
+Unidades de Fomento adicionales siempre que
+
+contribuyan a la recuperación del patrimonio
+
+arquitectónico y urbano del entorno, dando
+
+cumplimiento a lo establecido en las respectivas
+
+normas, ordenanzas y/o instructivos de
+
+intervención vigentes, de acuerdo a la Ley N°
+
+17.288 Sobre Monumentos Nacionales y la Ley
+
+General de Urbanismo y Construcciones y su
+
+Ordenanza.
+
+r. Extraordinariamente cuando se trate de proyectos
+
+emplazados en áreas rurales o en áreas urbanas
+
+de localidades de hasta 2.000 habitantes según
+
+el último censo de población, los honorarios que
+
+perciban las EGIS por la prestación de servicios
+
+de asistencia técnica y los dispuestos para la
+
+labor de Inspección Técnica de Obras, se
+
+incrementarán de acuerdo a lo definido por la
+
+resolución N° 533 (V. y U.), de 1997,
+
+agregándose adicionalmente 0,5 Unidades de
+
+Fomento por familia a cada una de las áreas o
+
+fases que componen dichos servicios, que
+
+efectivamente se hubieren desarrollado por la
+
+EGIS, aplicándose igual incremento a la labor de
+
+Inspección Técnica de Obras.
+
+s. El plan de habilitación social, establecido en
+
+el Título IX del D.S. N°174 (V. y U.), de 2005,
+
+deberá orientarse a las características y
+
+condiciones de los damnificados, para ello se
+
+deberá reorientar su acción en los términos que
+
+se establezca en oficio del Subsecretario de
+
+Vivienda y Urbanismo que se dispondrá al
+
+respecto.
+
+4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
+
+Región Recursos (UF)
+
+Valparaíso 1.007.546
+
+L. B. O’Higgins 2.713.674
+
+Maule 5.056.467
+
+Bío Bío 4.894.590
+
+Araucanía 294.975
+
+Metropolitana 1.548.674
+
+El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
+
+5. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
+
+Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
