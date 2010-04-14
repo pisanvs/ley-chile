@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.163, de 29 de marzo de 2010, de esta Subsecretaría, autorízase a GLADYS REBECA AGUILERA ARANCIBIA para iniciar actividades pesqueras de transformación, instalar y operar una planta en Avenida Los Aromos, lote Nº 6, sector Estanque 10000, Alto Molle, comuna Alto Hospicio, I Región, para elaborar en las líneas de Cocido, Fresco enfriado, Congelado, Seco salado, Salado húmedo, Ahumado, Deshidratado, Alga seca y Fresco refrigerado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
