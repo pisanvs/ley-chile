@@ -1,0 +1,15 @@
+APRUEBA ARSENAL FARMACOLÓGICO ACTUALIZADO EN LOS CENTROS DE SALUD Y SAPU DE ATENCIÓN PRIMARIA DE SALUD Y DEJA SIN EFECTO RESOLUCIÓN Nº 1.573, DE 1997
+
+Núm. 1.777.- Santiago, 12 de enero de 2010.- Vistos: Estos antecedentes; el ordinario Nº 2.674, de fecha 1 de diciembre de 2009 del Director del Servicio de Salud Metropolitano Central, por el que solicita a esta Secretaría Regional Ministerial de Salud de la Región Metropolitana, la aprobación del Arsenal Farmacológico actualizado de los Centros de Salud y SAPU de Atención Primaria de Salud ubicados en su jurisdicción; considerando la resolución Nº 1.573, de 8 de noviembre de 1996 del Ministerio de Salud, que autorizó el Arsenal Farmacológico en los Centros de Salud de Atención Primaria situados dentro del territorio de competencia del Servicio de Salud Metropolitano Central, la necesidad de disponer de un nuevo Arsenal Farmacológico que debe estar disponible para las atenciones de salud que se otorgan en los Establecimientos de Atención Primaria de Salud, situados dentro del territorio de competencia del Servicio de Salud Metropolitano Central; y teniendo presente la resolución exenta Nº 757, de 2 de mayo de 1997, que delega en los Secretarios Regionales Ministeriales de Salud la facultad de aprobar por resolución, los Arsenales Farmacológicos Básicos de los consultorios de atención primaria, ubicados en el territorio de competencia de los Servicios de Salud, situados en la respectiva Región; lo dispuesto en el decreto supremo de Salud Nº 194, de 2005, que Aprueba el Formulario Nacional de Medicamentos; y en uso de las facultades que me confieren el DFL Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del DL Nº 2.763/79, y el decreto supremo de Salud Nº 136/2004, que aprueba el Reglamento Orgánico del Ministerio de Salud, dicto la siguiente:
+
+Resolución:
+
+> **Nota.** El resuelvo N° 2 de la Resolución 19949 Exenta, Salud, publicada el 08.09.2022, que Aprueba Arsenal Farmacológico para los establecimientos de Atención Primaria de Salud, establece que el arsenal que se aprueba por la citada resolución reemplaza íntegramente, desde la fecha de su publicación en el Diario Oficial, aquel aprobado por la presente resolución.
+
+1º.- Apruébase el Arsenal Farmacológico actualizado en los Centros de Salud y SAPU de Atención Primaria de Salud, ubicados en el territorio de competencia del Servicio de Salud Metropolitano Central; documento que consta de cinco páginas, y que forma parte de la presente resolución, para todos los efectos que deriven de su aplicación.
+
+2º.- Déjase sin efecto desde esta fecha, la resolución Nº 1.573, de 8 de noviembre de 1997, del Ministerio de Salud, que autorizó el Arsenal Farmacológico en los Centros de Salud de Atención Primaria ubicados en el territorio de competencia del Servicio de Salud Metropolitano Central.
+
+3º.- Efectúese por el Servicio solicitante, a su costa, la publicación en el Diario Oficial del texto íntegro del Arsenal Farmacológico que se aprueba por la presente resolución.
+
+Anótese, comuníquese y publíquese.- Roberto Belmar Erpel, Secretario Regional Ministerial de Salud, Región Metropolitana.
