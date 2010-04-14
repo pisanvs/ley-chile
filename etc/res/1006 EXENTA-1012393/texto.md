@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.006 de 3 de marzo de 2010, de esta Subsecretaría, autorízase a YASNA AURELIA BERDEGUER ÁVALOS, para iniciar actividades pesqueras de transformación, instalar y operar una planta en pasaje Fermín Jopia Nº 244, Parte Alta de Coquimbo, IV Región, en las líneas de Congelado, Fresco-Enfriado y Congelado, los recursos hidrobiológicos indicados en la resolución extractada.
+
+Valparaíso, 3 de marzo de 2010.- Jorge Chocair Santibáñez, Subsecretario de Pesca
