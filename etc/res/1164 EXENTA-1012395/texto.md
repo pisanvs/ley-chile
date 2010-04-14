@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.164, de 29 de marzo de 2010, de esta Subsecretaría, autorízase a JOSÉ ALFONSO CHIGUAY CHIGUAY, para iniciar actividades pesqueras de transformación, instalar y operar planta en sector Oqueldan s/n, comuna de Quellón, Chiloé, X Región, para elaborar en líneas de Cocido, Fresco Enfriado, Fresco Refrigerado, Congelado, Ahumado, Conserva, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
