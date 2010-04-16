@@ -1,0 +1,3 @@
+Por resolución Nº 1.291, de 7 de abril de 2010, de esta Subsecretaría, déjase sin efecto la resolución Nº 5 de 2009, de esta Subsecretaría, correspondiente al área de manejo Sur Punta Refugio, X Región, cuyo titular es el SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES "VIENTO FUERTE" DE PUÑIHUIL, en virtud del artículo 11 inciso final, del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 7 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
