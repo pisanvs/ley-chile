@@ -122,7 +122,7 @@ Será zona saturada por anhídrido sulfuroso aquella en que se en que se sobrepa
 
 Asimismo será zona saturada por material particulado aquella en que se sobrepasen las normas de calidad del aire para material particulado en conformidad al Título II del presente Decreto.
 
-INCISO SUPRIMIDO.
+Se considerará sobrepasada la norma de calidad del aire cuando la concentración ambiental de anhídrido sulfuroso, detectada por cualquier estación de muestreo localizada en la zona correspondiente en la cual sea pertinente la aplicación de las normas de calidad del aire, exceda una de las concentraciones ya referidas.
 
 #### Artículo 10°
 
@@ -132,7 +132,7 @@ Asimismo será zona latente por material particulado aquella zona donde la medic
 
 #### Artículo 11°
 
-INCISO SUPRIMIDO.
+Será zona no saturada por anhídrido sulfuroso aquella zona donde la medición de la concentración ambiental de anhídrido sulfuroso se sitúe en el intervalo 0-80% del valor de las normas de calidad del aire descritas en el Título II, que se apliquen a dicha zona.
 
 Asimismo será zona saturada por material particulado aquella donde la medición de la concentración ambiental de material particulado se sitúe en el intervalo definido en el inciso anterior.
 
@@ -398,9 +398,33 @@ El sistema de monitoreo deberá estar plenamente instalado y en operación en el
 
 Para efectos del monitoreo de la calidad del aire, se considerarán válidas las mediciones de concentraciones que:
 
-a) SUPRIMIDA.
+a) Utilicen los siguientes métodos de referencia:
 
-b) SUPRIMIDA.
+- Para anhídrido sulfuroso: Método colorimétrico de la pararrosanilina y detección instrumental basada en fluorescencia ultravioleta;
+
+- Otros métodos equivalente aprobados por los Servicios.
+
+b) Para anhídrido sulfuroso, se ejecuten a lo menos durante el tiempo correspondienre al período de referencia, es decir: Intervalo de tiempo Número mínimo de
+
+observaciones/promedios
+
+-------------------------------------------------------
+
+1-hr (promedio) 50 minutos
+
+24-hr (Promedio) 20 observaciones horarias
+
+Promedio mensual 24 promedios diarios
+
+Promedio trimestral 3 promedios mensuales
+
+consecutivos
+
+Promedio anual 10 promedios mensuales con
+
+al menos 2 promedios
+
+mensuales por trimestre
 
 c) Cumplan a satisfacción los requerimientos para instalación, calibración y operación de los equipos de muestreo y análisis, aprobados por los Servicios.
 
