@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.632 de 10 de abril del 2010, se publicó decreto Núm. 517 que "DECLARA SANTUARIO DE LA NATURALEZA EL PREDIO DENOMINADO "ALTOS DE CANTILLANA-HORCÓN DE PIEDRA Y ROBLERÍA CAJÓN DE LISBOA" UBICADO EN LAS COMUNAS DE MELIPILLA Y ALHUÉ, PROVINCIA DE MELIPILLA, REGIÓN METROPOLITANA", con el error que se salva a continuación: página cinco, segunda columna, donde dice: " ..., considerada como uno de los 35 lugares más significativos del mundo, para concentrar esfuerzos de conservación de la biodiversidad ("hof spot"). ..." debe decir "..., considerada como uno de los 35 lugares más significativos del mundo, para concentrar esfuerzos de conservación de la biodiversidad ("hot spot"). ...".
