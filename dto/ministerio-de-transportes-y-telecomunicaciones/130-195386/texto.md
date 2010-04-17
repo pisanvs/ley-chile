@@ -234,6 +234,22 @@ Para este último caso la verificación del nivel de emisiones de Material Parti
 
 En la verificación de emisiones contaminantes de estos vehículos que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo parcial en carga y en el ensayo de aceleración libre, deberá ser de 0,24 m-1, como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en la letra d) del artículo 4º.
 
+#### Artículo 3º quáter
+
+Los buses con motor diesel destinados a la prestación de servicios de locomoción colectiva urbana en la provincia de Santiago y/o en las comunas de San Bernardo y Puente Alto, respecto de los cuales se solicite su primera inscripción en el Registro de Servicios de Transporte de Pasajeros de Santiago, a contar del 1 de septiembre de 2012, deberán contar con un motor y con un filtro de partículas para el postratamiento de las emisiones de material particulado del motor, el que deberá ser parte de los componentes que el fabricante ofrece como equipamiento original de fábrica, tal que las emisiones contaminantes no superen los niveles máximos de emisiones señalados en los puntos a.1), o a.2):
+
+a.1) Emisiones provenientes del sistema de escape, en gramos/caballos de fuerza al freno-hora (g/bHp-h):
+
+Las mediciones se efectuarán conforme lo señalado en la letra c), del artículo 4.
+
+a.2) Emisiones provenientes del sistema de escape, en gramos/kiloWatt-hora (g/kW-h). Deberán cumplir con los niveles de emisión señalados en la Tabla 2 y Tabla 3:
+
+Las mediciones se efectuarán conforme al ciclo ESC (Ciclo Europeo de Estado Continuo) indicado en la letra b) del artículo 4°.
+
+Las mediciones se efectuarán conforme al ciclo ETC (Ciclo Europeo de Transición) indicado en la letra b) del artículo 4°.
+
+En la verificación de emisiones contaminantes de estos vehículos que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo parcial en carga y en el ensayo de aceleración libre deberá ser de 0,24 m-1, como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en la letra d) del artículo 4°.
+
 ## Título III
 
 Procedimiento de medición

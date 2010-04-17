@@ -20,7 +20,7 @@ D e c r e t o:
 
 Establécese, para todo el territorio nacional, la norma de emisión de Monóxido de Carbono (CO), Hidrocarburos Totales (HCT) y Oxidos de Nitrógeno (NOx), para las motocicletas.".
 
-Estos vehículos sólo podrán circular por calles y caminos públicos del país si son mecánicamente aptos para cumplir con los límites de emisión señalados en el artículo 3º del presente decreto, sin perjuicio del cumplimiento de las demás normas establecidas para su revisión técnica.
+Estos vehículos sólo podrán circular por calles y caminos públicos del país si son mecánicamente aptos para cumplir con los límites de emisión que correspondan de acuerdo a lo señalado en el presente Decreto, sin perjuicio del cumplimiento de las demás normas establecidas para su revisión técnica.
 
 #### Artículo 2º
 
@@ -94,6 +94,20 @@ HCT + NOx (g/km) 1.2 1.2
 
 Respecto de la tabla Nº 3, las mediciones se efectuarán conforme a lo indicado en la letra b) del artículo 4º.
 
+#### Artículo 3º bis
+
+Las motocicletas cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite a partir de los nueve meses siguientes contados desde la publicación del Decreto Nº 66, de 2009, del Minsegpres, para circular por la Región Metropolitana, deberán cumplir, indistintamente, en condiciones normalizadas de medición, con los niveles máximos de emisión que se indican en la Tabla 1 o en la Tabla 2, según la norma por la que los fabricantes, importadores, armadores, distribuidores o sus representantes, opten al momento de la homologación:
+
+Para quienes opten por los niveles de emisión señalados en la Tabla 1, las mediciones se efectuarán conforme a lo indicado en la letra a), del artículo 4.
+
+Para quienes opten por los niveles de emisión señalados en la Tabla 2, las mediciones se efectuarán conforme a lo indicado en la letra b), del artículo 4.
+
+Las motocicletas de tres o cuatro ruedas deberán cumplir con los niveles máximos señalados en la Tabla Nº2 del artículo 3º de este decreto.
+
+A solicitud del fabricante, armador, importador o sus representantes, al momento de la homologación podrá utilizarse el procedimiento de ensayo previsto en el Reglamento Técnico Mundial (RTM) CEPE/ONU Nº 2 (Reglamento Técnico Mundial CEPE / ONU N ° 2 "Método de medición para motocicletas de dos ruedas equipadas con un motor de encendido por chispa o por compresión en lo que concierne a la emisión de agentes contaminantes gaseosos, emisiones de CO2 y consumo de carburante" (ECE/TRANS/180/Add2, de 30agosto de 2005) para las motocicletas como alternativa al procedimiento de ensayo señalado en la Directiva 97/24/EC de la Comunidad Europea. En el caso de que utilice el procedimiento establecido en el RTM Nº 2, la motocicleta deberá cumplir los límites de emisiones que se señalan en la Tabla 3:
+
+Las motocicletas de cilindrada inferior o igual a 50 centímetros cúbicos y con una velocidad máxima inferior o igual a 45 km/h, deberán cumplir con los niveles máximos de monóxido de carbono (CO), hidrocarburos totales (HCT) y óxidos de nitrógeno (NOx), medidos en gramos por kilómetro recorrido (gr/km), que se indican en la Tabla 2.
+
 #### Artículo 4º
 
 Para los efectos de acreditar o verificar el cumplimiento de la presente norma de emisión, las condiciones normalizadas de medición serán:
@@ -108,7 +122,7 @@ Corresponderá al Ministerio de Transportes y Telecomunicaciones certificar y fi
 
 #### Artículo 6º
 
-Los fabricantes, importadores, armadores o distribuidores de motocicletas deberán acreditar ante el Ministerio de Transportes y Telecomunicaciones, conforme a las pautas dictadas, que el modelo de que se trata cumple con los niveles máximos de emisión señalados en el artículo 3º.
+Los fabricantes, importadores, armadores o distribuidores de motocicletas deberán acreditar ante el Ministerio de Transportes y Telecomunicaciones, conforme a las pautas dictadas, que el modelo de que se trata cumple con los niveles máximos de emisión que le corresponden de acuerdo a lo señalado en el presente Decreto.
 
 #### Artículo 7º
 

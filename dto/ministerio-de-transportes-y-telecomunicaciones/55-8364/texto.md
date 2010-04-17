@@ -232,75 +232,27 @@ Los vehículos motorizados a gas, cuya primera inscripción en el Registro Nacio
 
 #### Artículo 8 ter
 
-Los vehículos motorizados pesados dotados con motor diesel y cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a contar de la fecha, que para cada caso se indica en las tablas 1, 2, 3 y 4, sólo podrán circular por la Región Metropolitana, en el territorio continental de la V Región y en las regiones II a X incluida la región XIV, si son mecánicamente aptos para cumplir con los niveles máximos de emisión de monóxido de carbono (CO), hidrocarburos totales (HCT), hidrocarburos no metánicos (HCNM), óxidos de nitrógeno (NOx) y material particulado (MP) que se señalan en los puntos a.1) o a.2) siguientes:
-
-a.1) Emisiones provenientes del sistema de escape, en gramos/caballos de fuerza al freno-hora (gr/bHp-h):
-
-Los fabricantes de motores podrán optar por la opción 1 ó 2.
-
-Tratándose de buses los límites anteriores regirán a contar del 1 de septiembre de 2013.
-
-Los fabricantes de motores podrán optar por la opción 1 ó 2.
-
-Tratándose de buses los límites anteriores regirán a contar 1 de septiembre de 2013.
-
-* Nuevos modelos: para efecto del presente decreto se entenderá como "nuevo modelo", a los vehículos pesados que soliciten su primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, a contar del 1 de octubre de 2014 y respecto de cuyo motor se haya acreditado que cumple con los niveles de emisión aplicables desde dicha fecha.
-
-** Todos los modelos: para efecto del presente decreto se entenderá como "todos los modelos", todos los vehículos motorizados pesados cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a contar del 1 de octubre de 2015.
-
-Los fabricantes de motores podrán optar por la opción 1 ó 2.
-
-Tratándose de buses los límites anteriores regirán a contar del 1 de septiembre de 2015.
-
-Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 86 (Code of Federal Regulations).
-
-a.2) Emisiones provenientes del sistema de escape, en gramos/kilowatt-hora (gr/kw-h):
-
-* Nuevos modelos: para efecto del presente decreto se entenderá como "nuevo modelo", a los vehículos pesados que soliciten su primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, a contar del 1 de octubre de 2014 y respecto de cuyo motor se haya acreditado que cumple con los niveles de emisión aplicables desde dicha fecha.
-
-** Todos los modelos: todos los vehículos motorizados pesados cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a contar del 1 de octubre de 2015.
-
-(1) Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Unión Europea en la Directiva 88/77/EC, modificada por las Directivas 1999/96/EC, 2005/55/EC, 2005/78/EC y 2006/51/EC.
-
-(2) Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Unión Europea en la Directiva 88/77/EC, modificada por la Directiva 2001/27/EC, reemplazada por la Directiva 2005/55/EC, y Directiva 2005/78/EC, modificada por la Directiva 2006/51/EC y Directiva 2008/74/EC.
-
-Los vehículos motorizados pesados cuyos motores acrediten haber cumplido en origen los límites máximos de emisiones señalados en las tablas 1, 2, 3, 4 y 5 usando sistemas con aditivos para reducir las emisiones de óxidos de nitrógeno, deberán contar con un sistema que indique al conductor el nivel de aditivo que presenta el depósito de almacenamiento del aditivo mediante una indicación mecánica o electrónica en el tablero de instrumentos.
-
-En la verificación de emisiones contaminantes, que se efectúe en la vía pública o en las plantas revisoras, la opacidad en el ensayo de aceleración libre, deberá ser de 1,0 m-1 como máximo. Las mediciones se efectuarán conforme al método indicado en el artículo 4º del decreto supremo Nº 4, de 1994, del Ministerio de Transportes y Telecomunicaciones.
-
-Las fechas de entrada en vigencia 1 de octubre 2014 y 1 de octubre 2015, consignadas en las tablas 3 y 4 anteriores y 1 de septiembre de 2015 para los buses, regirán de existir disponibilidad de diesel de 15 ppm de azufre máximo, en las regiones señaladas anteriormente, lo que deberá anunciarse a más tardar el 31 de enero del año 2013, de lo contrario las fechas indicadas se postergarán en un año y así sucesivamente. El anuncio será formalizado mediante resolución del Ministerio de Transportes y Telecomunicaciones, previo informe del Ministerio de Energía.
-
-Los niveles máximos de emisión para buses, señalados en las tablas 1, 2, 3 y 4 anteriores, regirán para todos los buses, con excepción de los buses destinados a prestar servicios de locomoción colectiva urbana en la provincia de Santiago y/o en las comunas de San Bernardo y Puente Alto, que se rigen por lo estipulado en el decreto supremo N° 130, de 2001, del Ministerio de Transportes y Telecomunicaciones.
-
-Los vehículos motorizados pesados cuyos motores sean mecánicamente aptos para cumplir con niveles máximos de emisión de un estándar superior a los exigidos por las normas de emisión vigentes, siempre que estén dadas las condiciones técnicas para ello y en conformidad con las condiciones normalizadas de medición, homologación y/o certificación, estipuladas por la Agencia Ambiental de Estados Unidos de Norteamérica (US-EPA), en el llamado "Code of Federal Regulation", o por las directivas de la Comunidad Europea, o por el Estado de California, en el llamado "California Code of Regulation", que en adelante se denominará como la legislación internacional, podrán solicitar al momento y adicionalmente a la homologación y/o certificación de los estándares vigentes en conformidad con lo dispuesto en el presente decreto, el reconocimiento del estándar superior, en correspondencia con dicha legislación internacional. Para ello deberán cumplir con los mismos procesos de análisis técnico establecidos para la homologación de los estándares vigentes.
-
-Los vehículos motorizados pesados cuyo peso bruto vehicular sea mayor o igual a 3.860 kg y menor o igual a 6.350 kg, podrán optar a la certificación de emisiones para vehículo completo, de acuerdo a lo establecido por el CFR 40 parte 86.1863-07 "Optional chassis certification for diesel vehicles". En tal caso los límites máximos permitidos serán los que se indican en la Tabla 5 siguiente:
-
-#### Artículo 8 quáter
-
-Los vehículos motorizados pesados, cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación sea solicitada a partir de la vigencia del presente artículo, solo podrán circular por el país si son mecánicamente aptos para cumplir con los niveles máximos de emisión de Monóxido de Carbono (CO), Hidrocarburos no metánicos (HCNM), Óxidos de nitrógenos (NOx), Material Particulado (MP), Hidrocarburos totales (HCT), Metano (CH4), Amoniaco (NH3), Masa de Partículas y Número de Partículas (NP), señalados en los literales a.1) o a.2), que a continuación se indican:
+Los vehículos motorizados pesados con motor diesel y cuya primera inscripción en el Registro Nacional de Vehículos Motorizados, se solicite a contar del 1 de enero de 2012, sólo podrán circular por la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión de monóxido de carbono (CO), hidrocarburos totales (HCT), hidrocarburos no metánicos (HCNM), óxidos de nitrógeno (NOx) y material particulado (MP) que se indican en los puntos a.1) o a.2):
 
 a.1) Emisiones provenientes del sistema de escape, en gramos/caballos de fuerza al freno-hora (g/bHp-h):
 
-Tabla 1: Motores Encendidos por Compresión
+Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 86 (Code of Federal Regulations).
 
-Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 1065 procedures (Code of Federal Regulations), Diesel Engines(1).
+a.2) Emisiones provenientes del sistema de escape, en gramos/kiloWatt-hora (g/kW-h). Deberán cumplir con los niveles de emisión señalados en la Tabla 2 y Tabla 3.
 
-Tabla 2: Motores Ciclo Otto
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Unión Europea en la Directiva 88/77/CEE modificada por la Directiva 99/96/CEEM en los métodos de pruebas denominados Ciclo Europeo de Estado Continuo (ESC).
 
-Las mediciones se efectuarán conforme a los métodos normalizados definidos por la Agencia de Protección Ambiental de los Estados Unidos de América (US-EPA), indicados en el CFR-40 Part 1065 procedures (Code of Federal Regulations), Otto-Cycle Engines(2).
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Unión Europea en la Directiva 88/77/CEE modificada por la Directiva 99/96/CEEM en los métodos de pruebas denominados Ciclo Europeo de Transición (ETC).
 
-___________________
+Para el caso de los motores que cuenten con filtro de partículas para el post tratamiento de las emisiones, el cual deberá ser parte de los componentes que el fabricante ofrece como equipamiento original de fábrica, deberán cumplir con al menos uno de los siguientes requisitos técnicos y ser acreditado como parte del proceso de certificación de la norma de emisiones del motor:
 
-(1) Disponible para su consulta en el siguiente enlace: https://www.ecfr.gov/current/title-40/chapter-I/subchapter-U/part-1065.
+i. Que, el motor operando en combinación con el filtro de partículas cumpla con los niveles máximos de emisiones establecidos en los puntos a.1) o a.2) del presente artículo, medidos en las condiciones normalizadas que allí se indican.
 
-(2) Ibid
+ii. Que, se acredite mediante la presentación de los antecedentes técnicos y descriptivos que el filtro de partículas se encuentre en el listado de sistemas ensayados y aprobados que publica la Federal Office for the Environment (FOEN) de Suiza, o bien, que se acredite que éste cumple con las condiciones de medición establecidas de acuerdo al Código de Regulaciones del Estado de California de los Estados Unidos en el Título 13, Capítulo 14, secciones 2700 a 2710, para un nivel 3 de reducción de material particulado, y que el motor cumple con los niveles máximos de emisiones establecidos en los puntos a.1) o a.2), considerando para la verificación del cumplimiento del nivel de emisiones de material particulado (MP), la multiplicación del nivel de emisiones de la certificación del motor por, uno menos la eficiencia del filtro, dividida esta última por cien.
 
-a.2) Emisiones provenientes del sistema de escape, en miligramos/kiloWatt-hora (mg/kW-h) y número de partículas/kilowatt-hora (#/kWh). Deberán cumplir con los niveles de emisión señalados en la Tabla 3.
+El Ministerio de Transportes y Telecomunicaciones podrá establecer exigencias adicionales para los motores que cuentan con sistemas en base a aditivos para reducir las emisiones de óxidos de nitrógeno, que garanticen su correcta operación durante su vida útil
 
-Tabla 3: Emisiones provenientes del sistema de escape
-
-Las mediciones se efectuarán mediante los ciclos de pruebas de conducción armonizadas a escala mundial de condiciones transitorias (ciclo mundial transitorio o WHTC) o de condiciones estacionarias (ciclo mundial estacionario o WHSC), en conformidad al Reglamento (CE) N° 595, de 18 de junio de 2009, del Parlamento Europeo y del Consejo, relativo a la homologación de los vehículos de motor y los motores en lo concerniente a las emisiones de los vehículos pesados (Euro VI) y al acceso a la información sobre reparación y mantenimiento de vehículos y por el que se modifica el Reglamento (CE) N° 715/2007 y la Directiva 2007/46/CE y se derogan las Directivas 80/1269/CEE, 2005/55/CE y 2005/78/CE.
+En la verificación de emisiones contaminantes de vehículos cuyos motores cuenten con filtro de partículas para el postratamiento de las emisiones, que se efectúe en la vía pública o en las plantas revisoras, la opacidad en flujo parcial en carga y en el ensayo de aceleración libre, deberá ser de 0,24 m-1 como máximo. En ambos casos, las mediciones se efectuarán conforme al método indicado en el artículo 4º del Decreto Supremo Nº 4 de 1994 del Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo 9°
 
@@ -331,10 +283,6 @@ Cuando se trate de vehículos
 internados al país en calidad de usados al amparo de la ley 18.483, la acreditación del cumplimiento de las normas de emisión establecidas en el presente decreto deberá realizarse ante el Ministerio de Transportes y Telecomunicaciones, conforme a las pautas que éste señale y sin perjuicio de presentar en forma previa los documentos exigidos en el inciso tercero del artículo 3º.
 
 > **Nota.** El artículo 2º del DTO 75, Transportes, publicado el 28.12.2004, dispone que las modificaciones que introduce a la presente norma, entrará en vigencia treinta días después de su publicación.
-
-#### Artículo 13
-
-La Superintendencia del Medio Ambiente fiscalizará la presente norma de emisión sin perjuicio de las atribuciones que le correspondan al Ministerio de Transportes y Telecomunicaciones.
 
 Anótese, tómese razón y publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Germán Molina Valdivieso, Ministro de Transportes y Telecomunicaciones.
 

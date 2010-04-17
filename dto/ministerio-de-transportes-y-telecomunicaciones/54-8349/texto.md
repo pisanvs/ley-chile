@@ -30,13 +30,13 @@ Vehículos medianos clase 3: Son los vehículos medianos con un peso neto de mar
 
 #### Artículo 2°
 
-Los vehículos motorizados medianos de año de fabricación 1994 o posteriores cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a contar del 1 de Septiembre de 1995, sólo podrán circular en la Región Metropolitana, en el territorio continental de la Quinta Región y en la Sexta Región, si son mecánicamente aptos para cumplir con las normas de emisión señaladas en el artículo 4° y en el artículo 8º bis, cuando corresponda y si, con oportunidad de sus revisiones técnicas, se acredita que están en condiciones adecuadas para circular. Los mismos vehículos, si no están diseñados y construidos para cumplir con tales normas de emisión, no podrán circular en las áreas descritras y en cuanto a sus revisiones técnicas se someterán a las normas generales.
+Los vehículos motorizados medianos de año de fabricación 1994 o posteriores cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a contar del 1 de Septiembre de 1995, sólo podrán circular en la Región Metropolitana, en el territorio continental de la Quinta Región y en la Sexta Región, si son mecánicamente aptos para cumplir con las normas de emisión según corresponda de acuerdo a lo señalado en el presente Decreto, y si, con oportunidad de sus revisiones técnicas, se acredita que están en condiciones adecuadas para circular. Los mismos vehículos, si no están diseñados y construidos para cumplir con tales normas de emisión, no podrán circular en las áreas descritras y en cuanto a sus revisiones técnicas se someterán a las normas generales.
 
 > **Nota.** El N° 3 del DTO 205, dispone que las modificaciones introducidas regirán para los vehículos livianos de pasajeros, comerciales livianos y medianos cuya inscripción cuya inscripción en el Registro de Vehículos Motorizados se solicite a contar del 1° de septiembre de 1998.
 
 #### Artículo 3°
 
-Todos los vehículos motorizados medianos afectos al cumplimiento de las normas de emisión del artículo 4°, y del artículo 4 bis, deberán llevar un rótulo incorporado o adherido en forma permanente y claramente visible en la parte interior del compartimiento del motor, que indicará, a lo menos, que el vehículo cumple con las normas de emisión de este decreto y el lugar y método en virtud del cual se certificó el nivel de emisiones. Este rótulo será colocado por su fabricante o su representante, cuando éste cuente con la autorización expresa del fabricante, y deberá reunir las características que señale el Ministerio del Transportes y Telecomunicaciones.
+Todos los vehículos motorizados medianos afectos al cumplimiento de las normas de emisión señaladas en el presente Decreto, deberán llevar un rótulo incorporado o adherido en forma permanente y claramente visible en la parte interior del compartimiento del motor, que indicará, a lo menos, que el vehículo cumple con las normas de emisión de este decreto y el lugar y método en virtud del cual se certificó el nivel de emisiones. Este rótulo será colocado por su fabricante o su representante, cuando éste cuente con la autorización expresa del fabricante, y deberá reunir las características que señale el Ministerio del Transportes y Telecomunicaciones.
 
 Sobre la base de las indicaciones emanadas del fabricante del vehículo, sus vendedores en el país se obligarán a entregar a sus compradores un certificado con indicaciones similares a las del rótulo del inciso primero, que deberán ser coincidentes con sus equivalentes de la información que mantendrá el Ministerio de Transportes y Telecomunicaciones en el que se señalará también la individualización del respectivo vehículo por su marca, modelo y números identificatorios. Este certificado será otorgado en tres ejemplares y deberá ser exhibido al momento de efectuarse la primera revisión técnica de cada vehículo debiendo entregarse uno de ellos en la Municipalidad que otorgue el primer permiso de circulación y el correspondiente distintivo verde a que se refiere el artículo 6°.
 
@@ -184,6 +184,36 @@ Las mediciones deberán efectuarse conforme a lo indicado en la letra b) del art
 
 a.2 Las emisiones por evaporación de hidrocarburos para los motores de encendido por chispa, se regirá por lo establecido en la letra b) del artículo 4. Por su parte, las emisiones del cárter, se regirán por lo dispuesto en la letra c) del mismo artículo.
 
+#### Artículo 4° ter
+
+Los vehículos motorizados medianos cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite después de transcurridos doce meses contados desde la publicación en el Diario Oficial del D.S. N° 66 de 2009, del Ministerio Secretaría General de la Presidencia, sólo podrán circular en la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan a continuación:
+
+a.1. Vehículos medianos con motor a gasolina, gas licuado de petróleo (GLP) o gas natural comprimido (GNC).
+
+Deberán cumplir los niveles de emisión señalados en las Tablas a.1. o a.2, según la norma que el fabricante, armador, importador o sus representantes, soliciten al momento de la homologación.
+
+Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
+Las emisiones evaporativas de hidrocarburos y del carter, se regirán por lo establecido en las letras b) y c) del artículo 4º del presente Decreto.
+
+b.2. Vehículos medianos con motor diesel.
+
+Deberán cumplir los niveles de emisión señalados en las Tablas b.1 o b.2, según la norma que el fabricante, armador, importador o sus representantes, soliciten al momento de la homologación.
+
+Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
+#### Artículo 4º quáter
+
+Los vehículos motorizados medianos diesel cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite a contar del 1 de septiembre de 2012, sólo podrán circular en la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan en la Tabla a.1 o Tabla a.2, según la norma que el fabricante, armador, importador o sus representantes, soliciten al momento de la homologación.
+
+Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipuladas por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
 #### Artículo 5
 
 Para efectos de la medición de las emisiones, dependiendo de la norma que el importador solicite al momento de la homologación, las condiciones normalizadas serán las siguientes:
@@ -194,9 +224,9 @@ b) Las estipuladas por las comunidades Europeas en la directiva 70/220/CEE, modi
 
 #### Artículo 6º
 
-Los vehículos motorizados medianos, que cumplan con las normas de emisión del artículo 4º bis, recibirán un autoadhesivo de color verde con las características y ubicación que determine el Ministerio de Transportes y Telecomunicaciones, que será entregado al momento de obtenerse su primer permiso de circulación, y que deberá mantenerse en el parabrisas del vehículo.
+Los vehículos motorizados medianos, que cumplan con las normas de emisión de los artículos 4° bis, 4° ter o 4° quáter según corresponda, recibirán un autoadhesivo de color verde con las características y ubicación que determine el Ministerio de Transportes y Telecomunicaciones, que será entregado al momento de obtenerse su primer permiso de circulación, y que deberá mantenerse en el parabrisas del vehículo.
 
-Los vehículos medianos que cumplan con las normas de emisión del artículo 4º, y cuando corresponda con las del artículo 4º y 8º bis, pero no así con las normas de emisión del artículo 4º bis, recibirán un autoadhesivo de color amarillo.
+Los vehículos medianos que cumplan con las normas de emisión del artículo 4º, y cuando corresponda con las del artículo 4º y 8º bis, pero no así con las normas de emisión del artículo 4º bis, recibirán un autoadhesivo de color amarillo. Asimismo, desde la entrada en vigencia del artículo 4° ter, los vehículos medianos que no cumplan con las normas de emisión allí estipuladas recibirán un autoadhesivo de color amarillo. Por su parte, los vehículos medianos diesel recibirán un autoadhesivo de color amarillo cuando no cumplan con las normas de emisión dispuestas en el artículo 4° quáter a contar de su entrada en vigencia.
 
 Los vehículos motorizados medianos de año de fabricación 1994 o posterior cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite a contar del 1º de Septiembre de 1995, y que no cumplan con las normas de emisión del artículo 4º, recibirán al momento de obtener su primer permiso de circulación un autoadhesivo de color rojo, con las características y ubicación que determine el Ministerio de Transportes y Telecomunicaciones y que deberán mantener permanentemente en el parabrisas del vehículo.
 

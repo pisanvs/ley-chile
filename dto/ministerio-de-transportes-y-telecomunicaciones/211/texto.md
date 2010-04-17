@@ -72,17 +72,11 @@ Vehículos comerciales livianos Clase 3: Son los vehículos comerciales livianos
 
 #### Artículo 2°
 
-Los vehículos motorizados livianos cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a contar del 1° de Septiembre de 1992, solo podrán circular en la Región Metropolitana, en el territorio continental de la Quinta Región y en la Sexta Región, si son mecánicamente aptos para cumplir con los niveles máximos de emisión señalados en el artículo 4° y en el artículo 11 bis, cuando corresponda y si, con oportunidad de sus revisiones técnicas, se acredita que están en condiciones adecuadas para circular. Los mismos vehículos, si no tienen aptitud mecánica para cumplir con tales niveles, no podrán circular en las áreas descritas y en cuanto a sus revisiones técnicas se someterán a las normas generales.
+Los vehículos motorizados livianos cuya primera inscripción en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación se solicite a contar del 1° de Septiembre de 1992, solo podrán circular en la Región Metropolitana, en el territorio continental de la Quinta Región y en la Sexta Región, si son mecánicamente aptos para cumplir con los niveles máximos de emisión que corresponda de acuerdo a lo señalado en el presente Decreto y si, con oportunidad de sus revisiones técnicas, se acredita que están en condiciones adecuadas para circular. Los mismos vehículos, si no tienen aptitud mecánica para cumplir con tales niveles, no podrán circular en las áreas descritas y en cuanto a sus revisiones técnicas se someterán a las normas generales.
 
 Sin embargo, no se aplicará el inciso anterior tratándose de vehículos motorizados livianos a los que con anterioridad al 1° de septiembre de 1992 se les hubiese otorgado placa de gracia a que se refiere el Decreto Supremo N° 577 de 1984, del Ministerio de Relaciones Exteriores y así lo acredite dicha Secretaría de Estado mediante la certificación respectiva.
 
-Por su parte, los vehículos referidos sólo podrán circular por la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión señalados en el artículo 4 bis, cuando entre en vigencia dicha norma.
-
-N0TA 1:
-
-El DTO 225, Transportes y Telecomunicaciones, publicado el 21.11.1992, dispuso: "Excepciónase hasta el 31 de Diciembre de 1992, de la aplicación del artículo 2° del presente decreto supremo, a los vehículos motorizados livianos ingresados al país por personas naturales o jurídicas de beneficencia, bajo régimen suspensivo de derechos aduaneros, adquiridos antes del 31 de Agosto de 1992, que se importen bajo franquicia aduanera y cuyos propietarios soliciten su inscripción, por primera vez, en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación hasta el 31 de Diciembre de 1992. Los vehículos que se encuentren en la situación antes descrita y que se inscriban dentro del plazo indicado no quedarán sometidos a las exigencias previstas en el presente artículo, y serán considerados para efectos de dicho decreto como vehículos inscritos antes del 1° de Septiembre de 1992.
-
-> **Nota.** NOTA 2: El N° 3 del DTO 205, dispone que las modificaciones introducidas regirán para los vehículos livianos de pasajeros, comerciales livianos y medianos cuya inscripción cuya inscripción en el Registro de Vehículos Motorizados se solicite a contar del 1° de septiembre de 1998.
+Por su parte, los vehículos referidos sólo podrán circular por la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión señalados en el artículo 4 bis, en el artículo 4° ter o en el artículo 4° quáter, cuando entren en vigencia dichas normas.
 
 #### Artículo 3°
 
@@ -316,6 +310,28 @@ A los furgones de carga, entendiéndose por tales aquellos vehículos para el tr
 
 > **Nota.** El artículo 1 del DTO 95, Transportes, publicado el 31.08.2005, modifica el numeral a.1.1), tabla a.1.1.a) del presente artículo, modificación que no ha podido efectuarse por restricciones técnicas temporales.
 
+#### Artículo 4° ter
+
+Los vehículos motorizados livianos con motor gasolina, gas licuado de petróleo (GLP) o gas natural comprimido (GNC), cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite después de transcurridos doce meses contados desde la publicación en el Diario Oficial del D.S. N° 66 de 2009, del Ministerio Secretaría General de la Presidencia, sólo podrán circular en la Región Metropolitana si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan en las Tablas a.1 o a.2, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación.
+
+Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE."
+
+Las emisiones evaporativas de hidrocarburos y del carter, se regirán por lo establecido en las letras b) y c) del artículo 4º del presente Decreto.
+
+#### Artículo 4º quáter
+
+Los vehículos livianos motorizados Diesel cuya primera inscripción en el Registro Nacional de Vehículos Motorizados se solicite en las fechas señaladas en cada caso, deberán cumplir los niveles de emisión provenientes del sistema de escape en gramos/kilómetros (g/km), señaladas en las Tablas a.1 o a.2, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación.
+
+Los niveles señalados en esta Tabla serán exigibles a contar de 1 de septiembre de 2011.
+
+Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
+
+Los niveles señalados en esta Tabla para Vehículos Livianos de Pasajeros y Vehículos Comerciales Livianos Clase 1, serán exigibles a contar del 1 de septiembre de 2011. Los niveles señalados en esta Tabla para Vehículos Comerciales Livianos Clase 2 y 3, serán exigibles a contar del 1 de septiembre de 2012.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
 #### Artículo 5
 
 Para efectos de la medición de las emisiones, dependiendo de la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación, las condiciones normalizadas serán las siguientes:
@@ -328,9 +344,15 @@ c. Las condiciones normalizadas de medición estipuladas por el Estado de Califo
 
 #### Artículo 6º
 
-Los vehículos motorizados livianos, cuya primera inscripción se solicite a contar del 1 de Septiembre de 1992, que cumplan con las normas de emisión del artículo 4º bis, en las fechas que para cada caso allí se indican, recibirán un autoadhesivo de color verde con las características y ubicación que determine el Ministerio de Transportes y Telecomunicaciones, que será entregado al momento de obtenerse su primer permiso de circulación, y que deberá mantenerse en el vehículo.
+Los vehículos motorizados livianos, cuya primera inscripción se solicite a contar del 1 de Septiembre de 1992, que cumplan con las normas de emisión del artículo 4º bis, artículo 4° ter o artículo 4° quáter, en las fechas que para cada caso allí se indican, recibirán un autoadhesivo de color verde con las características y ubicación que determine el Ministerio de Transportes y Telecomunicaciones, que será entregado al momento de obtenerse su primer permiso de circulación, y que deberá mantenerse en el vehículo.
 
-Por su parte los vehículos motorizados livianos de pasajeros, cuya primera inscripción se solicite a contar del 1º de septiembre de 1992 que cumplan con las normas de emisión del artículo 4º, y los vehículos comerciales livianos que cumplan con las normas de emisión del artículo 4º, y cuando corresponda con las del artículo 4º conjuntamente con las del inciso primero del artículo 11º bis, y no así con las normas de emisión del artículo 4º bis, recibirán un autoadhesivo de color amarillo.
+Por su parte los vehículos motorizados livianos, cuya primera inscripción se solicite a contar del 1 de septiembre de 1992, recibirán un autoadhesivo de color amarillo, en las siguientes circunstancias:
+
+a) Hasta la entrada en vigencia del artículo 4° quáter, los vehículos Diesel que no cumplan con las normas de emisión del artículo 4° bis letra b).
+
+b) Desde la entrada en vigencia del artículo 4° quáter, los vehículos Diesel que no cumplan con las normas de emisión allí estipuladas.
+
+c) Desde la entrada en vigencia del artículo 4° ter, los vehículos Otto que no cumplan con las normas de emisión allí estipuladas.
 
 Los vehículos motorizados livianos cuya primera inscripción se solicite a contar del 1º de Septiembre de 1992, y que no cumplan con las normas de emisión del artículo 4º, recibirán al momento de obtener su primer permiso de circulación, un autoadhesivo de color rojo, en las condiciones, características y demás que señale el Ministerio de Transportes y Telecomunicaciones, el que deberá mantenerse en el vehículo.
 
@@ -376,7 +398,7 @@ Los vehículos motorizados livianos cuya primera inscripción en el Registro de 
 
 Les serán además aplicables las normas de rotulación, revisiones, distintivos y demás de este decreto.
 
-A partir de la publicación en el Diario Oficial del D.S. Nº 58/2003 del Ministerio Secretaría General de la Presidencia, sólo podrán circular en la Región Metropolitana los vehículos comerciales y livianos de pasajeros si son mecánicamente aptos para cumplir con los niveles máximos de emisión establecidos en el artículo 4º bis del presente decreto y en las épocas que correspondan.
+Sólo podrán circular en la Región Metropolitana los vehículos comerciales y livianos de pasajeros si son mecánicamente aptos para cumplir con los niveles máximos de emisión establecidos en el artículo 4° bis, en el artículo 4° ter o en el artículo 4° quáter del presente decreto y en las épocas que correspondan.
 
 #### Artículo 12°
 

@@ -60,7 +60,7 @@ Partículas Respirables: Es aquel material particulado, cuyo diámetro aerodiná
 
 Condiciones Estándar: Son las condiciones de temperatura de veinticinco grados celcius (25 °C) y presión de una atmósfera (1 atm).
 
-Equipo de Calefacción: Dispositivo destinado a la calefacción de un espacio determinado.
+Equipo de Calefacción: ELIMINADO.
 
 Fuente estacionaria que ha dejado de existir: aquella fuente que ha sido desarmada o desmantelada.
 
@@ -112,9 +112,7 @@ Caudal = Caudal medido a plena carga, en condiciones estándar, corregido según
 
 #### Artículo 7
 
-El Servicio de Salud del Ambiente de la Región Metropolitana, sólo autorizará fuentes estacionarias puntuales nuevas siempre que cumplan con el artículo 4º, y compensen en un 150% sus emisiones de material particulado.
-
-Respecto de las fuentes estacionarias nuevas categorizadas como proceso, la obligación de compensar un 150% será exigible sólo respecto de aquellas cuyas emisiones de material particulado sea mayor o igual a la de la última fuente incluida en el 80% a que se refiere el artículo 47 del Decreto Supremo Nº 58 de 2003 del Ministerio Secretaría General de la Presidencia.
+El Servicio de Salud del Ambiente de la Región Metropolitana, sólo autorizará fuentes estacionarias puntuales nuevas siempre que cumplan con el artículo 4º, y compensen en un 150% sus emisiones de material particulado. Respecto de las fuentes estacionarias nuevas categorizadas como proceso, la obligación de compensar un 150% será exigible sólo respecto de aquellas cuyas emisiones de material particulado sea igual o superior a 2,5 t/año.
 
 Tratándose de una fuente nueva en reemplazo de una existente, se observarán las siguientes disposiciones:
 
@@ -140,9 +138,19 @@ el artículo 6º de este decreto, entonces la
 
 compensación operará de la siguiente forma:
 
-· 100% sobre el tamaño de emisión equivalente al cupo individual definido para el 31 de Diciembre del año 2004
+. 100% sobre el tamaño de emisión equivalente al cupo individual definido para el 31 de Diciembre del año 2004
 
-· 150% sobre el diferencial de emisiones por sobre el cupo individual definido el 31 de Diciembre del año 2004.
+. 150% sobre el diferencial de emisiones por sobre el cupo individual definido el 31 de Diciembre del año 2004.
+
+Tratándose de una fuente estacionaria puntual nueva en reemplazo de otra fuente estacionaria puntual nueva, se aplicará lo siguiente:
+
+a) Si la Emisión Diaria Declarada de MP de la fuente nueva es menor o igual que la Emisión Diaria Permitida para la fuente nueva a reemplazar, la compensación exigida será de un 100%.
+
+b) Si la Emisión Diaria Declarada de MP de la fuente nueva es mayor que la Emisión Diaria Permitida de MP para la fuente nueva a reemplazar, la compensación operará de la siguiente forma:
+
+b1) 100% sobre la emisión equivalente a la Emisión Diaria Permitida de MP para la fuente nueva a reemplazar.
+
+b2) 150% sobre el diferencial de emisiones que supere la Emisión Diaria Permitida de MP para la fuente nueva a reemplazar.
 
 #### Artículo 8°
 
