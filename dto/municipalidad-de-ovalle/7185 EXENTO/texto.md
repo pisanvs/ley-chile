@@ -176,11 +176,11 @@ vehículo, semestral 0.75 UTM
 
 3. Ambulante en la vía pública, con
 
-vehículo, mensual 1 UTM
+vehículo, mensual 0,40 UTM
 
 4. Ambulante en la vía pública, sin
 
-vehículo, mensual 0.75 UTM
+vehículo, mensual 0.30 UTM
 
 5.- Ambulante en la vía pública,
 
