@@ -1,0 +1,3 @@
+DEROGA CALIDAD DE AGENTE RETENEDOR DEL IVA AL CONTRIBUYENTE SALMONES LLANQUIHUE S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución Ex. Nº 493, de fecha 9 de septiembre de 2005, deroga, a contar del 1º del mes siguiente de esta publicación, al contribuyente Salmones Llanquihue S.A., RUT Nº 96.720.000-K, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las compras de Especies Hidrobiológicas, establecido en la resolución exenta Nº 3.311, del 30 de junio de 2000, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de julio de 2000.
