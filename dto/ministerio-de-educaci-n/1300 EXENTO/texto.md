@@ -108,39 +108,65 @@ b) En el Segundo Nivel de Transición de la Educación Parvularia o en cualquier
 
 #### Artículo 10º
 
-El proceso pedagógico de los alumnos con Trastornos Específicos del Lenguaje (TEL) se regirá por el decreto Nº 170, de 2009, del Ministerio de Educación, o por el que en el futuro lo reemplace y, además, por las siguientes normas:
+El proceso pedagógico de los alumnos con Trastornos Específicos del Lenguaje (TEL) se regirá por las siguientes normas:
 
-a) De la atención pedagógica:
+a. Del ingreso: El ingreso de los alumnos a una escuela especial de lenguaje o a un proyecto de integración escolar se regirá por lo dispuesto en el Reglamento que fija normas para determinar los alumnos con necesidades educativas especiales que serán beneficiarios de las subvenciones para educación especial.
 
-El proceso educativo de los párvulos diagnosticados con Trastorno Específico del Lenguaje (TEL) y que asisten a una escuela de lenguaje debe regirse por la normativa de Bases Curriculares, Marco para la Buena Enseñanza y orientaciones técnico-pedagógicas de la Educación Parvularia.
+b. De la atención pedagógica:
 
-El trabajo, tanto de los profesores especialistas como del profesional fonoaudiólogo, se orientará a apoyar la superación de las dificultades de lenguaje que pueda experimentar el niño o niña para progresar en los objetivos de aprendizaje de las Bases Curriculares.
+* El diagnóstico fonoaudiológico deberá ser complementado con una evaluación realizada por el profesor especialista del grupo curso que determine las necesidades educativas especiales que se deriven del TEL;
 
-El diseño y planificación del proceso educativo, sus ajustes y el plan de apoyo específico que se entregarán a cada niño o niña durante el periodo escolar, debe ser consensuado en el Equipo Técnico del establecimiento educacional, entre profesionales docentes y especialistas.
+* Las pruebas a aplicarse para determinar las necesidades educativas especiales quedarán a criterio del profesor especialista, las que deberán ser consensuadas en el Gabinete Técnico o la Unidad Técnico Pedagógica del establecimiento, según corresponda;
 
-b) Evaluación:
+* El trabajo, tanto de los profesores especialistas como del profesional fonoaudiólogo se orientará a la superación de las dificultades que el alumno pueda experimentar en su progreso escolar, contextualizadas al currículum pertinente;
 
-La evaluación se concibe como un proceso permanente y sistemático al servicio del aprendizaje, por medio del cual el equipo pedagógico recoge, a través de diferentes fuentes y estrategias, evidencias que den cuenta de los aprendizajes y el desarrollo de los niños y niñas, al mismo tiempo que se indaga sobre la efectividad de las prácticas pedagógicas implementadas.
+* La atención pedagógica se implementará sobre la base de los lineamientos entregados por las Bases Curriculares de la Educación Parvularia, o en concordancia con los planes y programas que se derivan de los OF-CMO de la Educación Básica, según corresponda;
 
-Luego, esta información es analizada para determinar los avances obtenidos en función de los objetivos propuestos. A partir de esto, es posible que el equipo pedagógico reflexione y emita un juicio de valor que permita tomar decisiones fundamentadas, en torno a la mejora constante del proceso de enseñanza y aprendizaje.
+* El acceso de los alumnos a los contenidos correspondientes se mediará con adecuaciones curriculares cuando sea pertinente;
 
-Las evaluaciones se llevarán a cabo dos veces al año, de manera semestral:
+* Tanto las adecuaciones curriculares del Plan General como las intervenciones del Plan Específico deberán ser consensuadas en el Gabinete Técnico del establecimiento que atienda el alumno;
 
-.Evaluación inicial (de ingreso) requerida para acreditar la presencia del trastorno específico del lenguaje (TEL) y la existencia de necesidades educativas especiales (NEE) asociadas al mismo.
+* La evaluación estará en relación con el progreso del alumno en los contenidos curriculares, considerando las adecuaciones al currículo que se hayan efectuado en cada caso particular;
 
-.Reevaluación (integral) a final de cada año, con el objetivo de verificar si persisten características del trastorno específico del lenguaje y orientar o reorientar los tipos de Apoyos que requiere cada estudiante.
+* Asimismo, la evolución del TEL será evaluada como parte del proceso de colaboración entre los distintos actores en forma trimestral. De no haber progreso, el equipo de docentes especialistas, junto al fonoaudiólogo y la familia deberán replantear el currículum;
 
-La evaluación del progreso en los objetivos de aprendizaje del currículum del nivel, debe estar en consonancia con la planificación establecida para el nivel educativo, y tener en cuenta, a su vez, el plan de apoyo y/o itinerario pedagógico planificado para cada niño o niña, a partir del diagnóstico, del trastorno específico del lenguaje y sus necesidades educativas especiales asociadas, lo que permitirá, además, valorar la efectividad de los apoyos pedagógicos y fonoaudiológicos, entregados y reorientarlos de acuerdo a las necesidades del estudiante.
+* La participación de la familia del alumno es de responsabilidad de la escuela especial de lenguaje y ésta debe involucrarse activamente en el proceso, incluyendo entrevistas, reuniones y programación de visitas con los padres (en el hogar o en los establecimientos educacionales), aplicación de anamnesis, orientación en las actividades de apoyo a realizar en el hogar, realización de talleres de desarrollo de habilidades de la comunicación para padres, realizar escuelas para padres (Educación General y formación de monitores), guías para padres, participación en las reuniones técnicas de profesores, participación en actividades del Gabinete Técnico, entre otras.
 
-La participación de la familia o cuidadores del niño o la niña se considera como parte fundamental del proceso de aprendizaje integral y en la superación de las dificultades del lenguaje, por lo que es de responsabilidad del equipo técnico del establecimiento educacional propiciar su involucramiento a través de diferentes instancias, considerando visitas en el domicilio, entre otras, si fuese necesario.
+* La educación en la escuela especial de lenguaje se dará en las siguientes instancias:
 
-En caso de que se resuelva continuar con los apoyos por un siguiente año, la nueva evaluación inicial no requerirá repetir aquello que se haya reevaluado al final del año anterior. Sin perjuicio de ello, dicha evaluación deberá desarrollarse considerando los criterios señalados en el reglamento que fija normas para determinar los estudiantes con necesidades educativas especiales beneficiarios de la subvención para educación especial.
+- A nivel del Gabinete Técnico, que incluye al profesor de aula, profesor especialista, fonoaudiólogo y al jefe del Gabinete, que tiene como objeto el desarrollo curricular;
 
-En caso de no evidenciarse progresos en el logro de los objetivos de aprendizaje del nivel como en la determinación de los tipos de apoyo para la superación de las características del trastorno especifico del lenguaje, el equipo técnico pedagógico, docentes especialistas, junto al fonoaudiólogo y la familia o cuidadores del niño o niña deberán establecer nuevas decisiones pedagógicas sobre los apoyos iniciales definidos, para efectuar las modificaciones y/o ajustes necesarios al plan de apoyo o itinerario pedagógico planificada para tal efecto.
+- Trabajo colaborativo entre el profesor especialista de aula y el fonoaudiólogo en la implementación de la planificación del curso;
 
-c) Egreso:
+- Implementación del Plan de Estudio en el aula por parte del profesor especialista, que involucra la planificación, desarrollo de materiales y actividades que estimulen el desarrollo del lenguaje en sus alumnos; y
 
-Cuando corresponda, de acuerdo con la edad y el informe de reevaluación integral conducente a la promoción del alumno, este podrá ser promovido a la educación regular, señalándose expresamente el nivel de progresos y los apoyos necesarios para que continúe su trayectoria escolar.
+- Atención individual o en pequeños grupos de alumnos por parte del profesional fonoaudiólogo en el aula de recursos para habilitar las competencias de lenguaje características de su TEL.
+
+* La educación en el establecimiento de Enseñanza Formal Regular con Proyecto de Integración Escolar se dará en las siguientes instancias:
+
+- Trabajo en la Unidad Técnico Pedagógica, con participación del profesor de aula, profesor especialista, fonoaudiólogo y el jefe de la Unidad Técnico Pedagógica del establecimiento que tiene como objeto el desarrollo del currículum;
+
+- Asesoramiento y colaboración que involucra apoyo al docente de aula en la planificación, desarrollo de actividades y materiales que estimulen el desarrollo del lenguaje en sus alumnos;
+
+- Trabajo de colaboración en aula que involucra al profesor especialista y al fonoaudiólogo en la implementación de la planificación;
+
+- Atención individual o en pequeños grupos por parte del profesor especialista en el aula de recursos; y
+
+- Atención individual o en pequeños grupos por parte del profesional fonoaudiólogo en el aula de recursos para habilitar las competencias de lenguaje características de su TEL.
+
+c. Del egreso:
+
+* El egreso de los alumnos de las Escuelas de Lenguaje deberá ser consensuado en trabajo de Gabinete Técnico (profesor especialista, fonoaudiólogo, profesor de aula y jefe Gabinete Técnico) y se podrán egresar a los niños y niñas sólo anualmente;
+
+* Los criterios de egreso son los siguientes:
+
+- Por haber superado el TEL. Esto deberá reflejarse en su rendimiento escolar y la decisión deberá ser congruente con la evaluación de progreso descrita anteriormente.
+
+- Por promoción a la educación regular. En cuyo caso, si el alumno aún requiere de apoyo especializado, éste deberá darse en la escuela básica con el correspondiente Proyecto de Integración Escolar;
+
+* El egreso deberá ser documentado con un informe pedagógico que detalle el rendimiento escolar del alumno, junto a una síntesis de las intervenciones pedagógicas realizadas. El informe deberá contener recomendaciones y orientaciones pedagógicas futuras;
+
+* La familia debe ser parte del proceso de toma de decisiones acerca del egreso de los niños y niñas.
 
 #### Artículo 11
 
