@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.192, de 30 de marzo de 2010, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 688 de 2010, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo y control del esfuerzo de la flota artesanal espinelera en las pesquerías demersales de los recursos Congrio dorado (Genypterus blacodes) y Raya (Dipturus spp) en aguas marítimas de la X Región, temporada 2010", en los siguientes términos:
+
+a) En el sentido de incrementar en 613 toneladas la cuota máxima total del recurso Raya volantín, a ser capturadas entre los meses de abril y noviembre de 2010, la que se fraccionará mensualmente en los términos indicados en la resolución extractada.
+
+En el evento que las fracciones mensuales indicadas en la resolución extractada sean extraídas antes del término de los respectivos períodos, se deberán suspender las actividades de pesca efectuadas al amparo de la presente pesca de investigación, lo que será determinado por el Servicio Nacional de Pesca e informadas oportunamente a los interesados. Sin perjuicio de lo anterior, en el evento antes indicado, se autoriza la captura de Raya volantín como fauna acompañante del recurso Congrio dorado, hasta un 5% medido en peso por viaje de pesca de la especie objetivo, y
+
+b) En el sentido de incrementar en 48 toneladas la cuota máxima total del recurso Raya espinosa, a ser capturadas como fauna acompañante de Raya volantín, entre los meses de abril y noviembre de 2010, la que se fraccionará mensualmente en los términos indicados en la resolución extractada.
+
+Valparaíso, 30 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
