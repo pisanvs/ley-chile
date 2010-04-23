@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.154, de 29 de marzo de 2010, de esta Subsecretaría, modifícase la resolución Nº 1.147 de 2009, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Operación de un Sistema de Monitoreo para el recurso Almeja en el Plan de Manejo de la Zona Contigua, Regiones X y XI, periodo 2009", en el sentido de extender su vigencia hasta el 30 de septiembre de 2010.
+
+Valparaíso, 29 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
