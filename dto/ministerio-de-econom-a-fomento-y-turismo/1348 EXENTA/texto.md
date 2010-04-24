@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.348, de 15 de abril de 2010, de esta Subsecretaría, autorízase a IMPORTACIONES Y EXPORTACIONES CHILE TRADE SOLUTIONS LIMITADA, para iniciar actividades pesqueras de transformación, instalar y operar planta en Sala Nº3 del Delfrío Frigorífico de Valparaíso S.A., Ruta 68 Nº 1240, Placilla de Peñuelas, Valparaíso, V Región, para elaborar en líneas de Fresco Enfriado y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 15 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
