@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.131, de 25 de marzo de 2010, de esta Subsecretaría, modifícase el numeral 4.- de la resolución exenta Nº 924, modificada mediante resoluciones exentas Nº 1.030 y Nº 1.082, todas de 2010, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel en la III Región, temporada 2010", en el sentido de incorporar a la embarcación artesanal "María I" (RPA 951283) al listado de embarcaciones autorizadas a participar en la presente pesca de investigación.
+
+Valparaíso, 25 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
