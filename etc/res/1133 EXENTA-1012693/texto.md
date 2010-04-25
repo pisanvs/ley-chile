@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.133, de 26 de marzo de 2010, de esta Subsecretaría, modifícase el numeral 5 Ter de la resolución exenta Nº 924, modificada mediante resoluciones exentas Nº 1030 y Nº 1082, todas de 2010, de esta Subsecretaría, que autorizó a la Universidad de Antofagasta para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel en la III Región, temporada 2010", en el sentido de señalar que la cuota de 1.500 toneladas del recurso Jurel autorizada a extraer en el marco de la citada pesca de investigación se fraccionará en los siguientes términos:
+
+a) 200 toneladas del recurso Jurel, para embarcaciones artesanales de eslora inferior a 10 metros, cuyo puerto base de operación sea Chañaral o Huasco, las que podrán ser capturadas desde la fecha de la presente resolución, y
+
+b) 1.300 toneladas del recurso Jurel, para las demás embarcaciones participantes en la citada pesca de investigación, las que sólo podrán ser capturadas una vez agotada la cuota establecida en el numeral 5 Bis.- de la resolución exenta Nº 924 de 2010, de esta Subsecretaría.
+
+Valparaíso, 26 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
