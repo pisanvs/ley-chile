@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.241, de 7 de abril de 2010, de esta Subsecretaría, autorízase a CHILE SUR PRODUCTOS SOCIEDAD ANÓNIMA para iniciar actividades pesqueras de transformación, instalar y operar planta en Quinta Transversal Nº 5761, San Miguel, Región Metropolitana, para elaborar en línea de Fresco enfriado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
