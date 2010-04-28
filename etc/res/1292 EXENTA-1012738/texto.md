@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.292, de 7 de abril de 2010, de esta Subsecretaría, autorízase a SOCIEDAD LAS GRANADAS LIMITADA, para iniciar actividades pesqueras de transformación, instalar y operar una planta en Ruta 5, Km. 15, San Antonio Rural, Ancud, Chiloé, X Región, para elaborar en las líneas de Cocido, Fresco enfriado, Congelado y Conservas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
