@@ -354,7 +354,7 @@ b) Las que hubieren celebrado más de un contrato de arrendamiento con promesa d
 
 c) Las que hubieren obtenido del SERVIU o de sus antecesores legales, o de las Municipalidades, una vivienda o una infraestructura sanitaria definida en el decreto supremo mencionado en la letra a ) anterior, o a través de los mecanismos del Impuesto Habitacional, o un Subsidio Habitacional o una Subvención Municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del SERVIU o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda, y lo hubieren aplicado a la adquisición o construcción de una vivienda o infraestructura sanitaria, o lo hubiere obtenido y aplicado su cónyuge, aunque la hubieren transferido posteriormente.
 
-No regirán las prohibiciones establecidas en el inciso anterior en los casos señalados en las letras a, b, c, d, e, f y g del número 5 del artículo 14 del D.S. N°40 (V. y U.), de 2004, aplicándose al respecto las condiciones señaladas en las letras indicadas, según corresponda.
+No regirán las prohibiciones establecidas en el inciso anterior en los casos señalados en las letras a, b, c, d, e, f, g y h del número 5 del artículo 14 del D.S. N°40 (V. y U.), de 2004, aplicándose al respecto las condiciones señaladas en las letras indicadas, según corresponda.
 
 d) Las que tengan un certificado de subsidio vigente extendido a su favor o si lo tuviere su cónyuge, como asimismo las que estuvieran incluidas en nóminas de postulantes seleccionados en cualesquiera de los sistemas habitacionales del Sector Vivienda y Urbanismo o cuando lo estuviere su cónyuge.
 
@@ -520,11 +520,47 @@ DEROGADO
 
 Los arrendadores promitentes vendedores que hayan celebrado contrato de arrendamiento con promesa de compraventa en los que se hubiere aplicado el subsidio habitacional que regula el presente Título, deberán comunicar mensualmente al Registro Especial de Beneficiarios a que se refiere el inciso segundo del artículo 24, la nómina de las cesiones de contratos que hubieren efectuado y la nómina de los arrendatarios promitentes compradores cuyos contratos hubieren terminado por causas legales, durante el mes anterior a la fecha de dicha comunicación.
 
-#### Artículo transitorio
+#### Artículo 1º
 
-No obstante lo dispuesto en el inciso primero del artículo 27 de este reglamento, el primer llamado a inscripción que se realice conforme a dicho precepto, regirá para el mismo año en que se efectúe.
+transitorio.- No obstante lo dispuesto en el inciso primero del artículo 27 de este reglamento, el primer llamado a inscripción que se realice conforme a dicho precepto, regirá para el mismo año en que se efectúe.
 
 Los postulantes inscritos para el llamado a que alude el inciso anterior, que no alcancen a dar cumplimiento a lo previsto en el artículo 28 antes del 31 de Diciembre del año en que se efectúe dicho llamado, mantendrán su inscripción para el año siguiente, sin que para ello sea necesario que medie solicitud del interesado ni actualización de los datos de su inscripción.
+
+#### Artículo 2°
+
+transitorio.- No obstante lo dispuesto en el artículo 23 del presente decreto, los postulantes al subsidio regulados por las letras A, B y C de dicho artículo, que hasta el 31 de diciembre de 2010 celebren contratos de arrendamiento con promesa de compraventa, podrán optar a los montos máximos de subsidio expresados todos en Unidades de Fomento, que se señalan en la siguiente tabla:
+
+Precio de la Vivienda Subsidio
+
+(en UF) (en UF)
+
+Hasta 1.000 200
+
+Más de 1.000 y hasta 2.000 300 – 0,1*P
+
+En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso tercero del artículo 23 de este reglamento.
+
+El monto de subsidio que corresponda se determinará en el momento de su aplicación, de acuerdo al precio de la vivienda respectiva.
+
+En el caso de viviendas de hasta 1.000 Unidades de Fomento, el subsidio habitacional podrá aplicarse a contratos de arrendamiento con promesa de compraventa que consideren viviendas nuevas o usadas. Tratándose de viviendas de más de 1.000 y hasta 2.000 Unidades de Fomento, el subsidio habitacional sólo podrá aplicarse a contratos de arrendamiento con promesa de compraventa que consideren viviendas económicas nuevas.
+
+El postulante deberá contar por todo el plazo del contrato de arrendamiento con promesa de compraventa, con un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que cubrirá doce aportes del pago regular del contrato de arrendamiento con promesa de compraventa por los primeros treinta y seis meses del contrato, para cuyo financiamiento el arrendatario promitente comprador obtendrá un subsidio adicional de un monto equivalente al de la prima respectiva, el que se aplicará al pago de ésta. El arrendatario promitente comprador deberá asumir el costo de dicho seguro por el resto del plazo del contrato de arrendamiento con promesa de compraventa, que deberá cubrir el pago regular de éste por un mínimo de seis aportes, pudiendo aplicarse nuevamente esta última cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada.
+
+En caso que el beneficiario o uno o más integrantes del grupo familiar acreditado por éste estuviere inscrito en el Registro Nacional de la Discapacidad, los montos de subsidio indicados en la tabla precedente, se incrementarán con hasta 20 Unidades de Fomento, siempre que se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante, lo que deberá se aprobado por el SERVIU previo a la suscripción del respectivo contrato de arrendamiento con promesa de compraventa.
+
+Si la vivienda objeto del contrato de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional a que se refiere este artículo fuere objeto de remate judicial por incumplimiento en el pago de los aportes a que se refiere el artículo 37 de la Ley N° 19.281, y el producido del remate más los fondos que el arrendatario promitente vendedor tenga depositados en la cuenta de ahorro o haya abonado al arrendador promitente vendedor conforme a lo dispuesto en el artículo 7° de la Ley 19.281, así como todo otro aporte o abono efectuado destinado al precio de la compraventa prometida, debidamente estipulado en el respectivo contrato, sin deducción de monto alguno por concepto de otros pagos que correspondan con cargo a dichos fondos, no alcanzaren a cubrir el precio prometido de venta, el SERVIU enterará al arrendador promitente vendedor por concepto de seguro de remate, los siguientes porcentajes de la diferencia producida para enterar el precio de compraventa prometido con las rentas de arrendamiento devengadas y no pagadas y las costas del juicio, según el precio de la vivienda:
+
+Precio de la Vivienda Seguro de Remate Tope
+
+(en UF) (en UF)
+
+Hasta 1.000 100% 150
+
+Más de 1.000 y hasta 2000 (150 -0,05*P)% 200
+
+En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso tercero del artículo 23 de este reglamento.
+
+Las sociedades inmobiliarias que tuvieren vigente el convenio suscrito con el Ministerio de Vivienda y Urbanismo a que se refiere el inciso cuarto del articulo 38 del presente reglamento, podrán optar por celebrar contratos de arrendamiento con promesa de compraventa con los beneficiarios de subsidio, en los términos establecidos en el presente artículo, en cuyo caso no regirán a su respecto los topes para el seguro de remate señalados en la tabla precedente.
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la Republica.- Edmundo Hermosilla Hermosilla, Ministro de Vivienda y Urbanismo.
 
