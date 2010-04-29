@@ -594,11 +594,11 @@ En caso que el beneficiario o uno o más integrantes del grupo familiar acredita
 
 #### Artículo 29
 
-El Subsidio Habitacional obtenido conforme a las normas de este Título, sólo podrá aplicarse al pago del precio de adquisición de una vivienda económica que se origine por la rehabilitación de un inmueble ubicado en una Zona de Conservación Histórica o en un Inmueble de Conservación Histórica definidos en el respectivo Instrumento de Planificación Territorial, que además cumpla con los siguientes requisitos:
+El Subsidio Habitacional obtenido conforme a las normas de este Título, sólo podrá aplicarse al pago del precio de adquisición de una vivienda económica que se origine por la rehabilitación de un inmueble ubicado en una Zona de Conservación Histórica o en un Inmueble de Conservación Histórica, definidos en el respectivo Instrumento de Planificación Territorial, o en un inmueble situado en Zona Típica según lo dispuesto en la Ley N° 17.288, que Legisla sobre Monumentos Nacionales, que además cumpla con los siguientes requisitos:
 
 a. Que el inmueble objeto de la rehabilitación corresponda a una construcción anterior al 31 de Julio de 1959, fecha de la publicación en el Diario Oficial del D.F.L. N° 2, de 1959.
 
-b. Que de la rehabilitación se generen dos o más viviendas económicas, la que deberá contar con autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo, de acuerdo al inciso segundo del artículo 60 de la Ley General de Urbanismo y Construcciones.
+b. Que de la rehabilitación se generen dos o más viviendas económicas, la que deberá contar con autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo para los Inmuebles y Zonas de Conservación Histórica, de acuerdo con lo establecido en el inciso segundo del artículo 60 de la Ley General de Urbanismo y Construcciones, o con autorización del Consejo de Monumentos Nacionales cuando se trate de inmuebles ubicados en Zonas Típicas declaradas como tales conforme al Título VI de la Ley N° 17.288, que Legisla sobre Monumentos Nacionales.
 
 #### Artículo 30
 
