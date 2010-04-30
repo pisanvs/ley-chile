@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.389, de 16 de abril de 2010, de esta Subsecretaría, autorízase a SOCIEDAD NORDIO LTDA., para ampliar actividades pesqueras extractivas con la nave "Puma I" en el área marítima de la V Región, por fuera del área de reserva artesanal, con espinel y arrastre, sobre el recurso hidrobiológico Raya volantín.
+
+Valparaíso, 16 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca .
