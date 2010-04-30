@@ -142,7 +142,7 @@ Dichas compañías, para el acceso a los servicios de reparaciones, atención de
 
 Además, en los servicios de reparaciones, atención de reclamos y atención comercial, deberán informar, a requerimiento de los usuarios, el número de suscriptor o de servicio complementario que las demás compañías telefónicas locales, de la misma zona primaria, y compañías móviles en su caso, destinen para esos mismos servicios a sus usuarios.
 
-Sin perjuicio de lo dispuesto en el presente artículo y en los artículos 13º, 14º bis y 22º, sólo se utilizará numeración especial de tres dígitos en la red pública telefónica para los servicios de emergencia y para acceder a servicios de información y orientación de la ciudadanía por parte del Estado, para lo cual se empleará el número 101.
+Sin perjuicio de lo dispuesto en el presente artículo y en los artículos 13º, 14º bis y 22º, sólo se utilizará numeración especial de tres dígitos en la red pública telefónica para los servicios de emergencia.
 
 #### Artículo 13º
 
