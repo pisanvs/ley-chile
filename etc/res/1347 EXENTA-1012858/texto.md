@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.347, de 15 de abril de 2010, de esta Subsecretaría, modifícase el numeral 3.- de la resolución Nº 1269 de 2009, modificada por resolución Nº 304 de 2010, ambas de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Operación de un Sistema de Monitoreo para el recurso Luga roja en el Plan de Manejo de la Zona Contigua, Regiones X y XI, período 2009", en el sentido de extender su vigencia por 30 días, contados desde la fecha de la presente resolución.
+
+Valparaíso, 15 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
