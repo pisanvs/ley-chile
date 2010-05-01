@@ -188,11 +188,15 @@ La persona que actúe ante el Servicio como administrador, representante o manda
 
 #### Artículo 10
 
-Las actuaciones del Servicio deberán practicarse en días y horas hábiles, a menos que por la naturaleza de los actos fiscalizados deban realizarse en días u horas inhábiles.
+Las actuaciones del Servicio deberán practicarse en días y horas hábiles, a menos que por la naturaleza de los actos fiscalizados deban realizarse en días u horas inhábiles. Para los fines de lo dispuesto en este inciso, se entenderá que son días hábiles los no feriados y horas hábiles, las que median entre las ocho y las veinte horas.
 
-Los plazos de días que establece este Código se entenderán de días hábiles.
+Los plazos de días insertos en los procedimientos administrativos establecidos en este Código son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos.
 
-Los plazos relacionados con las actuaciones del Servicio que venzan en días sábado o en día feriado, se entenderán prorrogados hasta el día hábil siguiente.
+Los plazos se computarán desde el día siguiente a aquél en que se notifique o publique el acto de que se trate o se produzca su estimación o su desestimación en virtud del silencio administrativo. Si en el mes de vencimiento no hubiere equivalente al día del mes en que comienza el cómputo, se entenderá que el plazo expira el último día de aquel mes.
+
+Cuando el último día de un plazo de mes o de año sea inhábil, éste se entenderá prorrogado al primer día hábil siguiente.
+
+Las presentaciones que deba hacer el contribuyente, que pendan de un plazo fatal, podrán ser entregadas hasta las 24 horas del último día del plazo respectivo en el domicilio de un funcionario habilitado especialmente al efecto. Para tales fines, los domicilios se encontrarán expuestos al público en un sitio destacado de cada oficina institucional.
 
 #### Artículo 11
 
@@ -472,6 +476,10 @@ Asimismo, el Presidente de la República podrá ampliar el plazo para la present
 
 El Director podrá ampliar el plazo de presentación de aquellas declaraciones que se realicen por sistemas tecnológicos y que no importen el pago de un impuesto, respetando el plazo de los contribuyentes con derecho a devolución de impuestos. En todo caso, la ampliación del plazo no podrá implicar atraso en la entrega de la información que deba proporcionarse a Tesorería.
 
+#### Artículo 36 bis
+
+Los contribuyentes que al efectuar su declaración incurrieren en errores que incidan en la cantidad de la suma a pagar, podrán efectuar una nueva declaración, antes que exista liquidación o giro del Servicio, corrigiendo las anomalías que presenta la declaración primitiva y pagando la diferencia resultante, aun cuando se encontraren vencidos los plazos legales, sin perjuicio de la aplicación de las sanciones y recargos que correspondan a las cantidades no ingresadas oportunamente y las sanciones previstas en los números 3 y 4 del artículo 97 de este Código, si fueren procedente.
+
 ## Título III
 
 GIROS, PAGOS, REAJUSTES E INTERESES
@@ -484,9 +492,9 @@ De los giros y pagos
 
 Los tributos, reajustes, intereses y sanciones deberán ser ingresados al Fisco mediante giros que se efectuarán y procesarán por el Servicio, los cuales serán emitidos mediante roles u órdenes de ingreso, salvo los que deban pagarse por medio de timbres o estampillas; los giros no podrán ser complementados, rectificados, recalculados, actualizados o anulados sino por el organismo emisor, el cual será el único habilitado para emitir los duplicados o copias de los documentos mencionados precedentemente hasta que Tesorería inicie la cobranza administrativa o judicial. El Director dictará las normas administrativas que estime más convenientes para el correcto y expedito giro de los impuestos. Si estas normas alteraren el método de trabajo de las tesorerías o impusieren a éstas una nueva obligación, deberán ser aprobadas por el Ministro de Hacienda.
 
-Facúltase al Servicio de Impuestos Internos para aproximar a diez centavos la determinación y/o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las fracciones inferiores a cinco centavos y elevándose a diez centavos las iguales o mayores a dicha cantidad.
+Facúltase al Servicio de Impuestos Internos para aproximar a pesos la determinación y, o giro de los impuestos, reajustes, derechos, intereses, multas y recargos, despreciándose las cifras inferiores a cincuenta centavos, y elevándose las iguales o mayores a esta suma al entero superior.
 
-Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingresos y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
+Asimismo, facúltase al Servicio para omitir el giro de órdenes de ingreso y/o roles de cobro por sumas inferiores a un 10% de una unidad tributaria mensual, en total. En estos casos se podrá proceder a la acumulación hasta por un semestre calendario de los giros inferiores al porcentaje señalado, respecto de un mismo tipo de impuesto, considerándose para los efectos de la aplicación de intereses, multas y recargos, como impuestos correspondientes al último período que se reclame y/o gire.
 
 Del mismo modo y con los mismos efectos señalados en el inciso anterior, en los casos en que rija el sistema de declaración y pago simultáneo, los contribuyentes podrán acumular hasta por un semestre calendario los impuestos cuyo monto sea inferior a un 10% de una unidad tributaria mensual, respecto del total de impuestos que deban pagarse simultáneamente en una misma oportunidad.
 
@@ -532,7 +540,7 @@ Estos avisos se remitirán a la dirección correspondiente al inmueble que motiv
 
 #### Artículo 45
 
-El Servicio deberá comunicar al contribuyente el monto de los impuestos a la renta que deban pagarse previa declaración, cuando sea necesaria la confección de roles de pago. La comunicación se enviará con un mes de anticipación, a lo menos, a la fecha inicial del período en que deba efectuarse el pago, por medio de carta certificada dirigida al domicilio indicado en la declaración o en la forma que el Servicio determine.
+Derogado.
 
 #### Artículo 46
 
@@ -754,7 +762,7 @@ El Servicio hará uso de todos los medios legales para comprobar la exactitud de
 
 El Jefe de la Oficina respectiva del Servicio podrá citar al contribuyente para que, dentro del plazo de un mes, presente una declaración o rectifique, aclare, amplíe o confirme la anterior. Sin embargo, dicha citación deberá practicarse en los casos en que la ley la establezca como trámite previo. A solicitud del interesado dicho funcionario podrá ampliar este plazo, por una sola vez, hasta por un mes. Esta facultad podrá ser delegada en otros jefes de las respectivas oficinas.
 
-La citación producirá el efecto de aumentar los plazos de prescripción en los términos del inciso 3° del artículo 200 respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en ella.
+La citación producirá el efecto de aumentar los plazos de prescripción en los términos del inciso 4° del artículo 200 respecto de los impuestos derivados de las operaciones que se indiquen determinadamente en ella.
 
 #### Artículo 64
 
@@ -774,9 +782,9 @@ La reclamación que se deduzca se sujetará al procedimiento general establecido
 
 #### Artículo 65
 
-En los casos a que se refiere el número 4° del artículo 97°, el Servicio tasará de oficio y para todos los efectos tributarios el monto de las ventas u operaciones gravadas sobre las cuales deberá pagarse el impuesto y las multas. Para estos efectos se presume que el monto de las ventas y demás operaciones gravadas no podrá ser inferior, en un período determinado, al monto de las compras efectuadas y de las existencias iniciales, descontándose las existencias en poder del contribuyente y agregando las utilidades fijadas por los organismos estatales, tratándose de precios controlados, o las que determine el Servicio, en los demás casos.
+En los casos a que se refiere el número 4° del artículo 97, el Servicio tasará de oficio y para todos los efectos tributarios el monto de las ventas u operaciones gravadas sobre las cuales deberá pagarse el impuesto y las multas. Para estos efectos se presume que el monto de las ventas y demás operaciones gravadas no podrá ser inferior, en un período determinado, al monto de las compras efectuadas y de las existencias iniciales, descontándose las existencias en poder del contribuyente y agregando las utilidades fijadas por los organismos estatales, tratándose de precios controlados, o las que determine el Servicio, en los demás casos.
 
-Se presume que en el caso del aviso o detección de la pérdida o inutilización de los libros de contabilidad o documentos a que se refiere el inciso segundo del N° 16 del artículo 97, la base imponible de los impuestos de la Ley de la Renta será la que resulte de aplicar sobre el monto de las ventas anuales hasta el porcentaje máximo de utilidad tributaria que hayan obtenido las empresas análogas y similares. El porcentaje máximo aludido será determinado por el Servicio de Impuestos Internos, con los antecedentes de que disponga.
+Se presume que en el caso del aviso o detección de la pérdida o inutilización de los libros de contabilidad o documentos a que se refiere el inciso primero del N° 16 del artículo 97, la base imponible de los impuestos de la Ley de la Renta será la que resulte de aplicar sobre el monto de las ventas anuales hasta el porcentaje máximo de utilidad tributaria que hayan obtenido las empresas análogas y similares. El porcentaje máximo aludido será determinado por el Servicio de Impuestos Internos con los antecedentes de que disponga.
 
 ### Párrafo 2° — .
 
@@ -870,7 +878,7 @@ Los notarios titulares, suplentes o interinos comunicarán al Servicio todos los
 
 #### Artículo 77
 
-Para los efectos de dar cumplimiento a las obligaciones tributarias de la Ley de Impuestos de Timbres, Estampillas y Papel Sellado, los tesoreros fiscales, los notarios públicos, los conservadores de bienes raíces y los secretarios de juzgados, deberán enviar al Servicio, dentro de los diez primeros días de cada mes, un estado que contenga los datos que se establecen en el reglamento de dicha ley.
+Derogado.
 
 #### Artículo 78
 
@@ -880,11 +888,7 @@ Cesará dicha responsabilidad si el impuesto hubiere sido enterado en Tesorería
 
 #### Artículo 79
 
-Los jueces de letras y los jueces de árbitros deberán vigilar el pago de los impuestos establecidos en la Ley de Timbres, Estampillas y Papel Sellado, en los juicios de que conocieren.
-
-Los secretarios deberán dar cuenta especial de toda infracción que notaren en los escritos y documentos presentados a la causa.
-
-Antes de hacer relación de una causa, el relator deberá dar cuenta al tribunal de haberse pagado debidamente los impuestos establecidos en esa ley, y en caso que notare alguna infracción, el tribunal amonestará al juez de la causa, y ordenará que el secretario de primera instancia entere dentro del plazo que señale el valor de la multa correspondiente. Se dejará testimonio en el proceso de la cuenta dada por el relator y de la resolución del tribunal.
+Derogado.
 
 #### Artículo 80
 
@@ -1410,7 +1414,7 @@ La reclamación del contribuyente en que haga uso del derecho que le confiere el
 
 #### Artículo 128
 
-Las sumas que un contribuyente haya trasladado o recargado indebidamente o en exceso, por concepto de impuestos, deberán ser enteradas en arcas fiscales, no pudiendo solicitarse su devolución sino en los casos en que se acredite fehacientemente, a juicio exclusivo del Director Regional de Impuestos Internos, haberse restituido dichas sumas a las personas que efectivamente soportaron el gravamen indebido.
+Las sumas que un contribuyente haya trasladado o recargado indebidamente o en exceso, por concepto de impuestos, deberán ser enteradas en arcas fiscales, no pudiendo disponerse su devolución sino en los casos en que se acredite fehacientemente, a juicio exclusivo del Director Regional de Impuestos Internos, haberse restituido dichas sumas a las personas que efectivamente soportaron el gravamen indebido.
 
 #### Artículo 129
 

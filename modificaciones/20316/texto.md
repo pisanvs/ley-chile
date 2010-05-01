@@ -178,7 +178,7 @@ transitorio.- Dentro de los noventa días siguientes a la publicación de la pre
 
 #### Artículo 2°
 
-transitorio.- La presente ley entrará en vigencia a contar de la publicación en el Diario Oficial de la modificación al reglamento a que se refiere el artículo precedente. Sin embargo, tanto el artículo introducido por el número 5), como las modificaciones introducidas en el número 9), ambos del artículo 1°, regirán una vez transcurrido el plazo de seis meses desde que la presente ley entre en vigencia.
+transitorio.- La presente ley entrará en vigencia a contar del 1 de enero de 2010, rigiendo para las donaciones efectuadas a partir del 1 de enero de 2009. Sin embargo, tanto el artículo introducido por el número 6), como las modificaciones introducidas en el número 9), ambos del artículo 1° , entrarán en vigencia a contar del 1 de enero de 2011, rigiendo para las donaciones que se efectúen a partir del 1 de enero de 2010.
 
 #### Artículo 3°
 

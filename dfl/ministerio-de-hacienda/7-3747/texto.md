@@ -20,147 +20,31 @@ Corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de
 
 #### Artículo 2°
 
-Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
+Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional, por la Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
 
 #### Artículo 3°
 
-La Dirección Nacional estará constituida por las Subdirecciones Fiscalización, Jurídica y Normativa y por las Subdirecciones y Departamentos que establezca el Director con sujeción a la planta de personal del Servicio.
+La Dirección Nacional estará constituida por los Departamentos Subdirecciones y Departamentos que establezca el Director con sujeción a la planta de personal del Servicio.
 
-Una de las Subdirecciones tendrá como objeto principal desarrollar políticas y programas especiales destinados a otorgar apoyo, información y asistencia a las empresas de menor tamaño a que se refiere la ley N° 20.416, y a otros contribuyentes de escaso movimiento económico, tales como los señalados en el artículo 22 de la Ley sobre Impuesto a la Renta, con el objeto de facilitar su cumplimiento tributario. Además, una de las Subdirecciones tendrá como objeto principal la contraloría interna.
+> **Nota.** El artículo 1º transitorio de la LEY 19646, establece su vigencia a contar del 1º de enero de 1999.
 
-#### Artículo 3° bis
+#### Artículo 3°bis
 
-Sin perjuicio de la jurisdicción territorial de los Directores Regionales, la Dirección de Grandes Contribuyentes tendrá competencia sobre todo el territorio nacional y ejercerá jurisdicción sobre los contribuyentes calificados como "Grandes Contribuyentes" por Resolución del Director, cualquiera fuere su domicilio.
-
-Corresponderá al Director impartir las instrucciones que sean necesarias para evitar contiendas de competencia que pudieren producirse en la aplicación de este artículo.
+La Dirección de Grandes Contribuyentes tendrá competencia sobre todo el territorio nacional y ejercerá jurisdicción sobre los contribuyentes calificados como "Grandes Contribuyentes" por Resolución del Director, cualquiera fuere su domicilio.
 
 La Dirección de Grandes Contribuyentes tendrá rango de Subdirección.
 
-#### Artículo 3° ter
-
-Créase el Consejo Tributario, en adelante "el Consejo", cuya función es emitir opinión sobre las circulares del Servicio de Impuestos Internos que deban ser sometidas al procedimiento de consulta pública obligatoria, según el párrafo segundo del numeral 1° de la letra A del artículo 6° del Código Tributario, y sobre las estrategias de fiscalización del Servicio, así como evaluar la implementación de estas últimas. Mediante acuerdo, el Consejo podrá requerir al Servicio de Impuestos Internos la información pertinente y necesaria para el ejercicio de sus funciones.
-
-A. Integración y duración en el cargo. El Consejo estará integrado por:
-
-a) El Director del Servicio de Impuestos Internos, quien lo presidirá, y
-
-b) Cuatro Consejeros, designados de conformidad a lo establecido en este literal, los cuales durarán cinco años en sus cargos, no pudiendo renovarse.
-
-Las funciones de los Consejeros y del Director no serán delegables.
-
-El Consejo Tributario contará con un secretario que será responsable de las actas de sesiones, las que serán reservadas. Para estos efectos, el Servicio de Impuestos Internos contará con un cargo de exclusiva confianza, el que será provisto por el Director a proposición del Consejo.
-
-El Ministro de Hacienda designará como Consejeros a personas con destacada experiencia y conocimiento en materia tributaria a nivel profesional o académico, en administración de servicios públicos o en el ejercicio de funciones públicas o privadas atingentes al cargo.
-
-Los Consejeros serán elegidos por el Ministro de Hacienda, entre una terna propuesta para cada cargo por el Consejo de Alta Dirección Pública. El perfil del cargo de Consejero deberá ser aprobado por el Consejo de Alta Dirección Pública, previa propuesta del Ministro de Hacienda. El Consejo se renovará por parcialidades.
-
-B. Inhabilidades e incompatibilidades. No podrán ser designados ni desempeñarse como miembros del Consejo de conformidad al literal b) de la letra A de este artículo:
-
-1. Quienes individualmente o a través de otras personas naturales o jurídicas, realicen funciones de asesoría tributaria o jurídica y/o tengan la representación administrativa o judicial de contribuyentes en procedimientos ante el Servicio de Impuestos Internos o ante tribunales por juicios tributarios, mientras ejerzan su labor de Consejero. No se considerará como inhabilidad o incompatibilidad la realización de asesorías a organismos internacionales.
-
-2. Las personas que hubieren sido condenadas por delito que merezca pena aflictiva o inhabilitación perpetua para desempeñar cargos y oficios públicos, quienes hubieren sido condenados por violencia intrafamiliar constitutiva de delito conforme a la ley N° 20.066 y, en general, quienes se encuentren inhabilitados para el ejercicio de la función pública de conformidad con el literal f) del artículo 12 de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 29, promulgado en 2004 y publicado en 2005, del Ministerio de Hacienda.
-
-3. Las personas que hubieren cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
-
-4. Las personas que tuvieren dependencia de sustancias o drogas estupefacientes o sicotrópicas cuya venta no se encuentre autorizada por la ley, a menos que se justifique su consumo por un tratamiento médico.
-
-Si alguno de los miembros de la Comisión hubiere sido acusado de alguno de los delitos señalados en el numeral 2, quedará suspendido de su cargo hasta que concluya el proceso por sentencia firme.
-
-A su vez, los cargos de Consejeros indicados en el literal b) de la letra A de este artículo serán incompatibles con:
-
-1. El cargo de diputado o diputada; senador o senadora; ministro o ministra del Tribunal Constitucional; ministro o ministra de la Corte Suprema; consejero o consejera del Banco Central; Fiscal Nacional del Ministerio Público; Contralor o Contralora General de la República, Subcontralor o Subcontralora General de la República y los cargos del alto mando de las Fuerzas Armadas y de las Fuerzas de Orden y Seguridad Pública.
-
-2. El cargo de ministro o ministra de Estado; subsecretario o subsecretaria; jefe o jefa superior de un servicio público; secretario o secretaria regional ministerial; delegado o delegada presidencial regional o provincial; gobernador o gobernadora regional; alcalde o alcaldesa y concejal o concejala; miembro del escalafón primario del Poder Judicial; secretario o secretaria y relator o relatora del Tribunal Constitucional; fiscal del Ministerio Público; miembro del Tribunal Calificador de Elecciones y su secretario-relator o secretaria-relatora; miembro de los demás tribunales creados por ley; defensor o defensora de la Defensoría Penal Pública; consejero o consejera directivo del Servicio Electoral; consejero o consejera del Consejo de Defensa del Estado; miembro de los órganos ejecutivos de algún partido político a nivel nacional o regional; candidato o candidata a elección popular y dirigente de asociación gremial o sindical.
-
-3. Los cargos de exclusiva confianza comprendidos dentro del número 10 del artículo 32 de la Constitución Política de la República.
-
-4. Los cargos que se desempeñaren sobre la base de honorarios y que asesoren directamente a las autoridades comprendidas en el artículo 38 bis de la Constitución Política de la República.
-
-La incompatibilidad de los cargos o candidatos a cargos de elección popular regirá desde la inscripción de las candidaturas hasta la fecha de la respectiva elección. En el caso de los dirigentes gremiales y sindicales, la incompatibilidad regirá hasta el cese en el ejercicio del cargo gremial.
-
-Si una vez designado en el cargo sobreviniere a un consejero alguna de las incompatibilidades o inhabilidades señaladas precedentemente, el afectado deberá informarlo inmediatamente al Presidente del Consejo y cesará de pleno derecho en el ejercicio de sus funciones.
-
-Sin perjuicio de lo dispuesto en esta letra, el cargo de Consejero es compatible con el desempeño de cargos docentes.
-
-Aquellas personas designadas como integrantes del Consejo deberán presentar, al momento de asumir en sus funciones, una declaración jurada para acreditar el cumplimiento de los requisitos establecidos en la presente ley y la circunstancia de no encontrarse afectas a las inhabilidades e incompatibilidades a las que se refieren esta letra.
-
-C. Dieta. Los Consejeros indicados en el literal b) de la letra A del presente artículo tendrán derecho a percibir una dieta correspondiente a 50 unidades de fomento por sesión con un tope mensual de 150 unidades de fomento mensuales.
-
-D. Probidad y Transparencia. Los Consejeros indicados en el literal b) de la letra A del presente artículo deberán presentar la declaración de intereses y patrimonio a que se refiere la ley N° 20.880.
-
-En caso de que los Consejeros incluyan datos inexactos u omitan inexcusablemente información relevante en las declaraciones a que se refiere el inciso anterior, se configurará la causal de cesación prevista en la letra E siguiente.
-
-Asimismo, les serán aplicables, en el ejercicio de sus funciones, las normas de probidad contenidas en las disposiciones del Título III de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1, de 2000, del Ministerio Secretaría General de la Presidencia, y estarán afectos al principio de abstención contenido en el artículo 12 de la ley N° 19.880.
-
-Respecto de sanciones penales, los Consejeros serán considerados empleados públicos de conformidad a lo establecido en el artículo 260 del Código Penal, siéndoles aplicables las normas respecto de delitos cometidos por funcionarios públicos en el desempeño de sus cargos.
-
-E. Causales de cesación. Serán causales de cesación de los Consejeros del literal b) de la letra A del presente artículo, las siguientes:
-
-i. Expiración del período para el que fue nombrado.
-
-ii. Renuncia voluntaria.
-
-iii. Condena por pena aflictiva.
-
-iv. Incapacidad psíquica o física sobreviniente.
-
-v. Incurrir en alguna causal de inhabilidad o incompatibilidad señaladas en la ley.
-
-vi. Incumplimiento grave y manifiesto de las normas sobre probidad administrativa, de conformidad con lo señalado en el decreto con fuerza de ley N° 1/19.653, promulgado en 2000 y publicado en 2001, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
-
-vii. Incumplimiento grave y manifiesto del deber de abstención, de conformidad con lo señalado en la letra D anterior.
-
-viii. Incumplimiento grave y manifiesto a las obligaciones como Consejero. Serán faltas graves la inasistencia injustificada a dos sesiones consecutivas o a tres sesiones durante un año calendario, así como no guardar la debida reserva de las materias sobre las que conozca el Consejo, entre otras, así calificadas por el Consejo.
-
-En caso de cesar uno de los Consejeros en su cargo, por cualquier causa, se procederá a la designación de un nuevo Consejero de acuerdo al procedimiento dispuesto en el inciso final de la letra A del presente artículo.
-
-F. Funcionamiento. El Consejo tomará sus decisiones por la mayoría absoluta de sus miembros de aquellos señalados en el literal b) de la letra A. Deberá dejarse constancia en acta de lo discutido y de las opiniones disidentes, si las hubiere.
-
-El quórum mínimo para sesionar será de tres Consejeros de los señalados en el párrafo anterior, más el Director del Servicio de Impuestos Internos.
-
-El Consejo deberá sesionar a lo menos dos veces al mes. Al menos una de las sesiones de cada semestre se deberá destinar a conocer y evaluar el Plan de Gestión de Cumplimiento Tributario. Sin perjuicio de lo anterior, el Consejo sesionará cada vez que su Presidente lo requiera a fin de recoger su opinión respecto de una circular, de conformidad a lo establecido en el artículo 6° bis del Código Tributario.
-
-Mediante un decreto del Ministerio de Hacienda, expedido bajo la fórmula "por orden del Presidente de la República", se fijarán las normas necesarias para el funcionamiento del Consejo y para la adecuada ejecución de las funciones que les son encomendadas.
-
-Los Consejeros no podrán solicitar la intervención, en las sesiones del Consejo, de asesores externos.
-
-#### Artículo 3° quáter
-
-Créase el Comité Ejecutivo del Servicio de Impuestos Internos, que tendrá como función adoptar las decisiones sobre las materias indicadas en la letra C del artículo 6° del Código Tributario que tengan efecto en un contribuyente determinado. Estas decisiones se adoptarán sobre la base de los antecedentes técnicos preparados por la Dirección Regional o el departamento de la Dirección Nacional que corresponda.
-
-El Comité estará integrado por el Director, quien lo presidirá, y los Subdirectores de Normativa, de Fiscalización y Jurídica.
-
-Sus decisiones se adoptarán por la mayoría absoluta de sus miembros.
-
-Mediante resolución del Director, se establecerá la forma y periodicidad con que sesionará el Comité.
-
-#### Artículo 3°
-
-quinquies.- El Director del Servicio de Impuestos Internos y los Subdirectores no podrán, una vez cesados en el cargo y por un plazo de tres meses contado desde que la cesación se ha hecho efectiva, prestar ningún tipo de servicio, sea o no remunerado, distinto de labores académicas.
-
-Durante los tres meses que dure la prohibición a que se refiere este artículo, el personal señalado en el inciso anterior tendrá derecho a percibir mensualmente de parte del Servicio de Impuestos Internos una compensación económica equivalente al 75% de la remuneración que les correspondía percibir por el ejercicio de sus funciones. La remuneración que servirá de base para el cálculo de esta compensación será el promedio de la remuneración bruta mensual de los últimos doce meses anteriores al cese de funciones, actualizadas según el índice de precios al consumidor determinado por el Instituto Nacional de Estadísticas o por el sistema de reajustabilidad que lo sustituya. Esta compensación se considerará remuneración para todos los efectos legales y no servirá de base de cálculo de ninguna otra remuneración.
-
-De la compensación a que se refiere el inciso anterior se deducirán los montos que correspondan a los ingresos que mensualmente perciba el personal señalado en el inciso primero, por la prestación de servicios que se encuentre habilitado a realizar, esto es, respecto de labores académicas o la prestación de servicios a organismos internacionales, en cuanto excedan el 25% del precitado promedio de la remuneración bruta mensual, salvo en la parte correspondiente a servicios iniciados con anterioridad al cese en el cargo, de conformidad con lo establecido en el inciso segundo del artículo 40 de la presente ley. La Tesorería General de la República estará autorizada para retener los montos que por este concepto corresponda de la devolución anual de impuestos a la renta respectiva, e imputar dichos montos a la deducción mencionada, en la forma que señale el reglamento.
-
-No procederá la compensación a que se refiere el inciso segundo en los casos en que los sujetos afectos por la prohibición de que trata este artículo cesen en sus cargos por destitución o por cualquier otra causal imputable a su conducta.
-
 #### Artículo 4°
 
-El Servicio tiene una Dirección Regional en cada Región del país y cinco en la Región Metropolitana.
+El Servicio tiene una Dirección Regional en cada Región del país y cuatro en la Región Metropolitana.
 
-Las Direcciones Regionales se denominan: I Dirección Regional, Iquique; II Dirección Regional, Antofagasta; III Dirección Regional, Copiapó; IV Dirección Regional, La Serena; V Dirección Regional, Valparaíso; VI Dirección Regional, Rancagua; VII Dirección Regional, Talca; VIII Dirección Regional, Concepción; IX Dirección Regional, Temuco; X Dirección Regional, Puerto Montt; XI Dirección Regional, Coyhaique; XII Dirección Regional, Punta Arenas; XIII Dirección Regional Metropolitana, Santiago Centro; XIV Dirección Regional Metropolitana, Santiago Poniente; XV Dirección Regional Metropolitana, Santiago Oriente; XVI Dirección Regional Metropolitana, Santiago Sur; XVII Dirección Regional, Valdivia, XVIII Dirección Regional, Arica, y XIX Dirección Regional Metropolitana, Santiago Norte.
+Las Direcciones Regionales se denominan: I Dirección Regional, Iquique; II Dirección Regional, Antofagasta; III Dirección Regional, Copiapó; IV Dirección Regional, La Serena; V Dirección Regional, Valparaíso; VI Dirección Regional, Rancagua; VII Dirección Regional, Talca; VIII Dirección Regional, Concepción; IX Dirección Regional, Temuco; X Dirección Regional, Puerto Montt; XI Dirección Regional, Coyhaique; XII Dirección Regional, Punta Arenas; XIII Dirección Regional Metropolitana, Santiago Centro; XIV Dirección Regional Metropolitana, Santiago Poniente; XV Dirección Regional Metropolitana, Santiago Oriente; XVI Dirección Regional Metropolitana, Santiago Sur; XVII Dirección Regional, Valdivia, y XVIII Dirección Regional, Arica.
 
 En las Direcciones Regionales existirán los Departamentos que establezca el Director, con sujeción a la planta del Servicio.
-
-> **Nota.** El artículo segundo transitorio de la Ley 20727, Hacienda, publicada el 31.01.2014, establece que la modificación introducida al presente artículo comenzará a regir en la fecha que fije el Director del Servicio de Impuestos Internos mediante resolución, la que no podrá exceder del año 2014.
 
 #### Artículo 4° bis
 
 El Servicio de Impuestos Internos podrá, además, relacionarse directamente con los contribuyentes y éstos con el Servicio, a través de medios electrónicos, entendiendo por tales aquéllos que tienen capacidades eléctricas, digitales, magnéticas, inalámbricas, ópticas, electromagnéticas u otras similares. Los trámites y actuaciones que se realicen a través de tales medios producirán los mismos efectos que los trámites y actuaciones efectuados en las oficinas del Servicio o domicilio del contribuyente.
-
-El Servicio de Impuestos Internos deberá establecer y administrar en su sitio web una plataforma tecnológica para que los contribuyentes de difícil fiscalización o de escaso movimiento operacional o económico, las empresas de menor tamaño según se definen en la ley Nº 20.416 y demás contribuyentes que determine a su juicio exclusivo, emitan y reciban las facturas y demás documentos electrónicos señalados en el artículo 54, registren sus operaciones y cedan o recepcionen las facturas a través del procedimiento previsto en la ley Nº19.983. Respecto de las operaciones que se ejecuten a través de esta plataforma, el Servicio acreditará para todos los efectos legales la identidad del emisor y la integridad del mensaje o documento electrónico.
-
-El Servicio mantendrá una carpeta electrónica por cada contribuyente, en la cual registrará los datos y antecedentes correspondientes a su inicio de actividades y actualización de información a que se refiere el artículo 68 del Código Tributario y término de giro a que se refiere el artículo 69 del mismo cuerpo legal. Al contenido de esta carpeta podrán acceder los funcionarios del Servicio y el contribuyente.
 
 #### Artículo 5°
 
@@ -210,7 +94,7 @@ b bis) Asesorar al Ministerio correspondiente en la negociación de Convenios In
 
 c) Dirigir, organizar, planificar y coordinar el funcionamiento del Servicio, dictar las órdenes que estime necesarias o convenientes para la más expedita marcha del mismo, supervigilar el cumplimiento de las instrucciones que imparta y la estricta sujeción de los dictámenes y resoluciones a las instrucciones que sobre las leyes y reglamento emita la Dirección;
 
-d) La representación del Fisco, cuando fuere necesario, en la aplicación y fiscalización de los impuestos a que se refiere el artículo 1°;
+d) La representación del Fisco, cuando fuere necesario, en la aplicación y fiscalización de los impuestos a que se refiere el artículo 1°, sin perjuicio de la representación que corresponde al Presidente del Consejo de Defensa del Estado conforme a la Ley Orgánica de dicho Servicio;
 
 e) Representar al Servicio en todos los asuntos, incluidos los recursos judiciales en que la ley le asigne la calidad de parte, y los recursos extraordinarios que se interpongan en contra del mismo Servicio con motivo de actuaciones administrativas o jurisdiccionales;
 
@@ -238,11 +122,9 @@ n) Celebrar contratos de prestación de servicios a honorarios, con personas nat
 
 o) Ejecutar los actos y celebrar los contratos que estime necesarios para el cumplimiento de los fines del Servicio y, entre otros, comprar, construir, reparar, arrendar y dar en arrendamiento, y mantener toda clase de bienes muebles e inmuebles, y vender servicios, con entera independencia de toda otra autoridad y sin sujeción a otro requisito que las disponibilidades presupuestarias;
 
-p) Asesorar e informar al Ministro de Hacienda, cuando éste lo requiera, en materias de competencia del Servicio y en la adopción de las medidas que a su juicio sean necesarias para la mejor aplicación y fiscalización de las leyes tributarias; y proponerle las reformas legales y reglamentarias que sean aconsejables;
+p) Asesorar e informar al Ministro de Hacienda, cuando éste lo requiera, en materias de competencia del Servicio y en la adopción de las medidas que a su juicio sean necesarias para la mejor aplicación y fiscalización de las leyes tributarias; y proponerle las reformas legales y reglamentarias que sean aconsejables; y
 
-q) Llevar a cabo acciones de capacitación destinadas a los contribuyentes, sus representantes y a sus colaboradores o intermediarios tributarios en materia de tributación fiscal interna y establecer acuerdos u otras acciones orientadas a promover el cumplimiento tributario; y
-
-r) El Director tiene además las atribuciones y deberes que a su respecto se señalan en la presente Ley Orgánica, en el Código Tributario y en las demás disposiciones legales vigentes o que se dicten.
+q) El Director tiene además las atribuciones y deberes que a su respecto se señalan en la presente Ley Orgánica, en el Código Tributario y en las demás disposiciones legales vigentes o que se dicten.
 
 ## Título III
 
@@ -260,11 +142,7 @@ Los Subdirectores son asesores del Director en las materias de su especialidad, 
 
 Actúan también como delegados del Director en la evaluación de los programas de trabajo y de su desarrollo, dentro de las respectivas áreas de su especialidad.
 
-Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entienden conferidas todas las facultades que esta ley, el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta ley queden sometidos a su jurisdicción, conforme a las instrucciones del Director.
-
-El Director podrá solicitar la renuncia del Subdirector de Departamento de Subdirección, previa comunicación dirigida por escrito al Consejo de Alta Dirección Pública, la que deberá ser fundada.
-
-Durante los ocho meses anteriores al término del período del nombramiento del Director del Servicio de Impuestos Internos, se requerirá la autorización del Consejo de Alta Dirección Pública para convocar a los procesos de selección de cargos de Subdirectores de dicho Servicio. Esta autorización será requerida por el Director y para aprobarse requerirá, al menos, cuatro votos favorables. Tanto el requerimiento como la autorización referidos deberán fundarse exclusivamente en razones de buen servicio, cuyos fundamentos se deberán señalar expresamente.
+Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entenderán conferidas todas las facultades que el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales, con excepción de las establecidas en los números 3° y 6° de la letra B) del artículo 6° del Código Tributario. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta Ley Orgánica queden sometidos a su jurisdicción.
 
 #### Artículo 10°
 
@@ -338,11 +216,11 @@ Los Directores Regionales son las autoridades máximas del Servicio dentro de lo
 
 #### Artículo 19°
 
-Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones: ARTICULO 19 (DEL ART. PRIMERO) - Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones:
+Le corresponde a los Directores Regionales dentro de sus respectivas jurisdicciones:
 
 a) Supervigilar el cumplimiento de las leyes tributarias encomendadas al Servicio, de acuerdo a las instrucciones del Director;
 
-b) Aplicar sanciones y girar multas por infracciones a las leyes tributarias que se sometan al procedimiento del artículo 165 del Código Tributario, que no hayan sido objeto de reclamo de conformidad con lo dispuesto en el número 3º de dicha disposición legal;
+b) Resolver las reclamaciones tributarias que presenten los contribuyentes y las denuncias por infracción a las leyes tributarias, en conformidad al Libro III del Código Tributario y a las instrucciones del Director;
 
 c) Ejercer las demás atribuciones que les confieren el Código Tributario y las otras disposiciones legales vigentes o que se dicten;
 
@@ -474,15 +352,21 @@ Los funcionarios percibirán, como retribución a sus servicios, las remuneracio
 
 El derecho a viático de los funcionarios del Servicio se regirá por las normas legales vigentes, sin las limitaciones establecidas en el artículo 8° del decreto de Hacienda N° 262, de 4 de Abril de 1977, y sus modificaciones, y su monto diario tendrá los siguientes valores:
 
-Grados Viático Completo Viático Sin Alojamiento
+Grados Viático completo Viático sin Viático de
 
-1 al 10 $ 76.798 $ 30.719
+Alojamiento Faena
 
-11 al 17 $ 58.567 $ 23.427
+-
 
-18 al 23 $ 44.200 $ 17.680
+1° al 2° $ 20.000 $ 8.000 $ 4.000
 
-El viático de faena para el Servicio de Impuestos Internos será el establecido en el artículo quinto de la ley Nº 19.882.
+4° al 5° $ 16.500 $ 6.600 $ 3.300
+
+6° al 10° $ 15.000 $ 6.000 $ 3.000
+
+11° al 17 $ 11.000 $ 4.400 $ 2.500
+
+18° al 23 $ 8.000 $ 3.200 $ 2.000
 
 Estos valores se aumentarán en el porcentaje general y a contar de igual fecha en que se conceda un reajuste general de remuneraciones para el sector público.
 
@@ -542,25 +426,7 @@ Con todo, para que operen estas excepciones, será necesario obtener autorizaci�
 
 #### Artículo 41°
 
-Las personas que ingresen a los escalafones del Servicio deben presentar antes de su nombramiento una declaración jurada de su patrimonio y del de su cónyuge aun cuando se encuentren separados de bienes, del conviviente civil y de sus hijos sujetos a patria potestad, y de las personas que se encuentren bajo su tutela o curatela. Dicha declaración deberá renovarse anualmente. El incumplimiento de esta obligación así como la omisión de bienes en la declaración en un porcentaje superior al 20% en valor respecto del total de bienes que debieren manifestarse, podrá ser sancionada hasta con la destitución.
-
-Para corroborar la integridad y veracidad de la información declarada, el Servicio podrá utilizar la información tributaria de la que dispone, sujeta a reserva, así como también, podrá solicitar información a otros organismos públicos.
-
-#### Artículo 41 bis
-
-El Servicio podrá corroborar el cumplimiento de las obligaciones que este Título impone a los funcionarios del Servicio, y solicitar al funcionario toda la información de respaldo en los términos del artículo 61 del decreto con fuerza de ley N° 29, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo. El Servicio podrá además efectuar dicha corroboración, oficiosamente, con toda la información contenida en sus bases de datos.
-
-#### Artículo 41 ter
-
-La institución tendrá acceso, en todo caso, a la comunicaciones llevadas a cabo a través de cuentas de correo electrónico institucionales u otros mecanismos de intercambio de información que sean provistos por el Servicio a sus funcionarios, las que podrán ser revisadas por la institución en todo caso.
-
-#### Artículo 41 bis
-
-El Servicio podrá corroborar el cumplimiento de las obligaciones que este Título impone a los funcionarios del Servicio, y solicitar al funcionario toda la información de respaldo en los términos del artículo 61 del decreto con fuerza de ley N° 29, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo. El Servicio podrá además efectuar dicha corroboración, oficiosamente, con toda la información contenida en sus bases de datos.
-
-#### Artículo 41 ter
-
-La institución tendrá acceso, en todo caso, a la comunicaciones llevadas a cabo a través de cuentas de correo electrónico institucionales u otros mecanismos de intercambio de información que sean provistos por el Servicio a sus funcionarios, las que podrán ser revisadas por la institución en todo caso.
+Las personas que ingresen a los escalafones del Servicio deben presentar antes de su nombramiento una declaración jurada de su patrimonio y del de su cónyuge aun cuando se encuentren separados de bienes. Dicha declaración deberá renovarse anualmente. El incumplimiento de esta obligación así como la omisión de bienes en la declaración en un porcentaje superior al 20% en valor respecto del total de bienes que debieren manifestarse, podrá ser sancionada hasta con la destitución.
 
 ## Título VI
 
@@ -590,11 +456,9 @@ El Director estará obligado a dar respuesta sólo a las consultas que sobre int
 
 #### Artículo 46°
 
-En los juicios y actuaciones en que intervenga el Servicio ante los Tribunales de cualquier denominación, el patrocinio y representación serán asumidos por el abogado que designe el Director o el Director Regional. Si no mediare designación específica el patrocinio y representación corresponderá al abogado de mayor jerarquía de la respectiva Dirección Regional. Los abogados podrán delegar el poder en algún funcionario del Servicio que cumpla con los requisitos de estudio que se señalan en el inciso primero del artículo 2º de la ley Nº18.120.
+En los juicios y actuaciones en que intervenga el Servicio ante los Tribunales de Justicia, el patrocinio y representación serán asumidos por el abogado que designe el Director. Si no mediare designación específica el patrocinio y representación corresponderá al abogado de mayor jerarquía de la respectiva Dirección Regional. Los abogados podrán delegar el poder en algún funcionario del Servicio que cumpla con los requisitos de estudio que se señalan en el artículo 41° de la Ley sobre Colegio de Abogados.
 
 El poder que confiera el Director y el Director Regional no requerirá la concurrencia personal de los mismos al Tribunal respectivo para la correspondiente autorización.
-
-Los abogados que asuman la representación del Servicio ante los Tribunales Tributarios y Aduaneros en las reclamaciones, podrán asistir a las audiencias que se citen conforme al artículo 132 bis del Código Tributario, para los fines a que se refiere dicha disposición.
 
 #### Artículo 47°
 
@@ -614,21 +478,9 @@ La impresión, distribución, y venta de las publicaciones del Servicio, se har�
 
 La propiedad intelectual de todos los documentos y publicaciones del Servicio pertenecerán al Estado, sin necesidad de cumplir con los requisitos que exige la ley N° 17.336.
 
-#### Artículo 50 bis
-
-El Servicio podrá enviar las cartas certificadas a que se refiere el artículo 11 del Código Tributario a través de Correos de Chile o a través de empresas de correos privadas.
-
 #### Artículo 51°
 
 Los funcionarios pertenecientes a la planta de Fiscalizadores, tendrán de pleno derecho el carácter de ministro de fe, para todos los efectos que señala el artículo 86° del Código Tributario.
-
-#### Artículo 51 bis
-
-Cuando un funcionario del Servicio, en el ejercicio de sus labores, deba sostener una entrevista con el contribuyente o sus representantes, deberá estar acompañado por otro funcionario.
-
-#### Artículo 51 bis
-
-Cuando un funcionario del Servicio, en el ejercicio de sus labores, deba sostener una entrevista con el contribuyente o sus representantes, deberá estar acompañado por otro funcionario.
 
 #### Artículo 52°
 
