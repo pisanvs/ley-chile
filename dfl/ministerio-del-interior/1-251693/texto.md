@@ -1578,6 +1578,10 @@ Mientras no se dicte la ley a que se refiere el artículo 126, inciso primero, d
 
 Para los efectos de lo dispuesto en el artículo 19 de esta ley, en tanto no se apruebe un nuevo censo de habitantes, se aplicará el censo efectuado en 1982, y en el caso de creación de comunas nuevas o traspaso de territorios efectuados con posterioridad a dicho censo, se considerará la población que señale el informe oficial que emita el Instituto Nacional de Estadísticas.
 
+#### Artículo 4°
+
+En aquellas municipalidades pertenecientes a las regiones declaradas zonas de catástrofe, en conformidad al decreto supremo N° 150, de 2010, del Ministerio del Interior, el plazo a que se refiere el inciso primero del artículo 67 de esta ley se extenderá hasta el 31 de agosto de 2010.
+
 Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
 
 Felipe Harboe Bascuñán, Ministro del Interior (S).
