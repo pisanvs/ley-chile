@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº325 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº26, superficie 54 m2, rol Nº4500-7, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, El Transito Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000." y se acordó el valor de la indemnización con su propietario ELBA DEL ROSARIO VILLEGAS., ascendente a la cantidad de $998.831.-
+
+Fiscal del Ministerio de Obras Públicas.
