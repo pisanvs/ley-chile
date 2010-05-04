@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº331 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº46, superficie 311 m2, rol Nº211-66, comuna de Florida, para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata", Región del Bío Bío y se acordó el valor de la indemnización con su propietario MANUEL JESUS MUÑOZ MERINO, ascendente a la cantidad de $447.983.-
+
+Fiscal del Ministerio de Obras Públicas.
