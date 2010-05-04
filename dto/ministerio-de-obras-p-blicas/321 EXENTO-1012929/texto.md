@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº321, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº65-A, superficie 47 m2, Rol Nº434-135, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel - Caren" y se acordó el valor de indemnización con su propietaria ELOISA DE MERCEDES GUERRERO GUERRERO, ascendente a la cantidad de $264.400.- para el lote Nº65-A.
+
+Fiscal del Ministerio de Obras Públicas.
