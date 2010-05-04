@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº308 de 30 de marzo de 2010, se expropió el lote de terreno Nº53, superficie 2.234 m2, rol de Avalúo 43-29, comuna de Quilaco, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BIO-BIO", VIII Región y se acordó el valor de la indemnización con su propietaria CARMELA PRADENAS POBLETE, ascendente a la cantidad de $1.637.395.-
+
+Fiscal del Ministerio de Obras Públicas.
