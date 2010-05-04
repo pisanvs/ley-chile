@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº339 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº24-C2, superficie 1.309 m2, Rol Nº439-399, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida Canelillo", y se acordó el valor de indemnización con su propietario ADOLFO ENRIQUE AGUILERA VARGAS, ascendente a la cantidad de $6.289.143.- para el lote Nº24-C2.
+
+Fiscal del Ministerio de Obras Públicas.
