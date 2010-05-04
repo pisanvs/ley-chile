@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº367 de fecha 30 de marzo de 2010, se expropiaron los lotes de terreno Nºs 132-B, 134-B, 135-A, 137-A, 138-A y 140-B, superficies 1.089, 269, 1.344, 384, 79 y 3.027 m2 respectivamente, roles Nºs 275-56, 275-59, 275-60 y 275-61, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" y se acordó el valor de la indemnización con su propietario ROMUALDO ANTONIO CIFUENTES ELO, ascendente a la cantidad de $78.669.592.-
+
+Fiscal del Ministerio de Obras Públicas.
