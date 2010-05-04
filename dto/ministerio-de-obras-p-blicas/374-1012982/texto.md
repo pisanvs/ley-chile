@@ -1,0 +1,3 @@
+Por Decreto MOP Nº374 de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs. 64 y 64-A, superficies 7.234 y 87 m2, Rol Nº636-2, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas- Buena Paz, Tramo Km. 0,00000 a Km. 10,40000.- Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000". Comuna de Molina, Provincia de Curico, VII Región Maule" y se acordó el valor de indemnización con su propietario LUIS ALBERTO TARTARI VILLAGRAN, ascendente a la cantidad de $28.954.956.- para los lotes Nºs. 64 y 64-A.
+
+Fiscal del Ministerio de Obras Públicas.
