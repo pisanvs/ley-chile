@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº294, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº12, superficie 1.016 m2, Rol Nº439-254, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo.", y se acordó el valor de indemnización con su propietaria MARIA FRANCISCA BRAVO ARRIETA Y OTRAS, ascendente a la cantidad de $5.855.946.-
+
+Fiscal del Ministerio de Obras Públicas.
