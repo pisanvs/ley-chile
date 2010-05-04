@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº330 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº39, superficie 314 m2, rol Nº43-145, comuna de Quilaco, para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario ARZOINDO OSSES SANHUEZA, ascendente a la cantidad de $984.072.-
+
+Fiscal del Ministerio de Obras Públicas.
