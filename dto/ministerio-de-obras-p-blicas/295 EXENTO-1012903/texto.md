@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº295, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº20, superficie 1.979 m2, Rol Nº439-73, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo.", y se acordó el valor de indemnización con su propietaria ESTER DEL ROSARIO ORTIZ Y OTROS, ascendente a la cantidad de $4.856897.-
+
+Fiscal del Ministerio de Obras Públicas.
