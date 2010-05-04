@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 354, de fecha 30 de marzo del 2010, se expropió el lote de terreno N° 5, superficie 1.298 m2, Rol Nº607-43, comuna de Mulchén, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria SOCIEDAD AGRICOLA Y FORESTAL CORONADO LIMITADA, ascendente a la cantidad de $723.990.-
+
+Fiscal del Ministerio de Obras Públicas.
