@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº341 de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs. 20 y 22, superficies 1.298 y 463 m2, Rol Nº609-92, comuna de Mulchén, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, Km. 0,00000 a Km. 23,13600, Región Bio Bio", y se acordó el valor de indemnización con su propietario JOSE BAHAMONDEZ RIVERA, ascendente a la cantidad de $3.246.830.- para los lotes Nºs. 20 y 22.
+
+Fiscal del Ministerio de Obras Públicas.
