@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº318 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº32, superficie 151 m2, Rol Nº169-61, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario APOLONIDES BASTIAS MOLINA, ascendente a la cantidad de $1.142.693.
+
+Fiscal del Ministerio de Obras Públicas.
