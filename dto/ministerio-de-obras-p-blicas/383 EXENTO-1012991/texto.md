@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº383 de fecha 30 de marzo de 2010, se expropiaron los lotes de terreno Nºs 7 y 8, superficies 12.063 y 1.237 m2 respectivamente, rol Nº6000-22, comuna de Copiapó, para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By Pass a Copiapó)"., y se acordó el valor de la indemnización con su propietario SOCIEDAD AGRICOLA OASIS LIMITADA., ascendente a la cantidad de $5.877.940.-
+
+Fiscal del Ministerio de Obras Públicas.
