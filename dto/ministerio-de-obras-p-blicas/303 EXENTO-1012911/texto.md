@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº303, de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs 151-A, 152-A y 151-B, superficie 420, 52 y 133 m2 respectivamente, Rol Nº154-257, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 al Km. 19,47571.", y se acordó el valor de indemnización con su propietario DEMETRIO DEL CARMEN CONTRERAS SILVA, ascendente a la cantidad de $2.295.785.-
+
+Fiscal del Ministerio de Obras Públicas.
