@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº333 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº2, superficie 132 m2, rol Nº212-19, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de La Gloria (Por Tramos), Km. 42,10000 a Km. 57,80000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario NESTOR BERTILO CHAVEZ RAMOS, ascendente a la cantidad de $127.911.-
+
+Fiscal del Ministerio de Obras Públicas.
