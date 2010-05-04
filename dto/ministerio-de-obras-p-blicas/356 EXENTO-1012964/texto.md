@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº356 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 102 y 102-A, superficies 13 y 34 m2., Rol Nº154-362, comuna de Las Cabras, VI Región, "MEJORAMIENTO RUTA H-780, SECTOR LAS CABRAS EL MANZANO, TRAMO KM. 3,56000 AL KM. 19,47571", y se acordó el valor de indemnización con su propietaria OLGA YOLANDA UGALDE SANCHEZ, ascendente a la cantidad de $1.167.957.-
+
+Fiscal del Ministerio de Obras Públicas.
