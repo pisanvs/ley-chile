@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº359, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº1, superficie 176 m2, Rol Nº1150-5, comuna de Santa Cruz, VI Región para la obra "Mejoramiento Ruta I-756, I-760, Sector Cunaco Isla del Guindo Quinahue, tramo Km. 1,30000 al Km. 6,73626.", y se acordó el valor de indemnización con su propietario JULIO LATRACH ECHEVERRIA, ascendente a la cantidad de $1.363.779.-
+
+Fiscal del Ministerio de Obras Públicas.
