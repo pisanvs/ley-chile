@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº377 de fecha 30 de marzo del 2010, se expropió los lotes de terreno Nºs. 44, 45 y 47, superficies 2.834, 23 y 42 m2, Rol Nº211-19, comuna de La Florida, VIII Región para la obra " Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata" Región del Bío Bío", y se acordó el valor de indemnización con su propietario LEONCIO MONTOYA NUÑEZ Y OTROS, ascendente a la cantidad de $19.192.033.- para los lotes Nºs. 44, 45 y 47.
+
+Fiscal del Ministerio de Obras Públicas.
