@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº381 de fecha 30 de marzo de 2010, se expropiaron los lotes de terreno Nºs 12, 13, 14 y 15, superficies 427, 64, 491 y 230 m2 respectivamente, rol Nº1453-20, comuna de Puerto Varas, para la obra "Camino Reposición Ruta 225-CH, sector Ensenada Petrohue, Tramo Km. 43,32037 Km. 52,89972" y se acordó el valor de la indemnización con su propietario HANS RUDOLF EDGAR ZIENER VON BAUER, ascendente a la cantidad de $5.558.369.-
+
+Fiscal del Ministerio de Obras Públicas.
