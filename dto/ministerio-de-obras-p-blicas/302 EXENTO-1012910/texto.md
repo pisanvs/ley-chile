@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº302, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº6, superficie 5.299 m2, Rol Nº1465-4, comuna de Angol, IX Región para la obra "Proyecto Reposición Ruta R-86, Camino Los Sauces - Huequén, Tramo Km. 63,70000 al Km. 89,00000.", y se acordó el valor de indemnización con su propietaria BOSQUES PETRELES S.A. y OTRA, ascendente a la cantidad de $2.672.825.-
+
+Fiscal del Ministerio de Obras Públicas.
