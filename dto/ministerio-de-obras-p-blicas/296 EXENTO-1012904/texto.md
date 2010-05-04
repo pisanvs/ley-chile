@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº296, de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs 17 y 20, superficie 460 y 331 m2 respectivamente, Rol Nº308-284, comuna de Purranque, X Región para la obra "Mejoramiento Camino Ruta U-95, Sector Coñico Puerto Octay, Km. 7,10000 al Km. 22,50572, Comunas de Purranque y Puerto Octay, Provincia de Osorno, X Región.", y se acordó el valor de indemnización con su propietaria AGRICOLA CALANDRIA LIMITADA, ascendente a la cantidad de $4.178.026.-
+
+Fiscal del Ministerio de Obras Públicas.
