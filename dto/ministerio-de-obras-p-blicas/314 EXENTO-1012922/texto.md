@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 314 de fecha 30 de marzo del 2010, se expropió el lote de terreno N°2, superficie 1.166 m2, Rol N°42-90, comuna de Lolol, VI Región para la obra "Reposición Puente Ranguilli Ruta I-578, Comuna de Lolol, Provincia de Colchagua, Sexta Región " y se acordó el valor de indemnización con su propietario BENITO LUIS ROJO LORCA, ascendente a la cantidad de $1.197.089.-
+
+Fiscal del Ministerio de Obras Públicas.
