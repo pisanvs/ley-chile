@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº370 de fecha 30 de marzo de 2010, se expropiaron los lotes de terreno Nºs 9, 10, 11, 12, 13-A, 15, 16, 17, 18 y 19, superficies 3.367, 806, 687, 904, 379, 254, 655, 18.343, 406 y 6.349 m2 respectivamente, rol Nº49-3, comuna de Tierra Amarilla, para la obra "Mejoramiento Ruta C-453, Juntas Iglesia Colorada, Km. 0,00000 Km. 24,74357, Provincia de Copiapó, Región de Atacama" y se acordó el valor de la indemnización con su propietario EMPRESAS CABO DE HORNOS S.A., ascendente a la cantidad de $44.490.589.-
+
+Fiscal del Ministerio de Obras Públicas.
