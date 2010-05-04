@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº369 de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs. 1-3, 1-4 y 1-5, superficies 17.495, 34.633 y 84.631 m2, Rol Nº153-106, comuna de Llay- Llay, V Región para la obra " Camino Ruta 5 Norte Tramo Santiago Los Vilos. Sector: Cuesta Las Chilcas Km. 74.268,90 al Km. 78.932,00" y se acordó el valor de indemnización con su propietario JOSE ANTONIO OMAR ARRUE ISAMIT, ascendente a la cantidad de $51.001.191.- para los lotes Nºs. 1-3, 1-4 y 1-5.
+
+Fiscal del Ministerio de Obras Públicas.
