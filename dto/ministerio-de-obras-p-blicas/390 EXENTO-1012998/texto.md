@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº390 de 30 de marzo de 2010, se expropió el lote de terreno Nº13, superficie 1.079 m2, rol de Avalúo 168-6, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA LIMITE REGIONAL, TRAMO I, KM. 0,00000 A KM. 6,34000", VIII Región y se acordó el valor de la indemnización con su propietaria DONATILA LLANOS ALARCON Y OTROS, ascendente a la cantidad de $8.256.143.-
+
+Fiscal del Ministerio de Obras Públicas.
