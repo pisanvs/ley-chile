@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº343 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº158, superficie 1.350 m2, Rol Nº154-285, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario RUBEN DARIO RIQUELME CATALAN, ascendente a la cantidad de $3.019.275.- para el lote Nº158.
+
+Fiscal del Ministerio de Obras Públicas.
