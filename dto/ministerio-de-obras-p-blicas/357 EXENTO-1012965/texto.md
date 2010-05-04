@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº357 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº26, superficie 1.022 m2, rol Nº609-209, comuna de Mulchén, para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600", Región del Bío Bío y se acordó el valor de la indemnización con su propietario RAQUEL IRENE ABARZUA, ascendente a la cantidad de $1.125.007.-
+
+Fiscal del Ministerio de Obras Públicas.
