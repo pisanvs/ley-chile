@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº332 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº15, superficie 39 m2, rol Nº205-64, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de La Gloria (Por Tramos), Km. 28,69536 a Km. 39,66000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario SIMON ALIRO OLIVARES SAAVEDRA, ascendente a la cantidad de $75.348.-
+
+Fiscal del Ministerio de Obras Públicas.
