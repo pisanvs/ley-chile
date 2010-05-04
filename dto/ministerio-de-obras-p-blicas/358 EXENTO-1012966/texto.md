@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº358, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº33-B, superficie 102 m2, Rol Nº510-29, comuna de San Javier, VIi Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1: Cruce Ruta L 30 M Carrizal, Tramo Km. 0,50000 al Km. 17,34000.", y se acordó el valor de indemnización con su propietario ALEJANDRO ANTONIO MOYA FLORES, ascendente a la cantidad de $569.178.-
+
+Fiscal del Ministerio de Obras Públicas.
