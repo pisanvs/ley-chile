@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 301, de fecha 30 de marzo del 2010, se expropió el lote de terreno N° 4, superficie 34 m2, Rol Nº343-6, comuna de Penco, VIII Región para la obra "Reposición y Ampliación Ruta 150, Sector Lirquén Quebrada Honda, Provincia de Concepción, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria JOSE SEGUNDO ROA LEAL, ascendente a la cantidad de $3.623.594.-
+
+Fiscal del Ministerio de Obras Públicas.
