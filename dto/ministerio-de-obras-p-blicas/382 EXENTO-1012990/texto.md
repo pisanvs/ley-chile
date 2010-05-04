@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº382 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº4, superficie 420 m2, rol Nº41-52, comuna de Lolol, para la obra "Reposición Puente Ranguili Ruta I-578, comuna de Lolol, provincia de Colchagua, sexta Región" y se acordó el valor de la indemnización con su propietario INVERSIONES RANGUIL LIMITADA, ascendente a la cantidad de $6.223.422.-
+
+Fiscal del Ministerio de Obras Públicas.
