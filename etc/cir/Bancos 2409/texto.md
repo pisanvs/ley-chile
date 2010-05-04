@@ -510,13 +510,13 @@ contenido.
 
 ## Capítulo 1-1
 
-LEY N° 18.046 SOBRE SOCIEDADES ANÓNIMAS Y SU REGLAMENTO, EN RELACIÓN CON LOS BANCOS.
+LEY N° 18.046 SOBRE SOCIEDADES ANÓNIMAS, EN RELACIÓN CON LOS BANCOS
 
 ### 1. Explicación previa
 
-La Ley N° 18.046 sobre Sociedades Anónimas, publicada en el Diario Oficial de 22 de Octubre de 1981, tiene especial importancia para los bancos, por cuanto estas instituciones en nuestra legislación deben revestir la forma de sociedad anónima y regirse por las disposiciones aplicables a éstas en todo lo que no se oponga o resulte inconciliable con la Ley General de Bancos (D.F.L N° 3, de 1997).
+La Ley N° 18.046 sobre Sociedades Anónimas, publicada en el Diario Oficial de 22 de Octubre de 1981, tiene especial importancia para los bancos, por cuanto estas instituciones en nuestra legislación deben revestir la forma de sociedad anónima, regirse por las disposiciones de la Ley General de Bancos (D.F.L N° 3, de 1997) y, en subsidio, por las disposiciones aplicables a las sociedades anónimas abiertas en cuanto puedan conciliarse o no se opongan a los preceptos de la referida Ley General de Bancos.
 
-La Ley N° 18.046 distingue entre sociedades anónimas abiertas y cerradas. Los bancos se rigen siempre por las normas de las sociedades anónimas abiertas.
+La Ley N° 18.046 distingue entre sociedades anónimas abiertas, cerradas y especiales. Los bancos son sociedades anónimas especiales de conformidad a lo dispuesto en el artículo 40 de la Ley General de Bancos.
 
 Si bien las sociedades anónimas, en general, nacen a la vida jurídica sin intervención del organismo fiscalizador, en el caso de los bancos nacionales o sucursales de bancos extranjeros, la Ley General de Bancos establece una reglamentación para su establecimiento y modificaciones de estatutos en que tiene intervención esta Superintendencia. Esta normativa se encuentra contenida en los artículos 27 a 32 de la Ley General de Bancos que señalan los trámites que deben cumplirse para instalar bancos nacionales o sucursales de bancos extranjeros y para modificar sus estatutos.
 
@@ -536,7 +536,7 @@ b) Derecho de retiro anticipado de accionistas; y,
 
 c) Consolidación de balances".
 
-La disposición general establece la plena primacía de la Ley General de Bancos cuando en ella exista un precepto al cual se oponga uno de la ley de sociedades anónimas o con el cual resulte inconciliable. A continuación se analiza el articulado de la Ley N° 18.046 conjuntamente con su Reglamento fijado por el D.S. N° 587 del Ministerio de Hacienda, publicado en el Diario Oficial del 13 de noviembre de 1982. Se examina en cada caso la aplicabilidad a bancos de los artículos de la ley y de las disposiciones complementarias del Reglamento:
+La disposición general establece la plena primacía de la Ley General de Bancos cuando en ella exista un precepto al cual se oponga uno de la ley de sociedades anónimas o con el cual resulte inconciliable. A continuación se analiza el articulado de la Ley N° 18.046 y se examina en cada caso la aplicabilidad a bancos de los artículos de la ley:
 
 #### Artículo 1°
 
@@ -544,13 +544,17 @@ Define la sociedad anónima y su carácter mercantil y es aplicable.
 
 #### Artículo 2°
 
-Complementado por el artículo 1° del Reglamento, divide las sociedades anónimas en abiertas y cerradas. Los bancos se rigen por las normas de las abiertas, de acuerdo al artículo 41 antes citado. Los incisos cuarto, quinto y sexto no son aplicables, pues los bancos están fiscalizados por esta Superintendencia.
+Divide las sociedades anónimas en abiertas, cerradas y especiales. Los bancos son sociedades anónimas especiales que se rigen por las normas de las abiertas, de acuerdo al artículo 41 citado de la Ley General de Bancos.
 
-El inciso séptimo tiene importancia al expresar que cuando la ley se refiere a sociedades sometidas a la fiscalización de la Superintendencia se entienden las sociedades abiertas, lo que servirá para comprender el ámbito de aplicación de algunas normas de la ley.
+El inciso 5° no se aplica por expresa mención del artículo 69 de la Ley de Mercado de Valores.
+
+El inciso sexto no es aplicable, pues los bancos están fiscalizados por esta Superintendencia.
+
+El inciso séptimo no se aplica.
 
 #### Artículo 3°
 
-Sus incisos segundo y tercero, adicionados por el artículo 5° del Reglamento, son complementarios de los artículos 27 a 31 de la Ley General de Bancos que tratan sobre la constitución y modificación de estatutos de los bancos.
+Sus incisos segundo y tercero, son complementarios de los artículos 27 a 31 de la Ley General de Bancos que tratan sobre la constitución y modificación de estatutos de los bancos.
 
 Artículos 4° y 5°A
 
@@ -568,7 +572,11 @@ Hay que tener presente acerca de esta materia las normas sobre nulidad de las so
 
 #### Artículo 7°
 
-Este artículo impone la obligación de mantener a disposición de los accionistas, tanto en la sede principal como en las agencias o sucursales, un estatuto certificado y al día, y una lista actualizada de accionistas con indicación del número de acciones de cada uno. Esta disposición es aplicable a bancos.
+Este artículo impone la obligación de mantener a disposición de los accionistas, tanto en la sede principal como en las agencias, sucursales, así como en su sitio en Internet, en el caso que se disponga de tales medios, un estatuto certificado y al día, y una lista actualizada de accionistas con indicación del número de acciones de cada uno.
+
+El inciso segundo establece la responsabilidad del directorio en la custodia de los libros y registros sociales.
+
+Estas disposiciones son aplicables a bancos.
 
 #### Artículo 8°
 
@@ -580,29 +588,23 @@ No es compatible con la Ley General de Bancos que establece un objeto único y e
 
 #### Artículo 10
 
-Adicionado por los artículos 6°, 7° y 8° del Reglamento, trata del capital de la sociedad y es complementario de la Ley General de Bancos.
+Trata del capital de la sociedad y es complementario de la Ley General de Bancos.
 
 #### Artículo 11
 
-Este artículo sobre el capital y las acciones, complementado por los artículos 9°, 10 y 11 del Reglamento, es aplicable salvo en cuanto al capital mínimo que se exige a los bancos.
+Este artículo sobre el capital y las acciones, es aplicable salvo en cuanto al capital mínimo que se exige a los bancos.
 
 Artículos 12 a 14
 
-Estos artículos tienen diversas complementaciones en el Reglamento, todas ellas aplicables a bancos, las que se indican a continuación:
-
-a) Los artículos 13 y 14 del Reglamento establecen normas sobre el Registro de Accionistas.
-
-b) Los artículos 15, 16, 17 y 18 del Reglamento se refieren a la transferencia y transmisión de acciones.
-
-c) Los artículos 19, 20 y 21 del Reglamento norman con detalle la forma de los títulos de acciones, su inutilización y extravío.
+Estos artículos son aplicables a bancos.
 
 #### Artículo 15
 
-Adicionado por el artículo 22 del Reglamento es complementario del artículo 49 N° 1 de la Ley General de Bancos, en la medida en que esa disposición acepta el aporte en bienes distintos del dinero efectivo.
+Es complementario del artículo 49 N° 1 de la Ley General de Bancos, en la medida en que esa disposición acepta el aporte en bienes distintos del dinero efectivo.
 
 #### Artículo 16
 
-Hace reajustables en U.F. los saldos insolutos de acciones suscritas y no pagadas y da normas acerca de los titulares que no han pagado en su totalidad el precio. Es aplicable a bancos, salvo en cuanto se refiere a acciones en moneda extranjera. Tales reajustes pasarán a formar parte de sus reservas, en el caso de los bancos.
+Hace reajustables en U.F. los saldos insolutos de acciones suscritas y no pagadas y da normas acerca de los titulares que no han pagado en su totalidad el precio. Es aplicable a bancos, salvo en cuanto se refiere a acciones en moneda extranjera. Tales reajustes pasarán a formar parte de sus reservas, en el caso de los bancos. Asimismo, se establece la forma de imputar los pagos parciales de las acciones suscritas y no pagadas.
 
 #### Artículo 17
 
@@ -610,7 +612,11 @@ Plenamente aplicable.
 
 #### Artículo 18
 
-Complementado por los artículos 23, 24, 25 y 26 del Reglamento, establece un sistema de venta de acciones pertenecientes a personas fallecidas, cuyos herederos no hayan registrado las acciones a su nombre dentro de cinco años contados desde el fallecimiento. Aplicable a bancos.
+Establece un sistema de venta de acciones pertenecientes a personas fallecidas, cuyos herederos no hayan registrado las acciones a su nombre dentro de cinco años contados desde el fallecimiento.
+
+Adicionalmente, se establece que si los titulares de acciones de una sociedad no concurren durante 10 años a las juntas de accionistas o no cobren los dividendos a que tengan derechos, dejaran de ser accionistas para los efectos señalados en la letra c) del artículo 5 de la Ley 18.045, Sobre Mercado de Valores y el inciso primero del artículo 50 bis de la presente ley.
+
+Estas disposiciones son aplicables a bancos.
 
 #### Artículo 19
 
@@ -618,17 +624,11 @@ Es aplicable.
 
 Artículos 20 y 21
 
-No se aplican, ya que el artículo 49 N°2 de la Ley General de Bancos prohíbe las acciones preferidas.
+No se aplican, ya que el artículo 49 N° 2 de la Ley General de Bancos prohíbe las acciones preferidas.
 
 ARTICULOS 22 a 26
 
 Son aplicables.
-
-El artículo 28 del Reglamento complementa el artículo 26 de la Ley en lo que respecta a la fijación del precio de las acciones.
-
-El artículo 32 del Reglamento se refiere al destino que debe darse al mayor valor de las acciones en las sociedades anónimas abiertas, caso en que se encuentran los bancos.
-
-Los artículos 29, 30 y 31 del Reglamento complementan el artículo 25 de la Ley en relación con las opciones para suscribir acciones.
 
 #### Artículo 27
 
@@ -636,7 +636,7 @@ En general, no se aplica a bancos que nunca han podido adquirir sus propias acci
 
 #### Artículo 28
 
-Con el agregado que le hace el artículo 33 del Reglamento, es complementario del artículo 53 de la Ley General de Bancos, que trata de la disminución del capital.
+Es complementario del artículo 53 de la Ley General de Bancos, que trata de la disminución del capital.
 
 #### Artículo 29
 
@@ -658,9 +658,11 @@ En virtud de la derogación del antiguo artículo 42 de la Ley General de Bancos
 
 Finalmente, este artículo es complementario de la Ley General de Bancos, para los bancos que tengan directores suplentes, en cuanto establece el derecho de éstos a participar en las sesiones con derecho a voz y les concede derecho a voto sólo cuando falta el titular, es decir, cuando el suplente reemplaza o entra a ocupar una vacante. En ningún caso podría votar con motivo de la abstención de un titular que asiste a la reunión.
 
+Se aplica lo dispuesto en el inciso 4° para el caso de vacancia del director independiente.
+
 #### Artículo 33
 
-Las normas de este artículo, sobre remuneración de los directores, complementadas por los artículos 35 y 36 del Reglamento, son plenamente aplicables a bancos.
+Las normas de este artículo son plenamente aplicables a bancos.
 
 #### Artículo 34
 
@@ -668,7 +670,7 @@ Es plenamente aplicable.
 
 Artículos 35 y 36
 
-Complementados por el artículo 37 del Reglamento, establecen diversas inhabilidades para ser director, algunas de las cuales son complementarias de las que contiene el artículo 49 N°s. 5 y 7 de la Ley General de Bancos. Son aplicables. Se establece que no pueden ser directores los corredores de bolsa y los agentes de valores.
+Establecen diversas inhabilidades e incompatibilidades para ser director, algunas de las cuales son complementarias de las que contiene el artículo 49 N°s. 5 y 7 de la Ley General de Bancos.
 
 #### Artículo 37
 
@@ -676,7 +678,7 @@ Es aplicable.
 
 Artículos 38 a 41
 
-Se aplican como complementarios de la Ley General de Bancos.
+Se aplican como complementarios de la Ley General de Bancos, salvo el inciso final del artículo 39 que se refiere a las sociedades anónimas cerradas.
 
 #### Artículo 42
 
@@ -688,9 +690,7 @@ La reserva que establece este artículo es aplicable a bancos, los que, además,
 
 #### Artículo 44
 
-El artículo 84 N° 4 de la Ley General de Bancos prohíbe a los bancos conceder, directa o indirectamente, créditos a un director o a cualquiera persona que se desempeñe en él como apoderado general. Las demás operaciones bancarias y financieras no tienen restricción legal para los directores o empleados de un banco en la Ley General de Bancos.
-
-Por ello, el artículo 44 y sus consecuencias en el artículo 42 N° 5, sólo tienen aplicación en los casos de otros actos o contratos que no son propiamente operaciones bancarias, que los directores del banco, sus parientes, sus mandantes, o las sociedades de que formen parte, realicen con el banco. Por ejemplo, se aplicará lo dispuesto en ese precepto a un director que venda una propiedad al banco, a la cónyuge de un director que compre un automóvil a la misma empresa, a una sociedad de la que un director forme parte o tenga participación y que celebre un contrato de construcción con el banco, a una agencia de valores perteneciente a un director o gerente en que éste tenga intereses, que realice operaciones de compra o venta de valores mobiliarios por intermedio o con el agente de valores, etc. Pero, si se trata de que un director o las sociedades de que forme parte depositen o abran cuenta corriente en el banco o para que tales sociedades le encomienden cobranzas o le den mandato de comisiones de confianza, no será necesario cumplir con el artículo 44 de la Ley N° 18.046.
+No se aplica.
 
 #### Artículo 45
 
@@ -702,21 +702,21 @@ La obligación de información fidedigna a accionistas y público es complementa
 
 #### Artículo 47
 
-Complementado por los artículos 38, 39 y 40 del Reglamento, es aplicable a bancos y a esta Superintendencia por efecto del artículo 26 de la Ley General de Bancos.
+Es aplicable a bancos y a esta Superintendencia por efecto del artículo 26 de la Ley General de Bancos.
 
 #### Artículo 48
 
-Es aplicable. Esta disposición se complementa con el artículo 41 del Reglamento.
+Es aplicable.
 
 Artículos 49 y 50.
 
-Adicionados por el artículo 42 del Reglamento, son complementarios de la Ley General de Bancos, sin perjuicio de que, según el artículo 49 N° 8 de dicha ley, el cargo de director es compatible con el de gerente por no más de noventa días.
+Son complementarios de la Ley General de Bancos, sin perjuicio de que, según el artículo 49 N° 8 de dicha ley, el cargo de director es compatible con el de gerente por no más de noventa días.
 
 #### Artículo 50 bis
 
-Trata del comité de directores. Es aplicable, en forma obligatoria, a los bancos cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento. Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1.526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
+Trata del comité de directores y designación de director independiente. Es aplicable, en forma obligatoria, a los bancos cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento y a lo menos un 12,5% de sus acciones emitidas con derecho a voto, se encuentren en poder de accionistas que individualmente controlen o posean menos del 10% de sus acciones. Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1.526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
 
-Los bancos cuyo patrimonio bursátil sea inferior a 1.500.000 unidades de fomento, podrán acogerse voluntariamente a las disposiciones de este artículo.
+Los bancos que no cumplan con las condiciones copulativas del inciso 1° del artículo 50 bis, podrán acogerse voluntariamente a las disposiciones de este artículo.
 
 #### Artículo 51
 
@@ -724,15 +724,15 @@ No se aplica por tratar sobre sociedades cerradas.
 
 #### Artículo 52
 
-Exige contratar auditores externos y permite la designación de inspectores de cuentas. Es complementario del artículo 16 de la Ley General de Bancos. Aclara que los auditores externos deben ser designados por la Junta Ordinaria de Accionistas.
+Exige contratar auditores externos regidos por el Título XXVIII de la Ley N° 18.045 y permite la designación de inspectores de cuentas. Es complementario del artículo 16 de la Ley General de Bancos. Aclara que los auditores externos deben ser designados por la Junta Ordinaria de Accionistas.
 
 #### Artículo 53
 
-Es claro que se aplica el inciso segundo que contempla la responsabilidad de los auditores externos. En lo demás hay que remitirse al registro de auditores externos que lleva esta Superintendencia y a las normas dictadas por ella sobre la materia, en uso de la facultad que le otorga el inciso segundo del artículo 26 de la Ley General de Bancos.
+No se aplica por cuanto se refiere a auditores externos no regidos por el Título XXVIII de la Ley de Mercado de Valores. Hay que remitirse al registro de auditores externos que lleva esta Superintendencia y a las normas dictadas por ella sobre la materia, en uso de la facultad que le otorga el inciso segundo del artículo 26 de la Ley General de Bancos.
 
 #### Artículo 54
 
-Complementado por el artículo 61 del Reglamento, es aplicable.
+Es aplicable.
 
 Artículos 55 a 58
 
@@ -740,7 +740,7 @@ Tratan de la Junta de Accionistas. Debe tenerse presente que, por expresa dispos
 
 #### Artículo 59
 
-La citación a junta se rige por el artículo 62 del Reglamento. La junta ordinaria debe designar un periódico del domicilio social para efectuar la citación. Si no se efectúa la designación, hay que publicarla en el Diario Oficial. Rige para bancos.
+La junta ordinaria debe designar un periódico del domicilio social para efectuar la citación. Si no se efectúa la designación, hay que publicarla en el Diario Oficial. Rige para bancos.
 
 #### Artículo 60
 
@@ -748,11 +748,11 @@ Es aplicable a bancos.
 
 #### Artículo 61
 
-Complementado por el artículo 62 del Reglamento, es aplicable.
+Es aplicable.
 
 #### Artículo 62
 
-Contiene normas aplicables a bancos. El artículo 104 del Reglamento aclara que el plazo que establece este artículo es de días hábiles.
+Contiene normas aplicables a bancos, salvo en lo que se refiere a las sociedades anónimas cerradas.
 
 #### Artículo 63
 
@@ -760,9 +760,7 @@ Contiene disposiciones complementarias del artículo 48 de la Ley General de Ban
 
 #### Artículo 64
 
-Es plenamente aplicable, como también lo son los artículos 63, 64, 65, 66 y 67 del Reglamento.
-
-Las normas sobre calificación de poderes en sociedades abiertas que contienen los artículos 66 a 70 del Reglamento se aplican a esa actuación en las juntas de bancos, cuando la Superintendencia no ejercite la facultad que a ese respecto le confiere el artículo 48 de la Ley General de Bancos. Para ello podrá recurrirse a la Superintendencia de Valores y Seguros, a fin de que designe un abogado calificador con ese objeto.
+Es plenamente aplicable.
 
 #### Artículo 65
 
@@ -770,13 +768,13 @@ Es aplicable.
 
 #### Artículo 66
 
-Adicionado por el artículo 74 del Reglamento, es aplicable a bancos.
+Es aplicable a bancos.
 
 #### Artículo 67
 
-Los quorum generales y especiales para las juntas son aplicables a bancos.
+Los quórum generales y especiales para las juntas son aplicables a bancos.
 
-Cabe señalar que el número 11 de este artículo no es aplicable a bancos, de acuerdo a lo prevenido en el artículo 41 letra a) de la Ley General de Bancos y en concordancia con lo señalado al tratar los artículos 55 a 58.
+Cabe señalar que el número 10 y 15 de este artículo no es aplicable a bancos, de acuerdo a lo prevenido en el artículo 41 letra a) de la Ley General de Bancos y en concordancia con lo señalado al tratar los artículos 55 a 58.
 
 #### Artículo 68
 
@@ -786,21 +784,23 @@ La privación del derecho a voto a las acciones cuyos dueños no hayan cobrado d
 
 a 71
 
-No se aplican por expresa disposición del artículo 41 de la Ley General de Bancos, ni tampoco los preceptos del Reglamento sobre esta materia.
+No se aplican por expresa disposición del artículo 41 de la Ley General de Bancos
+
+#### Artículo 71 bis
+
+No es aplicable.
 
 #### Artículo 72
 
 Es aplicable a bancos.
 
-Esta disposición debe complementarse con los artículos 71, 72, 73 y 75 del Reglamento y, cuando se trate de la constitución de un banco o de la reforma de sus estatutos, con el artículo 105 del mismo texto.
-
 Artículos 73 a 75
 
-Complementados por los artículos 82, 83 y 84 del Reglamento, son aplicables a bancos, sin perjuicio de las facultades que el artículo 15 de la Ley General de Bancos de a esta Superintendencia.
+Son aplicables a bancos, sin perjuicio de las facultades que el artículo 15 de la Ley General de Bancos da a esta Superintendencia.
 
 #### Artículo 76
 
-Fija la fecha de publicación del balance auditado, lo que debe hacerse con no menos de diez días ni más de veinte de anticipación a la fecha de la junta ordinaria. Esto es aplicable a bancos. Sin embargo, la norma que fija el mismo plazo para hacerlo llegar a la Superintendencia no rige para bancos, ya que este Organismo ha fijado en uso de sus facultades plazos diferentes de publicación que deben ser respetados. Al respecto, debe tenerse presente que el artículo 49, N°12 de la Ley General de Bancos no obliga a repetir la publicación del balance.
+Fija la fecha de publicación del balance auditado, lo que debe hacerse con no menos de diez días ni más de veinte de anticipación a la fecha de la junta ordinaria. Esto es aplicable a bancos. Sin embargo, la norma que fija el mismo plazo para hacerlo llegar a la Superintendencia no rige para bancos, ya que este Organismo ha fijado en uso de sus facultades plazos diferentes de publicación que deben ser respetados. Al respecto, debe tenerse presente que el artículo 49, N° 12 de la Ley General de Bancos no obliga a repetir la publicación del balance.
 
 Las demás normas son plenamente aplicables.
 
@@ -814,9 +814,7 @@ Es complementario del artículo 56 de la Ley General de Bancos.
 
 #### Artículo 79
 
-Establece un reparto mínimo de dividendos y sobre la materia prevalece el artículo
-
-56 de la Ley General de Bancos.
+Establece un reparto mínimo de dividendos y sobre la materia prevalece el artículo 56 de la Ley General de Bancos.
 
 El último inciso de este artículo no rige para bancos porque el artículo 57 de la Ley General de Bancos prohíbe el reparto de dividendos provisorios.
 
@@ -824,15 +822,13 @@ Artículos 80 a 84
 
 Son aplicables a bancos.
 
-Las normas sobre dividendos opcionales, contenidas en el artículo 82, se complementan con los artículos 85 a 93 del Reglamento.
-
 #### Artículo 85
 
 Los dividendos no cobrados en bancos no se rigen por este artículo sino por el artículo 156 de la Ley General de Bancos.
 
 Artículos 86 a 93
 
-Se aplican estos artículos a las sociedades filiales que pueden tener los bancos sin perjuicio de las normas especiales que puedan dictarse para ellas en los casos en que la Ley autoriza.
+Se aplican estos artículos a las sociedades filiales que pueden tener los bancos, sin perjuicio de las normas especiales que puedan dictarse para ellas en los casos en que la Ley General de Bancos autoriza.
 
 En todo caso, en virtud del artículo 41 de la Ley General de Bancos, no son aplicables las normas sobre consolidación de los balances de las filiales, sin perjuicio de la facultad que compete a esta Superintendencia para establecer las normas que estime pertinentes sobre esta materia.
 
@@ -846,7 +842,7 @@ Contienen normas sobre liquidación y quiebra de sociedades que complementan las
 
 Artículos 121 a 124
 
-Adicionados por el artículo 107 del Reglamento, establecen las normas para las agencias de sociedades anónimas extranjeras y son complementarios del artículo 32 de la Ley General de Bancos.
+Establecen las normas para las agencias de sociedades anónimas extranjeras y son complementarios del artículo 32 de la Ley General de Bancos.
 
 #### Artículo 125
 
@@ -856,13 +852,13 @@ Artículos 126 a 132
 
 Tratan de sociedades anónimas especiales y no se aplican a bancos, salvo el artículo 128 sobre nulidad.
 
-Artículos 133, 133 bis y 134
+Artículos 133,133 bis y 134
 
 Son complementarios de disposiciones de la Ley General de Bancos.
 
 #### Artículo 135
 
-Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes, ejecutivos principales o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Este artículo, que se complementa con el artículo 106 del Reglamento, es plenamente aplicable a bancos.
+Obliga a las sociedades a llevar un registro público indicativo de sus presidentes, directores, gerentes, ejecutivos principales o liquidadores, con fechas de iniciación y término de su gestión. La certificación del registro hace fe en contra de la sociedad y a favor de accionistas o terceros. Los funcionarios de la sociedad tienen responsabilidad por sus certificaciones. Es plenamente aplicable a bancos.
 
 #### Artículo 136
 
@@ -871,6 +867,14 @@ Define lo que se entiende por condiciones de equidad para efectos de la ley.
 #### Artículo 137
 
 Declara la primacía de las disposiciones de la ley sobre cualquiera norma de los estatutos sociales que les sea contraria. En los bancos prevalece, en todo caso, como se ha expresado, la Ley General de Bancos.
+
+#### Artículo 137 bis
+
+Complementario a la Ley General de Bancos.
+
+Artículos 146 a 149
+
+Son aplicables, sin perjuicio de lo previsto en la Ley General de Bancos y de las normas legalmente impartidas por esta Superintendencia.
 
 ## Capítulo 1-3
 
