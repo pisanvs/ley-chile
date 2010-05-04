@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº298, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº30, superficie 1.390 m2, Rol Nº155-776, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 al Km. 19,47571.", y se acordó el valor de indemnización con su propietario CESAR ALBERTO MOLINA INFANTE, ascendente a la cantidad de $4.216.775.-
+
+Fiscal del Ministerio de Obras Públicas.
