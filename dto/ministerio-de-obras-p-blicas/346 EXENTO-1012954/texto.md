@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº346 de 30 de marzo de 2010, se expropió el lote de terreno Nº24-C1, superficie 249 m2, rol de Avalúo 439-400, comuna de Illapel, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", IV Región y se acordó el valor de la indemnización con su propietaria LUZ ELIANA AGUILERA VARGAS, ascendente a la cantidad de $1.504.493.-
+
+Fiscal del Ministerio de Obras Públicas.
