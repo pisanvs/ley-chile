@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 388, de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno N°s 54 y 54-A, superficies 4.180 y 4.315 m2 respectivamente, Rol Nº43-2, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria AGRICOLA Y FORESTAL GALES LIMITADA, ascendente a la cantidad de $7.169.210.-
+
+Fiscal del Ministerio de Obras Públicas.
