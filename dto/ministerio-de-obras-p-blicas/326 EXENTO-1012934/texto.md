@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº326 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº17, superficie 375 m2, rol Nº217-92, comuna de Florida, para la obra "Reposición Ruta 148, S: Quillón Agua de La Gloria (Por Tramos), Km. 42,10000 a Km. 57,80000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario MONICA DEIDAMIA ROSALES RIFO Y OTRO, ascendente a la cantidad de $718.203.-
+
+Fiscal del Ministerio de Obras Públicas.
