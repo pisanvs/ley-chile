@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº345 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 22 y 22-A, superficies 74 y 52 m2., Rol Nº155-253, comuna de Las Cabras, VI Región, "MEJORAMIENTO RUTA H-780, SECTOR LAS CABRAS EL MANZANO, TRAMO KM. 3,56000 AL KM. 19,47571", y se acordó el valor de indemnización con su propietaria MARIA DE LAS MERCEDES GALLEGOS PARADA Y OTROS, ascendente a la cantidad de $1.298.363.-
+
+Fiscal del Ministerio de Obras Públicas.
