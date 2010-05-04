@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº336, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº4, superficie 35 m2, Rol Nº18-174, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietaria LUCINDA RAQUEL VEGA EGAÑA, ascendente a la cantidad de $88.136.-
+
+Fiscal del Ministerio de Obras Públicas.
