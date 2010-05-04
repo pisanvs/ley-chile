@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº386 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 144 y 145, superficies 290 y 2.341 m2, rol de Avalúo 166-18, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA LIMITE REGIONAL, TRAMO I, KM. 6,34000 AL KM. 10,50000, REGION DEL BIO BIO ", VIII Región y se acordó el valor de la indemnización con su propietaria OLGA ESTER PACHECO AYALA, ascendente a la cantidad de $9.997.800.-
+
+Fiscal del Ministerio de Obras Públicas.
