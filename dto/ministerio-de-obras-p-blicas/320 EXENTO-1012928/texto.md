@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº320 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº28-A, superficie 126 m2, Rol Nº217-49, comuna de Florida VIII Región para la obra "Reposición Ruta 148, S: Quillón - Agua de La Gloria (Por Tramos), Km. 42,10000 a Km. 57,80000, Región del Bío Bío" y se acordó el valor de indemnización con su propietaria MARTA IRLANDA MUÑOZ ARANEDA, ascendente a la cantidad de $239.516.- para el lote Nº28-A.
+
+Fiscal del Ministerio de Obras Públicas.
