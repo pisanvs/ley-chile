@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 371, de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno N°s 9 y 10, superficie 18.690 y 2.252 m2 respectivamente, Rol Nº107-29, comuna de Freirina, III Región para la obra "Construcción Variante Ruta C-46 Freirina, Provincia de Huasco, Región de Atacama.", y se acordó el valor de indemnización con su propietario MANUEL MARIA CORTES CALLEJAS Y OTROS, ascendente a la cantidad de $39.851.150.-
+
+Fiscal del Ministerio de Obras Públicas.
