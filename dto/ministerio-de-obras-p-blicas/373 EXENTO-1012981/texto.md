@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 373, de fecha 30 de marzo del 2010, se expropió el lote de terreno N° 2, superficie 21.847 m2, Rol Nº103-31, comuna de Freirina, III Región para la obra "Construcción Variante Ruta C-46 Freirina, Provincia de Huasco, Región de Atacama.", y se acordó el valor de indemnización con su propietaria SOCIEDAD NICOLASA OCHENTA Y SIETE LTDA, ascendente a la cantidad de $16.563.700.-
+
+Fiscal del Ministerio de Obras Públicas.
