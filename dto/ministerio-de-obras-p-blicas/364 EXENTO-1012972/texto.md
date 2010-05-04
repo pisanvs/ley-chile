@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº364 de 30 de marzo de 2010, se expropió el lote de terreno Nº97-A, superficie 512 m2., Rol Nº155-114, comuna de Las Cabras, VI Región, "MEJORAMIENTO RUTA H-780, SECTOR LAS CABRAS EL MANZANO, TRAMO KM. 3,56000 AL KM. 19,47571", y se acordó el valor de indemnización con su propietaria HILDA YEANNETTE CERON REYES, ascendente a la cantidad de $1.156.618.-
+
+Fiscal del Ministerio de Obras Públicas.
