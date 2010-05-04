@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 299, de fecha 30 de marzo del 2010, se expropió el lote de terreno N° 38, superficie 377 m2, Rol Nº43-100, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 al Km. 23,13600, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario HUMBERTO DEL TRANSITO ARTIGAS POVEDA, ascendente a la cantidad de $4.071.690.-
+
+Fiscal del Ministerio de Obras Públicas.
