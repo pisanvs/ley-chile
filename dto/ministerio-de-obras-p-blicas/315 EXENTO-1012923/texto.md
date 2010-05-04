@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº315 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº6, superficie 389 m2, Rol Nº185-48, comuna de San Nicolás VIII Región para la obra "Mejoramiento Ruta N-532, Cruce N -50 Puyaral Pte. El Ala, Prov. Ñuble" y se acordó el valor de indemnización con su propietario HERNAN SEGUNDO VERGARA MOLINA, ascendente a la cantidad de $1.159.118.- para el lote Nº6.
+
+Fiscal del Ministerio de Obras Públicas.
