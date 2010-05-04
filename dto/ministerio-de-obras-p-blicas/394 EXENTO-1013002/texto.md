@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº394, de 30 de marzo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 1, para la obra "Construcción Embalse Chacrillas de Putaendo" Obra: "Empréstitos Estero Chalaco", Comuna de Putaendo, Provincia de San Felipe de Aconcagua, V Región, que figura a nombre de CIA GANADERA TONGOY LTDA, rol de avalúo 276-205, superficie 534.436 M2. La Comisión de Peritos, fijó con fecha 30 de julio de 2009, en la cantidad de $366.589.799. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
