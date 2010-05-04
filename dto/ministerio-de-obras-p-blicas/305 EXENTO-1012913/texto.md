@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº305 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 146-C y 147, superficies 1.048 y 262 m2., Rol Nº154-113, comuna de Las Cabras, VI Región, "MEJORAMIENTO RUTA H-780, SECTOR LAS CABRAS EL MANZANO, TRAMO KM. 3,56000 AL KM. 19,47571", y se acordó el valor de indemnización con su propietario JUAN RAMON BUSTOS GONZALEZ, ascendente a la cantidad de $2.224.260.-
+
+Fiscal del Ministerio de Obras Públicas.
