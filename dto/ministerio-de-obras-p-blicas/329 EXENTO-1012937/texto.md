@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº329 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº33-A, superficie 66 m2, rol Nº631-13, comuna de Molina, para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas Buena Paz, Tramo Km. 0,00000 a Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000" y se acordó el valor de la indemnización con su propietario CARLOS ALFREDO HUGO NUÑEZ CASTILLO, ascendente a la cantidad de $972.691.-
+
+Fiscal del Ministerio de Obras Públicas.
