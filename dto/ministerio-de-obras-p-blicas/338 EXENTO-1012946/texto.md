@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº338, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº60-B, superficie 1.838 m2, Rol Nº633-78, comuna de Molina, VII Región para la obra "Camino Mejoramiento Ruta K-155, Sector Quechereguas Buena Paz, Tramo Km. 0,00000 al Km. 10,40000. Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 al Km. 5,90000.", y se acordó el valor de indemnización con su propietaria MARIA REBECA ALBORNOZ CASTILLO, ascendente a la cantidad de $5.552.308.-
+
+Fiscal del Ministerio de Obras Públicas.
