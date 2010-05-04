@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº366 de 30 de marzo de 2010, se expropió el lote de terreno Nº21, superficie 1.440 m2, rol de Avalúo 333-20, comuna de Penco, para la obra "REPOSICION Y AMPLIACION RUTA 150, SECTOR LIRQUEN QUEBRADA HONDA, PROVINCIA DE CONCEPCION, REGION DEL BIO BIO", VIII Región y se acordó el valor de la indemnización con su propietario MANUEL LUCIANO CASTRO OLATE, ascendente a la cantidad de $114.782.140.-
+
+Fiscal del Ministerio de Obras Públicas.
