@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº353 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº96-F, superficie 268 m2, rol Nº155-408, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 a Km. 19,47571" y se acordó el valor de la indemnización con su propietario EDUARDO ENRIQUE GONZALEZ SILVA, ascendente a la cantidad de $598.400.-
+
+Fiscal del Ministerio de Obras Públicas.
