@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº379 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 32, 33, 34 y 35, superficies 143, 5.494, 752 y 118 m2, rol de Avalúo 43-13, comuna de Quilaco, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BIO-BIO", VIII Región y se acordó el valor de la indemnización con su propietario JULIO JAVIER KUNCAR ONETO, ascendente a la cantidad de $5.907.169.-
+
+Fiscal del Ministerio de Obras Públicas.
