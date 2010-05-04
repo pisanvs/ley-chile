@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº349 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº8, superficie 502 m2, rol Nº107-56, comuna de Freirina, para la obra "Construcción Variante Ruta C-46 Freirina, Provincia de Huasco, Región de Atacama"., y se acordó el valor de la indemnización con su propietario DISTRIBUIDORA DE EXPLOSIVOS Y ACCESORIOS S.A., ascendente a la cantidad de $685.856.-
+
+Fiscal del Ministerio de Obras Públicas.
