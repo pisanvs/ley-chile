@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº316, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº62, superficie 318 m2, Rol Nº434-285, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel Carén ", y se acordó el valor de indemnización con su propietario con MARIO ARIEL OYARZUN ARAYA, ascendente a la cantidad de $1.170.400.- para el lote Nº62.
+
+Fiscal del Ministerio de Obras Públicas.
