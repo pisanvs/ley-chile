@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº344 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 50-B y 50-D, superficies 250 y 9 m2, rol de Avalúo 169-22, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA LIMITE REGIONAL, TRAMO I, KM. 0,00000 A KM. 6,34000", VIII Región y se acordó el valor de la indemnización con su propietaria TERESA CAROLINA MERIÑO MUÑOZ, ascendente a la cantidad de $2.212.661.-
+
+Fiscal del Ministerio de Obras Públicas.
