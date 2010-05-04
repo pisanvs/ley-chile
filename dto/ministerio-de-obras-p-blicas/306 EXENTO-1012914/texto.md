@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº306 de 30 de marzo de 2010, se expropió el lote de terreno Nº21, superficie 252 m2, rol de Avalúo 152-10, comuna de Florida, para la obra "REPOSICION RUTA 148, S: QUILLON - AGUA DE LA GLORIA (POR TRAMOS), KM. 28,69536 A KM. 39,66000", VIII Región y se acordó el valor de la indemnización con su propietaria GLADYS DEL CARMEN SALGADO MUÑOZ, ascendente a la cantidad de $2.128.373.-
+
+Fiscal del Ministerio de Obras Públicas.
