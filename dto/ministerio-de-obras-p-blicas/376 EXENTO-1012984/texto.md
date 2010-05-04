@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº376 de fecha 30 de marzo del 2010, se expropiaron los lotes de terreno Nºs. 37-A y 37-B, superficies 1.846 y 757 m2, Rol Nº154-141, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna y Provincia de Petorca, V Región", y se acordó el valor de indemnización con su propietaria SOCIEDAD AGRICOLA ANA FRUT ROBERT LIMITADA, ascendente a la cantidad de $16.758.669.- para los lotes Nºs. 37-A y 37-B.
+
+Fiscal del Ministerio de Obras Públicas.
