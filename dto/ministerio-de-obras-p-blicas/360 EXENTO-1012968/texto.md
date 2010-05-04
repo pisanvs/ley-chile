@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº360, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº41-B, superficie 133 m2, Rol Nº18-106, comuna de Río Hurtado, IV Región para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, Sector Samo Alto Pichasca.", y se acordó el valor de indemnización con su propietaria MARINA DEL CARMEN ROJAS YAÑEZ, ascendente a la cantidad de $1.145.601.-
+
+Fiscal del Ministerio de Obras Públicas.
