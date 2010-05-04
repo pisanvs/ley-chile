@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº309 de 30 de marzo de 2010, se expropió el lote de terreno Nº. 119-A, superficie 45 m2, rol de Avalúo 1173-15, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA LIMITE REGIONAL, TRAMO I, KM. 6,34000 AL KM. 10,50000, REGION DEL BIO BIO ", VIII Región y se acordó el valor de la indemnización con su propietario JULIO ENRIQUE MORAGA FUENTES, ascendente a la cantidad de $1.135.500.-
+
+Fiscal del Ministerio de Obras Públicas.
