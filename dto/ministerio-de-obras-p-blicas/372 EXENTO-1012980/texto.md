@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº372, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº41, superficie 5.645 m2, Rol Nº30-71, comuna de Placilla, VI Región para la obra "Camino: Ampliación Reposición Ruta I-50, Sector San Fernando Cruce Ruta I-860, Tramo Km: 0,00000 al Km: 35,78646.", y se acordó el valor de indemnización con su propietario LUIS FARIAS OSORIO, ascendente a la cantidad de $39.542.552.-
+
+Fiscal del Ministerio de Obras Públicas.
