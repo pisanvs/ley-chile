@@ -4,11 +4,7 @@ Núm. H-3.226 exenta.- Santiago, 16 de octubre de 2009.- Vistos: Las atribucione
 
 Resuelvo:
 
-I.- Fíjese un nuevo orden de subrogación del Cargo de Director grado 3º EUR, de la Planta de Directivos de la Dirección General de Relaciones Económicas Internacionales, desempeñado por don Rodrigo Contreras Álvarez, RUT Nº 8.186.161-7, quien ejerce la Jefatura de la Dirección de Asuntos Económicos Bilaterales:
-
-1. Paulina Nazal Aranda (RUT: 7.363.897-6), funcionaria a contrata asimilada a grado 4º E.U.R. de la Planta de Profesionales del Servicio.
-
-2. Carlos Augusto Castillo Grado (RUT: 4.182.783-1), Jefe de Departamento grado 4º E.U.R. de la Planta de Directivos del Servicio.
+I.- DEROGADO.
 
 II.- Fíjese un nuevo orden de subrogación del Cargo de Director Suplente grado 3º EUR, de la Planta de Directivos de la Dirección General de Relaciones Económicas Internacionales, desempeñado por doña Ana Novik Assael, RUT Nº 9.383.629-4, quien ejerce la Jefatura de la Dirección de Asuntos Económicos Multilaterales:
 
