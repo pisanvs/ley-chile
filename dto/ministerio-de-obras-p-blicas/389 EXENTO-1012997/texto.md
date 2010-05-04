@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº389 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº144-B, superficie 2.621 m2, rol Nº266-78, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" y se acordó el valor de la indemnización con su propietario ELEODORO ANTONIO GALDAMES SALGADO, ascendente a la cantidad de $5.411.753.-
+
+Fiscal del Ministerio de Obras Públicas.
