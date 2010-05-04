@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº304 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 132, 132-A y 132-B, superficies 181, 14 y 396,91 m2, rol de Avalúo 170-156, comuna de Cobquecura, para la obra "CAMINO RUTA N-102-M, SECTOR COBQUECURA LIMITE REGIONAL, TRAMO I, KM. 6,34000 AL KM. 10,50000, REGION DEL BIO BIO ", VIII Región y se acordó el valor de la indemnización con su propietario JUAN MIGUEL LOPEZ CHAMORRO, ascendente a la cantidad de $2.468.453.-
+
+Fiscal del Ministerio de Obras Públicas.
