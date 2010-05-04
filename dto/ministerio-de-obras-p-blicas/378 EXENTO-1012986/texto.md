@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº378 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 3, 5 y 6, superficies 2.409, 1.014 y 1.460 m2, Rol Nº49-2, comuna de Tierra Amarilla, III Región para la obra "MEJORAMIENTO DE RUTA C-453, JUNTAS IGLESIA COLORADA, KM. 0,00000 KM. 24,74357, PROVINCIA DE COPIAPO, REGION DE ATACAMA" y se acordó el valor de indemnización con las EMPRESAS CABO DE HORNOS S.A., ascendente a la cantidad de $9.785.604.-
+
+Fiscal del Ministerio de Obras Públicas.
