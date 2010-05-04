@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº347 de 30 de marzo de 2010, se expropiaron los lotes de terrenos Nºs. 8 y 8-A, superficies 97 y 110 m2, rol de Avalúo 432-81, comuna de Illapel, para la obra "Mejoramiento Ruta D-805, Illapel - Caren", IV Región y se acordó el valor de la indemnización con su propietario TEODORO DEL ROSARIO DIAZ GUERRA, ascendente a la cantidad de $443.125.-
+
+Fiscal del Ministerio de Obras Públicas.
