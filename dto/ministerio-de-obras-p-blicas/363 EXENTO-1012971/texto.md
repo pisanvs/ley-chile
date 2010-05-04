@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº363 de fecha 30 de noviembre del 2010, se expropió el lote de terreno Nº52-B, superficie 11 m2, Rol Nº1169-73, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario LUIS PATRICIO CARRERA CONTRERAS, ascendente a la cantidad de $93.500.- para el lote Nº52-B.
+
+Fiscal del Ministerio de Obras Públicas.
