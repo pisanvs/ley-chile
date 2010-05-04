@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº361, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº129-D, superficie 24 m2, Rol Nº275-67, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario DOMITILO DEL CARMEN AREVALO CASTRO, ascendente a la cantidad de $322.800.- para el lote Nº129-D.
+
+Fiscal del Ministerio de Obras Públicas.
