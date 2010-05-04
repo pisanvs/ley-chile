@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº342 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº173 superficie 240 m2, Rol Nº150-110, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria JULIA ROSA GALLARDO GALAZ, ascendente a la cantidad de $2.763.675.- para los lotes Nº173.
+
+Fiscal del Ministerio de Obras Públicas.
