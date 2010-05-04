@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº362, de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº44, superficie 189 m2, Rol Nº433-103, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-805, Illapel Carén ", y se acordó el valor de indemnización con su propietaria con NOEMI DEL ROSARIO UGALDE UGALDE, ascendente a la cantidad de $237.200.- para el lote Nº44.
+
+Fiscal del Ministerio de Obras Públicas.
