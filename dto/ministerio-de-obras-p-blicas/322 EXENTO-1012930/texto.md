@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº322 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº196, superficie 34 m2, Rol Nº150-157, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario PEDRO PABLO DONOSO ZUÑIGA, ascendente a la cantidad de $401.292.- para el lote Nº196.
+
+Fiscal del Ministerio de Obras Públicas.
