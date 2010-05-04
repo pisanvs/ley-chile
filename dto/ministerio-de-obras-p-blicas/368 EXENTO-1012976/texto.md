@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº368 de fecha 30 de marzo de 2010, se expropiaron los lotes de terreno Nºs 1 y 1-A, superficies 20.103 y 5.121 m2 respectivamente, rol Nº1167-1, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Bif, Puente Bicentenario Bif. Pupelde, Tramo 1: Variante Chacao" y se acordó el valor de la indemnización con su propietario OSCAR FEDERICO EISELE KEMPOWSKI, ascendente a la cantidad de $50.745.371.-
+
+Fiscal del Ministerio de Obras Públicas.
