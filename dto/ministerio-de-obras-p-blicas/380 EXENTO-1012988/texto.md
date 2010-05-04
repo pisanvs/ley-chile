@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº380 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº. 32-A, superficie 863,00 m2., Rol Nº30-71, comuna de Placilla, VI Región, para la obra "CAMINO: AMPLIACION REPOSICION RUTA I-50, SECTOR SAN FERNANDO CRUCE RUTA I-860, TRAMO 0,00000 AL KM. 35,78646 " y se acordó el valor de indemnización con su propietaria ANA MARIA FARIAS BUSTAMANTE, ascendente a la cantidad de $5.727.632.-
+
+Fiscal del Ministerio de Obras Públicas.
