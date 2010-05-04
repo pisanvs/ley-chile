@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº355 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº120-A, superficie 41 m2, Rol Nº1173-16, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío - Bío" y se acordó el valor de indemnización con su propietario JULIO ENRIQUE MORAGA FUENTES, ascendente a la cantidad de $342.500.- para el lote Nº120-A.
+
+Fiscal del Ministerio de Obras Públicas.
