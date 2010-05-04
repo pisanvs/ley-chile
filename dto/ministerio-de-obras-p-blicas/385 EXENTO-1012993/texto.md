@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº385 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº22, superficie 991 m2, Rol Nº439-145, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida Canelillo", y se acordó el valor de indemnización con su propietario MIGUEL CORTES LEIVA, ascendente a la cantidad de $4.836.477.- para el lote Nº22.
+
+Fiscal del Ministerio de Obras Públicas.
