@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº328 de fecha 30 de marzo de 2010, se expropió el lote de terreno Nº172-C, superficie 266 m2, rol Nº153-284, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 a Km. 19,47571" y se acordó el valor de la indemnización con su propietario MAGALLY DE LAS MERCEDES HERNANDEZ FREDES, ascendente a la cantidad de $785.061.-
+
+Fiscal del Ministerio de Obras Públicas.
