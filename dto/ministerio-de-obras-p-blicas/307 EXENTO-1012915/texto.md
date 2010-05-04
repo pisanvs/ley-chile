@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº307 de 30 de marzo de 2010, se expropió el lote de terreno Nº27, superficie 672 m2, rol de Avalúo 609-41, comuna de Mulchén, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BIO-BIO", VIII Región y se acordó el valor de la indemnización con su propietario SADY DAGOBERTO CONTRERAS SEPULVEDA, ascendente a la cantidad de $1.642.960.-
+
+Fiscal del Ministerio de Obras Públicas.
