@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº319 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº46, superficie 39 m2, Rol Nº30-164, comuna de Placilla, VI Región para la obra " Camino Ampliación Reposición Ruta I-50, Sector San Fernando Cruce Ruta I-860, Tramo Km: 0,0000 al Km. 35,78646" y se acordó el valor de indemnización con su propietario GUSTAVO HERNAN POBLETE ROJAS, ascendente a la cantidad de $963.883.-
+
+Fiscal del Ministerio de Obras Públicas.
