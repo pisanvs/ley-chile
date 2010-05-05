@@ -28,6 +28,10 @@ Resuelvo:
 
 > **Nota.** NOTA 3: El artículo 1º de la RES 512 exenta, Transportes, publicada el 31.03.2007, prorroga la vigencia de la presente norma a contar del 1º de mayo de 2008 y hasta el 30 de abril de 2009, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
 
+> **Nota.** NOTA 4 El Artículo 1º de la Resolución 1165 Exenta, Transportes, publicada el 04.05.2010, prorroga la vigencia de la presente norma a contar del 01 de mayo de 2010 y hasta el 30 de octubre de 2011, o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías del Gran Concepción, cualquiera de los dos hechos que ocurra primero.
+
+> **Nota.** NOTA 5 El Artículo 2º de la Resolución 1165 Exenta, Transportes, publicada el 04.05.2010, prorroga hasta el 30 de octubre 2011 o bien hasta la fecha en que comience la puesta en marcha de la Licitación de Vías, cualquiera de los dos hechos que ocurra primero, la vigencia de los certificados de inscripción en el Registro Nacional de Servicios de Transporte Público Remunerado de Pasajeros, extendidos a la fecha de publicación de la citada resolución, a los buses inscritos en servicios urbanos regidos por la presente norma.
+
 #### Artículo 1º
 
 Establécense las siguientesNOTA condiciones específicas de operación y de utilización de vías aplicables a los servicios urbanos de transporte público remunerado de pasajeros prestados mediante buses en las vías ubicadas al interior de las comunas de Concepción, Chiguayante, Hualqui, Talcahuano, Hualpén, San Pedro de la Paz y Penco.
@@ -79,6 +83,8 @@ Edmundo Larenas - Chorrillos - Los Pinos - Los Sauces - Michimalongo (hasta 13 d
 Michimalongo - Los Sauces - Los Pinos - Chorrillos - Edmundo Larenas - Víctor Lamas - Esmeralda - Av.
 
 Costanera - Jorge Alessandri (hasta Paicaví).
+
+Al interior de dicho perímetro, el Secretario Regional Ministerial de Transportes y Telecomunicaciones, podrá, por resolución fundada y por causas justificadas, tales como cierres y cambio de sentido de tránsito de calles, construcción de obras viales, prohibición de circulación, medidas de gestión de tránsito y transporte público, efectuar modificaciones al recorrido de uno o más servicios.
 
 1.4. Biotren: Servicio de tren suburbano que operará en las comunas pertenecientes al área regulada.
 
@@ -238,11 +244,11 @@ Período Tarifa Estudiante: Porcentaje a
 
 cobrar
 
-Lunes a sábado, de
+Lunes a Domingo 33% de la tarifa adulto vigente a
 
-06:00 hr. a 24:00 hr. 33%
+febrero de cada año.
 
-Domingo y festivos 50%
+Exceptúase de lo anterior, las tarifas escolares vigentes hasta el mes de febrero de 2011, las cuales estarán referidas a la tarifa adulto vigente al 31 de marzo de 2010.
 
 Los valores resultantes de la aplicación de los porcentajes antes señalados se aproximarán al múltiplo de $10 más próximo.
 
@@ -313,6 +319,10 @@ Regional, sobre confección y aceptación de
 pases escolares, adulto mayor u otros
 
 grupos de usuarios.
+
+10 bis. Subsidios
+
+De conformidad con lo establecido en el artículo 6º del Decreto Supremo Nº 5 de 2010, que reglamenta a su vez el artículo 3 literal b) de la Ley Nº20.378, se establece que mediante resoluciones del Ministerio de Transportes y Telecomunicaciones podrá contemplarse la actualización del subsidio para mantener el equilibrio de ingresos ante variaciones de demanda, que experimente cada servicio, grupo de servicios o todos los servicios de una zona. Esta actualización podrá aplicarse de conformidad a la metodología señalada en los artículos anteriores del Decreto ya citado y siempre que exista disponibilidad presupuestaria, según la ejecución de los fondos a que se refieren los artículos 12° y 13° del Decreto Supremo Nº 134 de 2010.
 
 11. Garantías
 
