@@ -102,7 +102,7 @@ De las deliberaciones y acuerdos del Panel, se dejará constancia en libros de a
 
 #### Artículo 12
 
-Cada vez que el Panel proponga un determinado nivel de tarifas, según lo establece el artículo 1°, literal a) de este reglamento, deberá informarlo al Ministerio, a fin de que este último pueda formular sus observaciones dentro del plazo de 10 días hábiles siguientes. Una vez recibidas estas observaciones el Panel emitirá una resolución definitiva respecto del nivel de tarifas, la cual será vinculante para el Ministerio.
+Cada vez que el Panel proponga un determinado nivel de tarifas, según lo establece el artículo 1°, literal c) de este reglamento, deberá informarlo al Ministerio, a fin de que este último pueda formular sus observaciones dentro del plazo de 10 días hábiles siguientes. Una vez recibidas estas observaciones el Panel emitirá una resolución definitiva respecto del nivel de tarifas, la cual será vinculante para el Ministerio.
 
 El nuevo nivel de tarifas deberá ser informado por el Panel de Expertos al Ministerio, a lo menos 30 días antes de su aplicación, lo cual deberá ser sancionado por resolución del Ministro de Transportes y Telecomunicaciones y deberá ser implementado por el Administrador Financiero de Transantiago S.A., en el plazo indicado.
 
