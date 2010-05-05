@@ -10,7 +10,7 @@ Considerando:
 
 Resuelvo:
 
-1) Prohíbese la circulación de todo vehículo motorizado en calles Azapa y Loa, entre Avenida Presidente Salvador Allende y calle Taltal, desde el 27 de mayo al 30 de diciembre de 2009, por pavimentación de las vías. Los servicios de locomoción colectiva urbana, atendidos con buses y taxis colectivos que en sus trazados utilizan calles La Serena - Loa - La Serena, de sur a norte, se desviarán por calle Mejillones - Pisagua - Rendic - recorrido normal.
+1) Prohíbese la circulación de todo vehículo motorizado en calles Azapa y Loa, entre Avenida Presidente Salvador Allende y calle Taltal, desde el 27 de mayo al 30 de abril de 2010, por pavimentación de las vías. Los servicios de locomoción colectiva urbana, atendidos con buses y taxis colectivos que en sus trazados utilizan calles La Serena - Loa - La Serena, de sur a norte, se desviarán por calle Mejillones - Pisagua - Rendic - recorrido normal.
 
 Los servicios de locomoción colectiva urbana, atendidos con buses y taxis colectivos que en sus trazados utilizan calle Vallenar, de norte a sur, su desvío será: Rendic - Pisagua - Mejillones - recorrido normal.
 
