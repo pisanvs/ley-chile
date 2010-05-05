@@ -1,0 +1,23 @@
+DECLARA PROCEDENCIA DEL CRÉDITO FISCAL QUE INDICA
+
+Núm. 748.- Santiago, 25 de junio de 2009.- Vistos: Lo dispuesto en el inciso segundo del artículo 21 del decreto ley N° 910, de 1975, modificado por el artículo 1° de la ley N° 18.768; lo establecido en el artículo 1°, numeral VI, Ministerio de Hacienda, N° 6, del decreto supremo N° 19, del Ministerio Secretaría General de la Presidencia, de 22 de enero de 2001; lo informado por el Director del Servicio de Impuestos Internos, mediante oficio Ord. N° 1713, de 15 de mayo de 2009; lo indicado en ORD. N° 669, de 12 de junio de 2009, del Subdirector de Presupuestos; lo dispuesto por el artículo 32, N° 8 y 35 de la Constitución Política de la República de Chile; la resolución N° 1.600, de 30 de octubre de 2008, de la Contraloría General de la República que fija normas sobre exención del trámite de toma de razón, y
+
+Considerando:
+
+Que, la Fundación Casa de Talleres de San Vicente de Paul, RUT N° 82.411.500-1, ha solicitado el beneficio del 65% del débito fiscal, establecido en el artículo 21 del decreto ley Nº 910, de 1975, respecto del contrato de construcción que acompaña.
+
+Que, dicha Fundación es una institución de beneficencia que goza de personalidad jurídica concedida por decreto supremo N° 1.751, de fecha 16 de agosto de 1872, la que se encuentra vigente conforme consta del certificado N° 8070, de 11 de junio de 2008, emitido por el Ministerio de Justicia, que no persigue fines de lucro, no recibe subvención alguna del Estado, que tiene como único objeto proporcionar ayuda material exclusivamente en forma gratuita, solamente a personas de escasos recursos económicos, que de acuerdo a los estatutos o a la naturaleza de sus actividades no realiza principalmente operaciones gravadas con el Impuesto al Valor Agregado y que el otorgamiento del beneficio no implica discriminar respecto del mismo giro de empresas que no pueden acogerse al mismo beneficio.
+
+Que, el contrato de construcción acompañado, celebrado con fecha 11 de enero de 2008, entre la Empresa Constructora Ricardo Ernesto Carrasco López, RUT N° 7.838.562-6, y don Régulo Óscar Valenzuela Matte, RUT N° 4.106.398-K, abogado, en representación de Fundación Casa de Talleres de San Vicente de Paul, es un contrato general de construcción a suma alzada, de aquellos a que se refiere el artículo 21° del decreto ley N° 910, de 1975, para el otorgamiento del beneficio que contempla dicha norma legal.
+
+Que, el inmueble cuya construcción se ha contratado, corresponde a un gimnasio, patio cubierto, terraplén para graderías externas y panel, de una superficie total aproximada de 670 m2, para el funcionamiento del Colegio San Vicente de Paul, ubicado en Urmeneta N° 582, Puerto Octay, Décima Región de Los Lagos, cuyo sostenedor es la Fundación Casa de Talleres de San Vicente de Paul, y el precio del contrato es la suma de $107.479.118.,
+
+Decreto:
+
+1º.- La Empresa Constructora Ricardo Ernesto Carrasco López, R.U.T. N° 7.838.562-6, domiciliada en calle Egaña N° 150, comuna de Puerto Montt, Décima Región de Los Lagos, podrá imputar, de acuerdo a lo dispuesto en el artículo 21º del decreto ley N° 910, de 1975, pero sin las limitaciones de monto, establecidas en el inciso primero del citado artículo, el 0,65% del débito del Impuesto al Valor Agregado, corresponde aplicar al contrato general de construcción, por suma alzada, celebrado por escritura privada, con fecha 11 de enero de 2008, con la Fundación Casa de Talleres de San Vicente de Paul, RUT N° 82.411.500-1, domiciliada en calle Presidente Errázuriz N° 2.820, comuna de Santiago; para la edificación de las obras indicadas en la parte considerativa, con una superficie total aproximada de 670 metros cuadrados por el precio en pesos de $ 107.479.118 neto, destinadas a los fines propios de la institución, esto es, proporcionar educación y ayuda material a personas de escasos recursos económicos, a través del Colegio San Vicente de Paul, de Puerto Octay.
+
+2°.- Lo dispuesto en el presente decreto regirá respecto de los pagos que se efectúen en cumplimiento del contrato señalado en el número anterior y que se encuentren gravados por el impuesto del Título II, del decreto ley N° 825, de 1974.
+
+Anótese, tómese razón, comuníquese y publíquese.- "Por orden de la Presidenta de la República", María Olivia Recart Herrera, Ministro de Hacienda (S).
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Juan Luis Monsalve Egaña, Jefe de Gabinete, Ministro de Hacienda.
