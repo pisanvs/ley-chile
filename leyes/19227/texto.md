@@ -174,15 +174,11 @@ Infracciones, delitos y sanciones
 
 Las infracciones y delitos que se cometan en relación a la presente ley, como asimismo sus sanciones, se regirán por lo dispuesto en las leyes N°s. 17.336, sobre Propiedad Intelectual, y 16.643, sobre Abusos de Publicidad, en lo que fuere aplicable.
 
-Igualmente, se castigará con la pena establecida en el artículo 79 de la ley N° 17.336:
-
-a) Al que, a sabiendas, comercializare libros de edición o impresión fraudulenta o reproducidos sin autorización del titular de los derechos de autor, y b) Al que utilice procedimientos engañosos o fraudulentos para acceder indebidamente a los beneficios que otorga esta ley.
-
-En todo caso, se presumirá fraudulento todo libro en el que no figuren o se hayan falseado, los antecedentes a que se refiere el artículo 8°, sin perjuicio de las sanciones que corresponda aplicar en virtud de lo dispuesto en otras leyes.
+Igualmente, se castigará conforme a las penas establecidas en el artículo 79 de la ley N° 17.336 al que utilice procedimientos engañosos o fraudulentos para acceder indebidamente a los beneficios que otorga esta ley.
 
 #### Artículo 12°
 
-Los libros materia del delito serán entregados al autor o al titular de los derechos patrimoniales. Si no lo hubiere o fuere imposible determinarlo, los libros serán entregados en dominio a la Dirección de Bibliotecas, Archivos y Museos, la que dejará constancia de esta sanción en cada ejemplar.
+Derogado.
 
 ## Título IV
 
