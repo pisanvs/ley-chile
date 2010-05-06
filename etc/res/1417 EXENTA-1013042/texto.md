@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.417, de 21 de abril de 2010, de esta Subsecretaría, autorízase a COMERCIALIZADORA DE SALMONES DE VILLARRICA LIMITADA para iniciar actividades pesqueras de transformación, instalar y operar planta en Ruta Villarrica a Freire, Km. 10, Villarrica, IX Región, para elaborar en las líneas de Congelado, Fresco-enfriado, Conserva y Ahumado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 21 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
