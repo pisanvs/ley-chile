@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.440, de 22 de abril de 2010, de esta Subsecretaría, autorízase a EXPORTACIONES E IMPORTACIONES MIGUEL DEPOLO SOCIEDAD ANÓNIMA COMERCIAL MIDESA para iniciar actividades pesqueras de transformación, instalar y operar planta en Ruta G-25 s/nº, sector El Manzano, San José de Maipo, Región Metropolitana, para elaborar en línea de Agar agar, Alga seca y Carragenina, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 22 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
