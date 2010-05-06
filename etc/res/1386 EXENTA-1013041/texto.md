@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.386, de 16 de abril de 2010, de esta Subsecretaría, autorízase a DIEGO ALEJANDRO BELTRÁN CORREA para iniciar actividades pesqueras de transformación, instalar y operar planta en Avenida Besoain s/nº, Iloca, Licantén, Curicó, VII Región, para elaborar en líneas de Fresco enfriado y Congelado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 16 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
