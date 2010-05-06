@@ -1,0 +1,1 @@
+Se rectifica publicación efectuada con fecha 18 de marzo de 2010, del D.S. Nº 294 de 2009, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de indicar que el artículo único de dicho decreto contenido en la página 5, 2ª columna, debió señalar el guarismo 99,9% y no 99% como en él se indica.
