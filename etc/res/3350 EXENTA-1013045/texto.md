@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.350, de 7 de octubre de 2009, de esta Subsecretaría, autorízase a Inversiones Cerro La Campana Limitada para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Antillanca Nº 611, Bodega letra A, Loteo Industrial Lo Echevers Vespucio, Pudahuel, Región Metropolitana, para elaborar en líneas de procesos Cocido y Congelado, el recurso hidrobiológico Jibia o Calamar rojo.
+
+Valparaíso, 7 de octubre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
