@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.195, de 31 de marzo de 2010, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 2.400, de 2009, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto "Monitoreo biológico pesquero y bases para la implementación de un plan de manejo en las pesquerías de erizo, huepo, caracol trofón, loco, ostión del sur y ostión patagónico, en la Duodécima Región de Magallanes y Antártica Chilena", en el sentido de autorizar la extracción del recurso Caracol trofón, en el área marítima de Bahía Inútil, hasta el 31 de marzo de 2010.
+
+Valparaíso, 31 de marzo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
