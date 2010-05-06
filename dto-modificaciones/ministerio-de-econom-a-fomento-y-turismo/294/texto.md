@@ -30,7 +30,7 @@ Decreto:
 
 <!-- parte:8893530 -->
 
-Modifícase el artículo 3º del D.S. Nº 348 de 2008, del Ministerio de Economía, Fomento y Reconstrucción, que estableció medidas de protección ambiental para el cultivo de la especie Trucha Alpina Salvelinus alpinus, en el sentido de reemplazar en su inciso 1º la expresión "100%" por "99%".
+Modifícase el artículo 3º del D.S. Nº 348 de 2008, del Ministerio de Economía, Fomento y Reconstrucción, que estableció medidas de protección ambiental para el cultivo de la especie Trucha Alpina Salvelinus alpinus, en el sentido de reemplazar en su inciso 1º la expresión "100%" por "99,9%".
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.
 
