@@ -20,7 +20,7 @@ Lunes Martes Miércoles Jueves Viernes
 
 1; 2 ; 3 y 4 5 ; 6; 7 y 8 9; 0 ;1 y 2 3; 4; 5 y 6 7; 8; 9 y 0
 
-2º Esta prohibición se extenderá a todas las vías públicas de la comuna de Concepción que quedan al interior del área constituida por la línea poligonal formada por la siguientes vías: Esmeralda, Victor Lamas, Paicaví (desde Edmundo Larenas hasta Av. Chacabuco ) - Chacabuco - Roosevelt - Irarrázabal - J.M. García - Alonso de Rivera- Av. Alessandri - Av. Costanera, con exclusión de las citadas vías que marcan el perímetro.
+2º Esta prohibición se extenderá a todas las vías públicas de la comuna de Concepción que quedan al interior del área constituida por la línea poligonal formada por las siguientes vías: Avenida Padre Alberto Hurtado - Chacabuco Poniente - Avenida Chacabuco - Plaza Perú - Avenida Paicaví - Avenida Manuel Rodríguez hasta Avenida Padre Hurtado, con exclusión de las citadas vías que marcan el perímetro.
 
 3º Las prohibiciones señaladas en el resuelvo anterior no regirán respecto de los siguientes vehículos:
 
@@ -48,7 +48,7 @@ k) Vehículos pertenecientes a canales de televisión que se encuentren debidame
 
 l) Los vehículos de carga de las empresas de mudanzas legalmente constituidas.
 
-El interesado en acogerse a alguna de las excepciones contempladas en las letras g), h), j), k) y l) precedentes, deberá obtener autorización previa de la Prefectura de Carabineros de Concepción debiendo acreditar que se encuentra en alguna de las situaciones que en ellas se describe. El documento en que conste dicha autorización o su copia, deberá portarse siempre en el vehículo.
+INCISO SUPRIMIDO.
 
 Las referidas autorizaciones estarán sujetas a los plazos y demás modalidades que la Prefectura de Carabineros de Concepción determine en cada caso.
 
