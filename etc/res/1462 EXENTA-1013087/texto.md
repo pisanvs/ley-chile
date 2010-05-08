@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.462, de 28 de abril de 2010, de esta Subsecretaría, autorízase a HEINY LUCIEN TRAPP VARGAS para iniciar actividades pesqueras de transformación, para instalar y operar planta ubicada en Constantino Vasconcellos Nº 910, Niebla, XIV Región, para elaborar en lineas de Cocido, Fresco enfriado, Fresco refrigerado y Congelado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 28 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
