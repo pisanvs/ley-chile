@@ -68,15 +68,19 @@ a) El Ministro de Economía, Fomento y Reconstrucción.
 
 b) El Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción.
 
-c) Un representante del Consejo de la Corporación de Fomento de la Producción.
+c) Un funcionario de la Corporación de Fomento de la Producción designado por el Vicepresidente Ejecutivo.
 
-d) Dos representantes designados por la Central Unitaria de Trabajadores de Chile; y,
+d) Un representante del Consejo de la Corporación de Fomento de la Producción.
 
-e) Dos representantes designados por la Confederación de la Producción y el Comercio.
+e) Dos representantes designados por la Central Unitaria de Trabajadores de Chile.
+
+f) Dos representantes designados por la Confederación de la Producción y del Comercio.
+
+g) Un representante del Consejo Nacional de la Micro, Pequeña y Mediana Empresa de Chile - Asociación Gremial - (CONAPYME).
 
 En caso de ausencia o impedimento de las personas a que se refieren las letras a) y b) precedentes, éstas serán reemplazadas por las personas designadas por los titulares en calidad de suplentes.
 
-En caso de ausencia o impedimento de las personas a que se refieren las letras c), d) y e) precedentes, éstas serán reemplazadas por las personas designadas en calidad de suplentes por las respectivas autoridades unipersonales o colegiadas, en el orden que éstas determinen en su resolución o acuerdo.
+En caso de ausencia o impedimento de las personas a que se refieren las letras c), d), e), f) y g) precedentes, éstas serán reemplazadas por las personas designadas en calidad de suplentes por las respectivas autoridades unipersonales o colegiadas, en el orden que éstas determinen en su resolución o acuerdo.
 
 ii) Presidente y Vicepresidente del Consejo Directivo. Atribuciones
 
