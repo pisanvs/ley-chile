@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.628 de 6 de abril de 2010, se publicó Resolución Nº 449 Exenta, que Autoriza Colecta Regional a la Liga Chilena Contra el Mal de Parkinson, con los errores que se salvan a continuación: en el sumario, primera columna y página trece, segunda columna, donde dice " ... MINISTERIO DEL INTERIOR - Subsecretaría del Interior ..." debe decir "... MINISTERIO DEL INTERIOR - Subsecretaría del Interior - Intendencia Región Metropolitana de Santiago ...".
