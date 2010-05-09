@@ -64,6 +64,10 @@ e) Para fomento del estudio o beca de escolaridad: Anualmente el afiliado tendr�
 
 f) De Navidad: Se otorgará este beneficio a todos los socios que estén afiliados al Departamento de Bienestar al uno de diciembre de cada año. Los montos y modalidades serán fijados anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento.
 
+g) Por catástrofe: Se otorgará este beneficio a los afiliados que lo soliciten a causa de los efectos de cualquier fenómeno de la naturaleza, tales como terremoto, maremoto, inundación u otro evento similar.
+
+El Consejo Administrativo fijará con ocasión de cada evento los montos y condiciones de este subsidio, conforme con criterios objetivos y generales, las disponibilidades presupuestarias del departamento y la cantidad de afiliados afectados por el fenómeno natural.
+
 El monto de cada una de las asignaciones a que se refiere este artículo será determinado anualmente por el Consejo Administrativo del Departamento.
 
 #### Artículo 5°
@@ -213,6 +217,10 @@ En el caso de los funcionarios que se acogen a jubilación, este plazo comenzar�
 #### Artículo 14°
 
 Los afiliados tendrán derecho a percibir los beneficios médicos que el Departamento otorga desde la fecha de incorporación. Los demás beneficios, podrán ser solicitados una vez transcurridos 5 meses desde la incorporación, o dentro de los plazos especiales establecidos en el presente reglamento.
+
+#### Artículo transitorio
+
+Excepcionalmente, con motivo del terremoto que afectó a Chile en la madrugada del 27 de Febrero de 2010, y sólo en esta ocasión, para solicitar este subsidio se requerirá únicamente tener la calidad de afiliado al departamento a la fecha en que acaeció dicho fenómeno natural.
 
 Tómese razón, comuníquese, publíquese e insértese en la Recopilación que corresponda de la Contraloría General de la República.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Jorge Arrate Mac Niven, Ministro del Trabajo y Previsión Social.- Soledad Alvear Valenzuela, Ministro de Justicia.
 
