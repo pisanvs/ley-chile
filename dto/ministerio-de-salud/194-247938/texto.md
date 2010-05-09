@@ -2642,6 +2642,10 @@ LEVONORGESTREL Comprimido 0,03 mg
 
 LEVONORGESTREL Comprimido 0,75 mg
 
+Alternativa:
+
+Levonorgestrel Comprimido 1.5 mg
+
 LEVONORGESTREL +
 
 ETINILESTRADIOL Comprimido 0,03 mg +
