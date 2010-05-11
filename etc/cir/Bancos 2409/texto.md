@@ -9714,7 +9714,7 @@ d) Resultados de la Due-Diligence efectuada por el banco solicitante y criterios
 
 Los antecedentes mencionados en este anexo deberán permitir una evaluación eficaz para el propósito que se persigue. Es requisito indispensable, por lo tanto, que la información sea completa, verídica y coherente, a fin de arribar a conclusiones fundadas en cada una de las materias o aspectos relevantes.
 
-Anexo N° 2
+ANEXO N° 2
 
 ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
@@ -9732,6 +9732,10 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
 - Administración de tarjetas de crédito de acuerdo con las normas del Banco Central de Chile y de la Superintendencia.
 
+- Operación de tarjetas de crédito.
+
+- Emisión de tarjetas de crédito en calidad de filial de un banco, sujeta a las normas de solvencia, gestión e información establecidas por esta Superintendencia al amparo de lo dispuesto en la letra A) del Título III del Capítulo III. J.1 del Compendio de Normas Financieras, según lo interpretado en el Acuerdo N° 1490-03-090723 del Consejo del Banco Central de Chile.
+
 - Emisión y operación de tarjetas de pago con provisión de fondos.
 
 - Proveer medios de acceso a los servicios de transporte de personas, efectuar la recaudación, administración y custodia de los recursos provenientes de la comercialización y recarga de los medios que se provean para ese fin, distintos de los demás indicados en el Capítulo III.J.3 del Compendio de Normas Financieras del Banco Central de Chile, atender la distribución, entre los proveedores de los servicios de transporte, de los fondos recaudados y la prestación de servicios destinados a facilitar el cumplimiento de esos fines.
@@ -9744,7 +9748,9 @@ B) OTROS SERVICIOS
 
 - Recaudación de pagos de servicios (agua, gas, electricidad, teléfono), impuestos, contribuciones, cuotas de créditos, cuotas de patentes u otros derechos, imposiciones previsionales, matrículas, cuotas de establecimientos educacionales, cuotas de socios de instituciones, etc.
 
-- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc. Recopilación y preevaluación de antecedentes de potenciales clientes de un banco.
+- Pagos previsionales y de salud, de dividendos a accionistas, a proveedores, de remuneraciones y beneficios al personal de empresas, etc.
+
+- Recopilación y preevaluación de antecedentes de potenciales clientes de un banco.
 
 - Prestación de servicios legales al banco y sus filiales.
 
