@@ -38,8 +38,6 @@ G 36° 43' 09.49" 072° 59' 08.68"
 
 H 36° 43' 10.16" 072° 59' 04.31"
 
-> **Nota.** El Decreto 1063 Exento, Economía, publicado el 09.11.2012, modifica la presente norma en el sentido de de reemplazar las coordenadas geográficas acá indicadas.
-
 #### Artículo 2º
 
 Podrán optar a esta área de manejo y explotación de recursos bentónicos las organizaciones de pescadores artesanales legalmente constituidas, de conformidad con lo establecido en los Títulos III y IV del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
