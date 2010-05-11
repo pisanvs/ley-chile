@@ -1,0 +1,5 @@
+OTORGA RECONOCIMIENTO OFICIAL A "CENTRO DE CAPACITACIÓN INTEGRAL LIMITADA"
+
+Por resolución exenta Nº 1.281, de fecha 3 de mayo de 2010, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Centro de Capacitación Integral Limitada", RUT Nº 77.344.840-K, representada legalmente por Francisco Javier Cornejo Paredes, para impartir cursos conducentes a la obtención de licencia de conductor profesional Clase A1, A2, A3 y A4, en la sede ubicada en calle Nueva 15 Nº 101 (entrepiso) del edificio de Av. Bernardo O'Higgins Nº 1364 al Nº 1372, comuna de Santiago (recepción, salas de clases y laboratorio psicotécnico) y en Av. Santos Dumont Nº 678, comuna de Recoleta (taller mecánico).-
+
+Raimundo Cruzat Correa, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
