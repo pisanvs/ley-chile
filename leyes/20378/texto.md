@@ -156,7 +156,9 @@ En contra de la resolución que aplique una sanción, podrá deducirse por escri
 
 Resuelta la reposición y, o el recurso jerárquico, la resolución se notificará personalmente, por cédula o mediante carta certificada dirigida al domicilio que haya fijado el afectado.
 
-En lo no previsto por este artículo, se aplicarán supletoriamente las normas establecidas en la ley Nº 19.880. Lo anterior es sin perjuicio de las acciones judiciales que correspondan.
+Con todo, la resolución que resuelva la reposición o el recurso jerárquico, en su caso, pronunciándose sobre la aplicación de las sanciones indicadas en las letras b), c) y d) del inciso primero del artículo 8º o de la multa señalada en el inciso tercero del mismo artículo, será apelable ante la Corte de Apelaciones de Santiago. La apelación deberá interponerse dentro de los 10 días siguientes a la fecha de la notificación de la resolución. La apelación deberá ser fundada y para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección. El Ministro de Transportes y Telecomunicaciones deberá elevar los autos a la Corte dentro de quinto día de interpuesto el recurso. La resolución de la Corte de Apelaciones no será susceptible de recurso alguno.
+
+En lo no previsto por este artículo, se aplicarán supletoriamente las normas establecidas en la ley Nº 19.880.
 
 ## Título III
 
