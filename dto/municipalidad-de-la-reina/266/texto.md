@@ -16,10 +16,6 @@ d.- Postergación de los permisos de subdivisión y de construcción (obra nueva
 
 2. Publíquese el presente Decreto Alcaldicio en el Diario Oficial y en el diario La Tercera.
 
-> **Nota.** El Decreto 816, Municipalidad de La Reina, publicado el 19.05.2010, prorroga por un plazo máximo de cuatro meses la postergación selectiva de Permisos de Subdivisión y Construcciones en Zonas e Inmuebles del Plan Regulador Comunal de La Reina.
-
-> **Nota.** NOTA 1 El Nº 1 de la Resolución 861 Exenta, Vivienda, publicada el 24.05.2010, prorroga hasta por un plazo máximo de 4 meses la postergación selectiva de permisos de subdivisión y construcciones en las zonas e inmuebles del Plan Regulador Comunal de La Reina.
-
 Anótese, comuníquese, publíquese y archívese.- Janett Fernández Pizarro, Alcaldesa Subrogante.- Robinson Barahona García, Secretario Municipal Subrogante.
 
 Lo que transcribo a Ud. conforme a su original.- Robinson Barahona García, Secretario Municipal Subrogante.
