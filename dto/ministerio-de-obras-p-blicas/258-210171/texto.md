@@ -210,9 +210,9 @@ Los Laureles:
 
 Los Sauces:
 
-. El tramo urbano de la Ruta R-86, desde el límite urbano Norte hasta el límite urbano Sur; a través de Juan Trintre.
+. El tramo urbano de la Ruta R-86, desde el límite urbano Norte hasta el límite urbano Sur, a través del par vial Barros Arana y Juan Trintre.
 
-. El tramo urbano de la Ruta R-60-P, desde el límite urbano Poniente hasta Juan Trintre; a través de Chacabuco.
+. El tramo urbano de la Ruta R-60-P, desde el límite urbano Poniente hasta Juan Trintre, a través de Chacabuco.
 
 Lumaco:
 
