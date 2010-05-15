@@ -4,27 +4,7 @@ Núm. H-170 exenta.- Santiago, 12 de enero de 2010.- Vistos: Las atribuciones qu
 
 Resuelvo:
 
-I.- Modifícase el numeral III de la resolución exenta Nº H-3.226 de 2009, en el sentido de fijar el siguiente orden de subrogación del Cargo de Profesional a contrata Grado 3º EUR, de la Planta de Profesionales de la Dirección General de Relaciones Económicas Internacionales, desempeñado por doña Alicia Frohmann Steinberg (RUT: 9.215.862-4), quien ejerce la Jefatura de la Dirección de Promoción de Exportaciones:
-
-a) María Lorena Sepúlveda Villa (RUT: 9.497.696-
-
-0), funcionaria de planta grado 4º E.U.R. del
-
-Escalafón de Profesionales del Servicio.
-
-b) Mauricio Bordachar Moraga (RUT: 8.189.502-3),
-
-funcionario de planta grado 4º E.U.R. del
-
-Escalafón de Profesionales del Servicio.
-
-c) Grani Martic Lausic (RUT: 8.630.178-4),
-
-funcionaria a contrata asimilada a grado 4º
-
-E.U.R. de la Planta de Profesionales del
-
-Servicio.
+I.- Derogado.
 
 II.- Modifícase el numeral IV de la resolución exenta Nº3.226 de 2009, en el sentido de fijar el siguiente orden de subrogación del Cargo de Director Grado 3º EUR, de la Planta de Directivos de la Dirección General de Relaciones Económicas Internacionales, desempeñado por don Cristián Maturana Sanhueza (RUT: Nº 10.477.893-3), quien ejerce la Jefatura del Departamento Administra-tivo:
 
