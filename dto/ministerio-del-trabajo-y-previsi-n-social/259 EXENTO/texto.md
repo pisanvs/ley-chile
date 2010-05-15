@@ -100,6 +100,12 @@ Párrafo Primero
 
 Prestaciones Médicas y Odontológicas
 
+#### Artículo 8º
+
+<!-- parte:8815003 -->
+
+El Servicio de Bienestar podrá otorgar beneficios de carácter médico y odontológico a sus afiliados y cargas legales, en la medida que sus recursos lo permitan, por los siguientes conceptos:
+
 a) Consulta médica, consulta médica domiciliaria, interconsulta y junta médica.
 
 b) Intervenciones quirúrgicas, atención de anestesista y arsenalera.
