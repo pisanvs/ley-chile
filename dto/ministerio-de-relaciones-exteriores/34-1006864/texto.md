@@ -10,18 +10,6 @@ Decreto:
 
 3. Asígnanse los recursos referidos anteriormente de acuerdo al siguiente criterio porcentual histórico: Ejército 12%, Armada 26%, Fuerza Aérea 32% e Instituto Antártico Chileno 30%.
 
-Instituciones M$
-
-Ejército 119.030.-
-
-Armada 257.897.-
-
-Fuerza Aérea 317.412.-
-
-Instituto Antártico Chileno 297.574.-
-
-TOTAL 991.913.-
-
 4. Los recursos asignados son para financiar parte de las actividades de cada componente del Programa Antártico Nacional, de acuerdo al siguiente detalle.
 
 5. Los organismos responsables de las diversas etapas de esta asignación de fondos son los siguientes:
@@ -53,6 +41,8 @@ b) Gestión presupuestaria del Departamento Antártica de la Dirección de Medio
 1. Hacer el seguimiento y control de los informes parciales a que alude el numeral 6 a) 2. precedente, enviados por los operadores antárticos sobre la ejecución de las actividades antárticas, la gestión del presupuesto 2009 y los avances de los indicadores de gestión correspondientes a la Matriz de Marco Lógico del Programa Antártico Nacional.
 
 2. Controlar y evaluar la gestión anual del Programa Antártico, verificar el cumplimiento de los indicadores de gestión e informar del resultado a la Dirección de Presupuestos del Ministerio de Hacienda y al Comité de Asuntos Financieros del Consejo de Política Antártica dentro del primer trimestre de 2010.
+
+> **Nota.** El Nº 2 del Decreto 173, Relaciones Exteriores, publicado el 17.05.2010 modifica en el punto 4º de la presente norma las sumas que en cada caso se indican de las actividades de los componentes del Programa Antártico Nacional.
 
 Regístrese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Albert Van Klaveren Stork, Ministro de Relaciones Exteriores Subrogante.
 
