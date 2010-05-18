@@ -150,7 +150,7 @@ los precios Pe y Pp.
 
 Para efectos de la determinación de los peajes de distribución establecidos en el Decreto 79, el valor del abono o cargo en la determinación del término Pe, será igual a cero.
 
-A continuación se indican, para cada concesionaria y sector de nudo, precios de nudo de energía y potencia promedio, los valores de los parámetros Rei, Rpi, Kei, Kpi y AR asociados a cada una de las subestaciones troncales de generación- transporte.
+A continuación se indican, para cada concesionaria y sector de nudo, precios de nudo de energía y potencia promedio, los valores de los parámetros Rei, Rpi, Kei, Kpi y AR asociados a cada una de las subestaciones troncales de generación-transporte.
 
 Para clientes regulados pertenecientes al Sistema Interconectado Central, en adelante "SIC", los precios de nudo en nivel de distribución a utilizar en las fórmulas tarifarias de las empresas concesionarias de servicio público de distribución determinados para cada concesionaria, incorporando los cargos AC y AR son los que se indican a continuación:
 
