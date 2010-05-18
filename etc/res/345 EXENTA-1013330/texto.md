@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIONES EXENTAS SOBRE DELEGACIÓN DE FACULTADES A FUNCIONARIOS QUE EN ELLAS SE INDICAN, PARA AUTORIZAR EL PAGO DIFERIDO DE LOS IMPUESTOS DE LA LEY DE LA RENTA
+
+Por resoluciones exentas SII Nºs. 702 de 27.04.2010, 1.108 de 28.04.2010, 19 de 01.04.2010, 1.504 de 19.04.2010, 2.696 de 15.04.2010, 2.075 de 21.04.2010, 1.914 de 16.04.2010, 3.279 de 28.04.2010, 2.231 de 28.04.2010, 1.636 de 28.04.2010, 345 de 21.04.2010, 96 de 27.04.2010, 301 de 16.04.2010 y 324 de 27.04.2010, 85 de 05.04.2010, 3.764 de 15.04.2010, 2.328 de 27.04.2010, 1.033 de 29.04.2010, y 607 de 22.04.2010, los Directores de la I, II, III, IV, V, VI, VII, VIII, IX, X, XI, XII, XIII, XIV, XV, XVI, XVII y XVIII Direcciones Regionales del Servicio, respectivamente, delegaron en los funcionarios que en ellas se designan, la facultad establecida en el Art. 72 de la Ley de Impuesto a la Renta, conforme fuera autorizado mediante resolución Ex. SII Nº 48, del 28.04.2006.
+
+El texto íntegro de estas resoluciones, están publicadas en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl).
+
+Santiago, 12 de mayo de 2010.- Gina Anastasov Aguilera, Secretaria General, Servicio de Impuestos Internos.
