@@ -100,6 +100,12 @@ Artículo transitorio
 
 Las actuales actividades comerciales que se realizan en la Plaza Gobernador Benjamín Muñoz Gamero, que se encuentren previamente autorizadas por el Municipio, sólo podrán ejercerse hasta el mes de abril de 2010.
 
+#### Artículo transitorio
+
+<!-- parte:8918601 -->
+
+Las actividades artesanales que se autoricen en la Plaza Gobernador Benjamín Muñoz Gamero, sólo podrán realizarse hasta el mes de agosto de 2010, priorizando a los asignatarios de carros de exhibición y venta de productos artesanales y, una vez asignados la totalidad de estos, considerar excepcionalmente el desarrollo de estas actividades sin el uso de los mencionados carros.
+
 2.- Procédase por el Departamento de Comunicaciones a tramitar la publicación del presente decreto alcaldicio.
 
 Anótese, comuníquese, publíquese y una vez hecho, archívese.- Vladimiro Mimica Cárcamo, Alcalde.- Juan Cisterna Cisterna, Secretario Municipal (S).
