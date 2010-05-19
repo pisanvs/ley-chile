@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.388, de 16 de abril de 2010, de esta Subsecretaría, autorízase a CARLOS NICANOR ROJO GUERRERO para iniciar actividades pesqueras de transformación, instalar y operar planta en El Cisne Nº 1067, Villa Las Playas, Caldera, III Región, para elaborar en línea de Fresco enfriado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 16 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
