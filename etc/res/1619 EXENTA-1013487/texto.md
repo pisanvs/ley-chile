@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.619, de esta Subsecretaría, autorízase a INVERSIONES CERRO LA CAMPANA LIMITADA, para iniciar actividades pesqueras de transformación, para instalar y operar planta en Antillanca Nº 611, Bodega letra A, Loteo Industrial Lo Echevers Vespucio, Pudahuel, Región Metropolitana, para elaborar en líneas de proceso Cocido y Congelado, el recurso hidrobiológico Jibia o Calamar rojo.
+
+Valparaíso, 17 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
