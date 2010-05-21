@@ -1,0 +1,9 @@
+SOLICITUD EN PROCEDIMIENTO DE INSCRIPCIÓN EN EL REGISTRO DE PARTIDOS POLÍTICOS DEL PARTIDO ECOLOGISTA DEL SUR, EN FORMACIÓN
+
+Por resolución O-Nº 1.438, de fecha 14 de mayo de 2010, se dispuso publicar en el Diario Oficial la solicitud de tener por subsanados los reparos formulados por el Servicio Electoral a su inscripción como partido político del Partido Ecologista del Sur, en formación, formulada por don Pablo Peñaloza Torres, en virtud del poder otorgado en la escritura de constitución legal de la colectividad y en representación de don Cristian Villarroel Novoa, Presidente de la Directiva Central provisional del Partido Ecologista del Sur, en formación. La inscripción solicitada se refiere a las regiones XIV, X y XI. La escritura pública de fecha 14 de agosto de 2009, otorgada ante don Alberto Herman Montauban, Notario Suplente del Titular de la Sexta Notaría de Santiago, modificada por escritura pública del día 15 de octubre de 2009, se constituyó como partido político la entidad denominada "Partido Ecologista del Sur". Su sigla es "PES". Su lema "Por un Desarrollo Sustentable para Chile". No presenta símbolo. El extracto de la escritura de constitución se publicó en el Diario Oficial de fecha 3 de noviembre de 2009.
+
+La solicitud tiene por objeto subsanar las deficiencias en que se fundó la resolución O-Nº 687, de fecha 26 de marzo de 2010, publicada en el Diario Oficial de fecha 29 del mismo mes y año en la X Región de Los Lagos, y que dio por acreditada la afiliación mínima de ciudadanos exigida por el artículo 6º de la ley Nº 18.603, en las regiones XIV de Los Ríos y XI de Aisén del General Carlos Ibáñez del Campo.
+
+Publicación que se ordena para los efectos contemplados en el artículo 9º de la ley Nº 18.603 por resolución O-Nº 1.438, de fecha 14 de mayo de 2010.-
+
+Juan Ignacio García Rodríguez, Director.
