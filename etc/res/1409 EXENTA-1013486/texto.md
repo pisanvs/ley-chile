@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.409, de 20 de abril de 2010, de esta Subsecretaría, autorízase a BUZOS ORILLEROS DE TALTAL S.A. para iniciar actividades pesqueras de transformación, instalar y operar planta en calle Jorge Montt Nº 767, Taltal, II Región, para elaborar en líneas de Cocido, Fresco enfriado y Congelado los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 20 de abril de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
