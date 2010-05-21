@@ -16,9 +16,7 @@ Resolución :
 
 Región Recursos (UF)
 
-VIVIENDA
-
-Arica y Parinacota 155.775,6 Nº 1
+Arica y Parinacota 155.775,6
 
 Tarapacá 7.526,0
 
@@ -38,13 +36,13 @@ Araucanía 829.990,8
 
 Los Ríos 256.820,7
 
-Los Lagos 791.192,1
+Los Lagos 791.252,1
 
 Aysén 4.214,0
 
 Metropolitana 955.218,0
 
-Total País 4.952.059,2
+Total País 4.952.119,4
 
 El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica y el subsidio diferenciado a la localización si corresponde.
 
