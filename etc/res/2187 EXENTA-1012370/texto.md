@@ -14,7 +14,7 @@ d) El D.S. N° 150, de Interior, de 2010, que señala como zona afectada por la 
 
 Resolución:
 
-1. Llámase a partir del 12 de abril y hasta el 30 de junio de 2010, ambas fechas inclusive, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N°332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O’Higgins, del Maule, del Bíobío, La Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2010, a partir del mes de abril y hasta el mes de junio, o hasta que se agoten los recursos destinados para cada región.
+1. Llámase a partir del 12 de abril y hasta el 30 de junio de 2010, ambas fechas inclusive, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N°332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Bíobío, La Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2010, a partir del mes de abril y hasta el mes de junio, o hasta que se agoten los recursos destinados para cada región.
 
 2. Para esta postulación, sólo se podrán presentar proyectos del Título II en sus modalidades de Habitabilidad de la Vivienda, de Seguridad de la Vivienda o de Mantención de la Vivienda, estos últimos sólo en lo referido a reparación o reposición de cierros perimetrales.
 
@@ -78,11 +78,41 @@ Social, contenida en los artículos 23 bis y
 
 #### Artículo 23 ter
 
+- De los antecedentes para postular como
+
+copropietario, exigidos en las letras:
+
+c) Copia del reglamento de copropiedad
+
+formalizado conforme a la Ley N° 19.537 sobre
+
+Copropiedad Inmobiliaria.
+
+d) Acta de la Asamblea en que conste la
+
+designación del Comité de Administración con
+
+individualización de su presidente y la del
+
+Administrador del Condominio, si lo hubiere.
+
+f) Tratándose de proyectos que aborden o afecten
+
+bienes comunes de un condominio, Acta de la
+
+Asamblea de Copropietarios en que conste el
+
+acuerdo adoptado de conformidad a la Ley N°
+
+19.537, aprobando el proyecto, todas del
+
+#### Artículo 47
+
 7. Las condiciones especiales que se establecen para este llamado son las siguientes:
 
 a) Ficha de Protección Social de acuerdo a los Artículos 16 letra b) y 21 letra d). No obstante lo anterior, en casos calificados como extraordinarios y certificados por el Serviu, se podrá eximir de este requisito.
 
-b) El postulante debe ser el propietario del inmueble afectado o su cónyuge, y ninguno de ellos podrá ser propietario de otra vivienda.
+b) El postulante debe ser el propietario o asignatario del inmueble afectado, o su cónyuge, y ninguno de ellos podrá ser propietario de otra vivienda. En caso que las viviendas sean de propiedad del SERVIU se aplicará igualmente lo establecido en el Artículo 7° bis del D.S. N° 255 (V. y U.), de 2006.
 
 c) Carpeta del Proyecto de Mejoramiento de la Vivienda, que contenga los antecedentes que se señalan a continuación, debidamente aprobados:
 
@@ -134,9 +164,13 @@ proyecto indicado en la tabla inserta en el
 
 h) Las personas que sean beneficiadas por primera vez con un subsidio en este llamado, podrán volver a postular en futuros llamados del Programa de Protección del Patrimonio Familiar al Título II.
 
-i) Sólo podrán postular proyectos en este llamado los Prestador de Servicios de Asistencia Técnica (PSAT), con convenio marco regional vigente, que hubieran tenido proyectos calificados como hábiles en cualquier región del país desde la fecha en que comenzó a regir dicho convenio. Esta exigencia no se aplicará a los Municipios que participen como PSAT, debiendo tener convenio marco vigente.
+i) En este llamado sólo podrán postular proyectos las Entidades de Gestión Inmobiliaria Social (EGIS) o los Prestadores de Servicios de Asistencia Técnica (PSAT) con convenio marco regional vigente y que, además, hubieran tenido proyectos con calificación definitiva o condicional del sistema regulado por el D.S. N° 174 (V. y U.), de 2005, o proyectos con calificación definitiva del sistema regulado por el D.S. N° 145 (V. y U.), de 2007, o proyectos calificados como hábiles del sistema regulado por el D.S. N°255 (V. y U.), de 2006, en cualquier región del país, desde la fecha en que comenzó a regir el respectivo convenio. Tratándose de Municipios que participen como PSAT, solamente se les exigirá tener convenio marco vigente.
 
-8. El monto del subsidio para el pago de Asistencia Técnica y de Inspección de Obras que se otorgue a cada familia beneficiada, será el correspondiente de acuerdo al tipo de proyecto de Mejoramiento de que se trate, conforme a lo establecido en la resolución N° 533 (V. y U.), de 1997 y sus modificaciones.
+j) Los proyectos de reparación de viviendas que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, podrán obtener un subsidio adicional de hasta 200 Unidades de Fomento, siempre que se aplique a la recuperación del patrimonio arquitectónico del inmueble a intervenir y a mantener las condiciones urbanas del entorno, dando en todo caso cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley N° 17.288 Sobre Monumentos Nacionales y la Ley General de Urbanismo y Construcciones y su Ordenanza.
+
+"k) Los proyectos postulantes en Condominios de Viviendas Sociales que afecten Bienes Comunes, deben contar con la aprobación de los integrantes del grupo.
+
+8. El monto del subsidio para el pago de Asistencia Técnica y de Inspección Técnica de Obras que obtendrá cada familia beneficiada, será el que corresponda al tipo de Proyecto de Mejoramiento de que se trate, conforme a lo establecido en la Resolución N° 533 (V. y U.), de 1997. No obstante lo anterior, tratándose de Proyectos de Seguridad de la Vivienda que requieran de un especialista estructural y de Proyectos de Habitabilidad de la Vivienda que incluyan la intervención de instalaciones sanitarias, eléctricas o de gas y que requieran ser ejecutados por un profesional competente en la materia, se podrá incrementar con 1 Unidad de Fomento por beneficiario los montos indicados para el área Organización de la Demanda y Postulación de Proyectos.
 
 9. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para el Programa regulado por el D. S. N° 255 (V. y U.), de 2006, para el año 2010.
 
