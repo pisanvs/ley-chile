@@ -6,7 +6,7 @@ Núm. 2.185 exenta.- Visto: El D.S. N° 40 (V. y U.), de 2004, y sus modificacio
 
 Resolución:
 
-1º.- Llámase a partir del 12 de abril de 2010 y hasta el 30 de junio de 2010, ambas fechas inclusive, a postulación extraordinaria para el Sistema de Subsidio Habitacional en su Título I, conforme a las disposiciones del D.S. Nº 40 (V. y U.), de 2004, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O’Higgins, del Maule, del Biobío, La Araucanía y Metropolitana, período en que los Serviu procederán a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
+1º.- Llámase a partir del 12 de abril de 2010 y hasta el 30 de junio de 2010, ambas fechas inclusive, a postulación extraordinaria para el Sistema de Subsidio Habitacional en su Título I, conforme a las disposiciones del D.S. Nº 40 (V. y U.), de 2004, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Biobío, La Araucanía y Metropolitana, período en que los Serviu procederán a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
 Para estos efectos, se deja establecido que los procesos de selección se efectuarán en forma mensual, participando en ellos las postulaciones ingresadas hasta el último día hábil del mes anterior a cada proceso de selección, hasta agotar la totalidad de los recursos asignados a cada Región.
 
@@ -45,6 +45,10 @@ promedio a considerar
 A 175
 
 C 380
+
+Sin perjuicio de lo dispuesto en el inciso anterior con relación al valor real de pago del Certificado de Subsidio, en caso que éste se aplique a operaciones de construcción en sitio propio el monto máximo de subsidio será el que se señala en la siguiente tabla:
+
+En donde P corresponde al precio de la vivienda de acuerdo al artículo 4 del D.S. N°40 (V. y U.), de 2004.
 
 5º.- En caso que los recursos no alcanzaren para atender la totalidad de las postulaciones ingresadas en los plazos dispuestos al efecto, la distribución por alternativa de postulación se efectuará considerando el orden de prelación que determine el puntaje de los postulantes individuales o el puntaje promedio obtenido de la forma que señala el inciso tercero del artículo 16 del D.S. Nº 40 (V. y U.), de 2004, en caso de tratarse de postulación colectiva, conforme a lo señalado en los artículos 15 del Párrafo 8º y 16 y 17 del Párrafo 9º del Capítulo I del D.S. Nº 40 (V. y U.), de 2004, en lo que fuere procedente, hasta enterar el total de los recursos disponibles.
 
