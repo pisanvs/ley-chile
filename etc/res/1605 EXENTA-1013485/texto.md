@@ -1,0 +1,41 @@
+FIJA NÓMINA DE BENEFICIARIOS DE PROGRAMA DE APOYO SOCIAL CONSISTENTE EN APORTE PARA GASTOS DE EDUCACIÓN DE HIJOS/AS DE TRABAJADORES DESPLAZADOS DEL SECTOR PESQUERO INDUSTRIAL BAJO LA VIGENCIA DE LA LEY 19.713, AÑO 2010, PARA TODO EL PAÍS EXCEPTUANDO LAS REGIONES DE VALPARAÍSO Y BIOBÍO"
+
+Núm. 1.605 exenta.- Valparaíso, 14 de mayo de 2010.- Vistos: Lo dispuesto en la Ley N° 20.407, de Presupuestos para el Sector Público para el año 2010; en el Decreto Supremo N° 430/91 del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.892, General de Pesca y Acuicultura; en el Decreto con Fuerza de Ley N° 1 - 19.653 de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.575, sobre Bases Generales de la Administración del Estado; en la Ley N° 19.880 de Bases Generales de Procedimiento Administrativo; en la Resolución 1600/08 de Contraloría General de la República, que fija normas sobre Exención del Trámite de Toma de Razón; en la Resolución N° 759/03 de Contraloría General de la República, que fija normas de Procedimiento sobre Rendición de Cuentas; en los Acuerdos N° 11 de la sesión N° 31 de fecha 09 de mayo de 2007, N° 2 de la sesión N° 48 de fecha 04 de enero de 2010, el Acuerdo N° 2 letra b) y N° 3 letra b) de la Sesión Nº 52 de fecha 16 de Abril de 2010, todos del Consejo de Administración Pesquera; en la Resolución N° 1406, de fecha 19 de Abril de 2009, de esta Subsecretaría; y
+
+Considerando:
+
+Que, de conformidad con lo dispuesto por el artículo 173 del Decreto Supremo N° 430/91 del Ministerio de Economía, Fomento y Reconstrucción, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.892, General de Pesca y Acuicultura, se determina la creación del Fondo de Administración Pesquero, destinado a financiar proyectos de investigación pesquera y acuicultura, y de fomento y desarrollo a la pesca artesanal; y programas de vigilancia, fiscalización y administración de las actividades pesqueras; de capacitación, apoyo social, y reconversión laboral para los trabajadores que, durante el período de vigencia de la ley N° 19.713, hayan perdido su empleo, y de capacitación para los actuales trabajadores de las industrias pesqueras extractivas y de procesamiento. La investigación pesquera y en acuicultura será administrada de la forma que determine la ley, garantizando mayor autonomía de la autoridad administrativa.
+
+Que el Fondo es administrado por el Consejo de Administración Pesquera, integrado por el Ministro de Economía, Fomento y Turismo, quien lo presidirá; el Ministro de Hacienda o un representante permanente designado por éste; el Ministro del Trabajo y Previsión Social o un representante permanente designado por éste; el Subsecretario de Pesca y el Director Nacional de Pesca.
+
+Que el Consejo de Administración Pesquera determinó delegar en el Subsecretario de Pesca y en la Subsecretaría a su cargo, la ejecución de los programas que se acordara desarrollar.
+
+Que el Consejo de Administración Pesquera, en Sesión N° 31, de fecha 09 de Mayo del año 2007, aprobó mediante Acuerdo N° 11, destinar recursos para el Programa de Becas para Hijos/as de Trabajadores Desplazados del Sector Pesquero Industrial, bajo la vigencia de la Ley Nº 19.713, por un monto de hasta $170.000.000.- (Ciento setenta millones de pesos).
+
+Que en Sesión N° 48, de fecha 04 de Enero de 2010, mediante Acuerdo N° 2, el Consejo de Administración Pesquera aprueba destinar hasta la suma de $170.000.000.- (Ciento setenta millones de pesos) para Programa de Apoyo Social consistente en Aporte para Gastos de Educación de Hijos/as de Trabajadores Desplazados del Sector Pesquero Industrial, bajo la vigencia de la Ley Nº 19.713, año 2010.
+
+Que en virtud de la grave crisis por la que atraviesan los trabajadores desplazados del sector pesquero industrial de las regiones de Valparaíso y Biobío, a causa del terremoto y posterior tsunami ocurridos el pasado mes de febrero, el Consejo de Administración Pesquera, con fecha 26 de Abril de 2010, en Sesión N° 52, acuerda reorientar los recursos ya aprobados en sesiones anteriores con el objeto de destinarlos extraordinariamente a paliar los efectos de la catástrofe. De esta forma, mediante acuerdo N° 2 letra b) se aprueba dejar sin efecto el Acuerdo N° 2 de la Sesión N° 48 del Consejo, que aprobó los programas de apoyo social para trabajadores desplazados del sector pesquero industrial, para el año 2010.
+
+Que tomando en consideración lo anterior, en virtud de Acuerdo N° 3 letra b) de la ya mencionada Sesión N° 52 del Consejo de Administración Pesquera, se aprueba destinar hasta la suma de M$30.000.- (Treinta millones de pesos) para el "Programa de Apoyo Social consistente en aporte extraordinario para gastos de hijos/as de trabajadores desplazados del sector pesquero industrial bajo la vigencia de la Ley 19.713, año 2010, para todo el país exceptuando las Regiones de Valparaíso y Biobío".
+
+Que, para tal objeto, se ha requerido ejecutar y desarrollar por la Subsecretaría de Pesca un programa de apoyo social extraordinario, con el objeto que los potenciales beneficiarios afectados por la catástrofe de la mencionada zona geográfica, postulen al beneficio señalado, cumpliendo los requisitos establecidos en un manual de procedimiento.
+
+Que mediante Resolución Exenta N° 1406, de fecha 19 de Abril de 2010, de esta Subsecretaría, se aprobó "Programa de Apoyo Social, consistente en aporte extraordinario para gastos de hijos/as de trabajadores desplazados del sector pesquero industrial bajo la vigencia de la Ley 19.713, año 2010, para todo el país exceptuando las regiones de Valparaíso y Biobío junto a su Manual de Procedimiento, Evaluación y Selección de beneficiarios".
+
+Que de acuerdo a los requisitos y procedimientos contenidos en el referido Manual de Procedimiento, Evaluación y Selección de Beneficiarios, se conformó una nómina de beneficiarios, que cumplen con todos los requisitos contenidos en éste.
+
+Las facultades que al suscrito le confieren el Decreto Supremo N° 119 de 2010, del Ministerio de Economía, Fomento y Turismo, y, en especial para ejecutar los Programas y Proyectos año 2010 que corresponda en el marco de lo dispuesto en el artículo 173 de la Ley N° 18.892 de Pesca y Acuicultura, en el Acuerdo N° 1 de la sesión N° 48 de fecha 04 de enero de 2010, del Consejo de Administración Pesquero, dicto la siguiente,
+
+Resolución:
+
+1. Fíjase la siguiente nómina de beneficiarios del "Programa de Apoyo Social, consistente en aporte extraordinario para gastos de hijos/as de trabajadores desplazados del sector pesquero industrial bajo la vigencia de la Ley 19.713, año 2010, para todo el país exceptuando las regiones de Valparaíso y Biobío"; y autorízase el pago del beneficio por la suma que en cada caso se indica, que en su conjunto suma $9.800.000.- (nueve millones ochocientos mil pesos):
+
+2.- Autorízase al Departamento Administrativo de la Subsecretaría de Pesca para efectuar el pago de los correspondientes recursos.
+
+3.- Déjase constancia que el "Programa de Apoyo Social, consistente en aporte extraordinario para gastos de hijos/as de trabajadores desplazados del sector pesquero industrial bajo la vigencia de la Ley 19.713, año 2010, para todo el país exceptuando las regiones de Valparaíso y Biobío", implica un monto total de hasta $30.000.000.- (Treinta millones de pesos) aprobado por el Consejo de Administración Pesquera.
+
+4.- Impútese el gasto que demande la presente Resolución a la Partida 07, Capítulo 03, Programa 02, Subtítulo 24, Ítem 03, Asignación 002, del presupuesto vigente para el año 2010, del Fondo de Administración Pesquero.
+
+5.- Remítase copia de la presente Resolución al Fondo de Administración Pesquero.
+
+Anótese, refréndese, comuníquese, cúmplase, publíquese en el Diario Oficial por cuenta de esta Subsecretaría y archívese.- Pablo Galilea Carrillo, Subsecretario de Pesca.
