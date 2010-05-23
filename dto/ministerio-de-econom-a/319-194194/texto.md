@@ -56,7 +56,7 @@ Para los efectos del presente Reglamento se dará a los siguientes términos los
 
 13) Incidencia: número de brotes de enfermedad registrados en una población de especies hidrobiológicas determinada durante un período de tiempo determinado.
 
-14) Infección: presencia de un organismo infeccioso en una especie hidrobiológica asociado o no con manifestaciones clínicas de una enfermedad.
+14) Infección: Presencia de un agente patógeno que se multiplica, desarrolla o está latente en un huésped. Incluye a la infestación, cuando el agente patógeno es un parásito del hospedador.
 
 15) Laboratorio de Diagnóstico: laboratorio que realiza el diagnóstico de enfermedades de especies hidrobiológicas, reconocido por el Servicio conforme a las normas del presente reglamento.
 
@@ -92,7 +92,17 @@ Para los efectos del presente Reglamento se dará a los siguientes términos los
 
 32) Emergencia sanitaria: brote inesperado dentro del territorio nacional de enfermedades de Lista 1, o aumento sobre los niveles considerados normales en la prevalencia o incidencia de enfermedades de Lista 2, o de patologías no incorporadas en el listado de enfermedades de alto riesgo, susceptibles de provocar un alto impacto económico y sanitario en las especies hidrobiológicas, con arreglo a los términos de los artículos 4 y 5. La declaración de emergencia sanitaria dará lugar a la adopción de medidas de control por parte del Servicio previstas en los artículos 6, 7 y 7 bis.
 
-33) Desechos: material orgánico o inorgánico que queda inservible con ocasión de la actividad de acuicultura que no incluye a las mortalidades.".
+33) Desechos: material orgánico o inorgánico que queda inservible con ocasión de la actividad de acuicultura que no incluye a las mortalidades.
+
+34) Caso: Animal acuático infectado por un agente patógeno, con o sin signos clínicos manifiestos.
+
+35) Compostaje: Descomposición de la mortalidad mediante microorganismos, bajo condiciones aeróbicas y termófilas, lo que permite la inactivación y/o destrucción de patógenos.
+
+36) Ensilaje: Procedimiento de transformación de la mortalidad mediante una molienda y adición de ácido fórmico hasta alcanzar y mantener un pH 4, en una mezcla homogénea.
+
+37) Incineración: Sistema de tratamiento de las mortalidades que consiste en la quema controlada de materia orgánica con el fin de generar su combustión completa hasta su conversión en cenizas, basada en la aplicación de calor al interior de hornos pirolíticos de doble cámara.
+
+38) Piscicultura de recirculación: Sistema productivo en el que el agua es reutilizada y tratada, al menos, a través de filtros mecánicos, biológicos y sistemas de desinfección, pudiendo ser renovada una parte de ella en forma continua.
 
 ## Título II
 
@@ -116,13 +126,17 @@ Si aparecieren, fuera o dentro del territorio nacional, brotes de enfermedades d
 
 En los casos en que, dentro del territorio nacional, aparecieren brotes de enfermedades de etiología desconocida que representen un impacto importante desde el punto de vista económico y de salud animal, el titular del centro de cultivo o quien éste designe deberá notificar obligatoriamente, dentro de las 48 horas siguientes de descubierto el brote, al Servicio, el que dispondrá, si corresponde, la realización de una investigación oficial, de acuerdo con el procedimiento previsto en el programa sanitario general.
 
+Con todo, cualquier persona que tuviera noticia acerca de brotes de enfermedades de que trata este artículo podrá informar al Servicio, acompañando los antecedentes correspondientes, para efectos de iniciar una investigación oficial.
+
 Mediante la investigación oficial se deberá determinar si la patología es producida por un agente infeccioso y si se trata de una enfermedad de alto riesgo. En tal caso, la Subsecretaría, por resolución, previo informe del Comité Técnico incorporará la enfermedad respectiva en la clasificación de enfermedades de alto riesgo.
 
 #### Artículo 6º
 
 En caso de sospecha fundada de un brote de alguna de las enfermedades clasificadas en Lista 1, conforme lo indicado en los artículos 3º y 4º, el titular del centro de cultivo afectado o quien éste designe, deberá notificar obligatoriamente al Servicio, dentro de las 48 horas siguientes de descubierto el brote según los programas de vigilancia epidemiológica e implementar las medidas que sean establecidas por éste.
 
-Recibida la notificación a que alude el inciso anterior o si con ocasión del transporte de especies hidrobiológicas o de una fiscalización, el Servicio sospecha fundadamente la presencia de alguna enfermedad de Lista 1, deberá ordenar una investigación oficial para confirmar o descartar la presencia de la enfermedad; en particular, efectuará o fiscalizará la toma de muestras adecuadas para los exámenes de laboratorio correspondientes, los cuales se realizarán en laboratorios de diagnóstico. Asimismo, deberá disponer por resolución, dentro de las 48 horas siguientes, algunas de las medidas que se indican a continuación, de acuerdo a los programas sanitarios específicos respectivos:
+Con todo, cualquier persona que tuviera sospecha fundada de brotes de enfermedades de que trata este artículo podrá informar al Servicio, acompañando los antecedentes correspondientes.
+
+Recibida la notificación a que alude el inciso 1º del presente artículo o si con ocasión del transporte de especies hidrobiológicas o de una fiscalización, el Servicio sospecha fundadamente la presencia de alguna enfermedad de Lista 1, deberá ordenar una investigación oficial para confirmar o descartar la presencia de la enfermedad; en particular, efectuará o fiscalizará la toma de muestras adecuadas para los exámenes de laboratorio correspondientes, los cuales se realizarán en laboratorios de diagnóstico. Asimismo, deberá disponer por resolución, dentro de las 48 horas siguientes, algunas de las medidas que se indican a continuación, de acuerdo a los programas sanitarios específicos respectivos:
 
 a) determinar la especie, estado de desarrollo y número de ejemplares muertos, enfermos o presuntamente infectados en base a la información recopilada en los registros sanitarios del centro;
 
@@ -134,7 +148,7 @@ d) disponer la adopción y fiscalizar las medidas de desinfección adecuadas par
 
 e) establecer un sistema intensivo de vigilancia e inspección oficial en el centro de cultivo afectado y en los centros que se encuentren en la zona de vigilancia;
 
-f) determinar procedimientos de manejo, mantención en viveros o centros de matanza, cosecha y procesamiento que eviten la propagación de la enfermedad.
+f) determinar procedimientos de manejo, mantención en viveros o centros de matanza, cosecha y procesamiento que eviten la propagación de la enfermedad;
 
 Las medidas indicadas precedentemente se aplicarán hasta que se descarte oficialmente, por resolución, la sospecha de la enfermedad, la que no podrá exceder del plazo determinado en el programa específico que corresponda.
 
@@ -156,9 +170,13 @@ f) requerir la destrucción de todos los ejemplares infectados o enfermos;
 
 g) disponer la destrucción de todas las especies hidrobiológicas cultivadas en los centros infectados;
 
-h) determinar un período de descanso durante el cual se prohíba el ingreso y mantención de especies hidrobiológicas susceptibles.
+h) determinar un período de descanso durante el cual se prohíba el ingreso y mantención de especies hidrobiológicas susceptibles;
 
-i) ordenar la aplicación de medidas profilácticas o terapéuticas, disponiendo las condiciones, zonas y fechas en que deberán efectuarse en los distintos centros afectados.
+i) ordenar la aplicación de medidas profilácticas o terapéuticas, disponiendo las condiciones, zonas y fechas en que deberán efectuarse en los distintos centros afectados;
+
+j) Disponer la destrucción de las redes o artes de cultivo conforme lo defina el programa sanitario respectivo;
+
+k) En caso que el Servicio verifique la existencia de mortalidades masivas podrá ordenar su disposición en vertederos autorizados, de conformidad con el Programa Sanitario General respectivo, en casos calificados atendida la magnitud de la mortalidad.
 
 Las medidas indicadas precedentemente se aplicarán por el plazo de seis meses, prorrogable por una sola vez por igual término. Vencido este plazo o su prórroga deberá dictarse el programa sanitario específico de control de la enfermedad.
 
@@ -390,9 +408,9 @@ c) Se deberá limpiar y desinfectar las superficies de los botes utilizados y lo
 
 d) Antes y después del uso del equipo empleado para la recolección de mortalidades, deberá desinfectarse, debiendo existir un sistema de registros de dicha actividad.
 
-La mortalidad diaria de los centros de cultivo de peces en mar y en agua dulce será sometida a ensilaje dentro de las 24 horas. El depósito temporal de mortalidades debe efectuarse en envases especialmente destinados para este fin, debidamente identificados y con tapa, paredes y fondo herméticos que impidan posibles derrames.
+La mortalidad diaria de los centros de cultivo de peces ubicados en tierra, en mar y en agua dulce será sometida a ensilaje o incineración dentro de las 24 horas. El depósito temporal de mortalidades debe efectuarse en envases especialmente destinados para este fin, debidamente identificados y con tapa, paredes y fondo herméticos que impidan posibles derrames. Todo sistema de disposición de la mortalidad debe ubicarse en forma independiente de las demás instalaciones del centro.
 
-Se entenderá por ensilaje el procedimiento de transformación de la mortalidad mediante una molienda y adición de ácido fórmico hasta alcanzar y mantener un pH 4, en una mezcla homogénea, de lo cual deberá llevarse un registro diario.
+INCISO ELIMINADO.
 
 La maquinaria y materiales de ensilaje deberán ubicarse en forma independiente de las demás instalaciones del centro.
 
@@ -406,13 +424,31 @@ El producto del ensilaje sólo podrá destinarse a una planta reductora que cuen
 
 Sin perjuicio de lo anterior, el producto del ensilaje podrá tener un destino diverso en los casos autorizados por la autoridad competente, previa aprobación de la metodología de tratamiento y proceso.
 
+El sistema de incineración deberá ser hermético, contar con dispositivos que garanticen la temperatura mínima requerida para asegurar la total destrucción de los patógenos causantes de enfermedades de alto riesgo y cumplir los demás requisitos que correspondan conforme a la normativa vigente.
+
+Los centros de cultivo de peces ubicados en tierra, podrán además someter sus mortalidades a un sistema de compostaje.
+
+El diseño de la estructura y el procedimiento de compostaje deberán asegurar que todo el material alcance la temperatura, tiempo de exposición y proporción de carbono y nitrógeno requerida. La temperatura debe ser monitoreada diariamente en diferentes estratos de la pila de compostaje.
+
+El compostaje no debe ser utilizado en caso de brote de enfermedades de alto riesgo.
+
+Todo sistema de manejo de la mortalidad deberá realizarse sometiéndose a las condiciones indicadas y a los procedimientos específicos que sean incluidos en el programa sanitario general o específico que corresponda, de lo cual se deberá llevar un registro diario.
+
+Sin perjuicio de lo anterior, en el evento que el Servicio determine la existencia de mortalidades masivas, de conformidad con el Programa Sanitario General respectivo, éste podrá ordenar otros sistemas de tratamiento y disposición de mortalidad, de conformidad con el ordenamiento jurídico.
+
 #### Artículo 22 ter
 
-Todos los equipos usados en las jaulas deben ser limpiados y desinfectados antes de ser usados en otras jaulas. Asimismo, en cada centro deberán emplearse equipos de su uso exclusivo.
+Todo centro deberá contar con equipos de uso exclusivo. Antes de la utilización de un equipo en una jaula éste deberá ser limpiado y desinfectado.
 
-En caso de traslado, las redes deberán ser transportadas en contenedores herméticos, sin vías de evacuación, rígidos o flexibles, sellados y etiquetados. Asimismo, las redes deberán ser clasificadas a su llegada a la estación de lavado.
+El traslado y transporte de artes de cultivo deberá efectuarse en contenedores herméticos, sin vías de evacuación, rígidos o flexibles, sellados y etiquetados. Asimismo, los artes de cultivo deberán ser clasificadas a su llegada al taller de lavado dependiendo de su procedencia.
 
-En caso de disposición final, las redes deben ser destruidas por incineración o enterradas en un área debidamente autorizada, conforme a la normativa vigente.
+En caso de disposición final, los artes de cultivo deberán ser dispuestos por incineración o ingreso en un vertedero industrial, debidamente autorizado, conforme a la normativa vigente.
+
+Con todo, en el evento que la disposición final contemple la reutilización de los artes de cultivo para otros fines, éstos deberán ser previamente desinfectados de conformidad con el programa sanitario general o específico vigente.
+
+En los casos señalados en el inciso 3º del presente artículo, la disposición final de los artes de cultivo se efectuará en lugares debidamente autorizados.
+
+El lavado y limpieza de artes de cultivo efectuado en cualquiera de las formas que contemple el Decreto Supremo a que se refiere el artículo 87 de la ley, deberá considerar la desinfección del efluente líquido cuando los artes de cultivo se encuentren o provengan desde centros ubicados en zonas de vigilancia o zona infectada.
 
 #### Artículo 22 quáter
 
@@ -426,7 +462,7 @@ Los centros de cultivo en tierra, sea que requieran o no concesión o autorizaci
 
 Asimismo, los centros de cultivo en tierra, deberán mantener un sistema que asegure en todo momento una apropiada calidad y suministro de agua y oxígeno. La infraestructura de cultivo deberá tener características de seguridad que permita proteger a los organismos del ataque de depredadores, sin afectar la salud de los mismos, así como permitir su limpieza y desinfección periódica, la inspección diaria de todo el stock, el retiro diario de las mortalidades y la prevención del escape de los organismos en cultivo y el ingreso de especies silvestres.
 
-Anualmente deberá efectuarse la limpieza y desinfección de todas las unidades del centro que sean abastecidas con aguas comunes seguida por la paralización de operaciones en las mismas por el plazo mínimo de siete días o el que establezca el programa sanitario específico que corresponda.
+Anualmente deberá efectuarse la limpieza y desinfección de todas las unidades del centro que sean abastecidas con aguas comunes seguida por la paralización de operaciones en las mismas por el plazo mínimo de siete días o el que establezca el programa sanitario específico que corresponda. En el caso de las pisciculturas de recirculación esta exigencia deberá cumplirse cada dos años, salvo que se encuentre sometida a un programa sanitario específico de vigilancia y control en cuyo caso deberá someterse a una más frecuente desinfección conforme se establezca en dicho programa.
 
 #### Artículo 23 bis
 
@@ -468,7 +504,7 @@ Los centros de cultivo de peces ubicados en mar, deberán realizar la siembra de
 
 a) Haber realizado la cosecha completa de los ejemplares ingresados previamente;
 
-b) Haber limpiado y desinfectado las instalaciones del centro de cultivo y, los equipos; y
+b) Haber limpiado y desinfectado las instalaciones del centro de cultivo y los equipos. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de efectuada la cosecha total del centro y deberá culminar en un máximo de 45 días corridos; y
 
 c) Haber paralizado sus operaciones mediante el retiro de todos los ejemplares por el plazo mínimo de 30 días o el que se haya dispuesto en el programa sanitario específico que corresponda, contado desde el término de la desinfección.
 
@@ -480,7 +516,7 @@ La siembra deberá ser a número final. Prohíbese el desdoble de ejemplares ent
 
 #### Artículo 24 ter
 
-Cada doce meses, los centros de cultivo de peces ubicados en lagos deberán retirar todos los ejemplares por el plazo mínimo de 30 días o el que se haya dispuesto en el programa sanitario específico que corresponda.
+Cada doce meses, los centros de cultivo de peces ubicados en lagos deberán retirar todos los ejemplares por el plazo mínimo de 30 días o el que se haya dispuesto en el programa sanitario específico que corresponda y realizar la limpieza y desinfección de las instalaciones del centro de cultivo y los equipos. El proceso de limpieza y desinfección deberá iniciarse en un plazo máximo de 7 días de desocupado el centro. El proceso de limpieza y desinfección deberá culminar en un máximo de un mes..
 
 #### Artículo 24 quáter
 
@@ -722,7 +758,7 @@ Deberán desinfectarse los embalajes y todos los elementos empleados en el trans
 
 Todos los medios de transporte que sean utilizados para trasladar especies hidrobiológicas desde o hacia centros de cultivo, viveros, centros de matanza o plantas de proceso, deberán ser limpiados y desinfectados en forma previa a la carga y con posterioridad a la descarga, conforme lo disponga el programa sanitario correspondiente.
 
-El procedimiento de limpieza y desinfección de los medios de transporte y de los contendedores utilizados, se realizará conforme al programa sanitario general correspondiente, el que deberá prever tres niveles de limpieza y desinfección como mínimo, atendiendo el riesgo. Se exigirá siempre el mayor nivel de limpieza y desinfección al ingreso y salida de zonas infectadas y al transporte de reproductores o smolts que se realice en un medio de transporte utilizado previamente en el transporte de peces de cosecha o mortalidades.
+El procedimiento de limpieza y desinfección de los medios de transporte y de los contendedores utilizados, se realizará conforme al programa sanitario general correspondiente. Se exigirá siempre el mayor nivel de limpieza y desinfección al ingreso y salida de zonas infectadas y al transporte de reproductores o smolts que se realice en un medio de transporte utilizado previamente en el transporte de peces de cosecha o mortalidades.
 
 Las embarcaciones que retiren mortalidades desde los centros de cultivo deberán contar con bombas de aspersión para desinfectar la superficie de los pisos de cubierta antes y después del retiro de éstas.
 
@@ -920,7 +956,7 @@ Los laboratorios de diagnóstico y de referencia deberán utilizar las técnicas
 
 #### Artículo 70º
 
-Los laboratorios de diagnóstico y de referencia, así como cualquier laboratorio que utilice material de alto riesgo sanitario para las especies hidrobiológicas, tengan o no por objetivo emitir diagnósticos oficiales, deberán informar mensualmente, por centro, al Servicio los diagnósticos de enfermedades de especies hidrobiológicas.
+Los laboratorios de diagnóstico y de referencia, así como cualquier laboratorio que utilice material de alto riesgo sanitario para las especies hidrobiológicas o material patológico, tengan o no por objetivo emitir diagnósticos oficiales, deberán informar mensualmente, por centro, al Servicio los diagnósticos de enfermedades de especies hidrobiológicas.
 
 #### Artículo 71º
 
