@@ -14,7 +14,7 @@ Resuelvo:
 
 1. Oficialícese el Sistema de Certificación Fitosanitaria para la exportación de productos de origen vegetal, fijándose los requisitos y obligaciones que deben cumplir las Plantas adscritas, Plantas no adscritas, Centros de Transferencia Adscritos, Centros de Transferencia no Adscritos y los puntos de salida, de acuerdo a las actividades que se desarrollan en cada una de ellas.
 
-2. Las plantas y centros de transferencia que participen del Sistema de Certificación deben suscribir un Acuerdo Operacional con el Servicio Agrícola y Ganadero, cumplir con los requisitos establecidos por éste y pagar las tarifas por los servicios prestados. Además, éstos deberán disponer de los equipos, instrumentos e instalaciones necesarias para llevar a cabo eficientemente los procesos de inspección, tratamientos y verificación del envío.
+2. Las Plantas, Centros de Transferencia y Exportadores que participen del Sistema de Certificación deben suscribir un Acuerdo Operacional con el Servicio Agrícola y Ganadero, cumplir con los requisitos establecidos por éste y pagar las tarifas por los servicios prestados. Además, las plantas y centros de trasferencia deberán disponer de los equipos, instrumentos e instalaciones necesarias para llevar a cabo eficientemente los procesos de inspección, tratamientos y verificación del envío.
 
 3. Los requisitos que deben cumplir las Plantas Adscritas y las Plantas No Adscritas, según corresponda, son:
 
@@ -27,6 +27,8 @@ Resuelvo:
 3.4 Disponer de áreas con medidas de resguardo fitosanitario, conectadas a las cámaras de acopio, para el carguío y despacho de productos aprobados, como también con los medios mecánicos para el movimiento de los productos.
 
 3.5 Contar con las condiciones que aseguren la integridad física de los inspectores SAG durante la realización de todas las actividades del Sistema de Certificación, así como el vestuario y los servicios necesarios.
+
+3.6 Presentar al Servicio la información digital necesaria para realizar la verificación de los productos aprobados y despachados.
 
 4. Los requisitos que deberán cumplir los Centros de Transferencia Adscritos y Centros de Transferencia No Adscritos, según corresponda, son:
 
