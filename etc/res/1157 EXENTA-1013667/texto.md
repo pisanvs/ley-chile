@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.157 EXENTA, DE 2010
+
+Por resolución exenta Nº 1.157, de 2010, del Ministerio de Transportes y Telecomunicaciones se resolvió aprobar el addendum a la modificación de Contrato de Concesión de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses, suscrito con techa 31 de marzo de 2010, entre el Ministerio de Transportes y Telecomunicaciones y la sociedad concesionaria de la Unidad de Negocio Alimentadora Nº 1, Redbus Urbano S.A., cuyo texto se transcribe en la Resolución y cuyas cláusulas se titulan: Addendum a Modificación de Contrato que indica. Cláusula 1 Definiciones; Cláusula 2 Antecedentes; Cláusula 3; Cláusula 4 Modificaciones; Cláusula 5 Varios.
+
+Felipe Morandé Lavín, Ministro de Transportes y Telecomunicaciones.
