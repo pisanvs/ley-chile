@@ -1,0 +1,5 @@
+PROHÍBE CIRCULACIÓN DE VEHÍCULOS MOTORIZADOS EN DÍA, HORARIOS Y PERÍMETROS QUE INDICA
+
+Resolución exenta Nº 1.303, de fecha 9 de mayo de 2010, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, que produce efectos desde su fecha de dictación, prohíbe el día domingo 9 de mayo del presente año, adicionalmente a la establecida en la resolución exenta Nº 831/2010, de esta Secretaría Regional, la circulación de vehículos motorizados de cuatro o más ruedas que se señalan en los siguientes cuadros, según tipo o servicio y último dígito de placa patente, en los horarios y perímetros que se indican, encontrándose exceptuados de esta restricción todos los vehículos aludidos en el numeral 4º de la resolución exenta Nº 831/2010, ya citada, salvo aquellos vehículos con sello verde aludidos en la letra b) a que les fuere aplicable la presente medida, según su último dígito de placa patente.
+
+Raimundo Cruzat Correa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
