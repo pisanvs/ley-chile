@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.158 EXENTA, DE 2010
+
+Por resolución exenta Nº 1.158, de 2010, del Ministerio de Transportes y Telecomunicaciones se resolvió aprobar el addendum a la modificación de Contrato de Concesión de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses, suscrito con fecha 31 de marzo de 2010, entre el Ministerio de Transportes y Telecomunicaciones y la sociedad concesionaria de la Unidad de Negocio Alimentadora Nº 7, Comercial Nuevo Milenio S.A., cuyo texto se transcribe en la resolución y cuyas cláusulas se titulan: Addendum a Modificación de Contrato que indica. Cláusula 1 Definiciones; Cláusula 2 Antecedentes; Cláusula 3 Modificación; Cláusula 4 Varios.
+
+Felipe Morandé Lavín, Ministro de Transportes y Telecomunicaciones.
