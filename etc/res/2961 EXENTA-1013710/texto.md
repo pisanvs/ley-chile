@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.961 EXENTA, DE 2009
+
+Por resolución exenta Nº 2.961, de fecha 27 de noviembre de 2009, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueban los Planes y Programas de la Escuela de Conductores Profesionales "Escuela de Conductores Futuro", RUT Nº 9.250.838-2, cuyo propietario es el señor Mauricio Miguel Acuña Brunetti, para impartir los cursos conducentes a la obtención de licencia de conductor profesional Clase A2, A3 y A4.-
+
+Pablo Rodríguez Olivares, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
