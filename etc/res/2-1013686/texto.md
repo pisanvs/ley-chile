@@ -1,0 +1,5 @@
+DESIGNA SECRETARIOS TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE PUNTA ARENAS
+
+Por resolución SII Nº 2, del 19 de enero de 2010, se designó a doña Olga Molina Loyola, RUT Nº 8.947.489-2, como Secretaria Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Punta Arenas, y asimismo como Secretaria Suplente en el Tribunal correspondiente a la Segunda Serie de la misma jurisdicción.
+
+Además, se designó a don Sergio Gutiérrez Ponzot, RUT 15.573.874-K, como Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Punta Arenas, y asimismo como Secretario Suplente en el Tribunal correspondiente a la Primera Serie de la misma jurisdicción.
