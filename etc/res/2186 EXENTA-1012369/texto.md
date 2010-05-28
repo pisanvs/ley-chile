@@ -24,7 +24,7 @@ b) Que es de extrema relevancia y urgente necesidad para este Ministerio impleme
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el desarrollo de proyectos de construcción en las Regiones de Valparaíso, del Libertador Bernardo O’Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el desarrollo de proyectos de construcción en las Regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
 
 2. Los proyectos que se postulen deberán obtener certificado de Calificación Definitiva o Condicional hasta el 15 de diciembre del año 2010. Mediante Resoluciones del Ministro de Vivienda y Urbanismo, se seleccionarán los proyectos que obtengan Certificado de Calificación, según orden de obtención de dicha Calificación, hasta agotar los recursos disponibles para el llamado en cada región, según se establece en el punto 4 de la presente resolución.
 
@@ -48,7 +48,9 @@ sistema computacional que el Ministerio de
 
 Vivienda y Urbanismo ha implementado para estos
 
-efectos y con certificado de inhabitabilidad
+efectos y con documento en que conste la
+
+inhabitabilidad de la vivienda
 
 expedido por la Dirección de Obras respectiva,
 
@@ -76,49 +78,83 @@ cónyuge; ni las personas o sus cónyuges cuyo
 
 certificado de subsidio esté vigente.
 
-c. Para el presente concurso en condiciones
+c. En el presente concurso en condiciones especiales
 
-especiales sólo podrán postular proyectos, las
+sólo podrán postular proyectos las Entidades de
 
-Entidades de Gestión Inmobiliaria Social (EGIS),
+Gestión Inmobiliaria Social (EGIS) y los
 
-con convenio marco regional vigente, que hayan
+Prestadores de Servicios de Asistencia Técnica y
 
-presentado proyectos de construcción y obtenido
+Social (PSAT), con convenio marco regional
 
-certificado de calificación respectiva por parte
+vigente y que, además, hayan presentado proyectos
 
-de la Comisión Técnico Evaluadora del Serviu, en
+de construcción del Capítulo Primero del D.S.
 
-cualquier región del país desde la fecha en que
+N° 174 (V. y U.), de 2005, o del D.S. N° 145
 
-comenzó a regir dicho convenio. También podrán
+(V. y U.), de 2007, según corresponda, y obtenido
 
-participar del presente llamado los Prestadores
+certificado de calificación por parte de la
 
-de Asistencia Técnica y Social (PSAT) que
+Comisión Técnico Evaluadora del SERVIU
 
-hubieran tenido proyectos calificados como
+respectivo, en cualquier región del país, desde
 
-hábiles para el Título III del D.S. N° 255 (V. y
+la fecha en que comenzó a regir dicho convenio.
 
-U.), de 2006.
+También podrán participar en el presente
 
-d. Para los Prestadores de Asistencia Técnica y
+llamado los Prestadores de Servicios de
 
-Social (PSAT) que han calificado proyectos para
+Asistencia Técnica y Social (PSAT),
 
-el Título III del D.S. N° 255 (V. y U.), de 2006
+con convenio marco regional vigente y que,
 
-y municipalidades que participen como Entidad de
+además, hubieren tenido proyectos calificados
 
-Gestión Inmobiliaria Social en el presente
+como hábiles para el Titulo III del D.S. N°
 
-concurso no regirá el requisito señalado en la
+255 (V. y U.), de 2006, en cualquier región del
 
-letra precedente debiendo tener convenio marco
+país, desde la fecha en que comenzó a regir
 
-vigente.
+dicho convenio. Asimismo, podrán participar en
+
+este llamado las Entidades de Gestión
+
+Inmobiliaria Social (EGIS) con convenio marco
+
+regional vigente en la región en que
+
+desarrollarán proyectos, aun cuando desde su
+
+vigencia no hayan presentado proyectos de
+
+construcción del Capítulo Primero del D.S. N°
+
+174 (V. y U.), de 2005, ni del D.S. N° 145
+
+(V. y U.), de 2007, siempre que hubieren
+
+tenido proyectos seleccionados con obras
+
+terminadas y recepcionadas a partir del año
+
+2005 para 300 o más familias, al amparo del
+
+convenio marco nacional suscrito con el MINVU.
+
+d. A las municipalidades que participen como Entidad
+
+de Gestión Inmobiliaria Social en el presente
+
+concurso no les será exigible haber presentado
+
+proyectos de construcción, bastando que tengan
+
+convenio marco regional vigente.
 
 e. En proyectos de tipología Construcción en Sitio
 
@@ -162,7 +198,7 @@ especial se eximirán del cumplimiento del
 
 requisito de acreditar ahorro, señalado en el
 
-## Título IV — del presente reglamento.
+## Título IV — del D.S. N° 174 (V. y U.), de 2005.
 
 i. Los postulantes participantes de este llamado
 
@@ -270,57 +306,163 @@ antecedentes.
 
 o. Los montos de subsidio a que podrá optar cada
 
-postulante serán los señalados en el artículo 3°
+postulante serán los señalados en el articulo 3°
 
-del D.S. N°174 (V. y U.), de 2005, para
+del D.S. N° 174 (V. y U.), de 2005, para
 
-proyectos de construcción, aumentados en 10
+proyectos de construcción. Sin embargo, en las
 
-Unidades de Fomento para las familias que tengan
+comunas en que el monto de subsidio es de 330
 
-la calidad de damnificado, pudiendo en todos los
+Unidades de Fomento, les corresponderán 370
 
-casos optarse además a los montos adicionales de
+Unidades de Fomento, y tratándose de familias
 
-subsidios complementarios que establece ese
+que tengan la calidad de damnificados, estos
 
-reglamento, según corresponda.
+subsidios se incrementarán con 10 Unidades de
+
+Fomento. En todos los casos, se podrá optar
+
+además a los montos adicionales de subsidios
+
+complementarios que establece ese reglamento,
+
+según corresponda.
 
 p. Para acceder al Subsidio Diferenciado a la
 
-Localización para adquisición del terreno, los
+Localización, los proyectos de Construcción en
 
-proyectos de la tipología Construcción en Nuevos
+Nuevos Terrenos que participen del presente
 
-Terrenos que participen del presente llamado
+llamado deberán sólo cumplir el máximo puntaje
 
-deberán haber obtenido los máximos de puntaje
-
-contemplados en el "N°1. Localización" de la
+contemplado en el "N°1. Localización" de la
 
 Pauta "Localización y Espacio Público",
 
-contenida en el Artículo 35, solamente en las
+contenida en el Artículo 35, referido a
 
-categorías de "Ubicación Según Instrumento de
+"Ubicación Según Instrumento de
 
-Planificación Territorial" y "Tipo de
+Planificación Territorial", no siendo
 
-Conectividad a Red Vial Rural o Urbana", no
+necesario obtener puntaje máximo en la
 
-siendo necesario obtener puntaje máximo en la
+categoría de "Factibilidades Sanitarias",
 
-categoría de "Acceso a Servicios y Transporte
+"Tipo de Conectividad a Red Vial Rural o
 
-Público". Para el presente llamado, se otorgará
+Urbana" y "Acceso a Servicios y Transporte
 
-puntaje máximo en la categoría de "Ubicación
+Público". En casos excepcionales el SEREMI podrá,
 
-Según Instrumento de Planificación Territorial"
+mediante resolución fundada, eximir del
 
-a los proyectos emplazados en áreas urbanas o
+cumplimiento del puntaje máximo en
 
-áreas de extensión urbana.
+"Ubicación Según Instrumento de Planificación
+
+Territorial" y de la obligación de que el
+
+proyecto se encuentre inserto en una ciudad de
+
+5.000 o más habitantes, de acuerdo al
+
+último censo de población de que se disponga,
+
+exigido en el artículo 65 del D.S. N° 174
+
+(V. y U.), de 2005.
+
+Los proyectos de Construcción en Sitio Propio
+
+y Densificación Predial que participen en el
+
+presente llamado, podrán optar al Subsidio
+
+Diferenciado a la Localización para la
+
+habilitación del terreno sin que les sea
+
+exigible el cumplimiento de los requisitos
+
+establecidos en los artículos 65 y 68 bis del
+
+D.S. N° 174 (V. y U.), de 2005, sólo para
+
+financiamiento de las obras que se señalan a
+
+continuación, y por los montos máximos que se
+
+establecen para cada ítem:
+
+Área Urbana
+
+Ítem Monto Máximo
+
+a postular (UF)
+
+Demolición y remoción de escombros. 25
+
+Conexiones a servicios básicos de agua
+
+potable, alcantarillado y electricidad. 20
+
+Habilitación de terreno de acuerdo al tipo
+
+de obras señaladas en el artículo 68 bis del
+
+D.S. N° 174 (V. y U.), de 2005. 30
+
+Área Rural o área urbana con menos de 2000
+
+habitantes
+
+Ítem Monto Máximo
+
+a postular (UF)
+
+Demolición y remoción de escombros. 25
+
+Saneamiento sanitario, de acuerdo a lo
+
+señalado en el Titulo II del Capitulo tercero
+
+del D.S. N° 174 (V. y U.), de 2005. 40
+
+Habilitación de terreno de acuerdo al tipo
+
+de obras señaladas en el artículo 68 bis del
+
+D.S. N° 174 (V. y U.), de 2005. 30
+
+En el caso que se obtengan los recursos para
+
+habilitación en el área rural o en áreas urbanas
+
+de localidades de hasta 2.000 habitantes, según
+
+el último censo de población de que se disponga
+
+con anterioridad a la fecha de este llamado, no
+
+se podrá disponer de las 70 Unidades de Fomento
+
+para saneamiento sanitario, según lo establecido
+
+en el Título II del Capítulo Tercero del D.S.
+
+N°174 (V. y U.), de 2005, y tratándose de
+
+construcciones colectivas, no se otorgará el
+
+subsidio adicional de 20 Unidades de Fomento a
+
+que se refiere la oración final del inciso cuarto
+
+del artículo 3° del citado reglamento.
 
 q. Los proyectos de viviendas que se emplacen en
 
@@ -396,21 +538,47 @@ Vivienda y Urbanismo que se dispondrá al
 
 respecto.
 
+t. Los proyectos habitacionales que participen en el
+
+presente llamado podrán, si lo requieren y previa
+
+autorización de las familias, conformar sólo 4
+
+recintos: baño, cocina, estar-comedor y
+
+dormitorio principal. Este último recinto deberá
+
+contener una cama de dos plazas, cumpliendo las
+
+dimensiones establecidas para el dormitorio 1
+
+del Cuadro Normativo del Artículo 19 del D.S. N°
+
+174 (V. y U.), de 2005. Los restantes recintos
+
+podrán no cumplir las dimensiones establecidas
+
+en dicho cuadro normativo, siempre que la
+
+superficie útil total de los recintos interiores
+
+de la vivienda alcance al menos 50 m2.
+
 4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
 Región Recursos (UF)
 
-Valparaíso 1.007.546
+Valparaíso 575.740
 
-L. B. O’Higgins 2.713.674
+L. B. OHiggins 1.550.671
 
-Maule 5.056.467
+Maule 2.889.410
 
-Bío Bío 4.894.590
+Bío Bío 2.796.908
 
-Araucanía 294.975
+Araucanía 168.557
 
-Metropolitana 1.548.674
+Metropolitana 884.956
 
 El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
 
