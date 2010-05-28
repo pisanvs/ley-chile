@@ -1250,7 +1250,7 @@ A lo menos un 60% de los integrantes del grupo postulante deberá provenir de la
 
 #### Artículo 68
 
-El monto de este subsidio para la adquisición del terreno corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" por el monto del avalúo fiscal del terreno, resultado que, dividido por el numero de postulantes, no podrá exceder el máximo de subsidio a la localización por beneficiario definido en el Artículo 65 de este Título. El total del subsidio a la localización que obtendrá el grupo no podrá ser superior al precio de venta del terreno. El subsidio a la localización podrá complementarse con el porcentaje del subsidio destinado al pago de terreno, de acuerdo a la letra a) del articulo 17 de este reglamento y/o con aportes de terceros.
+El monto de este subsidio para la adquisición del terreno corresponderá al valor que resulte de multiplicar el "factor corrector de avalúo" por el monto del avalúo fiscal del terreno, resultado que, dividido por el numero de postulantes, no podrá exceder el máximo de subsidio a la localización por beneficiario definido en el Artículo 65 de este Título. El total del subsidio a la localización por adquisición que obtendrá el grupo no podrá ser superior al precio de venta del terreno. El subsidio a la localización podrá complementarse con el porcentaje del subsidio destinado al pago de terreno, de acuerdo a la letra a) del articulo 17 de este reglamento y/o con aportes de terceros.
 
 Si el terreno a adquirir, no obstante estar emplazado en el área urbana, estuviere calificado como agrícola conforme a la Ley N°17.235, sobre Impuesto Territorial, para la aplicación de la fórmula definida en el inciso anterior, se tomará como referencia el avalúo fiscal de las propiedades colindantes.
 
