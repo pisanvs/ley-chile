@@ -44,21 +44,23 @@ Las normas de excepción que se autoriza dictar por la presente ley, sólo podr�
 
 a) Designación de autoridades y determinación de sus atribuciones o facultades.
 
-b) Autorizar la contratación, mediante licitación privada o trato directo, a los órganos y servicios indicados en el artículo 1 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1-19.653, de 2000, del Ministerio Secretaría General de la Presidencia. Asimismo, podrá ratificar aquellas medidas adoptadas, en los momentos posteriores a la ocurrencia de la emergencia que hubieren requerido de esta norma de excepción.
+b) Exención del trámite de propuesta o subasta pública o privada a las reparticiones fiscales, semifiscales, de administración autónoma, a las empresas en que el Estado haya aportado capitales o tenga representación y a las Municipalidades. Se podrá asimismo ratificar medidas tomadas por los organismos señalados en los momentos mismos del sismo o catástrofe y que hubieren requerido de norma de excepción.
 
-c) Derogado.
+c) Reglamentación de las condiciones por las cuales las instituciones semifiscales, de administración autónoma, las empresas en que el Estado haya aportado capitales o tenga representación y las Municipalidades procedan a vender, entregar, dar en uso, arrendamiento o concesión, o en cualquier forma o condición jurídica, casas, sitios, locales o parcelas con prescindencia de las exigencias legales o reglamentarias vigentes a la fecha.
 
-d) Autorizar a los organismos correspondientes para que puedan condonar parcial o totalmente los impuestos de cualquiera clase que graven la propiedad, las personas o sus rentas, actos o contratos, como asimismo condonar los intereses penales, multas y sanciones, entendiéndose también para fijar nueva fecha de pago o prórrogas. La autorización estará siempre limitada al hecho de que los impuestos a la propiedad, a las personas o a sus rentas, actos o contratos sean devengados en la zona afectada.
+d) Autorizaciones a los organismos correspondientes para que puedan condonar parcial o totalmente los impuestos de cualquiera clase que graven la propiedad, las personas o sus rentas, actos o contratos, como asimismo condonar los intereses penales, multas y sanciones, entendiéndose también para fijar nueva fecha de pago o prórrogas. La autorización estará siempre limitada al hecho de que los impuestos a la propiedad, a las personas o a sus rentas, actos o contratos sean devengados en la zona afectada.
 
-e) Derogado.
+e) Autorización de la retasación de la propiedad raíz determinando el procedimiento.
 
-f) Autorizar la rebaja de las presunciones de renta de la propiedad raíz contenidas en la Ley de Impuesto a la Renta, respecto de los inmuebles agrícolas o no agrícolas situados en todas o algunas de las zonas afectadas comprendidas dentro del área del sismo o catástrofe. Esta rebaja afectará únicamente al monto de las rentas que deban declararse por el año calendario en que ocurrió el sismo o catástrofe.
+f) Autorización para rebajar las presunciones de renta de la propiedad raíz contenidas en la Ley de Impuesto a la Renta, respecto de los inmuebles agrícolas o no agrícolas situados en todas o algunas de las zonas afectadas comprendidas dentro del área del sismo o catástrofe. Esta rebaja afectará únicamente al monto de las rentas que deban declararse por el año calendario en que ocurrió el sismo o catástrofe.
 
-g) Derogado.
+g) Disponer las comisiones de servicio al extranjero de empleados públicos, de instituciones autónomas o semifiscales, de las Fuerzas Armadas o del Cuerpo de Carabineros; a quienes se les proporcionará, a la brevedad, los medios necesarios para llevar a cabo su cometido.
 
-h) Derogado.
+h) Liberar a estas personas y a los cuerpos civiles cuando fuere procedente, de las exigencias establecidas para salir del país.
 
-i) Derogado.
+En todo caso, será obligatorio disponer del certificado de vacuna internacional.
+
+i) Facultar a los servicios públicos, para que puedan, por decreto supremo, hacer donaciones a los países afectados por un sismo o catástrofe.
 
 > **Nota.** El artículo 39 de la LEY 19886, publicada el 30.07.2003, dispone que la modificación que introduce al presente artículo rige 30 días después de la fecha de su publicación.
 
@@ -81,6 +83,8 @@ No obstante, si alguno de estos delitos tuviere asignada una pena mayor en las l
 Los Tribunales apreciarán la prueba producida y expedirán su fallo en conciencia.
 
 Las penas establecidas en este artículo serán aplicadas sin perjuicio de las sanciones y medidas administrativas que establezca la legislación vigente.
+
+La Dirección de Industria y Comercio, por intermedio de su Director, o del funcionario que éste designe en cada provincia, podrá hacerse parte en los procesos a que dieren lugar los delitos que se contemplan en este artículo.
 
 En los delitos contra las personas o la propiedad será considerado agravante el hecho de haber sido cometido el delito en la zona afectada.
 
@@ -108,7 +112,7 @@ Asimismo, las importaciones o exportaciones de las especies donadas con los fine
 
 #### Artículo 8º
 
-Los Tribunales podrán suspender las subastas públicas y las audiencias, y podrán prorrogar o suspender plazos en la zona afectada, que se encuentren decretadas o que se decreten en el futuro. El plazo de suspensión podrá ser prorrogado cuantas veces sea necesario, y no podrá exceder el período total de suspensión la vigencia del decreto que declara la situación de emergencia.
+Los Tribunales podrán suspender las subastas públicas en la zona afectada, que se encuentren decretadas o que se decreten en el futuro, no pudiendo fijarse un plazo de suspensión superior a un año.
 
 #### Artículo 9º
 
@@ -118,7 +122,7 @@ El Fisco, con cargo a los fondos que para casos de calamidades públicas otorga 
 
 #### Artículo 10º
 
-Autorízase al Presidente de la República para que pueda transferir del Presupuesto de la Nación las sumas necesarias para financiar aquellos gastos ocasionados con motivo del sismo o catástrofe que imposibiliten el correcto funcionamiento de las instituciones que aportaron a la misma con recursos propios. La Contraloría General de la República tramitará con carácter de urgente los decretos de traspasos que dicte en virtud de este artículo.
+Autorízase al Presidente de la República para que pueda transferir de un ítem a otro del Presupuesto de la Nación las sumas necesarias para llevar a cabo las tareas de reconstrucción y auxilio de los damnificados. La Contraloría General de la República tramitará con carácter de urgente los decretos de traspasos que dicte en virtud de este artículo.
 
 #### Artículo 11º
 
@@ -144,7 +148,7 @@ Las instituciones a que se refiere el artículo 11º podrán otorgar facilidades
 
 #### Artículo 16º
 
-Los organismos o instituciones públicas de podrán concurrir en favor de los damnificados, sin sujeción a las normas legales con cargo a sus fondos propios o a los que les sean asignados para tales fines que los rijan. El Presidente de la República mediante decreto supremo fijará el destino o uso de los recursos a otorgar, su monto, plazo, condiciones de amortización, intereses, garantías y forma y condiciones de constituirse.
+Los organismos o instituciones públicas de fomento industrial, agrícola o minero podrán concurrir en favor de los damnificados mediante préstamos o asistencia técnica, sin sujeción a las normas legales que los rijan. El Presidente de la República mediante decreto supremo fijará su monto, plazo, condiciones de amortización, intereses, garantías y forma y condiciones de constituirse.
 
 #### Artículo 17º
 
@@ -168,23 +172,39 @@ El Presidente de la República, dentro de los treinta días siguientes al térmi
 
 #### Artículo 20º
 
-Derogado.
+Los Ministros del Interior y de Defensa Nacional elaborarán un plan tendiente a obtener que las Fuerzas Armadas y el Cuerpo de Carabineros desarrollen un programa que abarque los siguientes puntos:
+
+1.- Preparar un plan orgánico para las emergencias que se produzcan a consecuencia de sismos o catástrofes;
+
+2.- Programar la coordinación de los recursos humanos y materiales de los servicios públicos y de las instituciones asistenciales públicas y privadas, para los casos a que se refiere esta ley, y
+
+3.- Informar a las autoridades competentes de los problemas críticos que deben ser objeto de medidas preventivas.
 
 #### Artículo 21º
 
-Derogado.
+El Ministerio del Interior tendrá a su cargo la planificación y coordinación de las actividades que establece esta ley y la atención de sismos y catástrofes.
+
+En las provincias las labores de ayuda, ante sismos o catástrofes que ocurran en territorio extranjero y cuando Chile concurra en auxilio de ese país, serán organizadas por los Intendentes, a través de comités de emergencias, de acuerdo a las instrucciones que imparta el Ministerio del Interior.
+
+En caso de sismos o catástrofes en país extranjero, se comisionará a un funcionario civil o de las Fuerzas Armadas, quien tendrá a su cargo los recursos humanos y materiales que se envíen como ayuda chilena, y se pondrá en contacto con el Gobierno correspondiente, por intermedio del Embajador respectivo. Además, podrá delegar - en el exterior- por sí solo sus funciones cuando lo estime necesario.
 
 #### Artículo 22º
 
-Derogado.
+En cada comuna se constituirá un Comité Comunal de Emergencia, que estará integrado por el Alcalde, el Jefe de la Unidad de Carabineros y el Jefe de la Unidad del Servicio Nacional de Salud de la localidad, sendos representantes de la Cruz Roja y Cuerpo de Bomberos de la comuna y un representante de la Dirección de Asistencia Social, si existiere esta oficina en la comuna. En aquellas comunas en que tengan su asiento el Intendente o el Gobernador, éstos integrarán el referido Comité Comunal. También lo integrará el Oficial de más alta graduación de las Fuerzas Armadas que operare en la comuna.
+
+Formará parte del Comité referido en el inciso anterior, en calidad de asesor, un representante de cada uno de los siguientes organismos: Unión Comunal de Juntas de Vecinos, Consejos Comunales Campesinos, Unión Comunal de Centros de Madres, Unión Comunal de Centros de Padres y Apoderados, Unión Comunal de Organizaciones Juveniles, Unión Comunal de Organizaciones Deportivas Unión Comunal de Cooperativas, Defensa Civil, Registro Nacional de Comerciantes.
+
+En las comunas en que no se hubieren constituido Uniones Comunales, los representantes serán designados por las organizaciones que deberán integrarlas.
+
+Las normas de funcionamiento, quórum de reuniones, acuerdos y demás necesarias para las labores del Comité, serán determinadas en el reglamento.
 
 #### Artículo 23º
 
 DEROGADO
 
-#### Artículo 24
+#### Artículo 24º
 
-Eliminado.
+Dentro del plazo de ciento ochenta días, a contar desde la publicación del decreto a que se refiere el artículo 1º de esta ley, la Oficina de Planificación Nacional y los Organismos que integren el Sistema Nacional de Planificación creado por decreto supremo 180, de 2 de Febrero de 1971, del Ministerio del Interior, deberán presentar al Presidente de la República los planes regionales de reconstrucción y desarrollo por cada una de las regiones a que se refiere dicho decreto, planes que podrán comprender zonas adyacentes que integren unidades económicas geográficas completas.
 
 #### Artículo 25º
 
@@ -202,25 +222,17 @@ La reparación de viviendas en las zonas referidas tampoco requerirá de la inte
 
 Dentro del plazo de treinta días desde la publicación del decreto supremo a que se refiere el artículo 1º de esta ley y para cada una de las zonas afectadas a que el mismo decreto se refiera, el Ministerio de la Vivienda y Urbanismo establecerá las exigencias extraordinarias a que deberán ajustarse la construcción, reconstrucción y reparación de edificios, o demolición de ellos.
 
-Respecto de aquellas comunas en que existan áreas damnificadas que deban ser motivo de estudios más detenidos, en razón de fallas geológicas, estudios de suelos, programas de remodelación u otra causa que justifique el empleo de técnicas especiales en prevención de futuras catástrofes o en resguardo del interés general, el Ministerio de Vivienda y Urbanismo podrá disponer la ampliación del plazo establecido en el inciso anterior hasta un máximo de noventa días, prorrogables hasta por ciento ochenta días.
+Respecto de aquellas comunas en que existan áreas damnificadas que deban ser motivo de estudios más detenidos, en razón de fallas geológicas, estudios de suelos, programas de remodelación u otra causa que justifique el empleo de técnicas especiales en prevención de futuras catástrofes o en resguardo del interés general, la Dirección de Planificación del Desarrollo Urbano podrá disponer la ampliación del plazo establecido en el inciso anterior hasta un máximo de noventa días.
 
 #### Artículo 27º
 
-A solicitud de una Municipalidad afectada por sismo o catástrofe, el Presidente de la República, mediante decreto supremo del Ministerio de Vivienda y Urbanismo, podrá aprobar planes reguladores, planes seccionales o modificaciones de los mismos, necesarios para resolver las dificultades originadas por sismo o catástrofe, o para implementar el plan de reconstrucción regional o municipal debiendo dictarse el decreto supremo correspondiente. Para tal efecto no se requerirán aprobaciones o pronunciamientos de otros organismos del Estado.
+El Ministerio de la Vivienda y Urbanismo deberá, dentro del plazo de noventa días siguientes a la recepción del acuerdo respectivo, pronunciarse acerca de las modificaciones que aprueben las Municipalidades afectadas por un sismo o catástrofe a sus respectivos planos reguladores, debiendo dictarse de inmediato el decreto supremo correspondiente, si éstas fueren aprobadas.
 
-El procedimiento de aprobación y los contenidos de dichos planes reguladores o modificaciones serán reglamentados por la Ordenanza General de Urbanismo y Construcciones, considerando en forma previa a la aprobación del proyecto de plan o modificación por parte del Concejo Municipal una exposición al público por al menos 30 días, durante los cuales se podrán recibir las observaciones y comentarios que sobre el proyecto emita cualquier interesado.
+La modificación de los plazos reguladores que acuerde la Municipalidad deberá contar con la aprobación del especialista antisísmico que la asesore o que fuere designado para este efecto por el Colegio de Ingenieros de Chile para prestarle atención gratuita.
 
-Asimismo, deberán contar con los siguientes antecedentes mínimos: Memoria Explicativa, que incluirá un estudio de riesgos elaborado por profesional especialista; Ordenanza, que contendrá las disposiciones reglamentarias necesarias, sobre materias relacionadas, directa o indirectamente, con la catástrofe o los planes de reconstrucción; y Planos, que expresen gráficamente las disposiciones de la Ordenanza.
+Cuando dichas comunas carezcan de planos reguladores definitivos, podrá el Presidente de la República, dentro de los dos años siguientes al sismo o catástrofe, aprobar proyectos parciales o anteproyectos de planos reguladores elaborados por la Municipalidad respectiva o por la Dirección de Planificación del Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo. Para todos los efectos legales estos proyectos parciales o anteproyectos serán considerados como planos reguladores y, para su aprobación, se estará a lo dispuesto en los incisos anteriores. Estos planos se harán sin costo alguno para la respectiva Municipalidad.
 
-No se requerirán antecedentes adicionales o requisitos no contemplados en la Ordenanza General de Urbanismo y Construcciones, la que asimismo fijará el plazo máximo para ingresar al Ministerio de Vivienda y Urbanismo las respectivas solicitudes de aprobación de los planes o modificaciones, el cual no podrá ser superior a 2 años, contado desde la declaración de zona de catástrofe, aun cuando no se encontraren vigentes los respectivos decretos. Dicho plazo se podrá prorrogar, mediante decreto supremo, hasta por igual período, por una sola vez.
-
-En caso de municipalidades que carezcan de los recursos necesarios para elaborar los citados planes o modificaciones a solicitud de la Municipalidad respectiva, éstos podrán ser elaborados por el Ministerio de Vivienda y Urbanismo, sin costo alguno para la respectiva municipalidad.
-
-El presente artículo también será aplicable a las modificaciones que sea necesario introducir en un Plan Regulador Intercomunal o Metropolitano de una región con comunas afectadas por sismo o catástrofe.
-
-#### Artículo 27º bis
-
-Las Municipalidades de las zonas afectadas por sismo o catástrofe podrán permutar los terrenos que sean necesarios para ejecutar el plan de reconstrucción.
+Las Municipalidades de las zonas afectadas por el sismo o catástrofe podrán permutar los terrenos e inmuebles que sean necesarios para ejecutar el plan de remodelación.
 
 #### Artículo 28º
 
@@ -252,7 +264,15 @@ Autorízase a las sociedades acogidas a los beneficios de la ley 9.135, y decret
 
 #### Artículo 32º
 
-Derogado.
+La Caja Central de Ahorros y Préstamos podrá autorizar a las Asociaciones de Ahorro y Préstamos, para otorgar créditos de reparación, reconstrucción y reposición de cualquier tipo de viviendas en las zonas a que se refiere el artículo 1º de esta ley en la forma y condiciones que estime procedentes y sin que rija para dicho efecto ninguna de las limitaciones de su ley orgánica.
+
+La Caja Central podrá autorizar a las Asociaciones de Ahorro y Préstamos para otorgar mutuos para la reparación, reconstrucción y reposición de locales comerciales que sean anexos a las viviendas a que se refiere el inciso primero y reglamentará el porcentaje de superficie de cada vivienda que pueden ocupar dichos locales.
+
+Asimismo, previa autorización del Presidente de la República y en los términos y condiciones que él fije, la Caja Central podrá autorizar la adquisición de oficinas para profesionales a través del sistema de ahorro y préstamos.
+
+El monto total de lo que pueda prestarse en conformidad a este artículo será determinado por el Presidente de la República, de acuerdo con la magnitud de los daños causados por la catástrofe de que se trate y con sus disponibilidades financieras incluidas en ellas los aportes extraordinarios.
+
+Esta autorización concedida a la Caja Central de Ahorros y Préstamos no regirá para las zonas en que exista prohibición para edificar viviendas acogidas al decreto con fuerza de ley 2 de 1959, a menos que se trate de construir casas o departamentos destinados a servir de residencias a las personas que habitan permanentemente en dichas zonas.
 
 #### Artículo 33º
 
@@ -294,7 +314,7 @@ El subsidio de cesantía que corresponda a los trabajadores del sector público 
 
 #### Artículo 38º
 
-La Dirección General del Crédito Prendario y de Martillo, por intermedio de sus sucursales ubicadas en la zona en que se aplique el artículo 1º de esta ley, podrá devolver a las personas domiciliadas en dicha zona, las especies pignoradas antes del sismo o catástrofe que dé lugar a la aplicación de dicho artículo, en el monto y condiciones que fije el reglamento, sin exigir el pago de la acreencia.
+La Dirección General del Crédito Prendario y de Martillo, por intermedio de sus sucursales ubicadas en la zona en que se aplique el artículo 1º de esta ley, podrá devolver a las personas domiciliadas en dicha zona, las herramientas, ropas de cama y prendas de vestir pignoradas antes del sismo o catástrofe que dé lugar a la aplicación de dicho artículo, en el monto y condiciones que fije el reglamento.
 
 El Presidente de la República podrá, con cargo a los fondos que se destinen a paliar los efectos del sismo o catástrofe, a disposición de la institución mencionada, las sumas necesarias para tal fin.
 
@@ -319,6 +339,8 @@ El Presidente de la República podrá autorizar a la Empresa de Comercio Agríco
 La Dirección General de Aguas, a solicitud de las Juntas de Vigilancia, Asociaciones de Canalistas y Comunidades de Agua, podrá tomar a su cargo el financiamiento de los gastos derivados del cumplimiento de las funciones propias de estas entidades, en las zonas afectadas a que se refiere el artículo 1º de esta ley. Los gastos que realice la Dirección General de Aguas, de acuerdo con el inciso precedente, serán de cargo de los beneficiados y reembolsados en la forma y condiciones que esta Dirección determine.
 
 En casos calificados el Estado podrá absorber la totalidad o parte de dichos gastos, con cargo a los recursos propios de la Dirección General de Aguas o a aquellos que se concedan con ocasión del sismo o catástrofe.
+
+La Corporación de Fomento de la Producción deberá condonar totalmente el préstamo concedido a la Asociación Canal Chincolco, para la construcción del embalse de Chincolco, en el departamento de Petorca, de la provincia de Aconcagua.
 
 #### Artículo 43º
 
