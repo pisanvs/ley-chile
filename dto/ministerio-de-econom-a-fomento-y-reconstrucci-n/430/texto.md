@@ -20,13 +20,13 @@ DISPOSICIONES GENERALES
 
 #### Artículo 1°
 
-A las disposiciones de esta ley quedará sometida la preservación de los recursos hidrobiológicos, y toda actividad pesquera extractiva, de acuicultura y de investigación se realice en aguas terrestres, aguas interiores, mar territorial o zona económica exclusiva de la República y en las áreas adyacentes a esta última sobre las que exista o pueda llegar a existir jurisdicción nacional de acuerdo con las leyes y tratados internacionales.
+A las disposiciones de esta ley quedará sometida la preservación de los recursos hidrobiológicos, y toda actividad pesquera extractiva, de acuicultura y de investigación se realice en aguas terrestres, playa de mar, aguas interiores, mar territorial o zona económica exclusiva de la República y en las áreas adyacentes a esta última sobre las que exista o pueda llegar a existir jurisdicción nacional de acuerdo con las leyes y tratados internacionales.
 
 Quedarán también sometidas a ella las actividades pesqueras de procesamiento y transformación, y el almacenamiento, transporte o comercialización de recursos hidrobiológicos.
 
 Lo dispuesto en los dos incisos anteriores se entenderá sin perjuicio de las disposiciones legales vigentes o de los convenios internacionales suscritos por la República, respecto de las materias o especies hidrobiológicas a que ellos se refieren.
 
-> **Nota.** NOTA: 1 Ver el D.S. N° 399, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el "Diario Oficial" de 15 de Noviembre de 1994, que Aprueba el Reglamento del Registro Nacional de Acuicultura.
+> **Nota.** NOTA: 1 El Decreto 399, Economía, publicado el 15.11.1994, Aprueba el Reglamento del Registro Nacional de Acuicultura.
 
 #### Artículo 2°
 
@@ -63,6 +63,8 @@ En adelante, en esta ley se denominan dichas naves "naves o embarcaciones pesque
 11) Barcos fábrica o factoría: es la nave que realiza faenas de pesca y efectúa a bordo procesos de transformación a las capturas, incluyendo en ellos la congelación de las mismas. No se considerarán procesos de tranformación la mera evisceración, como el uso de técnicas de preservación parta la mantención de las capturas en fresco, entendiendo por tales el uso de hielo o de productos químicos y la sola refrigeración.
 
 Entre los diversos tipos de barcos fábrica o factoría existentes, clasificados de acuerdo a su sistema o aparejo de pesca, se entenderá por barco fábrica o factoría arrastrero: aquel que en sus operaciones de pesca extractiva utiliza como arte de pesca la red de arrastre; por barco fábrica o factoría espinelero o palangrero: aquel que en sus operaciones de pesca extractiva utiliza como aparejo de pesca el espinel o palangre; y por barco fábrica o factoría cerquero: aquel que utiliza en sus operaciones de pesca extractiva la red de cerco.
+
+11 bis) Captación de semillas: fijación de larvas de invertebrados y propágulos de algas, mediante la disposición de colectores.
 
 12) Concesión de acuicultura: es el acto administrativo mediante el cual el Ministerio de Defensa Nacional otorga a una persona los derechos de uso y goce, por el plazo de 25 años renovables sobre determinados bienes nacionales, para que ésta realice en ellos actividades de acuicultura.
 
@@ -103,6 +105,8 @@ Si se constata por tres veces, en el plazo dos años, que una embarcación artes
 24) Mar presencial: es aquella parte de la alta mar, existente para la comunidad internacional, entre el límite de nuestra zona económica exclusiva continental y el meridiano que, pasando por el borde occidental de la plataforma continental de la Isla de Pascua, se prolonga desde el paralelo del hito N° 1 de la línea fronteriza internacional que separa Chile y Perú, hasta el Polo Sur.
 
 25) "Ministerio": el Ministerio de Economía, Fomento y Reconstrucción, "Ministro": el titular de dicho Ministerio; "Subsecretaría": la de Pesca; "Subsecretario": el de Pesca; "Servicio": el Servicio Nacional de Pesca.
+
+25 bis) Organización de pescadores artesanales: persona jurídica, en los términos establecidos en el inciso segundo del número 28, inscrita en el Registro Artesanal, para los efectos establecidos en la presente ley.
 
 26) Pequeño armador pesquero industrial: persona inscrita en el Registro Nacional Pesquero Industrial, que ejecuta una actividad pesquera extractiva utilizando hasta tres naves, de hasta 22,5 metros de eslora máxima y de hasta 100 toneladas de registro grueso cada una.
 
@@ -158,11 +162,11 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 38) Registro nacional de acuicultura: nómina nacional de titulares de concesiones y autorizaciones de acuicultura habilitados para efectuar actividades de cultivo, que llevará el Servicio para los efectos de esta ley.
 
-39) Registro nacional de pescadores artesanales o registro artesanal: nómina de pescadores y embarcaciones habilitadas para realizar actividades de pesca artesanal que llevará el Servicio por Regiones, Provincias, Comunas y localidades, y por categoría de pescadores y pesquerías, para los efectos de esta ley.
+39) Registro Nacional Pesquero Artesanal o Registro Artesanal: nómina de pescadores y embarcaciones artesanales habilitados para realizar actividades de pesca artesanal, que llevará el Servicio por regiones, caletas base, categorías y pesquerías. También se inscribirán en este registro las organizaciones de pescadores artesanales.
 
 40) Registro nacional pesquero industrial: nómina de las personas que realizan pesca industrial que llevará el Servicio Nacional de Pesca, para los efectos de esta ley.
 
-41) Repoblación: es la acción que tiene por objeto incrementar el el tamaño o la distribución geográfica de la población de una especie hidrobiológica, por medios artificiales.
+41) Repoblamiento: conjunto de acciones que tienen por objeto incrementar o recuperar la población de una determinada especie hidrobiológica, por medios artificiales o naturales, dentro de su rango de distribución geográfica.
 
 42) Reserva marina: área de resguardo de los recursos hidrobiológicos con el objeto de proteger zonas de reproducción, caladeros de pesca y áreas de repoblamiento por manejo. Estas áreas quedarán bajo la tuición del Servicio y sólo podrá efectuarse en ellas actividades extractivas por períodos transitorios previa resolución fundada de la Subsecretaría.
 
@@ -640,15 +644,15 @@ REGIMEN DE ACCESO Y ATRIBUCIONES PARA LA CONSERVACION DE RECURSOS HIDROBIOLOGICO
 
 Resérvase a la pesca artesanal el ejercicio de las actividades pesqueras extractivas en una franja del mar territorial de cinco millas marinas medidas desde las líneas de base normales, a partir del límite norte de la República y hasta el paralelo 41°28,6' de latitud sur, y alrededor de las islas oceánicas.
 
-Resérvanse también a la pesca artesanal, las aguas interiores del país.
+Asimismo, resérvase a la pesca artesanal el ejercicio de las actividades pesqueras extractivas en la playa de mar y en las aguas interiores del país.
 
 No obstante, cuando en una o más zonas específicas dentro de estas áreas no se realice pesca artesanal o si la hubiere, sea posible el desarrollo de actividades extractivas por naves industriales que no interfieran con la actividad artesanal, podrá autorizarse en forma transitoria en dichas zonas el ejercicio de la pesca industrial, con las restricciones que se establecen en este párrafo y en los artículos 3° y 4° de esta ley, mediante resolución de la Subsecretaría, previo informe técnico debidamente fundamentado del Consejo Zonal de Pesca que corresponda. No se autorizará desarrollar pesca industrial en la franja de una milla del mar territorial, medida desde las líneas de base normales o desde la línea de más baja marea en las aguas interiores, según corresponda.
 
-El régimen de acceso a los recursos hidrobiológicos de la actividad pesquera industrial, que pueda excepcionaimente realizarse dentro del área de reserva señalada en el inciso anterior, deberá ser igual al régimen que se aplique para la pesca industrial de la misma especie, sobre la zona colindante con el área de reserva. Si el estado de las pesquerías fuera de plena explotación o se encuentren sometidas al régimen de pesquerías en recuperación o de desarrollo incipiente, accederán a ella únicamente quienes tengan los permisos correspondientes, los que se entenderán extendidos automáticamente a esta área por la misma resolución que permite la operación de las embarcaciones pesqueras industriales en ellas, sin necesidad de variar la definición geográfica. En todo caso, en estas áreas podrá siempre efectuarse actividades de pesca artesanal.
+El régimen de acceso a los recursos hidrobiológicos de la actividad pesquera industrial, que pueda excepcionalmente realizarse dentro del área de reserva señalada en el inciso anterior, deberá ser igual al régimen que se aplique para la pesca industrial de la misma especie, sobre la zona colindante con el área de reserva. Si el estado de las pesquerías fuera de plena explotación o se encuentren sometidas al régimen de pesquerías en recuperación o de desarrollo incipiente, accederán a ella únicamente quienes tengan los permisos correspondientes, los que se entenderán extendidos automáticamente a esta área por la misma resolución que permite la operación de las embarcaciones pesqueras industriales en ellas, sin necesidad de variar la definición geográfica. En todo caso, en estas áreas podrá siempre efectuarse actividades de pesca artesanal.
 
 #### Artículo 48
 
-En la franja costera de cinco millas marinas a que se refiere el artículo anterior como en las aguas terrestres e interiores, además de las facultades generales de administración de los recursos hidrobiológicos mencionados en el párrafo 1° del título II, podrán establecerse, por decreto supremo del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal de Pesca respectivo, las siguientes medidas o prohibiciones:
+En el área de reserva para la pesca artesanal indicada en el artículo anterior, así como en las aguas terrestres, además de las facultades generales de administración de los recursos hidrobiológicos mencionados en el párrafo 1° del título II, podrán establecerse, por decreto supremo del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal de Pesca respectivo, las siguientes medidas o prohibiciones:
 
 a) Vedas extractivas por especie en una área determinada.
 
@@ -656,27 +660,7 @@ b) Determinación de reservas marinas.
 
 c) Medidas para la instalación de colectores u otras formas de captación de semillas en bancos naturales de recursos hidrobiológicos, quedando igualmente prohibido efectuar actividades pesqueras extractivas en contravención a ellas.
 
-d) Un régimen denominado "Areas de Manejo y Explotación de Recursos Bentónicos", al que podrán optar las organizaciones de pescadores artesanales legalmente constituidas.
-
-Estas áreas serán entregadas mediante resolución del Servicio, previa aprobación por parte de la Subsecretaría de un proyecto de manejo y explotación del área solicitada, a través de un convenio de uso hasta de cuatro años, renovable conforme al mismo procedimiento. Para estos efectos, el Servicio solicitará la destinación correspondiente al Ministerio de Defensa Nacional.
-
-Los derechos emanados de la resolución que habilita a la organización o institución para el uso de esta área de manejo no podrán enajenarse, arrendarse ni constituirse a su respecto otros derechos en beneficio de terceros.
-
-Las áreas de manejo y explotación quedarán sujetas a las medidas de administración de los recursos hidrobiológicos consignados en el párrafo 1º del Título II, como también a las que señala este artículo. Asimismo, el proyecto de manejo y explotación podrá comprender la instalación de colectores para la captación de semillas de recursos hidrobiológicos, la que se someterá a lo dispuesto en el reglamento. En estos casos y en el área que se autorice, la destinación deberá comprender la porción de agua para la instalación de las estructuras necesarias para el ejercicio de estas actividades, siempre que ellas se encuentren aprobadas en el proyecto de manejo y explotación.
-
-El proyecto de manejo y explotación podrá comprender actividades de acuicultura, siempre que ellas no afecten las especies naturales del área, y cumplan con las normas establecidas al efecto en los reglamentos respectivos.
-
-En caso de que dos o más organizaciones de pescadores artesanales soliciten acceder a una misma área de manejo o que exista superposición y todas cumplan con los requisitos exigidos por el reglamento, se deberá preferir a la que esté en el lugar más próximo al de la referida área; si hubiere más de una en el mismo lugar, se favorecerá a la que reúna el mayor número de asociados y, si persistiere la igualdad, preferirá la más antigua.
-
-Las organizaciones de pescadores artesanales podrán pedir reposición de la resolución de asignación de la Subsecretaría, dentro de los treinta días siguientes a su comunicación, sin perjuicio de los recursos previstos en el artículo 9º de la ley Nº 18.575.
-
-La Subsecretaría, dentro de los treinta días siguientes a su presentación, deberá resolver fundadamente esta reposición.
-
-Las organizaciones de pescadores artesanales a las cuales se les entregue un área de manejo, pagarán anualmente en el mes de marzo de cada año, una patente única de área de manejo, de beneficio fiscal, equivalente a una unidad 0,25 unidad tributaria mensual por cada hectárea o fracción. No obstante, respecto de aquella parte del área de manejo en que se autorice actividades de acuicultura, se pagará dos unidades tributarias mensuales por hectárea o fracción.
-
-El pago de esta patente regirá a partir del segundo año contado desde la celebración del convenio de uso
-
-El reglamento determinará las condiciones y modalidades de los términos técnicos de referencia de los proyectos de manejo y explotación, las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud. Dicha determinación se efectuará mediante decreto que llevará las firmas de los Ministros del Ministerio del Medio Ambiente y de Economía, Fomento y Reconstrucción.
+d) DEROGADA.
 
 e) Podrá aplicarse a las unidades de pesquería de recursos bentónicos que alcancen el estado de plena explotación un sistema denominado "Régimen Bentónico de Extracción". Este régimen consistirá en la fijación de una cuota total de extracción y en la asignación de cuotas individuales de extracción.
 
@@ -827,6 +811,74 @@ La inscripción quedará sin efecto por defunción del pescador artesanal. No ob
 Con todo, si un pescador artesanal desaparece como consecuencia de un accidente ocurrido durante las faenas de pesca y no es posible ubicar su cuerpo una vez transcurridos diez días de su búsqueda oficial, sus legitimarios podrán, previa acreditación de ese hecho, solicitar se les otorgue en forma provisoria hasta por un plazo de cinco años o hasta que se inscriba la resolución que concede la posesión efectiva de sus bienes, el derecho a que se refiere el inciso anterior.
 
 ### Párrafo 3°
+
+Del Régimen de Áreas de Manejo y Explotación de Recursos Bentónicos
+
+#### Artículo 55
+
+A.- En las áreas señaladas en el inciso primero del artículo 48, podrá establecerse por decreto del Ministerio, previos informes técnicos de la Subsecretaría y del Consejo Zonal correspondiente, un régimen denominado Áreas de Manejo y Explotación de Recursos Bentónicos, al que podrán optar las organizaciones de pescadores artesanales inscritas en el Registro Pesquero Artesanal. Una vez establecida el área, el Servicio deberá solicitar su destinación al Ministerio de Defensa Nacional, debiendo ésta encontrarse vigente, a la fecha de tramitación de la solicitud de asignación de la respectiva área de manejo, por parte de la o las organizaciones de pescadores artesanales.
+
+#### Artículo 55
+
+B.- Las áreas de manejo serán entregadas mediante resolución del Servicio, previa aprobación, por parte de la Subsecretaría de Pesca, de un proyecto de manejo y explotación del área solicitada, a través de un convenio de uso, cuya vigencia no podrá exceder del plazo de la destinación respectiva.
+
+El citado convenio deberá incorporar, dentro de sus causales de caducidad, lo establecido, al respecto, en el decreto con fuerza de ley N°340, de 1960, del Ministerio de Defensa Nacional, y aquella normativa que la complemente o reemplace.
+
+Los derechos emanados de la resolución que habilita a la organización para el uso de esta área de manejo no podrán enajenarse, arrendarse ni constituirse, a su respecto, otros derechos en beneficio de terceros.
+
+#### Artículo 55
+
+C.- Las áreas de manejo y explotación quedarán sujetas a las medidas de administración de los recursos hidrobiológicos consignados en el párrafo 1º del Título II, como también a las que señala este párrafo. No obstante, se podrá exceptuar del cumplimiento de tales medidas, mediante decretos del Ministerio o resoluciones de la Subsecretaría.
+
+#### Artículo 55
+
+D.- El reglamento determinará las condiciones y modalidades de los términos técnicos de referencia de los proyectos de manejo y explotación, las instituciones que los efectuarán y los antecedentes que deben proporcionarse en la solicitud. Dicha determinación se efectuará mediante decreto que llevará las firmas de los Ministros de Medio Ambiente y de Economía, Fomento y Turismo.
+
+El proyecto de manejo y explotación podrá comprender actividades de acuicultura y captación de semillas, siempre que ellas no afecten las especies naturales del área y cumplan con las normas establecidas, al efecto, en los reglamentos respectivos. En estos casos y en el área que se autorice, la destinación deberá comprender la porción de agua para la instalación de las estructuras necesarias para el ejercicio de estas actividades, siempre que ellas se encuentren aprobadas en el proyecto de manejo y explotación.
+
+Sin perjuicio de lo anterior, el porcentaje total del área de manejo destinada a estas actividades, en conjunto, no podrá exceder el 40% de la superficie decretada.
+
+#### Artículo 55
+
+E.- En el evento que dos o más organizaciones de pescadores artesanales soliciten acceder a una misma área de manejo, y, a lo menos, dos de ellas cumplan con los requisitos exigidos por esta ley y el reglamento, podrá asignarse en forma conjunta, previo acuerdo voluntario de estas organizaciones, el cual deberá constar por escrito y debidamente autorizado por notario público. En caso de no existir tal acuerdo, se preferirá a aquella organización que no sea titular de un área de manejo.
+
+No pudiendo asignarse el área de manejo conforme a lo dispuesto en el inciso anterior, se preferirá a la organización que obtenga el mayor puntaje ponderado, de acuerdo a los siguientes criterios:
+
+a) Superficie por socio, considerando todas las áreas de manejo que posea, en titularidad, la respectiva organización.
+
+b) Cercanía al área de manejo de que se trate.
+
+c) Número de socios inscritos en el Registro Pesquero Artesanal, que posean una antigüedad de, a lo menos, un año como afiliado a la organización.
+
+d) Antigüedad de la organización de pescadores artesanales legalmente constituida y de su inscripción en el Registro Pesquero Artesanal.
+
+El reglamento determinará la ponderación y la fórmula de cálculo para el puntaje asociado a cada uno de los criterios señalados.
+
+#### Artículo 55
+
+F.- Las organizaciones de pescadores artesanales a las cuales se les entregue un área de manejo, pagarán, cada año calendario, una patente única, de beneficio fiscal, equivalente a 0,18 unidad tributaria mensual por cada hectárea o fracción. No obstante, respecto de aquella parte del área de manejo en que se autoricen actividades de acuicultura, se pagarán, anualmente, dos unidades tributarias mensuales por hectárea o fracción.
+
+Las organizaciones de pescadores artesanales estarán exentas del pago de la patente:
+
+a) Durante los dos primeros años de vigencia del convenio de uso;
+
+b) Respecto de las áreas de manejo en las cuales no se haya realizado actividad extractiva durante el año calendario anterior, y
+
+c) Por aquellas áreas de manejo afectadas por una catástrofe natural, declarada por la autoridad competente. Las organizaciones de pescadores artesanales a las cuales se les haya entregado un área de manejo y sea afectada por una catástrofe natural, podrán solicitar a la autoridad competente que formule la declaración indicada en esta letra.
+
+En el evento que se autoricen en el área de manejo actividades de acuicultura, la patente a que se refiere la parte final del inciso primero regirá a partir del segundo año, contado desde la autorización respectiva.
+
+#### Artículo 55
+
+G.- El funcionamiento de este régimen deberá ser establecido por reglamento.
+
+#### Artículo 55
+
+H.- En caso de renuncia o caducidad de un área de manejo, por alguna de las causales previstas en el artículo 144, la organización de pescadores artesanales, que era titular de la misma, no podrá solicitarla nuevamente sino transcurridos tres años, contados desde la fecha de la notificación de la resolución que declaró la caducidad, según corresponda.
+
+Para estos efectos, se considerará como una misma organización aquélla en que participen más del 20% de los pescadores artesanales asociados a otra. Se considerará como referencia, la organización que tenga el menor número de asociados.
+
+### Párrafo 4°
 
 DEL FONDO DE FOMENTO PARA LA PESCA ARTESANAL
 
@@ -1760,6 +1812,18 @@ La reincidencia de las infracciones de que trata este artículo, será sancionad
 
 Las personas que efectúen faenas de pesca artesanal sin estar inscritas en el registro respectivo, serán sancionadas con multa de una a cincuenta unidades tributarias mensuales.
 
+#### Artículo 120
+
+A.- La extracción de recursos hidrobiológicos desde un área de manejo y explotación de recursos bentónicos, tanto por los asignatarios de dicha área como por terceros ajenos a la misma, en trasgresión a la normativa que rige tal medida de administración pesquera, será sancionada con multa de 30 a 100 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
+
+#### Artículo 120
+
+B.- El procesamiento, el apozamiento, la elaboración, la transformación y el almacenamiento de los recursos señalados en el artículo anterior, así como también de productos derivados de éstos, serán sancionados con multa de 30 a 300 unidades tributarias mensuales y, además, con la clausura del establecimiento o local en que se hubiere cometido la infracción, hasta por un plazo de 30 días.
+
+El gerente y el administrador del establecimiento industrial serán sancionados, personalmente, con una multa de 15 a 150 unidades tributarias mensuales.
+
+En caso de reincidencia en las infracciones de este artículo, las personas responsables serán sancionadas con la pena de presidio menor en su grado mínimo y las multas se duplicarán.
+
 #### Artículo 121
 
 DEROGADO
@@ -1849,6 +1913,16 @@ A los juicios a que se refiere el artículo precedente se aplicará el procedimi
 Será aplicable a estas infracciones lo dispuesto en el artículo 28 de la ley N° 18.287, sobre procedimiento ante los Juzgados de Policía Local, sin perjuicio de lo dispuesto en esta ley.
 
 En esta nota se le citará para que comparezca a la audiencia más próxima, indicando día y hora, bajo apercibimiento de proceder en su rebeldía. Una copia de esta citación deberá acompañarse a la denuncia. La denuncia así formulada, constituirá presunción de haberse cometido la infracción.
+
+1 bis) Sin perjuicio de lo señalado en el número anterior, en el caso que las infracciones se cometan dentro de áreas de manejo, además podrán efectuar la denuncia aquellas organizaciones de pescadores artesanales que cuenten con resolución y convenio de uso vigente respecto del área asignada, la que deberá ser presentada ante el tribunal competente y contener las siguientes menciones:
+
+a) la individualización del o los denunciados;
+
+b) una relación detallada y circunstanciada de los hechos, y
+
+c) la disposición legal o reglamentaria que se estima infringida.
+
+Acogida a tramitación la denuncia, el tribunal citará al o a los infractores a audiencia indagatoria, fijando día y hora, bajo apercibimiento de proceder en su rebeldía.
 
 2) El juez interrogará al denunciado en la audiencia señalada y si del interrogatorio resultaren hechos sustanciales, pertinentes y controvertidos, fijará los puntos de prueba y citará a las partes a comparendo, el que se llevará a efecto en una fecha lo más próxima posible, la que no podrá exceder de diez días, y al cual las partes deberán concurrir personalmente o representadas conforme a derecho, con sus testigos y demás medios de prueba, bajo apercibimiento de proceder en rebeldía del inasistente.
 
@@ -2156,9 +2230,9 @@ a) Explotar el área en contravención al proyecto de manejo y explotación apro
 
 b) No pagar la patente que exige el artículo 48.
 
-c) Haber sido condenado uno o más de los socios de la organización por el delito de que trata el artículo 137, sin que ella haya adoptado, dentro de los treinta días siguientes a la fecha en que quedó ejecutoriado el fallo, las medidas destinadas a expulsar de la entidad al o a los infractores.
+c) ELIMINADA.
 
-d) Ser reincidente uno o más de los socios de la organización en las infracciones a que se refiere la letra b) del artículo 110 y el artículo 112.
+d) Ser reincidente uno o más de los socios de la organización en las infracciones a que se refiere la letra b) del artículo 110 y el artículo 112, sin que ella haya adoptado, dentro de los treinta días siguientes a la fecha en que quedó ejecutoriado el fallo, las medidas destinadas a expulsar de la entidad al o a los infractores.
 
 ## Título XII
 
