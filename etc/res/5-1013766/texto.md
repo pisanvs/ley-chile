@@ -1,0 +1,3 @@
+DESIGNA SECRETARIA SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE SANTIAGO
+
+Por resolución SII N° 5 de 18 de febrero de 2010, se designó a doña Pamela Andrea Cuevas Alvarado, RUT N°10.895.195-8, como Secretaria Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago, en reemplazo de doña Marta Ximena Espinoza Carreño, RUT N° 7.076.257-9.
