@@ -4,7 +4,7 @@ Núm. 993 exento.- Santiago, 8 de septiembre de 2009.- Vistos: La solicitud de f
 
 Decreto:
 
-1.- Declárase internacional la feria de acuicultura "Aqua Sur 2010", organizada por la sociedad Technopress S.A., RUT Nº 96.761.590-0, la que se llevará a efecto entre los días 24 y 27 de marzo de 2010, ambas fechas inclusive.
+1.- Declárase internacional la feria de acuicultura "Aqua Sur 2010", organizada por la sociedad Technopress S.A., RUT Nº 96.761.590-0, la que se llevará a efecto entre los días 20 y 23 de octubre de 2010, ambas fechas inclusive.
 
 2.- Habilítase como Recinto Ferial la hijuela del terreno ubicado en Chin Chin, comuna de Puerto Montt, con frente a la Carretera Panamericana, entre Puerto Montt y Puerto Varas, cuyos deslindes particulares son:
 
