@@ -134,25 +134,7 @@ I.R.N.V.M. : BPKB.51-9
 
 Placa única : BPKB.51-9
 
-7.- FISCALÍA LOCAL DE PICHILEMU
-
-Vehículo : Camioneta
-
-Marca : Mazda
-
-Modelo : BT50 D. Cab. 4x4 2.5
-
-Color : Plateado
-
-Año : 2008
-
-Nº motor : WLAT911029
-
-Nº chassis : JMZUN8F128W685677
-
-I.R.N.V.M. : BRTH.67-4
-
-Placa única : BRTH.67-4
+7.- Derogado.
 
 8.- FISCALÍA LOCAL DE GRANEROS
 
