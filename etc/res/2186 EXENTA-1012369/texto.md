@@ -564,6 +564,62 @@ superficie útil total de los recintos interiores
 
 de la vivienda alcance al menos 50 m2.
 
+u. En caso que el inmueble poseído por el
+
+postulante damnificado o por su cónyuge se
+
+encuentre sometido al procedimiento de
+
+regularización establecido en el D.L. Nº 2.695,
+
+de 1979, se podrá postular acreditando
+
+disponibilidad de terreno mediante copia
+
+autorizada de la resolución señalada en el
+
+#### Artículo 11°
+
+de esa ley y copia del plano
+
+respectivo que acompañe a ésta. Obtenido el
+
+certificado de subsidio, y para los efectos de
+
+suscribir contrato de construcción de la
+
+vivienda, se deberá contar con la resolución
+
+señalada en el artículo 12° del D.L. Nº 2.695,
+
+de 1979. El SERVIU podrá proceder al pago del
+
+certificado de subsidio, contra acreditación
+
+de que se ha inscrito ésta última resolución
+
+en el Registro de Propiedad del Conservador de
+
+Bienes Raíces, en conformidad a lo dispuesto
+
+en el artículo 14° del D.L. Nº 2.695, de 1979,
+
+sin perjuicio del cumplimiento de los
+
+restantes requisitos exigidos para dicho pago
+
+en el artículo 55 del D.S N° 174 (V. y U.),
+
+de 2005. La prohibición de enajenar por 5 años
+
+a favor del SERVIU, señalada en éste último
+
+artículo, podrá ser constituida conforme a lo
+
+señalado en el inciso tercero del artículo 17°
+
+del D.L. Nº 2.695, de 1979.
+
 4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
 Región Recursos (UF)
