@@ -88,11 +88,7 @@ El instalador autorizado deberá entregar a la distribuidora la declaración de 
 
 Responsable: Instalador Autorizado
 
-### 4. Revisión Instalación y Energización viviendas
-
-La Distribuidora estará autorizada para energizar las viviendas de emergencia previo al registro del trámite TE1 provisorio de la SEC. No obstante, para a la energización, deberá realizar una inspección visual de la instalación eléctrica, verificando que esta cumple con lo especificado por la SEC, y deberá solicitar además el formulario de declaración de responsabilidad firmado y el plano o un croquis de la instalación.
-
-Responsable: Empresa Distribuidora
+4. La Distribuidora estará autorizada para energizar las viviendas de emergencia previo al registro del trámite TE1 de la SEC. No obstante, para la energización, deberá realizar una inspección visual de la instalación eléctrica, verificando que esta cumple con lo especificado por la SEC, y deberá solicitar además el formulario de declaración de responsabilidad firmado y el plano o un croquis de la instalación.
 
 ### 5. Informar a SEC el resumen de viviendas Energizadas
 
@@ -100,13 +96,9 @@ La Distribuidora enviará en el plazo de 5 días al e-mail procedimiento emergen
 
 Responsable: Empresa Distribuidora.
 
-### 6. Digitación TE1 Provisorio Terremoto
+### 6. Digitación TE1 Terremoto
 
-La empresa distribuidora será la responsable del registro de las instalaciones en el sistema e-declarador de la SEC, por medio de instaladores autorizados propios de la empresa, quienes deberán deberá registrar los datos de la instalación como un trámite TE1, de acuerdo a lo señalado en el anexo C del presente procedimiento, especificando en el trámite, que es de carácter provisorio y que está asociado al terremoto.
-
-Las empresas tendrán un plazo de 5 días hábiles para registrar la información, a partir de la fecha de energización.
-
-Responsable: Empresa Distribuidora
+La empresa distribuidora será la responsable del registro de las instalaciones en el sistema e-declarador de la SEC, por medio de instaladores autorizados propios de la empresa, quienes deberán registrar los datos de la instalación como un trámite TE1, de acuerdo a lo señalado en el anexo C del presente procedimiento, especificando en el trámite, que está asociado al terremoto. Las empresas tendrán un plazo de 5 días hábiles para registrar la información, a partir de la fecha de energización.
 
 CASO 2: Viviendas de uso habitacional existentes con daños menores
 
@@ -240,7 +232,7 @@ Anexo C
 
 Digitación trámite TE1 en sistema eDeclarador SEC
 
-Corresponde al formulario provisorio del trámite TE1, que para efectos de este procedimiento se deberán completar sólo los campos indicados.
+Corresponde al formulario del trámite TE1, que para efectos de este procedimiento se deberán completar sólo los campos indicados.
 
 . Ítems 1: Antecedentes del instalador o profesional que declara: Estos campos son llenados automáticamente por el sistema cuando el instalador inicia su sesión e inicia una nueva presentación.
 
@@ -248,7 +240,7 @@ Corresponde al formulario provisorio del trámite TE1, que para efectos de este 
 
 . Ítems 3: Antecedentes del propietario y/o representante legal: Para este caso se deberá señalar el responsable del pago del servicio para la instalación que se está informando (propietario u ocupante, municipalidad o la intendencia)
 
-. Ítems 4: Detalle de la instalación: Para este caso el instalador no tendrá la obligación de dar el detalle de cada una de las viviendas, si su clase como instalador lo permite según la potencia total de la instalación, debiendo señalar la misma dirección de referencia del ítems 2 y ser consistente en las potencias unitarias, cantidad de instalaciones (numero de viviendas) y la potencia total. En caso contrario deberá seguir el procedimiento actual de registro de información.
+. Ítems 4: Detalle de la instalación: Para este caso el instalador no tendrá la obligación de dar el detalle de cada una de las viviendas, si su clase como instalador lo permite según la potencia total de la instalación, debiendo señalar la misma dirección de referencia del ítems 2 y ser consistente en las potencias unitarias, cantidad de instalaciones (número de viviendas) y la potencia total. En caso contrario deberá seguir el procedimiento actual de registro de información.
 
 . Ítems 5: Archivos adjuntos: Para el caso de los archivos adjuntos el instalador deberá a lo menos adjuntar un plano o un croquis, cabe hacer presente que es vital que en el plano se indique referencias del lugar, por lo tanto, quedan eximidos de adjuntar cualquier otro adjunto, llámese memoria explicativa, certificados u otro.
 
