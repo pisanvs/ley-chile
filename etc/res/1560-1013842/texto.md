@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.560, de 7 de mayo de 2010, de esta Subsecretaría, autorízase a EDUARDO ENRIQUE ORTIZ CARTES, PROCESADORA Y COMERCIALIZADORA DE MARISCOS Y PRODUCTOS DEL MAR EMPRESA INDIVIDUAL DE RESPONSABILIDAD LIMITADA, para iniciar actividades pesqueras de transformación, instalar y operar planta en Pasaje Gajardo Nº 281, Tomé, VIII Región, para elaborar en líneas de Cocido y Congelado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 7 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
