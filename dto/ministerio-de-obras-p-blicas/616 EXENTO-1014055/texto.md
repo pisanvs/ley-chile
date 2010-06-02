@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 616 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 2, superficie 3.286,8 m2, Rol Nº323-41, comuna de Rio Negro, X Región de Los Lagos para la obra "Reposición Puente Chapaco", Camino Río Negro Riachuelo, Rol U-588", y se acordó el valor de indemnización con su propietaria SOCIEDAD AGRICOLA TRES ESTEROS LIMITADA, ascendente a la cantidad de $2.984.246.- para el lote Nº2.
+
+Fiscal del Ministerio de Obras Públicas.
