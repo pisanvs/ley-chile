@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 568 de 30 de abril de 2010, se expropió el lote de terreno Nº 7, superficie 88 m2, rol de Avalúo 3218-83, comuna de San Juan de La Costa, para la obra "CONSERVACION PERIODICA PUENTES POPOEN Nº 1, POPOEN Nº 2, LOMA DE LA PIEDRA Y POPOEN Nº 3, CAMINO CONTACTO, LOMA DE LA PIEDRA - EL BOLSON, ROL U-52, PROVINCIA DE OSORNO, y se acordó el valor de la indemnización con su propietaria JUANA HORTENSIA MILLAHUAL MAQUEHUE, ascendente a la cantidad de $350.492.-
+
+Fiscal del Ministerio de Obras Públicas.
