@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 535 de 30 de abril de 2010, se expropió el lote de terreno Nº 60-B, superficie 338 m2, rol de Avalúo 439-352, comuna de Illapel, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", IV Región y se acordó el valor de la indemnización con su propietaria LUCIA NELLY CUEVAS VALENCIA, ascendente a la cantidad de $283.510.-
+
+Fiscal del Ministerio de Obras Públicas.
