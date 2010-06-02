@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº 679 de fecha 20 de mayo del 2010, se modificó el decreto exento MOP Nº 757, de 13 de octubre de 2008, y el decreto exento MOP Nº 542, de 31 de marzo de 2009, en cuanto a que la imputación presupuestaria para el pago de la indemnización acordada para la expropiación del lote Nº 73, es 08 31 02 003, Sub Asignación 29000276-0, y no como se indicó en los mencionados decretos.-
+
+Fiscal del Ministerio de Obras Públicas.
