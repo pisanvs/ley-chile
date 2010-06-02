@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 571 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 51-A, superficie 690,00 m2, Rol Nº 1118-56, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario DAVID ROBERTO KELCH MAYORGA, ascendente a la cantidad de $7.020.815.- para el lote Nº51-A.
+
+Fiscal del Ministerio de Obras Públicas.
