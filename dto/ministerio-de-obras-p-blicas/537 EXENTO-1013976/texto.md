@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 537, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 11, superficie 238 m2, Rol Nº 46-147, comuna de Monte Patria, IV Región para la obra "Reposición Varios Puentes IV Región, Sector Puentes Ponio I y II.", y se acordó el valor de indemnización con su propietaria JUNTA DE VECINOS FLOR DEL VALLE ALTO, ascendente a la cantidad de $657.001.-
+
+Fiscal del Ministerio de Obras Públicas.
