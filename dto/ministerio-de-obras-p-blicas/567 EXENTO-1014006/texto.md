@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 567 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº. 43, superficie 132 m2., Rol Nº 63-83, comuna de Pumanque, VI Región, para la obra "CAMINO RUTA I-60, SECTOR PUMANQUE CRUCE I-72, TRAMO KM. 20,34083 AL KM. 38,49623, SEXTA REGION" y se acordó el valor de indemnización con su propietaria MARCELA DEL CARMEN GONZALEZ CASTRO, ascendente a la cantidad de $541.243.-
+
+Fiscal del Ministerio de Obras Públicas.
