@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 621 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 53-A, superficie 1.180,00 m2, rol Nº 1118-54, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", Región de Los Lagos y se acordó el valor de la indemnización con su propietario ERNESTINA DEL CARMEN CARO ANDRADE, ascendente a la cantidad de $7.613.398.-
+
+Fiscal del Ministerio de Obras Públicas.
