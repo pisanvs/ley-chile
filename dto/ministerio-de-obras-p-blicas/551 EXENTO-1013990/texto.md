@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 551 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 4, superficie 214,51 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario PEDRO IVAN ALVARADO RAIN, ascendente a la cantidad de $22.608.536.- para el lote Nº4.
+
+Fiscal del Ministerio de Obras Públicas.
