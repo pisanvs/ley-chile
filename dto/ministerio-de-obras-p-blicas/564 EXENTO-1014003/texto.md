@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 564 de 30 de abril de 2010, se expropió el lote de terreno Nº 20, superficie 111 m2, rol de Avalúo 217-38, comuna de Florida, para la obra "REPOSICION RUTA 148, S: QUILLON AGUA DE LA GLORIA (POR TRAMOS), KM. 42,10000 A KM. 57,80000", Región del Bio Bio, VIII Región y se acordó el valor de la indemnización con su propietario ALFONSO VALDEMAR SANHUEZA NEIRA, ascendente a la cantidad de $513.335.-
+
+Fiscal del Ministerio de Obras Públicas.
