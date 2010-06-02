@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 590 de 30 de abril de 2010, se expropiaron los lotes de terreno Nºs. 52 y 53, superficies 983 y 1.117 m2, rol de Avalúo 439-38, comuna de Illapel, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", IV Región y se acordó el valor de la indemnización con su propietario EDUARDO DEL CARMEN PEÑA CRUZ, ascendente a la cantidad de $5.247.960.-
+
+Fiscal del Ministerio de Obras Públicas.
