@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 592 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº8, superficie 763 m2, Rol Nº 24-8, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Zona Urbana Quilaco, Km. 22,76349 a Km. 23,13600, Región del Bío Bío" y se acordó el valor de indemnización con su propietario JORGE LOYOLA FERNANDEZ, ascendente a la cantidad de $18.878.824- para el lote Nº 8.
+
+Fiscal del Ministerio de Obras Públicas.
