@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 597 de fecha 30 de abril de 2010, se expropió el lote de terreno N° 11, superficie 256,22 m2, rol en Trámite, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", Región de Los Lagos y se acordó el valor de la indemnización con su propietario SINDICATO DE TRABAJADORES INDEPENDIENTES DE TAXIS COLECTIVOS LINEA 2000 SAN PEDRO DE ANCUD, ascendente a la cantidad de $17.990.022.-
+
+Fiscal del Ministerio de Obras Públicas.
