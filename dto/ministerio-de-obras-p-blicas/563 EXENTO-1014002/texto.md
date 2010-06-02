@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 563 de 30 de abril de 2010, se expropió el lote de terreno Nº 24, superficie 100 m2., rol de Avalúo Nº 165-185, comuna de Yerbas Buenas, para la obra "MEJORAMIENTO RUTA L-25, S: CR. RUTA L-11 CR. RUTA L-19 (ESPERANZA) KM. 0,00000 AL KM. 11,28600", VII Región y se acordó el valor de la indemnización con su propietaria MARGARITA DEL CARMEN GONZALEZ QUEZADA, ascendente a la cantidad de $499.220.-
+
+Fiscal del Ministerio de Obras Públicas.
