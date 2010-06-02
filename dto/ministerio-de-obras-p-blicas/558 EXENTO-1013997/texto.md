@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 558 de fecha 30 de abril de 2010, se expropiaron los lotes de terreno Nºs 24, 25, 26, 28 y 25-A, superficies 735, 185, 1.193, 406 y 1.022 m², respectivamente, Rol Nº 1452-11, comuna de Puerto Varas, para la obra "Camino Reposición Ruta 225-CH, sector Ensenada - Petrohué, Tramo Km. 43,32037 - Km. 52,89972" X Región y se acordó el valor de la indemnización con su propietario TURÍSTICA LOS SALTOS S.A., ascendente a la cantidad de $16.471.614.-
+
+Fiscal del Ministerio de Obras Públicas.
