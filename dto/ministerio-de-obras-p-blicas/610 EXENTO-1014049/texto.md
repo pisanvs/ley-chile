@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 610 de fecha 30 de abril de 2010, se expropiaron los lotes de terreno Nºs 171 y 173, superficies 18 y 2.798 m2 respectivamente, rol Nº 178-91, comuna de Arauco, para la obra "Camino Ruta P-40, Sector Arauco Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario JOSE LEOPOLDO FERNANDEZ DIAZ, ascendente a la cantidad de $1.350.409.-
+
+Fiscal del Ministerio de Obras Públicas.
