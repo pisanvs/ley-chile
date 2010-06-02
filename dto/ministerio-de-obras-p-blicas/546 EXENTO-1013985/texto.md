@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 546 de 30 de abril de 2010, se expropió el lote de terreno N° 45, superficie 98 m2, rol de Avalúo 1353-5, comuna de Valdivia, para la obra "CAMINO MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831, PROVINCIA DE VALDIVIA, XIV REGION, TRAMO Nº 2", y se acordó el valor de la indemnización con su propietario OSVALDO MERCADO TORRES, ascendente a la cantidad de $54.174.795.-
+
+Fiscal del Ministerio de Obras Públicas.
