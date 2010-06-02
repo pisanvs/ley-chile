@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 622, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 3 y 4, superficie 1.114 y 117 m2, Rol Nº 158-21, comuna de Chonchi, X Región para la obra "Conservación de la Red Comunal Puente El Dongo, Camino Vilupulli Mellaico, provincia de Chiloé.", y se acordó el valor de indemnización con su propietario JUAN FRANCISCO SALDIVIA VARGAS, ascendente a la cantidad de $798.705.-
+
+Fiscal del Ministerio de Obras Públicas.
