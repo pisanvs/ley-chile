@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 582 de fecha 30 de marzo del 2010, se expropió el lote de terreno Nº 36, superficie 1.125 m2, Rol Nº 43-42, comuna de Quilaco, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén Quilaco, Km. 0,00000 a Km. 23,13600, Región Bio Bio", y se acordó el valor de indemnización con su propietario JULIO JAVIER KUNCAR ONETO, ascendente a la cantidad de $1.769.765.- para los lotes Nº 36.
+
+Fiscal del Ministerio de Obras Públicas.
