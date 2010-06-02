@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 611 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 11-A, superficie 159 m2, Rol Nº 167-6, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región del Bío Bío, y se acordó el valor de indemnización con su propietaria SARA NADIA ALARCON BASTIAS Y OTROS, ascendente a la cantidad de $1.415.100.- para el lote Nº 11-A.
+
+Fiscal del Ministerio de Obras Públicas.
