@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 540 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 12, superficie 226,43 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario PEDRO ANTONIO ANTIMAN LOPEZ, ascendente a la cantidad de $31.020.940.- para el lote Nº12.
+
+Fiscal del Ministerio de Obras Públicas.
