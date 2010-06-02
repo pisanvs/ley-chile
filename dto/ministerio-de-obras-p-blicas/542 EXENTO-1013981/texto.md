@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 542 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 3-D, superficie 249,17 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietaria ROSA DEL CARMEN GUAIQUIL BARRIA, ascendente a la cantidad de $39.795.483.- para el lote Nº3-D.
+
+Fiscal del Ministerio de Obras Públicas.
