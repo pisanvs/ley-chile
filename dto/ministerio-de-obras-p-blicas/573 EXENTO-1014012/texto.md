@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 573 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 100-B, superficie 6.904 m2, Rol Nº 275-82, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" y se acordó el valor de la indemnización con su propietario EDUARDO EUGENIO ARELLANO SOTO Y OTROS, ascendente a la cantidad de $8.763.446.-
+
+Fiscal del Ministerio de Obras Públicas.
