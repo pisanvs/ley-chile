@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 600 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 8, superficie 193,12 m², Rol en Trámite, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, tramo 8 Variante Ancud", Región de Los Lagos y se acordó el valor de la indemnización con su propietario JUAN CARLOS OYARZÚN OYARZÚN, ascendente a la cantidad de $17.686.719.-
+
+Fiscal del Ministerio de Obras Públicas.
