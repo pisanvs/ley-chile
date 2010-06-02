@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 549 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 3-C, superficie 212,95 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietaria MARIA JOSEFINA ASNAR SOTO, ascendente a la cantidad de $31.209.602.- para el lote Nº3-C.
+
+Fiscal del Ministerio de Obras Públicas.
