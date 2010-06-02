@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 577 de 30 de abril de 2010, se expropiaron los lotes de terreno Nºs. 8 y 9, superficies 1.856 y 373 m2., rol de Avalúo Nº 217-73, comuna de San Javier, para la obra "MEJORAMIENTO RUTA L-25, S: CR. RUTA L-11 CR. RUTA L-19 (ESPERANZA) KM. 0,00000 AL KM. 11,28600", VII Región y se acordó el valor de la indemnización con su propietario MARIO ENRIQUE ORELLANA SILVA, ascendente a la cantidad de $9.135.841.-
+
+Fiscal del Ministerio de Obras Públicas.
