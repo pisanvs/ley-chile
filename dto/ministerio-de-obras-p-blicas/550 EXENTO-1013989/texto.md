@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 550 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 20, superficie 4.396 m², Rol Nº 162-57, comuna de Puerto Octay, para la obra "Camino Ruta U-99-V, sector Las Cascadas - Ensenada, Km. 31,33730 a Km. 50,60320" X Región y se acordó el valor de la indemnización con su propietario MIGUEL PATRICIO AYLWIN OYARZÚN Y OTROS, ascendente a la cantidad de $28.853.178.-
+
+Fiscal del Ministerio de Obras Públicas.
