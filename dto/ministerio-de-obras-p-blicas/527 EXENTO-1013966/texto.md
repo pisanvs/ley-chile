@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 527 de 30 de abril de 2010, se expropió el lote de terreno Nº 60-A, superficie 333 m2, rol de Avalúo E/T, comuna de Illapel, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", IV Región y se acordó el valor de la indemnización con su propietaria ISABEL DEL CARMEN ROJAS MIRANDA, ascendente a la cantidad de $280.949.-
+
+Fiscal del Ministerio de Obras Públicas.
