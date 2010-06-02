@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 585 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 2, superficie 392 m2, rol Nº 142-23, comuna de Peralillo, para la obra "Reposición Puente La Cadena Ruta I-124, comuna de Peralillo y Marchigue, provincia de Colchagua y Cardenal Caro Sexta Región" y se acordó el valor de la indemnización con su propietario AUREA GINA MICHELINI PRICE, ascendente a la cantidad de $1.595.600.-
+
+Fiscal del Ministerio de Obras Públicas.
