@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 596, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 1, superficie 1.230,06 m2, Rol Nº 8010-6, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen El Tránsito (Variante Los Perales)", Km. 27,77380 al Km. 27,81850, Provincia de Huasco, Región de Atacama", y se acordó el valor de indemnización con su propietaria DELIA DEL CARMEN VILLEGAS CAMPILLAY Y OTROS, ascendente a la cantidad de $10.539.904.-
+
+Fiscal del Ministerio de Obras Públicas.
