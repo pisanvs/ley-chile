@@ -1,0 +1,5 @@
+DECLARA COMO ÁREA DE RESTRICCIÓN PARA NUEVAS EXTRACCIONES DE AGUAS SUBTERRÁNEAS EL SECTOR HIDROGEOLÓGICO DE APROVECHAMIENTO COMÚN DENOMINADO PAMPA DEL TAMARUGAL, UBICADO EN LA PROVINCIA DE IQUIQUE, REGIÓN DE TARAPACÁ
+
+Mediante resolución DGA Nº 245, de fecha 30 de diciembre de 2009, se ha declarado área de restricción para nuevas extracciones de aguas subterráneas el sector hidrogeológico de aprovechamiento común denominado Pampa del Tamarugal, delimitado por el norte con la cuenca de Quebrada Camiña, por el sur con Cerro Gordo, por el oeste con cordón oriente de la Cordillera de la Costa y por el occidente por una línea que une las desembocaduras de las quebradas de Soga, Aroma, Tarapacá, Sagasca, Quisma, Infiernillo y Chacarilla. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Tarapacá y en la página web de la DGA.-
+
+Pedro Rivera Izam, Director General de Aguas (S).
