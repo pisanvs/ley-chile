@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 593 de 30 de abril de 2010, se expropiaron los lotes de terreno Nºs. 7 y 8-B, superficies 15.144 y 1.338 m2, rol de Avalúo 439-76, comuna de Illapel, para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", IV Región y se acordó el valor de la indemnización con su propietario GONZALO SUBERCASEAUX PEREZ-COTAPOS, ascendente a la cantidad de $12.066.489.-
+
+Fiscal del Ministerio de Obras Públicas.
