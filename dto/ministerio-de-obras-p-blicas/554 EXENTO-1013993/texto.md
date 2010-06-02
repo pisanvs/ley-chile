@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 554 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 13, superficie 248,26 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario JOSE FREDY GUAIQUIL BARRIA, ascendente a la cantidad de $23.018.646.- para el lote Nº13.
+
+Fiscal del Ministerio de Obras Públicas.
