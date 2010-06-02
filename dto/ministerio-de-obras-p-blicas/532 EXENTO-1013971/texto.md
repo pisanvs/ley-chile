@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 532 de 30 de abril del 2010, se expropió el lote de terreno Nº 64-B, superficie 364 m2., Rol Nº 557-210, comuna de Linares, VII Región para la obra "CAMINO CONSERVACION RUTA L-45, SECTOR: ESCUELA LLEPO PUENTE LOS HUALLES, TRAMO. KM. 13,14700 A KM. 36,446, PROVINCIA Y COMUNA DE LINARES, VII REGION", y se acordó el valor de indemnización con su propietario VICENTE ANTONIO MORALES HERNANDEZ, ascendente a la cantidad de $357.515.-
+
+Fiscal del Ministerio de Obras Públicas.
