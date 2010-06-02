@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 560 de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs. 50, 51, 52, 50-A, 51-A y 52-A, superficies 37, 314, 423, 66, 460 y 133 m2, Rol Nº 169-22, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietario CARLOS ARTURO SEGUNDO ORELLANA VALLADARES, ascendente a la cantidad de $23.493.120.
+
+Fiscal del Ministerio de Obras Públicas.
