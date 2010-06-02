@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 572 de fecha 30 de abril de 2010, se expropiaron los lotes de terreno Nºs 19 y 21, superficies 922 y 547 m² respectivamente, Rol Nº 162-57, comuna de Puerto Octay, para la obra "Camino Ruta U-99-V, sector Las Cascadas - Ensenada, Km. 31,33730 a Km. 50,60320" X Región y se acordó el valor de la indemnización con su propietario SOCIEDAD INMOBILIARIA LOS PULLES LIMITADA, ascendente a la cantidad de $6.456.298.-
+
+Fiscal del Ministerio de Obras Públicas.
