@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 533 de 30 de abril de 2010, se expropió el lote de terreno N° 13, superficie 329 m2., rol de Avalúo N° 217-140, comuna de San Javier, para la obra "MEJORAMIENTO RUTA L-25, S: CR. RUTA L-11 CR. RUTA L-19 (ESPERANZA) KM. 0,00000 AL KM. 11,28600", VII Región y se acordó el valor de la indemnización con su propietario JUAN EVANGELISTA ORELLANA ALCANTAR, ascendente a la cantidad de $1.064.850.-
+
+Fiscal del Ministerio de Obras Públicas.
