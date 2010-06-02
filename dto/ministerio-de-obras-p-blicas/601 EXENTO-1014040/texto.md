@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 601 de 30 de abril de 2010, se expropió el lote de terreno N° 92, superficie 239 m2, rol de Avalúo 2568-9, comuna de Valdivia, para la obra "CAMINO MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831, PROVINCIA DE VALDIVIA, XIV REGION, TRAMO 3", y se acordó el valor de la indemnización con su propietario MARIO ENRIQUE DEL CARMEN DIAZ MARTINEZ, ascendente a la cantidad de $16.206.610.-
+
+Fiscal del Ministerio de Obras Públicas.
