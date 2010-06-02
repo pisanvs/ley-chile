@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 604 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 112-A, superficie 524 m², Rol Nº 276-47, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" y se acordó el valor de la indemnización con su propietario JOSÉ ALONSO BUENO ARELLANO, ascendente a la cantidad de $3.251.595.-
+
+Fiscal del Ministerio de Obras Públicas.
