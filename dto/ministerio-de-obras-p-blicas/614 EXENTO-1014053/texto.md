@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 614, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 1, superficie 123 m2, Rol Nº 976-34, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal El Retamo.", y se acordó el valor de indemnización con su propietario OWEN OMAR GARATE PÁEZ, ascendente a la cantidad de $2.006.000.-
+
+Fiscal del Ministerio de Obras Públicas.
