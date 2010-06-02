@@ -1,0 +1,3 @@
+Por decreto mop (exento) Nº 528 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 6, superficie 550 m², Rol Nº 390-40, comuna de Quinchao, para la obra "Conservación Camino Básico, Achao - Quinchao - Chequian, Sector Quinchao - Chequian" X Región y se acordó el valor de la indemnización con su propietario MARÍA ADELIA HUANEL LONCON Y OTRA, ascendente a la cantidad de $671.780.-
+
+Fiscal del Ministerio de Obras Públicas.
