@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 569, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 1 y 2, superficie 306 y 1204 m2, Rol Nº 174-117, comuna de Chonchi, X Región para la obra "Conservación de la Red Comunal Puente El Dongo, Camino Vilupulli Mellaico, provincia de Chiloé.", y se acordó el valor de indemnización con su propietario ARIEL HUMBERTO AGUILAR MARQUEZ, ascendente a la cantidad de $881.851.-
+
+Fiscal del Ministerio de Obras Públicas.
