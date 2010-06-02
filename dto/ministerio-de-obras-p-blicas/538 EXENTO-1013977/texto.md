@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 538 de fecha 30 de abril de 2010, se expropió el lote de terreno N° 1, superficie 3.024,00 m2, rol N° 1119-21, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud" Región de Los Lagos y se acordó el valor de la indemnización con su propietario MARIA LUISA VILLARROEL RUIZ, ascendente a la cantidad de $119.652.684.-
+
+Fiscal del Ministerio de Obras Públicas.
