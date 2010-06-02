@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 625, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 155, superficie 2.596 m2, Rol Nº 555-309, comuna de Saavedra, IX Región para la obra "Mejoramiento Ruta S-46, sector Carahue Puerto Domínguez, tramo Km. 0,00000 al Km. 25,59838, Subtramo III Km. 16,04700 al Km. 25,59838, provincia de Cautín, Comunas de Carahue y Saavedra, Región de La Araucanía.", y se acordó el valor de indemnización con su propietaria MORELIA INÉS LEVIPIL COÑA Y OTROS, ascendente a la cantidad de $1.530.957.-
+
+Fiscal del Ministerio de Obras Públicas.
