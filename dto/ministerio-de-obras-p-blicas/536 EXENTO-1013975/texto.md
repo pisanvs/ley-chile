@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 536, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 25, superficie 224 m2, Rol Nº 971-2, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I.", y se acordó el valor de indemnización con su propietario ALDO NICOLAS PÁEZ PÁEZ Y OTROS, ascendente a la cantidad de $669.284.-
+
+Fiscal del Ministerio de Obras Públicas.
