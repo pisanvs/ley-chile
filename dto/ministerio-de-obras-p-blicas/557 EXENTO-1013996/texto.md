@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 557 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 9, superficie 220,99 m2, Rol Nº En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario JOSE ENRIQUE REINAHUEL TORRES, ascendente a la cantidad de $17.451.484.- para el lote Nº9.
+
+Fiscal del Ministerio de Obras Públicas.
