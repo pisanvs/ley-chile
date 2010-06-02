@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 586 de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 53-A, 53-C, 53-D, 53-E, 53-F, 53-G y 53-H, superficies 2, 21, 33, 61, 96, 117 y 115 m², Rol Nº 169-43, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región, y se acordó el valor de indemnización con su propietaria MARÍA SILVIA AGURTO LATORRE, ascendente a la cantidad de $3.786.500.-
+
+Fiscal del Ministerio de Obras Públicas.
