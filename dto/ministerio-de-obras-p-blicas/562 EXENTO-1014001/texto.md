@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 562 de 30 de abril del 2010, se expropiaron los lotes de terreno Nºs. 10-B y 10-C, superficies 89 y 85 m2., Rol Nº 239-58, comuna de Villa Alegre, VII Región para la obra "CAMINO RUTA L-202, SECTOR: VILLA ALEGRE PUTAGAN, TRAMO KM. 0,00000 A KM. 11,44287, COMUNA DE VILLA ALEGRE, PROVINCIA DE LINARES VII REGION", y se acordó el valor de indemnización con su propietario LUIS ALBERTO CASTRO AGURTO, ascendente a la cantidad de $735.090.-
+
+Fiscal del Ministerio de Obras Públicas.
