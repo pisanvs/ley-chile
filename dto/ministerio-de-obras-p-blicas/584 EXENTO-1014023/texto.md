@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 584, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 7 y 8, superficie 30 y 5.185 m2 respectivamente, Rol Nº 903-44, comuna de Alto del Carmen, III Región para la obra "Reposición Puente Malaguin y Otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Conay)", y se acordó el valor de indemnización con su propietario GUILLERMO SEGUNDO SALAZAR CORTES, ascendente a la cantidad de $4.549.331.-
+
+Fiscal del Ministerio de Obras Públicas.
