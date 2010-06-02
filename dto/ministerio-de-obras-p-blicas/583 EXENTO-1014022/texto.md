@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 583 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 15, superficie 1.275,52 m2, rol Nº 5074-232, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas Fuerte Bulnes, Sector Rio Amarillo Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y La Antártica Chilena" y se acordó el valor de la indemnización con su propietario RAÚL ÁLVAREZ GUTIÉRREZ, ascendente a la cantidad de $3.712.275.-
+
+Fiscal del Ministerio de Obras Públicas.
