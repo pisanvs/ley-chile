@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 545, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 18, superficie 540 m2, Rol Nº 2526-13, comuna de Monte Patria, IV Región para la obra "Reposición Ruta D-55, Combarbalá - Monte Patria - Ovalle.", y se acordó el valor de indemnización con su propietaria NOLVIA ELVIRA CISTERNAS ROJAS, ascendente a la cantidad de $57.332.614.-
+
+Fiscal del Ministerio de Obras Públicas.
