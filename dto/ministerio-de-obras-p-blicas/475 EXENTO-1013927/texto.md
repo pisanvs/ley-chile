@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 475 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 16, superficie 331 m2, Rol Nº 217-143, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta L-25, S: CR. Ruta L-11 - CR. Ruta L-19, (Esperanza), Km. 0,00000 a Km. 11,28600", y se acordó el valor de indemnización con su propietario UBERLINDO SEGUNDO ORELLANA ALCANTAR ascendente a la cantidad de $1.012.180.-
+
+Fiscal del Ministerio de Obras Públicas.
