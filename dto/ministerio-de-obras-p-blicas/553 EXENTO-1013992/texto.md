@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 553 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 17, superficie 303,51 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietaria CECILIA MARISOL CALISTO SANTANA, ascendente a la cantidad de $26.992.716.- para el lote Nº17.
+
+Fiscal del Ministerio de Obras Públicas.
