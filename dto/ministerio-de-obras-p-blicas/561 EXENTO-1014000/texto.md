@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 561 de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs. 1 y 3, superficies 313 y 124 m2, Rol Nº 209-355, comuna de Los Alamos, VIII Región para la obra "Reposición 9 Puentes Menores Emergencia año 2006, VIII Región, Sector Puentes Licauquen 1 y 2", y se acordó el valor de indemnización con su propietario FERNANDO ESTEBAN INZUNZA SUAZO, ascendente a la cantidad de $357.200- para los lotes Nºs. 1 y 3.
+
+Fiscal del Ministerio de Obras Públicas.
