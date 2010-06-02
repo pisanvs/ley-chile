@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 579, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 96-A y 103, superficies 3.001 y 645 m2, Rol Nº 170-652 (lote Nº 96-A), y Rol Nº 170-6 (lote Nº 103), comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario JUAN CANDELARIO VARGAS AGURTO Y OTROS , ascendente a la cantidad de $4.725.500.-
+
+Fiscal del Ministerio de Obras Públicas.
