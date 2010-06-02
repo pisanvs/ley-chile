@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 580 de fecha 30 de abril del 2010, se expropió los lotes de terreno Nºs. 71 y 72, superficies 3.135 y 1.436 m2, Rol Nº 213-145, comuna de La Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata" Región del Bío Bío", y se acordó el valor de indemnización con su propietario MARIO REGULO PALMA NUÑEZ, ascendente a la cantidad de $4.080.635.- para los lotes Nºs. 71 y 72.
+
+Fiscal del Ministerio de Obras Públicas.
