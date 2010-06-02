@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 559, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 1-A, superficie 1.562 m2, Rol Nº 136-32, comuna de Paine, Región Metropolitana para la obra "Reposición Puente Rincón de Paine en Ruta G-505, Comuna de Paine.", y se acordó el valor de indemnización con su propietaria CARMEN ROSA ESPINOZA GALAZ Y OTROS, ascendente a la cantidad de $29.659.792.-
+
+Fiscal del Ministerio de Obras Públicas.
