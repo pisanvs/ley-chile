@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 599, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 73-B y 73-D, superficie 359 y 151,29 m2 respectivamente, Rol Nº 45-8, comuna de Petorca, VIII Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500, Comuna y Provincia de Petorca, V Región.", y se acordó el valor de indemnización con su propietaria ANA LUISA VILLALOBOS CORTÉS , ascendente a la cantidad de $17.259.151.-
+
+Fiscal del Ministerio de Obras Públicas.
