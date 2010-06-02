@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 612, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 89-A y 90-A, superficie 371 y 634 m2 respectivamente, Rol Nº 170-285, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietaria GUADALUPE DEL CARMEN MOYA ARRATIA, ascendente a la cantidad de $2.128.900.-
+
+Fiscal del Ministerio de Obras Públicas.
