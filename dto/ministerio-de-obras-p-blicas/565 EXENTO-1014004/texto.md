@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 565 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 23, superficie 353 m2, rol Nº 26-16, comuna de Rio Hurtado, para la obra "Conservación Camino 64E763 San Pedro Bosque Petrificado de Pichasca" y se acordó el valor de la indemnización con su propietario NERY PETRONILA DE LA RIVERA DE LA RIVERA, ascendente a la cantidad de $461.473.-
+
+Fiscal del Ministerio de Obras Públicas.
