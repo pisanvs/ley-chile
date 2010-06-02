@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 620 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 23-A, superficie 1.567 m2, Rol Nº228-97, comuna de Toltén, X Región de Los Lagos para la obra "Mejoramiento Ruta Rol T-270, Sector Mehuin Limite Regional IX Región, Km. 0,00000 al Km. 4,64602", y se acordó el valor de indemnización con su propietario JUAN BENITO HUALME PULQUILLANCA, ascendente a la cantidad de $3.159.808.- para el lote Nº23-A.
+
+Fiscal del Ministerio de Obras Públicas.
