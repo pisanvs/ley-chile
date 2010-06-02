@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 608 de fecha 30 de abril de 2010, se expropiaron los lotes de terreno Nºs 11, 12 y 13, superficies 156,00, 40,62 y 759,74 m2 respectivamente, rol Nº 5074-234, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas Fuerte Bulnes, Sector Rio Amarillo Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y La Antártica Chilena" y se acordó el valor de la indemnización con su propietario MARCELO ALEJANDRO CASTRO WEISSER, ascendente a la cantidad de $1.165.924.-
+
+Fiscal del Ministerio de Obras Públicas.
