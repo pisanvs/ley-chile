@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 574 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 55-A, superficie 1.305,00 m2, Rol Nº 1118-52, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario ERICO NIBALDO AMPUERO BARRIA, ascendente a la cantidad de $9.479.858.- para el lote Nº55-A.
+
+Fiscal del Ministerio de Obras Públicas.
