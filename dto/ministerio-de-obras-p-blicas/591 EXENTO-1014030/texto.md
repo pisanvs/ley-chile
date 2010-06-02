@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 591 de fecha 30 de abril de 2010, se expropiaron los lotes de terreno Nºs 193 y 194, superficies 3.187 y 3.517 m2 respectivamente, rol Nº 178-5, comuna de Arauco, para la obra "Camino Ruta P-40, Sector Arauco Quiapo, Km. 15,96000 al Km. 31,00000, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario ANDREA PATRICIA GONZÁLEZ GARCIA Y OTRO, ascendente a la cantidad de $3.728.788.-
+
+Fiscal del Ministerio de Obras Públicas.
