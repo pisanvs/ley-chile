@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 682, de fecha 20 de mayo del 2010, se modificó el Decreto (Exento) MOP. N° 755, de fecha 13 de octubre del 2008 y Decreto (Exento) MOP. N° 541, de fecha 31 de marzo del 2009, en cuanto a que la imputación presupuestaria para el pago de la indemnización acordada para la expropiación del lote Nº 76, es 08 31 02 003, sub asignación 29000276-0, y no como se indico en los mencionados Decretos.-
+
+Fiscal del Ministerio de Obras Públicas.
