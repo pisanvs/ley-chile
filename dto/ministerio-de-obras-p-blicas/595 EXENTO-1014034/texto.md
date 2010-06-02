@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 595 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 18, superficie 780 m2, Rol Nº 30-283, comuna de Placilla, para la obra "Camino: Ampliación Reposición Ruta I-50, Sector San Fernando Cruce Ruta I-860, Tramo Km: 0,00000 al Km: 35,78646" y se acordó el valor de la indemnización con su propietario CRISTINA DEL CARMEN TONDREAU POBLETE, ascendente a la cantidad de $12.845.235.-
+
+Fiscal del Ministerio de Obras Públicas.
