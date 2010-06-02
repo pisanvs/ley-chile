@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 541 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 10, superficie 252,88 m2, Rol En Trámite, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario JOSE ROBERTINO COMICHEO HERRERA, ascendente a la cantidad de $30.854.524.- para el lote Nº10.
+
+Fiscal del Ministerio de Obras Públicas.
