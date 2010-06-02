@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº 602 de fecha 30 de abril de 2010, se expropió el lote de terreno Nº 3-B, superficie 213,03 m², Rol en Trámite, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, tramo 8 Variante Ancud", Región de Los Lagos y se acordó el valor de la indemnización con su propietario LUIS ONOFRE OYARZO MANSILLA, ascendente a la cantidad de $18.937.345.-
+
+Fiscal del Ministerio de Obras Públicas.
