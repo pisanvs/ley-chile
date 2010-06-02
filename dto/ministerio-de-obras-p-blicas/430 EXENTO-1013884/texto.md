@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº 430 de fecha 30 de abril del 2010, se modificó el Decreto (Exento) MOP Nº 2.157 de 30 de noviembre de 2009, en cuanto a que la imputación presupuestaria para el pago de la indemnización acordada para la expropiación de los lotes Nºs. 1-11 y 1-13, es 08 31 02 003, Sub Asignación 29000236-0, y no como se indicó en el mencionado Decreto.
+
+Fiscal del Ministerio de Obras Públicas.
