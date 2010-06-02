@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 548, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 6, superficie 49 m2, Rol Nº 1324-10, comuna de Valdivia, XIV Región para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831 tramo Nº 1.", y se acordó el valor de indemnización con su propietario JOSE RAÚL OCHOA BARRIENTOS, ascendente a la cantidad de $37.178.834.-
+
+Fiscal del Ministerio de Obras Públicas.
