@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 539 de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 20, superficie 744,62 m², Rol Nº 333-18, comuna de Penco, VIII Región del Bío Bío para la obra "Reposición y Ampliación Ruta 150, Sector Lirquén - Quebrada Honda, Provincia de Concepción", y se acordó el valor de indemnización con su propietaria JULIA MERCEDES RAMÍREZ MENDOZA, ascendente a la cantidad de $64.768.114.- para el lote Nº 20.
+
+Fiscal del Ministerio de Obras Públicas.
