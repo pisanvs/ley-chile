@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 497, de 30 de abril de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nºs 1 , para la obra "Camino Puelo Paso El Bolsón, sector Llanada Grande Segundo Corral, tramo Acceso a Valle Ventisquero", Provincia de Llanquihue, Xª Región, comuna de COCHAMO, que figura a nombre de DELGADO ANDRADE MODESTO, rol de avalúo 158-64, superficie 28.500 M2. La Comisión de Peritos, fijó con fecha 20 de marzo de 2007, en la cantidad de $9.125.000. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
