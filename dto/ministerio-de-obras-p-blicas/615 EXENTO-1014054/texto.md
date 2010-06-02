@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 615, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 2, superficie 101 m2, Rol de Avalúo en trámite, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal El Retamo.", y se acordó el valor de indemnización con su propietaria ILUSTRE MUNICIPALIDAD DE ALTO DEL CARMEN, ascendente a la cantidad de $903.000.-
+
+Fiscal del Ministerio de Obras Públicas.
