@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 617, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 5, superficie 312 m2, Rol Nº 922-19, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II.", y se acordó el valor de indemnización con su propietaria LAURA ELVIRA ZARRICUETA PAREDES Y OTROS, ascendente a la cantidad de $991.627.-
+
+Fiscal del Ministerio de Obras Públicas.
