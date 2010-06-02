@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 613, de fecha 30 de abril del 2010, se expropió el lote de terreno Nº 9, superficie 473 m2, Rol Nº 976-4, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I.", y se acordó el valor de indemnización con su propietario ANTONIO DE JESÚS CABALLERO CORTES, ascendente a la cantidad de $3.613.904.-
+
+Fiscal del Ministerio de Obras Públicas.
