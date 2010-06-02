@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº 618, de fecha 30 de abril del 2010, se expropiaron los lotes de terreno Nºs 13 y 15, superficie 29 y 276 m2 respectivamente, Rol Nº 906-65, comuna de Alto del Carmen, III Región para la obra "Reposición Puente Malaguin y Otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Conay)", y se acordó el valor de indemnización con su propietario AQUILES CLAUDIO TAPIA, ascendente a la cantidad de $7.009.898.-
+
+Fiscal del Ministerio de Obras Públicas.
