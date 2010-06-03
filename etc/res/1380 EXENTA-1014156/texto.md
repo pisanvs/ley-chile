@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.380 EXENTA, DE 2010
+
+Por resolución exenta Nº 1.380, de fecha 25 de mayo de 2010, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Escuela de Conductores Escobar y Pulgar Limitada" o "Nuevo Bicentenario", RUT Nº 76.078.318-8, representada legalmente por los señores Kristofer Edwin Escobar Venegas, RUT Nº 13.689.175-8, quien además es su director, y Miguel Alejandro Pulgar Sáez, RUT Nº 10.863.092-2, la que tendrá su lugar de funcionamiento en el local ubicado en Los Quillayes Nº 24, comuna de La Florida.-
+
+Raimundo Cruzat Correa, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
