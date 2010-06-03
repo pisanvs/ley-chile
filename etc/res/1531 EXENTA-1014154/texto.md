@@ -1,0 +1,5 @@
+Por resolución exenta Nº1.531 de 6 de mayo de 2010 de esta Subsecretaría, modifícase el numeral 5 Ter de la resolución exenta Nº 924, modificada mediante resoluciones exentas Nº 1030, Nº 1082, Nº 1131 y Nº 1133, todas de 2010, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel en la III Región, temporada 2010", en el sentido de incrementar la cuota autorizada en 1.300 toneladas las cuales serán imputadas a la fracción reservada para fines de investigación de la cuota global anual de Jurel.
+
+Los excesos en que se incurra, respecto de la cuota autorizada en virtud del presente numeral, se imputarán a la cuota global anual de captura del recurso Jurel asignada a la III Región para el período noviembre-diciembre de 2010.
+
+Valparaíso, 6 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
