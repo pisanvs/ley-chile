@@ -6,17 +6,11 @@ R e s u e l v o:
 
 1º Fíjase conforme al siguiente calendario la antigüedad máxima de los buses, según su año de modelo, para prestar servicios urbanos en la ciudad de Villarrica:
 
-Año Modelo Fecha de Retiro
+Año de modelo Fecha de retiro
 
-1980 -1985 El 31 de Diciembre del año en que el
+1990 y siguientes El 31 de mayo, del año en que el bus
 
-bus cumpla 22 años de antigüedad
-
-1986 y 1987 El 31 de Diciembre del año 2007
-
-1988 y siguientes El 31 de Mayo del año en que el bus
-
-cumpla 20 años de antigüedad
+cumpla 21 años de antigüedad.
 
 2º A contar del 1º de Febrero del año 2003, sólo podrán incorporarse al Registro Nacional de Servicios de Transporte Público de pasajeros de la IX Región, para prestar servicios de locomoción colectiva en la ciudad indicada en el Numeral 1º, buses de una antigüedad no superior a 10 años a la fecha en que se solicite su inscripción.
 
