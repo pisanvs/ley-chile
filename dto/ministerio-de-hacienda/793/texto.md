@@ -62,17 +62,21 @@ j) $551.700.000.- (quinientos cincuenta y un millones setecientos mil pesos), pa
 
 k) $39.170.700.000.- (treinta y nueve mil ciento setenta millones setecientos mil pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de créditos que los intermediarios financieros, otorguen a las empresas privadas (personas jurídicas y personas naturales con giro), destinados al financiamiento de largo plazo para los proyectos de inversión, en Energías Renovables No Convencionales (ERNC). Entendiendo a las Energías Renovables No Convencionales como las obtenidas de fuentes naturales, inagotables a escala humana, no fósiles, o con capacidad de regenerarse.
 
-Lo dispuesto en los artículos 1º, 2º, 3º, 4º, 5º y 6º del presente decreto, será aplicable a cada uno de los instrumentos especiales de cobertura, señalados en las letras a), b), c), d), e), f), g), h), i),
+l) $62.048.400.000 (sesenta y dos mil cuarenta y ocho millones cuatrocientos mil pesos), para coberturas contingentes destinados al desarrollo de alternativas de créditos que los intermediarios financieros otorguen a las empresas privadas (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y servicios, con ventas hasta UF 100.000 al año, excluido el IVA, que puedan constatar daños causados por el terremoto ocurrido con fecha 27 de febrero de 2010, orientados a reparación o reposición de activos fijos, capital de trabajo y reprogramación de pasivos. Dichas empresas deberán estar localizadas en las Regiones de Valparaíso, Metropolitana, del Libertador General Bernardo O'Higgins, del Maule, del Bío Bío, y de la Araucanía de la República de Chile.
 
-- **j)** y
+Lo dispuesto en los artículos 1º, 2º, 3º, 4º, 5º y 6º del presente decreto, será aplicable a cada uno de los instrumentos especiales de cobertura, señalados en las letras a), b), c), d), e), f), g), h), i), j),
 
-- **k)** precedentes, cuyas operaciones serán llevadas en cuenta o registro financiero, separado e independiente. Sin embargo, el número de veces a que se refiere el citado artículo 1º, no será aplicable respecto de los instrumentos especiales de cobertura señalados en las letras
+- **k)** y
+
+- **l)** precedentes, cuyas operaciones serán llevadas en cuenta o registro financiero, separado e independiente. Sin embargo, el número de veces a que se refiere el citado artículo 1º, no será aplicable respecto de los instrumentos especiales de cobertura señalados en las letras
 
 - **b)** y
 
 - **c)** precedentes.
 
 Por las obligaciones que contraiga la Corporación de Fomento de la Producción en virtud de la aplicación del presente artículo, sólo responderá hasta el monto de los recursos que considere la contabilidad de cada instrumento. Asimismo, cada uno de dichos instrumentos incrementará sus recursos separadamente, de conformidad al artículo 3º, sin perjuicio de las transferencias presupuestarias que puedan recibir.
+
+> **Nota.** El Nº 1 del artículo único del Decreto 455, Hacienda, publicado el 02-06-2010, modificó el presente artículo en el sentido de intercalar una letra I), nueva, en el inciso primero. Sin embargo, en este texto actualizado se agregó en una nueva letra l), en consideración a que el Nº 2 del referido Decreto 455, dispone en el inciso segundo el reemplazo de la referencia a las letras "a), b), c), d), e), f), g), h), i), j) y k)" por las siguientes: "a), b), c), d), e), f), g), h), i), j), k) y l)".
 
 #### Artículo 8º
 
