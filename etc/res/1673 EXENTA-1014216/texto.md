@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.673, de 28 de mayo de 2010, de esta Subsecretaría, declárase iniciado procedimiento de invalidación postulaciones cargo Consejo Zonal de Pesca de la V, VI, VII, VIII y IX Regiones e Islas Oceánicas cargo tripulantes de naves especiales periodo 2010-2014, cuyo informe de cómputos fue aprobado mediante resolución exenta Nº 677 de fecha 4 de febrero de 2010 de esta Subsecretaría de Pesca.
+
+Notifíquese por carta certificada a la FEDERACIÓN DE TRABAJADORES PESQUEROS Y RAMOS AFINES DE LA ZONA CENTRO SUR DE CHILE "FETRAPES" y al Sindicato de Trabajadores Tripulantes de Naves Sardineras de la Provincia de para efectos de que en el plazo de 8 días hábiles formulen las alegaciones que consideren procedentes en defensa de sus intereses en relación con el presente proceso de invalidación, todo ello de conformidad con lo dispuesto en los artículos 25, 46 y 55 de la ley Nº 19.880.
+
+Valparaíso, 28 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
