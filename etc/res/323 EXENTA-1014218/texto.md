@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE COMPAÑÍA DE SEGUROS DE VIDA CRUZ DEL SUR S.A.
+
+Certifico: Que por resolución exenta Nº 323, de fecha 28 de mayo de 2010, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos, de la sociedad anónima Compañía de Seguros de Vida Cruz del Sur S.A. acordada en junta extraordinaria de accionistas celebrada el 7 de enero de 2010 y reducida a escritura pública con fecha 14 de enero de 2010, la cual fue complementada por escritura pública de fecha 6 de mayo de 2010, ambas otorgadas en la Notaría de Santiago de don Félix Jara Cadot, domiciliado en Huérfanos 1160, locales 11 y 12, Santiago, de acuerdo a lo observado mediante oficios Nros. 3066, 3998 y 6309, todos de 2010.
+
+La reforma consiste en aumentar el capital social de $52.503.333.889 pesos dividido en 2.548.035 acciones nominativas, sin valor nominal, el cual se encuentra pagado, a $87.503.341.041 pesos dividido en 4.753.934 acciones nominativas sin valor nominal. El aumento de capital de $35.000.007.152 pesos dividido en 2.205.899 acciones, deberá ser pagado dentro del plazo de tres años contado desde la fecha de la junta. Se modifican artículos cuarto y primero transitorio de los estatutos.
+
+Santiago, 28 de mayo de 2010.- Carmen Undurraga Martínez, Secretario General.
