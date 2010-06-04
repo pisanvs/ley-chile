@@ -30,14 +30,4 @@ b) Corvina (Cilus gilberti): 60 centímetros de longitud total.
 
 5.- La medida relativa al tamaño mínimo de extracción para el recurso Corvina comenzará a regir en el plazo de 2 años contados desde la publicación de la presente resolución en el Diario Oficial, esto es, a partir del día 30 de abril del año 2012.
 
-> **Nota.** La Resolución 1145 Exenta, Economía, publicada el 30.04.2012, prorroga por el término de 1 año, a contar del 30 de abril de 2012, la entrada en vigencia del tamaño mínimo de extracción de la especie Corvina en todas las aguas de jurisdicción nacional, establecidaen la presente norma.
-
-> **Nota.** NOTA 1 La Resolución 1117 Exenta, Economía, publicada el 09.05.2013, prorroga por el término de 1 año, a contar del 30 de abril de 2013, la entrada en vigencia del tamaño mínimo de extracción de la especie Corvina en todas las aguas de jurisdicción nacional, establecida en la presente norma.
-
-> **Nota.** NOTA 2 La Resolución 1071 Exenta, Economía, publicada el 07.05.2014, prorroga por el término de 1 año, a contar del 30 de abril de 2014, la entrada en vigencia del tamaño mínimo de extracción de la especie Corvina en todas las aguas de jurisdicción nacional.
-
-> **Nota.** NOTA 3 La Resolución 2058 Exenta, Economía, publicada el 11.08.2015, modifica la presente norma en el sentido de dejar sin efecto lo relativo al establecimiento del tamaño mínimo de extracción de la especie Corvina en el área marítima comprendida entre el límite norte de la XV Región y el límite sur de la XII Región.
-
-> **Nota.** NOTA 4 La Resolución 3044 Exenta, Economía, publicada el 26.09.2019, modifica la presente norma en el sentido de dejar sin efecto el numeral 1° letra a) de la presente norma en lo relativo al establecimiento del tamaño mínimo de extracción del recurso Lenguado de ojos grandes, Hippoglossina macrops, en el área marítima comprendida entre el límite norte de la Región de Arica y Parinacota y el límite sur de la Región de Magallanes y la Antártica Chilena.
-
 Anótese, comuníquese y publíquese por cuenta de esta Subsecretaría.- Pablo Galilea Carrillo, Subsecretario de Pesca.
