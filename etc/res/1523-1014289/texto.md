@@ -1,0 +1,3 @@
+Por resolución Nº 1.523, de 6 de mayo de 2010, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 977, de 2010, de esta Subsecretaría, que autorizó a la CORPORACIÓN EDUCACIONAL UNIVERSIDAD DEL MAR para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de Jurel (Trachurus murphyi), en la V Región 2010", en el sentido de modificar el fraccionamiento temporal de la cuota autorizada a extraer en el marco de la presente pesca de investigación, asignando la cuota de 500 toneladas del recurso Jurel para el período enero-diciembre de 2010.
+
+Valparaíso, 6 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
