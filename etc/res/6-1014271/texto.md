@@ -1,0 +1,3 @@
+DEJA SIN EFECTO DESIGNACIÓN DE SECRETARIA TITULAR EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE SANTIAGO
+
+Por resolución SII Nº 6 de 22 de febrero de 2010, se dejó sin efecto la designación recaída en la funcionaria Ximena Barrientos Agurto, RUT Nº 6.237.528-0, como Secretaria Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago.
