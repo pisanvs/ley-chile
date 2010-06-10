@@ -12,6 +12,10 @@ Concédese, por una sola vez, un bono extraordinario a los beneficiarios de subs
 
 En las situaciones previstas en los incisos segundo y tercero del artículo 7° del citado decreto con fuerza de ley Nº150, el beneficiario que perciba el bono a que se refiere el inciso anterior estará obligado, en un plazo máximo de 30 días contado desde que lo reciba, a entregarlo a quien al 31 de diciembre de 2009 se encuentre recibiendo el pago efectivo de las respectivas asignaciones. Igual obligación tendrá respecto de quien tenga derecho a alimentos decretados judicialmente a favor de los causantes de asignación familiar que den origen al bono a que se refiere este artículo.
 
+Las controversias que se susciten con ocasión del incumplimiento de las obligaciones establecidas en el inciso anterior serán conocidas por los Tribunales de Familia, los que para estos efectos podrán exigir la entrega del monto total del bono, reajustado de conformidad a la variación que experimente el índice de precios al consumidor determinado por el Instituto Nacional de Estadísticas, entre el mes anterior a aquél en que se percibió y el que antecede a su restitución a quien corresponda, de conformidad al inciso precedente.
+
+La solicitud de devolución del bono deberá ser presentada por escrito ante el tribunal de familia competente, la que se tramitará y resolverá de conformidad a lo dispuesto en el inciso segundo del artículo 26 de la ley Nº 19.968.
+
 Igualmente, tendrán derecho a un bono de $40.000 por familia, ya sea que ésta esté compuesta por una o más personas, aquellas que al 31 de diciembre de 2009 estén registradas en el Sistema de Protección Social "Chile Solidario", conforme a los registros que al efecto mantiene el Ministerio de Planificación, y que no se encuentren en el supuesto del articulo 7° de la ley N° 19.949, las que en cuanto al monto del bono, se regirán por el inciso primero.
 
 El referido bono no constituirá remuneración ni renta para ningún efecto legal y, en consecuencia, no será imponible ni tributable y no estará afecto a descuento alguno.
