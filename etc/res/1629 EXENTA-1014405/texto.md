@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.629, de 19 de mayo de 2010, de esta Subsecretaría, autorízase a INDUSTRIAL MAULE LIMITADA, para iniciar actividades pesqueras de transformación, instalar y operar planta en Avenida Forestal Nº 1100, Parque Industrial Coronel, Coronel, VIII Región, para elaborar en línea de Aceite, los recursos indicados en la resolución extractada.
+
+Valparaíso, 19 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
