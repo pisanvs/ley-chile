@@ -18,7 +18,7 @@ Los recursos del préstamo estarán destinados a financiar programas, proyectos 
 
 Las condiciones financieras del préstamo serán las siguientes:
 
-Plazo Total : Hasta el 31 de diciembre de 2009
+Plazo Total : Hasta el 31 de diciembre de 2010.
 
 Monto : CRS$30.000.000.
 
