@@ -28,7 +28,7 @@ Las etiquetas de sus envases no podrán contener expresiones propias de tipos o 
 
 5.- Coctel: Bebida alcohólica obtenida por la mezcla de uno o más destilados, licores o bebidas alcohólicas fermentadas a las que se les puede adicionar productos analcohólicos.
 
-6.- Cognac, Armagnac y Brandy: Son aguardientes envejecidos, en vasijas de madera noble, coloreados o no con caramelo natural y edulcorados o no con azúcares.
+6.- Brandy: Es el aguardiente envejecido, en vasija de madera noble, coloreado o no con caramelo natural y edulcorado o no con azúcares.
 
 7.- Chicha Cruda: Es la bebida obtenida del mosto de uva fresca o asoleada de la especie Vitis vinífera, que se halla en proceso de fermentación. Cuando se la obtiene de mosto cocido se denomina Chicha cocida.
 
@@ -54,7 +54,7 @@ d) El peso de cualquier otra materia extraña que haya sido agregada al vino.
 
 14.- Graduación alcohólica total: Es la suma de las graduaciones alcohólicas potencial y real.
 
-15.- Grapa: Es la bebida alcohólica proveniente de la destilación de borras y orujos, de productos de vides híbridas o de vinos alterados.
+15.- Bebida Espirituosa de Orujo: Es la bebida alcohólica proveniente de la destilación de borras y orujos, de productos de vides híbridas o de vinos alterados.
 
 16.- Interesado: Los productores, envasadores, elaboradores, fabricantes, importadores, exportadores, comerciantes, y en general, cualquier persona natural o jurídica que desarrolle una o más de las actividades señaladas en el inciso primero del artículo 1° de la Ley.
 
@@ -135,6 +135,10 @@ Cuando provenga de otra especie deberá nominarse sidra acompañada del nombre d
 Se permite el reemplazo de la leche de origen animal por otras leches o cremas de origen vegetal, pero en tal caso la rotulación deberá indicar el componente empleado como sucedáneo.
 
 52.- Sangría: Es la bebida elaborada con vino, aromatizada por la adición de extractos o esencias naturales de cítricos, con o sin jugos de estas frutas, y eventualmente, edulcorada con azúcares, con adición de especias y agregación de anhídrido carbónico.
+
+53.- Cerveza Especial: Es la bebida alcohólica elaborada sobre la base de cerveza a lo menos en un 65% como materia prima predominante, adición de productos y extractos naturales o artificiales idénticos a los naturales, permitiéndose el uso de miel, frutos, zumos de fruta y especies. Se prohíbe la adición de productos estimulantes, energizantes o alucinógenos.
+
+54.- Ron: Es el destilado proveniente de un alcohol etílico potable, que puede o no someterse a proceso de envejecimiento en vasijas de madera, pudiendo ser coloreado exclusivamente con caramelo natural.
 
 > **Nota.** EL ARTICULO TRANSITORIO del Decreto 103, Agricultura, publicado el 30.09.1987, dispuso que las modificaciones introducidas al presente decreto regirán vencido el plazo de 6 meses a contar de su publicación.
 
@@ -388,7 +392,7 @@ El ácido cianhídrico se permite sólo en alcoholes y bebidas no fermentadas ma
 
 INCISO CUARTO DEROGADO
 
-Los alcoholes provenientes de uvas y de sus subproductos que se destinen a la elaboración de aguardientes y grapa, respectivamente, deberán contener un mínimo de 1,500 gramos por litro de impurezas volátiles totales a 100 grados Gay Lussac y deberán estar presentes en su totalidad en proporción tal que sea susceptible cuantificar cada una de ellas.
+Los alcoholes provenientes de uvas y de sus subproductos que se destinen a la elaboración de aguardientes y bebida espirituosa de orujo, respectivamente, deberán contener un mínimo de 1,500 gramos por litro de impurezas volátiles totales a 100 grados Gay Lussac y deberán estar presentes en su totalidad en proporción tal que sea susceptible cuantificar cada una de ellas.
 
 #### Artículo 11°
 
@@ -412,11 +416,11 @@ d) DEROGADA
 
 INCISO SEGUNDO DEROGADO
 
-El aguardiente y la grapa deberán contener un mínimo de impurezas volátiles totales de 1,500 gramos por litro y un máximo de 5 gramos por litro de azúcares. Los aguardientes de frutas podrán tener hasta un máximo de 20 gramos de azúcares por litro.
+El aguardiente y la bebida espirituosa de orujo deberán contener un mínimo de impurezas volátiles totales de 1,500 gramos por litro y un máximo de 5 gramos por litro de azúcares. Los aguardientes de frutas podrán tener hasta un máximo de 20 gramos de azúcares por litro.
 
-Las impurezas volátiles totales mínimas para coñac, armañac y brandy serán de 2,000 gramos por litro y un máximo de 20 gramos de azúcares por litro. El whisky deberá contener como mínimo 1,500 gramos por litro de impurezas volátiles totales.
+Las impurezas volátiles totales mínimas para brandy serán de 2,000 gramos por litro y un máximo de 20 gramos de azúcares por litro. El whisky deberá contener como mínimo 1,500 gramos por litro de impurezas volátiles totales.
 
-Tanto en el aguardiente y la grapa como en el coñac, armañac y brandy, los alcoholes superiores deberán estar representados a lo menos por los alcoholes propílico, isobutílico, isoamílico y amílico activo, simultáneamente.
+Tanto en el aguardiente y la bebida espirituosa de orujo como en el brandy, los alcoholes superiores deberán estar representados a lo menos por los alcoholes propílico, isobutílico, isoamílico y amílico activo, simultáneamente.
 
 Las bebidas preparadas a base de destilados sujetos a un contenido mínimo o máximo de impurezas volátiles, deberán contenerlas, en la misma proporción que el destilado utilizado. Asimismo, deberán cumplir con la presencia de los alcoholes superiores cuando corresponda.
 
@@ -426,11 +430,11 @@ Clasifícanse, según su composición genérica, los destilados y licores que a 
 
 Grupo 1: Destilados
 
-a) Graduación mínima 30°: Aguardiente, Aguardiente de frutas, Grapa, y otros destilados no incluidos específicamente en este grupo.
+a) Graduación mínima 30°: Aguardiente, Aguardiente de frutas, bebida espirituosa de orujo, y otros destilados no incluidos específicamente en este grupo.
 
 b) Graduación mínima 36°: Brandy.
 
-c) Graduación mínima 37,5°: Coñac, Armañac, Ron, Destilados de Agave, Gin y Vodka.
+c) Graduación mínima 37,5°: Ron, Destilados de Agave, Gin y Vodka.
 
 d) Graduación mínima 40°: Whisky.
 
@@ -514,21 +518,45 @@ e) Vino cosecha tardía o late harvest: el vino obtenido de uvas sobremaduras co
 
 #### Artículo 20°
 
+Vino Espumante o Espumoso es el vino que termina su elaboración en envase cerrado y cuyo contenido de anhídrido carbónico se ha desarrollado naturalmente en su seno por una segunda fermentación en base a azúcares, y cuya presión no puede ser inferior a 3 atmósferas a 20 grados Celsius de temperatura. En su elaboración están autorizadas las prácticas de los métodos de fermentación en botella y "Charmat" o cuba cerrada, adicionando en ambos casos el licor de expedición en base a azúcar, vino y aguardiente o brandy.
+
 Según su contenido en azúcares, los vinos espumantes o vinos espumosos se clasifican en:
 
-Nature : Hasta 5 gramos por litro
+. "Brut Nature", si su contenido en azúcar es
 
-Brut o Seco : Hasta 15 gramos por litro
+inferior a 3 gramos por litro, mención únicamente
 
-Demi Sec o
+que podrá usarse en vino espumoso al cual no se le
 
-Demiseco : Hasta 40 gramos por litro
+añade azúcar después del degüello.
 
-Doux o Dulce : Más de 40 gramos por litro
+. "Extra Brut", si su contenido en azúcar está
 
-Todos los vinos señalados en el inciso anterior, deberán terminar su elaboración en envases cerrados, cuyo contenido de anhídrido carbónico se haya desarrollado naturalmente en su seno por una segunda fermentación en base a azúcares, y su presión no podrá ser inferior a 3 atmósferas a 20 grados Celsius de temperatura. En la elaboración de los mismos estará autorizada la utilización de las prácticas de los métodos "de fermentación en botella" y "Charmat" o cuba cerrada, y la adición de licor de expedición en base a azúcar, vino y aguardiente o coñac.
+comprendido entre 0 y 6 gramos por litro.
 
-A todas las bebidas fermentadas que contengan a lo menos 30 gramos por litro de azúcares totales, se les permitirá un máximo de 400 miligramos de anhídrido sulfuroso total por litro y 100 miligramos al estado libre, y tratándose de sulfatos, 4 gramos por litro expresados en sulfato de potasio.
+. "Brut", si su contenido es inferior a 12 gramos
+
+por litro.
+
+. "Sec, Seco o Dry", si su contenido de azúcar se
+
+sitúa entre 12 y 21 gramos por litro.
+
+. "Demi sec, Semi seco o Médium Dry", si su
+
+contenido de azúcar se sitúa sobre 21 y hasta 50
+
+gramos de azúcar.
+
+. "Doux o Dulce", si su contenido en azúcar es
+
+superior a 50 gramos por litro.
+
+En la etiqueta de estos vinos no podrá usarse más de una de las clasificaciones señaladas precedentemente, aceptándose una tolerancia analítica de a lo más de 3 gramos por litro, superior o inferior, al contenido de azúcar correspondiente a la clasificación seleccionada.
+
+Estos vinos podrán señalar en su etiqueta los términos "Blanc de Blancs", siempre que hayan sido elaborados exclusivamente con variedades de uvas blancas, y "Blanc de Noirs", cuando hayan sido elaborados exclusivamente con variedades de uvas tintas.
+
+Todas las bebidas fermentadas que contengan a lo menos 30 gramos por litro de azúcares totales, se les permitirá un máximo de 400 miligramos de anhídrido sulfuroso total por litro y 100 miligramos al estado libre, y tratándose de sulfatos, 4 gramos por litro expresados en sulfato de potasio.
 
 #### Artículo 21°
 
@@ -718,7 +746,9 @@ b) Los productos finales que presenten desequilibrios físicos o químicos tales
 
 c) Los productos finales que tengan olores o sabores de sustancias no naturales al vino.
 
-d) Los productos finales que contengan más de 0,2 mg/L de arsénico, 0,01 mg/L de cadmio, 0,2 mg/L de plomo o 1 mg/L de flúor.
+d) Los productos finales que contengan más de 0,2 mg/L de arsénico, 0,01 mg/L de cadmio, 0,15 mg/L de plomo o 1 mg/L de flúor.
+
+e) Los productos finales que contengan más de 2 microgramos por litro (µ/L) de ocratoxina - A.
 
 #### Artículo 27º
 
@@ -734,7 +764,7 @@ d) Aquellos en que se determine la presencia de ácido benzoico en forma pura o 
 
 e) Los productos finales que contengan más de 200 mg/L de ácido sórbico en forma pura o de sus sales expresado en ácido sórbico.
 
-f) Los productos finales que contengan más de 300 mg/L de anhídrido sulfuroso total o más de 75 mg/L al estado libre, y tratándose de vinos dulces, los que contengan más de 400 y 100 mg/L respectivamente.
+f) Los productos finales que contengan más de 250 mg/L de anhídrido sulfuroso total o más de 75 mg/L al estado libre, y tratándose de vinos dulces, los que contengan más de 400 y 100 mg/L respectivamente.
 
 g) Aquellos productos finales que contengan una cantidad de sodio excedentario superior a 80 mg/L o de sulfatos expresados en sulfato de potasio superior a 2 g/L, salvo en los vinos dulces, generosos y licorosos que podrán contener hasta 4 g/L de sulfatos por litro.
 
@@ -746,13 +776,15 @@ Se considerarán vinos falsificados los siguientes:
 
 a) Aquellos producidos empleando sacarosa.
 
-b) Aquellos que contengan zumos o zumos fermentados provenientes de uva híbrida.
+b) Aquellos que contengan zumos o zumos fermentados provenientes de uva híbrida o uva de Vitis americana.
 
 c) Aquellos en que se adicione alcohol, salvo en los casos expresamente autorizados.
 
 d) Aquellos en que se haya empleado colorantes, incluyendo la enocianina.
 
 e) Aquellos que han sido mezclados con productos falsificados.
+
+f) Aquellos que tengan un contenido de metanol superior a 400 mg/L en vino tinto y 250 mg/L en vino blanco y rosado.
 
 #### Artículo 29°
 
@@ -782,7 +814,7 @@ Vino : 11,5 graduación real
 
 Sangría : 8,0 graduación real
 
-En los vinos y vinos especiales, se aceptará una tolerancia de medio grado bajo la graduación alcohólica indicada en la etiqueta, siempre que no sea inferior a la graduación mínima establecida para cada producto.
+En los vinos, vinos especiales, ponche y sangría se aceptará una tolerancia de medio grado bajo la graduación alcohólica indicada en la etiqueta, en clery o cooler y sidra la tolerancia será de 0,3 grados, siempre que no sea inferior a la graduación mínima establecida para cada producto.
 
 La mistela no podrá tener una graduación alcohólica real superior a 22 grados.
 
@@ -798,17 +830,9 @@ Se considerarán chichas alteradas aquellos productos finales que tengan más de
 
 Se considerarán chichas adulteradas las siguientes:
 
-a) Aquellas en que concurra cualquiera
+a) Aquellas en que concurra cualquiera de las circunstancias previstas en las letras a), c), d), e) y g) del artículo 27° de este reglamento.
 
-de las circunstancias previstas en las letras a), b), c), e) y g) del artículo 27° de este reglamento.
-
-b) Los productos finales que tengan más
-
-de 300 milígramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre, a menos que se trate de chichas con más de 30 gramos de
-
-azúcares reductores por litro, caso en el cual se tolerará como
-
-máximo 400 y 100 milígramos por litro respectivamente.
+b) Los productos finales que tengan más de 250 miligramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre, a menos que se trate de chichas con más de 30 gramos de azúcares reductores por litro, caso en el cual se tolerará como máximo 400 y 100 milígramos por litro respectivamente.
 
 #### Artículo 33°
 
@@ -822,15 +846,9 @@ Se considerarán sidras y chichas de manzana alteradas aquellos productos finale
 
 Se considerarán sidras y chichas de manzana adulteradas las siguientes:
 
-a) Aquellas en que se verifique cualquiera
+a) Aquellas en que se verifique cualquiera de las causales indicadas en las letras a), c), d) y e) del artículo 27° de este reglamento.
 
-de las causales indicadas en las letras
-
-a), b), c) y e) del artículo 27° de este reglamento.
-
-b) Los productos finales que contengan
-
-más de 300 milígramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre.
+b) Los productos finales que contengan más de 250 miligramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre.
 
 #### Artículo 36°
 
@@ -876,9 +894,11 @@ Entre el resto de los extractos fermentables se incluye el azúcar, el que no po
 
 La cerveza deberá reunir los siguientes requisitos:
 
-a) Aspecto claro y brillante, salvo
+a) Aspecto claro y brillante, salvo en cervezas que
 
-en cervezas especiales.
+no hayan sido filtradas, lo cual debe ser
+
+señalado en la etiqueta.
 
 b) Sabor, color y aroma característicos.
 
@@ -896,7 +916,11 @@ microorganismos en estado activo, exceptuando las cervezas no estabilizadas biol
 
 f) Tener un ph que fluctúe entre
 
-3,8 y 4,5.
+3,5 y 5,0.
+
+Se aceptará una tolerancia de 0,3 grados bajo la
+
+graduación alcohólica indicada en la etiqueta.
 
 #### Artículo 43°
 
@@ -1094,11 +1118,13 @@ b) Los productos finales que contengan menos de 40 gramos de ácido acético por
 
 c) Los productos finales cuyo contenido de ácido acético sea inferior que el indicado en la etiqueta, y que en ningún caso podrá ser menor de 40 gramos por litro.
 
-d) Los productos finales que contengan más de 300 milígramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre.
+d) Los productos finales que contengan más de 250 miligramos de anhídrido sulfuroso total por litro o más de 75 milígramos por litro al estado libre.
 
 e) Los vinagres de vino que estando en su etapa de producto final contenga más de 1 gramo de cloruros por litro, expresado en cloruro de sodio, o más de 2 gramos de sulfatos por litro, expresado en sulfato de potasio.
 
 f) Los vinagres de vino en etapa de producto final cuyo contenido en cenizas sea inferior a 1 gramo por litro, expresado en carbonato potásico.
+
+g) Aquellos en que se determine la presencia de ácido benzoico en forma pura o de sus sales.
 
 > **Nota.** El artículo transitorio del DTO 103, agricultura, dispone que la modificación a este artículo rige vencido el plazo de seis meses desde su publicación.
 
@@ -1240,7 +1266,7 @@ En la etiqueta se podrá señalar la mezcla de variedades, pero si ninguna de el
 
 11.- Las etiquetas o envases no podrán contener palabras, leyendas, ilustraciones u otras representaciones gráficas que puedan inducir a equívocos, engaños o falsedades respecto del origen, materia prima, naturaleza o composición del producto.
 
-12.- Los cocteles deberán indicar en una de sus etiquetas, con precisión y claridad, los componentes básicos empleados en su fabricación.
+12.- Los cocteles deberán indicar en una de sus etiquetas, con precisión y claridad, los componentes básicos empleados en su fabricación y colorantes utilizados.
 
 13.- En las etiquetas de vinos espumantes o vinos espumosos, la mención "fermentado en botella" podrá ser reemplazada por "fermentado en botella por el método tradicional", "método tradicional", "método clásico" o "método clásico tradicional".
 
