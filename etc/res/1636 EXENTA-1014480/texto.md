@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.636, de 19 de mayo de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 925, modificada por resoluciones exentas Nº 1.122 y Nº 1.246, todas de 2010, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal de las agregaciones de Jurel en la IV Región, temporada 2010", en los siguientes términos:
+
+a) En el sentido de incorporar a la presente pesca de investigación a las embarcaciones artesanales individualizadas en la resolución extractada, inscritas en el Registro Pesquero Artesanal de la IV Región, sección de pesquería de Jurel, y que cuentan con certificado de navegabilidad vigente, y
+
+b) En el sentido de incorporar el numeral 5 ter., nuevo, que permite a las embarcaciones artesanales autorizadas a participar en la presente pesca de investigación a extraer, con red de cerco, una cuota total de 3.000 toneladas del recurso Jurel, imputables a la fracción reserva con fines de investigación de la cuota global anual de Jurel. Las demás disposiciones del presente numeral se establecen en el texto de la resolución extractada.
+
+Valparaíso, 19 de mayo de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
