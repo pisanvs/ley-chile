@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.771, de 4 de junio de 2010, de esta Subsecretaría, declárase la caducidad de la resolución exenta N° 1.972, de 2001, de esta Subsecretaría, que autorizó a don MARIO MOROZIN YURESIC, para realizar actividades pesqueras extractivas con la nave "Cucaña", respecto del recurso hidrobiológico Reineta Brama australis, en el área marítima comprendida entre la XV a III regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 4 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
