@@ -866,4 +866,26 @@ Los integrantes del Consejo Comunal de la Infancia cesarán en sus cargos por la
 
 En estos casos, asumirá las funciones del miembro saliente el Consejero Suplente hasta el término del período.
 
+## Título X
+
+DE LOS PRESUPUESTOS PARTICIPATIVOS
+
+#### Artículo 91º
+
+<!-- parte:8933881 -->
+
+La Municipalidad de La Serena, incorpora en su gestión el Programa denominado "Presupuesto Participativo" reconociéndolo como una nueva modalidad de participación ciudadana y de consenso.
+
+#### Artículo 92º
+
+<!-- parte:8933882 -->
+
+El Presupuesto Participativo se define como un instrumento de planificación anual que tiene por objeto determinar la priorización de las demandas de la comuna, constituyendo una herramienta de participación ciudadana que permite a la comunidad decidir, en conjunto con autoridades locales como el Alcalde y Concejales, en qué se invertirán los recursos que el municipio destina para el desarrollo de su comuna. Esto implica que los vecinos diagnostiquen, prioricen, deliberen (votaciones libres) y ejecuten un conjunto de proyectos públicos locales destinados a satisfacer las necesidades de la comuna.
+
+#### Artículo 93º
+
+<!-- parte:8933883 -->
+
+El Programa de Presupuesto Participativo se regirá por un Reglamento Interno, que establecerá el procedimiento, organización del proceso y demás normativa pertinente.
+
 Anótese, publíquese y transcríbase la presente ordenanza a las direcciones, departamentos y oficinas municipales, quedando una copia de ésta en Secretaría Municipal a disposición del público; hecho, archívese.- Adriana Peñafiel Villafañe, Alcaldesa.- Ximena Hidalgo Eskuche, Secretario Municipal (S).
