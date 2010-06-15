@@ -16,7 +16,7 @@ La asignación por operador de maquinaria pesada corresponderá al 15% de la sum
 
 #### Artículo 3º
 
-El número máximo de personas con derecho a recibir la asignación será de 350 beneficiarios.
+El número máximo de personas con derecho a recibir la asignación será de 550 beneficiarios.
 
 #### Artículo 4º
 
@@ -26,7 +26,7 @@ Las asignaciones ya devengadas a partir del 1º de enero de 1996, también se li
 
 #### Artículo 5º
 
-Por resolución del Subsecretario de Obras Públicas, previo informe del Jefe Superior del Servicio respectivo, se individualizará a los trabajadores que accederán al beneficio.
+Por resolución del Jefe Superior del Servicio respectivo, visada por el Subsecretario de Obras Públicas, se individualizará a los trabajadores que accederán al beneficio
 
 La resolución que se dicte sobre la materia deberá ser puesta en conocimiento de los interesados mediante su consignación en un cartel que se ubicará en las dependencias de la Unidad Administrativa, y además en las unidades de maquinaria y maestranza, del respectivo servicio, durante ocho días hábiles consecutivos, a lo menos.
 
@@ -38,7 +38,7 @@ Si la suma de beneficiarios propuestos excediere el cupo máximo referido en el 
 
 #### Artículo 7º
 
-Para los efectos de la materia que regula el presente Reglamento y teniendo en cuenta la información proporcionada por las Jefaturas de los servicios operativos de este Ministerio, tendrán el carácter de maquinaria pesada y por ende su manejo tipificará la actividad de operador de maquinaria pesada, las siguientes: camión tractor, camión calibrador, camión deflectómetro, motoniveladora, bulldozer, cargador, equipo de apoyo y de rescate en mantención de caminos de invierno, excavadora, retrocargador, barrenieve, grúa telescópica autopropulsada, tractor desbrozador, rodillo compactador de peso superior a 6 ton., planta motorizada para pilotes, pintabanda de capacidad superior a 30 galones, reparadora de baches o mezclador de asfalto, martinete motorizado, barcaza, balsa, máquina para sondaje, draga, remolcador, chancadora, motoperforadora y rodillo compactador tirado por tractor.
+Para los efectos de la materia que regula el presente Reglamento y teniendo en cuenta la información proporcionada por las Jefaturas de los servicios operativos de este Ministerio, tendrán el carácter de maquinaria pesada y por ende su manejo tipificará la actividad de operador de maquinaria pesada, las siguientes: Balsa, barcaza, barrenieve, bulldozer, camión aljibe de 10 mil litrós o más, camión calibrador pesaje, camión con grúa de 10 toneladas metro o más, camión demarcador, camión distribuidor de asfalto, camión distribuidor de sal, camión distribuidor mortero asfalto, camión medidor fricción pavimento, camión medidor rugosidad pavimento, camión portador de grúa 10 toneladas - metro o más, camión reparador pavimento, camión tolva, camión tractor, camión transportador de combustible, cargador frontal, chancadora de áridos motorizada, deflectómetro de impacto, demarcador de pavimentos de 30 galones o más, distribuidora de gravilla autopropulsada, excavador cargador, excavadora, grúa telescópica autopropulsada, máquina para sondaje motorizada, martinete motorizado, motoniveladora, pavimentadora de asfalto, planta bacheadora, planta procesadora de bischofita para caminos, pala cargadora, recicladora de carpeta de camino, rodillo compactador autopropulsado de 6 toneladas o más, seleccionadora áridos de 60 toneladas/hora o más, selladora de junturas motorizada, tractor desbrozador, vehículo de oruga desplazable en nieve, tractor agrícola con pala cargadora, draga Ernesto Pinto Lagarrigue, sonda percusión, sonda rotación.
 
 #### Artículo 8º
 
