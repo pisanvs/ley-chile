@@ -76,41 +76,41 @@ E 42 ° 16' 58.02" 72° 48' 30.55"
 
 e) En el sector denominado Chana sector A, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4230-7245; 1° ED. 1971; ESCALA 1:50.000
+COORDENADAS GEOGRÁFICAS REFERIDAS AL PLANO DPC-306, ESCALA 1:50.000, DATUM WGS-84
 
-PUNTOS LATITUD LONGITUD
+Puntos Latitud (S) Longitud (W)
 
-A 42 ° 43' 12.28" 72° 50' 28.74"
+A 42° 43' 26.87" 072° 50' 41.18"
 
-B 42 ° 43' 12.28" 72° 50' 43.30"
+B 42° 43' 26.94" 072° 50' 52.96"
 
-C 42 ° 42' 35.87" 72° 50' 40.04"
+C 42° 42' 50.53" 072° 50' 49.70"
 
-D 42 ° 42' 14.97" 72° 50' 27.54"
+D 42° 42' 29.63" 072° 50' 37.20"
 
-E 42 ° 42' 05.75" 72° 50' 31.52"
+E 42° 42' 20.41" 072° 50' 41.17"
 
-F 42 ° 42' 05.75" 72° 50' 20.32"
+F 42° 42' 20.39" 072° 50' 32.11"
 
 f) En el sector denominado Chana sector B, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4230-7245; 1° ED. 1971; ESCALA 1:50.000
+COORDENADAS GEOGRÁFICAS REFERIDAS AL PLANO DPC-306, ESCALA 1:50.000, DATUM WGS-84
 
-PUNTOS LATITUD LONGITUD
+Puntos Latitud (S) Longitud (W)
 
-A 42 ° 44' 16.03" 072° 50' 22.61"
+A 42° 44' 31.49" 072° 50' 29.35"
 
-B 42 ° 44' 28.40" 072° 50' 22.61"
+B 42° 44' 42.71" 072° 50' 28.96"
 
-C 42 ° 44' 28.40" 072° 50' 35.81"
+C 42° 44' 43.06" 072° 50' 45.47"
 
-D 42 ° 44' 12.25" 072° 50' 35.81"
+D 42° 44' 26.91" 072° 50' 45.47"
 
-E 42 ° 43' 55.61" 072° 50' 46.55"
+E 42° 44' 10.27" 072° 50' 56.21"
 
-F 42 ° 43' 31.84" 072° 50' 39.85"
+F 42° 43' 46.50" 072° 50' 49.51"
 
-G 42 ° 43' 31.84" 072° 50' 23.30"
+G 42° 43' 46.49" 072° 50' 33.87"
 
 #### Artículo 2º
 
