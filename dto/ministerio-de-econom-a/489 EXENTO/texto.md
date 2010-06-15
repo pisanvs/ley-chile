@@ -18,19 +18,17 @@ Establécense las siguientes áreas de manejo y explotación de recursos bentón
 
 1) En el Sector denominado Llico, un área inscrita en la figura irregular, entre la línea de la costa y los vértices cuyas coordenadas son las siguientes:
 
-SECTOR PUNTA LITRE
+COORDENADAS GEOGRÁFICAS REFERIDAS A LOS PLANOS MARÍTIMOS COSTEROS VIII 52-53, ESCALA 1:5.000, DATUM WGS-84
 
-(Carta Shoa Nº 606, Esc. 1:40.000; 1º Ed. 1946)
+Puntos Latitud (S) Longitud (W)
 
-Vértice Latitud S. Longitud W.
+A 37º 11' 55.63" 073º 32' 52.14"
 
-A 37º12'23,08" 73º32'03,04"
+B 37º 11' 46.05" 073º 32' 51.49"
 
-B 37º11'56,40" 73º32'03,04"
+C 37º 12' 01.06" 073º 31' 57.72"
 
-C 37º11'45,00" 73º32'57,70"
-
-D 37º11'54,60" 73º32'57,70"
+D 37º 12' 27.68" 073º 31' 59.51"
 
 2) En el Sector denominado Colcura, un área inscrita en la figura irregular y los vértices cuyas coordenadas son las siguientes:
 
