@@ -48,15 +48,15 @@ H 29°30'21,08" 71°19'41,86"
 
 2.- En el sector denominado Los Lobos, un área inscrita en la figura irregular, entre la línea de la costa y los vértices cuyas coordenadas se señalan a continuación:
 
-(CARTA SHOA Nº 4311; ESC. 1:30.000; 4ª ED. 1951)
+COORDENADAS GEOGRÁFICAS REFERIDAS A LA CARTA SHOA 4310, ESCALA 1:50.000, EDICIÓN 2004, DATUM WGS-84
 
-Vértice Latitud S. Longitud W.
+Puntos Latitud (S) Longitud (W)
 
-A 31°57'10,73" 71°32'16,57"
+A 31° 57' 18.02" 071° 29' 55.55"
 
-B 31°57'27,31" 71°32'16,57"
+B 31° 57' 18.04" 071° 31' 22.28"
 
-C 31°57'27,31" 71°30'54,85"
+C 31° 57' 01.91" 071° 31' 22.31"
 
 3.- En el sector denominado Chungungo, un área inscrita en la figura irregular, entre la línea de la costa y los vértices cuyas coordenadas se señalan a continuación:
 
