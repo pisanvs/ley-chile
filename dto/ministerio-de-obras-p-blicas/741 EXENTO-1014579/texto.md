@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 741 de fecha 31 de mayo de 2010, se expropió el lote de terreno N° 1-A, superficie 931 m2, rol N° 840-5, comuna de Vallenar, para la obra "Conservación Red Vial Región de Atacama 2006-2008 (Conservación de Caminos Básicos (Conservación camino acceso a Imperial Bajo, Provincia de Huasco, Región de Atacama))" y se acordó el valor de la indemnización con su propietario ELISABETH CLORINDA CORTES PAEZ., ascendente a la cantidad de $946.440.-
+
+Fiscal del Ministerio de Obras Públicas.
