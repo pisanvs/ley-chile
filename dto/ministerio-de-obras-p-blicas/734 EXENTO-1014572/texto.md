@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 734 de fecha 31 de mayo del 2010, se expropió el lote de terreno Nº. 1, superficie 1.163 m2., Rol Nº28-03, comuna de Quinta del Tilcoco, VI Región, para la obra "CONSTRUCCION PASARELA RIO CLARO" COMUNA DE QUINTA DE TILCOCO, PROVINCIA DE CACHAPOAL, VI REGION y se acordó el valor de indemnización con la SOCIEDAD AGRICOLA LA GLORIA LIMITADA, ascendente a la cantidad de $1.004.762.-
+
+Fiscal del Ministerio de Obras Públicas.
