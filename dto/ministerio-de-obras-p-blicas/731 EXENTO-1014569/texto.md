@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 731 de fecha 31 de mayo de 2010, se expropió el lote de terreno N° 28-B, superficie 177 m2, rol N° 4500-4, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000" y se acordó el valor de la indemnización con su propietario RUFINO SEGUNDO BORDONES CARRIL., ascendente a la cantidad de $572.213.-
+
+Fiscal del Ministerio de Obras Públicas.
