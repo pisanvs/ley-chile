@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 736, de fecha 31 de mayo del 2010, se expropió el lote de terreno N° 17, superficie 493 m2, Rol Nº884-13, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen - El Tránsito (Variante Los Perales)", Km. 19,90000 al Km. 23,77240, Provincia de Huasco, Región de Atacama.", y se acordó el valor de indemnización con su propietaria AMBROSIA DEL TRANSITO VALLEJOS PALLAUTA, ascendente a la cantidad de $537.464.-
+
+Fiscal del Ministerio de Obras Públicas.
