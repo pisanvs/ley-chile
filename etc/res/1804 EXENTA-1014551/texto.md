@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.804, de 9 junio de 2010, de esta Subsecretaría, rectifícase el numeral 4.- de la resolución exenta Nº 1.671, de 2010, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LTDA. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la actividad extractiva artesanal de Anchoveta (Engraulis ringens) y Sardina común (Strangomera bentincki) en la Región de Los Ríos, 2010", en el sentido de indicar que la embarcación artesanal "José Luis" (RPA 8180), se encuentra inscrita en el Registro Pesquero Artesanal de la X Región, y no como allí se indica.
+
+Valparaíso, 9 de junio de 2010.- Edith Saa Collantes, Susecretaria de Pesca (S).
