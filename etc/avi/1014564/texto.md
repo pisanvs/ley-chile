@@ -1,0 +1,3 @@
+Se rectifica publicación de extracto en Diario Oficial Nº39.674, de fecha 1 de junio de 2010, como se indica: "Por decreto (exento) MOP N° 686 de fecha 20 de mayo de 2010, se modificó el decreto (exento) MOP Nº370, de 30 de marzo de 2010, en lo que se refiere al monto de la indemnización acordada, para la expropiación de los lotes N°s 9, 10, 11, 12, 13-A, 15, 16, 17, 18 y 19, siendo ésta la suma de $44.590.589.-, no como se indicó en el decreto modificado".
+
+Fiscal del Ministerio de Obras Públicas.
