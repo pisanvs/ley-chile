@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 730 de fecha 31 de mayo de 2010, se expropió el lote de terreno N° 9, superficie 107 m2, rol en trámite, comuna de Alto del Carmen, para la obra "Reposición Puente Malaguin y Otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Conay)" y se acordó el valor de la indemnización con su propietario SEGUNDO DAMASO GODOY CAYO., ascendente a la cantidad de $677.057.-
+
+Fiscal del Ministerio de Obras Públicas.
