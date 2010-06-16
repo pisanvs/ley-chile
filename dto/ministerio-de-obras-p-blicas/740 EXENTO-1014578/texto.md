@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 740 de 31 de mayo de 2010, se expropió el lote de terreno N°5, superficie 285 m2, rol de Avalúo 139-57, comuna de Pucón, para la obra "CAMINO HUIFE BAJO - LEFINCUL, SECTOR PUENTE HUIFE BAJO, KM. 0,1, TRAMO KM. 0,00000 A KM. 0,25000 Y 0,00000 A KM. 0,9500", COMUNA DE PUCON, PROVINCIA DE CAUTIN, REGION DE LA ARAUCANIA, y se acordó el valor de la indemnización con su propietario don RAIMUNDO MILLAQUEO MILLAHUAL, ascendente a la cantidad de $496.058.-
+
+Fiscal del Ministerio de Obras Públicas.
