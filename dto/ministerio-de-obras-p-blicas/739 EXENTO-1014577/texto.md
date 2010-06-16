@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 739, de fecha 31 de mayo del 2010, se expropió el lote de terreno N° 25, superficie 52 m2, Rol Nº4500-10, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000.", y se acordó el valor de indemnización con su propietaria ANA MARÍA VARGAS BORDONES, ascendente a la cantidad de $286.619.-
+
+Fiscal del Ministerio de Obras Públicas.
