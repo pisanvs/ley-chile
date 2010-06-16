@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 738 de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno N°s. 23 y 24, superficies 359 y 273 m2, Rol N° 609-93, comuna de Mulchen, VIII Región para la obra "Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, Km. 0,00000 a Km. 23,13600, Región Bio Bio", y se acordó el valor de indemnización con su propietario JUAN LUIS CRETTON WICKEL, ascendente a la cantidad de $692.130.-
+
+Fiscal del Ministerio de Obras Públicas.
