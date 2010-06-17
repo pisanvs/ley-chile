@@ -2656,6 +2656,34 @@ Durante el año 2009, las Bases Administrativas podrán establecer que la evalua
 
 Artculo 7: Durante el ao 2010 y slo para las Regiones Metropolitana, de Valparaso, del Libertador Bernardo OHiggins, del Maule, del Biobo y de la Araucana, y nicamente para los contratos de obras que se celebren bajo el amparo del D.S. N 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declar zona de catstrofe a las Regiones que indica, el porcentaje sealado en los incisos primero y segundo del artculo 106 ser de un 50%.
 
+#### Artículo 8
+
+"Durante el año 2010, respecto de obras que se requieran con urgencia para paliar los efectos de la catástrofe o para reparar las obras afectadas por la misma, y que se ejecuten en las regiones declaradas como zonas afectadas por la catástrofe en conformidad con el D.S. Nº 150 de 2010, del Ministerio del Interior, las Direcciones podrán autorizar la subcontratación de hasta un 50% de las obras con subcontratistas inscritos o no inscritos en el Registro de Contratistas del Ministerio de Obras Públicas, lo cual deberá constar en las resoluciones en las que se aprueben tales contratos. Asimismo, tratándose de un contrato de obras mayores, podrán autorizar la contratación de contratistas inscritos en la categoría inmediatamente inferior a aquella requerida según el valor de la obra, lo cual deberá constar en las resoluciones en las que se aprueben tales contratos.
+
+Si el contratista adjudicatario subcontrata una parte del trabajo con un subcontratista no inscrito en el Registro, deberá solicitar la aprobación de éste al Servicio respectivo, debiendo además acreditar que el subcontratista cumple con los requisitos económicos y de experiencia mínimos necesarios para realizar el trabajo, fijados al otorgarse la autorización, en la forma que ésta indique."
+
+#### Artículo 9
+
+"Facúltase durante el año 2010 a los Servicios dependientes de la Dirección General de Obras Públicas del Ministerio de Obras Públicas, respecto de obras que se requieran con urgencia para paliar los efectos de la catástrofe o para reparar las obras afectadas por la misma, y que se ejecuten en conformidad con lo dispuesto en los decretos supremos Nº 155 o Nº 320 de 2010, del Ministerio del Interior, a contratar, previa autorización del Director Nacional respectivo, la ejecución de obras de su competencia con personas naturales o jurídicas que no se encuentren inscritas en el Registro de Contratistas del Ministerio de Obras Públicas siempre que cumplan con los requisitos de experiencia y económicos mínimos necesarios para realizar el trabajo, fijados al otorgarse la autorización, en la forma que ésta indique. Lo establecido en el presente artículo se podrá aplicar solamente en aquellos contratos cuyo monto no exceda de 6.500 UTM".
+
+#### Artículo 10
+
+"Durante el año 2010, respecto de obras que se requieran con urgencia para paliar los efectos de la catástrofe o para reparar las obras afectadas por la misma y que se ejecuten en las regiones declaradas como zonas afectadas por catástrofe en conformidad con el D.S. Nº 150, de 2010, del Ministerio del Interior, por resolución fundada del Director Nacional respectivo y visada por el Director General de Obras Públicas, no regirá la obligación establecida en el inciso primero del artículo 10".
+
+#### Artículo 11
+
+"Durante el año 2010, respecto de obras que se requieran con urgencia para paliar los efectos de la catástrofe o para reparar las obras afectadas por la misma y que se ejecuten en las regiones declaradas como zonas afectadas por la catástrofe en conformidad con el D.S. Nº 150, de 2010, del Ministerio del Interior, la Autoridad competente podrá establecer la recepción única de las obras para efectos de resolver el contrato de acuerdo al Reglamento de Montos, lo anterior operará sólo en casos fundados y teniendo en consideración las características de la obra".
+
+#### Artículo 12
+
+"Para el año 2010, respecto de las obras ubicadas en las regiones declaradas como zonas afectadas por catástrofe en conformidad con el D.S. Nº 150, de 2010, del Ministerio del Interior, que al tiempo del terremoto o maremoto se encontraban recibidas provisionalmente y que hayan sufrido daños producto del sismo, maremoto o posteriores réplicas, la Autoridad que adjudicó el contrato y sin esperar el vencimiento del plazo de garantía a que se refiere el inciso primero del artículo 176, nombrará una Comisión técnica ad-hoc de evaluación y recepción definitiva anticipada (ERDA) conformada por tres funcionarios profesionales del área técnica en materia estructural o propias de la naturaleza de la obra que se recepciona, la cual verificará y certificará en terreno los daños o pérdida de aptitud de la obra, sean éstos totales o parciales y que se hayan producido a causa del sismo o maremoto. Si en el Acta respectiva se establece que el origen de los daños se debe a la catástrofe, la Comisión procederá a recepcionar en forma definitiva y anticipada la obra. El Inspector Fiscal del contrato deberá informar a esta Comisión oportunamente sobre las materias del contrato, entregando un informe detallado y valorizado de los daños y demás antecedentes que se requieran.
+
+Cumplido lo anterior, se entenderá que el acta emitida por esta Comisión (ERDA) equivaldrá al acta de recepción definitiva.
+
+Respecto de la calificación, la Comisión (ERDA) podrá mantener o rectificar la nota establecida en la recepción provisional.
+
+Una vez emitida el acta por la Comisión (ERDA), la Autoridad competente sancionará la liquidación anticipada del contrato".
+
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Clemente Pérez Errazúriz, Subsecretario de Obras Públicas.

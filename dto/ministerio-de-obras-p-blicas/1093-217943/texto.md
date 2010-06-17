@@ -318,11 +318,57 @@ con VºBº SEREMI
 
 #### Artículo 2
 
-transitorio: Durante el año 2010 para las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío y de la Araucanía, y únicamente para los contratos de obras que se celebren bajo el amparo del D.S. N° 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declaró zona de catástrofe a las Regiones señaladas, los montos señalados en la letra "b" del numeral 1 de la letra A del artículo segundo, serán los siguientes:
+transitorio: Durante el año 2010 para las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo OHiggins, del Maule, del Biobío y de la Araucanía, y únicamente para los contratos de obras que se celebren bajo el amparo del D.S. N° 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declaró zona de catástrofe a las Regiones señaladas, los montos señalados en la letra "b" del numeral 1 de la letra A del artículo segundo, serán los siguientes:
+
+"Autoridades Monto de contrato en UTM
+
+Director General con Visto
+
+Bueno del Ministro Igual o Superior a 100.000
+
+Director General Superior a 50.000 UTM
+
+Directores Nacionales Superior a 13.000 UTM
+
+Jefe de Oficina Regional
+
+con VºBº del Director
+
+Nacional Superior a 6.500 UTM
+
+Jefe de Oficina Regional
+
+con VºBº del Seremi Igual o inferior a 6.500 UTM"
+
+Las modificaciones de estos contratos serán resueltas por las mismas autoridades que los adjudicaron.12.03.2010
 
 #### Artículo 3
 
 transitorio: Durante el año 2010 la Orden de Ejecución de Obra o Consultoría señalada en el numeral primero de la letra C del artículo segundo no se exigirá para los contratos que se celebren en las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío y de la Araucanía bajo el amparo del D.S. N° 150 de fecha 27 de Febrero de 2010, del Ministerio del Interior, que declaró zona de catástrofe a las Regiones que indica.
+
+#### Artículo 4
+
+transitorio: "Durante el año 2010 para las Regiones Metropolitana, de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío y de La Araucanía, y únicamente para los contratos de estudios, proyectos y asesorías de obras afectadas por la catástrofe o que se requieran con urgencia para paliar los efectos de la misma y que se celebren bajo el amparo del D.S. Nº 155 o Nº 320, ambos de 2010, del Ministerio del Interior, los montos señalados en la letra "b" del numeral 3 de la letra A del artículo segundo, serán los siguientes:
+
+"Autoridades Monto de contrato en UTM
+
+Director General con Visto Bueno
+
+del Ministro Igual o superior a 28.000
+
+Director General Superior a 14.000 UTM
+
+Directores Nacionales Superior a 6.000 UTM
+
+Jefes de Oficinas Regionales con
+
+VºBº de Director Nacional Superior a 2.000 UTM
+
+Jefes de Oficinas Regionales con
+
+VºBº del Seremi Igual o inferior a 2.000
+
+UTM"
 
 Anótese, tómese razón, publíquese e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Javier Etcheberry Celhay, Ministro de Obras Públicas.
 

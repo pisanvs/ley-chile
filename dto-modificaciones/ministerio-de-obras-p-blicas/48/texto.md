@@ -2340,6 +2340,18 @@ Articulo.5°-
 
 Mientras no existan al menos cuatro Consultores inscritos en el Area y Especialidades creadas en el N° 9 Area de Medio Ambiente de los Cuadros N°s. 1, 2A y 2B del Título II y artículo 31, se autoriza a convocar a los Consultores inscritos en la especialidad Estudios Ambientales que se suprime del artículo 28 a los Cuadros N°s. 1, 2A y 2B números 3.8. En este caso y sólo para este efecto, no regirá la exigencia de llamar a inscripción en un registro especial, a que se refiere el artículo 13 de este Reglamento.
 
+#### Artículo 6
+
+"Durante el año 2010, para aquellos contratos que se celebren bajo modalidad de propuesta privada o trato directo, derivados de la catástrofe o que se requieran con urgencia para paliar los efectos de la misma, conforme a lo dispuesto en los decretos supremos Nº 155 de 2010 o Nº 320 de 2010, ambos del Ministerio del Interior, las Direcciones podrán contratar previa autorización del Director Nacional respectivo, los estudios, proyectos y asesorías de su competencia con personas naturales o jurídicas que no se encuentren inscritas en el Registro de Consultores del Ministerio de Obras Públicas y siempre que cumplan con los requisitos de experiencia y calidad profesional mínimos necesarios para realizar el trabajo, fijados al otorgarse la autorización, en la forma que ésta indique. Lo establecido en el presente artículo se podrá aplicar solamente en aquellos contratos cuyo monto no exceda de 2.000 UTM.".
+
+#### Artículo 7
+
+"En caso que la contratación de estudios, proyectos o asesorías se realice bajo modalidad de propuesta privada o trato directo en conformidad con los decretos supremos singularizados en el artículo precedente, no se exigirá la autorización establecida en el inciso segundo del artículo segundo del D.S. MOP Nº 48".
+
+#### Artículo 8
+
+"Durante el año 2010, las modificaciones en los contratos de los estudios, proyectos o asesorías de obras afectadas por la catástrofe o que se requieran con urgencia para paliar los efectos de la misma y que se ejecuten o estuviesen vigentes en las regiones declaradas como zonas afectadas por la catástrofe en conformidad con el D.S. Nº 150, de 2010, del Ministerio del interior, serán resueltos por la misma Autoridad que adjudicó el contrato, sin necesidad del visto bueno que procedería conforme al presente Reglamento".
+
 Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de Reglamentos de la Contraloría General de la República.- PATRlClO AYLWlN AZOCAR, Presidente de la República.- Carlos Hurtado Ruiz-Tagle, Ministro de Obras Públicas.
 
 Lo que transcribo a Ud., para su conocimiento.- Saluda a Ud.- Juan Lobos Díaz, Subsecretario de Obras Públicas Subrogante.
