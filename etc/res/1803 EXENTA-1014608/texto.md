@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.803, de 9 de junio de 2010, de esta Subsecretaría, modifíquese la resolución exenta Nº 1.573, de 2010, de esta Subsecretaría de Pesca, que autorizó al CENTRO DE ESTUDIOS PESQUEROS S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Prospecciones tróficas en Merluza del sur (Merluccius australis)", en el sentido de reemplazar el inciso 1º del numeral 7º por el siguiente:
+
+"7.- En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán extraer un máximo de 659,464 toneladas de Merluza del sur Merluccius australis, las que se imputarán a las asignaciones efectuadas a las organizaciones de pescadores artesanales que se indica sometidas al Régimen Artesanal de Extracción de la señalada especie, autorizadas mediante resolución Nº 7, de 2010, modificada mediante resoluciones exentas Nº 1.800 y Nº 1.802, ambas de 2010, todas de esta Subsecretaría, en los montos que se señala en la resolución extractada.".
+
+Valparaíso, 9 de junio de 2010.- Edith Saa Collantes, Subsecretaria de Pesca (S).
