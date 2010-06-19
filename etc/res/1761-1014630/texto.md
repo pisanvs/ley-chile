@@ -1,0 +1,3 @@
+Por resolución Nº 1.761, de 4 de junio de 2010, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES Y TRABAJADORAS INDEPENDIENTES, PESCADORES ARTESANALES, BUZOS MARISCADORES, RECOLECTORES DE ORILLA Y ACUICULTORES SOTOMÓ BAJO, para instalar por seis meses, colectores de semillas de mitílidos, en Sotomó Bajo, Estuario de Reloncaví, X Región, con superficie y coordenadas geográficas señaladas en resolución extractada.
+
+Valparaíso, 4 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
