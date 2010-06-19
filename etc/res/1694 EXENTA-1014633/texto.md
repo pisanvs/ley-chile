@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.694, de 3 de junio de 2010, de esta Subsecretaría, autorízase a ARSENIO ALEXIS CAMPUSANO MAMANI, para iniciar actividades pesqueras de transformación, instalar y operar planta en Lote Nº 4, Estancia Higuera de Las Minillas, comuna de Vallenar, provincia de Huasco, III Región, para elaborar en línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
