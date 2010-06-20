@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.685, de 14 de junio de 2010, se publicó extracto de resolución exenta que autoriza a las instituciones sin fines de lucro, como receptoras de alimentos cuya comercialización sea inviable, con el error que se salva a continuación: Cuerpo I, página nueve, tercera columna, donde dice: "... Extracto de resolución ex. del Servicio de Impuestos Internos Nº 12 del 9 de junio de 2010, ...", debe decir: "... Extracto de resolución ex. del Servicio de Impuestos Internos Nº 97 del 9 de junio de 2010, ...".
