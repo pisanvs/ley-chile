@@ -4,11 +4,11 @@ Núm. 361 exento.- Santiago, 28 de febrero de 2003.- Visto: los antecedentes adj
 
 D e c r e t o:
 
-1º.- Declárase "fuente curativa" el agua mineral termal proveniente de las fuentes, denominadas Pozo Nº 1 y Pozo Nº 2, de las Termas de Malalcahuello, ubicadas en la comuna de Curacautín, provincia de Malleco, IX Región, de propiedad de la Sociedad Turismo Casagrande Limitada. Las fuentes tienen la siguiente ubicación:
+1º.- Declárase "fuente curativa" el agua mineral termal proveniente de las fuentes, denominadas Pozo Nº 1 y Pozo Nº 2, de las Termas de Malalcahuello, ubicadas en la comuna de Curacautín, provincia de Malleco, IX Región, de propiedad de la Sociedad Turismo Casagrande Limitada. Las fuentes tienen la siguiente ubicación en coordenadas UTM (m) referidas al Huso 19 Datum Provisorio Americano 1956:
 
-UTM: 5.633.028 Norte
+a) Pozo Nº 1: Norte 5.736.989 y Este 274.711
 
-260.957 Este
+b) Pozo Nº 2: Norte 5.736.851 y Este 274.281
 
 2º.- Las aguas minerales de las fuentes curativas señaladas sólo podrán ser utilizadas con fines turísticos y recreativos en establecimientos destinados a estas actividades.
 
