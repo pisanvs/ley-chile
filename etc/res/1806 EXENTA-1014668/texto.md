@@ -1,0 +1,7 @@
+Por resolución exenta N° 1.806 de 9 de junio de 2010 de esta Subsecretaría, modifícase la resolución exenta Nº 418, modificada mediante resolución exenta Nº 1.407, ambas de 2010, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO, domiciliado en Blanco N° 839, Valparaíso, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización y cuantificación de la fauna acompañante en las capturas de cerco, Región Arica - Parinacota, Tarapacá y Antofagasta 2010", en los siguientes tér-minos:
+
+a) En el numeral 5.-, inciso 3°, en el sentido de incorporar las embarcaciones artesanales "Alborada III" (RPA 914180) y "Doña Pilar" (RPA 913352) al listado de embarcaciones participantes en el estudio, y
+
+b) En el sentido de incorporar el numeral 6 Bis-., nuevo, que faculta a las embarcaciones artesanales que se encuentran autorizadas a participar en la presente pesca de investigación para extraer una cuota ascendente a 17.000 toneladas del recurso Anchoveta, fraccionadas en los términos indicados en la misma resolución extractada. Con todo, la captura de la cuota antes indicada sólo procederá una vez agotadas las fracciones artesanales de la cuota de Anchoveta correspondientes a la XV-I Regiones y II Región para el período enero-junio de 2010.
+
+Valparaíso, 9 de junio de 2010.- Edith Saa Collantes, Subsecretaria de Pesca (S).
