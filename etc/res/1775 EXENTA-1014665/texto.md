@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.775, de 4 de junio de 2010 de esta Subsecretaría, autorízase a ELÍAS JUAN REYES GONZÁLEZ para iniciar actividades pesqueras de transformación, instalar y operar planta en ex Cancha de Huasos Nº 90, Sitio Dos, Colonia Pudeto, Ruta 5 Ancud a Chacao, Ancud, Chiloé, X Región, para elaborar en líneas de Cocido, Fresco-Enfriado, Fresco-Refrigerado, Congelado, Seco Salado, Ahumado, Conservas, Aceite, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 4 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
