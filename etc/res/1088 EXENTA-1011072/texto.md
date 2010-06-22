@@ -26,6 +26,8 @@ Resolución:
 
 3.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3° de esta Resolución, las que deberán contener a lo menos, el Título del cual se trate, el nombre del grupo y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad, el nombre del proyecto, el puntaje obtenido por el grupo o persona.
 
+> **Nota.** El Nº 2 de la Resolución 3573 Exenta, Vivienda, publicada el 21.06.2010, modifica la presente norma en el sentido de eliminar de la nomina aprobada en el resuelvo 2 a las 10 personas integrantes del proyecto "Condominio Nueva Esperanza de Quemchi".
+
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
