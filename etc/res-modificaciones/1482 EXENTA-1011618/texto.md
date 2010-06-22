@@ -14,7 +14,7 @@ Núm. 1.482 exenta.- Visto:
 
 Resolución:
 
-1.- Exclúyese del proceso de selección del llamado dispuesto por la resolución exenta Nº 214 (V.y U.), de fecha 13 de Enero de 2010, a las regiones de Valparaíso, O’Higgins, Maule, Bío Bío y La Araucanía, liberando estos recursos de sus programas regionales a objeto que puedan ser destinados a futuras obras de reconstrucción.
+1.- Exclúyese del proceso de selección del llamado dispuesto por la resolución exenta Nº 214 (V.y U.), de fecha 13 de Enero de 2010, a las regiones de Valparaíso, O'Higgins, Maule, Bío Bío y La Araucanía, liberando estos recursos de sus programas regionales a objeto que puedan ser destinados a futuras obras de reconstrucción.
 
 2.- Modifícase la resolución exenta Nº 214 (V. y U.), del 13 de enero de 2010, de este Ministerio, en el sentido de reemplazar el monto de Unidades de Fomento que se destinarán al financiamiento de los subsidios y los recursos destinados al pago de los servicios de asistencia técnica, estableciendo una distribución por título y por región, quedando el Llamado Nacional de Febrero de 2010 del Programa de Protección del Patrimonio Familiar en su modalidad de Condominio de Viviendas Sociales, de acuerdo a la siguiente distribución:
 
