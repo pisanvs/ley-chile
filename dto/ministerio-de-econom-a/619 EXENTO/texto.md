@@ -18,31 +18,21 @@ Decreto:
 
 Establécese el área de manejo y explotación de recursos bentónicos denominada Punta Panitao, en la X Región, en un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA SHOA 7320; 1ª ED. 2004; ESCALA 1:70.000
+Plano Marítimo Costero X-50, Esc. 1:10.000,
+
+Datum WGS-84
 
 Puntos Latitud(S) Longitud (W)
 
-A 41° 33' 33,64" 073° 01' 55,58"
+A 41º 33' 33.00" 73º 01' 52.71"
 
-B 41° 33' 30,73" 073° 01' 45,96"
+B 41º 33' 37.28" 73º 01' 39.82"
 
-C 41° 33' 19,32" 073° 01' 46,96"
+C 41º 34' 10.97" 73º 01' 57.86"
 
-D 41° 33' 16,91" 073° 01' 57,28"
+D 41º 34' 11.43" 73º 02' 24.49"
 
-E 41° 33' 09,97" 073° 01' 59,67"
-
-F 41° 32' 57,64" 073° 02' 11,04"
-
-G 41° 32' 44,98" 073° 01' 41,89"
-
-H 41° 33' 25,78" 073° 01' 33,65"
-
-I 41° 34' 10,97" 073° 01' 57,86"
-
-J 41° 34' 11,43" 073° 02' 24,49"
-
-K 41° 33' 40,24" 073° 02' 21,34"
+E 41º 33' 43.03" 73º 02' 21.62"
 
 #### Artículo 2º
 
