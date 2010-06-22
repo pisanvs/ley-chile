@@ -60,9 +60,11 @@ s) Sistema de producción intensivo: Cultivo de recursos hidrobiológicos cuya a
 
 t) Subsecretaría: Subsecretaría de Pesca.
 
-u) Lavado in situ: Limpieza de las artes de cultivo sin moverlos desde su posición de operación y utilizando sistemas de aspirado, flujos de agua o cualquier medio mecánico.
+u) Limpieza in situ: actividad de remoción de materiales de las artes de cultivo sin moverlos desde su posición de operación.
 
 v) Artes de cultivo: Elementos o sistemas utilizados para la realización de acuicultura. Se comprenden dentro de éstos las redes, linternas, cuelgas y demás elementos destinados a la contención de especies en cultivo, así como los elementos de fijación, flotación y protección de los mismos.
+
+Asimismo, cuando el presente reglamento se refiera a redes se entenderá por éstas a las redes peceras y redes loberas que se utilizan en los centros de cultivo de peces.
 
 #### Artículo 3º
 
@@ -90,9 +92,7 @@ Una copia de las certificaciones señaladas en el inciso anterior deberán ser m
 
 f) Utilizar sólo aquellos sistemas de emisión de sonidos destinados a ahuyentar mamíferos marinos o aves que hubieren sido autorizados expresamente por la autoridad competente.
 
-g) Utilizar los elementos de flotación compuestos de poliestileno expandido (tales como plumavit o aislapol), poliuretano o similares, sólo en su presentación compacta, no en perlas ni trozos, y debidamente forrados con materiales resistentes que impidan su disgregación.
-
-Las medidas de protección ambiental que se requieran en relación con el cultivo de las especies que sean incorporadas en la nómina de especies hidrobiológicas vivas de importación autorizada, fijada en conformidad al artículo 13 de la ley, serán establecidas mediante decreto supremo expedido a través del Ministerio de Economía, Fomento y Reconstrucción, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal que corresponda.
+g) Utilizar elementos de flotación que no permitan ningún tipo de desprendimiento de los materiales que lo componen.
 
 h) Activar durante el proceso de alimentación un sistema de detección o captación del alimento no ingerido. Se exceptúan de esta obligación los centros que alimenten las especies en cultivo, exclusivamente con algas y los centros ubicados en tierra.
 
@@ -158,15 +158,39 @@ Los centros de cultivo ubicados en tierra deberán cumplir con las normas de emi
 
 El uso de mecanismos físicos, productos químicos y biológicos, o la realización de cualquier proceso que modifique las condiciones de oxígeno del área de sedimentación, así como las actividades que resuspendan el sustrato, el arado, arrastre, aspirado o extracción del material sedimentado proveniente de centros de cultivo, sólo podrán ser llevado a cabo previa autorización por resolución fundada de la Subsecretaría.
 
-#### Artículo 9º
+#### Artículo 9
 
-La limpieza de los artes de cultivo y los lavados de redes con y sin antiincrustantes se deber� realizar en instalaciones que traten sus efluentes de acuerdo con la normativa ambiental vigente, sin perjuicio de lo dispuesto en el inciso 3º del presente artículo. Los residuos sólidos en ellas generados deben ser dispuestos de acuerdo a lo que estipule la normativa pertinente. El transporte marítimo, fluvial y lacustre de las artes de cultivo deberá realizarse en contenedores que impidan el escurrimiento de líquidos o desprendimiento de material.
+La limpieza y lavado de las artes de cultivo sólo podrá realizarse bajo las condiciones generales y específicas que para cada caso se indican:
 
-Para realizar la limpieza y lavados antes indicados en plataformas flotantes se requerirá la autorización expresa de la Autoridad Marítima de acuerdo con lo señalado en el inciso sexto del artículo 142 del decreto ley 2.222 de 1978. Sin perjuicio de lo anterior, no se autorizará este lavado en cuerpos de agua terrestres.
+1. Toda actividad de lavado y limpieza de redes deberá observar siempre las siguientes condiciones generales:
 
-No obstante lo dispuesto en el inciso primero, el lavado in situ sólo podrá efectuarse en centros ubicados en mar y siempre que las artes de cultivo no hubieren sido impregnadas con anti-incrustantes que contengan como productos activos elementos tóxicos no degradables o bioacumulables. Las condiciones respectivas serán establecidas por resolución de la Autoridad Marítima.
+a) Las redes removidas deberán ser depositadas de manera inmediata en contenedores u otro tipo de envases, debiendo éstos ser herméticos, sin vías de evacuación abiertas, sellados y etiquetados, pudiendo ser mantenidos en el respectivo centro por el plazo máximo de una semana contado desde su remoción.
 
-Las redes removidas para su limpieza no podrán ser mantenidas o acopiadas en el centro de cultivo ni sectores aledaños a éste, sin perjuicio de lo dispuesto en el inciso 2°, en cuyo caso se estará a la autorización otorgada por la Autoridad Marítima.
+Salvo lo señalado en el inciso anterior, las redes no podrán ser acopiados o mantenidos en sectores aledaños al centro de cultivo.
+
+b) El transporte de las redes desde y hacia el centro deberá realizarse en contenedores u otro tipo de envases, debiendo éstos ser herméticos, sin vías de evacuación abiertas, sellados y etiquetados.
+
+2. El lavado o limpieza de las artes de cultivo en instalaciones ubicadas en tierra sólo podrá efectuarse bajo las siguientes condiciones copulativas:
+
+a) Las instalaciones deberán tratar sus efluentes de acuerdo con las normas de emisión vigentes y lo dispuesto en el decreto supremo a que se refiere el artículo 86 de la Ley General de Pesca y Acuicultura.
+
+b) Los residuos sólidos generados deben ser dispuestos de acuerdo a lo que estipule la normativa pertinente.
+
+3. La limpieza y lavado de las artes de cultivo en embarcaciones, pontones y otros artefactos navales sólo podrá efectuarse si se cuenta con la autorización expresa de la Autoridad Marítima de acuerdo con lo dispuesto en el inciso sexto del artículo 142 del decreto ley 2.222, de 1978. No obstante lo anterior, queda prohibido este tipo de lavado:
+
+a) Respecto de las artes de cultivo utilizadas en los centro de cultivo de peces.
+
+b) Respecto de todo centro de cultivo ubicado en cuerpos de agua terrestres.
+
+4. La limpieza in situ sólo podrá efectuarse respecto de artes de cultivo que no estén impregnadas con anti-incrustantes que contengan como productos activos elementos tóxicos no degradables o bioacumulables, lo que deberá acreditarse ante el Servicio, previo a su instalación en el respectivo centro.
+
+En el evento que el sistema de limpieza in situ corresponda al aspirado con retención de sólidos, no podrán transcurrir más de 20 días corridos entre una actividad de limpieza y otra para un mismo arte de cultivo entre los meses de octubre a marzo y de dos meses entre los meses de abril a septiembre. Asimismo, los residuos sólidos retenidos deberán ser dispuestos en tierra, de conformidad con la normativa vigente. El plazo de 20 días o 2 meses, en su caso, para la primera limpieza, se computará desde la fecha de instalación del respectivo arte de cultivo, la que deberá ser informada por el titular de conformidad con el inciso 4º del presente numeral. En el caso que transcurran más de 20 días o de dos meses, en su caso, sin que se efectúe la limpieza de un mismo arte de cultivo, no podrá volver a utilizarse respecto de éste el sistema de aspirado con retención, debiendo efectuarse su limpieza de conformidad con lo señalado en el numeral 2. o 3. del presente artículo, en su caso.
+
+En el caso que el sistema de limpieza in situ se efectúe mediante un sistema distinto del aspirado con retención de sólidos, no podrán transcurrir más de 15 días corridos entre una actividad de limpieza y otra para un mismo arte de cultivo entre los meses de octubre a marzo y de dos meses entre los meses de abril a septiembre. El plazo de 15 días o de dos meses, en su caso, para la primera limpieza, se computará desde la fecha de instalación del respectivo arte de cultivo, la que deberá ser informada por el titular de conformidad con el inciso 4º del presente numeral. Entre los meses de octubre a marzo en el caso que transcurran más de 15 días sin que se efectúe la limpieza de un mismo arte de cultivo, no podrá volver a utilizarse respecto de éste el sistema contemplado en el presente inciso, debiendo aplicarse el sistema de aspirado con retención o en el caso que transcurran más de 20 días desde la limpieza anterior, ésta deberá efectuarse de conformidad con lo señalado en el numeral 2. o 3. del presente artículo, en su caso. Entre los meses de abril a septiembre, en el caso que transcurran más de dos meses, sin que se efectúe la limpieza de un mismo arte de cultivo, no podrá volver a utilizarse respecto de éste el sistema contemplado en el presente inciso, debiendo efectuarse su limpieza de conformidad con lo señalado en el numeral 2. o 3. del presente artículo, en su caso.
+
+En los casos de limpieza in situ indicados en los dos incisos anteriores, el titular del centro deberá dar aviso al Servicio de la fecha de instalación del arte de cultivo en el centro, en el plazo de cinco días desde que ésta se haya efectuado, e indicar el sistema de limpieza in situ que utilizará. Asimismo, el titular deberá llevar un registro en el centro de las fechas en que se efectúa este tipo de limpieza por arte de cultivo, las que deberán estar adecuadamente identificadas.
+
+Sin perjuicio de lo señalado en los incisos anteriores, la Subsecretaría podrá determinar, de oficio o a petición de cualquier interesado, frecuencias distintas de limpieza in situ, en áreas o sectores, que por sus características ambientales así lo justifiquen.
 
 ## Título II
 
@@ -264,7 +288,7 @@ En los casos de centros de cultivo con sistema de producción extensivo y los de
 
 La INFA deberá ser presentada por los titulares de los centros de cultivo dentro de los dos meses siguientes al término de los muestreos.
 
-En cualquier caso, no podrá ingresarse nuevos ejemplares a los centros de cultivo mientras no se cuente con los resultados de la INFA que acrediten que el centro está operando en niveles compatibles con la capacidad del cuerpo de agua, de conformidad con el artículo 3° del presente reglamento.
+No podrá ingresarse nuevos ejemplares a los centros de cultivo mientras no se cuente con los resultados de la INFA que acrediten que el centro está operando en niveles compatibles con la capacidad del cuerpo de agua, de conformidad con el artículo 3° del presente reglamento. Se exceptúa de la medida anterior, los centros de cultivo con sistemas de producción extensivos y los de producción intensiva que se alimenten exclusiva y permanentemente de macroalgas.
 
 Sin perjuicio de lo anterior, esta medida no regirá en el caso que la autoridad competente no se hubiere pronunciado en el plazo de tres meses contados desde la fecha de entrega de los resultados de la INFA.
 
@@ -332,7 +356,7 @@ transitorio: Lo dispuesto en los artículos 4 letras d) y g) y 10 inciso 2º com
 
 #### Artículo sexto
 
-transitorio: En el proceso de modificación del proyecto técnico, la exigencia de conservar una distancia mínima a que se refieren los artículos 11 y 13 del presente reglamento, no será exigible a los centros que mantengan o disminuyan la intensidad de su sistema de producción y que hubieren sido autorizados antes del 14 de diciembre de 2001. Se entenderá que se disminuye la intensidad, cuando se sustituya total o parcialmente un sistema de producción intensivo por uno extensivo o por uno intensivo cuya alimentación se base exclusiva y permanentemente en macroalgas. Asimismo, se entenderá que disminuye la intensidad del sistema de producción cuando se sustituya total o parcialmente un cultivo extensivo de invertebrados por uno de macroalgas.
+transitorio: En el proceso de modificación del proyecto técnico, la exigencia de conservar una distancia mínima a que se refieren los artículos 11 y 13 del presente reglamento, no será exigible a los centros que mantengan o disminuyan la intensidad de su sistema de producción. Se entenderá que se disminuye la intensidad, cuando se sustituya total o parcialmente un sistema de producción intensivo por uno extensivo o por uno intensivo cuya alimentación se base exclusiva y permanentemente en macroalgas. Asimismo, se entenderá que disminuye la intensidad del sistema de producción cuando se sustituya total o parcialmente un cultivo extensivo de invertebrados por uno de macroalgas.
 
 La misma excepción será aplicable a los casos de solicitudes de fusión de concesiones contiguas, actualmente existentes y del mismo titular.
 
@@ -343,6 +367,10 @@ transitorio: La distancia mínima a que se refiere el artículo 13 bis no será 
 #### Artículo 8°
 
 transitorio.- Por el período de seis meses contados desde la fecha de publicación en el Diario Oficial del presente decreto, se suspende la exigencia establecida en el inciso 1° del artículo 21 a los laboratorios que realizan análisis para elaboración de CPS e INFA, consistente en su acreditación ante el Sistema Nacional de Acreditación administrado por el Instituto Nacional de Normalización, de conformidad con la Norma Chile Nch-ISO/IEC17025:2005 (ES) o la que la reemplace.
+
+#### Artículo 9
+
+transitorio.- La exigencia establecida en la letra g) del artículo 4º entrará en vigencia en el plazo de un año, contado desde la publicación del presente decreto en el Diario Oficial.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
 
