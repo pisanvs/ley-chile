@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.577 de 03 de febrero del 2010, se publicó INSTRUCCIÓN GENERAL N° 4 SOBRE TRANSPARENCIA ACTIVA con el error que se salva a continuación: página treinta y siete, primera columna, en el punto 1.9. , en el párrafo segundo, donde dice "... . Dicha nómina incluirá datos como, por ejemplo, domicilio, teléfono y correo electrónico del beneficiario, ..." debe decir "... . Dicha nómina excluirá datos como, por ejemplo, domicilio, teléfono y correo electrónico del beneficiario, ...".
