@@ -1,0 +1,23 @@
+DECLARA ZONA SATURADA POR MATERIAL PARTICULADO RESPIRABLE MP10, A LAS COMUNAS DE TALCA Y MAULE
+
+Núm. 12.- Santiago, 4 de febrero de 2010.- Vistos: Lo establecido en la Constitución Política de la República de Chile, en sus artículos 19 números 8 y 9, y 32 número 6; en la ley Nº 19.300 sobre Bases Generales del Medio Ambiente, artículos 2 y 43; en el DS Nº 59 de 1998, del Ministerio Secretaría General de la Presidencia, que establece la Norma de Calidad Primaria para Material Particulado Respirable MP10; en el oficio ordinario Nº 989, de fecha 31 de mayo de 2007, el oficio ordinario Nº 2.553, de fecha 2 de diciembre de 2009, ambos del Secretario Regional Ministerial de Salud Región del Maule; en las Actas de reunión ordinaria, de día 18 de mayo de 2007 y de día 4 de febrero de 2009, de la Comisión Regional del Medio Ambiente (COREMA) de la Región del Maule; en el ordinario Nº 320, de fecha 30 de junio de 2009, de la Directora Regional de la Comisión Nacional del Medio Ambiente Región del Maule, en los ordinarios Nº 320, de 30 de junio de 2009 y Nº 661, de 2 de diciembre de 2009, ambos de la Directora Regional de la Comisión Nacional del Medio Ambiente Región del Maule, y en el memorándum Nº 623, de 18 de diciembre de 2009, del Jefe del Departamento de Control de la Contaminación de la Comisión Nacional del Medio Ambiente, que adjunta el "Informe Técnico para Declarar Zona Saturada por Material Particulado Respirable MP10 a las comunas de Talca y Maule" y demás antecedentes del expediente de declaración de zona saturada; lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y en la demás normativa aplicable.
+
+Considerando:
+
+1º Que, la estación monitora de calidad del aire ubicada en el Consultorio La Florida, coordenadas UTM 257076E, 6075720N, 90 Altura Nivel del Mar, USO 19H, fue declarada como Estación de monitoreo de material particulado respirable MP10, con representatividad poblacional (EMRP) por el Secretario Ministerial de Salud de la Región del Maule, mediante resolución exenta Nº 205, de 21 de marzo de 2005.
+
+2º Que, los resultados de las mediciones efectuadas en dicha estación monitora de calidad del aire, validadas por la Autoridad Sanitaria de la Región del Maule, según consta de sus oficios ordinarios Nº 989, de 31 de mayo de 2007 y Nº2.553, de 2 de diciembre de 2009, y del memorándum Nº623, de 18 de diciembre de 2009, del Jefe del Departamento de Control de la Contaminación de CONAMA, que contiene el "Informe Técnico para declarar zona saturada por material particulado respirable MP10 a las comunas de Talca y Maule", permiten concluir que la norma de calidad primaria para material particulado respirable MP10, como concentración anual ha sido excedida para el año 2007 y 2008, de acuerdo al promedio aritmético de tres años calendarios consecutivos, en este caso de los años 2005, 2006, 2007 y 2008; y excedida como concentración de 24 horas para los mismos años.
+
+3º Que, los resultados entregados por la aplicación de un análisis de trayectorias de masas de aire, incluyendo a las comunas de Talca y Maule, que constan en el informe técnico de calidad del aire ya señalado, recomiendan que la zona a declarar como saturada sea la comprendida por la totalidad de los territorios que conforman las comunas de Talca y Maule, tanto en sus áreas urbanas como rurales.
+
+4º Que, el objetivo de las normas primarias de calidad ambiental es la protección de la salud de las personas, y que la declaración de zona saturada es condición necesaria para la elaboración de un plan de descontaminación, instrumento de gestión ambiental que tiene por finalidad recuperar los niveles señalados en las normas primarias de calidad ambiental de una zona saturada,
+
+Decreto:
+
+#### Artículo único
+
+Declárase zona saturada por material particulado respirable MP10, como concentración anual y de 24 horas, la zona geográfica que comprende a las comunas de Talca y Maule, cuyos límites geográficos fueron fijados por el artículo 7º, literal B) Nº 1 y 5, respectivamente, del decreto con fuerza de ley Nº 3-18.715, del Ministerio del Interior, publicado en el Diario Oficial del 5 de diciembre de 1989, que precisa delimitaciones de las comunas del país.
+
+Anótese, tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- José Antonio Viera-Gallo Quesney, Ministro Secretario General de la Presidencia.- Julio Montt Vidal, Ministro de Salud (S).
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Claudio Alvarado Andrade, Subsecretario General de la Presidencia.
