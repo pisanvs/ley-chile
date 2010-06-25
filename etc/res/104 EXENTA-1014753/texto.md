@@ -1,0 +1,5 @@
+AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 104, del 21 de junio de 2010 que autoriza a las instituciones sin fines de lucro Corporación de Amigos del Hospital Roberto del Río, RUT Nº 72.210.600-8, Fundación Ludovico Rutten, RUT Nº 70.000.440-6, Aldeas Infantiles SOS Chile, RUT Nº 73.597.200-6, Corporación de Oportunidad y Acción Solidaria, RUT Nº 71.715.000-7, Fundación Educacional de Promoción de Viviendas y de Beneficencia Rodelillo, RUT Nº 71.581.400-5, Corporación Nuestra Ayuda Inspirada en María Curicó, RUT Nº 65.368.670-6, Corporación de Ayuda al Paciente Mental, RUT Nº 70.962.100-9, Corporación Carpe Diem, RUT Nº 65.616.040-3, y Sociedad de Asistencia y Capacitación, RUT Nº 70.012.450-9, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en junio, de 2010.
