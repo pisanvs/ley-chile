@@ -12,7 +12,7 @@ Considerando:
 
 Decreto:
 
-1º Autorízase a circular en días sábado en la tarde, domingo y festivos, al automóvil de la Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, que a continuación se singulariza, asignado al uso del señor Director General de Relaciones Económicas Internacionales de la Cancillería, don Carlos Furche G. o, en su defecto, al funcionario(a) que lo subrogue:
+1º Autorízase a circular en días sábado en la tarde, domingo y festivos, al automóvil de la Dirección General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, que a continuación se singulariza, asignado al uso del señor Director General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores, don Jorge Bunster Betteley, o del funcionario(a) que legalmente lo subrogue u ocupe dicho cargo:
 
 Automóvil : Sedán
 
