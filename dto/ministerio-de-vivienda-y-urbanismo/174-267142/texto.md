@@ -18,7 +18,7 @@ Decreto:
 
 #### Artículo 1º
 
-Los beneficiarios del Subsidio Habitacional regulado por el D.S. Nº 235 (V. y U.), de 1985, que entre el 1 de octubre de 2007 y el 30 de junio de 2010 renegocien el monto de la tasa de interés pactada con la entidad financiera que les hubiere otorgado el crédito hipotecario o el mutuo hipotecario endosable para enterar el precio de la vivienda conforme al citado reglamento o con la cesionaria del mismo, obtendrán una subvención destinada a financiar los costos, gastos y demás ítem a fin de permitir la implementación del respectivo proceso de renegociación de la tasa de interés real de los créditos para reducirla a condiciones actuales de mercado, que se hará efectiva a partir del mes de noviembre de 2007.
+Los beneficiarios del Subsidio Habitacional regulado por el D.S. Nº 235 (V. y U.), de 1985, que entre el 1 de octubre de 2007 y el 31 de diciembre de 2010 renegocien el monto de la tasa de interés pactada con la entidad financiera que les hubiere otorgado el crédito hipotecario o el mutuo hipotecario endosable para enterar el precio de la vivienda conforme al citado reglamento o con la cesionaria del mismo, obtendrán una subvención destinada a financiar los costos, gastos y demás ítem a fin de permitir la implementación del respectivo proceso de renegociación de la tasa de interés real de los créditos para reducirla a condiciones actuales de mercado, que se hará efectiva a partir del mes de noviembre de 2007.
 
 #### Artículo 2º
 
