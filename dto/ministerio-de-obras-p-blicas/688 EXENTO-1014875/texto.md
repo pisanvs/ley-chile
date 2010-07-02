@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº688, de 24 de mayo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°20, para la obra "Mejoramiento Ruta X-25, Sector Cruce Ruta 7 Norte - Puerto Cisnes, Km. 0,00000 a Km. 30,36875", Comuna de Cisnes, Provincia de Aysén, Región de Aysén", XI Región, que figura a nombre de SUBIABRE IGOR OMAR, rol de avalúo 502-46, superficie 61.267 M2. La Comisión de Peritos, fijó con fecha 02 de marzo de 2007, en la cantidad de $6.078.240. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
