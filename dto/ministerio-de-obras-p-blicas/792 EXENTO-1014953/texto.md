@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº792 de 31 de mayo de 2010, se expropió el lote de terreno Nº31, superficie 54 m2, rol de Avalúo 1349-3, comuna de Valdivia, para la obra "CAMINO MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831". PROVINCIA DE VALDIVIA, XIV REGION, TRAMO Nº1, y se acordó el valor de la indemnización con su propietaria GUADALUPE DEL CARMEN DELANNOY TIZNADO Y OTRA, ascendente a la cantidad de $104.163.450.-
+
+Fiscal del Ministerio de Obras Públicas.
