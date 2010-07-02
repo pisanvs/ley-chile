@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº788 de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno N°s. 33, 34, 36, 45, 32-A, 32-B, 36-A y 45-A, superficies 94, 801, 9.187, 709, 6.454, 279, 1.031 y 895 m2, Rol E/T, comuna de Illapel, IV Región para la obra "Mejoramiento Ruta D-37-E, Sector Limahuida - Canelillo", y se acordó el valor de indemnización con su propietario CÉSAR BERNARDO FORMAS ORTIZ, ascendente a la cantidad de $19.764.163.-
+
+Fiscal del Ministerio de Obras Públicas.
