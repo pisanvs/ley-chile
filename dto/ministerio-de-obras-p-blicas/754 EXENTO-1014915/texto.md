@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº754 de 31 de mayo de 2010, se dejó sin efecto los numerales 3º, 4º, 5º y 6º del Decreto MOP. (Exento) Nº1569 de 30 de septiembre de 2009, para la obra Camino Rutas I-756 e I-760, Sector Cunaco Isla del Guindo Quinahue, Tramo km. 1,30000 a km. 6,73626, VI Región, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº.1. Consígnese judicialmente el monto provisional de la indemnización del lote Nº1, fijada por la Comisión de Peritos, con fecha 30 de diciembre de 2007, ascendente a la cantidad de $1.777.500.
+
+Fiscal del Ministerio de Obras Públicas.
