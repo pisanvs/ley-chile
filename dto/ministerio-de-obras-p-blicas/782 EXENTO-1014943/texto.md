@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº782 de 31 de mayo de 2010, se expropió el lote de terreno Nº10, superficie 3.803 m2, Rol Nº3701-1, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, SECTOR ALTO DEL CARMEN EL TRANSITO (VARIANTE PERALES)" KM. 19,90000 AL KM. 23,77240, PROVINCIA DE HUASCO, REGION DE ATACAMA y se acordó el valor de indemnización con doña IRIS LUISA ALQUINTA IRRIBARREN, ascendente a la cantidad de $2.606.876.-
+
+Fiscal del Ministerio de Obras Públicas.
