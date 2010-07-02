@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº778 de fecha 31 de mayo de 2010, se expropió el lote de terreno Nº48-A, superficie 233 m2, rol Nº280-46, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario FAUSTINO ANTONIO ARELLANO ROJAS Y OTRAS, ascendente a la cantidad de $1.155.379.-
+
+Fiscal del Ministerio de Obras Públicas.
