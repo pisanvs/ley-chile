@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº770 de fecha 31 de mayo de 2010, se expropiaron los lotes de terreno Nºs 4 y 5, superficies 149 y 200 m2 respectivamente, rol Nº190-11, comuna de Quellón, para la obra "Conservación Camino Básico Cruce Longitudinal Oqueldan Chaiguao, Rol W-881, Km. 3,70000 Km. 11,00000" X Región y se acordó el valor de la indemnización con su propietario NORMA CARCAMO MANSILLA, ascendente a la cantidad de $1.111.532.-
+
+Fiscal del Ministerio de Obras Públicas.
