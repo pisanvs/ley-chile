@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº775 de fecha 31 de mayo de 2010, se expropió el lote de terreno Nº161-B, superficie 890 m2, rol Nº226-8, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario NORMA LUISA REVECO AVILA, ascendente a la cantidad de $2.085.345.-
+
+Fiscal del Ministerio de Obras Públicas.
