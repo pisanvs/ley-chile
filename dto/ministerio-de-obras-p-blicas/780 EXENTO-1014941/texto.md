@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº780 de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno N°s. 66-A y 67-A, superficies 1.425 y 1.118 m2, Rol N°139-64, comuna de Vichuquén, VII Región para la obra "Camino Mejoramiento Ruta J810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 a Km. 15,372989", y se acordó el valor de indemnización con su propietario JORGE IVÁN FAÚNDEZ CONCHA, ascendente a la cantidad de $3.856.481.-
+
+Fiscal del Ministerio de Obras Públicas.
