@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº783 de fecha 31 de mayo de 2010, se expropió el lote de terreno Nº107, superficie 27 m2, rol Nº2570-17, comuna de Valdivia, para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831, Provincia de Valdivia, XIV Región, Tramo 3" y se acordó el valor de la indemnización con su propietario SANTOS OMAR VALDEBENITO CAMPOS, ascendente a la cantidad de $2.555.238.-
+
+Fiscal del Ministerio de Obras Públicas.
