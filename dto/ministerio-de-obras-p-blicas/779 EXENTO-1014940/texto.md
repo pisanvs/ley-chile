@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº779 de 31 de mayo de 2010, se expropió el lote de terreno Nº5, superficie 104 m2., rol de avalúo Nº154-114, comuna de Petorca, para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500, Comuna y Provincia de Petorca, V Región", y se acordó el valor de la indemnización con su propietaria doña JUANA FILOMENA VALLE MESINA, ascendente a la cantidad de $1.575.126.-
+
+Fiscal del Ministerio de Obras Públicas.
