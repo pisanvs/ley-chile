@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº777, de fecha 31 de mayo del 2010, se expropió el lote de terreno Nº23-A, superficie 870 m2, Rol Nº911-20, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Transito Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000", y se acordó el valor de indemnización con su propietario GUIDO DEL ROSARIO TAMBLAY ARDILES, ascendente a la cantidad de $1.409.103.-
+
+Fiscal del Ministerio de Obras Públicas.
