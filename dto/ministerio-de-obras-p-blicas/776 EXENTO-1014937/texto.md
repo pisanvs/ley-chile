@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº776 de 31 de mayo de 2010, se expropió el lote de terreno Nº41, superficie 475 m2, Rol Nº925-25, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO CAMINO DE ACCESO AL PROYECTO MINERO PASCUA LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA II" y se acordó el valor de indemnización con doña CLEMIRA ANTONIA PAREDES PAREDES, ascendente a la cantidad de $3.166.228.-
+
+Fiscal del Ministerio de Obras Públicas.
