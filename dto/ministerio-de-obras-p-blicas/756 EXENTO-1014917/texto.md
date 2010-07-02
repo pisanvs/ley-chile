@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº756, de 31 de mayo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra "Infraestructura de Conexión Muelle Lago Vargas, Sector: Lago Vargas", Comuna de Cochrane, Provincia de Capitán Prat, XI Región de Aysén, que figura a nombre de SANDOVAL CIFUENTES REINALDO, rol de avalúo 254-1, superficie 4.190,78 M2. La Comisión de Peritos, fijó con fecha 15 de noviembre de 2009, en la cantidad de $988.156. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
