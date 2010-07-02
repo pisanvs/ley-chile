@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº785 de fecha 31 de mayo del 2010, se expropió el lote de terreno Nº54-A, superficie 1.293,00 m2, Rol N°1118-53, comuna de Ancud, X Región de Los Lagos para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, tramo 8 Variante Ancud", y se acordó el valor de indemnización con su propietario SALVADOR MAURICIO VIDAL DÍAZ, ascendente a la cantidad de $9.486.511.-
+
+Fiscal del Ministerio de Obras Públicas.
