@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº758, de 31 de mayo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº43, para la obra: "Mejoramiento Ruta D-805, Illapel - Caren", Provincia de Choapa, IV Región, Comuna de Illapel, que figura a nombre de MARÍA RAMÍREZ OLIVARES, rol de avalúo E/T, superficie 726 M2. La Comisión de Peritos, fijó con fecha 5 de noviembre de 2008, en la cantidad de $929.800. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
