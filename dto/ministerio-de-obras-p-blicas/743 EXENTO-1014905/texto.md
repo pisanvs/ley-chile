@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº743, de 31 de mayo de 2010, y en base a la facultad otorgada por el artículo 105 del DFL MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº5, para la obra "Construcción Variante Ruta C-46 Freirina, Provincia de Huasco, Región de Atacama", Comuna de Freirina, que figura a nombre de Ilustre Municipalidad de Freirina, rol de avalúo en traMITE, superficie 6.787 M2. La Comisión de Peritos fijó con fecha 7 de enero de 2009, en la cantidad de $34.783.810, para el lote N°5. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
