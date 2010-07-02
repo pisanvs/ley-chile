@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº753, de 31 de mayo de 2010, se dejó sin efecto los numerales 3°, 4°, 5° y 6º, del Decreto Exento N°495, de 31 de marzo de 2009, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº15, expropiado a CARLOS ANDRÉS PIZARRO, con motivo de la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", Provincia de Elqui, Comuna de Paihuano. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 3 de julio de 2007, ascendente a la cantidad de $196.000, para el lote N°15.
+
+Fiscal del Ministerio de Obras Públicas.
