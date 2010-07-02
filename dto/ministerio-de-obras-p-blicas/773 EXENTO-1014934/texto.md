@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº773 de fecha 31 de mayo del 2010, se expropió el lote de terreno Nº14, superficie 60 m2, Rol Nº187-34, comuna de Arauco, VIII Región para la obra "Camino Ruta P-22, Sector Llico - Punta Lavapie, tramo Km. 0,00000 al Km. 6,52000, Región del Bío-Bío", y se acordó el valor de indemnización con su propietario LUIS ERNESTO CHAMBLAS CHAMBLAS Y OTROS, ascendente a la cantidad de $1.418.040.-
+
+Fiscal del Ministerio de Obras Públicas.
