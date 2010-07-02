@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº784 de fecha 31 de mayo del 2010, se expropió el lote de terreno N°45-A, superficie 632 m2, Rol N°30-52, comuna de Placilla, VI Región para la obra "Camino Ampliación Reposición Ruta I-50, Sector San Fernando cruce Ruta I-860, tramo 0,00000 a Km. 35,78646" y se acordó el valor de indemnización con su propietario ROBERTO ENRIQUE CABRERA PINO Y OTRA, ascendente a la cantidad de $4.741.041.-
+
+Fiscal del Ministerio de Obras Públicas.
