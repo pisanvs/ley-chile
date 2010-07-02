@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº791, de fecha 31 de mayo del 2010, se expropió el lote de terreno Nº44, superficie 103 m2, Rol Nº1353-4, comuna de Valdivia, XIV Región para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831, Provincia de Valdivia, XIVa Región. tramo Nº2.", y se acordó el valor de indemnización con su propietaria RUTH AMELIA VILLAGRA LEAL, ascendente a la cantidad de $52.705.852.-
+
+Fiscal del Ministerio de Obras Públicas.
