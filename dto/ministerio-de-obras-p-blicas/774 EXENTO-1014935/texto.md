@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº774 de fecha 31 de mayo del 2010, se expropió el lote de terreno N°3, superficie 1.008 m2, Rol N°147-25, comuna de Peralillo, VI Región para la obra "Reposición Puente Los Cardos, Ruta I-310, comuna de Peralillo, Provincia de Colchagua, Sexta Región" y se acordó el valor de indemnización con su propietaria JUANA DE LAS MERCEDES CEPEDA Y OTROS ascendente a la cantidad de $991.916.-
+
+Fiscal del Ministerio de Obras Públicas.
