@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº781, de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno Nºs 3 y 4, superficie 182 y 450 m2 respectivamente, Rol Nº903-46, comuna de Alto del Carmen, III Región para la obra "Reposición Puente Malaguin y otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama (Puente Conay).", y se acordó el valor de indemnización con su propietario JULIO FLORES TRIGO, ascendente a la cantidad de $1.422.190.-
+
+Fiscal del Ministerio de Obras Públicas.
