@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.917, de 23 de junio de 2010, de esta Subsecretaría, autorízase la caza del ejemplar de la especie Lobo marino común, identificado de conformidad con los Considerandos de la resolución extractada, en el área marítima próxima a la caleta de Arica, XV Región de Arica y Parinacota. La caza del ejemplar antes indicado deberá ser efectuada por la Capitanía de Puerto de Arica, en coordinación con el Servicio Nacional de Pesca, quien deberá velar por el correcto manejo, inertización y disposición de los restos del ejemplar muerto.
+
+Valparaíso, 23 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
