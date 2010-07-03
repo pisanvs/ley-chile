@@ -1,0 +1,5 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.695 de 25 de junio del 2010, se publicó Decreto Núm. 554.-, que AUTORIZA EMISIÓN DE VALORES REPRESENTATIVOS DE DEUDA PÚBLICA DIRECTA DE LARGO PLAZO, PARA SU COLOCACIÓN EN EL MERCADO DE CAPITALES LOCAL; Y DESIGNA AL BANCO CENTRAL DE CHILE COMO AGENTE FISCAL PARA LA COLOCACIÓN ANTEDICHA, ESTABLECIÉNDOSE TÉRMINOS Y CONDICIONES APLICABLES A SU DESEMPEÑO, con el error que se salva a continuación: cuerpo I, página cinco, segunda columna, donde dice "... Artículo 14.- Autorízase a la Tesorería para que proporcione al Agente Fiscal los fondos necesarios para la amortización o servicio de los Bonos que se emitan. Las provisiones de fondos efectuadas al amparo de este número ..." debe decir "... Artículo 14.- Autorízase a la Tesorería para que proporcione al Agente Fiscal los fondos necesarios para la amortización o servicio de los Bonos que se emitan.
+
+Las provisiones de fondos efectuadas al amparo de este número ..."

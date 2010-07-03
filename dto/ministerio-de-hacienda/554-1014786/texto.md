@@ -390,7 +390,9 @@ En todo caso, se deja constancia que tratándose de intereses retenidos conforme
 
 #### Artículo 14
 
-Autorízase a la Tesorería para que proporcione al Agente Fiscal los fondos necesarios para la amortización o servicio de los Bonos que se emitan. Las provisiones de fondos efectuadas al amparo de este número deberán hacerse a través de la Cuenta Corriente Especial y deberán estar disponibles a más tardar el día hábil bancario anterior a la fecha del pago respectivo.
+Autorízase a la Tesorería para que proporcione al Agente Fiscal los fondos necesarios para la amortización o servicio de los Bonos que se emitan.
+
+Las provisiones de fondos efectuadas al amparo de este número deberán hacerse a través de la Cuenta Corriente Especial y deberán estar disponibles a más tardar el día hábil bancario anterior a la fecha del pago respectivo.
 
 #### Artículo 15
 
