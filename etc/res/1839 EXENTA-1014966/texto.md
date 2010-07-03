@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.839 de 18 de junio de 2010, de esta Subsecretaría, autorízase a PESQUERA BÍO BÍO S.A. para ampliar actividades pesqueras extractivas con la nave "Pelícano", en las áreas marítimas que a continuación se indican, donde podrá extraer los siguientes recursos hidrobiológicos: a) En el área marítima comprendida entre la V a VII y IX a X Regiones, por fuera del área de reserva artesanal, con cerco: Jibia o Calamar rojo; b) En el área marítima comprendida entre la V a VII y IX a X Regiones, por fuera de las 60 millas marinas, con arrastre de media agua: Jibia o Calamar rojo.
+
+Valparaíso, 18 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
