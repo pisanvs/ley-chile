@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.693, de 3 de junio de 2010, de esta Subsecretaría, autorízase a FRANCISCO MANUEL OLLIVET-BESSON CONUS, para iniciar actividades pesqueras de transformación, instalar y operar planta en pasaje 13 Nº 1681, Villa Jardines del Mar, Puerto Montt, X Región, para elaborar en líneas de Cocido, Congelado, Ahumado, Conservas y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 3 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
