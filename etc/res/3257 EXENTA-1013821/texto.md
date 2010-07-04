@@ -16,7 +16,7 @@ Núm. 3.257 exenta.- Visto:
 
 Resolución:
 
-1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del Capítulo Segundo del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Certificado de Calificación hasta el 30 de Junio de 2010.
+1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del Capítulo Segundo del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Certificado de Calificación hasta el 15 de julio de 2010.
 
 2. Los recursos asignados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta Resolución se distribuyen regionalmente, según el siguiente cuadro:
 
