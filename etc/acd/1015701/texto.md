@@ -38,6 +38,8 @@ M. Carreras de la información: Se refiere a la formación universitaria de prof
 
 N. Buen manejo de relaciones interpersonales: Concepto que aplicado como requisito para descripción de un cargo, se refiere a las siguientes aptitudes: respecto a la dignidad y derecho de las personas; capacidad de comunicación; competencia para resolver positivamente los conflictos; disposición para motivar a los funcionarios con los que trabaja; capacidad para trabajar en equipo aceptando la diversidad de puntos de vista y canalizándolos para el logro de objetivos institucionales.
 
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
+
 #### Artículo 3
 
 A la Comisión de Biblioteca le corresponde supervigilar el cumplimiento de las funciones de la Biblioteca y su orden administrativo e interno.
@@ -70,6 +72,8 @@ Los cargos a contrata deberán asimilarse a la categoría de un cargo de planta,
 
 C. Contratado a honorarios: Es aquél profesional o técnico de educación superior o experto en determinadas materias, que puede ser contratado para realizar labores accidentales no habituales de la Biblioteca o para la ejecución de labores específicas. Se regirá por las estipulaciones que establezca el respectivo contrato y no le serán aplicables las disposiciones de este Estatuto.
 
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
+
 #### Artículo 6
 
 El Director será nombrado por la Comisión de Biblioteca en conformidad a los requisitos que se establecen en el presente Estatuto y su remoción será facultad privativa de la citada Comisión.
@@ -77,6 +81,8 @@ El Director será nombrado por la Comisión de Biblioteca en conformidad a los r
 El Director Adjunto será nombrado por la Comisión de Biblioteca a propuesta del Director, en conformidad a los requisitos que se establecen en el presente Estatuto y su remoción será facultad privativa de dicha Comisión.
 
 Los demás funcionarios serán nombrados, promovidos y removidos mediante resolución del Director de la Biblioteca, previo acuerdo de la Comisión de Biblioteca, en la forma que establece este Estatuto.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 7
 
@@ -99,6 +105,8 @@ El personal de planta gozará del beneficio de inamovilidad, sin perjuicio de la
 #### Artículo 10
 
 La provisión de los cargos de planta se efectuará mediante nombramiento o ascenso, resuelto por la Comisión de Biblioteca, a propuesta del Director.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 11
 
@@ -416,6 +424,8 @@ F) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni h
 
 Todas las personas que acrediten, mediante los documentos y certificados correspondientes, cumplir con los requisitos generales y específicos del caso, tendrán derecho a postular en igualdad de condiciones.
 
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
+
 #### Artículo 25
 
 El concurso consistirá en un procedimiento técnico y objetivo que se utilizará para proveer personal en cargos vacantes. Dicho concurso deberá evaluar los antecedentes que presenten los postulantes y las pruebas que hubiesen rendido, si así se exigiere de acuerdo a las características de los cargos que se requiera proveer.
@@ -444,6 +454,8 @@ La Comisión de Selección comunicará al Director el resultado del concurso, pu
 
 El Jefe del Servicio seleccionará a tres de los postulantes que hubiesen obtenido los mejores puntajes y propondrá por Oficio a la Comisión de Biblioteca la elección de uno de ellos, adjuntando los antecedentes de los otros dos, así como las bases y resultados del Concurso.
 
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
+
 ### Párrafo 4º — Del Nombramiento
 
 #### Artículo 30
@@ -451,6 +463,8 @@ El Jefe del Servicio seleccionará a tres de los postulantes que hubiesen obteni
 El Director, previo acuerdo de la Comisión de Biblioteca, nombrará a uno de los postulantes de la terna propuesta, mediante resolución que indicará el cargo y la fecha en que deberá asumir sus funciones.
 
 El Director notificará el nombramiento al interesado por carta certificada, quien deberá manifestar su aceptación del cargo, dentro del plazo que se le señale. Si así no lo hiciere, la Comisión de Biblioteca procederá a declarar desierto el concurso o nominará a alguno de los otros postulantes propuestos.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 31
 
@@ -483,6 +497,8 @@ d) Hubieren sido sancionados con la medida disciplinaria de multa en los doce me
 #### Artículo 35
 
 Cuando un cargo vacante no pudiere proveerse por ascenso y existieren en otros escalafones funcionarios de planta que reúnan los requisitos para ocuparlo y no estén inhabilitados conforme al artículo precedente, el Director, previo acuerdo de la Comisión de Biblioteca, llamará a un concurso interno para proveerlo. Si se produjere igualdad en el resultado del concurso, preferirá el funcionario ubicado en una categoría superior. De persistir la igualdad, se estará a la antigüedad en la respectiva categoría; y si ella se mantuviere, decidirá el Jefe Superior del Servicio.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 36
 
@@ -701,6 +717,8 @@ Se entenderá por capacitación el conjunto de actividades permanentes, organiza
 #### Artículo 61
 
 Los fondos destinados a capacitación en el presupuesto de la Biblioteca se distribuirán por el Director, oyendo a las organizaciones gremiales, conforme a un programa anual aprobado por la Comisión de Biblioteca.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 62
 
@@ -968,6 +986,8 @@ Si se encontrare en tramitación un sumario administrativo en el que estuviere i
 
 Renuncia no voluntaria es la requerida por la autoridad correspondiente a un funcionario que sirve un cargo de la exclusiva confianza de aquella.
 
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
+
 #### Artículo 102
 
 La destitución de los funcionarios de planta procederá previo Sumario Administrativo.
@@ -1027,6 +1047,8 @@ Disposiciones Transitorias
 #### Artículo 1º
 
 Los actuales funcionarios de planta y a contrata estarán exentos de los requisitos contemplados en los artículos 12º a 22º de este Reglamento, para ser nombrado en los cargos de planta o a contrata del personal, con motivo de la aplicación de la normas de encasillamientos, ascensos y nombramientos de la ley Nº 19.297 y hasta por dos veces para los ascensos posteriores en la carrera de dichos funcionarios, siempre que el Jefe Superior del Servicio, en cada caso, y sobre la base de la idoneidad, así lo proponga a la Comisión de Biblioteca.
+
+> **Nota.** El numeral 1, letra d) del artículo único de la ley 20447, publicada el 03.07.2010, modifica el artículo 2º de la ley 18918, Orgánica Constitucional del Congreso Nacional, estableciendo como Jefe Superior del Servicio al Director de la Biblioteca del Congreso Nacional con las atribuciones para desempeñar las funciones relativas a la administración del personal y de los distintos servicios institucionales, y radicando en la Comisión de Biblioteca la supervigilancia del Servicio.
 
 #### Artículo 2º
 
