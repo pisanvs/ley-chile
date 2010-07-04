@@ -180,7 +180,9 @@ Frecuencias o bandas Intensidad de
 
 de frecuencias campo o potencia
 
-117 a 142,2 kHz 20 µV/m a 300 metros
+9 a 490 kHz 2.400/f (kHz) µV/m
+
+a 300 metros
 
 525 a 1.705 kHz 15 µV/m a l/2p metros
 
@@ -219,6 +221,14 @@ j.4) Operen en la banda de frecuencias de 57 a 64 GHz, en aplicaciones de servic
 - Ganancia mínima de antena: 28 dBi.
 
 - Potencia máxima radiada: 50 dBm.
+
+j.5) Equipos de banda ultra-ancha (conocidos por la sigla en inglés UWB), entendiéndose como tales los que operen con un ancho de banda fraccional igual o superior a 0,20 o un ancho de banda a -10 dB (B-10) igual o superior a 500 MHz, independientemente del ancho de banda fraccional.
+
+Para estos efectos el ancho fraccional se define como: Bf = B-10 / fC
+
+donde fC es la frecuencia central del ancho de banda a -10 dB.
+
+Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las disposiciones establecidas en el Apéndice 1 de la presente resolución y no deben ser empleados para el funcionamiento de juguetes ni operarse a bordo de aeronaves, barcos o satélites.
 
 #### Artículo 2º
 
