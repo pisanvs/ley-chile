@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.931, de 24 de junio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 2.883, de 2003, Nº 3.027, de 2004, Nº 247, de 2005 y Nº 489, de 2006, de esta Subsecretaría, del área de manejo Pichilemu A, VI Región, en virtud del artículo 21 del D.S. Nº 355, de 1995, de este Ministerio.
+
+Valparaíso, 24 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
