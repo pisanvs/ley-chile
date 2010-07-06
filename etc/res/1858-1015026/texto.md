@@ -1,0 +1,3 @@
+Por resolución Nº 1.858 de 18 de junio de 2010 de esta Subsecretaría, autorízase a JOSÉ ELIJIO MALDONADO SCHWENCKE, para instalar por el período de seis meses contados desde la fecha de la presente resolución, colectores de semillas de mitílidos en Costa Pucheguín, Estero Reloncaví, X Región, con superficie y coordenadas geográficas señaladas en la resolución extractada.
+
+Valparaíso, 18 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
