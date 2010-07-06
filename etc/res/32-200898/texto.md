@@ -30,9 +30,9 @@ NCH 1705-1979: Posiciones fundamentales de ejecución de las soldaduras y defini
 
 NCH 1706-1979: Prácticas recomendadas para el examen radiográfico de las uniones soldadas a tope, por fusión, en planchas de acero de espesor menor o igual que 50 mm.
 
-NCH 1710-1979: Metales de aporte para soldadura fabricados por fundición - Longitudes y tolerancias.
+NCH 1710-1979: DEROGADA.
 
-NCH 1711-1979: Metales de aporte para soldadura fabricados por transformación - Longitudes y tolerancias.
+NCH 1711-1979: DEROGADA.
 
 #### Artículo 2°
 
