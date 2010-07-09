@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.958, de esta Subsecretaría, deléguese en el Sr. Director Zonal de Pesca de la V a la IX Región e Islas Oceánicas, la facultad de tramitar y firmar bajo la fórmula "Por orden del Sr. Subsecretario de Pesca" las resoluciones correspondientes a las solicitudes de traspasos de cuotas otorgadas en el marco del Régimen Artesanal de Extracción, respecto de las especies Anchoveta y Sardina Común, realizadas por ORGANIZACIONES DE PESCADORES ARTESANALES DE LA VIII REGIÓN.
+
+Valparaíso, 30 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
