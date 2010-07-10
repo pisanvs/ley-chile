@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.851, de 18 de junio de 2010, de esta Subsecretaría, autorízase a GUSTAVO ANTONIO TRIGO FREDES para iniciar actividades pesqueras de transformación, instalar y operar planta en sitio Nº 3, Manzana H, Lote A, Punta Choros, comuna La Higuera, IV Región, para elaborar en líneas de Alga seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 18 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
