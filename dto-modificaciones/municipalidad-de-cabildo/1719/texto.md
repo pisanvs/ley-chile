@@ -60,7 +60,7 @@ Esta autorización adicional caducará, cuando se produzca un egreso o retiro de
 
 Segunda: Excepcionalmente, los actuales asignatarios de los paraderos reservados Nº 1 y Nº 2, podrán acceder a mantener la autorización de su vehículo en dichos paraderos, aun cuando transfieran su dominio.
 
-Estas transferencias sólo se aceptarán si se efectúan a más tardar el 31 de enero de 2010. Luego de esta fecha, no se autorizarán transferencias de asignatarios de paraderos reservados.
+Estas transferencias sólo se aceptarán si se efectúan a más tardar el 31 de julio de 2010. Luego de esta fecha, no se autorizarán transferencias de asignatarios de paraderos reservados.
 
 Los nuevos propietarios de los vehículos, para ser asignatarios de los estacionamientos reservados, deberán cumplir con las normas del presente decreto".
 
