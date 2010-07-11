@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.010, de 5 de julio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 2.311 de 1999, Nº 670 y Nº 1.625 de 2000, Nº 630 de 2001, Nº 1.762 de 2003 y Nº 1.719 de 2004, de esta Subsecretaría, del área de manejo El Quisco Sector B, V Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 5 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
