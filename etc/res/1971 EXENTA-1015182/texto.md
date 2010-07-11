@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.971, de 2 de julio de 2010, de esta Subsecretaría, autorízase a ALGAS MARINAS SOCIEDAD ANÓNIMA, ALGAMAR, para iniciar actividades pesqueras de transformación, instalar y operar planta en camino Las Algas Nº 205, localidad El Manzano, comuna de San José de Maipo, Región Metropolitana, para elaborar en línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 2 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
