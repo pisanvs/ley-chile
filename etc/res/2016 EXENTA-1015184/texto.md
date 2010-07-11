@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.016, de 5 de julio de 2010, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 307 de 2002 de esta Subsecretaría, que autorizó a MARÍA BAYCIC BAYCIC para ampliar actividades pesqueras extractivas con la nave "Don Mario", respecto del recurso hidrobiológico Reineta, en el área marítima comprendida entre la XV a III Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
