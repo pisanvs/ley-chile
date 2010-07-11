@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.019, de 5 de julio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 1.916 de 1999, Nº 672 y Nº 1.703, ambas de 2000, Nº 157 de 2002, Nº 2.163 de 2003, Nº 2.630 y Nº 3.079, ambas de 2004, de esta Subsecretaría, del área de manejo Punta Fraile, VIII Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 5 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
