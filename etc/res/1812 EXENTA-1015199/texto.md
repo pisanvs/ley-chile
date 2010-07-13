@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.812, de 11 de junio de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 3.477 de 2009, modificada mediante resolución exenta Nº 4.141 de 2009, ambas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de reineta (Brama australis), en aguas exteriores de la X Región", en el sentido que a continuación se indica:
+
+a) En el numeral 4º en el sentido de reemplazar sus incisos 1º y 2º por el siguiente: "Podrán participar en la presente pesca de investigación un máximo de 70 embarcaciones artesanales que cumplan con los requisitos señalados en la resolución extractada.".
+
+b) En el numeral 10, reemplazar su letra c) por la siguiente: "c) Utilizar como puertos de desembarque Carelmapu, Muelle "La Vega" de Calbuco, Muelle "Estrella del Sur" de Calbuco y Anahuac. El Servicio Nacional de Pesca podrá determinar la suspensión de alguno de los puertos señalados, como asimismo incorporar nuevos puertos de acreditación de capturas, lo que será comunicado oportunamente a los interesados.".
+
+Valparaíso, 11 de junio de 2010.- Edith Saa Collantes, Subsecretaria de Pesca (S).
