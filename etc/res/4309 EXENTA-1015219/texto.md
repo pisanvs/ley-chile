@@ -1,0 +1,3 @@
+Por resolución Nº 4.309 exenta, de 22 de diciembre de 2009, de esta Subsecretaría, autorízase a PESQUERA SUR AUSTRAL S.A., para continuar desarrollando las actividades pesqueras autorizadas a Friosur IX S.A., con la nave "Friosur IX", en virtud de la escritura pública, resoluciones y demás disposiciones legales citadas en la resolución extractada.
+
+Valparaíso, 22 de diciembre de 2009.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
