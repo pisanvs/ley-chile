@@ -14,40 +14,6 @@ Resolución:
 
 2. Los recursos involucrados por Región del país para la selección de los proyectos postulantes en el concurso establecido en el resuelvo número 1 de esta resolución son los siguientes:
 
-Región Recursos (UF)
-
-Arica y Parinacota 49.313,0
-
-Tarapacá 98.021,0
-
-Antofagasta 56.938,0
-
-Atacama 66.494,0
-
-Coquimbo 134.406,0
-
-Valparaíso 143.014,0
-
-L.B. O'Higgins 177.156,0
-
-Maule 104.045,0
-
-Bío-Bío 216.022,0
-
-Araucanía 111.742,0
-
-Los Ríos 47.173,0
-
-Los Lagos 85.165,0
-
-Aysén 42.100,0
-
-Magallanes 42.292,0
-
-Metropolitana 723.864,0
-
-Total País 2.097.745,0
-
 El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y el subsidio diferenciado a la localización si corresponde.
 
 3. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de los proyectos seleccionados y preseleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
