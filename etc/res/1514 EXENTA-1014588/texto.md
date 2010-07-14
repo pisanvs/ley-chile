@@ -22,6 +22,14 @@ Tarifa Metro Valle Taa + $20
 
 Tarifa Metro Período Punta Taa + $80
 
+Reemplázase el actual inciso tercero del literal b) de la resolución N° 35, de 2009, del Ministerio de Transportes y Telecomunicaciones por el siguiente:
+
+"Si el usuario durante las etapas del viaje lo realiza a través de diferentes combinaciones de servicios, siempre deberá pagar la diferencia por el mayor valor de la tarifa del modo utilizado."
+
+Reemplázase la frase "$130 (ciento treinta pesos)" del inciso primero, primera línea, del literal c) del Resuelvo N° 1 de la resolución N° 35, de 2009, del Ministerio de Transportes y Telecomunicaciones, por la siguiente frase:
+
+"La tarifa Metro pensionado corresponderá a la Tarifa Escolar Superior y Media Metro Período Punta, Baja y Valle."
+
 2° Instrúyase al Administrador Financiero de Transantiago S.A., implementar la modificación a la estructura tarifaria ordenada en la presente resolución, a partir del 17 de junio de 2010.
 
 Anótese, publíquese y notifíquese.- Gloria Hutt Hesse, Ministro de Transportes y Telecomunicaciones (S).
