@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 808, de fecha 31 de mayo del 2010, se expropió el lote de terreno N° 116, superficie 31 m2, Rol Nº 1188-53, comuna de Arauco, VIII Región para la obra "Camino Ruta P-22, Sector Llico Punta Lavapie, tramo Km. 6,52000 al Km. 11,52130, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario LUIS ROBERTO TRONCOSO MANRIQUEZ, ascendente a la cantidad de $7.092.043.-
+
+Fiscal del Ministerio de Obras Públicas.
