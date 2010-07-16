@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 806 de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno N°s. 1-A y 1-B, superficies 317 y 259 m2, Rol N°155-710, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria MARIA VERONICA FRESNO MUJICA, ascendente a la cantidad de $2.843.163.- para los lotes N° 1-A y 1-B.
+
+Fiscal del Ministerio de Obras Públicas.
