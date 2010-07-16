@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 111, del 9 de julio de 2010, que autoriza a las instituciones sin fines de lucro, Fundación de Beneficencia de los Sagrados Corazones, Rol Único Tributario Nº 71.152.400-2, Fundación María Jesús Vergara Arthur, Rol Único Tributario Nº 73.073.500-6, Fundación Hogar Esperanza, Rol Único Tributario Nº 71.436.400-6, Hogar de Niñas Las Creches, Rol Único Tributario Nº 70.021.750-7 y Congregación de Las Hermanitas de los Ancianos Desamparados, Rol Único Tributario Nº 70.283.103-2, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2010.
