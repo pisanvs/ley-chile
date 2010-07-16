@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 807 de fecha 31 de mayo del 2010, se expropiaron los lotes de terreno N°s. 137-A y 137-B, superficies 322 y 57 m2, Rol N° 154-243, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietario MANUEL GUZMAN ORELLANA, ascendente a la cantidad de $2.580.385.- para los lotes N°s. 137-A y 137-B.
+
+Fiscal del Ministerio de Obras Públicas.
