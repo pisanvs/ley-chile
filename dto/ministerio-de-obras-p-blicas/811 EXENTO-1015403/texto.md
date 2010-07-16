@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENT0) Nº 811 de 31 de mayo de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno Nº 42; para la obra: Camino Diagonal Provincia de Chacabuco, Comuna de Colina, que figura a nombre de AGRIC Y FORESTAL NIRIVILO LTDA, rol de avalúo 164-348, Comuna de COLINA; Región Metropolitana, superficie 11 m2. La Comisión de Peritos, con fecha 18 de octubre de 2005; fijó el monto de la indemnización provisional en la cantidad de $44.000.- lote N° 42. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
