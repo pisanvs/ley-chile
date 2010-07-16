@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 809 de 31 de mayo de 2010, se expropió el lote de terreno N° 1, superficie 21.349 m2, rol de Avalúo 1303-38, comuna de Cabrero, para la obra "CAMINO RUTA 5 - LA MATA, SECTOR ESCUELA PILLANCO, KM. 3,71766 AL KM. 5,46690, VIII Región y se acordó el valor de la indemnización con su propietario don ROBERTO BENICIO ORTIZ AHUMADA Y OTROS, ascendente a la cantidad de $14.122.580.-
+
+Fiscal del Ministerio de Obras Públicas.
