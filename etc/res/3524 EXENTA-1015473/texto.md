@@ -1,0 +1,11 @@
+EXTRACTO RESOLUCIÓN EXENTA N° 3524, DE 02.07.2010, QUE ASIGNA CONCESIÓN DE RADIODIFUSIÓN SONORA QUE INDICA
+
+En el concurso público del Primer Cuatrimestre de 2009, se ha asignado a SERVICIOS DE RADIODIFUSION PEDRO FELIDOR ROA BARRIENTOS E.I.R.L. RUT. Nº 76.014.639-1, una concesión de Radiodifusión Sonora en Frecuencia Modulada para la localidad de Quellón. X Región con las características técnicas siguientes: Potencia 250 W; frecuencia 100,5 MHi, estudio ubicado en calle Ladrillero Nº 225, comuna de Quellón, X Región coordenadas geográficas 43º 07' 25'' Latitud Sur, 73º 36' 04'' longitud Oeste (Dátum PSAD56); planta transmisora y sistema radiante ubicados en cerro Millaldeo. comuna de Quellón, X Región; coordenadas geográficas 43º 06' 03'' latitud Sur. 73º 37' 06'' Longitud Oeste (Dátum PSAD56); sistema radiante Ornnidireccional, polarización circular, arreglo de 4 antenas Anillo terminado en barra, con tilt eléctrico de 8,8º bajo la horizontal. 2,9 dBd de ganancia máxima y -2,0 dBd de ganancia en el plano horizontal, altura del centro de radiación de 26.5 m pérdidas en cables y conectores de 2,0 dBd. El radioenlace Estudio-Planta será de l0 dBd de ganancia y 2 Watts de potencia.
+
+Dado que la asignataria es la actual concesionaria, no se especifican los plazos de inicio y término de construcción de obras e inicio de servicios.
+
+La presente publicación se hace de acuerdo a lo dispuesto en el articulo l3A de la ley Nº 18.168 General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta del Ministerio de Transportes y Telecomunicaciones que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contado desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten lo hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
+
+POR ORDEN DEL SUBSECRETARIO DE TELECOMUNICACIONES
+
+JEFE DIVISIÓN CONCESIONES (S)
