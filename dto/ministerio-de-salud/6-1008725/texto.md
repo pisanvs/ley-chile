@@ -62,7 +62,7 @@ Categoría 4: Residuos Sólidos Asimilables a Domiciliarios.
 
 #### Artículo 4º
 
-Son residuos peligrosos aquellos que presentan una o más características de peligrosidad definidas en el decreto supremo Nº 148, de 2003, del Ministerio de Salud, que aprueba el Reglamento Sanitario sobre Manejo de Residuos Peligrosos. Los residuos peligrosos que se presentan con más frecuencias en establecimientos de atención de salud son:
+Son residuos peligrosos aquellos que presentan una o más características de peligrosidad definidas en el decreto supremo Nº 148, de 2003, del Ministerio de Salud, que aprueba el Reglamento Sanitario sobre Manejo de Residuos Peligrosos. Los residuos peligrosos que se presentan con más frecuencia en establecimientos de atención de salud son:
 
 1 Residuos consistentes o contaminados por drogas citotóxicas, tales como: clorambucil, ciclosporina, ciclosfamida, melfalan, semustina, tamoxifeno, tiotepa y treosulfan;
 
@@ -536,11 +536,11 @@ TÍTULO FINAL
 
 El presente reglamento entrará en vigencia en el plazo de dos años contados desde su publicación en el Diario Oficial, fecha en la que quedarán derogadas todas las disposiciones reglamentarías y las normas o resoluciones de la Autoridad Sanitaria que sean contrarias o incompatibles con el presente reglamento.
 
-Dentro de los seis meses siguientes a la fecha de publicación del presente reglamento, las personas naturales y jurídicas que presten servicios de transporte o eliminación de residuos especiales de establecimientos de atención de salud, deberán presentar a la Autoridad Sanitaria competente un programa de adecuación de su actividad a las normas del presente reglamento.
+Dentro de los seis meses siguientes a la entrada en vigencia del presente reglamento, las personas naturales y jurídicas que presten servicios de transporte o eliminación de residuos especiales de establecimientos de atención de salud, deberán presentar a la Autoridad Sanitaria competente un programa de adecuación de su actividad a las normas del presente reglamento.
 
 Dentro del mismo plazo indicado en el inciso anterior, los responsables de presentar un plan de manejo de REAS deberán hacer llegar dicho documento a la Autoridad Sanitaria respectiva.
 
-Las medidas y acciones de adecuación consultadas en el programa de adecuación y/o el Plan de Manejo deberán haberse hecho y completado a la época de entrada en vigencia del presente reglamento. La Autoridad Sanitaria mediante resolución fundada podrá, en casos especiales calificados, conceder un plazo adicional no superior a 1 año para completar dichas medidas y acciones.
+Las medidas y acciones de adecuación consultadas en el programa de adecuación y/o el Plan de Manejo deberán haberse hecho y completado una vez transcurridos seis meses de la entrada en vigencia del presente reglamento. La Autoridad Sanitaria mediante resolución fundada podrá, en casos especiales calificados, conceder un plazo adicional no superior a 1 año para completar dichas medidas y acciones.
 
 Anótese, tómese razón y publíquese. MICHELLE BACHELET JERIA, Presidenta de la República.- Álvaro Erazo Latorre, Ministro de Salud.
 
