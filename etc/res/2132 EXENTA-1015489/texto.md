@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.132, de 12 de julio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº575 y Nº2.454, ambas de 2001, Nº1.571 de 2002, Nº1.421 y Nº2.127, ambas de 2003, Nº1.684 de 2004, de esta Subsecretaría, del área de manejo El Papagallo, V Región, en virtud del artículo 21 del D.S. Nº355, de 1995, de este Ministerio.
+
+Valparaíso, 12 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
