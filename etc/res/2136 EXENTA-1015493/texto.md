@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.136, de 12 de julio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº2.378 de 2001, Nº1.637 de 2002, Nº2.231 de 2003, Nº1.502 de 2004 y Nº1.191 de 2008, de esta Subsecretaría, del área de manejo Caldera Sector B, III Región, en virtud del artículo 21 del D.S. Nº355, de 1995, de este Ministerio.
+
+Valparaíso, 12 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
