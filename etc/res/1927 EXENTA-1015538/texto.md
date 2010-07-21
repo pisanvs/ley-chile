@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.927, de 24 de junio de 2010, de esta Subsecretaría, autorízase al SINDICATO DE TRABAJADORES INDEPENDIENTES, RECOLECTORES Y COMERCIALIZADORES DE ALGAS CALETA LOS BRONCES, Provincia de Huasco, para iniciar actividades pesqueras de transformación, instalar y operar una planta ubicada en inmediaciones Población José Santos Ossa s/nº, comuna de Freirina, III Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 24 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
