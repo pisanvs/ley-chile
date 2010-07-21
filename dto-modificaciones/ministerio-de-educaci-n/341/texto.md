@@ -110,7 +110,7 @@ El criterio de selección que empleará el Ministerio de Educación para adjudic
 
 #### Artículo 8º
 
-La supervigilancia de la asignación y uso de los recursos destinados a la beca corresponderá a la Unidad de Currículum y Evaluación del Ministerio de Educación, que designará a un funcionario de su dependencia para que desempeñe el cargo de Coordinador del Programa, correspondiéndole a éste, entre otras funciones, difundir las bases de postulación de las becas, recibir las postulaciones, coordinar todos los trámites inherentes a los distintos procesos, y la administración y control de todos los beneficios que la beca importe.
+La supervigilancia de la asignación y uso de los recursos destinados a la beca corresponderá al Jefe de la División de Educación General del Ministerio de Educación, que designará a un funcionario de su dependencia para que desempeñe el cargo de Coordinador del Programa, correspondiéndole a éste, entre otras funciones, difundir las bases de postulación de las becas, recibir las postulaciones, coordinar todos los trámites inherentes a los distintos procesos, y la administración y control de todos los beneficios que la beca importe.
 
 #### Artículo 9º
 
