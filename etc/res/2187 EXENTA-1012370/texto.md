@@ -114,6 +114,8 @@ a) Ficha de Protección Social de acuerdo a los Artículos 16 letra b) y 21 letr
 
 b) El postulante debe ser el propietario o asignatario del inmueble afectado, o su cónyuge, y ninguno de ellos podrá ser propietario de otra vivienda. En caso que las viviendas sean de propiedad del SERVIU se aplicará igualmente lo establecido en el Artículo 7° bis del D.S. N° 255 (V. y U.), de 2006.
 
+No obstante lo anterior tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas. El postulante requerirá, además, contar con autorización notarial de los restantes herederos. El Serviu podrá proceder al pago del subsidio, siempre que se acredite la inscripción especial de herencia del inmueble a favor de la comunidad.
+
 c) Carpeta del Proyecto de Mejoramiento de la Vivienda, que contenga los antecedentes que se señalan a continuación, debidamente aprobados:
 
 - Certificado de daños indicado en el punto
