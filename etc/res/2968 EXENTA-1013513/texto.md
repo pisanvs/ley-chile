@@ -320,6 +320,54 @@ inciso tercero del artículo 17° del D.L. Nº
 
 2.695, de 1979.
 
+l. Tratándose de inmuebles pertenecientes a una
+
+sucesión hereditaria, el postulante podrá
+
+acreditar el dominio del inmueble a nombre de
+
+esa comunidad mediante copia de la inscripción
+
+especial de herencia o si ésta no se hubiere
+
+practicado aun, acompañando copia de la
+
+inscripción de dominio a favor del causante y
+
+acreditando su calidad de heredero con posesión
+
+efectiva en tramitación mediante copia del auto
+
+de posesión efectiva del Tribunal competente en
+
+caso de sucesiones testadas o de la resolución
+
+del Servicio de Registro Civil e Identificación
+
+tratándose de sucesiones intestadas. El
+
+postulante requerirá, además, contar con
+
+autorización notarial de los restantes herederos.
+
+El Serviu podrá proceder al pago del subsidio,
+
+siempre que se acredite la inscripción especial
+
+de herencia del inmueble a favor de la comunidad
+
+y la constitución, por todos los comuneros, de
+
+la prohibición de enajenar a favor del Serviu,
+
+durante 5 años o 15 años en el caso de haber
+
+obtenido subsidio a la localización, contados
+
+desde la fecha de su inscripción en el
+
+Conservador de Bienes Raíces.
+
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
 Región Recursos (UF)
