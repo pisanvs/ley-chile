@@ -42,9 +42,9 @@ Aysén 7.733,0
 
 Magallanes 7.768,0
 
-Metropolitana 132.955,0
+Metropolitana 142.377,0
 
-Total País 385.301,0
+Total País 394.723,0
 
 El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y el subsidio diferenciado a la localización si corresponde.
 
