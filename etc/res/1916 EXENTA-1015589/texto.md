@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.916, de 23 de junio de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 1.129, de 2010, de esta Subsecretaría, que autorizó a la CORPORACIÓN PARA LA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de parámetros biológico pesqueros de la pesquería artesanal de Jurel, Región del Bío Bío", en los siguientes términos:
+
+a) En su numeral 4.-, en el sentido de incorporar a las embarcaciones artesanales "Don Lucho", "Doña Florinda", "Don Luis Alberto", "Don Claudio", "Don Henry", "Paola I", "Nolfa", "Don Jorge Luis M", "Aaron", "Elías", "Eben-Ezer III", "Sixto Abraham I", "Don Sixto", "Doña Margarita C", "Santa Margarita I", "Don Raúl M" y "Daniel", inscritas en el Registro Pesquero Artesanal de la VIII Región, al listado de naves participantes en la presente pesca de investigación.
+
+b) En su numeral 5, en el sentido de incrementar en 6.300 toneladas la cuota máxima total del recurso Jurel autorizada a extraer en el marco de la presente pesca de investigación, fraccionada en los términos indicados en la resolución extractada.
+
+Valparaíso, 23 de junio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
