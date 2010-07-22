@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.699 de 1 de julio del 2010, se publicó decreto Nº 573 exento, que Reajusta en un 0,6% las tasas fijas de impuestos contenidas en el decreto ley número 3.475, de 1980, con el error que se salva a continuación: en el sumario, primera columna, donde dice "... Decreto número 576 exento.- Reajusta en un 0,6% las tasas fijas de impuestos contenidas en el decreto ley número 3.475, de 1980 ..." debe decir "... Decreto número 573 exento.- Reajusta en un 0,6% las tasas fijas de impuestos contenidas en el decreto ley número 3.475, de 1980...".
