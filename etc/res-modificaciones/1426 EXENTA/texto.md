@@ -18,27 +18,9 @@ Considerando:
 
 Resuelvo:
 
-1º Modifícanse las fechas de aplicación para los nuevos protocolos para la certificación de seguridad y eficiencia energética correspondiente a los productos eléctricos "Lámpara fluorescente de doble casquillo" y "Lámpara fluorescente de casquillo único", aprobados mediante la resolución exenta Nº 1.046, de 2008, de acuerdo a lo que se señala a continuación:
+1º Modifícanse las fechas de aplicación para los nuevos protocolos para la certificación de seguridad y eficiencia energética correspondiente a los productos eléctricos "Lámpara fluorescente de doble casquillo" y "Lámpara fluorescente de casquillo único", aprobados mediante la resolución exenta Nº 1.046, de 2008, de acuerdo a lo que se señala a continuación.
 
-Para poder comercializar en el país los productos eléctricos citados en el Considerando 1º de la presente resolución, los fabricantes, importadores y comercializadores de los mismos deberán certificarlos y verificar, previamente, que éstos cuenten con los respectivos Certificados de Aprobación de Seguridad y Eficiencia Energética, de acuerdo a los protocolos aprobados mediante la resolución exenta Nº 1.046, de 2008, a partir de la siguiente fecha:
-
-PE Nº Área Producto Fechas
-
-5/02-01 Seguridad Lámpara fluorescente
-
-de doble casquillo 30.04.2010
-
-5/02-02 Seguridad Lámpara fluorescente
-
-de casquillo único 30.04.2010
-
-5/02-01/2 Eficiencia Lámpara fluorescente
-
-de doble casquillo 30.04.2010
-
-5/02-02/2 Eficiencia Lámpara fluorescente
-
-de casquillo único 30.04.2010
+Para poder comercializar en el país los productos eléctricos citados, los fabricantes, importadores y comercializadores de los mismos deberán certificarlos y verificar, previamente, que éstos cuenten con los respectivos Certificados de Aprobación de Seguridad y Eficiencia Energética, de acuerdo a los protocolos aprobados mediante la Resolución exenta Nº 1.046, del 2008, a partir de la siguiente fecha:
 
 2º Desde la fecha de dictación de esta resolución, y hasta la fecha en que entren en vigencia los nuevos protocolos, continuará aplicándose, en materia de seguridad, para los productos señalados en el Considerando 1º de esta resolución, el protocolo Nº 5/02, aprobado mediante la resolución exenta Nº 74, de 16.01.2007.
 

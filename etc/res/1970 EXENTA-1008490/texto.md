@@ -22,15 +22,7 @@ gaseosos.
 
 utilizan combustibles gaseosos.
 
-2° Los citados protocolos entrarán en vigencia 6 meses después de la fecha de su publicación en la página Web de esta Superintendencia, www.sec.cl., reemplazando a los que se indican a continuación, los que quedarán sin efecto a partir de la misma fecha:
-
-Oficialización
-
-PC N Fecha Resolución Exenta N Fecha
-
-27 08.01.2007 74 16.01.2007
-
-62 01.08.2006 74 16.01.2007
+2º Los citados protocolos entrarán en vigencia el 31.03.2011, reemplazando a los que se indican a continuación, los que quedarán sin efecto a partir de la misma fecha:
 
 3º No obstante lo anterior, los fabricantes e importadores interesados en utilizar los nuevos protocolos antes de su vigencia, podrán hacerlo cuando existan Organismos de Certificación y Laboratorios de Ensayo autorizados para tal efecto.
 
