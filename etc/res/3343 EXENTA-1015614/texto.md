@@ -1,0 +1,1 @@
+Extracto de resolución número 3.343 exenta, de 21.06.2010, que asigna concesión de radiodifusión sonora que indica
