@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.202, de 15 de julio de 2010, de esta Subsecretaría, invalídase totalmente la resolución exenta Nº 2.657, de fecha 15 de agosto de 2009, de esta Subsecretaría de Pesca, que autorizó transitoriamente por un plazo de 5 años, a contar de la fecha de publicación de dicha resolución en el Diario Oficial, la actividad pesquera extractiva de embarcaciones industriales, que utilicen como arte de pesca la red de arrastre, para las especies Camarón nailon, Langostino amarillo, Langostino colorado y Gamba, en las zonas de mar comprendidas en el área de reserva para la pesca artesanal de la III Región, que en mecionada resolución se indican y especifican.
+
+Valparaíso, 15 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
