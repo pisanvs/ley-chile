@@ -3198,9 +3198,9 @@ Nacionales, en el marco de lo establecido en el
 
 de esta Ordenanza.
 
-ZE-dc ZONA DE Equipamiento ReCREACIONAL y dePORTIVO
+ZE-dc ZONA DE EQUIPAMIENTO RECREACIONAL Y
 
-COMUNAL
+DEPORTIVO OMUNAL
 
 Usos permitidos:
 
@@ -3232,15 +3232,17 @@ y graderías al aire libre no se contabilizan para
 
 el cálculo de ocupación del terreno.
 
-* En el caso de las zonas de equipamiento
+* En las Zonas ZE-dc no se permitirá en el área
 
-recreacional y deportivo existentes, las
+específica existente o proyectada para canchas
 
-edificaciones complementarias techadas sólo podrán
+y/o multicanchas, la construcción de recintos
 
-ocupar un 5 % de la superficie y tendrán un
+cerrados o sólo cubiertos que no consideren
 
-coeficiente máximo de constructibilidad de 0,05.
+para esta área el uso específico de canchas
+
+o multicanchas
 
 AV-c AREAS VERDES COMUNALES
 
@@ -3522,12 +3524,20 @@ SENTIDO DE NORTE A SUR
 
 VER CUADRO EN DIARIO OFICIAL DE 08.05.2004, PÁGINAS 15 - 17.
 
+De acuerdo a lo dispuesto en el artículo 33º de la ley Nº 18.695, Orgánica Constitucional de Municipalidades, sólo se podrán afectar vías locales, de servicio y plazas que hayan sido definidas como tales por el Concejo Municipal a propuesta del Alcalde, cuando se haya efectuado la provisión de fondos necesarios para proceder a su inmediata expropiación.
+
 ### I. MUNICIPALIDAD DE MACUL
 
 ASESORIA URBANA
 
-> **Nota.** NOTA 2 (1) Según lo señalado en el Articulo 7.1.2.9 del P.R.M.S., deberá contemplarse un 15% más de estacionamientos para visitas.(2) Adicionalmente, se dispondrán estacionamientos para buses, camiones u otros similares, de 30 m2 cada uno, en proporción a su superficie útil o de recinto según se indique, de acuerdo a los siguientes tramos:- entre 200 y 1.000 m2 1 estacionamiento- entre 1.000 y 3.000 m2 2 estacionamientos- entre 3.000 y 6.000 m2 3 estacionamientos- entre 6.000 y 12.000 m2 4 estacionamientos- sobre 12.000 m2 5 estacionamientos
+> **Nota.** El artículo 1º del DTO 791, M. de Macul, publicado el 21.06.2004, modifica la presente norma, en la forma que la citada norma indica. Dicha actualización no ha sido incorporada por razones técnicas temporales.
 
 > **Nota.** NOTA 1 El Art. 2º del DTO 559, M. de Macul, publicado el 11.04.2008, modifica los cuadros de obras urbanísticas del presente artículo que indica, los que no fueron ingresados por restricciones técnicas, razón por lo que no se ha podido componer su texto actualizado.
 
-> **Nota.** El artículo 1º del DTO 791, M. de Macul, publicado el 21.06.2004, modifica la presente norma, en la forma que la citada norma indica. Dicha actualización no ha sido incorporada por razones técnicas temporales.
+> **Nota.** NOTA 2 (1) Según lo señalado en el Articulo 7.1.2.9 del P.R.M.S., deberá contemplarse un 15% más de estacionamientos para visitas.(2) Adicionalmente, se dispondrán estacionamientos para buses, camiones u otros similares, de 30 m2 cada uno, en proporción a su superficie útil o de recinto según se indique, de acuerdo a los siguientes tramos:- entre 200 y 1.000 m2 1 estacionamiento- entre 1.000 y 3.000 m2 2 estacionamientos- entre 3.000 y 6.000 m2 3 estacionamientos- entre 6.000 y 12.000 m2 4 estacionamientos- sobre 12.000 m2 5 estacionamientos
+
+> **Nota.** NOTA 3 La letra a) del Artículo Único del Nº 2 del Decreto 212, Municipalidad de Macul, publicado el 06.02.2010, modifica la presente norma en el sentido de reemplazar las características de la vía Las Golondrinas, en el tramo correspondiente a Fondo de calle después de cruce con Ramón Toro lbáñez a Av. La Aguada, por la que en dicha norma se indica. Junto con lo anterior, la letra b) de la norma ya citada prorroga por 5 años la Declaratoria de Utilidad Pública de los tramos de las vías del territorio comunal que indica, y que se encuentran mencionadas en el artículo 38º "Vialidad Estructurante" de la Ordenanza Local.
+
+> **Nota.** NOTA 4 El Nº 2 del Decreto 974, Municipalidad de Macul, publicado el 20.07.2010, modifica la presente norma en el sentido de restituir el Uso de Suelo de dos predios que en dicha norma se indican, restableciéndolos conforme a lo dispuesto por los Planos de Subdivisión respectivos.
+
+> **Nota.** NOTA 5 El artículo único del N° 2 del Decreto 1111, Municipalidad de Macul, publicado el 23.07.2010, modifica la presente norma, en el sentido de incorporar en las Zonas de Equipamiento Recreacional y Deportivo Comunal, ZE-dc, diversas modificaciones, las que no fueron incorporadas por razones técnicas.
