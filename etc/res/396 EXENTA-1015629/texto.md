@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE COMPAÑÍA DE SEGUROS GENERALES CARDIF S.A.
+
+Certifico: Que por resolución exenta Nº 396, de fecha 07 de julio de 2010, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Compañía de Seguros Generales Cardif S.A., acordada en junta extraordinaria de accionistas celebrada el 9 de abril de 2010, reducida a escritura pública el 12 de abril de 2010 y complementada por escritura pública de 25 de mayo de 2010, según requerimiento efectuado por oficio 7086 de 2010, ambas otorgadas en la Notaría de Santiago de doña Antonieta Mendoza Escalas, domiciliada en San Sebastián 2750, Las Condes.
+
+La reforma consiste en aumentar el capital social de $42.473.435.075 pesos dividido en 35.592 acciones de una misma serie, sin valor nominal, íntegramente suscrito y pagado, a $52.473.435.075 pesos dividido en 45.592 acciones. El aumento de capital de $10.000.000.000 pesos dividido en 10.000 acciones deberá ser suscrito y pagado dentro del plazo de tres años contado desde la fecha de la junta. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 7 de julio de 2010.- Carmen Undurraga Martínez, Secretario General.
