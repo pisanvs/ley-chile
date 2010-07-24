@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.205, de 15 de julio de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 3.047, de 2002, Nº 2.888, de 2003 y Nº 775, de 2005, todas de esta Subsecretaría, del área de manejo Islas Huichas, Sector J, XI Región, en virtud del artículo 21 del DS Nº 355, de 1995, de este Ministerio.
+
+Valparaíso, 15 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
