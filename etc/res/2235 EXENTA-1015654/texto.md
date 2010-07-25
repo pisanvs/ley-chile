@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.235, de 19 de julio de 2010, de esta Subsecretaría, recházase la solicitud Nº 202103137, presentada por CORPORACIÓN MUNICIPAL DE QUINCHAO PARA LA EDUCACIÓN, SALUD Y ATENCIÓN AL MENOR, para operar un centro de cultivo ubicado en Estero Quinchao, al este de Punta Cuem, Isla Quinchao, X Región.
+
+Valparaíso, 19 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
