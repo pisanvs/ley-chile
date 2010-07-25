@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.254 de 22 de julio de 2010 de esta Subsecretaría, rectifícase el numeral 4.- de la resolución exenta Nº 2028, de 2010, de esta Subsecretaría, que autorizó al INSTITUTO DE INVESTIGACIÓN PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución, estructura y monitoreo biológico y pesquero en las capturas del recurso Jurel en la VIII Región", en el sentido de incorporar a las embarcaciones artesanales "Glaciar I" (RPA 5592), "Huracán I" (RPA 952296) y "Odiseo" (RPA 953920) al listado de naves participantes en la presente pesca de investigación.
+
+Valparaíso, 22 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
