@@ -1,0 +1,5 @@
+IMPARTE INSTRUCCIONES SOBRE APLICACIÓN DE MULTAS POR PRESENTACIÓN EXTEMPORÁNEA DE DECLARACIONES JURADAS QUE CORRESPONDE EFECTUAR MEDIANTE LOS FORMULARIOS 1842 Y 1843
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 42 del 20 de julio de 2010, que, imparte instrucciones sobre la aplicación de multas por presentación extemporánea de declaraciones juradas que corresponde efectuar mediante los formularios Nº 1842 "Declaración Jurada Mensual sobre Determinación del Crédito Especial Empresas Constructoras" y Nº 1843 "Declaración Jurada Anual sobre Proyectos de Construcción con Derecho a Uso del Crédito Especial a Empresas Constructoras", creados por resolución Ex. SII Nº 151 del 7 de octubre de 2009.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2010.
