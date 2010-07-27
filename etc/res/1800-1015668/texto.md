@@ -1,0 +1,5 @@
+ESTABLECE CRITERIOS DE LA DIRECCIÓN GENERAL DE AGUAS EN MATERIAS QUE INDICA
+
+Mediante resolución DGA Nº 1.800, de fecha 14 de julio de 2010, se han establecido criterios que sirven para el mejor actuar y coordinación de esta Dirección General de Aguas, respecto las siguientes materias: Remate y oferta de derechos de aprovechamiento de aguas, solicitud y memoria explicativa, mercedes provisionales de aguas, derechos de aprovechamiento provisionales, solicitudes del artículo 4º transitorio de la Ley Nº 20.017, reserva de caudales, incompatibilidad de solicitudes de derechos de aprovechamiento y de obras. El texto íntegro de esta resolución se encuentra disponible en las oficinas o en el sitio web de la Dirección General de Aguas (www.dga.cl).-
+
+Matías Desmadryl Lira, Director General de Aguas.
