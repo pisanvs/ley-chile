@@ -96,23 +96,37 @@ Los Intermediarios autorizados deberán verificar que los beneficiarios finales 
 
 ### 4. Condiciones de las operaciones elegibles
 
-Los subsidios o coberturas se otorgarán para operaciones de crédito de dinero, de leasing financiero y de leaseback para empresas afectadas por las consecuencias del terremoto ocurrido con fecha 27 de febrero de 2010, aprobadas para la reparación o reposición de activos fijos no cubiertos por seguros, en el caso de que estos existiesen (incluyendo instalaciones y equipos industriales, mercantiles, de comercio y de servicios, vehículos de uso empresarial, maquinaria utilizada en la gestión de las empresas y arreglos y reposiciones de locales que se hayan visto dañados), o a capital de trabajo (incluyendo reposición de inventarios y operación normal de las empresas o financiamiento de pasivos originados por el normal funcionamiento de la empresa, incluidas deudas de proveedores y tributarias), en adelante también "las operaciones". En ambos casos, se podrá considerar un porcentaje menor de financiamiento que podrá ser destinado a la reprogramación de créditos que se encontraban vigentes al día 27 de febrero de 2010. Se entiende por créditos vigentes aquellos créditos que se encontraban al día o que tenían una mora igual o inferior a 60 días al 27 de febrero de 2010. El financiamiento para la reprogramación de créditos o para el pago de deudas de proveedores o tributarias, sólo procederá en tanto se cursen en el marco de un crédito incremental (i) para capital de trabajo adicional y/o (ii) para la reparación o reposición de activos fijos, que sumadas ambas partidas deberán representar al menos el 50,1% del monto total del crédito.ç
+Los subsidios o coberturas se otorgarán para operaciones de crédito de dinero, de leasing financiero y de leaseback para empresas afectadas por las consecuencias del terremoto ocurrido con fecha 27 de febrero de 2010, aprobadas para la reparación o reposición de activos fijos no cubiertos por seguros en el caso de que estos existiesen (incluyendo instalaciones y equipos industriales, mercantiles, de comercio y de servicios, vehículos de uso empresarial, maquinaria utilizada en la gestión de las empresas y arreglos y reposiciones de locales que se hayan visto dañados), o a capital de trabajo (incluyendo reposición de inventarios y operación normal de las empresas o financiamiento de pasivos originados por el normal funcionamiento de la empresa, incluidas deudas de proveedores y tributarias). En ambos casos, se podrá considerar un porcentaje menor de financiamiento que podrá ser destinado a la reprogramación de créditos que se encontraban vigentes al día 27 de febrero de 2010. Se entiende por créditos vigentes aquellos créditos que se encontraban al día o que tenían una mora igual o inferior a 60 días al 27 de febrero de 2010. El financiamiento para la reprogramación de créditos o para el pago de deudas de proveedores o tributarias, solo procederá en tanto se cursen en el marco de un crédito incremental (i) para capital de trabajo adicional y/o (ii) para la reparación o reposición de activos fijos, que sumadas ambas partidas deberán representar al menos el 50,1% del monto total del crédito.
 
 En lo que respecta al financiamiento de pasivos requeridos para lograr el normal funcionamiento de la empresa, se entenderá que dentro de la partida de capital de trabajo se podrá incluir deudas originadas en cuentas por servicios de redes de telecomunicaciones, sanitarias y eléctricas, de cotizaciones previsionales y de salud; de honorarios y remuneraciones.
 
-Quedarán excluidas de la cobertura, aquellas operaciones que signifiquen financiamiento de:
+Para los anteriores efectos y para aplicar los porcentajes de cobertura por beneficiario final expresados en el numeral 6°, a solicitud del intermediario se podrá considerar como integrantes de una sola operación, a todas las operaciones de crédito de dinero, de leasing financiero y de leaseback, otorgadas a un mismo beneficiario por causa de financiamientos relacionados con un mismo fin de reconstrucción en su origen; en adelante y en conjunto todas denominadas "la operación".
 
-a) Proyectos inmobiliarios de construcción de viviendas o departamentos, o loteo o subdivisión de inmuebles, y
+Quedará excluida de la cobertura, aquella operación que signifique financiamiento de:
 
-b) La compra de acciones o de participaciones en empresas o sociedades o de otros valores mobiliarios.
+a) Proyectos inmobiliarios de construcción de
 
-Los financiamientos que se acojan al instrumento sólo podrán ser cursados en Pesos o en Unidades de Fomento y su pago se efectuará en cuotas mensuales, trimestrales, semestrales o anuales. En todos los casos, el plazo mínimo de las operaciones de financiamiento deberá ser de 36 meses, las que deberán contar con un período de gracia mínimo de 12 meses para el pago de intereses y capital, salvo expresa renuncia escrita del beneficiario a estas condiciones.
+viviendas o departamentos, o loteo o subdivisión
 
-La operación de financiamiento deberá ser homogénea en términos del monto de las cuotas durante el período de amortización, vale decir, cuotas iguales de capital más intereses.
+de inmuebles, y;
+
+b) La compra de acciones o de participaciones en
+
+empresas o sociedades o de otros valores
+
+mobiliarios.
+
+Los financiamientos que se acojan al instrumento sólo podrán ser cursados en pesos o en unidades de fomento y su pago se efectuará en cuotas mensuales, trimestrales, semestrales o anuales. En todos los casos, el plazo mínimo de la operación de financiamiento deberá ser de 36 meses, la que deberá contar con un período de gracia mínimo de 12 meses para el pago de intereses y capital, salvo expresa renuncia escrita del beneficiario a estas condiciones.
+
+La operación de financiamiento deberá ser homogénea en términos del monto de las cuotas durante el período de amortización, vale decir cuotas iguales de capital más intereses.
 
 Corresponderá a cada Intermediario velar porque las operaciones sean destinadas a los fines para los cuales fueron aprobadas, debiendo establecer al efecto los controles adecuados, dejando constancia del uso de los recursos en las respectivas carpetas comerciales.
 
-Las instituciones financieras, en caso de operaciones otorgadas a beneficiarios finales con ventas anuales mayores a UF 25.000 y hasta UF 100.000, excluido el IVA, deberán verificar la capacidad de estos beneficiarios para constituir garantías adicionales, hipotecas o prenda general; hipoteca o prenda específica, fianza general; fianza específica; aval, u otros mitigadores de riesgo; en cuyo caso, deberán requerir la constitución de tales garantías o mitigadores.
+Las instituciones financieras, en caso de operaciones otorgadas a beneficiarios finales con ventas anuales mayores a UF 50.000 y hasta UF 100.000, excluido el IVA, deberán verificar la capacidad de estos beneficiarios para constituir garantías adicionales, hipotecas o prenda general; hipoteca o prenda específica, fianza general; fianza específica; aval, u otros mitigadores de riesgo; en cuyo caso, deberán requerir la constitución de tales garantías o mitigadores.
+
+Con todo, un intermediario podrá acoger a la presente cobertura, refinanciamientos, reprogramaciones y/o consolidaciones de créditos de enlace propios que no califiquen en el perfil anteriormente establecido sobre plazos mínimos, garantías u homogeneidad de monto de cuotas; siempre que dichos créditos hayan sido otorgados para los fines descritos en el párrafo primero del presente numeral, cumplan con las demás condiciones establecidas en el presente reglamento, y que no presenten mora o retardo en el pago al momento de su reprogramación o consolidación.
+
+En los casos indicados en el párrafo anterior, los refinanciamientos, reprogramaciones y/o consolidaciones podrán representar más del 49,9% del monto total del crédito y deberán cumplir con el perfil de plazos mínimos, garantías u homogeneidad de monto de cuotas así como con el resto de las condiciones establecidas en el presente reglamento.
 
 ### 5. Administración de los recursos destinados a la Cobertura
 
@@ -125,6 +139,8 @@ La Cuenta antes señalada incrementará sus recursos por el producto de las inve
 A su vez, del monto de la Cuenta se rebajarán las sumas que la Corporación deba pagar como consecuencia del pago de las Coberturas.
 
 Por otro lado, de la base de cálculo de los montos comprometidos por Coberturas en la Cuenta, se rebajarán las sumas que, a título de amortizaciones y prepagos los beneficiarios finales hicieren a las operaciones otorgadas por el Intermediario, amparadas por la Cobertura, y los montos correspondientes a las operaciones y a las participaciones que hayan quedado sin efecto total o parcialmente y que deban por tanto ser descontados de dicha cuenta.
+
+Los anticipos de pagos de coberturas no se contabilizarán como gasto dentro de la Cuenta, sino una vez que se hayan acompañado en tiempo y forma, todos los antecedentes a que hace mención el numeral 9.1.
 
 En virtud de lo dispuesto en el Decreto Supremo de Hacienda N° 793, de 2004 y sus modificaciones, la Corporación limitará los pagos por siniestralidad hasta el monto de los recursos que se consideren en la contabilidad de la Cuenta de este instrumento. Este límite de responsabilidad quedará expresamente reflejado en los Contratos de Participación que se otorguen.
 
@@ -168,11 +184,47 @@ El monto por concepto de Cobertura se pagará al Intermediario acreedor de la op
 
 Será responsabilidad del Intermediario mantener y entregar dentro de los primeros 15 días corridos de cada mes, la información necesaria para determinar los saldos de deuda vigentes para las operaciones de crédito, de leasing financiero o leaseback.
 
-Para efectos del cálculo del margen de Cobertura disponible para un beneficiario final y de la Cobertura porcentual que aplicará a una operación de financiamiento específica, el Intermediario deberá atenerse, secuencialmente, a las siguientes reglas:
+Para efectos del cálculo del margen de Cobertura disponible para un beneficiario final y de la Cobertura porcentual que aplicará a una operación de financiamiento, el Intermediario deberá atenerse, secuencialmente, a las siguientes reglas:
 
-a) El margen de Cobertura disponible para un mismo RUT de beneficiario final corresponderá a la diferencia entre el monto máximo de las Coberturas que puede recibir, equivalente a UF 7.000, y el saldo del monto de Coberturas efectivas que éste tenga vigentes con la Cuenta, y
+a) El margen de Cobertura disponible para un mismo
 
-b) El equivalente porcentual de Cobertura asignada a una operación corresponderá al margen de Cobertura calculado según lo señalado en la letra a) anterior dividido por el monto de la operación de crédito, de leasing financiero o leaseback en cuestión, expresado como porcentaje, con dos decimales. En el caso que dicha relación supere los límites porcentuales señalados en la tabla contenida en el primer párrafo de este numeral, el saldo del monto de las Coberturas para un beneficiario final se ampliará en la medida que se produzcan amortizaciones o pagos totales o parciales del capital inicial de los créditos ya acogidos a la Cobertura.
+RUT de beneficiario final corresponderá a la
+
+diferencia entre el monto máximo de las
+
+Coberturas que puede recibir, equivalente a UF
+
+7.000, y el saldo del monto de Coberturas
+
+efectivas que éste tenga vigentes con la
+
+Cuenta; y
+
+b) El equivalente porcentual de Cobertura asignada a
+
+una operación corresponderá al margen de
+
+Cobertura calculado según lo señalado en la letra
+
+a) anterior dividido por el monto de la operación
+
+en cuestión, expresado como porcentaje, con dos
+
+decimales. En el caso que dicha relación supere
+
+los límites porcentuales señalados en la tabla
+
+contenida en el primer párrafo de este numeral,
+
+el saldo del monto de las Coberturas para un
+
+beneficiario final se ampliará en la medida
+
+que se produzcan amortizaciones o pagos totales
+
+o parciales del capital inicial de los créditos
+
+ya acogidos a la Cobertura.
 
 Con todo, un Intermediario podrá solicitar para una operación una Cobertura porcentual menor a la que resulte de aplicar las reglas señaladas.
 
@@ -180,7 +232,7 @@ Con todo, un Intermediario podrá solicitar para una operación una Cobertura po
 
 El Intermediario interesado en solicitar las Coberturas establecidas por el presente Reglamento, deberá enviar una solicitud de Coberturas por las operaciones que haya aprobado, como máximo, dentro del plazo de 120 días corridos contado desde dicha aprobación, correspondiéndole al Gerente aprobar el otorgamiento y pago de las Coberturas mediante Resolución, conforme al siguiente procedimiento general que establece un sistema de concurso permanente o de ventanilla abierta de acceso a la Cobertura.
 
-El Intermediario deberá acompañar en su solicitud a la Gerencia de Intermediación Financiera de la Corporación, en adelante también "la Gerencia", los siguientes antecedentes, por cada operación:
+El Intermediario deberá acompañar en su solicitud a la Gerencia de Intermediación Financiera de la Corporación, en adelante también "la Gerencia", los siguientes antecedentes, por cada operación (informando, si corresponde, las dos o tres operaciones que la integran):
 
 . Identificación del beneficiario final (RUT Empresa; Nombre Empresa; Nombre de contacto; Teléfono y/o email de contacto; Actividad Económica; Localización), y declaración del cumplimiento de las condiciones de elegibilidad establecidas en los numerales 2° y 4° anteriores.
 
@@ -198,7 +250,17 @@ Dentro del plazo máximo de 5 días corridos contado desde la fecha de emisión 
 
 Sin perjuicio de lo dispuesto en el primer párrafo del N° 8, la aprobación del Gerente quedará sin efecto si el Intermediario no cursare la operación con su cliente dentro de los 60 días corridos, contados desde la notificación de la aprobación de las Coberturas. Asimismo, la aprobación y vigencia de la Cobertura está condicionada al pago de la comisión a que se refiere dicho número 8 de este Reglamento.
 
-El Intermediario podrá reprogramar las operaciones acogidas a la Cobertura para lo cual sólo deberá informar al Gerente de dicha nueva reprogramación dentro de los 30 días corridos siguientes a su formalización para efectos de mantener vigente la Cobertura. La cobertura se mantendrá vigente en estos casos, siempre que se trate de la primera reprogramación, que ésta no involucre una novación por cambio de deudor, que la Cobertura se mantenga por la tasa porcentual respectiva aplicada sobre el mismo capital inicial de la operación, que la nueva operación sea homogénea en términos del monto de las cuotas durante el período de amortización (vale decir cuotas iguales de capital más intereses), y que se cumplan las demás condiciones del presente Reglamento.
+El Intermediario podrá reprogramar las operaciones acogidas a la Cobertura para lo cual sólo deberá informar al Gerente de dicha nueva reprogramación dentro de los 30 días corridos siguientes a su formalización para efectos de mantener vigente la Cobertura. La cobertura se mantendrá vigente en estos casos, siempre que ésta no involucre una novación por cambio de deudor, que la Cobertura se mantenga por la tasa porcentual respectiva aplicada sobre el mismo capital inicial de la operación, que la nueva operación sea homogénea en términos del monto de las cuotas durante el período de amortización (vale decir cuotas iguales de capital más intereses), y que se cumplan las demás condiciones del presente Reglamento.
+
+El Intermediario que lo desee, una vez cursada la operación, podrá presentar a la Gerencia, cada uno de los antecedentes señalados en los literales a), b),
+
+- **c)** y
+
+- **d)** del numeral 9.1. de manera anticipada a la fecha de la mora. Si así ocurriere, el Gerente emitirá un certificado de cobertura, refrendado por el Fiscal de la Corporación, donde constará que la operación elegible ha cumplido plenamente con los requisitos enunciados únicamente en dichos literales, ya que para efectos de solicitar el pago de la cobertura deberán siempre presentarse los antecedentes señalados en los literales
+
+- **e)** y
+
+- **f)** del numeral 9.1., antecedentes con los cuales se acredita la mora de la respectiva operación y el ejercicio de las acciones judiciales del caso, a menos que operare el anticipo indicado en el penúltimo párrafo del numeral 9.1.
 
 ### 8. Comisión
 
@@ -214,21 +276,105 @@ En la eventualidad de que los niveles de morosidad o siniestralidad de la carter
 
 9.1. Procedimiento de pago de la Cobertura
 
-En caso de mora del beneficiario final, para hacer efectivo el desembolso de la Cobertura, el Intermediario deberá presentar a CORFO, hasta el plazo de 12 meses contado desde la fecha de vencimiento de la respectiva operación o desde la mora en el pago de la renta para el caso de leasing financiero o leaseback, y una vez que haya iniciado las correspondientes acciones de cobro, un requerimiento fundamentado y escrito, acompañando una "Declaración Jurada Simple" del Gerente General o de quien esté autorizado para actuar frente a CORFO para este efecto, con los siguientes antecedentes:
+En caso de mora del beneficiario final, para hacer efectivo el desembolso de la Cobertura, el Intermediario deberá presentar a CORFO, hasta el plazo de 12 meses contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback (o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del numeral 4°), y una vez que haya iniciado las correspondientes acciones de cobro, un requerimiento fundamentado y escrito, acompañando una "Declaración Jurada Simple" del Gerente General del Intermediario o de quien esté autorizado para actuar frente a CORFO para este efecto, con los siguientes antecedentes :
 
-a) Fotocopia de los títulos ejecutivos incluidas todas sus modificaciones.
+a) Fotocopia de los títulos ejecutivos incluidas
 
-b) Copia de los informes de las tasaciones a valores comerciales y de liquidación respectivas de los bienes entregados como garantías reales y de la ejecución de las garantías personales y copia de informes sobre los otros mitigadores de riesgo que existieren. En el caso de operaciones de leasing financiero o leaseback deberán adjuntarse además los antecedentes del bien entregado en arriendo.
+todas sus modificaciones.
 
-c) Copia de la demanda judicial, solicitud de Quiebra o verificación de créditos y de las resoluciones judiciales que hayan recaído sobre tales escritos; constancia de la notificación judicial al deudor principal, y/o en su caso sus avalistas, fiadores o codeudores solidarios o a los representantes legales de todos estos, dentro de plazo legal correspondiente para estos efectos; o si aquellos fueren buscados, no ubicados y no siendo posible su notificación mediante alguna de las formas que establecen los artículos 40 y 44 del Código de Procedimiento Civil, copia de las diligencias efectuadas ante el tribunal competente para la notificación y copia de las certificaciones judiciales de las búsquedas respectivas.
+b) Copia de los informes de las tasaciones a valores
 
-d) Documentación que determine el uso del crédito o finalidad de la operación; y en su caso que él o todos los Créditos a reprogramar se encontraban al día o que tenían una mora igual o inferior a 60 días al 27 de febrero de 2010; y que el incumplimiento del deudor en el pago de sus obligaciones con el intermediario, se produjo dentro de los plazos a que hace alusión el párrafo tercero del numeral 1°.
+comerciales y de liquidación respectiva de los
 
-e) Documentación que acredite la calidad del beneficiario final al momento de cursar la operación (nivel de ventas, localización del deudor principal, declaración jurada simple respecto del daño sufrido, etc.).
+bienes entregados como garantías reales y de la
 
-f) Recuperaciones y saldos deudores calculados a la fecha de la presentación del requerimiento de pago.
+ejecución de las garantías personales y copia de
 
-g) Declaración simple del beneficiario en la cual renuncia al plazo mínimo de la operación y de la gracia.
+informes sobre los otros mitigadores de riesgo
+
+que existieren. En el caso de operaciones de
+
+leasing financiero y leaseback deberán adjuntarse
+
+además los antecedentes del bien entregado
+
+en arriendo.
+
+c) Documentación que acredite el cumplimiento de
+
+condiciones establecidas en el presente
+
+Reglamento de Cobertura, respecto tanto del
+
+uso del crédito o finalidad de la operación
+
+como de la declaración simple del beneficiario
+
+en la cual renuncia al plazo mínimo de la
+
+operación y de la gracia; y en su caso que el
+
+o todos los créditos a reprogramar se encontraban
+
+al día o que tenían una mora igual o inferior a
+
+60 días al 27 de febrero de 2010; y que
+
+el incumplimiento del deudor en el pago de sus
+
+obligaciones con el intermediario, se produjo
+
+dentro de los plazos a que hace alusión el
+
+párrafo tercero del numeral 1°.
+
+d) Documentación que acredite la calidad del
+
+beneficiario final al momento de cursar la
+
+operación (nivel de ventas, localización del
+
+deudor principal, declaración jurada simple
+
+respecto del daño sufrido, etc.).
+
+e) Recuperaciones y saldos deudores calculados a la
+
+fecha de la presentación del requerimiento de
+
+pago.
+
+f) Copia de la demanda judicial, solicitud de
+
+Quiebra o verificación de créditos y de las
+
+resoluciones judiciales que hayan recaído
+
+sobre tales escritos; constancia de la
+
+notificación judicial al deudor principal,
+
+y/o en su caso sus avalistas, fiadores o
+
+codeudores solidarios o a los representantes
+
+legales de todos estos, dentro de plazo legal
+
+correspondiente para estos efectos; o si aquellos
+
+fueren buscados, no ubicados y no siendo posible
+
+su notificación mediante alguna de las formas que
+
+establecen los artículos 40 y 44 del Código de
+
+Procedimiento Civil, copia de las diligencias
+
+efectuadas ante el tribunal competente para la
+
+notificación y copia de las certificaciones
+
+judiciales de las búsquedas respectivas.
 
 La liquidación de la operación, para efectos de esta Cobertura, sólo podrá considerar el saldo de capital expresado en Unidades de Fomento, excluyendo las menciones señaladas en el párrafo cuarto del numeral 6° anterior. Se deja expresa constancia que cualquiera sea el monto de la operación acogida a la Cobertura o el tope máximo de Cobertura disponible por beneficiario, CORFO sólo cubrirá como máximo la tasa porcentual de Cobertura calculada de la forma expresada en el numeral 6°.
 
@@ -242,7 +388,9 @@ Para efectos de la presente Cobertura, se entenderá que el Intermediario ha eje
 
 CORFO revisará los antecedentes presentados y mediante Resolución del Gerente efectuará el pago o solicitará antecedentes adicionales u objetará la petición si la Corporación considera que no se cumple con los criterios de elegibilidad o los procedimientos establecidos para el cobro del crédito acogido a la cobertura, dentro de los 20 días hábiles siguientes a la solicitud del Intermediario. El Intermediario una vez notificado, contará con 20 días hábiles para solucionar la objeción o requerimiento a su solicitud de pago de Cobertura, la cual deberá ser rechazada por CORFO de no efectuarse la complementación dentro del plazo indicado, conforme a la causal indicada en el literal d) del numeral 11°.
 
-El Gerente efectuará el pago sobre el saldo de capital insoluto al momento de la mora en el pago de la operación calculado del modo indicado en los párrafos primero, segundo y tercero del numeral 6º, saldo respecto del cual se aplicará un monto de deducible, que será determinado por el CEC y corresponderá al equivalente al producto de un porcentaje anual calculado en base al indicador de provisiones de la cartera de créditos al 31 de diciembre de 2010 y saldo de coberturas otorgadas para cada intermediario financiero.
+Sin perjuicio de lo anterior, podrá anticiparse el pago de alguna cobertura, en la medida que el deudor haya incurrido en mora de la respectiva operación (mora que deberá acreditarse mediante una declaración jurada simple en tal sentido emitida por el Gerente General del Intermediario o por quien esté autorizado para actuar frente a CORFO) y que el intermediario financiero caucione dicho anticipo mediante una póliza de seguros de ejecución inmediata o un documento bancario (boleta de garantía bancaria, vale a la vista o depósito a plazo), emitidos con carácter de irrevocables, pagaderos a la vista y al solo requerimiento de CORFO, tomados por la suma equivalente al 100% del monto total anticipado. La vigencia de dicha garantía deberá comprender el plazo total de 430 días corridos contado desde la fecha de la mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback.
+
+El Gerente efectuará el pago sobre el saldo de capital insoluto calculado conforme a lo estipulado en el numeral 6º, saldo respecto del cual se aplicará un monto de deducible, que será determinado por el CEC y corresponderá a un monto equivalente al porcentaje anual de provisiones de la cartera de créditos al 30 de junio de 2010 para cada intermediario financiero, multiplicado por el saldo de coberturas otorgadas para cada intermediario financiero bajo este instrumento. Para estos efectos, podrá distinguirse entre sub-carteras de créditos de intermediarios siguiendo los criterios comerciales, de mercado u operativos que éstos adopten.
 
 9.2. Recuperaciones posteriores al pago de la Cobertura
 
@@ -274,7 +422,7 @@ La Cobertura se libera al momento del pago del capital del crédito o mediante e
 
 ### 11. Causales de no pago de la Cobertura
 
-No procederá el pago de la Cobertura cuando dentro del plazo de 12 meses contado desde la fecha de vencimiento de la respectiva operación o desde la mora en el pago de la renta para el caso de leasing financiero o leaseback:
+No procederá el pago de la Cobertura cuando dentro del plazo de 12 meses contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback (o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del numeral 4°)
 
 a) El Intermediario no haya notificado judicialmente la demanda al deudor principal y en su caso a alguno de sus avalistas, fiadores o codeudores solidarios o a los representantes legales de todos éstos, o no haya solicitado la Quiebra o verificado el o los créditos;
 
