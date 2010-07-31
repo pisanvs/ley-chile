@@ -18,7 +18,7 @@ Todo servicio de agua potable deberá proporcionar agua de buena calidad en cant
 
 #### Artículo 2º
 
-La Secretaría Regional Ministerial de Salud respectiva deberá aprobar todo proyecto de construcción, reparación, modificación y ampliación de cualquier obra pública o particular destinada a la provisión o purificación de agua para el consumo humano.
+La Secretaría Regional Ministerial de Salud respectiva deberá aprobar todo proyecto de construcción, reparación, modificación o ampliación de cualquier obra pública o particular destinada a la provisión o purificación de agua para el consumo humano, que no sea parte o no esté conectado a un servicio público sanitario regido por el DFL Nº382 de 1988 del Ministerio de Obras Públicas.
 
 Asimismo, una vez construida, reparada, modificada o ampliada y antes de entrar a prestar servicios, la obra debe ser autorizada por el citado organismo.
 
@@ -40,7 +40,9 @@ II.- DE LA CALIDAD DEL AGUA
 
 Se autorizará la explotación y funcionamiento de un servicio de agua cuando ésta, sometida a análisis bacteriológico, no acuse existencia de gérmenes del grupo coliforme. Si acusa existencia de estos gérmenes, aun cuando no se encuentren gérmenes patógenos, se considerará contaminada.
 
-Sin embargo, en los servicios con red de distribución se aceptará como agua potable desde un punto de vista bacteriológico, aquella que cumpla con las exigencias establecidas en los artículos 16, 17, y 17 bis del presente Reglamento. En los casos de abastecimiento de agua a una o a un reducido grupo de viviendas o de un establecimiento, con sistema particular de agua, se aceptará como agua potable aquella cuyo número de organismos coliformes no sobrepase de un coli por cien centímetros cúbicos de agua, lo que se determinará por el término medio de los resultados de los exámenes bacteriológicos de una cantidad de muestras de agua que fije la autoridad sanitaria.
+Sin embargo, en los servicios con red de distribución se aceptará como agua potable desde un punto de vista bacteriológico, aquella que cumpla con las exigencias establecidas en los artículos 16, 17, y 17 bis del presente Reglamento.
+
+En los casos de abastecimiento de agua a una o a un reducido grupo de viviendas o a un establecimiento, con sistema particular de agua, se aceptará como agua potable aquella que se encuentre exenta de Escherichia coli y cuyo número de organismos coliformes totales no sobrepase de un coli por cien centímetros cúbicos de agua, lo que se determinará por el término medio de los resultados de los exámenes bacteriológicos de una cantidad de muestras de agua que fije la autoridad sanitaria.
 
 #### Artículo 7º
 
@@ -236,7 +238,7 @@ fenólicos Fenol µg/l 2
 
 #### Artículo 9º
 
-Sin perjuicio de lo señalado en los artículos anteriores, las aguas que se empleen en la explotación de servicios de agua potable no deberán contener substancias tóxicas y dañinas u organismos que no sean eliminados por un tratamiento corriente y, además, estar libres de organismos microscópicos o substancias que puedan causar perturbaciones en la normal operación y eficiencia de los procesos de tratamiento antes indicados.
+Sin perjuicio de lo señalado en los artículos anteriores, las aguas que se empleen en la explotación de servicios de agua potable no deberán contener sustancias tóxicas o dañinas ni organismos que no puedan ser eliminados por un tratamiento y, además, estar libres de organismos microscópicos o sustancias que puedan causar perturbaciones en la normal operación y eficiencia de los procesos de tratamiento.
 
 Para la determinación de las condiciones señaladas en el inciso anterior, el agua antes de ser tratada debe ser sometida a los análisis que ordene la Secretaría Regional Ministerial de Salud.
 
@@ -262,15 +264,49 @@ El Ministerio de Salud, en casos excepcionales y a través del Acto Administrati
 
 El uso de cualquier desinfectante diferente a un generador de cloro activo debe ser autorizado por el Ministerio de Salud, quien fijará las concentraciones máximas y mínimas de su presencia en el agua y las tolerancias para su cumplimiento.
 
-Los servicios de agua potable, que actualmente se encuentran sometidos a cloración, así como los nuevos que se instalen, solicitarán a la Secretaría Regional Ministerial de Salud respectiva, se les autorice para reemplazar la cloración por la yodación o iniciar la desinfección por medio de la yodación, según corresponda.
+Los servicios de agua potable que actualmente se encuentran sometidos a cloración, así como los nuevos que se instalen, que deseen utilizar la yodación para la desinfección del agua, deberán solicitar la autorización correspondiente a la Secretaría Regional Ministerial de Salud respectiva.
 
-#### Artículo 11º
+#### Artículo 11
 
-La Secretaría Regional Ministerial de Salud respectiva determinará por resolución los servicios que a su juicio deban fluorar el agua.
+La Secretaría Regional Ministerial de Salud respectiva podrá disponer que un servicio de agua potable fluorure el agua que distribuye, cuando la población a la que provee presente altos indicadores de caries dentales y el nivel de fluoruros naturales presentes en el agua sea inferior de 0,5 mg/l.
 
-#### Artículo 12º
+En la resolución que así lo disponga se fijará la concentración del ión fluoruro a mantener en las redes de distribución, la que deberá estar dentro del rango de 0,6 y 1,0 mg/l.
 
-Toda captación de agua destinada al consumo humano deberá estar proyectada y protegida, construida y explotada de manera que impida la contaminación de las aguas captadas.
+Las empresas que deban fluorurar el agua deberán contar con un sistema de fluoruración provisto de autorización sanitaria, la que se concederá previa constatación de que posee los siguientes elementos y características:
+
+a) equipos adecuados para la adición de fluoruro en la planta de purificación de agua o estación de bombeo.
+
+b) provisión constante de un producto químico adecuado de fluoruro de acuerdo a las normas de la Asociación Americana de Plantas de Agua Potable, AWWA.
+
+c) personal capaz de mantener el sistema de fluoruración y de llevar los registros adecuados.
+
+d) datos del producto químico que usa, según dispone la Norma Chilena NCh 2245. Of.2003 "Hoja de Datos de Seguridad de Productos Químicos-Contenido y Disposición de los Temas."
+
+e) plan de contingencias propio, que establezca claramente las medidas a adoptar en situaciones de riesgo para las personas o instalaciones, en el transporte, recepción en la planta, operación, manipulación y almacenamiento.
+
+f) consideración de todos los aspectos de seguridad asociados al tipo y estado del producto químico que se utiliza, para proteger la salud tanto de los trabajadores como de la población.
+
+g) el diseño del sistema deberá prever que la cantidad de fluoruro que pueda entrar a la red en caso de accidentes no exceda de la cantidad de fluoruro requerido para un día de operación.
+
+h) mecanismo de seguridad que detenga automáticamente la adición de fluoruro si disminuye repentinamente el flujo de agua que pasa a través de ella.
+
+i) en caso de utilizarse fluorsilicato de sodio (Na2SiF6) como fuente de ión fluoruro, éste deberá aplicarse mediante sistemas de dosificación que eviten variaciones de concentraciones en la red.
+
+j) programa de manejo adecuado de residuos sólidos y líquidos de acuerdo con la normativa vigente.
+
+#### Artículo 11 bis
+
+La empresa productora del agua fluorurada deberá monitorear diariamente los niveles de fluoruro en la planta y en los sistemas de distribución de agua potable por medio de muestras que serán tomadas en el efluente de la planta de tratamiento y en distintos puntos de la red los que se deberán variar cada día, debiendo analizar al menos una muestra diaria por cada 500.000 habitantes servidos o fracción. Los resultados diarios serán enviados mensualmente a la Secretaría Regional Ministerial competente en el formulario que ese organismo señale al efecto.
+
+Se entenderá que la empresa está brindando el servicio de fluoruración del agua si la concentración de flúor en ésta es igual o superior a 0,5 mg/l. Sin embargo para lograr efectividad sanitaria de esta medida, los promedios de concentración deberán encontrarse dentro de los rangos aceptables, en relación a la concentración óptima de fluoruros indicada para la respectiva empresa, según los períodos indicados en la siguiente tabla:
+
+(COF= concentración óptima de Flúor)
+
+En ningún caso la concentración de alguna muestra individual puede ser superior de la concentración máxima permitida para flúor en el artículo 8º de este reglamento.
+
+#### Artículo 12
+
+Toda fuente de captación de agua destinada al consumo humano deberá estar proyectada y protegida, construida y explotada de manera que impida la contaminación de las aguas captadas.
 
 #### Artículo 13º
 
@@ -284,11 +320,23 @@ En la red de distribución no deberán existir contactos directos o indirectos c
 
 El agua que ha sido sometida a todas las etapas de tratamiento, excepto la cloración final o la yodación en su caso, no deberá subir su contenido de bacilos coliformes como término medio mensual de 50 coli por 100 centímetros cúbicos.
 
-#### Artículo 15º
+#### Artículo 15
 
-El agua de la red de distribución deberá cumplir con las condiciones establecidas en los artículos 16º y 17º del presente Reglamento, y ser controlada por el servicio que la trata y distribuye y por la Secretaría Regional Ministerial de Salud, de acuerdo con las normas que en cuanto a cantidad de muestras y técnica de laboratorio establezca este ultimo.
+El agua de la red de distribución deberá cumplir con las condiciones establecidas en los artículos 15 bis, 16, 17 y 17 bis del presente Reglamento y en las respectivas resoluciones de su aprobación y autorización, y ser controlada por el servicio que la trata y distribuye y por la Secretaría Regional Ministerial de Salud respectiva.
 
 Sin embargo, cuando un servicio de agua desee emplear el método de la membrana filtrante para el control bacteriológico, deberá ser autorizado por la Secretaría Regional Ministerial de Salud, el que establecerá las modalidades para su aplicación.
+
+#### Artículo 15 bis
+
+El agua potable en cada servicio deberá cumplir además con todas las condiciones siguientes:
+
+- la turbiedad media mensual debe ser menor o igual a 2 UNT, obtenida como promedio artiméticos de todas las muestras puntuales analizadas en el mes.
+
+- de todas las muestras que se analicen mensualmente, la turbiedad puede superar el valor de 4 UNT en una muestra cuando se hayan analizado menos de 20 muestras en el mes y en el 5% de las muestras cuando se hayan analizado 20 muestras o más en el mes.
+
+- ninguna muestra podrá exceder el valor de 20 UNT
+
+- en todas las muestras que se analicen mensualmente, aquellas que presenten turbiedades entre 10 UNT y 20 UNT no podrán corresponder a un mismo período de 24 horas.
 
 #### Artículo 16
 
@@ -528,17 +576,25 @@ Deberán también consultarse las instalaciones de reservas necesarias para que 
 
 #### Artículo 22º
 
-Todo servicio de agua potable deberá consultar un volumen de almacenamiento adecuado, el que será determinado en cada caso por la autoridad sanitaria.
+Todo servicio de agua potable deberá consultar un volumen de almacenamiento adecuado, el que será determinado en cada caso por la autoridad sanitaria, la que en casos justificados podrá exceptuar de esta obligación a las viviendas unifamiliares siempre que se asegure la continuidad del abastecimiento.
+
+Los servicios sanitarios regidos por el DFL Nº382 de 1988, del Ministerio de Obras Públicas, deberán diseñar los estanques de almacenamiento de agua de acuerdo con lo establecido en la NCh. 691Of.98 y el decreto Nº50 de 2002, del Ministerio de Obras Públicas, Reglamento de Instalaciones Domiciliarias de Agua Potable y de Alcantarillado.
 
 #### Artículo 23º
 
-Todas las partes constitutivas de un servicio de agua potable deberán estar proyectadas, construidas y explotadas en forma que aseguren la continuidad del abastecimiento, impidiendo toda interrupción del suministro, ya sea por cortas en la fuente de capitación, fallas del equipo, falta de personal técnico eficiente, introducción de personas extrañas o de animales en los establecimientos o cualquiera otra eventualidad.
+Todas las partes constitutivas de un servicio de agua potable deberán estar proyectadas, construidas y explotadas en forma que aseguren la continuidad del abastecimiento, impidiendo toda interrupción del suministro, ya sea por cortes en la fuente de capitación, fallas de los equipos, falta de personal técnico eficiente, introducción de personas extrañas o de animales en los establecimientos o cualquiera otra eventualidad.
+
+#### Artículo 23 bis
+
+Deberá evitarse el ingreso de cualquier materia extraña al interior de los estanques de almacenamiento de agua, para lo cual éstos deberán permanecer tapados, sus ductos de ventilación deberán estar provistos con rejillas y deberá obturarse cualquier orificio que no sea funcional al mismo y que no esté debidamente protegido.
+
+Al menos cada tres meses deberá efectuarse una prolija inspección de dichos estanques y de sus instalaciones anexas, con el fin de determinar su estado de limpieza, funcionamiento y conservación. El aseo y desinfección de los mismos deberá hacerse al menos una vez al año o antes si se encuentran en su interior materias o cuerpos extraños susceptibles de descomposición, acumulación de lodos u otras impurezas que afecten la potabilidad del agua.
 
 IV.- DE LOS OPERADORES
 
 #### Artículo 24º
 
-El estado de salud y las condiciones físicas e higiénicas de los operadores de plantas deberán ser compatibles con las condiciones sanitarias de un servicio de agua potable. Para este efecto, todo operador que pueda tener contacto con el agua deberá poseer un carnet de salud otorgado por la autoridad sanitaria.
+El estado de salud y las condiciones físicas e higiénicas de los operadores de plantas deberán ser compatibles con las condiciones sanitarias de un servicio de agua potable.
 
 #### Artículo 25º
 
@@ -548,13 +604,13 @@ Sin perjuicio del control indicado en el artículo anterior, en casos especiales
 
 Será de responsabilidad de los administradores de servicios de agua potable velar por las condiciones de salud e higiene de los operadores. En caso de que exista duda respecto al estado de determinado operador, deberá recurrirse a la autoridad sanitaria correspondiente, a fin de que tome las medidas pertinentes.
 
-#### Artículo 27º
+#### Artículo 27
 
-Los administradores de los servicios de abastecimiento de agua potable serán personalmente responsables ante la autoridad sanitaria, en los casos en que los operadores u otros empleados de estos servicios sean sorprendidos falseando muestras de agua destinadas a análisis bacteriológicos, falsificando el resultado de determinaciones de cloro residual o de yodación, fluoración u otros o incurriendo en cualquiera otra falta que signifique incumplimiento del presente decreto o que perjudique en cualquier forma las condiciones higiénicas del agua entregada a los consumidores.
+Los administradores de los servicios de abastecimiento de agua potable serán personalmente responsables ante la autoridad sanitaria de la operación y mantención de los sistemas y de evitar toda adulteración de muestras de agua destinadas a análisis bacteriológicos, falsificando el resultado de determinaciones de cloro residual o de yodación, fluoruración u otros elementos o incurriendo en cualquiera otra falta que signifique incumplimiento del presente reglamento o que perjudique en cualquier forma las condiciones higiénicas del agua entregada a los consumidores.
 
-#### Artículo 28º
+#### Artículo 28
 
-De acuerdo con su importancia, las diferentes secciones de un servicio de agua potable deberán estar constantemente vigiladas, para lo cual estarán obligados a construir casas para cuidadores en los sitios que a juicio de la autoridad sanitaria sea necesario.
+De acuerdo con su importancia las diferentes secciones de un servicio de agua potable deberán estar constantemente vigiladas, para lo cual deberán disponer de las facilidades necesarias para la permanencia del personal que, a juicio de la autoridad sanitaria, sea necesario para ello.
 
 V.- DE LAS SANCIONES
 
