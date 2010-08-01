@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.599 EXENTA, DE 2010
+
+Por resolución exenta Nº 1.599, de fecha 23 de junio de 2010, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza a Organismo Técnico de Capacitación "Sociedad Salazar y Valdivia Limitada", cuyo nombre de fantasía es "Horizonte Ltda.", RUT Nº 78.896.190-1, representado legalmente por el señor Miguel Claudio Salazar Cruz, para impartir cursos de capacitación para conductores que obtuvieron su licencia de conductor clase A1 y/o A2 con anterioridad al 8 de marzo de 1997, con el fin de optar a licencia de conductor profesional clase A3 y/o A5, respectivamente, según Decreto Supremo Nº 61/2001, del Ministerio de Transportes y Telecomunicaciones, el que tendrá su lugar de funcionamiento en el local ubicado en Av. Libertador Bernardo O'Higgins Nº 3573, comuna de Estación Central.-
+
+Raimundo Cruzat Correa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
