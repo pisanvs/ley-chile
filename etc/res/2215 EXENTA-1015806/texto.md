@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.215, de 19 de julio de 2010, de esta Subsecretaría, autorízase a KAY RUTH DÍAZ GONZÁLEZ para iniciar actividades pesqueras de transformación, instalar y operar planta en Estación Agua Amarga s/n, Ruta 5 Norte, Vallenar, III Región, para elaborar en línea de Alga Seca, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
