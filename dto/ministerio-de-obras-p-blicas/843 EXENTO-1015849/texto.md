@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº843 de fecha 30 de junio de 2010, se expropiaron los lotes de terreno N°s 7-A, 7-B, 7-C, 7-D, 7-E, 7-F, 7-G y 7-H, superficies 193, 600, 454, 206, 165, 252, 307 y 293 m2 respectivamente, rol Nº209-50, comuna de Florida, para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", Región del Bío Bío" y se acordó el valor de la indemnización con su propietario MARIA EUGENIA HICKMAN GOUET, ascendente a la cantidad de $2.347.542.-
+
+Fiscal del Ministerio de Obras Públicas.
