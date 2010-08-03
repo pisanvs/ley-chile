@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº844, de fecha 30 de junio del 2010, se expropiaron los lotes de terreno N°s. 46-C y 47-C, superficies 896 y 968 m2, Rol Nº280-32, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario HERIBERTO BAEZA FAUNDEZ, ascendente a la cantidad de $3.871.049.
+
+Fiscal del Ministerio de Obras Públicas.
