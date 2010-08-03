@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº849, de fecha 30 de junio del 2010, se expropiaron los lotes de terreno N°s. 159-B y 160-B, superficies 371 y 4.033 m2, Rol Nº266-70, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario MIXTOR OMAR REVECO AVILA O MISCTOR OMAR REVECO AVILA, ascendente a la cantidad de $30.610.879.
+
+Fiscal del Ministerio de Obras Públicas.
