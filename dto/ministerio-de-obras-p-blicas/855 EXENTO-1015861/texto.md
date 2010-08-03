@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº855 de 30 de junio de 2009, se expropió el lote de terreno Nº49, superficie 1.766 m2, rol de Avalúo 43-47, comuna de Quilaco, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BIO-BIO", VIII Región y se acordó el valor de la indemnización con su propietario JUAN HECTOR JARA CARES, ascendente a la cantidad de $1.155.937.-
+
+Fiscal del Ministerio de Obras Públicas.
