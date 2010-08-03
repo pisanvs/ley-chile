@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº852, de fecha 30 de junio del 2010, se expropiaron los lotes de terreno N°s 57 y 58, superficie 507 y 463,0 m2 respectivamente, Rol Nº 171-6, comuna de Curarrehue, IX Región para la obra "Mejoramiento Ruta 199-CH, Curarrehue Paso Mamuil Malal, Sector Curarrehue Puesco, Km. 116,88000 al Km. 136,76000, Tramo II, Km. 124,52000 al Km. 130,34000 Provincia de cautín, Comuna de Curarrehue, IX Región.", y se acordó el valor de indemnización con su propietario HUGO RADOMIRO ROOSEVELT CAREAU ELGUETA, ascendente a la cantidad de $1.246.233.-
+
+Fiscal del Ministerio de Obras Públicas.
