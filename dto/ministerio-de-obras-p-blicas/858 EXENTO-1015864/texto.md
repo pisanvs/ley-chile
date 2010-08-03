@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº858, de fecha 30 de junio del 2010, se expropió el lote de terreno Nº83, superficie 159 m2, Rol Nº 320-08, comuna de Pelluhue, VII Región para la obra "Camino Cauquenes Chanco Nº Rol M-50, Sector Tutuvén Chanco, tramo Km. 15,20000 al Km. 28,80000, Comunas Cauquenes, Pelluhue y Chanco, Provincia de Cauquenes, Región del Maule.", y se acordó el valor de indemnización con su propietario JOSE MARIA JARA RIVAS, ascendente a la cantidad de $336.020.-
+
+Fiscal del Ministerio de Obras Públicas.
