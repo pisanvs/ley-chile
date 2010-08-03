@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº853 de fecha 30 de junio de 2010, se expropió el lote de terreno Nº3, superficie 250 m2, rol Nº206-67, comuna de Hualqui, para la obra "Camino Hualqui - Copiulemu, Sector Puente El Águila, Km. 2,49479 al Km. 2,68629, VIII Región" y se acordó el valor de la indemnización con su propietario ROMUALDO ARAVENA VIDAL, ascendente a la cantidad de $1.381.871.-
+
+Fiscal del Ministerio de Obras Públicas.
