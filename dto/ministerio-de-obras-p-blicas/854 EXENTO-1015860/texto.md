@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº854 de fecha 30 de junio de 2010, se expropiaron los lotes de terreno N°s 18, 19, 20, 21 y 23, superficies 220, 97, 38, 246 y 852 m2 respectivamente, roles N°s 209-103, 209-102 y 209-65, comuna de Florida, para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", Región del Bío Bío" y se acordó el valor de la indemnización con su propietario GLORIA EULALIA MORALES SEPULVEDA, ascendente a la cantidad de $1.161.300.-
+
+Fiscal del Ministerio de Obras Públicas.
