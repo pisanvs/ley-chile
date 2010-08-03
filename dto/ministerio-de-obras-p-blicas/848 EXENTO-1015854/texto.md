@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº848 de 30 de junio de 2010, se expropió el lote de terreno Nº12, superficie 8.902 m2, rol de Avalúo 158-23, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RIO CORRENTOSO - LAS GAVIOTAS. TRAMO KM. 65,58046 A KM. 72,78493", X Región y se acordó el valor de la indemnización con su propietaria JUNIA AIDENEA FUENTEALBA CERDA, ascendente a la cantidad de $28.335.020.-
+
+Fiscal del Ministerio de Obras Públicas.
