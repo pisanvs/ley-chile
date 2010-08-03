@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº857, de fecha 30 de junio del 2010, se expropió el lote de terreno N°10-C, superficie 91 m2, Rol Nº281-60, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario PEDRO ANTONIO DIAZ PEREIRA, ascendente a la cantidad de $551.200.
+
+Fiscal del Ministerio de Obras Públicas.
