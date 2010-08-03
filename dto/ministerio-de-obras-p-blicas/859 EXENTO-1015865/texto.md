@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº859, de fecha 30 de junio del 2010, se expropió el lote de terreno Nº17, superficie 331 m2, Rol Nº 217-144, comuna de San Javier, VII Región para la obra "Camino: Mejoramiento Ruta L-25, S: CR. Ruta L-11 - CR. Ruta L-19 (Esperanza) Km. 0,00000 al Km. 11,28600.", y se acordó el valor de indemnización con su propietaria PATRICIA EUGENIA ORELLANA ALCANTAR, ascendente a la cantidad de $1.041.810.-
+
+Fiscal del Ministerio de Obras Públicas.
