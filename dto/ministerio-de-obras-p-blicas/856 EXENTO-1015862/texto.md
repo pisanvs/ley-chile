@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº856, de fecha 30 de junio del 2010, se expropió el lote de terreno Nº23, superficie 1.277 m2, Rol Nº 218-307, comuna de San Javier, VII Región para la obra "Camino: Mejoramiento Ruta L-25, S: CR. Ruta L-11 - CR. Ruta L-19 (Esperanza) Km. 0,00000 al Km. 11,28600.", y se acordó el valor de indemnización con su propietario ROLANDO ANTONIO CHAMORRO CHAMORRO, ascendente a la cantidad de $2.986.946.-
+
+Fiscal del Ministerio de Obras Públicas.
