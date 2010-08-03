@@ -34,6 +34,8 @@ Decreto:
 
 Modifíquese El Plan Regulador Comunal de Puente Alto, en los términos señalados en el Art. 2.1.14 de la Ordenanza General de Urbanismo y Construcciones, incorporando la Memoria Explicativa del Proyecto Seccional denominado "Seccional 4 Oriente - Costanera", Escala 1/10000, elaborado por la Municipalidad de Puente Alto, para la Modificación del Uso de Suelo del Plan Regulador Comunal de Puente Alto de la Zona I M 1 a H 2, identificados en el citado instrumento y su gráfica.
 
+> **Nota.** El Decreto 969 Exento, M. de Puente Alto, publicado el 02.08.2010, introduce diversas modificaciones a la presente norma, en la forma que en ella se indica y que se han incorporado al este texto actualizado por restricciones técnicas.
+
 Efectúese la publicación legal en el Diario Oficial. Regístrese, publíquese, comuníquese y archívese.- Manuel José Ossandón Irarrazábal, Alcalde; Miguel Ángel Román Azar, Secretario Municipal.
 
 Lo que comunico a Ud., para su conocimiento.- Miguel Ángel Román Azar, Secretario Municipal.
