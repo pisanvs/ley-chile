@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº860 de fecha 30 de junio de 2010, se expropió el lote de terreno Nº2-A, superficie 369 m2, rol Nº2210-347, comuna de Hualaihué, para la obra "Camino Sin Rol, Sector Puente Cisnes Nª 2, tramo Km. 0,997 al Km. 1,430" X Región y se acordó el valor de la indemnización con su propietario JUANA LUZ SOTO OJEDA, ascendente a la cantidad de $536.050.-
+
+Fiscal del Ministerio de Obras Públicas.
