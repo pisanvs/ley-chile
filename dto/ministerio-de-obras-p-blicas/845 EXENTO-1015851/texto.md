@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº845 de 30 de junio de 2010, se expropió el lote de terreno Nº20-C, superficie 1.057 m2, rol de Avalúo 158-206, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RIO CORRENTOSO - LAS GAVIOTAS. TRAMO KM. 65,58046 A KM. 72,78493", X Región y se acordó el valor de la indemnización con su propietario EGON VICTOR VILLARROEL MANCILLA, ascendente a la cantidad de $3.575.917.-
+
+Fiscal del Ministerio de Obras Públicas.
