@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº850 de fecha 30 de junio de 2010, se expropió el lote de terreno Nº11, superficie 3.729 m2, rol N°1166-14, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Bif. Puente Bicentenario - Bif. Pupelde, Tramo 1: Variante Chacao", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario KATHERINE ELIZABETH KRUGER DURAN, ascendente a la cantidad de $47.568.047.-
+
+Fiscal del Ministerio de Obras Públicas.
