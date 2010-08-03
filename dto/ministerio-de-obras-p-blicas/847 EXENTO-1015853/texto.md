@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº847, de fecha 30 de junio del 2010, se expropió el lote de terreno N°16-B, superficie 322 m2, Rol Nº279-54, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000" y se acordó el valor de indemnización con su propietario ADRIAN VALDES CACERES, ascendente a la cantidad de $22.877.742.
+
+Fiscal del Ministerio de Obras Públicas.
