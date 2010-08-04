@@ -1,0 +1,7 @@
+DELEGA FACULTADES QUE INDICA EN JEFA DE DEPARTAMENTO JURÍDICO
+
+Extracto de resolución exenta Nº 119, de 28 de julio de 2010, emitida por el Director de Grandes Contribuyentes.
+
+Se delega en la Jefa del Departamento Jurídico de la Dirección Grandes Contribuyentes, doña Elena Fresia Amaya Silva, RUN Nº 9.224.948-4 las siguientes facultades: a) la facultad del artículo 6º, letra B, Nº 5 del Código Tributario, para resolver administrativamente peticiones de revisión fundadas en vicios o errores manifiestos, que se deduzcan en cualquier tiempo, respecto de liquidaciones, giros y resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo o que denieguen peticiones a que se refiere el artículo 126 del Código Tributario; y b) la facultad de resolver los recursos de reposición administrativa del artículo 123 bis del Código Tributario. En caso de ausencia, impedimento o inhabilidad hará uso de la mencionada facultad la abogada doña Claudia Andrea Gajardo Guerrero, RUN Nº 12.290.427-K. Se dejan sin efecto resoluciones anteriores sobre la materia.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en julio de 2010.
