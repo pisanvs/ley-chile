@@ -12,7 +12,7 @@ II. Apruébase el siguiente Reglamento que regirá las condiciones en las cuales
 
 1º. COMITE DE ASIGNACION DE FONDOS-CAF.
 
-Créase el Comité de Asignación de Fondos, en adelante CAF, que estará integrado por el Vicepresidente Ejecutivo, el Fiscal o el Gerente Legal, el Gerente Corporativo, el Gerente de Fomento, el Gerente de Inversión y Desarrollo, el Gerente de Innovación y el Gerente de Administración y Finanzas.
+Créase el Comité de Asignación de Fondos, en adelante CAF, que estará integrado por el Vicepresidente Ejecutivo, el Fiscal o el Gerente Legal, el Gerente Corporativo, el Gerente de Desarrollo Empresarial, el Gerente de Emprendimiento e Innovación, el Gerente de Administración y Finanzas y el Gerente de Estrategia y Estudios.
 
 En este Comité se delega el conocimiento y resolución de las materias que se indican:
 
@@ -62,11 +62,11 @@ TODOCHILE en las fases de pertinencia y asignación de fondos, previo conocimien
 
 22.- Resolver la aprobación y asignación de recursos para la realización de los proyectos que postulen al "Fondo de Recuperación de la Actividad Empresarial en las Comunas de Chaitén y Futaleufú, de la Provincia de Palena, Región de Los Lagos", aprobados por mayoría en el Comité de Asignación Zonal de Fondos - Zona Austral (CAZ - Austral).
 
-23.- Definir el monto del Incentivo al Desempeño y los Agentes Operadores Intermediarios privados que accederán a él, teniendo presente la Evaluación de Desempeño aplicada por la Gerencia de Fomento.
+23.- Definir el monto del Incentivo al Desempeño y los Agentes Operadores Intermediarios Privados que accederán a él, teniendo presente la Evaluación de Desempeño aplicada por la Subgerencia de Red de Fomento Empresarial.
 
 24.- Resolver la aprobación y asignación de recursos para los Planes de Acción de los Agentes Operadores Intermediarios, que debiendo ser aprobados por unanimidad en los Comités de Asignación Zonal de Fondos - CAZ, sólo hubieren obtenido mayoría en dichos Comités.
 
-25.- Resolver la renovación de los Convenios Marco celebrados entre las Direcciones Regionales y los Agentes Operadores Intermediarios, teniendo presente la Evaluación de Desempeño aplicada por la Gerencia de Fomento.
+25.- Resolver la renovación de los Convenios Marco celebrados entre las Direcciones Regionales y los Agentes Operadores Intermediarios, teniendo presente la Evaluación de Desempeño aplicada por la Subgerencia de Red de Fomento Empresarial.
 
 26.- Las demás atribuciones que se le confieran expresamente en virtud de otros Acuerdos de Consejo.
 
@@ -122,7 +122,7 @@ Comité de Asignación Zonal de Fondos Austral, CAZ - Austral:
 
 2.- Se delega en estos Comités las siguientes facultades:
 
-a) La aprobación y asignación de recursos, por unanimidad, para los Programas y Proyectos de Fomento de cada Dirección Regional que lo integran, con excepción de aquellos Programas y Proyectos de Fomento cuya aprobación y asignación de recursos corresponde a los Comités Agencias Regionales de Desarrollo Productivo. Se exceptúan también los Programas Territoriales Integrados y los Programas del Fondo de Desarrollo y Modernización de Microempresas, respecto de los cuales los CAZ deben formular al CAF su recomendación.
+a) La aprobación y asignación de recursos, por unanimidad, para los Programas y Proyectos de Fomento de cada Dirección Regional que lo integran. Se exceptúan los Programas Territoriales Integrados, respecto de los cuales los CAZ deben formular al CAF su recomendación.
 
 b) El conocimiento y la aprobación, por unanimidad, de los Subsidios a Estudios de Preinversión o de Asesorías especializadas en la Etapa de Preinversión del Programa de Promoción y Atracción de Inversiones a Regiones - TODOCHILE de cada Dirección Regional que lo integran, así como la asignación de recursos para su realización. Se delega también en los CAZ la facultad de tomar conocimiento de los Programas de Inversión Regionales que postulen al Programa de Promoción y Atracción de Inversiones a Regiones - TODOCHILE de cada Dirección Regional que lo integran, y formular al CAF su recomendación.
 
@@ -160,13 +160,13 @@ Se entenderá que participan en las sesiones de sus órganos colegiados aquellos
 
 1.- Serán ejecutados por el Gerente Corporativo los Acuerdos que se adopten en uso de las facultades delegadas en el artículo 1º numerales 1, 15, 16, 17, 18 y 20, y en el artículo 2º numeral 6.
 
-2.- Serán ejecutados por el Gerente de Fomento los Acuerdos que se adopten en uso de las facultades delegadas en el número 1º numerales 2, 3, 4, 5, 7 y 23.
+2.- Serán ejecutados por el Gerente de Desarrollo Empresarial los Acuerdos que se adopten en uso de las facultades delegadas en el número 1º numerales 2, 3, 4, 5, 7, 19 y 23
 
 3.- Serán ejecutados por el Director Regional que corresponda, los Acuerdos que se adopten en uso de las facultades delegadas en el número 1º numerales 6,8,9,10,11,12,13, 14, 21, 24 y 25, y en el número 2º numerales 2 y 3.
 
 4.- Serán ejecutados por el Director Regional de la X Región de Los Lagos los acuerdos que se adopten en uso de las facultades delegadas en el número 1º numeral 22 y en el número 2º numeral 2.bis.
 
-5.- Serán ejecutados por el Gerente de Inversión y Desarrollo los Acuerdos que se adopten en uso de las facultades delegadas en el artículo 1º numeral 19.
+5.- DEROGADO.
 
 Anótese, tómese razón por la Contraloría General de la República, publíquese en el Diario Oficial y transcríbase.- Jaime Arellano Quintana, Vicepresidente Ejecutivo (S).- Hugo Alfonso Aracena, Fiscal (S).- Luis Hernán Pavez Chateau, Secretario General (S).
 
