@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.189, de 14 de julio de 2010, de esta Subsecretaría, autorízase a DUBER ANDRÉS DORADOR ARÓSTICA para iniciar actividades pesqueras de transformación, instalar y operar planta en Panamericana Norte km. 667, Llano de Marañón, Vallenar, III Región, para elaborar en línea de Alga seca, los recursos hidrobiológicos indicados en resolución extractada.-
+
+Valparaíso, 14 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
