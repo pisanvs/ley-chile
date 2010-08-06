@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.273, de 23 de julio de 2010, de esta Subsecretaría, autorízase a RUTH MARÍA GUTIÉRREZ CATRILEO, para iniciar actividades pesqueras de transformación, instalar y operar planta en pasaje Los Coigües Nº 100, sector Camarón, Lebu, VIII Región, para elaborar en líneas de Cocido, Fresco-enfriado, Congelado, Ahumado y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 23 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
