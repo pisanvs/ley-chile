@@ -34,11 +34,55 @@ Las embarcaciones artesanales deberán contar con certificado de navegabilidad v
 
 La reserva a que se refiere el artículo 2º se fraccionará de la siguiente manera:
 
-a) 10.000 toneladas de Jurel para ser extraídas por las embarcaciones artesanales de una eslora igual o menor a 12 metros.
+a) 2.500 toneladas de Jurel para ser extraídas por las embarcaciones artesanales de una eslora igual o menor a 12 metros.
 
-b) 10.000 toneladas de Jurel para ser extraídas por embarcaciones artesanales de una eslora de más de 12 metros y hasta 18 metros.
+b) 11.610 toneladas de Jurel para ser extraídas por embarcaciones artesanales de una eslora de más de 12 metros y hasta 18 metros.
 
-c) 11.000 toneladas que serán asignadas mediante resolución de la Subsecretaría de Pesca para la finalidad prevista en el presente decreto.
+c) 16.890 toneladas para ser extraídas por embarcaciones artesanales que serán asignadas mediante resolución de la Subsecretaría de Pesca para la finalidad prevista en el presente decreto. No podrán ser asignatarias de esta cuota las embarcaciones artesanales pertenecientes a organizaciones de pescadores artesanales que se encuentren en alguna de las siguientes circunstancias:
+
+i) Que se encuentren sometidas al Régimen Artesanal
+
+de Extracción de pesquerías pelágicas con una
+
+asignación total igual o superior al 0,33% de la
+
+cuota artesanal de sardina común y anchoveta de
+
+la Región del Bío Bío equivalente a 2.020
+
+toneladas, o;
+
+ii) Que se encuentren sometidas al Régimen Artesanal
+
+de Extracción de pesquerías pelágicas y que
+
+hubiesen obtenido una pesca de investigación de
+
+sardina común y anchoveta durante este año, con
+
+una asignación porcentual igual o superior al 2%
+
+de su cuota objetivo de sardina común y anchoveta
+
+de la Región del Bío Bío, o;
+
+iii) Que la organización de pescadores artesanales o
+
+sus armadores asociados hubiesen obtenido alguna
+
+otra pesca de investigación de sardina común y
+
+anchoveta, durante el presente año calendario, o;
+
+iv) Que la organización de pescadores artesanales o
+
+sus armadores asociados hayan recibido una
+
+asignación previa de cuota catástrofe de sardina
+
+común, anchoveta o jurel durante el presente año
+
+calendario.
 
 #### Artículo 5º
 
