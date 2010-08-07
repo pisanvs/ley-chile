@@ -234,6 +234,10 @@ Los informes de las Juntas de Vecinos deberán ser suscritos por el Presidente y
 
 El informe de la Dirección de Obras Municipales que deberá evacuarse en el lapso de cinco días hábiles, se referirá al cumplimiento de las disposiciones legales referentes a permisos y recepción de obras contempladas en la Ordenanza General de Urbanismo y Construcciones, como asimismo, a la zonificación y uso del suelo, de acuerdo a las normas del Plan Regulador, y de esta ordenanza.
 
+#### Artículo 21 bis
+
+Tratándose de las patentes clasificadas como restaurantes de turismo, deberá acompañarse, por parte del solicitante, el informe favorable del Servicio Nacional de Turismo, Región de Tarapacá.
+
 #### Artículo 22º
 
 Si el informe de la Dirección de Obras Municipales fuere negativo, se notificará por esa Dirección al contribuyente para que subsane las observaciones o reparos efectuados. Pero si éstos fueren de aquellos que no admiten solución, se notificará por escrito al interesado en el más breve plazo, comunicándole el rechazo de su petición.
@@ -517,6 +521,12 @@ c. La superficie destinada a bodega no deberá ser inferior al 50% de la superfi
 d. La superficie destinada a estacionamientos corresponderá a un mínimo de treinta (30) vehículos. El estacionamiento deberá estar incluido en el área total del establecimiento.
 
 No se concederá patentes para el funcionamiento de alguno de los establecimientos indicados en este artículo cuando estén ubicados a menos de cien metros de establecimientos de educación, tales como jardines infantiles, colegios, liceos, institutos, universidades, y en general todos aquellos recintos que cuenten con certificación del Ministerio de Educación, de salud o penitenciarios, de recintos militares o policiales, terminales y garitas de movilización colectiva. Exceptúanse los hoteles y restaurantes.
+
+7. Restaurante de Turismo (I.d.).
+
+a. Para la obtención de este tipo de patente se debe cumplir con todos y cada uno de los requisitos establecidos para la obtención de las patentes de restaurantes, cantina y cabaré.
+
+b. El local deberá contar con el informe favorable del Sernatur.
 
 #### Artículo 37º
 
