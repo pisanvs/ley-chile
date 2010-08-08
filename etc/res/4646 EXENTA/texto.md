@@ -1,0 +1,5 @@
+DISPONE EXCLUSIÓN DE LAS NÓMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL A PERSONAS QUE INDICA
+
+Res. exenta Nº 4.646, de fecha 4 de agosto de 2010, dispone la exclusión de las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Primer Llamado Nacional 2010, Títulos I y II, del Sistema de Subsidio Habitacional, de las personas que a continuación se individualizan, por las razones que en dicha resolución se expresan:
+
+Como consecuencia de lo anterior, se deja sin efecto los Certificados de Subsidio Habitacional aludidos, y se disminuye en cuatro (4) el número de postulantes Título I seleccionados para el goce del subsidio habitacional correspondiente al Primer Llamado Nacional 2010, del Sistema de Subsidio Habitacional, disminuyéndose en 700 Unidades de Fomento (UF), el monto de recursos destinados a la atención de los postulantes seleccionados en ese llamado.
