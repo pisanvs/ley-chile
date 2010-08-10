@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.225, de 19 de julio de 2010, de esta Subsecretaría, autorízase a IVÁN ENRIQUE VELÁSQUEZ VILLARROEL para iniciar actividades pesqueras de transformación, instalar y operar planta en calle Los Baños Nº 484, Chañaral, III Región, para elaborar en líneas de cocido, congelado y conservas, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
