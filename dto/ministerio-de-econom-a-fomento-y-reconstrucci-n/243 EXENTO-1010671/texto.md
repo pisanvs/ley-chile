@@ -44,7 +44,7 @@ Las descripciones de las obras de ampliación son las que a continuación se ind
 
 1.1.1 Descripción general y ubicación de la obra
 
-Esta obra resulta necesaria para la conexión de la nueva línea Ancoa-Alto Jahuel 2x500 kV: Primer circuito, actualmente adjudicada para su construcción y explotación, y consiste en la extensión de la barra y la malla de puesta a tierra de la S/E Alto Jahuel, para preparar la conexión de 2 nuevos paños de línea en 500 kV, incluyendo el espacio suficiente para la instalación de un interruptor seccionador de barra.
+Esta obra resulta necesaria para la conexión de la nueva línea Ancoa-Alto Jahuel 2x500 kV: Primer circuito, actualmente adjudicada para su construcción y explotación, y consiste en la extensión de la barra y la malla de puesta a tierra de la S/E Alto Jahuel, para preparar la conexión de 2 nuevos paños de línea en 500 kV, incluyendo el espacio suficiente para la instalación de dos paños seccionadores de barra.
 
 1.1.2 Equipos de alta tensión
 
@@ -64,7 +64,7 @@ El COMA referencial se establece en 175,1 mil dólares (3% del V.I. referencial)
 
 1.2.1 Descripción general y ubicación de la obra
 
-Esta obra resulta necesaria para la conexión de la nueva línea Ancoa-Alto Jahuel 2x500 kV: Primer circuito, actualmente adjudicada para su construcción y explotación, y consiste en la extensión de la barra y la malla de puesta a tierra de la S/E Ancoa, para preparar la conexión de 4 nuevos paños en 500 kV, e incluye espacio suficiente para la instalación de un interruptor seccionador de barra.
+Esta obra resulta necesaria para la conexión de la nueva línea Ancoa-Alto Jahuel 2x500 kV: Primer circuito, actualmente adjudicada para su construcción y explotación, y consiste en la extensión de la barra y la malla de puesta a tierra de la S/E Ancoa, para preparar la conexión de 4 nuevos paños en 500 kV, incluyendo espacio suficiente para la instalación de dos paños seccionadores de barra.
 
 1.2.2 Equipos de alta tensión
 
@@ -100,7 +100,7 @@ El COMA referencial se establece en 36,0 mil dólares (3% del V.I. referencial),
 
 1.4.1 Descripción general y ubicación de la obra
 
-Este proyecto consiste en el reemplazo de los interruptores de los Paños J9 y JCE1, en la subestación Charrúa, correspondientes a la línea Charrúa-Temuco 220 kV y al condensador estático de 65 MVAr, respectivamente, por equipos de una corriente de cortocircuito mínima de 50 kA.
+Este proyecto consiste en el reemplazo de los interruptores de los Paños J9 y JCE1, en la subestación Charrúa, correspondientes a la línea Charrúa-Temuco 220 kV y al condensador estático de 65 MVAr, respectivamente, por equipos de una corriente de cortocircuito mínima de 50 kA, incluyendo el cambio de desconectadores de la línea, de puesta a tierra y de conexión a la barra de transferencia.
 
 1.4.2 Equipos de alta tensión
 
@@ -116,7 +116,7 @@ El V.I. referencial del Proyecto es de 2,3 millones de dólares, moneda de los E
 
 El COMA referencial se establece en 69,5 mil dólares (3% del V.I. referencial), moneda de los Estados Unidos de América.
 
-1.5 CAMBIO INTERRUPTOR S/E ANCOA 220 KV
+1.5 CAMBIO INTERRUPTOR S/E ANCOA 500 KV.
 
 1.5.1 Descripción general y ubicación de la obra
 
@@ -140,7 +140,7 @@ El COMA referencial se establece en 52,1 mil dólares (3% del V.I. referencial),
 
 1.6.1 Descripción general y ubicación de la obra
 
-El proyecto consiste en instalar en la S/E Charrúa un nuevo banco de 4 autotransformadores monofásicos camuz 20100203002 kV de 750 MVA totales, junto con los respectivos paños de transformación en 500 kV y 220 kV.
+El proyecto consiste en instalar en la S/E Charrúa un nuevo banco de 4 autotransformadores monofásicos camuz 20100203002 kV de 750 MVA totales, junto con los respectivos paños de transformación en 500 kV y 220 kV. Se debe considerar el espacio necesario para dos paños seccionadores de barra en 500 kV.
 
 1.6.2 Equipos de alta tensión
 
@@ -174,7 +174,7 @@ DOLk : Promedio del Precio Dólar Observado, en el segundo mes anterior al mes k
 
 CPIk : Valor del índice Consumer Price Index (All Urban Consumers), en el segundo mes anterior al mes k, publicado por el Bureau of Labor Statistics (BLS) del Gobierno de los Estados Unidos de América (Código BLS: CUUR0000SA0).
 
-Tak : Tasa de Derechos Arancelarios, aplicables a la importación de bienes de capital, vigente en el último día del segundo mes anterior al mes k.
+Tak : ELIMINADO.
 
 Los valores base para los índices antes definidos, corresponden a los que a continuación se indican:
 
