@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.217, de 19 de julio de 2010, de esta Subsecretaría, autorízase a la FEDERACIÓN PROVINCIAL DE PESCADORES ARTESANALES, BUZOS MARISCADORES, ALGUEROS Y ACTIVIDADES SIMILARES DEL SUR para iniciar actividades pesqueras de transformación, instalar y operar planta en Ruta T-350, Terminal Pesquero de Niebla, XIV Región, para elaborar en las líneas de Cocido, Fresco-Enfriado, Congelado, Salado Húmedo, Ahumado, Conservas, Alga Seca y Deshidratado, los recursos hidrobiológicos indicados en resolución extractada.
+
+Valparaíso, 19 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
