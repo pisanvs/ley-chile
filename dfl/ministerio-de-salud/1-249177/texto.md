@@ -2928,13 +2928,13 @@ La Superintendencia fijará, mediante instrucciones de general aplicación, la e
 
 Cada rango de edad que fije la Superintendencia en las instrucciones señaladas en el inciso precedente se sujetará a las siguientes reglas:
 
-1.- El primer tramo comenzará desde el nacimiento y se extenderá hasta menos de dos años de edad;
+1.- DEROGADO;
 
-2.- Los siguientes tramos, desde los dos años de edad y hasta menos de ochenta años de edad, comprenderán un mínimo de tres años y un máximo de cinco años;
+2.- DEROGADO;
 
-3.- La Superintendencia fijará, desde los ochenta años de edad, el o los tramos que correspondan;
+3.- DEROGADO;
 
-4.- La Superintendencia deberá fijar, cada diez años, la relación máxima entre el factor más bajo y el más alto de cada tabla, diferenciada por sexo, y
+4.- DEROGADO, y
 
 5.- En cada tramo, el factor que corresponda a una carga no podrá ser superior al factor que corresponda a un cotizante del mismo sexo.
 
@@ -2945,6 +2945,8 @@ Cada plan de salud sólo podrá tener incorporada una tabla de factores. Las Ins
 Sin perjuicio de lo dispuesto en el inciso precedente, las Instituciones de Salud Previsional podrán establecer nuevas tablas cada cinco años, contados desde las últimas informadas a la Superintendencia, manteniéndose vigentes las anteriores en los planes de salud que las hayan incorporado.
 
 Las Instituciones de Salud Previsional estarán obligadas a aplicar, desde el mes en que se cumpla la anualidad y de conformidad con la respectiva tabla, el aumento o la reducción de factor que corresponda a un beneficiario en razón de su edad, y a informar al cotizante respectivo mediante carta ertificada expedida en la misma oportunidad a que se refiere el inciso tercero del artículo 197.
+
+> **Nota.** La Sentencia S/N° del Tribunal Constitucional, publicada el 09.08.2010, declaró inconstitucional los numerales 1, 2, 3 y 4 del inciso tercero del presente artículo, entiendiendose derogados a partir de su publicación de la citada Sentencia. La citada derogación se ha incorporado al presente texto actualizado.
 
 #### Artículo 200
 
