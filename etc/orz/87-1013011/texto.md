@@ -140,11 +140,7 @@ No se permitirá ningún tipo de publicidad en las sillas.
 
 #### Artículo 14º
 
-De los quitasoles: Éstos serán de estructura de acero inoxidable, aluminio fundido o madera. La sombrilla será de forma cuadrada y el costado de la sombrilla será de máximo 2,00 m, y tendrá una altura máxima de 2,50 m, siendo de 1,80 m la altura mínima desde el faldón al pavimento. La tela será tipo lona gruesa engomada de un solo color crudo, sin rayas, ni dibujos. El faldón podrá tener un alto máximo de 20 cms. No se permite ningún tipo de publicidad.
-
-El sistema de soporte será una base por quitasol, cuya materialidad y estructura, deberá asegurar estabilidad permanentemente.
-
-Las mesas, sillas y quitasoles a instalar en el espacio autorizado deberán ser idénticas por cada local y resistentes a la intemperie. Se aceptará un solo modelo de mesas, sillas y quitasoles por local.
+de Los Quitasoles: Estos serán de estructura de acero inoxidable, aluminio fundido o madera. La sombrilla será de forma cuadrada de la dimensión única que acomode a cada local, y tendrá una altura máxima de 2.50 m, siendo de 1.80 m la altura mínima desde el faldón al pavimento. La tela será tipo lona gruesa engomada de color crudo, sin rayas ni dibujos. El faldón podrá tener un alto máximo de 20 cms. No se permite ningún tipo de publicidad. El sistema de soporte será una base por quitasol, cuya materialidad y estructura deberá asegurar estabilidad permanente. Las mesas, sillas y quitasoles a instalar en el espacio autorizado deberán ser idénticas por cada local y resistentes a la intemperie. Se aceptará sólo un modelo de mesas, de sillas y de quitasoles por local y ninguno de ellos podrá sobrepasar, ni en horizontal ni en vertical, el área 4 definida en el artículo 3 de presente ordenanza.
 
 #### Artículo 15º
 
