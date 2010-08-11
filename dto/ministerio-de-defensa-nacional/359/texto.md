@@ -186,14 +186,6 @@ Carta Shoa N° 919. Esc. 1:10.000. 1a. Ed. 1971
 
 > **Nota.** El N° 1 del Decreto 201, Defensa, publicado el 10.08.2010, modifica las áreas apropiadas para la acuicultura fijadas en el presente decreto, en la forma que en la citada norma se indica.
 
-> **Nota.** NOTA 1 El Numeral I del Decreto 2348 exento, Defensa, publicado el 26.08.2011, dispuso el reemplazo de la cartografía de referencia y datum de la presente norma y del DTO 350, Defensa, de 1996, que fijaron las Áreas Apropiadas para el ejercicio de la Acuicultura en la XI Región de Aysén del General Carlos Ibáñez del Campo. Además, modificó el texto de los decretos 27 de 2004, 252 de 2009 y 201 de 2010, Defensa, modificatorios de la presente norma, cuyo texto por restricciones técnicas no ha sido ingresado, por lo que no se ha podido generar su versión actualizada.
-
-> **Nota.** NOTA 2 El Numeral I del Decreto 3315 exento, Defensa, publicado el 10.02.2016, dispuso el reemplazo de la cartografía de referencia y datum de la presente norma y del DTO 350, Defensa, de 1996, que fijaron las Áreas Apropiadas para el ejercicio de la Acuicultura en la XI Región de Aysén del General Carlos Ibáñez del Campo, en la forma que en la citada norma se indica.
-
-> **Nota.** NOTA 3 El numeral II del Decreto 604 Exento, Defensa, publicado el 10.10.2018, introdujo diversas modificaciones en la presente norma. Por cuanto respecto de algunas de ellas no fue posible la elaboración un nuevo texto a partir del vigente, no se ha podido incorporar dichas modificaciones en esta actualización.
-
-> **Nota.** NOTA 4 El Decreto 146 Exento, Defensa, publicado el 31.07.2025, modifica la presente norma en el sentido de desafectar los sectores de Áreas Apropiadas para el ejercicio de la Acuicultura (A.A.A.) que indica, ubicados dentro de los límites de los Parques Nacionales Laguna San Rafael, Bernado O´Higgins, Isla Magdalena y Melimoyu, en la Región de Aysén del General Carlos Ibáñez del Campo.
-
 Anótese, tómese razón, comuníquese y regístrese en Ministerio de Bienes Nacionales y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Carlos Figueroa Serrano, Ministro de Defensa Nacional, Subrogante.
 
 Lo que se transcribe para su conocimiento.- Pedro Veas Diabuno, Subsecretario de Marina, Subrogante.
