@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para la adquisición de viviendas construidas, en las Regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
 
-2. Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional del SERVIU, adjuntando en los casos que corresponda los antecedentes respectivos. El período de postulación se realizará durante los 15 días anteriores al proceso de selección, que se realizará el último día hábil de cada mes, a partir del mes de mayo y hasta al mes de diciembre del año 2010.
+2. Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional del SERVIU, adjuntando en los casos que corresponda los antecedentes respectivos. El período de postulación se realizará durante los 15 días anteriores al proceso de selección, que se realizará el último día hábil de cada mes, a partir del mes de mayo y hasta al mes de noviembre del año 2010.
 
 3. La selección de beneficiarios se realizará conforme al orden de prelación que determine el puntaje obtenido por cada postulante de acuerdo a lo establecido en el artículo 61 del D.S. N° 174 (V. y U.), de 2005, hasta enterar el total de los recursos disponibles para este llamado especial para cada región participante, según se establece en el punto 5 de la presente resolución.
 
@@ -186,131 +186,25 @@ emplazadas en áreas urbanas o áreas de extensión
 
 urbana.
 
-En caso que se otorgue subsidio diferenciado a
-
-la localización, no será aplicable la exigencia
-
-contenida en el artículo 70 del D.S. Nº 174
-
-(V. y U.), de 2005, de aumentar a 15 años el
-
-plazo a que estará afecta la vivienda a
-
-prohibición de enajenar.
-
-i. Sólo se aceptará una postulación a este llamado
-
-en condiciones especiales por grupo familiar
-
-acreditado en la Ficha de Protección Social, a
-
-excepción que el número de integrantes sea igual o
-
-mayor a 7, en cuyo caso se podrá identificar un
-
-núcleo secundario dentro de los integrantes totales
-
-de dicha Ficha el que podrá postular en forma
-
-independiente.
-
-No se encontrarán impedidos de postular al presente
-
-llamado especial, los postulantes damnificados que
-
-tengan la calidad de familia unipersonal, siempre
-
-que acrediten ser propietarios de la vivienda
-
-certificada como inhabitable que habitaban.
-
-j. Los postulantes deberán al momento de la
-
-postulación identificar la región del país
-
-en la cual posteriormente aplicarán
-
-su subsidio, la que podrá ser distinta
-
-de la región donde resultaron
-
-damnificados o en la cual están postulando.
-
-k. El subsidio que se otorgue a las familias
-
-seleccionadas del presente llamado, será
-
-destinado a financiar la adquisición de
-
-una vivienda nueva, existente, o que forme
-
-parte de un proyecto calificado por el
-
-Serviu respectivo, y que cuente con viviendas
-
-disponibles para efectuar operaciones de
-
-compraventa, según la Resolución Exenta
-
-2.186 (V. y U.), de 2010, o a aquella que
-
-forme parte de un proyecto de construcción
-
-correspondiente a los futuros llamados del
-
-Fondo Solidario de Vivienda, capítulo primero,
-
-que este Ministerio disponga para atender a
-
-familias damnificadas de la catástrofe
-
-ocurrida el 27 de febrero del año 2010. En
-
-este último caso, el proyecto de
-
-construcción puede estar en preparación sin
-
-ser calificado aún, pudiendo el beneficiario
-
-inscribirse para integrar dicho proyecto sin
-
-necesidad que sea evaluada su factibilidad y
-
-condición, o puede tratarse de un proyecto de
-
-construcción calificado, según se establece
-
-en el número 5, de la mencionada resolución,
-
-pudiendo en ese caso el postulante inscribirse
-
-para integrar dicho proyecto, sólo si éste
-
-cuenta con viviendas disponibles.
-
-En los casos que el beneficiario se adscriba a
-
-un proyecto de construcción, los montos del
-
-subsidio se ajustarán a los montos establecidos
-
-para esta modalidad y corresponderán a los
-
-montos postulados por dicho proyecto para cada
-
-una de las familias postulantes.
-
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta Resolución, serán los siguientes:
+
+Región Recursos (UF)
+
+Valparaíso 215.903
+
+L.B. O'Higgins 581.502
+
+Maule 1.083.529
+
+Bío Bío 1.048.841
+
+Araucanía 63.209
+
+Metropolitana 331.859
 
 El número de postulantes seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior.
 
 6. Mediante Resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
-
-7. Las operaciones de Adquisición de Vivienda Construida, cuya vivienda cuente con una superficie edificada de a lo menos 42 metros cuadrados, podrán optar a un Subsidio Diferenciado a la Localización de 200 Unidades de Fomento, no siendo necesario la aplicación de lo dispuesto en el inciso segundo, del artículo 65 bis, del decreto supremo Nº 174 (V. y U.), de 2005.
-
-8. Si la aplicación del subsidio se realiza para la adquisición de una vivienda nueva, de acuerdo a la definición que el DS Nº 174 (V. y U.), de 2005, hace de ella, esta operación podrá presentar el mismo programa arquitectónico exigido en la adquisición de una vivienda existente, previa autorización del SERVIU respectivo.
-
-9. En el caso que familias con beneficio otorgado renuncien al mismo, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la adquisición de vivienda construida, del Programa Fondo Solidario de Vivienda.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
