@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.041, de 6 de julio de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 3.477, de 2009, modificada mediante resoluciones exentas Nº 4.141, de 2009 y Nº 1.812, de 2010, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Prospección para la pesquería de reineta (Brama australis), en aguas exteriores de la X Región", en el sentido de reemplazar la letra b) del inciso 1º del numeral 4º, por la siguiente: "b) Tener puerto base en la VIII Región.".
+
+Valparaíso, 6 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
