@@ -186,6 +186,20 @@ emplazadas en áreas urbanas o áreas de extensión
 
 urbana.
 
+i. No se encontrarán impedidos de postular
+
+al presente llamado especial, los
+
+postulantes damnificados que tengan la
+
+calidad de familia unipersonal, siempre
+
+que acrediten ser propietarios de la
+
+vivienda certificada como inhabitable
+
+que habitaban.
+
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
 Región Recursos (UF)
