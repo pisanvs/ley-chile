@@ -78,6 +78,32 @@ cónyuge; ni las personas o sus cónyuges cuyo
 
 certificado de subsidio esté vigente.
 
+Sin embargo podrán postular las personas
+
+que sean propietarias de un terreno en el
+
+que se pueda construir una vivienda o
+
+cuando lo fuera su cónyuge, optando sólo a
+
+proyectos a desarrollarse en dicho sitio,
+
+mediante la tipología de construcción en
+
+sitio propio, con excepción de las
+
+personas cuyo terreno o el de su cónyuge
+
+haya quedado inhabilitado para la
+
+construcción de una vivienda, a
+
+consecuencia de la catástrofe señalada en
+
+el considerando a), condición que será
+
+acreditada por el SERVIU respectivo.
+
 c. En el presente concurso en condiciones especiales
 
 sólo podrán postular proyectos las Entidades de
@@ -225,6 +251,36 @@ damnificado deberán acreditar Puntaje de
 Carencia Habitacional igual o inferior a 8.500
 
 puntos.
+
+Sólo se aceptará una postulación a este
+
+llamado en condiciones especiales por
+
+grupo familiar acreditado en la Ficha de
+
+Protección Social, a excepción que el
+
+número de integrantes del grupo sea igual
+
+o mayor a 7, en cuyo caso se podrá identificar un
+
+núcleo secundario dentro del total de los
+
+integrantes de dicha Ficha, el que podrá postular
+
+en forma independiente.
+
+No se encontrarán impedidos de postular al
+
+presente llamado especial, los postulantes
+
+damnificados que tengan la calidad de familia
+
+unipersonal, siempre que acrediten ser
+
+propietarios de la vivienda que habitaban,
+
+certificada como inhabitable.
 
 j. Los postulantes al presente llamado especial que
 
@@ -428,9 +484,15 @@ Demolición y remoción de escombros. 25
 
 Saneamiento sanitario, de acuerdo a lo
 
-señalado en el Titulo II del Capitulo tercero
+señalado en el Título II del Capítulo
 
-del D.S. N° 174 (V. y U.), de 2005. 40
+Tercero del D.S. N° 174 (V. y U.), de 40
+
+2005 y/o conexiones a servicios básicos
+
+de agua potable, alcantarillado y
+
+electricidad.
 
 Habilitación de terreno de acuerdo al tipo
 
@@ -490,7 +552,43 @@ intervención vigentes, de acuerdo a la Ley N°
 
 General de Urbanismo y Construcciones y su
 
-Ordenanza.
+Ordenanza. En aquellas localidades en que no
+
+exista una declaración de Zona de
+
+Conservación Histórica o Zona Típica
+
+o Pintoresca, o tratándose de
+
+inmuebles que no se encuentren
+
+declarados de Conservación
+
+Histórica o Monumento Histórico, y
+
+se reconozca un valor patrimonial
+
+arquitectónico que preservar, podrá
+
+autorizarse la aplicación del subsidio
+
+señalado mediante resoluciones fundadas
+
+de la SEREMI de Vivienda y Urbanismo,
+
+en las que deberá establecerse el
+
+perímetro del área o la identificación
+
+del inmueble en cuestión, y los
+
+elementos de diseño y/o de emplazamiento
+
+que otorgan dicho carácter patrimonial,
+
+y que deberán respetarse en los proyectos
+
+a presentar.
 
 r. Extraordinariamente cuando se trate de proyectos
 

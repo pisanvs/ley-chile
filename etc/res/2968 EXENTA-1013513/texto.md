@@ -176,11 +176,21 @@ postular (UF)
 
 Demolición y remoción de escombros. 25
 
-Saneamiento sanitario, de acuerdo a lo 40
+Saneamiento sanitario, de acuerdo
 
-señalado en el Título II del Capitulo
+a lo señalado en el Título II
 
-tercero del D.S. N° 174 (V. y U.), de 2005.
+del Capítulo Tercero del D.S.
+
+N° 174 (V. y U.), de 2005 40
+
+y/o conexiones a servicios
+
+básicos de agua potable,
+
+alcantarillado y
+
+electricidad.
 
 Habilitación de terreno de acuerdo al tipo 30
 
@@ -214,15 +224,15 @@ total de los recintos interiores de la vivienda
 
 alcance al menos 50 m2.
 
-h) Los proyectos de vivienda tipo que se emplacen en
+h) Los proyectos de vivienda tipo que se emplacen
 
-áreas declaradas como Zonas de Conservación
+en áreas declaradas como Zonas de Conservación
 
 Histórica o Zonas Típicas o Pintorescas, o se
 
-trate de Inmuebles de Conservación Histórica o
+trate de Inmuebles de Conservación Histórica
 
-Monumento Histórico, podrán obtener hasta 200
+o Monumento Histórico, podrán obtener hasta 200
 
 Unidades de Fomento adicionales siempre que
 
@@ -234,13 +244,41 @@ cumplimiento a lo establecido en las respectivas
 
 normas, ordenanzas y/o instructivos de
 
-intervención vigentes, de acuerdo a la Ley N°
+intervención vigentes, de acuerdo a la Ley
 
-17.288 Sobre Monumentos Nacionales y la Ley
+N° 17.288 Sobre Monumentos Nacionales y la Ley
 
 General de Urbanismo y Construcciones y su
 
-Ordenanza.
+Ordenanza. En aquellas localidades en que no
+
+exista una declaración de Zona de Conservación
+
+Histórica o Zona Típica o Pintoresca, o
+
+tratándose de inmuebles que no se encuentren
+
+declarados de Conservación Histórica o Monumento
+
+Histórico, y se reconozca un valor patrimonial
+
+arquitectónico que preservar, podrá autorizarse
+
+la aplicación del subsidio señalado mediante
+
+resoluciones fundadas de la SEREMI de Vivienda y
+
+Urbanismo, en las que deberá establecerse el
+
+perímetro del área o la identificación del
+
+inmueble en cuestión, y los elementos de diseño
+
+y/o de emplazamiento que otorgan dicho carácter
+
+patrimonial, y que deberán respetarse en los
+
+proyectos a presentar.
 
 i) Los postulantes al Capitulo Primero del D.S. N°
 
@@ -367,6 +405,44 @@ obtenido subsidio a la localización, contados
 desde la fecha de su inscripción en el
 
 Conservador de Bienes Raíces.
+
+m. Para postular al Capítulo Primero del
+
+D.S. N° 174 (V. y U.), de 2005, del
+
+presente llamado especial, sólo se
+
+aceptará una postulación por grupo
+
+familiar acreditado en la Ficha de
+
+Protección Social, a excepción que el
+
+número de integrantes sea igual o mayor
+
+a 7, en cuyo caso se podrá identificar
+
+un núcleo secundario dentro de los
+
+integrantes totales de dicha Ficha el
+
+que podrá postular en forma
+
+independiente.
+
+n. No se encontrarán impedidos de postular
+
+al presente llamado especial, los
+
+postulantes damnificados que tengan la
+
+calidad de familia unipersonal, siempre
+
+que acrediten ser propietarios de la
+
+vivienda certificada como inhabitable
+
+que habitaban.
 
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 

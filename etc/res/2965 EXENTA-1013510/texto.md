@@ -34,6 +34,8 @@ a. Podrán participar en el presente llamado los damnificados como consecuencia 
 
 b. No podrán postular a este llamado las personas que aún cuando tengan la calidad de damnificados, sean propietarios de otro inmueble de carácter habitacional o cuando lo fuere su cónyuge; ni las personas o sus cónyuges cuyo certificado de subsidio esté vigente.
 
+Sin embargo podrán postular las personas que sean propietarias de un terreno en el que se pueda construir una vivienda o cuando lo fuera su cónyuge, optando sólo a proyectos a desarrollarse en dicho sitio, mediante la tipología de construcción en sitio propio, con excepción de las personas cuyo terreno o el de su cónyuge haya quedado inhabilitado para la construcción de una vivienda a consecuencia de los efectos de la catástrofe señalada en el considerando a) de esta resolución, condición que será acreditada por el SERVIU respectivo.
+
 c. En el presente concurso en condiciones especiales sólo podrán postular proyectos, las Entidades de Gestión Inmobiliaria Social (EGIS) y los Prestadores de Servicios de Asistencia Técnica y Social (PSAT), con convenio marco regional vigente y que, además, hayan presentado proyectos de construcción del D.S. N° 174 (V. y U.), de 2005 o del D.S. N° 145 (V. y U.), de 2007, según corresponda, y obtenido certificado de calificación por parte de la Comisión Técnico Evaluadora del SERVIU respectivo, en cualquier región del país, desde la fecha en que comenzó a regir dicho convenio. También podrán participar en el presente llamado los Prestadores de Servicios de Asistencia Técnica y Social (PSAT), con convenio marco regional vigente y que, además, hubieren tenido proyectos calificados como hábiles para el Título III del D.S. N° 255 (V. y U.), de 2006, en cualquier región del país, desde la fecha en que comenzó a regir dicho convenio. Asimismo podrán participar en este llamado las Entidades de Gestión Inmobiliaria Social (EGIS) con convenio marco regional vigente en la región en que desarrollarán proyectos, aún cuando desde su vigencia no hayan presentado proyectos de construcción del D.S. N° 174 (V. y U.), de 2005 ni del D.S. N° 145 (V. y U.), de 2007, siempre que hubieren tenido proyectos seleccionados con obras terminadas y recepcionadas a partir del año 2005 para 300 o más familias, al amparo del convenio marco nacional suscrito con el MINVU.
 
 d. A las municipalidades que participen como Entidad de Gestión Inmobiliaria Social en el presente concurso no les será exigible el requisito señalado en la letra precedente, de haber presentado proyectos de construcción, siendo suficiente que tengan convenio marco vigente.
@@ -47,6 +49,8 @@ g. Los postulantes al presente concurso, que formen parte del grupo organizado q
 h. Los postulantes al presente llamado especial que tengan la calidad de damnificados, estarán exentos del cumplimiento del requisito de acreditar ahorro, exigido en el artículo 79 del D.S. N° 174 (V. y U.), de 2005.
 
 i. Los postulantes participantes de este llamado especial, que tengan la calidad de damnificados, deberán presentar Ficha de Protección Social. Sin embargo el Puntaje de Carencia Habitacional del grupo organizado o del postulante individual podrá superar el puntaje de ingreso establecido mediante resolución exenta N° 7.080 (V. y U.), de 2008. Los postulantes que formen parte de grupos organizados y no tengan la calidad de damnificados deberán acreditar Puntaje de Carencia Habitacional igual o inferior a 11.734 puntos.
+
+No se encontrarán impedidos de postular al presente llamado especial, los postulantes damnificados que tengan la calidad de familia unipersonal, siempre que acrediten ser propietarios de la vivienda que habitaban, certificada como inhabitable.
 
 j. Los postulantes al presente llamado especial que tengan la calidad de damnificados no estarán afectos al impedimento señalado en el artículo 6°, número 3, del D.S. N° 174 (V. y U.), de 2005, relativo a haber obtenido algún beneficio anterior del SERVIU, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional.
 
@@ -90,7 +94,17 @@ postular (UF)
 
 Demolición y remoción de escombros. 25
 
-Saneamiento sanitario 40
+Saneamiento sanitario, de acuerdo
+
+a lo señalado en el Título II del
+
+Capítulo Tercero del D.S. N° 174
+
+(V. y U.), de 2005 y/o conexiones 40
+
+a servicios básicos de agua potable,
+
+alcantarillado y electricidad.
 
 Habilitación de terreno de acuerdo al tipo 30
 
@@ -100,7 +114,7 @@ del D.S. N° 174 (V. y U.), de 2005.
 
 En el caso que se obtengan los recursos para habilitación en el área rural o en áreas urbanas de localidades de hasta 2.000 habitantes, según el último censo de población de que se disponga con anterioridad a la fecha de este llamado, no se podrá disponer de las 70 Unidades de Fomento para saneamiento sanitario, según lo establecido en el Título II del Capítulo Tercero del D.S. N°174 (V. y U.), de 2005, y tratándose de construcciones colectivas, no se otorgará el subsidio adicional de 20 Unidades de Fomento a que se refiere la oración final del inciso cuarto del artículo 3° del citado reglamento.
 
-q. Los proyectos de viviendas que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, podrán obtener hasta 200 Unidades de Fomento adicionales siempre que contribuyan a la recuperación del patrimonio arquitectónico y urbano del entorno, dando cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la ley N° 17.288 Sobre Monumentos Nacionales y la Ley General de Urbanismo y Construcciones y su Ordenanza.
+q. Los proyectos de viviendas que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, podrán obtener hasta 200 Unidades de Fomento adicionales siempre que contribuyan a la recuperación del patrimonio arquitectónico y urbano del entorno, dando cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley N° 17.288 Sobre Monumentos Nacionales y la Ley General de Urbanismo y Construcciones y su Ordenanza. En aquellas localidades en que no exista una declaración de Zona de Conservación Histórica o Zona Típica o Pintoresca, o tratándose de inmuebles que no se encuentren declarados de Conservación Histórica o Monumento Histórico, y se reconozca un valor patrimonial arquitectónico que preservar, podrá autorizarse la aplicación del subsidio señalado mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, en las que deberá establecerse el perímetro del área o la identificación del inmueble en cuestión, y los elementos de diseño y/o de emplazamiento que otorgan dicho carácter patrimonial, y que deberán respetarse en los proyectos a presentar.
 
 r. Extraordinariamente cuando se trate de proyectos emplazados en áreas rurales o en áreas urbanas de localidades de hasta 2.000 habitantes según el último censo de población, los honorarios que corresponda percibir a las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución N° 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidades de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras.
 
