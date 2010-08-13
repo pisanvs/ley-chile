@@ -1,0 +1,5 @@
+ESTABLECE ESPECIFICACIONES Y FORMALIDADES DE LOS CERTIFICADOS QUE DEBE EMITIR EL MINISTERIO DE HACIENDA, LA INFORMACIÓN QUE SE DEBE REMITIR A ESTE SERVICIO Y LA FORMA EN QUE DEBE REGISTRARSE Y DOCUMENTARSE LA ENTREGA DE LAS ESPECIES DONADAS, DE ACUERDO A LA LEY Nº 20.444
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº130, del 9 de agosto de 2010, que establece especificaciones y formalidades de los certificados que debe emitir el Ministerio de Hacienda, por las donaciones efectuadas al Fondo Nacional de la Reconstrucción, estableciendo además, la información que debe ser remitida por el Ministerio al Servicio de Impuestos Internos y la forma en que se debe registrar y documentar la entrega de las especies donadas, de conformidad a la ley Nº 20.444, de 2010.
+
+El texto íntegro de esta resolución está publicado en el Sitio Web del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2010.
