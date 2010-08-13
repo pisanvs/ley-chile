@@ -14,7 +14,7 @@ Autorízase la circulación del vehículo asignado a esa Gobernación que indivi
 
 #### Artículo segundo
 
-Autorízase a que el vehículo indicado pueda guardarse excepcionalmente en el domicilio del señor Gobernador, ubicado en calle Valenzuela Llanos Nº 8728, comuna de La Reina.
+Derogado.
 
 #### Artículo tercero
 
