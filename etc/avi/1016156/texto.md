@@ -1,0 +1,3 @@
+FIJA DÍA Y HORA PARA VISITAR TERRENOS DE SERVIDUMBRES ELÉCTRICAS DERIVADAS DE CONCESIÓN TRANSELEC S.A.
+
+Comisión Hombres Buenos nombrada por Res. Exta. Nº 359, 27 julio 2010, M. de Energía fija día y hora para visitar terrenos de servidumbres eléctricas derivadas de Concesión Transelec S.A. otorgada por DS de Energía 105, 10 mayo 2010, Línea 1 x 220 kV Pan de Azúcar - Andacollo, que afecta a los siguientes predios y personas.
