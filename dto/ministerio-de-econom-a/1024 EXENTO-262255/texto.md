@@ -20,20 +20,6 @@ Decreto:
 
 Establécese el área de manejo y explotación de recursos bentónicos denominada Caramucho sector C, en la I Región, en un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 2030-7000; 2ª ED. 1987; ESC. 1: 50.000
-
-Puntos Latitud Longitud
-
-A 20° 38' 28.21" 070° 11' 07.84"
-
-B 20° 38' 28.80" 070° 11' 06.66"
-
-C 20° 38' 53.64" 070° 11' 27.22"
-
-D 20° 39' 42.34" 070° 11' 31.04"
-
-E 20° 39' 42.34" 070° 11' 10.09"
-
 #### Artículo 2º
 
 Podrán optar a esta área de manejo y explotación de recursos bentónicos las organizaciones de pescadores artesanales legalmente constituidas, de conformidad con lo establecido en los Títulos III y IV del D.S. Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
