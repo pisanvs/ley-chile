@@ -26,7 +26,7 @@ Sección 1ª Núm. 3/2571.- Vitacura, 6 de agosto de 2010.- Vistos y Considerand
 
 12. Que mediante el Informe Explicativo elaborado por la Unidad de Asesoría Urbana de la Municipalidad de Vitacura, se informa respecto del contexto normativo de la Modificación del Art. 59° de la Ley General de Urbanismo y Construcciones y de la fecha en la que fue aprobado y publicado en el Diario Oficial el Instrumento de Planificación que definió las declaratorias de utilidad pública.
 
-13. Que la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, a través del OF. ORD. N° ...... de fecha .... de agosto de 2010 emite Informe Técnico Favorable al Decreto Alcaldicio que asigna nuevas normas urbanísticas aplicables a las áreas cuya afectación caducó, asimilándolas a la zona predominante de las adyacentes al terreno.
+13. Que la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo, a través del OF. ORD. N° 3430 de fecha 06 de agosto de 2010 emite Informe Técnico Favorable al Decreto Alcaldicio que asigna nuevas normas urbanísticas aplicables a las áreas cuya afectación caducó, asimilándolas a la zona predominante de las adyacentes al terreno.
 
 14. Y, en uso de las facultades que me confieren los artículos 56º, 63º y 65 de la Ley Nº 18.695 Orgánica Constitucional de Municipalidades y sus modificaciones,
 
