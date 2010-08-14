@@ -18,61 +18,11 @@ Establécense las siguientes áreas de manejo y explotación de recursos bentón
 
 a) En el sector denominado Huequi sector A, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4200-7230; 1° ED. 1972; ESCALA 1:50.000
-
-PUNTOS LATITUD LONGITUD
-
-A 42 ° 14' 09.72" 72° 44' 41.44"
-
-B 42 ° 14' 09.72" 72° 45' 08.75"
-
-C 42 ° 13' 42.54" 72° 45' 08.75"
-
-D 42 ° 13' 42.54" 72° 44' 38.79"
-
 b) En el sector denominado Huequi sector B, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
-
-CARTA IGM 4200-7230; 1° ED.1972; ESCALA 1:50.000 e IGM 4215-7245; 1° ED.1971; ESC. 1:50.000
-
-PUNTOS LATITUD LONGITUD
-
-A 42 ° 15' 10.76" 72° 46' 42.78"
-
-B 42 ° 15' 00.00" 72° 47' 03.27"
-
-C 42 ° 14' 11.54" 72° 46' 15.70"
-
-D 42 ° 14' 21.26" 72° 46' 02.42"
 
 c) En el sector denominado Huequi sector C, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 4215-7245; 1° ED. 1971; ESCALA 1:50.000
-
-PUNTOS LATITUD LONGITUD
-
-A 42 ° 16' 38.44" 72° 48' 12.06"
-
-B 42 ° 16' 27.56" 72° 48' 33.06"
-
-C 42 ° 15' 18.00" 72° 47' 24.30"
-
-D 42 ° 15' 27.60" 72° 47' 04.48"
-
 d) En el sector denominado Punta Chulao, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
-
-CARTA IGM 4215-7245; 1° ED. 1971; ESCALA 1:50.000
-
-PUNTOS LATITUD LONGITUD
-
-A 42 ° 17' 35.57" 72° 50' 10.17"
-
-B 42 ° 17' 35.57" 72° 50' 30.65"
-
-C 42 ° 17' 15.03" 72° 50' 30.65"
-
-D 42 ° 16' 42.16" 72° 48' 30.65"
-
-E 42 ° 16' 58.02" 72° 48' 30.55"
 
 e) En el sector denominado Chana sector A, en la X Región, en un área inscrita en la figura irregular, entre la línea de costa y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
