@@ -18,33 +18,7 @@ Establécense las siguientes áreas de manejo y explotación de recursos bentón
 
 A) En el sector denominado Llico Sector A, en la VII Región, en un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas geográficas son las siguientes:
 
-CARTA IGM 3545-7200; 1ª ED. 1965; ESCALA 1:50.000
-
-Puntos Latitud Longitud
-
-A 34° 45' 00.00" 072° 05' 14.31"
-
-B 34° 45' 00.00" 072° 05' 23.84"
-
-C 34° 46' 10.21" 072° 06' 13.37"
-
-D 34° 46' 12.97" 072° 06' 08.06"
-
 B) En el sector denominado Llico Sector B en la VII Región, en un área inscrita en la figura irregular, entre la línea de más baja marea y sus vértices, cuyas coordenadas geográficas son las siguientes:
-
-CARTA IGM 3545-7200; 1ª ED. 1965; ESCALA 1:50.000
-
-Puntos Latitud Longitud
-
-A 34° 47' 16.22" 072° 07' 11.41"
-
-B 34° 47' 13.30" 072° 07' 15.74"
-
-C 34° 47' 26.11" 072° 07' 27.74"
-
-D 34° 48' 35.74" 072° 08' 08.06"
-
-E 34° 48' 38.17" 072° 08' 03.34"
 
 #### Artículo 2º
 
