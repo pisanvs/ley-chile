@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.435, de 9 de agosto de 2010, de esta Subsecretaría, recházase la solicitud de concesión de acuicultura Nº208111175, presentada por Pesquera Los Fiordos Limitada, hoy LOS FIORDOS LIMITADA para instalar y operar un centro de cultivo ubicado en Canal Pérez Sur, al oeste de Isla Cuneo, XI Región.
+
+Valparaíso, 9 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
