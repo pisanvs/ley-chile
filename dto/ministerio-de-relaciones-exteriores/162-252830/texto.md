@@ -38,6 +38,8 @@ h) Comisión Nacional de Investigación Científica y Tecnológica.
 
 i) Instituto Forestal.
 
+j) Subsecretaría de Pesca.
+
 #### Artículo 3
 
 Cada institución deberá nombrar a un representante titular y uno o más representantes alternos, quienes actuarán en ausencia del titular, con sus mismos derechos.
