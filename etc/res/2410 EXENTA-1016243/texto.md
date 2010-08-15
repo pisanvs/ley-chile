@@ -1,0 +1,3 @@
+Por resolución exenta Nº2.410, de 9 de agosto de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº2.440, de 2000; Nº1.870, de 2001; Nº1.918 y Nº2.635, ambas de 2002; Nº2.435 y Nº2.886, ambas de 2003; Nº2.532 y Nº2.621, ambas de 2004, y Nº2.386, de 2005, de esta Subsecretaría, del área de manejo Cura, VIII Región, en virtud del artículo 21 del D.S. Nº355, de 1995, de este Ministerio.
+
+Valparaíso, 9 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
