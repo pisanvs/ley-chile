@@ -42,6 +42,8 @@ h) Comisión Nacional de Investigación Científica y Tecnológica.
 
 i) Instituto Forestal.
 
+j) Subsecretaría de Pesca.
+
 #### Artículo 3
 
 <!-- parte:6581395 -->
