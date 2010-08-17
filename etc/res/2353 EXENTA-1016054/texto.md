@@ -82,8 +82,6 @@ En los casos en que los recursos hidrobiológicos encontrados en el sector no co
 
 16.- Transcríbase copia de la presente resolución y de los Informes Técnicos Nº 3.360, de 2009, y Nº 1.463, de 2010, ambos del Departamento de Acuicultura de esta Subsecretaría citados en Visto, al Servicio Nacional de Pesca.
 
-> **Nota.** La Resolución 387 Exenta, Economía, publicada el 06.02.2014, modifica la presente norma en el sentido de eliminar el recurso hidrobiológico jaiba en todas sus especies.
-
 Anótese, notifíquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- Pablo Galilea Carrillo, Subsecretario de Pesca.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., José Salomón Silva, Jefe Departamento Administrativo.
