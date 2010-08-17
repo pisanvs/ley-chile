@@ -1,0 +1,7 @@
+Por resolución Nº 2.214 de 15 de julio de 2010, de esta Subsecretaría, modifícase la resolución Nº 2.400 de 2009, modificada mediante Nº 2.698, Nº 3.184, Nº 3.641 y Nº 3.897, todas de 2009, Nº 315, Nº 735, Nº 847, Nº 1.195 y Nº 1.336 todas de 2010, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero y bases para la implementación de un plan de manejo en las pesquerías de erizo, huepo, caracol trofón, loco, ostión del sur y ostión patagónico, en la Duodécima Región de Magallanes y Antártica Chilena", en el sentido que a continuación se indica:
+
+a) En el numeral 3°, en el sentido de extender el período de estudio hasta el 15 de agosto de 2010, inclusive, respecto de los recursos erizo, huepo y loco.
+
+b) En el numeral 5°, inciso 3°, en el sentido de autorizar la extracción de los recursos loco y huepo desde la fecha de la presente resolución hasta el 15 de agosto de 2010, inclusive, eximiéndose durante este período de las vedas biológicas establecidas mediante decretos exentos Nº 409 y Nº 653 de 2003, ambos del Ministerio de Economía, Fomento y Reconstrucción, respectivamente.
+
+Valparaíso, 15 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
