@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.192, de 15 de julio de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 2.495 de 2009, modificada mediante resolución exenta Nº 3.966 de 2009, ambas de esta Subsecretaría de Pesca que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de investigación pesquerías bentónicas de crustáceos: Centolla y Centollón; Magallanes y Antártica Chilena", en el sentido de señalar que la investigación se extenderá hasta el 15 de julio de 2011, inclusive.
+
+Valparaíso, 15 de julio de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
