@@ -4,7 +4,7 @@ Núm. 969 exento.- Puente Alto, 5 de julio de 2010. Vistos: Las facultades que m
 
 Considerando:
 
-1. Que mediante decreto exento Nº 1.837 de fecha 20 de octubre del 2009, se aprobó el Plano Seccional 4 Oriente - Costanera de la comuna de Puente Alto, que modifica el Uso de Suelo del actual Plan Regulador Comunal aprobado mediante decreto exento Nº 423 de fecha 03 de abril del 2003, de la Zona I M 1 a H2, identificados en la correspondiente Memoria Explicativa.
+1. Que mediante decreto exento Nº 1.837 de fecha 29 de octubre del 2009, se aprobó el Plano Seccional 4 Oriente - Costanera de la comuna de Puente Alto, que modifica el Uso de Suelo del actual Plan Regulador Comunal aprobado mediante decreto exento Nº 423 de fecha 03 de abril del 2003, de la Zona I M 1 a H2, identificados en la correspondiente Memoria Explicativa.
 
 2. Que por ord. Nº 1.011 de fecha 02 de marzo del 2010, el Sr. Secretario Ministerial de Vivienda y Urbanismo, informa que previo a su archivo del Plano Seccional de la comuna de Puente Alto, se hace necesario subsanar las observaciones detectadas por dicha repartición pública.
 
@@ -16,7 +16,7 @@ Rectifíquense El Expediente Administrativo del Seccional 4 Oriente - Costanera 
 
 A. Reemplácense las expresiones "Plan Seccional; Planes Seccionales; Estudio Seccional; y Proyecto Seccional" por la expresión "Plano Seccional" en el contenido del expediente administrativo del Seccional 4 Oriente - Costanera, precedentemente individualizado, conformado por los siguientes instrumentos: decreto alcaldicio exento Nº 1.837 del 29 de octubre del 2009; Memoria Explicativa, Publicación en Diario Oficial de fecha 1º de diciembre del 2009, y Viñeta del Plano.
 
-B. Rectifícase el decreto alcaldicio exento Nº 1.837 de fecha 20 de octubre del 2009, en la forma que se indica a continuación:
+B. Rectifícase el decreto alcaldicio exento Nº 1.837 de fecha 29 de octubre del 2009, en la forma que se indica a continuación:
 
 . Reemplazar las expresiones "Plan Seccional; Planes
 
