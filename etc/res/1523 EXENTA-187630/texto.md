@@ -112,7 +112,7 @@ Así mismo, deberá acompañarse un documento suscrito por el solicitante o cons
 
 #### Artículo 14
 
-La información contenida en la Solicitud y en los documentos anexos se entenderá confidencial y sólo será empleada en la evaluación para autorizar la internación y su correspondiente introducción al Medio Ambiente del Organismo Modificado importado o desarrollado en el país.
+Derogado
 
 #### Artículo 15
 
