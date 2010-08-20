@@ -372,7 +372,7 @@ Corresponderá a los Comités de Asignación Zonal de Fondos Especiales -CAZ Esp
 
 ### V. EJECUCION DE LOS ACUERDOS
 
-Corresponderán a los Directores Regionales de la I, V, VIII, X, XI y XII Regiones las facultades de dictar las resoluciones correspondientes y suscribir y llevar a efecto los contratos que permitan formalizar los proyectos aprobados por los Comités de Asignación Zonal de Fondos Especiales -CAZ Especial- y por el Comité de Asignación de Fondos-CAF-, en su caso.
+Deléganse en los Directores Regionales de CORFO, cuya Región o parte de ella haya sido declarada Zona Extrema o en Rezago Productivo, las facultades de dictar las resoluciones correspondientes y suscribir y llevar a efecto los contratos que permitan formalizar los proyectos aprobados por el Comité de Asignación Zonal de Fondos Especiales -CAZ ESPECIAL, o por el Comité de Asignación de Fondos -CAF, según sea el caso.
 
 Disposición transitoria: Los proyectos que hayan sido postulados hasta el 31 de diciembre de 2006 tanto al Fondo de Promoción de Inversiones para las Zonas Productivas Rezagadas o de Reconversión Productiva a que se refiere la resolución (exenta) Nº 804, de 2002, como al Fondo de Asistencia a la Promoción de Inversiones en las Zonas Productivas de Reconversión a que se refiere la resolución (exenta) Nº 732, de 2003 y sus modificaciones, se regirán por las disposiciones contenidas en los Reglamentos de dichos fondos.
 
