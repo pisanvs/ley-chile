@@ -27,3 +27,25 @@ Cecilia Villavicencio Rosas, RUT 5.951.670-1, Secretaria Regional Ministerial Re
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Liliana Jadue Hund, Subsecretaria de Salud Pública.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Toma de Razón y Registro
+
+Profesionales Funcionarios
+
+Cursa con alcance decreto Nº 32, de 2010, del Ministerio de Salud
+
+Nº 25.948.- Santiago, 14 de mayo de 2010.-
+
+Esta Contraloría General ha tomado razón del documento del rubro, mediante el cual se aceptan las renuncias voluntarias presentadas por los Secretarios Regionales Ministeriales de Salud que indica, a contar del 11 de marzo de 2010, pero cumple con hacer presente, en relación con lo señalado en el número 2 del texto en estudio, que según los antecedentes que obran en su poder, doña Anita Bonell Bravo tiene la calidad de inculpada en un sumario administrativo instruido por este Organismo de Control en la Municipalidad de Coquimbo.
+
+Con el alcance que antecede, se ha dado curso al instrumento del epígrafe.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Salud
+
+Presente.
