@@ -36,7 +36,7 @@ Vicuña Mackenna, todas las pistas no comprendidas como segregadas, según la re
 
 b) Tramo comprendido entre Av. Las Rejas y calle Las Achiras, las tres pistas del costado derecho de la calzada sur, según sentido de tránsito oriente a poniente.
 
-Estas pistas exclusivas, cuyo sentido de tránsito será de oriente a poniente, se encontrarán habilitadas ·únicamente para la circulación de los siguientes vehículos:
+Estas pistas exclusivas, cuyo sentido de tránsito será de oriente a poniente, se encontrarán habilitadas únicamente para la circulación de los siguientes vehículos:
 
 a) Buses de transporte público de pasajeros urbanos, servicios de transporte público de aeropuerto (Decreto supremo Nº 211/95 del Ministerio de Transportes y Telecomunicaciones), taxis básicos y de turismo.
 
@@ -50,17 +50,7 @@ discapacitados a que se refiere el artículo 6º de la ley Nº 17.238 y la ley 1
 
 e) Vehículos de servicios funerarios.
 
-2.- Agrégase a la resolución exenta Nº 84, de 2001, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, el siguiente numeral 4 bis:
-
-"En el período comprendido entre las 16:00 horas del 8 de febrero de 2004 y hasta el 29 de febrero de 2004, las pistas segregadas de la calzada sur de la Avenida Libertador Bernardo O'Higgins (Alameda), tendrán las siguientes características particulares:
-
-a) Se extenderán desde la Av. Vicuña Mackenna hasta la calle Las Achiras;
-
-b) No será aplicable el viraje a la derecha señalado en el Nº2 párrafo 6º del resuelvo;
-
-c) Los taxis en cualquiera de sus modalidades podrán circular por las pistas segregadas, pudiendo, en su caso, tomar y dejar pasajeros en los paraderos habilitados y;
-
-d) No se aplicará el numeral 3º del resuelvo.
+2.- DEROGADO.
 
 3º La presente resolución comenzará a regir a partir de las 16:00 horas del 8 de febrero de 2004.
 

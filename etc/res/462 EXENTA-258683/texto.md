@@ -204,6 +204,14 @@ Pdte. Eduardo
 
 Frei Montalva
 
+Av. Libertador Av. Vicuña Av. Las Rejas Ambos
+
+Bernado. Mackenna sentidos
+
+O'Higgins
+
+(Alameda)
+
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
 a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejecutivo, siempre y cuando lo hagan con pasajeros en su interior;
@@ -211,6 +219,8 @@ a) Taxis en cualquiera de sus modalidades, incluida la submodalidad de taxi ejec
 b) Vehículos de emergencia, del Programa de Fiscalización de la Subsecretaría de Transportes y de los municipios, destinados a cumplir funciones de seguridad ciudadana, debidamente identificados como tales;
 
 c) Vehículos que se aproximen a un cruce para virar a la derecha, podrán ingresar a la pista exclusiva por la demarcación correspondiente a dicho cruce, o bien, desde la demarcación del cruce inmediatamente anterior.
+
+d) Buses de transporte público de pasajeros rurales e interurbanos, sólo en el caso de la Av. Libertador Bernardo O'Higgins (Alameda), siempre y cuando en sus certificados de inscripción en el Registro Nacional de Servicios de Transporte de Pasajeros figure dicha vía como parte de su trazado.
 
 Los vehículos no contemplados en las letras precedentes y que deban necesariamente utilizar en parte estas pistas exclusivas con el único objetivo de acceder o egresar desde su residencia o el lugar de estacionamiento habitual, podrán hacerlo restringidamente, siempre y cuando acrediten dicha circunstancia, y se respete siempre la demarcación correspondiente. Para tal efecto, las maniobras de ingreso o salida respecto de pistas exclusivas en relación a las que no lo son, se realizará de la siguiente forma:
 

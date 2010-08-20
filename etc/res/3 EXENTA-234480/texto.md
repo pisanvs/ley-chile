@@ -40,13 +40,7 @@ discapacitadas a que se refiere el artículo 6º de la ley Nº 17.238 y la ley 1
 
 f) Vehículos de servicios funerarios.
 
-4º.- Compleméntase la resolución exenta Nº 84, de 2001, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, en el sentido de agregar a ésta el siguiente artículo 5º:
-
-"En el período comprendido desde las 22:00 horas del 9 de enero de 2005 y hasta el 28 de febrero del mismo año, las pistas segregadas de la calzada norte de la Avenida Libertador Bernardo O'Higgins (Alameda), en el tramo que se extiende entre Av. Vicuña Mackenna y la calle Toro Mazote, tendrán las siguientes características especiales de operación:
-
-a) Los taxis en cualquiera de sus modalidades podrán circular libremente por las pistas segregadas, pero sólo podrán tomar y dejar pasajeros en los paraderos habilitados para tal efecto.
-
-b) El viraje a la derecha señalado en el Nº 2 del párrafo 6º sólo se permitirá para los vehículos habilitados y en los cruces que se mantengan en operación, los que deberán estar debidamente señalizados.
+4º.- DEROGADO.
 
 5º.- Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizarán el estricto cumplimiento de la medida precedentemente descrita.
 
