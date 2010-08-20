@@ -24,10 +24,4 @@ R e s u e l v o:
 
 4. Carabineros de Chile, inspectores municipales e inspectores del Ministerio de Transportes y Telecomunicaciones, fiscalizarán el estricto cumplimiento de la medida precedentemente descrita.
 
-> **Nota.** El numeral 1º de la Resolución 7556 Exenta, Transportes, publicada el 06.01.2014, modifica la presente norma en el sentido de eliminar del cuadro el EJE AV. CENTRAL - 1º DE MAYO- LAS FLORES.
-
-> **Nota.** NOTA 1 Las letra a, b del numeral 1° de la Resolución 5106 Exenta, Transportes, publicada el 04.10.2016, modifican la presente norma en el sentido de reemplazar los cuadros de la manera que la citada norma indica.
-
-> **Nota.** NOTA 2 El numeral 1° de la Resolución 320 Exenta, Transportes, publicada el 05.02.2023, modifica la presente norma, en el sentido de eliminar de su resuelvo Nº 2, los cuadros eje Av. Costanera Andrés Bello - Av. Cardenal José María Caro, sentido oriente poniente, sentido poniente oriente.
-
 Anótese y publíquese.- Fernando Orellana Astorga, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
