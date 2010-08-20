@@ -14,6 +14,26 @@ Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de 
 
 Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Liliana Jadue Hund, Subsecretaria de Salud Pública.
 
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto Nº 77, de 2009, del Ministerio de Salud
+
+Nº 34.040.- Santiago, 23 de junio de 2010.-
+
+Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se aprueba la norma técnica sobre el procedimiento e inspección médico veterinaria de las especies producto de la caza y de sus carnes y los criterios para la calificación de aptitud para el consumo humano, por encontrarse ajustado a derecho, pero cumple con hacer presente que ese Ministerio deberá en lo sucesivo enviar a control de legalidad sus normas técnicas con la visación del Subsecretario de Salud en todas sus páginas, por cuanto ellas forman parte integrante del instrumento que las aprueba, tal como se dispone en el inciso primero del artículo único del decreto que se examina.
+
+Con el alcance que antecede se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Salud
+
+Presente.
+
 NORMA TECNICA SOBRE PROCEDIMIENTOS E INSPECCIÓN MÉDICO VETERINARIA DE LAS ESPECIES PRODUCTO DE LA CAZA Y DE SUS CARNES Y CRITERIOS PARA LA CALIFICACIÓN DE APTITUD PARA EL CONSUMO HUMANO
 
 Decreto N°77 del 26 de Noviembre de 2009 Publicado en el Diario Oficial 10.07.10
