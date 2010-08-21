@@ -1,0 +1,3 @@
+ORDENA INICIO DE PROCEDIMIENTOS ADMINISTRATIVOS
+
+Por resoluciones exentas Nº 586, Nº 588, Nº 590 y Nº 591, todas de fecha 15.06.2010, de la Seremi Minvu de Los Lagos, ordena inicio procedimientos administrativos en contra de EGIS/PSAT Marcelo Ruay Aguilar, RUT Nº 13.734.818-7; PortaldeObras Consultores Ltda., RUT Nº 76.489.430-8; MAAN S.A., RUT Nº 76.049.194-2, y Constructora Sur Ltda., RUT Nº 76.978.780-1, respectivamente. Resolución íntegra disponible en Gobierno Transparente de web www.minvu.cl.
