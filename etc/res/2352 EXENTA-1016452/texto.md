@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.352, de 4 de agosto de 2010, de esta Subsecretaría, modifícanse los numerales 5º y 6º de la resolución exenta Nº 2.227 de 2010, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Evaluación del stock desovante de merluza del sur y merluza de cola en la zona sur austral, año 2010", en el sentido de incorporar al barco industrial Fríosur IX, del armador Pesquera Sur Austral S.A., a la nómina de naves participantes en la pesca de investigación.
+
+La nave antes individualizada deberá operar en las fechas y con limitaciones establecidas en los incisos 3º y 4º del numeral 5º de la resolución antes mencionada.
+
+Valparaíso, 4 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
