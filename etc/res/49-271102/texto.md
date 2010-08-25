@@ -246,37 +246,23 @@ También estará facultada para efectuar el seguimiento y evaluación periódica
 
 La utilización del subsidio en operaciones no elegibles dará lugar a la aplicación, por parte de COMSA, de una multa a la Compañía Aseguradora infractora de hasta 10 veces el valor del subsidio incorrectamente pagado.
 
-### 8. NORMA TRANSITORIA
+### 8. Normas transitorias
 
-8.1 Hasta el 30 de junio de 2010, y sólo para el caso de los cultivos de trigo y arroz, las condiciones del cofinanciamiento serán las siguientes:
+8.1 Hasta el día 30 de junio de 2012, para todos los cultivos de cereales asegurables, esto es, arroz, avena grano, cebada grano, maíz grano, trigo, triticales y centeno, todos en sus diversas especificaciones, las condiciones del cofinanciamiento serán las siguientes:
 
-a. El subsidio cubrirá el 75% de la prima neta cobrada en la respectiva póliza de seguro y se expresará en Unidades de
+a. El subsidio cubrirá el 75% de la prima neta cobrada en la respectiva póliza de seguro y se expresará en unidades de fomento.
 
-Fomento.
+b. El subsidio especial de la letra anterior incluirá, además, un subsidio de un monto fijo de UF 0,60 por cada póliza de seguro.
 
-b. El subsidio especial de la letra anterior, incluirá, además, un subsidio de un monto fijo de UF 0,60 por cada póliza de
+c. El monto total del subsidio que cada beneficiario reciba por la contratación de pólizas de seguro agrícola, de cualquier tipo, no podrá ser superior a UF 80 por cada temporada agrícola.
 
-seguro.
+8.2 En caso que las pólizas de seguro agrícola, tratadas en el número 8.1 deban ser modificadas por endosos con ajuste de prima, esto implicará derechos y obligaciones de los beneficiarios y de las Compañías respecto del subsidio especial de la letra a. en lo siguiente:
 
-c. El monto total del subsidio que cada beneficiario reciba por la contratación de pólizas de seguro agrícola, de cualquier
+a. Para endosos con aumento de prima, el beneficiario del 8.1, tendrá derecho a cobrar el complemento de subsidio aplicando a la prima de dicho endoso las condiciones indicadas en el punto 8.1 según las disposiciones de las letras a) y c) del mismo número.
 
-tipo, no podrá ser superior a UF 80 por cada temporada agrícola.
+b. Para endosos con disminución de prima, la Compañía, en representación del beneficiario del 8.1, estará obligada a devolver el subsidio aplicando a la prima de dicho endoso las condiciones indicadas en el punto 8.1, según las disposiciones de las letras a) y c) del mismo número.
 
-8.2 En caso que las pólizas de seguro agrícola, a que se refieren el numeral 8.1 anterior, deban ser modificadas por endosos con ajuste de prima, esto implicará derechos y obligaciones de los beneficiarios y de las Compañías respecto del subsidio especial indicado en la letra "a." del numeral 8.1 anterior, en lo siguiente:
-
-a. Para endosos con aumento de prima, el beneficiario del cofinanciamiento indicado en el numeral 8.1 anterior, tendrá
-
-derecho a cobrar el complemento de subsidio aplicando a la prima de dichos endosos, las condiciones indicadas en el
-
-numeral 8.1 y conforme a las disposiciones de sus literales "a." y "c.".
-
-b. Para endosos con disminución de prima, la Compañía, en representación del beneficiario del cofinanciamiento indicado en
-
-el numeral 8.1 anterior, estará obligada a devolver el subsidio aplicando a la prima de dichos endosos, las condiciones
-
-indicadas en dicho numeral 8.1, y conforme a las disposiciones de sus literales "a." y "c.".
-
-8.3 En todo lo demás, respecto de los subsidios especiales a que se refiere el numeral 8.1 anterior, serán aplicables todas las demás disposiciones del presente Reglamento, y especialmente lo dispuesto en los numerales 3 y 4 en lo no expresamente modificado en este numeral 8.
+8.3 En todo lo demás, respecto del subsidio especial del número 8.1, serán aplicables todas las demás disposiciones del presente Reglamento, y especialmente lo dispuesto en los numerales 3 y 4 en lo no expresamente modificado en este numeral 8.
 
 3º Este Reglamento comenzará a regir a partir de la total tramitación de la presente resolución y de su publicación en el Diario Oficial.
 
