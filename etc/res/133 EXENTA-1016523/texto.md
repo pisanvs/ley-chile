@@ -1,0 +1,5 @@
+ESTABLECE REQUISITOS DE FORMA Y OPORTUNIDAD EN QUE LOS INVERSIONISTAS AUTORIZADOS PODRÁN PRESENTAR LA DECLARACIÓN JURADA PARA LOS EFECTOS DE LO PREVISTO EN EL INCISO 2º, DEL Nº 7, DEL ART. 74, DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de Resolución Exenta del Servicio de Impuestos Internos Nº 133, del 19 de agosto de 2010, que establece requisitos de forma y oportunidad en que los inversionistas que no tengan la calidad de contribuyentes de la Ley sobre Impuesto a la Renta, podrán presentar la declaración jurada al emisor de los respectivos instrumentos de deuda de oferta pública a que se refiere el artículo 104 de la Ley sobre Impuesto a la Renta, para los efectos previstos en el inciso 2º, del Nº 7, del artículo 74 del mismo cuerpo legal.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2010.
