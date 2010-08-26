@@ -990,6 +990,10 @@ a) Deróguense sus artículos 4º y 7º.
 
 b) Reemplázase la letra a) del artículo 10 por la siguiente: "a. Del ingreso: El ingreso de los alumnos a una escuela especial de lenguaje o a un proyecto de integración escolar se regirá por lo dispuesto en el Reglamento que fija normas para determinar los alumnos con necesidades educativas especiales que serán beneficiarios de las subvenciones para educación especial.".
 
+#### Artículo Transitorio
+
+Los alumnos diagnosticados con Trastorno Específico del Lenguaje y que fueron matriculados en escuelas especiales de lenguaje con anterioridad de la entrada en vigencia del presente decreto, y que a esa fecha tenían menos de 3 años, podrán ser beneficiarios de la subvención de necesidades educativas especiales de carácter transitorio de que trata dicho decreto, hasta el término del presente año escolar.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Cristián Martínez Ahumada, Subsecretario de Educación.
