@@ -1,0 +1,29 @@
+APRUEBA REFORMA DE ESTATUTOS, ACUERDO DE DISOLUCIÓN Y CANCELA PERSONALIDAD JURÍDICA A "MISIÓN SENDAS CRISTIANAS APOSTÓLICAS", DE RANCAGUA
+
+Santiago, 30 de junio de 2010.- Hoy se decretó lo que sigue:
+
+Núm. 549.- Vistos: Estos antecedentes, lo dispuesto en los artículos 9º y 13º de la Ley Nº 19.880, de 2003, del Ministerio Secretaría General de la Presidencia, que establece Bases de los Procedimientos Administrativos que rigen los actos de los Órganos de la Administración del Estado; 545 y siguientes del Código Civil; en los artículos 22, 26 y 28 del Decreto Supremo de Justicia Nº 110, de 1979, publicado en el Diario Oficial de 20 de marzo de 1979, y sus modificaciones; Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones; en Decreto Supremo de Justicia Nº 924, de 1981, publicado en el Diario Oficial de 5 de agosto de 1981, y sus modificaciones, sobre materias que serán suscritas por las autoridades que se indican, con la fórmula "Por orden del Presidente de la República"; en Resolución de Contraloría General de la República Nº 1.600, de 2008, publicada en el Diario Oficial de 6 de noviembre de 2008, y lo informado por la Secretaría Regional Ministerial de Justicia de la Sexta Región Libertador Bernardo O'Higgins, y por el Consejo de Defensa del Estado.
+
+Considerando:
+
+1.- Que la entidad denominada "Misión Sendas Cristianas Apostólicas", con domicilio en la comuna de Rancagua de la provincia de Cachapoal, Sexta Región, que cuenta con personalidad jurídica concedida por este Ministerio, mediante Decreto de Justicia Nº 1.089, de fecha 25 de noviembre de 1986, solicitó la aprobación de reforma estatutaria y acuerdo de disolución de la institución antes mencionada.
+
+2.- Que la entidad adoptó el acuerdo de disolución y reforma del artículo trigésimo octavo de los estatutos, referido a la entidad beneficiaria de los bienes al momento de la disolución, en Asamblea General Extraordinaria efectuada el día 17 de octubre de 2007, cuyas actas fueron reducidas a escrituras públicas de fechas 22 de octubre de 2007, repertorios Nº 4.375-2007 y Nº 4.376-2007, ambas otorgadas ante el Notario Público de Rancagua don Jaime Bernales Larraín, suplente del titular don Jaime Bernales Valenzuela.
+
+3.- Que habiendo sido requerido, informa sobre marcha general de la entidad a la Secretaría Regional Ministerial de Justicia de la Sexta Región del Libertador Bernardo O'Higgins, y evacuado éste mediante Ord. Nº 667, de fecha 21 de diciembre de 2006; Ord. Nº 473, de fecha 3 de julio de 2009, y Ord. Nº 493, de fecha 10 de julio de 2009, y habiéndose remitido a esta Secretaría de Estado informe Reservado Nº 39, de la Policía de Investigaciones de Chile, Brigada de Inteligencia Policial Rancagua, de fecha 23 de junio de 2009, que en su numeral 2.f., señala: "La entidad se encuentra tramitando la disolución de su personalidad jurídica de derecho privado, a fin de regularizar su condición de entidad de derecho público, en virtud a la que actualmente funcionan como tal. Por lo anterior, no se han presentado balances al Ministerio de Justicia, debido a que no tienen dicha obligación".
+
+4.- Que en opinión del Consejo de Defensa del Estado, contenida en informes Nº 797, de fecha 6 de septiembre de 2007, y Nº 40, de fecha 11 de enero de 2008, "se estima conveniente informar favorablemente las solicitudades de reforma y disolución presentadas en virtud de los Principios de No Formalización y Economía Procedimental, contenidos en los artículos 9º y 13 de la Ley Nº 19.880, sobre procedimientos administrativos", por cuanto, "si el objetivo de la reforma y disolución de la corporación "Misión Sendas Cristianas Apostólicas" es refundir en un solo cuerpo normativo tanto su organización como su patrimonio, se justifica dar lugar a lo solicitado y aprobar, aplicando los principios administrativos ya citados, en un solo decreto, los dos actos jurídicos que se proponen".
+
+Decreto:
+
+1.- Apruébase el acuerdo de disolución y de reforma al Artículo Trigésimo Octavo de los estatutos, referido a la entidad beneficiaria de los bienes al momento de la disolución de la entidad denominada "Misión Sendas Cristianas Apostólicas", acuerdos adoptados en Asamblea General Extraordinaria efectuada el día 17 de octubre de 2007, cuyas actas se redujeron a escrituras públicas de fecha 22 de octubre de 2007, Repertorios Nº 4.375-2007 y Nº 4.376-2007, ambas otorgadas ante el Notario Público de Rancagua don Jaime Bernales Larraín, suplente del titular don Jaime Bernales Valenzuela.
+
+2.- Cancélase la personalidad jurídica de la entidad denominada "Misión Sendas Cristianas Apostólicas", con domicilio en la comuna de Rancagua de la provincia de Cachapoal, Sexta Región, concedida por este Ministerio, mediante decreto de Justicia Nº 1.089, de fecha 25 de noviembre de 1986, y declárese disuelta la entidad.
+
+3.- Destínense los bienes y el patrimonio de la entidad disuelta a la entidad denominada "Iglesia Misión Sendas Cristianas Apostólicas", entidad que se encuentra inscrita en el Registro Público de Entidades Religiosas, bajo el Nº 00973, de fecha 24 de mayo de 2005, en virtud de lo dispuesto en la Ley Nº 19.638, de 1999, del Ministerio del Interior, Subsecretaría del Interior, y su Reglamento aprobado por Decreto Supremo de Justicia Nº 303, de 2000.
+
+4.- Remítase copia del presente decreto al Secretario Regional Ministerial de Justicia de la Sexta Región del Libertador Bernardo O'Higgins y al Gobernador respectivo, de conformidad a lo dispuesto en el artículo 28 del Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones.
+
+Anótese, tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Bulnes Serrano, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Patricia Pérez Goldberg, Subsecretaria de Justicia.
