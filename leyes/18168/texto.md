@@ -460,6 +460,30 @@ b) El flujo determinado en la forma prevista en la letra a) del N° 2, se descon
 
 La tasa a utilizar para descontar el flujo esperado de caja de todos los años, corresponderá a la tasa de costo de capital calculada de acuerdo a la metodología establecida en el artículo 30° B del Título de las Tarifas.
 
+#### Artículo 24
+
+H.- Las concesionarias de servicio público de telecomunicaciones que presten servicio a los proveedores de acceso a Internet y también estos últimos; entendiéndose por tales, toda persona natural o jurídica que preste servicios comerciales de conectividad entre los usuarios o sus redes e Internet:
+
+a) No podrán arbitrariamente bloquear, interferir, discriminar, entorpecer ni restringir el derecho de cualquier usuario de Internet para utilizar, enviar, recibir u ofrecer cualquier contenido, aplicación o servicio legal a través de Internet, así como cualquier otro tipo de actividad o uso legal realizado a través de la red. En este sentido, deberán ofrecer a cada usuario un servicio de acceso a Internet o de conectividad al proveedor de acceso a Internet, según corresponda, que no distinga arbitrariamente contenidos, aplicaciones o servicios, basados en la fuente de origen o propiedad de éstos, habida cuenta de las distintas configuraciones de la conexión a Internet según el contrato vigente con los usuarios.
+
+Con todo, los concesionarios de servicio público de telecomunicaciones y los proveedores de acceso a Internet podrán tomar las medidas o acciones necesarias para la gestión de tráfico y administración de red, en el exclusivo ámbito de la actividad que les ha sido autorizada, siempre que ello no tenga por objeto realizar acciones que afecten o puedan afectar la libre competencia. Los concesionarios y los proveedores procurarán preservar la privacidad de los usuarios, la protección contra virus y la seguridad de la red. Asimismo, podrán bloquear el acceso a determinados contenidos, aplicaciones o servicios, sólo a pedido expreso del usuario, y a sus expensas. En ningún caso, este bloqueo podrá afectar de manera arbitraria a los proveedores de servicios y aplicaciones que se prestan en Internet.
+
+b) No podrán limitar el derecho de un usuario a incorporar o utilizar cualquier clase de instrumentos, dispositivos o aparatos en la red, siempre que sean legales y que los mismos no dañen o perjudiquen la red o la calidad del servicio.
+
+c) Deberán ofrecer, a expensas de los usuarios que lo soliciten, servicios de controles parentales para contenidos que atenten contra la ley, la moral o las buenas costumbres, siempre y cuando el usuario reciba información por adelantado y de manera clara y precisa respecto del alcance de tales servicios.
+
+d) Deberán publicar en su sitio web, toda la información relativa a las características del acceso a Internet ofrecido, su velocidad, calidad del enlace, diferenciando entre las conexiones nacionales e internacionales, así como la naturaleza y garantías del servicio.
+
+El usuario podrá solicitar al concesionario o al proveedor, según lo estime, que le entregue dicha información a su costo, por escrito y dentro de un plazo de 30 días contado desde la solicitud.
+
+#### Artículo 24
+
+I.- Para la protección de los derechos de los usuarios de Internet, el Ministerio, por medio de la Subsecretaria, sancionará las infracciones a las obligaciones legales o reglamentarias asociadas a la implementación, operación y funcionamiento de la neutralidad de red que impidan, dificulten o de cualquier forma amenacen su desarrollo o el legítimo ejercicio de los derechos que de ella derivan, en que incurran tanto los concesionarios de servicio público de telecomunicaciones que presten servicio a proveedores de acceso a Internet como también éstos últimos, de conformidad a lo dispuesto en el procedimiento contemplado en el artículo 28 bis de la Ley N° 18.168, General de Telecomunicaciones.
+
+#### Artículo 24
+
+J.- Un reglamento establecerá las condiciones mínimas que deberán cumplir los prestadores de servicio de acceso a Internet en cuanto a la obligatoriedad de mantener publicada y actualizada en su sitio web información relativa al nivel del servicio contratado, que incorpore criterios de direccionamiento, velocidades de acceso disponibles, nivel de agregación o sobreventa del enlace, disponibilidad del enlace en tiempo, y tiempos de reposición de servicio, uso de herramientas de administración o gestión de tráfico, así como también aquellos elementos propios del tipo de servicio ofrecido y que correspondan a estándares de calidad internacionales de aplicación general. Asimismo, dicho reglamento establecerá las acciones que serán consideradas prácticas restrictivas a la libertad de utilización de los contenidos, aplicaciones o servicios que se presten a través de Internet, acorde a lo estipulado en el artículo 24 H.
+
 #### Artículo 25
 
 Será obligación de los concesionarios de servicios públicos de telecomunicaciones y de los concesionarios de servicios intermedios que presten servicio telefónico de larga distancia, establecer y aceptar interconexiones, según las normas técnicas, procedimientos y plazos que establezca la Subsecretaría de Telecomunicaciones, con objeto de que los suscriptores y usuarios de servicios públicos de un mismo tipo puedan comunicarse entre sí, dentro y fuera del territorio nacional.
