@@ -1,0 +1,35 @@
+CANCELA PERSONALIDAD JURÍDICA A "FEDERACIÓN DE PENTATHLON MODERNO DE CHILE", DE SANTIAGO
+
+Santiago, 3 de agosto de 2010.- Hoy se decretó lo que sigue:
+
+Núm. 605.- Vistos: Estos antecedentes; lo dispuesto en los artículos 545 y siguientes del Código Civil; los artículos 25, 28 y 36 del decreto supremo Nº 110, de Justicia, publicado el 20 de marzo de 1979, Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones; el decreto ley Nº 3.274, publicado el 5 de junio de 1980, que fija la Ley Orgánica del Ministerio de Bienes Nacionales; el decreto Nº 924, publicado el 5 de agosto de 1981, del Ministerio de Justicia, que se refiere a las materias que serán suscritas por las autoridades que se indican con la fórmula "Por orden del Presidente de la República"; la resolución Nº 1.600 de la Contraloría General de la República, de fecha 30 de octubre de 2008, que fija normas sobre exención del trámite de Toma de Razón; lo informado por la Intendencia de la Región Metropolitana, mediante oficio Nº 3.618, de fecha 13 de agosto de 2009 y por el Consejo de Defensa del Estado, mediante informe Nº 0351, de fecha 14 de abril de 2010.
+
+Considerando:
+
+1.- Que a la entidad denominada "Federación de Pentathlon Moderno de Chile", con domicilio en la provincia de Santiago, se le concedió personalidad jurídica por decreto Nº 4.419, de fecha 25 de septiembre de 1956, del Ministerio de Justicia.
+
+2.- Que esta Secretaría de Estado, en virtud de las facultades que le otorga el artículo 36 del D.S. de Justicia Nº 110, de 1979, dispuso un procedimiento de fiscalización en el cual se recabó diversa información y antecedentes de la "Federación de Pentathlon Moderno de Chile".
+
+3.- En el marco del procedimiento mencionado, mediante providencia Nº 5.065, de fecha 6 de julio de 2009, esta Cartera de Estado solicitó a la Intendencia de la Región Metropolitana de Santiago un informe sobre la marcha general de la entidad.
+
+4.- Que la Intendencia de la Región Metropolitana de Santiago, mediante oficio Ord. Nº 3.618, de fecha 13 de agosto de 2009, remitió Res. Nº 316, de fecha 6 de agosto de 2009, de la Prefectura Metropolitana Oriente, el que a su vez adjuntaba Res. Nº 227 de fecha 4 de agosto de 2009 de la Brigada de Investigación Criminal de Ñuñoa, ambos de la Policía de Investigaciones de Chile, de los cuales es posible concluir que la institución no da estricto cumplimiento a lo dispuesto en sus estatutos.
+
+5.- Que la Contraloría General de la República, en su "Informe Final Instituto Nacional de Deportes" Nº 265/09, de fecha 27 de enero de 2010, destaca que en la revisión efectuada al proyecto código 0815040707, ejecutado por la Federación de Pentathlon Moderno "se verificó que no existe un listado de beneficiarios, ni información que acredite las actividades señaladas en el recuadro de "Entrenamiento Selecciones", incluidas en la ficha de postulación del proyecto, donde se indica que el número de beneficiarios sería de 158 deportistas." Luego, refiriéndose a los recursos para gastos generales y de administración, destaca que a la mencionada federación se le aprobó una importante suma de dinero, llamando la atención del órgano contralor el que la "Federación de Pentathlon Moderno de Chile" "no haya desarrollado proyectos deportivos y sólo se le asignen recursos para gastos operacionales".
+
+6.- Que, considerando la información contenida en el expediente de fiscalización, este Ministerio solicitó mediante Ord. Nº 1.610, de fecha 26 de febrero de 2010, un informe al Consejo de Defensa del Estado, a fin de evaluar la ocurrencia de las causales para proceder a la cancelación de la personalidad jurídica de la entidad.
+
+7.- Que el Consejo de Defensa del Estado, mediante informe Nº 0351, de fecha 14 de abril de 2010, refiriéndose a la "Federación de Pentathlon Moderno de Chile" señala en el numeral II de sus Conclusiones: "a) No está integrada por "Asociaciones", sino que solamente por dos Clubes Deportivos.- Conforme a los artículos 3º y 6º de los estatutos de la presente Federación, ésta debe estar integrada por "Asociaciones Deportivas." Más adelante agrega que "b) Al no tener socios de la naturaleza que exige el estatuto, esto es, "Asociaciones Deportivas", la entidad no ha podido celebrar válidamente Junta de Delegados (ésta equivale a una Asamblea general en una Federación), en las cuales se adopten acuerdos que sean obligatorios para la Corporación, como por ejemplo, no se ha podido renovar anualmente el Directorio, en el mes de abril de cada año, en la forma como señala el art. 11 de los estatutos. La reunión de Directorio, con delegados de los Dos Clubes con que cuenta actualmente la Federación, que se celebró el día 21 de julio de 2008, y correspondiente al acta Nº 72, no es una reunión válida según los estatutos, para poder renovar en ella, al Directorio y, por lo tanto, el Directorio que actualmente rige los destinos de la Federación, no se encuentra válidamente designado." En la parte final señala: "III) Atendido lo expuesto precedentemente concluimos lo siguiente: a) En nuestra opinión es posible iniciar un procedimiento de cancelación de la personalidad jurídica a la presente entidad, basado en las dos últimas causales que contempla el art. 25 del Reglamento.- Dicho artículo dispone, en su inciso 1º, ‘Artículo 25.- El Presidente de la República podrá cancelar la personalidad jurídica a una corporación desde el momento en que la estime contraria a las leyes, al orden público o a las buenas costumbres, o no cumpla con los fines para que fue constituida o incurra en infracciones graves a sus estatutos'.".
+
+8.- Que, de acuerdo con lo expuesto, especialmente, lo informado por la Intendencia de la Región Metropolitana de Santiago y por el Consejo de Defensa del Estado, se han configurado causales para cancelar la personalidad jurídica de la entidad denominada "Federación de Pentathlon Moderno de Chile".
+
+Decreto:
+
+1.- Cancélase la personalidad jurídica de la entidad denominada "Federación de Pentathlon Moderno de Chile", concedida por decreto supremo Nº 4.419, de fecha 25 de septiembre de 1956, del Ministerio de Justicia.
+
+2.- Pasen los bienes de la "Federación de Pentathlon Moderno de Chile" al Ministerio de Bienes Nacionales, Cartera que se hará cargo de los bienes existentes de la entidad a la fecha de la cancelación, bajo inventario valorado, quedando bajo su custodia hasta que el Presidente de la República los destine en conformidad al artículo 561 del Código Civil. Una copia de dicho inventario será remitida a este Ministerio.
+
+3.- Remítase copia del presente decreto a la Secretaría Regional Ministerial de Justicia de la Región Metropolitana y al Gobernador Provincial respectivo, según lo dispone el artículo 28 del Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones.
+
+Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Bulnes Serrano, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Patricia Pérez Goldberg, Subsecretaria de Justicia.
