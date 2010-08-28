@@ -20,49 +20,7 @@ b) El Oficio N° 052, de fecha 21 de enero de 2010, del Serviu de la Región Met
 
 Resolución:
 
-1°.- Modifícase la resolución ex. N° 5.101 (V. y U.), de 2008, en la siguiente forma:
-
-a) Reemplázase en el resuelvo 2°, relativo a
-
-proyectos preseleccionados con Calificación
-
-Condicional, el encabezado de la tabla inserta
-
-en dicho resuelvo, la fila correspondiente al
-
-proyecto Hijos de Colonos de Peñalolén, de la
-
-Región Metropolitana, y la última fila del
-
-mismo cuadro, correspondiente al total de
-
-familias y recursos, por las siguientes, en el
-
-lugar que corresponde:
-
-b) Sustitúyese en el cuadro inserto en el resuelvo
-
-3°, en la fila correspondiente a la Región
-
-Metropolitana, en la columna "Subsidio
-
-Construcción Equipamiento y Fondo Iniciativa"
-
-el guarismo "122.080" por "122.100" y en la
-
-columna "Total" el guarismo "128.034" por
-
-"128.054"; y en la última fila correspondiente
-
-al "Total", en la columna "Subsidio
-
-Construcción Equipamiento y Fondo Iniciativa"
-
-el guarismo "365.077" por "365.097" y en la
-
-columna "Total" el guarismo "383.756" por
-
-"383.776".
+1°.- DEROGADO
 
 2°.- Modifícase la resolución Ex. N° 5.642 (V. y U.), de 2008, en la siguiente forma:
 
