@@ -22,35 +22,35 @@ La presente ordenanza regula la construcción, instalación, operación y explot
 
 Para los efectos de esta Ordenanza se entenderá por:
 
-a) Antena, el conjunto de elementos utilizados para emitir o recibir señales de comunicaciones u ondas radioeléctricas, sean éstas de radio, televisión, telefonía celular o personal o cualquier otra onda o señal débil, en las bandas atribuidas al Servicio Público o Telefonía Móvil.
+a) Antena, el conjunto de elementos utilizados para emitir o recibir señales de comunicaciones u ondas radioeléctricas, sean éstas de radio, televisión, telefonía celular o personal o cualquier otra onda o señal débil.
 
 b) Parábola, aquel conjunto de elementos cuya forma consiste en una curva abierta simétrica respecto a un eje, con un solo foco y que resulta de cortar un cono circular recto por un plano paralelo a una generatriz que encuentra todos los otros en una sola hoja y que para estos efectos emite o recibe ondas satelitales.
 
 c) Torre, toda edificación más alta que su superficie de apoyo y que se constituya en una estructura soportante.
 
-d) Estación de telefonía celular, aquellas instalaciones o conjunto de instalaciones debidamente autorizadas por los organismos estatales pertinentes, para emitir o recibir señales de este servicio y para operar equipos necesarios dentro de un recinto especialmente construido o acondicionado para este fin, el que deberá contar con un permiso otorgado por la Dirección de Obras Municipales.
+d) Estación de telefonía celular, aquellas instalaciones o conjunto de instalaciones debidamente autorizadas por los organismos estatales pertinentes, para emitir o recibir señales de este servicio y para operar equipos necesarios dentro de un recinto especialmente construido o acondicionado para este fin.
 
 #### Artículo 3º
 
-Todas las obras, equipos, sistemas y elementos materia de esta ordenanza, deberán cumplir con el proyecto, planos y demás antecedentes aprobados por la Subsecretaría de Telecomunicaciones y por los organismos públicos y municipales competentes, especialmente la Dirección de Obras Municipales en cuanto al cuidado y resguardo que deben adoptar los concesionarios respecto de las obras que se requieren para tales efectos.
+Todas las obras, equipos, sistemas y elementos materia de esta ordenanza, deberán cumplir con el proyecto, planos y demás antecedentes aprobados por la Subsecretaría de Telecomunicaciones y por los organismos públicos.
 
-Cuando una antena o parábola requiera para su funcionamiento de una sala de equipos en una propiedad, dicha construcción sólo podrá hacerse, previo permiso de edificación otorgado por la Dirección de Obras Municipales, debiendo cumplir con todas las exigencias relativas a uso de suelo y condiciones de edificación.
+INCISO SUPRIMIDO.
 
 #### Artículo 4º
 
 Se permitirá la instalación de las antenas previa entrega de un "Aviso de Instalación de Telecomunicaciones" en conformidad con lo dispuesto en el artículo 5.1.2, Nº 7, del decreto Nº 47 de 1992, del Ministerio de Vivienda y Urbanismo, Ordenanza General de Urbanismo y Construcciones.
 
-En este caso el interesado deberá presentar a la Dirección de Obras Municipales, con una antelación de al menos 15 días a la instalación, el referido aviso, adjuntando, entre otros, un plano que cumpliendo la normativa aplicable, deberá ser suscrito por el propietario del predio donde se efectuará la instalación, por el operador responsable de la antena, un ingeniero civil calculista que se haga responsable de la estabilidad de las obras de soporte y de la antena, y acreditando el cumplimiento de los requisitos previstos en la ley, reglamentos, resoluciones de organismos técnicos y los que se indican en la presente Ordenanza.
+En este caso el interesado deberá presentar a la Dirección de Obras Municipales, con una antelación de al menos 15 días a la instalación, el referido aviso, adjuntando, entre otros, un plano que cumpliendo la normativa aplicable, deberá ser suscrito por el propietario del predio donde se efectuará la instalación, por el operador responsable de la antena, y acreditando el cumplimiento de los requisitos previstos en la ley, reglamentos, resoluciones de organismos técnicos y los que se indican en la presente Ordenanza.
 
-Entre otros requisitos, deberán, especialmente, emplazarse dentro de la línea de edificación vigente y con el distanciamiento mínimo establecido por la Ordenanza General de Urbanismo y Construcción respecto a los deslindes de los vecinos, que su instalación no esté prohibida por el Plano Regulador de la comuna de Olmué y el interesado cuente con la autorización de la Dirección General de Aeronáutica Civil y con un certificado emanado del Ministerio de Transportes y Telecomunicaciones o la Subsecretaría respectiva, que acredite el cumplimiento de los requisitos de seguridad exigidos en la resolución Nº 505, de 5 de mayo de 2000, de la Subsecretaría de Telecomunicaciones. Sin perjuicio de lo anterior, esa superficie no podrá tener otro uso.
+Entre otros requisitos, deberán, especialmente, emplazarse dentro de la línea de edificación vigente y con el distanciamiento mínimo establecido por la Ordenanza General de Urbanismo y Construcción respecto a los deslindes de los vecinos. Sin perjuicio de lo anterior, esa superficie no podrá tener otro uso.
 
-La superficie mínima del terreno destinado a la instalación de una antena, debe ser tal, que en evento de caída de la antena, en ningún caso pueda caer sobre las propiedades vecinas.
+INCISO ELIMINADO.
 
 En cuanto el municipio se entere de algún proyecto de instalación de antena, deberá informar al Concejo municipal, a los vecinos, mediante la página web o por cualquier otro medio, y además por carta a la Junta de Vecinos del sector.
 
 #### Artículo 5º
 
-Sin perjuicio de la competencia de otros organismos públicos respecto de las antenas, será necesaria la obtención del respectivo permiso de la Dirección de Obras Municipales para las obras de soporte o sustento de la instalación de dichas antenas, dando estricto cumplimiento a los principios, normas y preceptos sobre derecho urbanístico y a las de esta ordenanza.
+DEROGADO.
 
 #### Artículo 6º
 
@@ -58,7 +58,7 @@ Si la instalación de alguno de los elementos descritos en la presente ordenanza
 
 #### Artículo 7º
 
-En caso que la instalación, operación y explotación de antenas, soportes, torres y parábolas constituyan el ejercicio de alguna actividad lucrativa en términos de contrato de arrendamiento o cualquier otro, dicha actividad estará sujeta al pago de una patente municipal, y deberá darse estricto cumplimiento a lo dispuesto en el Decreto Ley 3.063.
+DEROGADO.
 
 #### Artículo 8º
 
