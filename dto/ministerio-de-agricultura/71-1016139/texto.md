@@ -23,3 +23,23 @@ Decreto:
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- José Antonio Galilea Vidaurre, Ministro de Agricultura.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Álvaro Cruzat O., Subsecretario de Agricultura.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Toma de Razón y Registro
+
+Administración Descentralizada
+
+Cursa con alcance decreto Nº 71, de 2010, del Ministerio de Agricultura
+
+Nº 41.952.- Santiago, 27 de julio de 2010.- Esta Contraloría General ha tomado razón del instrumento del epígrafe, por medio del cual se nombra, en forma transitoria y provisional, al Director Nacional del Instituto de Desarrollo Agropecuario, pero cumple con hacer presente que la mención que se efectúa en los vistos al artículo 6º de la ley Nº 18.910, debe entenderse referida al artículo 5º del mismo texto normativo.
+
+Con el alcance que antecede, se ha dado curso al acto administrativo del rubro.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Ministro de Agricultura
+
+Presente.
