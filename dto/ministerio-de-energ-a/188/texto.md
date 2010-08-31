@@ -1,0 +1,31 @@
+DECLARA DESIERTO PROCEDIMIENTO DE LICITACIÓN PÚBLICA PARA EL OTORGAMIENTO DE LA CONCESIÓN DE EXPLORACIÓN DE ENERGÍA GEOTÉRMICA SOBRE EL ÁREA DENOMINADA "AUCÁN II", UBICADA EN LAS COMUNAS DE CAMARONES Y PUTRE, PROVINCIAS DE ARICA Y PARINACOTA, XV REGIÓN DE ARICA Y PARINACOTA, EN VIRTUD DE LA LEY Nº 19.657
+
+Núm. 188.- Santiago, 19 de agosto de 2010.- Visto: Lo dispuesto en la Ley Nº 20.402, que crea el Ministerio de Energía, estableciendo modificaciones al DL Nº 2.224, de 1978, y a otros cuerpos legales; en la Ley Nº 19.657, sobre Concesiones de Energía Geotérmica; en su reglamento aprobado mediante Decreto Supremo Nº 32, de 22 de abril de 2004, y su modificación dispuesta por Decreto Supremo Nº 224, de 4 de diciembre de 2008, ambos del Ministerio de Minería; en la Resolución Afecta Nº 30, de fecha 15 de diciembre de 2003, que deroga Resolución Nº 13 y aprueba nuevas bases generales que fijan los requisitos, condiciones y modalidades de las licitaciones públicas para el otorgamiento de concesiones de exploración o explotación de energía geotérmica de fuente probable o no probable; en la Resolución Exenta Nº 1.062, de 29 de mayo de 2009, del Ministerio de Minería, que aprueba bases administrativas y técnicas particulares para la licitación pública de las concesiones de exploración de energía geotérmica denominadas Volcán Tacora, Licancura 1, Licancura 2, Licancura 3, Aucán I, Aucán II, San Pablo II, Alitar, Tuyajto 1, Tuyajto 2, Tuyajto 3, Tuyajto 4, Juncalito 1, Juncalito 2, Laguna Verde, Colimapu, Calerias, Necul, Calabozo y Sollipulli; en el Decreto Supremo Nº 131, de 26 de diciembre de 2002, del Ministerio de Minería, que faculta al Ministro de Minería a firmar "Por orden del Presidente de la República" en materia de concesiones de energía geotérmica; lo establecido en la Resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que mediante Resolución Exenta Nº 1.062, de 29 de mayo de 2009, del Ministerio de Minería, se aprueban las bases administrativas y técnicas particulares para la licitación pública de las concesiones de exploración de energía geotérmica denominadas Volcán Tacora, Licancura 1, Licancura 2, Licancura 3, Aucán I, Aucán II, San Pablo II, Alitar, Tuyajto 1, Tuyajto 2, Tuyajto 3, Tuyajto 4, Juncalito 1, Juncalito 2, Laguna Verde, Colimapu, Calerias, Necul, Calabozo y Sollipulli.
+
+2. Que con fecha 1 de junio de 2009, el Ministerio de Minería publica en el Diario Oficial la convocatoria a licitación pública para el otorgamiento de las concesiones de exploración de energía geotérmica referidas en el considerando primero del presente decreto supremo; con fecha 24 y 25 de junio de 2009, en el diario de circulación nacional "La Nación", y con fecha 25 y 26 de junio de 2009, en el diario de circulación regional "La Estrella" de Arica. Asimismo, la señalada convocatoria a licitación pública fue difundida mediante la emisión de tres avisos radiales en la radioemisora "Bío Bío", según consta en el certificado de fecha 30 de junio de 2009, suscrito por don Mauro Mosciati Oliveri, representante legal de dicho medio radial.
+
+3. Que mediante Resolución Exenta Nº 1.468, de 22 de julio de 2009, del Ministerio de Minería, se aclaran y rectifican las bases administrativas y técnicas particulares de licitación, referidas en el considerando primero del presente instrumento, siendo lo anterior notificado por carta certificada a todos aquellos interesados que las habían retirado, de acuerdo al "Registro de Retiro de Bases" confeccionado por la Oficina de Partes del Ministerio de Minería.
+
+4. Que mediante Resolución Exenta Nº 1.506, de 24 de julio de 2009, del Ministerio de Minería, se aprueba la primera circular aclaratoria de las bases administrativas y técnicas particulares, indicadas el considerando primero del presente decreto.
+
+5. Que mediante Resolución Exenta Nº 1.596, de 7 de agosto de 2009, del Ministerio de Minería, se aprueba la segunda circular aclaratoria de las bases administrativas y técnicas particulares, señaladas el considerando primero precedente.
+
+6. Que consta en Acta de Apertura de Ofertas de 24 de agosto de 2009, aprobada por Resolución Exenta Nº 1.725, de fecha 25 de agosto de 2009 del Ministerio de Minería, que la única oferta presentada para el área "Aucán II" correspondió a aquella presentada por la empresa Serviland Minergy S.A.
+
+7. Que de acuerdo a lo consignado en el Acta del Comité de Análisis de Energía Geotérmica de fecha 12 de enero de 2010, aprobada mediante Resolución Exenta Nº 69, de 14 de enero de 2010, del Subsecretario (S) de Minería, la empresa Serviland Minergy S.A. aceptó la adjudicación de las concesiones denominadas "Volcán Tacora" y "Licancura 3", ambas parte del proceso licitatorio, por lo que los montos asociados a la ejecución de estos proyectos han debido ser sumados al compromiso exploratorio de la empresa, resultando así una capacidad financiera insuficiente para asumir la ejecución del proyecto ofrecido para el área denominada "Aucán II", por lo que el referido Comité recomienda declarar desierto el procedimiento de licitación para el otorgamiento de la concesión de exploración de energía geotérmica sobre el área denominada "Aucán II".
+
+8. Que con fecha 26 de enero de 2010, dentro del plazo legal, la empresa Serviland Minergy S.A. deduce recurso de reposición y jerárquico en subsidio en contra de la Resolución Exenta Nº 69, de 14 de enero de 2010, del Subsecretario (S) de Minería. Dicho recurso se rechaza mediante Resolución Exenta Nº 59, de 9 de marzo de 2010, del Ministerio de Energía. Por su parte, el recurso jerárquico interpuesto en subsidio se rechaza mediante Resolución Exenta Nº 126, de 6 de abril de 2010,
+
+Decreto:
+
+#### Artículo único
+
+Declárase desierto el procedimiento de licitación de que fuera objeto el área de concesión de exploración de energía geotérmica denominada "Aucán II", ubicada en la comuna de Ollagüe, provincia de El Loa, II Región de Antofagasta.
+
+Anótese y publíquese.- Por orden del Presidente de la República, Ricardo Raineri Bernain, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Jimena Bronfman C., Subsecretaria de Energía.
