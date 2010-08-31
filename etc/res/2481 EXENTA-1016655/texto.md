@@ -1,0 +1,7 @@
+Por resolución exenta Nº 2.481, de 16 de agosto de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 1.849, de 2010, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LTDA. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de zonas de pesca artesanal de los recursos Sardina común (Strangomera bentincki) y Anchoveta (Engraulis ringens) en la costa de la novena Región, 2010", en los siguientes términos:
+
+a) En el sentido de incorporar el numeral 5 Bis, nuevo, en virtud del cual las embarcaciones artesanales "Río Toltén I" y "Río Queule I" podrán capturar, con red de cerco, una cuota máxima total de 345 toneladas de Anchoveta y 1.417 toneladas de Sardina común, para cada una de ellas, imputadas a las asignaciones efectuadas en el marco del Régimen Artesanal de Extracción de la VIII Región para el año 2010 a las organizaciones de pescadores artesanales y en los montos que se indican en la resolución extractada; y
+
+b) En su numeral 7.-, en el sentido de incorporar en su literal b), a continuación del punto y coma que pasa a ser punto seguido, la siguiente oración final: "Sin perjuicio de lo anterior, las embarcaciones autorizadas a participar en la presente pesca de investigación podrán desembarcar en los puertos habilitados de la XIV Región, previa aplicación del protocolo de desembarque que para estos efectos establezca el Servicio Nacional de Pesca;".
+
+Valparaíso, 16 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
