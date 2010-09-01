@@ -76,11 +76,9 @@ Las pensiones provenientes del sistema establecido en el decreto ley N° 3.500, 
 
 En el inciso tercero del artículo 1° del decreto ley N° 2.628, de 1979, reemplázase la coma (,) que antecede al guarismo "75%" por la conjunción "y" y suprímense las expresiones "70%", "65% y 60%", "1° de Octubre de 1982; 1° de Abril de 1983 y 1° de Octubre de 1983".
 
-#### Artículo 7°
+#### Artículo 7º
 
-Establécese a contar del día 1° del mes siguiente al de la publicación de la presente ley, una sobretasa adicional de 10% a la venta de los productos a que se refieren los artículos 4° y 5° del decreto ley N° 828, de 1974, que se aplicará con sujeción a las mismas normas que rigen para los impuestos contenidos en los citados artículos.
-
-Facúltase al Presidente de la República para rebajar la sobretasa establecida en el inciso anterior, fijando el plazo de su vigencia, o derogarla.
+DEROGADO.
 
 #### Artículo 8°
 

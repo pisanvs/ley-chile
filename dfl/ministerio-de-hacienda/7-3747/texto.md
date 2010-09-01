@@ -20,7 +20,7 @@ Corresponde al Servicio de Impuestos Internos la aplicación y fiscalización de
 
 #### Artículo 2°
 
-Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional, por la Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
+Este Servicio depende del Ministerio de Hacienda y está constituido por la Dirección Nacional y su Dirección de Grandes Contribuyentes, ambas con sede en la capital de la República, y por las Direcciones Regionales.
 
 #### Artículo 3°
 
@@ -28,9 +28,11 @@ La Dirección Nacional estará constituida por los Departamentos Subdirecciones 
 
 > **Nota.** El artículo 1º transitorio de la LEY 19646, establece su vigencia a contar del 1º de enero de 1999.
 
-#### Artículo 3°bis
+#### Artículo 3° bis
 
-La Dirección de Grandes Contribuyentes tendrá competencia sobre todo el territorio nacional y ejercerá jurisdicción sobre los contribuyentes calificados como "Grandes Contribuyentes" por Resolución del Director, cualquiera fuere su domicilio.
+Sin perjuicio de la jurisdicción territorial de los Directores Regionales, la Dirección de Grandes Contribuyentes tendrá competencia sobre todo el territorio nacional y ejercerá jurisdicción sobre los contribuyentes calificados como "Grandes Contribuyentes" por Resolución del Director, cualquiera fuere su domicilio.
+
+Corresponderá al Director impartir las instrucciones que sean necesarias para evitar contiendas de competencia que pudieren producirse en la aplicación de este artículo.
 
 La Dirección de Grandes Contribuyentes tendrá rango de Subdirección.
 
@@ -142,7 +144,7 @@ Los Subdirectores son asesores del Director en las materias de su especialidad, 
 
 Actúan también como delegados del Director en la evaluación de los programas de trabajo y de su desarrollo, dentro de las respectivas áreas de su especialidad.
 
-Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entenderán conferidas todas las facultades que el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales, con excepción de las establecidas en los números 3° y 6° de la letra B) del artículo 6° del Código Tributario. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta Ley Orgánica queden sometidos a su jurisdicción.
+Con todo, al Subdirector de Fiscalización y al Director de Grandes Contribuyentes se les entienden conferidas todas las facultades que esta ley, el Código Tributario y otras disposiciones legales otorgan o les confieran en el futuro a los Directores Regionales, con excepción de la facultad de aplicar las multas a que se refieren los artículos 30; 97 excepto las de sus números 1, 2 y 11; 100; 101; 102; 103; 104, y 109, todos del Código Tributario. Al primero, respecto de todo el territorio del país, y al Director de Grandes Contribuyentes, respecto de aquellos contribuyentes que de conformidad a lo dispuesto en el artículo 3° bis de esta ley queden sometidos a su jurisdicción, conforme a las instrucciones del Director.
 
 #### Artículo 10°
 
