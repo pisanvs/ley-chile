@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.187, DE 2010
+
+Por resolución Nº 2.187, de 2010, del Ministerio de Transportes y Telecomunicaciones se resolvió aprobar el addendum al contrato de concesión de uso de vías en Rancagua para la prestación de servicios urbano de transporte público remunerado de pasajeros prestado con buses, suscrito con fecha 26 de mayo de 2010, entre el Ministerio de Transportes y Telecomunicaciones y la Asociación Gremial de Empresarios de Taxibuses Isabel Riquelme de Rancagua, cuyo texto se transcribe en la resolución y cuyas cláusulas se titulan: Aprueba addendum que indica. Primero: Antecedentes; segundo: Sobre las tarifas; tercero: Reajustabilidad; cuarta: Transferencias; quinto: Mantenimiento de las condiciones operacionales de los servicios; sexto: Acuerdo entre los conductores y concesionarios; séptimo: Incumplimientos; octavo: Personería; noveno: Ejemplares.-
+
+Felipe Morandé Lavín, Ministro de Transportes y Telecomunicaciones.
