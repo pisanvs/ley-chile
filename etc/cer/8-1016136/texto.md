@@ -10,7 +10,7 @@ Por consiguiente, el interés corriente que regirá desde la fecha de publicaci�
 
 1.a. Operaciones no reajustables en moneda nacional de menos de 90 días, inferiores o iguales al equivalente de 5.000 unidades de fomento: 11,98% anual.
 
-1.b. Operaciones no reajustables en moneda nacional de menos de 90 días, superiores al equivalente de 5.000 unidades de fomento: 2,44% anual. Esta tasa rige para los efectos del artículo 16 de la Ley 18.010 y otras leyes que se remiten a la tasa de interés corriente para operaciones no reajustables.
+1.b. Operaciones no reajustables en moneda nacional de menos de 90 días, superiores al equivalente de 5.000 unidades de fomento: 4,0% anual. Esta tasa rige para los efectos del artículo 16 de la Ley 18.010 y otras leyes que se remiten a la tasa de interés corriente para operaciones no reajustables.
 
 2.a. Operaciones no reajustables en moneda nacional de 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento: 33,74% anual.
 
@@ -32,7 +32,7 @@ En consecuencia, el interés máximo convencional para el mismo período será e
 
 1.a. Operaciones no reajustables en moneda nacional de menos de 90 días, inferiores o iguales al equivalente de 5.000 unidades de fomento: 17,97% anual.
 
-1.b. Operaciones no reajustables en moneda nacional de menos de 90 días, superiores al equivalente de 5.000 unidades de fomento: 3,66% anual. Esta tasa rige para las leyes que se remiten a la tasa de interés máxima convencional para operaciones no reajustables.
+1.b. Operaciones no reajustables en moneda nacional de menos de 90 días, superiores al equivalente de 5.000 unidades de fomento: 6,0% anual. Esta tasa rige para las leyes que se remiten a la tasa de interés máxima convencional para operaciones no reajustables.
 
 2.a. Operaciones no reajustables en moneda nacional de 90 días o más, inferiores o iguales al equivalente de 200 unidades de fomento: 50,61% anual.
 
