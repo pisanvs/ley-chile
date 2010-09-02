@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº928, de fecha 29 de julio de 2010, se expropiaron los lotes de terreno N°s 68 y 69, superficie 205 y 170 m2, respectivamente, rol Nº2564-1, comuna de Valdivia, para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 - Km. 3,59831", Provincia de Valdivia, XIV Región, Tramo 2" y se acordó el valor de la indemnización con su propietario PATRICIA DEL CARMEN CONCHA UTRERAS Y OTRA, ascendente a la cantidad de $54.468.049.-
+
+Fiscal del Ministerio de Obras Públicas.
