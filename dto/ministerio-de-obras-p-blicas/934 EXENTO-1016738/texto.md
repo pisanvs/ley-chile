@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 934, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 37, superficie 12 m2, rol Nº1349-10, comuna de Valdivia, para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 - Km. 3,59831", Provincia de Valdivia, XIV Región, Tramo 1" y se acordó el valor de la indemnización con su propietario GUSTAVO ALAN MENA DÍAZ o GUSTAVO MENA DÍAZ, ascendente a la cantidad de $8.931.888.-
+
+Fiscal del Ministerio de Obras Públicas.
