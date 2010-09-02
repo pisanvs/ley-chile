@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1010, de 30 de julio de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 6-A, para la obra: "Reposición Puente Malaguin y otros en Ruta C-495, Alto del Carmen, Provincia de Huasco, Región de Atacama, (Puente Valeriano), que figura a nombre de SUC. JOAQUIN VILLEGAS ARAYA, rol de avalúo EN TRAMITE, superficie 312 M2. La Comisión de Peritos, fijó con fecha 06 de mayo de 2009, en la cantidad de $1.200.200. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
