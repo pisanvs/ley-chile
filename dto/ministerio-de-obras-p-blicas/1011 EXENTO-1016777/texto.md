@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1011, de 30 de julio de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N° 25, para la obra: "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa I, Km. 29,00000 al Km. 37,80000", Comuna de Alto del Carmen, que figura a nombre de INV MARAN ATHA Y COMPANIA LIMITA, rol de avalúo 896-6, superficie 1.207 M2. La Comisión de Peritos, fijó con fecha 28 de febrero de 2007, en la cantidad de $3.067.750. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
