@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 927 de 29 de julio de 2010, se expropiaron los lotes de terrenos N°s. 6, 7-A y 8-A, superficies 2.312, 2.578 y 621 m2, rol de Avalúo N° 166-761, 166-765 y 166-764, respectivamente, comuna de Colina, para la obra "Camino Diagonal, Comuna de Colina, Provincia de Chacabuco, Región Metropolitana" y de conformidad a la cláusula tercera del Convenio Directo de Precio de 19 de enero de 2010, la expropiada, AGRICOLA VALLE NUEVO S.A., renunció a la indemnización.
+
+Fiscal del Ministerio de Obras Públicas.
