@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1063, de 30 de julio de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se modificó el Decreto Exento MOP Nº1947, de 10 de noviembre de 2009, para la ejecución de la obra: "Ampliación Reposición Ruta 5 Chiloé, Bif. Puente Bicentenario Bif. Pupelde, Tramo 1: Variante Chacao", Comuna de Ancud, Provincia de Chiloé, Xª Región, en el sentido de que el rol de avalúo correspondiente al lote Nº18-A, es el 1163-40, de la comuna de Ancud y el propietario según dicho rol de avalúo es STRAUSSMANN LAUBSCHER AUGUSTO OTTO. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
