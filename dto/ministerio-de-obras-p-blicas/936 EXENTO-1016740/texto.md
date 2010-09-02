@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 936, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 20-A, superficie 2.016 m2, Rol Nº158-204, comuna de Puerto Octay, X Región para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493, Provincia de Osorno, Comuna de Puerto Octay, Xª Región., y se acordó el valor de indemnización con su propietario ALFREDO ALAIN PATRI DIDIER, ascendente a la cantidad de $6.251.173.-
+
+Fiscal del Ministerio de Obras Públicas.
