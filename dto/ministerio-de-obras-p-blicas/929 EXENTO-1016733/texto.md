@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº929 de fecha 29 de julio de 2010, se expropió el lote de terreno Nº15-A, superficie 6.558 m2, rol Nº512-27, comuna de Copiapó, para la obra: "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By-Pass a Copiapó), Región de Atacama" y se acordó el valor de la indemnización con su propietario AGRICOLA E INVERSIONES DIAMANTE DE SAN JOSÉ LIMITADA, ascendente a la cantidad de $36.444.223.-
+
+Fiscal del Ministerio de Obras Públicas.
