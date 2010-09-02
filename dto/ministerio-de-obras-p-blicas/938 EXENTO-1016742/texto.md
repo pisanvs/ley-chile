@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 938, de fecha 29 de julio del 2010, se expropiaron los lotes de terreno N°s 6, 6-A1 y 6-B1, superficie 775, 4 y 8 m2 respectivamente, Rol Nº20-7, comuna de Chonchi, X Región para la obra "Construcción By Pass Chonchi extensión Calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región.", y se acordó el valor de indemnización con su propietario HUGO MARQUEZ MARQUEZ, ascendente a la cantidad de $7.108.211.-
+
+Fiscal del Ministerio de Obras Públicas.
