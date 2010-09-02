@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 940, de fecha 29 de julio del 2010, se expropió el lote de terreno N°119-A, superficie 1.495 m2, Rol N° 276-43, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 al Km. 17,34000", y se acordó el valor de indemnización con su propietaria AIDA DE LAS MERCEDES SEPULVEDA OLAVE, ascendente a la cantidad de $3.908.199.
+
+Fiscal del Ministerio de Obras Públicas.
