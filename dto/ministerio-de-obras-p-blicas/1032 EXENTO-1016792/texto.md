@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1032 de 30 de julio de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850, de 1997, que fijó el texto actualizado de la Ley Nº15.840, se modifica el numeral 1º del Decreto MOP Exento N° 835 de 25 de junio de 2010, en la parte que se indica la Provincia en que se encuentra el bien expropiado: donde dice: "...Provincia de Arauco..", debe decir: "..Provincia del Bío Bío..". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
