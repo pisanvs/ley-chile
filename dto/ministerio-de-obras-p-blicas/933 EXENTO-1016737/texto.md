@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 933, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 38-A, superficie 4.503 m2, Rol Nº158-162, comuna de Puerto Octay, X Región para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493, Provincia de Osorno, Comuna de Puerto Octay, Xª Región., y se acordó el valor de indemnización con su propietaria EDITH MARIA WOMPNER SIMON, ascendente a la cantidad de $9.456.587.-
+
+Fiscal del Ministerio de Obras Públicas.
