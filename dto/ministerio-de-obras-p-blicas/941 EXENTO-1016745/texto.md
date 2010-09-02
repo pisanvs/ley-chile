@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 941 de 29 de julio de 2010, se expropió el lote de terreno N°. 267-1, superficie 392 m2., rol de avalúo 151-243, comuna de Llay-Llay, para la obra "PROYECTO CAMINO INTERNACIONAL RUTA 60 CH. SECTOR 1: KM. 0.000,00 AL KM. 53.779,50. TRAMO 3: KM. 46.100,00 AL KM. 53.779,50". Quinta Región, se acordó el valor de la indemnización con su propietario ARMANDO VERA MIRANDA, ascendente a la cantidad de $1.825.749.-.
+
+Fiscal del Ministerio de Obras Públicas.
