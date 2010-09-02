@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 937, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 5, superficie 364 m2, Rol Nº20-89, comuna de Chonchi, X Región para la obra "Construcción By Pass Chonchi extensión Calle Sargento Candelaria, Comuna de Chonchi, Provincia de Chiloé, X Región.", y se acordó el valor de indemnización con su propietario JAIME BENJAMIN MACIAS MANSILLA, ascendente a la cantidad de $4.345.416.-
+
+Fiscal del Ministerio de Obras Públicas.
