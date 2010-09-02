@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 932 de 29 de julio de 2010, se expropió el lote de terreno N° 1, superficie 171 m2, rol de Avalúo 197-6, comuna de Hualqui, para la obra "CAMINO HUALQUI COPIULEMU, SECTOR PUENTE EL AGUILA, KM. 2,49479 A KM. 2,68629, VIII Región y se acordó el valor de la indemnización con su propietario don JULIA ROSA CONTRERAS AVENDAÑO, ascendente a la cantidad de $11.355.292.-
+
+Fiscal del Ministerio de Obras Públicas.
