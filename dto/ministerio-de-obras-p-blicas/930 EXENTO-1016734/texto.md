@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 930 de fecha 29 de julio de 2010, se expropiaron los lotes de terreno N°s. 7, 8 y 11, superficies 16, 9.797 y 11.033 m2, respectivamente, rol Nº185-3, comuna de San Nicolás, para la obra "Mejoramiento Ruta N-532, Cruce N-50-Puyaral-Pte. El Ala, Prov. Ñuble", Región de Bío Bío y se acordó el valor de la indemnización con su propietario EQUIPOS Y CONSTRUCCIONES CRUZ DEL SUR LTDA., ascendente a la cantidad de $14.325.879.-
+
+Fiscal del Ministerio de Obras Públicas.
