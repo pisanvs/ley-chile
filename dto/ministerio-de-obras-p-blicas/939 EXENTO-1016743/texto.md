@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 939, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 20-B, superficie 1.666 m2, Rol Nº158-205, comuna de Puerto Octay, X Región para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493, Provincia de Osorno, Comuna de Puerto Octay, Xª Región., y se acordó el valor de indemnización con su propietario HECTOR ALIRO VILLARROEL MANCILLA, ascendente a la cantidad de $5.221.455.-
+
+Fiscal del Ministerio de Obras Públicas.
