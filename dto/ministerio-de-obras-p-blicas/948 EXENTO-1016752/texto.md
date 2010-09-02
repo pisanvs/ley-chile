@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 948 de fecha 29 de julio de 2010, se expropió el lote de terreno N°22, superficie 49 m2, rol N°970-8, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" III Región y se acordó el valor de indemnización con su propietario ÓSCAR SEGUNDO PÁEZ OSSANDÓN Y OTROS, ascendente a la cantidad de $297.265.-
+
+Fiscal del Ministerio de Obras Públicas.
