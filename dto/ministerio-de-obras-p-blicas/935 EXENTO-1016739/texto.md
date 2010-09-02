@@ -1,0 +1,3 @@
+Por Decreto (exento) MOP N° 935, de fecha 29 de julio del 2010, se expropió el lote de terreno N° 104, superficie 108 m2, rol Nº2570-14, comuna de Valdivia, para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 - Km. 3,59831", Provincia de Valdivia, XIV Región, Tramo 3" y se acordó el valor de indemnización con su propietario GUISELA XIMENA REYES VICUÑA, ascendente a la cantidad de $8.013.900.-
+
+Fiscal del Ministerio de Obras Públicas.
