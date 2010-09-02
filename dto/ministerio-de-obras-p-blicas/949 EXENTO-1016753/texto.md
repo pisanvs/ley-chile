@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 949 de fecha 29 de julio del 2010, se expropió el lote de terreno N°9, superficie 36 m2, Rol N°444-327, comuna de Cauquenes, VII Región para la obra "Camino Cauquenes - Chanco NºRol M-50, Sector Tutuvén - Chanco, Tramo Km. 15,20000 a Km. 28,800000, y se acordó el valor de indemnización con su propietario NAYADE DEL CARMEN MUÑOZ YÁÑEZ, ascendente a la cantidad de $225.179.-
+
+Fiscal del Ministerio de Obras Públicas.
