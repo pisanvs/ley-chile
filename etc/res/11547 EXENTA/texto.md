@@ -34,16 +34,16 @@ i) Adultos mayores de escasos recursos, beneficiarios de los Programas del Servi
 
 j) Pueblos originarios beneficiarios de los Programas de la Corporación Nacional de Desarrollo Indigena (CONADI), personas pertenecientes a los pueblos originarios del país, favorecidas con las políticas de nuevo trato implementada por el Gobierno, destinadas a etnias aymará, atacameña, quechua, colla, rapa nui, mapuche, kawaskar y yagán.
 
-k) Personas del 40% más vulnerable de la población, según puntaje de Ficha Protección Social, bajo 11.735 puntos.
+k) Personas cesantes con itinerarios de formación definidos por Oficinas Municipales de Información Laboral.
 
-l) Personas cesantes con itinerarios de formación definidos por Oficinas Municipales de Información Laboral.
-
-m) Trabajadores temporeros que hayan participado en algún curso financiado por Franquicia Tributaria Sence.
+l) Trabajadores temporeros que hayan participado en algún curso financiado por Franquicia Tributaria Sence.
 
 2.- La condición de beneficiario deberá acreditarse mediante certificado del Ministerio o Servicio que administre el programa respectivo.
 
 3.- Lo anterior es sin perjuicio de la calidad de beneficiarios que otorga la ley a las personas discapacitadas, definidas como tales por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud, en los términos dispuestos en los artículos 7º y siguientes de la ley Nº 19.284.
 
 4.- Publíquese copia íntegra de la presente resolución en el Diario Oficial.
+
+> **Nota.** El Nº 1 de la Resolución 8074 Exenta, Servicio Nacional de Capacitación, publicado el 03.09.2010, modifica el Resuelvo Nº 1 de la presente norma en en el sentido de incorporar como grupos vulnerables para efectos de la celebración del contrato de capacitación, de acuerdo a lo señalado en el inciso sexto del artículo 33 de la Ley Nº19.518, hasta el 31 de diciembre de 2010, a) Personas del 60% más vulnerable de la población, según puntaje de la Ficha de Protección Social, bajo 11.735 puntos; y b) Pequeñas empresas beneficiarias de programas administrados por el Instituto de Desarrollo Agropecuario, el Servicio de Cooperación Técnica o la Corporación de Fomento de la Producción.
 
 Anótese, comuníquese y publíquese.- Fernando Rouliez Fleck, Director Nacional.
