@@ -70,17 +70,11 @@ NCh2670.Of.2001 Productos hidrobiológicos
 
 - Determinación de humedad.
 
-NCh9000.Of.2001 Sistemas de gestión de la calidad
-
-- Fundamentos y vocabulario.
+NCh9000.Of.2001 DEROGADO.
 
 NCh9001.Of.2001 ANULADA Y REEMPLAZADA
 
-NCh9004.Of.2001 Sistemas de gestión de la calidad
-
-- Directrices para la mejora del
-
-desempeño.
+NCh9004.Of.2001 DEROGADO.
 
 NCh2510.Of.2001 Tableros para instalaciones
 
