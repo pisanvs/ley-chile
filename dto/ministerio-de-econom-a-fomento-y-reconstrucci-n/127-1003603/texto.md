@@ -20,7 +20,7 @@ Suplente: Miguel Ángel Escobar Silva, RUT Nº8.052.982-1
 
 Titular: Domingo Jiménez Olmo, RUT Nº5.547.596-2
 
-Suplente: Kristian Jahn Toro, RUT Nº7.013.410-1
+Suplente: Oscar Fernando Uribe Díaz, Rut N° 6.378.169-K.
 
 3. Por la macrozona constituida por la V a IX Regiones e Islas Oceánicas:
 

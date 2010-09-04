@@ -34,7 +34,7 @@ b) Héctor Álvarez Alcayaga, RUT N° 7.126.973-6, en calidad de suplente.
 
 2. En representación de los Industriales de plantas procesadoras pesqueras:
 
-a) Óscar Fernando Uribe Díaz, RUT N° 6.378.169-K, en calidad de titular.
+a) Ángel Concha Sánchez, Rut N° 8.929.149-6, en calidad de titular.
 
 b) Hernán Díaz Reyes RUT, N° 7.410.759-3, en calidad de suplente.
 
