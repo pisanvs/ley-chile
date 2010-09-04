@@ -68,13 +68,13 @@ Brasil Norte-Av. España (Límite Comunal).
 
 b) Servicios desde y hacia la Ruta 68 Ch.
 
-Ruta 68 Ch. (Límite Comunal)-Av. Santos Ossa-Av. Argentina-Chacabuco-12 de Febrero-Av. Pedro Montt-Morris-Chacabuco-
+Ruta 68 Ch. (Límite Comunal) - Av. Santos
 
-Simón Bolívar-Av. Independencia-Av.
+Ossa - Av. Argentina - Chacabuco - Av.
 
-Argentina-Av. Santos Ossa-Ruta 68 Ch.
+Argentina - Av. Santos Ossa - Ruta 68 Ch.
 
-(Límite Comunal).
+(Límite Comunal)
 
 6º.- La presente resolución entrará en vigencia transcurridos 7 días de la fecha de su publicación en el Diario Oficial.
 
