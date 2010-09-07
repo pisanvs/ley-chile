@@ -40,7 +40,7 @@ Los miembros de la Comisión no percibirán honorarios ni remuneración alguna p
 
 #### Artículo 5º
 
-Institúyese como Día del Huaso el segundo viernes del mes de Octubre de cada año, debiendo programarse para este efecto clases alusivas sobre arte, ciencia y música nativas en los establecimientos educacionales del país. Las radiodifusoras y los canales de televisión difundirán ese día preferentemente música autóctona y charlas sobre cultura y folklore nacionales.
+Institúyese como Día del Huaso y de la Chilenidad el 17 de septiembre de cada año, debiendo programarse para este efecto clases alusivas sobre arte, ciencia y música nativas en los establecimientos educacionales del país. Las radiodifusoras y los canales de televisión difundirán ese día preferentemente música autóctona y charlas sobre cultura y folklore nacionales.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, publíquese y llévese a efecto como ley de la República.
 
