@@ -1,0 +1,7 @@
+Por resolución exenta Nº 05/2010 de fecha 31 de agosto de 2010, de la Dirección Zonal de Pesca de las Regiones V a IX e Islas Oceánicas, modifíquese el numeral 2º letras a) y b) de la resolución exenta Nº 831 de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el período comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2010, en el sentido de modificar las asignaciones para el recurso Anchoveta y Sardina común, correspondientes a las organizaciones artesanales: SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES, ARMADORES Y RAMAS AFINES DE LA PESCA ARTESANAL, SIPARMAR CORONEL, Registro Sindical Único Nº 08070271 y Asociación Gremial de Pescadores y Armadores Artesanales Pelágicos de la Región del Bío Bío, PESCAMAR AG., Registro de Asociaciones Gremiales Nº 450-8 de acuerdo con lo siguiente:
+
+a) Pesquería artesanal de Sardina común
+
+b) Pesquería artesanal de Anchoveta
+
+Concepción, 31 de agosto de 2010.- Sigisfredo Scheuermann G., Subsecretaría de Pesca.
