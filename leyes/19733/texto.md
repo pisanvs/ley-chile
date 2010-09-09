@@ -408,6 +408,12 @@ Intercálase en el número 2° del artículo 50 del Código Orgánico de Tribuna
 
 Derógase la ley N° 16.643, sobre Abusos de Publicidad, a excepción de su artículo 49.".
 
+#### Artículo transitorio
+
+Para efectos de lo establecido en el inciso segundo del artículo 4º de esta ley, durante el año 2010 podrán financiarse también, en las regiones declaradas zona de catástrofe con motivo del terremoto del 27 de febrero de 2010, la reconstrucción o reparación de infraestructura dañada de los medios de comunicación social, incluyendo equipos, instalaciones, antenas y bienes inmuebles donde éstos funcionen en forma permanente.
+
+En todas las regiones del país se podrá postular, además, al financiamiento de los proyectos de adquisición e instalación de grupos generadores electrógenos para los servicios de radiodifusión sonora.
+
 Habiéndose cumplido con lo establecido en el N° 1° del Artículo 82 de la Constitución Política de la República y por cuanto el Congreso Nacional ha aprobado algunas de las observaciones formuladas por el Ejecutivo y desechado otras; por tanto promúlguese y llévese a efecto como Ley de la República.
 
 Santiago, 18 de mayo de 2001.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Claudio Huepe García, Ministro Secretario General de Gobierno.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.- José Antonio Gómez Urrutia, Ministro de Justicia.
