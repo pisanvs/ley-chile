@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.656, de 31 de agosto de 2010, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 1.051, de 1989, Nº 981, de 1990 y Nº 344, de 2002, todas de esta Subsecretaría, que autorizaron a LUIS ALEJANDRO SEPÚLVEDA CRUZ, para realizar actividades pesqueras extractivas con la nave "Maribel II".
+
+Valparaíso, 31 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
