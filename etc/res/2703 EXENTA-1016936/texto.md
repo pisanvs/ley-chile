@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.703, de 2 de septiembre de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 1.735 de 2010, de esta Subsecretaría de Pesca que autorizó la distribución de 6.500 toneladas de jurel con cargo a la fracción establecida en la letra c) del artículo 4º del decreto exento Nº 442, de 2010, del Ministerio de Economía, Fomento y Turismo, en el sentido de reemplazar el inciso 1º del numeral 3º por el siguiente:
+
+"Podrán extraer la reserva antes señalada los armadores artesanales y sus embarcaciones inscritas en el Registro Nacional Pesquero Artesanal de la V a la IX Regiones, con anterioridad al 27 de febrero de 2010, no siendo requisito estar inscritos en la sección pesquería del recurso Jurel.".
+
+Valparaíso, 2 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
