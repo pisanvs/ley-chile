@@ -824,8 +824,6 @@ Normas Complementarias:
 
 - A los predios que enfrentan la acera oriente de la calle Güemes entre la Plaza Bombero Soto y la avenida Larraín, y a los predios que enfrenten la acera poniente de la calle Joaquín Godoy entre la Plaza Bombero Soto y la avenida Larraín, no se les exigirán antejardines, y el distanciamiento mínimo a medianero será el indicado en el artículo 2.6.3.- de la OGUC. Adicionalmente, a estos predios se les permitirán adosamientos desde la línea de edificación de acuerdo al artículo 2.6.2.- de la OGUC.
 
-> **Nota.** El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
-
 #### Artículo 24
 
 1.3 Zona A-2
@@ -984,8 +982,6 @@ Estudios de Impacto sobre el Sistema de
 
 Transporte Urbano, en su caso.
 
-> **Nota.** NOTA 1 El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
-
 #### Artículo 24
 
 4.2.- Zonas C-1, C-2 y C-3
@@ -1001,8 +997,6 @@ Normas Complementarias:
 subterráneo, se podrá aumentar el coeficiente de
 
 ocupación de suelo en 0.1.
-
-> **Nota.** NOTA 2 El numeral 1° del Decreto 1548, M. de la Reina, publicado el 22.08.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses los los permisos de subdivisión, loteos, urbanización predial y de edificación para el área comunal comprendida por las Zonas A1, B, C1 y C2 del Plan Regulador Comunal vigente de La Reina.
 
 #### Artículo 24
 
