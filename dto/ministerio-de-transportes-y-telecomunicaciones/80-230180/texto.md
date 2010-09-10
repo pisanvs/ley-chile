@@ -78,7 +78,7 @@ Las Secretarías Regionales podrán otorgar autorizaciones provisorias, tratánd
 
 Las autorizaciones que se otorguen podrán tener carácter general o especial. Las autorizaciones especiales se otorgarán respecto de vehículos inscritos en el registro a que se refiere el artículo 4º de este reglamento y habilitarán para la realización de transporte privado remunerado de pasajeros durante los períodos de vacaciones escolares.
 
-INCISO SEGUNDO DEROGADO.
+Excepcionalmente, los servicios que cuenten con autorización general vigente podrán solicitar un permiso particular para transportar personas menores de edad, el cual se otorgará sólo para viajes específicos y respecto de vehículos determinados, los que deberán cumplir con las exigencias establecidas en la letra d) del artículo 17 del presente reglamento. En todo lo demás, estos servicios deberán cumplir con las exigencias establecidas en el presente reglamento.
 
 #### Artículo 9º
 
@@ -202,7 +202,41 @@ b) Contar con ventanas a ambos costados del vehículo y todos los vidrios deber�
 
 c) En el caso de servicios interurbanos, los vehículos deberán contar, además, con un tacógrafo que registre, a lo menos, las variaciones de velocidad entre 0 y 120 km/h, el tiempo de marcha y detención y la distancia recorrida. Dichas funciones podrán ser efectuadas por equipos electrónicos de registro, los que deberán cumplir con las exigencias establecidas en la resolución Nº 137, de 1997, del Ministerio de Transportes y Telecomunicaciones. El responsable del servicio deberá mantener en su poder, por un plazo mínimo de 60 días, los documentos registradores o los archivos computacionales con la información recolectada del vehículo, los que deberán estar a disposición de Carabineros e inspectores municipales y fiscales. Este requisito no será aplicable a los vehículos señalados en los incisos segundo, tercero y cuarto del artículo 16º, ni a los vehículos inscritos en el Registro Nacional de Transporte Escolar, que presten servicios de transporte privado remunerado de pasajeros con la correspondiente autorización especial.
 
-d) DEROGADA.
+d) Tratándose de servicios de transporte privado que cuenten con un permiso particular para el transporte de menores, los vehículos deberán cumplir, además, con las siguientes exigencias:
+
+i. Ser de cilindrada igual o superior a 1.400 cc.;
+
+ii. Tener un ancho externo total de la carrocería (sin incluir parachoques) igual o superior a 1.600 mm.;
+
+iii. Contar con un pasillo despejado que permita el acceso desde la(s) puerta(s) hacia todas las corridas de asientos, el que deberá tener un ancho mínimo de 28 cm, salvo en la zona contigua a aquellos asientos a los que se accede directamente desde la(s) puerta(s);
+
+iv. Contar con asientos dispuestos de manera que sus ocupantes miren hacia el frente;
+
+v. Contar con asientos con un respaldo de altura igual o superior a treinta y cinco centímetros (35 cm.), medida desde el plano horizontal del asiento, y;
+
+vi. En caso de vehículos de peso bruto vehicular inferior a 3.860 kilogramos, éstos deberán tener una antigüedad máxima de acuerdo a lo que se indica en el siguiente calendario:
+
+Entrada
+
+en Regiones I y Otras
+
+vigencia Región Metropolitana XII regiones
+
+Sin sello Con sello Todos los Todos los
+
+verde verde vehículos vehículos
+
+1 de enero
+
+de 2004 14 años 13 años 18 años 14 años
+
+1 de enero
+
+de 2005 11 años 12 años 18 años 12 años
+
+1 de enero
+
+de 2006 10 años 12 años 16 años 12 años
 
 Sin perjuicio de las antigüedades máximas establecidas en el presente artículo, los buses del tipo "Pullman", definidos en la resolución Nº 98, de 1986, del Ministerio de Transportes y Telecomunicaciones, podrán tener una antigüedad máxima igual a la establecida para los vehículos de este tipo que prestan servicios de transporte público interurbano de pasajeros.
 
