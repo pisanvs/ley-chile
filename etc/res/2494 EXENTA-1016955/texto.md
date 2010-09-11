@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.494, de 18 de agosto de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 3477 de 2009, modificada mediante resoluciones exentas Nº 4141 de 2009, Nº 1812 y Nº 2041, de 2010, todas de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección para la pesquería de reineta (Brama australis), en aguas exteriores de la X Región", en el sentido de reemplazar en el inciso 1º del numeral 4º, la expresión "70 embarcaciones artesanales" por "90 embarcaciones artesanales".
+
+Valparaíso, 18 de agosto de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
