@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.739, de 7 de septiembre de 2010, de esta Subsecretaría, modifícase la Resolución Exenta Nº 2.477, de 2010, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería artesanal de Merluza común (Merluccius gayi gayi), durante el período de veda biológica, 2010", en el sentido de reemplazar el inciso final del numeral 5º por el siguiente:
+
+"Las capturas de la VII Región Sur se imputarán a la cuota reservada a ser extraída con fines de investigación de la cuota global anual de captura de Merluza común establecida mediante Decreto Exento Nº 1.925, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, con un límite de 500 toneladas".
+
+Valparaíso, 7 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
