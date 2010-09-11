@@ -354,23 +354,7 @@ Placa única : BSFS.50-5
 
 FISCALÍA LOCAL DE MAIPÚ
 
-Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano Pick Up 2.5
-
-Color : Plateado metálico
-
-Año : 2008
-
-Nº motor : YD25250888A
-
-Nº chasis : JN1CPGD22U0078716
-
-I.R.N.V.M. : BKLX.98-5
-
-Placa única : BKLX.98-5
+DEROGADO.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Edmundo Pérez Yoma, Ministro del Interior.
 
