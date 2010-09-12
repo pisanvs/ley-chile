@@ -1,0 +1,35 @@
+AUTORIZA USO Y CIRCULACIÓN DE VEHÍCULO DE LA CORPORACIÓN DE ASISTENCIA JUDICIAL DE LA REGIÓN METROPOLITANA, EN LOS TÉRMINOS QUE INDICA
+
+Santiago, 3 de agosto de 2010.- Hoy se decretó lo que sigue:
+
+Núm. 4.292 exento.- Vistos: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto supremo Nº 100, de 2005, del Ministerio Secretaría General de la Presidencia; la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº 1-19.653 de 2001; el decreto ley Nº 3.346, que fija el texto de la Ley Orgánica del Ministerio de Justicia y el decreto supremo Nº 1.597 que fija el Reglamento Orgánico, ambos de 1980 y de esta Secretaría de Estado; la ley Nº17.995, de 1981 que concede personalidad jurídica a los servicios de Asistencia Jurídica que se indican en las regiones que se señalan; el decreto (DFL) Nº 995, de 1981 del Ministerio de Justicia, que aprueba estatutos por los cuales se regirá la "Corporación de Asistencia Judicial de la Región Metropolitana de Santiago"; el decreto ley Nº 799, de 1974, del Ministerio del Interior, que deroga ley Nº 17.054 y dicta en su reemplazo disposiciones que regulan uso y circulación de vehículos estatales; el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia, que faculta a los Ministros de Estado para firmar "Por orden del Presidente de la República"; el oficio circular Nº 26, de 15 de abril de 2003, de los Ministros de Hacienda y del Interior; la circular Nº 35.593 de 1995, de la Contraloría General de la República; la resolución DG (E) Nº 1.873/08, de 2008, de la Directora General de la Corporación de Asistencia Judicial R.M.; la resolución DG (E) Nº 2.855/08, de 2008, de la Directora General de la Corporación de Asistencia Judicial R.M.; la resolución DG (E) Nº 5.508/09, de 2009, de la Directora General de la Corporación de Asistencia Judicial R.M.; el Acta de Sesión Extraordinaria del Consejo Directivo de la Corporación de Asistencia Judicial de la Región Metropolitana, de 22 de abril de 2010, reducida a escritura pública de la misma fecha, y la resolución Nº 1.600 de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1.- Que, la Corporación de Asistencia Judicial de la Región Metropolitana de Santiago, creada en conformidad con lo dispuesto en la letra ñ) del artículo 12 de la ley Nº 4.409 y reglamentada en el Título V del decreto supremo del Ministerio de Justicia Nº 1.450, de 15 de abril de 1935, y a la cual se le concedió personalidad jurídica en virtud de la ley Nº 17.995, de 1981, es una entidad con patrimonio propio, cuya finalidad es prestar asistencia jurídica y judicial gratuita a personas de escasos recursos y proporcionar los medios para efectuar la práctica necesaria para el ejercicio de la profesión a los postulantes a obtener el título de abogado.
+
+2.- Que, de acuerdo a lo dispuesto por el artículo 18° del decreto (DFL) Nº 995 de 1981, del Ministerio de Justicia, "Un funcionario, con título de Abogado, desempeñará el cargo de Director General de la Corporación", quien tendrá a su cargo la administración inmediata y directa de la Corporación, con los deberes y atribuciones que se singularizan en el artículo 19º del mencionado cuerpo normativo.
+
+3.- Que, don Claudio Valdivia Rivas fue designado como Director General Titular de la Corporación de Asistencia Judicial de la Región Metropolitana, según consta en Acta de Sesión del Consejo Directivo de dicha Corporación, de fecha 22 de abril de 2010, instrumento reducido a escritura pública con la misma fecha, ante el Notario Público Titular de la Undécima Notaría de Santiago, don Álvaro Bianchi Rosas.
+
+4.- Que en el patrimonio de la mencionada Corporación, se encuentra el vehículo que se individualiza en la parte resolutiva de este decreto, el cual fue adquirido a través de Convenio Marco, por orden de compra Nº 147710265-CM08, el día 27 de mayo de 2008, con el objeto de ser utilizado por la Directora General de la Corporación de Asistencia Judicial de la Región Metropolitana de la época, Sra. Alejandra Krauss Valle.
+
+5.- Que, el artículo 2º del decreto ley Nº 799 de 1974, establece que "sólo tendrán derecho a uso de vehículos para el desempeño de las funciones inherentes a sus cargos, los funcionarios de servicios públicos que mediante decreto supremo, firmado, además, por el Ministro del Interior, estén autorizados para ello.".
+
+6.- Que, sin perjuicio de lo mencionado precedentemente, el Órgano de Control a través de su invariable jurisprudencia administrativa, ha manifestado que es dable el transporte de funcionarios, entre sus domicilios y el lugar habitual de su trabajo, únicamente en la medida en que existan instrucciones precisas, emanadas de la autoridad superior y en las que conste la necesidad de efectuar aquel transporte como un elemento indispensable que, ya sea en forma mediata o inmediata, contribuya al normal desarrollo de los cometidos orgánicos de la institución, cuyo es el caso.
+
+7.- Que, en consecuencia, se debe dictar el respectivo acto administrativo que asigne el vehículo mencionado en el considerando 4, al Director General de la Corporación de Asistencia Judicial. Por tanto,
+
+Decreto:
+
+1.- Autorízase al Sr. Claudio Valdivia Rivas Director General de la Corporación de Asistencia Judicial de la Región Metropolitana, para que haga uso del automóvil marca Toyota, modelo Avensis, año 2008, color gris oscuro metálico, motor Nº1AZH032070, chasis Nº SB1BH55L38E114398, placa patente BSYC 85-3, para el desempeño de las funciones inherentes a su cargo.
+
+2.- Autorízase excepcionalmente la circulación del vehículo individualizado precedentemente, los días sábado en la tarde, domingo y festivos, sin restricción horaria, con el solo objeto de dar cumplimiento a las funciones propias del cargo.
+
+3.- Autorízase el traslado del Sr. Claudio Valdivia Rivas desde su domicilio particular hacia su lugar de trabajo y viceversa, por considerarse un elemento indispensable para el desarrollo de los cometidos orgánicos de la institución.
+
+4.- A fin de dar cumplimiento a lo dispuesto por el artículo 6º del decreto ley Nº 799, de 1974, del Ministerio del Interior y a la Circular Nº 35.593 de 1993 de la Contraloría General de la República, el mencionado Director General de la Corporación de Asistencia Judicial de la Región Metropolitana, deberá precisar por los medios ordinarios y en forma escrita, el o los funcionarios autorizados para conducir de modo habitual el vehículo individualizado, y el o los lugares en que los vehículos deban dejarse al término de la jornada de trabajo, debiendo establecer los controles internos y resguardos que procedan.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Bulnes Serrano, Ministro de Justicia.- Rodrigo Hinzpeter Kirberg, Ministro del Interior.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Patricia Pérez Goldberg, Subsecretaria de Justicia.
