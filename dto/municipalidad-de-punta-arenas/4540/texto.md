@@ -86,7 +86,7 @@ Las actuales actividades comerciales que se realizan en la Plaza Gobernador Benj
 
 #### Artículo Transitorio
 
-Las actividades artesanales que se autoricen en la Plaza Gobernador Benjamín Muñoz Gamero, sólo podrán realizarse hasta el mes de agosto de 2010, priorizando a los asignatarios de carros de exhibición y venta de productos artesanales y, una vez asignados la totalidad de estos, considerar excepcionalmente el desarrollo de estas actividades sin el uso de los mencionados carros.
+Las actividades artesanales que se autoricen en la Plaza Gobernador Benjamín Muñoz Gamero, podrán realizarse hasta que el municipio disponga del Centro Artesanal que se espera esté finalizando a mediados del año 2011, priorizando a los asignatarios de carros de exhibición y venta de productos artesanales y, una vez asignados la totalidad de estos, considerar excepcionalmente el desarrollo de estas actividades sin el uso de los mencionados carros.
 
 2.- Procédase por el Departamento de Comunicaciones a tramitar la publicación del presente decreto alcaldicio.
 
