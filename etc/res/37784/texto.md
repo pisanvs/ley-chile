@@ -234,7 +234,7 @@ De las sesiones del Consejo Directivo
 
 El Consejo Directivo de la Academia Judicial se puede reunir en forma ordinaria o extraordinaria.
 
-Las sesiones ordinarias se celebrarán quincenalmente, en el día y hora que determine anualmente el propio Consejo en su primera sesión y ellas se desarrollarán, en lo posible, de acuerdo a la siguiente pauta:
+Las sesiones ordinarias se celebrarán a lo menos, una vez al mes, en el día y hora que determine anualmente el propio Consejo en su primera sesión y ellas se desarrollarán, en lo posible, de acuerdo a la siguiente pauta:
 
 a)acta de la sesión anterior;
 
@@ -243,6 +243,8 @@ b)cuenta;
 c) tabla, en la que se incluirán todas aquellas materias que requieran un pronunciamiento por parte del Consejo; y
 
 d) incidentes y materias varias no consideradas en la tabla.
+
+En las sesiones ordinarias, el Consejo Directivo sólo se abocará a tratar o discutir temas específicos, relacionados con las políticas públicas de capacitación para el Poder Judicial. Los temas administrativos o de mero trámite, se resolverán directamente por el Director, con aprobación del Presidente del Consejo Directivo.
 
 #### Artículo 19°
 
@@ -414,11 +416,11 @@ b) Etapa de examinación, en la cual los postulantes preseleccionados deberán s
 
 c) Etapa de entrevista personal a la que serán convocados los postulantes examinados de acuerdo al proceso que, al efecto, determine el Consejo Directivo de la Academia Judicial.
 
-En caso que un candidato no pudiere presentarse a alguno o a todos los exámenes señalados, deberá justificarlo en forma fehaciente ante el Director de la Academia, quien determinará prudencialmente la conveniencia de un segundo examen.
+INCISO ELIMINADO.
 
 #### Artículo 34°
 
-El resultado del proceso de selección será comunicado a los candidatos mediante una publicación que se realizará en la página web de la Academia Judicial, dentro de los diez días siguientes a la fecha de cierre del respectivo proceso. Dicho resultado no será susceptible de recurso alguno.
+Se publicará en la página web de la Academia Judicial la nómina de postulantes citados a cada una de las etapas del proceso y, al término de éste, la nómina de alumnos seleccionados. Los postulantes podrán solicitar, vía correo electrónico, las evaluaciones que hubieren obtenido en cada uno de sus exámenes rendidos.
 
 #### Artículo 35°
 
@@ -464,7 +466,7 @@ del Poder Judicial
 
 #### Artículo 40°
 
-El plazo para postular a los cursos del programa de perfeccionamiento vencerá el 6 de febrero de cada año.
+El plazo para postular a los cursos del programa de perfeccionamiento vencerá el 6 de noviembre de cada año.
 
 Los funcionarios que deseen participar en dichos cursos deberán expresarlo por escrito, en comunicación dirigida al Director de la Academia, señalando con claridad y precisión el nombre de los cursos por los cuales se interesen, sus antecedentes personales (nombre, domicilio, tribunal en el que laboran) y el Escalafón y categoría en que se encuentran ubicados. La Academia podrá establecer un número mínimo de cursos a los que se debe postular.
 
@@ -472,7 +474,7 @@ En caso de existir más postulantes que cupos, el orden de prioridad quedará de
 
 #### Artículo 41°
 
-La Academia comunicará a la Corte Suprema, a más tardar el día 15 de marzo de cada año, la nómina de funcionarios aceptados en cada curso, para los efectos de las comisiones de servicio que procedan.
+La Academia comunicará a la Corte Suprema, a más tardar el día 31 de diciembre de cada año, la nómina de funcionarios aceptados en cada curso, para los efectos de las comisiones de servicio que procedan.
 
 ## Título VIII
 
