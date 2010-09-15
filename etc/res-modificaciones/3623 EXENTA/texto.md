@@ -1,0 +1,3 @@
+DEROGA CALIDAD DE AGENTE RETENEDOR A COOPERATIVA AGRÍCOLA Y DE SERVICIO LTDA.
+
+La Décima Dirección Regional de Puerto Montt, del Servicio Impuestos Internos, por resolución Ex. Nº 3.623 de fecha 30 de agosto de 2010, deroga a contar del 1º del mes siguiente de esta publicación, al contribuyente Cooperativa Agrícola y de Servicio Ltda., RUT Nº 82.392.600-6, la derogación de Agente Retenedor del Impuesto al Valor Agregado en la Actividad de Venta de Harina, establecido en la resolución exenta Nº 5.282 del 30 de noviembre de 2000 de la Dirección Nacional del SII.
