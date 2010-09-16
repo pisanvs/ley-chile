@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1076, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº19, superficie 331 m2, Rol Nº217-146, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta L-25, S: CR. Ruta L 11 CR. Ruta L-19 (Esperanza) Km. 0,00000 al Km. 11,28600, Comunas Yerbas Buenas, San Javier y Villa Alegre, Provincia de Linares, VII Región. y se acordó el valor de indemnización con su propietario MAURICIO ALEJANDRO ORELLANA ALCÁNTAR, ascendente a la cantidad de $1.226.079.-
+
+Fiscal del Ministerio de Obras Públicas.
