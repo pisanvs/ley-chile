@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1155 de 30 de agosto de 2010, se expropió el lote de terreno Nº53-A, superficie 226 m2., Rol Nº280-45, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000 , y se acordó el valor de indemnización con su propietaria FIDELINA ARELLANO ROJAS Y OTROS, ascendente a la cantidad de $1.115.697.-
+
+Fiscal del Ministerio de Obras Públicas.
