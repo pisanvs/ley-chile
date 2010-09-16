@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1041, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº8, superficie 571 m2, Rol Nº552-304, comuna de Linares, VII Región para la obra "Construcción Sistema de Regadío Ancoa, Camino de Acceso", Comunas de Colbún y Linares, Provincia de Linares, VII Región.", y se acordó el valor de indemnización con su propietario DAGOBERTO ANTONIO RETAMAL ESPINOZA, ascendente a la cantidad de $1.927.930.-
+
+Fiscal del Ministerio de Obras Públicas.
