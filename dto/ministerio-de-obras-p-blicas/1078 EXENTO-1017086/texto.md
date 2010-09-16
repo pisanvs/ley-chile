@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1078, de fecha 30 de julio del 2010, se expropiaron los lotes de terreno Nºs 2 y 2-A, superficie 365 y 628 m2 respectivamente, Rol Nº15-862, comuna de María Pinto, Región Metropolitana, para la obra "Camino Ruta G-758, Sector Puentes Ranchillo Pichiranchillo, Tramo Km. 0,00000 a Km. 0,50749", Comuna de María Pinto, Provincia de Melipilla, Región Metropolitana., y se acordó el valor de indemnización con su propietario SOCIEDAD AGRICOLA EL RANCHILLO UNO LIMITADA, ascendente a la cantidad de $3.128.429.-
+
+Fiscal del Ministerio de Obras Públicas.
