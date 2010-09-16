@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1085 de fecha 30 de julio del 2010, se expropió el lote de terreno Nº. 23-A, superficie 339 m2., Rol Nº30-325, comuna de Placilla, VI Región, para la obra "CAMINO: AMPLIACION REPOSICION RUTA I-50, SECTOR SAN FERNANDO CRUCE RUTA I-860, TRAMO 0,00000 AL KM. 35,78646" y se acordó el valor de indemnización con su propietaria EDITH OÑATE POBLETE, ascendente a la cantidad de $5.656.678.-
+
+Fiscal del Ministerio de Obras Públicas.
