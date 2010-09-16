@@ -106,7 +106,7 @@ Las embarcaciones que excedan el porcentaje autorizado quedarán excluidas del b
 
 <!-- parte:8904121 -->
 
-Se descontará de la cuota global de captura de Jurel que se establezca para el año 2011, las toneladas efectivamente extraídas con cargo a la reserva autorizada en el presente decreto.
+La reserva autorizada mediante el presente decreto se descontará de la cuota global anual de captura de Jurel de la V a la IX Regiones que se establezca para el año 2011. Las toneladas de la reserva que no hayan sido extraídas durante el presente año calendario, podrán ser extraídas durante el año 2011.
 
 #### Artículo 7º
 
