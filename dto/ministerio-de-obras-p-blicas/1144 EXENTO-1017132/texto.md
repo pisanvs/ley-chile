@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1144 de fecha 30 de agosto del 2010, se expropió el lote de terreno Nº9, superficie 98 m2, Rol Nº209-55, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata" Región del Bío Bío", y se acordó el valor de indemnización con su propietario ROBERTO MAASS RAMIREZ, ascendente a la cantidad de $997.491.-
+
+Fiscal del Ministerio de Obras Públicas.
