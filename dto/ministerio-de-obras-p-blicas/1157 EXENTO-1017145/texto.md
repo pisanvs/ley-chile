@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1157, de fecha 30 de agosto de 2010, se expropiaron los lotes de terreno Nºs 34 y 36, superficie 380 y 632 m2 respectivamente, Rol Nº118-1, comuna de San Pablo, X Región para la obra "Mejoramiento Camino Ruta U-16, Sector Osorno Bifurcación Quilacahuin, Tramo Km. 5,36000 al Km. 12,50000, Provincia de Osorno, X Región", y se acordó el valor de indemnización con su propietaria CARMEN GLORIA SOTOMAYOR DE LA FUENTE, ascendente a la cantidad de $760.448.-
+
+Fiscal del Ministerio de Obras Públicas.
