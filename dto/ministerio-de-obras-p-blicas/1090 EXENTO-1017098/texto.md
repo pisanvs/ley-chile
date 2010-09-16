@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1090 de 30 de julio del 2010, se expropió el lote de terreno Nº73-B, superficie 507 m2., Rol Nº139-63, comuna de Vichuquen, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTEN VICHUQUEN TRAMO KM. 0,000000 AL KM. 15,372989", y se acordó el valor de indemnización con su propietaria DANIELA PATRICIA BALDERRAMA ANIÑIR, ascendente a la cantidad de $668.763.-
+
+Fiscal del Ministerio de Obras Públicas.
