@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1156, de fecha 30 de agosto del 2010, se expropió el lote de terreno Nº51-B, superficie 2.056 m2, Rol Nº212-68, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata, Región del Bío Bío", y se acordó el valor de indemnización con su propietaria ROSA ALICIA AGUILERA ROJAS Y OTRAS, ascendente a la cantidad de $1.407.206.-
+
+Fiscal del Ministerio de Obras Públicas.
