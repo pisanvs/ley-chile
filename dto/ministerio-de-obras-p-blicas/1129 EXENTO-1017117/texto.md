@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1129, de 30 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº7, para la obra: "Reposición Ruta 11 - CH, Arica Tambo Quemado, Kilometro 147,76000 al kilometro 170,17141". Provincia de Parinacota, Comuna de Putre, XV Región Arica y Parinacota", que figura a nombre de HUANCA BUENAVENTURA, rol de avalúo 4120-12, superficie 144.578 M2. La Comisión de Peritos, fijó con fecha 29 de mayo de 2009, en la cantidad de $98.788.300. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
