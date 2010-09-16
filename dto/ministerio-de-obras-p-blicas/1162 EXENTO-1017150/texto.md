@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1162 de fecha 30 de agosto de 2010, se expropiaron los lotes de terreno Nºs 1 y 2, superficies 1.381 y 656 m2 respectivamente, Rol Nº537-20, comuna de Combarbalá, para la obra "Camino La Ligua Cementerio de Cogotí, 64E697", IV Región y se acordó el valor de la indemnización con su propietario COMUNIDAD FERNÁNDEZ Y VELIZ., ascendente a la cantidad de $1.892.447.-
+
+Fiscal del Ministerio de Obras Públicas.
