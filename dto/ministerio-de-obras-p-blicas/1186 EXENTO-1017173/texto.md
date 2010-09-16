@@ -1,0 +1,3 @@
+Decreto Exento MOP. Nº1186, de 30 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº30, para la obra: "Mejoramiento Ruta 203-CH, Sector Puente Rucatrehua Choshuenco, Tramo Km. 75,84488 al Km. 93,28612, Comuna de Panguipulli", Provincia de Valdivia, XIVª Región, que figura a nombre de AGRICOLA FORESTAL Y GANADERA PAILLA, rol de avalúo 204-17, superficie 69 M2. La Comisión de Peritos, fijó con fecha 06 de noviembre de 2008, en la cantidad de $65.400. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
