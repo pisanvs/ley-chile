@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1159 de 30 de agosto de 2010, se expropió el lote de terreno Nº86-B, superficie 2.178 m2., Rol Nº283-33, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria SILVIA ROSA ORTEGA SAAVEDRA, ascendente a la cantidad de $3.912.599.-
+
+Fiscal del Ministerio de Obras Públicas.
