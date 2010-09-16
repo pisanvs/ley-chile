@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1163, de fecha 30 de agosto del 2010, se expropiaron los lotes de terreno Nºs. 113, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124 y 125, superficies 3.145, 128, 1.934, 781, 124, 24, 1.730, 138, 729, 571, 5.076 y 2.003 m2, respectivamente Rol Nº176-7, comuna de Arauco, VIII Región para la obra "Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío, y se acordó el valor de indemnización con su propietario EMPRESA SILVICULTURAL PINARES DE ARAUCO LIMITADA, ascendente a la cantidad de $9.502.722.-
+
+Fiscal del Ministerio de Obras Públicas.
