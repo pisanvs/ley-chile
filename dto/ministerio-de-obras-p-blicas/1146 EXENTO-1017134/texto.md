@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1146 de fecha 30 de agosto de 2010, se expropiaron los lotes de terreno Nºs 1 y 1-A, superficies 17 y 28 m2 respectivamente, rol Nº977-1, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" III Región y se acordó el valor de la indemnización con su propietario FRUTERA EUROAMERICA S.A., ascendente a la cantidad de $1.223.841.-
+
+Fiscal del Ministerio de Obras Públicas.
