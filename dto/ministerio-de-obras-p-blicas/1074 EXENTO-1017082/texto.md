@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1074 de 30 de julio de 2010, se expropió el lote de terreno Nº1, superficie 30 m2, Rol NºEn tramite, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, SECTOR ALTO DEL CARMEN EL TRANSITO (VARIANTE LOS PERALES)" KM. 19,80000 AL KM. 19,90000, PROVINCIA DE HUASCO, REGION DE ATACAMA y se acordó el valor de indemnización con don GALVIN DEL ROSARIO VILLEGAS VILLEGAS, ascendente a la cantidad de $486.000.-
+
+Fiscal del Ministerio de Obras Públicas.
