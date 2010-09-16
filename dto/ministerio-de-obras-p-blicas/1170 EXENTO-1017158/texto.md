@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1170, de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº16, superficie 3.173 m2, Rol Nº1166-2, comuna de Ancud, X Región para la obra "Ampliación Reposición Ruta 5 Chiloé, Bif. Puente Bicentenario Bif. Pupelde, Tramo - 1: Variante Chacao", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos., y se acordó el valor de indemnización con su propietario CESAR RUBÉN VERA BARRIA Y OTROS, ascendente a la cantidad de $17.458.029.-
+
+Fiscal del Ministerio de Obras Públicas.
