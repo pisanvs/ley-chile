@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1091, de fecha 30 de julio de 2010, se expropió el lote de terreno Nº10-G, superficie 59,18 m2, Rol Nº154-261, comuna de Petorca, V Región para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna y Provincia de Petorca, V Región.", y se acordó el valor de indemnización con su propietario JOSÉ HUGO BRUNA LEIVA, ascendente a la cantidad de $481.664.-
+
+Fiscal del Ministerio de Obras Públicas.
