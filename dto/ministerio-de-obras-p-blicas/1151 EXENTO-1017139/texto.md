@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1151, de fecha 30 de agosto del 2010, se expropió el lote de terreno Nº100-A, superficie 34 m2, Rol Nº170-178, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío", y se acordó el valor de indemnización con su propietario RODRIGO PATRICIO FERRER SMITH, ascendente a la cantidad de $473.969.-
+
+Fiscal del Ministerio de Obras Públicas.
