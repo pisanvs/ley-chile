@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1092, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº131-A, superficie 71 m2, Rol Nº166-97, comuna de Cobquecura, VIII Región para la obra "Camino Ruta N-102-M, Sector Cobquecura Límite Regional, Tramo I, Km. 6,34000 al Km. 10,50000, Región del Bío Bío", y se acordó el valor de indemnización con su propietario MARCOS ANDRÉS MEERSOHN FERRER, ascendente a la cantidad de $270.636.-
+
+Fiscal del Ministerio de Obras Públicas.
