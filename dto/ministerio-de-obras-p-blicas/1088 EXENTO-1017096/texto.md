@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1088, de fecha 30 de julio de 2010, se expropiaron los lotes de terreno Nºs 23 y 24, superficie 200 y 246 m2 respectivamente, Rol Nº219-190, comuna de Florida, VIII Región para la obra "Reposición Ruta 148, S: Quillón Agua de La Gloria (por tramos), Km. 42,10000 al Km. 57,80000, Región del Bío Bío.", y se acordó el valor de indemnización con su propietario EVARISTO TOMAS CONTRERAS DURAN, ascendente a la cantidad de $1.258.391.-
+
+Fiscal del Ministerio de Obras Públicas.
