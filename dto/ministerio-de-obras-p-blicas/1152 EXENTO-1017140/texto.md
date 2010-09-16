@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1152 de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº37, superficie 81 m2, Rol Nº18-95, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D - 595, Ovalle Hurtado, Sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietaria LUMINANDA DEL CARMEN LEÓN VALDIVIA., ascendente a la cantidad de $490.626.-
+
+Fiscal del Ministerio de Obras Públicas.
