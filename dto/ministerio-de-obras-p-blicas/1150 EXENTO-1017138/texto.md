@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1150 de fecha 30 de agosto del 2010, se expropió el lote de terreno Nº13, superficie 59 m2, Rol Nº598-60, comuna de Santa Cruz, VI Región para la obra "Mejoramiento Ruta I-710 Bifurcación I-50- Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región" y se acordó el valor de indemnización con su propietaria LUZ BEATRIZ PARRAGUEZ CASTRO ascendente a la cantidad de $518.255.-
+
+Fiscal del Ministerio de Obras Públicas.
