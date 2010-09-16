@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1148 de 30 de agosto de 2010, se expropió el lote de terreno Nº18, superficie 331 m2., rol de Avalúo Nº217-145, comuna de San Javier, para la obra "MEJORAMIENTO RUTA L-25, S: CR. RUTA L-11 CR. RUTA L-19 (ESPERANZA) KM. 0,00000 AL KM. 11,28600", COMUNAS YERBAS BUENAS, SAN JAVIER, VILLA ALEGRE, PROVINCIA LINARES, VII REGIÓN y se acordó el valor de la indemnización con su propietaria MARIA INES ORELLANA ALCANTAR, ascendente a la cantidad de $1.403.231.-
+
+Fiscal del Ministerio de Obras Públicas.
