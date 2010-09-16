@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1084, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº80, superficie 618 m2, Rol Nº3251-330, comuna de Temuco, Región de La Araucanía para la obra "Camino Ruta S-30, Sector Temuco Labranza Km. 4,61500 a Km. 11,68000, Comuna de Temuco, Provincia de Cautín, Región de La Araucanía", y se acordó el valor de indemnización con su propietario FRANCISCO MARTÍN HUALA, ascendente a la cantidad de $7.135.663.-
+
+Fiscal del Ministerio de Obras Públicas.
