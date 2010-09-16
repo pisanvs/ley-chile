@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1082 de fecha 30 de julio del 2010, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, superficies 96, 264, 237 y 273 m2, Rol Nº201-29, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata" Región del Bío Bío", y se acordó el valor de indemnización con su propietario JUAN EFRAIN GUERRERO VIDAL, ascendente a la cantidad de $2.949.060.-
+
+Fiscal del Ministerio de Obras Públicas.
