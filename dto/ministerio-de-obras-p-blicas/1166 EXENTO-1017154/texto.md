@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1166 de 30 de agosto del 2010, se expropió el lote de terreno Nº45-A, superficie 4.487 m2., Rol Nº132-20, comuna de Vichuquén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTEN VICHUQUEN TRAMO KM. 0,000000 AL KM. 15,372989, COMUNAS LINCANTEN Y VICHUQUEN, PROVINCIA CURICO, VII REGION", y se acordó el valor de indemnización con sus propietarios MARIA PURISIMA GUERRERO GARCES Y OTROS, ascendente a la cantidad de $7.830.481.-
+
+Fiscal del Ministerio de Obras Públicas.
