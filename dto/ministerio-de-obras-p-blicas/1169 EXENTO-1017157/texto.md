@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1169, de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº2, superficie 574 m2, Rol Nº1129-08, comuna de Ancud, X Región para la obra "Mejoramiento Ruta 5 W15 175, Sector Ruta 5 Pumanzano, Camino Ruta 5 Pumanzano", Provincia de Chiloé, y se acordó el valor de indemnización con su propietario ORLANDO DEL CARMEN HASSE GESELL, ascendente a la cantidad de $15.474.414.-
+
+Fiscal del Ministerio de Obras Públicas.
