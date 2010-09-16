@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1040, de fecha 30 de julio de 2010, se expropió el lote de terreno Nº5, superficie 473 m2, Rol Nº552-297, comuna de Linares, VII Región para la obra "Construcción Sistema de Regadío Ancoa, Camino de Acceso", Comunas de Colbún y Linares, Provincia de Linares, VII Región.", y se acordó el valor de indemnización con su propietario JOSÉ VALENTÍN CERDA HENRÍQUEZ, ascendente a la cantidad de $2.813.459.-
+
+Fiscal del Ministerio de Obras Públicas.
