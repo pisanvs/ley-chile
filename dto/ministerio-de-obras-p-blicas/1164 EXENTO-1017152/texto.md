@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº1164 de fecha 30 de agosto del 2010, se expropió el lote de terreno Nº174, superficie 84 m2, Rol Nº153-100, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 al Km. 19,47571" y se acordó el valor de indemnización con su propietaria ANA ISABEL ESCOBAR RIVEROS Y OTROS, ascendente a la cantidad de $8.687.411.-
+
+Fiscal del Ministerio de Obras Públicas.
