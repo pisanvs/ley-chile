@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1149, de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº26-D, superficie 4.920 m2, Rol Nº158-219, comuna de Cochamó, X Región para la obra "Camino Puelo Paso El Bolsón, Sector Lago Tagua Tagua Llanada Grande, Km. 12,530 al Km. 32,500", y se acordó el valor de indemnización con su propietaria ELSA ARAVENA ORTEGA, ascendente a la cantidad de $1.603.069.-
+
+Fiscal del Ministerio de Obras Públicas.
