@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1153, de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº17, superficie 35 m2, Rol Nº1132-32, comuna de Ancud, X Región para la obra "Mejoramiento Ruta 5 W15 175, Sector Ruta 5 Pumanzano, Camino Ruta 5 Pumanzano", Provincia de Chiloé, y se acordó el valor de indemnización con su propietario ALFREDO MAXIMO MIENERT GERDING, ascendente a la cantidad de $329.575.-
+
+Fiscal del Ministerio de Obras Públicas.
