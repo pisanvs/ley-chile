@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1145 de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº7, superficie 1.177 m2, Rol Nº427-187, comuna de Illapel, para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,0000 a Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietaria CECILIA MYRIAM RIVERA LOPEZ., ascendente a la cantidad de $1.358.972.-
+
+Fiscal del Ministerio de Obras Públicas.
