@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1160 de fecha 30 de agosto de 2010, se expropiaron los lotes de terreno Nºs 1-A y 1-B, superficies 188 y 266 m2 respectivamente, Rol Nº415-364, comuna de Illapel, para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,0000 a Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario CARLOS ESTEBAN ÑIGUEZ CONCHA., ascendente a la cantidad de $8.305.678.-
+
+Fiscal del Ministerio de Obras Públicas.
