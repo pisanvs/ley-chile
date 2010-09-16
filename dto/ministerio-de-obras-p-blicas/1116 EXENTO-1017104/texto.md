@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.116, de 30 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1-G, para la obra: "Recinto Aducción Quebrada Iloca", Provincia de Curicó, Séptima Región, que figura a nombre de Véliz Guerra Perfecto, rol de avalúo 169-38, Comuna de Licantén, VII Región, superficie 1.565,56 m². La Comisión de Peritos el 24 de abril de 2010, fijó el monto de la indemnización provisional en la cantidad de $2.348.340 para el lote Nº1-G. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
