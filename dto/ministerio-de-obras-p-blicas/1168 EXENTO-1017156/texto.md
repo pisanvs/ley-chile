@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1168, de fecha 30 de agosto de 2010, se expropió el lote de terreno Nº105, superficie 51 m2, Rol Nº2570-15, comuna de Valdivia, XIV Región para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831, Provincia de Valdivia, XIV Región, tramo Nº3.", y se acordó el valor de indemnización con su propietaria MARTA ALICIA JARAMILLO PAREDES, ascendente a la cantidad de $4.111.667.-
+
+Fiscal del Ministerio de Obras Públicas.
