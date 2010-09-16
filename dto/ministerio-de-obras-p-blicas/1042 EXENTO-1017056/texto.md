@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1042, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº4, superficie 381 m2, Rol Nº552-296, comuna de Linares, VII Región para la obra "Construcción Sistema de Regadío Ancoa, Camino de Acceso", Comunas de Colbún y Linares, Provincia de Linares, VII Región.", y se acordó el valor de indemnización con su propietario DANIEL SEGUNDO CERDA HENRIQUEZ, ascendente a la cantidad de $990.855.-
+
+Fiscal del Ministerio de Obras Públicas.
