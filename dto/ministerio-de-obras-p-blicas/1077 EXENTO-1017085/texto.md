@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1077 de 30 de julio de 2010, se expropiaron los lotes de terrenos Nº102-B y 102-C, superficies 149 y 543 m2., Rol Nº277-196, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietario ANIBAL GONZALO VALDES BRAVO, ascendente a la cantidad de $1.454.913.-
+
+Fiscal del Ministerio de Obras Públicas.
