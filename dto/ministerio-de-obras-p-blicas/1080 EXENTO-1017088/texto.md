@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1080, de fecha 30 de julio del 2010, se expropió el lote de terreno Nº31, superficie 2.078 m2, Rol Nº212-44, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata, Región del Bío Bío", y se acordó el valor de indemnización con su propietario JAVIER DEL CARMEN MUÑOZ SANCHEZ, ascendente a la cantidad de $1.905.058.-
+
+Fiscal del Ministerio de Obras Públicas.
