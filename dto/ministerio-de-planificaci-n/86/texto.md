@@ -28,10 +28,6 @@ Decreto:
 
 3º. Por razones de buen servicio, los nuevos consejeros del Consejo Nacional de la Corporación Nacional de Desarrollo Indígena asumirán sus cargos a contar de la fecha del presente decreto supremo, sin esperar su total tramitación.
 
-> **Nota.** El Decreto 30, Planificación, publicado el 25.05.2011, dejo sin efecto el nombramiento de don Desiderio Tucapel Millanao Antilef, cédula de identidad Nº 6.485.299-K., nombrando en su reemplazo a don Carlos Patricio Llancaqueo Mellado, cédula de identidad Nº 9.454.819-5, en calidad de consejero del Consejo Nacional de la Corporación Nacional de Desarrollo Indígena.
-
-> **Nota.** NOTA 1 El Decreto 116, Planificación, publicado el 16.03.2012, deja sin efecto el nombramiento de doña Verónica Figueroa Huencho, cédula de identidad Nº 12.688.551-2, en calidad de consejero del Consejo Nacional de la Corporación Nacional de Desarrollo Indígena y designa en su reemplazo a don Jaime Iván Huincahue Melipil, cédula de identidad Nº 10.070.303-3, en calidad de consejero del Consejo Nacional de la Corporación Nacional de Desarrollo Indígena.
-
 Anótese, tómese razón, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Kast Sommerhoff, Ministro de Planificación.
 
 Lo que comunico a Ud., para su conocimiento.- María José de Las Heras Val, Subsecretaria de Planificación (S).
