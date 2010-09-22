@@ -28,7 +28,7 @@ La reserva a que se refiere el artículo anterior será asignada al sector pesqu
 
 #### Artículo 4º
 
-Se descontará de las cuotas globales de captura de Anchoveta y Sardina común que se establezcan para el año 2011, las toneladas efectivamente extraídas con cargo a la reserva autorizada en el presente decreto.
+La reserva autorizada mediante el presente decreto se descontará de las cuotas globales anual de captura de Anchoveta y Sardina común de la V a la X Regiones que se establezca para el año 2011. Las toneladas de la reserva que no hayan sido extraídas durante el presente año calendario, podrán ser extraídas durante el año 2011.
 
 #### Artículo 5º
 
