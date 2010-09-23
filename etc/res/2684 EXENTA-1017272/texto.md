@@ -1,0 +1,9 @@
+Por resolución exenta Nº 2.684, de 1 de septiembre de 2010, de esta Subsecretaría, modifícase la resolución Nº 2.400 de 2009, modificadas mediante Nº 2.698, Nº 3.184, Nº 3.641 y Nº 3.897, todas de 2009, Nº 315, Nº 735, Nº 847, Nº 1.195, Nº 1.336, Nº 2.214 y Nº 2.478, todas de 2010, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero y bases para la implementación de un plan de manejo en las pesquerías de erizo, huepo, caracol trofón, loco, ostión del sur y ostión patagónico, en la duodécima Región de Magallanes y Antártica Chilena", en los siguientes términos:
+
+a) En su numeral 3.-, en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 15 de septiembre de 2010, inclusive, respecto del recurso Huepo Ensis macha; y
+
+b) En su numeral 5.-. en el sentido de autorizar la extracción del recurso Huepo Ensis macha hasta el 15 de septiembre de 2010, inclusive, eximiéndose durante este período de la veda biológica establecida mediante decreto exento Nº 653 de 2003, del Ministerio de Economía, Fomento y Reconstrucción.
+
+La actividad extractiva antes indicada deberá realizarse de acuerdo a la autorización que para estos efectos otorgue el Servicio Regional Ministerial de Salud de la XII Región de Magallanes y Antártica Chilena, en función de los análisis toxicológicos de marea roja realizados en la Región.
+
+Valparaíso, 1 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
