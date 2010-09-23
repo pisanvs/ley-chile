@@ -2236,6 +2236,14 @@ e) Los servicios de la esencia del producto como norma general, sólo podrán re
 
 Los servicios adicionales que faciliten las prestaciones de una cuenta corriente pueden ser remunerados con comisiones, siempre que ellos sean aceptados voluntariamente por el cliente y el cobro de esas comisiones se asocie a la mantención de los sistemas utilizados para proveer esos servicios y no a las transacciones.
 
+f) Cualquier cambio en la tasa de interés a lo largo del tiempo, deberá obedecer a la sola aplicación de una tasa variable pactada. Dicha tasa debe basarse en una tasa o índice de tasa informada por el Banco Central de Chile u otra entidad o servicio de información ampliamente reconocido, en consideración a lo dispuesto en el N° 3 del artículo 438 del Código de Procedimiento Civil.
+
+g) Cualquier cambio en las comisiones pactadas que implique un aumento de éstas, deberá contar siempre con consentimiento explícito del cliente.
+
+h) En ningún caso los intereses y comisiones que se cobren podrán quedar condicionados a la mantención de otros productos o servicios contratados por el cliente.
+
+Lo indicado en las letras f) y g) es sin perjuicio de lo dispuesto por el Banco Central de Chile en uso de sus facultades, en los Capítulos III.E.1, y III.E.4 de su Compendio de Normas Financieras, sobre cuentas de ahorro.
+
 2.- Operaciones de los bancos que generan el cobro de intereses o comisiones.
 
 En los bancos se distinguen en general, tres clases de operaciones:
@@ -2276,7 +2284,7 @@ En general, tratándose de servicios propios del manejo de una cuenta corriente,
 
 El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
 
-La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa o la nueva base para su cálculo. Debe entenderse que esta comisión de mantención o de administración por el uso del servicio, que normalmente se cobra mensualmente, debe ser parte de la comisión anual única por administración e informada como tal a los clientes.
+La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa. Debe entenderse que esta comisión de mantención o de administración por el uso del servicio, que normalmente se cobra mensualmente, debe ser parte de la comisión anual única por administración e informada como tal a los clientes.
 
 No procede el cobro de comisiones distintas de la comisión de administración por los servicios asociados al uso de las tarjetas como instrumento de pago para la adquisición de bienes y servicios, como son las compras ya sea al contado o en cuotas, así como tampoco corresponde cobrar por el exceso en que incurra el titular de la tarjeta, respecto del cupo de crédito que tiene asignado ese instrumento.
 
@@ -2708,7 +2716,7 @@ b) La comisión deberá fijarse por períodos no inferiores a un semestre y comp
 
 c) El banco deberá informar por escrito a cada cliente, a lo menos una vez al año, de las comisiones cobradas mensualmente por cada servicio que haya utilizado. La comunicación deberá ser auto-explicativa a fin de que haya completa claridad de cada concepto de cobro efectuado;
 
-d) El plan de cobro de comisiones que los bancos establezcan, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación y sólo podrá ser aplicado después de haber dado cumplimiento a lo dispuesto en el numeral 5.2 siguiente; y,
+d) El plan de cobro de comisiones que los bancos establezcan, así como cualquier incremento, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación, así como tampoco podrá ser aplicado sin el consentimiento explícito del titular; y,
 
 e) Acorde con lo dispuesto en el Capítulo 18-14 de esta Recopilación la información que se entregue sobre la comisión que se cobre por la administración de cuentas corrientes debe especificar también los servicios que se incluyen en esa comisión, pudiendo contemplarse al respecto distintas combinaciones o composiciones de productos, recomendándose, en todo caso, establecer siempre un plan básico que incluya a lo menos los servicios esenciales inherentes al manejo de una cuenta corriente.
 
@@ -6862,6 +6870,8 @@ e) interés pactado y períodos en que se cobrará.
 
 Además el beneficiario de un crédito de esta naturaleza deberá suscribir un pagaré en favor de la entidad bancaria.
 
+Cualquier aumento posterior al monto máximo de sobregiro concedido, deberá contar con el consentimiento explícito del cliente. Las condiciones pactadas deberán considerar los medios a través del cual se podrá manifestar el referido consentimiento, bajo condiciones de seguridad necesarias para la identificación inequívoca del cliente.
+
 Si, como consecuencia de la modificación de las comisiones por la administración de la cuenta corriente, el titular cierra la cuenta, el banco deberá otorgarle las facilidades de pago necesarias, como por ejemplo un crédito por el monto correspondiente al saldo utilizado de la línea de sobregiro pactado, a fin de permitir al titular de la cuenta optar por su permanencia o retiro como cliente del banco.
 
 ### 4. Intereses
@@ -6881,10 +6891,6 @@ En todo caso, los intereses que se cobren por los sobregiros en cuentas corrient
 Al acordar los montos de las líneas de crédito o márgenes para sobregiros, los bancos deben prevenir que su posterior utilización por la sola voluntad del titular de la cuenta, no produzca excesos con respecto a los límites del artículo 84 de la Ley General de Bancos. Si bien esa disposición legal se infringe, en el caso de las cuentas corrientes, al momento en que se origina un giro sin existir fondos disponibles que, sumado a los créditos ya otorgados, supera el límite, es conveniente, para evitar esa situación, considerar siempre el importe pactado como si fuese un monto ya utilizado, puesto que el solo cumplimiento del pacto podría originar una infracción por el exceso, especialmente si con posterioridad se otorgan otros créditos o se liberan garantías.
 
 Por otra parte, debe tenerse presente que los sobregiros que se cubren dentro del mismo día en que se originan, también quedan sujetos al cumplimiento del artículo 84 de la Ley General de Bancos, desde el momento en que se paga un cheque o giro con cargo a una cuenta que carece de fondos disponibles.
-
-### 6. Disposición transitoria
-
-Los bancos dispondrán de un plazo no superior al 1 de enero de 2009 para encuadrarse completamente en las disposiciones del N° 2 de este Capítulo.
 
 CAPITULO 8-3 (Bancos)
 
@@ -6914,15 +6920,15 @@ Los emisores de tarjetas de crédito deberán suscribir o renovar con cada titul
 
 1) el plazo o condiciones de vigencia del contrato;
 
-2) el límite de crédito autorizado por el período contratado. Las modificaciones a ese límite deberán ser informadas por escrito al titular y, si estas consisten en una disminución del cupo pactado, en la notificación correspondiente deberán indicarse las causas objetivas en que se funda esa determinación, las cuales deberán estar previamente pactadas con el tarjetahabiente en el respectivo contrato;
+2) el límite de crédito autorizado por el periodo contratado y la forma de proceder en caso de modificación, debiéndose establecer que las disminuciones a ese límite serán informadas por escrito al titular y que todo aumento sobre el monto original requerirá de su consentimiento explícito;
 
 3) la fecha de emisión de estados de cuenta y de vencimiento de la respectiva obligación de pago del titular o usuario;
 
-4) las modalidades y condiciones aplicables al cobro de comisiones y/o cargos e intereses, las que podrán ser modificadas por el emisor previo aviso al titular en el estado de cuenta y en las pizarras informativas en locales del emisor;
+4) las modalidades y condiciones aplicables al cobro de comisiones y/o cargos e intereses, las que no podrán ser modificadas sin el consentimiento explícito del cliente;
 
-5) el costo de comisiones y/o cargos por mantención de la Tarjeta, las que podrán ser modificadas previo aviso del emisor al titular;
+5) el costo de comisiones y/o cargos por mantención de la Tarjeta;
 
-6) las medidas de seguridad relacionadas con el uso de la Tarjeta y los procedimientos y responsabilidades en caso de robo, hurto, pérdida, adulteración o falsificación de la misma;
+6) las medidas de seguridad relacionadas con el uso de la Tarjeta y los procedimientos y responsabilidades en caso de robo, hurto, pérdida, adulteración o falsificación de la misma, de acuerdo con lo dispuesto en la Ley N° 20.009;
 
 7) la resolución de controversias;
 
@@ -7251,6 +7257,8 @@ En el desempeño de su función de agentes administradores, los bancos podrán a
 3. Seguro para garantizar el fiel cumplimiento de las obligaciones de los agentes administradores.
 
 De acuerdo con las normas que rigen estas operaciones, los bancos que deseen actuar como agentes administradores deberán contratar una póliza de seguro que cubra el correcto y cabal cumplimiento de las obligaciones inherentes a dicha función y los eventuales perjuicios que, con ocasión de esas actividades, pueden causar al deudor del mutuo.
+
+En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata.
 
 4. Obligaciones de las instituciones en su calidad de agentes administradores.
 
@@ -8657,6 +8665,8 @@ En los préstamos destinados a la adquisición o construcción de viviendas cuyo
 ### 3. Garantía hipotecaria
 
 La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda el 75 % del valor de tasación o del precio de venta del inmueble. Ese límite será de un 60 % cuando se trate de obligaciones pagaderas o expresadas en moneda extranjera, o reajustables por la variación del tipo de cambio de las monedas extranjeras que constituyen sistemas de reajustabilidad autorizados.
+
+En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata.
 
 Si dos bancos participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
@@ -19084,13 +19094,19 @@ i) El Centro de Procesamiento de Datos de contingencia debe estar ubicado en Chi
 
 ii) El banco debe estar en condiciones de efectuar desde Chile el control y monitoreo del Centro de Procesamiento de Datos en el Exterior.
 
-2.2 Otros servicios.
+2.2. Otros servicios.
 
 Cuando la entidad bancaria contrate proveedores locales de servicios para realizar actividades significativas propias del giro, requerirá previamente la autorización de esta Superintendencia. Dicha autorización también será requisito cuando se trate de la externalización de cualquier actividad fuera del país.
 
-No obstante lo anterior, se podrán procesar externamente servicios sin necesidad de requerir autorización de esta Superintendencia, cuando las actividades o servicios se realicen localmente y sean, por ejemplo, las siguientes:
+Dentro de estos servicios se encuentran comprendidos aquellos contratados para operar con corresponsalías, es decir, aquellos proporcionados por empresas que ponen a disposición canales electrónicos y mantienen acuerdos con establecimientos comerciales para la prestación de ciertos servicios financieros por mandato del banco. En estos casos el banco, además de asegurarse del cumplimiento de lo establecido en el Capítulo 1-7 de esta Recopilación, deberá adjuntar en su solicitud de autorización la información requerida en la sección II del Anexo N° 2 y en el Anexo N° 3 del presente Capítulo.
 
-i) servicios Generales: tales como vigilancia, limpieza, seguridad, mantenimiento y reparaciones, mensajería, servicios públicos, entre otros.
+En el caso de que la contratación de servicios de corresponsalía se efectúe a través de empresas fiscalizadas directamente por este Organismo, no se requerirá autorización de esta Superintendencia. No obstante, antes de iniciar las operaciones, el banco deberá enviar un informe de evaluación de riesgos en concordancia con lo indicado en el N° 1 del Anexo N° 1 de este Capítulo, como asimismo los antecedentes detallados en el Anexo N° 3.
+
+2.3. Servicios que no requieren autorización.
+
+Se podrán procesar externamente servicios sin necesidad de requerir autorización de esta Superintendencia, cuando las actividades o servicios se realicen localmente y sean, por ejemplo, las siguientes:
+
+i) Servicios Generales: tales como vigilancia, limpieza, seguridad, mantenimiento y reparaciones, mensajería, servicios públicos, entre otros.
 
 ii) Actividades de apoyo administrativo: pago de sueldos, compras, facturación, capacitación, selección de personal, entre otros.
 
@@ -19199,3 +19215,39 @@ ANTECEDENTES ADICIONALES
 18. Plan de continuidad del negocio que adoptará el banco ante el evento de una contingencia que impida el procesamiento por parte del proveedor o los subcontratados por éste.
 
 19. Planes de contingencia previstos para mantener la continuidad operacional de la institución contratante en caso que se produzcan fallas en la comunicación o almacenamiento de la información.
+
+ANEXO N° 3
+
+ANTECEDENTES RELATIVOS A SERVICIOS DE CORRESPONSALÍAS
+
+1. Detalle de los productos que se van a ofrecer a través de canales externos.
+
+### 2. Modelo de negocios, incluyendo políticas comerciales y tarifarias
+
+3. Límites de operación (por monto, por día, por transacción, por Rut, etc.)
+
+4. Criterios de selección de los Comercios, calendario de apertura, características y localización geográfica.
+
+5. Tipo de validaciones, dónde y quienes las realizan durante el trayecto de la transacción, para efectos de autorizarla. Ejemplo: comercio registrado y vigente; vigencia del producto, del RUT, etc.
+
+6. Políticas de seguridad física a los comercios, tales como seguros contra robos, asaltos o fraudes a los comercios.
+
+7. Procedimientos de administración de la controversia ante probabilidad de fraudes tanto al comercio como al cliente.
+
+### 8. Políticas de difusión en los puntos de atención
+
+9. Pruebas efectuadas al proyecto. Pruebas de funcionamiento del canal con todas las funcionalidades del software, pruebas de borde, pruebas de conectividad, pruebas de carga.
+
+10. Descripción del modelo contable de la cuenta del comerciante. Explicar cómo opera el flujo de efectivo para cada una de las operaciones.
+
+11. Esquemas de monitoreos de canales para fraudes, lavado de activos, soporte, etc.
+
+### 12. Modelo de atención de mesa de ayuda
+
+13. Borrador de contrato con los comercios, incluyendo anexos, en caso que corresponda.
+
+### 14. Esquema tarifario con los Comercios
+
+15. Informes de auditoría interna relativos al proyecto, donde se pronuncie al menos sobre aspectos de control interno, seguridad de la información y continuidad operacional, antes del inicio del proyecto respectivo.
+
+16. Políticas de selección y desvinculación de comercios, y de eventuales vetos a comercios que no cumplen con las políticas de la entidad.
