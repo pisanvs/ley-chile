@@ -18,40 +18,6 @@ Resolución:
 
 2. Los recursos asignados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta Resolución se distribuyen regionalmente, según el siguiente cuadro:
 
-Región Recursos del llamado UF
-
-ARICA Y PARINACOTA 6.637
-
-TARAPACÁ 21987
-
-ANTOFAGASTA 4.065
-
-ATACAMA 10.877
-
-COQUIMBO 68.217
-
-VALPARAÍSO 47.328
-
-L.B. O'HIGGINS 9.508
-
-MAULE 66.703
-
-BÍO BÍO 88.327
-
-ARAUCANÍA 72.510
-
-DE LOS RÍOS 16.183
-
-DE LOS LAGOS 57.328
-
-AYSÉN 11.979
-
-MAGALLANES 17.799
-
-METROPOLITANA 111.048
-
-TOTAL 610.496
-
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 3. Para participar en un proceso de selección las personas interesadas deberán acreditar haber enterado el ahorro mínimo exigido según el Título al cual postulan y haber sido encuestados con Ficha de Protección Social.
