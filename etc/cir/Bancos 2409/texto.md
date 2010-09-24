@@ -1826,9 +1826,9 @@ El Directorio deberá conocer y pronunciarse sobre cada una de las materias señ
 
 En el caso de las sucursales de bancos extranjeros, cuya gestión dependa de directivas de su Casa Matriz, el Gerente General o la autoridad máxima de la oficina en Chile, remitirá el resultado de la mencionada evaluación así como las eventuales medidas que proponga, a los auditores internos del banco y a la autoridad jerárquica que corresponda. Los acuerdos que al respecto adopten las mencionadas autoridades serán comunicados a la sucursal en Chile, la que deberá darlos a conocer a esta Superintendencia.
 
-Los bancos enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia de lacta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de septiembre de cada año.
+Los bancos enviarán a este Organismo una copia del informe presentado al Directorio, junto con la copia de lacta de la reunión en que éste tomó conocimiento y resolvió acerca de la gestión de la empresa, antes del 30 de septiembre de cada año. Para ese efecto, el informe se anexará, también en formato PDF "desprotegido", al acta que debe enviarse por SINACOFI según lo indicado en el Capítulo 1-4 de esta Recopilación. Al tratarse de una reunión celebrada en el mes de septiembre, el plazo antes indicado podrá extenderse al establecido para el envío del acta respectiva.
 
-Las sucursales de bancos extranjeros entregarán a esta Superintendencia, en el mismo plazo antes señalado, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
+Las sucursales de bancos extranjeros entregarán a esta Superintendencia, antes del 30 de septiembre de cada año, la copia de la comunicación y de los antecedentes que sobre la materia haya informado el encargado de la sucursal en Chile, según lo indicado anteriormente y las resoluciones que al respecto haya acordado la Casa Matriz.
 
 ANEXO N° 1
 
