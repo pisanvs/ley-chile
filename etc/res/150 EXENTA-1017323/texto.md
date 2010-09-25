@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 150 del 22 de septiembre de 2010, que autoriza a las Instituciones sin fines de lucro, Fundación de Ayuda al Niño Oncológico Casa de la Sagrada Familia, rol único tributario Nº 65.037.590-4, Instituto para el Desarrollo Comunitario, IDECO, Miguel de Pujadas Vergara, rol único tributario Nº 71.877.800-K, y Asociación Benéfica Cristiana de Desarrollo Integral, rol único tributario Nº 71.626.200-6, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en septiembre, de 2010.
