@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución 1.146, de 16/06/2010, modificó D.S. 1185/1989, transferida a su actual titular por resolución 1439/1992, de la siguiente forma: Ubicación: (Sector de Porción de Agua y Fondo de Mar): Canal Yal, Sector Lincai, Isla Lemuy, comuna Puqueldón, superficie 33,21 hás: coordenadas geográficas Carta SHOA 7370, 1ª Edición 1999 (Datum WGS-84). Vértice A Lat. 42°39'11,52" S. Long. 73°40'56,97" W. Vértice B Lat. 42°39'02,18" S. Long. 73°41'00,66" W. Vértice C Lat. 42°38'55,77" S. Long. 73°40'35,79" W. Vértice D Lat. 42°38'45,10" S. Long. 73°40'20,44" W. Vértice E Lat. 42°38'52,41" S. Long. 73°40'11,75" W. Vértice F Lat. 42°39'01,92" S. Long. 73°40'24,96" W.
+
+Santiago, 16 de septiembre de 2010.- Por el Sr. Subsecretario, Felipe García-Huidobro Correa, Subjefe (M).
