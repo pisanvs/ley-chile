@@ -36,7 +36,7 @@ b) Se deben demarcar con una franja de al menos 5 centímetros de ancho y color 
 
 c) En caso de existencia de letreros eléctricos, su instalación debe contemplar un sistema de alimentación de energía inaccesible para el público general y aislado de cualquier superficie conductora de electricidad. Además en caso de accidente, el suministro de energía eléctrica deberá cortarse automáticamente para disminuir el riesgo de electrocución e incendio.
 
-d) Se prohibe el uso de elementos decorativos al interior y exterior de los buses.
+d) Se prohibe el uso de elementos decorativos al interior y exterior de los buses, salvo autorización expresa del Ministerio de Transportes y Telecomunicaciones.
 
 e) Los buses no podrán iniciar la prestación del servicio desaseados, mojados, rayados o en mal estado. La limpieza de éstos no podrá efectuarse con elementos nocivos, o que hagan perder, ya sea temporal o permanentemente, la condición de antideslizamiento del piso de los buses.
 
