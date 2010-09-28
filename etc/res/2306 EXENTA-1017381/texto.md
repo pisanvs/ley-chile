@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.306 EXENTA, DE 2010
+
+Por resolución exenta Nº 2.306, de fecha 10 de septiembre de 2010, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Silva, Contreras y Compañía Limitada" o "Conductores Chile Ltda.", RUT Nº 76.094.867-5, cuyo representante legal es el señor Rodrigo Florencio Silva Sanhueza, para impartir los cursos conducentes a la obtención de licencia de conductor profesional Clase A2 y A4, en la sede ubicada en Urmeneta Nº 529, y taller mecánico, ubicado en Victoria Nº 699, ambas en la comuna de San Bernardo.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana (S).
