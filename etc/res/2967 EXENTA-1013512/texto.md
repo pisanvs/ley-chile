@@ -212,6 +212,18 @@ que acrediten ser propietarios de la vivienda
 
 certificada como inhabitable que habitaban.
 
+j. Los postulantes deberán al momento de la
+
+postulación identificar la región del país
+
+en la cual posteriormente aplicarán
+
+su subsidio, la que podrá ser distinta
+
+de la región donde resultaron
+
+damnificados o en la cual están postulando.
+
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
 Región Recursos (UF)
