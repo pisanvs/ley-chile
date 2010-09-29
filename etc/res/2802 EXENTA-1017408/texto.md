@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.802, de 10 de septiembre de 2010, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 2.476 de 2010, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Evaluaciones hidroacústicas de Merluza común, año 2010", en el sentido de señalar que el estudio se extenderá hasta el 21 de septiembre de 2010, inclusive.
+
+Valparaíso, 10 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
