@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A "RSA SEGUROS CHILE S.A."
+
+Certifico: Que por resolución exenta Nº 550, de 24 de septiembre de 2010, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "RSA Seguros Chile S.A.", acordada en Junta Extraordinaria de Accionistas de 13 de septiembre de 2010, cuya acta consta de la escritura pública de 13 de septiembre de 2010, otorgada ante la Notario de Santiago doña Nancy de la Fuente Hernández, con domicilio en Huérfanos 1117, oficina 1008, Santiago.
+
+La modificación consiste en el aumento del capital social de $80.369.123.919.-, dividido en 4.689.236 acciones nominativas, todas de una misma serie, sin valor nominal y de igual valor, íntegramente suscrito y pagado, a $90.369.123.604.- dividido en 5.866.399 acciones nominativas, todas de una misma serie, sin valor nominal y de igual valor, mediante la emisión de 1.177.163 acciones de pago nominativas, todas de una misma serie, sin valor nominal y de igual valor, correspondiente a $9.999.999.685.-, a pagar en el plazo de seis meses a contar del 13 de septiembre de 2010.
+
+Santiago, 24 de septiembre de 2010.- Carmen Undurraga Martínez, Secretario General.
