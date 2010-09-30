@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.861, de 22 de septiembre de 2010, de esta Subsecretaría, deléguese en el Sr. Director Zonal de Pesca de la V a la IX Región e Islas Oceánicas, funcionario de esta Subsecretaría, Planta de Directivos, Grado 5, la facultad de tramitar y firmar las resoluciones correspondientes a las solicitudes de traspasos de todo o parte de las asignaciones efectuadas por organizaciones de pescadores artesanales sometidas al Régimen Artesanal de Extracción para los recursos Anchoveta y Sardina Común en la VIII Región, a una o más embarcaciones inscritas en el Registro Pesquero Artesanal con anterioridad al 27 de febrero de 2010, y que no se encuentren sometidas a dicha medida de administración al interior de la respectiva organización.
+
+Se excluye de la delegación antes indicada los traspasos efectuados a embarcaciones que se encuentren inscritas en el Registro Pesquero Artesanal en regiones distintas a las que alude el artículo 1º Transitorio de la ley Nº 20.451.
+
+Valparaíso, 22 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
