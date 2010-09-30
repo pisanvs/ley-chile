@@ -64,7 +64,9 @@ términos del artículo 1783 del Código Civil.
 
 El monto de este subsidio será el señalado en las tablas siguientes, expresado en Unidades de Fomento, según la comuna o localidad de emplazamiento, del respectivo proyecto habitacional:
 
-VER DIARIO OFICIAL DE 30.01.2009, PAGINAS 11 Y 12
+VER DIARIO OFICIAL DE 30.01.2009, PAGINAS 11 Y 12.
+
+> **Nota.** El artículo único del Decreto 38, Vivienda, publicado el 30.10.2009, modifica la presente norma, en el sentido de sustituir en la columna «monto de subsidio» de las filas correspondientes a las comunas de Constitución y Curicó, ambas de la Región del Maule, los guarismos "420" por "460" y "480" por "380", respectivamente.
 
 #### Artículo 4°
 
@@ -152,7 +154,7 @@ edificaciones.
 
 empresa constructora, en su caso.
 
-Verificado por el Serviu que el proyecto propuesto cumple con los requisitos exigidos por el presente reglamento, suscribirá con la respectiva empresa constructora, o con la inmobiliaria o con la cooperativa de vivienda, un convenio en el cual se dejará constancia, como mínimo, de los datos del correspondiente permiso de edificación; del nombre de la empresa constructora encargada de la construcción del proyecto; de la obligación que asume de iniciar las obras respectivas dentro de los 45 días corridos siguientes a la fecha de total tramitación del acto administrativo que apruebe dicho convenio y de comunicar al Serviu el inicio de obras; del plazo de ejecución del proyecto, cuya recepción municipal no podrá exceder del 30 de septiembre de 2010; de la declaración de la empresa constructora, la inmobiliaria o la cooperativa de que conoce las obligaciones que le impone el presente reglamento y las sanciones que éste establece para los casos de su incumplimiento; del precio máximo de venta de las viviendas que integran el proyecto, el que no podrá ser superior a 950 unidades de fomento y del compromiso de efectuar su venta a las personas que cumplan con los requisitos para obtener el subsidio habitacional que regula este reglamento.
+Verificado por el Serviu que el proyecto propuesto cumple con los requisitos exigidos por el presente reglamento, suscribirá con la respectiva empresa constructora, o con la inmobiliaria o con la cooperativa de vivienda, un convenio en el cual se dejará constancia, como mínimo, de los datos del correspondiente permiso de edificación; del nombre de la empresa constructora encargada de la construcción del proyecto; de la obligación que asume de iniciar las obras respectivas dentro de los 45 días corridos siguientes a la fecha de total tramitación del acto administrativo que apruebe dicho convenio y de comunicar al Serviu el inicio de obras; del plazo de ejecución del proyecto, cuya recepción municipal no podrá exceder del 31 de marzo de 2011; de la declaración de la empresa constructora, la inmobiliaria o la cooperativa de que conoce las obligaciones que le impone el presente reglamento y las sanciones que éste establece para los casos de su incumplimiento; del precio máximo de venta de las viviendas que integran el proyecto, el que no podrá ser superior a 950 unidades de fomento y del compromiso de efectuar su venta a las personas que cumplan con los requisitos para obtener el subsidio habitacional que regula este reglamento.
 
 Una vez suscrito el convenio antes mencionado, el Serviu efectuará la reserva de cupo de los subsidios correspondientes, pudiendo operar al efecto mediante los sistemas electrónicos que disponga el Minvu para estos efectos.
 
@@ -162,7 +164,7 @@ El Minvu estará facultado para publicitar en todo el país, por los medios que 
 
 Las obras respectivas deberán iniciarse dentro del plazo de 45 días corridos siguientes a la fecha de la total tramitación del acto administrativo del Serviu respectivo que apruebe el convenio a que alude el artículo anterior.
 
-Los plazos para el inicio de las obras y para su término podrán prorrogarse, por razones fundadas calificadas por el Director del Serviu, pero en ningún caso su recepción municipal podrá ser posterior al 30 de septiembre de 2010. Las prórrogas de estos plazos sólo podrán autorizarse con anterioridad a su vencimiento.
+Los plazos para el inicio de las obras y para su término podrán prorrogarse, por razones fundadas calificadas por el Director del Serviu, pero en ningún caso su recepción municipal podrá ser posterior al 31 de marzo de 2011. Las prórrogas de estos plazos sólo podrán autorizarse con anterioridad a su vencimiento.
 
 El incumplimiento en el plazo de inicio de las obras, producirá la caducidad automática de la reserva de cupo de los subsidios correspondientes que se hubiere efectuado.
 
@@ -170,7 +172,7 @@ Si se excediere el plazo antes fijado para la recepción municipal de las obras,
 
 #### Artículo 7° bis
 
-No obstante lo dispuesto en el inciso segundo del artículo 6° y en el inciso segundo del artículo 7°, tratándose de convenios suscritos a partir del 21 de mayo de 2009, las obras deberán iniciarse dentro de los 45 días corridos siguientes a la fecha de la total tramitación del acto administrativo del Serviu que apruebe dicho convenio, las que en todo caso deberán iniciarse hasta el 30 de octubre de 2009 y cuya recepción municipal no podrá exceder del 30 de diciembre de 2010, debiendo dejarse constancia de estas obligaciones en el convenio respectivo.
+No obstante lo dispuesto en el inciso segundo del artículo 6° y en el inciso segundo del artículo 7°, tratándose de convenios suscritos a partir del 21 de mayo de 2009, las obras deberán iniciarse dentro de los 45 días corridos siguientes a la fecha de la total tramitación del acto administrativo del Serviu que apruebe dicho convenio, las que en todo caso deberán iniciarse hasta el 30 de octubre de 2009 y cuya recepción municipal no podrá exceder del 30 de junio de 2011, debiendo dejarse constancia de estas obligaciones en el convenio respectivo.
 
 #### Artículo 8°
 
@@ -267,6 +269,14 @@ escritura pública.
 no será exigible si consta en la
 
 respectiva escritura de compraventa.
+
+Una vez que reciba todos los antecedentes exigidos en el inciso anterior y verifique que éstos se encuentran conformes, el SERVIU procederá a dictar las resoluciones que dispongan el pago del subsidio a la correspondiente empresa constructora, inmobiliaria o cooperativa de vivienda, en las que se indicará el monto del subsidio a pagar, deducida la cantidad correspondiente a la restitución del préstamo de enlace, si lo hubiere, ambos expresados en unidades de fomento, y la fecha de su pago, la que en cualquier caso no podrá exceder de 100 días hábiles contados desde la fecha de presentación conforme de los documentos referidos en el inciso anterior.
+
+Una vez tramitada la respectiva resolución a que alude el inciso anterior, un ejemplar de la misma deberá ser suscrito ante notario público por el representante legal de la empresa constructora, o de la inmobiliaria o de la cooperativa de vivienda y por el Director del SERVIU, el que quedará en poder de la empresa constructora, o de la inmobiliaria o de la cooperativa de vivienda, según corresponda.
+
+El SERVIU pagará la suma indicada en la respectiva resolución, a quien la presente debidamente suscrita conforme a lo señalado en el inciso anterior, sea éste la empresa constructora, la inmobiliaria o la cooperativa de vivienda o un tercero. En este último caso, el tercero deberá cumplir con las formalidades y requisitos establecidos por la legislación general aplicable para la cesión de créditos, y ser notificada por notario público al Director del respectivo SERVIU, con al menos 15 días hábiles de anticipación a la fecha de pago establecida en la resolución.
+
+El Ministerio de Vivienda y Urbanismo podrá celebrar convenios con bancos, instituciones financieras, inversionistas institucionales e intermediarios de valores, a fin de lograr condiciones y tasas más ventajosas para las operaciones de cesión de créditos que emanen de las resoluciones señaladas en el inciso anterior.
 
 #### Artículo 18
 
