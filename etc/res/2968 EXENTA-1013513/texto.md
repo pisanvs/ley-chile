@@ -198,31 +198,45 @@ de obras señaladas en el artículo 68 bis
 
 del D.S. N° 174 (V. y U.), de 2005.
 
-g) Los proyectos tipo que participen en el presente
+g) Los proyectos habitacionales que participen en
 
-llamado podrán, si lo requieren y previa
+el presente llamado podrán para el área de estar
 
-autorización de las familias, conformar sólo 4
+comedor, no cumplir con las exigencias de las
 
-recintos: baño, cocina, estar-comedor y
+dimensiones señaladas en el cuadro normativo del
 
-dormitorio principal. Este último recinto deberá
+#### Artículo 19
 
-contener una cama de dos plazas, cumpliendo las
+del D.S. 174 (V. y U.), de 2005,
 
-dimensiones establecidas para el dormitorio 1 del
+siempre que la superficie útil total de los
 
-Cuadro Normativo del Artículo 19 del D.S. N° 174
+recintos interiores de la vivienda alcance a
 
-(V. y U.), de 2005. Los restantes recintos podrán
+lo menos a 45 m2.
 
-no cumplir las dimensiones establecidas en dicho
+Por otro lado, podrán sólo conformar tres
 
-cuadro normativo, siempre que la superficie útil
+recintos: baño, cocina-estar-comedor y
 
-total de los recintos interiores de la vivienda
+dormitorio principal. Este último recinto
 
-alcance al menos 50 m2.
+deberá contener una cama de dos plazas,
+
+cumpliendo las dimensiones establecidas para
+
+el dormitorio 1 del Cuadro Normativo del
+
+#### Artículo 19
+
+antes señalado, siempre que la
+
+superficie útil total de los recintos
+
+interiores de la vivienda, alcance
+
+al menos 50 m2.
 
 h) Los proyectos de vivienda tipo que se emplacen
 
@@ -444,6 +458,10 @@ vivienda certificada como inhabitable
 
 que habitaban.
 
+o) Si el sitio estuviera gravado con hipoteca,
+
+no será impedimento para la postulación.
+
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
 Región Recursos (UF)
@@ -472,7 +490,7 @@ correspondiente y adjuntando la documentación
 
 necesaria para acreditar su calidad de
 
-damnificado. Junto con ello, deberán señalar las
+damnificado. Junto con ello, podrán señalar las
 
 opciones priorizadas de proyecto de vivienda tipo
 
@@ -514,53 +532,39 @@ para la construcción en el mismo.
 
 c) El SERVIU dispondrá para cada familia
 
-preseleccionada una Asesoría Técnica y Jurídica,
+preseleccionada una Asesoría Técnica Legal,
 
-la cual en un plazo no mayor a 30 días deberá
+la cual deberá ayudar a las familias a
 
-presentar al SERVIU copia de la inscripción de
+seleccionar su proyecto, dentro del listado
 
-dominio del terreno, con certificado de vigencia,
+de proyectos tipo disponibles. En
 
-a nombre del postulante o de su cónyuge, y la
+especial, deberá informarles las
 
-factibilidad técnica de desarrollar en dicho
+características técnicas y económicas de la
 
-terreno la construcción de la vivienda del
+totalidad de proyectos disponibles en esa región
 
-proyecto tipo priorizado por el postulante.
+para la construcción.
 
-Además se debe indicar las obras de habilitación
+d) La Asesoría Técnica tendrá un plazo de 30 días,
 
-de terreno, según lo señalado en la letra f) del
+una vez asignadas las familias a su cargo, para
 
-número 2 de la presente resolución, las que se
+presentar al SERVIU una Carta Gantt previamente
 
-deberán desarrollar previamente a la construcción
+aprobada por ese Servicio, donde se establezcan
 
-de la vivienda, si corresponde.
+las fechas de ejecución de cada una de las
 
-En el caso en que la Asesoría Técnica y Jurídica
+actividades encomendadas en los servicios
 
-no pudiera en el plazo de 30 días presentar la
+contratados para cada una de las familias
 
-inscripción de dominio del terreno, con
+a su cargo.
 
-certificado de vigencia, a nombre del postulante
-
-o de su cónyuge, deberá informar a SERVIU y
-
-acreditar el estado en que se encuentra este
-
-proceso, para con ello esta asignación de
-
-subsidio quedar pendiente en estado condicional
-
-hasta que el postulante presente la inscripción
-
-de dominio al SERVIU.
-
-d) Una vez ingresados los antecedentes señalados en
+e) Una vez ingresados los antecedentes señalados en
 
 la letra anterior, el SERVIU dispondrá de hasta 7
 
@@ -574,7 +578,7 @@ contaren con su aprobación, dentro del mismo
 
 plazo emitirá el certificado de subsidio.
 
-e) Una vez que se otorgue el certificado de Subsidio
+f) Una vez que se otorgue el certificado de Subsidio
 
 correspondiente, la Asesoría Técnica y el
 
@@ -594,7 +598,7 @@ que establece los incisos cuarto y siguientes del
 
 del D.S. N° 174 (V. y U.), de 2005.
 
-f) Sólo se podrá otorgar un anticipo a cuenta del
+g) Sólo se podrá otorgar un anticipo a cuenta del
 
 pago de la construcción de la vivienda, hasta por
 
@@ -713,6 +717,8 @@ establecido en la letra f) del número 2 de la
 presente resolución.
 
 6. Para el caso de familias preseleccionadas, y en cuyo terreno acreditado para la postulación no sea factible la construcción de una vivienda, en ninguna de las opciones propuestas por el SERVIU, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
+
+7. Para estas postulaciones, no será exigible el Plan de Habilitación Social.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
