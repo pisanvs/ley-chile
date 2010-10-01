@@ -24,6 +24,4 @@ Fíjanse las fechas para las ciudades de Osorno y Puerto Montt, a contar de las 
 
 - Servicio de buses: 30 de septiembre de 2011.
 
-> **Nota.** La Resolución 1205 exenta, Transportes, publicada el 17.10.2011, deroga la exigencia aplicable a los servicios de buses de Osorno y Puerto Montt, determinada en la presente norma.
-
 Anótese, comuníquese y publíquese.- Ángela Villarroel Mansilla, Secretaria Regional Ministerial de Transportes y Telecomunicaciones Región de Los Lagos.
