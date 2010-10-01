@@ -1,0 +1,3 @@
+Por resolución Nº 2.840, de 15 de septiembre de 2010, de esta Subsecretaría, autorízase a VÍCTOR MANUEL SANHUEZA HIDALGO, para realizar actividades de colecta de semillas, por período de seis meses contados desde el 1 de octubre de 2010, con superficie y coordenadas geográficas señaladas en la resolución extractada.
+
+Valparaíso, 15 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
