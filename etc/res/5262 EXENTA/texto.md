@@ -14,7 +14,9 @@ Samuel Seco López RUT 2.188.084-1
 
 Pedro Sepúlveda Sobarzo RUT 1.673.925-1
 
-Sociedad Agrícola y Lechera de Loncoche S.A.RUT 92.354.000-8
+Sociedad Agrícola y
+
+Lechera de Loncoche S.A. RUT 92.354.000-8
 
 Sociedad Molinera San Luis S.A. RUT 82.895.800-3
 
@@ -68,13 +70,13 @@ Dileta Alberti Tecer RUT 1.949.009-2
 
 Augusto Abarzúa Jalabert RUT 3.305.054-2
 
-En las operaciones de venta de harina de trigo:
+En las operaciones de venta de Trigo:
 
 Sociedad Molinera Galvarino Limitada RUT 78.855.660-8
 
-Lupercio Astorga Viveros RUT 2.072.115-4
+Lupercio Astorga Viveros RUT 02.072.115-4
 
-Raúl Enrique Ruedi Franco RUT 2.139.051-8
+Raul Enrique Ruedi Franco RUT 02.139.051-8
 
 En los contratos de instalación o confección de especialidades:
 
