@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1433, de 31 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el Decreto MOP Exento N° 1564 de 30 de septiembre de 2009, autorizándose la consignación del monto provisional de la indemnización relacionada con el lote de terreno Nº61, de la obra: "Camino Ruta P-22, Sector Llico - Punta Lavapie, Tramo Km. 0,00000 a Km. 6,52000, Región del Bío Bío", ascendente a la cantidad de $1.788.823.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
