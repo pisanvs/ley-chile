@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº 1234, de 31 de agosto, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N°1-A, para la obra: "RECINTO ADUCCIÓN QUEBRADA ILOCA", Provincia de CURICO, que figura a nombre de SIND IND MARMICOC CHILENA SA, rol de avalúo 169-14, Comuna de LICANTEN, VII REGIÓN, superficie 1.788,08 m2. La Comisión de Peritos el 24 de abril de 2010, fijó el monto de la indemnización provisional en la cantidad de $2.682.120.- para el lote N°1-A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
