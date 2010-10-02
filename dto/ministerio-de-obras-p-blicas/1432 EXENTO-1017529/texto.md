@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 1432, de 31 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificó el Decreto MOP Exento N° 415 de 27 de febrero de 2009, autorizándose la consignación del monto provisional de la indemnización relacionada con el lote de terreno Nº28, de la obra: "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", Región del Bío Bío, ascendente a la cantidad de $3.338.000.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
