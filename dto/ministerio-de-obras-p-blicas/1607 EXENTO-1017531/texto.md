@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1.607 de fecha 27 de septiembre de 2010, se expropiaron los lotes de terreno Nºs 52, 52-A, 53, 54, 55, 56 y 57, superficies 442, 1.716, 6.237, 4.497, 2.427, 3.194 y 3.725 m2, roles de avalúo Nºs 340-3, 340-4, 340-9, 340-5, 340-6, S/R, 340-8, respectivamente, comuna de San Miguel, para la obra "Diseño Definitivo de Las Obras Hidráulicas del Parque La Aguada", Comuna de San Miguel, Provincia de Santiago, Región Metropolitana, y se acordó el valor de la indemnización con su propietario EMPRESA DE LOS FERROCARRILES DEL ESTADO, ascendente a la cantidad de $1.609.616.870.- que se pagará en la forma estipualda en el Convenio de Precio, de fecha 10 de septiembre de 2010.-
+
+Fiscal del Ministerio de Obras Públicas.
