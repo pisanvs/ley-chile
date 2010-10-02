@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº1236, de 31 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N°1-B, para la obra: "RECINTO ADUCCIÓN QUEBRADA ILOCA", Provincia de CURICO, que figura a nombre de RIVERA MELENDEZ PEDRO E Y OTRO, rol de avalúo 169-39, Comuna de LICANTEN, VII REGIÓN, superficie 1.161,09 m2. La Comisión de Peritos el 24 de abril de 2010, fijó el monto de la indemnización provisional en la cantidad de $1.741.635.- para el lote N°1-B. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
