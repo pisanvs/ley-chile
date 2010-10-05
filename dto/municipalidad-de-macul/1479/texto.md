@@ -1,0 +1,3 @@
+OTORGA PLAZO QUE INDICA PARA RETIRO DE KIOSCO POR INFRACCIÓN A LA ORDENANZA SOBRE ACTIVIDAD COMERCIAL, INDUSTRIAL Y SERVICIOS
+
+Por decreto alcaldicio Nº 1.479 (10.09.2010), la I. Municipalidad de Macul otorgó un plazo de 10 días corridos al Sr. Mario Cataldo Icart, para hacer retiro de su kiosco ubicado en la esquina Sur-Oriente de calle Luis Valenzuela Aris con Poeta Augusto Winter, comuna de Macul, por infringir la Ordenanza sobre Actividad Comercial, Industrial y Servicios, facultando a la Dirección de Aseo y Ornato para su retiro, si no se diere cumplimiento.
