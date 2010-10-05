@@ -56,7 +56,9 @@ IV DE LA CERTIFICACION
 
 11. Las aves y huevos fértiles que se importen al país, deberán venir amparadas por un Certificado Sanitario Oficial, otorgado al momento del embarque por la Autoridad Sanitaria Competente del país de procedencia, que acredita el cumplimiento de las exigencias sanitarias señaladas precedentemente y se ajuste al modelo aprobado por el Servicio Agrícola y Ganadero, extendido en lengua española y en la lengua oficial del país de origen.
 
-12. Si la exportación corresponde a polluelos de un día, en la certificación se deberá dejar constancia de las vacunaciones a que fueron sometidos, indicando el tipo de vacunas, fecha de vacunación, número de serie y número oficial de registro de la misma.
+12. En la certificación se deberá dejar constancia de las vacunaciones a que fueron sometidos, indicando el tipo de vacunas, fecha de vacunación, número de serie y número oficial de registro de la misma.
+
+Se debe incluir en la certificación la identificación de las granjas de origen.
 
 V DE LA LLEGADA DE LOS ANIMALES
 
@@ -158,6 +160,8 @@ El plantel de procedencia está libre de Salmonella gallinarum, S. pullorum, S. 
 
 enteritidis.
 
+Los huevos y/o pollitos de un día provienen de las siguientes granjas:-----------------------------"
+
 3.- DE LAS CONDICIONES DE PRE EMBARQUE
 
 Dentro de los 180 días previos al embarque en el plantel no han presentado evidencias de enfermedades infectocontagiosas, en especial las siguientes, de acuerdo a la especie:
@@ -178,7 +182,7 @@ g) Faisán: Sinovitis Infecciosa, Bazo Marmóreo del faisán, Encefalomielitis A
 
 Las aves de un día no fueron tratadas con agentes inhibidores del desarrollo microbiano.
 
-Los polluelos de un día fueron vacunados contra:
+Los polluelos y/o los huevos fueron vacunados contra las siguientes enfermedades.
 
 Enfermedad tipo de fecha de número de Número
 
