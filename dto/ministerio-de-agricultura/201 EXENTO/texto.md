@@ -4,7 +4,7 @@ Núm. 201 exento.- Santiago, 23 de abril de 2010.- Visto: la solicitud adjunta; 
 
 Decreto:
 
-1.- Declárase Oficial la XV Semana de las Tradiciones Chilenas, "Aires del Ñielol" de Temuco, organizada por la Sociedad de Fomento Agrícola de Temuco Asociación Gremial, que tendrá lugar en la ciudad de Temuco desde el 16 al 19 de septiembre de 2010, ambas fechas inclusive.
+1.- Declárase Oficial la XV Semana de las Tradiciones Chilenas "Aires del Ñielol 2010", organizada por la Sociedad de Fomento Agrícola de Temuco A.G., que tendrá lugar en la ciudad de Temuco entre los días 16 al 20 de septiembre de 2010, ambas fechas inclusive.
 
 Esta actividad se desarrollará en el recinto del Parque de Exposiciones "Charles Caminondo Echart", de la comuna de Temuco, Región de la Araucanía.
 
