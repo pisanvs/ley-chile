@@ -8,7 +8,7 @@ Decreto:
 
 2.- Déjase establecido que la citada funcionaria no estuvo sometida a Sumario Administrativo ni Investigación Sumaria.
 
-3.- Déjase establecido que la funcionaria antes mencionada reasumirá a contar de la misma fecha la propiedad de su cargo Profesional, grado 12º EUS., de acuerdo a lo dispuesto en el artículo 87º del DFL Nº 29 de 2005.
+3.- Déjase establecido que la funcionaria antes mencionada no asumió su cargo conservado y presentó la renuncia voluntaria al cargo Titular, Profesional, grado 12º EUS., a contar del 11 de marzo de 2010, según resolución Nº3 de fecha 17 de marzo de 2010, del Secretario Ministerial de Educación Subrogante, de la Región de Tarapacá.
 
 Anótese, tómese razón, regístrese, comuníquese y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
