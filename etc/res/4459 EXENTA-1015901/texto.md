@@ -106,7 +106,7 @@ La selección se realizará hasta enterar el total de los recursos dispuestos pa
 
 7. El postulante seleccionado podrá solicitar expresamente al SERVIU Metropolitano que las labores de asesoría técnica y jurídica a las que se refiere el artículo 63 bis del DS Nº 174 (V. y U ), de 2005, sean desarrolladas por la Entidad de Gestión Inmobiliaria Social, EGIS, que presentó su postulación anterior, a que alude el Visto c) precedente. El SERVIU podrá contratar a esa EGIS para la realización de estas labores, según las normas pertinentes, pagando un honorario de hasta 15 UF por cada operación de adquisición de vivienda, una vez inscrita ésta en el Conservador de Bienes Raíces respectivo y pagado el respectivo precio de venta al vendedor.
 
-8. Los recursos destinados a la atención de los postulantes seleccionados en el llamado dispuesto por esta resolución ascienden hasta 1.658.500 UF.
+8. Los recursos destinados a la atención de los postulantes seleccionados en el llamado dispuesto por esta resolución ascienden hasta 1.661.175 UF.
 
 9. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
