@@ -6432,7 +6432,7 @@ b) Gastos notariales.
 
 c) Gastos inherentes a bienes recibidos en garantía, esto es, los incurridos para la tasación de los bienes, los conducentes a la inscripción o registro de prendas o hipotecas, incluido el estudio de títulos y redacción de escrituras, y el pago de las primas de seguros sobre tales bienes.
 
-d) Pagos de las primas de seguros de desgravamen y de cesantía relativos al crédito, cuando se trate de operaciones diferentes a créditos de consumo o similares en que no se pueden exigir tales seguros como condición para el crédito.
+d) Pagos de primas de seguros de desgravamen y de cesantía, cuando sea el caso.
 
 La obligación de considerar las comisiones para calcular los intereses efectivos de un crédito, no comprende aquellas comisiones que los bancos cobren por actos complejos en que se presta un servicio bancario complementario o diferente de la operación de crédito de dinero. En estos casos en que el banco no actúa sólo en calidad de prestamista, las comisiones no constituyen un recargo de la obligación que asume el deudor por un préstamo recibido, sino una remuneración por un servicio que por su naturaleza puede estar ligado a un crédito. Así ocurre, por ejemplo, con las comisiones cobradas por: apertura o mantención de líneas de crédito asociadas a cuentas corrientes; apertura o mantención de líneas de crédito asociadas a cuentas a la vista cuando existe un convenio entre la institución depositaría y un empleador para pagar los sueldos de sus titulares mediante abono a dichas cuentas; apertura y manejo de cartas de crédito; emisión de boletas de garantía; gestión de cobranza de letras de cambio u otros documentos que hayan sido endosados en garantía de créditos, y otros servicios propios de las entidades bancarias.
 
@@ -6467,14 +6467,6 @@ Las presentes instrucciones no comprenden los créditos de consumo que se origin
 7.2.2. Importes que por concepto de gastos se pueden cobrar en el caso de los créditos de consumo.
 
 Cuando se trate de créditos de consumo u otros similares, además de las excepciones ya indicadas en el numeral 7.2.1 precedente, los bancos solamente podrán cobrar sin incorporar los respectivos importes al cálculo de los intereses efectivos de la operación, los conceptos señalados en las letras a), b) y c) del penúltimo párrafo del numeral 7.1.1.
-
-7.2.3. Seguros asociados a créditos de consumo.
-
-Los bancos no podrán establecer la contratación de seguros como condición para otorgar los créditos de consumo. Ello no obsta, naturalmente, para que el deudor tome voluntariamente los seguros que desee, financiándolos con el crédito.
-
-Los bancos que decidan resguardar sus créditos contratando seguros destinados a extinguir todo o parte de la deuda en caso de muerte o cesantía de sus deudores, deben hacerlo a costo de la propia institución, es decir, sin cobrar al deudor del crédito, en forma adicional a los intereses pactados, importe alguno a causa de esos seguros.
-
-Será requisito para otorgar un crédito que contemple además la venta de cualquier seguro de carácter voluntario, que el banco obtenga del solicitante una declaración en que conste su manifestación de voluntad en orden a que, además del crédito que solicita, desea contratar los seguros que indica, por el precio que señala, y que está en conocimiento de que puede obtener el crédito con la misma tasa y demás condiciones que si no adquiriera tales seguros.
 
 8. Improcedencia del cargo de intereses por días adicionales al del vencimiento en descuentos de documentos.
 
@@ -9406,17 +9398,13 @@ d) Administradoras de fondos de capital extranjero según las normas establecida
 
 e) Sociedades securitizadoras de títulos según las normas del Título XVIII de la Ley N° 18.045.
 
-f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con un banco. Al respecto la ley prohíbe expresamente a los bancos condicionar el otorgamiento de créditos a la contratación de seguros a través de un corredor de seguros relacionado con ellas, como es el caso de las filiales de que se trata.
+f) Corredoras de seguros regidas por el D.F.L. N° 251, de 1931. Estas sociedades deberán operar de acuerdo con las normas impartidas por la Superintendencia de Valores y Seguros, relativas a garantizar la independencia de sus actuaciones, atendida su relación con un banco. Al respecto la ley prohíbe condicionar el otorgamiento de créditos a la contratación de los seguros que los bancos ofrezcan y otorga a los deudores el derecho de contratar libremente las pólizas en cualquiera de las entidades que las comercialice, siempre que se mantengan las mismas condiciones de cobertura exigidas para el otorgamiento del crédito.
 
 g) Sociedades administradoras generales de fondos según las normas del Título XXVII de la Ley N° 18.045.
 
 - Según la letra b) del artículo 70:
 
 h) Compañías de leasing, las cuales deben encuadrarse dentro de las condiciones establecidas por esta Superintendencia. Bajo esas condiciones, estas empresas podrán efectuar operaciones de leasing tanto de bienes muebles como inmuebles, incluidos los arrendamientos de viviendas con compromiso de compraventa efectuados al amparo de la Ley N° 19.281.
-
-## Capítulo 11-6
-
-Hoja 3
 
 i) Compañías de factoraje, las que deberán operar bajo las condiciones establecidas por esta Superintendencia.
 
@@ -18351,6 +18339,8 @@ La publicidad que hagan las sucursales o filiales de bancos extranjeros establec
 Los anuncios publicitarios que se hagan en el país acerca de la casa matriz, sucursales o filiales de bancos extranjeros que no operan en Chile pero que tengan representación en el país, deberán incluir la leyenda que se indica a continuación:
 
 "ESTE BANCO TIENE SU CASA MATRIZ EN ..... (PAIS O CIUDAD Y PAIS)..... Y SUS OPERACIONES ESTAN SUJETAS A LAS LEYES, NORMAS Y TRIBUNALES DE ESE PAIS. ESTE BANCO NO ESTA SUJETO A LAS AUTORIDADES CHILENAS NI SUS OPERACIONES SE ENCUENTRAN AMPARADAS POR LA GARANTIA DEL ESTADO CHILENO."
+
+Por otra parte, de conformidad con lo previsto en el artículo 33 de la Ley General de Bancos, las oficinas de representación podrán realizar publicidad de créditos que ofrezcan sus casas matrices para ser otorgados en el país, debiendo señalar claramente sus condiciones de costos por concepto de intereses, gastos y comisiones, como asimismo que la oficina de representación en Chile actuará como coordinadora entre el prestatario y el banco extranjero.
 
 ## Capítulo 18-9
 
