@@ -27,3 +27,23 @@ Gas Licuado 310,0 354,3 398,5 312,01
 Anótese, publíquese y tómese razón.- Por orden del Presidente de la República, Ricardo Raineri Bernain, Ministro de Energía.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Jimena Bronfman C., Subsecretaria de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto N° 163, de 2010, del Ministerio de Energía
+
+Nº 39.959.- Santiago, 19 de julio de 2010.
+
+Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se modifica Precios de Referencia y Paridad para Combustibles derivados del Petróleo, por encontrarse ajustada a derecho, pero cumple con hacer presente que éste fue suscrito por don Ricardo Raineri Bernain en su calidad de Ministro de Energía, lo que se ha omitido consignar en el pie de firma del instrumento en estudio.
+
+Con el alcance que antecede se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Ud., Julio Pallavicini Magnere, Jefe de División Jurídica Contraloría General de la República.- Por Orden del Contralor General.
+
+Al señor
+
+Ministro de Energía
+
+Presente
