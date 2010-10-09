@@ -10,71 +10,41 @@ Proyecto de ley:
 
 De las conductas terroristas y su penalidad
 
-#### Artículo 1°
+#### Artículo 1º
 
-Cometen delito terrorista:
-
-1.- Los que atentaren en contra de la vida o integridad corporal del Jefe del Estado, su cónyuge, ascendientes o descendientes;
-
-2.- Los que atentaren en contra de la vida o integridad corporal de los Ministros y Subsecretarios de Estado, los Miembros del Consejo de Estado, los Senadores y Diputados, los Intendentes, Gobernadores y Alcaldes, los Ministros de la Corte Suprema, los Miembros del Tribunal Constitucional y del Tribunal Calificador de Elecciones, los Ministros de las Cortes de Apelaciones, los Fiscales de esos Tribunales, los Jueces Letrados, el Contralor General de la República, los Arzobispos y Obispos, los Vicarios Generales, los Provisores, los Vicarios y Provicarios Capitulares, los Párrocos y los Ministros de cualquier culto permitido en el país, las personas internacionalmente protegidas en conformidad con las normas del derecho internacional, los funcionarios que pertenezcan a las Fuerzas Armadas, de Orden y Seguridad Pública; sus cónyuges, ascendientes o descendientes, en su caso, y que por las características o circunstancias de su perpetración no pudiere menos que presumirse que se cometieron contra dichas personas en su calidad de tales;
-
-3.- Derogado.
-
-4.- Los que atentaren en contra de una aeronave en vuelo o en servicio o realizaren actos que pongan o puedan poner en peligro la vida, la integridad corporal o la salud de sus pasajeros o de su tripulación, tales como:
-
-a) Ejecutar cualquier acto de violencia contra una persona a bordo, que por su naturaleza constituya un peligro para la seguridad de la aeronave;
-
-b) Desviar indebidamente una aeronave en vuelo de su ruta, alterar su itinerario, apoderarse de ella o ejercer su control;
-
-c) Destruir una aeronave en servicio o causarle daño que la incapacite para el vuelo o constituya un peligro para la seguridad de la aeronave en vuelo;
-
-d) Destruir o dañar las instalaciones o servicios de la navegación aérea, o perturbar su funcionamiento, si tales actos, por su naturaleza, constituyen un peligro para la seguridad de la aeronave;
-
-e) Comunicar a sabiendas informes falsos, poniendo con ello en peligro la seguridad de una aeronave;
-
-f) Portar indebidamente armas o sustancias explosivas, inflamables, asfixiantes, tóxicas o corrosivas, sean sólidas, líquidas o gaseosas que sirvan para matar, herir o golpear, disuadir o vencer una resistencia, aun cuando no se haga uso de ellas, a menos que por su escasa potencia o cantidad, por los antecedentes personales del inculpado y por las circunstancias del hecho, resulte manifiesto que ni siquiera eventualmente se quiso crear el peligro a que se refiere el inciso primero de este número.
-
-Para los efectos de esta ley, se entenderá que una aeronave se encuentra en vuelo o en servicio desde el momento que en la base, aeródromo, aeropuerto o helipuerto es colocada para recibir a su tripulación, hasta que aterriza en la última base, aeródromo, aeropuerto o helipuerto de destino y queda desocupada.
-
-5.- Los que cometieren alguno de los delitos de secuestro contemplados en el artículo 5° b) de la ley N° 12.927, sobre Seguridad del Estado;
-
-6.- Los que colocaren, lanzaren o dispararen bombas o artefactos explosivos o incendiarios de cualquier tipo, que afecten o puedan afectar a la integridad física de las personas o los bienes, en la vía pública, centros de esparcimiento o recreación, instituciones de enseñanza, iglesias; medios de locomoción colectiva o de carga, tales como naves, aeronaves, trenes, buses, transportes escolares o de trabajadores; en lugares caracterizados por la concurrencia habitual de personas; en edificios públicos o privados; en lugares habitados o destinados a la habitación; en instalaciones industriales, o instalaciones o recintos militares o policiales.
-
-Se entiende por recinto militar o policial todo espacio debidamente delimitado, vehículos, naves o aeronaves en los cuales ejerza sus funciones específicas una autoridad militar o policial.
-
-7.- Derogado.
-
-8.- Derogado.
-
-9.- Los que con un fin revolucionario o subversivo y por cualquier medio destruyan, inutilicen, paralicen o dañen medios de transporte marítimo, aéreo o terrestre.
-
-10.- Los que enviaren cartas o encomiendas explosivas de cualquier tipo que afecten o puedan afectar la vida o la integridad corporal de las personas;
-
-11.- Los que se asociaren u organizaren y los que recibieren o impartieren instrucción o enseñanza con el objeto de cometer alguno de los delitos a que se refiere esta ley;
-
-12.- Derogado.
-
-13.- Derogado.
-
-14.- Derogado.
-
-15.- Los que amenazaren seriamente con cometer alguno de los delitos a que se refiere este artículo, que cree o pueda crear conmoción o grave temor en la población o en un sector de ella, o para imponer exigencias o arrancar decisiones a la autoridad o a cualquier persona, y
-
-16.- Derogado.
+Constituirán delitos terroristas los enumerados en el artículo 2º, cuando el hecho se cometa con la finalidad de producir en la población o en una parte de ella el temor justificado de ser víctima de delitos de la misma especie, sea por la naturaleza y efectos de los medios empleados, sea por la evidencia de que obedece a un plan premeditado de atentar contra una categoría o grupo determinado de personas, sea porque se cometa para arrancar o inhibir resoluciones de la autoridad o imponerle exigencias.
 
 #### Artículo 2°
 
-Los autores de los delitos contemplados en el artículo 1° serán castigados con presidio mayor en su grado mínimo a presidio mayor en su grado máximo.
+Constituirán delitos terroristas, cuando cumplieren lo dispuesto en el artículo anterior:
 
-Si a consecuencia de dichos delitos se causaren lesiones de aquellas a que se refiere el número 1° del artículo 397 del Código Penal, la pena será presidio mayor en su grado máximo. Si se causare la muerte de alguna persona, la pena será de presidio mayor en su grado máximo a muerte.
+1.- Los de homicidio sancionados en el artículo 391; los de lesiones establecidos en los artículos 395, 396, 397 y 398; los de secuestro y de sustracción de menores castigados en los artículos 141 y 142; los de envío de cartas o encomiendas explosivas del artículo 403 bis; los de incendio y estragos, descritos en los artículos 474, 475, 476 y 480, y las infracciones contra la salud pública de los artículos 313 d), 315 y 316, todos del Código Penal. Asimismo, el de descarrilamiento contemplado en los artículos 105, 106, 107 y 108 de la Ley General de Ferrocarriles.
 
-Si con motivo u ocasión del secuestro se cometieren, además, algunas de las lesiones comprendidas en los artículos 395, 396 y 397, número 1° del Código Penal o la muerte del ofendido, la pena será de presidio perpetuo a muerte. Si el hechor liberare voluntariamente a la víctima antes de causarle cualquier mal grave distinto de la mera privación de libertad, el juez podrá rebajar la pena en uno o dos grados.
+2.- Apoderarse o atentar en contra de una nave, aeronave, ferrocarril, bus u otro medio de transporte público en servicio, o realizar actos que pongan en peligro la vida, la integridad corporal o la salud de sus pasajeros o tripulantes.
 
-Para la determinación de las penas establecidas en el presente artículo, tendrán aplicación las disposiciones de los artículos 74 y 75 del Código Penal y 509 del Código de Procedimiento Penal, según el caso.
+3.- El atentado en contra de la vida o la integridad corporal del Jefe del Estado o de otra autoridad política, judicial, militar, policial o religiosa, o de personas internacionalmente protegidas, en razón de sus cargos.
+
+4.- Colocar, enviar, activar, arrojar, detonar o disparar bombas o artefactos explosivos o incendiarios de cualquier tipo, armas o artificios de gran poder destructivo o de efectos tóxicos, corrosivos o infecciosos.
+
+5.- La asociación ilícita cuando ella tenga por objeto la comisión de delitos que deban calificarse de terroristas conforme a los números anteriores y al artículo 1°.
+
+INCISO DEROGADO.
 
 #### Artículo 3°
 
-Derogado.
+Los delitos señalados en los números 1.- y 3.- del artículo 2° serán sancionados con las penas previstas para ellos en el Código Penal, en la Ley N° 12.927 o en la Ley General de Ferrocarriles, en sus respectivos casos, aumentadas en uno, dos o tres grados. Con todo, en el caso de los numerales 1º y 2º del artículo 476 del Código Penal, la pena se aumentará en uno o dos grados, y en el caso del numeral 3º del artículo 476, se aplicarán las sanciones previstas en dicha disposición, con excepción de la pena de presidio mayor en su grado mínimo.
+
+Los delitos contemplados en el número 2.- del artículo 2° serán sancionados con presidio mayor en cualquiera de sus grados. Si se ocasionare la muerte o lesiones graves de alguno de los tripulantes o pasajeros de cualquiera de los medios de transporte mencionados en dicho número, se impondrá la pena de presidio mayor en su grado máximo a presidio perpetuo calificado.
+
+Los delitos señalados en el número 4.- del artículo 2° serán penados con presidio mayor en cualquiera de sus grados.
+
+El delito de asociación ilícita para la comisión de actos terroristas será penado conforme a los artículos 293 y 294 del Código Penal, y las penas allí previstas se aumentarán en dos grados, en los casos del artículo 293 y en un grado en los del artículo 294. Será también aplicable lo dispuesto en el artículo 294 bis del mismo Código.
+
+#### Artículo 3° bis
+
+Para efectuar el aumento de penas contemplado en el artículo precedente, el tribunal determinará primeramente la pena que hubiere correspondido a los responsables, con las circunstancias del caso, como si no se hubiere tratado de delitos terroristas, y luego la elevará en el número de grados que corresponda.
+
+INCISO DEROGADO.
 
 #### Artículo 4°
 
@@ -82,23 +52,27 @@ Podrá disminuirse la pena hasta en dos grados respecto de quienes llevaren a ca
 
 #### Artículo 5°
 
-Sin perjuicio de las penas accesorias que correspondan de acuerdo con las normas generales, a los condenados por alguno de los delitos contemplados en el artículo 1° les afectarán las inhabilidades a que se refiere el artículo 9° de la Constitución Política del Estado.
+Sin perjuicio de las penas accesorias que correspondan de acuerdo con las normas generales, a los condenados por alguno de los delitos contemplados en los artículos 1° y 2° les afectarán las inhabilidades a que se refiere el artículo 9° de la Constitución Política del Estado.
 
 #### Artículo 6°
 
 Derogado.
 
-#### Artículo 7°
+#### Artículo 7º
 
-La conspiración y la proposición se castigarán con la pena asignada al delito consumado, rebajada en uno o dos grados.
+La tentativa de cometer alguno de los delitos a que se refiere esta ley se castigará con la pena asignada al respectivo ilícito, rebajada en uno o dos grados. La conspiración para cometer alguno de esos delitos se sancionará con la pena señalada por la ley al delito rebajada en dos grados. Lo expuesto en el presente inciso es sin perjuicio de lo dispuesto en el artículo 3º bis.
 
-#### Artículo 8°
+La amenaza seria y verosímil de cometer alguno de los delitos mencionados en esta ley será sancionada con las penas de la tentativa del delito respectivo, sin efectuarse los aumentos de grados señalados en el artículo 3º. Lo expuesto precedentemente no tendrá lugar si el hecho mereciere mayor pena de acuerdo al artículo 296 del Código Penal.
 
-Derogado.
+#### Artículo 8º
 
-#### Artículo 9°
+El que por cualquier medio, directa o indirectamente, solicite, recaude o provea fondos con la finalidad de que se utilicen en la comisión de cualquiera de los delitos terroristas señalados en el artículo 2º, será castigado con la pena de presidio menor en su grado medio a presidio mayor en su grado mínimo, a menos que en virtud de la provisión de fondos le quepa responsabilidad en un delito determinado, caso en el cual se le sancionará por este último título, sin perjuicio de lo dispuesto en el artículo 294 bis del Código Penal.
 
-Derogado.
+#### Artículo 9º
+
+Quedará exento de responsabilidad penal quien se desistiere de la tentativa de cometer algunos de los delitos previstos en esta ley, siempre que revele a la autoridad su plan y las circunstancias del mismo.
+
+En los casos de conspiración o de tentativa en que intervengan dos o más personas como autores, inductores o cómplices, quedará exento de responsabilidad penal quien se desistiere cumpliendo con la exigencia prevista en el inciso precedente, siempre que por su conducta haya conseguido efectivamente impedir la consumación del hecho o si la autoridad ha logrado igual propósito como consecuencia de las informaciones o datos revelados por quien se ha desistido. De producirse la consumación del delito, se estará a lo dispuesto en el artículo 4º.
 
 ## Capítulo II
 
@@ -106,59 +80,103 @@ De la Jurisdicción y del Procedimiento
 
 #### Artículo 10
 
-Los procesos a que dieren lugar los delitos previstos en esta ley se iniciarán de oficio por los Tribunales de Justicia o por denuncia o querella, de acuerdo con las normas generales.
+Las investigaciones a que dieren lugar los delitos previstos en esta ley se iniciarán de oficio por el Ministerio Público o por denuncia o querella, de acuerdo con las normas generales.
 
-Sin perjuicio de lo anterior, también podrán iniciarse por requerimiento o denuncia del Ministro del Interior, de los Intendentes Regionales, de los Gobernadores Provinciales y de los Comandantes de Guarnición, caso en el cual se aplicará lo dispuesto en el Título VI, sobre Jurisdicción y Procedimiento, de la ley N° 12.927, con excepción de lo señalado en la letra ñ) de su artículo 27.
-
-Las autoridades a que se refiere el inciso anterior podrán, además, formular requerimiento, aun cuando se haya iniciado el proceso, caso en el cual también se aplicarán las normas sobre jurisdicción y procedimiento señaladas en dicho inciso.
-
-En todos los procesos que se inicien por infracción a esta ley y que se generen por denuncia o requerimiento del Ministerio del Interior o de las demás autoridades señaladas en el inciso segundo, y que sean de la jurisdicción de los Tribunales Ordinarios de Justicia, intervendrá en representación del Ministerio del Interior, el Abogado Procurador General, quien actuará en lugar del abogado del Ministerio del Interior a que se refiere la letra a) del artículo 27 de la ley N° 12.927, y le corresponderá ejercer todas las facultades que este precepto señala para aquél. Podrá, igualmente intervenir, haciéndose parte, en cualquier proceso iniciado por infracción a esta ley.
-
-Sin perjuicio de las facultades antes mencionadas, corresponderá, asimismo al Abogado Procurador General, la misión de centralizar la defensa del Gobierno constituido y de la sociedad amenazada en todos los procesos de esta naturaleza, debiendo para ello apreciar la eventual participación de las mismas personas en procesos tramitados ante tribunales diversos, las vinculaciones entre los diferentes hechores y las particularidades o semejanzas en los medios o procedimientos empleados. Deberá, igualmente, velar por el oportuno empleo de todas las facultades y recursos que la ley N° 18.314 autoriza e iniciar las nuevas acciones penales que fueren necesarias.
-
-En los casos que lo estimare conveniente, el Abog do Procurador General podrá delegar sus funciones en abogados que actuarán en su representación, designación que podrá hacerse aún telegráficamente. Todos ellos tendrán derecho al conocimiento del sumario, por el solo ministerio de la ley.
-
-Si en el proceso se dedujere acusación, se pondrá ésta en conocimiento del Abogado Procurador General o del abogado que lo represente, según el caso.
+Sin perjuicio de lo anterior, también podrán iniciarse por querella del Ministro del Interior, de los Intendentes Regionales, de los Gobernadores Provinciales y de los Comandantes de Guarnición.
 
 #### Artículo 11
 
-El Tribunal podrá, por resolución fundada y siempre que las necesidades de la investigación así lo requieran, ampliar hasta por diez días el plazo para poner al detenido a su disposición, pudiendo disponer durante este lapso su incomunicación.
+Siempre que las necesidades de la investigación así lo requieran, a solicitud del fiscal y por resolución fundada, el juez de garantía podrá ampliar hasta por diez días los plazos para poner al detenido a su disposición y para formalizar la investigación.
 
-El juez podrá revocar en cualquier momento la autorización que hubiere dado y ordenar que se ponga al detenido inmediatamente a su disposición.
+En la misma resolución que amplie el plazo, el juez de garantía ordenará que el detenido ingrese en un recinto penitenciario y que el detenido sea examinado por el médico que el juez designe, el cual deberá practicar el examen e informar al tribunal el mismo día de la resolución. El nombramiento en ningún caso podrá recaer en un funcionario del organismo policial que hubiere efectuado la detención o en cuyo poder se encontrare el detenido.
+
+La negligencia grave del juez en la debida protección del detenido será considerada como infracción a sus deberes, de acuerdo con el artículo 324 del Código Orgánico de Tribunales.
+
+El juez podrá revocar en cualquier momento la autorización que hubiere dado y ordenar que se ponga al detenido inmediatamente a su disposición y se formalice la investigación dentro de tercero día contado desde la detención o, si este plazo ya hubiere transcurrido, dentro de las veinticuatro horas siguientes.
 
 #### Artículo 12
 
-Las diligencias ordenadas por los Tribunales serán cumplidas por las Fuerzas de Orden y Seguridad Pública, separada o conjuntamente según lo disponga la respectiva resolución.
-
-Sin perjuicio de lo establecido en el inciso precedente, en las causas que conozcan los Tribunales Militares, éstos podrán ordenar el cumplimiento de diligencias a la Central Nacional de Informaciones.
+Las diligencias ordenadas por el Ministerio Público, y autorizadas por el juez de garantía cuando corresponda, serán cumplidas por las Fuerzas de Orden y Seguridad Pública, separada o conjuntamente según lo disponga la respectiva comunicación, o resolución en su caso.
 
 #### Artículo 13
 
-En la investigación de los delitos a que se refiere esta ley y sin perjuicio de las normas generales, los miembros de las Fuerzas de Orden y Seguridad Pública y de la Central Nacional de Informaciones podrán proceder, previa orden escrita del Ministerio del Interior, de los Intendentes Regionales, de los Gobernadores Provinciales o de los Comandantes de Guarnición, sin necesidad de mandato judicial, pero sólo cuando el recabarlo previamente pudiere frustrar el éxito de la diligencia, a la detención de presuntos responsables, así como el registro e incautación de los efectos o instrumentos que se encontraren en el lugar de detención y que pudieren guardar relación con los delitos que se investigan.
-
-La autoridad que ordenare practicar las diligencias a que se refiere el inciso anterior, deberá dar aviso, dentro de las cuarenta y ocho horas, al Tribunal al que corresponda el conocimiento del delito, de las detenciones y registros que se hubieren efectuado, poniendo a disposición de aquél, dentro del plazo señalado, al o a los arrestados y los efectos o instrumentos incautados.
-
-El Tribunal, por resolución fundada, podrá ampliar dicho plazo hasta en diez días, en las condiciones señaladas en el artículo 11.
+DEROGADO
 
 #### Artículo 14
 
-Las autoridades señaladas en el artículo 10 podrán solicitar la interceptación, apertura o registro de las comunicaciones y documentos privados o la observación, por cualquier medio, de personas sospechosas de la comisión o preparación de delitos terroristas. Corresponderá resolver sobre esta petición al Tribunal que estuviese conociendo o le correspondiese conocer del delito cometido o en preparación. La resolución se dictará sin conocimiento del afectado, será siempre fundada y no será susceptible de recurso alguno. Las medidas no podrán decretarse por un plazo superior a treinta días, prorrogables hasta por igual período.
+En los casos del artículo 1º de esta ley, durante la audiencia de formalización de la investigación o una vez formalizada ésta, si procediere la prisión preventiva del imputado, el Ministerio Público podrá pedir al juez de garantía que decrete, además, por resolución fundada, todas o algunas de las siguientes medidas:
 
-En casos de urgencia, esta medida podrá ordenarla el Ministro del Interior, comunicándolo al Tribunal respectivo, por escrito y dentro de las veinticuatro horas siguientes. El Tribunal, mediante resolución fundada, revocará o confirmará tal medida en un plazo máximo de setenta y dos horas, desde que fue ordenada la interceptación, apertura o registro.
+1.- Recluir al imputado en lugares públicos especialmente destinados a este objeto.
+
+2.- Establecer restricciones al régimen de visitas.
+
+3.- Interceptar, abrir o registrar sus comunicaciones telefónicas e informáticas y su correspondencia epistolar y telegráfica.
+
+Las medidas indicadas precedentemente no podrán afectar la comunicación del imputado con sus abogados y la resolución que las imponga sólo será apelable en el efecto devolutivo.
+
+Sin perjuicio de lo anterior, en cualquier momento el Ministerio Público podrá solicitar autorización judicial para la realización de diligencias de investigación que la requieran, en los términos del artículo 236 del Código Procesal Penal.
+
+En ningún caso las medidas a que se refiere este artículo podrán adoptarse en contra de los Ministros de Estado, los subsecretarios, los parlamentarios, los jueces, los miembros del Tribunal Constitucional y del Tribunal Calificador de Elecciones, el Contralor General de la República, los Generales y los Almirantes.
 
 #### Artículo 15
 
-Cuando a juicio del Tribunal resulte conveniente para el éxito de la investigación mantener en secreto las declaraciones y la individualización de los testigos, de denunciantes o de cualquier persona que deba comparecer en el proceso, o cuando cualquiera de dichas personas así lo requiera, el Tribunal hará constar dichos antecedentes en cuaderno separado, que tendrá carácter de confidencial y al cual tendrá acceso exclusivamente el Tribunal al que corresponda el conocimiento y fallo de algún recurso.
+Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, si en la etapa de investigación el Ministerio Público estimare, por las circunstancias del caso, que existe un riesgo cierto para la vida o la integridad física de un testigo o de un perito, como asimismo de su cónyuge, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
 
-Los antecedentes que obren en el referido cuaderno confidencial deberán ser dados a conocer al inculpado o reo para su adecuada defensa al momento de notificársele la acusación, en caso de que se pretendieren hacer valer en su contra para condenarlo.
+Para proteger la identidad de los que intervengan en el procedimiento, su domicilio, profesión y lugar de trabajo, el fiscal podrá aplicar todas o alguna de las siguientes medidas:
+
+a) que no conste en los registros de las diligencias que se practiquen sus nombres, apellidos, profesión u oficio, domicilio, lugar de trabajo, ni cualquier otro dato que pudiera servir para su identificación, pudiendo utilizar una clave u otro mecanismo de verificación para esos efectos.
+
+b) que su domicilio sea fijado, para notificaciones y citaciones, en la sede de la fiscalía o del tribunal, debiendo el órgano interviniente hacerlas llegar reservadamente a su destinatario, y
+
+c) que las diligencias que tuvieren lugar durante el curso de la investigación, a las cuales deba comparecer el testigo o perito protegido, se realicen en un lugar distinto de aquél donde funciona la fiscalía, y de cuya ubicación no se dejará constancia en el registro respectivo.
+
+Cualquiera de los intervinientes podrá solicitar al juez de garantía la revisión de las medidas resueltas por el Ministerio Público.
 
 #### Artículo 16
 
-Las personas mencionadas en el artículo precedente podrán declarar en lugar distinto al del recinto del Tribunal y de cuya ubicación no se requerirá dejar constancia en el expediente.
+El tribunal podrá decretar la prohibición de revelar, en cualquier forma, la identidad de testigos o peritos protegidos, o los antecedentes que conduzcan a su identificación. Asimismo, podrá decretar la prohibición para que sean fotografiados, o se capte su imagen a través de cualquier otro medio.
+
+La infracción de estas prohibiciones será sancionada con la pena de reclusión menor en su grado medio a máximo, tratándose de quien proporcionare la información. En caso de que la información fuere difundida por algún medio de comunicación social, se impondrá a su director, además, una multa de diez a cincuenta ingresos mínimos.
 
 #### Artículo 17
 
-Respecto de los delitos contemplados en el artículo 1°, no procederá la libertad provisional de los procesados.
+De oficio o a petición del interesado, durante el desarrollo del juicio, o incluso una vez que éste hubiere finalizado, si las circunstancias de peligro se mantienen, el Ministerio Público o el tribunal otorgarán protección policial a quien la necesitare, de conformidad a lo prevenido en el artículo 308 del Código Procesal Penal.
+
+#### Artículo 18
+
+Las declaraciones de testigos y peritos, cuando se estimare necesario para su seguridad personal, podrán ser recibidas anticipadamente en conformidad con el artículo 191 del Código Procesal Penal. En este caso, el juez de garantía podrá disponer que los testimonios de estas personas se presten por cualquier medio idóneo que impida su identificación física normal. Igual sistema de declaración protegida podrá disponerse por el tribunal de juicio oral en lo penal, en su caso.
+
+Si las declaraciones se han de prestar de conformidad al inciso precedente, el juez deberá comprobar en forma previa la identidad del testigo o perito, en particular los antecedentes relativos a sus nombres y apellidos, edad, lugar de nacimiento, estado, profesión, industria o empleo y residencia o domicilio. Consignada en el registro tal comprobación, el tribunal podrá resolver que se excluya del debate cualquier referencia a la identidad que pudiere poner en peligro la protección de ésta.
+
+En ningún caso la declaración de cualquier testigo o perito protegido podrá ser recibida e introducida al juicio sin que la defensa haya podido ejercer su derecho a contrainterrogarlo personalmente. El defensor podrá dirigir al testigo o perito protegido las interrogaciones tendientes a establecer su credibilidad o acreditación y a esclarecer los hechos sobre los cuales depone, siempre que dichas preguntas no impliquen un riesgo de revelar su identidad. Lo expuesto en este inciso se aplicará a quien se encuentre en el caso del artículo 9º.
+
+#### Artículo 19
+
+Las medidas de protección antes descritas podrán ir acompañadas, en caso de ser estrictamente necesario, de medidas complementarias, tal como la provisión de los recursos económicos suficientes para el cambio de domicilio u otra que se estime idónea en función del caso.
+
+#### Artículo 20
+
+El tribunal, en caso de ser estrictamente indispensable para la seguridad de estas personas podrá, con posterioridad al juicio, autorizarlas para cambiar de identidad.
+
+La Dirección Nacional del Servicio de Registro Civil e Identificación adoptará todos los resguardos necesarios para asegurar el carácter secreto de esta medida, conforme al reglamento que se dicte al efecto.
+
+Todas las actuaciones judiciales y administrativas a que dé lugar esta medida serán secretas. El funcionario del Estado que violare este sigilo será sancionado con la pena de presidio menor en sus grados medio a máximo.
+
+Quienes hayan sido autorizados para cambiar de identidad sólo podrán usar sus nuevos nombres y apellidos en el futuro. El uso malicioso de su anterior identidad y la utilización fraudulenta de la nueva, serán sancionados con la pena de presidio menor en su grado mínimo.
+
+#### Artículo 21
+
+Cuando se trate de la investigación de los delitos a que se refiere esta ley, si el Ministerio Público estimare que existe riesgo para la seguridad de testigos o peritos, podrá disponer que determinadas actuaciones, registros o documentos sean mantenidos en secreto respecto de uno o más intervinientes, en los términos que dispone el artículo 182 del Código Procesal Penal. El plazo establecido en el inciso tercero de esta última disposición podrá ampliarse hasta por un total de seis meses.
+
+El que revelare actuaciones, registros o documentos ordenados mantener en secreto será castigado con presidio menor en sus grados medio a máximo.
+
+#### Artículo 22
+
+DEROGADO
+
+#### Artículo 23
+
+En el caso de condena por delito terrorista y por otro tipo de delito, se cumplirá la pena asignada al o los delitos de esta ley y, posteriormente, las otras penas, contándose aquélla desde la fecha de la detención, cualquiera haya sido el delito que la motivó.
 
 #### Artículo transitorio
 
