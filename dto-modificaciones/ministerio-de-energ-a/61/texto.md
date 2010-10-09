@@ -19,3 +19,23 @@ P. Combustible 409,6 468,2 526,7 465,72
 Anótese, publíquese y tómese razón.- Por orden del Presidente de la República, Ricardo Raineri Bernain, Ministro de Energía.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Jimena Bronfman Crenovich, Subsecretaria de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto N° 61, de 2010, del Ministerio de Energía
+
+Nº 18.347.- Santiago, 8 de abril de 2010.
+
+Esta Contraloría General ha dado curso al documento de la suma, que en conformidad con la ley N° 19.030, modifica los Precios de Referencia y Paridad para Combustibles derivados del Petróleo, pero cumple con hacer presente, de acuerdo con los antecedentes acompañados, que la referencia al Of. Ord. N° 0238/2010, de la Comisión Nacional de Energía, contenida en los Vistos del acto administrativo en examen, debe entenderse efectuada al Of. Ord. N° 0245 de 2010, de la aludida comisión.
+
+Con el alcance que antecede se ha tomado razón del decreto del epígrafe.
+
+Saluda atentamente a Ud., Julio Pallavicini Magnere, Jefe de la División Jurídica Contraloría General de la República.- Por Orden del Contralor General.
+
+Al señor
+
+Ministro de Energía
+
+Presente
