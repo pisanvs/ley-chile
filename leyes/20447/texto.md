@@ -442,13 +442,13 @@ El primer Consejo Resolutivo de Asignaciones Parlamentarias se elegirá dentro d
 
 #### Artículo 3°
 
-El reglamento del Comité de Auditoría Parlamentaria deberá quedar aprobado a más tardar dentro de los sesenta días siguientes a la publicación de esta ley. Las designaciones del primer Comité de Auditoría Parlamentaria deberán efectuarse a más tardar el 31 de enero de 2010 y el Comité deberá constituirse antes del 31 de marzo de 2010.
+El reglamento del Comité de Auditoría Parlamentaria deberá quedar aprobado a más tardar dentro de los ciento ochenta días siguientes a la publicación de esta ley. Las designaciones del primer Comité de Auditoría Parlamentaria deberán efectuarse a más tardar el 31 de enero de 2011 y el Comité deberá constituirse antes del 31 de marzo de 2011.
 
 #### Artículo 4°
 
 Mientras no inicie su funcionamiento el Consejo Resolutivo de Asignaciones Parlamentarias, las respectivas comisiones de régimen de cada Cámara conservarán sus atribuciones para establecer el destino de los fondos públicos para el ejercicio de la función parlamentaria.
 
-Asimismo, en tanto no comience a funcionar el Comité de Auditoría Parlamentaria, las comisiones revisoras de cuentas de cada Corporación seguirán efectuando el control de los fondos públicos destinados al ejercicio de la función parlamentaria. Las comisiones revisoras de cuentas, además del informe respecto del ejercicio terminado el 31 de diciembre de 2009, deberán emitir un informe complementario, relativo al uso de los fondos públicos destinados al ejercicio de la función parlamentaria, en el período comprendido entre el 1 de enero de 2010 y el 31 de marzo del mismo año.
+Asimismo, en tanto no comience a funcionar el Comité de Auditoría Parlamentaria, las comisiones revisoras de cuentas de cada Corporación seguirán efectuando el control de los fondos públicos destinados al ejercicio de la función parlamentaria. Las comisiones revisoras de cuentas, además del informe respecto del ejercicio terminado el 31 de diciembre de 2010, deberán emitir un informe complementario, relativo al uso de los fondos públicos destinados al ejercicio de la función parlamentaria, en el período comprendido entre el 1 de enero de 2011 y el 31 de marzo del mismo año.
 
 Los informes sobre rendiciones de cuenta que conozca cada Cámara y que no sean observados, se entenderán aprobados y no podrán ser objeto de nuevas revisiones.
 
