@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.065, de 6 de octubre de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 7 de 2010, modificada mediante resoluciones exentas Nº 1.800, Nº 1.802, Nº 2.190, Nº 2.664, Nº 2.665, Nº 2.737 y Nº 2.849, todas de 2010, de esta Subsecretaría de Pesca, que estableció la distribución de la fracción artesanal de la pesquería de Merluza del sur de la XI Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de eliminar, en la letra d) del numeral 5º, la siguiente frase: "Esta regla no operará respecto de los meses noviembre-diciembre de 2010.".
+
+Valparaíso, 6 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
