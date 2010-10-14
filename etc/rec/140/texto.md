@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.778 de 06 de octubre del 2010, se publicó Resolución Núm. 4.038 exenta.-, que DELEGA FACULTADES QUE INDICA, con el error de transcripción, que se salva a continuación: cuerpo I, página uno, primera columna, donde dice "... Ministerio de Defensa Nacional - SUBSECRETARÍA DE GUERRA – Caja de Previsión de la Defensa Nacional ..." debe decir "... Ministerio de Defensa Nacional - SUBSECRETARÍA PARA LAS FUERZAS ARMADAS – Caja de Previsión de la Defensa Nacional ..."
