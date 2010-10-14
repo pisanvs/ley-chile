@@ -96,6 +96,18 @@ Corresponde al ordenamiento, mediante asignaciones especiales, de los estudios, 
 
 Dichas asignaciones especiales corresponderán al código y nombre que se le asigne en el Banco Integrado de Proyectos (BIP).
 
+### V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA
+
+Corresponde a las instancias previas al devengamiento en la ejecución del presupuesto, que las entidades públicas deberán utilizar e informar con el objeto de conocer el avance en la aplicación de los recursos presupuestarios.
+
+PREAFECTACION: Corresponde a las decisiones que dan cuenta de intenciones de gasto y sus montos y que no originan obligaciones con terceros, tales como la identificación de iniciativas de inversión, distribución regional de gastos, procesos de selección, solicitud de cotizaciones directas o a través de los sistemas de la Dirección de Compras y Contratación Pública, llamados a licitación y similares.
+
+AFECTACION: Corresponde a las decisiones que importan el establecimiento de obligaciones con terceros sujetos a los procedimientos de perfeccionamiento que, en cada caso, correspondan, tales como adjudicaciones de contratos o selección de proveedores de bienes y servicios comprendidos en convenios marco suscritos por la Dirección de Compras y Contrataciones Públicas.
+
+COMPROMISO CIERTO: Corresponde a las decisiones de gasto que, por el avance en su concreción, dan origen a obligaciones recíprocas con terceros contratantes, tales como la emisión de órdenes de compra por la contratación del suministro de bienes o servicios o la ejecución de obras, según corresponda. Se incluyen en esta etapa las obligaciones de carácter legal y contractual asociadas al personal de planta y a contrata.
+
+COMPROMISO IMPLICITO: Corresponde a aquellos gastos que por su naturaleza o convención, no pasan previamente por alguna de las etapas de afectación antes establecidas y se originan en forma simultánea al devengamiento, como es el caso de los servicios básicos, peajes, permisos de circulación de vehículos y similares.
+
 CLASIFICADOR DE INGRESOS Y GASTOS
 
 2.Apruébase el siguiente Clasificador de Ingresos y Gastos, que para los efectos de la ejecución presupuestaria e información mensual pertinente, deberán utilizar todos los organismos del sector público, a que se refiere el decreto ley N° 1.263, de 1975.
@@ -891,6 +903,8 @@ Empleador
 003 Fondo Retiro Funcionarios
 
 Públicos Ley Nº 19.882
+
+004 Otras indemnizaciones
 
 24 TRANSFERENCIAS CORRIENTES
 
@@ -4102,6 +4116,8 @@ Considera las siguientes asignaciones:
 
 Ley Nº 19.882.
 
+004 Otras indemnizaciones
+
 24 TRANSFERENCIAS CORRIENTES
 
 Comprende los gastos correspondientes a
@@ -5630,7 +5646,9 @@ Para realizar la referida desagregación, se considerarán las siguientes distin
 
 06 Programas Culturales: comprende todo gasto relacionado con el desarrollo de iniciativas que ejecute directamente el municipio, orientadas al fomento y difusión de la cultura y de las artes entre los habitantes de la comuna. Incluye las subvenciones a entidades públicas o privadas que conceda con la misma finalidad.
 
-> **Nota.** El DTO 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
+> **Nota.** El Decreto 1107, Hacienda, publicado el 25.11.2005, modifica la presente norma en el sentido de incorporar en el Subtítulo 09 Aporte fiscal, Item 02 Servicio de la Deuda Interna y 03 Servicio de la Deuda Externa las siguientes asignaciones: 001 Amortización 002 Intereses 003 Otros Gastos Financieros
+
+> **Nota.** NOTA 1 El Decreto 1403, Hacienda, promulgado el 02.12.2005, modifica la presente norma, en el sentido de agregar al N° 1, una nueva clasificación: "V. CLASIFICACION POR GRADO DE AFECTACION PRESUPUESTARIA", la que ha sido incorporada a este texto actualizado. Sin embargo, la norma modificatoria no ha sido publicada en el Diario Oficial.
 
 Tómese razón, comuníquese y publíquese.- Por orden del Presidente de la República, Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
