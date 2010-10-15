@@ -18,7 +18,7 @@ Modifícase el artículo 2º del decreto Nº 80, de 31 de julio de 2006, del Min
 
 a) En el Nº 1, relativo a la Integración del Consejo, se sustituye la letra f) por la siguiente: .f) Un representante del Ministerio de Hacienda..
 
-b) En el Nº 1, relativo a la Integración del Consejo, se sustituye la letra g) por la siguiente: .g) 12 representantes del sector privado y sus respectivos suplentes, de los cuales 9 deberán estar vinculados al Sector Exportador Silvoagropecuario y 3 vinculados a la Agricultura Campesina, todos designados por el Ministro de Agricul-tura.
+b) DEROGADO.
 
 c) En el Nº 1, relativo a la Integración del Consejo, se sustituye el segundo párrafo, por el siguiente: .Los Consejeros a los que se refiere la letra g), durarán un año en el cargo desde la fecha de su designación, entendiéndose renovadas sus designaciones por igual período de tiempo, a menos que con 30 días de anticipación al término del período respectivo, se designen nuevos Consejeros en su reemplazo..
 
