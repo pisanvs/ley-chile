@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta 2.933, 07 octubre 2010, Serviu Región del Bío Bío se desistió de expropiación total de los derechos cuotativos del inmueble en que se encontraba emplazada la Población Galvarino del sector Santiago Bueras, comuna de Los Ángeles, referido sólo a los siguientes Roles de Avalúo: Rol de Avalúo Nº 967-20, de aparente dominio de don Luis Gonzalo Sandoval Morales; Rol de Avalúo Nº 967-23, de aparente dominio de don Osvaldo O. Garrido Barrientos; Rol de Avalúo Nº 967-33, de aparente dominio de don Celso B. García García; Rol de Avalúo Nº 967-62, de aparente dominio de doña Herminda Sagal Ortiz; Rol de Avalúo Nº 967-95, de aparente dominio de don Federico A. Martínez Carrasco; y, Rol de Avalúo Nº 967-92, de aparente dominio de don Flavio Lucio Soto Soto, realizada en el marco del Programa de Expropiaciones en la Región del Biobío para los años 2010 y siguientes, para la adquisición de terrenos destinados para la reconstrucción de conjuntos habitacionales construidos por el Serviu Región del Biobío en diversas comunas de la Región, que resultaron gravemente dañadas a raíz del terremoto del 27 de febrero de 2010.
+
+Director Serviu Región del Bíobío
