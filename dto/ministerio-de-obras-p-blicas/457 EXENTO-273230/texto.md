@@ -1,5 +1,5 @@
 Por decreto MOP exento Nº 457, de 30 de mayo de 2008, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850, de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote Nº3 para la construcción del Proyecto Laja Diguillín, obra "Camino de Acceso a Canal Matriz Diguillín Larqui Km.
 
-5,951", que figura a nombre de Pereira Sandoval Luis Humberto, rol de avalúo Nº 602-86, Comuna de San Ignacio, VIII Región, superficie 1.182 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 15 de mayo de 2004, en la cantidad de $1.098.490.- para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
+5,951", que figura a nombre de Pereira Sandoval Luis Humberto, rol de avalúo Nº 602-85, Comuna de San Ignacio, VIII Región, superficie 1.182 m². La Comisión de Peritos fijó el monto provisional de la indemnización el 15 de mayo de 2004, en la cantidad de $1.098.490.- para el lote Nº3. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº 2.186, de 1978.
 
 Fiscal del Ministerio de Obras Públicas.
