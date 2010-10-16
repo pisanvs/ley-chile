@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1892 de 30 de septiembre de 2010, se modificó el Decreto MOP (Exento) N°839 de 25 de junio de 2010, sólo en la parte que se refiere a los lotes de terreno N°33 y 33-A de la obra: Mejoramiento Ruta H-780, Sector Las Cabras - El Manzano, Tramo km. 3,56000 a km. 19,47571, en la parte que se refiere al número de rol de avalúo, comuna y al nombre de los propietarios según el Servicio de Impuestos Internos, quedando éstos como AGRICOLA LA CABANA TRES LIMITADA, rol de avalúo 155-18, comuna de Las Cabras. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
