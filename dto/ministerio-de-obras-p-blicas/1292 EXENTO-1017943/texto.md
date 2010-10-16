@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1292, de 31 de agosto de 2010, se modificó el numeral segundo del Decreto Exento MOP. Nº1065, de 30 de julio de 2010, con motivo de la ejecución de la obra: "Reposición Ruta 11-CH, Arica Tambo Quemado, Kilómetro 147,76000 al Kilómetro 170,17141". Provincia de Parinacota, comuna de Putre, XV Región de Arica y Parinacota, en cuanto a que el número de lote a expropiar que se hace mención en el cuadro de expropiación es el Nº9 y no como se indica en dicho Decreto.
+
+Fiscal del Ministerio de Obras Públicas.
