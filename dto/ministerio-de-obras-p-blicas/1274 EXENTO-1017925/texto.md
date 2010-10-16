@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1274, de fecha 31 de agosto de 2010, se expropió el lote de terreno Nº6-B, superficie 3.475 m2, Rol de Avaluó en trámite, comuna de Illapel, IV Región para la obra "Camino Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474", y se acordó el valor de indemnización con su propietario SERVANDO PATRICIO OLIVARES AGUILERA, ascendente a la cantidad de $8.392.983.-
+
+Fiscal del Ministerio de Obras Públicas.
