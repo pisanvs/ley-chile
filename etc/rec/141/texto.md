@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.782 de 12 de octubre del 2010, se publicó Decreto Núm. 761, que DISPONE SUBROGACIÓN COMO VICEPRESIDENTE DE LA REPÚBLICA, con el error de transcripción, que se salva a continuación: cuerpo I, página uno, tercera columna, donde dice "... y teniendo presente que me ausentaré del territorio nacional el día 21 de septiembre de 2020 para viajar a la ciudad de Nueva York, ..." debe decir "... y teniendo presente que me ausentaré del territorio nacional el día 21 de septiembre de 2010 para viajar a la ciudad de Nueva York, ...".
