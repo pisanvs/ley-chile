@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº1276, de 31 de agosto de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se expropió el lote de terreno N°77, para la obra: "Mejoramiento Ruta D-805, Illapel - Caren", Provincia de CHOAPA, que figura a nombre de CARDEMIL CABRERA GRACIELA, rol de avalúo 435-4, Comuna de ILLAPEL, IV Región de Coquimbo, superficie 652 m2. La Comisión de Peritos el 5 de noviembre de 2008, fijó el monto de la indemnización provisional en la cantidad de $621.600.- para el lote N°77. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
