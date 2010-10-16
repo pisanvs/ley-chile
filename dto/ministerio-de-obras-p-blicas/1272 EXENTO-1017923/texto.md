@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº 1272 de 31 de agosto de 2010, se expropió el lote de terreno Nº 35, superficie 274 m2, rol de Avalúo 902-22, comuna de Coquimbo, para la obra "MEJORAMIENTO RUTA D-35, (CAMINO LA CANTERA) S: AV. DEL MAR - RUTA 43, ETAPA I", IV Región y se acordó el valor de la indemnización con su propietaria doña ISABEL ALICIA ADAROS LÓPEZ Y OTRA, ascendente a la cantidad de $55.903.801.-
+
+Fiscal del Ministerio de Obras Públicas.
