@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº 1273 de 31 de agosto del 2010, se expropió el lote de terreno Nº 39-C, superficie 258 m2., Rol Nº 132-32, comuna de Vichuquén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTÉN - VICHUQUÉN TRAMO KM. 0,000000 AL KM. 15,372989, COMUNAS LINCANTEN Y VICHUQUÉN, PROVINCIA CURICO, VII REGION", y se acordó el valor de indemnización con su propietario don ALAMIRO DEL CARMEN CUEVAS MUÑOZ, ascendente a la cantidad de $819.937.-
+
+Fiscal del Ministerio de Obras Públicas.
