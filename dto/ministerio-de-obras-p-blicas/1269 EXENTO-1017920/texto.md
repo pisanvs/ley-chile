@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. Nº1269, de fecha 31 de agosto de 2010, se expropió el lote de terreno Nº39, superficie 500 m2, Rol Nº 902-20, comuna de Coquimbo, IV Región para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43, Etapa II", y se acordó el valor de indemnización con su propietario HUGO ARAYA OCARANZA, ascendente a la cantidad de $71.163.955.-
+
+Fiscal del Ministerio de Obras Públicas.
