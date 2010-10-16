@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 1598, de 22 de septiembre de 2010, se modificó el numeral primero del Decreto MOP. Nº332, de 27 de abril de 2004, con motivo de la ejecución de la obra: "Mejoramiento Ruta 60-CH, sector Villa Dulce Torquemada, Tramo Km. 0,00000 a Km. 10,47641", en el sentido de que la ubicación del lote de terreno Nº17-F, se encuentra entre los kilómetros 8,58550 al 8,59720, y no como se indica en el Decreto que por este acta se modifica.
+
+Fiscal del Ministerio de Obras Públicas.
