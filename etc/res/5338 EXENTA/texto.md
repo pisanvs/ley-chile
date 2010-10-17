@@ -20,13 +20,29 @@ b) Desnaturalización: Alteración de las propiedades o condiciones de un produc
 
 c) Incineración: El tratamiento térmico de tejidos a una temperatura mínima de 600°C, por un período de 2 horas, reduciéndolo a cenizas.
 
-2. Establécese la medida sanitaria de destrucción de órganos considerados Materiales Especificados de Riesgo (M.E.R.), esto es: Cerebro, Cerebelo, Ojos, Amígdalas, Médula Espinal y Bazo de rumiantes mayores de 30 meses, e Ileon distal, en bovinos y ovinos cualquiera sea su edad.
+2. Establécese la medida sanitaria de destrucción de los órganos considerados Materiales Especificados de Riesgo (M.E.R.), de acuerdo a la categoría de riesgo para Encefalopatía Espongiforme Bovina de Chile reconocida por el Código Sanitario para los Animales Terrestres de la OIE, en su capítulo correspondiente:
 
-3. Si no es posible demostrar la edad de los animales, para efectos del artículo anterior, se considerará como mayor de 30 meses:
+a) Riesgo de encefalopatía espongiforme bovina insignificante: sin órganos o tejidos considerados M.E.R.
 
-a) Bovinos de más de dos incisivos permanentes y antes de la erupción de los siguientes incisivos permanentes.
+b) Riesgo de encefalopatía espongiforme bovina controlado: cráneo, cerebro, cerebelo, ojos, médula espinal y bazo de rumiantes mayores de 30 meses, e íleon distal y tonsilas en bovinos y ovinos cualquiera sea su edad.
 
-b) Ovinos de más de cuatro incisivos permanentes y antes de la erupción de los siguientes incisivos permanentes.
+c) Riesgo de encefalopatía espongiforme bovina indeterminado: cráneo, cerebro, cerebelo, ojos, médula espinal y bazo de rumiantes
+
+mayores de 12 meses, e íleon distal y tonsilas, en bovinos y ovinos cualquiera sea su edad.
+
+3. Si no es posible demostrar la edad de los animales, para efectos del artículo anterior, se considerará como:
+
+Mayor de 30 meses:
+
+a) Bovinos de más de dos incisivos permanentes (pinzas).
+
+b) Ovinos de más de cuatro incisivos permanentes.
+
+Mayor de 12 meses:
+
+a) Bovinos con nivelamiento de los incisivos centrales de leche (pinzas).
+
+b) Ovinos con erupción de un incisivo permanente.
 
 4. Los establecimientos faenadores de carnes deberán adoptar las siguientes medidas para los órganos considerados M.E.R:
 
@@ -39,5 +55,7 @@ c) Desnaturalizar dichos órganos con productos químicos, y
 d) Destruirlos por incineración o destinación a relleno sanitario autorizado.
 
 5. Prohíbase destinar los órganos considerados M.E.R. o el producto de su destrucción, a elaboración de harinas para consumo animal.
+
+6. La categoría de riesgo para Encefalopatía Espongiforme Bovina de Chile para efectos de esta normativa será aquella en que esté ubicado en la clasificación de situación sanitaria veterinaria que anualmente efectúa la Organización Mundial de Sanidad Animal (OIE), según aparece en su sitio oficial de Internet.
 
 Anótese, comuníquese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
