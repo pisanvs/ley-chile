@@ -20,37 +20,37 @@ Resolución:
 
 Región Recursos (UF)
 
-Arica y Parinacota 15.000,0
+Arica y Parinacota 12.771
 
-Tarapacá 15.000,0
+Tarapacá 30.996
 
-Antofagasta 24.400,0
+Antofagasta 48.450
 
-Atacama 28.000,0
+Atacama 55.719
 
-Coquimbo 57.600,0
+Coquimbo 113.850
 
-Valparaíso 40.000,0
+Valparaíso 79.540
 
-L.B. O'Higgins 30.000,0
+L.B. O'Higgins 59.594
 
-Maule 44.600,0
+Maule 72.376
 
-Bío-Bío 70.500,0
+Bío-Bío 139.732
 
-Araucanía 47.800,0
+Araucanía 62.244
 
-Los Ríos 20.200,0
+Los Ríos 39.480
 
-Los Lagos 30.000,0
+Los Lagos 59.400
 
-Aysén 18.000,0
+Aysén 18.962
 
-Magallanes 18.125,0
+Magallanes 36.018
 
-Metropolitana 250.000,0
+Metropolitana 249.642
 
-Total País 709.225,0
+Total País 1.078.774
 
 5. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
