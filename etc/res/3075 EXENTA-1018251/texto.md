@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.075 de 8 de octubre de 2010, de esta Subsecretaría, recházanse las solicitudes 209106003, 207103236, 205103132, 204103050, 208103187, 207103073, 208103175, 203103215, 203103180, 206103311, 208103195, 206103309, 206103201, 208103151, 204103083, 203103105, 204103304, 209103042, 206103339, 207101039 y 206101014, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 8 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
