@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.047, de 30 de septiembre de 2010, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 1.147 de 2009, modificada mediante resolución exenta Nº 1.154 de 2010, ambas de esta Subsecretaría, que autorizó a la CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Operación de un Sistema de Monitoreo para el recurso almeja en el Plan de Manejo de la Zona Contigua, Regiones X y XI, periodo 2009", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2010, inclusive.
+
+La actividad extractiva antes indicada deberá realizarse de acuerdo con la autorización que para estos efectos otorgue la Autoridad Sanitaria, en función de los análisis toxicológicos de marea roja realizados en la región en que se realizará la extracción.
+
+Valparaíso, 30 de septiembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
