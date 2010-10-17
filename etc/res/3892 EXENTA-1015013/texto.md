@@ -18,38 +18,6 @@ Resolución:
 
 4. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución serán los siguientes:
 
-Región Recursos (UF)
-
-Arica y Parinacota 21.000,0
-
-Tarapacá 20.000,0
-
-Antofagasta 24.400,0
-
-Atacama 28.000,0
-
-Coquimbo 57.600,0
-
-Valparaíso 250.000,0
-
-L.B. O'Higgins 50.000,0
-
-Maule 44.600,0
-
-Bío-Bío 92.600,0
-
-Araucanía 47.800,0
-
-Los Ríos 20.220,0
-
-Los Lagos 30.000,0
-
-Aysén 18.000,0
-
-Magallanes 18.125,0
-
-Total País 722.345,0
-
 5. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
