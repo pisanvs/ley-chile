@@ -16,7 +16,7 @@ Que, atendido a que el Sistema de Protección Social implica entregar cobertura 
 
 Resuelvo:
 
-1º Créanse para cada región del país, los Comités Técnicos Regionales del Ministerio de Planificación, cuya misión será velar por la adecuada coordinación para la implementación y/o ejecución de los Programas Sociales establecidos por el Sistema de Protección Social, y evaluar el funcionamiento y resultado de estos últimos en la Región correspondiente.
+1º Créanse, para cada región del país, los Comités Técnicos Regionales del Ministerio de Planificación, cuya misión será velar por la adecuada coordinación en la ejecución de los Programas Sociales establecidos por el Sistema de Protección Social y de aquellos implementados por los servicios relacionados con el Ministerio de Planificación, así como la evaluación del funcionamiento y resultado de éstos en la Región correspondiente
 
 2º Cada Comité Técnico Regional estará integrado por las siguientes autoridades:
 
