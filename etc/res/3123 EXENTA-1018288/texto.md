@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.123, de 8 de octubre de 2010, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 11 y 13 del D.S. Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 8 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
