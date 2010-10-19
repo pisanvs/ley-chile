@@ -154,9 +154,9 @@ En caso de dudas, la Municipalidad podrá solicitar el estudio y calificaciones 
 
 La evaluación de los ruidos generados por fuentes estacionarias se hará mediante instrumentos especializados y su costo será de cargo del emisor del ruido.
 
-#### Artículo 14º
+#### Artículo 14
 
-El criterio de calificación del ruido en relación con la reacción de la comunidad será el de la Norma Chilena Oficial N.Ch. 1619 declarada Oficial de la República de Chile, por decreto supremo Nº 253 del 10 de agosto de 1970 del Ministerio de Salud Pública.
+La norma de emisión de ruidos molestos generados por fuentes fijas será la establecida en el Decreto Supremo Nº146 de 1997 del Ministerio Secretaría General de la Presidencia o la que en el futuro la reemplace.
 
 ## Título VI
 
