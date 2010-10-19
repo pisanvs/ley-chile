@@ -28,7 +28,7 @@ El responsable de la recepción y entrega física de los vehículos, será aquel
 
 #### Artículo 3º
 
-El horario de atención de público, será de lunes a viernes de 8:30 a 18:30 horas continuado.
+El horario de atención de público será de lunes a viernes de 8:30 a 18:30 horas continuado, para consultas y visitas, y el ingreso y retiro de vehículos se realizará solo los días martes y jueves de 9:00 a 13:00 horas.
 
 ## Título II
 
