@@ -342,7 +342,43 @@ Municipalidad de las obligaciones impuestas al concesionario indicadas en el con
 
 ## Título VI
 
+NORMAS ESPECIALES PARA LA SOLICITUD DE INSTALACIÓN DE CICLETEROS EN EL BIEN NACIONAL DE USO PÙBLICO
+
+#### Artículo 35
+
+Los proyectos para la ocupación de veredas, calzadas u otros bienes nacionales de uso público para la instalación de cicleteros, deberán solicitarse por escrito a la Dirección de Secretaría Comunal de Planificación.
+
+#### Artículo 36
+
+La solicitud deberá incluir un plano con el levantamiento del lugar en que se solicita el permiso, indicando el número de bicicletas que se estima se estacionarán y fotomontajes en caso de que el solicitante cuente con ello.
+
+Una vez que el Departamento de Asesoría Urbana de la Dirección de Secretaría Comunal de Planificación otorgue respuesta positiva al interesado incluyendo los alcances al diseño y las especificaciones técnicas, éste deberá solicitar a la Dirección de Obras el respectivo permiso precario de ocupación en el bien nacional de uso público, el que se otorgará mediante Decreto Alcaldicio, debiendo además tramitar posteriormente el permiso de ocupación y ruptura del espacio público para la ejecución del trabajo de instalación, en el Departamento de Construcción de la Dirección de Obras.
+
+El Decreto Alcaldicio que otorga el permiso deberá contener las especificaciones técnicas y diseño del cicletero a instalar.
+
+#### Artículo 37
+
+La Municipalidad como administrador del espacio público podrá rechazar la solicitud de permiso para la instalación de cicleteros, por las razones que se consignen en el informe de Asesoría Urbana.
+
+Asimismo, la municipalidad se reserva el derecho de poner término en cualquier momento al permiso, por razones de bien común, por ser éste de carácter precario y sin derecho a indemnización alguna.
+
+#### Artículo 38
+
+Para el evento en que se otorgue autorización para la instalación de cicleteros queda expresamente prohibida la instalación de cualquier tipo de publicidad en dicho elemento.
+
+#### Artículo 39
+
+Autorizada la instalación de cicleteros en la forma establecida por el artículo 36 de la presente Ordenanza, éstos serán de responsabilidad del interesado, como también de su mantención.
+
+#### Artículo 40
+
+Corresponderá al Departamento de Rentas Municipales, de la Dirección de Administración y Finanzas, y a la Dirección de Protección Civil y Seguridad Vecinal supervigilar el cumplimiento del permiso para cicleteros y el cuidado y mantención del bien nacional de uso público autorizado ocupar.
+
+## Título VII
+
 Procedimiento interno
+
+> **Nota.** El Nº 1 de la Ordenanza 96, M. de Providencia, publicado el 18.10.2010, modifica el presente título, como consecuencia de que se agrega un nuevo Título VI, pasando el actual Título VI a ser Título VII, manteniendose la numeración de su articulado quedando en la forma indicada.
 
 #### Artículo 35º
 
