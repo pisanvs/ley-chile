@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.095 de 8 de octubre de 2010 de esta Subsecretaría, declárese abierto un período extraordinario de postulaciones de 60 días corridos, a contar de la fecha de publicación de la presente resolución, únicamente para efectos de proceder a la nominación del cargo de consejero titular y suplente del Consejo Zonal de Pesca, V, VI, VII, VIII y IX Regiones e Islas Oceánicas representante de las organizaciones gremiales de tripulantes de naves especiales período 2010-2014.
+
+Valparaíso, 8 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
