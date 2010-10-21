@@ -26,7 +26,7 @@ Región Unidades de Fomento Título II
 
 Metropolitana 1.387.538
 
-Valparaíso 575.053
+Valparaíso 575.572,5
 
 L. Bernardo O'Higgins 174.023
 
@@ -36,7 +36,7 @@ Bío Bío 988.625
 
 Araucanía 89.899
 
-Total 3.717.360
+Total 3.717.879,5
 
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
