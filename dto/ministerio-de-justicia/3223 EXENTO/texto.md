@@ -1,0 +1,19 @@
+AUTORIZA CAMBIO DE REPRESENTANTE LEGAL DE "OCEANA, INC.", DE WASHINGTON
+
+Santiago, 1 de junio de 2010.- Hoy se decretó lo que sigue:
+
+Núm. 3.223 exento.- Vistos: lo dispuesto en el artículo 34 del decreto supremo de Justicia Nº 110, de 1979, publicado en el Diario Oficial de 20 de marzo de 1979, y sus modificaciones, Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones; en decreto supremo de Justicia Nº 924 de 1981, publicado en el Diario Oficial de 5 de agosto de 1981, y sus modificaciones, sobre materias que serán suscritas por las autoridades que se indican con la fórmula "Por Orden del Presidente de la República"; en resolución de Contraloría General de la República Nº 1.600, de 2008, publicada en el Diario oficial de 6 de noviembre de 2008; y lo informado por el Consejo de Defensa del Estado,
+
+Considerando:
+
+1.- Que mediante decreto exento de Justicia Nº 2.874, de fecha 26 de septiembre de 2007, se autorizó a la entidad extranjera denominada "Oceana, Inc.", con sede en la ciudad Washington, Distrito de Columbia, Estados Unidos de América, para que desarrolle actividades en el país, de acuerdo a los objetivos señalados en sus estatutos, siempre que éstos se ajusten a las leyes chilenas, no contravengan las buenas costumbres y el orden público; y,
+
+2.- Que mediante presentación de fecha 16 de octubre de 2009, la entidad "Oceana, Inc." informa sobre la revocación del poder a don Jorge Luis Varela del Solar, quien fuera designado representante legal de la presente entidad, mediante el decreto ya señalado, y que la autorizó para desarrollar actividades en Chile, y, en consecuencia, del cambio de representante legal en beneficio de don Alex Muñoz Wilson, todo lo cual consta en escritura pública otorgada con fecha 2 de febrero de 2009, ante la Ministra de Fe Pública del Consulado de Chile en la ciudad de Washington, Distrito de Columbia, Estados Unidos de América, doña Gladys Castro Inostroza, documento que fue debidamente legalizado ante el Ministerio de Relaciones Exteriores de Chile y, además, protocolizado ante el Notario Titular de Santiago don José Musalem Saffie, con fecha 11 de febrero de 2009, Repertorio Nº 1.382-2009,
+
+Decreto:
+
+Autorízase cambio de representante legal de la entidad denominada "Oceana, Inc.", persona jurídica extranjera autorizada para realizar actividades en Chile, mediante decreto exento Nº 2.874, de fecha 26 de septiembre de 2007, con sede en Washington, distrito de Columbia, Estados Unidos de América, en el sentido de establecer que en lo sucesivo su representante en Chile será don Alex Muñoz Wilson, domiciliado en Avda. Bustamante Nº 24, Oficina 2 C, comuna de Providencia, Provincia de Santiago, Región Metropolitana de Santiago, quien en su carácter de mandatario de la entidad tendrá su administración y representación con las más amplias facultades y atribuciones, en la forma en que se acredita en escritura pública otorgada con fecha 2 de febrero de 2009, ante la Ministra de Fe Pública del Consulado de Chile en la ciudad de Washington, Distrito de Columbia, Estados Unidos de América, doña Gladys Castro Inostroza, documento que fue debidamente legalizado ante el Ministerio de Relaciones Exteriores de Chile y, además, protocolizado ante el Notario Titular de Santiago, don José Musalem Saffie, con fecha 11 de febrero de 2009, Repertorio Nº 1.382-2009.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Felipe Bulnes Serrano, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Mirtha Ulloa González, Subsecretaria de Justicia (S).
