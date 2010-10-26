@@ -1,0 +1,7 @@
+Por resolución exenta Nº 07/2010 de fecha 13 de octubre de 2010, de la Dirección Zonal de Pesca de las Regiones V a IX e Islas Oceánicas, modifíquese el numeral 2º letras a) y b) de la resolución exenta Nº 831 de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el periodo comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2010, en el sentido de modificar las asignaciones para el recurso Anchoveta y Sardina común, correspondientes a las organizaciones artesanales: SINDICATO DE TRABAJADORES INDEPENDIENTES DE PESCADORES ARTESANALES MERLUCEROS Y AFINES DE CALETA LO ROJAS, Registro Sindical único 08.07.0227 y el Sindicato de Trabajadores Independientes Pescadores Artesanales, Buzos Mariscadores y Actividades Conexas del Puerto de Coronel de la VIII Región y del Golfo de Arauco, Registro Sindical único 08.07.0183, de acuerdo con lo siguiente:
+
+a) Pesquería artesanal de Anchoveta
+
+b) Pesquería artesanal de Sardina común
+
+Talcahuano, 13 de octubre de 2010.- Sigisfredo Scheuermann G. Subsecretaría de Pesca.
