@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.150, de 20 de octubre de 2010, de esta Subsecretaría, modifícase el numeral 2º letra b) de la resolución exenta Nº 124 de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta, Sardina común y Jurel en la XIV Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el período comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2010, en el sentido de modificar la asignación para el recurso Sardina común correspondiente a la organización artesanal SINDICATO DE TRABAJADORES INDEPENDIENTES PESCADORES ARTESANALES Y ARMADORES CERQUEROS DE VALDIVIA, Registro Sindical único 10.02.0409, de acuerdo con lo siguiente:
+
+b) Pesquería artesanal de Sardina común:
+
+Valparaíso, 20 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
