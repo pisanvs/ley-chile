@@ -1,0 +1,5 @@
+Por Resolución Exenta Nº 3.151, de 20 de octubre de 2010, de esta Subsecretaría, modifícase el numeral 2º letra b) de la Resolución Exenta Nº 831, de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al régimen artesanal de extracción por unidad de asignación organizaciones de pescadores artesanales para el periodo comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2010, en el sentido de modificar la asignación para el recurso Sardina común correspondiente a la organización artesanal Asociación Gremial de Armadores Artesanales de la Octava Región - Aspas, Registro de Asociaciones Gremiales 395-8, de acuerdo con lo siguiente:
+
+b) Pesquería artesanal de Sardina común
+
+Valparaíso, 20 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
