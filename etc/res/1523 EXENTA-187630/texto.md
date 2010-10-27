@@ -112,7 +112,7 @@ Así mismo, deberá acompañarse un documento suscrito por el solicitante o cons
 
 #### Artículo 14
 
-Derogado
+La información contenida en la solicitud y en los documentos anexos, sólo será empleada en la evaluación para autorizar la internación y su correspondiente introducción al Medio Ambiente del Organismo, modificado importado o desarrollado en el país. El Servicio resguardará la información señalada en este artículo, según lo establecido en la legislación vigente.
 
 #### Artículo 15
 
