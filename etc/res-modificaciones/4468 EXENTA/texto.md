@@ -10,6 +10,10 @@ Considerando:
 
 Resuelvo:
 
-Derógase el artículo 14 de la resolución Nº 1.523 de 2001 que establece normas para la internación e introducción al medio ambiente de organismos vegetales vivos modificados de propagación.
+Reemplázase el artículo 14 de la resolución Nº 1.523 de 2001, debiendo quedar con el siguiente texto:
+
+#### Artículo 14
+
+La información contenida en la solicitud y en los documentos anexos, sólo será empleada en la evaluación para autorizar la internación y su correspondiente introducción al Medio Ambiente del Organismo, modificado importado o desarrollado en el país. El Servicio resguardará la información señalada en este artículo, según lo establecido en la legislación vigente.
 
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional Servicio Agrícola y Ganadero.
