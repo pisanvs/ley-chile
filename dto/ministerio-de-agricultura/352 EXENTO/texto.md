@@ -30,7 +30,7 @@ Subsecretaria de Agricultura u otras autoridades en visitas a regiones, en espec
 
 Decreto:
 
-Autorízase la circulación en horario inhábil y en días sábados en la tarde, domingos y festivos al vehículo, con disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, que a continuación se individualiza:
+Autorízase la circulación en horario inhábil y en días sábados en la tarde, domingos y festivos al vehículo, sin disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, que a continuación se individualiza:
 
 Vehículo : Automóvil
 

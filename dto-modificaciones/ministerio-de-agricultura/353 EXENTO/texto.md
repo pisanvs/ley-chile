@@ -12,7 +12,7 @@ Que se ha debido sustituir dicho móvil por un nuevo vehículo,
 
 Decreto:
 
-Modifícase el decreto exento Nº 352, de 2007, del Ministerio de Agricultura, que autoriza la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos al vehículo, con disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, y sustitúyese por el vehículo que a continuación se individualiza:
+Modifícase el decreto exento Nº 352, de 2007, del Ministerio de Agricultura, que autoriza la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos al vehículo, sin disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, y sustitúyese por el vehículo que a continuación se individualiza:
 
 Vehículo : Automóvil
 
