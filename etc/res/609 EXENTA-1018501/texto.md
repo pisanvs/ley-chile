@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE ZENIT SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta N° 609, de fecha 22 de octubre de 2010, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Zenit Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 21 de abril de 2010, reducida a escritura pública el 26 de abril de 2010 y modificada por escritura pública de 27 de septiembre de 2010 según lo observado por oficio ordinario N° 10.428 de esta Superintendencia, ambas otorgadas en la Notaría de Santiago de don Álvaro Bianchi Rosas, domiciliado en calle Doctor Sótero del Río 322.
+
+Se fija el capital social suscrito y pagado en la suma de $2.594.800.000 dividido en 1.000 acciones nominativas, sin valor nominal. Este capital se aumenta en $1.049.131.200 mediante la emisión de 408 acciones a suscribir y pagar dentro del plazo de tres años contado desde la fecha de la junta, quedando el capital social en la suma de $3.643.931.200 dividido en 1.408 acciones nominativas, sin valor nominal. Se modifican artículo cuarto de los estatutos y artículo primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 22 de octubre de 2010.- Carmen Undurraga Martínez, Secretario General.
