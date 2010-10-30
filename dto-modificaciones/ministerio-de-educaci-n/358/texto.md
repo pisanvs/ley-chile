@@ -192,7 +192,7 @@ Estados Unidos 1.496
 
 Estados Unidos Nueva York 1.700
 
-Filipinas 1.413
+Malasia 1.326
 
 Irlanda 1.556
 
