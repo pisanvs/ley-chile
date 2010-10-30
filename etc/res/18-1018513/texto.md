@@ -1,0 +1,3 @@
+DESIGNA SECRETARIAS TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE SANTIAGO
+
+Por resolución SII Nº 18, de 20 de agosto de 2010, se designó a doña Pamela Andrea Cuevas Alvarado, RUT Nº 10.895.195-8, como Secretaria Titular, y a doña Patricia Elizabeth Bermedo Barbagelatta, RUT Nº 6.617.175-2, como Secretaria Suplente, ambas en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago.
