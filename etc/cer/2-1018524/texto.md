@@ -1,0 +1,7 @@
+OTORGA LA CALIDAD DE AGENTE RETENEDOR DE IVA A RECICLADORA NACIONAL DE METALES S.A.
+
+Núm. 2.- Santiago, 12 de octubre de 2010. La Directora Regional del Servicio de Impuestos Internos que suscribe, certifica que la empresa Recicladora Nacional de Metales S.A. RUT Nº 76.035.585-2, con domicilio en Los Helechos Nº 3663, Renca, cumple con los requisitos establecidos en la Res Nº Ex. 07 de 28.01.2003, publicada en el Diario Oficial de 03.02.2003, y que en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado IVA, por las ventas de chatarra que efectúe a contar del día primero del mes siguiente al de la fecha de su publicación de este Certificado en el Diario Oficial, la que deberá efectuar dentro de los quince días corridos siguientes a la fecha de emisión, por su cuenta y costo, y en forma definitiva.
+
+La calidad de Agente Retenedor de la chatarra se otorga por cumplimiento de requisitos, adecuado comportamiento tributario y porque a juicio del Director, el ejercicio de dicha calidad es de interés para el sector y para el buen funcionamiento del mercado. Lo anterior, en virtud de las facultades contenidas en el artículo 3 inciso tercero de la Ley sobre Impuesto a las Ventas y Servicios.-
+
+Teresa Conejeros Peña, Directora Regional.
