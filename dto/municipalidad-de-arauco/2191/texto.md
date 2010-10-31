@@ -70,31 +70,17 @@ DERECHOS MUNICIPALES SOBRE TRÁNSITO, TRANSPORTE Y VEHÍCULOS
 
 #### Artículo 9
 
-Los permisos de estacionamiento reservado, en bienes nacionales de uso público en los casos que la Ley de Tránsito, Reglamento de los Servicios Nacionales de Transporte de Pasajeros, Plan Regulador Comunal y demás normas legales aplicables lo permitan, estará gravado con los siguientes derechos municipales anuales.
+El Permiso de estacionamiento reservado, en bienes nacionales de uso público en los caso que la ley del Tránsito, Plan Regulador Comunal y demás normas legales aplicables lo permitan, estará gravado con los siguientes derechos municipales anuales.
 
-ESTACIONAMIENTO RESERVADO VEHÍCULOS PARTICULARES:
+• Automóviles, Station Wagon, Furgones, Camionetas y otros
 
-* Automóviles, Station Wagon,
+Hasta 3.500 Kg. Por cada unidad 4.00 UTM
 
-Furgones, Camionetas y otros, hasta
+• Taxis Básicos, Colectivos y de Turismo 1.00 UTM
 
-3.500 Kgs. por cada unidad (anual) 6,00 UTM.
+• Buses Comunales, Interprovinciales y
 
-ESTACIONAMIENTO RESERVADO VEHÍCULOS DE LOCOMOCIÓN COLECTIVA Y TAXIS:
-
-* Taxis Básicos, Colectivos y
-
-de Turismo (anual) 0,50 UTM.
-
-* Buses Comunales, Rurales,
-
-Interprovinciales y de Turismo,
-
-por uso de vía pública, según
-
-#### Artículo 54º
-
-D.S. 212/92 (anual) 1,00 UTM.
+de Turismo 2.00 UTM
 
 #### Artículo 10
 
@@ -208,75 +194,87 @@ naturaleza 0.20 UTM
 
 Derechos a pagar por concepto de otorgamiento de Licencias de Conductor y otros similares.
 
-* Otorgamiento de Licencia de Conductor
+• Otorgamiento de Licencia de conductor
 
-por primera vez:
+por primera vez :
 
-Profesional 0,70 UTM
+Profesional 0.60 UTM
 
-Clase B-C-D 0,60 UTM
+Clase B-C-D 0.40 UTM
 
-Clase E 0,30 UTM
+Clase E 0.30 UTM
 
-* Duplicado de Licencia de Conductor
+• Duplicado de Licencia de Conductor,
 
-por pérdida 0,40 UTM
+cualquier clase 0.25 UTM
 
-* Cambio de clase 0,40 UTM
+• Cambio de clase a conductores que
 
-* Cambio de clase de Licencia Profesional 0,70 UTM
+estén en posesión de Licencia con-
 
-* Extensión de Clase de Licencia
+forme a la ley de Tránsito 0.40 UTM
 
-no Profesional 0,50 UTM
+• Extensión clase de Licencia a
 
-* Extensión de Clase de Licencia
+otras adicionales a las ya
 
-Profesional 0,60 UTM
+autorizadas 0.35 UTM
 
-* Control cada 6 años para conductores
+• Control cada 6 años para conductores
 
-con Licencia clase B-C-D 0,60 UTM
+con licencias B-C-D 0.40 UTM
 
-* Control cada 6 años para conductores
+• Control cada 6 años para conductores
 
-con Licencia clase E 0,30 UTM
+con Licencias E 0.25 UTM
 
-* Control cada 4 años para conductores
+• Control cada 4 años para conductores
 
-con Licencia Profesional 0,55 UTM
+con Licencia Profesional 0.45 UTM
 
-* Control cada 6 meses a Licencias
+• Control cada 6 meses a Licencia
 
-otorgadas con restricción 0,30 UTM
+otorgada con restricción,
 
-* Cambio de Licencia de cualquier clase
+cualquier causa. 0.25 UTM
 
-por destrucción o modificación 0,40 UTM
+• Cambio de Licencia de cualquier
 
-* Exámenes de reglamento y psicotécnico
+Clase por destrucción parcial o
 
-total o parcial cuando no se trate de
+total o por rectificación. Cambio
 
-los de control u otorgamiento de
+y/o modificación de nombres y
 
-Licencia 0,40 UTM
+apellidos. 0.25 UTM
 
-* Duplicado de Licencia por cambio
+• Exámenes de Reglamento y
 
-de domicilio 0,40 UTM
+Psicotécnico total o parcial
 
-* Certificado de antigüedad de Licencia
+cuando no se trate de los que
 
-de Conductor y similares 0,10 UTM
+deben rendirse para el otorgamiento
 
-* Certificado de trámite no pendiente,
+o control de Licencia
 
-Licencia de Conducir 0,10 UTM
+de Conductor 0.20 UTM
 
-* Fotografía digital de Licencia
+• Otorgamiento de Duplicado de
 
-de Conductor 0,02 UTM
+Licencia de Conductor por cambio de
+
+domicilio 0.20 UTM
+
+• Certificado de antigüedad de
+
+Licencia de Conductor y otros
+
+similares 0.20 UTM
+
+• Fotografía digital de licencia
+
+de conductor 0.07 UTM
 
 ## Título V
 
@@ -781,18 +779,6 @@ Diario.
 Vacunos y caballares 0.20 UTM
 
 Porcinos, caprinos, lanares y otros 0.15 UTM
-
-11.- Por el servicio de depósito de
-
-residuos sólidos domiciliarios u
-
-otros permitidos, en Relleno Sanitario
-
-de dominio o administración de la
-
-Municipalidad de Arauco, previo
-
-convenio, se pagará la suma de 1 UTM por tonelada.
 
 ## Título XI
 

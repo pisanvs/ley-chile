@@ -176,7 +176,7 @@ La reiteración de la infracción señalada precedentemente será sancionada con
 
 #### Artículo 14
 
-La venta de alcohol a menores de edad será sancionada según lo dispuesto por el Art. nº 29 de la ley 19.925, Ley de Alcoholes.
+La venta de bebidas alcohólicas a menores de edad será sancionada según lo dispuesto en el artículo 42 de la ley 19.925.
 
 #### Artículo 15
 
