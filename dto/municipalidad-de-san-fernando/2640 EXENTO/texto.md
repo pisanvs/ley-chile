@@ -764,7 +764,27 @@ reducciones 1 UTM
 
 (agua, luz, instalación de lápida)
 
-12. Sepultación con reducción en un mismo nicho:
+12: Reocupación de nichos perpetuos
+
+o temporal largo plazo Cancelarán los
+
+(50 años) con reducción valores
+
+indicados en el
+
+## Título VIII — ,
+
+#### Artículo 24
+
+2.2.
+
+aumentados en un
+
+60% sin incluir
+
+costos de
+
+reducción.
 
 13. Transferencias de terreno para construcción de
 
@@ -808,6 +828,6 @@ Las infracciones a la presente Ordenanza serán denunciadas al Juzgado de Polic�
 
 #### Artículo transitorio
 
-La presente Ordenanza Local de Derechos Municipales, comienza a regir desde su publicación en el Diario Oficial y desde esa fecha cualquier otra Ordenanza publicada queda sin efecto.
+La presente Ordenanza Local de Derechos Municipales comienza a regir desde el primer día del mes de enero de 2011, y desde esa fecha cualquier otra Ordenanza publicada queda sin efecto.
 
 Anótese, comuníquese, publíquese y archívese.- Juan Paulo Molina Contreras, Alcalde.- Jorge Morales Ibarra, Secretario Municipal.
