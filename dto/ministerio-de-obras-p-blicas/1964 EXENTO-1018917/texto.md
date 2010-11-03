@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1964, de fecha 30 de septiembre del 2010, se expropió el lote de terreno N°s. 111 y 114, superficies 4.870 y 525 m2, respectivamente Rol Nº183-5, comuna de Arauco, VIII Región para la obra Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío, y se acordó el valor de indemnización con su propietario SILVOAGROPECUARIA FORESTAS REGNANS LIMITADA, ascendente a la cantidad de $4.503.834.-
+
+Fiscal del Ministerio de Obras Públicas.
