@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1626, de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº56-B, superficie 213 m2, Rol Nº61-28, comuna de La Estrella, VI Región para la obra "Mejoramiento Ruta I-20, Los Maitenes La Estrella, Km. 0,00000 a Km. 20,40000.", y se acordó el valor de indemnización con su propietario CARLOS ARTURO PINO RODRIGUEZ, ascendente a la cantidad de $1.091.990.-
+
+Fiscal del Ministerio de Obras Públicas.
