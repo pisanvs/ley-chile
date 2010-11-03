@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1960, de fecha 30 de septiembre de 2010, se expropiaron los lotes de terreno N°s 56 y 58, superficie 536 y 49 m2 respectivamente, Rol Nº1182-30, comuna de Ancud, X Región para la obra "Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé", y se acordó el valor de indemnización con su propietaria EMILIA BERTA RUTHERFORD PARIS, ascendente a la cantidad de $485.252.-
+
+Fiscal del Ministerio de Obras Públicas.
