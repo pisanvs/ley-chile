@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.720, de 26 de octubre de 2010, Serviu Región del Libertador Bernardo O'Higgins, ordenó expropiación total de un inmueble ubicado an Manso de Velasco Nº 1128, de la comuna de San Fernando, Rol de Avalúo Nº 260-09, superficie aproximada de 100,24 m² de terreno, delimitada en polígono U-X-W-V, conforme al Plano elaborado por Pamela Acuña Illanes, "Proyecto Mejoramiento Red Vial Manso de Velasco y Sector O'Higgins", comuna de San Fernando. De dominio de Sucesión Sepúlveda Araya, inscrito a fojas 752 Nº 1.160 del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 2003, fojas 1.000 Nº 1.764 del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 2005, y fojas 44 Nº 75, del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando, año 2006. Conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos María Isabel Ríos Marcuello, Carmen Pilar Ríos Marcuello y Patricia Morales Rivera, Arquitecto, Ingeniero y Constructor Civil, respectivamente, según Informe de fecha noviembre de 2007. Monto provisional $28.452.600, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director Serviu Región Libertador Bernardo O'Higgins.
