@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1963 de 30 de septiembre de 2010, se expropió el lote de terreno Nº63-B, superficie 900 m2, rol de Avalúo 434-290, comuna de Illapel, para la obra "Mejoramiento Ruta D-805, Illapel - Carén", IV Región y se acordó el valor de la indemnización con su propietario HUGO HERNÁN DEL CARMEN AGUILERA ARAYA, ascendente a la cantidad de $1.053.381.-
+
+Fiscal del Ministerio de Obras Públicas.
