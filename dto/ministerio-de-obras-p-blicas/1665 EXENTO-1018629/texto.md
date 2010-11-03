@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1665, de 30 de septiembre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº48A, para la obra: "Mejoramiento Camino 64D485, Sector Pisco Elqui - Horcón", Provincia de ELQUI, que figura a nombre de ESTAY EDUARDO, rol de avalúo 70-44, Comuna de PAIHUANO, IV Región de Coquimbo, superficie 207 m2. La Comisión de Peritos el 22 de julio de 2009, fijó el monto de la indemnización provisional en la cantidad de $207.000.- para el lote Nº48A. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
