@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1959, de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº31, superficie 261 m2, Rol Nº1182-8, comuna de Ancud, X Región para la obra "Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé", y se acordó el valor de indemnización con su propietaria TERESA DUMENES ULLOA, ascendente a la cantidad de $1.079.024.-
+
+Fiscal del Ministerio de Obras Públicas.
