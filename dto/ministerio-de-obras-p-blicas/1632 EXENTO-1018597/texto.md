@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1632 de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº98-C, superficie 3.727 m2, rol Nº275-7, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario SALVADOR RAMON MAJLUF NAZAR, ascendente a la cantidad de $5.389.161.-
+
+Fiscal del Ministerio de Obras Públicas.
