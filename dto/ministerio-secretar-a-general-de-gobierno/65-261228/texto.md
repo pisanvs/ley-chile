@@ -14,15 +14,13 @@ Decreto:
 
 Constitución e Integración del Consejo Consultivo.
 
-#### Artículo 1º
+#### Artículo 1°
 
-Créase, para los efectos de lo establecido en la glosa 04 asociada al programa 20-03-02 de la ley Nº 20.141, un Consejo Consultivo de la Dirección Nacional y de las Direcciones Regionales del Instituto Nacional de Deportes de Chile, el que tendrá por objeto analizar los proyectos de alto rendimiento deportivo y eventos de relevancia nacional y regional, que se financien mediante la modalidad de asignación directa de los recursos del Fondo Nacional para el Deporte, como asimismo los postulados al o los concursos públicos para el financiamiento con recursos del referido Fondo, emitiendo los respectivos informes.
+Créase, para los efectos de lo establecido en la glosa 04 asociada al programa 20-03-02 de la Ley N° 20.141, de presupuestos del sector público para el año 2007, un Consejo Consultivo de la Dirección Nacional y de las Direcciones Regionales del Instituto Nacional de Deportes de Chile, el que tendrá por objeto analizar los proyectos de alto rendimiento deportivo y eventos de relevancia nacional y regional, que se financien mediante la modalidad de asignación directa de los recursos del Fondo Nacional para el Deporte, Fondeporte.
 
-#### Artículo 2º
+#### Artículo 2°
 
-El Consejo estará integrado por las siguientes personas, provenientes del Sector Público y Privado:
-
-Héctor Fernández Bogdanic Rodrigo Moreno Castro Sergio Brotfeld Scudin Manuel Herrera Blanco Antonio Maurer Fûrst Miguel Cornejo Moraga Ana María Muñoz Cáceres
+El Consejo estará integrado por las personas designadas para integrar el Consejo Nacional del Instituto Nacional de Deportes de Chile de acuerdo a lo dispuesto en el artículo 15, letras b), c), d), e) e i) de la Ley N° 19.712, del Deporte.
 
 Funcionamiento del Consejo Consultivo.
 
@@ -36,9 +34,7 @@ El Consejo, atendido el volumen de proyectos a conocer, podrá realizar una o m�
 
 Para cada sesión, el Consejo deberá recibir, junto con la citación respectiva, todos los antecedentes relativos a los proyectos de asignación directa que deberá revisar, siendo responsabilidad del Jefe de la División de Actividad Física y Deportes remitir los referidos antecedentes a cada uno de los miembros del Consejo.
 
-En el caso de los proyectos presentados al concurso público, junto a la citación respectiva deberá recibir una nómina de todos los proyectos presentados, con indicación de aquellos cuya evaluación haya sido favorable, con información suficiente para su acabado conocimiento.
-
-Por ello, será responsabilidad del Jefe del Departamento de Evaluación de Proyectos, de la División de Desarrollo del Instituto Nacional de Deportes de Chile, remitir los referidos antecedentes a cada uno de los miembros del Consejo.
+ELIMINADO.
 
 #### Artículo 5º
 
@@ -62,9 +58,9 @@ El Consejo podrá solicitar la asistencia de los profesionales del Instituto Nac
 
 Los miembros del Consejo desempeñarán sus funciones ad-honorem.
 
-#### Artículo 10º
+#### Artículo 10°
 
-Efectuado el análisis de los proyectos, el Consejo emitirá un informe sobre la procedencia de la modalidad de asignación directa de los recursos del Fondo Nacional del Deporte, y un informe sobre la procedencia de la asignación de recursos del citado Fondo Nacional, respecto de los proyectos presentados al concurso público, en ambos casos, sometidos a su consideración, informes que servirán de base al Director Nacional o Regional del Instituto Nacional de Deportes de Chile, en su caso, para emitir las resoluciones respectivas.
+Efectuado el análisis de los proyectos, el Consejo emitírá un informe sobre la procedencia de la modalidad de asignación directa de los recursos del Fondo Nacional del Deporte, Fondeporte, sometidos a su consideración, informes que servirán de base al Director Nacional o Regional del Instituto Nacional de Deportes de Chile, en su caso, para emitir las resoluciones respectivas.
 
 Anótese, tómese razón, comuníquese y publíquese.- Por orden de Su Excelencia la señora Presidenta de la República, Ricardo Lagos Weber, Ministro Secretario General de Gobierno.- Andrés Velasco Brañes, Ministro de Hacienda.
 
