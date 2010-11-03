@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1.972, de 30 de septiembre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: "Construcción Puente Chacayes", Provincia de Cachapoal, que figura a nombre de GONZÁLEZ GONZÁLEZ MAXIMILIANO ALBER, rol de avalúo 125-98, Comuna de Machalí, VI Región, superficie 4.675 m2. La Comisión de Peritos el 4 de enero de 2010, fijó el monto de la indemnización provisional en la cantidad de $13.080.250.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
