@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1423 de fecha 31 de agosto de 2010, se expropió el lote de terreno Nº5, superficie 4.758 m2, rol Nº16-141, comuna de Lolol, para la obra "Concesión Embalse Convento Viejo II Etapa VI Región Canal Norte Unificado Tramo I. Km. 0.000,00 al Km. 17.700,00" y se acordó el valor de la indemnización con su propietario ANDRES ALEJANDRO CORREA ROSADO, ascendente a la cantidad de $3.594.752.-
+
+Fiscal del Ministerio de Obras Públicas.
