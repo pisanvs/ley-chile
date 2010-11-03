@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1761, de 30 de septiembre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: "Mejoramiento Acceso Playa de Matanzas", Provincia de Cardenal Caro, que figura a nombre de CEPEDA LINDOR HERNÁN, rol de avalúo 57-20, Comuna de Navidad, VI Región, superficie 1.243,76 m2. La Comisión de Peritos el 9 de junio de 2010, fijó el monto de la indemnización provisional en la cantidad de $5.230.568.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
