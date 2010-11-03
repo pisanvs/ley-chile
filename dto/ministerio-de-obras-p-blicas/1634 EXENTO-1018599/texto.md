@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1634, de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº5, superficie 427,20 m2, Rol Nº602-35, comuna de Puerto Montt, X Región para la obra "Conservación Obras de Emergencia, Avenida Pacheco Altamirano, Sector Angelmó Chinquihue, Km. 0,00000 - Km. 5,70000", Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos., y se acordó el valor de indemnización con su propietaria IRENE DEL CARMEN JARA FILUN, ascendente a la cantidad de $52.190.233.-
+
+Fiscal del Ministerio de Obras Públicas.
