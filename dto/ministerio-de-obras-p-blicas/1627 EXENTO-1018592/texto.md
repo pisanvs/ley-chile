@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1627 de 30 de septiembre de 2010, se expropió el lote de terreno Nº75, superficie 79 m2, rol de Avalúo 32-23, comuna de Río Hurtado, para la obra "Mejoramiento Ruta D-595, Ovalle Hurtado, sector Samo Alto Pichasca", IV Región y se acordó el valor de la indemnización con su propietaria MARLENE DEL CARMEN PASTEN ROJAS, ascendente a la cantidad de $1.148.903.-
+
+Fiscal del Ministerio de Obras Públicas.
