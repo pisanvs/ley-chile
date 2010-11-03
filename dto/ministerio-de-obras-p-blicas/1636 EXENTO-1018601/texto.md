@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1.636 de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº3, superficie 470,36 m2, Rol Nº602-6, Comuna de Puerto Montt, para la obra "Conservación Obras de Emergencia, Avenida Pacheco Altamirano, Sector Angelmó - Chinquihue, Km. 0,00000 a Km. 5,70000" y se acordó el valor de indemnización con su propietaria RUTH TEOLARDA VILLARROEL GUERRERO, ascendente a la cantidad de $99.729.431.-
+
+Fiscal del Ministerio de Obras Públicas.
