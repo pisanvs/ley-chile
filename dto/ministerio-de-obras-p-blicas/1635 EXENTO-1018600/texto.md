@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1635 de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº7, superficie 455,10 m2, Rol N°602-9, Comuna de Puerto Montt, para la obra "Conservación Obras de Emergencia, Avenida Pacheco Altamirano, Sector Angelmó Chinquihue, Km. 0,00000 a Km 5,70000" y se acordó el valor de indemnización con su propietaria LUCERINA MALDONADO OJEDA, ascendente a la cantidad de $72.381.827.-
+
+Fiscal del Ministerio de Obras Públicas.
