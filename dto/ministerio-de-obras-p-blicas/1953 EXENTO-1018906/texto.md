@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1953 de 30 de septiembre de 2010, se expropió el lote de terreno Nº69, superficie 168,80 m2, rol de Avalúo 903-155, comuna de Coquimbo, para la obra "MEJORAMIENTO RUTA D-35, (CAMINO LA CANTERA) S: AV. DEL MAR RUTA 43, ETAPA III", IV Región y se acordó el valor de la indemnización con su propietaria doña NURY DEL CARMEN ARAYA MALLA, ascendente a la cantidad de $32.965.727.-
+
+Fiscal del Ministerio de Obras Públicas.
