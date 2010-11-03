@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1955, de fecha 30 de septiembre del 2010, se expropiaron los lotes de terreno N°s. 88 y 89, superficies 1.524 y 638 m2, Rol N°2451-18, comuna de Temuco, Región de La Araucanía para la obra Camino Ruta S-30, Sector Temuco Labranza Km. 4,61500 a Km. 11,68000 y se acordó el valor de indemnización con su propietario JUAN PABLO GUEVARA VALDERRAMA, ascendente a la cantidad de $20.371.645.-
+
+Fiscal del Ministerio de Obras Públicas.
