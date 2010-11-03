@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº1951 de 30 de septiembre de 2010, se expropió el lote de terreno Nº150-B, superficie 701 m2., Rol NºE/T 276-8 asignado, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietario HERNÁN ANTONIO CIFUENTES GONZÁLEZ Y OTROS, ascendente a la cantidad de $36.739.075.-
+
+Fiscal del Ministerio de Obras Públicas.
