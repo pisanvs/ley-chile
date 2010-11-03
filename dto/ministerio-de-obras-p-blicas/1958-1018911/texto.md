@@ -1,0 +1,3 @@
+Por decreto MOP Nº1958 de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº38-B, superficie 314 m2, Rol Nº631-85, comuna de Molina, VII Región para la obra Camino Mejoramiento Ruta K-155, Sector Quechereguas-Buena Paz, Tramo Km. 0,00000 a Km. 10,40000.- Camino Mejoramiento Ruta K-15, Sector Quechereguas, Tramo Km. 5,70000 a Km. 5,90000 y se acordó el valor de indemnización con su propietaria ILUSTRE MUNICIPALIDAD DE MOLINA, ascendente a la cantidad de $4.281.315.- para el lote Nº38-B.
+
+Fiscal del Ministerio de Obras Públicas.
