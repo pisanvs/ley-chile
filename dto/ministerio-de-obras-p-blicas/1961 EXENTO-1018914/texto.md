@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1961, de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº150-A, superficie 175 m2, Rol Nº178-90, comuna de Arauco, VIII Región para la obra Camino Ruta P-40, Sector Arauco - Quiapo, Km. 15,96000 a Km. 31,00000, Región del Bío Bío, y se acordó el valor de indemnización con su propietaria NANCY DE LAS MERCEDES GARCÍIA DÍAZ, ascendente a la cantidad de $307.470.-
+
+Fiscal del Ministerio de Obras Públicas.
