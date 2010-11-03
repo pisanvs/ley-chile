@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1625 de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº89-B, superficie 302 m2, Rol Nº213-239, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) Autopista Itata" Región del Bío Bío", y se acordó el valor de indemnización con su propietario LUIS RIVERA RUIZ, ascendente a la cantidad de $210.213.
+
+Fiscal del Ministerio de Obras Públicas.
