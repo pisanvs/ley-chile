@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2009, de 30 de septiembre de 2010, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento MOP Nº1535, de 31 de diciembre de 2008, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº8, expropiado con motivo de la obra "Conservación Camino 64E763; San pedro Bosque Petrificado de Pichasca, IV Región", Provincia de Limarí, comuna de Río Hurtado. Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 08 de octubre de 2007, fijó el monto de la indemnización provisional en la cantidad de $654.875.
+
+Fiscal del Ministerio de Obras Públicas.
