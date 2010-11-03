@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1957 de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº17, superficie 1.872 m2, rol N°162-3, comuna de Puerto Octay, para la obra "Camino Ruta U-99-V, Sector Las Cascadas Ensenada, Km. 31,33730 al Km. 50,60320 provincia de Osorno Llanquihue, Comuna de Puerto Octay y Puerto Varas, X Región", y se acordó el valor de la indemnización con su propietario VICTOR HILMAR BORKERT HOFFMANN, ascendente a la cantidad de $8.039.360.-
+
+Fiscal del Ministerio de Obras Públicas.
