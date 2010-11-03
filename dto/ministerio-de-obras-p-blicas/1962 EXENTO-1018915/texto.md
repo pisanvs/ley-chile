@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N°1962 de fecha 30 de septiembre del 2010, se expropió el lote de terreno Nº4, superficie 77 m2, Rol N°1182-58, comuna de Ancud, X Región de Los Lagos para la obra Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano, y se acordó el valor de indemnización con su propietario BELARMINO VIDAL CÁRDENAS, ascendente a la cantidad de $1.163.208.-
+
+Fiscal del Ministerio de Obras Públicas.
