@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1629 de 30 de septiembre de 2010, se expropió el lote de terreno Nº19-A, superficie 13 m2, Rol Nº911-18, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRANSITO JUNTA VALERIANO, ETAPA I, KM. 37,80000 AL KM. 44,06000" y se acordó el valor de indemnización con la PARROQUIA NUESTRA SEÑORA DEL CARMEN, ascendente a la cantidad de $387.032.-
+
+Fiscal del Ministerio de Obras Públicas.
