@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1628 de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº99-B, superficie 872 m2, rol Nº275-107, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1 Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000" VII Región y se acordó el valor de la indemnización con su propietario EULOGIA DEL CARMEN CACERES ROJAS, ascendente a la cantidad de $1.724.855.-
+
+Fiscal del Ministerio de Obras Públicas.
