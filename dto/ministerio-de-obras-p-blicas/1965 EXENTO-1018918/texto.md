@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº1965 de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº30, superficie 192 m2, rol Nº970-1, comuna de Alto del Carmen, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" III Región y se acordó el valor de la indemnización con su propietario CARLOS ANTONIO SALAZAR GATICA Y OTROS, ascendente a la cantidad de $2.189.323.-
+
+Fiscal del Ministerio de Obras Públicas.
