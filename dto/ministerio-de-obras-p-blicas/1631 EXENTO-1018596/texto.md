@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1631, de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº4, superficie 222,72 m2, Rol Nº2134-101, comuna de Puerto Montt, X Región para la obra "Conservación Obras de Emergencia, Avenida Pacheco Altamirano, Sector Angelmó Chinquihue, Km. 0,00000 - Km. 5,70000", Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos., y se acordó el valor de indemnización con su propietario PASCUAL CHAVEZ MORALES, ascendente a la cantidad de $19.331.264.-
+
+Fiscal del Ministerio de Obras Públicas.
