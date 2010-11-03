@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº1966, de fecha 30 de septiembre de 2010, se expropió el lote de terreno Nº39-F, superficie 313 m2, Rol Nº132-17, comuna de Vichuquén, VII Región para la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 al Km. 15,372989".Comunas de Licantén y Vichuquén, Provincia de Curicó, VII Región del Maule, y se acordó el valor de indemnización con su propietario CARLOS RAMIRO CUEVAS MUÑOZ, ascendente a la cantidad de $568.706.-
+
+Fiscal del Ministerio de Obras Públicas.
