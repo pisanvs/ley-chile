@@ -2646,11 +2646,7 @@ Alternativa:
 
 Levonorgestrel Comprimido 1.5 mg
 
-LEVONORGESTREL +
-
-ETINILESTRADIOL Comprimido 0,03 mg +
-
-0,15 mg
+Levonorgestrel + Etinilestradiol comprimido 0,15 mg + 0,03 mg
 
 MEDROXIPROGESTERONA
 
@@ -3122,7 +3118,7 @@ LITIO Carbonato de Comprimido 300 mg
 
 trastornos del sueño
 
-ALPRAZOLAM (b) Comprimido 25 mg
+Alprazolam (b) comprimido 0,25 mg
 
 Comprimido 0,50 mg
 
