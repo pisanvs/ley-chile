@@ -10,7 +10,7 @@ Decreto:
 
 Primer Orden de Subrogancia
 
-D. Juan del Carmen Pérez Moraga, RUT 5.646.383-6, Subdirector Médico del Servicio de Salud Antofagasta.
+D. Juana del Carmen Pérez Moraga, RUT 5.646.383-6, Subdirector Médico del Servicio de Salud Antofagasta.
 
 Segundo Orden de Subrogancia
 
