@@ -31,3 +31,23 @@ Los precios establecidos en el artículo precedente entrarán en vigencia el dí
 Anótese, publíquese y tómese razón.- Por orden de la Presidenta de la República, Marcelo Tokman Ramos, Ministro de Energía.- María Olivia Recart Herrera, Ministra de Hacienda (S).
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Mariana Soto Espinosa, Subsecretaria de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance decreto Nº 13, de 2010, del Ministerio de Energía
+
+Nº 10.784.- Santiago, 25 de febrero de 2010.
+
+Esta Contraloría General ha dado curso al documento de la suma, que en conformidad con la ley Nº20.063, modifica los Precios de Referencia para Combustibles derivados del Petróleo, pero cumple con hacer presente de acuerdo con los antecedentes acompañados, que la referencia al Of. Ord. Nº 155/2010, de la Comisión Nacional de Energía, contenida en los Vistos del acto administrativo en examen, debe entenderse efectuada al oficio Ord. Nº 167 de 2010, de la aludida Comisión.
+
+Con el alcance que antecede se ha tomado razón del decreto del epígrafe.
+
+Saluda atentamente a Ud., Pedro Aguerrea Mella, Abogado, Jefe División Jurídica Subrogante, Contraloría General de la República. Por orden del Contralor General.
+
+Al señor
+
+Ministro de Energía
+
+Presente.
