@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.303, de 2 de noviembre de 2010 de esta Subsecretaría, recházanse las solicitudes números 208111196, 208111246, 208111247, 208111259, 208111229, 208111186, 208111181, 208111190, 208111240, 208111243, 208111223, 208111255, 208111266, 208111274, 208111283, 208111277, 208111225, 208111207, 208111241, 208111208, 208111265, 208111198, 208111253, 208111250, 208111279, 208111260, 208111218, 208111202, 208111212, 208111201 y 208121026, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 2 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
