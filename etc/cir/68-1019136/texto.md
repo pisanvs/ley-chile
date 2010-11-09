@@ -1,0 +1,5 @@
+TRATAMIENTO PARA EFECTOS DE LA LEY SOBRE IMPUESTO A LA RENTA DE LOS INGRESOS NO CONSTITUTIVOS DE RENTA, RENTAS EXENTAS Y RENTAS AFECTAS AL IMPUESTO DE PRIMERA CATEGORÍA EN CARÁCTER DE ÚNICO Y DE LOS COSTOS, GASTOS Y DESEMBOLSOS IMPUTABLES A CADA UNO DE ELLOS
+
+Extracto de Circular del Servicio de Impuestos Internos N°68 de fecha 3 de noviembre de 2010, relativa al tratamiento para los efectos de la Ley sobre Impuesto a la Renta, de los ingresos no constitutivos de renta, rentas exentas y rentas afectas al Impuesto de Primera Categoría en carácter de único, y en particular, de los costos, gastos y desembolsos que les sean imputables. Estas instrucciones empezarán a regir a contar del año tributario 2011, respecto de los ingresos, costos, gastos y desembolsos que correspondan al año calendario o comercial 2010, quedando por lo tanto, sin efecto aquellas que sean contrarias a las impartidas en este instructivo.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre, de 2010.
