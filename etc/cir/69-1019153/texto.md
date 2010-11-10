@@ -1,0 +1,7 @@
+INSTRUYE SOBRE EL TRATAMIENTO TRIBUTARIO DE LA ENAJENACIÓN DE DERECHOS SOCIALES EN SOCIEDADES DE PERSONAS. DETERMINACIÓN DE LA RENTA OBTENIDA DE DICHAS OPERACIONES
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 69, de fecha 4 de noviembre de 2010, la cual tiene por objeto, instruir sobre el tratamiento tributario para los efectos de la Ley sobre Impuesto a la Renta de la enajenación de los derechos sociales en sociedades de personas, cambiando los criterios existentes sobre la determinación del reajuste contemplado en el artículo 41, inciso 1º, Nº 9, de dicha ley y la determinación del mayor valor en la enajenación de derechos sociales efectuada por contribuyentes obligados a determinar su renta efectiva mediante un balance general según contabilidad completa.
+
+Estas instrucciones regirán a partir de la fecha de su publicación en extracto en el Diario Oficial, respecto de las enajenaciones de derechos sociales llevadas a cabo desde esa, quedando sin efecto desde ese momento toda instrucción en contrario.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2010.
