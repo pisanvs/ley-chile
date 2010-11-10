@@ -1,0 +1,21 @@
+APRUEBA REFORMA DE ESTATUTOS A ADMINISTRADORA DE FONDOS DE PENSIONES PLANVITAL S.A.
+
+Certifico que por resolución N° E-209-2010, de fecha 2 de noviembre de 2010, se aprobó la reforma introducida a los estatutos de la Administradora de Fondos de Pensiones Planvital S.A., acordada en la vigésima junta general extraordinaria de accionistas, celebrada el día 29 de septiembre de 2010, cuya acta se redujo a escritura pública con igual fecha, ante el Notario de Santiago, don Félix Jara Cadot.
+
+En dicha junta se adoptaron los siguientes acuerdos:
+
+Acuerdo número uno. La junta acordó por unanimidad disminuir el capital social en ciento ochenta y tres millones novecientas veintisiete mil ciento veinte acciones de pago, nominativas, ordinarias y sin valor nominal, equivalentes a dos mil cuatrocientos siete millones seiscientos seis mil un pesos.
+
+Acuerdo número dos. La junta acordó por unanimidad modificar el capital social, aumentándolo en la suma de ocho millones novecientos noventa y tres mil setecientos cincuenta y dos pesos, a objeto de reconocer en él el mayor valor obtenido en colocación de acciones de la sociedad.
+
+Acuerdo número tres. La junta acordó por unanimidad modificar el capital social, fijándolo en la suma de treinta y tres mil quinientos cuarenta y un millones cuatrocientos setenta y un mil ochocientos veinticuatro pesos, que se encuentra dividido en mil seiscientas ochenta y dos millones ciento cincuenta y ocho mil ciento veintiún acciones nominativas, ordinarias y sin valor nominal, suma que comprende el reconocimiento de la revalorización del capital propio al treinta y uno de diciembre de dos mil nueve, del mayor valor obtenido en la colocación de acciones y de la disminución de capital producida por haber quedado sin efecto la emisión de las acciones no suscritas y pagadas en el período de colocación.
+
+Acuerdo número cuatro. La junta acordó por unanimidad disminuir el capital social en la suma de noventa y cinco millones ochocientos dieciocho mil ciento tres pesos, correspondiente al mayor valor pagado en la compra de acciones de su propia emisión, en su valor reajustado al treinta y uno de diciembre de dos mil nueve, quedando el capital social reducido a la suma de treinta tres mil cuatrocientos cuarenta y cinco millones seiscientos cincuenta y tres mil setecientos veintiún pesos, dividido en mil seiscientas ochenta y dos millones ciento cincuenta y ocho mil ciento veintiún acciones nominativas, ordinarias y sin valor nominal.
+
+Acuerdo número cinco. La junta por unanimidad aprobó íntegramente la proposición del presidente, acordando disminuir el capital social por el equivalente a la suma en moneda nacional de tres mil seiscientos millones de pesos, reduciéndolo a la suma de veintinueve mil ochocientos cuarenta y cinco millones seiscientos cincuenta y tres mil setecientos veintiún pesos, para que sea distribuida entre los accionistas a prorrata de las acciones que cada uno posea, pagándose la suma de dos coma uno cuatro cero uno cero siete nueve seis nueve pesos por cada una de las mil seiscientas ochenta y dos millones ciento cincuenta y ocho mil ciento veintiún acciones nominativas, ordinarias y sin valor nominal, en que se encuentra dividido el capital social, en los términos y condiciones señalados precedentemente por el señor presidente. Como consecuencia de los acuerdos precedentes la Junta acuerda modificar el artículo quinto de los estatutos sociales, a objeto de reflejar el valor actual del capital social y el número de acciones en que éste se divide, quedando del siguiente tenor:
+
+#### Artículo Quinto
+
+El capital social es la suma de veintinueve mil ochocientos cuarenta y cinco millones seiscientos cincuenta y tres mil setecientos veintiún pesos, dividido en mil seiscientas ochenta y dos millones ciento cincuenta y ocho mil ciento veintiún acciones nominativas, ordinarias y sin valor nominal, sin perjuicio de la modificación de pleno derecho que contempla la ley."
+
+Santiago, 2 de noviembre de 2010.- Alejandro Charme Chávez, Superintendente de Pensiones Subrogante.
