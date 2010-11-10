@@ -10210,7 +10210,7 @@ c) Se deduce el monto de todos los activos que correspondan a "goodwill".
 
 d) Cuando la suma de los activos correspondientes a inversiones minoritarias en sociedades distintas de empresas de apoyo al giro sea superior al 5% del capital básico, se deducirá la cantidad en que aquella suma exceda ese porcentaje.
 
-e) Se agrega el monto correspondiente al "Patrimonio atribuible a interés minoritario" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
+e) Se agrega el monto correspondiente al "nterés no controlador" según lo indicado en el Compendio de Normas Contables. No obstante, si dicho monto fuera superior al 20% del capital básico, se sumará sólo el importe equivalente a ese porcentaje.
 
 En concordancia con lo indicado en la letra d), para los efectos de la ponderación por riesgo de que trata el N° 2 del título II de este Capítulo, se clasificarán en categoría 5 los activos que correspondan a inversiones minoritarias en sociedades de apoyo al giro, como asimismo el monto de las inversiones minoritarias en otras sociedades hasta un tope de el 5% del capital básico.
 
@@ -10374,17 +10374,11 @@ Los swaps sobre dos tasas de interés fluctuantes en una misma moneda tendrán u
 
 ### 1. Deducción de "goodwill"
 
-Los activos que se identifiquen como "goodwill" originados antes de la fecha en que deberán aplicarse los criterios contables de general aceptación según lo dispuesto en el Compendio de Normas Contables, podrán seguir deduciéndose, hasta su extinción, sólo por aquella parte originalmente establecida según las normas vigentes a la fecha en que se originaron.
+Los activos que se identifiquen como "goodwill" que provengan de años anteriores a 2009, podrán seguir deduciéndose, hasta su extinción, sólo por aquella parte originalmente establecida según las normas vigentes a la fecha en que se originaron.
 
 ### 2. Cómputo de provisiones como patrimonio efectivo
 
-Mientras no entren en vigor las normas del Capítulo B-1 del Compendio de normas Contables, las provisiones adicionales a que se refiere la letra b) del numeral 3.1 del título I de este Capítulo, deben entenderse referidas a las provisiones adicionales que se trataron en el Capítulo 7-10 de esta Recopilación. En todo caso, a contar del mes de enero de 2008, estas provisiones adicionales serán las únicas que se computarán como patrimonio efectivo.
-
-Junto con lo anterior, desde el mes de abril de 2009 hasta el mes de diciembre de 2010, podrá sumarse a las provisiones adicionales a que se refiere el párrafo precedente y dentro del límite del 1,25% señalado en la referida letra b), un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, cuando dichas garantías correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE. A partir del 31 de enero de 2011, aquel porcentaje disminuirá linealmente el último día de cada mes, en 12 mensualidades iguales y sucesivas.
-
-### 3. Créditos contingentes
-
-Las normas sobre las exposiciones de los créditos contingentes a que se refiere la letra b) del N° 1 del título II de este Capítulo, se aplicarán a contar del 31 de enero de 2009. Antes de esa fecha, se computará dentro de los activos que se ponderarán por riesgo en las distintas categorías, el monto total de los tipos de créditos contingentes que al 31 de diciembre de 2007 aún debían informarse como "colocaciones contingentes", netos de sus respectivas provisiones calculadas de acuerdo al Capítulo 7-10 de esta Recopilación.
+Hasta el 31 de diciembre de 2011, podrá sumarse a las provisiones adicionales a que se refiere la letra b) del numeral 3.1 del título I de este Capítulo, dentro del límite del 1,25 % allí señalado, un monto de hasta el 15% de las garantías que amparan los activos ponderados por riesgo, cuando dichas garantías correspondan a avales o reafianzamientos otorgados por el Fisco de Chile, CORFO y el FOGAPE. A partir del 31 de enero de 2012, aquel porcentaje disminuirá linealmente el último día de cada mes, en 12 mensualidades iguales y sucesivas.
 
 ## Capítulo 12-3
 
