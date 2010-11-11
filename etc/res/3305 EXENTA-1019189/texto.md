@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.305, de 3 de noviembre de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 895 y Nº 1848, ambas de 1998, Nº 134 y Nº 2365, ambas de 1999, Nº 1623 de 2000, Nº 382 de 2002, Nº 1891 de 2003, Nº 1280 de 2004, Nº 1216 de 2005, todas de esta Subsecretaría, del área de manejo Arica, XV Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 3 de noviembre de 2010.- Pablo Galilea Garrillo, Subsecretario de Pesca.
