@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.292, de 2 de noviembre de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 1838 de 1998, Nº 642 y Nº 2120, ambas de 1999, Nº 2545 de 2000, Nº 2362 de 2001, Nº 1973 y Nº 2366, ambas de 2002, Nº 2462 de 2003, Nº 1041, Nº 2061 y Nº 2847, todas de 2004, Nº 2428 y Nº 4416, ambas de 2005, de esta Subsecretaría, del área de manejo Farallones de Quintero, I Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 2 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
