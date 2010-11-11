@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.306, de 3 de noviembre de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 245 y Nº 3448, ambos de 2005, Nº 2659 de 2006 y Nº 585 de 2008, de esta Subsecretaría, del área de manejo Puntilla Tenglo, X Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 3 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
