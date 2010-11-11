@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.304, de 3 de noviembre de 2010, de esta Subsecretaría, dejanse sin efecto resoluciones Nº 881 de 2003, Nº 1760 y Nº 1967, ambas de 2005, Nº 1179 de 2006 y Nº 1383 de 2007, de esta Subsecretaría, del área de manejo Islas Huichas Sector I, XI Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 3 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
