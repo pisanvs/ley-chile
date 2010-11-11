@@ -78,6 +78,12 @@ El pago de esta asignación se mantendrá durante los feriados, permisos con goc
 
 La asignación de que trata este artículo, será considerada como estipendio de carácter general y permanente, para los efectos del inciso tercero del artículo 21, de la ley Nº 19.429.
 
+> **Nota.** El Artículo 7 a) del DFL 1, Justicia, publicado el 10.11.2010, agrega en la tabla del artículo 1°, que contiene la asignación por turno para la planta de Oficiales Penitenciarios, el beneficio al grado jerárquico "Teniente Segundo", 14 de la E.U.S., por el monto de $186.515.
+
+> **Nota.** NOTA 1 El Artículo 7 b) del DFL 1, Justicia, publicado el 10.11.2010, agrega en la tabla del artículo 1°, que contiene la asignación por turno para la planta de Suboficiales y Gendarmes, nombre que sustituye al de Vigilantes Penitenciarios de acuerdo con la modificación que su Art. 2 introdujo en el Art. 8 del DFL 1791, Justicia, publicado el 04.09.1980, este beneficio a los grados jerárquicos que en ella se señalan, por el monto que se indica.
+
+> **Nota.** NOTA 2 El Artículo 7 c) del DFL 1, Justicia, publicado el 10.11.2010, reemplaza en la tabla que contiene la asignación por turno para la planta de Suboficiales y Gendarmes, establecida en el artículo 1º, el monto correspondiente a Gendarme grado 26°, de "108.964", por "188.100".
+
 #### Artículo 2º
 
 Otórgase a los funcionarios referidos en el artículo 1º una bonificación equivalente al 12% de la asignación por turno que perciban. Esta bonificación no será imponible, no servirá de base para el cálculo de ninguna remuneración, ni se considerará remuneración para los efectos de lo dispuesto en el inciso final del artículo 59 de la ley Nº 18.961. La bonificación de que trata este artículo, será considerada como estipendio de carácter general y permanente, para los efectos del inciso tercero del artículo 21, de la ley Nº19.429.
@@ -98,7 +104,11 @@ PLANTAS DE DIRECTIVOS
 
 Grado E.U.S. Cargo Monto $
 
+3 Subdirectores 302.972
+
 4 Jefe de Departamento 155.258
+
+5 Jefes de Departamento 273.025
 
 6 Jefe de Departamento 135.035
 

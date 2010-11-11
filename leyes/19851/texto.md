@@ -240,7 +240,7 @@ b) Agrégase, en el artículo 4º, el siguiente inciso final:
 
 #### Artículo 5º
 
-Establécese para los cargos de "Gendarmes Mayores Grado 9º" de la Planta de Vigilantes Penitenciarios, a que se refiere el artículo 1º de la presente ley, una asignación de Responsabilidad de Gendarme Mayor ascendente a la cantidad de $72.875.
+Establécese para los cargos de "Gendarmes Mayores Grado 9º" de la Planta de Vigilantes Penitenciarios, a que se refiere el artículo 1º de la presente ley, una asignación de Responsabilidad de Gendarme Mayor ascendente a la cantidad de $136.494.
 
 Esta asignación será de carácter imponible para efectos de salud y pensiones, y no servirá de base para el cálculo de ninguna remuneración ni para ningún otro efecto legal.
 

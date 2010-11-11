@@ -76,31 +76,31 @@ El personal de Gendarmería se agrupa en plantas y dentro de éstas en los escal
 
 I PLANTA DE OFICIALES PENITENCIARIOS
 
-Grados Grado jerárquico Nº de cargos
+Para desempeñar el cargo de Director Nacional se requerirá, alternativamente:
 
-1 C Director Nacional 1
+i) Título profesional de una carrera de, a lo menos,
 
-3º Subdirector 2
+ocho semestres de duración, otorgado por una
 
-4º Inspector 25
+institucón de educación superior del Estado o
 
-6º Subinspector 41
+reconocida por éste o aquellos reconocidos,
 
-8º Alcaide Mayor 85
+revalidados y convalidados, de acuerdo al artículo 6º
 
-10º Alcaide 1º 137
+del decreto con fuerza de ley N° 3, de 2006, del
 
-12º Alcaide 2º 192
+Ministerio de Educación, y acreditar una experiencia
 
-16º Subalcaide 229
+profesional no inferior a cinco años en el sector
 
-Subtotal 712
+público o privado, o
 
-Para desempeñar los cargos de Director Nacional y de Subdirectores se requerirá, alternativamente:
+ii) Haberse desempeñado en el cargo de Subdirector
 
-i) Grado académico de licenciado, magister o doctor, o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste, o
+Operativo o de Coronel de la Planta de Oficiales
 
-ii) Haberse desempeñado en el cargo de Inspector del Escalafón de Oficiales Penitenciarios.
+Penitenciarios.
 
 B. ESCALAFON DE OFICIALES PENITENCIARIOS FEMENINOS
 
@@ -130,27 +130,7 @@ Subtotal 22
 
 Total de la Planta 413
 
-II PLANTA DE VIGILANTES PENITENCIARIOS
-
-Grados Grado Jerárquico Nº de cargos
-
-9º Gendarme Mayor 196
-
-10º Vigilante Mayor 260
-
-12º Gendarme 1º 415
-
-14º Gendarme 2º 756
-
-16º Vigilante 1º 1139
-
-18º Vigilante 2º 1545
-
-22º Gendarme 2459
-
-26º Vigilante 2429
-
-Subtotal 9199
+II PLANTA DE SUBOFICIALES Y GENDARMES
 
 ESCALAFON DE OFICIALES ADMINISTRATIVOS PENITENCIARIOS
 
@@ -500,7 +480,7 @@ Total General_ _ _ _ _ _ _ _ _ _ 5.423
 
 > **Nota.** NOTA: 1.3 Ver el Decreto con Fuerza de Ley N° 9/90, del Ministerio de Justicia, publicado en el "Diario Oficial" de 2 de Octubre de 1990, que adecúa el Escalafón del Personal de Gendarmería de Chile que indica al artículo 5° de la ley N° 18.834, sobre Estatuto Administrativo.
 
-> **Nota.** NOTA 2: El artículo primero del DFL 38, Hacienda, publicado el 30.10.2007, crea dos cargos de Inspector, grado 4º, en la Planta de Oficiales Penitenciarios de Gendarmería de Chile.
+> **Nota.** NOTA 2 El Artículo 3 del DFL 1, Justicia, publicado el 10.11.2010, incrementó en dos el número de cargos grado 9° del Escalafón de Oficiales Administrativos Penitenciarios, establecido en el presente artículo y sus modificaciones posteriores.
 
 #### Artículo 9°
 
