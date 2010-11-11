@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.312, de 3 de noviembre de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 1.526 de 2004, Nº 366 de 2005, Nº 883 de 2006 y Nº 283 de 2007, de esta Subsecretaría, del área de manejo Brazos del Pillan, XI Región, en virtud del artículo 21 del D.S. Nº 355 de 1995, de este Ministerio.
+
+Valparaíso, 3 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
