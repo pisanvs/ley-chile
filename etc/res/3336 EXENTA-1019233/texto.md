@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.336, de 4 de noviembre de 2010, de esta Subsecretaría, modifíquese el numeral 1º letra b) de la resolución exenta Nº 1.736 de 2010, modificada mediante resoluciones exentas Nº 1810 y Nº 1893, ambas de 2010, todas de esta Subsecretaría de Pesca, en el sentido de autorizar la distribución de 118 toneladas de Anchoveta y 187 toneladas de Sardina común con cargo a la reserva establecida en el artículo 2º del decreto exento Nº 638 de 2010, del Ministerio de Economía, Fomento y Turismo, entre los beneficiarios individualizados en la resolución extractada.
+
+Valparaíso, 4 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
