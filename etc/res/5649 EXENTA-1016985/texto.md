@@ -72,17 +72,29 @@ En caso que la vivienda no cumpla las exigencias en más de un tipo de elemento 
 
 c) Puntaje adicional por diseño de la solución de aislación térmica a incorporar en los elementos de muro y piso ventilado a intervenir: Se otorgarán 5 puntos adicionales si la aislación térmica considerada es proyectada por el exterior.
 
-d) Puntaje adicional por mejoras al proyecto por sobre lo establecido en el artículo 4.1.10 de la O.G.U.:
+d) Puntaje adicional por mejoras al proyecto por sobre lo establecido en el artículo 4.1.10 de la O.G.U.C.
 
-.
+NOTA: en caso de mejorar en más de un 40% el
 
-Ue= U (transmitancia térmica) exigido (ponderado) para cada elemento según zona térmica.
+U requerido para la zona en donde se proyecta
 
-Up= U (Transmitancia térmica) proyectado (ponderado) para cada elemento según zona térmica.
+construir, el puntaje asignado será el máximo
 
-NOTA: En caso de mejorar en más de un 40% el U requerido para la zona en donde se proyecta construir, el puntaje asignado será el máximo establecido en la tabla, es decir, 10 pts. para complejo techumbre, 30 ptos. para complejo muro y 20 pts. para complejo piso ventilado.
+establecido en la tabla, es decir, 10 pts
 
-En caso que la vivienda sea intervenida en más de un tipo de elemento por sobre las exigencias establecidas en la RT, se debe sumar los puntajes asignados a cada elemento, de acuerdo con la tabla anterior.
+para complejo techumbre, 30 ptos. para
+
+complejo muro y 15 pts. para complejo piso
+
+ventilado.
+
+En caso que la vivienda sea intervenida en más de
+
+un tipo de elemento por sobre las exigencias establecidas
+
+en la RT, se debe sumar los puntajes asignados a cada
+
+elemento, de acuerdo con la tabla anterior
 
 e) Ventanas: Priorización por cambio de ventana con vidrio monolítico a ventana de doble vidriado hermético (DVH) en recintos habitables (estar-comedor, dormitorios)
 
