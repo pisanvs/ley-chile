@@ -62,17 +62,19 @@ Año de Modelo Fecha de Retiro
 
 1994 31/12/2009
 
-1995 31/05/2010
+1995 al 2002 31 de diciembre
 
-1996 31/12/2010
+del año en que cumpla
 
-1997 y 1998 31/12/2011
+15 años de antigüedad
 
-1999 y siguientes 31 de diciembre del año en
+2003 31/05/2018
 
-que cumpla 12 años de
+2004 31/12/2018
 
-antigüedad
+2005 31/05/2019
+
+2006 y 2007 31/12/2019
 
 La fecha máxima para recibir la documentación pertinente, por parte de la respectiva Secretaría Regional, será el 60 das contados desde la publicación del decreto Nº 31/2007 antes referido.
 
