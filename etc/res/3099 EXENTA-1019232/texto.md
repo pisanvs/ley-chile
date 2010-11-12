@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.099 de 8 de octubre de 2010 de esta Subsecretaría, modifícase la resolución exenta Nº 4.098 de 2009, de esta Subsecretaría, que autorizó a WILDLIFE CONSERVATION SOCIETY (SUCURSAL CHILE) para efectuar una pesca de investigación, en el sentido de extender su vigencia hasta el 1 de diciembre de 2011.
+
+Valparaíso, 8 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
