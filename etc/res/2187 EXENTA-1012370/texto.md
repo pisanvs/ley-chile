@@ -42,59 +42,75 @@ El número de proyectos seleccionados en cada Región alcanzará hasta la cantid
 
 4. En caso que en alguna de las selecciones los recursos definidos no alcanzaren para atender la totalidad de las postulaciones ingresadas, la selección se efectuará considerando el orden de prelación que determine el puntaje de los postulantes, hasta enterar el total de los recursos disponibles.
 
-5. Sólo podrán participar en este llamado extraordinario los damnificados por el terremoto de fecha 27 de febrero de 2010. La calidad de damnificado se acreditará mediante la Ficha de Registro de Damnificados extendida por la respectiva Municipalidad, la que será ingresada en el sistema computacional que el Ministerio de Vivienda y Urbanismo ha implementado para estos efectos. Para acreditar los daños de la vivienda a intervenir se deberá presentar un certificado expedido por la Dirección de Obras de la Municipalidad o del Serviu respectivo, en caso que el Municipio esté impedido de extender el certificado aludido. En este certificado se deberá señalar a lo menos, la individualización del propietario del inmueble afectado, indicando su cédula nacional de identidad (R.U.N.) o R.U.T.; dirección de la propiedad; Rol de Avalúo fiscal y una breve descripción de los daños. Este certificado podrá ser visado por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la región.
+5. Sólo podrán participar en este llamado extraordinario los damnificados por el terremoto de fecha 27 de febrero de 2010. La calidad de damnificado se acreditará mediante la Ficha de Registro de Damnificados extendida por la respectiva Municipalidad, la que será ingresada en el sistema computacional que el Ministerio de Vivienda y Urbanismo ha implementado para estos efectos. Para acreditar los daños de la vivienda a intervenir se deberá presentar un certificado expedido por la Dirección de Obras de la Municipalidad o del Serviu respectivo, en caso que el Municipio esté impedido de extender el certificado aludido. En este certificado se deberá señalar a lo menos, la individualización del propietario del inmueble afectado, indicando su cédula nacional de identidad (R.U.N.) o R.U.T.; dirección de la propiedad; Rol de Avalúo fiscal y una breve descripción de los daños. Este certificado podrá ser visado por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la región. En caso que se postule a través de la entidad de Asesoría Técnica Legal contratada por el SERVIU, a que se refiere la letra i) del resuelvo número 7 de esta resolución, el informe de habitabilidad de la vivienda existente, allí mencionado, reemplazará al Certificado de Daños de la Dirección de Obras Municipales antes aludido.
 
-6. Exímese a los postulantes a que alude esta resolución de los requisitos exigidos en los siguientes artículos del D.S. N° 255 (V. y U.), de 2006:
+6. Exímese a los postulantes a que alude esta resolución de los requisitos exigidos en los siguientes artículos del DS Nº 255 (V. y U.), de 2006:
 
-- De acreditar un ahorro mínimo, exigido en el ar-
+- De acreditar un ahorro mínimo, exigido en el
 
-tículo 9°.
+#### Artículo 9º
 
-- De lo dispuesto en los incisos segundo y tercero
+- De lo dispuesto en los incisos segundo y tercero del
 
-del artículo 15, referido a la incompatibilidad
+#### Artículo 15
 
-con el beneficio para proyectos del mismo tipo,
+, referido a la incompatibilidad con el
 
-recibidos anteriormente;
+beneficio para proyectos del mismo tipo, recibidos
 
-- De los requisitos del programa del artículo 16,
+anteriormente.
 
-en sus letras d), f) y l);
+- De los requisitos del programa del artículo 16, en
 
-- De los antecedentes generales para postular a
+sus letras a) y b) sólo cuando se trate de proyectos
 
-cualquier título exigidos en el artículo 21, en
+de Mejoramiento de Bienes Comunes Edificados, y en sus
 
-sus letras e), f), i), j), l) en su inciso
+letras d), f) y l) respecto de todos los proyectos;
 
-segundo, ll) y n) en su punto n.3) y en sus
+- De los antecedentes generales para postular a cualquier
 
-incisos penúltimo y último;
+título exigidos en el artículo 21, en sus letras d),
+
+e), f), i), j), k), l) en su inciso segundo, ll) y
+
+n) en su punto n.3) y en sus incisos penúltimo y
+
+último.
+
+Además cuando se trate de proyectos de reparación de
+
+Bienes Comunes Edificados, no será exigible lo indicado
+
+en la letra c) en cuanto a la exigencia de presentar
+
+declaración jurada simple de cada postulante que
+
+señale que él o su cónyuge son propietarios o
+
+asignatarios de la vivienda que integra el condominio;
 
 - De la exigencia referida al Plan de Habilitación
 
-Social, contenida en los artículos 23 bis y
+Social, contenida en los artículos 23 bis y 23 ter.
 
-#### Artículo 23 ter
+- De los antecedentes para postular como copropietario,
 
-- De los antecedentes para postular como
+exigidos en las letras:
 
-copropietario, exigidos en las letras:
+c) Copia del reglamento de copropiedad formalizado
 
-c) Copia del reglamento de copropiedad
+conforme a la ley Nº19.537 sobre Copropiedad
 
-formalizado conforme a la Ley N° 19.537 sobre
+Inmobiliaria.
 
-Copropiedad Inmobiliaria.
+d) Acta de la Asamblea en que conste la designación
 
-d) Acta de la Asamblea en que conste la
+del Comité de Administración con individualización
 
-designación del Comité de Administración con
+de su presidente y la del Administrador del
 
-individualización de su presidente y la del
-
-Administrador del Condominio, si lo hubiere.
+Condominio, si lo hubiere.
 
 f) Tratándose de proyectos que aborden o afecten
 
@@ -102,9 +118,9 @@ bienes comunes de un condominio, Acta de la
 
 Asamblea de Copropietarios en que conste el
 
-acuerdo adoptado de conformidad a la Ley N°
+acuerdo adoptado de conformidad a la ley
 
-19.537, aprobando el proyecto, todas del
+Nº 19.537, aprobando el proyecto, todas del
 
 #### Artículo 47
 
@@ -112,9 +128,11 @@ acuerdo adoptado de conformidad a la Ley N°
 
 a) Ficha de Protección Social de acuerdo a los Artículos 16 letra b) y 21 letra d). No obstante lo anterior, en casos calificados como extraordinarios y certificados por el Serviu, se podrá eximir de este requisito.
 
+No obstante lo anterior, tratándose de postulación colectiva en la que las viviendas correspondientes se ubiquen en una misma comuna, hasta un 40% de las familias podrán no presentar Ficha de Protección Social.
+
 b) El postulante debe ser el propietario o asignatario del inmueble afectado, o su cónyuge, y ninguno de ellos podrá ser propietario de otra vivienda. En caso que las viviendas sean de propiedad del SERVIU se aplicará igualmente lo establecido en el Artículo 7° bis del D.S. N° 255 (V. y U.), de 2006.
 
-No obstante lo anterior tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas. El postulante requerirá, además, contar con autorización notarial de los restantes herederos. El Serviu podrá proceder al pago del subsidio, siempre que se acredite la inscripción especial de herencia del inmueble a favor de la comunidad.
+No obstante lo anterior tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas. El postulante requerirá, además, contar con autorización notarial de los restantes herederos. El Serviu podrá proceder al pago del subsidio, siempre que se acredite la inscripción especial de herencia del inmueble a favor de la comunidad. No obstante lo anterior en el caso de proyectos de Mejoramiento de Bienes Comunes Edificados de Condominios de Viviendas Sociales, si ni el postulante ni su cónyuge son propietarios del inmueble a intervenir, no podrán utilizar en reparaciones al interior de la unidad parte de los recursos del subsidio, incrementado conforme lo autoriza el inciso segundo del resuelvo número 2. de esta resolución.
 
 c) Carpeta del Proyecto de Mejoramiento de la Vivienda, que contenga los antecedentes que se señalan a continuación, debidamente aprobados:
 
@@ -167,6 +185,8 @@ proyecto indicado en la tabla inserta en el
 h) Las personas que sean beneficiadas por primera vez con un subsidio en este llamado, podrán volver a postular en futuros llamados del Programa de Protección del Patrimonio Familiar al Título II.
 
 i) En este llamado sólo podrán postular proyectos las Entidades de Gestión Inmobiliaria Social (EGIS) o los Prestadores de Servicios de Asistencia Técnica (PSAT) con convenio marco regional vigente y que, además, hubieran tenido proyectos con calificación definitiva o condicional del sistema regulado por el D.S. N° 174 (V. y U.), de 2005, o proyectos con calificación definitiva del sistema regulado por el D.S. N° 145 (V. y U.), de 2007, o proyectos calificados como hábiles del sistema regulado por el D.S. N°255 (V. y U.), de 2006, en cualquier región del país, desde la fecha en que comenzó a regir el respectivo convenio. Tratándose de Municipios que participen como PSAT, solamente se les exigirá tener convenio marco vigente.
+
+También podrán postular proyectos al presente llamado, las entidades de Asesoría Técnica Legal contratadas por los SERVIU para la atención de postulantes preseleccionados del Llamado a Concurso en Condiciones Especiales para Construcción de Viviendas en Sitio Propio con Proyecto Tipo, para el Programa Fondo Solidario de Vivienda, efectuado mediante la resolución exenta Nº 2.968 (V. y U.), de 2010, en los casos en que se determine mediante informe de diagnóstico de habitabilidad de la vivienda existente, a que se alude en dicha resolución, que la vivienda dañada se encuentra en condiciones de ser reparada.
 
 j) Los proyectos de reparación de viviendas que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, podrán obtener un subsidio adicional de hasta 200 Unidades de Fomento, siempre que se aplique a la recuperación del patrimonio arquitectónico del inmueble a intervenir y a mantener las condiciones urbanas del entorno, dando en todo caso cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley N° 17.288 Sobre Monumentos Nacionales y la Ley General de Urbanismo y Construcciones y su Ordenanza.
 
