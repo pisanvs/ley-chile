@@ -8,15 +8,15 @@ Decreto:
 
 1°.- Decláranse Normas Oficiales de la República de Chile, las normas técnicas que se indican a continuación:
 
-NCH 786 Madera - Preservación - Clasificación
+NCh 790.Of2010 Madera - Preservación - Clasificación,
 
-de los preservantes.
+composición y requisitos de los
 
-NCH 790 Madera - Preservación - Composición y
+preservantes para madera.
 
-requisitos de los preservantes para
+NCh 3206.Of2010 Geotecnia - Excavaciones, entibaciones
 
-madera.
+y socalzados – Requisitos.
 
 NCH 1439 Madera - Preservantes hidrosolubles -
 
