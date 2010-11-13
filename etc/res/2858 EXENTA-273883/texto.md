@@ -14,6 +14,12 @@ Resuelvo:
 
 Especie Origen Requisito Fitosanitario
 
+Amaranto
+
+(Amaranthus México Sin declaraciones
+
+Hypochondriacus) adicionales
+
 Camelina
 
 sativa Estados Unidos Sin declaración adicional
