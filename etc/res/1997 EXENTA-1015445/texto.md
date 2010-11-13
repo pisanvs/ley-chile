@@ -48,7 +48,7 @@ A. Materias Administrativas, Presupuestarias y Financieras:
 
 B. Materias Relativas a Recursos Humanos de dependencia de las Defensorías Regionales:
 
-1.- Designar suplentes con personal del mismo servicio o con personal externo, de acuerdo a la glosa respectiva, salvo que se refieran a cargos de exclusiva confianza, previa certificación de disponibilidad presupuestaria del jefe de la Unidad de Recursos Humanos y Desarrollo Organizacional de la Defensoría Penal Pública.
+1.- Designar suplentes con personal del mismo servicio, de acuerdo a la glosa presupuestaria respectiva, salvo que se refieran a funcionarios de exclusiva confianza, previa certificación de disponibilidad presupuestaria del Jefe de la Unidad de Recursos Humanos y Desarrollo Organizacional de la Defensoría Penal Pública.
 
 2.- Autorizar la realización de prácticas profesionales a alumnos de instituciones de educación superior y/o técnico profesional, y a egresados de la carrera de Derecho de conformidad con lo dispuesto en el artículo 523 del Código Orgánico de Tribunales, de instituciones reconocidas por el Estado.
 
@@ -56,7 +56,7 @@ B. Materias Relativas a Recursos Humanos de dependencia de las Defensorías Regi
 
 4.- Autorizar las compensaciones que se originen como consecuencia de la participación en cursos de capacitación o actividades de perfeccionamiento del artículo 30 inciso final del Estatuto Administrativo.
 
-5.- Contratar, prorrogar y reemplazar funcionarios, previa certificación de disponibilidad presupuestaria del jefe de la Unidad de Recursos Humanos y Desarrollo Organizacional de la Defensoría Penal Pública.
+5.- Prorrogar las contrataciones de funcionarios y reemplazarlos, previa certificación de disponibilidad presupuestaria del Jefe de la Unidad de Recursos Humanos y Desarrollo Organizacional de la Defensoría Penal Pública.
 
 6.- Otorgar los permisos por nacimiento o fallecimiento reconocidos en la legislación laboral.
 

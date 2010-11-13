@@ -94,7 +94,7 @@ C.1 Materias de Competencia en el Ámbito Nacional:
 
 C.2 Materias de competencia respecto de funcionarios que se desempeñan en la Defensoría Nacional:
 
-1.- Designar suplentes con personal del mismo servicio o con personal externo, de acuerdo a la glosa respectiva, salvo que se refieran a cargos de exclusiva confianza.
+1.- Designar suplentes con personal del mismo servicio, de acuerdo a la glosa presupuestaria respectiva, salvo que se refieran a funcionarios de exclusiva confianza.
 
 2.- Autorizar el uso de las licencias médicas, en cualquiera de sus tipos y refrendar los respectivos formularios.
 
