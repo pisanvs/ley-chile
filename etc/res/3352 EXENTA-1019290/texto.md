@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.352, de 4 de noviembre de 2010, de esta Subsecretaría, déjanse sin efecto resoluciones Nº 566, de 2002, Nº 364 y Nº 2.788, ambas de 2003, Nº 181 y Nº 2.739, ambas de 2004 y Nº 2.944, de 2006, de esta Subsecretaría, del área de manejo Pichilemu Sector F, VI Región, en virtud del artículo 21 del DS Nº 355, de 1995, de este Ministerio.
+
+Valparaíso, 4 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
