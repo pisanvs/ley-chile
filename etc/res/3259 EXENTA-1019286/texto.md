@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.259, de 28 de octubre de 2010, de esta Subsecretaría, autorízase a PESQUERA GRIMAR S.A. para continuar desarrollando las actividades pesqueras extractivas autorizadas a Friosur X S.A. con las naves "Friosur X", "Don Enrique", los barcos en construcción "BEC Nº 2568/01" y "BEC Nº 3015/03" y de los certificados del artículo 9 de la Ley General de Pesca y Acuicultura Nº 112, Nº 113, Nº 114 y Nº 115, en virtud de la escritura pública y demás disposiciones legales citadas en Visto de la presente resolución extractada.
+
+Asimismo, autorízase a Pesquera Grimar para continuar desarrollando las actividades pesqueras extractivas respecto de los permisos extraordinarios de pesca autorizados a Pesquera Friosur X S.A. en las unidades de pesquerías de los recursos hidrobiológicos Langostino amarillo y Orange roughy, fijados por los decretos supremos citados en Visto de la presente resolución extractada.
+
+Valparaíso, 28 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
