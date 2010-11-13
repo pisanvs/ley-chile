@@ -44,7 +44,9 @@ Las cuotas globales anuales de captura de las unidades de pesquería de la V a l
 
 #### Artículo 6º
 
-La cuota global anual de captura de la unidad de pesquería de Camarón nailon Heterocarpus reedi en el área marítima comprendida entre la II y VIII Regiones ascenderá a 5.200 toneladas, fraccionadas de la siguiente manera:
+La cuota global anual de captura de la unidad de pesquería de Camarón nailon Heterocarpus reedi en el área marítima comprendida entre la II y VIII Regiones ascenderá a 5.500 toneladas, fraccionadas de la siguiente manera:
+
+.
 
 #### Artículo 7º
 
