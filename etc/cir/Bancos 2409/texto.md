@@ -2236,13 +2236,9 @@ e) Los servicios de la esencia del producto como norma general, sólo podrán re
 
 Los servicios adicionales que faciliten las prestaciones de una cuenta corriente pueden ser remunerados con comisiones, siempre que ellos sean aceptados voluntariamente por el cliente y el cobro de esas comisiones se asocie a la mantención de los sistemas utilizados para proveer esos servicios y no a las transacciones.
 
-f) Cualquier cambio en la tasa de interés a lo largo del tiempo, deberá obedecer a la sola aplicación de una tasa variable pactada. Dicha tasa debe basarse en una tasa o índice de tasa informada por el Banco Central de Chile u otra entidad o servicio de información ampliamente reconocido, en consideración a lo dispuesto en el N° 3 del artículo 438 del Código de Procedimiento Civil.
+f) Cualquier aumento de las comisiones deberá contar con el consentimiento del cliente para ser aplicado. En todo caso, si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
 
-g) Cualquier cambio en las comisiones pactadas que implique un aumento de éstas, deberá contar siempre con consentimiento explícito del cliente.
-
-h) En ningún caso los intereses y comisiones que se cobren podrán quedar condicionados a la mantención de otros productos o servicios contratados por el cliente.
-
-Lo indicado en las letras f) y g) es sin perjuicio de lo dispuesto por el Banco Central de Chile en uso de sus facultades, en los Capítulos III.E.1, y III.E.4 de su Compendio de Normas Financieras, sobre cuentas de ahorro.
+Lo indicado en la letra f) es sin perjuicio de lo dispuesto por el Banco Central de Chile en uso de sus facultades, en los Capítulos III.E.1, y III.E.4 de su Compendio de Normas Financieras, sobre cuentas de ahorro.
 
 2.- Operaciones de los bancos que generan el cobro de intereses o comisiones.
 
@@ -2282,9 +2278,9 @@ En general, tratándose de servicios propios del manejo de una cuenta corriente,
 
 5.- Comisiones sobre tarjetas de crédito, de débito y de cajero automático.
 
-El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija se ha calculado, determinado y comunicado al cliente, considerando todos los costos que son propios del servicio ofrecido.
+El cobro de comisión por la mantención del servicio de tarjetas de crédito, de débito y de cajero automático, debe traducirse en una comisión fija, cobrada en forma periódica, ya sea mensual, anual o con alguna otra periodicidad, no inferior en ningún caso a un mes calendario. A esa comisión no podrán adicionarse otras sumas por concepto de otros gastos, cuando esos gastos correspondan a los propios en que incurre el emisor para proporcionar el servicio que se presta, ya que se supone que la comisión fija pactada o aceptada por el cliente, considera todos los costos que son propios del servicio ofrecido.
 
-La comisión deberá fijarse por períodos no inferiores a un semestre y su plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará el cambio de tarifa. Debe entenderse que esta comisión de mantención o de administración por el uso del servicio, que normalmente se cobra mensualmente, debe ser parte de la comisión anual única por administración e informada como tal a los clientes.
+En caso de que el banco decida aumentar las comisiones que se encuentra cobrando, deberá solicitar el consentimiento del cliente al menos con dos meses de anticipación a la fecha en que desea aplicar las nuevas tarifas. En todo caso, si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
 
 No procede el cobro de comisiones distintas de la comisión de administración por los servicios asociados al uso de las tarjetas como instrumento de pago para la adquisición de bienes y servicios, como son las compras ya sea al contado o en cuotas, así como tampoco corresponde cobrar por el exceso en que incurra el titular de la tarjeta, respecto del cupo de crédito que tiene asignado ese instrumento.
 
@@ -2706,23 +2702,19 @@ Cada vez que se realice un cargo a una cuenta corriente por cualquier causa dist
 
 ### 5. Cobro de comisiones a titulares de cuentas corrientes
 
-5.1. Sistema de comisiones.
-
 Los bancos que decidan cobrar comisiones por el manejo de cuentas corrientes, deberán atenerse a las siguientes instrucciones:
 
 a) Cada banco podrá fijar libremente, tanto la oportunidad en que aplicará el cobro de comisiones por la mantención de cuentas corrientes, como el monto que por ese concepto cobrará a los respectivos titulares de cuentas corrientes;
 
-b) La comisión deberá fijarse por períodos no inferiores a un semestre y comprenderá todos los cobros necesarios para la mantención operativa de la cuenta corriente en sus distintas modalidades de uso. Para los efectos de dar una adecuada transparencia al público, los bancos deberán indicar los servicios comprendidos dentro de la señalada comisión de mantención, como se indica en la letra e) de este numeral;
+b) La comisión comprenderá todos los cobros necesarios para la mantención operativa de la cuenta corriente en sus distintas modalidades de uso. Para los efectos de dar una adecuada transparencia al público, los bancos deberán indicar los servicios comprendidos dentro de la señalada comisión de mantención, como se indica en la letra f) de este número;
 
 c) El banco deberá informar por escrito a cada cliente, a lo menos una vez al año, de las comisiones cobradas mensualmente por cada servicio que haya utilizado. La comunicación deberá ser auto-explicativa a fin de que haya completa claridad de cada concepto de cobro efectuado;
 
-d) El plan de cobro de comisiones que los bancos establezcan, así como cualquier incremento, no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación, así como tampoco podrá ser aplicado sin el consentimiento explícito del titular; y,
+d) El plan de cobro de comisiones que los bancos establezcan no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación;
 
-e) Acorde con lo dispuesto en el Capítulo 18-14 de esta Recopilación la información que se entregue sobre la comisión que se cobre por la administración de cuentas corrientes debe especificar también los servicios que se incluyen en esa comisión, pudiendo contemplarse al respecto distintas combinaciones o composiciones de productos, recomendándose, en todo caso, establecer siempre un plan básico que incluya a lo menos los servicios esenciales inherentes al manejo de una cuenta corriente.
+e) Para incrementar las comisiones el banco deberá contar con el consentimiento del titular de la cuenta corriente, el que deberá solicitarse al menos con dos meses de anticipación a la fecha en que el banco desea comenzar a aplicar las nuevas tarifas; y,
 
-5.2. Aviso a los cuentacorrentistas.
-
-El sistema de cobro y cálculo de comisiones que los bancos establezcan, así como las modificaciones que se hagan a dicho sistema, deberá ser comunicado por escrito a cada uno de los titulares de cuentas corrientes que puedan resultar afectados, por lo menos dos meses antes de que comience a operar. La comunicación podrá enviarse en papel o por correo electrónico, según lo prefiera el cuentacorrentista. Sin embargo, se podrá prescindir de ese aviso previo, cuando se trate de modificaciones que signifiquen la disminución o eliminación de las comisiones vigentes.
+f) Acorde con lo dispuesto en el Capítulo 18-14 de esta Recopilación la información que se entregue sobre la comisión que se cobre por la administración de cuentas corrientes debe especificar también los servicios que se incluyen en esa comisión, pudiendo contemplarse al respecto distintas combinaciones o composiciones de productos, recomendándose, en todo caso, establecer siempre un plan básico que incluya a lo menos los servicios esenciales inherentes al manejo de una cuenta corriente.
 
 ### 6. Pago de intereses en cuenta corriente
 
@@ -4084,9 +4076,11 @@ Los bancos fijarán la modalidad que aplicarán en el cobro de comisiones por el
 
 a) El plan de cobro de comisiones que se establezca no podrá hacer discriminación alguna entre clientes que se encuentren en igual situación.
 
-b) Los bancos que cobren comisiones por las cuentas a la vista deberán informar tal condición y la correspondiente tarifa, en los estados de cuenta que periódicamente deben enviar a los titulares de éstas o en un volante anexo a dichos estados. Igualmente, deberán darlas a conocer mediante avisos colocados en sus locales de atención de público, como también en su sitio web. Los aumentos de las tarifas de esas comisiones como las modificaciones que se hagan a las condiciones para su cobro que signifiquen un aumento de las comisiones vigentes, deberán informarse por los medios indicados con una anticipación de a lo menos diez días respecto de la fecha en que comenzarán a regir.
+b) Los bancos que cobren comisiones por las cuentas a la vista deberán informar tal condición y la correspondiente tarifa, en los estados de cuenta que periódicamente deben enviar a los titulares de éstas o en un volante anexo a dichos estados. Igualmente, deberán darlas a conocer mediante avisos colocados en sus locales de atención de público, como también en su sitio web.
 
-c) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
+c) Los aumentos de las tarifas de esas comisiones o las modificaciones que se hagan a las condiciones para su cobro que signifiquen un aumento de las comisiones vigentes, deberán contar con el consentimiento del respectivo titular, el que deberá solicitarse al menos con dos meses de anticipación a la fecha en que el banco desea aplicarlos. Si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
+
+d) Las comisiones serán percibidas detrayendo su importe de la cuenta que las origine. En caso de que la comisión que debe cargarse a la cuenta fuera superior a su saldo, la diferencia podrá ser imputada posteriormente si la cuenta llegare a tener saldo.
 
 2.7. Información al Público sobre pago de intereses.
 
@@ -6862,11 +6856,13 @@ e) interés pactado y períodos en que se cobrará.
 
 Además el beneficiario de un crédito de esta naturaleza deberá suscribir un pagaré en favor de la entidad bancaria.
 
-Cualquier aumento posterior al monto máximo de sobregiro concedido, deberá contar con el consentimiento explícito del cliente. Las condiciones pactadas deberán considerar los medios a través del cual se podrá manifestar el referido consentimiento, bajo condiciones de seguridad necesarias para la identificación inequívoca del cliente.
+Cualquier aumento posterior al monto máximo de sobregiro concedido, deberá contar con el consentimiento del cliente, sin perjuicio de los incrementos que correspondan a la aplicación de modalidades de aumento previamente acordadas con éste.
 
 Si, como consecuencia de la modificación de las comisiones por la administración de la cuenta corriente, el titular cierra la cuenta, el banco deberá otorgarle las facilidades de pago necesarias, como por ejemplo un crédito por el monto correspondiente al saldo utilizado de la línea de sobregiro pactado, a fin de permitir al titular de la cuenta optar por su permanencia o retiro como cliente del banco.
 
 ### 4. Intereses
+
+Las tasas de interés para los créditos que se originan por el uso de las líneas de crédito o márgenes de sobregiro, deberán corresponder a tasas variables basadas en una tasa o índice de tasa informada por el Banco Central de Chile, esta Superintendencia u otra entidad o servicio de información ampliamente reconocido.
 
 Los intereses de los sobregiros otorgados en cuentas corrientes ordinarias o especiales, se cobrarán en la forma en que expresamente se convenga, pero siempre por períodos vencidos no inferiores a 30 días, salvo que se trate de operaciones pactadas a plazos menores. Debe tenerse presente que esos intereses sólo pueden cobrarse a partir del momento en que el sobregiro efectivamente se produce, esto es, cuando se paga y carga a la cuenta corriente el correspondiente cheque, o bien, a partir de la fecha en que se efectúa a la cuenta corriente un débito autorizado. De ninguna manera podrán devengarse intereses que comprendan un período anterior a la fecha del cargo a la cuenta corriente.
 
@@ -6878,11 +6874,9 @@ Los bancos que no hayan convenido de manera expresa la exigibilidad de los inter
 
 En todo caso, los intereses que se cobren por los sobregiros en cuentas corrientes quedan sujetos a los límites de la tasa máxima convencional, debiendo considerarse para el efecto las instrucciones de las letras a) y c) del numeral 6.2.3 del título I del Capítulo 7-1 de esta Recopilación Actualizada de normas.
 
-5. límites de crédito.
+### 5. Disposición transitoria
 
-Al acordar los montos de las líneas de crédito o márgenes para sobregiros, los bancos deben prevenir que su posterior utilización por la sola voluntad del titular de la cuenta, no produzca excesos con respecto a los límites del artículo 84 de la Ley General de Bancos. Si bien esa disposición legal se infringe, en el caso de las cuentas corrientes, al momento en que se origina un giro sin existir fondos disponibles que, sumado a los créditos ya otorgados, supera el límite, es conveniente, para evitar esa situación, considerar siempre el importe pactado como si fuese un monto ya utilizado, puesto que el solo cumplimiento del pacto podría originar una infracción por el exceso, especialmente si con posterioridad se otorgan otros créditos o se liberan garantías.
-
-Por otra parte, debe tenerse presente que los sobregiros que se cubren dentro del mismo día en que se originan, también quedan sujetos al cumplimiento del artículo 84 de la Ley General de Bancos, desde el momento en que se paga un cheque o giro con cargo a una cuenta que carece de fondos disponibles.
+Las instrucciones contenidas en el primer párrafo del N° 4 precedente, sobre el uso de las tasas de interés variables, regirán para los contratos que se suscriban a partir del 17 de enero de 2011. En todo caso, todos los contratos que no consideren tales normas, deberán ser renovados antes del 15 de noviembre de 2011, ajustándose a ellas.
 
 CAPITULO 8-3 (Bancos)
 
@@ -6912,11 +6906,11 @@ Los emisores de tarjetas de crédito deberán suscribir o renovar con cada titul
 
 1) el plazo o condiciones de vigencia del contrato;
 
-2) el límite de crédito autorizado por el periodo contratado y la forma de proceder en caso de modificación, debiéndose establecer que las disminuciones a ese límite serán informadas por escrito al titular y que todo aumento sobre el monto original requerirá de su consentimiento explícito;
+2) el límite de crédito autorizado por el periodo contratado y la forma de proceder en caso de modificación, debiéndose establecer que las disminuciones a ese límite serán informadas por escrito al titular y que todo aumento sobre el monto original requerirá de su consentimiento, salvo que el incremento obedezca a una modalidad de aumento previamente pactada con el cliente;
 
 3) la fecha de emisión de estados de cuenta y de vencimiento de la respectiva obligación de pago del titular o usuario;
 
-4) las modalidades y condiciones aplicables al cobro de comisiones y/o cargos e intereses, las que no podrán ser modificadas sin el consentimiento explícito del cliente;
+4) las modalidades y condiciones aplicables al cobro de comisiones y/o cargos e intereses;
 
 5) el costo de comisiones y/o cargos por mantención de la Tarjeta;
 
@@ -6968,7 +6962,7 @@ Lo anterior exige que se especifiquen todos los cobros establecidos por estos co
 
 5.1.- Determinación y cobro de comisiones y/o cargos.
 
-Las comisiones y/o cargos deberán fijarse por períodos no inferiores a un semestre. Las comisiones y/o cargos constituirán todos los cobros necesarios para la mantención operativa de las tarjetas de crédito en sus distintas modalidades de uso. El plan de cobros deberá ser informado por escrito al titular al menos con dos meses de anticipación a la fecha en que se aplicará la nueva base de cálculo o el cambio de tarifa. Esta información, conjuntamente con aquella sobre el cobro de intereses a que se refiere el numeral siguiente, se informará en el estado de cuenta o en un anexo que, con ese objeto, deberá acompañarse al mismo. Dicho plan no podrá modificarse durante el período de vigencia que se haya establecido, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él.
+Las comisiones y/o cargos constituirán todos los cobros necesarios para la mantención operativa de las tarjetas de crédito en sus distintas modalidades de uso. Cualquier modificación en el plan de cobros sólo podrá aplicarse con el consentimiento del titular, salvo que se trate de cambios que signifiquen una disminución o eliminación de determinados cobros incluidos en él. El consentimiento del cliente se solicitará al menos con dos meses de anticipación a la fecha en que el emisor desea aplicar las nuevas tarifas. Si el cliente manifestare su rechazo al nuevo sistema tarifario, las partes tendrán la facultad de poner término al respectivo contrato. Si fuere el banco el que ejerciere ese derecho, la terminación se producirá una vez transcurridos dos meses contados desde la fecha que se comunique al cliente la decisión de cierre. Igualmente, si el cliente no manifestara su consentimiento en forma expresa y no hiciera uso del respectivo producto en el plazo de al menos dos meses contados desde la fecha de inicio del nuevo sistema tarifario, las partes tendrán derecho de poner término al contrato.
 
 Al tratarse de comisiones y/o cargos cobrados en forma anticipada, como lo puede ser una comisión por mantención, referida a un período, se dejará constancia de la forma en que se procederá con las eventuales devoluciones en caso de poner término anticipadamente al contrato.
 
@@ -7018,7 +7012,7 @@ La información señalada debe mantenerse actualizada.
 
 Los emisores y operadores de tarjetas de crédito, según corresponda, deberán proporcionar a los interesados una completa información relativa a las comisiones y/o cargos que aplican por ese servicio. Esa información debe comprender el o los conceptos por los cuales se cobra, la modalidad y periodicidad de los cobros y los correspondientes importes o tasas por cada uno de los conceptos afectos.
 
-Esa información será entregada a los titulares de las tarjetas al momento de contratar el servicio y cada vez que las correspondientes tarifas sufran alguna modificación, de manera que el cliente tenga en todo momento oportuno y cabal conocimiento de los cobros a que, como usuario de ese instrumento, está afecto. En caso de una disminución de tarifa no será necesario dar esa información anticipada.
+Para solicitar el consentimiento de los titulares en caso de que el emisor desee aumentar las tarifas, se les entregará la misma relación en forma comparativa con las tarifas vigentes.
 
 10.2.- Información sobre cobro de intereses.
 
@@ -7249,8 +7243,6 @@ En el desempeño de su función de agentes administradores, los bancos podrán a
 3. Seguro para garantizar el fiel cumplimiento de las obligaciones de los agentes administradores.
 
 De acuerdo con las normas que rigen estas operaciones, los bancos que deseen actuar como agentes administradores deberán contratar una póliza de seguro que cubra el correcto y cabal cumplimiento de las obligaciones inherentes a dicha función y los eventuales perjuicios que, con ocasión de esas actividades, pueden causar al deudor del mutuo.
-
-En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata.
 
 4. Obligaciones de las instituciones en su calidad de agentes administradores.
 
@@ -8658,7 +8650,7 @@ En los préstamos destinados a la adquisición o construcción de viviendas cuyo
 
 La hipoteca a favor del banco, que garantice estos créditos, deberá ser de primer grado y exclusivamente para caucionar una obligación determinada. No obstante, se admite la posibilidad de que esa hipoteca lo sea en segundo grado, siempre que la obligación caucionada por la primera hipoteca sumada al crédito amparado por la segunda hipoteca, no exceda el 75 % del valor de tasación o del precio de venta del inmueble. Ese límite será de un 60 % cuando se trate de obligaciones pagaderas o expresadas en moneda extranjera, o reajustables por la variación del tipo de cambio de las monedas extranjeras que constituyen sistemas de reajustabilidad autorizados.
 
-En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata.
+En ningún caso los bancos podrán condicionar el otorgamiento del crédito a la constitución de una hipoteca que sirva de garantía general a los demás productos financieros que el deudor contrate con la entidad, ni pactar en el mutuo otras hipotecas que no sea la que cauciona el crédito que se contrata, salvo expresa solicitud del deudor.
 
 Si dos bancos participan simultáneamente en el otorgamiento de un crédito de esta especie podrán, de común acuerdo, fijar el orden de precedencia en cuanto a la garantía hipotecaria de primer y segundo grado.
 
