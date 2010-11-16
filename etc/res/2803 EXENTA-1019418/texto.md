@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIONES DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 2.803, de 10 de noviembre de 2010, modificó resolución exenta Nº 2.720, de fecha 26 de octubre de 2010, Serviu Región del Libertador Bernardo O'Higgins, que ordenó expropiación total de un inmueble ubicado en Manso de Velasco Nº 1128, de la comuna de San Fernardo, Rol de Avalúo Nº 260-09, superficie aproximada de 100,24 m2 de terreno, delimitada en polígono U-X-W-V, conforme al Plano elaborado por Pamela Acuña Illanes, "Proyecto Mejoramiento Red Vial Manso de Velasco y Sector O'Higgins" comuna de San Fernando, de dominio de Sucesión Sepúlveda Araya, inscrito a fojas 752 Nº 1.160 del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 2003, fojas 1.000 Nº 1.764 del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando del año 2005 y fojas 44 Nº 75, del Registro de Propiedad del Conservador de Bienes Raíces de San Fernando, año 2006. Conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión tasadora peritos, María Isabel Ríos Marcuello, Carmen Pilar Ríos Marcuello y Patricia Morales Rivera, Arquitecto, Ingeniero y Constructor Civil, respectivamente, según Informe de fecha noviembre de 2007. Modificando el monto provisional establecido en resolución exenta Nº 2.720 al monto provisional de $28.425.600, cuyo pago se realizará mediante depósito en Cuenta Comente del Tribunal correspondiente.-
+
+Director Serviu Región Libertador Bernardo O'Higgins.
