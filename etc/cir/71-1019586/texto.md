@@ -1,0 +1,5 @@
+TRATAMIENTO TRIBUTARIO DE LAS DONACIONES CON FINES SOCIALES Y PÚBLICOS, Y DEL LÍMITE GLOBAL ABSOLUTO QUE AFECTA A LA GENERALIDAD DE LAS DONACIONES
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 71, de fecha 12 de noviembre de 2010, que imparte instrucciones sobre el tratamiento tributario de las donaciones con fines sociales y públicos, y sobre el límite global absoluto que afecta a la generalidad de las donaciones, ello con motivo de las modificaciones introducidas a la ley 19.885 por la ley 20.316, cuya vigencia se estableció mediante ley 20.431. Además, se dejan sin efecto las instrucciones impartidas en las circulares 39 de 2005 y 55 de 2003, de este Servicio, excepto en la parte de este último instructivo correspondiente a las donaciones con fines políticos incorporadas en su Nº (2) "tratamiento tributario de las donaciones que se efectúen a entidades de carácter político", cuyas instrucciones se mantienen vigentes.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2010.
