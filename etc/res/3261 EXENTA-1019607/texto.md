@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.261, de 28 de octubre de 2010, de esta Subsecretaría, modifícase el numeral 3 de la resolución exenta Nº 2.814, de 2009, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Evaluación biológico pesquera de los principales bancos de Huepo Ensis macha en la Xll Región", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 30 de abril de 2011, inclusive.
+
+Valparaíso, 28 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
