@@ -1,0 +1,39 @@
+MODIFICA RESOLUCIÓN Nº 54 EXENTA, DE 2010 Y ESTABLECE RESTRICCIÓN AL TRÁNSITO DE CAMIONES SOBRE EL PUENTE LLACOLÉN DE LAS COMUNAS DE CONCEPCIÓN Y SAN PEDRO DE LA PAZ
+
+Núm. 249 exenta.- Concepción, 26 de octubre de 2010.- Visto: Lo dispuesto en la ley Nº 18.059; los artículos 107 y 113 de la ley Nº 18.290, cuyo texto refundido, coordinado y sistematizado se contiene en el DFL Nº 1 de 2007, de Transportes y Justicia; los decretos supremos Nº 255, de 1981, del Ministerio de Transportes y Telecomunicaciones; las resoluciones Nºs 59/85 y 39/92, del mismo Ministerio; los oficios ordinarios Nºs 438, 1844 y 1993 de 25 de marzo, 28 de septiembre y 20 de octubre, todos del 2010 y emanados de la Dirección Regional de Vialidad Región del Bío-Bío; el informe técnico sobre oferta vial existente entre San Pedro y Concepción de octubre de 2010 elaborado por Sectra Área Sur; las resoluciones exentas Nºs 54 y 216, de 29 de marzo y 30 de septiembre, ambas de 2010 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, que prohibieron y restringieron el tránsito de vehículos en las condiciones que indican respectivamente sobre el puente Llacolén; oficio Nº 604 de 26 de octubre de 2010 del Secretario Regional Ministerial de Obras Públicas de la Región del Bío Bío; el oficio ordinario Nº 736, de 26 de octubre de 2010 del Sr. Alcalde (S) de la I. Municipalidad de San Pedro de la Paz y demás normativa vigente y aplicable.
+
+Considerando:
+
+1.- Que el oficio ordinario Nº 438, de 25 de marzo de 2010, de la Dirección Regional de Vialidad Región del Bío-Bío expresa en lo pertinente que el puente Llacolén, en atención al terremoto sufrido el 27 de febrero del año en curso, presenta distintos tipos de daño en su estructura y enlace Norte, siendo técnicamente factible su utilización sólo bajo condiciones técnicas estrictas. Sobre la base de lo expuesto, el Director Regional de Vialidad, Región del Bío-Bío, solicitó a esta Autoridad Regional de Transportes y Telecomunicaciones dictar prohibición de circulación de vehículos con más de 15 toneladas por el puente Llacolén entre las 06:00 hrs. y 24:00 hrs., mientras que en horario de 00:00 hrs. y 06:00 hrs. se permita la circulación de vehículos hasta una carga máxima de 30 toneladas, debiendo para ello cumplirse las siguientes condiciones de operación:
+
+A.- La circulación unidireccional de vehículos se efectuará exclusivamente por la pista oriente de la calzada San Pedro-Concepción, es decir, con cortes de tránsito Sur-Norte o Norte-Sur, en ningún caso en ambos sentidos simultáneos.
+
+B.- La velocidad máxima permitida será de 30 kilómetros por hora, respecto a la circulación de todo tipo de vehículos.
+
+C.- Los vehículos deberán circular distanciados en todo momento a una distancia de 100 metros como mínimo, como referencia debe mantenerse 3 postes de alumbrado del puente como distancia entre vehículos.
+
+2.- Que el informe técnico para la mantención de la restricción vehicular en la comuna de Concepción de marzo de 2010, elaborado por Sectra Sur, concluye que se debe complementar el ordinario Nº 438 de 25 de marzo de 2010, de la Dirección Regional de Vialidad Región del Bío-Bío, en el sentido de incorporar una restricción a la circulación entre las 7:30 y las 9:00 hrs. y entre las 18:00 y las 19:30 hrs. sobre el puente Llacolén, para todos aquellos camiones de más de 5 toneladas.
+
+3.- Que por resolución exenta Nº 54, de 29 de marzo de 2010, modificada por resolución exenta Nº 216, de 2010, ambas de la Secretaría Regional, esta Autoridad Regional dispuso una prohibición de circulación de vehículos con más de 20 toneladas por el puente Llacolén entre las 06:00 hrs. y 24:00 hrs., y una restricción en el horario de 00:00 hrs. y 06:00 hrs. de la circulación de vehículos hasta una carga máxima de 30 toneladas, debiendo para ello cumplirse las condiciones de operación que se indican en dicha resolución y otra restricción de la circulación sobre el puente Llacolén entre las 7:30 y las 9:30 hrs. y entre las 18:00 y las 20:30 hrs., para todo tipo de camiones y vehículos de más de 5 toneladas.
+
+4.- Que mediante oficio ordinario Nº 1993, de 20 de octubre de 2010, la Dirección Regional de Vialidad Región del Bío-Bío expresa en lo pertinente que en relación a los trabajos ejecutados en el puente Llacolén, cuyo avance permite indicar el próximo término de las obras, informa que a contar de las 00:00 hrs. del día 30 de octubre de 2010 es posible liberar la restricción de carga en el puente Llacolén pudiendo quedar habilitado para vehículos de hasta 45 toneladas, por lo que solicita modificar la resolución exenta Nº 54/2010, modificada a su vez por la resolución exenta Nº 216/2010, ambas de esta Secretaría Regional Ministerial.
+
+5.- Que el Sr. Alcalde (S) de la I. Municipalidad de San Pedro de la Paz en oficio ordinario Nº 736, de 26 de octubre de 2010, solicita a esta Autoridad Regional una restricción al tránsito de camiones por el puente Llacolén a fin de evitar congestión vehicular en horario punta mañana de 7:30 a 9:00 hrs.
+
+6.- Que el informe técnico sobre oferta vial existente entre San Pedro y Concepción de octubre de 2010 elaborado por Sectra Área Sur informa respecto a la restricción vehicular existente sobre el puente Llacolén proponiendo prescindir de ella, dado los aumentos significativos de oferta que generará la habilitación del puente Juan Pablo II. Además, recomienda mantener la restricción vehicular a camiones entre las 7:30 hrs. y 9:00 hrs., con el fin de utilizar con mayor eficiencia la infraestructura vial sin reducir la seguridad de tránsito.
+
+7.- Que por oficio ordinario Nº 604 de 26 octubre de 2010, del Secretario Regional Ministerial de Obras Públicas de la Región del Bío Bío, se informa que esa Secretaría Regional comparte la conclusión de restringir el tránsito de camiones sobre el puente Llacolén en el horario punta propuesto de 7:30 a 9:00 horas, medida que será reevaluada de acuerdo a las condiciones de operación en los meses posteriores a la puesta en marcha de los puentes Juan Pablo II y Llacolén.
+
+8.- Que en consecuencia, existen las causas justificadas exigidas en los términos del artículo 113 del DFL Nº 1, de 2007, citado en el Visto, que hacen altamente conveniente adoptar medidas de modificación de la prohibición de circulación de ciertos vehículos por el puente indicado y establecer una restricción a vehículos de hasta 45 toneladas.
+
+Resuelvo:
+
+1º Sustitúyese el resuelvo 1 de la resolución exenta Nº 54/2010 de esta Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío, modificado por la resolución exenta Nº 216/2010, del mismo origen, por el siguiente: "Prohíbese a contar del 30 de octubre de 2010, la circulación de vehículos con más de 45 toneladas por el puente Llacolén".
+
+2º Déjanse sin efecto los resuelvos Nºs 2, 3 y 4 de la resolución exenta Nº 54/2010, antes citada.
+
+3º Prohíbese a contar del 30 de octubre de 2010, la circulación de toda clase de camiones sobre el puente Llacolén independientemente de su peso bruto vehicular y características en el horario comprendido entre las 07:30 hrs. y las 09:00 hrs. de lunes a viernes quedando exceptuados los días feriados, sábados y domingos, medida que será reevaluada de acuerdo a las condiciones de operación en los meses posteriores a la puesta en marcha de los Puentes Juan Pablo II y Llacolén.
+
+4º El cumplimiento de la presente resolución deberá ser fiscalizado por Carabineros de Chile, Inspectores Fiscales y Municipales.
+
+Anótese, comuníquese y publíquese.- Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Bío-Bío.

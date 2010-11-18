@@ -24,19 +24,13 @@ C.- Los vehículos deberán circular distanciados en todo momento a una distanci
 
 Resuelvo:
 
-1° Prohíbese a contar de la fecha de publicación de esta resolución en el Diario Oficial, la circulación de vehículos con más de 20 toneladas por el puente Llacolén entre las 06:00 hrs. y 24:00 hrs.
+1° Prohíbese a contar del 30 de octubre de 2010, la circulación de vehículos con más de 45 toneladas por el puente Llacolén.
 
-2º Restríngese, en el horario de 00:00 hrs. y 06:00 hrs. la circulación de vehículos hasta una carga máxima de 30 toneladas, debiendo para ello cumplirse las siguientes condiciones de operación:
+2º DEROGADO.
 
-A.- La circulación unidireccional de vehículos se efectuará exclusivamente por la pista oriente de la calzada San Pedro-Concepción, es decir, con cortes de tránsito Sur-Norte o Norte-Sur, en ningún caso en ambos sentidos simultáneos.
+3° DEROGADO.
 
-B.- La circulación de todo tipo de vehículos deberán cumplir con una velocidad máxima de 30 kilómetros por hora.
-
-C.- Los vehículos deberán circular distanciados en todo momento a una distancia de 100 metros como mínimo, como referencia debe mantenerse 3 postes de alumbrado del puente como distancia entre los vehículos, pudiendo circular los vehículos menores entre ellos.
-
-3° Restríngese la circulación sobre el puente Llacolén entre las 7:30 y las 9:30 hrs. y entre las 18:00 y las 20:30 hrs., para todo tipo de camiones y vehículos de más de 5 toneladas.
-
-4° Se encuentran exceptuados de la prohibición y restricción precedentes los vehículos de transporte público remunerados de pasajeros, de transporte privado y de transporte escolar, todos debidamente inscritos en los registros de esta Secretaría Regional Ministerial y autorizados por la constancia pertinente, respectivamente, y que porten los certificados y constancias, que los acrediten en esas calidades, y todos inferiores a 15 toneladas.
+4° DEROGADO.
 
 5° El cumplimiento de la presente resolución deberá ser fiscalizado por Carabineros de Chile, Inspectores Fiscales y Municipales.
 
