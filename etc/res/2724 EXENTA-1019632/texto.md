@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.724 EXENTA, DE 2010
+
+Por resolución exenta Nº 2.724, de fecha 2 de noviembre de 2010, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Silva, Contreras y Compañía Limitada" o "Conductores Chile Ltda.", RUT Nº 76.094.867-5, representada legalmente por el señor Rodrigo Florencio Silva Sanhueza, RUT Nº 9.907.930-4, y siendo su director, el señor Erik Marcelo Molina Canales, RUT Nº 13.086.107-5, la que tendrá su lugar de funcionamiento en el local ubicado en Urmeneta Nº 529, comuna de San Bernardo.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana (S).
