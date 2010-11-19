@@ -22,8 +22,6 @@ El número de proyectos seleccionados en cada Región alcanzará hasta el númer
 
 4. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El numeral 1 de la Resolución 1903 Exenta, Vivienda, publicada el 08.03.2012, modifica la presente norma, en el sentido de reemplazar en la tabla inserta en el Resuelvo 1, no obstante, encontrarse el cuadro inserto en el resuelvo 3, las filas correspondientes a Región "Aysén del General C. Ibáñez" y "TOTAL PAÍS", por aquellas que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.

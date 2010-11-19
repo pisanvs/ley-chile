@@ -18,12 +18,6 @@ Resolución:
 
 2. Apruébase la nómina de postulantes seleccionados para el otorgamiento de subsidios habitacionales del Fondo Solidario de Vivienda para su Capítulo Tercero del Programa Habitacional para Familias de Zonas Rurales, para el mes de junio del año 2010, de acuerdo a lo establecido por la Resolución Exenta Nº 2.614 (V, y U.), de 2010, nómina que se adjunta y se entenderá formar parte integrante de la presente resolución. Los recursos dispuestos para la asignación de subsidio a los postulantes se detallan en el siguiente cuadro, por región del país:
 
-> **Nota.** El numeral 1 de la Resolución 3724 Exenta, Vivienda, publicada el 25.06.2011 modifica la página 30 de la nómina de seleccionados inserta en el resuelvo 2 de la presente norma, en el sentido de reemplazar en la fila correspondiente a don Arturo Antonio Torres Obando, Cédula de Identidad N° 10.743.936-6, de la Región de Los Lagos, en la casilla correspondiente a la comuna, la expresión "Castro" por "Queilén".
-
-> **Nota.** NOTA 1 La Resolución 7964 Exenta, Vivienda, publicada el 06.12.2011, modifica la presente norma en el sentido de reemplazar la nómina de postulantes seleccionados las filas correspondientes a la Sra. Yolanda Andrea Polma, Nahuelpi y Sr. Segundo Zacarías Colipí Palma, de la Región de la Araucanía, en la forma que en ella se indica.
-
-> **Nota.** NOTA 2 El numeral 2 de la Resolución 1903 Exenta, Vivienda, publicada el 08.03.2012, modifica la presente norma de la manera siguiente:- En la letra a) dispone reemplazar en la tabla inserta en el Resuelvo 2, las filas correspondientes a la Región "Aysén del General C. Ibáñez" y "TOTAL" por las que la citada norma indica, y- En la letra b) ordena reemplazar en la nómina de beneficiarios adjunta en la fila correspondiente a doña Ana del Carmen Bahamonde Cortez, Cédula Nacional de Identidad N° 8.879.687-K, de la comuna de Cisnes, en la celda correspondiente a "Subsidio Saneamiento (UF)" el guarismo "0" por "70".
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
