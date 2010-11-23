@@ -166,31 +166,31 @@ Cuando la superficie abarcada por la solicitud de sentencia comprenda terrenos u
 
 #### Artículo 22
 
-El original del plano mencionado en el artículo 55 del Código se confeccionará en material de dibujo transparente e indeformable, y representará la configuración del perímetro de la concesión en la proyección U.T.M.; y también la relación del mismo vértice -ligado en la solicitud- con el punto medio señalado en el pedimento, respecto de la cual se indicarán el sistema de graduación empleado para el rumbo o el azimut, y la distancia en la proyección U.T.M. con precisión de centímetros. El rumbo o el azimut se expresará hasta el segundo centesimal.
+El original del plano mencionado en el artículo 55 del Código se confeccionará en papel bond tamaño oficio, y representará la configuración del perímetro de la concesión en la proyección U.T.M.; y también la relación del mismo vértice -ligado en la solicitud- con el punto medio señalado en el pedimento, respecto de la cual se indicarán el sistema de graduación empleado para el rumbo o el azimut, y la distancia en la proyección U.T.M. con precisión de centímetros. El rumbo o el azimut se expresará hasta el segundo centesimal.
 
 El plano indicará, además:
 
-1°) El nombre de la concesión y el del interesado;
+1º) El nombre de la concesión y el del interesado;
 
-2°) La región, la provincia, la comuna y el predio o asiento minero, o todos si fueren varios, que abarque la concesión;
+2º) La región, la provincia, la comuna, o todos ellos si fueren varios, que abarque la concesión;
 
-3°) La superficie total abarcada por la solicitud, expresada en hectáreas y calculada en la proyección U.T.M.;
+3º) La superficie total abarcada por la solicitud, expresada en hectáreas y calculada en la proyección U.T.M.;
 
-4°) La longitud de cada uno de los lados de la concesión, calculada en la proyección U.T.M. y expresada en metros;
+4º) La longitud de cada uno de los lados de la concesión, calculada en la proyección U.T.M. y expresada en metros;
 
-5°) Las coordenadas U.T.M. del punto medio y de cada uno de los vértices del perímetro mencionado en el inciso primero, y el Datum y el Huso correspondientes;
+5º) Las coordenadas U.T.M. del punto medio y de cada uno de los vértices del perímetro mencionado en el inciso primero, y el Datum y el Huso correspondientes;
 
-6°) La fecha en que se presentó el pedimento y los datos de su inscripción;
+6º) La fecha en que se presentó el pedimento y los datos de su inscripción;
 
-7°) Un croquis de ubicación a escala 1:500.000 ó 1:1.000.000, en el cual deberá figurar la ciudad o localidad más próxima;
+7º) La correspondiente carta del Instituto Geográfico Militar escala 1:50.000 en donde se ubica el punto medio del pedimento;
 
-8°) La escala del plano;
+8º) La escala gráfica del plano;
 
-9°) El juzgado y rol del expediente, y
+9º) El juzgado y rol del expediente, y
 
-10°) El nombre y la firma de quien ha confeccionado el plano.
+10º) El nombre y la firma del ingeniero o perito de aquellos a los que se refiere el inciso segundo del artículo 71 del Código.
 
-El plano se entregará al juzgado en original y dos copias, a escala 1:10.000 para superficies de hasta un mil hectáreas y a escala 1:25.000 para superficies mayores, y siempre sobre reticulado de 10 centímetros.
+El plano, con los requisitos y menciones establecidos en el presente artículo, se entregará al Juzgado en original y dos copias.
 
 ### Párrafo 4°
 
@@ -278,7 +278,7 @@ El ingeniero o perito ubicará los vértices del perímetro de la pertenencia o 
 
 #### Artículo 32
 
-Los hitos correspondientes a los vértices de la pertenencia o grupo de pertenencias, que para los efectos de este Reglamento se denominan linderos, se construirán en concreto y tendrán la forma de un tronco de pirámide o de un tronco de cono de a lo menos 0,40 metros de base inferior, 0,20 metros de base superior y 0,80 metros de altura, o serán tubos de cemento de un mínimo de ocho pulgadas de diámetro, de una altura no inferior a 0,80 metros y rellenos con concreto. En ambos casos se deberán empotrar los hitos firmemente en el suelo y sujetar al mismo con ancla de fierro.
+Los hitos correspondientes a los vértices de la pertenencia o grupo de pertenencias, que para los efectos de este Reglamento se denominan linderos, se construirán en concreto y tendrán la forma de un tronco de pirámide o de un tronco de cono de a lo menos 0,40 metros de base inferior, 0,20 metros de base superior y 0,80 metros de altura, o serán tubos de Policloruro de Vinilo o concreto de un mínimo de seis pulgadas de diámetro interno, de una altura no inferior a 0,80 metros y rellenos completamente con concreto. En ambos casos se deberán empotrar los hitos firmemente en el suelo y sujetar al mismo con ancla de fierro.
 
 #### Artículo 33
 
@@ -287,6 +287,18 @@ Todas las mediciones angulares se harán al segundo centesimal, con no menos de 
 Las coordenadas geográficas se indicarán al milésimo de segundo; las coordenadas U.T.M., al centímetro; y las alturas, al decímetro.
 
 En el caso que el ingeniero o perito realice la operación de mensura o parte de ella con equipo de Sistema de Posicionamiento Global (GPS) deberá aplicar las instrucciones de carácter general que para el efecto imparta el Servicio.
+
+#### Artículo 33 bis
+
+Si el ingeniero o perito realizare la operación de mensura en su totalidad con equipos GPS, y de acuerdo a las instrucciones de carácter general referidas en el artículo precedente, el Servicio podrá dar fe de haberse efectuado correctamente la operación de mensura y considerar suficientes dichos antecedentes para informar sus aspectos técnicos de acuerdo a lo establecido en los artículos 79 y 80 del Código de Minería.
+
+Para los efectos de lo señalado en el inciso anterior, la operación de mensura deberá incluir la vinculación del hito de mensura a la Red Geodésica Nacional, aplicando a ella, necesariamente, la metodología post proceso, la ligazón de los linderos vértices con equipos GPS en tiempo real, y los archivos rinex que den fe del día, hora y año de la reedición efectuada, junto con la identificación de los equipos GPS utilizados.
+
+La construcción del hito y de los linderos vértice, para los efectos del presente artículo, se demostrará al Servicio mediante fotografías de los mismos, que se adjuntarán a una declaración del ingeniero o perito, en la cual se acreditará, tanto la circunstancia de haberlos construido de acuerdo a lo señalado en el artículo 32, como de haberlos posicionado en las coordenadas indicadas en el acta y plano de mensura. La referida declaración constituirá antecedente técnico de aquellos que deberán acompañarse al Servicio en conformidad a lo señalado en el artículo 27 inciso segundo.
+
+Para los efectos de lo previsto en este artículo, no regirá la obligación de ligar el hito a tres puntos circunvecinos inamovibles y característicos, establecida en el inciso segundo del artículo 28, en la parte final del literal (b) del artículo 37, y en el numeral 11 del artículo 38.
+
+Con todo, el Servicio podrá concurrir a revisar en terreno aquellas mensuras realizadas de acuerdo a este procedimiento cuando lo estimare necesario.
 
 #### Artículo 34
 
