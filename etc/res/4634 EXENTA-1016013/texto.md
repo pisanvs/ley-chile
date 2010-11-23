@@ -60,7 +60,7 @@ d. A contar de la fecha en que la EGIS ingrese al SERVIU los antecedentes y docu
 
 e. Para la obtención del Subsidio de Localización para la Habilitación de terrenos, se aplicará lo señalado en los artículos 65 y 68 bis del DS N° 174 (V. y U.). No obstante lo anterior, la Comisión Técnica Evaluadora tendrá la facultad de destinar montos mayores a 100 Unidades de Fomento para este Subsidio, en función del presupuesto y de las obras que deban realizarse en el terreno para la habilitación del mismo. Sin embargo, este Subsidio sumado al Subsidio de Localización para la Adquisición del terreno, no podrá ser superior a las 200 Unidades de Fomento.
 
-f. El plan de Habilitación Social, establecido en el Título IX del DS N° 174 (V. y U.), de 2005, deberá orientarse a las características y condiciones especiales que se señalen para las familias de los sectores mencionados en el Resuelvo N°1. Para ello se deberá reorientar su acción en los términos que se establezca en oficio del Subsecretario de Vivienda y Urbanismo que se dispondrá al efecto.
+f. El Plan de Habilitación Social se realizará de acuerdo a lo establecido en el Título IX del DS Nº 174 (V y U.), de 2005, y Resolución Nº 533 (V. y U.), de 1997, a excepción del Diagnóstico, cuyo producto, es decir, el diseño y presentación del Plan de Habilitación Social, será exigido dentro de los primeros dos meses posteriores a la selección de proyectos.
 
 g. Podrán optar para este llamado en condiciones especiales, a un monto de subsidio para la construcción de vivienda correspondiente a 440 Unidades de Fomento. La vivienda deberá cumplir con una superficie mínima de 55 metros cuadrados con al menos 6 recintos: baño, cocina, estar-comedor y tres dormitorios, debiendo cumplir con el Cuadro Normativo señalado en el artículo 19 del DS N° 174 (V.yU.). No se podrá optar al incremento del 30% establecido en el inciso segundo del mismo artículo.
 
@@ -77,6 +77,12 @@ d) Con el objeto de organizar la estrategia que permita una salida del sector ba
 e) Cada grupo postulante deberá elegir del listado de Proyectos Calificados, las opciones preferentes, para luego inscribirlas en el sistema de Registro de Información señalado en la letra anterior.
 
 f) El SERVIU asignará el subsidio al grupo postulante en relación a su primera opción señalada. Si el número de familias pertenecientes a un grupo que escogió una preferencia, excede el número de soluciones que dicha preferencia ofrece, al grupo postulante se le asignará su segunda opción. De repetirse la circunstancia señalada, se irá a la opción siguiente y así sucesivamente. En el caso que una preferencia sea elegida por varios grupos de familias, y el número de soluciones que dicha preferencia ofrece no alcance a cubrir a todos esos grupos postulantes, se aplicarán criterios de territorialidad y fecha de inscripción al Registro de Información descrito en la letra d) de este numeral para escoger al grupo y su vinculación a un proyecto.
+
+g) La EGIS que obtuvo Calificación del proyecto presentado podrá solicitar al Serviu la nómina de familias inscritas, a que se refiere la letra b) de este numeral, para presentarles el proyecto postulante, debiendo cumplir con todas las condiciones señaladas en el resuelvo Nº 5.
+
+h) Previo a la selección, las familias deberán presentar una declaración jurada simple donde conste la conformidad con la elección de dichos proyectos.
+
+i) El Serviu seleccionará los proyectos que el grupo de familias registradas hayan elegido como su opción, hasta el día 1 de diciembre de 2010.
 
 5. Podrán ser asignatarios de subsidios, para los proyectos seleccionados según lo establecido en el número anterior de la presente resolución, las familias que cumplan con las siguientes condiciones:
 
