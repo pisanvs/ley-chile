@@ -4,7 +4,7 @@ Núm. 29.- Santiago, 11 de marzo de 2010.- Visto: el artículo 32 Nº 7 de la Co
 
 Decreto:
 
-1. Desígnase en calidad de titular a D. Liliana Soraya Jadue Hund, RUN 7.109.408-0, como Subsecretaria de Salud Pública, grado C EUS, en el Ministerio de Salud, a contar del 11 de marzo de 2010.
+1. Desígnase en calidad de titular a D. Liliana Soraya Jadue Hund, RUN 7.109.482-0, como Subsecretaria de Salud Pública, grado C EUS, en el Ministerio de Salud, a contar del 11 de marzo de 2010.
 
 2. El desempeño de estas funciones está afecto a rendición de fianza y por razones impostergables de buen servicio, la persona en referencia asumirá en la fecha indicada, sin esperar la total tramitación del presente decreto.
 
