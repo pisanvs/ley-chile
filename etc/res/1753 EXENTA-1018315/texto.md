@@ -20,7 +20,7 @@ Declárase Emergencia de Plaga, por un período de treinta días corridos, conta
 
 #### Artículo 2º
 
-En virtud de lo dispuesto en el artículo 13 del Reglamento sobre Plagas Hidrobiológicas, aprobado por D.S. 345 de 2005, del Ministerio de Economía, Fomento y Reconstrucción, el Servicio adoptará las medidas y acciones para evitar la diseminación y propagación de la microalga Didymosphenia geminata contenidas en los literales b), c), y e) del artículo 11 del citado reglamento.
+En virtud de lo dispuesto en el artículo 13 del Reglamento sobre Plagas Hidrobiológicas, aprobado por DS 345, de 2005, del Ministerio de Economía, Fomento y Reconstrucción, hoy Ministerio de Economía, Fomento y Turismo, el Servicio, en el área a que alude el artículo precedente, aplicará las medidas y acciones para evitar la diseminación y propagación de la microalga Didymosphenia geminata contenidas en los literales b), c), y e) del artículo 11 del citado reglamento y la prohibición de traslado de especies hidrobiológicas que se encuentren en cualquier estado de desarrollo.
 
 #### Artículo 3º
 
