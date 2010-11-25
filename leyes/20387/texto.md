@@ -80,7 +80,7 @@ Tanto la bonificación a que se refiere el artículo 1° de la presente ley como
 
 DISPOSICIONES TRANSITORIAS
 
-Artículo primero.- El mayor gasto que represente la aplicación del artículo 1° de esta ley será de cargo municipal. En tanto la bonificación adicional contemplada en el artículo 5° de la presente ley será de cargo fiscal. Para efectos de concurrir a dicho financiamiento, el Fisco aportará a las municipalidades, durante el primer año de vigencia de esta ley, la suma de 17 mil millones de pesos. En el segundo año de vigencia dicho aporte ascenderá a la suma de 17 mil quinientos millones de pesos.
+Artículo primero.- El mayor gasto que represente la aplicación del artículo 1° de esta ley será de cargo municipal. En tanto la bonificación adicional contemplada en el artículo 5° de la presente ley será de cargo fiscal. Para efectos de concurrir a dicho financiamiento, el Fisco aportará a las municipalidades, durante el primer año de vigencia de esta ley, la suma de 21 mil quinientos millones de pesos. En el segundo año de vigencia dicho aporte ascenderá a la suma de 17 mil quinientos millones de pesos.
 
 La Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior, mediante resolución, que será visada además por la Dirección de Presupuestos del Ministerio de Hacienda, determinará los montos que a cada municipio le corresponda en dicha distribución, considerando el costo real de las personas que se acojan a la bonificación adicional que establece el artículo 5° de la presente ley. Para estos efectos, los municipios deberán acreditar, mediante certificación de los respectivos secretarios municipales, el número total de funcionarios que se acojan a dicha bonificación y el costo del referido beneficio.
 
