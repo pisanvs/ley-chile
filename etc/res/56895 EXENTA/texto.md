@@ -1,0 +1,15 @@
+APRUEBA ARSENAL FARMACOLÓGICO ACTUALIZADO PARA ATENCIÓN PRIMARIA DE SALUD DE RED ASISTENCIAL DEL SERVICIO DE SALUD METROPOLITANO NORTE
+
+Núm. 56.895 exenta.- Santiago, 3 de noviembre de 2010.- Vistos: Estos antecedentes; el Ordinario Nº 1088/2010 de la Directora (S) del Servicio de Salud Metropolitano Norte, por el que solicita a esta Secretaría Regional Ministerial de Salud de la Región Metropolitana la aprobación del Arsenal Farmacológico actualizado para Atención Primaria de Salud de la Red Asistencial, ubicados en su jurisdicción; Considerando la resolución N° 1.210 de fecha 23 de julio de 1996, del Ministerio de Salud, que autorizó el Arsenal Farmacológico en los Centros de Salud de Atención Primaria situados dentro del territorio de competencia del Servicio de Salud Metropolitano Norte, la necesidad de disponer de un nuevo Arsenal Farmacológico que debe estar disponible para las atenciones de salud que se otorgan en los Establecimientos de Atención Primaria de Salud, situados dentro del territorio de competencia del Servicio de Salud Metropolitano Norte; y Teniendo Presente la resolución exenta Nº 757 de 2 de mayo de 1997, que delega en los Secretarios Regionales Ministeriales de Salud la facultad de aprobar por resolución los Arsenales Farmacológicos Básicos de los consultorios de atención primaria, ubicados en el territorio de competencia de los Servicios de Salud, situados en la respectiva Región; lo dispuesto en el decreto supremo de Salud N° 194 de 2005, que Aprueba el Formulario Nacional de Medicamentos; y en uso de las facultades que me confieren el D.F.L. Nº 1 de 2005, que fija el texto refundido, coordinado y sistematizado del D.L. Nº 2.763/79, y el decreto supremo de Salud Nº 136/2004, que aprueba el Reglamento Orgánico del Ministerio de Salud, dicto la siguiente,
+
+Resolución:
+
+> **Nota.** El numeral 2º de la Resolución 86 Exenta, Salud, publicada 08.03.2017, modifica la presente norma, en el sentido de reemplazar íntegramente desde la fecha de su publicación, el Arsenal Farmacológico Básico para los Establecimientos de la Red de atención Primaria de Salud, ubicado en el territorio de competencia del Servicio de Salud Metropolitano Norte.
+
+1° Apruébase el Arsenal Farmacológico actualizado para Atención Primaria de Salud de la Red Asistencial, ubicados en el territorio de competencia del Servicio de Salud Metropolitano Norte; documento que consta de siete páginas, y que forma parte de la presente resolución, para todos los efectos que deriven de su aplicación.
+
+2° Déjase sin efecto desde esta fecha la resolución Nº 1.210 de fecha 23 de julio de 1996 del Ministerio de Salud, que autorizó el Arsenal Farmacológico en los Centros de Salud de Atención Primaria ubicados en el territorio de competencia del Servicio de Salud Metropolitano Norte.
+
+3º Efectúese por el Servicio solicitante, a su costa, la publicación en el Diario Oficial del texto íntegro del Arsenal Farmacológico que se aprueba por la presente resolución.
+
+Anótese, comuníquese y publíquese.- Jorge Szot Meza, Secretario Regional Ministerial de Salud, Región Metropolitana.
