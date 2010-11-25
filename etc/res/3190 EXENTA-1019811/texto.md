@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.190, de 21 de octubre de 2010, de esta Subsecretaría, déjase sin efecto las resoluciones exentas N°1.458 de 1997,N° 442 de 2000, N° 07 de 2003, N° 3.676 de 2009 y N° 731 de 2010, todas de esta Subsecretaría, que autorizaron a TOMÁS HUGO QUEZADA BERNAL, para realizar actividades pesqueras extractivas con la nave "Tío Tomás".
+
+Valparaíso, 21 de octubre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
