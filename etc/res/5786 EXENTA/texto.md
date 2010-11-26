@@ -148,17 +148,21 @@ país, durante la cual han sido
 
 sometidos con resultados negativos a
 
-las pruebas diagnósticas de rutina que
+las pruebas diagnósticas de rutina
 
-se efectúan en el Centro. Para el caso
+que se efectúan en el Centro. Para el
 
-de Diarrea Viral Bovina, han sido
+caso de Diarrea Viral Bovina, han sido
 
 sometidos a una prueba de ELISA de
 
-captura de antígeno para dicha
+captura de antígeno o prueba de
 
-enfermedad.
+Inmunoperoxidasa Indirecta o prueba
+
+combinada de RT-PCR/ELISA antígeno o
+
+prueba de Inmunohistoquímica.
 
 1.2.3 DE LOS ANIMALES RESIDENTES
 
