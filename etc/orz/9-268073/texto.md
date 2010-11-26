@@ -468,9 +468,7 @@ OTROS PERMISOS
 
 1.-Venta de artesanía local (lana, cáctus, piedra, hilo, cueros) y productos locales (frutas y verduras de la zona, miel, arrope, flores de la zona):
 
-Valor diario... 0.05
-
-UTM
+Valor diario 0.05 UTM
 
 Valor mensual 0.10 UTM
 
@@ -614,9 +612,7 @@ Valor hora con luz artificial, desde las 19:30 en
 
 adelante
 
-Hora verano... $1.800
-
-(m/p)
+Hora verano $1.800 (m/p)
 
 Valor hora con luz artificial, desde las 18:30 en
 
@@ -832,6 +828,18 @@ Inscripción $2.000.-
 
 Mensualidad $4.000.-
 
+Convenios con Organizaciones Comunitarias
+
+sin Fines de Lucro y que se encuentren
+
+dentro del registro de la Dirección
+
+de Desarrollo Comunitario.
+
+Inscripción $2.000
+
+Mensualidad $7.000
+
 C.-Uso salón de aeróbica (capacidad 20 personas)
 
 Organizaciones Comunitarias, Grupos Vulnerables, etc.
@@ -948,6 +956,334 @@ Los valores de las entradas deberán ser aprobadas en los mismos términos que s
 
 Valor 1.00 UTM
 
+27.- Uso de Cancha de Pasto Sintético
+
+a) Organizaciones Comunitarias, dentro de registro de la Dirección de Desarrollo Comunitario (Clubes Deportivos, Clubes de Adultos Mayor (Viejos Crack)), correspondiente a la Localidad de San Pedro de Atacama.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas)
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días lunes a
+
+viernes.
+
+Horario verano $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:30 a 19:00 hrs. Días lunes a
+
+viernes.
+
+Horario invierno $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas)
+
+con luz artificial, desde las 20:00 hrs., en adelante.
+
+Días lunes a viernes.
+
+Horario verano $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial desde las 19:00 hrs. Días lunes a
+
+viernes.
+
+Horario invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $25.000.-
+
+b) Agrupaciones sin personalidad jurídica.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días
+
+lunes a viernes.
+
+Horario verano $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:30 a 19:00 hrs. Días lunes a
+
+viernes.
+
+Horario invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 20:00 hrs. en adelante. Días
+
+lunes a viernes.
+
+Horario verano $28.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. en adelante. Días
+
+lunes a viernes.
+
+Horario invierno $28.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $28.000.-
+
+c) Particulares.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días lunes a
+
+viernes.
+
+Horario verano $44.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con Luz natural, desde las 09:30 a 19:00 hrs. Días lunes a
+
+viernes.
+
+Horario invierno $44.000.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días
+
+sábado y domingo.
+
+Horario verano e invierno $44.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 20:00 hrs. en adelante.
+
+Días lunes a viernes.
+
+Horario verano $54.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. en adelante. Días
+
+lunes a viernes.
+
+Horario invierno $54.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $54.000.-
+
+d) Instituciones públicas.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días lunes
+
+a viernes.
+
+Horario verano $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:30 a 19:00 hrs.
+
+Días lunes a viernes.
+
+Horario invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días
+
+sábado y domingo.
+
+Horario verano e invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 20:00 hrs. en adelante.
+
+Días lunes a viernes.
+
+Horario verano $28.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. en adelante.
+
+Días lunes a viernes.
+
+Horario invierno $28.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $28.000.-
+
+e) Organizaciones comunitarias, dentro de registro
+
+de la Dirección de Desarrollo Comunitario (Clubes
+
+Deportivos, Clubes de Adultos Mayor (Viejos Crack)),
+
+correspondiente a la localidad del interior de la
+
+comuna de San Pedro de Atacama.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días
+
+lunes a viernes.
+
+Horario verano $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas)
+
+con luz natural, desde las 09:30 a 19:00 hrs. Días
+
+lunes a viernes.
+
+Horario invierno $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas)
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días
+
+sábado y domingo.
+
+Horario verano e invierno $20.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 20:00 hrs. en adelante.
+
+Días lunes a viernes.
+
+Horario verano $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial desde las 19:00 hrs. Días lunes
+
+a viernes.
+
+Horario invierno $25.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $25.000.-
+
+f) Organizaciones funcionales de mujeres.
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 10:30 a 20:00 hrs. Días
+
+lunes a viernes.
+
+Horario Verano $10.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:30 a 19:00 hrs. Días
+
+lunes a viernes.
+
+Horario invierno $10.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz natural, desde las 09:00 a 19:00 hrs. Días
+
+sábado y domingo.
+
+Horario verano e invierno $10.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 20:00 hrs. en adelante.
+
+Días lunes a viernes.
+
+Horario verano $15.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial desde las 19:00 hrs. Días
+
+lunes a viernes.
+
+Horario invierno $15.000.-
+
+Valor por partido de Fútbol (Máximo de tiempo dos horas),
+
+con luz artificial, desde las 19:00 hrs. Días sábado y
+
+domingo.
+
+Horario verano e invierno $15.000.-
+
+g) Establecimientos educacionales de la comuna, eventos
+
+municipales, escuelas de fútbol de niños y niñas de la comuna.
+
+Exentos de pago - De acuerdo a disponibilidad de la cancha.
+
+h) Convenios con organizaciones comunitarias de la comuna,
+
+que desarrollen campeonatos deportivos.
+
+Campeonatos deportivos varones
+
+Valor mensual $110.000.-
+
+Campeonatos deportivos damas
+
+Valor mensual $15.000.-
+
 #### Artículo 11
 
 Toda propaganda que se realice en la vía pública o que sea vista u oída desde la misma.
@@ -1006,13 +1342,13 @@ DERECHOS MUNICIPALES RELATIVOS A CONCESIONES DE CONSTRUCCIÓN O INSTALACIÓN EN 
 
 #### Artículo 13
 
-El permiso para instalar, construir y ocupar bienes nacionales de uso público, en los casos debidamente calificados por la Municipalidad, pagarán los siguientes derechos municipales, sin perjuicio de la contribución, que por patentes municipales o permisos correspondiere.
+ARTICULO 13 - 6635091> ARTÍCULO 13: ARTICULO 13 - 6635091> ARTÍCULO 13: El permiso para instalar, construir y ocupar bienes nacionales de uso público, en los casos debidamente calificados por la Municipalidad, pagarán los siguientes derechos municipales, sin perjuicio de la contribución, que por patentes municipales o permisos correspondiere.
 
-1.-Estaciones de servicio para vehículos, bomba de
+1.-Estaciones de servicio para vehículos, bomba
 
-bencina
+de bencina y otros combustibles, por MT2 o
 
-y otros combustibles, por MT2 o fracción:
+fracción:
 
 Valor anual 0.50 UTM
 
@@ -1028,11 +1364,9 @@ Valor mensual 0.040 UTM
 
 3.-Puestos en ferias libres o cachureos persas,
 
-exposiciones
+exposiciones culturales, comerciales u otros
 
-culturales, comerciales u otros similares, por MT2 o
-
-fracción:
+similares, por MT2 o fracción:
 
 Valor diario 0.05 UTM
 
@@ -1062,61 +1396,73 @@ Con todo, cuando estas ocupaciones tengan un fin de interés comunal o recreativ
 
 a) Feria del juguete en el mes de diciembre 0.50 UTM
 
-b) Venta de flores en sector del cementerio y en la
+b) Venta de flores en sector del cementerio
 
-feria libre
+y en la feria libre los días anteriores y
 
-los días anteriores y posteriores de la festividad del
-
-día 1 de
+posteriores de la festividad del día 1 de
 
 Noviembre 0.30 UTM
 
-c) Venta de pescados y mariscos en sectores de feria
+c) Venta de pescados y mariscos en sectores
 
-libre en
+de feria libre en Semana Santa 0.60 UTM
 
-Semana Santa 0.60 UTM
+d) Ferias artesanales en los lugares
 
-d) Ferias artesanales en los lugares autorizados por el
-
-Municipio
+autorizados por el Municipio
 
 Enero o Febrero 0.50 UTM
 
-e) Fondas y ramadas en los lugares que el Municipio
+e) Fondas y ramadas en los lugares que el
 
-fije, en
+Municipio fije, en el mes de Septiembre
 
-el mes de Septiembre de cada año 2.00 UTM
+de cada año 2.00 UTM
 
 f) Permisos para fondas o ramadas en lugares
 
-particulares en
+particulares en Septiembre de cada año 0.60 UTM
 
-Septiembre de cada año 0.60 UTM
+g) Venta de seguros automotrices obligatorios
 
-g) Venta de seguros automotrices obligatorios en lugares
+en lugares que el municipio determine, por
 
-que el municipio determine, por mes o
+mes o fracción de mes 1.00 UTM x m2
 
-fracción de mes 1.00 UTM x m2
+h) Venta de tarjetas de Navidad en la vía
 
-h) Venta de tarjetas de Navidad en la vía pública, por
+pública, por instituciones que no persigan
 
-instituciones que no persigan fines de
-
-lucro por mes o fracción de mes 0.10 UTM
+fines de lucro por mes o fracción de mes 0.10 UTM
 
 No obstante lo anterior, las empresas o personas
 
-podrán optar a rebajas de este valor de hasta un 50%, lo
+podrán optar a rebajas de este valor de hasta un 50%,
 
-cual previo análisis de la solicitud podrá
+lo cual previo análisis de la solicitud podrá
 
-materializarse mediante Decreto Alcaldicio, en cada caso
+materializarse mediante Decreto Alcaldicio, en cada
 
-en particular.
+caso en particular.
+
+8.- Puesto o locales en feria artesanal instalada en pasaje Gabriela Mistral s/n localidad San Pedro de Atacama:
+
+Valor metro cuadrado mensual 0.25 UTM
+
+Valor metro cuadrado semestral 1.5 UTM
+
+Valor metro cuadrado anual 3 UTM
+
+9.- Arriendo de espacios municipales sin construcción
+
+por metro cuadrado.
+
+Valor metro cuadrado mensual 0.15 UTM
+
+Valor metro cuadrado semestral 1 UTM
+
+Valor metro cuadrado anual 2 UTM
 
 ## Título VI
 
