@@ -1,0 +1,17 @@
+APRUEBA NUEVAS NORMAS URBANÍSTICAS PRODUCTO DE LA CADUCIDAD DE DECLARATORIA DE UTILIDAD PÚBLICA DE CALLE Nº 1 DEL PLAN SECCIONAL LA CHIMBA
+
+Núm. 736 exento.- Antofagasta, 1 de julio de 2010.- Vistos: El artículo Nº 59 de la Ley General de Urbanismo y Construcciones, que fuera modificado por la ley Nº 19.939, entrando en vigencia el 13 de febrero de 2004, que define los plazos de caducidad de los terrenos afectados a declaratorias de Utilidad Pública; carta de la Sociedad Kútulas para solicitar la desafectación y asignación de usos de suelo para el terreno afecto como calle 1 del Plan Seccional La Chimba aprobado mediante resolución GORE de fecha 15 de septiembre de 2000, publicado en Diario Oficial de fecha 16 de mayo de 2001; el Ordinario Nº 383 de fecha 23 de marzo de 2010 de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región de Antofagasta, que informa favorablemente la caducidad de la declaratoria de Utilidad Pública de la calle 1 antes mencionada; los ordinarios Nºs. 7 y 13 de fechas 17 de marzo y 22 de abril de 2010 del Asesor Urbanista (S), que solicita a esta Alcaldía la dictación del respectivo decreto alcaldicio; la Orden de Servicio de Alcaldía A-10-4036, de fecha 26 de abril de 2010; el Ord. Nº 485/2010, de fecha 28 de mayo de 2010, de la Dirección de Control; el Ord. (E) Nº 22/2010, fechado el 16 de junio de 2010, del Asesor Urbanista (S) y por el cual además remite el Ord. Nº 385/2010, de la Secretaría Regional Ministerial MINVU Región de Antofagasta y Plano Modificación Plan Seccional La Chimba Sector Pimpineles lámina 01; y en uso de las atribuciones legales que me confiere el DFL Nº 1 del Ministerio del Interior, de fecha 9 de mayo de 2006, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.695, dicto el siguiente,
+
+Decreto:
+
+1.- Apruébanse las nuevas normas urbanísticas producto de la caducidad de la declaratoria de utilidad pública de la Calle Nº 1 del Plan Seccional La Chimba conforme a lo dispuesto en el artículo 59 de la Ley General de Urbanismo y Construcciones y sus modificaciones.
+
+2.- Conforme a lo instruido por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región de Antofagasta e informe del Asesor Urbanista (S), indican que los usos de suelo que asumirán dichos terrenos serán a eje de la vía en comento, cuyo perfil es de 25 mts., quedando establecidos de la siguiente manera:
+
+a) La faja del eje de la calle 1 al norte, asumirá la zona ZUDC 04 Sector La Portada Baja del Plan Regulador Comunal de Antofagasta, que corresponde a una zona para usos exclusivamente turísticos de esparcimiento y residenciales de densidad no superior a 50 habitantes por hectárea (artículo 55 Ordenanza Local del Plan Regulador de Antofagasta).
+
+b) La faja del eje de la calle 1 al sur, asumirá los usos establecidos en el Plan Seccional La Chimba: Zona ZU - 1 Zona Residencial de Alta Densidad, con aproximadamente 552 metros lineales, y ZU - 3 Zona Residencial de Baja Densidad con aproximadamente 58 metros lineales, para los usos de suelos y condiciones de subdivisión y edificación refiérase a las normas establecidas en el artículo 20 para las zonas mencionadas de la Ordenanza Local de dicho instrumento.
+
+3.- Encomiéndese a la Dirección de Obras Municipales y al Asesor Urbanista, velar por el fiel cumplimiento de lo dispuesto en el presente instrumento.
+
+Anótese, comuníquese y archívese.- Marcela Hernando Pérez, Alcaldesa.- Rossana Tomicic Araya-Lamas, Secretaria Municipal Subrogante.
