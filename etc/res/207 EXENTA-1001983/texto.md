@@ -8,9 +8,11 @@ Resolución:
 
 1º.- Autorízase a los laboratorios farmacéuticos de producción y droguerías el expendio a farmacias no asistenciales de los envases clínicos de los siguientes productos farmacéuticos:
 
-• Cloruro de Sodio, solución inyectable 0,9%. Suero Fisiológico.
+. Cloruro de Sodio, solución inyectable 0,9%. Suero Fisiológico.
 
-• Agua para inyectables.
+. Agua para inyectables.
+
+. Midazolam Solución Inyectable 5 mg / 1 Ml
 
 2º.- Autorízase a las Farmacias no asistenciales, para fraccionar los envases clínicos de los productos señalados en el Nº 1 precedente, procedimiento que quedará sujeto a la responsabilidad de su Director Técnico.
 
