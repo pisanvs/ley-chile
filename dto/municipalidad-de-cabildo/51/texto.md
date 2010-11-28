@@ -92,4 +92,12 @@ día siguiente
 
 Al presente artículo, considera para todo aquel establecimiento contemplado en las letras C, F, su hora de cierre se ampliará en una hora adicional los fines de semana y festivos.
 
+#### Artículo transitorio
+
+Modifíquese el horario de funcionamiento, es decir, apertura y cierre de los locales comerciales de acuerdo a la clasificación que más adelante se indica, por el período comprendido entre el 15 de diciembre de 2010 y hasta el 30 de marzo de 2011:
+
+Al presente artículo, considera para todo aquel establecimiento contemplado en las letras C, F, su hora de cierre se ampliará en una hora adicional los fines de semana y festivos.
+
+No obstante lo anterior, esta disposición transitoria se suspenderá ipso-facto cuando existan denuncias por desórdenes debidamente acreditadas por los organismos competentes.
+
 Anótese, comuníquese, publíquese y archívese.- Eduardo Cerda Lecaros, Alcalde.- Rayén Tapia Leiva, Secretaria Municipal (S).
