@@ -372,6 +372,18 @@ traslado de
 
 desperdicios.
 
+19. Muelle Permanente Paso de personas,
+
+Mecanizado exportación
+
+Esperanza de concentrado de
+
+cobre y todo
+
+22°43'30" S y tipo de operaciones
+
+70°18'30" W aduaneras.
+
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
 Punto Habilitado Habilitación Operaciones aduaneras
