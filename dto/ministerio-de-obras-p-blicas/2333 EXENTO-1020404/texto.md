@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2.333 de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº50-C, superficie 126 m2, Rol Nº1169-124, comuna de Cobquecura, VIII Región, para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 0,00000 al Km. 6,34000", VIII Región del Bío Bío, y se acordó el valor de indemnización con su propietaria VIVIANA DEL ROSARIO LAGOS RIQUELME Y OTRO, ascendente a la cantidad de $1.092.634.- para el lote Nº50-C.-
+
+Fiscal del Ministerio de Obras Públicas.
