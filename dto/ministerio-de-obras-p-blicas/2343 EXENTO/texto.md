@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2343 de 29 de octubre de 2010, se expropió el lote de terreno Nº30, superficie 268 m2, rol de Avalúo 219-9, comuna de Florida, para la obra "REPOSICIÓN RUTA 148, S: QUILLÓN AGUA DE LA GLORIA (POR TRAMOS), KM. 42,10000 A KM. 57,80000", Región del Bío Bío, VIII Región y se acordó el valor de la indemnización con su propietario ALBERTO MELLADO O ALBERTO MELLADO MELLADO, ascendente a la cantidad de $587.450.-
+
+Fiscal del Ministerio de Obras Públicas.
