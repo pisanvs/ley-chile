@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2385, de 29 de octubre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno Nº1, para la obra: "Reposición Puente Duqueco, Provincia de Bío Bío", Provincia de BÍO BÍO, que figura a nombre de FORESTAL MININCO S A, rol de avalúo 530-48, Comuna de QUILLECO, VIII Región del Bío Bío, superficie 382 m2. La Comisión de Peritos el 03 de agosto de 2009, fijó el monto de la indemnización provisional en la cantidad de $500.883.- para el lote Nº1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
