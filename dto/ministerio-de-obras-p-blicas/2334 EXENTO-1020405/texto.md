@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2334, de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº110-B, superficie 995 m2, Rol Nº259-247, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial Carahue Tramo Km. 0,00000 al Km. 21,58295, correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295, y se acordó el valor de indemnización con su propietario ALEJANDRO ANTONIO CURIHUENTRO LLANCALEO, ascendente a la cantidad de $1.061.650.-
+
+Fiscal del Ministerio de Obras Públicas.
