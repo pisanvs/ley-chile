@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2357, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº86, superficie 496 m2, Rol Nº155-372, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 al Km. 19,47571.", y se acordó el valor de indemnización con su propietario JUAN BAUTISTA SOTO VALDIVIA, ascendente a la cantidad de $3.394.869.-
+
+Fiscal del Ministerio de Obras Públicas.
