@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2337 de 29 de octubre de 2010, se expropió el lote de terreno Nº12, superficie 781 m2, Rol Nº916-10, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO JUNTA DE VALERIANO, ETAPA II ( LA PAMPA CONAY, KM. 46,42610 AL KM. 49,80000)", y se acordó el valor de indemnización con don RAFAEL AGUSTÍN GALLARDO DÍAZ, ascendente a la cantidad de $1.898.204.-
+
+Fiscal del Ministerio de Obras Públicas.
