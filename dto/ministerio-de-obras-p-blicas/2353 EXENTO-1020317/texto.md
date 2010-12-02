@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2353 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº50, superficie 24 m2, rol Nº1391-16, comuna de Valdivia, para la obra "Mejoramiento Pasada por Valdivia, sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831", Provincia de Valdivia, XIV Región, Tramo 2" y se acordó el valor de la indemnización con su propietario MARÍA VIOLETA MARTIN DELGADO, ascendente a la cantidad de $2.988.231.-
+
+Fiscal del Ministerio de Obras Públicas.
