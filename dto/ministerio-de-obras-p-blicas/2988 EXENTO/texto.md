@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2.988 de fecha 22 de noviembre del 2010, se modificó el decreto exento MOP Nº1.097 de 30 de septiembre de 2003, en cuanto a que la imputación presupuestaria para el pago de la indemnización acordada para la expropiación de los lotes Nºs. 36, 37, 38 y 39, debe entenderse hecha con cargo a la Asignación Presupuestaria 04 31 02 003, Sub Asignación 27000100-0, y no como se indicó en el mencionado decreto.
+
+Fiscal del Ministerio de Obras Públicas.
