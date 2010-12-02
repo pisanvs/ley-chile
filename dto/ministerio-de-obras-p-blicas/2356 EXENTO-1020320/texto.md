@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2356 de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº23-C, superficie, 1.128 m2., Rol Nº30-79, comuna de Placilla, VI Región, para la obra "CAMINO AMPLIACIÓN REPOSICIÓN RUTA I-50, SECTOR SAN FERNANDO CRUCE RUTA I-860, TRAMO 0,00000 AL KM. 35,78646 " y se acordó el valor de indemnización con su propietario PEDRO JOSÉ VARGAS DONOSO, ascendente a la cantidad de $9.991.703.-
+
+Fiscal del Ministerio de Obras Públicas.
