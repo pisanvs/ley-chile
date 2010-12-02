@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2365, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº68, superficie 166,05 m2, Rol Nº903-153, comuna de Coquimbo, IV Región para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43", Etapa III, y se acordó el valor de indemnización con su propietaria PATRICIA ISABEL ÁVILA TAPIA, ascendente a la cantidad de $21.509.625.-
+
+Fiscal del Ministerio de Obras Públicas.
