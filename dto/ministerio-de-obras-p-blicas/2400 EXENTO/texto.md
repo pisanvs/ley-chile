@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2400 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº134, superficie 645 m2, rol Nº154-329, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 a Km. 19,47571" VI Región, y se acordó el valor de la indemnización con su propietario GUIDO ANTONIO SILVA ESCOBAR, ascendente a la cantidad de $3.426.114.-
+
+Fiscal del Ministerio de Obras Públicas.
