@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2363 de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº20-G, superficie 4.785 m2, Rol Nº158-210, comuna de Puerto Octay, X Región de Los Lagos para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso-Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493", y se acordó el valor de indemnización con su propietaria ELISA VILLARROEL MANCILLA, ascendente a la cantidad de $14.607.731.-
+
+Fiscal del Ministerio de Obras Públicas.
