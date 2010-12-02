@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2371, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº32, superficie 59 m2, Rol Nº1349-4, comuna de Valdivia, XIV Región para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831", Provincia de Valdivia, XIV Región. tramo Nº1, y se acordó el valor de indemnización con su propietario ARTURO LLANCAVIL CURIN, ascendente a la cantidad de $42.021.454.-
+
+Fiscal del Ministerio de Obras Públicas.
