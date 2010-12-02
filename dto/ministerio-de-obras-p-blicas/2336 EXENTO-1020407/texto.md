@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2336, de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº104-A, superficie 1.646 m2, Rol Nº259-113, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial Carahue Tramo Km. 0,00000 al Km. 21,58295, correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295, y se acordó el valor de indemnización con su propietario JOSÉ NECUL CURIHUENTRO MULATO, ascendente a la cantidad de $1.625.403.-
+
+Fiscal del Ministerio de Obras Públicas.
