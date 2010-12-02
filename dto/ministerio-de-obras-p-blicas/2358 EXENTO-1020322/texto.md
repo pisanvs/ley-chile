@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2358 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº13, superficie 137 m2, rol Nº1545-181, comuna de Los Angeles, para la obra "Reposición Ex Ruta 5, Sector Pasada Salto del Laja y Pasada por Los Angeles", Región del Bío Bío y se acordó el valor de la indemnización con su propietario SOCIEDAD AGRÍCOLA Y GANADERA TIERRA Y SOL LIMITADA, ascendente a la cantidad de $3.649.529.-
+
+Fiscal del Ministerio de Obras Públicas.
