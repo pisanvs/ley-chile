@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.342, de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº87-A, superficie 579 m2, Rol Nº607-417, comuna de Nueva Imperial, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial Carahue Tramo Km. 0,00000 al Km. 21,58295, correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295, y se acordó el valor de indemnización con su propietario José Roberto Cahuin Coña, ascendente a la cantidad de $701.402.-
+
+Fiscal del Ministerio de Obras Públicas.
