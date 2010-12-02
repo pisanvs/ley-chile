@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2.335, de fecha 29 de octubre de 2010, se expropiaron los lotes de terreno Nºs. 33-A, 33-B y 35, superficies 1.124, 110 y 37 m², Rol Nº212-43, comuna de Florida, VIII Región para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", y se acordó el valor de indemnización con su propietaria MARTA ELVIRA MOREIRA CASTELLÓN, ascendente a la cantidad de $1.264.572.
+
+Fiscal del Ministerio de Obras Públicas.
