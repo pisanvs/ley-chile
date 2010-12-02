@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2359 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº3, superficie 162 m2, rol Nº912-20, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa II" (La Pampa Conay, Km. 44,040000 al Km. 46,42610. III Región y se acordó el valor de la indemnización con su propietario NANCY CARMEN BORDONES OTAROLA, ascendente a la cantidad de $376.227.-
+
+Fiscal del Ministerio de Obras Públicas.
