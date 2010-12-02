@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2374, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº37, superficie 495 m2, Rol Nº902-23, comuna de Coquimbo, IV Región para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43", Etapa II, y se acordó el valor de indemnización con su propietario ARTURO DEL CARMEN MUÑOZ, ascendente a la cantidad de $44.857.499.-
+
+Fiscal del Ministerio de Obras Públicas.
