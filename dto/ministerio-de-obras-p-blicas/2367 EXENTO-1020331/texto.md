@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.367, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº31, superficie 221, Rol Nº902-18, comuna de Coquimbo, IV Región, para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. Del Mar Ruta 43" I Etapa, y se acordó el valor de indemnización con su propietario EDUARDO ALFONSO GODOY LEYTON, ascendente a la cantidad de $26.171.404.-
+
+Fiscal del Ministerio de Obras Públicas.
