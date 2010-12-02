@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2366, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº71, superficie 169,00 m2, Rol Nº903-157, comuna de Coquimbo, IV Región para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43", Etapa III, y se acordó el valor de indemnización con su propietario FRANCISCO ISMAEL JOFRÉ COLLAO, ascendente a la cantidad de $23.409.400.-
+
+Fiscal del Ministerio de Obras Públicas.
