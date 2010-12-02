@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2360 de 29 de octubre de 2010, se expropiaron los lotes de terrenos Nºs. 19, 20 y 23, superficies 64, 610 y 717 m2, rol de Avalúo 1182-3, comuna de Ancud, para la obra "MEJORAMIENTO RUTA 5 W15-175, SECTOR RUTA 5 PUMANZANO, CAMINO RUTA 5 PUMANZANO", PROVINCIA DE CHILOÉ y se acordó el valor de la indemnización con su propietaria MARÍA LIDIA LIPSKI NEUMANN Y OTRA, ascendente a la cantidad de $2.966.280.-
+
+Fiscal del Ministerio de Obras Públicas.
