@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2352 de fecha 29 de octubre de 2010, se expropiaron los lotes de terreno Nºs 28 y 28-A, superficies 28 y 41 m2 respectivamente, rol Nº8020-9, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000." III Región y se acordó el valor de la indemnización con su propietario ESTHER DEL ROSARIO CAMPILLAY, ascendente a la cantidad de $2.530.525.-
+
+Fiscal del Ministerio de Obras Públicas.
