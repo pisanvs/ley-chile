@@ -14,6 +14,10 @@ Tales buses también podrán contar en el interior del vehículo con letreros pu
 
 En todas las modalidades de vehículos de alquiler, se permitirá la publicidad en el extremo inferior de la luneta trasera del vehículo, mediante el uso de una lámina adhesiva de un alto no superior a 30 centímetros, la que en todo caso no deberá obstaculizar la plena visibilidad de la tercera luz de freno.
 
+Los taxis de año de fabricación 2002 o posterior, cualquiera sea su modalidad, podrán contar con una pantalla electrónica de hasta 11 pulgadas, de tecnología LCD, LED o similar, instalada en la parte posterior del asiento delantero derecho, incluido el apoya cabeza, o en el espacio entre los asientos delanteros del vehículo, para información y publicidad. La instalación no deberá significar debilitar componentes originales de fábrica del vehículo o comprometer la integridad de los mismos. El equipamiento del sistema deberá estar diseñado, construido e instalado de modo de prevenir cualquier riesgo a los pasajeros y conductor, derivados de impacto con algún equipo en caso de accidente o de la integridad de la instalación eléctrica.
+
+Para los pasajeros de los asientos traseros deberá ser visible un mensaje que recuerde la obligación de usar el cinturón de seguridad, el que podrá ser exhibido en la pantalla. Dicha pantalla electrónica deberá contar con controles que permitan al pasajero ubicado en el asiento posterior, variar el volumen del sonido que emite el aparato así como silenciarlo. Si el aparato no cuenta con un control que permita apagar completamente la pantalla, ante la solicitud de un pasajero, el conductor deberá apagarla.
+
 3. La publicidad que se realice deberá cumplir con las disposiciones municipales y otras que la regulen.
 
 4. Se entenderá que los vehículos de transporte público de pasajeros que porten elementos publicitarios rígidos que sobresalgan de la carrocería, habrán perdido sus condiciones de seguridad y podrán ser retirados de circulación.
