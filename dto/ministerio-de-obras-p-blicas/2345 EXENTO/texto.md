@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2345, de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº106, superficie 1.069 m2, Rol Nº259-111, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial Carahue Tramo Km. 0,00000 al Km. 21,58295, correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295, y se acordó el valor de indemnización con su propietario VÍCTOR MANUEL HUENTECURA CAYULEO Y OTRA, ascendente a la cantidad de $1.276.919.
+
+- Fiscal del Ministerio de Obras Públicas.
