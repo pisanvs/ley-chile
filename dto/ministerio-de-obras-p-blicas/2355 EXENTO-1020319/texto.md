@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2355 de 29 de octubre de 2010, se expropió el lote de terreno Nº13, superficie 7 m2, Rol Nº916-9, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO JUNTA DE VALERIANO, ETAPA II ( LA PAMPA CONAY, KM. 46,42610 AL KM. 49,80000)", y se acordó el valor de indemnización con don JUAN JORQUERA CAMPILLAY, ascendente a la cantidad de $264.186.-
+
+Fiscal del Ministerio de Obras Públicas.
