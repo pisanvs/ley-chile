@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2332 de 29 de octubre de 2010, se expropió el lote de terreno Nº27, superficie 55 m2, rol de Avalúo 236-4, comuna de Los Lagos, para la obra "MEJORAMIENTO RUTA T-35, SECTOR LOS LAGOS VALDIVIA, TRAMO KM. 0,00000 A KM. 16,60000", COMUNA LOS LAGOS, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS, y se acordó el valor de la indemnización con su propietario ENRIQUE SEGUNDO COFRÉ JARA, ascendente a la cantidad de $692.493.-
+
+Fiscal del Ministerio de Obras Públicas.
