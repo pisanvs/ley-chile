@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2368, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº65, superficie 176,70 m2, Rol Nº903-151, comuna de Coquimbo, IV Región para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43", Etapa III, y se acordó el valor de indemnización con su propietaria VERÓNICA CECILIA TORRES RAMÍREZ, ascendente a la cantidad de $22.161.883.-
+
+Fiscal del Ministerio de Obras Públicas.
