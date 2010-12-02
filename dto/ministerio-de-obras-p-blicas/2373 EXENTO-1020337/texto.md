@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2373, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº2-I, superficie 304,20 m2, Rol de Avaluó en trámite, comuna de Ancud, X Región para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos, y se acordó el valor de indemnización con su propietario CLAUDIO RICHARD VIDAL CÁRDENAS, ascendente a la cantidad de $32.461.363.-
+
+Fiscal del Ministerio de Obras Públicas.
