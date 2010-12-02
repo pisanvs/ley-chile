@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2987, de fecha 22 de noviembre de 2010, se modificó el decreto (exento) MOP Nº1362, de fecha 31 de octubre de 2003, en el sentido que la imputación del pago correspondiente a la indemnización por la expropiación de los lotes Nºs 20-A y 20-B, debe entenderse hecha con cargo a la Asignación Presupuestaria 04-3102003, Sub Asignación 27000100-0.-
+
+Fiscal del Ministerio de Obras Públicas.
