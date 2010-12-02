@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2401, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº1-A, superficie 188 m2, Rol Nº3700-6, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen El Tránsito (Variante Los Perales)", Km. 19,90000 al Km. 23,77240, Provincia de Huasco, Región de Atacama.", y se acordó el valor de indemnización con su propietario JOSÉ TOMAS GONZÁLEZ ROJAS, ascendente a la cantidad de $1.155.005.-
+
+Fiscal del Ministerio de Obras Públicas.
