@@ -446,11 +446,9 @@ El responsable del servicio estará obligado a proporcionar al Secretario Region
 
 En el interior de los vehículos de transporte público de pasajeros, deberá portarse los siguientes letreros:
 
-a) en la parte superior delantera uno de 20 cm de largo por 10 cm de ancho, de fondo blanco y letras negras, que indique el nombre de la persona o entidad inscrita en el Registro Nacional, como asimismo el nombre y domicilio del representante legal o administrador, según corresponda;
+a) en la parte superior delantera uno de 20 cm de largo por 10 cm de ancho, de fondo blanco y letras negras, que indique el nombre de la persona o entidad inscrita en el Registro Nacional, como asimismo el nombre y domicilio del representante legal o administrador, según corresponda, y
 
-b) en la parte delantera del vehículo, en un lugar visible para los pasajeros, en ambos pisos si correspondiera, uno con la leyenda: "Para cualquier denuncia o reclamo, ingrese a www.mtt.gob.cl y/o diríjase a la Secretaría Regional más cercana. No olvide indicar la placa patente del vehículo y la fecha y lugar del hecho denunciado.". Deberá indicarse, además, en el referido letrero, el número telefónico y dirección de la Secretaría Regional en que se haya inscrito el servicio, y
-
-c) uno con fondo blanco con las letras y números en color negro, indicando la placa patente única del vehículo. Tratándose de buses, trolebuses, taxibuses y minibuses, dicho letrero deberá ser de 18 cm de largo por 6,5 cm de ancho; y en el caso de taxis, en cualquiera de sus modalidades, deberá ser de 10 cm de largo por 5 cm de ancho. El letrero debe ubicarse al costado del descrito en la letra b) anterior.
+b) en un lugar visible para los pasajeros uno con la leyenda "Para cualquier reclamo o denuncia dirigirse a:", precediendo al número telefónico y dirección de la Secretaría Regional en que se haya inscrito el servicio, donde los pasajeros podrán efectuar las denuncias por incumplimiento de los contratos de transporte o irregularidades que se presenten durante la prestación del servicio.
 
 #### Artículo 30 bis
 
@@ -802,7 +800,7 @@ Las empresas que efectúen servicios interurbanos deberán anunciar a los usuari
 
 Dicho anuncio se hará mediante carteles o pizarras colocadas en un lugar visible de las oficinas de venta de pasajes y se expresarán en dígitos de las siguientes dimensiones mínimas: 2 cm de alto; 1,5 cm de ancho y 4 mm de trazo.
 
-Asimismo, en los vehículos con que se presten estos servicios se deberá colocar en el costado derecho del parabrisas (costado opuesto del conductor), un cartel que indique el horario de partida y destino del servicio, el que deberá ser visible para los usuarios desde el exterior del vehículo. Dicho letrero deberá mantenerse en el vehículo al menos hasta la hora de inicio del servicio.
+Los vehículos con que se presten estos servicios deberán mantener en el interior, en un lugar visible para los pasajeros, un cartel con los horarios de partida y llegada del servicio y otro con las tarifas correspondientes al servicio que efectúan y a los diversos tramos de dicho servicio.
 
 Además, en los servicios que consulten paradas entre las 23:30 y las 6:00 horas, deberá anunciarse al usuario el horario de pasada por las distintas ciudades atendidas y el lugar de parada en las mismas o en el cruce del acceso correspondiente, mediante un cartel o pizarra ubicado en cada oficina de venta de pasajes. Si los itinerarios no consultan paradas entre las horas señaladas, bastará con indicar en dicho cartel los lugares de parada en las distintas ciudades comprendidas entre el origen y el destino del recorrido.
 
@@ -872,10 +870,6 @@ Los vehículos de servicios interurbanos deberán estar provistos de un disposit
 
 En servicios interurbanos se permitirá el funcionamiento de radios, tocacasetes, televisores y videograbadoras, siempre que los vehículos estén dotados de audífonos para los pasajeros.
 
-Antes de iniciar cada servicio, en los buses que cuenten con un sistema de reproducción de imágenes deberá exhibirse un video de seguridad de tránsito con mensajes informativos y educativos relacionados con el uso de cinturón de seguridad cuando corresponda, el transporte seguro de bultos y equipaje de mano, cómo actuar en caso de accidentes y el derecho de los pasajeros a que se respeten los límites de velocidad.
-
-En aquellos servicios no provistos de los medios audiovisuales antes referidos, deberá disponerse de una cartilla u otro medio escrito con mensajes sobre los temas a que alude el inciso anterior en todos los asientos o adherida en la ventana ubicada al costado de cada dos asientos o de cada asiento cuando exista sólo uno.
-
 #### Artículo 67°
 
 Los responsables de servicios rurales e interurbanos que vendan pasajes anticipadamente, deberán devolver, al menos, el 85% de su valor, cuando el correspondiente pasaje sea anulado por el interesado hasta cuatro horas antes de la hora de partida.
@@ -914,7 +908,7 @@ Los taxis, cualquiera sea la modalidad de servicio que presten, podrán contar c
 
 b) servicio de taxi colectivo que atiende un trazado previamente establecido, y
 
-c) servicio de turismo que atiende viajes destinados principalmente a pasajeros de hoteles, aeropuertos y otros orientados a turistas y que operan con tarifa convencional o con taxímetro, cuando la Secretaría Regional autorice la instalación de este último.
+c) servicio de turismo que atiende viajes destinados principalmente a pasajeros de hoteles, aeropuertos y otros orientados a turistas y que operan con tarifa convencional.
 
 Los taxis inscritos en el Registro Nacional respecto de los que se solicite cambio de modalidad o traslado entre los Registros Regionales de Servicios de Transporte de Pasajeros deberán ser nuevos, entendiéndose por tales aquellos cuyo modelo corresponda al mismo año o al posterior a aquel en que se realice la solicitud, y cumplir con los requisitos establecidos en el presente Reglamento. Excepcionalmente, el Ministerio de Transportes y Telecomunicaciones podrá, por resolución y previo informe técnico del respectivo Secretario Regional, establecer, respecto de los traslados entre ciudades o conglomerados de ciudades de una misma Región, la misma exigencia establecida para traslados entre los Registros Regionales.
 
@@ -926,9 +920,9 @@ establecer, mediante resolución, pudiendo hacer distinciones por modalidades de
 
 No obstante lo dispuesto en el artículo precedente, el Secretario Regional, mediante resolución fundada, podrá autorizar la operación de una submodalidad de taxi básico, que se denominará taxi ejecutivo, entendiéndose por tal aquel que sólo atiende viajes solicitados a distancia por cualquier persona, a través de los distintos medios de comunicación, no pudiendo atender viajes solicitados en la vía pública.
 
-A los vehículos que presten servicio bajo esta submodalidad no les será aplicable lo dispuesto en el inciso primero del artículo 76º, no deberán tener la información, letreros e indicaciones a que se refieren el inciso cuarto del artículo 76º y los artículos 78º, 80º y 84º y deberán contar con una antigüedad máxima de ocho (8) años en el caso de vehículos que cuenten con un motor de menos de 2,0 litros de cilindrada y de diez (10) años para vehículos que cuenten con un motor igual o superior a 2,0 litros de cilindrada. Para estos efectos, en la categoría de motor de 2,0 litros, quedarán comprendidos aquellos cuya cilindrada sea superior a 1.950 cc. e inferior a 2.051 cc.
+A los vehículos que presten servicio bajo esta submodalidad no les será aplicable lo dispuesto en el inciso primero del artículo 76º, no deberán tener la información, letreros e indicaciones a que se refieren el inciso tercero del artículo 76º y los artículos 78º, 80º y 84º y deberán contar con una antigüedad máxima de ocho (8) años en el caso de vehículos que cuenten con un motor de menos de 2,0 litros de cilindrada y de diez (10) años para vehículos que cuenten con un motor igual o superior a 2,0 litros de cilindrada. Para estos efectos, en la categoría de motor de 2,0 litros, quedarán comprendidos aquellos cuya cilindrada sea superior a 1.950 cc. e inferior a 2.051 cc.
 
-La restricción de antigüedad establecida en el inciso anterior, no será aplicable a los vehículos construidos de fábrica para operar con gas natural o gas licuado de petróleo, vehículo eléctrico puro o vehículo híbrido, definidos para estos efectos en el artículo siguiente.
+La restricción de antigüedad establecida en el inciso anterior, no será aplicable a los vehículos construidos de fábrica para operar con gas natural o gas licuado de petróleo.
 
 #### Artículo 73°
 
@@ -936,15 +930,9 @@ Para prestar servicios de taxi, los automóviles deberán cumplir con los siguie
 
 a) Ser vehículos de una antiguedad no superior a un año, al solicitar su incorporación al Registro Nacional por primera vez. La antiguedad se calculará como la diferencia entre el año en que se solicita la inscripción y el año de fabricación o modelo de del vehículo anotado en el Registro de Vehículos Motorizados.
 
-b) contar con un motor de 1,5 litros de cilindrada o superior, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
+b) contar con un motor de 1,5 litros de cilindrada o superior, para prestar servicio de taxis, en cualquiera de sus modalidades.
 
-Contar con un motor 1,4 litros de cilindrada y cuya homologación del modelo lo tipifique como sedán.
-
-Tratándose de vehículos que se incorporen conforme lo dispuesto en la ley 20.474, el requisito de antigüedad señalado en la letra a) del inciso precedente, será de cinco (5) años como máximo.
-
-Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc y en la categoría de motor de 1,4 litros, aquellos cuya cilindrada sea superior a 1.350 cc e inferior a 1.451 cc.
-
-Tratándose de vehículos eléctrico puro o híbrido la potencia para su propulsión deberá ser igual o superior a 70 kw.
+Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc.
 
 c) estar pintados de acuerdo con las normas del presente reglamento;
 
@@ -958,7 +946,7 @@ entendiéndose por puerta sólo aquella que permita el acceso natural de persona
 
 f) contar con sólo dos hileras de asientos en sentido transversal al vehículo;
 
-g) estar dotado de taxímetro en aquellas comunas en que su uso es obligatorio, cuando se trate de servicio de taxi básico. Los taxis colectivos y de turismo no usarán taxímetro. No obstante lo anterior, tratándose de taxis de turismo, el Secretario Regional Ministerial podrá autorizar la instalación de taxímetros como mecanismo de cobro, en cuyo caso su uso será opcional, y
+g) estar dotado de taxímetro en aquellas comunas en que su uso es obligatorio, cuando se trate de servicio de taxi básico. Los taxis colectivos y de turismo no usarán taxímetro, y
 
 h) tener antigüedad de fabricación o modelo no superior a 12 años, entendiéndose por año de modelo o fabricación el anotado en el Registro de Vehículos Motorizados. Esta exigencia no regirá para los vehículos inscritos en cualquier Registro Regional distinto al de la Región Metropolitana, los cuales podrán extender su antigüedad hasta los 15 años, siempre que a contar del año trece realicen y aprueben revisiones técnicas cada cuatro meses.
 
@@ -1008,13 +996,11 @@ Los taxis básicos serán de color negro y techo amarillo hasta la base de los p
 
 Por su parte, los taxis colectivos de servicios rurales y los interurbanos serán de color amarillo y los de servicios de turismo de color azul.
 
-No obstante lo señalado precedentemente, los taxis que cuenten con motor eléctrico puro, cualquiera sea su modalidad o submodalidad, serán de color blanco, con puertas y cubierta del motor (capó) de color verde.
-
-Los taxis básicos y los colectivos urbanos, excepto aquellos que cuenten con motor eléctrico puro, llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
+Los taxis básicos y los colectivos urbanos llevarán pintado o adherido en el exterior de sus puertas delanteras las letras y números de la patente única del vehículo, en color amarillo. Estos caracteres deberán tener como mínimo 10 cm. de alto, 5 cm. de ancho y 1,5 cm. de espesor de trazo.
 
 El color amarillo que se indica en los incisos precedentes, corresponde al definido en la norma chilena NCh 1927.
 
-Corresponderá a los Secretarios Regionales disponer, mediante resolución, la fecha a contar de la cual serán exigibles las obligaciones de los incisos segundo, tercero, cuarto y quinto de este artículo, lo que podrán hacer diferenciadamente según el tipo de servicio de que se trate. Asimismo, podrán hacer aplicable lo dispuesto en el inciso cuarto a los taxis colectivos de servicios rurales, en cuyo caso los caracteres serán de color negro.
+Corresponderá a los Secretarios Regionales disponer, mediante resolución, la fecha a contar de la cual serán exigibles las obligaciones de los incisos segundo, tercero y cuarto de este artículo, lo que podrán hacer diferenciadamente según el tipo de servicio de que se trate. Asimismo, podrán hacer aplicable lo dispuesto en el inciso tercero a los taxis colectivos de servicios rurales, en cuyo caso los caracteres serán de color negro.
 
 #### Artículo 77°
 
@@ -1036,7 +1022,7 @@ El Ministerio de Transportes y Telecomunicaciones, por resolución, podrá fijar
 
 #### Artículo 80°
 
-Los taxis que usen taxímetro como mecanismo de cobro tarifario deberán exhibir, en un lugar visible del parabrisas delantero, el valor de los primeros 200 m. de recorrido y el monto a cobrar por cada 200 m. de recorrido adicional y por cada 60 segundos de espera. Tratándose de taxis de turismo, los referidos valores y montos deberán exhibirse en letreros orientados hacia el interior del vehículo, con las dimensiones y características a que se refieren los siguientes incisos. En este caso, deberá indicarse, además, que la utilización del taxímetro como mecanismo de cobro quedará a elección del usuario.
+Los taxis que usen taxímetro como mecanismo de cobro tarifario deberán exhibir, en un lugar visible del parabrisas delantero, el valor de los primeros 200 m. de recorrido y el monto a cobrar por cada 200 m. de recorrido adicional y por cada 60 segundos de espera.
 
 El valor de los primeros 200 m. deberá anunciarse mediante un letrero de forma circular de 18 cm. de diámetro, en el cual irá inserto el valor aludido, mediante dígitos de 10 cm. de alto, 3,5 cm. de ancho y 1,0 cm. de espesor de trazo, precedido por el signo pesos. Dicho letrero deberá estar ubicado en la parte superior del parabrisas y al lado opuesto del conductor.
 
@@ -1046,7 +1032,7 @@ Los vehículos dotados de taxímetro que emitan boleto podrán llevar, además, 
 
 Los letreros señalados en los incisos precedentes serán de fondo de color blanco y las letras y números de color negro, exceptúandose el de los vehículos aludidos en el inciso precedente cuyos letreros serán de fondo color rojo y sus letras y números de color blanco reflectante.
 
-En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo , lo siguiente "En el caso de taxis de turismo, las indicadas leyendas deberán constar en un letrero ubicado al interior del vehículo, cuyas dimensiones y características determinará, por resolución, el Secretario Regional Ministerial de Transportes y Telecomunicaciones.".
+En el caso de vehículos dotados de taxímetro que emitan boleto, el letrero que anuncia la tarifa correspondiente a los primeros 200 m., deberá incluir, además, en su parte superior, una leyenda que exprese "Taxímetro con boleto". En su reverso, que será de fondo de color negro y letras de color blanco, debe llevar la leyenda "Señor pasajero, si el taxímetro está funcionando correctamente, siempre debe entregar un boleto. Exíjalo.".
 
 El radio urbano dentro del cual tendrá vigencia el uso del taxímetro como mecanismo de cobro tarifario será el definido por el Secretario Regional, conforme con lo dispuesto en el artículo 6°, letra a). Para carreras que se extiendan más allá de dicho radio, la tarifa será convencional. Asimismo, para carreras que utilicen dentro de su recorrido vías entregadas en concesión, en virtud del D.S. MOP N° 900 de 1996 del Ministerio de Obras Públicas, cuya utilización le signifique al operador del taxi un pago, tanto la tarifa a cobrar por el tramo de vía concesionada a utilizar como el recorrido, serán convenidas con el usuario al inicio del viaje. Esta tarifa será adicional al precio que corresponda por cómputo del taxímetro en el total de la carrera.
 
@@ -1170,7 +1156,7 @@ a. Por incumplimiento a lo dispuesto por el artículo 38º del presente reglamen
 
 b. Cobro de una tarifa superior a la registrada y/o calculada por la Secretaría Regional, cuando corresponda;
 
-c. Por la acumulación de tres infracciones a las normas técnicas y de seguridad aplicables a los vehículos, constatadas por parte de inspectores del Ministerio de Transportes y Telecomunicaciones, dentro del plazo de 180 días corridos contados desde la fecha de la primera infracción.
+c. Por cualquier incumplimiento a las normas técnicas y de seguridad aplicables a los vehículos; y
 
 d. Por haber obtenido su certificado revisión técnica en contravención a lo dispuesto en el artículo 31º de este reglamento.
 
