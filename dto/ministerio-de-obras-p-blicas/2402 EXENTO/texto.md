@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.402, de fecha 29 de octubre de 2010, se expropiaron los lotes de terreno Nºs. 6 y 6-A, superficies 1.072 y 190 m², Rol Nº158-166, comuna de Puerto Octay, X Región de Los Lagos para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso - Las Gaviotas, tramo Km. 65,58046 al Km. 72,78493", y se acordó el valor de indemnización con su propietaria INVERSIONES ]OSÉ NARR LIMITADA, ascendente a la cantidad de $4.369.789.-
+
+Fiscal del Ministerio de Obras Públicas.
