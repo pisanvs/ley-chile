@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2372 de 29 de octubre de 2010, se expropió el lote de terreno Nº9, superficie 178 m2, rol de Avalúo E/T, comuna de Coquimbo, para la obra "MEJORAMIENTO RUTA D-35, (CAMINO LA CANTERA) S: AV. DEL MAR RUTA 43, ETAPA I", IV Región y se acordó el valor de la indemnización con su propietaria doña IRMA OLIVIA BRICEÑO MENDOZA, ascendente a la cantidad de $43.089.235.-
+
+Fiscal del Ministerio de Obras Públicas.
