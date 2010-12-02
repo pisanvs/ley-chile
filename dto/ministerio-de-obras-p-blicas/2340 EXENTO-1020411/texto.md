@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2340 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº41-A, superficie 36 m2, Rol Nº70-178, comuna de Paihuano, para la obra "Mejoramiento Camino 64D485, Sector Pisco Elqui Horcón." IV Región y se acordó el valor de la indemnización con su propietario PEDRO SEGUNDO ARGANDOÑA FLORES, ascendente a la cantidad de $140.870.
+
+- Fiscal del Ministerio de Obras Públicas.
