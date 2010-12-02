@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2348, de fecha 29 de octubre de 2010, se expropiaron los lotes de terreno Nºs 135-B y 135-C, superficie 88 y 106 m2 respectivamente, Rol Nº154-281, comuna de Las Cabras, VI Región para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, tramo Km. 3,56000 al Km. 19,47571.", y se acordó el valor de indemnización con su propietario LUIS RAÚL MUÑOZ CAMUS, ascendente a la cantidad de $593.465.-
+
+Fiscal del Ministerio de Obras Públicas.
