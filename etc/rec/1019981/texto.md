@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.810 de 15 de noviembre de 2010, se publicó notificación de resolución exenta N° 7.264, que dispone expropiación de inmueble que indica, con el error que se salva a continuación: Cuerpo I, página cincuenta y seis, segunda columna, donde dice "... , correspondiente a la totalidad del inmueble ubicado en Caletera Valle del Elqui N° 13.02, Departamento N° 11, Rol de Avalúo N° 7838-109, de la comuna de La Pintana, ..." debe decir "... , correspondiente a la totalidad del inmueble ubicado en Caletera Valle del Elqui N° 13.402, Departamento N° 11, Rol de Avalúo N° 7838-109, de la comuna de La Pintana, ...".
