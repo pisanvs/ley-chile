@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2.354, de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº110-D, superficie 1.437 m2, Rol Nº259-161, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, sector Nueva Imperial Carahue Tramo Km. 0,00000 al Km. 21,58295, correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295, y se acordó el valor de indemnización con su propietario LUIS ALEJANDRO AILLAPAN LIEMPI Y OTROS, ascendente a la cantidad de $1.444.413.-
+
+Fiscal del Ministerio de Obras Públicas.
