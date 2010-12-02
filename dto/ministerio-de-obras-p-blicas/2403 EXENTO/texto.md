@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2.403, de 29 de octubre de 2010, se expropió el lote de terreno Nº1, superficie 1.913 m², rol de Avalúo 248-4, comuna de Los Lagos, para la obra "REPOSICIÓN CONSTRUCCIÓN RUTA INTERLAGOS, SECTOR ÑANCUL - STA. LAURA (PUENTE LAS HUELLAS)", PROVINCIA DE VALDIVIA, X REGIÓN y se acordó el valor de la indemnización con su propietario HÉCTOR ROLANDO FIGUEROA FAÚNDEZ, ascendente a la cantidad de $4.535.864.-
+
+Fiscal del Ministerio de Obras Públicas.
