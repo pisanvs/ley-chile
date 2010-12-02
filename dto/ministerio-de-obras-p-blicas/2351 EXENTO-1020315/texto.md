@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2351 de 29 de octubre de 2010, se expropió el lote de terreno Nº42-G, superficie 174 m2., Rol Nº280-48, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria JOSEFINA DEL CARMEN RECABARREN RECABARREN, ascendente a la cantidad de $2.735.506.-
+
+Fiscal del Ministerio de Obras Públicas.
