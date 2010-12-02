@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº2350 de fecha 29 de octubre del 2010, se expropió el lote de terreno Nº6-A, superficie, 6.176 m2., Rol Nº432-53, comuna de Chimbarongo, VI Región, para la obra "CAMINO AMPLIACIÓN REPOSICIÓN RUTA I-50, SECTOR SAN FERNANDO CRUCE RUTA I-860, TRAMO 0,00000 AL KM. 35,78646 " y se acordó el valor de indemnización con su propietaria ELIANA DEL CARMEN GONZÁLEZ REYES, ascendente a la cantidad de $89.585.895.-
+
+Fiscal del Ministerio de Obras Públicas.
