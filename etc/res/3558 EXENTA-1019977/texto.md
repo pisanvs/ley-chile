@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.558, de 25 de noviembre de 2010, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 205121007, Nº 205121003, Nº 206104004, Nº 201123003, Nº 201123006, Nº 203111301, Nº 204111293, Nº 201123001, Nº 205111063, Nº 202111024, y Nº 206111214, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
