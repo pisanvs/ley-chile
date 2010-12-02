@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2399 de fecha 29 de octubre de 2010, se expropió el lote de terreno Nº121, superficie 125 m2, rol Nº154-354, comuna de Las Cabras, para la obra "Mejoramiento Ruta H-780, Sector Las Cabras El Manzano, Tramo Km. 3,56000 a Km. 19,47571" VI Región, y se acordó el valor de la indemnización con su propietario LUPERCIO DE LAS MERCEDES ARCE NUÑEZ, ascendente a la cantidad de $986.717.-
+
+Fiscal del Ministerio de Obras Públicas.
