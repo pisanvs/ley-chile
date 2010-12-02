@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº2364, de fecha 29 de octubre de 2010, se expropiaron los lotes de terreno Nºs 2 y 2-A, superficie 7.778 y 6.722 m2 respectivamente, Rol Nº883-30, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, Sector Alto del Carmen El Tránsito (Variante Los Perales)", Km. 19,90000 al Km. 23,77240, Provincia de Huasco, Región de Atacama.", y se acordó el valor de indemnización con su propietaria MARELYN HERNANDINA GARROTE HERRERA Y OTROS, ascendente a la cantidad de $12.921.991.-
+
+Fiscal del Ministerio de Obras Públicas.
