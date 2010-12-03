@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución 1.541, de 10/08/2010, modificó resolución 922/2004, de la siguiente forma: Ubicación: Puerto Calderilla, al Este de Península Caldereta, comuna de Caldera, Terreno de Playa, superficie 0,16 hectáreas, coordenadas geográficas: Carta SHOA N° 3111, 9ª edición enero 2002 (Datum WGS-84) Vértice A Lat. 27°04'49,37" S. Long. 70°51'40,97" W. Vértice B Lat. 27°04'50,21" S. Long. 70°51'39,99" W. Vértice C Lat. 27°04'51,16" S. Long. 70°51'41,07" W. Vértice D Lat. 27°04'50,29" S. Long. 70°51'42,15" W.; Porción de Agua y Fondo de Mar, superficie de 3,00 hectáreas, coordenadas geográficas: Carta SHOA N° 3111, 9ª edición enero 2002 (Datum WGS-84) Vértice A Lat. 27°04'51,24" S. Long. 70°51'28,72" W. Vértice B Lat. 27°04'58,66" S. Long. 70°51'23,87" W. Vértice C Lat. 27°04'57,37" S. Long. 70°51'31,41" W. Vértice D Lat. 27°04'53,58" S. Long. 70°51'33,21" W.
+
+Santiago, 25 de noviembre de 2010.- Por orden del Sr. Subsecretario para las Fuerzas Armadas, Felipe García-Huidobro Correa, Subjefe (M).
