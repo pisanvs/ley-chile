@@ -12,8 +12,6 @@ Los plazos serán los que se indican a continuación: Inicio de Obras: 10 días;
 
 La presente publicación se hace de acuerdo a lo dispuesto en el artículo 13A de la Ley N° 18.168 General de Telecomunicaciones, a objeto que quien tenga interés en ello pueda reclamar de la Resolución Exenta del Ministerio de Transportes y Telecomunicaciones, que se extracta, que asignó la concesión, dentro del plazo de (10) días hábiles, contados desde la presente publicación. La reclamación deberá presentarse por escrito ante el Ministerio de Transportes y Telecomunicaciones, ser fundada, adjuntar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
 
-> **Nota.** El Aviso S/N, Transportes, publicado el 18.01.2012, modifica la presente norma, en el sentido de reemplazar la coordenada 75°22'07" Longitud Oeste por 72°22'15", sin embargo, este es el número que ya tiene la presente norma en su texto actualizado por lo que no se ha podido hacer la modificación.
-
 POR ORDEN DEL SUBSECRETARIO DE TELECOMUNICACIONES
 
 JEFE DEPARTAMENTO SERVICIOS DE RADIODIFUSIÓN
