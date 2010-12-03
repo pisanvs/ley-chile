@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución 1.201, de 17/06/2010, modificó resolución 229/2002, de la siguiente forma: Ubicación: Bahía Inglesa, al Sur de Punta Fernández, comuna de Caldera, superficie 3,51 hectáreas; coordenadas geográficas: Carta SHOA 3111 9ª Edición Enero 2004 (Datum WGS-84), Vértice A Lat. 27º08'04,66" S. Long. 70º54'18,35" W. Vértice B Lat. 27º08'04,66" S. Long. 70º54'23,35" W. Vértice C Lat. 27º08'10,36" S. Long. 70º54'22,35" W. Vértice D Lat. 27º08'11,06" S. Long. 70º54'20,55" W. Vértice E Lat. 27º08'07,06" S. Long. 70º54'16,35" W. Vértice F Lat. 27º08'08,06" S. Long. 70º54'13,55" W. Vértice G Lat. 27º08'05,86" S. Long. 70º54'14,65" W. Vértice H Lat. 27º08'03,06" S. Long. 70º54'13,55" W.
+
+Santiago, 25 de noviembre de 2010.- Por orden del Sr. Subsecretario para las Fuerzas Armadas, Felipe García-Huidobro Correa, Subjefe (M).
