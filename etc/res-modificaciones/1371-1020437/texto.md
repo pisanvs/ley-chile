@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución 1.371, de 12/07/2010, modificó resolución 1.958/1995, de la siguiente forma: Superficie 20,85 hectáreas; coordenadas geográficas: Plano DPC-307, 1ª Edición 2006 (Datum WGS-84), Vértice A Lat. 43º02'45,64" S. Long. 73º34'57,64" W. Vértice B Lat. 43º02'45,46" S. Long. 73º34'39,05" W. Vértice C Lat. 43º02'52,95" S. Long. 73º34'38,87" W. Vértice D Lat. 43º02'52,87" S. Long. 73º34'32,54" W. Vértice E Lat. 43º03'00,25" S. Long. 73º34'37,36" W. Vértice F Lat. 43º03'00,19" S. Long. 73º34'43,11" W. Vértice G Lat. 43º02'59,28" S. Long. 73º34'46,17" W. Vértice H Lat. 43º02'56,53" S. Long. 73º34'46,23" W. Vértice I Lat. 43º02'56,77" S. Long. 73º35'04,57" W.
+
+Santiago, 25 de noviembre de 2010.- Por orden del Sr. Subsecretario para las Fuerzas Armadas, Felipe García-Huidobro Correa, Subjefe (M).
