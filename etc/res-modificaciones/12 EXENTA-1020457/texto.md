@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN Nº 831 EXENTA, DE 2010, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA Y SARDINA COMÚN EN LA VIII REGIÓN
+
+Por resolución exenta Nº 12/2010, de fecha 24 de noviembre de 2010, de la Dirección Zonal de Pesca de las Regiones V a IX e Islas Oceánicas, modifíquese el numeral 2º letras a) y b) de la resolución exenta Nº 831, de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el período comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2010, en el sentido de modificar las asignaciones para el recurso Sardina común, correspondientes a las organizaciones artesanales: Sindicato de Pescadores Artesanales, Buzos Mariscadores y actividades conexas Puerto de Coronel de la VIII Región y del Golfo de Arauco, Registro Sindical Único 08.07.0183, y el Sindicato de Trabajadores Independientes Pescadores, Armadores y Ramos Afines SIPEAYRAS de Lota, Registro Sindical Único 08.07.0296, de acuerdo con lo siguiente:
+
+a) Pesquería artesanal de Sardina común
+
+Talcahuano, 24 de noviembre de 2010.- Sigisfredo Scheuermann G., Subsecretaría de Pesca.
