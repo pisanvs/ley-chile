@@ -1,0 +1,5 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Resolución 1.540, de 10/08/2010, modificó DS 464/1992, de la siguiente forma: Sector 2, Ubicación: Estero Reñihué, Puerto Argentino, comuna de Chaitén, superficie 6,50 hectáreas, coordenadas geográficas: Plano DPC-306, 1ª edición 2005 (Datum WGS-84) Vértice A Lat. 42°34'02,28" S. Long. 72°34'02,16" W. Vértice B Lat. 42°34'18,34" S. Long. 72°33'43,72" W. Vértice C Lat. 42°34'20,44" S. Long. 72°33'47,06" W. Vértice D Lat. 42°34'04,38" S. Long. 72°34'05,50" W., Sector 3, Ubicación: Estero Reñihué, al Noreste de Islas Las Nieves, comuna de Chaitén, superficie 6,50 hectáreas, coordenadas geográficas: Plano DPC-306, 1ª edición 2005 (Datum WGS-84), Vértice A Lat. 42°33'02,06" S. Long. 72°31'43,04" W. Vértice B Lat. 42°33'04,53" S. Long. 72°31'40,21" W. Vértice C Lat. 42°33'18,14" S. Long. 72°32'01,95" W. Vértice D Lat. 42°33'15,67" S. Long. 72°32'04,78" W.
+
+Santiago, 25 de noviembre de 2010.- Por orden del Sr. Subsecretario para las Fuerzas Armadas, Felipe García-Huidobro, Subjefe (M).
