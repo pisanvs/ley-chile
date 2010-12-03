@@ -24,8 +24,6 @@ El número de proyectos seleccionados en cada una de las regiones antes señalad
 
 4. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El numeral 1 de la Resolución 10007 Exenta, Vivienda, publicada el 07.01.2012, modifica la presente norma, en el sentido de reemplazar en la tabla inserta en su Resuelvo 1, no obstante, encontrarse el cuadro inserto en el resuelvo 3, las filas correspondientes a Región de Los Ríos y Total País por aquellas que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
