@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.577, de 26 de noviembre de 2010, de esta Subsecretaría, recházanse las solicitudes números 208111193, 208111203, 208111179 y 208111235, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 26 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
