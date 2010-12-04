@@ -58,7 +58,7 @@ Sin perjuicio de lo anterior, no se otorgará patentes de alcoholes en los sigui
 
 - Avenida Froilán Lagos (ex Av. El Parque) entre Froilán Roa y Américo Vespucio;
 
-- Avenida Walker Martínez, entre Vicuña Mackenna y Tobalaba;
+- Avenida Walker Martínez, entre Vicuña Mackenna y Tobalaba, con excepción de la Zona UEC 3, ubicada en la intersección de las calles Walker Martínez y Tobalaba.
 
 - Sector Plaza Mayor (Paradero 14 de Vicuña Mackenna) en un radio de 150 metros a la redonda, a partir de la intersección de los ejes de Américo Vespucio y Vicuña Mackenna;
 
