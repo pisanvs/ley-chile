@@ -18,8 +18,6 @@ Resolución:
 
 3.- Determínase el monto de unidades de fomento disponible para la selección que se efectuará en el mes de agosto, de acuerdo a lo establecido mediante la Resolución Exenta Nº 2.966 (V. y U.), de 2010, para las Regiones de Valparaíso, Libertador Bernardo O'Higgins, Maule, Bío Bío, Araucanía y Metropolitana correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Segundo del citado reglamento, según se indica en la siguiente tabla:
 
-> **Nota.** El N° de la Resolución 8828, Vivienda, publicada el 08.01.2011, modificó la presente norma en el sentido de excluir del listado de beneficiarios a María Elizabeth Gatica Cifuentes. Por su parte, su Nro. 2 fijó una nueva tabla con el número actualizado de postulantes seleccionados.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
