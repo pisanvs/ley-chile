@@ -632,6 +632,34 @@ y que deberán respetarse en los proyectos
 
 a presentar.
 
+En estos casos el proyecto de vivienda quedará
+
+eximido del cumplimiento de los requisitos
+
+dispuestos en el cuadro normativo inserto en el
+
+#### Artículo 19
+
+del D.S. Nº 174 (V. y U.), de 2005,
+
+que Reglamenta el Programa Fondo Solidario
+
+de Vivienda y del requisito de cumplir
+
+con las especificaciones técnicas
+
+determinadas en el Itemizado Técnico
+
+de la Construcción aprobado por
+
+resolución exenta Nº 2.070 (V. y U.),
+
+de 2009, establecido en el artículo 19,
+
+inciso tercero, letra c), del mismo
+
+decreto.
+
 r. Extraordinariamente cuando se trate de proyectos
 
 emplazados en áreas rurales o en áreas urbanas
@@ -1017,6 +1045,118 @@ acuerdo a lo dispuesto en las Resoluciones
 de los llamados de construcción ya
 
 señalados.
+
+y. Los proyectos de vivienda o edificaciones de
+
+las tipologías de Construcción en Sitio Propio y
+
+Rehabilitación de Inmueble que consulten como
+
+elemento constructivo tierra cruda o similares,
+
+como elemento predominante o en combinación con
+
+otros materiales, quedarán eximidos del
+
+cumplimiento del requisito de cumplir con las
+
+especificaciones técnicas determinadas en el
+
+Itemizado Técnico de la Construcción aprobado por
+
+resolución exenta Nº 2.070 (V. y U.), de 2009,
+
+establecido en el artículo 19, inciso tercero,
+
+letra c), del D.S. Nº 174 (V. y U.), de
+
+2005, que reglamenta el Programa Fondo
+
+Solidario de Vivienda, respecto de las
+
+partidas relativas a elementos
+
+estructurales verticales, siempre que
+
+los antecedentes del proyecto incorporen
+
+un proyecto de cálculo estructural
+
+suscrito por un profesional competente
+
+calculista que deberá ser realizado, en
+
+ausencia de normas técnicas nacionales
+
+vigentes, sobre la base de normas
+
+técnicas extranjeras cuya aplicación,
+
+a criterio del revisor del proyecto de
+
+cálculo estructural, se adecue mejor al
+
+proyecto.
+
+En estos casos, la Comisión Técnico
+
+Evaluadora de SERVIU no revisará el
+
+proyecto de cálculo, debiendo cumplirse
+
+con lo señalado en la Circular Ord. N°
+
+338, DDU Específica N° 18/2010, de
+
+fecha 26 de mayo de 2010, de la
+
+División de Desarrollo Urbano del
+
+Ministerio de Vivienda y Urbanismo.
+
+Por otra parte, en los proyectos de la
+
+tipología de Construcción en Sitio Propio,
+
+se podrá utilizar parte de la estructura
+
+de la vivienda declarada como inhabitable
+
+por la Dirección de Obras Municipales
+
+respectiva, no siendo necesaria la
+
+demolición total del inmueble, en cuyo caso los
+
+elementos constructivos de dicha estructura a
+
+conservar quedarán eximidos de cumplir con las
+
+especificaciones técnicas determinadas en el
+
+Itemizado Técnico de la Construcción aprobado por
+
+resolución exenta Nº 2.070 (V. y U.), de 2009,
+
+establecido en el artículo 19, inciso tercero,
+
+letra c), del D.S. Nº 174 (V. y U.), de 2005. En
+
+caso que el proyecto se encuentre emplazado en
+
+alguna de las áreas señaladas en el resuelvo
+
+número 3 letra q. de esta resolución, no
+
+será impedimento para la aplicación de lo
+
+dispuesto en el presente inciso que la
+
+vivienda haya sido declarada reparable
+
+por la Dirección de Obras Municipales
+
+respectiva.
 
 4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
