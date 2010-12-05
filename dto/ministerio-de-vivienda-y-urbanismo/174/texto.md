@@ -22,6 +22,18 @@ Para las viviendas a que se alude en los Capítulos Segundo y Tercero de este re
 
 Mediante resoluciones del Ministro de Vivienda y Urbanismo, se podrán señalar todas aquellas operaciones o actos que incidan en la aplicación práctica de este reglamento.
 
+En razón del subsidio recibido, la vivienda que se construya o adquiera de conformidad al Capítulo Primero de este reglamento, correspondiente al Programa Fondo Solidario de Vivienda I, deberá ser habitada personalmente por el beneficiario del subsidio y/o su grupo familiar declarado al momento de su postulación, por al menos cinco años contados desde su entrega material.
+
+Para los efectos de lo dispuesto en el inciso anterior, se entenderá por vivienda habitada, la que constituya morada habitual de alguna de las personas que allí se indican.
+
+Asimismo, durante un plazo de cinco años, el beneficiario no podrá gravar ni enajenar la vivienda ni celebrar acto o contrato alguno que importe cesión de uso y goce de la misma, sea a título gratuito u oneroso, sin previa autorización escrita del SERVIU. Las prohibiciones antes señaladas se inscribirán en el respectivo registro del Conservador de Bienes Raíces competente. Transcurrido dicho plazo contado desde su inscripción, se procederá al alzamiento de las mismas prohibiciones, al solo requerimiento del interesado.
+
+Sólo en casos debidamente justificados y por resolución fundada, el SERVIU, a solicitud del beneficiario del subsidio o de quien pueda sucederlo en sus derechos, podrá autorizar el gravamen, enajenación, o cesión del uso y goce de la vivienda antes del vencimiento del plazo de las referidas prohibiciones.
+
+La infracción por parte del beneficiario de cualquiera de las obligaciones antes señaladas, dará derecho al SERVIU para exigir la restitución de la totalidad de los dineros recibidos por concepto de subsidios, al valor de la Unidad de Fomento vigente a la fecha de la restitución.
+
+Para caucionar el fiel cumplimiento de las obligaciones mencionadas en este artículo y la restitución de los subsidios recibidos, el beneficiario deberá constituir hipoteca de primer grado sobre el inmueble, a favor del SERVIU. Transcurrido el plazo de vigencia de las prohibiciones a que se refiere este artículo, se procederá también al alzamiento de la hipoteca antes señalada, al solo requerimiento del interesado.
+
 ## Título II — DEFINICIONES
 
 #### Artículo 2º
@@ -108,7 +120,7 @@ Mediante resoluciones del Ministro de Vivienda y Urbanismo, visadas por el Minis
 
 De la cantidad de recursos dispuesta a nivel nacional, podrá reservarse hasta un 30% para la atención de personas que vivan en condiciones de extrema marginalidad habitacional, ya sea en campamentos, conventillos, cités, operaciones sitio o en otras situaciones especiales de urgente necesidad habitacional, debidamente calificadas por el Ministro de Vivienda y Urbanismo. Los subsidios que se otorguen con cargo a estos recursos podrán ser asignados directamente por resoluciones del Ministro de Vivienda y Urbanismo. En estas resoluciones podrá eximirse a los beneficiarios del cumplimiento de uno o más de los requisitos establecidos en los Títulos III, IV y V del presente reglamento. En casos de emergencias derivadas de catástrofes tales como sismos, desastres naturales, incendios u otras, o tratándose de proyectos que el MINVU califique como de extrema relevancia, dichas resoluciones podrán modificar algunas de las otras condiciones o requisitos establecidos en el presente reglamento, pudiendo incluso disponer el aumento de los montos de subsidio establecidos en este reglamento, así como el otorgamiento de subsidios adicionales destinados a incorporar obras de mejoramiento del entorno. En estos casos, el SERVIU podrá disponer de recursos adicionales para atender los gastos que pudiere irrogar su traslado o erradicación a fin de emplazar el proyecto en los terrenos que ocupan, lo cual se aplicará asimismo cuando el SERVIU actúe como EGIS.
 
-En caso que el beneficiario o uno o más integrantes del grupo familiar estuviere afectado por discapacidad acreditada mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN), de conformidad con el artículo 13 de la Ley N° 20.422, Ley de Integración Social de las Personas con Discapacidad, los montos de subsidio indicados en la tabla precedente se adicionarán hasta con 20 Unidades de Fomento, siempre que al momento del pago del subsidio se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Las obras adicionales que financiará este mayor monto de subsidio deberán estar consideradas en el proyecto habitacional.
+En caso que el beneficiario o uno o más integrantes del grupo familiar estuviere afectado por discapacidad acreditada mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN), de conformidad con el artículo 13 de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad, los montos de subsidio indicados en la tabla precedente se adicionarán hasta con 20 Unidades de Fomento, siempre que al momento del pago del subsidio se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante. Las obras adicionales que financiará este mayor monto de subsidio deberán estar consideradas en el proyecto habitacional.
 
 CAPÍTULO PRIMERO:
 
@@ -174,7 +186,7 @@ No podrán acceder a este subsidio las personas que se encuentren en alguna de l
 
 2. El postulante que presente las características de familia unipersonal. Se exceptúan de esta limitante:
 
-a) Las personas con discapacidad que acrediten tal condición mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN) de conformidad con el artículo 13 de la Ley N° 20.422, Ley de Integración Social de las Personas con Discapacidad
+a) Las personas con discapacidad que acrediten tal condición mediante certificado expedido por la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN) de conformidad con el artículo 13 de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
 b) Los adultos mayores de 60 años de edad, considerando para estos efectos a las personas que cumplan esa edad durante el año calendario en el curso del cual se hubiere ingresado el proyecto al Banco o a la fecha de prórroga de la vigencia del Certificado de Calificación.
 
@@ -208,7 +220,7 @@ g) Cuando el postulante hubiere anulado su matrimonio o se hubiere divorciado y 
 
 h) Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de ésta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
 
-i) Cuando el postulante casado bajo el régimen de sociedad conyugal se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
+i) Cuando el postulante se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
 
 j) Cuando el postulante al Subsidio regulado por el Capítulo Tercero del presente reglamento, haya sido asignatario de una infraestructura sanitaria a través de Programa de Mejoramiento de Barrios.
 
@@ -554,7 +566,7 @@ Cualquiera sea el tipo de proyecto que se presente, deberán adjuntarse los sigu
 
 a) Formulario de Incorporación al Banco, tanto del proyecto como de cada una de las familias que integran el grupo, que contenga toda la información solicitada, firmado por el representante legal de la EGIS, por el representante del grupo y por el representante de cada familia del grupo.
 
-b) Certificado que acredite la discapacidad expedido por el COMPIN (Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud), de conformidad con el artículo 13 de la Ley N° 20.422, Ley de Integración Social de las Personas con Discapacidad
+b) Certificado que acredite la discapacidad expedido por el COMPIN (Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud), de conformidad con el artículo 13 de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
 c) Certificado que acredite la condición de indígena, en su caso, emitido por la CONADI, salvo que la persona tenga, a lo menos, un apellido indígena.
 
@@ -565,6 +577,8 @@ e) Certificación que acredite los aportes enterados por terceros o promesa de d
 f) En caso que sea una Municipalidad la que compromete aportes adicionales fundamentales para el desarrollo del proyecto, deberá acompañarse copia del acta de la sesión del Concejo en que conste tal compromiso y acreditarse la disponibilidad de los recursos respectivos en el presupuesto municipal.
 
 g) Proyecto de Asistencia Técnica y Social.
+
+h) Declaración Jurada de Postulación, acerca de su condición de vulnerabilidad y de la necesidad de la obtención del subsidio para acceder a una vivienda, de la identificación de su grupo familiar, de la veracidad de la información proporcionada y de la obligación que asume de que la vivienda que se adquiera mediante este subsidio, será habitada por el beneficiario del subsidio y/o su grupo familiar.
 
 ### Párrafo 2° — . Antecedentes para Proyectos de Construcción
 
@@ -1002,7 +1016,7 @@ a) Acompañar copia del contrato de construcción firmado entre la EGIS, el o lo
 
 b) La boleta bancaria de garantía que cauciona el oportuno y fiel cumplimiento del contrato, a que se refiere el inciso cuarto del artículo 25 de este reglamento.
 
-c) Para proyectos de Construcción en Nuevos Terrenos, Proyectos de Integración Social, Construcción Colectiva en Zonas Rurales y Alteración o Reparación de Inmuebles, se deberá acreditar la constitución e inscripción en el Conservador de Bienes Raíces, de la hipoteca y prohibición de enajenar a favor del Serviu. Para el alzamiento de estos gravámenes a fin de proceder a la transferencia de las viviendas a los beneficiarios, se deberá caucionar el total de los recursos anticipados, mediante una boleta bancaria de garantía por el mismo monto, extendida en los mismos términos señalados en el inciso cuarto del artículo 25.
+c) Para proyectos de Construcción en Nuevos Terrenos, Proyectos de Integración Social, Construcción Colectiva en Zonas Rurales y Alteración o Reparación de Inmuebles, se deberá acreditar la constitución e inscripción en el Conservador de Bienes Raíces, de la hipoteca y prohibición de enajenar a favor del Serviu. Para el alzamiento de estos gravámenes a fin de proceder a la transferencia de las viviendas a los beneficiarios, se deberá caucionar el total de los recursos anticipados, mediante una boleta bancaria de garantía por el mismo monto, extendida en los mismos términos señalados en el inciso cuarto del artículo 25. Lo exigido en esta letra no regirá tratándose de proyectos a emplazarse en terrenos fiscales acreditados conforme a lo establecido en el inciso décimo tercero del artículo 15 del presente reglamento.
 
 d) Para proyectos de Densificación Predial y de Construcción en Sitio Propio, se deberá acreditar que el terreno en el que se emplazará la vivienda respectiva, está afecto a prohibición de enajenar a favor del Serviu, inscrita en el Conservador de Bienes Raíces, la que será alzada al constituirse la prohibición a que se refiere el artículo 55 de este reglamento.
 
@@ -1036,13 +1050,13 @@ Para proceder al pago el SERVIU exigirá la presentación de los documentos que 
 
 . Copia de la respectiva escritura de compraventa con constancia de la inscripción de dominio a favor del beneficiario, o de su cónyuge, o copia de la inscripción de dominio respectiva, siempre que en ésta conste el precio de la compraventa y su forma de pago.
 
-. Copia de inscripción de la prohibición de enajenar a favor del SERVIU, durante 5 años contados desde la fecha de su inscripción en el Conservador de Bienes Raíces.
+. Copia de la inscripción de la prohibición de enajenar a favor del SERVIU durante 5 años contados desde la fecha de su inscripción en el Conservador de Bienes Raíces y de las prohibiciones que se señalan en el artículo 1º de este reglamento.
 
 . Certificado de Recepción Municipal, el que no será exigible si consta en la respectiva escritura de compraventa.
 
 2.- Si el subsidio se hubiere aplicado al pago del precio de la construcción de la vivienda, el Serviu pagará el subsidio, deducido el monto de los giros efectuados por concepto de anticipos a cuenta del pago de éste, contra la presentación de los siguientes documentos:
 
-. Copia de inscripción de la prohibición de enajenar a favor del SERVIU, durante 5 años contados desde la fecha de su inscripción en el Conservador de Bienes Raíces. Se exceptúan de este requisito los titulares de dominio o goce de tierras indígenas, quienes deberán acompañar declaración jurada en el sentido de conocer las prohibiciones contenidas en el artículo 13 de la Ley Nº 19.253, y en el caso de titulares del derecho real de uso, de conocer las prohibiciones que afectan al usuario contenidas en el artículo 819 del Código Civil.
+. Copia de la inscripción de la prohibición de enajenar a favor del SERVIU durante 5 años contados desde la fecha de su inscripción en el Conservador de Bienes Raíces y de las prohibiciones que se señalan en el artículo 1º de este reglamento. Se exceptúan de este requisito los titulares de dominio o goce de tierras indígenas, quienes deberán acompañar declaración jurada en el sentido de conocer las prohibiciones contenidas en el artículo 13 de la Ley Nº 19.253, y en el caso de titulares del derecho real de uso, de conocer las prohibiciones que afectan al usuario contenidas en el artículo 819 del Código Civil.
 
 . Copia de la inscripción de dominio del inmueble en que se hubiere construido la vivienda, con certificado de vigencia a favor del beneficiario.
 
@@ -1156,7 +1170,7 @@ Si se trata de una familia monoparental le corresponderán 10 puntos como postul
 
 Le corresponderá un punto por cada punto porcentual de integrantes de su grupo familiar acreditado, de 15 o menos años de edad, considerando los que los cumplen durante el año calendario del llamado a concurso.
 
-Le corresponderá un punto por cada punto porcentual de integrantes de su grupo familiar acreditado, afectado por alguna discapacidad, debidamente acreditada mediante certificado de la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN), de conformidad con el artículo 13° de la Ley N° 20.422, Ley de Integración Social de las Personas con Discapacidad.
+Le corresponderá un punto por cada punto porcentual de integrantes de su grupo familiar acreditado, afectado por alguna discapacidad, debidamente acreditada mediante certificado de la Comisión de Medicina Preventiva e Invalidez de los Servicios de Salud (COMPIN), de conformidad con el artículo 13° de la Ley Nº 20.422, sobre Igualdad de Oportunidades e Inclusión Social de Personas con Discapacidad.
 
 Le corresponderá un punto por cada punto porcentual de integrantes de su grupo familiar acreditado de 60 o más años de edad, considerando los que los cumplen durante el año calendario del llamado a concurso.
 
