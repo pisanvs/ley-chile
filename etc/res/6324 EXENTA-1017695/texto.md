@@ -20,7 +20,7 @@ Núm. 6.324 exenta.- Visto:
 
 Resolución:
 
-1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del Capítulo Segundo del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Calificación de la Comisión Técnica Evaluadora hasta el día 9 de noviembre de 2010. El proceso de habilidades en el sistema RUKAN se desarrollará los días 12 y 13 de noviembre.
+1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario, de Mejoramiento de la Vivienda o de Ampliación de la Vivienda, de conformidad con las disposiciones del Capítulo Segundo del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Calificación de la Comisión Técnica Evaluadora hasta el día 9 de noviembre de 2010. El proceso de habilidades en el sistema RUKAN se desarrollará entre los días 12 y 15 de Noviembre.
 
 2. Los recursos asignados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución se distribuyen regionalmente, según el siguiente cuadro:
 
