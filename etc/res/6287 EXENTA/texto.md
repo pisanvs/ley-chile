@@ -18,7 +18,7 @@ Núm. 6.287 exenta.- Visto:
 
 Resolución:
 
-1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Equipamiento Comunitario y/o Mejoramiento del Entorno; de Mejoramiento de la Vivienda; o de Ampliación de la Vivienda, de conformidad con las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Calificación de la Comisión Técnica Evaluadora hasta el día 8 de noviembre de 2010. El proceso de habilidades en el sistema RUKAN se desarrollará los días 9 y 10 de noviembre.
+1. Llámase a postulación nacional para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Equipamiento Comunitario y/o Mejoramiento del Entorno; de Mejoramiento de la Vivienda; o de Ampliación de la Vivienda, de conformidad con las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Calificación de la Comisión Técnica Evaluadora hasta el día 8 de noviembre de 2010. El proceso de habilidades en el sistema RUKAN se desarrollará entre los días 9 y 12 de Noviembre.
 
 2. Los recursos asignados por Región del país para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución se distribuyen regionalmente, según el siguiente cuadro:
 
@@ -34,7 +34,7 @@ ANTOFAGASTA 13.040
 
 ATACAMA 11.797
 
-COQUIMBO 50.342
+COQUIMBO 27.300
 
 VALPARAÍSO 22.222
 
@@ -56,7 +56,7 @@ MAGALLANES 10.471
 
 METROPOLITANA 130.773
 
-TOTAL 589.133
+TOTAL 566.091
 
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
