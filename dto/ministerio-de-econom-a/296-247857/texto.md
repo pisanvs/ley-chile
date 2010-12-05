@@ -134,7 +134,7 @@ La distribución establecida en la resolución a que se refiere el inciso primer
 
 #### Artículo 13
 
-Modificaciones en las unidades de asignación. En el caso del RAE por organización, la constitución o disolución de una organización de pescadores artesanales, así como las variaciones en el número de afiliados que por cualquier causa sufran las mismas, no alterarán la asignación realizada mediante la resolución de distribución a que se refiere el artículo anterior.
+Modificaciones en las unidades de asignación. En el caso del RAE por organización, la constitución o disolución de una organización de pescadores artesanales, así como las variaciones en el número de afiliados que por cualquier causa sufran las mismas, no alterarán la asignación realizada mediante la resolución de distribución a que se refiere el artículo anterior, salvo en los casos del artículo 14, incisos segundo y siguientes.
 
 En el evento de desafiliación de socios o de disolución de una organización, las capturas efectuadas seguirán imputándose a la cuota establecida para la respectiva organización u organizaciones según corresponda, en la resolución de distribución. En caso que exista un programa de administración de capturas aprobado conforme a los artículos 19 y 20, las capturas efectuadas por los socios que se desafilien durante la vigencia de la resolución de distribución serán imputadas por el Servicio Nacional de Pesca a la cuota asignada a la organización u organizaciones según corresponda, conforme a las reglas de distribución interna contempladas en el programa respectivo. Una vez agotada la cuota asignada conforme a la distribución interna el socio desafiliado deberá suspender sus actividades pesqueras extractivas.
 
@@ -143,6 +143,12 @@ Asimismo, no se alterará la asignación realizada mediante la resolución de di
 #### Artículo 14
 
 Comunicación de las variaciones. La resolución de distribución establecerá el período dentro del cual deberán comunicarse las variaciones que en el número de pescadores o embarcaciones experimenten las unidades de asignación, a fin de que ellas sean consideradas en la próxima distribución.
+
+Tratándose de regímenes de extracción establecidos por períodos superiores a un año, las organizaciones de pescadores constituidas a partir de la escisión de otra u otras sometidas a ese régimen, podrán solicitar su incorporación al respectivo régimen, comunicando su intención en el plazo señalado en el inciso precedente, y adjuntando los antecedentes previstos en los artículos 7°, inciso segundo, y 9°.
+
+En tal caso, la autoridad procederá a ajustar la cuota que corresponda a cada organización en la distribución de la fracción artesanal en proporción a la historia real de desembarque que corresponda a los miembros de las organizaciones involucradas.
+
+Asimismo, las reglas establecidas en los dos incisos anteriores se aplicarán a la o las organizaciones constituidas por pescadores artesanales que operen sobre la cuota residual de la misma región.".
 
 #### Artículo 15
 
