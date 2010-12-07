@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.622, de 1 de diciembre de 2010, de esta Subsecretaría, modifícase el numeral 1º de la resolución exenta Nº 62, modificada mediante resoluciones exentas Nº 1.676, Nº 1.807, Nº 3.221, Nº 3.450 y Nº 3.505, todas de 2010, de esta Subsecretaría, en el sentido de disminuir en 500 toneladas de Merluza común la asignación del Área Norte de la V Región e incrementar las asignaciones de las Áreas de la VII Región de la siguiente manera: 100 toneladas Norte 1, 30 toneladas Centro y 370 toneladas Sur.
+
+En consecuencia, la distribución de la fracción artesanal de la pesquería artesanal Merluza común de la IV, V, VI, VII y VIII Regiones, correspondiente al periodo enero-diciembre de 2010, expresadas en toneladas, conforme lo dispuesto en el numeral anterior, se efectuará en las áreas establecidas en el Régimen Artesanal de Extracción, de la manera señalada en la resolución extractada.
+
+Valparaíso, 1 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
