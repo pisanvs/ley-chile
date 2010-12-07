@@ -82,6 +82,14 @@ Coquimbo:
 
 * El sistema vial urbano que interconecta la Ruta 41 CH, en La Serena, con la Ruta 43, desde el límite urbano Oriente hasta Ruta 43; a través de Camino San Ramón.
 
+. El tramo urbano del by pass Pan de Azúcar, desde el límite urbano sur oriente a la Ruta D-35 (Avenida La Cantera).
+
+. La avenida Las Torres, desde la Ruta D-35 hasta la calle Mirador Norte.
+
+. La calle Mirador Norte, desde avenida Las Torres hasta la avenida Balmaceda.
+
+. La avenida Balmaceda, desde calle Mirador Norte hasta la Ruta D-403.
+
 4º.- Declárase Caminos Públicos en las áreas urbanas de las siguientes Capitales de Provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Ovalle:
