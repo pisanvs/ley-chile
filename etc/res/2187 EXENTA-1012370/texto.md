@@ -14,7 +14,27 @@ d) El D.S. N° 150, de Interior, de 2010, que señala como zona afectada por la 
 
 Resolución:
 
-1.- Llámase a partir del 12 de abril y hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N° 332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Bío Bío, la Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados hasta la selección del mes de junio, éstos deben estar calificados hasta el último día hábil de cada mes, y en las selecciones posteriores, deben estar calificados hasta el día 13 del mes siguiente.
+1.- Llámase a partir del 12 de abril y hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N° 332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Bío Bío, la Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados, éstos deberán estar calificados en las siguientes fechas:
+
+- Hasta la selección del mes de junio, el último día
+
+hábil de cada mes.
+
+- Hasta la selección de septiembre, el día 13 del mes
+
+siguiente.
+
+- Los proyectos presentados a la selección del mes de
+
+octubre, hasta el día 18 de noviembre.
+
+- Los proyectos presentados a la selección del mes de
+
+noviembre, hasta el día 10 de diciembre.
+
+- Los proyectos presentados a la selección del mes de
+
+diciembre, hasta el día 30 de diciembre.
 
 2. Para esta postulación, sólo se podrán presentar proyectos del Título II en sus modalidades de Habitabilidad de la Vivienda, de Seguridad de la Vivienda o de Mantención de la Vivienda, estos últimos sólo en lo referido a reparación o reposición de cierros perimetrales.
 
