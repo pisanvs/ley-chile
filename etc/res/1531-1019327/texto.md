@@ -25,3 +25,23 @@ Vértice C Lat. 45º01'10,16" S. Long. 73º43'07,55" W.
 Vértice C Lat. 45º01'06,53" S. Long. 73º43'15,12" W.
 
 Santiago, 27 de octubre de 2010.- Por orden del Sr. Subsecretario para las Fuerzas Armadas, Felipe García-Huidobro Correa, Subjefe (M).
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División Jurídica
+
+Cursa con alcance la resolución Nº 1.531, de 2010, de la Subsecretaría para las Fuerzas Armadas
+
+Nº 56.190.- Santiago, 23 de septiembre de 2010.-
+
+Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se otorga la concesión de acuicultura de porción de agua y fondo de mar que indica, por encontrarse ajustado a derecho, pero cumple con hacer presente que los vértices señalados en el Nº 2 del acto en estudio, con las letras A, B, C y C, deben entenderse referidos a los vértices A, B, C y D, respectivamente, según consta de los antecedentes adjuntos.
+
+Con el alcance que antecede se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Ud., Ramiro Mendoza Zúñiga, Contralor General de la República.
+
+Al señor
+
+Subsecretario para las Fuerzas Armadas
+
+Presente.
