@@ -10,8 +10,6 @@ Resolución:
 
 2º.- El monto de Unidades de Fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del D.S. Nº 40 (V. y U.), de 2004, se distribuirán regionalmente, por alternativa de postulación y por Tramo cuando corresponda, según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante Resolución, en caso de agotarse los recursos para una alternativa, quedando excedentes en otras:
 
-.
-
 3º.- Para los efectos de determinar el número de Certificados de Subsidio susceptibles de financiar, tratándose de postulación al Título I, se considerarán los valores promedios que a continuación se indican, sin perjuicio que para su aplicación deba determinarse el valor real de pago que resulte de aplicar la fórmula correspondiente, según lo indicado en el artículo 26 del D.S. Nº 40 (V. y U.), de 2004, o la establecida en el artículo 4° transitorio del D.S. N° 40 aludido, según corresponda:
 
 .
