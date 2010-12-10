@@ -28,7 +28,7 @@ Se considera envío de correspondencia a los siguientes objetos: cartas, tarjeta
 
 #### Artículo 4°
 
-Son encomiendas aquellos paquetes que contienen cualquier tipo de producto, mercaderías u objetos permitidos que se expiden cerrados cuyo embalaje y cierre impide que se atente contra su contenido. Su peso máximo es de 10 kgs.
+Son encomiendas aquellos paquetes que contienen cualquier tipo de producto, mercaderías u objetos permitidos que se expiden cerrados, cuyo embalaje y cierre impide que se atente contra su contenido. El peso máximo de las encomiendas y similares es de 50 kilos.
 
 #### Artículo 5°
 
