@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.658, de 2 de diciembre de 2010, de esta Subsecretaría, déjese sin efecto la resolución exenta Nº 2.026 de 2010, de esta Subsecretaría, que declaró la caducidad total de las resoluciones exentas Nº 4.030 de 2005 y Nº 820 de 2008, ambas de esta Subsecretaría, que autorizaron don Giovanni Arancibia Fuentes para desarrollar actividades pesqueras extractivas con la nave "Isla Tabón", en virtud de haberse acreditado el pago de la patente única pesquera correspondiente al año 2010.
+
+Valparaíso, 2 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
