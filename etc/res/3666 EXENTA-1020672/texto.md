@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.666, de 3 de diciembre de 2010, de esta Subsecretaría, recházanse las solicitudes Nº 207122056, Nº 207111125, Nº 207111149, Nº 204103270, Nº 204103189, Nº 206103272, Nº 205111369, Nº 208111251, Nº 207106013, Nº 208103085, Nº 207106012, Nº 208103030, Nº 208106082, Nº 206106086, Nº 208106049, Nº 208106033, Nº 208103031, Nº 208106076, Nº 208106085, Nº 208106057, Nº 208106087, Nº 206106097 y Nº 207121317, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
