@@ -1,0 +1,13 @@
+NOMBRA PRESIDENTE TITULAR Y SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE SANTIAGO
+
+Núm. 1.200.- Santiago, 28 de octubre de 2010.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; oficio Nº 1.698-2009, de la I. Corte de Apelaciones de Santiago, de 15 de diciembre de 2009; oficio Nº 1.701-2009, de la I. Corte de Apelaciones de Santiago, de 15 de diciembre de 2009; el oficio Ord. DJU14.00 Nº 134, del Jefe del Departamento Jurídico del Servicio de Impuestos Internos; el oficio ordinario Nº 1.834, de 14 de octubre de 2010, del Director del Servicio de Impuestos Internos; el Nº 25 del numeral VI del artículo primero del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600, de 30 de octubre de 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República,
+
+Decreto:
+
+1º.- Déjase sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago, la designación recaída en la Ministra doña Gabriela Pérez Paredes, RUT Nº 3.728.580-3, como Presidente Titular, efectuada por decreto supremo Nº 1.038, del Ministerio de Hacienda, de 15 de julio de 1999, publicado en el Diario Oficial el 2 de septiembre del mismo año, y nómbrase en su reemplazo en el referido Tribunal al Ministro don Jorge Dahm Oyarzún, RUT Nº 5.396.362-5, efectuada por decreto supremo Nº 1.038, del Ministerio de Hacienda, de 15 de julio de 1999.
+
+2.- Déjase sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Santiago, la designación recaída en el Ministro don Jorge Gonzalo Dahm Oyarzún, RUT Nº 5.396.362-5, como Presidente Suplente, publicada en el Diario Oficial el 2 de septiembre del mismo año, y nómbrase en su reemplazo en el referido Tribunal, al Ministro don Juan Cristóbal Mera Muñoz, RUT Nº8.851.987-6.
+
+Tómese razón, regístrese, comuníquese y publíquese.- Por orden del Presidente de la República.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda Atte. a usted, Rodrigo Álvarez Zenteno, Subsecretario de Hacienda.
