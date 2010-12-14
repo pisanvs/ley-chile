@@ -24,7 +24,7 @@ Resolución:
 
 1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Segundo, para la adquisición de viviendas construidas, en las Regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
 
-2. Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional del SERVIU, adjuntando en los casos que corresponda los antecedentes respectivos. El periodo de postulación se realizará durante los 15 días anteriores al proceso de selección, que se realizará el último día hábil de cada mes, a partir del mes de mayo y hasta al mes de noviembre del año 2010.
+2. Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional del SERVIU, adjuntando en los casos que corresponda los antecedentes respectivos. El periodo de postulación se realizará durante los 15 días anteriores al proceso de selección, que se realizará el último día hábil de cada mes, a partir del mes de mayo y hasta al mes de diciembre del año 2010.
 
 3. La selección de beneficiarios se realizará conforme al orden de prelación que determine el puntaje obtenido por cada postulante de acuerdo a lo establecido en el artículo 61 del D.S. N° 174 (V. y U.), de 2005, hasta enterar el total de los recursos disponibles para este llamado especial para cada región participante, según se establece en el punto 5 de la presente resolución.
 
@@ -213,6 +213,32 @@ la que podrá ser distinta de la región
 donde resultaron damnificados o en
 
 la cual están postulando.
+
+k) El subsidio que se otorgue a las familias
+
+seleccionadas del presente llamado, será
+
+destinado a financiar la adquisición de una
+
+vivienda nueva, existente o aquella que forme
+
+parte de un proyecto calificado por el Serviu
+
+respectivo, y que cuente con viviendas
+
+disponibles para efectuar operaciones de
+
+compraventa, según la resolución exenta 2.965
+
+(V. y U.), del año 2010. Los montos de subsidio
+
+a otorgar serán los correspondientes a la comuna
+
+y modalidad de aplicación, según vivienda que se
+
+adquiera o el proyecto de construcción a que se
+
+adscriba.
 
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
