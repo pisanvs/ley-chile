@@ -16,6 +16,8 @@ Resolución:
 
 2. Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional en el SERVIU, adjuntando en los casos que corresponda los antecedentes respectivos. El periodo de postulación se realizará en días hábiles, a contar del 22 de noviembre hasta el día 13 de diciembre inclusive, directamente en las oficinas que el SERVIU de la Región Metropolitana dispondrá para tal efecto.
 
+El SERVIU podrá postular hasta el día 22 de diciembre inclusive a las personas a las cuales se les otorgó un número de atención durante el período establecido en el inciso anterior.
+
 3. La selección de beneficiarios se realizará conforme al orden de prelación que determine el puntaje obtenido por cada postulante de acuerdo a lo establecido en el Artículo 61 del D.S. N° 174 (V. y U.), de 2005, hasta enterar el total de los recursos disponibles para este llamado para cada región participante, según se establece en el punto 5 de la presente resolución.
 
 4. Los postulantes que hayan participado en el llamado a postulación dispuesto en la resolución citada en el visto c), que no hayan resultado seleccionados y que participen de este llamado a concurso en condiciones especiales, obtendrán 25 puntos adicionales a los que reglamentariamente les corresponde, según lo indicado en el resuelvo 3.
