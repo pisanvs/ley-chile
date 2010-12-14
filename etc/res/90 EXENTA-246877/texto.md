@@ -14,19 +14,15 @@ Resuelvo:
 
 #### Artículo primero
 
-Autorízase de conformidad a lo dispuesto en el número 5º de la resolución Nº 65, de 2000, del Ministerio de Transportes y Telecomunicaciones, al taller que a continuación se individualiza para adecuar vehículos al uso de gas Licuado de Petróleo como combustible:
+Autorízase al siguiente taller para adecuar vehículos al uso de gas licuado de petróleo como combustible:
 
-Empresa Nombre del Dirección del
+Empresa Habilitada Nombre del Taller Dirección Ciudad
 
-Taller Ciudad
+del Taller
 
-Habilitada taller
+AGS Automotive Gas Padre Orellana
 
-AGS Automotive Italgas
-
-S.A. Arauco Nº 592 Santiago
-
-Gas Systems S.A.
+Systems S.A. Italgas S.A. N° 1830 Santiago
 
 #### Artículo segundo
 
