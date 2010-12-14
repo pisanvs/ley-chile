@@ -866,7 +866,9 @@ El Certificado de Aeronavegabilidad para aeronaves civiles matriculadas en Chile
 
 2.12.2 Certificados de Aeronavegabilidad Especiales. Son Certificados de Aeronavegabilidad Especiales aquellos emitidos para aeronaves que poseen Certificado de Tipo en las Categorías restringida, para aeronaves del Tipo Experimental y para los Permisos Especiales de Vuelo.
 
-2.12.3 Certificado de Aeronavegabilidad de Exportación. A solicitud del interesado la DGAC podrá emitir un Certificado de Aeronavegabilidad de Exportación, para un producto Clase I (Productos Aeronáuticos), registrados en Chile que no constituye una autorización para operar la aeronave y que acreditará el cumplimiento de requisitos de aeronavegabilidad, de acuerdo a la normativa vigente en Chile, pudiendo incluirse limitaciones o condiciones especiales propias del producto a que se refiere y las del país al cual se exporta.
+2.12.3 Certificado de Aeronavegabilidad de Exportación. A solicitud del interesado la DGAC podrá emitir un Certificado de Aeronavegabilidad de Exportación, para un producto Clase I (Productos Aeronáuticos), registrados en Chile que no constituye una autorización para operar la aeronave y que acreditará el cumplimiento de requisitos de aeronavegabilidad, de acuerdo a la normativa vigente en Chile, pudiendo incluirselimitaciones o condiciones especiales propias del producto a que se refiere y las del país al cual se exporta.
+
+2.12.4 Certificado de Aeronavegabilidad especial en la categoría deportiva-ligera (LSA).
 
 2.13 Enmiendas o Modificaciones.
 
