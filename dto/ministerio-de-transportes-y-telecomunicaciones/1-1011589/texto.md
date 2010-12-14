@@ -132,6 +132,12 @@ Sólo tendrán derecho a percibir dineros provenientes del mecanismo de subsidio
 
 Para efectos del primer año de aplicación del subsidio contemplado en el presente reglamento y conforme al procedimiento que éste establece, los propietarios al 31 de mayo de 2010 de buses, minibuses y trolebuses, urbanos y rurales, que presten servicios de transporte público remunerado de pasajeros en las zonas geográficas a que se refiere el artículo 1°, y que tengan inscripción vigente en el Registro, al 31 de marzo del año 2010, podrán solicitar un subsidio anual por vehículo, igual al monto establecido en conformidad a los artículos 3° y 4° de este reglamento. Para estos efectos, no se considerarán los buses, trolebuses y minibuses con inscripción vigente no adscritos a algún servicio en los 4 meses anteriores al 31 de marzo del año 2010.
 
+#### Artículo Segundo
+
+Transitorio
+
+Durante el primer año de aplicación del subsidio, el propietario, el representante legal o el mandatario debidamente habilitado, en su caso, podrán presentar la solicitud de subsidio referida en el artículo 6 del presente reglamento hasta el 31 de diciembre de 2010.
+
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Andrés Velasco Brañes, Ministro de Hacienda.
 
 Lo que transcribo para su conocimiento.- Saluda a Ud., Gloria Montecinos L., Jefa Depto. Administrativo.
