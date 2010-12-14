@@ -1,0 +1,19 @@
+PRORROGA DE POSTERGACIÓN DE PERMISOS EN ÁREA QUE INDICA EN COMUNA DE SANTIAGO
+
+Núm. 2.486 exenta.- Santiago, 6 de diciembre de 2010.- Vistos:
+
+1. El decreto Nº 2.997 Secc. 2ª de fecha 8 de septiembre de 2010, del Sr. Alcalde de la Ilustre Municipalidad de Santiago, publicado en el Diario Oficial de fecha 13 de septiembre de 2010, que postergó por un plazo de tres (3) meses, a contar de la fecha de publicación de este decreto en el Diario Oficial, los permisos de construcciones para edificaciones de más de cuatro (4) pisos en los Sectores 3 y 4 Barrio Universitario y Expansión del Centro, de acuerdo a lo graficado en el plano Nº 165, escala 1:10.000, elaborado por la Asesoría Urbana de la Ilustrísima Municipalidad de Santiago, y que forma parte del decreto ya citado.
+
+2. El Ord. Nº 2.497, de fecha 15 de noviembre de 2010, del Sr. Alcalde de la Ilustre Municipalidad de Santiago, por el que solicita se prorrogue por un plazo de 3 meses adicionales la prórroga de postergación selectiva de permisos de construcciones, fundando su petición en la necesidad de proteger las áreas e inmuebles en los cuales se estudia un cambio normativo, mediante la reformulación de las normas de densidades, tanto constructivas como habitacionales, así como las de protección de las edificaciones y zonas de valor patrimonial cultural, a través de una modificación al Plan Regulador Comunal (PRC) a fin de evitar la proliferación de permisos de construcción que se contrapongan al espíritu de la nueva norma que se está proponiendo para los sectores involucrados. Se solicita continuar la postergación de permisos en forma selectiva, para evitar solamente aquellos proyectos que se contradigan con las nuevas condiciones técnico urbanísticas, contenidas en el proyecto de modificación al PRC de Santiago, atendido el hecho que éste se encuentra en las fases finales del proceso de aprobación, ya evaluado en el Sistema de Evaluación de Impacto Ambiental por la Comisión Nacional del Medio Ambiente, Región Metropolitana.
+
+3. El Memorándum Nº 024-0314/2010, de fecha 23 de noviembre de 2010, del Jefe del Departamento de Desarrollo Urbano e Infraestructura de esta Secretaría Ministerial, en el cual se pronuncia a favor de acoger la prórroga solicitada.
+
+4. Lo dispuesto en el artículo 117 de la Ley General de Urbanismo y Construcciones, lo prescrito en la ley 16.391, en el D.L. Nº 1.305, de 1975 (V. y U.) y en el artículo 1.4.18. de la Ordenanza General de Urbanismo y Construcciones y las facultades que me confiere el D.S. Nº 397, de 1977 (V. y U.), el D.S. Nº 46 (V. y U.) de 2010, de (V. y U.), y en la resolución Nº 1.600 de 2008, de la Contraloría General de la República,
+
+Resuelvo:
+
+1. Prorrógase, por un plazo máximo de 3 meses, a contar del plazo de expiración de la postergación de permisos vigente, dispuesta por decreto alcaldicio Nº 754 Secc. 2ª de fecha 8 de septiembre de 2010, publicado en el Diario Oficial, de fecha 13 de septiembre de 2010, esto es, se prorroga a contar del día 13 de diciembre de 2010, la postergación de los permisos de construcciones para edificaciones de más de cuatro (4) pisos en los Sectores 3 y 4 Barrio Universitario y Expansión del Centro, de acuerdo a lo graficado en el plano Nº 165, escala 1:10.000, elaborado por la Asesoría Urbana de la Ilustrísima Municipalidad de Santiago y que forma parte del decreto ya citado.
+
+2. La presente resolución deberá ser publicada en el Diario Oficial y en uno de los diarios de mayor circulación de la comuna.
+
+Anótese, comuníquese y publíquese.- Marisol Rojas Schwemmer, Secretaria Ministerial Metropolitana de Vivienda y Urbanismo.
