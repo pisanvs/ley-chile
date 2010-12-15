@@ -1,0 +1,9 @@
+Por resolución exenta N° 3.669, de 7 de diciembre de 2010, de esta Subsecretaría, modifícase la resolución exenta N° 831 de 2010, de esta Subsecretaría, y sus modificaciones posteriores, que estableció la distribución de las fracciones artesanales de las pesquerías artesanales de Anchoveta y Sardina común en la VIII Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de incorporar el siguiente numeral 8.-, nuevo:
+
+"8-. Fíjase el día 23 de diciembre de 2010, inclusive, como plazo fatal para que todas las organizaciones de pescadores artesanales sometidas al Régimen Artesanal de Extracción establecido mediante decreto exento N° 332 de 2009, modificado mediante decreto exento N° 452 de 2009, ambos del Ministerio de Economía, Fomento y Reconstrucción, comuniquen por escrito a esta Subsecretaría las variaciones o modificaciones que en el número de pescadores o embarcaciones experimentarán para el año 2011.
+
+Para tales efectos, las organizaciones de pescadores artesanales antes indicadas deberán remitir una carta firmada por la directiva respectiva, adjuntando el listado oficial de los afiliados inscritos y de sus embarcaciones, en caso de los armadores, que participarán por la respectiva organización en el Régimen para el año 2011.
+
+Asimismo, y dentro del mismo plazo indicado en el inciso primero del presente numeral, las organizaciones de pescadores artesanales que no se encuentren sometidas al Régimen y que desearen incorporarse al mismo deberán comunicar por escrito a la Subsecretaría su intención en tal sentido, mediante carta firmada por la directiva respectiva y adjuntando al efecto todos los antecedentes a que se refieren los artículos 7 inciso 2° y 9 del D.S. N° 296 de 2004, modificado mediante D.S. N° 223 de 2010, antes individualizados.".
+
+Valparaíso, 7 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
