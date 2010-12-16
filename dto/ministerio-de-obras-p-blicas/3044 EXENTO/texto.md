@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3044 de fecha 24 de noviembre de 2010, se expropió el lote de terreno N° 3-A, superficie 21.393 m2, rol N° 103-38, comuna de Freirina, para la obra "Construcción Variante Ruta C-46, Freirina, Provincia de Huasco, Región de Atacama" y se acordó el valor de la indemnización con su propietario INÉS PASTORIZA CALLEJAS ALDAY, ascendente a la cantidad de $4.979.997.-
+
+Fiscal del Ministerio de Obras Públicas.
