@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3017 de 23 de noviembre del 2010, se expropió el lote de terreno Nº79-A, superficie 5.221 m2., Rol Nº131-9, comuna de Vichuquén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTEN VICHUQUEN TRAMO KM. 0,000000 AL KM. 15,372989" Comunas de Licantén y Vichuquén, Provincia de Curicó VII Región, y se acordó el valor de indemnización con su propietario ÁNGEL GABRIEL CALQUÍN GAMBOA Y OTROS, ascendente a la cantidad de $11.083.733.-
+
+Fiscal del Ministerio de Obras Públicas.
