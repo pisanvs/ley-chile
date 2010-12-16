@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2924, de 19 de noviembre de 2010, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento MOP Nº371, de 30 de marzo de 2010, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización, del lote de terreno Nº9, expropiado con motivo de la obra "Construcción Variante Ruta C-46 Freirina Provincia de Huasco, Región de Atacama". Consígnese judicialmente el monto provisional de la indemnización, fijada por la Comisión de Peritos, con fecha 07 de enero de 2009, fijó el monto de la indemnización provisional en la cantidad de $35.419.600.
+
+Fiscal del Ministerio de Obras Públicas.
