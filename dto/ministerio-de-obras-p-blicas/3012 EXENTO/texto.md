@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3012 de fecha 23 de noviembre de 2010, se expropiaron los lotes de terreno N°s 87, 89, 90 y 91, superficies 3.050, 423, 2.134 y 749 m2 respectivamente, rol de avalúo Nº1182-36, Comuna de Ancud para la obra "Mejoramiento Ruta 5 W15 175, Sector Ruta 5 Pumanzano, Camino Ruta 5 Pumanzano", Provincia de Chiloé y se acordó el valor de la indemnización con su propietario AGRICOLA NESTOR KEHSLER HEEREN E.I.R.L., ascendente a la cantidad de $2.238.867.-
+
+Fiscal del Ministerio de Obras Públicas.
