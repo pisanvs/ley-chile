@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3009 de 23 de noviembre de 2010, se expropió el lote de terreno N° 12, superficie 197 m2, rol de Avalúo 187-55, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 0,00000 A KM. 6,52000, REGIÓN DEL BÍO BÍO", y se acordó el valor de la indemnización con su propietaria LUCRECIA MENDOZA VALDEBENITO, ascendente a la cantidad de $1.723.395.-
+
+Fiscal del Ministerio de Obras Públicas.
