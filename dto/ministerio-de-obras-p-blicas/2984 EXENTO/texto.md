@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº2984, de 19 de noviembre de 2010, se dejó sin efecto el decreto exento MOP Nº1159, de 27 de agosto de 2001, que ordenaba la expropiación del lote de terreno Nº14, para la obra "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Tramo 18C. Km. 105.989,95 a Km. 109.300,40 ", debido a que la expropiación se determinó como improcedente, por tratarse el lote Nº14 expropiado de un bien nacional de uso público.
+
+Fiscal del Ministerio de Obras Públicas.
