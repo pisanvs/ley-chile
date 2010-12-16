@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3030 de 23 de noviembre de 2010, se expropió el lote de terreno N° 112, superficie 18 m2, rol de Avalúo 1188-57, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130, REGIÓN DEL BÍO BÍO ", y se acordó el valor de la indemnización con su propietario BERNARDO GALLEGOS BURGOS, ascendente a la cantidad de $278.206.-
+
+Fiscal del Ministerio de Obras Públicas.
