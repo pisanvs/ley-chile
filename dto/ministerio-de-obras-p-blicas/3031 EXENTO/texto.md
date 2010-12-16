@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3031 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 16-A, superficie 459 m2, rol N° 509-341, comuna de Copiapó, para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By-Pass a Copiapó), Región de Atacama" y se acordó el valor de la indemnización con su propietario INMOBILIARIA E INVERSIONES ACUARIO LIMITADA, ascendente a la cantidad de $967.324.-
+
+Fiscal del Ministerio de Obras Públicas.
