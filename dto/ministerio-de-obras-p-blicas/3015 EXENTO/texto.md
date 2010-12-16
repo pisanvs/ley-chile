@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3015 de fecha 23 de noviembre de 2010, se expropiaron los lotes de terreno N°s 3 y 4, superficies 15 y 27 m2 respectivamente, rol de avalúo Nº2617-2, comuna de Valdivia, para la obra "Camino Reposición Ruta 207, Sector Cruce Longitudinal (Paillaco) Valdivia, tramo Km. 28,81000 al Km. 43,93340, Provincia de Valdivia, XIV Región" y se acordó el valor de la indemnización con su propietario MARCELA ALEJANDRA CÁRDENAS BENAVIDES, ascendente a la cantidad de $5.729.083.-
+
+Fiscal del Ministerio de Obras Públicas.
