@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3018 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 91, superficie 170 m2, rol de avalúo Nº2568-16, comuna de Valdivia, para la obra "Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 Km. 3,59831, Provincia de Valdivia, XIV Región. Tramo 3" y se acordó el valor de la indemnización con su propietario VICTOR HUGO TORRES RIVERA, ascendente a la cantidad de $12.574.094.-
+
+Fiscal del Ministerio de Obras Públicas.
