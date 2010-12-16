@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2959, de 19 de noviembre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°1, para la obra: "HABILITACIÓN COSTANERA RÍO LIMARÍ, OVALLE", Provincia de LIMARÍ, que figura a nombre de BOZO LORCA SAMUEL F, rol de avalúo 326-107, Comuna de OVALLE, IV Región de Coquimbo, superficie 651 m2. La Comisión de Peritos el 18 de agosto de 2010, fijó el monto de la indemnización provisional en la cantidad de $2.703.000.- para el lote N°1. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
