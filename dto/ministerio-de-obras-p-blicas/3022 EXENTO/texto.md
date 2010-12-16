@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3022 de 23 de noviembre de 2010, se expropió el lote de terreno N° 25, superficie 187 m2., rol de Avalúo N° 165-122, comuna de Yerbas Buenas, para la obra "CAMINO MEJORAMIENTO RUTA L-25, S: CR. RUTA L-11 CR. RUTA L-19 (ESPERANZA) KM. 0,00000 AL KM. 11,28600", COMUNAS YERBAS BUENAS, SAN JAVIER, VILLA ALEGRE, PROVINCIA LINARES, VII REGIÓN y se acordó el valor de la indemnización con su propietaria MÓNICA DE LAS MERCEDES JIMÉNEZ ALARCÓN, ascendente a la cantidad de $833.536.-
+
+Fiscal del Ministerio de Obras Públicas.
