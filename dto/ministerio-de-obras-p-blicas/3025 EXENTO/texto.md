@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3025 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 6, superficie 400,98 m2, rol N° 5074-429, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas Fuerte Bulnes, Sector Río Amarillo Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y la Antártica Chilena" y se acordó el valor de la indemnización con su propietario BEATRIZ DE LOURDES MALDONADO QUENTE, ascendente a la cantidad de $612.689.-
+
+Fiscal del Ministerio de Obras Públicas.
