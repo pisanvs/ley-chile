@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°3021 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 7, superficie 193,68 m2, rol en Trámite, Comuna de Ancud para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", Región de Los Lagos y se acordó el valor de la indemnización con su propietario IRIS MAGALY MARILICAN LINZ, ascendente a la cantidad de $16.911.950.-
+
+Fiscal del Ministerio de Obras Públicas.
