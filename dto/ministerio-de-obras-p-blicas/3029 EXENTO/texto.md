@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3029 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 15-C, superficie 458 m2, rol N° 521-198, comuna de Copiapó, para la obra "Mejoramiento Ruta C-386, Bifurcación Ruta Toledo (By-Pass a Copiapó), Región de Atacama" y se acordó el valor de la indemnización con su propietario COMPAÑÍA CONTRACTUAL MINERA CANDELARIA, ascendente a la cantidad de $965.923.-
+
+Fiscal del Ministerio de Obras Públicas.
