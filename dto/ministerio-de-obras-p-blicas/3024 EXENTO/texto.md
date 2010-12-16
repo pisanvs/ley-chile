@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3024 de fecha 23 de noviembre de 2010, se expropiaron los lotes de terreno N°s 6, 9 y 10, superficies 103, 267 y 46 m2 respectivamente, Rol en Trámite, comuna de Río Hurtado, para la obra "Conservación Camino 64E763 San Pedro Bosque Petrificado de Pichasca" y se acordó el valor de la indemnización con su propietario DARÍO MALEBRÁN OLIVARES, ascendente a la cantidad de $1.138.793.-
+
+Fiscal del Ministerio de Obras Públicas.
