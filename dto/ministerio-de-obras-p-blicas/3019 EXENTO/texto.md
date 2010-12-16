@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3019 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 70, superficie 153 m2, Rol Nº907-890, comuna de Coquimbo, para la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. del Mar Ruta 43", Etapa III" y se acordó el valor de la indemnización con su propietario MANUELA DEL CARMEN GALLEGUILLOS ROJAS, ascendente a la cantidad de $14.843.916.-
+
+Fiscal del Ministerio de Obras Públicas.
