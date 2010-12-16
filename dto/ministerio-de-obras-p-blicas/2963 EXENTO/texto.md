@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2963, de 19 de noviembre de 2010, y en base a la facultad otorgada por el artículo 105 del D.F.L. MOP Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°6, para la obra: "HABILITACIÓN COSTANERA RÍO LIMARÍ, OVALLE", Provincia de LIMARÍ, que figura a nombre de SOC DE INV EVEREST Y CIA LTDA, rol de avalúo 420-61, Comuna de OVALLE, IV Región de Coquimbo, superficie 186 m2. La Comisión de Peritos el 18 de agosto de 2010, fijó el monto de la indemnización provisional en la cantidad de $4.052.408.- para el lote N°6. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
