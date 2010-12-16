@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 3045 de fecha 24 de noviembre de 2010, se expropiaron los lotes de terreno N°s 16, 16-A y 17-A, superficies 1.340, 30 y 168 m2 respectivamente, rol N° 911-15, comuna de Alto del Carmen, para la obra "Mejoramiento Ruta C-495, El Tránsito Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000" y se acordó el valor de la indemnización con su propietario SERGIO ALBERTO ADAOS RIQUELME Y OTROS, ascendente a la cantidad de $1.159.430.-
+
+Fiscal del Ministerio de Obras Públicas.
