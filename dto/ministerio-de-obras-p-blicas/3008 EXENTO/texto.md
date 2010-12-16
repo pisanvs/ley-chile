@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N°3008 de fecha 23 de noviembre de 2010, se expropió el lote de terreno N° 2-P, superficie 336,48 m2, rol en Trámite, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario Bif. Pupelde, tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario VERONICA JEANNETTE HUENUL ANGULO, ascendente a la cantidad de $29.220.083.-
+
+Fiscal del Ministerio de Obras Públicas.
