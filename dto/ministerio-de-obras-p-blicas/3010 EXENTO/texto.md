@@ -1,0 +1,3 @@
+Por decreto (exento) MOP N° 3010 de 23 de noviembre de 2010, se expropió el lote de terreno N° 12-A, superficie 2.061 m2, Rol N° 883-33, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, SECTOR ALTO DEL CARMEN EL TRANSITO ( VARIANTE PERALES)" KM. 19,90000 AL KM. 23,77240, PROVINCIA DE HUASCO, REGION DE ATACAMA y se acordó el valor de indemnización con doña JUANA AURORA GARROTE GONZÁLEZ, ascendente a la cantidad de $1.458.785.-
+
+Fiscal del Ministerio de Obras Públicas.
