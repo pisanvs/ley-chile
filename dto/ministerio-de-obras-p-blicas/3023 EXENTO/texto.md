@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3023 de 23 de noviembre de 2010, se expropió el lote de terreno N° 67, superficie 876 m2, rol de Avalúo 189-21, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130, REGIÓN DEL BÍO BÍO ", y se acordó el valor de la indemnización con su propietario SEBASTIÁN SALAS SALAS, ascendente a la cantidad de $594.480.-
+
+Fiscal del Ministerio de Obras Públicas.
