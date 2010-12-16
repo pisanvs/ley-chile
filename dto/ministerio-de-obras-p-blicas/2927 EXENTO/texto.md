@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº2927 de 19 de noviembre de 2010, se dejó sin efecto los numerales 3°, 4°, 5° y 6° del decreto MOP exento N°312 de 30 de marzo de 2010, en la parte que se refiere al Convenio Directo de Precio del lote de terreno N°113-C por la suma de $1.502.407 y ordenó la consignación de la indemnización provisional ascendente a $1.200.200.- de conformidad al Art. 17 del decreto Ley N°2186 de 1978 .
+
+Fiscal del Ministerio de Obras Públicas.
