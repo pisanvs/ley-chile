@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3014 de fecha 23 de noviembre del 2010, se expropió el lote de terreno Nº36, superficie 541 m2., Rol Nº596-4, comuna de Santa Cruz, para la obra "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 YÁQUIL, KM. 0,00000 A KM. 6,98000 " , PROVINCIA DE COLCHAGUA, VI REGIÓN, y se acordó el valor de indemnización con su propietaria JOSEFINA DEL TRÁNSITO PÉREZ TEJERO Y OTROS, ascendente a la cantidad de $3.716.232.-
+
+Fiscal del Ministerio de Obras Públicas.
