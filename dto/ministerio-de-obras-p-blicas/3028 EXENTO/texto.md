@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3028 de 23 de noviembre de 2010, se expropiaron los lotes de terrenos Nºs. 128-B y 128-C, superficies 165 y 100 m2., Rol Nº275-19, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000" COMUNAS DE SAN JAVIER Y CAUQUENES, PROVINCIAS DE LINARES Y CAUQUENES, REGIÓN DEL MAULE, y se acordó el valor de indemnización con su propietario AVILIO DEL CARMEN GONZÁLEZ GONZÁLEZ, ascendente a la cantidad de $733.398.-
+
+Fiscal del Ministerio de Obras Públicas.
