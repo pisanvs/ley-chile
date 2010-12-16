@@ -1,0 +1,3 @@
+Por decreto MOP (EXENT0) Nº2926 de 19 de noviembre de 2010, se modificó el numeral segundo del decreto MOP N° 1243 de 25 de agosto de 2009, que ordenó la expropiación del lote N° 53, en la parte que se refiere al número del rol de avalúo y al nombre del propietario según el Servicio de Impuestos Internos, quedando como VERGARA HERRERA EUFROSINA DEL, rol de avalúo 633-111 de Molina. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
