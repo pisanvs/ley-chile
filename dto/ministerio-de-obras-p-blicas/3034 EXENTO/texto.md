@@ -1,0 +1,3 @@
+Por decreto MOP exento N° 3034 de fecha 23 de noviembre del 2010, se expropió el lote de terreno N° 4-A, superficie 180 m2, Rol N° 552-296, comuna de Linares, para la obra "CONSTRUCCIÓN SISTEMA DE REGADÍO ANCOA, CAMINO DE ACCESO" COMUNAS DE COLBÚN Y LINARES, PROVINCIA LINARES, VII REGIÓN y se acordó el valor de indemnización con su propietaria NORMA DEL CARMEN VARELA ACUÑA, ascendente a la cantidad de $407.044.-.
+
+Fiscal del Ministerio de Obras Públicas.
