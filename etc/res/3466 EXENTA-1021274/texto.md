@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.466, de 12 de noviembre de 2010, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 3.659 de 2009, de esta Subsecretaría, que autorizó a la UNIVERSIDAD ARTURO PRAT para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Seguimiento de la Pesquería de las Algas Pardas en la I Región de Tarapacá", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el 31 de octubre de 2011, inclusive.
+
+Valparaíso, 12 de noviembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
