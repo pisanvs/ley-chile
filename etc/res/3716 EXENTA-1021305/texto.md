@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.716, de 10 de diciembre de 2010, de esta Subsecretaría de Pesca, declárase la caducidad total de la resolución Nº 3.083 de 2009, de esta Subsecretaría, que autorizó a LOTA PROTEIN S.A. para ampliar actividades pesqueras extractivas con la nave "Santa María II", en el área marítima comprendida entre la V a VII y IX a X Regiones, sobre los recursos hidrobiológicos Alfonsino y Besugo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Informe Técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 10 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
