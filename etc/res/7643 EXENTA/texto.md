@@ -22,8 +22,6 @@ Resolución:
 
 3.- Determínase el monto de Unidades de Fomento disponible para la selección que se efectuará en el mes de noviembre, de acuerdo a lo establecido mediante la Resolución Exenta N° 2.966 (V. y U.), de 2010, para las Regiones de Valparaíso, Libertador Bernardo O'Higgins, Maule, Bío Bío, Araucanía y Metropolitana correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Segundo del citado reglamento, según se indica en las siguientes tablas:
 
-> **Nota.** El numeral 1 de la Resolución 4386 Exenta, Vivienda publicada el 30.07.2011, modifica la presente norma en el sentido de eliminar los beneficios otorgados a las personas señaladas, por su parte, el numeral 2 determina el número de beneficiados en las regiones damnificadas según la tabla que la propia norma señala.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
