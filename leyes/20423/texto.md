@@ -542,7 +542,7 @@ El Servicio Nacional de Turismo podrá seguir integrando la Corporación de Prom
 
 Facúltase al Presidente de la República para que establezca mediante uno o más decretos con fuerza de ley, expedidos por intermedio del Ministerio de Economía, Fomento y Turismo, los que también deberán ser suscritos por el Ministro de Hacienda, las normas necesarias para fijar la planta de personal de la Subsecretaría de Turismo.
 
-En el ejercicio de esta facultad, dictará las normas necesarias para la adecuada estructuración y operación de la planta de personal que fije y, en especial, podrá determinar las disposiciones transitorias para la aplicación de las remuneraciones variables, tales como las contempladas en el artículo 1° de la ley N° 19.553, cuando corresponda; el número de cargos para cada planta; los requisitos para el desempeño de los mismos; sus denominaciones y niveles jerárquicos para efectos de la aplicación de lo dispuesto en el Título VI de la ley Nº 19.882 y en el artículo 8º del decreto con fuerza de ley N° 29, del Ministerio de Hacienda, de 2005, que fijó el texto refundido, coordinado y sistematizado de la ley N° 18.834, sobre Estatuto Administrativo. En el mismo acto fijará la fecha de entrada en vigencia de la planta de personal y su dotación para el año.
+En el ejercicio de esta facultad, dictará las normas necesarias para la adecuada estructuración y operación de la planta de personal que fije. En el mismo acto fijará la fecha de entrada en vigencia de la planta de personal y su dotación para el año.
 
 Mediante igual procedimiento, el Presidente de la República determinará la fecha de inicio de funciones de la Subsecretaría de Turismo.
 
