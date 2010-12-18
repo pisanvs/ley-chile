@@ -26,7 +26,7 @@ Resolución:
 
 1.- Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Segundo, para el desarrollo de proyectos de construcción en las Regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
 
-2.- Los proyectos que se postulen deberán obtener certificado de Calificación Definitiva o Condicional hasta el 15 de diciembre del año 2010. Mediante resoluciones del Ministro de Vivienda y Urbanismo, se seleccionarán los proyectos que obtengan Certificado de Calificación, según orden de obtención de dicha Calificación, hasta agotar los recursos disponibles para el llamado en cada región, según se establece en el punto 4 de la presente resolución.
+2.- Los proyectos que se postulen deberán obtener certificado de Calificación Definitiva o Condicional hasta el 31 de diciembre del año 2010. Mediante resoluciones del Ministro de Vivienda y Urbanismo, se seleccionarán los proyectos que obtengan Certificado de Calificación, según orden de obtención de dicha Calificación, hasta agotar los recursos disponibles para el llamado en cada región, según se establece en el punto 4 de la presente resolución.
 
 3.- Los proyectos deberán cumplir con las siguientes condiciones:
 
@@ -160,7 +160,7 @@ u. En caso que el inmueble poseído por el postulante damnificado o por su cóny
 
 v. Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas. El postulante requerirá, además, contar con autorización notarial de los restantes herederos. El Serviu podrá proceder al pago del subsidio, siempre que se acredite la inscripción especial de herencia del inmueble a favor de la comunidad y la constitución, por todos los comuneros, de la prohibición de enajenar a favor del Serviu, durante 5 años o 15 años en el caso de haber obtenido subsidio a la localización, contados desde la fecha de su inscripción en el Conservador de Bienes Raíces.
 
-w. Para la postulación de proyectos de Construcción en Sitio Propio, si el sitio estuviera gravado con hipoteca, no será impedimento para la postulación.
+w. No será impedimento para la postulación de proyectos de Construcción en Sitio Propio, que el sitio en que se emplace la vivienda se encuentre gravado con hipoteca. Para proceder al pago del certificado de subsidio en estos casos, el SERVIU podrá eximir del cumplimiento del requisito de inscribir la prohibición de enajenar a favor de SERVIU señalada en el artículo 55 del D.S. N° 174 (V. y U.), de 2005. El postulante cuyo terreno se encuentre hipotecado, deberá presentar al momento del ingreso del proyecto al Banco, una declaración jurada en la que se comprometa a no enajenar la vivienda en un plazo de 5 años, contados a partir de la recepción final municipal.
 
 x. Para la postulación de proyectos de Construcción en Sitio Propio, sólo será Obligatorio la presentación de los siguientes antecedentes además de los establecidos en la presente resolución:
 
@@ -344,6 +344,8 @@ y. Los proyectos de vivienda o edificaciones de las tipologías de Construcción
 
 Por otra parte, en los proyectos de la tipología de Construcción en Sitio Propio, se podrá utilizar parte de la estructura de la vivienda declarada como inhabitable por la Dirección de Obras Municipales respectiva, no siendo necesaria la demolición total del inmueble, en cuyo caso los elementos constructivos de dicha estructura a conservar quedarán eximidos de cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de la Construcción aprobado por resolución exenta Nº 2.070 (V. y U.), de 2009, establecido en el artículo 19, inciso tercero, letra c), del D.S. Nº 174 (V. y U.), de 2005. En caso que el proyecto se encuentre emplazado en alguna de las áreas señaladas en el resuelvo número 3 letra q. de esta resolución, no será impedimento para la aplicación de lo dispuesto en el presente inciso que la vivienda haya sido declarada reparable por la Dirección de Obras Municipales respectiva.
 
+z. Los proyectos de vivienda que se emplacen en áreas declaradas como zonas con riesgo de inundación, podrán obtener hasta 150 Unidades de Fomento adicionales siempre que incluyan medidas destinadas a mitigar los riesgos en cuestión. Mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, se podrá establecer el perímetro de la zona con riesgo de inundación, y las medidas de mitigación de los riesgos que deberán incluirse en los proyectos a presentar.
+
 4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
 Región Recursos (UF)
@@ -362,7 +364,41 @@ Metropolitana 110.620
 
 El número de proyectos seleccionados y preseleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
 
-5. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
+5. También se permitirá que el proyecto habitacional sea patrocinado por empresas constructoras, inmobiliarias y cooperativas de vivienda, sin convenio marco como EGIS firmado con el MINVU o SEREMI, los cuales deberán acompañar los antecedentes técnicos correspondientes al proyecto, que permitan al SERVIU verificar el cumplimiento de los requisitos establecidos por el Programa y en esta resolución, y en especifico:
+
+5.1 Los proyectos deberán contar con calificación del SERVIU hasta el día 30 de diciembre del año 2010. Esta calificación se podrá otorgar cumpliendo la aprobación de la Comisión Técnica Evaluadora, sólo con la factibilidad técnica y legal del proyecto
+
+5.2 Al momento de la presentación del proyecto al SERVIU sólo se exigirá un mínimo de un 30% de familias en condición de damnificada y un máximo de un 20% de familias no damnificadas.
+
+5.3 Verificado por el SERVIU que el proyecto propuesto cumple con los requisitos exigidos y es calificado, suscribirá con la respectiva empresa constructora, o con la inmobiliaria o con la cooperativa de vivienda, un convenio en el caso de no ser EGIS, en el cual se dejará constancia de los datos del correspondiente permiso de edificación y del nombre de la empresa constructora encargada de la construcción del proyecto.
+
+Los proyectos Calificados tendrán plazo de 90 días corridos para dar inicio a la ejecución de las obras, desde la fecha de la Resolución que otorgue los subsidios. En este periodo de tiempo podrán adjuntar al proyecto habitacional nuevas familias damnificadas. Vencido este plazo y si aún no ha comenzado el inicio de obras, el proyecto será eliminado y las familias deberán elegir su incorporación a otro proyecto con calificación.
+
+El SEREMI respectivo, podrá por una sola vez prorrogar dicho plazo o dar nueva vigencia por un plazo no superior a 30 días.
+
+El MINVU estará facultado para publicitar en todo el país, por los medios que estime conveniente, la información correspondiente a los proyectos respecto a los cuales se haya suscrito el convenio antes mencionado, para la adecuada difusión e información a los interesados en la adquisición de las viviendas que integran dichos proyectos.
+
+5.4 Una vez suscrito el convenio antes mencionado, el SERVIU efectuará la asignación de los subsidios correspondientes a las familias damnificadas y no damnificadas, dejando un registro abierto para futuras incorporaciones de familias damnificadas al proyecto.
+
+5.5 No obstante el inicio de obra, el patrocinante del proyecto podrá seguir presentando familias damnificas hasta completar la totalidad de las viviendas del proyecto. El SERVIU verificará que cumplan los requisitos de postulación y posteriormente realizará mediante resolución la asignación del subsidio y procederá a la entrega del certificado del Subsidio.
+
+Las familias no damnificadas que se quieran incorporar al proyecto podrán hacerlo sólo mediante la modalidad de Adquisición de Vivienda Construida mediante el programa regular.
+
+5.6 El SERVIU podrá efectuar anticipos a cuenta del pago del subsidio, destinados a financiar la ejecución física de las obras.
+
+El monto del anticipo destinado a la ejecución de las obras podrá alcanzar hasta el 70% total del monto total del subsidio destinado para este efecto.
+
+El contratista podrá solicitar al SERVIU un máximo de 3 anticipos, no pudiendo ninguno de ellos ser superior al 20% del monto total del proyecto.
+
+El primer anticipo deberá ser caucionados con boleta bancaria de garantía por un monto no inferior al del giro solicitado, no siendo exigible para el primer giro acreditar avance de obras.
+
+Para los siguientes giros será necesario acreditar un porcentaje de avance físico de obras, correspondiente a partidas terminadas, igual o superior al avance financiero por anticipos que registra el proyecto. Este será calculado como la suma de los anticipos girados. Además, para el segundo anticipo deberá acreditar un porcentaje mínimo de 60% de familias adscritas al proyecto y para el tercer anticipo este porcentaje será del 90%. Para estos efectos se deberá adjuntar Informe emitido por el Inspector Técnico de Obras (ITO) que señale el valor del avance de las obras ejecutadas conforme, expresado en su equivalente en Unidades de Fomento.
+
+El saldo del subsidio será girado conforme a lo señalado en el artículo 55 del D.S. N° 174 (V.y U.), del 2005.
+
+Para el giro de los anticipos a cuenta del pago del subsidio para financiar la adquisición del terreno, deberá acompañar: Copia de la inscripción de dominio a favor del SERVIU respectivo con certificado de vigencia, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
+
+6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
