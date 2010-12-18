@@ -62,7 +62,7 @@ a) El Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción (
 
 b) Seis funcionarios ya sea de la Corporación, de sus Comités o de otros servicios públicos, designados por el Vicepresidente Ejecutivo de la Corporación.
 
-c) Siete empresarios y/o académicos designados por el Consejo de la Corporación.
+c) Siete miembros que tengan la calidad de empresarios, profesionales y/o académicos, designados por el Consejo de la Corporación.
 
 d) Dos representantes designados por el Ministro de Economía, Fomento y Reconstrucción.
 
@@ -80,7 +80,7 @@ En caso de ausencia o impedimento de las personas a que se refieren las letras p
 
 El Consejo Directivo sesionará en Pleno o en Subcomités conforme a lo que se dispone en el artículo 6º de este Reglamento. Tendrá las facultades necesarias para acordar la dictación o celebración de todos los actos, contratos y operaciones conducentes al cumplimiento de sus fines, las que deberá ejercer en conformidad con las disposiciones legales y reglamentarias aplicables a la Corporación.
 
-El Consejo Directivo, sea en Pleno o en Subcomités, se reunirá las veces y en la forma que él mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el Director Ejecutivo, o los Subdirectores de cada una de las cuatro Áreas de Negocios señaladas en el artículo 6º del presente instrumento, en el caso de los Subcomités. El quórum para que sesione el Consejo Directivo en Pleno será de once miembros, y de tres cuando sesione como Subcomité. Los acuerdos se adoptarán por la mayoría de los miembros presentes.
+El Consejo Directivo, sea en Pleno o en Subcomités, se reunirá las veces y en la forma que él mismo determine. Convocado el Consejo por el Presidente, las citaciones las hará el Director Ejecutivo, o los Subdirectores de cada una de las Áreas de Negocios, en el caso de los Subcomités. El quórum para que sesione el Consejo Directivo en Pleno será de once miembros, y de tres, cuando sesione como Subcomité, sean estos de carácter permanente o especial. Los acuerdos se adoptarán por la mayoría de los miembros presentes.
 
 Se entenderá que participan en las sesiones de sus órganos colegiados aquellos miembros que a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y de quien haga las veces de Secretario.
 
@@ -94,31 +94,19 @@ b) Aprobar las modalidades de apoyo al emprendimiento, a la innovación empresar
 
 c) Aprobar la creación de Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente, a propuesta del Director Ejecutivo. Asimismo, le corresponderá determinar el objetivo general de éstas y los resultados esperados en cada caso.
 
-d) Asimismo, determinará, salvo que quiera reservarse el conocimiento, él o los Subcomités de área de negocio que conocerán de los Proyectos presentados a los Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente creados. También podrá acordar que participen en esta instancia, Consejeros de otros Subcomités, que por su experiencia y conocimiento puedan aportar en una materia determinada. Será, en consecuencia, el Subcomité de dicha área de negocios, más los Consejeros que el Consejo estime, en su caso, el encargado de aprobar el texto definitivo de las Bases que regirán el Concurso o Línea de Financiamiento, además de aprobar las modificaciones a dichos instrumentos.
+d) Asimismo, determinará, salvo que quiera reservarse el conocimiento, el o los Subcomités de área de negocio o Subcomités especiales, que conocerán de los proyectos presentados a los programas, convocatorias, concursos y líneas de financiamiento de postulación permanente creados. También podrá acordar que participen en esta instancia, consejeros de otros subcomités, que por su experiencia y conocimiento puedan aportar en una materia determinada. Será, en consecuencia, el Subcomité de dicha área de negocios o Subcomité especial, más los Consejeros que el Consejo estime, en su caso, el encargado de aprobar el texto definitivo de las Bases que regirán el Concurso o Línea de Financiamiento, además de aprobar las modificaciones a dichos instrumentos.
 
 e) Asignar recursos a proyectos, programas o acciones específicas de apoyo a la innovación, cuya naturaleza, fines, magnitud o impacto aconsejen su revisión en pleno, de conformidad a las Bases que rijan el instrumento en particular.
 
 f) Aprobar la distribución del presupuesto del Comité para el financiamiento de sus distintos Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente.
 
-g) Aprobar, a propuesta del Director Ejecutivo, el organigrama del Comité, y la creación de subdirecciones y unidades al interior del mismo.
-
-h) Supervisar y evaluar la implementación de sus distintos planes o políticas. Para estos efectos podrá proponer estrategias, acciones específicas, disponer la contratación de consultorías y auditorías externas.
+g) Supervisar y evaluar la implementación de sus distintos planes o políticas. Para estos efectos podrá proponer estrategias, acciones específicas, disponer la contratación de consultorías y auditorías externas.
 
 #### Artículo 6º
 
-El Consejo Directivo funcionará además en cuatro Subcomités. Cada uno de los Subcomités estará conformado por un mínimo de cinco consejeros. Tanto la composición, como los Consejeros que presidirán las sesiones de cada Subcomité, serán determinados por el Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, a propuesta del Director Ejecutivo del Comité.
+El Consejo Directivo funcionará en Subcomités, los que podrán tener el carácter de permanentes o especiales, y serán determinados por el Vicepresidente Ejecutivo, a propuesta del Director Ejecutivo del Comité.
 
-Los Subcomités serán relativos a las siguientes áreas:
-
-a) Bienes Públicos para la Innovación e I + D Precompetitiva: Tendrá por objeto asignar recursos a Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente de servicio e interés público, que contribuyan a la generación de políticas públicas, planes globales y sectoriales y actividades de beneficio general a los diversos sectores de la producción y servicios, en los diferentes ámbitos del desarrollo y la innovación.
-
-b) Innovación Empresarial: Tendrá por objeto asignar recursos a Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente destinados a la promoción de la innovación y el desarrollo tecnológico con características y aptitudes para su empresarización, así como asignar recursos a proyectos de desarrollo e innovación propuestos por empresas productivas.
-
-c) Difusión y Transferencia Tecnológica: Tendrá por objeto asignar financiamiento a Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente destinados a la transferencia tecnológica, su adopción y a la posterior difusión de resultados obtenidos para facilitar el acceso a información y conocimiento relativos a alternativas tecnológicas de aplicación productiva.
-
-d) Emprendimiento Innovador: Tendrá por objeto asignar financiamiento a Programas, Convocatorias, Concursos y Líneas de Financiamiento de postulación permanente destinados a apoyar el desarrollo y fomento del emprendimiento de empresas productivas en forma individual o asociativa.
-
-Por cada uno de estos Subcomités, el Comité contará con una Subdirección de Área de Negocios, conforme se señala en el artículo 19 del presente reglamento.
+Por cada uno de los Subcomités de carácter permanente, el Comité contará con una Subdirección de Área de Negocios que tendrá las tareas asignadas en el artículo 19 del presente reglamento.
 
 #### Artículo 7º
 
@@ -194,7 +182,7 @@ j) Solicitar la ejecución o liquidación de todo tipo de cauciones, o devolver 
 
 k) Dictar, aprobar, modificar y derogar los reglamentos e instructivos internos que estime necesario para la adecuada organización y buena marcha del Comité, las Subdirecciones y Unidades.
 
-l) Celebrar contratos de mandatos; abrir y cerrar cuentas de depósitos; aceptar toda clase de cauciones, cancelar créditos y alzar prohibiciones o cauciones reales, por medio de instrumentos públicos o privados; cobrar y percibir lo que se adeude al Comité y otorgar recibos, cancelaciones y finiquitos; contratar boletas y pólizas de seguro; exigir rendición de cuentas, aprobarlas, objetarlas o rechazarlas; suscribir registros de importación, endosar y retirar documentos de embarque, pólizas de Aduana, certificados consulares, manifiestos y demás documentos que se requieran para la recepción de mercaderías; cobrar órdenes de pago, giros postales y retirar toda clase de correspondencia ordinaria o piezas certificadas postales, encomiendas y cuanto valor tenga destinado al Comité; arrendar cajas de seguridad, operar con ellas y poner término a su arrendamiento; abrir y cerrar cuentas corrientes bancarias, girar en ellas, efectuar depósitos, retirar talonarios; dar orden de no pago, girar, endosar, cobrar, protestar y cancelar cheques; girar, endosar, descontar, depositar, revalidar, prorrogar, protestar y cancelar letras de cambio, pagarés o cualquier otro documento bancario o mercantil sean en cobranza, o para depósito y, en general, endosar documentos mercantiles o cualquier documento a la orden; reconocer o impugnar saldos y solicitar o autorizar cargos en dichas cuentas y, en general, efectuar todas las operaciones que son de común ocurrencia en el orden bancario. Todas las operaciones del orden bancario deberán llevar para su validez la firma del Director Ejecutivo o Subdirector Ejecutivo, en conjunto con cualquiera de las personas que se desempeñen como Subdirector de Administración y Finanzas, Subdirector Jurídico, Subdirector de Bienes Públicos para la Innovación e I+D Precompetitiva, Subdirector de Emprendimiento Innovador, Subdirector de Innovación Empresarial y Subdirector de Difusión y Transferencia Tecnológica.
+l) Celebrar contratos de mandatos; abrir y cerrar cuentas de depósitos; aceptar toda clase de cauciones, cancelar créditos y alzar prohibiciones o cauciones reales, por medio de instrumentos públicos o privados; cobrar y percibir lo que se adeude al Comité y otorgar recibos, cancelaciones y finiquitos; contratar boletas y pólizas de seguro; exigir rendición de cuentas, aprobarlas, objetarlas o rechazarlas; suscribir registros de importación, endosar y retirar documentos de embarque, pólizas de Aduana, certificados consulares, manifiestos y demás documentos que se requieran para la recepción de mercaderías; cobrar órdenes de pago, giros postales y retirar toda clase de correspondencia ordinaria o piezas certificadas postales, encomiendas y cuanto valor tenga destinado al Comité; arrendar cajas de seguridad, operar con ellas y poner término a su arrendamiento; abrir y cerrar cuentas corrientes bancarias, girar en ellas, efectuar depósitos, retirar talonarios; dar orden de no pago, girar, endosar, cobrar, protestar y cancelar cheques; girar, endosar, descontar, depositar, revalidar, prorrogar, protestar y cancelar letras de cambio, pagarés o cualquier otro documento bancario o mercantil sean en cobranza, o para depósito y, en general, endosar documentos mercantiles o cualquier documento a la orden; reconocer o impugnar saldos y solicitar o autorizar cargos en dichas cuentas y, en general, efectuar todas las operaciones que son de común ocurrencia en el orden bancario. Todas las operaciones del orden bancario deberán llevar para su validez la firma del Director Ejecutivo o Subdirector Ejecutivo, en conjunto con cualquiera de las personas que se desempeñen como Subdirector de Administración y Finanzas, Subdirector Jurídico o Subdirector de Área de Negocio.
 
 m) Celebrar todos los actos jurídicos y contratos que sean necesarios para cumplir los objetivos del Comité y que no estén expresamente delegados en otro funcionario.
 
@@ -212,7 +200,9 @@ No obstante lo señalado en el párrafo anterior, en el caso de los trabajadores
 
 q) Contratar personal y expertos nacionales o extranjeros sobre la base de honorarios, que poseen los conocimientos necesarios para desempeñar determinadas asesorías o trabajos especializados.
 
-r) Ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el Vicepresidente Ejecutivo estime conveniente asignarle.
+r) Proponer al Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción la forma de organización del Comité, relativa al número de los Subcomités, al número, denominación y objeto de cada una de las Subdirecciones de Áreas de Negocios y Unidades de apoyo a la gestión del Comité.
+
+s) Ejercer las demás funciones y cumplir los otros deberes que el Consejo Directivo del Comité, o el Consejo de la Corporación o el Vicepresidente Ejecutivo estime conveniente asignarle.
 
 #### Artículo 15º
 
@@ -292,7 +282,7 @@ Serán subrogantes del Subdirector Jurídico los que designe en esa calidad el V
 
 #### Artículo 19º
 
-Por cada Área de Negocios de las señaladas en el artículo 6º habrá un Subdirector, a quien le corresponderá entre otras, las siguientes tareas:
+A los Subdirectores de Área de Negocios les corresponderán, entre otras, las siguientes tareas:
 
 a) Recepcionar Proyectos e ingresarlos al sistema informático del Comité. Tratándose de Concursos o Convocatorias, la identificación de los proyectos recepcionados deberá constar en un acta de recepción, sin perjuicio de las delegaciones otorgadas a los Directores Regionales de CORFO y al Director Ejecutivo del Comité Innova Bío Bío.
 
