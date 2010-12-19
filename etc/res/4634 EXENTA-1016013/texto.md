@@ -94,11 +94,9 @@ c. No ser propietario de otro inmueble con destino habitacional, fuera de las zo
 
 d. Se eximirán del cumplimiento del requisito de acreditar ahorro señalado en el Título IV del presente reglamento.
 
-e. Deberán presentar Ficha de Protección Social. Sin embargo el puntaje de Carencia Habitacional del grupo organizado, podrá superar el puntaje de ingreso establecido mediante resolución exenta N° 7.080 (V. y U.), de 2008.
+e. Se eximirán del impedimento señalado en el artículo 6°, N° 2 y N° 3, relativo a postulaciones de familias unipersonales, y a haber obtenido algún beneficio anterior del SERVIU, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, respectivamente.
 
-f. Se eximirán del impedimento señalado en el artículo 6°, N° 2 y N° 3, relativo a postulaciones de familias unipersonales, y a haber obtenido algún beneficio anterior del SERVIU, o de sus antecesores legales, o de las Municipalidades, o del Ministerio de Bienes Nacionales, o a través de los mecanismos del Impuesto Habitacional, respectivamente.
-
-g. Para los efectos de lo indicado en el artículo 60 del DS N° 174 (V. y U.), de 2005, el postulante deberá presentar la declaración jurada de postulación a la que se refiere la Circular 31, del Subsecretario de Vivienda y Urbanismo, de fecha 17 de junio de 2010.
+f. Para los efectos de lo indicado en el artículo 60 del DS N° 174 (V. y U.), de 2005, el postulante deberá presentar la declaración jurada de postulación a la que se refiere la Circular 31, del Subsecretario de Vivienda y Urbanismo, de fecha 17 de junio de 2010.
 
 6. Con anterioridad a la entrega del Certificado de Subsidio, las familias deberán ceder los Derechos a favor del SERVIU sobre la vivienda de que actualmente son propietarios, ubicadas en las zonas descritas en el Resuelvo N°1, según el procedimiento señalado en el Contrato de Transacción que se establezca para tal efecto.
 
