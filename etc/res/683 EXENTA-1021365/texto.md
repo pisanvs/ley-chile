@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTO SOCIAL DE "RBS SECURITIZADORA S.A."
+
+Certifico: Que por resolución exenta Nº 683, de 15 de diciembre de 2010, de esta Superintendencia de Valores y Seguros, se aprobó la reforma introducida al Estatuto Social de "RBS Securitizadora S.A.", acordada en Junta Extraordinaria de Accionistas, celebrada con fecha 29 de noviembre de 2010, y reducida a escritura pública con fecha 1 de diciembre de 2010 en la 5º Notaría de Santiago de don Patricio Raby Benavente, domiciliado en Gertrudis Echeñique Nº30, oficina 44, Las Condes. La reforma consiste en modificar la razón social, pasando a denominarse Fintesa Securitizadora S.A., reemplazando para estos efectos el artículo primero de los estatutos sociales.
+
+Santiago, 15 de diciembre de 2010.- Carmen Undurraga Martínez, Secretario General.
