@@ -38,6 +38,8 @@ Para los efectos de esta ley se dará a las palabras que en seguida se definen, 
 
 No se entenderá por actividad pesquera de transformación la evisceración de los peces capturados, su conservación en hielo, ni la aplicación de otras técnicas de mera preservación de especies hidrobiológicas.
 
+Las personas naturales y jurídicas que deseen desarrollar dichas actividades, deberán inscribirse en un Registro que al efecto llevará el Servicio, el cual eliminará de aquél a las plantas de transformación que no hayan operado e informado, por el plazo de dos años sucesivos, en los términos establecidos en el artículo 63 de la ley y su reglamento.
+
 3) Acuicultura: actividad que tiene por objeto la producción de recursos hidrobiológicos organizada por el hombre. Cultivo abierto: actividad de acuicultura en la cual la producción de recursos hidrobiológicos se realiza aprovechando el ciclo biológico de especies, como las anádromas y cátadromas, que permite que una o más de las fases del cultivo se realice en áreas no confinadas.
 
 Se entenderá por especies anádromas aquellas especies hidrobiológicas cuyo ciclo de vida se inicia en aguas terrestres para posteriormente migrar al mar, lugar donde crecen y se desarrollan hasta que alcanzan su madurez sexual, etapa en que vuelven a sus cursos de origen completando su ciclo con el proceso reproductivo, y en algunos casos luego de ocurrido éste, mueren.
@@ -60,7 +62,7 @@ En adelante, en esta ley se denominan dichas naves "naves o embarcaciones pesque
 
 10) Autorización de pesca: es el acto administrativo mediante el cual la Subsecretaría faculta a una persona, natural o jurídica, por tiempo indefinido, para realizar actividades pesqueras extractivas con una determinada nave, condicionada al cumplimiento de las obligaciones que en la respectiva resolución se establezcan.
 
-11) Barcos fábrica o factoría: es la nave que realiza faenas de pesca y efectúa a bordo procesos de transformación a las capturas, incluyendo en ellos la congelación de las mismas. No se considerarán procesos de tranformación la mera evisceración, como el uso de técnicas de preservación parta la mantención de las capturas en fresco, entendiendo por tales el uso de hielo o de productos químicos y la sola refrigeración.
+11) Barcos fábrica o factoría: es la nave que realiza faenas de pesca y efectúa a bordo procesos de transformación a las capturas, incluyendo en ellos la congelación de las mismas. No se considerarán procesos de transformación la mera evisceración, como el uso de técnicas de preservación parta la mantención de las capturas en fresco, entendiendo por tales el uso de hielo o de productos químicos y la sola refrigeración.
 
 Entre los diversos tipos de barcos fábrica o factoría existentes, clasificados de acuerdo a su sistema o aparejo de pesca, se entenderá por barco fábrica o factoría arrastrero: aquel que en sus operaciones de pesca extractiva utiliza como arte de pesca la red de arrastre; por barco fábrica o factoría espinelero o palangrero: aquel que en sus operaciones de pesca extractiva utiliza como aparejo de pesca el espinel o palangre; y por barco fábrica o factoría cerquero: aquel que utiliza en sus operaciones de pesca extractiva la red de cerco.
 
@@ -74,13 +76,13 @@ PARRAFO ELIMINDO
 
 14) bis. Descarte: es la acción de desechar al mar especies hidrobiológicas capturadas.
 
-14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros, 80 metros cúbicos de capacidad de bodega, y de hasta 50 toneladas de registro grueso.
+14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos.
 
 Por reglamento se establecerán categorías de embarcaciones artesanales por eslora.
 
-Asimismo, se determinará para cada categoría, su capacidad de carga máxima, el volumen máximo de bodega y la superficie mínima destinada a habitabilidad, teniendo en consideración la explotación racional de los recursos hidrobiológicos y las condiciones de trabajo a bordo. En todo caso, la capacidad de carga máxima por viaje de pesca de la categoría correspondiente a la mayor eslora, no podrá exceder de 80 toneladas.
+Asimismo, se determinará para cada categoría, su capacidad de carga máxima y el volumen máximo de bodega, según corresponda al arte de pesca, teniendo en consideración la explotación racional de los recursos hidrobiológicos. En todo caso, la capacidad de carga máxima por viaje de pesca de la categoría correspondiente a la mayor eslora, no podrá exceder de 80 toneladas.
 
-En el evento que sea constatada la operación de una embarcación artesanal que no cumpla lo dispuesto en el reglamento antes mencionado en relación a su volumen o superficie, se suspenderán sus actividades extractivas quedando prohibido el zarpe de la embarcación infractora hasta que se certifique la adecuación de sus características a dicho texto.
+En el evento que sea constatada la operación de una embarcación artesanal que no cumpla lo dispuesto en el reglamento antes mencionado en relación a su volumen, se suspenderán sus actividades extractivas quedando prohibido el zarpe de la embarcación infractora hasta que se certifique la adecuación de sus características a dicho texto.
 
 Si se constata por tres veces, en el plazo dos años, que una embarcación artesanal ha desembarcado capturas que exceden la capacidad máxima por viaje de pesca, se suspenderán los derechos derivados de la inscripción en el registro pesquero artesanal por el plazo de tres meses, quedando prohibido el zarpe de la embarcación infractora desde que se comunique dicha circunstancia.
 
@@ -158,7 +160,7 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 36) Recursos hidrobiológicos: especies hidrobiológicas susceptibles de ser aprovechadas por el hombre.
 
-37) Recurso sobreexplotado: es aquel recurso hidrobiológico cuyo nivel de explotación es mayor al recomendado técnicamente para su conservación en el largo pVER NOTA 1lazo.
+37) Recurso sobreexplotado: es aquel recurso hidrobiológico cuyo nivel de explotación es mayor al recomendado técnicamente para su conservación en el largo plazo.
 
 38) Registro nacional de acuicultura: nómina nacional de titulares de concesiones y autorizaciones de acuicultura habilitados para efectuar actividades de cultivo, que llevará el Servicio para los efectos de esta ley.
 
@@ -232,11 +234,11 @@ En cada área de pesca, independientemente del régimen de acceso a que se encue
 
 a) Veda biológica por especie en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada.
 
-Las vedas se aplicarán produrando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes.
+Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes.
 
 b) Prohibición de captura temporal o permanente de especies protegidas por convenios internacionales de los cuales Chile es parte.
 
-c) Fijación de cuotas anuales de captura por especie en un área determinada. En el evento que se produzca una catástrofe natural o daño medio ambiental grave que afecte a toda una Región, según lo previsto en la ley Nº 16.282 y sus modificaciones, se efectuará una reserva de la cuota global de captura del año siguiente, de hasta un 3% sobre la cuota total de la Región, con la exclusiva finalidad de atender necesidades sociales urgentes, derivadas de catástrofes indicadas. Un Reglamento determinará la forma y requisitos para la asignación de esta reserva.
+c) Fijación de cuotas anuales de captura por especie en un área determinada. En el evento que se produzca una catástrofe natural declarada por la autoridad que afecte al todo o parte de una región, en los términos establecidos en la ley N°16.282, o daño ambiental, de conformidad con la ley N°19.300, se efectuará una reserva de la cuota global anual de captura de hasta un 3% de la fracción regional respectiva o del promedio de desembarques en los tres años anteriores en la región de que se trate, en el caso que la cuota no se encuentre regionalizada, la que se imputará a la cuota global anual del año siguiente, con la exclusiva finalidad de atender necesidades sociales urgentes derivadas de la catástrofe indicada. La Subsecretaría, mediante resolución fundada, determinará la asignación de dicha reserva.
 
 Podrá establecerse fundadamente una reserva de la cuota global de captura para fines de investigación, la que no podrá exceder de un 3% de la cuota global de captura. No obstante, en pesquerías declaradas en plena explotación, podrá establecerse una reserva de hasta un 5% por motivos fundados, debiendo aprobarse por seis de los siete consejeros representantes indicados en el numeral 5 del artículo 146 y por los dos tercios de los miembros en ejercicio del Consejo Nacional de Pesca. Podrán hacerse también estas reservas de cada una de las fracciones de cuota asignadas al sector artesanal e industrial.
 
@@ -476,15 +478,35 @@ Se sustituirá el régimen de plena explotación por el régimen general de acce
 
 En las pesquerías sujetas al régimen de plena explotación, se podrán fijar cuotas globales anuales de captura para cada unidad de pesquería, las que regirán a partir del año calendario siguiente. No obstante lo anterior, para el año de la declaración del régimen de plena explotación, se podrá también fijar cuotas globales anuales de captura para cada unidad de pesquería, las que regirán ese mismo año.
 
+En los casos en que dos o
+
+más unidades de pesquería comprendan
+
+un mismo stock o unidad poblacional
+
+de un determinado recurso hidrobiológico
+
+se podrá determinar una sola cuota
+
+global anual de captura para todas ellas.
+
+Una vez determinada la cuota global
+
+anual se procederá a su fraccionamiento
+
+y luego se distribuirá entre las
+
+distintas unidades de pesquería que
+
+integren el stock o unidad poblacional.
+
 Las cuotas globales anuales de captura podrán ser distribuidas en dos o más épocas del año.
 
-Dichas cuotas se establecerán mediante decreto supremo, previo informe técnico de la Subsecretaría, con consulta al Consejo Zonal de Pesca que corresponda y con la aprobación del Consejo Nacional de Pesca tomado por mayoría absoluta de sus miembros en ejercicio.
+Dichas cuotas se establecerán mediante decreto supremo, previo informe técnico de la Subsecretaría, con consulta al Consejo Zonal de Pesca que corresponda y con la aprobación del Consejo Nacional de Pesca tomado por mayoría absoluta de sus miembros en ejercicio. En caso de no existir mayoría absoluta para la aprobación o rechazo, la decisión procederá por mayoría absoluta de los miembros presentes en segunda citación.
 
-En caso de no existir mayoría absoluta para la aprobación o rechazo, la decisión procederá por mayoría absoluta de los miembros presentes en segunda citación.
+Las cuotas globales anuales de captura podrán modificarse una vez al año mediante igual procedimiento y mayoría señaladas en el inciso anterior. En caso de presencia de fenómenos naturales que hagan evidente la conveniencia de incrementar la cuota global determinada, ésta podrá incrementarse con la aprobación de los miembros presentes del Consejo Nacional de Pesca, informándose de inmediato, al Consejo Zonal que corresponda.
 
-Las cuotas globales anuales de captura podrán modificarse una vez al año mediante igual procedimiento y mayoría señaladas en el inciso anterior.
-
-En caso de presencia de fenómenos naturales que hagan evidente la conveniencia de incrementar la cuota global determinada, ésta podrá incrementarse con la aprobación de los miembros presentes del Consejo Nacional de Pesca, informándose de inmediato, al Consejo Zonal que corresponda.
+> **Nota.** La letra a) del artículo Único de Ley 20485, publicada el 18.12.2010, dispuso intercalar un nuevo inciso segundo, pasando "los incisos segundo a sexto a ser tercero a séptimo, respectivamente". Sin embargo, este artículo sólo tiene cuatro incisos.
 
 #### Artículo 27
 
@@ -680,6 +702,8 @@ Para estos efectos se considerarán, según corresponda, los pescadores artesana
 
 La distribución de la fracción artesanal de la cuota global se efectuará por Resolución del Subsecretario, de acuerdo a la historia real de desembarques de la Caleta, Organización, pescador artesanal o tamaño de las embarcaciones, según corresponda, y teniendo en cuenta la sustentabilidad de los recursos hidrobiológicos.
 
+No obstante lo anterior, en caso de catástrofe natural declarada por la autoridad competente, la Subsecretaría podrá no considerar el o los años durante los cuales estuvo vigente dicha declaración para efectos de determinar la historia real de desembarque. Del mismo modo, la Subsecretaría no considerará las capturas que se imputen a la reserva de la cuota global anual fijada para efectos de atender necesidades sociales urgentes, establecida de conformidad con lo dispuesto en el párrafo primero de la letra c) del artículo 3°.
+
 Una vez establecido el Régimen Artesanal de Extracción, el Subsecretario podrá, por Resolución, organizar días de captura, los que podrán ser continuos o discontinuos.
 
 #### Artículo 49
@@ -712,7 +736,7 @@ El reglamento determinará el procedimiento de sustitución de embarcaciones art
 
 A.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
 
-El reemplazo operará en forma indivisible respecto de todas las pesqueras cerradas y vigentes que el reemplazado tenga inscritas en el Registro, en cualquier categoría, quedando sin efecto la inscripción respecto de las pesqueras con acceso abierto, por el solo ministerio de la ley.
+El reemplazo operará en forma indivisible respecto de todas las categorías, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
 
 Para estos efectos, el Servicio otorgará, a petición del titular de la inscripción, un certificado que acredite la individualización del titular de aquélla, las características básicas de la nave, en su caso, y la individualización de la o las pesqueras inscritas que mantiene vigentes.
 
@@ -2757,6 +2781,10 @@ Las declaraciones de plena explotación y el cierre de las pesquerías expirará
 #### Artículo 20
 
 El Ministerio o la Subsecretaría podrán prescindir de las consultas, informes o aprobaciones de los Consejos de Pesca mientras éstos no se hayan constituido.".
+
+#### Artículo 21
+
+Los armadores o grupo de armadores titulares de Límites Máximos de Captura de las especies pelágicas a que se refiere el numeral 19 del artículo 2°, que pertenezcan a dos o más unidades de pesquería que correspondan a un mismo stock o unidad poblacional, podrán optar por someterse a lo dispuesto en el artículo 7° de la ley Nº 19.713, hasta por un 10% de su Límite Máximo de Captura. En estos casos la asociatividad podrá solicitarse en cualquier período del año y quedará sometida a la regulación de esta ley en el ejercicio de las actividades pesqueras extractivas.
 
 Anótese, tómese razón, regístrese, publíquese e insértese en la Recopilación de Leyes de la Contraloría General de la República.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Carlos Ominami Pascual,Ministro de Economía, Fomento y Reconstrucción.
 
