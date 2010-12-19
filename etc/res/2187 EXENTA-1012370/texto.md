@@ -14,7 +14,7 @@ d) El D.S. N° 150, de Interior, de 2010, que señala como zona afectada por la 
 
 Resolución:
 
-1.- Llámase a partir del 12 de abril y hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N° 332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Bío Bío, la Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados, éstos deberán estar calificados en las siguientes fechas:
+1.- Llámase a partir del 12 de abril y hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. Nº 255 (V. yNOTA U.), de 2006, y sus modificaciones, y del D.S. N° 332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, del Bío Bío, la Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados, éstos deberán estar calificados en las siguientes fechas:
 
 - Hasta la selección del mes de junio, el último día
 
@@ -41,22 +41,6 @@ diciembre, hasta el día 30 de diciembre.
 Además, en aquellos casos de reparación en Bienes Comunes Edificados de los Condominios de Viviendas Sociales, el subsidio correspondiente a la comuna respectiva se aumentará en un 20%, debiendo destinarse a lo menos un 70% para obras de mejoramiento en Bienes Comunes Edificados y pudiendo destinar el saldo a obras en la Unidad.
 
 3. El monto de recursos que se destinarán para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución, se distribuirán regionalmente, según el siguiente cuadro, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministro de Vivienda y Urbanismo:
-
-Región Unidades de Fomento Título II
-
-Metropolitana 1.387.538
-
-Valparaíso 575.572,5
-
-L. Bernardo O'Higgins 174.023
-
-Maule 502.222
-
-Bío Bío 988.625
-
-Araucanía 89.899
-
-Total 3.717.879,5
 
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
