@@ -1078,6 +1078,10 @@ Remisión de antecedentes si el hecho denunciado reviste caracteres de delito. E
 
 Si de los antecedentes examinados en la audiencia preparatoria o en la del juicio aparece que el denunciado o demandado ha ejercido violencia en los términos establecidos en el artículo 14 de la Ley sobre Violencia Intrafamiliar, el tribunal los remitirá al Ministerio Público.
 
+Previo a remitir una causa al Ministerio Público, el juez de familia adoptará las medidas cautelares que correspondan, las que se mantendrán vigentes en tanto el fiscal no solicite su modificación o cese.
+
+Si se plantea una contienda de competencia relacionada a un asunto de violencia intrafamiliar entre un juez de familia y el Ministerio Público o un juez de garantía, el juez de familia involucrado podrá adoptar las medidas cautelares que sean procedentes, las que se mantendrán vigentes hasta que la contienda de competencia sea resuelta.
+
 > **Nota.** El artículo 25 de la LEY 20066, publicada el 07.10.2005, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de octubre de 2005.
 
 #### Artículo 91
