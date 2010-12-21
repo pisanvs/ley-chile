@@ -26,9 +26,9 @@ a) Andrés Gabriel Napolitano Norero, RUT
 
 Nº5.546.250-K, en calidad de titular.
 
-b) Antonio Olivares Lazcano, RUT Nº 5.384.314-
+b) Emilio Antonio Mazzarelli Rosales, RUT
 
-K, en calidad de suplente.
+Nº 7.220.018-7, en calidad de suplente.
 
 2. En representación de los pequeños armadores
 
