@@ -46,9 +46,11 @@ Considerando: Que el proyecto "Amanecer" de la comuna de Traiguén integrado por
 
 Resolución:
 
-1.- Apruébase el proyecto con Calificación Definitiva del comité "Amanecer" de la comuna de Traiguén, y apruébase el proyecto con Calificación Definitiva de la postulante Edelmira Ghiselini Araya de la comuna de Angol, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad de Construcción en Sitio Propio del Programa Fondo Solidario de Vivienda, para el concurso convocado mediante resolución exenta Nº 2.186 (V. y U.), de 2010.
+1.- Apruébanse los proyectos de construcción en sitio propio, que se identifican a continuación, de las comunas de Traiguen y Angol, los que cuentan con Calificación Definitiva, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, para el concurso establecido mediante resolución exenta Nº 2.186 (V. y U.), de 2010.
 
-2.- Los recursos comprometidos conforme al número 1 de la presente resolución, que ascienden al monto de 5.589 UF, para los proyectos seleccionados del comité "Amanecer" y de la postulante Edelmira Ghiselini Araya, se detallan en el siguiente cuadro:
+2.- En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en área urbana de localidad de hasta 2.000 habitantes según el último censo de población, los honorarios que perciba la EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución N° 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidades de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, equivalentes a 42 Unidades de Fomento y 10.5 Unidades de Fomento respectivamente.
+
+3.- Los subsidios asignados mediante los resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 8.725,5 UF, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región de La Araucanía, para el Programa 2010.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
