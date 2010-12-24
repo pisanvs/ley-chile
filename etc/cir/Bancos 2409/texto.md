@@ -6534,7 +6534,7 @@ EI valor del Indice de Valor Promedio al 9 de enero de 1990, fue de $ 5.389,14.
 
 ANEXO N° 3
 
-Reajustes según el artículo 44 la Ley N° 18.591 para los créditos adquiridos a la ex-ANAP
+Reajustes según el artículo 44 de la Ley N° 18.591 para los créditos adquiridos a la ex-ANAP
 
 De acuerdo lo dispuesto en el artículo 8° de la Ley N° 18.900, en relación con los artículos 60 y 77 de la Ley N° 16.807 y el artículo 44 de la Ley N° 18.591, le corresponde a esta Superintendencia disponer el reajuste que debe aplicarse a los créditos hipotecarios que los bancos adquirieron de la ex-Asociación Nacional de Ahorro y Préstamo.
 
