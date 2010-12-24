@@ -1,0 +1,7 @@
+AUTORIZA EMISOR ELECTRÓNICO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos N°184, de 20 de diciembre de 2010, que autoriza a contribuyentes como emisores electrónicos.
+
+Se autoriza como emisor de documentos tributarios a contribuyentes RUT 76.033.246-1, RUT 89.428.000-K, RUT 79.628.280-0, RUT 78.199.360-3, RUT 76.092.489-K, RUT 96.666.150-K, RUT 76.734.400-7, RUT 96.601.710-4, RUT 71.822.200-1, RUT 70.857.800-2, RUT 71.500.600-6, RUT 70.711.800-8, RUT 08.862.863-2, RUT 76.511.520-5, RUT 52.002.615-0, RUT 77.674.730-0, RUT 96.985.330-2, RUT 76.032.503-1, RUT 76.113.127-3, RUT 76.330.070-6, RUT 76.019.086-1, RUT 91.740.000-8, RUT 12.453.263-9, RUT 76.116.295-0, RUT 76.058.621-8, RUT 96.707.720-8, RUT 96.841.500-K, RUT 06.354.731-K, RUT 14.155.428-K, RUT 77.448.630-5, RUT 77.263.730-6, RUT 93.654.000-7, RUT 76.020.828-0, RUT 77.193.550-8, RUT 76.626.760-2, RUT 88.128.400-6, RUT 77.656.730-2, RUT 77.167.620-0, RUT 76.082.122-5, RUT 76.104.182-7, RUT 76.360.850-6, RUT 76.031.757-8, RUT 96.162.000-7, RUT 76.272.080-9, RUT 85.845.500-6, a contar del mes de diciembre 2010. En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2010.
