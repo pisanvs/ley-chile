@@ -1,0 +1,5 @@
+DISPONE LA EXCLUSIÓN DE LAS NÓMINAS DE POSTULANTES SELECCIONADOS PARA EL GOCE DEL SUBSIDIO HABITACIONAL A PERSONAS QUE INDICAN
+
+Res. Exenta Nº 8.417, de fecha 20 de diciembre de 2010, dispone la exclusión de las nóminas de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Segundo Llamado Nacional 2010 del Sistema de Subsidio Habitacional, de las personas que a continuación se individualizan, ya que presentan puntaje inferior al mínimo o de corte que se registró en la Región y Título a que postularon:
+
+Como consecuencia de lo anterior, se modifica el número de postulantes seleccionados para el goce del subsidio habitacional correspondiente al Segundo Llamado Nacional 2010 del Sistema de Subsidio Habitacional, disminuyéndose en dos (2) el número de postulantes seleccionados en dicho llamado y en 350 Unidades de Fomento (U.F.), el monto de recursos destinados a la atención de los postulantes seleccionados en ese llamado.
