@@ -44,7 +44,7 @@ Las personas tituladas en el extranjero podrán ejercer la función docente conf
 
 #### Artículo 4º
 
-Cuando no hubiere profesores titulados o habilitados para satisfacer las necesidades educativas del establecimiento de acuerdo a lo requerido por el sostenedor respectivo, podrá autorizarse para ejercer docencia a personas no tituladas o habilitadas en los casos y bajo las condiciones que más adelante se indican.
+En aquellas localidades en que no hubiere el número suficiente de profesores titulados o habilitados para satisfacer las necesidades pedagógicas del lugar podrá autorizarse para ejercer docencia a personas no tituladas o habilitadas en los casos y bajo las condiciones que más adelante se indican.
 
 #### Artículo 5º
 
@@ -92,7 +92,7 @@ b) En las situaciones contempladas en el artículo 4º del presente reglamento.
 
 #### Artículo 9º
 
-El Secretario Regional Ministerial de Educación que corresponda deberá certificar la carencia de profesores titulados o habilitados para satisfacer las necesidades pedagógicas del establecimiento, para los efectos descritos en el artículo 4º del presente reglamento.
+El Secretario Regional Ministerial de Educación que corresponda deberá certificar la carencia de profesores titulados o habilitados para satisfacer las necesidades pedagógicas del lugar, para los efectos descritos en el artículo 4º del presente reglamento.
 
 Para estos efectos en cada Secretaría Regional Ministerial de Educación habrá un Rol de Postulantes donde se inscribirán los profesores titulados o habilitados que deseen ejercer docencia en esa jurisdicción.
 
@@ -100,9 +100,9 @@ Se entenderá que existe carencia de profesores de aula en las siguientes situac
 
 a) cuando no se encuentre inscrito ningún profesor titulado o habilitado en el nivel o especialidad de la enseñanza de que se trate;
 
-b) cuando ninguno de los inscritos desee ejercer docencia en el establecimiento educacional de que se trate; o
+b) cuando ninguno de los inscritos desee ejercer docencia en el establecimiento educacional de que se trate; y
 
-c) cuando se hubiere hecho un llamado por parte del sostenedor del establecimiento para llenar los cargos vacantes a través de, a lo menos, una publicación en un diario de circulación nacional, sin que se presente ningún interesado que cumpla con lo requerido en el llamado.
+c) cuando se hubiere hecho un llamado público por parte del sostenedor del establecimiento para llenar los cargos vacantes mediante una publicación destacada en, a lo menos, un periódico de circulación nacional y no se presentara ningún interesado.
 
 Los Secretarios Regionales Ministeriales de Educación deberán mantener un Rol de Postulantes, el que deberán incorporar en la Página Web del Ministerio de Educación en un Rol de Postulantes Nacional, en el que se incluirá la nómina de profesores titulados o habilitados disponibles para ejercer docencia en los distintos niveles y modalidades educativas que atiende el sistema educativo, separado por regiones. Las Secretarías Regionales Ministeriales de Educación deberán actualizar este Rol, a lo menos, una vez al mes.
 
@@ -120,15 +120,17 @@ Para estos efectos podrá otorgarse autorización para ejercer la docencia de au
 
 A.- En Educación Parvularia, se debe considerar el siguiente orden de prioridad:
 
-1.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocido oficialmente y acreditar encontrarse con el título en trámite;
+1.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocida oficialmente;
 
-2.- Ser egresado de la carrera de Educación Parvularia de alguna universidad o instituto profesional estatal o particular reconocido oficialmente;
+2.- Ser profesor titulado de Enseñanza Básica;
 
-3.- Ser profesor titulado de Educación Especial o Diferencial de alguna universidad o instituto profesional estatal o privado reconocido oficialmente;
+3.- Ser Profesor de Educación Especial o Diferencial;
 
-4.- Ser profesor titulado de Enseñanza Básica de alguna universidad o instituto profesional estatal o privado reconocido oficialmente, sólo para desempeñarse en Segundo Nivel de Transición;
+4.- Ser egresado de pedagogía en Enseñanza Básica;
 
-5.- Estar cursando estudios regulares de Educación Parvularia en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con seis semestres aprobados a lo menos y con formación práctica.
+5.- Estar cursando estudios regulares de Educación Parvularia en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con cuatro semestres aprobados a lo menos;
+
+6.- Ser profesor titulado de Enseñanza Media.
 
 B.- En Enseñanza Básica, se debe considerar el siguiente orden de prioridad:
 
@@ -136,7 +138,7 @@ I.- En Enseñanza Básica Común:
 
 a.- 1º y 2º año (NB 1):
 
-1.- Ser profesor titulado de Enseñanza Media en Idioma Extranjero, Artes Visuales, Artes Musicales o Educación Física para ejercer en el Subsector de aprendizaje correspondiente a la mención o especialidad de su título;
+1.- Ser profesor titulado de Enseñanza Media en Idioma Extranjero, Artes o Educación Física para ejercer en el Subsector de aprendizaje correspondiente a la mención o especialidad de su título;
 
 2.- Ser educador de párvulos titulado;
 
@@ -148,11 +150,9 @@ a.- 1º y 2º año (NB 1):
 
 6.- Estar cursando estudios regulares de Pedagogía en Enseñanza Básica en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con cuatro semestres aprobados a lo menos.
 
-7.- Tener una licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta.
-
 b.- 3º y 4º año (NB 2):
 
-1.- Ser profesor titulado de Enseñanza Media en Idioma Extranjero, Artes Visuales, Artes Musicales o Educación Física para ejercer en el Subsector de aprendizaje correspondiente a la mención o especialidad de su título;
+1.- Ser profesor titulado de Enseñanza Media en Idioma Extranjero, Artes o Educación Física para ejercer en el Subsector de aprendizaje correspondiente a la mención o especialidad de su título;
 
 2.- Ser egresado de Pedagogía en Enseñanza Básica;
 
@@ -163,8 +163,6 @@ b.- 3º y 4º año (NB 2):
 5.- Ser egresado de Educación Parvularia;
 
 6.- Estar cursando estudios regulares de pedagogía en Enseñanza Básica en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con cuatro semestres aprobados a lo menos.
-
-7.- Tener una licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta.
 
 c.- 5º, 6º, 7º y 8º año (NB3 - NB4 - NB5 - NB6 respectivamente):
 
@@ -179,8 +177,6 @@ c.- 5º, 6º, 7º y 8º año (NB3 - NB4 - NB5 - NB6 respectivamente):
 5.- Estar cursando estudios regulares de pedagogía en Enseñanza Básica en universidades o institutos profesionales estatales o particulares reconocidos oficialmente, con cuatro semestres aprobados a lo menos;
 
 6.- Tener un título profesional afín al subsector de aprendizaje de que se trate.
-
-7.- Tener una licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta.
 
 II.- Educación Básica Especial o Diferencial se debe considerar el siguiente orden de prioridad:
 
@@ -226,9 +222,13 @@ profesional estatal o particular reconocido oficialmente en la misma especialida
 
 #### Artículo 12
 
-Las autorizaciones para el ejercicio de la docencia tendrán, por regla general, tres años de duración, y estarán vigentes hasta el último día de febrero del año siguiente a aquel en que las personas autorizadas ejercieron funciones docentes, sin perjuicio de las autorizaciones a que se refieren los artículos 7º y 8º letra a). No obstante, las autorizaciones concedidas en los casos contemplados en el artículo 11 letra B, número romano I, letras a) y b), números árabes 1 en cada una de ellas y número romano II, número árabe 1 serán indefinidas mientras las personas autorizadas se desempeñen en el mismo establecimiento educacional.
+Las autorizaciones para el ejercicio de la docencia tendrán, por regla general, un año de duración y estarán vigentes hasta el último día de febrero del siguiente año calendario a aquel en que fue concedida, sin perjuicio de las autorizaciones a que se refieren los artículos 7º y 8º letra a). No obstante, las autorizaciones concedidas en los casos contemplados en la letra B, número romano I, letras a) y b), números árabes 1 en cada una de ellas y número romano II, número árabe 1 serán indefinidas mientras las personas autorizadas se desempeñen en el mismo establecimiento educacional.
 
-De igual forma, para ejercer en la asignatura correspondiente a su título en los cursos de 5º a 8º año básico, los profesores titulados de Enseñanza Media podrán obtener autorización permanente para ejercer en el establecimiento que solicite dicha autorización.
+De igual forma, para ejercer en el Subsector de aprendizaje correspondiente a su título en los cursos 5º a 8º año básico, los profesores titulados de Enseñanza Media podrán obtener autorización permanente para ejercer en el establecimiento que solicite dicha autorización.
+
+Los sostenedores de establecimientos educacionales donde se desempeñen las personas autorizadas para ejercer docencia de aula según las reglas del presente reglamento deberán entregar a la Secretaría Regional Ministerial de Educación respectiva, al término del plazo de las autorizaciones, un informe de desempeño, el que considerará, a lo menos, los siguientes aspectos: preparación de la enseñanza, creación de un ambiente propicio para el aprendizaje, enseñanza para el aprendizaje de todos los alumnos y responsabilidad profesional.
+
+El citado informe deberá ser considerado especialmente por la Secretaría Regional Ministerial de Educación cuando se solicite la renovación de la autorización o se solicite una nueva autorización para la misma persona.
 
 ### Párrafo 2º — Procedimiento para obtener la autorización.
 
@@ -238,29 +238,35 @@ El Ministerio de Educación ejercerá las funciones y atribuciones señaladas en
 
 #### Artículo 14
 
-La solicitud para obtener autorización para el ejercicio de la docencia de aula deberá ser presentada por el sostenedor del establecimiento educacional de que se trate ante la Secretaría Regional Ministerial competente y dicha oficina deberá pronunciarse a más tardar dentro de los 10 días siguientes.
+La solicitud para obtener autorización para el ejercicio de la docencia de aula deberá ser presentada por el sostenedor del establecimiento educacional de que se trate ante la Secretaría Regional Ministerial de Educación competente antes del 1 de febrero del año respectivo y dicha oficina deberá pronunciarse a más tardar dentro de los 30 días siguientes.
 
-La solicitud deberá contener los siguientes datos y documentos:
+La solicitud deberá contener los datos que se indican a continuación y acompañarse de los documentos en que éstos consten:
 
-a) Nombre completo, cédula de identidad, domicilio y certificado de antecedentes de la persona para la que se pide la autorización;
+a) Nombre completo de la persona para la que se pide la autorización;
 
-b) Nombre, dirección, número de teléfono y Rol Base de Datos (RBD) del establecimiento educacional;
+b) Certificado de Antecedentes completo;
 
-c) Nivel, modalidad, curso y asignatura donde ejercerá la docencia de aula;
+c) Domicilio;
 
-d) Ejemplar del diario de circulación nacional o copia en que conste la publicación a la que se refiere el artículo 9º, inciso tercero letra c);
+d) Establecimiento educacional donde ejercerá la docencia de aula: nivel, modalidad, curso, Subsector o módulo de aprendizaje;
 
-e) Título profesional o técnico o estudios realizados, según los casos;
+e) Dirección, número de teléfono y Rol Base de Datos (RBD) del establecimiento educacional;
 
-f) Plazo por el que se solicita la autorización;
+f) Ejemplar del periódico de circulación nacional en que conste la publicación a que se refiere el artículo 9, inciso 3º letra c) del presente reglamento;
 
-g) Demás antecedentes que el solicitante estime necesarios.
+g) Título profesional o técnico o estudios realizados, según los casos;
+
+h) Experiencia docente, si la tuviere;
+
+i) Informe de Desempeño del solicitante en los casos de renovación de la autorización; y
+
+j) Demás antecedentes que el solicitante estime necesarios.
 
 Las personas mencionadas en la letra a) del artículo 8º de este reglamento presentarán la respectiva solicitud con los documentos señalados en la División de Educación General sin sujeción al plazo establecido en el inciso 1º de este artículo. Además, deberán acompañar un certificado del sostenedor del establecimiento educacional donde desempeñarán la docencia de aula.
 
 Sin perjuicio de lo señalado en los incisos precedentes, en el caso a que se refiere el inciso 5º del artículo 9º anterior deberá acompañarse la documentación que acredite la existencia de la ausencia o vacancia por la cual se solicita autorización.
 
-En general, constituirá instancia de apelación la División de Educación General del Ministerio de Educación, salvo en el caso descrito en la letra a) del artículo 8º del presente decreto que lo será el Subsecretario de Educación. No obstante lo señalado precedentemente, en materias relativas a solicitudes de autorización fundadas en alguna de las situaciones contempladas en la letra A.- del artículo 11 del presente decreto, constituirá instancia de apelación la Subsecretaría de Educación Parvularia.
+En general, constituirá instancia de apelación la División de Educación General del Ministerio de Educación, salvo en el caso descrito en la letra a) del artículo 8º del presente decreto que lo será el Subsecretario de Educación.
 
 #### Artículo 15
 
@@ -296,7 +302,7 @@ La inscripción correspondiente deberá contener, a lo menos, los siguientes dat
 
 #### Artículo 17
 
-La División de Educación General llevará un Registro General de todas las personas autorizadas para ejercer docencia de aula en el país, que será un consolidado de todos los Registros Regionales, más las autorizaciones que concede dicha División directamente y las que por la vía de la apelación conceda la Subsecretaría de Educación Parvularia.
+La División de Educación General llevará un Registro General de todas las personas autorizadas para ejercer docencia de aula en el país, que será un consolidado de todos los Registros Regionales, más las autorizaciones que concede dicha División directamente.
 
 Para estos efectos, las Secretarías Regionales Ministeriales de Educación deberán enviar mensualmente la nómina de las personas autorizadas y una copia de la resolución respectiva.
 
@@ -314,13 +320,11 @@ En el ejercicio de esta facultad deberá a lo menos:
 
 a) Impartir instrucciones para la adecuada aplicación de las normas legales y reglamentarias que rigen el ejercicio de la función docente;
 
-b) Ejercer la supervigilancia y coordinación de las autorizaciones para ejercer docencia; Sin perjuicio de las facultades que correspondan a la Subsecretaría de Educación Parvularia.
+b) Ejercer la supervigilancia y coordinación de las autorizaciones para ejercer docencia;
 
 c) Resolver los casos particulares que se presenten en la práctica y que no sea posible resolverlos de acuerdo a las reglas generales establecidas;
 
-d) Proponer o adoptar según el caso, las medidas correctivas que procedan incluso la invalidación de la respectiva autorización cuando vulnere las disposiciones legales y reglamentarias; y
-
-e) Actuar como instancia de apelación en estas materias, cuando corresponda.
+d) Proponer o adoptar según el caso, las medidas correctivas que procedan incluso la invalidación de la respectiva autorización cuando vulnere las disposiciones legales y reglamentarias; y e) Actuar como instancia de apelación en estas materias, cuando corresponda.
 
 #### Artículo 19
 
@@ -328,7 +332,7 @@ Deróganse, a contar de la fecha de publicación del presente decreto en el Diar
 
 #### Artículo transitorio
 
-Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 28 de febrero de 2021 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
+Las personas que a la fecha de publicación del presente decreto contaban con autorización docente para impartir clases de religión y no cumplan con la formación mínima en pedagogía exigida en el artículo 11 de este reglamento, tendrán plazo hasta el 31 de diciembre de 2013 para completar dichos estudios. Durante este período, el Secretario Regional Ministerial de Educación respectivo podrá renovarles anualmente dicha autorización si acreditan el cumplimiento de los demás requisitos para acceder a ella.
 
 Anótese, tómese razón, publíquese e insértese en la Recopilación Oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Sergio Bitar Chacra, Ministro de Educación.
 
