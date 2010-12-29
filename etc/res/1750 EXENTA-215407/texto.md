@@ -148,19 +148,39 @@ c) Servicios desde el sector poniente hacia el sector sur-poniente de la comuna 
 
 Ruta 60 Ch, San Rafael, Av. Argentina Poniente, Av. Santa Teresa, Ruta 57 Ch y viceversa.
 
-d) Servicios desde y hacia la comuna de Calle Larga:
+d) Servicios desde y hacia la comuna de calle Larga: Ruta
 
-Ruta 57 Ch, Av. Santa Teresa de Los Andes, Av.
+57 CH, Av. Santa Teresa de Los Andes, Av. Argentina,
 
-Argentina, Rancagua, Esmeralda, Av. Santa Teresa de Los Andes, Ruta 57 Ch, o bien, Ruta 57 Ch, Av.
+Membrillar, Esmeralda, Av. Santa Teresa de Los Andes,
 
-Santa Teresa de Los Andes, Av. Argentina, Membrillar, Av. Chacabuco, Av. Santa Teresa de Los Andes, Ruta 57 Ch.
+Ruta 57 CH, o bien, Ruta 57 CH, Av. Santa Teresa de
 
-e) Servicios desde y hacia el sector de San Vicente:
+Los Andes, Av. Argentina, Membrillar, Av. Chacabuco,
 
-Av. Pascual Baburizza, Av. Independencia, Av.
+Av. Santa Teresa de Los Andes, Ruta 57 CH, o bien,
 
-Argentina, Membrillar, Av. Chacabuco, Av. Pascual Baburizza.
+Ruta 57 CH, Av. Santa Teresa de Los Andes, Rodríguez,
+
+Membrillar, Esmeralda, Av. Santa Teresa de Los Andes,
+
+Ruta 57 CH, o bien, Ruta 57 CH, Av. Santa Teresa de
+
+Los Andes, Av. Chacabuco, Av. Independencia, Esmeralda,
+
+Av. Santa Teresa de Los Andes, Ruta 57 CH.
+
+e) Servicios desde y hacia el sector de San Vicente: Av.
+
+Pascual Baburizza, Av. Independencia, Av. Argentina,
+
+Membrillar, Av. Chacabuco, Av. Pascual Baburizza, o
+
+bien, Av. Pascual Baburizza, Av. Independencia,
+
+Esmeralda, Membrillar, Av. Chacabuco, Av. Pascual
+
+Baburizza.
 
 f) Servicios desde y hacia el sector Oriente de la comuna de Los Andes:
 
@@ -174,7 +194,9 @@ Puente David García, Av. Hermanos Clark, Av.
 
 Argentina, Rancagua, Esmeralda, Papudo, Av.
 
-Argentina, Av. Hermanos Clark, Puente David García, o bien, Puente David García, Av. Hermanos Clark, Av. Argentina, Carlos Díaz, Av. Argentina, Rancagua, Esmeralda, Papudo, Av. Argentina, Av.
+Argentina, Av. Hermanos Clark, Puente David García, o bien, Puente David García, Av. Hermanos Clark, Av. Argentina,
+
+Carlos Díaz, Av. Argentina, Rancagua, Esmeralda, Papudo, Av. Argentina, Av.
 
 Hermanos Clark, Puente David García.
 
