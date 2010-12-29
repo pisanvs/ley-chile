@@ -1,0 +1,7 @@
+Por resolución exenta Nº 3.756, de 16 de diciembre de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 3.440, de 2010, de esta Subsecretaría de Pesca, que autorizó a FUNDACIÓN CHINQUIHUE para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Caracterización bio-económica y monitoreo de una pesquería artesanal de pequeña escala de Sardina austral (Sprattus fueguensis) en aguas interiores de la Región de Los Lagos, temporada 2010", en los siguientes términos:
+
+a) En el numeral 4.-, en el sentido de reemplazar la frase "inferior a 12 metros" por la frase "de hasta 12 metros", y de eliminar a la embarcación "Cabo Tamar I", Matrícula CAB 3453, del listado de embarcaciones participantes de la presente pesca de investigación, y
+
+b) En el numeral 9.-, en el sentido de incorporar el siguiente inciso segundo, nuevo: "Asimismo, se exceptúa a las embarcaciones participantes en la presente pesca de investigación del cumplimiento de la veda biológica establecida mediante decretos exentos Nº 239, de 1996; Nº 19, de 2004; Nº 136, de 2005, y Nº 309, de 2009, todos del Ministerio de Economía, Fomento y Reconstrucción.".
+
+Valparaíso, 16 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
