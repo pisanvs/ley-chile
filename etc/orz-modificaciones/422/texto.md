@@ -34,9 +34,9 @@ O r d e n o:
 
 8.- El o los Jefes de Salas son responsables de supervisar y resolver las situaciones anómalas y reclamos del cliente al interior de Casino, como también velar por el cumplimiento del art. 4".
 
-4.- Reemplácese en el artículo Nº 170 el siguiente guarismo: donde dice "150" debe decir "100".
+4.- DEROGADO.
 
-5.- Reemplácese en el artículo Nº 171: donde dice "un Jefe de Sala" debe decir "tres Jefes de Sala".
+5.- DEROGADO.
 
 6.- Autorícese a la Dirección de Asesoría Jurídica para que dicte el texto refundido, coordinado y sistematizado de la Ordenanza Municipal Nº 316, sobre "Reglamento Interno de Funcionamiento del Casino Municipal de Iquique".
 

@@ -22,23 +22,9 @@ O r d e n o:
 
 1.- Modifíquese el Artículo N° 3
 
-a) Salones Tragamonedas : Desde las 09:00
+a) Máquinas Tragamonedas : Desde las 10:00 hrs. hasta las 07:00 hrs., del día siguiente.
 
-hrs. hasta las
-
-07:00 hrs. del día
-
-siguiente.
-
-b) Salón de Juegos : Desde las 18:00
-
-hrs.
-
-hasta Ias 07:00
-
-hrs. del día
-
-siguiente.
+b) Mesas de Juegos : Desde las 18:00 hrs. hasta las 06:00 hrs., del día siguiente.
 
 2.- Autorícese a la Dirección de Asesoría Jurídica para que dicte el texto refundido, coordinado y sistematizado de la Ordenanza Municipal N° 316, sobre "Reglamento Interno de Funcionamiento del Casino Municipal de Iquique".
 
