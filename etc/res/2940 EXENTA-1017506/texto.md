@@ -18,6 +18,10 @@ Sin perjuicio de lo dispuesto en el inciso anterior, las actividades pesqueras e
 
 2.- De conformidad con lo anterior, prohíbese la realización de actividades pesqueras extractivas sobre el recurso y en el área indicada en el numeral anterior con artes y aparejos de pesca cuyo efecto difiera de aquellos autorizados en la presente resolución. Asimismo, prohíbese la extracción de los discos basales del recurso antes indicado, así como su transporte, procesamiento, elaboración, transformación, almacenamiento y comercialización.
 
+2 Bis.- Asimismo, y tratándose de los recursos Huiro negro Lessonia nigrescens y Huiro palo Lessonia trabeculata, la recolección de tales especies sólo podrá efectuarse desde varaderos naturales o mediante barreteo de ejemplares cuyo disco de fijación sea mayor a 20 centímetros. En el caso del barreteo, éste sólo podrá efectuarse en aquellas praderas en donde la densidad poblacional sea superior a 1 ejemplar por metro cuadrado y entresacando 1 de cada 3 ejemplares adultos.
+
+Se exceptuará del cumplimiento de las disposiciones establecidas en el inciso anterior las áreas de manejo y explotación de recursos bentónicos decretadas o que se decreten, y que cuenten con un plan de manejo para estos recursos debidamente aprobado por la Subsecretaría, de conformidad con lo dispuesto en el Párrafo 3º del Título IV de la Ley General de Pesca y Acuicultura.
+
 3.- El Servicio Nacional de Pesca podrá establecer, mediante resolución, las medidas y los procedimientos para permitir una adecuada fiscalización del cumplimiento de las disposiciones del presente decreto.
 
 4.- La infracción a las disposiciones de la presente resolución será sancionada de conformidad con el procedimiento y las penas contempladas en los títulos IX y X de la ley Nº 18.892 y sus modificaciones.
