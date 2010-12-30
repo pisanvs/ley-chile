@@ -1,0 +1,7 @@
+ESTABLECE FORMA Y PLAZO DE DECLARACIONES JURADAS QUE DEBEN PRESENTAR LOS CONTRIBUYENTES CON MOTIVO DE LA EMISIÓN DE INSTRUMENTOS DE DEUDA DE OFERTA PÚBLICA, EN CONFORMIDAD A LO DISPUESTO EN LOS ARTÍCULOS 74 Nº 7 Y 104 Nº 5 DE LA LEY SOBRE IMPUESTO A LA RENTA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 187, del 23 de diciembre de 2010, que:
+
+Establece formato e instrucciones de declaración de los formularios Nº 1805, denominado "Declaración Jurada Anual sobre operaciones de instrumentos de deuda de oferta pública acogidos al artículo 104 de la Ley sobre Impuesto a la Renta", Nº 1806, denominado "Declaración Jurada Anual sobre retenciones de impuesto efectuadas conforme a lo establecido en artículo 74 Nº 7 de la Ley sobre Impuesto a la Renta, realizadas por Emisores de Instrumentos del artículo 104 de la misma Ley" y Nº 1849, denominado "Declaración Jurada Anual sobre intereses devengados e impuesto retenido conforme al artículo 74 Nº 7 de la Ley sobre Impuesto a la Renta, correspondiente a inversiones efectuadas por Corredores de Bolsa, Agentes de Valores u Otros Intermediarios, por cuenta de terceros inversionistas", que deberán presentar los contribuyentes conforme a lo dispuesto en el artículo 60 del Código Tributario y artículos 74 Nº 7 y 104 Nº 5 de la Ley sobre Impuesto a la Renta.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre, de 2010.
