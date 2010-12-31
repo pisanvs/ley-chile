@@ -4,11 +4,11 @@ Núm. 662.- Santiago, 29 de diciembre de 2008.- Considerando:
 
 Que el Ministerio de Educación, mediante decreto supremo de Educación Nº 1.316, de 13 de diciembre de 1996, estableció, para el año 2007, los requisitos técnicos-pedagógicos para la creación y ampliación de internados subvencionados y fijó procedimiento para postulación y aprobación.
 
-Que la Ley Nº 20.314 de Presupuestos, para el año 2009, en la Partida 09, Capítulo 01, Programa 20, Subtítulo 24, ítem 01, Asignación 256, Glosa 05, incluye el financiamiento para el incremento de la subvención de internado, que establece el artículo 11 del D.F.L. (Ed.) Nº 2, de 1998.
+Que la Ley Nº 20.407 de Presupuestos, para el año 2010, en la Partida 09, Capítulo 01, Programa 20, Subtítulo 24, ítem 01, Asignación 256, Glosa 05, incluye el financiamiento para el incremento de la subvención de internado, que establece el artículo 11 del D.F.L. (Ed.) Nº 2, de 1998.
 
 Que, además, señala que la creación y ampliación de internados se hará de acuerdo al decreto Nº 1.316, de 1996, del Ministerio de Educación, y sus modificaciones. La cantidad de nuevos cupos de alumnos internos que podrá incrementarse a través de los proyectos de construcción o reposición de internados que se ejecuten durante el año 2009, se establecerá mediante la modificación del citado decreto, antes del 31 de diciembre de 2008.
 
-Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; Ley Nº 18.956; Ley Nº 20.314 de Presupuestos del Sector Público para el año 2009; D.F.L. (Ed.) Nº 2, de 1998; Decreto Supremo de Educación Nº 1.316, de 1996 y sus modificaciones; y la Resolución Nº 1.600, de 2008, de la Contraloría General de la República,
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; Ley Nº 18.956; Ley Nº 20.407 de Presupuestos del Sector Público para el año 2010; D.F.L. (Ed.) Nº 2, de 1998; Decreto Supremo de Educación Nº 1.316, de 1996 y sus modificaciones; y la Resolución Nº 1.600, de 2008, de la Contraloría General de la República,
 
 Decreto:
 
@@ -132,7 +132,7 @@ Las Secretarías Regionales Ministeriales de Educación seleccionarán, prioriza
 
 Las solicitudes serán resueltas por la autoridad regional, en el mes de junio, una vez conocida la cantidad de nuevos cupos de subvención de internados autorizados para su región, hecha por la División de Planificación y Presupuesto del Ministerio de Educación.
 
-Los cupos de subvención de internado al mes de noviembre de 2008 y pagados en el mes de diciembre del mismo año para el sector Municipal fueron de 27.647 alumnos y para el sector particular de 19.293 alumnos, alcanzando un total de 46.940 alumnos favorecidos. Los nuevos cupos de internado, para el año 2009, se verán incrementados en 1.500, a nivel nacional.
+Para el año 2011, los nuevos cupos de internado, a nivel nacional, no podrán exceder los 1.500.
 
 #### Artículo 7º
 
