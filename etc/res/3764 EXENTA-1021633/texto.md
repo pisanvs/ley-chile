@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.764 de 16 de diciembre de 2010, de esta Subsecretaria, modifícase la resolución exenta Nº 2255 de 2010, de esta Subsecretaria, que autorizó al INSTITUTO DE INVESTIGACIÓN PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estado reproductivo y Monitoreo de las capturas de los recursos pelágicos sardina común (Strangomera bentincki) y anchoveta (Engraulis ringens) en la IX y XIV Región", en el sentido de extender el período hasta el día 31 de diciembre de 2010, inclusive y en los demás términos señalados en la resolución extractada.
+
+Valparaíso, 16 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
