@@ -1918,7 +1918,7 @@ En caso de reincidencia podrá decretarse la cancelación definitiva de la licen
 
 <!-- parte:8639361 -->
 
-Los procesos a que dieren lugar los delitos previstos en este código serán de competencia de los juzgados de Aviación y se sujetarán al procedimiento establecido en el libro II, títulos I, II, y III, del Código de Justicia Militar.
+Los procesos a que dieren lugar los delitos previstos en este código serán de competencia de los juzgados de Aviación y se sujetarán al procedimiento establecido en el libro II, títulos I, II, y III, del Código de Justicia Militar, a excepción de los delitos cuyos imputados sean civiles.
 
 #### Artículo 202
 
