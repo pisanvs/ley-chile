@@ -182,7 +182,7 @@ Si el hecho a que refiere el inciso anterior tuviere lugar durante la etapa de e
 
 #### Artículo 26
 
-De las causas por infracción a la presente ley, conocerán los Tribunales Militares, los que aplicarán las reglas de procedimiento señaladas en el Libro II o IV, del Código de Justicia Militar, según corresponda.
+De las causas por infracción a la presente ley, conocerán los Tribunales Militares, los que aplicarán las reglas de procedimiento señaladas en el Libro II o IV, del Código de Justicia Militar, según corresponda, a excepción de los delitos cuyos imputados sean civiles.
 
 #### Artículo 27
 

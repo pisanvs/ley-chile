@@ -40,7 +40,7 @@ La sentencia condenatoria impondrá, además, las penas accesorias de inhabilita
 
 #### Artículo 3°
 
-Derogado.
+Dictada sentencia condenatoria contra un extranjero por alguno de los delitos previstos en este Título, el Presidente de la República ordenará su expulsión del territorio nacional, una vez cumplida la pena. La expulsión no procederá, sin embargo, respecto de los extranjeros que tengan cónyuge o hijos chilenos.
 
 ## Título II
 

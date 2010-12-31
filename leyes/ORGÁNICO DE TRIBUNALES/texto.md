@@ -170,7 +170,7 @@ f) Hacer ejecutar las condenas criminales y las medidas de seguridad, y resolver
 
 g) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
 
-h) Conocer y resolver todas las cuestiones y asuntos que este Código y la ley procesal penal les encomienden.
+h) Conocer y resolver todas las cuestiones y asuntos que este Código, la ley procesal penal y la ley que establece disposiciones especiales sobre el Sistema de Justicia Militar les encomienden.
 
 #### Artículo 15
 
@@ -420,7 +420,7 @@ c) Resolver todos los incidentes que se promuevan durante el juicio oral;
 
 d) Conocer y resolver todas las cuestiones y asuntos que la ley de responsabilidad penal juvenil les encomienden, y
 
-e) Conocer y resolver los demás asuntos que la ley procesal penal les encomiende.
+e) Conocer y resolver los demás asuntos que la ley procesal penal y la ley que establece disposiciones especiales sobre el Sistema de Justicia Militar les encomiende.
 
 #### Artículo 19
 
@@ -772,11 +772,13 @@ e) Cumplimiento, que desarrollará las gestiones necesarias para la adecuada y c
 
 En la Primera Región, de Tarapacá, existirán los siguientes juzgados de letras:
 
-Un juzgado con asiento en la comuna de Pozo Almonte, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña, y
+A.- JUZGADOS CIVILES:
 
 Tres juzgados con asiento en la comuna de Iquique, con competencia sobre las comunas de Iquique y Alto Hospicio.
 
-> **Nota.** El Nº 5 del Art. 4º de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra B) del presente artículo, sin embargo, al ser esa letra introducida por el Nº 2 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
+B.- JUZGADOS DE COMPETENCIA COMÚN:
+
+Un Juzgado con asiento en la comuna de Pozo Almonte, con dos jueces, con competencia sobre las comunas de Pica, Pozo Almonte, Huara, Colchane y Camiña.
 
 #### Artículo 29
 
@@ -800,33 +802,45 @@ Un juzgado con asiento en la comuna de Taltal, con dos jueces, con competencia s
 
 En la Tercera Región, de Atacama, existirán los siguientes juzgados de letras:
 
-Un juzgado con asiento en la comuna de Chañaral, con competencia sobre la misma comuna;
+A.- JUZGADOS CIVILES:
 
-Cuatro juzgados con asiento en la comuna de Copiapó, con competencia sobre las comunas de Copiapó y Tierra Amarilla;
+Cuatro Juzgados con asiento en la comuna de Copiapó, con competencia sobre las comunas de Copiapó y Tierra Amarilla;
 
-Un juzgado con asiento en la comuna de Caldera, con competencia sobre la misma comuna;
+B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un juzgado con asiento en la comuna de Freirina, con competencia sobre las comunas de Freirina y Huasco, y
+Un Juzgado con asiento en la comuna de Chañaral, con dos jueces, con competencia sobre la misma comuna;
 
-Dos juzgados con asiento en la comuna de Vallenar, con competencia sobre las comunas de Vallenar y Alto del Carmen, conservando el Segundo Juzgado de Vallenar competencia especial en materia de menores.
+Un Juzgado con asiento en la comuna de Diego de Almagro, con competencia sobre la misma comuna;
+
+Un Juzgado con asiento en la comuna de Caldera, con competencia sobre la misma comuna;
+
+Un Juzgado con asiento en la comuna de Freirina, con competencia sobre las comunas de Freirina y Huasco, y
+
+Dos Juzgados con asiento en la comuna de Vallenar, con competencia sobre las comunas de Vallenar y Alto del Carmen.
 
 #### Artículo 31
 
 En la Cuarta Región, de Coquimbo, existirán los siguientes juzgados de letras:
 
-Tres juzgados con asiento en la comuna de La Serena, con competencia sobre las comunas de La Serena y La Higuera;
+A.- JUZGADOS CIVILES:
 
-Tres juzgados con asiento en la comuna de Coquimbo, con competencia sobre la misma comuna;
+Tres Juzgados con asiento en la comuna de La Serena, con competencia sobre las comunas de La Serena y La Higuera;
 
-Un juzgado con asiento en la comuna de Vicuña, con competencia sobre las comunas de Vicuña y Paihuano;
+Tres Juzgados con asiento en la comuna de Coquimbo, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Andacollo, con competencia sobre la misma comuna:
+B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Tres juzgados con asiento en la comuna de Ovalle, con competencia sobre las comunas de Ovalle, Río Hurtado, Monte Patria y Punitaqui;
+Un Juzgado con asiento en la comuna de Vicuña, con competencia sobre las comunas de Vicuña y Paihuano;
 
-Un juzgado con asiento en la comuna de Combarbalá, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Andacollo, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Illapel, con competencia sobre las comunas de Illapel y Salamanca, y Un juzgado con asiento en la comuna de los Vilos, con competencia sobre las comunas de Los Vilos y Canela.
+Tres Juzgados con asiento en la comuna de Ovalle, con competencia sobre las comunas de Ovalle, Río Hurtado, Monte Patria y Punitaqui;
+
+Un Juzgado con asiento en la comuna de Combarbalá, con competencia sobre la misma comuna;
+
+Un Juzgado con asiento en la comuna de Illapel, con competencia sobre las comunas de Illapel y Salamanca, y
+
+Un Juzgado con asiento en la comuna de Los Vilos, con dos jueces, con competencia sobre las comunas de Los Vilos y Canela.
 
 #### Artículo 32
 
@@ -898,29 +912,31 @@ Un juzgado con asiento en la comuna de Peralillo, con competencia sobre las comu
 
 En la Séptima Región, del Maule, existirán los siguientes juzgados de letras:
 
-Cuatro juzgados con asiento en la comuna de Talca, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
+A.- JUZGADOS CIVILES:
 
-Un juzgado con asiento en la comuna de Constitución, con competencia sobre las comunas de Constitución y Empedrado;
+Dos Juzgados con asiento en la comuna de Curicó, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco, y
 
-Un juzgado con asiento en la comuna de Curepto, con competencia sobre la misma comuna;
+Cuatro Juzgados con asiento en la comuna de Talca, con competencia sobre las comunas de Talca, Pelarco, Río Claro, San Clemente, Maule, Pencahue y San Rafael;
 
-Tres juzgados con asiento en la comuna de Curicó, con competencia sobre las comunas de Curicó, Teno, Romeral y Rauco;
+B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un juzgado con asiento en la comuna de Licantén, con competencia sobre las comunas de Licantén, Hualañé y Vichuquén;
+Un Juzgado con asiento en la comuna de Constitución, con dos jueces, con competencia sobre las comunas de Constitución y Empedrado;
 
-Un juzgado con asiento en la comuna de Molina, con competencia sobre las comunas de Molina y Sagrada Familia;
+Un Juzgado con asiento en la comuna de Curepto, con competencia sobre la misma comuna;
 
-Dos juzgados con asiento en la comuna de Linares, con competencia sobre las comunas de Linares, Yerbas Buenas, Colbún y Longaví;
+Un Juzgado con asiento en la comuna de Licantén, con competencia sobre las comunas de Licantén, Hualañé y Vichuquén;
 
-Un juzgado con asiento en la comuna de San Javier, con competencia sobre las comunas de San Javier y Villa Alegre;
+Un Juzgado con asiento en la comuna de Molina, con competencia sobre las comunas de Molina y Sagrada Familia;
 
-Un juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
+Dos Juzgados con asiento en la comuna de Linares, con competencia sobre las comunas de Linares, Yerbas Buenas, Colbún y Longaví;
 
-Un juzgado con asiento en la comuna de Chanco, con competencia sobre las comunas de Chanco y Pelluhue, y
+Un Juzgado con asiento en la comuna de San Javier, con competencia sobre las comunas de San Javier y Villa Alegre;
 
-Un juzgado con asiento en la comuna de Parral, con competencia sobre las comunas de Parral y Retiro.
+Un Juzgado con asiento en la comuna de Cauquenes, con competencia sobre la misma comuna;
 
-> **Nota.** El Nº 8 del Art. 4 de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra B) del presente artículo, sin embargo, al ser esa letra introducida por el Nº 5 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
+Un Juzgado con asiento en la comuna de Chanco, con competencia sobre las comunas de Chanco y Pelluhue, y
+
+Un Juzgado con asiento en la comuna de Parral, con competencia sobre las comunas de Parral y Retiro.
 
 #### Artículo 35
 
@@ -1020,33 +1036,37 @@ Un juzgado con asiento en la comuna de Carahue, con competencia sobre las comuna
 
 En la Décima Región, de Los Lagos, existirán los siguientes juzgados de letras:
 
-Tres juzgados con asiento en la comuna de Osorno, con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
+A.- JUZGADOS CIVILES:
 
-Un juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
+Dos Juzgados con asiento en la comuna de Puerto Montt con competencia sobre las comunas de Puerto Montt y Cochamó;
 
-Dos juzgados con asiento en la comuna de Puerto Montt, con competencia sobre las comunas de Puerto Montt y Cochamó;
+B.- JUZGADOS DE COMPETENCIA COMÚN:
 
-Un juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
+Tres Juzgados con asiento en la comuna de Osorno con competencia sobre las comunas de Osorno, San Pablo, Puyehue, Puerto Octay y San Juan de la Costa;
 
-Un juzgado con asiento en la comuna de Calbuco, con competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Río Negro, con competencia sobre las comunas de Río Negro y Purranque;
 
-Un juzgado con asiento en la comuna de Maullín y competencia sobre esa misma comuna;
+Un Juzgado con asiento en la comuna de Puerto Varas, con competencia sobre las comunas de Puerto Varas, Llanquihue, Frutillar y Fresia;
 
-Un juzgado con asiento en la comuna de Los Muermos y competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Calbuco, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Castro, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queillén;
+Un Juzgado con asiento en la comuna de Maullín, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Quellón y competencia sobre la misma comuna;
+Un Juzgado con asiento en la comuna de Los Muermos, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Ancud, con competencia sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
+Un Juzgado con asiento en la comuna de Castro, con competencia sobre las comunas de Castro, Chonchi, Dalcahue, Puqueldón y Queilén;
 
-Un juzgado con asiento en la comuna de Quinchao, con competencia sobre las comunas de Quinchao y Curaco de Vélez;
+Un Juzgado con asiento en la comuna de Quellón, con competencia sobre la misma comuna;
 
-Un juzgado con asiento en la comuna de Chaitén, con competencia sobre las comunas de Chaitén, Futaleufú y Palena, y
+Un Juzgado con asiento en la comuna de Ancud, con competencia sobre las comunas de Ancud y Quemchi. Este tribunal mantendrá su carácter de juzgado de capital de provincia, para todos los efectos legales, sin perjuicio de la calidad de juzgado de capital de provincia que corresponde al juzgado de Castro;
 
-Un juzgado con asiento en la comuna de Hualaihué, con competencia sobre la misma comuna.
+Un Juzgado con asiento en la comuna de Quinchao, con competencia sobre las comunas de Quinchao y Curaco de Vélez;
 
-> **Nota.** El Nº 10 del Art. 4 de la LEY 20252, publicada el 15.02.2008, dispuso la modificación de la letra A) del presente artículo, sin embargo, al ser dicha letra introducida por el Nº 6 del Art. 13 de la Ley 20.022, su vigencia está sometida a lo gradualidad establecida en su Art. 16, por esta razón no se ha podido incorporar esa modificación en la presente actualización.
+Un Juzgado con asiento en la comuna de Chaitén, con competencia sobre las comunas de Chaitén, Futaleufú y Palena, y
+
+Un Juzgado con asiento en la comuna de Hualaihué, con competencia sobre la misma comuna.
+
+> **Nota.** El Nº 10 del Art. 4 de la LEY 20252, publicada el 15.02.2008, dispuso la sustitución, en la letra A) del presente artículo, de la frase "Tres juzgados" por "Dos juzgados", sin embargo la referida frase no se encuentra en la letra A), por lo que no ha podido ser incorporada en este texto actualizado. Con todo, se hace presente la observación de que "Tres juzgados" es la frase con que se inicia la letra B.
 
 #### Artículo 38
 
@@ -1064,13 +1084,17 @@ Un juzgado con asiento en la comuna de Cisnes, con competencia sobre las comunas
 
 #### Artículo 39
 
-En la Décimo Segunda Región, de Magallanes y Antártica Chilena, existirán los siguientes juzgados de letras:
+En la Décima Segunda Región, de Magallanes y Antártica Chilena, existirán los siguientes juzgados de letras:
 
-Tres juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
+A.- JUZGADOS CIVILES:
 
-Un juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Ultima Esperanza, y
+Tres Juzgados con asiento en la comuna de Punta Arenas, con competencia sobre las comunas de las provincias de Magallanes y Antártica Chilena;
 
-Un juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
+B.- JUZGADOS DE COMPETENCIA COMÚN:
+
+Un Juzgado con asiento en la comuna de Natales, con competencia sobre las comunas de la provincia de Última Esperanza, y
+
+Un Juzgado con asiento en la comuna de Porvenir, con competencia sobre las comunas de la provincia de Tierra del Fuego.
 
 #### Artículo 39 bis
 
@@ -2134,7 +2158,7 @@ Derogado.
 
 #### Artículo 169
 
-Si siendo muchos los responsables de un delito, hubiere entre ellos individuos sometidos a los tribunales militares y otros que no lo estén, el tribunal competente para juzgar a los que gozan de fuero juzgara también a todos los demás.
+Derogado.
 
 #### Artículo 170
 
@@ -5218,7 +5242,7 @@ La Corte Suprema podrá practicar las averiguaciones que estime necesarias acerc
 
 Un reglamento determinará los requisitos, forma y condiciones que deban cumplirse para que dicha práctica sea aprobada.
 
-La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial o de los Tribunales del Trabajo por el hecho de haber desempeñado sus funciones durante cinco años, en las primeras cinco categorías del escalafón del personal de empleados u oficiales de secretaría.
+La obligación establecida en el N° 5 se entenderá cumplida por los postulantes que sean funcionarios o empleados del Poder Judicial por el hecho de haber desempeñado sus funciones durante cinco años, en las primeras cinco categorías del escalafón del personal de empleados u oficiales de secretaría.
 
 #### Artículo 524
 
@@ -5352,7 +5376,7 @@ En razón de esta atribución puede la Corte Suprema, siempre que notare que alg
 
 Puede, asimismo, amonestar a las Cortes de Apelaciones o censurar su conducta, cuando alguno de estos tribunales ejerciere de un modo abusivo las facultades discrecionales que la ley les confiere, o cuando faltare a cualquiera de los deberes anexos a su ministerio; sin perjuicio de formar el correspondiente proceso al tribunal o ministros delincuentes, si la naturaleza del caso así lo exigiere.
 
-El ejercicio de esta jurisdicción establecida en la Constitución Política del Estado, regirá también respecto de los Tribunales del Trabajo.
+> **Nota.** Respecto de la referencia al artículo 86 de la Constitución Política del Estado del inciso primero de la presente norma, debe considerarse efectuada al artículo 82 de la actual Constitución Política de la República.
 
 #### Artículo 541
 

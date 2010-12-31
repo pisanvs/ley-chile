@@ -58,15 +58,23 @@ Conocerán también de las causas por infracciones contempladas en el Código Ae
 
 4° De las acciones civiles que nazcan de los delitos enumerados en los números 1° a 3°, para obtener la restitución de la cosa o su valor.
 
-> **Nota.** NOTA: 2 Véanse el artículo 87 del Decreto Ley N° 2.306, de 12 de Septiembre de 1978, sobre Reclutamiento; 18 de la Ley N° 17.798, de 21 de Octubre de 1972, sobre Control de Armas; 26 de la Ley N° 12927, de 6 de Agosto de 1958, sobre Seguridad del Estado, modificado por el artículo 4° letra e) del Decreto Ley N° 5, de 22 de Septiembre de 1973; 6° del Decreto Ley N° 77, de 13 de Octubre de 1973, que declara ilícitos y disueltos los partidos políticos que señala; 4° del Decreto Ley N° 81, de 13 de Octubre de 1973, que sanciona el desobedecimiento al llamamiento público; 3° del Decreto Ley N° 604, de 10 de Agosto de 1974, que prohíbe el ingreso al territorio nacional de determinadas personas; 7°, 8° y 9° del Decreto Ley N° 640, de 10 de Septiembre de 1974, que sistematiza disposiciones relativas a Regímenes de Emergencia; 4° del Decreto Ley N° 1.009, de 8 de Mayo de 1975, que sistematiza normas sobre protección jurídica de los derechos procesales de los detenidos, 33 del Decreto Ley N° 425 (secreto), sobre Movilización Nacional, ordenado publicar en parte, por el Decreto Ley N° 1.629 (secreto) y que aparece en el Diario Oficial de 22 de Julio de 1977, y artículo único del Decreto Ley N° 3.655, de 17 de Marzo de 1981.
+> **Nota.** Véanse el artículo 87 del Decreto Ley 2306, Defensa, publicado el 12.09.1978, sobre Reclutamiento; 18 de la Ley 17798, publicada el 21.10.1972, sobre Control de Armas; 26 de la Ley 12927, publicada el 06.08.1958, sobre Seguridad del Estado; 7°, 8° y 9° del Decreto Ley 640, Justicia, publicado el 10.09.1974, que sistematiza disposiciones relativas a Regímenes de Emergencia; 33 del Decreto Ley 425 (reservado), sobre Movilización Nacional, ordenado publicar en parte, por el Decreto Ley N° 1629 (reservado), publicado el 22.07.1977.
+
+> **Nota.** NOTA 1 El Art. 1° de la Ley 20477, publicada el 30.12.2010, dispone que "en ningún caso, los civiles y los menores de edad estarán sujetos a la competencia de los tribunales militares. Ésta siempre se radicará en los tribunales ordinarios con competencia en materia penal".
 
 #### Artículo 6°
 
-Para los efectos de este Código, se considerarán militares los que se encuentren comprendidos en las leyes de planta o dotación del Ejército, Armada, Fuerza Aérea y Carabineros; los alumnos que efectúan los dos últimos años de estudios en las Escuelas Matrices para Oficiales de las Fuerzas Armadas, y los aspirantes a Oficiales que integran los cursos de la Escuela de Carabineros; los Oficiales de Reclutamiento; los conscriptos; los miembros de las Fuerzas Armadas desde que sean llamados al servicio; las personas que las sigan en campaña en el estado de guerra; y los prisioneros de guerra.
+Para los efectos de este Código y de las demás leyes procesales y penales pertinentes, se considerarán militares los funcionarios pertenecientes a las Fuerzas Armadas y de Carabineros de Chile, constituidos por el personal de planta, personal llamado al servicio y el personal de reserva llamado al servicio activo.
+
+Además, se considerarán militares los soldados conscriptos; los Oficiales de Reclutamiento; las personas que sigan a las Fuerzas Armadas en estado de guerra; los prisioneros de guerra, que revistan el carácter de militar, los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas Institucionales y de Carabineros de Chile.
+
+Con todo, los menores de edad siempre estarán sujetos a la competencia de los tribunales ordinarios, de acuerdo a las disposiciones de la ley N° 20.084, que establece un sistema de responsabilidad de los adolescentes por infracciones a la ley penal.
+
+Para efectos de determinar la competencia de los tribunales militares, la calidad de militar debe poseerse al momento de comisión del delito.
 
 #### Artículo 7°
 
-Los cadetes, grumetes, aprendices y alumnos regulares de las Escuelas Institucionales y los empleados civiles de las Fuerzas Armadas y de Carabineros de Chile que se encuentren en los casos considerados en el N° 3 del artículo 5; quedarán comprendidos en la jurisdicción militar.
+DEROGADO.
 
 #### Artículo 8°
 
@@ -76,7 +84,7 @@ Derogado.
 
 No obstante lo dispuesto en los artículos precedentes, serán juzgados por los tribunales ordinarios, los militares que se hicieren procesados de delitos comunes cometidos en el ejercicio de funciones propias de un destino público civil.
 
-Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada, excepto el caso de que sean de competencia de los tribunales militares. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice, excepto el caso de que sea de competencia de los tribunales militares.
+Corresponderá conocer de los delitos cometidos por civiles en una nave militar en la alta mar al juzgado en lo criminal competente del primer puerto nacional de arribada. Si el delito fuere cometido por un civil en una aeronave en vuelo, conocerá de ese delito el juzgado en lo criminal competente en el primer aeropuerto nacional en que aquélla aterrice.
 
 #### Artículo 10
 
@@ -84,7 +92,7 @@ Será competente para conocer de los delitos militares, el Juzgado Institucional
 
 #### Artículo 11
 
-El Tribunal Militar tendrá jurisdicción para juzgar no sólo al autor de un delito de jurisdicción militar, sino también a los demás responsables de él, aunque no estén sujetos a fuero.
+El Tribunal Militar tendrá jurisdicción para juzgar no sólo al autor de un delito de jurisdicción militar, sino también a los demás responsables de él, en tanto revistan la calidad de militares.
 
 Tendrá, asimismo, jurisdicción para conocer de los delitos que sean conexos, aun cuando independientemente sean de jurisdicción común, salvo las excepciones legales.
 
