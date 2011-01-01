@@ -94,23 +94,11 @@ El Servicio Nacional, para efectos de autorizar los gastos de capacitación en q
 
 #### Artículo 14
 
-Los aportes de las empresas afiliadas podrán invertirse en el sistema financiero sólo en instrumentos de renta fija. Los intereses y cualquier otro incremento que tuvieren los aportes de las empresas a los organismos técnicos intermedios para capacitación accederán a las respectivas cuentas.
-
-Con todo, la cuenta de administración a que se refiere el artículo 8º deberá invertirse, de igual forma, separadamente de las demás cuentas.
+Los aportes de las empresas afiliadas podrán invertirse en el sistema financiero sólo en instrumentos de renta fija en moneda nacional y en instituciones bancarias y financieras autorizadas por la Superintendencia del ramo. Los intereses y cualquier otro incremento que tuvieren los aportes de las empresas a los organismos técnicos intermedios para capacitación, accederán a la cuenta de administración, consignada en el inciso primero, del artículo 8º de este reglamento. Con todo, el monto de los intereses e incrementos aludidos no podrán exceder del quince por ciento del total de aportes que perciban de las empresas afiliadas. En el evento que los aludidos intereses o incrementos, según corresponda, excedieren del indicado límite, accederán al programa de becas que establece el artículo 16 del reglamento.
 
 #### Artículo 15
 
-Los remanentes de las cuentas de capacitación, de certificación de competencias y de reparto que se produjeren al final del ejercicio anual, deberán ser ejecutados durante el año siguiente al del aporte.
-
-Para estos efectos, los organismos técnicos intermedios para capacitación deberán:
-
-1º Abrir una cuenta de excedentes de capacitación, de excedentes de certificación de competencias laborales y otra de excedentes de reparto, en que se depositarán los remanentes de cada una de las cuentas, las que se administrarán separadamente, y
-
-2º Presentar al Servicio Nacional, antes del 30 de junio de cada año, por empresa afiliada, un programa anual de capacitación y/o de evaluación y de certificación de competencias laborales, cuyo objeto será asegurar la ejecución de la totalidad de los recursos existentes en cada una de las cuentas de excedentes. Estos programas deberán ser elaborados por las empresas afiliadas con el acuerdo de los respectivos comités bipartitos de capacitación, en los términos dispuestos en el párrafo 2º, del Título I, de la ley Nº 19.518 y, en definitiva, contar con la aprobación del Servicio Nacional. Estos programas anuales podrán ser modificados por las empresas afiliadas antes de su ejecución, siempre y cuando, cuenten con la aprobación del Servicio Nacional. En caso contrario, el organismo técnico intermedio para capacitación no podrá disponer de estos recursos para sus empresas afiliadas, los cuales deberán ser transferidos a la cuenta becas de franquicia tributaria del mismo período o de los sucesivos años, si hubieren excedentes. Asimismo, podrá presentar un proyecto específico, durante el mismo año, en conformidad a lo señalado en el artículo 11 de este reglamento.
-
-Si al final del nuevo ejercicio anual y a pesar de haberse cumplido el programa a que refiere el inciso anterior, quedaren remanentes en las cuentas de excedentes, éstos deberán destinarse necesariamente al programa de becas a que se refiere el artículo siguiente.
-
-Los organismos deberán presentar dichos programas a la autorización del Servicio Nacional, a más tardar el día 31 de marzo de cada año.
+Los remanentes de las cuentas de capacitación, de certificación de competencias laborales y de reparto que se produjeren al final del ejercicio anual, deberán ser ejecutados al año siguiente al del aporte. Para este efecto, los organismos técnicos intermedios para capacitación deberán abrir una cuenta de excedentes de capacitación, de excedentes de certificación de competencias laborales y otra de excedentes de reparto, en que se depositarán los remanentes de cada uno de las cuentas aludidas en el artículo 8º, las que se administrarán separadamente. Asimismo, podrán. presentar con cargo a las cuentas de excedentes, durante el mismo año, un proyecto específico de aquellos consignados en el artículo 11 de este reglamento.
 
 #### Artículo 16
 
@@ -122,7 +110,7 @@ Con todo, con cargo a los aludidos remanentes, los organismos técnicos intermed
 
 Para los efectos anteriores, los organismos técnicos intermedios para capacitación deberán presentar los correspondientes programas al Servicio Nacional, a más tardar el último día hábil de febrero de cada año.
 
-Los mencionados organismos asignarán los recursos mediante licitación pública, conforme a las correspondientes bases administrativas aprobadas por el Servicio Nacional y al programa anual de becas de franquicia tributaria convenido y autorizado por dicho servicio. El organismo técnico intermedio para capacitación no podrá cobrar suma alguna por concepto de las bases administrativas.Los programas de becas podrán contemplar los beneficios adicionales que establece el artículo 70 de la ley Nº 19.518, siempre que así, lo autorice el Servicio Nacional en las correspondientes bases administrativas antes aludidas.
+Los mencionados organismos asignarán los recursos mediante licitación pública, conforme a las correspondientes bases administrativas aprobadas por el Servicio Nacional y al programa anual de becas de franquicia tributaria convenido y autorizado por dicho servicio. El Servicio Nacional, mediante resolución, fijará anualmente el monto máximo que el organismo técnico intermedio para capacitación cobrará por costo de las bases administrativas.
 
 Los recursos destinados a estos programas por el organismo se administrarán separadamente en una cuenta denominada de becas de franquicia tributaria.
 
