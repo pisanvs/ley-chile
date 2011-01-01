@@ -10,7 +10,7 @@ Apruébase el siguiente texto refundido, coordinado y sistematizado de la ley N�
 
 ## Título I
 
-Normas aplicables para la XV Región
+Normas aplicables a las provincias de Arica y Parinacota
 
 ### Párrafo I
 
@@ -18,19 +18,19 @@ Del Crédito tributario a la Inversión
 
 #### Artículo 1°
 
-Los contribuyentes que declaren el impuesto de Primera Categoría de la Ley de Impuesto a la Renta sobre renta efectiva determinada según contabilidad completa, tendrán derecho a un crédito tributario por las inversiones que efectúen en la XV Región destinadas a la producción de bienes o prestación de servicios en dicha región, de acuerdo a las disposiciones del presente Párrafo.
+Los contribuyentes que declaren el impuesto de Primera Categoría de la Ley de Impuesto a la Renta sobre renta efectiva determinada según contabilidad completa, tendrán derecho a un crédito tributario por las inversiones que efectúen en las provincias de Arica y Parinacota destinadas a la producción de bienes o prestación de servicios en esas provincias, de acuerdo a las disposiciones del presente Párrafo.
 
-Al mismo beneficio señalado en el inciso anterior tendrán derecho los contribuyentes acogidos al régimen preferencial establecido por el artículo 27 del decreto con fuerza de ley N° 341, de Hacienda, de 1977, sometiéndose en todo a lo dispuesto en este Párrafo, siempre que para estos efectos declaren el Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta, a contar del año comercial en el cual tengan derecho al crédito. Estos contribuyentes podrán volver a optar, a contar del año comercial siguiente del cual terminen de recuperar el crédito, al régimen tributario que contempla el referido decreto con fuerza de ley, respecto de la exención del Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta. Sin embargo, por los años comerciales en que estos contribuyentes se encuentren afectos al Impuesto de Primera Categoría quedarán liberados de efectuar mensualmente pagos provisionales a cuenta del impuesto anual a declarar por la citada Categoría. (1) (Nota 1)
+Al mismo beneficio señalado en el inciso anterior tendrán derecho los contribuyentes acogidos al régimen preferencial establecido por el artículo 27 del decreto con fuerza de ley N° 341, de Hacienda, de 1977, sometiéndose en todo a lo dispuesto en este Párrafo, siempre que para estos efectos declaren el Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta, a contar del año comercial en el cual tengan derecho al crédito. Estos contribuyentes podrán volver a optar, a contar del año comercial siguiente del cual terminen de recuperar el crédito, al régimen tributario que contempla el referido decreto con fuerza de ley, respecto de la exención del Impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta. Sin embargo, por los años comerciales en que estos contribuyentes se encuentren afectos al Impuesto de Primera Categoría quedarán excepcionados de lo dispuesto en la primera parte de la letra d), del número 3°, de la letra A) del artículo 14 y en el artículo 84, ambos de la Ley sobre Impuesto a la Renta, de modo que podrán retirar, remesar o distribuir en cualquier ejercicio las rentas o utilidades que se determinen por dichos años comerciales, a la vez que estarán liberados de efectuar mensualmente pagos provisionales a cuenta del impuesto anual a declarar por la citada Categoría. (1) (Nota 1)
 
 El crédito será equivalente al 30% del valor de los bienes físicos del activo inmovilizado que correspondan a construcciones, maquinarias y equipos, incluyendo los inmuebles destinados preferentemente a su explotación comercial con fines turísticos, directamente vinculados con la producción de bienes o prestación de servicios del giro o actividad del contribuyente, adquiridos nuevos o terminados de construir en el ejercicio, según su valor actualizado al término del ejercicio, de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes. (2) (Nota 1)
 
-Sin perjuicio de lo señalado en el inciso anterior, también tendrán derecho al crédito los contribuyentes que inviertan en la construcción de edificaciones destinadas a oficinas o al uso habitacional -que incluyan o no locales comerciales, estacionamientos o bodegas-, ubicadas en las áreas a que se refieren las letras a) y c) del artículo 19, terminados de construir en el ejercicio; según su valor actualizado al término del ejercicio de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes. El beneficio podrá ser solicitado sólo una vez para el mismo inmueble. (3)
+Sin perjuicio de lo señalado en el inciso anterior, también tendrán derecho al crédito los contribuyentes que inviertan en la construcción de edificaciones destinadas a oficinas o al uso habitacional -que incluyan o no locales comerciales, estacionamientos o bodegas-, de más de 5 unidades, ubicadas en las áreas a que se refieren las letras a) y c) del artículo 19, con una superficie construida no inferior a 1.000 m2, terminados de construir en el ejercicio; según su valor actualizado al término del ejercicio de conformidad con las normas del artículo 41 de la Ley sobre Impuesto a la Renta y antes de deducir las depreciaciones correspondientes. El beneficio podrá ser solicitado sólo una vez para el mismo inmueble. (3)
 
 No podrán considerarse dentro de la inversión para los efectos del beneficio referido, los bienes no sujetos a depreciación, aquellos que para efectos tributarios tengan una vida útil inferior a tres años y los vehículos motorizados en general, a excepción de aquellos vehículos especiales fuera de carretera con maquinaria montada. (4)
 
-Sólo podrán acceder a este beneficio los contribuyentes cuyos proyectos de inversión superen las 500 unidades tributarias mensuales.
+Sólo podrán acceder a este beneficio los contribuyentes cuyos proyectos de inversión sean de un monto superior a las 2.000 unidades tributarias mensuales para los proyectos ejecutados en la provincia de Arica, y a las 1.000 unidades tributarias mensuales para los proyectos que se ejecuten en la provincia de Parinacota.
 
-Los contribuyentes podrán acogerse al beneficio del crédito establecido en este artículo hasta el 31 de diciembre de 2035 y sólo se aplicará respecto de los bienes incorporados al proyecto de inversión a esa fecha, no obstante que la recuperación del crédito a que tengan derecho podrá hacerse hasta el año 2055.
+Los contribuyentes podrán acogerse al beneficio del crédito establecido en este artículo hasta el 31 de diciembre de 2011 y sólo se aplicará respecto de los bienes incorporados al proyecto de inversión a esa fecha, no obstante que la recuperación del crédito a que tengan derecho podrá hacerse hasta el año 2034.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, tratándose de inversiones en construcciones o inmuebles efectuadas en la provincia de Parinacota, el porcentaje de crédito a que se refiere el inciso segundo será del 40%.
 
@@ -38,51 +38,9 @@ Igual porcentaje se aplicará a las inversiones efectuadas en la provincia de Ar
 
 > **Nota.** El Art. primero transitorio de la LEY 20268, publicada el 24.06.2008, dispuso que la modificación introducida en el presente artículo rige a contar del 1º de enero de 2008.
 
-#### Artículo 1º bis
-
-Sin perjuicio de lo dispuesto en el artículo anterior, los contribuyentes que efectúen inversiones al amparo de la presente ley, podrán suspender sus pagos provisionales obligatorios de acuerdo a las siguientes reglas y por los períodos que a continuación se indican:
-
-1. Beneficio.
-
-Cuando el monto del crédito estimado para el ejercicio, de acuerdo a lo señalado en la declaración que contempla el número 3 de este artículo, por las inversiones a que se refiere la presente ley, sea igual o exceda del promedio del impuesto de primera categoría que el contribuyente haya determinado durante los tres últimos años tributarios, podrá suspender totalmente sus pagos provisionales obligatorios. Para el cálculo de dicho promedio, se considerará que el impuesto de primera categoría es igual a cero, cuando el contribuyente hubiese determinado una pérdida tributaria como resultado del respectivo ejercicio.
-
-En caso que el crédito estimado para el ejercicio fuere inferior al promedio del impuesto de primera categoría señalado en el inciso anterior, el contribuyente podrá suspender los pagos provisionales mensuales obligatorios hasta por un monto equivalente al 25% de los desembolsos totales destinados a las inversiones a que se refiere esta ley, estimados para el correspondiente año comercial.
-
-En los casos indicados anteriormente, el crédito estimado corresponderá al remanente de los créditos de que trata esta ley que puedan imputarse en los años tributarios siguientes, más el crédito que se estime para el ejercicio respectivo, determinándose éste en función de la tasa de crédito que corresponda de acuerdo al artículo anterior, aplicada sobre los desembolsos proyectados para el ejercicio, que se destinen a las inversiones a que se refiere esta ley, independientemente de que dicho crédito se encuentre o no devengado al término del mismo.
-
-Para calcular el promedio indicado, el impuesto de primera categoría se convertirá a unidades tributarias mensuales según su valor vigente al término del año comercial a que corresponda el impuesto. El número de unidades tributarias mensuales así obtenido se reconvertirá al valor en pesos que aquéllas tengan a la fecha en que se presente la declaración jurada indicada en el número 3 de este artículo.
-
-2. Beneficiarios.
-
-Los contribuyentes podrán acceder a lo dispuesto en el numeral anterior, a partir del cuarto año comercial contado desde aquel en que hayan presentado su declaración jurada de inicio de actividades afectas al impuesto de primera categoría. Los demás contribuyentes podrán suspender los pagos provisionales mensuales obligatorios durante todo el plazo señalado en el número 4, hasta por un monto equivalente al 25% de los desembolsos totales destinados a las inversiones a que se refiere esta ley, estimados para el correspondiente año comercial, sin perjuicio de que a partir del cuarto año comercial señalado precedentemente, aplicarán íntegramente lo dispuesto en el número anterior.
-
-3. Declaración jurada y deberes de información.
-
-Para los efectos de acogerse a lo dispuesto en este artículo, los contribuyentes deberán presentar al Servicio de Impuestos Internos, en la forma y plazo que éste determine mediante resolución, una declaración jurada en tal sentido, acompañando un detalle técnico del proyecto de inversión, sus fechas estimadas de inicio y término, una especificación de los bienes que se adquirirán o construirán y el monto total de la inversión. La declaración jurada referida deberá ser complementada por los contribuyentes, en cada año comercial en que se acogerán al beneficio de este artículo, respecto de un mismo proyecto de inversión, debiendo informar al Servicio de Impuestos Internos, en la misma forma antes indicada, los desembolsos que proyecten efectuar y el monto del crédito estimado para el mismo período, calculado en la forma indicada en el número 1 anterior.
-
-En todo caso, los contribuyentes siempre podrán rectificar, de manera fundada, en la forma y plazo que establezca el Servicio de Impuestos Internos, la información respecto del crédito estimado y los desembolsos proyectados para el ejercicio, que se destinen a las inversiones a que se refiere esta ley. Del mismo modo, podrán declarar, también fundadamente, que no continuarán desarrollando el proyecto de inversiones que da derecho al beneficio.
-
-Cuando de lo informado por el contribuyente en su declaración rectificatoria resultare un porcentaje menor de suspensión de los pagos provisionales mensuales obligatorios, o no correspondiere suspensión alguna, deberá, respecto de los ingresos brutos que correspondan al mes de dicha rectificación y a los siguientes, cumplir con la obligación de efectuar pagos provisionales obligatorios mensuales de acuerdo a las reglas generales.
-
-Los contribuyentes informarán también, en la respectiva declaración mensual de impuestos, el monto de los ingresos brutos para efectos del cálculo de los pagos provisionales mensuales obligatorios de cada período en que se hayan suspendido tales pagos conforme a este artículo.
-
-4. Período de aplicación.
-
-Los contribuyentes podrán hacer uso del beneficio que establece este artículo a contar de los pagos provisionales obligatorios que deban declararse y pagarse por los ingresos brutos obtenidos a contar del mes de la presentación de la declaración jurada antes referida, y hasta el término de ese año comercial.
-
-Con todo, podrán suspender los pagos provisionales obligatorios de los períodos mensuales siguientes, aplicando las reglas establecidas en los números 1 y 2 anteriores, siempre y cuando presenten previamente al Servicio de Impuestos Internos la declaración jurada complementaria establecida en el inciso primero del número 3 anterior.
-
-5. Sanciones.
-
-En caso que los contribuyentes hubieren suspendido los pagos provisionales mensuales obligatorios en forma indebida, se considerarán para todos los efectos legales como pagos provisionales obligatorios no declarados ni pagados, por lo que éstos se adeudarán junto con los reajustes, intereses y multas que correspondan.
-
-Para estos efectos, se considerará indebida la suspensión de los pagos provisionales mensuales obligatorios, cuando el contribuyente hubiere informado en la declaración jurada establecida en el número 3 anterior, o en su declaración complementaria o rectificatoria, en su caso, un crédito estimado superior a aquel que hubiese correspondido en función de los desembolsos destinados a las inversiones a que se refiere esta ley efectivamente realizados en el ejercicio, o cuando se haya invocado una suspensión por un monto superior a la que corresponda de acuerdo a las reglas de este artículo o a los antecedentes en que se funda.
-
-Lo dispuesto en este artículo es sin perjuicio de la posibilidad de los contribuyentes para invocar otros regímenes de suspensión de sus pagos provisionales mensuales obligatorios, de acuerdo a otras disposiciones legales vigentes.
-
 #### Artículo 2°
 
-El crédito dispuesto en el artículo 1º se deducirá del Impuesto de Primera Categoría que el contribuyente deba pagar, a contar del año comercial de la adquisición o construcción del bien, sin perjuicio del derecho a la rebaja de los créditos establecidos en los artículos 56 número 3) y 63 de la Ley sobre Impuesto a la Renta.
+El crédito dispuesto en el artículo anterior se deducirá del Impuesto de Primera Categoría que el contribuyente deba pagar, a contar del año comercial de la adquisición o construcción del bien, sin perjuicio del derecho a la rebaja de los créditos establecidos en los artículos 56 número 3) y 63 de la Ley sobre Impuesto a la Renta.
 
 El crédito que no se utilice en un ejercicio deberá deducirse en el ejercicio siguiente, reajustándose en la forma prevista en el inciso tercero del número 3° del artículo 31 de la Ley sobre Impuesto a la Renta.
 
@@ -112,11 +70,9 @@ El beneficio que establece este Párrafo es incompatible con cualquier otra boni
 
 La utilización de antecedentes falsos o inexactos para impetrar el beneficio establecido en este Párrafo, será sancionada en la forma prevista en el inciso segundo del N° 4 del artículo 97 del Código Tributario. Para estos efectos, se entenderá que el monto defraudado es el equivalente al impuesto no enterado en arcas fiscales por la aplicación indebida del crédito, sin perjuicio de aplicarse lo dispuesto en los incisos primero y cuarto del artículo 4° de esta ley.
 
-En el caso del artículo 1º bis, para efectos de la aplicación de las sanciones señaladas en este artículo, y sin perjuicio de lo establecido en el número 5 de dicha disposición, se entenderá que el monto defraudado es el equivalente a los pagos provisionales mensuales obligatorios efectivamente suspendidos en exceso de lo informado al Servicio de Impuestos Internos, debidamente reajustados, de acuerdo a lo señalado por el número 3 del mismo artículo.
-
 #### Artículo 7°
 
-Todas aquellas personas condenadas por los delitos contemplados en la ley Nº20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas, deberán restituir al Fisco en la forma prevista en el inciso primero del artículo 4°, las sumas de dinero equivalentes a los beneficios o franquicias que hayan obtenido en virtud de la presente ley. No obstante lo anterior, se aplicará además a dichas personas una multa equivalente al 100% del monto inicial de la franquicia. (8)
+Todas aquellas personas condenadas por los delitos contemplados en la ley N° 19.366, deberán restituir al Fisco en la forma prevista en el inciso primero del artículo 4°, las sumas de dinero equivalentes a los beneficios o franquicias que hayan obtenido en virtud de la presente ley. No obstante lo anterior, se aplicará además a dichas personas una multa equivalente al 100% del monto inicial de la franquicia. (8)
 
 Esta sanción se hará extensiva a las sociedades en las cuales los condenados tengan participación, en proporción al capital aportado o pagado por éstos.
 
@@ -274,8 +230,6 @@ Con todo, las empresas que quieran acceder al beneficio señalado en el inciso a
 
 Las industrias acogidas al régimen de zona franca establecido en el decreto con fuerza de ley N° 341, de Hacienda, de 1977, tendrán derecho por las mercancías de su propia producción que reexpidan al extranjero o exporten, a recuperar los impuestos del decreto ley N° 825, de 1974, en la forma prevista en su artículo 36, que se les hubiere recargado al utilizar servicios o suministros en los procesos industriales necesarios para elaborar dichas mercancías, como también por los contratos de arrendamiento con opción de compra convenidos con la misma finalidad.
 
-Asimismo, las industrias a que se refiere el artículo 27 del señalado decreto con fuerza de ley, podrán acogerse al régimen de recuperación de los impuestos del decreto ley Nº 825, de 1974, mencionado en el inciso anterior, por las ventas de mercancías de su propia producción que hagan a la zona franca de extensión o a otros usuarios de zona franca. Estas operaciones deberán documentarse a través del intercambio de mensajes mediante el uso de un sistema tecnológico que determinará el Servicio de Impuestos Internos mediante resolución, la cual fijará además el contenido de dichos mensajes.
-
 #### Artículo 28
 
 Sustitúyese la glosa de la subpartida 0009.0200 del capítulo 0 (cero) del Arancel Aduanero, en su texto complementado por el artículo 3° de la ley N° 19.288, por la siguiente:
@@ -336,7 +290,7 @@ DEROGADO
 
 #### Artículo 35
 
-Las mercancías elaboradas por empresas industriales manufactureras, que no estén acogidas al régimen que establece el artículo 27° del decreto con fuerza de ley N° 341, de 1977, del Ministerio de Hacienda, instaladas o que se instalen en Arica, y que desarrollen actividades destinadas a la obtención de mercancías que tengan una individualidad diferente de las materias primas, partes o piezas extranjeras utilizadas en su elaboración, o que en su proceso productivo provoquen una transformación irreversible de dichas materias primas, partes o piezas extranjeras, podrán, en la venta de las mercancías fuera de la Primera Región, al resto del país, y sólo hasta el 31 de diciembre del año 2035, solicitar el reintegro de los derechos, tasas y demás gravámenes aduaneros determinados por las aduanas, incluida la tasa de despacho, pagados en la importación de las referidas materias primas, partes o piezas extranjeras, utilizadas en su elaboración. (22)
+Las mercancías elaboradas por empresas industriales manufactureras, que no estén acogidas al régimen que establece el artículo 27° del decreto con fuerza de ley N° 341, de 1977, del Ministerio de Hacienda, instaladas o que se instalen en Arica, y que desarrollen actividades destinadas a la obtención de mercancías que tengan una individualidad diferente de las materias primas, partes o piezas extranjeras utilizadas en su elaboración, o que en su proceso productivo provoquen una transformación irreversible de dichas materias primas, partes o piezas extranjeras, podrán, en la venta de las mercancías fuera de la Primera Región, al resto del país, y sólo hasta el 31 de diciembre del año 2012, solicitar el reintegro de los derechos, tasas y demás gravámenes aduaneros determinados por las aduanas, incluida la tasa de despacho, pagados en la importación de las referidas materias primas, partes o piezas extranjeras, utilizadas en su elaboración. (22)
 
 Será aplicable a este beneficio lo dispuesto en los incisos segundo, tercero y cuarto del artículo 28° del decreto con fuerza de ley N° 341, de 1977, del Ministerio de Hacienda.
 
