@@ -2984,6 +2984,10 @@ En cualquiera de los dos casos propuestos, los accionistas podrán intervenir pe
 
 La participación es un contrato por el cual dos o más comerciantes toman interés en una o muchas operaciones mercantiles, instantáneas o sucesivas, que debe ejecutar uno de ellos en su solo nombre y bajo su crédito personal, a cargo de rendir cuenta y dividir con sus asociados las ganancias o pérdidas en la proporción convenida.
 
+#### Artículo 507 bis
+
+La sociedad en comandita que durante más de 90 días seguidos tenga 500 o más accionistas o, a lo menos, el 10% de su capital suscrito pertenezca a un mínimo de 100 accionistas, excluidos los que individualmente o a través de otras personas naturales o jurídicas, excedan dicho porcentaje, por el solo ministerio de la ley se transformará en una sociedad anónima, siéndole totalmente aplicables las disposiciones pertinentes de dicha ley, las que en este caso prevalecerán sobre el estatuto social. La siguiente junta de accionistas deberá resolver las adecuaciones que reflejen la nueva modalidad social y elegir los miembros del directorio que continuará la administración.
+
 #### Artículo 508
 
 La participación no está sujeta en su formación a las solemnidades prescritas para la constitución de las sociedades.
