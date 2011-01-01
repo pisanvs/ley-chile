@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.682 de 7 de diciembre de 2010 de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 3.640 de 2009, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Seguimiento regional de la Pesquería de las Algas Pardas en la II Región de Antofagasta", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el 31 de octubre de 2011, inclusive.
+
+Valparaíso, 7 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
