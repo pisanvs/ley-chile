@@ -1140,6 +1140,20 @@ Fluvial (Rafting)"
 
 aduaneras.
 
+15 Terminal Portuario Ocasional Importación de
+
+Skretting graneles
+
+41º 47' 10" S y líquidos, paso
+
+73º 26' 43" W de personas, y
+
+todo tipo de
+
+operaciones
+
+aduaneras.
+
 Ñ. SUJETOS A LA JURISDICCION DE LA ADUANA DE COIHAIQUE:
 
 Punto Habilitado Habilitación Operaciones aduaneras
@@ -1236,7 +1250,7 @@ San Martín operaciones
 
 Turismo).
 
-48°57' S D.O. 28.08.2003
+48°57' S
 
 72°49' W
 
