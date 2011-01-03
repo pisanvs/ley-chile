@@ -166,13 +166,9 @@ En la situación prevista por el inciso precedente, dichas personas indígenas, 
 
 > **Nota.** El Artículo Único del Decreto 93, Agricultura, publicado el 06.12.2010 modifica el presente decreto en el sentido de suspender el procedimiento de concesión del subsidio forestal que correspondería aplicar conforme al artículo 12, y de mantener el aplicado durante el año 2005.
 
-> **Nota.** NOTA 1 El Artículo Único del Decreto 14, Agricultura, publicado el 26.04.2011 modifica el presente decreto en el sentido de suspender el procedimiento de concesión del subsidio forestal que correspondería aplicar conforme al artículo 12, y de mantener el aplicado durante el año 2005.
-
-> **Nota.** NOTA 2 El Artículo único del Decreto 12, Agricultura, publicado el 12.03.2012, modifica la presente norma, en el sentido de suspender el procedimiento de concesión del subsidio forestal que corresponde aplicar conforme a lo dispuesto en el artículo 12 de la presente norma, y de mantener el aplicado durante el año 2005.
-
 #### Artículo 13
 
-Los terrenos calificados de aptitud preferentemente forestal cuya superficie esté cubierta en al menos un 30% por bosque nativo, estarán exentos del impuesto territorial que grava los terrenos agrícolas.
+Los terrenos calificados de aptitud preferentemente forestal que cuenten con plantaciones bonificadas y los bosques nativos, estarán exentos del impuesto territorial que grava los terrenos agrícolas. Esta exención, respecto de los bosques bonificados, cesará 2 años después de concluida la primera rotación.
 
 Asimismo, estarán exentos del impuesto los terrenos cubiertos con bosques de protección, entendiéndose por tales los ubicados en suelos frágiles con pendientes iguales o superiores a 45% y los próximos a fuentes, cursos o masas de agua destinados al resguardo de tales recursos hídricos. Estos últimos, podrán cubrir una franja equivalente al ancho máximo del cauce natural, la que no podrá exceder de 400 metros medidos desde el borde del mismo.
 
