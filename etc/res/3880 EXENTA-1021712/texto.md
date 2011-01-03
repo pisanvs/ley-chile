@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.880, de 23 de diciembre de 2010, de esta Subsecretaría, recházanse las solicitudes números 204101007, 208101139, 208101156, 209101121, 208101172, 208101084, 208103210, 208103132, 209103035, 202104024, 208104054, 208104052, 208104017, 207103218, 209103083, 209103022, 208103198, 209103048, 209103052, 208103207, 208104019 y 208101173, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 23 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
