@@ -1,0 +1,3 @@
+ORDENA NOTIFICAR CIERRE DE PROCEDIMIENTOS ADMINISTRATIVOS Y SANCIONA A EGIS
+
+Por resoluciones exentas Nº 1.324, Nº 1.325 y Nº 1.326, todas de fecha 15 de diciembre de 2010, de la Seremi Minvu de Los Lagos, ordena notificar cierre de procedimientos administrativos y sanciona a EGIS/PAST Marcelo Ruay Aguilar, RUT Nº 13.734.818-7; MAAN S.A., RUT Nº 76.049.194-2, y Portaldeobras Consultores Ltda., RUT Nº 76.489.430-8, respectivamente. Resoluciones íntegras disponibles en Gobierno Transparente de web www.minvu.cl.
