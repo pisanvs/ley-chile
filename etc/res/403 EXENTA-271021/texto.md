@@ -30,8 +30,6 @@ Resuelvo:
 
 Fíjase la siguiente norma técnica sobre requisitos de seguridad aplicables a las instalaciones y equipos que indica, de servicios de telecomunicaciones que utilizan estaciones de radiocomunicaciones que generan ondas electromagnéticas.
 
-> **Nota.** La Resolución 3103 Exenta, Transportes, publicada el 18.06.2012 viene a modificar la presente resolución en el sentido de reemplazar su texto actual por el que en ella señala y, por lo anterior, fija su texto refundido.
-
 ## Título I
 
 Disposiciones Preliminares
