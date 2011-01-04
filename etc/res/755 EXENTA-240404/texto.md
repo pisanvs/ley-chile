@@ -210,7 +210,11 @@ a 300 metros
 
 2.400 a 2.483,5 MHz 1,5 mW
 
+17.100 17.300 MHz 400 Mw
+
 Los equipos que operen en la banda de 1.920 - 1.930 MHz deberán emplear técnicas de selección dinámica de canales.
+
+La banda 17.100 17.300 MHz estará destinada para aplicaciones de monitoreo remoto de desplazamientos de estructuras y/o tierra, mediante el empleo de radares terrestres de apertura sintética (GBSAR: Ground Based Synthetic Aperture Radar) que empleen mecanismos que permitan la coexistencia con otros sistemas de radar que operen en la misma banda.
 
 j.3) Operen, al interior de inmuebles, en la banda de 915 a 928 MHz con una potencia máxima radiada de 100 mW con técnicas como: espectro ensanchado con secuencia directa o con saltos de frecuencia, monitoreo previo, selección dinámica de canales u otras técnicas de modulación digital que funcionen con un ancho de banda mínimo de 5 MHz y permitan compartir frecuencias.
 
@@ -235,6 +239,8 @@ Los equipos UWB, dependiendo del tipo de aplicación, deberán cumplir con las d
 Los importadores o fabricantes de cualquiera de los aparatos antes señalados, previo a venderlos o cederlos a terceros a cualquier título deberán obtener de la Subsecretaría de Telecomunicaciones, la que a su vez podrá aceptar las certificaciones de otras Administraciones de Telecomunicaciones con las cuales se haya suscrito un acuerdo de reconocimiento mutuo, un certificado que acredite que el o los aparatos cumplen con las características técnicas señaladas en la presente resolución y, por lo tanto, su uso no requiere de autorización.
 
 La certificación señalada para el caso de equipos MICS y otros equipos empleados para aplicaciones médicas, se refiere única y exclusivamente al cumplimiento de los parámetros técnicos y condiciones de funcionamiento en el ámbito de las telecomunicaciones. Lo anterior, sin perjuicio de lo que dispongan las autoridades competentes en el ámbito de la salud para este tipo de equipos, siendo responsabilidad de las interesadas recurrir a las referidas autoridades para la verificación de las disposiciones que fueran aplicables en el citado ámbito.
+
+Además, al solicitarse la certificación deberá demostrarse que se cumple con lo establecido en el Artículo 3° de la Resolución N° 403, de 2008, de la Subsecretaría de Telecomunicaciones, sobre requisitos de seguridad aplicables a instalaciones y equipos que generen ondas electromagnéticas.
 
 #### Artículo 3º
 
