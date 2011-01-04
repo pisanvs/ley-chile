@@ -2,4 +2,6 @@ FIJA PORCENTAJE DE COINCIDENCIA ENTRE EL TRAZADO TRONCAL Y EL CONJUNTO DE TRAZAD
 
 Determínase, para los efectos del D.S. N° 72/91, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes que en las ciudades de la VIII Región, las variantes de los trazados troncales que se señalan deben coincidir con éstos en un 70% como mínimo.
 
+Salvo, respecto a los servicios de taxi colectivo que presten servicios en las vías de la ciudad de Penco, respecto a los cuales se FIJA en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal.
+
 Anótese y publíquese.- Mauricio Leiva Chamorro, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Bío Bío.
