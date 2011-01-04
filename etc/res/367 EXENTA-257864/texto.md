@@ -42,9 +42,9 @@ XI 543 413.131 UF.
 
 XII 543 98.817 UF.
 
-RM 564 3.404.039 UF.
+RM 564 3.404.019 UF.
 
-Total País 11.557.034
+Total País 11.577.014
 
 3º.- Adicionalmente se destinarán para los concursos mensuales a realizar según lo establecido en el número 1º de esta Resolución 1.865.297 UF. para otorgar subsidios diferenciados a la localización de los Proyectos de Construcción que cumplan con lo dispuesto en el Título XVI del D.S Nº 174 (V. y U.), de 2005.
 
