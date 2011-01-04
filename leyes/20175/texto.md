@@ -108,7 +108,11 @@ Créanse en la planta del Servicio de Gobierno Interior, establecida en el artí
 
 Planta/Cargo Grado Nº Cargos Total
 
-Eliminado
+AUTORIDADES DE GOBIERNO
+
+Intendente 1A 1
+
+Gobernador 3 1 2
 
 DIRECTIVOS-CARGOS DE CARRERA REGIDOS POR EL ARTICULO 8º
 
