@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.929, de 28 de diciembre de 2010, de esta Subsecretaría, déjase sin efecto las resoluciones exentas Nº 3.468 y Nº 3.469, ambas de 2010, de esta Subsecretaría, que distribuyen la fracción artesanal de las pesquerías de Anchoveta y Sardina común sometidas al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales en la V y VIII Regiones, respectivamente, en virtud de lo expuesto en la parte considerativa de la presente resolución y lo dispuesto en el artículo 61 de la ley Nº 19.880.
+
+Valparaíso, 28 de diciembre de 2010.- Felipe Palacio Rives, Subsecretario de Pesca (S).
