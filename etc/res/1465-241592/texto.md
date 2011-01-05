@@ -46,7 +46,7 @@ f) Semillas, plantas y partes de plantas del género Castanea.
 
 g) Plantas o estacas enraizadas de Vitis vinifera.
 
-h) Cañas tropicales.
+h) ELIMINADA.
 
 i) Semillas, plantas o partes de plantas de todas las especies híbridos y variedades de los géneros Berberis, Mahonía y Mahoberberis.
 
