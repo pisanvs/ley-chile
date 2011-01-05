@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A INDUSTRIA METALÚRGICA ACEROLAM LIMITADA
+
+Núm. 10.- Certifico que Industria Metalúrgica Acerolam Limitada, RUT Nº 80.484.200-4, cumple los requisitos establecidos en la resolución exenta Nº 07 del 28/01/2003 y que, en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de chatarra a partir del 1º del mes siguiente al de la publicación de este Certificado en el Diario Oficial. La calidad de agente retenedor de la chatarra se otorga por cumplimiento de requisitos, adecuado comportamiento tributario y, porque a juicio del Director, el ejercicio de dicha calidad es de interés para el sector y para el buen funcionamiento del mercado. Lo anterior en virtud de las facultades contenidas en el artículo 3º inciso tercero de la ley sobre Impuesto a las Ventas y Servicios.
+
+San Miguel, 27 de diciembre de 2010.- Flavia Ortiz Quezada, Directora Regional XVI D. R. M. S. S.
