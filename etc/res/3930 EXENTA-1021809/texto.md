@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.930, de 28 de diciembre de 2010, de esta Subsecretaría, déjase sin efecto la resolución Nº 3.649 de 2009, de esta Subsecretaría, que rechazó la solicitud de concesión de acuicultura Nº 207101079, para un centro de cultivo ubicado en estero Reloncaví, al oeste de Punta Barquillo, X Región, en virtud de lo dispuesto en el artículo 59 de la ley Nº 19.880.
+
+Valparaíso, 28 de diciembre de 2010.- Felipe Palacio Rives, Subsecretario de Pesca (S).
