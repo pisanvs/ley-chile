@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.938, de 28 de diciembre de 2010, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 206106054, 206106068, 206103135, 205103043, 206106020, 206103237, 206103137, 206103138, 208103119, 206106078, 209103067, 208103144, 207103216, 204111044, 204111054, 207105008, 204103175, 204103014, 204103015, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del DS Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de diciembre de 2010.- Felipe Palacio Rives, Subsecretario de Pesca (S).
