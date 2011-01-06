@@ -1,0 +1,7 @@
+MODIFICA RES. EX. Nº 5856 DEL 6 DE OCTUBRE DE 1998, QUE ELIMINA OTORGAMIENTO DE BOLETAS DE HONORARIOS POR PROFESIONALES Y SOCIEDADES DE PROFESIONALES AL FONDO NACIONAL DE SALUD
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 201 del 31 de diciembre de 2010, que señala:
+
+Introdúcese modificaciones en la res. ex. Nº5.856, del 6 de octubre de 1998, con el fin de que Fonasa pueda publicar las liquidaciones emitidas a profesionales y sociedades de profesionales, sin que se requiera su impresión en papel y su envío a domicilio. Para dicho efecto, deberá solicitar previamente, la autorización correspondiente a los citados receptores beneficiarios de las mismas, la que tendrá el carácter de voluntaria y podrá ser entregada por escrito o mediante acceso autenticado por los profesionales y sociedades de profesionales al sitio Web de Fonasa; en este último caso, Fonasa deberá almacenar dichas autorizaciones, en un repositorio electrónico, resguardando técnicamente la integridad de su contenido.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2010.
