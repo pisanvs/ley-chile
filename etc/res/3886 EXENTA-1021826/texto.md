@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.886, de 27 de diciembre de 2010, de esta Subsecretaría, modifícase el numeral 6.- de la resolución exenta Nº 2.337 de 2010, de esta Subsecretaría, que autorizó a FUNDACIÓN CHINQUIHUE para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación del recurso Juliana (Tawera gayi) en el mar interior de la Región de Los Lagos", en el sentido de incrementar en 5.000 toneladas el límite máximo total del recurso Juliana autorizado a extraer en el marco de la presente pesca de investigación.
+
+Valparaíso, 27 de diciembre de 2010.- Felipe Palacio Rives, Subsecretario de Pesca (S).
