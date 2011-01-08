@@ -2072,7 +2072,9 @@ Son infracciones o contravenciones graves las siguientes:
 
 13. Infringir las normas sobre virajes contempladas en los artículos 134 y 135;
 
-14. Conducir un vehículo con sus sistemas de dirección o de frenos en condiciones deficientes;
+14. Conducir un vehículo con sus sistemas de direcció
+
+n o de frenos en condiciones deficientes;
 
 15. Conducir un vehículo sin luces en las horas y circunstancias en que las exige esta ley o sus reglamentos;
 
@@ -2108,7 +2110,9 @@ Son infracciones o contravenciones graves las siguientes:
 
 31. Conducir un vehículo infringiendo lo dispuesto en el número 10 del artículo 75;
 
-32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efectúe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
+32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efect
+
+úe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
 
 33. Mantener abiertas las puertas de un vehículo de locomoción colectiva mientras se encuentra en movimiento; llevar pasajeros en las pisaderas o no detenerse junto a la acera al tomar o dejar pasajeros;
 
@@ -2122,11 +2126,13 @@ Son infracciones o contravenciones graves las siguientes:
 
 38. Usar los particulares, dispositivos especiales propios de vehículos de emergencia, salvo los autorizados por el reglamento;
 
-39. Detenerse, tratándose de medios de locomoción pública, en la intersección de calles, a dejar o tomar pasajeros en segunda fila o en paraderos no autorizados, y
+39. Detenerse, tratándose de medios de locomoción pública, en la intersección de calles, a dejar o tomar pasajeros en segunda fila o en paraderos no autorizados;
 
-40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves.
+40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves, y
 
-En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo.
+41. No pagar la tarifa en vehículos de locomoción colectiva.
+
+En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
 
 #### Artículo 201
 
