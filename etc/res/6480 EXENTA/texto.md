@@ -18,8 +18,6 @@ El número de proyectos seleccionados y preseleccionados en cada región alcanza
 
 3. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de los proyectos seleccionados y preseleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El Número 1 de la Resolución 4007 Exenta, Vivienda, publicada el 09.07.2011, viene a modificar el resuelvo número 2 de la presente resolución en el sentido de reemplazar el cuadro inserto en dicho resuelvo, correspondiente a los montos de subsidio otorgados a las regiones que concursaron en el llamado, las filas correspondientes a los recursos (UF) otorgados a la Región de Los Ríos y al Total País, por los que en ella señala.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
