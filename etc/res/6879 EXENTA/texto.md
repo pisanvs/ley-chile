@@ -18,10 +18,6 @@ El número de proyectos seleccionados y preseleccionados en cada una de las regi
 
 3. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El Nº 1 de la Resolución 1649 Exenta, Vivienda, publicada el 22.03.2011, modifica el resuelvo Nº 2 de la presente norma en el sentido de sustituir las filas correspondientes a la Región de Magallanes y Antártica Chilena y al Total País, por las que la citada norma indica.
-
-> **Nota.** NOTA 1 El Nº 1 de la Resolución 3730 Exenta, Vivienda, publicada el 02.07.2011, modifica la presente norma, en el sentido de reemplazar las filas correspondientes a la Región Metropolitana y Total Paîs.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
