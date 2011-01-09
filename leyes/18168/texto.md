@@ -30,11 +30,13 @@ Dentro de estos servicios, constituyen una subcategoría los servicios de radiod
 
 b) Servicios públicos de telecomunicaciones, destinados a satisfacer las necesidades de telecomunicaciones de la comunidad en general. Estos deberán estar diseñados para interconectarse con otros servicios públicos de telecomunicaciones.
 
-c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telcomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
+c) Servicios limitados de telecomunicaciones, cuyo objeto es satisfacer necesidades específicas de telecomunicaciones de determinadas empresas, entidades o personas previamente convenidas con éstas. Estos servicios pueden comprender los mismos tipos de emisiones mencionadas en la letra a) de este artículo y su prestación no podrá dar acceso a tráfico desde o hacia los usuarios de las redes públicas de telecomunicaciones.
 
 d) Servicios de aficionados a las radiocomunicaciones, cuya finalidad es la intercomunicación radial y la experimentación técnica y científica, llevadas a cabo a título personal y sin fines de lucro.
 
-e) Servicios intermedios de telecomunicaciones, constituidos por los servicios prestados por terceros, a través de instalaciones y redes, destinados a satisfacer las necesidades de transmisión o conmutación de los concesionarios o permisionarios de telecomunicaciones en general, o a prestar servicio telefónico de larga distancia a la comunidad en general.
+e) Servicios intermedios de telecomunicaciones, constituidos por los servicios prestados por terceros, a través de instalaciones y redes, destinados a satisfacer las necesidades de los concesionarios o permisionarios de telecomunicaciones en general, o a prestar servicio telefónico de larga distancia a la comunidad en general.
+
+Tratándose de concesionarios de servicios intermedios de telecomunicaciones que únicamente provean infraestructura física para telecomunicaciones, sólo les serán exigibles a efectos de obtener, instalar, operar y explotar la concesión, aquellos requisitos que establezca el reglamento dictado al efecto por el Ministerio.
 
 #### Artículo 4°
 
@@ -65,6 +67,14 @@ El control de todo o parte de las telecomunicaciones, durante estados de excepci
 El Ministerio de Transportes y Telecomunicaciones velará porque todos los servicios de telecomunicaciones y sistemas e instalaciones que generen ondas electromagnéticas, cualquiera sea su naturaleza, sean instalados, operados y explotados de modo que no causen lesiones a personas o daños a cosas ni interferencias perjudiciales a los servicios de telecomunicaciones nacionales o extranjeros o interrupciones en su funcionamiento.
 
 Además le corresponderá controlar y supervigilar el funcionamiento de los servicios públicos de telecomunicaciones y la protección de los derechos del usuario, sin perjuicio de las acciones judiciales y administrativas a que éstos tengan derecho.
+
+#### Artículo 7º bis
+
+En situaciones de emergencia resultantes de fenómenos de la naturaleza o fallas eléctricas generalizadas o en situaciones de catástrofe, los concesionarios, permisionarios o licenciatarios de telecomunicaciones deberán transmitir sin costo, en la medida que sus sistemas técnicos así lo permitan y en que no se afecte la calidad de servicio definida en la normativa técnica bajo cuyo amparo se encuentran dichas concesiones, permisos o licencias, los mensajes de alerta que les encomienden el o los órganos a los que la ley otorgue esta facultad. Lo anterior con el fin de permitir el ejercicio de las funciones gubernamentales de coordinación, prevención y solución de los efectos que puedan producirse en situaciones de emergencia. Un reglamento definirá la interoperación entre estos sistemas de alerta y los concesionarios de telecomunicaciones.
+
+La obligación contenida en este artículo se entenderá cumplida con la sola retransmisión de los mensajes de alerta por parte del concesionario, permisionario o licenciatario, a los usuarios a quienes les presten servicios de telecomunicaciones de conformidad con lo dispuesto en el artículo 3º, quedando exentos de responsabilidad en caso de fuerza mayor o hecho fortuito.
+
+Los concesionarios, permisionarios o licenciatarios no asumirán responsabilidad por el contenido del mensaje que deban retransmitir.
 
 ## Título II
 
@@ -162,9 +172,9 @@ Todo informe técnico de la Subsecretaría tendrá el valor de prueba pericial.
 
 El informe de la Subsecretaría será notificado a los interesados, quienes dentro del plazo fatal de diez días sólo podrán desvirtuar los reparos que sean injustificados. La Subsecretaría deberá pronunciarse sobre las observaciones que hagan los interesados dentro de un plazo máximo de diez días después de recibida la última de ellas.
 
-El Ministro, cumplido los trámites precedentes, asignará la concesión o declarará desierto el concurso público o, de existir solicitudes con similares condiciones, llamará a sorteo público entre éstas. El Ministro, en los dos primeros casos o en el tercero, resuelta el sorteo público, dictará la resolución respectiva. Esta se publicará en extracto redactado por la Subsecretaría, por una sola vez, en el Diario Oficial. Además, se publicará en un diario de la capital de la provincia o a falta de éste de la capital de la región en la cual se ubicarán las instalaciones y equipos técnicos de la emisora.
+El Ministro, cumplido los trámites precedentes, asignará la concesión o declarará desierto el concurso público o, de existir solicitudes con similares condiciones, llamará a sorteo público entre éstas. El Ministro, en los dos primeros casos o en el tercero, resuelta el sorteo público, dictará la resolución respectiva. Ésta se notificará al o los interesados de conformidad a lo dispuesto en el artículo 16 bis, tras lo cual se publicará en extracto redactado por la Subsecretaría en el sitio web de dicho organismo, el que para tales fines mantendrá un link especial con acceso directo a todas las resoluciones publicadas, a lo menos, en el mes anterior. En caso de declararse desierto el concurso por ausencia de postulantes la resolución correspondiente se publicará en extracto en el sitio web de la Subsecretaría, sin necesidad de notificación previa.
 
-En el caso de otorgamiento de la concesión las publicaciones serán de cargo del beneficiado y deberán realizarse dentro de los 10 días siguientes a la fecha de su notificación, bajo sanción de tenérsele por desistido de su solicitud, por el solo ministerio de la ley y sin necesidad de resolución adicional alguna. En caso de declararse desierto el concurso la publicación sólo se hará en el Diario Oficial, será de cargo de la Subsecretaría y deberá realizarse en igual plazo.
+ELIMINADO.
 
 Esta resolución será reclamable por quien tenga interés en ello, dentro del plazo de 10 días contados desde la publicación de su extracto. La reclamación deberá ser fundada, presentarse por escrito ante el Ministro, acompañar todos los medios de prueba que acrediten los hechos que la fundamentan y fijar domicilio dentro del radio urbano de la comuna de Santiago.
 
@@ -192,13 +202,15 @@ En caso que la solicitud se haya presentado con anterioridad a la publicación d
 
 Se procederá de igual manera en aquellos casos en que, en virtud de una solicitud de concesión o de permiso, la Subsecretaría estime que debe emitirse una norma técnica para el servicio respecto del cual se solicita la concesión o permiso.
 
-El llamado a concurso se hará mediante aviso publicado en el Diario Oficial los días 1° y 15 del mes o al día siguiente, en caso que alguno de éstos fuese feriado. Se aplicarán al concurso las normas que se establecen en los artículos 13 y 13A, en lo que les sea aplicable. No se entenderá aplicable lo dispuesto en los incisos final del artículo 13 y segundo del artículo 13 A.
+El llamado a concurso se hará mediante aviso publicado en el Diario Oficial los días 1° y 15 del mes o al día siguiente, en caso que alguno de éstos fuese feriado. Se aplicarán al concurso las normas que se establecen en los artículos 13 y 13A, en lo que les sea aplicable. Las publicaciones a que se refiere el artículo 13 A se harán en el Diario Oficial y en un diario de la capital de la provincia o a falta de éste de la capital de la región en la cual se ubicarán las instalaciones. En el caso de otorgamiento de la concesión o permiso las publicaciones serán de cargo del beneficiado y deberán realizarse dentro de los 10 días siguientes a la fecha de su notificación, bajo sanción de tenérsele por desistido de su solicitud, por el solo ministerio de la ley y sin necesidad de resolución adicional alguna. En caso de declararse desierto el concurso la publicación sólo se hará en el Diario Oficial, será de cargo de la Subsecretaría y deberá realizarse en igual plazo.No se entenderá aplicable lo dispuesto en los incisos final del artículo 13 y segundo del artículo 13 A.
 
 #### Artículo 14
 
 Son elementos de la esencia de una concesión y, por consiguiente, inmodificables:
 
-a) En los servicios de telecomunicaciones de libre recepción o de radiodifusión: el tipo de servicio, la zona de servicio, el período de la concesión, el plazo para iniciar la construcción de las obras y para su terminación, el plazo para el inicio de las transmisiones, la potencia y la frecuencia, y b) En los servicios públicos o intermedios de telecomunicaciones: el tipo de servicio y el período de la concesión.
+a) En los servicios de telecomunicaciones de libre recepción o de radiodifusión: el tipo de servicio, la zona de servicio, el período de la concesión, el plazo para iniciar la construcción de las obras y para su terminación, el plazo para el inicio de las transmisiones, la potencia y la frecuencia, y
+
+b) En los servicios públicos o intermedios de telecomunicaciones: el tipo de servicio y el período de la concesión.
 
 En todo decreto supremo que otorgue una concesión deberá dejarse constancia expresa de los elementos de la esencia y además de los siguientes elementos:
 
@@ -208,9 +220,9 @@ En todo decreto supremo que otorgue una concesión deberá dejarse constancia ex
 
 Los elementos indicados en los números 1 y 2 precedentes, serán modificables por decreto supremo a solicitud de parte interesada.
 
-En las concesiones de servicios de telecomunicaciones de libre recepción o de radiodifusión, las solicitudes que digan relación con la modificación de la ubicación de la planta transmisora y la ubicación y características técnicas del sistema radiante, se regirán por las normas establecidas en los artículos 15 y 16 de esta ley y sólo serán aceptadas en la medida que no modifiquen o alteren la zona de servicio.
+En las concesiones de servicios de telecomunicaciones de libre recepción o de radiodifusión, las solicitudes que digan relación con la modificación de la ubicación de la planta transmisora y la ubicación y características técnicas del sistema radiante, se regirán por las normas establecidas en los artículos 15 y 16 de esta ley y sólo serán aceptadas en la medida que no modifiquen o alteren la zona de servicio.Las publicaciones previstas en las citadas disposiciones se harán en el sitio web de la Subsecretaría, conforme a lo dispuesto en el artículo 13 A.
 
-En las concesiones de servicios públicos e intermedios de telecomunicaciones, las solicitudes que digan relación con las zonas de servicios, potencia, frecuencia y características técnicas de los sistemas radiantes se regirán por las normas establecidas en los artículos 15 y 16 de esta ley.
+En las concesiones de servicios públicos e intermedios de telecomunicaciones, las solicitudes que digan relación con las zonas de servicios, potencia, frecuencia y características técnicas de los sistemas radiantes se regirán por las normas establecidas en los artículos 15 y 16 de esta ley, con excepción de aquellas modificaciones que, no importando una alteración de la zona de servicio, de las frecuencias, del ancho de banda o de las potencias máximas ya autorizadas, se instalen sobre infraestructuras ya autorizadas, en cuyo caso la autorización se otorgará mediante resolución de la Subsecretaría.
 
 El Ministerio, en casos graves y urgentes y por resolución fundada, podrá acceder provisoriamente a las modificaciones solicitadas, sin perjuicio de lo que se pueda resolver en definitiva. Rechazada la solicitud, deberá dejarse sin efecto todo lo hecho en virtud de la autorización provisoria, sin derecho a indemnización o pago alguno.
 
@@ -534,7 +546,9 @@ Toda comunicación que exceda una zona primaria será considerada de larga dista
 
 Los concesionarios de servicios públicos de telecomunicaciones podrán efectuar cobros por la instalación del servicio e iniciar el cobro por el suministro de servicios al público usuario, con la autorización previa de la Subsecretaría de Telecomunicaciones.
 
-Toda suspensión, interrupción o alteración del servicio telefónico que exceda de 12 horas por causa no imputable al usuario, deberá ser descontada de la tarifa mensual de servicio básico a razón de un día por cada 24 horas o fracción superior a 6 horas. En caso que la suspensión, interrupción o alteración exceda de 3 días consecutivos en un mismo mes calendario y no obedezca a fuerza mayor o hecho fortuito, el concesionario deberá indemnizar al usuario con el triple del valor de la tarifa básica diaria por cada día de suspensión, interrupción o alteración del servicio. Los descuentos e indemnizaciones que se establecen en este artículo deberán descontarse de la cuenta o factura mensual más próxima.
+Toda suspensión, interrupción o alteración de un servicio público de telecomunicaciones o de internet por causa no imputable al usuario, que exceda de seis horas en un día o de 12 horas continuas o discontinuas mensuales, deberá ser descontada de la tarifa mensual del servicio a razón de un día por cada 24 horas o fracción superior a seis horas. En caso que la suspensión, interrupción o alteración exceda de 48 horas continuas o discontinuas en un mismo mes y no obedezca a fuerza mayor o hecho fortuito, el concesionario deberá además, indemnizar al usuario con el equivalente al triple del valor de la tarifa diaria por cada día de suspensión, interrupción o alteración del servicio.
+
+Tratándose de usuarios que no tengan contratada la facturación y cobro de un cargo fijo, los descuentos que procedan a su respecto se realizarán por las concesionarias, mediante la prórroga del tiempo de vigencia de las tarjetas utilizadas a este efecto. A objeto de la indemnización se deberá atender a niveles promedio de consumo mensual. Los descuentos e indemnizaciones que se establecen en este artículo deberán descontarse de la cuenta o factura mensual más próxima.
 
 Esta autorización sólo podrá ser otorgada si están suficientemente garantizadas las interconexiones previstas en el artículo 25.
 
@@ -970,7 +984,7 @@ d) La difusión pública o privada de cualquier comunicación obtenida con infra
 
 Todo concesionario, permisionario o titular de licencia de servicios de telecomunicaciones deberá mantener, en un lugar visible dentro del local de la estación o a disposición de la autoridad, copia autorizada del decreto, permiso, o licencia correspondiente.
 
-La Subsecretaría podrá requerir de los concesionarios o permisionarios de servicios de telecomunicaciones los antecedentes e informes que sean necesarios para el cumplimiento de sus funciones, quienes estarán obligados a proporcionarlos. La negativa injustificada a entregar la información o antecedentes solicitados o la falsedad en la información proporcionada será castigada con las penas del artículo 210 del Código Penal, con la salvedad que la multa no podrá ser inferior a cinco ni superior a quinientas unidades tributarias mensuales.
+La Subsecretaría podrá requerir de los concesionarios o permisionarios de servicios de telecomunicaciones los antecedentes e informes que sean necesarios para el cumplimiento de sus funciones, quienes estarán obligados a proporcionarlos. En situaciones de catástrofe, los concesionarios de servicios públicos e intermedios de telecomunicaciones, para efectos de lo dispuesto en el artículo 7° bis, deberán facilitar a la Subsecretaría la información sobre fallas significativas en sus sistemas de telecomunicaciones que puedan afectar el normal funcionamiento de los mismos. Dichos requerimientos podrán efectuarse por medios electrónicos y deberán entregarse en la forma y oportunidad que al efecto señale el reglamento que dicte el Ministerio. La negativa injustificada a entregar la información o antecedentes solicitados o la falsedad en la información proporcionada será castigada con las penas del artículo 210 del Código Penal, con la salvedad que la multa no podrá ser inferior a cinco ni superior a quinientas unidades tributarias mensuales.
 
 #### Artículo 38
 
@@ -989,6 +1003,24 @@ De la resolución del Subscretario, podrá reclamarse ante la Corte de Apelacion
 #### Artículo 39 bis
 
 La Subsecretaría de Telecomunicaciones podrá requerir el auxilio de la fuerza pública en el ejercicio de las facultades fiscalizadoras que le otorga la presente ley.
+
+## Título VIII
+
+De las Infraestructuras Críticas de Telecomunicaciones
+
+#### Artículo 39
+
+A.- El Ministerio, por medio de la Subsecretaría de Telecomunicaciones, desarrollará un plan de resguardo de la infraestructura crítica de telecomunicaciones del país, con el objeto de asegurar la continuidad de las comunicaciones en situaciones de emergencia resultantes de fenómenos de la naturaleza, fallas eléctricas generalizadas u otras situaciones de catástrofe. Para este efecto, tendrá las siguientes atribuciones:
+
+a) Coordinar con los diversos organismos e instituciones de gobierno y con los agentes privados el diseño, implementación, desarrollo y mantenimiento de la política y plan de resguardo de las infraestructuras críticas de telecomunicaciones.
+
+b) Declarar como infraestructura crítica, mediante resolución fundada y de acuerdo al procedimiento establecido en el reglamento, las redes y sistemas de telecomunicaciones cuya interrupción, destrucción, corte o fallo generaría serio impacto en la seguridad de la población afectada. El concesionario podrá reclamar de esta declaración ante el Ministro, dentro del plazo de diez días, acompañando los antecedentes que fundamenten la solicitud. Presentada la reclamación se dará traslado a la Subsecretaría, que deberá evacuar un informe dentro de los diez días siguientes a la recepción del oficio en que se le haya solicitado. Vencido este plazo, el Ministro resolverá dentro de los treinta días siguientes a la fecha de recepción del informe o del transcurso del plazo, según corresponda. Los recursos que se interpongan en contra de dicha resolución se regirán por lo establecido en la ley N° 19.880.
+
+c) Establecer medidas de resguardo que deberán adoptar los concesionarios, permisionarios o licenciatarios, para la operación y explotación de sus respectivas infraestructuras de telecomunicaciones que hayan sido declaradas como críticas, con el objeto de asegurar la continuidad de las comunicaciones en los términos referidos en sus propios proyectos técnicos, en aquellas situaciones de emergencia descritas en el encabezamiento de este artículo. El concesionario podrá reclamar de una o más de las medidas decretadas ante el Ministro, dentro del plazo de diez días, acompañando los antecedentes que fundamenten la solicitud. Presentada la reclamación se dará traslado a la Subsecretaría, que deberá evacuar un informe dentro de los diez días siguientes a la recepción del oficio en que se le haya solicitado. Vencido este plazo, el Ministro resolverá dentro de los treinta días siguientes a la fecha de recepción del informe o del transcurso del plazo, según corresponda. Los recursos que se interpongan en contra de dicha resolución se regirán por lo establecido en la ley N° 19.880.
+
+#### Artículo 39
+
+B.- Un reglamento contendrá las definiciones, procedimientos, medidas y requisitos para que la Subsecretaría de Telecomunicaciones, dentro de la esfera de su competencia, implemente el plan de resguardo de la infraestructura crítica de telecomunicaciones del país. Las medidas de resguardo que se impongan en el reglamento deberán ser estrictamente proporcionales a la cobertura de servicio que preste dicha infraestructura, además de técnica y económicamente viables de implementar por parte de los operadores del servicio. Asimismo, deberá establecer un plazo dentro del cual los concesionarios implementen estas medidas en forma gradual, tomando en cuenta los factores técnicos de dicha implementación.
 
 TITULO FINAL
 
