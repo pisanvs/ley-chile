@@ -16,15 +16,39 @@ Establécense las siguientes condiciones particulares que se requerirán para cu
 
 #### Artículo 2º
 
-Sólo se podrá cultivar ejemplares de un mismo sexo de las especies indicadas en el artículo anterior, por bahía o cuerpo de agua delimitado.
+Los centros de cultivo deberán llevar a cabo una prospección subacuática una vez por semestre, la que tendrá por objeto verificar si se han producido asentamientos o escapes de las especies en cultivo.
+
+La prospección subacuática se llevará a efecto en el área otorgada en concesión y en el entorno submareal rocoso del centro de cultivo. Para el caso de la prospección realizada en la concesión se efectuarán ocho transectas radiales equidistantes hasta el punto determinado como punto focal, el cual corresponderá al punto medio de los módulos de cultivo. Las transectas serán grabadas mediante buceo o un sistema remoto, con un ancho de un metro. Por cada transecta se establecerá una estación de muestreo de aproximadamente un metro cuadrado (1 mt²), cada diez metros.
+
+Una resolución de la Subsecretaría determinará la metodología y superficie que debe ser comprendida en las prospecciones que se lleven a cabo en el submareal rocoso adyacente a la concesión.
+
+El titular del centro de cultivo deberá remitir al Servicio Nacional de Pesca, cada semestre, el informe de prospección subacuática.
 
 #### Artículo 3º
 
-La Subsecretaría de Pesca, previo informe técnico del Servicio Nacional de Pesca, deberá autorizar el sexo de los abalones que serán ingresados en cada bahía o cuerpo de agua delimitado.
+En caso de que sea detectada la presencia de especies a que se refiere el artículo 1º del presente reglamento, se deberá seguir el siguiente procedimiento:
+
+a) Las especies deberán ser recolectadas,
+
+independientemente de su estado de desarrollo.
+
+b) Se deberá identificar el tipo de sustrato en el
+
+que fueron encontradas, dejando constancia de
+
+ello en el informe de prospección subacuática.
+
+c) Las especies recolectadas deberán ser devueltas a
+
+las estructuras de cultivo.
+
+d) Esta situación deberá ser informada al Servicio
+
+en el plazo de dos días desde el hallazgo.
 
 #### Artículo 4º
 
-En forma previa al ingreso de los abalones a los sistemas de cultivo en el mar, el interesado deberá certificar a través de una empresa o institución acreditada por el Servicio Nacional de Pesca, que los ejemplares se encuentran libres de enfermedades de alto riesgo y que todos ellos pertenecen a un mismo sexo.
+En forma previa al ingreso de los abalones a los sistemas de cultivo en el mar, el interesado deberá certificar a través de una empresa o institución acreditada por el Servicio Nacional de Pesca, que los ejemplares se encuentran libres de enfermedades de alto riesgo.
 
 #### Artículo 5º
 
@@ -40,7 +64,7 @@ El incumplimiento de cualquiera de las condiciones establecidas en los artículo
 
 #### Artículo 8º
 
-Las metodologías para determinar los límites de las bahías o cuerpos de agua delimitados, el sexo de los ejemplares que se ingresarán a los centros de cultivo y el tipo de sustrato, serán establecidas mediante resolución que dictará la Subsecretaría de Pesca.
+Las metodologías para determinar los límites de las bahías o cuerpos de agua delimitados y el tipo de sustrato, serán establecidas mediante resolución que dictará la Subsecretaría de Pesca.
 
 Anótese, tómese razón y publíquese.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jorge Rodríguez Grossi, Ministro de Economía, Fomento y Reconstrucción.
 
