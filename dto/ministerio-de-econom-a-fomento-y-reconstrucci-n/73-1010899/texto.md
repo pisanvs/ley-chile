@@ -8,7 +8,7 @@ Decreto:
 
 1º) Declárase "Normas Oficiales de la República de Chile", las siguientes normas técnicas aprobadas por el Consejo del Instituto Nacional de Investigaciones Tecnológicas y Normalización:
 
-304 ch. 68 (ex 34 70ch), electrodos para soldar al arco manual. Terminología y clasificación.
+304 ch. 68 (ex 34 70ch) DEROGADA.
 
 305 ch. 68 (ex 34 71ch) ANULADA Y REEMPLAZADA.
 
