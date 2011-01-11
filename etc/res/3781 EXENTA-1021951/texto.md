@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.781, de 17 de diciembre de 2010, de esta Subsecretaría, modifícase la resolución exenta Nº 1.671 de 2010, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LTDA., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la actividad extractiva artesanal de Anchoveta (Engraulis ringens) y Sardina común (Strangomera bentincki) en la Región de Los Ríos, 2010", en el sentido de extender el período de ejecución de la presente pesca de investigación hasta el día 31 de diciembre de 2010, inclusive, y en los términos señalados en la resolución extractada.
+
+Valparaíso, 17 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
