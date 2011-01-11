@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.819, de 20 de diciembre de 2010, de esta Subsecretaría, modifícase el numeral 5 Bis.- de la resolución exenta Nº 1.849 de 2010, de esta Subsecretaría, que autorizó a CONSULTORES PESQUEROS MARACTIVO LTDA., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización de zonas de pesca artesanal de los recursos Sardina común (Strangomera bentincki) y Anchoveta (Engraulis ringens) en las costas de la Novena Región, 2010", en el sentido de autorizar que la cuota asignada a la embarcación "Río Toltén I" pueda ser capturada por la embarcación "Río Queule I".
+
+Valparaíso, 20 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
