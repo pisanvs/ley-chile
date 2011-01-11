@@ -10,7 +10,7 @@ Decláranse Normas Oficiales de la República de Chile las siguientes:
 
 - NCh-ISO 9000/2 Normas de gestión de calidad y aseguramiento de la calidad - Parte 2: Directrices genéricas para la aplicación de NCh-ISO 9001, NCh-ISO 9002 y NCh-ISO 9003.
 
-- NCh-ISO 10012/1 Requisitos de aseguramiento de calidad para equipos de medición - Parte 1: Sistemas de confirmación metrológica.
+- NCh-ISO 10012/1 Requisitos de aseguramiento de calidad para equipos de medición - Parte 1: Sistemas de confirmación metrológica. DEROGADA.
 
 - NCh-ISO 10013 Guía para desarrollar manuales de calidad.
 
