@@ -28,4 +28,6 @@ Las empresas que no cumplieron con la obligación del inciso segundo del artícu
 
 4º Establécese que las empresas deberán depositar las sumas indicadas en el numeral 2º del presente acto administrativo, en una cuota única en la cuenta corriente del Banco Santander Santiago - Chile "Subsecretaría de Energía" Nº63683418, que la Subsecretaría ha habilitado especialmente para tal efecto. El no pago en forma íntegra y oportuna por algunas de las empresas obligadas al pago, dará lugar a lo establecido en el artículo 27º del Reglamento del Panel de Expertos.
 
+> **Nota.** El Nº 2 de la Resolución 8 Exenta, Energía, publicada el 12.01.2011 viene a complementar el resuelvo 4° de la presente resolución, en el sentido de que el rol único tributario de la Subsecretaría de Energía es el N° 61.979.830-9.
+
 Anótese, comuníquese y publíquese.- Jimena Bronfman Crenovich, Subsecretaria de Energía, Ministerio de Energía.
