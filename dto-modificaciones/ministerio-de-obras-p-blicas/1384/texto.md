@@ -10,9 +10,9 @@ Solicítase para el presente decreto trámite de 5 días que indica el art. 111,
 
 #### Artículo 2º
 
-Modifícase el art. 2º del decreto Nº 630 de 1981, del Ministerio de Obras Públicas, en lo referente a la Plaza de Peaje Cristo Redentor, en el siguiente sentido:
+DEROGADO.
 
-"Plaza Peaje Cristo Redentor: En esta Plaza de Peaje solamente pagarán peaje los vehículos que transiten en dirección Oriente - Poniente".
+> **Nota.** El Art. 1º del DTO 424, Obras, publicado el 12.01.2011, aclaró que en reemplazo del presente artículo derogado tendrá lugar lo establecido en el Art. 2 del decreto Nº 630, de 1981, del Ministerio de Obras Públicas, esto es, que las Tarifas vigentes se aplicarán a los vehículos que transiten en dirección Poniente-Oriente.
 
 #### Artículo 3º
 
