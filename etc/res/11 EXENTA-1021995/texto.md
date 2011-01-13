@@ -1,0 +1,3 @@
+Por resolución exenta Nº 11, de 7 de enero de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.825 de 2003 de esta Subsecretaría, que autorizó a PESQUERA EL GOLFO S.A., para ampliar actividades pesqueras extractivas con la nave "Tucano", respecto del recurso hidrobiológico Alfonsino en el área marítima correspondiente a Isla de Pascua, Archipiélago de Juan Fernández, Islas Salas y Gómez e Islas Desventuradas, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 7 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
