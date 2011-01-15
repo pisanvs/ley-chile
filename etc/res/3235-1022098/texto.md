@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.235 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs 11.415-081; 11.415-027; 11.397-006; 11.335-023; 11.329-080; 11.331-023 y 11.395-010, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Mercedes Salgado Valenzuela; Juana de Fátima González Lizana; Graciela del Carmen Reyes Canales; Humberto Rubelindo López Farías; Miguel Hernández Hernández y Sonia del Carmen Figueroa Celis, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Mercedes Salgado Valenzuela $6.507.259; Juana de Fátima González Lizana $6.587.715; Graciela del Carmen Reyes Canales $5.010.783; Humberto Rubelindo López Farías $6.613.031; Miguel Hernández Hernández $4.720.927, y Sonia del Carmen Figueroa Celis $4.380.224, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
