@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3110 de fecha 30 de diciembre de 2010, se expropió el lote de terreno N° 86-D, superficie 212 m2, rol N° 640-51, para la obra "Camino Mejoramiento Ruta K-175, Sector Tres Esquinas - Las Trancas, Km. 8,306.62 al Km. 25,735.24, Comuna de Molina, Provincia de Curicó, Región del Maule" y se acordó el valor de la indemnización con su propietario GABRIEL GANZÁLEZ NARANJO Y OTROS, ascendente a la cantidad de $1.063.750.-
+
+Fiscal del Ministerio de Obras Públicas.
