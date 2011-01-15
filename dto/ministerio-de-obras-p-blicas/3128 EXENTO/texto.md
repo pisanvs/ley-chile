@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3128 de fecha 31 de diciembre de 2010, se modificó el Decreto MOP (exento) Nº 503 de fecha 31 de marzo de 2004, en el sentido que la imputación del pago correspondiente a la indemnización por la expropiación del lote 18-B, debe entenderse hecha con cargo a la Asignación Presupuestaria 04 31 02 003, Sub Asignación 27000100-0, y no como se indicó en el mencionado Decreto.
+
+Fiscal del Ministerio de Obras Públicas.
