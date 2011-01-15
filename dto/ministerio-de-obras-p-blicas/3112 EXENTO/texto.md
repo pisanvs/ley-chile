@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3112 de fecha 30 de diciembre de 2010, se expropió el lote de terreno N° 22-A, superficie 298 m2, rol N° 279-40, comuna de San Javier para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Comunas San Javier y Cauquenes, Provincias Linares y Cauquenes, Región del Maule y se acordó el valor de la indemnización con su propietario RAQUEL DE LAS MERCEDES CANALES SOTO, ascendente a la cantidad de $1.536.985.-
+
+Fiscal del Ministerio de Obras Públicas.
