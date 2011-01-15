@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.245 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.304-019; 11.415-119; 11.335-008; 11.396-019 y; 11.332-048, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Enrique Manuel Cabrera Cortés: Miguel Núñez Jorquera; José Camilo Moraga Urrutia; Berta Wilma del Carmen Porath Campos y Eduardo Segundo Estarza Poblete, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, ley 16.391 y DL. 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según informe de fecha diciembre de 2010, monto provisional para: Enrique Manuel Cabrera Cortés $10.983.816.-; Miguel Núñez Jorquera $6.886.796.-; José Camilo Moraga Urrutia $3.703.967.-; Berta Wilma del Carmen Porath Campos $10.571.453.- y Eduardo Segundo Esparza Poblete $3.681.225.-, cuyo pago se realizará mediante depósito en cuenta corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
