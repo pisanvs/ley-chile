@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3107 de fecha 30 de diciembre de 2010, se expropiaron los lotes de terreno N°s 27, 30 y 34-A, superficies 231, 1.208 y 823 m2 respectivamente, rol N° 1132-29, comuna de Ancud, para la obra "Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé y se acordó el valor de la indemnización con su propietario HUGO EDUARDO BROWN GUENTELICÁN Y OTROS, ascendente a la cantidad de $1.101.487.-
+
+Fiscal del Ministerio de Obras Públicas.
