@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 3115, de fecha 30 de diciembre de 2010, se expropió el lote de terreno N° 95A, superficie 200 m2, Rol Nº 2568-12, comuna de Valdivia, XIV Región para la obra "Camino Mejoramiento Pasada por Valdivia, Sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 - Km. 3,59831, Provincia de Valdivia, XIV Región, tramo 3", y se acordó el valor de indemnización con su propietario JOSÉ MIGUEL TRUJILLO LOVERA, ascendente a la cantidad de $14.467.901.-
+
+Fiscal del Ministerio de Obras Públicas.
