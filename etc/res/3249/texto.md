@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.249 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, roles de avalúo Nºs. 11.348-048; 11.336-003; 11.332-089; 11.333-010; 11.330-081 y 11.349-043, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Sergio Raimundo Díaz Célis; César Hipólito Pérez Castillo; Lidia de las Mercedes Contreras Monroy; Cecilia Alejandra Aliaga Aguilera; José Felidor Cayuan Curio y Milton Sepúlveda, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, ley 16.391 y DL 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para Sergio Raimundo Díaz Célis $6.584.497.-; César Hipólito Pérez Castillo $4.857.166.-; Lidia de las Mercedes Contreras Monroy $3.172.959.-; Cecilia Alejandra Aliaga Aguilera $6.054.347.-; José Felidor Cayuan Curio $6.040.830.- y Milton Sepúlveda $6.741.975.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
