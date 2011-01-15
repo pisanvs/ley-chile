@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.240 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.349-053; 11.339-059; 11.352-041; 11.332-166; 11.332-066 y 11.310-053, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Juan Roberto Yáñez Badilla; Jorge Nicolás Lagos Lagos; Ninoska Vinka del Carmen Yaksic Fuentes; Claudio Eugenio del Carmen Lillo Gaete; Juan Guillermo Vásquez Vásquez y Ricardo Antonio Hidalgo Astorga, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51 ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Juan Roberto Yáñez Badilla $6.741.975.-; Jorge Nicolás Lagos Lagos $6.782.096.-; Ninoska Vinka del Carmen Yaksic Fuentes $6.747.983.-; Claudio Eugenio del Carmen Lillo Gaete $3.317.565.-; Juan Guillermo Vásquez Vásquez $3.172.959.-, y Ricardo Antonio Hidalgo Astorga $6.158.832.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
