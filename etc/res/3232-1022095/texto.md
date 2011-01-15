@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.232 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.349-006; 11.349-029; 11.331-013; 11.330-020; 11.330-054, y 11.337-008, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Jorge Gabriel Bustos Novo; Víctor Eugenio López Carrasco; Securitizadora Security GMA; Alejandra Antonieta Toledo Castro; María Cristina Cavieres Sánchez; Edison Reinaldo Vidal Miranda, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL. 2.186. Comisión Tasadora, peritos Jorge Rosales, Carlos Henríquez y Manuel San Martín, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Jorge Gabriel Bustos Novo $5.408.545.-; Víctor Eugenio López Carrasco $5.408.556.-; Securitizadora Security GMA $5.430.011.-; Alejandra Antonieta Toledo Castro $5.452.395.-; María Cristina Cavieres Sáchez $5.452.395.-; Edison Reinaldo Vidal Miranda $5.506.894.-, cuyo pago se realizará mediante depósito en cuenta corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
