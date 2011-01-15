@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.230 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.333-003; 11.331-144; 11.329-061; 11.394-055; 11.349-031; 11.349-037 y 11.330-062, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Marco Antonio López Reyes, René Galvarino Vidal Navarro; Inmobiliaria e Inversiones Padre Pío S.A.; Evelyn Romanet Díaz Ugalde; Héctor Hernán Marín Jaramillo; Ramiro Fernando Maffei Oneto; Pedro Pablo Flores Castillo, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Jorge Rosales, Carlos Henríquez y Manuel San Martín, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Marco Antonio López Reyes $5.059.173.-; René Galvarino Vidal Navarro $5.062.394.-, Inmobiliaria e Inversiones Padre Pío S.A. $5.123.206.-; Evelyn Romanet Díaz Ugalde $5.145.305.-; Héctor Hernán Marín Jaramillo $5.169.417.-; Ramiro Fernando Maffei Oneto $5.169.417.-; Pedro Pablo Flores Castillo $5.215.364.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
