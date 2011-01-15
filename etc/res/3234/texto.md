@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.234 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, roles de avalúo Nºs. 11.352-056; 11.339-041; 11.396-013; 11.351-020, y 11.397-043, de la comuna y ciudad de Rancagua superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Sonia del Carmen Meza Escalona; Guillermo Pérez Cornejo; Eliseo Alejandro González Valls; Luis Antonio Villarroel Montoya, y Ramón Eduardo Fuenzalda Palma, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Sonia del Carmen Meza Escalona $6.058.423.-; Guillermo Pérez Cornejo $7.001.794.-; Eliseo Alejandro González Valls $9.939.608.-; Luis Antonio Villarroel Montoya $6.306.871.-, y Ramón Eduardo Fuenzalda Palma $6.828.009.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
