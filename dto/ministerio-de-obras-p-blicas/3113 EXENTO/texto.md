@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3113 de fecha 30 de diciembre de 2010, se expropió el lote de terreno N° 24, superficie 2.096 m2, rol N° 1182-47, comuna de Ancud, para la obra "Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé y se acordó el valor de la indemnización con su propietario NANCY YENNY VELÁSQUEZ PARRA Y OTRO, ascendente a la cantidad de $1.847.206.-
+
+Fiscal del Ministerio de Obras Públicas.
