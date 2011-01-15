@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.233 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, roles de avalúo Nºs. 11.337-007; 11.304-009; 11.396-048; 11.396-012, y 11.396-010, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Raúl Marcos Ramírez Rivera; Boston Securitizadora S.A.; Paula Alejandra Ramírez Meléndez; María Angélica Osses Riquelme; Paulina Alejandra Cornejo Hidalgo, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y DL. 2.186. Comisión Tasadora, peritos Jorge Rosales, Carlos Henríquez y Manuel San Martín, Constructor Civil, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Raúl Marcos Ramírez Rivera $5.506.894.-; Boston Securitizadora S.A. $5.623.109.-; Paula Alejandra Ramírez Meléndez $7.943.913.-; María Angélica Osses Riquelme $7.943.914.-, y Paulina Alejandra Cornejo Hidalgo $8.740.146.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región de Libertador General Bernardo O'Higgins.
