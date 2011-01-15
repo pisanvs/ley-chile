@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 3109, de fecha 30 de diciembre de 2010, se expropió el lote de terreno N° 122-B, superficie 234 m2, Rol Nº 275-15, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L - 30 - M - Carrizal, Tramo Km. 0,50000 a Km. 17,34000.", y se acordó el valor de indemnización con su propietaria MARÍA DEL ROSARIO ROJAS BECERRA, ascendente a la cantidad de $921.608.-
+
+Fiscal del Ministerio de Obras Públicas.
