@@ -886,9 +886,7 @@ Esta nueva publicación, en su caso, no afectará la vigencia de la parte no rec
 
 ### Párrafo 9
 
-Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría
-
-General de la República la Contraloría
+Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República
 
 #### Artículo 109
 

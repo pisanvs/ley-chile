@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.732 de 10 de agosto del 2010, se publicó D.F.L. N° 5, de 2010, que FIJA EL TEXTO REFUNDIDO, COORDINADO Y SISTEMATIZADO DE LA LEY N° 17.997, ORGÁNICA CONSTITUCIONAL DEL TRIBUNAL CONSTITUCIONAL, con el error que se salva a continuación: cuerpo I, página cuarenta y nueve, primera columna, en el párrafo 9, donde dice "... Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República la Contraloría ..." debe decir "... Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República ...".
