@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP. N° 3111, de fecha 30 de diciembre del 2010, se expropió el lote de terreno N° 58-B, superficie 54 m2, Rol Nº 281-7, comuna de San Javier, VII Región para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L - 30 - M - Carrizal, Tramo Km. 0,50000 a Km. 17,34000.", y se acordó el valor de indemnización con su propietario JOSÉ ALEJANDRO VILLA RIQUELME, ascendente a la cantidad de $2.738.158.-
+
+Fiscal del Ministerio de Obras Públicas.
