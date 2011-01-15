@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.248 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.310-107; 11.395-049; 11.335-011; 11.337-010 y 11.351-048, de la comuna y ciudad de Rancagua, superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Jorge Roberto Moreno Urzúa; María Teresa Herrera Orellana; Carolina Mariela Millanao Contreras; Héctor Armando Vargas Astudillo; Sergio Orlando Poblete Vistoso, en el Conjunto Habitacional Villa Cordillera, comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según informe de fecha diciembre de 2010, monto provisional para: Jorge Roberto Moreno Urzúa $6.516.699.-; María Teresa Herrera Orellana $6.384.108.-; Carolina Mariela Millanao Contreras $6.831.227.-; Héctor Armando Vargas Astudillo $5.505.532.- y Sergio Orlando Poblete Vistoso $6.661.734.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
