@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN TOTAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución Nº 3.239 de 31.12.2010, Serviu VI Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, Roles de Avalúo Nºs. 11.352-002; 11.330-089; 11.330-061; 11.396-008, y 11.333-108, de la comuna y ciudad de Rancagua superficie aproximada por departamento: 35 metros cuadrados. Polígono conforme al Plano del Departamento Técnico del Serviu, de aparente dominio de Juan Rodemil Sánchez Marambio; Luis Antonio Carvajal González; Carlos Feliú Barrios; Héctor Ortega Narváez, y Fernando de la Cruz Veloso Oyarce, en el Conjunto Habitacional Villa Cordillera comuna Rancagua, conforme al Art. 51, Ley 16.391 y D.L. 2.186. Comisión Tasadora, peritos Jorge Godoy Rojas, Hugo Leal Paredes y Edmundo Gómez Lagos, Arquitecto, Constructor Civil y Constructor Civil, respectivamente, según Informe de fecha diciembre de 2010, monto provisional para: Juan Rodemil Sánchez Marambio $5.979.255.-; Luis Antonio Carvajal González $4.365.635.-; Carlos Feliú Barrios $6.040.830.-; Héctor Ortega Narváez $9.939.608.-, y Fernando de la Cruz Veloso Oyarce $5.199.800.-, cuyo pago se realizará mediante depósito en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) Serviu VI Región del Libertador General Bernardo O'Higgins.
