@@ -8,10 +8,6 @@ Puente Alto, 15 de diciembre del 2003.
 
 > **Nota.** NOTA 1 El Acuerdo S/N, de la M. de Puente Alto, publicado el 02.08.2010, modifica la presente norma, en el sentido de modificar el artículo 29 de esta ordenanza, incorporando los nuevos derechos que la citada norma indica.
 
-> **Nota.** NOTA 2 El Certificado 137, M. de Puente Alto, publicado 19.05.2014, modifica la presente norma en el sentido de modificar el artículo 26 en la forma que la citada norma indica.
-
-> **Nota.** NOTA 3 La Ordenanza N° 3, Municipalidad de Puente Alto, publicada el 01.12.2017, modifica los artículos 11, 15, 29 de la forma que la citada norma indica.
-
 En Sesión Ordinaria Nº 23, efectuada el día 4 de diciembre del año en curso, y de conformidad a la ley Nº 18.695, el Concejo Municipal de Puente Alto, dio su aprobación a las siguientes modificaciones en la Ordenanza Nº 3, Sobre Derechos por Permisos, Concesiones y Servicios Municipales, que entrará a regir a partir del año 2004.
 
 #### Artículo 11º
