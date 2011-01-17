@@ -6,9 +6,9 @@ Núm. 2.448 exenta.- Visto: Lo dispuesto en el texto del artículo 4.1.10 del D.
 
 Resolución:
 
-1º.- Apruébase nuevo "Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico" en adelante Listado, documento, que se entenderá formar parte integrante de la presente resolución.
+1º.- DEROGADO.
 
-2º.- Derógase la resolución exenta Nº 6.227 (V. y U.), del 31 de agosto de 2009 que aprueba el "Listado Oficial de Soluciones Constructivas para Acondicionamiento Térmico". No obstante lo anterior, manténgase lo indicado en el punto 3º de dicha resolución.
+2º.- DEROGADO.
 
 3º.- Publíquese el Listado que se aprueba en el número 1º de esta resolución en la página Web del Ministerio de Vivienda y Urbanismo (www.minvu.cl), y manténganse ejemplares de éste a disposición de los interesados en el Departamento de Tecnologías de la Construcción, en el Centro de Documentación o Biblioteca del Sistema Integrado de Atención al Ciudadano y en la Oficina de Partes del Ministerio de Vivienda y Urbanismo.
 
