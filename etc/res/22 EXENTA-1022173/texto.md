@@ -1,0 +1,7 @@
+Por resolución exenta Nº 22, de 7 de enero de 2011, de esta Subsecretaría, reconócese la participación conjunta de los armadores que a continuación se indica, en la unidad de pesquería de Merluza de tres aletas, en el área marítima comprendida entre los paralelos 41°28,6' L.S. y el límite sur de la XII Región, individualizada en la letra l) del artículo 2º de la ley Nº 19.713, y sus modificaciones posteriores, para ejercer el límite máximo de captura por armador establecido en el decreto exento Nº 1.454 de 2010, del Ministerio de Economía, Fomento y Turismo, a partir de la fecha de la presente resolución y hasta el 31 de diciembre del 2011:
+
+EMDEPES S.A., PESQUERA GRIMAR S.A., PESCA CHILE S.A. y PESQUERA SUR AUSTRAL S.A.
+
+La opción ejercida por el grupo de armadores antes indicados es irrevocable durante el presente año calendario.
+
+Valparaíso, 7 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
