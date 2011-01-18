@@ -1,0 +1,3 @@
+Por resolución Nº 36, de 7 de enero de 2011, de esta Subsecretaría, modifícase el numeral 1.- de la resolución exenta Nº 1.130, de 2010, de esta Subsecretaría, que autorizó a LUNA Y GALAZ LIMITADA para capturar 120 ejemplares de la especie Lobo marino común en la X Región de Los Lagos, en el sentido de extender el plazo de la citada autorización hasta el día 25 de marzo de 2012, inclusive.
+
+Valparaíso, 7 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
