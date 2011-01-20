@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.841 de 22 de diciembre del 2010, se publicó Resolución N°1.144 exenta, que MODIFICA RESOLUCIÓN N° 1.099 EXENTA, QUE ESTABLECE ÁREA REGULADA POR POLILLA DEL RACIMO DE LA VID (Lobesia botrana) EN LA COMUNA DE COPIAPÓ DE LA REGIÓN DE ATACAMA, con el error que se salva a continuación: cuerpo I, página ocho, primera columna, donde dice "... Servicio Agrícola y Ganadero - Dirección Regional II Región de Atacama - MODIFICA RESOLUCIÓN N° 1.099 EXENTA, ..." debe decir "... Servicio Agrícola y Ganadero - Dirección Regional III Región de Atacama - MODIFICA RESOLUCIÓN N° 1.099 EXENTA, ...".
