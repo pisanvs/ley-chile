@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.950, de 30 de diciembre de 2010, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 4.433 de 2009, modificada mediante resolución exenta Nº 2.140 de 2010, ambas de esta Subsecretaría, que autorizó a UNIVERSIDAD DE ATACAMA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Seguimiento de la Pesquería de las Algas Pardas en la III Región de Atacama", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2011, inclusive.
+
+Valparaíso, 30 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
