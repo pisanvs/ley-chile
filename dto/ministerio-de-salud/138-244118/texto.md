@@ -44,7 +44,7 @@ Estarán afectas a la obligación de proporcionar los antecedentes para la deter
 
 #### Artículo 3º
 
-Para la estimación de las emisiones proveniente de los rubros, actividades o tipo de fuentes señalados en el artículo precedente, la autoridad sanitaria utilizará los factores de emisión existentes, ya sea nacionales o internacionales, según corresponda para cada fuente. Para tales efectos, la información sobre los procesos, niveles de producción, tecnologías de abatimiento y cantidades y tipo de combustibles que empleen las fuentes sujetas a declaración, deberá proporcionarse anualmente a la correspondiente Secretaría Regional Ministerial de Salud en los formularios que ésta proveerá para ello.
+Para la estimación de las emisiones proveniente de los rubros, actividades o tipo de fuentes señalados en el artículo precedente, la autoridad sanitaria utilizará los factores de emisión existentes, ya sea nacionales o internacionales, según corresponda para cada fuente. Para tales efectos, la información sobre los procesos, niveles de producción, tecnologías de abatimiento y cantidades y tipo de combustibles que empleen las fuentes sujetas a declaración, deberá proporcionarse anualmente, antes del 1º de mayo de cada año, a través de la página web del Ministerio de Salud o del dominio www.declaracionemision.cl por medio del software dispuesto para tales efectos en ellas.
 
 #### Artículo 4º
 
@@ -52,7 +52,7 @@ En los casos de fuentes fijas que cuenten con una estimación perfeccionada de s
 
 #### Artículo 5º
 
-La información entregada por los titulares de las fuentes a la autoridad sanitaria para que ésta realice las estimaciones tendrá el carácter de confidencial según corresponda conforme a la ley. De acuerdo con ello, los diagnósticos regionales sobre las emisiones de contaminantes atmosféricos se generarán en forma innominada, sin la identificación de las fuentes, y en forma agregada por comuna, provincia o región, de manera de asegurar que se mantenga la confidencialidad de los datos.
+Las estimaciones de emisiones realizadas por el sector salud o por los titulares de las fuentes, previa validación de esta última por parte del Ministerio de Salud, tendrá el carácter de pública según corresponda conforme a la ley.
 
 #### Artículo 6º
 
