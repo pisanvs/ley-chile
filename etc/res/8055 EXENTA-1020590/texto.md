@@ -18,7 +18,9 @@ Resolución:
 
 2. Los recursos comprometidos conforme al número 1 de la presente resolución, para el proyecto seleccionado, se detallan en el siguiente cuadro:
 
-3. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 64.857 UF, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región de la Araucanía, para el año 2010.
+3. Asígnase un monto de 20 UF correspondiente a Subsidio para personas con discapacidad, a doña Nancy del Carmen Riego Contreras RUT 6.780.942-4, conforme lo señalado en el inciso final del Artículo 3º del D.S. Nº 174 (V. y U.), de 2005.
+
+4 Los subsidios asignados mediante los resuelvo 1, 2 y 3 de la presente resolución, ascendentes a un total de 64.877 UF, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región de la Araucanía, para el Programa 2010.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
