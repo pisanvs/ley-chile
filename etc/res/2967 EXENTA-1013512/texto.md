@@ -252,27 +252,9 @@ adscriba.
 
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
-Región Recursos
-
-(UF)
-
-Valparaíso 215.903
-
-L.B. O'Higgins 581.502
-
-Maule 1.083.529
-
-Bío Bío 1.048.841
-
-Araucanía 69.363
-
-Metropolitana 542.767
-
 El número de postulantes seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior.
 
 6. Mediante Resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
-
-> **Nota.** El Nº 1 de la Resolución 7640, Vivienda, publicada el 26.11.2010, dispuso previamente reemplazar en la fila correspondiente a la Región Metropolitana, en la columna Recursos (UF), el guarismo "500.127" por "518.249".
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
