@@ -1,0 +1,3 @@
+Por resolución exenta Nº 16, de 7 de enero de 2011, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 2702 de 2009, modificada mediante resoluciones exentas Nº3752 de 2009, Nº739, Nº1662, Nº2193 y Nº3062, todas de 2010, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería de jaibas extraída por la flota artesanal trampera de Ancud, X Región", en el sentido de señalar que la pesca de investigación se extenderá hasta el 30 de abril de 2011, inclusive.
+
+Valparaíso, 7 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
