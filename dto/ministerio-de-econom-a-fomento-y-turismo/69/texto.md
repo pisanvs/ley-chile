@@ -180,7 +180,7 @@ A) Mercancías que conforme al artículo 2º, inciso segundo de la ley Nº18.480
 
 0808.1090 Las demás manzanas frescas.
 
-0808.2011 Peras variedad Packham’s triumph frescas.
+0808.2011 Peras variedad Packham's triumph frescas.
 
 0808.2013 Peras variedad asiáticas frescas.
 
@@ -192,7 +192,7 @@ A) Mercancías que conforme al artículo 2º, inciso segundo de la ley Nº18.480
 
 0808.2017 Peras variedad Coscia frescas.
 
-0808.2018 Peras variedad D’Anjou frescas.
+0808.2018 Peras variedad D'Anjou frescas.
 
 808.2019 Las demás peras frescas.
 
@@ -1122,7 +1122,7 @@ C) Mercancías excluidas del 3% por haber superado en el año calendario anterio
 
 5209.4290 Los demás tejidos de mezclilla ("denim").
 
-5203.4210 Pantalones de mezclilla (Denim) para hombres o niños.
+6203.4210 Pantalones de mezclilla (Denim) para hombres o niños.
 
 7010.9020 Botellas de vidrio para bebidas, de capacidad superior a 0,33 l pero inferior o igual a 1 l.
 
