@@ -242,20 +242,6 @@ adscriba.
 
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
-Región Recursos (UF)
-
-Valparaíso 143.935,0
-
-L.B. O'Higgins 387.668,0
-
-Maule 722.352,0
-
-Bío Bío 699.227,0
-
-Araucanía 42.139,0
-
-Metropolitana 221.239,0
-
 El número de postulantes seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior.
 
 6. Mediante Resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
