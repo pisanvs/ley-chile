@@ -1,0 +1,3 @@
+Por resolución exenta Nº 176, de 19 de enero de 2011, de esta Subsecretaría, acógese los descargos formulados y amplíese por 12 meses a contar del 1º de diciembre de 2010, el plazo otorgado por el numeral 4º de la resolución exenta Nº 721 de 1996, de esta Subsecretaría de Pesca, a Pesquera Friosur S.A., hoy PESQUERA SUR AUSTRAL S.A., para reiniciar actividades pesqueras extractivas con la nave "Friosur IX", respecto del recurso hidrobiológico Raya volantín, en el área marítima comprendida entre la IX Región y el paralelo 41º28,6' L.S.
+
+Valparaíso, 19 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
