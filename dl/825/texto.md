@@ -104,7 +104,11 @@ Del hecho gravado
 
 El impuesto de este Título afecta a las ventas y servicios. Para estos efectos serán consideradas también como ventas y servicios según corresponda:
 
-a) Las importaciones, sea que tengan o no el carácter de habituales;
+a) Las importaciones, sea que tengan o no el carácter de habituales.
+
+Asimismo se considerará venta la primera enajenación de los vehículos automóviles importados al amparo de las partidas del Capítulo 0 del Arancel Aduanero, en cuya virtud gozan de exención total o parcial de derechos e impuestos con respecto a los que les afectarían en el régimen general.
+
+Los Notarios no podrán autorizar ningún documento ni las firmas puestas en él, tratándose de un contrato afecto al impuesto que grava la operación establecida en el inciso anterior, sin que se les acredite previamente el pago del mismo, debiendo dejar constancia de este hecho en el instrumento respectivo. A su vez, el Servicio de Registro Civil e Identificación no inscribirá en su Registro de Vehículos Motorizados ninguna transferencia de los vehículos señalados, si no constare, en el Título respectivo el hecho de haberse pagado el impuesto;
 
 b) Los aportes a sociedades y otras transferencias de dominio de bienes corporales muebles, efectuados por vendedores, que se produzcan con ocasión de la constitución, ampliación o modificación de sociedades, en la forma que lo determine, a su juicio exclusivo, la Dirección Nacional de Impuestos Internos;
 
@@ -134,17 +138,19 @@ j) Las primas de seguros de las cooperativas de servicios de seguros, sin perjui
 
 k) Los aportes y otras transferencias, retiros y ventas de establecimientos de comercio y otras universalidades, que comprendan o recaigan sobre bienes corporales inmuebles del giro de una empresa constructora, y
 
-l) Las promesas de venta de bienes corporales inmuebles de propiedad de una empresa constructora de su giro y los contratos de arriendo con opción de compra que celebren estas empresas respecto de los inmuebles señalados y las comunidades por inmuebles construídos total o parcialmente por ellas. Para los efectos de la aplicación de esta ley, estos últimos contratos se asimilarán en todo a las promesas de venta.
+l) Las promesas de venta de bienes corporales inmuebles de propiedad de una empresa constructora de su giro y los contratos de arriendo con opción de compra que celebren estas empresas respecto de los inmuebles señalados y las comunidades por inmuebles construidos total o parcialmente por ellas. Para los efectos de la aplicación de esta ley, estos últimos contratos se asimilarán en todo a las promesas de venta.
 
-m) La venta de bienes corporales muebles o inmuebles que realicen las empresas antes de doce meses
+m) La venta de bienes corporales muebles que realicen las empresas antes de que haya terminado su vida útil normal, de conformidad a lo dispuesto en el N° 5 del artículo 31 de la Ley de la Renta o que hayan transcurrido cuatro años contados desde su primera adquisición y no formen parte del activo realizable efectuada por contribuyentes que, por estar sujetos a las normas de este Título, han tenido derecho a crédito fiscal por la adquisición, fabricación o construcción de dichos bienes. La venta de bienes corporales inmuebles o de establecimientos de comercio, sin perjuicio del impuesto que afecte a los bienes de su giro, sólo se considerará comprendida en esta letra cuando ella se efectúe antes de doce meses contados desde su adquisición, inicio de actividades o construcción según corresponda.
 
-contados desde su adquisición y no formen parte del activo realizable efectuada por contribuyentes que, por estar sujetos a las normas de este Título, han tenido derecho a crédito fiscal por la adquisición, fabricación o construcción de dichos bienes.
+> **Nota.** Esta modificación rige a contar del 1° de julio de 1979.
+
+> **Nota.** La letra c) del Artículo Transitorio de la Ley 19398, publicada el 04.08.1995, dispuso que la modificación al presente artículo regirá desde el 1° del mes siguiente al de su publicación.
+
+> **Nota.** NOTA: 1. null
 
 > **Nota.** NOTA: 1.1 Las modificaciones introducidas por el art. 1° de la Ley 18.630, regirán a contar del 1° de octubre de 1987.
 
-> **Nota.** # NOTA: 1.1.1. La letra c) del Artículo Transitorio de la Ley N° 19398, publicada en el "Diario Oficial" de 4 de Agosto de 1995, dispuso que la modificación al presente artículo regirá desde el 1° del mes siguiente al de # su publicación.
-
-> **Nota.** NOTA: 3 Esta modificación rige a contar del 1° de julio de 1979. DL 2752, 1979, artículo 3°.
+> **Nota.** NOTA: 2 El Art. 1° Transitorio de la LEY 19738, publicada el 19.06.2001, dispuso que la modificación introducida al presente artículo rige a contar del 01.05.2002.
 
 #### Artículo 9°
 
@@ -192,13 +198,17 @@ Sin perjuicio de lo dispuesto en el artículo anterior, serán considerados suje
 
 a) El importador, habitual o no;
 
-b) El comprador o adquirente, cuando el vendedor o tradente no tenga residencia en Chile;
+b) El comprador o adquirente, cuando el vendedor o tradente no tenga residencia en Chile, o se trate de la operación descrita en el inciso segundo de la letra a) del artículo 8º;
 
 c) La sociedad o la comunidad, en los casos contemplados en la letra c) del artículo 8°, pero cada socio o comunero será solidariamente responsable del pago del tributo en la parte correspondiente a los bienes que le sean adjudicados;
 
 d) El aportante, en el caso de aportes a sociedades;
 
-e) El beneficiario del servicio, si la persona que efectúa la prestación residiere en el extranjero, y f) Los contratistas o subcontratistas en el caso de los contratos a que se refiere la letra e) del artículo 8°.
+e) El beneficiario del servicio, si la persona que efectúa la prestación residiere en el extranjero;
+
+f) Los contratistas o subcontratistas en el caso de los contratos a que se refiere la letra e) del artículo 8°, y
+
+g) El comprador o el beneficiario del servicio, cuando reciba del vendedor o del prestador, según corresponda, por ventas y servicios gravados con IVA, facturas de inicio, de acuerdo a lo señalado en el inciso segundo del artículo 8° quáter del Código Tributario.
 
 > **Nota.** NOTA: 1.1 Las modificaciones introducidas por el art. 1° de la Ley 18.630, regirán a contar del 1° de octubre de 1987.
 
@@ -262,13 +272,13 @@ Estarán exentos del impuesto establecido en este Título:
 
 A.- Las ventas y demás operaciones que recaigan sobre los siguientes bienes:
 
-1º. Los vehículos motorizados usados, excepto en los siguientes casos: el previsto en la letra m) del artículo 8º; los que se importen y los que se transfieran en virtud del ejercicio, por el comprador, de la opción de compra contenida en un contrato de arrendamiento con opción de compra de un vehículo.
+1º. Los vehículos motorizados usados, excepto en los siguientes casos: el previsto en la letra m) del artículo 8º; los que se importen y los que se transfieran en virtud del ejercicio, por el comprador, de la opción de compra contenida en un contrato de arrendamiento con opción de compra de un vehículo. Asimismo se exceptúan de la presente exención los vehículos motorizados usados que no hayan pagado el impuesto al momento de producirse la internación por encontrarse acogidos a alguna franquicia, de acuerdo con lo preceptuado en los incisos segundo y tercero de la letra a) del artículo 8º.
 
-2°.- Derogado.
+2°- DEROGADO
 
 3°- Las especies transferidas a título de regalía a los trabajadores por sus respectivos empleadores en conformidad a las disposiciones reglamentarias respectivas;
 
-4°- Derogado.-
+4°- DEROGADO
 
 5°- Las materias primas nacionales, en lo casos en que así lo declare por resolución fundada la Dirección de Impuestos Internos, siempre que dichas materias primas estén destinadas a la producción, elaboración o fabricación de especies destinadas a la exportación.
 
@@ -276,17 +286,17 @@ Sólo pueden acogerse a esta norma de excepción los contribuyentes que adquiera
 
 B.- La importación de las especies efectuadas por:
 
-1.- El Ministerio de Defensa Nacional, como asimismo por las instituciones y empresas dependientes o no de dicha Secretaría de Estado, que desarrollen funciones relativas a la defensa nacional, resguardo del orden y seguridad públicos o policiales, y siempre que correspondan a maquinaria bélica, armamento, elementos o partes para su fabricación o armaduría, municiones y otros pertrechos;
+1. El Ministerio de Defensa Nacional, el Estado Mayor de la Defensa Nacional, las Fuerzas Armadas, Carabineros de Chile y la Policía de Investigaciones de Chile, como también las instituciones y empresas dependientes de ellas o que se relacionen con el Presidente de la República por su intermedio, y que desarrollen funciones relativas a la defensa nacional, resguardo del orden y seguridad pública, siempre que correspondan a maquinaria bélica; vehículos de uso militar o policial excluidos los automóviles, camionetas y buses; armamento y sus municiones; elementos o partes para fabricación, integración, mantenimiento, reparación, mejoramiento o armaduría de maquinaria bélica y armamentos; sus repuestos, combustibles y lubricantes, y equipos y sistemas de información de tecnología avanzada y emergente utilizados exclusivamente para sistemas de comando, de control, de comunicaciones, computacionales y de inteligencia;".
 
 Asimismo estarán exentas del impuesto de este Título respecto de las partes o piezas nacionales o nacionalizadas utilizadas en la fabricación o armaduría de los bienes señalados en el inciso anterior, en su ingreso o reingreso desde las Zonas Francas al resto del país.
 
-2.- DEROGADO.
+2.- DEROGADO
 
 3.- Las representaciones de naciones extranjeras acreditadas en el país; las instituciones u organismos internacionales a que Chile pertenezca, y los diplomáticos y funcionarios internacionales, de acuerdo con los convenios suscritos por Chile;
 
 4.- Los pasajeros, cuando ellas constituyen equipaje de viajeros, compuesto de efectos nuevos o usados, siempre que estas especies estén exentas de derechos aduaneros;
 
-5.- Los funcionarios o empleados del Gobierno chileno que presten servicios en el exterior y por inmigrantes, siempre que dichas especies consistan en efectos personales, menaje de casa, equipo y herramientas de trabajo, una embarcación deportiva y un vehículo automóvil terrestre, cuando no se requieran para todas ellas el respectivo registro de importación, planilla de venta de Cambios para importación, u otro documento que lo sustituya;
+5.- Los funcionarios o empleados del Gobierno chileno que presten servicios en el exterior y por inmigrantes, siempre que dichas especies consistan en efectos personales, menaje de casa, equipo y herramientas de trabajo, cuando no se requieran para todas ellas el respectivo registro de importación, planilla de venta de Cambios para importación, u otro documento que lo sustituya;
 
 6.- Los tripulantes de naves, aeronaves y otros vehículos, cuando éstas constituyan equipaje de viajeros, compuesto de efectos nuevos o usados, siempre que estas especies se encuentren exentas de derechos aduaneros;
 
@@ -306,7 +316,7 @@ Asimismo, estarán exentas las importaciones que constituyan donaciones y socorr
 
 13.- Las bases ubicadas en el Territorio Antártico Chileno, las personas que en forma permanente o temporal realicen trabajos en ellas o las expediciones antárticas, siempre que las importaciones respectivas se acojan a la Partida 00.34 del Capítulo 0 del Arancel Aduanero.
 
-14.- Los viajeros que se acojan a las Subpartidas 0009.03, 0009.04 y 0009.05, con excepción del ítem 0009.8900, del Arancel Aduanero.
+14.- Los viajeros que se acojan a las Subpartidas 0009.0200, 0009.0300, 0009.04 y 0009.05, con excepción del ítem 0009.8900, del Arancel Aduanero.
 
 15.- Los artistas nacionales respecto de las obras ejecutadas por ellos y que se acojan a la partida 00.35 del capítulo 0 del Arancel Aduanero.
 
@@ -320,7 +330,9 @@ D.- Las especies exportadas en su venta al exterior.
 
 E.- Las siguientes remuneraciones y servicios:
 
-1.- Los ingresos percibidos por concepto de entradas a los siguientes espectáculos y reuniones: a) Artísticos, científicos o culturales, teatrales, musicales, poéticos, de danza y canto, que por su calidad artística y cultural cuenten con el auspicio del Ministerio de Educación Pública.
+1.- Los ingresos percibidos por concepto de entradas a los siguientes espectáculos y reuniones:
+
+a) Artísticos, científicos o culturales, teatrales, musicales, poéticos, de danza y canto, que por su calidad artística y cultural cuenten con el auspicio del Ministerio de Educación Pública.
 
 b) De carácter deportivo;
 
@@ -342,7 +354,7 @@ No procederán las exenciones del presente número cuando en los locales en que 
 
 5) Las primas de seguros contratados dentro del país que paguen la Federación Aérea de Chile, los clubes aéreos y las empresas chilenas de aeronavegación comercial.
 
-6) (inciso 1°, derogado).
+6) INCISO DEROGADO
 
 Las comisiones que perciban los Servicios Regionales y Metropolitano de Vivienda y Urbanización sobre los créditos hipotecarios que otorguen a los beneficiarios de subsidios habitacionales y las comisiones que perciban las Instituciones de Previsión en el otorgamiento de créditos hipotecarios a sus imponentes.
 
@@ -376,15 +388,23 @@ d) Derechos y comisiones que se devenguen en trámites obligatorios para el reto
 
 15) Las primas de contratos de seguro de vida reajustable, y
 
-16) Los ingresos percibidos por la prestación de servicios a personas sin domicilio ni residencia en Chile, siempre que el Servicio Nacional de Aduanas califique dichos servicios como exportación. 17) Los ingresos en moneda extranjera percibidos por empresas hoteleras registradas ante el Servicio de Impuestos Internos con motivo de servicios prestados a turistas extranjeros sin domicilio o residencia en Chile.
+16) Los ingresos percibidos por la prestación de servicios a personas sin domicilio ni residencia en Chile, siempre que el Servicio Nacional de Aduanas califique dichos servicios como exportación;
 
-> **Nota.** El artículo 22 de la LEY 19506 dispone que la modificación de este numerando regirá desde el 1° de enero de 1999.
+17) Los ingresos en moneda extranjera percibidos por empresas hoteleras registradas ante el Servicio de Impuestos Internos con motivo de servicios prestados a turistas extranjeros sin domicilio o residencia en Chile, y
 
-> **Nota.** NOTA: 3.1 El artículo 58, letra b) de la Ley N° 18.768, dispuso la derogación, a contar del 1° de enero de 1990, del N° 4 letra A de este artículo.
+18) Las comisiones de administración de cotizaciones voluntarias, depósitos de ahorro previsional voluntario, depósitos de ahorro previsional voluntario colectivo y de depósitos convenidos, efectuados en planes de ahorro previsional voluntario debidamente autorizados en conformidad a lo establecido por el Artículo 20 y siguientes del decreto ley Nº 3.500, de 1980, que perciban las instituciones debidamente autorizadas para su administración.
 
-> **Nota.** NOTA: 3.1.1. Véase el D.S. N° 468, del Ministerio de Economía, Fomento y Reconstrucción, publicado en el "Diario Oficial" de 22 de abril de 1991, que sustituye la Lista de Bienes de Capital a que se refiere el N° 10, Letra B, del presente artículo.
+> **Nota.** El inciso 1º del Art. 22 de la LEY 19506, publicada el 30.07.1997, dispone que la presente modificación regirá a contar del 1° de enero de 1999.
 
-> **Nota.** NOTA: 3.2 La modificación introducida por el artículo 28 de la ley 18681, rige a contar de la fecha de su publicación, efectuada el 31 de diciembre de 1987.
+> **Nota.** NOTA: 1 El artículo 6º de la LEY 19924, publicada el 09.01.2004, dispone que la presente norma, comenzará a regir noventa días después de su publicación.
+
+> **Nota.** NOTA: 3.1 El artículo 58, letra b) de la LEY 18768, dispuso la derogación, a contar del 1° de enero de 1990, del N° 4 letra A de este artículo.
+
+> **Nota.** NOTA 3.1.1 Véase el DTO 370, Economía, publicado el 09.05.2007, que sustituye la Lista de Bienes de Capital a que se refiere el N° 10, Letra B, del presente artículo.
+
+> **Nota.** NOTA: 3.2 La modificación introducida por el artículo 28 de la LEY 18681, rigen a contar de la fecha de su publicación, efectuada el 31 de diciembre de 1987.
+
+> **Nota.** NOTA: 4 El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
 
 #### Artículo 13°
 
@@ -428,7 +448,11 @@ Tasa, base imponible y débito fiscal
 
 #### Artículo 14°
 
-Los contribuyentes afectos a las disposiciones del presente Título pagarán el impuesto con una tasa de 18% sobre la base imponible.
+Los contribuyentes afectos a las disposiciones del presente Título pagarán el impuesto con una tasa de 19% sobre la base imponible.
+
+> **Nota.** La letra a) del artículo 1º de la Ley 19888, dispone que la modificación que introduce al presente artículo rige a contar del 01.10.2003. Por su parte, la letra b) del mismo artículo, dispone que se sustituya el guarismo 19% por 18%, a partir del 01.01.2007.
+
+> **Nota.** NOTA 1: El artículo 7º de la LEY 20102, publicada el 28.04.2006, derogó el literal b) del artículo 1º de la LEY 19888, que sustituía el guarismo 19% por 18%.
 
 #### Artículo 15°
 
@@ -452,7 +476,9 @@ No formarán parte de la base imponible el impuesto de este Título, los de los 
 
 En los casos que a continuación se señalan, se entenderá por base imponible:
 
-a) En las importaciones, el valor aduanero de los bienes que se internen o, en su defecto, el valor CIF de los mismos bienes. En todo caso, formarán parte de la base imponible los gravámenes aduaneros que se causen en la misma importación;
+a) En las importaciones, el valor aduanero de los bienes que se internen o, en su defecto, el valor CIF de los mismos bienes. En todo caso, formarán parte de la base imponible los gravámenes aduaneros que se causen en la misma importación.
+
+Para determinar el impuesto que afecta la operación establecida en el inciso segundo de la letra a) del artículo 8º, se considerará la misma base imponible de las importaciones menos la depreciación por uso. Dicha depreciación ascenderá a un diez por ciento por cada año completo transcurrido entre el 1º de enero del año del modelo y el momento en que se pague el impuesto, salvo que en el valor aduanero ya se hubiese considerado rebaja por uso, caso en el cual sólo procederá depreciación por los años no tomados en cuenta;
 
 b) En los casos contemplados en la letra d) del artículo 8° el valor que el propio contribuyente tenga asignado a los bienes o sobre el valor que tuvieren los mismos en plaza, si este último fuere superior, según lo determine el Servicio de Impuestos Internos, a su juicio exclusivo;
 
@@ -558,33 +584,43 @@ Los contribuyentes afectos al pago del tributo de este Título tendrán derecho 
 
 3°.- En el caso de importación o adquisición de bienes o de utilización de servicios que se afecten o destinen a operaciones gravadas y exentas, el crédito se calculará en forma proporcional, de acuerdo con las normas que establezca el Reglamento.
 
-4°.- No darán derecho a crédito las importaciones, arrendamiento con o sin opción de compra y adquisiciones de automóviles, station wagons y similares y de los combustibles, lubricantes, repuestos y reparaciones para su mantención, ni las de productos o sus componentes que gocen en cualquier forma de subsidios al consumidor de acuerdo a la facultad del artículo 48, salvo que el giro o actividad habitual del contribuyente sea la venta o el arrendamiento de dichos bienes, según corresponda.
+4°.- No darán derecho a crédito las importaciones, arrendamiento con o sin opción de compra y adquisiciones de automóviles, station wagons y similares y de los combustibles, lubricantes, repuestos
+
+y reparaciones para su mantención, ni las de productos o sus componentes que gocen en cualquier forma de subsidios al consumidor de acuerdo a la facultad del artículo 48, salvo que el giro o actividad habitual del contribuyente sea la venta o el arrendamiento de dichos bienes, según corresponda, salvo en aquellos casos en que se ejerza la facultad del inciso primero del artículo 31 de la Ley sobre Impuesto a la Renta.
 
 5°.- No darán derecho a crédito los impuestos recargados o retenidos en facturas no fidedignas o falsas o que no cumplan con los requisitos legales o reglamentarios y en aquéllas que hayan sido otorgadas por personas que resulten no ser contribuyentes de este impuesto.
 
 Lo establecido en el inciso anterior no se aplicará cuando el pago de la factura se haga dando cumplimiento a los siguientes requisitos:
 
-a) Con un cheque nominativo a nombre del emisor de la factura, girado contra la cuenta corriente bancaria del respectivo comprador o beneficiario del servicio.
+a) Con un cheque nominativo, vale vista nominativo o transferencia electrónica de dinero a nombre del emisor de la factura, girados contra la cuenta corriente bancaria del respectivo comprador o beneficiario del servicio.
 
-b) Haber anotado por el librador al extender el cheque, en el reverso del mismo, el número del rol único tributario del emisor de la factura y el número de ésta.
+b) Haber anotado por el librador al extender el cheque o por el banco al extender el vale vista, en el reverso del mismo, el número del rol único tributario del emisor de la factura y el número de ésta. En el caso de transferencias electrónicas de dinero, esta misma información, incluyendo el monto de la operación, se deberá haber registrado en los respaldos de la transacción electrónica del banco.
 
 Con todo, si con posterioridad al pago de una factura ésta fuese objetada por el Servicio de Impuestos Internos, el comprador o beneficiario del servicio perderá el derecho al crédito fiscal que ella hubiere originado, a menos que acredite a satisfacción de dicho Servicio, lo siguiente:
 
-a) La emisión y pago del cheque, mediante el documento original o fotocopia de éste.
+a) La emisión y pago del cheque, vale vista o transferencia electrónica, mediante el documento original o fotocopia de los primeros o certificación del banco, según corresponda, con las especificaciones que determine el Director del Servicio de Impuestos Internos.
 
-b) Tener registrada la respectiva cuenta corriente bancaria en la contabilidad, si está obligado a llevarla.
+b) Tener registrada la respectiva cuenta corriente bancaria en la contabilidad, si está obligado a llevarla, donde se asentarán los pagos efectuados con cheque, vale vista o transferencia electrónica de dinero.
 
 c) Que la factura cumple con las obligaciones formales establecidas por las leyes y reglamentos.
 
 d) La efectividad material de la operación y de su monto, por los medios de prueba instrumental o pericial que la ley establece, cuando el Servicio de Impuestos Internos así lo solicite.
 
+No obstante lo dispuesto en los incisos segundo y tercero, no se perderá el derecho a crédito fiscal, si se acredita que el impuesto ha sido recargado y enterado efectivamente en arcas fiscales por el vendedor.
+
 Lo dispuesto en los incisos segundo y tercero no se aplicará en el caso que el comprador o beneficiario del servicio haya tenido conocimiento o participación en la falsedad de la factura.
 
 6°.- No procederá el derecho a crédito fiscal para el adquirente o contratante por la parte del Impuesto al Valor Agregado que la empresa constructora recupere en virtud de lo prescrito en el artículo 21 del decreto ley N° 910, de 1975.
 
+> **Nota.** El inciso 2º del artículo 1º transitorio de la LEY 19738, dispone que la modificación introducida a este artículo, regirá a contar del 1 del mes siguiente al de la fecha de su publicación.
+
+> **Nota.** NOTA: 1 El artículo 6º de la LEY 19747, publicada el 28.07.2001, dispuso la suspensión, a contar del 1º de julio de 2001 y hasta el 31 de diciembre de 2002, la aplicación de la norma introducida a este inciso por el número 1 letra b) del artículo 5º de la LEY 19738.
+
 > **Nota.** NOTA: 1.1 Las modificaciones introducidas por el art. 1° de la Ley 18.630, regirán a contar del 1° de octubre de 1987.
 
-> **Nota.** NOTA: 4.2 El artículo transitorio de la Ley 18.844, publicada en el Diario Oficial de 30 de octubre de 1989, dispone que lo establecido en el inciso primero del N° 5 del artículo 23 del presente decreto ley no se aplicará en el caso de facturas pagadas antes de la entrada en vigencia de la citada ley 18.844, siempre que el contribuyente acredite ante el Servicio de Impuestos Internos la existencia de los requisitos señalados en la letra a) del inciso segundo del referido N° 5, y pruebe, además, los hechos señalados en el inciso tercero de la misma disposición. En el caso que se hayan efectuado liquidaciones por este concepto los requisitos y hechos a que se refiere dicho inciso deberán acreditarse en la reclamación que se entable o que se haya entablado en contra de ellas. La petición que se realice al efecto deberá presentarse antes de que se dicte sentencia de término. Esta norma no se aplicará en caso de existir proceso pendiente por infracción a las leyes tributarias sancionadas con pena corporal.
+> **Nota.** NOTA: 2 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la modificación introducida al presente artículo regirá a contar del día 1º del mes siguiente a su publicación.
+
+> **Nota.** NOTA: 4.2 El artículo transitorio de la LEY 18844, publicada el 30.12.1989, dispone que lo establecido en el inciso primero del N° 5 del artículo 23 del presente decreto ley no se aplicará en el caso de facturas pagadas antes de la entrada en vigencia de la citada ley 18844, siempre que el contribuyente acredite ante el Servicio de Impuestos Internos la existencia de los requisitos señalados en la letra a) del inciso segundo del referido N° 5, y pruebe, además, los hechos señalados en el inciso tercero de la misma disposición. En el caso que se hayan efectuado liquidaciones por este concepto los requisitos y hechos a que se refiere dicho inciso deberán acreditarse en la reclamación que se entable o que se haya entablado en contra de ellas. La petición que se realice al efecto deberá presentarse antes de que se dicte sentencia de término. Esta norma no se aplicará en caso de existir proceso pendiente por infracción a las leyes tributarias sancionadas con pena corporal.
 
 #### Artículo 24°
 
@@ -612,9 +648,9 @@ El Presidente de la República estará facultado para hacer extensiva la reajust
 
 #### Artículo 27 bis
 
-Los contribuyentes gravados con el impuesto del Título II de esta ley y los exportadores ART que tengan remanentes de crédito fiscal, determinados de acuerdo con las normas del artículo 23, durante seis períodos tributarios consecutivos como mínimo, originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su Activo Fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado en dichos períodos, debidamente reajustado de conformidad con lo dispuesto en el artículo 27, a cualquier clase de impuesto fiscal, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República. En el caso que en los seis o más períodos tributarios señalados se originen créditos fiscales en adquisiciones distintas a las anteriores o en utilizaciones de servicios de los no señalados precedentemente, el monto de la la imputación o de la devolución se determinará aplicando al total del remanente acumulado, el porcentaje que represente el Impuesto al Valor Agregado soportado por adquisiciones de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que se integran al costo de éste, en relación al total del crédito fiscal de los seis o más períodos tributarios.
+Los contribuyentes gravados con el impuesto del Título II de esta ley y los exportadores que tengan remanentes de crédito fiscal, determinados de acuerdo con las normas del artículo 23, durante seis períodos tributarios consecutivos como mínimo originados en la adquisición de bienes corporales muebles o inmuebles destinados a formar parte de su activo fijo o de servicios que deban integrar el valor de costo de éste, podrán imputar ese remanente acumulado en dichos períodos, debidamente reajustado de conformidad con lo dispuesto en el artículo 27, a cualquier clase de impuesto fiscal, incluso de retención, y a los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas u optar porque dicho remanente les sea reembolsado por la Tesorería General de la República. En el caso que en los seis o más períodos tributarios señalados se originen créditos fiscales en adquisiciones distintas a las anteriores o en utilizaciones de servicios de los no señalados precedentemente, el monto de la la imputación o de la devolución se determinará aplicando al total del remanente acumulado, el porcentaje que represente el Impuesto al Valor Agregado soportado por adquisiciones de bienes corporales muebles o inmuebles destinados al Activo Fijo o de servicios que se integran al costo de éste, en relación al total del crédito fiscal de los seis o más períodos tributarios.
 
-Los contribuyentes señalados en el inciso anterior que realicen ventas o prestaciones de servicios y, en dicha oportunidad, se determine que han importado o adquirido bienes corporales muebles o inmuebles afectados a operaciones gravadas y exentas, excluidas de de estas últimas las exportaciones, cuyos remanentes no fueren imputados o devueltos en la forma proporcional que determina el reglamento o se determine que se ha efectuado una imputación u obtenido una devolución del remanente de crédito fiscal superior al que correspondía de acuerdo a la ley o a su reglamento, deberán devolver el exceso debidamente reajustado de acuerdo con el artículo 27, adicionándolo al débito fiscal en la primera declaración del Impuesto al Valor Agregado. De igual forma deberá devolverse el remanente en el caso de término de giro de la empresa.
+Los contribuyentes señalados en el inciso anterior, restituirán las sumas recibidas mediante los pagos efectivos que realicen en Tesorería por concepto del Impuesto al Valor Agregado, generado en la operaciones normales que efectúen a contar del mes siguiente del período al cual esas sumas corresponden. En el caso de que en cualquiera de los períodos tributarios siguientes existan operaciones exentas o no gravadas, deberán adicionalmente restituir las sumas equivalentes a las cantidades que resulten de aplicar la tasa de impuesto establecida en el artículo 14°, que se determine de multiplicar las operaciones totales del mes por la proporción de operaciones gravadas usada para determinar el crédito fiscal en el mes de adquisición del activo fijo que originó la devolución y restar de dicho resultado las operaciones afectas del mes. A los contribuyentes que no hayan realizado ventas o prestaciones de servicios en dicho período de seis o más meses, se les determinará en el primer mes en que tengan operaciones si han importado o adquirido bienes corporales muebles o inmuebles o recibido servicios afectado a operaciones gravadas, no gravadas o exentas aplicándose la proporcionalidad que establece el reglamento, debiendo devolver el exceso, correspondiente a las operaciones exentas o no gravadas, debidamente reajustado en conformidad al artículo 27°, adicionándolo al débito fiscal en la primera declaración del Impuesto al Valor Agregado. De igual forma, deberá devolverse el remanente de crédito obtenido por el contribuyente, o la parte que proceda, cuando se haya efectuado una imputación u obtenido una devolución superior a la que corresponda de acuerdo a la ley o a su reglamento, y en el caso de término de giro de la empresa. Las devoluciones a que se tengan derecho por las exportaciones, se regirán por lo dispuesto en el artículo 36°.
 
 Para hacer efectiva la imputación a que se refieren los incisos anteriores, los contribuyentes deberán solicitar al Servicio de Tesorerías que se les emita un Certificado de Pago por una suma de hasta el monto de los créditos acumulados, expresados en unidades tributarias. Dicho certificado, que se extenderá en la forma y condiciones que establezca el Reglamento, será nominativo, intransferible a terceras personas y a la vista, y podrá fraccionarse en su valor para los efectos de realizar las diversas imputaciones que autoriza la presente disposición.
 
@@ -622,7 +658,7 @@ Para obtener la devolución del remanente de crédito fiscal, los contribuyentes
 
 INCISO DEROGADO
 
-La infracción consistente en utilizar cualquier procedimiento doloso encaminado a efectuar imputaciones y obtener devoluciones improcedentes o superiores a las que realmente corresponda, se sancionará en conformidad con lo dispuesto en los incisos segundo y tercero del N° 4 del artículo 97 del Código Tributario, según se trate de imputaciones o devoluciones. La tramitación de los procesos por estos delitos se sujetará a las normas del artículo 163 del Código Tributario y la excarcelación de los inculpados se regirá por lo dispuesto en el inciso segundo de la letra f) de dicho precepto, cuando se trate de devoluciones.
+La infracción consistente en utilizar cualquier procedimiento doloso encaminado a efectuar imputaciones y obtener devoluciones improcedentes o superiores a las que realmente corresponda, se sancionará en conformidad con lo dispuesto en los incisos segundo y tercero del N° 4 del artículo 97 del Código Tributario, según se trate de imputaciones o devoluciones.
 
 La no devolución a arcas fiscales de las sumas imputadas o devueltas en exceso según lo prescrito en el inciso cuarto de este artículo, y que no constituya fraude, se sancionará como no pago oportuno de impuestos sujetos a retención o recargo, aplicándose los intereses, reajustes y sanciones desde la fecha en que se emitió el Certificado de Pago que dio origen al derecho a la imputación, o desde la fecha de la devolución en su caso.
 
@@ -682,7 +718,7 @@ De los exportadores
 
 #### Artículo 36°
 
-Los exportadores tendrán derecho a recuperar el impuesto de este Título que se les hubiere recargado al adquirir bienes o utilizar servicios destinados a su actividad de exportación. Igual derecho tendrán respecto del impuesto pagado al importar bienes para el mismo objeto.
+Los exportadores tendrán derecho a recuperar el impuesto de este Título que se les hubiere recargado al adquirir bienes o utilizar servicios destinados a su actividad de exportación. Igual derecho tendrán respecto del impuesto pagado al importar bienes para el mismo objeto. Las solicitudes, declaraciones y demás antecedentes necesarios para hacer efectivos los beneficios que se otorgan en este artículo, deberán presentarse en el Servicio de Impuestos Internos.
 
 Para determinar la procedencia del impuesto a recuperar se aplicarán las normas del artículo 25°.
 
@@ -690,7 +726,7 @@ Los exportadores que realicen operaciones gravadas en este Título podrán deduc
 
 Los prestadores de servicios que efectúen transporte terrestre de carga y aéreo de carga y pasajeros desde el exterior hacia Chile y viceversa, gozarán respecto de estas operaciones del mismo tratamiento indicado en los incisos anteriores, al igual que aquellos que presten servicios a personas sin domicilio o residencia en el país, que sean calificados como exportación de conformidad a lo dispuesto en el N° 16 letra E, del artículo 12. También se considerarán exportadores los prestadores de servicios que efectúen transporte de carga y de pasajeros entre dos más puntos ubicados en el exterior, respecto del ingreso obtenido por dicha prestación que deba declararse en Chile para efectos tributarios.
 
-Para los efectos previstos en este artículo, serán considerados también como exportadores las empresas aéreas o navieras, o sus representantes en Chile, que efectúen transporte de pasajeros o de carga en tránsito NOTA por el país y que, por consiguiente, no tomen o dejen pasajeros en Chile ni carguen o descarguen bienes o mercancías en el país, respecto de la adquisición de bienes para el aprovisionamiento denominado rancho de sus naves o aeronaves. De igual tratamiento tributario gozarán las empresas o sus representantes en el país por las compras que realicen para el aprovisionamiento de plataformas petroleras, de perforación o de explotación, flotantes o sumergibles, en tránsito en el país; de naves o aeronaves extranjeras que no efectúen transporte de pasajeros o de carga, siempre que con motivo de las actividades que éstas realicen en Chile se haya convenido con instituciones nacionales una amplia colaboración para el desarrollo de operaciones y proyectos que sean de interés para el país, según calificación que deberá hacer previamente el Ministro de Hacienda, a petición de los responsables de la ejecución de las actividades que las naves o aeronaves respectivas realicen en Chile.
+Para los efectos previstos en este artículo, serán considerados también como exportadores las empresas aéreas o navieras, o sus representantes en Chile, que efectúen transporte de pasajeros o de carga en tránsito por el país y que, por consiguiente, no tomen o dejen pasajeros en Chile ni carguen o descarguen bienes o mercancías en el país, respecto de la adquisición de bienes para el aprovisionamiento denominado rancho de sus naves o aeronaves. De igual tratamiento tributario gozarán las empresas o sus representantes en el país por las compras que realicen para el aprovisionamiento de plataformas petroleras, de perforación o de explotación, flotantes o sumergibles, en tránsito en el país; de naves o aeronaves extranjeras que no efectúen transporte de pasajeros o de carga, siempre que con motivo de las actividades que éstas realicen en Chile se haya convenido con instituciones nacionales una amplia colaboración para el desarrollo de operaciones y proyectos que sean de interés para el país, según calificación que deberá hacer previamente el Ministro de Hacienda, a petición de los responsables de la ejecución de las actividades que las naves o aeronaves respectivas realicen en Chile.
 
 Para los mismos efectos, serán considerados también exportadores las empresas aéreas, navieras y de turismo y las organizaciones científicas, o sus representantes legales en el país, por el aprovisionamiento de las naves o aeronaves que efectúen en los Puertos de Punta Arenas o Puerto Williams y por la carga, pasajes o por los servicios que presten o utilicen para los viajes que realicen desde dichos puertos al Continente Antártico, certificados por la Dirección General del Territorio Marítimo y Marina Mercante Nacional o por la Dirección General de Aeronáutica Civil, según corresponda. La recuperación del impuesto a los términos establecidos en este artículo, solo procederá respecto del aprovisionamiento, carga, pasaje o de los servicios que sea necesario realizar exclusivamente para efectuar el viaje y transporte respectivo desde Punta Arenas o Puerto Williams al Continente Antártico.
 
@@ -699,6 +735,10 @@ También gozarán de este beneficio, las empresas que no estén constituidas en 
 INCISO SUPRIMIDO
 
 El beneficio señalado en este artículo será aplicable asimismo a las entidades hoteleras a que se refiere el artículo 12, letra E), número 17), de este texto legal. Con todo, la recuperación no podrá exceder del guarismo establecido en su artículo 14, aplicado sobre el monto total de las operaciones en moneda extranjera que por este concepto efectúen en el período tributario respectivo.
+
+Serán también considerados exportadores para gozar del beneficio establecido en este artículo, las empresas portuarias creadas en virtud del artículo 1º de la ley Nº 19.542, las empresas titulares de las concesiones portuarias a que se refiere la misma ley, así como, las demás empresas que exploten u operen puertos marítimos privados de uso público, por los servicios que presten y que digan relación con operaciones de exportación, importación y tránsito internacional de bienes.
+
+> **Nota.** El artículo 26, del DFL 1, Hacienda, publicado el 11.09.2001, que fijó el texto refundido de la LEY 19420, reitera la presente modificación.
 
 > **Nota.** NOTA: 4.3 La modificación introducida a este artículo por la LEY 18671, rige a contar del 1° de noviembre de 1987.
 
@@ -712,7 +752,7 @@ Del impuesto adicional a ciertos productos
 
 #### Artículo 37°
 
-Sin perjuicio del impuesto establecido en el Título II de esta ley, la primera venta o importación, sea esta última habitual o no, de las especies que se señalan en este artículo, pagará un impuesto sobre el valor determinado según el artículo siguiente, con la tasa de 50%:
+Sin perjuicio del impuesto establecido en el Título II de esta ley, la primera venta o importación, sea esta última habitual o no, de las especies que se señalan en este artículo, pagará un impuesto sobre el valor determinado según el artículo siguiente, con la tasa de 15%, con excepción de las señaladas en la letra j), que pagarán con una tasa de 50%:
 
 a) Artículo de oro, platino y marfil;
 
@@ -740,6 +780,8 @@ l) Armas de aire o gas comprimido, sus accesorios y proyectiles, con excepción 
 
 m) DEROGADA
 
+> **Nota.** NOTA: 1 El inciso 2º del artículo 1º transitorio de la LEY 19738, dispone que la modificación introducida a este artículo, regirá a contar del 1 del mes siguiente al de la fecha de su publicación.
+
 #### Artículo 38°
 
 El impuesto que se establece en el artículo anterior se aplicará:
@@ -754,7 +796,9 @@ El impuesto del presente párrafo no afectará a las especies que se importen al
 
 #### Artículo 40°
 
-Las especies señaladas en las letras a), b) y c) del artículo 37° quedarán afectas a la misma tasa del 50% por las ventas no gravadas en dicha N° 1 disposición. Para estos efectos, tanto el impuesto determinado en virtud del referido artículo 37° como el de este artículo se regirán por las normas del Título II, incluso las del artículo 36° y sus disposiciones reglamentarias; todo ello sin perjuicio de la aplicación del Impuesto al Valor Agregado.
+Las especies señaladas en las letras a), b) y c) del artículo 37° quedarán afectas a la misma tasa del 15% por las ventas no gravadas en dicha disposición. Para estos efectos, tanto el impuesto determinado en virtud del referido artículo 37° como el de este artículo se regirán por las normas del Título II, incluso las del artículo 36° y sus disposiciones reglamentarias; todo ello sin perjuicio de la aplicación del Impuesto al Valor Agregado.
+
+> **Nota.** La modificación a este artículo rige a contar del 1º de julio de 2001.
 
 ### Párrafo 2°
 
@@ -774,25 +818,9 @@ Del impuesto adicional a las bebidas alcohólicas, analcohólicas y productos si
 
 Sin perjuicio del impuesto establecido en el Título II de esta ley, las ventas o importaciones, sean estas últimas habituales o no, de las especies que se señalan en este artículo, pagarán un impuesto adicional con la tasa que en cada caso se indica, que se aplicará sobre la misma base imponible que la del Impuesto al Valor Agregado:
 
-a) Licores, pisco, aguardientes y destilados, incluyendo los vinos licorosos o aromatizados similares al vermouth, según la siguiente tabla:
+a) Licores, piscos, whisky, aguardientes y destilados, incluyendo los vinos licorosos o aromatizados similares al vermouth, tasa del 27%;
 
-Graduación
-
-Alcohólica (Gay Lussac a 20° C) Tasa
-
-menor o igual a 35° 27%
-
-mayor a 35° y menor o igual a 36° 31%
-
-mayor a 36° y menor o igual a 37° 35%
-
-mayor a 37° y menor o igual a 38° 39%
-
-mayor a 38° y menor o igual a 39° 43%
-
-mayor a 39° 47%.
-
-b) SUPRIMIDA;
+b) SUPRIMIDA
 
 c) Vinos destinados al consumo, comprendidos los vinos gasificados, los espumosos o champaña, los generosos o asoleados, chichas y sidras destinadas al consumo, cualquiera que sea su envase, cervezas y otras bebidas alcohólicas, cualquiera que sea su tipo, calidad o denominación, tasa del 15%;
 
@@ -800,11 +828,13 @@ d) Bebidas analcohólicas, naturales o artificiales, jarabes y en general cualqu
 
 e) Aguas minerales o termales a las cuales se les haya adicionado colorante, sabor o edulcorantes, tasa del 13%, y
 
-f) SUPRIMIDA.
+f) SUPRIMIDA
 
 Para los efectos de este impuesto se considerarán también ventas las operaciones señaladas en el artículo 8° de la presente ley, siéndoles aplicables, en lo que corresponda, todas las disposiciones referidas a ellas.
 
-> **Nota.** El artículo transitorio de la LEY 19534, dispone que las modificaciones introducidas a este artículo rigen a contar del primero del mes siguiente de transcurridos tres años desde su publicación.
+> **Nota.** El Art. transitorio de la LEY 19534, publicada el 18.11.1997, dispone que las modificaciones introducidas a este artículo rigen a contar del primero del mes siguiente de transcurridos tres años desde su publicación.
+
+> **Nota.** NOTA 1: El Art. transitorio de la LEY 19716, dispone que la tasa del 27%, regirá para los piscos a contar de la fecha de su publicación; respecto de las demás bebidas alcohólicas, dicha tasa regirá a contar del 21 de marzo del año 2003. En el inciso 3º se establecen las tasas aplicables a las demás bebidas alcohólicas en el tiempo que medie entre la publicación de la LEY 19716 y el 21 de marzo del año 2003.
 
 #### Artículo 43°
 
@@ -866,29 +896,15 @@ Otros impuestos específicos
 
 #### Artículo 46
 
-Sin perjuicio de los impuestos establecidos en el Título II y en el artículo 43 bis, la importación de vehículos automóviles, del conjunto de partes o piezas necesarias para su armaduría o ensamblaje en el país y de automóviles semiterminados, cuyo destino normal sea el transporte de pasajeros o de carga, con una capacidad de carga útil de hasta 2.000 kilos, estará afecta a un impuesto del 85% que se aplicará sobre el valor aduanero que exceda de US$ 10.004,73 dólares de los Estados Unidos de América. Para los efectos de la aplicación de este impuesto en las importaciones de conjuntos de partes o piezas de vehículos o de vehículos semiterminados se considerará el valor aduanero que corresponda al vehículo totalmente terminado, fijado por el Servicio Nacional de Aduanas, considerando, por tanto, el valor correspondiente al porcentaje de integración nacional.
+DEROGADO
 
-Los vehículos de años anteriores, nuevos o usados, pagarán el impuesto establecido en este artículo considerando el valor aduanero correspondiente al último modelo nuevo o su similar, aplicándose, si procediere, rebajas por uso y/o daño, de acuerdo a las normas que determine el Servicio Nacional de Aduanas.
-
-Este impuesto afectará también a la importación, habitual o no, de carrocerías de vehículos automóviles destinados al transporte de pasajeros, con capacidad de hasta 15 asientos, incluido el del conductor, o de carga con una capacidad de hasta 2.000 kilos de carga útil. Para los fines de su aplicación, determinación y pago, este impuesto se sujetará a las mismas normas que este artículo y el 47 bis de esta ley, contemplan respecto del impuesto que afecta a la importación del último modelo nuevo del vehículo automóvil al que corresponda dicha carrocería, rebajado en un sesenta por ciento.
-
-El impuesto que afecta a la importación de conjuntos de partes o piezas o de vehículos semiterminados necesarias para la armaduría o ensamblaje en el país, se pagará dentro de los 60 días siguientes a aquél en que se internen las partes o piezas respectivas y será girado por el Servicio de Aduanas expresado en dólares de los Estados Unidos de América.
-
-Para retirar de la potestad aduanera los conjuntos de partes o piezas o vehículos semiterminados, el importador deberá suscribir un pagaré por el monto del impuesto a la orden del Tesorero General de la República, documento que le será devuelto al momento del pago de este impuesto. El Servicio de Tesorerías cancelará el giro comprobante de pago a la suscripción de dicho pagaré.
-
-El impuesto establecido en este artículo no se aplicará tratándose de la importación de vehículos destinados al transporte de pasajeros, con capacidad de más de 15 asientos, incluído el del conductor, ni a la importación de camiones y camionetas de más de 2.000 kilos de capacidad de carga, ni a la importación del conjunto de partes o piezas o de vehículos semiterminados necesarios para armar o ensamblar en el país dichos vehículos.
-
-Este impuesto no afectará a aquellos vehículos que se internen al país en los casos previstos en las letras B) y C) del artículo 12 ni a los que se importen con franquicias desde las Zonas Francas a que se refiere el decreto con fuerza de ley N° 341, de 1977, del Ministerio de Hacienda, a sus respectivas Zonas Francas de Extensión.
-
-Tampoco se aplicará este impuesto a los tractores, carretillas automóviles, vehículos casa rodante autopropulsados, vehículos para transporte fuera de carretera, coches celulares, coches ambulancias, coches mortuorios, coches blindados para el transporte y, en general, vehículos especiales clasificados en la partida 87.03 del Arancel Aduanero.
-
-Sin perjuicio de las atribuciones del Servicio de Impuestos Internos, el Servicio Nacional de Aduanas deberá verificar la correcta aplicación y determinación del impuesto establecido en este artículo.
-
-> **Nota.** NOTA : La modificación introducida por el DTO 438 EXENTO, Hacienda, publicado el 30.12.1998, rige a contar del 01.01.1999, reactualizando en -3,0% la cantidad expresada en dólares de los Estados Unidos de América, a que se refiere este artículo.
+> **Nota.** El artículo 1º de la LEY 19914, publicada el 19.11.2003, establece que la derogación de esta norma, rige a contar del 1º de enero de 2007.
 
 #### Artículo 46 bis
 
-Las cantidades en dólares a que se refiere el artículo anterior, serán reactualizadas a contar del 1° de enero de cada año, mediante decreto supremo, expedido a través del Ministerio de Hacienda, de acuerdo con la variación experimentada por el Indice Oficial de Precios al Por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1° de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto. La reactualización prevista en este artículo se efectuará a partir del 1° de enero de 1987.
+DEROGADO
+
+> **Nota.** El artículo 1º de la LEY 19914, publicada el 19.11.2003, establece que la derogación de esta norma, rige a contar del 1º de enero de 2007.
 
 #### Artículo 47°
 
@@ -986,7 +1002,7 @@ Tratándose de los contratos señalados en la letra e) del artículo 8° y de ve
 
 Cuando se trate de los contratos indicados en el inciso segundo de la letra c) del artículo 16, la factura deberá emitirse por cada estado de avance o pago que deba presentar el concesionario original o el concesionario por cesión, en los períodos que se señalen en el decreto o contrato que otorgue la concesión respectiva. Respecto de los servicios de conservación, reparación y explotación de obras de uso público a que hace referencia la letra h) del artículo 16, la factura correspondiente deberá emitirse dentro del mes en el cual el concesionario perciba los ingresos provenientes de la explotación de las obras.
 
-Sin embargo, los contribuyentes podrán postergar la emisión de sus facturas hasta el quinto día posterior a la terminación del período en que se hubieren realizado las operaciones, debiendo, en todo caso, corresponder su fecha al período tributario en que ellas se efectuaron.
+Sin embargo, los contribuyentes podrán postergar la emisión de sus facturas hasta el décimo día posterior a la terminación del período en que se hubieren realizado las operaciones, debiendo, en todo caso, corresponder su fecha al período tributario en que ellas se efectuaron.
 
 En caso que las facturas no se emitan al momento de efectuarse la entrega real o simbólica de las especies, los vendedores deberán emitir y entregar al adquirente, en esa oportunidad, una guía de despacho numerada y timbrada por el Servicio de Impuestos Internos. Esta guía deberá contener todas las especificaciones que señale el Reglamento. En la factura que se otorgue posteriormente deberá indicarse el número y fecha de la guía o guías respectivas.
 
@@ -1066,9 +1082,7 @@ En el mismo acto deberán presentar una declaración jurada del monto total de l
 
 Respecto de los contribuyentes sujetos al régimen del Párrafo 7° del Título II de esta ley, el Reglamento fijará la forma y condiciones en que deben presentar su declaración.
 
-El impuesto a las importaciones gravadas en esta ley, cuando proceda, deberá pagarse antes de retirar las especies del recinto aduanero, salvo que se trate de importaciones efectuadas por personas que respecto de su giro no sean contribuyentes del impuesto de esta ley, en cuyo caso podrán optar pagar el impuesto en la oportunidad antes señalada o en las fechas y cuotas que fije la Dirección Nacional de Impuestos Internos, pudiendo ésta exigir las garantías personales o reales que estime conveniente para el debido resguardo de los intereses fiscales. En esta modalidad, el monto a pagar por cada cuota se calculará sobre la base que haya determinado y calculado dicho Servicio, considerando los recargos y tipos de cambio
-
-vigentes a la fecha que se realice el pago. Las referidas cuotas devengarán el mismo interés que se fije para el pago diferido de los derechos aduaneros de los bienes de capital que se importen.
+El impuesto a las importaciones gravadas en esta ley, cuando proceda, deberá pagarse antes de retirar las especies del recinto aduanero, salvo que se trate de importaciones efectuadas por personas que respecto de su giro no sean contribuyentes del impuesto de esta ley, en cuyo caso podrán optar pagar el impuesto en la oportunidad antes señalada o en las fechas y cuotas que fije la Dirección Nacional de Impuestos Internos, pudiendo ésta exigir las garantías personales o reales que estime conveniente para el debido resguardo de los intereses fiscales. En esta modalidad, el monto a pagar por cada cuota se calculará sobre la base que haya determinado y calculado dicho Servicio, considerando los recargos y tipos de cambio vigentes a la fecha que se realice el pago. Las referidas cuotas devengarán el mismo interés que se fije para el pago diferido de los derechos aduaneros de los bienes de capital que se importen.
 
 INC. 5° DEROGADO.
 
@@ -1079,6 +1093,8 @@ Igual procedimiento se adoptará en aquellos casos en que las especies se retire
 INCISO DEROGADO
 
 El Servicio de Impuestos Internos podrá autorizar el pago del Impuesto al Valor Agregado, que se devengue en la primera venta en el país de vehículos destinados al transporte de pasajeros con capacidad de más de 15 asientos, incluído el del conductor, en cuotas iguales mensuales, trimestrales o semestrales; pero dentro de un plazo máximo de sesenta meses, contado desde la fecha de emisión de la factura respectiva. Para estos efectos, el adquirente será sujeto del Impuesto al Valor Agregado que corresponda pagarse por la primera transferencia en el país de los citados vehículos, no obstante que la emisión de los documentos que procedan subsistirá como obligación del vendedor, pero sin cargar suma alguna por concepto del respectivo gravamen en la factura que acredite la venta y sin perjuicio de su derecho a recuperar el crédito fiscal del período respectivo de otros débitos, de cualquier clase de impuesto fiscal, incluso de retención, y de los derechos, tasas y demás gravámenes que se perciban por intermedio de las Aduanas, o como impuesto provisional voluntario de los referidos en el artículo 88 de la Ley sobre Impuesto a la Renta. Las cuotas de impuesto que se determinen deberán expresarse en unidades tributarias mensuales, considerando un interés mensual de 0,5%, y se solucionarán al valor que éstas tengan a la fecha de pago de cada cuota. El Servicio de Impuestos Internos podrá exigir las garantías personales o reales que estime conveniente para el debido resguardo de los intereses fiscales, en la aplicación de lo dispuesto en este inciso.
+
+> **Nota.** El artículo 1º del DTO 1001, Hacienda, publicado el 12.10.2006, amplia, hasta el día 20 de cada mes, los plazos de Declaración y Pago de los impuestos, a que se refiere la presente norma, respecto de los contribuyentes que presenten las declaraciones de los impuestos correspondientes a través de internet, y que cumplan con los requisitos que en ella se indican.
 
 > **Nota.** NOTA: 13 Esta modificación regirá a contar del día primero del mes siguiente al de su publicación. (DL 3454, art. 6°, N° 11, Diario Oficial de 25 de julio de 1980).
 
