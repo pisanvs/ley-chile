@@ -1,0 +1,3 @@
+Por resolución exenta Nº 131, de 13 de enero de 2011 de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA ENFEMAR LIMITADA, para ampliar actividades pesqueras extractivas con la nave "Aquiles Pancho", en las áreas marítimas que a continuación se indica, donde podrá extraer los siguientes recursos hidrobiológicos: a) En el área marítima comprendida entre la IV a VII Regiones, por fuera del área de reserva artesanal, con poteras: Jibia o Calamar rojo; b) En el área marítima correspondiente a la V Región, por fuera del área de reserva artesanal, con arrastre: Jibia o Calamar rojo.
+
+Valparaíso, 13 de enero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
