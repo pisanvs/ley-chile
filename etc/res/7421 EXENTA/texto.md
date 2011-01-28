@@ -22,7 +22,7 @@ El SERVIU podrá postular hasta el día 22 de diciembre inclusive a las personas
 
 4. Los postulantes que hayan participado en el llamado a postulación dispuesto en la resolución citada en el visto c), que no hayan resultado seleccionados y que participen de este llamado a concurso en condiciones especiales, obtendrán 25 puntos adicionales a los que reglamentariamente les corresponde, según lo indicado en el resuelvo 3.
 
-5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución, ascienden a 532.000 UF.
+5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta resolución, ascienden a 1.081.556 UF.
 
 6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
