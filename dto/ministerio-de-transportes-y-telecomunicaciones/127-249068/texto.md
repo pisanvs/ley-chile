@@ -106,15 +106,11 @@ También pueden considerarse incluidos en este servicio los enlaces de conexión
 
 su explotación.
 
-3.8 SERVICIO MÓVIL TERRESTRE: Servicio móvil entre
-
-estaciones de base y estaciones móviles terrestres o entre estaciones móviles
+3.8 SERVICIO MÓVIL TERRESTRE: Servicio móvil entre estaciones de base y estaciones móviles terrestres o entre estaciones móviles
 
 terrestres.
 
-3.9 SERVICIO MÓVIL TERRESTRE POR SATÉLITE: Servicio
-
-móvil por satélite en el que las estaciones terrenas móviles están situadas en tierra.
+3.9 SERVICIO MÓVIL TERRESTRE POR SATÉLITE: Servicio móvil por satélite en el que las estaciones terrenas móviles están situadas en tierra.
 
 3.10 SERVICIO MÓVIL MARÍTIMO: Servicio móvil entre estaciones costeras y estaciones de barco, entre estaciones de barco, o entre estaciones de comunicaciones a bordo asociadas; también pueden considerarse incluidas en este servicio las estaciones de embarcación o dispositivo de salvamento y las estaciones de radiobaliza de localización de siniestros.
 
@@ -360,7 +356,9 @@ Un enlace multisatélite está formado por un enlace ascendente, uno o varios en
 
 4.58 ENLACE DE CONEXIÓN: Enlace radioeléctrico establecido desde una estación terrena situada en un emplazamiento dado hacia una estación espacial, o viceversa, por el que se transmite información para una radiocomunicación espacial de un servicio distinto del servicio fijo por satélite. El emplazamiento dado puede hallarse en un punto fijo especificado o en cualquier punto fijo dentro de zonas especificadas.
 
-Sección V Términos referentes a la explotación 5.1 CORRESPONDENCIA PÚBLICA: Toda telecomunicación que deban aceptar para su transmisión las oficinas y estaciones por el simple hecho de hallarse a disposición del público.
+Sección V Términos referentes a la explotación
+
+5.1 CORRESPONDENCIA PÚBLICA: Toda telecomunicación que deban aceptar para su transmisión las oficinas y estaciones por el simple hecho de hallarse a disposición del público.
 
 5.2 TELEGRAFÍA: Forma de telecomunicación en la cual las informaciones transmitidas están destinadas a ser registradas a la llegada en forma de documento gráfico3 ; estas informaciones pueden representarse en ciertos casos en otras formas o almacenarse para una utilización ulterior.
 
@@ -1056,7 +1054,9 @@ b) En las Regiones 1 y 3, la zona que se extiende entre los paralelos 30° Norte
 
 2) La parte de Libia situada al Norte del paralelo 30° Norte.
 
-Sección II Categoría de los servicios y de las atribuciones Servicios primarios y secundarios
+Sección II Categoría de los servicios y de las atribuciones
+
+Servicios primarios y secundarios
 
 1. Cuando, en una casilla del Cuadro que figura en la sección IV de este artículo, una banda de frecuencias se atribuye a varios servicios, éstos se enumeran en el siguiente orden:
 
@@ -1094,11 +1094,11 @@ atribuido las bandas 14 - 19,95 kHz y 20,05 70
 
 kHz podrán transmitir frecuencia patrón y señales horarias. Tales estaciones quedarán protegidas contra interferencias perjudiciales.
 
-2. La utilización de las bandas 14 19,95 kHz, 20,05
+2. La utilización de las bandas 14 - 19,95 kHz, 20,05
 
-70 kHz, y 70 90 kHz, por el servicio móvil marítimo está limitada a las estaciones costeras radiotelegráficas (A1A y F1B solamente).
+70 kHz, y 70 - 90 kHz, por el servicio móvil marítimo está limitada a las estaciones costeras radiotelegráficas (A1A y F1B solamente).
 
-3. La utilización de las bandas 70 90 kHz y 110
+3. La utilización de las bandas 70 - 90 kHz y 110
 
 130 kHz por el servicio de radionavegación está limitada a los sistemas de onda continua siempre y cuando no causen interferencia perjudicial a otros servicios a que están atribuidas esas bandas.
 
@@ -1110,23 +1110,27 @@ No obstante, las estaciones de los servicios fijo, móvil marítimo y de radiolo
 
 6. Las emisiones de las clases A1A o F1B, A2C, A3C, F1C o F3C son las únicas autorizadas para las estaciones del servicio fijo en las bandas atribuidas a estos servicios entre 90 kHz y 160 kHz, y para las estaciones del servicio móvil marítimo en las bandas atribuidas a este servicio entre 110 kHz y 160 kHz, donde excepcionalmente podrán también utilizar las clases de emisión J2B o J7B.
 
+6A. Las estaciones del servicio de aficionados que utilicen frecuencias en la banda 135,7– 137,8 kHz no superarán la potencia radiada máxima de 1 W (p.i.r.e.).
+
 7. La banda 285-325 kHz atribuida al servicio de radionavegación marítima, puede utilizarse para transmitir información suplementaria útil a la navegación utilizando técnicas de banda estrecha, a condición de no causar interferencia perjudicial a las estaciones de radiofaro que funcionen en el servicio de radionavegación.
 
 8. La frecuencia 410 kHz está designada para radiogoniometría en el servicio de radionavegación marítima. Los demás servicios de radionavegación a los que se ha atribuido la banda 405 415 kHz no deberán causar interferencia perjudicial a la radiogoniometría en la banda 406,5 - 413,5 kHz.
 
-9. El uso de las bandas 415 495 kHz y 505 510 kHz
+9. El uso de las bandas 415 - 495 kHz y 505 - 510 kHz por el servicio móvil marítimo está limitado a la radiotelegrafía.
 
-por el servicio móvil marítimo está limitado a la radiotelegrafía.
-
-10. Cuando se establezcan estaciones costeras del servicio NAVTEX en las frecuencias 490 kHz, 518 kHz y 4 209,5 kHz, coordinar las características de explotación de conformidad con los procedimientos de la Organización Marítima Internacional (OMI).
+10. Cuando se establezcan estaciones costeras del servicio NAVTEX en las frecuencias 490 kHz, 518 kHz y 4209,5 kHz, se debe coordinar las características de explotación de conformidad con los procedimientos de la Organización Marítima Internacional (OMI) (véase la Resolución 339 (Rev.CMR-03)).
 
 11. La utilización de la banda 435-495 kHz por el servicio de radionavegación aeronáutica está limitada a los radiofaros no direccionales que no utilicen transmisiones vocales.
 
-12. La frecuencia de 490 kHz se utilizará en el Sistema Mundial de Socorro y Seguridad Marítima exclusivamente para la transmisión por estaciones costeras de avisos a los navegantes, boletines meteorológicos e informaciones urgentes con destino a los barcos empleando la telegrafía de impresión directa de banda estrecha.
+12. En el servicio móvil marítimo, la frecuencia 490 kHz deberá utilizarse exclusivamente para la transmisión por las estaciones costeras de avisos a los navegantes, boletines meteorológicos e información urgente con destino a los barcos, por medio de telegrafía de impresión directa de banda estrecha. Las condiciones para la utilización de la frecuencia 490 kHz se describen en los Artículos 31 y 52 del Reglamento de Radiocomunicaciones de la UIT. Al utilizar la banda 415-495 kHz para el servicio de radionavegación aeronáutica, se deberá asegurar de que no se cause interferencia perjudicial a la frecuencia 490 kHz.
 
-13. La frecuencia de 500 kHz es una frecuencia internacional de socorro y llamada de radiotelegrafía Morse.
+12A. La utilización de la banda 495– 505 kHz queda limitada a la radiotelegrafía.
 
-14. La frecuencia 518 kHz y 4209,5 kHz se utilizan exclusivamente para la transmisión por estaciones costeras de avisos a los navegantes, boletines meteorológicos e informaciones urgentes con destino a los barcos empleando la telegrafía de impresión directa de banda estrecha (sistema NAVTEX Internacional).
+13. ELIMINADO.
+
+14. En la frecuencia de 518 kHz sólo se efectuarán asignaciones para la transmisión por las estaciones costeras de avisos a los navegantes, boletines meteorológicos e información urgente con destino a barcos mediante sistemas automáticos de telegrafía de impresión directa de banda estrecha (Sistema NAVTEX internacional).
+
+Las condiciones de utilización de la frecuencia 518 kHz por el servicio móvil marítimo están descritas en los Artículos 31 y 52 del Reglamento de Radiocomunicaciones de la UIT.
 
 15. En la banda 525 535 kHz, la potencia de la portadora de las estaciones de radiodifusión no deberá exceder de 1 kW durante el día y de 250 watts durante la noche.
 
@@ -1142,25 +1146,21 @@ por el servicio móvil marítimo está limitado a la radiotelegrafía.
 
 20. A reserva de no causar interferencia perjudicial al servicio móvil marítimo, las frecuencias comprendidas entre 2065 kHz y 2107 kHz podrán utilizarse por las estaciones del servicio fijo, que comuniquen únicamente dentro de las fronteras nacionales, y cuya potencia media no exceda de 50W.
 
-21. La frecuencia de 2182 kHz es una frecuencia internacional de socorro y de llamada en radiotelefonía.
+21. La frecuencia portadora de 2182 kHz es una frecuencia internacional de socorro y de llamada para radiotelefonía. Las condiciones de utilización de la frecuencia 2182 kHz por el servicio móvil marítimo están descritas en los Artículos 31 y 52 del Reglamento de Radiocomunicaciones de la UIT.
 
 22. Las frecuencias de 2187,5 kHz, 4207,5 kHz, 6312 kHz, 8414,5 kHz, 12577 kHz y 16804,5 kHz son frecuencias internacionales de socorro para llamada selectiva digital.
 
 23. Las frecuencias de 2174,5 kHz, 4177,5 kHz, 6268 kHz, 8376,5 kHz, 12520 kHz y 16695 kHz, son frecuencias internacionales de socorro para telegrafía de impresión directa de banda estrecha.
 
-24. Las frecuencias de 2182 kHz, 3023kHz, 5680 kHz, 8364 kHz, 121,5 MHz, 156,8 MHz y 243 MHz pueden además utilizarse, de conformidad con los procedimientos en vigor para los servicios de radiocomunicación terrenal, en operaciones de búsqueda y salvamento de vehículos espaciales tripulados.
+24. Las frecuencias de 2182 kHz, 3023 kHz, 5680 kHz, 8364 kHz, 121,5 MHz, 156,525 MHz, 156,8 MHz y 243 MHz pueden además utilizarse, de conformidad con los procedimientos en vigor para los servicios de radiocomunicación terrenal, en operaciones de búsqueda y salvamento de vehículos espaciales tripulados. Las condiciones de utilización de estas frecuencias se fijan en el Artículo 31 del Reglamento de Radiocomunicaciones de la UIT.
 
 También pueden utilizarse las frecuencias 10003 kHz, 14993 kHz y 19993 kHz, aunque en este caso las emisiones deben restringirse a una banda de ± 3 kHz, en torno a dichas frecuencias.
 
 25. Para las estaciones del servicio de radiodifusión tropical, al norte del trópico de Capricornio, que
 
-utilizan las bandas de 2300 - 2495 kHz, 3200 3400 kHz, 4750 4995 kHz y 5005 5060 kHz, funcionarán
+utilizan las bandas de 2300 - 2495 kHz, 3200 - 3400 kHz, 4750 - 4995 kHz y 5005 - 5060 kHz, funcionarán con una potencia que no excederá el valor necesario para asegurar económicamente un servicio de buena calidad dentro de los límites del país.
 
-con una potencia que no excederá el valor necesario
-
-para asegurar económicamente un servicio de buena calidad dentro de los límites del país.
-
-26. Las frecuencias portadoras (frecuencia de referencia) de 3023 kHz y de 5680 kHz, podrán utilizarse para las comunicaciones entre estaciones móviles, marítimas y aeronáuticas que participen en operaciones coordinadas de búsqueda y salvamento, así como para las comunicaciones entre tales estaciones y las estaciones terrestres participantes en dichas operaciones.
+26. Las frecuencias portadoras (frecuencias de referencia) de 3023 kHz y de 5680 kHz pueden también ser utilizadas en las condiciones especificadas en el Artículo 31 del Reglamento de Radiocomunicaciones de la UIT por las estaciones del servicio móvil marítimo que participen en operaciones coordinadas de búsqueda y salvamento.
 
 27. La utilización de la banda 3155-3195 kHz es para proporcionar un canal común mundial destinado a los sistemas de comunicación inalámbrica de baja potencia para personas de audición deficiente. Se podrán asignar canales adicionales a estos dispositivos en las bandas comprendidas entre 3155 kHz y 3400 kHz para atender necesidades locales.
 
@@ -1168,21 +1168,17 @@ Las frecuencias en la gama de 3000 kHz a 4000 kHz son adecuadas para los disposi
 
 28. Las frecuencias comprendidas entre la banda 4000 4063 kHz, destinadas al servicio móvil marítimo, está limitada a las estaciones de barco que funcionan en radiotelefonía.
 
-29. Las frecuencias comprendidas en las bandas 4063 4123 kHz, 4130 - 4438 kHz, 6200 6213,5 kHz y 6220,5 - 6525 kHz, podrán ser utilizadas por estaciones del servicio fijo que comuniquen dentro del territorio nacional a condición de que no causen interferencia perjudicial al servicio móvil marítimo, y utilizando potencia media menor o igual a 50 watts.
+29. ELIMINADO.
 
-30. La utilización de las frecuencias portadoras de 4125 kHz y 6215 kHz son para el tráfico de socorro y seguridad en radiotelefonía. También estas frecuencias pueden ser utilizadas por las estaciones de aeronave para comunicar con estaciones del servicio móvil marítimo con fines de socorro y seguridad incluyendo las operaciones de búsqueda y salvamento.
+30. Las condiciones de utilización de las frecuencias portadoras de 4125 kHz y 6215 kHz están descritas en los Artículos 31 y 52 del Reglamento de Radiocomunicaciones de la UIT.
 
-La frecuencia de 4177,5 kHz se utiliza exclusivamente para tráfico de socorro y seguridad empleando la telegrafía de impresión directa de banda estrecha.
+La frecuencia 4209,5 kHz se utilizará exclusivamente para la transmisión por las estaciones costeras de avisos a los navegantes, boletines meteorológicos e información urgente con destino a los barcos mediante técnicas de impresión directa de banda estrecha.
 
-La frecuencia de 4209,5 kHz se utiliza exclusivamente para transmisiones por estaciones costeras de avisos a los navegantes, boletines meteorológicos e informaciones urgentes con destino a los barcos, empleando la telegrafía de impresión directa de banda estrecha.
-
-La frecuencia de 4210 kHz se utiliza exclusivamente para la transmisión por las estaciones costeras de informaciones relativas a la seguridad marítima mediante telegrafía de impresión directa de banda estrecha.
-
-Las frecuencias 4210 kHz, 6314 kHz, 8416,5 kHz, 12579 kHz, 16806,5 kHz, 19680,5 kHz, 22376 kHz y 26100,5 kHz son las frecuencias internacionales de transmisión de información relativa a seguridad marítima.
+Las frecuencias 4210 kHz, 6314 kHz, 8416,5 kHz, 12579 kHz, 16806,5 kHz, 19680,5 kHz, 22376 kHz y 26100,5 kHz son las frecuencias internacionales de transmisión de información relativa a la seguridad marítima (MSI) (ver Apéndice 17 del Reglamento de Radiocomunicaciones de la UIT).
 
 31. La utilización de las bandas 5900-5950 kHz, 7300-7350 kHz, 9400-9500 kHz, 11600-11650 kHz, 12050-12100 kHz, 13570-13600 kHz, 13800-13870 kHz, 15600-15800 kHz, 17480-17550 kHz y 18900-19020 kHz por el servicio de radiodifusión a partir del 1 de abril de 2007, estará sujeta a la introducción de las emisiones moduladas digitalmente.
 
-32. La banda 5 900-5 950 kHz está atribuida, hasta el 1 de abril de 2007, al servicio fijo a título primario, así como al servicio móvil salvo móvil aeronáutico (R) a título primario. Después del 1 de abril de 2007, las frecuencias de esta banda podrán ser utilizadas por estaciones del servicio antes mencionado, estableciéndose comunicación sólo dentro del país en que están situadas, a condición de que no se cause interferencia perjudicial al servicio de radiodifusión. Cuando se utilicen frecuencias para estos servicios, se deberá utilizar la mínima potencia necesaria y a tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión publicada de conformidad con el Reglamento de Radiocomunicaciones de la UIT.
+32. La banda 5900-5950 kHz, podrá ser utilizada por el servicio fijo y móvil salvo móvil aeronáutico (R) a condición de que no se cause interferencia perjudicial al servicio de radiodifusión y sólo para comunicaciones dentro del país. Cuando se utilicen frecuencias para estos servicios, se deberá utilizar la mínima potencia necesaria y tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión.
 
 33. Las bandas:
 
@@ -1196,19 +1192,17 @@ Las frecuencias 4210 kHz, 6314 kHz, 8416,5 kHz, 12579 kHz, 16806,5 kHz, 19680,5 
 
 están designadas para aplicaciones industriales, científicas y médicas (ICM).
 
-34. Hasta el 29 de marzo de 2009, la banda 6765-7000 kHz está atribuida al servicio fijo a título primario y al servicio móvil terrestre a título secundario. Después de esa fecha, esta banda estará atribuida a los servicios fijo y móvil, salvo móvil aeronáutico (R), a título primario.
+34. ELIMINADO.
 
-35. Hasta el 29 de marzo de 2009, la utilización de la banda 7100-7300 kHz por el servicio de aficionados no deberá imponer limitaciones al servicio de radiodifusión destinado a utilizarse dentro de la Región 1 y de la Región 3. Después del 29 de marzo de 2009, la utilización de la banda 7200-7300 kHz por el servicio de radioaficionados no deberá imponer limitaciones al servicio de radiodifusión destinado a utilizarse en la Región 1 y en la Región 3.
+35. La utilización de la banda 7200-7300 kHz por el servicio de radioaficionados no deberá imponer limitaciones al servicio de radiodifusión destinado a utilizarse en la Región 1 y en la Región 3.
 
-36. La banda 7350-7400 kHz está atribuida, hasta el 29 de marzo de 2009, al servicio fijo a título primario y al servicio móvil terrestre a título secundario. Después del 29 de marzo de 2009, las frecuencias de esta banda podrán ser utilizadas por estaciones de los servicios antes mencionados, para comunicar únicamente dentro de las fronteras del país en el cual estén situadas, a condición de que no se cause interferencia perjudicial al servicio de radiodifusión.
+36. La banda 7300-7400 kHz, podrá ser utilizada por el servicio fijo y móvil terrestre a condición de que no se cause interferencia perjudicial al servicio de radiodifusión y sólo para comunicaciones dentro del país. Cuando se utilicen frecuencias para estos servicios, se deberá utilizar la mínima potencia necesaria y tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión.
 
-37. Hasta el 29 de marzo de 2009, la banda 7450-8100 kHz está atribuida al servicio fijo a título primario y al servicio móvil terrestre a título secundario.
+37. ELIMINADO.
 
-38. Las condiciones de utilización de las frecuencias portadoras 8291 kHz, 12290 kHz y 16420 kHz están descritas en los Artículos 31 y 52 y en el Apéndice 13 del Reglamento de Radiocomunicaciones de la UIT.
+38. Las condiciones de utilización de las frecuencias portadoras 8291 kHz, 12290 kHz y 16420 kHz están descritas en los Artículos 31 y 52 del Reglamento de Radiocomunicaciones de la UIT.
 
-39. Las bandas 9400-9500 kHz, 11600-11650 kHz, 12050-12100 kHz, 15600-15800 kHz, 17480-17550 kHz y 18900-19020 kHz están atribuidas al servicio fijo a título primario hasta el 1 de abril de 2007.
-
-Después del 1 de abril de 2007, las frecuencias de estas bandas podrán ser utilizadas por las estaciones en el servicio fijo, estableciéndose comunicación sólo dentro del país en que están situadas, a condición de que no se cause interferencia perjudicial al servicio de radiodifusión.
+39. Las bandas 9400-9500 kHz, 11600-11650 kHz, 12050-12100 kHz, 15600-15800 kHz, 17480-17550 kHz y 18900-19020 kHz, podrán ser utilizadas por el servicio fijo a condición de que no se cause interferencia perjudicial al servicio de radiodifusión y sólo para comunicaciones dentro del país. Cuando se utilicen frecuencias para estos servicios, se deberá utilizar la mínima potencia necesaria y tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión.
 
 40. A condición de no causar interferencia perjudicial al servicio de radiodifusión, las frecuencias de
 
@@ -1218,43 +1212,43 @@ las bandas 9775 9900 kHz, 11650 11700 kHz y
 
 41. Al hacer asignaciones a estaciones de otros servicios a los que están atribuidas las bandas:
 
-13360-13410 kHz 14,47-14,5 GHz 129,23-129,49 GHz
+13360-13410 kHz 14,47-14,5 GHz 151,5-158,5 GHz
 
-25550-25670 kHz 22,01-22,21 GHz 130-134 GHz
+25550-25670 kHz 22,01-22,21 GHz 168,59-168,93 GHz
 
-37,5-38,25 MHz 22,21-22,5 GHz 136-148,5 GHz
+37,5-38,25 MHz 22,21-22,5 GHz 171,11-171,45 GHz
 
-322-328,6 MHz 22,81-22,86 GHz 151,5-158,5 GHz
+322-328,6 MHz 22,81-22,86 GHz 172,31-172,65 GHz
 
-406,1-410 MHz 23,07-23,12 GHz 168,59-168,93 GHz
+406,1-410 MHz 23,07-23,12 GHz 173,52-173,85 GHz
 
-1330-1400 MHz 31,2-31,3 GHz 171,11-171,45 GHz
+1330-1400 MHz 31,2-31,3 GHz 195,75-196,15 GHz
 
-1610,6-1613,8 MHz 36,43-36,5 GHz 172,31-172,65 GHz
+1610,6-1613,8 MHz 36,43-36,5 GHz 209-226 GHz
 
-1660-1670 MHz 42,5-43,5 GHz 173,52-173,85 GHz
+1660-1670 MHz 42,5-43,5 GHz 241-250 GHz
 
-1718,8-1722,2 MHz 42,77-42,87 GHz 195,75-196,15 GHz
+1718,8-1722,2 MHz 48,94-49,04 GHz 252-275 GHz
 
-2655-2690 MHz 43,07-43,17 GHz 209-226 GHz
+2655-2690 MHz 76-86 GHz
 
-3260-3267 MHz 43,37-43,47 GHz 241-250 GHz
+3260-3267 MHz 92-94 GHz
 
-3332-3339 MHz 48,94-49,04 GHz 252-275 GHz
+3332-3339 MHz 94,1-100 GHz
 
-3345,8-3352,5 MHz 76-86 GHz
+3345,8-3352,5 MHz 102-109,5 GHz
 
-4825-4835 MHz 92-94 GHz
+4825-4835 MHz 111,8-114,25 GHz
 
-4950-4990 MHz 94,1-100 GHz
+4950-4990 MHz 128,33-128,59 GHz
 
-4990-5000 MHz 102-109,5 GHz
+4990-5000 MHz 129,23-129,49 GHz
 
-6650-6675,2 MHz 111,8-114,25 GHz
+6650-6675,2 MHz 130-134 GHz
 
-10,6-10,68 GHz 128,33-128,59 GHz
+10,6-10,68 GHz 136-148,5 GHz
 
-se tomarán todas las medidas prácticamente posibles para proteger el servicio de radioastronomía contra las interferencias perjudiciales. Las emisiones desde estaciones a bordo de vehículos espaciales o aeronaves pueden constituir fuentes de interferencia particularmente graves para el servicio de radioastronomía.
+se deberán tomar todas las medidas prácticamente posibles para proteger el servicio de radioastronomía contra las interferencias perjudiciales. Las emisiones desde estaciones a bordo de vehículos espaciales o aeronaves pueden constituir fuentes de interferencia particularmente graves para el servicio de radioastronomía.
 
 42. Las bandas:
 
@@ -1270,7 +1264,7 @@ se tomarán todas las medidas prácticamente posibles para proteger el servicio 
 
 están designadas para aplicaciones industriales, científicas y médicas (ICM). Los servicios de radiocomunicación que funcionan en estas bandas deben aceptar la interferencia perjudicial resultante de estas aplicaciones y, en particular, a un servicio de radionavegación o cualquier otro servicio de seguridad. En esta materia se emplearán como guía, las últimas Recomendaciones UIT-R pertinentes.
 
-43. Las bandas 13570-13600 kHz y 13800-13870 kHz están atribuidas, hasta el 1 de abril de 2007, al servicio fijo a título primario y al servicio móvil salvo móvil aeronáutico (R) a título secundario, a reserva del procedimiento descrito en la Resolución 21 (Rev.CMR-95). Después del 1 de abril de 2007, las frecuencias de estas bandas podrán ser utilizadas por las estaciones de los servicios antes mencionados, estableciéndose comunicación sólo dentro del país en que están situadas, a condición de que no se cause interferencia perjudicial al servicio de radiodifusión. Cuando utilicen frecuencias para estos servicios, se utilizará la mínima potencia necesaria y a tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión publicada de conformidad con el Reglamento de Radiocomunicaciones de la UIT.
+43. Las bandas 13570-13600 kHz y 13800-13870 kHz podrán ser utilizadas por el servicio fijo y el servicio móvil salvo móvil aeronáutico (R) a condición de que no se cause interferencia perjudicial al servicio de radiodifusión y sólo para comunicaciones dentro del país. Cuando se utilicen frecuencias para estos servicios, se deberá utilizar la mínima potencia necesaria y tener en cuenta la utilización estacional de frecuencias por el servicio de radiodifusión.
 
 44. La banda 21870-21924 kHz es utilizada por el servicio fijo para el suministro de servicios relacionados con la seguridad de los vuelos de aeronave.
 
@@ -1284,19 +1278,21 @@ radiobalizas. No se asignarán frecuencias próximas a los límites de la banda 
 
 Debe hacerse todo lo posible para seguir mejorando las características de los receptores a bordo de aeronaves y limitar la potencia de las estaciones que transmitan en frecuencias próximas a los límites de 74,8 MHz y 75,2 MHz.
 
-48. La banda 108-117,975 MHz puede también utilizarse por el servicio móvil aeronáutico (R) a título primario, limitada a los sistemas que transmiten información de navegación para vigilancia y navegación aeronáutica en conformidad con las normas reconocidas de la aviación internacional, y no debe causar interferencias perjudiciales a las estaciones del servicio de radionavegación aeronáutica que funcionen de acuerdo con las normas internacionales aeronáutica ni reclamar protección frente a ellas.
+48. La banda 108-117,975 MHz también se atribuye a título primario al servicio móvil aeronáutico (R) exclusivamente para los sistemas que funcionan en conformidad con las normas aeronáuticas internacionales reconocidas. Dicha utilización ha de ser conforme con la Resolución 413 (Rev.CMR-07). La utilización de la banda 108-112 MHz por el servicio móvil aeronáutico (R) se limitará a los sistemas compuestos por transmisores en tierra y los correspondientes receptores para la transmisión de información de navegación para la navegación aérea en conformidad con las normas aeronáuticas internacionales reconocidas.
 
-49. La banda 117,975-136 MHz está también atribuida, a título secundario, al servicio móvil aeronáutico por satélite (R).
+49. ELIMINADO.
 
-50. Las bandas 121,45 - 121,55 MHz y 242,95 - 243,05 MHz, están también atribuidas al servicio móvil por satélite para la recepción a bordo de satélites de emisiones de radiobalizas de localización de siniestros que transmiten en 121,5 MHz y 243 MHz.
+50. ELIMINADO.
 
-51. En la banda 117,975-136 MHz, la frecuencia de 121,5 MHz es la frecuencia aeronáutica de emergencia y, de necesitarse, la frecuencia de 123,1 MHz es la frecuencia aeronáutica auxiliar de la de 121,5 MHz.
+51. En la banda 117,975-137 MHz, la frecuencia de 121,5 MHz es la frecuencia aeronáutica de emergencia y, de necesitarse, la frecuencia de 123,1 MHz es la frecuencia aeronáutica auxiliar de la de 121,5 MHz. Las estaciones móviles del servicio móvil marítimo podrán comunicar en estas frecuencias, en las condiciones que se fijan en el Artículo 31 del Reglamento de Radiocomunicaciones de la UIT, para fines de socorro y seguridad, con las estaciones del servicio móvil aeronáutico.
 
-52. No se autorizará ninguna nueva asignación de frecuencia en la banda 136-137 MHz a estaciones del servicio de meteorología por satélite.
+52. ELIMINADO.
 
 53. La utilización de la banda 137 - 138 MHz por el servicio móvil por satélite está sujeta a coordinación internacional.
 
 54. Al efectuar las asignaciones a las estaciones espaciales del servicio móvil por satélite en las bandas 137-138 MHz, 387-390 MHz y 400,15-401 MHz, se adoptarán todas las medidas posibles para proteger el servicio de radioastronomía en las bandas 150,05-153 MHz, 322-328,6 MHz, 406,1-410 MHz y 608-614 MHz de la interferencia perjudicial producida por las emisiones no deseadas.
+
+54A. En las bandas 137-138 MHz, 387-390 MHz, 400,15-401 MHz, 1452-1492 MHz, 1525-1610 MHz, 1613,8-1626,5 MHz, 2655-2690 MHz y 21,4-22 GHz, se aplicará la Resolución 739 (Rev.CMR-07).
 
 55. La utilización de las bandas 137-138 MHz, 148-150,05 MHz, 399,9-400,05 MHz, 400,15-401 MHz, 454-456 MHz y 459-460 MHz por el servicio móvil por satélite está limitada a los sistemas de satélites no geoestacionarios.
 
@@ -1310,11 +1306,19 @@ Debe hacerse todo lo posible para seguir mejorando las características de los r
 
 60. La atribución de las bandas 149,9-150,05 MHz y 399,9-400,05 MHz al servicio de radionavegación por satélite será efectiva hasta el 1 de enero de 2015.
 
-61. En las bandas 156,00 MHz - 156,7625 MHz, 156,8375 MHz - 157,450 MHz, 160,6 MHz - 160,975 MHz y 161,475 MHz - 162,05 MHz, se dará prioridad al servicio móvil marítimo únicamente en aquellas frecuencias de estas bandas que se hayan asignado a las estaciones de dicho servicio.
+61. La frecuencia de 156,525 MHz es la frecuencia internacional de socorro, seguridad y llamada del servicio móvil marítimo radiotelefónico en ondas métricas con llamada selectiva digital (LLSD). Las condiciones de utilización de esta frecuencia y de la banda 156,4875-156,5625 MHz se especifican en los Artículos 31 y 52 y en el Apéndice 18 del Reglamento Radiocomunicaciones de la UIT.
 
-La frecuencia 156,525 MHz se utilizará exclusivamente para la llamada selectiva digital con fines de socorro, seguridad y llamada en el servicio móvil marítimo en ondas métricas.
+La frecuencia 156,8 MHz es la frecuencia internacional de socorro, seguridad y llamada del servicio móvil marítimo radiotelefónico en ondas métricas. Las condiciones de utilización de esta frecuencia y de la banda 156,7625-156,8375 MHz se especifican en el Artículo 31 y en el Apéndice 18 del citado Reglamento.
 
-62. La frecuencia de 156,8 MHz, es la frecuencia internacional de socorro, seguridad y llamada del servicio móvil marítimo radiotelefónico en ondas métricas.
+En las bandas 156-156,4875 MHz, 156,5625-156,7625 MHz, 156,8375-157,45 MHz, 160,6-160,975 MHz y 161,475-162,05 MHz, se dará prioridad al servicio móvil marítimo únicamente en aquellas frecuencias de estas bandas que se hayan asignado a las estaciones de dicho servicio (ver los Artículos 31 y 52 y el Apéndice 18 del citado Reglamento).
+
+No se asignarán frecuencias comprendidas en las referidas bandas a los otros servicios a los que asimismo estén atribuidas, en aquellas zonas en que su empleo pueda causar interferencias perjudiciales a las radiocomunicaciones del servicio móvil marítimo en ondas métricas.
+
+Sin embargo, las frecuencias 156,8 MHz y 156,525 MHz y las bandas de frecuencias en las cuales está autorizado el servicio móvil marítimo pueden utilizarse para las radiocomunicaciones en vías interiores de navegación, a reserva de acuerdos entre las administraciones interesadas y aquellas cuyos servicios, a los que la banda está atribuida, pudieran resultar afectados, teniendo en cuenta la utilización corriente de las frecuencias y los acuerdos existentes.
+
+62. Las bandas 156,4875-156,5125 MHz y 156,5375-156,5625 MHz también están atribuidas a los servicios fijo y móvil terrestre a título primario. La utilización de estas bandas por los servicios fijo y móvil terrestre no deberán causar interferencia perjudicial al servicio móvil marítimo en ondas métricas, ni reclamarán protección contra el mismo.
+
+62A. Las bandas 161,9625-161,9875 MHz y 162,0125-162,0375 MHz también están atribuidas al servicio móvil por satélite (Tierra-espacio) a título secundario para la recepción de emisiones del sistema de identificación automática (AIS), de estaciones que funcionen en el servicio móvil marítimo (ver, Apéndice 18 del Reglamento de Radiocomunicaciones de la UIT).
 
 63. En la banda 216 - 225 MHz, no se autorizará nuevas estaciones del servicio de radiolocalización. Las estaciones de dicho servicio autorizadas antes del 1º de enero de 1990 podrán continuar funcionando a
 
@@ -1326,7 +1330,7 @@ pueden utilizarse por el servicio móvil por satélite, a condición de que las 
 
 65. Las bandas 312-315 MHz (Tierra-espacio) y 387-390 MHz (espacio-Tierra) del servicio móvil por satélite podrán también ser utilizadas por los sistemas de satélites no geoestacionarios.
 
-66. La frecuencia 243 MHz, se utilizará en esta banda por las estaciones de embarcaciones o dispositivo de salvamento, así como por los equipos destinados a operaciones de salvamento.
+66. La frecuencia de 243 MHz se utilizará en esta banda por las estaciones o dispositivos de salvamento, así como por los equipos destinados a operaciones de salvamento.
 
 67. La banda 267 - 272 MHz puede ser utilizada, a título primario en el país, para telemedida espacial.
 
@@ -1338,7 +1342,7 @@ pueden utilizarse por el servicio móvil por satélite, a condición de que las 
 
 71. La utilización de la banda 400,15-401 MHz por el servicio móvil por satélite está sujeta a la coordinación internacional.
 
-72. La banda 406 - 406,1 MHz está reservada únicamente para la utilización y desarrollo de sistemas de radiobalizas de localización de siniestros, de pequeña potencia (que no exceda de 5 watts) que utilicen técnicas espaciales.
+72. El uso de la banda 406-406,1 MHz por el servicio móvil por satélite está limitado a las estaciones de radiobalizas de localización de siniestros por satélite de baja potencia (ver también el Artículo 31 del Reglamento de Radiocomunicaciones de la UIT).
 
 73. La utilización de la banda 410-420 MHz por el servicio de investigación espacial está limitada a las comunicaciones en un radio de 5 km a partir de un vehículo espacial tripulado en órbita. La densidad de flujo de potencia sobre la superficie de la Tierra producida por emisiones de actividades fuera del vehículo espacial no excederán de -153 dB(W/m2) para 0°£ d £ 5°, 153 + 0,077 (d-5) dB(W/m2) para 5° £ d £ 70° y 148 dB(W/m2) para 70° £ d £ 90°, siendo d el ángulo de incidencia de la onda de radiofrecuencia y 4 kHz la anchura de banda de referencia.
 
@@ -1382,13 +1386,15 @@ internacionales.
 
 para el uso y el desarrollo de equipos electrónicos de ayudas a la navegación aérea instalados a bordo de aeronaves y de las instalaciones con base en tierra directamente asociadas.
 
-89. Las estaciones del servicio de radionavegación por satélite en la banda 1164-1215 MHz funcionarán de conformidad con las disposiciones de la Resolución 609 (CMR 03) y no reclamarán protección con relación a las estaciones del servicio de radionavegación aeronáutica en la banda 960-1215 MHz.
+88A. La utilización de la banda 960-1164 MHz por el servicio móvil aeronáutico (R) se limita a los sistemas que funcionan en conformidad con las normas aeronáuticas internacionales reconocidas. Dicha utilización deberá ser conforme con la Resolución 417 (CMR-07).
 
-90. La utilización de las bandas 1164-1300 MHz, 1559-1610 MHz y 5010-5030 MHz por los sistemas y redes del servicio de radionavegación por satélite sobre los cuales la Oficina de Radiocomunicaciones haya recibido la información de coordinación o notificación completa, según el caso, después del 1 de enero de 2005 está sujeta a las disposiciones respectivas y se aplicará igualmente la Resolución 610 (CMR 03).
+89. Las estaciones del servicio de radionavegación por satélite en la banda 1164-1215 MHz funcionarán de conformidad con las disposiciones de la Resolución 609 (Rev.CMR-07) y no reclamarán protección con relación a las estaciones del servicio de radionavegación aeronáutica en la banda 960-1215 MHz.
+
+90. La utilización de las bandas 1164-1300 MHz, 1559-1610 MHz y 5010-5030 MHz por los sistemas y redes del servicio de radionavegación por satélite está sujeta a las disposiciones respectivas y se aplicará igualmente la Resolución 610 (CMR-03). En el caso de las redes y sistemas del servicio de radionavegación por satélite (espacio-espacio), esta Resolución sólo se aplicará a las estaciones espaciales transmisoras. De conformidad con la nota 92, para los sistemas y redes del servicio de radionavegación por satélite (espacio-espacio) en las bandas 1215-1300 MHz y 1559-1610 MHz, las disposiciones respectivas sólo se aplicarán con respecto a los otros sistemas y redes del servicio de radionavegación por satélite (espacio-espacio).
 
 91. La utilización por el servicio de radionavegación por satélite de la banda 1 215-1 300 MHz estará sujeta a la condición de no causar interferencias perjudiciales al servicio de radionavegación, autorizado en otros países ni reclamar protección de los mismos. Además, la utilización del servicio de radionavegación por satélite en la banda 1 215-1 300 MHz estará sujeta a la condición de no causar interferencia perjudicial al servicio de radiolocalización.
 
-92. La utilización de sistemas del servicio de radionavegación por satélite (espacio-espacio) que funcionan en las bandas 1215-1300 MHz y 1559-1610 MHz no está prevista para aplicaciones de los servicios de seguridad, y no deberá imponer limitaciones adicionales a otros sistemas o servicios que funcionen con arreglo al Cuadro.
+92. La utilización de sistemas del servicio de radionavegación por satélite (espacio-espacio) que funcionan en las bandas 1215-1300 MHz y 1559-1610 MHz no está prevista para aplicaciones de los servicios de seguridad, y no deberá imponer limitaciones adicionales a los sistemas del servicio de radionavegación por satélite (espacio-Tierra) o a otros servicios que funcionen con arreglo al Cuadro.
 
 93. En la banda 1215-1260 MHz los sensores activos a bordo de vehículos espaciales de los servicios de exploración de la Tierra por satélite y de investigación espacial no causarán interferencia perjudicial o impondrán limitaciones al funcionamiento o al desarrollo del servicio de radiolocalización, el servicio de radionavegación por satélite y otros servicios que cuentan con atribuciones a título primario, ni reclamarán protección contra éstos.
 
@@ -1400,55 +1406,27 @@ para el uso y el desarrollo de equipos electrónicos de ayudas a la navegación 
 
 4990 MHz y 15,20 15,35 GHz están también atribuidas, a título secundario, a los servicios de investigación espacial (pasivo) y de exploración de la Tierra por satélite (pasivo).
 
-97. La banda 1390-1392 MHz también se atribuye a título secundario al servicio fijo por satélite (Tierra espacio), y la banda 1430-1432 MHz también se atribuye a título secundario al servicio fijo por satélite (espacio Tierra). Estas atribuciones están limitadas a la utilización para enlaces de conexión de las redes de satélites no geoestacionarios del servicio móvil por satélite con enlaces de servicio por debajo de 1GHz.
+96A. En las bandas 1350-1400 MHz, 1427-1452 MHz, 22,55-23,55 GHz, 30-31,3 GHz, 49,7-50,2 GHz, 50,4-50,9 GHz y 51,4-52,6 GHz, se aplica la Resolución 750 (CMR-07).
 
-98. Se prohíben todas las emisiones en las siguientes
+97. ELIMINADO.
 
-bandas:
+98. Se prohíben todas las emisiones en las siguientes bandas:
 
-1400-1427 MHz,
+1400-1427 MHz 50,2-50,4 GHz 164-167 GHz
 
-2692-2700 MHz,
+2690-2700 MHz 52,6- 54,25 GHz 182-185 GHz
 
-10,68-10,7 GHz,
+10,68-10,7 GHz 86-92 GHz 190-191,8 GHz
 
-15,35-15,4 GHz,
+15,35-15,4 GHz 100-102 GHz 200-209 GHz
 
-23,6-24 GHz,
+23,6-24 GHz 109,5-111,8 GHz 226-231,5 GHz
 
-31,3-31,5 GHz,
+31,3-31,5 GHz 114,25-116 GHz 250-252 GHz
 
-31,5-31,8 GHz,
+31,5-31,8 GHz 148,5-151,5 GHz
 
-48,94-49,04 GHz, por estaciones a bordo de
-
-aeronaves
-
-50,2-50,4 GHz,
-
-52,6- 54,25 GHz,
-
-86-92 GHz,
-
-100-102 GHz,
-
-109,5-111,8 GHz,
-
-114,25-116 GHz,
-
-148,5-151,5 GHz,
-
-164-167 GHz,
-
-182-185 GHz,
-
-190-191,8 GHz,
-
-200-209 GHz,
-
-226-231,5 GHz,
-
-250-252 GHz.
+48,94-49,04 GHz por estaciones a bordo de aeronaves
 
 99. En las bandas 1400 - 1727 MHz, 101 - 120 GHz y 197 - 220 GHz ciertos países realizan operaciones de investigación pasiva en el marco de un programa de búsqueda de emisiones intencionales de origen extraterrestre.
 
@@ -1462,23 +1440,23 @@ En la banda 1467-1492 MHz los enlaces del servicio fijo, amparados en concesione
 
 tal efecto.
 
-102. En las bandas:
-
-1452-1492 MHz, 1525-1559 MHz, 1613,8-1626,5 MHz,
-
-2655-2670 MHz, 2670-2690 MHz, 21,4-22 GHz,
-
-se aplica la Resolución 739 (CMR-03).
+102. ELIMINADO.
 
 103. La utilización de la banda 1518-1525 MHz por el servicio móvil por satélite está sujeta a la coordinación internacional. Las estaciones del servicio móvil por satélite en la banda de 1518-1525 MHz no pueden reclamar protección contra las estaciones del servicio fijo.
 
-104. Para la utilización de las bandas 1518-1525 MHz y 1668-1675 MHz por el servicio móvil por satélite, véase la Resolución 225 (Rev.CMR 03).
+104. ELIMINADO.
 
-105. Las bandas 1525 - 1544 MHz, 1545 - 1559 MHz, 1626,5 - 1645,5 MHz y 1646,5 - 1660,5 MHz no se utilizarán para enlaces de conexión de ningún servicio. No obstante, en circunstancias excepcionales, se podrá autorizar a una estación terrena situada en un punto fijo determinado de cualquiera de los servicios móviles por satélite a comunicar a través de estaciones espaciales que utilicen estas bandas. 106. En lo que respecta a la utilización de las bandas 1525-1544 MHz, 1545-1559 MHz, 1610-1626,5 MHz, 1626,5-1645,5 MHz, 1646,5-1660,5 MHz, 1990-2010 MHz, 2170-2200 MHz y 2483,5-2500 MHz, por el servicio móvil por satélite, véanse las Resoluciones 212 (Rev.CMR 97) y 225 (CMR 2000). 107. Cuando se aplican los procedimientos de
+105. Las bandas 1525 - 1544 MHz, 1545 - 1559 MHz, 1626,5 - 1645,5 MHz y 1646,5 - 1660,5 MHz no se utilizarán para enlaces de conexión de ningún servicio. No obstante, en circunstancias excepcionales, se podrá autorizar a una estación terrena situada en un punto fijo determinado de cualquiera de los servicios móviles por satélite a comunicar a través de estaciones espaciales que utilicen estas bandas.
+
+106. En lo que respecta a la utilización de las bandas 1518-1544 MHz, 1545-1559 MHz, 1610-1645,5 MHz, 1646,5-1660,5 MHz, 1668-1675 MHz, 1990-2010 MHz, 2170-2200 MHz y 2483,5-2500 MHz por el servicio móvil por satélite, véanse las Resoluciones 212 (Rev.CMR-07) y 225 (Rev.CMR-07).
+
+107. Cuando se aplican los procedimientos de
 
 coordinación internacional al servicio móvil por satélite en las bandas 1530 - 1544 MHz y 1626,5 -
 
-1645,5 MHz, deberán satisfacerse en primer lugar las necesidades de espectro para socorro, emergencia y seguridad del Sistema Mundial de Socorro y Seguridad Marítimos (SMSSM). Las comunicaciones de socorro, emergencia y seguridad del servicio móvil marítimo por satélite tendrán acceso prioritario y disponibilidad inmediata frente a todas las demás comunicaciones móviles por satélite en la misma red. Los sistemas móviles por satélite no causarán interferencias inaceptables ni podrán reclamar protección contra las comunicaciones de socorro, emergencia y seguridad del SMSSM. Se tendrá en cuenta la prioridad de las comunicaciones relacionadas con la seguridad en los demás servicios móviles por satélite. 108. La utilización de las bandas 1525 - 1559 MHz y 1626,5 - 1660,5 MHz por los servicios móviles por satélite está sujeta a la coordinación internacional.
+1645,5 MHz, deberán satisfacerse en primer lugar las necesidades de espectro para socorro, emergencia y seguridad del Sistema Mundial de Socorro y Seguridad Marítimos (SMSSM). Las comunicaciones de socorro, emergencia y seguridad del servicio móvil marítimo por satélite tendrán acceso prioritario y disponibilidad inmediata frente a todas las demás comunicaciones móviles por satélite en la misma red. Los sistemas móviles por satélite no causarán interferencias inaceptables ni podrán reclamar protección contra las comunicaciones de socorro, emergencia y seguridad del SMSSM. Se tendrá en cuenta la prioridad de las comunicaciones relacionadas con la seguridad en los demás servicios móviles por satélite.
+
+108. La utilización de las bandas 1525 - 1559 MHz y 1626,5 - 1660,5 MHz por los servicios móviles por satélite está sujeta a la coordinación internacional.
 
 109. El empleo de las bandas 1544 1545 MHz (espacio -
 
@@ -1496,11 +1474,17 @@ bandas 1610 1626,5 MHz y 5000 5150 MHz están también atribuidas, a título pri
 
 radiodeterminación por satélite y al servicio móvil por satélite, las disposiciones relativas a la interferencia perjudicial sobre el servicio de radionavegación no se aplican a la banda de frecuencias 1610-1626,5 MHz, salvo al servicio de radionavegación aeronáutica por satélite. 117. En la banda 1646,5 1656,5 MHz las transmisiones directas de estaciones de aeronave del servicio móvil aeronáutico (R) a estaciones aeronáuticas terrenales, o entre estaciones de aeronave, están también autorizadas si esas transmisiones están destinadas a aumentar o completar los enlaces establecidos entre estaciones de aeronave y estaciones de satélite.
 
-118. Las estaciones terrenas móviles que funcionan en la banda 1660 - 1660,5 MHz no causarán interferencia perjudicial a las estaciones que funcionan en el servicio de radioastronomía. 119. En la banda 1660,5-1668,4 MHz se debe asegurar toda la protección posible a la futura investigación de radioastronomía, en particular eliminando tan pronto como sea posible las emisiones aire-tierra del servicio de ayudas a la meteorología en la banda 1664,4-1668,4 MHz. 120. La utilización de la banda 1668-1675 MHz por el servicio móvil por satélite está sujeta a coordinación internacional.
+118. Las estaciones terrenas móviles que funcionan en la banda 1660 - 1660,5 MHz no causarán interferencia perjudicial a las estaciones que funcionan en el servicio de radioastronomía.
+
+119. En la banda 1660,5-1668,4 MHz se debe asegurar toda la protección posible a la futura investigación de radioastronomía, en particular eliminando tan pronto como sea posible las emisiones aire-tierra del servicio de ayudas a la meteorología en la banda 1664,4-1668,4 MHz.
+
+120. La utilización de la banda 1668-1675 MHz por el servicio móvil por satélite está sujeta a coordinación internacional. En la banda 1668-1668,4 MHz, será de aplicación la Resolución 904 (CMR-07).
 
 121. A fin de proteger el servicio de radioastronomía en la banda 1668-1670 MHz, las estaciones terrenas de una red del servicio móvil por satélite que funcionen en esta banda no rebasarán los valores de la densidad de flujo de potencia combinada de -181 dB(W/m2) en 10 MHz y -194 dB(W/m2) en todo tramo de 20 kHz en cualquier estación de radioastronomía inscrita en el Registro Internacional de Frecuencias de la UIT, durante más del 2% del tiempo en periodos de integración de 2000 seg.
 
-122. Para la compartición de la banda 1668-1675 MHz entre el servicio móvil por satélite y los servicios fijo, móvil y de investigación espacial (pasivo), se aplicará la Resolución 744 (CMR-03). 123. En la banda 1670-1675 MHz, las estaciones del servicio móvil por satélite no causarán interferencia perjudicial a las actuales estaciones terrenas del servicio de meteorología por satélite, ni limitarán su desarrollo.
+122. Para la compartición de la banda 1668,4-1675 MHz entre el servicio móvil por satélite y los servicios fijo y móvil, se aplicará la Resolución 744 (Rev.CMR-07).
+
+123. ELIMINADO.
 
 124. La banda 1718,8-1722,2 MHz, está también atribuida, a título secundario, al servicio de radioastronomía para la observación de rayas espectrales. 125. La banda 1750-1850 MHz está también atribuida, a título primario, al servicio de operaciones espaciales (Tierra-espacio) y al servicio de investigación espacial (Tierra-espacio). 126. Los servicios móviles deben cumplir las Normas Técnicas que dicte la Subsecretaría de Telecomunicaciones.
 
@@ -1526,29 +1510,41 @@ Sin embargo, puede autorizarse en esta banda, a título secundario, la detecció
 
 141. El servicio de frecuencias patrón y de señales horarias por satélite puede ser autorizado a utilizar la frecuencia de 4202 MHz para las emisiones espacio - Tierra y la frecuencia de 6427 MHz para las emisiones Tierra espacio. Tales emisiones deberán estar contenidas dentro de los límites de ±2 MHz de dichas frecuencias y estarán sujetas al acuerdo obtenido entre las administraciones interesadas.
 
+141A. La banda 4400-4940 MHz podrá autorizarse para la telemedida móvil aeronáutica (TMA) para pruebas en vuelo con estaciones de aeronaves. Esta utilización ha de ser conforme a la Resolución 416 (CMR-07) y no se deberá causar interferencia perjudicial a los servicios autorizados en dicha banda ni reclamar protección contra los mismos.
+
 142. La utilización de las bandas 4500 - 4800 MHz (espacio-Tierra) y 6725 - 7025 MHz (Tierra-espacio) por el servicio fijo por satélite se ajustará a las disposiciones del apéndice S30B del Reglamento de Radiocomunicaciones de la UIT. La utilización de las bandas 10,7 - 10,95 GHz (espacio-Tierra), 11,2 - 11,45 GHz (espacio-Tierra) y 12,75 - 13,25 GHz (Tierra-espacio) por los sistemas de satélites geoestacionarios del servicio fijo por satélite se ajustará a las disposiciones del apéndice S30B. La utilización de las bandas 10,7 - 10,95 GHz (espacio-Tierra), 11,2 - 11,45 GHz y 12,75 - 13,25 GHz (Tierra-espacio) por los sistemas de satélites no geoestacionarios del servicio fijo por satélite se ajustará a las disposiciones de la Resolución 130 de la Conferencia Mundial de Radiocomunicaciones de 1997 (CMR-97) de la UIT.
 
-143. En las bandas 4825 4835 MHz y 4950 4990 MHz,
+143. En las bandas 4825-4835 MHz y 4950-4990 MHz, la atribución al servicio móvil está limitada al servicio móvil, salvo móvil aeronáutico. La banda 4825-4835 MHz también está atribuida al servicio móvil aeronáutico, exclusivamente con miras a la autorización de telemedida móvil aeronáutica (TMA) para pruebas en vuelo por estaciones de aeronaves. Esta utilización ha de ser conforme a la Resolución 416 (CMR-07) y no se deberá causar interferencia perjudicial a los servicios autorizados en dicha banda ni reclamar protección contra los mismos.
 
-la atribución al servicio móvil está limitada al servicio móvil, salvo móvil aeronáutico. 144. Para no causar interferencia al sistema de aterrizaje por microondas que funciona por encima de 5030 MHz, la densidad de flujo de potencia combinada producida en la superficie de la Tierra en la banda 5030-5150 MHz por todas las estaciones espaciales de cualquier sistema de radionavegación por satélite (espacio-Tierra) que funciona en la banda 5010-5030 MHz no debe rebasar el nivel de -124,5 dB(W/m2) en una anchura de banda de 150 kHz. Para no causar interferencia perjudicial al servicio de radioastronomía en la banda 4990-5000 MHz, los sistemas del servicio de radionavegación por satélite que funcionan en la banda 5010-5030 MHz deberán cumplir los límites aplicables a la banda 4990-5000 MHz, definidos en la Resolución 741 (CMR-03).
+144. Para no causar interferencia al sistema de aterrizaje por microondas que funciona por encima de 5030 MHz, la densidad de flujo de potencia combinada producida en la superficie de la Tierra en la banda 5030-5150 MHz por todas las estaciones espaciales de cualquier sistema de radionavegación por satélite (espacio-Tierra) que funciona en la banda 5010-5030 MHz no debe rebasar el nivel de -124,5 dB(W/m2) en una anchura de banda de 150 kHz. Para no causar interferencia perjudicial al servicio de radioastronomía en la banda 4990-5000 MHz, los sistemas del servicio de radionavegación por satélite que funcionan en la banda 5010-5030 MHz deberán cumplir los límites aplicables a la banda 4990-5000 MHz, definidos en la Resolución 741 (CMR-03).
 
-145. La banda 5030 5150 MHz se utilizará en el sistema internacional normalizado (sistema de aterrizaje por microondas) de aproximación y aterrizaje de precisión. Se dará prioridad a las necesidades de este sistema sobre otras utilizaciones de esta banda.
+145. La banda 5030-5150 MHz se utilizará para el sistema internacional normalizado (sistema de aterrizaje por microondas) para la aproximación y el aterrizaje de precisión. En la banda 5030-5091 MHz se dará prioridad a las necesidades de este sistema sobre otras utilizaciones de esta banda. Para la utilización de la banda 5091-5150 MHz se aplicará la nota 146 y la Resolución 114 (Rev.CMR-03).
 
-146. La banda 5091 - 5150 MHz está también atribuida al servicio fijo por satélite (Tierra - espacio) a título primario. La atribución está limitada a los enlaces de conexión de los sistemas del servicio móvil por satélite no geoestacionarios y está sujeta a coordinación internacional.
+146. La banda 5091-5150 MHz también está atribuida al servicio fijo por satélite (Tierra-espacio) a título primario. La atribución está limitada a los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite y está sujeta a la coordinación internacional.
 
-En la banda 5091 - 5150 MHz, se aplican también las siguientes condiciones:
+En la banda 5091-5150 MHz, se aplican también las siguientes condiciones:
 
-Antes del 1° de enero del 2018, la utilización de la banda 5091 - 5150 MHz por los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite se llevará a cabo de acuerdo con la Resolución 114 (CMR-95) de la UIT.
+– antes del 1 de enero de 2018, la utilización de la banda 5091-5150 MHz por los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite se llevará a cabo de acuerdo con la Resolución 114 (Rev.CMR-03);
 
-Antes del 1° de enero del 2018 las necesidades de los sistemas internacionales normalizados para el servicio de radionavegación aeronáutica existentes y proyectados, que no puedan acomodarse en la banda 5000 - 5091 MHz, tendrán prioridad sobre otros usos de esta banda.
+– después del 1 de enero de 2016, no se efectuarán nuevas asignaciones a estaciones terrenas que proporcionen enlaces de conexión con sistemas de satélites no geoestacionarios del servicio móvil por satélite;
 
-Después del 1° de enero del año 2012 no se efectuarán nuevas asignaciones a estaciones terrenas que provean enlaces de conexión para sistemas del servicio móvil por satélite no geoestacionarios.
+– después del 1 de enero de 2018 el servicio fijo por satélite pasará a tener categoría secundaria respecto del servicio de radionavegación aeronáutica.
 
-Después del 1° de enero del año 2018 el servicio fijo por satélite pasará a tener categoría secundaria.
+146A. La utilización de la banda 5091-5150 MHz por el servicio móvil aeronáutico estará limitada a:
+
+– los sistemas que funcionan en el servicio móvil aeronáutico (R) y de conformidad con las normas aeronáuticas internacionales, exclusivamente para aplicaciones de superficie en los aeropuertos. Dicha utilización se realizará de conformidad con la Resolución 748 (CMR-07);
+
+– las transmisiones de telemedida aeronáutica desde estaciones de aeronave, de conformidad con la Resolución 418 (CMR-07);
+
+– las transmisiones de seguridad aeronáutica. Dicha utilización se realizará de conformidad con la Resolución 419 (CMR-07).
 
 147. La banda 5150 - 5216 MHz está también atribuida, a título primario, al servicio de radiodeterminación por satélite (espacio-Tierra).
 
-El uso de esta banda por el servicio de radiodeterminación por satélite está limitado a los enlaces de conexión del servicio de radiodeterminación por satélite que funciona en las bandas 1610 - 1626,5 MHz y/o 2483,5 - 2500 MHz. 148. La utilización de las bandas 5150-5350 MHz y 5470-5725 MHz por las estaciones del servicio móvil será conforme a la Resolución 229 (CMR-03). 149. En la banda 5150-5250 MHz, las estaciones del servicio móvil no reclamarán protección contra las estaciones terrenas del servicio fijo por satélite. 150. La atribución al servicio fijo por satélite (Tierra - espacio) está limitada a los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite y está sujeta a coordinación internacional.
+El uso de esta banda por el servicio de radiodeterminación por satélite está limitado a los enlaces de conexión del servicio de radiodeterminación por satélite que funciona en las bandas 1610 - 1626,5 MHz y/o 2483,5 - 2500 MHz.
+
+148. La utilización de las bandas 5150-5350 MHz y 5470-5725 MHz por las estaciones del servicio móvil, salvo el servicio móvil aeronáutico, se ajustará a lo dispuesto en la Resolución 229 (CMR-03).
+
+149. En la banda 5150-5250 MHz, las estaciones del servicio móvil no reclamarán protección contra las estaciones terrenas del servicio fijo por satélite. 150. La atribución al servicio fijo por satélite (Tierra - espacio) está limitada a los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite y está sujeta a coordinación internacional.
 
 151. La banda 5150 - 5216 MHz está también atribuida a título primario al servicio fijo por satélite (espacio-Tierra). Esta atribución está limitada a los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite y está sujeta a coordinación internacional. La densidad de flujo de potencia en la superficie de la Tierra producida por las estaciones espaciales del servicio fijo por satélite que funcionen en el sentido espacio Tierra en la banda 5150-5216 MHz no deberá rebasar en ningún caso el valor de -164 dB(W/m2) en cualquier banda de 4 kHz para todos los ángulos de llegada. 152. En la banda 5150 - 5250 MHz, las estaciones del servicio móvil no reclamarán protección contra las estaciones terrenas del servicio fijo por satélite ni les causarán interferencias.
 
@@ -1571,6 +1567,8 @@ El uso de esta banda por el servicio de radiodeterminación por satélite está 
 162. En la banda de frecuencias 5470 - 5650 MHz, las estaciones del servicio de radiolocalización, excepto los radares en tierra utilizados con fines meteorológicos en la banda 5600 - 5650 MHz, no causarán interferencia perjudicial a los sistemas de radares del servicio de radionavegación marítima, ni reclamarán protección contra ellos. 163. Los radares instalados en tierra, que funcionan en la banda 5.600 5.650 MHz para las necesidades de la meteorología, están autorizados a funcionar sobre una base de igualdad con las estaciones del servicio de radionavegación marítima.
 
 164. En las bandas 5925-6425 MHz y 14-14,5 GHz, las estaciones terrenas situadas a bordo de barcos pueden comunicar con las estaciones espaciales del servicio fijo por satélite.
+
+164A. La banda 5925-6700 MHz podrá autorizarse para la telemedida móvil aeronáutica para pruebas en vuelo por estaciones de aeronaves. Esta utilización ha de ser conforme a la Resolución 416 (CMR-07) y no se deberá causar interferencia perjudicial a los servicios autorizados en dicha banda ni reclamar protección contra los mismos.
 
 165. En la banda 6425 7075 MHz se llevan a cabo mediciones con sensores pasivos de microondas por encima de los océanos.
 
@@ -1602,17 +1600,25 @@ servicio de radionavegación marítima está limitado a los radares costeros.
 
 179. En la banda 9200-9500 MHz pueden utilizarse transpondedores de búsqueda y salvamento (SART), teniendo debidamente en cuenta la correspondiente Recomendación UIT-R.
 
-180. La utilización de la banda 9300 - 9500 MHz por el servicio de radionavegación aeronáutica se limita a los radares meteorológicos de aeronaves y a los radares instalados en tierra. Además, se permiten
+180. La utilización de la banda 9300-9500 MHz, por el servicio de radionavegación aeronáutica se limita a los radares meteorológicos de aeronaves y a los radares instalados en tierra. Además, se permiten las balizas de radar del servicio de radionavegación aeronáutica instaladas en tierra en la banda 9300-9320 MHz, a condición de que no causen interferencia perjudicial al servicio de radionavegación marítima.
 
-las balizas de radar instaladas en tierra del
+180A. En la banda 9,00-9,20 GHz las estaciones del servicio de radiolocalización no deberán causar interferencia perjudicial a los sistemas del servicio de radionavegación aeronáutica que figuran en la nota 94.
 
-servicio de radionavegación aeronáutica en la banda 9300 9320 MHz, a condición de que no causen interferencia perjudicial al servicio de radionavegación marítima. En la banda 9300 - 9500 MHz, los radares instalados en tierra utilizados para las necesidades de la meteorología tendrán prioridad sobre los demás dispositivos de radiolocalización.
+180B. La utilización de la banda 9,30-9,50 GHz por el servicio de exploración de la Tierra por satélite (activo) y el servicio de investigación espacial (activo) se limita a los sistemas que requieren un ancho de banda necesaria superior a 300 MHz y que no pueden acomodarse plenamente en la banda 9,50-9,80 GHz.
 
-181. En la banda 9500-9800 MHz, las estaciones del servicio de exploración de la Tierra por satélite (activo) y del servicio de investigación espacial (activo) no causarán interferencia perjudicial a estaciones de los servicios de radionavegación y de radiolocalización ni limitarán su utilización o desarrollo.
+180C. En la banda 9,30-9,50 GHz las estaciones del servicio de radiolocalización no deberán causar interferencia perjudicial a los radares del servicio de radionavegación, ni reclamarán protección contra los mismos. Los radares en tierra utilizados con fines meteorológicos tendrán prioridad sobre cualquier otro uso de radiolocalización.
+
+181. En la banda 9300-9800 MHz, las estaciones del servicio de exploración de la Tierra por satélite (activo) y del servicio de investigación espacial (activo) no causarán interferencia perjudicial a estaciones de los servicios de radionavegación y de radiolocalización ni reclamarán protección contra las mismas.
+
+181A. La utilización de la banda 9,80-9,90 GHz por el servicio de exploración de la Tierra por satélite (activo) y el servicio de investigación espacial (activo) se limita a sistemas que requieren un ancho de banda mayor que 500 MHz, la cual no puede acomodarse íntegramente en la banda 9,30-9,80 GHz.
+
+181B. En la banda 9,80-9,90 GHz las estaciones del servicio de exploración de la Tierra por satélite (activo) y el servicio de investigación espacial (activo) no deberán causar interferencia perjudicial a las estaciones del servicio fijo, al que esta banda está atribuida a título secundario, ni reclamarán protección contra las mismas.
 
 182. La banda 9975 10025 MHz está también atribuida a título secundario al servicio de meteorología por satélite para ser utilizada por los radares meteorológicos.
 
-183. En la banda 10,6 10,68 GHz, la p.i.r.e. máxima de las estaciones de los servicios fijo y móvil, salvo móvil aeronáutico, debe limitarse a 40 dBW, y la potencia suministrada a la antena no debe exceder de -3 dBW. Estos límites pueden rebasarse a reserva de obtener el acuerdo entre las administraciones.
+183. En la banda 10,6-10,68 GHz, la potencia suministrada a la antena de las estaciones de los servicios fijo y móvil, salvo móvil aeronáutico, no será superior a -3 dBW. Este límite puede rebasarse a reserva de obtener el acuerdo entre las Administraciones.
+
+183A. Para la compartición de la banda 10,6-10,68 GHz entre el servicio de exploración de la Tierra por satélite (pasivo) y los servicios fijo y móvil, excepto el servicio móvil aeronáutico, se aplicará la Resolución 751 (CMR-07).
 
 184. La utilización de las bandas 10,95-11,2 GHz (espacio-Tierra), 11,45-11,7 GHz (espacio-Tierra), 11,7-12,2 GHz (espacio-Tierra), 13,75-14,5 GHz (Tierra espacio), 17,8-18,6 GHz (espacio-Tierra), 19,7-20,2 GHz (espacio-Tierra), 27,5 28,6 GHz (Tierra-espacio) y 29,5-30 GHz (Tierra-espacio) por un sistema de satélites no geoestacionarios del servicio fijo por satélite está sujeta a la aplicación de las disposiciones de coordinación con otros sistemas de satélites no geoestacionarios del servicio fijo por satélite. Los sistemas de satélites no geoestacionarios del servicio fijo por satélite no reclamarán protección con relación a las redes de satélites geoestacionarios del servicio fijo por satélite que funcionen de conformidad con el Reglamento de Radiocomunicaciones de la UIT, sea cual sea la fecha en que la Oficina reciba la información completa de coordinación o de notificación, según proceda, de los sistemas de satélites no geoestacionarios del servicio fijo por satélite y la información completa de coordinación o de notificación, según proceda, de las redes de satélites geoestacionarios. Los sistemas de satélites no geoestacionarios del servicio fijo por satélite se explotarán en las bandas precitadas de forma que cualquier interferencia inaceptable que pueda producirse durante su explotación se elimine rápidamente.
 
@@ -1702,11 +1708,13 @@ Puede utilizarse control automático de potencia para aumentar la densidad de p.
 
 200. La utilización de la banda 15,43 - 15,63 GHz por el servicio fijo por satélite (espacio - Tierra) y (Tierra - espacio) queda limitada a los enlaces de conexión de los sistemas de satélites no geoestacionarios del servicio móvil por satélite a reserva de efectuar la debida coordinación internacional. En el sentido espacio - Tierra, no debe ocasionarse interferencia perjudicial a las estaciones del servicio de radioastronomía que utilicen la banda 15,35 - 15,4 GHz.
 
-201. Las estaciones del servicio de radionavegación aeronáutica operarán de acuerdo a la Recomendación UIT-R S.1340. Los enlaces de conexión que operan en esta banda deberán hacerlo en conformidad con la Recomendación UIT-R S.1340 y el número S4.10 del Reglamento de Radiocomunicaciones de la UIT. 202. Los sensores activos a bordo de vehículos que funcionan en la banda de frecuencias 17,2-17,3 GHz no causarán interferencia perjudicial ni obstaculizarán el desarrollo del servicio de radiolocalización y de otros servicios con atribución a título primario.
+201. Las estaciones del servicio de radionavegación aeronáutica operarán de acuerdo a la Recomendación UIT-R S.1340. Los enlaces de conexión que operan en esta banda deberán hacerlo en conformidad con la Recomendación UIT-R S.1340 y el número S4.10 del Reglamento de Radiocomunicaciones de la UIT.
 
-203. En la banda 17,3-17,8 GHz la compartición entre el servicio fijo por satélite (Tierra-espacio) y el servicio de radiodifusión por satélite deberá efectuarse también de acuerdo con lo dispuesto en el § 1 del Anexo 4 al Apéndice 30A, del Reglamento de Radiocomunicaciones de la UIT.
+202. Los sensores activos a bordo de vehículos que funcionan en la banda de frecuencias 17,2-17,3 GHz no causarán interferencia perjudicial ni obstaculizarán el desarrollo del servicio de radiolocalización y de otros servicios con atribución a título primario.
 
-204. La utilización de la banda 17,3 18,1 GHz por el servicio fijo por satélite (Tierra espacio) está limitada a los enlaces de conexión para el servicio de radiodifusión por satélite.
+203. ELIMINADO.
+
+204. La utilización de la banda 17,3-17,8 GHz está limitada a los satélites geoestacionarios para enlaces de conexión del servicio de radiodifusión por satélite.
 
 205. La UIT ha identificado las siguientes bandas para su utilización por las aplicaciones de alta densidad del servicio fijo por satélite:
 
@@ -1732,11 +1740,11 @@ Puede utilizarse control automático de potencia para aumentar la densidad de p.
 
 Esta identificación no impide el empleo de tales bandas por otras aplicaciones del servicio fijo por satélite o por otros servicios a los cuales se encuentran atribuidas dichas bandas a título coprimario y no establece prioridad alguna entre los usuarios de las bandas estipuladas en el presente Decreto.
 
-206. La atribución al servicio de radiodifusión por satélite en la banda 17,3-17,8 GHz será efectiva a partir del 1° de abril de 2007. Después de esta fecha, el servicio fijo por satélite
+206. ELIMINADO.
 
-(espacio-Tierra) en la banda 17,7-17,8 GHz no deberá causar interferencia perjudicial ni pedir protección contra los sistemas que operan en el servicio de radiodifusión por satélite. 207. La atribución de la banda 17,7-17,8 GHz al servicio móvil se hace a título primario, hasta el 31 de marzo de 2007.
+207. ELIMINADO.
 
-208. La banda 18,1 18,3 GHz está también atribuida, a título primario, al servicio de meteorología por satélite (espacio - Tierra). Su utilización está limitada solamente a los satélites geoestacionarios.
+208. La banda 18,0-18,3 GHz está también atribuida, a título primario, al servicio de meteorología por satélite (espacio-Tierra). Su utilización está limitada solamente a los satélites geoestacionarios.
 
 209. La utilización de la banda 18,1-18,4 GHz por el servicio fijo por satélite (Tierra espacio) se limita a los enlaces de conexión de los sistemas de satélites geoestacionarios del servicio de radiodifusión por satélite.
 
@@ -1778,7 +1786,9 @@ Será responsabilidad de la concesionaria o permisionaria con enlaces del servic
 
 233. Los enlaces de conexión de las redes de satélites no geoestacionarios del servicio móvil por satélite y las redes de satélites geoestacionarios del servicio fijo por satélite que funcionan en la banda 29,1-29,5 GHz (Tierra-espacio) deberán utilizar un control adaptable de la potencia para los enlaces ascendentes u otros métodos de compensación del desvanecimiento, con objeto de que las transmisiones de las estaciones terrenas se efectúen al nivel de potencia requerido para alcanzar la calidad de funcionamiento deseada del enlace a la vez que se reduce el nivel de interferencia mutua entre ambas redes.
 
-234. La banda 29,95 30 GHz se podrá utilizar, a título secundario, en los enlaces espacio - espacio del servicio de exploración de la Tierra por satélite, con fines de telemedida, seguimiento y telemando. 235. En la banda 31-31,3 GHz, los límites de densidad de flujo de potencia, se aplican al servicio de investigación espacial.
+234. La banda 29,95 30 GHz se podrá utilizar, a título secundario, en los enlaces espacio - espacio del servicio de exploración de la Tierra por satélite, con fines de telemedida, seguimiento y telemando.
+
+235. En la banda 31-31,3 GHz, el servicio de investigación espacial debe cumplir con los límites de densidad de flujo de potencia indicados en el Cuadro 21-4 del Artículo 21, del Reglamento de Radiocomunicaciones de la UIT.
 
 236. Las bandas 31,8-33,4 GHz, 37-40 GHz, 40,5-43,5 GHz, 51,4-52,6 GHz, 55,78-59 GHz y 64 66 GHz están disponibles para aplicaciones de alta densidad en el servicio fijo.
 
@@ -1788,7 +1798,23 @@ Será responsabilidad de la concesionaria o permisionaria con enlaces del servic
 
 239. En la banda 35,5-36,0 GHz, la densidad de flujo de potencia media en la superficie de la Tierra radiada por cualquier sensor a bordo de un vehículo espacial del servicio de exploración de la Tierra por satélite (activo) o del servicio de investigación espacial (activo), para cualquier ángulo mayor que 0,8°, medido a partir del centro del haz, no rebasará el valor de -73,3 dB(W/m2) en esta banda.
 
-240. La densidad de flujo de potencia equivalente (dfpe) producida en la banda 42,5-43,5 GHz por todas las estaciones espaciales de cualquier sistema de satélites no geoestacionarios, en el servicio fijo por satélite (espacio-Tierra) o en el servicio de radiodifusión por satélite (espacio-Tierra) en la banda 42-42,5 GHz, no superará los valores en el emplazamiento de cualquier estación de radioastronomía durante más del 2% del tiempo. 241. La densidad de flujo de potencia producida en la banda 42,5-43,5 GHz por toda estación espacial geoestacionaria del servicio fijo por satélite (espacio-Tierra) o del servicio de radiodifusión por satélite (espacio-Tierra) en la banda 42-42,5 GHz no superará, en el emplazamiento de cualquier estación de radioastronomía, los siguientes valores:
+239A. Para la compartición de la banda 36,0-37,0 GHz entre el servicio de exploración de la Tierra por satélite (pasivo) y los servicios fijo y móvil, se aplicará la Resolución 752 (CMR-07).
+
+240. La densidad de flujo de potencia equivalente (dfpe) producida en la banda 42,5-43,5 GHz por todas las estaciones espaciales de cualquier sistema de satélites no geoestacionarios del servicio fijo por satélite (espacio-Tierra) o del servicio de radiodifusión por satélite (espacio-Tierra) en la banda 42-42,5 GHz, no superará los siguientes valores en el emplazamiento de cualquier estación de radioastronomía durante más del 2% del tiempo:
+
+-230 dB(W/m2) en 1 GHz y –246 dB(W/m2) en cualquier banda de 500 kHz de la banda 42,5-43,5 GHz en el emplazamiento de cualquier estación de radioastronomía registrada como telescopio de parábola única, y
+
+–209 dB(W/m2) en cualquier banda de 500 kHz de la banda 42,5-43,5 GHz en el emplazamiento de una estación de radioastronomía registrada como estación de interferometría con línea de base muy larga.
+
+Estos valores de dfpe deberán evaluarse mediante la metodología que figura en la Recomendación UIT-R S.1586-1 y el diagrama de antena de referencia y ganancia máxima de antena del servicio de radioastronimía consignados en la Recomendación UIT-R RA.1631, que deben aplicarse para todo el cielo y ángulos de elevación superiores al ángulo de funcionamiento mínimo qmín del radiotelescopio (para el que debe adoptarse un valor por defecto de 5° en ausencia de información notificada).
+
+Los referidos valores deberán aplicarse a cualquier estación de radioastronomía que esté en funcionamiento antes del 5 de julio de 2003 y se haya notificado a la Oficina de Radiocomunicaciones de la UIT antes del 4 de enero de 2004; o bien que se haya notificado antes de la fecha de recepción de la información completa en materia de coordinación o notificación prevista en el Apéndice 4 del Reglamento de Radiocomunicaciones de la UIT , según proceda, sobre la estación espacial a la que se aplican los límites.
+
+Las demás estaciones de radioastronomía notificadas tras estas fechas, pueden recabar el acuerdo de las administraciones que hayan autorizado las estaciones espaciales. Se aplicará la Resolución 743 (CMR-03).
+
+Los límites de esta nota pueden sobrepasarse en el emplazamiento de una estación de radioastronomía de cualquier país cuya administración lo admita.
+
+241. La densidad de flujo de potencia producida en la banda 42,5-43,5 GHz por toda estación espacial geoestacionaria del servicio fijo por satélite (espacio-Tierra) o del servicio de radiodifusión por satélite (espacio-Tierra) en la banda 42-42,5 GHz no superará, en el emplazamiento de cualquier estación de radioastronomía, los siguientes valores:
 
 -137 dB(W/m2) en 1 GHz y -153 dB(W/m2) en cualquier banda de 500 kHz de la banda 42,5-43,5 GHz en el emplazamiento de una estación de radioastronomía registrada como telescopio de parábola única, y -116 dB(W/m2) en cualquier banda de 500 kHz de la banda 42,5-43,5 GHz en el emplazamiento de una estación de radioastronomía registrada como estación de interferometría con línea de base muy larga.
 
@@ -1802,7 +1828,9 @@ Las demás estaciones de radioastronomía notificadas tras estas fechas, pueden 
 
 242. En las bandas 42,5-43,5 GHz y 47,2-50,2 GHz se ha atribuido al servicio fijo por satélite para las transmisiones Tierra-espacio mayor porción de espectro que la que figura en la banda 37,5-39,5 GHz para las transmisiones espacio-Tierra, con el fin de acomodar los enlaces de conexión de los satélites de radiodifusión.
 
-243. La atribución al servicio fijo en las bandas 47,2-47,5 GHz y 47,9-48,2 GHz está destinada para las estaciones en plataformas a gran altitud. 244. Las estaciones del servicio móvil terrestre pueden funcionar en las bandas 43,5-47 GHz y 66-71 GHz, a reserva de no causar interferencias perjudiciales a los servicios de radiocomunicación espacial a los que están atribuidas estas bandas.
+243. La atribución al servicio fijo en las bandas 47,2-47,5 GHz y 47,9-48,2 GHz está destinada para las estaciones en plataformas a gran altitud. Las bandas 47,2-47,5 GHz y 47,9-48,2 GHz se utilizarán con arreglo a lo dispuesto en la Resolución 122 (Rev.CMR-07).
+
+244. Las estaciones del servicio móvil terrestre pueden funcionar en las bandas 43,5-47 GHz y 66-71 GHz, a reserva de no causar interferencias perjudiciales a los servicios de radiocomunicación espacial a los que están atribuidas estas bandas.
 
 245. En las bandas 43,5-47 GHz, 66-71 GHz, 95-100 GHz, 123-130 GHz, 191,8-200 GHz y 252-265 GHz se autorizan también los enlaces por satélite que conectan estaciones terrestres situadas en puntos fijos determinados, cuando se utilizan conjuntamente con el servicio móvil por satélite o el servicio de radionavegación por satélite. 246. La banda 48,94-49,04 GHz está también atribuida, a título primario, al servicio de radioastronomía. 247. En virtud de disposiciones nacionales, pueden llevarse a cabo observaciones de radioastronomía en las bandas 51,4-54,25 GHz, 58,2-59 GHz y 64-65 GHz.
 
@@ -1816,9 +1844,15 @@ dB(W/MHz).
 
 250. En las bandas 55,78-58,2 GHz, 59-64 GHz, 66-71 GHz, 122,25-123 GHz, 130-134 GHz, 167-174,8 GHz y 191,8-200 GHz podrán utilizarse estaciones del servicio móvil aeronáutico, a reserva de no causar interferencias perjudiciales al servicio entre satélites 251. La utilización de la banda 56,9-57 GHz por los sistemas entre satélites se limita a los enlaces entre satélites geoestacionarios y a las transmisiones procedentes de satélites no geoestacionarios en órbita terrestre alta dirigidas a satélites en órbita terrestre baja. Para los enlaces entre satélites geoestacionarios, la densidad de flujo de potencia de una sola fuente en altitudes entre 0 km y 1000 km sobre la superficie de la Tierra, para todas las condiciones y para todos los métodos de modulación, no deberá rebasar el valor de -147 dB(W/(m2 100 MHz)), en todos los ángulos de incidencia.
 
-252. En la banda 59-64 GHz podrán utilizarse radares a bordo de aeronaves en el servicio de radiolocalización, a reserva de no causar interferencias perjudiciales al servicio entre satélites 253. La banda 75,5-76 GHz también está atribuida a los servicios de aficionados y de aficionados por satélite a título primario hasta el año 2006. 254. La banda 78-79 GHz puede ser utilizada, a título primario, por los radares situados en estaciones espaciales del servicio de exploración de la Tierra por satélite y del servicio de investigación espacial.
+252. En la banda 59-64 GHz podrán utilizarse radares a bordo de aeronaves en el servicio de radiolocalización, a reserva de no causar interferencias perjudiciales al servicio entre satélites.
 
-255. En la banda 74-76 GHz, las estaciones de los servicios fijo, móvil y de radiodifusión no causarán interferencias perjudiciales a las estaciones del servicio fijo por satélite o del servicio de radiodifusión por satélite que funcionen de conformidad con las decisiones de la conferencia encargada de elaborar un plan de adjudicación de frecuencias para el servicio de radiodifusión por satélite 256. La banda 81-81,5 GHz también está atribuida a los servicios de aficionados y aficionados por satélite a título secundario.
+253. ELIMINADO.
+
+254. La banda 78-79 GHz puede ser utilizada, a título primario, por los radares situados en estaciones espaciales del servicio de exploración de la Tierra por satélite y del servicio de investigación espacial.
+
+255. En la banda 74-76 GHz, las estaciones de los servicios fijo, móvil y de radiodifusión no causarán interferencias perjudiciales a las estaciones del servicio fijo por satélite o del servicio de radiodifusión por satélite que funcionen de conformidad con las decisiones de la conferencia encargada de elaborar un plan de adjudicación de frecuencias para el servicio de radiodifusión por satélite.
+
+256. La banda 81-81,5 GHz también está atribuida a los servicios de aficionados y aficionados por satélite a título secundario.
 
 257. La utilización de la banda 94-94,1 GHz por los servicios de exploración de la Tierra por satélite (activo) y de investigación espacial (activo) está limitada a los radares a bordo de vehículos espaciales para determinación de las nubes. 258. En las bandas 94-94,1 GHz y 130-134 GHz, las transmisiones de las estaciones espaciales del servicio de exploración de la Tierra por satélite (activo) dirigidas al haz principal de una antena de radioastronomía pueden afectar a algunos receptores de radioastronomía. Las agencias espaciales que explotan los transmisores y las estaciones de radioastronomía pertinentes deberían planificar de consenso sus operaciones a fin de evitar este problema en la mayor medida posible. 259. En las bandas 105-109,5 GHz, 111,8-114,25 GHz, 155,5-158,5 GHz y 217-226 GHz, el uso de esta atribución se limita estrictamente a las misiones espaciales de radioastronomía.
 
@@ -1853,6 +1887,8 @@ En esta parte del espectro, todavía en gran parte inexplorada, los futuros trab
 > **Nota.** NOTA 1: El DTO 737, Transportes, publicado el 29.11.2008, introdujo modificación al texto de la presente norma en su versión modificada por el DTO 956, Transportes, publicado el 25.01.2008, la que no se ha incorporado al presente texto actualizado por restricciones técnicas temporales.
 
 > **Nota.** NOTA 2 El Nº 1 del Artículo Único del Decreto 156, Transportes, publicado el 05.04.2010, modifica la presente norma en el sentido de reemplazar en el Nº4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de las bandas de frecuencias que en dicha norma se indican.
+
+> **Nota.** NOTA 3 El Nº 1 del Artículo Único del Decreto 240, Transportes, publicado el 28.01.2011, modifica la presente norma en el sentido de reemplazar en el Nº4, Sección IV "Cuadro de Atribución de Bandas de Frecuencias", la atribución de las bandas de frecuencias que en dicha norma se indican.
 
 Anótese, regístrese, tómese razón, publíquese en el Diario Oficial e insértese en la recopilación oficial de la Contraloría General de la República.- RICARDO LAGOS ESCOBAR, Presidente de la República.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
 
