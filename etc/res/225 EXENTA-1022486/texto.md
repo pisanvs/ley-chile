@@ -1,0 +1,7 @@
+Por resolución exenta N° 225, de 24 de enero de 2011, de esta Subsecretaría, modifícase la resolución exenta N° 3.483, de 2010, de esta Subsecretaría, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesquerías bentónicas de erizo Loxechinus albus, huepo Ensis macha, caracol trotón Trophon gervesianus, loco Concholepas concholepas, ostión del sur Chlamys vitrea y ostión patagónico Chlamys patagonica, en la Xll Región de Magallanes y Antártica Chilena", en el sentido de incorporar el siguiente numeral 6 Bis.- nuevo:
+
+"6 Bis.- La peticionaria deberá efectuar una evaluación directa sobre los recursos Ostión del sur Chlamys vitrea y Ostión patagónico Chlamys patagonica, durante el mes de enero de 2011 en los bancos de ostiones ubicados en las localidades Estero Peel, Seno Penguin y Estero Falcon, para cuyo efecto participará la embarcación "Albatros II" (matrícula N° 1572 de la Capitanía de Puerto de Punta Arenas).
+
+La evaluación realizada de conformidad con el párrafo anterior reemplazará la evaluación directa del recurso Huepo Ensis macha establecida en el memorándum técnico N° 370 de 2010, de la División de Administración Pesquera de esta Subsecretaría.".
+
+Valparaíso, 24 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
