@@ -92,11 +92,25 @@ Estas faenas deberán ceñirse a las disposiciones técnicas que sobre esta mate
 
 En todo caso, las faenas deberán cumplir las disposiciones sanitarias referidas a emisión de ruidos, polvos y otros contaminantes atmosféricos.
 
-CAPÍTULO III: Del Control de Alimentos
+Capítulo III: Del Control de Establecimientos de Alimentos.
 
 #### Artículo 14º
 
-Son establecimientos de alimentos los recintos públicos o privados en los cuales se elaboran, preservan, envasan, almacenan, distribuyen, expenden o consumen alimentos.
+Son establecimientos de alimentos los recintos públicos o privados en los cuales se elaboran, preservan, envasan, almacenan, distribuyen, expenden y se consumen alimentos, debiendo cumplir a lo menos con lo siguiente:
+
+a) Mantener el establecimiento en buenas condiciones de salubridad.-
+
+b) Disponer de campanas con filtro en la cocina.-
+
+c) Los manipuladores de alimentos deben trabajar con ropa o uniforme adecuado.-
+
+d) Mantener los baños de personal y público, limpios.-
+
+e) Mantener la cocina en buenas condiciones sanitarias.-
+
+f) Mantener al día el certificado de control de roedores, insectos y artrópodos de importancia sanitaria.-
+
+g) Mantener adecuadamente la infraestructura del establecimiento.-
 
 #### Artículo 15º
 
@@ -202,13 +216,19 @@ Los inspectores municipales comprobarán en dichos establecimientos que el perso
 
 La instalación de establos, lecherías, perreras, caballerizas, gallineros, chancheras, conejeras, o panales de abejas, deberá contar con la autorización previa de la Secretaría Regional Ministerial de Salud Región Metropolitana y del Servicio Agrícola y Ganadero.
 
+Se prohíbe mantener crianza de animales y aves en el interior del domicilio sin autorización o resolución.
+
 #### Artículo 29º
 
 Los animales domésticos deberán permanecer en el domicilio del propietario, sin que causen molestias a los vecinos. Excepcionalmente podrán circular por las vías públicas, acompañados de su correspondiente correa, collar y bozal cuando corresponda.
 
+Deberá colocarse malla o rejilla protectora en rejas de antejardín con el fin de evitar que el animal saque su cabeza u hocico al exterior.
+
 #### Artículo 30º
 
 Se prohíbe la tenencia de perros, gatos u otros animales en las viviendas cuando ello comprometa la seguridad o salud de las personas u ocasione ruidos molestos a los vecinos.
+
+Los propietarios de animales deberán mantener los patios, espacios públicos y espacios comunes de edificios libres de excrementos a fin de evitar la proliferación de moscas y malos olores.
 
 CAPÍTULO V: De las Sanciones
 
