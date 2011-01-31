@@ -1,0 +1,3 @@
+Por resolución exenta Nº 248, de 26 de enero de 2011, de esta Subsecretaría, rectifícase el Visto, numeral 1º y extracto de la resolución exenta Nº 184 de 2011, de esta Subsecretaría de Pesca que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación sobre el recurso Reineta en el sentido de señalar que el proyecto se denomina "Monitoreo biológico pesquero artesanal de Reineta (Brama australis), en la Provincia de Arauco VIII Región, Período enero-diciembre 2011" y no como allí se indica.
+
+Valparaíso, 26 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
