@@ -5296,10 +5296,6 @@ y aparatos de soldar,
 
 aunque puedan cortar.
 
-8470.5000 Cajas registradoras Solamente terminales
-
-de pago
-
 8470.9000 Las demás máquinas de Solamente sistemas de
 
 calcular; máquinas registro y
@@ -11125,10 +11121,6 @@ de mercancías.
 semirremolques,
 
 para cualquier vehículo.
-
-> **Nota.** El Artículo Único del Decreto 365, Hacienda, publicado el 05-07-2012, modifica la presente norma en el sentido de sustituir la lista de bienes de capital establecida en la presente norm
-
-> **Nota.** NOTA 1 > El artículo único del Decreto 399 Exento, Hacienda, publicado el 05.01.2018, modifica la presente norma en el sentido de sustituir la lista de bienes de capital establecida en la presente norm
 
 Tómese razón, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.- Ana María Correa López, Ministra de Economía, Fomento y Reconstrucción (S).
 
