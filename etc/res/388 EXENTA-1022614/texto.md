@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIONES DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 388, 28 enero 2011, ordenó expropiación total inmueble ubicado en 12 de Octubre Nr. 3876 D 308 Leonera, del Conjunto Habitacional Villa Futuro III, Sector La Leonera, Rol de Avalúo Nº 03271-00052, comuna Chiguayante, superficie 41,44.- metros cuadrados de construcción y los derechos cuotativos que recaen sobre los bienes comunes de ese departamento, consistentes en 42,71.- metros cuadrados de terreno y 4,08.- metros cuadrados de edificación, dentro polígono y linderos señalados plano expropiación S8R- 26442, de aparente dominio de ZAMBRANO ZAMBRANO MARIA IRENE, para ejecución "Programa de Reconstrucción y Reparación de Viviendas de la Región del Bío Bío, en Conjuntos Habitacionales construidos por el SERVIU Región del Bío Bío, gravemente dañados por el terremoto de 27 de Febrero de 2010" en la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y D.L. 2186. Comisión Peritos integrada por Patricia Cecilia Palacios González, arquitecta, Italo Renzo Zerga Arancibia, constructor civil y Rubén Muñoz Vera, arquitecto, según informe de fecha 27 de enero de 2011, fijó monto provisional indemnización en $ 9.901.709.-, pagadera de contado.
+
+Director SERVIU Región del Bío Bío.
