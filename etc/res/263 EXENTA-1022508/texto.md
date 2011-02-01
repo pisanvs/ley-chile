@@ -1,0 +1,3 @@
+Por resolución exenta Nº 263, de 27 de enero de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 193 de 2011, de esta Subsecretaría, que extendió el área de operaciones de los pescadores artesanales de la X Región a la XI Región, en el sentido de indicar en su numeral 6.-, literal h), que la obligación para embarcaciones artesanales y transporte de recursos, de disponer de equipo de posicionamiento satelital georeferenciado, se hará exigible a contar del 15 de marzo de 2011, haciéndose extensiva a todas las pescas de investigación que se autoricen en virtud de dicha resolución.
+
+Valparaíso, 27 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S)
