@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº 3.129, de 31 de diciembre de 2010, se modificó el numeral sexto del Decreto Exento MOP. Nº1678, de 30 de septiembre de 2010, con motivo de la ejecución de la obra: "Mejoramiento Camino 64D585, Sector Pisco Elqui Horcón", Comuna de Paihuano, Provincia de Elqui, IV Región de Coquimbo", en cuanto a que el gasto del monto provisional de indemnización es con cargo al Certificado Nº39, de 16 de febrero de 2010, del Gobierno Regional de Coquimbo, Código BIP 20183056-0.
+
+Fiscal del Ministerio de Obras Públicas.
