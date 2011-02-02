@@ -12,7 +12,7 @@ Grado Nombre del Empleo Nº de Cargos
 
 ### I. PLANTA DE OFICIALES
 
-A.- Oficiales Policiales
+"A.- Oficiales Policiales
 
 Alto Mando:
 
@@ -46,7 +46,7 @@ Oficiales Policiales Profesionales
 
 8 Comisario 1.487
 
-9 Subcomisario 250
+9 Subcomisario 250.
 
 B.- Oficiales de los Servicios
 
@@ -114,21 +114,7 @@ D.- Aspirantes
 
 ### II. PLANTA DE APOYO CIENTIFICO-TECNICO
 
-A.- PROFESIONALES - PERITOS
-
-4 Profesional perito 10
-
-5 Profesional perito 26
-
-6 Profesional perito 83
-
-7 Profesional perito 110
-
-8 Profesional perito 298
-
-9 Profesional perito 73
-
-B.- Profesionales
+A.- Profesionales
 
 4 Profesional 6
 
@@ -142,7 +128,7 @@ B.- Profesionales
 
 9 Profesional 55
 
-C.- Técnicos
+B.- Técnicos
 
 7 Técnico 6
 
@@ -158,21 +144,21 @@ C.- Técnicos
 
 ### III. PLANTA DE APOYO GENERAL
 
-A.- Agentes Policiales
+A.- Asistentes Policiales
 
-11 Agente Policial Superior 38
+11 Asistente Policial 38
 
-12 Agente Policial Superior 75
+12 Asistente Policial 75
 
-13 Agente Policial 103
+13 Asistente Policial 103
 
-14 Agente Policial 130
+14 Asistente Policial 130
 
-15 Agente Policial 164
+15 Asistente Policial 164
 
-16 Agente Policial 240
+16 Asistente Policial 240
 
-18 Agente Policial 200
+18 Asistente Policial 200
 
 B.- Asistentes Técnicos
 
@@ -223,14 +209,6 @@ D.- Auxiliares
 18 Auxiliar 166
 
 IV. PLANTA DOCENCIA 6.000 horas
-
-> **Nota.** El artículo 33 de la Ley 20642, publicada el 11.12.2012, crea en el escalafón de Oficiales Profesionales de Línea de la Planta de Oficiales de la Policía de Investigaciones de Chile, establecido en el presente artículo, 862 nuevos cargos de Subinspector grado 12º, pasando el número total de cargos de dicho grado de "900" a "1.762".
-
-> **Nota.** NOTA 1 El numeral 1º del Artículo 1° de la Ley 20785, Interior, publicada el 21.10.2014, aumenta en la Planta de Oficiales, en el Escalafón de Oficiales Policiales, los cargos correspondientes al Alto Mando y a los Oficiales Policiales Profesionales de Línea, en la forma que señala. El artículo segundo transitorio indica que la provisión de estos cargos se realizaran de forma gradual entre los años 2015 a 2017.
-
-> **Nota.** NOTA 2 El numeral 2 del Artículo 1° de la Ley 20785, Interior, publicada el 21.10.2014, establece en 1.351 los cargos de Subinspector, grado 12, en la Planta de Oficiales, en el Escalafón de Oficiales Policiales.
-
-> **Nota.** NOTA 3 El Decreto 252, Interior, publicado el 31.01.2025, modifíca la distribución de la dotación de los escalafones de asistentes administrativos y auxiliares, ambos de la planta de apoyo general de la Policía de Investigaciones de Chile, en los términos que la citada norma indica.
 
 #### Artículo 2º
 
@@ -717,12 +695,6 @@ Las referencias legales o reglamentarias que hagan alusión al Instituto Superio
 Del mismo modo, el título de Oficial Policial Graduado tendrá la misma equivalencia, reconocimiento y efectos que el título de ''Oficial Graduado en Investigación Criminalística'', que por esta ley se crea.
 
 Asimismo, toda vez que una disposición legal aluda a la ''Planta de Empleados Civiles'' o a la ''Planta de los Servicios Generales'' de la Policía de Investigaciones de Chile, se entenderá que ella se realiza a las Plantas ''de Apoyo Científico-Técnico'' y ''de Apoyo General'', respectivamente, que por la presente ley se crean.
-
-#### Artículo 5º bis
-
-Toda vez que en una norma legal o reglamentaria se haga alusión a los cargos de "Asistente Policial" o "Asistentes Policiales" de la Policía de Investigaciones de Chile, ésta se entenderá efectuada a los cargos de "Agente Policial" o "Agentes Policiales", respectivamente.
-
-Tratándose de los funcionarios de los grados 11 y 12 de la letra A del número III, Planta de Apoyo General, del artículo 1º, la denominación será la de "Agente Policial Superior" o "Agentes Policiales Superiores".
 
 #### Artículo 6º
 
