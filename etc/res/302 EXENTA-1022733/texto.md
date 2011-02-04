@@ -1,0 +1,3 @@
+Por resolución exenta Nº 302, de 28 de enero de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 208106053, Nº 207121099, Nº 207121122, Nº 207121124, Nº 209042009, Nº 207121281, Nº 208121010, Nº 207121309, Nº 208121007, Nº 208121019, Nº 208121020, Nº 208121023, Nº 208121024, Nº 208121032, Nº 208121035, Nº 208121011, y Nº 208121009, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
