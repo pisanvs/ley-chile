@@ -8,7 +8,7 @@ Amplíase, con los siguientes profesionales, la lista de peritos para la Región
 
 Arquitectos:
 
-Jimena Francisca Asenjo Burgos Claudio Andrés Correa Barahona Fernando José Senerman Mandel Marcela Cecilia Covarrubias Bravo Verónica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror
+Jimena Francisca Asenjo Burgos Claudio Andrés Correa Barahona Fernando José Senerman Mandel Marcela Cecilia Cobarrubias Bravo Verónica Paz Olivier Valdebenito Patricia Alejandra Bunster Fuenzalida Paulina Lorena Jadue Zaror
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.
 
