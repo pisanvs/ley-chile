@@ -1,0 +1,3 @@
+Por resolución exenta Nº 296, de 28 de enero de 2011, de esta Subsecretaría, recházanse las solicitudes números 207111354, 208111125, 208111136, 206111005, 207111333, 208111142, 207111338, 208111121, 206111011, 207111334, 206111007, 208111144, 207111332, 208111119, 207111397, 207111320, 207111349, 207111331, 207111367, 207111364, 207111471, 207111328, 207111365, 207111472, 207111330, 207111363, 207111326, 207111329, 207111369, 207111468, 208111482 y 208111455, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 28 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
