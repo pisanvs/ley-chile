@@ -366,9 +366,9 @@ Los cometidos específicos que cumplirán las Secciones y sus Unidades dependien
 
 Por su parte, las funciones específicas que cumplirán las Secciones de Admisión; de Recursos Humanos, y de Informática, son aquellas que se establecen respectivamente en los artículos 22°, 23° y 24°, de este reglamento.
 
-#### Artículo 21°
+#### Artículo 21º
 
-La creación, modificación o supresión de las Secciones y sus Unidades dependientes se determinará por resolución del Director de Previsión.
+La creación, modificación o supresión de las divisiones y estamentos dependientes, se determinará por resolución del Director de Previsión, previa autorización de la Subsecretaría de Carabineros.
 
 ### Párrafo 4° — {ARTS. 22-24}
 
