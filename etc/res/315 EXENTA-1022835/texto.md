@@ -1,0 +1,3 @@
+Por resolución exenta Nº 315, de 28 de enero de 2011, de esta Subsecretaría, recházanse las solicitudes Nº 207122144, Nº 207121331, Nº 207121321, Nº 207121328, Nº 207121333, Nº 207121336, Nº 207121332, Nº 207121327, Nº 207122361, Nº 207122362, Nº 207122352, Nº 207122349, Nº 208122021, Nº 207122395, Nº 208122010, Nº 207122411, Nº 207122413, Nº 207122353, Nº 207122363 y Nº 207123063, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
