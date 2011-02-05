@@ -1,0 +1,5 @@
+ESTABLECE PROCEDIMIENTO PARA LA AUTORIZACIÓN DE FACTURAS DE INICIO Y FIJA REQUISITOS QUE DEBERÁN CUMPLIR
+
+Extracto de Resolución Exenta del Servicio de Impuestos Internos Nº 12 del 1 de febrero de 2011, que establece procedimiento para la autorización de Facturas de Inicio y fija requisitos que deberán cumplir, de conformidad a lo establecido en el nuevo artículo 8º quáter, del Código Tributario, incorporado por el artículo 2º de la Ley Nº 20.494, de 2011, que otorga el derecho a los contribuyentes que hagan inicio de actividades, de requerir el timbraje inmediato de facturas cuando éstas no den derecho a crédito fiscal y facturas de inicio, ésta última, mientras el Servicio de Impuestos Internos efectúe la verificación correspondiente.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de febrero de 2011.
