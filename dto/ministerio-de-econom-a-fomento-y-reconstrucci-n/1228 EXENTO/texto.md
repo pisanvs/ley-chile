@@ -28,8 +28,6 @@ Sin perjuicio de lo indicado en el presente decreto, durante la vigencia de la v
 
 La fauna acompañante autorizada se extraerá en la pesca artesanal dirigida a Congrio dorado con espinel, hasta un 5% medido en peso en relación a la especie objetivo, por viaje de pesca, respetando los límites antes señalados.
 
-> **Nota.** El artículo único de la Resolución 706 Exenta, Economía, publicado el 08.08.2011, modificó la presente norma en el sentido de incrementar en 646 toneladas la captura de Raya volantín, autorizada a ser extraída para el año 2011 durante la veda de la citada especie.
-
 #### Artículo 4º
 
 El Servicio Nacional de Pesca podrá mediante resolución establecer medidas y procedimientos para permitir una adecuada fiscalización del cumplimiento de las disposiciones del presente decreto.
