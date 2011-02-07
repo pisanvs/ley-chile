@@ -40,7 +40,7 @@ c) La densidad de la p.i.r.e. no deberá exceder de 50 mW/MHz en cualquier banda
 
 d) Los equipos deberán emplear un mecanismo de control de la potencia de transmisión que tenga capacidad para operar al menos 3 dB por debajo de una p.i.r.e. de 1 W. no se requerirá de dicho mecanismo para equipos que operen con una p.i.r.e. menor a 500 mW.
 
-e) Los equipos deberán emplear un mecanismo de selección dinámica de frecuencias de modo que en una misma zona geográfica coexistan múltiples usuarios y sistemas, incluido sistemas de radar.
+e) Los equipos deberán emplear alguna técnica que permita disminuir las interferencias de modo de facilitar la coexistencia de múltiples usuarios y sistemas en una misma zona geográfica. Asimismo, deberán emplear un mecanismo de selección dinámica de frecuencias que permita detectar la presencia de sistemas de radar y evitar la operación en un mismo canal con dichos sistemas. Además, excepto en zonas rurales, el ancho de banda de los equipos, que empleen modulación FSK, no deberá exceder de 10 MHz.
 
 f) En zonas rurales y también para el caso de un enlace punto a punto, entre una zona urbana y un sistema instalado o proyectado para operar en una zona rural, la Subsecretaría de Telecomunicaciones podrá autorizar que se excedan los límites señalados en los literales b) y c) anteriores.
 
