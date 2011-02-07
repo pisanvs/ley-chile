@@ -1,0 +1,3 @@
+Por resolución exenta Nº 278, de 27 de enero de 2011, de esta Subsecretaría, amplíase por 12 meses a contar del 1º de noviembre de 2010, el plazo otorgado a SOUTHPACIFIC KORP S.A. para iniciar actividades pesqueras extractivas con la nave "Lider", respecto de los recursos hidrobiológicos Alfonsino y Besugo, en el área marítima correspondiente a la V a VII y IX a X Regiones e Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández.
+
+Valparaíso, 27 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
