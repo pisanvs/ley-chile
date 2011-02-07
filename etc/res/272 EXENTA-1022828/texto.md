@@ -1,0 +1,3 @@
+Por resolución exenta Nº 272, de 27 de enero de 2011, de esta Subsecretaría amplíase por 12 meses a contar 1º de noviembre de 2010, el plazo otorgado en el numeral 4º de la resolución exenta Nº 3.399 de 2009, de esta Subsecretaría de Pesca, a SOUTHPACIFIC KORP S.A. para iniciar actividades pesqueras extractivas con la nave "Guanaye 2", sobre los recursos hidrobiológicos Alfonsino y Besugo, en el área marítima comprendida entre la III, IV, VII, IX, XIV y X Regiones, e Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández.
+
+Valparaíso, 27 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
