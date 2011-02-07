@@ -14,7 +14,7 @@ Apruébase la siguiente modificación del Reglamento del Servicio de Bienestar d
 
 #### Artículo único
 
-Incorpórese el Reglamento Interno del Servicio del Personal del Servicio Electoral, aprobado por D.S. Nº 171, de 1995, del Ministerio del Trabajo y Seguridad Social, las siguientes modificaciones:
+Incorpórese el Reglamento Interno del Servicio del Personal del Servicio Electoral, aprobado por D.S. Nº 171, de 1995, del Ministerio del Trabajo y Previsión Social, las siguientes modificaciones:
 
 1.- Sustitúyase la letra c) del artículo 2º, por la siguiente: "c) El Jefe del Subdepartamento de Gestión de Personal".
 
