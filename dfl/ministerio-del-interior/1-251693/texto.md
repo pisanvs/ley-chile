@@ -80,7 +80,41 @@ a) Ejecutar el plan comunal de desarrollo y los programas necesarios para su cum
 
 b) Elaborar, aprobar, modificar y ejecutar el presupuesto municipal;
 
-c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo económico y social de la comuna, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración;
+c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo económico y social de la comuna, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración.
+
+Las municipalidades
+
+podrán autorizar, por un
+
+plazo de cinco años, el cierre
+
+o medidas de control de
+
+acceso a calles y pasajes, o a
+
+conjuntos habitacionales urbanos
+
+o rurales con una misma vía de
+
+acceso y salida, con el objeto
+
+de garantizar la seguridad de
+
+los vecinos. Dicha
+
+autorización requerirá el
+
+acuerdo del concejo respectivo.
+
+El plazo se entenderá prorrogado
+
+automáticamente por igual período,
+
+salvo resolución fundada en
+
+contrario de la municipalidad
+
+con acuerdo del concejo.
 
 d) Dictar resoluciones obligatorias con carácter general o particular;
 
@@ -768,9 +802,125 @@ n) Readscribir o destinar a otras unidades al personal municipal que se desempe�
 
 o) Fijar el horario de funcionamiento de los establecimientos de expendio de bebidas alcohólicas existentes en la comuna, dentro de los márgenes establecidos en el artículo 21 de la Ley sobre Expendio y Consumo de Bebidas Alcohólicas. En la ordenanza respectiva se podrán fijar horarios diferenciados de acuerdo a las características y necesidades de las distintas zonas de la correspondiente comuna o agrupación de comunas.
 
-Estos acuerdos del concejo deberán ser fundados, y
+Estos acuerdos del concejo deberán ser fundados;
 
-p) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente.
+p) Otorgar patentes a las salas de cine destinadas a la exhibición de producciones cinematográficas de contenido pornográfico. En este caso, el acuerdo deberá adoptarse por la mayoría simple de los miembros del concejo. El alcalde oirá previamente a la junta de vecinos correspondiente, y
+
+q) Otorgar la autorización a
+
+que se refiere el párrafo
+
+segundo de la letra c) del
+
+#### Artículo 5º
+
+, previo informe de
+
+las direcciones o unidades de
+
+tránsito y de obras municipales
+
+y de la unidad de Carabineros y
+
+el Cuerpo de Bomberos de la comuna,
+
+siempre que la solicitud sea
+
+suscrita por a lo menos el 90 por
+
+ciento de los propietarios de los
+
+inmuebles o de sus representantes
+
+cuyos accesos se encuentren ubicados
+
+al interior de la calle, pasaje o
+
+conjunto habitacional urbano o rural
+
+que será objeto del cierre. La
+
+autorización deberá ser fundada,
+
+especificar el lugar de instalación
+
+de los dispositivos de cierre o
+
+control; las restricciones a
+
+vehículos, peatones o a ambos, en su
+
+caso, y los horarios en que se
+
+aplicará. La municipalidad podrá
+
+revocarla en cualquier momento
+
+cuando así lo solicite, a lo menos,
+
+el 50 por ciento de los referidos
+
+propietarios o sus representantes.
+
+La facultad señalada en el
+
+párrafo anterior no podrá ser
+
+ejercida en ciudades declaradas
+
+patrimonio de la humanidad o respecto
+
+de barrios, calles, pasajes o lugares
+
+que tengan el carácter de patrimonio
+
+arquitectónico o sirvan como acceso
+
+a ellos o a otros calificados como
+
+monumentos nacionales.
+
+La municipalidad dictará una
+
+ordenanza que señale el procedimiento
+
+y características del cierre o medidas
+
+de control de que se trate. Dicha
+
+ordenanza, además, deberá contener
+
+medidas para garantizar la
+
+circulación de los residentes, de
+
+las personas autorizadas por ellos
+
+mismos y de los vehículos de
+
+emergencia, de utilidad pública
+
+y de beneficio comunitario. Asimismo,
+
+la ordenanza deberá establecer las
+
+condiciones para conceder la
+
+señalada autorización de manera
+
+compatible con el desarrollo de la
+
+actividad económica del sector.
+
+La facultad a que se refiere
+
+el párrafo primero de esta letra
+
+podrá ser ejercida una vez que se
+
+haya dictado la ordenanza mencionada
+
+en el párrafo precedente.
 
 Las materias que requieren el acuerdo del concejo serán de iniciativa del alcalde. Sin perjuicio de lo anterior, si el alcalde incurriere en incumplimiento reiterado y negligente de las obligaciones señaladas en el inciso segundo del artículo 56, podrá ser requerido por el concejo para que presente el o los proyectos que correspondan dentro de un tiempo prudencial. En caso de que el alcalde persista en la omisión, su conducta podrá ser considerada como causal de notable abandono de deberes, para los efectos de lo previsto en la letra c) del artículo 60.
 
