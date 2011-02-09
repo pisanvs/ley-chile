@@ -1,0 +1,3 @@
+Por resolución exenta Nº 277, de 27 enero de 2011, de esta Subsecretaría, amplíase por 12 meses a contar del 1 de octubre de 2010, el plazo otorgado en el numeral 4º de la resolución exenta Nº 3.216, de 2009, de esta Subsecretaría de Pesca, a Sociedad Pesquera Genmar Limitada para iniciar actividades pesqueras extractivas con la nave "Don Chelo I", respecto de los recursos hidrobiológicos Alfonsino y Besugo, en el área marítima correspondiente a la VIII Región.
+
+Valparaíso, 27 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
