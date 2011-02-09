@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZO PARA INICIO DE OPERACIONES DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA CASINO RINCONADA S.A. EN LA COMUNA DE RINCONADA
+
+Por resolución exenta Nº 584, de 28 de diciembre de 2010, Superintendencia de Casinos de Juego concedió prórroga de plazo solicitada por sociedad operadora Casino Rinconada S.A. para desarrollo de obras e instalaciones del proyecto integral autorizado en comuna de Rinconada. En virtud de prórroga concedida, el plazo de 48 meses para el desarrollo de las demás obras e instalaciones que comprenden proyecto integral, contemplado en resoluciones exentas Nºs 343 y 210, de 26 de diciembre de 2006 y 7 de julio de 2008, respectivamente, se extenderá hasta 66 meses, contado desde 29 de diciembre de 2006.
+
+Santiago, 3 de febrero de 2011.- Superintendente de Casinos de Juego (S).
