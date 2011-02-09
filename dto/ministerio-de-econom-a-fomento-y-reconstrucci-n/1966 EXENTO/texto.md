@@ -26,6 +26,22 @@ Asociación Gremial de Armadores y Pescadores Artesanales de Chile - Armadores y
 
 Sindicato de Trabajadores Independientes Pescadores Artesanales y Armadores Cerqueros de Valdivia, Registro Sindical Único 10.02.0409
 
+Sindicato de Trabajadores Independientes Pescadores Artesanales de Amargo, Registro Sindical Único 14.01.0105;
+
+Sindicato de Trabajadores de Independientes, Buzos, Mariscadores, Pescadores Artesanales de la Caleta de Los Molinos, Provincia de Valdivia, Décima Región de Los Lagos, Registro Sindical Único 14.01.0136;
+
+Sindicato de Trabajadores Independientes, Gente de Mar, Niebla, Registro Sindical Único 14.01.0266;
+
+Sindicato de Trabajadores Independientes, Pescadores Artesanales de Bonifacio, Registro Sindical Único 14.01.0140;
+
+Sindicato de Trabajadores Independientes, Pescadores Artesanales de Corral, Registro Sindical Único 14.01.0115;
+
+Sindicato de Trabajadores Independientes, Pescadores Artesanales del Balneario de Niebla, Registro Sindical Único 14.01.0127;
+
+Sindicato de Trabajadores Independientes, Pescadores Artesanales Nº 2 de la Caleta Tres Espino, Niebla, Registro Sindical Único 14.01.0270, y
+
+Sindicato Independiente de Armadores y Pescadores Artesanales Históricos de Valdivia, Registro Sindical Único 14.01.0514.
+
 #### Artículo 2º
 
 La distribución de la fracción artesanal asignada a las pesquerías artesanales de Anchoveta, Sardina común y Jurel correspondientes a la XIV Región se efectuará por resolución del Subsecretario de Pesca, considerando las organizaciones antes individualizadas, debiendo reservarse una fracción para ser capturada por los pescadores artesanales no afiliados a las organizaciones señaladas precedentemente, sea que estén afiliados a otras organizaciones o no integren ninguna organización.
