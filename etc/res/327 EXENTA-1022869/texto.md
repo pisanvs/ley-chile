@@ -1,0 +1,3 @@
+Por resolución exenta Nº 327, de 3 de febrero de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.595, de 2002, de esta Subsecretaría, sólo en cuanto autorizó a LEYLA IBET LAMA ORTIZ para iniciar actividades pesqueras extractivas con la nave "Lucía", en el área marítima comprendida entre la I a III Regiones, sobre el recurso hidrobiológico Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 3 de febrero de 2011.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
