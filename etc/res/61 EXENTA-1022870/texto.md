@@ -1,0 +1,5 @@
+CONCEDE PRÓRROGA DE PLAZOS PARA INICIO DE OPERACIONES DEL CASINO DE JUEGO Y DESARROLLO DE LAS DEMÁS OBRAS E INSTALACIONES DEL PROYECTO INTEGRAL AUTORIZADO A SOCIEDAD OPERADORA RANTRUR S.A. EN COMUNA DE CASTRO
+
+Por resolución exenta Nº 61, de 3 de febrero de 2011, Superintendencia de Casinos de Juego concedió prórroga de plazos que solicitó sociedad operadora Rantrur S.A. tanto para inicio de operaciones del casino de juegos como para desarrollo de obras e instalaciones complementarias del proyecto integral autorizado en comuna de Castro. En virtud de prórrogas concedidas, el plazo de 32 meses contemplado para el inicio de operaciones del casino de juego se extenderá hasta los 44 meses, y el plazo de 48 meses para la ejecución y cumplimiento de las demás obras e instalaciones complementarias del proyecto integral se extenderá hasta los 66 meses, contado desde el 8 de septiembre de 2008.
+
+Santiago, 3 de febrero de 2011.- Superintendente de Casinos de Juego (S).
