@@ -16,21 +16,25 @@ D e c r e t o:
 
 La ejecución del Programa de Educación Básica se regulará de acuerdo a las disposiciones que fija el presente decreto.
 
-El programa de Educación Básica está asociado a los principios de calidad y equidad que orientan la Reforma Educacional, poniendo énfasis en el logro de resultados de aprendizaje claramente mayores y mejor distribuidos a nivel social.
+El Programa de Educación Básica está asociado a los principios de calidad y equidad que orientan la Reforma Educacional, poniendo énfasis en el logro de los resultados de aprendizaje claramente mayores y mejor distribuidos a nivel social.
 
-Para el logro de calidad considera exigencia y apoyo, presión y ayuda, que debieran generar un impulso en las comunidades escolares para revisar y mejorar su servicio educativo. La exigencia apunta a la idea de fijar metas de aprendizajes nacionales emblemáticas, claras y comunicables que impulsen a los establecimientos escolares a fijarse sus propias metas específicas a partir de dispositivos de autoevaluación institucional y la definición de mejoramiento anual y de cuenta pública. El apoyo implica que el Ministerio lidera, promueve y coordina un soporte técnico, material y normativo para que las escuelas puedan alcanzar los resultados propuestos.
+Para el logro de calidad considera exigencias y apoyo, presión y ayuda, que debieran generar un impulso en las comunidades escolares, para revisar y mejorar su servicio educativo. Las exigencias apuntan a la idea de fijar metas de aprendizaje nacionales emblemáticas, claras y comunicables que impulsen a los establecimientos escolares a fijarse sus propias metas específicas a partir de dispositivos de autoevaluación institucional y la definición de mejoramiento anual y de cuenta pública. El apoyo implica que el Ministerio lidera, promueve y coordina un soporte técnico, material y normativo para que las escuelas puedan alcanzar los resultados propuestos.
 
-Para el logro de Equidad se mantiene la discriminación positiva que significa entregar más apoyo a aquellas poblaciones escolares de menores recursos socioeconómicos, culturales y educativos, lo que implica focalizar recursos materiales y apoyo técnico a grupos de escuelas de mayor vulnerabilidad.
+Para el logro de equidad se mantiene la discriminación positiva que significa entregar más apoyo a aquellas poblaciones escolares de menores recursos socioeconómicos, culturales y educativos, lo que implica focalizar recursos materiales y apoyo técnico a grupos de escuelas de mayor vulnerabilidad.
 
-El Programa Educación Básica comprende los siguientes programas y líneas de acción:
+El Programa de Educación Básica comprende las siguientes líneas de acción:
 
-Programa de las 900 escuelas, es un programa de apoyo técnico y material a los establecimientos escolares con más bajos resultados SIMCE a nivel provincial y que atienden alumnos con altos índices de vulnerabilidad socioeconómica. Se trata de escuelas donde los rendimientos escolares son deficitarios respecto del rendimiento promedio de cada provincia, lo que se explica por múltiples causas tanto internas como externas al establecimiento escolar.
+Línea de acción: Apoyo a la implementación curricular.
 
-Programa de Educación Básica Rural, consiste en una propuesta pedagógica que se ofrece a todas las escuelas rurales multigrado de hasta tres docentes, cuyo desafío central consiste en generar condiciones para que los alumnos y alumnas logren adquirir efectivamente los conocimientos y las destrezas previstas en los objetivos nacionales para la enseñanza general básica, a partir de sus particulares características culturales y de sus propias necesidades (a partir de 2001 atiende a escuelas básicas rurales completas).
+Línea centrada en los sectores de aprendizajes del currículum nacional vigente, con énfasis en aquellos sectores de aprendizaje que son sujetos de evaluación SIMCE. Considera apoyo técnico-pedagógico y material para favorecer las prácticas pedagógicas efectivas, la planificación de clases y la evaluación de los aprendizajes. Los destinatarios son estudiantes, docentes de aula, jefes técnicos y directivos de establecimientos que imparten educación básica. Son también destinatarios aquellos mediadores y asesores técnico-pedagógicos que acompañen el trabajo docente y directivo.
 
-Línea de Fortalecimiento de la Gestión Escolar de Educación Básica, cuyo objetivo es la profesionalización y liderazgo directivo, el desarrollo de un sistema de mejoramiento continuo de la gestión escolar y el impulso de una mayor autonomía escolar y participación de la comunidad.
+Línea de acción: Gestión pedagógica para la educación integral.
 
-Componente "Campaña Lectura, Escritura y Matemática" (LEM), es una iniciativa nacional que busca mejorar los aprendizajes básicos en lenguaje y matemática, de los niños y niñas desde segundo nivel de transición (kinder) hasta 4º básico. Estos aprendizajes son indispensables para avanzar con éxito en la escuela y desenvolverse en el mundo actual.
+Línea enfocada a desarrollar contenidos y estrategias para favorecer la integración y convivencia escolar, la gestión de un aula inclusiva y el apoyo a estudiantes con rezago en sus aprendizajes. Los destinatarios son estudiantes y sus familias, docentes de aula, jefes técnicos, directivos de establecimientos que imparten educación básica, comunidad local y asesores técnico-pedagógicos.
+
+Línea de acción: Gestión y liderazgo.
+
+Línea orientada al desarrollo de capacidades pedagógicas e institucionales en actores claves para la generación de condiciones que favorezcan la implementación curricular y la organización de los procesos de mejoramiento, monitoreo y rendición de cuentas. Los destinatarios son sostenedores, jefes técnicos y directivos de establecimientos que imparten educación básica y asesores técnico-pedagógicos.
 
 #### Artículo 2º
 
@@ -46,25 +50,21 @@ d) Adquisición de recursos de aprendizaje para el apoyo de los alumnos y docent
 
 e) Evaluación de material didáctico y textos para dotar de bibliotecas a las Escuelas de Educación Básica;
 
-f) Capacitación y becas para monitores que colaboran en la realización de Talleres de Aprendizaje para niños de 1º a 4º básico que presentan retraso escolar;
+f) Asesoría, capacitación y orientación técnica para asesores técnico-pedagógicos, monitores, ayudantes de aula, docentes y directivos de educación básica sobre estrategias de reforzamiento y apoyo escolar como talleres de aprendizaje para estudiantes que presentan retraso escolar, riesgo de abandono escolar o se encuentran en régimen de protección de derechos;
 
-g) Becas para monitores ayudantes de profesores de Educación Básica, de los establecimientos focalizados por el presente Programa.
+g) Capacitación de Directivos y Docentes de las Escuelas Básicas afectas al D.F.L. Nº 2 de 1998, de Educación, incluidos sostenedores, padres y apoderados;
 
-h) Capacitación de Directivos y Docentes de las Escuelas Básicas afectas al D.F.L. Nº 2 de 1998, de Educación, incluidos sostenedores, padres y apoderados;
+h) Asesoría, capacitación y orientación técnica para especialistas y personas que ejercen labores de coordinación y apoyo técnico para el mejoramiento de los aprendizajes de establecimientos de educación básica;
 
-i) Capacitación, perfeccionamiento y contratación a honorarios de especialistas y personas que ejercen labores de Coordinación y Apoyo Técnico para el mejoramiento de los aprendizajes;
+i) Desarrollo de actividades dinamizadoras de alumnos, docentes, padres y apoderados de las Escuelas de Educación Básica Subvencionadas;
 
-j) Desarrollo de actividades dinamizadoras de alumnos, docentes, padres y apoderados de las Escuelas de Educación Básica Subvencionadas;
+j) Difusión de acciones y resultados de las diversas líneas del Programa de Educación Básica.
 
-k) Difusión de acciones y resultados de las diversas líneas del Programa de Educación Básica.
+k) Estudios acerca del desarrollo, proceso y resultados de la ejecución del Programa de Educación Básica.
 
-l) Estudios acerca del desarrollo, proceso y resultados de la ejecución del Programa de Educación Básica.
+l) Coordinación y ejecución de jornadas nacionales e internacionales y otras actividades con Programas de Organismos Internacionales, respecto del diseño, ejecución y evaluación del Programa.
 
-m) Coordinación y ejecución de jornadas nacionales e internacionales y otras actividades con Programas de Organismos Internacionales, respecto del diseño, ejecución y evaluación del Programa.
-
-n) Contratación a honorarios de personal para la administración del Programa y docentes para el apoyo en el aula, que incluye docentes de la Red Maestros de Maestros y otros Profesores Consultores que apoyarán el proceso de aprendizaje en el aula.
-
-ñ) Contratación de asesoría técnica para apoyar el proceso de enseñanza y aprendizaje de las escuelas básicas regidas por el DFL Nº 2, de 1998, del Ministerio de Educación, en el marco del Sistema de Aseguramiento de la Calidad de a Gestión de la Educación Básica.
+m) Contratación de asesoría técnica para apoyar el proceso de enseñanza y aprendizaje de las escuelas básicas regidas por el DFL Nº 2, de 1998, del Ministerio de Educación, en el marco del Sistema de Aseguramiento de la Calidad de a Gestión de la Educación Básica.
 
 #### Artículo 3º
 
@@ -74,7 +74,7 @@ El desarrollo del Programa de Educación Básica comprende la ejecución de todo
 
 El gasto que demande la aplicación del Programa de Educación Básica, se imputará al ítem que se consulte anualmente para el sector público para estos efectos.
 
-Para el año 2007, se imputará al ítem 09.01.03.24.03.511, glosa 8, asignado a la Subsecretaría del Ministerio de Educación.
+Para el año 2011, se imputarán al ítem: 09-01-03-24-03-511, Glosa 06, del Presupuesto de la Subsecretaría de Educación.
 
 Anótese, refréndese, tómese razón y publíquese.- Por orden del Presidente de la República, Mariana Aylwin Oyarzún, Ministra de Educación.- María Eugenia Wagner Brizzi, Ministra de Hacienda Subrogante.
 
