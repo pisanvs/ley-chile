@@ -1,0 +1,3 @@
+Por resolución exenta Nº 264, de 27 de enero de 2011, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 604, de 2010, de esta Subsecretaría, que autorizó a O.N.G. DE DESARROLLO Y CONSERVACIÓN DE MAMÍFEROS ACUÁTICOS CENTRO DE CONSERVACIÓN CETÁCEA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia en el marco del Proyecto denominado "Estudio de especies de cetáceos en todo el territorio nacional", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2011, inclusive.
+
+Valparaíso, 27 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
