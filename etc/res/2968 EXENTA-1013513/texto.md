@@ -614,35 +614,67 @@ El número de familias preseleccionadas en cada Región alcanzará hasta el núm
 
 4. El procedimiento de postulación y selección de este llamado especial será el que se señala a continuación:
 
-a) Las familias postularán en forma individual en el
+a) Las familias postularán en forma individual en
 
-SERVIU respectivo, completando el formulario
+el SERVIU respectivo, completando el
 
-correspondiente y adjuntando la documentación
+formulario correspondiente y adjuntando la
 
-necesaria para acreditar su calidad de
+documentación necesaria para acreditar su
 
-damnificado. Junto con ello, podrán señalar las
+calidad de damnificado. Junto con ello, podrán
 
-opciones priorizadas de proyecto de vivienda tipo
+señalar las
 
-de su preferencia, en función de la información
+opciones priorizadas de proyecto de vivienda
 
-que presentó el SERVIU por cada empresa
+tipo de su preferencia, en función de la
 
-disponible para esta modalidad en la región.
+información que presentó el SERVIU por cada
+
+empresa disponible para esta modalidad en la
+
+región.
 
 El SERVIU deberá proceder a registrar a las
 
-empresas disponibles para la participación de
+empresas disponibles para la participación
 
-este llamado especial, en función del
+de este llamado especial, en función del
 
-procedimiento y condiciones que se señale para
+procedimiento y condiciones que se señale
 
-tal efecto en circular del Subsecretario de
+para tal efecto en circular del Subsecretario
 
-Vivienda y Urbanismo.
+de Vivienda y Urbanismo.
+
+El SERVIU podrá agrupar territorialmente a
+
+lasfamilias damnificadas para la
+
+elección y posterior desarrollo de construcción
+
+de una vivienda de proyecto tipo, según
+
+capacidad y disponibilidad de construcción
+
+que el SERVIU acredite para tal efecto. El
+
+grupo de familias definirá por mayoría simple
+
+el tipo de proyecto de vivienda a ser
+
+seleccionada, lo que deberá constar en un
+
+Acta. Tal documento deberá ser suscrito
+
+por todos los integrantes del grupo,
+
+dejando constancia que las familias que
+
+integran dicho grupo han elegido determinado
+
+proyecto tipo de vivienda.
 
 b) Una vez evaluados satisfactoriamente los
 
@@ -670,51 +702,171 @@ técnica para la construcción en el mismo.
 
 c) El SERVIU dispondrá para cada familia
 
-preseleccionada una Asesoría Técnica Legal,
+preseleccionada una Asesoría Técnica y Jurídica,
 
 la cual deberá ayudar a las familias a
 
 seleccionar su proyecto, dentro del listado
 
-de proyectos tipo disponibles. En
+de proyectos tip odisponibles. En especial,
 
-especial, deberá informarles las
+deberá informarles las características técnicas
 
-características técnicas y económicas de la
+y económicas de la totalidad de proyectos
 
-totalidad de proyectos disponibles en esa región
+disponibles en esa región para la
 
-para la construcción. Una vez que el postulante
+construcción.
 
-preseleccionado haya
+Esta asesoría podrá ser desarrollada por los
 
-elegido las opciones de viviendas a
+SERVIU directamente, con cargo a los recursos
 
-construir en su sitio y el SERVIU no le
+dispuestos para ello, o a través de personas
 
-hubiere asignado una Asesoría Técnica Legal,
+naturales o jurídicas que el SERVIU contrate
 
-la empresa constructora correspondiente a la
+para la prestación de estos servicios.
 
-vivienda de su elección podrá
+La Asesoría Técnica y Jurídica también podrá
 
-prestarle los servicios correspondientes a dicha
+ser desarrollada por la empresa constructora
 
-asesoría directamente, en cuyo caso sin embargo,
+si el postulante preseleccionado hubiere
 
-no podrá percibir los honorarios
+elegido con anterioridad las opciones
 
-correspondientes, ni tampoco efectuar cobro
+de viviendas a construir en su sitio y
+
+el SERVIU no le hubiere asignado una
+
+Asesoría Técnica y Jurídica, pudiendo
+
+la empresa percibir los honorarios
+
+correspondientes por estos servicios,
+
+por un monto de 10 UF, sin efectuar cobro
 
 alguno por dicho concepto al
 
-damnificado. En este caso, el SERVIU, por sí a
+damnificado. Estos honorarios se pagarán en
 
-través de terceros, realizará las labores de
+su totalidad de acuerdo a lo señalado en el
 
-Inspección Técnica de Obra a la vivienda a
+numeral 5.6.3. En estos casos las labores de
 
-construir.
+inspección Técnica de Obra serán realizadas
+
+por el SERVIU directamente o a través de
+
+terceros; con cargo a los honorarios
+
+correspondientes, por un monto equivalente a
+
+5 UF.
+
+La Asesoría Técnica y Jurídica que preste la
+
+empresa constructora deberá contemplar la
+
+realización de los servicios señalados en el
+
+Resuelvo 5 de esta resolución, de acuerdo a
+
+las condiciones que allí se señalan,
+
+considerando para la aprobación pago de los
+
+servicios, la entrega de los informes,
+
+documentos y permisos que se indiquen en las
+
+Bases de Licitación para la contratación de
+
+Servicios de Asesoría Técnica y Jurídica
+
+establecidas por cada SERVIU. En caso
+
+que el SERVIU respectivo no tenga bases de
+
+licitación vigentes para la contratación de
+
+esta asesoría, deberá fijar las condiciones
+
+para estos servicios mediante resolución.
+
+Adicionalmente el SERVIU reembolsará a la
+
+empresa hasta un máximo de 7 UF por proyecto
+
+terminado, por los gastos en que ésta hubiere
+
+incurrido por el pago de derechos municipales,
+
+tarifas y aranceles Notariales y del
+
+Conservador de Bienes Raíces, debiendo rendir
+
+cuenta documentada de la utilización de estos
+
+recursos al SERVIU.
+
+En el caso que la empresa constructora preste
+
+la Asesoría Técnica y Jurídica, los montos de
+
+subsidio establecidos en la letra f) del número
+
+2 de la presente resolución serán los
+
+siguientes:
+
+Para postulaciones del Capítulo Primero, el monto
+
+de subsidio base a que podrá optar cada
+
+postulante será de 380 UF para las obras que
+
+sea necesario ejecutar para la construcción del
+
+proyecto tipo, incluidas, entre otras, las obras
+
+de demolición y remoción de escombros, conexiones
+
+a servicios básicos y habilitación del terreno,
+
+si corresponde, incrementado en 60 UF para las
+
+zonas donde sea posible conectarse a una red
+
+de alcantarillado colectiva. Para las zonas donde
+
+no exista una red de alcantarillado colectivo, el
+
+incremento del subsidio base será de 80 UF y se
+
+considerará la ejecución de una solución de
+
+alcantarillado particular.
+
+Para postulaciones del Capítulo Segundo el
+
+monto de subsidio base será de 330 UF,
+
+incrementado en 60 o en 80 UF, según
+
+exista red de alcantarillado colectivo,
+
+aplicándose en lo demás lo establecido en
+
+el párrafo anterior.
+
+En ningún caso se podrá optar a los montos
+
+adicionales de subsidios complementarios que
+
+establece el D.S. Nº 174 (V. y U.), de 2005.
 
 d) La Asesoría Técnica tendrá un plazo de 30 días,
 
@@ -732,19 +884,23 @@ contratados para cada una de las familias
 
 a su cargo.
 
-e) Una vez ingresados los antecedentes señalados en
+e) Una vez ingresados los antecedentes señalados
 
-la letra anterior, el SERVIU dispondrá de hasta 7
+en la letra anterior, el SERVIU dispondrá de
 
-días hábiles, para aprobar o rechazar los montos
+hasta 7 días hábiles, para aprobar o rechazar
 
-propuestos por la asesoría técnica para la
+los montos propuestos por la asesoría técnica
 
-habilitación de terreno. Si dichos montos
+para la habilitación de terreno. Si dichos
 
-contaren con su aprobación, dentro del mismo
+montos contaren con su aprobación, dentro del
 
-plazo emitirá el certificado de subsidio.
+mismo plazo emitirá el certificado de
+
+subsidio o la
+
+Resolución de Ratificación del Subsidio.
 
 f) Una vez que se otorgue el certificado de Subsidio
 
@@ -766,73 +922,81 @@ que establece los incisos cuarto y siguientes del
 
 del D.S. N° 174 (V. y U.), de 2005.
 
-g) Sólo se podrá otorgar un anticipo a cuenta del
+g) Se podrá otorgar un primer anticipo, sin
 
-pago de la construcción de la vivienda, hasta por
+necesidad de contar con avance de obra, a cuenta
 
-un 20% del monto de subsidio, contra boleta
+del pago de la construcción de la vivienda, hasta
 
-bancaria de garantía por el mismo valor,
+por un 20% del monto de subsidio, sólo contra
 
-extendida en los mismos términos establecidos en
+boleta bancaria de garantía por el mismo valor,
 
-el artículo 54 del D.S. N° 174 (V. y U.), de
+extendida en los mismos términos establecidos
+
+en el articulo 54 del D.S Nº 174 (V. y U.), de
+
+2005, sin necesidad de cumplir con los demás
+
+requisitos establecidos para el pago de anticipos
+
+que señala dicho artículo.
+
+Además, se podrá pagar hasta tres anticipos más
+
+cuando se cumpla con el 30%, 60% y 90% de avance
+
+físico de las obras correspondientes, acreditado
+
+con un informe del Inspector Técnico de Obras.
+
+El monto de los anticipos será el equivalente
+
+al porcentaje de avance de obra antes señalado.
+
+La boleta de garantía entregada para caucionar
+
+el primer anticipo, si utilizó el anticipo
+
+señalado anteriormente, podrá ser devuelta una
+
+vez que se ha acreditado el avance de obras por
+
+el 30%, y en este caso el giro por el anticipo
+
+correspondiente a dicho porcentaje de avance
+
+de obra, sólo podrá realizarse por un 10%.
+
+Para el pago de los anticipos se deberá
+
+acompañar la Resolución de Ratificación o el
+
+Certificado de Subsidio correspondiente y el
+
+contrato de construcción vigente, no siendo
+
+necesario que esté inscrita en el Conservador
+
+de Bienes Raíces respectivo la prohibición
+
+de enajenar a favor de SERVIU señalada en el
+
+#### Artículo 53
+
+del D.S. Nº 174 (V. y U.), de
 
 2005.
 
-Para el caso del pago de obras de habilitación,
+El monto total del subsidio no anticipado
 
-según lo establecido en la letra f) del número 2
+se pagará contra certificado del Departamento
 
-de la presente resolución, sólo se podrá
+Técnico del SERVIU en que conste que las obras
 
-anticipar lo correspondiente al ítem "Demolición
+se encuentran completamente terminadas
 
-y remoción de escombros" y "Habilitación de
-
-terreno", previo informe de la Asesoría Técnica y
-
-Jurídica en que se acredite que las obras fueron
-
-realizadas satisfactoriamente según el proyecto
-
-presentado.
-
-En ambos casos de anticipos, se deberá acompañar
-
-el Certificado de Subsidio correspondiente y el
-
-contrato de construcción vigente.
-
-El pago del subsidio se realizará al contratista
-
-cuando la vivienda se encuentra totalmente
-
-terminada y una vez recepcionada por la Dirección
-
-de Obras Municipales respectiva, adjuntando el
-
-informe de la Asesoría Técnica y Jurídica en que
-
-conste además la conformidad de las obras de
-
-habilitación de terreno, si se consideraron para
-
-el proyecto. No obstante lo anterior, y antes de
-
-que se obtenga la recepción final municipal de
-
-las obras, se podrá pagar hasta un 100% del
-
-monto del subsidio otorgado contra certificado
-
-del Departamento Técnico del SERVIU en que
-
-conste que las obras se encuentran
-
-completamente terminadas conforme al proyecto
-
-aprobado.
+conforme al proyecto aprobado.
 
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
