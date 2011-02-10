@@ -40,7 +40,7 @@ Bío-Bío 139.732
 
 Araucanía 62.244
 
-Los Ríos 39.480
+Los Ríos 39.151
 
 Los Lagos 59.400
 
@@ -50,7 +50,7 @@ Magallanes 36.018
 
 Metropolitana 249.642
 
-Total País 1.078.774
+Total País 1.078.445
 
 5. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
