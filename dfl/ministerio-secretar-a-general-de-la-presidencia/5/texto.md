@@ -82,7 +82,7 @@ h) Rendir anualmente una cuenta pública del funcionamiento del Tribunal.
 
 #### Artículo 9°
 
-El Ministro que, conforme a lo dispuesto en el artículo de esta ley, presida la sala que no integre el Presidente del Tribunal, tendrá respecto a las sesiones que ella celebre las atribuciones que señala el artículo 8°, en lo que corresponda.
+El Ministro que, conforme a lo dispuesto en el artículo 30 de esta ley, presida la sala que no integre el Presidente del Tribunal, tendrá respecto a las sesiones que ella celebre las atribuciones que señala el artículo 8°, en lo que corresponda.
 
 #### Artículo 10
 
@@ -274,7 +274,7 @@ Corresponderá al pleno del Tribunal:
 
 9. Resolver los reclamos en caso de que el Presidente de la República no promulgue una ley cuando deba hacerlo o promulgue un texto diverso del que constitucionalmente corresponda;
 
-10. Resolver sobre la constitucionalidad de un decreto o resolución del Presidente de la República que la Contraloría General de la República haya representado por estimado inconstitucional, cuando sea requerido por el Presidente en conformidad al artículo 99 de la Constitución Política;
+10. Resolver sobre la constitucionalidad de un decreto o resolución del Presidente de la República que la Contraloría General de la República haya representado por estimarlo inconstitucional, cuando sea requerido por el Presidente en conformidad al artículo 99 de la Constitución Política;
 
 11. Resolver sobre la constitucionalidad de los decretos supremos, cualquiera sea el vicio invocado, incluyendo aquellos dictados en el ejercicio de la potestad reglamentaria autónoma del Presidente de la República, cuando se refieran a materias que pudieran estar reservadas a la ley por mandato del artículo 63 de la Constitución Política de la República;
 
@@ -886,7 +886,7 @@ Esta nueva publicación, en su caso, no afectará la vigencia de la parte no rec
 
 ### Párrafo 9
 
-Conflictos de constitucionalidad sobre decretos o resoluciones representador por la Contraloría General de la República
+Conflictos de constitucionalidad sobre decretos o resoluciones representados por la Contraloría General de la República
 
 #### Artículo 109
 
