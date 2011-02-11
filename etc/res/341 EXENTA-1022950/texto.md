@@ -1,0 +1,3 @@
+Por resolución exenta Nº 341, de 4 de febrero de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 39, de 2003, de esta Subsecretaría, sólo en cuanto autorizó a SOCIEDAD PESQUERA LEUCOTÓN LIMITADA para ampliar actividades pesqueras extractivas con la nave "Leucotón", en el área marítima comprendida entre la I a III Regiones y entre los paralelos 33º L.S. y 40° L.S., sobre el recurso hidrobiológico Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 4 de febrero de 2011.- Maxiliamo Alarma Carrasco, Subsecretario de Pesca (S)
