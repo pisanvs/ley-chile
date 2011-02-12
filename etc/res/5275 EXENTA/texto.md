@@ -74,7 +74,7 @@ La autorización del control documental de ingreso a Zona Franca será concedida
 
 3. CONTROL DE SALIDA EN LA AVANZADA O PUNTO DE CONTROL DEPENDIENTE DE LA ADUANA DE PUNTA ARENAS
 
-3.1 Las mercancías adquiridas en la Zona Franca de Punta Arenas, con destino a la Zona Franca de Extensión de la Región de Aysén y provincia de Palena, deberán ser presentadas en el control aduanero de salida de la XII Región, conjuntamente con el original de la SRF, y una fotocopia de la misma.
+3.1 Las mercancías adquiridas en la Zona Franca de Punta Arenas, con destino a la Zona Franca de Extensión de la Región de Aysén y Provincia de Palena, deberán ser presentadas en el control aduanero de salida de la XII Región, conjuntamente con el original de la SRF o Factura, según corresponda
 
 3.2 En caso que las mercancías deban pasar por territorio argentino y sean trasladadas por transportistas terrestres, deberá contarse además con el MIC/DTA. Si fueran transportadas por el adquirente, por sus propios medios, deberá contar con el Formulario Unico Chile - Argentina, en el cual deberá consignarse como ''Observación'' el Nº y fecha de la SRF que ampara las mercancías.
 
@@ -140,9 +140,9 @@ Aysén
 
 - Puerto Oxxean Chacabuco, en la provincia de Aysén.
 
-43°27’52" S
+43°27'52'' S
 
-72°49’30" W
+72°49'3'' W
 
 C) Sujetos a la jurisdicción de la Dirección Regional de la Aduana de Puerto Montt, en la Región de Los Lagos:
 
