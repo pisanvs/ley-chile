@@ -24,9 +24,11 @@ e) Servir de órgano de informaciones del Gobierno, proporcionando el material q
 
 f) Identificar las necesidades globales y específicas de comunicación de las diferentes instancias gubernamentales y proponer a éstas las estrategias adecuadas para satisfacerlas;
 
-g) Colaborar con el Ministerio de Relaciones Exteriores en la vinculación e inserción cultural de Chile a nivel internacional, propendiendo al fortalecimiento de relaciones culturales interregionales, y
+g) Colaborar con el Ministerio de Relaciones Exteriores en la vinculación e inserción cultural de Chile a nivel internacional, propendiendo al fortalecimiento de relaciones culturales interregionales;
 
-h) Participar en la elaboración de las políticas globales del Gobierno.
+h) Participar en la elaboración de las políticas globales del Gobierno, y
+
+i) Dar cuenta anualmente sobre la participación ciudadana en la gestión pública, para lo cual deberá establecer los mecanismos de coordinación pertinentes.
 
 #### Artículo 3°
 

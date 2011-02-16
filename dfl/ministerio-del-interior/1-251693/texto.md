@@ -80,41 +80,9 @@ a) Ejecutar el plan comunal de desarrollo y los programas necesarios para su cum
 
 b) Elaborar, aprobar, modificar y ejecutar el presupuesto municipal;
 
-c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo económico y social de la comuna, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración.
+c) Administrar los bienes municipales y nacionales de uso público, incluido su subsuelo, existentes en la comuna, salvo que, en atención a su naturaleza o fines y de conformidad a la ley, la administración de estos últimos corresponda a otros órganos de la Administración del Estado. En ejercicio de esta atribución, les corresponderá, previo informe del consejo comunal de organizaciones de la sociedad civil, asignar y cambiar la denominación de tales bienes. Asimismo, con el acuerdo de los dos tercios de los concejales en ejercicio, podrá hacer uso de esta atribución respecto de poblaciones, barrios y conjuntos habitacionales, en el territorio bajo su administración.
 
-Las municipalidades
-
-podrán autorizar, por un
-
-plazo de cinco años, el cierre
-
-o medidas de control de
-
-acceso a calles y pasajes, o a
-
-conjuntos habitacionales urbanos
-
-o rurales con una misma vía de
-
-acceso y salida, con el objeto
-
-de garantizar la seguridad de
-
-los vecinos. Dicha
-
-autorización requerirá el
-
-acuerdo del concejo respectivo.
-
-El plazo se entenderá prorrogado
-
-automáticamente por igual período,
-
-salvo resolución fundada en
-
-contrario de la municipalidad
-
-con acuerdo del concejo.
+Las municipalidades podrán autorizar, por un plazo de cinco años, el cierre o medidas de control de acceso a calles y pasajes, o a conjuntos habitacionales urbanos o rurales con una misma vía de acceso y salida, con el objeto de garantizar la seguridad de los vecinos. Dicha autorización requerirá el acuerdo del concejo respectivo. El plazo se entenderá prorrogado automáticamente por igual período, salvo resolución fundada en contrario de la municipalidad con acuerdo del concejo.
 
 d) Dictar resoluciones obligatorias con carácter general o particular;
 
@@ -756,7 +724,11 @@ l) Coordinar con los servicios públicos la acción de éstos en el territorio d
 
 ll) Ejecutar los actos y celebrar los contratos necesarios para el adecuado cumplimiento de las funciones de la municipalidad y de lo dispuesto en el artículo 37 de la Ley Nº 18.575;
 
-m) Convocar y presidir, con derecho a voto, el concejo; como asimismo, convocar y presidir el consejo económico y social comunal;
+m) Convocar y presidir, con derecho a voto, el concejo; como asimismo, convocar y presidir el consejo comunal
+
+de organizaciones de la
+
+sociedad civil;
 
 n) Someter a plebiscito las materias de administración local, de acuerdo a lo establecido en los artículos 99 y siguientes, y
 
@@ -954,7 +926,7 @@ Sin perjuicio de lo señalado en el inciso primero, tratándose de la suscripci�
 
 #### Artículo 67
 
-El alcalde deberá dar cuenta pública al concejo, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad.
+El alcalde deberá dar cuenta pública al concejo y al consejo comunal de organizaciones de la sociedad civil, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la municipalidad.
 
 La cuenta pública se efectuará mediante informe escrito, el cual deberá hacer referencia a lo menos a los siguientes contenidos:
 
@@ -1052,7 +1024,9 @@ Tampoco podrán ser candidatos a alcalde o a concejal las personas que se hallen
 
 #### Artículo 75
 
-Los cargos de concejales serán incompatibles con los de miembro de los consejos económicos y sociales provinciales y comunales, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe, con excepción de los cargos profesionales no directivos en educación, salud o servicios municipalizados. En el caso de que estos últimos profesionales desempeñen a su vez el cargo de concejal, el alcalde deberá respetar la autonomía en el ejercicio de las funciones de los concejales, especialmente la facultad de fiscalización.
+Los cargos de concejales serán incompatibles con los de miembro de los consejos económicos y sociales provinciales y consejos comunales de
+
+organizaciones de la sociedad civil, así como con las funciones públicas señaladas en las letras a) y b) del artículo anterior. También lo serán con todo empleo, función o comisión que se desempeñe en la misma municipalidad y en las corporaciones o fundaciones en que ella participe, con excepción de los cargos profesionales no directivos en educación, salud o servicios municipalizados. En el caso de que estos últimos profesionales desempeñen a su vez el cargo de concejal, el alcalde deberá respetar la autonomía en el ejercicio de las funciones de los concejales, especialmente la facultad de fiscalización.
 
 Tampoco podrán desempeñar el cargo de concejal:
 
@@ -1128,7 +1102,13 @@ i) Elegir, en un solo acto, a los integrantes del directorio que le corresponda 
 
 j) Solicitar informe a las empresas, corporaciones o fundaciones municipales, y a las entidades que reciban aportes o subvenciones de la municipalidad. En este último caso, la materia del informe sólo podrá consistir en el destino dado a los aportes o subvenciones municipales percibidos. Los informes requeridos deberán ser remitidos por escrito dentro del plazo de quince días;
 
-k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal;
+k) Otorgar su acuerdo para la asignación y cambio de denominación de los bienes municipales y nacionales de uso público bajo su administración, como asimismo, de poblaciones, barrios y conjuntos habitacionales del territorio comunal previo
+
+informe escrito del consejo
+
+comunal de organizaciones de
+
+la sociedad civil;
 
 l) Fiscalizar las unidades y servicios municipales;
 
@@ -1136,9 +1116,51 @@ ll) Autorizar los cometidos del alcalde y de los concejales que signifiquen ause
 
 Requerirán también autorización los cometidos del alcalde y de los concejales que se realicen fuera del territorio de la comuna por más de diez días.
 
-Un informe de dichos cometidos y su costo se incluirán en el acta del concejo, y
+Un informe de dichos cometidos y su costo se incluirán en el acta del concejo;
 
-m) Supervisar el cumplimiento del plan comunal de desarrollo.
+m) Supervisar el cumplimiento del plan comunal de desarrollo;
+
+n) Pronunciarse, a más tardar el
+
+31 de marzo de cada año, a solicitud
+
+del consejo comunal de organizaciones
+
+de la sociedad civil, sobre las
+
+materias de relevancia local que deben
+
+ser consultadas a la comunidad por
+
+intermedio de esta instancia, como
+
+asimismo la forma en que se efectuará
+
+dicha consulta, informando de ello a
+
+la ciudadanía, y
+
+ñ) Informar a las organizaciones
+
+comunitarias de carácter territorial
+
+y funcional; a las asociaciones sin
+
+fines de lucro y demás instituciones
+
+relevantes en el desarrollo económico,
+
+social y cultural de la comuna, cuando
+
+éstas así lo requieran, acerca de la
+
+marcha y funcionamiento de la municipalidad,
+
+de conformidad con los antecedentes que
+
+haya proporcionado el alcalde con
+
+arreglo al artículo 87.
 
 Lo anterior es sin perjuicio de las demás atribuciones y funciones que le otorga la ley.
 
@@ -1166,7 +1188,13 @@ En todo caso, el concejo sólo resolverá las modificaciones presupuestarias una
 
 El pronunciamiento del concejo sobre las materias consignadas en la letra b) del artículo 79 se realizará de la siguiente manera:
 
-a) El alcalde, en la primera semana de octubre, someterá a consideración del concejo las orientaciones globales del municipio, el presupuesto municipal y el programa anual, con sus metas y líneas de acción. En las orientaciones globales, se incluirán el plan comunal de desarrollo y sus modificaciones, las políticas de servicios municipales, como, asimismo, las políticas y proyectos de inversión. El concejo deberá pronunciarse sobre todas estas materias antes del 15 de diciembre, luego de evacuadas las consultas por el consejo económico y social comunal, cuando corresponda.
+a) El alcalde, en la primera semana de octubre, someterá a consideración del concejo las orientaciones globales del municipio, el presupuesto municipal y el programa anual, con sus metas y líneas de acción. En las orientaciones globales, se incluirán el plan comunal de desarrollo y sus modificaciones, las políticas de servicios municipales, como, asimismo, las políticas y proyectos de inversión. El concejo deberá pronunciarse sobre todas estas materias antes del 15 de diciembre, luego de evacuadas las consultas por el consejo
+
+comunal de organizaciones
+
+de la sociedad civil, cuando
+
+corresponda.
 
 b) El proyecto y las modificaciones del plan regulador comunal se regirán por los procedimientos específicos establecidos por las leyes vigentes.
 
@@ -1264,21 +1292,43 @@ De las instancias de participación
 
 Cada municipalidad deberá establecer en una ordenanza las modalidades de participación de la ciudadanía local, teniendo en consideración las características singulares de cada comuna, tales como la configuración del territorio comunal, la localización de los asentamientos humanos, el tipo de actividades relevantes del quehacer comunal, la conformación etárea de la población y cualquier otro elemento que, en opinión de la municipalidad, requiera una expresión o representación específica dentro de la comuna y que al municipio le interese relevar para efectos de su incorporación en la discusión y definición de las orientaciones que deben regir la administración comunal.
 
+Con todo, la ordenanza deberá contener una mención del tipo de las organizaciones que deben ser consultadas e informadas, como también las fechas o épocas en que habrán de efectuarse tales procesos. Asimismo, describirá los instrumentos y medios a través de los cuales se materializará la participación, entre los que podrán considerarse la elaboración de presupuestos participativos, consultas u otros.
+
 #### Artículo 94
 
-En cada municipalidad existirá un consejo económico y social comunal, compuesto por representantes de la comunidad local organizada. Será un órgano asesor de la municipalidad, el cual tendrá por objeto asegurar la participación de las organizaciones comunitarias de carácter territorial y funcional, y de actividades relevantes en el progreso económico, social y cultural de la comuna.
+En cada municipalidad existirá un consejo comunal de organizaciones de la sociedad civil.
 
-La integración, organización, competencias y funcionamiento de estos consejos, serán determinados por cada municipalidad, en un reglamento que el alcalde someterá a la aprobación del concejo.
+Éste será elegido por las organizaciones comunitarias de carácter territorial y funcional, y por las organizaciones de interés público de la comuna. Asimismo, y en un porcentaje no superior a la tercera parte del total de sus miembros, podrán integrarse a aquellos representantes de asociaciones gremiales y organizaciones sindicales, o de otras actividades relevantes para el desarrollo económico, social y cultural de la comuna.
 
-Los consejeros durarán cuatro años en sus funciones. El consejo será presidido por el alcalde y, en su ausencia, por el vicepresidente que elija el propio consejo de entre sus miembros.
+En ningún caso la cantidad de consejeros titulares podrá ser inferior al doble ni superior al triple de los concejales en ejercicio de la respectiva comuna.
 
-Con todo, los consejos deberán pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales de la comuna, y podrán además interponer el recurso de reclamación establecido en el Título Final de la presente ley.
+El consejo comunal de organizaciones de la sociedad civil se reunirá a lo menos cuatro veces por año bajo la presidencia del alcalde.
 
-El alcalde deberá informar al consejo acerca de los presupuestos de inversión, del plan comunal de desarrollo y del plan regulador. El consejo dispondrá de quince días para formular sus observaciones a dicho informe.
+Un reglamento, elaborado sobre la base de un reglamento tipo propuesto por la Subsecretaría
+
+de Desarrollo Regional y Administrativo que el alcalde respectivo someterá a la aprobación del concejo, determinará la integración, organización, competencia y funcionamiento del consejo comunal de organizaciones de la sociedad civil, como también la forma en que podrá autoconvocarse, cuando así lo solicite, por escrito, un tercio de sus integrantes. Dicho reglamento podrá ser modificado por
+
+los dos tercios de los miembros del Concejo, previo informe del consejo comunal de organizaciones de la sociedad civil.
+
+Los consejeros durarán cuatro años en sus funciones. En ausencia del alcalde, el consejo será presidido por el vicepresidente que elija el propio consejo de entre sus miembros. El secretario municipal desempeñará la función de ministro de fe de dicho organismo.
+
+Las sesiones del consejo serán públicas, debiendo consignarse en actas los asuntos abordados en sus reuniones y los acuerdos adoptados en las mismas. El secretario municipal mantendrá en archivo tales actas, así como los originales de la ordenanza de participación ciudadana y del reglamento del consejo, documentos que serán de carácter público.
+
+El alcalde deberá informar al consejo acerca de los presupuestos de inversión, del plan comunal de desarrollo y sobre las modificaciones al plan regulador, el que dispondrá de quince días hábiles para formular sus observaciones.
+
+Con todo, en el mes de marzo de cada año, el consejo deberá pronunciarse respecto de la cuenta pública del alcalde, sobre la cobertura y eficiencia de los servicios municipales, así como
+
+sobre las materias de relevancia comunal que hayan sido establecidas por el concejo, y podrá interponer el recurso de reclamación establecido en el Título final de la presente ley.
+
+Asimismo, los consejeros deberán informar a sus respectivas organizaciones, en sesión especialmente convocada al efecto y con la debida anticipación para recibir consultas y opiniones, acerca de la propuesta de presupuesto y del plan comunal de desarrollo, incluyendo el plan de inversiones y las modificaciones al plan regulador, como también sobre cualquier otra materia relevante que les haya presentado el alcalde o el concejo.
+
+Cada municipalidad deberá proporcionar los medios necesarios para el funcionamiento del consejo comunal de organizaciones de la sociedad civil.
 
 #### Artículo 95
 
-Para ser miembro del consejo económico y social comunal se requerirá:
+Para ser miembro del consejo comunal de organizaciones
+
+de la sociedad civil se requerirá:
 
 a) Tener 18 años de edad, con excepción de los representantes de organizaciones señalados en la Ley Nº 19.418;
 
@@ -1290,7 +1340,11 @@ d) No haber sido condenado por delito que merezca pena aflictiva.
 
 La inhabilidad contemplada en la letra anterior quedará sin efecto una vez transcurrido el plazo contemplado en el artículo 105 del Código Penal, desde el cumplimiento de la respectiva pena.
 
-Serán aplicables a los miembros del consejo económico y social comunal las inhabilidades e incompatibilidades que esta ley contempla para los miembros de los concejos en el artículo 74 y en la letra b) del artículo 75.
+Serán aplicables a los miembros del consejo comunal
+
+de organizaciones de la sociedad
+
+civil las inhabilidades e incompatibilidades que esta ley contempla para los miembros de los concejos.
 
 Asimismo, serán incompatibles con los cargos de consejeros regionales, concejales y consejeros provinciales.
 
@@ -1310,7 +1364,7 @@ Sin perjuicio de la facultad reguladora del concejo, la solicitud de audiencia p
 
 #### Artículo 98
 
-Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad deberá habilitar y mantener en funcionamiento una oficina de partes y reclamos abierta a la comunidad en general. La ordenanza de participación establecerá un procedimiento público para el tratamiento de las presentaciones o reclamos, como asimismo los plazos en que el municipio deberá dar respuesta a ellos, los que, en ningún caso, serán superiores a treinta días.
+Sin perjuicio de lo dispuesto en los artículos anteriores, cada municipalidad deberá habilitar y mantener en funcionamiento una oficina de informaciones, reclamos y sugerencias abierta a la comunidad. La ordenanza de participación establecerá un procedimiento público para el tratamiento de las presentaciones o reclamos, como asimismo los plazos en que el municipio deberá dar respuesta a ellos, los que, en ningún caso, serán superiores a treinta días, de acuerdo a las disposiciones contenidas en la ley Nº 19.880.
 
 La información y documentos municipales son públicos. En dicha oficina deberán estar disponibles, para quien los solicite, a lo menos los siguientes antecedentes:
 
@@ -1330,11 +1384,55 @@ De los plebiscitos comunales
 
 #### Artículo 99
 
-El alcalde, con acuerdo del concejo, o a requerimiento de los dos tercios del mismo concejo o por iniciativa de los ciudadanos inscritos en los registros electorales de la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan comunal de desarrollo, a la modificación del plan regulador u otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
+El alcalde, con
+
+acuerdo del concejo, a requerimiento
+
+de los dos tercios de los integrantes
+
+en ejercicio del mismo y a solicitud
+
+de dos tercios de los integrantes en
+
+ejercicio del consejo comunal de
+
+organizaciones de la sociedad civil,
+
+ratificada por los dos tercios de los
+
+concejales en ejercicio, o por iniciativa
+
+de los ciudadanos inscritos en los
+
+registros electorales de la comuna,
+
+someterá a plebiscito las materias
+
+de administración local relativas a
+
+inversiones específicas de desarrollo
+
+comunal, a la aprobación o
+
+modificación del plan comunal de
+
+desarrollo, a la modificación del
+
+plan regulador o a otras de interés
+
+para la comunidad local, siempre
+
+que sean propias de la esfera de
+
+competencia municipal, de acuerdo
+
+con el procedimiento establecido
+
+en los artículos siguientes.
 
 #### Artículo 100
 
-Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 10% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
+Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 5% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
 
 #### Artículo 101
 
@@ -1658,7 +1756,15 @@ Los reclamos que se interpongan en contra de las resoluciones u omisiones ilegal
 
 a) Cualquier particular podrá reclamar ante el alcalde contra sus resoluciones u omisiones o las de sus funcionarios, que estime ilegales, cuando éstas afecten el interés general de la comuna. Este reclamo deberá entablarse dentro del plazo de treinta días, contado desde la fecha de publicación del acto impugnado, tratándose de resoluciones, o desde el requerimiento de las omisiones;
 
-b) El mismo reclamo podrán entablar ante el alcalde los particulares agraviados por toda resolución u omisión de éste o de otros funcionarios, que estimen ilegales, dentro del plazo señalado en la letra anterior, contado desde la notificación administrativa de la resolución reclamada o desde el requerimiento, en el caso de las omisiones;
+b) El mismo reclamo podrán entablar ante el alcalde los particulares agraviados por toda resolución u omisión de
+
+funcionarios, que estimen ilegales,
+
+dentro del plazo señalado en
+
+la letra anterior, contado desde
+
+la notificación administrativa de la resolución reclamada o desde el requerimiento, en el caso de las omisiones;
 
 c) Se considerará rechazado el reclamo si el alcalde no se pronunciare dentro del término de quince días, contado desde la fecha de su recepción en la municipalidad;
 
@@ -1731,6 +1837,12 @@ Para los efectos de lo dispuesto en el artículo 19 de esta ley, en tanto no se 
 #### Artículo 4°
 
 En aquellas municipalidades pertenecientes a las regiones declaradas zonas de catástrofe, en conformidad al decreto supremo N° 150, de 2010, del Ministerio del Interior, el plazo a que se refiere el inciso primero del artículo 67 de esta ley se extenderá hasta el 31 de agosto de 2010.
+
+#### Artículo 5º
+
+La ordenanza a que alude el artículo 93 y el reglamento señalado en el artículo 94 deberán dictarse dentro del plazo de 180 días siguientes a la fecha de publicación de la presente ley.
+
+Los consejos comunales de organizaciones de la sociedad civil deberán quedar instalados en el plazo de 60 días, contado desde la fecha de publicación del reglamento mencionado en el inciso precedente.
 
 Anótese, tómese razón y publíquese.- Andrés Zaldívar Larraín, Vicepresidente de la República.-
 

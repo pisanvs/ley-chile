@@ -26,15 +26,15 @@ El Ministerio Secretaría General de Gobierno estará integrado por el Ministro,
 
 Con la sóla excepción de la Región Metropolitana, existirá en cada región del país una Secretaría Regional Ministerial, dependiente técnica y administrativamente del Ministerio Secretaría General de Gobierno, la que, además de servir de organismo asesor del respectivo Intendente, ejecutará en su ámbito jurisdiccional las funciones propias de la cartera.
 
-#### Artículo 3°
+#### Artículo 3º
 
-Corresponderá especialmente a la División de Organizaciones Sociales:
+Corresponderá, especialmente, a la División de Organizaciones Sociales:
 
-a) contribuir a hacer más eficientes los mecanismos de vinculación, interlocución y comunicación entre el gobierno y las organizaciones sociales;
+a) Contribuir a hacer más eficientes los mecanismos de vinculación, interlocución y comunicación entre el gobierno y las organizaciones sociales, favoreciendo el asociacionismo y el fortalecimiento de la sociedad civil.
 
-b) facilitar la expresión de las necesidades de la ciudadanía; y
+b) Promover la participación de la ciudadanía en la gestión de las políticas públicas.
 
-c) mejorar el conocimiento y la comprensión de los planes y programas derivados de las políticas de gobierno, de modo de estimular la integración social.
+c) Coordinar, por los medios pertinentes, la labor del Ministerio señalada en la letra i) del artículo 2º de la ley Nº 19.032.
 
 #### Artículo 4°
 

@@ -26,7 +26,7 @@ Deberán actuar dentro de su competencia y no tendrán más atribuciones que las
 
 La Administración del Estado está al servicio de la persona humana; su finalidad es promover el bien común atendiendo las necesidades públicas en forma continua y permanente y fomentando el desarrollo del país a través del ejercicio de las atribuciones que le confiere la Constitución y la ley, y de la aprobación, ejecución y control de políticas, planes, programas y acciones de alcance nacional, regional y comunal.
 
-La Administración del Estado deberá observar los principios de responsabilidad, eficiencia, eficacia, coordinación, impulsión de oficio del procedimiento, impugnabilidad de los actos administrativos, control, probidad, transparencia y publicidad administrativas, y garantizará la debida autonomía de los grupos intermedios de la sociedad para cumplir sus propios fines específicos, respetando el derecho de las personas para realizar cualquier actividad económica en conformidad con la Constitución Política y las leyes.
+La Administración del Estado deberá observar los principios de responsabilidad, eficiencia, eficacia, coordinación, impulsión de oficio del procedimiento, impugnabilidad de los actos administrativos, control, probidad, transparencia y publicidad administrativas y participación ciudadana en la gestión pública, y garantizará la debida autonomía de los grupos intermedios de la sociedad para cumplir sus propios fines específicos, respetando el derecho de las personas para realizar cualquier actividad económica en conformidad con la Constitución Política y las leyes.
 
 #### Artículo 4º
 
@@ -82,29 +82,9 @@ Los funcionarios de la Administración del Estado deberán observar el principio
 
 La función pública se ejercerá con transparencia, de manera que permita y promueva el conocimiento de los procedimientos, contenidos y fundamentos de las decisiones que se adopten en ejercicio de ella.
 
-Son públicos los actos administrativos de los órganos de la Administración del Estado y los documentos que les sirvan de sustento o complemento directo y esencial.
+INCISOS DEROGADOS.
 
-La publicidad a que se refiere el inciso anterior se extiende a los informes y antecedentes que las empresas privadas que presten servicios de utilidad pública y las empresas a que se refieren los incisos tercero y quinto del Artículo 37 de la ley Nº
-
-18.046, sobre Sociedades Anónimas, proporcionen a las entidades estatales encargadas de su fiscalización, en la medida que sean de interés público, que su difusión no afecte el debido funcionamiento de la empresa y que el titular de dicha información no haga uso de su derecho a denegar el acceso a la misma, conforme a lo establecido en los incisos siguientes.
-
-En caso de que la información referida en los incisos anteriores no se encuentre a disposición del público de modo permanente, el interesado tendrá derecho a requerirla por escrito al jefe del servicio respectivo.
-
-Cuando el requerimiento se refiera a documentos o antecedentes que contengan información que pueda afectar los derechos o intereses de terceros, el jefe superior del órgano requerido, dentro del plazo de cuarenta y ocho horas, deberá comunicar mediante carta certificada, a la o las personas a que se refiere o afecta la información correspondiente, la facultad que les asiste para oponerse a la entrega de los documentos solicitados, adjuntando copia del requerimiento respectivo.
-
-Los terceros interesados podrán ejercer su derecho de oposición dentro del plazo de tres días hábiles contado desde la fecha de notificación, la cual se entenderá practicada al tercer día de despachada la correspondiente carta certificada. La oposición deberá presentarse por escrito y no requerirá expresión de causa.
-
-Deducida la oposición en tiempo y forma, el órgano requerido quedará impedido de proporcionar la documentación o antecedentes solicitados, salvo resolución judicial en contrario, dictada conforme al procedimiento que establece el Artículo siguiente. En caso de no deducirse la oposición, se entenderá que el tercero afectado accede a la publicidad de dicha información, a menos que el jefe superior requerido estime fundadamente que la divulgación de la información involucrada afecta sensiblemente los derechos o intereses de los terceros titulares de la misma.
-
-El jefe superior del órgano requerido deberá pronunciarse sobre la petición, sea entregando la documentación solicitada o negándose a ello, dentro del plazo de cuarenta y ocho horas contado desde la formulación del requerimiento, o desde la expiración del plazo concedido al tercero afectado, en el caso previsto en el inciso séptimo.
-
-El jefe superior del órgano requerido deberá proporcionar la documentación que se les solicite, salvo que concurra alguna de las causales que establece el inciso siguiente, que le autorizan a negarse.
-
-En este caso, su negativa a entregar la documentación deberá formularse por escrito y fundadamente, especificando las razones que en cada caso motiven su decisión.
-
-Las únicas causales en cuya virtud se podrá denegar la entrega de los documentos o antecedentes requeridos son la reserva o secreto establecidos en disposiciones legales o reglamentarias; el que la publicidad impida o entorpezca el debido cumplimiento de las funciones del órgano requerido; la oposición deducida en tiempo y forma por los terceros a quienes se refiere o afecta la información contenida en los documentos requeridos; el que la divulgación o entrega de los documentos o antecedentes requeridos afecte sensiblemente los derechos o intereses de terceras personas, según calificación fundada efectuada por el jefe superior del órgano requerido, y el que la publicidad afecte la seguridad de la Nación o el interés nacional.
-
-Uno o más reglamentos establecerán los casos de secreto o reserva de la documentación y antecedentes que obren en poder de los órganos de la Administración del Estado.
+> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
 
 #### Artículo 14
 
@@ -152,7 +132,9 @@ De la Organización y Funcionamiento
 
 La organización básica de los Ministerios, las Intendencias, las Gobernaciones y los servicios públicos creados para el cumplimiento de la función administrativa, será la establecida en este Título.
 
-Las normas del presente Título no se aplicarán a la Contraloría General de la República, al Banco Central, a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública, los Gobiernos Regionales, a las Municipalidades, al Consejo Nacional de Televisión y a las empresas públicas creadas por ley, órganos que se regirán por las normas constitucionales pertinentes y por sus respectivas leyes orgánicas constitucionales o de quórum calificado, según corresponda.
+Las normas del presente Título no se aplicarán a la Contraloría General de la República, al Banco Central, a las Fuerzas Armadas y a las Fuerzas de Orden y Seguridad Pública, los Gobiernos Regionales, a las Municipalidades, al Consejo Nacional de Televisión, al Consejo para la Transparencia y a las empresas públicas creadas por ley, órganos que se regirán por las normas constitucionales pertinentes y por sus respectivas leyes orgánicas constitucionales o de quórum calificado, según corresponda.
+
+> **Nota.** El artículo transitorio de la LEY 20285, publicada el 20.08.2008, dispone que la modificación de la presente norma, entrará en vigencia ocho meses después de su publicación.
 
 #### Artículo 22
 
@@ -578,9 +560,179 @@ DEROGADO
 
 Las resoluciones que impongan las multas contempladas en el Artículo 65, serán reclamables ante la Corte de Apelaciones con jurisdicción en el lugar en que debió presentarse la declaración. La reclamación deberá ser fundada, estar acompañada de los documentos probatorios en que se base y ser presentada dentro de quinto día de notificada la resolución. La reclamación será interpuesta ante la autoridad que dictó la resolución, la que dentro de los dos días hábiles siguientes deberá enviar a la Corte de Apelaciones todos los antecedentes del caso. La Corte de Apelaciones resolverá en cuenta, sin esperar la comparecencia del reclamante, dentro de los seis días hábiles siguientes de recibidos por la secretaría del tribunal los antecedentes o aquellos otros que mande agregar de oficio. La resolución de la Corte de Apelaciones no será susceptible de recurso alguno.
 
-TITULO FINAL
+## Título IV
+
+De la participación ciudadana en
+
+la gestión pública
 
 #### Artículo 69
+
+El Estado reconoce
+
+a las personas el derecho de participar
+
+en sus políticas, planes, programas
+
+y acciones.
+
+Es contraria a las normas
+
+establecidas en este Título toda
+
+conducta destinada a excluir o discriminar,
+
+sin razón justificada, el ejercicio
+
+del derecho de participación ciudadana
+
+señalado en el inciso anterior.
+
+#### Artículo 70
+
+Cada órgano de la
+
+Administración del Estado deberá
+
+establecer las modalidades formales
+
+y específicas de participación que
+
+tendrán las personas y organizaciones
+
+en el ámbito de su competencia.
+
+Las modalidades de participación
+
+que se establezcan deberán mantenerse
+
+actualizadas y publicarse a través de
+
+medios electrónicos u otros.
+
+#### Artículo 71
+
+Sin perjuicio de
+
+lo establecido en el artículo anterior,
+
+cada órgano de la Administración del
+
+Estado deberá poner en conocimiento
+
+público información relevante acerca de
+
+sus políticas, planes, programas, acciones
+
+y presupuestos, asegurando que ésta sea
+
+oportuna, completa y ampliamente accesible.
+
+Dicha información se publicará en medios
+
+electrónicos u otros.
+
+#### Artículo 72
+
+Los órganos de la
+
+Administración del Estado, anualmente,
+
+darán cuenta pública participativa a la
+
+ciudadanía de la gestión de sus políticas,
+
+planes, programas, acciones y de su
+
+ejecución presupuestaria.
+
+Dicha cuenta deberá desarrollarse
+
+desconcentradamente, en la forma y plazos
+
+que fije la norma establecida en el
+
+#### Artículo 70
+
+En el evento que a dicha cuenta se
+
+le formulen observaciones, planteamientos
+
+o consultas, la entidad respectiva deberá dar
+
+respuesta conforme a la norma mencionada
+
+anteriormente.
+
+#### Artículo 73
+
+Los órganos de la
+
+Administración del Estado, de oficio o a
+
+petición de parte, deberán señalar aquellas
+
+materias de interés ciudadano en que se
+
+requiera conocer la opinión de las personas,
+
+en la forma que señale la norma a que alude
+
+el artículo 70.
+
+La consulta señalada en el inciso
+
+anterior deberá ser realizada de manera
+
+informada, pluralista y representativa.
+
+Las opiniones recogidas serán evaluadas
+
+y ponderadas por el órgano respectivo, en la
+
+forma que señale la norma de aplicación
+
+general.
+
+#### Artículo 74
+
+Los órganos de la
+
+Administración del Estado deberán
+
+establecer consejos de la sociedad
+
+civil, de carácter consultivo, que
+
+estarán conformados de manera diversa,
+
+representativa y pluralista por
+
+integrantes de asociaciones sin fines de
+
+lucro que tengan relación con la
+
+competencia del órgano respectivo.
+
+#### Artículo 75
+
+Las normas de este
+
+Título no serán aplicables a los órganos
+
+del Estado señalados en el inciso
+
+segundo del artículo 21 de esta ley.
+
+Dichos órganos podrán establecer
+
+una normativa especial referida a la
+
+participación ciudadana.
+
+TITULO FINAL
+
+#### Artículo 76
 
 Derógase el Artículo 5º del decreto ley Nº 2.345, de 1978, y el decreto ley Nº 3.410, de 1980.
 
