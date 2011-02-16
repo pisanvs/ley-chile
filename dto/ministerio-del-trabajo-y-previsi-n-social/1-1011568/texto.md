@@ -14,21 +14,21 @@ Decreto:
 
 1.- El Programa Inversión en la Comunidad tiene como objetivo el financiamiento de obras en el ámbito local, mediante proyectos intensivos en el uso de mano de obra, contratada al efecto y que presenten un claro beneficio comunitario.
 
-2.- La asignación de recursos del Programa Inversión en la Comunidad, en adelante el "Programa", se orientará a beneficiarios y beneficiarias que cumplan con los siguientes requisitos:
+2.- La asignación de recursos del Programa Inversión en la Comunidad, en adelante el "Programa", se orientará a beneficiarios y beneficiarias que:
 
-a) Ser mayor de 18 años;
+- **a)** tengan entre 18 y 65 años;
 
-b) Ser trabajador desempleado;
+- **b)** sean trabajadores desempleados;
 
-c) Vivir preferentemente en regiones o comunas que presenten tasas de desocupación superiores al promedio de desempleo nacional;
+- **c)** vivan preferentemente en regiones o comunas que presenten tasas de desocupación superiores al promedio de desempleo nacional;
 
-d) Presentar certificado vigente de la Ficha de Protección Social o del instrumento de focalización que la reemplace;
+- **d)** presenten certificado vigente de la Ficha de Protección Social o del instrumento de focalización que la reemplace;
 
-e) Presentar certificado de afiliación vigente, emitido por la Superintendencia de Pensiones y/o certificado de cotizaciones previsionales vigente emitido por alguna administradora de fondos de pensión, y
+- **e)** presenten certificado de afiliación vigente, emitido por la Superintendencia de Pensiones y/o certificado de cotizaciones previsionales vigente emitido por alguna administradora de fondos de pensión, y
 
-f) Contar con inscripción vigente en la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la Municipalidad cumplan funciones similares cuando en la misma no exista lo anterior.
+- **f)** inscripción vigente en la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la Municipalidad cumplan funciones similares cuando en la misma no exista la anterior.
 
-No podrán acceder a este programa quienes perciban ingresos por concepto de una o más pensiones, cualquiera que sea su naturaleza, cuyo monto total sea superior a un ingreso mínimo mensual.
+No podrán acceder a este programa quienes perciban ingresos por concepto de una o más pensiones, cualquiera que sea su naturaleza, cuyos montos sean superiores al cincuenta por ciento del ingreso mínimo mensual.
 
 3.- El programa considera los siguientes componentes o líneas de acción:
 
@@ -89,16 +89,6 @@ Si el Programa Pro Empleo determinare la necesidad de suplementar fondos en este
 11.- Tanto la Subsecretaría del Trabajo como SENCE deberán dar cumplimiento a las normas de transparencia y control dispuestas en la glosa 2 de la Partida 15-01-03 de la Ley de Presupuestos, las contempladas en la ley Nº 20.285 Sobre Acceso a la Información Pública así como las contempladas en la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, velando por la correcta y eficiente inversión de los fondos comprometidos, la igualdad en el acceso a los beneficios por parte de los ciudadanos y la adecuada actuación de los funcionarios públicos y demás colaboradores de la función del Estado involucrados en este Programa.
 
 12.- Conforme a lo señalado en la glosa 10 asociada al programa 264 del Programa 03 Pro Empleo, esta unidad, dependiente de la Subsecretaría del Trabajo, preparará trimestralmente el informe ahí señalado a efectos de ser presentado a la Comisión Mixta de Presupuestos, incluyendo a lo menos las actividades realizadas por el Programa, el monto de los recursos invertidos en cada actividad, las personas o entidades receptoras o ejecutoras de esos recursos, el método utilizado para la asignación de los mismos y un informe con los resultados y logros obtenidos. Todo ello dentro de los primeros quince días después del vencimiento del respectivo trimestre, formato que será enviado por la Subsecretaría del Trabajo.
-
-13.- Durante el plazo de seis meses, el que podrá ser prorrogado por resolución fundada del Subsecretario del Trabajo, los requisitos establecidos en las letras c), d) y f) del numeral Nº 2 del presente decreto, no serán exigibles a quienes, durante el período antes señalado, ingresen al Programa de Inversión en la Comunidad, de la Subsecretaría del Trabajo, siempre que habiten en las regiones de Arica y Parinacota y de Tarapacá y hayan perdido su fuente laboral como consecuencia de los terremotos ocurridos durante la primera semana de abril de 2014.
-
-El plazo establecido en el inciso anterior se contará desde la publicación del acto administrativo que incorpora este numeral al presente decreto.
-
-14.- Por el plazo de 3 meses, prorrogable por una sola vez por resolución fundada del Subsecretario del Trabajo, los requisitos establecidos en las letras c), d), e) y f)del numeral Nº 2 del presente decreto, no serán exigibles a los beneficiarios y beneficiarias del Programa de Inversión en la Comunidad de la Subsecretaría del Trabajo que habiten en la región de Atacama y las comunas de Antofagasta y Taltal.
-
-El plazo establecido en el inciso anterior se contará desde la fecha del acto administrativo que incorpora este numeral al presente decreto.
-
-> **Nota.** El artículo único de la Resolución 1933, Trabajo, publicado el 09.10.2015, modifica la presente norma en el sentido de prorrogar a contar del 18 de agosto de 2015, y por el período de tres meses contados desde esa fecha, la vigencia del numeral 14.
 
 Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
 
