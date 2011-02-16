@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 326, DE 2010
+
+Por resolución Nº 326, de 4 de noviembre de 2010, del Ministerio de Transportes y Telecomunicaciones, se aprobó la modificación al contrato de concesión de uso de vías de la ciudad de Santiago para la prestación de servicios urbanos de transporte público remunerado de pasajeros mediante buses, de 26 de octubre de 2010, suscrita entre Unión del Transporte S.A., concesionario de la Unidad de Negocio Alimentadora Nº 3 y el Ministerio de Transportes y Telecomunicaciones, que reemplaza las Cláusulas 6 y 7 de la modificación de contrato aprobada mediante resolución Nº 86, de 2009, del Ministerio de Transportes y Telecomunicaciones, que versan sobre los ingresos del concesionario por la prestación de servicios de transporte y fechas de pago, respectivamente, así como el Anexo I de dicho instrumento.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
