@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3522 EXENTA, DE 2010
+
+Por resolución exenta Nº 3.522, de 24 de noviembre de 2010, del Ministerio de Transportes y Telecomunicaciones, se aprobó la modificación del addendum al Contrato de Concesión de Uso de Vías de la ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses, suscrita el 23 de noviembre de 2010 entre Buses Gran Santiago S.A., concesionario de la Unidad de Negocio Alimentadora Nº 8, y el Ministerio de Transportes y Telecomunicaciones, que elimina el numeral 2 de la cláusula 3 del Addendum suscrito el 1 de octubre de 2010 y reliquida conforme a las variables "Plazas y Kilómetros Bases Etapa II", establecidas en el anexo de la modificación de contrato suscrita entre ambas partes el 11 de noviembre de 2009.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
