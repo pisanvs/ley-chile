@@ -16,8 +16,6 @@ Resolución:
 
 2. Los recursos asignados para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta Resolución se distribuyen regionalmente, según el siguiente cuadro:
 
-VER DIARIO OFICIAL DE 01.07.2009, PÁGINA 15.
-
 El número de proyectos seleccionados en cada Región cada mes alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a cada selección mensual, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan, hasta completar el total de sus recursos.
 
 ### 3. La primera selección se iniciará el día 31 de marzo de 2009
@@ -30,11 +28,7 @@ El número de proyectos seleccionados en cada Región cada mes alcanzará hasta 
 
 7. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los SERVIU en los términos previstos en el D.S. N° 255 (V. y U.), de 2006.
 
-> **Nota.** El Nº 1 de la Resolución 2935 Exenta, Vivienda, publicada el 11.05.2009, reemplaza el cuadro inserto en el punto resolutivo 2 de la presente norma, por el que en ella se indica.
-
-> **Nota.** NOTA 1 El Nº 1 de la Resolución 3645 Exenta, Vivienda, publicada el 04.06.2009, reemplaza el cuadro inserto en el punto resolutivo 2 de la presente norma, por el que en ella se indica.
-
-> **Nota.** NOTA 2 El Nº 2 de la Resolución 4517 Exenta, Vivienda, publicada el 01.07.2009, reemplaza el cuadro inserto en el punto resolutivo 2 de la presente norma, por el que en ella se indica.
+> **Nota.** La Resolución 7228 Exenta, Vivienda, publicado el 19.10.2009, posterga, hasta el día 30 de octubre de 2009, la fecha de inicio del proceso de selección correspondiente al mes de septiembre de 2009 definida en el punto resolutivo 1 de la esta norma.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
