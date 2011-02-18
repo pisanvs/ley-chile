@@ -1,0 +1,25 @@
+APLICA EL AJUSTE DE TARIFAS DEL SISTEMA DE TRANSPORTE PÚBLICO DE LA PROVINCIA DE SANTIAGO Y LAS COMUNAS DE SAN BERNARDO Y PUENTE ALTO
+
+Núm. 310 exenta.- Santiago, 11 de febrero de 2011.- Visto: Lo dispuesto en los decretos con fuerza de ley Nº 279, de 1960, y Nº 343, de 1953, ambos del Ministerio de Hacienda; el decreto ley Nº 557; la ley Nº 20.378, modificada por la ley Nº 20.468; los decretos supremos Nº 40, de 2010; Nº 140, de 2009, y Nº 68, de 2010, todos del Ministerio de Transportes y Telecomunicaciones en conjunto con el Ministerio de Hacienda; el decreto supremo Nº 45, de 1989, del Ministerio de Transportes y Telecomunicaciones en conjunto con los Ministerios de Educación Pública y Economía, Fomento y Reconstrucción; la resolución Nº 1600, de 2008, de la Contraloría General de la República; la resolución Nº 35, de 2009, modificada por las resoluciones exentas Nº 1.514, Nº 1.866 y Nº 1.867, de 2010, y Nº 69, de 2011, todas del Ministerio de Transportes y Telecomunicaciones; la resolución Nº 29, de 2010, rectificada por la resolución Nº 2, de 2011, ambas del Panel de Expertos; la Carta AFT GG-036/2011, de 7 de enero de 2011, del Administrador Financiero de Transantiago S.A.; la resolución exenta Nº 116, de 14 de enero de 2011, del Ministerio de Transportes y Telecomunicaciones; la resolución Nº 5, de 2011, del Panel de Expertos, y la demás normativa aplicable,
+
+Considerando:
+
+1º Que de acuerdo a lo establecido en el artículo 14 literal a) de la ley Nº 20.378, al Panel de Expertos le corresponde la atribución por la cual determina mensualmente el ajuste de tarifas del sistema de transporte público.
+
+2º Que en virtud de lo dispuesto en la resolución Nº 29, de 2010, rectificada por la resolución Nº 2, de 2011, del Panel de Expertos de la ley Nº 20.378 y la resolución exenta Nº 116, de 14 enero de 2011, del Ministerio de Transportes y Telecomunicaciones, la tarifa alimentador adulto (Taa), a partir del 25 de enero de 2011, es de quinientos veinte pesos ($520).
+
+3º Que a través de resolución Nº 5, de 2011, el Panel de Expertos, en ejercicio de la facultad conferida en el literal a), del artículo 14, de la ley Nº 20.378, que señala como una de sus funciones "Determinar mensualmente el ajuste de tarifas del sistema de transporte público de la provincia de Santiago y de las comunas de San Bernardo y Puente Alto, requerido para mantener el valor real de éstas, de acuerdo a la metodología que será establecida en un reglamento emitido a través del Ministro de Transportes y Telecomunicaciones, el que también será suscrito por el Ministro de Hacienda. Dicha metodología deberá dar cuenta de las variaciones de los costos del sistema de transporte público remunerado de pasajeros", determinó el ajuste mensual de tarifas del sistema de transporte público de pasajeros para la provincia de Santiago y las comunas de San Bernardo y Puente Alto, en un alza de veinte pesos ($20), a partir del valor de las tarifas a que se refiere la resolución Nº 29, de 2010, modificada mediante la resolución Nº 2 de 2011, citadas en el visto, a aplicarse a contar del 21 de febrero de 2011, según se detalla en dicha resolución.
+
+4º Que conforme a lo anterior y, habiéndose cumplido con los trámites legales señalados en la ley Nº 20.378 y los decretos supremos dictados por el Ministerio de Transportes y Telecomunicaciones en conjunto con el Ministerio de Hacienda, esta autoridad debe aplicar el ajuste y el nuevo nivel de tarifas para la provincia de Santiago y las comunas de San Bernardo y Puente Alto, determinados por el Panel de Expertos a través de la resolución Nº 5, de 2011, ya citada y, ordenar que sean implementados por el Administrador Financiero de Transantiago S.A.
+
+5º Que, en consecuencia, corresponde conforme lo prescribe la ley Nº 20.378, ajustar las tarifas en los términos resueltos por el referido Panel.
+
+Resuelvo:
+
+1º Aplícase, a partir del 21 de febrero de 2011, el ajuste de tarifas del sistema de transporte público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, determinado por el Panel de Expertos, en la resolución exenta Nº 5, de 2011, consistente en un alza de veinte pesos ($20), de forma que la Tarifa servicios puro será la que se indica a continuación.
+
+2º Instrúyese, a través de la presente resolución, al Administrador Financiero de Transantiago S.A., implementar el ajuste de tarifa de veinte pesos ($20) ordenado en la resolución exenta Nº 5, de 2011, del Panel de Expertos, señalado en el considerando 3º de la presente resolución, a partir de la fecha en ella indicada, esto es, 21 de febrero de 2011.
+
+Anótese, publíquese y notifíquese.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
+
+Lo que transcribo para su conocimiento.- Saluda a Ud., Alejandra Domínguez Effa, Jefa División Administración y Finanzas.
