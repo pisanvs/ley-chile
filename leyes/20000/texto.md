@@ -276,7 +276,7 @@ De las medidas de protección a testigos, peritos, agentes encubiertos, revelado
 
 #### Artículo 30
 
-Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, en cualquier etapa del procedimiento, cuando el Ministerio Público estimare, por las circunstancias del caso, que existe riesgo o peligro grave para la vida o la integridad física de un testigo o de un perito, de un informante o de un agente encubierto o revelador y, en general de quienes hayan colaborado eficazmente en el procedimiento, en los términos del artículo 22, como asimismo de su cónyuge, o conviviente civil, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
+Sin perjuicio de las reglas generales sobre protección a los testigos contempladas en el Código Procesal Penal, en cualquier etapa del procedimiento, cuando el Ministerio Público estimare, por las circunstancias del caso, que existe riesgo o peligro grave para la vida o la integridad física de un testigo o de un perito, de un informante o de un agente encubierto o revelador y, en general de quienes hayan colaborado eficazmente en el procedimiento, en los términos del artículo 22, como asimismo de su cónyuge, ascendientes, descendientes, hermanos u otras personas a quienes se hallaren ligados por relaciones de afecto, dispondrá, de oficio o a petición de parte, las medidas especiales de protección que resulten adecuadas.
 
 Para proteger la identidad de los que intervengan en el procedimiento, su domicilio, profesión y lugar de trabajo, el fiscal podrá aplicar medidas tales como:
 
@@ -464,15 +464,9 @@ De la aplicación de la pena
 
 #### Artículo 52
 
-Si el sentenciado no pagare la multa impuesta en virtud de la letra a) del artículo 50, el tribunal podrá aplicar, por vía de sustitución, la pena de asistencia obligatoria a programas de prevención hasta por 60 días, o de tratamiento o rehabilitación, en su caso, por un período de hasta 180 días, en instituciones autorizadas por el servicio de salud competente, o la pena de prestación de servicios en beneficio de la comunidad.
+Si el sentenciado no pagare la multa impuesta sufrirá, por vía de sustitución, la pena de reclusión, regulándose un día por cada media unidad tributaria mensual. En todo caso, la reclusión no podrá exceder de seis meses.
 
-Para proceder a cualquiera de dichas sustituciones, se requerirá del acuerdo del condenado. En caso contrario, el tribunal impondrá, por vía de sustitución y apremio de la multa, la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
-
-En caso de incumplimiento de las penas de asistencia obligatoria a programas de prevención o de tratamiento o rehabilitación, el encargado de la respectiva institución informará al tribunal que haya impuesto la sanción, el que lo citará a una audiencia, conjuntamente con el condenado, su defensor y el Ministerio Público, para resolver sobre la mantención o revocación de la pena. En caso de decretarse la revocación, el tribunal impondrá al condenado la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
-
-En cuanto a la regulación y revocación de la pena de servicios en favor de la comunidad, regirán las disposiciones contenidas en los artículos 49 a 49 sexies del Código Penal.
-
-Sin perjuicio de lo dispuesto en los incisos anteriores, en casos debidamente calificados el tribunal podrá eximir al condenado del pago de la multa o imponerle una inferior al mínimo establecido en la ley, debiendo dejar constancia en la sentencia o en la resolución posterior a ésta, de las razones que motivaron la decisión.
+Sin perjuicio de lo dispuesto en el inciso anterior, en casos debidamente calificados, el tribunal podrá eximir al condenado del pago de multa o imponerle una inferior al mínimo establecido en esta ley, debiendo dejar constancia en la sentencia de las razones que motivaron su decisión.
 
 #### Artículo 53
 
@@ -554,7 +548,7 @@ Para efectos de lo dispuesto en este artículo, el juez de garantía o el Minist
 
 #### Artículo 62
 
-No se aplicará ninguna de las penas sustitutivas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante establecida en el artículo 22.
+No se aplicará ninguna de las medidas alternativas contempladas en la ley Nº 18.216 a la persona que haya sido condenada con anterioridad por alguno de los crímenes o simples delitos contemplados en esta ley o en la ley Nº 19.366, en virtud de sentencia ejecutoriada, haya cumplido, o no, efectivamente la condena, a menos que le sea reconocida la circunstancia atenuante establecida en el artículo 22.
 
 #### Artículo 63
 

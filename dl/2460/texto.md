@@ -14,7 +14,7 @@ La Policía de Investigaciones de Chile es una Institución Policial de carácte
 
 En el cumplimiento de sus funciones, la Institución se relacionará con las Secretarías de Estado, por intermedio de la Dirección General.
 
-En lo que respecta a las relaciones con las Delegaciones Presidenciales Regionales, Delegaciones Presidenciales Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
+En lo que respecta a las relaciones con las Intendencias Regionales, Gobernaciones Provinciales, Alcaldías, y otros organismos regionales, provinciales o locales, Investigaciones de Chile se vinculará con ellos mediante las Jefaturas de Zona, Prefecturas, Comisarías y Unidades Menores, según proceda.
 
 #### Artículo 2°
 
@@ -30,17 +30,13 @@ En el Centro de Capacitación Profesional se efectuarán los cursos de especiali
 
 En el Instituto Superior de Investigaciones se realizarán los cursos de perfeccionamiento de los Oficiales, y los de formación de los jefes de la Institución.
 
-#### Artículo 3º bis
-
-La dotación máxima de ingreso de los alumnos al primer año de formación en la Escuela de Investigaciones se determinará, a más tardar, el mes de junio de cada año, con vigencia al año siguiente, por decreto supremo del Ministerio del Interior y Seguridad Pública, expedido por medio de la Subsecretaría del Interior, el que deberá contar con la firma del Ministro de Hacienda.
-
 #### Artículo 4°
 
 La misión fundamental de la Policía de Investigaciones de Chile es investigar los delitos de conformidad a las instrucciones que al efecto dicte el Ministerio Público, sin perjuicio de las actuaciones que en virtud de la ley le corresponde realizar sin mediar instrucciones particulares de los fiscales.
 
 #### Artículo 5°
 
-Corresponde en especial a Policía de Investigaciones de Chile contribuir al mantenimiento de la tranquilidad pública; prevenir la perpetración de hechos delictuosos y de actos atentatorios contra la estabilidad de los organismos fundamentales del Estado; dar cumplimiento a las órdenes emanadas del Ministerio Público para los efectos de la investigación, así como a las órdenes emanadas de las autoridades judiciales, y de las autoridades administrativas en los actos en que intervengan como tribunales especiales; prestar su cooperación a los tribunales con competencia en lo criminal; prestar la cooperación necesaria en cumplimiento de tratados internacionales ratificados y vigentes en Chile, incluyendo el intercambio de datos personales. Esta cooperación se ajustará a la legislación nacional en la materia y en ningún caso implicará la entrega de bases de datos nacionales ni el acceso directo a ellas por parte de los órganos de un Estado extranjero o de los órganos de una organización internacional, observando siempre lo dispuesto en la ley Nº 19.628, sobre Protección de la Vida Privada, particularmente en lo relativo a la protección de los titulares de datos; controlar el ingreso y la salida de personas del territorio nacional; adoptar todas las medidas conducentes para asegurar la correcta identificación de las personas que salen e ingresan al país, la validez y autenticidad de sus documentos de viaje y la libre voluntad de las personas de ingresar o salir de él; fiscalizar la permanencia de extranjeros en el país, representar a Chile como miembro de la Organización Internacional de Policía Criminal (INTERPOL), y dar cumplimiento a otras funciones que le encomienden las leyes.
+Corresponde en especial a Policía de Investigaciones de Chile contribuir al mantenimiento de la tranquilidad pública; prevenir la perpetración de hechos delictuosos y de actos atentatorios contra la estabilidad de los organismos fundamentales del Estado; dar cumplimiento a las órdenes emanadas del Ministerio Público para los efectos de la investigación, así como a las órdenes emanadas de las autoridades judiciales, y de las autoridades administrativas en los actos en que intervengan como tribunales especiales; prestar su cooperación a los tribunales con competencia en lo criminal; controlar el ingreso y la salida de personas del territorio nacional; fiscalizar la permanencia de extranjeros en el país, representar a Chile como miembro de la Organización Internacional de Policía Criminal (INTERPOL), y dar cumplimiento a otras funciones que le encomienden las leyes.
 
 #### Artículo 6°
 
@@ -88,31 +84,27 @@ Corresponde al Director General de Investigaciones resolver sobre las siguientes
 
 1.- Nombramiento y baja del personal de la planta de los Servicios Generales y de los Aspirantes de la Escuela de Investigaciones.
 
-2.- Entrega de la información que sea requerida por el Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría del Interior, en ejercicio de las facultades conferidas en el artículo 3º de la ley Nº 20.502.
+2.- Destinación y traslado del personal de la Institución.
 
-3.- Destinación y traslado del personal de la Institución.
+3.- Concesión de anticipos de remuneraciones, en conformidad a las disposiciones estatuarias, al personal que deba cambiar de residencia con motivo de nueva destinación.
 
-4.- Concesión de anticipos de remuneraciones, en conformidad a las disposiciones estatuarias, al personal que deba cambiar de residencia con motivo de nueva destinación.
+4.- Otorgamiento de pasajes y fletes al personal que tenga derecho a estos beneficios, de acuerdo con el reglamento.
 
-5.- Otorgamiento de pasajes y fletes al personal que tenga derecho a estos beneficios, de acuerdo con el reglamento.
+5.- Ejercicio de las atribuciones disciplinarias que le otorguen los reglamentos.
 
-6.- Ejercicio de las atribuciones disciplinarias que le otorguen los reglamentos.
+6.- Autorización al personal para contraer matrimonio, de acuerdo con la reglamentación correspondiente.
 
-7.- Autorización al personal para contraer matrimonio, de acuerdo con la reglamentación correspondiente.
+7.- Comisiones de servicio, en conformidad a las disposiciones reglamentarias.
 
-8.- Comisiones de servicio, en conformidad a las disposiciones reglamentarias.
+8.- Otorgamiento de feriados, licencias y permisos, con o sin goce de remuneraciones.
 
-9.- Otorgamiento de feriados, licencias y permisos, con o sin goce de remuneraciones.
-
-10.- En general, todas aquellas resoluciones, conducentes al buen funcionamiento de la Institución que determine el reglamento.
+9.- En general, todas aquellas resoluciones, conducentes al buen funcionamiento de la Institución que determine el reglamento.
 
 #### Artículo 11
 
 El Director General podrá delegar en los Subdirectores, Jefes zonales y otros jefes de la institución que señale, las facultades indicadas en el artículo anterior, salvo la contemplada en el número 1, con el objeto de que puedan adoptar decisiones y dictar resoluciones en materias relativas al personal, manejos de fondos, bienes y presupuesto, dentro de su jurisdicción territorial o administrativa.
 
 Los delegados serán civil, penal y administrativamente responsables de los actos que ejecuten y de las resoluciones que dicten con motivo de dicha delegación, sin perjuicio de la responsabilidad que corresponda al delegante.
-
-La delegación señalada deberá ser informada al Ministerio del Interior y Seguridad Pública por medio de la Subsecretaría del Interior.
 
 #### Artículo 12
 
@@ -122,7 +114,7 @@ Los fondos necesarios para este objeto deberán consultarse en el Presupuesto de
 
 #### Artículo 13
 
-La Dirección General podrá contratar trabajadores en calidad de jornal por los períodos que se requieran, de acuerdo con las necesidades de la institución, en conformidad al reglamento correspondiente e informando de ellas, semestralmente, al Ministerio del Interior y Seguridad Pública, por medio de la Subsecretaría del Interior.
+La Dirección General podrá contratar trabajadores en calidad de jornal por los períodos que se requieran, de acuerdo con las necesidades de la institución, en conformidad al reglamento correspondiente.
 
 El pago de las remuneraciones de este personal, y de los demás beneficios legales se hará con cargo a los fondos que anualmente consulte, para tal objeto, la Ley de Presupuesto.
 
@@ -158,23 +150,17 @@ El que matare a un miembro de la Policía de Investigaciones de Chile que se enc
 
 El que hiriere, golpeare o maltratare de obra a un miembro de la Policía de Investigaciones de Chile que se encontrare en el ejercicio de sus funciones, será castigado:
 
-1º.- Con la pena de presidio mayor en su grado medio a máximo, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
+1º.- Con la pena de presidio mayor en su grado medio, si de resultas de las lesiones quedare el ofendido demente, inútil para el trabajo, impotente, impedido de algún miembro importante o notablemente deforme.
 
-2º. Con presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
+2º. Con presidio menor en su grado máximo a presidio mayor en su grado mínimo, si las lesiones produjeren al ofendido enfermedad o incapacidad para el trabajo por más de treinta días.
 
 3º. Con presidio menor en grado medio a máximo, si le causare lesiones menos graves.
 
-4º. Con presidio menor en su grado mínimo, si le ocasionare lesiones leves.
+4º. Con presidio menor en su grado mínimo, o multa de seis a once unidades tributarias mensuales, si le ocasionare lesiones leves.
 
 #### Artículo 17 ter
 
-Cuando la víctima de los delitos establecidos en los artículos 395 y 396 del Código Penal sea un funcionario de la Policía de Investigaciones en el ejercicio de sus funciones, se aplicarán las penas que siguen:
-
-1° Con presidio mayor en su grado máximo, cuando fuere víctima del delito establecido en el artículo 395.
-
-2° Con presidio mayor en su grado medio, cuando fuere víctima del delito consignado en el inciso primero del artículo 396.
-
-3° Con presidio menor en su grado máximo, cuando lo fuere del delito establecido en el inciso segundo del artículo 396.
+Las penas establecidas en los artículos 395 y 396 del Código Penal, serán aumentadas en un grado cuando la víctima sea un funcionario de la Policía de Investigaciones de Chile en el ejercicio de sus funciones.
 
 #### Artículo 17 quáter
 
@@ -190,7 +176,15 @@ La infracción de esta disposición será sancionada con presidio menor en sus g
 
 Se Prohíbe a los funcionarios de Policía de Investigaciones de Chile, ejecutar cualquier acto de violencia, destinado a obtener declaraciones de parte del detenido.
 
-El que infrinja esta disposición será castigado con arreglo a lo dispuesto en el Código Penal.
+El que infrinja esta disposición será castigado:
+
+1.- Con la pena de presidio mayor en sus grados mínimos a medio, si le causare la muerte;
+
+2.- Con la de presidio menor en su grado medio a presidio mayor en su grado mínimo, si le causare lesiones graves;
+
+3.- Con la de presidio menor en sus grados mínimo a medio, si le causare lesiones menos grave, y
+
+4.- Con la de prisión en su grado máximo a presidio menor en su grado mínimo, si no le causare lesiones o si éstas fueren leves.
 
 #### Artículo 20
 
@@ -254,7 +248,9 @@ Los Directores de los Departamentos del Tránsito de cada Municipalidad o de los
 
 #### Artículo 29
 
-Derogado
+En las casas o agencias de empeño y en los establecimientos que se dediquen a la compraventa de artículos usados, será obligatorio llevar un Libro de Actas de Procedencia, en que se anotarán el nombre y los apellidos del vendedor o empeñante, el número de su cédula de identidad y su impresión dígito pulgar derecho, junto con una declaración por la que asegure ser dueño de los objetos que venda o empeñe. Las características de este libro, que sólo podrá ser revisado por orden judicial o por funcionarios de Investigaciones, se ajustarán a las disposiciones del Reglamento. La infracción de esta disposición será penada con una multa de 20 sueldos vitales mensuales de la Región Metropolitana; la reincidencia, con una multa equivalente al doble, y la tercera infracción, con la clausura definitiva del establecimiento o negocio.
+
+De estas infracciones conocerán los Jueces de Letras de Mayor Cuantía con jurisdicción en lo criminal.
 
 #### Artículo 30
 

@@ -20,7 +20,7 @@ Del Departamento de Previsión de Carabineros
 
 #### Artículo 1°
 
-Créase el Departamento de Previsión de Carabineros de Chile, organismo dependiente del Ministerio de Seguridad Pública y vinculado a él a través de la Subsecretaría de Seguridad Pública.
+Créase el Departamento de Previsión de Carabineros de Chile, organismo dependiente del Ministerio del Interior y Seguridad Pública y vinculado a él a través de la Subsecretaría del Interior.
 
 A contar de la fecha de vigencia de este decreto ley, cesará en sus actividades la Caja de Previsión de los Carabineros de Chile, siendo reemplazado en todos sus derechos y obligaciones por el Departamento que se crea en el inciso precedente.
 
@@ -200,17 +200,13 @@ Para la atención de los servicios y beneficios a su cargo, el Departamento disp
 
 Constituyen entradas ordinarias:
 
-a) El descuento mensual obligatorio del 8,5% sobre sueldos, pensiones de retiro, montepío y sus aumentos posteriores. El Supremo Gobierno podrá elevar este descuento al 10% de dichos beneficios.
-
-El porcentaje del descuento mensual obligatorio señalado en el inciso anterior se rebajará al porcentaje que resulte de la aplicación de lo dispuesto en el inciso tercero del artículo 9º de esta ley, cuando el pensionado o beneficiario de montepío cumpla los 65 años de edad.
-
-No obstante lo dispuesto en el inciso anterior, el descuento destinado al financiamiento de los beneficios médicos, hospitalarios y dental, se continuará determinando sobre el porcentaje establecido en el inciso primero.
+a) El descuento mensual obligatorio del 8,5% sobre sueldos, pensiones de retiro, montepío y sus aumentos posteriores. El Supremo Gobierno podrá elevar este descuento al 10% de dichos benficios;
 
 b) Los intereses y rentas que produzca el capital del Departamento, y los que devenguen los fondos sociales en general, y
 
 c) El 75% del valor de todas las pensiones de retiro y montepío con que deberá contribuir el Fisco.
 
-> **Nota.** NOTA: 3 La modificación introducida por el Decreto Ley 2546, de 1979, rige a contar del 1° de marzo de 1979.
+> **Nota.** NOTA: 3 La modificación introducida por el DL 2546, de 1979, rige a contar del 1° de marzo de 1979.
 
 #### Artículo 21°
 

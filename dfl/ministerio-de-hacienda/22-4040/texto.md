@@ -16,7 +16,9 @@ Decreto con fuerza de ley:
 
 #### Artículo 1°
 
-El Servicio de Gobierno Interior es el organismo mediante el cual el Presidente de la República, como Jefe Supremo de la Nación, ejerce el Gobierno Interior del Estado. Depende del Ministerio del Interior.
+El Servicio de Gobierno Interior es el organismo mediante el cual el Presidente de la República, como Jefe Supremo de la Nación, ejerce el Gobierno Interior del Estado. Depende del Ministerio del Interior y Seguridad Pública.
+
+Su Jefe Superior será el Subsecretario del Interior.
 
 #### Artículo 2°
 
@@ -114,7 +116,7 @@ En casos calificados y siempre que no contaren con medios propios de movilizaci�
 
 Es obligación de los Intendentes y Gobernadores representar, con la debida oportunidad, al Presidente de la República o a la autoridad que corresponda las necesidades y deficiencias que observaren en su territorio jurisdiccional. Para este efecto, practicarán ordinariamente una visita anual al territorio de la provincia o departamento de su mando y, extraordinariamente, cuando las circunstancias lo requieran o en cumplimiento de sus funciones fiscalizadoras.
 
-Para ausentarse en visita inspectiva de la ciudad cabecera de su jurisdicción, por más de veinticuatro horas, el Intendente deberá recabar la anuencia del Ministro del Interior, y el Gobernador, la del Intendente de la provincia.
+Para ausentarse en visita inspectiva de la ciudad cabecera de su jurisdicción, por más de veinticuatro horas, el Intendente deberá recabar la anuencia del Ministro del Interior, y Seguridad Pública y el Gobernador, la del Intendente de la provincia.
 
 #### Artículo 17°
 
@@ -158,15 +160,13 @@ Los Intendentes y Gobernadores, al ser requeridos por los Tribunales de Justicia
 
 #### Artículo 24°
 
-El Intendente es el Jefe Superior del Servicio de Gobierno Interior en la provincia de su mando.
-
-Es responsable de las negligencias y de los abusos que los Gobernadores cometan con su aquiescencia o tolerancia.
+DEROGADO.
 
 #### Artículo 25°
 
 El Intendente es el órgano ordinario de comunicación entre el Gobernardor y el Ministro del Interior o el Presidente de la República.
 
-El Gobernador, no obstante, podrá comunicarse directamente con el Ministro del Interior o el Presidente de la República, en casos urgentes o en respuesta a comunicaciones directas de ellos o para interponer queja en contra del Intendente.
+El Gobernador, no obstante, podrá comunicarse directamente con el Ministro del Interior y Seguridad Pública o el Presidente de la República, en casos urgentes o en respuesta a comunicaciones directas de ellos o para interponer queja en contra del Intendente.
 
 Gobernadores
 
@@ -182,7 +182,7 @@ a) Atender a los fines de justicia social, educación, salubridad, trabajo, mora
 
 b) Procurar socorros en circunstancias extraordinarias, graves o urgentes, como ataque exterior, conmoción interior, paralización colectiva de faenas, o en casos de incendios, terremotos, inundaciones u otras calamidades en que no pueda retardarse el auxilio sin grave daño.
 
-Para estos efectos, con autorización del Ministerio del Interior, podrá girar contra la Tesorería Fiscal partidas no superiores a veinte mil escudos (E° 20.000), cada una, y hasta las sumas que sean necesarias, debiendo dar cuenta documentada de la inversión a la Contraloría General de la República.
+Para estos efectos, con autorización del Ministerio del Interior y Seguridad Pública, podrá girar contra la Tesorería Fiscal partidas no superiores a veinte mil escudos (E° 20.000), cada una, y hasta las sumas que sean necesarias, debiendo dar cuenta documentada de la inversión a la Contraloría General de la República.
 
 Para el mismo objeto podrá requerir, con igual autorización, vehículos que pertenezcan a los servicios sujetos a su fiscalización y ocupar cualquier inmueble de estos servicios, mientras dure la situación de emergencia;
 
@@ -194,7 +194,7 @@ e) Ejercer la vigilancia y cuidar de la conservación de los bienes del Estado, 
 
 f) Exigir administrativamente la restitución de cualquier bien de propiedad fiscal o perteneciente a entidades del Estado con patrimonio distinto al del Fisco, o nacional de uso público, que esté indebidamente ocupado. En caso de oposición, podrá hacer uso de las facultades que le otorga la presente ley.
 
-Si el ocupante exhibe un título aparente de ocupación o de mera tenencia, enviará los antecedentes al Consejo de Defensa del Estado para su pronunciamiento, dando cuenta a los Ministerios del Interior y de Tierras y Colonización. En el intertanto, se abstendrá de actuar.
+Si el ocupante exhibe un título aparente de ocupación o de mera tenencia, enviará los antecedentes al Consejo de Defensa del Estado para su pronunciamiento, dando cuenta a los Ministerios del Interior y Seguridad Pública y de Tierras y Colonización. En el intertanto, se abstendrá de actuar.
 
 Los Conservadores de Bienes Raíces estarán obligados a comunicar al Gobernador las inscripciones de propiedades de particulares que no tengan título anterior inscrito;
 
@@ -218,7 +218,7 @@ l) Enviar anualmente, en el mes de enero, al Intendente de la provincia, una mem
 
 #### Artículo 27°
 
-El Gobernador deberá remitir a la Contraloría General de la República, por intermedio del Ministerio del Interior, el nombramiento de los Subdelegados para su toma de razón. Igual trámite tendrán las resoluciones que afecten a dichos funcionarios y que deben ser registradas por la Contraloría General de la República. De los nombramientos y demás resoluciones que recaigan en los Subdelegados, enviarán, además, copia al Ministerio del Interior y al Intendente respectivo.
+El Gobernador deberá remitir a la Contraloría General de la República, por intermedio del Ministerio del Interior y Seguridad Pública, el nombramiento de los Subdelegados para su toma de razón. Igual trámite tendrán las resoluciones que afecten a dichos funcionarios y que deben ser registradas por la Contraloría General de la República. De los nombramientos y demás resoluciones que recaigan en los Subdelegados, enviarán, además, copia al Ministerio del Interior y Seguridad Pública y al Intendente respectivo.
 
 #### Artículo 28°
 
@@ -268,7 +268,7 @@ Los Intendentes y Gobernadores podrán decretar el auxilio de la fuerza pública
 
 Los Intendentes y Gobernadores no podrán ejercer funciones que correspondan a los Tribunales de Justicia.
 
-Podrán promover contiendas de competencia en resguardo de sus atribuciones, dando cuenta al Ministro del Interior.
+Podrán promover contiendas de competencia en resguardo de sus atribuciones, dando cuenta al Ministro del Interior y Seguridad Pública.
 
 #### Artículo 36°
 
@@ -356,7 +356,7 @@ Los miembros de las fuerzas armadas y carabineros no estarán afectos a los requ
 
 Es deber de los Intendentes y Gobernadores velar por la integridad del territorio de su jurisdicción y mantener la paz y el orden público.
 
-En los casos de invasión o violación del territorio deberán dar cuenta, en el acto, al Ministro del Interior o al Presidente de la República. Si se produjere alteración del orden público, deberán adoptar de inmediato las medidas necesarias para restablecerlo, informando al Ministro del Interior. Cuando se haga uso de la fuerza pública, se procederá con arreglo a lo dispuesto en el artículo 128° del Código Penal.
+En los casos de invasión o violación del territorio deberán dar cuenta, en el acto, al Ministro del Interior y Seguridad Pública o al Presidente de la República. Si se produjere alteración del orden público, deberán adoptar de inmediato las medidas necesarias para restablecerlo, informando al Ministro del Interior y Seguridad Pública. Cuando se haga uso de la fuerza pública, se procederá con arreglo a lo dispuesto en el artículo 128° del Código Penal.
 
 Sin perjuicio de las demás medidas de orden legal, si se paralizan o interrumpen servicios públicos o de utilidad pública o de funcionamiento legal obligatorio, o empresas o industrias productoras o elaboradoras de mercaderías esenciales para el abastecimiento de la población, deberán restablecer, a la mayor brevedad, su normal funcionamiento, prestándoles adecuada protección.
 
@@ -532,7 +532,7 @@ El Secretario de la Gobernación tendrá las atribuciones y deberes señalados a
 
 #### Artículo 68°
 
-Los Secretarios de Intendencia y Gobernaciones darán cuenta inmediata al Ministro del Interior y al Presidente de la República, siempre que el Intendente o Gobernador no pueda hacerlo, de la ausencia o imposibilidad a que se refiere el artículo 10°.
+Los Secretarios de Intendencia y Gobernaciones darán cuenta inmediata al Ministro del Interior y Seguridad Pública y al Presidente de la República, siempre que el Intendente o Gobernador no pueda hacerlo, de la ausencia o imposibilidad a que se refiere el artículo 10°.
 
 #### Artículo 69°
 
@@ -596,7 +596,7 @@ Los Intendentes, Gobernadores, Subdelegados e Inspectores deberán tener especia
 
 Ninguna persona ni reunión de personas podrá usar en público ni enarbolar en los edificios públicos o particulares la Bandera Nacional, sin la correspondiente autorización.
 
-Los Intendentes y Gobernadores podrán ordenar o permitir el uso o izamiento del Pabellón Nacional en el territorio de su jurisdicción, con autorización previa del Ministerio del Interior, en aquellos casos en que exista motivo justificado y no se trate de efemérides patrias en que corresponda hacerlo en todo el país.
+Los Intendentes y Gobernadores podrán ordenar o permitir el uso o izamiento del Pabellón Nacional en el territorio de su jurisdicción, con autorización previa del Ministerio del Interior y Seguridad Pública, en aquellos casos en que exista motivo justificado y no se trate de efemérides patrias en que corresponda hacerlo en todo el país.
 
 La Bandera Nacional deberá enarbolarse en un asta, izada al tope, salvo disposición expresa para emplear otra forma.
 
@@ -624,7 +624,7 @@ Los Intendentes y Gobernadores, en los casos de calamidades públicas, en que se
 
 #### Artículo 85°
 
-Los Intendentes y Gobernadores podrán verificar la correcta inversión de las subvenciones que se otorguen por ley, dando cuenta al Ministerio del Interior.
+Los Intendentes y Gobernadores podrán verificar la correcta inversión de las subvenciones que se otorguen por ley, dando cuenta al Ministerio del Interior y Seguridad Pública.
 
 #### Artículo 86°
 
