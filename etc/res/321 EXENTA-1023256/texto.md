@@ -1,0 +1,3 @@
+Por resolución exenta Nº 321, de 2 de febrero de 2011, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 3.855, de 2010, modificada por resolución exenta Nº 189, de 2011, ambas de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2010-04 denominado "Evaluación hidroacústica de reclutamiento Anchoveta y Sardina común entre la V-X Regiones, año 2011", en el sentido de extender el período de ejecución de la citada pesca investigación hasta el día 28 de marzo de 2011, inclusive.
+
+Valparaíso, 2 de febrero de 2011.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
