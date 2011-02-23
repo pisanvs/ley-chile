@@ -52,7 +52,7 @@ Las letras bancarias y los vales vistas dados en pago de tarifas o derechos debe
 
 #### Artículo 110
 
-Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo en que ella se indique, el que no podrá exceder de 10 días hábiles a contar de su emisión. Sin embargo, ante hechos constitutivos de caso fortuito o fuerza mayor, derivados de situaciones de emergencia, catástrofe o calamidad pública, el Director, mediante resolución fundada, podrá aumentar el plazo para el pago de dicha obligación, hasta por 30 días hábiles adicionales, término que podrá prorrogarse por un máximo de 30 días hábiles, por una vez, de mantenerse la situación que originó el aumento de plazo. En caso de mora, el usuario estará afecto a un interés penal del 0.05 por ciento por cada día de atraso y hasta la fecha de pago efectivo.
+Toda orden de ingreso girada por la Autoridad Marítima deberá ser pagada dentro del plazo que en ella se indique, el que no podrá exceder de 5 días hábiles a contar de su emisión. En caso de mora, el usuario estará afecto a un interés del 0,5 por ciento por cada día de atraso y hasta la fecha de pago efectivo.
 
 Transcurrido 30 días contados desde el vencimiento del pago sin que éste se hubiere efectuado, el Director podrá proceder a su cobro ejecutivo, y si así lo determinare, se aplicará el procedimiento indicado en el Título V del Libro III del Código Tributario.
 
@@ -110,7 +110,7 @@ Con todo, las naves de las marinas de guerra extranjeras dedicadas al transporte
 
 #### Artículo 120
 
-Cuando los Oficiales, el personal de Gente de Mar, personal a contrata de la Dirección y los Prácticos Autorizados cumplan funciones fuera de su residencia a petición de un usuario marítimo, el pago de los correspondientes pasajes y viáticos será de cargo del solicitante.
+Cuando los oficiales y el personal de Gente de Mar de la Dirección, incluyendo los Prácticos Autorizados, cumplan funciones fuera de su residencia, a petición de los Armadores o Agentes de Naves, el pago de los correspondientes pasajes y viáticos será de cargo del solicitante.
 
 Para estos efectos, el Director fijará los viáticos que procedan.
 
@@ -119,10 +119,6 @@ Para estos efectos, el Director fijará los viáticos que procedan.
 Cuando en el presente reglamento se emplee como base de cálculo el Tonelaje de Registro Grueso de una nave, su determinación se efectuará en conformidad al reglamento de Arqueo para los buques de comercio vigente en Chile.
 
 Para los artefactos navales no destinados al transporte de mercaderías, el cálculo de la tarifa se efectuará tomando como base su tonelaje de desplazamiento.
-
-Excepcionalmente, al fijar las tarifas de señalización marítima y de practicaje para los buques tanque petroleros y buques tanque quimiqueros de bandera chilena, se excluirá el arqueo correspondiente de los tanques de lastre segregado, basando así su cálculo tan solo en un Arqueo Bruto reducido, señalado en el apartado de "observaciones" del Certificado Internacional de Arqueo (1969) del respectivo buque, expedido por la Dirección General del Territorio Marítimo y de Marina Mercante conforme lo dispuesto por el Convenio Internacional sobre Arqueo de Buques, de 1969, promulgado por el decreto supremo N° 22 de 1983, del Ministerio de Relaciones Exteriores.
-
-Para lo dispuesto en el inciso precedente, los buques indicados serán considerados naves mercantes conforme el artículo 4 del decreto ley N° 2.222 y buques tanque conforme lo dispuesto por el artículo 204 del decreto supremo N° 99, de 1984, del Ministerio de Defensa Nacional, que aprueba el reglamento de desgasificación para buques mercantes.
 
 #### Artículo 122
 
@@ -146,11 +142,11 @@ Se podrá optar por una tarifa anual o por cada viaje, según se indica a contin
 
 a) Naves mercantes chilenas dedicadas exclusivamente al cabotaje en aguas sometidas a la jurisdicción nacional: 0,46 de dólar por cada tonelada de registro grueso.
 
-No obstante, las naves de pasaje chilenas, dedicadas exclusivamente al turismo en aguas sometidas a la jurisdicción nacional, pagarán 0,45 dólares para cada tonelada de registro grueso.
+b) Naves especiales chilenas que desarrollen sus actividades exclusivamente en aguas sometidas a jurisdicción nacional: 0,46 de dólar por cada tonelada de registro grueso.
 
-b) Naves especiales chilenas y extranjeras que desarrollen sus actividades exclusivamente en aguas sometidas a jurisdicción nacional: 0,46 de dólar por cada tonelada de registro grueso.
+c) Naves especiales extranjeras que desarrollen sus actividades exclusivamente en aguas sometidas a jurisdicción nacional: 1,48 dólares por cada tonelada de registro grueso.
 
-c) Eliminado.
+Igualmente estarán afectas a esta tarifa aquellas naves que, cumpliendo con los requisitos señalados en el párrafo precedente, recalen desde alta mar a un puerto nacional con el único propósito de abastecerse de combustible, sin efectuar ningún movimiento de carga o descarga.
 
 d) Naves chilenas o extranjeras de servicio exterior: 1,48 dólares por cada tonelada de registro grueso.
 
@@ -160,9 +156,9 @@ a) Naves chilenas o extranjeras: 0,57 de dólar por cada tonelada de registro gr
 
 Para estos efectos, se entiende por viaje, en el caso de nave nacional u operada por empresa nacional, el recorrido que esta nave realiza desde que deja su puerto base hasta que regresa a él, considerando como tal, el que en cada caso determina la Autoridad Marítima.
 
-Tratándose de nave extranjera, se considerará como viaje, el recorrido que esta nave realiza desde que entra hasta que sale de las aguas sometidas a jurisdicción nacional.
+Tratándose de nave extranjera, se considerará como viaje, el recorrido que esta nave realiza desde que entra hasta que sale de las aguas sometidas a jurisdicción nacional. Sin perjuicio de lo anterior, cuando esta nave efectúe servicio de cabotaje pagará además la tarifa señalada en el Nº 1 letra a) del presente artículo.
 
-b) Las naves que naveguen el Estrecho de Magallanes y siempre que no recalen antes o después a puerto chileno, distinto del de Punta Arenas, o naveguen aguas interiores nacionales, pagarán 0,28 dólares por cada tonelada de registro grueso.
+b) Las naves que naveguen el Estrecho de Magallanes y siempre que no recalen antes o después a puerto chileno, distinto del de Punta Arenas, o naveguen aguas interiores nacionales, pagarán 0,29 centavos de dólar por cada tonelada de registro grueso.
 
 c) Las naves que embarquen cargamentos a granel y recalen directamente desde alta mar a un único puerto nacional, sin navegar en aguas territoriales, antes o despúes, salvo para recalar y zarpar a y desde ese único puerto, con excepción de aquellas que naveguen canales o el Estrecho de Magallanes, pagarán 0,43 dólares por cada tonelada de registro grueso.
 
@@ -170,15 +166,11 @@ PARRAFO ELIMINADO
 
 d) Las Naves que recalen al país con el único propósito de efectuar reparaciones o carenas en un astillero nacional, sin efectuar faenas comerciales, pagarán 0,20 dólares por cada tonelada de registro.
 
-e) Las naves que recalen a un único puerto nacional con el propósito exclusivo de abastecerse de combustible, sin efectuar ninguna otra actividad, pagarán US$0,12 por cada tonelada de registro.
+e) Las naves que recalen a un único puerto nacional con el propósito exclusivo de abastecerse de combustible, sin efectuar ninguna otra actividad, pagarán US$0,12 por cada tonelada de registro. La misma tarifa se aplicará cuando la nave proceda de otro puerto chileno, habiendo pagado la tarifa por viaje señalada en las letrasb) a d) precedentes.
 
 Con todo, si con posterioridad a las reparaciones o carenas, en su caso, la nave realiza faenas comerciales, podrá imputar a la tarifa pertinente, anual o por viaje, el monto pagado en virtud de esta letra.
 
 Las naves que crucen el estrecho de Magallanes, de océano a oceáno y, siempre que no recalen antes o después a puerto chileno o naveguen aguas interiores nacionales, pagarán veinte centavos de dólar por cada tonelada de registro grueso.
-
-#### Artículo 201° bis
-
-Las tarifas contempladas en el artículo 201, se calcularán utilizando un límite máximo de 85.000 toneladas de registro grueso, el que será aplicable a todo tipo de nave. Sin perjuicio de lo anterior, para las naves de carga de graneles sólidos y de carga general de hasta 84.999 toneladas de registro grueso, dichas tarifas se calcularán utilizando un límite máximo de 39.000 toneladas de registro grueso.
 
 ART . 202.-Los Armadores o Agentes de Naves solicitarán oportunamente a la Autoridad Marítima competente que gire la orden de ingreso, indicando en su solicitud la nacionalidad de la nave, su tonelaje de registro grueso o de desplazamiento, según corresponda, fecha de arribo al primer puerto nacional, y opción de tarifa.
 
@@ -208,7 +200,7 @@ Los artefactos navales pagarán el cincuenta por ciento de la tarifa.
 
 Las naves de turismo que recalen en Isla de Pascua o en alguna de las islas del Archipiélago Juan Fernández, y siempre que no lo hagan en otro puerto nacional, pagarán el diez por ciento de la tarifa.
 
-A su vez, las naves de pasaje, dedicadas exclusivamente al turismo, y que dentro de un mismo viaje sean recepcionadas y permanezcan a lo menos seis horas en uno o más de los puertos de Arica, Iquique, Antofagasta, Coquimbo, Valparaíso, Talcahuano, Corral, Puerto Montt, Castro, Puerto Chacabuco, Punta Arenas, Puerto Natales, Puerto Williams, pagarán la tarifa que corresponda, conforme a las siguientes condiciones.
+A su vez, las naves de pasaje, dedicadas exclusivamente al turismo, y que dentro de un mismo viaje sean recepcionadas y permanezcan a lo menos seis horas en uno o más de los puertos de Arica, Iquique, Antofagasta, Coquimbo, Valparaíso, Puerto Montt, Puerto Chacabuco, Punta Arenas y Puerto Williams, pagarán la tarifa que corresponda, conforme a las siguientes condiciones:
 
 En caso de recalada a uno de los puertos señalados en el inciso anterior, la nave pagará el 60% de la tarifa correspondiente. Si recala a dos de esos puertos, pagará el 40% de la tarifa. Si recala a tres o más de los puertos mencionados, pagará el 20% de la tarifa.
 
@@ -254,69 +246,37 @@ Constituyen una nueva prestación de servicios, no incluida en el practicaje de 
 
 Servicios Valor
 
-Maniobra de abarloarse 100% de la tarifa
+Maniobra de abarloarse o largarse 100% de la tarifa
 
-o largarse del costado
+del costado de una nave.
 
-de una nave.
+Maniobra de aproximarse o salida 100% de la tarifa
 
-Maniobra de aproximarse 100% de la tarifa
+de dique
 
-o salida de dique
+Maniobra de amarrarse a una 100% de la tarifa
 
-Maniobra de amarrarse 100% de la tarifa
+monoboya
 
-a una monoboya
+Maniobra de largarse de una 50% de la tarifa
 
-Maniobra de largarse 50% de la tarifa
+monoboya
 
-de una monoboya
+Maniobra de fondeo o leva a la 50% de la tarifa
 
-Maniobra de fondeo o 50% de la tarifa
+gira independiente de otra maniobra.
 
-leva a la gira
+Maniobra de desamarre de una boya 50% de la tarifa
 
-independiente de otra
+Maniobra de corrida de nave en su 20% de la tarifa
 
-maniobra.
+mismo sitio
 
-Maniobra de desamarre 50% de la tarifa
+Permanencia de práctico abordo a US$36 por hora
 
-de una boya
+solicitud de la agencia o
 
-Maniobra de corrida de 20% de la tarifa
-
-nave en su mismo sitio
-
-Permanencia de práctico US$36 por hora
-
-abordo a solicitud de la
-
-agencia o disposición
-
-de la Autoridad Marítima.
-
-Permanencia del práctico US$ 52,20 por cada
-
-a bordo a solicitud de hora ofracción
-
-la Agencia de Naves por superior a 30
-
-instalación de Sistemas minutos.
-
-Dinámicos de Amarre.
-
-Instalación de Sistemas
-
-Dinámicos de Amarre
-
-una vez que se han 20% de la tarifa.
-
-retirado los prácticos
-
-y medios de apoyo a
-
-la maniobra de atraque.
+disposición de la Autoridad Marítima.
 
 En las maniobras de corrida de naves en su mismo sitio de atraque o amarre, no será obligatorio el empleo de práctico. Sólo se hará a requerimiento expreso del agente o capitán de la nave, o bien, por el terminal marítimo.
 
@@ -340,21 +300,17 @@ Los Prácticos Autorizados que participan en la maniobra respectiva percibirán 
 
 La nave que estando obligada a emplear los servicios de practicaje realizare la maniobra sin su intervención, pagará el doble de la Tarifa correspondiente.
 
-Lo dispuesto no será aplicable a aquellas naves que a consecuencia de una alarma de tsunami, deban zarpar sin mayor demora y sin práctico, con el objeto de asegurar la vida de la dotación, la propia nave o las instalaciones portuarias.
-
 > **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
 
 #### Artículo 305
 
-No estarán afectas a cobro de practicaje, las naves que deban zarpar de los puertos de la República a consecuencia de alarma de tsunami, conforme a lo señalado en el artículo 151, letra e), del decreto supremo (M) Nº 1.340 bis de 14.jun.1941, "Reglamento General de Orden, Seguridad y Disciplina en las Naves y Litoral de la República.
+ELIMINADO
 
 #### Artículo 306
 
 Para los efectos de la solicitud de la maniobra, se define lo siguiente:
 
 a) De la hora de ingreso de la solicitud Es la hora en la que el armador o agente de la nave ingresa la solicitud a la Capitanía de Puerto pidiendo un servicio, la cual debe tener a lo menos dos horas de antelación a la hora de inicio solicitada.
-
-Sin perjuicio de lo señalado, la autoridad marítima local podrá autorizar una maniobra sin mediar la antelación establecida, por motivos de seguridad asociada a las instalaciones portuarias, naves y operación del puerto. También, a petición expresa del armador o agente de la nave por razones comerciales, siempre y cuando exista la disponibilidad de práctico. En el caso que ocurra alguna de estas situaciones, se autorizará la maniobra previo ingreso de la solicitud con la hora de inicio acordada entre las partes.
 
 b) De la fecha y hora de inicio solicitada
 
@@ -372,19 +328,15 @@ e) De la maniobra cancelada
 
 Se denomina maniobra cancelada a aquella que no se efectúa, aun estando el práctico a bordo, debido a que las condiciones climáticas o de operación, exceden a los límites fijados por el Capitán de Puerto.
 
-f) De la solicitud fuera de plazo
-
-Se denomina solicitud fuera de plazo a la maniobra que es ingresada, por el Armador o Agente de la Nave, con menos de dos horas de antelación, respecto de la hora requerida para el inicio de la maniobra.
-
 > **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
 
 #### Artículo 307
 
-De la solicitud de maniobra generada y aquellas modificaciones posteriores a la solicitud inicial, se sujetarán a las condiciones que se indican:
+Las modificaciones que se produzcan a la maniobra, se sujetarán a las condiciones que se indican:
 
 a) De la solicitud fuera de plazo
 
-Por este concepto, el Armador o Agente de la Nave, deberá pagar un recargo de US$ 104,40.- en caso que la solicitud se presente en un plazo inferior a dos horas, respecto a la hora requerida para el inicio de la maniobra.
+Por este concepto, el armador o agente de la nave deberá pagar US$72, en caso que la solicitud se presente en un plazo inferior a dos horas, respecto a la hora requerida para el inicio de la maniobra.
 
 b) De la modificación de la solicitud de la maniobra
 
@@ -432,9 +384,13 @@ transporte de mercancías peligrosas; etc.
 
 . Si la nave requiere de dos prácticos, y se producen horas de espera o de adelanto, se cancelará a cada uno de ellos, por cada hora y/o fracción de más de treinta minutos, el valor correspondiente a US$36.
 
+> **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
+
 #### Artículo 307
 
-A.- Esta tarifa estará sujeta, cuando se solicite, al pago de pilotaje desde el puerto hacia otras zonas situadas dentro de un radio de 50 millas de distancia y cuyo valor será de US$29.69 por cada mil toneladas de registro grueso o fracción.
+A.- Esta tarifa estará sujeta, cuando se solicite, al pago de pilotaje desde el puerto hacia otras zonas situadas dentro de un radio de 30 millas de distancia y cuyo valor será de US$33.72 por cada mil toneladas de registro grueso o fracción.
+
+> **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
 
 #### Artículo 307
 
@@ -590,14 +546,6 @@ Dungeness Bahía Gregorio 0,070
 
 Punta Arenas Isla Magdalena 0,038
 
-Ancud/Laitec/P. Montt Bahía Cook 1,120
-
-Punta Arenas Bahía Cook 0,370
-
-Puerto Natales Bahía Cook 0,720
-
-Puerto Chacabuco Bahía Cook 0,940
-
 TABLA DE SENOS Y ESTEROS
 
 Ingreso y salida de Factor multiplicador
@@ -742,10 +690,6 @@ f) Atraso en la presentación de la solicitud: Se pagará US$ 36 por cada hora d
 
 La antelación mínima para la presentación de la solicitud de pilotaje será de 72 horas, salvo que el puerto de embarco se ubique en la V Región o se trate de un pilotaje local, en que se reducirá a 48 horas.
 
-g) Extensión de la permanencia a bordo: Se pagará a cada Práctico nominado US$46,72 por cada hora transcurrida, cuando a petición expresa del agente de la nave o por disposición de la Autoridad Marítima, por seguridad de la nave, el o los Prácticos deban permanecer a bordo, luego de haber prestado íntegramente el servicio de pilotaje.
-
-Para efectos de la aplicación de los montos y tiempos mencionados en este artículo se considerará cada hora transcurrida o fracción superior a treinta minutos de cada caso o evento.
-
 #### Artículo 312
 
 No habrá costo para aquel armador o agente que modifique o deje sin efecto la solicitud original dentro del plazo de 24 horas después que los Prácticos fueron designados. En caso de modificación, se mantendrá como válida la fecha/hora del último cambio.
@@ -778,7 +722,7 @@ c) El 80% de la Tarifa Global del tramo Ancud/Laitec/Puerto Montt - Puertos en C
 
 #### Artículo 316
 
-Del resultado de la aplicación del artículo 311, cada práctico nominado percibirá un tercio de los ingresos indicados, con excepción de la letra f) en que no recibirán ingresos, mientras que en el caso de la letra g), el monto íntegro resultante será percibido por los prácticos.
+Del resultado de la aplicación del artículo 311, cada práctico nominado percibirá un tercio de los ingresos indicados, con excepción de la letra f).
 
 Los Prácticos Oficiales quedarán excluidos además de los ingresos citados en la letra e).
 
@@ -790,7 +734,7 @@ Todas las maniobras de vira y fondeo a la gira en el puerto inicial y terminal d
 
 #### Artículo 318
 
-Derogado.
+La obligación impuesta por el artículo 14 del decreto supremo Nº 397, de 1985, del Ministerio de Defensa Nacional, Subsecretaría de Marina sobre Reglamento de Practicaje y Pilotaje, a los armadores o agentes de naves que soliciten el servicio de pilotaje, se cumplirá mediante el pago proporcional del costo del seguro contratado para dicho efecto por la Dirección General, a favor de los pilotos involucrados en la comisión respectiva, en la forma y modalidad fijada anualmente por resolución fundada del Director General, quedando liberado en tal caso el armador o agente de la obligación de contratar el seguro exigido por la norma reglamentaria citada.
 
 ## Capítulo IV
 
@@ -1258,79 +1202,33 @@ estadounidenses
 
 -------------------
 
-Para fijar
+Para fijar dotaciones mínimas.. Dls. 25,00
 
-dotaciones mínimas. Dls. 25,00
+Para otorgar Título y Licencia de
 
-Para otorgar
+Oficiales de la Marina Mercante Nacional 13,00
 
-Título y Licencia
+Para otorgar Permisos de Embargo y Licencia de Oficiales Para otorgar Matrícula y Permisos eventuales a
 
-de Oficiales de
+Tripulantes y Obreros Marítimos. 4,00
 
-la Marina
+Permiso para rendir examen: Oficial 5,00
 
-Mercante Nacional 13,00
+Permiso para rendir examen: Personal Matriculado. 3,00
 
-Para otorgar
+Vigencia quinquenal de Libreta de Embarco de 3,00
 
-Permisos de
+Oficiales Vigencia quinquenal de Libreta de
 
-Embargo y Licencia de
+Embarco de Tripulantes 2,00
 
-Oficiales 8,00
+Vigencia quinquenal de Matrícula y Permisos 2,00
 
-Para otorgar Matrícula
+eventuales de personal, Tripulantes y Obreros 25,00
 
-y Permisos eventuales
+Marítimos Permiso para navegar canales sin Práctico Otorgamientos de Certificados Generales
 
-a Tripulantes y Obreros
-
-Marítimos 4,00
-
-Permiso para rendir
-
-examen: Oficial 5,00
-
-Permiso para rendir
-
-examen: Personal
-
-Matriculado 3,00
-
-Vigencia Bienal de
-
-Libreta de Embarco
-
-de Oficiales 13,89
-
-Vigencia Bienal de
-
-Libreta de Embarco
-
-de Tripulantes 13,89
-
-Vigencia quinquenal
-
-de Matrícula y
-
-Permisos eventuales
-
-de personal, Tripulantes
-
-y Obreros Marítimos 2,00
-
-Permiso para navegar
-
-canales sin Práctico 25,00
-
-Otorgamientos de
-
-Certificados Generales
-
-no comprendidos en
-
-los anteriores 3,00
+no comprendidos en los anteriores 3,00
 
 ## Capítulo VI
 
