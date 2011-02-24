@@ -12,13 +12,7 @@ Resuelvo :
 
 El profesional habilitado para firmar, como responsable, los Certificados de Aprobación de productos eléctricos o de combustibles, según corresponda, deberá cumplir con los siguientes requisitos:
 
-1.1 Productos eléctricos:
-
-a) Título profesional de Ingeniero Civil o de Ejecución, en la especialidad de Electricidad, otorgados por una Universidad del Estado o reconocida por éste.
-
-b) Un año de experiencia en el área de interés.
-
-c) Un año de experiencia en el manejo de control de gestión y de control estadístico de calidad.
+1.1 DEROGADO.
 
 1.2 Productos de combustibles:
 
@@ -34,39 +28,7 @@ d) Tres años de experiencia en las actividades de ensayo radiográfico y gamagr
 
 El profesional habilitado para firmar como responsable de los informes de ensayos y el personal habilitado para actuar como laboratoristas de ensayos de productos eléctricos o de combustibles, deberán cumplir con los siguientes requisitos:
 
-2.1 Responsable del Laboratorio de Ensayos de
-
-productos eléctricos
-
-a) Profesional o Técnico Universitario, en la
-
-especialidad eléctrica, de una carrera de a lo
-
-menos 6 semestres, otorgados por una
-
-Universidad del Estado, o institutos
-
-profesionales o centros de formación técnica
-
-reconocidos por el Estado.
-
-b) 3 años de experiencia en el área de interés.
-
-c) Un año de experiencia en el control
-
-estadístico de calidad.
-
-d) Un año de experiencia en metrología
-
-industrial, instrumentación y de medidas, y
-
-aseguramiento de calidad.
-
-e) Acreditar conocimiento y experiencia en los
-
-ensayos para los productos eléctricos
-
-solicitados.
+2.1 DEROGADO.
 
 2.2 Responsable del Laboratorio de Ensayos de
 
@@ -106,21 +68,7 @@ ensayos para los productos eléctricos
 
 solicitados.
 
-2.3 Laboratoristas de Ensayos de productos
-
-eléctricos
-
-a) Titulado de la enseñanza media técnico
-
-profesional o Instituto de Educación Superior,
-
-especialidad en electricidad.
-
-b) Un año de experiencia en metrología
-
-industrial, instrumentación, de medidas y
-
-ensayos de productos eléctricos.
+2.3 DEROGADO.
 
 2.4 Laboratoristas de Ensayos de productos de
 
@@ -142,11 +90,7 @@ ensayos de productos de combustibles.
 
 El profesional habilitado para firmar, como responsable los informes de inspección y el personal habilitado para actuar como inspectores de productos eléctricos o de combustibles, deberán cumplir con los siguientes requisitos:
 
-3.1 Productos eléctricos
-
-Deberá cumplir los requisitos señalados en los
-
-puntos 2.1 y 2.3, de la presente resolución.
+3.1 DEROGADO.
 
 3.2 Productos de combustibles
 
@@ -191,6 +135,8 @@ combustibles, cilindros para GLP y cañerías de
 acero).
 
 2° La presente resolución entrará en vigencia a contar del 02.02.2007, y se aplicará a los interesados en desarrollar la actividad de Organismos de Certificación, Organismos de Inspección y/o Laboratorio de Ensayos, de acuerdo al Reglamento.
+
+> **Nota.** El Nº 2 de la Resolución 109 Exenta, Energía, publicada el 24.02.2011, viene a modificar la presente resolución en el sentido de dejar sin efecto los requisitos para el Personal de los Organismos de Certificación y de los Laboratorios de Ensayos de productos eléctricos, y en especial los puntos 1.1, 2.1, 2.3 y 3.1.
 
 Anótese, notifíquese y publíquese.- Patricia Chotzen Gutiérrez, Superintendenta de Electricidad y Combustibles.
 
