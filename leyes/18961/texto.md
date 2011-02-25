@@ -152,7 +152,7 @@ El ingreso a la Planta se hará en el último lugar del grado más bajo del esca
 
 #### Artículo 10
 
-Los nombramientos, ascensos, reincorporaciones y retiros del Personal de Nombramiento Supremo, se efectuarán por decreto supremo expedido a través del Ministerio del Interior y Seguridad Pública, a proposición del General Director.
+Los nombramientos, ascensos, reincorporaciones, llamados al servicio y retiros del Personal de Nombramiento Supremo, se efectuarán por decreto supremo expedido a través del Ministerio del Interior y Seguridad Pública, a proposición del General Director.
 
 La provisión de los diferentes empleos existentes en Carabineros se hará mediante nombramiento o reincorporación, sin perjuicio de las normas sobre ascensos.
 
@@ -182,9 +182,11 @@ El cambio de Escalafón procederá sólo en casos debidamente calificados por el
 
 #### Artículo 16
 
-El General Director, en casos calificados, a petición del interesado y cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República, quien por decreto supremo podrá llamar al servicio hasta por un período de tres años al personal de fila de Orden y Seguridad que se encuentre en situación de retiro temporal, en la forma y condiciones que determine el Estatuto del Personal.
+El General Director, cuando las necesidades institucionales así lo requieran, podrá proponer al Presidente de la República llamar al Servicio, hasta por un período de cinco años, a Oficiales Jefes y Superiores de Fila que se encuentren en situación de retiro absoluto, en la forma y condiciones que determine el Estatuto del Personal. Tratándose del Personal de Nombramiento Institucional de Fila de Orden y Seguridad, la facultad de llamamiento le corresponderá al General Director.
 
-Este personal no se integrará a la Planta y, mientras permanezca en servicio, estará sujeto a lo dispuesto en el artículo 2° de esta ley.
+A propuesta del General Director, el Presidente de la República, mediante decreto supremo, establecerá el número de empleos y grados del personal de nombramiento supremo e institucional que podrá ser llamado al Servicio. Dicho decreto deberá contar, además, con la firma del Ministro de Hacienda.
+
+Este personal no se integrará a la Planta, y mientras permanezca en servicio, estará sujeto a lo dispuesto en el artículo 2º de esta ley, y no resultarán aplicables las limitaciones previstas en la letra a) del artículo 41 y en la letra e) del artículo 43 de este cuerpo legal.
 
 ### Párrafo 2°
 
@@ -434,6 +436,8 @@ La antigüedad de los Oficiales de los Servicios se determinará, en igualdad de
 
 La antigüedad, los grados jerárquicos y el rango se darán exclusivamente entre el personal de Carabineros. Lo anterior es sin perjuicio de las equivalencias que la ley determina, para efectos económicos, con el personal de las Instituciones de la Defensa Nacional.
 
+La antigüedad de los llamados al servicio respecto de oficiales y personal de nombramiento institucional, de los escalafones regulares, en igualdad de grados jerárquicos, será a continuación de aquéllos. Entre ellos, se estará a la antigüedad de su respectivo llamado al servicio.
+
 #### Artículo 49
 
 El rango es el conjunto de prerrogativas de orden protocolar que le corresponde al Oficial por el grado que inviste o el cargo que desempeña.
@@ -442,7 +446,7 @@ El rango es el conjunto de prerrogativas de orden protocolar que le corresponde 
 
 #### Artículo 50
 
-Mando es el ejercicio de la autoridad que la ley y los reglamentos otorgan a los oficiales y demás personal de Carabineros sobre sus subalternos o subordinados por razón de destino, comisión, grado jerárquico o antigüedad.
+Mando es el ejercicio de la autoridad que la ley y los reglamentos otorgan a los oficiales y demás personal de Carabineros y a los llamados al servicio, sobre sus subalternos o subordinados por razón de destino, comisión, grado jerárquico o antigüedad.
 
 El mando policial en Carabineros corresponde por naturaleza al Oficial de Orden y Seguridad, y al de otro escalafón por excepción, sobre el personal que le está subordinado en razón del cargo que desempeña, o de comisión asignada y que tiende directamente a la consecución de la misión encomendada a Carabineros de Chile. Es total, se ejerce en todo momento y circunstancias y no tiene más restrincciones que las establecidas expresamente en las leyes y reglamentos.
 
@@ -530,7 +534,7 @@ La pensión de retiro del personal femenino con 25 años de servicios o 20 años
 
 El personal que se reincorpore al servicio en su mismo empleo o plaza, pierde el goce de la pensión de retiro concedida, pero tiene derecho a que el tiempo anterior de servicios le sea abonado para lo efectos de su posterior retiro.
 
-El personal que vuelva al servicio en otras plazas o empleos de Carabineros, Fuerzas Armadas o Policía de Investigaciones tendrá derecho a que su pensión sea reliquidada en los términos indicados en el Estatuto del Personal.
+El personal que vuelva al servicio en otras plazas o empleos de Carabineros, Fuerzas Armadas o Policía de Investigaciones tendrá derecho a que su pensión sea reliquidada en los términos indicados en el Estatuto del Personal. Igual derecho tendrán los llamados al servicio en Carabineros.
 
 #### Artículo 59
 
