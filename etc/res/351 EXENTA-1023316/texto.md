@@ -1,0 +1,3 @@
+Por resolución exenta Nº 351, de 9 de febrero de 2011, de esta Subsecretaría, rectifícase la resolución exenta Nº 343, de 2011, de esta Subsecretaría, que modifica la resolución que autoriza la ejecución de la pesca de investigación efectuada de conformidad con los términos técnicos de referencia del proyecto denominado "Pesca de ordenamiento de la pesquería artesanal de Merluza del sur (Merluccius australis) de la zona de Hualaihué año 2011, con aplicación del Sistema Electrónico de Identificación, SELID", en el sentido de indicar que la resolución que se modifica es la resolución exenta Nº 3.951, de 2010, de esta Subsecretaría, y no como allí se indica.
+
+Valparaíso, 9 de febrero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
