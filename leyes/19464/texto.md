@@ -34,17 +34,13 @@ b) De paradocencia, que es aquella de nivel técnico, complementaria a la labor 
 
 Se aplicará, asimismo, al personal asistente de la educación que cumpla funciones en internados administrados directamente por las municipalidades o por corporaciones privadas sin fines de lucro creadas por éstas.
 
-#### Artículo 3
+#### Artículo 3°
 
-Sin perjuicio de las inhabilidades señaladas en la Constitución y en la ley, no podrán desempeñar labores de asistentes de la educación los condenados por alguno de los delitos contemplados en el título V del decreto con fuerza de ley N° 1, de 2000, del Ministerio de Justicia; alguno de los delitos contemplados en las leyes Nos 16.618; 20.000, con excepción de lo dispuesto en su artículo 4; 20.005; 20.066 y 20.357; y en los artículos 141, inciso final, y 142, inciso final, del párrafo 3 del título Tercero, en los párrafos 2, 5, 6, 7 y artículo 374 bis del título Séptimo, en los párrafos 1 y 2, en los artículos 395 a 398 del párrafo 3, y en los párrafos 3 bis y 5 bis del título Octavo, y en los artículos 433, 436 y 438 del título Noveno, todos del Libro Segundo del Código Penal.
+Sin perjuicio de las inhabilidades señaladas en la Constitución y en la ley, no podrán desempeñar labores de asistentes de la educación los condenados por alguno de los delitos contemplados en las leyes N°s. 16.618, 19.325, 19.366 20.005 y 20.066 y en los Párrafos 1, 4, 5, 6 y 8 del Título VII y 1 y 2 del Título VIII del Libro Segundo del Código Penal.
 
-En caso de que el asistente de la educación sea sometido a la medida cautelar de prisión preventiva en una investigación por alguno de los delitos señalados en el inciso anterior, podrá ser suspendido de sus funciones, con o sin derecho a remuneración total o parcial, por el tiempo que se prolongue la medida cautelar.
+Asimismo, no podrán desempeñarse como asistentes de la educación quienes no acrediten idoneidad sicológica para desempeñar dicha función, sobre la base del informe que deberá emitir el Servicio de Salud correspondiente.
 
-Asimismo, para desempeñarse como asistentes de la educación deberá acreditarse idoneidad sicológica para desempeñar dicha función, sobre la base de un informe que deberá emitir el Servicio de Salud correspondiente y no podrán encontrarse inhabilitados para trabajar con menores de edad o desempeñarse en establecimientos educacionales, de acuerdo a la ley N° 20.594.
-
-El informe de idoneidad sicológica señalado en el inciso anterior deberá referirse exclusivamente a la aptitud del trabajador para relacionarse con menores de edad y no podrá en caso alguno referirse a las competencias laborales del trabajador, las que deberán acreditarse en el correspondiente proceso de selección de personal.
-
-La idoneidad sicológica para desempeñarse como asistente de la educación deberá acreditarse en forma previa a la celebración del respectivo contrato.
+> **Nota.** La letra "b" del Nº 3, del artículo 1º, de la LEY 20244, publicada el 19.01.2008, omite agregar una coma (,) después de la expresión "19.366".
 
 #### Artículo 4°
 
@@ -68,7 +64,7 @@ No obstante regirse por el Código del Trabajo, en lo relativo a su derecho de a
 
 #### Artículo 7°
 
-El aumento de remuneraciones establecido en la presente ley para el personal asistente de la educación que cumple funciones en los establecimientos educacionales que dependen de los departamentos de administración educacional de las municipalidades, cualquiera sea su denominación, será proporcional a la jornada de trabajo y su monto mensual, que deberá determinarse en el mes siguiente al de publicación de esta ley y en los meses de enero de 1997, enero de 1998, enero de 1999, enero de 2000, enero del año 2001, enero del año 2002, enero del año 2003 y enero del año 2004, enero del año 2005, enero del año 2006, enero del año 2008 y enero de cada año, será permanente por el período anual respectivo.
+El aumento de remuneraciones establecido en la presente ley para el personal asistente de la educación que cumple funciones en los establecimientos educacionales que dependen de los departamentos de administración educacional de las municipalidades, cualquiera sea su denominación, será proporcional a la jornada de trabajo y su monto mensual, que deberá determinarse en el mes siguiente al de publicación de esta ley y en los meses de enero de 1997, enero de 1998, enero de 1999, enero de 2000, enero del año 2001, enero del año 2002, enero del año 2003 y enero del año 2004, enero del año 2005, enero del año 2006, enero del año 2008 y enero del año 2011, será permanente por el período anual respectivo.
 
 Para determinar el monto mensual del aumento de remuneraciones establecido en el inciso anterior, los sostenedores de establecimientos educacionales distribuirán los recursos recibidos mediante procedimientos que consideren los criterios
 
@@ -80,7 +76,7 @@ El aumento de remuneraciones que contempla esta ley para el personal asistente d
 
 #### Artículo 9°
 
-A contar desde el 1° de enero de 2023, la subvención a que se refiere el artículo 1° pasará a incrementar, en la proporción que corresponda, los factores de la unidad de subvención educacional señalados en el artículo 9° del decreto con fuerza de ley N° 5, del Ministerio de Educación, de 1993. Dicho incremento se determinará mediante decreto supremo del mismo Ministerio, suscrito, además, por el Ministro de Hacienda.
+A contar desde el 1° de enero de 2012, la subvención a que se refiere el artículo 1° pasará a incrementar, en la proporción que corresponda, los factores de la unidad de subvención educacional señalados en el artículo 9° del decreto con fuerza de ley N° 5, del Ministerio de Educación, de 1993. Dicho incremento se determinará mediante decreto supremo del mismo Ministerio, suscrito, además, por el Ministro de Hacienda.
 
 #### Artículo 10
 

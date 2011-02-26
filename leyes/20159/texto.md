@@ -76,15 +76,17 @@ El mayor gasto que represente la aplicación de esta ley durante el presente añ
 
 #### Artículo 11
 
-Facúltase al Ministerio de Educación, de manera permanente, para efectuar anticipos de las subvenciones estatales por escolaridad a que se refiere el artículo 9° del decreto con fuerza de ley Nº 2, de 1998, de ese Ministerio, a las municipalidades que, administrando directamente o a través de corporaciones los establecimientos educacionales traspasados en virtud de lo dispuesto por el decreto con fuerza de ley Nº 1-3.063, de 1980, del Ministerio del Interior, no cuenten con disponibilidad financiera inmediata para solventar los gastos indemnizatorios originados por el ajuste de su dotación docente de acuerdo a los artículos 22 y siguientes del decreto con fuerza de ley Nº 1, de 1996, del Ministerio de Educación y/o término de la relación laboral del personal no docente.
+Facúltase al Ministerio de Educación, de manera permanente, para efectuar anticipos de las subvenciones estatales por escolaridad a que se refiere el artículo 9° del decreto con fuerza de ley Nº 2, de 1998, de ese Ministerio, a las municipalidades que, administrando directamente o a través de corporaciones los establecimientos educacionales traspasados en virtud de lo dispuesto por el decreto con fuerza de ley Nº 1-3.063, de 1980, del Ministerio del Interior, no cuenten con disponibilidad financiera inmediata para solventar los gastos indemnizatorios contemplados en el decreto con fuerza de ley Nº 1, de 1997, del Ministerio de Educación y en el plan de retiro y las indemnizaciones contempladas en la Ley de Calidad y Equidad de la Educación, así como los originados por el término de la relación laboral del personal no docente.
 
 El monto máximo del anticipo no podrá exceder del monto total de los gastos a pagar y el reintegro de los recursos anticipados deberá efectuarse a partir del mes siguiente al de su percepción, en cuotas iguales, mensuales y sucesivas, que se descontarán de la subvención de escolaridad a que se refiere el inciso anterior.
 
-Dichos descuentos mensuales no podrán exceder, en conjunto, para una misma municipalidad o corporación municipal, de un tres por ciento del monto de la subvención percibida en el mes anterior al anticipo, hasta completar el pago del total anticipado.
+Dichos descuentos mensuales no podrán exceder, por aplicación de ésta u otras leyes, en conjunto, para una misma municipalidad o corporación municipal, de un tres por ciento del monto de la subvención percibida en el mes de febrero del año en que se otorga el anticipo, hasta completar el pago del total anticipado.
 
 La municipalidad o corporación que desee obtener el anticipo a que se refiere este artículo deberá solicitarlo, previo acuerdo del Concejo, a la Subsecretaría de Educación.
 
 Por resolución dictada por el Ministerio de Educación, visada por la Dirección de Presupuestos del Ministerio de Hacienda, se fijará el monto del anticipo otorgado, el detalle de los compromisos que se solventarán con cargo a dicho anticipo, el plazo del pago, el valor y número de cuotas en las cuales deberá ser devuelto y los demás antecedentes que justifiquen la solicitud de recursos. Copia de dicha resolución será remitida a la Subsecretaría de Desarrollo Regional y Administrativo del Ministerio del Interior.
+
+> **Nota.** La modificación al inciso primero del presente artículo dispuesta por la letra a) del Art. 8º de la Ley 20501, publicada el 26.02.2011, dejó subsistente la siguiente frase final: "y/o término de la relación laboral del personal no docente". En la presente actualización esta frase ha sido suprimida, por estar manifiestamente reiterada en el texto incorporado.
 
 #### Artículo transitorio
 

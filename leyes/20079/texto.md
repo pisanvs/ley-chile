@@ -268,23 +268,7 @@ El mayor gasto fiscal que representa el pago de las cotizaciones de previsión y
 
 #### Artículo 36
 
-Establécese un bono pro calidad de la dotación docente, para los profesionales de la educación que presten servicios en los establecimientos educacionales del sector municipal, administrados ya sea directamente por las municipalidades o a través de las corporaciones municipales, que habiendo sido evaluados de conformidad a lo dispuesto en el artículo 70 del decreto con fuerza de ley N°1, de 1996, del Ministerio de Educación, hayan dejado de pertenecer a la dotación docente por encontrarse en la situación señalada en el inciso séptimo del artículo antes mencionado. Este bono ascenderá a los montos siguientes, según corresponda:
-
-a) Si el promedio mensual de las 12 últimas remuneraciones anteriores al mes en que el profesional de la educación dejó de pertenecer a la dotación docente del sector municipal es inferior a 14,32 unidades tributarias mensuales, el bono será de 79,58 unidades tributarias mensuales.
-
-b) Si el promedio de remuneraciones señalado en la letra anterior es igual o superior a 14,32 unidades tributarias mensuales e inferior a 19,10 unidades tributarias mensuales, el bono será de 120,97 unidades tributarias mensuales.
-
-c) Si el promedio de remuneraciones señalado en la letra a) es igual o superior a 19,10 unidades tributarias mensuales e inferior a 23,87 unidades tributarias mensuales, el bono será de 135,29 unidades tributarias mensuales.
-
-d) Si el promedio de remuneraciones antes señalado es igual o superior a 23,87 unidades tributarias mensuales el bono será de 143,25 unidades tributarias mensuales.
-
-Este bono se pagará por una sola vez a los profesionales de la educación señalados en el inciso anterior, en el mes subsiguiente a aquel en que dejen de pertenecer a la dotación docente del sector municipal, no será imponible ni tributable y será de cargo del empleador.
-
-Los profesionales de la educación que deban ser evaluados de conformidad al artículo 70 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, y se negaren a ello sin causa justificada, se presumirán evaluados en el nivel de desempeño insatisfactorio, no tendrán derecho a los planes de superación profesional, mantendrán su responsabilidad de curso y la obligación de evaluarse al año siguiente.
-
-Si el desempeño en el nivel insatisfactorio se mantuviere por tercer año consecutivo de evaluación y cualquiera de ellos se deba a la aplicación de la presunción antes referida, el profesional de la educación dejará de pertenecer a la dotación docente del sector municipal, a más tardar al término del año laboral docente, sin derecho a percibir el bono a que se refiere este artículo.
-
-Durante el año 2006, el bono del presente artículo se financiará con cargo al ítem 09-01-04-24-03.519 de la Ley de Presupuestos de dicho año, y su monto ascenderá a las cantidades establecidas en el inciso primero de este artículo según sea el promedio de remuneraciones indicada en dicha Ley de Presupuestos.".
+DEROGADO.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 

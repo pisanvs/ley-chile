@@ -34,41 +34,27 @@ El sistema educativo chileno se construye sobre la base de los derechos garantiz
 
 a) Universalidad y educación permanente. La educación debe estar al alcance de todas las personas a lo largo de toda la vida.
 
-b) Gratuidad. El Estado implantará progresivamente la enseñanza gratuita en los establecimientos subvencionados o que reciben aportes permanentes del Estado, de conformidad a la ley.
+b) Calidad de la educación. La educación debe propender a asegurar que todos los alumnos y alumnas, independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
 
-c) Calidad de la educación. La educación debe propender a asegurar que todos los alumnos y alumnas, independientemente de sus condiciones y circunstancias, alcancen los objetivos generales y los estándares de aprendizaje que se definan en la forma que establezca la ley.
+c) Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
 
-d) Equidad del sistema educativo. El sistema propenderá a asegurar que todos los estudiantes tengan las mismas oportunidades de recibir una educación de calidad, con especial atención en aquellas personas o grupos que requieran apoyo especial.
+d) Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
 
-e) Autonomía. El sistema se basa en el respeto y fomento de la autonomía de los establecimientos educativos. Consiste en la definición y desarrollo de sus proyectos educativos, en el marco de las leyes que los rijan.
+e) Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las poblaciones que son atendidas por él.
 
-f) Diversidad. El sistema debe promover y respetar la diversidad de procesos y proyectos educativos institucionales, así como la diversidad cultural, religiosa y social de las familias que han elegido un proyecto diverso y determinado, y que son atendidas por él, en conformidad a la Constitución y las leyes.
+f) Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
 
-En los establecimientos educacionales de propiedad o administración del Estado se promoverá la formación laica, esto es, respetuosa de toda expresión religiosa, y la formación ciudadana de los estudiantes, a fin de fomentar su participación en la sociedad.
+g) Participación. Los miembros de la comunidad educativa tienen derecho a ser informados y a participar en el proceso educativo en conformidad a la normativa vigente.
 
-g) Responsabilidad. Todos los actores del proceso educativo deben cumplir sus deberes y rendir cuenta pública cuando corresponda.
+h) Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades y proyectos educativos institucionales.
 
-Asimismo, el sistema educativo deberá promover el principio de la responsabilidad de los alumnos, especialmente en relación con el ejercicio de sus derechos y el cumplimiento de sus deberes escolares, cívicos, ciudadanos y sociales. Este principio se hará extensivo a los padres y apoderados, en relación con la educación de sus hijos o pupilos.
+i) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
 
-h) Participación. Los miembros de la comunidad educativa tienen derecho a ser informados y a participar en el proceso educativo en conformidad a la normativa vigente.
+j) Integración. El sistema propiciará la incorporación de alumnos de diversas condiciones sociales, étnicas, religiosas, económicas y culturales.
 
-i) Flexibilidad. El sistema debe permitir la adecuación del proceso a la diversidad de realidades, asegurando la libertad de enseñanza y la posibilidad de existencia de proyectos educativos institucionales diversos.
+k) Sustentabilidad. El sistema fomentará el respeto al medio ambiente y el uso racional de los recursos naturales, como expresión concreta de la solidaridad con las futuras generaciones.
 
-j) Transparencia. La información desagregada del conjunto del sistema educativo, incluyendo los ingresos y gastos y los resultados académicos, debe estar a disposición de los ciudadanos, a nivel de establecimiento, comuna, provincia, región y país.
-
-k) Integración e inclusión. El sistema propenderá a eliminar todas las formas de discriminación arbitraria que impidan el aprendizaje y la participación de los y las estudiantes, y posibilitará la integración de quienes tengan necesidades educativas especiales.
-
-Asimismo, el sistema propiciará que los establecimientos educativos sean un lugar de encuentro entre los y las estudiantes de distintas condiciones socioeconómicas, culturales, étnicas, de género, de nacionalidad o de religión.
-
-l) Sustentabilidad. El sistema incluirá y fomentará el respeto al medio ambiente natural y cultural, la buena relación y el uso racional de los recursos naturales y su sostenibilidad, como expresión concreta de la solidaridad con las actuales y futuras generaciones.
-
-m) Interculturalidad. El sistema debe reconocer y valorar al individuo en su especificidad cultural y de origen, considerando su lengua, cosmovisión e historia.
-
-n) Dignidad del ser humano. El sistema debe orientarse hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y debe fortalecer el respeto, protección y promoción de los derechos humanos y las libertades fundamentales consagradas en la Constitución Política de la República, así como en los tratados internacionales ratificados por Chile y que se encuentren vigentes.
-
-ñ) Educación integral. El sistema educativo buscará desarrollar puntos de vista alternativos en la evolución de la realidad y de las formas múltiples del conocer, considerando además, los aspectos físico, social, moral, estético, creativo y espiritual, con atención especial a la integración de todas las ciencias, artes y disciplinas del saber.
-
-o) Educación digital. El sistema educativo promoverá el uso responsable y seguro del contenido digital y de las tecnologías que lo soportan durante el proceso formativo, en particular, de aquel contenido vinculado a la información, la comunicación y la conectividad digital.
+l) Interculturalidad. El sistema debe reconocer y valorar al individuo en su especificidad cultural y de origen, considerando su lengua, cosmovisión e historia.
 
 ### Párrafo 2º
 
@@ -78,15 +64,13 @@ Derechos y deberes
 
 La educación es un derecho de todas las personas. Corresponde preferentemente a los padres el derecho y el deber de educar a sus hijos; al Estado, el deber de otorgar especial protección al ejercicio de este derecho y, en general, a la comunidad, el deber de contribuir al desarrollo y perfeccionamiento de la educación.
 
-Es deber del Estado propender a asegurar a todas las personas una educación inclusiva de calidad. Asimismo, es deber del Estado promover que se generen las condiciones necesarias para el acceso y permanencia de los estudiantes con necesidades educativas especiales en establecimientos de educación regular o especial, según sea el interés superior del niño o pupilo.
-
 Es deber del Estado promover la educación parvularia en todos sus niveles y garantizar el acceso gratuito y el financiamiento fiscal para el primer y segundo nivel de transición, sin que éstos constituyan requisitos para el ingreso a la educación básica.
 
-La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso equitativo, inclusivo y sin discriminaciones arbitrarias a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.
+La educación básica y la educación media son obligatorias, debiendo el Estado financiar un sistema gratuito destinado a asegurar el acceso a ellas de toda la población, así como generar las condiciones para la permanencia en el mismo de conformidad a la ley.
 
 El sistema de educación será de naturaleza mixta, incluyendo una de propiedad y administración del Estado o sus órganos, y otra particular, sea ésta subvencionada o pagada, asegurándole a los padres y apoderados la libertad de elegir el establecimiento educativo para sus hijos.
 
-Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social, la equidad, la libertad y la tolerancia.
+Sin perjuicio de sus demás deberes, es deber del Estado que el sistema integrado por los establecimientos educacionales de su propiedad provea una educación gratuita y de calidad, fundada en un proyecto educativo público, laico, esto es, respetuoso de toda expresión religiosa, y pluralista, que permita el acceso a él a toda la población y que promueva la inclusión social y la equidad.
 
 Es deber del Estado promover políticas educacionales que reconozcan y fortalezcan las culturas originarias.
 
@@ -98,11 +82,9 @@ Es deber del Estado mantener y proveer información desagregada sobre la calidad
 
 Es deber del Estado velar por la igualdad de oportunidades y la inclusión educativa, promoviendo especialmente que se reduzcan las desigualdades derivadas de circunstancias económicas, sociales, étnicas, de género o territoriales, entre otras.
 
-Es deber del Estado promover la buena convivencia, el buen trato y la no discriminación arbitraria, así como proponer medidas y orientaciones para la erradicación de todos los tipos de acoso, violencia y actos de discriminación entre los integrantes de las comunidades educativas. Asimismo, promoverá el bienestar socioemocional, el aprendizaje y la educación integral en las comunidades educativas, y propenderá al desarrollo de medidas y orientaciones para la protección de los entornos de los centros educativos.
-
 #### Artículo 5º
 
-Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de una educación inclusiva en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; fomentar el desarrollo de una cultura cívica y laica, esto es, respetuosa de toda expresión religiosa; y que promueva la participación activa, ética y solidaria de las personas en la sociedad, con fundamento en los tratados internacionales sobre derechos humanos ratificados por Chile y que se encuentran vigentes; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.
+Corresponderá al Estado, asimismo, fomentar la probidad, el desarrollo de la educación en todos los niveles y modalidades y promover el estudio y conocimiento de los derechos esenciales que emanan de la naturaleza humana; fomentar una cultura de la paz y de la no discriminación arbitraria; estimular la investigación científica, tecnológica y la innovación, la creación artística, la práctica del deporte, la protección y conservación del patrimonio cultural y medio ambiental, y la diversidad cultural de la Nación.
 
 #### Artículo 6º
 
@@ -132,7 +114,7 @@ La libertad de enseñanza incluye el derecho de abrir, organizar y mantener esta
 
 #### Artículo 9º
 
-La comunidad educativa es una agrupación de personas que inspiradas en un propósito común integran una institución educativa. Ese objetivo común es contribuir a la formación y el logro de aprendizajes de todos los alumnos que son miembros de ésta, propendiendo a asegurar su pleno desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico. El propósito compartido de la comunidad se expresa en la adhesión al proyecto educativo del establecimiento y a sus reglas de convivencia establecidas en el reglamento interno. Este reglamento debe permitir el ejercicio efectivo de los derechos y deberes de todas las personas integrantes de la comunidad educativa.
+La comunidad educativa es una agrupación de personas que inspiradas en un propósito común integran una institución educativa. Ese objetivo común es contribuir a la formación y el logro de aprendizajes de todos los alumnos que son miembros de ésta, propendiendo a asegurar su pleno desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico. El propósito compartido de la comunidad se expresa en la adhesión al proyecto educativo del establecimiento y a sus reglas de convivencia establecidas en el reglamento interno. Este reglamento debe permitir el ejercicio efectivo de los derechos y deberes señalados en esta ley.
 
 La comunidad educativa está integrada por alumnos, alumnas, padres, madres y apoderados, profesionales de la educación, asistentes de la educación, equipos docentes directivos y sostenedores educacionales.
 
@@ -140,25 +122,25 @@ La comunidad educativa está integrada por alumnos, alumnas, padres, madres y ap
 
 Sin perjuicio de los derechos y deberes que establecen las leyes y reglamentos, los integrantes de la comunidad educativa gozarán de los siguientes derechos y estarán sujetos a los siguientes deberes:
 
-a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención y educación adecuada, oportuna e inclusiva, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales. Asimismo, tienen derecho a que se respeten las tradiciones y costumbres de los lugares en los que residen, conforme al proyecto educativo institucional y al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, a asociarse entre ellos, y a disponer de actividades para fomentar la interacción social y el encuentro comunitario, tales como los juegos en equipo y los ejercicios grupales durante los recreos, con el propósito de desincentivar el uso excesivo de dispositivos móviles electrónicos de comunicación personal.
+a) Los alumnos y alumnas tienen derecho a recibir una educación que les ofrezca oportunidades para su formación y desarrollo integral; a recibir una atención adecuada y oportuna, en el caso de tener necesidades educativas especiales; a no ser discriminados arbitrariamente; a estudiar en un ambiente tolerante y de respeto mutuo, a expresar su opinión y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes y de maltratos psicológicos. Tienen derecho, además, a que se respeten su libertad personal y de conciencia, sus convicciones religiosas e ideológicas y culturales, conforme al reglamento interno del establecimiento. De igual modo, tienen derecho a ser informados de las pautas evaluativas; a ser evaluados y promovidos de acuerdo a un sistema objetivo y transparente, de acuerdo al reglamento de cada establecimiento; a participar en la vida cultural, deportiva y recreativa del establecimiento, y a asociarse entre ellos.
 
-Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, contribuir a promover juegos, la interacción social y el encuentro comunitario, especialmente en recreos; cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
+Son deberes de los alumnos y alumnas brindar un trato digno, respetuoso y no discriminatorio a todos los integrantes de la comunidad educativa; asistir a clases; estudiar y esforzarse por alcanzar el máximo de desarrollo de sus capacidades; colaborar y cooperar en mejorar la convivencia escolar, cuidar la infraestructura educacional y respetar el proyecto educativo y el reglamento interno del establecimiento.
 
-b) Los padres, madres y apoderados tienen derecho a asociarse libremente, con la finalidad de lograr una mejor educación para sus hijos, a ser informados por el sostenedor y los directivos y docentes a cargo de la educación de sus hijos o pupilos respecto de los rendimientos académicos, de la convivencia escolar y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
+b) Los padres, madres y apoderados tienen derecho a ser informados por los directivos y docentes a cargo de la educación de sus hijos respecto de los rendimientos académicos y del proceso educativo de éstos, así como del funcionamiento del establecimiento, y a ser escuchados y a participar del proceso educativo en los ámbitos que les corresponda, aportando al desarrollo del proyecto educativo en conformidad a la normativa interna del establecimiento. El ejercicio de estos derechos se realizará, entre otras instancias, a través del Centro de Padres y Apoderados.
 
-Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos, informarse, respetar y contribuir a dar cumplimiento al proyecto educativo, a las normas de convivencia y a las de funcionamiento del establecimiento que elijan para éstos; apoyar sus procesos educativos; supervisar y acompañar el uso de dispositivos móviles electrónicos de comunicación personal por parte de los estudiantes fuera del horario escolar, así como asumir la responsabilidad por las consecuencias derivadas de su utilización indebida; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna y brindar un trato respetuoso a los integrantes de la comunidad educativa.
+Por su parte, son deberes de los padres, madres y apoderados educar a sus hijos e informarse sobre el proyecto educativo y normas de funcionamiento del establecimiento que elijan para éstos; apoyar su proceso educativo; cumplir con los compromisos asumidos con el establecimiento educacional; respetar su normativa interna, y brindar un trato respetuoso a los integrantes de la comunidad educativa.
 
-c) Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo; del mismo modo, tienen derecho a trabajar en ambientes seguros, libres de violencia, acoso y discriminación, donde se respete su autoridad pedagógica y se resguarde su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo.
+c) Los profesionales de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo; del mismo modo, tienen derecho a que se respete su integridad física, psicológica y moral, no pudiendo ser objeto de tratos vejatorios, degradantes o maltratos psicológicos por parte de los demás integrantes de la comunidad educativa. Además, tienen derecho a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna, procurando, además, disponer de los espacios adecuados para realizar en mejor forma su trabajo.
 
 Por su parte, son deberes de los profesionales de la educación ejercer la función docente en forma idónea y responsable; orientar vocacionalmente a sus alumnos cuando corresponda; actualizar sus conocimientos y evaluarse periódicamente; investigar, exponer y enseñar los contenidos curriculares correspondientes a cada nivel educativo establecidos por las bases curriculares y los planes y programas de estudio; respetar tanto las normas del establecimiento en que se desempeñan como los derechos de los alumnos y alumnas, y tener un trato respetuoso y sin discriminación arbitraria con los estudiantes y demás miembros de la comunidad educativa.
 
-d) Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo y a trabajar en ambientes seguros, libres de violencia, acoso y discriminación, donde se respete su autoridad como asistentes de la labor pedagógica y se resguarde su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes; a recibir un trato respetuoso de parte de los demás integrantes de la comunidad escolar; a participar de las instancias colegiadas de ésta, y a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna.
+d) Los asistentes de la educación tienen derecho a trabajar en un ambiente tolerante y de respeto mutuo y a que se respete su integridad física y moral, no pudiendo ser objeto de tratos vejatorios o degradantes; a recibir un trato respetuoso de parte de los demás integrantes de la comunidad escolar; a participar de las instancias colegiadas de ésta, y a proponer las iniciativas que estimaren útiles para el progreso del establecimiento, en los términos previstos por la normativa interna.
 
 Son deberes de los asistentes de la educación ejercer su función en forma idónea y responsable; respetar las normas del establecimiento en que se desempeñan, y brindar un trato respetuoso a los demás miembros de la comunidad educativa.
 
 e) Los equipos docentes directivos de los establecimientos educacionales tienen derecho a conducir la realización del proyecto educativo del establecimiento que dirigen.
 
-Son deberes de los equipos docentes directivos liderar los establecimientos a su cargo, sobre la base de sus responsabilidades, y propender a elevar la calidad de éstos; desarrollarse profesionalmente; promover en los docentes el desarrollo profesional necesario para el cumplimiento de sus metas educativas, y cumplir y respetar todas las normas del establecimiento que conducen. Asimismo, promoverán instancias de aprendizaje socioemocional, que reconozcan y atiendan necesidades emocionales individuales y grupales de los estudiantes.
+Son deberes de los equipos docentes directivos liderar los establecimientos a su cargo, sobre la base de sus responsabilidades, y propender a elevar la calidad de éstos; desarrollarse profesionalmente; promover en los docentes el desarrollo profesional necesario para el cumplimiento de sus metas educativas, y cumplir y respetar todas las normas del establecimiento que conducen.
 
 Para el mejor cumplimiento de estos objetivos los miembros de estos equipos de los establecimientos subvencionados o que reciben aportes del Estado deberán realizar supervisión pedagógica en el aula.
 
@@ -168,95 +150,33 @@ f) Los sostenedores de establecimientos educacionales tendrán derecho a estable
 
 Son deberes de los sostenedores cumplir con los requisitos para mantener el reconocimiento oficial del establecimiento educacional que representan; garantizar la continuidad del servicio educacional durante el año escolar; rendir cuenta pública de los resultados académicos de sus alumnos y cuando reciban financiamiento estatal, rendir cuenta pública del uso de los recursos y del estado financiero de sus establecimientos a la Superintendencia. Esa información será pública. Además, están obligados a entregar a los padres y apoderados la información que determine la ley y a someter a sus establecimientos a los procesos de aseguramiento de calidad en conformidad a la ley.
 
-#### Artículo 10 bis
-
-Prohíbese el uso de dispositivos móviles electrónicos de comunicación personal, en adelante "dispositivos móviles", en los establecimientos educacionales que imparten niveles de educación parvularia, básica o media.
-
-Excepcionalmente, se podrá autorizar el empleo de dispositivos móviles en las siguientes situaciones:
-
-a) Si el estudiante presenta necesidades educativas especiales respecto de las cuales el uso adecuado de estos dispositivos móviles se considera como una ayuda técnica al servicio de sus aprendizajes. Esta circunstancia deberá ser acreditada por el padre, madre o apoderado del estudiante a través de un certificado emitido por un profesional competente, en los términos señalados en los incisos segundo y tercero del artículo 9° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado del decreto con fuerza de ley N° 2, de 1996, sobre subvención del Estado a establecimientos educacionales.
-
-b) Si existe una situación de emergencia, desastre o catástrofe.
-
-c) Si el estudiante presenta una enfermedad o condición de salud, diagnosticada por un médico, que requiera monitoreo periódico a través de dispositivos móviles. Esta circunstancia deberá ser acreditada por el padre, madre o apoderado del estudiante a través de un certificado médico.
-
-d) Si la utilización de estos dispositivos móviles es útil para la enseñanza en función de la naturaleza de la actividad curricular o extracurricular en los establecimientos educacionales que imparten educación básica o media.
-
-e) Si el padre, madre o apoderado lo solicita fundadamente y de forma temporal, solo por razones de seguridad personal o familiar del estudiante.
-
-Las excepciones indicadas en los literales a); c); d), en lo que respecta a las actividades curriculares; y e) deberán ser autorizadas expresamente por el director del establecimiento educacional.
-
-En consonancia con las instrucciones que imparta la Superintendencia de Educación para la actualización, aprobación y difusión de los reglamentos internos, los establecimientos educacionales deberán disponer medidas para materializar tanto la prohibición establecida en el inciso primero, y considerar mecanismos, condiciones y consecuencias aplicables al uso de dispositivos móviles; como las excepciones señaladas.
-
-La prohibición de uso de dispositivos móviles señalada en el inciso primero se aplicará, especialmente, durante el desarrollo de actividades curriculares dentro de la sala de clases y se extenderá a todos los integrantes de la comunidad educativa, salvo en los casos excepcionales que contempla este artículo.
-
-Sin perjuicio de lo anterior, en el nivel de educación media, los reglamentos de los establecimientos educacionales podrán disponer espacios, horarios o actividades específicas en que la utilización de dispositivos móviles esté autorizada, en atención a la autonomía progresiva de los alumnos. Dichos reglamentos deberán establecer procedimientos, acciones y medidas para regular el uso adecuado de los dispositivos móviles, así como las consecuencias de su incumplimiento.
-
-En concordancia con las medidas dispuestas en el artículo 10 quater, los establecimientos educacionales que impartan educación básica o media deberán informar a sus estudiantes, así como a toda la comunidad educativa, sobre el empleo responsable de los dispositivos móviles y los riesgos asociados, y promover instancias formativas que prevengan su uso indebido o la comisión de delitos mediante tales medios.
-
-> **Nota.** El artículo 12 transitorio de la presente ley establece que lo indicado en este artículo 10 bis entrará en vigencia al inicio del año escolar 2026. Asimismo, dispone que los establecimientos de educación parvularia, básica y media deberán actualizar sus reglamentos internos antes del 30 de junio de 2026, conforme a las instrucciones de la Superintendencia de Educación. En marzo de 2030, el Ministerio de Educación presentará al Congreso una evaluación sobre la implementación y efectos de la medida, pudiendo proponer ajustes normativos y reglamentarios.
-
-#### Artículo 10 ter
-
-Para efectos de lo dispuesto en esta ley, se entenderá por dispositivos móviles electrónicos de comunicación personal aquellos medios tecnológicos que permiten efectuar telecomunicación, acceder a la red de internet para mantener interacción de telecomunicación y consultar contenidos o plataformas digitales.
-
-#### Artículo 10 quater
-
-El Estado desarrollará acciones informativas dirigidas a la población y, especialmente, a las comunidades educativas, respecto del impacto derivado del uso de dispositivos móviles electrónicos de comunicación personal por parte de estudiantes de educación parvularia, básica y media.
-
-Para estos efectos, el Ministerio de Educación, en coordinación con el Ministerio Secretaría General de Gobierno y con el Ministerio de Desarrollo Social y Familia, elaborará anualmente una campaña de difusión e información destinada a:
-
-a) Promover el uso responsable y gradual de los dispositivos móviles, de acuerdo con la edad y al grado de desarrollo personal de niñas, niños y adolescentes.
-
-b) Prevenir los riesgos asociados a la utilización inadecuada de tales dispositivos.
-
-c) Dar a conocer medidas eficaces para evitar su uso inadecuado, con resguardo de los derechos establecidos en la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y la adolescencia.
-
 #### Artículo 11
 
-El embarazo, la maternidad y la paternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
+El embarazo y la maternidad en ningún caso constituirán impedimento para ingresar y permanecer en los establecimientos de educación de cualquier nivel, debiendo estos últimos otorgar las facilidades académicas y administrativas que permitan el cumplimiento de ambos objetivos.
 
-En los establecimientos educacionales reconocidos oficialmente por el Estado, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
+En los establecimientos que reciben aporte estatal, el cambio del estado civil de los padres y apoderados, no será motivo de impedimento para la continuidad del alumno o alumna dentro del establecimiento.
 
 Del mismo modo, durante la vigencia del respectivo año escolar o académico, no se podrá cancelar la matrícula, ni suspender o expulsar alumnos por causales que se deriven del no pago de obligaciones contraídas por los padres o del rendimiento de los alumnos.
 
 El no pago de los compromisos contraídos por el alumno o por el padre o apoderado no podrá servir de fundamento para la aplicación de ningún tipo de sanción a los alumnos durante el año escolar y nunca podrá servir de fundamento para la retención de su documentación académica, sin perjuicio del ejercicio de otros derechos por parte del sostenedor o de la institución educacional, en particular, los referidos al cobro de arancel o matrícula, o ambos, que el padre o apoderado hubiere comprometido.
 
-En los establecimientos reconocidos oficialmente por el Estado, el rendimiento escolar del alumno, no será obstáculo para la renovación de su matrícula.
+En los establecimientos subvencionados, el rendimiento escolar del alumno, entre el primer nivel de transición de la educación parvularia y hasta sexto año de educación general básica, no será obstáculo para la renovación de su matrícula.
 
-En ningún caso se podrá condicionar la incorporación, la asistencia y la permanencia de los y las estudiantes a que consuman algún tipo de medicamento para tratar trastornos de conducta, tales como el trastorno por déficit atencional e hiperactividad. El establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
-
-Los establecimientos propiciarán iniciativas de apoyo biopsicosociales y de atención diferenciada, tanto en las actividades curriculares como extracurriculares, facilitando ambientes de aprendizaje que permitan atender las necesidades educativas especiales y, de este modo, promover el desarrollo de habilidades emocionales y sociales. Estas habilidades pueden ser introducidas, entre otras disciplinas o metodologías, por medio de prácticas deportivas o contemplativas, tales como meditación, yoga, mindfulness, taichi, danza o expresiones artísticas, destinadas tanto al favorecimiento del rendimiento académico, como al bienestar e integración de los y las estudiantes, en consideración a las diversas capacidades que posean y a la etapa del aprendizaje en que se encuentren.
-
-En aquellos casos en que exista prescripción médica de un especialista y con estricto cumplimiento de los protocolos del Ministerio de Salud, el establecimiento deberá otorgar todos los apoyos necesarios para asegurar la plena inclusión de los y las estudiantes.
-
-Los proyectos educativos de los establecimientos educacionales particulares pagados deberán contemplar programas de inclusión escolar que incorporen los ajustes necesarios y apoyos pertinentes, tales como estrategias de diversificación de la enseñanza y adecuaciones curriculares, entre otros, para el acceso y permanencia de estudiantes con discapacidad o necesidades educativas especiales permanentes.
-
-En ningún caso se podrá cancelar la matrícula ni suspender o expulsar alumnos por presentar discapacidad o necesidades educativas especiales permanentes.
-
-Sin embargo, en los establecimientos reconocidos oficialmente por el Estado, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
+Asimismo, en los establecimientos subvencionados, los alumnos tendrán derecho a repetir curso en un mismo establecimiento a lo menos en una oportunidad en la educación básica y en una oportunidad en la educación media, sin que por esa causal les sea cancelada o no renovada su matrícula.
 
 En el caso que en la misma comuna o localidad no exista otro establecimiento de igual nivel o modalidad, lo señalado en el inciso anterior no podrá afectar de manera alguna el derecho a la educación.
 
 Ni el Estado, ni los establecimientos educacionales podrán discriminar arbitrariamente en el trato que deben dar a los estudiantes y demás miembros de la comunidad educativa.
 
-> **Nota.** El artículo tercero transitorio de la Ley 21544, publicada el 09.02.2023, indica que los "ajustes necesarios" a los que se refieren los incisos noveno y décimo del presente artículo, incorporados por el número 1° del artículo 10° de la citada ley, son las medidas de adecuación del ambiente físico, social y de actitud a las carencias específicas de las personas con discapacidad o necesidades educativas especiales permanentes que, de forma eficaz y práctica y sin que suponga una carga desproporcionada para los establecimientos, faciliten la accesibilidad o participación de una persona con discapacidad o necesidades educativas especiales permanentes en igualdad de condiciones que el resto de las y los alumnos del mismo establecimiento, en virtud de lo dispuesto en la ley N° 20.422, que establece normas sobre igualdad de oportunidades e inclusión social de personas con discapacidad. Agrega, que, además, se deberán promover formas adecuadas de asistencia y apoyo a las personas con discapacidad o necesidades educativas especiales permanentes para asegurar su acceso a la información en todo el proceso educativo. Asímismo, se deberán facilitar las medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo su desarrollo académico y social, de conformidad con el objetivo de la plena inclusión.
-
 #### Artículo 12
 
-En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, en ningún caso se podrá considerar el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante, tales como nivel de escolaridad, estado civil y situación patrimonial de los padres, madres o apoderados.
-
-Los procesos de admisión de estudiantes a los establecimientos educacionales se realizarán por medio de un sistema que garantice la transparencia, equidad e igualdad de oportunidades, y que vele por el derecho preferente de los padres, madres o apoderados de elegir el establecimiento educacional para sus hijos.
-
-Con todo, en el caso del nivel parvulario, la nueva matrícula de una niña o un niño en un establecimiento de educación parvularia que reciba aportes del Estado dejará sin efecto la matrícula en el establecimiento anterior de iguales características.
-
-Lo señalado en los incisos anteriores es sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación.
+En los procesos de admisión de los establecimientos subvencionados o que reciban aportes regulares del Estado, que posean oferta educativa entre el primer nivel de transición y sexto año de la educación general básica, en ningún caso se podrá considerar en cada uno de estos cursos el rendimiento escolar pasado o potencial del postulante. Asimismo, en dichos procesos no será requisito la presentación de antecedentes socioeconómicos de la familia del postulante.
 
 #### Artículo 13
 
-Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos y alumnas deberán ser objetivos y transparentes, publicados en medios electrónicos, en folletos o murales públicos. En ningún caso se podrán implementar procesos que impliquen discriminaciones arbitrarias, debiendo asegurarse el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías reconocidas en la Constitución y en los tratados internacionales sobre derechos humanos ratificados por Chile, en especial aquellos que versen sobre derechos de los niños y que se encuentren vigentes.
+Sin perjuicio de lo señalado en el artículo anterior, los procesos de admisión de alumnos deberán ser objetivos y transparentes, asegurando el respeto a la dignidad de los alumnos, alumnas y sus familias, de conformidad con las garantías establecidas en la Constitución y en los tratados suscritos y ratificados por Chile.
 
-Al momento de la convocatoria, el sostenedor del establecimiento deberá informar, en los casos que corresponda y de conformidad a la ley:
+Al momento de la convocatoria, el sostenedor del establecimiento deberá informar:
 
 a) Número de vacantes ofrecidas en cada nivel;
 
@@ -272,259 +192,21 @@ f) Monto y condiciones de cobro por participar en el proceso, y
 
 g) Proyecto educativo del establecimiento.
 
-Los procesos de admisión de los establecimientos educacionales particulares pagados deberán asegurar, a partir del primer nivel de transición, que el 5% de los cupos sean prioritarios para estudiantes con discapacidad o necesidades educativas especiales permanentes, siempre que se presenten suficientes postulaciones para cubrir dichos cupos. Para tener dicha prioridad los apoderados deberán presentar evaluaciones médicas o certificado de discapacidad, de acuerdo a lo dispuesto en el Título II de la ley N° 20.422, para acreditar que el postulante presenta una discapacidad o necesidades educativas especiales permanentes. Lo señalado en este inciso es sin perjuicio de lo dispuesto en el decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación.
-
-Asimismo, los procesos de admisión de los establecimientos particulares pagados deberán priorizar a el o los hermanos de alumnos matriculados que presenten discapacidad o necesidades educativas especiales permanentes, para que puedan cursar sus estudios en estos establecimientos.
-
-Los directamente afectados por una acción u omisión que importe discriminación arbitraria en el ámbito educacional podrán interponer la acción de no discriminación arbitraria establecida en la ley Nº20.609, sin perjuicio de lo establecido en la Convención Relativa a la Lucha contra las Discriminaciones en la Esfera de la Enseñanza.
-
-> **Nota.** El artículo tercero transitorio de la Ley 21544, publicada el 09.02.2023, dispone que la modificación dispuesta por el número 2 del artículo 10° de la citada ley al presente artículo, que intercala los incisos tercero y cuarto nuevos, referidas a los procesos de admisión de los establecimientos particulares pagados, comenzarán a regir de acuerdo a las siguientes reglas: a) Para el año escolar 2026, deberán asegurar que al menos un cupo por nivel sea prioritario para estudiantes con discapacidad o necesidades educativas especiales permanentes. b) Para el año escolar 2027, al menos un cupo por curso deberá ser prioritario para estudiantes con discapacidad o necesidades educativas especiales permanentes. c) Para el año escolar 2028, se deberá dar cumplimiento a lo dispuesto en los incisos precedentemente señalados.
-
 #### Artículo 14
 
 Realizado un proceso de admisión, conforme a los artículos precedentes, el establecimiento publicará en un lugar visible y opcionalmente en un medio electrónico la lista de los admitidos. A quienes no resulten admitidos o a sus apoderados, cuando lo soliciten, deberá entregárseles un informe con los resultados de sus pruebas, firmado por el encargado del proceso de admisión del establecimiento.
 
 #### Artículo 15
 
-Los sostenedores asegurarán las condiciones para que en los establecimientos educacionales de su dependencia, a través de sus directores y equipos directivos, se promueva la participación de todas las personas de la comunidad educativa, especialmente, por la vía de facilitar los medios físicos o tecnológicos que tengan a disposición, para la conformación del Centro de Alumnas y Alumnos o de Estudiantes, del Centro de Padres y Apoderados, del Consejo de Profesores, del Consejo Escolar y, en los casos que determina la ley, del Consejo de Educación Parvularia, con el objeto de contribuir al proceso de enseñanza y aprendizaje de párvulos y estudiantes.
+Los establecimientos educacionales promoverán la participación de todos los miembros de la comunidad educativa, en especial a través de la formación de Centros de Alumnos, Centros de Padres y Apoderados, Consejos de Profesores y Consejos Escolares, con el objeto de contribuir al proceso de enseñanza del establecimiento.
 
-En los casos que corresponda, los representantes de las instancias señaladas en el inciso precedente deberán informar al director las fechas previstas para la elección de sus directivas y sobre las etapas que se encuentren establecidas en sus respectivos reglamentos, con el objeto de que sean incorporadas al calendario escolar o instrumento de planificación anual y que su realización no impida el normal funcionamiento del establecimiento educacional.
-
-En cada establecimiento educacional dependiente de un sostenedor que reciba subvenciones o aportes regulares del Estado deberá existir un Consejo Escolar, que tendrá el objetivo de estimular y canalizar la participación de la comunidad educativa en el proyecto educativo, promover la buena convivencia y el buen trato, conforme a lo establecido en el Párrafo 3º de este Título y en las demás áreas que estén dentro de la esfera de su competencia.
-
-Aquellos establecimientos que no se encuentren obligados a constituir el mencionado Consejo Escolar deberán crear un Comité de Buena Convivencia Educativa u otra entidad de similares características, que cumpla las funciones de promoción señaladas en el inciso anterior.
-
-Lo dispuesto en los incisos tercero y cuarto precedentes también se aplicará a los Consejos de Educación Parvularia en los establecimientos que en virtud de la ley deban contar con dicha instancia.
-
-Todos los establecimientos educacionales deberán contar con un equipo a cargo de la convivencia educativa, cuyo objetivo será la implementación del Plan de Gestión de Convivencia Educativa del establecimiento y las demás materias relacionadas que determine el equipo directivo. Asimismo, tendrá a su cargo asesorar y formular recomendaciones al director y al Consejo Escolar o al Comité de Buena Convivencia Educativa, según corresponda, durante el proceso de modificación del Plan señalado en el artículo 16 H y respecto de las demás materias relacionadas que determine el equipo directivo. Este equipo tendrá especial preocupación por la participación de padres y apoderados y del estudiantado en la elaboración y desarrollo de estrategias y actividades de reflexión, promoción y resguardo de la buena convivencia y el buen trato.
-
-El equipo de convivencia será liderado por una persona a cargo de la Coordinación de la Convivencia Educativa, que deberá ser un profesional de la educación o del área psicosocial o psicopedagógica, con formación o experiencia en el ámbito pedagógico o de convivencia educativa, de jornada completa con dedicación exclusiva. El director de cada establecimiento definirá el perfil del cargo del coordinador de convivencia educativa según las características del establecimiento educacional que dirige, debiendo presentar dicho perfil al sostenedor para su aprobación antes del inicio del proceso de selección.
-
-Los establecimientos en contexto de encierro, rurales, aulas hospitalarias, de educación parvularia y aquellos que tengan una matrícula inferior a ciento cincuenta párvulos o estudiantes, estarán exceptuados de las obligaciones señaladas en los incisos quinto y sexto precedentes. En dicho caso, al menos, deberán designar un coordinador de convivencia educativa entre los profesionales del establecimiento que cuenten con una jornada o destinación acorde a las funciones que le corresponda desempeñar.
-
-El equipo de convivencia educativa, además del coordinador de convivencia educativa, podrá estar constituido por dos profesionales, preferentemente del área psicosocial o psicopedagógica. La contratación de estos profesionales podrá imputarse a la Subvención Escolar Preferencial regulada en la ley N° 20.248.
+En cada establecimiento subvencionado o que recibe aportes del Estado deberá existir un Consejo Escolar. Dicha instancia tendrá como objetivo estimular y canalizar la participación de la comunidad educativa en el proyecto educativo y en las demás áreas que estén dentro de la esfera de sus competencias.
 
 #### Artículo 16
 
 Las infracciones a lo dispuesto en los artículos 11, 12, 13, 14 y 15 de esta ley serán sancionadas con multas de hasta 50 unidades tributarias mensuales, las que podrán duplicarse en caso de reincidencia.
 
 Las sanciones que se impongan deberán fundarse en el procedimiento establecido en el artículo 50 de esta ley.
-
-### Párrafo 3º
-
-Convivencia Educativa y Buen Trato
-
-#### Artículo 16
-
-A.- Se entenderá por buena convivencia educativa la coexistencia armónica de los miembros de la comunidad educativa, en que se promueven relaciones e interacciones inclusivas y participativas que fomentan la solidaridad, empatía, cohesión y consenso entre todos los integrantes de la comunidad educativa, a través de prácticas y procesos de aprendizaje que se orientan a reconocer y resolver las diferencias y conflictos en forma pacífica y colaborativa, atendiendo siempre el bien común, el interés superior de niños, niñas y adolescentes, respeto por los derechos y cumplimiento de deberes de todos los integrantes de la comunidad educativa y el ejercicio de la autoridad pedagógica y directiva.
-
-Los estudiantes, de acuerdo a su etapa de desarrollo, los padres, las madres, los apoderados, los asistentes de la educación y los equipos docentes y directivos de los establecimientos educacionales deberán propiciar un clima educativo que promueva la buena convivencia y el buen trato, con el objeto de prevenir entre los integrantes de la comunidad educativa todo tipo de actos u omisiones que constituyan acoso, violencia o discriminación, sea que ocurran dentro del establecimiento o fuera de éste y por cualquier medio. Además, deberán fomentar interacciones armónicas, participativas, constructivas y respetuosas de los derechos y deberes de cada integrante de la comunidad. Por su parte, los sostenedores deberán promover y fomentar un proceso educativo libre de violencia, acoso y discriminación, que garantice la dignidad de todas las personas que integran la comunidad.
-
-Las relaciones e interacciones de las personas adultas de las comunidades educativas con los niños, niñas y adolescentes deberán regirse por el buen trato. Se entiende por tal, aquel que se proporciona con atención a los principios, derechos y garantías consagradas en la Constitución Política de la República y en el Título II de la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia; que fomenta, a su vez, el desarrollo de cuidados, afectos y protección; y que hace visibles las necesidades y particularidades de los niños, niñas y adolescentes, con garantía de la dignidad de todas las personas que integran la comunidad educativa y en consideración a lo dispuesto en los artículos 18, 19 y 20 de la ley N° 21.545, que establece la promoción de la inclusión, la atención integral, y la protección de los derechos de las personas con trastorno del espectro autista en el ámbito social, de salud y educación.
-
-Los estudiantes, así como los padres, madres y los apoderados, deberán mantener siempre un buen trato con todo el personal que se desempeñe dentro del establecimiento educacional, canalizarán sus inquietudes y opiniones por los conductos formales establecidos, con respeto de su dignidad y en consideración al interés superior de niños, niñas y adolescentes ante todo evento.
-
-Si se advierte la existencia de conflictos o eventuales vulneraciones de derechos por parte de cualquier integrante de la comunidad educativa, aquella deberá ser comunicada al establecimiento de conformidad con lo dispuesto en su reglamento interno.
-
-#### Artículo 16
-
-B.- Los establecimientos educacionales velarán por la prevención de todas aquellas conductas constitutivas de acoso, violencia o discriminación entre los integrantes de la comunidad educativa.
-
-Se entenderá por acoso escolar toda acción u omisión constitutiva de agresión u hostigamiento reiterado realizada dentro o fuera del establecimiento educacional por estudiantes que, en forma individual o colectiva, atenten en contra de otra u otro estudiante, y provoquen en ésta o éste maltrato, humillación o fundado temor de verse expuesto a un mal de carácter grave o que cause un clima escolar hostil, tal como el aislamiento injustificado de una o un estudiante, el ignorar deliberadamente a una o un estudiante de forma colectiva, entre otros, sea por medios tecnológicos o por cualquier otro medio, según su edad y condición.
-
-Toda vez que la normativa educacional haga referencia a agresiones u hostigamientos, se entenderán incluidas tanto las agresiones u hostigamientos físicos como psicológicos, realizados por cualquier medio.
-
-El establecimiento deberá activar oportunamente el protocolo contra el acoso escolar contemplado en su reglamento interno y de acuerdo a los plazos que éste disponga, en los casos que corresponda. Además, deberá adoptar medidas de prevención y promoción, con enfoque formativo, orientadas a toda la comunidad, en especial a los integrantes involucrados, de conformidad a lo dispuesto en la presente ley.
-
-Sin perjuicio de lo anterior, aquellas conductas de violencia que, sin ser acoso escolar, constituyan una agresión que atente contra la integridad física o psíquica de una o un estudiante, requerirán, igualmente, la adopción oportuna por parte del establecimiento de medidas formativas o disciplinarias proporcionales con la falta, con el objeto de prevenir la sistematicidad de dichas agresiones u hostigamientos.
-
-Cada establecimiento y comunidad educativa deberá prestar especial y preferente protección a las y los estudiantes, de acuerdo con su edad y condición, en el marco del Sistema de Garantía y Protección Integral de los Derechos de la Niñez y Adolescencia, establecido en la ley N° 21.430, y de lo dispuesto en los artículos 18, 19 y 20 de la ley N° 21.545, que establece la promoción de la inclusión, la atención integral, y la protección de los derechos de las personas con trastorno del espectro autista en el ámbito social, de salud y educación.
-
-Revestirá especial gravedad cualquier tipo de violencia física o psicológica cometida por cualquier medio en contra de una o un estudiante integrante de la comunidad educativa, realizada por quien detente una posición de autoridad, sea director, profesor, asistente de la educación u otro, así como también la ejercida por parte de un adulto de la comunidad educativa en contra de una o un estudiante.
-
-Las conductas descritas en este artículo, cuando sean ejercidas por estudiantes o padres, madres o apoderados u otros que no detenten la calidad de trabajadores del establecimiento, en contra de los profesionales o asistentes de la educación y, en general, en contra de cualquier trabajadora o trabajador del establecimiento educacional, constituirá violencia en el trabajo ejercida por terceros, en virtud de lo dispuesto en el literal c) del inciso segundo del artículo 2° del Código del Trabajo.
-
-En virtud de lo dispuesto en el inciso precedente, el establecimiento deberá aplicar los protocolos o procedimientos de su reglamento interno relativos a la convivencia educativa que correspondan para la determinación de medidas disciplinarias y/o para la instrucción de acciones reparatorias con fines formativos sobre el o la estudiante, padre, madre o apoderado que haya cometido la falta, las cuales siempre deberán ir acompañadas de medidas formativas.
-
-Cuando el procedimiento del reglamento interno respecto a convivencia educativa se desarrolle de forma conjunta con aquellos a que se encuentra obligado el establecimiento de acuerdo a la ley N° 21.643, que modifica el Código del Trabajo y otros cuerpos legales, en materia de prevención, investigación y sanción del acoso laboral, sexual o de violencia en el trabajo, se deberán realizar ambos procedimientos bajo los principios de coordinación, economía y eficiencia, sin perjuicio de los demás principios establecidos en la ley. Asimismo, se dispondrán actuaciones conjuntas cuando resulten compatibles, con el objeto de evitar la sobreintervención de las partes involucradas. Deberán adoptarse oportunamente las medidas de resguardo a la integridad y bienestar de la trabajadora o del trabajador afectado de conformidad a lo dispuesto en la normativa vigente.
-
-Cuando las conductas descritas en los incisos precedentes tengan una motivación discriminatoria, el establecimiento deberá adoptar medidas formativas que promuevan la igualdad y no discriminación arbitraria entre los integrantes de la comunidad educativa, especialmente hacia niños, niñas y adolescentes, de conformidad a lo dispuesto en el artículo 8° de la ley N° 21.430, sin perjuicio de otras medidas u acciones establecidas en la ley. Adicionalmente, en el caso de las conductas descritas en el inciso séptimo que tengan una motivación discriminatoria, el establecimiento deberá promover la capacitación en materia de igualdad y no discriminación arbitraria de quienes detenten posiciones de autoridad y hayan incurrido en aquellas conductas, sin perjuicio de las medidas disciplinarias o sancionatorias establecidas en la ley.
-
-#### Artículo 16
-
-C.- Corresponderá al Ministerio de Educación, a través de la Subsecretaría de Educación, elaborar la Política Nacional de Convivencia Educativa con el objeto de definir lineamientos, orientaciones y un conjunto de acciones para la promoción de una buena convivencia educativa, y la prevención y erradicación de toda forma de violencia, acoso y discriminación en todo el sistema educativo. La Política contemplará objetivos, enfoques y dimensiones aplicables a los distintos niveles y modalidades educativas.
-
-Para la implementación de la Política, el Ministerio de Educación dispondrá, a su vez, de un Plan de Acción Nacional, con el objetivo de garantizar la coordinación, eficacia y eficiencia en la actuación de los servicios e instituciones públicas que componen el sistema educacional, en relación con los distintos ámbitos contemplados en la Política. El Plan establecerá las categorías, acciones, medidas y metas institucionales, e identificará a los organismos responsables, así como los indicadores y plazos correspondientes.
-
-La Subsecretaría de Educación dirigirá los procesos de elaboración, ejecución, seguimiento, evaluación continua y actualización de la Política y del Plan regulados en el presente artículo, en coordinación con la Subsecretaría de Educación Parvularia, los órganos que integran el Sistema Nacional de Aseguramiento de la Calidad de la Educación, la Junta Nacional de Auxilio Escolar y Becas, la Dirección de Educación Pública y cualquier otra entidad pública que resulte pertinente, de conformidad a las materias de su competencia. Para la elaboración y actualización de la Política, la Subsecretaría de Educación podrá abrir un período de consulta pública, con el fin de recibir opiniones, sugerencias y comentarios de la sociedad civil.
-
-La Política y el Plan referidos en los incisos anteriores tendrán una vigencia de ocho años. El Plan será evaluado cada dos años por las Subsecretarías de Educación y de Educación Parvularia, en los ámbitos de sus competencias. Dichas subsecretarías considerarán para ello los informes emitidos por la Agencia de la Calidad de la Educación a raíz del seguimiento y monitoreo de la Política y la gestión de la convivencia educativa a nivel nacional, y podrán generar ajustes o modificaciones a las acciones, indicadores y metas comprometidas.
-
-Un reglamento dictado por el Ministerio de Educación desarrollará las materias establecidas en el presente artículo.
-
-> **Nota.** La Política Nacional de Convivencia Educativa y su Plan de Acción publicados por el Ministerio de Educación en mayo de 2024 se entenderán vigentes para los efectos del presente artículo, que se incorpora por el numeral 8 del artículo 1 de la Ley 21809, publicada el 01.04.2026, y demás disposiciones legales que le hagan referencia, desde la publicación de la citada norma hasta el mes de mayo de 2030, conforme al artículo tercero transitorio de la referida ley.
-
-#### Artículo 16
-
-D.- Los establecimientos educacionales deberán contar con un Plan de Gestión de Convivencia Educativa que considere los lineamientos de la Política Nacional de Convivencia Educativa. El Plan podrá también considerar las medidas determinadas por el Consejo Escolar o el Comité para la Buena Convivencia Educativa, según corresponda, sobre la materia. En todo caso, la responsabilidad respecto a la elaboración e implementación del Plan de Gestión de Convivencia Educativa recaerá siempre en el equipo o el coordinador de convivencia educativa, cuando corresponda, de acuerdo a lo señalado en el inciso tercero del artículo 15. Por su parte, la aprobación y dictación del instrumento recaerá en el director del establecimiento educacional.
-
-Los Planes de Gestión de Convivencia Educativa tendrán por objetivo promover la buena convivencia educativa, el buen trato y la erradicación de todo acto de violencia, acoso o discriminación en la comunidad educativa. Para ello deberán definir objetivos, estrategias, acciones concretas y metas en materias de convivencia educativa, tales como participación, igualdad, resolución pacífica de conflictos, mediación, cuidados y responsabilidades digitales, desarrollo socioemocional y salud mental, desde un enfoque pedagógico y de prevención de factores de riesgo.
-
-El Plan deberá contar con los siguientes contenidos mínimos:
-
-a) Acciones de coordinación con el área técnico-pedagógica, con el objetivo de asegurar el enfoque pedagógico de la convivencia, a nivel transversal en todos sus niveles y, a su vez, acciones de coordinación con el área administrativa para la adecuada aplicación de las estrategias del Plan y el reglamento interno.
-
-b) Estrategias y acciones de información, difusión y formación para todos los estamentos de la comunidad educativa, especialmente en materias referidas a la promoción del buen trato y la no discriminación arbitraria.
-
-c) Acciones de promoción del bienestar y salud mental, orientadas a los distintos estamentos de la comunidad educativa, con especial énfasis en la prevención de conductas suicidas, y en el abordaje de factores de riesgo, tales como el consumo de drogas, alcohol, tabaco, y de aquellas conductas que infringen la ley.
-
-d) Estrategias para la gestión colaborativa de conflictos de convivencia o situaciones de riesgo.
-
-e) Calendarización de las actividades a realizar durante el año escolar, con señalamiento de los objetivos de cada actividad, su contribución al propósito del Plan e indicación, además, del lugar, fecha y encargada o encargado de su ejecución.
-
-f) Estrategias y acciones que incorporen a estudiantes como sujetos activos en el proceso de aprendizaje y promoción de una buena convivencia educativa.
-
-g) Estrategias de formación dirigidas a padres, madres y apoderados sobre los principios de convivencia educativa, prevención del acoso escolar, resolución pacífica de conflictos y promoción del buen trato.
-
-La Agencia de Calidad de la Educación aplicará cuestionarios censales con el objeto de recopilar información sobre los Planes de Gestión de Convivencia Educativa, y fomentará para ello la participación de representantes de todos los estamentos de la comunidad educativa. Con todo, la Agencia también podrá aplicar otros instrumentos complementarios para cumplir el señalado objeto.
-
-En virtud de los resultados de los instrumentos a que refiere el inciso anterior, la Agencia evaluará el desempeño de una muestra de establecimientos, de conformidad a la planificación contemplada en el artículo 13 de la ley N° 20.529. Esta evaluación considerará las acciones contempladas en el Plan de Gestión de Convivencia Educativa y en el Plan de Formación Ciudadana, y los resultados de instrumentos de autoevaluación de cada comunidad educativa, si los hubiere.
-
-#### Artículo 16
-
-E. Los reglamentos internos de los establecimientos educacionales deberán regular aquellas materias señaladas en los artículos 16 A y 16 B, y tendrán en consideración la normativa vigente, así como medidas de prevención, formativas y protocolos para la protección, investigación y aplicación de medidas disciplinarias, según corresponda.
-
-En virtud de lo señalado en el inciso anterior, los reglamentos internos deberán incorporar, a lo menos, las siguientes materias:
-
-a) La prohibición y prevención de toda forma de acoso, violencia y discriminación hacia cualquier integrante de la comunidad educativa.
-
-b) La promoción del derecho a una vida libre de violencia, el respeto y el reconocimiento a los derechos y garantías, de conformidad a lo dispuesto en los artículos 8 y 36 de la ley N° 21.430, sobre garantías y protección integral de los derechos de la niñez y adolescencia.
-
-c) Los derechos y deberes de cada uno de los integrantes de la comunidad educativa y la regulación de sus instancias de participación.
-
-d) La descripción precisa de las conductas esperadas de cada uno de los integrantes y las acciones u omisiones que serán consideradas faltas, y el establecimiento de su graduación en atención a su gravedad.
-
-e) Los canales para la recepción y tramitación de denuncias y reclamos, así como las instancias para la presentación de sugerencias o propuestas de modificación al reglamento y otros requerimientos por parte de los miembros de la comunidad.
-
-Asimismo, deberá contemplar un canal seguro y confidencial para recibir denuncias con reserva de identidad, en que se garantice el debido resguardo de la identidad del denunciante, la no revictimización de los afectados y la adopción de medidas adecuadas en respuesta a las situaciones comunicadas.
-
-f) El deber del personal del establecimiento y de los demás adultos integrantes de la comunidad escolar de reportar al equipo directivo del establecimiento o a quien se determine en el reglamento toda información de la cual hayan tomado conocimiento sobre hechos que puedan constituir actos de acoso, violencia o discriminación contra cualquier integrante de la comunidad y, en general, cualquier acto que contravenga la buena convivencia.
-
-g) Los procedimientos de investigación en contra de las conductas de acoso, violencia o discriminación.
-
-Los procedimientos de investigación se ajustarán a los principios de imparcialidad, proporcionalidad, confidencialidad y celeridad. Las actuaciones realizadas en el marco de aquellos deberán ser pertinentes según el estamento al que pertenezcan las personas involucradas.
-
-La aplicación de medidas disciplinarias será proporcional a la o a las faltas acreditadas. Respecto de la persona afectada, se contemplarán medidas de apoyo psicosocial y acciones de reparación para aplicar cuando corresponda.
-
-Las etapas y plazos de los procedimientos de investigación que se establezcan deberán constar en el reglamento con arreglo a la normativa vigente en la materia, y asegurarán el derecho de los involucrados a ser oídos y a presentar antecedentes, y se evitará su revictimización. Con todo, en el caso de estudiantes el plazo máximo de investigación será de dos meses.
-
-h) Las medidas formativas que promuevan la igualdad y no discriminación arbitraria entre los integrantes de la comunidad educativa, en consideración a la edad y al nivel educativo al que pertenezcan aquellos sobre quienes se apliquen.
-
-i) Las medidas disciplinarias que podrán ser aplicadas, así como la manera en que se determinarán según la gravedad de la falta cometida y las circunstancias que atenúan o agravan la responsabilidad.
-
-Respecto a estudiantes, la aplicación de medidas disciplinarias y procedimientos se deberán determinar en consideración a su edad y etapa de desarrollo. Las medidas disciplinarias deberán fundarse en un procedimiento previo, racional y justo, en el que se respete el derecho del estudiante y de su padre, madre o apoderado a ser oídos, presentar descargos y solicitar la reconsideración de la medida ante la autoridad del establecimiento, sin perjuicio de las medidas cuya naturaleza impida total o parcialmente satisfacer el señalado estándar, tales como aquellas contempladas en el inciso segundo del artículo 8 bis de la ley N° 19.070, que aprueba Estatuto de los Profesionales de la Educación, cuyo texto refundido, coordinado y sistematizado, fue fijado por el decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación.
-
-El equipo de convivencia definirá medidas pedagógicas y formativas, y aquellas necesarias para abordar los factores de riesgo que incidan en conductas que contravengan el reglamento. Asimismo, en la adopción de dichas medidas, el equipo de convivencia podrá hacer partícipe a la madre, padre o apoderado del estudiante.
-
-Sin perjuicio de lo anterior, si se observan riesgos, amenazas o vulneraciones que puedan afectar los derechos y garantías de los niños, niñas o adolescentes, el establecimiento deberá actuar en conformidad al Sistema de Garantías y Protección Integral de los Derechos de la Niñez y Adolescencia establecido en la ley N° 21.430.
-
-En ningún caso se podrán adoptar medidas disciplinarias que se funden, directa o indirectamente, en el hecho de presentar discapacidad o necesidades educativas especiales permanentes o transitorias.
-
-No se podrá aplicar medidas disciplinarias a los niños y niñas que cursen niveles de educación parvularia por infracciones a la convivencia, lo que no impedirá la adopción de medidas pedagógicas o formativas orientadas a desarrollar progresivamente en éstos empatía para la resolución de conflictos y comprensión de normas.
-
-Las medidas de expulsión o cancelación de matrícula sólo podrán aplicarse de forma excepcional, y deberá preferirse siempre la aplicación de medidas formativas y pedagógicas.
-
-Una vez que se haya determinado la aplicación de la medida de expulsión o cancelación de matrícula le corresponderá al director del establecimiento notificar al padre, madre, apoderado o al estudiante, en caso de que sea mayor de edad y no tenga apoderado, y le indicará el plazo para solicitar una reconsideración. Dentro del plazo de cinco días hábiles, el director deberá, además, informar la medida a la Dirección Regional respectiva de la Superintendencia de Educación, a fin de que ésta revise, en la forma, el cumplimiento de lo establecido en el presente literal. En el mismo plazo informará la medida a la Secretaría Regional Ministerial correspondiente.
-
-El Ministerio de Educación, a través de la Secretaría Regional Ministerial respectiva, velará por la reubicación del estudiante sancionado en establecimientos que cuenten con profesionales que presten apoyo psicosocial y adoptará las medidas para su adecuada inserción en la comunidad escolar. Además, informará de cada procedimiento sancionatorio que derive en una expulsión o cancelación de matrícula a la Defensoría de los Derechos de la Niñez, cuando se trate de menores de edad.
-
-El incumplimiento de cualquiera de las disposiciones de este literal podrá ser sancionada como infracción grave.
-
-j) Medidas de protección para la persona afectada, especialmente cuando se trate de conductas de violencia física y sexual.
-
-Estas medidas se determinarán desde el momento en que el establecimiento tome conocimiento de los hechos y podrán extenderse hasta la conclusión del procedimiento respectivo. Asimismo, se determinarán en aplicación del principio de proporcionalidad, y podrán contemplar acciones tales como la separación de aula entre denunciante y denunciado, o la suspensión, cuando se trate de un estudiante.
-
-En todo caso, la medida de suspensión solo procederá cuando no sea posible resguardar a la persona afectada mediante otra medida y no podrá extenderse por más de quince días hábiles. Si al vencer el plazo el establecimiento aún no ha concluido el procedimiento, deberá adoptar otras medidas para la protección adecuada de la persona afectada. Sin perjuicio de ello, podrá volver a aplicar la medida de suspensión cuando se reitere una falta por parte del denunciado durante el curso del procedimiento, caso en el cual concluirá la investigación antes del término del nuevo plazo. El establecimiento deberá realizar un monitoreo pedagógico del estudiante suspendido y disponer medidas para resguardar la continuidad de su trayectoria educativa.
-
-k) Mecanismos para la gestión colaborativa de los conflictos que surjan entre los integrantes de la comunidad educativa.
-
-Estos mecanismos se regirán por los principios de voluntariedad, confidencialidad, igualdad, imparcialidad y neutralidad. Asimismo, deberán utilizarse con resguardo de los derechos fundamentales de quienes se sometan a su aplicación. En todo caso, no podrán aplicarse dichos mecanismos cuando el conflicto trate sobre hechos constitutivos de delito o vulneración de derechos fundamentales.
-
-La Superintendencia de Educación capacitará a los establecimientos educacionales que lo requieran, con el objeto de facilitar la adecuada implementación de los referidos mecanismos.
-
-l) Las demás obligaciones o contenidos que se señalen en la normativa educacional.
-
-Con todo, cuando corresponda determinar la responsabilidad administrativa de profesionales de la educación o de asistentes de la educación que se desempeñen en establecimientos administrados por Servicios Locales, municipalidades o corporaciones municipales, se aplicarán las medidas contempladas en sus respectivos estatutos conforme a la normativa vigente. En estos casos, los procedimientos investigativos se regirán por los plazos y etapas establecidas en el Título V de la ley N° 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fija el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, o, en su defecto, cuando corresponda, por los plazos y etapas establecidos en el Título V de la ley N° 18.883, que aprueba Estatuto Administrativo para Funcionarios Municipales.
-
-#### Artículo 16
-
-F.- La Superintendencia de Educación podrá capacitar a los establecimientos para la aplicación, con enfoque pedagógico y formativo, del Plan de Gestión de la Convivencia Educativa dispuesto en el artículo 16 D. Para estos efectos, con el fin de resguardar la calidad metodológica de las acciones, la Superintendencia podrá requerir la asesoría técnica del Centro de Perfeccionamiento, Experimentación e Investigaciones Pedagógicas.
-
-#### Artículo 16
-
-G.- De conformidad con lo dispuesto en el artículo 16 D, al inicio de cada año escolar los establecimientos educacionales deberán informar a la comunidad educativa sobre los contenidos del Plan de Gestión de la Convivencia Educativa y del reglamento interno, con especial énfasis en los protocolos de prevención y actuación dispuestos frente a situaciones de acoso, violencia y discriminación arbitraria, y señalará las garantías de seguridad, protección y privacidad de las personas afectadas y los canales para la conducción de denuncias internas.
-
-Los instrumentos mencionados deberán entregarse a padres, madres y apoderados al momento de la matrícula o de su renovación, en formato impreso o digital, y se dejará constancia de su recepción. Asimismo, se informará a la comunidad educativa sobre las modificaciones que se realicen a estos instrumentos durante el año escolar y se deberá contar de forma permanente con ejemplares impresos de éstos, en un lugar visible del establecimiento educacional y en su sitio web.
-
-Ningún integrante de la comunidad educativa podrá alegar desconocimiento de las normas internas del establecimiento educacional, salvo en caso de incumplirse conjuntamente las obligaciones señaladas en el inciso anterior.
-
-La difusión de los instrumentos señalados en el inciso segundo deberá ser continua, a través de contenidos o acciones con un lenguaje comprensible para todas las edades, con el fin de alcanzar el mayor conocimiento, difusión y apropiación de la regulación interna.
-
-#### Artículo 16
-
-H.- El sostenedor, a través del director y el equipo directivo del establecimiento educacional, deberá asegurar el desarrollo adecuado de procesos participativos para la actualización del Plan de Gestión de la Convivencia Educativa y del reglamento interno, al menos cada cuatro años, por curso, nivel o ciclo. Se contemplará la participación de todos los estamentos y sus integrantes, con el objeto de recoger las experiencias y necesidades particulares de la comunidad educativa.
-
-Estos procesos serán liderados por el director con la asistencia del equipo de convivencia y la colaboración del Consejo Escolar, el cual podrá proponer ejes de trabajo y mecanismos para asegurar la participación de toda la comunidad educativa, incluida la de aquellos integrantes que no forman parte exclusivamente de un curso o nivel, y la correcta sistematización y levantamiento de sus solicitudes o propuestas. El coordinador de convivencia educativa podrá participar en el Consejo Escolar durante dichos procesos, con derecho a voz.
-
-El director, a través del coordinador de convivencia educativa, presentará un informe al Consejo Escolar con los principales resultados de los procesos participativos y las propuestas recogidas. El Consejo Escolar, si así lo estima, podrá acordar observaciones al informe, siempre que no contravengan la normativa educacional o el proyecto educativo institucional del establecimiento. En caso de presentarse observaciones, el director podrá acogerlas o rechazarlas de manera fundada. Si las acoge, el Consejo Escolar deberá aprobar el informe y luego el director deberá sancionar el Plan. En caso de no presentarse observaciones, o una vez rechazadas éstas de manera fundada, el Consejo Escolar aprobará el informe y el director sancionará el Plan. Concluido este proceso, el director pondrá a disposición de toda la comunidad educativa el Plan de Gestión de Convivencia Educativa en el plazo establecido por el reglamento interno del establecimiento.
-
-El establecimiento podrá fijar la cantidad de etapas y actividades para el desarrollo de los procesos de actualización participativos, en virtud de las disposiciones señaladas en los incisos precedentes, dentro de un mismo año escolar. Asimismo, podrá disponer instancias para el desarrollo de dichas actividades, tales como, consejos de curso, reuniones de apoderados u otras.
-
-La contravención a lo dispuesto en el presente artículo constituirá una infracción grave a la normativa educacional, cuyo cumplimiento será fiscalizado por la Superintendencia de Educación.
-
-Los procesos de actualización participativos regulados en este artículo no obstan ni restringen la realización de procedimientos breves para llevar a cabo modificaciones o actualizaciones en tiempos intermedios, tales como las actualizaciones anuales que cada establecimiento realice para adecuarse a la normativa vigente, o aquellas que sean mandatadas por la ley o por los órganos administrativos competentes. En estos casos se deberá considerar por lo menos la participación del Consejo Escolar, cuando corresponda.
-
-En caso de que un establecimiento educacional no se encuentre obligado a constituir el Consejo Escolar, será el Comité de la Buena Convivencia Educativa el que participará en cada uno de los procesos descritos en el presente artículo.
-
-#### Artículo 16
-
-I.- Para el cumplimiento de lo dispuesto en el artículo 16 C, la Subsecretaría de Educación deberá coordinar sus competencias vinculadas a la Política Nacional de Convivencia Educativa y al Plan de Acción Nacional que requieran, en su elaboración o ejecución, de la participación de otros órganos de la Administración del Estado. En especial, promoverá mecanismos eficientes de gestión y funcionamiento con los siguientes órganos:
-
-a) Con el Ministerio de Desarrollo Social y Familia, a través de la Subsecretaría de la Niñez, para una adecuada articulación entre las políticas públicas e instituciones del Sistema de Garantías y Protección Integral de los Derechos de la Niñez y Adolescencia que se vinculan con la convivencia educativa, de conformidad a lo dispuesto en la ley N° 21.430.
-
-b) Con el Ministerio de Seguridad Pública, a través de las Subsecretarías competentes, con la finalidad de articular acciones y medidas en, al menos, los siguientes ámbitos:
-
-i. Anticipación, detección, prevención, atención y mitigación de factores de riesgo socio delictivo en estudiantes.
-
-Para favorecer la detección temprana y la atención preventiva de estudiantes de enseñanza básica y media expuestos a factores de riesgo asociados a indicadores de vulnerabilidad socio delictual, la Subsecretaría de Educación colaborará en la gestión e implementación de acciones, programas o estrategias orientadas a prevenir el involucramiento delictivo de niños, niñas y adolescentes, a resguardar y promover sus derechos. Asimismo, apoyará la entrega de asesoría técnica a establecimientos educacionales que requieran desarrollar iniciativas preventivas.
-
-ii. Seguimiento y acompañamiento psicosocial. Se velará por una idónea coordinación con programas de acompañamiento educativo de estudiantes a los que se les haya aplicado una medida de expulsión o cancelación de matrícula, para su adecuada reinserción educativa y social.
-
-iii. Promoción de acciones que eviten la ocurrencia de hechos violentos o delictivos o de incivilidades, con el fin de resguardar la seguridad en los entornos e interiores de los establecimientos educacionales.
-
-iv. Cooperación e interoperabilidad en la implementación de recursos tecnológicos y en el desarrollo de herramientas de seguimiento, análisis, estudios, investigaciones y evaluaciones que promuevan una mejora continua de las políticas públicas implementadas en el marco de sus respectivas competencias, así como de aquellas destinadas a comprender mejor la criminalidad adolescente y sus necesidades de atención.
-
-Las acciones y medidas dispuestas en esta letra deberán ajustarse a las recomendaciones y lineamientos técnicos para la elaboración de políticas, planes y programas elaborados por el Ministerio de Seguridad Pública.
-
-c) Con el Ministerio de Salud, a través de la Subsecretaría de Salud Pública, la promoción del bienestar y la salud mental de las comunidades educativas y sus integrantes, mediante la articulación de la implementación de aquellas políticas que inciden en éstas y la entrega de las orientaciones y directrices necesarias para abordarlas, con especial énfasis en la salud mental y el bienestar psicosocial tanto estudiantil como laboral y en la prevención de conductas suicidas. Asimismo, a través de la Subsecretaría de Redes Asistenciales, para la adecuada coordinación de la derivación a centros de salud y su atención en ellos, en los casos que corresponda.
-
-d) Con el Ministerio de la Mujer y Equidad de Género, para articular la acción conjunta de las políticas públicas que implementa éste en la prevención y erradicación de todo tipo de violencia hacia las mujeres en el marco de la convivencia educativa, con énfasis en el trato justo y no sexista.
-
-e) Con el Ministerio de Justicia y Derechos Humanos, a través de la Subsecretaría de Justicia, para una acción coordinada sobre aquellos estudiantes que han infringido la ley, con el objeto de asegurar su continuidad en el sistema escolar, y resguardar sus trayectorias educativas. Asimismo, a través de la Subsecretaría de Derechos Humanos, para establecer la actuación coordinada en la prevención y erradicación de la discriminación en las comunidades educativas.
-
-f) Con el Ministerio del Trabajo y Previsión Social, a través de la Subsecretaría del Trabajo, en materias de protección de los derechos laborales de los trabajadores de la educación, especialmente en los siguientes ámbitos:
-
-i. Seguridad y salud en el trabajo para el rubro educativo y las profesiones u oficios del sector.
-
-ii. Evaluación de riesgos laborales, especialmente, los psicosociales relacionados con el acoso, violencia y discriminación en el trabajo del sector educacional.
-
-iii. Fiscalización que realicen los organismos dependientes de las respectivas carteras a establecimientos educacionales que incida en materias de convivencia educativa y laboral.
-
-Las coordinaciones recién enunciadas podrán implementarse de forma separada, conjunta y/o simultáneamente, según el tipo de intervención pública que se requiera.
-
-La actuación estatal al interior de los establecimientos educacionales será liderada, dirigida y coordinada por sus directores, mientras que aquella a ejecutarse fuera de ellos corresponderá a las autoridades políticas o administrativas que determine la ley o el reglamento que al efecto se dicte.
-
-El ejercicio de estas funciones y atribuciones siempre reconocerá como finalidad preferente la garantía de derechos de párvulos y estudiantes, con especial foco en la protección y continuidad de las trayectorias educativas, considerando el involucramiento de sus familias y adultos significativos. Junto con ello, su ejercicio contemplará criterios de equidad territorial, en virtud de lo cual podrá ser priorizado el apoyo a establecimientos rurales de difícil acceso o con alta concentración de estudiantes prioritarios.
 
 ## Título I
 
@@ -573,8 +255,6 @@ La educación especial o diferencial es la modalidad del sistema educativo que d
 Se entenderá que un alumno presenta necesidades educativas especiales cuando precisa ayudas y recursos adicionales, ya sean humanos, materiales o pedagógicos, para conducir su proceso de desarrollo y aprendizaje, y contribuir al logro de los fines de la educación.
 
 La modalidad de educación especial y los proyectos de integración escolar contarán con orientaciones para construir adecuaciones curriculares para las escuelas especiales y aquellas que deseen desarrollar proyectos de integración.
-
-Los establecimientos educacionales particulares pagados no podrán cobrar un mayor valor de matrícula ni un arancel superior a estudiantes con discapacidad o necesidades educativas especiales permanentes en razón de los ajustes necesarios y apoyos pertinentes para su acceso y permanencia en el establecimiento.
 
 Se efectuarán adecuaciones curriculares para necesidades educacionales específicas, tales como las que se creen en el marco de la interculturalidad, de las escuelas cárceles y de las aulas hospitalarias, entre otras.
 
@@ -668,7 +348,7 @@ b) Pensar en forma reflexiva, evaluando y utilizando información y conocimiento
 
 c) Comunicarse con eficacia en lengua castellana, lo que implica comprender diversos tipos de textos orales y escritos adecuados para la edad y expresarse correctamente en forma escrita y oral.
 
-d) Ejercer derechos en entornos digitales y fortalecer la convivencia mediante el uso responsable, seguro, creativo y reflexivo de las tecnologías digitales, con reconocimiento de los potenciales riesgos, beneficios y oportunidades de su utilización.
+d) Acceder a información y comunicarse usando las tecnologías de la información y la comunicación en forma reflexiva y eficaz.
 
 e) Comprender y expresar mensajes simples en uno o más idiomas extranjeros.
 
@@ -712,7 +392,7 @@ c) Analizar procesos y fenómenos complejos, reconociendo su multidimensionalida
 
 d) Expresarse en lengua castellana en forma clara y eficaz, de modo oral y escrito; leer comprensiva y críticamente diversos textos de diferente nivel de complejidad, que representen lo mejor de la cultura, y tomar conciencia del poder del lenguaje para construir significados e interactuar con otros.
 
-e) Ejercer derechos en entornos digitales y fortalecer la convivencia democrática mediante el uso responsable, seguro, creativo, crítico y reflexivo de las tecnologías digitales, con reconocimiento de los potenciales riesgos, beneficios y oportunidades de su utilización.
+e) Usar tecnología de la información en forma reflexiva y eficaz, para obtenerla, procesarla y comunicarla.
 
 f) Comprender el lenguaje oral y escrito de uno o más idiomas extranjeros, y expresarse en forma adecuada.
 
@@ -728,8 +408,6 @@ k) Conocer los principales hitos y procesos de la historia de la humanidad y en 
 
 l) Tener un sentido estético informado y expresarlo utilizando recursos artísticos de acuerdo a sus intereses y aptitudes.
 
-m) Conocer y aplicar conceptos y técnicas financieras básicas, así como desarrollar actitudes, conductas y prácticas que favorezcan la toma de decisiones ciudadanas y le permitan ejercer acciones eficaces para mejorar su bienestar económico, personal y familiar.
-
 En el caso de los establecimientos educacionales con alto porcentaje de alumnos indígenas se considerará, además, como objetivo general, que los alumnos y alumnas desarrollen los aprendizajes que les permitan mantener su dominio de la lengua indígena y el conocimiento de la historia y la cultura de su pueblo.
 
 En el caso de los establecimientos educacionales que ofrezcan la formación diferenciada técnico-profesional y artística, se consideran, además, como objetivos generales, los aprendizajes requeridos por el perfil de egreso de las respectivas especialidades que impartan.
@@ -737,8 +415,6 @@ En el caso de los establecimientos educacionales que ofrezcan la formación dife
 #### Artículo 31
 
 Corresponderá al Presidente de la República, mediante decreto supremo dictado a través del Ministerio de Educación, previa aprobación del Consejo Nacional de Educación, establecer las bases curriculares para la educación parvularia, básica y media. Éstas definirán, por ciclos o años, respectivamente, los objetivos de aprendizaje que permitan el logro de los objetivos generales para cada uno de los niveles establecidos en esta ley. Las bases curriculares aprobadas deberán publicarse íntegramente en el Diario Oficial.
-
-Las bases curriculares tendrán una vigencia mínima de seis años. Sus modificaciones y actualizaciones deberán incorporar, a lo menos, procesos de diagnóstico, consulta, evaluación y retroalimentación. Con todo, en casos fundados, podrán introducirse actualizaciones o ajustes a asignaturas, o a especialidades de la modalidad técnico-profesional, en un período inferior al señalado anteriormente.
 
 El Consejo Nacional de Educación aprobará las bases curriculares de acuerdo al procedimiento del artículo 86, velando por que los objetivos de aprendizaje contemplados en éstas sean relevantes, actuales y coherentes con los objetivos generales establecidos en la ley. Asimismo, deberá constatar que los objetivos de aprendizaje que se le presentan sean adecuados a la edad de los estudiantes, estén debidamente secuenciados y sean abordables en el tiempo escolar disponible en cada nivel y modalidad, y se adecuen al tiempo de libre disposición señalado en el inciso final de este articulo.
 
@@ -757,8 +433,6 @@ No obstante, dicho ministerio podrá objetar los respectivos planes y programas 
 En todo caso, procederá el reclamo de los afectados por la decisión del Ministerio de Educación, en única instancia, ante el Consejo Nacional de Educación, en el plazo de quince días contados desde la fecha de la notificación del rechazo, disponiendo dicho Consejo de cuarenta y cinco días para pronunciarse sobre el reclamo.
 
 Para los establecimientos que operen en el régimen de jornada escolar completa, las bases curriculares para la educación parvularia, básica y media deberán asegurar una proporción equivalente al 30% de tiempo de trabajo escolar de libre disposición. En ese mismo régimen, los planes y programas de estudios para los niveles de educación básica y media que elabore el Ministerio de Educación deberán asegurar, a lo menos, una proporción equivalente al 15% de tiempo de trabajo escolar de libre disposición.
-
-> **Nota.** El artículo 11 transitorio de la presente norma dispone que el inciso segundo entrará en vigencia al inicio del año escolar 2026.
 
 #### Artículo 32
 
@@ -801,12 +475,6 @@ El Ministerio de Educación también podrá proponer al Consejo Nacional de Educ
 #### Artículo 36
 
 Por decreto supremo, expedido a través del Ministerio de Educación, deberá reglamentarse la duración mínima del año escolar y las normas en virtud de las cuales los organismos regionales respectivos determinarán, de acuerdo a las condiciones de cada región, las fechas o períodos de suspensión y de interrupción de las actividades escolares.
-
-En el decreto supremo mencionado en el inciso anterior se establecerán, además, las condiciones en virtud de las cuales los organismos regionales competentes determinarán las fechas o períodos de suspensión y de interrupción de las actividades de los establecimientos de educación parvularia.
-
-Asimismo, por decreto supremo se determinará la duración del calendario parvulario para aquellos establecimientos que imparten educación parvularia y que reciben aportes regulares del Estado.
-
-Lo dispuesto sobre el calendario parvulario no será aplicable a los establecimientos de educación parvularia durante los períodos en que no presten la atención integral a la que alude el artículo 1º de la ley N° 20.832, que crea la autorización de funcionamiento de establecimientos de educación parvularia.
 
 #### Artículo 37
 
@@ -868,26 +536,6 @@ La educación media que se imparta en los establecimientos de educación de las 
 
 El Estado, por intermedio del Ministerio de Educación, velará por el cumplimiento de los objetivos generales de la enseñanza media regular y, a través del Ministerio de Defensa, por la observancia de los requisitos específicos mínimos de egreso que determine la reglamentación institucional respectiva.
 
-#### Artículo 44 bis
-
-Convenios de cooperación educativa para prácticas profesionales. A fin de resguardar la salud mental de todas las personas intervinientes en los procesos de prácticas profesionales, los establecimientos educacionales de cualquier nivel en que se realicen deberán habilitar mecanismos para la suscripción de convenios escritos de cooperación educativa con las entidades colaboradoras. Se entenderá por prácticas profesionales aquellas actividades de naturaleza formativa para estudiantes y supervisadas por la respectiva institución de educación superior a la que aquellos pertenezcan. Los referidos convenios contendrán los términos, derechos y deberes de cada parte en la realización de las prácticas, con los siguientes contenidos mínimos:
-
-a) Los objetivos educativos de la práctica y las actividades en que ella consistirá.
-
-b) Los plazos de duración de la práctica, el régimen de permisos para la evaluación de la asistencia del estudiante, y las condiciones para la rescisión anticipada del convenio en caso de incumplimiento de alguno de sus términos.
-
-c) Los seguros eventualmente aplicables en caso de accidentes.
-
-d) La protección de los datos personales del estudiante.
-
-e) La regulación de los eventuales conflictos surgidos durante el desarrollo de la práctica y los mecanismos de resolución a través de protocolos de actuación que resulten aplicables.
-
-f) Los términos del reconocimiento de la institución de educación superior a la labor realizada por los tutores de la entidad colaboradora.
-
-g) Los plazos y procedimientos para la entrega del informe final por parte del estudiante a cargo de la práctica, con la valoración de sus competencias y su calificación.
-
-En ningún caso podrá condicionarse la entrega del informe final de la práctica o su valoración o calificación final, a la entrega de la evaluación que pueda o deba hacer el estudiante del mismo proceso de práctica, de su tutor o tutores, de la entidad colaboradora o de la institución de educación superior a la que pertenezca. Dicha evaluación deberá siempre ser entregada con posterioridad a la evaluación definitiva del proceso de práctica.
-
 ### Párrafo 3º
 
 Reconocimiento oficial del Estado a establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media
@@ -902,25 +550,21 @@ La solicitud precedente será sometida al procedimiento administrativo que se es
 
 Una vez reconocidos, estos establecimientos educacionales deberán cumplir los objetivos generales establecidos en esta ley, así como los estándares nacionales de aprendizaje que se exigen al conjunto del sistema escolar. De esta manera, podrán certificar estudios conforme a sus propuestas educativas, debiendo en enseñanza media cumplir al menos las exigencias que permitan a sus alumnos acceder a la licencia de educación media.
 
-Un establecimiento educacional que haya comenzado el proceso de reconocimiento oficial sólo podrá iniciar actividades una vez concluido plenamente el acto administrativo de reconocimiento oficial referido en el inciso primero del presente artículo.
-
-El incumplimiento del requisito descrito en el inciso anterior se considerará una infracción grave, según lo dispuesto en el artículo 76 de la ley Nº 20.529.
-
 #### Artículo 46
 
 El Ministerio de Educación reconocerá oficialmente a los establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, cuando así lo soliciten y cumplan con los siguientes requisitos:
 
-a) Tener un sostenedor. Serán sostenedores las personas jurídicas de derecho público, tales como municipalidades y otras entidades creadas o reconocidas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
+a) Tener un sostenedor. Serán sostenedores las personas jurídicas de derecho público, tales como municipalidades y otras entidades creadas por ley, y las personas jurídicas de derecho privado cuyo objeto social único sea la educación. El sostenedor será responsable del funcionamiento del establecimiento educacional.
 
-Todos los sostenedores que reciban subvenciones o aportes regulares del Estado no podrán perseguir fines de lucro, y deberán destinar de manera íntegra y exclusiva esos aportes y cualesquiera otros ingresos a fines educativos. Asimismo, deberán rendir cuenta pública respecto de su uso y estarán sujetos a la fiscalización y auditoría de la Superintendencia de Educación.
+Todos los sostenedores que reciban recursos estatales deberán rendir cuenta pública respecto del uso de los recursos y estarán sujetos a la fiscalización y auditoría de los mismos que realizará la Superintendencia de Educación.
 
-El representante legal y el administrador de entidades sostenedoras de establecimientos educacionales deberán cumplir con los siguientes requisitos: estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, de Educación; no haber sido condenado, en más de una ocasión dentro de los últimos cinco años, por un tribunal de la República por haber ejercido prácticas antisindicales, por haber incumplido la ley Nº19.631 en cuanto al pago de las cotizaciones previsionales de sus trabajadores, o en virtud de acciones de tutela laboral por vulneración de derechos fundamentales de los trabajadores; no haber sido condenado, como autor, cómplice o encubridor, por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley, y no haber sido condenado con la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad a que se refiere el artículo 39 bis del Código Penal.
+El representante legal y el administrador de entidades sostenedoras de establecimientos educacionales deberán cumplir con los siguientes requisitos: Estar en posesión de un título profesional o licenciatura de al menos ocho semestres, otorgado por una universidad o instituto profesional del Estado o reconocido por éste; no haber sido sancionado con las inhabilidades para ser sostenedor por haber cometido alguna de las infracciones graves señaladas en el artículo 50 del decreto con fuerza de ley Nº 2, de 1998, de Educación; no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, u otros que establezca la ley.
 
 Las sanciones de inhabilidad aplicadas por infracciones cometidas por la entidad sostenedora se entenderán aplicadas a su representante legal y administrador.
 
 La calidad de sostenedor no podrá transferirse ni transmitirse en caso alguno y bajo ningún título. No obstante, podrán transferirse y transmitirse los bienes muebles o inmuebles que componen el establecimiento.
 
-b) Contar con un proyecto educativo, el que, en todo caso, deberá resguardar el principio de no discriminación arbitraria, no pudiendo incluir condiciones o normas que afecten la dignidad de la persona, ni que sean contrarios a los derechos humanos garantizados por la Constitución y los tratados internacionales ratificados por Chile y que se encuentren vigentes, en especial aquellos que versen sobre los derechos de los niños.
+b) Contar con un proyecto educativo.
 
 c) Ceñirse, en los programas de estudio que apliquen, a las bases curriculares elaboradas por el Ministerio de Educación de acuerdo a lo señalado en los artículos 31 o 32 de esta ley.
 
@@ -928,13 +572,13 @@ d) Tener y aplicar un reglamento que se ajuste a las normas mínimas nacionales 
 
 e) Comprometerse a cumplir los estándares nacionales de aprendizaje, de conformidad a los instrumentos que la ley establezca para tales efectos.
 
-f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar. Dicho reglamento, en materia de convivencia escolar, deberá incorporar las materias indicadas en el artículo 16 E.
+f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar, y que garantice el justo procedimiento en el caso en que se contemplen sanciones. Este reglamento no podrá contravenir la normativa vigente.
 
 g) Tener el personal docente idóneo que sea necesario y el personal asistente de la educación suficiente que les permita cumplir con las funciones que les corresponden, atendido el nivel y modalidad de la enseñanza que impartan y la cantidad de alumnos que atiendan.
 
 Tratándose de la educación parvularia y básica, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes. En la educación media, se entenderá por docente idóneo al que cuente con el título de profesional de la educación del respectivo nivel y especialidad cuando corresponda, o esté habilitado para ejercer la función docente según las normas legales vigentes, o esté en posesión de un título profesional o licenciatura de al menos ocho semestres, de una universidad acreditada, en un área afín a la especialidad que imparta, para lo cual estará autorizado a ejercer la docencia por un período máximo de tres años renovables por otros dos, de manera continua o discontinua y a la sola petición del director del establecimiento. Después de los cinco años, para continuar ejerciendo la docencia deberá poseer el título profesional de la educación respectivo, o estar cursando estudios conducentes a dicho grado o acreditar competencias docentes de acuerdo a lo que establezca el reglamento. Este reglamento sólo podrá establecer los instrumentos de evaluación de conocimientos disciplinarios y prácticas pedagógicas como el medio idóneo para acreditar competencias docentes.
 
-Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar, ni a la pena de inhabilitación establecida en el artículo 39 bis del Código Penal.
+Los docentes, habilitados conforme a la ley y el personal asistente de la educación deberán, además, poseer idoneidad moral, entendiéndose por tal no haber sido condenado por crimen o simple delito de aquellos a que se refiere el Título VII del Libro II del Código Penal, o la ley Nº 20.000, que sanciona el tráfico ilícito de estupefacientes, o la ley Nº 20.066, que sanciona la violencia intrafamiliar.
 
 h) Acreditar un capital mínimo pagado, en proporción a la matrícula proyectada para el siguiente, según la tabla que se establece a continuación:
 
@@ -961,12 +605,6 @@ En el evento de que el sostenedor no sea propietario del local donde funciona el
 j) Disponer de mobiliario, equipamiento, elementos de enseñanza y material didáctico mínimo, adecuados al nivel y modalidad de educación que pretendan impartir. En el caso de la educación técnico-profesional, el equipamiento y maquinarias de enseñanza que se utilicen deberán estar debidamente adecuadas a los niveles de desarrollo del área productiva o de servicios de que se trate.
 
 Los requisitos contemplados en las letras precedentes serán reglamentados mediante decreto supremo del Ministerio de Educación.
-
-#### Artículo 46 bis
-
-Excepcionalmente, la Subsecretaría de Educación Parvularia podrá otorgar el reconocimiento oficial del Estado a aquellos establecimientos que, sin cumplir con alguno de los requisitos de la letra i) del artículo anterior, acrediten que ello se debe únicamente a las características físicas y territoriales del lugar en que se emplazan. En estos casos, los establecimientos deberán contemplar medidas de mitigación acordes a las características acreditadas, que permitan asegurar la integridad física y psíquica de la comunidad educativa.
-
-Un reglamento dictado por el Ministerio de Educación y suscrito por el Ministerio de Hacienda determinará el procedimiento para solicitar el reconocimiento oficial en el caso del inciso primero, así como las medidas de mitigación que se deberán emplear y los medios que sirvan para acreditar la existencia y suficiencia de estas medidas.
 
 #### Artículo 47
 
@@ -1028,10 +666,6 @@ En caso que la Superintendencia de Educación disponga la sanción de revocació
 
 Los establecimientos de educación de las Instituciones de la Defensa Nacional que impartan educación media se regirán, en cuanto a su reconocimiento oficial, por las normas de este párrafo.
 
-#### Artículo 51 bis
-
-Sin perjuicio de sus demás facultades, las secretarías regionales ministeriales de educación, para los efectos de la comprobación del cumplimiento de los requisitos para obtener Reconocimiento Oficial del Estado por Establecimientos Educacionales, y la Superintendencia de Educación, para los efectos de la fiscalización del cumplimiento y mantención de los requisitos para obtener Reconocimiento Oficial, deberán consultar al Servicio de Registro Civil e Identificación si los docentes y el personal asistente de la educación de un establecimiento educacional presentan anotaciones relativas a los delitos señalados en el literal g) del artículo 46, en el Registro General de Condenas o en el Registro Seccional de Inhabilitaciones, establecidos por el decreto ley Nº 645, de 1925, del Ministerio de Justicia. Para los mismos efectos, deberán consultar al Servicio de Registro Civil e Identificación si el representante legal y el administrador de la entidad sostenedora de un establecimiento educacional presentan anotaciones relativas a los delitos señalados en el literal a) del artículo 46 en el Registro General de Condenas o en el Registro Seccional de Inhabilitaciones.
-
 ## Título III
 
 Reconocimiento oficial del Estado a las instituciones de educación superior
@@ -1050,7 +684,7 @@ b) Institutos profesionales;
 
 c) Centros de formación técnica, y
 
-d) Academia Nacional de Estudios Políticos y Estratágicos; Academias de Guerra y Politécnicas; Escuelas de Armas y Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros, la Escuela de Formación de Carabineros y Escuela de Suboficiales de Carabineros de Chile, la Escuela de Gendarmería de Chile; y Escuela de Investigaciones Policiales, Centro de Capacitación Profesional de la Policía de Investigaciones de Chile e Instituto Superior de la Policía de Investigaciones de Chile.
+d) Academia Nacional de Estudios Políticos y Estratágicos; Academias de Guerra y Politécnicas; Escuelas de Armas y Especialidades de las Fuerzas Armadas; Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil; Academia de Ciencias Policiales de Carabineros de Chile; Escuelas Matrices de Oficiales de las Fuerzas Armadas; Escuela de Carabineros y Escuela de Suboficiales de Carabineros de Chile, y Escuela de Investigaciones Policiales e Instituto Superior de la Policía de Investigaciones de Chile.
 
 #### Artículo 53
 
@@ -1058,7 +692,7 @@ Las universidades, los institutos profesionales y los centros de formación téc
 
 Los institutos profesionales y centros de formación técnica de carácter privado podrán ser creados por cualquier persona natural o jurídica en conformidad a esta ley, debiendo organizarse siempre como personas jurídicas de derecho privado para el efecto de tener reconocimiento oficial. Estas entidades no podrán tener otro objeto que la creación, organización y mantención de un instituto profesional o un centro de formación técnica, según el caso; todo ello sin perjuicio de la realización de otras actividades que contribuyan a la consecución de su objeto.
 
-Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional, excepto la Escuela de Gendarmería de Chile, la que se relacionará con el Estado a través del Ministerio de Justicia y Derechos Humanos, y los establecimientos de educación superior pertenecientes a Carabineros de Chile y a la Policía de Investigaciones de Chile, las que se relacionarán con el Estado a través del Ministerio del Interior y Seguridad Pública.
+Los establecimientos de educación superior a que se refiere la letra d) del artículo precedente, se regirán en cuanto a su creación, funcionamiento y planes de estudios, por sus respectivos reglamentos orgánicos y de funcionamiento y se relacionarán con el Estado a través del Ministerio de Defensa Nacional.
 
 #### Artículo 54
 
@@ -1076,7 +710,7 @@ No obstante, el otorgamiento del título profesional de abogado corresponde a la
 
 Para los efectos de lo dispuesto en este artículo se entiende que:
 
-a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases o cuatro semestres, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.
+a) El título de técnico de nivel superior es el que se otorga a un egresado de un centro de formación técnica o de un instituto profesional que ha aprobado un programa de estudios de una duración mínima de mil seiscientas clases, que le confiere la capacidad y conocimientos necesarios para desempeñarse en una especialidad de apoyo al nivel profesional.
 
 b) El título profesional es el que se otorga a un egresado de un instituto profesional o de una universidad que ha aprobado un programa de estudios cuyo nivel y contenido le confieren una formación general y científica necesaria para un adecuado desempeño profesional.
 
@@ -1106,13 +740,11 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para su realización. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integrarán, sus atribuciones y duración de los respectivos cargos;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integrarán, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos, tanto en los órganos encargados de la gestión y dirección de ella, como en la elección de las autoridades unipersonales o colegiadas;
 
-f) Que ninguna normativa interna ni ningún acto ni contrato entre la universidad y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos;
+f) Los títulos profesionales y grados académicos de licenciado que otorgará inicialmente, y
 
-g) Los títulos profesionales y grados académicos de licenciado que otorgará inicialmente, y
-
-h) Disposiciones relativas a modificación de estatutos y a su disolución.
+g) Disposiciones relativas a modificación de estatutos y a su disolución.
 
 #### Artículo 57
 
@@ -1242,11 +874,9 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos tanto en los órganos encargados de la gestión o dirección de ella, como en la elección de las autoridades unipersonales o colegiadas, y
 
-f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y
-
-g) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
+f) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
 
 #### Artículo 68
 
@@ -1326,11 +956,9 @@ c) Fines que se propone;
 
 d) Medios económicos y financieros de que dispone para la realización de sus objetivos. Esto último deberá acreditarse ante el Consejo Nacional de Educación;
 
-e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos;
+e) Disposiciones que establezcan la estructura de la entidad, quiénes la integran, sus atribuciones y duración de los respectivos cargos. La forma de gobierno de la nueva entidad deberá excluir la participación con derecho a voto de los alumnos y de los funcionarios administrativos tanto en los órganos encargados de la gestión o dirección de ella, como en la elección de las autoridades unipersonales o colegiadas, y
 
-f) Que ninguna normativa interna ni ningún acto ni contrato entre el instituto profesional y sus estudiantes o personal académico y no académico contenga disposiciones que prohíban, limiten u obstaculicen la libre organización de éstos, y
-
-g) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
+f) Disposiciones relativas a la disolución de la entidad y a la modificación de la escritura social.
 
 #### Artículo 76
 
@@ -1392,7 +1020,9 @@ En los casos en que la causal respectiva se verifique sólo respecto de una o m�
 
 Los centros de formación técnica se disolverán en la forma establecida en sus estatutos, sin perjuicio de lo establecido precedentemente.
 
-### Párrafo 5° — Del Reconocimiento Oficial de los títulos que otorgan los establecimientos de educación superior dependientes de Ministerios".
+### Párrafo 5º
+
+Del Reconocimiento Oficial de los títulos y grados que otorgan los establecimientos de educación superior de las Fuerzas dependientes del Ministerio de Defensa Nacional
 
 #### Artículo 82
 
@@ -1412,17 +1042,11 @@ Estos títulos profesionales y grados académicos serán equivalentes, para todo
 
 #### Artículo 84
 
-Las Escuelas de Armas y Especialidades de las Fuerzas Armadas, la Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil, la Escuela de Formación de Carabineros, el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile y la Escuela de Suboficiales de Carabineros podrán otorgar títulos técnicos de nivel superior según corresponda a la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
+Las Escuelas de Armas y Especialidades de las Fuerzas Armadas, la Escuela Técnica Aeronáutica de la Dirección General de Aeronáutica Civil y la Escuela de Suboficiales de Carabineros podrán otorgar títulos técnicos de nivel superior según corresponda a la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
 
 Estos títulos técnicos de nivel superior de los establecimientos de educación superior, referidos en el inciso anterior, serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
 
-#### Artículo 84 bis
-
-La Escuela de Gendarmería de Chile desarrolla actividades docentes, de investigación y extensión de nivel superior, cuyo objetivo fundamental es formar profesionales y técnicos con los conocimientos necesarios para el cumplimiento de las funciones institucionales que les encomienda la ley.
-
-En ese sentido, podrá otorgar títulos profesionales y técnicos de nivel superior propios de su quehacer, de acuerdo con la naturaleza de la enseñanza impartida y en el ámbito de su competencia.
-
-Los títulos técnicos de nivel superior y profesionales referidos en el inciso anterior serán equivalentes a los de similar carácter conferidos por los demás establecimientos de educación superior y reconocidos como tales para todos los efectos legales.
+> **Nota.** NOTA 3 El artículo 7 N° 3 de la Ley 21.427, publicada el 16.02.2022, agrega en el inciso primero del presente artículo entre la palabra "Civil" y la expresión "y la Escuela de Suboficiales", la frase ", la Escuela de Formación de Carabineros, el Centro de Capacitación Profesional de la Policía de Investigaciones de Chile", lo que regirá, de acuerdo al artículo cuarto transitorio, a contar de la adecuación sus requisitos de ingreso, estatutos, planes y programas a las normativas de educación superior, requisito que se verificará, en cada caso, fundadamente a través de un informe favorable de la Subsecretaría de Educación Superior, el cual será sancionado mediante el acto administrativo correspondiente, lo que en el caso de Carabineros de Chile fue aprobado por Resolución 5831 Exenta, Educación, publicada el 25.11.2023.
 
 ## Título IV
 
@@ -1494,7 +1118,7 @@ a) Un académico o profesional de reconocida trayectoria, designado por el Presi
 
 b) Dos profesionales de la educación que ejerzan labores docentes en el ámbito municipal y particular respectivamente, designados por el Presidente de la República, previa consulta, en el caso de al menos uno de ellos, a la organización gremial más representativa de los profesionales de la educación.
 
-c) Cuatro académicos o profesionales de reconocido prestigio propuestos por el Presidente de la República para ser ratificados en el Senado por los dos tercios de los senadores en una sola votación, debiendo, al menos, tres de ellos contar con un reconocido prestigio en el área de la educación parvularia, básica o media, correspondiendo uno a cada nivel.
+c) Cuatro académicos o profesionales de reconocido prestigio propuestos por el Presidente de la República para ser ratificados en el Senado por los dos tercios de los senadores en una sola votación, debiendo dos de ellos contar con un reconocido prestigio en el área de la educación parvularia, básica o media.
 
 d) Dos académicos, designados, uno por el Consejo de Rectores de las Universidades Chilenas y otro elegido por los rectores de las universidades privadas autónomas acreditadas en reunión citada para ese efecto por el Jefe de la División de Educación Superior del Ministerio de Educación.
 
@@ -1692,9 +1316,7 @@ Cuando el incumplimiento reiterado de las observaciones formuladas por el Consej
 
 Las universidades, institutos profesionales y centros de formación técnica que, al cabo de seis años de licenciamiento hubieren desarrollado su proyecto satisfactoriamente a juicio del Consejo, alcanzarán su plena autonomía y podrán otorgar toda clase de títulos y grados académicos en forma independiente, lo que deberá ser certificado por éste.
 
-En caso contrario, el Consejo deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial de dicha institución.
-
-Con todo, el Consejo Nacional de Educación podrá ampliar el período de verificación hasta por tres años. Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
+En caso contrario, podrá ampliar el período de verificación hasta por cinco años. Si transcurrido el nuevo plazo, la entidad de educación superior no diere cumplimiento a los requerimientos del Consejo, éste deberá solicitar fundadamente al Ministerio de Educación la revocación del reconocimiento oficial.
 
 #### Artículo 101
 
@@ -1780,19 +1402,17 @@ Las adecuaciones necesarias para el cumplimiento de lo dispuesto en el inciso pr
 
 #### Artículo 114
 
-Derogado.
+Las instituciones de enseñanza superior que reciban aporte fiscal deberán enviar, anualmente, al Ministerio de Educación la memoria explicativa de sus actividades y su balance.
+
+Las instituciones de educación superior de carácter privado que cuenten con aporte fiscal deberán rendir cuenta al Ministerio de Educación sólo respecto de los fondos fiscales que hubieren recibido.
 
 ## Artículos transitorios
 
 #### Artículo 1º
 
-Los sostenedores de establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, que hubieren obtenido el reconocimiento oficial del Estado con anterioridad a la entrada en vigencia de la ley Nº 20.370 y que a la fecha de la publicación de esta ley no hubieren cumplido con lo dispuesto en el artículo 46, letra a), de dicha norma, podrán transmitir la calidad de sostenedor, siempre que el nuevo sostenedor se adecue a los requisitos, plazos y condiciones establecidos en esta ley. Asimismo, podrá transferirse la calidad de sostenedor para el solo efecto de constituir una persona jurídica sucesora de la persona natural que detentaba dicha calidad o para la constitución de una persona jurídica que sucederá a la actual en su rol de sostenedora, ya sea que la transferencia se realice a una nueva persona jurídica o a una ya existente que cumpla con los requisitos establecidos en esta ley para ser sostenedor. Las transferencias que se efectúen en virtud de este artículo comprenderán el traspaso del reconocimiento oficial respectivo, sin solución de continuidad. Dicha transferencia deberá efectuarse dentro de los dos años siguientes a la fecha de publicación de esta ley.
+Los sostenedores de establecimientos educacionales que impartan enseñanza en los niveles de educación parvularia, básica y media, y que cuenten con reconocimiento oficial a la fecha de publicación de la ley N° 20.370, deberán ajustarse a lo prescrito en la letra a) del artículo 46 de esta ley en el plazo de dos años contados desde la entrada en vigencia de la misma. Durante este período la calidad de sostenedor podrá transmitirse, siempre que el nuevo sostenedor se adecue a los requisitos, plazos y condiciones establecidos en esta ley. Asimismo, durante este período, la calidad de sostenedor podrá transferirse para el sólo efecto de constituir una persona jurídica sucesora de la persona natural que detentaba dicha calidad o para la constitución de una persona jurídica que sucederá a la actual en su rol de sostenedora, ya sea que la transferencia se realice a una nueva persona jurídica o a una ya existente que cumpla con los requisitos establecidos en esta ley para ser sostenedor.
 
-Para todos los efectos legales a que haya lugar, se considerará que no existe solución de continuidad del reconocimiento oficial o decreto colaborador correspondiente, respecto de los establecimientos educacionales cuyos sostenedores, para el solo efecto de adecuarse a lo establecido en el artículo 46, letra a), de esta ley, presenten una nueva solicitud de reconocimiento oficial.
-
-La nueva solicitud de reconocimiento oficial deberá ser acompañada tanto de los antecedentes que acrediten la posesión del reconocimiento oficial o decreto colaborador con anterioridad a la entrada en vigencia de la ley Nº20.370, así como de aquellos que den cuenta de la creación o constitución de la persona jurídica de derecho público o de derecho privado que cumpla con las exigencias establecidas en dicha disposición. El examen de esta solicitud se limitará a estas materias y su aprobación o rechazo se basará únicamente en el cumplimiento o incumplimiento de las exigencias establecidas en el mencionado artículo 46, letra a). Esta solicitud no estará sujeta a la limitación del artículo 19, pudiendo ser presentada en cualquier época del año, debiendo expresar en forma precisa que es para el solo efecto indicado en este artículo.
-
-Sin perjuicio de lo establecido en el inciso primero, las municipalidades y corporaciones municipales quedarán sujetas a lo prescrito en la Ley Orgánica Constitucional sobre Municipalidades.
+Sin perjuicio de lo establecido en el inciso precedente, las municipalidades y corporaciones municipales quedarán sujetas a lo prescrito en la Ley Orgánica Constitucional sobre Municipalidades.
 
 #### Artículo 2º
 
@@ -1842,15 +1462,13 @@ Mientras no se efectúen los nombramientos de todos los integrantes del Consejo 
 
 #### Artículo 8º
 
-La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar 2030.
+La estructura curricular establecida en el artículo 25 comenzará a regir a partir del año escolar que se inicie ocho años después de la entrada en vigencia de la ley Nº 20.370.
 
 A contar de dicho año escolar, los cursos de séptimo y octavo año de la enseñanza básica y primero, segundo, tercero y cuarto año de la enseñanza media pasarán a denominarse primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 
 En consecuencia, los alumnos que en el año escolar a que se refiere el inciso primero sean promovidos de sexto, séptimo y octavo año de la enseñanza básica y primero, segundo y tercer año de la enseñanza media lo serán a primero, segundo, tercero, cuarto, quinto y sexto año de la educación media, respectivamente.
 
 Por su parte, los alumnos que en el año escolar anterior a la entrada en vigencia de la nueva estructura curricular cursen y sean promovidos de cuarto año de la enseñanza media, egresarán de ésta y recibirán la licencia de educación media.
-
-Durante el año 2028, el Ministerio de Educación deberá realizar un estudio prospectivo que evalúe la pertinencia de aplicar la estructura curricular establecida en el artículo 25, y considerará a lo menos, los costos, adecuaciones de infraestructura, formación docente y bases curriculares requeridas, el que deberá presentarse a las Comisiones de Educación del Senado y de la Cámara de Diputadas y Diputados.
 
 #### Artículo 9º
 
@@ -1859,16 +1477,6 @@ Tratándose de establecimientos educacionales que impartan exclusivamente enseñ
 #### Artículo 10
 
 En tanto no entren en vigencia las normas que crean la Superintendencia de Educación y la Agencia de Calidad de la Educación, las facultades que la presente ley les otorga serán ejercidas por el Ministerio de Educación.
-
-#### Artículo 11
-
-Lo dispuesto en el inciso segundo del artículo 31 de esta ley entrará en vigencia al inicio del año escolar 2026.
-
-#### Artículo 12
-
-Lo dispuesto en el artículo 10 bis entrará en vigencia al inicio del año escolar 2026. Los establecimientos que imparten educación parvularia, básica y media tendrán plazo hasta el 30 de junio de 2026 para la actualización de sus reglamentos internos en el marco de las instrucciones que, para estos efectos, dicte la Superintendencia de Educación.
-
-En marzo de 2030 el Ministerio de Educación presentará a las Comisiones de Educación de la Cámara de Diputados y del Senado los resultados de una evaluación respecto a la implementación y los efectos de las medidas dispuestas en el artículo 10 bis, incluida información sobre convivencia escolar, rendimiento académico, bienestar socioemocional y brechas de acceso digital. Dicho estudio podrá recomendar ajustes normativos y reglamentarios.
 
 Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Mónica Jiménez de la Jara, Ministra de Educación.- Francisco Vidal Salinas, Ministro de Defensa Nacional.- Andrés Velasco Brañes, Ministro de Hacienda.- Paula Quintana Meléndez, Ministra de Planificación.
 

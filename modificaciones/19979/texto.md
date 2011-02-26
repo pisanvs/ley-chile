@@ -448,15 +448,7 @@ El alcalde deberá otorgar la delegación por medio de un decreto alcaldicio que
 
 #### Artículo 7º
 
-En cada establecimiento educacional deberá existir un Consejo Escolar, que será un órgano integrado a lo menos por el director del establecimiento que lo presidirá; por el sostenedor o un representante designado por él; un docente elegido por los profesores del establecimiento; un representante de los asistentes de la educación del establecimiento, elegido por sus pares mediante un procedimiento previamente establecido por éstos; el presidente del centro de padres, madres y apoderados, y el presidente del centro de alumnos en el caso que el establecimiento imparta enseñanza media.
-
-#### Artículo 7º bis
-
-Cada Consejo Escolar deberá convocar al menos a cuatro sesiones al año. El quórum de funcionamiento será la mayoría de sus miembros.
-
-En cada sesión, el Director deberá realizar una reseña acerca de la marcha general del establecimiento, procurando abordar cada una de las temáticas que deben informarse o consultarse al Consejo, según lo dispuesto en los incisos segundo y tercero del artículo siguiente. Con todo, podrá acordarse planificar las sesiones del año para abocarse especialmente a alguna de ellas en cada oportunidad. Deberá referirse, además, a las resoluciones públicas y de interés general sobre el establecimiento que, a partir de la última sesión del Consejo, hubiera emitido la entidad sostenedora de la educación municipal, si fuera el caso, y el Ministerio de Educación o sus organismos dependientes o relacionados, tales como la Agencia de Calidad de la Educación, la Superintendencia y el Consejo Nacional de Educación.
-
-En la primera sesión siguiente a su presentación a la Superintendencia de Educación, el Director deberá aportar al Consejo una copia de la información a que se refiere el inciso tercero del artículo 5º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, sobre Subvención del Estado a los Establecimientos Educacionales.
+En cada establecimiento educacional subvencionado deberá existir un Consejo Escolar, que será un órgano integrado a lo menos por el director del establecimiento que lo presidirá; por el sostenedor o un representante designado por él; un docente elegido por los profesores del establecimiento; un representante de los asistentes de la educación del establecimiento, elegido por sus pares mediante un procedimiento previamente establecido por éstos; el presidente del centro de padres y apoderados, y el presidente del centro de alumnos en el caso que el establecimiento imparta enseñanza media.
 
 #### Artículo 8º
 
@@ -476,19 +468,17 @@ e) Conocer cada cuatro meses el informe de ingresos efectivamente percibidos y d
 
 f) Enfoque y metas de gestión del Director del establecimiento, en el momento de su nominación, y los informes anuales de evaluación de su desempeño.
 
-El Consejo será consultado, a lo menos, en los siguientes aspectos:
+El Consejo será consultado a lo menos en los siguientes aspectos:
 
-a) El proyecto educativo institucional.
+a) Proyecto Educativo Institucional.
 
-b) Las metas del establecimiento y los proyectos de mejoramiento propuestos.
+b) Programación Anual y actividades extracurriculares.
 
-c) El informe escrito de la gestión educativa del establecimiento que realiza el Director anualmente, antes de ser presentado a la comunidad educativa. La evaluación del equipo directivo y las propuestas que hará el Director al sostenedor deben ser dialogadas en esta instancia.
+c) Las metas del establecimiento y los proyectos de mejoramiento propuestos.
 
-d) El calendario detallado de la programación anual y las actividades extracurriculares, incluyendo las características específicas de éstas.
+d) El informe escrito de la gestión educativa del establecimiento que realiza el Director anualmente, antes de ser presentado a la comunidad educativa. La evaluación del equipo directivo y las propuestas que hará el Director al sostenedor deben ser dialogados en esta instancia.
 
-e) La elaboración y modificaciones al reglamento interno del establecimiento, sin perjuicio de la aprobación del mismo, si se le hubiese otorgado esa atribución. Con este objeto, el Consejo organizará una jornada anual de discusión para recabar las observaciones e inquietudes de la comunidad escolar respecto de dicha normativa.
-
-Respecto de las materias consultadas en las letras d) y e) del inciso precedente, el pronunciamiento del Consejo deberá ser respondido por escrito por el sostenedor o el Director, en un plazo de treinta días.
+e) La elaboración y las modificaciones al reglamento interno del establecimiento, sin perjuicio de la aprobación del mismo, si se le hubiese otorgado esa atribución.
 
 El Consejo no podrá intervenir en funciones que sean de competencia de otros organismos del establecimiento educacional.
 
@@ -503,36 +493,6 @@ b) Integración del Consejo Escolar.
 c) Funciones informativas, consultivas y otras que hayan quedado establecidas.
 
 d) Su organización, atribuciones, funcionamiento y periodicidad.".
-
-#### Artículo 9° bis
-
-En cada establecimiento de educación parvularia que reciba aportes y/o subvención del Estado deberá existir un Consejo Parvulario, el cual promoverá la forma de desarrollar el potencial de niños y niñas, en contextos de satisfacción de sus necesidades, respeto por sus particularidades y resguardo de sus derechos. Esto se hará a través de la participación de la comunidad educativa, por medio de diálogos abiertos entre todos los actores que la componen.
-
-El Consejo Parvulario es una instancia integrada a lo menos por la directora o director del establecimiento, quien lo presidirá; por el sostenedor o un representante designado por éste; un o una educadora de párvulos elegida por sus pares del establecimiento; un o una representante de los asistentes de la educación del establecimiento elegido por sus pares mediante un procedimiento previamente establecido por éstos, y el presidente del centro de padres, madres y apoderados.
-
-Cada Consejo Parvulario deberá convocar al menos cuatro sesiones en el año. El quorum de funcionamiento será la mayoría de sus miembros.
-
-El Consejo Parvulario tendrá carácter informativo, consultivo, propositivo, salvo que el sostenedor decida darle el carácter de resolutivo. En todo caso, el carácter de resolutivo del Consejo Parvulario podrá revocarse por parte del sostenedor al inicio de cada año escolar.
-
-El quehacer del Consejo se enmarcará en el proyecto educativo del establecimiento, específicamente en los temas relacionados con gestión y participación. En esta línea, será consultado a lo menos en los siguientes aspectos:
-
-A. El proyecto educativo institucional.
-
-B. Las metas del establecimiento y los proyectos de mejoramiento propuestos.
-
-C. El informe escrito de la gestión educativa del establecimiento que realiza el Director anualmente, antes de ser presentado a la comunidad educativa.
-
-D. El calendario detallado de la programación anual y las actividades extracurriculares, incluyendo las características específicas de éstas.
-
-E. La elaboración y modificaciones al reglamento interno del establecimiento, sin perjuicio de la aprobación del mismo, si se le hubiese otorgado esa atribución. Con este objeto, el Consejo organizará una jornada anual de discusión para recabar las observaciones e inquietudes de la comunidad escolar respecto de dicha normativa.
-
-F. Propuestas que hará la directora o director del establecimiento al sostenedor.
-
-El Consejo no podrá intervenir en aspectos pedagógicos, y su rol fundamental será servir de apoyo a la gestión administrativa del establecimiento.
-
-Asimismo, no podrá intervenir en funciones que sean de competencia de otros organismos del establecimiento educacional.
-
-El sostenedor hará llegar al Departamento Provincial del Ministerio de Educación una copia del acta constitutiva del Consejo Parvulario, la que deberá indicar: identificación del establecimiento; fecha y lugar de constitución; integración del Consejo Parvulario; funciones informativas, consultivas y otras que hayan quedado establecidas, y su organización, atribuciones, funcionamiento y periodicidad.
 
 #### Artículo 10
 
