@@ -30,7 +30,7 @@ Decreto:
 
 Declárase Monumento Nacional en la categoría de Monumento Histórico el edificio de la Cooperativa Eléctrica de Chillán - Copelec-, ubicado en calle Maipón Nº1079, de la comuna de Chillán, provincia de Ñuble, VIII Región del Bío-Bío.
 
-El área protegida tiene una superficie aproximada de 1.822,48 m², delimitada por el polígono A - B - C - D - E - F - A, como se señala en el plano adjunto, que forma parte del presente decreto.
+El área protegida tiene una superficie aproximada de 1.022,40 mts.², según se delimita por el polígono A-B-C-D-A del plano adjunto, que forma parte del presente decreto.
 
 Anótese y publíquese.- Por orden de la Presidenta de la República, Mónica Jiménez de la Jara, Ministra de Educación.
 
