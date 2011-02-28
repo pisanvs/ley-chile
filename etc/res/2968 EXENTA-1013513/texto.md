@@ -26,7 +26,7 @@ Resolución:
 
 1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en sus Capítulos Primero y Segundo, para proyectos de Construcción en Sitio Propio con proyecto de vivienda tipo en las Regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Bío Bío, de la Araucanía y Metropolitana.
 
-Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional en el SERVIU correspondiente, hasta el 30 de diciembre del año 2010, o hasta agotar los recursos dispuestos para cada región
+Las personas postulantes deberán completar satisfactoriamente el formulario de ingreso en el sistema computacional en el SERVIU correspondiente, hasta el 31 de diciembre del año 2010, o hasta agotar los recursos dispuestos para cada región
 
 2. Se seleccionará a las personas que cumplan con las siguientes condiciones:
 
@@ -595,20 +595,6 @@ Ord. N° 338, DDU Específica N° 18/2010, de fecha
 Urbano del Ministerio de Vivienda y Urbanismo.
 
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
-
-Región Recursos (UF)
-
-Valparaíso 431.805,0
-
-L.B. O'Higgins 1.163.003,0
-
-Maule 2.167.057,0
-
-Bío Bío 2.397.681,0
-
-Araucanía 126.418,0
-
-Metropolitana 663.717,0
 
 El número de familias preseleccionadas en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
 
