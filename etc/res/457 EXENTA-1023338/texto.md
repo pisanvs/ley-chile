@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 457 EXENTA, DE 2011
+
+Por resolución exenta Nº 457, de 23 de febrero de 2011, del Ministerio de Transportes y Telecomunicaciones, se prorroga el término de vigencia de las "Condiciones Específicas de Operación y Utilización de Vías para Servicios de Taxi Colectivos de la Provincia de Santiago y las comunas de Puente Alto y San Bernardo", establecidas mediante resolución exenta Nº 975, de 2010, hasta el 10 de junio de 2011, o bien, hasta la fecha de puesta en marcha de los servicios concesionados en el marco del próximo proceso de licitación pública de Servicios de Taxis Colectivos en Vías de la Provincia de Santiago y las comunas de Puente Alto y San Bernardo, Proceso 2010, cualesquiera de ellos ocurra primero, respecto de los servicios de taxis colectivos que fueron objeto de licitación en el proceso 2003, como también del proceso correspondiente a la Licitación Complementaria 2003.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
