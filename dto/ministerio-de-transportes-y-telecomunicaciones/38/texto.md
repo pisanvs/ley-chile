@@ -114,11 +114,9 @@ Será obligatoria la existencia de un pasillo despejado que permita el acceso de
 
 En cada región del país, la antigüedad máxima de los vehículos de peso bruto total inferior a 3.860 kilogramos será la que se indica en la siguiente tabla:
 
-Región Regiones I, Otras
+Regiones XV, I y XII Otras Regiones
 
-Metropolitana XII y XV Regiones
-
-14 años 18 años 16 años
+18 años 16 años
 
 INCISO DEROGADO
 
@@ -128,7 +126,7 @@ No obstante lo señalado en la tabla del inciso tercero anterior, tratándose de
 
 La antigüedad máxima de los vehículos de peso bruto total igual o superior a 3.860 kilogramos que realicen transporte de escolares que asisten a establecimientos educacionales rurales será de veintidós (22) años.
 
-La antigüedad permitida para que un vehículo obtenga su primera revisión como transporte escolar será de cinco años o menos, excepto en las Regiones I y XII, donde será de siete años o menos. Lo dispuesto en este inciso no se aplicará a los vehículos de peso bruto total igual o superior a 3.860 kilogramos.
+La antigüedad permitida para que un vehículo obtenga su primera revisión como transporte escolar será de cinco años o menos, excepto en las Regiones XV, I y XII donde será de siete años o menos. Lo dispuesto en este inciso no se aplicará a los vehículos de peso bruto total igual o superior a 3.860 kilogramos.
 
 La antigüedad se calculará restando al año en que se realiza el cómputo, el año de modelo del vehículo, entendiéndose por año de modelo el año de fabricación señalado en el Registro Nacional de Vehículos Motorizados.
 
