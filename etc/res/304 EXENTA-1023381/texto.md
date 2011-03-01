@@ -1,0 +1,3 @@
+Por resolución exenta Nº 304, de 28 de enero de 2011, de esta Subsecretaría, modifíquese el numeral 5º inciso 1º de la resolución exenta Nº 164, de 2011, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Control y monitoreo de la pesquería de Merluza del sur (Merluccius australis) en la Región de Los Lagos, Subzona Islas de Calbuco", en el sentido de señalar que la cuota de captura autorizada para los efectos del estudio ascenderá a 523,929 toneladas fraccionadas de la manera señalada en la resolución extractada.
+
+Valparaíso, 28 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
