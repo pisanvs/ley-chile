@@ -1,0 +1,13 @@
+Por resolución exenta Nº 3.940, de 29 de diciembre de 2010 de esta Subsecretaría, autorízase al CENTRO DE ESTUDIOS Y DESARROLLO PESQUERO SUR AUSTRAL LTDA., para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Ordenamiento y caracterización de la pesquería de Algas Pardas "Huiros", en aguas interiores y exteriores de la Región de Los Lagos".
+
+El objetivo de la pesca de investigación consiste en recopilar información base de la pesquería del recurso Algas pardas en las praderas de la Región de Los Lagos, identificando lugares de extracción, aplicando un sistema de registro de usuarios (pescadores artesanales, recolectores de orilla y buzos mariscadores), embarcaciones, desembarques, comercializadores, centros de cultivo, plantas de picado y mercados de destino; generando recomendaciones y temáticas específicas en la administración de la pesquería a través de la mesa de trabajo conformada con representantes de pescadores artesanales y la Subsecretaría de Pesca a través de la Dirección Zonal de Pesca.
+
+La pesca de investigación se efectuará por el plazo de 1 año contado desde la fecha de la presente resolución, inclusive.
+
+La pesca de investigación se efectuará en la X Región, con exclusión de las áreas de manejo de recursos bentónicos decretadas en dichas regiones, de conformidad con lo dispuesto en el artículo 55 A y siguientes de la Ley General de Pesca y Acuicultura.
+
+Podrán participar en la presente pesca de investigación, los pescadores artesanales, armadores, buzos, recolectores de orilla y ayudantes de buzo y embarcaciones artesanales que cumplan con los procedimientos establecidos en los Términos Técnicos de Referencia y en el Memorándum citado en Visto, que forman parte integrante de la presente resolución, y que cuenten con inscripción vigentes en el Registro Pesquero Artesanal de la X Región, en cualquiera sección correspondiente a pesquerías bentónicas, que cuenten con matrícula vigente extendida por la Autoridad Marítima. Asimismo, podrán participar las embarcaciones artesanales, que se encuentren inscritas en el Registro Pesquero Artesanal de la X Región, las que deberán contar con certificado de navegabilidad vigente otorgado por la Autoridad Marítima.
+
+La solicitante designa como persona responsable de esta pesca de investigación a su representante legal, Luis Francisco Mansilla Cerna.
+
+Valparaíso, 29 de diciembre de 2010.- Pablo Galilea Carrillo, Subsecretario de Pesca.
