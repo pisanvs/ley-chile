@@ -1,0 +1,3 @@
+Por resolución exenta Nº 262, de 26 de enero de 2011, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 3.604 de 2010, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE CONCEPCIÓN para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Caracterización biológica de las agregaciones de pequeños pelágicos identificados acústicamente en el mar interior de la X y XI Regiones, año 2010", en el sentido de extender el período de ejecución de la presente pesca de investigación y de operaciones en las aguas exteriores de la X y XI Regiones hasta el día 31 de marzo de 2011, inclusive.
+
+Valparaíso, 26 de enero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
