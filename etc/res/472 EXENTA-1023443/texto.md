@@ -1,0 +1,3 @@
+Por resolución exenta Nº 472, de 18 de febrero de 2011, de esta Subsecretaría, recházanse las solicitudes Nº 207121267, Nº 207121251, Nº 207121247, Nº207121244, Nº 207124053, Nº 207121231 y Nº207121228, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del D.S. Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 18 de febrero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
