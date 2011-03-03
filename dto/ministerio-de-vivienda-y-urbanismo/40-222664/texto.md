@@ -882,6 +882,8 @@ Durante el mismo plazo de cinco años señalado en el inciso primero de este art
 
 Lo dispuesto en los incisos precedentes es sin perjuicio de las enajenaciones que pudieren autorizarse de acuerdo a lo señalado en el artículo siguiente.
 
+Sólo en casos debidamente justificados y por resolución fundada, el Serviu, a solicitud del beneficiario del subsidio o de quien pueda sucederlo en sus derechos, podrá autorizar la enajenación de la vivienda antes del vencimiento del plazo de la prohibición a que se refiere este artículo.
+
 #### Artículo 44
 
 <!-- parte:8046825 -->

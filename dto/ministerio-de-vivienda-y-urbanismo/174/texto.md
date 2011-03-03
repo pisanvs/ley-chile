@@ -1450,6 +1450,14 @@ En razón del subsidio diferenciado a la localización recibido, la vivienda con
 
 Transcurrido el plazo de 15 años, la prohibición caducará automáticamente de pleno derecho. El beneficiario que deseare enajenarla antes del cumplimiento de dicho plazo, deberá obtener del SERVIU la autorización correspondiente, la que se otorgará bajo la condición que se le restituya el monto del subsidio a la localización recibido, al valor de la Unidad de Fomento vigente a la fecha de la restitución, salvo que el beneficiario adquiera una nueva vivienda con el producto de la venta de la vivienda anterior y siempre que la nueva vivienda cumpla con los requisitos exigidos en este Título para la obtención del subsidio a la localización.
 
+Sin perjuicio de lo anterior, será aplicable respecto
+
+de la prohibición a que se refiere este artículo, lo
+
+dispuesto en el inciso octavo del artículo 1º del presente
+
+reglamento.
+
 #### Artículo 71
 
 <!-- parte:100007026 -->
