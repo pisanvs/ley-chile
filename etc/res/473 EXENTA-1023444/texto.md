@@ -1,0 +1,3 @@
+Por resolución exenta Nº 473, de 18 de febrero de 2011 de esta Subsecretaría, recházanse las solicitudes Nº 208106083, Nº 208106045, Nº 207121128, Nº207121311, Nº 207121341, Nº 207121340, Nº207121339, Nº 208121008, Nº 208121017, Nº208121025 y Nº 208122022, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de febrero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
