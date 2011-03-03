@@ -32,13 +32,13 @@ Decreto:
 
 #### Artículo 1°
 
-Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2010, ambos meses inclusive, asciende a la suma de $370.721.238.492 (trescientos setenta mil setecientos veintiún millones doscientos treinta y ocho mil cuatrocientos noventa y dos pesos).
+Determínase que el aporte estatal que corresponde transferir, por intermedio de la municipalidad respectiva, a todas las entidades administradoras de salud municipal, incluidas las mencionadas en el artículo 2° letra c) y en el artículo 3°, por el período comprendido entre los meses de enero a diciembre del año 2010, ambos meses inclusive, asciende a la suma de $371.713.480.630 (trescientos setenta y un mil setecientos trece millones cuatrocientos ochenta mil seiscientos treinta pesos).
 
 #### Artículo 2°
 
 El referido aporte se transferirá por mensualidades, por intermedio de la municipalidad respectiva, a cada entidad administradora de salud municipal y su monto se determina aplicando a un aporte general y básico que se detalla, los criterios de incremento o rebaja según corresponda, señalados en el artículo 49 de la ley N°19.378 en la proporción y forma que a continuación se indican:
 
-a) Aporte básico unitario homogéneo, denominado per capita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $2.324 (dos mil trescientos veinticuatro pesos).
+a) Aporte básico unitario homogéneo, denominado per capita basal, por beneficiario inscrito en los establecimientos municipales de atención primaria de salud de cada comuna de $2.402 (dos mil cuatrocientos dos pesos).
 
 b) Criterios de incremento del per capita basal, según corresponda:
 
@@ -99,6 +99,8 @@ b.- Actividad con Garantías Explícitas en Salud
 - La rebaja total se calculará sumando las rebajas correspondientes respecto de los porcentajes de cumplimiento, según esquemas precedentes de Actividad General y de aquella con Garantías Explícitas en Salud.
 
 - La rebaja total al aporte estatal mensual de la respectiva entidad administradora de salud municipal, correspondiente a cada periodo, se aplicará en el mes subsiguiente que corresponda.
+
+> **Nota.** El numeral 2° del Decreto 133, Salud, publicado en el Diario Oficial el 03 de marzo de 2011, modifica la presente norma en su artículo 2º letra c), en el sentido de sustituir el monto de "$5.398.138" por "$1.028.200", del valor básico por asignación de desempeño difícil por mes, asignado a la comuna de San Felipe.
 
 #### Artículo 3°
 
