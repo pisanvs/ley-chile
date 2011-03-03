@@ -796,6 +796,8 @@ Durante el mismo plazo de cinco años señalado en el inciso primero de este art
 
 Lo dispuesto en los incisos precedentes es sin perjuicio de las enajenaciones que pudieren autorizarse de acuerdo a lo señalado en el artículo siguiente.
 
+Sólo en casos debidamente justificados y por resolución fundada, el Serviu, a solicitud del beneficiario del subsidio o de quien pueda sucederlo en sus derechos, podrá autorizar la enajenación de la vivienda antes del vencimiento del plazo de la prohibición a que se refiere este artículo.
+
 #### Artículo 44
 
 El SERVIU autorizará también la venta de la vivienda afecta a prohibición en razón del subsidio recibido, bajo la condición que el pago del precio de esa enajenación se efectúe al contado y que éste se destine a la adquisición de una vivienda económica que reúna los requisitos, características y condiciones fijadas en el D.F.L. Nº 2, de 1959 y en el artículo 162 del D.F.L. Nº 458, del Ministerio de Vivienda y Urbanismo, de 1975, o de una vivienda que no sea económica, siempre que cumpla con las exigencias del Manual de Calificación Técnica para Viviendas Usadas que para estos efectos apruebe el Ministro de Vivienda y Urbanismo mediante resoluciones publicadas en el Diario Oficial, en las que se fijará, además, el cargo que cobrará el SERVIU por la labor de calificación técnica.
