@@ -1,0 +1,3 @@
+Por resolución exenta Nº 517, de 23 de febrero de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 207106074, Nº 207103069, Nº 207103049, Nº 207103119, Nº 208103072, Nº 206106067, Nº 205105008, Nº 206103097, Nº 203103019, Nº 205103125, Nº 205103144, Nº 206103082, Nº 206106018, Nº 206106019, Nº 206106066, Nº 206106079, Nº 207012006, Nº 206011012, Nº 206106052 y Nº 206106084, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 23 de febrero de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
