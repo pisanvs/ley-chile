@@ -152,7 +152,7 @@ Esta concesión se otorga por plazo indefinido.
 
 #### Artículo 9º
 
-El plazo para la iniciación de los trabajos será inmediatamente a continuación del término del proceso de tasación que haga la Comisión de Hombres Buenos para imponer las servidumbres de ocupación a los terrenos en donde irán emplazadas las obras civiles, proceso que se iniciará tan pronto se obtenga la concesión eléctrica definitiva, a partir de la fecha de reducción a escritura pública del presente decreto. El plazo total de construcción, montaje y puesta en servicio se estima en 28 meses, y se realizará en una sola etapa.
+El plazo para la iniciación de los trabajos será inmediatamente a continuación del término del proceso de tasación que haga la Comisión de Hombres Buenos para imponer las servidumbres de ocupación a los terrenos en donde irán emplazadas las obras civiles, proceso que se iniciará tan pronto se obtenga la concesión eléctrica definitiva, a partir de la fecha de reducción a escritura pública del presente decreto. El plazo total de construcción, montaje y puesta en servicio se estima en 34 meses, y se realizará en una sola etapa.
 
 Los plazos por subetapas serán los que se indican en el siguiente detalle:
 
