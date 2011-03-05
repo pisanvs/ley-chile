@@ -46,19 +46,27 @@ c) De escolaridad: Se concederá por cada afiliado estudiante o por cada estudia
 
 Para el efecto de este subsidio, se entenderá que son estudiantes quienes cursen regularmente estudios o actividades de pre-kinder, kindergarten, educación básica, media, diferencial, universitaria, técnica, superior o comercial, en algún establecimiento del Estado o reconocido por éste. Asimismo, podrán dar lugar a este beneficio los estudios de perfeccionamiento que realice el afiliado, tales como cursos de idiomas u otros similares destinados a incrementar o desarrollar su preparación cultural, previa calificación, según pautas que determine el Consejo Administrativo;
 
-d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este beneficio no procederá cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
+d) Por fallecimiento: Procederá por el fallecimiento del socio o de alguna de sus cargas familiares. En caso de fallecimiento del socio, este subsidio se pagará, aun cuando el Departamento tenga contratado para sus afiliados un seguro de vida.
 
-La defunción deberá acreditarse mediante el correspondiente certificado. En caso de fallecimiento del afiliado, este subsidio se pagará, cuando corresponda, a quien acredite haber cancelado los gastos del funeral. En caso de existir un remanente, éste se pagará conforme al siguiente orden de precedencia:
+La defunción deberá acreditarse mediante el correspondiente certificado.
 
-1.- Hijos menores de 25 años.
+En caso de fallecimiento del afiliado, este subsidio se pagará de acuerdo al siguiente orden de precedencia:
 
-2.- Cónyuge sobreviviente.
+1.- Cónyuge sobreviviente.
 
-La calidad de hijos menores de 25 años o cónyuge sobreviviente deberá acreditarse mediante los correspondientes certificados de nacimiento y matrimonio.
+2.- Hijos.
 
-En caso de faltar los enumerados se pagará a quien el afiliado haya designado mediante carta firmada ante Notario y entregada en el Departamento de Bienestar. En la eventualidad que el afiliado mantuviera deudas con el Departamento de Bienestar, éstas se pagarán en primer lugar.
+3.- Padres.
 
-Se otorgará el mismo subsidio de fallecimiento del hijo recién nacido aun cuando no hubiere sido reconocido como carga familiar, y por el mortinato a partir del 5º mes de gestación;
+La calidad de cónyuge sobreviviente, hijos o padres deberá acreditarse mediante los correspondientes certificados.
+
+En caso de faltar los enumerados, se pagará a quienes sean beneficiarios de la posesión efectiva del afiliado.
+
+En la eventualidad que el afiliado mantuviera deudas con el Departamento de Bienestar, éstas se pagarán en primer lugar.
+
+Se otorgará el mismo subsidio de fallecimiento por el hijo recién nacido, aun cuando no hubiese sido reconocido como carga familiar y por el mortinato a partir del 5º mes de gestación.
+
+El monto de cada una de las asignaciones a que se refiere esta letra será determinado anualmente por el Consejo Administrativo del Departamento de Bienestar del Poder Judicial, de acuerdo a las disponibilidades presupuestarias y conforme a parámetros objetivos y generales.
 
 e) Para fomento del estudio o beca de escolaridad: Anualmente el afiliado tendrá derecho a esta asignación por cada hijo reconocido como causante de asignación familiar que siga cursos regulares en la enseñanza básica, media, normal, técnica, especializada o superior, en instituciones del Estado o reconocidas por éste, y que cumpla las condiciones de rendimiento o de necesidad económica que determine el Consejo Administrativo. El afiliado devengará también este beneficio en caso que fuere el mismo quien sigue aquellos cursos regulares. Los montos y condiciones de estas becas se fijarán anualmente por el Consejo Administrativo de acuerdo a las disponibilidades presupuestarias del Departamento y conforme a parámetros objetivos y generales, que se darán a conocer a los afiliados con a lo menos sesenta días de anticipación al inicio de las postulaciones;
 
