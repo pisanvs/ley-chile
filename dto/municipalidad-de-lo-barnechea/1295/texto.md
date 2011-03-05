@@ -4002,6 +4002,38 @@ Adosamientos O. Gral. de O. Gral.
 
 U. y C. de U. y C.
 
+## Título X — PROPAGANDA Y PUBLICIDAD
+
+CAPÍTULO I: DE LA PUBLICIDAD EN ESPACIO PÚBLICO
+
+#### Artículo 56º
+
+Los soportes de carteles publicitarios estarán permitidos en el espacio de uso público destinado a vialidad, debiendo dar cumplimiento a toda la normativa vigente aplicable. Se deberá obtener el VºBº del Servicio de Vivienda y Urbanismo Metropolitano para los permisos de soportes publicitarios dentro de la faja de vialidad, excepto para las vías declaradas como caminos públicos en la comuna.
+
+#### Artículo 57º
+
+De conformidad al Artículo 38º del DFL Nº 850/1998, queda prohibida la instalación de publicidad en el espacio destinado a Caminos Públicos. La instalación de soportes de carteles publicitarios en las fajas adyacentes a los caminos públicos, deberá ser autorizada por el Director de Vialidad del Ministerio de Obras Públicas de la Región Metropolitana.
+
+#### Artículo 58º
+
+Las instalaciones publicitarias no podrán en caso alguno obstruir la visión en cruce de calles y de la señalización de tránsito, fijas o dinámicas, ni obstaculizar o dificultar el funcionamiento de paradas de locomoción colectiva como también el normal y seguro desplazamiento de peatones.
+
+CAPÍTULO II: DE LA PUBLICIDAD EN ESPACIO PRIVADO
+
+#### Artículo 59º
+
+Se permitirán instalaciones publicitarias en propiedad privada que puedan ser vistas u oídas desde el espacio público sólo en las siguientes ocasiones:
+
+a) Elementos publicitarios provisorios:
+
+Se permitirá la instalación provisoria de elementos publicitarios referidos a proyectos aprobados en permisos de edificación otorgados por la Dirección de Obras Municipales y sólo mientras dure la ejecución de las obras.
+
+b) Elementos publicitarios en sitios eriazos:
+
+Queda expresamente prohibida la instalación de cualquier tipo de publicidad en sitios eriazos, con excepción de elementos publicitarios referidos a la venta o arriendo del terreno, el que se considera provisorio.
+
+Queda expresamente prohibido todo lo no señalado en este artículo.
+
 Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo Sagues López, Ministro de Fe, Secretario Abogado Municipal.
 
 > **Nota.** El DTO 1544, M. de Lo Barnechea, publicado el 22.10.2003, modifica el presente artículo, en el sentido de aumentar en un 20%, el coeficiente de constructibilidad máxima del cuadro de Condiciones de Subdivisión y Edificación de la Zona J "La Dehesa", es decir, de 0.35 a 0.42; según se establece en el texto de la Memoria Explicativa y Ordenanza, elaborados por la citada Municipalidad.
