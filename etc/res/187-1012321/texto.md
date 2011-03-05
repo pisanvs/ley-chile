@@ -34,29 +34,7 @@ b) En aquellas localidades en que se hubiere efectuado una declaración de Monum
 
 Con todo, las demoliciones deberán regirse por lo dispuesto en los artículos 148 y siguientes del D.F.L. Nº 458 (V. y U.), de 1975, Ley General de Urbanismo y Construcciones, con excepción de la obligación de que el costo de las demoliciones sea asumido por el propietario, el que podrá ser asumido por éste, el Municipio u otro organismo público.
 
-### II. De la Reconstrucción y Reparación
-
-Las obras de reconstrucción y reparación deberán cumplir con las siguientes exigencias:
-
-1. Respetar los trazados viales y espacios públicos preexistentes, que detenten la calidad de Bienes Nacionales de Uso Público.
-
-2. Propender a conservar la morfología arquitectónica preexistente a la fecha del terremoto, en cuanto al emplazamiento de las edificaciones de cada poblado, salvo que estuvieren emplazadas en zona de riesgo, desniveles, terrazas, corredores, etc., que le dan identidad e imagen urbana al sector.
-
-3. Conservar el sistema de agrupamiento y la línea de edificación preexistente.
-
-4. Utilizar los elementos de diseño predominantes respecto a:
-
-- Pendientes de techumbres
-
-- Alturas de edificación
-
-- Cierros
-
-- Salientes
-
-- Morfología, proporción y ritmo de los lleno - vacío.
-
-5. Resguardar la materialidad predominante de cada poblado en muros, revoques, cubiertas, puertas y ventanas, siempre que el sistema constructivo estructural no se contraponga con las disposiciones de la Ley General de Urbanismo y Construcciones y de la Ordenanza General de Urbanismo y Construcciones.
+### II. DEROGADO
 
 ### III. De la Aplicabilidad
 
