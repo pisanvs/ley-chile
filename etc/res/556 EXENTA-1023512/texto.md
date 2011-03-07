@@ -1,0 +1,3 @@
+Por resolución exenta Nº 556 de 1 de marzo de 2011 de esta Subsecretaría, recházanse las solicitudes de modificación de concesión de acuicultura números 206111205, 206111206, 206111221, 207111001, 207111010, 207111080, 207111252 y 208111112, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de marzo de 2011.- Pablo Galilea Carrillo, Subecretario de Pesca.
