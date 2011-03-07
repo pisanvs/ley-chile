@@ -140,6 +140,8 @@ Se permite el reemplazo de la leche de origen animal por otras leches o cremas d
 
 54.- Ron: Es el destilado proveniente de un alcohol etílico potable, que puede o no someterse a proceso de envejecimiento en vasijas de madera, pudiendo ser coloreado exclusivamente con caramelo natural.
 
+55.- Bebidas alcohólicas elaboradas en base a Ajenjo: Son aquellas elaboradas con Artemisia absinthium L (Ajenjo) principalmente, u otras especies del mismo género, cuyo contenido máximo de Tujonas totales (Alfa y Beta) no podrá ser superior a 35 miligramos por litro.
+
 > **Nota.** EL ARTICULO TRANSITORIO del Decreto 103, Agricultura, publicado el 30.09.1987, dispuso que las modificaciones introducidas al presente decreto regirán vencido el plazo de 6 meses a contar de su publicación.
 
 > **Nota.** NOTA 1 El ARTICULO TRANSITORIO del Decreto 80, Agricultura, publicado el 19.07.1990, dispuso que las modificaciones introducidas a la presente norma, regirán 60 días después de su publicación.
