@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN RCO3.00 Nº 301 EXENTA, DE 2011
+
+Resolución exenta RCO3.00 Nº 301, de 1 de marzo de 2011, de la Dirección Regional de Copiapó del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) Nº 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos; en el artículo 41 de la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado; resolución Nº 1.600 de la Contraloría General de la República, de 30 de octubre de 2008; resoluciones exentas SII Nº 20, de 27 de enero de 2010, y Nº 30 de 24 de febrero de 2011, ambas del Sr. Director, delega, en caso de ausencia, impedimento o inhabilidad del Jefe del Departamento Jurídico de esa repartición, en el abogado don Camilo Enrique Miranda Cacciolato, RUT 15.672.916-7, las facultades señaladas en el resolutivo tercero de la resolución exenta SII Nº 20, de 27 de enero de 2010.-
+
+Mauricio Antonio Leiva Avilés, Director Regional.
