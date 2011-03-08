@@ -1,0 +1,3 @@
+EXCEPCIONA CAMBIO PARCIAL DE SUJETO DEL IVA A INMOBILIARIA MANANTIAL S.A.
+
+Por resolución exenta Nº 582, de fecha 01-03-2011, de la Dirección Regional Valdivia del Servicio de Impuestos Internos, se excepcionó del cambio parcial de sujeto del Impuesto al Valor Agregado en ventas de trigo, a Inmobiliaria Manantial S.A., RUT Nº 96.154.000-3, conforme a normas de resolución exenta Nº 192, de 24-12-2010. Valdivia, 1º marzo 2011.
