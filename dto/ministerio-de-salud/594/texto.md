@@ -1168,11 +1168,57 @@ Para exposiciones a densidades de potencia superiores a 10 mW/cm2 el tiempo máx
 
 Los tiempos máximos de exposición indicados en la tabla no son acumulables en la jornada de trabajo. En ningún caso se permitirán exposiciones a densidades de potencia superiores a 25 mW/cm2.
 
-7.3. Ultravioleta
+7.3. Ultravioleta de fuentes artificiales
 
 #### Artículo 109
 
 El límite permisible máximo para exposición ocupacional a radiaciones ultravioleta, dependerá de la región del espectro de acuerdo a las siguientes tablas:
+
+7.4.- ULTRAVIOLETA DE ORIGEN SOLAR
+
+#### Artículo 109
+
+a.- Se consideran expuestos a radiación UV aquellos trabajadores que ejecutan labores sometidos a radiación solar directa en días comprendidos entre el 1° de septiembre y el 31 de marzo, entre las 10.00 y las 17.00 horas, y aquellos que desempeñan funciones habituales bajo radiación UV solar directa con un índice UV igual o superior a 6, en cualquier época del año.
+
+El índice UV proyectado máximo diario debe ser corregido según las variables latitud, nubosidad, altitud y elementos reflectantes o absorbentes, según información proporcionada por la Dirección Metereológica de Chile.
+
+#### Artículo 109
+
+b.- Los empleadores de trabajadores expuestos deben realizar la gestión del riesgo de radiación UV adoptando medidas de control adecuadas.
+
+Deberán tomar, a lo menos, las siguientes medidas:
+
+a) Informar a los trabajadores sobre los riesgos específicos de exposición laboral a radiación UV de origen solar y sus medidas de control en los siguientes términos: "La exposición excesiva y/o acumulada de radiación ultravioleta de fuentes naturales o artificiales produce efectos dañinos a corto y largo plazo, principalmente en ojos y piel que van desde quemaduras solares, queratitis actínica y alteraciones de la respuesta inmune hasta fotoenvejecimiento, tumores malignos de piel y cataratas a nivel ocular."
+
+b) Publicar diariamente en un lugar visible el índice UV estimado señalado por la Dirección Meteorologica de Chile y las medidas de control que se deben aplicar, incluidos los elementos de protección personal.
+
+c) Identificar los trabajadores expuestos; detectar los puestos de trabajo e individuos que requieran medidas de protección adicionales y verificar la efectividad de las medidas implementadas a su respecto.
+
+d) Las medidas específicas de control a implementar, según exposición, son las siguientes, las que deberán emplearse siguiendo las indicaciones señaladas en la Guía Técnica de Radiación UV de Origen Solar dictada por el Ministerio de Salud mediante decreto emitido bajo la fórmula "Por Orden del Presidente de la República":
+
+* Ingeniería: realizar un adecuado sombraje de los lugares de trabajo para disminuir la exposición directa a la radiación UV tales como techar, arborizar, mallas oscuras y de trama tupida, parabrisas adecuados;
+
+* Administrativas: si la labor lo permite, calendarizar faenas, horarios de colación entre 13:00 y las 15:00hrs en lugares con sombraje adecuado, rotación de puestos de trabajo con la disminución de tiempo de exposición;
+
+* Elementos de protección personal, según el grado de exposición, tales como gorros, lentes, factor de protección solar;
+
+e) Mantener un programa de instrucción teórico práctico para los trabajadores, de duración mínima de una hora cronológica semestral, sobre el riesgo y consecuencias para la salud por la exposición a radiación UV solar y medidas preventivas a considerar, entre otros. Este programa debe constar por escrito.
+
+#### Artículo 109
+
+c.- Los establecimientos asistenciales públicos y privados, deberán notificar a la Autoridad Sanitaria Regional los datos sobre los casos de eritema y de quemaduras solares obtenidos a causa o con ocasión del trabajo, que detecten los médicos que en ellos se desempeñan, los cuales deben clasificarse como "Quemadura Solar" y detallar el porcentaje de superficie corporal quemada (SCQ). La entrega de esta información será de responsabilidad del director de dichos centros asistenciales y se efectuará por la persona a quien éste haya designado para ello, la que servirá de vínculo oficial de comunicación sobre la materia con la mencionada autoridad sanitaria.
+
+Dichos datos, deben ser enviados a la Autoridad Sanitaria Regional competente el último día hábil del mes de abril de cada año, por medios electrónicos, en el formato que establezca el Ministerio de Salud. Ella debe contener:
+
+- N° Casos (eventos)
+
+- Días perdidos
+
+- Diagnóstico de Alta
+
+- Actividad Económica
+
+- Región del país
 
 8.- DE LAS RADIACIONES IONIZANTES
 
