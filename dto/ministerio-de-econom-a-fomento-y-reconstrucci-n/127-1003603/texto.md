@@ -22,11 +22,21 @@ Titular: Domingo Jiménez Olmo, RUT Nº5.547.596-2
 
 Suplente: Oscar Fernando Uribe Díaz, Rut N° 6.378.169-K.
 
-3. Por la macrozona constituida por la V a IX Regiones e Islas Oceánicas:
+3. En representación de las Organizaciones Gremiales del
 
-Titular: Rodrigo Sarquis Said, RUT Nº6.280.901-9
+sector empresarial, cargo que representa a la
 
-Suplente: Alberto Romero Silva, RUT Nº6.243.012-5
+macrozona constituida por la V a IX Regiones
+
+e Islas Oceánicas, el cargo titular será
+
+ejercido por Roberto Izquierdo Menéndez,
+
+RUT Nº 3.932.425-3, y el cargo suplente será
+
+ejercido por Jan Stengel Meierdirks,
+
+RUT Nº 6.260.446-8.
 
 4. Por la macrozona constituida por la XIV, X, XI y XII Regiones:
 
