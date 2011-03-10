@@ -1,0 +1,3 @@
+Por resolución exenta Nº 420, de 18 de febrero de 2011, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 77 de 2011, de esta Subsecretaría, que autoriza a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo de la pesquería artesanal de Merluza del sur (Merluccius australis) de aguas interiores de la X Región, Zona de Chiloé, Subzona Dalcahue, año 2011", en el sentido de indicar que los límites de captura autorizados para el período enero-diciembre de 2011, expresados en toneladas, serán los siguientes:
+
+Valparaíso, 18 de febrero de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
