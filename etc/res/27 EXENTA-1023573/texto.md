@@ -1,0 +1,13 @@
+EXTRACTO DE RESOLUCIÓN Nº 27 EXENTA, DE 2011
+
+Por resolución exenta Nº 27, de 4 de febrero de 2011, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos, ubicado en calle Marina de Chile Nº 3153, de la ciudad de Concepción, Provincia de Concepción, Región del Bío Bío, de responsabilidad de la Sociedad de Transportes Deyadi Limitada, rol único tributario Nº 76.116.413-9. El tipo de terminal es un terminal de vehículos urbano de acuerdo al artículo 45 bis del D.S. 212/92 del Ministerio de Transportes y Telecomunicaciones, clasificado en "Categoría A2" con capacidad para 50 automóviles. La flota de diseño del terminal referido equivale a 50 autos, de conformidad al inciso quinto del artículo 45 del D.S. 212/92 del Ministerio de Transportes y Telecomunicaciones y ordinario Nº 4545 de esta Secretaría Regional Ministerial y al artículo 4.13.6 del Capítulo 13 del D.S. 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el siguiente servicio de taxis colectivos urbano de Concepción, cuyo responsable es la Sociedad de Transportes Deyadi Limitada, rol único tributario Nº 76.116.413-9: 1.- Servicio de taxis colectivos con recorrido: Troncal: Marina de Chile - Rengo - Chacabuco - Collao. Variante: D. Almagro - El Roble - El Lingüe - A. Pinto.
+
+- **B)** El representante legal de la línea usuaria del terminal es don Luis Reinaldo Jara Araneda, rol único tributario Nº 7.491.094-7, con domicilio en Avda. La Araucana Nº 1163, de la comuna de Hualqui.
+
+- **C)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad de 50 autos, de conformidad con el inciso quinto del artículo 45 del D.S. 212/92 del Ministerio de Transportes y Telecomunicaciones y ordinario Nº 4545 de esta Secretaría Regional Ministerial y al artículo 4.13.6 del Capítulo 13 del D.S. 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal.
+
+- **D)** El administrador del Terminal será don Luis Reinaldo Jara Araneda, rol único tributario Nº 7.491.094-7, con domicilio en Avda. La Araucana Nº 1163 de la comuna de Hualqui. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.-
+
+Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región del Bío Bío.
