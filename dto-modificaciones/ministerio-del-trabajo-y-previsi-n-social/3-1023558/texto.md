@@ -1,22 +1,18 @@
-ESTABLECE OBJETIVOS, LÍNEAS DE ACCIÓN Y PROCEDIMIENTOS DEL PROGRAMA BONIFICACIÓN A LA CONTRATACIÓN DE MANO DE OBRA
+MODIFICA DECRETO Nº 2, DE 2010, QUE ESTABLECE OBJETIVOS, LÍNEAS DE ACCIÓN Y PROCEDIMIENTOS DEL PROGRAMA BONIFICACIÓN A LA CONTRATACIÓN DE MANO DE OBRA
 
-Núm. 2.- Santiago, 5 de enero de 2010.- Vistos: Lo dispuesto en el artículo 32 Nº 6, de la Constitución Política de la República; las glosas 2, 10 y 4 asociadas a la partida 15-01-03-24-03-260 de la Ley Nº 20.407 de Presupuestos del Sector Público para el año 2010, y la resolución Nº 1.600, del año 2008, de la Contraloría General de la República.
+Núm. 3.- Santiago, 18 de enero de 2011.- Vistos: Lo dispuesto en el artículo 32 Nº 6 de la Constitución Política de la República; decreto con fuerza de ley Nº 1, de 1967, del Ministerio del Trabajo y Previsión Social, que establece la reestructuración y funciones de la Subsecretaría del Trabajo; la glosa 04, asociada a la partida 15-01-03-24-03-260 de la ley Nº 20.481, de Presupuesto del Sector Público para el año 2011; la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y decreto Nº 2, de 2010, del Ministerio del Trabajo y Previsión Social, que establece objetivos, líneas de acción y procedimientos del Programa Bonificación a la Contratación de Mano de Obra,
 
 Considerando:
 
-1.- La necesidad de generar acciones para facilitar la inserción laboral de los trabajadores desempleados, a través del desarrollo de iniciativas destinadas a incrementar sus oportunidades de acceder al mercado del trabajo.
+La necesidad de generar acciones para facilitar la inserción laboral de los trabajadores(as) desempleados(as), a través del desarrollo de iniciativas destinadas a incrementar sus oportunidades de acceder al mercado del trabajo.
 
-2.- Que la Ley de Presupuestos del Sector Público para el año 2010 ha contemplado la existencia de un Programa de Bonificación a la Contratación de Mano de Obra.
+Para una mejor ejecución del Programa Bonificación a la Contratación de Mano de Obra, se hace necesario regular las líneas de acción del mismo.
 
 Decreto:
 
-1.- El Programa de Bonificación a la Contratación de Mano de Obra financiará aportes a la contratación de trabajadores en empresas conforme a las líneas que más adelante se detallan.
+Modifícase el decreto Nº 2, de 2010, del Ministerio del Trabajo y Previsión Social, que establece objetivos, líneas de acción y procedimientos del Programa Bonificación a la Contratación de Mano de Obra, en la forma siguiente:
 
-2.- La asignación de recursos del Programa se orientará a fomentar la contratación de trabajadores y trabajadoras desempleados(as), preferentemente jefes o jefas de hogar que vivan en regiones y comunas que presenten tasas de desocupación relevantes respecto del promedio del desempleo nacional.
-
-3.- El Programa se ejecutará a través del Servicio Nacional de Capacitación y Empleo previa suscripción de convenio con la Subsecretaría del Trabajo.
-
-4.- El Programa considera los siguientes componentes o líneas de acción:
+1.- Reemplázase el numeral 4 por el siguiente: "4.- El Programa considera los siguientes componentes o líneas de acción:
 
 a).- Bonificación a la Contratación de Mano de Obra en las Empresas: Con cargo a los recursos del Programa, se podrá otorgar a las respectivas empresas una bonificación mensual por trabajador(a) de hasta el 30% de un ingreso mínimo mensual con una duración máxima de 6 meses.
 
@@ -64,28 +60,14 @@ En general, para las letras a), b), c), d) y e) número i.-, tendrán preferenci
 
 No podrán acceder a este programa quienes perciban ingresos por pensiones de vejez de cualquier tipo, incluidas las derivadas de un sistema de previsión; lo anterior es sin perjuicio de las compatibilidades que establece la ley Nº 20.255 y la legislación vigente.
 
-5.- La postulación de las empresas a este Programa, se efectuará de conformidad a las normas que dicte el Servicio Nacional de Capacitación y Empleo, realizándose la selección de los mismos conforme a la normativa vigente.
+2.- Reemplázase el numeral 7 por el siguiente: "7.- Corresponderá al Servicio Nacional de Capacitación y Empleo la verificación de los requisitos de las empresas para postular así como de los trabajadores(as) que causen el beneficio.
 
-6.- El proceso de asignación de fondos a los postulantes favorecidos deberá guardar una adecuada concordancia con los objetivos y lineamientos generales del Programa contenidos en el presente decreto al cual se ajustará en todo caso.
+Para efectos de acceder a los programas, la calidad de trabajador desempleado(a) deberá acreditarse mediante inscripción vigente en la respectiva Oficina Municipal de Información Municipal, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la municipalidad cumplan funciones similares cuando en la misma no exista la anterior, y a través de declaración jurada simple del trabajador(a) que cause el beneficio. La inscripción debe ser anterior a la fecha en que se haga efectivo el contrato y la declaración jurada simple debe señalar que el trabajador(a) se encuentra desempleado".
 
-7.- Corresponderá al Servicio Nacional de Capacitación y Empleo la verificación de los requisitos de las empresas para postular así como de los trabajadores(as) que causen el beneficio.
+3.- Reemplázase el inciso final del numeral 8 por el siguiente: "El cobro efectivo del beneficio por parte de la empresa deberá impetrarse no más allá de 2 meses desde que se hizo exigible el pago por parte del trabajador(a), entendiéndose que es exigible una vez que corresponde al empresario bonificado pagar el sueldo respectivo al trabajador(a), el no cobro dentro del plazo antes señalado implica una renuncia del mismo".
 
-Para efectos de acceder a los programas, la calidad de trabajador desempleado(a) deberá acreditarse mediante inscripción vigente en la respectiva Oficina Municipal de Información Municipal, que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la municipalidad cumplan funciones similares cuando en la misma no exista la anterior, y a través de declaración jurada simple del trabajador(a) que cause el beneficio. La inscripción debe ser anterior a la fecha en que se haga efectivo el contrato y la declaración jurada simple debe señalar que el trabajador(a) se encuentra desempleado.
+4.- Todo aquello no modificado del decreto individualizado en la cláusula primera de este instrumento se mantiene en idénticos términos.
 
-8.- El Programa se financiará con cargo a los recursos consultados en la asignación respectiva del Presupuesto de la Subsecretaría del Trabajo para el año 2010.
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Evelyn Matthei Fornet, Ministra del Trabajo y Previsión Social.
 
-Con todo, los montos que se transfieran a Sence para la administración o ejecución del Programa, no ingresarán a su presupuesto y de su inversión rendirán cuenta directamente a la Contraloría General de la República.
-
-El Servicio Nacional de Capacitación y Empleo deberá controlar el correcto uso de los recursos transferidos desarrollando fiscalizaciones y auditorías según corresponda de ellas dará cuenta a la Subsecretaría del Trabajo. Lo anterior es sin perjuicio de las acciones de supervigilancia, auditoría o control que pudiere implementar directamente la Subsecretaría del Trabajo según determine la autoridad, para lo cual el órgano público o privado que corresponda dará acceso expedito y oportuno a toda aquella información que la Subsecretaría juzgue conveniente para el cumplimiento de estas funciones.
-
-Las transferencias de recursos a que diere origen el otorgamiento de los beneficios comprendidos en el presente Programa, serán efectuados por Sence, conforme a la normativa vigente, de forma tal que se asegure una transparente y efectiva administración del Programa.
-
-El cobro efectivo del beneficio por parte de la empresa deberá impetrarse no más allá de 2 meses desde que se hizo exigible el pago por parte del trabajador(a), entendiéndose que es exigible una vez que corresponde al empresario bonificado pagar el sueldo respectivo al trabajador(a), el no cobro dentro del plazo antes señalado implica una renuncia del mismo.
-
-9.- Conforme a lo señalado en la glosa 10 asociada a la asignación 260 del Programa 03 Pro Empleo, esta unidad, dependiente de la Subsecretaría del Trabajo, preparará trimestralmente el informe ahí señalado a efectos de ser presentado a la Comisión Especial Mixta de Presupuestos, incluyendo a lo menos las actividades realizadas por el Programa, el monto de los recursos invertidos en cada actividad, las personas o entidades receptoras o ejecutoras de esos recursos, el método utilizado para la asignación de los mismos y un informe con los resultados y logros obtenidos. Todo ello dentro de los primeros treinta días después del vencimiento del respectivo trimestre.
-
-10.- Tanto la Subsecretaría del Trabajo como Sence deberán dar cumplimiento a las normas de transparencia y control dispuestas en la glosa 2 de la Partida 15-01-03 de la ley de Presupuestos, las contempladas en la ley Nº 20.285 Sobre Acceso a la Información Pública así como las contempladas en la ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, velando por la correcta y eficiente inversión de los fondos comprometidos, la igualdad en el acceso a los beneficios por parte de los ciudadanos y la adecuada actuación de los funcionarios públicos y demás colaboradores de la función del Estado involucrados en este Programa.
-
-Anótese, tómese razón y publíquese.- Por orden de la Presidenta de la República, Claudia Serrano Madrid, Ministra del Trabajo y Previsión Social.
-
-Lo que transcribo a usted para su conocimiento.- Marcelo Soto Ulloa, Subsecretario del Trabajo.
+Lo que transcribo a usted para su conocimiento.- Bruno Baranda Ferrán, Subsecretario del Trabajo.
