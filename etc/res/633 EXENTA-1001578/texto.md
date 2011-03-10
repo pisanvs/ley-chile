@@ -112,7 +112,7 @@ b.- El Director Regional dictará las resoluciones transfiriendo los fondos para
 
 ### VIII. ANTICIPOS Y GARANTÍAS
 
-Cada Director Regional podrá autorizar uno o más anticipos a los Agentes Operadores Intermediarios o a las Unidades Coordinadoras Empresariales, en su caso, hasta por un 70% de los recursos totales asignados para la ejecución de los Proyectos. Los anticipos sólo podrán efectuarse previa entrega de una boleta bancaria de garantía pagadera a la vista o una póliza de seguro de ejecución inmediata, por el total de los fondos anticipados.
+Cada Director Regional podrá autorizar uno o más anticipos a los Agentes Operadores Intermediarios o a las Unidades Coordinadoras Empresariales, en su caso por hasta el total de los recursos asignados para la ejecución de los Proyectos. Los anticipos sólo podrán efectuarse previa entrega de una boleta bancaria de garantía pagadera a la vista o una póliza de seguro de ejecución inmediata, por el total de los fondos anticipados
 
 ### IX. CASOS ESPECIALES
 
