@@ -14,6 +14,12 @@ La sección superior que quedará adherida al talonario y que deberá mantenerse
 
 La sección inferior tendrá además de los datos antes mencionados un cuadro en el que deberá consignarse la hora de llegada - hora de salida -firma y timbre del inspector y un recuadro para los casos en que el vehículo se encuentre fuera de servicio.
 
+Se podrán utilizar Hojas de Control que contengan información semanal, quincenal o mensual, en cuyo caso el modelo deberá contar con la autorización expresa de esta Secretaría Regional.
+
+Asimismo, y para los casos de Hoja de Control Diario, ésta se podrá otorgar por períodos mayores a un día en fines de semana o festivos y feriados prolongados.
+
+La Hoja de Control no requiere del timbre de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones; sin embargo, cada línea deberá informar por escrito cada vez que se utilice un nuevo talonario, de lo cual se registrará su folio en un sistema que se llevará para estos efectos.
+
 2º.- La Hoja de Control Diario será exigible a contar del 14 de octubre de 2002.
 
 Anótese y publíquese.- Claudio Méndez Olave, Secretario Regional Ministerial de Transportes y Telecomunicaciones IV Región de Coquimbo.
