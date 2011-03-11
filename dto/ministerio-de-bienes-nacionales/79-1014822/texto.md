@@ -16,7 +16,7 @@ Decreto:
 
 a) Otorgamiento de títulos gratuitos de dominio, urbanos y rurales, a personas naturales chilenas de escasos recursos, incluidos los otorgados de conformidad con el D.L. Nº2.885, la ley Nº 18.270, la ley Nº 18.616 u otras leyes vigentes sobre la materia, así como la declaración de caducidad del título, conforme lo establecido en el artículo 94 del D.L. Nº 1.939, de 1977, respecto de inmuebles fiscales cuya tasación comercial no exceda de 500 U.T.M. (quinientas Unidades Tributarias Mensuales).
 
-b) Transferencias Gratuitas de inmuebles fiscales a las personas jurídicas referidas en el artículo 61 del D.L. 1.939, de 1977, cuyo valor comercial fijado por la Comisión Especial de Enajenaciones, de conformidad a lo dispuesto en el artículo 85º del mismo cuerpo legal, no exceda de 2.500 Unidades Tributarias Mensuales.
+b) DEROGADO.
 
 c) Otorgamiento de concesiones a título gratuito hasta por un plazo máximo de cinco (5) años, conforme lo establecido en el art. 61 del D.L 1939, de 1977. Esta facultad comprende la de ponerles término y caducarlas. Donde existan Oficinas Provinciales esta facultad será ejercida por el respectivo Jefe Provincial, de acuerdo a lo expresado en el Nº 3 siguiente.
 
