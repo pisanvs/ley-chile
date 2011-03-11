@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIONES Nos 458, 459, 460, 461 Y 462 EXENTAS, DE 2011
+
+Por resoluciones exentas Nºs 458, 459, 460, 461 y 462, de 2011, del Ministerio de Transportes y Telecomunicaciones, se Prorroga la Vigencia de los Contratos de Concesión de Uso de Vías de Iquique para la Prestación de Servicio Urbano de Transporte Público Remunerado de Pasajeros prestados con buses, celebrados con los siguientes concesionarios: Sociedad de Transporte de Pasajeros y Servicios Alto Hospicio S.A., Asociación Gremial Dueños de Taxibuses Urbanos Línea Nº 1 Trans Satélite A.G., Sociedad de Transportes Nueva Línea Seis Limitada, Sociedad de Transportes Vargas Limitada y Sociedad Comercial Inmobiliaria y de Servicios Arturo Prat Limitada, por un plazo adicional de 18 meses contados desde el 11 de marzo de 2011.
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
