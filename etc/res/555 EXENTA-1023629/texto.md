@@ -1,0 +1,3 @@
+Por resolución exenta Nº 555, de 1 de marzo de 2011, de esta Subsecretaría, recházanse las solicitudes números 207111373, 207111470, 205111215, 205111457, 207111306, 208111118, 207111303, 208111117, 207111480, 207111321, 207111481, 208111041, 208111078, 208111039, 200111510 y 207111400, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
