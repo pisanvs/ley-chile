@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3149 de fecha 31 de diciembre de 2010, se expropió el lote de terreno N° 138, superficie 2.160 m2, rol N° 154-118, comuna de Las Cabras para la obra "Mejoramiento Ruta H-780, sector Las Cabras El Manzano, tramo Km. 3,56000 a Km. 19,47571" y se acordó el valor de la indemnización con su propietario DELMIRA PALOMINOS ACEVEDO, ascendente a la cantidad de $8.987.770.-
+
+Fiscal del Ministerio de Obras Públicas.
