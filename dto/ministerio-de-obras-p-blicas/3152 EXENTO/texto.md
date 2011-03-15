@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº3.152, de 31 de diciembre de 2010, se expropió el lote de terreno Nº16-A, superficie 419 m², Rol Nº971-12, comuna de Alto del Carmen, III Región, para la obra "Mejoramiento Caminos de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa I" y se acordó el valor de indemnización con la Sociedad Agrícola Viña Negra Limitada, Agrivin Limitada, ascendente a la cantidad de $1.526.917.-
+
+Fiscal del Ministerio de Obras Públicas.
