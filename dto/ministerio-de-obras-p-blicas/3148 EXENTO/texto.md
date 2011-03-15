@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº3.148, de 31 de diciembre de 2010, se expropió el lote de terreno Nº7, superficie 10 m², Rol Nº8020-17, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II, (La Pampa - Conay, Km. 44,040000 al Km. 46,42610)", y se acordó el valor de indemnización con doña Margarita Adelfa Espinoza Carmona, ascendente a la cantidad de $507.656.-
+
+Fiscal del Ministerio de Obras Públicas.
