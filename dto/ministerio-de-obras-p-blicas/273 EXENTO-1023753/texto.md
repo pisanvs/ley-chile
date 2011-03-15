@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº273 de 28 de febrero de 2011, se modificó el numeral tercero del decreto MOP Nº4.912 de 31 de octubre de 2000, que ordenó, la expropiación del lote Nº2-A, en la parte que se refiere al número del Rol de avalúo y al nombre del propietario según el Servicio de Impuestos Internos. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del decreto ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
