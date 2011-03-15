@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 3144, de 31 de diciembre de 2010, se expropiaron los lotes de terreno Nºs. 102-E y 105-A, superficies 3.987 y 2.299 m2., Rol Nºs. 275-11 y 275-10, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria LUCIA TERESA HIZMERI RIADY, ascendente a la cantidad de $9.825.100.-
+
+Fiscal del Ministerio de Obras Públicas.
