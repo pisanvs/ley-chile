@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3147 de fecha 31 de diciembre de 2010, se expropió el lote de terreno N° 11, superficie 2.287 m2, rol N° 916-14, comuna de Alto del Carmen para la obra "Mejoramiento Ruta C-495, El Tránsito Junta de Valeriano, Etapa II, (La Pampa Conay, Km. 46,42610 al Km. 49,80000)" y se acordó el valor de la indemnización con su propietario PASCUAL AURELIO OLIVARES IRIARTE, ascendente a la cantidad de $1.777.359.-
+
+Fiscal del Ministerio de Obras Públicas.
