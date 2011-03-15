@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 3143, de 31 de diciembre de 2010, se expropió el lote de terreno N° 87-C, superficie 265 m2., rol de Avalúo N° 640-25, comuna de Molina, para la obra "CAMINO MEJORAMIENTO RUTA K-175, SECTOR TRES ESQUINAS LAS TRANCAS, KILÓMETRO 8,306.62 AL KM. 25,735.24", y se acordó el valor de la indemnización con su propietaria IRMA GENOVEVA VIDAL ARROYO Y OTROS, ascendente a la cantidad de $4.924.996.-
+
+Fiscal del Ministerio de Obras Públicas.
