@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 3155, de 31 de diciembre de 2010, se expropió el lote de terreno N° 110, superficie 38 m2, rol de Avalúo 2572-10, comuna de Valdivia, para la obra "MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831, PROVINCIA DE VALDIVIA, XIV REGION, TRAMO 3", y se acordó el valor de la indemnización con su propietario LUIS ALFONSO SILVA LARA, ascendente a la cantidad de $3.238.833.-
+
+Fiscal del Ministerio de Obras Públicas.
