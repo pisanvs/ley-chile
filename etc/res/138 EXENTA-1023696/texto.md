@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS DE "COMPAÑÍA DE SEGUROS CORPSEGUROS S.A."
+
+Certifico: Que por resolución exenta Nº 138 de 25 de febrero de 2011, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Compañía de Seguros CorpSeguros S.A.", acordada en Junta Extraordinaria de Accionistas de 7 de enero de 2011, cuya acta consta de la escritura pública de 25 de enero de 2011, otorgada ante el Notario de Santiago don José Musalem Saffie, con domicilio en Huérfanos Nº 770, 3º piso, Santiago.
+
+La modificación consiste en el aumento del capital social de $122.743.144.330.-, dividido en 123.359.934 acciones ordinarias, nominativas, de igual serie y sin valor nominal, íntegramente suscrito y pagado, a $132.743.145.070.- dividido en 133.410.186 acciones ordinarias, nominativas, de igual serie y sin valor nominal, mediante la emisión de 10.050.252 acciones de pago, correspondiente a $10.000.000.740.-, a pagar en el plazo de 30 días corridos contados desde la fecha de la resolución de la Superintendencia de Valores y Seguros que aprueba el aumento de capital.
+
+Santiago, 25 de febrero de 2011.- Gonzalo Quiroga Riobo, Secretario General (S).
