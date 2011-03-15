@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3154 de fecha 31 de diciembre de 2010, se expropiaron los lotes de terreno N°s 104 y 104-A, superficies 15 y 32 m2 respectivamente, rol N° 154-850, comuna de Las Cabras para la obra "Mejoramiento Ruta H-780, sector Las Cabras El Manzano, tramo Km. 3,56000 a Km. 19,47571" y se acordó el valor de la indemnización con su propietario LUIS RODOLFO CÉSPEDES NÚÑEZ, ascendente a la cantidad de $1.259.303.-
+
+Fiscal del Ministerio de Obras Públicas.
