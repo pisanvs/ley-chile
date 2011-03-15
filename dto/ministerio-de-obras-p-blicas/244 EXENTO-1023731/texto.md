@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº244 de 28 de febrero de 2011, se dejó sin efecto la expropiación del lote de terreno N°13, ordenado mediante el Decreto MOP. (Exento) Nº2232 de 29 de octubre de 2010, para la obra "Diseño Embalse en Estero Nilahue en Pichilemu", a nombre de PINA ROSSEL BERTA E. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
