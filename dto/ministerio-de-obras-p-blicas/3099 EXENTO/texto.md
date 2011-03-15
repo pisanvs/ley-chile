@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº3.099, de 17 de diciembre de 2010, se modificó el numeral primero del decreto exento MOP Nº2.925, de 19 de noviembre de 2010, con motivo de la ejecución de la obra: "Construcción Variante Ruta C-46 Freirina, provincia de Huasco, Región de Atacama", como a continuación se indica: Déjanse, sin efecto los numerales 3º, 4º, 5º y 6º, del decreto exento MOP Nº371, de 30 de marzo de 2010, en la parte que se refiere al Convenio Directo de precio, a la suscripción de la escritura pública de expropiación y en lo que respecta a la indemnización del lote Nº10, ascendente a la suma de $39.851.150, en conjunto con el lote Nº9, correspondiente a la misma obra pública.-
+
+Fiscal del Ministerio de Obras Públicas.
