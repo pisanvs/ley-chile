@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº254 de 28 de febrero de 2011, se dejó sin efecto la expropiación del lote de terreno N°3, ordenado mediante Decreto MOP. (Exento) Nº2222 de 29 de octubre de 2010, para la obra "Diseño Embalse en Estero Nilahue en Pichilemu", lote N°3 a nombre de MUNOZ ELEODORO SUC. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
