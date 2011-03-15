@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 3150 de fecha 31 de diciembre de 2010, se expropió el lote de terreno N° 137, superficie 746 m2, rol N° 154-632, comuna de Las Cabras para la obra "Mejoramiento Ruta H-780, sector Las Cabras El Manzano, tramo Km. 3,56000 a Km. 19,47571" y se acordó el valor de la indemnización con su propietario MARGARITA DEL CARMEN FUENTES ESPINDOLA, ascendente a la cantidad de $1.445.963.-
+
+Fiscal del Ministerio de Obras Públicas.
