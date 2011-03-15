@@ -1,0 +1,3 @@
+Por decreto (exento) MOP Nº3.153, de 31 de diciembre de 2010, se expropió el lote de terreno Nº31, superficie 60 m², Rol Nº925-9, comuna de Alto del Carmen, III Región para la obra "Mejoramiento Camino de Acceso al Proyecto Minero Pascua - Lama, Rutas C-485 y C-489, Sendero Peatonal, Etapa II" y se acordó el valor de indemnización con don Raúl Antonio Paredes Romero y Otros, ascendente a la cantidad de $337.787.-
+
+Fiscal del Ministerio de Obras Públicas.
