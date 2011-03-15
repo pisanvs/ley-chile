@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 3141, de 31 de diciembre de 2010, se expropió el lote de terreno Nº192-A, superficie 48 m2., Rol Nº304-05, comuna de Longaví, VII Región, "CAMINO MEJORAMIENTO RUTA L-535, SECTOR CHALET QUEMADO LOMA DE VÁSQUEZ, TRAMO KM. 0,00000 A KM. 19,41782", y se acordó el valor de indemnización con su propietario GABRIEL ANTONIO VILLAGRA VALENZUELA, ascendente a la cantidad de $435.952.-
+
+Fiscal del Ministerio de Obras Públicas.
