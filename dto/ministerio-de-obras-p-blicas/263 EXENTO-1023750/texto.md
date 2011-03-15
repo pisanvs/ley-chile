@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº263 de 28 de febrero de 2011, se dejó sin efecto la expropiación del lote de terreno N°1-E, ordenado mediante el Decreto MOP. (Exento) Nº1117 de 30 de agosto de 2010, para la obra"Recinto Aducción Quebrada Iloca", a nombre de VERGARA CARRILLO JOEL EDUARDO. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
