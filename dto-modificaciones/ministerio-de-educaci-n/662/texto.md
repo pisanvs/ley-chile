@@ -4,11 +4,11 @@ Núm. 662.- Santiago, 29 de diciembre de 2008.- Considerando:
 
 Que el Ministerio de Educación, mediante decreto supremo de Educación Nº 1.316, de 13 de diciembre de 1996, estableció, para el año 2007, los requisitos técnicos-pedagógicos para la creación y ampliación de internados subvencionados y fijó procedimiento para postulación y aprobación.
 
-Que la Ley Nº 20.407 de Presupuestos, para el año 2010, en la Partida 09, Capítulo 01, Programa 20, Subtítulo 24, ítem 01, Asignación 256, Glosa 05, incluye el financiamiento para el incremento de la subvención de internado, que establece el artículo 11 del D.F.L. (Ed.) Nº 2, de 1998.
+Que la Ley Nº 20.481 de Presupuestos, para el año 2011, en la Partida 09, Capítulo 01, Programa 20, Subtítulo 24, ítem 01, Asignación 256, Glosa 05, incluye el financiamiento para el incremento de la subvención de internado, que establece el artículo 11 del D.F.L. (Ed.) Nº 2, de 1998.
 
 Que, además, señala que la creación y ampliación de internados se hará de acuerdo al decreto Nº 1.316, de 1996, del Ministerio de Educación, y sus modificaciones. La cantidad de nuevos cupos de alumnos internos que podrá incrementarse a través de los proyectos de construcción o reposición de internados que se ejecuten durante el año 2009, se establecerá mediante la modificación del citado decreto, antes del 31 de diciembre de 2008.
 
-Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; Ley Nº 18.956; Ley Nº 20.407 de Presupuestos del Sector Público para el año 2010; D.F.L. (Ed.) Nº 2, de 1998; Decreto Supremo de Educación Nº 1.316, de 1996 y sus modificaciones; y la Resolución Nº 1.600, de 2008, de la Contraloría General de la República,
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; Ley Nº 18.956; Ley Nº 20.481 de Presupuestos del Sector Público para el año 2011; D.F.L. (Ed.) Nº 2, de 1998; Decreto Supremo de Educación Nº 1.316, de 1996 y sus modificaciones; y la Resolución Nº 1.600, de 2008, de la Contraloría General de la República,
 
 Decreto:
 
