@@ -1,10 +1,10 @@
 MODIFICA ORDENANZA SOBRE DERECHOS, CONCESIONES, PERMISOS Y SERVICIOS QUE INDICA
 
-Núm. 494.- La Reina, 8 de marzo de 2010.- Vistos: El acuerdo Nº 1964 y 1965, de fecha 3 de marzo de 2011, del Concejo Municipal, que aprueba modificaciones a la Ordenanza de la comuna de La Reina sobre derechos, concesiones, permisos y servicios; el memorándum Nº 139, de fecha 8 de marzo de 2011, de la Dirección de Tránsito y Transporte Público; el memorándum Nº 263, de fecha 8 de marzo de 2011, de la Dirección de Administración y Finanzas; el decreto alcaldicio Nº 1858, de fecha 8 de noviembre de 2010, que Fija Texto refundido de la ordenanza mencionada, decreto alcaldicio Nº 1.784, de fecha 26 de octubre de 2010, que aprueba modificaciones a la ordenanza antes mencionada; y en uso de las atribuciones que me confieren los artículos 20 y 63 de la ley Nº 18.695, Ley Orgánica Constitucional de Municipalidades,
+Núm.494.- La Reina, 8 de marzo de 2011.- Vistos: El acuerdo Nº 1964 y 1965, de fecha 3 de marzo de 2011, del Concejo Municipal, que aprueba modificaciones a la Ordenanza de la comuna de La Reina sobre derechos, concesiones, permisos y servicios; el memorándum Nº 139, de fecha 8 de marzo de 2011, de la Dirección de Tránsito y Transporte Público; el memorándum Nº 263, de fecha 8 de marzo de 2011, de la Dirección de Administración y Finanzas; el decreto alcaldicio Nº 1858, de fecha 8 de noviembre de 2010, que Fija Texto refundido de la ordenanza mencionada, decreto alcaldicio Nº 1.784, de fecha 26 de octubre de 2010, que aprueba modificaciones a la ordenanza antes mencionada; y en uso de las atribuciones que me confieren los artículos 20 y 63 de la ley Nº 18.695, Ley Orgánica Constitucional de Municipalidades,
 
 Decreto:
 
-1. Modifícase la Ordenanza de la comuna de La Reina sobre derechos, concesiones, permisos y servicios, cuya última modificación fue aprobada por decreto alcaldicio Nº 1.784, de fecha 26 de octubre de 2010 y se fija el texto refundido por decreto alcaldicio Nº 1.858, de fecha 8 de noviembre de 2010, en la forma que sigue:
+1.- Rectifícase la Ordenanza de la comuna de La Reina sobre derechos, concesiones, permisos y servicios, cuya última modificación fue aprobada por decreto alcaldicio Nº 1.784, de fecha 26 de octubre de 2010 y se fija el texto refundido por decreto alcaldicio Nº 1.858, de fecha 8 de noviembre de 2010, en la forma que sigue:
 
 ## Título IV
 
