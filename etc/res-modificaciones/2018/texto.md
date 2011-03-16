@@ -1,0 +1,11 @@
+MODIFICA CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 2.018, de fecha 6 de diciembre de 2010, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Modifícase la resolución 1.316, de fecha 22 de junio de 2004, que otorgó concesión de acuicultura, transferida a su actual titular por resolución 1.029, de fecha 29 de septiembre de 2006, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, a Pesquera El Golfo S.A., sociedad chilena, RUT 96.653.590-3, con domicilio en Avenida Juan Soler Manfredini 41, oficina 1102, Puerto Montt.
+
+2.- Reemplázase en la resolución 1.316, de fecha 22 de junio de 2004, el párrafo 4 del resuelvo y en la resolución 1.029, de fecha 29 de septiembre 2006, el párrafo 3 del resuelvo, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina, por el siguiente:
+
+"El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 665, de fecha 27 de febrero de 2004, modificada por resolución exenta 1.390, de fecha 19 de mayo de 2004, ambas del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, y modificada por resolución exenta 1.360, de fecha 16 de abril de 2010, del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca".
+
+Santiago, 22 de febrero de 2011.- Alfonso Vargas Lyng, Subsecretario para las Fuerzas Armadas.
