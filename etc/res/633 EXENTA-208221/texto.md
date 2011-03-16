@@ -514,13 +514,13 @@ Lonicera caerulea
 
 (Madreselva azul) Sin declaración adicional
 
-Prunus davidiana
+Prunus davidiana Peach X disease phytoplasma
 
-(Chinese wild peach) Peach rosette phytoplasma
+(Chinese wild peach). Peach yellows phytoplasma
 
-Peach X disease
+Plum pox virus (PPV)
 
-phytoplasma
+Xylella fastidiosa
 
 Peach yellows phytoplasma
 
