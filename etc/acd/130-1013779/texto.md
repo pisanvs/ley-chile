@@ -124,7 +124,7 @@ Corresponderá a cada Intermediario velar porque las operaciones sean destinadas
 
 Las instituciones financieras, en caso de operaciones otorgadas a beneficiarios finales con ventas anuales mayores a UF 50.000 y hasta UF 100.000, excluido el IVA, deberán verificar la capacidad de estos beneficiarios para constituir garantías adicionales, hipotecas o prenda general; hipoteca o prenda específica, fianza general; fianza específica; aval, u otros mitigadores de riesgo; en cuyo caso, deberán requerir la constitución de tales garantías o mitigadores.
 
-Con todo, un intermediario podrá acoger a la presente cobertura, refinanciamientos, reprogramaciones y/o consolidaciones de créditos de enlace propios que no califiquen en el perfil anteriormente establecido sobre plazos mínimos, garantías u homogeneidad de monto de cuotas; siempre que dichos créditos hayan sido otorgados para los fines descritos en el párrafo primero del presente numeral, cumplan con las demás condiciones establecidas en el presente reglamento, y que no presenten mora o retardo en el pago al momento de su reprogramación o consolidación.
+Con todo, un intermediario podrá acoger a la presente cobertura, refinanciamientos, reprogramaciones y/o consolidaciones de créditos de enlace propios que no califiquen en el perfil anteriormente establecido sobre plazos mínimos, garantías u homogeneidad de monto de cuotas; siempre que dichos refinanciamientos, reprogramaciones y/o consolidaciones de créditos de enlace hayan sido otorgados para los fines descritos en el párrafo primero del presente numeral, y que no presenten mora o retardo en el pago al momento de solicitarle al Intermediario su refinanciamiento, reprogramación o consolidación.
 
 En los casos indicados en el párrafo anterior, los refinanciamientos, reprogramaciones y/o consolidaciones podrán representar más del 49,9% del monto total del crédito y deberán cumplir con el perfil de plazos mínimos, garantías u homogeneidad de monto de cuotas así como con el resto de las condiciones establecidas en el presente reglamento.
 
@@ -242,21 +242,21 @@ El Intermediario deberá acompañar en su solicitud a la Gerencia de Intermediac
 
 . Declaración de cumplimiento de la condición de elegibilidad establecida en el primer párrafo del numeral 4° anterior, a saber que él o todos los Créditos a reprogramar se encontraban al día o que tenían una mora igual o inferior a 60 días al 27 de febrero de 2010.
 
-La Gerencia dentro de los 5 días corridos siguientes a la solicitud del Intermediario, podrá solicitar cualquier antecedente adicional que conforme a disposiciones legales, reglamentarias o administrativas, se pueda ver obligada a requerir para resolver la formalización de una Cobertura. Una vez notificado de dicho requerimiento, el Intermediario contará con 30 días corridos para complementar su solicitud de cobertura, la cual deberá ser rechazada por la Gerencia de no efectuarse dicha complementación dentro del plazo indicado.
+Hasta los 60 días corridos siguientes a su solicitud, el Intermediario deberá enterar el monto correspondiente al pago de la comisión a que se refiere el numeral 8°, por el derecho de recibir la Cobertura, que será determinada por el Comité Ejecutivo de Créditos de la Corporación, en adelante también el "CEC".
 
-A partir de los antecedentes recibidos, por Resolución del Gerente se resolverá la solicitud de Cobertura, entendiéndose cubierto el riesgo de aquellas operaciones que reúnan los requisitos para acceder a la Cobertura, desde la fecha de ingreso en la Oficina de Partes de CORFO de la solicitud respectiva, sujeto a la condición resolutoria del pago oportuno de la comisión a que se hace alusión en el numeral 8° siguiente.
+Dentro de los 20 días corridos siguientes al pago de dicha comisión, por resolución del Gerente se resolverá la solicitud de Cobertura, entendiéndose cubierto el riesgo de aquellas operaciones que reúnan los requisitos para acceder a la Cobertura, desde la fecha de ingreso en la Oficina de Partes de CORFO de la solicitud respectiva, ya sea en formato papel o electrónico.
 
-Dentro del plazo máximo de 5 días corridos contado desde la fecha de emisión de la resolución del Gerente, la Gerencia comunicará al Intermediario tanto la aprobación de las Coberturas, correspondientes a las operaciones que hubieran cumplido con las condiciones establecidas en el presente Reglamento, como la devolución de aquellas operaciones que no hubiesen cumplido con dichas condiciones.
+La Gerencia comunicará al Intermediario tanto la aprobación de las Coberturas, correspondientes a las operaciones que hubieran cumplido con las condiciones establecidas en el presente Reglamento, como la devolución de aquellas operaciones que no hubiesen cumplido con dichas condiciones.
 
-Sin perjuicio de lo dispuesto en el primer párrafo del N° 8, la aprobación del Gerente quedará sin efecto si el Intermediario no cursare la operación con su cliente dentro de los 60 días corridos, contados desde la notificación de la aprobación de las Coberturas. Asimismo, la aprobación y vigencia de la Cobertura está condicionada al pago de la comisión a que se refiere dicho número 8 de este Reglamento.
+La aprobación del Gerente quedará sin efecto si el Intermediario no cursare la operación con su cliente hasta los 30 días corridos, contados desde la notificación de la aprobación de las Coberturas.
 
-El Intermediario podrá reprogramar las operaciones acogidas a la Cobertura para lo cual sólo deberá informar al Gerente de dicha nueva reprogramación dentro de los 30 días corridos siguientes a su formalización para efectos de mantener vigente la Cobertura. La cobertura se mantendrá vigente en estos casos, siempre que ésta no involucre una novación por cambio de deudor, que la Cobertura se mantenga por la tasa porcentual respectiva aplicada sobre el mismo capital inicial de la operación, que la nueva operación sea homogénea en términos del monto de las cuotas durante el período de amortización (vale decir cuotas iguales de capital más intereses), y que se cumplan las demás condiciones del presente Reglamento.
+El Intermediario podrá reprogramar las operaciones acogidas a la Cobertura para lo cual sólo deberá informar al Gerente de dicha reprogramación, junto con el saldo vigente de la operación, dentro de los 30 días corridos siguientes a su formalización para efectos de mantener vigente la Cobertura. El Gerente, mediante resolución, aprobará dicha reprogramación siempre que la operación cumpla con las demás condiciones del presente Reglamento, en cuyo caso, la Cobertura se mantendrá por la tasa porcentual respectiva aplicada sobre el mismo capital inicial de la operación.
 
 El Intermediario que lo desee, una vez cursada la operación, podrá presentar a la Gerencia, cada uno de los antecedentes señalados en los literales a), b),
 
 - **c)** y
 
-- **d)** del numeral 9.1. de manera anticipada a la fecha de la mora. Si así ocurriere, el Gerente emitirá un certificado de cobertura, refrendado por el Fiscal de la Corporación, donde constará que la operación elegible ha cumplido plenamente con los requisitos enunciados únicamente en dichos literales, ya que para efectos de solicitar el pago de la cobertura deberán siempre presentarse los antecedentes señalados en los literales
+- **d)** del numeral 9.1. de manera anticipada a la fecha de la mora. Si así ocurriere y la documentación presentada estuviese conforme, el Gerente emitirá un "Certificado de Elegibilidad", donde constará que la operación ha cumplido plenamente con los requisitos enunciados únicamente en dichos literales, ya que para efectos de solicitar el pago de la cobertura deberán siempre presentarse los antecedentes señalados en los literales
 
 - **e)** y
 
@@ -264,23 +264,31 @@ El Intermediario que lo desee, una vez cursada la operación, podrá presentar a
 
 ### 8. Comisión
 
-Durante el plazo de 60 días corridos contado desde el despacho de la notificación de la resolución a que se refiere el párrafo quinto del numeral 7° anterior, el Intermediario deberá enterar el monto correspondiente al pago de la comisión por el derecho de recibir la Cobertura. El no pago de la comisión en el plazo señalado significará la resolución definitiva de la misma. Efectuado el pago de la comisión, se entenderá que la Cobertura se encuentra aprobada por el plazo pagado. Dicho plazo será por el total de la operación, descontado el período de gracia mínimo de 12 meses, en caso que corresponda. Comisión que no aplicará, en todo caso, después del 120° mes, contado desde el día de curse de la operación de financiamiento.
+La comisión aplicable a las operaciones por el derecho de recibir la Cobertura, será determinada por el CEC y corresponderá a un porcentaje aplicado sobre el monto de la Cobertura aprobado. Dicha comisión permanecerá vigente por todo el periodo de la operación y no será reembolsada en caso de siniestro de la operación, por renuncia a la Cobertura o por la aplicación de las causales de no pago señaladas en el numeral 11 siguiente. Sin embargo, en los casos de prepago, reverso, resciliación, o mejora de la operación en las condiciones pactadas en el origen entre el intermediario y su cliente, por resolución del Gerente se reembolsará al intermediario la comisión en la parte no utilizada, para efectos de que éste la devuelva al beneficiario final.
 
-La comisión aplicable a las operaciones será determinada por el Comité Ejecutivo de Créditos de CORFO, en adelante también "el Comité" o "CEC" y corresponderá a un porcentaje anual aplicado sobre el monto de la Cobertura. Dicha comisión permanecerá vigente por todo el periodo de la operación y no será reembolsada en caso de mora del crédito de financiamiento, por renuncia a la Cobertura o por la aplicación de las causales de no pago señaladas en el numeral 11 siguiente. Sin embargo, en los casos de prepago, reverso, resciliación, o mejora de la operación en las condiciones pactadas en el origen entre el intermediario y su cliente, se reembolsará al intermediario la comisión en la parte no utilizada, para efectos de que éste la devuelva al beneficiario final.
+Efectuado el pago de la comisión, se entenderá que la Cobertura se encuentra aprobada por el plazo pagado. Dicho plazo será por el plazo total de la operación, descontado el período de gracia mínimo de 12 meses, en caso que corresponda. Comisión que no aplicará, en todo caso, después del 120° mes, contado desde el día de curse de la operación de financiamiento. La vigencia de la Cobertura se contará desde la fecha de ingreso en la Oficina de Partes de CORFO indicada en el párrafo cuarto del numeral 7°.
 
-El porcentaje de comisión a pagar por cada Intermediario para las nuevas operaciones, se determinará en función de un polinomio que considerará, entre otros, los niveles de morosidad y de siniestralidad de la cartera de cada uno de ellos. Respecto de dicho porcentaje, corresponderá al CEC aprobar su cuantía o valor, el plazo durante el cual regirá y/o las operaciones que quedarán acogidas a tal porcentaje.
-
-En la eventualidad de que los niveles de morosidad o siniestralidad de la cartera de algún Intermediario superen los límites definidos al efecto por el CEC, CORFO se reserva el derecho a suspender temporal o definitivamente el ingreso de nuevas operaciones del Intermediario a la Cobertura.
+El cobro de la comisión a que se refiere este numeral, deberá ser informado expresamente por el Intermediario a los beneficiarios finales de la Cobertura.
 
 9. Procedimiento de pago de la Cobertura y Recuperaciones posteriores al pago de la Cobertura
 
 9.1. Procedimiento de pago de la Cobertura
 
-En caso de mora del beneficiario final, para hacer efectivo el desembolso de la Cobertura, el Intermediario deberá presentar a CORFO, hasta el plazo de 12 meses contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback (o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del numeral 4°), y una vez que haya iniciado las correspondientes acciones de cobro, un requerimiento fundamentado y escrito, acompañando una "Declaración Jurada Simple" del Gerente General del Intermediario o de quien esté autorizado para actuar frente a CORFO para este efecto, con los siguientes antecedentes :
+En caso de mora del beneficiario final, para hacer efectivo el desembolso de la Cobertura, el Intermediario deberá presentar a CORFO, dentro del plazo fatal de 425 días corridos contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback, o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del número 4°, y una vez que haya iniciado las correspondientes acciones de cobro, un requerimiento fundamentado y escrito, acompañando una "Declaración Jurada Simple" del Gerente General del Intermediario o de quien esté autorizado para actuar frente a CORFO para este efecto, con los siguientes antecedentes:
 
-a) Fotocopia de los títulos ejecutivos incluidas
+a) Fotocopia del título ejecutivo en el cual se
 
-todas sus modificaciones.
+fundan las acciones judiciales de cobranza
+
+respectivas, incluidas sus modificaciones. Sin
+
+embargo, para el caso de las operaciones de
+
+leasing financiero o leaseback, se deberá
+
+acompañar fotocopia de la protocolización del
+
+contrato respectivo.
 
 b) Copia de los informes de las tasaciones a valores
 
@@ -422,7 +430,7 @@ La Cobertura se libera al momento del pago del capital del crédito o mediante e
 
 ### 11. Causales de no pago de la Cobertura
 
-No procederá el pago de la Cobertura cuando dentro del plazo de 12 meses contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback (o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del numeral 4°)
+No procederá el pago de la Cobertura cuando dentro del plazo de 425 días corridos contado desde la fecha de mora de la respectiva operación de crédito de dinero o desde la mora en el pago de la renta para el caso de leasing financiero y leaseback, o contado desde la mora en que se incurra primero, en el caso que opere lo indicado en el tercer párrafo del numeral 4°:
 
 a) El Intermediario no haya notificado judicialmente la demanda al deudor principal y en su caso a alguno de sus avalistas, fiadores o codeudores solidarios o a los representantes legales de todos éstos, o no haya solicitado la Quiebra o verificado el o los créditos;
 
@@ -470,7 +478,7 @@ Sin perjuicio de las facultades que posee al respecto la Contraloría General de
 
 ### 14. Vigencia del Programa
 
-El presente Programa se mantendrá vigente hasta el día 31 de diciembre de 2010, sin perjuicio de que el Consejo decidiere prorrogar su extensión, mediante Acuerdo fun-dado.
+El presente Programa o Instrumento se mantendrá vigente hasta el día 31 de diciembre de 2011.
 
 3° Este Reglamento comenzará a regir a partir de su publicación en el Diario Oficial.
 
