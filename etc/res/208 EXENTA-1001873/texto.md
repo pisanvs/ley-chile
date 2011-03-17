@@ -42,6 +42,8 @@ Resuelvo:
 
 2º Las resoluciones exentas emitidas en atención a la presente delegación deberán ser suscritas bajo la fórmula "por orden de la Secretaría Ministerial de Educación".
 
+2º Bis. Deléguese en los Jefes Provinciales de Inspección de los Departamentos Provinciales de Educación de Cachapoal, Colchagua y Cardenal Caro, las facultades de instruir, sustanciar y resolver procesos administrativos en primera instancia y aplicar sanciones a los establecimientos educacionales que infrinjan el DFL Nº 2, de Educación, de 1998, y sus modificaciones, y al decreto supremo de Educación Nº 8.144, de 1980, y sus modificaciones, respecto de aquellos códigos que den origen a la aceleración en la tramitación del proceso administrativo, definidos a través de un instructivo del Subsecretario de Educación, de acuerdo a lo dispuesto en la resolución exenta Nº 3.569 del Ministerio de Educación, que fija los Códigos de Observación del Sistema de Inspección del Ministerio de Educación.
+
 3º Déjese sin efecto toda otra delegación anterior respecto de las funciones señaladas precedentemente.
 
 4º Téngase presente para todos los efectos legales.
