@@ -72,7 +72,7 @@ De los deberes disciplinarios
 
 #### Artículo 9º
 
-Conocer y resolver las faltas que cometan los subalternos es un deber funcional y propio de la misión o puesto que desempeñan los Oficiales de Orden y Seguridad de Carabineros.
+Conocer y resolver las faltas que cometan los subalternos es un deber funcional y propio de la misión o puesto que desempeñan los Oficiales de Orden y Seguridad de Carabineros, y de los Suboficiales Mayores y Suboficiales, de Orden y Seguridad, en cuanto estos últimos se desempeñen como Jefe de Destacamento.
 
 Esta atribución es inherente al cargo que se haya conferido. En ausencia del titular, pasará al que reglamentariamente lo reemplace, pero, si éste no fuere Oficial, la asumirá el superior jerárquico de aquél, que tenga tal rango.
 
@@ -90,7 +90,7 @@ omisión no invalidará la resolución, sin perjuicio de las sanciones a que se 
 
 #### Artículo 11º
 
-Los Oficiales con facultades disciplinarias deben proceder con rectitud, moderación y elevado espíritu de justicia, considerando principalmente la verdadera responsabilidad del inculpado, en relación con la naturaleza o importancia de la falta.
+Los Oficiales, Suboficiales Mayores y Suboficiales con facultades disciplinarias deben proceder con rectitud, moderación y elevado espíritu de justicia, considerando principalmente la verdadera responsabilidad del inculpado, en relación con la naturaleza o importancia de la falta.
 
 Deben guardar, además, la reserva y discreción necesarias para evitar que se resienta el ascendiente moral o prestigio profesional del afectado.
 
@@ -490,11 +490,33 @@ DE LA COMPETENCIA DISCIPLINARIA
 
 #### Artículo 35
 
-o- Tendrán atribuciones para imponer sanciones disciplinarias al personal de su dependencia, en los diferentes grados, los Oficiales de Orden y Seguridad que desempeñen los siguientes cargos:
+o- Tendrán atribuciones para imponer sanciones disciplinarias al personal de su dependencia, en los diferentes grados, los Oficiales, Suboficiales Mayores y Suboficiales de Orden y Seguridad que desempeñen los siguientes cargos:
 
-1º) De primer grado. Correspondiente a los Jefes de
+1º) De Primer grado A: Correspondiente a los
 
-Tenencias, quienes podrán aplicar las sanciones que se
+Suboficiales Mayores y Suboficiales Jefes de
+
+Retenes y Avanzadas, quienes podrán aplicar
+
+sanciones que se indican:
+
+a) A Suboficiales y Sargentos Primeros: Amonestación y
+
+Reprensión;
+
+b) A Sargentos Segundos, Cabos Primeros, Cabos Segundos
+
+y Carabineros: Amonestación, Reprensión y Arresto hasta
+
+de dos (2) días;
+
+c) A Empleados Civiles de Nombramiento Institucional:
+
+Amonestación, Reprensión y Arresto hasta de dos (2) días
+
+1º BIS) De primer grado B. Correspondiente a los Jefes
+
+de Tenencias, quienes podrán aplicar las sanciones que se
 
 indican:
 
@@ -508,9 +530,9 @@ b) A Suboficiales Mayores, Suboficiales y Sargentos
 
 c) A Sargentos 2ºs., Cabos 1ºs., Cabos 2ºs. y
 
-Carabineros: amonestación, reprensión y arresto hasta de
+Carabineros: amonestación, reprensión y arresto hasta
 
-cuatro (4) días;
+de cuatro (4) días;
 
 d) A Empleados Civiles de Nombramiento Supremo:
 
@@ -519,6 +541,14 @@ Amonestación;
 e) A Empleados Civiles a Contrata: amonestación,
 
 reprensión y arresto hasta de cuatro (4) días.
+
+Tratándose de Suboficiales Mayores o Suboficiales
+
+que se desempeñen como Jefes de Tenencias, sólo tendrán
+
+competencia disciplinaria respecto del personal aludido
+
+en las letras b), c) y e) precedentes.
 
 2º) De segundo grado ''A''.- Correspondiente a los
 
@@ -794,7 +824,7 @@ Mayores Segundo Grado B
 
 Capitanes Segundo Grado A
 
-Tenientes y Subtenientes primer grado
+Tenientes y Subtenientes primer grado B
 
 Los Oficiales de Intendencia que se desempeñen como Jefes de Direcciones, Subdirecciones, Servicios, Departamentos, Secciones o Subsecciones en la Dirección General, como también aquellos que se desempeñen como Jefes de Contralorías Zonales o Administraciones de Caja de Prefecturas u otras Reparticiones, tendrán las atribuciones disciplinarias señaladas en el inciso precedente, de acuerdo a su grado jerárquico, sobre el personal que les esté directamente subordinado, con excepción de los Oficiales de Orden y Seguridad.
 
@@ -810,7 +840,7 @@ Mayores Segundo Grado B
 
 Capitanes Segundo Grado A
 
-Tenientes y Subtenientes primer grado
+Tenientes y Subtenientes primer grado B
 
 #### Artículo 38
 
@@ -826,7 +856,7 @@ Mayores Segundo Grado B
 
 Capitanes Segundo Grado A
 
-Tenientes y Subtenientes primer grado
+Tenientes y Subtenientes primer grado B
 
 Estas atribuciones son inherentes al grado y se ejercitarán cuando sean mayores que las correspondientes a la función que se desempeña.
 
