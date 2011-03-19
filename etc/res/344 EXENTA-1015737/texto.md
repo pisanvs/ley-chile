@@ -14,7 +14,7 @@ Resuelvo:
 
 1. Nómbrase, a contar de la fecha de esta resolución, como integrantes del Panel de Expertos, a los siguientes profesionales:
 
-1) Don Guillermo Espinoza Inhen, cédula nacional de identidad número 4.606.916-1, ingeniero civil, por un período de 6 años;
+1) Don Guillermo Espinosa Ihnen, cédula nacional de identidad número 4.606.916-1, ingeniero civil, por un período de 6 años;
 
 2) Don Germán Henríquez Véliz, cédula nacional de identidad número 5.313.367-3, ingeniero civil, por un período de 6 años;
 
