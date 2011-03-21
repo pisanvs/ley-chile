@@ -34,7 +34,7 @@ d) Disponer los ascensos del personal que procedan conforme al escalafón de mé
 
 e) Conceder el derecho de los empleados del Servicio a hacer uso de su feriado legal (Artículo 89 D.F.L. número 338, de 1960);
 
-f) Reconocer el derecho de los funcionarios a percibir asignación profesional (D.L. Nº 479, de 1974, y número 2.197, de 1978);
+f) DEROGADO.
 
 g) Conceder las asignaciones familiares a que tengan derecho los funcionarios (Artículo 67 D.F.L. Nº 338, de 1960, y D.L. número 307, de 1974);
 
