@@ -1,0 +1,5 @@
+ENMIENDA EXTRACTO EN PUBLICACIONES QUE INDICA
+
+Enmiéndese extractos correspondientes a las resoluciones exentas dictadas por el Servicio de Vivienda y Urbanización Región del Libertador General Bernardo O'Higgins Nº: 3.254, 3.253, 3.252, 3.251, 3.250, 3.249, 3.248, 3.247, 3.246, 3.245, 3.244, 3.243, 3.242, 3.241, 3.240, 3.239, 3.238, 3.237, 3.236, 3.235, 3.234 todas de fecha 31.12.2010, que ordenan la expropiación del Conjunto Habitacional Villa Cordillera y Villa Los Parques, ambos de la ciudad de Rancagua, publicados con fecha 15 de febrero y 15 de marzo de 2011 en el Diario Oficial y Diario El Rancagüino, sólo en cuanto a la individualización de la Comisión Tasadora de integrada por los peritos, en donde dice " ... Comisión Tasadora integrada por los peritos don Jorge Rosales, Carlos Henríquez y Manuel San Martín", debiendo decir: "Comisión Tasadora integrada por los peritos don Hugo Leal P., Jorge Godoy R. y Edmundo Gómez L., Constructor Civil, Arquitecto y Constructor Civil, respectivamente".
+
+Lo que se ordena publicar por encargo del Señor Director de este Servicio de Vivienda y Urbanización Región del Libertador General Bernardo O'Higgins.
