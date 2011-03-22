@@ -24,10 +24,6 @@ A los proyectos pre-seleccionados señalados en la tabla anterior, no se les oto
 
 > **Nota.** El Nº 2 letra b) de la Resolución 1649 Exenta, Vivienda, publicada el 22.03.2011, modifica el resuelvo Nº 4 de la presente norma, en el sentido de reemplazar las filas correspondientes a la Región de Magallanes y Antártica Chilena y al Total País, por las que la citada norma indica.
 
-> **Nota.** NOTA 1 El Nº 2 letra a) de la Resolución 3730 Exenta, Vivienda, publicada el 02.07.2011, modifica la presente norma en el sentido de reemplazar el cuadro inserto en el resuelvo 2º, las filas correspondientes a los proyectos Antofagasta I e Iquique I.
-
-> **Nota.** NOTA 2 El Nº 2 letra b) de la Resolución 3730 Exenta, Vivienda, publicada el 02.07.2011, modifica la presente norma en el sentido de reemplazar el cuadro inserto en el resuelvo 4º las filas correspondientes a la Región Metropolitana y TOTAL PAÍS
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
