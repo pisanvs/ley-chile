@@ -222,4 +222,10 @@ A partir del año 2011, la Municipalidad fijará la tarifa por el período de tr
 
 La presente Ordenanza se publicará en el Diario Oficial y en la página Web del Municipio.
 
+## Artículos transitorios
+
+1. Excepcionalmente, durante el año 2011, la tarifa anual por extracción de basura podrá pagarse en cuatro cuotas, con vencimiento los días 31 de julio, 31 de agosto, 31 de octubre y 30 de noviembre.
+
+2. Fíjase, como fecha límite para solicitar exenciones totales o parciales por todo el año 2011, el día 15 de mayo del mismo año.
+
 Anótese, comuníquese, publíquese y hecho, archívese.- Claudina Núñez Jiménez, Alcaldesa.- Mauricio Lineros Navarrete, Secretario Municipal.
