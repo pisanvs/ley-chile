@@ -104,7 +104,7 @@ c) Haber retenido estos alumnos en el sistema hasta la aprobación de su curso p
 
 d) Contemplar en la Ficha Escolar correspondiente, cuyo formato deberá aprobarse por Resolución Ministerial, un acápite en el que se indique además del nombre del alumno, su rol único nacional, la fecha de la matrícula, curso y asistencia diaria y la circunstancia de ser causante de esta subvención; y
 
-e) Presentar una solicitud ante el Secretario Regional Ministerial de Educación competente, acompañado de todos los antecedentes de que tratan los artículos siguientes.
+e) Presentar una solicitud ante el Subsecretario de Educación, acompañada de todos los antecedentes de que tratan los artículos siguientes, en la forma que se indica en el artículo 12 de este reglamento.
 
 Estos documentos deberán mantenerse en el respectivo establecimiento educacional durante el plazo de tres años a disposición de los funcionarios encargados de la inspección y podrán ser retirados por éstos del establecimiento para su estudio cuando se estime conveniente.
 
@@ -124,7 +124,7 @@ Los alumnos que se encuentren en alguna de las situaciones descritas anteriormen
 
 #### Artículo 9º
 
-No obstante lo señalado en el artículo anterior, en aquellos casos en que un alumno no se matricule al año siguiente en el mismo o en otro establecimiento educacional por razones especiales de fuerza mayor, tales como cumplimiento del servicio militar, enfermedad grave propia o muerte, las que serán calificadas por el respectivo Secretario Regional Ministerial de Educación, se podrá pagar la subvención anual educacional pro-retención al sostenedor o administrador del establecimiento educacional donde cursó estudios en el año anterior, siempre que se cumplan los demás requisitos legales y reglamentarios.
+No obstante lo señalado en el artículo anterior, en aquellos casos en que un alumno no se matricule al año siguiente en el mismo o en otro establecimiento educacional por razones especiales de fuerza mayor, tales como cumplimiento del servicio militar, enfermedad grave propia o muerte, las que serán calificadas por el Subsecretario de Educación, previo informe del Secretario Regional Ministerial respectivo, quien remitirá los antecedentes que correspondan, se podrá pagar la subvención anual educacional pro-retención al sostenedor o administrador del establecimiento educacional donde cursó estudios en el año anterior, siempre que se cumplan los demás requisitos legales y reglamentarios.
 
 #### Artículo 10
 
@@ -148,7 +148,7 @@ Educacional Pro-retención
 
 El Ministerio de Educación pagará la subvención anual educacional pro-retención a los sostenedores municipales y particulares, adicionalmente a la subvención educacional mensual que se paga por la asistencia a clases de los mismos alumnos causantes de esta subvención.
 
-Para estos efectos, los sostenedores deberán presentar la solicitud a que se refiere la letra e) del artículo 7º anterior con todos sus antecedentes completos ante el Secretario Regional Ministerial de Educación del domicilio del establecimiento educacional que atiende los alumnos causantes de esta subvención, a más tardar el día 15 del mes de marzo, o el siguiente hábil si éste fuere inhábil, del año escolar siguiente a aquel en que dichos alumnos asistieron regularmente a clases, acompañando los siguientes documentos:
+Para estos efectos, los sostenedores deberán presentar la solicitud a que se refiere la letra e) del artículo 7º anterior con todos sus antecedentes completos ante el Subsecretario de Educación, a más tardar el día 31 del mes de marzo, o el siguiente hábil si éste fuere inhábil, del año escolar siguiente a aquel en que dichos alumnos asistieron regularmente a clases, acompañando los siguientes documentos:
 
 a) Nómina de alumnos de los cursos entre 7º año de enseñanza básica y 4º año de enseñanza media de aquellos a que se refiere el artículo 8º anterior;
 
@@ -162,9 +162,11 @@ e) Copia simple de la Ficha Escolar de cada uno de los alumnos; y
 
 f) Certificado del oficial a cargo de la Unidad donde realiza su Servicio Militar, o certificado del médico tratante que acredite la existencia de la enfermedad que le impidió asistir al establecimiento educacional, o certificado de defunción, o el que corresponda si fuere otra causal homologable, en los casos del artículo 9º.
 
+La solicitud a que se refiere la letra e) del artículo 7º anterior, deberá ser presentada a través de los formularios electrónicos que establezca para estos efectos el Ministerio de Educación. Sólo en casos excepcionales, debidamente calificados por el Secretario Regional Ministerial de Educación correspondiente, podrá presentarse la solicitud y sus documentos ante este último, quien los remitirá a la Subsecretaría de Educación.
+
 #### Artículo 13
 
-Las Secretarías Regionales Ministeriales de Educación respectivas deberán verificar que la documentación señalada en el artículo anterior se ncuentra completa, que ha sido otorgada por quien corresponda y que se recibió dentro de plazo y ordenarán el pago de la subvención anual educacional pro-retención a los respectivos sostenedores mediante resolución.
+La Subsecretaría de Educación deberá verificar que la documentación señalada en el artículo anterior se encuentra completa, que ha sido otorgada por quien corresponda y que se recibió dentro de plazo y ordenará el pago de la subvención anual educacional pro-retención a los respectivos sostenedores mediante resolución.
 
 No podrá procederse al pago de la subvención anual educacional pro-retención, cuando falte alguna documentación o exista error en cuanto al obligado a otorgarla o en cuanto al causante de dicha subvención o si la solicitud se presentó fuera de plazo. En especial, la falsedad de los datos consignados constituye infracción grave de aquellas contempladas en el artículo 50 del DFL Nº 2, de 1998 de Educación.
 
