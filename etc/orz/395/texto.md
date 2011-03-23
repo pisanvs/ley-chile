@@ -528,6 +528,18 @@ a. Para la obtención de este tipo de patente se debe cumplir con todos y cada u
 
 b. El local deberá contar con el informe favorable del Sernatur.
 
+Los establecimientos de esta categoría sólo podrán establecerse en las zonas del Paseo Baquedano, en el Borde Costero (con excepción de la Península de Cavancha en donde se autorizarán Restaurantes Diurnos o Nocturnos), en el sector de Bajo Molle. No se concederá esta categoría de patente en conjuntos habitacionales, como tampoco en conventillos, cités, y demás edificios análogos de habitantes.
+
+LIMITE BORDE COSTERO:
+
+Norte: El límite estará definido por la intersección de calle Patricio Lynch.
+
+Sur: El límite estará definido por la intersección de Avenida Ramón Pérez Opazo (ex - Avda. Chipana).
+
+Este: El límite estará definido por el contra frente de los sitios que enfrentan la línea oficial de Patricio Lynch, Esmeralda, Luis Uribe, Baquedano, Avda. Arturo Prat Chacón, José Miguel Carrera, Juan Martínez, Avenida Arturo Prat y Avda. Ramón Pérez Opazo.
+
+Oeste: El límite estará definido por la línea de más alta marea.
+
 #### Artículo 37º
 
 No se podrá otorgar patentes provisorias, de negocios dedicados al expendio de bebidas alcohólicas, ya sea para el consumo dentro o fuera del establecimiento.
