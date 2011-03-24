@@ -566,59 +566,7 @@ Sin perjuicio de la aplicación de las demás
 
 disposiciones contenidas en los numerales 1 al 8 del presente Reglamento en lo que fuera pertinente, las siguientes normas especiales de composición adicional de los Consejos Estratégicos y de los Subcomités serán aplicados a los señalados órganos colegiados de los Comités que indica:
 
-a) El Consejo Estratégico del Comité Agencia Regional de Desarrollo Productivo de la Región de Coquimbo, estará compuesto por los siguientes integrantes:
-
-a.1. El respectivo Intendente Regional.
-
-a.2. El Secretario Regional Ministerial de
-
-Economía.
-
-a.3. Un directivo de la Corporación designado por
-
-su Vicepresidente Ejecutivo.
-
-a.4. Nueve representantes del sector privado,
-
-designados por el Intendente de la Región,
-
-previa consulta con el Vicepresidente
-
-Ejecutivo de la Corporación.
-
-a.5 Dos representantes del sector público en la
-
-Región, designados por el Intendente de la
-
-Región respectiva.
-
-a.6. Un representante del Servicio de Cooperación
-
-Técnica, Sercotec, designado por su Gerente
-
-General.
-
-a.7. El Secretario Regional Ministerial de
-
-Agricultura.
-
-a.8. El Secretario Regional Ministerial de
-
-Minería.
-
-a.9. El Secretario Regional Ministerial de
-
-Planificación y Coordinación.
-
-a.10 El Director Regional del Instituto de
-
-Desarrollo Agropecuario (Indap).
-
-En caso de ausencia o impedimento de las autoridades a que se refieren la letra a.1, a.2, a.7, a.8, a.9 y a.10 precedentes, éstas serán reemplazadas por quienes los subroguen y tratándose de las autoridades o personas a que se refieren las letras a.3, a.4, a.5 y a.6 precedentes, serán reemplazadas por quienes sean designadas, en calidad de suplentes, por la misma autoridad y con arreglo al mismo procedimiento indicado en cada una de esas subletras.
-
-Corresponderá al Intendente de la Región seleccionar, entre los 9 representantes del sector privado que componen el Consejo Estratégico, a las 3 personas que integrarán el respectivo Subcomité Regional de Innovación.
-
-El quórum para sesionar del respectivo Consejo Estratégico será de a lo menos 10 miembros.
+a) ELIMINADO
 
 b) El Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de Los Ríos" estará compuesto por 5 representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación. Por su parte, el Consejo Estratégico del Comité "Agencia Regional de Desarrollo Productivo de la Región de Arica y Parinacota" estará compuesto por 8 representantes del sector privado, designados por el Intendente, previa consulta con el Vicepresidente Ejecutivo de la Corporación.
 
@@ -657,6 +605,8 @@ transitorias o provisionales:
 3. Las Agencias Regionales de Desarrollo Productivo creadas por el presente Acuerdo comenzarán a funcionar con arreglo a lo dispuesto en el Acuerdo Nº 2.392 de 2006 y sus modificaciones posteriores, una vez que se constituya formalmente el Consejo Estratégico de la respectiva Agencia Regional de Desarrollo Productivo, lo cual acontecerá en la oportunidad o fecha que indique el Vicepresidente Ejecutivo de la Corporación en la resolución que lleve a efecto el presente Acuerdo o en una resolución distinta y posterior.
 
 4. Las Agencias Regionales de Desarrollo Productivo de Los Lagos y de Tarapacá, a contar del 2 y 8 de octubre de 2007, respectivamente, ejercerán sus funciones exclusivamente en el territorio de las Regiones de Los Lagos y de Tarapacá, de conformidad con lo expuesto en las leyes Nº 20.174 y Nº 20.175, respectivamente.
+
+> **Nota.** El numeral 2° de la Resolución 5, de la Corporación de Fomento de la Producción, publicada en el Diario Oficial, con fecha 24 de marzo de 2011, modifica la presente norma, en el sentido de fijar la nueva composición del Consejo Estratégico de la Agencia Regional de Desarrollo Productivo de la Región de Coquimbo, de la manera que en ella se indica, y a su vez, el numeral 3°señala que el quórum para que el Consejo Estratégico de la Agencia Regional de Desarrollo Productivo de la Región de Coquimbo sesione válidamente será de, a lo menos, cinco consejeros; y el quórum para que adopte acuerdos será por simple mayoría de los presentes.
 
 Anótese, tómese razón por la Contraloría General de la República, publíquese en el Diario Oficial y transcríbase.- Carlos Alvarez Voullième, Vicepresidente Ejecutivo.- Jaime Arellano Quintana, Fiscal.- Yerko Koscina Peralta, Secretario General.
 
