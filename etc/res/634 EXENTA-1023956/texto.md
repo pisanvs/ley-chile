@@ -1,0 +1,3 @@
+Por resolución exenta Nº 634, de 21 de marzo de 2011, de esta Subsecretaría, recházanse las solicitudes números 206106096, 207106075, 203101051, 207104019, 207104013, 207103047, 207101014, 206103220, 206103049, 206103118, 207101076, 206104032, 208141001, 208141002, 208141003, 208141004, 206106072, 205105002, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 21 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
