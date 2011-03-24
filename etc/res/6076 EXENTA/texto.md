@@ -12,7 +12,7 @@ Considerando
 
 Resuelvo:
 
-1. Establécense los siguientes requisitos fitosanitarios de importación al país para frutos frescos destinados a consumo de palta (Persea americana) variedad "Hass", provenientes de la provincia de Tucumán, Argentina:
+1. Establécense los siguientes requisitos fitosanitarios de importación al país para frutos frescos destinados a consumo de palta (Persea americana) variedad "Hass", provenientes de la provincia de Tucumán, el Departamento de Ledesma, Provincia de Jujuy Argentina:
 
 1.1. El envío deberá estar amparado por un Certificado Fitosanitario Oficial del país de origen, en original, el cual deberá incluir la siguiente declaración adicional:
 
@@ -28,7 +28,7 @@ Resuelvo:
 
 1.4.2 La caja deberá tener un sello, indicando la siguiente leyenda "Palto Hass" de exportación a Chile" y deberá tener el número del sitio de producción.
 
-1.4.3. El pallet deberá ser identificado con una tarjeta de color naranja vivo en la cual se leerá: "SENASA PROGRAMA DE CERTIFICACIÓN DE PALTA HASS PROVENIENTES DEL SISTEMA DE MEDIDAS DE MITIGACIÓN DEL RIESGO PARA Anastrepha fraterculus y Ceratitis capitata" con la siguiente información:
+1.4.3. El pallet deberá ser identificado con una etiqueta en la cual se leerá: "SENASA PROGRAMA DE CERTIFICACIÓN DE PALTA HASS PROVENIENTES DEL SISTEMA DE MEDIDAS DE MITIGACIÓN DEL RIESGO PARA Anastrepha fraterculus y Ceratitis capitata" con la siguiente información:
 
 * Sitio Producción habilitado Nº .......
 
