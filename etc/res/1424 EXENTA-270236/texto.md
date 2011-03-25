@@ -42,7 +42,9 @@ Además quedarán sometidas a las normas impuestas a los viveristas, señaladas 
 
 6.3 Destrucción o esterilización del sustrato afectado mediante incineración o tratamiento térmico.
 
-6.4 Destrucción de los contenedores de plantas o su tratamiento de esterilización térmico, el que se deberá realizar dentro del predio. Las condiciones mínimas de temperatura serán 90º C por sobre 10 segundos antes de cada reutilización.
+6.4 Destrucción de los contenedores de plantas o su tratamiento de esterilización térmico, el que se deberá realizar dentro del predio. Las condiciones mínimas de temperatura serán 90º C por sobre 10 segundos antes de cada reutilización o bien: las condiciones mínimas de temperatura será 80°C por sobre 30 segundos antes de cada reutilización; o bien su sanitización efectuando inmersión en esterilizantes superficiales, tales como Hipoclorito de sodio o de calcio al 1%, Peróxido de Hidrógeno (5 gramos/litro) por un tiempo mínimo de 30 segundos.
+
+Destrucción de las cajas plantadoras o su tratamiento de sanitización efectuando inmersión en esterilizantes superficiales, tales como Hipoclorito de sodio o de calcio al 1%, Peróxido de Hidrógeno (5 gramos/ litro).
 
 6.5 Presentar herramientas de uso exclusivo del campo de seto y vivero, las cuales deben ser sometidas a un programa de desinfección periódico debidamente documentado. La maquinaria deberá ser de uso exclusivo o ser sometida a desinfección en forma periódica.
 
@@ -63,6 +65,8 @@ movilización de plantas o de sustratos, en un período no inferior a los 10 dí
 7.3 Aquellos lotes de plantas y sustratos que resulten positivos por segunda vez consecutiva a la presencia de Fusarium circinatum, se deberá destruir la totalidad de las plantas, sustratos y contenedores de plantas.
 
 Los contenedores de plantas previo a su destrucción deberán ser marcados con pintura indeleble, en todas las caras de la bandeja y en la parte superior de ésta.
+
+En forma alternativa a lo señalado precedentemente en este punto y para plantas de Pinus Radiata, el SAG podrá autorizar la movilización de lotes de plantas sin requerir una segunda inspección cuando en la primera inspección el porcentaje de lotes positivos a Fusarium circinatum sea igual o inferior al 10%; que los lotes inspeccionados sean iguales o inferiores a 200.000 unidades y que, además, cada vivero haya sido inspeccionado en a lo menos 10 lotes, como asimismo que se haya realizado la eliminación de cualquier planta infestada o sospechosa de estarlo, además de lo señalado en el punto 7.2 precedente.
 
 8. El Servicio podrá autorizar la movilización de brotes apicales no enraizados de Pinus spp. a partir de los campos de setos positivos a Fusarium circinatum, y se ha dado cumplimiento adicionalmente a las medidas fitosanitarias siguientes:
 
