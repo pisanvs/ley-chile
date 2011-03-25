@@ -1,0 +1,3 @@
+Por resolución exenta Nº 569, de 4 de marzo de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 190, de 2011, de esta Subsecretaría, que autorizó a la Universidad de Antofagasta para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Distribución espacio - temporal de las agregaciones de Jurel (Trachurus murphyi) en la III Región, temporada 2011", en el sentido de agregar en el numeral 4.- la embarcación artesanal Lonquimay 2 (RPA 955248).
+
+Valparaíso, 4 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
