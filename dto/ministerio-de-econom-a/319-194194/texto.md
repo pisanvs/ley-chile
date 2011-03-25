@@ -104,6 +104,8 @@ Para los efectos del presente Reglamento se dará a los siguientes términos los
 
 38) Piscicultura de recirculación: Sistema productivo en el que el agua es reutilizada y tratada, al menos, a través de filtros mecánicos, biológicos y sistemas de desinfección, pudiendo ser renovada una parte de ella en forma continua.
 
+39) Agrupación de concesiones: conjunto de concesiones de acuicultura que se encuentran dentro un área apta para el ejercicio de la acuicultura en un sector que presenta características epidemiológicas, oceanográficas, operativas o geográficas que justifican su manejo sanitario coordinado por grupo de especies hidrobiológicas, así declarado por la Subsecretaría.
+
 ## Título II
 
 De las enfermedades de alto riesgo
@@ -365,6 +367,94 @@ En virtud de la zonificación, el Servicio podrá dictar los programas sanitario
 No podrán trasladarse especies hidrobiológicas desde zonas infectadas o de vigilancia respecto de una determinada enfermedad de alto riesgo a zonas libres respecto de la misma enfermedad.
 
 No se podrán liberar especies hidrobiológicas vivas provenientes de zonas infectadas o de vigilancia en zonas libres.
+
+#### Artículo 20 bis
+
+La distancia entre los centros de cultivo integrantes de una agrupación de concesiones de acuicultura será de 1,5 millas náuticas. Esta distancia sólo podrá exceptuarse en el caso que una o más concesiones integrantes de la agrupación se relocalicen al interior de ella o se realicen fusiones de concesiones o de fracciones de concesiones integrantes de la misma agrupación, de conformidad con el artículo 5º de la ley Nº 20.434. Sólo procederá la aplicación de esta excepción si se cumplen los siguientes requisitos:
+
+a) La relocalización o fusión no podrá implicar un
+
+desplazamiento superior a 0,25 millas náuticas
+
+medidas desde su ubicación original;
+
+b) El desplazamiento no puede implicar en ningún
+
+caso disminuir la distancia existente entre
+
+agrupaciones de concesiones;
+
+c) El desplazamiento no puede implicar, en
+
+ningún caso, disminuir la distancia a menos
+
+de una milla náutica entre los centros de
+
+cultivo integrantes de la agrupación de
+
+concesiones;
+
+d) El desplazamiento no podrá realizarse para
+
+relocalizar o efectuar fusiones de concesiones
+
+o de fracciones de concesiones que provengan
+
+desde fuera de la agrupación de concesiones.
+
+Las concesiones que se acojan a la excepción indicada
+
+en el inciso anterior, quedarán sometidas a las siguientes
+
+condiciones de operación:
+
+i. Los peces que ingresen a los centros de cultivo
+
+deberán provenir de centros de origen libres de
+
+ISAv (Anemia Infecciosa del Salmón), lo que se
+
+acreditará de acuerdo a lo que establezca el
+
+Servicio en sus programas sanitarios de control
+
+de la enfermedad;
+
+ii. El ingreso de smolts o juveniles al centro de
+
+cultivo respectivo deberá considerar en cualquier
+
+caso un peso mínimo de 80 gramos;
+
+iii. Los centros de cultivo que operen sobre Salmo
+
+salar, deberán ingresar smolts vacunados al menos
+
+con antígenos ISAv (Anemia Infecciosa del
+
+Salmón), IPNv (Necrosis Pancreática Infecciosa) y
+
+SRS (Síndrome Ricketsial salmonideo o
+
+Piscirickettsiosis);
+
+iv. Los centros que operen con Oncorhynchus mykiss
+
+deberán ingresar peces vacunados con al menos
+
+antígenos para IPNv y SRS;
+
+v. Los centros que operen con Oncorhynchus kisutch
+
+deberán ingresar peces vacunados con al menos
+
+antígeno para SRS;
+
+vi. La densidad de cultivo en los centros que
+
+cultiven Salmo salar no deberá superar los
+
+12 kg/m³ a la cosecha.
 
 ## Título V
 
