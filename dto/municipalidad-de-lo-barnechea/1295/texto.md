@@ -436,7 +436,11 @@ El presente artículo define el listado de las obras generales que constituyen l
 
 Constituyen, además, obras de urbanización vial, el diseño y ejecución de obras de arte tales como: colectores de aguas lluvias, protección de quebradas y esteros (canalización, entubamiento y encauzamiento) y otras en cuanto afecten a la vialidad.
 
-SUPRIMIDO M 6 O Avda. Costanera Norte Ejecución entre Puente San Enrique y Límite
+SUPRIMIDO
+
+M 6 O Avda. Costanera Norte
+
+Ejecución entre Puente San Enrique y Límite
 
 comuna Vitacura.
 
@@ -786,7 +790,7 @@ Monasterio).
 
 #### Artículo 11º
 
-La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros.
+La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras y otras que se grafican en el Plano PRC-LB 2 y cuya identificación, ancho entre líneas oficiales y demás características, se señalan en los siguientes cuadros..
 
 #### Artículo 12º
 
@@ -862,9 +866,7 @@ a) Los espacios de estacionamiento deberán desarrollarse en un plano horizontal
 
 Cada estacionamiento deberá tener libre ingreso y salida.
 
-b) En aquellas densificaciones en las que de la aplicación del estándar, resulten asignadas dos o más unidades por unidad habitacional, ellas podrán ser emplazadas en línea, compartiendo el mismo
-
-ingreso y salida.
+b) En aquellas densificaciones en las que de la aplicación del estándar, resulten asignadas dos o más unidades por unidad habitacional, ellas podrán ser emplazadas en línea, compartiendo el mismo ingreso y salida.
 
 c) El ancho mínimo de pasillo (un solo sentido de tránsito) en función del ángulo del estacionamiento, es el siguiente:
 
@@ -1544,11 +1546,15 @@ Los cierros de sitios eriazos, obligatorios conforme lo dispone el Artículo 2.5
 
 a) Altura 2,00 mts.
 
-b) Ser transparentes y consignarse en la puerta el número municipal y el teléfono del responsable de su mantención.
+b) Ser transparentes y consignarse en la puerta el
+
+número municipal y el teléfono del
+
+responsable de su mantención.
 
 #### Artículo 31º
 
-Los antejardines mínimos corresponderán a los DTO 1651, establecidos en los respectivos planos de loteo aprobados con anterioridad a la entrada en vigencia del PRC. Las disposiciones establecidas sobre esta materia para las diferentes Zonas en que se divide la comuna será aplicable a los futuros loteos.
+Los antejardines mínimos corresponderán a los establecidos en los respectivos planos de loteo aprobados con anterioridad a la entrada en vigencia del PRC. Las disposiciones establecidas sobre esta materia para las diferentes Zonas en que se divide la comuna será aplicable a los futuros loteos.
 
 Los predios que colinden con áreas verdes públicas, deberán respetar un antejardín mínimo de 3.00 mts. en el frente que colinden con éstas.
 
@@ -1596,9 +1602,7 @@ a) El empalme de la vía pública con el acceso a un predio, o a un conjunto de 
 
 b) En lo que se refiere al cálculo del porcentaje máximo de ocupación de suelo, se deberá cumplir con el artículo 3.3.2.2 del P.R.M.S.
 
-C) Los desmontes, definidos en el artículo 1.1.2. de la Ordenanza General de Urbanismo y Construcciones, que sea necesario efectuar para producir escalonamientos, no podrán superar los
-
-3,50 mts. de altura, medidos respecto al terreno natural, en conformidad al artículo 3.3.2.3 del PRMS.
+c) Los desmontes, definidos en el artículo 1.1.2. de la Ordenanza General de Urbanismo y Construcciones, que sea necesario efectuar para producir escalonamientos, no podrán superar los 3,50 mts. de altura, medidos respecto al terreno natural, en conformidad al artículo 3.3.2.3 del PRMS.
 
 d) Los rellenos que produzcan abalconamientos, se deberán circunscribir a los distanciamientos y rasantes definidos en el artículo 2.6.3. de la Ordenanza General de Urbanismo y Construcciones.
 
@@ -1688,11 +1692,7 @@ En el territorio de este plan, las actividades definidas bajo el uso de activida
 
 Para los efectos señalados en el artículo anterior, se establecen las siguientes definiciones:
 
-a) Talleres Menores: Predios, recintos,
-
-instalaciones, construcciones y/o edificios en que se realizan las actividades de producción, procesamiento y/o transformación de productos finales, intermedios o insumos, ocupando para ello
-
-no más de 10 operarios. El radio de acción es de al menos el barrio y como máximo el límite comunal. b) Almacenamiento: Recintos de acopio, y bodegaje complementarios y ligados a la actividad comercial y de oficinas. En ningún caso existirán como destino independiente, y no podrán exceder del 50% de la superficie de la actividad.
+a) Talleres Menores: Predios, recintos, instalaciones, construcciones y/o edificios en que se realizan las actividades de producción, procesamiento y/o transformación de productos finales, intermedios o insumos, ocupando para ello no más de 10 operarios. El radio de acción es de al menos el barrio y como máximo el límite comunal. b) Almacenamiento: Recintos de acopio, y bodegaje complementarios y ligados a la actividad comercial y de oficinas. En ningún caso existirán como destino independiente, y no podrán exceder del 50% de la superficie de la actividad.
 
 c) Actividades de impacto similar al industrial:
 
@@ -1722,7 +1722,15 @@ CODIGO PRODUCTO PRINCIPAL PROCESAMIENTO
 
 31173 Pasteles Fabricación
 
-31171 ELIMINADO 31174 Fideos, tallarines y otras pastas Elaboración 31191 Cacao y chocolate Fabricación 31192 Confites Fabricación
+31171 ELIMINADO
+
+31174 Fideos, tallarines
+
+y otras pastas Elaboración
+
+31191 Cacao y chocolate Fabricación
+
+31192 Confites Fabricación
 
 31211 Condimentos Elaboración
 
@@ -1756,7 +1764,15 @@ y acabado
 
 32151 Sogas y cordeles Fabricación
 
-31219 Industria alimenticia Fabricación no clasificada. de empanadas y comida para llevar 32201 Prendas de vestir Confección
+31219 Industria alimenticia Fabricación
+
+no clasificada. de empanadas
+
+y comida para
+
+llevar
+
+32201 Prendas de vestir Confección
 
 32202 Sombreros, guantes y otros
 
@@ -1970,9 +1986,7 @@ Todas aquellas no mencionadas en esta Ordenanza se entenderán expresamente proh
 
 Para los efectos de aplicar la presente Ordenanza, el área urbana se divide en las Zonas que
 
-se definen a continuación, las cuales se encuentran
-
-graficadas en el Plano PRC-LB 1.
+se definen a continuación, las cuales se encuentran graficadas en el Plano PRC-LB 1.
 
 ZONA A "PUEBLO LO BARNECHEA"
 
@@ -2822,7 +2836,7 @@ Antejardín mínimo 7 mts 7 mts
 
 Coeficiente de ocupación
 
-de suelo 0,35 0,35
+de suelo 0,35 0,6
 
 Coeficiente de
 
@@ -3392,7 +3406,7 @@ a.2.2) Equipamiento de Circunvalación
 
 Se podrá construir equipamiento en los sitios que enfrentan la Circunvalación Vial formada por las
 
-siguientes vías: - - Camino Los Trapenses: tramo José Alcalde Délano - Valle de la Unión (N7) y tramo Valle de la Unión - Av. Paseo Pie Andino, este último tramo según lo graficado en el plano MPRC-LB-04. D.O. 25.05.2006
+siguientes vías: - - Camino Los Trapenses: tramo José Alcalde Délano - Valle de la Unión (N7) y tramo Valle de la Unión - Av. Paseo Pie Andino, este último tramo según lo graficado en el plano MPRC-LB-04.
 
 - Av. Paseo Pie Andino, desde Camino Los Trapenses hasta calle El Rodeo.
 
@@ -3404,9 +3418,7 @@ No podrán acogerse a los usos de suelo que más adelante se señalan los sitios
 
 - Se eximen de esta posibilidad aquellos sitios que, enfrentando la Circunvalación Vial indicada, se ubican en la vereda norte Avda. José Alcalde Délano entre el Estero Las Hualtatas y fondos de sitios de casas al poniente de la calle La Mañana y los sitios en la cuadra oriente de Camino Los Trapenses entre esquina Parque Las Pataguas a el límite norte del loteo Las Pataguas. El equipamiento permitido con frente a la Circunvalación Vial será de las siguientes clases y actividades, según los tramos que a continuación se indican:
 
-i) Camino Los Trapenses, tramo Valle de la Unión -
-
-Av. Paseo Pie Andino, según lo graficado en el plano MPRC-LB-04:
+i) Camino Los Trapenses, tramo Valle de la Unión - Av. Paseo Pie Andino, según lo graficado en el plano MPRC-LB-04:
 
 Equipamiento
 
@@ -3486,9 +3498,7 @@ Servicios artesanales (reparación de
 
 objetos diversos)
 
-ii) Circunvalación Vial: Av. Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo; El Rodeo tramo Paseo Pie Andino - J.A. Délano; José Alcalde Délano tramo El Rodeo - Camino Los Trapenses, y Camino Los Trapenses, tramo José Alcalde Délano -
-
-Valle La Unión:
+ii) Circunvalación Vial: Av. Paseo Pie Andino tramo Camino Los Trapenses - El Rodeo; El Rodeo tramo Paseo Pie Andino - J.A. Délano; José Alcalde Délano tramo El Rodeo - Camino Los Trapenses, y Camino Los Trapenses, tramo José Alcalde Délano - Valle La Unión:
 
 El equipamiento permitido con frente a la Circunvalación Vial será de los siguientes tipos:
 
@@ -3690,7 +3700,9 @@ a.) Usos Permitidos.
 
 a.1) Residencial
 
-a.2) Areas Verdes a.3) Espacio Público
+a.2) Areas Verdes
+
+a.3) Espacio Público
 
 b.) Usos Prohibidos
 
@@ -4042,10 +4054,10 @@ Marta Ehlers Bustamante, Alcaldesa Municipalidad de Lo Barnechea.- José Domingo
 
 > **Nota.** NOTA 4 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de Condiciones de Subdivisión y Edificación del artículo 55, Punto a.2.2) de la zona J, reemplazándolo por uno nuevo, el cual no ha sido ingresado por restricciones técnicas temporales.
 
-> **Nota.** NOTA 5: El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de condiciones de Subdivisión y Edificación, contenido en la Zona O Parque Praguer en el artículo 55º del Título IX Zonificación, Usos de Suelo y Normas Específicas, la altura de edificación máxima permitida en pisos, el cual no ha sido ingresado por restricciones técnicas temporales.
+> **Nota.** NOTA 5 El Art. 2º del DTO 1651, M. de Lo Barnechea, publicado el 18.12.2004, modificó el cuadro de condiciones de Subdivisión y Edificación, contenido en la Zona O Parque Praguer en el artículo 55º del Título IX Zonificación, Usos de Suelo y Normas Específicas, la altura de edificación máxima permitida en pisos, el cual no ha sido ingresado por restricciones técnicas temporales.
 
-> **Nota.** NOTA 6: El DTO 1091, M. de lo Barnechea, publicado el 21.06.2005, da por subsanada la omisión del requisito de forma que indica en la modificación a este plano contenida en el DTO 1544, publicado el 22.01.2003, señalando que a partir de su fecha de publicación regirá íntegramente dicha modificación.
+> **Nota.** NOTA 6 El DTO 1091, M. de lo Barnechea, publicado el 21.06.2005, da por subsanada la omisión del requisito de forma que indica en la modificación a este plano contenida en el DTO 1544, publicado el 22.01.2003, señalando que a partir de su fecha de publicación regirá íntegramente dicha modificación.
 
-> **Nota.** NOTA 8: El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
+> **Nota.** NOTA 8 El Nº 3 del artículo 1º del DTO 1396, M. de Lo Barnechea, modifica en el cuadro de equipamiento del punto a.2 de la Zona M. "Av. La Dehesa", en la forma que indica norma anteriormente citada.
 
 > **Nota.** NOTA 9 La letra C) del Artículo Único del Nº 1 del Decreto 998, Municipalidad de Lo Barnechea, publicado el 09.02.2010, modifica la presente norma en el sentido de prorrogar por 5 años las declaratorias de utilidad pública de las vías clasificadas como Colectoras y sus respectivos tramos, señaladas en el cuadro del artículo 11º.
