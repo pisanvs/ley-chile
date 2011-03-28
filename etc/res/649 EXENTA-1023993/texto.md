@@ -1,0 +1,11 @@
+RECTIFICA RESOLUCIÓN Nº 347 EXENTA, DE 2011, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA, SARDINA COMÚN Y JUREL EN LA XIV REGIÓN
+
+Núm. 649 exenta.- Valparaíso, 23 de marzo de 2011.- Visto: Lo informado por el Departamento de Análisis Sectorial en Memorándum Técnico (DAS) Nº 07/2011, de fecha 16 de marzo de 2011; lo dispuesto en el artículo 32 Nº 6 de la Constitución Política del Estado; el D.F.L. Nº 5, de 1983, del Ministerio de Economía, Fomento y Reconstrucción; la Ley General de Pesca y Acuicultura Nº18.892, y sus modificaciones, cuyo texto refundido fue fijado por el D.S. Nº 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción; las leyes Nº 19.713, Nº 19.822 y Nº19.849; los D.S. Nº 545, de 1998, Nº 409, de 2000, Nº 11, de 2003 y Nº 296, de 2004, y el decreto exento Nº 1.966, de 2009, todos del Ministerio de Economía, Fomento y Reconstrucción; el D.S. Nº223, de 2010, y los decretos exentos Nº 1.453, de 2010 y Nº186, de 2011, todos del Ministerio de Economía, Fomento y Turismo; la resolución Nº 1.600, de 2008, de la Contraloría General de la República; la resolución exenta Nº 347, de 2011, de esta Subsecretaría,
+
+Resuelvo:
+
+1.- Rectifícase el numeral 1.- letra b) de la resolución exenta Nº 347, de 2011, de esta Subsecretaría, que estableció la distribución de la fracción artesanal de la cuota global anual de captura de Anchoveta Engraulis ringens, Sardina común Strangomera bentincki y Jurel Trachurus murphyi correspondiente a la XIV Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, para el periodo comprendido entre la fecha de la presente resolución y el 31 de diciembre de 2011, en el sentido de indicar que la asignación total del recurso Sardina común, correspondiente a los pescadores artesanales no afiliados a las organizaciones de pescadores artesanales individualizadas en la misma resolución, sea que estén afiliados a otras organizaciones, o no integren ninguna organización, corresponde a 0,572 toneladas del citado recurso, y no como allí se indica.
+
+Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- Pablo Galilea Carrillo, Subsecretario de Pesca.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., José Salomón Silva, Jefe Departamento Administrativo.
