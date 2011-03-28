@@ -528,7 +528,7 @@ Los postulantes inscritos para el llamado a que alude el inciso anterior, que no
 
 #### Artículo 2°
 
-transitorio.- No obstante lo dispuesto en el artículo 23 del presente decreto, los postulantes al subsidio regulados por las letras A, B y C de dicho artículo, que hasta el 31 de diciembre de 2010 celebren contratos de arrendamiento con promesa de compraventa, podrán optar a los montos máximos de subsidio expresados todos en Unidades de Fomento, que se señalan en la siguiente tabla:
+transitorio.- No obstante lo dispuesto en el artículo 23 del presente decreto, los postulantes al subsidio regulados por las letras A, B y C de dicho artículo, que hasta el 31 de diciembre de 2011 celebren contratos de arrendamiento con promesa de compraventa, podrán optar a los montos máximos de subsidio expresados todos en Unidades de Fomento, que se señalan en la siguiente tabla:
 
 Precio de la Vivienda Subsidio
 
@@ -536,7 +536,7 @@ Precio de la Vivienda Subsidio
 
 Hasta 1.000 200
 
-Más de 1.000 y hasta 2.000 300 – 0,1*P
+Más de 1.000 y hasta 2.000 300 - 0,1*P
 
 En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso tercero del artículo 23 de este reglamento.
 

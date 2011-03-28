@@ -302,7 +302,7 @@ g. Cuando el postulante o su cónyuge invoque su condición de persona reconocid
 
 h. Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución de ésta por haberse anulado el matrimonio o haberse divorciado, hubiere optado por renunciar a los gananciales, en los términos del artículo 1783 del Código Civil.
 
-i. Cuando el postulante casado bajo el régimen de sociedad conyugal se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
+i. Cuando el postulante se encuentre separado de hecho y acredite haber iniciado el trámite de divorcio, mediante copia autorizada de la demanda con constancia de su notificación. Sin embargo, para el pago del subsidio deberá acreditarse la subinscripción de la sentencia de divorcio al margen de la respectiva inscripción de matrimonio y que el postulante no se hubiere adjudicado la vivienda o infraestructura sanitaria y hubiere renunciado a recibir una compensación equivalente o hubiere restituido al SERVIU el 50% del total del subsidio recibido, conforme a la liquidación practicada por el SERVIU debidamente actualizada a la fecha de la restitución.
 
 ### Párrafo 8° — DE LOS FACTORES DE PUNTAJE
 
@@ -862,7 +862,9 @@ transitorio.- No obstante lo dispuesto en el número 4 del artículo 13 de este 
 
 #### Artículo 4°
 
-transitorio.- No obstante lo dispuesto en el artículo 26 del presente reglamento, hasta el 31 de diciembre de 2010, los postulantes al subsidio regulado por el Título I de este reglamento, podrán optar a los montos máximos de subsidio, acreditando el ahorro mínimo exigido según precio máximo de la vivienda, expresados todos en Unidades de Fomento, que se señalan en la siguiente tabla:
+transitorio.- No obstante lo dispuesto en el artículo 26 del presente reglamento, hasta el 31
+
+de diciembre de 2011, los postulantes al subsidio regulado por el Título I de este reglamento, podrán optar a los montos máximos de subsidio, acreditando el ahorro mínimo exigido según precio máximo de la vivienda, expresados todos en Unidades de Fomento, que se señalan en la siguiente tabla:
 
 Precio de la Vivienda (UF) Subsidio (UF) Ahorro (UF)
 
