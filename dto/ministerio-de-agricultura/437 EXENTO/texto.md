@@ -14,21 +14,25 @@ Autorízase la circulación en horario inhábil y en días sábados, domingos y 
 
 Vehículo : Camioneta
 
-Modelo : B 2500 D Cab. 2.5
+Marca : Chevrolet
 
-Marca : Mazda
+Modelo : D-Max TH CC.30D 4WD DAB ABS
 
-Nº chasis : JMZUN1F220W416242
+Nº Motor : 894078
 
-Nº motor : WLAT659852
+Año : 2011
 
-Patente : WD.8196-2
+Chassis : MPATFS77HBT100054
 
-Año : 2006
+Color : Blanco
 
-Color : Gris
+Patente : CT HJ 72-0
 
-Asignado : Secretaría Regional Ministerial de Agricultura de la III Región de Atacama.
+Asignado : Secretaría Regional Ministerial de
+
+Agricultura III Región.
+
+Ciudad : Copiapó.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, José Antonio Galilea Vidaurre, Ministro de Agricultura.- Rodrigo Hinzpeter Kirberg, Ministro del Interior.
 
