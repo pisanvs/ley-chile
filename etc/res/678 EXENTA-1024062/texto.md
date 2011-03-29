@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA EN VENTA DE HARINA A CARLOS OCTAVIO ROSALES ANCAN
+
+La Décima Dirección Regional Puerto Montt, del Servicio de Impuestos Internos, por resolución ex. Nº 678, de fecha 2 de febrero del 2011, otorga a contar del 1º del mes de esta publicación, al contribuyente Carlos Octavio Rosales Ancan, RUT 12.142.020-1, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la venta de harina, establecido en la resolución exenta Nº 5.282, del 30 de noviembre del 2000.
