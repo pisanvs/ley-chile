@@ -1,0 +1,27 @@
+APRUEBA REFORMA A ADMINISTRADORA DE FONDOS DE PENSIONES MODELO SOCIEDAD ANÓNIMA
+
+Certifico que por resolución Nº E-210-2011, de fecha 24 de marzo de 2011, se aprobó la reforma introducida a los estatutos de la Administradora de Fondos de Pensiones Modelo Sociedad Anónima, acordada en la séptima junta general extraordinaria de accionistas, celebrada el día 10 de febrero de 2011, cuya acta se redujo a escritura pública con igual fecha, ante el Notario de Santiago, don Alberto Mozó Aguilar.
+
+Extracto:
+
+Los acuerdos adoptados fueron los siguientes: Primero: La junta por unanimidad acordó: /a/ Aprobar las correcciones efectuadas a los Estados Financieros del 31 de diciembre de 2009 para solucionar las observaciones efectuadas a los mismos por la Superintendencia de Pensiones y la Superintendencia de Valores y Seguros; y /b/ dejar sin efecto el aumento de capital y la reforma de estatutos acordados en la quinta junta extraordinaria de accionistas. Segundo: /i/ Aumentar el capital de la Sociedad de la suma actual de $2.419.489.499. dividido en 2.200.000 acciones ordinarias, de una misma serie, sin valor nominal, a la cantidad de $5.419.489.499. dividido en 5.200.000 acciones ordinarias, de una misma serie, sin valor nominal. /ii/ Que el aumento de capital referido, por la cantidad de $3.000.000.000 se materialice mediante la emisión de 3.000.000 de acciones de pago, a ser colocadas a un precio de 1.000 pesos por acción. Las acciones de pago representativas de este aumento, serán emitidas por el Directorio de una sola vez y por el total de las acciones, o bien por parcialidades, según lo decida el propio Directorio, al que la junta resolvió conferir al efecto amplias facultades. Con todo, las acciones representativas de este aumento de capital deberán ser emitidas, suscritas y pagadas dentro del plazo de dos años contado desde la fecha de la resolución de la Superintendencia de Pensiones que apruebe este aumento de capital; /iii/ Que las acciones así emitidas sean ofrecidas primeramente a los actuales accionistas de la Sociedad, de conformidad con la ley Nº 18.046 y, en la parte que los mismos no optaren por adquirir, puedan posteriormente ser ofrecidas a terceros; /iv/ Que las acciones sean pagadas en dinero efectivo; y /v/ Autorizar al Directorio para abstenerse de efectuar el cobro de la suma del aumento de capital que no se haya enterado al vencimiento del plazo de dos años fijado por la junta, de conformidad a lo dispuesto en el artículo veinticuatro de la ley Nº 18.046 sobre Sociedades Anóminas. Tercero: La Junta Extraordinaria de Accionistas acordó, por la unanimidad de las acciones emitidas, reemplazar íntegramente el texto de los artículos Quinto y Primero Transitorio de los estatutos sociales por los siguientes nuevos textos:
+
+#### Artículo quinto
+
+El capital de la sociedad es la suma de cinco mil cuatrocientos diecinueve millones cuatrocientos ochenta y nueve mil cuatrocientos noventa y nueve pesos, dividido en cinco millones doscientas mil acciones ordinarias, de una misma serie, nominativas, sin valor nominal.
+
+#### Artículo primero
+
+transitorio: El capital social de cinco mil cuatrocientos diecinueve millones cuatrocientos ochenta y nueve mil cuatrocientos noventa y nueve pesos, dividido en cinco millones doscientas mil acciones ordinarias, de una misma serie, nominativas, y sin valor nominal, es suscrito y pagado de la siguiente manera:
+
+Uno: Con la cantidad de quinientos cincuenta millones de pesos, equivalente a quinientas cincuenta mil acciones, pagadas por los accionistas con anterioridad al treinta y un de diciembre de dos mil nueve, que corresponde al monto al cual quedó reducido de pleno derecho el capital original de la sociedad, según consta en la escritura pública de declaración de fecha seis de julio de dos mil diez, otorgada en la Notaría de Santiago de don Alberto Mozó Aguilar.
+
+Dos: Con la cantidad de doscientos diecinueve millones cuatrocientos ochenta y nueve mil cuatrocientos noventa y nueve pesos correspondiente a la revalorización legal del capital de la sociedad al treinta y uno de diciembre de dos mil nueve.
+
+Tres: Con la cantidad de mil seiscientos cincuenta millones de pesos, íntegramente suscrita y pagada, correspondiente a un aumento de capital mediante la emisión de un millón seiscientas cincuenta mil acciones de pago acordado en la Cuarta Junta Extraordinaria de Accionistas, celebrada el veintidós de julio de dos mil diez; y
+
+Cuatro: Con la cantidad de tres mil millones de pesos, correspondiente a un aumento de capital acordado en junta extraordinaria de accionistas de fecha diez de febrero de dos mil once, mediante la emisión de tres millones de acciones, a ser colocadas a un precio de mil pesos por acción, para ser suscritas y pagadas en dinero efectivo dentro del plazo de dos años contado desde la fecha de la resolución de la Superintendencia de Pensiones que autorice dicho aumento de capital.
+
+La Junta, por unanimidad, facultó al Directorio para que proceda a adoptar todos los acuerdos y disponga de todas las medidas necesarias y conducentes a materializar el aumento de capital aprobado y emitir las acciones respectivas.
+
+Santiago, 24 de marzo de 2011.- Solange M. Berstein Jáuregui, Superintendenta de Pensiones.
