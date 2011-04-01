@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº272, de 28 de febrero de 2011, se dejó sin efecto el decreto exento MOP N° 618, de 30 de abril de 2010, en la parte que se refiere al lote Nº 13, en atención a que dicho lote fue expropiado mediante el decreto exento MOP N° 1.551, de 22 de septiembre de 2010 y consignado el monto provisional de la indemnización en el 4º Juzgado de Letras de Copiapó, con fecha 27 de octubre de 2010.
+
+Fiscal del Ministerio de Obras Públicas.
