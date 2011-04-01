@@ -1,0 +1,3 @@
+Por decreto exento MOP Nº269, de 28 de febrero de 2011, se dejó sin efecto el decreto exento MOP N° 2.679, de 11 de noviembre de 2010, en atención a que el lote de terreno Nº29, fue expropiado anteriormente mediante decreto exento MOP Nº767, de 31 de mayo de 2010, y consignado el monto provisional en la cuenta del 1º Juzgado Civil de Valdivia, con fecha 28 de julio de 2010.-
+
+Fiscal del Ministerio de Obras Públicas.
