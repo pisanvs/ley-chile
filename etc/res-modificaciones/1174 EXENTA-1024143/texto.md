@@ -1,0 +1,7 @@
+MODIFICA RESOLUCIÓN Nº 4.292 EXENTA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.174 de 24 de marzo de 2011, Serviu Región del Bío Bío ordenó modificar resolución exenta de expropiación Nº 4.292 de 30.12.2010, sólo en cuanto a su rol de avalúo, aparente propietario, polígono y deslindes del terreno a expropiar, procediéndose a dejar establecido que el terreno expropiado parcialmente por resolución exenta Nº 4.292, ubicado en Tubul, tiene verdaderamente el rol de avalúo Nº 00185-00046 de la comuna de Arauco, de aparente dominio de Rodriguéz Gutiérrez Rosa Ameli, de una superficie de terreno de 70.000 m2 en el polígono A-B-C-D-E-F-G-H-I-J-K-A, de conformidad al plano S8R-26.818 y con los siguientes deslindes: Norte: Tramos D-E-F-G, en 29,59 m; 122,8 m. y 294,39 m. con resto de la propiedad rol 185-46; Sur: Tramo A-K en 36,9 m. con camino público, calle central. Tramo H-I en 49,62 m. y I-J en 76,46 m. con resto de propiedad, rol 185-46. Tramo B-C en 369,32 m. con resto de propiedad rol 185-46; Oriente: Tramos A-B en 221,82 m. y tramo C-D en 57,05 m. con resto de la propiedad rol 185-46; Poniente: Tramos G-H en 50,47 m. y tramo J-K en 214,95 m. con resto de la propiedad rol 185-46, conservando por tanto el monto de indemnización provisional de $60.061.988.-, señalados en la resolución exenta que se modifica. En lo demás rija íntegramente la resolución exenta modificada Nº 4.292 de 30.12.2010.
+
+Director Serviu Región del Bío Bío.
