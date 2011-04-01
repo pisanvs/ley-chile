@@ -32,8 +32,6 @@ Primero. Establécense las siguientes Tasas que el INAPI cobrará, como Oficina 
 
 (*) El valor en pesos m/n, se calcula considerando el tipo de cambio del dólar americano, observado el día anterior a la fecha de pago.
 
-> **Nota.** El artículo primero de la Resolución 356 Exenta, Economía, publicada el 29.04.2020, modifica la presente norma en el sentido de indicar que el valor en pesos chilenos de acuerdo al tipo de cambio dólar observado, para calcular el pago en pesos de las respectivas tasas, será el del último día hábil del mes anterior a la fecha del pago, de acuerdo a la información publicada en informativo diario del Banco Central de Chile.
-
 Segundo. El depósito de las Tasas establecidas en el artículo primero del presente acto administrativo, deberá efectuarse en la cuenta corriente del BancoEstado Nº 000-0-0900120-4.
 
 Tercero. La presente resolución regirá conjuntamente con la entrada en vigencia del PCT, es decir, a partir del 2 de junio de 2009.
