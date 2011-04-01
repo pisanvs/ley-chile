@@ -1,0 +1,5 @@
+FIJA PROCEDIMIENTO PARA HACER USO DE LA EXENCIÓN PARCIAL DEL IMPUESTO DE TIMBRES Y ESTAMPILLAS ESTABLECIDA EN EL ART. 12 DEL DFL Nº 2, DE 1959
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 43 del 29 de marzo de 2011, que fija procedimiento para hacer uso de la exención parcial del Impuesto de Timbres y Estampillas que establece el artículo 12 del DFL Nº 2, de 1959, en relación al artículo 24 del DL Nº 3.475, de 1980, respecto de los actos o contratos celebrados a contar del 1º de noviembre de 2010 y cuyo fin sea el financiamiento de la construcción o la adquisición de viviendas económicas o de una cuota del dominio sobre éstas.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2011.
