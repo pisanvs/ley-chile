@@ -1,0 +1,3 @@
+Por resolución exenta Nº 641, de 23 de marzo de 2011, de esta Subsecretaría, autorízase a PESQUERA SUNRISE S.A., para ampliar actividades pesqueras extractivas con la nave "Islas Orcas", en las áreas marítimas que a continuación se indican, donde podrá capturar, los siguientes recursos hiodrobiológicos: a) En el área marítima comprendida desde la XV a XII Regiones, por fuera del área de reserva artesanal, con poteras: Jibia; b) En el área marítima correspondiente a Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, con poteras, por fuera del área de reserva artesanal: Jibia.
+
+Valparaíso, 23 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
