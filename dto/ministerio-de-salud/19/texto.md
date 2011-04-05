@@ -44,7 +44,7 @@ e) Colaborar con instituciones nacionales, internacionales y regionales en relac
 
 - Un representante del sector académico.
 
-La presidencia del mismo será ejercida en forma rotativa, por períodos de dos años, por los Ministros que lo integran, en el orden señalado.
+La presidencia del mismo le corresponderá al Ministro de Agricultura.
 
 5º.- Los sub-comités del Códex Alimentarius son grupos de trabajo integrados por personas preparadas en los temas particulares que ellos traten, con conocimiento de la realidad nacional, principalmente en las áreas de normalización, comercialización y tecnología de los alimentos. Estarán integrados por representantes de los Ministerios y organismos públicos relacionados con su campo de interés y por personas de la actividad privada relacionada con el mismo.
 
@@ -64,7 +64,7 @@ e) Proponer los sistemas y entidades científicas nacionales o internacionales c
 
 f) Proponer al Comité Nacional la forma de aceptación de los patrones o normas internacionales.
 
-7º.- El Punto de Contacto del Códex Alimentarius es la entidad chilena encargada de realizar la comunicación y coordinación entre el país y la Comisión del Códex Alimentarius. Estará radicada en el Ministerio de Salud conjuntamente con la Secretaría del Comité Nacional del Códex Alimentarius.
+7º.- El Punto de Contacto del Codex Alimentarius es la entidad chilena encargada de realizar la comunicación y coordinación entre el país y la Comisión del Codex Alimentarius. Estará radicada en el Ministerio de Agricultura conjuntamente con la Secretaría del Comité Nacional del Codex Alimentarius.
 
 8º.- Corresponderá al Punto de Contacto:
 
@@ -78,7 +78,7 @@ d) Canalizar el intercambio de información y la coordinación de las actividade
 
 e) Enviar la respuesta oficial de Chile a las consultas emanadas de la Secretaría de la Comisión Mixta FAO/OMS del Códex Alimentarius.
 
-9º.- La Secretaría del Comité del Códex Alimentarius funcionará, asimismo, en el Ministerio de Salud.
+9º.- La Secretaría del Comité del Codex Alimentarius funcionará en la Agencia Chilena para la Calidad e Inocuidad Alimentaria.
 
 Anótese, tómese razón y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Alex Figueroa Muñoz, Ministro de Salud.- José Miguel Insulza Salinas, Ministro de Relaciones Exteriores.- Alvaro García Hurtado, Ministro de Economía, Fomento y Reconstrucción.- Carlos Mladinich Alonso, Ministro de Agricultura.
 
