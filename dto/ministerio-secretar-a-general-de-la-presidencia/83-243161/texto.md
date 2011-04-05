@@ -20,33 +20,37 @@ Decreto:
 
 #### Artículo 1º
 
-Créase una comisión asesora del Presidente de la República denominada "Agencia Chilena para la Inocuidad Alimentaria", que tendrá la misión de asesorarlo en todo cuanto diga relación con la identificación, formulación y ejecución de políticas, planes, programas, medidas y demás actividades relativas a la inocuidad alimentaria y con el desarrollo de un sistema nacional de inocuidad alimentaria, y a servir de instancia de coordinación entre los organismos con competencias asociadas a dichas materias.
+Créase una comisión asesora del Presidente de la República denominada "Agencia Chilena para la Calidad e Inocuidad Alimentaria", que tendrá la misión de asesorarlo en todo cuanto diga relación con la identificación, formulación y ejecución de políticas, planes, programas, medidas y demás actividades relativas a la calidad e inocuidad alimentaria y con el desarrollo de un sistema nacional de calidad e inocuidad alimentaria, y a servir de instancia de coordinación entre los organismos con competencias asociadas a dichas materias.
 
 #### Artículo 2º
 
 Para el cumplimiento de su función de asesorar al Presidente de la República en las materias indicadas, corresponderá a la Agencia, en especial, las siguientes tareas:
 
-a) Formular y proponer una Política Nacional de Inocuidad de Alimentos, así como las medidas, planes y programas tendientes a su ejecución y cumplimiento.
+a) Formular y proponer una Política Nacional de Calidad e Inocuidad de Alimentos, así como las medidas, planes y programas tendientes a su ejecución y cumplimiento.
 
 b) Servir de instancia de coordinación para la aplicación de la política nacional de inocuidad de alimentos y de los programas, planes y medidas que en ese marco se implementen.
 
-c) Velar por que la política exterior de Chile, en aquellas materias que tengan incidencia en asuntos relativos a la inocuidad y seguridad alimentaria, se adecue a la Política Nacional de Inocuidad de los Alimentos, propiciando para ese efecto la coordinación entre las carteras representadas en la Agencia, y efectuando las proposiciones pertinentes.
+c) Velar por que la política exterior de Chile, en aquellas materias que tengan incidencia en asuntos relativos a la inocuidad y seguridad alimentaria, se adecue a la Política Nacional de Calidad e Inocuidad de los Alimentos, propiciando para ese efecto la coordinación entre las carteras representadas en la Agencia, y efectuando las proposiciones pertinentes.
 
-d) Elaborar y proponer un proyecto de ley que cree un Sistema Nacional para la Inocuidad de los Alimentos y la Autoridad Chilena de Seguridad de Alimentos.
+d) Elaborar y proponer un proyecto de ley que cree un Sistema Nacional para la Calidad e Inocuidad de los Alimentos y la Autoridad Chilena de Seguridad de Alimentos.
 
 e) Estudiar la legislación nacional vigente aplicable en materia de seguridad alimentaria y proponer las normas y reglamentos que sean necesarios para su perfeccionamiento, incluyendo normas respecto a etiquetado y rotulación de alimentos.
 
 f) Servir de instancia de coordinación de los organismos públicos que tengan competencias asociadas a la seguridad e inocuidad de los alimentos, en particular en la preparación de propuestas de Guías de Procedimientos y Estándares Técnicos, de propuestas de Procedimientos de Evaluación de Riesgos, Control e Inspección y en la atención y control de eventos de emergencia asociados a la alimentación.
 
-g) Elaborar y entregar al Presidente de la República un informe anual que contenga una evaluación del desempeño de la institucionalidad de seguridad alimentaria nacional y las recomendaciones para su mejoramiento, y los demás informes específicos que se le requieran o que emanen del desarrollo de sus tareas.
+g) Proponer un sistema de información y alertas alimenticias que integre las distintas fuentes de información acerca de eventos de inocuidad en alimentos con el propósito de dotar al Estado de una herramienta que le permita responder con agilidad ante situaciones de riesgo; y que además permita una evaluación efectiva de los programas de control e higiene de los alimentos, de modo de mejorar la gestión de los servicios competentes y la toma de decisiones en políticas públicas.
 
-h) Las demás tareas que sean necesarias y pertinentes para el cumplimiento de su cometido de asesoría al Presidente de la República.
+Todos los servicios del Estado estarán obligados a proporcionar la información, en el ámbito de sus respectivas competencias, que a este respecto les sea oficialmente solicitada por la Agencia.
+
+h) Elaborar y entregar al Presidente de la República un informe anual que contenga una evaluación del desempeño de la institucionalidad de seguridad alimentaria nacional y las recomendaciones para su mejoramiento, y los demás informes específicos que se le requieran o que emanen del desarrollo de sus tareas.
+
+i) Las demás tareas que sean necesarias y pertinentes para el cumplimiento de su cometido de asesoría al Presidente de la República.
 
 #### Artículo 3º
 
-La Agencia Chilena para la Inocuidad de los Alimentos estará integrada por los siguientes miembros:
+La Agencia Chilena para la Calidad e Inocuidad de los Alimentos estará integrada por los siguientes miembros:
 
-a) El Subsecretario de la Presidencia, quien la presidirá.
+a) Un representante del Ministerio Secretaría General de la Presidencia.
 
 b) El Subsecretario de Salud Pública.
 
@@ -54,7 +58,7 @@ c) El Subsecretario de Economía.
 
 d) El Subsecretario de Pesca.
 
-e) El Subsecretario de Agricultura.
+e) El Subsecretario de Agricultura quien la presidirá.
 
 f) El Director General de Relaciones Económicas Internacionales del Ministerio de Relaciones Exteriores.
 
@@ -62,7 +66,7 @@ Sin perjuicio de lo anterior, la Agencia podrá invitar a participar a otros fun
 
 #### Artículo 4º
 
-La conducción de la Agencia Chilena para la Inocuidad Alimentaria corresponderá a su Presidente, quien impulsará las actividades necesarias para el cumplimiento de las tareas de la comisión.
+La conducción de la Agencia Chilena para la Calidad e Inocuidad Alimentaria corresponderá a su Presidente, quien impulsará las actividades necesarias para el cumplimiento de las tareas de la comisión.
 
 La Agencia contará, además, con un Secretario Ejecutivo nombrado por su Presidente, quien les asistirá en el cumplimiento de sus funciones, asumirá las tareas que se le deleguen y actuará como coordinador de la Agencia ante los organismos de la Administración del Estado.
 
@@ -76,7 +80,7 @@ En caso de impedimento de alguno de los integrantes de la Agencia, serán reempl
 
 #### Artículo 6º
 
-El apoyo administrativo que se requiera para el funcionamiento de la Agencia será proporcionado por el Ministerio Secretaría General de la Presidencia, a través de su Subsecretaría. El apoyo técnico será prestado tanto por dicha cartera como por los Ministerios de Salud, de Economía, de Agricultura y de Relaciones Exteriores.
+El apoyo administrativo que se requiera para el funcionamiento de la Agencia será proporcionado por el Ministerio de Agricultura, a través de su Subsecretaría. El apoyo técnico será prestado tanto por dicha cartera como por los Ministerios de Salud, de Economía, y de Relaciones Exteriores.
 
 #### Artículo 7º
 
