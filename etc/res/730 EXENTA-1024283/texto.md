@@ -1,0 +1,3 @@
+Por resolución exenta Nº 730, de 30 de marzo de 2011, de esta Subsecretaría, recházanse las solicitudes de modificación de concesión de acuicultura números 203103154, 206012011, 206111027, 206104035, 206106035, 207103106, 207103138, 207103215, 207103265, 207104002, 207111275, 207111486, 208111011, 208103196, 208111698, 205111236, 208111025, 205106016, 209103018 y 209103019, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
