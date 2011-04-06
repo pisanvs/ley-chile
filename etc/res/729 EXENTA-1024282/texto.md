@@ -1,0 +1,3 @@
+Por resolución exenta Nº 729, de 30 de marzo de 2011, de esta Subsecretaría, recházanse las solicitudes números 208031009, 208022001, 208031008 y 208021003, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 30 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
