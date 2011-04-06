@@ -1,0 +1,3 @@
+Por resolución exenta Nº 707, de 28 de marzo de 2011, de esta Subsecretaría, recházanse las solicitudes números 208111290, 208111285, 208111291 y 208111289, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 28 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
