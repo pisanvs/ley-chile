@@ -1,0 +1,5 @@
+Por resolución exenta Nº 636, de 23 de marzo de 2011, de esta Subsecretaría, autorízase a COMERCIAL E INVERSIONES LOANCO LIMITADA para desarrollar actividades de acuicultura experimental sobre Abalón rojo, cuyo objetivo general consiste en determinar la factibilidad, tanto técnica como económica, de cultivar dicho recurso en long lines dentro de la bahía Tongoy.
+
+Las actividades se desarrollarán por 5 años desde la fecha de la presente resolución, en concesiones de acuicultura otorgadas mediante resoluciones Nº 1.324, de 1997, y Nº 1.714, de 1996, y sus modificaciones, todas de la Subsecretaría de Marina, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico citado en Visto y en la resolución extractada.
+
+Valparaíso, 23 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
