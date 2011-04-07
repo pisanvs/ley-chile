@@ -48,55 +48,35 @@ Para postulaciones del Capítulo Segundo el monto de subsidio base será de 330 
 
 En ningún caso se podrá optar a los montos adicionales de subsidios complementarios que establece el D.S Nº 174 (V. y U.), de 2005.
 
-Los postulantes al presente llamado especial se encontrarán eximidos del cumplimiento del requisito de constituir hipoteca y prohibición de gravar y enajenar a favor de SERVIU y de celebrar acto o contrato alguno que importe cesión del uso y goce de la vivienda, señaladas en los artículos 1º y 55 del DS Nº 174 (V. y U.), de 2005. Sin embargo al solicitar el pago del subsidio deberán presentar una declaración jurada en la que se comprometan a no gravar ni enajenar la vivienda ni celebrar contrato alguno que importe la cesión del uso y goce de la vivienda por un plazo de 5 años, contados desde la fecha de la recepción final municipal.
-
 g) Los proyectos habitacionales que participen en el presente llamado, podrán para el área de estar comedor, no cumplir con las exigencias de las dimensiones señaladas en el cuadro normativo del Artículo 19 del D.S. 174 (V. y U.), de 2005, siempre que la superficie útil total de los recintos interiores de la vivienda alcance a lo menos a 45 m2.
 
 Por otro lado, podrán sólo conformar tres recintos: baño, cocina-estar-comedor y dormitorio principal. El dormitorio principal deberá contener una cama de dos plazas, cumpliendo las dimensiones establecidas para el dormitorio 1 del Cuadro Normativo del Artículo 19 antes señalado, siempre que la superficie útil total de los recintos interiores de la vivienda, alcance al menos 50 m2.
 
-h) Los proyectos de vivienda tipo que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, recibirán un incremento del subsidio base de hasta 200 unidades de fomento siempre que contribuyan a la recuperación del patrimonio arquitectónico y/o urbano del entorno, dando cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley N° 17.288 Sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. En aquellas localidades en que no exista una declaración de Zona de Conservación Histórica o Zona Típica o Pintoresca, o tratándose de inmuebles que no se encuentren declarados de Conservación Histórica o Monumento Histórico, y se reconozca un valor patrimonial arquitectónico que preservar, podrá autorizarse la aplicación del subsidio señalado mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, en las que deberá establecerse el perímetro del área o la identificación del inmueble en cuestión y los elementos de diseño y/o de emplazamiento que otorgan dicho carácter patrimonial, que deberán respetarse en los proyectos a presentar.
+h) Los proyectos de vivienda tipo que se emplacen en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, podrán obtener hasta 200 Unidades de Fomento adicionales siempre que contribuyan a la recuperación del patrimonio arquitectónico y/o urbano del entorno, dando cumplimiento a lo establecido en las respectivas normas, ordenanzas y/o instructivos de intervención vigentes, de acuerdo a la Ley N° 17.288 Sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. En aquellas localidades en que no exista una declaración de Zona de Conservación Histórica o Zona Típica o Pintoresca, o tratándose de inmuebles que no se encuentren declarados de Conservación Histórica o Monumento Histórico, y se reconozca un valor patrimonial arquitectónico que preservar, podrá autorizarse la aplicación del subsidio señalado mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, en las que deberá establecerse el perímetro del área o la identificación del inmueble en cuestión y los elementos de diseño y/o de emplazamiento que otorgan dicho carácter patrimonial, que deberán respetarse en los proyectos a presentar.
 
 En estos casos el proyecto de vivienda quedará eximido del cumplimiento de los requisitos exigidos en el cuadro normativo inserto en el artículo 19 del D.S. Nº 174 (V. y U.), de 2005, que Reglamenta el Programa Fondo Solidario de Vivienda y de cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de Construcción aprobado por resolución exenta Nº 2.070 (V. y U.), de 2009, a que alude el artículo 19, inciso tercero, letra c), del mismo decreto.
-
-Tratándose de proyectos que cumplan las condiciones para obtener el incremento de subsidio de hasta 200 unidades de fomento a que se refiere este literal, los honorarios que corresponda pagar a la Asesoría Técnica y Jurídica según lo establecido en el Resuelvo 5 de esta resolución, se incrementarán hasta por un monto de 30 unidades de fomento por familia, sin atender el tamaño del proyecto, por el desarrollo efectivo de las actividades que a continuación se indican:
-
-Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para Proyectos Patrimoniales
-
-En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial, se utiliza para más de una vivienda, sea que se postulen individual o colectivamente, independientemente de que los informes se ingresen en una misma o varias instancias, el incremento de 2 UF señalado en la tabla precedente se pagará por una de las viviendas, ascendiendo en las sucesivas a 0,5 UF por familia, sin importar el tamaño del proyecto o la cantidad de proyectos individuales o colectivos en los cuales se utilice dicho Informe.
-
-El incremento de los honorarios establecido en la presente Resolución, se pagará una vez recepcionadas las obras de construcción del proyecto por la Dirección de Obras Municipales respectiva.
-
-En el caso que la Asesoría Técnica y Jurídica no desarrolle efectivamente una o más de las actividades singularizadas en la tabla precedente o no se alcance, a juicio del Serviu, el producto definido, se deducirá proporcionalmente del incremento de honorarios a pagar, el monto correspondiente por la actividad no desarrollada.
-
-Con todo, en el caso que para la elaboración de los proyectos técnicos se consideren aportes provenientes del Gobierno Regional o de cualquier otra fuente pública o privada, por montos iguales o superiores al incremento de honorarios antes señalado, no procederá el incremento de honorarios dispuesto en la tabla anterior. Si el monto de dichos aportes fuere inferior, el incremento sólo procederá en la proporción que correspondiere para completarlo.
-
-Los informes que emitan los profesionales competentes deberán contener toda la información necesaria para sustentar técnicamente las soluciones constructivas contenidas en la intervención patrimonial.
-
-De acuerdo a las características de la intervención que se realice en la vivienda patrimonial, podrá seguirse el procedimiento de obtención de permiso de edificación que corresponda, de acuerdo a lo señalado en el Título 5 De la Construcción, Capítulo 1 De los Permisos de Edificación y sus Trámites, de la Ordenanza General de Urbanismo y Construcciones.
 
 i) Los postulantes al Capítulo Primero del D.S. N° 174 (V. y U.), de 2005, de este llamado en condiciones especiales, no podrán solicitar crédito hipotecario para el financiamiento de la construcción de la vivienda.
 
 j) Las postulaciones que accedan al Capítulo Segundo del D.S. N° 174 (V. y U.), de 2005, del presente llamado especial podrán optar a la construcción de una vivienda cuyo precio de venta final no podrá exceder de 1.000 unidades de fomento.
 
-k) En caso que el inmueble poseído por el postulante damnificado o por su cónyuge se encuentre sometido al procedimiento de regularización establecido en el D.L. Nº 2.695, de 1979, se podrá postular y asignar el subsidio acreditando disponibilidad de terreno mediante copia autorizada de la resolución señalada en el artículo 10º de esa ley y declaración jurada de éste de estar en posesión material del inmueble, en forma continua y exclusiva, sin violencia ni clandestinidad durante 5 años a lo menos, que no exista juicio pendiente en su contra en que se discuta el dominio o posesión del inmueble, iniciado con anterioridad a la fecha de la presentación de la solicitud. Obtenido el certificado de subsidio, y para los efectos de suscribir contrato de construcción de la vivienda, se deberá contar con la resolución señalada en el artículo 12° del D.L. Nº 2.695, de 1979. El SERVIU podrá proceder al pago del certificado de subsidio, contra acreditación de que se ha inscrito esta última resolución en el Registro de Propiedad del Conservador de Bienes Raíces, en conformidad a lo dispuesto en el artículo 14° del D.L. Nº 2.695, de 1979, sin perjuicio del cumplimiento de los restantes requisitos exigidos para dicho pago en el artículo 55 del D.S N° 174 (V. y U.), de 2005.
+k) En caso que el inmueble poseído por el postulante damnificado o por su cónyuge se encuentre sometido al procedimiento de regularización establecido en el D.L. Nº 2.695, de 1979, se podrá postular acreditando disponibilidad de terreno mediante copia autorizada de la resolución señalada en el artículo 11° de esa ley y copia del plano respectivo que acompañe a ésta. Obtenido el certificado de subsidio, y para los efectos de suscribir contrato de construcción de la vivienda, se deberá contar con la resolución señalada en el artículo 12° del D.L. Nº 2.695, de 1979. El SERVIU podrá proceder al pago del certificado de subsidio, contra acreditación de que se ha inscrito esta última resolución en el Registro de Propiedad del Conservador de Bienes Raíces, en conformidad a lo dispuesto en el artículo 14° del D.L. Nº 2.695, de 1979, sin perjuicio del cumplimiento de los restantes requisitos exigidos para dicho pago en el artículo 55 del D.S N° 174 (V. y U.), de 2005. La prohibición de enajenar por 5 años a favor del SERVIU, señalada en este último artículo, podrá ser constituida conforme a lo señalado en el inciso tercero del artículo 17° del D.L. Nº 2.695, de 1979.
 
-l) Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio a nombre de ésta mediante declaración jurada, en formato provisto por el Serviu.
+l) Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas. El postulante requerirá, además, contar con autorización notarial de los restantes herederos. El SERVIU podrá proceder al pago del subsidio, siempre que se acredite la inscripción especial de herencia del inmueble a favor de la comunidad y la constitución, por todos los comuneros, de la prohibición de enajenar a favor del SERVIU durante 5 años, contados desde la fecha de su inscripción en el Conservador de Bienes Raíces.
 
 m) Para postular al Capítulo Primero del D.S. N° 174 (V. y U.), de 2005, del presente llamado especial, sólo se aceptará una postulación por grupo familiar acreditado en la Ficha de Protección Social, a excepción que el número de integrantes sea igual o mayor a 7, en cuyo caso se podrá identificar un núcleo secundario dentro de los integrantes totales de dicha Ficha, el que podrá postular en forma independiente.
 
 n) No se encontrarán impedidos de postular al presente llamado especial, los postulantes damnificados que tengan la calidad de familia unipersonal, aunque no cumplan con las condiciones señaladas en las letras a) a la f) del número 2 del artículo 6° del D.S. N° 174 (V. y U.), de 2010, siempre que acrediten ser propietarios de la vivienda que habitaban, certificada como inhabitable.
 
-o) No será impedimento para la postulación a este llamado especial, que el sitio en que se emplace la vivienda se encuentre gravado con hipoteca. El postulante cuyo terreno se encuentre hipotecado deberá presentar previamente a la emisión de su certificado de subsidio, una declaración jurada en la que se comprometa a no enajenar la vivienda en un plazo de 5 años, contados desde la fecha de la recepción final municipal.
+o) No será impedimento para la postulación a este llamado especial, que el sitio en que se emplace la vivienda se encuentre gravado con hipoteca. Para proceder al pago del certificado de subsidio en estos casos, el SERVIU podrá eximir del cumplimiento del requisito de inscribir la prohibición de enajenar a favor de SERVIU señalada en el artículo 55 del D.S. N° 174 (V. y U.),de 2005. El postulante cuyo terreno se encuentre hipotecado deberá presentar previamente a la emisión de su certificado de subsidio, una declaración jurada en la que se comprometa a no enajenar la vivienda en un plazo de 5 años, contados desde la fecha de la recepción final municipal.
 
 Los postulantes al presente llamado especial se encontrarán también eximidos del cumplimiento del requisito de constituir hipoteca de primer grado sobre el inmueble, a favor del SERVIU, señalado en el inciso décimo del artículo 1° del D.S. N° 174 (V. y U.), de 2005.
 
-p) Los proyectos de vivienda que se emplacen en áreas declaradas como zonas con riesgo de inundación, recibirán un incremento del subsidio base de hasta 150 unidades de fomento siempre que incluyan medidas destinadas a mitigar los riesgos en cuestión. Mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, se podrá establecer el perímetro de la zona con riesgo de inundación, y las medidas de mitigación de los riesgos que deberán incluirse en los proyectos a presentar.
+p) Los proyectos de vivienda que se emplacen en áreas declaradas como zonas con riesgo de inundación, podrán obtener hasta 150 Unidades de Fomento adicionales siempre que incluyan medidas destinadas a mitigar los riesgos en cuestión. Mediante resoluciones fundadas de la SEREMI de Vivienda y Urbanismo, se podrá establecer el perímetro de la zona con riesgo de inundación, y las medidas de mitigación de los riesgos que deberán incluirse en los proyectos a presentar.
 
 q) Los proyectos que consulten como elemento constructivo tierra cruda o similares, como elemento predominante o en combinación con otros materiales, quedarán eximidos del cumplimiento del requisito de cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de Construcción aprobado por resolución exenta Nº 2.070 (V. y U.), de 2009, establecido en el artículo 19, inciso tercero, letra c), del D.S. Nº 174 (V. y U.), de 2005, que Reglamenta el Programa Fondo Solidario de Vivienda, respecto de las partidas relativas a elementos estructurales verticales, siempre que los antecedentes del proyecto incorporen un proyecto de cálculo estructural suscrito por un profesional competente calculista que deberá ser realizado, en ausencia de normas técnicas nacionales vigentes, sobre la base de normas técnicas extranjeras cuya aplicación, a criterio del revisor del proyecto de cálculo estructural, se adecue mejor al proyecto.
 
 En estos casos, la Comisión Técnico Evaluadora de SERVIU no revisará el proyecto de cálculo, debiendo cumplirse con lo señalado en la Circular Ord. N° 338, DDU Específica N° 18/2010, de fecha 26 de mayo de 2010, de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo.
-
-r) Los postulantes al presente llamado especial acreditarán dominio, sea a título personal, a nombre de su cónyuge, o en comunidad, sólo mediante declaración jurada, en formato provisto por el SERVIU.
 
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
@@ -108,7 +88,7 @@ a) Las familias podrán postular en forma individual o colectiva. La postulació
 
 El SERVIU podrá agrupar territorialmente a las familias damnificadas, para la elección y posterior desarrollo de construcción de una vivienda de proyecto tipo, según capacidad y disponibilidad de construcción que el SERVIU acredite para tal efecto. El grupo de familias definirá por mayoría simple el tipo de proyecto de vivienda a ser seleccionada, lo que deberá constar en un Acta. Tal documento deberá ser suscrito por todos los integrantes del grupo, dejando constancia que las familias que integran dicho grupo han elegido determinado proyecto tipo de vivienda.
 
-b) Una vez evaluados satisfactoriamente los antecedentes del postulante, el SERVIU entregará un certificado de seleccionado condicional, comprometiendo los recursos para esta operación. El beneficiario se mantendrá en esa condición hasta que se obtenga la aprobación por parte del SERVIU del informe realizado por la Asesoría Técnica y Jurídica y el certificado de factibilidad técnica al que se refiere el número 5.4 de esta resolución.
+b) Una vez evaluados satisfactoriamente los antecedentes del postulante, el SERVIU entregará un certificado de seleccionado condicional, comprometiendo los recursos para esta operación. El beneficiario se mantendrá en esa condición hasta que se obtenga la aprobación por parte del SERVIU del informe realizado por la Asesoría Técnica y Jurídica, en el cual se acredite la disponibilidad de terreno conforme al artículo 15 o al artículo 28, letra j) 7. del D.S. N° 174 (V. y U.), de 2005, según corresponda, o a lo dispuesto en las letras k) y l), del Resuelvo 2 de esta resolución, y el certificado de factibilidad técnica al que se refiere el número 5.4 de esta resolución.
 
 c) El SERVIU deberá proceder a registrar a las empresas disponibles para la participación de este llamado especial, en función del procedimiento y condiciones establecidas en el Oficio N° 385, de fecha 1 de junio de 2010, del Subsecretario de Vivienda y Urbanismo, o en el instrumento que lo reemplace.
 
@@ -120,21 +100,11 @@ La Asesoría Técnica y Jurídica también podrá ser desarrollada por la empres
 
 La Asesoría Técnica y Jurídica que preste la empresa constructora deberá contemplar la realización de los servicios señalados en el resuelvo 5 de esta resolución, de acuerdo a las condiciones que allí se señalan, considerando para la aprobación y pago de los servicios, la entrega de los informes, documentos y permisos que se indiquen en las Bases de Licitación para la contratación de Servicios de Asesoría Técnica y Jurídica establecidas por cada SERVIU. En caso de que el SERVIU respectivo no tenga bases de licitación vigentes para la contratación de esta asesoria, deberá fijar las condiciones para estos servicios mediante resolución.
 
-Los Serviu en las bases o resoluciones respectivas podrán establecer que, la empresa que desarrolle los servicios de Asesoría Técnica y Jurídica, garantice mediante la entrega de una sola boleta de garantía todas las operaciones contratadas o un universo determinado de operaciones contratadas o por contratar.
-
 e) Una vez ingresados los antecedentes señalados en la letra anterior, el SERVIU dispondrá de hasta 7 días hábiles, para su aprobación o rechazo, debiendo dentro del mismo plazo emitir la Resolución de Ratificación del Subsidio, si corresponde.
 
 Para aquellos casos en que, con anterioridad al sismo y posterior tsunami del 27 de febrero del año 2010, la vivienda inhabitable no hubiera contado con los servicios de agua potable y electricidad, y que no exista una red colectiva frente al terreno para abastecer de estos servicios, el SERVIU podrá emitir esta resolución para construir en dicho terreno aun cuando el proyecto de la nueva vivienda no contemple la conexión a dichos servicios, debiendo al menos contemplarse la construcción del sistema de alcantarillado de aguas servidas particular, o la conexión a una red colectiva pública o particular de aguas servidas.
 
 f) Una vez dictada la Resolución de Ratificación de Subsidio, la Asesoría Técnica y Jurídica y el postulante respectivo deberán firmar el contrato de construcción con la empresa seleccionada. Junto con ello, la empresa escogida deberá entregar una boleta bancaria de garantía extendida a favor del SERVIU en los términos en que establece los incisos cuarto y siguientes del artículo 25 del D.S. N° 174 (V. y U.), de 2005.
-
-Las empresas constructoras sólo podrán suscribir contratos de construcción simultáneamente por la cantidad de viviendas que se señalan a continuación, en función de la categoría en que se encuentren inscritas en los registros regulados por el DS Nº 127 (V. y U.), de 1977, que aprueba Reglamento el Registro Nacional de Contratistas del Ministerio de Vivienda y Urbanismo y el DS Nº 63 (V. y U.), de 1997, que aprueba Reglamento del Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada.
-
-En caso que una constructora se encuentre inscrita en ambos registros, se aplicará la capacidad de contratación mayor que le sea permitida según la tabla anterior.
-
-A medida que las empresas constructoras ejecuten viviendas y éstas sean recepcionadas a conformidad por el Serviu, podrán suscribir nuevos contratos, sin superar la capacidad máxima correspondiente, pudiendo en cualquier caso aumentar esta capacidad ascendiendo de categoría en los registros correspondientes.
-
-Las empresas que a la fecha de la publicación en el Diario Oficial de la presente Resolución se encuentren ejecutando viviendas contratadas por una cantidad superior a la correspondiente a su categoría, podrán continuar con dichas obras, sin perjuicio de no poder suscribir nuevos contratos hasta ajustarse a la capacidad máxima de acuerdo al procedimiento señalado en el inciso anterior.
 
 g) Se podrá otorgar un primer anticipo, sin necesidad de contar con avance de obra, a cuenta del pago de la construcción de la vivienda, hasta por un 20% del monto de subsidio, sólo contra boleta bancaria de garantía por el mismo valor, extendida en los mismos términos establecidos en el artículo 54 del D.S. N° 174 (V. y U.), de 2005, sin necesidad de cumplir con los demás requisitos establecidos para el pago de anticipos que señala dicho artículo.
 
@@ -144,15 +114,11 @@ Para el pago de los anticipos, se deberá acompañar la Resolución de Ratificac
 
 El monto total del subsidio no anticipado se pagará contra certificado del Departamento Técnico del SERVIU en que conste que las obras se encuentran completamente terminadas conforme al proyecto aprobado.
 
-Una vez recibidas las obras por SERVIU, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras señalada en el artículo 25 del DS Nº 174 (V. y U.), de 2005. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de dicha recepción, y deberá caucionar, además, la obtención de la recepción definitiva de obras por parte de la Dirección de Obras Municipales, del sello verde de las instalaciones de gas contemplado en la normativa de la Superintendencia de Electricidad y Combustibles, cuando corresponda y de la recepción de la solución sanitaria especial por parte del Servicio de Salud respectivo, cuando corresponda.
-
-En estos proyectos de construcción el constructor podrá entregar una Boleta de Garantía única para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos 4, 5, 6 y 7 del artículo 25 del DS Nº 174 (V. y U.), de 2005.
-
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
 5.1 Presentar al SERVIU, en un plazo de 30 días, contados desde que le son asignadas las familias a su cargo, una Carta Gantt previamente aprobada por ese Servicio, donde se establezcan las fechas de ejecución de cada una de las actividades encomendadas en los servicios contratados para cada una de las familias a su cargo. En el caso que la empresa constructora realice la asesoría técnica y jurídica, deberá entregar la Carta Gantt en el mismo plazo, contado desde que inicia el trabajo con la familia seleccionada condicionalmente.
 
-5.2 ELIMINADO.
+5.2 Elaborar en un plazo máximo de 15 días, contados desde que le son asignadas las familias a su cargo, un informe de diagnóstico de habitabilidad de la vivienda existente en el terreno, según formato entregado por el SERVIU, que determine la efectividad del estado de inhabitabilidad del inmueble o en su defecto, que se encuentra en estado habitable y que es posible efectuar su reparación, incluyendo una descripción de los daños, los elementos afectados y su ubicación en la vivienda. En el caso que la empresa constructora realice la asesoría técnica y jurídica, deberá entregar este informe en el mismo plazo, contado desde que inicia el trabajo con la familia seleccionada condicional.
 
 5.3 Asesorar y apoyar la acreditación de propiedad de terreno conforme a la letra b) del Resuelvo 4 de la presente resolución.
 
@@ -164,59 +130,77 @@ Adicionalmente el SERVIU reembolsará a la empresa hasta un máximo de 7 UF por 
 
 5.6 Inspección técnica de las obras de construcción de la vivienda, y si existiese de las obras de habilitación del terreno.
 
-La inspección técnica de obras podrá realizarse cumpliendo con lo establecido en la Guía de inspección técnica de obras para vivienda tipo a que se refiere el punto 1.7. del oficio Nº 316, de fecha 5 de abril de 2011, del Subsecretario de Vivienda y Urbanismo.
-
 5.7 Los honorarios que percibirá la Asesoría Técnica y Jurídica por el desarrollo de los servicios descritos alcanzarán un monto de hasta 15 Unidades de Fomento, y serán pagados de la siguiente manera:
 
-5.7.1 Hasta 7 Unidades de Fomento una vez
+5.7.1 Hasta 2 Unidades de Fomento contra la
 
-seleccionado el postulante por el Serviu y
+presentación al SERVIU del informe de
+
+diagnóstico de habitabilidad de la vivienda
+
+existente.
+
+5.7.2 Hasta 5 Unidades de Fomento una vez
+
+seleccionado el postulante por el SERVIU y
 
 otorgado el certificado de subsidio
 
 correspondiente.
 
-5.7.2 Hasta 5 Unidades de Fomento una vez
+5.7.3 Hasta 8 Unidades de Fomento una vez obtenida
 
-terminada la vivienda y recibida por el
+la recepción final de la vivienda construida
 
-Serviu.
+por la Dirección de Obras Municipales
 
-5.7.3 Hasta 3 Unidades de Fomento una vez
+respectiva, pagado el subsidio a la empresa
 
-obtenida la recepción final de la vivienda
+constructora de la vivienda e inscrita en el
 
-construida por la Dirección de Obras
+Conservador de Bienes Raíces respectivo la
 
-Municipales respectiva y pagado el
+prohibición de enajenar a favor de SERVIU por
 
-subsidio a la empresa constructora de la
+5 años, según lo señalado en el artículo 55
 
-vivienda.
+del D.S. N° 174 (V. y U.), de 2005, o suscrita
 
-5.7.4 Los honorarios que percibirá la empresa
+la declaración jurada señalada en el primer
+
+apartado del número 2. del mismo artículo,
+
+cuando corresponda
+
+5.7.4 Los honorarios que recibirá la empresa
 
 constructora por realizar los servicios de
 
 Asesoría Técnica y Jurídica descritos,
 
-alcanzarán un monto de hasta 10 Unidades
+alcanzarán un monto de hasta 10 Unidades de
 
-de Fomento, de los que se pagarán hasta 7
+Fomento, y serán pagados en su totalidad una
 
-Unidades de Fomento una vez seleccionado
+vez obtenida la recepción final de la vivienda
 
-el postulante por el Serviu y otorgado el
+construida por la Dirección de Obras
 
-subsidio correspondiente y hasta 3
+Municipales respectiva e inscrita en el
 
-Unidades de Fomento una vez obtenida la
+Conservador de Bienes Raíces respectivo la
 
-recepción final de la vivienda construida
+prohibición de enajenar a favor de SERVIU por
 
-por la Dirección de Obras Municipales
+5 años, según lo señalado en el artículo 55
 
-respectiva.
+del D.S. N° 174 (V. y U.), de 2005, o suscrita
+
+la declaración jurada señalada en el primer
+
+apartado del número 2. del mismo artículo,
+
+cuando corresponda.
 
 6. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el SERVIU, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
 
@@ -225,34 +209,6 @@ respectiva.
 8. En caso que la Asesoría Técnica y Jurídica determine mediante el informe de diagnóstico señalado en el punto 5.2. del resuelvo número 5 de esta resolución, que la vivienda existente en el terreno se encuentra en estado habitable y que es posible efectuar su reparación, no se continuará con el proceso de postulación, pagándose a la asesoría la parcialidad de los honorarios señalada en el punto 5.7.1. del Resuelvo 5. Posteriormente la Asesoría Técnica y Jurídica podrá postular al damnificado a los llamados especiales del Programa de Protección del Patrimonio Familiar que se dispongan para la atención de damnificados cumpliendo los requisitos que en ellos se establezcan.
 
 9. Opcionalmente a lo señalado en la letra f) del Resuelvo 2 de la presente Resolución, los proyectos de construcción que se encuentren en el Banco de Proyectos en preparación para la habilitación del terreno, podrán optar hasta el 30 de abril de 2011 a los montos desglosados de Subsidio Diferenciado a la Localización para la Habilitación de Terreno señalado en la letra f) del Resuelvo 2 de la resolución exenta N° 2.968 (V. y U.), de 2010.
-
-10. Sin perjuicio del procedimiento de postulación y selección establecido en el Resuelvo 4 de esta Resolución, los SERVIU de las regiones del Libertador General Bernardo O'Higgins, del Maule y del Bío Bío, podrán, previa suscripción de un convenio con una empresa constructora registrada de conformidad a lo dispuesto en la letra c) del citado Resuelvo 4., efectuar reservas de subsidios, bajo las siguientes condiciones:
-
-a) El SERVIU podrá reservar a cada empresa constructora con que suscriba el convenio precedentemente indicado, 30 subsidios para la construcción de igual número de viviendas tipo para beneficiarios del presente llamado especial, debiendo la empresa, en todo caso, contar con capacidad de contratación suficiente, según lo dispuesto en la letra f), del Resuelvo 4., de esta Resolución.
-
-b) Tramitada completamente la resolución que apruebe el referido convenio, el SERVIU, si las disponibilidades presupuestarias lo permiten, otorgará un anticipo por un monto equivalente hasta el 40% de cada subsidio reservado, expresado en Unidades de Fomento, debiendo la empresa constructora entregar boleta bancaria de garantía extendida a favor del SERVIU, por el mismo monto anticipado, de plazo indefinido o en su defecto por un plazo que exceda a lo menos en 180 días la vigencia de los subsidios contados desde la total tramitación de la resolución que aprueba el convenio, la que deberá dar cumplimiento a las demás exigencias establecidas para ello en el inciso quinto del artículo 54 del DS Nº 174 (V. y U.), de 2005, sin necesidad de cumplir con los requisitos establecidos para el giro de anticipos que señala dicho artículo.
-
-c) La reserva de subsidios tendrá una vigencia de hasta 180 días corridos, contados desde la fecha de la resolución que aprueba el referido convenio, plazo dentro del cual la empresa constructora deberá ingresar al SERVIU, los antecedentes técnicos, jurídicos, sociales y personales de postulación que se establecen en los Resuelvos 2 y 4. de esta Resolución, por una cantidad de personas igual al número de subsidios reservados, las que deberán cumplir con todas las exigencias para acceder al subsidio conforme al presente llamado especial.
-
-Para estos efectos la empresa constructora deberá desarrollar los servicios de Asesoría Técnica y Jurídica singularizados en el Resuelvo 5. de esta Resolución, exceptuadas las labores de Inspección Técnica de Obras, que serán realizadas por el SERVIU, directamente o a través de terceros, servicios por los que recibirá un honorario por el monto y en la oportunidad prevista en el punto 5.7.4 del número 5.7 del Resuelvo 5. de esta Resolución.
-
-d) El SERVIU dentro del plazo dispuesto en la letra e) del Resuelvo 4 aprobará o rechazará cada postulación ingresada por la empresa constructora, debiendo dentro del mismo plazo dictar la resolución de Ratificación del Subsidio, sí corresponde.
-
-e) Una vez dictada la resolución de ratificación de cada subsidio reservado, la empresa constructora deberá suscribir el contrato de construcción con el respectivo postulante, debiendo entregar una boleta bancaria de garantía extendida a favor del SERVIU para responder de las obligaciones y en los mismos términos que se establece en los incisos cuarto y siguientes del artículo 25 del DS Nº 174 (V y U.), de 2005.
-
-f) Cuando se cumpla el 30% de avance físico de las obras correspondiente, el SERVIU podrá anticipar un 30% de cada subsidio ratificado, avance que deberá ser acreditado con un informe del Inspector Técnico de Obras. Este anticipo se caucionará con la misma boleta de garantía a que se refiere la letra b) anterior.
-
-El monto correspondiente al subsidio no anticipado se pagará contra certificado del Departamento Técnico del SERVIU en que conste que las obras se encuentran completamente terminadas y recibidas por SERVIU conforme al proyecto aprobado.
-
-g) Si transcurrido el plazo de 180 días señalado en la letra d) precedente, la empresa constructora no hubiere obtenido la ratificación de uno o más de los subsidios reservados, deberá devolver el monto anticipado de el o los respectivos subsidios reservados y no ratificados, al valor vigente de la Unidad de Fomento de la fecha de la devolución, o en su defecto el SERVIU para hacerse pago hará efectiva en la suma que corresponda, la boleta de garantía entregada para caucionar estos anticipos.
-
-En el caso que se haga efectiva la boleta de garantía, la devolución a la empresa constructora de las cantidades correspondientes a los anticipos de los subsidios ratificados, sólo procederá contra entrega de una nueva boleta bancaria de garantía que caucione el valor de esos anticipos.
-
-h) El convenio que celebre el SERVIU con cada empresa constructora, deberá, a lo menos, dejar constancia de las condiciones que se contienen en este Resuelvo y las demás acciones, condiciones, compromisos y obligaciones que asumirá la empresa constructora para la ratificación de los subsidios reservados y el desarrollo y ejecución de los proyectos, como asimismo cualquier otra estipulación que se estime conveniente a los intereses de las partes, según formato tipo de convenio proporcionado por la División Técnica de Estudio y Fomento Habitacional del MINVU.
-
-11. Las condiciones dispuestas en la presente resolución podrán ser aplicables a los beneficiarios preseleccionados mediante el llamado efectuado por la resolución exenta Nº 2.968 (V. y U.), de 2010, siempre que éstas sean más favorables, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
-
-12. En el caso que familias seleccionadas, en la forma que indica la presente resolución, renuncien a su beneficio, el Ministerio de Vivienda y Urbanismo podrá destinar los recursos provenientes de esos subsidios, a la selección condicional de una nueva familia en la modalidad de construcción de viviendas en sitio propio con proyecto tipo, del Programa Fondo Solidario de Vivienda.
 
 Anótese, comuníquese, publíquese y archívese.- Andrés Iacobelli del Río, Ministro de Vivienda y Urbanismo (S).
 
