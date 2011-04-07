@@ -20,7 +20,7 @@ c) Elimínase el literal (d) de la letra b) que indica "(d) Monto máximo por es
 
 d) Sustitúyase la letra c) por la siguiente:
 
-"c) Para establecimientos ubicados en las inmediaciones de centros de enseñanza universitaria, institutos profesionales u otros similares:
+"c) Para establecimientos ubicados al interior o en las inmediaciones de centros de enseñanza universitaria, institutos profesionales u otros similares:
 
 (a) Por máquinas de hasta 15 copias por minuto: $410.000
 
@@ -31,7 +31,5 @@ d) Sustitúyase la letra c) por la siguiente:
 e) Sustitúyase el párrafo tercero por los siguientes nuevos párrafos, pasando los actuales cuarto y quinto a ser quinto y sexto, respectivamente:
 
 Por "inmediaciones" se entenderá el conjunto de calles ubicadas en un radio de mil quinientos metros, tomando como punto de referencia un centro de enseñanza universitaria, instituto profesional u otro similar.
-
-Respecto de los establecimientos ubicados al interior de un centro de enseñanza universitaria, instituto profesional u otro similar, deberá aplicarse la tarifa señalada en el número I del Título II de las presentes Tarifas.".
 
 Santiago, 6 de enero de 2011.- Fernando Sáez, Presidente.- Carlos Ossa, Secretario General.
