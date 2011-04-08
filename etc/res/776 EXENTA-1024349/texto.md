@@ -1,0 +1,3 @@
+Por resolución exenta Nº 776, de 1 de abril de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura números 205103246, 205111090, 205111087, 205111089, C.I. Subpesca Nº 5.387, de 2007, 207105010, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del D.S. Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 1 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
