@@ -1,0 +1,5 @@
+RESUMEN DE EXTRACTOS DE RESOLUCIONES EXENTAS QUE SE INDICAN, RELATIVAS A DELEGACIÓN DE FACULTADES PARA PERMITIR A QUIENES LO SOLICITEN, EL PAGO DIFERIDO DE LOS IMPUESTOS DE LA LEY DE LA RENTA
+
+1.- Por resoluciones exentas Nºs. 544 de 24.03.2011, 584 de 25.03.2011, 804 de 29.03.2011, 15 de 25.03.2011, 1253 de 01.04.2011, 2238 de 18.03.2011, 1598 de 24.03.2011, 1941 de 29.03.2011, 3190 de 31.03.2011, 1900 de 23.03.2011, 686 de 10.03.2011, 1635 de 31.03.2011, 20 de 01.04.2011, 15 de 31.03. 2011, 1794 de 30.03.2011, 45 de 29 de marzo de 2011, 2339 de 15.03.2011 y 1669 de 26.03.2011, respectivamente, los Directores de la XVIII, I, II, III, IV, V, VI, VII, VIII, IX, XVII, X, XI, XII, XIII, XIV, XV y XVI Direcciones Regionales del Servicio, conforme lo autoriza la resolución exenta Nº 48 del 2006, delegaron la facultad de autorizar a los contribuyentes que lo soliciten el pago diferido de los impuestos de la Ley de la Renta, en los funcionarios que en cada resolución de indican.
+
+Santiago, 5 de abril de 2011.- Jaime Barros Amunátegui, Secretario General Sevicio de Impuestos Internos.
