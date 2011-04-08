@@ -1,0 +1,5 @@
+Por resolución exenta Nº 735, de 31 de marzo de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 623, de 2011, de esta Subsecretaría de Pesca que autorizó al CENTRO DE ESTUDIOS PESQUEROS S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospecciones tróficas en merluza del sur (Merluccius australis), 2011", en el sentido de reemplazar el inciso 1º del numeral 7º, por el siguiente:
+
+"7.- En cumplimiento del objetivo de la presente pesca de investigación, las naves participantes podrán extraer un máximo de 595,396 toneladas de merluza del sur, las que se imputarán a las asignaciones efectuadas a las organizaciones de pescadores artesanales que se indican sometidas al Régimen Artesanal de Extracción de la señalada especie, autorizadas mediante resolución Nº 1, de 2011, de esta Subsecretaría, en los montos que se señalan en la resolución extractada.".
+
+Valparaíso, 31 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
