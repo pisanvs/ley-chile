@@ -36,7 +36,7 @@ d) Cuando no hubieren cumplido a lo menos la mitad de la pena, en los casos de c
 
 No quedarán afectos a esta última exigencia, los condenados por delitos a que la ley asigna una pena no superior a las de presidio, reclusión, confinamiento, extrañamiento y relegación menores o destierro, en su grado mínimo.
 
-e) Cuando no hubieren cumplido a lo menos, dos tercios de la pena en los casos de reincidentes, de condenados por dos o más delitos que merezcan pena aflictiva y por los delitos de parricidio, homicidio calificado, infanticidio, robo con homicidio el previsto en el número 1 del artículo 367 bis del Código Penal y elaboración o tráfico de estupefacientes, y
+e) Cuando no hubieren cumplido a lo menos, dos tercios de la pena en los casos de reincidentes, de condenados por dos o más delitos que merezcan pena aflictiva y por los delitos de parricidio, homicidio calificado, infanticidio, robo con homicidio el previsto en el artículo 411 quáter del Código Penal y elaboración o tráfico de estupefacientes, y
 
 f) Cuando habiendo obtenido la libertad condicional, se les hubiere revocado este beneficio y no fueren acreedores al indulto según el Tribunal de Conducta del respectivo establecimiento el cual deberá, para este fin, conocer los antecedentes e informar sobre la petición.
 
