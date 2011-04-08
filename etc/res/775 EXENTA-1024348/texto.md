@@ -1,0 +1,3 @@
+Por resolución exenta Nº 775, de 1 de abril de 2011, de esta Subsecretaría, recházanse las solicitudes números 205042003, 204103163, 206106070, 207106083, 205103079, 205103174, 206105075 y 207106076, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 1 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
