@@ -24,26 +24,6 @@ Taxi Colectivo 1 60 10
 
 Respecto a los servicios de locomoción colectiva urbana que se presten en las ciudades de Talca y Curicó, Fíjanse en la forma que se indica a continuación, el número máximo de variantes por línea y los porcentajes máximos de coincidencia y mínimos de divergencia del trazado de los servicios variantes.
 
-Ciudades Modo N° Variantes % %
-
-Coincidencia Divergencia
-
-Máximo Mínimo
-
-Talca Bus 5 90 10
-
-Curicó Bus 5 90 10
-
-Linares Bus 6 90 10
-
-Talca Taxi 1 20 80
-
-Colectivo
-
-Curicó Taxi 2 50 50
-
-Colectivo
-
 2.- Déjase sin efecto la resolución exenta N° 428 de fecha 17 de julio de 1997, del Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VII Región del Maule.
 
 Anótese y publíquese.- Baldemar Higueras Vivar, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región del Maule.
