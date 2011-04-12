@@ -462,21 +462,9 @@ Vaccinium vitis-idaea
 
 (Lingonberry)
 
-Vitis spp. Grapevine flavescence dorée
+Vitis spp. Grapevine flavescence
 
-(Vid) phytoplasma
-
-Grapevine vitivirus B (GVB)
-
-Grapevine rugose wood complex
-
-disease
-
-(Rupestris stem pitting;
-
-Kober stem grooving; LN33
-
-stem grooving y Corky bark)
+(Vid) dorée phytoplasma
 
 Xylella fastidiosa
 
