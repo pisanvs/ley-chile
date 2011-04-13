@@ -1150,7 +1150,7 @@ d) Las normas urbanísticas para las edificaciones e instalaciones destinadas a 
 
 e) Las normas urbanísticas que deberán cumplir las actividades productivas de impacto intercomunal.
 
-f) La fijación de las densidades promedio y las densidades máximas que podrán establecerse en los planes reguladores comunales para su elaboración o modificación, preferentemente diferenciadas por comunas o sectores de éstas.
+f) La fijación de las densidades promedio y/o las densidades máximas que podrán establecerse en los planes reguladores comunales para su elaboración o modificación, preferentemente diferenciadas por comunas o sectores de éstas.
 
 g) La definición del uso de suelo de área verde de nivel intercomunal.
 
@@ -1540,7 +1540,7 @@ Las "zonas no edificables" corresponderán a aquellas franjas o radios de protec
 
 Las "áreas de riesgo" se determinarán en base a las siguientes características:
 
-1. Zonas inundables o potencialmente inundables, debido entre otras causas a la proximidad de lagos, ríos, esteros, quebradas, cursos de agua no canalizados, napas freáticas o pantanos.
+1. Zonas inundables o potencialmente inundables, debido entre otras causas a maremotos o tsunamis, a la proximidad de lagos, ríos, esteros, quebradas, cursos de agua no canalizados, napas freáticas o pantanos.
 
 2. Zonas propensas a avalanchas, rodados, aluviones o erosiones acentuadas.
 
