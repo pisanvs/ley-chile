@@ -18,8 +18,6 @@ El número de proyectos seleccionados y preseleccionados en cada Región alcanza
 
 3. Mediante resolución de la Ministra de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de los proyectos seleccionados y preseleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El numeral 1 de la Resolución 8976 Exenta, Vivienda, publicada el 23.12.2011, modifica el cuadro inserto en el Resuelvo 2 de la presente norma, correspondiente a los montos de subsidio otorgados a las regiones que concursaron en el llamado, en el sentido de reemplazar las filas correspondientes a los Recursos (UF) otorgados a la Región de Tarapacá y al Total País, por las que en la citada norma se indican.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Guillermo Rolando Vicente, Subsecretario de Vivienda y Urbanismo subrogante.
