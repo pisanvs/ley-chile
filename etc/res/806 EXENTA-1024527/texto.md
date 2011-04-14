@@ -1,0 +1,3 @@
+Por resolución exenta Nº 806, de 6 de abril de 2011, de esta Subsecretaría, declárase la caducidad total de la resolución exenta Nº 1.451 de 2001, de esta Subsecretaría, que autorizó a PESQUERA DEL ESTRECHO S.A. para continuar actividades pesqueras extractivas con la nave "Curaco", en virtud de lo dispuesto en el artículo 143 letra b de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 6 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
