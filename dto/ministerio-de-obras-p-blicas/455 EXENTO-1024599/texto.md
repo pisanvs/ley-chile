@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº455 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº12, superficie 243 m², rol Nº126-8, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario Manuel Segundo Rojas Muñoz, ascendente a la cantidad de $3.950.397.-
+
+Fiscal del Ministerio de Obras Públicas.
