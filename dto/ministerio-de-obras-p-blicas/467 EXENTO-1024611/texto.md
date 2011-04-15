@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº467 de 28 de marzo de 2011, se expropió el lote de terreno Nº37A, superficie 11 m2, rol de Avalúo 1349-10, comuna de Valdivia, para la obra "MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831". PROVINCIA DE VALDIVIA, XIV REGION, TRAMO Nº1, y se acordó el valor de la indemnización con su propietario GUSTAVO ALAN MENA DÍAZ o GUSTAVO MENA DÍAZ, ascendente a la cantidad de $1.055.275.-
+
+Fiscal del Ministerio de Obras Públicas.
