@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº471, de 28 de marzo de 2011, se expropió el lote de terreno Nº129-C, superficie 640 m2., Rol Nº275-68, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con su propietaria MARÍA CONCEPCIÓN BERRÍOS ARÉVALO, ascendente a la cantidad de $1.878.055.-
+
+Fiscal del Ministerio de Obras Públicas.
