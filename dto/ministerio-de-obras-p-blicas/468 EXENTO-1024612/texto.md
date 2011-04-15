@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº468 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº52, superficie 932 m², rol Nº602-66, comuna de Tomé para la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 20,30000 a Km. 23,92041, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario María Ana Aravena Torres, ascendente a la cantidad de $1.242.501.-
+
+Fiscal del Ministerio de Obras Públicas.
