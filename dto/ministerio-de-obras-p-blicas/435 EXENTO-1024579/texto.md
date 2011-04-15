@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº435 de 28 de marzo de 2011, se expropió el lote de terreno Nº30A, superficie 15 m2, rol de Avalúo 1349-2, comuna de Valdivia, para la obra "MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831". PROVINCIA DE VALDIVIA, XIV REGION, TRAMO Nº1, y se acordó el valor de la indemnización con su propietario ARNOLDO GUMÁN ESCHMAN o ARNOLDO GUZMÁN ESCHMANN, ascendente a la cantidad de $1.322.648.-
+
+Fiscal del Ministerio de Obras Públicas.
