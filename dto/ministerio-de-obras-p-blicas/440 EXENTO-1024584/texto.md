@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº440 de 28 de marzo de 2011, se expropiaron los lotes de terrenos N°s. 30, 32 y 34, superficies 6.195, 3.379 y 10.116 m2, rol de Avalúo 211-14, comuna de Florida, para la obra "MEJORAMIENTO RUTA 0-390, CRUCE RUTA 148 (Florida) AUTOPISTA ITATA, REGIÓN DEL BÍO BÍO", y se acordó el valor de la indemnización con su propietario CESAR AUGUSTO OTÁROLA DE LA CRUZ, ascendente a la cantidad de $18.406.170.-
+
+Fiscal del Ministerio de Obras Públicas.
