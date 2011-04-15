@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº442 de 28 de marzo de 2011, se expropió el lote de terreno Nº11, superficie 693 m2, rol de Avalúo 207-30, comuna de Florida, para la obra "REPOSICION RUTA 148, S: QUILLON AGUA DE LA GLORIA (POR TRAMOS), KM. 28,69536 A KM. 39,66000, REGIÓN DEL BÍO BÍO", VIII Región y se acordó el valor de la indemnización con sus propietarios ELBA AMALIA URIBE CARTES Y OTROS, ascendente a la cantidad de $16.271.458.-
+
+Fiscal del Ministerio de Obras Públicas.
