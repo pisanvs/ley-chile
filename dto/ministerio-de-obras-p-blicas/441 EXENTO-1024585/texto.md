@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº441 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº5, superficie 4.089 m2, rol Nº126-1, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario MARCO HERIBERTO ACUÑA MONTERO Y OTRA, ascendente a la cantidad de $14.843.743.-
+
+Fiscal del Ministerio de Obras Públicas.
