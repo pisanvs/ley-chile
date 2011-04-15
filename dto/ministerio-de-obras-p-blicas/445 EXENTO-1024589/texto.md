@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº445 de 28 de marzo de 2011, se expropió el lote de terreno Nº10, superficie 1.948 m2, Rol Nº8020-5 , comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO - JUNTA DE VALERIANO, ETAPA II, (LA PAMPA CONAY, KM. 44,040000 AL KM. 46,42610)", y se acordó el valor de indemnización con don RAÚL DEL ROSARIO FLORES GARATE, ascendente a la cantidad de $905.606.-
+
+Fiscal del Ministerio de Obras Públicas.
