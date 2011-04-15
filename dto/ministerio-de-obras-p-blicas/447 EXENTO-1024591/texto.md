@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº447, de 28 de marzo de 2011, se expropió el lote de terreno Nº10, superficie 242 m2., Rol Nº2218-878, comuna de San Juan de la Costa, X Región, "CONSERVACION GLOBAL DE VARIOS CAMINOS, SECTOR NORTE DE LA PROVINCIA DE OSORNO, II ETAPA", y se acordó el valor de indemnización con su propietario KUEI-CHI CHEN, ascendente a la cantidad de $427.419.-
+
+Fiscal del Ministerio de Obras Públicas.
