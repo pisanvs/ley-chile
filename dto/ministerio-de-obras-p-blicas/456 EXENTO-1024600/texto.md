@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº456 de 28 de marzo de 2011, se expropió el lote de terreno Nº44A, superficie 49 m2, rol de Avalúo 1353-4, comuna de Valdivia, para la obra "CAMINO MEJORAMIENTO PASADA POR VALDIVIA, SECTOR EJE PEDRO AGUIRRE CERDA, TRAMO KM. 0,00000 KM. 3,59831", PROVINCIA DE VALDIVIA, XIV REGION, TRAMO Nº2", y se acordó el valor de la indemnización con su propietaria RUTH AMELIA VILLAGRA LEAL, ascendente a la cantidad de $3.614.038.-
+
+Fiscal del Ministerio de Obras Públicas.
