@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº470, de 28 de marzo de 2011, se expropió el lote de terreno Nº95-C, superficie 903 m2., Rol Nº275-108, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con sus propietarios RICHARD ANTONIO VENEGAS SEPÚLVEDA, CLAUDIO MARCELO VENEGAS SEPÚLVEDA, CAROLINA DEL CARMEN VENEGAS SEPÚLVEDA, HERNÁN RODRIGO VENEGAS SEPÚLVEDA y LUIS HUMBERTO VENEGAS SEPÚLVEDA, ascendente a la cantidad de $1.567.389.-
+
+Fiscal del Ministerio de Obras Públicas.
