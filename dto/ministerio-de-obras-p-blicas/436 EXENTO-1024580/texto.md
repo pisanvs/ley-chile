@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº436 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº14, superficie 8.255 m2, rol Nº126-33, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario LUIS DEL CARMEN RIVERA BARRAZA, ascendente a la cantidad de $88.964.243.-
+
+Fiscal del Ministerio de Obras Públicas.
