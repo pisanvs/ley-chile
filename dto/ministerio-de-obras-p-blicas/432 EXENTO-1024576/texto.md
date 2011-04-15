@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº432 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº5, superficie 102 m2, rol Nº149-47, comuna de Quinchao para la obra "Conservación Camino Básicos, Achao - Quinchao - Chequian, Sector Quinchao - Chequian", Provincia de Chiloé y se acordó el valor de la indemnización con su propietaria MARÍA MATILDE VIVAR VIVAR, ascendente a la cantidad de $386.916.-
+
+Fiscal del Ministerio de Obras Públicas.
