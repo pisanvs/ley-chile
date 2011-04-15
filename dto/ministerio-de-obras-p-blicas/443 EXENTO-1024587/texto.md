@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº443, de 28 de marzo de 2011, se expropió el lote de terreno Nº152-B, superficie 924 m2., Rol Nº276-138, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con sus propietarios GUSTEMBER ANTONIO GONZÁLEZ MÁRQUEZ, SYLVIA INÉS VENEGAS GONZÁLEZ Y JUAN CARLOS GONZÁLEZ GONZÁLEZ, ascendente a la cantidad de $14.694.322.-
+
+Fiscal del Ministerio de Obras Públicas.
