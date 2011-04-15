@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº3108 de fecha 30 de diciembre de 2010, se expropió el lote de terreno Nº22-A, superficie 226 m2, rol Nº639-251, para la obra "Camino Mejoramiento Ruta K-175, Sector Tres Esquinas Las Trancas, Km. 8,306.62 al Km. 25,735.24, Comuna de Molina, Provincia de Curicó, VII Región" y se acordó el valor de la indemnización con su propietario JORGE ELEOGABALO VALDERRAMA PIZARRO, ascendente a la cantidad de $828.113.-
+
+Fiscal del Ministerio de Obras Públicas.
