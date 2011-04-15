@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº453 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº9, superficie 1018 m², rol Nº126-17, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario Daniel Campusano Toro, ascendente a la cantidad de $5.044.550.-
+
+Fiscal del Ministerio de Obras Públicas.
