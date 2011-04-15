@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº433 de 28 de marzo de 2011, se expropió el lote de terreno Nº25, superficie 39 m2, rol de Avalúo 236-21, comuna de Los Lagos, para la obra "MEJORAMIENTO RUTA T-35, SECTOR LOS LAGOS VALDIVIA, TRAMO KM. 0,00000 A KM. 16,60000", COMUNA LOS LAGOS, PROVINCIA DE VALDIVIA, REGIÓN DE LOS RÍOS, y se acordó el valor de la indemnización con su propietaria CECILIA JACQUELIN GONZÁLEZ MUÑOZ, ascendente a la cantidad de $569.447.-
+
+Fiscal del Ministerio de Obras Públicas.
