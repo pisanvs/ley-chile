@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.919, de 25 de marzo de 2011, se publicó el decreto Nº 28, que "Modifica la Concesión de Radiodifusión Sonora en Amplitud Modulada para la ciudad de Santiago a Radiodifusora Carrera Limitada", con la omisión del alcance con que a través del dictamen Nº 15.827, de 2011, la Contraloría General de la República cursara dicho decreto y que se salva a continuación, cuerpo II, página 4, segunda columna, al final del decreto, debe agregarse lo siguiente:
