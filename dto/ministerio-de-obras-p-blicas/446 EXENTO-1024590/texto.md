@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº446, de 28 de marzo de 2011, se expropió el lote de terreno Nº13, superficie 486 m2., Rol Nº2218-885, comuna de San Juan de la Costa, X Región, "CONSERVACION GLOBAL DE VARIOS CAMINOS, SECTOR NORTE DE LA PROVINCIA DE OSORNO, II ETAPA", y se acordó el valor de indemnización con su propietario MARCELO PATRICIO CÁRCAMO QUELIN, ascendente a la cantidad de $481.794.-
+
+Fiscal del Ministerio de Obras Públicas.
