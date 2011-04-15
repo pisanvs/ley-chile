@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº469, de 28 de marzo de 2011, se expropió el lote de terreno Nº14, superficie 1.750 m2., Rol Nº2218-844, comuna de San Juan de la Costa, X Región, "CONSERVACION GLOBAL DE VARIOS CAMINOS, SECTOR NORTE DE LA PROVINCIA DE OSORNO, II ETAPA", y se acordó el valor de indemnización con su propietario HERNANDO DEL CARMEN PALMA ARRIAGADA, ascendente a la cantidad de $2.084.423.-
+
+Fiscal del Ministerio de Obras Públicas.
