@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº464, de 28 de marzo de 2011, se expropió el lote de terreno Nº69-B2, superficie 235 m2., Rol Nº281-48, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", y se acordó el valor de indemnización con sus propietarios MARIO ANTONIO AVILA ARAYA y DORALISA DEL CARMEN AVILA ARAYA, ascendente a la cantidad de $1.904.058.-
+
+Fiscal del Ministerio de Obras Públicas.
