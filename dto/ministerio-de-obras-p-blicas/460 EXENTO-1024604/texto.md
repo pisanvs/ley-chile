@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº460 de fecha 28 de marzo de 2011, se expropiaron los lotes de terreno N°s 3 y 4, superficies 964 y 108 m² respectivamente, rol Nº389-41, comuna de Quinchao para la obra "Conservación Camino Básicos, Achao - Quinchao - Chequian, Sector Quinchao - Chequian", Provincia de Chiloé y se acordó el valor de la indemnización con su propietario María Margarita Guichaquelen Ruiz, ascendente a la cantidad de $1.928.610.
+
+Fiscal del Ministerio de Obras Públicas.
