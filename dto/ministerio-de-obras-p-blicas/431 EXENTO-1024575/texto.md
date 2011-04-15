@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº431 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº55, superficie 188 m2, rol Nº435-83, comuna de Cauquenes para la obra "Camino Reposición Pav. Ruta M-50, Sector Cauquenes - Chanco, Tramo Cauquenes - Tutuven Km. 2,65000 a Km. 15,24724, Comuna de Cauquenes, Provincia de Cauquenes, Región del Maule" y se acordó el valor de la indemnización con su propietario CARMEN DE LAS MERCEDES PALMA DÍAZ, ascendente a la cantidad de $806.203.-
+
+Fiscal del Ministerio de Obras Públicas.
