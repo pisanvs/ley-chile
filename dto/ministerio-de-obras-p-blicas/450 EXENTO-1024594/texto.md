@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº450 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº37-A, superficie 779 m2, rol Nº30-298, comuna de Placilla para la obra "Camino Ampliación Reposición Ruta I-50, sector San Fernando cruce Ruta I-860. T0ramo, Km. 0,00000 a Km. 35,78646" y se acordó el valor de la indemnización con su propietaria MARICEL IVONNE DURÁN ALIAGA, ascendente a la cantidad de $5.977.654.-
+
+Fiscal del Ministerio de Obras Públicas.
