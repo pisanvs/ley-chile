@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº457 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº14, superficie 83 m², rol Nº915-06, comuna de Alto del Carmen para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II, (La Pampa - Conay, Km. 44,04000 al Km. 46,42610)" y se acordó el valor de la indemnización con su propietario Nelly del Rosario Seura Oviedo y otros, ascendente a la cantidad de $2.083.589.-
+
+Fiscal del Ministerio de Obras Públicas.
