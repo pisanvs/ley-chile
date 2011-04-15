@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº444, de 28 de marzo de 2011, se expropiaron los lotes de terreno Nºs. 58, 59, 60, 61 y 62, superficies 2.927, 7.701, 528, 1.003 y 285 m2., Rol Nº444-372, comuna de Cauquenes, VII Región, "CAMINO CAUQUENES CHANCO NºROL M-50, SECTOR TUTUVEN CHANCO, TRAMO KM. 15,20000 A KM. 28,80000", y se acordó el valor de indemnización con sus propietarios ANA MARÍA VILLEGAS VELOSO, MARÍA VIRGINIA DÍAZ VILLEGAS, MARÍA EUGENIA DÍAZ VILLEGAS y VERÓNICA DEL ROSARIO DÍAZ VILLEGAS, ascendente a la cantidad de $12.150694.-
+
+Fiscal del Ministerio de Obras Públicas.
