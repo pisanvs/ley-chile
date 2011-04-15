@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº451 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº3, superficie 301 m², rol Nº116-86, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario Contador Frutos S.A., ascendente a la cantidad de $5.878.857.-
+
+Fiscal del Ministerio de Obras Públicas.
