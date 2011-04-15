@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº438 de 28 de marzo de 2011, se expropió el lote de terreno Nº23, superficie 3.102 m2, rol de Avalúo 3206-71, comuna de Temuco, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO LABRANZA KM. 4,61500 A KM. 11,68000. PROVINCIA DE CAUTÍN, COMUNA DE TEMUCO, REGIÓN DE LA ARAUCANÍA", y se acordó el valor de la indemnización con su propietaria doña IRMA CUMINAO GARCÍA, ascendente a la cantidad de $34.615.386.-
+
+Fiscal del Ministerio de Obras Públicas.
