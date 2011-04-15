@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº430, de 28 de marzo de 2011, se expropió el lote de terreno Nº46, superficie 169 m2., Rol Nº444-167, comuna de Cauquenes, VII Región, "CAMINO CAUQUENES CHANCO, NºROL M-50, SECTOR TUTUVEN CHANCO, TRAMO KM. 15,20000 A KM. 28,80000", y se acordó el valor de indemnización con su propietario CARLOS HUMBERTO URRUTIA BASTIAS, ascendente a la cantidad de $542.968.-
+
+Fiscal del Ministerio de Obras Públicas.
