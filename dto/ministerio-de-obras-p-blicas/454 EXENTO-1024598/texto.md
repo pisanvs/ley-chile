@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº454 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº35, superficie 704 m², rol Nº30-98, comuna de Placilla para la obra "Camino Ampliación Reposición Ruta I-50, sector San Fernando cruce Ruta I-860. Tramo, Km. 0,00000 a Km. 35,78646" y se acordó el valor de la indemnización con su propietario Rubén Patricio Vilches Becerra, ascendente a la cantidad de $4.840.924.-
+
+Fiscal del Ministerio de Obras Públicas.
