@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº439 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº28B, superficie 421 m2, rol Nº3600-173, comuna de Coquimbo para la obra "Mejoramiento Ruta D-35 (Camino La Cantera) S: Av. Del Mar - Ruta 43" Etapa I, IV Región y se acordó el valor de la indemnización con su propietaria EUGENIA ARACENA GAMBOA, ascendente a la cantidad de $33.063.878.-
+
+Fiscal del Ministerio de Obras Públicas.
