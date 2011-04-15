@@ -1,0 +1,3 @@
+Por decreto MOP (exento) Nº465 de fecha 28 de marzo de 2011, se expropió el lote de terreno Nº24, superficie 623 m², rol Nº115-21, comuna de Punitaqui para la obra "Mejoramiento Ruta D-555, San Julián - Las Ramadas de Punitaqui", IV Región y se acordó el valor de la indemnización con su propietario Lorenzo Díaz Astudillo, ascendente a la cantidad de $1.806.978.-
+
+Fiscal del Ministerio de Obras Públicas.
