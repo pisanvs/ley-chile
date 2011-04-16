@@ -40,7 +40,7 @@ Sólo el Intermediario financiero podrá optar a la Cobertura, la que tendrá un
 
 ### 2. Beneficiarios Finales
 
-Serán beneficiarios finales del instrumento las empresas privadas (personas jurídicas o personas naturales con giro) productoras de bienes y/o prestadoras de servicios, en adelante también "el beneficiario final", que a continuación se indican:
+Serán beneficiarios finales del instrumento las empresas privadas (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y/o prestadoras de servicios, en adelante también "el beneficiario final", que a continuación se indican:
 
 a) Empresas relacionadas directa o indirectamente con el comercio exterior, con ventas hasta por UF 100.000 al año, excluido el IVA. y;
 
@@ -86,15 +86,23 @@ En virtud de lo dispuesto en el Decreto Supremo de Hacienda N° 793, de 2004, la
 
 ### 6. Condiciones de la Cobertura
 
-El porcentaje y topes máximos de coberturas sobre el saldo de capital insoluto de la operación por beneficiario final, se determinará en función de las ventas netas anuales de dichos beneficiarios, y la naturaleza de la operación acogida a la cobertura de que se trate; en base a la siguiente Tabla:
+El porcentaje y topes máximos de coberturas sobre el saldo de capital insoluto de la operación por beneficiario final, se terminará en función de las ventas netas anuales de dichos beneficiarios, y la naturaleza de la operación acogida a la cobertura de que se trate; en base a la siguiente Tabla Nº 1:
 
-Sin perjuicio de lo anterior, el porcentaje máximo de la Cobertura a las operaciones que celebren los beneficiarios finales a que se refiere el párrafo tercero del numeral 2°, será de hasta el 70% del saldo de capital insoluto del crédito, con un tope máximo de UF9.000 por beneficiario final; en tal caso en consecuencia, cada uno de los topes máximos por empresa indicados en la cuarta columna de la Tabla anterior, se aumentará hasta en UF9.000 adicionales. Además, el monto final de la Cobertura a las operaciones de derivados, para empresas exportadoras con ventas superiores a 100.000 UF, tendrá un tope máximo referido a cada empresa de hasta UF 9.000.
+Además, el monto final de la Cobertura a las operaciones de derivados, para empresas exportadoras con ventas superiores a 100.000 UF, tendrá un tope máximo referido a cada empresa de hasta UF 9.000.
 
-El tope máximo por empresa indicado en la cuarta columna de la Tabla, que corresponderá a un tope máximo y común para los siguientes programas de cobertura de CORFO, actualmente vigentes: "Programa de Cobertura para Reprogramación de Créditos", "Programa de Cobertura al Fomento del Comercio Exterior-COBEX" y "Programa de Cobertura a Préstamos de Bancos e Intermediarios Financieros-FOGAIN", en la medida que las empresas califiquen como beneficiarias para dichos instrumentos. La inclusión de Programas de Coberturas que en el futuro se aprobare por parte de CORFO, en el tope máximo y común antes señalado, quedará expresamente indicada en cada reglamento respectivo.
+Por otro lado, el tope máximo por empresa indicado en la cuarta columna de la Tabla Nº 1, corresponderá a un tope máximo y común para los siguientes programas de cobertura de CORFO, actualmente vigentes: "Programa de Cobertura para Reprogramacián de Créditos", "Programa de Cobertura al Fomento del Comercio Exterior-COBEX" y "Programa de Cobertura a Préstamos de Bancos e Intermediarios Financieros-FOGAIN", en la medida que las empresas califiquen como beneficiarias para dichos instrumentos.
 
-Por lo tanto, podrá otorgarse cobertura a más de una operación mientras exista margen disponible en los recursos en la Cuenta, calculado conforme a las normas que establece este numeral, y mientras cada una de las Coberturas otorgadas conforme al presente Reglamento no superen los límites porcentuales señalados en la Tabla o, en el conjunto de las dichas Coberturas de un mismo beneficiario final, no se excedan los topes máximos antes indicados. Con todo, un Intermediario podrá solicitar para una operación una Cobertura porcentual menor a la que resulte de aplicar las reglas señaladas.
+El tope máximo y común a que se refiere el párrafo anterior, no aplicará para las operaciones que celebren los beneficiarios finales a que se refiere el párrafo tercero del numeral 2º. Sin perjuicio de lo anterior, el porcentaje y tope máximo específico de coberturas sobre el saldo de capital insoluto de dichas operaciones se determinará en base a la siguiente Tabla Nº 2:
 
-Dicha cobertura no cubrirá intereses, a excepción de los intereses capitalizados por concepto de período de gracia, ni tampoco cubrirá gastos de cobranza, ni costas procesales o personales, ni comisiones diferentes a la señalada en el numeral 8° posterior, si procediere dicha comisión.
+Por último, el tope máximo por empresa indicado en la tercera columna de la Tabla Nº 2, corresponderá a un tope máximo y común que aplicará para las inversiones que tengan relación con el párrafo anterior para los siguientes programas de cobertura de CORFO, actualmente vigentes: "Programa de Cobertura al Fomento del Comercio Exterior-COBEX" y "Programa de Cobertura a Préstamos de Bancos e Intermediarios Financieros-FOGAIN", en la medida que las empresas califiquen como beneficiarias para dichos instrumentos.
+
+Se deja expresamente establecido que los beneficiarios finales antes mencionados, podrán acoger simultáneamente al presente instrumento, operaciones que tengan relación con el párrafo tercero del numeral 2º antes señalado, como que no tengan relación alguna con dicho párrafo; en cuyo caso, para las primeras operaciones aplicará exclusivamente la Tabla Nº 2 y para las segundas aplicará exclusivamente la Tabla Nº 1.
+
+Por lo tanto, podrá otorgarse cobertura a más de una operación mientras exista margen disponible en los recursos en la Cuenta, calculado conforme a las normas que establece este numeral, y mientras cada una de las Coberturas otorgadas conforme al presente Reglamento no superen los límites porcentuales señalados en la Tabla respectiva o, en el conjunto de las Coberturas de un mismo beneficiario final, no se excedan los topes máximos antes indicados. Con todo, un Intermediario podrá solicitar para una operación
+
+una Cobertura porcentual menor a la que resulte de aplicar las reglas señaladas.
+
+La cobertura no cubrirá intereses, a excepción de los intereses capitalizados por concepto de período de gracia, ni tampoco cubrirá gastos de cobranza, ni costas procesales o personales, ni comisiones diferentes a la señalada en el numeral 8º posterior, si procediere dicha comisión.
 
 El Intermediario podrá novar al deudor de la operación, siempre que la elegibilidad del mismo esté conforme con las restricciones establecidas en este instrumento. Dicha novación deberá ser expresamente autorizada por el Gerente de Inversión y Financiamiento de CORFO, en adelante también "el Gerente".
 
@@ -150,7 +158,7 @@ El cobro de la comisión a que se refiere este numeral, deberá ser informado ex
 
 En caso de mora del beneficiario final, para hacer efectivo el desembolso de la Cobertura, el Intermediario deberá presentar a CORFO, dentro del plazo fatal de 425 días corridos contado desde la mora en el pago de la operación, y una vez que haya iniciado las correspondientes acciones de cobro, un requerimiento fundamentado y escrito, acompañando una "Declaración Jurada Simple" del Gerente General o de quien esté autorizado para actuar frente a CORFO para este efecto, con los siguientes antecedentes:
 
-a) Fotocopia del título ejecutivo, incluidas sus modificaciones.
+a) Fotocopia del título ejecutivo en el cual se fundan las acciones judiciales de cobranza respectivas, incluidas sus modificaciones. Sin embargo, para el caso de las operaciones de leasing financiero o leaseback, se deberá acompañar fotocopia de la protocolización del contrato respectivo.
 
 b) Fotocopia de los informes de las tasaciones a valores comerciales y de liquidación respectivas de los bienes entregados como garantías reales, si las hubiere, y copia de los informes sobre las garantías personales y de los otros mitigadores de riesgo si existieren.
 
