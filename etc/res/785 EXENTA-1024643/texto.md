@@ -1,0 +1,3 @@
+Por resolución exenta Nº 785, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 338 de 2011, de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP Nº 2009-09 denominado "Evaluación hidroacústica de merluza del sur y merluza de cola en aguas interiores de la X y XI Regiones, año 2009", en el sentido de señalar que el estudio se extenderá hasta el 15 de abril de 2011, inclusive.
+
+Valparaíso, 5 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
