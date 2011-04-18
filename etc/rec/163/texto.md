@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.912, de 17 de marzo del 2011, se publicó el decreto Nº 378, que "Otorga Concesión de Radiodifusión Sonora en Frecuencia Modulada para la Localidad de Mejillones", con la omisión del alcance con que a través del oficio Nº 3848, de 2011 la Contraloría General de la República cursara dicho decreto, y que se salva a continuación, Cuerpo II, Página 11, segunda columna, al final del decreto, debe agregarse lo siguiente:
