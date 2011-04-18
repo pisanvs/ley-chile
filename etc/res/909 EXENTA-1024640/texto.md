@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 909 EXENTA, DE 2011
+
+Por resolución exenta Nº 909, de fecha 1 de abril de 2011, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Hernán Alejandro Castro Gutiérrez E.I.R.L.", cuyo nombre de fantasía es "AUTOCHILE E.I.R.L.", RUT Nº 76.003.735-4, cuyo representante legal y director es el señor Hernán Alejandro Castro Gutiérrez, RUT Nº 9.090.082-K, la que tendrá su lugar de funcionamiento en el local ubicado en Av. Las Condes Nº 9308, local 1, comuna de Las Condes.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana (S).
