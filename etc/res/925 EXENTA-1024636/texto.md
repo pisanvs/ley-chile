@@ -1,0 +1,3 @@
+Por resolución exenta Nº 925, de 12 de abril de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nºs 208106064, 208106074, 209042010, 209101129, 207122044, 208103162, 209106014 y 207122038, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 12 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
