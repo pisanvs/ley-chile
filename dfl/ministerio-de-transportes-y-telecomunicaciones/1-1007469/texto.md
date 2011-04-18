@@ -924,6 +924,10 @@ Los conductores, serán responsables del uso obligatorio de sillas para niños m
 
 Los vehículos de transporte escolar deberán estar equipados con cinturón de seguridad para todos sus pasajeros y su uso será obligatorio en todos los vehículos cuyo año de fabricación sea 2007 en adelante.
 
+Las mismas obligaciones establecidas en el inciso anterior regirán para los minibuses cuyo año de fabricación sea 2012 en adelante.
+
+Los buses que presten servicios de transporte interurbano público o privado de pasajeros deberán estar equipados con cinturón de seguridad en todos sus asientos. Su uso será obligatorio para el pasajero, salvo que dicho elemento no funcione, en cuyo caso la infracción a esta obligación será imputable al propietario del vehículo. Esta obligación será exigible a los buses que presten servicios de transporte público interurbano de pasajeros cuyo año de fabricación sea 2008 en adelante. En los buses de transporte privado interurbano de pasajeros dichas exigencias serán aplicables en vehículos cuyo año de fabricación sea 2012 o posterior. Sin perjuicio de lo anterior, su uso será obligatorio en todos aquellos vehículos que dispongan de cinturón de seguridad, cualquiera sea su año de fabricación, pudiendo el conductor del vehículo solicitar el descenso del pasajero que se niegue a usarlo, además de la multa a que se expone el pasajero.
+
 #### Artículo 76
 
 Se prohíbe el transporte de animales domésticos en los asientos delanteros de los vehículos. Cuando éstos sean transportados en la parte trasera de camionetas u otros vehículos abiertos, deberán ir suficientemente asegurados con arneses especiales.
@@ -2110,9 +2114,7 @@ n o de frenos en condiciones deficientes;
 
 31. Conducir un vehículo infringiendo lo dispuesto en el número 10 del artículo 75;
 
-32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efect
-
-úe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
+32. Conducir haciendo uso de un teléfono celular u otro aparato de telecomunicaciones, salvo que tal uso se efectúe por medio de un sistema de "manos libres", cuyas características serán determinadas por reglamento;
 
 33. Mantener abiertas las puertas de un vehículo de locomoción colectiva mientras se encuentra en movimiento; llevar pasajeros en las pisaderas o no detenerse junto a la acera al tomar o dejar pasajeros;
 
@@ -2128,9 +2130,11 @@ n o de frenos en condiciones deficientes;
 
 39. Detenerse, tratándose de medios de locomoción pública, en la intersección de calles, a dejar o tomar pasajeros en segunda fila o en paraderos no autorizados;
 
-40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves, y
+40. Toda infracción declarada por el juez como causa principal de un accidente de tránsito que origine daño o lesiones leves;
 
-41. No pagar la tarifa en vehículos de locomoción colectiva.
+41.- Infringir lo dispuesto en el inciso final del artículo 75, y
+
+42. No pagar la tarifa en vehículos de locomoción colectiva.
 
 En los casos de las infracciones de los números 14, 16, 18, 21 y 24, si ellas fueran cometidas por un conductor de un vehículo destinado al transporte público de pasajeros o al transporte de carga y que no fuere el dueño, se le aplicará la pena correspondiente a una infracción leve y no se anotará en el Registro Nacional de Conductores, salvo en los casos establecidos en el Nº 38 de este artículo
 
