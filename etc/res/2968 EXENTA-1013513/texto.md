@@ -434,13 +434,9 @@ y la constitución, por todos los comuneros, de
 
 la prohibición de enajenar a favor del Serviu,
 
-durante 5 años o 15 años en el caso de haber
+durante 5 años, contados desde la fecha de su
 
-obtenido subsidio a la localización, contados
-
-desde la fecha de su inscripción en el
-
-Conservador de Bienes Raíces.
+inscripción en el Conservador de Bienes Raíces.
 
 m. Para postular al Capítulo Primero del
 
@@ -515,6 +511,18 @@ enajenar la vivienda en un plazo de 5 años,
 contados desde la fecha de la recepción final
 
 municipal.
+
+Los postulantes al presente llamado especial
+
+se encontrarán también eximidos del cumplimiento
+
+del requisito de constituir hipoteca de primer
+
+grado sobre el inmueble, a favor del SERVIU,
+
+señalado en el inciso décimo del artículo 1º
+
+del DS Nº 174 (V. y U.), de 2005
 
 p. Los proyectos de vivienda que se emplacen en
 
@@ -798,15 +806,15 @@ cuenta documentada de la utilización de estos
 
 recursos al SERVIU.
 
-En el caso que la empresa constructora preste
+En el caso que la empresa constructora o el
 
-la Asesoría Técnica y Jurídica, los montos de
+SERVIU preste la Asesoría Técnica y Jurídica,
 
-subsidio establecidos en la letra f) del número
+los montos de subsidio establecidos en la
 
-2 de la presente resolución serán los
+letra f) del número 2 de la presente
 
-siguientes:
+Resolución serán los siguientes:
 
 Para postulaciones del Capítulo Primero, el monto
 
@@ -884,9 +892,9 @@ montos contaren con su aprobación, dentro del
 
 mismo plazo emitirá el certificado de
 
-subsidio o la
+subsidio o la Resolución de Ratificación del
 
-Resolución de Ratificación del Subsidio.
+Subsidio.
 
 f) Una vez que se otorgue el certificado de Subsidio
 
@@ -982,7 +990,27 @@ Técnico del SERVIU en que conste que las obras
 
 se encuentran completamente terminadas
 
-conforme al proyecto aprobado.
+conforme al proyecto aprobado. Para aquellos
+
+casos en que, con anterioridad al sismo y
+
+posterior tsunami del 27 de febrero del año
+
+2010, la vivienda o el sitio no hubiera contado
+
+con los servicios de agua potable y energía
+
+eléctrica, y que no exista una red colectiva
+
+aledaña a la vivienda para abastecer estos
+
+servicios básicos, el SERVIU podrá emitir
+
+este certificado siempre que dentro de las
+
+obras esté contemplada al menos la solución
+
+de alcantarillado particular.
 
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
@@ -1062,9 +1090,7 @@ posible efectuar su reparación, incluyendo
 
 una descripción de los daños, los elementos
 
-afectados y su
-
-ubicación en la vivienda.
+afectados y su ubicación en la vivienda.
 
 5.6. Los honorarios que percibirá la Asesoría
 
@@ -1123,6 +1149,30 @@ señalada en el primer apartado del
 número 2. del mismo artículo,
 
 cuando corresponda.
+
+5.7 Si los servicios de Asistencia Técnica y
+
+Jurídica son prestados por la empresa
+
+constructora, deberá certificar que en el
+
+terreno acreditado para la postulación
+
+es factible técnicamente la construcción
+
+del proyecto tipo elegido por el postulante,
+
+en formato de certificado que proporcionará
+
+el SERVIU para estos efectos. Junto con lo
+
+anterior, deberá entregar un informe de
+
+diagnóstico de habitabilidad de la vivienda
+
+existente en el terreno, según formato
+
+entregado por el SERVIU.
 
 6. Para el caso de familias preseleccionadas, y en cuyo terreno acreditado para la postulación no sea factible la construcción de una vivienda, en ninguna de las opciones propuestas por el SERVIU, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
 
