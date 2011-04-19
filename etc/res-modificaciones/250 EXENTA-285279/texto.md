@@ -46,8 +46,6 @@ VER DIARIO OFICIAL DE 07.07.2009, PAGINA 29.
 
 > **Nota.** NOTA 8 El Nº 3 de la Resolución 2225 Exenta, Vivienda, publicada el 19.04.2011, modifica la presente norma en el sentido de reemplazar el cuadro de recursos comprometidos para el Capítulo Primero inserto en el resuelvo 4º por el que en ella se señala.
 
-> **Nota.** NOTA 9 El Número 2 a) y b) de la Resolución 8786 Exenta, Vivienda, publicada el 07.11.2012, modifica la presente norma en el sentido de modificar los cuadros insertos en los resuelvo 2º y 4º en la forma que la citada norma indica.
-
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
