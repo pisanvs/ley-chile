@@ -10,7 +10,7 @@ Que, la persona que se nombra por el presente decreto reúne los requisitos nece
 
 Decreto:
 
-1.- Nómbrase, a contar del 30 de marzo de 2010, a don Álvaro Alexis Seguel Pérez, RUT 12.589.604-9, en el cargo de Secretario Regional Ministerial del Trabajo y Previsión Social en la IX Región, en el grado 5º de la E.U.S., en la ciudad de Temuco.
+1.- Nómbrase, a contar del 15 de abril de 2010, a don Álvaro Alexis Seguel Pérez, RUT 12.589.604-9, en el cargo de Secretario Regional Ministerial del Trabajo y Previsión Social en la IX Región, en el grado 5º de la E.U.S., en la ciudad de Temuco.
 
 2.- Por razones impostergables de buen servicio, la persona que se nombra asumirá sus funciones en la fecha antes señalada, de conformidad con lo dispuesto por el artículo 16º de la ley Nº 18.834, sin esperar la total tramitación del presente decreto.
 
