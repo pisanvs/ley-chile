@@ -46,7 +46,7 @@ Decreto:
 
 Dispónganse, durante el período de vigencia del presente decreto, las medidas que se señalan en los artículos siguientes, con el objeto de evitar, manejar, disminuir o superar los déficit de generación que se puedan producir y preservar la seguridad en el SIC, las que se orientarán a reducir sus impactos para los usuarios, a incentivar y fomentar el aumento de capacidad de generación en dicho sistema, a estimular o premiar el ahorro voluntario y a aminorar los costos económicos que dichos déficit puedan ocasionar al país.
 
-El presente decreto entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial y regirá hasta el día 30 de abril de 2012.
+El presente decreto entrará en vigencia a contar de la fecha de su publicación en el Diario Oficial y regirá hasta el día 31 de agosto de 2011.
 
 #### Artículo 2º
 
@@ -204,7 +204,7 @@ Las empresas eléctricas no podrán imponer condiciones ni discriminaciones espe
 
 #### Artículo 19
 
-Durante la vigencia del presente decreto, las empresas generadoras de electricidad que operan en el SIC deberán pagar a sus clientes distribuidores, en la proporción en que estos últimos efectúen a su vez suministros sometidos a fijación de precios, y a sus clientes finales sometidos a regulación de precios, cada kilowatt-hora de déficit que efectivamente los haya afectado, a razón de 215,206 pesos por kilowatt-hora de déficit. El déficit será determinado sobre la base de sus consumos normales.
+Durante la vigencia del presente decreto, las empresas generadoras de electricidad que operan en el SIC deberán pagar a sus clientes distribuidores, en la proporción en que estos últimos efectúen a su vez suministros sometidos a fijación de precios, y a sus clientes finales sometidos a regulación de precios, cada kilowatt-hora de déficit que efectivamente los haya afectado, a razón de 200,276 pesos por kilowatt-hora de déficit. El déficit será determinado sobre la base de sus consumos normales.
 
 #### Artículo 20
 
@@ -256,7 +256,7 @@ El monto a compensar por cada generador a la empresa distribuidora será el que 
 
 Para efectos de lo establecido en el artículo anterior, la distribuidora, al final de cada período de registro, comunicará el consumo base total en horas de corte de cada día en los cuales se haya verificado cortes de suministro, las tasas de crecimiento correspondientes especificadas, el correspondiente consumo normal en horas de corte, las demandas diarias previstas, y el déficit diario a compensar por cada empresa generadora con quien mantiene compromiso de suministro.
 
-La empresa generadora que reciba dicha información aplicará en la siguiente factura un descuento igual al valor de este déficit, equivalente a 215,206 pesos por kilowatt-hora, valor que corresponde al precio de kilowatt-hora de déficit. La empresa distribuidora, por su parte, descontará en la siguiente boleta o factura de cada uno de sus clientes sometidos a regulación de precios que hayan sido afectados por cortes de suministro, un valor en pesos igual al descuento aplicado por las empresas suministradoras en las facturas correspondientes, a prorrata del consumo promedio en kilowatt-hora por mes por cliente que estos clientes hayan exhibido en el período de seis meses inmediatamente anterior al mes de entrada en vigencia del presente decreto, descontando de estos promedios aquellos meses en que el cliente no haya estado conectado así como aquellos en que hayan existido racionamientos en el sistema. Para clientes que se hayan conectado durante algún período de restricción o durante el mes anterior al primero de ellos, se considerará en la prorrata el consumo efectivo durante su primer mes de facturación.
+La empresa generadora que reciba dicha información aplicará en la siguiente factura un descuento igual al valor de este déficit, equivalente a 200,276 pesos por kilowatt-hora, valor que corresponde al precio de kilowatt-hora de déficit. La empresa distribuidora, por su parte, descontará en la siguiente boleta o factura de cada uno de sus clientes sometidos a regulación de precios que hayan sido afectados por cortes de suministro, un valor en pesos igual al descuento aplicado por las empresas suministradoras en las facturas correspondientes, a prorrata del consumo promedio en kilowatt-hora por mes por cliente que estos clientes hayan exhibido en el período de seis meses inmediatamente anterior al mes de entrada en vigencia del presente decreto, descontando de estos promedios aquellos meses en que el cliente no haya estado conectado así como aquellos en que hayan existido racionamientos en el sistema. Para clientes que se hayan conectado durante algún período de restricción o durante el mes anterior al primero de ellos, se considerará en la prorrata el consumo efectivo durante su primer mes de facturación.
 
 En caso que se produzca un remanente del descuento a favor del cliente, éste se aplicará en la boleta o factura inmediatamente siguiente.
 
