@@ -270,6 +270,8 @@ e) Hospitales y clínicas particulares, y
 
 f) Instituciones y establecimientos universitarios, para fines de investigación clínica o científica.
 
+g) Botiquines de Salas de Procedimiento y Pabellones de Cirugía Menor.
+
 Las ventas o entregas a cualquier título de drogas o productos estupefacientes que se efectúen a los laboratorios, droguerías, farmacias o establecimientos de atención médica, deberán ser comunicadas al Instituto de Salud Pública de Chile, dentro del plazo que se fije por resolución del Ministerio de Salud, mediante copia de las respectivas guías de entrega, suscritas por el Director Técnico.
 
 Las farmacias remitirán, asimismo, al Servicio de Salud respectivo las recetas cheque a que se refiere el artículo 24 y la copia de las guías de entrega aludidas en el inciso anterior, dentro del plazo que se determine por resolución del Ministerio de Salud.

@@ -246,7 +246,7 @@ Sólo podrán adquirir sustancias naturales y drogas psicotrópicas los establec
 
 #### Artículo 22°
 
-Las drogas y los productos psicotrópicos podrán ser adquiridos por los siguientes establecimientos, con intervención del respectivo Director Técnico del establecimiento o del profesional del área de la salud responsable, en los casos de las instituciones de investigación médica o científica:
+Las drogas y los productos psicotrópicos podrán ser adquiridos por los siguientes establecimientos, con intervención del respectivo Director Técnico del establecimiento o del profesionaldel área de la salud responsable, en los casos de las instituciones de investigación médica o científica:
 
 a) Laboratorios de producción químico farmacéutica;
 
@@ -262,6 +262,8 @@ f) Instituciones y establecimientos universitarios, para fines de investigación
 
 g) Botiquines de clínicas veterinarias respecto de los productos psicotrópicos de la lista IV.
 
+h) Botiquines de Salas de Procedimiento y Pabellones de Cirugía Menor.
+
 Las ventas o entregas a cualquier título de drogas o productos psicotrópicos que se efectúen a los laboratorios, droguerías, farmacias o establecimientos de atención médica, deberán ser comunicadas al Instituto de Salud Pública de Chile, dentro del plazo que se fije por resolución del Ministerio de Salud, mediante copia de las respectivas guías de entrega, suscritas por el Director Técnico.
 
 Las farmacias remitirán, asimismo, al Servicio de Salud respectivo las recetas cheque a que se refiere el artículo 24 y la copia de las guías de entrega aludidas en el inciso anterior, dentro del plazo que se determine por resolución del Ministro de Salud.
@@ -270,9 +272,13 @@ Las farmacias remitirán, asimismo, al Servicio de Salud respectivo las recetas 
 
 #### Artículo 23°
 
-Los preparados o productos psicotrópicos sólo podrán expenderse al público en farmacias o laboratorios mediante "Receta Cheque" en los 1984, casos de los productos contenidos en las Listas II y III N° 1, l) o "Receta Médica Retenida", tratándose de los contemplados en la Lista IV, según sea su respectiva condición de venta. Ambos tipos de recetas tendrán los formatos que fije el Ministerio de Salud por Resolución.
+Los preparados o productos psicotrópicos sólo podrán expenderse al público en farmacias o laboratorios mediante "Receta Cheque" en los casos de los productos contenidos en las Listas II y III o "Receta Médica Retenida", tratándose de los contemplados en la Lista IV, según sea su respectiva condición de venta. Ambos tipos de recetas tendrán los formatos que fije el Ministerio de Salud por Resolución.
 
 Sin perjuicio de lo anterior, en el caso de los preparados o productos farmacéuticos que contengan dosis mínimas de drogas psicotrópicas mezcladas con uno o varios ingredientes más, la autoridad sanitaria podrá disponer otra modalidad de venta.
+
+Tratándose de productos psicotrópicos que se encuentren incorporados en las Listas II y III, cuyas drogas y principios activos se presenten en una forma farmacéutica que pueda acreditar que el riesgo de abuso es insignificante o nulo, la autoridad sanitaria podrá determinar o reemplazar su condición de venta a la de "Receta Médica Retenida".
+
+> **Nota.** El Art. 2º del DTO 143, Salud, publicado el 16.02.2008, dispuso que la modificación introducida en el presente artículo rige a contar del primer día del mes siguiente al de su publicación, fecha a partir de la cual los interesados podrán presentar sus solicitudes ante el Instituto de Salud Pública.
 
 #### Artículo 24°
 

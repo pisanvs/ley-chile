@@ -106,6 +106,8 @@ contaminados, cortopunzantes y productos químicos de acuerdo a normas vigentes,
 
 - Pisos y muros lisos y de material lavable.
 
+- Un botiquín de medicamentos autorizado de acuerdo a las normas contenidas en el decreto supremo Nº 466, de 1984, del Ministerio de Salud, cuando sea procedente.
+
 Las salas de procedimientos donde se realice la sedación consciente de los pacientes, deberán contar con el equipamiento y los elementos que permitan una actuación oportuna y eficaz en casos de situaciones de urgencia o emergencia médica, tales como lipotimia, crisis hipertensiva, shock glicémico, reacciones anafilácticas convulsiones, paro cardiorrespiratorio u otros de naturaleza similar.
 
 Se entiende por sedación consciente el estado de depresión de la conciencia inducido por drogas, generalmente benzodiazepinas u otros fármacos que deprimen el sistema nervioso central, durante el cual el paciente sedado es capaz de responder adecuadamente a estímulos verbales, solos o acompañados de estimulación táctil leve.
@@ -182,7 +184,7 @@ El Pabellón de Cirugía Menor deberá disponer solamente del instrumental neces
 
 #### Artículo 16
 
-El Pabellón de Cirugía Menor deberá mantener una existencia mínima de medicamentos que garantice que las intervenciones se realicen en forma segura para el paciente.
+El Pabellón de Cirugía Menor deberá mantener una existencia mínima de medicamentos, en un botiquín debidamente autorizado, que garantice que las intervenciones se realicen en forma segura para el paciente.
 
 El manejo de medicamentos, estupefacientes y psicotrópicos quedará sometido a las disposiciones reglamentarias vigentes en la materia.
 
