@@ -42,4 +42,4 @@ Notas
 
 Anótese, publíquese en el Diario Oficial, en un diario o periódico de circulación nacional y en la página web del Ministerio del Medio Ambiente, y archívese.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.
 
-Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Charif Tala González, Jefe Departamento Recursos Naturales Renovables.
+Lo que transcribo a Ud. para su conocimiento.- Saluda Atte. a Ud., Ricardo Irarrázabal Sánchez, Subsecretario del Medio Ambiente.
