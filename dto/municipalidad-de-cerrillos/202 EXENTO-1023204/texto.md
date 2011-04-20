@@ -6,7 +6,7 @@ Vistos: La Providencia Alcaldicia Nº 100/738/2011; el Ord. Nº 800/62/2011 de l
 
 Considerando:
 
-El Informe Técnico de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región Metropolitana Nº 609 de fecha 02 de febrero de 2011, que informó favorablemente las nuevas normas urbanísticas aplicables a Parque Cerrillos, Parque La Aguada, Parque adyacente a Zanjón de la Aguada (Parque Isabel Riquelme), Parque adyacente a Avenida Américo Vespucio donde han caducado su afectación de utilidad pública.
+El Informe Técnico de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región Metropolitana Nº 607 de fecha 02 de febrero de 2011, que informó favorablemente las nuevas normas urbanísticas aplicables a Parque Cerrillos, Parque La Aguada, Parque adyacente a Zanjón de la Aguada (Parque Isabel Riquelme), Parque adyacente a Avenida Américo Vespucio donde han caducado su afectación de utilidad pública.
 
 Decreto:
 
@@ -17,6 +17,8 @@ Decreto:
 2. El Departamento de Abastecimiento procederá a la correspondiente publicación en el Diario Oficial.
 
 3. El gasto que irroga el presente decreto deberá imputarse a la cuenta que la Dirección de Administración y Finanzas establezca al efecto.
+
+> **Nota.** El Decreto 202, Municipalidad de Cerrillos, publicado el 20.04.2011, viene a rectificar el cuadro que asigna normas urbanísticas, inserto en el Nº 1 de la presente resolución, según lo que en él se señala.
 
 Anótese, publíquese, comuníquese y archívese.- Carlos Ramos García, Alcalde (S).- Paola González Inostroza, Secretaria Municipal (S).
 
