@@ -58,7 +58,7 @@ El mecanismo de reajustabilidad dependerá de las variaciones que experimente el
 
 Entonces, se define:
 
-Definiendo un coeficiente de variación del factor X entre los valores disponibles al mes i y los valores disponibles al mes i - 1, se obtiene:
+Definiendo un coeficiente de variación del factor X con los valores disponibles al mes i como:
 
 Ponderadores
 
@@ -98,7 +98,11 @@ Si alguna de las entidades que emite el valor de uno o más de los factores o de
 
 #### Artículo 7
 
-La presente metodología será aplicada mensualmente por el Panel de Expertos a que se refiere el artículo 14 de la ley N°20.378 para determinar el ajuste de tarifas del sistema de transporte público de la Provincia de Santiago y de las comunas de San Bernardo y Puente Alto, requerido para mantener el valor real de éstas y la propuesta del nivel de tarifas, será informada al Ministerio de Transportes y Telecomunicaciones de acuerdo a lo establecido en el artículo 15 de dicha ley.
+Determinación y Aplicación del Ajuste de Tarifas:
+
+El ajuste de tarifas, calculado de conformidad a la metodología establecida en el presente reglamento, deberá determinarse por el Panel de Expertos en forma mensual.
+
+La determinación de ajuste tarifario deberá ser informada al Ministerio de Transportes y Telecomunicaciones, debiendo luego ser sancionada por dicho Ministerio mediante resolución, a través de la cual se instruirá al Administrador Financiero de Transantiago para su implementación en una fecha determinada.
 
 #### Artículo 8
 
