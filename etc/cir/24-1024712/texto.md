@@ -1,0 +1,7 @@
+INSTRUYE SOBRE LA EXTENSIÓN DE LA VIGENCIA DEL PLAZO PARA LA APLICACIÓN DE LAS MEDIDAS ADOPTADAS POR LA DECLARACIÓN DE ZONA DE CATÁSTROFE CONFORME A LA LEY Nº 16.282
+
+Extracto de circular del Servicio de Impuestos Internos Nº 24, de fecha 18 de abril de 2011, la cual tiene por objeto instruir sobre la extensión de la vigencia del plazo para la aplicación de las medidas adoptadas por la declaración de zona de catástrofe, dispuesta por el decreto supremo Nº 150, de 27 de febrero de 2010, en relación con las donaciones que se efectúen al amparo de la Ley Nº 16.282 y los beneficios tributarios que se derivan de ésta.
+
+Conforme a lo dispuesto por el artículo primero del decreto supremo Nº 148 y el artículo 1º de la Ley Nº 16.282, la vigencia de las medidas especiales que contempla dicha Ley con ocasión del terremoto del 27 de febrero de 2010, se extienden por un plazo de 12 meses, a partir del vencimiento del plazo de 12 meses de ocurrido el sismo referido, por lo que dichas medidas continuarán vigentes y podrán ser aplicadas hasta el 27 de febrero de 2012.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en abril de 2011.
