@@ -1,0 +1,3 @@
+Por resolución exenta Nº 606, de 15 de marzo de 2011, de esta Subsecretaría, modifícase el numeral 2º de la resolución exenta Nº 3.504, de 2010, modificada mediante resolución exenta Nº 348, de 2011, ambas de esta Subsecretaría, que autorizó a la CORPORACIÓN PARA LA EDUCACIÓN, DESARROLLO E INVESTIGACIÓN DE LA PESCA ARTESANAL DE CHILE para efectuar una pesca de investigación de conformidad con los términos Técnicos de Referencia del Proyecto "Monitoreo de parámetros biológicos-pesqueros del recurso Jibia, Región de Valparaíso", en el sentido de señalar que la pesca de investigación se extenderá hasta el 31 de diciembre de 2011, inclusive.
+
+Valparaíso, 15 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
