@@ -1,0 +1,7 @@
+IMPARTE INSTRUCCIONES SOBRE EMISIÓN DE FACTURAS PARA LOS CONTRIBUYENTES DE LOS IMPUESTOS ESPECÍFICOS A LOS COMBUSTIBLES ESTABLECIDOS EN LA LEY Nº 18.502
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 51 de 18 de abril de 2011, que señala:
+
+A partir de la entrada en vigencia de la Ley Nº 20.493, los productores, importadores y comercializadores de combustibles afectos a los Impuestos Específicos a los Combustibles establecidos en la Ley Nº 18.502, como también todo contribuyente que venda dichos combustibles, deberán registrar en el detalle de las facturas que emitan por la venta de esos productos, los impuestos específicos con que dichas operaciones resulten gravadas o del monto del crédito a que tienen derecho, en conformidad a la Ley Nº 20.493. Para estos efectos, deberán registrar en forma separada la cuantía de los componentes base y variable del impuesto, para cada tipo de combustible consignado en la factura de acuerdo a la fecha de la operación. La fecha de la operación corresponderá a la fecha en que se realice la entrega material o simbólica del combustible cuya venta o transferencia resulte gravada.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de abril de 2011.
