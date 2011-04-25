@@ -1,0 +1,9 @@
+Por resolución exenta Nº 933, de 14 de abril de 2011, de esta Subsecretaría, autorízase al grupo de armadores cuya participación conjunta en la unidad de pesquería de Jurel en la III y IV Regiones fue reconocida mediante resolución exenta Nº 146, de 2011, de esta Subsecretaría, para capturar hasta un 10% del límite máximo de captura autorizado al grupo de armadores cuya participación conjunta en la unidad de pesquería de Jurel de la XIV a la X Regiones fue reconocida mediante resolución exenta Nº 144, de 2011, de esta Subsecretaría, a partir de la fecha de la presente resolución y hasta el 31 de diciembre de 2011.
+
+En consecuencia, el límite máximo de captura total para el año 2011, autorizado al grupo de armadores compuesto por Southpacific Korp S.A. (hoy ORIZON S.A.), Pesquera San José S.A. (hoy ORIZON S.A.), CORPESCA S.A., PESQUERA BERTA ELENA LIMITADA, SOCIEDAD PESQUERA GENMAR LIMITADA, cuya participación conjunta en la unidad de pesquería Jurel XIV-X Regiones fue reconocida mediante resolución exenta Nº 144, de 2011, de esta Subsecretaría, ascenderá a 7.101,393 toneladas.
+
+Asimismo, la cuota total final para el año 2011, autorizada al grupo de armadores compuesto por Southpacific Korp S.A. (hoy Orizon S.A.), Pesquera San José S.A. (hoy Orizon S.A.), Corpesca S.A., Inversiones Pesqueras S.A., Lota Protein S.A., cuya participación conjunta en la unidad de pesquería Jurel III y IV Regiones se reconoció mediante resolución exenta Nº 146, de 2011, de esta Subsecretaría, ascenderá a 9.411,173 toneladas.
+
+Rectifícase la resolución exenta Nº 577, de 2011, de esta Subsecretaría de Pesca, en el sentido de reemplazar en su numeral 3º la expresión "Resolución exenta Nº 145, de 2011" por "Resolución exenta Nº 146, de 2011".
+
+Valparaíso, 14 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
