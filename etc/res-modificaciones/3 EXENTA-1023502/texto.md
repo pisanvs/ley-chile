@@ -12,7 +12,7 @@ Considerando:
 
 Resuelvo:
 
-1. Modifícase la resolución exenta Nº 1.144, de 13 de diciembre de 2010, de esta Dirección Regional, y establézcase como nueva área regulada para Lobesia botrana en la Región de Atacama, el polígono de 66 vértices, determinado por las siguientes coordenadas UTM, señaladas a continuación:
+1. Modifícase la resolución exenta Nº 1.144, de 13 de diciembre de 2010, de esta Dirección Regional, y establézcase como nueva área regulada para Lobesia botrana en la Región de Atacama, el polígono de 68 vértices, determinado por las siguientes coordenadas UTM, señaladas a continuación:
 
 2. Aplíquense las medidas fitosanitarias establecidas en la resolución 2.109, de 2008 y sus modificaciones, de la Dirección Nacional del Servicio Agrícola y Ganadero, según corresponda, en forma inmediata en el área definida en la presente resolución.
 
