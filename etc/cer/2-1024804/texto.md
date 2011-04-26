@@ -1,0 +1,7 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A PROCARNE COMERCIAL S.A., EN LAS VENTAS DE CARNES
+
+Núm. 2.- Santiago, 19 de abril de 2011.- La Directora Regional del Servicio de Impuestos Internos que suscribe, certifica que la sociedad Procarne Comercial S.A., RUT Nº 76.130.385-6, representada legalmente por don Jorge Alejandro Vial Lira, RUT Nº 7.051.468-0 y don Luis Alfonso Sánchez Barrera, RUT Nº 9.824.848-K, todos con domicilio en Buzeta Nº 3.770, Estación Central, cumple con los requisitos establecidos en Res. Ex. Nº 3.722, de 28 de julio de 2000, y que, en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado, IVA, por las ventas de carnes y servicios de faenamiento de ganado que efectúe.
+
+La presente autorización regirá a contar del día primero del mes siguiente al de la fecha de publicación de este Certificado en el Diario Oficial, por cuenta y costo del peticionario, dentro de los primeros quince días de la emisión del presente Certificado, y tendrá vigencia indefinida, siempre que dé cabal cumplimiento a las obligaciones señaladas en la resolución mencionada. Su incumplimiento producirá la caducidad de esta autorización y la aplicación de las sanciones que fueran procedentes.-
+
+Teresa Conejeros Peña, Directora Regional.
