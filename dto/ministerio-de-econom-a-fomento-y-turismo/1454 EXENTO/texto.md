@@ -54,8 +54,6 @@ q) Unidades de pesquería de Sardina española Sardinops sagax y Anchoveta Engra
 
 r) Unidad de pesquería de Jurel Trachurus murphyi, en el área marítima de la XV, I y II Regiones, individualizada en la letra r) del artículo 2º de la Ley 19.713:
 
-> **Nota.** El Decreto 823 Exento, Economía, publicado el 21.09.2011 modifica el artículo 1º letra q) de la presente norma, en el sentido de indicar que los límites correspondientes a la unidad de pesquería de Anchoveta, en el área marítima comprendida entre la XV, I y II Regiones, individualizada en la letra q) del artículo 2º de la Ley Nº 19.713, son los que en la referida norma se indican.
-
 #### Artículo 2°
 
 Los límites máximos de captura señalados en los incisos precedentes se entenderán sin perjuicio de la aplicación de la sanción de descuento de límite máximo de captura por infracciones cometidas durante años calendarios anteriores, en conformidad con lo dispuesto en los artículos 11 y siguientes de la Ley Nº 19.713.
