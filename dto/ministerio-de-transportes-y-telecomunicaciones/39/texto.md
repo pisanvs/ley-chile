@@ -22,23 +22,17 @@ Las escuelas serán autorizadas para impartir instrucción diferenciada para alu
 
 Las escuelas, según la o las clases de licencia para las que opten instruir, deberán contar a lo menos, con los siguientes tipos de vehículos adaptados para la instrucción práctica:
 
-a) Para licencia Clase A1: vehículo de transporte de pasajeros con capacidad superior a 17 personas;
+a) Para licencia Clase B: dos vehículos motorizados de cuatro ruedas, los que podrán ser para transporte de personas con capacidad de hasta 7 asientos, excluido el del conductor, o de carga de capacidad igual o inferior a 1.750 kilógramos.
 
-b) Para licencia Clase A1: automóvil destinado al transporte público de personas, que cumpla con los requisitos que exija el Ministerio de Transportes y Telecomunicaciones para prestar este tipo de servicios;
+b) Para licencia Clase C: una motocicleta de hasta 125 cc. y una de 500 cc. o más, y
 
-c) Para licencia Clase A2: vehículo de carga de, a lo menos, 6 toneladas;
+c) Quienes deseen impartir instrucciones para postulantes a licencia clase D, vehículos especiales, deberán solicitar autorización municipal en cada caso, presentando los antecedentes que acrediten que cuentan con el o los vehículos adecuados para la instrucción práctica. En lo demás deberán atenerse a las exigencias señaladas en los artículos siguientes.
 
-d) Para licencia Clase B: dos vehículos motorizados de cuatro ruedas, los que podrán ser para transporte de personas con capacidad de hasta 7 asientos, excluido el del conductor, o de carga de capacidad igual o inferior a 1.750 kilógramos.
-
-e) Para licencia Clase C: una motocicleta de hasta 125 cc. y una de 500 cc. o más, y
-
-f) Quienes deseen impartir instrucciones para postulantes a licencia clase D, vehículos especiales, deberán solicitar autorización municipal en cada caso, presentando los antecedentes que acrediten que cuentan con el o los vehículos adecuados para la instrucción práctica. En lo demás deberán atenerse a las exigencias señaladas en los artículos siguientes.
-
-Los vehículos mencionados en las letras b) y d) deberán ser de propiedad del titular de la autorización para mantener Escuela de Conductores. Los demás vehículos bastará que estén a disposición de la Escuela a cualquier título que la habilite para destinarlos a la instrucción.
+Los vehículos mencionados en la letra a) deberán ser de propiedad del titular de la autorización para mantener Escuela de Conductores. Los demás vehículos bastará que estén a disposición de la Escuela a cualquier título que la habilite para destinarlos a la instrucción.
 
 Para efectos del inciso anterior se considerarán como de propiedad del titular, los vehículos tomados en arrendamiento mercantil (leasing), lo que deberá acreditarse, con copia autorizada, del respectivo contrato de arrendamiento suscrito por el solicitante y una empresa financiera de leasing.
 
-Excepcionalmente, las Escuelas que funcionen en ciudades cuya población no supere los 50.000 habitantes podrán impartir instrucción para optar a licencia clase B contando con sólo un vehículo motorizado que reúna las características señaladas en la letra d).
+Excepcionalmente, las Escuelas que funcionen en ciudades cuya población no supere los 50.000 habitantes podrán impartir instrucción para optar a licencia clase B contando con sólo un vehículo motorizado que reúna las características señaladas en la letra a).
 
 > **Nota.** El N° 2 del DTO 46, Transportes, dispuso que toda referencia a automóviles que se haga en el presente Decreto Supremo, comprenderá los señalados en la letra d) de este artículo 4°, exceptuados los indicados en la letra b).
 
@@ -50,7 +44,7 @@ a) Los generales que establece la Ley de Tránsito o que disponga el Ministerio 
 
 b) Mantener sus condiciones estándares de fabricación, a excepción del doble comando, en los automóviles;
 
-c) Poseer sistema de cambio mecánico, excluyéndose los vehículos con cambio automático o semi automático, salvo cuando se enseñe a conducir a personas lisiadas, que requieran de este tipo de implemento, excluidos los mencionados en la letra f) del artículo 4°;
+c) Poseer sistema de cambio mecánico, excluyéndose los vehículos con cambio automático o semi automático, salvo cuando se enseñe a conducir a personas lisiadas, que requieran de este tipo de implemento, excluidos los mencionados en la letra c) del artículo 4°;
 
 d) Contar en ambos lados con espejos retrovisores laterales externos y, cuando corresponda al vehículo, con un espejo retrovisor interior exclusivo para el instructor, sin perjuicio del propio para el conductor;
 
@@ -74,15 +68,15 @@ El distintivo no deberá usarse en el vehículo cuando éste ejerza una finalida
 
 f) Tener buena presentación en sus formas y pintura;
 
-g) Contar en el panel de instrumentos o en forma adicional con luces indicadoras de viraje, no permitiéndose una sola luz que indique el viraje indeterminadamente, excluidos los mencionados en las letras e) y f) del artículo 4°.
+g) Contar en el panel de instrumentos o en forma adicional con luces indicadoras de viraje, no permitiéndose una sola luz que indique el viraje indeterminadamente, excluidos los mencionados en las letras b) y c) del artículo 4º.
 
-h) No tener más de ocho años de antigüedad, contados desde la fecha de facturación de su primera transferencia en el país, al momento de solicitar su incorporación en una Escuela, excluido los mencionados en las letras e) y f) del artículo 4°.
+h) No tener más de ocho años de antigüedad, contados desde la fecha de facturación de su primera transferencia en el país, al momento de solicitar su incorporación en una Escuela, excluido los mencionados en las letras b) y c) del artículo 4º.
 
 i) Los vehículos automóviles destinados a instrucción individual no tienen limitación de cilindrada y los destinados a instrucción colectiva deberán tener motores de 850 cc. a lo menos.
 
 #### Artículo 6°
 
-Los vehículos automóviles a que se refieren las letras b) y d) del artículo 4° deberán estar provistos, además, de doble comando de freno, embrague y acelerador, para ser accionados por el intructor. El doble comando no deberá alterar la estructura del vehículo, debiendo ser fabricado con eje resistente a la torsión y totalmente soldado.
+Los vehículos automóviles a que se refiere la letra a) del artículo 4º deberán estar provistos, además, de doble comando de freno, embrague y acelerador, para ser accionados por el intructor. El doble comando no deberá alterar la estructura del vehículo, debiendo ser fabricado con eje resistente a la torsión y totalmente soldado.
 
 Deberá portarse dentro del automóvil y al alcance del instructor, un interruptor para accionar luces que iluminen los pedales del vehículo en clases nocturnas.
 
@@ -94,7 +88,7 @@ Las pólizas o certificados deberán mantenerse actualizados permenentemente y a
 
 #### Artículo 8°
 
-Los vehículos que la Escuela use para la instrucción práctica y los que puedan incorporarse durante la vigencia de su autorización, deberán contar con revisiones técnicas practicadas semestralmente en las Plantas de la Clase A definidas en el decreto sobre revisiones técnicas, 167/84, del Ministerio de Transportes y Telecomunicaciones.
+Los vehículos que la Escuela use para la instrucción práctica y los que puedan incorporarse durante la vigencia de su autorización, deberán contar con revisiones técnicas practicadas semestralmente.
 
 #### Artículo 9°
 
@@ -212,7 +206,7 @@ La duración mínima del curso será la siguiente, según la clase de licencia q
 
 Teoría Práctica
 
-Clase A1, A2 y D 7 7 Hrs. pedagógicas
+Clase D 7 7 Hrs. pedagógicas
 
 Clase B 8 12 " "
 
@@ -247,6 +241,16 @@ b) Prácticas de circulación en condiciones de tránsito diario, considerando l
 Las Escuelas de Conductores que funcionen en lugares con condiciones geográficas y climáticas especiales, deberán enviar un anexo del programa, considerando este aspecto.
 
 El programa que las Escuelas de Conductores deseen desarrollar, deberá remitirse previamente al Ministerio de Transportes y Telecomunicaciones, para su aprobación y posterior ejecución. Sin esta aprobación las Escuelas no podrán funcionar.
+
+#### Artículo 18 bis
+
+Los conocimientos teóricos a que se refiere el Nº 1 del inciso primero del artículo 18 precedente, podrán ser impartidos a través de un curso en la modalidad e-Learning diseñado para una duración de 8 horas pedagógicas.
+
+El acceso a dicho curso será a través de una plataforma tecnológica computacional LMS ("Learning Managment System"), que deberá operar con un instructor o tutor que asistirá a los estudiantes en sus dificultades tanto de percepción de los contenidos del curso como aquellas de carácter tecnológico en el seguimiento del mismo, pudiendo estas últimas ser atendidas también a través de una mesa de ayuda. La plataforma deberá contar, a lo menos, con las siguientes herramientas: correo electrónico, para realizar los contactos requeridos para el desarrollo del curso con el instructor o tutor y las consultas con la mesa de ayuda; agenda, para dar a conocer los hitos necesarios para el normal desarrollo del curso y los tiempos mínimos o recomendados para las distintas actividades contempladas en el mismo; de seguimiento, para establecer las entradas y salidas de personas al curso, la cantidad de ingresos y tiempos de permanencia dentro de un ambiente, grados de participación, y niveles de avance.
+
+El instructor o tutor deberá cumplir con los requisitos que se señalan para los instructores teóricos en el artículo 13 anterior.
+
+Para efectos de lo dispuesto en el inciso final del artículo 18 precedente, la Escuela de Conductores, en reemplazo de remitir el programa a desarrollar, deberá entregar la dirección de Internet con los accesos temporales respectivos, para la revisión y aprobación correspondiente. Igualmente, deberá comunicar sobre los requerimientos tecnológicos mínimos para el seguimiento del curso, así como los estándares de atención al estudiante, expresados en horarios de atención del instructor o tutor, de la mesa de ayuda, disponibilidad de acceso, entre otros.
 
 #### Artículo 19°
 
