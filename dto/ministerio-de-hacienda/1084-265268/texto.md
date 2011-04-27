@@ -8,6 +8,8 @@ Decreto:
 
 2.- El préstamo estará destinado a financiar parcialmente el "Programa de Saneamiento Rural", cuyo objetivo es reducir el déficit de cobertura de los servicios de abastecimiento de agua y disposición adecuada de aguas servidas en las áreas rurales, con soluciones sostenibles y costo eficientes.
 
+Adicionalmente, podrá financiar proyectos del ámbito descrito, en las áreas urbanas no concesionadas de las comunas que conforman las Regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía y Metropolitana de Santiago, que resultaron afectadas por el terremoto y/o maremoto del 27 de febrero de 2010, en adelante, las "Zonas Afectadas por el Sismo", en los términos contemplados en el Contrato Modificatorio Nº1 del Préstamo Nº 1881/OC-CH.
+
 3.- El Organismo Ejecutor del Programa será la Subsecretaría de Desarrollo Regional y Administrativo (SUBDERE), la que para los fines del Contrato de Préstamo será denominada "Organismo Ejecutor".
 
 4.- Las condiciones financieras del préstamo serán las siguientes:
