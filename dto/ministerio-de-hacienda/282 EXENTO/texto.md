@@ -4,7 +4,7 @@ Nún. 282 exento.- Santiago, 15 de febrero de 2011.- Vistos: Estos antecedentes;
 
 Decreto:
 
-Amplíase en los siguientes profesionales, la lista de peritos para la Región Metropolitana, de conformidad al decreto supremo Nº 692, antes mencionado, publicado en el Diario Oficial el 7 de diciembre de 1978.
+Amplíase en los siguientes profesionales, la lista de peritos para la III Región de Atacama, de conformidad al decreto supremo Nº 692, antes mencionado, publicado en el Diario Oficial el 7 de diciembre de 1978.
 
 Arquitectos:
 
