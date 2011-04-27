@@ -1,0 +1,3 @@
+Por resolución exenta Nº 945, de 19 de abril de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 411, de 2007, de esta Subsecretaría, sólo en cuanto autorizó a PESQUERA SUNRISE S.A. para realizar actividades pesqueras extractivas con la nave "Isla Orcas", respecto de los recursos hidrobiológicos autorizados en el numeral 3º letra i) de la mencionada resolución, con el arte de pesca espinel, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 19 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
