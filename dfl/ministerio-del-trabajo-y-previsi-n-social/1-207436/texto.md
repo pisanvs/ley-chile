@@ -68,6 +68,8 @@ o Para los efectos previstos en este Código, se presume de derecho que represen
 
 Las modificaciones totales o parciales relativas al dominio, posesión o mera tenencia de la empresa no alterarán los derechos y obligaciones de los trabajadores emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, que mantendrán su vigencia y continuidad con el o los nuevos empleadores.
 
+De igual forma, en el caso de los trabajadores mencionados en el inciso final del artículo 1º, no se alterarán los derechos y obligaciones emanados de sus contratos individuales o de los instrumentos colectivos de trabajo, en el caso de cambio de la titularidad en la respectiva notaría, archivo y conservador.
+
 #### Artículo 5
 
 o El ejercicio de las facultades que la ley le reconoce al empleador, tiene como límite el respeto a las garantías constitucionales de los trabajadores, en especial cuando pudieran afectar la intimidad, la vida privada o la honra de éstos.
@@ -234,7 +236,7 @@ Para computar la proporción a que se refiere el artículo anterior, se seguirá
 
 1.- se tomará en cuenta el número total de trabajadores que un empleador ocupe dentro del territorio nacional y no el de las distintas sucursales separadamente;
 
-2.- se excluirá al personal técnico especialista que no pueda ser reemplazado por personal nacional;
+2.- se excluirá al personal técnico especialista;
 
 3.- se tendrá como chileno al extranjero cuyo cónyuge o sus hijos sean chilenos o que sea viudo o viuda de cónyuge chileno, y
 
@@ -1400,15 +1402,11 @@ Los días de descanso facultan a los trabajadores a no reiniciar sus labores has
 
 La remuneración de los trabajadores de casa particular se fijará de común acuerdo entre las partes, comprendiéndose además del pago en dinero efectivo, los alimentos y la habitación cuando los servicios requeridos exijan que el trabajador viva en la casa del empleador.
 
-Con todo, la remuneración mínima en dinero de los trabajadores de casa particular será equivalente al 75% del ingreso mínimo mensual.
+La remuneración mínima en dinero de los trabajadores de casa particular estará sujeta a lo previsto en el inciso tercero del artículo 44 de este Código.
 
 Los trabajadores que no vivan en la casa del empleador y se desempeñen a jornadas parciales o presten servicios sólo algunos días a la semana, tendrán derecho a una remuneración mínima no inferior a la referida en el inciso anterior, proporcionalmente calculada en relación con la jornada o con los días de trabajo.
 
 Las prestaciones de casa habitación y alimentación de los trabajadores de casa particular no serán imponibles para efectos previsionales.
-
-> **Nota.** El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2009 y hasta el 28 de febrero de 2010, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a 83% del ingreso mínimo mensual.
-
-> **Nota.** NOTA 1 El artículo transitorio de la Ley 20279, publicada el 01.07.2008, establece que a contar del 1 de marzo de 2010 y hasta el 28 de febrero de 2011, el ingreso mínimo mensual para los trabajadores de casa particular será equivalente a el 92% del ingreso mínimo mensual.
 
 #### Artículo 152
 
@@ -2572,7 +2570,7 @@ Ningún empleador podrá condicionar la contratación de trabajadoras, su perman
 
 Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
 
-El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de días corridos, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
+El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de forma continua, excluyendo el descanso semanal, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
 
 Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 
