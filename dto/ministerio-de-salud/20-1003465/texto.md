@@ -26,13 +26,11 @@ Decreto:
 
 2.5 carnes deshuesadas que cumplan los siguientes requisitos:
 
-a) que provengan de animales no mayores de 30 meses de edad, que no hayan sido alimentados con harinas de carne y huesos de rumiantes, que hayan sido sometidos a inspecciones ante mortem y post mortem, y que no hayan sido determinados como casos sospechosos ni confirmados de EEB.
+a) Que provengan de animales que fueron declarados aptos para el beneficio y para el consumo humano sus canales y subproductos tanto en las inspecciones ante mortem y post mortem.
 
 b) Que los animales de las que provienen no hayan sido insensibilizados durante las operaciones de faenamiento mediante inyección de aire comprimido en la bóveda craneana o mediante cualquier otro método que implique la sección de la médula espinal.
 
-c) Que la carne no se haya contaminado con alguno de los siguientes tejidos: tonsilas, íleon distal, cerebro, cráneo, ojos, columna vertebral, médula espinal, ni con productos proteicos derivados de ellos.
-
-d) Que la carne no se haya obtenido por medio de procesos de extracción mecánica.
+c) Que la carne no se haya obtenido por medio de procesos de extracción mecánica.
 
 2.6 sangre y subproductos de sangre de bovinos que no fueron insensibilizados durante las operaciones de faenamiento mediante inyección de aire comprimido en la bóveda craneana o mediante cualquier otro método que implique la sección de la médula espinal.
 
@@ -50,6 +48,10 @@ b) Los bovinos de los que proceden no fueron insensibilizados mediante inyecció
 
 c) Las carnes y los productos cárnicos fueron preparados y manipulados de manera que garantiza que no contienen ni están contaminados por: amígdalas o íleon distal de bovinos de cualquier edad, encéfalo, ojos, médula espinal, cráneo, columna vertebral o carne separada por procedimientos mecánicos del cráneo o de la columna vertebral de bovinos de más de 30 meses de edad al momento del beneficio.
 
+d) La gelatina y colágeno preparados a partir de huesos deberán provenir de canales a las que se han retirado las columnas vertebrales en caso de bovinos de más de 30 meses de edad en el momento del faenamiento y los cráneos; los huesos han sido sometidos a un tratamiento que comprende todas y cada una de las etapas siguientes: desgrase, desmineralización ácida, tratamiento alcalino o ácido, filtración, esterilización a 138 °C o más, durante 4 segundos por lo menos, o a un tratamiento equivalente o más eficaz de reducción de la infecciosidad (tratamiento térmico de alta presión por ejemplo)".
+
+e) Fosfato bicálcico que no corresponda al descrito en el punto 2.4 y que sea subproducto de gelatina de huesos deberá cumplir con el tratamiento exigido en la letra d) precedente.
+
 Sin perjuicio de ello, en estos casos, no podrán importarse alimentos destinados al consumo humano, productos cosméticos, farmacéuticos, biológicos o material de uso médico preparados o contaminados con amígdalas o íleon distal de bovinos de cualquier edad, o encéfalo, ojos, médula espinal, cráneo o columna vertebral de bovinos de más de 30 meses de edad al momento del beneficio, lo que debe acreditarse en igual forma a la señalada en este número.
 
 6º.- Las Secretarías Regionales Ministeriales de Salud podrán autorizar el ingreso de carnes y productos derivados de bovinos destinados al uso y consumo humano, distintos de los señalados en el punto 2º anterior, que provengan de países calificados por la OIE como de riesgo indeterminado para EEB, siempre que vengan acompañados de un certificado sanitario, emitido por la autoridad veterinaria oficial del país de origen, que acredite que:
@@ -65,6 +67,16 @@ a) los bovinos de los que proceden:
 b) Las carnes y subproductos fueron preparados y manipulados de manera que garantiza que no contienen ni están contaminados por: amígdalas o íleon distal de bovinos de cualquier edad, encéfalo, ojos, médula espinal, cráneo, columna vertebral o ninguno de los tejidos nerviosos o linfáticos expuestos durante la operación de deshuesado o carne separada por procedimientos mecánicos del cráneo o de la columna vertebral de bovinos de más de 12 meses de edad al momento del beneficio.
 
 Sin perjuicio de lo anterior, en ningún caso podrá importarse desde estos países alimentos destinados al consumo humano, productos cosméticos, farmacéuticos, biológicos o material médico preparado o contaminados con encéfalo, ojos, médula espinal, cráneo o columna vertebral de bovinos de más de 12 meses de edad al momento del beneficio.
+
+c) La gelatina y colágeno preparados a partir de huesos deberán provenir de canales a las que se han retirado las columnas vertebrales en caso de bovinos de más de 30 meses de edad en el momento del faenamiento y los cráneos; los huesos han sido sometidos a un tratamiento que comprende todas y cada una de las etapas siguientes: desgrase, desmineralización ácida, tratamiento alcalino o ácido, filtración, esterilización a 138 °C o más, durante 4 segundos por lo menos, o a un tratamiento equivalente o más eficaz de reducción de la infecciosidad (tratamiento térmico de alta presión, por ejemplo).
+
+d) El fosfato bicálcico que no corresponda al descrito en el punto 2.4 y que sea subproducto de gelatina de huesos deberá cumplir con el tratamiento exigido en la letra c) precedente.
+
+6.1 Las Secretarías Regionales Ministeriales de Salud podrán autorizar el ingreso de sebo o productos derivados del sebo que no sean los especificados en punto 2.3 y que no provengan de países con riesgo insignificante, siempre que vengan acompañados de un certificado sanitario, emitido por la autoridad veterinaria oficial del país de origen, que acredite:
+
+a) Que los bovinos fueron declarados aptos para el beneficio y para el consumo humano sus canales, tanto en las inspecciones ante mortem como en las post mortem y que no contienen ni están contaminados por: amígdalas o íleon distal de bovinos de cualquier edad; encéfalo, ojos, médula espinal, cráneo, columna vertebral o carne separada por procedimientos mecánicos del cráneo o de la columna vertebral de bovinos de más de 30 meses de edad al momento del beneficio, o que
+
+b) fueron producidos por hidrólisis, saponificación o transesterificación a alta temperatura y alta presión.
 
 7º.- La situación de los países respecto de la EEB para efectos de esta normativa será aquella en que estén ubicados en la clasificación de situación sanitaria veterinaria que efectúa la OIE según aparece en su página oficial de internet.
 
