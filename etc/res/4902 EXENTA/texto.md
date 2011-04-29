@@ -20,7 +20,7 @@ Fíjese la siguiente norma técnica para el Servicio Intermedio de Telecomunicac
 
 #### Artículo 1º
 
-Destínese las bandas de frecuencias detalladas en el artículo siguiente, para la operación de equipos digitales de radiocomunicación destinados a acceso fijo inalámbrico, autorizados mediante concesión de servicio intermedio de telecomunicaciones, en adelante el servicio.
+Destínese las bandas de frecuencias detalladas en el artículo siguiente, para la operación de equipos digitales de radiocomunicación destinados a acceso inalámbrico, autorizados mediante concesión de servicio intermedio de telecomunicaciones, en adelante el servicio.
 
 #### Artículo 2º
 
@@ -54,7 +54,7 @@ El servicio deberá aceptar la interferencia perjudicial resultante de aplicacio
 
 #### Artículo 6º
 
-Las concesionarias del servicio podrán ubicar las estaciones terminales en cualquier parte dentro de la zona de servicio autorizada y podrán reubicarlas de acuerdo a la demanda, constituyendo radioestaciones móviles para efectos de lo dispuesto en el numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesión del servicio, se requerirá en forma previa a la instalación de las estaciones base, de una autorización otorgada mediante resolución exenta de la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
+Las concesionarias del servicio podrán ubicar las estaciones terminales de los sistemas de acceso inalámbrico fijo en cualquier parte dentro de la zona de servicio autorizada y podrán reubicarlas de acuerdo a la demanda, constituyendo radioestaciones móviles para efectos de lo dispuesto en el numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones. Para el caso de las modificaciones de concesión del servicio, se requerirá en forma previa a la instalación de las estaciones base, de una autorización otorgada mediante resolución exenta de la Subsecretaría de Telecomunicaciones, en adelante la Subsecretaría.
 
 Disposiciones Transitorias
 
