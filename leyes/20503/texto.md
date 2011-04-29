@@ -2,7 +2,7 @@ LEY NÚM. 20.503
 
 REFORMA CONSTITUCIONAL RELATIVO A LA SUPERVIGILANCIA Y CONTROL DE ARMAS
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley, iniciado en una Moción de la Diputada señora Soledad Alvear Valenzuela y señores Jorge Pizarro Soto y Hosaín Sabag Castillo.
+Teniendo presente que el H. Congreso ha dado su aprobación a la siguiente reforma constitucional, iniciada en una Moción de los Honorables Senadores señora Soledad Alvear Valenzuela y señores Jorge Pizarro Soto y Hosaín Sabag Castillo.
 
 Proyecto de Reforma Constitucional:
 
