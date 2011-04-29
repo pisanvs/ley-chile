@@ -18,11 +18,11 @@ Decreto:
 
 1.- Establécese que la Subsecretaría de Bienes Nacionales, para el caso de ausencia o impedimento, será subrogada por los siguientes funcionarios, todos de la Planta de Directivos del Ministerio de Bienes Nacionales, con residencia en Santiago, en el orden de precedencia que se señala:
 
-. En primer lugar, por doña Maritza Urzúa Rodríguez, (RUN 8.456.784-1) Jefa de la División Administrativa, grado 3º EUR.
+. En primer lugar, don Afonso Domeyko Letelier (10.675.751-8), Jefe de la División Jurídica, grado 3º EUR.
 
-. En segundo lugar, por don Alfonso Domeyko Letelier, (RUN 10.675.751-8) Jefe de la División Jurídica, grado 3º EUR.
+. En segundo lugar, doña Maritza Urzúa Rodríguez (8.456.784-1), Jefa de la División Administrativa, grado 3º EUR.
 
-. En tercer lugar, por don Mario Bórquez Brahm, (RUN 7.952.507-3) Jefe de la División de Planificación y Presupuesto, grado 3º EUR.
+. En tercer lugar, don Nicolás Musalem Herrera (15.381.836-3), Jefe de la División de Planificación y Presupuesto, grado 3º EUR.
 
 2.- Derógase el decreto supremo Nº 1, de fecha 24 de enero de 2007, del Ministerio de Bienes Nacionales.
 
