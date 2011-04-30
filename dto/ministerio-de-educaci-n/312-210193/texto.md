@@ -20,7 +20,7 @@ El Programa de Educación Media busca mejorar la oferta, retención y los result
 
 a) Línea de fortalecimiento de competencias docentes en implementación curricular, procesos técnico pedagógicos y prácticas institucionales de gestión, destinada a elevar los logros de aprendizaje de los estudiantes en el ámbito de la formación general y la formación diferenciada, asegurando de esta forma la disponibilidad de recursos y servicios pedagógicos de calidad.
 
-b) Línea de fortalecimiento de los procesos de inclusión de la diversidad y de trayectorias educativas y laborales, con el fin que los estudiantes permanezcan y completen su Educación Media, alcanzando los 12 años de escolaridad.
+b) Línea de fortalecimiento de los espacios de participación y expresión juvenil en los establecimientos educacionales, dirigida a favorecer la directa participación de los estudiantes en la construcción de sus trayectorias educativas, con el fin de que los jóvenes permanezcan y completen su enseñanza media y que accedan, de manera creciente, a una oferta educativa de calidad.
 
 c) Línea de asistencia técnica a liceos de alta vulnerabilidad educativa, dirigida a proveer de asesorías especializadas para la instalación de competencias, según las necesidades y particularidades de los establecimientos educacionales, a través de la contratación de instituciones de Educación Superior y otros organismos idóneos en el área de la asesoría educacional.
 
@@ -66,15 +66,17 @@ j) Realización de proyectos elaborados por los establecimientos educacionales s
 
 k) Elaboración e Implementación de Planes de Mejoramiento Educativo, los cuales corresponden a propuestas elaboradas con autonomía por los docentes, tendientes a mejorar los resultados educativos e institucionales en los establecimientos educacionales subvencionados por el Estado, regidos por el D.F.L. N° 2, de 1998 y por el D.L. N° 3.166, de 1980.
 
+l) Apoyo a los estudiantes de los establecimientos educacionales subvencionados de educación media que participen en eventos y/o actividades que favorezcan sus trayectorias educativas, tales como actividades científicas, literarias, históricas, culturales, ferias, congresos, concursos, muestras y/o exhibiciones.
+
 Para el año 2007 se contratarán un máximo de 60 profesionales con un honorario único y total de hasta $480.000 por persona. Este monto se pagará en dos cuotas: la primera, contra la presentación del proyecto de trabajo y la segunda cuota, contra la presentación y aprobación de los informes que acrediten la realización de las actividades previstas.
 
 #### Artículo 3º
 
 El desarrollo del Programa de Educación Media comprende la celebración, con las personas naturales o jurídicas que corresponda, de todos aquellos actos jurídicos necesarios para la implementación de las actividades, incluidos aquellos que estén relacionados con la operación del presente programa.
 
-#### Artículo 4°
+#### Artículo 4º
 
-Los gastos que irrogue la ejecución del Programa de Educación Media para el año 2009, se imputarán al Ítem 09-01-03-24-03-512, glosa 09, de la ley N° 20.314, de Presupuestos del Sector Público para el año 2009.
+Los gastos que irrogue la ejecución del Programa de Educación Media para el año 2011, se imputarán a la asignación 09-01-03-24-03-512, glosa 07, de la ley N° 20.481, de Presupuestos del Sector Público para el año 2011.
 
 Anótese, refréndese, tómese razón y publíquese.- Por orden del Presidente de la República, Mariana Aylwin Oyarzún, Ministra de Educación.- María Eugenia Wagner Brizzi, Ministra de Hacienda (S).
 
