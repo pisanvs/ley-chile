@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 537, de 31 de marzo de 2011, se expropiaron los lotes de terreno Nºs. 19 y 20, superficies 532 y 81 m2., Rol Nº 236-6, comuna de Los Lagos, XIV Región, "MEJORAMIENTO RUTA T-35, SECTOR LOS LAGOS VALDIVIA, TRAMO KM. 0,00000 A KM. 16,60000", y se acordó el valor de indemnización con su propietario don JUAN ÁNGEL SOTO VELÁSQUEZ, ascendente a la cantidad de $1.134.230.-
+
+Fiscal del Ministerio de Obras Públicas.
