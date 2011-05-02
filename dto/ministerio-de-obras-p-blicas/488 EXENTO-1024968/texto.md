@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 488 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 16, superficie 69 m2, rol N° 598-58, comuna de Santa Cruz para la obra "Mejoramiento Ruta I-710 Bifurcación I-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario MARÍA DE JESÚS UBILLA RAMÍREZ, ascendente a la cantidad de $731.318.-
+
+Fiscal del Ministerio de Obras Públicas.
