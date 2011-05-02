@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 543, de 31 de marzo de 2011, se expropió el lote de terreno Nº 38-B, superficie 1.580 m2., Rol Nº 151-106, comuna de Vichuquén, VII Región, "CAMINO RUTA J-810, SECTOR LICANTÉN VICHUQUÉN, TRAMO KM. 0,00000 A KM.15,372989", y se acordó el valor de indemnización con su propietaria AGRÍCOLA Y FORESTAL PALQUIBUDI S.A., ascendente a la cantidad de $2.956.573.-
+
+Fiscal del Ministerio de Obras Públicas.
