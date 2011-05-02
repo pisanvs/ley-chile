@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 492, de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 49, superficie 473,35 m2, rol N° 5074-199, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas - Fuerte Bulnes, Sector Río Amarillo - Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y la Antártica Chilena", y se acordó el valor de la indemnización con su propietario MANUEL ARTURO CÁRCAMO SOTOMAYOR, ascendente a la cantidad de $690.533.-
+
+Fiscal del Ministerio de Obras Públicas.
