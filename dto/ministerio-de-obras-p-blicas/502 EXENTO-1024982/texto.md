@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N° 502 de 31 de marzo del 2011, se expropiaron los lotes de terrenos Nºs 67-B, 68-A, 70-A y 70-B, superficies 750, 1.406, 165 y 5.029 m2., Rol Nº 139-66, comuna de Vichuquén, VII Región para la obra "CAMINO RUTA J-810, SECTOR LICANTÉN VICHUQUÉN TRAMO KM. 0,00000 AL KM. 15,372989" COMUNAS DE LICANTÉN Y VICHUQUÉN, PROVINCIA DE CURICÓ VII Región, y se acordó el valor de indemnización con su propietario MARIANO ENRIQUE LABBÉ CUBILLOS, ascendente a la cantidad de $8.540.494.-
+
+Fiscal del Ministerio de Obras Públicas.
