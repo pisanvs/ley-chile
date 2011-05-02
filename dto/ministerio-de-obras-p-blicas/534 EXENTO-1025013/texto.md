@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 534, de 31 de marzo de 2011, se expropió el lote de terreno Nº 29, superficie 1.709 m2., Rol Nº 219-90, comuna de Florida, VIII Región, "REPOSICIÓN RUTA 148, S: QUILLÓN AGUA DE LA GLORIA (POR TRAMOS), KM. 42,10000 A KM. 57,80000", y se acordó el valor de indemnización con su propietario don LUIS ANTONIO BRAVO, ascendente a la cantidad de $1.471.493.-
+
+Fiscal del Ministerio de Obras Públicas.
