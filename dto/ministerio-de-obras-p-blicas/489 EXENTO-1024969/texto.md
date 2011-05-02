@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 489, de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 8, superficie 1.098 m2, rol N° 2218-880, para la obra "Conservación Global de Varios Caminos, Sector Norte de la Provincia de Osorno II Etapa", Comuna de San Juan de la Costa, Provincia de Osorno, y se acordó el valor de la indemnización con su propietario KUEI-CHI CHEN, ascendente a la cantidad de $796.505.-
+
+Fiscal del Ministerio de Obras Públicas.
