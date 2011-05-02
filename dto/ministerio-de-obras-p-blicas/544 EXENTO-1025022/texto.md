@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 544, de 31 de marzo de 2011, se expropió el lote de terreno Nº 41, superficie 3.375 m2., Rol Nº 561-81, comuna de Tomé, VIII Región, "CAMINO RUTA 126, SECTOR COELEMU RAFAEL TOMÉ, TRAMO II, KM. 20,30000 A KM. 23,92041", y se acordó el valor de indemnización con su propietaria doña MARÍA ANA ARAVENA TORRES, ascendente a la cantidad de $3.019.293.-
+
+Fiscal del Ministerio de Obras Públicas.
