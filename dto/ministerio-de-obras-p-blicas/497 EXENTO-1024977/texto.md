@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 497 de 31 de marzo de 2011, se expropió el lote de terreno N° 38-A, superficie 227 m2, Rol N° 8020-16, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO RUTA C-495, EL TRÁNSITO JUNTA VALERIANO, ETAPA I, KM. 37,80000 AL KM. 44,06000" y se acordó el valor de indemnización con don ANIBAL MAURICIO SANTIBÁÑEZ RAMOS, ascendente a la cantidad de $560.999.-
+
+Fiscal del Ministerio de Obras Públicas.
