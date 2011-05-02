@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 538, de 31 de marzo de 2011, se expropió el lote de terreno Nº 6, superficie 98 m², Rol Nº 976-9, comuna de Alto del Carmen, III Región, "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO MINERO PASCUA LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA I", y se acordó el valor de indemnización con sus propietarios don GONZALO ENRIQUE ALCAYAGA LEYTON y don ELINOR DEL CARMEN ALCAYAGA LEYTON, ascendente a la cantidad de $2.103.258.-
+
+Fiscal del Ministerio de Obras Públicas.
