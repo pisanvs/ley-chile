@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 485 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 77, superficie 76 m2, rol N° 611-45, comuna de Santa Cruz para la obra "Mejoramiento Ruta 1-710 Bifurcación 1-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario PABLO ANDRÉS VALDÉS SÁNCHEZ, ascendente a la cantidad de $490.715.-
+
+Fiscal del Ministerio de Obras Públicas.
