@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 493 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 70, superficie 110 m2, rol N° 615-6, comuna de Santa Cruz para la obra "Mejoramiento Ruta I-710 Bifurcación I-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario TERESA CARMEN PIÑA VALDÉS, ascendente a la cantidad de $821.280.-
+
+Fiscal del Ministerio de Obras Públicas.
