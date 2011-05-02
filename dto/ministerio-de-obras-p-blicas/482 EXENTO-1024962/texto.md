@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 482, de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 57, superficie 190 m2, rol N° 632-112, comuna de Tomé, para la obra «Camino Ruta 126 Sector Coelemu - Rafael - Tomé, Tramo II, Km. 23,92041 a Km. 25,77000, Región del Bío Bío» y se acordó el valor de la indemnización con su propietaria FRANCISCA CECILIA RODRÍGUEZ AGURTO, ascendente a la cantidad de $257.831.-
+
+Fiscal del Ministerio de Obras Públicas.
