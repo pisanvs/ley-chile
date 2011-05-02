@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 501, de 31 de marzo de 2011, se expropiaron los lotes de terrenos N°s. 3, 4, 5-A y 5-B, superficies 2.545, 3.031, 435 y 3.067 m2, rol de Avalúo 162-28, comuna de Puerto Octay, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS ENSENADA, KM. 31,33730 A KM. 50,60320" PROVINCIA DE OSORNO LLANQUIHUE, COMUNA DE PUERTO OCTAY Y PUERTO VARAS, X REGIÓN y se acordó el valor de la indemnización con su propietaria doña FRANCISCA RYKS HEEREN, ascendente a la cantidad de $46.927.411.-
+
+Fiscal del Ministerio de Obras Públicas.
