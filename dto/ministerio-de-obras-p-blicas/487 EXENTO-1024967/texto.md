@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 487 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 37-F, superficie 20 m², rol N° 240-48, para la obra "Camino Ruta L-202, Sector Villa Alegre-Putagán, Tramo Km. 0,00000 a Km. 11,44287, Comuna de Villa Alegre, Provincia de Linares, VII Región" y se acordó el valor de la indemnización con su propietario ÓSCAR RENÉ SILVA GONZÁLEZ, ascendente a la cantidad de $289.872.-
+
+Fiscal del Ministerio de Obras Públicas.
