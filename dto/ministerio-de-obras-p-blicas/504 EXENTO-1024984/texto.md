@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 504, de 31 de marzo de 2011, se expropiaron los lotes de terrenos N°s. 8, 8-A, 8-B, 8-C, 8-D, 9 y 9-A, superficies 1.389, 111, 26, 104, 11, 248 y 155 m2, rol de Avalúo 162-1, comuna de Puerto Octay, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS ENSENADA, KM. 31,33730 A KM. 50,60320" PROVINCIA DE OSORNO LLANQUIHUE, COMUNA DE PUERTO OCTAY Y PUERTO VARAS, X REGIÓN y se acordó el valor de la indemnización con su propietario don CLAUDIO MAXIMILIANO APPEL WERNER, ascendente a la cantidad de $11.173.744.-
+
+Fiscal del Ministerio de Obras Públicas.
