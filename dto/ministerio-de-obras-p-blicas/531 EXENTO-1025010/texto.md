@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 531, de 31 de marzo de 2011, se expropió el lote de terreno Nº 85, superficie 174 m2., Rol Nº 614-5, comuna de Santa Cruz, VI Región, "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 YÁQUIL, KM. 0,00000 A KM. 6,98000", y se acordó el valor de indemnización con su propietario don OSVALDO DE JESÚS ARAYA FARIAS, ascendente a la cantidad de $1.151.845.-
+
+Fiscal del Ministerio de Obras Públicas.
