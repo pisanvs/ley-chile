@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 499 de 31 de marzo de 2011, se expropió el lote de terreno N° 5, superficie 1.588 m2, rol de Avalúo 2218-881, comuna de San Juan de la Costa, para la obra "CONSERVACIÓN GLOBAL DE VARIOS CAMINOS, SECTOR NORTE DE LA PROVINCIA DE OSORNO II ETAPA" COMUNA DE SAN JUAN DE LA COSTA, PROVINCIA DE OSORNO, X REGIÓN y se acordó el valor de la indemnización con su propietario KUEI-CHI CHEN, ascendente a la cantidad de $1.015.116.-
+
+Fiscal del Ministerio de Obras Públicas.
