@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 491, de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 50, superficie 500,93 m2, rol N° 5074-200, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas - Fuerte Bulnes, Sector Río Amarillo - Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y la Antártica Chilena" y se acordó el valor de la indemnización con su propietario LUIS ORLANDO GUERRERO PÉREZ, ascendente a la cantidad de $719.114.-
+
+Fiscal del Ministerio de Obras Públicas.
