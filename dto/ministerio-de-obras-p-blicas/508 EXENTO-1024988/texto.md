@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 508 de 31 de marzo de 2011, se expropió el lote de terreno N° 16-A, superficie 8.533 m2, rol de Avalúo 158-282, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO LAS GAVIOTAS. TRAMO KM. 65,58046 A KM. 72,78493", PROVINCIA DE OSORNO, X REGIÓN y se acordó el valor de la indemnización con su propietario CÉSAR RINALDO CERDA GUNCKEL, ascendente a la cantidad de $24.539.001.-
+
+Fiscal del Ministerio de Obras Públicas.
