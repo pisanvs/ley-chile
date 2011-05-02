@@ -1,0 +1,3 @@
+Por decreto MOP (exento) N° 484, de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 21, superficie 166,68 m2, rol N° 5074-287, comuna de Punta Arenas, para la obra "Camino Mejoramiento Ruta 9 Punta Arenas - Fuerte Bulnes, Sector Río Amarillo - Fuerte Bulnes Km. 34,07810 al Km. 42,03000, XII Región de Magallanes y la Antártica Chilena" y se acordó el valor de la indemnización con su propietario NORMA SONIA RODRÍGUEZ FERNÁNDEZ, ascendente a la cantidad de $372.730.-
+
+Fiscal del Ministerio de Obras Públicas.
