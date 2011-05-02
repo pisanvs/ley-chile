@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 500 de fecha 31 de marzo del 2011, se expropió el lote de terreno Nº 47, superficie 220 m2., Rol Nº 41-176, comuna de Lolol, VI Región, para la obra "MEJORAMIENTO RUTA I-70-J, SECTOR LOLOL RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878" y se acordó el valor de indemnización con su propietaria MIRTHA ESTHER VALDIVIA CORNEJO, ascendente a la cantidad de $832.078.-
+
+Fiscal del Ministerio de Obras Públicas.
