@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 480 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 17, superficie 9 m², rol N° 154-73, comuna de Petorca para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario RICARDO SEGUNDO RAMÍREZ CASTRO o RICARDO S RAMÍREZ CASTRO, ascendente a la cantidad de $367.447.-
+
+Fiscal del Ministerio de Obras Públicas.
