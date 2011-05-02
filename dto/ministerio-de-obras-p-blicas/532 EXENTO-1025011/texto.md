@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 532, de 31 de marzo de 2011, se expropiaron los lotes de terreno Nºs. 63 y 66, superficies 9 y 98 m2., Rol Nº 615-3, comuna de Santa Cruz, VI Región, "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 YÁQUIL, KM. 0,00000 A KM. 6,98000", y se acordó el valor de indemnización con su propietario don LUIS ALEJANDRO SÁNCHEZ CORNEJO, ascendente a la cantidad de $1.100.002.-
+
+Fiscal del Ministerio de Obras Públicas.
