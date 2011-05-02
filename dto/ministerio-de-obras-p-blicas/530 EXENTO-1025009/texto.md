@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 530, de 31 de marzo de 2011, se expropió el lote de terreno N° 41, superficie 233 m², Rol N° 41-169, comuna de Lolol, VI Región, "MEJORAMENTO RUTA I-70-J, SECTOR LOLOL-RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878", y se acordó el valor de indemnización con su propietario don SERGIO DEL CARMEN VALDIVIA CORNEJO, ascendente a la cantidad de $980.576.-
+
+Fiscal del Ministerio de Obras Públicas.
