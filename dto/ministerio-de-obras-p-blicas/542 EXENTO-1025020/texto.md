@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 542, de 31 de marzo de 2011, se expropió el lote de terreno Nº 1, superficie 435 m², Rol de avalúo 154-118, comuna de Petorca, V Región, "REPOSICIÓN RUTA E-35, CRUCE LONGITUDINAL CABILDO-PETORCA, SECTOR III, TRAMO KM. 40,40000 A KM. 57,65500, PROVINCIA DE PETORCA", y se acordó el valor de indemnización con su propietario don JAIME PEÑA ROJAS o JAIME DE LAS MERCEDES PEÑA ROJAS, ascendente a la cantidad de $2.521.313.-
+
+Fiscal del Ministerio de Obras Públicas.
