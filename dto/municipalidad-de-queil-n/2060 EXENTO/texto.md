@@ -90,9 +90,13 @@ Artículo 6º: El permiso de estacionamiento reservado en bienes nacionales de u
 
 art. 12º del DL 3.063. 1% UTM
 
-2.- Vehículo de transporte de pasajeros, de
+2.- Taxis colectivos se cobrará 20% UTM con límite de 5
 
-carga y otros, cada uno. 2% UTM
+metros lineales; Minibuses se cobrará 40% UTM con límite
+
+de 10 metros lineales y Buses se cobrará 60% UTM con
+
+límite de 15 metros lineales.
 
 3.- Terminales de locomoción colectiva, por
 
@@ -118,6 +122,8 @@ indicados en el punto 1. 8% UTM
 
 5.- Caballos, vacunos y ovinos, cada uno. 8% UTM
 
+Más gastos de alimentación, por día 10% UTM
+
 6.- Alimentos y enseres en general, por m3. 4% UTM
 
 7.- Licores, producto decomisos, por m3. 20% UTM
@@ -141,6 +147,22 @@ circulación (diario). 25% UTM
 3.- Duplicado Permiso de Circulación y otros. 3% UTM
 
 4.- Permiso Provisorio para conducir (mensual). 10% UTM
+
+5.- Se cobrará 5% UTM por venta de sello verde.
+
+6.- Retiro de vehículos abandonados y otros en
+
+la vía pública: Se cobrará de acuerdo a contrato
+
+de prestación de servicios que se suscriba una
+
+vez realizada la cotización, a través de Portal
+
+Chile-Compra, de conformidad a la Ley Nº19.886,
+
+Ley de Base Sobre Contratos Administrativos de
+
+Suministro y Prestación de Servicios
 
 #### Artículo 9
 
@@ -172,13 +194,11 @@ de Truco, Sorteo de Donaciones, sin venta
 
 de bebidas alcohólicas, diario. 15% UTM
 
-4.- Carreras a la Chilena, Torneos,
+4.- Carreras a la Chilena, Campeonatos de
 
-Campeonatos de Truco, Sorteo de
+Truco, Sorteo de Donaciones, con venta
 
-Donaciones, con venta de bebidas
-
-alcohólicas, diario 20% UTM
+de bebidas alcohólicas, diario 20% UTM
 
 5.- Ferias Artesanales, de juguetes, de
 
@@ -270,7 +290,7 @@ Artículo 12º: Toda propaganda que se realice en la vía pública o que sea vis
 
 no luminosos, semestral. 20% UTM
 
-2.- Letreros camineros, anual, por m2 10% UTM
+2.- Letreros camineros, anual, por m2 50% UTM
 
 3.- Instalación de lienzos, semanal. 15% UTM
 
@@ -302,9 +322,7 @@ b) Semanal 75% UTM
 
 <!-- parte:6588427 -->
 
-Derechos relativos con la Ley General de Urbanismo
-
-y Construcción
+Derechos relativos con la Ley General de Urbanismo y Construcción
 
 Artículo 14º: Los servicios, concesiones o permisos relativos a la urbanización y construcción que se señalan más adelante, pagarán los derechos municipales que para caso se indica, en conformidad a lo dispuesto en el artículo 130º de la Ley General de Urbanismo y Construcción, contenida en el DFL Nº 458 Minvu.
 
@@ -314,9 +332,15 @@ a) Subdivisiones 1,0% avalúo fiscal
 
 del terreno.
 
-b) Loteos 1,5% avalúo fiscal del
+b) Loteos 1,5% avalúo fiscal
 
-terreno.
+del terreno.
+
+c) Fusiones 1% del ponderado del
+
+avalúo fiscal de
+
+ambos terrenos.
 
 2.- Obras nuevas y ampliaciones 1,5% del presupuesto.
 
@@ -348,9 +372,9 @@ Suprímase el pago de los derechos contenidos en el presente art., respecto a la
 
 La ocupación de la vía pública por trabajos, reparaciones u otros, pagarán por m2, diario:
 
-a) Acera 0,2% UTM
+a) Acera 2% UTM
 
-b) Calzada 0,3% UTM
+b) Calzada 5% UTM
 
 #### Artículo 16º
 
@@ -434,7 +458,7 @@ no contemplados en esta ordenanza. 2% UTM
 
 <!-- parte:6588433 -->
 
-Los valores por Derechos de Recintos y Elementos Deportivos se reajustarán, el 1º de enero de cada año, de acuerdo al IPC del año anterior.
+ELIMINADO.
 
 #### Artículo 21
 
@@ -448,7 +472,7 @@ Artículo 21º: En casos de emergencias, producidas dentro de la comuna, se cobr
 
 2.- Arriendo Motoniveladora, por hora 50% UTM
 
-3.- Arriendo Camión Tolva, por hora 25% UTM
+3.- Arriendo Camión Tolva, por hora 50% UTM
 
 #### Artículo 22
 
@@ -456,11 +480,35 @@ Artículo 21º: En casos de emergencias, producidas dentro de la comuna, se cobr
 
 Derechos por arriendos inmuebles municipales
 
-Artículo 22º: Para las personas naturales o jurídicas, que se dediquen a la venta de Artesanías, Manualidades u otra actividad de carácter artesanal, se cobrarán los siguientes derechos, por mes o fracción de mes:
+Artículo 22º: Para las Personas Naturales o Jurídicas, que deseen arrendar cualquier inmueble municipal señalado en los puntos siguientes, se cobrarán los derechos que a continuación se indican, por mes o fracción de mes:
 
 1.- Arriendo Mirador 15% UTM
 
 2.- Arriendo Módulos Costanera 15% UTM
+
+3.- Arriendo de local para cocinería
+
+del Mercado Municipal por 1 UTM
+
+4.- Arriendo uso del Camping Municipal 5% UTM
+
+por carpa
+
+diario y
+
+2,5% UTM
+
+por persona
+
+diario
+
+5.- Arriendo del Centro Cultural, Sede Julia
+
+Muñoz o Telecentro Comunitario para efectuar
+
+reuniones por ejemplo con un costo de 5% UTM
+
+por hora.
 
 #### Artículo 23
 
@@ -502,7 +550,9 @@ Municipal, por hoja 1% UTM
 
 10. Inscripción en el Registro de Contratistas
 
-y/o proveedores municipales. 15% UTM
+y/o proveedores municipales. 30% UTM
+
+anual
 
 11. Bases Administrativas, Técnicas y sus
 
