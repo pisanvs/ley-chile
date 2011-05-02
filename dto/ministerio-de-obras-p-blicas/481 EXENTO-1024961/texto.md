@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 481 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 39, superficie 150 m², rol N° 41-168, comuna de Lolol para la obra "Mejoramiento Ruta I-70-J, Sector Lolol-Ranguil, Tramo Km. 0,00000 a Km. 19,38878" VI Región y se acordó el valor de la indemnización con su propietario HUGO EUGENIO VALDIVIA CORNEJO, ascendente a la cantidad de $479.887.-
+
+Fiscal del Ministerio de Obras Públicas.
