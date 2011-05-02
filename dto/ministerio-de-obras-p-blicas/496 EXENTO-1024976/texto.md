@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 496 de fecha 31 de marzo de 2011, se expropió el lote de terreno N° 12-A, superficie 34 m², rol N° 154-58, comuna de Petorca para la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo-Petorca, Sector III, Tramo Km. 40,40000 a Km. 57,65500, Comuna de Petorca y Provincia de Petorca, V Región" y se acordó el valor de la indemnización con su propietario JUAN RAIMUNDO ARAYA LUAN, ascendente a la cantidad de $404.595.-
+
+Fiscal del Ministerio de Obras Públicas.
