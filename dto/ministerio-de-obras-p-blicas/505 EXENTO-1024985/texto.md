@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 505, de 31 de marzo de 2011, se expropiaron los lotes de terrenos N°s. 87 y 90, superficie 979 y 334 m2, rol de Avalúo 2451-19, comuna de Temuco, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO LABRANZA KM. 4,61500 A KM. 11,68000", PROVINCIA DE CAUTÍN, COMUNA DE TEMUCO, REGIÓN DE LA ARAUCANÍA, y se acordó el valor de la indemnización con su propietario don JUAN PABLO GUEVARA VALDERRAMA, ascendente a la cantidad de $11.595.592.-
+
+Fiscal del Ministerio de Obras Públicas.
