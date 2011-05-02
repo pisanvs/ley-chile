@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 539, de 31 de marzo de 2011, se expropió el lote de terreno Nº 29, superficie 124 m², Rol de avalúo E/T, comuna de Río Hurtado, IV Región, "MEJORAMIENTO RUTA D-595, OVALLE-HURTADO, SECTOR SAMO ALTO PICHASCA", y se acordó el valor de indemnización con su propietaria doña NATIVIDAD HONORES GONZÁLEZ, ascendente a la cantidad de $2.223.847.-
+
+Fiscal del Ministerio de Obras Públicas.
