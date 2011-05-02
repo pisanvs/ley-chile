@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 509 de 31 de marzo de 2011, se expropiaron los lotes de terrenos N°s. 28, 29-B y 29-C, superficies 253, 1.416 y 2.644 m2, rol de Avalúo 353-4, comuna de Villarrica, para la obra "CAMINO RUTA S-69, SECTOR PEDREGOSO VILLARRICA, TRAMO KM. 25,80000 A KM. 38,52500", COMUNA DE VILLARRICA, PROVINCIA DE CAUTÍN, IX REGIÓN y se acordó el valor de la indemnización con su propietario don PAULINO VARAS ALFONSO, ascendente a la cantidad de $21.243.400.-
+
+Fiscal del Ministerio de Obras Públicas.
