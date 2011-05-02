@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 533, de 31 de marzo de 2011, se expropió el lote de terreno Nº 84-A, superficie 1.522 m2., Rol Nº 131-13, comuna de Vichuquén, VII Región, "CAMINO RUTA J-810, SECTOR LICANTÉN VICHUQUÉN, TRAMO KM. 0,00000 A KM. 15,372989", y se acordó el valor de indemnización con sus propietarios GEORGINA ISABEL CORREA ORMAZÁBAL Y OTROS, ascendente a la cantidad de $1.636.874.-
+
+Fiscal del Ministerio de Obras Públicas.
