@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 512, de 31 de marzo de 2011, se expropió el lote de terreno N° 98, superficie 484 m2, rol de Avalúo 2450-12, comuna de Temuco, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO LABRANZA KM. 4,61500 A KM. 11,68000. PROVINCIA DE CAUTÍN, COMUNA DE TEMUCO, REGIÓN DE LA ARAUCANÍA", y se acordó el valor de la indemnización con su propietaria doña LUZ LEONARDA GÓMEZ KONIG Y OTRA, ascendente a la cantidad de $36.602.405.-
+
+Fiscal del Ministerio de Obras Públicas.
