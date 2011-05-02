@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 511 de 31 de marzo de 2011, se expropió el lote de terreno Nº 29-B, superficie 912 m2., Rol Nº 317-18, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000" COMUNAS SAN JAVIER Y CAUQUENES, PROVINCIAS LINARES Y CAUQUENES, REGIÓN DEL MAULE y se acordó el valor de indemnización con su propietario VITALIO DEL CARMEN CÁCERES CÁCERES, ascendente a la cantidad de $32.509.582.-
+
+Fiscal del Ministerio de Obras Públicas.
