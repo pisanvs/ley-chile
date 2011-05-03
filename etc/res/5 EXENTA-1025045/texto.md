@@ -1,0 +1,7 @@
+Por resolución exenta Nº 05/2011, de fecha 26 de abril de 2011, de la Dirección Zonal de Pesca de las Regiones V a IX e Islas Oceánicas, modifíquese el numeral 1º letras A) y B) de la resolución exenta Nº 475, de 2011, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el período comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2011, en el sentido de modificar las asignaciones para el recurso Sardina común, correspondientes a las organizaciones artesanales: Cooperativa de Pescadores Pelilleros de Isla Santa María Dec. 1238 y el Sindicato de Trabajadores Independientes de Pescadores Artesanales, Armadores Artesanales Pelágicos, Actividades Afines y Actividades Conexas de la Caleta San Vicente de la comuna de Talcahuano, SIPARMARCEA, Registro Sindical Único 08.05.0430, de acuerdo con lo siguiente:
+
+A) Pesquería artesanal de Anchoveta
+
+B) Pesquería artesanal de Sardina común
+
+Talcahuano, 26 de abril de 2011.- Ludwig Ziller Antonucci, Director Zonal.
