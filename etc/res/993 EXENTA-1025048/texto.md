@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 993 EXENTA, DE 2011
+
+Por resolución exenta Nº 993, de fecha 15 de abril de 2011, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se otorga reconocimiento oficial a la Escuela de Conductores Profesionales "Escuela de Conductores Longitudinal Sur Limitada" o "Longitudinal Sur Ltda.", RUT Nº 76.101.748-9, cuya representante legal es la señora Georgina del Carmen Rojas Vásquez, para impartir los cursos conducentes a la obtención de licencia de conductor profesional Clase A2 y A4, en la sede ubicada en Manuel Montt Nº 9, 2º piso, y taller mecánico, ubicado en Bernardino Bravo Nº 076, ambas en la comuna de Buin.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana (S).
