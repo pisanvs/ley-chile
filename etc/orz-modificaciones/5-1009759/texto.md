@@ -14,11 +14,11 @@ Modifícase el párrafo I Nº 3 del artículo 6 de la Ordenanza Nº 5, de 16 de 
 
 ### I. Se consideran los siguientes valores:
 
-a) Zona Alta: $900.- / hora + IVA
+a) Zona Alta: $900.- / hora IVA incluido
 
-b) Zona Media: $750.- / hora + IVA
+b) Zona Media: $750.- / hora IVA incluido
 
-c) Zona Baja: $600.- / hora + IVA
+c) Zona Baja: $600.- / hora IVA incluido
 
 Estos valores se cobrarán a contar del 1 de enero de 2010".
 
