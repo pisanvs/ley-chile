@@ -1,0 +1,3 @@
+Por resolución Nº 706 de 28 de marzo de 2011, de esta Subsecretaría, autorízase al Sindicato Trabajadores Independientes Pescadores Artesanales Indígenas Buzos Mariscadores y Ramos Afines, "Nazareno de la Arena" para realizar actividades de colecta de semillas, por seis meses, con superficie y coordenadas geográficas señaladas en la resolución extractada.
+
+Valparaíso, 28 de marzo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
