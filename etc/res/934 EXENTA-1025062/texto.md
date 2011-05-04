@@ -1,0 +1,3 @@
+Por resolución exenta Nº 934, de 19 de abril de 2011, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 581, de 2011, de esta Subsecretaría de Pesca que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo biológico pesquero artesanal de raya volantín (Zearaja Chilensis) en Bahía Mansa, X Región, 2011", en el sentido de incorporar a la L/M Krill a la nómina de embarcaciones artesanales participantes en la pesca de investigación, según se indica en la resolución extractada.
+
+Valparaíso, 19 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
