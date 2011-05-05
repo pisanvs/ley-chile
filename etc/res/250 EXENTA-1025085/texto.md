@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS DE CORPBANCA ADMINISTRADORA GENERAL DE FONDOS S.A.
+
+Certifico: Que, por resolución exenta Nº250 de fecha 21 de abril de 2011, de esta Superintendencia de Valores y Seguros, se aprobó reforma de estatutos de "Corpbanca Administradora General de Fondos S.A.", cuya acta de junta extraordinaria de accionistas celebrada el 12 de octubre de 2010, se redujo a escritura pública el 20 de octubre de 2010, otorgada ante don Juan Ricardo San Martín Urrejola, Titular de la 43ª Notaría de Santiago, en la que se acordó crear el cargo de vicepresidente del directorio, con las facultades del presidente, en caso de ausencia de este último, modificando al efecto los artículos 16º y 22º de sus estatutos, respectivamente.
+
+Santiago, 21 de abril de 2011.- Carmen Undurraga Martínez, Secretario General.
