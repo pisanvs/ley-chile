@@ -1,0 +1,7 @@
+Por resolución exenta Nº 794, de 6 de abril de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 163, de 2011, modificada mediante resoluciones exentas Nº 305 y Nº 530, ambas de 2011, todas de esta Subsecretaría de Pesca, que autorizó al CENTRO DE INVESTIGACIÓN Y DESARROLLO EN CIENCIAS DEL MAR ITEKMAR S.A. para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo de la pesquería de Merluza del sur, Merluccius australis, en la Región de Los Lagos, para armadores artesanales de la Subzona Islas de Calbuco", en el sentido que a continuación se indica:
+
+a) En el numeral 5º, inciso 1º, indicar que el límite de captura de Merluza del sur autorizado para la Subzona Islas de Calbuco ascenderá a 213,912 toneladas, fraccionadas de la manera señalada en la resolución extractada.
+
+b) En el numeral 9º, inciso 1º, señalar que podrán participar en la presente pesca de investigación los pescadores artesanales inscritos y las embarcaciones y sus armadores inscritos en el Registro Pesquero Artesanal de la X Región, sección Merluza del sur, de conformidad con la Ley Nº 19.923, que se indica en la resolución extractada.
+
+Valparaíso, 6 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
