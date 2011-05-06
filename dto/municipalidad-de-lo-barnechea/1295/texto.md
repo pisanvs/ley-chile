@@ -1312,11 +1312,7 @@ de trote, etc.
 
 Científico: Institutos de Investigación Científica y/o Tecnológica
 
-Comercio: Restaurantes
-
-Fuentes de Soda
-
-Bares y similares
+Comercio: SUPRIMIDO.-
 
 a.2.- Area Verde
 
