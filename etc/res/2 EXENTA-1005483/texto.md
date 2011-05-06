@@ -14,13 +14,23 @@ Resuelvo:
 
 1.- Créase el Consejo de Pesca Recreativa de la XII Región de Magallanes y Antártica Chilena, de conformidad con lo establecido en el artículo 42 de la ley Nº 20.256, el cual estará integrado por las siguientes personas:
 
-a) Marcelo González Navarro, Director Zonal de Pesca de la XII Región de Magallanes y Antártica Chilena.
+a) Director Zonal de Pesca de la XII Región de Magallanes y Antártica Chilena, o quien lo subrogue legalmente;
 
-b) Patricio Díaz Oyarzún, Director Regional de Pesca de la XII Región de Magallanes y Antártica Chilena.
+b) Director Regional de Pesca de la XII Región de Magallanes y Antártica Chilena, o quien lo subrogue legalmente;
 
-c) Cristián Miranda Kirk, Director Regional de Turismo de la XII Región de Magallanes y Antártica Chilena.
+c) Director Regional de Turismo de la XII Región de Magallanes y Antártica Chilena, o quien lo subrogue legalmente, y
 
-d) Javier Solís Uribe, representante del Gobierno Regional, designado mediante oficio citado en Visto, Secretaría Regional Ministerial de Economía de la XII Región de Magallanes y Antártica Chilena.
+c) Secretario Regional Ministerial de Economía, o quien lo subrogue legalmente, como representante del Gobierno Regional.
+
+1º Bis.- Asimismo, integrarán el Consejo individualizado en el numeral 1º las siguientes personas, nominadas de conformidad con lo dispuesto en el artículo 42 letra e) de la ley Nº 20.256 y el DS Nº 138, de 2009, del Ministerio de Economía, Fomento y Reconstrucción:
+
+a) En Representación de Clubes de Pesca
+
+Víctor Figueroa Arratia, cédula nacional de identidad número 5.427.570-6, y
+
+b) En Representación de las Universidades
+
+Juan Cañete Aguilera, cédula nacional de identidad número 9.018.185-8
 
 2.- Sin perjuicio de lo anterior, podrán ser invitados a participar en el Consejo de Pesca Recreativa de la XII Región de Magallanes y Antártica Chilena, un representante de Carabineros, de la Armada de Chile, de las asociaciones municipales de la XII Región de Magallanes y Antártica Chilena, y de las cámaras de turismo que tengan su domicilio en la XII Región de Magallanes y Antártica Chilena.
 
