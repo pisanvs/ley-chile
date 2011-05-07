@@ -1,0 +1,3 @@
+Por resolución exenta Nº 811, de 8 de abril de 2011, de esta Subsecretaría, modifícase el numeral 8º de la resolución exenta Nº 93, de 2011, modificada mediante resoluciones exentas Nº 188, Nº 324, Nº 733 y Nº 736, todas de 2011, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación Pesquerías Demersales y Pelágicas de Merluza del sur, Congrio dorado, Raya y Reineta, Magallanes y Antártica Chilena", en el sentido de señalar que la cuota de Congrio dorado para el periodo enero-julio de 2011 ascenderá a 65 toneladas.
+
+Valparaíso, 8 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
