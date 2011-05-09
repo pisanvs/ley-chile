@@ -1,0 +1,29 @@
+PRORROGA RESOLUCIÓN Nº 1.176 EXENTA DE 2009, EN EL SENTIDO QUE INDICA
+
+Núm. 1 439 exenta.- Valparaíso, 21 de abril de 2011.- Visto: Lo dispuesto en los artículos 107º y 113º del DFL Nº 1/2007, que fija texto refundido, coordinado y sistematizado de la Ley de Tránsito, en relación con el artículo 43º de la ley Nº 18.287; decreto Nº 255 de 1981 del Ministerio de Transportes y Telecomunicaciones y resoluciones Nº 59 de 1985 y Nº 39 de 1992 del Ministerio de Transportes y Telecomunicaciones (MTT); DS Nº 212/92 del MTT; DS Nº 20/82 del Ministerio de Educación; DS Nº 45/89 del MTT; oficio ordinario Nº G-Nº 428 de 1 de abril de 2011 de la Gobernación Provincial de San Antonio, que contiene solicitud de prorrogar la medida de restricción vehicular en la Provincia de San Antonio; presentación de fecha 28 de marzo de 2011 del Consejo de Taxis Colectivos de la Provincia de San Antonio solicitando la prórroga de la resolución exenta Nº 1.176/2009 y cambio en el calendario de la restricción; las resoluciones exentas Nos. 737/2007, 1.176/2009, 995/2010 y 1.708/2010 de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso; el Estudio de Mejoramiento de Gestión de Tránsito San Antonio del año 2003, de la Secretaría Interministerial de Planificación de Transportes (SECTRA); la normativa vigente aplicable, y
+
+Considerando:
+
+1º La necesidad de adoptar medidas eficaces que permitan reducir la congestión vial en la Provincia de San Antonio, y contribuir con ello a una mejor calidad de vida de sus habitantes, con fecha 22 de abril de 2009, y teniendo como antecedente la resolución exenta Nº 737/2007, la Secretaría Regional Ministerial dictó la resolución exenta Nº 1.176 que "Prohíbe la circulación de taxis colectivos y buses, urbanos y rurales en la provincia de San Antonio, en el sentido que indica", cuya vigencia venció el día 31 de marzo de 2010 y se prorrogó mediante resolución exenta Nº 995 de 24 de marzo de 2010, modificada por la resolución exenta Nº 1.708 de fecha 25 de mayo de 2010, ambas de esta Secretaría Regional Ministerial.
+
+2º Que el estudio señalado en el Visto, y que sirvió de fundamento para la implementación y aplicación de la medida, analizó en forma exhaustiva las condiciones del sistema de tránsito y transporte público en la comuna de San Antonio, en dicha época, señalando que en el área céntrica de la ciudad de San Antonio se observaban problemas asociados fundamentalmente a la gestión de tránsito del sistema de transporte, capacidad de vías, uso indiscriminado de estacionamientos y mala gestión en los paraderos de transporte público, lo que producía altos índices de saturación. Gran parte de las condiciones en que se fundó dicho estudio y sus conclusiones se mantienen vigentes a la fecha.
+
+3º Que el Consejo de Taxis Colectivos de la Provincia de San Antonio con fecha 28 de marzo de 2011, informa que la medida de prohibición vehicular señalada en el primer considerando, ha traído aparejados logros en el ordenamiento, contribuyendo a atenuar las aglomeraciones y congestión vehicular en la provincia, por lo que estima aconsejable su prórroga.
+
+4º Que la cantidad de vehículos que componen la locomoción colectiva en la provincia de San Antonio está constituida principalmente por locomoción colectiva menor, con un parque de 1.293 taxis o vehículos de alquiler, de los cuales existen 946 que se encuentran inscritos bajo modalidad taxi colectivo urbano y 347 que se encuentran adscritos a taxi colectivo rural. De esta forma, la locomoción colectiva menor constituye un 68% de la locomoción que opera en dicha provincia.
+
+5º La solicitud de la Gobernación Provincial de San Antonio, citada en Visto, que ha solicitado a esta Secretaría Ministerial se adopten y renueven las medidas sobre restricción vehicular en la provincia al transporte público menor de la provincia.
+
+6º Que en la misma solicitud de la Gobernación Provincial se solicitó dejar fuera de la restricción a los vehículos de la comuna de Algarrobo por ser un número que de aplicarse la restricción dejaría desprovista de locomoción colectiva a la población, debido a que existen sólo 16 vehículos inscritos en esa categoría.
+
+Resuelvo:
+
+1º Prorróguese la medida implementada por la resolución exenta Nº 1.176/2009 de esta Secretaría de Estado, extendiéndose la prohibición de circular, solamente a todos aquellos vehículos motorizados inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros, bajo modalidad de taxis colectivos; sean éstos urbanos o rurales; restringiendo el ámbito de aplicación a los taxis colectivos que prestan servicios en la provincia de San Antonio; de acuerdo al último dígito de la placa patente única del vehículo afecto a restricción, según el calendario que se indica a continuación:
+
+2º La prohibición anteriormente señalada comenzará a regir desde la publicación en el Diario Oficial de la presente resolución hasta el 31 de diciembre de 2011 para los servicios rurales y hasta el 31 de marzo del 2012 para los servicios urbanos, y regirá de lunes a viernes, excepto festivos, desde las 7:00 AM hasta las 20:00 horas, contemplando todas las vías públicas de la provincia de San Antonio.
+
+3º Exceptúanse a los vehículos que circulen fuera de servicio, debiendo exhibir un letrero que así lo indique y los vehículos que presten servicios urbanos dentro de la comuna de Algarrobo.
+
+4º Carabineros de Chile, inspectores fiscales y municipales velarán por el cumplimiento de la restricción de circulación impuesta a la locomoción colectiva menor, mediante la presente resolución.
+
+Luis Eduardo González Brito, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región de Valparaíso.
