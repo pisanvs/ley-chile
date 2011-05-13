@@ -38,7 +38,7 @@ Debe Decir:
 
 a) Máquinas Tragamonedas: Desde las 10:00 hrs. hasta las 07:00 hrs., del día siguiente.
 
-b) Mesas de Juegos: Desde las 18:00 hrs. hasta las 06:00 hrs., del día siguiente.
+b) Mesas de Juegos: Desde las 14:00 hrs. hasta las 06:00 hrs., del día siguiente, considerándose al inicio cuatro (4) mesas y las restantes a contar de las 20:00 hrs.
 
 2.- Modifíquese párrafo 4, del Control Durante el Juego, de la ordenanza municipal Nº316, del 7 de julio de 2010; arts. 19, 22, 24, 27 y 28.
 

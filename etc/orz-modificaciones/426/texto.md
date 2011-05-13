@@ -24,7 +24,7 @@ O r d e n o:
 
 a) Máquinas Tragamonedas : Desde las 10:00 hrs. hasta las 07:00 hrs., del día siguiente.
 
-b) Mesas de Juegos : Desde las 18:00 hrs. hasta las 06:00 hrs., del día siguiente.
+b) Mesas de Juegos: Desde las 14:00 hrs. hasta las 06:00 hrs., del día siguiente, considerándose al inicio cuatro (4) mesas y las restantes a contar de las 20:00 hrs.
 
 2.- Autorícese a la Dirección de Asesoría Jurídica para que dicte el texto refundido, coordinado y sistematizado de la Ordenanza Municipal N° 316, sobre "Reglamento Interno de Funcionamiento del Casino Municipal de Iquique".
 
