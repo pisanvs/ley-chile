@@ -440,105 +440,55 @@ Todo interno tendrá derecho a que la Administración Penitenciaria le permita, 
 
 La Administración Penitenciaria incentivará, con fines de reinserción social, a que los internos efectúen estudios de enseñanza media, técnica o de otro tipo.
 
-### Párrafo 9º — De la capacitación y el trabajo penitenciario.
+### Párrafo 9º — De la capacitación y el trabajo penitenciario. DEROGADO.
 
-#### Artículo 60
+#### Artículo 60°
 
-La Administración Penitenciaria promoverá el desarrollo de actividades o cursos de capacitación destinados a facilitar la inserción laboral de los internos.
+(DEROGADO)
 
-Los oficios para los cuales se capaciten deberán ser concordantes con el interés de los internos y el mercado laboral regional.
+#### Artículo 61°
 
-#### Artículo 61
+(DEROGADO)
 
-Los internos tendrán derecho a desarrollar trabajos individuales o en grupos, que les reporten algún tipo de beneficio económico para contribuir a solventar los gastos de su familia y crear un fondo individual de ahorro para el egreso.
+#### Artículo 62°
 
-Lo señalado en el inciso anterior será sin perjuicio de lo establecido en los artículos 32 y 89 del Código Penal.
+(DEROGADO)
 
-#### Artículo 62
+#### Artículo 63°
 
-El trabajo penitenciario se efectuará, en general, en los talleres y otros recintos expresamente destinados al efecto dentro de los establecimientos penitenciarios. Los Directores Regionales, previo informe del Consejo Técnico del establecimiento, y en su caso, con la autorización del juez respectivo, podrán autorizar que determinados internos, debidamente seleccionados, realicen trabajos en otros establecimientos penitenciarios, en recintos anexos a ellos o fuera de los mismos. En este último caso la autorización sólo podrá concederse para efectuar trabajos en beneficio de la comunidad o que se encuentren justificados en relación a algún programa de rehabilitación, capacitación o empleo.
+(DEROGADO)
 
-#### Artículo 63
+#### Artículo 64°
 
-Sin perjuicio de lo dispuesto por la normativa aplicable a los Centros de Educación y Trabajo, las actividades laborales que desarrollen los internos podrán consistir en:
+(DEROGADO)
 
-a) Trabajos por cuenta propia, entendiéndose por tales aquellos ejecutados en forma independiente destinados, generalmente, a la manufactura o fabricación de especies y productos por propia iniciativa y con materiales propios, ofrecidos por los internos directamente al público o aquellos en que la fabricación del producto o la ejecución de la obra material se encuentra precedida de un encargo proveniente de personas jurídicas o naturales, sea que éstas proporcionen o no las materias primas, financien su ejecución o impartan instrucciones acerca de lo que solicitan, siempre que para ello no se pacte una remuneración sino un precio para la obra, especie o producto.
+#### Artículo 65°
 
-b) Trabajos subordinados ejecutados en el marco de actividades productivas o de capacitación que se ejecuten al interior de los establecimientos penitenciarios en virtud de proyectos convenidos por terceros con la Administración Penitenciaria.
+(DEROGADO)
 
-#### Artículo 64
+#### Artículo 66°
 
-Las actividades laborales que efectúen los internos en el marco de los convenios ejecutados por terceros a que se refiere la letra
+(DEROGADO)
 
-- **b)** del artículo precedente, se regirán por la legislación laboral común si a su respecto se verifican los siguientes elementos:
+#### Artículo 67°
 
-- **a)** existencia de empleador y trabajador;
+(DEROGADO)
 
-- **b)** prestación de servicios personales del trabajador al empleador;
+#### Artículo 68°
 
-- **c)** pago de una remuneración por parte del empleador, y
+(DEROGADO)
 
-- **d)** vínculo de subordinación o dependencia del trabajador al empleador.
+#### Artículo 69°
 
-Aquellas relaciones en que no concurran los elementos referidos en el inciso precedente, se regirán por las disposiciones del derecho común que les resulten aplicables.
+(DEROGADO)
 
-En todo caso, cualquiera sea la normativa aplicable, se dejará constancia en los convenios respectivos que se celebren que las remuneraciones que se paguen a los internos por las empresas o terceros contratantes no podrán ser inferiores al ingreso mínimo que anualmente fija la autoridad competente para los trabajadores no recluidos, debiendo efectuarse también las cotizaciones previsionales en el o los organismos del régimen previsional que corresponda.
+#### Artículo 70°
 
-#### Artículo 65
+(DEROGADO)
 
-La Administración Penitenciaria dispondrá la adopción directa de las precauciones necesarias para proteger la seguridad y salud de los internos trabajadores y cautelará que los mismos resguardos sean adoptados por los terceros que desarrollen actividades productivas o de capacitación que empleen mano de obra de los trabajadores recluidos.
+#### Artículo 71°
 
-En caso de aquellas relaciones entre internos y terceros no regidas por la legislación laboral y que por esa razón no obligan a estos últimos a cotizar para los efectos de la Ley de Accidentes del Trabajo y Enfermedades Profesionales, se dejará constancia en los convenios respectivos que se celebren que deberá contratarse un seguro de accidentes personales que ponga a los internos a cubierto de las contingencias a que se refiere ese cuerpo legal. Los costos de contratación y mantención de estos seguros serán de cargo del tercero que impulse la actividad laboral o productiva de que se trate.
-
-#### Artículo 66
-
-La custodia y distribución de las remuneraciones que perciban los internos corresponde al Jefe del Establecimiento, quien para este efecto deberá cumplir con la voluntad o instrucciones del interno, en la medida que ello sea compatible con el régimen del establecimiento. Asimismo deberá dar cumplimiento a las disposiciones de los artículos 67, 71 y 74 del presente reglamento y asegurarse de que se efectúen las deducciones y pago de las cotizaciones previsionales cuando corresponda.
-
-Podrá acordarse, dejándose constancia expresa en el convenio que al efecto se celebre, que las deducciones, pagos y depósitos que establece este artículo sean efectuados directamente por el tercero que ejecuta la actividad laboral de que se trate, el que deberá dar cuenta documentada de su cumplimiento, en forma mensual, al Jefe del Establecimiento, conservando este último la responsabilidad sobre la custodia y distribución de las remuneraciones.
-
-La cuenta que se rinda de conformidad con el inciso precedente deberá hacerse por duplicado y dejar constancia del monto total de remuneración devengada por el interno, de la totalidad de las deducciones que se hayan efectuado, del pago y depósito de las sumas que se hayan enterado en los organismos previsionales y cuentas de ahorro y de la cantidad que se haya entregado directamente al trabajador.
-
-El Jefe del Establecimiento deberá entregar una copia de esta cuenta al trabajador.
-
-#### Artículo 67
-
-Del producto del trabajo de los condenados a presidio, y de los condenados a prisión o reclusión en caso de afectarles las responsabilidades a que se refiere el artículo 89 del Código Penal, se deducirá si procediere:
-
-a) Un 10% destinado a indemnizar los gastos que ocasionen al establecimiento, incluyendo las materias primas que les proporcione la Administración Penitenciaria.
-
-b) Un 15% a fin de hacer efectiva la responsabilidad civil proveniente del delito.
-
-c) Un 15% destinado a formarles un fondo individual de reserva que se les entregará cuando egresen definitivamente del establecimiento penitenciario.
-
-Una vez realizadas las deducciones que correspondan, el resto del producto de su trabajo será de libre disposición del interno y se destinará a proporcionarle las ventajas y alivios que solicite, sin perjuicio de lo que dispone el artículo 74.
-
-#### Artículo 68
-
-Tratándose de actividades laborales impulsadas por terceros ajenos a la Administración Penitenciaria, las jornadas de trabajo deberán desarrollarse dentro de los horarios de desencierro y encierro que contemple el régimen interno del establecimiento. Si la naturaleza del trabajo lo exige o por circunstancias excepcionales se haga imperativo el trabajo fuera de estos horarios, dicha circunstancia deberá expresarse en el convenio que se suscriba al efecto, o autorizarse por el Jefe del Establecimiento. Del mismo modo, el convenio pertinente deberá dejar constancia expresa cuando el trabajo deba desarrollarse por turnos y éstos alcancen horarios nocturnos o que excedan los horarios del régimen interno.
-
-#### Artículo 69
-
-La Administración Penitenciaria velará por que las actividades laborales que desarrollen terceros dentro de los establecimientos penitenciarios, sean coherentes con los programas de tratamiento y la política penitenciaria en general y pondrá especial énfasis en que, junto con los contenidos técnicos de la capacitación y con el respeto de los derechos laborales de los internos en el desarrollo del trabajo remunerado, se entregue a éstos, de manera clara, el contenido valórico del trabajo en sí mismo.
-
-#### Artículo 70
-
-Las relaciones entre internos y terceros ajenos a la Administración Penitenciaria, regidas por la legislación laboral común, suponen la vigencia plena de todas las disposiciones que componen dicha normativa; sin embargo, el ejercicio de los derechos colectivos como el derecho a huelga, a sindicalizarse, a negociar colectivamente u otros que las normas del trabajo contemplen, estará limitado por el respeto al régimen penitenciario a que se encuentran sometidos los trabajadores recluidos, el que no podrá ser alterado en modo alguno en razón de estos derechos.
-
-#### Artículo 71
-
-Las relaciones que se generen entre los terceros que desarrollen alguna actividad productiva o capacitadora al interior de los establecimientos penitenciarios y la Administración Penitenciaria, deberán ser reguladas y formalizadas a través de un convenio, el que, además de los detalles, naturaleza jurídica y circunstancias específicas de la relación, deberá dejar constancia, al menos, de lo siguiente:
-
-a) Que el tercero constituye un colaborador de la Administración Penitenciaria en su tarea de contribuir a la reinserción social y laboral de los internos y que, en esa calidad participa y ejecuta el proyecto de capacitación y empleo que se desarrolla, lo que justifica su ingreso y permanencia en el establecimiento.
-
-b) Que el tercero es responsable del cuidado, mantención y reparación de las dependencias, maquinarias, útiles y cualquier otra especie que la Administración Penitenciaria destine al uso del proyecto.
-
-c) Que el uso de los bienes referidos en la letra b) precedente por parte del tercero en actividades productivas que reportan beneficios económicos a este último, conlleva la obligación de compensar el desgaste y deterioro de esas especies a través de las fórmulas jurídicas que sean pertinentes.
-
-d) Que los trabajadores ajenos al establecimiento contratados por el tercero, tales como monitores, instructores, maestros, etc., deben cumplir con los requisitos que garanticen su idoneidad, someterse a las disposiciones internas del establecimiento, en especial a las de seguridad y que no poseen vínculo laboral y de ninguna otra especie con la Administración Penitenciaria, y
-
-e) De las estipulaciones acerca de las mejoras que eventualmente introdujere el tercero en las dependencias del establecimiento en que se haya ejecutado el proyecto, especialmente, aquellas relativas al destino de las mismas.
-
-En los establecimientos penitenciarios en que presten servicios empresas concesionarias, se aplicará la normativa precedente, sin perjuicio de lo señalado en el respectivo contrato de concesión.
+(DEROGADO)
 
 ### Párrafo 10º — De las especies de los internos y su custodia.
 
@@ -558,11 +508,7 @@ En casos calificados, el Director Nacional podrá suspender, prohibir o restring
 
 #### Artículo 74
 
-Las remuneraciones que los internos obtengan producto de su trabajo, serán percibidas y administradas, de conformidad con lo dispuesto en el artículo 66, por la autoridad penitenciaria.
-
-La suma de libre disposición del interno, que exceda el monto máximo autorizado para circular en el establecimiento será administrada por la autoridad penitenciaria conforme a las indicaciones que previamente haya formulado el interno, las que en todo caso, deberán ser concordantes con los fines y objetivos del tratamiento penitenciario.
-
-La Administración Penitenciaria fomentará el ahorro y el sentido de responsabilidad en el cumplimiento de las obligaciones alimenticias, familiares o de otro orden del interno.
+DEROGADO.
 
 ## Título Cuarto
 
