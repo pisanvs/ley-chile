@@ -1,0 +1,13 @@
+MODIFICA RESOLUCIÓN Nº 475 EXENTA, DE 2011, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA Y SARDINA COMÚN EN LA VIII REGIÓN
+
+Núm. 1.181 exenta.- Valparaíso, 6 de mayo de 2011.- Visto: Lo informado por la División de Administración Pesquera en Memorándum Técnico (D.A.P.) Nº 152/2011 de fecha 5 de mayo de 2011; el DFL Nº 5 de 1983, del Ministerio de Economía, Fomento y Reconstrucción; la Ley General de Pesca y Acuicultura Nº 18.892, y sus modificaciones, cuyo texto refundido fue fijado por el DS Nº 430 de 1991, del Ministerio de Economía, Fomento y Reconstrucción; las leyes Nº 19.713, Nº 19.822 y Nº 19.849; los DS Nº 409 de 2000 y Nº 11 de 2003 y los decretos exentos Nº 332 y Nº 452, ambos de 2009, todos del Ministerio de Economía, Fomento y Reconstrucción; el DS Nº 223 de 2010, y los decretos exentos Nº 1.453 de 2010, Nº 208 y Nº 266, ambos de 2011, todos del Ministerio de Economía, Fomento y Turismo; las resoluciones exentas Nº 475, Nº 560 y Nº 656, todas de 2011, de esta Subsecretaría; la resolución Nº 1.600 de 2008, de la Contraloría General de la República;
+
+Resuelvo:
+
+1.- Modifíquese el numeral 5° de la resolución exenta Nº 475, modificada por resolución exenta Nº 560 y Nº 656, todas de 2011, de esta Subsecretaría, que distribuye para el año 2011 la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales, en el sentido de indicar que la operación de pesca de la flota artesanal autorizada, sólo podrá realizarse durante el mes de mayo de 2011 entre los días lunes a viernes de cada semana, ambos inclusive.
+
+2.- La presente resolución podrá ser impugnada mediante la interposición del recurso de reposición contemplado en el artículo 59 de la ley 19.880, ante esta misma Subsecretaría y dentro del plazo de 5 días hábiles contados desde la respectiva notificación, sin perjuicio de la aclaración del acto dispuesta en el artículo 62 del citado cuerpo legal y de las demás acciones y recursos que correspondan de acuerdo con la normativa vigente.
+
+Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- Pablo Galilea Carrillo, Subsecretario de Pesca.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., José Salomón Silva, Jefe Departamento Administrativo.
