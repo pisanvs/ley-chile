@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.943, de 25 de abril de 2011, se publicó resolución Nº 994 que "DELEGA FACULTADES QUE SEÑALA EN JEFE DE UNIDAD REGIONAL DE SUBVENCIONES" con los errores que se salvan a continuación: Cuerpo I, página 1, en el Sumario, Secretaría Regional Ministerial V Región de Valparaíso, donde dice "... Resolución número 913 exenta.- ..." debe decir "... Resolución número 994 exenta.- ...", y en el mismo cuerpo, página y columna, donde dice "... Núm. 913 exenta.- Viña del Mar, 28 de marzo de 2011.- Vistos: ..." debe decir "... Núm. 994 exenta.- Viña del Mar, 7 de abril de 2011.- Vistos: ...".
