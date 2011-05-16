@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº535, de 31 de marzo de 2011, se expropió el lote de terreno Nº1, superficie 52 m², Rol Nº24-30, comuna de Hualqui, VIII Región, "Camino Ruta O-60, Sector Acceso Puente Linch, Km. 0,00000 A Km. 0,50618", y se acordó el valor de indemnización con su propietaria doña Myriam del Carmen Ortiz Arriagada, ascendente a la cantidad de $2.019.534.
+
+- Fiscal del Ministerio de Obras Públicas.
