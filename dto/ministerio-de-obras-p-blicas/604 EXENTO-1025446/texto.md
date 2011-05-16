@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 604, de 29 de abril de 2011, se expropió el lote de terreno Nº74-A, superficie 2.131 m2., Rol de avalúo 3915-14, comuna de Coquimbo, IV Región, "MEJORAMIENTO RUTA D-35, (CAMINO LA CANTERA) S: AV. DEL MAR RUTA 43, ETAPA III", y se acordó el valor de indemnización con su propietaria la INMOBILIARIA EL MIRADOR S.A., ascendente a la cantidad de $43.495.902.-
+
+Fiscal del Ministerio de Obras Públicas.
