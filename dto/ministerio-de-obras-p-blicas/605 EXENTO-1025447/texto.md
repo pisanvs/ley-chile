@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 605, de 29 de abril de 2011, se expropiaron los lotes de terreno N°s. 22-B y 28-A, superficies 580 y 9.351 m2., rol de Avalúo N° 639-43, comuna de Molina, para la obra "CAMINO MEJORAMIENTO RUTA K-175, SECTOR TRES ESQUINAS LAS TRANCAS, KILÓMETRO 8,306.62 AL KM. 25,735.24", y se acordó el valor de la indemnización con sus propietarios don JOSÉ ARSENIO RAMÍREZ CONTRERAS Y OTROS, ascendente a la cantidad de $23.415.275.-
+
+Fiscal del Ministerio de Obras Públicas.
