@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 585 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 2, superficie 156 m2, rol N° 182-165, comuna de Cañete para la obra "Conservación Red Vial VIII Región - Años 2006 - 2008, Sector Puente Puyehue", Región del Bío Bío y se acordó el valor de la indemnización con su propietario MARGARITA HUILCAMAN RAIMAN, ascendente a la cantidad de $239.897.-
+
+Fiscal del Ministerio de Obras Públicas.
