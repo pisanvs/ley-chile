@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 613 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 27, superficie 3.156 m2, rol N° 2208-118, comuna de Puerto Montt para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100, Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, y se acordó el valor de la indemnización con su propietario JULIA XIMENA SANTANA FILOZA, ascendente a la cantidad de $10.114.646.-
+
+Fiscal del Ministerio de Obras Públicas.
