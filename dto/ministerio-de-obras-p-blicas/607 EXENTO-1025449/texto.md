@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 607 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 2-G, superficie 305,83 m2, rol en Trámite, comuna de Ancud para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos, y se acordó el valor de la indemnización con su propietario JOSÉ MIGUEL CARDENAS OYARZÚN, ascendente a la cantidad de $16.269.318.-
+
+Fiscal del Ministerio de Obras Públicas.
