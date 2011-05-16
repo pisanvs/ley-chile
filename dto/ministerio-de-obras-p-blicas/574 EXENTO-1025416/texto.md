@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 574 de fecha 29 de abril de 2011, se expropió el lote de terreno Nº 51, superficie 195 m2, rol N° 3250-682, comuna de Temuco para la obra "Camino Ruta S-30, Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000, Provincia de Cautín, Comuna de Temuco, Región de la Araucanía" y se acordó el valor de la indemnización con su propietario RIXON BREVE LATORRE, ascendente a la cantidad de $2.315.442.-
+
+Fiscal del Ministerio de Obras Públicas.
