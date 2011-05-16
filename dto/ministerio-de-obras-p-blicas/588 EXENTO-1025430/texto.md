@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 588 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 75, superficie 227 m2, rol N° 189-15, comuna de Arauco para la obra "Camino Ruta P - 22, Sector Llico - Punta Lavapie, Tramo Km. 6,52000 a Km. 11,52130, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario JOSÉ DEL CARMEN SALAS MANRÍQUEZ, ascendente a la cantidad de $94.396.-
+
+Fiscal del Ministerio de Obras Públicas.
