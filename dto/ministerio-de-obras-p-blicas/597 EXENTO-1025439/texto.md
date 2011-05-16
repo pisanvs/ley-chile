@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 597 de fecha 29 de abril de 2011, se expropiaron los lotes de terreno N°s 2 y 3, superficies 35, 4 m2 respectivamente, rol N° 902-44, comuna de Alto del Carmen para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II" (Conay - Malaguín) y se acordó el valor de la indemnización con su propietario RENÉ ALBERTO ESPINOZA FLORES, ascendente a la cantidad de $486.448.-
+
+Fiscal del Ministerio de Obras Públicas.
