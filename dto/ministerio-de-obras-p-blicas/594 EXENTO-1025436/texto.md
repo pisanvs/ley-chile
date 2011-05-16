@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 594 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 40-A, superficie 172 m2, rol N° 6000-1, comuna de Alto del Carmen para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta Valeriano, Etapa I, Km. 37,80000 al Km. 44,06000" y se acordó el valor de la indemnización con su propietario OLGA DORIS CERICHE CERICHE E IRENE DEL CARMEN BOU CERICHE, ascendente a la cantidad de $419.094.-
+
+Fiscal del Ministerio de Obras Públicas.
