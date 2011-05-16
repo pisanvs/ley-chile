@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 601, de 29 de abril de 2011, se expropió el lote de terreno N° 115, superficie 143 m2., rol de Avalúo N° 1188-54, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130", y se acordó el valor de la indemnización con su propietario don CARLOS GARRIDO MANRÍQUEZ, ascendente a la cantidad de $6.931.013.-
+
+Fiscal del Ministerio de Obras Públicas.
