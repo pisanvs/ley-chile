@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 584, de 29 de abril de 2011, se expropió el lote de terreno Nº18, superficie 151 m2., Rol Nº2207-167, comuna de Puerto Montt, X Región, "CAMINO RUTA 7, SECTOR LENCA CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", y se acordó el valor de indemnización con su propietaria MARÍA ALICIA VELÁSQUEZ CHÁVEZ, ascendente a la cantidad de $813.457.-
+
+Fiscal del Ministerio de Obras Públicas.
