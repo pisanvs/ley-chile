@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 577 de 29 de abril de 2011, se expropiaron los lotes de terrenos Nºs. 49, 50, 51 y 52, superficies 3.886, 1.867, 179 y 864 m2, rol de Avalúo 1182-26 y 1182-6, comuna de Ancud, para la obra "MEJORAMIENTO RUTA 5 W15 175, SECTOR RUTA 5 PUMANZANO, CAMINO RUTA 5 - PUMANZANO" PROVINCIA DE CHILOÉ, X Región y se acordó el valor de la indemnización con sus propietario CARLOS HERIBERTO WOLF ALTANER, ascendente a la cantidad de $3.164.858.-
+
+Fiscal del Ministerio de Obras Públicas.
