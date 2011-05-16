@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 593 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 71, superficie 822 m2, rol N° 189-160, comuna de Arauco para la obra "Camino Ruta P - 22, Sector Llico - Punta Lavapie, Tramo Km. 6,52000 a Km. 11,52130, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario JUAN HORACIO MEZA SALAS, ascendente a la cantidad de $341.820.-
+
+Fiscal del Ministerio de Obras Públicas.
