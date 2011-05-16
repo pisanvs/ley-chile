@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 569 de fecha 29 de abril del 2011, se expropió el lote de terreno Nº82, superficie 225 m2., Rol Nº611-5, comuna de Santa Cruz, para la obra "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 YÁQUIL, KM. 0,00000 A KM. 6,98000", PROVINCIA DE COLCHAGUA, VI REGIÓN, y se acordó el valor de indemnización con su propietario MANUEL IGNACIO GUTIÉRREZ JIMÉNEZ, ascendente a la cantidad de $2.402.833.-
+
+Fiscal del Ministerio de Obras Públicas.
