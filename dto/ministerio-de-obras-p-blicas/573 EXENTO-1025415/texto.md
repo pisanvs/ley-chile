@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 573 de fecha 29 de abril del 2011, se expropió el lote de terreno Nº78, superficie 326 m2., Rol Nº611-1, comuna de Santa Cruz, para la obra "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 YÁQUIL, KM. 0,00000 A KM. 6,98000", PROVINCIA DE COLCHAGUA, VI REGIÓN, y se acordó el valor de indemnización con su propietario JUAN MIGUEL VALDÉS SEPULVEDA, ascendente a la cantidad de $2.992.407.-
+
+Fiscal del Ministerio de Obras Públicas.
