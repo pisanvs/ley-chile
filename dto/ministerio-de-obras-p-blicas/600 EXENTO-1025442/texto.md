@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 600, de 29 de abril de 2011, se expropió el lote de terreno Nº119, superficie 18 m2., Rol Nº1188-65, comuna de Arauco, VIII Región, "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130", y se acordó el valor de indemnización con su propietaria doña YOLANDA MARLENE CARRILLO LINCOPI, ascendente a la cantidad de $205.841.-
+
+Fiscal del Ministerio de Obras Públicas.
