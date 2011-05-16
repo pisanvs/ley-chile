@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 611, de 29 de abril de 2011, se expropió el lote de terreno N° 88-B, superficie 228 m2., rol de Avalúo N° 640-106, comuna de Molina, para la obra "CAMINO MEJORAMIENTO RUTA K-175, SECTOR TRES ESQUINAS LAS TRANCAS, KILÓMETRO 8,306.62 AL KM. 25,735.24", y se acordó el valor de la indemnización con su propietaria la ILUSTRE MUNICIPALIDAD DE MOLINA, ascendente a la cantidad de $12.676.467.-
+
+Fiscal del Ministerio de Obras Públicas.
