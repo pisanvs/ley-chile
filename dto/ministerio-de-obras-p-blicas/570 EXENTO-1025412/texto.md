@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 570 de 29 de abril de 2011, se expropió el lote de terreno N° 57-A, superficie 5.025 m2, rol de Avalúo 189-144, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 0,00000 A KM. 6,52000, REGIÓN DEL BÍO BÍO", y se acordó el valor de la indemnización con su propietario LUIS ALBERTO FERNÁNDEZ CANCINO, ascendente a la cantidad de $2.953.491.-
+
+Fiscal del Ministerio de Obras Públicas.
