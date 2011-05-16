@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 617 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 49, superficie 189 m2, rol NO 2206-91, comuna de Puerto Montt para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100, Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos, y se acordó el valor de la indemnización con su propietario MARÍA IRIS VILLARROEL VILLARROEL, ascendente a la cantidad de $906.562.-
+
+Fiscal del Ministerio de Obras Públicas.
