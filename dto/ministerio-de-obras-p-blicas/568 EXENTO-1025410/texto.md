@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP N° 568 de 29 de abril de 2011, se expropiaron los lotes de terrenos N°s. 1 y 2, superficies 415 y 403 m2, Rol N° 903-46, comuna de Alto del Carmen, III Región para la obra "REPOSICIÓN PUENTE MALAGUÍN Y OTROS EN RUTA C-495, ALTO DEL CARMEN, PROVINCIA DE HUASCO, REGIÓN DE ATACAMA, (PUENTE CONAY), y se acordó el valor de indemnización con don JULIO FLORES TRIGO, ascendente a la cantidad de $2.372.670.-
+
+Fiscal del Ministerio de Obras Públicas.
