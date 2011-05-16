@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 603, de 29 de abril de 2011, se expropiaron los lotes de terreno Nºs. 1, 2, 3 y 4, superficies 845, 990, 1.310 y 3.420 m2., Rol de Avalúo Nºs. 430-32, 430-36, 430-33 y 430-35, comuna de Gorbea, IX Región, "RUTA 5 ANTIGUA CAMINO GORBEA LASTARRIA KM. 3,25300 AL KM. 5,37100", y se acordó el valor de indemnización con sus propietarias doña MARÍA TERESA GUADALUPE SÁNCHEZ DIETHELM Y ALICIA SILVIA SÁNCHEZ DIETHELM, ascendente a la cantidad de $411.560.-
+
+Fiscal del Ministerio de Obras Públicas.
