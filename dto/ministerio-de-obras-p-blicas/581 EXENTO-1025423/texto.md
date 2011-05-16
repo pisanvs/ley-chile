@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 581 de 29 de abril de 2011, se expropiaron los lotes de terrenos N°s. 77 y 79, superficies 2.747 y 8.554 m2, rol de Avalúo 190-10, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130, REGIÓN DEL BÍO BÍO", y se acordó el valor de la indemnización con su propietario JOVELITO CHAMBLAS GAYOSO, ascendente a la cantidad de $5.084.060.-
+
+Fiscal del Ministerio de Obras Públicas.
