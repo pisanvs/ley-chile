@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 589 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 55-B, superficie 236 m2, rol N° 61-25, comuna de La Estrella para la obra "Mejoramiento Ruta I-20 Los Maitenes - La Estrella, Tramo Km. 0,00000 a Km. 20,40000, Sexta Región" VI Región y se acordó el valor de la indemnización con su propietario HÉCTOR BALTAZAR PINO DÍAZ, ascendente a la cantidad de $806.029.-
+
+Fiscal del Ministerio de Obras Públicas.
