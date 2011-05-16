@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 591 de fecha 29 de abril de 2011, se expropiaron los lotes de terreno N°s 3-A y 4, superficies 204 y 121 m2 respectivamente, rol N° 153-226, comuna de Chonchi para la obra "Conservación Camino Básico Huillinco - Cucao, Provincia de Chiloé (Plan Chiloé)" y se acordó el valor de la indemnización con su propietario RAÚL ENRIQUE ÁLVAREZ BÓRQUEZ, ascendente a la cantidad de $757.514.-
+
+Fiscal del Ministerio de Obras Públicas.
