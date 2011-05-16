@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 596 de 29 de abril de 2011, se expropió el lote de terreno N° 9, superficie 534 m2, rol de Avalúo 607-44, comuna de Mulchèn, para la obra "MEJORAMIENTO RUTA Q-75, SECTOR MULCHEN - QUILACO, KM. 0,00000 AL KM. 23,13600, REGION DEL BÍO-BÍO", VIII Región y se acordó el valor de la indemnización con su propietario RAMÓN ALEJANDRO NOVOA DEL RÍO, ascendente a la cantidad de $440.662.-
+
+Fiscal del Ministerio de Obras Públicas.
