@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 592, de 29 de abril de 2011, se expropió el lote de terreno Nº121, superficie 8 m2., Rol Nº1190-105, comuna de Arauco, VIII Región, "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130", y se acordó el valor de indemnización con su propietario don JOSÉ LUIS FERRADA FERRADA, ascendente a la cantidad de $270.296.-
+
+Fiscal del Ministerio de Obras Públicas.
