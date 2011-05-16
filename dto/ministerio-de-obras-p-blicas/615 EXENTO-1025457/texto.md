@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 615, de 29 de abril de 2011, se expropiaron los lotes de terreno Nºs. 2 y 3, superficies 2.454 y 1.262 m2., Rol Nº533-63, comuna de La Unión, XIV Región, "CAMINO RUTA T-720, SECTOR LAS VENTANAS LOS TRACTORES, TRAMO KM. 0,00000 A KM. 10,05429", y se acordó el valor de indemnización con su propietario don GUILLERMO WESTERMANN POBLETE, ascendente a la cantidad de $7.127.154.-
+
+Fiscal del Ministerio de Obras Públicas.
