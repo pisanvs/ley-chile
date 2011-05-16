@@ -18,7 +18,7 @@ Resuelvo:
 
 .
 
-Las capturas autorizadas podrán ser extraídas y desembarcadas, en conformidad con lo dispuesto en el artículo 14 de la ley Nº 20.714, modificado por la ley Nº 20.479, en las áreas marítimas de la XIV Región de Los Ríos y la X Región de Los Lagos, ambas inclusive.
+Las capturas autorizadas podrán ser extraídas y desembarcadas, en conformidad con lo dispuesto en el artículo 14 de la ley Nº 20.174, modificado por la ley Nº 20.479, en las áreas marítimas de la XIV Región de Los Ríos y la X Región de Los Lagos, ambas inclusive.
 
 2.- Para efectos de lograr una adecuada fiscalización de las fracciones autorizadas mediante la presente resolución, se remitirán al Servicio Nacional de Pesca las nóminas de las embarcaciones cuyos armadores se encuentren inscritos en las pesquerías artesanales de Anchoveta, Sardina común y Jurel, y hayan sido declarados como socios por la respectiva organización, conforme la información proporcionada por ella para efectos de la aplicación del régimen artesanal de extracción por organización.
 

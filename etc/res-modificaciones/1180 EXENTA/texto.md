@@ -6,7 +6,7 @@ Resuelvo:
 
 1.- Modifíquese el numeral 1º de la resolución exenta Nº 301 de 2011, modificada mediante resolución exenta Nº 655 de 2011, ambas de esta Subsecretaría, que distribuyó para el año 2011 la fracción artesanal de pesquería de Anchoveta, Sardina común y Jurel en la X Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales, en el sentido de aclarar el área marítima en que se pueden realizar las actividades pesqueras extractivas autorizadas, agregando el siguiente inciso final:
 
-"Las capturas autorizadas podrán ser extraídas y desembarcadas, en conformidad con lo dispuesto en el artículo 14 de la ley Nº 20.714, modificado por la ley Nº 20.479, en las áreas marítimas de la XIV Región de Los Ríos y la X Región de Los Lagos, ambas inclusive.".
+"Las capturas autorizadas podrán ser extraídas y desembarcadas, en conformidad con lo dispuesto en el artículo 14 de la ley Nº 20.174, modificado por la ley Nº 20.479, en las áreas marítimas de la XIV Región de Los Ríos y la X Región de Los Lagos, ambas inclusive.".
 
 Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- Pablo Galilea Carrillo, Subsecretario de Pesca.
 
