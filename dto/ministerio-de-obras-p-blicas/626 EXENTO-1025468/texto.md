@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº626, de 29 de abril de 2011, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº2366, de 29 de octubre de 2010, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº71, expropiado con motivo de la obra "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. Del Mar Ruta 43", Etapa III, provincia de Elqui, Región de Coquimbo". Consígnese judicialmente el monto provisional de la indemnización, fijado el 28 de abril de 2010, por la Comisión de Peritos Tasadores en la suma de $22.780.000.
+
+Fiscal del Ministerio de Obras Públicas.
