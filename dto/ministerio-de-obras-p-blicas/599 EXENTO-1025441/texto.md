@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 599, de 29 de abril de 2011, se expropiaron los lotes de terreno N°s. 48, 49 y 50, superficies 44, 373 y 135 m2., rol de Avalúo EN TRAMITE, comuna de Curepto, para la obra "CAMINO RUTA K-16, SECTOR CUREPTO PUENTE LAUTARO TRAMO KM. 73,30000 KM. 81,91430", y se acordó el valor de la indemnización con su propietario don OSVALDO ESTEBAN NICOLAO MORALES, ascendente a la cantidad de $539.618.-
+
+Fiscal del Ministerio de Obras Públicas.
