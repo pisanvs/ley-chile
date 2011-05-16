@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 612 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 94, superficie 1.354 m2, rol N° 2451-23, comuna de Temuco para la obra "Camino Ruta S-30, Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000, Provincia de Cautín, Comuna de Temuco, Región de la Araucanía" y se acordó el valor de la indemnización con su propietario MARÍO RAMOS LÓPEZ, ascendente a la cantidad de $13.048.004.-
+
+Fiscal del Ministerio de Obras Públicas.
