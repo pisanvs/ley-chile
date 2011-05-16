@@ -1886,9 +1886,7 @@ Equipamiento
 
 Actividades productivas
 
-inofensivas existentes de
-
-productos lácteos
+inofensivas
 
 Usos prohibidos Bares, botillerías, hoteles,
 
