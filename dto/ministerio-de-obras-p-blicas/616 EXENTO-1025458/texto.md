@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 616, de 29 de abril de 2011, se expropió el lote de terreno Nº54, superficie 457 m2., Rol Nº602-65, comuna de Tomé, VIII Región, "CAMINO RUTA 126, SECTOR COELEMU RAFAEL TOMÉ, TRAMO II, KM. 23,92041 A KM. 25,77000", y se acordó el valor de indemnización con su propietario don MIGUEL ANGEL MUÑOZ TOBAR, ascendente a la cantidad de $1.041.428.-
+
+Fiscal del Ministerio de Obras Públicas.
