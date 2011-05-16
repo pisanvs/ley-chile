@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 602, de 29 de abril de 2011, se expropiaron los lotes de terreno Nºs. 8, 9, 10 y 11, superficies 545, 11.945, 1.540 y 2.543 m2., Rol de avalúo 179-002, comuna de Zapallar, V Región, "MEJORAMIENTO RUTA E-46, SECTOR CRUCE LONGITUDINAL (CATAPILCO) LA LAGUNA, TRAMO: KM. 12,22000 A KM. 19,06322, PROVINCIA DE PETORCA, V REGIÓN", y se acordó el valor de indemnización con su propietaria la INMOBILIARIA EL GOLF DE ZAPALLAR S.A., ascendente a la cantidad de $262.529.912.-
+
+Fiscal del Ministerio de Obras Públicas.
