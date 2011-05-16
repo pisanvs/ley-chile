@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 563 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 59-C, superficie 130,00 m2, rol N° 1119-257, comuna de Ancud para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos, y se acordó el valor de la indemnización con su propietario JUAN ALFONSO GAMIN GAMIN, ascendente a la cantidad de $1.485.566.-
+
+Fiscal del Ministerio de Obras Públicas.
