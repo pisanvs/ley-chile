@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 620, de 29 de abril de 2011, se expropió el lote de terreno Nº19, superficie 274 m2., Rol Nº308-283, comuna de Purranque, X Región, "MEJORAMIENTO CAMINO RUTA U-95, SECTOR COÑICO PUERTO OCTAY, KM. 7,10000 A KM. 22,50572", y se acordó el valor de indemnización con su propietaria AGRÍCOLA CALANDRÍA LIMITADA, ascendente a la cantidad de $1.455.618.-
+
+Fiscal del Ministerio de Obras Públicas.
