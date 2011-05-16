@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 580 de 29 de abril de 2011, se expropió el lote de terreno N° 94, superficie 41 m2, rol de Avalúo 1187-54, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO PUNTA LAVAPIE, TRAMO KM. 6,52000 A KM. 11,52130, REGIÓN DEL BÍO BÍO", y se acordó el valor de la indemnización con su propietario HÉCTOR MUÑOZ MORENO, ascendente a la cantidad de $4.569.042.-
+
+Fiscal del Ministerio de Obras Públicas.
