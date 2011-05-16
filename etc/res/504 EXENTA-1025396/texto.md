@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 504, de 26 de abril de 2011, el Serviu de la Región de Magallanes y Antártica Chilena dispuso expropiación total, conforme D.L. 1.523, de 1976, D.S. 810 de V. y U. de 2009 y D.L. 2.186, de 1978, del inmueble ubicado en Pasaje Junius Bird Nº 0512, rol de avalúo 4721-012 de Punta Arenas, de aparente dominio de don Christyan Lisandro Ovando Ulloa. Comisión tasadora integrada por los Arquitectos Srs. Dante Baeriswyl Rada, José Luis Subiabre Aguilar y María Soledad Martínez Rubín, según informe de 31 de octubre de 2010, fijó monto provisional indemnización en $36.250.000 pagadera al contado, aumentando a $36.814.078 de conformidad al artículo 5 del D.L. 2.186.-
+
+Ximena Priscila Cerpa Otárola, Directora P. y T. Serviu, Región de Magallanes y Antártica Chilena.
