@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 606, de 29 de abril de 2011, se expropió el lote de terreno Nº7, superficie 770 m2., Rol Nº24-5, comuna de Quilaco, VIII Región, "MEJORAMIENTO RUTA Q-75, SECTOR ZONA URBANA QUILACO, KM. 22,76349 A KM. 23,13600", y se acordó el valor de indemnización con sus propietarios doña DEIDAMIA DEL CARMEN BUSTOS MORA Y OTROS, ascendente a la cantidad de $18.282.607.-
+
+Fiscal del Ministerio de Obras Públicas.
