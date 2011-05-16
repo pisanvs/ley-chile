@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 572 de 29 de abril de 2011, se expropiaron los lotes de terrenos Nºs. 50-B y 50-D, superficies 89 y 446,5 m2., Rol Nº281-76, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000" COMUNAS DE SAN JAVIER Y CAUQUENES, PROVINCIAS DE LINARES Y CAUQUENES, REGIÓN DEL MAULE, y se acordó el valor de indemnización con su propietaria REBECA DE LAS MERCEDES SEPULVEDA TORRES, ascendente a la cantidad de $2.676.365.-
+
+Fiscal del Ministerio de Obras Públicas.
