@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 590 de fecha 29 de abril de 2011, se expropió el lote de terreno N° 2, superficie 1.286 m2, rol N° 152-1, comuna de Maullín para la obra "Modificación de Trazado Ruta V-970, Sector Cruce Longitudinal - Astillero - Carelmapu, Tramo Km. 6,50000 a Km. 6,71000, Provincia de Llanquihue, Comuna de Maullín, X Región de Los Lagos" y se acordó el valor de la indemnización con su propietario GUALDA CIRA MANSILLA RUÍZ, ascendente a la cantidad de $720.345.-
+
+Fiscal del Ministerio de Obras Públicas.
