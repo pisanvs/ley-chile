@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N° 567 de 29 de abril de 2011, se expropió el lote de terreno N° 15, superficie 2.009 m2, rol de Avalúo 1246-77, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN PASO HONDO, COM. YUMBEL, CABRERO" REGIÓN DEL BÍO BÍO, VIII Región y se acordó el valor de la indemnización con su propietario MANUEL DEL TRÁNSITO RAMOS OLIVARES, ascendente a la cantidad de $2.297.753.-
+
+Fiscal del Ministerio de Obras Públicas.
