@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Por resolución exenta Nº 420 de fecha 5 de mayo de 2011 de Serviu Región de Coquimbo, se ordenó notificar a don Humberto Rodríguez Guzmán, asignatario del sitio Nº 24 de la manzana 2 del Loteo irregular Los Vilos de la comuna de Los Vilos para que en plazo de 30 días, contados de la última publicación, concurra a Depto. Jurídico de esta institución a suscribir contrato de compraventa del referido bien, bajo apercibimiento de dejar sin efecto la asignación del sitio en cuestión. Se ordenó que la referida resolución se publicará en extracto en el Diario Oficial en edición de días 1 o 15 del mes, o al día siguiente, si fuese inhábil. Además, se dispuso que el mismo extracto se publicara en el Diario El Día La Serena y en diario o periódico de la provincia de Choapa.-
+
+Serviu Región de Coquimbo.
