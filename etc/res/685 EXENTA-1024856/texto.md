@@ -6,7 +6,7 @@ Considerando: La solicitud recibida con fecha 1 de marzo del presente año, pres
 
 Resuelvo:
 
-1.- Autorízase a "Damas de Lila Voluntarias de CONIN", la realización de una colecta pública en las provincias de Antofagasta y Calama, para el día martes 31 de mayo de 2011, desde las 8:00 a 13:30 horas, con el objeto de acudir en ayuda de los lactantes y niños desnutridos, desnutridos secundarios, en riesgos de desnutrir (derivados del Ministerio de Salud) y con problemas sociales (derivados del SENAME).
+1.- Autorízase a "Damas de Lila Voluntarias de CONIN" la realización de una Colecta Pública en las provincias de Antofagasta y Calama, para el día martes 3 de mayo de 2011 desde las 08:00 a 13:00 horas, con el objeto de acudir en ayuda de los lactantes y niños desnutridos secundarios en riesgos de desnutrir (derivados del Ministerio de Salud) y con problemas sociales (derivados del SENAME).
 
 2.- Dicha actividad se denominará "Colecta Regional Antofagasta-Calama del Voluntariado de CONIN, Damas de Lila", y será organizada a nivel provincial, en cada una de las Gobernaciones del territorio de la Segunda Región - Gobernaciones Provinciales de Antofagasta y de El Loa - Calama.
 
