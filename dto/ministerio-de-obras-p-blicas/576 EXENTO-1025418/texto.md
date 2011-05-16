@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 576, de 29 de abril de 2011, se expropió el lote de terreno Nº26, superficie 592 m2., Rol Nº2207-73, comuna de Purranque, X Región, "CAMINO RUTA 7, SECTOR LENCA CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", y se acordó el valor de indemnización con sus propietarios MANUEL FRANCISCO PAVÉZ GUZMAN Y OTRA, ascendente a la cantidad de $2.918.664.-
+
+Fiscal del Ministerio de Obras Públicas.
