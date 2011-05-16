@@ -1,0 +1,5 @@
+NOTIFICACIÓN
+
+Resolución exenta Nº 1.815, 29 abril 2011, Serviu Región del Bío Bío ordenó expropiación total inmueble ubicado en Juan de Cabrera Nº250, de la Población Nueva Baquedano, Rol de Avalúo Nº 1305-19, comuna Penco, superficie 105 metros cuadrados de terreno (lote 17 ), dentro polígono y linderos señalados plano expropiación S8R-26.816, de aparente dominio de Luisa Reineria Aguayo Zúñiga, para ejecución "Programa de Reconstrucción y Reparación de viviendas de la Región del Bío Bío, en Conjuntos Habitacionales construidos por el Serviu Región del Bío Bío, gravemente dañados por el terremoto de 27 de febrero de 2010" en la comuna de Penco, conforme artículo 51 Ley 16.391 y D.L. 2.186. Comisión Peritos integrada por Leonardo Fasce Casanueva, arquitecto, Gonzalo Castillo Fernández, ingeniero constructor y Eduardo Acuña González, arquitecto, según informe de fecha 1º de abril de 2011, fijó monto provisional indemnización en $2.175.229.-, pagadera de contado.
+
+Director Serviu Región del Bío Bío.
