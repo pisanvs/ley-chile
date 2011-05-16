@@ -214,7 +214,7 @@ Para solicitar cualquier tipo de préstamo el afiliado deberá tener por lo meno
 
 <!-- parte:8952595 -->
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán en ningún caso exceder del 40% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán en ningún caso exceder del 15% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
 
 #### Artículo 14º
 
