@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 401 EXENTA, DE 2011
+
+Por resolución exenta Nº 401, de 21 de abril de 2011, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, modificó la resolución exenta Nº 334/2007, modificada por la resolución exenta Nº 494/2007 y su extracto en el sentido de sustituir el Nº 5 del resuelvo, por el siguiente: "5.- La presente autorización se amplía por el plazo de 3 años, a contar del día 11.07.2010, según lo dispuesto en la resolución de Ampliación de Plazo Nº 207, del 04.04.2011, que amplía el plazo de vigencia establecido en la resolución de Recepción Definitiva de Obras de Edificación Nº 189, de 2007, ambas citadas en el Visto, vencido el cual, se deberán efectuar las inspecciones pertinentes, con miras a su renovación.".-
+
+Alberto Fernando Barrionuevo Pinto, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de Atacama.
