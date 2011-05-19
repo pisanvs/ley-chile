@@ -1,0 +1,9 @@
+Por resolución exenta Nº 1.106, de 29 de abril de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 976, de 2011, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto 2010-04 denominado "Evaluación hidroacústica de reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2011" Fase II, en los siguientes términos:
+
+a) En su numeral 4.-, en el sentido de incorporar, realizando faenas de prospección acústica y pesca de identificación, a las embarcaciones artesanales "Samaritano" y "Doña Carmela", inscritas en el Registro Pesquero Artesanal de la XIV Región, sección de pesquerías de Anchoveta y Sardina común, las que podrán operar en las condiciones indicadas en la resolución extractada.
+
+b) En su numeral 5.-, en el sentido de indicar que las embarcaciones artesanales participantes en la presente pesca de investigación podrán extraer, con red de cerco con malla anchovetera, una cuota máxima total de 36 toneladas de Anchoveta y 564 toneladas de Sardina común, fraccionadas en los términos indicados en la resolución extractada; y
+
+c) En su numeral 6.-, en el sentido de exceptuar a las embarcaciones artesanales participantes en la presente pesca de investigación del cumplimiento de las medidas de conservación establecidas en el DS Nº 408, de 1986, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores, en toda el área establecida en el numeral 3º de la presente resolución. No obstante lo anterior, la excepción antes indicada no se aplicará en el caso de las actividades de investigación efectuadas a partir del 1 de junio de 2011.
+
+Valparaíso, 29 de abril de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
