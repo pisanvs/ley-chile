@@ -270,7 +270,9 @@ e) Hospitales y clínicas particulares, y
 
 f) Instituciones y establecimientos universitarios, para fines de investigación clínica o científica.
 
-g) Botiquines de Salas de Procedimiento y Pabellones de Cirugía Menor.
+-) Botiquines de Salas de Procedimiento y Pabellones de Cirugía Menor.
+
+g) Botiquines de entidades que presten servicios de transporte avanzado de enfermos y de entidades que realicen transporte aéreo de personas enfermas o accidentadas.
 
 Las ventas o entregas a cualquier título de drogas o productos estupefacientes que se efectúen a los laboratorios, droguerías, farmacias o establecimientos de atención médica, deberán ser comunicadas al Instituto de Salud Pública de Chile, dentro del plazo que se fije por resolución del Ministerio de Salud, mediante copia de las respectivas guías de entrega, suscritas por el Director Técnico.
 
