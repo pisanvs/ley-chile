@@ -16,32 +16,32 @@ Resolución:
 
 Asígnase a contar de la fecha que se indica al siguiente abogado para que ejerza la función de Abogado del Servicio de Tesorerías con jurisdicción en las localidades que se indican:
 
-Nombre : Edison Mauricio Larenas González
+Nombre : Edison Mauricio Larenas González.
 
-RUT : 14.388.211-K
+RUT : 14.388.211-K.
 
-Ubicación : Región Metropolitana - Regional
+Ubicación : Tesorería General - Cobranzas y
 
-Santiago Poniente - Unidad Operativa
+Quiebras Grandes Deudores - GD
 
-de Cobro 2
+Stgo. 4
 
-Calidad jurídica : Contrata
+Calidad Jurídica : Contrata.
 
-Estamento : Profesional
+Estamento : Profesional.
 
-Cargo : Profesional
+Cargo : Profesional.
 
-Grado : 11 EU
+Grado : 11 E.U.
 
-Función : Abogado Grandes Deudores
+Función : Abogado.
 
-Fecha inicio : 25/04/2011
+Fecha Inicio : 25/04/2011.
 
 Jurisdicción : Todas las comunas del territorio
 
 nacional.
 
-Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los Abogados del Servicio de Tesorerías, dependientes de la Tesorería.
+Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los abogados del Servicio de Tesorerías, dependientes de la Tesorería General de la República.
 
 Anótese, comuníquese y publíquese.- Gabriela Carreño Olguín, Jefa División de Personal.
