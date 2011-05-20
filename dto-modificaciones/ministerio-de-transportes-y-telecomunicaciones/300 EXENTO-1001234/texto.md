@@ -38,13 +38,11 @@ Tricahuera, Las
 
 Cabras, VI Región.
 
-- Coordenadas Geográficas : 34° 09' 59" Latitud
+- Coordenadas geográficas : 34° 09' 51" Latitud Sur,
 
-Sur, 71° 27' 35"
+71° 27' 31" Longitud Oeste.
 
-Longitud Oeste. Datum
-
-PSAD 56.
+Datum PSAD 56.
 
 Sistema Radiante:
 
