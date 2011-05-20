@@ -64,6 +64,18 @@ En general, para las letras a), b), c), d) y e) número i.-, tendrán preferenci
 
 No podrán acceder a este programa quienes perciban ingresos por pensiones de vejez de cualquier tipo, incluidas las derivadas de un sistema de previsión; lo anterior es sin perjuicio de las compatibilidades que establece la ley Nº 20.255 y la legislación vigente.
 
+Los requisitos para acceder al beneficio de capacitación, establecidos en las letras d) y e) de este numeral, serán los siguientes:
+
+a) Las capacitaciones deberán ser realizadas por Organismos Técnicos de Capacitación que cumplan con los requisitos que se establezcan en el convenio a que se refiere el numeral 3;
+
+b) Los cursos realizados deberán ser presenciales e impartirse dentro de la jornada laboral establecida en el contrato de trabajo y cumplir con un mínimo de horas determinadas previamente por el Servicio Nacional de Capacitación y Empleo, previa aprobación del Ministerio del Trabajo y Previsión Social, a través de la Subsecretaría del Trabajo;
+
+c) El trabajador(a) deberá cumplir con al menos 75% de asistencia a las horas totales del curso;
+
+d) Los contenidos del curso deberán corresponder al área en que se desempeña el trabajador(a), y
+
+e) Las actividades de capacitación sólo podrán realizarse en el período de duración de la bonificación.
+
 5.- La postulación de las empresas a este Programa, se efectuará de conformidad a las normas que dicte el Servicio Nacional de Capacitación y Empleo, realizándose la selección de los mismos conforme a la normativa vigente.
 
 6.- El proceso de asignación de fondos a los postulantes favorecidos deberá guardar una adecuada concordancia con los objetivos y lineamientos generales del Programa contenidos en el presente decreto al cual se ajustará en todo caso.
