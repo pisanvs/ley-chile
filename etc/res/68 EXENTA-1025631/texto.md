@@ -1,0 +1,9 @@
+AUTORIZA EMISOR ELECTRÓNICO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 68 de 17 de mayo de 2011, que autoriza a contribuyentes como emisores electrónicos.
+
+Se autoriza como emisor de documentos tributarios a contribuyentes RUT 92.190.000-7, RUT 76.820.520-5, RUT 76.018.213-3, RUT 79.652.350-6, RUT 96.630.510-K, RUT 76.430.640-6, RUT 78.065.210-1, RUT 99.500.660-K, RUT 77.576.530-5, RUT 96.697.500-8, RUT 79.866.620-7, RUT 78.382.360-8, RUT 82.200.900-K, RUT 82.136.800-6, RUT 92.363.000-7, RUT 76.106.349-9, RUT 76.450.050-4, RUT 76.137.478-8, RUT 77.021.940-K, RUT 76.119.711-8, RUT 76.062.815-8, RUT 76.072.913-2, RUT 76.133.436-0, RUT 96.522.950-7, RUT 84.139.000-8, RUT 76.115.484-2, RUT 76.045.050-2, RUT 85.704.300-6, RUT 76.294.030-2, RUT 79.692.750-K, RUT 76.840.890-4, RUT 76.889.000-5, RUT 76.142.730-K, RUT 96.951.520-2, RUT 76.129.707-4, RUT 96.690.270-1, RUT 78.421.810-4, RUT 76.810.200-7, RUT 76.303.450-K, RUT 76.094.089-5, RUT 77.970.270-7, RUT 77.253.780-8, RUT 76.039.386-K, RUT 78.766.000-2, RUT 76.115.259-9, RUT 79.607.140-0, RUT 76.078.942-9, RUT 76.111.562-6, RUT 79.777.010-8, RUT 76.437.320-0, RUT 76.131.542-0, RUT 96.856.720-9, RUT 08.099.175-4, RUT 76.138.969-6, RUT 77.275.330-6, RUT 76.046.705-7, RUT 78.837.140-3, RUT 77.921.880-5, RUT 96.778.560-1, RUT 78.072.130-8, RUT 77.990.830-5, RUT 76.887.860-9, RUT 76.132.685-6, RUT 96.987.400-8, RUT 85.112.900-6, RUT 76.101.374-2, RUT 99.505.240-7 y RUT 99.581.600-8, a contar del mes de mayo 2011.
+
+En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo de 2011.
