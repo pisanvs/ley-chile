@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.352, de 16 de mayo de 2011, de esta Subsecretaría, la distribución de la fracción artesanal de la pesquería artesanal de Merluza común, correspondiente al Área Norte 2 de la VII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, remanente período enero-junio de 2011, expresada en toneladas, se efectuará de la siguiente manera:
+
+Valparaíso, 16 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
