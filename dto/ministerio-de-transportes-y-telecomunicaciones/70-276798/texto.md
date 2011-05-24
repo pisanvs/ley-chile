@@ -30,7 +30,9 @@ La Comisión Asesora estará formada por:
 
 4. Un representante del Ministerio de Obras Públicas
 
-5. Un representante del Ministerio de Economía 6. Un representante del SEP (Sistema de Empresas Públicas).
+5. Un representante del Ministerio de Economía
+
+6. Un representante del Comité Sistema de Empresas (SEP) de la Corporación de Fomento de la Producción.
 
 7. Un representante del Ministerio de Defensa Nacional, Subsecretaría de Marina.
 
@@ -68,11 +70,11 @@ j. Las demás funciones de asesoría que le encomiende el Ministro de Transporte
 
 #### Artículo sexto
 
-La comisión contará con un Secretario Ejecutivo que corresponderá al Jefe del Departamento Marítimo de la Subsecretaría de Transportes
+La comisión contará con una Secretaría Ejecutiva, que estará radicada administrativamente en el Ministerio de Transportes y Telecomunicaciones, a cargo de un Secretario Ejecutivo, quien será designado por resolución de dicho Ministerio.
 
 #### Artículo séptimo
 
-El Secretario Ejecutivo actuará como soporte técnico de la Comisión y tendrá las siguientes funciones:
+La Secretaría Ejecutiva actuará como soporte técnico de la Comisión y tendrá las siguientes funciones:
 
 a) Convocar las reuniones de la Comisión por instrucciones de su Presidente.
 
@@ -83,6 +85,44 @@ c) Encargarse de la preparación de los documentos de base necesarios para infor
 d) Solicitar y distribuir minutas de los temas tratados por la Comisión
 
 e) Desempeñar las otras funciones que la Comisión le encomiende.
+
+#### Artículo octavo
+
+La Comisión contará con una instancia consultiva ampliada, denominada Consejo Consultivo Marítimo Portuario, en adelante el Consejo, cuya función será la de recoger la visión de diversos actores con injerencia en las actividades marítimas y portuarias. Dicho Consejo estará inicialmente conformado por:
+
+. Un representante de la Asociación Nacional de
+
+Armadores, A.G.
+
+. Un representante de la Asociación Gremial de
+
+Armadores de Transporte Marítimo, Fluvial, Lacustre
+
+y Turístico Sur Austral, A.G. (ARMASUR).
+
+. Un representante de la Asociación Nacional de
+
+Agentes de Naves de Chile, A.G. (ASONAVE).
+
+. Un representante de la Cámara Marítima y Portuaria
+
+de Chile, A.G.
+
+. Representantes de Universidades y Centros de
+
+Estudio.
+
+Los representantes de aquellas organizaciones que deseen formar parte del Consejo deberán solicitarlo formalmente al Secretario Ejecutivo, quien a su vez presentará a la Comisión las solicitudes que se reciban. Ésta resolverá fundadamente las solicitudes y dará respuesta por intermedio del Secretario Ejecutivo. En caso de que, transcurridos 90 días desde la presentación de la solicitud por parte del requirente, no se haya dado respuesta, se entenderá automáticamente como aceptada.
+
+Aquellas instituciones que hayan sido aceptadas como miembros del Consejo deberán informar al Secretario Ejecutivo el nombre del representante, su dirección postal, número de teléfono y dirección electrónica, con el fin de poder enviar la información que sea objeto de consulta al Consejo.
+
+#### Artículo noveno
+
+Los miembros del Consejo escogerán un Delegado, quien estará a cargo de llevar la comunicación formal con la Comisión y su Secretaría Ejecutiva e informar dicha designación al Secretario Ejecutivo. La Secretaría Ejecutiva determinará el procedimiento interno de comunicación entre el Consejo y la Comisión.
+
+#### Artículo décimo
+
+Todas las propuestas que la Comisión, en el marco de las funciones previstas en el artículo quinto del presente reglamento, remita al Ministro de Transportes y Telecomunicaciones, deberán ser previamente informadas al Consejo, quien tendrá un plazo de 30 días para emitir su opinión. Transcurrido dicho plazo, o habiéndose recibido en forma previa la respuesta de parte del Consejo, la Comisión remitirá su propuesta al Ministro de Transportes y Telecomunicaciones, adjuntando el informe del Consejo, si lo hubiere. Dicha consulta podrá ser realizada también a representantes de los trabajadores portuarios y a otras personas u organizaciones que el Consejo o la Comisión considere necesario convocar. Por su parte, el Consejo podrá también presentar a la Comisión iniciativas de motivación propia, las cuales formarán parte del informe señalado en el literal i del artículo quinto del presente decreto.
 
 Anótese, tómese razón y publíquese.- "Por orden de S.E. la Presidenta de la República".- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- José Goñi Carrasco, Ministro de Defensa Nacional.- Hugo Lavados Montes, Ministro de Economía, Fomento y Reconstrucción.- Andrés Velasco Brañes, Ministro de Hacienda.- Sergio Bitar Chacra, Ministro de Obras Públicas.
 
