@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.373, de 16 de mayo de 2011, de esta Subsecretaría, recházanse las solicitudes números 207122306, 207122299, 207122331, 2071222333, 207122338, 207122310, 207122311, 207122316, 207122320, 207121293, 207121330, 207122341, 207123096, 207123105, 207123106, 207123067, 207123069, 207122415, 207123072, 207123098, 207123092, 208123001, 207123101 y 207123099, individualizadas en la resolución extractada, y publicadas íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del D.S. 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 16 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
