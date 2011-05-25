@@ -16,31 +16,49 @@ Apruébanse las normas para la planta física de los locales educacionales que e
 
 Para efectos del presente reglamento se entenderá por:
 
-a) Local escolar: Es el conjunto organizado de áreas libres, obras exteriores y edificios, con recintos para administración, servicios y docencia, de los que dispone un establecimiento educacional de los niveles de enseñanza parvularia, básica o media. El local escolar constituye una unidad completa y autosuficiente que permite atender niveles completos, de manera de satisfacer en forma permanente las necesidades derivadas de las actividades sistemáticas del proceso educa-tivo.
+a) Local escolar: Es el conjunto organizado de áreas libres, obras exteriores y edificios, con recintos para administración, servicios y docencia, de los que dispone un establecimiento educacional de los niveles de enseñanza parvularia, básica o media, de manera de satisfacer en forma permanente las necesidades derivadas de las actividades sistemáticas del proceso educativo.
 
-Cada establecimiento tendrá sólo un local escolar, sin perjuicio de la excepción prevista en el artículo segundo transitorio del presente decreto.
+INCISO ELIMINADO
 
-b) Local complementario: Es el local escolar adicional de un establecimiento educacional que no puede solucionar su déficit de infraestructura en el local existente, como consecuencia de su obligación de ingresar al régimen de jornada escolar completa. Este tipo de local tiene un carácter absolutamente excepcional.
+b) Local complementario o anexo: Es el local escolar adicional de un establecimiento educacional que no puede solucionar su déficit de infraestructura en el local existente.
 
 c) Hogar estudiantil o internado: Conjunto de edificaciones destinadas a la residencia y albergue de estudiantes de los niveles de enseñanza básica y/o media, ya sea que se encuentren integradas al local escolar dentro del mismo predio o se ubiquen en predios independientes.
 
 #### Artículo 2°
 
-Para que los establecimientos educacionales de los niveles de enseñanza básica y/o media puedan obtener y mantener el reconocimiento oficial del Estado, la infraestructura física, equipamiento y mobiliario del local escolar que lo integra deberán cumplir con las exigencias establecidas en el presente decreto, y con lo dispuesto en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.), y en los decretos supremos Nº 289 y Nº 977, de 1989 y de 1996, del Ministerio de Salud, o los que en el futuro los reemplacen.
+Para que los establecimientos educacionales de los niveles de enseñanza parvularia básica y/o media puedan obtener y mantener el reconocimiento oficial del Estado, la infraestructura física, equipamiento y mobiliario del local escolar que lo integra deberán cumplir con las exigencias establecidas en el presente decreto, y con lo dispuesto en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.), y en los decretos supremos Nº 289, Nº 977 y Nº 594, de 1989, 1996 y 1999, respectivamente, del Ministerio de Salud, o los que en el futuro los reemplacen.
 
-En el caso de la educación parvularia, para obtener y mantener el reconocimiento oficial del Estado, además de las normas señaladas en el inciso precedente, se deberá cumplir con las disposiciones pertinentes establecidas en la resolución exenta Nº 15/1.753, de la Junta Nacional de Jardines Infantiles, de 2000, o aquélla que en el futuro la reemplace.
+INCISO ELIMINADO.
 
-Los establecimientos reconocidos oficialmente, para impetrar, obtener y mantener la subvención del Estado deberán dar cumplimiento a las exigencias establecidas en el presente decreto sobre infraestructura física, equipamiento y mobiliario. Iguales exigencias deberán cumplir los locales en que funcionan los hogares estudiantiles o internados.
+Cuando se produzca una modificación, ampliación o disminución de la infraestructura del local escolar, local complementario, hogar estudiantil o internado y, por consiguiente, un cambio en las condiciones iniciales que sirvieron de base para aprobar su funcionamiento, se deberán actualizar los siguientes antecedentes:
 
-Cuando se produzca una modificación, ampliación o disminución de la infraestructura del local escolar o internado y, por consiguiente, un cambio en las condiciones iniciales que sirvieron de base para aprobar su funcionamiento, se deberán actualizar los antecedentes consignados en los artículos 5º y 6º del decreto supremo Nº 177, del Ministerio de Educación, de 1996, o aquél que en el futuro lo reemplace.
+. Certificado de Recepción Definitiva o Parcial
+
+extendido por la Dirección General de Obras
+
+Municipales de la comuna en que se ubica el
+
+establecimiento educacional, o por la autoridad
+
+que corresponda en las comunas que no cuenten
+
+con dicha Dirección.
+
+. Informe que acredite que el local reúne las
+
+condiciones sanitarias mínimas exigidas por el
+
+Ministerio de Salud, otorgado por el organismo
+
+competente.
 
 En todo momento la Superintendencia de Educación podrá fiscalizar el cumplimiento de las disposiciones del presente decreto, sin perjuicio de la fiscalización que ejerza el Ministerio de Salud en el ámbito de su competencia. En todo caso, deberá estarse a lo dispuesto en el artículo 10º transitorio de la ley Nº 20.370.
 
-En todo caso, si la Secretaría Regional Ministerial de Educación correspondiente, previa visita inspectiva, constata que el local escolar o internado, o su entorno, presentan algún elemento que pongan en riesgo la seguridad de los alumnos y demás usuarios, aún en el caso que exista recepción definitiva de obras, no se emitirá la aprobación correspondiente, para efectos de obtener el reconocimiento oficial del estado de que tratan los incisos primero y segundo del presente artículo, aprobación que sólo se otorgará una vez que se subsane la situación detectada.
+En todo caso, si la Secretaría Regional Ministerial de Educación correspondiente, previa visita inspectiva, constata que el local escolar o internado, o su entorno, presentan algún elemento que pongan en riesgo la seguridad de los alumnos y demás usuarios, aún en el caso que exista recepción definitiva de obras, no se emitirá la aprobación correspondiente, para efectos de obtener el reconocimiento oficial del estado de que trata el inciso primero del presente artículo, aprobación que sólo se otorgará una vez que se subsane la situación detectada. Dicha medida deberá ser siempre fundada.
 
 #### Artículo 3°
 
-El terreno donde se emplace el local escolar o internado no podrá tener elementos que representen situaciones de riesgo para los usuarios tales como:
+El terreno donde se emplace el local escolar local complementario, hogar estudiantil o internado no podrá tener elementos que representen situaciones de riesgo para los usuarios tales como:
 
 a) Cortes verticales de más de 50 centímetros.
 
@@ -54,15 +72,15 @@ e) Antenas de telefonía celular y de radiofrecuencia, exceptuando aquellas de u
 
 f) Otras situaciones que pongan en peligro la seguridad de los alumnos, docentes, personal asistente de la educación y de cualquier otro usuario del local, como la mantención de escombros y otras similares. Dichas situaciones serán calificadas por el Secretario Regional Ministerial de Educación correspondiente.
 
-Ante la imposibilidad de eliminar los elementos peligrosos el Secretario Regional Ministerial de Educación podrá, excepcionalmente, autorizar el funcionamiento del local educacional, previa aislación de dichos elementos de manera que se garantice la seguridad de los usuarios. Las medidas de mitigación que se adopten deberán fundarse en informes técnicos de entidades públicas competentes en la materia de que se trate.
+Ante la imposibilidad de eliminar los elementos peligrosos el Secretario Regional Ministerial de Educación podrá, excepcionalmente, autorizar el funcionamiento del local educacional, previa aislación de dichos elementos de manera que se garantice la seguridad de los usuarios. Las medidas de mitigación que se adopten deberán fundarse en informes técnicos de entidades competentes en la materia de que se trate.
 
-El terreno deberá contar con cierros exteriores diseñados de manera tal que, sin presentar riesgos para los usuarios, permitan controlar el ingreso de éstos al local escolar y/o internado, resguardar la privacidad de los alumnos y garantizar su seguridad.
+El terreno deberá contar con cierros exteriores diseñados de manera tal que, sin presentar riesgos para los usuarios, permitan controlar el ingreso de éstos al local escolar local complementario, hogar estudiantil o internado, resguardar la privacidad de los alumnos y garantizar su seguridad.
 
 #### Artículo 4°
 
 El emplazamiento de todo local educacional deberá cumplir con ciertas condiciones mínimas en su relación con el entorno garantizando la seguridad de los usuarios.
 
-En el entorno del terreno donde se emplace el local escolar o internado no podrán existir:
+En el entorno del terreno donde se emplace el local escolar local complementario, hogar estudiantil o internado no podrán existir:
 
 a) Canales abiertos, vías férreas o vías de alta velocidad.
 
@@ -70,13 +88,13 @@ b) Locales que atenten contra la moral y las buenas costumbres, a una distancia 
 
 c) Basurales, pantanos o industrias peligrosas y/o contaminantes, a una distancia no inferior a 300 metros.
 
-Asimismo el terreno destinado a local escolar o internado no podrá emplazarse en zonas de posibles derrumbes, avalanchas, inundaciones u otras situaciones riesgosas.
+Asimismo el terreno destinado a local escolar local complementario, hogar estudiantil o internado no podrá emplazarse en zonas de posibles derrumbes, avalanchas, inundaciones u otras situaciones riesgosas.
 
-Ante la imposibilidad de eliminar los elementos peligrosos indicados en los literales del presente artículo, el Secretario Regional Ministerial de Educación podrá, excepcionalmente, autorizar el funcionamiento del local escolar o internado previo cumplimiento de lo dispuesto en el inciso segundo del artículo 3º del presente decreto.
+Ante la imposibilidad de eliminar los elementos peligrosos indicados en los literales del presente artículo, el Secretario Regional Ministerial de Educación podrá, excepcionalmente, autorizar el funcionamiento del local escolar local complementario, hogar estudiantil o internado previo cumplimiento de lo dispuesto en el inciso segundo del artículo 3º del presente decreto.
 
 #### Artículo 5°
 
-Los locales escolares deberán contar, como mínimo, con las áreas y recintos que se señalan a continuación, de conformidad al nivel y modalidad de enseñanza que imparte el establecimiento educacional. Asimismo, los internados deberán contar con las áreas y recintos mínimos que se indican.
+La infraestructura de los establecimientos educacionales deberá contar, como mínimo, con las áreas y recintos que se señalan a continuación, de conformidad al nivel y modalidad de enseñanza que imparte el establecimiento educacional. Asimismo, los internados y hogares estudiantiles deberán contar con las áreas y recintos mínimos que se indican.
 
 1.- NIVEL DE EDUCACION PARVULARIA
 
@@ -88,21 +106,51 @@ a) Area Administrativa.
 
 - Sala de amamantamiento y control de salud.
 
-b) Area Docente.
+- Sala Multiuso
 
-- Salas de actividades.
+b) Área Docente
 
-- Salas de mudas y hábitos higiénicos.
+- Sala(s) de actividades
+
+- Sala de mudas y hábitos higiénicos
 
 - Patio.
 
-c) Area de Servicios.
+c) Área de Servicios.
 
-- Cocina de pre-preparados con despensa.
+- Cocinas, de conformidad a los decretos del
 
-- Servicio higiénico para uso del personal docente y administrativo en recintos que constan de una taza y un lavamanos.
+Ministerio de Salud, a que se refiere el
 
-- Servicio higiénico para uso del personal de servicio en recintos que constan de una taza y un lavamanos.
+#### Artículo segundo
+
+de este Reglamento.
+
+- Despensa.
+
+- Servicios Higiénicos, de conformidad a los
+
+decretos del Ministerio de Salud, a que se
+
+refiere el artículo segundo de este
+
+Reglamento
+
+para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
+
+- Bodega, closet o gabinete para material
+
+didáctico.
+
+- Bodega, closet o gabinete para artículos
+
+de aseo.
 
 1.2. Jardín Infantil.
 
@@ -110,91 +158,161 @@ a) Area Administrativa.
 
 - Oficina
 
-- Sala multiuso y de primeros auxilios.
+- Sala multiuso y primeros auxilios.
 
 b) Area Docente.
 
 - Salas de actividades.
 
+- Sala de hábitos higiénicos
+
 - Patio.
 
-c) Area de Servicios.
+c) Área de Servicios.
 
-- Recinto de cocina con despensa, cuando se proporcione alimentación.
+- Cocina, de conformidad a los decretos del
 
-- Sala de baño para uso de los párvulos.
+Ministerio de Salud, a que se refiere el
 
-- Servicio higiénico para uso del personal docente y administrativo en recintos que constan de una taza y un lavamanos.
+#### Artículo segundo
 
-- Servicio higiénico para uso del personal de servicio en recintos que constan de una taza y un lavamanos.
+de este Reglamento.
 
-- Bodega.
+- Despensa, cuando se proporcione
 
-Cuando el local atienda sala cuna y jardín infantil, podrá tener en común los siguientes recintos: oficina, cocina, bodega, servicio higiénico para uso del personal docente y administrativo y servicio higiénico para uso del personal de servicio.
+alimentación.
 
-2.- NIVEL DE EDUCACION GENERAL BASICA.
+- Servicios Higiénicos, de conformidad a los
+
+decretos del Ministerio de Salud, a que se
+
+refiere el artículo segundo de este
+
+Reglamento,
+
+para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
+
+- Bodega, closet o gabinete para material
+
+didáctico.
+
+- Bodega, closet o gabinete para artículos
+
+de aseo.
+
+Cuando el local atienda sala cuna y jardín
+
+infantil, podrá tener en común el área de
+
+servicios y los siguientes recintos del
+
+área administrativa:oficina y sala multiuso.
+
+En caso que el Jardín Infantil o Sala Cuna
+
+cuente con estacionamientos, éstos
+
+deberán separarse físicamente del área
+
+de patio de los párvulos, impidiendo el
+
+libre tránsito entre ambos. Se deberá
+
+considerar agua fría y caliente en todas
+
+las bañeras y en al menos un lavamanos.
+
+2.- NIVEL DE EDUCACIÓN BÁSICA.
 
 a) Area Administrativa.
 
-- Oficina para dirección cuando el local escolar tenga más de tres aulas.
+- Oficina para dirección cuando el local escolar
+
+tenga más de tres aulas.
 
 - Sala de profesores.
 
-b) Area Docente.
+b) Área Docente.
 
-- Aulas, en número igual a la cantidad de grupos cursos que asisten en cada turno.
+- Aulas, en número igual a la cantidad de grupos
 
-- Eliminado.
+cursos que asisten en cada turno.
 
-- Biblioteca con depósito de libros, con una capacidad mínima de 30 alumnos en la Sala de lectura, en locales con más de seis aulas.
+- Biblioteca o Centro de Recursos para el
 
-- Patio.
+Aprendizaje (CRA) con una capacidad mínima de
 
-- Eliminado.
+30 alumnos, en locales con más de seis aulas.
 
-- Centro de Recursos de Aprendizaje (CRA), cuya capacidad deberá, al menos, ser suficiente para albergar el número de alumnos del aula con mayor capacidad, considerando el estándar de superficie establecido en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.) para el recinto biblioteca.
+- Taller o multitaller en locales con más de
 
-- Taller o multitaller, con una capacidad mínima para albergar el número de alumnos del aula con mayor capacidad, utilizando el estándar de superficie para talleres establecido en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.).
+tres aulas.
 
-- Sala para la Unidad Técnico Pedagógica (UTP).
+- Sala para la Unidad Técnico Pedagógica (UTP)
 
-c) Area de Servicios.
+en locales con más de tres aulas.
 
-- Servicios higiénicos independientes para uso de los alumnos y para uso de las alumnas.
+- Patio
 
-- Servicios higiénicos para uso del personal docente y administrativo en recintos que constan de una taza y un lavamanos:
+c) Área de Servicios.
 
-Un recinto en locales de 1 a 6 aulas.
+- Servicios higiénicos independientes para uso
 
-Dos recintos en locales de 7 a 10 aulas.
+de los alumnos y para uso de las alumnas.
 
-Tres recintos en locales de 11 a 18 aulas y,
+- Servicios higiénicos, de conformidad a los
 
-Cuatro recintos en locales con más de 18 aulas.
+decretos del Ministerio de Salud, a que se
 
-- Servicio higiénico para uso del personal de servicio en recintos que constan de un lavamanos y una taza.
+refiere el artículo segundo de este
 
-- Cocina con despensa, cuando se proporcione alimentación.
+reglamento, para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
 
 - Bodega.
 
 - Patio de servicio.
 
-- Comedor con una superficie de 0,9 m²/alumno, considerando la capacidad total del establecimiento dividida en tres turnos, y una superficie mínima de 54 m².
+- Cuando se considere entrega del servicio de
 
-- Cuando se considere entrega del servicio de alimentación se deberán exigir los siguientes recintos:
+alimentación se deberán exigir los siguientes
 
-Cocina.
+recintos:
 
-Despensas.
+* Comedor, en locales que cuenten con más de
 
-Servicios higiénicos para manipuladoras.
+4 aulas.
+
+* Cocina.
+
+* Despensa.
+
+* Servicios higiénicos para manipulador(es),
+
+de conformidad a los decretos del
+
+Ministerio de Salud, a que se refiere el
+
+#### Artículo segundo
+
+de este reglamento.
 
 - Sala de primeros auxilios.
 
-Cuando el local escolar esté ubicado en el área rural se deberá considerar, además y como parte del área docente, un terreno destinado a las actividades de la asignatura de Educación Técnico Manual y Huertos Escolares, con una superficie mínima de 50 m2, hasta 50 alumnos matriculados de 3° a 8° básico, y 1 m2. adicional por cada alumno de incremento correspondiente a dicha matrícula.
+INCISO ELIMINADO.
 
-Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina, bodega, servicio higiénico para uso del personal docente y administrativo, servicio higiénico para personal de servicio y patio de servicio.
+Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina, despensa, bodega, servicios higiénicos para el uso del personal docente y administrativo, servicios higiénicos para el personal de servicio y servicios higiénicos para manipulador(es) y patio de servicio.
 
 3.- EDUCACION ESPECIAL O DIFERENCIAL.
 
@@ -202,59 +320,149 @@ a) Area Administrativa.
 
 - Oficina para dirección.
 
-- Sala de profesores, en locales con más de 5 aulas.
+- Sala de profesores, en locales con más de 5
 
-- Sala de espera para público, en locales con más de 3 aulas.
+aulas.
+
+- Sala de espera para público, en locales con
+
+más de 3 aulas.
 
 b) Area Docente.
 
-- Aulas en número igual a la cantidad de grupos cursos que asistan en cada turno.
+- Aulas en número igual a la cantidad de grupos
 
-- Aula de educación sicomotriz y/o Educación Física (para gimnasia o tratamientos específicos según corresponda al déficit que presente el alumno).
+cursos que asistan en cada turno.
 
-- Taller con pañol, para exploración vocacional, en locales que atienda alumnos del 6° nivel o superior.
+- Aula de educación sicomotriz y/o Educación
 
-- Gabinete para profesionales, en locales con más de 3 aulas.
+Física (para gimnasia o actividades
 
-- Comedor, cuando se proporcione alimentación, en locales con más de 4 aulas.
+específicas según las necesidades educativas
+
+especiales que presenten las o los alumnos).
+
+- ELIMINADO
+
+- Gabinete para profesionales, en locales con
+
+más de 3 aulas.
+
+- ELIMINADO
 
 - Patio.
 
-c) Area de Servicios.
+c) Área de Servicios.
 
-- Servicios higiénicos independientes para uso de los alumnos y para uso de las alumnas (en el recinto donde se instalen W.C., a la derecha de ellos, debe ir una barra de apoyo para el usuario).
+- Servicios higiénicos independientes para uso de
 
-- Servicio higiénico para uso del personal docente y administrativo en recintos que constan de una taza y un lavamanos:
+los alumnos y alumnas. En el recinto donde se
 
-*Un recinto en locales de 1 a 5 aulas.
+instalen tazas, a la derecha de ellos, debe ir
 
-*Dos recintos en locales con más de 5 aulas.
+una barra de apoyo para el usuario.
 
-- Servicio higiénico para uso del personal de servicio, hombres y mujeres, en recintos que constan de una taza, un lavamanos y una ducha.
+- Servicios higiénicos, de conformidad a los
 
-- Cocina con despensa, cuando se proporcione alimentación.
+decretos del Ministerio de Salud, a que se
+
+refiere el artículo segundo de este reglamento,
+
+para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
 
 - Bodega.
 
 - Patio de servicio.
 
-Disposiciones específicas según déficit que atienda el establecimiento:
+- Cuando se considere entrega del servicio de
 
-- Escuelas que atiendan alumnos con problemas físicos y ceguera. Las circulaciones, puertas y servicios higiénicos deberán permitir el desplazamiento expedito de personas con aparatos ortopédicos, sillas de ruedas y otros.
+alimentación se deberán exigir los siguientes
 
-- Escuelas que atienden alumnos con problemas auditivos: deberán contar con una sala silente.
+recintos:
 
-La construcción de muros, pisos, ventanas y puertas deberá facilitar el aislamiento acústico.
+* Comedor, en locales que cuenten con más de
 
-Disposiciones generales.
+cuatro aulas.
 
-- De preferencia estas escuelas deben funcionar en locales de un piso.
+* Cocina.
 
-- Especial cuidado deberá tenerse en el diseño respecto a los sistemas de evacuación para casos de emergencia.
+* Despensa.
 
-- Las terminaciones deberán evitar cantos o aristas agudos.
+* Servicios higiénicos para manipulador(es),
 
-4. NIVEL DE EDUCACION MEDIA, MODALIDAD HUMANISTICO-CIENTIFICA.
+según los decretos del Ministerio de
+
+Salud, a que se refiere el artículo
+
+segundo de este reglamento.
+
+Disposiciones Generales:
+
+- Los alumnos que asisten a la modalidad de
+
+Educación Especial, ya sea en una escuela
+
+especial o en un establecimiento con
+
+programa de integración escolar, y que
+
+experimenten dificultades en su movilidad
+
+y desplazamiento, deberán contar con las
+
+medidas de accesibilidad necesarias para
+
+que puedan participar en las
+
+diferentes actividades curriculares.
+
+- En las escuelas que atiendan alumnos
+
+con discapacidad física o ceguera, las
+
+circulaciones, puertas y servicios
+
+higiénicos deberán permitir el
+
+desplazamiento expedito de personas
+
+con aparatos ortopédicos, sillas de
+
+ruedas y otros.
+
+- Cuando se atienda a estudiantes entre
+
+15 a 21 años de edad, la infraestructura
+
+o planta física deberá permitir el
+
+desarrollo del programa de formación
+
+laboral que imparta el establecimiento,
+
+aprobado, para estos efectos,
+
+por el Secretario Regional Ministerial
+
+de Educación respectivo.
+
+- Los sistemas de evacuación para casos de
+
+emergencia deberán considerar la
+
+discapacidad que atienda el establecimiento.
+
+- Las terminaciones no podrán tener cantos
+
+vivos.
+
+4. NIVEL DE EDUCACION MEDIA.
 
 a) Area Administrativa.
 
@@ -264,61 +472,105 @@ a) Area Administrativa.
 
 - Una sala de profesores.
 
-- Oficina inspectoría en locales con más de 7 aulas.
+- Oficina inspectoría en locales con más de 7
+
+aulas.
 
 - Portería.
 
-b) Area Docente.
+b) Área Docente.
 
-- Aulas, en número igual a la cantidad de grupos cursos que asistan en cada turno.
+- Aulas, en número igual a la cantidad de grupos
 
-- Laboratorio-taller, en locales de hasta 4 aulas.
+cursos que asisten en cada turno.
 
-- Laboratorio con gabinete en locales con más de 5 aulas.
+- Laboratorio taller, en locales de hasta cuatro
 
-- Eliminado.
+aulas.
 
-- Biblioteca, con una capacidad mínima de 30 alumnos en la sala de lectura.
+- Laboratorio con gabinete o closet en locales
 
-- Patio.
+con más de cuatro aulas.
 
-- Eliminado.
+- Biblioteca o Centro de Recursos para el
 
-- Centro de Recursos de Aprendizaje (CRA), cuya capacidad deberá, al menos, ser suficiente para albergar el número de alumnos del aula con mayor capacidad, considerando el estándar de superficie establecido en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.) para el recinto biblioteca.
+Aprendizaje (CRA), con una capacidad mínima de
 
-- Taller o multitaller, con una capacidad mínima para albergar el número de alumnos del aula con mayor capacidad, utilizando el estándar de superficie para talleres establecido en la Ordenanza General de Urbanismo y Construcciones (O.G.U.C.).
+30 alumnos.
+
+- Taller o multitaller en locales con más de
+
+cuatro aulas.
 
 - Sala para la Unidad Técnico Pedagógica (UTP).
 
-c) Area de Servicios.
+- Patio.
 
-- Servicios higiénicos para uso de los alumnos y para uso de las alumnas.
+c) Área de Servicios.
 
-- Servicios higiénicos para uso del personal docente y administrativo, en recintos que consten de una taza y un lavamanos:
+- Servicios higiénicos independientes para uso de
 
-*Dos recintos en locales de hasta 8 aulas.
+los alumnos y para uso de las alumnas.
 
-*Tres recintos en locales de más de 9 aulas.
+- Servicios higiénicos, de conformidad a los
 
-- Servicio higiénico para uso del personal de servicio en recintos que consten de una taza y un lavamanos.
+decretos del Ministerio de Salud, a que se
 
-- Cocina con despensa, cuando se proporcione alimentación.
+refiere el artículo segundo de este reglamento,
+
+para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
+
+- Bodega.
 
 - Patio de servicio.
 
-- Comedor con una superficie de 0,9 m²/alumno, considerando la capacidad total del establecimiento dividida en tres turnos, y una superficie mínima de 54 m².
+- Cuando se considere entrega del servicio de
 
-- Cuando se considere entrega del servicio de alimentación se deberán exigir los siguientes recintos:
+alimentación se deberán exigir los siguientes
 
-Cocina.
+recintos:
 
-Despensas.
+* Comedor, en locales que cuenten con más de
 
-Servicios higiénicos para manipuladoras.
+4 aulas.
+
+* Cocina.
+
+* Despensa.
+
+* Servicios higiénicos para manipu-lador(es),
+
+de conformidad a los decretos del
+
+Ministerio de Salud, a que se refiere el
+
+#### Artículo segundo
+
+de este reglamento.
 
 - Sala de primeros auxilios.
 
-Cuando en el local se atienda alumnos de los niveles de educación básica y media podrá tener comunes las áreas administrativas, de servicio y los siguientes recintos: del Area Docente: biblioteca, patio y comedor. El multitaller que se exige en Educación General Básica podrá ser reemplazado por el laboratorio-taller o el taller de Educación Media. En todo caso, las áreas administrativas y de servicio serán las correspondientes al nivel de educación media considerando el total de las aulas de ambos niveles.
+Cuando en el local se atienda alumnos de los niveles
+
+de educación básica y media podrá tener comunes las
+
+áreas administrativas, de servicio y los siguientes
+
+recintos: del Area Docente: Centro de Recursos para el Aprendizaje o Biblioteca, Unidad Técnico Pedagógica,
+
+patio y taller o multitaller. En todo caso,
+
+las áreas administrativas y de servicio serán las
+
+correspondientes al nivel de educación media
+
+considerando el total de las aulas de ambos niveles.
 
 5. HOGARES ESTUDIANTILES O INTERNADOS.
 
@@ -328,17 +580,25 @@ a) Area Administrativa.
 
 - Oficina.
 
-- Vivienda para el director.
+- Vivienda para el director en el caso
+
+que lo amerite.
 
 b) Area Dormitorios, se exigen los siguientes recintos por sexo:
 
 - Dormitorios para alumnos.
 
-- Servicios higiénicos para el uso de los alumnos.
+- Servicios higiénicos para el uso de los
 
-- Dormitorios con servicio higiénico para uso del o de los inspectores.
+alumnos.
 
-- Enfermería que deberá ubicarse contigua al dormitorio del o de los inspectores.
+- Dormitorio(s) con servicios higiénicos para
+
+uso del o de los inspectores
+
+- Enfermería que deberá ubicarse contigua
+
+al dormitorio del o de los inspectores.
 
 - Ropería.
 
@@ -348,7 +608,7 @@ c) Area Docente.
 
 - Patio.
 
-d) Area de Servicios.
+d) Área de Servicios.
 
 - Cocina con despensa.
 
@@ -356,195 +616,167 @@ d) Area de Servicios.
 
 - Recinto para lavados de ropa.
 
-- Servicio higiénico para uso del personal administrativo en recintos que constan de una taza, un lavamanos y una ducha.
+- Servicios higiénicos, de conformidad a los
 
-- Servicio higiénico para uso del personal de servicio en recintos que constan de una taza, un lavamanos y una ducha.
+decretos del Ministerio de Salud, a que se
+
+refiere el artículo segundo de este reglamento,
+
+para uso de:
+
+º Personal docente y administrativo
+
+º Personal de servicio
+
+º Manipulador(es)
 
 - Patio de servicio.
 
-Cuando el hogar estudiantil funcione contíguo a un local escolar, de Educación Básica y/o de Educación Media, y dependan de un mismo sostenedor, podrán compartir el uso de los siguientes recintos: patio, cocina, bodega, servicios higiénicos para el personal de servicio, patio de servicio y comedor. En este último caso el comedor deberá estar situado en el hogar estudiantil y deberá ser independiente del recinto estar - estudio.
+Cuando el hogar estudiantil funcione contíguo a un
+
+local escolar, de Educación Básica y/o de Educación
+
+Media, y dependan de un mismo sostenedor, podrán
+
+compartir el uso de los siguientes recintos: patio,
+
+cocina, despensa, bodega, servicios higiénicos para el personal de servicio, servicios higiénicos para manipulador(es), patio de servicio y comedor. En este último caso el comedor deberá estar situado en el hogar
+
+estudiantil y deberá ser independiente del recinto estar-estudio. En caso que el hogar estudiantil y el local escolar dependan de distintos, sostenedores podrán compartir los recintos antes mencionados, con excepción del patio. Dicha medida deberá establecerse por escrito, su duración no podrá ser inferior a un año escolar y deberá contar con la aprobación de la Secretaría Regional Ministerial respectiva.
 
 #### Artículo 6º
 
-Cuando se trate de locales para establecimientos educacionales de Educación Técnico-Profesional, de locales correspondientes a establecimientos educacionales de carácter singular o que correspondan a una necesidad de innovación curricular, se establecerán, en cada caso, las características especiales de los recintos arquitectónico-pedagógicos con la aprobación del Secretario Regional Ministerial de Educación que corresponda.
+Excepcionalmente, previa resolución fundada de la Secretaría Regional Ministerial respectiva, y cuando la funcionalidad y carga horaria lo permitan, se podrá autorizar que el comedor, gimnasio, auditorio, sala multiuso y similares compartan el mismo recinto.
 
-#### Artículo 7°
+#### Artículo 7º
 
-Los edificios construidos o destinados para local educacional, deberán cumplir las siguientes exigencias:
+Cuando se trate de locales para establecimientos educacionales de Formación Diferenciada, Técnico-Profesional y/o Artística, de Centros de Educación Integral de Adultos, de locales correspondientes a establecimientos educacionales de carácter singular o que correspondan a una necesidad de innovación curricular, se establecerán, en cada caso, los recintos arquitectónico-pedagógicos requeridos para el desarrollo del proyecto educativo, con la aprobación del Secretario Regional Ministerial de Educación que corresponda
 
-1. No podrán construirse locales con adobe como material de la estructura.
+#### Artículo 8º
 
-2. Tanto los edificios como los recintos deberán tener la estructura de los pisos, los muros, los cielos y la techumbre en buen estado, de modo que no presente riesgo y garanticen la seguridad de los usuarios.
+El desarrollo del proyecto educativo del establecimiento educacional podrá considerar, además de la infraestructura del local escolar y/o local(es) complementario(s) a que se refieren los artículos anteriores, el uso de otra infraestructura pública o privada. Dicha medida deberá constar por escrito y ser informada al Secretario Regional Ministerial de Educación correspondiente
 
-3. Los recintos deberán tener como terminación de pisos, muros y cielos un material acorde a la actividad que se desarrolle en ellos y que permita mantenerlos en condiciones higiénicas adecuadas.
+#### Artículo 9º
 
-4. Los recintos del área docente del nivel de Educación Parvularia no podrán tener revestimiento de papel mural y los pisos no podrán estar cubiertos con alfombras.
+La infraestructura de los establecimientos educacionales deberán cumplir con las siguientes exigencias:
 
-5.- Con el fin de resguardar condiciones seguras de evacuación, los locales escolares e internados no podrán contar con recintos de uso de los alumnos en pisos superiores a los que se señalan:
+1. No podrán construirse ni habilitarse locales, ni muros medianeros con adobe o albañilería simple como material de la estructura.
 
-a) Locales escolares
+2. Tanto los edificios como los recintos deberán tener la estructura de los pisos, los muros, los cielos y la techumbre en buen estado, de modo que cumplan con el objeto de su diseño y construcción, no presenten riesgo y garanticen la seguridad de los usuarios.
+
+3. Los recintos del área docente y las áreas de uso y de tránsito destinadas a párvulos no podrán tener revestimiento de papel mural y los pisos no podrán estar cubiertos con alfombras.
+
+4. En los recintos del área docente y las áreas de uso y de tránsito destinadas a los párvulos, no se permitirán puertas de vaivén, corredera, ni plegables. Sólo se considerarán hojas de puerta de abatir, las que deberán operar en forma total y hacia el exterior del recinto.
+
+5. Con el fin de resguardar condiciones seguras de evacuación, los locales escolares, locales complementarios, hogares estudiantiles e internados no podrán contar con recintos de uso de los alumnos en pisos superiores a los que se señalan:
+
+A) Locales escolares y locales complementarios:
 
 - Nivel de educación parvularia:
 
-Sala cuna: cuarto piso.
+* Sala cuna: cuarto piso.
 
-Jardín infantil: primer piso.
+* Jardín infantil: primer piso.
 
-- Nivel de educación general básica:
-
-- Educación general básica: tercer piso.
+- Nivel de educación básica: tercer piso
 
 - Nivel de educación media: cuarto piso.
 
 - Educación especial o diferencial: segundo piso.
 
-- Escuelas de lenguaje: primer piso.
+B) Hogares estudiantiles o internados:
 
-b) Hogares estudiantiles o internados
-
-- Nivel de educación general básica: segundo piso.
+- Nivel de educación básica: segundo piso.
 
 - Nivel de educación media: tercer piso.
 
-Del mismo modo, los recintos de uso de los alumnos, exceptuados los servicios higiénicos, no podrán ubicarse en subterráneos que no cuenten con iluminación y ventilación natural.
+Del mismo modo, los recintos docentes de todos los niveles de educación no podrán ubicarse en subterráneos que no cuenten con iluminación y ventilación natural.
+
+Las salas cunas emplazadas en pisos superiores al terreno natural, deberán contar con una vía de evacuación alternativa para casos de emergencia que conduzca a un área de seguridad ubicada en el nivel de terreno natural.
 
 6. Las circulaciones horizontales y verticales deberán cumplir los siguientes requisitos:
 
-a) a) Estar cubiertas en el lado de acceso a los recintos y en la conexión entre los distintos pabellones.
+a. Estar cubiertas en el lado de acceso a los recintos de uso de los alumnos.
 
-b) Estar cubiertas en el lado de acceso a los recintos de uso de los alumnos.
+b. Estar cubiertas para el nivel educación parvularia.
 
-c) Estar cubiertas para el nivel educación parvularia.
+c. Estar cerradas cuando sean horizontales en locales escolares ubicados en las siguientes zonas geográficas: andina, central interior al sur de los ríos Ñuble e Itata, sur litoral, sur interior y sur extrema (NCh 1079).
 
-d) Estar cerradas cuando sean horizontales en locales escolares ubicados en las siguientes zonas geográficas: andina, central interior al sur de los ríos Ñuble e Itata, sur litoral, sur interior y sur extrema (N. CH. 1079).
+d. Tener una iluminación mínima equivalente a 30 lux. Si la cantidad de luz mínima no se puede lograr por la fuente de luz natural, se deberá cumplir lo exigido complementándola con la fuente de luz artificial.
 
-e) Tener una iluminación mínima equivalente a 500 lux. Si la cantidad de luz mínima no se puede lograr por la fuente de luz natural, se deberá cumplir lo exigido complementándola con la fuente de luz artificial.
+e. Cuando exista escalera en los edificios para los niveles de Educación Parvularia con más de 30 alumnos, Educación Básica y Educación Media, ésta deberá tener un descanso en su tercio medio, y la longitud mínima de éste será de 1,00 m.
 
-f) Cuando exista escalera en los edificios para los niveles de Educación Parvularia con más de 30 alumnos, Educación Básica y Educación Media, ésta deberá tener un descanso en su tercio medio, y la longitud mínima de éste será de 1,00 m.
+7. Los locales escolares y complementarios deberán mantener en los recintos de uso de los párvulos y alumnos, excluidos los servicios higiénicos y patios, las siguientes temperaturas mínimas, en las zonas del país que se indican (NCh 1079), durante el tiempo de permanencia de los párvulos y alumnos, las que deberán lograrse idealmente mediante estrategias pasivas, o en su defecto con sistemas de refrigeración y/o calefacción, con ductos de evacuación de gases al exterior y provisto de elementos de protección contra las quemaduras:
 
-7. El local educacional deberá contar con las redes de servicios y los artefactos de sus instalaciones en buen estado, de manera que no comprometan la seguridad y salubridad de los usuarios. Especial atención deberá tenerse en el diseño de servicios higiénicos y camarines, de manera de favorecer la privacidad y auto cuidado de los alumnos. En cuanto a las tazas, urinarios y duchas, éstos deberán ser de uso independiente y deberán contar con gabinetes que resguarden la privacidad de los alumnos. No se aceptarán piletas corridas como urinarios ni duchas comunes.
+a. Educación Parvularia, una temperatura de 15º C en las zonas: andina, central interior del río Maipo al sur, sur litoral, sur interior y sur extrema.
 
-8.- Los locales escolares e internados deberán mantener una temperatura de confort interna de 18° a 20° C, la que deberá lograrse idealmente mediante estrategias pasivas, o en su defecto con sistemas de refrigeración y/o calefacción con ductos de evacuación de gases al exterior. Las estrategias pasivas están referidas, por ejemplo, a la orientación del inmueble (nororiente, suroriente, entre otras).
+b. Educación Básica y Media, una temperatura de 12º C en las zonas: andina, central interior de los ríos Ñuble e Itata al Sur, sur litoral, sur interior y sur extrema.
 
-9. Los recintos que se indican, deberán cumplir las exigencias que se señalan:
+c. Hogares Estudiantiles, una temperatura de 15º C en las zonas: andina, central interior del río Maipo al sur, sur litoral, sur interior y sur extrema.
 
-a) En el Nivel de Sala Cuna, la sala de muda y hábitos higiénicos, deberá ubicarse adyacente a la respectiva sala de actividades.
+8. Los recintos que se indican deberán cumplir las exigencias que se señalan:
 
-b) En el Jardín Infantil, la sala de hábitos higiénicos, deberá ubicarse a una distancia máxima de 30 m. de la sala de actividades más alejada.
+a. En el Nivel de Sala Cuna, la sala de mudas y hábitos higiénicos deberá ubicarse adyacente y con comunicación directa a la respectiva sala de actividades, o a una distancia menor a 10 metros.
 
-c) En el Hogar Estudiantil, el recinto para lavar ropa deberá disponer de un lavarropa y una tabla de planchado hasta 40 alumnos. Por cada 40 alumnos de incremento, se deberá contar con un lavarropa y una tabla de planchado adicionales, con un máximo de cuatro.
+b. En el Jardín Infantil, la sala de hábitos higiénicos deberá ubicarse adyacente y con comunicación directa a la respectiva sala de actividades, o a una distancia menor a 30 metros.
 
-10. Las salas de actividades de los Jardines Infantiles y las aulas, laboratorios y talleres de los locales escolares, deberán contar con un pizarrón de superficie mínima de 3m2 y una cartelera de superficie mínima de 0.80 m2. La ubicación del pizarrón deberá cumplir las siguientes exigencias:
+c. Las cerraduras de las puertas de la sala de mudas y de la sala de hábitos higiénicos deberán ser de libre paso y sin seguros.
 
-a) La distancia entre los alumnos y el pizarrón no podrá ser inferior a 2 m. ni superior a 10 m.
+d. Las puertas de las salas de actividades del nivel de Educación Parvularia deberán contar con un sistema de sujeción, ubicado desde una altura de 1,3 m. sobre el nivel de piso terminado, que permita mantenerlas abiertas en situaciones de evacuación y otras.
 
-b) El ángulo de visión del alumno sentado frente al pizarrón deberá ser de 30 grados como mínimo, medido desde el lugar más desfavorable que ocupa el alumno en el recinto, al extremo opuesto del pizarrón.
+e. En el Hogar Estudiantil, el recinto para lavar ropa deberá disponer de un lavarropa y una tabla de planchado hasta 40 alumnos. Por cada 40 alumnos de incremento, se deberá contar con un lavarropa y una tabla de planchado adicionales, con un máximo exigible de cuatro.
 
-c) El pizarrón deberá ubicarse en un muro donde no exista ventana.
+9. Las aulas, laboratorios y talleres de los locales escolares deberán contar con un pizarrón de superficie mínima de 3 m2 y una cartelera de superficie mínima de 0,80 m2. La ubicación del pizarrón deberá cumplir las siguientes exigencias:
 
-11. En los locales educacionales los recintos que se indican, de uso de los alumnos, deberán cumplir los siguientes requisitos de luminosidad y ventilación:
+a. La distancia entre los alumnos y el pizarrón no podrá ser inferior a 2 m. ni superior a 10 m.
 
-a) La cantidad mínima de luz deberá ser equivalente a 500 lux, medida en la cubierta de la mesa de trabajo ubicada en el sector menos iluminado del recinto, con excepción de los recintos destinados a servicios higiénicos, comedor o dormitorio. Si la cantidad de luz indicada no se puede lograr por medio de la luz natural, se deberá cumplir el mínimo establecido complementándola con luz artificial.
+b. El ángulo de visión del alumno sentado frente al pizarrón deberá ser de 30 grados como mínimo, medido desde el lugar más desfavorable que ocupa el alumno en el recinto, al extremo opuesto del pizarrón.
 
-b) La cantidad mínima de luz en comedores, dormitorios y servicios higiénicos será de 500 lux.
+c. El pizarrón deberá ubicarse en un muro donde no exista ventana.
 
-c) Todos los recintos del hogar estudiantil deberán disponer de luz artificial.
+Las salas de actividades de los Jardines Infantiles deberán contar con un pizarrón de una superficie mínima de 3 m2.
 
-d) Si la ventilación natural no se puede lograr por los vanos, aún cuando se cumpla con la tabla de ventilación del artículo 117 del Capítulo IX de la O.G.C.U. se deberá recurrir a un sistema mecánico (extractor de aire) que permita obtener una renovación total del cubo del aire, equivalente a dos veces por hora.
+10. En los locales educacionales los recintos que se indican, de uso de párvulos y alumnos, deberán cumplir los siguientes requisitos de luminosidad y ventilación :
 
-#### Artículo 8°
+a. La cantidad mínima de luz deberá ser equivalente a 180 lux, medida en la cubierta de la mesa de trabajo ubicada en el sector menos iluminado del recinto, con excepción de los recintos destinados a servicios higiénicos, comedor o dormitorio. Si la cantidad de luz indicada no se puede lograr por medio de la luz natural, se deberá cumplir el mínimo establecido complementándola con luz artificial.
 
-Los recintos de los locales escolares e internados deberán contar con el mobiliario y equipamiento adecuado y suficiente para el nivel y modalidad de educación que se imparta, de manera que el establecimiento pueda cumplir su proyecto educativo.
+b. La cantidad mínima de luz en comedores, dormitorios y servicios higiénicos será de 120 lux.
 
-El mobiliario de los locales deberá cumplir con las normas vigentes establecidas por el Instituto Nacional de Normalización sobre esta materia, lo que se demostrará mediante el sello o certificado de calidad de un laboratorio acreditado por el Instituto Nacional de Normalización para certificar mobiliario escolar. Este certificado de calidad deberá presentarse conjuntamente con los antecedentes señalados en artículo 5º del decreto supremo Nº 177, de 1996, del Ministerio de Educación, o aquél que en el futuro lo reemplace.
+c. Todos los recintos del hogar estudiantil deberán disponer de luz artificial. Si la ventilación natural no se puede lograr por los vanos, aun cuando se cumpla con la tabla de ventilación del artículo 117, del Capítulo IX, de la Ordenanza General de Urbanismo y Construcciones, se deberá recurrir a un sistema mecánico que permita obtener una renovación total del cubo del aire, equivalente a dos veces por hora
 
-Los dormitorios de los internados deberán contar con camas de hasta dos niveles, además de roperos y similares.
+#### Artículo 10º
 
-La sala de primeros auxilios deberá contar con, a lo menos, una camilla, lavamanos y gabinete.
+Los recintos de los locales escolares y locales complementarios deberán contar con el mobiliario y equipamiento adecuado y suficiente para el nivel y modalidad de educación que se imparta, de manera que el establecimiento pueda cumplir su proyecto educativo.
 
-#### Artículo 9°
+El mobiliario de los locales deberá cumplir con las Normas Chilenas vigentes establecidas por el Instituto Nacional de Normalización sobre esta materia, lo que se demostrará mediante el sello o certificado de calidad emitido por un organismo de certificación de productos acreditado por el Instituto Nacional de Normalización o su equivalente internacional.
+
+Los dormitorios de los hogares estudiantiles e internados deberán contar con camas de hasta dos niveles, además de roperos y similares.
+
+La sala de primeros auxilios deberá contar con, a lo menos, una camilla y gabinete o casillero.
+
+#### Artículo 11º
+
+En el caso de instalaciones provisorias que se requieran para dar continuidad al servicio educativo en establecimientos educacionales con Reconocimiento Oficial, que hayan sido afectados por desastres naturales u otras situaciones de emergencia, bastará con la autorización de la respectiva Dirección de Obras Municipales, establecida en el artículo 124º de la Ley General de Urbanismo y Construcciones, o la que a futuro lo reemplace, para mantener el Reconocimiento Oficial durante el período de tiempo autorizado.
+
+De igual modo, en cualquier situación que ponga en riesgo el cumplimiento del año escolar, el establecimiento podrá, excepcionalmente y previa resolución fundada del Secretario Regional Ministerial correspondiente, funcionar temporalmente en otros locales escolares y/o anexos que cuenten con el Reconocimiento Oficial, o en locales con otro destino que cuenten con el certificado de recepción definitiva correspondiente, y las condiciones de capacidad, salubridad e higiene para la matrícula a atender.
+
+#### Artículo 12°
 
 Derógase el decreto Supremo de Educación N° 1.835 de 1986 y su modificación.
 
-#### Artículo transitorio
+#### Artículo Primero
 
-Los locales existentes a la fecha de vigencia del presente decreto deberán cumplir las normas que en éste se establecen a más tardar al inicio del año escolar en que obligatoriamente los establecimientos educacionales que funcionan en ellos deban ingresar al régimen de jornada escolar completa diurna. Los locales escolares de aquellos establecimientos que no ingresen a dicho régimen por estar legalmente exceptuados, o por haberse acogido a la excepción contenida en el inciso tercero del artículo 1º de la ley Nº 19.532, deberán dar cumplimiento a esta obligación en la misma oportunidad señalada para los establecimientos obligados a ingresar a jornada escolar completa diurna.
+Transitorio. Los locales escolares, locales complementarios, hogares estudiantiles e internados, que cuenten con Reconocimiento Oficial del Estado a la fecha de entrada en vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, deberán cumplir con las normas que en éste se establecen dentro de un plazo de 5 años contados desde dicha fecha. Para estos efectos, los sostenedores, cuyos establecimientos educacionales no cumplan con dichas normas, deberán presentar a la Secretaría Regional Ministerial de Educación respectiva, dentro del primer año de entrada en vigencia de ese decreto, un cronograma de ejecución en base o las instrucciones que al efecto dicte el Ministerio de Educación, con el objeto de adecuarse a las nuevas exigencias que impone la presente normativa.
 
 #### Artículo Segundo
 
-Transitorio.- Los locales escolares complementarios cuyo funcionamiento haya sido autorizado con la finalidad de ingresar al régimen de Jornada Escolar Completa Diurna, en los términos señalados en el decreto supremo Nº 177, de 1996, del Ministerio de Educación, o aquél que en el futuro lo reemplace, sólo requerirán ajustarse a las normas del presente decreto cuando se produzcan cambios que signifiquen un aumento de su capacidad autorizada. Sin embargo, las normas sobre mobiliario escolar se les aplicarán siempre que se produzca una renovación de éste.
-
-Los establecimientos educacionales que funcionen en más de un local escolar, y sus locales adicionales cuenten con autorización para funcionar, pero ésta no haya sido otorgada con la finalidad de ingresar al régimen de Jornada Escolar Completa Diurna, deberán dar cumplimiento a lo dispuesto en el presente decreto y en el citado decreto Nº 177, o aquél que en el futuro lo reemplace, dentro del plazo de cinco años contado desde el vencimiento del plazo señalado en el artículo primero transitorio precedente.
+Transitorio. Los locales escolares y complementarios que cuenten con Reconocimiento Oficial del Estado a la fecha de entrada en vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, tendrán el plazo de un año contado desde dicha fecha para cumplir con lo dispuesto en el artículo 10º en las adquisiciones de mobiliario escolar que se realicen desde ese plazo en adelante. No obstante lo anterior, el mobiliario existente podrá continuar en uso hasta el término de su vida útil, con un plazo máximo de 8 años desde la entrada en vigencia de dicho decreto. Para estos efectos, los sostenedores, cuyos establecimientos educacionales utilicen mobiliario que no cumpla con lo dispuesto en el artículo 10º, deberán presentar a la Secretaría Regional Ministerial de Educación dentro del primer año de vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, un cronograma de ejecución para reponer dicho mobiliario, elaborado en base a las instrucciones del Ministerio de Educación
 
 Anótese, tómese razón, publíquese e insértese en la Recopilación de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Juan Antonio Guzmán Molinari, Ministro de Educación Pública.
 
 Lo que transcribo a usted para su conocimiento.- Saluda a Ud.- Paulina Dittborn Cordua, Subsecretaria de Educación Pública.
 
-ANEXO: Esquema del Mobiliario aprobado por el Ministerio de Educación Pública.
-
-_______________________________________________________
-
-| |
-
-| Las medidas y los ángulos que se indican son |
-
-| normativos. |
-
-| El diseño de mueble metal-madera es referencial. |
-
-| |
-
-| PUPITRE UNIPERSONAL PUPITRE BIPERSONAL |
-
-| (Medidas en (Medidas en |
-
-| centímetros) centímetros) |
-
-| |
-
-| A B C A B C |
-
-| |
-
-| N° 1 60 45 68 N° 1 115 45 68 |
-
-| N° 2 55 42 62 N° 2 105 42 62 |
-
-| N° 3 50 42 56 N° 3 90 42 56 |
-
-| |
-
-| SILLA |
-
-| (Medidas en centímetros) |
-
-| |
-
-| A B C D E F G |
-
-| |
-
-| N° 1 40 44 41 74 15 18 35 |
-
-| N° 2 40 42.50 38 69 13 18 35 |
-
-| N° 3 32.50 39 32 60 10 18 28 |
-
-| |
-
-| Inclinación del respaldo: 98° en relación al |
-
-| plano horizontal. |
-
-| Inclinación del asiento: 5° en relación al |
-
-| plano horizontal. |
-
-| |
-
-|_____________________________________________________|
-
-___________________________________
+ANEXO: Esquema del Mobiliario aprobado por el Ministerio de Educación Pública. ELIMINADO.
 
 CONTRALORIA GENERAL DE LA REPUBLICA
 
