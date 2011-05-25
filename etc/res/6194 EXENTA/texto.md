@@ -22,8 +22,6 @@ Resolución:
 
 2.- Los recursos comprometidos conforme al número 1 de la presente resolución, para los proyectos seleccionados, se detallan en el siguiente cuadro:
 
-> **Nota.** El Numeral 1º de la Resolución 2240 Exenta, Vivienda, publicada el 09.04.2013, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el Resuelvo 2, la fila correspondiente al Proyecto "La Desilusión", de la comuna de Curanilahue, Región del Biobío de la manera que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
