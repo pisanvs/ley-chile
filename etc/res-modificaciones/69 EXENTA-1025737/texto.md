@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 5.517 EXENTA, DE 1996, DISPONIENDO EL USO DEL FORMULARIO ÚNICO Nº 3500, DENOMINADO "DECLARACIÓN JURADA INFORME MENSUAL RETENEDORES CAMBIOS DE SUJETO"
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 69, de 19 de mayo de 2011, que modifica resolución ex. SII Nº 5.517, de 26 de noviembre de 1996, disponiendo que las empresas retenedoras autorizadas deberán informar los montos mensuales retenidos a cada pequeño productor agrícola mediante la presentación del Formulario único Nº 3500 denominado "Declaración Jurada Informe Mensual Retenedores Cambios de Sujeto", en la forma, plazo e instrucciones impartidas mediante resolución ex. SII Nº 185, de 23 de diciembre de 2010.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo, de 2011.
