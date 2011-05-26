@@ -14,17 +14,15 @@ a) Encontrarse desempleados,
 
 b) Pertenecer a las familias del Sistema Chile Solidario.
 
-Para efectos de acceder al Programa, la calidad de trabajador desempleado deberá acreditarse mediante el correspondiente certificado emitido por la respectiva Oficina Municipal de Información Laboral, que consigna el artículo 73 de la ley Nº 19.518, o en las instituciones que en la Municipalidad cumplan funciones similares, cuando en la misma no existan las ante-riores.
+Para efectos de acceder a los programas asociados al Sistema Chile Solidario, la calidad de trabajador desempleado se acreditará mediante declaración jurada simple de los beneficiarios y beneficiarias. A su vez, deberán presentar inscripción vigente en la respectiva Oficina Municipal de Información Laboral que consigna el artículo 73 de la ley Nº 19.518 o en las instituciones que en la Municipalidad cumplan funciones similares cuando en la misma no exista la anierior.
 
-3.- El Programa Mintrab-Chile Solidario considera los siguientes componentes o líneas de acción:
+3.- Los programas asociados al Sistema Chile Solidario consideran los siguientes componentes o líneas de acción:
 
-a) Programa de Formación, Capacitación y Empleo: Esta línea contratará y financiará acciones de formación, capacitación y emprendimiento para el desarrollo de nuevas destrezas o habilidades laborales, en actividades preferentemente relacionadas con el ecoturismo en Áreas Silvestres Protegidas del Estado, así como en el área agroforestal.
+a) Programa de Apoyo al Empleo Sistema Chile Solidario. Esta línea contratará y financiará acciones de formación, capacitación y emprendimiento para el desarrollo de nuevas destrezas o habilidades laborales, en actividades preferentemente relacionadas con el ecoturismo en áreas silvestres protegidas por el Estado, así como en el área agroforestal.
 
-b) Programa Generación Microemprendimiento Indígena Urbano: Esta línea financia las iniciativas productivas en la población indígena beneficiaria del Sistema Chile Solidario, fortalece las características empresariales personales y apoya su formación y capacitación técnica, en temas relacionados con la actividad productiva que generan su sustento, bajo un esquema participativo de autogestión.
+b) Programa Desarrollo Competencias Laborales Mujeres Chile Solidario. Esta línea financia programas o proyectos de habilitación, capacitación y colocación laboral para mujeres pertenecientes al Sistema Chile Solidario.
 
-Será requisito adicional para acceder a esta línea del Programa que los beneficiarios sean chilenos, tengan la calidad de indígenas, según lo establece la ley Nº 19.253 y que residan dentro de un radio urbano.
-
-c) Programa Desarrollo Competencias Laborales Mujeres Chile Solidario: Esta línea financia cursos de capacitación para el desarrollo de competencias laborales tanto técnicas como de formación para el trabajo, que permitan la incorporación de las mujeres al trabajo dependiente o por cuenta propia.
+Será requisito adicional para acceder a esta línea que las mujeres que postulen sean preferentemente egresadas del programa Apoyo a la Dinámica Familiar (ADF) de la Fundación para la Promoción y Desarrollo de la Mujer (PRODEMU).
 
 4.- La participación de las entidades u organismos asociados a las glosas 06, 08 y 09 de la Partida Presupuestaria 15.01.03 de la Ley de Presupuestos del Sector Público del año 2009, en la ejecución de los programas indicados precedentemente, se realizará previa suscripción de un convenio entre el organismo ejecutor y el Ministerio del Trabajo y Previsión Social.
 
@@ -34,13 +32,15 @@ c) Programa Desarrollo Competencias Laborales Mujeres Chile Solidario: Esta lín
 
 7.- La transferencia de los recursos involucrados se efectuará una vez que se encuentren totalmente tramitados los actos administrativos que aprueben los convenios referidos en los puntos 4 y 5 del presente decreto.
 
-8.- Los Programas Mintrab-Chile Solidario se financiarán con cargo a los recursos consultados en la asignación respectiva del presupuesto de la Subsecretaría del Trabajo para el año 2009:
+8.- Los programas asociados al Sistema Chile Solidario se financiarán con cargo a los recursos consultados en la asignación respectiva del presupuesto de la Subsecretaría del Trabajo para el año 2011:
 
-15-01-03-24-03-263: Programa de Apoyo al Empleo Sistema Chile Solidario
+15-01-03-24-03-263 Programa de Apoyo al Empleo Sistema
 
-15-01-03-24-03-265: Programa Generación Microemprendimiento Indígena Urbano
+Chile Solidario.
 
-15-01-03-24-03-266: Programa Desarrollo Competencias Laborales Mujeres Chile Solidario.
+15-01-03-24-03-266: Programa Desarrollo Competencias
+
+Laborales Mujeres Chile Solidario.
 
 9.- La ejecución, supervisión, control y validación de los requisitos de acceso de los programas serán de responsabilidad del órgano o entidad ejecutora a quien se asignen los recursos mediante el respectivo convenio aprobado por acto administrativo.
 
