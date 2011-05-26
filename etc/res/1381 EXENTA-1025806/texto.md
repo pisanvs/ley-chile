@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.381, de 19 de mayo de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 580, de 2011, modificada mediante resoluciones exentas Nº 625 y Nº 734, ambas de 2011, todas de esta Subsecretaría de Pesca, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Monitoreo biológico pesquero artesanal de Raya volantín (Zearaja chilensis), XI Región, 2011", en el sentido que a continuación se indica:
+
+a) En el numeral 2º, en el sentido de señalar que el objetivo de la pesca de investigación consiste en realizar un levantamiento de datos biológicos y pesqueros base de la actividad pesquera artesanal en Raya volantín y Congrio dorado en la Región de Aysén.
+
+b) Incorporar el siguiente numeral 5º bis: Asimismo, en cumplimiento del objetivo de la presente pesca de investigación, las embarcaciones artesanales participantes podrán extraer, en calidad de especie objetivo, con espinel horizontal, un total de 58 toneladas del recurso Congrio dorado, fraccionadas de la manera señalada en la resolución extractada. Además, autorízase la captura de Raya volantín en calidad de fauna acompañante de Congrio dorado, la que no podrá exceder en un 5% medido en peso por viaje de pesca, respecto de la especie objetivo, con un máximo anual de 4 toneladas.
+
+Valparaíso, 19 de mayo de 2011.- Edith Saa Collantes, Subsecretaria de Pesca (S).
