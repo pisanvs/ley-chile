@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.374, de 16 de mayo de 2011, de esta Subsecretaría, autorízase a PESQUERA EL GOLFO S.A. para continuar desarrollando las actividades pesqueras extractivas autorizadas a Sociedad Pesquera Viento Sur S.A., sólo respecto de las naves en construcción "BEC Nº 939/06", "BEC Nº 741/07" y "BEC Nº 746/07", todo ello en virtud de las escrituras públicas y demás disposiciones legales citadas en Visto de la resolución extractada.
+
+Valparaíso, 16 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
