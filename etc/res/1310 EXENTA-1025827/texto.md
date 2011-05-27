@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.310, de 13 de mayo de 2011, de esta Subsecretaría, rectifícase el numeral 7º de la resolución exenta Nº 1.102, de 2011, de esta Subsecretaría de Pesca, que autorizó a PESQUERA SUR AUSTRAL S.A. para sustituir la nave fábrica "Ocean Dawn" por una nave en construcción, en el sentido de excluir de dicho numeral la resolución exenta Nº 2.101, de 2007, de esta Subsecretaría de Pesca, y aclarar que dicha resolución que autorizó a la nave fábrica antes señalada para realizar actividades pesqueras extractivas en alta mar se encuentra vigente.
+
+Valparaíso, 13 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
