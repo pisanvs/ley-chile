@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.378, de 18 de mayo de 2011, de esta Subsecretaría, modifícase el numeral 7º de la resolución exenta Nº 546, de 2011, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Operación de un sistema de Monitoreo de la Pesquería del Erizo de Aguas Interiores al Norte de las Islas Chauques, Región de Los Lagos, 2011" en el sentido de incrementar en 30 toneladas la cuota ahí indicada.
+
+Valparaíso, 18 de mayo de 2011.- Edith Saa Collantes, Subsecretaria de Pesca (S).
