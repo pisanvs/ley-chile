@@ -24,20 +24,6 @@ Además, en aquellos casos de reparación en Bienes Comunes Edificados de los Co
 
 3. El monto de recursos que se destinaran para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución, se distribuirán regionalmente, según el siguiente cuadro, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministro de Vivienda y Urbanismo:
 
-Región Total UF
-
-Valparaíso 113.697
-
-L.B. O'Higgins 673.403
-
-Maule 496.328
-
-Araucanía 51.325
-
-Metropolitana 376.106
-
-Total 1.710.859
-
 El número de proyectos seleccionados en cada Región alcanzara hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 4. En caso que en alguna de las selecciones los recursos definidos no alcanzaren para atender la totalidad de las postulaciones ingresadas, la selección se efectuará considerando el orden de prelación que determine el puntaje de los postulantes, hasta enterar el total de los recursos disponibles.
@@ -129,6 +115,10 @@ j) Los proyectos postulantes en Condominios de Viviendas Sociales que afecten Bi
 8. El monto del subsidio para el pago de Asistencia Técnica y de Inspección Técnica de Obras que obtendrá cada familia beneficiada, será el que corresponda al tipo de Proyecto de Mejoramiento de que se trate, conforme a lo establecido en la resolución N° 533 (V. y U.), de 1997. No obstante lo anterior, tratándose de Proyectos de Seguridad de la Vivienda que requieran de un especialista estructural y de Proyectos de Habitabilidad de la Vivienda que incluyan la intervención de instalaciones sanitarias, eléctricas o de gas y que requieran ser ejecutados por un profesional competente en la materia, se podrá incrementar con 1 Unidad de Fomento por beneficiario los montos indicados para el área Organización de la Demanda y Postulación de Proyectos.
 
 9. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para el Programa regulado por el D. S. N° 255 (V. y U.), de 2006, para el año 2011.
+
+> **Nota.** El Número 1ª de la Resolución 3082 exenta, Vivienda, publicada el 27-05-2011, incorpora a la Región del Biobío en este Resuelvo.
+
+> **Nota.** NOTA 1 El Número 2ª de la Resolución 3082 exenta, Vivienda, publicada el 27-05-2011, agrega al cuadro inserto en el Resuelvo 3, la Región del Biobío y su monto en unidades de fomento, modificando asimismo la línea correspondiente al total de Unidades de Fomento.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
