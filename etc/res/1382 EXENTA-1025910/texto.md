@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.382, de 19 de mayo de 2011, de esta Subsecretaría, autorízase al grupo de armadores cuya participación conjunta en la unidad de pesquería de Jurel en la III y IV Regiones fue reconocida mediante resolución exenta Nº 154 de 2011 de esta Subsecretaría, para capturar hasta un 10% del Límite Máximo de Captura autorizado al grupo de armadores cuya participación conjunta en la unidad de pesquería de Jurel de la V a la IX Regiones fue reconocida mediante resolución exenta Nº 151 de 2011 de esta Subsecretaría, a partir de la fecha de la presente Resolución y hasta el 31 de diciembre del 2011.
+
+En consecuencia, el límite máximo de captura total para el año 2011, autorizado al grupo de armadores compuesto por COMPAÑIA PESQUERA CAMANCHACA S.A. y PESQUERA BÍO BÍO S.A., cuya participación conjunta en la unidad de pesquería Jurel V-IX Regiones fue reconocida mediante resolución exenta Nº 151 de 2011 de esta Subsecretaría, ascenderá a 33.541,331.
+
+Asimismo, la cuota total final para el año 2011, autorizada al grupo de armadores compuesto por Compañía Pesquera Camanchaca S.A. y Pesquera Bío Bío S.A., cuya participación conjunta en la unidad de pesquería Jurel III y IV Regiones se reconoció mediante resolución exenta Nº 154 de 2011 de esta Subsecretaría, ascenderá a 4.619,567 toneladas.
+
+Valparaíso, 19 de mayo de 2011.- Edith Saa Collantes, Subsecretaria de Pesca (S).
