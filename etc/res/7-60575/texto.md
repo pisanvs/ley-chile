@@ -40,15 +40,7 @@ a.2. Técnicos
 
 a.3. y los demás prestadores de servicios.
 
-b) Los valores fijados para la asignación por Horas Extraordinarias realizadas por los participantes, mencionados anteriormente, en actividades fuera del horario normal en el Servicio Agrícola y Ganadero, serán los siguientes:
-
-Categorías C.J. N.F.
-
-a.1 Profesionales y Supervisores $3.950 $4.680
-
-a.2 Técnicos $2.819 $3.400
-
-a.3 Administrativos y Auxiliares $2.320 $2.760
+b) Los valores fijados para la asignación por horas extraordinarias realizadas por los participantes mencionados anteriormente, en actividades fuera del horario normal en el Servicio Agrícola y Ganadero, serán los siguientes y se actualizarán periódicamente de acuerdo al reajuste de remuneraciones del sector público:
 
 c) Para todos los efectos de debe entender por:
 
