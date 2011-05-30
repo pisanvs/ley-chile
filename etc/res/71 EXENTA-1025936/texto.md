@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 71, del 25 de mayo de 2011, que autoriza a las instituciones sin fines de lucro, Fundación San José para la Adopción, Rol Único Tributario Nº 72.778.300-8, Corporación Iglesia Alianza Cristiana y Misionera, Rol Único Tributario Nº 70.017.500-6, Organización No Gubernamental de Desarrollo Comunidad Terapéutica Plenitud, Rol Único Tributario Nº 65.081.730-3 y Fundación Koinomadelfia, Rol Único Tributario Nº 73.238.400-6, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en mayo de 2011.
