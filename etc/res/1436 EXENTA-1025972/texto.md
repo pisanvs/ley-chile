@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.436, de 24 de mayo de 2011, de esta Subsecretaría, recházanse las solicitudes números 210023004, 210023002, 210023003, 210024002, 210024001, 210021002, 210023006, 210021001, 210031012, 207122209, 207122173, 207122175, 202031025, 208121077 y 208121085, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
