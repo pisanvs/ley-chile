@@ -180,6 +180,10 @@ Para solicitar los beneficios señalados en las letras a), b), c), d), e), f) y 
 
 El Servicio podrá celebrar y financiar la Navidad, para los afiliados y sus cargas familiares, siempre que sus recursos presupuestarios lo permitan.
 
+#### Artículo 11º bis
+
+El servicio podrá administrar colonias, refugios, casas de huéspedes, casinos, jardines infantiles, policlínicos, postas dentales que sean destinadas al uso de los beneficiarios, quedando expresamente excluida de dicha facultad la contratación de personal. Los ingresos que se generen por dicha administración serán destinados a la implementación y gastos de mantención que estos bienes o sus instalaciones demanden
+
 #### Artículo 12°
 
 El Servicio, en la medida que los recursos lo permitan, propenderá al desarrollo social, cultural, deportivo, recreativo y artístico de los afiliados, financiando al efecto programas y actividades tendientes a lograr estos fines y que tiendan a su directo beneficio como asimismo al de sus familias.
@@ -209,6 +213,10 @@ El Servicio con el propósito de mejorar el nivel de atención de sus asociados 
 #### Artículo 14°
 
 Para conceder un préstamo el Consejo Administrativo deberá considerar, especialmente, las posibilidades de recuperación de los dineros prestados. Además, será requisito indispensable la constitución de la garantía de dos codeudores solidarios, que sean funcionarios de planta o a contrata de la Institución y su solvencia será calificada por dicho Consejo Administrativo.
+
+En aquellos casos de desvinculación de los funcionarios, ya sea en forma voluntaria o involuntaria de la Institución, y que se encuentren pagando un préstamo o mantengan cuotas o saldos pendientes con entidades particulares o casas comerciales con las cuales el Servicio de Bienestar mantiene convenios vigentes, éste podrá descontar, con cargo a las remuneraciones devengadas del funcionario desvinculado, los saldos o cuotas insolutas, siempre que dicho descuento no sobrepase, en su conjunto, el quince por ciento del total de sus haberes, deducidos los descuentos legales.
+
+Con todo, el Servicio de Bienestar descontará a los codeudores, avalistas o fiadores de los referidos préstamos, solidariamente, los saldos que no pudieren liquidarse de la forma prevista en el inciso anterior.
 
 #### Artículo 15°
 
