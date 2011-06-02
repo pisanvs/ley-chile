@@ -20,7 +20,7 @@ g) La resolución exenta N° 479, de 1999, modificada por la resolución exenta 
 
 h) El decreto supremo N° 186, de 04.11.1985, del Ministerio del Interior, que otorgó la concesión, publicado en el Diario Oficial del 29.11.1985, y sus modificaciones;
 
-i) La resolución exenta N° 1.227, de 16.10.2008, de la Subsecretaría, que aprobó las Bases del Concurso Público de Radiodifusión Sonora, correspondiente al Primer Cuatrimestre de 2008.
+i) La resolución exenta Nº 1.227, de 16.10.2008, de la Subsecretaría, que aprobó las Bases del Concurso Público de Radiodifusión Sonora, correspondiente al Tercer Cuatrimestre de 2008.
 
 Considerando:
 
