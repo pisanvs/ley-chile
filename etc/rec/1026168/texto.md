@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.971 de 28 de mayo de 2011, se publicó decreto Nº 53 que "Renueva Concesión de Radiodifusión Sonora en Amplitud Modulada para la localidad de Talca", con el error que salva a continuación: II Cuerpo, página cinco, primera columna, en los Vistos: donde dice "... i) La resolución exenta Nº 1.227, de 16.10.2008, de la Subsecretaría, que aprobó las Bases del Concurso Público de Radiodifusión Sonora, correspondiente al Primer Cuatrimestre de 2008." debe decir "... i) La resolución exenta Nº 1.227, de 16.10.2008, de la Subsecretaría, que aprobó las Bases del Concurso Público de Radiodifusión Sonora, correspondiente al Tercer Cuatrimestre de 2008.".
