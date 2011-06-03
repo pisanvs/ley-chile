@@ -206,6 +206,8 @@ Este examen buscará evaluar la competencia del abogado para desempeñarse como 
 
 La Defensoría podrá tomar examen de manera extraordinaria a un proceso licitatorio a objeto de contar con abogados habilitados disponibles.
 
+Los exámenes de habilitación para defensores penales públicos rendidos con anterioridad a la fecha de este llamado, podrán usarse en la acreditación del subfactor respectivo de la evaluación de la oferta técnica manteniendo el puntaje homologado obtenido previamente, cuando se consigne dicha posibilidad en el Anexo 1 de llamado.
+
 ### IV. ANTECEDENTES Y DOCUMENTOS DE LA OFERTA
 
 4.1. DOCUMENTOS
@@ -338,9 +340,9 @@ a) En forma clara y precisa el porcentaje de causas al que postula, y si esta po
 
 b) El valor total de la oferta (VTO); y el valor de competencia de la Oferta (VCO)
 
-La oferta económica se elaborará atribuyendo un valor a la jornada de cada abogado que integra la nómina, conforme a los porcentajes de causas a que se postula, conforme lo que establecen las bases técnicas
+La oferta económica se elaborará atribuyendo un valor mensual a la jornada de cada abogado que integra la nómina, de acuerdo con los porcentajes de causas a que se postula, conforme lo establecen las bases técnicas.
 
-El valor que resulte de sumar los valores de cada abogado, multiplicados por el número de meses del contrato dará un valor total de la oferta (VTO). Luego tal valor total de la oferta se dividirá por el número de abogados propuestos según su participación productiva en la oferta resultando un valor de competencia de la oferta (VCO).
+El valor que resulte de sumar los valores de cada abogado dará un valor total mensual de la oferta (VTM). Luego tal valor total de la oferta se dividirá por las jornadas proporcionales de la oferta resultando un valor de competencia de la oferta (VCO), según se establece en el numeral 6.3 de estas bases administrativas.
 
 Todos los precios deben expresarse en moneda nacional a la fecha de presentación de las ofertas, impuestos incluidos.
 
@@ -408,7 +410,7 @@ Las ofertas técnicas presentadas, así como los informes y documentación que s
 
 El Comité deberá considerar los siguientes factores para determinar las ofertas técnicas que cumplen con el nivel satisfactorio. Del mismo modo deberá atribuir puntajes a aquellos factores a los que corresponda esta clase de evaluación. Los niveles técnicos satisfactorios se determinarán por el cumplimiento de los requisitos consignados en las bases técnicas, de conformidad con el sistema y la escala de atribución de puntajes a los factores puntuables consignados en las mismas.
 
-La evaluación de la oferta técnica, según se describe a continuación ponderará el 50% de la evaluación final de las propuestas.
+La evaluación de la oferta técnica, según se describe a continuación ponderará el 70% de la evaluación final de las propuestas.
 
 6.1.A APOYO ADMINISTRATIVO
 
@@ -474,17 +476,19 @@ f. Finalmente y atribuidos los puntajes de calificación a todos los abogados qu
 
 Elaborada la lista de propuestas que continúan en el procedimiento de selección y producida la apertura de las ofertas económicas, se inicia la etapa de evaluación económica. El criterio para entregar el puntaje a los proponentes será el menor costo del servicio a prestar (menor valor de competencia de la oferta).
 
-La evaluación de la oferta económica, según se describe a continuación ponderará el 50% de la evaluación final de las propuestas.
+La evaluación de la oferta económica, según se describe a continuación, ponderará el 30% de la evaluación final de las propuestas.
 
 Para formular la oferta económica el prestador señalará un valor mensual a cobrar por la jornada de cada uno de los abogados que integra la nómina, conforme a los porcentajes de causas a que se postula. Estos valores por jornada podrán ser diferenciados por abogados, y sólo tienen por objeto efectuar la propuesta económica, debiendo incluirse en dicho valor todos los costos necesarios, así como la utilidad y todos los demás valores componentes del proyecto.
 
 El valor que resulte de adicionar los valores de cada jornada de abogado dará el valor mensual de la oferta, el que multiplicado por el número de meses del contrato será el valor total de la oferta (VTO).
 
-El valor que resulte de dividir el valor total mensual de la oferta por el número de jornadas ofertadas será el valor de competencia de la oferta (VCO), según la siguiente fórmula:
+El valor que resulte de dividir el valor total mensual de la oferta (VTM) por la proporción de jornadas ofertadas será el valor de competencia de la oferta (VCO), según la siguiente fórmula:
+
+donde VTM i es el valor total mensual del proponente i, Jornadas z el número mínimo de jornadas necesarias para dar cobertura al porcentaje licitado en la zona de licitación, y Pi es la proporción de la oferta respecto de la demanda licitada de la siguiente forma:
 
 Para efecto de evaluar y comparar las propuestas económicas de cada proponente en este subfactor, se calificará como mejor oferta la de menor valor de competencia de la oferta VCO, elaborándose una escala para asignar puntajes a las demás propuestas conforme a la siguiente fórmula:
 
-donde VCOi es el valor de competencia de la oferta del proponente i, VCOmenor, el valor de competencia correspondiente a la oferta con el menor precio; y VCOmayor el valor de competencia de la oferta de mayor precio.
+donde VCO i es el valor de competencia de la oferta del proponente i, y VCO menor, el valor de competencia correspondiente a la oferta con el menor precio.
 
 6.4. PUNTAJE DE EVALUACIÓN DE OFERTAS
 
@@ -1038,7 +1042,7 @@ erróneos o incompletos en los sistemas de la Defensoría,
 
 sin fundamento plausible.
 
-A.2.Falta Grave: Importa una sanción de multa superior a 50 UF e inferior o igual a 100 UF, la cual se aplicará por el incumplimiento o falta de diligencia en los siguientes casos:
+A.2. Falta Grave: Importa una sanción de multa superior a 50 UF e inferior o igual a 100 UF, la cual se aplicará por el incumplimiento o falta de diligencia en los siguientes casos:
 
 A.2.1. Si la defensa no fuere satisfactoria como
 
@@ -1102,11 +1106,11 @@ asociados al pago mensual, sin fundamento plausible, por
 
 dos meses consecutivos.
 
-A.2.9. La falta de registro o el registro de datos
+---------------------------------------------------------
 
-erróneos o incompletos en los sistemas de la Defensoría,
+1 Los porcentajes de esta fórmula se refieren al total de la demanda esperada en la zona respectiva. El porcentaje ofertado del proponente debe ser igual o inferior al porcentaje afecto a licitación. El porcentaje afecto a licitación corresponde al señalado en el Anexo Nº 1.
 
-sin fundamento plausible.
+A.2.9. El registro de datos falsos en los sistemas de la Defensoría.
 
 A.2.10. La transgresión de la obligación del 8.4.K de
 
@@ -2153,6 +2157,10 @@ Por medio de la presenta, esta proponente adjudicada declara que los siguientes 
 Al respecto, y de conformidad con lo señalado en el punto 7.2 de las bases administrativas, se compromete a tenerlos implementados en un plazo máximo de 30 días después del inicio de la ejecución del contrato.
 
 Firma del proponente o de su representante legal si es Persona Jurídica
+
+> **Nota.** El numeral 8 del Artículo Único de la Resolución 40, Justicia, publicada el 03.06.2011 modifica la presente norma en el sentido de reemplazar el numeral 1.3 Apoyo de personal administrativo de los oferentes, el subfactor Apoyo administrativo Administrador, por el que en dicha norma indica.
+
+> **Nota.** NOTA 1 El numeral 2 del Artículo Único de la Resolución 40, Justicia, publicada el 03.06.2011 modifica la presente norma en el sentido de agregar en el Anexo 1 el cuadro, que en dicha norma indica, a continuación del denominado "Cobertura desde la Primera Audiencia".
 
 SEGUNDO: Estas bases regirán en los llamados futuros que se efectúen a través de la publicación en el portal Internet de ChileCompra: www.mercadopublico.cl, de las correspondientes bases administrativas y técnicas, y el correspondiente Anexo del Llamado de licitación pública para la contratación del servicio de defensa penal pública.
 
