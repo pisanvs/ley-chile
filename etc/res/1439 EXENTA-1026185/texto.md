@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.439, de 24 de mayo de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 208111170, 208111278, 208111300, 208111295, 208111294, 208103163 y 208121069, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 11 y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 24 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
