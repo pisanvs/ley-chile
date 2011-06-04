@@ -1,0 +1,3 @@
+Por resolución Nº 1.462 exenta, de 31 de mayo de 2011, de esta Subsecretaría, recházanse las solicitudes números 208121134, 208121136, 208122199, 208121135, 208121184, 208121175, 208121173, 208122264, 208121187, 208122220, 208122259, 208122260, 2081121195, 206101161, 208121107, 208121172, 208122215, 208121203, 208121202, 208121186, 208121198 y 210111379, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 31 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
