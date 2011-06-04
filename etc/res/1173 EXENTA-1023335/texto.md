@@ -18,8 +18,6 @@ Resolución:
 
 2. Los recursos involucrados para la selección de los proyectos postulantes en el concurso establecido en el resuelvo número 1 de esta Resolución se distribuyen regionalmente según el siguiente cuadro:
 
-.
-
 El número de proyectos seleccionados en cada Región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 3. Para participar en un proceso de selección, las personas interesadas deberán acreditar haber enterado el ahorro mínimo exigido según el Título al cual postulan y haber sido encuestados con Ficha de Protección Social.
