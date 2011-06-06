@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 75, del 1 de junio de 2011, que autoriza a las Instituciones sin fines de lucro, Organización No Gubernamental de Desarrollo Fraternidad Las Viñas, Rol Único Tributario Nº 65.020.619-3, Corporación Iglesia Alianza Cristiana y Misionera, Rol Único Tributario Nº 70.017.500-6, y Corporación Amor y Esperanza para el Niño Oncológico, Rol Único Tributario Nº 72.455.200-5, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en junio de 2011.
