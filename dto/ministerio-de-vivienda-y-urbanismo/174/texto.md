@@ -1334,41 +1334,31 @@ En caso de cumplirse todos los requisitos exigidos para la adquisición de una n
 
 El otorgamiento de las autorizaciones por el SERVIU, a que se refieren los incisos precedentes, y el alzamiento de la o las prohibiciones correspondientes, se podrá efectuar desde la fecha de la inscripción de la prohibición que afecta a la vivienda cuya enajenación se autoriza.
 
-CAPITULO SEGUNDO: DEL PROGRAMA FONDO SOLIDARIO DE VIVIENDA II
+CAPITULO SEGUNDO: DEROGADO.-
 
-#### Artículo 75
+#### Artículo 75°
 
-El programa que regula el presente Capítulo, está destinado preferentemente a prestar atención habitacional a familias comprendidas dentro del 40% de los hogares con mayor vulnerabilidad.
+(DEROGADO)
 
-#### Artículo 76
+#### Artículo 76°
 
-Las normas del Capítulo Primero del presente reglamento y específicamente las que regulan las postulaciones para Adquisición de Viviendas Construidas, se aplicarán supletoriamente a este Programa, en todo aquello que no aparezca expresamente normado en este Capítulo y siempre que aquéllas no se contrapongan con éstas.
+(DEROGADO)
 
-#### Artículo 77
+#### Artículo 77°
 
-Podrán acceder a este programa los postulantes cuya caracterización socioeconómica, de conformidad con la Ficha. CAS o el instrumento que la reemplace, sea igual o inferior al puntaje de ingreso nacional o regional para el segundo quintil, según se determine mediante resoluciones del MINVU.
+(DEROGADO)
 
-#### Artículo 78
+#### Artículo 78°
 
-El MINVU participará en este programa otorgando al postulante un subsidio habitacional para financiar la construcción de una vivienda o adquisición de una vivienda construida. Para el caso de construcción de viviendas se deberá cumplir con la evaluación de la Comisión Técnica Evaluadora y el Cuadro Normativo inserto en el artículo 19 y con las otras condiciones y requisitos exigidos para proyectos de construcción establecidos en el Capítulo Primero del presente reglamento. Para el caso de adquisición de viviendas construidas, no será exigible el cumplimiento del Cuadro Normativo, antes señalado.
+(DEROGADO)
 
-El monto del subsidio será el establecido para el Capítulo Segundo en el cuadro inserto en el artículo 3°. Para las postulaciones a la Adquisición de Viviendas Construidas no regirá el incremento de 2 Unidades de Fomento por cada medio metro cuadrado que exceda la superficie indicada en dicho precepto, establecido en el inciso tercero del artículo 3°.
+#### Artículo 79°
 
-Los postulantes a este programa podrán optar al subsidio diferenciado a la localización conforme a lo establecido en el Título XVI del presente reglamento. No obstante lo anterior, para proyectos de integración social el monto máximo de este subsidio será de 200 unidades de fomento por cada beneficiario.
+(DEROGADO)
 
-El subsidio a que se refiere este artículo se adicionará con los montos que le corresponda percibir a la EGIS de acuerdo a la Resolución Nº 533 (V. y U.), de 1997, por las tareas que desempeñe en el cumplimiento de estas funciones y, cuando corresponda, con los establecidos en los incisos cuarto y octavo del artículo 3°.
+#### Artículo 80°
 
-#### Artículo 79
-
-Cada postulante deberá acreditar un ahorro mínimo de 30 Unidades de Fomento, enterado hasta el día anterior al del ingreso de los antecedentes al Banco, aplicándose a este ahorro lo dispuesto en los incisos tercero y siguientes del artículo 5° del Capítulo Primero.
-
-#### Artículo 80
-
-Los postulantes del programa habitacional FSV II o de Proyectos de Construcción Colectiva en Zonas Rurales, podrán solicitar un crédito complementario para el financiamiento de la vivienda, sea éste hipotecario o sin garantía hipotecaria. Estos créditos se regirán, en lo que fuere procedente, por las normas del Párrafo 2º del Capítulo II del D.S. Nº 40, (V. y U.), de 2004. En los convenios que se suscriban al efecto con entidades crediticias conforme al inciso final del artículo 31 del reglamento antes citado, podrán pactarse beneficios similares a los contemplados en él para otro tipo de créditos destinados al mismo objeto.
-
-Para los créditos sin garantía hipotecaria regirá lo dispuesto en el inciso final del artículo 33 del D.S. Nº 40, (V. y U.), de 2004.
-
-Si el postulante requiere el crédito complementario a que se refiere el inciso primero del presente artículo, deberá cumplir con el aporte al contado mínimo requerido, de acuerdo a las normas que regulan el crédito respectivo y contar con un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que cubrirá doce dividendos del pago regular del préstamo por los primeros treinta y seis meses del plazo de la deuda, para cuyo financiamiento el mutuario obtendrá un subsidio adicional de un monto equivalente al de la prima respectiva, el que se aplicará al pago de ésta. El mutuario deberá asumir el costo de dicho seguro por el resto del plazo del crédito, que deberá cubrir el pago regular de éste por un mínimo de seis dividendos, pudiendo aplicarse nuevamente esta última cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada.
+(DEROGADO)
 
 CAPÍTULO TERCERO: DEL PROGRAMA HABITACIONAL PARA FAMILIAS DE ZONAS RURALES.
 
