@@ -190,8 +190,6 @@ DEROGADO.
 
 Los precios o tarifas aplicados entre las concesionarias por los servicios prestados a través de las interconexiones, que incluyen entre otros a la totalidad de los servicios asociados al Título V de este plan, serán fijados de acuerdo a lo establecido en los artículos 30 a 30 J de la ley. Mientras no sean fijados por la autoridad los precios o tarifas de tales servicios, serán libremente establecidos por los proveedores del servicio respectivo, sin perjuicio de los acuerdos que puedan convenirse entre las concesionarias.
 
-> **Nota.** El Artículo único de la Resolución 1879 Exenta, Transportes, publicada el 20.08.2016, interpreta la presente norma, respecto de la obligación de los concesionarios de servicio público telefónico de pagar las tarifas de los servicios prestados a través de las interconexiones, en la forma que la citada norma indica.
-
 #### Artículo 33º
 
 La entrada en vigencia de las resoluciones que deberá dictarse de acuerdo a lo establecido expresamente en el presente plan, no podrá impedir el funcionamiento de los servicios autorizados a esa fecha, los cuales en todo caso, deberán adecuarse a la normativa, conforme a las instrucciones que dicte la Subsecretaría al respecto y en el plazo que fije para tal efecto, el que no podrá ser inferior a 6 meses.
