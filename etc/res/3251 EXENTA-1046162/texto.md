@@ -10,9 +10,9 @@ RESUELVO
 
 Fíjanse las siguientes exigencias sanitarias para la internación a Chile, de lana:
 
-1. El país de procedencia está declarado libre de Peste bovina, Peste de los pequeños rumiantes, Viruela ovina y caprina y Fiebre aftosa a virus exóticos para el continente americano, ante la Oficina Internacional de Epizootias.
+1. El país de procedencia está declarado libre de Peste Bovina, Peste de los Pequeños Rumiantes, Viruela Ovina y Caprina y Fiebre Aftosa, ante la Organización Mundial de Sanidad Animal (OIE).
 
-### 2. La lana ha sido sometida a alguno de los siguientes tratamientos:
+2. Si la lana procede de un país o zona que no ha sido evaluado favorablemente por Chile como libre de Fiebre Aftosa, la lana ha sido sometida a alguno de los siguientes tratamientos:
 
 2.1. Fumigación con vapores de aldehído fórmico en un local herméticamente cerrado, a lo menos por 24 horas.
 
@@ -24,17 +24,19 @@ Fíjanse las siguientes exigencias sanitarias para la internación a Chile, de l
 
 2.5 Almacenamiento de la lana a 18°C por cuatro semanas, a 4°C durante cuatro meses o a 37°C durante ocho días.
 
-3. En caso que la lana proceda de un país o zona reconocidos por Chile como libre de Fiebre aftosa, no se exigirá lo establecido en el punto 2, debiéndose señalar dicha condición en el certificado sanitario de exportación.
+### 3. ELIMINADO
 
-### 4. No debe presentar Melophagus ovino, ni efectos de sarna
+### 4. ELIMINADO
 
 5. El embalaje o los envases deberán estar sellados y etiquetados. En ellos se debe indicar el país y establecimiento de procedencia, la identificación del producto y su cantidad.
 
-6. Las lanas teñidas, en tops o en blousse sólo deberán cumplir lo establecido en los puntos 7 y 8 de esta Resolución.
+### 6. ELIMINADO
 
 7. El transporte de la lana desde el establecimiento de procedencia hasta su destino en Chile, se debe realizar en vehículos o compartimentos que aseguren la mantención de sus condiciones sanitarias.
 
 8. Las lanas deberán estar amparadas por un certificado oficial, otorgado al momento del embarque por la autoridad sanitaria competente del país de origen, que acredite el cumplimiento de las exigencias sanitarias y estipule el país y el establecimiento de procedencia, la identificación del producto, su cantidad y el peso neto, el consignatario, la identificación del medio de transporte, y el número de unidades de embalaje.
+
+Las lanas industrializadas, tales como teñidas, en tops, en blousse o con algún tratamiento o proceso de este tipo, se eximen de la presentación de certificación sanitaria. Al momento de tramitar su internación en el puerto de ingreso, sólo deberán cumplir con la inspección y verificación del tratamiento o proceso al que fue sometida y la correspondiente autorización otorgada por el o la médico veterinario oficial.
 
 9. Al arribo al país las lanas serán sometidas a los controles y exámenes que determine el Servicio Agrícola y Ganadero, los que serán con cargo a los usuarios.
 
