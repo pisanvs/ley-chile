@@ -80,7 +80,7 @@ Los procesos administrativos por infracción al DFL, de Educación Nº 1, de 200
 
 #### Artículo 3º
 
-Entiéndase que las facultades administrativas delegadas en los números 24, 25, 26 y 27 del artículo 1º de esta resolución son respecto del personal de la dependencia del territorio jurisdiccional del Jefe Regional de Subvenciones, comprendiendo la Unidad Regional de Subvenciones, las Unidades de Inspección Provincial y las Unidades Provinciales de Pago respectiva.
+Entiéndase que las facultades administrativas delegadas en los números 21, 22, 23 y 24 del artículo 1º de esta resolución, son respecto del personal de la dependencia del territorio jurisdiccional del Jefe Regional de Subvenciones, comprendiendo la Unidad Regional de Subvenciones, las Unidades de Inspección Provincial y las Unidades Provinciales de Pago respectiva.
 
 #### Artículo 4º
 
