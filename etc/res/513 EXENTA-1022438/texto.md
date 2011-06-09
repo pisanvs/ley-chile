@@ -20,9 +20,13 @@ Resolución:
 
 2.- Fíjase el monto de recursos comprometidos para el financiamiento de subsidios de reparación del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el Resuelvo 1, según la siguiente tabla:
 
-3.- Para los efectos de rebajar de las resoluciones citadas en los Visto c) y e) los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 31 de diciembre de 2010 ($ 21.455,55), que corresponde a la fecha de término del período de postulación. En consecuencia, se debe imputar a la resolución exenta Nº 8.820 un total de 37.382,79 UF, de las cuales 31.145,79 UF corresponden al subsidio directo y 6.237 UF a la Asistencia Técnica.
+3.- Para los efectos de rebajar de las resoluciones citadas en los Visto c) y e) los recursos que se comprometen en esta oportunidad, se utilizará para su conversión a Unidades de Fomento el valor de la UF correspondiente al 31 de diciembre de 2010 ($ 21.455,55), que corresponde a la fecha de término del período de postulación. En consecuencia, se debe imputar a la resolución exenta Nº 8.820 un total de 37.298,88 UF, de las cuales 31.075,88 UF corresponden al subsidio directo y 6.223 UF a la Asistencia Técnica.
 
 4.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados, conforme al número 1 de esta resolución, la que deberá contener a lo menos, la comuna y el nombre de cada postulante con su respectiva Cédula Nacional de Identidad.
+
+> **Nota.** La Resolución 3309 Exenta, Vivienda, publicada el 09.06.2011, modifica la presente norma en el sentido de sustituir en el cuadro inserto en el resuelvo 1, el guarismo "891", correspondiente a la Región del Libertador Bernardo O'Higgins y al total por "889", y asimsimo suprime en la nómina anexa a dicho resuelvo las filas 741 y 785.
+
+> **Nota.** NOTA 1 La Resolución 3309 Exenta, Vivienda, publicada el 09.06.2011, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el resuelvo 2, los guarismos "668.250.000" y "6.237", correspondientes a Subsidios y Asistencia Técnica de la Región del Libertador Bernardo O'Higgins y al total, por los guarismos "666.750.000" y "6.223", respectivamente.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
