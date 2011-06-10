@@ -26,67 +26,15 @@ D e c r e t o
 
 Modifícase el DS (M) Nº537, de 1993, del Ministerio de Defensa Nacional, en el sentido de reemplazar su numeral 3º por el siguiente:
 
-"3º.- Fíjanse como Areas Apropiadas para el Ejercicio de la Acuicultura (A.A.A.), en la IX Región de la Araucanía las siguientes:
+"3º.- Fíjanse como Áreas Apropiadas para el Ejercicio de la Acuicultura (A.A.A.), en la IX Región de la Araucanía, los terrenos de playa fiscales, playas de río, porciones de agua y fondo de río, correspondientes a un sector del río Imperial, ubicado en la comuna de Saavedra, provincia de Cautín, comprendidos hasta las líneas imaginarias que unen las coordenadas geográficas de los vértices que especifican sus límites, señaladas en el Plano IX-02-SSP, escala 1:20.000, 1ª edición 2008, Datum WGS-84, editado por la Subsecretaría de Pesca en base a los Planos del Borde Costero elaborados por el Ministerio de Defensa Nacional, revisados y aprobados por el Servicio Hidrográfico y Oceanográfico de la Armada de Chile.
 
-a) Los terrenos de playa fiscales, playa de mar, porciones de agua y fondo, rocas, dentro y fuera de las bahías, comprendidas hasta las líneas imaginarias que unen las coordenadas geográficas de los vértices que especifican su perímetro, señaladas en las cartas náuticas editadas por el Servicio Hidrográfico y Oceanográfico de la Armada (Shoa), que a continuación se indican:
+ÁREA: RÍO IMPERIAL
 
-Area: Caleta Queule (Plano Nº 1)
+PLANO Nº IX-02-SSP, escala 1:20.000, 1ª edición 2008, Datum WGS-84.
 
-Carta SHOA Nº 6231 Esc. 1:20.000, 2ª Edición 1954
+Sector: Río Imperial
 
-Sector Punto Latitud S Longitud W
-
-Caleta Queule 1 39°23'49,12" 73°12'50,88"
-
-2 39°23'49,12" 73°14'40,89"
-
-3 39°22'14,23" 73°14'40,89"
-
-4 39°22'14,23" 73°13'23,71"
-
-5 39°22'32,10" 73°13'10,89"
-
-6 39°22'31,26" 73°12'48,69"
-
-7 39°22'14,23" 73°12'37,29"
-
-8 39°22'14,23" 73°11'49,17"
-
-9 39°22'56,45" 73°12'16,61"
-
-10 39°22'44,51" 73°13'27,29"
-
-Radio de Borneo A 39°22'29,57" 73°12'59,41"
-
-1,5 Cables
-
-La línea que une los puntos 9 y 10, reemplaza la línea de costa hacia la desembocadura del río Queule y configura el cierre del A.A.A.
-
-La línea que une los puntos 5 y 6, está definida por el semicírculo del radio de borneo de 1,5 cables, cuyo centro se definió como punto A.
-
-b) En aquellas áreas no delimitadas por la carta náutica antes señalada, se fijan como A.A.A. los terrenos de playa fiscales, playa de mar, porciones de agua y fondo, rocas, dentro y fuera de las bahías, hasta la franja de 1 milla náutica, aguas adentro, medida desde la línea de la más baja marea entre las latitudes 38°28'35" S. y 39°23'12" S., referidas a la carta náutica SHOA Nº6000 Escala 1:500.000, 8ª Edición 1980. En las desembocaduras de ríos u otros cuerpos de agua, se entenderá por la línea de más baja marea la línea recta imaginaria que une los puntos más salientes de la costa.
-
-En el caso de los ríos Imperial y Toltén, la línea de más baja marea se prolongará en línea recta imaginaria uniendo los puntos 1 y 2 que se señalan a continuación:
-
-Area: Desembocadura Río Imperial
-
-Carta SHOA Nº 6000 Esc. 1:500.000, 8ª Edición 1980
-
-Punto Latitud S Longitud W
-
-1 38°47'59,10" 73°24'25,00"
-
-2 38°48'32,30" 73°24'00,00"
-
-Area: Desembocadura Río Toltén
-
-Carta SHOA Nº 6000 Esc. 1:500.000, 8ª Edición 1980
-
-Punto Latitud S Longitud W
-
-1 39°14'45,00" 73°13'35,00"
-
-2 39°15'00,00" 73°13'25,00"
+En el Área Apropiada para el ejercicio de la Acuicultura fijada en este decreto, se podrán realizar actividades de acuicultura respecto de todo grupo de especies hidrobiológicas, sin más restricciones que aquellas fijadas en la legislación aplicable."
 
 Anótese, tómese razón, comuníquese, regístrese en el Ministerio de Bienes Nacionales y publíquese en el Diario Oficial.- Por orden del Presidente de la República, Mario Fernández Baeza, Ministro de Defensa Nacional.
 
