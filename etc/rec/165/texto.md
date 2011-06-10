@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 39.975, de 2 de junio de 2011, se publicó Ordenanza Nº 102, que "Modifica Ordenanza Nº 22, de 2001, sobre Derechos Municipales" con el error que se salva a continuación: cuerpo I, página cuatro, tercera columna, Ordenanza: donde dice "... 2.- En todo lo no modificado continúa vigente la ordenanza Nº 22 de diciembre de 2001 y sus modificaciones, ...", debe decir "... 2.- En todo lo no modificado continúa vigente la ordenanza Nº 22 de 28 de diciembre de 2001 y sus modificaciones, ...".

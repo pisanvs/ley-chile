@@ -24,7 +24,7 @@ Ordenanza:
 
 9.- DVD cada uno $ 341.- "
 
-2.- En todo lo no modificado continúa vigente la ordenanza Nº 22 de diciembre de 2001 y sus modificaciones, cuyo texto refundido se fijó por decreto alcaldicio ex. Nº 2.361, de 20 de diciembre de 2010, y su modificación.
+2.- En todo lo no modificado continúa vigente la ordenanza Nº 22 de 28 de diciembre de 2001 y sus modificaciones, cuyo texto refundido se fijó por decreto alcaldicio ex. Nº 2.361, de 20 de diciembre de 2010, y su modificación.
 
 3.- Secretaría Municipal publicará en la página web municipal esta ordenanza.
 
