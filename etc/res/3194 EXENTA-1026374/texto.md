@@ -1,0 +1,3 @@
+DESIGNA SUBROGANTES EN EL CARGO Y FUNCIONARIOS QUE INDICA
+
+Extracto de resolución Nº 3.194 exenta, de 31 de mayo de 2011, de la XVI Dirección Regional Metropolitana Santiago Sur, mediante la cual la Directora Regional designa a funcionarios subrogantes que indica en el cargo de Jefe de Grupo Nº 1 de Medianas y Grandes Empresas del Departamento de Fiscalización de esa Dirección Regional. Deroga al efecto, resolución Nº 4.008 exenta, de 29 de julio de 2009, de esa Dirección Regional. Texto íntegro de la resolución Ex. publicado en www.sii.cl.
