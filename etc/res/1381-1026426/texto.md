@@ -1,0 +1,21 @@
+EXTRACTO ESCRITURA DE CONSTITUCIÓN PARTIDO "AIRE"
+
+Por resolución O-Nº 1.381, de fecha 3 de junio de 2011 se ordenó la publicación del siguiente extracto en cumplimiento de lo dispuesto en el artículo 5º inciso tercero y para los efectos señalados en el artículo 10, ambos de la Ley Nº 18.603.
+
+Por escritura pública de fecha 11 de abril de 2011, modificada por escrituras públicas de 28 de abril y 26 de mayo del mismo año, ante doña Esmeralda Luz Muñoz Iglesias, abogado, Notario Público Titular de San Miguel, y ante don Gastón Iván Santibáñez Soto, abogado, Notario Público Titular de la Trigésima Notaría de Santiago, respectivamente, se constituyó como partido político la entidad denominada Aire. El lema es "Chile somos todos". La sigla es "AIRE" y la descripción literal del símbolo corresponde a un trébol de cuatro hojas verdes, con una línea negra y otra blanca en las orillas de las hojas, de donde sale un tallo del mismo color blanco, todo en fondo verde. En la parte baja del trébol y en el mismo fondo verde, en forma horizontal y letras negras mayúsculas, con borde blanco, la palabra AIRE.
+
+La declaración de principios del partido es: AIRE es un partido cuyos integrantes provienen del mundo regionalista, laico, humanista y cristiano, que han resuelto unirse para luchar por la defensa de la familia, la unidad nacional, la regionalización, la justicia social y el medio ambiente. Representar y defender las demandas de los trabajadores, el mundo cristiano, pensionados, jóvenes, mujeres, estudiantes y adultos mayores para construir un país con iguales derechos para todos, quienes deben sentirse parte y miembros activos de una sociedad que, a través de los mecanismos del Estado, les garantiza, sin exclusión alguna, participación en lo político e igualdad en lo social. El objetivo de AIRE es construir una patria justa, que opta por la vida, el futuro que une y no el pasado que divide, donde el beneficio del desarrollo económico llega a todas las personas por igual, promoviendo, desde el partido, una democracia participativa, en la cual las organizaciones sociales, políticas, religiosas, culturales y gremiales son consideradas y participan en los asuntos que les compete.
+
+AIRE plantea una política internacional independiente, que condena cualquier forma de dictadura y rechaza todo tipo de injerencia extranjera, política o militar, en nuestro país o cualquier lugar del mundo donde se amenace la libre y soberana autodeterminación de los pueblos. AIRE propone una democracia participativa, un sistema electoral proporcional y una economía solidaria, donde las regiones elijan sus autoridades y las minorías tienen derecho a estar representadas en todas las instancias del Estado. Los miembros de AIRE queremos un país sin exclusiones, con unidad nacional, participación popular y justicia social.
+
+La Directiva Central provisional del partido "AIRE" estará conformada por las siguientes personas, en los cargos que indica: Presidente, Enrique Hernán Jiménez Valenzuela; Vicepresidente, Marta Sara Vivanco Muñoz; Secretario General, Javier Andre Soto Fuentes; Pro Secretario General, José Daniel Escobar Toledo; Tesorero, Erika del Rosario Ramírez Zárate; Pro Tesorero, José Amadeo Palma Varo; Director, Igor Gilberto Ubilla Navarro.
+
+En caso de impedimento parcial o temporal de alguno de los cargos anteriormente descritos, éstos serán subrogados por afiliados designados por la Directiva Central provisional, y en caso de impedimento definitivo, procederá a nominar a un nuevo afiliado para dicho cargo.
+
+El Tribunal Supremo provisional del partido estará integrado por las siguientes personas, en los cargos que indica: Presidente, Jorge Vargas Díaz; Vicepresidente, Fredi Esteban Figueroa Meneses; Secretario, Carol Solange Mora Ganga; Director, Ariel Jacob Rivera Pacheco; Director, George Robinson Valdés Silva.
+
+En caso de impedimento parcial o temporal de los cargos anteriormente descritos, éstos serán subrogados por un miembro del propio Tribunal Supremo, y en caso de vacancia definitiva, el cargo vacante será nominado por la Directiva Central provisional del partido.
+
+El domicilio común es Avenida General Bulnes doscientos cuarenta y uno, oficina H, comuna de Santiago, Región Metropolitana.-
+
+Elizabeth Cabrera Burgos, Directora (S).
