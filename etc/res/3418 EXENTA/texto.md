@@ -266,9 +266,11 @@ libre de Merodon equestris
 
 y Ditylenchus dipsaci.
 
-Gladiolus spp. (excepto
+Gladiolus spp. (excepto La partida se encuentra
 
-Gladiolus segetum)
+Gladiolus segetum) libre de Uromyces
+
+tranversalis.
 
 Hemerocallis spp. La partida se encuentra
 
@@ -484,26 +486,6 @@ fragariae y Ditylenchus
 
 dipsaci.
 
-Los rizomas de Ranunculus
-
-repens proceden de plantas
-
-madres que fueron
-
-inspeccionadas y analizadas
-
-mediante (especificar
-
-técnica de diagnóstico)
-
-en el momento óptimo para
-
-la detección de la plaga,
-
-y encontradas libres de
-
-Xylella fastidiosa.
-
 Scilla spp. La partida se encuentra
 
 libre de Ditylenchus
@@ -660,16 +642,12 @@ alternativa, que la partida proviene de un área o país libre de una plaga
 
 9. Las siguientes especies no requerirán declaraciones adicionales en el Certificado Fitosanitario para su ingreso al país:
 
-.
+VER DIARIO OFICIAL DE 11.11.2002, PAGINA 4
 
 10. Los géneros o especies no incluidas en esta resolución, así como el material de reproducción que presente modificaciones o manipulaciones genéticas requerirán para su ingreso de un permiso de importación específico para la especie y el origen, emitido por el Departamento de Protección Agrícola, en el que se establecerá las declaraciones adicionales y las condiciones de ingreso.
 
 11. Derógase la resolución N° 2.465 de 1996 y sus modificaciones.
 
 12. La presente resolución entrará en vigencia 60 días después de su publicación en el Diario Oficial
-
-Disposición transitoria:
-
-En relación a la declaración adicional sobre la plaga Xylella fastidiosa, para la especie Ranunculus repens, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
 
 Anótese, comuníquese y publíquese.- Carlos Parra Merino, Director Nacional
