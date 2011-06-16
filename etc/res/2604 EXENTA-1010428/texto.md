@@ -14,17 +14,17 @@ Resuelvo:
 
 PE Nº Producto Área Normas Descripción
 
-PE Nº 1/26 Acondicionador Seguridad IEC60335-2-40 Ensayos de
+PE Nº 1/26 Acondi- Seguridad IEC60335 Ensayos de
 
-de aire Seguridad
+cionador -2-40 Seguridad
 
-NCh3081.Of2007 Clasificación y
+de aire
 
-PE Nº 1/26/2 Acondicionador Eficiencia etiquetado
+PE Nº 1/26/2 Acondi- Eficiencia NCh3081. Clasificación
 
-de aire Energética
+cionador Energética Of2007 y etiquetado
 
-ISO5151 Ensayos de
+de aire ISO5151 Ensayos de
 
 Desempeño
 
@@ -34,13 +34,17 @@ Desempeño
 
 PE Nº Producto Área Normas Fecha
 
-PE Nº 1/26 Acondicionador Seguridad IEC60335-2-40
+PE Nº 1/26 Acondi- Seguridad IEC60335 31/10/2011
 
-de aire 31/05/2011
+cionador -2-40
 
-PE Nº 1/26/2 Acondicionador Eficiencia NCh3081.Of2007
+de aire
 
-de aire Energética ISO5151 31/05/2011
+PE Nº 1/26/2 Acondi- Eficiencia NCh3081. 31/10/2011
+
+cionador Energética Of2007
+
+de aire ISO5151
 
 Anótese, notifíquese y publíquese.- Jack Nahmías Suárez, Superintendente de Electricidad y Combustibles (S).
 
