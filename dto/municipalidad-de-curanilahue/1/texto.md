@@ -660,6 +660,8 @@ la copia 5% UTM
 
 los cierres correspondientes por mt2 5% UTM
 
+> **Nota.** El Nº 1 del Decreto 2131, Municipalidad de Curanilahue, publicado el 27.05.2010, modifica la presente norma en el sentido de agregar un Nº 21, cuyo contenido es del siguiente tenor: 21.- Déjese sin efecto el cobro de los Derechos Municipales por concepto de certificado, al declararse zona de catástrofe por el organismo competente, a las familias con viviendas que hayan sufrido daño.
+
 #### Artículo 17°
 
 <!-- parte:7267208 -->
@@ -777,6 +779,24 @@ proveedores Municipales 20% UTM
 7.- Venta de planos tipo auto construcciones 5% UTM
 
 8.- Registro de marca de animales 5% UTM
+
+9.- Arriendo estadio hasta las 18:00 horas 66,00% UTM
+
+Arriendo estadio después de las 18:00 horas 92,42% UTM
+
+(máximo dos horas)
+
+10.-Arriendo cancha chica 13,20% UTM
+
+(máximo una hora)
+
+11.-Arriendo gimnasio 1 hora 13,20% UTM
+
+12.-Instalación publicidad interior campos
+
+deportivos 100% UTM
+
+(5 mts. x 1 mt.)
 
 ## Título XI
 
