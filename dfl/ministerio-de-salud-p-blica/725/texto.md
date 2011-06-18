@@ -922,6 +922,16 @@ Los servicios profesionales de la enfermera comprenden la gestión del cuidado e
 
 > **Nota.** Véanse los artículos 313 a, 313 b y 313 c del Código Penal, agregados por la Ley N° 17.155.
 
+#### Artículo 113 bis
+
+Sin perjuicio de lo establecido en el artículo anterior, el tecnólogo médico con mención en oftalmología podrá detectar los vicios de refracción ocular a través de su medida instrumental, mediante la ejecución, análisis, interpretación y evaluación de pruebas y exámenes destinados a ese fin.
+
+Para los fines señalados en el inciso anterior y con el objeto de tratar dichos vicios, el tecnólogo médico con mención en oftalmología podrá prescribir, adaptar y verificar lentes ópticos, prescribir y administrar los fármacos del área oftalmológica de aplicación tópica que sean precisos, y controlar las ayudas técnicas destinadas a corregir vicios de refracción. Podrá, asimismo, detectar alteraciones del globo ocular y disfunciones visuales, a fin de derivar oportunamente al médico cirujano especialista que corresponda.
+
+Quienes cuenten con el título de optómetra obtenido en el extranjero podrán desarrollar las actividades a que se refiere este artículo, siempre que convaliden ante la Universidad de Chile sus actividades curriculares de conformidad con lo dispuesto en el decreto con fuerza de ley Nº 3, de 2007, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº 153, de 1982, del Ministerio de Educación Pública, Estatutos de la Universidad de Chile.
+
+Cuando estos profesionales presten sus servicios a personas que, al ser examinadas, evidencien la presencia de patologías locales o sistémicas, deberán derivar de inmediato al paciente a un médico cirujano con especialización en oftalmología. Con todo, el tecnólogo médico podrá participar junto al referido médico cirujano en la atención del enfermo para su rehabilitación, si así se requiriese.
+
 #### Artículo 114°
 
 Prohíbese a una misma persona ejercer conjuntamente las profesiones de médico-cirujano y las de farmacéutico, químico-farmacéutico o bío-químico.
@@ -952,9 +962,9 @@ Los consultorios de matronas podrán ser destinados al control de la evolución 
 
 No podrá ejecutarse ninguna acción cuyo fin sea provocar un aborto.
 
-#### Artículo 120°
+#### Artículo 120
 
-Los profesionales señalados en el artículo 112 de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe, estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químicos-farmacéuticos y farmacéuticos.
+Los profesionales señalados en los artículos 112 y 113 bis de este Código no podrán ejercer su profesión y tener intereses comerciales que digan relación directa con su actividad, en establecimientos destinados a la importación, producción, distribución y venta de productos farmacéuticos, aparatos ortopédicos, prótesis y artículos ópticos, a menos que el Colegio respectivo emita en cada caso un informe estableciendo que no se vulnera la ética profesional. Exceptúanse de esta prohibición los químico-farmacéuticos y farmacéuticos.
 
 # Libro VI
 
@@ -984,7 +994,7 @@ Sin perjuicio de lo dispuesto en los incisos anteriores, los productos farmacéu
 
 #### Artículo 124°
 
-Los médicos-cirujanos, cirujanos-dentistas y matronas podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
+Los médicos-cirujanos, cirujanos-dentistas, matronas y tecnólogos médicos con mención en oftalmología podrán para el ejercicio de su profesión, mantener existencia de productos farmacéuticos para ser administrados por ellos.
 
 #### Artículo 125°
 
@@ -1010,11 +1020,11 @@ Lo dispuesto en este artículo no obsta para que las farmacias puedan dar a cono
 
 #### Artículo 128°
 
-Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta médica correspondiente.
+Sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones que se ordenen en la receta emitida por el profesional facultado para ello.
 
-Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas médicas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
+Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas emitidas por el profesional facultado para ello, cumpliéndose lo señalado en el artículo 120, en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente.
 
-> **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Óptica.
+> **Nota.** Véase el Decreto 4, Salud, publicado el 13.03.1985, sobre Establecimientos de Optica.
 
 #### Artículo 128 bis
 
