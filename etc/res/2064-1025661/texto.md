@@ -18,11 +18,13 @@ Asígnase a contar de la fecha que se indica al siguiente abogado para que ejerz
 
 Nombre : Cristhian Eduardo Navarrete Cottet.
 
-RUT : 12.262.916-3.
+Rut : 12.262.916-3.
 
-Ubicación : Región Metropolitana Sur -
+Ubicación : Región Metropolitana Sur-Provincial
 
-Provincial del Maipo - Staff.
+del Maipo-Unidad Operativa de Cobro
+
+1.
 
 Calidad jurídica : Contrata.
 
@@ -30,15 +32,15 @@ Estamento : Profesional.
 
 Cargo : Profesional.
 
-Grado : 11 E.U.
+Grado : 11 EU.
 
-Función : Abogado.
+Función : Abogado UOC.
 
-Fecha inicio : 01/05/2011.
+Fecha de inicio : 01/05/2011.
 
 Jurisdicción : Todas las comunas de la Región
 
-Metropolitana
+Metropolitana.
 
 Establécese la subrogancia recíproca en caso de ausencia o impedimento, por cualquier causa, entre los abogados del Servicio de Tesorerías, dependientes de la Tesorería Provincial del Maipo.
 
