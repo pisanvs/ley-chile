@@ -12,7 +12,7 @@ E.M.D.N.I. Nº 180.- Vistos:
 
 Decreto:
 
-Autorízase al Instituto "Sub-Teniente Luis Cruz Martínez" de Talagante, para que imparta Instrucción Pre-Militar, ajustándose a las disposiciones del Nº 2 del D.S. Nº 859, de 15 Diciembre 1970, en que los Programas de Instrucción serán visados por la Dirección General de Reclutamiento y Estadística de las FF. AA. y aprobados por el Sr. Ministro de Defensa Nacional.
+Autorízase al "Instituto Sub-Teniente Luis Cruz Martínez", cuyo sostenedor es la Sociedad "Instituto Pre-Militar Sub-Teniente Luis Cruz Martínez Ltda.", RUN Nº83.402.400-4", según consta en resolución de letra j) de Visto, para impartir instrucción premilitar, de acuerdo a las normas establecidas en el DL Nº 2.306, de 1978, que dicta "Normas sobre Reclutamiento y Movilización de las Fuerzas Armadas" y su Reglamento Complementario.
 
 Tómese razón, regístrese, comuníquese y publíquese en el Diario Oficial y en los Boletines Oficiales del Ejército, Armada y Fuerza Aérea.- S. ALLENDE G.- Alejandro Ríos Valdivia, Ministro de Defensa Nacional.
 
