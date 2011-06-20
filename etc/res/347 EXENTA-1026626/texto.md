@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A "FAF INTERNATIONAL SEGUROS GENERALES S.A."
+
+Certifico: Que por resolución exenta Nº 347, de 16 de junio de 2011, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "FAF International Seguros Generales S.A.", acordada en Junta Extraordinaria de Accionistas de 16 de mayo de 2011, cuya acta consta de la escritura pública de la misma fecha, otorgada ante la Notario de Santiago doña Verónica Salazar Hernández, suplente de la titular doña Nancy de la Fuente Hernández, con domicilio en Huérfanos Nº 1117, oficina Nº 1014, Santiago.
+
+La modificación consiste en el aumento del capital social estatutario de $4.046.445.000.-, dividido en 17.693 acciones nominativas, de una misma serie y sin valor nominal, a $5.467.914.059.- dividido en 23.693 acciones nominativas, de una misma serie y sin valor nominal, mediante la emisión de 6.000 acciones de pago, correspondiente a $1.395.630.000.-, a pagar en el plazo de 3 años contados desde el 16 de mayo de 2011. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 16 de junio de 2011.- Carmen Undurraga Martínez, Secretario General.
