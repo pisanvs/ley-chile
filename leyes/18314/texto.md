@@ -14,6 +14,10 @@ De las conductas terroristas y su penalidad
 
 Constituirán delitos terroristas los enumerados en el artículo 2º, cuando el hecho se cometa con la finalidad de producir en la población o en una parte de ella el temor justificado de ser víctima de delitos de la misma especie, sea por la naturaleza y efectos de los medios empleados, sea por la evidencia de que obedece a un plan premeditado de atentar contra una categoría o grupo determinado de personas, sea porque se cometa para arrancar o inhibir resoluciones de la autoridad o imponerle exigencias.
 
+La presente ley no se aplicará a las conductas ejecutadas por personas menores de 18 años.
+
+La exclusión contenida en el inciso anterior no será aplicable a los mayores de edad que sean autores, cómplices o encubridores del mismo hecho punible. En dicho caso la determinación de la pena se realizará en relación al delito cometido de conformidad a esta ley.
+
 #### Artículo 2°
 
 Constituirán delitos terroristas, cuando cumplieren lo dispuesto en el artículo anterior:

@@ -64,9 +64,7 @@ Agrégase a la letra f) del artículo 20 de la Ley Nº 19.640, Orgánica Constit
 
 #### Artículo 3º
 
-Si las conductas tipificadas en la Ley Nº 18.314 o en otras leyes fueren ejecutadas por menores de dieciocho años, por aplicación del principio de especialidad se aplicarán siempre el procedimiento y las rebajas de penas contemplados en la Ley Nº 20.084, que establece un sistema de responsabilidad penal adolescente.
-
-Será circunstancia agravante de los delitos contemplados en la Ley Nº 18.314 actuar con menores de dieciocho años.".
+DEROGADO.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
