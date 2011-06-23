@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.429, de 24 de mayo de 2011, de esta Subsecretaría, modifícase el numeral 5.- de la resolución exenta Nº 757 de 2011, de esta Subsecretaría, que autorizó a la UNIVERSIDAD DE ANTOFAGASTA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Seguimiento de la Pesquería Artesanal de Anchoveta desarrollada por la flota artesanal, en sus áreas de pesca en las costas de la III Región, 2011", en el sentido de incrementar en 19.862 toneladas del recurso Anchoveta la cuota autorizada a ser extraída en el marco de la presente pesca de investigación, la que será imputada a los límites máximos de captura autorizados a ser extraídos por el grupo de armadores cuya asociatividad se estableció mediante resolución exenta Nº 140, de 2011, de esta Subsecretaría.
+
+La cuota indicada en el párrafo anterior sólo podrá ser extraída, fraccionada en los períodos y montos que a continuación se indican:
+
+Valparaíso, 24 de mayo de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
