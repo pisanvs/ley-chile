@@ -66,11 +66,11 @@ En el ejercicio de esta facultad, el Servicio Nacional de Turismo podrá apoyar 
 
 15) Informar a las Municipalidades las solicitudes de patentes de turismo y requerir de estos organismos su cancelación cuando, por resolución ejecutoriada del Servicio, se aplique la sanción de clausura definitiva de la empresa, establecimiento o entidad, o cuando conste el término de las actividades por parte del prestador de servicios turísticos;
 
-16) Calificar si una empresa, establecimiento o entidad cumple con los requisitos turísticos exigidos por las normas que rigen su actividad específica;
+16) DEROGADO.
 
-17) Registrar o inscribir en el registro de la respectiva actividad a todas las personas, empresas, establecimientos o entidades que tengan patente de turismo;
+17) DEROGADO.
 
-18) Clasificar a los prestadores de servicios turísticos en la forma establecida en los respectivos reglamentos;
+18) DEROGADO.
 
 19) Controlar el cumplimiento de las obligaciones legales y reglamentarias a que se encuentran sujetos las empresas, establecimientos y entidades a que se refiere el artículo 2° del decreto supremo N° 422, de 1976, del Ministerio de Economía, Fomento y Reconstrucción;
 
