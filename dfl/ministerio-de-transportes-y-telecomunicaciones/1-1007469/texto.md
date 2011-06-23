@@ -278,7 +278,7 @@ LICENCIA PROFESIONAL
 
 3) Aprobar los cursos teóricos y prácticos que impartan las escuelas de conductores profesionales debidamente reconocidas por el Estado, y
 
-4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la licencia Clase A-2 o Clase A-1. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia Clase A-4.
+4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia profesional clases A-2, A-3 o A-4.
 
 LICENCIA NO PROFESIONAL CLASE B
 
@@ -2412,7 +2412,9 @@ Los conductores a que se refieren los incisos primero y segundo de este artícul
 
 #### Artículo 5º
 
-Los titulares de licencias de conductor clase A-1 y A-2, otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional clase A-3, en el caso de la licencia clase A-1 obtenida antes del 8 de marzo de 1997, y la licencia profesional clase A-5, en el caso de la licencia clase A-2 obtenida antes del 8 de marzo de 1997, acreditando haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente las licencias profesionales clases A-3 y A-5. En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
+
+> **Nota.** La letra b) del artículo único de la Ley 20513, que reemplaza el presente artículo 5° transitorio, fue publicado como un solo inciso. Sin embargo, tanto en el oficio de ley enviado al Ejecutivo y como el enviado por este último al Diario Oficial tiene 2 incisos, por lo que claramente hay un error en la publicación.
 
 Tómese razón, regístrese, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- René Cortázar Sanz, Ministro de Transportes y Telecomunicaciones.- Carlos Maldonado Curti, Ministro de Justicia.
 
