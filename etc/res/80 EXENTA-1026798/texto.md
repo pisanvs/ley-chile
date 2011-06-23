@@ -1,0 +1,5 @@
+ESTABLECE OBLIGACIÓN DE EFECTUAR DECLARACIÓN JURADA SIMPLE A LAS EMPRESAS CONSTRUCTORAS QUE HAGAN USO DEL BENEFICIO TRIBUTARIO DISPUESTO POR LA LEY Nº 20.365, CUANDO NO EXISTA UN CONTRATO DE CONSTRUCCIÓN
+
+Extracto de resolución exenta del SII Nº80 del 20 de junio de 2011, que establece obligación a los contribuyentes empresas constructoras que declaren sus rentas efectivas de Primera Categoría, según contabilidad completa, que hagan uso del crédito establecido por la ley Nº 20.365 y cuando no exista un contrato de construcción, de efectuar una Declaración Jurada Simple en que se indique el valor de los inmuebles y los demás antecedentes que se indican.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de junio, de 2011.
