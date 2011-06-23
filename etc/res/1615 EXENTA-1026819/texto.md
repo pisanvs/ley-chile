@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.615, de 17 de junio de 2011, de esta Subsecretaría, recházanse las solicitudes números 208111322, 208111319, 209111304, 208111348 y 208122257, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 14, del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 17 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
