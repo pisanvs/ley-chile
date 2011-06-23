@@ -142,9 +142,7 @@ comuna de Requínoa, VI
 
 y sistema radiante. Región.
 
-- Coordenadas geográficas : 34°13'20" Latitud Sur.
-
-70°43'19" Longitud Oeste.
+- Coordenadas Geográficas: 34°13'07,3" Latitud Sur; 70°43'45,5" Longitud Oeste. Datum PSAD 56.
 
 4. Los plazos de inicio y término de obras, de inicio de servicio, se contarán a partir de la publicación en el Diario Oficial del presente decreto.
 
