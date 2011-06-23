@@ -38,11 +38,7 @@ Planta Transmisora:
 
 - Dirección : Cerro Orocoipo, Requínoa, VI Región.
 
-- Coordenadas
-
-geográficas: 34°13'20" Latitud Sur; 70°43'19"
-
-Longitud Oeste.
+- Coordenadas Geográficas: 34°13'07,3" Latitud Sur; 70°43'45,5" Longitud Oeste. Datum PSAD 56.
 
 Sistema Radiante:
 

@@ -136,9 +136,7 @@ radiante : Cerro Orocoipo, comuna de
 
 Requínoa, VI Región.
 
-- Coordenadas geográficas : 34º 13' 20" Latitud Sur
-
-70º 43' 19" Longitud Oeste.
+- Coordenadas Geográficas: 34°13'07,3" Latitud Sur; 70°43'45,5" Longitud Oeste. Datum PSAD 56.
 
 4.- La concesionaria no podrá iniciar servicios sin que sus obras e instalaciones hayan sido previamente autorizadas por la Subsecretaría; para estos efectos deberá solicitar, por carta certificada, que se verifique que dichas obras e instalaciones se encuentran correctamente ejecutadas y que correspondan al proyecto aprobado.
 
