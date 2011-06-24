@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.628, de 17 de junio de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 208111444, Nº 208111443, Nº 208111442, Nº 208111427, Nº 208111428, Nº 208111429, Nº 208111335, Nº 208111426, 209111014, Nº 208111616, Nº 208111617, Nº 208111620, Nº 208111621, Nº 208111619, Nº 208111618, Nº 208111317, Nº 208111321, Nº 208111325, Nº 208111622, Nº 208111623, Nº 209111016, Nº 209111150, Nº 209111043 y Nº 208111452, señaladas en la resolución extractada, y publicadas íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
