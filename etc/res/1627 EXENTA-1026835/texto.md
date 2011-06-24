@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.627, de 17 de junio de 2011, de esta Subsecretaría, recházanse las solicitudes números 208121200, 208121204, 209111447, 209111143, 210111429, 207111163, 210111377, 208122244, 208122243, 208122252, 208122203, 208122202, 210111365, 208111673, 208122234, 208122251, 208122238, 208122248, 208122209, 201111853, 207121214, 208121206 y 208101137, individualizadas en la resolución extractada, y publicadas íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 17 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
