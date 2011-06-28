@@ -1,0 +1,199 @@
+LLAMA A POSTULACIÓN REGIONAL PARA EL DESARROLLO DE PROYECTOS DEL TÍTULO II, MEJORAMIENTO DE LA VIVIENDA, DEL PROGRAMA DE PROTECCIÓN DEL PATRIMONIO FAMILIAR PARA EL ACONDICIONAMIENTO TÉRMICO DE VIVIENDAS DE LA REGIÓN DE MAGALLANES Y ANTÁRTICA CHILENA; Y FIJA EL MONTO DE RECURSOS DISPONIBLE
+
+Núm. 221 exenta.- Punta Arenas, 16 de junio de 2011.- Vistos:
+
+1. El DS Nº 255, de 2006 (V. y U.), y sus modificaciones, que regula el Programa de Protección del Patrimonio Familiar, en especial lo dispuesto en su artículo 6 bis, sobre Acondicionamiento Térmico de las Viviendas y su artículo 13, sobre los Llamados a Postulación;
+
+2. La resolución exenta Nº 8.816, del Ministerio de Vivienda y Urbanismo, de fecha 31 de diciembre de 2010, que autoriza el otorgamiento de subsidios habitacionales correspondientes a los llamados que se efectúen durante el año 2011, en sistemas y programas que indica;
+
+3. La circular Nº 4, del Sr. Subsecretario de Vivienda y Urbanismo, de fecha 18 de enero de 2011, que distribuye regionalmente el Programa Habitacional del año 2011, asignándole a la Región de Magallanes, 1.000 subsidios de Acondicionamiento Térmico, del Título II del Programa de Protección del Patrimonio Familiar;
+
+4. El oficio Nº 306, del Sr. Ministro de Vivienda y Urbanismo, de fecha 10 de junio de 2011, que autoriza la realización de un llamado regional con condiciones especiales para el otorgamiento de subsidios de Acondicionamiento Térmico del Título II del Programa de Protección del Patrimonio Familiar, y
+
+Considerando: La necesidad de atender a las familias que requieren acondicionar térmicamente sus viviendas para lograr el estándar de transmitancia térmica definido en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, a pesar de que éstas no cumplan todos los requisitos de postulación definidos en el DS Nº 255/2006, que regula el Programa de Protección del Patrimonio Familiar, dicto la siguiente
+
+Resolución:
+
+1. Llámase a postulación regional, para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, destinados al acondicionamiento térmico de la vivienda, conforme a lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para seleccionar mensualmente proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2011, a partir del mes de julio y hasta el mes de diciembre.
+
+2. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 137.500 UF.
+
+3. Según lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe asegurar que la vivienda una vez intervenida cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la OGUC, para la zona térmica 7, definida en la resolución Nº 482 (V. y U.), de 1999. Una vez cumplida la exigencia anterior, con el saldo podrán financiarse obras complementarias que correspondan a otros proyectos del Título II (Seguridad Estructural, Habitabilidad, o de Mantención de la vivienda). Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de vivienda sin intervenir y de la vivienda una vez intervenida, señalando cómo se ha dado cumplimiento, de acuerdo con instructivo al efecto.
+
+4. Para asegurar la participación de la mayor cantidad de familias en este proceso de selección, se exime a los postulantes de este llamado de cumplir los siguientes requisitos definidos en el DS Nº 255:
+
+4.1. A los adultos mayores que posean hasta 11.734
+
+puntos en la FPS, se les exime de acreditar el
+
+ahorro mínimo, exigido en el artículo 9º y en la
+
+letra f) del artículo 16, el que será de cargo al
+
+programa.
+
+4.2. De lo dispuesto en los incisos segundo y tercero
+
+del artículo 15, referido a la incompatibilidad
+
+con el beneficio para proyectos del mismo tipo,
+
+recibidos anteriormente.
+
+4.3. De los antecedentes generales para postular a
+
+cualquier título exigidos en el artículo 21, en
+
+sus letras e.1) sobre el procedimiento para que
+
+el PSAT certifique que el inmueble es una
+
+Vivienda Objeto del Programa.
+
+### 5. Para este llamado se definen las siguientes condiciones especiales:
+
+5.1. Los seleccionados en este llamado no quedarán
+
+imposibilitados de obtener nuevamente el subsidio
+
+relativo al Título II de este Programa
+
+Habitacional, con la excepción de aquellos que ya
+
+han obtenido este beneficio con anterioridad.
+
+5.2. El procedimiento para que el PSAT certifique que
+
+el inmueble es una Vivienda Objeto del Programa,
+
+consistirá en que el avalúo fiscal de la vivienda
+
+sea inferior a 650 UF, lo que se acreditará con
+
+el certificado de avalúo de Impuestos Internos
+
+correspondiente.
+
+5.3. Permitirá que los profesionales del área de la
+
+construcción de los PSAT participantes en este
+
+llamado puedan atender simultáneamente a un
+
+número superior a 80 viviendas, a pesar de lo
+
+indicado en la resolución Nº 533 (V. y U. ), de
+
+1997.
+
+5.4. Se permitirá la participación de viviendas de
+
+autoconstrucción que estén en proceso de
+
+regularización, lo que se certificará presentando
+
+copia del ingreso a la Dirección de Obras
+
+Municipales correspondiente, del expediente de la
+
+vivienda y de la solicitud de permiso de
+
+edificación. Para financiar la realización de
+
+esta labor se incrementará la Asistencia Técnica
+
+a cancelarle al PSAT, aumentando en 1 UF el monto
+
+del cupón 1, de Organización de la Demanda y
+
+Postulación de Proyectos, y en 2 UF el monto del
+
+cupón 2, de Gestión de Proyecto e Inspección
+
+Técnica de Obras, ambos del Título II, indicado
+
+en el número 55 de la resolución Nº 533 (V. y
+
+U.), de 1997. El cupón 2 y las obras sólo se
+
+pagarán una vez que la vivienda cuente con la
+
+recepción final del SERVIU, sin ser necesaria la
+
+recepción municipal.
+
+6. Los proyectos deberán ingresarse en las oficinas de partes del Serviu Magallanes o de la Delegación Provincial de Puerto Natales, según proceda.
+
+7. Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a cada una de las selecciones de este llamado:
+
+a) Puntaje adicional por grado de cumplimiento de las
+
+exigencias del artículo 4.1.10 de la vivienda antes
+
+de la intervención proyectada.
+
+En caso que la vivienda no cumpla las exigencias en
+
+más de un tipo de elemento, se deben sumar los
+
+puntajes asignados a cada elemento que no da
+
+cumplimiento.
+
+b) Puntaje adicional por diseño de la solución de
+
+aislación térmica a incorporar en los elementos de
+
+muro y piso ventilado a intervenir. Se otorgarán 5
+
+puntos adicionales si la aislación térmica
+
+considerada es proyectada por el exterior.
+
+c) Puntaje adicional por mejoras al proyecto por sobre
+
+lo establecido en el artículo 4.1.10 de la OGUC.
+
+Ue= U (transmitancia térmica) exigido (ponderado)
+
+para cada elemento según zona térmica.
+
+Up= U (transmitancia térmica) proyectado
+
+(ponderado) para cada elemento según zona térmica.
+
+Nota: en caso de mejorar en más de un 40% el U
+
+requerido para la zona en donde se proyecta
+
+construir, el puntaje asignado será el máximo
+
+establecido en la tabla; es decir, 10 puntos para
+
+complejo techumbre, 30 puntos para complejo muro y
+
+30 puntos para complejo piso ventilado.
+
+En caso que la vivienda sea intervenida en más de
+
+un tipo de elemento por sobre las exigencias
+
+establecidas en la RT, se deben sumar los puntajes
+
+asignados a cada elemento, de acuerdo con la tabla
+
+anterior.
+
+d) Ventanas: Priorización por cambio de ventana con
+
+vidrio monolítico a ventana de doble vidriado
+
+hermético (DVH) en recintos habitables (estar-
+
+comedor, dormitorios).
+
+8. Mediante resoluciones de esta SEREMI de Vivienda y Urbanismo de la Región de Magallanes y Antártica Chilena, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por el SERVIU Magallanes en los términos previstos en el DS Nº 255 (V. y U.), de 2006.
+
+9. Facúltese al SERVIU Magallanes para utilizar los recursos de Asistencia Técnica, en caso de tener que actuar como Prestador de Asistencia Técnica, para el pago de Servicios Profesionales.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Christian Matheson Villán, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Magallanes y Antártica Chilena.
