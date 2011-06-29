@@ -1,0 +1,7 @@
+INFORMA CAMBIO DE CRITERIO RESPECTO A LA FORMA EN QUE DEBEN TRIBUTAR LAS COOPERATIVAS
+
+El inciso final del artículo 49, del decreto con fuerza de ley 5, del año 2004, del Ministerio de Economía, Fomento y Reconstrucción, sobre Ley General de Cooperativas, preceptúa que no obstante lo previsto en el artículo, las cooperativas e institutos auxiliares de cooperativas se regirán en materia de Impuesto a la Renta por las normas del artículo 17 del decreto ley Nº 824, de 1974, por lo cual dichos organismos, en lo que respecta las obligaciones contenidas en la Ley sobre Impuesto a la Renta, no se benefician de la exención del cincuenta por ciento de todas las contribuciones, impuestos, tasas y demás gravámenes impositivos en favor del Fisco a que alude la letra a) del mencionado artículo, motivo por el cual el criterio contenido en la letra d), del Nº12 del Ord. Nº 549, 20.03.2008, de este Servicio, queda sin efecto en virtud de lo dispuesto por el Ord. Nº1.397 de 07-06-2011, publicado en la página web de este Servicio,
+
+www.sii.cl.
+
+Conforme a lo dispuesto por el artículo 15 del Código Tributario, este cambio de criterio regirá desde la fecha de publicación en el Diario Oficial del presente extracto.
