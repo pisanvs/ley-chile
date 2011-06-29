@@ -32,19 +32,7 @@ Año : 2009
 
 Color : Rojo Perlado
 
-d) Vehículo : Station Wagon
-
-Marca : Subaru
-
-Nº chasis : G053373
-
-Nº motor : D650086
-
-Patente : BYFX 85
-
-Año : 2009
-
-Color : Rojo Perlado.
+d) ELIMINADO.
 
 2.- El vehículo individualizado en la letra b) del número 1 de este decreto, se asigna para el uso privativo del Secretario Ejecutivo de la Comisión Nacional de Riego, y el vehículo individualizado en la letra a), se asigna como vehículo de respaldo a la Secretaria Ejecutiva y para efectuar labores de terreno. Estos vehículos, además, quedarán exceptuados de la obligación de llevar el disco distintivo estatal que dispone el decreto ley Nº 799 de 1974.
 
@@ -57,6 +45,8 @@ Color : Rojo Perlado.
 - **c)** y d), por su parte, serán guardados en los estacionamientos de la Comisión Nacional de Riego.
 
 4.- Déjanse sin efecto los decretos (ex.) Nº 126 de 1993 y Nº 84 de 1999, ambos del Ministerio de Economía, Fomento y Reconstrucción, y el decreto (ex.) Nº 217 de 2000, del Ministerio de Agricultura.
+
+> **Nota.** El numeral 1 a) del Decreto 250 Exento, Agricultura, publicado el 29.06.2011, modifica la presente norma en el sentido de autorizar la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos a los vehículos de la Comisión Nacional de Riego que la propia norma señala.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Alvaro Rojas Marín, Ministro de Agricultura.- Belisario Velasco Baraona, Ministro del Interior.
 
