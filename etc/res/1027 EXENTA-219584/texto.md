@@ -8,7 +8,7 @@ R e s u e l v o:
 
 1.- Establécese el plazo de vigencia del certificado de inscripción en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región Metropolitana, en adelante, el Registro, para los tipos de servicio y vehículos que a continuación se indican:
 
-a) Servicios inscritos en el Registro de Servicios Rurales de Transporte Público de la Región Metropolitana; 90 meses para los que se presten con taxis colectivos y 48 meses para los prestados mediante buses, todos contados desde la fecha de la resolución que autoriza su funcionamiento.
+a) Servicios inscritos en el Registro de Servicios Rurales de Transporte Público de la Región Metropolitana; 96 meses para los que se presten con taxis colectivos y 48 meses para los prestados mediante buses, todos contados desde la fecha de la resolución que autoriza su funcionamiento.
 
 b) Servicios de buses inscritos en el Registro de Servicios Interurbanos de transporte público de pasajeros de la Región Metropolitana; 48 meses, contados desde la fecha de la resolución que autoriza su funcionamiento.
 
