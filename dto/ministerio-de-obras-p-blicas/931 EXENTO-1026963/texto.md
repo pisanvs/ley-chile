@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº931 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº41A, superficie 31 m2, rol Nº1353-1, comuna de Valdivia para la obra "Mejoramiento Pasada por Valdivia, sector Eje Pedro Aguirre Cerda, Tramo Km. 0,00000 - Km. 3,59831", Provincia de Valdivia, XIV Región. Tramo 2, y se acordó el valor de la indemnización con su propietario LUCILA DEL CARMEN PORTALES ALTAMIRANO, ascendente a la cantidad de $10.514.528.-
+
+Fiscal del Ministerio de Obras Públicas.
