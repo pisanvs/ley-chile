@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº963 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº39, superficie 40 m2, rol Nº234-34, comuna de Los Lagos para la obra "Mejoramiento Ruta T-35, Sector Los Lagos - Valdivia, tramo Nº2 Km. 0,00000 a Km. 16,60000", Comuna Los Lagos, Provincia de Valdivia, Región de Los Ríos, y se acordó el valor de la indemnización con su propietario MARÍA ANGÉLICA SILVA VÁSQUEZ, ascendente a la cantidad de $356.150.-
+
+Fiscal del Ministerio de Obras Públicas.
