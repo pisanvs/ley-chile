@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº938 de 31 de mayo de 2011, se expropió el lote de terreno Nº50, superficie 1.695 m2, rol de Avalúo 1245-72, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO" REGIÓN DEL BIOBÍO, VIII Región y se acordó el valor de la indemnización con su propietario don SERAFÍN CIDINIO GALLEGOS ZAMBRANO, ascendente a la cantidad de $1.590.162.-
+
+Fiscal del Ministerio de Obras Públicas.
