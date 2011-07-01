@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº952, de 31 de mayo de 2011, se expropió el lote de terreno Nº1, superficie 3.032 m2., Rol de Avalúo Nº253-22, comuna de Lumaco, IX Región, "PASARELA CORRIENTES BLANCAS, CAMINO CHOL - CHOL - HUAMAQUI, SECTOR MADILHUE - REPOCURA, KM. 28,78220 AL KM. 29,04360", y se acordó el valor de indemnización con su propietario don PASCUAL ENRIQUE LEAL CARRASCO, ascendente a la cantidad de $4.778.940.-
+
+Fiscal del Ministerio de Obras Públicas.
