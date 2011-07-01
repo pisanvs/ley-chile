@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº962 de fecha 31 de mayo de 2011, se expropiaron los lotes de terreno Nº12-A, superficie 361 m2, rol Nº209-5, Nº12-B, superficie 432 m2, rol Nº209-52, Nº13, superficie 48 m2, rol Nº209-52, Nº14, superficie 36 m2, rol Nº209-47, Nº15, superficie 37 m2, rol Nº209-47 y Nº16, superficie 305 m2, rol Nº209-47, comuna de Florida para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata, Región del Bío Bío" y se acordó el valor de la indemnización con su propietario SOCIEDAD AGRICOLA Y FORESTAL FUNDO PILLUCO LTDA., ascendente a la cantidad de $971.636.-
+
+Fiscal del Ministerio de Obras Públicas.
