@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº961, de 31 de mayo de 2011, se expropiaron los lotes de terrenos Nºs. 3, 4 y 5, superficies 381, 251 y 270 m2, rol de Avalúo 1237-1, comuna de Yumbel, para la obra "CONSERVACIÓN RED VIAL VIII REGIÓN AÑOS 2009-2011, SECTOR PUENTE LIRCAY", REGIÓN DEL BIOBÍO, VIII Región y se acordó el valor de la indemnización con su propietaria VOLTERRA S.A., ascendente a la cantidad de $844.448.-
+
+Fiscal del Ministerio de Obras Públicas.
