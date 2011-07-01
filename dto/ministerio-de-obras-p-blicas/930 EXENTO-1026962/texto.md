@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº930 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº9-A, superficie 13.400 m2, rol Nº553-96, comuna de Linares para la obra "Construcción Sistema de Regadío Ancoa", Empréstitos Chupallar Comuna de Linares, Provincia de Linares, VII Región del Maule y se acordó el valor de la indemnización con su propietario FERNANDO JOSÉ NÚÑEZ JORQUERA, ascendente a la cantidad de $28.886.101.-
+
+Fiscal del Ministerio de Obras Públicas.
