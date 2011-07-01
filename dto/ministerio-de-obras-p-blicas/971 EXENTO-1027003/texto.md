@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº971, de 31 de mayo de 2011, se expropiaron los lotes de terreno Nºs. 56-A y 56-C, superficies 638 y 189 m2., Rol Nº61-23, comuna de La Estrella, VI Región, "MEJORAMIENTO RUTA I-20 LOS MAITENES - LA ESTRELLA, TRAMO KM. 0,00000 A KM. 20,40000" , y se acordó el valor de indemnización con sus propietarios: CARLOS ARTURO PINO RODRÍGUEZ, JUAN FRANCISCO PINO HORMAZABAL, JUAN FRANCISCO PINO RODRÍGUEZ, ANA MARÍA PINO RODRÍGUEZ, SONIA DEL CARMEN PINO RODRÍGUEZ y CARMEN PATRICIA PINO RODRÍGUEZ, ascendente a la cantidad de $2.443.548.-
+
+Fiscal del Ministerio de Obras Públicas.
