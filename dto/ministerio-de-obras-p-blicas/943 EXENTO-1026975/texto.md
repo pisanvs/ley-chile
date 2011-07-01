@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº943 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº2-E, superficie 256,29 m2, rol Nº429-59 E/T, comuna de Ancud para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos, y se acordó el valor de la indemnización con su propietario RAÚL ISMAEL BARRÍA BARRÍA, ascendente a la cantidad de $28.252.936.-
+
+Fiscal del Ministerio de Obras Públicas.
