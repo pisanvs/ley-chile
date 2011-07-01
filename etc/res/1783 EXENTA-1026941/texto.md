@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.783, de 30 de mayo de 2011, Serviu Región del Maule ordenó expropiación parcial, conforme artículo 51 ley 16.391, de inmueble ubicado en 8 Sur 2255, Rol avalúo Nº 409-2, comuna Talca, superficie 128,73 m², deslindes según plano expropiaciones, propietario aparente Olave González, Nemesio. Comisión integrada por peritos Patricio Ulises Durán Marcos, arquitecto; Rodrigo Antonio Silva Lazo, constructor civil, y Pedro Pablo Cruz Weston, arquitecto, según informe de mayo de 2011, fijó monto provisional indemnización en $15.447.600, pagados al contado.-
+
+Clarisa Ayala Arenas, Directora (S) Serviu Región del Maule.
