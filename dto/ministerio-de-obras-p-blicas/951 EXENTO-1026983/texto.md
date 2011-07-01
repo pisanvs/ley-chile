@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº951, de 31 de mayo de 2011, se expropió el lote de terreno Nº2-H, superficie 297,88 m2., Rol 429-72, comuna de Ancud, X Región, "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO- BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", PROVINCIA DE CHILOÉ, y se acordó el valor de indemnización con su propietario JORGE ELADIO BARRIENTOS NAVARRO, ascendente a la cantidad de $32.463.712.-
+
+Fiscal del Ministerio de Obras Públicas.
