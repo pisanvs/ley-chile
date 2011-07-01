@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº936 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº6-C, superficie 3.392 m2, rol Nº427-726, comuna de Illapel para la obra "Mejoramiento Ruta D-85, D-81, Sector By Pass Illapel, Km. 0,00000 a Km. 4,05474", IV Región y se acordó el valor de la indemnización con su propietario NORMA ISABEL OLIVARES AGUILERA, ascendente a la cantidad de $5.176.110.-
+
+Fiscal del Ministerio de Obras Públicas.
