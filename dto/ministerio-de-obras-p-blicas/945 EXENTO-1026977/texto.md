@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº945, de 31 de mayo de 2011, se expropió el lote de terreno Nº2-C, superficie 252,14 m2., Rol Nº429-57 (E/T), comuna de Ancud, X Región, " AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO - BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", PROVINCIA DE CHILOÉ, y se acordó el valor de indemnización con su propietaria ALICIA ARANEDA TORRES, ascendente a la cantidad de $20.357.978.-
+
+Fiscal del Ministerio de Obras Públicas.
