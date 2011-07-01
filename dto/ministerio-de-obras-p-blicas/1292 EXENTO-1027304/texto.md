@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº1292 de 31 de julio de 2011, se modificó el numeral sexto de los Decretos MOP Nº622, 623 y 624 de 29 de abril de 2011, que ordenaron, la expropiación de los lotes Nº4D-1, 4-C1 y 11-B, respectivamente, en la parte que se refiere a la individualización de la cuenta aporte, en donde dice 214051, debe decir 2140501 y no como se indicó en dichos decretos. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
