@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº958 de 31 de mayo de 2011, se expropiaron los lotes de terrenos Nºs. 3 y 4, superficies 790 y 337, m2, rol de Avalúo 586-46, comuna de San Rosendo, para la obra "CAMINO RUTA O-54, TRAMO KM. 17,80000 A KM. 18,00720, SECTOR PUENTE NARANJO", REGIÓN DEL BIOBÍO, VIII Región y se acordó el valor de la indemnización con su propietario NADIA DEL CARMEN CISTERNA ORTÍZ, ascendente a la cantidad de $1.016.988.-
+
+Fiscal del Ministerio de Obras Públicas.
