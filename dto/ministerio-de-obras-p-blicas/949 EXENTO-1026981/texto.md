@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº949, de 31 de mayo de 2011, se expropió el lote de terreno Nº17, superficie 10.933,3 m2., Rol Nº2905-87, comuna de Pudahuel, Región Metropolitana, "CAMINO RUTA G-184, SECTOR: EL NOVICIADO KM. 0,07700 A KM. 5,40000", PROVINCIA DE SANTIAGO, y se acordó el valor de indemnización con su propietaria SOCIEDAD INVERSIONES JARIALKA Y COMPAÑÍA, ascendente a la cantidad de $49.793.499.-
+
+Fiscal del Ministerio de Obras Públicas.
