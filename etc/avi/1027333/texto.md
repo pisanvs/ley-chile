@@ -1,0 +1,3 @@
+Modifícase la publicación del extracto efectuada en la edición del 1º de junio de 2011, correspondiente al Decreto M.O.P. (Exento) Nº862, de 24 de mayo de 2011, en el sentido que el año correspondiente al Decreto MOP Nº822, es 2010 y no 2011, como se indicó en dicho extracto. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
