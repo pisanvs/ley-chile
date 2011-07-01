@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº954, de 31 de mayo de 2011, se expropiaron los lotes de terrenos Nos 94-D y 95-D, superficies 265 y 1.045 m2., Rol Nº275-51, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", COMUNAS DE SAN JAVIER Y CAUQUENES, PROVINCIAS DE LINARES Y CAUQUENES, REGIÓN DEL MAULE, y se acordó el valor de indemnización con sus propietarios HUMBERTO ANTONIO VENEGAS ARÉVALO Y OTROS, ascendente a la cantidad de $2.369.878.-
+
+Fiscal del Ministerio de Obras Públicas.
