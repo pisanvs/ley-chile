@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº937 de 31 de mayo de 2011, se expropió el lote de terreno Nº109, superficie 68 m2, rol de avalúo 1191-82, comuna de Arauco, para la obra "CAMINO RUTA P-22, SECTOR LLICO - PUNTA LAVAPIÉ, TRAMO KM. 6,52000 A KM. 11,52130, REGIÓN DEL BIOBÍO", y se acordó el valor de la indemnización con su propietario JOSÉ PAILLALEF LEAL, ascendente a la cantidad de $2.980.894.-
+
+Fiscal del Ministerio de Obras Públicas.
