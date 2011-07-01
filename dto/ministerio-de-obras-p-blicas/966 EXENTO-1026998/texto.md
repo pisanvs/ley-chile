@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº966, de 31 de mayo de 2011, se expropió el lote de terreno Nº36-B, superficie 133 m2., Rol Nº55-122, comuna de Pumanque, VI Región, "CAMINO RUTA I-60, SECTOR PUMANQUE - CRUCE I-72, TRAMO KM. 20,34083 A KM. 38,49623", y se acordó el valor de indemnización con su propietario don PEDRO NOLASCO o PEDRO ZUÑIGA PARRAGUEZ ascendente a la cantidad de $516.462.-
+
+Fiscal del Ministerio de Obras Públicas.
