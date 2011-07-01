@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº935, de 31 de mayo de 2011, se expropió el lote de terreno Nº1-A, superficie 1.735 m2, Rol de avalúo 1.531-9, comuna de Los Ángeles, para la obra "REPARACIÓN INFRAESTRUCTURA VIAL VARIAS RUTAS Y PUENTES, PROVINCIA DE BÍO BÍO, SECTOR PUENTE DIUTO", y se acordó el valor de la indemnización con su propietario don VIVIANO ALFONSO MELLADO MELLADO ascendente a la cantidad de $3.524.099.-
+
+Fiscal del Ministerio de Obras Públicas.
