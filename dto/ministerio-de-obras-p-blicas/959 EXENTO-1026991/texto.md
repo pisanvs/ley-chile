@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº959 de fecha 31 de mayo de 2011, se expropiaron los lotes de terreno Nºs 1 y 3, superficies 252 y 330 m2 respectivamente, rol Nº636-16, comuna de Victoria para la obra "Construcción Puente Quino, camino Victoria - Púa (Longitudinal Antiguo), Ruta R 815, Tramo Km. 9,02000 al Km. 9,35000", Provincia de Malleco, Comuna de Victoria, IX Región y se acordó el valor de la indemnización con su propietario PABLO EDUARDO REBOLLEDO NEIRA Y OTRAS, ascendente a la cantidad de $680.686.-
+
+Fiscal del Ministerio de Obras Públicas.
