@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº934 de 31 de mayo de 2011, se expropiaron los lotes de terrenos Nºs. 1 y 2, superficies 124 y 693 m2, rol de Avalúo 2218-54, comuna de San Juan de la Costa, para la obra "CONSERVACIÓN PERIÓDICA PUENTE EL SALTO, CAMINO CONTACO - LOMA DE LA PIEDRA - EL BOLSÓN", PROVINCIA DE OSORNO, X REGIÓN y se acordó el valor de la indemnización con su propietaria FORESTAL ANCHILE LTDA., ascendente a la cantidad de $2.414.824 .-
+
+Fiscal del Ministerio de Obras Públicas.
