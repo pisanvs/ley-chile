@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº969, de 31 de mayo de 2011, se expropió el lote de terreno Nº15, superficie 96 m2., Rol Nº906-31, comuna de Alto del Carmen, III Región, " MEJORAMIENTO RUTA C-495, EL TRANSITO - JUNTA DE VALERIANO, ETAPA II (CONAY - MALAGUÍN" , y se acordó el valor de indemnización con su propietaria doña CEFERINA DEL TRANSITO SIERRA HUANCHICAY, ascendente a la cantidad de $1.960.193.-
+
+Fiscal del Ministerio de Obras Públicas.
