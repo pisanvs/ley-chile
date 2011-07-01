@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº1.291, de 13 de junio de 2011, se dejó sin efecto la expropiación de los lotes de terreno Nos 1, 3, 2, 4, 6 y 5, ordenados mediante Decretos MOP. (Exentos) Nº2.406, 2.407, 2.408, 2.409, 2.438, de 29 de octubre de 2010, y Nº2.662,. de 11 de noviembre de 2010, para la obra "Construcción Camino Apertura a Puertecillo", Tramo km. 0,00000 a km. 4,76160", Comuna de Navidad. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2.186, de 1978.-
+
+Fiscal del Ministerio de Obras Públicas.
