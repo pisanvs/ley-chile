@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº956, de 31 de mayo de 2011, se expropió el lote de terreno Nº19-A2, superficie 2.177,00 m2., Rol Nº138-34, comuna de Chonchi, X Región, "CAMINO RUTA 5, SECTOR CHONCHI - TARA, KM. 1.205,160 A KM. 1.215,004", PROVINCIA DE CHILOÉ, y se acordó el valor de indemnización con su propietario GASTÓN PATRICIO GUARDA ANDRADE, ascendente a la cantidad de $1.653.838.-
+
+Fiscal del Ministerio de Obras Públicas.
