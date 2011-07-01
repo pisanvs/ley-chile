@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº970 de fecha 31 de mayo de 2011, se expropiaron los lotes de terreno Nºs 31-B y 31-B1, superficies 527 y 45 m2 respectivamente, rol Nº497-31, comuna de San Javier para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Comunas San Javier y Cauquenes, Provincias Linares y Cauquenes, Región del Maule y se acordó el valor de la indemnización con su propietario ADELIA DE LAS MERCEDES ARRIAGADA CEPEDA, ascendente a la cantidad de $1.593.227.-
+
+Fiscal del Ministerio de Obras Públicas.
