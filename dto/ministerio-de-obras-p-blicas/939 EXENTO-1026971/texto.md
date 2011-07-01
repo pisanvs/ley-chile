@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº939, de 31 de mayo de 2011, se expropió el lote de terreno Nº3, superficie 2.800 m2., Rol Nº883-38, comuna de Alto del Carmen, III Región, "MEJORAMIENTO RUTA C-495, SECTOR ALTO DEL CARMEN - EL TRANSITO (VARIANTE LOS PERALES), KM. 19,90000 AL KM. 23,77240, PROVINCIA DE HUASCO, REGION DE ATACAMA" , y se acordó el valor de indemnización con su propietario don JOSÉ FAUSTINO O FAUTINO SEGOVIA, ascendente a la cantidad de $2.042.880.-
+
+Fiscal del Ministerio de Obras Públicas.
