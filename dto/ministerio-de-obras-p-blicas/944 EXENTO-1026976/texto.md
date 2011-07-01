@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº944, de 31 de mayo de 2011, se expropió el lote de terreno Nº2-T, superficie 273,37 m2, Rol de avalúo 429-65, comuna de Ancud, para la obra "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO - BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, X REGIÓN DE LOS LAGOS, y se acordó el valor de la indemnización con su propietaria NELLY SILVIA HERNÁNDEZ BARRÍA ascendente a la cantidad de $26.320.773.-
+
+Fiscal del Ministerio de Obras Públicas.
