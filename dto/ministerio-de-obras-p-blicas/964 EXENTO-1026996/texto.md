@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº964 de fecha 31 de mayo de 2011, se expropió el lote de terreno Nº17-A, superficie 327 m2, rol Nº1272-2, comuna de Coronel para la obra "Camino Ruta O-852, Sector Coronel - Patagual, Tramo Km. 0,00000 a Km. 17,91963", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario EULALIA MAGALY SÁNCHEZ FLORES Y OTROS., ascendente a la cantidad de $461.546.-
+
+Fiscal del Ministerio de Obras Públicas.
