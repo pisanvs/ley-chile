@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº957, de 31 de mayo de 2011, se expropió el lote de terreno Nº2-A, superficie 322 m2, Rol de avalúo 1.531-416, comuna de Los Ángeles, para la obra "REPARACIÓN INFRAESTRUCTURA VIAL VARIAS RUTAS Y PUENTES, PROVINCIA DE BÍO BÍO, SECTOR PUENTE DIUTO", y se acordó el valor de la indemnización con su propietario don LUCIANO EDISON NAVARRETE REYES ascendente a la cantidad de $498.833.-
+
+Fiscal del Ministerio de Obras Públicas.
