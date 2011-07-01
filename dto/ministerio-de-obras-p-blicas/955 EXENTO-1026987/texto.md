@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº955 de fecha 31 de mayo de 2011, se expropiaron los lotes de terreno Nºs 3 y 3-A, superficies 827 y 112 m2 respectivamente, rol Nº2218-488, comuna de San Juan de La Costa para la obra "Conservación Periódica Puente El Salto, Camino Contaco - Loma de La Piedra - El Bolsón", Provincia Osorno" y se acordó el valor de la indemnización con su propietario JAIME ANTONIO RAMÍREZ ARAVENA, ascendente a la cantidad de $1.499.589.-
+
+Fiscal del Ministerio de Obras Públicas.
