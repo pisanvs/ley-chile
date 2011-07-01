@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº933, de 31 de mayo de 2011, se expropiaron los lotes de terrenos Nos 3, 4 y 5, superficies 260, 698, 66 m2, Rol de avalúo 162-123, comuna de Curarrehue, para la obra "PROYECTO PUENTE QUIÑENAHUÍN, CAMINO CURARREHUE - QUIÑENAHUÍN, TRAMO KM. 0,00000 A KM. 0,26865 Y KM. 0,00000 A KM. 0,34413", PROVINCIA DE CAUTÍN. COMUNA DE CURARREHUE, REGIÓN DE LA ARAUCANÍA, y se acordó el valor de la indemnización con su propietario don ZENÉN ARTURO NECULPAN LLANCAFILO ascendente a la cantidad de $5.411.742.-
+
+Fiscal del Ministerio de Obras Públicas.
