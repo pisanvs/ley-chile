@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº950, de 31 de mayo de 2011, se expropió el lote de terreno Nº12-A, superficie 690 m2., Rol de avalúo 2526-2, comuna de Monte Patria, IV Región, "REPOSICIÓN RUTA D-55, COMBARBALÁ - MONTE PATRIA - OVALLE", y se acordó el valor de indemnización con su propietaria doña CARMELA EDITH ALFARO PLAZA., ascendente a la cantidad de $34.819.681.-
+
+Fiscal del Ministerio de Obras Públicas.
