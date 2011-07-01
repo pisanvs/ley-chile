@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº960, de 31 de marzo de 2011, se expropió el lote de terreno Nº3, superficie 254 m2, Rol de avalúo 320-377, comuna de Cunco, para la obra "MEJORAMIENTO RUTA INTERLAGOS, SECTOR CUNCO COLICO, TRAMO KM. 5,26000 A KM. 15,00000", COMUNA DE CUNCO, PROVINCIA DE CAUTÍN, IX REGIÓN, y se acordó el valor de la indemnización con su propietaria doña ENRIQUETA EVANGELINA MORALES VELOSO ascendente a la cantidad de $534.678.-
+
+Fiscal del Ministerio de Obras Públicas.
