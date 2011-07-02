@@ -18,7 +18,7 @@ Apruébanse los proyectos de la Región de la Araucanía, que se identifican a c
 
 2. En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en área urbana de localidades de hasta 2.000 habitantes según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución Nº 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidad de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, incremento total equivalente a 6 Unidades de Fomento y a 1.5 Unidades de Fomento, respectivamente.
 
-3. Los subsidios asignados en el resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 1.364,5 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región de la Araucanía, para el año 2011.
+3. Los subsidios asignados en el resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 1.404,5 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región de la Araucanía, para el año 2011.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
