@@ -40,11 +40,15 @@ De la Planificación Territorial
 
 #### Artículo 4º
 
-Para efectos de la confección y modificación del Plan Maestro, las áreas marítimas y terrestres se clasificarán de acuerdo a los siguientes usos: Areas de transferencia: las que comprenden aquellas destinadas a la atención de las naves, sus pasajeros, carga o tripulantes, sus áreas de respaldo y de almacenamiento según establece el inciso tercero del artículo 23 de la ley Nº 19.542.
+Para efectos de la confección y modificación del Plan Maestro, las áreas marítimas y terrestres se clasificarán de acuerdo a los siguientes usos:
+
+Areas de transferencia: las que comprenden aquellas destinadas a la atención de las naves, sus pasajeros, carga o tripulantes, sus áreas de respaldo y de almacenamiento según establece el inciso tercero del artículo 13 de la ley Nº 19.542.
 
 Areas conexas: las que comprenden los espacios marítimos y terrestres, no considerados en las áreas de transferencia, destinadas a la prestación de servicios a las naves, cargas, pasajeros o tripulantes y al desempeño de las funciones propias de los servicios públicos competentes en materia portuaria.
 
-Areas de uso común: las que comprenden los espacios destinados a usos que sirven indistinta o simultáneamente a dos o más áreas de los recintos portuarios, y que, por lo tanto, deben ser administrados como bienes comunes. Tales son por ejemplo: las vías de circulación, los caminos de acceso, las puertas de entrada, las áreas de almacenamiento compartido u otros. Estas áreas deberán permitir el funcionamiento eficiente del puerto en su conjunto. Areas para otros usos: las que comprenden los espacios marítimos y terrestres destinados a la realización de las actividades a que se refiere el inciso segundo del artículo 13 de la ley Nº 19.542, así como también aquellas actividades no consideradas en las demás clasificaciones de áreas del presente artículo.
+Areas de uso común: las que comprenden los espacios destinados a usos que sirven indistinta o simultáneamente a dos o más áreas de los recintos portuarios, y que, por lo tanto, deben ser administrados como bienes comunes. Tales son por ejemplo: las vías de circulación, los caminos de acceso, las puertas de entrada, las áreas de almacenamiento compartido u otros. Estas áreas deberán permitir el funcionamiento eficiente del puerto en su conjunto.
+
+Areas para otros usos: las que comprenden los espacios marítimos y terrestres destinados a la realización de las actividades a que se refiere el inciso segundo del artículo 13 de la ley Nº 19.542, así como también aquellas actividades no consideradas en las demás clasificaciones de áreas del presente artículo.
 
 Areas prescindibles: aquellas cuya destinación puede ser modificada, declarándose no necesarias para la operación portuaria, en la forma y condiciones que establece el artículo 11 de la ley Nº 19.542.
 
@@ -184,7 +188,7 @@ De la Aprobación de los Planes Maestros
 
 #### Artículo 14
 
-Cada Plan Maestro deberá ser aprobado en sesión de directorio de la empresa, cuya acta deberá ser reducida a escritura pública. Dentro de los 15 días corridos siguientes a la adopción del acuerdo, el directorio deberá hacer pública su aprobación mediante la publicación de un aviso en un diario de circulación nacional.
+El directorio deberá remitir al Ministerio de Transportes y Telecomunicaciones, en adelante el Ministerio, su propuesta de Plan Maestro, a fin que éste emita su opinión sobre dicha propuesta. El Ministerio dispondrá de un plazo no superior a 120 días para emitir su opinión, contados desde la fecha de recepción de la propuesta de Plan Maestro. Con la opinión del Ministerio a la vista o vencido el plazo para ello, cada empresa remitirá su Plan Maestro para ser aprobado o rechazado en sesión de directorio, cuya acta deberá ser reducida a escritura pública, debiendo quedar constancia en ella de la opinión del Ministerio. Dentro de los 15 días corridos siguientes a la adopción del acuerdo, el directorio deberá hacer pública su aprobación mediante la publicación de un aviso en un diario de circulación nacional.
 
 El Plan Maestro producirá sus efectos legales desde la fecha de la publicación a que se refiere el inciso anterior. La empresa deberá mantener a disposición de cualquier persona que lo solicite y para su consulta, una copia fiel del Plan Maestro vigente en las dependencias de su administración. En la publicación antes referida, deberá indicarse el lugar en que dicho Plan se encontrará a disposición de los interesados.
 
@@ -216,7 +220,7 @@ Corresponderá al directorio establecer la metodología que regirá la identific
 
 #### Artículo 17
 
-El directorio deberá pronunciarse sobre la solicitud dentro de los 90 días siguientes a la presentación, con el voto favorable de la mayoría absoluta de sus miembros en ejercicio. Transcurrido el plazo de 90 días sin que el directorio se pronuncie, se entenderá aprobada la modificación requerida.
+El Directorio deberá remitir al Ministerio de Transportes y Telecomunicaciones las solicitudes de modificación, a fin de que emita su opinión. El Ministerio de Transportes y Telecomunicaciones dispondrá de un plazo fatal de 10 días hábiles para remitir su opinión. Con la opinión del Ministerio a la vista o vencido el plazo para ello, el directorio deberá acoger o rechazar, en forma fundada, la solicitud, en el plazo máximo de noventa días contados desde su presentación, y con el voto favorable de la mayoría absoluta de sus miembros en ejercicio
 
 Las solicitudes de modificación que se presenten sin cumplir todos los requisitos señalados en el artículo precedente serán rechazadas de plano.
 
