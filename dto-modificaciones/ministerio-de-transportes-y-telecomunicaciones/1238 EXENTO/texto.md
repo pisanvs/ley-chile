@@ -46,9 +46,9 @@ Estudio Alternativo y Planta Transmisora.
 
 - Dirección : Cerro Orocoipo s/n, Requínoa, VI Región.
 
-- Coordenadas Geográficas: 34° 13' 20" Latitud Sur;
+- Coordenadas geográficas: 34°13'07,3" Latitud Sur; 70°43'45,5"
 
-70° 43' 19" Longitud Oeste.
+Longitud Oeste. Datum PSAD 56.
 
 Sistema Radiante:
 
