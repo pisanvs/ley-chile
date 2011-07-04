@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.504 de 6 de junio de 2011 de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 218 de 2011, de esta Subsecretaría, que autorizó a la UNIVERSIDAD ARTURO PRAT, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución espacio temporal y estructura de tamaños de las capturas de Jurel, Regiones de Arica y Parinacota; Tarapacá y Antofagasta, año 2011", en el sentido de incorporar en el área de operación la tabla de distribución geográfica indicada en la resolución extractada.
+
+Valparaíso, 6 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
