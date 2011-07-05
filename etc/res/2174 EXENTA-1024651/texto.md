@@ -16,7 +16,7 @@ Resolución:
 
 1. Apruébase el proyecto que se identifica a continuación, el cual cuenta con Calificación Definitiva, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, para el concurso establecido mediante resolución exenta Nº 699 (V. y U.), de 2011:
 
-2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 99.412 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
+2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 96.248 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
