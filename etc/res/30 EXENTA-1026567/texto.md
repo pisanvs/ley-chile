@@ -1,6 +1,6 @@
 INCORPORA A PERSONAS QUE INDICA COMO INTEGRANTES DEL CONSEJO TÉCNICO DE INVERSIONES
 
-Núm. 918 exenta.- Santiago, 13 de mayo de 2011.- Vistos:
+Núm. 30 exenta.- Santiago, 13 de junio de 2011.- Vistos:
 
 - **a)** Las facultades que la ley confiere a esta Superintendencia, contenidas en el artículo 94 del DL Nº 3.500, de 1980; en el artículo 47 de la ley Nº 20.255; y en el artículo 3º del DFL Nº 101, de 1980 (Trabajo y Previsión Social);
 
