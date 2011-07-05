@@ -66,9 +66,7 @@ i. No se encontrarán impedidos de postular al presente llamado especial, los po
 
 j. Los postulantes deberán al momento de la postulación identificar la región del país en la cual posteriormente aplicarán su subsidio, la que podrá ser distinta de la región donde resultaron damnificados o en la cual están postulando.
 
-k. El subsidio que se otorgue a las familias seleccionadas del presente llamado, será destinado a financiar la adquisición de una vivienda nueva, existente o una que forme parte de un proyecto de construcción correspondiente al llamado a concurso efectuado mediante resolución exenta N°699, (V. y U.), de 2011. En este último caso, el proyecto de construcción puede estar en preparación sin ser calificado aún, pudiendo el beneficiario inscribirse para integrar dicho proyecto sin necesidad de que sea evaluada su factibilidad y condición. También, es posible que el beneficiario de este llamado especial, se adscriba a un proyecto de construcción seleccionado mediante las resoluciones exentas Nº 2.965 (V. y U.), de 2010 y Nº 697 (V. y U.), de 2011, toda vez que algún beneficiario de ese proyecto renuncie o sea excluido del proyecto habitacional, según lo establecido en el inciso 1º del artículo 50, del DS Nº 174 (V. y U.), de 2005. En este último caso, el proyecto de construcción puede estar en preparación sin ser calificado aún, pudiendo el beneficiario inscribirse para integrar dicho proyecto sin necesidad que sea evaluada su factibilidad y condición, o puede tratarse de un proyecto de construcción calificado, según se establece en el número 5. de la mencionada resolución, pudiendo en ese caso el postulante inscribirse para integrar dicho proyecto, sólo si éste cuenta con viviendas disponibles.
-
-Asimismo, puede tratarse de un proyecto de construcción en preparación o seleccionado, según se establece en el número 5 de la resolución exenta Nº 697 (V. y U.), de 2011, pudiendo en este último caso el postulante inscribirse para integrar dicho proyecto, sólo si éste cuenta con viviendas disponibles. En el caso que este tipo de proyectos se encuentre seleccionado, los beneficiarios de este llamado especial, también podrán adscribirse, toda vez que un beneficiario de ese proyecto renuncie o sea excluido del proyecto habitacional, según lo establecido en el inciso 1º del artículo 50, del DS Nº 174 (V. y U.), de 2005.
+k. El subsidio que se otorgue a las familias seleccionadas del presente llamado, será destinado a financiar la adquisición de una vivienda nueva, existente o una que forme parte de un proyecto de construcción correspondiente al llamado a concurso efectuado mediante resolución exenta N°699, (V. y U.), de 2011. En este último caso, el proyecto de construcción puede estar en preparación sin ser calificado aún, pudiendo el beneficiario inscribirse para integrar dicho proyecto sin necesidad que sea evaluada su factibilidad y condición, o puede tratarse de un proyecto de construcción calificado, según se establece en el número 5. de la mencionada resolución, pudiendo en ese caso el postulante inscribirse para integrar dicho proyecto, sólo si éste cuenta con viviendas disponibles.
 
 En los casos que el beneficiario se adscriba a un proyecto de construcción, los montos del subsidio se ajustarán a los montos establecidos para esta modalidad y corresponderán a los montos postulados por dicho proyecto para cada una de las familias postulantes.
 
@@ -77,28 +75,6 @@ En los casos que el beneficiario se adscriba a un proyecto de construcción, los
 El número de postulantes seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior.
 
 6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
-
-7. Las operaciones de Adquisición de Vivienda Construida, cuya vivienda cuente con una superficie mínima de 42 m2, podrán optar a un Subsidio Diferenciado a la Localización de 100 Unidades de Fomento, no siendo necesaria la aplicación de lo dispuesto en el inciso segundo, del artículo 65 bis, del decreto supremo Nº 174, (V. y U ) de 2005.
-
-8. La tasación comercial respectiva podrá efectuarse por un profesional competente la cual deberá tener en consideración los siguientes aspectos:
-
-. Lugar de ubicación.
-
-. Análisis urbano.
-
-. Análisis arquitectónico.
-
-. Antecedentes legales.
-
-. Análisis constructivo.
-
-. Elementos de conflicto ambiental.
-
-. Condiciones de mercado vigente.
-
-9. Las condiciones dispuestas en la presente resolución podrán ser aplicables a las operaciones seleccionadas mediante el llamado efectuado por la resolución exenta Nº 2.966 (V. y U.), de 2010, siempre que éstas sean más favorables a los beneficiarios, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
-
-10. En el caso que familias con beneficio otorgado renuncien al mismo, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la adquisición de vivienda construida, del Programa Fondo Solidario de Vivienda.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
