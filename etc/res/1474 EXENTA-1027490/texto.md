@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.474, de 2 de junio de 2011, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta Nº 976 de 2011, de esta Subsecretaría, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto 2010-04 denominado "Evaluación hidroacústica de reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2011" Fase II, en el sentido de extender el período de operación de las embarcaciones artesanales en el área marítima de la XIV Región hasta el 15 de junio de 2011, inclusive.
+
+Valparaíso, 2 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
