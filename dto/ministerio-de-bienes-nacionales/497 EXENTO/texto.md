@@ -1,0 +1,53 @@
+OTORGA CONCESIÓN ONEROSA DE INMUEBLE FISCAL EN LA REGIÓN DEL BIOBÍO A SOCIEDAD "FOOD COURT S.A." Y OTRA
+
+Mediante decreto exento Nº 497, de 18 de mayo de 2011, el Ministerio de Bienes Nacionales otorgó concesión onerosa directa del inmueble singularizado como lote A, ubicado en calle Aníbal Pinto Nº 445, al que actualmente le corresponde el Nº 745, por Avenida Bernardo O'Higgins, comuna y provincia de Concepción, Región del Biobío, enrolado en el Servicio de Impuestos Internos bajo el Nº 177-9001, e inscrito a nombre del Fisco a fs. 5.754 Nº 5.036, del Registro de Propiedad del Conservador de Bienes Raíces de Concepción, correspondiente al año 2007; de una superficie de 5.891,06 m2; singularizado en el plano de Fusión Nº VIII-2-13.395 C.U.; agregado al final del Registro de Propiedad del año 2007 con el Nº 620, del Conservador de Bienes Raíces antes señalado.
+
+Los beneficiarios son: 1) la Sociedad "Food Court S.A.", RUT Nº 73.316.090-4, entidad que financia el proyecto, a la cual se le otorgó parte del inmueble individualizado, consistente en un área construida de 1.033,20 m² de superficie; un área que corresponde a patios de 639,50 m² de superficie; un área que corresponde a patios de 248,53 m² de superficie; un área que corresponde a espacios comunes de 728,70 m² de superficie, todas ubicadas en el primer piso, y un área construida de 1.429,39 m² de superficie, ubicada en el segundo piso. Se excluyen de la superficie que resulte del anteproyecto antes referido un área correspondiente a 1.500 m² aproximados, los que serán destinados a oficinas de la Secretaría Regional Ministerial de Bienes Nacionales de la Región del Biobío, y 2) la sociedad "Centro Comercial Galería Alessandri S.A.", RUT 76.397.000-0, conformada por los locatarios arrendatarios del Fisco de la Galería Alessandri, parte del inmueble singularizado en el número uno precedente, consistente en un área de 632,50 m² de superficie, ubicada en el primer piso, que corresponde a la superficie ocupada por los locales comerciales y el área de espacios comunes de una superficie de 446,70 m².
+
+La concesión se otorga a ambas sociedades por un plazo de 40 años, contado desde la fecha de la entrada en vigencia del contrato de concesión, el que empezará a regir a contar de la fecha de la obtención de los permisos requeridos por la sociedad Food Court S.A. para el inicio de la construcción del proyecto definitivo aprobado por la Dirección de Obras Municipales competente, el que deberá obtenerse dentro de un plazo de 10 meses contado desde la fecha de la suscripción de la escritura pública de concesión.
+
+La sociedad "Food Court S.A." pagará una renta anual, equivalente en moneda nacional, a la cantidad de UF 5.400,50, y la sociedad "Centro Comercial Galería Alessandri S.A." la cantidad de UF 2.430,43, ambas al valor vigente que ésta tenga a la fecha de su pago efectivo, que se devengará por cada año contractual. La sociedad "Food Court S.A." pagará, durante los primeros quince años del plazo de la concesión, la renta concesional y gastos comunes correspondientes a la sociedad "Centro Comercial Galería Alessandri S.A.", la que será solidariamente responsable de su pago al Fisco. La sociedad "Centro Comercial Galería Alessandri S.A." pagará la renta concesional y gastos comunes correspondientes a partir del año 16 del plazo de la concesión. El pago de la renta concesional deberá efectuarse a partir del segundo año de entrada en vigencia de las concesiones, debiendo pagarse dentro de los primeros diez días del mes correspondiente a cada año contractual. El pago de la renta correspondiente al primer año contractual será prorrateada en los restantes 39 años.
+
+La sociedad "Food Court S.A." se obliga a:
+
+a) Ejecutar y financiar el proyecto de remodelación y construcción "Galerías Alessandri", de acuerdo a los plazos señalados en el correspondiente cronograma, Carta Gantt y según anteproyecto de edificación aprobado por la Dirección de Obras Municipales de la Ilustre Municipalidad de Concepción, de conformidad a certificado Nº 667-0-17, de fecha 2 de julio de 2009.
+
+Las remodelaciones y construcciones que contempla el proyecto en términos generales son:
+
+La remodelación del primer piso de la Galería Alessandri, que incluye nuevos locales comerciales, espacios comunes y zonas de acceso a torres de oficinas;
+
+La construcción de un subterráneo de uso exclusivo de la concesionaria;
+
+La remodelación de espacios del entrepiso (2º nivel) del edificio actual, junto con la construcción de nuevas superficies que darán lugar a un patio de comida y servicios básicos;
+
+La construcción de dos torres de 8 pisos cada una, que darán lugar a espacios utilizables por dicha concesionaria.
+
+b) A entregar a la Secretaría Regional Ministerial de Bienes Nacionales de la Región del Biobío un área correspondiente a 1.500,00 m² aproximados, la cual se excluye de la concesión otorgada a la sociedad "Food Court S.A.".
+
+c) A dar cumplimiento a los acuerdos adoptados en Convenio de Asociación Estratégica para la Remodelación de la Galería Alessandri de Concepción, de fecha 14 de septiembre de 2004, modificado con fecha 9 de marzo de 2006, firmado por los representantes de la sociedad "Food Court Concepción Limitada", que por escritura de fecha 15 de diciembre de 2010 le cede sus derechos y obligaciones a la sociedad "Food Court S.A.", y los representantes de la sociedad "Centro Comercial Galería Alessandri S.A.", conjuntamente con el representante del Ministerio de Bienes Nacionales, como Ministro de fe.
+
+El proyecto y carta Gantt, así como los documentos señalados, se protocolizarán conjuntamente con la escritura pública de concesión.
+
+d) A contratar y pagar el arriendo de oficinas para el funcionamiento de la Secretaría Regional Ministerial de Bienes Nacionales de la Región del Biobío, por el período que dure la construcción, habilitación y entrega de las oficinas ubicadas en el edificio remodelado, las que deberán ubicarse dentro del área central de la ciudad de Concepción, entendiéndose como tal el polígono delimitado por el Nor-poniente Avenida Los Carrera, por el Nor-oriente Avenida Paicaví, por el Sur-oriente calle Veteranos del 79 (Parque Ecuador) y por el Sur-poniente Avenida Prat, de fácil acceso público, de una superficie de aproximadamente 1.500 m², las que, en todo caso, deberán ser aprobadas por la Secretaría Regional Ministerial señalada.
+
+e) Ingresar en la Secretaría Regional Ministerial de Bienes Nacionales de la Región del Biobío, a la fecha de la obtención del permiso de edificación y contra entrega del inmueble concesionado para el inicio de la construcción del proyecto definitivo, una Boleta Bancaria de garantía de seriedad de fiel cumplimiento a la ejecución del proyecto de remodelación y construcción de edificación inmobiliaria presentada, a nombre del Ministerio de Bienes Nacionales.
+
+Dicha boleta deberá tener una vigencia no inferior a 15 meses, y tendrá que ser emitida por un monto equivalente al 10% del total de la inversión involucrada, según presupuesto de construcción aprobado por la Dirección de Obras Municipales competente, en el respectivo permiso de edificación, el cual se deberá obtener en un plazo de 10 meses contado desde la fecha de la suscripción de la escritura pública de concesión.
+
+La sociedad antes señalada podrá solicitar a la Secretaría Regional Ministerial de Bienes Nacionales de la Región del Biobío, la rebaja del monto de dicha garantía en proporción al avance de la construcción del proyecto. La solicitud deberá efectuarse con la debida antelación, a fin de que la Secretaría Regional correspondiente proceda a verificar que el porcentaje de avance constructivo tenga relación con el porcentaje de rebaja requerido para la Boleta de Garantía asociada y de esa manera autorizar su reemplazo. La sociedad "Centro Comercial Galería Alessandri S.A." se obliga a:
+
+a) Participar activamente en las gestiones necesarias para materializar el proyecto de remodelación y construcción inmobiliaria que ejecutará y financiará la sociedad "Food Court S.A.", el cual comprende la remodelación de los locales comerciales en el área objeto de su concesión para su administración y mantención. Asimismo, se obliga a dar cumplimiento a los acuerdos adoptados en Convenio de Asociación Estratégica para la Remodelación de la Galería Alessandri de Concepción, de fecha 14 de septiembre de 2004, modificado con fecha 9 de marzo de 2006, firmado por los representantes de dicha sociedad y los representantes de la sociedad "Food Court Concepción Limitada", quien, por escritura de fecha 15 de diciembre de 2010, cede sus derechos y obligaciones a la sociedad "Food Court S.A.", conjuntamente con el representante del Ministerio de Bienes Nacionales como Ministro de fe. Dichos documentos se protocolizarán conjuntamente con la escritura pública de concesión.
+
+b) Entregar en el plazo que fije el Ministerio de Bienes Nacionales, a partir del inicio de la vigencia del contrato concesional, los locales que actualmente ocupan y arriendan, a objeto de permitir el inicio de las obras de edificación proyectadas. Al momento de la entrega de los locales deberán acreditar encontrarse al día en el pago del arriendo, gastos comunes, contribuciones y servicios de agua y luz.
+
+Ambas sociedades se obligan a pagar las contribuciones correspondientes a los espacios concesionados durante todo el período que dure la vigencia de la concesión.
+
+Se hace presente que la sociedad "Food Court S.A." y la empresa constructora que ejecute el proyecto no tienen la calidad de mandatarios del Fisco ni del Ministerio de Bienes Nacionales, por lo cual no le cabe a estos últimos responsabilidad de ninguna naturaleza.
+
+El respectivo contrato de concesión será redactado por un abogado de la Secretaría Regional Ministerial de Bienes Nacionales respectiva y deberán suscribirse por el Secretario Regional de la misma secretaría, en representación del Fisco, con el o los representantes legales de las sociedades antes individualizadas, dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del presente decreto de concesión, según lo dispuesto en el inciso 3 del artículo 59 del DL 1.939, de 1977 y sus modificaciones.
+
+El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Juan Carlos Bulnes Concha, Subsecretario de Bienes Nacionales.
