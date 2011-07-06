@@ -592,9 +592,13 @@ Del Fondo de Desarrollo de las Telecomunicaciones
 
 #### Artículo 28
 
-A.- Créase el Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante "el Fondo", por un período de diez años, contado desde la entrada en vigencia de esta ley, con objeto de promover el aumento de la cobertura de los servicios de telecomunicaciones en áreas rurales y urbanas de bajos ingresos, especialmente respecto de localidades ubicadas en zonas geográficas extremas o aisladas.
+A.- Créase el Fondo de Desarrollo de las Telecomunicaciones, dependiente del Ministerio de Transportes y Telecomunicaciones, en adelante "el Fondo", con el objeto de promover el aumento de la cobertura de los servicios de telecomunicaciones preferentemente en áreas rurales, y urbanas de bajos ingresos.
 
-El Fondo estará constituido por los aportes que se le asignen anualmente en la ley de Presupuestos del Sector Público, sin perjuicio de que pueda recibir otros aportes.
+El Fondo estará constituido por los aportes que se le asignen anualmente en la Ley de Presupuestos del Sector Público, sin perjuicio de que pueda recibir otros aportes.
+
+#### Artículo 28
+
+A bis.- Se deberá entregar en forma semestral la información del uso de estos recursos, de manera detallada, a la Comisión de Obras Públicas, Transportes y Telecomunicaciones de la Cámara de Diputados.
 
 #### Artículo 28
 
