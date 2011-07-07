@@ -106,6 +106,14 @@ Para aquellos casos en que, con anterioridad al sismo y posterior tsunami del 27
 
 f) Una vez dictada la Resolución de Ratificación de Subsidio, la Asesoría Técnica y Jurídica y el postulante respectivo deberán firmar el contrato de construcción con la empresa seleccionada. Junto con ello, la empresa escogida deberá entregar una boleta bancaria de garantía extendida a favor del SERVIU en los términos en que establece los incisos cuarto y siguientes del artículo 25 del D.S. N° 174 (V. y U.), de 2005.
 
+Las empresas constructoras sólo podrán suscribir contratos de construcción simultáneamente por la cantidad de viviendas que se señalan a continuación, en función de la categoría en que se encuentren inscritas en los registros regulados por el DS Nº 127 (V. y U.), de 1977, que aprueba Reglamento el Registro Nacional de Contratistas del Ministerio de Vivienda y Urbanismo y el DS Nº 63 (V. y U.), de 1997, que aprueba Reglamento del Registro Nacional de Constructores de Viviendas Sociales, Modalidad Privada.
+
+En caso que una constructora se encuentre inscrita en ambos registros, se aplicará la capacidad de contratación mayor que le sea permitida según la tabla anterior.
+
+A medida que las empresas constructoras ejecuten viviendas y éstas sean recepcionadas a conformidad por el Serviu, podrán suscribir nuevos contratos, sin superar la capacidad máxima correspondiente, pudiendo en cualquier caso aumentar esta capacidad ascendiendo de categoría en los registros correspondientes.
+
+Las empresas que a la fecha de la publicación en el Diario Oficial de la presente Resolución se encuentren ejecutando viviendas contratadas por una cantidad superior a la correspondiente a su categoría, podrán continuar con dichas obras, sin perjuicio de no poder suscribir nuevos contratos hasta ajustarse a la capacidad máxima de acuerdo al procedimiento señalado en el inciso anterior.
+
 g) Se podrá otorgar un primer anticipo, sin necesidad de contar con avance de obra, a cuenta del pago de la construcción de la vivienda, hasta por un 20% del monto de subsidio, sólo contra boleta bancaria de garantía por el mismo valor, extendida en los mismos términos establecidos en el artículo 54 del D.S. N° 174 (V. y U.), de 2005, sin necesidad de cumplir con los demás requisitos establecidos para el pago de anticipos que señala dicho artículo.
 
 Además, se podrá pagar hasta tres anticipos más cuando se cumpla con el 30%, 60% y 90% de avance físico de las obras correspondientes, acreditado con un informe del Inspector Técnico de Obras. El monto de los anticipos será el equivalente al porcentaje de avance de obra antes señalado. La boleta de garantía entregada para caucionar el primer anticipo, si utilizó el anticipo señalado anteriormente, podrá ser devuelta una vez que se ha acreditado el avance de obras por el 30%, y en este caso el giro por el anticipo correspondiente a dicho porcentaje de avance de obra, sólo podrá realizarse por un 10%.
