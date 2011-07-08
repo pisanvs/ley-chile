@@ -830,9 +830,11 @@ Podrá ser reemplazada la recta del ochavo por una curva, siempre y cuando sus c
 
 #### Artículo 31
 
-Son antejardines las áreas destinadas a ornamentación natural, ubicadas entre la línea oficial y la línea de edificación; serán los establecidos para cada zona en el Artículo 42 de la presente Ordenanza y su profundidad no podrá ser inferior a 2,00 m en predios con frente a vías no estructurantes; 3,00 m frente a vías estructurantes. No obstante lo anterior, los predios que enfrenten vías definidas como Caminos Nacionales Públicos, deberán tener antejardines de profundidad mínima de 10,00 m.
+Son antejardines las áreas destinadas a ornamentación natural, ubicadas entre la línea oficial y la línea de edificación; serán los establecidos para cada zona en el Artículo 42 de la presente Ordenanza y su profundidad no podrá ser inferior a 2,00 m en predios con frente a vías no estructurantes; 3,00 m frente a vías estructurantes. No obstante lo anterior, los predios que enfrenten vías definidas como Caminos Nacionales Públicos, deberán tener antejardines de profundidad mínima de 10,00 m, con excepción de avenida La Marina, y los predios que enfrentan dichos caminos en las zonas residenciales ZH-10 y ZH-11.
 
-No se permitirá el antejardín en aquellos sectores consolidados, cuando el 50% o más de la longitud del mismo costado de la cuadra, no disponga de ellos. La profundidad en los antejardines en los conjuntos ya recibidos, será la definida en el proyecto de loteo respectivo.
+El antejardín de la calle Argentina entre Pomeri y Almte. Latorre en su acera nor-oriente será de 15,00 metros medido desde la línea oficial del frente.
+
+No se permitirá el antejardín en aquellos sectores consolidados, cuando el 50% o más de la longitud del mismo costado de la cuadra, no disponga de ellos. La profundidad en los antejardines en los conjuntos ya recibidos, será la definida en el proyecto de loteo respectivo, y/o el antejardín sea irregular o no tenga una profundidad mayor a 2,00 m.
 
 En antejardines se prohibe la construcción de estacionamientos de visitas.
 
@@ -876,7 +878,7 @@ No serán exigibles las normas establecidas en las tablas anteriores para los si
 
 . Cuando el cambio de destino de todo o parte de un edificio haga exigible un número de estacionamientos inferior a 10.
 
-. En proyectos relacionados con Monumentos Nacionales, zonas típicas, inmuebles o zonas de conservación histórica, o que se emplacen al costado de vías de más de 100 años de antigüedad o de paseos peatonales; el Director de Obras Municipales podrá, previa solicitud fundada por parte del interesado, autorizar excepciones a las disposiciones de este Capítulo.
+. En proyectos relacionados con Monumentos Nacionales, zonas típicas, inmuebles o zonas de conservación histórica, o de paseos peatonales; el Director de Obras Municipales podrá, previa solicitud fundada por parte del interesado, autorizar excepciones a las disposiciones de este Capítulo.
 
 Para el diseño de los estacionamientos para automóviles se regirá por lo exigido en la Ordenanza General de Urbanismo y Construcciones, en la cual se establece lo siguiente:
 
@@ -1338,7 +1340,7 @@ ZONA CALETA TUMBES, ZCA- 1: (Caleta Tumbes)
 
 NOTA: VER D.O. 31.01.2006, PAGINA 24
 
-ZONA CALETA EL MORRO, ZCA- 2: (Caleta El Morro)
+Zona Caleta, ZCA-2: (Caleta El Morro - Rocuant)
 
 7
 
@@ -1424,7 +1426,7 @@ ZONA INDUSTRIAL, ZI-5: (Huertos Obreros)
 
 NOTA: VER D.O. 31.01.2006, PAGINA 29
 
-ZONA INDUSTRIAL, ZI-6: (El Morro)
+ZONA INDUSTRIAL, ZI-6: (El Morro - San Vicente)
 
 NOTA: VER D.O. 31.01.2006, PAGINA 30
 
@@ -1496,6 +1498,8 @@ NOTA: VER D.O. 31.01.2006, PAGINA 33
 
 > **Nota.** NOTA 1 El Nº 2 del Decreto 703, Municipalidad de Talcahuano, publicado el 25.05.2010, introduce varias modificaciones al presente artículo, agregando, sustituyendo o eliminando cuadros de determinadas zonas.
 
+> **Nota.** NOTA 2 El Nº 3 del Decreto 1865, Municipalidad de Talcahuano, publicado el 08.07.2011, introduce diversas modificaciones a las tablas del presente artículo, en la forma que en ella se indica.
+
 ## Capítulo V
 
 NORMAS ESPECIFICAS SOBRE CONSERVACION HISTORICA
@@ -1554,6 +1558,8 @@ Recursos Patrimoniales; Inmuebles y Zonas: Los inmuebles declarados como recurso
 
 NOTA: VER D.O. 31.01.2006, PAGINAS 33 Y 34
 
+> **Nota.** El Nº 4 del Decreto 1865, Municipalidad de Talcahuano, publicado el 08.07.2011, introduce diversas modificaciones a la tabla del presente artículo, en la forma que en ella se indica.
+
 ## Capítulo VI
 
 VIALIDAD ESTRUCTURANTE
@@ -1597,6 +1603,8 @@ PERFILES PEATONALES
 NOTA: VER D.O. 31.01.2006, PAGINA 35
 
 > **Nota.** El Nº 2 del Decreto 703, Municipalidad de Talcahuano, publicado el 25.05.2010, introduce varias modificaciones al presente artículo, sustituyendo y agregando cuadros de vialidad.
+
+> **Nota.** NOTA 1 Los Nº 5 y 6 del Decreto 1865, Municipalidad de Talcahuano, publicado el 08.07.2011, introduce diversas modificaciones al presente artículo, en la forma que en ella se indica.
 
 3.- Derógase el Plan Regulador Comunal de Talcahuano, aprobado por Decreto Supremo Nº 78, del Ministerio de Vivienda y Urbanismo, de fecha 18 de Mayo de 1982, publicado en el Diario Oficial el 06 de Julio de 1982, y sus posteriores modificaciones aprobadas, por Resolución Nº 16, de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del 25 de Julio de 1990, publicada en el Diario Oficial el 07 de Septiembre de 1990; Resolución Nº 03, de la Secretaría Regional Ministerial de Vivienda y Urbanismo, del 09 de Febrero de 1993, publicada en el Diario Oficial, el 06 de Mayo de 1993, y Resolución Nº 136, del Gobierno Regional del Bío Bío, del 29 de Octubre de 1997 y Complementado por Resolución Nº 003, del Gobierno Regional del Bío Bío del 23 de Enero de 1998, publicada en el Diario Oficial del 26 de Febrero de 1998.-
 
