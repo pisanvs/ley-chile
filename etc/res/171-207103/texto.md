@@ -122,7 +122,7 @@ Los territorios que no dispongan de instrumentos de planificación urbana comuna
 
 0.6.- Atendida la escala de los planos del PRMC, aludida en el artículo 1.0.1. de esta Ordenanza, los límites de las áreas y zonas que en ellos se establecen son referenciales y no representan, necesariamente, la forma y superficie real que comprenden. En caso de dudas deberá aplicarse lo indicado en el artículo 1.0.9 de la presente Ordenanza.
 
-Los planes reguladores comunales y seccionales podrán precisar y/o complementar lo dispuesto en este PRMC, en el sentido de detallar su zonificación, los usos de suelo y sus normas generales, pudiendo establecer las exigencias de urbanización y construcción propias de su ámbito. Dichas precisiones o complementaciones no podrán contravenir las disposiciones señaladas en este PRMC.
+Los planes reguladores comunales y seccionales podrán precisar y/o complementar lo dispuesto en este PRMC, en el sentido de detallar su zonificación, los usos de suelo y sus normas generales, pudiendo establecer las exigencias de urbanización y edificación propias de su ámbito. Dichas precisiones o complementaciones no podrán contravenir las disposiciones señaladas en este PRMC.
 
 #### Artículo 1
 
@@ -264,7 +264,7 @@ ZONIFICACION GENERAL DEL AREA URBANA CONSOLIDADA
 
 #### Artículo 3
 
-0.3.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y construcción de las zonas que integran el Area Urbana Consolidada, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC.
+0.3.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y edificación de las zonas que integran el Area Urbana Consolidada, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC.
 
 CAPITULO III. 1 ZONA HABITACIONAL MIXTA
 
@@ -300,7 +300,7 @@ ZHM - 9 TUMBES TALCAHUANO
 
 ZHM - 10 TALCAHUANO TALCAHUANO
 
-ZHM - 11 HUALPENCILLO TALCAHUANO
+ZHM - 11 HUALPENCILLO HUALPÉN
 
 ZHM - 12 CONCEPCION CONCEPCION
 
@@ -430,7 +430,7 @@ ZI - 6 PENCO 2 PENCO
 
 ZI - 7 ISLA ROCUANT TALCAHUANO
 
-ZI - 8 SAN VICENTE TALCAHUANO
+ZI - 8 SAN VICENTE HUALPÉN
 
 ZI - 9 HUERTOS OBREROS TALCAHUANO
 
@@ -510,7 +510,7 @@ ZAB - 2 ISLA ROCUANT TALCAHUANO
 
 ZAB - 3 CARRIEL NORTE TALCAHUANO
 
-ZAB - 4 PETROX SUR TALCAHUANO
+ZAB - 4 PETROX SUR HUALPÉN
 
 ZAB - 5 EL MANCO CORONEL
 
@@ -596,7 +596,7 @@ CCE - 8 CENTRO DE TALCAHUANO TALCAHUANO
 
 CCE - 9 CENTRO LAS SALINAS TALCAHUANO
 
-CCE - 10 CENTRO DE TALCAHUANO
+CCE - 10 CENTRO DE HUALPÉN
 
 HUALPENCILLO
 
@@ -606,7 +606,7 @@ CCE - 12 CENTRO LORENZO ARENAS CONCEPCION
 
 CCE - 13 TREBOL FERBIO CONCEP.
 
-TALCAHUANO
+HUALPÉN
 
 CCE - 14 CENTRO DE SAN PEDRO SAN PEDRO DE LA
 
@@ -660,7 +660,7 @@ JUANA
 
 #### Artículo 3
 
-4.5.- Las Zonas de Equipamiento Metropolitano, ZEM, están constituidas por territorios o predios donde se emplazan instalaciones, construcciones o edificios, cuyo uso exclusivo corresponde a equipamientos de nivel metropolitano, es decir, aquellos cuyo ámbito de acción o área de influencia involucra a dos o más comunas.
+4.5.- Las Zonas de Equipamiento Metropolitano, ZEM, están constituidas por territorios o predios donde se emplazan instalaciones, edificaciones o edificios, cuyo uso exclusivo corresponde a equipamientos de nivel metropolitano, es decir, aquellos cuyo ámbito de acción o área de influencia involucra a dos o más comunas.
 
 En las ZEM sólo se autorizarán construcciones complementarias a su uso.
 
@@ -698,7 +698,7 @@ Metropolitanos
 
 #### Artículo 3
 
-4.7.- Sin perjuicio de las zonas ZEM identificadas en el artículo anterior, los nuevos equipamientos de nivel metropolitano se podrán localizar en todas aquellas zonas del Area de Planificación Metropolitana, donde el destino se permita, para lo cual, el Director de Obras Municipales exigirá que las condiciones de urbanización sean definidas mediante un proyecto específico que contenga planos, memoria explicativa, estudios técnicos, de impacto urbano y/o de riesgos cuando corresponda, y deberá contar, además, con informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Bío Bío, previo a la obtención del permiso municipal correspondiente.
+4.7.- Sin perjuicio de las zonas ZEM identificadas en el artículo anterior, los nuevos equipamientos de nivel metropolitano se podrán localizar en todas aquellas zonas del Area de Planificación Metropolitana, donde el destino se permita, para lo cual, el Director de Obras Municipales exigirá que las condiciones de urbanización sean definidas mediante un proyecto específico que contenga planos, memoria explicativa, estudios técnicos, de impacto urbano y/o de riesgos cuando corresponda.
 
 Corresponderá a las Direcciones de Obras Municipales calificar el nivel metropolitano de estos proyectos, conforme al criterio establecido en el artículo 3.4.5. de la presente Ordenanza.
 
@@ -864,13 +864,13 @@ ZEMU - 4 C. UNIVERSIDAD SAN CONCEPCION
 
 SEBASTIAN
 
-ZEMU - 5 C. UNIVERSIDAD SANTA TALCAHUANO
+ZEMU - 5 C. UNIVERSIDAD SANTA HUALPÉN
 
 MARIA
 
 #### Artículo 3
 
-4.19 .- Las normas de ocupación de suelo y construcción de la ZEMU serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza, y mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
+4.19 .- Las normas de ocupación de suelo y edificación de la ZEMU serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza, y mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
 
 #### Artículo 3
 
@@ -888,7 +888,7 @@ ZEMR - 1 CENTRO TURISTICO EL TOME
 
 MORRO
 
-ZEMR - 2 CLUB HIPICO TALCAHUANO
+ZEMR - 2 CLUB HIPICO HUALPÉN
 
 ZEMR - 3 C. RECREACIONAL CONCEPCION
 
@@ -906,7 +906,7 @@ POSADA
 
 #### Artículo 3
 
-4.22.- Los equipamientos recreacionales y sus instalaciones se regirán por las disposiciones legales y reglamentarias vigentes, sobre la materia. Sus normas de ocupación de suelo y construcción serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza, y mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
+4.22.- Los equipamientos recreacionales y sus instalaciones se regirán por las disposiciones legales y reglamentarias vigentes, sobre la materia. Sus normas de ocupación de suelo y edificación serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza, y mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
 
 Sin perjuicio de lo anterior, en los terrenos que forman parte de la zona ZEMR-2 Club Hípico que enfrentan la Avda. Las Golondrinas se permitirá el destino habitacional y de equipamiento, siendo sus condiciones de subdivisión predial y edificación las indicadas en el artículo 3.1.6 para la zona ZHM, mientras no se actualice el plan regulador comunal.
 
@@ -928,7 +928,7 @@ ZEMS - 2 SECTOR PALOMARES CONCEPCION
 
 ZEMS - 3 SECTOR EL MANZANO CONCEPCION
 
-ZEMS - 4 SECTOR AUTOPISTA TALCAHUANO
+ZEMS - 4 SECTOR AUTOPISTA HUALPÉN
 
 ZEMS - 5 SECTOR CARRIEL SUR THNO. - CONCEPCION
 
@@ -968,9 +968,9 @@ Los destinos permitidos en esta zona podrán ser precisados en los planes regula
 
 En la parte de esta zona que se encuentra afectada por la restricción del cono de aproximación del Aeródromo Carriel Sur y, mientras no se confeccionen o amplíen los límites urbanos vigentes de los instrumentos de planificación de nivel local, las condiciones de ocupación de suelo son las siguientes:
 
-• Subdivisión predial mínima = 2.000 m².
+- Subdivisión predial mínima = 2.000 m².
 
-• Coeficiente máximo de ocupación de suelo = 0,4.
+- Coeficiente máximo de ocupación de suelo = 0,4.
 
 #### Artículo 3
 
@@ -1014,7 +1014,7 @@ Los destinos permitidos en esta zona podrán ser precisados en los planes regula
 
 #### Artículo 3
 
-4.30.- Las normas de ocupación de suelo y construcción de la ZEPM serán definidas en los respectivos planes reguladores comunales o seccionales, debiendo cumplir con las normas de la Ordenanza General de Urbanismo y Construcciones, como asimismo, incorporar lo señalado en el artículo 8.1.2 de la presente Ordenanza. Mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
+4.30.- Las normas de ocupación de suelo y edificación de la ZEPM serán definidas en los respectivos planes reguladores comunales o seccionales, debiendo cumplir con las normas de la Ordenanza General de Urbanismo y Construcciones, como asimismo, incorporar lo señalado en el artículo 8.1.2 de la presente Ordenanza. Mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente.
 
 CAPITULO III. 5 ZONA DE ASENTAMIENTOS COSTEROS
 
@@ -1050,9 +1050,9 @@ ZAC - 9 CALETA TUMBES TALCAHUANO
 
 ZAC - 10 CALETA EL MORRO TALCAHUANO
 
-ZAC - 11 CALETA LENGA TALCAHUANO
+ZAC - 11 CALETA LENGA HUALPÉN
 
-ZAC - 12 CALETA CHOME TALCAHUANO
+ZAC - 12 CALETA CHOME HUALPÉN
 
 ZAC - 13 CALETA BOCA SUR SAN PEDRO
 
@@ -1096,7 +1096,7 @@ Los destinos permitidos en esta zona podrán ser precisados en los planes regula
 
 . Coeficiente máximo de ocupación de suelo = 0,8
 
-. Altura máxima de construcciones = 7 m.
+. Altura máxima de edificaciones = 7 m.
 
 . Sistema de agrupamiento = aislado,
 
@@ -1160,7 +1160,7 @@ En las zonas ZTBC-11 Lenga, ZTBC-12 Ramuntcho, ZTBC-13 Chome y ZTBC-14 Rocoto, s
 
 . Coeficiente máximo de ocupación de suelo = 0,6
 
-. Altura máxima de construcciones = 20 m
+. Altura máxima de edificaciones = 20 m
 
 . Sistema de agrupamiento = aislado y
 
@@ -1228,7 +1228,7 @@ ZIP - 3 SECTOR BELLAVISTA TOME
 
 ZIP - 4 FUERTE LA PLANCHADA PENCO
 
-ZIP - 5 CASA PEDRO DEL RIO TALCAHUANO
+ZIP - 5 CASA PEDRO DEL RIO HUALPÉN
 
 ZAÑARTU (MUSEO
 
@@ -1256,7 +1256,7 @@ ZIP-13 El Faro de Ramuntcho Hualpén
 
 #### Artículo 3
 
-8.3.- La delimitación, zonificación detallada, normas de ocupación de suelo y de construcción de la ZIP serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza. Mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente y con la autorización del Consejo de Monumentos Nacionales, cuando corresponda de acuerdo con la Ley Nº 17.288 sobre Monumentos Nacionales.
+8.3.- La delimitación, zonificación detallada, normas de ocupación de suelo y de edificación de la ZIP serán definidas en los respectivos planes reguladores comunales o seccionales, incorporando lo señalado en el artículo 8.1.2 de la presente Ordenanza. Mientras estos planes no se elaboren o amplíen sus limites urbanos vigentes, los proyectos deberán cumplir con las exigencias señaladas en el inciso primero del artículo 3.4.7 precedente y con la autorización del Consejo de Monumentos Nacionales, cuando corresponda de acuerdo con la Ley Nº 17.288 sobre Monumentos Nacionales.
 
 Los destinos permitidos en la ZIP serán aquellos acordes con el carácter de la zona, en el sentido que no alteren su estado de conservación y permitan su realce y valoración.
 
@@ -1384,11 +1384,11 @@ Preferente
 
 #### Artículo 4
 
-0.2 .- La consolidación del Area de Extensión Urbana se producirá en la medida que ésta se incorpore al Area Urbana Consolidada, a través de la confección o modificación de los instrumentos de planificación territorial de nivel local, que establezca la zonificación detallada de los usos de suelo, su normativa específica de urbanización y construcción y demás condiciones acordes con las características del terreno. Las disposiciones de estos instrumentos deben ser concordantes con las normas establecidas en la presente Ordenanza y en la Ordenanza General de Urbanismo y Construcciones.
+0.2 .- La consolidación del Area de Extensión Urbana se producirá en la medida que ésta se incorpore al Area Urbana Consolidada, a través de la confección o modificación de los instrumentos de planificación territorial de nivel local, que establezca la zonificación detallada de los usos de suelo, su normativa específica de urbanización y edificación y demás condiciones acordes con las características del terreno. Las disposiciones de estos instrumentos deben ser concordantes con las normas establecidas en la presente Ordenanza y en la Ordenanza General de Urbanismo y Construcciones.
 
 #### Artículo 4
 
-0.3.- Sin perjuicio de lo señalado en el artículo anterior, y mientras no se hayan elaborado o modificado los referidos instrumentos de planificación, las Direcciones de Obras Municipales otorgarán los permisos y/o aprobaciones, dando cumplimiento a las normas establecidas en la Ordenanza General de Urbanismo y Construcciones y en la presente Ordenanza. Para las subdivisiones, loteos y/o urbanizaciones, de todo tipo, se requerirá en forma previa un informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Bío Bío, en el cual se fijarán las condiciones de urbanización.
+0.3.- Sin perjuicio de lo señalado en el artículo anterior, y mientras no se hayan elaborado o modificado los referidos instrumentos de planificación, las Direcciones de Obras Municipales otorgarán los permisos y/o aprobaciones, dando cumplimiento a las normas establecidas en la Ordenanza General de Urbanismo y Construcciones y en la presente Ordenanza.
 
 #### Artículo 4
 
@@ -1408,7 +1408,7 @@ Preferente
 
 #### Artículo 4
 
-0.8.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y construcción de las zonas que integran el Area de Extensión Urbana, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC, de acuerdo con lo indicado en el artículo 4.0.2 precedente.
+0.8.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y edificación de las zonas que integran el Area de Extensión Urbana, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC, de acuerdo con lo indicado en el artículo 4.0.2 precedente.
 
 CAPITULO IV. 1 ZONA DE EXTENSION HABITACIONAL MIXTA
 
@@ -1744,7 +1744,7 @@ c) Coeficiente máximo de constructibilidad
 
 d) Sistema de agrupamiento
 
-1) No se permiten construcciones
+1) No se permiten edificaciones
 
 CAPITULO IV. 4 ZONA DE DESARROLLO CONDICIONADO
 
@@ -1760,7 +1760,7 @@ ZONA DE DESARROLLO CONDICIONADO
 
 SIGLA NOMBRE COMUNA DENSIDAD
 
-ZDC - 1 PEÑUELAS TALCAHUANO -
+ZDC - 1 PEÑUELAS HUALPÉN -
 
 ZDC - 2 LOS BUDES TALCAHUANO -
 
@@ -1972,7 +1972,7 @@ ZONIFICACION GENERAL DE LAS AREAS DE PROTECCION Y DE RIESGO
 
 #### Artículo 5
 
-0.4.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y construcción de las zonas que integran las Areas de Protección y de Riesgo, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC.
+0.4.- La zonificación en detalle de los usos de suelo y la normativa específica de urbanización y edificación de las zonas que integran las Areas de Protección y de Riesgo, será establecida en los respectivos planes reguladores comunales y/o seccionales, no pudiendo contravenir las disposiciones señaladas en este PRMC.
 
 CAPITULO V.1 ZONA DE VALOR NATURAL
 
@@ -2004,9 +2004,9 @@ ZVN - 6 ANDALIEN - ROCUANT TALCAHUANO MARISMA
 
 ZVN - 7 CERROS SAN MIGUEL TALCAHUANO CERRO ISLA
 
-ZVN - 8 HUALPEN TALCAHUANO SANTUARIO
+ZVN - 8 HUALPEN HUALPÉN SANTUARIO
 
-ZVN - 9 LAGUNA PRICE TALCAHUANO LAGUNA
+ZVN - 9 LAGUNA PRICE HUALPÉN LAGUNA
 
 ZVN - 10 LAS ROCAS CONCEP- B. NATIVO
 
@@ -2102,7 +2102,7 @@ Los destinos permitidos en esta zona podrán ser precisados en los planes regula
 
 . Cualquier faena o proyecto cuyos objetivos sean mejorar las características hidromorfológicas del curso de agua o del suelo de dichas franjas, como por ejemplo, la plantación de especies arbóreas para la estabilización de riberas, etc., deberá contar con la autorización previa de CONAF y del Servicio de Salud respectivo.
 
-. Se prohíbe dentro de las franjas de 100 m. señaladas anteriormente, las construcciones de cualquier tipo sin previa autorización de la Municipalidad y del servicio de Salud respectivo.
+. Se prohíbe dentro de las franjas de 100 m. señaladas anteriormente, las edificaciones de cualquier tipo sin previa autorización de la Municipalidad y del servicio de Salud respectivo.
 
 Los cuerpos de agua tributarios de los cursos principales de abastecimiento de agua potable, tendrán las mismas restricciones que éstos y dos franjas adyacentes a sus riberas, de un ancho mínimo de 50 m. La Dirección General de Aguas del Ministerio de Obras Públicas deberá definir los tributarios considerados según corresponda.
 
@@ -2112,7 +2112,7 @@ Los cuerpos de agua tributarios de los cursos principales de abastecimiento de a
 
 #### Artículo 5
 
-1.6.- Las normas de ocupación de suelo y construcción de la ZVN serán definidas en los respectivos planes reguladores comunales o seccionales, y mientras estos instrumentos no se elaboren o amplíen sus limites urbanos vigentes, los proyectos que en ella se emplacen, se regirán por las disposiciones establecidas en la Ordenanza General de Urbanismo y Construcciones, y en toda otra legislación vigente sobre la materia, debiendo cumplir, además, con el informe favorable señalado en el artículo 4.0.3, con las exigencias del artículo 4.0.4 y con lo indicado en el artículo 8.1.2, de la presente Ordenanza.
+1.6.- Las normas de ocupación de suelo y edificación de la ZVN serán definidas en los respectivos planes reguladores comunales o seccionales, y mientras estos instrumentos no se elaboren o amplíen sus limites urbanos vigentes, los proyectos que en ella se emplacen, se regirán por las disposiciones establecidas en la Ordenanza General de Urbanismo y Construcciones, y en toda otra legislación vigente sobre la materia, debiendo cumplir, además, con las exigencias del artículo 4.0.4 y con lo indicado en el artículo 8.1.2, de la presente Ordenanza.
 
 Las obras de infraestructura que se emplacen en estas zonas deberán considerar el diseño necesario para mantener y resguardar sus características naturales de paisaje, vegetación, hidrológicas y de valor ambiental, como por ejemplo, la morfología del terreno, la presencia de bosques nativos, el normal escurrimiento de las aguas lluvias de los sistemas hídricos y las riberas de cuerpos de agua.
 
@@ -2210,13 +2210,13 @@ P. NEGRA
 
 ZP - 19 ROCUANT TALCAHUANO
 
-ZP - 20 RAMUNTCHO TALCAHUANO
+ZP - 20 RAMUNTCHO HUALPÉN
 
-ZP - 21 LENGA TALCAHUANO
+ZP - 21 LENGA HUALPÉN
 
-ZP - 22 ROCOTO TALCAHUANO
+ZP - 22 ROCOTO HUALPÉN
 
-ZP - 23 DESEMBOCADURA TALCAHUANO
+ZP - 23 DESEMBOCADURA HUALPÉN
 
 ZP - 24 ESCUADRON SAN PEDRO -
 
@@ -2250,7 +2250,7 @@ ZP - 35 CHIVILINGO LOTA
 
 #### Artículo 5
 
-3.4.- En las áreas que constituyen terrenos de playa fiscal, esto es, en una franja de 80 metros medidos a continuación de la playa de mar, los destinos permitidos, son los siguientes:
+3.4.- En las áreas que constituyen terrenos de playa fiscal y en los terrenos particulares que deslindan con la línea de más alta marea, cuando forman parte del resto de la Zona de Playa ZP, los destinos permitidos son los siguientes:
 
 . Equipamiento de esparcimiento y turismo, cultura y comercio complementario.
 
@@ -2532,7 +2532,7 @@ CAPITULO VII. 1 VIALIDAD ESTRUCTURANTE METROPOLITANA
 
 #### Artículo 7
 
-1.1.- La vialidad estructurante del presente plan regulador metropolitano corresponde a la red de vías metropolitanas expresas, troncales y colectoras que se consignan en el plano PRMC-02, y representa una estructura general, cuya ubicación y características definitivas deberá ser ratificada, detallada y precisada en los planes reguladores comunales o seccionales.
+1.1.- La vialidad estructurante del presente plan regulador metropolitano corresponde a la red de vías metropolitanas expresas, troncales y colectoras que se consignan en el plano PRMC-02, y representa una estructura general, cuya ubicación y características definitivas deberá ser ratificada, detallada y precisada en los planes regula dores comunales o seccionales.
 
 #### Artículo 7
 
@@ -2550,7 +2550,7 @@ VER DIARIO OFICIAL DE 28.01.2003, PAGINAS 27 - 28 NOTA 1
 
 #### Artículo 7
 
-1.4.- Los perfiles geométricos de las vías metropolitanas, sus anchos de calzadas, empalmes, etc., así como las áreas y diseño geométrico necesario para el desarrollo de intersecciones y enlaces de la red vial definitiva del plan, serán definidos en los respectivos proyectos o estudios de vialidad, atendiendo a lo indicado en el Manual de Vialidad Urbana Volumen III REDEVU y en el Volumen III del Manual de Carreteras del MOP, y deberán contar con un informe favorable de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Bío Bío.
+1.4.- Los perfiles geométricos de las vías metropolitanas, sus anchos de calzadas, empalmes, etc., así como las áreas y diseño geométrico necesario para el desarrollo de intersecciones y enlaces de la red vial definitiva del plan, serán definidos en los respectivos proyectos o estudios de vialidad, atendiendo a lo indicado en el Manual de Vialidad Urbana Volumen III REDEVU y en el Volumen III del Manual de Carreteras del MOP.
 
 #### Artículo 7
 
@@ -2588,7 +2588,7 @@ Las franjas de protección de los tendidos eléctricos no podrán quedar incorpo
 
 #### Artículo 7
 
-2.6.- Las áreas de restricción de canales de drenaje son aquellas franjas de terreno correspondientes a cauces naturales y/o artificiales de escurrimiento superficial de las aguas lluvias y excedentes de áreas con insuficiente drenaje, destinadas a permitir el normal y libre escurrimiento e impedir obstáculos que los interfieran. En estas áreas no se permitirá ningún tipo de construcciones, salvo aquellas destinadas a facilitar su mantención y normal escurrimiento.
+2.6.- Las áreas de restricción de canales de drenaje son aquellas franjas de terreno correspondientes a cauces naturales y/o artificiales de escurrimiento superficial de las aguas lluvias y excedentes de áreas con insuficiente drenaje, destinadas a permitir el normal y libre escurrimiento e impedir obstáculos que los interfieran. En estas áreas no se permitirá ningún tipo de edificaciones, salvo aquellas destinadas a facilitar su mantención y normal escurrimiento.
 
 Las obras de infraestructura que atraviesen estas áreas deberán considerar el diseño necesario para permitir el normal escurrimiento y evacuación de las aguas de sus sistemas hídricos.
 
@@ -2600,15 +2600,15 @@ Las características de diseño, perfiles, anchos y demás especificaciones de l
 
 #### Artículo 7
 
-2.8.- En los terrenos emplazados hacia el cabezal norte del Aeródromo Carriel Sur, que se encuentran afectados por el Area "a" de alto riesgo de restricción del cono de aproximación del mismo, no se permite ningún tipo de construcciones, y en el Area "b" de mediano riesgo, definidas en el D.S. Nº 924 de 1995 y en el Plano Nº PP-95-01, antes citados, sólo se permitirán usos de suelo transitorios, como son: Almacenamiento sin construcciones y acopio inofensivos, estacionamiento de vehículos y áreas verdes, cuya calificación corresponderá a la Comisión Coordinadora de Aeródromos y Desarrollo Urbano, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Bío Bío.
+2.8.- En los terrenos emplazados hacia el cabezal norte del Aeródromo Carriel Sur, que se encuentran afectados por el Area "a" de alto riesgo de restricción del cono de aproximación del mismo, no se permite ningún tipo de edificaciones, y en el Area "b" de mediano riesgo, definidas en el D.S. Nº 924 de 1995 y en el Plano Nº PP-95-01, antes citados, sólo se permitirán usos de suelo transitorios, como son: Almacenamiento sin edificaciones y acopio inofensivos, estacionamiento de vehículos y áreas verdes, cuya calificación corresponderá a la Comisión Coordinadora de Aeródromos y Desarrollo Urbano, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Bío Bío.
 
 #### Artículo 7
 
-2.9.- En los terrenos emplazados hacia el cabezal sur del Aeródromo Carriel Sur, que se encuentran afectados por el Área "a" de alto riesgo de restricción del cono de aproximación del mismo, no se permite ningún tipo de construcciones y bajo el Área "b" de mediano riesgo, sólo se permitirán edificaciones con destino de almacenamiento y acopio, inofensivos y molestos con impactos mitigados y equipamientos, excepto de salud y de educación, cuya calificación corresponderá a la Comisión Coordinadora de Aeródromos y Desarrollo Urbano, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Bío Bío. En el caso de los equipamientos, éstos no podrán superar una carga de ocupación de 250 personas y no requerir más de 50 estacionamientos.
+2.9.- En los terrenos emplazados hacia el cabezal sur del Aeródromo Carriel Sur, que se encuentran afectados por el Área "a" de alto riesgo de restricción del cono de aproximación del mismo, no se permite ningún tipo de edificaciones y bajo el Área "b" de mediano riesgo, sólo se permitirán edificaciones con destino de almacenamiento y acopio, inofensivos y molestos con impactos mitigados y equipamientos, excepto de salud y de educación, cuya calificación corresponderá a la Comisión Coordinadora de Aeródromos y Desarrollo Urbano, a requerimiento de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Bío Bío. En el caso de los equipamientos, éstos no podrán superar una carga de ocupación de 250 personas y no requerir más de 50 estacionamientos.
 
 #### Artículo 7
 
-2.10.- Para las nuevas construcciones que se emplacen en los sectores adyacentes al Aeródromo Carriel Sur, es decir, hasta una distancia de 500 m. de ancho medidos a ambos costados del eje de la pista y 2.400 m de los cabezales norte y sur, se deberá exigir un estudio de ruidos que proponga las medidas de protección acústica que permitan mitigar adecuadamente dicho impacto, en función de la normativa vigente sobre ruidos. Las medidas de protección acústica indicadas se refieren tanto a las construcciones como al entorno de las mismas, como por ejemplo, doble vidrio en ventanas, barreras acústicas, entre otras.
+2.10.- Para las nuevas edificaciones que se emplacen en los sectores adyacentes al Aeródromo Carriel Sur, es decir, hasta una distancia de 500 m. de ancho medidos a ambos costados del eje de la pista y 2.400 m de los cabezales norte y sur, se deberá exigir un estudio de ruidos que proponga las medidas de protección acústica que permitan mitigar adecuadamente dicho impacto, en función de la normativa vigente sobre ruidos. Las medidas de protección acústica indicadas se refieren tanto a las edificaciones como al entorno de las mismas, como por ejemplo, doble vidrio en ventanas, barreras acústicas, entre otras.
 
 #### Artículo 7
 
@@ -2616,7 +2616,7 @@ Las características de diseño, perfiles, anchos y demás especificaciones de l
 
 #### Artículo 7
 
-2.12.- Los proyectos que se emplacen en zonas adyacentes a los costados oriente y poniente del Aeródromo Carriel Sur, sin perjuicio de lo establecido en los artículos anteriores, deberán respetar un distanciamiento libre de construcciones de 50m medidos desde el deslinde predial de éste, y su altura no podrá sobrepasar la rasante establecida por el "Area f" Superficie de Transición, definida en el D.S. Nº 924 de 1995 y en el Plano Nº PP-95-01, antes citados.
+2.12.- Los proyectos que se emplacen en zonas adyacentes a los costados oriente y poniente del Aeródromo Carriel Sur, sin perjuicio de lo establecido en los artículos anteriores, deberán respetar un distanciamiento libre de edificaciones de 50m medidos desde el deslinde predial de éste, y su altura no podrá sobrepasar la rasante establecida por el "Area f" Superficie de Transición, definida en el D.S. Nº 924 de 1995 y en el Plano Nº PP-95-01, antes citados.
 
 T I T U L O VIII
 
@@ -2672,7 +2672,7 @@ INDUSTRIALES
 
 #### Artículo 8
 
-2.1.- Toda actividad industrial existente, que no cumpla con el destino permitido en la zona donde se emplaza, deberá trasladarse a aquella zona que permita dicha actividad. Mientras no se trasladen, las actividades industriales se entenderán congeladas, es decir, no podrán aumentar su volumen de construcción, ampliar la superficie de sus predios, rehacer las instalaciones existentes, ni podrá otorgarse patente a un nuevo propietario o arrendatario.
+2.1.- Toda actividad industrial existente, que no cumpla con el destino permitido en la zona donde se emplaza, deberá trasladarse a aquella zona que permita dicha actividad. Mientras no se trasladen, las actividades industriales se entenderán congeladas, es decir, no podrán aumentar su volumen de edificación, ampliar la superficie de sus predios, rehacer las instalaciones existentes, ni podrá otorgarse patente a un nuevo propietario o arrendatario.
 
 En los casos en que la actividad industrial no cumpla con la calificación permitida para la zona donde se emplaza, se podrá incorporar la tecnología apropiada, a objeto de obtener la recalificación que permita la compatibilidad con el uso establecido en dicha zona, de lo contrario se le aplicará lo dispuesto en el inciso anterior.
 
@@ -2710,13 +2710,11 @@ FORESTALES.
 
 #### Artículo 8
 
-3.1.- Las normas sobre riesgo de incendios forestales se aplicarán a la parte del área de planificación metropolitana que, por su condición de contacto entre las áreas habitadas y el bosque, presenta un alto riesgo de incendios forestales. Para tal efecto se definen las siguientes normas mínimas de construcción, urbanización, vialidad metropolitana y prevención de incendios forestales.
+3.1.- Las normas sobre riesgo de incendios forestales se aplicarán a la parte del área de planificación metropolitana que, por su condición de contacto entre las áreas habitadas y el bosque, presenta un alto riesgo de incendios forestales. Para tal efecto se definen las siguientes normas mínimas de edificación, urbanización, vialidad metropolitana y prevención de incendios forestales.
 
 #### Artículo 8
 
-3.2.- Las construcciones colindantes con áreas de bosques artificiales productivos deberán distanciarse de éste a lo menos en 25 metros.
-
-Las fajas resultantes del distanciamiento descrito anteriormente deberán presentar una adecuada accesibilidad, estar libres de obstáculos, residuos y/o elementos combustibles y contar con suministro de agua. Estas fajas podrán además, incorporar especies vegetales irrigadas.
+3.2.- Los planes reguladores comunales deberán identificar las áreas de riesgo de incendio forestal y establecer las normas urbanísticas aplicables a las edificaciones, que contribuyan a su prevención.
 
 #### Artículo 8
 
@@ -2742,7 +2740,7 @@ Las fajas resultantes del distanciamiento descrito anteriormente deberán presen
 
 #### Artículo 8
 
-3.6.- Sin perjuicio de las normas mínimas establecidas precedentemente, las municipalidades en conjunto con la CONAF, deberán establecer exigencias adicionales de construcción, urbanización y de cumplimiento de las disposiciones de manejo y resguardo de las áreas de mayor riesgo de incendio forestal. Estas normas deberán incluirse en las ordenanzas locales aludidas en el inciso primero del artículo anterior.
+3.6.- Sin perjuicio de las normas mínimas establecidas precedentemente, las municipalidades en conjunto con la CONAF, deberán establecer exigencias adicionales de edificación, urbanización y de cumplimiento de las disposiciones de manejo y resguardo de las áreas de mayor riesgo de incendio forestal. Estas normas deberán incluirse en las ordenanzas locales aludidas en el inciso primero del artículo anterior.
 
 CAPITULO VIII.4 NORMAS SOBRE RIESGOS NATURALES
 
@@ -2768,7 +2766,7 @@ d) Areas de riesgo por tsunamis.- Se consideran en esta categoría todos aquello
 
 . En aquellas áreas de riesgo natural señaladas en las letras a, b, y c del artículo 8.4.1 precedente, cuya mitigación no garantice la seguridad de las personas, se permitirá sólo instalaciones mínimas, prohibiéndose expresamente todo tipo de edificaciones y construcciones que impliquen la presencia permanente de personas, o la concentración de ellas sin posibilidad de evacuación expedita.
 
-. En los proyectos de urbanización colindantes a las áreas de riesgo natural definidas en las letras a y c del artículo 8.4.1, se deberá presentar un informe de riesgo, elaborado por profesionales especialistas, en el cual, se determine en detalle los límites del área de riesgo que afecta a su predio, como asimismo, las obras que deben realizarse para protegerlo y mitigar los efectos ocasionados por el riesgo. Dichos proyectos deberán contar con informe favorable previo de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Bío Bío.
+. En los proyectos de urbanización colindantes a las áreas de riesgo natural definidas en las letras a y c del artículo 8.4.1, se deberá presentar un informe de riesgo, elaborado por profesionales especialistas, en el cual, se determine en detalle los límites del área de riesgo que afecta a su predio, como asimismo, las obras que deben realizarse para protegerlo y mitigar los efectos ocasionados por el riesgo.
 
 . Los proyectos de urbanización que se emplacen en áreas que presenten riesgo de inundación y/o anegamiento a que se refiere la letra a del artículo 8.4.1, deberán disponer las medidas de mitigación que permitan asegurar el control de sus posibles efectos, fundadas y establecidas en el respectivo informe de riesgo, elaborado por profesionales especialistas. . Los proyectos de urbanización y edificación emplazados en terrenos de pendientes superiores a 35%, correspondientes a las áreas de riesgo señaladas en la letra c del artículo 8.4.1, deberán disponer las medidas de mitigación tendientes a evitar la erosión, derrumbes y deslizamientos en laderas y taludes naturales y artificiales, fundadas y establecidas en los respectivos informes de riesgo, elaborados por profesionales especialistas. . En las áreas expuestas a riesgos de tsunami referidas en la letra d del artículo 8.4.1, la municipalidad respectiva deberá contemplar planes de emergencia y exigencias de obras en los proyectos que se presenten, destinados a facilitar la evacuación de las personas, y mitigar los efectos de estos eventos.
 
@@ -2788,7 +2786,7 @@ TRANSPORTE URBANO
 
 #### Artículo 8
 
-5.3.- Cuando estos estudios de impacto sobre el sistema de transporte urbano, determinen un área de influencia que exceda el límite comunal, deberán ser informados previamente, por la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Bío Bío.
+5.3.- ELIMINADO.
 
 CAPITULO VIII.6 NORMAS SOBRE ESTACIONAMIENTOS
 
@@ -2910,13 +2908,7 @@ CAPITULO VIII. 11 NORMAS SOBRE VERTEDEROS
 
 #### Artículo 8
 
-11.3.- EstasRES 8,
-
-G. REG. DEL BIO BIO
-
-#### Artículo primero
-
-D.O. 08.04.2005 instalaciones no se podrán emplazar en el Area Urbana Metropolitana, ni en las Areas de Protección y de Riesgo, y sólo se podrán emplazar en sectores de la Zona de Interés Silvoagropecuario y Zonas de Asentamiento Agrícolas del Area Rural Metropolitana, que cumplan las siguientes condiciones: . alejados de cursos de agua y napas subterráneas
+11.3.- Estas instalaciones no se podrán emplazar en el Area Urbana Metropolitana, ni en las Areas de Protección y de Riesgo, y sólo se podrán emplazar en sectores de la Zona de Interés Silvoagropecuario y Zonas de Asentamiento Agrícolas del Area Rural Metropolitana, que cumplan las siguientes condiciones: . alejados de cursos de agua y napas subterráneas
 
 . que no presenten riesgo de remoción en masa
 
@@ -2946,6 +2938,24 @@ INDUSTRIAL Y DOMESTICO.
 
 12.2.- Los sistemas de tratamiento de residuos líquidos de tipo industrial, sólo se podrán localizar al interior de las zonas industriales y en el Area Rural Metropolitana, y deberán contemplar medidas de mitigación de sus efectos, las que serán establecidas y dimensionadas por los organismos competentes, en concordancia con los estudios técnicos de riesgo e impacto ambiental, que les sean exigibles.
 
-El artículo segundo de la RES 112, Gobierno Regional Región del Bio Bio, publicada el 31.03.2006, modificó la presente norma, en la forma que en la citada norma se indica. Dicha actualización no se ha incorporado por razones técnicas temporales.
+</NOTA>
 
 > **Nota.** El artículo primero de la RES 8, Gobierno Reg., Región del Bío Bío, agrega en el destino de equipamientos permitidos de la presente norma, los tipos de equipamiento de culto y científico.
+
+> **Nota.** NOTA 1 La letra a) de la Resolución 146, Gobierno Regional del Bío Bío, publicada el 30.11.2009, modifica la presente norma en el sentido de prorrogar por 5 años, a partir del 14 de febrero de 2010, las declaratorias de utilidad pública correspondientes a los terrenos destinados a vías troncales propuestas, emplazadas en el Área Urbana del Plan Regulador Metropolitano de Concepción, e identificadas en el cuadro del artículo 7.1.2.
+
+> **Nota.** NOTA 2 La letra b) de la Resolución 146, Gobierno Regional del Bío Bío, publicada el 30.11.2009, modifica la presente norma en el sentido de cambiar la jerarquía vial del Puente Llacolén y del futuro Puente Chacabuco de categoría Colectora a Troncal, eliminando ambas filas del Cuadro del artículo 7.1.3. y agregándolas al final del Cuadro del artículo 7.1.2.
+
+> **Nota.** NOTA 3 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del artículo 7.1.2, en el sentido de eliminar la fila correspondiente a la vía "Manuel Montt (Ruta a Rafael)" de la comuna de Tomé y también la fila correspondiente a la vía "Longitudinal Escuadrón" de la comuna de Coronel. Además ordena cambiar la categoría de "Expresa" a "Troncal" y disminuir el ancho mínimo entre líneas oficiales de 30 a 20 m. a la vía "Ruta Tomé-Rafael y finalmente, ordena disminuir el ancho mínimo entre líneas oficiales de 20 a 15 m. para la vía troncal "V. Palacios/ R. León Luco/ Maipú".
+
+> **Nota.** NOTA 4 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del artículo 7.1.3, en el sentido de agregar las filas de acuerdo al orden de la comuna correspondiente que la propia norma indica.
+
+> **Nota.** NOTA 5 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el Artículo 2.0.1, en el sentido de agregar la cita de la comuna de Hualpén.
+
+> **Nota.** NOTA 6 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.3, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Costanera Lenga y Camino a Hualpén.
+
+> **Nota.** NOTA 7 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.5, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Las Golondrinas, Camino Lenga, Costanera Lenga, Gran Bretaña 2, Camino Desembocadura y Costanera Ribera Norte 1.
+
+> **Nota.** NOTA 8 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de agregar la cita de la comuna de Hualpén correspondiente a las filas de las siguientes vías: Puente Nº 4, Colón 2 y Las Golondrinas.<NOTA: NOTA AL PIE 130 - 0> El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Acceso Norte Puente Nº 4, Costanera Ribera Norte 1, Arteaga Alemparte, Gran Bretaña 2, Camino a Lenga y Camino Desembocadura.</NOTA>
+
+> **Nota.** NOTA 9 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Acceso Norte Puente Nº 4, Costanera Ribera Norte 1, Arteaga Alemparte, Gran Bretaña 2, Camino a Lenga y Camino Desembocadura.
