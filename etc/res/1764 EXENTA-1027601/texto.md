@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.764, de 4 de julio de 2011, de esta Subsecretaría, recházanse las solicitudes números 206104005, 207122040, 207122039, 207122053, 207122043, 207122041 y 208103123, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 4 de julio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
