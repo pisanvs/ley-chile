@@ -3202,21 +3202,73 @@ Punto Latitud S Longitud W
 
 r) Sector: Surweste de Isla Melchor
 
-.
+COORDENADAS GEOGRÁFICAS EN DATUM LOCAL
+
+Punto Latitud S Longitud W
+
+1 45º 10' 45,00" 74º 04' 32,00"
+
+2 45º 11' 50,00" 74º 10' 43,00"
+
+3 45º 10' 42,00" 74º 12' 16,00"
 
 s) Sector: Norweste Isla Victoria
 
-.
+COORDENADAS GEOGRÁFICAS EN DATUM LOCAL
+
+Punto Latitud S Longitud W
+
+1 45º 15' 17,00" 74º 09' 42,00"
+
+2 45º 13' 16,00" 74º 10' 12,00"
+
+3 45º 12' 04,00" 74º 05' 47,00"
+
+4 45º 12' 20,00" 74º 01' 45,00"
 
 t) Sector: Entre Isla Melchor e Isla Victoria (Canal Carrera del Chivato)
 
-.
+COORDENADAS GEOGRÁFICAS EN DATUM LOCAL
+
+Punto Latitud S Longitud W
+
+1 45º 15' 17,00" 73º 54' 37,00"
+
+2 45º 15' 49,00" 73º 54' 37,00"
+
+3 45º 12' 20,00" 74º 01' 45,00"
+
+4 45º 11' 45,00" 74º 01' 45,00"
+
+5 45º 11' 45,00" 73º 55' 09,00"
+
+6 45º 12' 00,00" 73º 55' 09,00"
 
 u) Sector: Noreste Isla Dring
 
-.
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 10' 00,00" 74º 19' 52,00"
+
+2 45º 12' 00,00" 74º 15' 15,00"
+
+3 45º 12' 10,00" 74º 14' 08,00"
+
+4 45º 12' 26,00" 74º 13' 24,00"
+
+5 45º 13' 02,00" 74º 12' 34,00"
 
 v) Sector: Saco Estero Bután
+
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 16' 30,00" 74º 15' 19,00"
+
+2 45º 16' 30,00" 74º 16' 20,00"
 
 1.3. Elimínanse de esta área los sectores
 
@@ -3788,15 +3840,89 @@ Carta SHOA vigente N° 8646, escala 1:40.000,
 
 a) Sector: Isla Tres Dedos
 
-.
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 13' 27,00" 74º 38' 42,00"
+
+2 45º 13' 27,00" 74º 38' 15,10"
+
+3 45º 16' 11,50" 74º 34' 00,00"
+
+4 45º 17' 57,30" 74º 33' 15,00"
+
+5 45º 18' 41,90' 74º 33' 52,89"
+
+6 45º 18' 55,90" 74º 34' 03,80"
+
+7 45º 21' 27,00" 74º 35' 02,90"
+
+8 45º 21' 27,00" 74º 38' 42,00"
+
+9 45º 16' 55,00" 74º 38' 42,00"
+
+10 45º 16' 48,20" 74º 38' 42,00"
+
+11 45º 16' 28,80" 74º 38' 42,00"
+
+12 45º 16' 13,70" 74º 38' 42,00"
+
+Coordenadas Fondeadero: Radio de borneo de 2 cables.
+
+A 45º 18' 54.50" 74º 33' 45.40"
 
 b) Sector: Isla Isquiliac
 
-.
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 21' 27,00" 74º 31' 15,50"
+
+2 45º 21' 27,00" 74º 33' 03,50"
+
+3 45º 19' 05,80" 74º 32' 53,60"
+
+4 45º 13' 27,00" 74º 28' 03,10"
+
+5 45º 13' 27,00" 74º 27' 34,00"
+
+6 45º 14' 31,90" 74º 27' 34,00"
+
+7 45º 14' 33,80" 74º 27' 34,00"
+
+8 45º 15' 53,40" 74º 27' 34,00"
+
+9 45º 16' 28,10" 74º 27' 34,00"
+
+10 45º 17' 52,30" 74º 27' 34,00"
 
 c) Sector: Isla Lemu
 
-.
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 13' 27,00" 74º 31' 21,20"
+
+2 45º 13' 27,00" 74º 30' 48,70"
+
+3 45º 13' 27,00" 74º 30' 18,40"
+
+4 45º 13' 27,00" 74º 30' 00,00"
+
+5 45º 13' 27,00" 74º 29' 55,80"
+
+6 45º 13' 27,00" 74º 29' 45,20"
+
+7 45º 14' 55,50" 74º 31' 00,90"
+
+8 45º 14' 43,90" 74º 34' 07,50"
+
+9 45º 13' 27,00" 74º 35' 56,00"
+
+10 45º 13' 27,00" 74º 34' 47,05"
 
 6.- Elimínase el "ÁREA PUERTO ITALIANO".
 
@@ -4826,6 +4952,40 @@ Punto Lat. Sur Long. Oeste
 
 b) Sector: Islas Garrido y Rivero
 
+COORDENADAS GEOGRÁFICAS (SAD-69)
+
+Punto Lat. Sur Long. Oeste
+
+1 45° 29' 40,00" 74° 25' 47,11"
+
+2 45° 29' 40,00" 74° 26' 30,00"
+
+3 45° 29' 07,20" 74° 26' 30,00"
+
+4 45° 26' 16,90" 74° 26' 30,00"
+
+5 45° 25' 33,95" 74° 26' 30,00"
+
+6 45° 25' 56,10" 74° 24' 27,45"
+
+7 45° 26' 25,30" 74° 24' 10,75"
+
+8 45° 27' 30,75" 74° 25' 00,00"
+
+9 45° 28' 33,80" 74° 25' 27,40"
+
+10 45° 28' 36,45" 74° 24º 53,45"
+
+11 45° 27' 13,65" 74° 24' 14,25"
+
+12 45° 26' 34,65" 74° 23' 40,40"
+
+13 45° 26' 29,13" 74° 23' 12,00"
+
+14 45° 26' 45,30" 74° 23' 12,00"
+
+"
+
 9.- Elimínanse íntegramente las áreas denominadas
 
 PUERTO AURORA, PUERTO CONDELL Y ESTERO
@@ -5278,6 +5438,28 @@ Punto Latitud S Longitud W
 
 s) Sector: Este Canal Williams (Carta SHOA vigente N° 8640, escala 1:50.000, 1ª ed. 31 de Mayo 1985, Datum SAD-69)
 
+COORDENADAS GEOGRÁFICAS (SAD-69)
+
+Punto Latitud S Longitud W
+
+1 45º 36' 12,00" 74º 25' 51,00"
+
+2 45º 36' 12,00" 74º 27' 56,00"
+
+3 45º 35' 53,10" 74º 27' 09,20"
+
+4 45º 34' 38,70" 74º 27' 02,40"
+
+5 45º 35' 12,40" 74º 27' 40,30"
+
+6 45º 33' 18,00" 74º 27' 24,40"
+
+7 45º 32' 45,80" 74º 27' 24,40"
+
+8 45º 31' 48,00" 74º 27' 18,30"
+
+9 45º 31' 48,00" 74º 26' 53,60"
+
 t) Sector: Surweste Isla Garrido (Carta SHOA vigente N° 8640, escala 1:50.000, 1ª ed. 31 de Mayo 1985, Datum SAD-69)
 
 COORDENADAS GEOGRÁFICAS (SAD-69)
@@ -5290,11 +5472,19 @@ Punto Latitud S Longitud W
 
 3 45º 36' 12,00" 74º 29' 36,00"
 
-4 45º 34' 10,00" 74º 29' 57,60
+4 45º 34' 10,00" 74º 29' 57,60"
 
 u) Sector: Isla Clemente (Carta SHOA vigente N° 8640, escala 1:50.000, 1ª ed. 31 de Mayo 1985, Datum SAD-69)
 
-.
+COORDENADAS GEOGRÁFICAS (SAD-69)
+
+Punto Latitud S Longitud W
+
+1 45º 35' 00,00" 74º 30' 31,20"
+
+2 45º 36' 12,00" 74º 30' 15,50"
+
+3 45º 36' 12,00" 74º 30' 27,50"
 
 "
 
@@ -5313,6 +5503,18 @@ Carta SHOA vigente N° 8700, escala 1:150.000,
 1ª ed. 29 de Agosto 1986, Datum Local.
 
 a) Sector: Surweste Isla Isquiliac
+
+COORDENADAS NUEVAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 24' 22,00" 74º 23' 12,00"
+
+2 45º 24' 22,00" 74º 26' 29,40"
+
+3 45º 21' 22,00" 74º 32' 19,00"
+
+4 45º 21' 22,00" 74º 29' 32,30"
 
 b) Sector: Weste Isla Garrido
 
@@ -5395,6 +5597,18 @@ Punto Latitud S Longitud W
 5 46º 02' 58,00" 74º 48' 54,00"
 
 g) Sector: Norte de Isla Clemente
+
+COORDENADAS GEOGRÁFICAS (LOCAL)
+
+Punto Latitud S Longitud W
+
+1 45º 36' 12,00" 74º 37' 18,00"
+
+2 45º 36' 12,00" 74º 40' 00,00"
+
+3 45º 35' 32,00" 74º 40' 00,00"
+
+4 45º 34' 30,00" 74º 33' 35,00"
 
 h) Sector: Saco de Estero Walker
 
@@ -5575,10 +5789,6 @@ aquellas fijadas en legislación aplicable."
 III. Sin perjuicio de las modificaciones a los D.S. (M) Nº 359, de 1995, y Nº 350, de 1996, efectuadas por el presente decreto, en aquellas áreas que hayan sido desafectadas de su condición de A.A.A. en virtud del D.S. (M) Nº 252, de 3 de septiembre de 2009, del Ministerio de Defensa Nacional, se entenderán subsistentes tales A.A.A. para todos los efectos, sólo en la extensión de aquellas concesiones de acuicultura que se encontraran vigentes a la fecha de publicación del D.S. (M) Nº 252 en el Diario Oficial, hasta que tales concesiones de acuicultura terminen por cualquier causa legal.
 
 Lo anterior se entiende sin perjuicio de lo dispuesto en el número II.- del D.S. (M) Nº 252 antes citado.
-
-> **Nota.** La letra C del Numeral I del Decreto 2348 exento, Defensa, publicado el 26.08.2011, introdujo diversas modificaciones en la presente norma. Por cuanto respecto de algunas de ellas no fue posible la elaboración un nuevo texto a partir del vigente, no se ha podido incorporar dichas modificaciones en esta actualización.
-
-> **Nota.** NOTA 1 El numeral II del Decreto 604 Exento, Defensa, publicado el 10.10.2018, introdujo diversas modificaciones en la presente norma. Por cuanto respecto de algunas de ellas no fue posible la elaboración un nuevo texto a partir del vigente, no se ha podido incorporar dichas modificaciones en esta actualización.
 
 IV. Anótese, comuníquese y publíquese en el Diario Oficial.- Por orden del Sr. Presidente de la República, Jaime Ravinet de la Fuente, Ministro de Defensa Nacional.
 
