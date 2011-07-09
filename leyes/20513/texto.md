@@ -18,9 +18,9 @@ b) Reemplázase el artículo 5º transitorio por el siguiente:
 
 #### Artículo 5º
 
-Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente las licencias profesionales clases A-3 y A-5. En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.".".
+Los titulares de licencias de conductor Clase A-1 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente la licencia profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2 otorgadas con anterioridad al 8 de marzo de 1997 y que mantengan su vigencia a la fecha de publicación de esta ley, podrán obtener directamente las licencias profesionales clases A-3 y A-5.
 
-> **Nota.** La letra b) de la presente norma, que reemplaza el artículo 5° transitorio de la Ley de Tránsito, fue publicado como un solo inciso. Sin embargo, tanto en el oficio de ley enviado al Ejecutivo y como el enviado por este último al Diario Oficial tiene 2 incisos, por lo que claramente hay un error en la publicación.
+En los casos aludidos en el inciso anterior, deberá acreditarse haber aprobado un curso de capacitación en la forma que determine el Ministerio de Transportes y Telecomunicaciones.
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
