@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de Resolución Ex. del Servicio de Impuestos Internos Nº 87, del 6 de julio de 2011, que autoriza a las instituciones sin fines de lucro, Congregación Hermanas Hospital del Sagrado Corazón de Jesús, Rol Único Tributario Nº 65.299.620-5, Fundación Paternitas, Rol Único Tributario Nº 72.026.600-8, Fundación Scalabrini, Rol Único Tributario Nº 65.337.630-8, Patronato Nacional de la Infancia, Rol Único Tributario Nº 81.725.000-9, Fundación Gente de la Calle, Rol Único Tributario Nº 65.443.510-3, y Organización No Gubernamental de Desarrollo para Personas en Vulnerabilidad Social, Rol Único Tributario Nº 65.237.280-5, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en Boletín del SII en julio de 2011.
