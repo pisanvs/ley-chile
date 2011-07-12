@@ -1,0 +1,3 @@
+Por resolución exenta Nº1.745, de 1 de julio de 2011, de esta Subsecretaría, modifícase el inciso segundo del numeral 3.- de la resolución exenta Nº 546, modificada por las resoluciones exentas Nº 1.378 y Nº 1.619, todas de 2011, de esta Subsecretaría, que autorizó a CONSULTORA PUPELDE LIMITADA para efectuar una pesca de investigación, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Operación de un sistema de monitoreo de la pesquería del Erizo de aguas Interiores al Norte de las islas Chauques, Región de Los Lagos, 2011", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 14 de octubre de 2011, inclusive.
+
+Valparaíso, 1 de julio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
