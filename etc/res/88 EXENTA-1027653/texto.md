@@ -1,0 +1,7 @@
+AUTORIZA EMISOR ELECTRÓNICO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 88, de 7 de julio de 2011, que autoriza a contribuyentes como emisores electrónicos.
+
+Se autoriza como emisor de documentos tributarios a contribuyentes: RUT 78.022.300-6, RUT 76.109.627-3, RUT 76.708.710-1, RUT 76.121.797-6, RUT 76.038.897-1, RUT 80.201.600-K, RUT 76.137.929-1, RUT 78.611.770-4, RUT 77.251.130-2, RUT 76.067.865-1, RUT 76.087.670-4, RUT 76.034.337-4, RUT 76.110.545-0, RUT 86.206.000-8, RUT 76.130.276-0, RUT 77.099.980-4, RUT 76.069.087-2, RUT 77.330.120-4, RUT 78.026.330-K, RUT 96.759.900-K, RUT 88.922.800-8, RUT 77.794.250-6, RUT 96.607.990-8, RUT 76.113.372-1, RUT 96.991.480-8, RUT 76.088.828-1, RUT 76.009.698-9, RUT 91.482.000-6, RUT 76.062.072-6, RUT 15.816.568-6, RUT 76.094.629-K, RUT 76.000.746-3, RUT 79.541.150-K, RUT 96.822.490-5, RUT 93.797.000-5, RUT 76.017.314-2, RUT 76.082.528-K, RUT 89.091.900-6, RUT 76.573.480-0, RUT 79.563.120-8, RUT 77.847.990-7, RUT 77.489.910-3, RUT 78.795.960-1, RUT 76.020.765-9, RUT 76.375.350-6, RUT 76.031.716-0, RUT 77.530.990-3 y RUT 77.555.640-4, a contar del mes de julio 2011. En la Oficina Virtual del SII en Internet se podrán consultar los documentos que los contribuyentes están autorizados a emitir en forma electrónica.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2011.
