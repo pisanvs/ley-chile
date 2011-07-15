@@ -6,7 +6,7 @@ Núm. 3.563.- Visto: El D.S. N° 1 (V. y U.), de 2011, que regula el Sistema Int
 
 Resolución:
 
-1º.- Llámase a partir del 22 de junio y hasta el 15 de julio de 2011, ambas fechas inclusive, a postulación nacional para el Sistema Integrado de Subsidio Habitacional en sus Títulos I y II, conforme a las disposiciones del D.S. Nº 1 (V. y U.), de 2011, período en que los SERVIU procederán a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
+1º.- Llámase a partir del 22 de junio y hasta el 22 de julio de 2011, ambas fechas inclusive, a postulación nacional para el Sistema Integrado de Subsidio Habitacional en sus Títulos I y II, conforme a las disposiciones del D.S. Nº 1 (V. y U.), de 2011, período en que los SERVIU procederán a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
 2º.- El monto de Unidades de Fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del D.S. Nº 1 (V. y U.), de 2011, se distribuirán regionalmente, por Título y alternativa de postulación, según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante Resolución, en caso de agotarse los recursos para un Título y/o alternativa, quedando excedentes en otras:
 
@@ -18,7 +18,7 @@ Para los efectos de determinar el número de Certificados de Subsidio susceptibl
 
 a.- Quienes postulen entre el 22 y el 30 de junio de 2011, ambas fechas inclusive, deberán acreditar haber enterado al 31 de mayo de 2011, el ahorro mínimo exigido para el Título al que postulan.
 
-b.- Quienes postulen entre el 1° y el 15 de julio de 2011, ambas fechas inclusive, deberán acreditar haber enterado al 30 de junio de 2011, el ahorro mínimo exigido para el Título al que postulan.
+b.- Quienes postulen entre el 1° y el 22 de julio de 2011, ambas fechas inclusive, deberán acreditar haber enterado al 30 de junio de 2011, el ahorro mínimo exigido para el Título al que postulan.
 
 6º.- Para los efectos de lo dispuesto en la letra c) del artículo 67 del Título II del D.S. N° 1 (V. y U.), de 2011, regirán las zonas de renovación urbana determinadas mediante resolución exenta Nº 843, de este Ministerio, de 1995 y sus modificaciones y las zonas de desarrollo prioritario determinadas mediante resolución exenta Nº 1.366, de este Ministerio, de 2001 y sus modificaciones, en las cuales los postulantes que resultaren seleccionados para el goce del subsidio habitacional que regula el Título II referido, podrán aplicar el subsidio a la adquisición de una vivienda nueva, entendiéndose que las referencias que en dichas resoluciones se hacen al D.S. Nº 44 (V. y U.), de 1988, se encuentran referidas al D.S. Nº 1 (V. y U.), de 2011, en lo que corresponda.
 
