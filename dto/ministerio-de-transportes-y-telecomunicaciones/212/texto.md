@@ -922,7 +922,7 @@ No obstante lo dispuesto en el artículo precedente, el Secretario Regional, med
 
 A los vehículos que presten servicio bajo esta submodalidad no les será aplicable lo dispuesto en el inciso primero del artículo 76º, no deberán tener la información, letreros e indicaciones a que se refieren el inciso tercero del artículo 76º y los artículos 78º, 80º y 84º y deberán contar con una antigüedad máxima de ocho (8) años en el caso de vehículos que cuenten con un motor de menos de 2,0 litros de cilindrada y de diez (10) años para vehículos que cuenten con un motor igual o superior a 2,0 litros de cilindrada. Para estos efectos, en la categoría de motor de 2,0 litros, quedarán comprendidos aquellos cuya cilindrada sea superior a 1.950 cc. e inferior a 2.051 cc.
 
-La restricción de antigüedad establecida en el inciso anterior, no será aplicable a los vehículos construidos de fábrica para operar con gas natural o gas licuado de petróleo.
+La restricción de antigüedad establecida en el inciso anterior, no será aplicable a los vehículos construidos de fábrica para operar con gas natural o gas licuado de petróleo, vehículo eléctrico puro o vehículo híbrido, definidos para estos efectos en el artículo siguiente.
 
 #### Artículo 73°
 
@@ -930,9 +930,11 @@ Para prestar servicios de taxi, los automóviles deberán cumplir con los siguie
 
 a) Ser vehículos de una antiguedad no superior a un año, al solicitar su incorporación al Registro Nacional por primera vez. La antiguedad se calculará como la diferencia entre el año en que se solicita la inscripción y el año de fabricación o modelo de del vehículo anotado en el Registro de Vehículos Motorizados.
 
-b) contar con un motor de 1,5 litros de cilindrada o superior, para prestar servicio de taxis, en cualquiera de sus modalidades.
+b) contar con un motor de 1,5 litros de cilindrada o superior, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
 
 Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc.
+
+Tratándose de vehículos eléctrico puro o híbrido la potencia para su propulsión deberá ser igual o superior a 70 kw.
 
 c) estar pintados de acuerdo con las normas del presente reglamento;
 
