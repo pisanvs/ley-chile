@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIÓN DE INMUEBLES QUE INDICA
+
+1) Resolución Nº 1.714 de fecha 30 de junio 2011, del Servicio de Vivienda y Urbanización Región del Libertador General Bernardo O'Higgins, ordenó expropiación total de inmuebles y derechos cuotativos ubicados en Conjunto Habitacional Villa Cordillera, según se indica en el siguiente cuadro:
+
+Pertenecientes al Conjunto Habitacional Villa Cordillera. Comisión Tasadora integrada por los peritos don Jorge Godoy Rojas, Carlos Henríquez Durán y Jorge Rosales Flores, Arquitecto, Arquitecto y Constructor Civil, respectivamente, según Informe de fecha marzo de 2011, monto provisional para: Claudia Carolina Guajardo Rodríguez $5.358.230.-; Juan Luis Turra Sepúlveda $5.358.230.-; Ángel Fabián Palma Zamorano $4.643.799.-; Adelina Aliste Díaz $4.438.444.-; Securitazora Security GMA $4.884.335; Patricio del Carmen Guzmán Carrasco $5.358.230.-; Gabriela del Tránsito Gajardo Acuña $5.358.230.- Eduardo David Ramírez Olave $5.358.230.-; Aníbal de La Cruz Masías Sepúlveda $5.121.283.-; María Josefina López Valenzuela $4.884.335.-; Aldo Antonio Rivera Abarca $3.968.719.-; Patricia del Carmen Rodríguez Rojas $4.383.061.-; Jaime Hernán Romero Fuenzalida $4.383.061.-; Hilda Cofré Luna $4.175.890.-; Carmen Julia Castro Arriagada $4.383.061.-; María Rosa Jerez Orellana $4.175.890.-, cuyo pago se realizará mediante consignación en Cuenta Corriente del Tribunal correspondiente.
+
+Director (S) del Servicio de Vivienda y Urbanización Región del Libertador General Bernardo O'Higgins.
