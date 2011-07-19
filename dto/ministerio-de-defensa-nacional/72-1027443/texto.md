@@ -24,13 +24,11 @@ Grados
 
 3.- Establécese en 503 el número de empleos del Personal de Nombramiento Institucional de Fila de Orden y Seguridad que pueden ser llamados al Servicio, por una o más resoluciones del General Director de Carabineros, conforme a los siguientes grados:
 
-Empleos
-
-Grados
+Empleos Grados
 
 503 Suboficial Mayor, Suboficial,
 
-Sargento 1º y/o Sargento 2º 11, 12, 13 o 4
+Sargento 1° y/o Sargento 2° 11, 12, 13 o 14
 
 Tómese razón, comuníquese y publíquese en el Diario Oficial y en el Boletín Oficial de Carabineros de Chile.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Andrés Allamand, Ministro de Defensa Nacional.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
