@@ -568,6 +568,18 @@ que se refiere la oración final del inciso cuarto
 
 del artículo 3° del citado reglamento.
 
+Cuando se obtenga subsidio diferenciado a la
+
+localización, no será exigible el cumplimiento
+
+del requisito de aumentar el plazo de la
+
+prohibición de enajenar a favor del Serviu de
+
+5 a 15 años dispuesto en el artículo 70 del DS
+
+N° 174 (V. y U.), de 2005.
+
 q. Los proyectos de viviendas que se emplacen en
 
 áreas declaradas como Zonas de Conservación
@@ -576,15 +588,17 @@ Histórica o Zonas Típicas o Pintorescas, o se
 
 trate de Inmuebles de Conservación Histórica o
 
-Monumento Histórico, podrán obtener hasta 200
+Monumento Histórico, recibirán un incremento
 
-Unidades de Fomento adicionales siempre que
+del subsidio base de hasta 200 unidades de
 
-contribuyan a la recuperación del patrimonio
+fomento siempre que contribuyan a la
 
-arquitectónico y urbano del entorno, dando
+recuperación del patrimonio arquitectónico y
 
-cumplimiento a lo establecido en las respectivas
+urbano del entorno, dando cumplimiento
+
+a lo establecido en las respectivas
 
 normas, ordenanzas y/o instructivos de
 
@@ -659,6 +673,116 @@ de 2009, establecido en el artículo 19,
 inciso tercero, letra c), del mismo
 
 decreto.
+
+Tratándose de proyectos que cumplan las
+
+condiciones para obtener el incremento de
+
+subsidio de hasta 200 unidades de fomento
+
+a que se refiere este literal, los honorarios
+
+que correspondan a la EGIS por el área de
+
+elaboración de los proyectos técnicos, según lo
+
+establecido en la resolución N° 533 (V. y U.),
+
+de 1997, se incrementarán hasta por un monto
+
+de 30 unidades de fomento por familia, sin
+
+atender el tamaño del proyecto, por el desarrollo
+
+efectivo de las actividades que a continuación se
+
+indican:
+
+Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para Proyectos Patrimoniales
+
+El incremento de los honorarios de la EGIS
+
+establecidos en la presente resolución, se pagará
+
+en dos parcialidades; la primera, de hasta un 50%
+
+del monto del incremento, se pagará luego de
+
+seleccionado el proyecto y una vez acreditado
+
+ante Serviu el inicio de la ejecución de las
+
+obras de construcción, y el resto, se pagará una
+
+vez recepcionadas las obras de construcción del
+
+proyecto por la Dirección de Obras Municipales
+
+respectiva.
+
+En el caso que la EGIS no desarrolle
+
+efectivamente una o más de las actividades
+
+singularizadas en la tabla precedente o no se
+
+alcance, a juicio del Serviu, el producto
+
+definido, se deducirá proporcionalmente del
+
+incremento de honorarios a pagar, el monto
+
+correspondiente por la actividad no
+
+desarrollada.
+
+Con todo, en el caso que para la elaboración de
+
+los proyectos técnicos se consideren aportes
+
+provenientes del Gobierno Regional o de cualquier
+
+otra fuente pública o privada, por montos iguales
+
+o superiores al incremento de honorarios antes
+
+señalado, no procederá el incremento de
+
+honorarios dispuesto en la tabla anterior. Si el
+
+monto de dichos aportes fuere inferior, el
+
+incremento sólo procederá en la proporción que
+
+correspondiere para completarlo.
+
+Los informes que emitan los profesionales
+
+competentes deberán contener toda la información
+
+necesaria para sustentar técnicamente las
+
+soluciones constructivas contenidas en la
+
+intervención patrimonial.
+
+De acuerdo a las características de la
+
+intervención que se realice en la vivienda
+
+patrimonial, podrá seguirse el procedimiento
+
+de obtención de permiso de edificación que
+
+corresponda, de acuerdo a lo señalado en el
+
+## Título 5 — De la Construcción, Capítulo 1 De
+
+los Permisos de Edificación y sus Trámites,
+
+de la Ordenanza General de Urbanismo y
+
+Construcciones.
 
 r. Extraordinariamente cuando se trate de proyectos
 
@@ -848,13 +972,11 @@ comunidad y la constitución, por todos los
 
 comuneros, de la prohibición de enajenar a
 
-favor del Serviu, durante 5 años o 15
+favor del Serviu, durante 5 años contados
 
-años en el caso de haber obtenido subsidio a la
+desde la fecha de su inscripción en el
 
-localización, contados desde la fecha de su
-
-inscripción en el Conservador de Bienes Raíces.
+Conservador de Bienes Raíces.
 
 w. No será impedimento para la postulación de
 
@@ -1186,15 +1308,17 @@ z. Los proyectos de vivienda que se emplacen
 
 en áreas declaradas como Zonas con riesgo
 
-de inundación, podrán obtener hasta 150
+de inundación, recibirán un incremento
 
-Unidades de Fomento adicionales siempre que
+del subsidio base de hasta 150 unidades
 
-incluyan medidas destinadas a mitigar los
+de fomento siempre que incluyan medidas
 
-riesgos en cuestión. Mediante resoluciones
+destinadas a mitigar los riesgos en
 
-fundadas de la SEREMI de Vivienda y Urbanismo,
+cuestión. Mediante resoluciones fundadas
+
+de la SEREMI de Vivienda y Urbanismo,
 
 se podrá establecer el perímetro de la zona
 

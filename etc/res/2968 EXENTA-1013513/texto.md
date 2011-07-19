@@ -246,15 +246,17 @@ Histórica o Zonas Típicas o Pintorescas, o se
 
 trate de Inmuebles de Conservación Histórica
 
-o Monumento Histórico, podrán obtener hasta 200
+o Monumento Histórico, recibirán un incremento
 
-Unidades de Fomento adicionales siempre que
+del subsidio base de hasta 200 unidades de
 
-contribuyan a la recuperación del patrimonio
+fomento siempre que contribuyan a la
 
-arquitectónico y urbano del entorno, dando
+recuperación del patrimonio arquitectónico
 
-cumplimiento a lo establecido en las respectivas
+y urbano del entorno, dando cumplimiento
+
+a lo establecido en las respectivas
 
 normas, ordenanzas y/o instructivos de
 
@@ -315,6 +317,118 @@ Construcción aprobado por resolución exenta Nº
 2.070 (V. y U.), de 2009, a que alude el artículo
 
 19, inciso tercero, letra c), del mismo decreto.
+
+Tratándose de proyectos que cumplan las
+
+condiciones para obtener el incremento de
+
+subsidio de hasta 200 unidades de fomento a que
+
+se refiere este literal, los honorarios que
+
+corresponda pagar por la Asesoría Técnica y
+
+Jurídica según lo establecido en el Resuelvo 5
+
+de esta resolución, se incrementarán hasta por
+
+un monto de 30 unidades de fomento por familia,
+
+sin atender el tamaño del proyecto, por el
+
+desarrollo efectivo de las actividades que
+
+a continuación se indican:
+
+Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para Proyectos Patrimoniales
+
+El incremento de los honorarios establecidos en
+
+la presente resolución, se pagará una vez
+
+recepcionadas las obras de construcción del
+
+proyecto por la Dirección de Obras Municipales
+
+respectiva e inscrita, en el Conservador de
+
+Bienes Raíces respectivo, la prohibición de
+
+enajenar a favor de Serviu por 5 años según lo
+
+establecido en el artículo 55 del DS N° 174
+
+(V. y U.), de 2005, o suscrita la declaración
+
+jurada señalada en el primer apartado del N° 2
+
+del mismo artículo, cuando corresponda.
+
+En el caso que la Asesoría Técnica y Jurídica
+
+no desarrolle efectivamente, una o más de las
+
+actividades singularizadas en la tabla
+
+precedente o no se alcance, a juicio del Serviu,
+
+el producto definido, se deducirá
+
+proporcionalmente del incremento de honorarios
+
+a pagar, el monto correspondiente por la
+
+actividad no desarrollada.
+
+Con todo, en el caso que para la elaboración
+
+de los proyectos técnicos se consideren aportes
+
+provenientes del Gobierno Regional o de
+
+cualquier otra fuente pública o privada, por
+
+montos iguales o superiores al incremento de
+
+honorarios antes señalado, no procederá el
+
+incremento de honorarios dispuesto en la tabla
+
+anterior. Si el monto de dichos aportes fuere
+
+inferior, el incremento sólo procederá en la
+
+proporción que correspondiere para
+
+completarlo.
+
+Los informes que emitan los profesionales
+
+competentes deberán contener toda la
+
+información necesaria para sustentar
+
+técnicamente las soluciones constructivas
+
+contenidas en la intervención patrimonial.
+
+De acuerdo a las características de la
+
+intervención que se realice en la vivienda
+
+patrimonial, podrá seguirse el procedimiento
+
+de obtención de permiso de edificación que
+
+corresponda, de acuerdo a lo señalado en el
+
+## Título 5 — De la Construcción, Capítulo 1 De
+
+los Permisos de Edificación y sus Trámites,
+
+de la Ordenanza General de Urbanismo y
+
+Construcciones.
 
 i) Los postulantes al Capitulo Primero del D.S. N°
 
@@ -528,9 +642,11 @@ p. Los proyectos de vivienda que se emplacen en
 
 áreas declaradas como zonas con riesgo de
 
-inundación, podrán obtener hasta 150 Unidades de
+inundación, recibirán un incremento del
 
-Fomento adicionales siempre que incluyan medidas
+subsidio base de hasta 150 unidades
+
+de fomento siempre que incluyan medidas
 
 destinadas a mitigar los riesgos en cuestión.
 
