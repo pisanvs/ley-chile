@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.479, de 2 de junio de 2011, de esta Subsecretaría, modifícase el numeral 3° de la resolución exenta Nº 786, de 2011, de esta Subsecretaría de Pesca que autorizó a MARITZA SEPÚLVEDA MARTÍNEZ para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Estudio demográfico del Lobo marino común (Otaria flavescens), en la I Región de Tarapacá", en el sentido de extender el área de estudio al área marítima comprendida entre el límite norte de la XV Región hasta el límite sur de la XII Región.
+
+Valparaíso, 2 de junio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
