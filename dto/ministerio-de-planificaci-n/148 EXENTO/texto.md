@@ -1,0 +1,39 @@
+ELIMINA A "VENEGAS SILVA LIMITADA – PRONTO CHILE" DEL REGISTRO PÚBLICO DE CONSULTORES Y EJECUTORES DEL FONDO DE SOLIDARIDAD E INVERSIÓN SOCIAL
+
+Santiago, 6 de julio de 2011.- Hoy se decretó lo que sigue:
+
+Núm. 148 exento.- Vistos: Lo dispuesto en los artículos 7 y siguientes de la Ley N° 18.989, Orgánica del Ministerio de Planificación; en el decreto supremo Nº 55, de 1990, del Ministerio de Planificación y Cooperación, que Aprueba el Reglamento de Incorporación al Registro de Consultores y ejecutores del FOSIS; decreto N° 19, de 2001, de la Secretaría General de la Presidencia que faculta a los Ministros de Estado para firmar "Por orden del Presidente de la República"; en el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley N° 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón.
+
+Considerando:
+
+Que, el artículo 10 de la ley Nº 19.889 que crea el Ministerio de Planificación, establece que existirá un registro público de personas naturales y jurídicas habilitadas para contratar con el Fondo de Solidaridad e Inversión Social, y, dispone su inciso 4°, que la eliminación de las personas incorporadas a dicho registro, se hará por decreto fundado del Ministerio de Planificación, basado en la pérdida de requisitos o en el incumplimiento de obligaciones contractuales con dicho Fondo.
+
+Que, el artículo 12 letra c) del decreto N° 55, de 1990, del Ministerio de Planificación, que Aprueba el Reglamento de Incorporación al Registro de Consultores y Ejecutores del Fondo de Solidaridad e Inversión Social, señala que será eliminado del registro, aquel que incurra en incumplimiento contractual con el Fondo de Solidaridad e Inversión Social.
+
+Que, mediante resolución N°54, de fecha 10 de marzo de 2005, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, se aprobó la incorporación al Registro Público de Consultores y Ejecutores del Fondo de Solidaridad e Inversión Social de la XIII Región Metropolitana del Ejecutor "Venegas Silva Limitada - Pronto Chile", quedando registrado bajo el N° 131.745 en la categoría de Consultor- Ejecutor.
+
+Que, por resolución exenta Nº 815, de fecha 17 de mayo de 2010, se declaró el término anticipado del contrato suscrito con fecha 24 de agosto de 2009, y aprobado por resolución exenta Nº 1.659, de fecha 23 de septiembre de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa de Apoyo al Microemprendimiento del Fondo de Solidaridad e Inversión Social, denominado "Financiamiento FOSIS para microemprendedores participantes del Sistema Chile Solidario", por incumplimiento contractual.
+
+Que, por resolución exenta Nº 816, de fecha 17 de mayo de 2010, se declaro el término anticipado del contrato suscrito con fecha 13 de octubre de 2009, y aprobado por resolución exenta Nº 1.798, de fecha 30 de octubre de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa de Apoyo al Microemprendimiento - Empleo Extraordinario del Fondo de Solidaridad e Inversión Social, denominado "Fortalecimiento del empleo", por incumplimiento contractual.
+
+Que, por resolución exenta Nº 817, de fecha 17 de mayo de 2010, se declaró el término anticipado del contrato suscrito con fecha 13 de mayo de 2009, y aprobado por resolución exenta Nº 829, de fecha 26 de junio de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa Preparación para el Trabajo del Fondo de Solidaridad e Inversión Social, denominado "Fortalecer la nivelación de competencias laborales, desde su componente de formación sociolaboral" por incumplimiento contractual.
+
+Que, por resolución exenta Nº 18, de fecha 17 de mayo de 2010, se declaró el término anticipado del contrato suscrito con fecha 22 de mayo de 2009, y aprobado por resolución exenta Nº 806, de fecha 24 de junio de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa denominado "Generar condiciones que favorezcan la incorporación y permanencia de los jóvenes en situación de vulnerabilidad social en el mercado laboral y generación de ingresos", por incumplimiento contractual.
+
+Que, por resolución exenta Nº 837, de fecha 19 de mayo de 2010, se declaró el término anticipado del contrato suscrito con fecha 4 de mayo de 2009, y aprobado por resolución exenta Nº 723, de fecha 16 de junio de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa "Presentaciones técnicas, específicas y financiamiento para microemprendedores participantes del Sistema Chile Solidario", por incumplimiento contractual.
+
+Que, por resolución exenta Nº 838, de fecha 19 de mayo de 2010, se declaró el término anticipado del contrato suscrito con fecha 9 de marzo de 2010, y aprobado por resolución exenta Nº 571, de fecha 30 de marzo de 2010, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa de Desarrollo Social del Fondo de Solidaridad e Inversión Social, denominado "Fortaleciendo el desarrollo socioeducativo de las personas en situación de pobreza", por incumplimiento contractual.
+
+Que, por resolución exenta Nº 839, de fecha 19 de mayo de 2010, se declaro el término anticipado del contrato suscrito con fecha 14 de diciembre de 2009, y aprobado por resolución exenta Nº 2.134, de fecha 30 de diciembre de 2009, de la Dirección Regional Metropolitana del Fondo de Solidaridad e Inversión Social, con "Venegas Silva Limitada - Pronto Chile", del Programa Fortalecimiento de la Empleabilidad Juvenil del Fondo de Solidaridad e Inversión Social, denominado "Fortalecer la empleabilidad de los jóvenes de la Región Metropolitana", por incumplimiento contractual.
+
+Que, por todo lo señalado precedentemente, corresponde eliminar a la sociedad "Venegas Silva Limitada - Pronto Chile", del registro público de personas naturales y jurídicas habilitadas para contratar con el Fondo de Solidaridad e Inversión Social, por haber incurrido en reiterados incumplimientos de obligaciones contractuales con el Fondo de Solidaridad e Inversión Social.
+
+Decreto:
+
+1° Elimínase del Registro Público de Ejecutores y Consultores del Fondo de Solidaridad e Inversión Social a "Venegas Silva Limitada - Pronto Chile" RUT 76.230.630-1, y cuyo número de inscripción es el N° 131.7453, por incumplimiento contractual con dicho Fondo, de conformidad con lo dispuesto en el artículo 10 inciso cuarto de la ley N° 18.989 que crea el Ministerio de Planificación, y en el artículo 12 letra c) del decreto N° 55, de 1990, del Ministerio de Planificación, que Aprueba el Reglamento de Incorporación al Registro de Consultores y Ejecutores del FOSIS.
+
+2° Notifíquese por carta certificada a la sociedad "Venegas Silva Limitada - Pronto Chile" del presente decreto, una vez que se encuentre totalmente tramitado.
+
+Anótese, comuníquese y publíquese.- Felipe Kast Sommerhoff, Ministro de Planificación.
+
+Lo que comunico a Ud. para su conocimiento.- Soledad Arellano Schmidt, Subsecretaria de Planificación.
