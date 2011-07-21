@@ -1,0 +1,13 @@
+NOMBRA PRESIDENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE ANTOFAGASTA
+
+Núm. 766.- Santiago, 8 de junio de 2011.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; Acuerdo de Pleno Nº 143, de la I. Corte de Apelaciones de Antofagasta, de 6 de diciembre de 2010; oficio Nº 3653-2010, de la I. Corte de Apelaciones de Antofagasta, de 29 de marzo de 2011; el Ord. Nº 1234, de 23 de mayo de 2011, del Servicio de Impuestos Internos; el Nº 25 del numeral VI del artículo 1º del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600, de 30 de octubre de 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República,
+
+Decreto:
+
+1.- En el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Antofagasta, déjanse sin efecto las designaciones recaídas en la Ministra señora Marta Carrasco Arellano, RUT Nº 3.947.557-K, como Presidente Titular, y en la Ministra señora Laura Soto Torrealba, RUT Nº 5.569.364-1, como Presidente Suplente, efectuadas por decreto supremo Nº 1.049, del Ministerio de Hacienda, de 21 de septiembre de 2009, publicado en el Diario Oficial el 9 de diciembre del mismo año, y nómbrase en su reemplazo a la Ministra señora Laura de los Ángeles Soto Torrealba, RUT Nº 5.569.364-1, como Presidente Titular, y al Ministro señor Óscar Eduardo Clavería Guzmán, RUT Nº 5.427.368-1, como Presidente Suplente.
+
+2. En el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Antofagasta, déjanse sin efecto las designaciones recaídas en la Ministro señora Virginia Soublette Miranda, RUT Nº 7.688.804-3, como Presidente Titular, y en el Ministro señor Óscar Clavería Guzmán, RUT Nº 5.427.368-1, como Presidente Suplente, efectuadas por decreto supremo Nº 1.049, del Ministerio de Hacienda, de 21 de septiembre de 2009, publicado en el Diario Oficial el 9 de diciembre del mismo año, y nómbrase en reemplazo a la Ministra señora Cristina de Lourdes Araya Pastene, RUT Nº 5.823.133-9, como Presidente Titular, y al Ministro señor Dinko Antonio Franulic Cetinic, RUT Nº 8.999.821-2, como Presidente Suplente.
+
+Tómese razón, regístrese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, Rodrigo Álvarez Zenteno, Subsecretario de Hacienda.
