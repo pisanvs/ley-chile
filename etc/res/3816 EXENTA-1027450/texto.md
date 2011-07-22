@@ -24,7 +24,7 @@ Límite Norte: Quebrada La Cruz.
 
 Límite Oriente: Quebrada La Cruz.
 
-Límite Poniente: Quebrada Los Coques.
+Límite Poniente: Quebrada Los Coigües.
 
 Límite Sur: Divisadero Oriente - Circunvalación Oriente Poniente - Av. Almirante Simpson.
 
