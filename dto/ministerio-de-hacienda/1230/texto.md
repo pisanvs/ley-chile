@@ -384,6 +384,28 @@ cobre y todo
 
 70°18'30" W aduaneras.
 
+20. Terminal Marítimo Permanente Paso de personas,
+
+Vopak Oxiquim, exportación e importación de
+
+en la comuna de graneles líquidos, rancho de
+
+Mejillones naves y todo tipo de
+
+operaciones aduaneras.
+
+21. Muelle Terquim Permanente Paso de personas,
+
+S.A., ubicado en exportación e importación
+
+la bahía de de graneles líquidos,
+
+Mejillones. rancho de naves y todo
+
+tipo de operaciones
+
+aduaneras.
+
 E. SUJETOS A LA JURISDICCION DE LA ADUANA DE CHAÑARAL:
 
 Punto Habilitado Habilitación Operaciones aduaneras
