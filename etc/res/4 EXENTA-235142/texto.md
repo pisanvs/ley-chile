@@ -58,7 +58,7 @@ contaminación ambiental tales como contaminación de suelos, aire, agua, tanto 
 
 16.- Fiscalizar las materias relativas a seguridad química, tales como el control de sustancias tóxicas corrosivas, inflamables o peligrosas para la salud de las personas, control de residuos industriales líquidos (riles), y control de residuos sólidos tanto en su elaboración, generación, transporte, y disposición final.
 
-17.- Fiscalizar las materias relativas al Reglamento Sanitario de los Alimentos, tales como control de locales de producción, elaboración, envase, almacenamiento, distribución y expendio de alimentos, venta de alimentos, asimismo, los vehículos de transporte y distribución de las mismas, y control de mataderos y frigoríficos, control de la Ley de Certificación de Carnes, y autorizar el expendio de alimentos en quioscos, puestos de venta en la vía pública y en ferias libres y el que se efectúe por vendedores ambulantes en las condiciones determinadas por los reglamentos, entre otras.
+17.- Fiscalizar las materias relativas al Reglamento Sanitario de los Alimentos, tales como control de locales de producción, internación y o importación, elaboración, envase, almacenamiento, distribución y expendio de alimentos, venta de alimentos, asimismo, los vehículos de transporte y distribución de las mismas, y control de mataderos y frigoríficos, control de la Ley de Certificación de Carnes, y autorizar el expendio de alimentos en quioscos, puestos de venta en la vía pública y en ferias libres y el que se efectúe por vendedores ambulantes en las condiciones determinadas por los reglamentos, entre otras.
 
 18.- Autorizar y fiscalizar las materias relativas a inhumación de restos humanos, tales como control de cementerios, crematorios, casas funerarias y otros similares, control de inhumaciones, cremación, transporte, traslado y exhumación de cadáveres o restos de ellos, tanto dentro del país como su traslado internacional.
 
@@ -133,6 +133,20 @@ internacional.
 50.- Fiscalizar y controlar el cumplimiento de las disposiciones del reglamento sobre seguridad de los juguetes según decreto supremo Nº 114 de 2005 del Ministerio de Salud.
 
 51.- Derógase la facultad otorgada en el Numeral 40 por tratarse de una materia de competencia de los Servicios de Salud conforme a la ley Nº 20.000 que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
+
+52.- Emitir cualquier tipo de certificados incluidos aquellos de libre venta u otros previo pago del arancel que proceda, como emitir certificados de destinación aduanera, resoluciones de autorización de uso y disposición de productos.
+
+53.- Emitir toda clase de oficios e informes en materias medio ambientales que sean de resolución del Servicio de Evaluación Ambiental, y o de la Superintendencia del Medio Ambiente como del Tribunal Ambiental.
+
+54.- Autorizar, mediante resolución fundada, el traslado de mariscos o productos del mar desde la Undécima Región a esta región o a otros puntos de destino.
+
+55.- Oficiar a las Direcciones Regionales de los Servicios Regionales como a los Alcaldes de la región u otras entidades públicas o privadas solicitando antecedentes o informes en materias de salud ambiental, sea que sirvan para los sumarios sanitarios como para fines de información y o estadísticos en razón de la aplicación de las leyes y reglamentos sanitarios vigentes.
+
+56.- Exigir y o en su caso, autorizar mediante resolución fundada, en el caso de productos alimenticios importados, el número y fecha de la resolución sanitaria que autoriza la internación del producto al país y autorizar la rotulación de dichos productos, con el nombre de la Secretaria Regional Ministerial que dictó dicha resolución, en el país de origen.
+
+57.- Suspender y o dejar sin efecto las medidas sanitarias de emergencia, cuando se hayan dispuesto mediante acta de inspección, o de infracción, levantada ante una emergencia sanitaria en el sitio del suceso y, asimismo, dictar por resolución fundada la medida de allanamiento y descerrajamiento si fuere necesario y, en su caso, dejarla sin efecto.
+
+58.- Autorizar al Jefe del Departamento de Salud Ambiental, titular o subrogante, por razones de buen servicio, la destinación transitoria del personal inspectivo fijando el periodo de ello, para cubrir funciones en carácter de urgente o programadas ante emergencias sanitarias, como se autoriza el despacho de oficios a los Jefes de las Oficinas Provinciales como de Futaleufú, Quellón, Barrera Sanitaria de Chacao, Ancud y otras que pudieren crearse, y que digan relación con materias sanitarias para conocimiento o cumplimiento de sus destinatarios, y, asimismo, podrá esta jefatura emitir oficios a los Directores Regionales y Alcaldes, o a sus jefaturas, requiriendo antecedentes, información o enviando documentación sobre tema de salud ambiental, y ello es sin perjuicio de que también esta Autoridad Sanitaria Regional pueda, bajo ciertas circunstancias, firmar dicha documentación.
 
 2.- Derógase la resolución exenta Nº 50 del 30 de diciembre de 2004, publicada en el Diario Oficial de fecha 8 de enero de 2005 emitida por esta Secretaría Regional Ministerial de Salud Décima Región Los Lagos.
 
