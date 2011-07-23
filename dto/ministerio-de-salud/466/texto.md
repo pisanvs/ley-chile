@@ -140,7 +140,7 @@ Las farmacias dispondrán, a lo menos, del siguiente material de consulta públi
 
 - Reglamento de la ley 17.934 sobre represión del tráfico ilícito de estupefacientes.
 
-2.- Un ejemplar actualizado de la Nómina de Medicamentos Registrados y Comercializados del Formulario Nacional, aprobada por resolución del Ministerio de Salud.
+2.- Un ejemplar actualizado de la Nómina de Medicamentos Registrados del Formulario Nacional, aprobada por resolución del Ministerio de Salud.
 
 #### Artículo 18°
 
@@ -162,7 +162,7 @@ Las denuncias estampadas en el Libro de Reclamos que digan relación con calidad
 
 El Registro de recetas estará destinado a:
 
-a) Copiar las prescripciones magistrales y oficinales, estén o no sometidas a controles especiales, en orden correlativo y cronológico;
+a) DEROGADA;
 
 b) Registrar las visitas inspectivas que practiquen funcionarios del Servicio de Salud y las anotaciones y observaciones, si las hubiere, y
 
@@ -202,7 +202,7 @@ b) Despachar personalmente las recetas de productos farmacéuticos sometidos a c
 
 c) La adquisición, tenencia, custodia y expendio de estupefacientes, productos psicotrópicos, otros asimilados a estas disposiciones y los productos de venta bajo receta retenida.
 
-d) Preparar y/o supervisar la confección de recetas magistrales y oficinales, preocupándose que en el envase de la preparación aparezcan claramente señaladas las instrucciones para su empleo, como asimismo las condiciones de almacenamiento que aseguren su estabilidad y conservación;
+d) DEROGADA;
 
 e) Preparar y/o supervisar el fraccionamiento de envases clínicos de los productos farmacéuticos de acuerdo a las normas que imparta el Ministerio de Salud mediante resolución;
 
@@ -210,7 +210,7 @@ f) Extender copia de las recetas de medicamentos cuya condición de venta sea "R
 
 g) Velar porque el sistema de almacenamiento de los productos farmacéuticos asegure su conservación, estabilidad y calidad;
 
-h) Establecer las especificaciones de calidad para la adquisición de los productos que serán utilizados en el recetario magistral y oficinal;
+h) DEROGADA;
 
 i) Adiestrar al personal auxiliar y supervisar el correcto desempeño de las funciones que en éste se deleguen;
 
@@ -274,7 +274,7 @@ c) Venta bajo receta médica retenida = RR, y d) Venta bajo receta cheque = RCH.
 
 #### Artículo 33
 
-Los productos farmacéuticos que corresponden a fórmulas magistrales deberán prepararse en forma inmediata contra la presentación de la receta médica y no podrán mantenerse en stock, quedando prohibida su fabricación masiva. Se exceptúa de la presentación de receta médica aquellas fórmulas magistrales que soliciten las farmacias de establecimientos hospitalarios, públicos y privados, respecto de productos farmacéuticos que no se elaboren por los laboratorios de producción autorizados, y siempre que no se trate de productos citostáticos. Las farmacias deberán mantener un archivo de los protocolos de análisis de control de calidad de todas las drogas o materias primas que se utilicen en el recetario. Estos análisis deberán ser realizados por un laboratorio externo de control de calidad legalmente autorizado y con la periodicidad necesaria que garantice la calidad integral de la droga. En los rótulos de las preparaciones magistrales deberá indicarse el nombre comercial y ubicación de la farmacia que las prepare, fórmula completa, dosis, forma de uso o aplicación y número de orden que les correspondió al copiarlos en el Registro de Recetas. Las fórmulas oficinales deberán corresponder a lo señalado en el artículo 24 letra b) del decreto supremo N° 435, de 1981 y en sus etiquetas deberá individualizarse la farmacia que las prepara y su denominación oficial de acuerdo a la Farmacopea Chilena. Si el preparado se destinare al "Uso externo" o al "Uso Veterinario", llevará tal indicación en caracteres destacados. Además, para los preparados que contengan sustancias peligrosas, deberá agregarse una etiqueta o faja en gruesos caracteres que diga:" CUIDADO" o "VENENO", según fuere procedente.
+DEROGADO.
 
 #### Artículo 34°
 
@@ -322,7 +322,7 @@ Cuando se prescriban productos farmacéuticos sometidos a controles especiales, 
 
 #### Artículo 40
 
-En el registro de recetas deberán copiarse sucesivamente todas las fórmulas magistrales y oficinales, asignando a cada una de ellas un número correlativo. Además, se anotarán las indicaciones, si las tuvieren; nombre del profesional que las formuló y fecha en la que fueron elaboradas, bajo la firma del Director Técnico. No podrán efectuarse enmiendas, dejar espacios en blanco entre las anotaciones, ni alterar en ninguna forma el Registro de recetas. Toda receta al ser despachada deberá ser timbrada de tal manera que se reproduzca en forma clara el nombre y ubicación de la farmacia y el nombre del propietario. Si la receta contuviera una o más fórmulas magistrales se anotará, además, en cada una de ellas, el número de orden que le correspondió al copiarlas en el Registro de recetas.
+DEROGADO.
 
 ### Párrafo V
 
@@ -780,6 +780,8 @@ Derogado.
 
 Las farmacias, con exclusión de aquellas aludidas en el artículo 11, deberán mantener en existencia, como mínimo, los siguientes productos del Formulario Nacional de Medicamentos, los que constituirán su Petitorio:
 
+> **Nota.** El Nº 2 del Decreto 15, Salud, publicado el 08.05.2010, modifica la presente norma en el sentido de incorporar al Petitorio en el Grupo Nº 17 "Hormonas y otros medicamentos endocrinos y anticonceptivos", en el punto 17.03, "Anticonceptivos", a continuación de Levonorgestrel Comprimido 0.75 mg, lo siguiente: "Alternativa: Levonorgestrel Comprimido 1.5 mg.
+
 ## Título X
 
 #### Artículo 94
@@ -872,17 +874,7 @@ Además podrán expender los productos farmacéuticos contemplados en la letra k
 
 #### Artículo 96
 
-La elaboración de los preparados homeopáticos de carácter oficinal o magistral se hará en la sección recetario la que deberá cumplir, además de los requisitos que se señalan en el inciso segundo del artículo 14 del presente reglamento, con los siguientes:
-
-a) Constituir un recinto exclusivo e independiente del recetario común, si lo hubiere,
-
-b) Ser de tránsito restringido y disponer de sistemas adecuados que impidan la contaminación cruzada debida a gases, polvo y olores y que permitan la evacuación de los mismos,
-
-c) El material que se utilice deberá ser de vidrio, porcelana, acero inoxidable u otro que sea inerte desde el punto de vista homeopático, y
-
-d) Disponer de una estufa de capacidad suficiente para permitir la inactivación de diluciones residuales.
-
-> **Nota.** NOTA: 2 Las Disposiciones Transitorias del DS 7, de Salud, publicado en el "Diario Oficial" de 27 de marzo de 1989, dispone que las farmacias autorizadas por los Servicios de Salud, a la fecha de vigencia del citado decreto supremo, para la venta exclusiva de productos farmacéuticos homeopáticos y fitoterápicos continuarán funcionando como tales, sin necesidad de una nueva autorización. Con todo, para la elaboración de preparados homeopáticos de carácter oficinal y fórmulas magistrales deberán obtener dentro del plazo de 60 días desde esa misma fecha, la autorización del Servicio de Salud competente, de acuerdo a lo dispuesto en el presente artículo.
+DEROGADO.
 
 #### Artículo 97
 
@@ -890,7 +882,7 @@ Para los efectos de establecer la identidad, potencia, pureza y estabilidad de l
 
 #### Artículo 98
 
-El Servicio de Salud correspondiente podrá autorizar la elaboración en cantidad adecuada para mantener un stock de consumo, dentro de los márgenes de estabilidad del preparado, de determinadas fórmulas magistrales que así lo requieran por la frecuencia de su prescripción y dificultad de fabricación de la forma farmacéutica correspondiente. Asimismo, podrá permitir que una Farmacia homeopática que disponga de recetario exclusivo o independiente, elabore fórmulas magistrales homeopáticas por cuenta de otra farmacia establecida, dejando constancia, en este caso, en el registro de recetas, del nombre y ubicación del establecimiento del que procede la orden de despacho.
+DEROGADO.
 
 #### Artículo 99
 
