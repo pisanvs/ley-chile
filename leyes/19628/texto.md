@@ -142,6 +142,8 @@ Los datos personales deben utilizarse sólo para los fines para los cuales hubie
 
 En todo caso, la información debe ser exacta, actualizada y responder con veracidad a la situación real del titular de los datos.
 
+Prohíbese la realización de todo tipo de predicciones o evaluaciones de riesgo comercial que no estén basadas únicamente en información objetiva relativa a las morosidades o protestos de las personas naturales o jurídicas de las cuales se informa. La infracción a esta prohibición obligará a la eliminación inmediata de dicha información por parte del responsable de la base de datos y dará lugar a la indemnización de perjuicios que corresponda.
+
 #### Artículo 10
 
 <!-- parte:8642692 -->
