@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.698, de 23 de junio de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 93, de 2011, modificada mediante resoluciones exentas Nº 188, Nº 324, Nº 733, Nº 736, Nº 811 y Nº 1.403, todas de 2011, de esta Subsecretaría de Pesca, que autorizó a MARES CHILE LIMITADA para efectuar una pesca de investigación, de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Pesca de Investigación Pesquerías Demersales y Pelágicas de Merluza del sur, Congrio dorado, Raya y Reineta; Magallanes y Antártica Chilena", en el sentido de reemplazar el inciso 1º del numeral 8º bis, por el siguiente:
+
+"En cumplimiento del objetivo de la pesca de investigación, las embarcaciones participantes podrán capturar 38 toneladas de Raya volantín, para el periodo enero-julio 2011, las que se imputarán a la fracción reservada a ser extraída con fines de investigación mediante decreto exento Nº 165, de 2011, del Ministerio de Economía, Fomento y Turismo.".
+
+Valparaíso, 23 de junio de 2011.- Pablo Galilea Carillo, Subsecretario de Pesca.
