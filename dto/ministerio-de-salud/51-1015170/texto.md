@@ -8,7 +8,7 @@ Decreto:
 
 2.- El desempeño de estas funciones está afecto a rendición de fianza, y por razones impostergables de buen servicio la persona en referencia asumirá en la fecha indicada, sin esperar la total tramitación de este decreto.
 
-3.- Déjase establecido que el Dr. Russell conserva los cargos de médico 22 Hrs. Ley Nº19.664 y 28 Hrs. Ley Nº15.076, que sirve en calidad de titular en el Servicio de Salud Araucanía Norte, y mientras se desempeñe como suplente percibirá las remuneraciones correspondientes a sus cargos titulares.
+3. Déjase establecido que el Dr. Russell conserva la titularidad del cargo de 22 horas semanales afecto a la ley Nº 19.664 y, la titularidad del cargo de 28 horas semanales afecto a la ley Nº 15.076, ambos del Servicio de Salud Araucanía Norte, sin derecho a percibir la remuneración asignada a los mismos, por el período que dure su desempeño en conformidad al artículo 59 de la ley 19.882.
 
 4.- Impútese el gasto correspondiente al Subtítulo 21 Gastos en Personal del Presupuesto del Servicio de Salud Araucanía Norte.
 
