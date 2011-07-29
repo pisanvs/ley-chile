@@ -1,0 +1,11 @@
+OTORGA NUEVO PLAZO PARA SUSCRIPCIÓN DE ESCRITURA PÚBLICA MODIFICATORIA DISPUESTA POR DECRETO Nº 422 EXENTO, DE 2010
+
+Extracto de decreto exento Nº 292, de 14 de abril de 2011.- Mediante decreto (exento) Nº 139, de 28 de febrero de 2006, modificado por decreto exento Nº133 de 7 de marzo de 2008, ambos del Ministerio de Bienes Nacionales, se autorizó la Concesión de Uso Gratuito, a favor del Gobierno Regional de Magallanes y de la Antártica Chilena, del inmueble fiscal que corresponde a la Base Naval Antártica Arturo Prat y terrenos fiscales adyacentes ubicados en la Base Arturo Prat, Isla Greenwich, comuna de Antártica, provincia de Antártica Chilena, Región de Magallanes y de la Antártica Chilena; suscribiéndose el contrato de concesión respectivo con fecha 25 de agosto de 2006 e inscribiéndose a Fjs. 2034 Nº 1668, del Registro de Hipotecas y Gravámenes del Conservador de Bienes de Punta Arenas, del año 2006.
+
+Mediante decreto exento Nº 422, de 25 de mayo de 2010, del Ministerio de Bienes Nacionales, se modificó nuevamente el decreto exento Nº139 de 28 de febrero de 2006, rectificándose la superficie a concesionar, estableciéndose en dicho decreto un plazo de 30 días hábiles contados desde la fecha de publicación del extracto en el Diario Oficial del decreto modificatorio para la suscripción de la escritura pública modificatoria de la Concesión Gratuita.
+
+La mencionada escritura no fue suscrita dentro del plazo otorgado para dichos efectos; por ello, mediante decreto exento Nº 292, de 14 de abril de 2011, el Ministerio de Bienes Nacionales modificó el decreto (exento) Nº 422, de 25 de mayo de 2010, en el sentido de otorgar un nuevo plazo de 30 días hábiles para la suscripción de la escritura pública modificatoria de la concesión gratuita. Se deja constancia que el decreto Nº 292, de 14 de abril de 2011, formará parte integrante de los que se modifican, para todos los efectos legales, el que mantendrá su vigencia en todo lo demás. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Juan Carlos Bulnes Concha, Subsecretario de Bienes Nacionales.
