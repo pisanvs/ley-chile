@@ -16,17 +16,29 @@ Resuelvo:
 
 La talla mínima de extracción para el recurso lobo marino común, Otaria Flavescens, en las regiones I y II, será de 2 metros de longitud total.
 
-#### Artículo 2°
+#### Artículo 2º
 
-Para dar muerte al lobo marino común en las regiones I y II sólo se permitirá el uso de armas largas de fuego de caza, las que deberán ser de calibre igual o superior a 7 mm. o su equivalencia en otras medidas, de acción manual o de repetición.
+La captura de los ejemplares de la especie Lobo marino común Otaria flavescens en el territorio nacional sólo podrá ser efectuada mediante la utilización de una escopeta de calibre 12, de cañón cilíndrico, de carga única o de repetición, que ocupe únicamente munición de caza mayor del tipo Brenneke.
 
-Sin perjuicio de lo dispuesto en el inciso precedente, se permitirá el uso de redes de cerco u otros elementos similares, para el encierro y selección de los ejemplares, los que deberán estar diseñados para permitir que los ejemplares no sacrificados sean liberados sin daño físico.
+Sin perjuicio de lo anterior, en forma previa a su captura y para efectos del encierro y selección de los ejemplares, se podrán usar redes de cerco u otros elementos similares, los que deberán estar diseñados para que los ejemplares no sacrificados puedan ser liberados sin daño físico.
 
-#### Artículo 3°
+#### Artículo 3º
 
-Los pescadores artesanales inscritos en el registro artesanal, sección lobo marino común, que se dediquen directamente al sacrificio de ejemplares, deberán cumplir con las disposiciones contenidas en la Ley N° 17.798, sobre Control de Armas, y sus modificaciones.
+Los pescadores artesanales inscritos en el Registro Pesquero Artesanal, sección lobo marino común, que se dediquen a la caza de esta especie, deberán emplear el tipo de arma de fuego indicado en el artículo anterior, cumpliendo con la normativa vigente establecida en la ley 17.798 de Control de Armas y Elementos Similares y sus modificaciones, su Reglamento Complementario, y con aquellas que se establezcan para este fin, por la Autoridad a cargo del control de armas en el territorio nacional.
 
-#### Artículo 4°
+Para efectos del transporte de las armas individualizadas en el artículo anterior, los pescadores artesanales deberán obtener en forma previa un permiso de transporte de armas, en los términos establecidos en los artículos 147 y siguientes del Reglamento Complementario aprobado mediante decreto supremo Nº 83 de 2007, del Ministerio de Defensa Nacional, para cuyos efectos deberán acompañar copia de la inscripción en el Registro Pesquero Artesanal, sección de pesquería de Lobo marino común con arma de fuego.
+
+Las armas de fuego autorizadas para la captura del Lobo marino común deberán ser mantenidas en el bien raíz declarado y sólo podrán ser embarcadas a bordo en cada evento de caza. Con todo, el traslado del arma hasta la embarcación deberá ser efectuado con ésta descargada y en su respectivo estuche o funda, de acuerdo con lo dispuesto en los artículos 76 y 83 del Reglamento Complementario antes citado.
+
+#### Artículo 4º
+
+No obstante lo dispuesto en los artículos anteriores, las comunidades indígenas del pueblo Kaweskar podrán efectuar la captura de los ejemplares de Lobo marino común mediante el uso de los implementos tradicionalmente utilizados por su etnia para la caza de esta especie.
+
+#### Artículo 5º
+
+La Autoridad Marítima podrá efectuar la eliminación selectiva de ejemplares que constituyan riesgo para la seguridad de la vida humana, en cuyo caso los implementos a utilizar serán aquellos que dicho organismo determine y siempre que ellos supongan métodos racionales tendientes a evitar sufrimiento innecesario al animal en los términos establecidos en el artículo 11 de la ley Nº 20.380.
+
+#### Artículo 6°
 
 Las infracciones a lo dispuesto en la presente Resolución serán sancionadas con las penas y conforme al procedimiento establecido en la Ley N° 18.892 y sus modificaciones, sin perjuicio de las que corresponda aplicar en virtud de la Ley N° 17.798 y sus modificaciones y de otras disposiciones legales o reglamentarias.
 
