@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.513 EXENTA, DE 2011, QUE ORDENA ESTUDIO DE EXPROPIACIÓN
+
+Resolución exenta Nº 3.513, de 21 de julio de 2011, dictada en conformidad artículo 2º decreto ley Nº 2.186 de 1978, Serviu Región del Biobío, en el marco del Programa de Reconstrucción, ordenó estudio expropiación de tres inmuebles de aparente propiedad de la Empresa SPK, rol único tributario desconocido; inmuebles ubicados en la comuna de Talcahuano, rol de avalúo Nº 00029-00001, rol de avalúo Nº 00029-00002, rol de avalúo Nº 00029-00003 de la citada comuna, que figuran inscritos a nombre de Southpacific Korp S.A. Dicha resolución dispuso publicar extracto de la presente resolución en Diario Oficial; requerir del Conservador de Bienes Raíces de Concepción anotación de resolución al margen de inscripciones de dominio de inmuebles; e inscribir resolución en el Registro de Interdicciones y Prohibiciones de Enajenar del Conservador de Bienes Raíces de Talcahuano. Una vez cumplidas las formalidades y trámites, producirá los efectos señalados en el artículo 2 del DL 2.186 de 1978.-
+
+Sergio Jara Mundaca, Director Serviu Región del Biobío.
