@@ -42,9 +42,9 @@ Aysén 7280,00 420,00 7700,00 15
 
 Magallanes 490,00 28,00 518,00 1
 
-Metropolitana 23330,00 1656,00 24986,00 69
+Metropolitana 21910,00 1656,00 23566,00 69
 
-TOTAL 251.346,42 17.580,00 268.926,42 702
+TOTAL 250.048,32 17.584,00 267.632,32 702
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
@@ -53,3 +53,5 @@ Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretar
 Nómina de seleccionados Subsidio Habitacional Rural - Octubre 2008
 
 VER DIARIO OFICIAL DE 29.12.2008, PAGINAS 15 A 18
+
+> **Nota.** El número 2 de la Resolución 4385 exenta, Vivienda, publicada el 30.07.2011, modificó la nómina de postulantes seleccionados para el otorgamiento de un Subsidio Habitacional Rural, correspondiente al proceso de selección del mes de octubre de 2008, los montos indicados en las columnas "Total Subsidios Solicitados (UF)" y "Total Subsidios + Asistencia Técnica (UF)" en las filas de los seleccionados de la comuna de Curacaví.
