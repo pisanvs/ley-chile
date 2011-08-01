@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1423 de fecha 30 de junio de 2011, se expropió el lote de terreno Nº 80, superficie 518 m2, rol Nº 561-89, comuna de Tomé para la obra "Mejoramiento Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 23,92041 a Km. 25,77000, Región del Biobío", y se acordó el valor de la indemnización con su propietario ELIZABETH ELIANA SANHUEZA PAREDES, ascendente a la cantidad de $9.837.614.-
+
+Fiscal del Ministerio de Obras Públicas.
