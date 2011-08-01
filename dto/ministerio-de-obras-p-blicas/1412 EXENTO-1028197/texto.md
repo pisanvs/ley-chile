@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°1412, de 30 de junio de 2011, se expropió el lote de terreno Nº 36, superficie 149 m2., Rol Nº 41-165, comuna de Lolol, VI Región, "MEJORAMENTO RUTA I-70-J, SECTOR LOLOL – RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878", y se acordó el valor de indemnización con su propietario don WILLIAM PATRICIO CORNEJO MORALES, ascendente a la cantidad de $491.871.-
+
+Fiscal del Ministerio de Obras Públicas.
