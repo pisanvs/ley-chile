@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°1433, de 30 de junio de 2011, se expropiaron los lotes de terreno Nºs. 54 y 55, superficies 958 y 5.000 m2., Rol Nºs. 3250-583 y 3250-582, respectivamente, comuna de Temuco, IX Región, "CAMINO RUTA S-30 SECTOR TEMUCO – LABRANZA KM. 4,61500 A KM. 11,68000", y se acordó el valor de indemnización con su propietaria INMOBILIARIA FLORES DEL SUR LIMITADA, ascendente a la cantidad de $59.195.222.-
+
+Fiscal del Ministerio de Obras Públicas.
