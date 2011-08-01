@@ -18,7 +18,7 @@ Establécese una veda biológica para el recurso Loco (Concholepas concholepas),
 
 a) área marítima de la I a la VI Regiones, entre el 1 de febrero y el 30 de junio, de cada año calendario.
 
-b) área marítima de la VII a la XI Regiones, entre el 1 de agosto y el 31 de diciembre, de cada año calendario.
+b) área marítima de la VII a la XI Regiones, entre el 1 de septiembre y el 31 de enero del año calendario siguiente.
 
 c) área marítima de la XII Región, entre el 1 de julio de cada año calendario y el 28 de febrero del año calendario siguiente.
 
