@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1431 de 30 de junio de 2011, se expropió el lote de terreno N° 2-K, superficie 273,24 m2, rol de Avalúo 429-63, comuna de Ancud, para la obra "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO – BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", COMUNA DE ANCUD, PROVINCIA DE CHILOÉ, X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con su propietario RAÚL ORLANDO MENDOZA MERCADO, ascendente a la cantidad de $16.547.099.-
+
+Fiscal del Ministerio de Obras Públicas.
