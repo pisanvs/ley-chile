@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 1422, de 30 de junio de 2011, se expropió el lote de terreno Nº 4, superficie 42 m2., Rol Nº 906-56, comuna de Alto del Carmen, III Región, "MEJORAMIENTO RUTA C-495, EL TRANSITO – JUNTA DE VALERIANO, ETAPA II (CONAY – MALAGUÍN)", y se acordó el valor de indemnización con sus propietarios IRMA ESTELA CAMPILLAY CAMPILLAY Y OTROS, ascendente a la cantidad de $6.374.546.-
+
+Fiscal del Ministerio de Obras Públicas.
