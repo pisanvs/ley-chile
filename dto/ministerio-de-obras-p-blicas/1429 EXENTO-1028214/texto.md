@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°1429, de 30 de junio de 2011, se expropió el lote de terreno Nº84, superficie 1.120 m2., Rol Nº2451-21, comuna de Temuco, IX Región, "CAMINO RUTA S-30 SECTOR TEMUCO – LABRANZA KM. 4,61500 A KM. 11,68000", y se acordó el valor de indemnización con sus propietarios JUAN RUIZ CARRASCO Y OTROS, ascendente a la cantidad de $13.128.364.-
+
+Fiscal del Ministerio de Obras Públicas.
