@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1432 de 30 de junio de 2011, se expropiaron los lotes de terrenos N°s. 4, 4-A, 5 y 5-A, superficies 2.038, 922, 1.282 y 799 m2, roles de Avalúo 540-61 y 540-62, respectivamente, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO – LAS GAVIOTAS. TRAMO KM. 65,58046 A KM. 72,78493", PROVINCIA DE OSORNO, X REGIÓN y se acordó el valor de la indemnización con su propietaria SOFÍA ELENA IZQUIERDO MONASTERIO, ascendente a la cantidad de $17.638.163.-
+
+Fiscal del Ministerio de Obras Públicas.
