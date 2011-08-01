@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1414 de 30 de junio de 2011, se expropió el lote de terreno Nº111-C, superficie 327 m2., Rol Nº 275-46, comuna de San Javier, VII Región, "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000" COMUNAS SAN JAVIER Y CAUQUENES, PROVINCIAS LINARES Y CAUQUENES, REGIÓN DEL MAULE y se acordó el valor de indemnización con su propietario BAUTISTA SOLANO RODRÍQUEZ FUENTES, ascendente a la cantidad de $1.283.248.-
+
+Fiscal del Ministerio de Obras Públicas.
