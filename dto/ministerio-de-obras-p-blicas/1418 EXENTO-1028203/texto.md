@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1418 de fecha 30 de junio de 2011, se expropió el lote de terreno N° 61, superficie 552 m2, rol Nº 632-114, comuna de Tomé, para la obra "Mejoramiento Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 23,92041 a Km. 25,77000, Región del Biobío", y se acordó el valor de la indemnización con su propietario CARLOS ABELINO CARTES FUENTEALBA, ascendente a la cantidad de $3.057.982.-
+
+Fiscal del Ministerio de Obras Públicas.
