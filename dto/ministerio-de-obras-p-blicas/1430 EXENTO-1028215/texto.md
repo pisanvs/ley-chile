@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1430 de fecha 30 de junio de 2011, se expropió el lote de terreno Nº 55, superficies 253 m2, rol Nº 1247-29, comuna de Yumbel para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero", Región del Bío Bío y se acordó el valor de la indemnización con su propietario BELARMINO MENDOZA REBOLLEDO, ascendente a la cantidad de $15.715.572.-
+
+Fiscal del Ministerio de Obras Públicas.
