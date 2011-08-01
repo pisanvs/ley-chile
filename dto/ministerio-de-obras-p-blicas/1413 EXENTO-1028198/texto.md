@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1413 de 30 de junio de 2011, se expropió el lote de terreno N° 62, superficie 496 m2, rol de Avalúo 1181-8, comuna de Ancud, para la obra "MEJORAMIENTO RUTA 5 – W15 – 175, SECTOR RUTA 5 – PUMANZANO, CAMINO RUTA 5 – PUMANZANO", PROVINCIA DE CHILOÉ, y se acordó el valor de la indemnización con su propietario RAÚL ALBERTO LINNEBRINK RITTER, ascendente a la cantidad de $1.385.509.-
+
+Fiscal del Ministerio de Obras Públicas.
