@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1390 de 30 de junio de 2011, se expropió el lote de terreno Nº4, superficie 22.688,33 m2., Rol Nº 169-30, comuna de Licantén, VII Región, "EMBALSE ILOCA", COMUNA DE LICANTÉN, PROVINCIA DE CURICÓ, VII REGIÓN DEL MAULE y se acordó el valor de indemnización con su propietario EDUARDO ALBERTO SOTO DÍAZ Y OTROS, ascendente a la cantidad de $4.537.666.-
+
+Fiscal del Ministerio de Obras Públicas.
