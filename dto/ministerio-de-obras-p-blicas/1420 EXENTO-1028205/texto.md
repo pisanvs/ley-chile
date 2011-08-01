@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1.420 de fecha 30 de junio de 2011, se expropiaron los lotes de terreno Nos 53 y 54, superficies 260 y 862 m2 respectivamente, rol Nº 1247-51, comuna de Yumbel para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero", Región del Bío Bío y se acordó el valor de la indemnización con su propietario HÉCTOR DANIEL TORRES DÍAZ, ascendente a la cantidad de $1.927.792.-
+
+Fiscal del Ministerio de Obras Públicas.
