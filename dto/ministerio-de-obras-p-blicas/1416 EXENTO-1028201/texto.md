@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 1.416 de fecha 30 de junio de 2011, se expropió el lote de terreno Nº 1, superficie 151 m2, rol Nº 1248-75, comuna de Yumbel para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero", Región del Bío Bío y se acordó el valor de la indemnización con su propietario LUCRECIA DEL ROSARIO BASCUÑÁN BASCUÑÁN, ascendente a la cantidad de $143.897.-
+
+Fiscal del Ministerio de Obras Públicas.
