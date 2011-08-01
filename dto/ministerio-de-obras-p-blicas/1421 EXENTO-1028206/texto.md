@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°1421, de 30 de junio de 2011, se expropió el lote de terreno Nº 58, superficie 203 m2., Rol Nº 3251-167, comuna de Temuco, IX Región, "CAMINO RUTA S-30 SECTOR TEMUCO – LABRANZA KM. 4,61500 A KM. 11,68000", y se acordó el valor de indemnización con su propietaria MARÍA DORALISA CALFIÑIR LLANCAQUEO, ascendente a la cantidad de $3.001.063.-
+
+Fiscal del Ministerio de Obras Públicas.
