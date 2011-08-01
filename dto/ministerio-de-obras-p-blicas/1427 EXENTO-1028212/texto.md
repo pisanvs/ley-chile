@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°1427 de 30 de junio de 2011, se expropiaron los lotes de terrenos N°s. 82 y 84, superficies 1.777 y 906 m2, rol de Avalúo 1451-42, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320, PROVINCIA DE OSORNO – LLANQUIHUE, COMUNA DE PUERTO OCTAY Y PUERTO VARAS, X REGIÓN" y se acordó el valor de la indemnización con su propietario CESAR RIGOBERTO TOLEDO ALMONACID, ascendente a la cantidad de $9.287.869.-
+
+Fiscal del Ministerio de Obras Públicas.
