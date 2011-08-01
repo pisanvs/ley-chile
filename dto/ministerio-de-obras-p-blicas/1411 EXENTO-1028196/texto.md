@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1411 de fecha 30 de junio de 2011, se expropió el lote de terreno Nº 84-A, superficie 336 m2., rol Nº 170-594, comuna de Cobquecura para la obra "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo I, Km. 6,34000 a Km. 10,50000, Región del Bío Bío" y se se acordó el valor de la indemnización con su propietario ALEJANDRO AGUSTÍN ANDRADE MADRID, ascendente a la cantidad de $320.010.-
+
+Fiscal del Ministerio de Obras Públicas.
