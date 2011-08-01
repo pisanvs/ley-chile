@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N° 1424, de 30 de junio de 2011, se expropió el lote de terreno Nº 2, superficie 236 m2., Rol Nº 162-180, comuna de Curarrehue, IX Región, "PROYECTO PUENTE QUIÑENAHUIN, CAMINO CURARREHUE – QUIÑENAHUIN TRAMO KM. 0,00000 A KM. 0,26865 Y KM. 0,00000 A KM. 0,34413", y se acordó el valor de indemnización con sus propietarios COMUNIDAD INDIGENA NEHUEN MAPU AUKINKO DE QUIÑENAHUIN, ascendente a la cantidad de $8.037.364.-
+
+Fiscal del Ministerio de Obras Públicas.
