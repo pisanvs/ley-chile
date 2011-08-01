@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1417 de fecha 30 de junio de 2011, se expropió el lote de terreno Nº 16-C, superficie 70 m2., rol Nº 279-19, comuna de San Javier para la obra "Camino Mejoramiento Ruta 126 Los Conquistadores, Sector 1, Cruce Ruta L-30-M-Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Comunas San Javier y Caquenes, Provincias Linares y Cauquenes, Región del Maule y se acordó el valor de indemnización con su propietario VIÑA ALQUIHUE S.A., ascendente a la cantidad de $1.013.174.-
+
+Fiscal del Ministerio de Obras Públicas.
