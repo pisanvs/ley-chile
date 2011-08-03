@@ -34,17 +34,17 @@ En todas las materias no abordadas a continuación, serán aplicables las normas
 
 El Preinversión en Riego opera a través de dos modalidades:
 
-• Modalidad Intrapredial, que cofinancia estudios relativos al riego y/o drenaje y distribución de agua al interior de un predio.
+. Modalidad Intrapredial, que cofinancia estudios relativos al riego y/o drenaje y distribución de agua al interior de un predio.
 
-• Modalidad Extrapredial, que cofinancia estudios relativos al riego y/o drenaje y distribución de agua de una organización de usuarios de agua que involucre predios distintos.
+. Modalidad Extrapredial, que cofinancia estudios relativos al riego y/o drenaje y distribución de agua de una organización de usuarios de agua que involucre predios distintos.
 
 Podrá cofinanciarse asesorías para Proyectos de Preinversión en Riego que tengan como objetivo:
 
-• Generar los antecedentes para la postulación de un Proyecto a los beneficios de la ley Nº18.450, administrado por la Comisión Nacional de Riego.
+. Generar los antecedentes para la postulación de un Proyecto a los beneficios de la ley Nº18.450, administrado por la Comisión Nacional de Riego.
 
 Las asesorías que postulen a la ley 18.450, deben ajustarse a los requisitos exigidos por la Comisión Nacional de Riego, con la visación del Agente Operador Intermediario.
 
-• Generar los antecedentes que permitan desarrollar proyectos que no se postulen a la ley, cuyos informes deberán contener lo siguiente:
+. Generar los antecedentes que permitan desarrollar proyectos que no se postulen a la ley, cuyos informes deberán contener lo siguiente:
 
 1) Diseño, dimensionamiento, especificaciones técnicas de sistemas de acumulación, conducción, distribución y evacuación de aguas para riego o drenaje, intrapredial y extrapredial.
 
@@ -68,9 +68,9 @@ CORFO cofinanciará por contrato hasta un 70% del costo del proyecto de consulto
 
 4.1 El pago del cofinanciamiento CORFO a la Consultora en aquellos proyectos que postulan a los beneficios de la ley 18.450 se realizará en dos parcialidades:
 
-• La primera parcialidad, equivalente al 50%, se pagará una vez que el Agente Operador Intermediario y el beneficiario aprueben el Informe Final y su Informe Ejecutivo del Estudio, con la Evaluación del Servicio del empresario.
+. La primera parcialidad, equivalente al 50%, se pagará una vez que el Agente Operador Intermediario y el beneficiario aprueben el Informe Final y su Informe Ejecutivo del Estudio, con la Evaluación del Servicio del empresario.
 
-• La segunda parcialidad, equivalente al 50%, se pagará una vez que la Comisión Nacional de Riego declare "admitido" el Proyecto que se postule a los beneficios establecidos en la ley 18.450.
+. La segunda parcialidad, equivalente al 50%, se pagará una vez que la Comisión Nacional de Riego declare "admitido" el Proyecto que se postule a los beneficios establecidos en la ley 18.450.
 
 4.2 El pago del cofinanciamiento CORFO a la Consultora en aquellos proyectos que no postulan a los beneficios de la ley 18.450 se realizará en un solo pago, una vez aprobado el Informe Final y su Informe Ejecutivo del Estudio por el Agente Operador, con la Evaluación del Servicio del empresario.
 
@@ -78,9 +78,9 @@ CORFO cofinanciará por contrato hasta un 70% del costo del proyecto de consulto
 
 Cuando estos proyectos sean administrados por Agentes Operadores Intermediarios Privados, CORFO les trasferirá por concepto de su evaluación, supervisión y administración hasta un 10% del cofinanciamiento, con un mínimo de $250.000.- (Doscientos cincuenta mil pesos)
 
-6.- CONSIDERACIONES NORMATIVAS.
+6.- Consideraciones Normativas
 
-La ejecución de los proyectos de consultoría señalados, será realizada por Consultoras inscritas en el Registro de Consultores de la Dirección General de Obras Públicas, en alguna de las categorías de la Especialidad "Estudios del uso del agua y del suelo".
+La ejecución de los proyectos de consultorías señalados, será realizada por consultores inscritos en el "Área General" del Registro Nacional de Consultores de la Comisión Nacional de Riego.
 
 Las Consultoras Independientes o Jefes de Proyecto no podrán tener en ejecución, en forma simultánea, más de cinco proyectos cofinanciados con el Programa de Preinversión en Riego.
 
