@@ -1,0 +1,9 @@
+Por resolución exenta Nº 2.040, de 27 julio de 2011 de esta Subsecretaría, la distribución de la fracción artesanal de la pesquería artesanal de Merluza común correspondiente a las Áreas Norte 2 y Sur de la VII Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, periodo julio-diciembre de 2011, expresada en toneladas, se efectuará de la siguiente manera:
+
+.
+
+> **Nota.** La Resolución 2904 Exenta, Economía, publicada el 10.11.2011, modifica la presente norma, la que a su vez fue modificada mediante resolución exenta Nº 2.048 de 2011, que estableció la distribución de la fracción artesanal de la pesquería de Merluza común correspondiente al Área Norte 2 de la VII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de señalar que la distribución para el período julio-diciembre de 2011, expresada en toneladas, se efectuará de la forma que la propia norma indica.
+
+> **Nota.** NOTA 1 La Resolución 3236 Exenta, Economía, publicada el 14.12.2011, modifica la presente norma, la que a su vez fue modificada mediante resolución exenta Nº 2.048 y N° 2904, ambas de 2011, que estableció la distribución de la fracción artesanal de la pesquería de Merluza común correspondiente al Área Sur de la VII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de señalar que la distribución para el período julio-diciembre de 2011, expresada en toneladas, se efectuará de la forma que la propia norma indica.
+
+Valparaíso, 27 de julio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
