@@ -1874,6 +1874,30 @@ cumplir con los distanciamientos establecidos en
 
 el artículo 26º de esta misma Ordenanza (AR-3).
 
+* No obstante lo dispuesto en los incisos anteriores,
+
+Los antejardines de la Manzana comprendida entre
+
+las calles Los Espinos, Santa Julia, Aucopujo y
+
+el pasaje Lago Parinacota, definidas como
+
+Polígono A-B-C-D-E-F-A, graficado en el Plano
+
+M-PRMAC-5, escala 1:500, denominado "Modificación
+
+Nº 5 al Plan Regulador Comunal de Macul, M-PRMAC-5",
+
+tendrán los anchos que se indican a continuación:
+
+Antejardín frente a calle Santa Julia : 15 mts.
+
+Antejardín frente a calle Los Espinos : 10 mts.
+
+Antejardín frente a calle Aucopujo : 5 mts.
+
+Antejardín frente a pasaje Lago Parinacota : 3 mts.
+
 ZI e - ZONA INDUSTRIAL EXCLUSIVA
 
 Usos permitidos:
