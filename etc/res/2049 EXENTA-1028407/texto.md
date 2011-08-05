@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.049, de esta Subsecretaría, modifícase el numeral 1º de la resolución exenta Nº 3.945, de 2010, modificada mediante resolución exenta Nº 2.039, de 2011, ambas de esta Subsecretaría de Pesca, que estableció la distribución de la fracción artesanal de la pesquería artesanal de Merluza común, correspondiente al Área Centro de la V Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de señalar que la distribución para el período enero-julio de 2011, expresada en toneladas, se efectuará de la siguiente manera:
+
+Valparaíso, 29 de julio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
