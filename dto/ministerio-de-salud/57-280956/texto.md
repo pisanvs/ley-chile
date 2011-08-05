@@ -292,6 +292,8 @@ Durante el plazo de siete años a partir de la publicación en el Diario Oficial
 
 4°.- Quienes se hayan desempeñado como especialistas o subespecialistas durante a lo menos cinco años en establecimientos asistenciales del Sistema Nacional de Servicios de Salud, hecho que debe ser certificado por el Director del Servicio de Salud en el cual preste sus servicios.
 
+5º.- Quienes se hayan desempeñado como especialistas o subespecialistas durante a lo menos cinco años en establecimientos asistenciales dependientes de alguna de las instituciones pertenecientes a la Defensa Nacional, a Carabineros de Chile o a su Dirección de Previsión, hecho que debe ser certificado por, según corresponda, el Director de Sanidad del Ejército o la Armada, el Jefe de la División de Sanidad de la Fuerza Aérea, el Director de Salud o el Director de Previsión de Carabineros de Chile.
+
 Para que los profesionales indicados en los numerales anteriores se acojan a lo establecido en el inciso primero, deberán solicitar a la Superintendencia su incorporación en el registro de especialidades y subespecialidades, presentando los originales o copias autorizadas de los documentos que demuestren dichas situaciones, o autorizándole a solicitar dicha información a las instituciones mencionadas. La Superintendencia deberá dejar expresa constancia en el mencionado registro del origen de este reconocimiento de certificación.
 
 #### Artículo Tercero
