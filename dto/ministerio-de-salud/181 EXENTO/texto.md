@@ -1,6 +1,6 @@
 PONE TÉRMINO Y ESTABLECE NUEVO ORDEN DE SUBROGANCIA AL CARGO DE DIRECTOR DEL SERVICIO DE SALUD ANTOFAGASTA
 
-Núm. 181 exento.- Santiago, 26 de mayo de 2011.- Vistos: El ordinario Nº 1.517, del 25.04.2011, del Servicio de Salud Antofagasta; el decreto exento Nº 415, de 2010, del Ministerio de Salud; lo dispuesto en el artículo 81º del DFL 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834; lo señalado en el Nº 22 del artículo 1º del DS Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia de la República, y teniendo presente las facultades que me confieren los artículos 24º y 32º Nº 10 de la Constitución Política de la República de Chile,
+Núm. 181 exento.- Santiago, 26 de mayo de 2011.- Vistos: El ordinario Nº 1.517, del 25.04.2011, del Servicio de Salud Antofagasta; el decreto exento Nº 416, de 2010, del Ministerio de Salud; lo dispuesto en el artículo 81º del DFL 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834; lo señalado en el Nº 22 del artículo 1º del DS Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia de la República, y teniendo presente las facultades que me confieren los artículos 24º y 32º Nº 10 de la Constitución Política de la República de Chile,
 
 Decreto:
 
@@ -18,7 +18,7 @@ Sr. Max Pizarro Pavez, RUT 10.475.557-7, Subdirector Administrativo del Servicio
 
 Tercer Orden de Subrogancia
 
-Dr. Juan Pablo Mattatall Lankin, RUT 7.358.353-6, Director del Hospital de Antofagasta, Suplente.
+Dr. Juan Pablo Mattatall Lankin, RUT 7.358.353-6, Director del Hospital de Antofagasta Subrogante.
 
 Cuarto Orden de Subrogancia
 
