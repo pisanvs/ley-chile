@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.047, de esta Subsecretaría, modifícase el numeral 1º de la resolución exenta Nº 3.944, de 2010, modificada mediante resolución exenta Nº 648, Nº 789, Nº 1.351, Nº 2.038, todas de 2011, de esta Subsecretaría de Pesca, que estableció la distribución de la fracción artesanal de Merluza común de la IV, V, VI, VII y VIII Regiones por Áreas, en el sentido que a continuación se indica:
+
+Valparaíso, 29 de julio de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
