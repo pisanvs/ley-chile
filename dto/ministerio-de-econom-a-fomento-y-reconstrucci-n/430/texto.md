@@ -262,6 +262,14 @@ Prohíbense las actividades pesqueras extractivas con artes, aparejos y otros im
 
 Esta prohibición regirá también en las bahías y dentro de las áreas que se delimiten con líneas imaginarias entre puntos notables de la costa mediante decreto supremo expedido por intermedio del Ministerio y previo informe técnico de la Subsecretaría.
 
+#### Artículo 5º bis
+
+Prohíbese la mutilación de las aletas de cualquier especie de tiburón, acción denominada aleteo o finning, a bordo de naves o embarcaciones de pesca o su transbordo.
+
+Será obligatorio realizar el desembarque de las especies antes señaladas con sus aletas total o parcialmente adheridas a su cuerpo en forma natural.
+
+Si se encontrare una aleta de tiburón en una nave pesquera, sin que esté completa y naturalmente adosada al tronco correspondiente, se presumirá que se ha contravenido lo dispuesto en este artículo.
+
 #### Artículo 6°
 
 En el evento de fenómenos oceanográficos, en un área o pesquería determinada, que causen daño a una o más especies, podrá excepcionalmente, por decreto supremo fundado del Ministerio, previo informe técnico de la Subsecretaría, establecerse vedas extraordinarias o prohibiciones de captura, referidas a áreas específicas.
@@ -1728,9 +1736,15 @@ Si no hubiere desembarque de captura o no fuere posible establecer su cuantía, 
 
 > **Nota.** NOTA: El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que las modificaciones introducidas al presente artículo rigen a contar de sesenta días después de su publicación en el Diario Oficial.
 
+#### Artículo 110 bis
+
+Los armadores que infrinjan la prohibición a que se refiere el artículo 5º bis serán sancionados con multa de 50 a 500 unidades tributarias mensuales.
+
 #### Artículo 111
 
-En los casos del artículo anterior, el capitán o patrón de la nave pesquera industrial en que se hubiere cometido la infracción, será sancionado personalmente con multa de 30 a 300 unidades tributarias mensuales, y el patrón de la embarcación artesanal, con multa de 3 a 150 unidades tributarias mensuales.
+En los casos de los artículos 110 y
+
+110 bis, el capitán o patrón de la nave pesquera industrial en que se hubiere cometido la infracción, será sancionado personalmente con multa de 30 a 300 unidades tributarias mensuales, y el patrón de la embarcación artesanal, con multa de 3 a 150 unidades tributarias mensuales.
 
 Además, se les aplicará, de acuerdo con las reglas del párrafo 3° de este título, la sanción de suspensión del título de capitán o patrón hasta por 90 días. En caso de reincidencia, la pena será de cancelación del mismo.
 
@@ -1872,7 +1886,35 @@ En caso de reincidencia en las infracciones de este artículo, las personas resp
 
 #### Artículo 121
 
-DEROGADO
+El procesamiento,
+
+transporte, elaboración,
+
+comercialización
+
+y almacenamiento de aletas
+
+obtenidas en contravención
+
+a la prohibición establecida
+
+en el artículo 5º bis
+
+serán sancionados con multa
+
+de 30 a 300 unidades
+
+tributarias mensuales y,
+
+además, con clausura del
+
+establecimiento o local
+
+en el que se hubiere
+
+cometido la infracción,
+
+hasta por un plazo de 30 días.
 
 ### Párrafo 2°
 
