@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.070, de 2 de agosto de 2011, de esta Subsecretaría, recházase solicitud Nº 208105029, presentada por el SINDICATO DE TRABAJADORES INDEPENDIENTES, CULTIVADORES Y EXPLOTADORES DE ALGAS Y RAMOS SIMILARES "LAS VEGAS DE NAL ALTO", para el centro de cultivo ubicado en Estero Quetelmahue, al este de Punta Pechi, X Región.
+
+Valparaíso, 2 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
