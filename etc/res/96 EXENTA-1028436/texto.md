@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº96 de 3 de agosto de 2011, que autoriza a las instituciones sin fines de lucro, Centro Esperanza Nuestra, rol único tributario Nº 70.021.390-0; Corporación Hogar de Menores Cardenal José María Caro, rol único tributario Nº 71.452.300-7; Fundación Hogares de Menores La Promesa, rol único tributario Nº 71.842.900-5 y Corporación Nuestra Casa, rol único tributario Nº 65.171.800-7, como Receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2011.
