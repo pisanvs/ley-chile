@@ -1,0 +1,3 @@
+Por resolución Nº 2.072, de 3 agosto de 2011 de esta Subsecretaría, aplícase a TRUSAL S.A., sanción administrativa de multa equivalente a 2.000 unidades tributarias mensuales por la infracción prevista en el 118 ter letra b) de la Ley General de Pesca y Acuicultura en relación a los artículos 2 Nº 52 y 86 del mismo cuerpo legal y el DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción. La multa impuesta deberá ser pagada en Tesorería General de la República.
+
+Valparaíso, 3 de Agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
