@@ -2905,3 +2905,67 @@ VER DIARIO OFICIAL DE 17.12.2002, PAGINA 13
 > **Nota.** Párrafo 2. Estacionamientos. Artículo 25. Exigencias de Estacionamientos. Los proyectos de construcción, ampliación, regularización o cambio de destino de edificaciones en el territorio comunal, deberán cumplir con las normas y estándares mínimos de estacionamientos establecidos en la presente Ordenanza y en los artículos 2.4.1. al 2.4.5. de la Ordenanza General de Urbanismo y Construcciones. La dotación mínima de estacionamientos exigidos, como resultado de aplicación de la tabla de estándares del presente artículo, deberá cumplirse dentro del predio en que se emplaza el edificio, o en otro predio ubicado a una distancia máxima de 300 m. Los estacionamientos emplazados en un recinto distinto deberán atenerse a lo dispuesto en el Artículo 2.4.2. de la Ordenanza General de Urbanismo y Construcciones. Además deberán contemplarse, cuando corresponda, los espacios necesarios para el traslado de pasajeros, carga, descarga, evolución y detención de vehículos de mayor tamaño, como buses, camiones y otros similares, como también para el acceso y salida desde y hacia la vía pública, marcha adelante. Estos espacios deberán graficarse en un Plano de Planta General, que se acompañará a la respectiva solicitud de permiso de edificación. Las dimensiones mínimas de los estacionamientos, deberán cumplir con lo dispuesto en el Artículo 4.11.9. de la Ordenanza General de Urbanismo y Construcciones. Los estacionamientos deberán tener acceso directo desde las calles interiores de circulación, está prohibido estacionar más de un vehículo por estacionamiento. Las rampas de entrada y salida de los estacionamientos tendrán un ancho mínimo de 3,50 m. Deberán consultar dentro de la propiedad privada, a partir de la Línea Oficial, un tramo horizontal a nivel del acceso, de una longitud mínima de 5,00 m. cuando se trate de automóviles, o de 10,00 m. cuando se trate de buses, camiones o similares. Cuando el estándar señala " metros cuadrados de superficie útil ", se refiere al resultado de descontar de la superficie total edificada un 10%, por concepto de muros estructurales y periféricos. En los proyectos de edificios acogidos a la Ley 19.537, de Copropiedad Inmobiliaria, se descontará la superficie común destinada a circulaciones, salas de máquinas y la correspondiente a bodegas destinadas a las viviendas, cuando las hubiere. Los proyectos de equipamientos de uso público y actividades relacionadas con el transporte de pasajeros, que consulten más de 100 estacionamientos, deberán consultar como mínimo un 1% para discapacitados, claramente señalizados con el símbolo internacional y su pavimento no podrá ser de material suelto, como gravilla, ripio o similar. Con frente a la vialidad estructurante, con flujo vehicular igual o superior a 300 veh/hora por pista, el emplazamiento de proyectos que generen sobre 50 unidades de estacionamientos, sólo se autorizará si junto a la respectiva solicitud de aprobación se incluye un estudio técnico que justifique y resuelva los ingresos y salidas de vehículos propuestos, con sus respectivos flujos debidamente dimensionados y compatibilizados con los flujos de la red vial pública en que se insertan. Los estándares de estacionamiento que deberán adoptarse, según los usos de suelo y Zonas del Plan Regulador en que se emplazan son los siguientes VER DIARIO OFICIAL DE 17.12.2002, PAGINA 15 Párrafo 3. Terminales de Locomoción Colectiva No Urbana y Urbana, Estableci mientos de Venta de Combustibles Líquidos y Estaciones de Servicio Automotor. Artículo 26. Terminales. Los Terminales de Locomoción Colectiva No Urbana y Urbana se regirán por las disposiciones de los artículos 4.13.1. al 4.13.10 de la Ordenanza General de Urbanismo y Construcciones, se permitirán en la Zona E del Artículo 21, debiendo respetar la normativa de dicha zona, además de las siguientes condiciones :a) Vías desde las cuales se permitirá acceder : Sólo vías comunales, con un ancho mínimo entre líneas oficiales de 20 m.b) Distanciamiento mínimo de las edificaciones : Deslindes laterales y de fondo 5 m Antejardín 10 m Estas fajas de aislación deberán ser arborizadas. Artículo 27. Establecimientos de Venta de Combustibles Líquidos y Estaciones de Servicio Automotor. Estos establecimientos se permitirán en las Zonas A, B, C y E, establecidas en el Artículo 21 de la presente Ordenanza, deberán respetar la normativa de dichas zonas, además de las siguientes condiciones :a) Distancia mínima entre dos bombas de bencina 300 m.b) Distancia mínima desde la entrada y salida hasta la esquina más próxima : En vías estructurantes : Desde la entrada 15 m. Desde la salida 30 m. En vías locales : Desde la entrada 10 m. Desde la salida 15 m.c) Anchos de los accesos y salidas Mínimo : 4 m. Máximo : 7,5 m. En caso que se consulten dos en una cuadra, lasuma total no podrá exceder los 12 m.d) Angulo mínimo entre eje de acceso y eje de vía 45 grados. Angulo máximo entre eje de acceso y eje de vía 70 grados.e) Distanciamiento mínimo de las edificaciones : Deslindes laterales y de fondo 3 m. Antejardín 5 m. Estas fajas de aislación deberán ser arborizadas. TABLA DE USOS DE SUELO PERMITIDOS ZONAS PLAN REGULADOR 2002 VER DIARIO OFICIAL DE 17.12.2002, PAGINA 16 CONDICIONES DE SUBDIVISIÓN Y EDIFICACIÓN PROYECTO PLAN REGULADOR 2002 VER DIARIO OFICIAL DE 17.12.2002, PAGINA 17
 
 > **Nota.** El DTO 1858, M. de Copiapó, publicado el 26.08.2008, modificó en la forma que indica el listado del presente artículo, el que no se ha ingresado por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
+
+ANEXO N° 1
+
+NUEVAS NORMAS URBANÍSTICAS APLICABLE A TERRENOS CUYA DECLARATORIA DE UTILIDAD PÚBLICA HUBIERE CADUCADO - ARTÍCULO 59° LEY GENERAL DE URBANISMO Y CONSTRUCCIONES
+
+### I. GENERALIDADES:
+
+1. Ley N° 19.939, publicada en el Diario Oficial de fecha 13 de febrero de 2004.
+
+2. Ley N° 20.331, publicada en Diario Oficial de fecha 12 de febrero de 2009.
+
+3. Ord. (SPL) N° 208 de fecha 23 de marzo de 2011.
+
+4. Ord. MINVU N° 338 de fecha 13 de abril de 2011.
+
+### II. ANTECEDENTES DEL PLAN REGULADOR COMUNAL VIGENTE:
+
+El actual Plan Regulador Comunal de Copiapó - PRCC fue aprobado por decreto alcaldicio N° 3.381 de fecha 6 de diciembre de 2002, publicado en el Diario Oficial con fecha 17 de diciembre de 2002.
+
+Posterior a la entrada en vigencia del actual Plan Regulador, se han introducido una Enmienda y dos Modificaciones al PRCC correspondientes a:
+
+Enmienda Artículo 13 - Antejardines y Modificación al Plan Regulador Comunal de Copiapó.
+
+Aprobada por decreto alcaldicio N° 373 de fecha 7 de febrero de 2005, publicado en el Diario Oficial con fecha 16 de febrero de 2005.
+
+Deja sin Efecto Traslado calle Conrado Araya.
+
+Aprobada por decreto alcaldicio N° 723 de fecha 22 de marzo de 2005, publicado en el Diario Oficial con fecha 2 de abril de 2005.
+
+Modificación PRCC, Avda. Los Carrera.
+
+Aprobada por decreto alcaldicio N° 1.858 de fecha 18 de agosto de 2008, publicado en el Diario Oficial con fecha 26 de agosto de 2008.
+
+### III. ANTECEDENTES DE PARQUES INTERCOMUNALES Y COMUNALES DECLARADOS DE UTILIDAD PÚBLICA, ARTÍCULO 59° LGUC
+
+El actual Plan Regulador, no tiene declarados de Utilidad Pública ningún terreno destinado a parques intercomunales o comunales en el área urbana o de extensión urbana, para el caso del PRICOST, por lo cual no procede fijar Nuevas Normas Urbanísticas.
+
+### IV. ANTECEDENTES DE VÍAS DECLARADAS DE UTILIDAD PÚBLICA, ARTÍCULO 59° LGUC
+
+La Declaratoria de Utilidad Pública que afecta a la Comuna de Copiapó, está consignada en el Capítulo V, Vialidad, Estacionamientos y Terminales, artículo 24 de la Ordenanza Local del Plan Regulador Comunal.
+
+Las vías declaradas que establece el Plan Regulador son vías Expresas, Troncales y Colectoras.
+
+a) Vías Expresas; Estas declaratorias no caducaron, ya que su plazo de caducidad es de 10 años desde la publicación del actual plan, por esto el plazo vence el 17 de diciembre del año 2012.
+
+b) Vías Troncales y Vías Colectoras; Estas declaratorias caducaron, conforme al artículo 59 de la Ley General de Urbanismo y Construcciones y por tal razón, requiere de la dictación de nuevas normas urbanísticas o asimilación a la zonificación adyacente, de acuerdo al siguiente cuadro:
+
+### V. ZONIFICACIÓN PLAN REGULADOR COMUNAL VIGENTE DE COPIAPÓ
+
+La zonificación del Plan Regulador Comunal de Copiapó a la que se asimilan los Terrenos cuya Declaratoria de Utilidad Pública Hubiere Caducado, señalado en cuadro anterior, se encuentra explicitada en el Capítulo IV, MACRO ÁREAS, ZONIFICACIÓN, USOS DE SUELO Y NORMAS ESPECÍFICAS, artículo 21, numeral 4 de la Ordenanza Local del Plan.
+
+La zonificación establecida en la Ordenanza Local del Plan Regulador Comunal de Copiapó, para los efectos de asimilar los terrenos, se divide en las siguientes Zonas, las que se encuentran graficadas en el Plano N° PRC.Co - 01:
+
+ZONA A Área Central
+
+ZONA B Mixta Vivienda, Equipamiento, Talleres y Almacenamiento Inofensivo
+
+ZONA C Vivienda y Equipamiento Complementario
+
+ZONA D Exclusiva Explotación Agricola
+
+ZONA E Industrial Exclusiva
+
+ZONA F Áreas Verdes
