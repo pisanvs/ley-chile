@@ -78,7 +78,21 @@ país de procedencia.
 
 seroneutralización.
 
-5.- ELIMINADO.
+5.- Fiebre del West Nile:
+
+Certificar si los animales han sido o
+
+no vacunados. Si los animales han sido
+
+vacunados, se deberá especificar la
+
+inmunización realizada, indicándose
+
+nombre de la vacuna aplicada,
+
+laboratorio productor, número de
+
+serie y fecha de vacunación.
 
 6.- Influenza equina: Vacunación con vacuna
 
@@ -415,6 +429,8 @@ Endoparásitos
 Piroplasmosis
 
 Tripanosomiasis
+
+Fiebre del West Nile6
 
 5.- CONDICIONES GENERALES
 
