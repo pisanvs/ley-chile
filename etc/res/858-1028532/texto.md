@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A SOC. PESQUERA ARKHOS LTDA.
+
+La Dirección Regional de Arica y Parinacota del SII, por resolución 858, de fecha 11/05/2001 otorga a Soc. Pesquera Arkhos Ltda., RUT 79.599.430-0, a partir de la fecha de la presente publicación, la calidad de Agente Retenedor del Impuesto al Valor Agregado, del cambio de sujeto en las adquisiciones de especies hidrobiológicas, de acuerdo a la facultad establecida en la resolución Ex. 3.311 de 30.06.2000, de la Dirección Nacional.
