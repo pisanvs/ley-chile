@@ -22,7 +22,7 @@ Del Servicio Nacional del Adulto Mayor.
 
 #### Artículo 2º
 
-Créase el Servicio Nacional del Adulto Mayor, en adelante el Servicio, como servicio público, funcionalmente descentralizado, dotado de personalidad jurídica y de patrimonio propios, sometido a la supervigilancia del Presidente de la República, a través del Ministerio Secretaría General de la Presidencia.
+Créase el Servicio Nacional del Adulto Mayor, en adelante el Servicio, como servicio público, funcionalmente descentralizado, dotado de personalidad jurídica y de patrimonio propios, sometido a la supervigilancia del Presidente de la República, a través del Ministerio de Planificación.
 
 El Servicio Nacional del Adulto Mayor tendrá su domicilio en la ciudad de Santiago.
 
