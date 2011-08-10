@@ -1,0 +1,7 @@
+AMPLÍA EXCEPCIONALMENTE PLAZO DE PRESENTACIÓN DE DECLARACIONES MENSUALES REALIZADAS EN FORMULARIO 29, POR INTERNET, QUE NO IMPORTEN PAGO DE IMPUESTO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 97, del 5 de agosto de 2011, que establece:
+
+Amplíase, hasta el día 31 de agosto de 2011, el plazo para la presentación de las declaraciones que se realizan en el Formulario 29, de "Declaración y Pago Simultáneo Mensual", establecido en las resoluciones exentas SII Nº 785, de 20 de enero de 1999, y Nº 21, del 11 de octubre de 2002, para aquellas declaraciones que no involucren pago de impuesto y aquellas sin movimiento, que se presenten a través de internet, para los contribuyentes que pertenezcan a los segmentos de personas, micro, pequeñas y medianas empresas, cuya casa matriz se encuentre domiciliada en las comunas de Alto Biobío, de la provincia y Región del mismo nombre, en las comunas de Lonquimay y Curacautín, de la provincia de Malleco, y en las comunas de Curarrehue, Melipeuco, Pucón, Cunco, Villarrica y Vilcún, de la provincia de Cautín, de la Región de la Araucanía, por las operaciones realizadas en el mes de julio de 2011.
+
+El texto íntegro de esta resolución está publicado en la oficina virtual del Servicio de Impuestos Internos, en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de agosto de 2011.
