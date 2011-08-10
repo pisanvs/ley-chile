@@ -198,6 +198,36 @@ de obras señaladas en el artículo 68 bis
 
 del D.S. N° 174 (V. y U.), de 2005.
 
+Los postulantes al presente llamado especial,
+
+se encontrarán eximidos del cumplimiento del
+
+requisito de constituir hipoteca y prohibición
+
+de gravar y enajenar a favor de SERVIU y de
+
+celebrar acto o contrato alguno que importe
+
+cesión del uso y goce de la vivienda, señaladas
+
+en los artículos 1º y 55 del DS Nº 174
+
+(V. y U.), de 2005. Sin embargo, al solicitar
+
+el pago del subsidio deberán presentar una
+
+declaración jurada en la que se comprometan
+
+a no gravar ni enajenar la vivienda ni celebrar
+
+contrato alguno que importe la cesión del uso
+
+y goce de la vivienda por un plazo de 5 años,
+
+contados desde la fecha de la recepción final
+
+municipal.
+
 g) Los proyectos habitacionales que participen en
 
 el presente llamado podrán para el área de estar
@@ -294,15 +324,15 @@ y/o de emplazamiento que otorgan dicho carácter
 
 patrimonial, y que deberán respetarse en los
 
-proyectos a presentar.
+proyectos a presentar. En estos casos el proyecto
 
-En estos casos el proyecto de vivienda quedará
+de vivienda quedará eximido del cumplimiento
 
-eximido del cumplimiento de los requisitos
+de los requisitos exigidos en el cuadro
 
-exigidos en el cuadro normativo inserto en
+normativo inserto en el artículo
 
-el artículo 19 del D.S. Nº 174 (V. y U.),
+19 del D.S. Nº 174 (V. y U.),
 
 de 2005, que Reglamenta
 
@@ -344,25 +374,13 @@ Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de
 
 El incremento de los honorarios establecidos en
 
-la presente resolución, se pagará una vez
+la presente Resolución, se pagará una
 
-recepcionadas las obras de construcción del
+vez recepcionadas las obras de construcción
 
-proyecto por la Dirección de Obras Municipales
+del proyecto por la Dirección
 
-respectiva e inscrita, en el Conservador de
-
-Bienes Raíces respectivo, la prohibición de
-
-enajenar a favor de Serviu por 5 años según lo
-
-establecido en el artículo 55 del DS N° 174
-
-(V. y U.), de 2005, o suscrita la declaración
-
-jurada señalada en el primer apartado del N° 2
-
-del mismo artículo, cuando corresponda.
+de Obras Municipales respectiva.
 
 En el caso que la Asesoría Técnica y Jurídica
 
@@ -498,16 +516,6 @@ exigidos para dicho pago en
 
 el artículo 55 del D.S N° 174 (V. y U.), de 2005.
 
-La prohibición de enajenar por 5 años a favor del
-
-SERVIU, señalada en éste último artículo, podrá
-
-ser constituida conforme a lo señalado en el
-
-inciso tercero del artículo 17° del D.L. Nº
-
-2.695, de 1979.
-
 l. Tratándose de inmuebles pertenecientes a una
 
 sucesión hereditaria, el postulante podrá
@@ -532,25 +540,7 @@ caso de sucesiones testadas o de la resolución
 
 del Servicio de Registro Civil e Identificación
 
-tratándose de sucesiones intestadas. El
-
-postulante requerirá, además, contar con
-
-autorización notarial de los restantes herederos.
-
-El Serviu podrá proceder al pago del subsidio,
-
-siempre que se acredite la inscripción especial
-
-de herencia del inmueble a favor de la comunidad
-
-y la constitución, por todos los comuneros, de
-
-la prohibición de enajenar a favor del Serviu,
-
-durante 5 años, contados desde la fecha de su
-
-inscripción en el Conservador de Bienes Raíces.
+tratándose de sucesiones intestadas.
 
 m. Para postular al Capítulo Primero del
 
@@ -596,21 +586,7 @@ llamado especial, que el sitio en que se emplace
 
 la vivienda se encuentre gravado con
 
-hipoteca. Para proceder al pago del
-
-certificado de subsidio en
-
-estos casos, el SERVIU podrá eximir del
-
-cumplimiento del requisito de inscribir la
-
-prohibición de enajenar a favor de SERVIU
-
-señalada
-
-en el artículo 55 del D.S. N° 174 (V. y U.),
-
-de 2005. El postulante cuyo terreno se
+hipoteca.El postulante cuyo terreno se
 
 encuentre hipotecado, deberá presentar
 
@@ -1128,6 +1104,44 @@ obras esté contemplada al menos la solución
 
 de alcantarillado particular.
 
+Una vez recibidas las obras por SERVIU, la
+
+boleta de fiel cumplimiento del contrato
+
+deberá ser reemplazada por la de buena
+
+ejecución y buen comportamiento de las
+
+obras señalada en el artículo 25 del
+
+DS Nº 174 (V. y U.), de 2005. La boleta
+
+de buena ejecución y buen comportamiento
+
+deberá tener vigencia a partir de dicha
+
+recepción, y deberá caucionar, además,
+
+la obtención de la recepción definitiva
+
+de obras por parte de la Dirección de
+
+Obras Municipales, del sello verde de
+
+las instalaciones de gas contemplado en
+
+la normativa de la Superintendencia de
+
+Electricidad y Combustibles, cuando
+
+corresponda y de la recepción de la
+
+solución sanitaria especial por parte
+
+del Servicio de Salud respectivo, cuando
+
+corresponda.
+
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
 5.1. Asesorar y apoyar la acreditación de propiedad
@@ -1192,6 +1206,22 @@ establecido en la letra f) del número 2 de la
 
 presente resolución.
 
+La inspección técnica de obras podrá
+
+realizarse cumpliendo con
+
+lo establecido en la Guía de
+
+inspección técnica de obras para vivienda
+
+tipo, a que se refiere el punto 1.7.
+
+del oficio Nº 316, de fecha 5 de abril
+
+de 2011, del Subsecretario de Vivienda
+
+y Urbanismo.
+
 5.5. Elaborar un informe de diagnóstico de
 
 habitabilidad de la vivienda existente en el
@@ -1236,35 +1266,19 @@ SERVIU y otorgado el certificado de
 
 subsidio correspondiente.
 
-5.6.3. Hasta 8 Unidades de Fomento una vez
+5.6.3. Hasta 8 Unidades de Fomento una
 
-obtenida la recepción final de la
+vez obtenida la recepción final
 
-vivienda construida por la
+de la vivienda construida por la
 
 Dirección de Obras Municipales
 
-respectiva, pagado el subsidio a la
+respectiva y pagado el
 
-empresa constructora de la vivienda
+subsidio a la empresa constructora
 
-e inscrita en el Conservador de
-
-Bienes Raíces respectivo la
-
-prohibición de enajenar a favor de
-
-SERVIU señalada en el artículo 55
-
-del D.S. N° 174 (V. y U.), de 2005,
-
-o suscrita la declaración jurada
-
-señalada en el primer apartado del
-
-número 2. del mismo artículo,
-
-cuando corresponda.
+de la vivienda.
 
 5.7 Si los servicios de Asistencia Técnica y
 
