@@ -102,7 +102,7 @@ Del Fondo Nacional del Adulto Mayor.
 
 Créase un fondo concursable de financiamiento de iniciativas de apoyo directo al adulto mayor, el que será provisto con las donaciones y legados en dinero que para él acepte el Servicio y con los recursos que anualmente le asigne la Ley de Presupuestos. Este fondo será administrado por el Servicio Nacional del Adulto Mayor.
 
-Mediante decreto supremo del Ministerio Secretaría General de la Presidencia, el cual deberá también llevar la firma del Ministro de Hacienda, se dictará el reglamento al que deberá sujetarse el modo de operar del fondo señalado en el inciso anterior.
+Mediante decreto supremo del Ministerio de Planificación, el cual deberá también llevar la firma del Ministro de Hacienda, se dictará el reglamento al que deberá sujetarse el modo de operar del fondo señalado en el inciso anterior.
 
 El Servicio pondrá dichos recursos a disposición de cada una de las regiones a través de sus comités regionales, a los cuales se les transferirán directamente estos fondos, los que se asignarán a organizaciones de adultos mayores o a aquellas que trabajen con éstos y que postulen proyectos. La transferencia de fondos a cada Región se sujetará a criterios de objetividad, tales como concentración de población adulta mayor, índices de pobreza y carencia de la población total, así como del grupo etario adulto mayor y/o nivel de asociatividad de adultos mayores a nivel regional.
 
@@ -192,7 +192,7 @@ Director Nacional
 
 - Título profesional universitario de una carrera de, a lo menos, diez semestres, otorgado por una universidad del Estado o por una universidad o instituto profesional reconocida por éste.
 
-- Experiencia laboral de cinco años en cargos directivos, o especialización en temas de geriatría o gerontología social.
+- Experiencia profesional de cinco años en funciones directivas en el sector público o privado, o especialización en el área de la salud, geriatría o gerontología social.
 
 Jefes de Departamento
 
@@ -232,7 +232,7 @@ El personal del Servicio Nacional del Adulto Mayor estará afecto a las disposic
 
 Créanse los Comités Regionales para el Adulto Mayor, en adelante los Comités, como órganos encargados de realizar todas aquellas acciones encomendadas por el Servicio tendientes a la implementación de la política nacional del adulto mayor, administrar, de acuerdo al Reglamento, el Fondo Concursable para el Adulto Mayor, y los demás recursos que le sean donados o legados para fines específicos y asesorar al Intendente en la promoción y aplicación a nivel regional de los planes y programas que beneficien al adulto mayor.
 
-Los Comités serán presididos por el Secretario Regional Ministerial que nombre el Intendente y estarán integrados, además, por los Secretarios Regionales Ministeriales que el Intendente designe.
+Los Comités serán presididos por el Secretario Regional Ministerial de Planificación y Coordinación y estarán integrados, además, por los Secretarios Regionales Ministeriales que el Intendente designe.
 
 Asimismo, se integrarán a los Comités los representantes de las municipalidades y de las organizaciones civiles de la región que presten servicios o realicen trabajos directos con los adultos mayores. El mecanismo y porcentaje de representación serán determinados por el Intendente, de acuerdo a criterios objetivos.
 
