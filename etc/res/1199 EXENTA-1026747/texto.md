@@ -120,6 +120,8 @@ Asígnanse a doña Pamela Dinamarca Palma, rol único tributario Nº 12.677.304-
 
 51) Suscribir refrendaciones de aquellos actos administrativos que impliquen gasto para el presupuesto de la Subsecretaría.
 
+52) Firmar las resoluciones que aprueben contrataciones de bienes y servicios cuyos montos sean inferiores a 3 UTM (tres unidades tributarias mensuales).
+
 #### Artículo 2º
 
 <!-- parte:9151627 -->
