@@ -254,10 +254,6 @@ Los valores a cobrar por los siguientes inmuebles municipales, serán los expres
 
 > **Nota.** NOTA 2 El numeral 1 del Decreto 3789 exento, M. de Vallenar, publicado el 12.08.2011, modifica el cuadro contenido en el presente artículo de la manera que en dicha norma se indica.
 
-> **Nota.** NOTA 3 El Decreto 900 Exento, Municipalidad de Vallenar, publicado el 20.02.2013, modifica el cuadro inserto en el presente artículo, de la manera que en la citada norma se indica.
-
-> **Nota.** NOTA 4 El Decreto 1006 Exento, Municipalidad de Vallenar, publicado el 08.07.2014, modifica el cuadro inserto en el presente artículo, de la manera que en la citada norma se indica.
-
 ## Título V
 
 DERECHOS MUNICIPALES RELATIVOS TRANSPORTE TRÁNSITO Y VEHÍCULO
