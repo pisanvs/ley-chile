@@ -118,6 +118,8 @@ Asígnanse a doña Pamela Dinamarca Palma, rol único tributario Nº 12.677.304-
 
 51) Suscribir refrendaciones de aquellos actos administrativos que impliquen gasto para el presupuesto de la Subsecretaría.
 
+52) Firmar las resoluciones que aprueben contrataciones de bienes y servicios cuyos montos sean inferiores a 3 UTM (tres unidades tributarias mensuales).
+
 #### Artículo 2º
 
 La asignación de funciones comenzará a regir a contar del día 15 de junio de 2011, y expirará una vez que asuma el Jefe del Departamento Administrativo en el carácter de titular o subrogante.
