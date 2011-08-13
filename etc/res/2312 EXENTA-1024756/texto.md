@@ -22,7 +22,7 @@ b) Que es de extrema relevancia y urgente necesidad para este Ministerio impleme
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales en la región del Bío Bío del Programa Fondo Solidario de Vivienda para los meses de abril, mayo, junio y julio del 2011, destinado a atender a familias Damnificadas por el sismo del 27 de febrero de 2010, que residen en Aldeas de Emergencia y que integren la nómina que mediante resoluciones, deberá sancionar el Serviu de la Región del Bío Bío.
+1. Llámase a concurso en condiciones especiales en la Región del Bío Bío del Programa Fondo Solidario de Vivienda para los meses de abril a diciembre del 2011, destinado a atender a familias damnificadas por el sismo del 27 de febrero de 2010, que residen en Aldeas de Emergencia y que integren la nómina que mediante resoluciones, deberá sancionar el SERVIU de la Región del Bío Bío.
 
 2. Las familias que participen en el llamado señalado en el resuelvo anterior deberán cumplir con las siguientes condiciones especiales:
 
