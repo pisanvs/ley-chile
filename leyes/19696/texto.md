@@ -1830,6 +1830,8 @@ Prohibición de utilización. Los resultados de la medida de interceptación tel
 
 Otros medios técnicos de investigación. Cuando el procedimiento tuviere por objeto la investigación de un hecho punible que mereciere pena de crimen, el juez de garantía podrá ordenar, a petición del ministerio público, la fotografía, filmación u otros medios de reproducción de imágenes conducentes al esclarecimiento de los hechos. Asimismo, podrá disponer la grabación de comunicaciones entre personas presentes. Regirán correspondientemente las normas contenidas en los artículos 222 al 225.
 
+.
+
 ### Párrafo 4º — Registros de la investigación
 
 #### Artículo 227

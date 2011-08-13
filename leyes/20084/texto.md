@@ -34,17 +34,11 @@ La edad del imputado deberá ser determinada por el juez competente en cualquier
 
 #### Artículo 4º
 
-Regla especial para delitos sexuales. No podrá procederse penalmente respecto de los delitos previstos en los artículos 362, 365, 366 bis, 366 quáter y 367 quáter inciso segundo, del Código Penal, cuando la conducta se hubiere realizado con una persona menor de 14 años y no concurra ninguna de las circunstancias enumeradas en los artículos 361 ó 363 de dicho Código, según sea el caso, a menos que exista entre aquélla y el imputado una diferencia de, a lo menos, dos años de edad, tratándose de la conducta descrita en el artículo 362, o de tres años en los demás casos.
+Regla especial para delitos sexuales. No podrá procederse penalmente respecto de los delitos previstos en los artículos 362, 365, 366 bis, 366 quáter y 366 quinquies del Código Penal, cuando la conducta se hubiere realizado con una persona menor de 14 años y no concurra ninguna de las circunstancias enumeradas en los artículos 361 ó 363 de dicho Código, según sea el caso, a menos que exista entre aquélla y el imputado una diferencia de, a lo menos, dos años de edad, tratándose de la conducta descrita en el artículo 362, o de tres años en los demás casos.
 
 #### Artículo 5º
 
 Prescripción. La prescripción de la acción penal y de la pena será de dos años, con excepción de las conductas constitutivas de crímenes, respecto de las cuales será de cinco años, y de las faltas, en que será de seis meses.
-
-No obstante, tratándose de los crímenes y simples delitos descritos y sancionados en los artículos 141, inciso final; 142, inciso final, ambos en relación con la violación; los artículos 150 B y 150 E, ambos en relación con los artículos 361, 362 y 365 bis; los artículos 361, 362, 363, 365 bis, 366, 366 bis, 366 quáter, 366 quinquies, 367, 367 ter; el artículo 411 quáter en relación con la explotación sexual; y el artículo 433, N° 1, en relación con la violación; todos del Código Penal, cuando al momento de la perpetración del hecho la víctima fuere menor de edad, el plazo de prescripción de la acción penal será de cinco años tratándose de simples delitos y de diez años tratándose de crímenes. En dichos casos, se suspende el cómputo del plazo hasta que la víctima cumpla dieciocho años.
-
-La prescripción de la acción penal se suspende si se hubiere derivado el conflicto a una instancia de mediación y mientras ésta dure.
-
-> **Nota.** El numeral 4 del artículo 1°, de la Ley 21522, publicada el 30.12.2022, derogó el articulo 366 quinquies del Código Penal,
 
 ## Título I
 
@@ -72,29 +66,25 @@ Sanciones. En sustitución de las penas contempladas en el Código Penal y en la
 
 a) Internación en régimen cerrado con programa de reinserción social;
 
-b) Libertad asistida especial con internación parcial.
+b) Internación en régimen semicerrado con programa de reinserción social;
 
 c) Libertad asistida especial;
 
-d) Libertad asistida simple;
+d) Libertad asistida;
 
 e) Prestación de servicios en beneficio de la comunidad;
 
-f) Reparación del daño causado, y
+f) Reparación del daño causado;
 
-g) Suprimida
+g) Multa, y
 
 h) Amonestación.
 
 Penas accesorias:
 
-a) Prohibición de conducción de vehículos motorizados.
+a) Prohibición de conducción de vehículos motorizados, y
 
 b) Comiso de los objetos, documentos e instrumentos de los delitos según lo dispuesto en el Código Penal, el Código Procesal Penal y las leyes complementarias.
-
-c) Las medidas accesorias previstas en el artículo 9º de la ley Nº 20.066 que establece la ley de violencia intrafamiliar.
-
-d) La prohibición de asistir a cualquier espectáculo de fútbol profesional y a sus inmediaciones prevista en la letra b) del artículo 16 de la ley N° 19.327, de derechos y deberes en los espectáculos de fútbol profesional, aplicándose lo dispuesto en los incisos tercero y cuarto de dicha disposición.
 
 #### Artículo 7º
 
@@ -109,8 +99,6 @@ De las sanciones no privativas de libertad
 Amonestación. La amonestación consiste en la reprensión enérgica al adolescente hecha por el juez, en forma oral, clara y directa, en un acto único, dirigida a hacerle comprender la gravedad de los hechos cometidos y las consecuencias que los mismos han tenido o podrían haber tenido, tanto para la víctima como para el propio adolescente, instándole a cambiar de comportamiento y formulándole recomendaciones para el futuro.
 
 La aplicación de esta sanción, en todo caso, requerirá una previa declaración del adolescente asumiendo su responsabilidad en la infracción cometida.
-
-En caso alguno se podrá imponer una amonestación en más de dos ocasiones a un mismo adolescente. Lo dispuesto en el presente inciso no tendrá lugar si ha transcurrido un tiempo prolongado desde la última infracción o si la naturaleza del delito hiciere razonable imponer nuevamente esta misma sanción.
 
 Los padres o guardadores del adolescente serán notificados de la imposición de la sanción, en caso de no encontrarse presentes en la audiencia.
 
@@ -140,13 +128,13 @@ La imposición de esta sanción requerirá del acuerdo del condenado, debiendo, 
 
 Prohibición de conducir vehículos motorizados. La prohibición de conducir vehículos motorizados se podrá imponer a un adolescente como sanción accesoria cuando la conducta en que se funda la infracción por la cual se le condena haya sido ejecutada mediante la conducción de dichos vehículos.
 
-La sanción se hará efectiva desde el momento de dictación de la sentencia condenatoria.
+La sanción se hará efectiva desde el momento de dictación de la sentencia condenatoria y su duración podrá extenderse hasta el período que le faltare al adolescente para cumplir veinte años.
 
 En caso de quebrantamiento, se estará a lo dispuesto en el artículo 52 de esta ley, a menos que a consecuencia de la conducción se hubiere afectado la vida, la integridad corporal o la salud de alguna persona, caso en el cual se remitirán los antecedentes al Ministerio Público para el ejercicio de las acciones que correspondan.
 
 #### Artículo 13
 
-Libertad asistida simple. La libertad asistida simple consiste en la sujeción del adolescente al control de un delegado conforme a un plan de desarrollo personal basado en programas y servicios que favorezcan su integración social.
+Libertad asistida. La libertad asistida consiste en la sujeción del adolescente al control de un delegado conforme a un plan de desarrollo personal basado en programas y servicios que favorezcan su integración social.
 
 La función del delegado consistirá en la orientación, control y motivación del adolescente e incluirá la obligación de procurar por todos los medios a su alcance el acceso efectivo a los programas y servicios requeridos.
 
@@ -154,7 +142,7 @@ El control del delegado se ejercerá en base a las medidas de supervigilancia qu
 
 Podrán incluirse en dicho plan medidas como la prohibición de asistir a determinadas reuniones, recintos o espectáculos públicos, de visitar determinados lugares o de aproximarse a la víctima, a sus familiares o a otras personas, u otras condiciones similares.
 
-La duración de esta sanción no podrá ser inferior a los seis ni superior a los dieciocho meses.
+La duración de esta sanción no podrá exceder de tres años.
 
 #### Artículo 14
 
@@ -162,7 +150,7 @@ Libertad asistida especial. En esta modalidad de libertad asistida, deberá aseg
 
 En la resolución que apruebe el plan, el tribunal fijará la frecuencia y duración de los encuentros obligatorios y las tareas de supervisión que ejercerá el delegado.
 
-La duración de esta sanción no podrá ser inferior a los 6 meses ni superior a los tres años.
+La duración de esta sanción no podrá exceder los tres años.
 
 ### Párrafo 3º
 
@@ -170,19 +158,19 @@ De las sanciones privativas de libertad
 
 #### Artículo 15
 
-Sanciones privativas de libertad. Las sanciones privativas de libertad consisten en la libertad asistida especial con internación parcial y en la internación en régimen cerrado con programa de reinserción social.
+Sanciones privativas de libertad. Las sanciones privativas de libertad consisten en la internación en régimen semicerrado con programa de reinserción social y en la internación en régimen cerrado con programa de reinserción social.
 
-El programa de reinserción social se realizará, en lo posible, con la colaboración de la familia.
+Estos programas de reinserción social se realizarán, en lo posible, con la colaboración de la familia.
 
 #### Artículo 16
 
-Libertad asistida especial con internación parcial. La sanción de libertad asistida especial con internación parcial consistirá en la residencia obligatoria del adolescente en un centro de privación de libertad, sujeto a un programa de actividades socioeducativas intensivas a ser desarrollado tanto al interior del recinto como en el medio libre.
+Internación en régimen semicerrado con programa de reinserción social. La sanción de privación de libertad bajo la modalidad de internación en régimen semicerrado con programa de reinserción social consistirá en la residencia obligatoria del adolescente en un centro de privación de libertad, sujeto a un programa de reinserción social a ser desarrollado tanto al interior del recinto como en el medio libre.
 
 Una vez impuesta la pena y determinada su duración, el director del centro que haya sido designado para su cumplimiento, propondrá al tribunal un régimen o programa personalizado de actividades, que considerará las siguientes prescripciones:
 
 a) Las medidas a adoptar para la asistencia y cumplimiento del adolescente del proceso de educación formal o de reescolarización. El director del centro deberá velar por el cumplimiento de esta obligación y para dicho efecto mantendrá comunicación permanente con el respectivo establecimiento educacional;
 
-b) El desarrollo periódico e intensivo de actividades de formación, socioeducativas y de participación, especificando las que serán ejecutadas al interior del recinto y las que se desarrollarán en el medio libre, y c) Las actividades a desarrollar en el medio libre contemplarán, a lo menos, ocho horas, no pudiendo llevarse a cabo entre las 22.00 y las 07.00 horas del día siguiente, a menos que excepcionalmente ello sea necesario para el cumplimiento de los fines señalados en las letras precedentes y en el artículo 20.
+b) El desarrollo periódico de actividades de formación, socioeducativas y de participación, especificando las que serán ejecutadas al interior del recinto y las que se desarrollarán en el medio libre, y c) Las actividades a desarrollar en el medio libre contemplarán, a lo menos, ocho horas, no pudiendo llevarse a cabo entre las 22.00 y las 07.00 horas del día siguiente, a menos que excepcionalmente ello sea necesario para el cumplimiento de los fines señalados en las letras precedentes y en el artículo 20.
 
 El programa será aprobado judicialmente en la audiencia de lectura de la sentencia o en otra posterior, que deberá realizarse dentro de los quince días siguientes a aquélla.
 
@@ -196,9 +184,7 @@ En virtud de ello, dicho régimen considerará necesariamente la plena garantía
 
 #### Artículo 18
 
-Límite máximo de las penas privativas de libertad. Las penas de internación en régimen cerrado con programa de reinserción social, que se impongan a los adolescentes no podrán exceder de cinco años si el infractor tuviere menos de dieciséis años, o de diez años si tuviere más de esa edad. Tampoco se podrán imponer por un período inferior a un año de duración.
-
-La pena de libertad asistida especial con internación parcial no se podrá imponer por un lapso superior a los 5 años, ni inferior a los 6 meses.
+Límite máximo de las penas privativas de libertad. Las penas de internación en régimen cerrado y semicerrado, ambas con programa de reinserción social, que se impongan a los adolescentes no podrán exceder de cinco años si el infractor tuviere menos de dieciséis años, o de diez años si tuviere más de esa edad.
 
 ### Párrafo 4º
 
@@ -210,9 +196,9 @@ Sanciones mixtas
 
 #### Artículo 19
 
-En el caso del numeral 1 del artículo 23, el tribunal sólo podrá imponer complementariamente la sanción de libertad asistida especial con internación parcial, después del segundo año del tiempo de la condena.
+En el caso del numeral 1 del artículo 23, el tribunal sólo podrá imponer complementariamente la sanción de internación en régimen semicerrado, después del segundo año del tiempo de la condena.
 
-- Sanciones mixtas. En los demás casos en que fuere procedente la internación en régimen cerrado con programa de reinserción social o la libertad asistida especial con internación parcial, el tribunal podrá imponer complementariamente una sanción de libertad asistida en cualquiera de sus formas, por un máximo que no supere el tiempo de la condena principal. Esta última se cumplirá:
+- Sanciones mixtas. En los demás casos en que fuere procedente la internación en régimen cerrado o semicerrado, ambas con programa de reinserción social, el tribunal podrá imponer complementariamente una sanción de libertad asistida en cualquiera de sus formas, por un máximo que no supere el tiempo de la condena principal. Esta última se cumplirá:
 
 a) Con posterioridad a la ejecución de la pena privativa de libertad, siempre y cuando en total no se supere la duración máxima de ésta, o
 
@@ -228,7 +214,7 @@ Finalidad de las sanciones y otras consecuencias. Las sanciones y consecuencias 
 
 #### Artículo 21
 
-Reglas para la determinación de la pena de base. Para establecer la pena que servirá de base a la determinación de la que deba imponerse con arreglo a la presente ley, el tribunal deberá aplicar, a partir de la pena inferior en un grado al mínimo de los señalados por la ley para cada uno de los delitos correspondientes, las reglas previstas en los artículos 50 a 78 del Código Penal que resulten aplicables, con excepción de lo dispuesto en el artículo 69 de dicho Código. No se aplicará por ello ninguna de las demás disposiciones que inciden en la cuantificación de la pena conforme a las reglas generales incluyendo al artículo 351 del Código Procesal Penal.
+Reglas de determinación de la extensión de las penas. Para establecer la duración de la sanción que deba imponerse con arreglo a la presente ley, el tribunal deberá aplicar, a partir de la pena inferior en un grado al mínimo de los señalados por la ley para el ilícito correspondiente, las reglas previstas en el Párrafo 4 del Título III del Libro I del Código Penal, con excepción de lo dispuesto en el artículo 69 de dicho Código.
 
 #### Artículo 22
 
@@ -236,17 +222,17 @@ Aplicación de los límites máximos de las penas privativas de libertad. Si la 
 
 #### Artículo 23
 
-Reglas para la determinación de las alternativas de pena. La determinación de las penas que podrán imponerse a los adolescentes conforme al siguiente artículo, se regirá por las reglas siguientes:
+Reglas de determinación de la naturaleza de la pena. La determinación de la naturaleza de la pena que deba imponerse a los adolescentes con arreglo a la presente ley, se regirá por las reglas siguientes:
 
-1. Si la extensión de la pena aplicable conforme a los artículos precedentes supera los cinco años de privación de libertad, el tribunal deberá aplicar la pena de internación en régimen cerrado con programa de reinserción social.
+1. Si la extensión de la pena supera los cinco años de privación de libertad, el tribunal deberá aplicar la pena de internación en régimen cerrado con programa de reinserción social.
 
-2. Si la pena va de tres años y un día a cinco años de privación de libertad o si se trata de una pena restrictiva de libertad superior a tres años, el tribunal podrá imponer las penas de internación en régimen cerrado con programa de reinserción social, la libertad asistida especial con internación parcial o libertad asistida especial.
+2. Si la pena va de tres años y un día a cinco años de privación de libertad o si se trata de una pena restrictiva de libertad superior a tres años, el tribunal podrá imponer las penas de internación en régimen cerrado con programa de reinserción social, internación en régimen semicerrado con programa de reinserción social o libertad asistida especial.
 
-3. Si la pena privativa o restrictiva de libertad se extiende entre quinientos cuarenta y un días y tres años, el tribunal podrá imponer las penas de libertad asistida especial con internación parcial, libertad asistida en cualquiera de sus formas y prestación de servicios en beneficio de la comunidad.
+3. Si la pena privativa o restrictiva de libertad se extiende entre quinientos cuarenta y un días y tres años, el tribunal podrá imponer las penas de internación en régimen semicerrado con programa de reinserción social, libertad asistida en cualquiera de sus formas y prestación de servicios en beneficio de la comunidad.
 
-4. Si la pena privativa o restrictiva de libertad se ubica entre sesenta y uno y quinientos cuarenta días, el tribunal podrá imponer las penas de libertad asistida especial con internación parcial, libertad asistida en cualquiera de sus formas, prestación de servicios en beneficio de la comunidad o reparación del daño causado.
+4. Si la pena privativa o restrictiva de libertad se ubica entre sesenta y uno y quinientos cuarenta días, el tribunal podrá imponer las penas de internación en régimen semicerrado con programa de reinserción social, libertad asistida en cualquiera de sus formas, prestación de servicios en beneficio de la comunidad o reparación del daño causado.
 
-5. Si la pena es igual o inferior a sesenta días, o si no constituye una pena privativa o restrictiva de libertad o multa, el tribunal podrá imponer las penas de prestación de servicios en beneficio de la comunidad, reparación del daño causado o amonestación.
+5. Si la pena es igual o inferior a sesenta días o si no constituye una pena privativa o restrictiva de libertad, el tribunal podrá imponer las penas de prestación de servicios en beneficio de la comunidad, reparación del daño causado, multa o amonestación.
 
 Tabla Demostrativa Extensión de la sanción y penas aplicables
 
@@ -254,27 +240,29 @@ Desde 5 años y 1 día:
 
 - Internación en régimen cerrado con programa de reinserción social.
 
+- Internación en régimen semicerrado con programa de reinserción social.
+
 Desde 3 años y un día a 5 años:
 
 - Internación en régimen cerrado con programa de reinserción social.
 
-- Libertad asistida especial con internación parcial.
+- Internación en régimen semicerrado con programa de reinserción social.
 
 - Libertad asistida especial.
 
 Desde 541 días a 3 años:
 
-- Libertad asistida especial con internación parcial.
+- Internación en régimen semicerrado con programa de reinserción social.
 
-- Libertad asistida simple o especial.
+- Libertad asistida en cualquiera de sus formas.
 
 - Prestación de servicios en beneficio de la comunidad.
 
 Desde 61 a 540 días:
 
-- Libertad asistida especial con internación parcial.
+- Internación en régimen semicerrado con programa de reinserción social.
 
-- Libertad asistida simple o especial.
+- Libertad asistida en cualquiera de sus formas.
 
 - Prestación de servicios en beneficio de la comunidad.
 
@@ -282,85 +270,53 @@ Desde 61 a 540 días:
 
 Desde 1 a 60 días:
 
-- Prestación de servicios en beneficio de la comunidad.
+- Prestación de servicios en beneficio de la
+
+comunidad.
 
 - Reparación del daño causado.
 
+- Multa.
+
 - Amonestación.
 
-La duración de las sanciones de libertad asistida simple, libertad asistida especial y prestación de servicios a la comunidad se regirá por lo dispuesto en los artículos 11, 13 y 14 de la presente ley.
+La duración de las sanciones de libertad asistida, libertad asistida especial y prestación de servicios a la comunidad se regirá por lo dispuesto en los artículos 11, 13 y 14 de la presente ley.
 
 #### Artículo 24
 
-Individualización de la pena. Sin perjuicio de lo dispuesto en los artículos 19, 25 y 25 bis, el tribunal impondrá una sola pena de entre las que fueren procedentes, cualquiera fuera el número de los delitos cometidos. En su caso, se tomará como base las sanciones aplicables al delito que merezca las de mayor gravedad.
+Criterios de determinación de la pena. Para determinar la naturaleza de las sanciones, dentro de los márgenes antes establecidos, el tribunal deberá atender, dejando constancia de ello en su fallo, a los siguientes criterios:
 
-La naturaleza y la extensión de la pena a imponer se orientará por los objetivos señalados en el artículo 20 y se determinará considerando exclusivamente los siguientes criterios, debiendo, en cualquier caso, darse estricto cumplimiento a lo dispuesto en el artículo 63 del Código Penal:
+a) La gravedad del ilícito de que se trate;
 
-1. La gravedad del delito o delitos cometidos, considerando especialmente:
+b) La calidad en que el adolescente participó en el hecho y el grado de ejecución de la infracción;
 
-a. El bien jurídico protegido, la modalidad escogida para su afectación y la extensión del daño causado con su comisión.
+c) La concurrencia de circunstancias atenuantes o agravantes de la responsabilidad criminal;
 
-b. El empleo de la violencia física o de ensañamiento y la naturaleza y entidad de ellas.
+d) La edad del adolescente infractor;
 
-c. La utilización y clase de armas o la provocación de un riesgo grave para la vida o la integridad de las víctimas.
+e) La extensión del mal causado con la ejecución del delito, y
 
-d. La calidad en que interviene el condenado y el grado de ejecución del hecho.
-
-2. Los móviles y demás antecedentes que expliquen la ocurrencia de los hechos y el comportamiento delictivo.
-
-3. La edad y el desarrollo psicosocial del condenado.
-
-4. El comportamiento demostrado con anterioridad y posterioridad a la ocurrencia de los hechos, y durante la instrucción del proceso, particularmente en lo referido a la comisión previa de otros hechos ilícitos sancionados de conformidad con esta ley, y lo que fuere relevante para la valoración de los hechos enjuiciados.
-
-Tratándose de la reiteración de delitos el tribunal tomará como base la pena que corresponda al hecho más grave debiendo, alternativamente, ampliar su extensión o imponer una más gravosa dentro de las alternativas y plazos previstos en la ley, según cual fuere el número de los delitos, las relaciones o nexos existentes entre ellos y su valoración de conjunto conforme a los criterios señalados en los numerales precedentes. En cualquier caso, la pena aplicable será impuesta con una mayor extensión o será sustituida por una más gravosa dentro de las alternativas y plazos previstos en la ley, respecto de quienes cometieren un crimen habiendo sido sancionado previamente por otro.
-
-Las respectivas penas no se impondrán en caso alguno con una extensión inferior o superior a la prevista en los artículos 9°, 11, 13, 14 o 18, respectivamente. Tratándose de las sanciones privativas de libertad, éstas tampoco se podrán imponer con una extensión inferior o superior a la de la pena resultante de la aplicación del artículo 21, a no ser que sobrepase los límites mínimos o máximos previstos para cada caso en la presente ley. En este último caso, el límite se ajustará a aquellos.
-
-El tribunal deberá especificar y fundamentar en el fallo la forma como ha procedido a la fijación de la pena a partir de los criterios señalados indicando los hechos que los respaldan.
+f) La idoneidad de la sanción para fortalecer el respeto del adolescente por los derechos y libertades de las personas y sus necesidades de desarrollo e integración social.
 
 #### Artículo 25
 
-Imposición conjunta de más de una pena. Sin perjuicio de lo dispuesto en el artículo 19, sólo en las situaciones regladas en los numerales 3 y 4 del artículo 23, el tribunal podrá imponer conjuntamente dos de las penas que las mismas reglas señalan, siempre que la naturaleza de éstas permita su cumplimiento simultáneo.
+Imposición conjunta de más de una pena. En las situaciones regladas en los numerales 3 y 4 del artículo 23, el tribunal podrá imponer conjuntamente dos de las penas que las mismas reglas señalan, siempre que la naturaleza de éstas permita su cumplimiento simultáneo.
 
 Lo dispuesto en el inciso precedente tendrá lugar sólo cuando ello permita el mejor cumplimiento de las finalidades de las sanciones de esta ley expresadas en el artículo 20 y así se consigne circunstanciadamente en resolución fundada.
-
-#### Artículo 25 bis
-
-Determinación de las sanciones accesorias. El comiso de los objetos, documentos e instrumentos del delito se impondrá en todas las condenas. La prohibición de conducir vehículos motorizados se impondrá, en todo caso, cuando concurran los presupuestos descritos en el inciso primero del artículo 12 de la presente ley, con una extensión mínima de 6 meses y máxima de 4 años.
-
-Las medidas accesorias previstas en el artículo 9° de la ley N° 20.066, que establece la Ley de Violencia Intrafamiliar, se impondrán en los casos y formas que las justifican conforme a las reglas generales, a excepción de las previstas en las letras a) y b) cuando el condenado y la víctima compartieren domicilio, residencia o lugar de estudio o trabajo y el primero fuese menor de edad. Estas últimas sólo se podrán imponer en dicho caso, en situaciones extremadamente calificadas, debiendo fundarse en antecedentes objetivos y específicos de los que se deberá dar cuenta de forma detallada en la sentencia debiendo además adoptarse los resguardos que garanticen que el condenado no quedará privado de condiciones mínimas para su desarrollo. Las sanciones accesorias de que trata este inciso se podrán imponer, con una extensión mínima de 6 meses y máxima de 2 años.
-
-La prohibición de asistir a cualquier espectáculo de fútbol profesional y a sus inmediaciones se aplicará en los casos y formas previstos en la ley N° 19.327, incluyendo lo dispuesto en los incisos tercero y cuarto de la letra b) del artículo 16 de dicho cuerpo legal. Las sanciones accesorias de que trata este inciso se podrán imponer, con una extensión mínima de 6 meses y máxima de 4 años.
-
-#### Artículo 25 ter
-
-Concurso de infracciones correspondientes a regímenes diversos. Si en un mismo proceso se debiera imponer condena por delitos cometidos siendo menor y mayor de dieciocho años de edad se impondrá exclusivamente la pena aplicable a estos últimos.
-
-Se exceptúa el caso en que fuere más grave el delito cometido siendo menor de edad, en cuyo caso la pena aplicable a las diversas infracciones se impondrá de conformidad a las reglas previstas en el presente título.
-
-A los efectos de este artículo y del siguiente se considerará más grave el delito o conjunto de ellos que tuviere asignada en la ley una mayor pena de conformidad con las reglas generales. No obstante, el tribunal también podrá calificar su mayor gravedad teniendo en cuenta la naturaleza y extensión o cuantía de la sanción comparativa que fuere aplicable en concreto en uno y otro caso.
-
-Lo dispuesto en el inciso primero, también se aplicará si la ejecución del delito se iniciare antes del cumplimiento de la mayoría de edad y terminare luego que ésta se hubiere alcanzado.
-
-#### Artículo 25 quáter
-
-Unificación de condenas. Si con posterioridad a la acusación o requerimiento o durante la ejecución de una sanción prevista en esta ley, el responsable fuere condenado por la comisión de un delito diverso al que la justifica, el tribunal que deba sancionarlo procederá a regular la pena que hubiere correspondido aplicar a la totalidad de los delitos cometidos en caso que hubieren sido juzgados conjuntamente de conformidad con lo dispuesto en las demás reglas del presente Título. En dicho caso el tiempo de ejecución que se hubiere satisfecho será abonado a la nueva condena, salvo que se trate de las penas previstas en las letras e) o f) del artículo 6°.
-
-Lo dispuesto precedentemente no tendrá lugar tratándose de la comisión de uno o más simples delitos de menor gravedad respecto de aquellos que fundan la condena en curso de ejecución. En dicho caso se aplicará lo dispuesto en el artículo 52, considerando los hechos, a estos efectos, como un quebrantamiento de condena.
-
-Lo dispuesto en el inciso precedente también tendrá lugar respecto de todos aquellos que ya se encontraren cumpliendo una condena por el máximo de las penas que autoriza la ley para la sanción de los delitos de que se trate. Se exceptúa de esta regla el caso en que el condenado cumpliere una pena de internamiento en régimen cerrado por el máximo que autoriza la ley, en cuyo caso se aplicará lo dispuesto en el inciso primero. Si en dicho caso el resultado fuese equivalente se podrá aumentar la extensión del internamiento hasta por un período de tres años adicionales.
-
-A estos efectos no tendrá lugar lo dispuesto en el artículo 164 del Código Orgánico de Tribunales.
-
-#### Artículo 25
-
-quinquies.- Unificación de condenas de diversos regímenes. Lo dispuesto en el artículo anterior también se aplicará si el nuevo delito ha sido cometido siendo el condenado mayor de 18 años, a menos que se trate de un delito de mayor gravedad o que deba recibir una sanción superior. En dicho caso tendrá lugar lo dispuesto en el artículo 25 ter, extinguiéndose de pleno derecho la condena que se encontrare en curso de ejecución.
 
 #### Artículo 26
 
 Límites a la imposición de sanciones. La privación de libertad se utilizará sólo como medida de último recurso.
 
-En ningún caso se podrá imponer en virtud de esta ley una pena que fuere más gravosa que aquella que hubiere de ser aplicada en forma efectiva a un adulto que hipotéticamente hubiese sido condenado por un hecho análogo y en equivalentes circunstancias. A dichos efectos se tendrá en cuenta su naturaleza y, cuando fuere equivalente, su extensión.
+En ningún caso se podrá imponer una pena privativa de libertad si un adulto condenado por el mismo hecho no debiere cumplir una sanción de dicha naturaleza.
+
+## Título II
+
+Procedimiento
+
+### Párrafo 1º
+
+Disposiciones generales
 
 ## Título II
 
@@ -374,21 +330,13 @@ Disposiciones generales
 
 Reglas de procedimiento. La investigación, juzgamiento y ejecución de la responsabilidad por infracciones a la ley penal por parte de adolescentes se regirá por las disposiciones contenidas en la presente ley y supletoriamente por las normas del Código Procesal Penal.
 
-El conocimiento y fallo de las infracciones respecto de las cuales el Ministerio Público requiera una pena no privativa de libertad se sujetará a las reglas del procedimiento simplificado, según sea el caso, regulados en el Título I del Libro IV del Código Procesal Penal.
-
-El procedimiento abreviado procederá conforme a las reglas generales, a menos que la pena solicitada sea la internación en régimen cerrado con programa de reinserción social con una duración superior a los 5 años. También podrá solicitarse una sanción mixta en la medida que se ajuste al plazo antes señalado.
-
-#### Artículo 27 bis
-
-Consentimiento informado. Siempre que el consentimiento del adolescente sea condición para acceder a un determinado procedimiento, suspenderlo o ponerle término, o que se requiera para efectos de la aplicación de la cooperación eficaz contemplada en el artículo 36 bis de esta ley, el Juez deberá cerciorarse, antes de resolver, de que ha conversado con el defensor privadamente; y que ha sido adecuadamente informado de sus derechos y de las implicancias procesales que conllevan dichas decisiones. Tratándose del procedimiento abreviado verificará en particular si comprende que renuncia al juicio oral y que podría ser condenado o absuelto. En dichas actuaciones el Juez deberá usar un lenguaje comprensible acorde a la madurez y desarrollo del adolescente.
+El conocimiento y fallo de las infracciones respecto de las cuales el Ministerio Público requiera una pena no privativa de libertad se sujetará a las reglas del procedimiento simplificado o monitorio, según sea el caso, regulados en el Título I del Libro IV del Código Procesal Penal.
 
 #### Artículo 28
 
 Concurso de procedimientos. Si a una misma persona se le imputa una infracción sancionada por esta ley y un delito cometido siendo mayor de dieciocho años, la investigación y juzgamiento de estos hechos se regirá por las normas del Código Procesal Penal aplicable a los imputados mayores de edad.
 
-Lo dispuesto en el inciso precedente no tendrá lugar en los casos previstos en el inciso segundo del artículo 25 ter, debiendo en dicho caso darse estricto cumplimiento a lo previsto en el presente Título.
-
-Por su parte, si en un mismo procedimiento se investiga la participación punible de personas mayores y menores de edad, tendrá lugar lo dispuesto en el artículo 185 del Código Procesal Penal. Sin perjuicio de ello se procederá a la acusación conjunta de todos los delitos y responsabilidades, debiendo en todo caso darse estricto cumplimiento a las normas que conforme a esta ley son aplicables al juzgamiento de los adolescentes, debiendo conocer del asunto el Juzgado o Tribunal que ejerciere competencia en materia penal de adolescentes. Sólo podrán dictarse diversos autos de apertura del juicio oral si se trata estrictamente de alguno de los casos de que trata el inciso segundo del artículo 274 del Código Procesal Penal.
+Por su parte, si en un mismo procedimiento se investiga la participación punible de personas mayores y menores de edad, tendrá lugar lo dispuesto en los artículos 185 y 274 del Código Procesal Penal. En todo caso, si se hubiere determinado la sustanciación conjunta de los procesos, se dará cumplimiento, respecto del menor, de las normas que conforme a esta ley son aplicables al juzgamiento de los adolescentes.
 
 ### Párrafo 2º
 
@@ -403,22 +351,6 @@ No obstante, todo fiscal, defensor o juez con competencia en materias criminales
 En virtud de lo dispuesto en los incisos precedentes, los comités de jueces de los tribunales de garantía y orales en lo penal considerarán, en el procedimiento objetivo y general de distribución de causas, la radicación e integración preferente de quienes cuenten con dicha capacitación.
 
 Cada institución adoptará las medidas pertinentes para garantizar la especialización a que se refiere la presente disposición.
-
-#### Artículo 29 bis
-
-Especialización de la justicia penal para adolescentes. Sin perjuicio de lo dispuesto en el artículo precedente el conocimiento de los procesos referidos a la responsabilidad penal regulada en la presente ley y su fallo, cuando proceda, corresponderá en exclusiva a las salas especializadas, en los lugares en que existieren. En dichos casos las competencias correspondientes a los fiscales del Ministerio Público serán ejercidas por fiscales adjuntos especializados en la instrucción de procesos asociados a la responsabilidad penal de adolescentes. Asimismo, la defensa penal de quienes fueren imputados o acusados y de quienes cumplieren condena en virtud de dicha responsabilidad corresponderá igualmente a defensores especializados en responsabilidad penal de adolescentes, en la medida en que carezcan de abogado.
-
-En dichos casos los fiscales y defensores que fueren designados como especializados ejercerán dichas funciones en forma exclusiva mientras conserven dicha calidad.
-
-El Ministerio Público y la Defensoría Penal Pública procurará la misma asignación de especialización de fiscales y defensores, respectivamente, en los lugares donde funcionaren, salas, jornadas o días preferentes para el conocimiento de los procesos asociados a la responsabilidad penal de los adolescentes regulada en la ley N° 20.084, aun y cuando no sea obligatorio que su desempeño en dichas funciones se ejerza en forma exclusiva.
-
-#### Artículo 29 ter
-
-Formación y capacitación. Los jueces y funcionarios judiciales que se desempeñen en las salas especializadas en responsabilidad penal de adolescentes de los juzgados de garantía deberán haber aprobado una formación especializada impartida en el marco del programa de perfeccionamiento destinado a los miembros de los escalafones primario, secundario y de empleados del Poder Judicial. Lo señalado también será aplicable a quienes cumplan dichas funciones en casos de suplencia, subrogancia o interinato.
-
-Quienes deban cumplir funciones como fiscal o defensor especializado, y quienes deban suplirlos o subrogarlos en conformidad a la ley, también deberán haber aprobado una formación especializada, aun y cuando no ejerzan dichas funciones en forma exclusiva.
-
-El perfeccionamiento y capacitación de que trata el presente artículo deberá comprender, como mínimo, los contenidos de la ley N° 20.084, su reglamento, jurisprudencia relevante y la normativa internacional afín, y la normativa institucional del Servicio de Reinserción Social Juvenil. Incluirá, además, las referencias necesarias para comprender los caracteres de las principales teorías explicativas del comportamiento delictivo juvenil que cuenten con evidencia empírica y del desarrollo evolutivo psicosocial y biológico de la adolescencia y los principales modelos de intervención y prácticas efectivas que se orienten a motivar un cambio. Deberá, asimismo, considerar información sobre los estándares exigidos en forma transversal y por programa; sobre la existencia o disponibilidad de estos últimos en la red y su funcionamiento, y sobre los caracteres generales del sistema de supervisión.
 
 #### Artículo 30
 
@@ -442,35 +374,9 @@ Si el hecho imputado al menor fuere alguno de aquellos señalados en el artícul
 
 Medidas cautelares del procedimiento. La internación provisoria en un centro cerrado sólo será procedente tratándose de la imputación de las conductas que de ser cometidas por una persona mayor de dieciocho años constituirían crímenes, debiendo aplicarse cuando los objetivos señalados en el inciso primero del artículo 155 del Código Procesal Penal no pudieren ser alcanzados mediante la aplicación de alguna de las demás medidas cautelares personales.
 
-Se deberá levantar el informe técnico de que trata el artículo 37 bis respecto de todo imputado que permaneciere más de 15 días sujeto a internación provisoria o bajo sujeción a la vigilancia de una autoridad.
-
-#### Artículo 32 bis
-
-Sujeción a la vigilancia. Las instituciones encargadas de ejecutar la medida cautelar de sujeción a la vigilancia prevista en la letra b) del inciso primero del artículo 155 del Código Procesal Penal, cuando procediere, deberán supervisar el cumplimiento de las obligaciones que impone el proceso mediante acciones de control, monitoreo y orientación. Deberán, asimismo, coordinar la atención de las necesidades sociales, psicológicas, educativas, de salud y de orientación judicial del adolescente imputado mediante acciones de derivación asistida.
-
-Finalmente, deberán también informar al tribunal sobre el curso y desarrollo de la medida con la periodicidad que éste determine.
-
-#### Artículo 32 ter
-
-Cautelares previstas en leyes especiales. Las medidas accesorias previstas en el artículo 6° podrán ser impuestas como cautelares conforme a las reglas generales, debiendo en cualquier caso tener lugar lo dispuesto en el inciso segundo del artículo 25 bis de la presente ley.
-
-Asimismo, la prohibición de asistir a cualquier espectáculo de fútbol profesional y a sus inmediaciones también se podrá imponer como medida cautelar de conformidad con lo dispuesto en el artículo 15 de la ley Nº 19.327, de derechos y deberes en los espectáculos de fútbol profesional.
-
 #### Artículo 33
 
 Proporcionalidad de las medidas cautelares. En ningún caso podrá el juez dar lugar a una medida que parezca desproporcionada en relación con la sanción que resulte probable de aplicar en caso de condena.
-
-El tiempo que el imputado cumpliere en internación provisoria, detenido o bajo arresto domiciliario, deberá ser abonado íntegramente en caso que fuere condenado a alguna de las penas previstas en las letras
-
-- **a)** a
-
-- **d)** del artículo 6°, a razón de un día de cumplimiento por cada día de internamiento o arresto, o fracción igual o superior a doce horas, indistintamente. De igual modo, el tiempo que el imputado cumpliere bajo arresto domiciliario o sujeto a la vigilancia de una institución deberá ser abonado íntegramente tratándose de las penas previstas en las letras
-
-- **b)** a
-
-- **d)** del artículo 6°.
-
-En caso que la pena a cumplir fuere inferior al mínimo previsto en la ley para la pena de que se trate, la extensión efectiva que se deberá cumplir se ajustará a dicho límite.
 
 #### Artículo 34
 
@@ -482,81 +388,7 @@ Principio de oportunidad. Para el ejercicio del principio de oportunidad estable
 
 Asimismo, para la aplicación de dicha norma se tendrá como base la pena resultante de la aplicación del artículo 21 de la presente ley.
 
-### Párrafo 4° — De las salidas alternativas al procedimiento
-
-#### Artículo 35
-
-Principio de oportunidad. Para el ejercicio del principio de oportunidad establecido en el artículo 170 del Código Procesal Penal, los fiscales tendrán en especial consideración la incidencia que su decisión podría tener en la vida futura del adolescente imputado.
-
-Asimismo, para la aplicación de dicha norma se tendrá como base la pena resultante de la aplicación del artículo 21 de la presente ley.
-
-#### Artículo 35 bis
-
-Suspensión condicional del procedimiento. La suspensión condicional del procedimiento procederá conforme a las reglas generales, sin perjuicio de las siguientes excepciones:
-
-1. No será aplicable lo dispuesto en la letra a) del inciso tercero del artículo 237 del Código Procesal Penal, pudiendo decretarse en cualquier caso, a menos que la pena resultante de lo dispuesto en el artículo 21 fuese de aquellas que señala el numeral 1 del artículo 23.
-
-2. Se podrá decretar por un plazo no inferior a 6 ni superior a los 12 meses.
-
-3. El tribunal podrá imponer una o más de las condiciones señaladas en el artículo 238 del Código Procesal Penal, a excepción de las dispuestas en las letras e), f) y h) y de la obligación de no residir en un lugar determinado. Podrá, asimismo, decretar la obligación de reparar a la víctima, prestar un servicio a la comunidad o de asistir a programas de entrenamiento cognitivo, terapia familiar, de tratamiento de alcohol y/u otras drogas, de intervención en violencia o abuso sexual u otro semejante.
-
-4. También se podrá imponer alguna de las medidas accesorias previstas en la letra c) del artículo 6°, en cuyo caso tendrá lugar lo dispuesto en el inciso segundo del artículo 25 bis de la presente ley.
-
-5. Se deberá precisar la institución o la estrategia interinstitucional para ejecutar las condiciones impuestas, así como para supervisar su cumplimiento y la periodicidad de la intervención. Se podrán, asimismo, fijar audiencias de control y de seguimiento periódicas para verificar el cumplimiento de las condiciones impuestas o monitorear la asistencia al programa al que hubiere sido derivado. Cualquiera de dichas instituciones podrá también solicitar la revocación en los términos del artículo 239 del Código Procesal Penal.
-
-### Párrafo 5º — De la mediación
-
-#### Artículo 35 ter
-
-Mediación. Las causas en que fuere procedente la suspensión condicional del procedimiento, el acuerdo reparatorio o el principio de oportunidad se podrán derivar a mediación, siempre y cuando la víctima y el imputado consientan libre y voluntariamente en someter el conflicto a dicha instancia. La intervención y permanencia en el mismo será, igualmente, personal y voluntaria, en todo momento.
-
-Se entiende por mediación la realización de un proceso restaurativo y especializado, en virtud del cual la víctima y el imputado acuerdan determinar conjuntamente la reparación real o simbólica del daño ocasionado con la comisión del delito, asistidos por un mediador.
-
-La derivación al procedimiento de mediación, deberá realizarla el tribunal, si se hubiere procedido a la formalización del imputado, o la llevará a cabo el fiscal, en caso contrario. En este último caso, también podrá efectuarla el tribunal a petición de la víctima y el imputado, si se cumplen las condiciones previstas en el protocolo de que trata el inciso final del presente artículo. El proceso de mediación no podrá durar más de 90 días contados desde su derivación, pudiendo prorrogarse hasta por el mismo término a solicitud fundada del mediador.
-
-En cualquier caso, la derivación suspende el curso del correspondiente proceso. Si en la causa existiere pluralidad de imputados o víctimas, el procedimiento continuará respecto de quienes no hubieren concurrido a la mediación.
-
-Una vez cumplido por parte del imputado lo acordado en la mediación, se dará lugar al archivo provisional o al sobreseimiento, según sea el caso, sin perjuicio de lo convenido respecto a los efectos civiles del delito.
-
-No procederá la mediación si se hubiere declarado el cierre de la investigación ni tratándose de procesos referidos a delitos dolosos contra la vida, contra la libertad ambulatoria, contra la libertad sexual cometidos contra personas menores de edad y respecto de los delitos y faltas tipificados en la ley N° 20.000, a excepción de los previstos en los artículos 4° y 50.
-
-El Ministerio de Justicia y Derechos Humanos, el Ministerio Público y la Defensoría Penal Pública establecerán conjuntamente un protocolo estructurado de condiciones personales y procesales bajo las que se estima procedente la derivación, cuyos contenidos deberán reevaluarse anualmente. Se establecerán, asimismo, exigencias particulares y de carácter excepcional para la derivación de los hechos que fueren constitutivos de violencia intrafamiliar. En todo caso deberá darse estricto cumplimiento a lo dispuesto en los incisos segundo y tercero del artículo 2° de la ley N° 20.609, que establece medidas contra la discriminación.
-
-#### Artículo 35 quáter
-
-Principios esenciales de la mediación. El mediador se cerciorará de que los participantes se encuentren en igualdad de condiciones para participar del proceso y adoptar acuerdos. Si no fuese así, propondrá o adoptará, en su caso, las medidas necesarias para que se obtenga ese equilibrio. De no ser ello posible, declarará terminada la mediación.
-
-Asimismo, se deberá abstener de realizar actuaciones que comprometan la debida imparcialidad que debe caracterizar su actuación con los participantes. Si tal imparcialidad se viere afectada por cualquier causa, se deberá abstener de realizar el proceso de mediación.
-
-#### Artículo 35
-
-quinquies.- Mediación excepcional. En todo caso, también podrá ser derivado a mediación un proceso que no cumpla con las exigencias señaladas en los incisos primero y sexto del artículo 35 ter, a solicitud de la víctima, con consentimiento libre e informado del imputado y autorizado por el juez de garantía competente, y cumpliéndose las demás exigencias legales. En dicho caso, la derivación no suspende el curso del proceso, salvo en los delitos del inciso sexto del artículo 35 ter, respecto de los cuales aquél no podrá suspenderse.
-
-En estos casos la mediación exitosa, con acuerdo cumplido por parte del imputado, podrá ser considerada como un antecedente para la determinación o suspensión de la imposición de la pena, en la imposición o mantención de medidas cautelares y en las audiencias de sustitución y remisión de condena.
-
-#### Artículo 35
-
-sexies.- Efectos de la mediación frustrada. Si la mediación se frustrare por una causa que no fuere atribuible al imputado y hubiere sido posible constatar signos concretos de responsabilización, el mediador deberá dejar constancia de los mismos en el acta respectiva, a efectos de que sean evaluados por el tribunal para atenuar su responsabilidad penal si, se llegare a imponer una condena. Asimismo, según cual fuere su contenido, podrá también servir como antecedente en las audiencias de sustitución y remisión de condena.
-
-Fuera de los casos mencionados en el inciso precedente, todo proceso de mediación, frustrada o exitosa, y todos los antecedentes referidos a aquél, se regirán por lo dispuesto en el artículo 335 del Código Procesal Penal. Con ello ninguna de las actuaciones o comunicaciones, verbales o escritas, de las partes que se realicen durante el proceso de mediación, podrá ser ventilada o comunicada a terceros, sin el expreso consentimiento previo y por escrito de ambas partes, encontrándose el mediador resguardado por el secreto profesional. Con todo, el mediador quedará exento del deber de confidencialidad en aquellos casos en que se constatare un riesgo inminente respecto de la integridad física y/o psíquica de niños, niñas, adolescentes o personas que se encuentren en situación de vulnerabilidad.
-
-#### Artículo 35
-
-septies.- Programa de mediación. A los efectos de lo dispuesto en el presente Párrafo, el Servicio Nacional de Reinserción Social Juvenil dispondrá de un programa especial de mediación penal, integrado por mediadores públicos o contratados de conformidad a la ley N° 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios, y su Reglamento.
-
-Los mediadores deberán encontrarse acreditados en un Registro de Mediadores Penales. El procedimiento, requisitos de ingreso y permanencia, supervisión y sanción, así como también las causales de eliminación del Registro, se establecerán a través de un Reglamento, de conformidad a lo dispuesto en el artículo 33 de la ley orgánica que crea el Servicio Nacional de Reinserción Social Juvenil.
-
-En todo caso, para inscribirse en el Registro del inciso anterior, se requerirá poseer título profesional de una carrera universitaria que tenga, al menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste; acreditar formación especializada en mediación y en materias de infancia, adolescencia, victimología, proceso penal juvenil y justicia restaurativa, y no haber sido condenada por crimen o simple delito, por maltrato constitutivo de violencia intrafamiliar, en conformidad a lo dispuesto por el artículo 8° de la ley N° 20.066, o sancionada por la ley N° 20.609, que establece medidas contra la discriminación.
-
-El incumplimiento de los requisitos y de los principios establecidos en el artículo siguiente por parte del mediador, será considerado una falta grave y dará lugar a las sanciones administrativas procedentes. Se deberán asimismo adoptar las medidas sancionatorias que procedieren en ejercicio de las facultades de supervisión y asistencia técnica que se reconocen al Servicio Nacional de Reinserción Social Juvenil. En su caso, se deberá hacer uso de las sanciones previstas en el artículo 49 de la Ley que crea dicho Servicio.
-
-El programa de mediación penal deberá también ofrecer un mecanismo que permita a las partes acceder a la información necesaria para resolver su intervención en el programa de mediación. El programa se encargará además de la supervisión del cumplimiento de los acuerdos alcanzados y de las certificaciones que correspondan.
-
-La mediación de que trata este Párrafo será siempre gratuita para las partes.
-
-Toda persona que cumpla funciones como mediador deberá informar mensualmente al Ministerio Público o al Tribunal, según corresponda, sobre las mediaciones que estén a su cargo, indicando exclusivamente si se encuentran activas.
-
-### Párrafo 6º
+### Párrafo 4º
 
 Inicio de la persecución de la responsabilidad por la infracción a la ley penal por parte de un adolescente
 
@@ -564,37 +396,17 @@ Inicio de la persecución de la responsabilidad por la infracción a la ley pena
 
 Primera audiencia.- De la realización de la primera audiencia a que deba comparecer el imputado deberá notificarse a sus padres o a la persona que lo tenga bajo su cuidado. Si el juez lo considera necesario, permitirá la intervención de éstos, si estuvieren presentes en la audiencia.
 
-#### Artículo 36 bis
-
-Cooperación eficaz. Lo dispuesto en el artículo 22 y el Párrafo 2º del Título III de la ley Nº 20.000 será aplicable a la sustanciación y fallo de cualquiera de los procesos incoados en virtud de la presente ley. En estos casos se dará también aplicación a lo previsto en el artículo 27 bis. Se tendrán especialmente en cuenta las circunstancias y necesidades de los adolescentes al adoptarse las medidas especiales de protección previstas en los artículos 30 y siguientes de la ley Nº 20.000.
-
 #### Artículo 37
 
 Juicio Inmediato. Las reglas del juicio inmediato establecidas en el artículo 235 del Código Procesal Penal serán plenamente aplicables cada vez que el fiscal lo solicite y especialmente cuando se trate de una infracción flagrante imputada a un adolescente.
 
 En estos casos, sólo por razones fundadas que el fiscal señalará en su petición, el juez de garantía podrá autorizar la realización de diligencias concretas y determinadas para la investigación de una infracción flagrante, las que no podrán exceder de 60 días, rigiendo, en lo demás, lo dispuesto en el artículo siguiente. Igual derecho asistirá a la defensa del imputado, en el mismo caso.
 
-#### Artículo 37 bis
-
-Informe técnico. El Ministerio Público o la Defensa podrán solicitar al tribunal correspondiente, por escrito o verbalmente, la emisión de un informe técnico en cualquier etapa del procedimiento, a ser evacuado por el Servicio Nacional de Reinserción Social Juvenil.
-
-Dicho informe deberá referirse a los criterios señalados en el inciso segundo del artículo 24. Sólo podrá ser utilizado en las actuaciones judiciales relativas a la determinación de la pena, una vez evacuado el veredicto condenatorio.
-
-La infracción de la obligación de reserva se sancionará conforme a las reglas generales.
-
-La resolución que apruebe la expedición del informe señalado en este artículo deberá indicar el plazo máximo en que éste debe ser evacuado, el cual no podrá superar los quince días. En casos calificados, el tribunal, en la misma resolución, podrá fundadamente disponer de un plazo de hasta veinte días. Con todo, en ningún caso el tribunal podrá establecer un plazo inferior a los ocho días. La resolución de que trata este artículo no será susceptible de recurso alguno.
-
-El tribunal deberá notificar al Servicio Nacional de Reinserción Social Juvenil dicha resolución inmediatamente por la vía más expedita posible.
-
-El incumplimiento del plazo señalado en el inciso cuarto será considerado una falta grave y dará lugar a las sanciones administrativas procedentes. Este apercibimiento deberá constar expresamente en la resolución de que tratan los incisos precedentes.
-
 #### Artículo 38
 
-Plazo para declarar el cierre de la investigación. Transcurrido el plazo máximo de seis meses desde la fecha en que la investigación hubiere sido formalizada, el fiscal procederá a cerrarla, a menos que el juez le hubiere fijado un plazo inferior, y sin perjuicio de la posibilidad de solicitar una ampliación en dicho caso de conformidad con las reglas generales. Antes de cumplirse cualquiera de estos plazos, el fiscal podrá solicitar, fundadamente, su ampliación por un máximo de dos meses.
+Plazo para declarar el cierre de la investigación. Transcurrido el plazo máximo de seis meses desde la fecha en que la investigación hubiere sido formalizada, el fiscal procederá a cerrarla, a menos que el juez le hubiere fijado un plazo inferior. Antes de cumplirse cualquiera de estos plazos, el fiscal podrá solicitar, fundadamente, su ampliación por un máximo de dos meses.
 
-En cualquier caso, dicho plazo se deberá suspender si se hubiere derivado el conflicto a una instancia de mediación y mientras ésta dure.
-
-### Párrafo 7º
+### Párrafo 5º
 
 Juicio oral y sentencia
 
@@ -606,45 +418,7 @@ En ningún caso el juicio podrá suspenderse o interrumpirse por un término sup
 
 #### Artículo 40
 
-Audiencia de determinación de la pena. La audiencia a que se refiere el inciso final del artículo 343 del Código Procesal Penal deberá siempre llevarse a cabo en caso de dictarse sentencia condenatoria, pudiendo el tribunal diferir la determinación de la pena y la redacción y lectura del fallo hasta por un máximo de 2 días adicionales. Antes de finalizar la audiencia el tribunal podrá realizar consultas a los intervinientes o pedir aclaraciones necesarias para resolver.
-
-Si ninguna de las partes hubiere solicitado un informe técnico procederá el Tribunal a requerirlo, pudiendo en dicho caso ampliarse la audiencia de determinación de la pena hasta por un máximo de 8 días en total. Podrá, asimismo, requerir la presencia de quienes hubieren intervenido en su preparación en calidad de peritos o solicitar la actualización de un informe evacuado en el curso del procedimiento, sea de oficio o a petición de alguna de las partes.
-
-En todo caso el tribunal requerirá la información actualizada de los centros y programas vigentes, su cobertura y disponibilidad.
-
-Lo dispuesto en el presente artículo será aplicable a toda condena, sea que se pronuncie en un juicio oral, tras un procedimiento simplificado o abreviado.
-
-#### Artículo 40 bis
-
-Plan de intervención. La ejecución de las condenas impuestas quedará sujeta a la aprobación judicial de un plan de intervención, estructurado a partir de las reglas técnicas que al efecto determine el Servicio Nacional de Reinserción Social Juvenil, y que deberá tener lugar en un máximo de 15 días desde la fecha en que se comunica la sentencia conforme lo dispuesto en el artículo 468 del Código Procesal Penal. Dicha comunicación se hará en audiencia ante el Tribunal encargado de la ejecución de la sentencia, siendo obligatoria la presencia del condenado.
-
-El plan de intervención deberá responder al diagnóstico sociocriminológico del adolescente condenado debiendo precisar los objetivos, los indicadores de logro de dichos objetivos, las áreas de intervención conforme a lo dispuesto en los artículos 13, 14, 16 y 17 de la presente ley y las actividades a desarrollar por parte del equipo técnico encargado de su ejecución. Asimismo, fijará los plazos para la evaluación de dicha ejecución.
-
-El incumplimiento del plazo de 15 días señalado en el inciso primero, será considerado una falta grave y dará lugar a las sanciones administrativas procedentes. Se deberán asimismo adoptar las medidas sancionatorias que procedieren en ejercicio de las facultades de supervisión y asistencia técnica que se reconocen al Servicio Nacional de Reinserción Social Juvenil. En su caso, se deberá hacer uso de las sanciones previstas en el artículo 49 de la ley que crea dicho Servicio.
-
-En todo caso, siempre tendrá lugar lo dispuesto en el artículo 41 bis de la presente ley.
-
-Toda modificación que sufra el plan de intervención requerirá de una nueva autorización en audiencia judicial en la medida en que varíe las condiciones de ejecución de la condena y a menos que las razones que lo motivan hayan sido objeto de controversia judicial.
-
-Lo dispuesto en el presente artículo no será aplicable a la condena prevista en la letra
-
-- **h)** del artículo 6°. Tratándose de las condenas previstas en las letras
-
-- **e)** y
-
-- **f)** de dicha disposición tendrá lugar lo señalado en el artículo siguiente.
-
-#### Artículo 40 ter
-
-Si la condena impusiere las penas de reparación del daño causado o prestación de servicios en beneficio de la comunidad, el tribunal derivará al condenado a un programa de mediación para la fijación de una propuesta sobre las condiciones específicas de cumplimiento de dichas condenas, suspendiendo el plazo a que se refiere el artículo precedente.
-
-En caso alguno la mediación podrá extenderse más allá de dicho objetivo. Los mediadores deberán asimismo observar los protocolos y orientaciones técnicas que imparta el Servicio Nacional de Reinserción Social Juvenil en relación a la ejecución de dichas condenas.
-
-Si se frustrare la mediación o si esta no fuere procedente acorde a lo dispuesto en el artículo 35 ter, el tribunal determinará las condiciones de cumplimiento de dichas condenas conforme a las reglas generales. En dicho caso, se tendrá en cuenta el caso en que la frustración se produjere por causas que no fueren atribuibles al condenado
-
-#### Artículo 40 quáter
-
-Remisión de antecedentes. Si la condena impusiere las penas de reparación del daño causado, prestación de servicios en beneficio de la comunidad o amonestación y en el curso del proceso se conocieren antecedentes que den cuenta de que el condenado presenta adicción a las drogas o al alcohol, el tribunal ordenará en la misma sentencia que dichos antecedentes sean remitidos a la autoridad competente, según se trate de un condenado menor o mayor de edad, para la adopción de las medidas o acciones que corresponda aplicar.
+Audiencia de determinación de la pena. La audiencia a que se refiere el inciso final del artículo 343 del Código Procesal Penal deberá llevarse a cabo en caso de dictarse sentencia condenatoria. En dicha audiencia, el tribunal podrá requerir la opinión de peritos.
 
 #### Artículo 41
 
@@ -654,13 +428,7 @@ Transcurrido el plazo previsto en el inciso anterior sin que el imputado hubiere
 
 Esta suspensión no afectará la responsabilidad civil derivada del delito.
 
-Lo dispuesto en este artículo es sin perjuicio de la posibilidad de decretar la suspensión condicional del procedimiento por un plazo no inferior a 6 ni superior a los 12 meses.
-
-#### Artículo 41 bis
-
-Ejecución y cumplimiento de condena. El cumplimiento de las condenas de internamiento en régimen cerrado con programa de reinserción social, se iniciará el día en que quede ejecutoriada la sentencia que las impone.
-
-En las demás condenas la ejecución se iniciará el día de ingreso efectivo del condenado al respectivo programa.
+Lo dispuesto en este artículo es sin perjuicio de la posibilidad de decretar la suspensión condicional del procedimiento.
 
 ## Título III
 
@@ -672,23 +440,23 @@ Administración
 
 #### Artículo 42
 
-Administración de las medidas no privativas de libertad. El Servicio Nacional de Reinserción Social Juvenil asegurará la existencia en las distintas regiones del país de los programas necesarios para la ejecución y control de las medidas a que se refiere esta ley, las que serán ejecutadas por los colaboradores acreditados que hayan celebrado los convenios respectivos con dicha institución.
+Administración de las medidas no privativas de libertad. El Servicio Nacional de Menores asegurará la existencia en las distintas regiones del país de los programas necesarios para la ejecución y control de las medidas a que se refiere esta ley, las que serán ejecutadas por los colaboradores acreditados que hayan celebrado los convenios respectivos con dicha institución.
 
 Para tal efecto, llevará un registro actualizado de los programas existentes en cada comuna del país, el que estará a disposición de los tribunales competentes.
 
 El Servicio revisará periódicamente la pertinencia e idoneidad de los distintos programas, aprobando su ejecución por parte de los colaboradores acreditados y fiscalizando el cumplimiento de sus objetivos.
 
-En la modalidad de libertad asistida especial se asegurará la intervención de la red institucional y de protección del Estado, según se requiera. Será responsabilidad del Servicio Nacional de Reinserción Social Juvenil la coordinación con los respectivos servicios públicos.
+En la modalidad de libertad asistida especial se asegurará la intervención de la red institucional y de protección del Estado, según se requiera. Será responsabilidad del Servicio Nacional de Menores la coordinación con los respectivos servicios públicos.
 
 El reglamento a que alude el inciso final del artículo siguiente contendrá las normas necesarias para dar cumplimiento a lo establecido en este artículo.
 
 #### Artículo 43
 
-Centros de privación de libertad. La administración de los Centros Cerrados de Privación de Libertad y de los recintos donde se cumpla la medida de internación provisoria, corresponderá siempre y en forma directa al Servicio Nacional de Reinserción Social Juvenil, con excepción de los señalados en la letra a) siguiente, cuya administración podrá corresponder en forma directa al Servicio Nacional de Reinserción Social Juvenil o a los colaboradores acreditados que hayan celebrado los convenios respectivos con dicha institución.
+Centros de privación de libertad. La administración de los Centros Cerrados de Privación de Libertad y de los recintos donde se cumpla la medida de internación provisoria, corresponderá siempre y en forma directa al Servicio Nacional de Menores, con excepción de los señalados en la letra a) siguiente, cuya administración podrá corresponder en forma directa al Servicio Nacional de Menores o a los colaboradores acreditados que hayan celebrado los convenios respectivos con dicha institución.
 
 Para dar cumplimiento a las sanciones privativas de libertad y a la medida de internación provisoria contenidas en esta ley, existirán tres tipos de centros:
 
-a) Los Centros para el cumplimiento de la libertad asistida especial con internación parcial.
+a) Los Centros para la Internación en Régimen Semicerrado.
 
 b) Los Centros Cerrados de Privación de Libertad.
 
@@ -703,14 +471,6 @@ La organización y funcionamiento de los recintos aludidos en el presente artíc
 Condiciones básicas de los centros de privación de libertad. La ejecución de las sanciones privativas de libertad estará dirigida a la reintegración del adolescente al medio libre.
 
 En virtud de ello, deberán desarrollarse acciones tendientes al fortalecimiento del respeto por los derechos de las demás personas y al cumplimiento del proceso de educación formal y considerarse la participación en actividades socioeducativas, de formación y de desarrollo personal.
-
-#### Artículo 44 bis
-
-Régimen en internación provisoria. La internación provisoria se ejecutará en términos compatibles con la presunción de inocencia de la que goza el adolescente imputado.
-
-Lo dispuesto en el inciso precedente considerará actividades que favorezcan el desarrollo de hábitos que posibiliten una convivencia respetuosa de los derechos de los demás; la atención en problemas de salud; la participación en actividades educativas, de nivelación o reforzamiento escolar, deportivas o de apresto laboral, y el contacto permanente con la familia.
-
-Se deberán considerar, además, acciones que orienten o preparen al adolescente para el cumplimiento de las obligaciones que les impone el proceso y su preparación para el egreso, cuando corresponda.
 
 #### Artículo 45
 
@@ -746,14 +506,6 @@ Las instituciones encargadas de practicar detenciones, de administrar los recint
 
 El incumplimiento de esta obligación constituirá una infracción grave a los deberes funcionarios.
 
-#### Artículo 48 bis
-
-Toda persona que se encontrare cumpliendo una condena en aplicación de la presente ley o que estuviere sujeta a internación provisoria tiene derecho a la atención efectiva en materias de salud, incluyendo salud mental y programas asociados al tratamiento de adicciones y al acceso a un régimen de educación formal, de conformidad a lo dispuesto en el artículo 4° del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005.
-
-Este último, en el caso de las condenas de internamiento en régimen cerrado con programa de reinserción social, deberá fundarse en un programa que tenga en cuenta las especiales condiciones bajo las que se desarrolla el proceso de educación formal, teniendo en especial consideración la recuperación de las trayectorias educativas interrumpidas.
-
-Corresponde al Servicio Nacional de Reinserción Social Juvenil adoptar las medidas necesarias para coordinar una adecuada, completa y oportuna cobertura de dichas prestaciones por parte de los órganos sectoriales competentes. Corresponde asimismo a los órganos competentes la provisión y pertinencia de dichas prestaciones.
-
 ### Párrafo 2º
 
 Derechos y garantías de la ejecución
@@ -786,7 +538,7 @@ Del control de ejecución de las sanciones
 
 #### Artículo 50
 
-Competencia en el control de la ejecución. Los conflictos de derecho que se susciten durante la ejecución de alguna de las sanciones que contempla la presente ley serán resueltos por el juez de garantía del lugar de domicilio del condenado.
+Competencia en el control de la ejecución. Los conflictos de derecho que se susciten durante la ejecución de alguna de las sanciones que contempla la presente ley serán resueltos por el juez de garantía del lugar donde ésta deba cumplirse.
 
 En virtud de ello y previa audiencia, el juez de garantía adoptará las medidas tendientes al respeto y cumplimiento de la legalidad de la ejecución y resolverá, en su caso, lo que corresponda en caso de quebrantamiento.
 
@@ -796,43 +548,33 @@ Certificación de cumplimiento. La institución que ejecute la sanción, informa
 
 Asimismo, deberá informar de cualquier incumplimiento cuando éste se produzca.
 
-En dicho informe deberá incluir las medidas adoptadas para asegurar la derivación de las intervenciones que hayan formado parte de la ejecución de la sanción y del correspondiente plan de intervención y que requieran continuidad.
-
 #### Artículo 52
 
-Quebrantamiento de condena. Si el adolescente no diere cumplimiento en forma grave o reiterada a alguna de las sanciones impuestas en virtud de la presente ley, el tribunal encargado del control de la ejecución procederá, previa audiencia y según la gravedad del incumplimiento, conforme a las reglas siguientes:
+Quebrantamiento de condena. Si el adolescente no diere cumplimiento a alguna de las sanciones impuestas en virtud de la presente ley, el tribunal encargado del control de la ejecución procederá, previa audiencia y según la gravedad del incumplimiento, conforme a las reglas siguientes:
 
-1.- Tratándose de las penas accesorias previstas en las letras a), c) o d) del artículo 6°, se aplicará en forma sustitutiva la sanción de prestación de servicios en beneficio de la comunidad por el tiempo mínimo previsto en la ley. Si el adolescente no aceptare la medida, se aplicará la libertad asistida en cualquiera de sus formas por el tiempo mínimo previsto en la ley. Todo lo dicho, sin perjuicio de la mantención de las prohibiciones o restricciones que ellas importen, por el tiempo restante.
+1.- Tratándose de la multa, aplicará en forma sustitutiva la sanción de prestación de servicios en beneficio de la comunidad por un máximo de 30 horas. Si el adolescente no aceptare la medida, aplicará la libertad asistida en cualquiera de sus formas por el tiempo señalado en el numeral 3.- del presente artículo.
 
-2.- Tratándose del quebrantamiento de las medidas de reparación del daño y prestación de servicios en beneficio de la comunidad, se aplicará en forma sustitutiva la libertad asistida en cualquiera de sus formas por el período mínimo previsto en la ley.
+2.- Idéntica regla se seguirá en caso de infracción de la prohibición de conducir vehículos motorizados, sin perjuicio de la mantención de la prohibición por el tiempo restante.
 
-3.- El quebrantamiento de la libertad asistida simple o de la libertad asistida especial dará lugar a una ampliación del plazo por el que hubiesen sido impuestas dichas sanciones o, alternativamente, a su sustitución por la sanción inmediatamente superior, extensiva al tiempo mínimo previsto en la ley, según cuál hubiese sido la naturaleza del incumplimiento y su persistencia.
+3.- Tratándose del incumplimiento de las medidas de reparación del daño y prestación de servicios en beneficio de la comunidad, se aplicará en forma sustitutiva la libertad asistida en cualquiera de sus formas por un período de hasta tres meses.
 
-4.- El quebrantamiento de la libertad asistida especial con internación parcial podrá sancionarse con una ampliación del plazo por el que hubiese sido impuesta dicha sanción o, alternativamente, por su sustitución por una pena de internación en un centro cerrado por el tiempo mínimo previsto en la ley, según cuál hubiese sido la naturaleza del incumplimiento y su persistencia. En su caso, se procederá al abono del tiempo que se hubiere satisfecho la condena original.
+4.- El incumplimiento de la libertad asistida se sancionará con libertad asistida especial o con internación en régimen semicerrado con programa de reinserción social, con una duración máxima de sesenta días, lo que se determinará según la gravedad de los hechos que fundan la medida, sin perjuicio del cumplimiento de la sanción originalmente impuesta. En caso de incumplimiento reiterado de la libertad asistida, se aplicará lo dispuesto en el siguiente numeral.
 
-5.- El quebrantamiento del régimen de libertad asistida simple o especial al que fuere sometido el adolescente en virtud de lo dispuesto en el artículo 19, facultará al juez para ordenar que se sustituya su cumplimiento por la internación en régimen cerrado con programa de reinserción social por el tiempo que resta.
+5.- El incumplimiento de la libertad asistida especial dará lugar a la sustitución de la sanción por internación en régimen semicerrado con programa de reinserción social, por un período equivalente al número de días que faltaren por cumplir.
 
-El quebrantamiento que no fuese grave o reiterado podrá dar lugar a una intensificación del correspondiente plan de intervención.
+6.- El incumplimiento de la internación en régimen semicerrado con programa de reinserción social podrá sancionarse con la internación en un centro cerrado por un período no superior a los noventa días, sin perjuicio del cumplimiento de la sanción originalmente impuesta por el tiempo restante. En caso de reiteración de la misma conducta, podrá aplicarse la sustitución, en forma definitiva, por un período a fijar prudencialmente por el tribunal, que en caso alguno será superior al tiempo de duración de la condena inicialmente impuesta.
 
-En las audiencias de que trata este artículo será obligatoria la presencia del condenado.
-
-#### Artículo 52 bis
-
-Incumplimiento. Si el condenado no se presentare a la ejecución de la condena o no concurriere a las citaciones que se le comuniquen para la determinación del plan de intervención se despachará orden de arresto, suspendiéndose el plazo señalado en el inciso primero del artículo 40 bis. La renuencia reiterada será tratada como quebrantamiento de condena.
+7.- El incumplimiento del régimen de libertad asistida en cualquiera de sus formas al que fuere sometido el adolescente en virtud de lo dispuesto en el artículo 19, facultará al juez para ordenar que se sustituya su cumplimiento por la internación en régimen cerrado con programa de reinserción social por el tiempo que resta.
 
 #### Artículo 53
 
 Sustitución de condena. El tribunal encargado del control de la ejecución de las sanciones previstas en esta ley, de oficio o a petición del adolescente o su defensor, podrá sustituirla por una menos gravosa, en tanto ello parezca más favorable para la integración social del infractor y se hubiere iniciado su cumplimiento.
 
-La sanción sustitutiva no se podrá imponer en una extensión inferior o superior al mínimo y máximo previsto en la ley.
-
-Para estos efectos, el juez, en presencia del condenado, su abogado, el Ministerio Público y un representante de la institución encargada de la ejecución de la sanción, examinará los antecedentes, el desarrollo del plan de intervención, oirá a los presentes y resolverá. A esta audiencia podrán asistir los padres del adolescente o las personas que legalmente hubieren ejercido la tuición antes de su privación de libertad, y la víctima o su representante. La inasistencia de estos últimos no será nunca obstáculo para el desarrollo de la audiencia.
+Para estos efectos, el juez, en presencia del condenado, su abogado, el Ministerio Público y un representante de la institución encargada de la ejecución de la sanción, examinará los antecedentes, oirá a los presentes y resolverá. A esta audiencia podrán asistir los padres del adolescente o las personas que legalmente hubieren ejercido la tuición antes de su privación de libertad, y la víctima o su representante. La inasistencia de estos últimos no será nunca obstáculo para el desarrollo de la audiencia.
 
 La resolución que se pronuncie sobre una solicitud de sustitución será apelable para ante la Corte de Apelaciones respectiva.
 
 En caso alguno la internación en un régimen cerrado podrá sustituirse por una de las sanciones previstas en las letras e) o f) del artículo 6º.
-
-Tratándose de sanciones impuestas en virtud de la comisión de un crimen respecto de quienes hubiesen sido previamente condenados por delito sancionado con pena aflictiva, la sustitución sólo procederá una vez que se haya cumplido más de la mitad del tiempo de duración de la sanción originalmente impuesta.
 
 #### Artículo 54
 
@@ -840,17 +582,11 @@ Sustitución condicional de las medidas privativas de libertad. La sustitución 
 
 #### Artículo 55
 
-Remisión de condena. El tribunal podrá remitir el cumplimiento del saldo de condena cuando, en base a antecedentes calificados, considere que se ha dado cumplimiento a los objetivos pretendidos con su imposición. Para ello será aplicable lo dispuesto en los incisos tercero y cuarto del artículo 53.
+Remisión de condena. El tribunal podrá remitir el cumplimiento del saldo de condena cuando, en base a antecedentes calificados, considere que se ha dado cumplimiento a los objetivos pretendidos con su imposición. Para ello será aplicable lo dispuesto en los incisos segundo y tercero del artículo 53.
 
-Para los efectos de resolver acerca de la remisión, el tribunal deberá contar con un informe favorable del Servicio Nacional de Reinserción Social Juvenil.
+Para los efectos de resolver acerca de la remisión, el tribunal deberá contar con un informe favorable del Servicio Nacional de Menores.
 
-Tratándose de una sanción privativa de libertad, la facultad de remisión sólo podrá ser ejercida si se ha cumplido más de la mitad del tiempo de duración de la sanción originalmente impuesta o de dos tercios de la misma, si se trata de delitos que en el régimen de adultos pueden recibir una pena igual o superior al presidio o reclusión mayor en su grado máximo.
-
-#### Artículo 55 bis
-
-A efectos de lo dispuesto en los tres artículos precedentes la víctima deberá informar su domicilio para fines de notificación en la primera actuación en que intervenga ante un tribunal o fiscal del Ministerio Público, pudiendo en dicha oportunidad indicar una forma alternativa para recibir dicha comunicación. El tribunal o fiscal que hubiere recibido dicha información deberá registrarla y comunicarla oportunamente a quien debe resolver.
-
-Lo dispuesto también tendrá lugar en caso que se hubiere decretado cualquier tipo de medida que obligue a guardar reserva para fines de protección de la víctima, debiendo el órgano correspondiente adoptar las medidas de resguardo que sean pertinentes.
+Tratándose de una sanción privativa de libertad, la facultad de remisión sólo podrá ser ejercida si se ha cumplido más de la mitad del tiempo de duración de la sanción originalmente impuesta.
 
 TITULO FINAL
 
@@ -858,9 +594,9 @@ TITULO FINAL
 
 Cumplimiento de la mayoría de edad. En caso que el imputado o condenado por una infracción a la ley penal fuere mayor de dieciocho años o los cumpliere durante la ejecución de cualquiera de las sanciones contempladas en esta ley o durante la tramitación del procedimiento, continuará sometido a las normas de esta ley hasta el término de éste.
 
-Si al momento de alcanzar los dieciocho años restan por cumplir menos de seis meses de la condena de internación en régimen cerrado, permanecerá en el centro de privación de libertad del Servicio Nacional de Reinserción Social Juvenil.
+Si al momento de alcanzar los dieciocho años restan por cumplir menos de seis meses de la condena de internación en régimen cerrado, permanecerá en el centro de privación de libertad del Servicio Nacional de Menores.
 
-Si al momento de alcanzar los dieciocho años le restan por cumplir más de seis meses de la condena de internación en régimen cerrado, el Servicio Nacional de Reinserción Social Juvenil evacuará un informe fundado al juez de control de ejecución en que solicite la permanencia en el centro cerrado de privación de libertad o sugiera su traslado a un recinto penitenciario administrado por Gendarmería de Chile.
+Si al momento de alcanzar los dieciocho años le restan por cumplir más de seis meses de la condena de internación en régimen cerrado, el Servicio Nacional de Menores evacuará un informe fundado al juez de control de ejecución en que solicite la permanencia en el centro cerrado de privación de libertad o sugiera su traslado a un recinto penitenciario administrado por Gendarmería de Chile.
 
 Dicho informe se enviará al tribunal con a lo menos tres meses de anterioridad a la fecha de cumplimiento de la mayoría de edad y se referirá al proceso de reinserción del adolescente y a la conveniencia, para tal fin, de su permanencia en el centro cerrado de privación de libertad. El informe deberá comunicarse a todas las partes involucradas en el proceso.
 
@@ -868,13 +604,9 @@ En caso de ordenar el tribunal su permanencia, se revisará su situación según
 
 En caso de ordenar el tribunal su traslado a un recinto penitenciario, las modalidades de ejecución de dicha condena deberán seguir siendo ejecutadas conforme a las prescripciones de esta ley.
 
-Excepcionalmente, el Servicio Nacional de Reinserción Social Juvenil podrá solicitar al tribunal de control competente que autorice el cumplimiento de la internación en régimen cerrado en un recinto administrado por Gendarmería de Chile, cuando el condenado hubiere cumplido la mayoría de edad y sea declarado responsable de la comisión de un delito o incumpla de manera grave el reglamento del centro poniendo en riesgo la vida e integridad física de otras personas.
+Excepcionalmente, el Servicio Nacional de Menores podrá solicitar al tribunal de control competente que autorice el cumplimiento de la internación en régimen cerrado en un recinto administrado por Gendarmería de Chile, cuando el condenado hubiere cumplido la mayoría de edad y sea declarado responsable de la comisión de un delito o incumpla de manera grave el reglamento del centro poniendo en riesgo la vida e integridad física de otras personas.
 
-En todos los casos previstos en este artículo, el Servicio Nacional de Reinserción Social Juvenil, Gendarmería de Chile y las autoridades que correspondan adoptarán las medidas necesarias para asegurar la separación de las personas sujetas a esta ley menores de dieciocho años con los mayores de edad y de los adultos sujetos a esta ley respecto de los condenados conforme a la ley penal de adultos.
-
-#### Artículo 56 bis
-
-Son apelables las resoluciones adoptadas en virtud de lo dispuesto en las reglas que se incluyen en el presente Párrafo 3°.
+En todos los casos previstos en este artículo, el Servicio Nacional de Menores, Gendarmería de Chile y las autoridades que correspondan adoptarán las medidas necesarias para asegurar la separación de las personas sujetas a esta ley menores de dieciocho años con los mayores de edad y de los adultos sujetos a esta ley respecto de los condenados conforme a la ley penal de adultos.
 
 #### Artículo 57
 
