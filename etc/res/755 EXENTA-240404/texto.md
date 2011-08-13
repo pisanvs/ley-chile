@@ -20,11 +20,13 @@ Resuelvo:
 
 Los aparatos que empleen ondas radioeléctricas y que cumplan con los requisitos que a continuación se detallan no necesitarán autorización para su uso:
 
-a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,550 a 462,725 MHz;
+a) Transceptores portátiles que operen en las bandas de frecuencias 26.960 a 27.410 kHz; 40,66 a 40,70 MHz; 433,05 a 434,79 MHz; 462,540 a 462,740 MHz;
 
 467,550 a 467,725 MHz; 902 a 928 MHz; 2.400 a 2.483,5 MHz; 5.725 a 5.875 MHz o en las frecuencias 49,830, 49,845, 49,860, 49,875 y 49,890 MHz, y que cumplan los siguientes requisitos:
 
-a.1) Los equipos que operen en la banda de 26.960 a 27.410 kHz deben usar como frecuencia portadora uno o más de los 40 canales asignados a la Banda Local, según lo establecido en la respectiva norma técnica. Los equipos que operen en las bandas 462,550 a 462,725 MHz y 467,550 a 467,725 MHz deberán utilizar las siguientes frecuencias portadoras: 462,5625, 462,5875, 462,6125, 462,6375, 462,6625, 462,6875, 462,7125, 467,5625, 467,5875, 467,6125, 467,6375, 467,6625, 467,6875 y 467,7125 MHz, con un ancho de banda de 12,5 kHz.
+a.1) Los equipos que operen en la banda de 26.960 a 27.410 kHz deben usar como frecuencia portadora uno o más de los 40 canales asignados a la Banda Local, según lo establecido en la respectiva norma técnica.
+
+Los equipos que operen en las bandas 462,540 a 462,740 MHz y 467,550 a 467,725 MHz deberán utilizar las siguientes frecuencias portadoras: 462,5500; 462,5625; 462,5750; 462,5875; 462,6000; 462,6125; 462,6250; 462,6375; 462,6500; 462,6625; 462,6750; 462,6875; 462,7000; 462,7125; 462,7250; 467,5625; 467,5875; 467,6125; 467,6375; 467,6625; 467,6875 y 467,7125 MHz, con un ancho de banda de 12,5 kHz.
 
 a.2) La frecuencia portadora debe mantenerse dentro de la tolerancia de ± 0,01% para una variación de temperatura de -20 a +50°C, y también, para una variación de la tensión de la fuente del suministro de energía eléctrica entre 85 a 115% de su valor nominal a la temperatura de 20°C.
 
@@ -38,7 +40,7 @@ a.4) La antena consistirá en un elemento simple y su base estará permanentemen
 
 a.5) INCISO SUPRIMIDO
 
-La potencia de los equipos que operen en la banda de frecuencias 26.960 a 27.410 kHz o en las frecuencias 49,830, 49,845, 49,860, 49,875 y 49,890 MHz, en corriente continua, suministrada a la etapa final de radiofrecuencia del aparato, no será superior a 100 miliwatts, alternativamente y en el caso de no ser posible la determinación de la potencia en la forma antes señalada, se medirá la potencia consumida por el aparato, la cual no podrá ser superior a 130 miliwatts, en cualquier condición de modulación. La potencia máxima radiada de los equipos que operen en las bandas 40,66 a 40,70 MHz y 433,05 a 434,79 MHz no deberá exceder 10 mW. La potencia máxima radiada de los equipos que operen en las bandas 462,550 a 462,725 MHz y 467,550 a 467,725 MHz no deberá exceder 500 mW y, además, los equipos no deberán poseer la capacidad de incremento de su potencia de transmisión a un valor superior al indicado. En las bandas de frecuencias 902 a 928 MHz, 2.400 a 2.483,5 MHz y 5.725 a 5.875 MHz, la intensidad de campo de las emisiones de la frecuencia fundamental, a una distancia de 3 metros, no deberá exceder 50 mV/m. La intensidad de campo máxima de cualquier emisión no deberá exceder los límites promedios, antes señalados, en más de 20 dB bajo cualquier condición de modulación.
+La potencia de los equipos que operen en la banda de frecuencias 26.960 a 27.410 kHz o en las frecuencias 49,830, 49,845, 49,860, 49,875 y 49,890 MHz, en corriente continua, suministrada a la etapa final de radiofrecuencia del aparato, no será superior a 100 miliwatts, alternativamente y en el caso de no ser posible la determinación de la potencia en la forma antes señalada, se medirá la potencia consumida por el aparato, la cual no podrá ser superior a 130 miliwatts, en cualquier condición de modulación. La potencia máxima radiada de los equipos que operen en las bandas 40,66 a 40,70 MHz y 433,05 a 434,79 MHz no deberá exceder 10 mW. La potencia máxima radiada de los equipos que operen en las bandas 462,540 a 462,740 MHz y 467,550 a 467,725 MHz no deberá exceder 500 mW y, además, los equipos no deberán poseer la capacidad de incremento de su potencia de transmisión a un valor superior al indicado. En las bandas de frecuencias 902 a 928 MHz, 2.400 a 2.483,5 MHz y 5.725 a 5.875 MHz, la intensidad de campo de las emisiones de la frecuencia fundamental, a una distancia de 3 metros, no deberá exceder 50 mV/m. La intensidad de campo máxima de cualquier emisión no deberá exceder los límites promedios, antes señalados, en más de 20 dB bajo cualquier condición de modulación.
 
 b) Controles remotos que operen en las siguientes frecuencias o bandas de frecuencias con una intensidad de campo eléctrico o potencia máxima radiada que no exceda los valores que se indican a continuación:
 
@@ -208,7 +210,7 @@ a 300 metros
 
 1.920 a 1.930 MHz 70 mW
 
-2.400 a 2.483,5 MHz 1,5 mW
+2.400 a 2.483,5 MHz 5 mW
 
 17.100 17.300 MHz 400 Mw
 
