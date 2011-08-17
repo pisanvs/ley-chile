@@ -228,7 +228,7 @@ e. En proyectos de tipología Construcción en Sitio
 
 Propio se aceptarán postulaciones de grupos
 
-menores a 10 familias o indivi-duales.
+menores a 10 familias o individuales.
 
 f. Para proyectos colectivos participantes en el
 
@@ -428,6 +428,70 @@ complementarios que establece ese reglamento,
 
 según corresponda.
 
+En proyectos de la tipología de Construcción
+
+en Sitio Propio, y para los efectos de
+
+proceder al pago del subsidio, el certificado
+
+de recepción municipal mencionado en los
+
+numerales 1 y 2 del inciso tercero del
+
+#### Artículo 55
+
+del D.S. N° 174 (V. y U.), de
+
+2005, será reemplazado por un certificado
+
+del Departamento Técnico del SERVIU en el
+
+que conste que las obras se encuentran
+
+completamente terminadas conforme al
+
+proyecto aprobado, y en estos casos,
+
+la boleta de fiel cumplimiento del
+
+contrato deberá ser reemplazada por
+
+la de buena ejecución y buen
+
+comportamiento de las obras señalada
+
+en el artículo 25 del D.S. N° 174
+
+(V. y U.), de 2005, una vez recibidas
+
+las obras por SERVIU. La boleta de buena
+
+ejecución y buen comportamiento deberá
+
+tener vigencia a partir de esta recepción
+
+y caucionar además, la obtención de la
+
+recepción definitiva de obras por parte
+
+de la Dirección de Obras Municipales,
+
+del sello verde de las instalaciones
+
+de gas establecido en la normativa de
+
+la Superintendencia de Electricidad
+
+y Combustibles cuando corresponda y
+
+de la recepción de la solución
+
+sanitaria especial por parte del
+
+Servicio de Salud respectivo, si
+
+corresponde.
+
 p. Para acceder al Subsidio Diferenciado a la
 
 Localización, los proyectos de Construcción en
@@ -579,6 +643,28 @@ prohibición de enajenar a favor del Serviu de
 5 a 15 años dispuesto en el artículo 70 del DS
 
 N° 174 (V. y U.), de 2005.
+
+No obstante lo anterior, los
+
+beneficiarios de subsidios de la
+
+tipología de Construcción en Sitio
+
+Propio, se encontrarán eximidos del
+
+cumplimiento del requisito de constituir
+
+hipoteca y prohibición de gravar y
+
+enajenar a favor de SERVIU y de celebrar
+
+acto o contrato alguno que importe la
+
+cesión del uso y goce de la vivienda,
+
+señaladas en los artículos 1º y 55 del
+
+D.S. N° 174 (V. y U.), de 2005.
 
 q. Los proyectos de viviendas que se emplacen en
 
@@ -1327,6 +1413,22 @@ con riesgo de inundación, y las medidas de
 mitigación de los riesgos que deberán
 
 incluirse en los proyectos a presentar.
+
+aa) La Inspección Técnica de Obras en
+
+proyectos de la tipología de
+
+Construcción en Sitio Propio podrá
+
+realizarse cumpliendo con lo
+
+establecido en la Guía de Inspección
+
+Técnica de Obras aprobada mediante
+
+Resolución del Ministro de Vivienda y
+
+Urbanismo.
 
 4. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta resolución, serán los siguientes:
 
