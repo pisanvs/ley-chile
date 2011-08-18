@@ -144,15 +144,21 @@ DE LOS CONCURSOS PÚBLICOS
 
 Los recursos del fondo, se asignarán por concursos públicos que se regirán por las normas que a continuación se señalan.
 
-#### Artículo 8°
+#### Artículo 8º
 
-Anualmente deberán efectuarse dos concursos públicos, uno para pequeños propietarios forestales y otro para los demás interesados.
+Anualmente deberán efectuarse, a lo menos, dos concursos públicos, uno para pequeños propietarios forestales y otro para los demás interesados, sin perjuicio de lo establecido en el artículo 30 de la ley Nº 20.283.
 
-Para efectos de la realización de los concursos señalados en el inciso anterior, la Corporación deberá confeccionar cada año, las bases de postulación sobre las cuales se procederá a seleccionar a los beneficiarios de las bonificaciones contenidas en la Ley.
+Para efectos de la realización de los concursos señalados en el inciso anterior, la Corporación deberá confeccionar cada año y en cada ocasión, las bases de postulación sobre las cuales se procederá a seleccionar a los beneficiarios de las bonificaciones contenidas en la ley.
 
-#### Artículo 9°
+#### Artículo 9º
 
-La Corporación convocará a los concursos públicos durante el primer trimestre de cada año. Publicada la convocatoria, los interesados contarán con un plazo de 60 días hábiles para postular. Para los pequeños propietarios existirán formularios tipos para facilitar su postulación.
+La Corporación efectuará la primera convocatoria a cada concurso público durante el primer trimestre de cada año. Publicada la primera convocatoria, los interesados contarán con un plazo de 60 días hábiles para postular. Para los pequeños propietarios existirán formularios tipo para facilitar su postulación.
+
+La Corporación, luego de efectuada la adjudicación, podrá efectuar una segunda convocatoria, en el evento que como resultado final de la primera convocatoria a los concursos para pequeños propietarios forestales y/o para los otros interesados, existiese un remanente de recursos disponible no utilizado en uno o ambos concursos. El llamado a esta nueva convocatoria se realizará en un plazo máximo de 15 días hábiles, contados desde la publicación de los resultados de la primera convocatoria. El plazo de postulación será el que se determine en las respectivas bases, no pudiendo ser menor a 30 días hábiles.
+
+De conformidad con lo dispuesto en el inciso primero del artículo 16 de este Reglamento, podrá habilitarse un sistema web de postulación, debiendo la Corporación garantizar el adecuado y normal funcionamiento de este sistema Web durante todo el período de postulación, y en la eventualidad de producirse fallas en el mismo, deberá tomar las medidas necesarias para subsanarlas, tales como la ampliación del plazo de postulación, el que en caso alguno podrá ser inferior al período de tiempo por el que se haya extendido la deficiencia en el funcionamiento en el referido sistema.
+
+Para el caso de postulaciones realizadas a través del sistema web, las bases de cada concurso podrán ampliar el plazo de postulación, en un máximo de 10 días hábiles. De igual manera, las bases deberán considerar para quienes opten por este sistema condiciones iguales que las que rigen para las postulaciones que no sean electrónicas.
 
 ## Título III
 
@@ -222,7 +228,9 @@ La definición de los criterios a que se refiere el artículo 27 de la Ley se re
 
 #### Artículo 15
 
-La Corporación deberá publicar la convocatoria al concurso, las bases y sus resultados, en su página web y en medios de comunicación nacional y regional. Además, deberá considerar estrategias y medios de comunicación pertinentes al mundo rural.
+La Corporación deberá publicar la convocatoria al concurso, las bases respectivas y su resultado en su página web. La circunstancia de encontrarse esta información en la página web institucional se dará a conocer en medios de comunicación nacional y regional. Además, deberá considerar estrategias y medios de comunicación pertinentes al mundo rural.
+
+Sin perjuicio de lo indicado precedentemente, los resultados del concurso deberán ser notificados por carta certificada dirigida al domicilio hayan identificado los participantes en su postulación, pudiendo además, notificarlos por correo electrónico.
 
 Con el objeto de favorecer la participación de mujeres y pueblos indígenas en los concursos, se realizarán comunicaciones focalizadas a estos segmentos, debiendo en todo caso comunicarse la convocatoria a concurso al Servicio Nacional de la Mujer, a la Corporación de Desarrollo Indígena y al Instituto de Desarrollo Agropecuario.
 
@@ -264,7 +272,7 @@ Una vez efectuada la evaluación de los proyectos postulados se les asignará un
 
 #### Artículo 18
 
-La publicación de los resultados de los concursos se realizará dentro de los 45 días hábiles posteriores a la fecha de cierre de las postulaciones.
+La publicación de los resultados de los concursos se realizará dentro de los 45 días hábiles posteriores a la fecha de cierre de las postulaciones que se hayan efectuado a través del sistema web.
 
 #### Artículo 19
 
@@ -276,7 +284,9 @@ Las solicitudes de aprobación de planes de manejo deberán ceñirse a lo establ
 
 #### Artículo 20
 
-Si la Corporación rechazare el plan de manejo por no ajustarse éste al proyecto adjudicado, o a las normas establecidas en el Reglamento General de la Ley, el interesado podrá presentar, dentro del plazo de 3 meses, un nuevo plan de manejo que subsane los aspectos observados. Si así no lo hiciere, o el plan de manejo fuera nuevamente denegado, se perderá el derecho a percibir la bonificación.
+La Corporación deberá rechazar un plan de manejo por no ajustarse al tipo de proyecto adjudicado, según sea el literal que corresponda, o a las normas establecidas en el Reglamento General de la ley. En este caso, el interesado podrá presentar, dentro del plazo de 3 meses, un nuevo plan de manejo que subsane los aspectos observados. Si así no lo hiciere, o el plan de manejo fuere nuevamente denegado, se perderá el derecho a percibir la bonificación.
+
+Si la Corporación constatase diferencias entre lo estipulado en el proyecto de plan de manejo y el plan de manejo, excepcionalmente, podrá aprobarlo, en el caso de que el interesado las justificare a través de motivos fundados. Con todo, el monto total de la bonificación a percibir no podrá exceder del monto adjudicado.
 
 #### Artículo 21
 
@@ -392,9 +402,9 @@ j) Cartografía digital georeferenciada que cumpla con los requisitos exigidos p
 
 La Corporación deberá pronunciarse sobre la solicitud de pago de la bonificación de bosque nativo, aprobándola o rechazándola, dentro del plazo de 90 días hábiles, contados desde la fecha de ingreso de la solicitud. Si la Corporación no se pronunciare dentro del plazo indicado, se entenderá que la solicitud ha sido aprobada.
 
-El pago de la bonificación sólo se efectuará cuando se verifique el cumplimiento de las actividades comprometidas en las superficies identificadas en el proyecto adjudicado.
+El pago de la bonificación sólo se efectuará cuando se verifique el cumplimento de las actividades comprometidas en el plan de manejo aprobado.
 
-En aquellos casos que no se hubieren realizado algunas de las actividades comprometidas, se deberá acreditar causales de fuerza mayor o caso fortuito, para otorgar la bonificación correspondiente a las actividades efectivamente realizadas.
+INCISO ELIMINADO.
 
 #### Artículo 30
 
