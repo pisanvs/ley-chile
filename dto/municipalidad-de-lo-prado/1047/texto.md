@@ -64,7 +64,7 @@ Los derechos que correspondan serán cobrados conjuntamente con la patente munic
 
 #### Artículo 8º
 
-El funcionamiento de las máquinas de destreza no podrá exceder de las 24.00 horas.
+El funcionamiento de las máquinas de destreza podrá comenzar desde las 10:00 horas y hasta las 24:00 horas (medianoche) del mismo día como máximo.
 
 ## Título IV
 
