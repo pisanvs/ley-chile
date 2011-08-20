@@ -202,9 +202,9 @@ Se prohíbe botar basura o desperdicios de jardines particulares, en plazas o pa
 
 #### Artículo 23º
 
-A los peatones y a los conductores de vehículos les estará prohibido transitar o estacionarse en las plazas, parques, veredones y antejardines no destinados al paso habitual de ellos. Asimismo, se prohíbe estrictamente jugar fútbol en los prados de parques o plazas y bañarse en las piletas públicas.
+Queda prohibido transitar o estacionarse en lugares no habilitados para ello tales como plazas, parques, veredones y antejardines. Asimismo, estará prohibido realizar actividades deportivas o de otra naturaleza que dañen considerablemente los prados de los parques o plazas, como también bañarse, arrojar basura o elementos e introducir mascotas en las piletas o fuentes de agua de la comuna, salvo en los casos en que esté expresamente señalizado como permitido o que sea autorizado expresamente por la autoridad edilicia respectiva.
 
-La municipalidad podrá autorizar mediante decreto Alcaldicio el tránsito de bicicletas por determinadas plazas o parques de la Comuna, en circuitos especialmente diseñados para ello que no entorpezcan el tránsito peatonal.
+La Municipalidad podrá autorizar mediante decreto alcaldicio el tránsito de bicicletas por determinadas plazas o parques de la comuna, en circuitos especialmente diseñados para ello, que no entorpezcan el tránsito peatonal.
 
 #### Artículo 24º
 
