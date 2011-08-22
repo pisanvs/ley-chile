@@ -1,0 +1,15 @@
+ACUERDO ADOPTADO POR EL CONSEJO EN SU SESIÓN Nº 1628
+
+Certifico que el Consejo del Banco Central de Chile, en su Sesión Ordinaria Nº 1628, celebrada el 18 de agosto de 2011, adoptó el siguiente Acuerdo:
+
+1628-02-110818 – Agencia Fiscal – Fondo de Contingencia Estratégica (FCE)
+
+1. Aceptar las modificaciones comunicadas por el Ministerio de Hacienda, mediante Oficio N° 990, de fecha 22 de julio de 2011, respecto de las Directrices de Ejecución del Fondo de Contingencia Estratégica (FCE).
+
+2. Dejar constancia que las modificaciones a las Directrices de Ejecución relacionadas con la administración de los recursos del Fondo de Contingencia Estratégica tienen por objeto: (i) uniformar la redacción de las Directrices de todos los fondos fiscales administrados por el Banco Central de Chile, para cuyo efecto se reemplaza la primera oración del párrafo cuarto de la Sección II.6, "Otros", por la siguiente: "Se autoriza al Agente Fiscal la transferencia directa a las cuentas corrientes abiertas a nombre del Fisco de Chile en los bancos corresponsales respectivos, de los recursos provenientes de la liquidación o vencimiento de depósitos del FCE, o bien de operaciones de cambio, en su modalidad spot, forward o swaps, cuando, por error, los bancos depositarios elegibles hubieren abonado dichos recursos en otras cuentas corrientes mantenidas o administradas por el Banco Central de Chile en esos mismos bancos, ya sea por cuenta propia o por cuenta y en representación del Fisco."; (ii) modificar la Sección V, "Retribución del Agente Fiscal", para autorizar al Agente Fiscal a efectuar pagos a terceros, tales como servicios de custodia u otros, para cuyo efecto se agrega el siguiente nuevo párrafo segundo a la referida Sección V: "Asimismo, de conformidad a lo previsto en la letra b) del artículo 7° del decreto supremo N° 19, de 2011, del Ministerio de Hacienda, autorízase al Agente Fiscal para deducir de los recursos administrados los fondos efectivamente pagados a terceros por servicios prestados u otros conceptos relacionados con la administración financiera encomendada, hasta por un monto máximo global anual de 0,03% de los recursos administrados y con la debida rendición al final del periodo"; (iii) por último, modificar la Sección VI, "Personas designadas para interactuar con el Agente Fiscal", para los efectos de incorporar nuevas personas que tendrán acceso a los medios de comunicación que disponga el custodio, teniendo presente que dicho acceso es exclusivo para las personas autorizadas para tales fines.
+
+3. Dejar constancia asimismo, que las presentes modificaciones a las Directrices de Ejecución del FCE no implican una modificación a la retribución aceptada por Acuerdo N° 1604-01-110421, salvo lo indicado en el literal (ii) del N° 2 precedente.
+
+### 4. El presente Acuerdo comenzará a regir a contar de esta fecha
+
+Santiago, 18 de agosto de 2011.- Juan Esteban Laval Zaldívar, Ministro de Fe (S).
