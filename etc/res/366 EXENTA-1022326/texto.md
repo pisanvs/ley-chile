@@ -76,6 +76,8 @@ El número de postulantes seleccionados en cada Región alcanzará hasta el núm
 
 6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
+7. Las operaciones de Adquisición de Vivienda Construida, cuya vivienda cuente con una superficie mínima de 42 m2, podrán optar a un Subsidio Diferenciado a la Localización de 100 Unidades de Fomento, no siendo necesaria la aplicación de lo dispuesto en el inciso segundo, del artículo 65 bis, del decreto supremo Nº 174, (V. y U ) de 2005.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli Del Río, Subsecretario de Vivienda y Urbanismo.
