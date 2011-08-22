@@ -12,7 +12,7 @@ Considerando:
 
 Resuelvo:
 
-Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de Junglans regia (nogal europeo), procedentes de Argentina.
+Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de Juglans regia (nogal europeo), procedentes de Argentina.
 
 1. El material deberá venir amparado por un Certificado Fitosanitario Oficial del Servicio Nacional de Sanidad y Calidad Agroalimentaria (Senasa) de Argentina, en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -34,13 +34,7 @@ pentagona y Parlatoria oleae (Hem.
 
 Diaspididae).
 
-1.3 Adicionalmente en envíos de plantas, se debe
-
-indicar que se encuentran libres del nematodo
-
-Pratylenchus penetrans, de acuerdo a análisis
-
-oficial de laboratorio.
+1.3 ELIMINADO.
 
 2. Además, el material deberá venir libre de suelo y haber sido sometido a un tratamiento de desinfectación contra insectos y ácaros, con productos efectivos para estas plagas, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizada.
 

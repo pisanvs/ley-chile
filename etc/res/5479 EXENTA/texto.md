@@ -22,7 +22,7 @@ Considerando:
 
 Resuelvo:
 
-Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Vaccinium corymbosum, Corylus avellana, Punica granatum, Persea americana; procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
+Establécese las siguientes regulaciones de importación para plantas, estacas y ramillas de las siguientes especies: Vaccinium corymbosum, Corylus avellana, Punica granatum, Malus spp., Persea americana; para esquejes enraizados y sin enraizar de Fragaria x ananassa; y para estacas sin enraizar de Vitis vinifera, procedentes Estados Unidos de Norteamérica, a condición de cumplir en lo general con las resoluciones del Servicio Agrícola y Ganadero Nº 3.280 de 1999, que establece requisitos para el ingreso de material vegetal en régimen de Cuarentena de Post-Entrada, y Nº 2.863 de 2001 que la complementa, y en lo particular con lo que se establece en la presente resolución:
 
 1. El material, deberá venir amparado por un Certificado Fitosanitario del Departamento de Agricultura de Estados Unidos (USDA/APHIS), en el que consten los siguientes requisitos y declaraciones adicionales:
 
@@ -36,171 +36,91 @@ material de
 
 reproducción
 
-* El material procede
+* El material procede de plantas madres
 
-de plantas madres
+que han sido inspeccionadas durante el
 
-que han sido
+último período de crecimiento activo y
 
-inspeccionadas
+analizadas utilizando indicadores
 
-durante el último
+adecuados o métodos equivalentes y
 
-período de crecimiento
+Arándano encontradas libres de Blueberry leaf
 
-activo y analizadas
+(Vaccinium mottle virus, Blueberry scorch virus,
 
-utilizando indicadores
+corymbosum) Blueberry stunt phytoplasma, indicando
 
-adecuados o métodos
+la técnica analítica utilizada
 
-equivalentes y
-
-Arándano encontradas libres
-
-(Vaccinium de Blueberry leaf
-
-corymbosum) mottle virus, Blueberry
-
-scorch virus, Blueberry
-
-stunt phytoplasma,
-
-indicando la técnica
-
-analítica utilizada
-
-en el diagnóstico de
-
-cada plaga.
-
-Plantas,
+Plantas, en el diagnóstico de cada plaga.
 
 estacas
 
 o ramillas
 
-* El material procede
+* El material procede de plantas madres que
 
-de plantas madres que
+han sido inspeccionadas oficialmente
 
-han sido inspeccionadas
+durante el último período de crecimiento
 
-oficialmente durante
+activo y encontradas libres
 
-el último período
+deBotryosphaeria corticis,Exobasidium
 
-de crecimiento activo
+vaccinii,Monilinia vaccinii-
 
-y encontradas libres
+corymbosi,Pucciniastrum goeppertianum
 
-de Botryosphaeria
+yPucciniastrum vaccinii (P.myrtilli).
 
-corticis, Exobasidium
-
-vaccinii, Monilinia
-
-vaccinii-corymbosi,
-
-Pucciniastrum
-
-goeppertianum y
-
-Pucciniastrum vaccinii
-
-(P.myrtilli).
-
-* El material se encuentra
-
-libre de los
+* El material se encuentra libre de los
 
 siguientes artrópodos:
 
-### 1. Acrobasis vaccinii
+Acrobasis vaccinü (Lep. Pyralidae)
 
-(Lep. Pyralidae)
+Argyrotaenia citrana (Lep. Tortricidae)
 
-### 2. Argyrotaenia citrana
+Brevipalpus lilium (Ac. Tenuipalpidade)
 
-(Lep. Tortricidae)
+Choristoneura rosaceae(Lep. Tortricidae)
 
-### 3. Brevipalpus lilium
+Conotrachelus nenúfar (Col. Curculionidae)
 
-(Ac. Tenuipalpidae)
+Dasineura oxicoccana (Dip. Cecidonidae)
 
-### 4. Choristoneura rosaceae
+Grapholita (Cydia) packardi (Lep. Tortricidae)
 
-(Lep. Tortricidae)
+Operophtera brumata (Lep. Tortricidae)
 
-### 5. Conotrachelus nenufar
+Scaphytopius magdalensis (Hem. Cicadellidae)
 
-(Col. Curculionidae)
+Synanthedon scitula(Lep. Sessidae)
 
-### 6. Dasineura oxicoccana
+* El material se encuentra libre deAcalitus
 
-(Dip. Cecidonidae)
+vaccini (Ac. Eriophyidae), de acuerdo con
 
-### 7. Epiphyas postvittana
+el resultado de análisis oficial, según la
 
-(Lep. Tortricidae)
+técnica de diagnóstico de disección de
 
-### 8. Grapholita (=Cydia)
-
-packardi (Lep. Tortricidae)
-
-### 9. Operophtera brumata
-
-(Lep. Tortricidae)
-
-### 10. Scaphytopius magdalensis
-
-(Hem. Cicadellidae)
-
-### 11. Synanthedon scitula
-
-(Lep. Sessidae)
-
-* El material se encuentra
-
-librede Acalitus vaccini
-
-(Ac. Eriophyidae), de
-
-acuerdo con el
-
-resultado de análisis
-
-oficial, según la
-
-técnica de diagnóstico
-
-de disección de
-
-yemas bajo microscopio
-
-binocular de
+yemas bajo microscopio binocular de
 
 laboratorio.
 
 * ELIMINADO.
 
-Avellano * Las plantas fueron
+Avellano * Las plantas fueron inspeccionadas durante
 
-inspeccionadas durante
+el último periodo crecimiento activo y
 
-el último periodo
+(Corylus encontradas libres deAnisogramma
 
-crecimiento activo y
-
-encontradas libres
-
-de Anisogramma
-
-anomala.
-
-(Corylus
-
-avellana)
+avellana) anomala.
 
 Plantas,
 
@@ -208,87 +128,117 @@ estacas
 
 o ramillas
 
-* El material se
-
-encuentra libre de los
+* El material se encuentra libre de los
 
 siguientes artrópodos:
 
-Archips rosana
+Archips rosana (Lep.Tortricidae)
 
-(Lep.Tortricidae)
+Cnephasia longana(Lep.Tortricidae)
 
-Cnephasia longana
+Eotetranychus carpini(Ac.Tetranychidae)
 
-(Lep.Tortricidae)
+Metcalfa pruinosa (Hem. Flattidae)
 
-Eotetranychus carpini
+Pseudaulacaspis pentagona (Hem. Diaspididae)
 
-(Ac.Tetranychidae)
+Phenacoccus aceris (Hem. Pseudoccidae)
 
-Metcalfa pruinosa
+Spinolota ocellana (Lep.Tortricidae)
 
-(Hem. Flattidae)
+Tetranychus pacificus(Ac.Tetranychidae)
 
-Pseudaulacaspis pentagona
+Tetranychus turkestani (Ac.Tetranychidae)
 
-(Hem. Diaspididae)
+Zeuzera pyrina (Lep.Cossidae)
 
-Phenacoccus aceris
+* El material se encuentra libre de
 
-(Hem. Pseudoccidae)
+Phytoptus avellanae (Ac. Eriophyidae) de
 
-Spinolota ocellana
+acuerdo con el resultado de análisis
 
-(Lep.Tortricidae)
+oficial, según la técnica de diagnóstico
 
-Tetranychus pacificus
-
-(Ac.Tetranychidae)
-
-Tetranychus turkestani
-
-(Ac.Tetranychidae)
-
-Zeuzera pyrina
-
-(Lep.Cossidae)
-
-* El material se encuentra
-
-libre de Phytoptus
-
-avellanae (Ac. Eriophyidae)
-
-de acuerdo con el resultado
-
-de análisis oficial,
-
-según la técnica de
-
-diagnóstico de disección
-
-de yemas bajo microscopio
+de disección de yemas bajo microscopio
 
 binocular de laboratorio.
 
 * ELIMINADO.
 
-* ELIMINADO
-
-Granado
-
-(Punica * El material procede de
-
-granatum) plantas madres que
+Frutilla * El material procede de plantas madres que
 
 han sido inspeccionadas
 
-durante el último período
+(Fragaria x durante el último período de crecimiento
 
-de crecimiento activo
+activo y encontradas libres
 
-y encontradas libres
+ananassa) deXanthomonas fragariae,Colletotrichum
+
+acutatum, Colleto-
+
+Esquejes trichum fragariae yPeronospora fragariae.
+
+enraizados o
+
+sin enraizar
+
+* El material se encuentra libre de los
+
+siguientes artrópodos:
+
+Archips spp. (Lep.Tortricidae)
+
+Cacoecimorpha pronubana (Lep.Tortricidae)
+
+Choristoneura rosaceana (Lep.Tortricidae)
+
+Cnephasia longana (Lep.Tortricidae)
+
+Erythoneura elegantula (Hem. Cicadellidae)
+
+Lygus lineolaris (Hem. Lygaeidae)
+
+Monochroa fragariae (Lep. Gelechiidae)
+
+Otiorhynchus ovatus (Col. Curculionidae)
+
+Philaenus spumarius (Hem. Cercopidae)
+
+Synanthedon bibionipennis (Lep. Sessidae)
+
+Tetranychus mcdanieli (Ac.Tetranychidae)
+
+Tetranychus turkestani (Ac.Tetranychidae)
+
+Tyloderma fragariae (Col. Curculionidae)
+
+* En envíos de esquejes con raíz, además se
+
+debe indicar que se encuentran libres de
+
+los nemátodos:Aphelenchoides
+
+besseyi,Aphelenchoides
+
+fragariae,Ditylenchus dipsaci raza
+
+frutilla,Longidorus elongatus, yXiphinema
+
+diversicaudatum, de acuerdo a análisis
+
+oficial de laboratorio.
+
+Granado
+
+(Punica * El material procede de plantas madres que
+
+han sido inspeccionadas
+
+granatum) durante el último período de crecimiento
+
+activo y encontradas libres
 
 Plantas, de Coniella granati.
 
@@ -296,189 +246,275 @@ estacas
 
 o ramillas
 
-* El material se
+* El material se encuentra libre de los
 
-encuentra libre
+siguientes artrópodos:
 
-de los siguientes
+Aleurodicus spp. (Hem. Aleyrodidae)
 
-artrópodos:
+Aonidiella orientalis (Hem.Diaspididae)
 
-Aleurodicus spp.
+Brevipalpus lewisi (Ac.Tenuipalpidae)
 
-(Hem. Aleyrodidae)
+Ceroplastes floridensis (Hem.Coccidae)
 
-Aonidiella orientalis
+Maconellicoccus hirsutus(Hem. Pseudococcidae)
 
-(Hem.Diaspididae)
+Pseudococcus comstocki (Hem. Pseudococcidae)
 
-Brevipalpus lewisi
+Tetranychus kanzawi (Ac.Tetranychidae)
 
-(Ac.Tenuipalpidae)
+Zeuzera pyrina (Lep.Cossidae)
 
-Ceroplastes floridensis
+* Adicionalmente en envíos de plantas, se
 
-(Hem.Coccidae)
+debe indicar que se encuentran libres
 
-Maconellicoccus hirsutus
+deXiphinema americanum "sensu stricto" de
 
-(Hem. Pseudococcidae)
+acuerdo a análisis oficial de laboratorio.
 
-Pseudococcus comstocki
+Manzano * El material procede de plantas madres que
 
-(Hem. Pseudococcidae)
+han sido inspeccionadas
 
-Tetranychus kanzawi
+(Malus spp.) durante elúltimo período de crecimiento
 
-(Ac.Tetranychidae)
+Plantas, activo y analizadas utilizando
 
-Zeuzera pyrina
+estacas indicadores adecuados o métodos
 
-(Lep.Cossidae)
+o ramillas equivalentes y encontradas libres de
 
-* Adicionalmente en envíos
+Apple stem grooving virus (ASGV),
 
-de plantas, se debe
+indicando la técnica analítica utilizada
 
-indicar que se encuentran
+en el diagnóstico.
 
-libres de Xiphinema
+* El material procede de plantas madres que
 
-americanum "sensu stricto"
+han sido inspeccionadas durante el último
 
-de acuerdo a análisis oficial
+período de crecimiento activo y
 
-de laboratorio.
+encontradas libres de Erwinia amylovora
 
-Palto * El material procede de
+y Gymnosporangium spp.
 
-(Persea plantas madres que han
+* El material se encuentra libre de los
 
-americana) sido inspeccionadas
+siguientes artrópodos:
 
-Plantas, durante el último
+Anarsia lineatella (Lep. Gelechiidae)
 
-ramillas período de crecimiento
+Aphis pomi (Hem. Aphididae)
 
-o estacas activo y analizadas
+Archips spp. (Lep. Tortricidae)
 
-utilizando indicadores
+Cacopsylla pyricola (Hem.Psyllidae)
 
-adecuados o métodos
+Dysaphis plantaginea (Hem. Aphididae)
 
-equivalentes y
+Enarmonia formosana (Lep. Tortricidae)
 
-encontradas libres
+Eotetranychus carpini (Ac. Tetranychidae)
 
-de Avocado sunblotch
+Euzophera semifuneralis (Lep. Pyralidae)
 
-viroid, indicando la
+Hedya nubiferana (=H.dimidioalba) (Lep.
 
-técnica analítica
+Tortricidae)
 
-utilizada en el
+Pseudalacaspis pentagona (Hem. Diaspididae)
+
+Quadraspidiotus ostreaeformis (Hem.
+
+Diaspididae)
+
+Recurvaria nanella(Lep. Gelechiidae)
+
+Spinolota ocellana (Lep. Tortricidae)
+
+Synanthedon spp. (Lep. Sessidae)
+
+Tetranychus kanzawi (Ac. Tetranychidae)
+
+Tetranychus mcdanieli (Ac. Tetranychidae)
+
+Tetranychus pacificus(Ac. Tetranychidae)
+
+Tetranychus shoenei (Ac. Tetranychidae)
+
+Zeuzera pyrina (Lep. Cossidae)
+
+* Adicionalmente en envíos de plantas, se
+
+debe indicar que se encuentran libres de
+
+los nematodos:Xiphinema americanum "sensu
+
+stricto",Xiphinema
+
+diversicaudatum,Pratylenchus zeae
+
+yPratylenchus coffeae, de acuerdo a
+
+análisis oficial de laboratorio.
+
+Palto * El material procede de plantas madres que
+
+(Persea han sido inspeccionadas durante el último
+
+americana) período de crecimiento activo y analizadas
+
+Plantas, utilizando indicadores adecuados o métodos
+
+ramillas equivalentes y en contradas libres de
+
+o estacas Avocado sunblotch viroid, indicando la
+
+técnica analítica utilizada en el
 
 diagnóstico de la plaga.
 
-* El material se encuentra libre
+* El material se encuentra libre de los
 
-de los siguientes artrópodos:
+siguientes artrópodos:
 
-### 1. Aonidiella orientalis
+Aonidiella orientalis (Hem. Diaspididae)
 
-(Hem. Diaspididae)
+Aleurocanthus woglumi (Hem. Aleyrodidae)
 
-### 2. Aleurocanthus woglumi
+Aleurodicus spp. (Hem. Aleyrodidae)
 
-(Hem. Aleyrodidae)
+Aspidiotus destructor (Hem. Diaspididae)
 
-### 3. Aleurodicus spp
+Ceroplastes floridensis (Hem. Coccidae)
 
-(Hem. Aleyrodidae)
+Homalodisca coagulata (Hem. Cicadellidae)
 
-### 4. Aspidiotus destructor
+Marmara gulosa (Lep. Gracillariae)
 
-(Hem. Diaspididae)
+Nipacoccus nipae(Hem. Pseudoccidae)
 
-### 5. Ceroplastes floridensis
+Oligonychus persea(Ac.Tetranychidae)
 
-(Hem. Coccidae)
+Parabemisia myricae (Hem. Aleyrodidae)
 
-### 6. Epiphyas postvittana
+Paraleyrodes persea (Hem. Aleyrodidae)
 
-(Lep. Tortricidae)
+Scirtothrips persea (Thy. Thripidae)
 
-### 7. Homalodisca coagulata
+Selenothrips rubrocinctus (Thy. Thripidae)
 
-(Hem. Cicadellidae)
+Tetranychus neocaledonicus (Ac.Tetranychidae)
 
-### 8. Marmara gulosa
+* Adicionalmente en envíos de material con
 
-(Lep. Gracillariae)
+raíces, se debe indicar que se encuentran
 
-### 9. Nipacoccus nipae
+libres de Rotylenchulus
 
-(Hem. Pseudoccidae)
+reniformes,Radopholus similis, de acuerdo
 
-### 10. Oligonychus persea
+a análisis oficial de laboratorio.
 
-(Ac. Tetranychidae)
+Vid * El material procede de plantas madres que
 
-### 11. Parabemisia myricae
+han sido inspeccionadas durante el
 
-(Hem. Aleyrodidae)
+(Vitis último período de crecimiento activo
 
-### 12. Paraleyrodes persea
+vinifera) y analizadas utilizando indicadores
 
-(Hem. Aleyrodidae)
+Estacas sin adecuados o métodos equivalentes y
 
-### 13. Scirtothrips persea
+enraizar encontradas libres de Peach rosette mosaic
 
-(Thy. Thripidae)
+virus, indicando la técnica analítica
 
-### 14. Selenothrips rubrocintus
+utilizada en el diagnóstico de la plaga.
 
-(Thy. Thripidae)
+* El material procede de plantas madres que
 
-### 15. Tetranychus neocaledonicus
+han sido inspeccionadas durante el último
 
-(Ac. Tetranychidae)
+período de crecimiento activo y
 
-* Adicionalmente en envíos
+encontradas libres de Guignardia bidwellii
 
-de material con raíces,
+yXylella fastidiosa.
 
-se debe indicar que se
+* El lugar de producción fue oficialmente
 
-encuentran libres de
+inspeccionado durante el último período
 
-Rotylenchulus reniformes,
+de crecimiento activo y encontrado libre
 
-Radopholus similis,
+de Daktulosphaira(=Viteus)vitifoliae (Hem.
 
-de acuerdo a análisis
+Phylloxeridae).
 
-oficial de laboratorio.
+* El material se encuentra libre de los
 
-. Arándano (Vaccinium corymbosum)
+siguientes artrópodos:
 
-. Palto (Persea americana).
+Aonidiella orientalis (Hem. Diaspididae)
 
-2. Previo al envío, el material debe haber sido sometido a un tratamiento de desinfestación contra insectos y ácaros por inmersión o aspersión, asegurando el mojamiento adecuado de todas las partes del material de reproducción regulado, incluida sus raíces si corresponde, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto utilizado, el tipo de aplicación y la dosis.
+Brevipalpus lewisi (Ac. Tenuipalpidae)
+
+Ceroplastes rusci (Hem. Coccidae)
+
+Cnephasia longana(Lep. Tortricidae)
+
+Eotetranychus carpini (Ac. Tetranychidae)
+
+Eotetranychus willamettei (Ac. Tetranychidae)
+
+Eulecanium tiliae (Hem. Coccidae)
+
+Erythroneura spp. (Hem. Cicadellidae)
+
+Homalodisca coagulata (Hem. Cicadellidae)
+
+Maconellicoccus hirsutus(Hem. Pseudococcidae)
+
+Metcalfa pruinosa (Hem. Flattidae)
+
+Nipaecoccus nipae (Hem. Pseudococcidae)
+
+Planococcus ficus (Hem. Pseudococcidae)
+
+Pseudaulacaspis pentagona (Hem. Diaspididae)
+
+Scaphoideus titanicus (Hem. Cicadellidae)
+
+Tetranychus kanzawai (Ac. Tetranychidae)
+
+Tetranychus mcdanieli(Ac. Tetranychidae)
+
+Tetranychus neocaledonicus (Ac. Tetranychidae)
+
+Tetranychus pacificus (Ac. Tetranychidae)
+
+Tetranychus turkestani (Ac. Tetranychidae)
+
+Zeuzera pyrina (Lep. Cosiidae)
+
+2. El material debe haber sido sometido a un tratamiento de desinfestación por inmersión contra insectos y ácaros, señalando en el Certificado Fitosanitario, en la sección correspondiente a tratamiento, el producto, tipo de aplicación y dosis utilizadas.
 
 3. Adicionalmente, el material deberá cumplir con los siguientes requisitos sanitarios que se verificarán en la inspección fitosanitaria en el Puerto de ingreso:
 
 * Libre de suelo y desprovisto de flores y restos de frutos.
 
-* Adicionalmente, los materiales de Persea americana, Punica granatum y Corylus avellana, deberán venir desprovistos de hojas.
+* Adicionalmente, los materiales de Malus spp., Persea americana, Punica granatum y Corylus avellana, deberán venir desprovistos de hojas y los de Vitis vinifera deberán venir libres de raíces y desprovisto de hojas.
 
 * Embalados en envases cerrados, resistentes a la manipulación y factibles de sellar.
 
 * Los materiales acompañantes destinados a amortiguar o conservar la humedad deben corresponder a materiales tales como: turba, musgo esfangíneo, vermiculita, perlita o geles higroscópicos, de acuerdo a lo establecido en resolución Nº 3.280/99.
 
-* El material de acomodación, no deberá incluir material vegetal capaz de transportar plagas, tales como pajas de gramínea, viruta o aserrín de madera, entre otras
-
-.
+* El material de acomodación, no deberá incluir material vegetal capaz de transportar plagas, tales como pajas de gramínea, viruta o aserrín de madera, entre otras.
 
 4. La totalidad del material deberá cumplir con régimen de Cuarentena de Post-Entrada, instancia en que se realizarán los controles oficiales tendientes a la verificación de ausencia de Plagas Reglamentadas. Para tal efecto el importador deberá contar con la autorización del lugar de Cuarentena, ya sea Predial o Absoluta, previo del arribo de la mercadería al país, de acuerdo a lo establecido en las resoluciones Nºs. 3.280 de 1999 y 2.863 de 2001.
 
@@ -491,11 +527,5 @@ oficial de laboratorio.
 7. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará mediante un Análisis de Riesgo de Plagas, si las mismas cumplen con el criterio de Plaga Reglamentada, aplicándose las medidas fitosanitarias de manejo de riesgo, acordes con el riesgo involucrado.
 
 > **Nota.** El Nº 1 de la Resolución 1423 Exenta, Agricultura, publicada el 17.03.2010, complementa la presente norma con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica, que en dicha norma se individualizan.
-
-> **Nota.** NOTA 1 El N° 1 de la Resolución 1512 Exenta, Agricultura, publicada el 26.03.2014, modifica la presente norma, en el sentido de eliminar en su numeral 1.2, especie Punica granatum (granado) la declaración adicional a certificar correspondiente al hongo Coniella granati, quedando como la citada resolución indica.
-
-Disposición transitoria:
-
-En relación a la declaración adicional sobre la plaga Xylella fastidiosa establecida en el Resuelvo 1, numeral 1.2, para las especies Vaccinium corymbosum y Persea americana, esta obligación comenzará a regir a partir del 1 de septiembre de 2018.
 
 Comuníquese, anótese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
