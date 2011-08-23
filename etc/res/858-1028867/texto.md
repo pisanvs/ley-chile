@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A PESQUERA ISAURA LTDA.
+
+La Dirección Regional de Arica y Parinacota del SII, por resolución 858, de fecha 11/05/2011, otorga a Pesquera Isaura Ltda., RUT 78.386.980-2, a partir de la fecha de la presente publicación, la calidad de Agente Retenedor del Impuesto al Valor Agregado, del Cambio de Sujeto en las adquisiciones de Especies Hidrobiológicas, de acuerdo a la facultad establecida en la resolución ex. 3.311, de 30.06.2000, de la Dirección Nacional.
