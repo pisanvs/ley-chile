@@ -26,7 +26,7 @@ III 554 319.174 UF.
 
 IV 533 603.192 UF.
 
-V 555 1.379.861 UF
+V 555 1.201.993 UF
 
 VI 532 513.286 UF.
 
@@ -42,15 +42,17 @@ XI 543 413.131 UF.
 
 XII 543 98.817 UF.
 
-RM 564 3.404.019 UF.
+RM 564 3.293.958 UF.
 
-Total País 11.577.014
+Total País 11.289.085
 
 3º.- Adicionalmente se destinarán para los concursos mensuales a realizar según lo establecido en el número 1º de esta Resolución 1.865.297 UF. para otorgar subsidios diferenciados a la localización de los Proyectos de Construcción que cumplan con lo dispuesto en el Título XVI del D.S Nº 174 (V. y U.), de 2005.
 
 4º.- En cada concurso establecido en el número 1º de esta Resolución, el número de proyectos seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar incluidos sus respectivos servicios de asistencia técnica, con los recursos previstos en la tabla anterior.
 
 5º.- Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos y miembros seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional.
+
+> **Nota.** El numeral 1 de la Resolución 4942 Exenta, Vivienda, publicada el 24.08.2011, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el resuelvo 1°, no obstante encontrarse el cuadro inserto en el Resuelvo 2°, las filas correspondientes a las regiones de Valparaíso y Metropolitana y la fila correspondiente al Total País.
 
 Anótese, comuníquese, publíquese y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
