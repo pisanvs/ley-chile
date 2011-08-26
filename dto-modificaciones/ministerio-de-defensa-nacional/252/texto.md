@@ -42,55 +42,15 @@ I.- Desaféctanse, total o parcialmente según corresponda las siguientes Áreas
 
 Se modifica esta área, disminuyéndose su superficie y dividiéndose en dos sectores que a continuación se individualizan:
 
-Carta SHOA vigente Nº 7422, escala 1: 40.000, 5ª edición 1957, Datum Local.
+Carta SHOA Nº 7470, Bahía Tic Toc - Rada Palena escala 1:50.000, datum Sirgas WGS-84, edición 2005.
 
-a) Sector Península Coca:
+a) Sector: Península Coca
 
-Coordenadas Nuevas (Local)
+Coordenadas Fondeadero. Radio de Borneo de 1.0 cables
 
-Punto Latitud S. Longitud W.
+A 43°44'41.99" 72°59'08.51"
 
-1 43º 45' 28,10" 72º 58' 18,70"
-
-2 43º 45' 16,00" 72º 58' 46,40"
-
-3 43º 44' 58,50" 72º 59' 04,80"
-
-4 43º 45' 03,40" 72º 59' 30,60"
-
-5 43º 45' 10,70" 72º 59' 42,00"
-
-6 43º 44' 51,40" 73º 01' 51,60"
-
-7 43º 44' 27,80" 73º 03' 16,90"
-
-8 43º 44' 25,50" 73º 03' 04,60"
-
-Coordenadas Fondeadero: Radio de borneo de 1,7 cables.
-
-A 43º 45' 03,50" 72º 59' 17,20"
-
-b) Sector Isla Los Leones.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 43º 49' 11,10" 72º 59' 47,70"
-
-2 43º 49' 11,10" 73º 03' 52,50"
-
-3 43º 46' 02,60" 73º 03' 52,50"
-
-4 43º 45' 39,50" 72º 59' 07,60"
-
-5 43º 45' 49,40" 72º 57' 37,60"
-
-6 43º 45' 51,50" 72º 57' 42,70"
-
-7 43º 46' 46,80" 72º 58' 48,60"
-
-8 43º 47' 09,50" 72º 59' 04,30"
+b) Sector: Isla Los Leones
 
 ### 2. ÁREA: DE ISLA MIDHURST A ISLA DRING
 
@@ -120,7 +80,7 @@ b) Sector Isla Kent: desafectar íntegramente este sector.
 
 ### 3. ÁREA: ISLAS GUAITECAS
 
-Carta SHOA vigente Nº 8300, escala 1: 100.000, 2ª edición 1952 c/c 1988, Datum Local.
+Carta SHOA vigente Nº 8400, "Canal Moraleda Islas Guaitecas a Isla Tuap, escala 1:150.000, datum Sirgas WGS-84, edición 2006.
 
 a) Desafectar íntegramente Sectores Weste de Isla Guaitecas, Bahía Low a Isla Ascensión.
 
@@ -172,53 +132,9 @@ Punto Latitud S. Longitud W.
 
 20 43º 57' 26,00" 73º 56' 36,00"
 
-c) Sector Isla Leucayec: Se modifica este sector disminuyéndose su superficie y dividiéndola en dos sectores cuyas coordenadas geográficas se indican a continuación:
+c) Sector: Norte Isla Leucayec *
 
-Sector Noroeste Isla Leucayec.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 02' 00,00" 73º 45' 30,00"
-
-2 44º 02' 00,00" 73º 45' 44,00"
-
-3 44º 01' 24,00" 73º 46' 25,00"
-
-4 43º 59' 25,10" 73º 45' 19,00"
-
-5 44º 02' 00,00" 73º 43' 51,00"
-
-6 44º 02' 00,00" 73º 44' 19,00"
-
-7 44º 02' 00,00" 73º 45' 19,00"
-
-Sector Norte Isla Leucayec.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 43º 59' 13,00" 73º 44' 13,50"
-
-2 43º 58' 45,00" 73º 44' 57,00"
-
-3 43º 57' 50,00" 73º 43' 42,00"
-
-4 43º 56' 44,00" 73º 43' 30,00"
-
-5 43º 55' 24,00" 73º 42' 48,00"
-
-6 43º 55' 24,00" 73º 42' 20,00"
-
-7 43º 55' 24,00" 73º 41' 58,00"
-
-8 43º 55' 24,00" 73º 41' 21,00"
-
-9 43º 57' 07,00" 73º 40' 38,00"
-
-10 43º 57' 09,80" 73º 40' 42,00"
+* Se conforma con la fusión de los sectores anteriormente denominados "Noroeste Isla Leucayec" y "Norte Isla Leucayec" West, se disminuyen a 12 los puntos, para una mejor delimitación del área, que es equivalente a una ya fijada.
 
 ### 4. ÁREA PUERTO LOW: Desafectar íntegramente esta área
 
@@ -228,365 +144,45 @@ Punto Latitud S. Longitud W.
 
 ### 7. ÁREA CANAL PÉREZ NORTE y PÉREZ SUR
 
-Carta SHOA vigente Nº 8400, escala 1: 125.000, 1ra. Edición 1956 c/c 1990, Datum Local.
+Carta SHOA vigente Nº 8400, "Canal Moraleda Islas Guaitecas a Isla Tuap, escala 1:150.000, datum Sirgas WGS-84, edición 2006.
 
-a) Sector Sur Isla Leucayec: Se modifica este sector disminuyéndose su superficie cuyas coordenadas geográficas se indican a continuación:
+a) Sector: Sur Isla Leucayec
 
-Sector Sur Isla Leucayec.
+Coordenadas Fondeadero. Radio de Borneo de 1.0 cables
 
-Coordenadas Nuevas (Local)
+A 44°08'23.92" 73°28'25.62" "
 
-Punto Latitud S. Longitud W.
+b) Sector: Isla Mulchey e Isla Sánchez: *
 
-1 44º 05' 22,00" 73º 34' 45,00"
+* Se conforma con la fusión de los sectores anteriormente denominados "Weste de Isla Mulchey–Isla Sánchez" y "Este de Isla Mulchey", del DS (M) Nº 252, de 2009, y el "ÁREA PUERTO BALLENA, del Párrafo I, letra A, N° 11. del DS (M) Nº 201 de 2010.
 
-2 44º 05' 22,00" 73º 33' 00,00"'
+c) Sector: Isla Verdugo a Isla Serrano: *
 
-3 44º 08' 00,00" 73º 37' 05,00"
+* Se conforma con la fusión de los sectores que se denominaban "Weste de Isla Verdugo" y "Este de Isla Verdugo–Isla Serrano", se aumenta el número de puntos para una mejor delimitación del área, que es equivalente a una ya fijada.
 
-4 44º 08' 26,00" 73º 39' 25,00"
+d) Sector: Isla García - Isla Garrao - Norte de Isla Filomena *
 
-5 44º 03' 42,00" 73º 44' 34,00"
+* Para compatibilizar el traspaso del sector a la nueva carta de referencia geográfica, se eliminaron dos (2) puntos para una mejor delimitación del área, que es equivalente a una ya fijada."
 
-6 44º 01' 48,00" 73º 45' 55,00"
+Sector: Este Isla Filomena
 
-7 44º 01' 48,00" 73º 45' 40,00"
+e) Sector: Oeste de Isla Amita *
 
-8 44º 01' 48,00" 73º 44' 52,00"
+* Corresponde sector anteriormente denominado "Weste de Isla Amita."
 
-9 44º 01' 48,00" 73º 44' 41,00"
+Sector: Oeste de Canal Pérez Norte *
 
-10 44º 01' 48,00" 73º 44' 23,00"
+* Corresponde al sector anteriormente denominado "Weste de Canal Pérez Norte"."
 
-11 44º 01' 48,00" 73º 43' 43,00"
+Sector: Norte de Isla Amita *
 
-12 44º 01' 48,00" 73º 43' 23,01"
+* Este sector permanece referido a la carta SHOA Nº 8400, escala 1:125.000, 1ª edición 1956 c/c 1990 en datum Local. Correspondía al sector "Weste de Isla Amita", su nueva denominación es producto de la división cartográfica de la Carta SHOA N° 8300, datum WGS-84, y se reposicionaron las coordenadas que lo delimitan.
 
-13 44º 02' 01,00" 73º 43' 07,00"
+f) Sector: Isla Rojas - Isla Pen Davis
 
-14 44º 03' 15,00" 73º 43' 41,00"
+Sector: Isla Rojas - Isla Pen Davis
 
-15 44º 05' 30,00" 73º 40' 00,00"
-
-16 44º 06' 10,00" 73º 39' 59,00"
-
-17 44º 06' 17,00" 73º 39' 59,00"
-
-18 44º 07' 26,00" 73º 39' 59,00"
-
-b) Sector Isla Mulchey: Se modifica este sector disminuyéndose su superficie y dividiéndose en dos sectores cuyas coordenadas geográficas se indican a continuación:
-
-Sector Weste de Isla Mulchey - Isla Sánchez.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 09' 40,00" 73º 29' 25,00"
-
-2 44º 09' 40,00" 73º 28' 56,00"
-
-3 44º 10' 53,00" 73º 29' 49,00"
-
-4 44º 10' 48,00" 73º 31' 33,00"
-
-5 44º 09' 36,00" 73º 35' 18,00"
-
-6 44º 08' 33,00" 73º 35' 53,00"
-
-7 44º 06' 45,00" 73º 33' 35,00"
-
-8 44º 07' 10,00" 73º 33' 28,00"
-
-9 44º 08' 32,00" 73º 32' 37,00"
-
-10 44º 08' 51,00" 73º 31' 55,00"
-
-Sector Este de Isla Mulchey.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 06' 46,00" 73º 27' 07,00"
-
-2 44º 06' 39,00" 73º 26' 24,00"
-
-3 44º 09' 00,00" 73º 27' 33,00"
-
-4 44º 08' 30,00" 73º 27' 33,00"
-
-5 44º 08' 00,00" 73º 27' 33,00"
-
-d) Sector Weste de Isla Verdugo: Se modifica este sector disminuyéndose su superficie cuyas coordenadas geográficas se indican a continuación:
-
-Sector Weste de Isla Verdugo.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 11' 41,00" 73º 43' 34,00"
-
-2 44º 11' 55,00" 73º 44' 07,00"
-
-3 44º 10' 37,00" 73º 44' 20,00"
-
-4 44º 07' 52,00" 73º 42' 55,00"
-
-5 44º 08' 22,00" 73º 41' 05,00"
-
-6 44º 08' 56,00" 73º 40' 36,00"
-
-7 44º 09' 54,00" 73º 41' 10,00"
-
-8 44º 09' 32,00" 73º 42' 35,00"
-
-Sector Este de Isla Verdugo - Isla Serrano.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 08' 56,00" 73º 40' 36,00"
-
-2 44º 09' 19,00" 73º 37' 35,00"
-
-3 44º 10' 47,00" 73º 37' 16,00"
-
-4 44º 12' 49,00" 73º 38' 09,00"
-
-5 44º 12' 39,00" 73º 39' 16,00"
-
-6 44º 12' 29,00" 73º 39' 13,00"
-
-7 44º 11' 47,00" 73º 39' 35,00"
-
-8 44º 11' 47,00" 73º 39' 47,00"
-
-d) Sector Isla García Isla Garrao - Isla Filomena: Se modifica este sector, disminuyéndose su superficie y dividiéndose en dos sectores que a continuación se individualizan:
-
-Sector Isla García - Isla Garrao - Norte de Isla Filomena.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 17' 01,00" 73º 44' 32,00"
-
-2 44º 18' 16,00" 73º 45' 16,00"
-
-3 44º 13' 47,00" 73º 46' 07,00"
-
-4 44º 12' 34,00" 73º 45' 26,00"
-
-5 44º 13' 43,00" 73º 39' 13,00"
-
-6 44º 19' 05,00" 73º 35' 33,00"
-
-7 44º 19' 05,00" 73º 36' 39,00"
-
-8 44º 20' 00,00" 73º 37' 24,00"
-
-9 44º 20' 00,00" 73º 37' 03,00"
-
-10 44º 20' 16,00" 73º 34' 49,00"
-
-11 44º 20' 16,00" 73º 34' 45,00"
-
-12 44º 20' 29,00" 73º 34' 36,00"
-
-13 44º 22' 21,00" 73º 34' 19,00"
-
-14 44º 21' 21,00" 73º 35' 12,00"
-
-15 44º 21' 30,00" 73º 36' 05,00"
-
-16 44º 21' 12,00" 73º 36' 30,00"
-
-17 44º 21' 18,00" 73º 37' 01,00"
-
-18 44º 22' 13,00" 73º 36' 54,00"
-
-19 44º 23' 01,00" 73º 37' 21,00"
-
-20 44º 23' 25,00" 73º 37' 00,00"
-
-21 44º 23' 47,00" 73º 36' 39,00"
-
-22 44º 24' 06,00" 73º 36' 51,00"
-
-23 44º 24' 11,00" 73º 36' 28,00"
-
-24 44º 22' 58,00" 73º 34' 16,00"
-
-25 44º 22' 56,00" 73º 34' 10,00"
-
-26 44º 25' 38,00" 73º 33' 41,00"
-
-27 44º 26' 02,00" 73º 35' 00,00"
-
-28 44º 26' 20,00" 73º 37' 30,00"
-
-29 44º 26' 22,00" 73º 38' 08,00"
-
-30 44º 28' 48,00" 73º 38' 22,00"
-
-31 44º 29' 23,00" 73º 37' 57,00"
-
-32 44º 25' 07,00" 73º 44' 37,00"
-
-33 44º 24' 46,00" 73º 40' 00,00"
-
-34 44º 23' 16,00" 73º 40' 00,00"
-
-35 44º 25' 06,00" 73º 44' 38,00"
-
-36 44º 22' 54,00" 73º 47' 53,00"
-
-37 44º 22' 26,00" 73º 48' 22,00"
-
-38 44º 21' 08,00" 73º 45' 42,00"
-
-39 44º 19' 43,00" 73º 45' 00,00"
-
-40 44º 19' 16,00" 73º 45' 05,00"
-
-41 44º 18' 51,00" 73º 41' 56,00"
-
-42 44º 17' 27,00" 73º 38' 46,00"
-
-43 44º 16' 43,00" 73º 38' 10,00"
-
-44 44º 15' 48,00" 73º 39' 00,00"
-
-Sector Este de Isla Filomena.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 25' 38,00" 73º 33' 41,00"
-
-2 44º 29' 05,00" 73º 33' 04,00"
-
-3 44º 27' 58,00" 73º 33' 48,00"
-
-e) Sector Weste de Canal Pérez Norte: Se modifica este sector, disminuyéndose su superficie y dividiéndose en dos sectores que a continuación se individualizan:
-
-Sector Weste de Isla Amita.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 05' 55,00" 73º 57' 00,00"
-
-2 44º 03' 57,00" 73º 57' 00,00"
-
-3 44º 02' 36,00" 73º 57' 00,00"
-
-4 44º 01' 48,00" 73º 57' 00,00"
-
-5 44º 01' 48,00" 73º 54' 38,00"
-
-6 44º 03' 51,00" 73º 54' 46,00"
-
-7 44º 05' 21,00" 73º 54' 52,00"
-
-8 44º 05' 56,00" 73º 54' 54,00"
-
-Sector Weste de Canal Pérez Norte.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 05' 56,00" 73º 54' 54,00"
-
-2 44º 05' 21,00" 73º 54' 52,00"
-
-3 44º 05' 29,00" 73º 52' 39,00"
-
-4 44º 05' 18,00" 73º 50' 33,00"
-
-5 44º 03' 59,00" 73º 51' 00,00"
-
-6 44º 03' 51,00" 73º 54' 46,00"
-
-7 44º 01' 48,00" 73º 54' 38,00"
-
-8 44º 01' 48,00" 73º 49' 30,00"
-
-9 44º 01' 48,00" 73º 48' 29,00"
-
-10 44º 01' 48,00" 73º 48' 07,00"
-
-11 44º 03' 23,00" 73º 48' 13,00"
-
-12 44º 03' 38,00" 73º 48' 15,00"
-
-13 44º 07' 54,00" 73º 48' 35,00"
-
-14 44º 08' 30,00" 73º 48' 28,00"
-
-15 44º 08' 59,00" 73º 48' 21,00"
-
-16 44º 19' 42,00" 73º 46' 12,00"
-
-17 44º 20' 39,00" 73º 46' 33,00"
-
-18 44º 21' 36,00" 73º 48' 28,00"
-
-19 44º 19' 54,00" 73º 57' 00,00"
-
-20 44º 19' 38,00" 73º 57' 00,00"
-
-21 44º 15' 34,00" 73º 57' 00,00"
-
-22 44º 15' 04,00" 73º 57' 00,00"
-
-23 44º 12' 14,00" 73º 57' 00,00"
-
-24 44º 11' 36,00" 73º 57' 00,00"
-
-f) Sector Isla Rojas Isla Jéchica: Se modifica este sector, disminuyéndose su superficie y dividiéndose en dos sectores que a continuación se individualizan:
-
-Sector Isla Rojas - Isla Pen-Davis.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 21' 17,00" 73º 57' 00,00"
-
-2 44º 20' 17,00" 73º 57' 00,00"
-
-3 44º 20' 31,00" 73º 55' 28,00"
-
-4 44º 21' 34,00" 73º 51' 16,00"
-
-5 44º 21' 40,00" 73º 51' 06,00"
-
-6 44º 23' 50,00" 73º 53' 59,00"
-
-7 44º 24' 10,00" 73º 54' 49,00"
-
-Sector Sur Isla Rojas.
-
-Coordenadas Nuevas (Local)
-
-Punto Latitud S. Longitud W.
-
-1 44º 26' 52,00" 73º 54' 49,00"
-
-2 44º 28' 05,00" 73º 54' 29,00"
-
-3 44º 28' 02,00" 73º 55' 11,00"
-
-4 44º 26' 45,00" 73º 57' 00,00"
-
-5 44º 26' 31,00" 73º 57' 00,00"
+Sector: Sur Isla Rojas
 
 ### 8. ÁREA PUERTO PUYUGUAPI: Desafectar íntegramente esta área
 
@@ -721,6 +317,14 @@ SSM Sur Weste SHOA
 45º 08' 10,00" 74º 15' 30,00"
 
 III.- Déjese sin efecto el D.S. (M) N° 275 de fecha 30 de mayo de 2007, devuelto por oficio, por ese órgano contralor.
+
+> **Nota.** NOTA 1 El numeral I, B, b.1.1. del Decreto 2348 Exento, Defensa, publicado el 26.08.2011, modifica la presente norma en el sentido de traspasar los sectores "Península Coca" e "Islas Los Leones", referidos a la Carta SHOA Nº 7422 en datum local, a carta SHOA Nº 7470 en datum WGS-84.
+
+> **Nota.** NOTA 2 El numeral I, B, b.2.2. del Decreto 2348 Exento, Defensa, publicado el 26.08.2011, modifica la presente norma en el sentido de traspasar los sectores "Noroeste Isla Leucayec" y "Norte de Isla Leucayec", desde la Carta SHOA N° 8300 en datum local, a la Carta SHOA N° 8400 en datum WGS-84.
+
+> **Nota.** NOTA 3 El numeral I, B, b.3.2. del Decreto 2348 Exento, Defensa, publicado el 26.08.2011, modifica la presente norma en el sentido de traspasar los sectores "Sur de Isla Leucayec", "Weste de Isla Mulchey-Isla Sánchez" y "Este de Isla Mulchey", desde la Carta SHOA N° 8400 en datum local, a la Carta SHOA N° 8400 en datum WGS-84.
+
+> **Nota.** NOTA 4 El numeral I, B, b.3.6. del Decreto 2348 Exento, Defensa, publicado el 26.08.2011, modifica la presente norma en el sentido de traspasar los sectores "Weste de Isla Verdugo", "Este de Isla Verdugo-Isla Serrano", "Isla García-Isla Garrao-Norte de Isla Filomena", "Este de Isla Filomena", "Weste de Isla Amita", "Weste de Canal Pérez Norte", "Isla Rojas-Pen-Davis", desde la Carta SHOA Nº 8400 en datum local, a la Carta SHOA N° 8300, datum WGS-84.
 
 Anótese, tómese razón, comuníquese y publíquese en el Diario Oficial.- Por orden de la Presidenta de la República.- FranciscoVidal Salinas, Ministro de Defensa Nacional.
 
