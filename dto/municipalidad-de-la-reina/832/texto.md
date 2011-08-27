@@ -52,7 +52,9 @@ e) Garantizar la solidaridad y equilibrio entre los distintos sectores territori
 
 El ámbito de aplicación de la normativa sobre participación ciudadana incluye a todos los residentes y a las organizaciones ciudadanas cuyo domicilio social y ámbito territorial estén insertas en el territorio comunal.
 
-A estos efectos se consideran organizaciones ciudadanas las de carácter territorial, funcional, gremial, sindical, religiosas, asociaciones, federaciones, uniones comunales y cualesquiera otras formas de asociación constituidas para la defensa y promoción de intereses generales o específicos de los vecinos y vecinas que estén inscritos en el Registro Municipal de Organizaciones Ciudadanas de la comuna de La Reina.
+A estos efectos se consideran organizaciones ciudadanas las de carácter territorial, funcional, gremial, sindical, religiosas, asociaciones, federaciones, uniones, las organizaciones de interés público, conformadas de acuerdo a la ley. Y, en general, cualquiera otra de bien común, en especial las que recurran al voluntariado, y que estén inscritas en los registros que establece la ley.
+
+A ellas, les corresponderá ser informadas y/o consultadas cuando corresponda, en las épocas o períodos que establezca la ley, el reglamento y la presente ordenanza
 
 #### Artículo 4
 
@@ -70,7 +72,7 @@ Son derechos y deberes de los vecinos y vecinas de la comuna de La Reina los rec
 
 a) Ser elector y elegible, de acuerdo con lo dispuesto en esta ordenanza.
 
-b) Participar en la gestión municipal en la forma que contempla esta ordenanza.
+b) Participar en la gestión municipal en la forma que contempla esta ordenanza la ley y, en especial, el reglamento del Consejo Comunal de Organizaciones de la Sociedad Civil de la Comuna de La Reina.
 
 c) Exigir la prestación y, en su caso, el establecimiento de los servicios públicos municipales de carácter obligatorio.
 
@@ -202,6 +204,12 @@ g) Servir como órganos informativos a la comunidad vecinal sobre materias de ut
 
 Para el ejercicio de las funciones contempladas en el artículo anterior y las demás que señalen sus estatutos u otras normas legales, las juntas de vecinos elaborarán los correspondientes programas de actividades y proyectos específicos de ejecución, así como el respectivo presupuesto de ingresos y gastos, para cada período anual. Tales documentos deberán ser aprobados en asamblea extraordinaria, por la mayoría absoluta de los socios presentes en la sesión, conforme lo dispone la letra i) del artículo 18 y la letra d) del artículo 22, de la ley Nº 19.418.
 
+Tendrán, además, la obligación de remitir semestralmente a la Municipalidad, sus antecedentes, debidamente actualizados.
+
+#### Artículo 12º bis
+
+, "Las uniones comunales de juntas de vecinos y las uniones comunales de organizaciones comunitarias funcionales podrán agruparse en federaciones y confederaciones de carácter provincial, regional o nacional, en conformidad al reglamento y la ley
+
 Del Registro Municipal de Organizaciones Ciudadanas
 
 #### Artículo 13
@@ -214,9 +222,11 @@ El municipio de la Reina, para efectos de esta ordenanza, sólo reconocerá dere
 
 #### Artículo 15
 
-La municipalidad, a través de la Secretaría Municipal, llevará un registro público, en el que se inscribirán las juntas de vecinos y demás organizaciones comunitarias que se constituyeren en su territorio, así como las uniones comunales que ellas acordaren. En este registro deberán constar la constitución, las modificaciones estatutarias y la disolución de las mismas.
+La municipalidad, a través de la Secretaría Municipal, llevará un registro público, en el que se inscribirán las juntas de vecinos y, demás organizaciones de interés público y personas jurídicas sin fines de lucro, que se constituyeren en su territorio, así como las uniones comunales que ellas acordaren. En este registro deberán constar la constitución, las modificaciones estatutarias y la disolución de las mismas.
 
 De igual modo, las municipalidades llevarán un registro público de las directivas de las juntas de vecinos, de la unión comunal de juntas de vecinos y de las demás organizaciones comunitarias, como, asimismo, de la ubicación de sus sedes o lugares de funcionamiento.
+
+Para lo anterior, y sin perjuicio de los requisitos exigidos para el catastro nacional de personas jurídicas sin fines de lucro, en conformidad a la ley, las organizaciones deberán remitir, semestralmente, a lo menos, nóminas actualizadas de sus estatutos y directivas.
 
 #### Artículo 16
 
@@ -224,9 +234,9 @@ La municipalidad deberá otorgar, a quienes lo soliciten, copia autorizada de lo
 
 #### Artículo 17
 
-La municipalidad mantendrá copia actualizada y autorizada anualmente del registro público de cada junta de vecinos y demás organizaciones comunitarias, las que llevarán un registro público de todos sus afiliados, en la forma y condiciones que determinen sus estatutos. Este registro se mantendrá en la sede comunitaria a disposición de cualquier vecino que desee consultarlo y estará a cargo del secretario de la organización. A falta de sede, esta obligación deberá cumplirla el secretario en su domicilio.
+La municipalidad mantendrá copia actualizada y autorizada semestralmente del registro público de cada junta de vecinos, de interés público y demás personas jurídicas sin fines de lucro demás organizaciones comunitarias, las que llevarán un registro público de todos sus afiliados, en la forma y condiciones que determinen sus estatutos. Este registro se mantendrá en la sede comunitaria a disposición de cualquier vecino que desee consultarlo y estará a cargo del secretario de la organización. A falta de sede, esta obligación deberá cumplirla el secretario en su domicilio.
 
-En ambos casos, será el propio secretario quien fijará y dará a conocer los días y horas de atención, en forma tal que asegure el acceso de los vecinos interesados. Durante dicho horario, no podrá negarse la información, considerándose falta grave impedir u obstaculizar el acceso a este registro, lo cual deberá sancionarse en conformidad con los estatutos. Una copia actualizada y autorizada de este registro deberá ser entregada al secretario municipal en el mes de marzo de cada año y a los representantes de las diferentes candidaturas en elecciones de las juntas de vecinos al renovar sus directivas, por lo menos con un mes de anticipación y con cargo a los interesados.
+En ambos casos, será el propio secretario quien fijará y dará a conocer los días y horas de atención, en forma tal que asegure el acceso de los vecinos interesados. Durante dicho horario, no podrá negarse la información, considerándose falta grave impedir u obstaculizar el acceso a este registro, lo cual deberá sancionarse en conformidad con los estatutos.
 
 Sin perjuicio de lo dispuesto en los incisos anteriores, cada junta de vecinos deberá remitir al secretario municipal de La Reina, cada seis meses, certificación de las nuevas incorporaciones o retiros del registro de asociados.
 
@@ -236,15 +246,15 @@ LOS PLEBISCITOS COMUNALES
 
 #### Artículo 18
 
-De acuerdo con lo previsto en los artículos 85 y siguientes del párrafo 3º de la ley 18.695, el municipio podrá someter a plebiscito aquellos asuntos de competencia municipal de especial relevancia para los vecinos y vecinas de la comuna.
+De acuerdo con lo previsto en los Artículo 99 y siguientes de la ley 18.695, el municipio podrá someter a plebiscito aquellos asuntos de competencia municipal de especial relevancia para los vecinos y vecinas de la comuna.
 
 #### Artículo 19
 
-El alcalde, con acuerdo del concejo, o a requerimiento de los dos tercios del mismo concejo o por iniciativa de los ciudadanos inscritos en los registros electorales de la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan de desarrollo comunal, a la modificación del plan regulador u otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
+El Alcalde, con acuerdo del Concejo, a requerimiento de los dos tercios de los integrantes en ejercicio del mismo y a solicitud de dos tercios de los integrantes en ejercicio del Consejo Comunal de Organizaciones de la Sociedad Civil, ratificada por los dos tercios de los concejales en ejercicio, o por iniciativa de los ciudadanos inscritos en los registros electorales de la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan comunal de desarrollo, a la modificación del plan regulador o a otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
 
 #### Artículo 20
 
-Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 10% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
+Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos, el 5% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
 
 #### Artículo 21
 
@@ -362,7 +372,11 @@ LA PARTICIPACION CIUDADANA EN LOS ORGANOS Y DEPARTAMENTOS DE LA MUNICIPALIDAD
 
 De los derechos de los ciudadanos y las organizaciones
 
-#### Artículo 36
+#### Artículo 36º
+
+Existirá en la Municipalidad un consejo comunal de organizaciones de la sociedad civil. Éste será elegido por las organizaciones comunitarias de carácter territorial y funcional, y por las organizaciones de interés público de la comuna. Su integración, organización, competencia y funcionamiento, se regirá por un reglamento, dictado al efecto.
+
+#### Artículo 37
 
 La participación ciudadana en los órganos y departamentos de la municipalidad de La Reina, comprende:
 
@@ -372,25 +386,25 @@ b) Posibilidad de expresar por escrito la opinión de una organización sobre un
 
 c) Petición por escrito dirigida al alcalde, de intervención oral en algún tema de la tabla de discusión del concejo.
 
-#### Artículo 37
+#### Artículo 38
 
 Los derechos establecidos en el artículo anterior podrán ser ejercitados por las organizaciones ciudadanas inscritas en el Registro Municipal o, excepcionalmente, por persona individual; siendo el concejo quien fijará la normativa de participación de personas individuales.
 
 De la intervención de organizaciones y ciudadanos en sesión de concejo
 
-#### Artículo 38
+#### Artículo 39
 
 Cuando alguna de las organizaciones ciudadanas desee efectuar una exposición ante el concejo en relación con algún punto de la tabla, deberá solicitarlo al alcalde a través de la secretaría municipal, con una antelación de cuarenta y ocho horas del comienzo de la sesión.
 
-#### Artículo 39
+#### Artículo 40
 
 Con la autorización del alcalde y previo conocimiento del concejo, la organización ciudadana, a través de un único representante, podrá exponer su parecer durante el tiempo que señale el alcalde con anterioridad a la lectura, debate y votación de la propuesta incluida en la tabla del concejo.
 
-#### Artículo 40
+#### Artículo 41
 
 El miembro de la organización ciudadana que intervenga en el concejo será el que legalmente la represente según sus estatutos u otro miembro de su directiva nombrado expresamente para tal fin. En todo caso deberá acreditarse la representación ostentada.
 
-#### Artículo 41
+#### Artículo 42
 
 Cuando se desee intervenir al terminar la sesión a objeto de expresar opinión sobre los temas tratados en la misma, se deberá seguir los siguientes pasos:
 
@@ -402,11 +416,11 @@ Cuando se desee intervenir al terminar la sesión a objeto de expresar opinión 
 
 4.- Los concejales podrán pronunciarse ante los comentarios y preguntas con brevedad. Si se trata de una consulta de carácter informativo, será contestada por escrito en el plazo de quince días hábiles, sin perjuicio de que se pueda dar una respuesta inmediata. Si se trata de una propuesta que implica una gestión municipal posterior, el alcalde, oídos los concejales, decidirá la consideración o no de la proposición y la tramitación que haya de realizarse al mismo, notificándose esta resolución al interesado.
 
-#### Artículo 42
+#### Artículo 43
 
 Corresponde al secretario municipal notificar autorización del alcalde al representante de la organización o al ciudadano interesado en intervenir en la sesión de concejo.
 
-#### Artículo 43
+#### Artículo 44
 
 A través de secretaría municipal se dará respuesta escrita a las preguntas formuladas y se notificará la resolución adoptada con relación a las propuestas presentadas al concejo.
 
@@ -416,25 +430,25 @@ SEDES, INFRAESTRUCTURA MENOR Y SUBVENCIONES
 
 De las sedes y locales comunitarios
 
-#### Artículo 44
+#### Artículo 45
 
 Los locales o sedes de propiedad municipal constituyen un servicio que la municipalidad presta a todos los ciudadanos de la comuna para hacer más accesible la cultura, el bienestar social y fomentar el asociacionismo vecinal y la participación ciudadana en la comuna de La Reina.
 
-#### Artículo 45
+#### Artículo 46
 
 Las organizaciones ciudadanas inscritas en el Registro Municipal podrán utilizar los locales municipales públicos, destinados a los fines indicados en el artículo anterior, para la realización de sus actividades, sin más limitaciones que las que se deriven de las condiciones del local, usos específicos a que esté destinado y programación previa.
 
-#### Artículo 46
+#### Artículo 47
 
 Para los locales municipales públicos destinados a los fines indicados en el artículo Nº 44 y que sean administrados directamente por el municipio, se establecerá en cada caso, según las características del local y usos que deba atender, el procedimiento para que las organizaciones ciudadanas puedan utilizarlos.
 
 De las subvenciones
 
-#### Artículo 47
+#### Artículo 48
 
 Podrán recibir subvenciones para fines específicos de alto interés social, aquellas entidades que garanticen un funcionamiento de acuerdo a lo establecido en la ley 19.418, o a lo establecido en la normativa que rija a la organización según su naturaleza cuando corresponda y que se den las condiciones legales para su otorgamiento.
 
-#### Artículo 48
+#### Artículo 49
 
 Las organizaciones ciudadanas inscritas en el Registro Municipal y que cumplan las obligaciones previstas en la presente ordenanza podrán postular a la subvención municipal, de acuerdo a la normativa vigente para el otorgamiento de dichas subvenciones, adjuntando la siguiente documentación complementaria:
 
@@ -448,15 +462,15 @@ d) Certificación de rendición de cuentas del empleo de subvenciones que hubies
 
 e) Certificación de las subvenciones recibidas de otras instituciones u organismos, públicos o privados.
 
-#### Artículo 49
+#### Artículo 50
 
 Las solicitudes de subvención deberán ser enviadas a la municipalidad, dirigidas al alcalde, de acuerdo a la normativa vigente, a más tardar el día 30 de septiembre de cada año (30 de agosto en el caso del Fondeve), éstas serán analizadas por una comisión designada por el alcalde para estos efectos, para su posterior aprobación o rechazo por el concejo municipal, cuando éste defina el presupuesto municipal del año siguiente.
 
-#### Artículo 50
+#### Artículo 51
 
 La convocatoria y la resolución sobre las solicitudes de subvención, previos los informes respectivos o que se estimen necesarios, serán acordadas por el concejo, según las características de las entidades solicitantes y el tipo de ayuda que se preste.
 
-#### Artículo 51
+#### Artículo 52
 
 Las organizaciones ciudadanas a las que se conceda subvención municipal deberán justificar la utilización de los fondos recibidos ante la Contraloría Municipal de La Reina.
 
@@ -464,13 +478,13 @@ La falta de justificación producirá la obligación de devolver a la municipali
 
 Del Fondo de Desarrollo Vecinal (Fondeve)
 
-#### Artículo 52
+#### Artículo 53
 
 Créase, en la municipalidad de La Reina, un Fondo de Desarrollo Vecinal, que tendrá por objeto apoyar proyectos específicos de desarrollo comunitario presentados por las juntas de vecinos.
 
 Este fondo será administrado por la municipalidad y estará compuesto por aportes municipales, de los propios vecinos o beneficiarios y por los contemplados anualmente con cargo al Presupuesto General de Entradas y Gastos de la Nación. (Párrafo 3º, Art. 45, ley Nº 19.418.)
 
-#### Artículo 53
+#### Artículo 54
 
 El Fondo de Desarrollo Vecinal se regirá por la reglamentación que la municipalidad establecerá para estos efectos, sin perjuicio de lo establecido en los artículos Nº 47 al Nº 51 de la presente ordenanza.
 
