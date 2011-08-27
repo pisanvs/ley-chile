@@ -298,6 +298,10 @@ incorpora plano y la ordenanza 0.15 UTM
 
 La Dirección de Obras procederá a requerir los comprobantes de pago, previamente pagados para hacer efectivos los servicios.
 
+- De conformidad con lo dispuesto en el artículo 2.6.3 y con el Art. 5.1.2 de la OGU y C, es menester de cada empresa de telecomunicaciones que vaya a instalar una antena en la comuna, informar a la Dirección de Obras Municipales mediante una carpeta técnica acerca de las condiciones de dicha instalación, de conformidad a los requerimientos establecidos por la Municipalidad, contenidos en circular Nº 1/2011. Para efectos de revisar dicha carpeta, el monto a cobrar será de 100 UTM.
+
+- Para el caso de erigir una antena de telecomunicaciones o similar, tanto dentro como fuera del radio urbano de la comuna, el monto a cancelar por metro de altura será de 10 UTM. Este cobro será semestral, debiendo tenerse al día para el normal funcionamiento de la misma. De lo contrario, el Municipio podrá generar un decreto de demolición. Las referidas antenas no podrán instalarse en la denominada Zona Típica del Plan Regulador.
+
 ## Título IV
 
 DERECHOS MUNICIPALES GIRADOS POR EL DEPARTAMENTO DE ADMINISTRACIÓN Y FINANZAS
