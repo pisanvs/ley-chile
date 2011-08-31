@@ -16,38 +16,42 @@ Resuelvo:
 
 1.- Autorízase transitoriamente por un plazo de 5 años, a contar de la fecha de publicación de la presente resolución en el Diario Oficial, la actividad pesquera extractiva de embarcaciones industriales, que utilicen como arte de pesca la red de arrastre, para las especies Camarón nailon (Heterocarpus reedi), Langostino amarillo (Cervimunida johni), Langostino colorado (Pleuroncodos manodon) y Gamba (Hymenopenaeus diomedeae = Hatipornides diomedeae) en las zonas de mar comprendidas en el área de reserva para la pesca artesanal de la IV Región, que a continuación se indican:
 
-a) Al oeste de la línea recta imaginaria que une el punto ubicado a 2 millas marinas mar adentro en la latitud de Punta Zorros (29°10'35" L.S.), con el punto determinado por las coordenadas geográficas 29°17'40"L.S. y 71°36'07"L.W.
+a) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°10'47.19" L.S. y 071°32'08.33" L.W. con el punto determinado por las coordenadas geográficas 29°15'13.43" L.S. y 071°34'49.32" L.W.;
 
-b) Al sur de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°17'40"L.S, y 71°36'07"L.W., con el punto ubicado a 3 millas marinas hacia el sur en longitud de Cabo Choros (71°28'00" L.W.).
+b) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°15'13.43" L.S. y 071°34'49.32" L.W. con el punto determinado por las coordenadas geográficas 29°18'10.39" L.S. y 071°34'35.31" L.W.;
 
-c) Al oeste de la línea recta imaginaria que une el punto ubicado a 3 millas marinas hacia el sur en la longitud de Cabo Choros (71°28'00" L.W), con el punto ubicado 3 millas marinas mar adentro, en la latitud de Punta Mar Brava (29°21'30" L.S.)
+c) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°18'10.39" L.S. y 071°34'35.31" L.W. con el punto determinado por las coordenadas geográficas 29°18'44.32" L.S. y 071°32'34.34" L.W.;
 
-d) Al oeste de la línea recta imaginaria que une el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Mar Brava (29°21'30" L.S.), con el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Totoralillo (29°29'00" L.S.)
+d) Al sur de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°18'44.32" L.S. y 071°32'34.34" L.W., con el punto determinado por las coordenadas geográficas 29°18'19.34" L.S. y 071°27'56.43" L.W., ubicado a 3 millas marinas hacia el sur en longitud de Cabo Choros (29°15'19.03" L.S. y 71°27'52.16" L.W.);
 
-e) Al oeste de la línea recta imaginaria que uno el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Totoralillo (29°29'00" L.S,), con el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Hornos (29°38'35" L.S.)
+e) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°18'19.34" L.S. y 071°27'56.43" L.W., ubicadas a 3 millas marinas hacia el sur en longitud de Cabo Choros, con el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Mar Brava, determinado por las coordenadas geográficas 29°21' 27.97" L.S. y 071°23'38.75" L.W.;
 
-f) Al oeste de la línea recta imaginaria que une el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Hornos (29°38'35" L.S.), con el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Porotos (29°45'30" L.S.)
+f) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°21'27.97" L.S. y 071°23'38.75" L.W., ubicadas a 3 millas marinas mar adentro, en la latitud de Punta Mar Brava, con el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Totoralillo, determinado por las coordenadas geográficas 29°29'15.10" L.S. y 071°23'29.28" L.W.;
 
-g) Al oeste de la línea recta imaginaria que une el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Porotos (29°45'30" L.S.), con el punto ubicado 2 millas marinas mar adentro en la latitud de Punta Teatinos (29°49'10" L.S.)
+g) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°29'15.10" L.S. y 071°23'29.28" L.W., ubicadas a 3 millas marinas mar adentro, en la latitud de Punta Totoralillo, con el punto ubicado a 3 millas marinas mar adentro, en la latitud de Punta Hornos, determinado por las coordenadas geográficas 29°38'45.96" L.S. y 071°22'37.09" L.W.;
 
-h) Al oeste de la línea recta imaginaria que une el punto ubicado a 2 millas marinas mar adentro en la latitud de Punta Teatinos (29°49'10" L.S.), con el punto ubicado a una milla marina mar adentro en la latitud de Punta Saliente (30°00'00" L.S.)
+h) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°38'45.96" L.S. y 071°22'37.09" L.W., ubicadas a 3 millas marinas mar adentro, en la latitud de Punta Hornos, con el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Porotos, determinado por las coordenadas geográficas 29°45'18.66" L.S. y 071°22'58.17" L.W.;
 
-i) Al oeste de la línea recta imaginaria que uno el punto ubicada a una milla marina mar adentro, en la latitud de Punta Saliente (30°00'00" L.S.), con el punto ubicado 2 millas marinas mar adentro, en la latitud de Punta Lagunillas (30°06'00" L.S.)
+i) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°45'18.66" L.S. y 071°22'58.17" L.W., ubicadas a 2 millas marinas mar adentro, en la latitud de Punta Porotos, con el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Teatinos, determinado por las coordenadas geográficas 29°49'08.07" L.S. y 071°20'58.97" L.W.;
 
-j) Al oeste de la línea recta imaginaria que une el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Lagunillas (30°06'00" L.S.), con el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Guanaqueros (30°09'45" L.S.)
+j) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°49'08.07" L.S. y 071°20'58.97" L.W., ubicadas a 2 millas marinas mar adentro, en la latitud de Punta Teatinos, con el punto ubicado a una milla marina mar adentro, en la latitud de Punta Saliente, determinado por las coordenadas geográficas 29°59'56.25" L.S. y 071°26'08.85" L.W.;
 
-k) Al oeste de la línea recta imaginaria que une el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Guanaqueros (30°09'45" L.S.), con el punto determinada por las coordenadas geográficas 30°13'00" L.S y 71°32'55" L.W, ubicado a 3 millas marinas mar adentro de la Península de Tongoy.
+k) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 29°59'56.25" L.S. y 071°26'08.85" L.W., ubicada a una milla marina mar adentro, en la latitud de Punta Saliente, con el punto ubicado 2 millas marinas mar adentro, en la latitud de Punta Lagunillas, determinado por las coordenadas geográficas 30°05'52.91" L.S. y 071°25'25.07" L.W.;
 
-l) Al exterior de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 30°13'00" L.S. y 71°32'55" L.W, ubicado a 3 millas marinas mar adentro de la Península de Tongoy, con el punto ubicado a una milla marina mar adentro, en la longitud de Punta Lengua de Vaca (71°37'30" L.W.)
+l) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 30°05'52.91" L.S. y 071°25'25.07" L.W., ubicadas a 2 millas marinas mar adentro, en la latitud de Punta Lagunillas, con el punto ubicado a 2 millas marinas mar adentro, en la latitud de Punta Guanaqueros, determinado por las coordenadas geográficas 30°06'54.94" L.S. y 071°29'13.10" L.W.;
 
-m) Al oeste de una milla marina medida desde la línea de base normal, entre la longitud 71°37'30" L.W. con la latitud correspondiente a Punta Lengua de Vaca (30°14'14" L.S.)
+m) Al oeste de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 30°06'54.94" L.S. y 071°29'13.10" L.W., ubicadas a 2 millas marinas mar adentro, en la latitud de Punta Guanaqueros, con el punto ubicado a 3 millas marinas mar adentro de la Península de Tongoy, determinado por las coordenadas geográficas 30°13'13.62" L.S. y 071°33'02.61" L.W.;
 
-n) Al oeste de 2 millas marinas medidas desde la línea de base normal, entre la latitud correspondiente a Punta Lengua de Vaca (30°14'14" L.S.) y Caleta Totoral (30°21'30" L.S.)
+n) Al exterior de la línea recta imaginaria que une el punto determinado por las coordenadas geográficas 30°13'13.62" L.S. y 071°33'02.61" L.W., ubicadas a 3 millas marinas mar adentro de la Península de Tongoy, con el punto ubicado a una milla marina mar adentro, en la longitud de Punta Lengua de Vaca, determinado por las coordenadas geográficas 30°13'12.86" L.S. y 071°37'36.29" L.W.;
 
-ñ) Al oeste de 2 millas marinas medidas desde la línea de base normal, entre Caleta Totoral (30°21'30" L.S.) y Punta Ventana (31°36'05" L.S.)
+o) Al oeste de una milla marina medida desde la línea de base normal que une el punto determinado por las coordenadas geográficas 30°13'12.86" L.S. y 071°37'36.29" L.W., ubicadas a una milla marina mar adentro, en la longitud de Punta Lengua de Vaca, con el punto ubicado a una milla marina mar adentro, en la latitud de Punta Lengua de Vaca, determinado por las coordenadas geográficas 30°14'11.41" L.S. y 071°39'04.48" L.W.;
 
-o) Al oeste de 2,5 millas marinas medidas desde la línea de base normal, entre Punta Changos (32°00'00" L.S.) y Punta Huesos (32°10'23" L.S.)
+p) Al oeste de 2 millas marinas medidas desde la línea de base normal que une el punto determinado por las coordenadas geográficas 30°14'09.91" L.S. y 071°40'18.53" L.W., ubicadas en la latitud de Punta Lengua de Vaca, con el punto ubicado en la latitud de Punta Ventana, determinado por las coordenadas geográficas 31°36'29.51" L.S. y 071°37'07.01" L.W.;
+
+q) Al oeste de 2,5 millas marinas medidas desde la línea de base normal que une el punto determinado por las coordenadas geográficas 32°00'12.91" L.S. y 071°34'27.06" L.W., ubicadas en la latitud de Punta Changos, con el punto ubicado en la latitud de Punta Huesos, determinado por las coordenadas geográficas 32°10'33.23" L.S. y 071°35'28.80" L.W.
 
 2.- La operación de las naves industriales en las zonas comprendidas en el área de reserva para la pesca artesanal, señaladas en el numeral 1º de esta resolución, deberá efectuarse de conformidad con la normativa pesquera vigente.
+
+El numeral 1 de la Resolución 2280 Exenta, Economía, publicada el 31.08.2011, confirma la autorización por un plazo de 5 años, a contar del 15 de septiembre de 2009, la actividad pesquera extractiva de embarcaciones industriales, que utilicen como arte de pesca la red de arrastre, para las especies Camarón nailon (Heterocarpus reedi), Langostino amarillo (Cervimunida johni), Langostino colorado (Pleuroncodes monodon) y Gamba (Hymenopenaeus diomedeae = Haliporoides diomedeae) en las zonas de mar comprendidas en el área de reserva para la pesca artesanal de la IV Región que en dicha resolución se indican, todo ello en virtud de lo dispuesto en la parte considerativa de la presente resolución.
 
 Anótese y publíquese por cuenta de esta Subsecretaría.- Jorge Chocair Santibáñez, Subsecretario de Pesca.
