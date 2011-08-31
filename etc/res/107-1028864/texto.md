@@ -1,6 +1,6 @@
 REVOCA CALIDAD DE AGENTES RETENEDORES DEL IVA A CONTRIBUYENTES QUE SEÑALA
 
-La XVII Dirección de Grandes Contribuyentes revoca la calidad de agentes retenedores del Impuesto al Valor Agregado en las ventas que se indican, de los contribuyentes que se señalan:
+La Dirección Grandes Contribuyentes revoca la calidad de agentes retenedores del Impuesto al Valor Agregado en las ventas que se indican, de los contribuyentes que se señalan:
 
 Rut Nombre Producto Revocación Fecha
 
