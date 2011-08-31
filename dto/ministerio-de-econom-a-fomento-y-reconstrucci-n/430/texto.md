@@ -76,7 +76,7 @@ PARRAFO ELIMINDO
 
 14) bis. Descarte: es la acción de desechar al mar especies hidrobiológicas capturadas.
 
-14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos.
+14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, puente, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos y de un francobordo mínimo de 200 milímetros a lo largo de toda su eslora, que dé garantías de seguridad y navegabilidad.
 
 Por reglamento se establecerán categorías de embarcaciones artesanales por eslora.
 
@@ -120,7 +120,21 @@ Sin perjuicio de lo anterior, se considerará también como pesca artesanal la a
 
 Para los efectos de esta ley, la actividad pesquera artesanal se ejerce a través de una o más de las siguientes categorías: armador artesanal, pescador artesanal propiamente tal, buzo, recolector de orilla, alguero o buzo apnea:
 
-a) Armador artesanal: es el pescador artesanal, la persona jurídica o la comunidad, en los términos que establece el Código Civil, propietaria de hasta dos embarcaciones artesanales. Tratándose de las personas naturales y de las empresas individuales de responsabilidad limitada, las dos embarcaciones artesanales de que pueden ser propietarias, no podrán tener, en conjunto, una capacidad de bodega que exceda de cien metros cúbicos. En el caso de las personas jurídicas y de las comunidades, entendiendo por tales las contempladas en el Código Civil, las dos embarcaciones artesanales de que pueden ser propietarias, no podrán tener, en conjunto, una capacidad de bodega que exceda de ciento sesenta metros cúbicos.
+a) Armador artesanal: es el
+
+pescador artesanal, la persona
+
+jurídica constituida en los términos
+
+establecidos en el inciso segundo
+
+de este numeral o la comunidad en
+
+los términos que establece el
+
+Código Civil, propietarios de
+
+hasta dos embarcaciones artesanales.
 
 Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal.
 
@@ -164,7 +178,7 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 38) Registro nacional de acuicultura: nómina nacional de titulares de concesiones y autorizaciones de acuicultura habilitados para efectuar actividades de cultivo, que llevará el Servicio para los efectos de esta ley.
 
-39) Registro Nacional Pesquero Artesanal o Registro Artesanal: nómina de pescadores y embarcaciones artesanales habilitados para realizar actividades de pesca artesanal, que llevará el Servicio por regiones, caletas base, categorías y pesquerías. También se inscribirán en este registro las organizaciones de pescadores artesanales.
+39) Registro Nacional Pesquero Artesanal o Registro Artesanal: nómina de pescadores y embarcaciones artesanales habilitados para realizar actividades de pesca artesanal, que llevará el Servicio por regiones, caletas base, categorías y pesquerías con sus respectivos artes y aparejos de pesca. También se inscribirán en este registro las organizaciones de pescadores artesanales. El Registro será público y estará disponible en la página de dominio electrónico del Servicio, actualizado al mes de junio de cada año.
 
 40) Registro nacional pesquero industrial: nómina de las personas que realizan pesca industrial que llevará el Servicio Nacional de Pesca, para los efectos de esta ley.
 
@@ -235,6 +249,32 @@ En cada área de pesca, independientemente del régimen de acceso a que se encue
 a) Veda biológica por especie en un área determinada, cuya duración se fijará en el decreto que la establezca, facultándose al Ministerio para exceptuar de esta prohibición la captura de especies pelágicas pequeñas destinadas a la elaboración de productos de consumo humano directo y a carnada.
 
 Las vedas se aplicarán procurando la debida concordancia con las políticas aplicadas al respecto por los países limítrofes.
+
+Sin perjuicio de lo anterior,
+
+el decreto que establezca
+
+la veda podrá señalar un
+
+periodo referencial respecto
+
+de su duración, quedando
+
+condicionado su inicio y
+
+término a la verificación
+
+de determinados indicadores
+
+biológicos. La verificación
+
+de los indicadores deberá
+
+comunicarse por la página de
+
+dominio electrónico de la
+
+Subsecretaría.
 
 b) Prohibición de captura temporal o permanente de especies protegidas por convenios internacionales de los cuales Chile es parte.
 
@@ -732,13 +772,113 @@ El régimen de acceso a la explotación de los recursos hidrobiológicos para la
 
 No obstante, con el fin de cautelar la preservación de los recursos hidrobiológicos, cuando una o más especies hayan alcanzado un estado de plena explotación, la Subsecretaría, mediante resolución, previo informe técnico debidamente fundamentado del Consejo Zonal de Pesca que corresponda, podrá suspender transitoriamente por categoría de pescador artesanal y por pesquería, la inscripción en el registro artesanal en una o más regiones. En este caso, no se admitirán nuevas inscripciones de embarcaciones ni de personas para esa categoría y pesquería en la región respectiva. Mediante igual procedimiento se podrá dejar sin efecto la medida de suspensión establecida.
 
-En los casos en que se suspenda transitoriamente la inscripción en el registro artesanal para las especies altamente migratorias o demersales de gran profundidad, explotadas mayoritariamente por pescadores artesanales fuera del área de reserva a que se refiere el artículo 47, la suspensión deberá extenderse simultáneamente a todas las regiones del país, quedando prohibido el ingreso de toda nueva nave a dicha área perteneciente a armadores industriales o artesanales, para la captura de dichas especies hidrobiológicas. Las naves industriales autorizadas para operar en estas pesquerías quedarán afectas a lo establecido en el régimen de pesquerías declaradas en estado de plena explotación.
+En el caso en que se suspenda
+
+transitoriamente la inscripción
+
+en el Registro Artesanal para
+
+las especies altamente migratorias
+
+o demersales de gran profundidad,
+
+ella deberá extenderse,
+
+simultáneamente, a todas
+
+las regiones del país.
+
+En los casos en que se
+
+suspenda transitoriamente la
+
+inscripción en el Registro
+
+Artesanal, conforme a lo
+
+señalado en los incisos
+
+anteriores, se paralizará, también,
+
+mientras dure tal medida, la
+
+recepción de solicitudes y el
+
+otorgamiento de autorizaciones
+
+industriales. Las naves industriales
+
+autorizadas para operar en estas
+
+pesquerías quedarán afectas a lo
+
+establecido en el régimen de
+
+pesquerías declaradas en estado
+
+de plena explotación.
 
 Podrá extenderse el área de operaciones de los pescadores artesanales a la región contigua a la de su domicilio permanente y base de operaciones, cuando éstos realicen frecuentemente actividades pesqueras en la región contigua. Para establecer esta excepción, se requerirá de la dictación de una resolución de la Subsecretaría, previos informes técnicos debidamente fundamentados de los Consejos Zonales de Pesca que corresponda, con acuerdo de la mayoría de los representantes de la Región contigua del Consejo Zonal respectivo.
 
 Mediante igual procedimiento al señalado en el inciso anterior se podrá extender el área de operación de los pescadores artesanales a más de una región, tratándose de pesquerías de especies altamente migratorias y demersales de gran profundidad.
 
 El reglamento determinará el procedimiento de sustitución de embarcaciones artesanales, como asimismo el procedimiento de reemplazo en los casos que se produzcan vacantes en el número de pescadores inscritos, durante el período de suspensión de inscripciones en el registro artesanal. La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso.
+
+Las modificaciones de las
+
+embarcaciones artesanales inscritas
+
+en pesquerías con acceso cerrado
+
+o suspendido, de conformidad con
+
+los artículos 33 y 50, que importen
+
+un aumento de sus características
+
+principales, se someterán al
+
+procedimiento de sustitución de esta
+
+ley. En caso de que las modificaciones
+
+antes referidas correspondan a
+
+embarcaciones inscritas sólo en
+
+pesquerías con acceso abierto, se
+
+entenderán aquéllas como
+
+modificación a la inscripción en
+
+el Registro Artesanal, de
+
+conformidad al reglamento
+
+correspondiente.
+
+Con todo, ninguna modificación
+
+ni sustitución de una embarcación
+
+artesanal inscrita en una pesquería
+
+con acceso cerrado o suspendido
+
+podrá importar un aumento del
+
+esfuerzo pesquero, ya sea por las
+
+características de la embarcación o
+
+por la modificación o incorporación
+
+de nuevas artes, aparejos o
+
+implementos de pesca, según lo
+
+determine el reglamento.
 
 #### Artículo 50
 
@@ -760,9 +900,11 @@ dominio sobre la embarcación, en la forma establecida en el artículo 52, letra
 
 El reemplazante deberá ser pescador artesanal, inscrito en el Registro Artesanal, debiendo acreditar habitualidad en la actividad pesquera extractiva conforme a lo dispuesto en los incisos siguientes.
 
-Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en los
+Se entenderá por habitualidad el registro de un mínimo del 50% de viajes de pesca, continuos o alternados, o días de actividad pesquera extractiva, según corresponda, en relación al promedio anual de la totalidad de viajes de pesca o días de actividad pesquera extractiva en que se hayan efectuado capturas, en la región correspondiente, en una de las pesquerías que tenga inscrita en la categoría invocada, en, a lo menos,
 
-últimos tres años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
+dos años, consecutivos o no, en
+
+los últimos cuatro años. En el caso de especies altamente migratorias o demersales de gran profundidad, la habitualidad será considerada en relación con la o las Regiones en que se ha ejercido actividad pesquera.
 
 Se entenderá por viajes de pesca los que consten en formularios de desembarque artesanal, entregados de conformidad con el artículo
 
@@ -772,7 +914,39 @@ En el caso que se modifique parcialmente la integración de una comunidad o pers
 
 señalado. En el evento que la modificación de la integración sea total, la inscripción se someterá a las normas del reemplazo.
 
-El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta.
+El requisito de habitualidad no será exigible en los casos en que el reemplazante sea descendiente del reemplazado, hasta el cuarto grado de consanguinidad en línea recta,
+
+ni los ascendientes del
+
+reemplazado, ni a los colaterales
+
+hasta el tercer grado de consanguinidad
+
+o afinidad, inclusive.
+
+Con todo, para los efectos
+
+de lo dispuesto en el inciso
+
+séptimo del presente artículo,
+
+se considerará acreditada la
+
+habitualidad durante el lapso
+
+en que la mujer se encuentre en
+
+estado de gravidez, así como
+
+aquel en que esté gozando del
+
+descanso de maternidad a que
+
+se refiere el artículo 195,
+
+inciso primero, del Código
+
+del Trabajo.
 
 El reemplazo no operará respecto de la categoría de recolector de orilla, alguero y buzo apnea, ni podrá ser invocada por el reemplazante.
 
@@ -802,6 +976,18 @@ c) Acreditar domicilio en la región especificando comuna y caleta base en la cu
 
 d) Los pescadores artesanales, para estar en el Registro, deberán acreditar residencia efectiva de al menos tres años consecutivos en la Región respectiva.
 
+Las notificaciones de todas
+
+las actuaciones que digan relación
+
+con la inscripción podrán ser
+
+practicadas en el domicilio
+
+acreditado de conformidad
+
+con la letra c).
+
 #### Artículo 52
 
 Para inscribir embarcaciones con sus respectivos armadores y caleta base en el registro artesanal, deberán cumplirse los siguientes requisitos:
@@ -826,21 +1012,197 @@ El incumplimiento en la comunicación antes mencionada se sancionará conforme a
 
 #### Artículo 55
 
-Caducará la inscripción en el registro artesanal en los siguientes casos:
+El Servicio Nacional de
 
-a) Si el pescador artesanal o su embarcación deja de ejercer las actividades correspondientes a su inscripción por un año continuo, salvo caso fortuito o fuerza mayor debidamente acreditada, caso en el cual el Servicio autorizará por una sola vez una ampliación de plazo, la que será de hasta un año, contado desde la fecha de término del cumplimiento de un año de la suspensión de actividades.
+Pesca deberá, en el mes de
+
+junio de cada año, caducar
+
+la inscripción en el Registro
+
+Artesanal en los siguientes casos:
+
+a) Si el pescador artesanal o
+
+su embarcación no realizan actividades
+
+pesqueras extractivas por tres años
+
+sucesivos, salvo caso fortuito o
+
+fuerza mayor debidamente acreditados.
+
+En el evento que se configure
+
+una causal de caso fortuito o fuerza
+
+mayor, ésta deberá ser invocada ante
+
+el Servicio antes del vencimiento
+
+del plazo establecido en el inciso
+
+anterior, en cuyo caso el Servicio
+
+podrá autorizar la ampliación del
+
+plazo en hasta un año, contado
+
+desde el vencimiento del plazo
+
+de tres años antes indicado.
+
+Se entenderá por captura lo
+
+informado en el formulario de
+
+desembarque, debidamente
+
+recepcionado por el Servicio,
+
+conforme al artículo 63 de esta ley.
 
 b) Si el pescador artesanal fuere reincidente en las infracciones a que se refieren las letras b) y f) del artículo 110.
 
 c) Si al pescador artesanal se le cancelare su matrícula por la autoridad marítima.
 
-d) Si el pescador artesanal fuere condenado por alguno de los delitos que sancionan los artículos 135 y 136.
+d) Si el pescador artesanal fuere
+
+condenado por alguno de los
+
+delitos que sancionan los artículos
+
+135 ó 136, o no mantiene los
+
+requisitos de inscripción
+
+establecidos en los artículos 51 ó 52.
+
+e) No contar con el certificado
+
+de navegabilidad otorgado por
+
+la Autoridad Marítima vigente
+
+por dos años consecutivos.
 
 La caducidad será declarada por resolución del Director Nacional del Servicio. El afectado podrá reclamar de ella ante el Subsecretario. El reglamento determinará los plazos máximos en que podrá hacerse efectivo el reclamo y la posterior resolución del Subsecretario.
 
-La inscripción quedará sin efecto por defunción del pescador artesanal. No obstante, su sucesión, representada por mandatario habilitado, tendrá el derecho a solicitar al Servicio, en el caso previsto en el artículo 50, inciso final del título IV, de la presente ley, que se reserve la vacante, y se le asigne a la persona que cumpla con los requisitos establecidos en el artículo 51 de esta ley. Este derecho podrá ser ejercido dentro del plazo de 180 días, contados desde la fecha de la defunción.
+La inscripción quedará sin efecto
 
-Con todo, si un pescador artesanal desaparece como consecuencia de un accidente ocurrido durante las faenas de pesca y no es posible ubicar su cuerpo una vez transcurridos diez días de su búsqueda oficial, sus legitimarios podrán, previa acreditación de ese hecho, solicitar se les otorgue en forma provisoria hasta por un plazo de cinco años o hasta que se inscriba la resolución que concede la posesión efectiva de sus bienes, el derecho a que se refiere el inciso anterior.
+por defunción del pescador
+
+artesanal. No obstante, su
+
+sucesión, mediante mandatario
+
+común, tendrá el derecho de
+
+presentar al Servicio, dentro del
+
+plazo de dos años de ocurrido el
+
+fallecimiento del causante, copia
+
+autorizada de la resolución que
+
+otorga la posesión efectiva, para
+
+que dicha autoridad proceda a
+
+asignar la inscripción a la persona
+
+que designe la sucesión y que
+
+cumpla con los requisitos establecidos
+
+en los artículos 51 y 52 de esta ley. Con
+
+todo, la sucesión podrá optar, en el
+
+mismo plazo antes señalado, por
+
+mantener la inscripción a nombre de
+
+la comunidad hereditaria. Dentro del
+
+mismo plazo, la sucesión podrá
+
+reemplazar la inscripción conforme
+
+a las normas del artículo 50 A.
+
+En el caso que el causante hubiese
+
+tenido la categoría de armador
+
+artesanal, y durante el tiempo que
+
+transcurra entre el fallecimiento
+
+del mismo y el plazo indicado en
+
+el inciso anterior, la sucesión
+
+podrá asignar provisionalmente la
+
+inscripción en el Registro a la
+
+misma comunidad hereditaria o a
+
+una persona que reúna los requisitos
+
+establecidos en el artículo 51 de
+
+esta ley, quien podrá continuar
+
+desarrollando las actividades con
+
+la o las embarcaciones correspondientes
+
+a la inscripción del causante. Vencido
+
+el plazo antes señalado, sin que
+
+se hubiere efectuado la asignación
+
+definitiva, quedará sin efecto
+
+la inscripción.
+
+Con todo, si un pescador artesanal
+
+desaparece como consecuencia de un
+
+accidente ocurrido durante las
+
+faenas de pesca y no es posible
+
+ubicar su cuerpo, una vez transcurridos
+
+diez días de su búsqueda oficial,
+
+la sucesión mediante mandatario
+
+común podrá, previa acreditación
+
+de ese hecho, solicitar se le otorgue
+
+el derecho a reservar la vacante en
+
+forma provisoria, hasta por un plazo
+
+de cinco años o hasta que se inscriba
+
+la resolución que concede la posesión
+
+efectiva de sus bienes. Durante los
+
+mismos plazos, la sucesión podrá
+
+ejercer el derecho a que se refieren
+
+los incisos anteriores.
 
 ### Párrafo 3°
 
@@ -972,13 +1334,91 @@ DISPOSICIONES COMUNES
 
 #### Artículo 63
 
-Los armadores pesqueros industriales y artesanales que realicen actividades pesqueras extractivas de cualquier naturaleza, deberán informar al Servicio, al momento de su desembarque, sus capturas por especie y área de pesca, en la forma y condiciones que fije el reglamento.
+Los armadores pesqueros,
+
+industriales o artesanales,
+
+al momento del desembarque,
+
+en Chile o en el extranjero,
+
+deberán informar al Servicio
+
+sus capturas por especies y
+
+áreas de pesca.
+
+A la misma obligación
+
+dispuesta en el inciso anterior
+
+estarán sujetos los recolectores
+
+de orilla, buzos, buzos apnea y
+
+organizaciones de pescadores
+
+artesanales asignatarias de
+
+áreas de manejo.
+
+El reglamento determinará la
+
+forma y condiciones a que se
+
+ajustará el cumplimiento de las
+
+obligaciones a que se refieren
+
+los incisos precedentes y la
+
+oportunidad en que habrán de cumplir
+
+la obligación de informar las
+
+personas mencionadas en el inciso segundo.
 
 En todo caso, tratándose de actividades pesqueras extractivas que requieran del uso de naves o embarcaciones pesqueras industriales o artesanales, deberá informarse de las capturas y áreas de pesca por cada una de ellas.
+
+La información antes señalada deberá
+
+ser entregada a funcionarios del
+
+Servicio o a quienes éste designe.
 
 La obligación de informar referida precedentemente, se hace extensiva a cualquier nave pesquera, nacional o extranjera, que desembarque todo o parte del producto de su actividad en puertos chilenos.
 
 Estarán obligados también a informar respecto del abastecimiento de recursos hidrobiológicos y de los productos finales derivados de ellos, en las condiciones que fije el reglamento, las personas que realicen actividades de procesamiento o transformación y de comercialización de recursos hidrobiológicos, y las que realicen actividades de acuicultura.
+
+Los recursos hidrobiológicos objeto
+
+de la información de desembarque o
+
+abastecimiento, a que se refieren los
+
+incisos anteriores, deberán ser de
+
+origen legal, entendiendo por tales,
+
+aquellos capturados o adquiridos
+
+cumpliendo la normativa pesquera
+
+nacional y los tratados internacionales
+
+vigentes en Chile.
+
+La información que se entregue
+
+de conformidad a este artículo,
+
+deberá ser completa, fidedigna y
+
+oportuna.
+
+#### Artículo 63 bis
+
+Los armadores pesqueros artesanales e industriales deberán informar la recalada de la nave, antes de su arribo a puerto, en los casos, forma y condiciones que establezca el Servicio mediante resolución.
 
 #### Artículo 64
 
@@ -1040,7 +1480,9 @@ Se presume de derecho que la totalidad del desembarque de las naves o embarcacio
 
 #### Artículo 66
 
-Los registros de que trata esta ley serán públicos, en lo referente a la individualización de los agentes que participen en las actividades de pesca y acuicultura, y de las embarcaciones autorizadas.
+Los registros de que trata esta ley serán públicos.
+
+Será incompatible la titularidad de una autorización de pesca con la inscripción en el Registro Artesanal.
 
 #### Artículo 66 bis
 
@@ -1764,13 +2206,17 @@ d) Poseer, transportar, comercializar y almacenar productos derivados de recurso
 
 #### Artículo 113
 
-Serán sancionados con multa de 30 a 300 unidades tributarias mensuales el armador pesquero industrial o artesanal y las personas naturales o jurídicas que no cumplan con la presentación de informes o comunicaciones, en conformidad con lo establecido en los artículos 63 y 64. En caso de reincidencia, la sanción se duplicará.
+Serán sancionados con multa de 3 a 300 unidades tributarias mensuales el armador pesquero industrial o artesanal y las personas naturales o jurídicas que no cumplan con la presentación de informes o comunicaciones, en conformidad con lo establecido en los artículos 63 y 64. En caso de reincidencia, la sanción se duplicará.
 
 Iguales sanciones se aplicarán al o a los responsables de proporcionar información falsa acerca de la posición de la nave en las situaciones previstas en los artículos 64 B y 64 D.
 
 Las personas naturales o jurídicas que realicen actividades de acuicultura y entreguen información falsa acerca de la operación de los centros de cultivo de que sean titulares a cualquier título, serán sancionados con multas de 50 a 300 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
 
 > **Nota.** El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que la modificación introducida al presente artículo rige a contar de sesenta días después de su publicación en el Diario Oficial.
+
+#### Artículo 113
+
+A.- Será sancionado con multa de 3 a 300 unidades tributarias mensuales el armador pesquero industrial o artesanal que no informe la recalada de acuerdo al procedimiento establecido en el artículo 63 bis.
 
 #### Artículo 114
 
@@ -1862,7 +2308,13 @@ Sin perjuicio de lo señalado en el inciso séptimo del artículo anterior, en c
 
 #### Artículo 119
 
-El transporte y la comercialización de recursos hidrobiológicos vedados y los productos derivados de éstos, serán sancionados con multa de 3 a 300 unidades tributarias mensuales, y, además, con la clausura del establecimiento o local en que se hubiere cometido la infracción, hasta por un plazo de 30 días.
+El transporte y la comercialización de recursos hidrobiológicos vedados, extraídos
+
+con violación al artículo 3º, letra
+
+c), o a la cuota establecida en virtud
+
+del régimen artesanal de extracción y los productos derivados de éstos, serán sancionados con multa de 3 a 300 unidades tributarias mensuales, y, además, con la clausura del establecimiento o local en que se hubiere cometido la infracción, hasta por un plazo de 30 días.
 
 El conductor del vehículo de transporte o el gerente o administrador del establecimiento comercial serán sancionados personalmente con una multa de 3 a 150 unidades tributarias mensuales.
 
@@ -1915,6 +2367,26 @@ en el que se hubiere
 cometido la infracción,
 
 hasta por un plazo de 30 días.
+
+#### Artículo 121 bis
+
+Será sancionada con multa
+
+de 10 a 100 unidades tributarias
+
+mensuales toda persona natural o
+
+jurídica que, sometida a fiscalización,
+
+de cualquier forma obstaculice,
+
+dificulte, impida o intente
+
+obstaculizar la labor de los
+
+funcionarios del Servicio
+
+Nacional de Pesca.
 
 ### Párrafo 2°
 
@@ -2705,6 +3177,12 @@ Para la administración del Fondo, la Subsecretaría de Pesca proveerá los recu
 El Fondo se financiará con cargo a rentas generales de la Nación.
 
 Asimismo, el Fondo tendrá por objeto financiar proyectos de investigación sobre especies hidrobiológicas de importancia para la pesca recreativa, restauración de hábitat y programas de promoción, fomento, administración, vigilancia y fiscalización de las actividades de pesca recreativa.
+
+#### Artículo 174
+
+La publicación en el Diario Oficial de las resoluciones y decretos dictados en el marco de esta ley, con excepción de los reglamentos, se efectuará en extracto, debiendo asimismo publicarse íntegramente en el sitio de dominio electrónico de la Subsecretaría y del Servicio.
+
+Para todos los efectos legales el acto administrativo de que se trate entrará en vigencia en la fecha de la última publicación del texto íntegro en el sitio de dominio electrónico de la Subsecretaría o del Servicio.
 
 ARTICULOS TRANSITORIOS
 
