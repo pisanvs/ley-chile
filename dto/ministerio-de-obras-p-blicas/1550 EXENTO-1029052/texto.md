@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1550 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 31 y 32, superficies 6,05 y 5,22 m2 respectivamente, rol N° 230-13, comuna de Valdivia para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de Los Barrios Bajos", Región de Los Ríos y se acordó el valor de la indemnización con su propietario TEOBALDO AROS AROS, ascendente a la cantidad de $1.937.755.-
+
+Fiscal del Ministerio de Obras Públicas.
