@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1551 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 27, superficie 67,73 m2, rol N° 240-18, comuna de Valdivia para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de Los Barrios Bajos", comuna de Valdivia, XIV Región de Los Ríos y se acordó el valor de la indemnización con su propietario FLOR ANTINA SEGUEL QUINTEROS, ascendente a la cantidad de $29.699.435.-
+
+Fiscal del Ministerio de Obras Públicas.
