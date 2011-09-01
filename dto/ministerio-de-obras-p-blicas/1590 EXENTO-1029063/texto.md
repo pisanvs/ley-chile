@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1590 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº14, superficie 2.290 m2, rol Nº27-7, comuna de Lolol para la obra "Mejoramiento Ruta I-70-J, Sector Lolol - Ranguil, Tramo Km. 0,00000 a Km. 19,38878", VI Región y se acordó el valor de la indemnización con su propietario LETICIA CECILIA RODRÍGUEZ MALDONADO y OTROS, ascendente a la cantidad de $6.897.636.-
+
+Fiscal del Ministerio de Obras Públicas.
