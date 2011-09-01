@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1573 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº61, superficie 67 m2, rol Nº600-42, comuna de Santa Cruz para la obra "Mejoramiento Ruta I-710 Bifurcación I-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario ELEODORO ANTONIO RODRÍGUEZ SÁNCHEZ Y OTRO, ascendente a la cantidad de $539.645.-
+
+Fiscal del Ministerio de Obras Públicas.
