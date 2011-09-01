@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1603 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 50, superficie 488 m2, rol N° 180-69, comuna de Panquehue para la obra "Proyecto: Camino Internacional Ruta 60 CH. Sector 1: Km. 0.000,00 al Km. 53.779,50. Tramo 2: Km. 19.500,00 al Km. 46.100,00", Quinta Región y se acordó el valor de la indemnización con su propietario LUIS ALBERTO DÍAZ RIVERA, ascendente a la cantidad de $1.082.068.-
+
+Fiscal del Ministerio de Obras Públicas.
