@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1565 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº55, superficie 288 m2, rol Nº596-83, comuna de Santa Cruz para la obra "Mejoramiento Ruta I-710 Bifurcación I-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario JAIME ANTONIO CALDERÓN BUSTAMANTE, ascendente a la cantidad de $3.249.871.-
+
+Fiscal del Ministerio de Obras Públicas.
