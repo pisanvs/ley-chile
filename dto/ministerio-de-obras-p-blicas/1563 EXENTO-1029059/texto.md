@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1563 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 5 y 6, superficies 2.317,05 y 90,20 m2 respectivamente, rol Nº555-19, comuna de Futrono para la obra "Mejoramiento Ruta T-785 Sector Coique - Cruce Ruta T-75 (Pto. Nuevo), Tramo Km. 0,00000 a Km. 21,02000", comunas de Futrono y La Unión, provincia del Ranco, Región de Los Ríos, y se acordó el valor de la indemnización con su propietaria FRANCISCA ALEMPARTE PÉREZ Y OTROS, ascendente a la cantidad de $10.906.898.-
+
+Fiscal del Ministerio de Obras Públicas.
