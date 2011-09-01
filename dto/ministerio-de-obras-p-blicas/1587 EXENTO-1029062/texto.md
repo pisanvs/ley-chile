@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1587 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 31 y 32, superficies 183 y 85 m2 respectivamente, rol Nº902-26, comuna de Alto del Carmen para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano - Etapa II" (Conay - Malaguín), IV Región y se acordó el valor de la indemnización con su propietario NORBERTO ILDARINO HUANCHICAY VILLEGAS, ascendente a la cantidad de $7.391.977.-
+
+Fiscal del Ministerio de Obras Públicas.
