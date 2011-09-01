@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1549 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 39, superficie 113,95 m2, rol N° 230-32, comuna de Valdivia para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de Los Barrios Bajos", comuna de Valdivia, XIV Región de Los Ríos y se acordó el valor de la indemnización con su propietario JUAN GUILLERMO OYARZO ZÚÑIGA, ascendente a la cantidad de $3.955.359.-
+
+Fiscal del Ministerio de Obras Públicas.
