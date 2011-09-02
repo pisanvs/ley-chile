@@ -30,11 +30,7 @@ Resolución:
 
 2.- Fíjase el monto de Unidades de Fomento comprometidas para el financiamiento de subsidios del Programa de Protección al Patrimonio Familiar, Título II, para la atención de los postulantes seleccionados a que se refiere el número anterior, según la siguiente tabla:
 
-.
-
 3.- Comprométanse los recursos disponibles por región, para la selección del mes de Septiembre 2010, del llamado extraordinario para damnificados, ya citados, de conformidad a los montos asignados y los saldos disponibles, según la distribución señalada en el siguiente cuadro:
-
-.
 
 4.- Publíquese en un periódico de circulación regional un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 1 y 2 de esta resolución, las que deberán contener a lo menos, la comuna, el Título del cual se trata, el nombre de cada postulante con su respectiva Cédula Nacional de Identidad y el puntaje obtenido por el grupo o postulante individual.
 
