@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº702 EXENTA, DE 2011
+
+Por resolución exenta Nº 702, de 1 de julio de 2011, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la III Región, modificó la resolución exenta Nº 212/2008, y su extracto en el sentido de sustituir el Nº 5 del resuelvo, por el siguiente: "5.- La presente autorización se amplía hasta la entrada en Vigencia del Plan Regulador Comunal de Copiapó (en proyecto), según lo dispuesto en la Resolución de Ampliación de Plazo Nº 266, de fecha 1 de junio de 2011, que amplía el plazo de vigencia establecido en la Resolución de Recepción Definitiva de Obras de Edificación Nº 058, de 2008, ambas citadas en el Visto, vencido el cual, se deberán efectuar las inspecciones pertinentes, con miras a su renovación.".
+
+Alberto Fernando Barrionuevo Pinto, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región de Atacama.
