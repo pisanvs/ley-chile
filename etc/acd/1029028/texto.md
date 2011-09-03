@@ -32,6 +32,38 @@ B. EMISORES EXTRANJEROS:
 
 .
 
+Título Representativo País de
+
+de Índices de Renta Fija Registro
+
+iShares II plc - iShares Barclays
+
+Capital $ TIPS Irlanda
+
+iShares II plc - iShares Barclays
+
+Capital $ Treasury
+
+Bond 7-10 Irlanda
+
+iShares II plc - iShares Barclays
+
+Capital £ Index-
+
+Linked Gilts Irlanda
+
+iShares II plc - iShares Barclays
+
+Capital Euro
+
+Government Bond 3-5 Irlanda
+
+iShares II plc - iShares Barclays
+
+Capital Euro
+
+Government Bond 7-10 Irlanda
+
 5. Asimismo, la Comisión tomó nota de los cambios de nombre experimentados por distintos emisores extranjeros con instrumentos aprobados, los cuales se individualizan en su sitio web: www.ccr.cl.
 
 C. MANTENER ACUERDO VIGENTE SOBRE INSTRUMENTOS DE OFERTA PÚBLICA
