@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.308, de 29 de agosto de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 209123024, 209121008, 209121017, 209123027 y 209123030, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
