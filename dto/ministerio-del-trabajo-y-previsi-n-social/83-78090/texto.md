@@ -190,6 +190,10 @@ El Consejo Administrativo del Servicio podrá fijar anualmente los montos que se
 
 El Servicio podrá concurrir a la celebración de la Navidad de sus afiliados, para lo cual el Consejo Administrativo del Servicio fijará anualmente el monto a destinar de acuerdo a las disponibilidades presupuestarias.
 
+#### Artículo 14º Bis
+
+El Servicio podrá contribuir al financiamiento de la celebración de las Fiestas Patrias de sus afiliados, para lo cual el Consejo Administrativo del Servicio fijará anualmente el monto a destinar de acuerdo a las disponibilidades presupuestarias.
+
 ## Título V
 
 Disposiciones generales
