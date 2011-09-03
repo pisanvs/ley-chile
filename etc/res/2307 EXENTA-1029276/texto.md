@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.307, de 29 de agosto de 2011, de esta Subsecretaría, recházanse las solicitudes Nº 209122041, 209121010, 208031005, 207104066, 204101040, 206105011, 209121018, 209123022, 207031033, 210105008, 209123021, 208111273, 208111280, 209123026, 203101128, 207111145 y 210111390, individualizadas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
