@@ -1,0 +1,19 @@
+MODIFICA RESOLUCIÓN N° 2.746 EXENTA, DE 2011, QUE DISPONE LLAMADO ESPECIAL PARA SELECCIÓN DE PROYECTOS EN LAS COMUNAS DE TALCA, CURICÓ, LINARES, CAUQUENES Y CONSTITUCIÓN, DE LA REGIÓN DEL MAULE; EN LAS COMUNAS DE CONCEPCIÓN, TALCAHUANO, CHIGUAYANTE, CHILLÁN, CHILLÁN VIEJO, TOMÉ, LOS ÁNGELES, LOTA, CORONEL, PENCO, ARAUCO, CAÑETE, CURANILAHUE Y LEBU, DE LA REGIÓN DEL BIOBÍO; EN LA COMUNA DE VALPARAÍSO, DE LA REGIÓN DE VALPARAÍSO; EN LAS COMUNAS DE RANCAGUA, SAN FERNANDO, RENGO, SAN VICENTE DE TAGUA TAGUA Y SANTA CRUZ, DE LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS, CONFORME AL ARTÍCULO 46 DEL DECRETO Nº40, DE 2004, EN EL SENTIDO DE ESTABLECER EL NÚMERO MÁXIMO DE VIVIENDAS POR PROYECTO HABITACIONAL
+
+Santiago, 26 de agosto de 2011.- Hoy se resolvió lo que sigue:
+
+Núm. 5.198 exenta.- Visto: El DS Nº 40 (V. y U.), de 2004, y sus modificaciones, que regula el Sistema de Subsidio Habitacional, en especial su artículo 46; la resolución exenta Nº 8.816, de fecha 31 de diciembre de 2010; el DS Nº 332 (V. y U.), de 2000, y sus modificaciones, que Reglamenta el Sistema de Atención Habitacional para Situaciones de Emergencia; el DS Nº 150, de Interior, de 2010, que señala como zona afectada por la catástrofe derivada del sismo de gran magnitud a las Regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía y Metropolitana, cuya vigencia fue extendida por DS Nº148, de Interior, de 2011; la resolución exenta Nº2.746 (V. y U.), publicada en el Diario Oficial del 14 de mayo de 2011, que dispone el Llamado Especial para Selección de Proyectos en las comunas de Talca, Curicó, Linares, Cauquenes y Constitución, de la Región del Maule, y sus modificaciones, contenidas en las resoluciones exentas Nos 4.089 y 4.791, ambas de Vivienda y Urbanismo, publicadas en el Diario Oficial de fechas 19 de julio y 17 de agosto de 2011.
+
+Considerando: La necesidad de modificar el número máximo de viviendas por proyecto habitacional presentado, según la comuna y localidad de emplazamiento, atendida la diversidad de densidades y conforme las características arquitectónicas y urbanas de cada comuna y localidad, a fin de densificar zonas deterioradas dentro de los cascos urbanos de tales comunas, dicto la siguiente:
+
+Resolución:
+
+1. Modifícase la resolución exenta Nº 2.746 (V. y U.), de 2011, en el siguiente sentido:
+
+a) Reemplázase el resuelvo 2º por el siguiente texto:
+
+"2º.- Los proyectos habitacionales presentados, no podrán exceder del número máximo de viviendas que establezca la Pauta de Selección de Proyectos respectiva; deberán estar emplazados en zonas del casco urbano de las comunas de Valparaíso de la Región de Valparaíso; Rancagua, San Fernando, Rengo, San Vicente de Tagua Tagua y Santa Cruz, de la Región del Libertador General Bernardo O'Higgins; Talca, Curicó, Linares, Cauquenes y Constitución, de la Región del Maule; y las comunas de Concepción, Talcahuano, Chiguayante, Chillán, Chillán Viejo, Tomé, Los Ángeles, Lota, Coronel, Penco, Arauco, Cañete, Curanilahue y Lebu, de la Región del Biobío; definidas mediante resolución por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo respectivas en anexos adjuntos a la presente resolución, cumplir con lo señalado en la pauta de selección de proyectos aprobada por resolución del Ministro de Vivienda y Urbanismo y con las exigencias señaladas en esta resolución.".
+
+Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
