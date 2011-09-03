@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.306, de 29 de agosto de 2011, de esta Subsecretaría, recházanse las solicitudes de concesión números 208141006, 207104010, 207101003, 206103113, 97110054, 207122300 y 201111552, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
