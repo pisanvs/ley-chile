@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.309 de 29 de agosto de 2011, de esta Subsecretaría, recházanse las solicitudes Nº 210111226, 210111677, 210111649, 210111646, 210111647 y 209111277, individualizadas en la resolución extractada, y publicada íntegramente www.subpesca.cl, en virtud del artículo 14 del D.S. Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
