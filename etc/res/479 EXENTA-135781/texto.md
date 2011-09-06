@@ -100,11 +100,15 @@ Lo anterior sin perjuicio de las siguientes definiciones:
 
 Zona de servicio
 
-Zona asociada a una estación para un servicio dado y una frecuencia específica en el interior de la cual y en condiciones técnicas determinadas, puede establecerse una radiocomunicación con una o varias estaciones ya existentes o previstas, y en la que debe respetarse la protección fijada por un Plan o por una disposición técnica emanada de la Subsecretaría de Telecomunicaciones.
+Parte de la zona de cobertura, dentro de la cual debe cumplirse con las relaciones de protección establecidas para el Servicio de Radiodifusión Sonora.
 
 Zona de cobertura
 
-Zona asociada a una estación transmisora para un servicio dado y una frecuencia específica, en el interior de la cual y en condiciones técnicas determinadas, puede establecerse una radiocomunicación con otras estaciones receptoras.
+Zona asociada a una estación transmisora, en el interior de la cual se puede recepcionar radiodifusión sonora sin que se garantice protección contra interferencias.
+
+Zona de sombra
+
+Zona que, estando inmersa en la zona de servicio y debido a las particularidades topográficas del entorno, presenta intensidades de campo eléctrico inferiores a la intensidad de campo eléctrico mínima que describe la zona de servicio.
 
 Interferencia perjudicial
 
@@ -132,63 +136,141 @@ Las asignaciones de frecuencias de transmisión para Frecuencia Modulada por Ond
 
 2.2 Canalización de las bandas de frecuencias
 
-2.2.1 Frecuencia Modulada por Ondas Métricas, FM.
+2.2.1 Frecuencia Modulada por Ondas Métricas, FM (incluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción)
 
-Banda Atribuida : 88 MHz - 108 MHz
+Banda de frecuencias : 88 - 108 MHz
 
-Primer canal Ultimo canal Separación de canales Ancho de banda
+Ancho de banda máximo : 180 kHz
 
-máximo
+Canalización : a 200 kHz
 
-88,1 MHz. 107,9 MHz. 200 kHz. 180 kHz.
+Frecuencia central del primer canal : 88,1 MHz
 
-2.2.2 Amplitud Modulada por Ondas Hectométricas, AM.
+Frecuencia central del último canal : 107,9 MHz
 
-Banda Atribuida : 535 kHz - 1.605 kHz
+Para el Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción estarán destinadas las sub-bandas de frecuencias que a continuación se indican:
 
-Primer canal Ultimo canal Separación de canales Ancho de banda
+Sin perjuicio de lo anterior, excepcionalmente podrán realizarse asignaciones fuera de las citadas sub-bandas, de acuerdo a lo establecido en el artículo 3º, inciso segundo, de la ley citada en la letra c) de los Vistos.
 
-máximo
+En el caso del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción, la potencia radiada mínima será de 1 W y máxima de 25 W, con una altura de antena de hasta dieciocho metros.
 
-540 kHz. 1.600 kHz. 10 kHz. 10 kHz.
+Excepcionalmente, tratándose de localidades fronterizas o apartadas, con población dispersa o con alto índice de ruralidad, la potencia radiada podrá ser de hasta 40 W.
 
-La asignación de frecuencias para esta banda, se rige por lo establecido en las Actas Finales de la Conferencia Administrativa Regional de Radiodifusión por Ondas Hectométricas, Río de Janeiro 1981, Plan RJ81.
+Asimismo, en el caso de que se busque potenciar las identidades culturales de los pueblos indígenas y de sus lenguas originarias, el límite máximo de potencia radiada será de hasta 30 W.
 
-2.2.3 Amplitud Modulada por Ondas Decamétricas, OC.
+2.2.2 Amplitud Modulada por Ondas Hectométricas, AM
 
-Bandas Atribuidas:
+Banda de frecuencias : 535 - 1.705 kHz
 
-Inicio Término
+Ancho de banda máximo : 10 kHz
 
-5.950,0 kHz 6.200,0 kHz
+Canalización : a 10 kHz
 
-9.500,0 kHz 9.900,0 kHz
+Frecuencia central del primer canal : 540 kHz
 
-11.650,0 kHz 12.050,0 kHz
+Frecuencia central del último canal : 1.700 kHz
 
-15.100,0 kHz 15.600,0 kHz
+La asignación de frecuencias para la banda 535 - 1.605 kHz, se rige por lo establecido en las Actas Finales de la Conferencia Administrativa Regional de Radiodifusión por Ondas Hectométricas, Río de Janeiro 1981, Plan RJ81.
 
-17.550,0 kHz 17.900,0 kHz
+La asignación de frecuencias para la banda 1.605 - 1.705 kHz, se regirá por lo establecido en las Actas Finales de la Conferencia Administrativa Regional de Radiodifusión por Ondas Hectométricas, Río de Janeiro 1988, Plan RJ88.
 
-21.450,0 kHz 21.850,0 kHz
+El cálculo de zona de servicio para sistemas radiantes omnidireccionales, puede realizarse de forma electrónica utilizando la herramienta "Método de Predicción de Zona de Servicio AM", que estará disponible en la página web de la Subsecretaría.
 
-25.670,0 kHz 26.100,0 kHz
+2.2.3 Amplitud Modulada por Ondas Decamétricas, OC
 
-Separación de canales : 5 kHz
+Bandas de frecuencias (kHz) : 2.300 - 2.495; 3.200
+
+- 3.400; 4.750 -
+
+4.995; 5.005 -
+
+5.060; 5.900 -
+
+6.200; 7.300 - 7.400;
+
+9.400 9.900; 11.600 -
+
+12.100; 13.570 -
+
+13.870; 15.100 -
+
+15.800; 17.480 -
+
+17.900; 18.900 -
+
+19.020; 21.450 -
+
+21.850 y 25.670 -
+
+26.100.
+
+Canalización : a 5 kHz
 
 Ancho de banda máximo : 10 kHz
 
 Este servicio está orientado al cubrimiento de zonas extensas, principalmente desde un país a otro.
 
-La operación de este servicio se rige por el artículo S12 del Reglamento de Radiocomunicaciones de la UIT.
+El uso de las bandas de frecuencias, entre 2.300 y 5.060 kHz por el servicio de radiodifusión sonora, está limitado al servicio de radiodifusión tropical, al norte del trópico de Capricornio y, conforme a lo establecido en la nota 25 del Cuadro de Atribución de Bandas de Frecuencias del Plan General de Uso del Espectro Radioeléctrico, las estaciones de dicho servicio funcionarán con una potencia que no excederá el valor necesario para asegurar económicamente un servicio de buena calidad dentro de los límites del país.
+
+El uso de las bandas de frecuencias, entre 5.900 y 26.100 kHz por el servicio de radiodifusión sonora, se rige por el artículo 12 del Reglamento de Radiocomunicaciones de la UIT.
+
+Además, conforme a lo establecido en la nota 31 del Cuadro de Atribución de Bandas de Frecuencias del Plan General de Uso del Espectro Radioeléctrico, la utilización de las bandas 5.900 - 5.950 kHz; 7.300 - 7.350 kHz; 9.400 - 9.500 kHz; 11.600 - 11.650 kHz; 12.050 - 12.100 kHz; 13.570 - 13.600 kHz; 13.800 - 13.870 kHz; 15.600 - 15.800 kHz; 17.480 - 17.550 kHz y 18.900 - 19.020 kHz por el servicio de radiodifusión, está sujeta a la introducción de las emisiones moduladas digitalmente.
 
 2.3 Zonas de Servicio.
 
-2.3.1 Frecuencia Modulada por Ondas Métricas, FM.
+2.3.1 Frecuencia Modulada por Ondas Métricas, FM (incluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción)
 
-La zona de servicio estará determinada por la zona alrededor de la planta transmisora, en que la intensidad de campo es mayor o igual a 500 µV/m (54 dB(µV/m)).
+La zona de servicio para las concesiones del Servicio de Radiodifusión Sonora en Frecuencia Modulada, excluidas las del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción, es la zona geográfica en torno a la planta transmisora delimitada por el contorno donde la intensidad de campo eléctrico de la señal es igual a 500 µV/m (54 dBµV/m). Las zonas al exterior del citado contorno, que por particularidades topográficas tengan un valor de intensidad de campo eléctrico igual o superior al señalado, no serán consideradas parte de la zona de servicio y, por ende, no tendrán protección contra interferencias.
 
-Para las emisoras de mínima cobertura se define una zona de cobertura, que estará determinada por la zona alrededor de la planta transmisora en que la intensidad de campo es mayor a 10 µV/m (20 dB(µV/m)). La zona de cobertura no deberá sobrepasar los límites territoriales de la respectiva comuna.
+La zona de servicio para las concesiones del Servicio de Radiodifusión Comunitaria Ciudadana de Libre Recepción es la zona geográfica en torno a la planta transmisora delimitada por el contorno donde la intensidad de campo eléctrico de la señal es igual a los valores señalados en la siguiente tabla, dependiendo de la población de la(s) localidad(es) en que se encuentre la zona de servicio:
+
+La información de población que se debe utilizar para la aplicación de la tabla anterior, estará disponible en la página www.subtel.cl.
+
+Las zonas al exterior del citado contorno, que por particularidades topográficas tengan un valor de intensidad de campo eléctrico igual o superior al señalado, no serán consideradas parte de la zona de servicio y, por ende, no tendrán protección contra interferencias.
+
+Los cálculos se realizarán aplicando el método establecido en la Recomendación UIT-R P.1546-4, complementada por la Recomendación UIT-R P.1812-1. La descripción del método de cálculo, junto a los supuestos considerados en la aplicación de las citadas recomendaciones, estará disponible en la página web de la Subsecretaría.
+
+Las concesionarias podrán instalar dispositivos para cubrir zonas de sombra, de acuerdo a lo siguiente:
+
+- La zona de sombra a cubrir debe estar inmersa
+
+dentro de la zona servicio definida en el
+
+decreto que otorgó la concesión.
+
+- El proyecto técnico, adjunto a la respectiva
+
+modificación de concesión, deberá definir el
+
+contorno de la zona de sombra a cubrir y
+
+adjuntar los cálculos y mediciones
+
+correspondientes, los que
+
+estarán sujetos a la comprobación técnica que
+
+realice la Subsecretaría.
+
+- La potencia radiada debe ser la mínima necesaria
+
+para cubrir la zona de sombra y será
+
+responsabilidad de la concesionaria no afectar
+
+la calidad de la recepción al interior de su
+
+zona de servicio.
+
+- En el evento que la operación del dispositivo
+
+produjera interferencias perjudiciales a otros
+
+servicios de telecomunicaciones, la concesionaria
+
+deberá suspender inmediatamente sus
+
+transmisiones.
 
 2.3.2 Amplitud Modulada por Ondas Hectométricas, AM.
 
@@ -230,7 +312,15 @@ Diferencia de Frecuencia Relación de Protección
 
 (kHz) (dB)
 
-0 45
+0 45 (Frecuencia
+
+Modulada); 34
+
+(Radiodifusión
+
+Comunitaria
+
+Ciudadana)
 
 ± 200 7
 
@@ -262,33 +352,37 @@ Los niveles de protección para este servicio, son aplicados por la Unión Inter
 
 Todo cambio de ubicación de la planta transmisora y la ubicación y características técnicas del sistema radiante, sólo podrá efectuarse previa modificación de la concesión mediante la dictación del decreto correspondiente.
 
-2.5.1. Frecuencia Modulada por Ondas Métricas, FM.
+2.5.1 Frecuencia Modulada por Ondas Métricas, FM (incluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción).
 
-(Excluidas las de Mínima Cobertura)
+El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice 1. Por consiguiente, el criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, se sujeta a las siguientes condiciones:
 
-El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el apéndice 1 y tendrá una tolerancia del 30%. Por consiguiente el criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, tienen las siguientes condiciones.
+- El nuevo emplazamiento de la planta transmisora
 
-- Se establece un límite mínimo por radial, determinado por las distancias calculadas para la zona de servicio, menos el 30% de éstas. Para cualquier cambio de ubicación de la planta transmisora y/o características técnicas del sistema radiante, el contorno de 54 dB(uV/m), deberá contener siempre y en forma íntegra el área interna obtenida por la unión con líneas rectas de los límites mínimos determinados, considerando los parámetros técnicos y de ubicación establecidos en el decreto que otorgó la concesión.
+debe estar siempre al interior de la zona de
 
-- Se establece un límite máximo por radial, determinado por las distancias calculadas para la zona de servicio, más el 30% de ésta. Para cualquier cambio de ubicación de la planta transmisora y/o características técnicas del sistema radiante, el contorno de 54 dB(uV/m), deberá estar siempre contenido dentro del área interna obtenida por la unión con líneas rectas de los límites máximos determinados, considerando los parámetros técnicos y de ubicación establecidos en el decreto que otorgó la concesión.
+servicio definida en el decreto que otorgó la
 
-- El límite máximo no se aplicará cuando el contorno de 54 dB(uV/m), cae en el mar.
+concesión.
 
-- El nuevo emplazamiento de la planta transmisora debe estar siempre al interior de la zona de servicio calculada con los parámetros técnicos y de ubicación establecidos en el decreto que otorgó la concesión.
+- La zona de servicio propuesta debe cubrir a lo
 
-2.5.2 Frecuencia Modulada de Mínima Cobertura por Ondas Métricas, FM.
+menos el 70% de la zona de servicio definida en
 
-Para emisoras con potencias hasta 1 W, el cálculo de la zona de servicio y zona de cobertura se realizará de acuerdo al procedimiento establecido en el Apéndice 2.
+el decreto que otorgó la concesión,para estos
 
-Para emisoras con potencias mayores a 1 W y menores o iguales a 20 W el cálculo de la zona de servicio y zona de cobertura se realizará de acuerdo al procedimiento establecido en el Apéndice 1.
+fines excluido el mar, y podrá aumentar en caso
 
-El criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, tiene la siguiente condición:
+de ser técnicamente factible, como máximo un 30%,
 
-- Deberá mantener un nivel de intensidad de campo no mayor de 20 dB(µV/m) en el límite comunal.
+por cada radial empleado para determinar la zona
+
+de servicio.
+
+2.5.2 Eliminado.
 
 2.5.3 Amplitud Modulada por Ondas Hectométricas, AM.
 
-El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice 3, y el criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, tiene la siguiente condición:
+El cálculo de la zona de servicio se realizará de acuerdo al procedimiento establecido en el Apéndice 2, y el criterio de aceptación de las solicitudes de modificación de ubicación de planta transmisora y/o de las características técnicas del sistema radiante, tiene la siguiente condición:
 
 - La aceptación estará sujeta a la aplicación del procedimiento establecido en el artículo 4º de las Actas Finales de la Conferencia Administrativa Regional de Radiodifusión por ondas hectométricas, Río de Janeiro 1981.
 
@@ -300,23 +394,15 @@ El cálculo de la zona de servicio se realizará de acuerdo al procedimiento est
 
 2.7 Cálculo de la señal interferente.
 
-2.7.1 Frecuencia Modulada por Ondas Métricas, FM.
+2.7.1 Frecuencia Modulada por Ondas Métricas, FM (incluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción).
 
-En el punto 2.4.1 de la norma se indica el valor de la relación de protección que debe cumplirse en el contorno de la zona de servicio, por lo que el valor máximo de la señal interferente será el que se indica en la siguiente tabla:
+En el numeral 2.4.1 de esta norma se indica el valor de la relación de protección que debe cumplirse en el contorno de la zona de servicio, por lo que el valor máximo de la señal interferente será el que se indica en las siguientes tablas:
 
-Diferencia de Frecuencia Señal Interferente
+Frecuencia Modulada (excluida la Radiodifusión Comunitaria Ciudadana de Libre Recepción)
 
-(kHz) dB(uV/m)
+Radiodifusión Comunitaria Ciudadana de Libre Recepción
 
-0 9
-
-± 200 47
-
-± 400 74
-
-Se aceptarán niveles de señal interferente mayores a los señalados, siempre y cuando no se demuestre interferencia perjudicial a la emisora en cuestión, dentro de los límites de su zona de servicio.
-
-Para el cálculo de la señal interferente deberá emplearse el método de cálculo indicado en la siguiente tabla:
+Se aceptarán niveles de señal interferente mayores a los señalados, siempre y cuando se demuestre que no existe interferencia perjudicial a la emisora en cuestión, dentro de los límites de su zona de servicio.
 
 2.7.2 Amplitud Modulada por Ondas Hectométricas, AM.
 
