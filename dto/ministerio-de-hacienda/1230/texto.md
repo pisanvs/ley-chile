@@ -1136,15 +1136,11 @@ de operaciones
 
 aduaneras.
 
-12.Muelle en Permanente Paso de personas y
+12.Muelle en Isla Permanente Paso de personas,
 
-Isla Quihua operaciones de
+Quihua y todo tipo de
 
-Comuna de Calbuco exportación de
-
-astillas y rancho
-
-de naves.
+operaciones aduaneras.
 
 13. Paso Huahum Temporal Paso de Personas
 
