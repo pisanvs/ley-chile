@@ -20,7 +20,9 @@ R e s u e l v o:
 
 > **Nota.** La RES 870 Exenta, Agricultura, publicada el 04.04.2000 modificó la presente resolución en el sentido de eliminar el requisito de partida libre de Anthonomus grandis, establecido para pepitas de algodón (Gossypium spp), provenientes de Argentina, Bolivia y Paraguay.
 
-1. Para los propósitos de la presente resolución se entenderá por grano toda semilla destinada exclusivamente al consumo o industrialización y no para la siembra, y que no ha sido sometida a ningún procesamiento industrial. 2. Para la importación de los granos y otros productos que se identifican en la presente resolución, se deberá dar cumplimiento a los siguientes requisitos generales:
+1. Para los propósitos de la presente resolución se entenderá por grano toda semilla destinada exclusivamente al consumo o industrialización y no para la siembra, y que no ha sido sometida a ningún procesamiento industrial.
+
+2. Para la importación de los granos y otros productos que se identifican en la presente resolución, se deberá dar cumplimiento a los siguientes requisitos generales:
 
 Que la partida venga amparada por un Certificado Fitosanitario Oficial original del país de origen, en el que conste el cumplimiento de los requisitos fitosanitarios que se establecen en esta resolución.
 
@@ -64,7 +66,7 @@ adicionales
 
 Arroz (paddy) Argentina, Sin declaraciones
 
-adicionales
+Paraguay adicionales
 
 Oryza sativa Uruguay
 
@@ -147,34 +149,6 @@ adicionales
 (Elettaria
 
 cardamomum)
-
-Cebada Argentina, Sin declaraciones
-
-adicionales
-
-(Hordeum vulgare) Canadá,
-
-Uruguay
-
-Francia,
-
-Australia Los granos deben provenir
-
-de áreas dondeno haya
-
-ocurrencia de los
-
-caracoles Cernuella
-
-virgata, Cernuella
-
-neglecta, Theba pisana y
-
-Cochlicella acuta,
-
-debiendo la partida venir
-
-libres de los mismos.
 
 Comino Cualquier origen Sin declaraciones
 
@@ -597,5 +571,9 @@ En caso que se detecten en el envío la presencia de semillas de malezas cuarent
 > **Nota.** NOTA 6: La RES 6071 Exenta, Agricultura, publicada el 16.12.2006, complementa la presente norma incorporando la especie Zea Mays, procedente de Bolivia, para importar como granos para consumo, los que deberán venir amparados por un Certificado Fitosanitario oficial del país de origen, sin declaraciones adicionales.
 
 > **Nota.** NOTA 7: La RES 3075 Exenta, Agricultura, publicada el 11.07.2007, complementa la presente norma, en el sentido de incorporar especies de granos para consumo, provenientes desde Brasil, cuyos requisitos de importación son los establecidos en la citada norma.
+
+> **Nota.** NOTA 8 El numeral 1 de la Resolución 5055 Exenta, Agricultura, publicada el 06.09.2011, modifica la presente norma en el sentido de agregar al resuelvo número 3, las especies de granos para consumo, orígenes y requisitos que se listan a continuación, en el orden que alfabéticamente corresponda a cada grano, con su respectivo origen y requisito: Grano Origen Requisitos Raps Argentina Sin declaraciones adicionales (Brassica napus) Amapola Estados Los envío deberán venir (Papaver Miembros fumigados contra somniferum) de la Trogoderma granarium (Col. Comunidad Desmestidae) con producto, Europea dosis y tiempo de exposición establecidos en el punto 6 de la Resolución Nº 2.677 de 1999.
+
+> **Nota.** NOTA 9 El numeral 3 de la Resolución 5055 Exenta, Agricultura, publicada el 06.09.2011, ordena agregar en el resuelvo número 3, "Argentina" como nuevo origen del grano Guizotia abyssinica.
 
 Anótese, comuníquese y publíquese.- Orlando Morales Valencia, Director Nacional (S).
