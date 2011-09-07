@@ -146,26 +146,6 @@ Nº Canal Frecuencia Portadora
 
 A.2
 
-Nº Canal Frecuencia Portadora
-
-[MHz]
-
-1 467,5500
-
-2 467,5750
-
-3 467,6000
-
-4 467,6250
-
-5 467,6500
-
-6 467,6750
-
-7 467,7000
-
-8 467,7250
-
 A.3
 
 Nº Canal Frecuencia Portadora
@@ -198,7 +178,7 @@ c) El ancho de banda máximo de los canales será 12,5 kHz.
 
 d) Los tipos de modulación permitidos serán de frecuencias o de fase, y las comunicaciones serán del tipo vocal.
 
-e) La potencia máxima de los equipos transmisores será de 1 W en las canalizaciones A.1 y A.2 y de 2 W en la canalización A.3. No se deberá emplear antenas ni amplificadores externos.
+e) La potencia máxima de los equipos transmisores será de 1 W en la canalización A.2 y de 2 W en las canalizaciones A.1 y A.3. No se deberá emplear antenas ni amplificadores externos.
 
 #### Artículo 5°
 
