@@ -5296,6 +5296,10 @@ y aparatos de soldar,
 
 aunque puedan cortar.
 
+8470.5000 Cajas registradoras Solamente terminales
+
+de pago
+
 8470.9000 Las demás máquinas de Solamente sistemas de
 
 calcular; máquinas registro y
