@@ -30,53 +30,63 @@ Delégase en el Jefe de la Unidad Regional de Subvenciones de la Región Metropo
 
 3. Pagar la subvención de acuerdo a las formas indicadas en el DFL Nº 2 de Educación, de 1998, y artículo 18 del decreto supremo de Educación Nº 8.144, de 1980, y ejercer la facultad contemplada en el penúltimo inciso del artículo 14 del DFL Nº2, de 1998.
 
-4. Ordenar reintegros de acuerdo a lo establecido en el artículo 51 del DFL Nº 2, de Educación, de 1998.
+4. Ordenar la retención total o parcial del pago de la subvención, en la oportunidad y forma indicadas en el artículo 53 del DFL Nº 2, de 1998, del Ministerio de Educación.
 
-5. Ordenar la retención total o parcial del pago de la subvención, en la oportunidad y forma indicada en el artículo 53 del DFL Nº 2, de Educación, de 1998.
+5. Otorgar plazos para reintegrar y aplicar interés real de acuerdo a lo establecido en el DFL Nº 2, de 1998, del Ministerio de Educación y su Reglamento.
 
-6. Otorgar plazos para reintegrar y aplicar interés real de acuerdo a lo establecido en el DFL Nº 2, de Educación, de 1998, y su reglamento.
+6. Retener el 3% de los recursos que corresponda percibir por subvención mensual y sus correspondientes incrementos, a los Departamentos de Administración Municipales y a las Corporaciones Municipales, de acuerdo a la forma y condiciones establecidas en el artículo 54 bis del DFL Nº 2, de 1998, del Ministerio de Educación.
 
-7. Retener el 3% de los recursos que corresponda percibir por subvención mensual y sus correspondientes incrementos a los Departamentos de Administración Municipales y a las Corporaciones Municipales, de acuerdo a la forma y condiciones establecidas en el artículo 54 bis del DFL Nº 2, de Educación, de 1998.
+7. Programar y practicar visitas periódicas a los establecimientos educacionales para verificar y fiscalizar el cumplimiento de las disposiciones del DFL Nº 2, de 1998, del Ministerio de Educación y del decreto supremo de Educación Nº 8.144, de 1980.
 
-8. Programar y practicar visitas periódicas a los establecimientos educacionales para verificar y fiscalizar el cumplimiento de las disposiciones del DFL Nº 2, de Educación, de 1998, y del decreto supremo de Educación Nº 8.144, de 1980, y sus modificaciones.
+8. Aplicar los descuentos por discrepancias y ejercer las facultades contempladas en el artículo 14 del DFL Nº 2, de 1998, del Ministerio de Educación y resolver los eventuales recursos de reposición que se presenten al respecto.
 
-9. Recepcionar las actas de fiscalización e informes/ actas respecto a establecimientos educacionales que contengan observaciones referidas a infracciones a las normas que regulan el derecho a impetrar subvención y que no sean leves y susceptibles de ser subsanadas en un plazo breve, así como aquellas reiteradas o que habiéndose dado plazo no fueron subsanadas dentro de éste, de acuerdo a lo indicado en el artículo 24 del decreto supremo de Educación Nº 8.144, de 1980.
+9. Recibir, de acuerdo al artículo 12 del decreto supremo de Educación Nº 8.144, de 1980, la solicitud para hacer efectivo el derecho a la subvención, acompañada de los documentos respectivos.
 
-10. Aplicar los descuentos por discrepancias de conformidad al artículo 14 del DFL Nº 2, de Educación, de 1998, y conocer y resolver los eventuales recursos de reposición que se presenten al respecto.
+10. Calificar y determinar el monto mínimo del documento de garantía acompañado por el establecimiento educacional, de acuerdo al artículo 12 del decreto supremo de Educación Nº 8.144, de 1980.
 
-11. Disponer de las facultades previstas de acuerdo al artículo 14 del DFL Nº 2, de 1998, y en especial el ordenar no considerar visitas de inspección en caso de existir razones de fuerza mayor debidamente comprobadas.
+11. Autorizar los comprobantes de pago de ingresos que los establecimientos educacionales subvencionados perciban por cualquier concepto, de los derechos de escolaridad y los libros de contabilidad que lleven de acuerdo con las normas de procedimientos usualmente aceptadas, y en que deben registrarse, conocer y resolver los problemas y dificultades que se susciten en relación con el cobro y percepción de los derechos de escolaridad y matrícula, de acuerdo al artículo 20 del DFL Nº 2, de 1998, del Ministerio de Educación y a los artículos 22 y 23 del decreto supremo de Educación Nº 8.144, de 1980.
 
-12. Recibir, de acuerdo al artículo 12 del decreto supremo Nº 8.144, de 1980, la solicitud para hacer efectivo el derecho a la subvención acompañada de los documentos respectivos.
+12. Recibir la información, de acuerdo al artículo 24 del DFL Nº 2, de 1998, del Ministerio de Educación, de los establecimientos educacionales que no han dado a conocer a los padres y apoderados el sistema de exención de los cobros mensuales dentro del mes de agosto anterior.
 
-13. Calificar y determinar el monto mínimo del documento de garantía acompañado por el establecimiento educacional, de acuerdo al artículo 12 del decreto supremo Nº 8.144, de 1980.
+13. Recibir la información, de acuerdo al artículo 26 del DFL Nº 2, de 1998, del Ministerio de Educación, respecto a los montos de cobros anuales de los establecimientos educacionales que funcionan bajo el régimen de Financiamiento Compartido, antes del 30 de octubre de cada año.
 
-14. Autorizar los comprobantes de pago de los derechos de escolaridad y los libros de contabilidad en que deben registrarse, conocer y resolver los problemas y dificultades que se susciten en relación con el cobro y percepción de los derechos de escolaridad y matrícula, de acuerdo a los artículos 22 y 23 del decreto supremo Nº 8.144, de 1980.
+14. Recibir, de acuerdo al artículo 20 del decreto supremo de Educación Nº 8.144, de 1980, copia del formulario suscrito por el apoderado, en el que se exprese la calidad de voluntario y el monto de los pagos que se compromete a efectuar por concepto de derechos de escolaridad.
 
-15. Autorizar los comprobantes de pago de ingresos que los establecimientos educacionales subvencionados perciban por cualquier concepto y los libros de contabilidad que lleven de acuerdo con las normas de procedimientos usualmente aceptadas, de acuerdo al artículo 22 del decreto supremo Nº 8.144, de 1980.
+15. Controlar, de acuerdo al artículo 43 del decreto supremo de Educación Nº 8.144, de 1980, en los establecimientos educacionales la asistencia media efectiva por curso.
 
-16. Recibir la información de acuerdo al artículo 24 del DFL Nº 2, de 1998, de los establecimientos educacionales que no han dado a conocer a los padres y apoderados el sistema de exención de los cobros mensuales dentro del mes de agosto anterior.
+16. Sustanciar y resolver procesos administrativos en primera instancia y aplicar sanciones a los establecimientos educacionales por infracciones al DFL Nº 2, de 1998, del Ministerio de Educación y decreto supremo de Educación Nº 8.144, de 1980. La presente delegación operará en las materias señaladas sólo respecto de aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que no den origen a la aceleración en la tramitación del proceso administrativo, o respecto de los códigos de observación que sí den origen a la aceleración en la tramitación del proceso administrativo, pero en el cual el sostenedor no manifieste formalmente su aceptación y allanamiento a los cargos imputados. Los códigos de observación del Sistema de Inspección del Ministerio de Educación son aquellos definidos mediante instructivo del Ministerio de Educación.
 
-17. Recibir la información de acuerdo al artículo 26 del DFL Nº 2, de 1998, respecto a los establecimientos educacionales que funcionan en el sistema de Financiamiento Compartido, los montos de cobros anuales, antes del 30 de octubre de cada año.
+17. Recibir las denuncias del Ministerio de Educación o de otros organismos públicos relacionados, o dependientes de éste, respecto a las infracciones a la normativa educacional legal o reglamentaria en materia de subvenciones y de su competencia.
 
-18. Recibir de acuerdo al artículo 20 del decreto supremo Nº 8.144, de 1980, copia del formulario suscrito por el apoderado, en el que se exprese la calidad de voluntario y el monto de los pagos que se compromete a efectuar por concepto de derechos de escolaridad.
+18. Recepcionar los recursos, con sus correspondientes medios probatorios, interpuestos respecto de los procesos administrativos sancionatorios relativos a las materias delegadas en los numerales precedentes, y pronunciarse respecto de su admisibilidad.
 
-19. Controlar de acuerdo al artículo 43 del decreto supremo Nº 8.144, de 1980, en los establecimientos educacionales la asistencia media efectiva por curso, y que cuenten con locales y material didáctico adecuado a la enseñanza que impartan.
+19. Resolver los recursos de reposición y solicitudes de aclaración que fueren procedentes, relativos a las materias delegadas en los numerales precedentes.
 
-20. Instruir, sustanciar y resolver procesos administrativos en primera instancia y aplicar sanciones a los establecimientos educacionales que infrinjan el DFL Nº 2, de Educación, de 1998, y sus modificaciones y decreto supremo de Educación Nº 8.144, de 1980, y sus modificaciones.
+20. Autorización de permisos para ausentarse de las labores por motivos particulares, de acuerdo al artículo 108 del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
 
-21. Recibir las denuncias del Ministerio de Educación o de otros organismos públicos relacionados, o dependientes de éste, respecto a las infracciones a la normativa educacional legal o reglamentaria en materia de subvenciones y de su competencia.
+21. Ordenar formalmente los cometidos funcionarios y autorizar viáticos, pasajes u otros análogos, de acuerdo a los artículos 78 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
 
-22. Recepcionar los recursos que procedan de acuerdo a la normativa contra los procesos administrativos sancionatorios de subvenciones, con sus correspondientes medios probatorios, y pronunciarse respecto de su admisibilidad.
+22. Autorización para efectuar trabajos extraordinarios o disponer su compensación o pago, según corresponda, de acuerdo a los artículos 66 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
 
-23. Resolver los recursos legales de reposición y aclaración como asimismo las solicitudes de revocación e invalidación que fueren procedentes, relativos a materias de subvenciones, de conformidad a las normas generales y especiales aplicables.
+23. Autorizar el feriado legal correspondiente, de acuerdo a los artículos 104 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
 
-24. Autorización de permisos para ausentarse de las labores por motivos particulares, de acuerdo al artículo 108 del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
+#### Artículo 1º bis
 
-25. Ordenar formalmente los cometidos funcionarios y autorizar viáticos, pasajes u otros análogos, de acuerdo a los artículos 78 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
+Deléganse en el Jefe de Inspección de la Región Metropolitana las siguientes facultades:
 
-26. Autorización para efectuar trabajos extraordinarios o disponer su compensación o pago, según corresponda, de acuerdo a los artículos 66 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
+1.- Ordenar reintegros de acuerdo a lo establecido en el artículo 51 del DFL Nº 2, de 1998, del Ministerio de Educación, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
 
-27. Autorizar el feriado legal correspondiente, de acuerdo a los artículos 104 y siguientes del D.F.L. Nº29, de 2004, que fija texto refundido, coordinado y sistematizado de la Ley Nº 18.834, sobre Estatuto Administrativo.
+2.- Otorgar plazos para reintegrar y aplicar interés real de acuerdo a lo establecido en el DFL Nº 2, de 1998, del Ministerio de Educación y su reglamento, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación.
+
+3.- Recepcionar las actas de fiscalización e informes/actas respecto a establecimientos educacionales que contengan observaciones referidas a infracciones a las normas que regulan el derecho a impetrar subvención y que no sean leves y susceptibles de ser subsanadas en un plazo breve, así como aquellas reiteradas o que, habiéndose dado plazo, no fueron subsanadas dentro de éste, de acuerdo a lo indicado en el artículo 24 del decreto supremo de Educación Nº 8.144, de 1980.
+
+4.- Instruir procesos administrativos en primera instancia a los establecimientos educacionales que infrinjan el DFL Nº 2, de 1998, del Ministerio de Educación y decreto supremo de Educación Nº 8.144, de 1980.
+
+5.- Instruir, sustanciar y aplicar sanciones en aquellos procesos administrativos a los establecimientos educacionales que infrinjan el DFL Nº 2, de 1998, del Ministerio de Educación y decreto supremo de Educación Nº 8.144, de 1980, sólo respecto de infracciones que digan relación con aquellos códigos de observación del Sistema de Inspección del Ministerio de Educación que den origen a la aceleración en la tramitación del proceso administrativo, definidos mediante instructivo del Ministerio de Educación en cuya tramitación el sostenedor haya manifestado formalmente su aceptación y allanamiento al o los cargos imputados.
+
+6.- Recepcionar los recursos que procedan de acuerdo a la normativa contra los procesos administrativos sancionatorios de subvenciones de su competencia, con sus correspondientes medios probatorios, y pronunciarse respecto de su admisibilidad.
+
+7.- Resolver las solicitudes de aclaración que fueren procedentes, relativas a materias de subvenciones de su competencia delegada, de conformidad a las normas generales y especiales aplicables.
 
 #### Artículo 2º
 
