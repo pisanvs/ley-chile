@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.363, de 5 de septiembre de 2011, de esta Subsecretaría, recházanse las solicitudes Nº 209031001, 208031004, 206031059 y 206031048, individualizadas en resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 67 inciso 6º de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 5 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
