@@ -948,11 +948,11 @@ Los laboratoristas dentales sólo podrán ejercer sus actividades a indicación 
 
 #### Artículo 117°
 
-Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
+Los servicios profesionales de la matrona comprenden la atención del embarazo, parto y puerperio normales y la atención del recién nacido, como, asimismo, actividades relacionadas con la lactancia materna, la planificación familiar, la salud sexual y reproductiva y la ejecución de acciones derivadas del diagnóstico y tratamiento médico y el deber de velar por la mejor administración de los recursos de asistencia para el paciente.
 
-En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellas curaciones que signifiquen atención inmediata de la parturienta.
+En la asistencia de partos, sólo podrán intervenir mediante maniobras en que se apliquen técnicas manuales y practicar aquellos procedimientos que signifiquen atención inmediata de la parturienta.
 
-Podrán usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales.
+Podrán indicar, usar y prescribir sólo aquellos medicamentos que el reglamento clasifique como necesarios para la atención de partos normales y, en relación con la planificación familiar y la regulación de la fertilidad, prescribir métodos anticonceptivos, tanto hormonales -incluyendo anticonceptivos de emergencia- como no hormonales, y desarrollar procedimientos anticonceptivos que no impliquen uso de técnicas quirúrgicas, todo ello en conformidad a la ley Nº 20.418.
 
 #### Artículo 118°
 
