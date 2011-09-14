@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución ex. del Servicio de Impuestos Internos Nº 109 de 09-09-2011, que autoriza a las instituciones sin fines de lucro, Corporación de Educación y Promoción Social Kairos, RUT Nº 72.642.200-1, ONG de Desarrollo Hogar Casa Santa Catalina, RUT Nº 65.040.138-7, Fundación María de la Luz Zañartu, RUT Nº 75.187.300-K, Corporación de Ayuda al Niño Desnutrido de Paine Candes, RUT Nº 71.793.200-5, ONG de Desarrollo Raíces, RUT Nº 74.494.300-0, Las Asambleas de Dios, RUT Nº 70.019.800-6, Fundación Imagina, Pequeños Negocios, Grandes Emprendedores, RUT Nº 65.943.320-6, Fundación Caritas San Bernardo, RUT Nº 65.043.318-1 y Fundación para la Ayuda y Rehabilitación de Discapacitados RUT Nº 75.564.800-0 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de septiembre de 2011.
