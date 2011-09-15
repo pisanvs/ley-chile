@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1572 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº3, superficie 652 m2, rol Nº2206-214, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,98372 a Km. 33,17100, Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos" y se acordó el valor de la indemnización con su propietario CLARA LUZ IGOR IGOR, ascendente a la cantidad de $2.497.784.-
+
+Fiscal del Ministerio de Obras Públicas.
