@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1578 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº1, superficie 1.286 m2, rol Nº102-16, para la obra "Reposición Puente Correa en Ruta Rol 235-CH", Comuna y Provincia de Palena, X Región y se acordó el valor de la indemnización con su propietario HÉCTOR ARMANDO CORREA BAHAMONDES, ascendente a la cantidad de $1.396.845.-
+
+Fiscal del Ministerio de Obras Públicas.
