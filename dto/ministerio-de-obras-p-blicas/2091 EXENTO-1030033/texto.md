@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2091 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 23 y 24, superficies 1.545 y 282 m2 respectivamente, rol N° 524-208, comuna de Tirúa , para la obra "Mejoramiento camino costero S: Tirúa – Límite Regional", Región del Bío Bío y se acordó el valor de la indemnización con su propietario DOMINGO SEGUNDO LIEMPI PAILAYA ascendente a la cantidad de $1.799.970.-
+
+Fiscal del Ministerio de Obras Públicas.
