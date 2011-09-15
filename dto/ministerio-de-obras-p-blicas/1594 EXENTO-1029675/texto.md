@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1594 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 96, superficie 793 m2, rol N° 1099-182, comuna de Cabreero para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero", Región del Bío Bío y se acordó el valor de la indemnización con su propietario AUGUSTO DEL CARMEN RIVERA PALMA, ascendente a la cantidad de $1.286.750.-
+
+Fiscal del Ministerio de Obras Públicas.
