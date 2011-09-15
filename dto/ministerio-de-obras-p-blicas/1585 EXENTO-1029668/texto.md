@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1585 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 12 y 15 superficies 5.306 y 71 m2 respectivamente, rol Nº67-207, comuna de Lago Ranco, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de los Ríos y se acordó el valor de la indemnización con su propietario OCTAVIO EDMUNDO QUINILLAO TURRA, ascendente a la cantidad de $12.205.868.-
+
+Fiscal del Ministerio de Obras Públicas.
