@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1567 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº44, superficie 875 m2, rol Nº1247-92, comuna de Yumbel para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero", Región del Bío Bío y se acordó el valor de la indemnización con su propietario ADOLFO GUZMÁN SANDOVAL, ascendente a la cantidad de $730.870.-
+
+Fiscal del Ministerio de Obras Públicas.
