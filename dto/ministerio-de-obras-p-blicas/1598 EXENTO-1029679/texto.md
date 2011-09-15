@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1598 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 1-A, superficie 574,05 m2, rol N° 602-5, para la obra "Conservación Obras de Emergencia, Avenida Pacheco Altamirano, Sector Angelmó – Chinquihue, Km. 0,00000 – Km. 5,70000", Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos y se acordó el valor de la indemnización con su propietario PATRICIA CECILIA SALINAS MORA Y OTRA, ascendente a la cantidad de $41.560.578.-
+
+Fiscal del Ministerio de Obras Públicas.
