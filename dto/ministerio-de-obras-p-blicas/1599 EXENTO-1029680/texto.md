@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1599 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 7, 8 y 9, superficies 12.055, 116 y 6.398 m2 respectivamente, rol Nº60-283, comuna de Futrono, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de los Ríos y se acordó el valor de la indemnización con su propietario JUANA MARTA JARAMILLO MUÑOZ, ascendente a la cantidad de $39.386.849.-
+
+Fiscal del Ministerio de Obras Públicas.
