@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2107 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 5 y 6, superficies 261 y 663 m2 respectivamente, rol N° 525-183, comuna de Tirúa, para la obra "Mejoramiento camino costero S: Tirúa – Límite Regional", Región del Bío Bío y se acordó el valor de la indemnización con su propietario MARÍA SEPÚLVEDA NAHUELPÁN, ascendente a la cantidad de $863.043.-
+
+Fiscal del Ministerio de Obras Públicas.
