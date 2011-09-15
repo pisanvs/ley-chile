@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2093 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 50, superficie 890 m2, rol N° 521-115, comuna de Tirúa, para la obra "Mejoramiento camino costero S: Tirúa – Límite Regional", Región del Bío Bío y se acordó el valor de la indemnización con su propietario MARIA NIEVES RIVERA CARRIPÁN, ascendente a la cantidad de $628.629.-
+
+Fiscal del Ministerio de Obras Públicas.
