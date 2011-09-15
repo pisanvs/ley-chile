@@ -1,22 +1,22 @@
-APRUEBA REGLAMENTO DEL FONDO NACIONAL DE FOMENTO DEL LIBRO Y LA LECTURA
+MODIFICA DECRETO Nº 587, DE 1993, QUE APROBÓ EL REGLAMENTO DEL FONDO NACIONAL DE FOMENTO DEL LIBRO Y LA LECTURA
 
-Núm. 587.- Santiago, 30 de Agosto de 1993.- Considerando:
+Núm. 137.- Santiago, 1 de abril de 2011.- Considerando:
 
-Que, al Ministerio de Educación le corresponde entre otras funciones estimular la creación artística y la protección e incremento del patrimonio cultural de la Nación;
+Que, la ley Nº 19.891 creó el Consejo Nacional de la Cultura y las Artes, al cual le corresponde, entre otras funciones, promover un desarrollo cultural armónico y equitativo entre los(as) habitantes del país, a través del fomento y difusión de la creación artística nacional, así como apoyar el desarrollo de las artes y la difusión de la cultura, contribuir a conservar, incrementar y poner al alcance de las personas el patrimonio cultural de la Nación y promover la participación de éstas en la vida cultural del país;
 
-Que, el Estado de Chile reconoce en el libro y en la creación literaria instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación de la juventud;
+Que, en virtud de la ley Nº 19.227, el Estado de Chile reconoce en el libro y en la creación literaria instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación de la juventud;
 
-Que, estas funciones le corresponden, especialmente a la División de Extensión Cultural, como asimismo, le compete proponer las normas generales que tiendan a tales objetivos, elaborando programas de carácter cultural y coordinando las actividades culturales que desarrollen los demás organismos del Ministerio;
+Que, las funciones de fomento del libro y la lectura le corresponden al Consejo Nacional de la Cultura y las Artes, administrador del Fondo Nacional de Fomento del Libro y la Lectura, y al Consejo Nacional del Libro y la Lectura, organismo creado por ley para asesorar al Presidente(a) del Consejo Nacional de la Cultura y las Artes, para convocar anualmente a concursos públicos, para premiar cada año las mejores obras literarias de autores nacionales y, entre otras funciones, para cautelar y promover el cumplimiento de las obligaciones establecidas en dicho cuerpo legal y en este reglamento;
 
-Que, en la ley N° 19.227 se crea el Fondo Nacional de Fomento del Libro y la Lectura, para cuyo funcionamiento se consultan recursos en la Ley de Presupuesto de la Nación del año 1993, siendo necesario reglamentar las bases y modalidades por las cuales se accederá a dichos recursos;
+Que, en la ley Nº 19.227 se creó el Fondo Nacional de Fomento del Libro y la Lectura, para cuyo funcionamiento se han consultado anualmente recursos en la Ley de Presupuestos de la Nación a partir del año 1993 y que, desde entonces, dicha ley ha sido modificada tanto por la ley Nº 19.891, que creó el Consejo Nacional de la Cultura y las Artes, como por la ley Nº 20.435, que modifica la Ley sobre Propiedad Intelectual, haciéndose necesario, en consecuencia, actualizar la reglamentación del Fondo Nacional de Fomento del Libro y la Lectura, y
 
-Que, es necesario reglamentar las bases y los procedimientos de postulación; los criterios de distribución del Fondo y los mecanismos de control; así como la forma de constitución y funcionamiento del Consejo Nacional del Libro y la Lectura y
-
-Visto: Lo dispuesto en la ley N° 19.227 de 1993; artículo 2° inciso final de la ley N° 18.962 de 1990; y los artículos 1°, 2° letras a) y b), 4° y 9° de la ley N° 18.956 de 1990; Item 09-01-01-25-33.037, Fondo Nacional del Libro, Ley de Presupuestos N° 19.182 de 1992; la Resolución N° 55 de la Contraloría General de la República del año 1992 y en los artículos 32 N° 8 y 35 de la Constitución Política de la República de Chile del año 1980:
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; en la ley Nº 18.956, que reestructuró el Ministerio de Educación Pública; en la ley Nº 19.891, que creó el Consejo Nacional de la Cultura y las Artes; en la ley Nº 19.227, que creó el Fondo Nacional de Fomento del Libro y la Lectura; en el decreto supremo Nº 587, de 1993, del Ministerio de Educación, que aprobó el Reglamento del Fondo Nacional de Fomento del Libro y la Lectura, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República;
 
 Decreto:
 
-Apruébase el siguiente Reglamento del Fondo Nacional de Fomento del Libro y la Lectura:
+#### Artículo único
+
+Modifícase el decreto supremo Nº 587, de 1993, del Ministerio de Educación, que aprobó el Reglamento del Fondo Nacional de Fomento del Libro y la Lectura, reemplazándose su articulado completo por el siguiente:
 
 #### Artículo 1º
 
@@ -128,13 +128,13 @@ El Consejo establecerá anualmente, dentro del marco de sus atribuciones, las l�
 
 De los concursos de proyectos, programas y acciones
 
-#### Artículo 9°
+#### Artículo 9º
 
 El Consejo, a través de la Secretaría, efectuará la convocatoria a los concursos de proyectos, programas y acciones, de acuerdo con lo señalado en la letra a) del artículo 6º de este Reglamento, la que deberá realizarse por medio de una amplia difusión nacional, a través de un medio de comunicación impreso o digital, de fácil acceso para los habitantes de todo el territorio nacional, con una anticipación mínima de veinte días hábiles contados hacia atrás desde la fecha de cierre de recepción de proyectos. Además, los(as) Directores(as) Regionales del Consejo Nacional de la Cultura y las Artes podrán darla a conocer en el territorio de su jurisdicción por un medio de comunicación, impreso o digital regional e informarlos de manera especial a las municipalidades, a las instituciones educacionales, centros culturales, entidades culturales y artísticas locales.
 
 El Consejo, a través del Secretario(a) o del Director(a) Regional, en su caso, entregará orientación e información a quienes lo requieran, para facilitarles su postulación a los concursos y propenderá a proveer a los(as) postulantes de medios electrónicos que les permitan su postulación, así como conocer el estado de avance y evaluación final del proyecto.
 
-#### Artículo 10°
+#### Artículo 10
 
 Los proyectos deberán presentarse individualizados y descritos en la forma que determine el Consejo, según el contenido de las bases.
 
@@ -194,7 +194,7 @@ Los recursos con que el Fondo concurra a financiar en todo o en parte los proyec
 
 Las bases concursales establecerán los mecanismos que resguarden el adecuado uso de los recursos asignados para la ejecución de los proyectos seleccionados, debiendo para tal efecto, exigir las garantías necesarias, pudiendo tener en cuenta factores como la naturaleza de los(as) beneficiarios(as) y la cuantía de los caudales públicos que se transfieran.
 
-Quedan exceptuadas de otorgar caución las municipalidades
+Quedan exceptuadas de otorgar caución las municipalidades.
 
 #### Artículo 18
 
@@ -248,10 +248,6 @@ Como resultado del o de los concursos a que se refiere este artículo y con carg
 
 El Consejo Nacional de la Cultura y las Artes llevará a efecto los concursos y difundirá sus bases, informará a los(as) concursantes los resultados de su postulación, elaborará los convenios correspondientes y entregará los recursos.
 
-#### Artículo Transitorio
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
-Derogado.
-
-Anótese, refréndese, tómese razón, publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Jorge Arrate Mac Niven, Ministro de Educación.
-
-Lo que transcribo para su conocimiento.- Saluda atentamente a Ud.- julio Valladares Muñoz, Subsecretario de Educación.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Fernando Rojas Ochagavía, Subsecretario de Educación.
