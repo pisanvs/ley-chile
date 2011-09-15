@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1588 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 1 y 2, superficie 415 y 337 m2 respectivamente, rol Nº1237-1, comuna de Yumbel para la obra "Camino Ruta O-54, Tramo Km. 17,80000 a Km. 18,00720, Sector Puente Naranjo", Región del Bío Bío y se acordó el valor de la indemnización con su propietario VOLTERRA S.A., ascendente a la cantidad de $927.412.-
+
+Fiscal del Ministerio de Obras Públicas.
