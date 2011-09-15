@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1568 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº6, superficie 420 m2, rol Nº2208-56, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100", Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos y se acordó el valor de la indemnización con su propietario MARÍA FILOMENA VARGAS IGOR, ascendente a la cantidad de $1.722.867.-
+
+Fiscal del Ministerio de Obras Públicas.
