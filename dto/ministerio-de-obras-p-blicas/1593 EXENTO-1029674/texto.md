@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1593 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 7, superficie 2.529 m2, rol N° 1446-8, para la obra "Reposición Ruta 225-CH, Sector Escuela Los Riscos – Ensenada, Tramo Km. 24,60000 a Km. 43,19047", Provincia de Llanquihue, Comuna de Puerto Varas, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario WEISSER Y BERNER LTDA, ascendente a la cantidad de $9.741.594.-
+
+Fiscal del Ministerio de Obras Públicas.
