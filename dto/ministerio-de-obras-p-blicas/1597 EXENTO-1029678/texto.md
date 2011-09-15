@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1597 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 34-A, superficie 2.245 m2, rol N° 280-68, para la obra "Camino Mejoramiento Ruta Nº34-A, superficie 2.245 m2, rol Nº280-68, para la obra "Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L-30-M, Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Comunas de San Javier y Cauquenes, Proviincias de Linares y Cauquenes, Región del Maule y se acordó el valor de la indemnización con su propietario CARLOS GUILLERMO BRAVO GUZMÁN, ascendente a la cantidad de $5.909.796.-
+
+Fiscal del Ministerio de Obras Públicas.
