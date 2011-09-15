@@ -1,26 +1,26 @@
-APRUEBA REGLAMENTO DEL FONDO NACIONAL DE FOMENTO DEL LIBRO Y LA LECTURA
+MODIFICA DECRETO Nº 587, DE 1993, QUE APROBÓ EL REGLAMENTO DEL FONDO NACIONAL DE FOMENTO DEL LIBRO Y LA LECTURA
 
-Núm. 587.- Santiago, 30 de Agosto de 1993.- Considerando:
+Núm. 137.- Santiago, 1 de abril de 2011.- Considerando:
 
-Que, al Ministerio de Educación le corresponde entre otras funciones estimular la creación artística y la protección e incremento del patrimonio cultural de la Nación;
+Que, la ley Nº 19.891 creó el Consejo Nacional de la Cultura y las Artes, al cual le corresponde, entre otras funciones, promover un desarrollo cultural armónico y equitativo entre los(as) habitantes del país, a través del fomento y difusión de la creación artística nacional, así como apoyar el desarrollo de las artes y la difusión de la cultura, contribuir a conservar, incrementar y poner al alcance de las personas el patrimonio cultural de la Nación y promover la participación de éstas en la vida cultural del país;
 
-Que, el Estado de Chile reconoce en el libro y en la creación literaria instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación de la juventud;
+Que, en virtud de la ley Nº 19.227, el Estado de Chile reconoce en el libro y en la creación literaria instrumentos eficaces e indispensables para el incremento y la transmisión de la cultura, el desarrollo de la identidad nacional y la formación de la juventud;
 
-Que, estas funciones le corresponden, especialmente a la División de Extensión Cultural, como asimismo, le compete proponer las normas generales que tiendan a tales objetivos, elaborando programas de carácter cultural y coordinando las actividades culturales que desarrollen los demás organismos del Ministerio;
+Que, las funciones de fomento del libro y la lectura le corresponden al Consejo Nacional de la Cultura y las Artes, administrador del Fondo Nacional de Fomento del Libro y la Lectura, y al Consejo Nacional del Libro y la Lectura, organismo creado por ley para asesorar al Presidente(a) del Consejo Nacional de la Cultura y las Artes, para convocar anualmente a concursos públicos, para premiar cada año las mejores obras literarias de autores nacionales y, entre otras funciones, para cautelar y promover el cumplimiento de las obligaciones establecidas en dicho cuerpo legal y en este reglamento;
 
-Que, en la ley N° 19.227 se crea el Fondo Nacional de Fomento del Libro y la Lectura, para cuyo funcionamiento se consultan recursos en la Ley de Presupuesto de la Nación del año 1993, siendo necesario reglamentar las bases y modalidades por las cuales se accederá a dichos recursos;
+Que, en la ley Nº 19.227 se creó el Fondo Nacional de Fomento del Libro y la Lectura, para cuyo funcionamiento se han consultado anualmente recursos en la Ley de Presupuestos de la Nación a partir del año 1993 y que, desde entonces, dicha ley ha sido modificada tanto por la ley Nº 19.891, que creó el Consejo Nacional de la Cultura y las Artes, como por la ley Nº 20.435, que modifica la Ley sobre Propiedad Intelectual, haciéndose necesario, en consecuencia, actualizar la reglamentación del Fondo Nacional de Fomento del Libro y la Lectura, y
 
-Que, es necesario reglamentar las bases y los procedimientos de postulación; los criterios de distribución del Fondo y los mecanismos de control; así como la forma de constitución y funcionamiento del Consejo Nacional del Libro y la Lectura y
-
-Visto: Lo dispuesto en la ley N° 19.227 de 1993; artículo 2° inciso final de la ley N° 18.962 de 1990; y los artículos 1°, 2° letras a) y b), 4° y 9° de la ley N° 18.956 de 1990; Item 09-01-01-25-33.037, Fondo Nacional del Libro, Ley de Presupuestos N° 19.182 de 1992; la Resolución N° 55 de la Contraloría General de la República del año 1992 y en los artículos 32 N° 8 y 35 de la Constitución Política de la República de Chile del año 1980:
+Visto: Lo dispuesto en los artículos 32 Nº 6 y 35 de la Constitución Política de la República de Chile; en la ley Nº 18.956, que reestructuró el Ministerio de Educación Pública; en la ley Nº 19.891, que creó el Consejo Nacional de la Cultura y las Artes; en la ley Nº 19.227, que creó el Fondo Nacional de Fomento del Libro y la Lectura; en el decreto supremo Nº 587, de 1993, del Ministerio de Educación, que aprobó el Reglamento del Fondo Nacional de Fomento del Libro y la Lectura, y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República;
 
 Decreto:
 
-Apruébase el siguiente Reglamento del Fondo Nacional de Fomento del Libro y la Lectura:
+#### Artículo único
 
-#### Artículo 1º
+<!-- parte:9181426 -->
 
-<!-- parte:8667263 -->
+Modifícase el decreto supremo Nº 587, de 1993, del Ministerio de Educación, que aprobó el Reglamento del Fondo Nacional de Fomento del Libro y la Lectura, reemplazándose su articulado completo por el siguiente:
+
+#### Artículo 1º (art. unico)
 
 El Consejo Nacional de la Cultura y las Artes adoptará las medidas necesarias para el cumplimiento de las orientaciones que se señalan en la ley Nº 19.227 que crea el Fondo Nacional de Fomento del Libro y la Lectura y administrará dicho Fondo destinado a financiar proyectos, programas y acciones de fomento del libro y la lectura.
 
@@ -28,9 +28,7 @@ El Consejo Nacional de la Cultura y las Artes adoptará las medidas necesarias p
 
 Del Consejo Nacional del Libro y la Lectura
 
-#### Artículo 2º
-
-<!-- parte:9183839 -->
+#### Artículo 2º (art. unico)
 
 El Consejo Nacional del Libro y la Lectura, en adelante el Consejo, estará formado por:
 
@@ -52,17 +50,13 @@ h) Un(a) profesional de la educación de reconocida experiencia en la promoción
 
 i) Un(a) profesional de la bibliotecología con reconocida experiencia en bibliotecas públicas o escolares, designado(a) por la asociación profesional de bibliotecólogos de carácter nacional más representativa.
 
-#### Artículo 3º
-
-<!-- parte:8667265 -->
+#### Artículo 3º (art. unico)
 
 Los(as) integrantes señalados(as) en las letras d), e), f), g), h) e i) del artículo precedente durarán dos (2) años en el cargo, pudiendo ser designados(as) para el período siguiente.
 
 Si vacare alguno de los cargos señalados en el inciso anterior, el/la reemplazante será designado(a) por quien corresponda, por el tiempo que faltare para completar el período para el cual fue designado(a) su antecesor(a).
 
-#### Artículo 4º
-
-<!-- parte:8667267 -->
+#### Artículo 4º (art. unico)
 
 En el ejercicio de sus funciones y atribuciones, el Consejo gozará de plena autonomía y capacidad de decisión, pudiendo vincularse con otros organismos del área cultural.
 
@@ -72,15 +66,11 @@ Las funciones de la Secretaría del Consejo Nacional del Libro y la Lectura ser�
 
 El/la Secretario(a) asistirá al Presidente(a) del Consejo Nacional de la Cultura y las Artes en todos los ámbitos ligados a la administración del Fondo Nacional de Fomento del Libro y la Lectura y, además, actuará dando apoyo técnico y administrativo al Consejo y a sus asesores(as) en lo relativo a tales materias.
 
-#### Artículo 5º
-
-<!-- parte:8667268 -->
+#### Artículo 5º (art. unico)
 
 El Consejo Nacional de la Cultura y las Artes formalizará las designaciones de los(as) representantes a los(as) cuales se refieren las letras e), f), g), h) e i) del artículo 2º de este decreto por medio de la dictación del respectivo acto administrativo por la autoridad competente, previa acreditación de la representatividad que exige la ley de las instituciones ahí señaladas.
 
-#### Artículo 6º
-
-<!-- parte:8667269 -->
+#### Artículo 6º (art. unico)
 
 Serán funciones del Consejo:
 
@@ -100,9 +90,7 @@ f) Cautelar y promover el cumplimiento de las obligaciones establecidas en la le
 
 g) Fijar las normas con arreglo a las cuales se determinarán las obras que habrán de adquirirse en conformidad a lo dispuesto en la letra ll) del artículo 7º de este Reglamento.
 
-#### Artículo 7º
-
-<!-- parte:8667270 -->
+#### Artículo 7º (art. unico)
 
 Los recursos del Fondo Nacional de Fomento del Libro y la Lectura que se señalan en el artículo 3º de la ley Nº 19.227, se destinarán al financiamiento, total o parcial, de proyectos, programas y acciones referidos a:
 
@@ -134,9 +122,7 @@ ll) La adquisición para las bibliotecas públicas dependientes de la Biblioteca
 
 La asignación de los recursos del Fondo a los proyectos o iniciativas, deberá realizarse por concurso público. Sin perjuicio de ello, en caso de asignación de recursos para otros programas y acciones del Fondo, se emplearán los mecanismos de ejecución de recursos públicos establecidos en la normativa vigente.
 
-#### Artículo 8º
-
-<!-- parte:8667271 -->
+#### Artículo 8º (art. unico)
 
 El Consejo establecerá anualmente, dentro del marco de sus atribuciones, las líneas de trabajo a desarrollar con sus correspondientes montos.
 
@@ -144,29 +130,21 @@ El Consejo establecerá anualmente, dentro del marco de sus atribuciones, las l�
 
 De los concursos de proyectos, programas y acciones
 
-#### Artículo 9°
-
-<!-- parte:9183840 -->
+#### Artículo 9º (art. unico)
 
 El Consejo, a través de la Secretaría, efectuará la convocatoria a los concursos de proyectos, programas y acciones, de acuerdo con lo señalado en la letra a) del artículo 6º de este Reglamento, la que deberá realizarse por medio de una amplia difusión nacional, a través de un medio de comunicación impreso o digital, de fácil acceso para los habitantes de todo el territorio nacional, con una anticipación mínima de veinte días hábiles contados hacia atrás desde la fecha de cierre de recepción de proyectos. Además, los(as) Directores(as) Regionales del Consejo Nacional de la Cultura y las Artes podrán darla a conocer en el territorio de su jurisdicción por un medio de comunicación, impreso o digital regional e informarlos de manera especial a las municipalidades, a las instituciones educacionales, centros culturales, entidades culturales y artísticas locales.
 
 El Consejo, a través del Secretario(a) o del Director(a) Regional, en su caso, entregará orientación e información a quienes lo requieran, para facilitarles su postulación a los concursos y propenderá a proveer a los(as) postulantes de medios electrónicos que les permitan su postulación, así como conocer el estado de avance y evaluación final del proyecto.
 
-#### Artículo 10°
-
-<!-- parte:8667273 -->
+#### Artículo 10 (art. unico)
 
 Los proyectos deberán presentarse individualizados y descritos en la forma que determine el Consejo, según el contenido de las bases.
 
-#### Artículo 11
-
-<!-- parte:8667275 -->
+#### Artículo 11 (art. unico)
 
 El Consejo fijará los plazos para la presentación de proyectos, los montos máximos de los mismos y las áreas que defina como prioritarias.
 
-#### Artículo 12
-
-<!-- parte:8667276 -->
+#### Artículo 12 (art. unico)
 
 Los proyectos serán evaluados y seleccionados de acuerdo al siguiente procedimiento:
 
@@ -180,15 +158,11 @@ d) El Consejo podrá designar asesores(as) para que realicen la evaluación de l
 
 e) Los proyectos que hayan dado cumplimiento a las formalidades exigidas en cada caso, serán remitidos, cuando así corresponda, por el/la Secretario(a) a los(as) asesores(as), para su evaluación. Dicha evaluación se hará en conformidad a los criterios señalados en las respectivas bases de concurso. Con todo, los proyectos deberán ser evaluados dentro del plazo máximo de cuarenta y cinco (45) días hábiles, contados desde la fecha de cierre del concurso. La evaluación de cada proyecto será certificada por la Secretaría Ejecutiva.
 
-#### Artículo 13
-
-<!-- parte:8667277 -->
+#### Artículo 13 (art. unico)
 
 Los formularios que contengan los detalles de las presentaciones de proyectos a los concursos, o de proposiciones de programas o acciones a los que se refiere este decreto, serán elaborados por el Consejo Nacional de la Cultura y las Artes.
 
-#### Artículo 14
-
-<!-- parte:8667278 -->
+#### Artículo 14 (art. unico)
 
 Resuelto el concurso respectivo, la asignación de los recursos que procedan se perfeccionará mediante la celebración de un convenio entre el Consejo Nacional de la Cultura y las Artes y el/la responsable del respectivo proyecto, en el cual se consignarán, al menos, los derechos y obligaciones de las partes, los montos asignados y sus objetivos, la forma de rendir los recursos, los mecanismos de resguardo de los recursos entregados y las sanciones referentes a su incumplimiento.
 
@@ -204,55 +178,41 @@ En el convenio además se estipulará:
 
 Los referidos convenios serán aprobados mediante acto administrativo emanado de la autoridad competente y comenzarán a regir una vez tramitado totalmente dicho acto administrativo.
 
-#### Artículo 15
-
-<!-- parte:8667279 -->
+#### Artículo 15 (art. unico)
 
 Las actividades que se señalen en los proyectos deberán iniciarse y efectuarse dentro del plazo estipulado en el convenio.
 
 Si el proyecto aprobado, de acuerdo a la disponibilidad presupuestaria existente, contempla una ejecución por un período superior a un (1) año, la asignación de entrega de nuevos recursos se hará previa evaluación favorable de la autoridad encargada del seguimiento, respecto de los informes presentados en relación a la ejecución del primer año del proyecto.
 
-#### Artículo 16
-
-<!-- parte:8667280 -->
+#### Artículo 16 (art. unico)
 
 El Convenio de ejecución del proyecto determinará los períodos que abarcarán los informes de avance y la fecha del informe final. De igual modo, el Consejo Nacional de la Cultura y las Artes adoptará las medidas para asegurar que los recursos asignados se destinen a su objetivo.
 
 En caso que no se cumpliere con lo señalado en el inciso anterior y en las estipulaciones del convenio, la autoridad encargada del seguimiento del proyecto podrá suspender parcial o totalmente los aportes estipulados al proyecto.
 
-#### Artículo 17
-
-<!-- parte:8667281 -->
+#### Artículo 17 (art. unico)
 
 Los recursos con que el Fondo concurra a financiar en todo o en parte los proyectos, programas o acciones seleccionados, se entregarán una vez tramitado totalmente el acto administrativo que apruebe el convenio correspondiente.
 
 Las bases concursales establecerán los mecanismos que resguarden el adecuado uso de los recursos asignados para la ejecución de los proyectos seleccionados, debiendo para tal efecto, exigir las garantías necesarias, pudiendo tener en cuenta factores como la naturaleza de los(as) beneficiarios(as) y la cuantía de los caudales públicos que se transfieran.
 
-Quedan exceptuadas de otorgar caución las municipalidades
+Quedan exceptuadas de otorgar caución las municipalidades.
 
-#### Artículo 18
-
-<!-- parte:8667282 -->
+#### Artículo 18 (art. unico)
 
 Si resueltos todos los concursos a que se hubiere llamado, existiere disponibilidad de fondos, se podrá convocar a otros concursos.
 
-#### Artículo 19
-
-<!-- parte:8667283 -->
+#### Artículo 19 (art. unico)
 
 Las bases de los concursos establecerán las reglas para impedir el financiamiento simultáneo de proyectos a personas o instituciones cuando la ejecución de uno afecte la viabilidad de otro, sea que hayan recibido recursos de este Fondo o de otros Fondos administrados por el Consejo Nacional de la Cultura y las Artes.
 
-#### Artículo 20
-
-<!-- parte:9183841 -->
+#### Artículo 20 (art. unico)
 
 Los(as) asesores(as) a los que se refiere el artículo 12 letra d) de este decreto, deberán observar los principios de no formalización, cooperación y trabajo especializado vinculado a cada línea de concurso y ejecutarán su trabajo con absoluta transparencia y prescindencia de factores externos que puedan restarle imparcialidad.
 
 Los(as) asesores(as) sólo ejercerán su función en la convocatoria para la cual fueron designados(as).
 
-#### Artículo 21
-
-<!-- parte:9183842 -->
+#### Artículo 21 (art. unico)
 
 Los(as) asesores(as) respecto al concurso del Fondo en que les tocare intervenir estarán sujetos(as) a las normas de probidad y abstención establecidas en los artículos 52 y 53 de la ley Nº 18.575 y en el artículo 12 de la ley Nº 19.880, respectivamente.
 
@@ -260,23 +220,17 @@ Estas personas no podrán participar a título remunerado o gratuito en la elabo
 
 Por otra parte, se prohíbe a las personas mencionadas en el inciso primero del presente artículo, participar a título remunerado o gratuito en la ejecución de un proyecto seleccionado en el concurso del Fondo en que le tocare intervenir.
 
-#### Artículo 22
-
-<!-- parte:9183843 -->
+#### Artículo 22 (art. unico)
 
 El/la asesor(a) respecto del cual se configure alguna incompatibilidad o se produzca algún hecho que le reste imparcialidad se abstendrá de evaluar y comunicará de inmediato tal abstención a los(as) demás asesores de su comisión, si la hubiere, y al(a la) Secretario(a), quien certificará tal circunstancia.
 
-#### Artículo 23
-
-<!-- parte:9183844 -->
+#### Artículo 23 (art. unico)
 
 El/la Secretario(a) deberá revisar la nómina de postulantes con el objeto de verificar la existencia de una o más de las situaciones señaladas en el artículo 21 respecto a los(as) asesores(as). De verificarse dicha existencia se procederá a reemplazar al integrante implicado(a).
 
 Igual procedimiento se aplicará para el caso de verificarse alguna incompatibilidad durante el proceso de evaluación. No obstante lo anterior, la carga de señalar la existencia de las indicadas incompatibilidades corresponderá siempre al asesor(a) afectado(a) por ella.
 
-#### Artículo 24
-
-<!-- parte:9183845 -->
+#### Artículo 24 (art. unico)
 
 Dentro de los 5 (cinco) días hábiles siguientes al término del proceso de selección, el Consejo Nacional de la Cultura y las Artes notificará a aquellos(as) postulantes cuyos proyectos han sido seleccionados.
 
@@ -286,26 +240,16 @@ Asimismo, publicará en un medio de comunicación, impreso o digital, de fácil 
 
 Del concurso de las Mejores Obras Literarias de Autores(as) Nacionales
 
-#### Artículo 25
-
-<!-- parte:9183846 -->
+#### Artículo 25 (art. unico)
 
 El Consejo, en cumplimiento de lo dispuesto en la letra b) del artículo 6º de este Reglamento, convocará anualmente al o a los concursos de las Mejores Obras Literarias de Autores(as) Nacionales, en cada uno de los géneros literarios señalados en dicha norma. La presentación y selección de las obras se hará a través de concurso público, de conformidad con los parámetros que ese organismo determine.
 
 Como resultado del o de los concursos a que se refiere este artículo y con cargo al Fondo, el Consejo podrá premiar, anualmente, hasta un total de diez (10) obras, determinadas en la forma indicada en la parte final del inciso primero de la letra b) del artículo 6° de este reglamento.
 
-#### Artículo 26
-
-<!-- parte:9183847 -->
+#### Artículo 26 (art. unico)
 
 El Consejo Nacional de la Cultura y las Artes llevará a efecto los concursos y difundirá sus bases, informará a los(as) concursantes los resultados de su postulación, elaborará los convenios correspondientes y entregará los recursos.
 
-#### Artículo 1 transitorio
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.
 
-<!-- parte:8667287 -->
-
-Derogado.
-
-Anótese, refréndese, tómese razón, publíquese.- PATRICIO AYLWIN AZOCAR, Presidente de la República.- Jorge Arrate Mac Niven, Ministro de Educación.
-
-Lo que transcribo para su conocimiento.- Saluda atentamente a Ud.- julio Valladares Muñoz, Subsecretario de Educación.
+Lo que transcribo a usted para su conocimiento.- Saluda atentamente a usted, Fernando Rojas Ochagavía, Subsecretario de Educación.
