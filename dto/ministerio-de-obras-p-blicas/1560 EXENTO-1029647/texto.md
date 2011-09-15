@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1560 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 72 y 74, superficie 628 y 106 m2 respectivamente, rol Nº320-12, para la obra "Camino Cauquenes - Chanco NºRol M-50, Sector Tutuven - Chanco, Tramo Km. 15,20000 a Km. 28,80000", Comunas de Cauquenes, Pelluhue y Chanco, Provincia de Cauquenes, Región del Maule y se acordó el valor de la indemnización con su propietario JOSÉ LUIS CASTILLO ARELLANO Y OTRA, ascendente a la cantidad de $703.472.-
+
+Fiscal del Ministerio de Obras Públicas.
