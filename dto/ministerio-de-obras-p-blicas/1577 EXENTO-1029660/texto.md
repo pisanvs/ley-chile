@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1577 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº14, superficie 748 m2, rol Nº67-205, comuna de Lago Ranco, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de los Ríos y se acordó el valor de la indemnización con su propietario MANUELA DEL CARMEN SANTIBÁÑEZ ÑANCUMIL, ascendente a la cantidad de $1.762.411.-
+
+Fiscal del Ministerio de Obras Públicas.
