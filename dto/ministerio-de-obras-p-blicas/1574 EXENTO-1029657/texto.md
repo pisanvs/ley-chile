@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1574 de fecha 29 de julio de 2011, se expropiaron los lotes de terreno Nºs 88-A y 88-C, superficie 903 y 363 m2 respectivamente, rol Nº640-63, para la obra "Camino Mejoramiento Ruta K-175, Sector: Tres Esquinas - Las Trancas, Kilometro 8,306.62 al Km. 25,735.24", comuna de Molina, provincia de Curicó, VII Región y se acordó el valor de la indemnización con su propietario ELVIRA DEL CARMEN DÍAZ MORA, ascendente a la cantidad de $462.839.-
+
+Fiscal del Ministerio de Obras Públicas.
