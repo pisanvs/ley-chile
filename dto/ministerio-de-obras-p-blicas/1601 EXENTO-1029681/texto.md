@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1601 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº126-B, superficie 434 m2, rol Nº276-41, para la obra "Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L-30-M- Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Comunas de San Javier y Cauquenes, Provincias de Linares y Cauquenes, Región del Maule y se acordó el valor de la indemnización con su propietario JUAN ANTONIO GONZÁLEZ REVECO, ascendente a la cantidad de $1.577.260.-
+
+Fiscal del Ministerio de Obras Públicas.
