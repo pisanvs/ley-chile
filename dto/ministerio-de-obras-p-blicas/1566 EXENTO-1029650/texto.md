@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1566 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº34, superficie 228 m2, rol Nº602-12, comuna de Tomé para la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 20,30000 a Km. 23,92041, Región del Biobío" y se acordó el valor de la indemnización con su propietario RODOLFO PATRICIO ESCOBAR GUTIÉRREZ, ascendente a la cantidad de $1.567.147.-
+
+Fiscal del Ministerio de Obras Públicas.
