@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1579 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº37, superficie 4.328 m2, rol Nº1182-15, comuna de Ancud para la obra "Mejoramiento Ruta 5-W15-175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", Provincia de Chiloé, IX Región y se acordó el valor de la indemnización con su propietario SANDRA EVELYN WOLF ALTANER, ascendente a la cantidad de $1.536.925.-
+
+Fiscal del Ministerio de Obras Públicas.
