@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1583 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº19, superficie 7.018 m2, rol Nº67-202, comuna de Lago Ranco, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de los Ríos y se acordó el valor de la indemnización con su propietario ERCIRA TURRA NÚÑEZ, ascendente a la cantidad de $14.378.470.-
+
+Fiscal del Ministerio de Obras Públicas.
