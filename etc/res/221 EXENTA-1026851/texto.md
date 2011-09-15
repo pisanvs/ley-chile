@@ -18,7 +18,21 @@ Resolución:
 
 2. Los recursos asignados para la selección de los proyectos postulantes en este llamado corresponden a 137.500 UF.
 
-3. Según lo indicado en el artículo 6 bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe asegurar que la vivienda una vez intervenida cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la OGUC, para la zona térmica 7, definida en la resolución Nº 482 (V. y U.), de 1999. Una vez cumplida la exigencia anterior, con el saldo podrán financiarse obras complementarias que correspondan a otros proyectos del Título II (Seguridad Estructural, Habitabilidad, o de Mantención de la vivienda). Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de vivienda sin intervenir y de la vivienda una vez intervenida, señalando cómo se ha dado cumplimiento, de acuerdo con instructivo al efecto.
+3.- Conforme a lo indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda, una vez intervenida, cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica definida en la resolución Nº 482 (V. y U.), de 1999. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
+
+El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo), o en menor medida las que sean necesarias para la regularización de la vivienda. Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
+
+Excepcionalmente y en los proyectos que presenten un presupuesto detallado que justifique que el monto del subsidio entregado no fuese suficiente para dar íntegro cumplimiento a lo establecido en el párrafo anterior, el Serviu respectivo podrá aprobar proyectos que den cumplimiento parcial a las exigencias establecidas por el citado artículo 4.1.10. En estos casos se deberá considerar la siguiente priorización de intervención por tipo de elemento:
+
+### 1. Complejo techumbre
+
+### 2. Complejo muro
+
+### 3. Complejo piso ventilado (en caso que exista)
+
+### 4. Ventana
+
+Las situaciones de excepción deben asegurar a lo menos la intervención del complejo de techumbre de toda la vivienda y de los muros exteriores que conforman los recintos habitables de la vivienda: Dormitorios y living comedor.
 
 4. Para asegurar la participación de la mayor cantidad de familias en este proceso de selección, se exime a los postulantes de este llamado de cumplir los siguientes requisitos definidos en el DS Nº 255:
 
@@ -26,27 +40,29 @@ Resolución:
 
 puntos en la FPS, se les exime de acreditar el
 
-ahorro mínimo, exigido en el artículo 9º y en la
+ahorro mínimo, exigido en el artículo 9º y en
 
-letra f) del artículo 16, el que será de cargo al
+la letra f) del artículo 16, el que será de
 
-programa.
+cargo al programa.
 
-4.2. De lo dispuesto en los incisos segundo y tercero
+4.2. De lo dispuesto en los incisos segundo y
 
-del artículo 15, referido a la incompatibilidad
+tercero del artículo 15, referido a la
 
-con el beneficio para proyectos del mismo tipo,
+incompatibilidad con el beneficio para
 
-recibidos anteriormente.
+proyectos del mismo tipo, recibidos
+
+anteriormente.
 
 4.3. De los antecedentes generales para postular a
 
-cualquier título exigidos en el artículo 21, en
+cualquier título exigidos en el artículo 21,
 
-sus letras e.1) sobre el procedimiento para que
+en sus letras e.1) sobre el procedimiento para
 
-el PSAT certifique que el inmueble es una
+que el PSAT certifique que el inmueble es una
 
 Vivienda Objeto del Programa.
 
@@ -54,105 +70,141 @@ Vivienda Objeto del Programa.
 
 5.1. Los seleccionados en este llamado no quedarán
 
-imposibilitados de obtener nuevamente el subsidio
+imposibilitados de obtener nuevamente el
 
-relativo al Título II de este Programa
+subsidio relativo al Título II de este
 
-Habitacional, con la excepción de aquellos que ya
+Programa Habitacional, con la excepción de
 
-han obtenido este beneficio con anterioridad.
+aquellos que ya han obtenido este beneficio
 
-5.2. El procedimiento para que el PSAT certifique que
+con anterioridad.
 
-el inmueble es una Vivienda Objeto del Programa,
+5.2. El procedimiento para que el PSAT certifique
 
-consistirá en que el avalúo fiscal de la vivienda
+que el inmueble es una Vivienda Objeto del
 
-sea inferior a 650 UF, lo que se acreditará con
+Programa, consistirá en que el avalúo fiscal
 
-el certificado de avalúo de Impuestos Internos
+de la vivienda sea inferior a 650 UF, lo que
 
-correspondiente.
+se acreditará con el certificado de avalúo de
 
-5.3. Permitirá que los profesionales del área de la
+Impuestos Internos correspondiente.
 
-construcción de los PSAT participantes en este
+5.3. Permitirá que los profesionales del área de
 
-llamado puedan atender simultáneamente a un
+la construcción de los PSAT participantes en
 
-número superior a 80 viviendas, a pesar de lo
+este llamado puedan atender simultáneamente a
 
-indicado en la resolución Nº 533 (V. y U. ), de
+un número superior a 80 viviendas, a pesar de
 
-1997.
+lo indicado en la resolución Nº 533 (V. y U.),
+
+de 1997.
 
 5.4. Se permitirá la participación de viviendas de
 
 autoconstrucción que estén en proceso de
 
-regularización, lo que se certificará presentando
+regularización, lo que se certificará
 
-copia del ingreso a la Dirección de Obras
+presentando copia del ingreso a la Dirección
 
-Municipales correspondiente, del expediente de la
+de Obras Municipales correspondiente, del
 
-vivienda y de la solicitud de permiso de
+expediente de la vivienda y de la solicitud de
 
-edificación. Para financiar la realización de
+permiso de edificación. Para financiar la
 
-esta labor se incrementará la Asistencia Técnica
+realización de esta labor se incrementará la
 
-a cancelarle al PSAT, aumentando en 1 UF el monto
+Asistencia Técnica a cancelarle al PSAT,
 
-del cupón 1, de Organización de la Demanda y
+aumentando en 1 UF el monto del cupón 1, de
 
-Postulación de Proyectos, y en 2 UF el monto del
+Organización de la Demanda y Postulación de
+
+Proyectos, y en 2 UF el monto del
 
 cupón 2, de Gestión de Proyecto e Inspección
 
-Técnica de Obras, ambos del Título II, indicado
+Técnica de Obras, ambos del Título II,
 
-en el número 55 de la resolución Nº 533 (V. y
+indicado en el número 55 de la resolución
 
-U.), de 1997. El cupón 2 y las obras sólo se
+Nº 533 (V. y U.), de 1997. El cupón 2 y las
 
-pagarán una vez que la vivienda cuente con la
+obras sólo se pagarán una vez que
 
-recepción final del SERVIU, sin ser necesaria la
+la vivienda cuente con la
 
-recepción municipal.
+recepción final del Serviu y de la Dirección de
+
+Obras Municipales respectiva.
+
+5.5 Se podrá aplicar este subsidio a viviendas
+
+que hayan obtenido recepción definitiva
+
+con posterioridad a la fecha indicada
+
+en el artículo 6º bis del DS Nº 255 (V. y U.),
+
+de 2006, ya sea porque obtuvieron su permiso
+
+de edificación previo a la entrada en vigencia
+
+de esta norma y fueron recepcionadas con fecha
+
+posterior al 4 de enero de 2007, o porque la
+
+Dirección de Obras Municipales mediante la
+
+aplicación de la ley 20.251 haya regularizado
+
+el inmueble, no exigiéndole que cumpla con lo
+
+señalado en el artículo 4.1.10 de la Ordenanza
+
+General de Urbanismo y Construcciones.
 
 6. Los proyectos deberán ingresarse en las oficinas de partes del Serviu Magallanes o de la Delegación Provincial de Puerto Natales, según proceda.
 
 7. Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a cada una de las selecciones de este llamado:
 
-a) Puntaje adicional por grado de cumplimiento de las
+a) Puntaje adicional por grado de cumplimiento de
 
-exigencias del artículo 4.1.10 de la vivienda antes
+las exigencias del artículo 4.1.10 de la vivienda
 
-de la intervención proyectada.
+antes de la intervención proyectada.
 
-En caso que la vivienda no cumpla las exigencias en
+En caso que la vivienda no cumpla las exigencias
 
-más de un tipo de elemento, se deben sumar los
+en más de un tipo de elemento, se deben sumar
 
-puntajes asignados a cada elemento que no da
+los puntajes asignados a cada elemento que no da
 
 cumplimiento.
 
 b) Puntaje adicional por diseño de la solución de
 
-aislación térmica a incorporar en los elementos de
+aislación térmica a incorporar en los elementos
 
-muro y piso ventilado a intervenir. Se otorgarán 5
+de muro y piso ventilado a intervenir. Se
 
-puntos adicionales si la aislación térmica
+otorgarán 5 puntos adicionales si la aislación
 
-considerada es proyectada por el exterior.
+térmica considerada es proyectada por el
 
-c) Puntaje adicional por mejoras al proyecto por sobre
+exterior.
 
-lo establecido en el artículo 4.1.10 de la OGUC.
+c) Puntaje adicional por mejoras al proyecto por
+
+sobre lo establecido en el artículo 4.1.10 de
+
+la OGUC.
 
 Ue= U (transmitancia térmica) exigido (ponderado)
 
@@ -160,7 +212,9 @@ para cada elemento según zona térmica.
 
 Up= U (transmitancia térmica) proyectado
 
-(ponderado) para cada elemento según zona térmica.
+(ponderado) para cada elemento según zona
+
+térmica.
 
 Nota: en caso de mejorar en más de un 40% el U
 
@@ -168,21 +222,21 @@ requerido para la zona en donde se proyecta
 
 construir, el puntaje asignado será el máximo
 
-establecido en la tabla; es decir, 10 puntos para
+establecido en la tabla; es decir, 10 puntos
 
-complejo techumbre, 30 puntos para complejo muro y
+para complejo techumbre, 30 puntos para complejo
 
-30 puntos para complejo piso ventilado.
+muro y 30 puntos para complejo piso ventilado.
 
-En caso que la vivienda sea intervenida en más de
+En caso que la vivienda sea intervenida en más
 
-un tipo de elemento por sobre las exigencias
+de un tipo de elemento por sobre las exigencias
 
-establecidas en la RT, se deben sumar los puntajes
+establecidas en la RT, se deben sumar los
 
-asignados a cada elemento, de acuerdo con la tabla
+puntajes asignados a cada elemento, de acuerdo
 
-anterior.
+con la tabla anterior.
 
 d) Ventanas: Priorización por cambio de ventana con
 
