@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1571 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº1, superficie 552 m2, rol Nº162-122, comuna de Curarrehue, para la obra "Proyecto puente Quiñenahuin, camino Curarrehue - Quiñenahuín, Tramo Km. 0,00000 a Km. 0,26865 y Km. 0,00000 a Km. 0,34413", provincia de Cautín, Región de la Araucanía y se acordó el valor de la indemnización con su propietario DIONICIO NECULPÁN LLANCAFILO, ascendente a la cantidad de $983.537.-
+
+Fiscal del Ministerio de Obras Públicas.
