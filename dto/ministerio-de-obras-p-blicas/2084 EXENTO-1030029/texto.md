@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2084 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 17, superficie 394 m2, rol N° 524-138, comuna de Tirúa, para la obra "Mejoramiento camino costero S: Tirúa – Límite Regional", Región del Bío Bío y se acordó el valor de la indemnización con su propietario GUILLERMINA LLAUPI HUENUPIL, ascendente a la cantidad de $245.916.-
+
+Fiscal del Ministerio de Obras Públicas.
