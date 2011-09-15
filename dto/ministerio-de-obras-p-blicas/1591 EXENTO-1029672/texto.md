@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1591 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 2-V, superficie 284,98 m2, rol N° 429-66, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario – Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario JOSÉ ELADIO YÁÑEZ SÁNCHEZ, ascendente a la cantidad de $9.298.657.-
+
+Fiscal del Ministerio de Obras Públicas.
