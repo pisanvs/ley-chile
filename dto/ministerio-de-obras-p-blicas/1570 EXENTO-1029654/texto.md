@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1570 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº6, superficie 193 m2, rol Nº942-14, comuna de Los Ángeles para la obra "Reposición Ex Ruta 5, Sector Pasada Saldo del Laja y Pasada por Los Ángeles", Región del Bío Bío y se acordó el valor de la indemnización con su propietario PRODALAM S.A., ascendente a la cantidad de $18.377.758.-
+
+Fiscal del Ministerio de Obras Públicas.
