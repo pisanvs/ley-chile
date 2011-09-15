@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2103 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 8-I, superficie 256 m2, rol N° 38-400, comuna de Lolol, para la obra "Mejoramiento Ruta I-70-J, Sector Lolol - Ranguil, Tramo km. 0,00000 a Km. 19,38878", Provincia de Colchagua, Sexta Región y se acordó el valor de la indemnización con su propietario BERTA ELENA BECERRA URZÚA, ascendente a la cantidad de $773.269.-
+
+Fiscal del Ministerio de Obras Públicas.
