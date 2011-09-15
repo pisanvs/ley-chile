@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1556 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº86-C, superficie 5 m2, rol Nº640-88, para la obra "Camino Mejoramiento Ruta K-175, Sector: Tres Esquinas - Las Trancas, Kilometro 8,306.62 al Km. 25,735.24", comuna de Molina, provincia de Curicó, VII Región y se acordó el valor de la indemnización con su propietario FRANCISCO JAVIER GUTIÉRREZ CAVIERES, ascendente a la cantidad de $623.106.-
+
+Fiscal del Ministerio de Obras Públicas.
