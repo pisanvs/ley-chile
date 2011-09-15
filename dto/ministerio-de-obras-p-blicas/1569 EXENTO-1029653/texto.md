@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1569 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº88-F1, superficie 6 m2, rol Nº131-8, para la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo Km. 0,000000 a Km. 15,372989", Comunas de Licantén y Vichuquén, Provincia de Curicó, VII Región del Maule y se acordó el valor de la indemnización con su propietario LUIS ANTONIO VEAS SILVA Y OTROS, ascendente a la cantidad de $462.839.-
+
+Fiscal del Ministerio de Obras Públicas.
