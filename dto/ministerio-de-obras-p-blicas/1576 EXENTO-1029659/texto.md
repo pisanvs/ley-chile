@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1576 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº2, superficie 497 m2, rol Nº60-277, comuna de Futrono, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de los Ríos y se acordó el valor de la indemnización con su propietario JOSÉ MOISÉS CAIHUANTE CHOCANO, ascendente a la cantidad de $2.264.177.-
+
+Fiscal del Ministerio de Obras Públicas.
