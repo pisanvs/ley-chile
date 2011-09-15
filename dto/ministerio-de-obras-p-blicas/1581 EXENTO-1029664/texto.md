@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1581 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº7-A, superficie 238 m2, rol Nº162-2, para la obra "Camino Ruta U-99-V, Sector Las Cascadas - Ensenada, Km. 31,33730 a Km. 50,60320", Provincia de Osorno - Llanquihue, Comuna de Puerto Octay y Puerto Varas, X Región y se acordó el valor de la indemnización con su propietario CARLOS JOSÉ THONE BITTNER, ascendente a la cantidad de $1.584.042.-
+
+Fiscal del Ministerio de Obras Públicas.
