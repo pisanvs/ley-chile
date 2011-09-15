@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1582 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº45, superficie 1.881 m2, rol Nº1423-56, para la obra "Camino Ruta V-40, Sector Cruce Longitudinal Llanquihue - Loncotoro, Tramo Km. 0,34904 a Km. 17,900000", Comuna y Provincia de Llanquihue, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario LOTI BERTA GEBAUER WERNER, ascendente a la cantidad de $2.703.022.-
+
+Fiscal del Ministerio de Obras Públicas.
