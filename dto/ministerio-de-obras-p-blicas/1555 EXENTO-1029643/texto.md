@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1555 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº6-B, superficie 50 m2, rol Nº639-230, para la obra "Camino Mejoramiento Ruta K-175, Sector: Tres Esquinas - Las Trancas, Kilometro 8,306.62 al Km. 25,735.24", comuna de Molina, provincia de Curicó, VII Región y se acordó el valor de la indemnización con su propietario DORILA DE LAS ROSAS ESCOBAR VALENZUELA, ascendente a la cantidad de $552.823.-
+
+Fiscal del Ministerio de Obras Públicas.
