@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1564 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº22, superficie 580 m2, rol Nº67-200, comuna de Lago Ranco, para la obra "Construcción Puentes Caicayen y Hueinahue, camino Maihue Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de Los Ríos y se acordó el valor de la indemnización con su propietario PASCUAL SEGUNDO QUINILLAO TREUQUIL, ascendente a la cantidad de $2.019.149.-
+
+Fiscal del Ministerio de Obras Públicas.
