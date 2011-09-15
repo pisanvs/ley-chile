@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1596 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 16-B, superficie 1.979 m2, rol N° 540-45, comuna de Puerto Octay para la obra "Camino Construcción Ruta U-91, Sector Río Correntoso – Las Gaviotas, Tramo Km. 65,58046 al Km. 72,78493", Provincia de Osorno, X Región y se acordó el valor de la indemnización con su propietario RIGOBERTO HARRY CÁRCAMO BURGOS, ascendente a la cantidad de $6.031.097.-
+
+Fiscal del Ministerio de Obras Públicas.
