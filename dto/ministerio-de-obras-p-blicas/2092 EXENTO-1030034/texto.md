@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2092 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 31, superficie 1.068 m2, rol N° 525-149, comuna de Tirúa para la obra "Mejoramiento camino costero S: Tirúa – Límite Regional", Región del Bío Bío y se acordó el valor de la indemnización con su propietario JOSE EMILIO ANCALAO NECUL, ascendente a la cantidad de $817.226.-
+
+Fiscal del Ministerio de Obras Públicas.
