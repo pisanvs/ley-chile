@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 1592 de fecha 29 de julio de 2011, se expropió el lote de terreno N° 45, superficie 787 m2, rol N° 3250-705, comuna de Temuco, para la obra "Camino Ruta S-30, Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000", Región de la Araucanía y se acordó el valor de la indemnización con su propietario CELINDA DEL CARMEN ORELLANA CIDES, ascendente a la cantidad de $8.756.688.-
+
+Fiscal del Ministerio de Obras Públicas.
