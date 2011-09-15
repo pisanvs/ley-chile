@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1584 de fecha 29 de julio de 2011, se expropió el lote de terreno Nº2-U, superficie 406,90 m2, rol Nº429-68, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, Tramo 8 Variante Ancud", Comuna de Ancud, Provincia de Chiloé, X Región de Los Lagos y se acordó el valor de la indemnización con su propietario MARÍA OFELIA MILAPICHUN GUENTELICAN, ascendente a la cantidad de $19.173.120.-
+
+Fiscal del Ministerio de Obras Públicas.
