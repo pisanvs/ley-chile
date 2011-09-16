@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.163, de 12 de agosto de 2011, de esta Subsecretaría, modifíquese el numeral 3.- de la resolución exenta Nº 128 de 2011, que autorizó a LEONARDO MIRANDA ÁVILA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Monitoreo de fauna acuática en aguas continentales de las Regiones V, VII, VIII y IX", en el sentido de extender a cursos y cuerpos de agua ubicados en la VI y X Regiones el área geográfica en la que se desarrollará la citada pesca de investigación.
+
+Valparaíso, 12 de agosto de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
