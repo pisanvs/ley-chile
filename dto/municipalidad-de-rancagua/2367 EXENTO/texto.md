@@ -1,0 +1,51 @@
+ORDENA DEMOLICIÓN TOTAL DE EDIFICIOS CORRESPONDIENTES A ETAPAS 6, 13 Y 19 DE VILLA CORDILLERA
+
+Núm. 2.367 exento.- Rancagua, 30 de agosto de 2011.- Considerando:
+
+1. Que, mediante Ord. Dom. Nº 352/ Urb. 149, de fecha 29 de agosto del año en curso, el señor Director de Obras Municipales de Rancagua ha solicitado de señor Alcalde de esta comuna, la dictación de decreto de demolición de los inmuebles que singulariza en el mencionado ordinario, en virtud de lo dispuesto en el artículo 148 del DFL Nº 458, Ley General de Urbanismo y Construcciones, por razones de insalubridad y seguridad, causal contemplada en el numeral 3 del mencionado artículo 148. Ello conforme a lo expuesto en resolución exenta Nº 2.845 de SEREMI de Salud del Libertador Bernardo O'Higgins y demás informes que se detallan en la misma solicitud. Se agrega que los departamentos respecto de los cuales se solicita la demolición, se encuentran deshabitados, ignorándose el domicilio de sus propietarios, por lo que se solicita la publicación del decreto requerido, en la forma prevista en el artículo 48 de la ley Nº 19.880 que establece bases de los procedimientos que rigen a los órganos de la Administración del Estado.
+
+2. Que, fundamentan la petición del señor Director de Obras Municipales contenida en el ya mencionado ordinario, efectuada como se indicó, en conformidad a lo dispuesto en el artículo 148 de la Ley General de Urbanismo y Construcciones, los siguientes antecedentes que obran en la misma solicitud:
+
+a) Ordinario Nº 862 de la Secretaria Regional Ministerial de Vivienda y Urbanismo de fecha 13 de julio de 2011, donde se requiere dictar decreto de demolición de Villa Cordillera por las razones que indica;
+
+b) Certificado Nº 403, de fecha 8 de junio de 2010, de la Dirección de Obras de la I. Municipalidad de Rancagua, donde se certifica que la totalidad de los edificios de Villa Cordillera se declararon inhabitables, basados en los informes preliminares efectuados por profesionales competentes, a consecuencia de los daños estructurales que sufrieron los edificios de Villa Cordillera como consecuencia del terremoto del 27 de febrero del año 2010;
+
+c) Se observa en el documento, que producto de los daños sufridos por el terremoto del 27 de febrero del año 2010, se originó el abandono de la mayor parte de los departamentos de Villa Cordillera, ocasionando con ello condiciones de insalubridad e inseguridad que deben ser consideradas;
+
+d) Informe preliminar Nº 3 de la Dirección de Obras Municipales de fecha 1 de abril de 2010, que acredita los daños producidos por el terremoto del 27 de febrero de 2010, estableciendo que los edificios de albañilería reforzada de 4 y 5 pisos, correspondientes a 103 unidades con un total de 1816 departamentos presentaron daños mayores, recuperables e irrecuperables en algunos casos. Los departamentos presentaron daños en muros perimetrales y medianeros, descuadre de puertas y ventanas, especialmente de 2º y 3º piso, fisuras longitudinales, en algunos de los edificios los pilares presentaron grietas y fisuras, reventando uno con enfierraduras a la vista. Debido a lo anterior se declaró la inhabitabilidad de éstos;
+
+e) Informe Técnico de SERVIU VI Región de fecha 5 de mayo del año 2010, referido a Villa Cordillera de la comuna de Rancagua, donde establece que si bien los daños se generaron durante el evento sísmico del 27 de febrero del año 2010, se observa que en el transcurso de los días, se ha generado el abandono de los departamentos por parte de un alto porcentaje de propietarios y arrendatarios, con lo cual se ha generado el robo de cañerías de cobre, cableado de instalaciones eléctricas, ductos, medidores de agua potable, puertas y ventanas y la destrucción de las instalaciones interiores;
+
+f) Actas Nº 009580, Nº 010031, Nº 010033 y Nº 009535 de la Secretaria Regional Ministerial de Salud, donde se observa que la falta de cierre provoca el eventual peligro a las persona que circulan por el sector debido a elementos sueltos, como planchas de pizarreño, planchas de internit, latas sueltas y fierros, cables eléctricos, elementos punzantes, vidrios rotos, etc. Constatando además la presencia de fecas, que generan focos de insalubridad, filtraciones que mantienen la humedad en pisos y muro, que generan presencia de hongos, acumulación de escombros dentro de los departamentos y en el entorno. Desmantelamiento progresivo de la infraestructura básica (servicios higiénicos, agua, luz). Agregándose que mediante resolución exenta Nº 2.846 de fecha 27 de julio de 2011 se ha declarado insalubre, debido a la existencia de condiciones sanitarias que implican riesgos para la salud, la seguridad y el bienestar de los habitantes del sector, el Complejo Denominado Villa Cordillera en sus diferentes etapas, incluidas las etapas 6, 13 y 19;
+
+g) Se señala, además, que con fecha 5 de agosto de 2011, la Dirección de Obras Municipales de Rancagua ha constatado la situación de insalubridad e inseguridad expuesta por la SEREMI de Salud, producto del abandono de la comunidad del sector y el deterioro producido por terceros, observando escombros dentro y entorno a los edificios individualizados, el retiro de las cajas escalas, puertas y ventanas, además del deterioro de los muros perimetrales producto de destrozos producidos por terceros, presentándose la mayor parte de los departamentos de las etapas 6, 13 y 19 abandonados y sin moradores, originándose una situación de ruina de dichas edificaciones, correspondientes a:
+
+.
+
+h) Según Informe Técnico elaborado por el SERVIU VI Región de fecha 11 de agosto de 2011, que da cuenta que los inmuebles individualizados, incluidos los edificios que forman parte de las etapas 6, 13 y 19 de Villa Cordillera, no ofrecen las debidas garantías de salubridad y seguridad, por lo que están sujetos a eventuales derrumbes que podrían generar daños irreparables en la comunidad del sector por derrumbe o desprendimiento de materiales.
+
+i) Informe de Seguridad de Sector Poblacional "Villa Cordillera" por señor Prefecto de Carabineros Cachapoal, contenido en oficio Nº 978, de fecha 16 de agosto del año 2011, en el cual se informa a la Gobernación Provincial de Cachapoal que las etapas 6, 13 y 19 entre otras, cuyas instalaciones resultaron seriamente dañadas por el terremoto del 27 de febrero de 2010, sumado a la sustracción de partes de la infraestructura básica (puertas, ventanas, grifería, etc.) perdieron totalmente la condición de habitabilidad, desencadenando en el transcurso del tiempo una situación de inseguridad, debido a que dichos edificios se han convertido en áreas sensibles para la seguridad de los restantes habitantes del sector, siendo de opinión de concretar la demolición de éstos.
+
+j) Lo aseverado por el señor Director de Obras Municipales, en orden a que debido a lo anteriormente expuesto existen razones suficientes para la aplicación del Art. 148º, inciso tercero, para los casos individualizados por la Secretaria Regional Ministerial de Vivienda, correspondientes a las Etapas 6, 13 y 19 de Villa Cordillera, debiendo el resto de los casos ser evaluado en su debido momento.
+
+3. Que, el ya mencionado artículo 148 del DFL Nº 458, Ley General de Urbanismo y Construcciones, artículo ubicado en párrafo 7º titulado "De las Demoliciones", dispone que el Alcalde, a petición del Director de Obras, podrá ordenar la demolición total o parcial, a costa del propietario de cualquiera obra en los siguientes casos: 3. Obras que no ofrezcan las debidas garantías de salubridad y seguridad, o que amenacen ruina.
+
+4. Que, conforme a los antecedentes expuestos y acreditados por el señor Director de Obras Municipales, la situación descrita respecto de las edificaciones ya singularizadas, se corresponden con la causal prevista en el mencionado artículo 148, Nº 3 de la Ley General de Urbanismo y Construcciones, esto es, que dichas obras no ofrecen las debidas garantías de salubridad y seguridad, agregándose además la circunstancia, que por su deteriorado estado amenazan ruina.
+
+5. Que, resulta ser así procedente y fundada la petición del señor Director de Obras Municipales analizada, por lo que corresponde la dictación del decreto de demolición total de los inmuebles singularizados en el Considerando 2 letra g) del presente decreto.
+
+6. Lo dispuesto en Minuta de Alcaldía Nº 1747, de fecha 29 de agosto del año 2011, suscrita por el Sr. Alcalde de la comuna de Rancagua que ordena la dictación del presente decreto.
+
+Vistos: Las facultades que me confieren la Constitución Política de la República, la Ley Nº 18.695 Orgánica Constitucional de Municipalidades, la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, el DFL Nº 458, denominada Ley General de Urbanismo y Construcciones, Ley Nº19.880 que estable bases de los procedimientos administrativos que rigen los actos de los órganos de la Administración del Estado, decreto supremo Nº 47 del año 1992, del Ministerio de Vivienda y Urbanismo, Ordenanza General de Urbanismo y Construcciones, y resolución Nº 1.600, de 2008, de la Contraloría General de la República,
+
+Decreto:
+
+I. Ordénase la demolición total de los edificios de departamentos correspondientes a las etapas 6, 13 y 19 de Villa Cordillera de esta comuna, en los cuales se ubican los departamentos singularizados en el Considerando Nº 2 letra g) del presente decreto, transcurridos diez días desde su publicación, a costa de sus propietarios.
+
+### II. Publíquese el presente decreto por una vez en el Diario Oficial, atendido que pudiera afectar a personas cuyo paradero se ignora
+
+III. Efectúense las coordinaciones entre la unidades municipales correspondientes y las que fueren menester con otros órganos y servicios de la Administración del Estado, para el más pronto cumplimiento del presente decreto de conformidad a la normativa vigente, transcurrido el plazo indicado en el punto I.
+
+### IV. Recábese el auxilio de la fuerza pública si fuera necesario, para llevar a cabo la diligencia, en su caso
+
+Anótese, notifíquese, comuníquese y archívese.- Eduardo Soto Romero, Alcalde.- Carlos Morales Lara, Secretario Municipal.
