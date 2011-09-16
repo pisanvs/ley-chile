@@ -16,9 +16,7 @@ Resolución:
 
 1. Apruébanse los proyectos de la región del Bío Bío, que se identifican a continuación, que cuentan con Calificación Condicional, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, para el concurso establecido mediante resolución exenta Nº 2.186, (V. y U.), de 2010:
 
-.
-
-2. Los subsidios asignados en el resuelvo 1 de la presente resolución, ascendentes a un total de 174.420 UF, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Bío Bío, para el año 2010.
+2. Los subsidios asignados en el resuelvo 1 de la presente resolución, ascendentes a un total de 174.460 UF, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Bío Bío, para el año 2010.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
