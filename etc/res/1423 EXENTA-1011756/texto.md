@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 2.403 de 2000; 1.408 de 2001; 1.409 de 2001; 1.410 de 2001; 1.411 de 2001; 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
+1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 2.403 de 2000; 1.408 de 2001; 1.409 de 2001; 1.410 de 2001; 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
 
 1.1 Material de propagación (plantas, estacas,
 
@@ -77,5 +77,7 @@ material vegetal:
 4. Derógase la resolución N° 2.358 de 2008 del Servicio Agrícola y Ganadero.
 
 > **Nota.** NOTA 1 El Numero 2 del Resuelvo II de la Resolución 4419 Exenta, Agricultura, publicada el 19.07.2011, modifica la presente norma en el sentido de eliminar en el número 1.2 las especies Prunus armeniaca, Prunus avium, Prunus domestica, Prunus persica, Prunus persica var. nucipersica y Prunus salicina.
+
+> **Nota.** NOTA 2 Los Números 2 y 3 del Resuelvo II de la Resolución 6017 Exenta, Agricultura, publicada el 16.09.2011, modifican la presente norma en el sentido de, respectivamente, eliminar en el Resuelvo Nº 1.2 la especie Vitis vinifera; y eliminar en el Resuelvo Nº 2.2, en la alternativa B de tratamientos fitosanitarios el punto 2, T 108 b Tratamiento fumigación con Bromuro de Metilo más tratamiento de Frío: Aplicable sólo para uva y el punto 3, T109-d-1 Tratamiento de Frío seguido de un tratamiento de fumigación con Bromuro de Metilo: Aplicable sólo para uva.
 
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional Servicio Agrícola y Ganadero.
