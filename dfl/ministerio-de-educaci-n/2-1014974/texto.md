@@ -200,13 +200,43 @@ Realizado un proceso de admisión, conforme a los artículos precedentes, el est
 
 Los establecimientos educacionales promoverán la participación de todos los miembros de la comunidad educativa, en especial a través de la formación de Centros de Alumnos, Centros de Padres y Apoderados, Consejos de Profesores y Consejos Escolares, con el objeto de contribuir al proceso de enseñanza del establecimiento.
 
-En cada establecimiento subvencionado o que recibe aportes del Estado deberá existir un Consejo Escolar. Dicha instancia tendrá como objetivo estimular y canalizar la participación de la comunidad educativa en el proyecto educativo y en las demás áreas que estén dentro de la esfera de sus competencias.
+En cada establecimiento subvencionado o que recibe aportes del Estado deberá existir un Consejo Escolar. Dicha instancia tendrá como objetivo estimular y canalizar la participación de la comunidad educativa en el proyecto educativo, promover la buena convivencia escolar y prevenir toda forma de violencia física o psicológica, agresiones u hostigamientos, conforme a lo establecido en el Párrafo 3º de este Título, y en las demás áreas que estén dentro de la esfera de sus competencias.
+
+Aquellos establecimientos que no se encuentren legalmente obligados a constituir dicho organismo deberán crear un Comité de Buena Convivencia Escolar u otra entidad de similares características, que cumpla las funciones de promoción y prevención señaladas en el inciso anterior. Todos los establecimientos educacionales deberán contar con un encargado de convivencia escolar, que será responsable de la implementacíón de las medidas que determinen el Consejo Escolar o el Comité de Buena Convivencia Escolar, según corresponda, y que deberán constar en un plan de gestión.
 
 #### Artículo 16
 
 Las infracciones a lo dispuesto en los artículos 11, 12, 13, 14 y 15 de esta ley serán sancionadas con multas de hasta 50 unidades tributarias mensuales, las que podrán duplicarse en caso de reincidencia.
 
 Las sanciones que se impongan deberán fundarse en el procedimiento establecido en el artículo 50 de esta ley.
+
+### Párrafo 3º
+
+Convivencia Escolar
+
+#### Artículo 16
+
+A. Se entenderá por buena convivencia escolar la coexistencia armónica de los miembros de la comunidad educativa, que supone una interrelación positiva entre ellos y permite el adecuado cumplimiento de los objetivos educativos en un clima que propicia el desarrollo integral de los estudiantes.
+
+#### Artículo 16
+
+B. Se entenderá por acoso escolar toda acción u omisión constitutiva de agresión u hostigamiento reiterado, realizada fuera o dentro del establecimiento educacional por estudiantes que, en forma individual o colectiva, atenten en contra de otro estudiante, valiéndose para ello de una situación de superioridad o de indefensión del estudiante afectado, que provoque en este último, maltrato, humillación o fundado temor de verse expuesto a un mal de carácter grave, ya sea por medios tecnológicos o cualquier otro medio, tomando en cuenta su edad y condición.
+
+#### Artículo 16
+
+C. Los alumnos, alumnas, padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales deberán propiciar un clima escolar que promueva la buena convivencia de manera de prevenir todo tipo de acoso escolar.
+
+#### Artículo 16
+
+D. Revestirá especial gravedad cualquier tipo de violencia física o psicológica, cometida por cualquier medio en contra de un estudiante integrante de la comunidad educativa, realizada por quien detente una posición de autoridad, sea director, profesor, asistente de la educación u otro, así como también la ejercida por parte de un adulto de la comunidad educativa en contra de un estudiante.
+
+Los padres, madres, apoderados, profesionales y asistentes de la educación, así como los equipos docentes y directivos de los establecimientos educacionales, deberán informar las situaciones de violencia física o psicológica, agresión u hostigamiento que afecten a un estudiante miembro de la comunidad educativa de las cuales tomen conocimiento, todo ello conforme al reglamento interno del establecimiento.
+
+Si las autoridades del establecimiento no adoptaren las medidas correctivas, pedagógicas o disciplinarias que su propio reglamento interno disponga, podrán ser sancionadas de conformidad con lo previsto en el artículo 16 de este cuerpo legal.
+
+#### Artículo 16
+
+E. El personal directivo, docente, asistentes de la educación y las personas que cumplan funciones administrativas y auxiliares al interior de todos los establecimientos educacionales recibirán capacitación sobre la promoción de la buena convivencia escolar y el manejo de situaciones de conflicto.
 
 ## Título I
 
@@ -572,7 +602,7 @@ d) Tener y aplicar un reglamento que se ajuste a las normas mínimas nacionales 
 
 e) Comprometerse a cumplir los estándares nacionales de aprendizaje, de conformidad a los instrumentos que la ley establezca para tales efectos.
 
-f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar, y que garantice el justo procedimiento en el caso en que se contemplen sanciones. Este reglamento no podrá contravenir la normativa vigente.
+f) Contar con un reglamento interno que regule las relaciones entre el establecimiento y los distintos actores de la comunidad escolar. Dicho reglamento, en materia de convivencia escolar, deberá incorporar políticas de prevención, medidas pedagógicas, protocolos de actuación y diversas conductas que constituyan falta a la buena convivencia escolar, graduándolas de acuerdo a su menor o mayor gravedad. De igual forma, establecerá las medidas disciplinarias correspondientes a tales conductas, que podrán incluir desde una medida pedagógica hasta la cancelación de la matrícula. En todo caso, en la aplicación de dichas medidas deberá garantizarse en todo momento el justo procedimiento, el cual deberá estar establecido en el reglamento.
 
 g) Tener el personal docente idóneo que sea necesario y el personal asistente de la educación suficiente que les permita cumplir con las funciones que les corresponden, atendido el nivel y modalidad de la enseñanza que impartan y la cantidad de alumnos que atiendan.
 
