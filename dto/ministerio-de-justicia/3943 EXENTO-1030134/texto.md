@@ -1,0 +1,15 @@
+APRUEBA REFORMAS DE ESTATUTOS A "INSTITUTO DE PREVISIÓN Y ASISTENCIA PARA EMPLEADOS IPA", DE VALPARAÍSO
+
+Santiago, 6 de septiembre de 2011.- Hoy se decretó lo que sigue:
+
+Núm. 3.943 exento.- Vistos: Estos antecedentes, lo dispuesto en los artículos 545 y siguientes del Libro Primero, Título XXXIII, del Código Civil; en el decreto supremo de Justicia Nº 110, de 1979, y sus modificaciones, Reglamento sobre Concesión de Personalidad Jurídica a Corporaciones y Fundaciones, publicado en el Diario Oficial de 20 de marzo de 1979; en el decreto supremo de Justicia Nº 924, de 1981, publicado en el Diario Oficial de 5 de agosto de 1981, y sus modificaciones, sobre materias que serán suscritas por las autoridades que se indican con la fórmula "Por orden del Presidente de la República"; en resolución de la Contraloría General de la República Nº1.600, de 2008, publicada en el Diario Oficial de 6 de noviembre de 2008; y lo informado por el Consejo de Defensa del Estado,
+
+Decreto:
+
+1.- Apruébanse las reformas que ha acordado introducir a sus estatutos la entidad denominada "Instituto de Previsión y Asistencia para Empleados IPA", con domicilio en la Provincia de Valparaíso, Quinta Región de Valparaíso, y personalidad jurídica concedida por decreto supremo de Justicia Nº 2.210, de 9 de septiembre de 1929, en los términos que dan testimonio las escrituras públicas de fechas 26 de noviembre de 2010, y 6 de julio de 2011, otorgadas ante los Notarios Públicos de Valparaíso, don Luis Enrique Fischer Yávar, la primera, y de Santiago, don Raúl Iván Perry Pefaur, la segunda.
+
+2.- Declárese que de conformidad a las reformas aprobadas por el presente decreto, la entidad en lo sucesivo se denominará "Centro Cultural IPA Valparaíso".
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Teodoro Ribera Neumann, Ministro de Justicia.
+
+Lo que transcribo para su conocimiento.- Le saluda atentamente, Patricia Pérez Goldberg, Subsecretaria de Justicia.
