@@ -40,6 +40,4 @@ Una zona podrá ser declarada en riesgo de plaga en los casos en que en un cuerp
 
 > **Nota.** El Número 1 de la Resolución 3078 Exenta, Economía, publicada el 18.10.2010, rectifica el numeral 1.- de la presente resolución, que declaró áreas de plaga en sectores de cuerpos de agua terrestres, en el sentido de reemplazar en el sector correspondiente al Río Futaleufú las coordenadas señaladas para la desembocadura oeste del Lago Yelcho, por las siguientes: "43º24'41.22" S - 72º12'40.86" O".
 
-> **Nota.** NOTA 1 La Resolución 2812 Exenta, Economía, publicada el 05.11.2011, amplía los sectores señalados en el numeral 1 de la presente norma, el texto íntegro de la citada norma está disponible en la página web www.subpesca.cl.
-
 Anótese, notifíquese y publíquese por cuenta de esta Subsecretaría de Pesca.- Pablo Galilea Carrillo, Subsecretario de Pesca.
