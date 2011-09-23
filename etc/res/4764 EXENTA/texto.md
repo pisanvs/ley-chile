@@ -14,13 +14,15 @@ Resolución:
 
 1. Establécese el cierre del "Banco de Proyectos" para proyectos de Construcción del Programa Fondo Solidario Vivienda, para llamados regulares a concurso, en sus Capítulos I, II y III, de acuerdo al siguiente cronograma:
 
-a. Los SERVIU de cada región del país, sólo aceptarán el ingreso de antecedentes físicos de proyectos de Construcción del Programa Fondo Solidario de Vivienda hasta el día 1 de septiembre de 2011.
+a. Los SERVIU de cada región del país, sólo aceptarán el ingreso de antecedentes físicos de proyectos de Construcción del Programa Fondo Solidario de Vivienda hasta el día 23 de septiembre de 2011.
 
-b. Los SERVIU sólo podrán otorgar Certificado de Proyecto Ingresado (CPI), de acuerdo a lo señalado en el artículo 10 del D.S. Nº 174, (V. y U.), de 2005, hasta el día 23 de septiembre de 2011.
+b. Los SERVIU sólo podrán otorgar Certificado de Proyecto Ingresado (CPI), de acuerdo a lo señalado en el artículo 10 del D.S. Nº 174, (V. y U.), de 2005, hasta el día 7 de octubre de 2011.
 
-c. El "Banco de Proyectos" permanecerá cerrado indefinidamente a partir del día 24 de septiembre de 2011.
+c. El "Banco de Proyectos" permanecerá cerrado indefinidamente a partir del día 8 de octubre de 2011.
 
 2. El cierre del "Banco de Proyectos" establecido en la presente resolución no regirá para los llamados especiales a concurso del Plan de Reconstrucción.
+
+> **Nota.** El numeral 1 de la Resolución 5628 Exenta, Vivienda, publicada el 23.09.2011, modifica la presente norma en el sentido de establecer un nuevo plazo hasta el día 16 de septiembre del año 2011, para el ingreso de antecedentes físicos de proyectos de Construcción del Programa Fondo Solidario de Vivienda.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
