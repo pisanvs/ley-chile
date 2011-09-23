@@ -58,7 +58,7 @@ d) A las municipalidades que participen como Entidad de Gestión Inmobiliaria So
 
 e) En proyectos de la tipología Construcción en Sitio Propio se aceptarán postulaciones de grupos menores a 10 familias o individuales.
 
-f) Para proyectos colectivos participantes en el presente llamado, se exigirá que el grupo organizado esté integrado a lo menos con un 80% de familias damnificadas. Excepcionalmente, podrán existir proyectos con un porcentaje menor al antes señalado, autorizado por el Subsecretario de Vivienda y Urbanismo, previa solicitud fundada del Director del Serviu de la Región correspondiente.
+f) Para proyectos colectivos participantes en el presente llamado, se exigirá que el grupo organizado esté integrado, a lo menos, con un 80% de familias damnificadas. Excepcionalmente, mediante resolución fundada del Director del Serviu de la Región correspondiente, podrá autorizarse la participación de proyectos con un porcentaje menor al antes señalado, pero no inferior al 50%.
 
 g) Los postulantes al presente concurso, que formen parte del grupo organizado que integra el proyecto, y que no tengan la calidad de damnificados, deberán cumplir con los requisitos establecidos en el Capítulo Segundo del D.S. N° 174 (V. y U.), de 2005.
 
@@ -174,7 +174,7 @@ Las familias no damnificadas que se quieran incorporar al proyecto posteriorment
 
 5.6 El Serviu podrá efectuar anticipos a cuenta del pago del subsidio, destinados a financiar la ejecución física de las obras.
 
-Los anticipos podrán alcanzar hasta un 90% del monto total de subsidios destinados a la ejecución de las obras.
+Los anticipos podrán alcanzar hasta el 90% del total de los recursos del Proyecto destinados a la ejecución de las obras, no pudiendo los giros ser superiores al 20% de los recursos destinados a estos efectos. Por otra parte, el terreno podrá pagarse completamente una vez que el proyecto sea seleccionado, siempre que el precio de venta sea inferior al 90% del total de los recursos asignados a las familias nominadas del proyecto.
 
 El contratista podrá solicitar al Serviu hasta un máximo de 5 anticipos, no pudiendo ninguno de ellos ser inferior al 5% ni superior al 20% del monto total destinado a este efecto.
 
@@ -186,11 +186,13 @@ El saldo del subsidio será girado conforme a lo señalado en el artículo 55 de
 
 Para el giro de los anticipos a cuenta del pago del subsidio para financiar la adquisición del terreno, deberá acompañar copia de la inscripción de dominio a favor del Serviu respectivo con certificado de vigencia, extendido con no más de 30 días de anterioridad a la fecha de su presentación.
 
+5.7 En los proyectos que se presenten a través de esta modalidad no será exigible el Plan de Habilitación Social, establecido en el Título IX del Capítulo Primero del DS Nº174 (V. y U.), de 2005.
+
 6. Los beneficiarios de los llamados especiales de la modalidad de adquisición de vivienda construida efectuados mediante las resoluciones exentas Nº 2.966 (V. y U.), de 2010 y Nº 366 (V. y U.), de 2011, podrán adscribirse a proyectos de las tipologías de Construcción en Nuevos Terrenos, Construcción Colectiva en Zonas Rurales y Alteración o Reparación de Inmuebles, que se encuentren en preparación en el Banco de Proyectos, o a proyectos desarrollados de acuerdo al Resuelvo 5. de esta resolución, que tengan disponibilidad de cupos.
 
 Estas familias no serán evaluadas, incorporándose a los proyectos como familias hábiles, en cuyo caso los montos de subsidio que recibirán corresponderán a los montos de la tipología de construcción del proyecto al que ingresan, incluyendo los de asistencia técnica e inspección técnica de obras. La vigencia y la forma de pago de estos subsidios corresponderá también a los del proyecto de construcción al que se adscriben.
 
-Para proceder a la adscripción de estas familias, deberán hacer devolución al Serviu del certificado de subsidio de la modalidad de adquisición de vivienda construido recibido. En caso que el proyecto al que se adscribe se encuentra seleccionado, el Serviu deberá dictar una resolución autorizando la adscripción y emitir un nuevo certificado de subsidio, informando del procedimiento a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo.
+Para proceder a la adscripción de estas familias, el beneficiario deberá firmar una declaración en que acepta validar su subsidio de Adquisición de Vivienda Construida en un proyecto de construcción, previamente individualizado. El certificado quedará automáticamente caducado una vez que el proyecto sea calificado y en ese caso se hará entrega al beneficiario de un nuevo certificado. Si el proyecto está seleccionado, el Serviu deberá dictar una resolución autorizando la adscripción y emitir un nuevo certificado de subsidio, informando de ello a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo.
 
 7. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
