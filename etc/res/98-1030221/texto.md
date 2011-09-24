@@ -14,7 +14,7 @@ NCh762. EOf70, Madera. Tableros a base de madera. Determinación del contenido d
 
 NCh775. EOf70, Madera. Tableros de fibras y de partículas. Extracción de las dimensiones de las probetas.
 
-NCh776. EOf70, Electrodos desnudos para soldar al arco sumergido. Aceros al carbono y aceros de baja aleación. Especificaciones.
+NCh776. EOf70, DEROGADO.
 
 2°.- Corresponderá al expresado Instituto Nacional de Investigaciones Tecnológicas y Normalización publicar una minuta de la presente resolución en el Diario Oficial, y el texto íntegro de estas normas en la Revista Chilena de Racionalización, órgano oficial del mencionado Instituto.
 
