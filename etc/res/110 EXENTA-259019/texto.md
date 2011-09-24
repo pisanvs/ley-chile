@@ -24,13 +24,7 @@ internacional - Parte 411: Máquinas
 
 rotatorias.
 
-NCh3043.Of2007: Medidores de energía eléctrica
-
-activa de corriente alterna -
-
-Concentradores de medición (Clases
-
-1 y 2) - Requisitos y ensayos.
+NCh3043.Of2007: DEROGAD0.
 
 NCh3056.Of2007: Microbiología de los alimentos de
 
