@@ -58,7 +58,7 @@ Cada Delegado Regional, actuará como intermediario entre Servicio de Bienestar,
 
 #### Artículo 5º
 
-El Consejo Administrativo sesionará ordinariamente a lo menos, una vez al mes, en el día y hora que fijen sus miembros en la primera sesión del año.
+El Consejo Administrativo sesionará ordinariamente, a lo menos, cuatro veces en el año (cada tres meses), en el día y hora que fijen sus miembros la primera sesión del año
 
 Sesionará extraordinariamente cuando proceda en conformidad al artículo 23º del Reglamento General y, en ambos casos hará las citaciones por escrito el Jefe del Servicio de Bienestar, con una antelación mínima de tres días para las sesiones ordinarias y de uno en las extraordinarias.
 
