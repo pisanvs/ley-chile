@@ -720,7 +720,7 @@ Para el año 2012, el 70% de los recursos se repartirán de acuerdo a la fórmul
 
 Para el año 2013, el 60% de los recursos se repartirán de acuerdo a la fórmula de cálculo mencionada en el inciso segundo. El 40% restante, en base a los resultados que alcancen los establecimientos educacionales administrados por el municipio o corporación municipal en el Sistema Nacional de Evaluación de Desempeño establecido en la ley N° 19.410, según se establezca en el reglamento.
 
-Artículo vigésimo.- Antes del 30 de septiembre del 2011, el Presidente de la República enviará al Congreso Nacional uno o más proyectos de ley por medio de los cuales se aborde la institucionalidad de la educación municipal. Asimismo, antes del 1 de marzo de 2012, el Presidente de la República enviará uno o más proyectos de ley que modernicen la carrera docente.".
+Artículo vigésimo.- Antes del 30 de noviembre del 2011, el Presidente de la República enviará al Congreso Nacional uno o más proyectos de ley por medio de los cuales se aborde la institucionalidad de la educación municipal. Asimismo, antes del 1 de marzo de 2012, el Presidente de la República enviará uno o más proyectos de ley que modernicen la carrera docente.".
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
