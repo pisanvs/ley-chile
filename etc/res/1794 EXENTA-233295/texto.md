@@ -106,6 +106,98 @@ iv) Los buses no podrán en ninguna parte de su carrocería, exhibir avisos que 
 
 ## Título II
 
+Normas especiales sobre publicidad aplicables a los buses que reúnan determinadas condiciones que determine el Ministerio de Transportes y Telecomunicaciones
+
+#### Artículo 5º bis
+
+Los buses de una longitud igual o superior a 8 metros de largo total, que cumplan con las condiciones de acondicionamiento interior que se indican en el inciso siguiente, y previa acreditación de ello, podrán exhibir publicidad en los espacios adicionales a lo señalado en el artículo 5º anterior, y que se especifican en el artículo 5º ter siguiente. Para los buses cuya longitud sea igual o superior a 8 metros e inferior a 9 metros, no será aplicable la condición establecida en la letra c) de este mismo artículo.
+
+Las condiciones de acondicionamiento a que se refiere el inciso anterior, serán las siguientes:
+
+a) Inclinación de los asientos: El ángulo del asiento debe ser de 5º, con una tolerancia de más o menos 1º respecto de la horizontal;
+
+b) Instalación de asideros flexibles: Deberá disponerse a lo largo de los pasamanos horizontales superiores ubicados en ambos lados del pasillo de circulación, a lo menos, una cantidad de asideros flexibles de uso individual equivalente a la mitad del número de pasajeros de pie calculado en el proceso de certificación del modelo de bus respectivo, de acuerdo al artículo 7º del DS 122/1991 del MTT, los que deberán encontrarse distribuidos a lo largo del vehículo;
+
+c) Acondicionamiento de la zona para personas con movilidad reducida: La totalidad del piso del espacio reservado para silla de ruedas deberá ser revestido con material de textura antideslizante de un color que contraste con el resto de la carrocería, material con el cual también deberá ser revestido en un ancho mínimo de 800 mm el piso desde la puerta de acceso donde se encuentra instalada la plataforma que permite el acceso de usuarios con movilidad reducida hasta el espacio destinado a la silla de ruedas;
+
+d) Instalación de plataforma apoya-pies en zonas de cubre-ruedas: En el caso de asientos ubicados sobre los cubre-ruedas, la zona del piso ubicada inmediatamente delante del asiento respectivo, deberá consistir en una plataforma plana para apoyo de los pies de los pasajeros. Dicha plataforma deberá ubicarse horizontalmente y tener un ancho no inferior al espacio disponible para cada plaza. Deberá estar revestida con el mismo o similar material al utilizado en el piso bajo los asientos, de manera de proveer un adecuado confort y debida comodidad de los pies en posición horizontal. En caso que exista espacio libre entre la citada plataforma y un panel o asiento instalado inmediatamente al frente, éste no podrá ser superior a 30 mm, y
+
+e) Instalación de pasamanos en zonas con asientos elevados: Cuando la distancia del asiento con relación a un panel divisorio o a un asiento ubicado al frente es superior a 400 mm., se deberá instalar un apoyo (pasamano) para el pasajero sentado en asiento. Dicho apoyo deberá estar fijado a la pared lateral o al piso del vehículo.
+
+#### Artículo 5º ter
+
+Los espacios adicionales para publicidad, en caso de darse cumplimiento a todos los requisitos mencionados en el artículo precedente, serán los siguientes:
+
+a) Publicidad al interior de los buses:
+
+i) Cara interior el techo del bus;
+
+ii) Puertas de servicio, exceptuada la puerta
+
+delantera, en que el área ocupada por publicidad
+
+no podrá exceder del 50% y deberá efectuarse con
+
+material adhesivo perforado que permita la
+
+visión desde el interior del bus hacia el
+
+exterior;
+
+iii) Paneles divisorios;
+
+iv) Soporte para publicidad instalado en asideros
+
+de uso individual, de una superficie máxima de
+
+70 mm x 120 mm que permita colocar mensajes
+
+publicitarios o de información a los pasajeros,
+
+y
+
+v) Parte trasera de los asientos de los buses.
+
+En ningún caso la publicidad al interior podrá limitar, impedir o perturbar la comprensión de lectura de los avisos de salida de emergencia en los buses.
+
+b) Publicidad al exterior de los buses:
+
+i) Tratándose del exterior de los buses, el espacio
+
+adicional para publicidad se refiere a que el
+
+área a que alude el numeral ii) de la letra b),
+
+del artículo 5º anterior, se podrá incrementar
+
+para los buses acondicionados a un rectángulo
+
+imaginario de hasta 7,00 m. por 2,00 m., que
+
+incluso podrá ocupar todo el alto de la ventana.
+
+ii) En la parte trasera del bus, incluida la luneta
+
+trasera, siempre que la misma no oculte la
+
+información obligatoria con que debe contar la
+
+pared trasera del vehículo, no afecte la
+
+funcionalidad de las luces traseras y el
+
+acceso a compartimientos del vehículo ni impida
+
+usar como salida de emergencia, el vano donde va
+
+instalada la luneta trasera.
+
+El material que se utilice en las superficies de vidrio de ventanas y puertas de servicio, deberá ser adhesivo y perforado que permita la visión desde el interior del bus hacia el exterior y con características que dificulten la propagación de la llama en caso de incendio. En la instalación de este material y de cualquier otro deberá cuidarse de no afectar el funcionamiento de ventanas, puertas y escotillas de ventilación, y no interferir con el perfecto funcionamiento de dispositivos y salidas de emergencia en caso de requerirse el uso de ellos.
+
+Los avisos publicitarios podrán ser adheridos o pintados sobre la carrocería.
+
+## Título III
+
 Normas específicas aplicables a los buses a que se
 
 refiere el artículo 2º bis del D.S. Nº 122 de 1991
@@ -114,13 +206,13 @@ refiere el artículo 2º bis del D.S. Nº 122 de 1991
 
 En materia de equipamiento, los buses de que se trata deben cumplir con las características que se indican a continuación:
 
-a) Se debe evitar el uso de tapicería, espuma de poliuretano, textiles y otros elementos complementarios que pueden ser fácilmente desprendibles.
+a) El color de los asientos, paredes y cielo de los buses debe ser parte del material y no un tratamiento superficial posterior. Para estos efectos, el Manual de Normas Gráficas de Transantiago contiene una propuesta de colores.
 
-b) El color de los asientos, paredes y cielo de los buses debe ser parte del material y no un tratamiento superficial posterior. Para estos efectos, el Manual de Normas Gráficas de Transantiago contiene una propuesta de colores.
+b) Los pasamanos deben ser de acero inoxidable satinado o de aluminio anodizado.
 
-c) Los pasamanos deben ser de acero inoxidable satinado o de aluminio anodizado.
+Los materiales que se empleen deberán evitar la propagación de fuego en caso de incendio.
 
-## Título III
+## Título IV
 
 De la aplicación
 
@@ -132,10 +224,8 @@ De igual modo, en lo que le corresponda, esta resolución será también aplicab
 
 #### Artículo 8º
 
-Durante la Etapa de Implementación definida en las Bases de Licitación Transantiago 2003, aprobadas mediante resolución Nº 117 de 2003, del Ministerio de Transportes y Telecomunicaciones, las normas de la presente resolución serán plenamente aplicables respecto de la totalidad de los buses de los servicios mencionados en el artículo precedente, salvo las contenidas en las letras a) de los artículos 4º y 5º, las cuales serán obligatorias en la Etapa de Régimen señalada en las Bases citadas. Asimismo, durante la Etapa de Implementación, la prohibición de uso de cortinas establecida en la letra f) del artículo 3º no será aplicable a los buses a que se refiere el artículo 2º del Decreto Supremo Nº 122, de 1991, del Ministerio de Transportes y Telecomunicaciones.
+La Subsecretaría de Transportes podrá eximir de la aplicación de las normas sobre presentación exterior y de publicidad a que se refieren los artículos anteriores, a los buses que se empleen con fines experimentales o de demostración de tecnologías vinculadas con propulsión eléctrica, uso de combustibles alternativos, disminución de emisiones contaminantes u otro, debiendo disponerse en el mismo acto que autorice la nueva presentación exterior, los requisitos que deberá cumplir ésta.
 
-Durante la Fase I de la Etapa de Implementación, definida en las Bases antes citadas, no se exigirá que los buses a que se refiere el artículo 2º del D.S. Nº 122 de 1991 posean los colores establecidos en el Manual de Normas Gráficas de Transantiago, que se aprueba en el presente acto. Esta excepción se extenderá a la Fase II de la Etapa de Implementación señalada, respecto de los buses que no operarán en la Etapa de Régimen.
-
-INCISO DEROGADO Finalmente, tampoco será exigible durante la Etapa de Implementación el requisito de visibilidad establecida en el párrafo primero del punto i) de la letra b) del artículo 5º, aplicable a la publicidad en la luneta trasera.
+El Ministerio de Transportes y Telecomunicaciones podrá utilizar el espacio interior del bus reservado para sus comunicaciones, para campañas de bien social.
 
 Anótese y publíquese.- Javier Etcheberry Celhay, Ministro de Transportes y Telecomunicaciones.
