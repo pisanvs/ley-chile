@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2198 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 32, superficie 5.588 m2, rol N° 523-66, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tinúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario MARÍA MARCELINA HUENUPIL LIGUENPI ascendente a la cantidad de $3.454.831.-
+
+Fiscal del Ministerio de Obras Públicas.
