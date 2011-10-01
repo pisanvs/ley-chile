@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2108 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 5, superficie 2.813 m2, rol N° 81-156, comuna de Pelarco, para la obra "Camino Ruta K-45, Sector Pelarco - Huencuecho Sur, Tramo Km. 0,00000 a Km. 8,54141", Séptima Región, y se acordó el valor de la indemnización con su propietario PEDRO SEGUNDO AMARO MOYA Y OTROS ascendente a la cantidad de $12.379.794.-
+
+Fiscal del Ministerio de Obras Públicas.
