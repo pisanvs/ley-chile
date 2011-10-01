@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2192 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 12, superficie 402m2, rol N° 2208-92, comuna de Puerto Montt, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100, Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos", y se acordó el valor de la indemnización con su propietario GERARDO SEGUNDO VEGA LA ROSA ascendente a la cantidad de $1.643.097.-
+
+Fiscal del Ministerio de Obras Públicas.
