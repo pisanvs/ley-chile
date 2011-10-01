@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2090 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 59, superficie 487 m2, rol N° 632-103 comuna de Tomé, para la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 23,92041 a Km. 25,77000", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario VÍCTOR DEL CARMEN BURBOA PEÑAILILLO Y OTRA ascendente a la cantidad de $1.888.899.-
+
+Fiscal del Ministerio de Obras Públicas.
