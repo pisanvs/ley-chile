@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.062 de 15 de septiembre de 2011, se publicó extracto de notificación del Decreto exento MOP Nº 1873, con el error que se salva a continuación: II Cuerpo, página cuarenta y cuatro, cuarta columna, donde dice "Andrés Rainer Schulz Villanueva, Marlene Teresa Ríos Marcuello y Claudio Andrés Concha Grossi" debe decir "Andrés Echeverría Campo, Ricardo Antonio Strickler Arellano y Marco Antonio Manríquez Castro".
+
+Fiscal del Ministerio de Obras Públicas.
