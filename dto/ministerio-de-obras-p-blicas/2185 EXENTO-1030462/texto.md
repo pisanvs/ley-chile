@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2185 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 42, superficie 563 m2, rol N° 234-32, comuna de Los Lagos, para la obra "Mejoramiento Ruta T-35, Sector Los Lagos - Valdivia, tramo Nº 2 Km.0,00000 a Km. 16,60000", XIV Región, y se acordó el valor de la indemnización con su propietario MARÍA MATEA SILVA ROSAS ascendente a la cantidad de $634.522.-
+
+Fiscal del Ministerio de Obras Públicas.
