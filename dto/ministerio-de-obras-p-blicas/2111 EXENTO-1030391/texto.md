@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2111 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 66, superficie 155 m2, rol N° 3251-180, comuna de Temuco, para la obra "Camino Ruta S-30 Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000", y se acordó el valor de la indemnización con su propietario PATRICIA DEL CARMEN GARRIDO RAÑILAO, ascendente a la cantidad de $2.462.070.-
+
+Fiscal del Ministerio de Obras Públicas.
