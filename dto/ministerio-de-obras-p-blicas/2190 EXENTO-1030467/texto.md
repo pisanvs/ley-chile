@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2190 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 10 y 11, superficies 75 y 233 m2 respectivamente, rol N° 209-34, comuna de Chaitén, para la obra "Mejoramiento Ruta 7, Sector Michimahuida - Puerto Cárdenas (Puente Yelcho) Km.30,50000 a Km. 45,95163", Provincia de Palena, X Región, y se acordó el valor de la indemnización con su propietario ULDA SOTO ALTAMIRANO ascendente a la cantidad de $400.403.-
+
+Fiscal del Ministerio de Obras Públicas.
