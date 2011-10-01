@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2196 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 13 y 14, superficies 367 y 2.176 m2 respectivamente, rol Nº 162-7, comuna de Puerto Octay, para la obra "Camino Ruta U-99-V, Sector Las Cascadas - Ensenada, Km.31,33730 a Km. 50,60320", Provincia Osorno - Llanquihue, X Región, y se acordó el valor de la indemnización con su propietario INVERSIONES LAS CUMBRES LIMITADA ascendente a la cantidad de $25.090.050.-
+
+Fiscal del Ministerio de Obras Públicas.
