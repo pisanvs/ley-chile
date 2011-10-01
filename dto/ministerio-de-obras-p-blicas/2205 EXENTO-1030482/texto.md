@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2205 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 1, superficie 8.369 m2, rol N° 386-65, comuna de Pitrufquén, para la obra "Camino Pitrufquén - Toltén, Sector Nueva Etruria, Tramo Km. 17,20000 a Km. 17,82671" IX Región, y se acordó el valor de la indemnización con su propietario JOSÉ SANTOS SANTIN POBLETE, ascendente a la cantidad de $7.037.433.-
+
+Fiscal del Ministerio de Obras Públicas.
