@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2109 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 2, superficie 600 m2, rol N° 2207-31, comuna de Puerto Montt, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100,Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos", y se acordó el valor de la indemnización con su propietario JOSÉ ARTURO BARRÍA CÁRCAMO ascendente a la cantidad de $2.514.710.-
+
+Fiscal del Ministerio de Obras Públicas.
