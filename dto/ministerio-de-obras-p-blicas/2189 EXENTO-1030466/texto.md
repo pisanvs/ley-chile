@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2189 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 52, superficie 125 m2, rol N° 2206-94, comuna de Puerto Montt, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100, Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos", y se acordó el valor de la indemnización con su propietario RODULFO CÁRCAMO IGOR ascendente a la cantidad de $711.913.-
+
+Fiscal del Ministerio de Obras Públicas.
