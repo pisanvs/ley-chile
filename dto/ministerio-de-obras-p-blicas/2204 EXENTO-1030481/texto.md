@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2204 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 28 y 29, superficies 3.203 y 2.842 m2 respectivamente, rol N° 1407-34, comuna de Llanquihue, para la obra "Camino Ruta V-40, Sector Cruce Longitudinal Llanquihue - Loncotoro, Tramo Km. 0,34904 a KM. 17,90000", Provincia de Llanquihue, X Región", y se acordó el valor de la indemnización con su propietario MONICA DEL CARMEN REHBEIN MEIXNER ascendente a la cantidad de $6.934.527.-
+
+Fiscal del Ministerio de Obras Públicas.
