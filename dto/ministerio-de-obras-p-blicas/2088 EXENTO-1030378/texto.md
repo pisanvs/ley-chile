@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2088 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno Nºs 17 y 19, superficies 8.727 y 1.632 m2 respectivamente, rol N° 81-125, comuna de Pelarco, para la obra "Camino Ruta K-45, Sector Pelarco - Huencuecho Sur, Tramo Km. 0,00000 a Km. 8,54141", Séptima Región, y se acordó el valor de la indemnización con su propietario ABELARDO ANTONIO ROJAS PALMA ascendente a la cantidad de $11.748.188.-
+
+Fiscal del Ministerio de Obras Públicas.
