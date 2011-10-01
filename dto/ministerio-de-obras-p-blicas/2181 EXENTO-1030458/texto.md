@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº 2181 de fecha 31 de agosto de 2011, se expropió el lote de terreno Nº 10-B, superficie 204 m2, rol Nº 38-405, comuna de Lolol, para la obra "Mejoramiento Ruta I-70-J, sector Lolol - Ranguil, tramo Km.0,00000 a Km. 19,38878", Sexta Región, y se acordó el valor de la indemnización con su propietario CARLOS ALBERTO BECERRA URZÚA, ascendente a la cantidad de $636.314.-
+
+Fiscal del Ministerio de Obras Públicas.
