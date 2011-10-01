@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2208 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 33, superficie 14,64 m2, rol N° 230-34, comuna de Valdivia, para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos", XIV Región, y se acordó el valor de la indemnización con su propietario ANA BELLA PÉREZ DESPÍO ascendente a la cantidad de $492.045.-
+
+Fiscal del Ministerio de Obras Públicas.
