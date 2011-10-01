@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2207 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 46, superficie 165,35 m2, rol N° 208-33, comuna de Valdivia, para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos", XIV Región, y se acordó el valor de la indemnización con su propietario ILUSTRE MUNICIPALIDAD DE VALDIVIA ascendente a la cantidad de $6.519.475.-
+
+Fiscal del Ministerio de Obras Públicas.
