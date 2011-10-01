@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2183 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 110-A, superficie 346 m2, rol N° 259-138, comuna de Carahue, para la obra "Camino Reposición Ruta S-40, Sector Nueva Imperial Carahue, Tramo Km.0,00000 al Km. 21,58295 correspondiente al Subtramo III Km. 12,86300 al Km. 21,58295", y se acordó el valor de la indemnización con su propietario JOSÉ OSVALDO CURIHUENTRO BLANCO, ascendente a la cantidad de $507.393.-
+
+Fiscal del Ministerio de Obras Públicas.
