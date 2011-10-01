@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2106 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 83-A, superficie 491 m2, rol N° 2451-22, comuna de Temuco, para la obra "Camino Ruta S-30 Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000", y se acordó el valor de la indemnización con su propietario JUAN OSCAR NEIRA CARRASCO, ascendente a la cantidad de $21.380.392.-
+
+Fiscal del Ministerio de Obras Públicas.
