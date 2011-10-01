@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2102 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 32, superficie 445 m2, rol N° 632-14, comuna de Tomé, para la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, tramo II, Km. 20,30000 a Km. 23,92041" Región del Bío Bío, y se acordó el valor de la indemnización con su propietario VIOLETA MORELIA AGUAYO ARTEAGA Y OTROS, ascendente a la cantidad de $551.740.-
+
+Fiscal del Ministerio de Obras Públicas.
