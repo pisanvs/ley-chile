@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2200 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 8-E, superficie 473 m2, rol N° 38-397, comuna de Lolol, para la obra "Mejoramiento Ruta I-70-J, sector Lolol - Ranguil, tramo Km.0,00000 a Km. 19,38878", Sexta Región, y se acordó el valor de la indemnización con su propietario MARÍA NORMA BECERRA URZÚA, ascendente a la cantidad de $1.770.512.-
+
+Fiscal del Ministerio de Obras Públicas.
