@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2182 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 41 A, superficie 178 m2, rol N° 234-43, comuna de Los Lagos, para la obra "Mejoramiento Ruta T-35, Sector Los Lagos - Valdivia, tramo N° 2 Km.0,00000 a Km. 16,60000", XIV Región, y se acordó el valor de la indemnización con su propietario BLANCA VALERIA MEDINA SILVA ascendente a la cantidad de $420.902.-
+
+Fiscal del Ministerio de Obras Públicas.
