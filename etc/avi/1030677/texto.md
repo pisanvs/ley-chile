@@ -1,0 +1,3 @@
+En la edición del Diario Oficial N° 40.062 de 15 de septiembre de 2011, se publicó extracto de notificación del Decreto exento MOP N° 1806, con el error que se salva a continuación: II Cuerpo, página treinta y ocho, segunda columna, donde dice "Decreto exento MOP N° 1806 de 22 de agosto de 2011" debe decir "Decreto exento MOP N° 1806 de 23 de agosto de 2011".
+
+Fiscal del Ministerio de Obras Públicas.
