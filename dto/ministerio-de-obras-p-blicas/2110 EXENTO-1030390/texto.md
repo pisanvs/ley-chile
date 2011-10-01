@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2110 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 154-B, superficie 1.084 m2, rol N° 266-83, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L - 30 - M - Carrizal, Tramo Km.0,50000 a Km, 17,34000", Séptima Región, y se acordó el valor de la indemnización con su propietario ELIANA DEL CARMEN MEZA ZÚÑIGA ascendente a la cantidad de $2.499.619.-
+
+Fiscal del Ministerio de Obras Públicas.
