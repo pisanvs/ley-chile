@@ -58,8 +58,6 @@ I. Deróganse las resoluciones exentas Nº 6.034 de 02.12.98, Nº 7.218 de 14.12
 
 3.7 Autorizar a los Agentes de Aduana para que se desempeñen como agentes de naves, de conformidad con el artículo 207 de la Ordenanza de Aduanas.
 
-3.8 suscribir resoluciones de reconocimiento para actuar como agentes de carga, transitarios, agentes de nave, aeronave o líneas aéreas, agentes de estiba o desestiba y proveedores de nave, modificar este tipo de resoluciones y resolver solicitudes de cancelación voluntaria de la inscripción, en el registro.
-
 4. Deléganse en el Jefe del Departamento de Secretaría General las siguientes facultades:
 
 4.1 Firmar, por orden del Director Nacional, los requerimientos para que se subsanen las faltas de las solicitudes de acceso a la información que no reúnan los requisitos legales, en conformidad a lo dispuesto en el artículo 12 de la ley de transparencia de la función pública y de acceso a la información de la Administración del Estado.
@@ -124,13 +122,9 @@ I. Deróganse las resoluciones exentas Nº 6.034 de 02.12.98, Nº 7.218 de 14.12
 
 5.23 Conceder prórroga del plazo general de depósito establecido en el artículo 32 del decreto supremo Nº 1.114/97 del Ministerio de Hacienda.
 
-5.24 Dictar, en cada caso y una vez cumplidos los requisitos legales y reglamentarios, una resolución concediendo a los Cuerpos de Bomberos y la Junta Nacional de Cuerpos de Bomberos de Chile, la franquicia establecida en la Partida 00.36 de la Sección 0 del Arancel Aduanero.
-
-5.25 Calificar el plazo de interrupción del plazo de permanencia en el extranjero a que se refiere la Partida 00.33 de la Sección 0 del Arancel Aduanero.
-
 6. Deléganse en el Director Regional de la Aduana de Arica las siguientes facultades:
 
-6.1 Prorrogar el plazo de almacenaje de mercancías en tránsito, desde y hacia Bolivia.
+6.1 Prorrogar plazo de almacenaje de mercancías en tránsito a Bolivia.
 
 6.2 Autorizar la suscripción de declaración de tránsito de mercancías acogidas a Convenio Chile-Bolivia, contemplada en Convención de Tránsito de 1937.
 
@@ -193,9 +187,5 @@ IV. Elabórese por la Subdirección Jurídica un anexo de la presente resolució
 ### V. La presente resolución entrará en vigencia a contar del primer día hábil del mes posterior a su publicación en el Diario Oficial
 
 > **Nota.** La Resolución 5248 Exenta, Hacienda, publicada el 09.11.2010, estableció normas que complementan la presente resolución.
-
-> **Nota.** NOTA 1 La Resolución 8562 Exenta, Hacienda, publicada el 17.11.2012, modifica la presente norma en el sentido de dejar sin efecto la delegación de facultades contenida en los numerales 5.4 y 5.5 de la presente Resolución y delega facultades que la propia norma indica.
-
-> **Nota.** NOTA 2 La Resolución 5882 Exenta, Hacienda, publicada 10.01.2020, modifica la presente norma en el sentido de dejar sin efecto la delegación de facultad de prorrogar la admisión temporal de vehículos amparados por pasavantes, otorgada al Jefe del Departamento Técnico, de la Dirección Regional de la Aduana de Iquique.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Gonzalo Sepúlveda Campos, Director Nacional de Aduanas.
