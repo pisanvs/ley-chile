@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2095 de fecha 31 de agosto de 2011, se expropió el lote de terreno N°6, superficie 979 m2, rol N° 1182-44, comuna de Ancud, para la obra "Mejoramiento Ruta 5 - W15 - 175, Sector Ruta 5 - Pumanzano, Camino Ruta 5 - Pumanzano", provincia de Chiloé, X Región, y se acordó el valor de la indemnización con su propietario OTTO AMBROCIO LAUBSCHER MANSILLA ascendente a la cantidad de $680.070.-
+
+Fiscal del Ministerio de Obras Públicas.
