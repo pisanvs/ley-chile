@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2104 de fecha 31 de agosto de 2011, se expropiaron los lotes de terreno N°s 30, 32 y 33, superficies 1.115, 379 y 142 m2 respectivamente, rol N° 1430-24, comuna de Llanquihue, para la obra "Camino Ruta V-40, Sector Cruce Longitudinal Llanquihue - Loncotoro, Tramo Km. 0,34904 a KM. 17,90000", Provincia de Llanquihue, X Región", y se acordó el valor de la indemnización con su propietario ERNESTO SEGUNDO WERNER MANSILLA ascendente a la cantidad de $1.923.937.-
+
+Fiscal del Ministerio de Obras Públicas.
