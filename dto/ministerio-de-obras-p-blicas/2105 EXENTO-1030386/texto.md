@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2105 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 20, superficie 253,53 m2, rol en trámite, comuna de Ancud, para la obra "Ampliación Reposición Ruta 5 Chiloé, Sector Bif. Puente Bicentenario - Bif. Pupelde, tramo 8 Variante Ancud", Provincia de Chiloé, X Región, y se acordó el valor de la indemnización con su propietario VÍCTOR ELADIO SOTO MANSILLA ascendente a la cantidad de $21.957.629.-
+
+Fiscal del Ministerio de Obras Públicas.
