@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2099 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 1, superficie 674 m2, rol Nº 105-67, comuna de Palena, para la obra "Reposición Puente El Salto en Ruta Rol 235 - CH", Provincia de Palena, X Región, y se acordó el valor de la indemnización con su propietario JUAN ALBERTO AMARO VÁSQUEZ ascendente a la cantidad de $888.047.-
+
+Fiscal del Ministerio de Obras Públicas.
