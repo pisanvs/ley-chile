@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) N° 2202 de fecha 31 de agosto de 2011, se expropió el lote de terreno N° 52, superficie 1.069 m2, rol N° 1427-04 comuna de Llanquihue, para la obra "Camino Ruta V-40, Sector Cruce Longitudinal Llanquihue - Loncotoro, Tramo Km. 0,34904 a KM. 17,90000", Provincia de Llanquihue, X Región, y se acordó el valor de la indemnización con su propietario AGROPECUARIA LOS ESTEROS Y COMPAÑÍA LTDA. ascendente a la cantidad de $2.665.634.-
+
+Fiscal del Ministerio de Obras Públicas.
