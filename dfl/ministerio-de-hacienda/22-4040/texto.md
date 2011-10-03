@@ -594,15 +594,7 @@ Los Intendentes, Gobernadores, Subdelegados e Inspectores deberán tener especia
 
 #### Artículo 80°
 
-Ninguna persona ni reunión de personas podrá usar en público ni enarbolar en los edificios públicos o particulares la Bandera Nacional, sin la correspondiente autorización.
-
-Los Intendentes y Gobernadores podrán ordenar o permitir el uso o izamiento del Pabellón Nacional en el territorio de su jurisdicción, con autorización previa del Ministerio del Interior y Seguridad Pública, en aquellos casos en que exista motivo justificado y no se trate de efemérides patrias en que corresponda hacerlo en todo el país.
-
-La Bandera Nacional deberá enarbolarse en un asta, izada al tope, salvo disposición expresa para emplear otra forma.
-
-La violación de lo preceptuado en los incisos precedentes, autorizará al Intendente o Gobernador para ordenar el inmediato retiro del emblema.
-
-El uso del Pabellón Patrio por las fuerzas armadas y carabineros se ajustará a las normas reglamentarias que rigen en estas instituciones.
+DEROGADO.
 
 #### Artículo 81°
 
