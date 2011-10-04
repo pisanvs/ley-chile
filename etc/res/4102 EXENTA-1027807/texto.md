@@ -16,7 +16,9 @@ Resolución:
 
 1. Apruébanse los proyectos que se identifican a continuación, los cuales cuentan con Calificación Definitiva, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, en su Capítulo Primero, para el concurso a que se llamó mediante resolución exenta Nº 699 (V. y U.), de 2011:
 
-2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 205.824 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
+2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 209.725 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
+
+> **Nota.** El numeral 1 letra a) de la Resolución 6067 Exenta, Vivienda, publicada el 04.10.2011, modifica el cuadro inserto en el resuelvo 1 de la presente norma, en el sentido de reemplazar las filas correspondientes al proyecto "Nuevo Nancagua 2" de la comuna de Nancagua, y a los Totales, por las que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
