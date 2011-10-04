@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A AGRÍCOLA TETEHUE LTDA.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución exenta Nº 3.754 de fecha 8 de agosto de 2010, otorga a contar del 1º del mes siguiente de esta publicación, al contribuyente Agrícola Tetehue Ltda., RUT Nº 76.280.980-K, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la compras de ganado vivo, establecido en la resolución exenta Nº 3.721 del 28 de julio de 2000 de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1 de agosto de 2000.
