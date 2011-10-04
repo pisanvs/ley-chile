@@ -58,7 +58,7 @@ La cuota global anual de captura de la unidad de pesquería de Langostino colora
 
 La cuota global anual de captura de la unidad de pesquería de Merluza común (Merluccius gayi), a ser extraída en el área marítima comprendida entre la IV Región y el paralelo 41º28,6' L.S., ascenderá a 48.000 toneladas, fraccionadas de la siguiente manera:
 
-La fracción artesanal de la cuota global anual de captura de Merluza común antes autorizada podrá ser reasignada durante el segundo semestre en una o más regiones o áreas. La reasignación no podrá exceder de un 50% de los remanentes no capturados durante el primer semestre.
+La fracción artesanal de la cuota global anual de captura de Merluza común antes autorizada podrá ser reasignada durante el segundo semestre en una o más regiones o áreas sometidas al Régimen Artesanal de Extracción. La reasignación podrá comprender la totalidad (100%) de los remanentes no capturados durante el primer semestre.
 
 #### Artículo 10º
 
