@@ -72,43 +72,47 @@ originadas en la red local de la
 
 Concesionaria y destinadas a una
 
-concesionaria interconectada de servicio
+concesionaria interconectada de
 
-público telefónico móvil, rural¹, de
+servicio público telefónico móvil,
 
-servicios públicos del mismo tipo o de
+rural¹, de servicios públicos del mismo
 
-aquellos Otros Servicios Públicos de
+tipo o de aquellos Otros Servicios
 
-Telecomunicaciones, de acuerdo a la
+Públicos de Telecomunicaciones,
 
-denominación contenida en el artículo 3º,
+de acuerdo a la denominación contenida
 
-numeral 3.1.1 del decreto supremo Nº 510,
+en el artículo 3º, numeral 3.1.1 del
 
-de 2004², modificado por el decreto
+decreto supremo Nº 510, de 2004²,
 
-supremo Nº 184, de 2007, ambos de los
+modificado por el decreto supremo
+
+Nº 184, de 2007, ambos de los
 
 Ministerios, en adelante también Otros
 
-Servicios Públicos de Telecomunicaciones.
+Servicios Públicos de
+
+Telecomunicaciones.
 
 Incluye además las comunicaciones
 
 dirigidas a prestadores de servicios
 
-complementarios conectados a la red de la
+complementarios conectados a la red de
 
-Concesionaria a nivel de PTR y las
+la Concesionaria a nivel de PTR y las
 
 comunicaciones dirigidas a niveles
 
-especiales 10X y de emergencia 13X, 14X,
+especiales 10X y de emergencia 13X,
 
-14XX y 100, ambos niveles conectados a la
+14X, 14XX y 100, ambos niveles
 
-red de la Concesionaria.
+conectados a la red de la Concesionaria.
 
 ------------------------------------------------------------
 
@@ -120,13 +124,15 @@ La estructura de cobro del Tramo Local
 
 será la siguiente:
 
-El nivel de la tarifa del Servicio Tramo
+El nivel de la tarifa del Servicio
 
-Local de las comunicaciones señaladas en
+Tramo Local de las comunicaciones
 
-las letras a) y b), expresado en valores
+señaladas en las letras a) y b),
 
-netos, es el siguiente:
+expresado en valores netos, es el
+
+siguiente:
 
 El nivel de la tarifa del Servicio Tramo
 
@@ -136,23 +142,25 @@ las letras c), d) y e), expresado en
 
 valores netos, es el siguiente:
 
-El nivel de la tarifa incluirá los costos
+El nivel de la tarifa incluirá los
 
-de la portabilidad, para una determinada
+costos de la portabilidad, para una
 
-área tarifaria, una vez implementada y
+determinada área tarifaria, una vez
 
-operativa la portabilidad local para la
+implementada y operativa la portabilidad
 
-totalidad de la zona comprendida en dicha
+local para la totalidad de la zona
 
-área según definición del presente
+comprendida en dicha área según
 
-decreto. Para ello, la Subsecretaría de
+definición del presente decreto. Para
 
-Telecomunicaciones autorizará el cobro de
+ello, la Subsecretaría de
 
-este nivel tarifario para la
+Telecomunicaciones autorizará el cobro
+
+de este nivel tarifario para la
 
 correspondiente área tarifaria mediante
 
@@ -164,9 +172,9 @@ resolución.
 
 1.1.2. Asistencia de operadora en niveles
 
-especiales y servicio de acceso a niveles
+especiales y servicio de acceso a
 
-especiales.
+niveles especiales.
 
 1.1.2.1. Servicio de acceso de los
 
@@ -182,45 +190,53 @@ local para acceder a la
 
 plataforma del proveedor del
 
-servicio. Los niveles asociados a
+servicio. Los niveles
 
-este servicio son:
+asociados a este servicio son:
 
-- 103, servicio de información
+- 103, servicio de
+
+información
 
 para suscriptores de la
 
 Concesionaria.
 
-- 104, servicio de reparaciones
+- 104, servicio de
+
+reparaciones
 
 por defectos técnicos de
 
 línea de suscriptores.
 
-- 107, servicio de información
+- 107, servicio de
+
+información
 
 de carácter comercial.
 
-- 105, servicio de atención de
+- 105, servicio de atención
 
-reclamos.
+de reclamos.
 
 - 13X, 14X, 14XX y 100,
 
-servicios de emergencia que
+servicios de emergencia
 
-operan conectados a la red de
+que operan conectados a
 
-la Concesionaria. Se debe
+la red de la Concesionaria.
 
-considerar la gratuidad en
+Se debe considerar la
 
-los casos que la normativa
+gratuidad en los casos que
 
-anteriormente citada y sus
+la normativa anteriormente
 
-modificaciones lo indiquen.
+citada y sus modificaciones
+
+lo indiquen.
 
 La tarifa aplicable al servicio
 
@@ -232,31 +248,35 @@ información y a servicios de
 
 emergencia corresponde al Tramo
 
-Local en la categoría explicitada
+Local en la categoría
 
-en las letras d) y e) de la
+explicitada en las letras d) y
 
-estructura de cobro del numeral
+e) de la estructura de cobro
 
-1.1.1., sin perjuicio de lo
+del numeral 1.1.1., sin
 
-señalado en torno a la segunda de
+perjuicio de lo señalado en
 
-dichas categorías, respecto del
+torno a la segunda de
 
-acceso a aquellos niveles de
+dichas categorías, respecto
 
-emergencia exentos de pago de
+del acceso a aquellos niveles
 
-acuerdo a la normativa.
+de emergencia exentos de pago
 
-En el caso del servicio de acceso
+de acuerdo a la normativa.
 
-a niveles especiales desde las
+En el caso del servicio de
 
-redes de otras concesionarias de
+acceso a niveles especiales
 
-servicio público telefónico, éste
+desde las redes de otras
+
+concesionarias de servicio
+
+público telefónico, éste
 
 corresponde a la categoría
 
@@ -270,45 +290,51 @@ Concesionaria.
 
 Corresponde a la asistencia de
 
-operadoras en el nivel 103, para
+operadoras en el nivel 103,
 
-la entrega de información sobre
+para la entrega de
+
+información sobre
 
 suscriptores del servicio
 
-telefónico local a usuarios de la
+telefónico local a usuarios de
 
-Concesionaria, y a la asistencia
+la Concesionaria, y a la
 
-de operadoras en los demás
+asistencia de operadoras en
 
-niveles especiales, cuando
+los demás niveles especiales,
 
-corresponda.
+cuando corresponda.
 
-La estructura de cobro para ambos
+La estructura de cobro para
 
-servicios definidos en los
+ambos servicios definidos en
 
-numerales 1.1.2.1 y 1.1.2.2 será
+los numerales 1.1.2.1 y
 
-la siguiente:
-
-El nivel de la tarifa del
-
-servicio asistencia de operadora
-
-de las comunicaciones señaladas
-
-en la letra a), expresado en
-
-valores netos, es el siguiente:
+1.1.2.2 será la siguiente:
 
 El nivel de la tarifa del
 
-servicio asistencia de operadora
+servicio asistencia de
 
-de las comunicaciones señaladas
+operadora de las comunicaciones
+
+señaladas en la letra a),
+
+expresado en valores netos, es
+
+el siguiente:
+
+El nivel de la tarifa del
+
+servicio asistencia de
+
+operadora de las
+
+comunicaciones señaladas
 
 en la letra b), expresado en
 
@@ -318,13 +344,13 @@ valores netos, es el siguiente:
 
 Público Telefónico
 
-El nivel de las tarifas de las prestaciones
+El nivel de las tarifas de las
 
-que se individualizan a continuación,
+prestaciones que se individualizan
 
-expresados en valores netos, es el
+a continuación, expresados en
 
-siguiente:
+valores netos, es el siguiente:
 
 1.2. Servicios prestados a otros usuarios
 
@@ -334,41 +360,49 @@ complementarios).
 
 ### 2. Indexadores
 
-Los índices a utilizar en los indexadores corresponden a:
+Los índices a utilizar en los indexadores
 
-IPMBSI : Índice de Precios al por Mayor para la canasta
+corresponden a:
 
-de Bienes Importados (IPMBSI), publicado por
+IPMBSI : Índice de precios al por mayor para la
 
-el Instituto Nacional de Estadísticas (INE),
-
-Valor base IPMBSI0 = 133,01 (Base: noviembre
-
-2007=100)
-
-IPMBSN : Índice de Precios al por Mayor para la canasta
-
-de Bienes Nacionales (IPMBSN), publicado por
-
-el Instituto Nacional de Estadísticas (INE),
-
-Valor base IPMBSN0 = 117,17 (Base: noviembre
-
-2007=100)
-
-IPC : Índice de Precios al Consumidor (IPC)
+canasta de bienes importados (IPMBSI),
 
 publicado por el Instituto Nacional de
 
-Estadísticas, Valor Base IPC0 = 100,00 (Base:
+Estadísticas (INE), Valor
 
-diciembre 2008 =100)
+base IPMBSI0 = 108,99 (Base: noviembre
 
-t : Tasa de impuesto a las empresas, Valor base t0
+2007=100)
 
-= 17%.
+IPMBSN : Índice de precios al por mayor para la
 
-La fórmula general para el cálculo de los indexadores es la siguiente:
+canasta de bienes nacionales (IPMBSN),
+
+publicado por el Instituto Nacional de
+
+Estadísticas (INE), Valor
+
+base IPMBSN0 = 110,08 (Base: noviembre
+
+2007=100)
+
+IPC : Índice de precios al consumidor (IPC)
+
+publicado por el Instituto Nacional de
+
+Estadísticas, Valor base IPC0 = 99,20
+
+(Base: diciembre 2008=100)
+
+t : Tasa de impuesto a las empresas, Valor
+
+base t0 = 17%.
+
+La fórmula general para el cálculo de los indexadores
+
+es la siguiente:
 
 Donde:
 
@@ -376,9 +410,9 @@ Ii : Indexador en el período i;
 
 i=0 : Mes base de referencia de los respectivos
 
-índices y tasas, correspondiente a junio de
+índices y tasas, correspondiente a junio
 
-2009;
+de 2009;
 
 IPMBSIi : Índice de Precios al por Mayor para Bienes
 
@@ -388,19 +422,21 @@ IPMBSNi : Índice de Precios al por Mayor para Bienes
 
 Nacionales en el período i;
 
-IPCi : Índice de Precios al Consumidor en el período
-
-i;
-
-ti : Tasa de tributación de las utilidades en el
+IPCi : Índice de Precios al Consumidor en el
 
 período i;
 
-α,β,γ,δ : Elasticidades del índice general respecto a
+ti : Tasa de tributación de las utilidades en
 
-los índices parciales.
+el período i;
 
-Los indexadores de cada uno de los servicios son los siguientes:
+α,β,γ,δ : Elasticidades del índice general respecto
+
+a los índices parciales.
+
+Los indexadores de cada uno de los servicios son los
+
+siguientes:
 
 II. Las tarifas fijadas en el número I. anterior están expresadas en valores netos, en pesos ($) al 30 de junio de 2009, y tienen el carácter de máximas, no pudiendo discriminarse entre usuarios de una misma categoría en su aplicación, en conformidad a lo dispuesto en el artículo 30º H de la ley.
 
@@ -413,6 +449,10 @@ V. La Concesionaria comunicará cada dos meses a la Subsecretaría de Telecomuni
 VI. Cada vez que la Concesionaria realice un reajuste de sus tarifas, previamente deberá publicarlas en un diario de circulación nacional y comunicarlas a la Subsecretaría de Telecomunicaciones. En todo caso, estas tarifas no podrán variar antes de los 30 días contados desde la última fijación o reajuste de tarifas, salvo el caso en que las tarifas vigentes excedan a las tarifas máximas autorizadas, en cuyo caso deberán ajustarse a estas últimas.
 
 VII. Las tarifas precedentes prevalecerán sobre cualquier otra establecida, convenida o autorizada a percibir por la Concesionaria, respecto de los servicios regulados. La Concesionaria no podrá cobrar tarifas adicionales por los servicios y prestaciones detallados en el presente decreto.
+
+> **Nota.** NOTA 1 La Rectificación 176, Transportes, publicada el 05.10.2011, dispone rectificar las páginas 3, 5, 10 y 11, sin embargo, las modificaciones señaladas se encuentran contenidas en las páginas 3, 4 y 6 del Diario Oficial Nº 40.071 del día 27.09.2011.
+
+> **Nota.** NOTA 2 La Rectificación 176, Transportes, publicada el 05.10.2011, dispone rectificar el cuadro de indexadores contenido en la presente norma de la manera que la citada rectificación indica.
 
 Anótese, regístrese, tómese razón, comuníquese y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Morandé Lavín, Ministro de Transportes y Telecomunicaciones.- Juan Fontaine Talavera, Ministro de Economía, Fomento y Turismo.
 
