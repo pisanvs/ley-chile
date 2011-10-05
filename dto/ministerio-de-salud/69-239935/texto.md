@@ -36,7 +36,7 @@ El Consejo se integrará por:
 
 5. Tres miembros designados por el Presidente de la República, debiendo velar por la debida representación regional en su designación.
 
-La elección de los representantes de las facultades universitarias a que se refieren los numerales 2, 3 y 4, sólo podrá recaer en profesores titulares de las citadas facultades.
+SUPRIMIDO.
 
 Los consejeros no percibirán remuneración alguna por su desempeño, y permanecerán en sus cargos por un período de tres años, y su elección o designación podrá renovarse por una sola vez.
 
