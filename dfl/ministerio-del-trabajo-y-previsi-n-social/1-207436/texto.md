@@ -214,11 +214,9 @@ Cualquier persona podrá denunciar ante los organismos competentes las infraccio
 
 #### Artículo 18
 
-Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales, que se ejecuten entre las veintidós y las siete horas, con excepción de aquellos en que únicamente trabajen miembros de la familia, bajo la autoridad de uno de ellos.
+Queda prohibido a los menores de dieciocho años todo trabajo nocturno en establecimientos industriales y comerciales. El período durante el cual el menor de 18 años no puede trabajar de noche será de once horas consecutivas, que comprenderá, al menos, el intervalo que media entre los veintidós y las siete horas.
 
-Exceptúase de esta prohibición a los varones mayores de dieciséis años, en las industrias y comercios que determine el reglamento, tratándose de trabajos que, en razón de su naturaleza, deban necesariamente continuarse de día y de noche.
-
-A los menores mencionados en este artículo, les será aplicable lo dispuesto en el inciso segundo del artículo 13.
+INCISOS DEROGADOS.
 
 ## Capítulo III
 
@@ -624,9 +622,13 @@ Con todo, tratándose de pensiones alimenticias debidas por ley y decretadas jud
 
 #### Artículo 58
 
-El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos. Igualmente, a solicitud escrita del trabajador, el empleador deberá descontar de las remuneraciones las cuotas correspondientes a dividendos hipotecarios por adquisición de viviendas y las cantidades que el trabajador haya indicado para que sean depositadas en una cuenta de ahorro para la vivienda abierta a su nombre en una institución financiera o en una cooperativa de vivienda. Estas últimas no podrán exceder de un monto equivalente al 30% de la remuneración total del trabajador.
+El empleador deberá deducir de las remuneraciones los impuestos que las graven, las cotizaciones de seguridad social, las cuotas sindicales en conformidad a la legislación respectiva y las obligaciones con instituciones de previsión o con organismos públicos.
+
+Asimismo, con acuerdo del empleador y del trabajador, que deberá constar por escrito, el empleador podrá descontar de las remuneraciones cuotas destinadas al pago de la adquisición de viviendas, cantidades para ser depositadas en una cuenta de ahorro para la vivienda y sumas destinadas a la educación del trabajador, su cónyuge o alguno de sus hijos. Para estos efectos, se autoriza al empleador a otorgar mutuos o créditos sin interés, respecto de los cuales el empleador podrá hacerse pago deduciendo hasta el 30% del total de la remuneración mensual del trabajador. Sin embargo, el empleador sólo podrá realizar tal deducción si paga directamente la cuota del mutuo o crédito a la institución financiera o servicio educacional respectivo.
 
 Sólo con acuerdo del empleador y del trabajador que deberá constar por escrito, podrán deducirse de las remuneraciones sumas o porcentajes determinados, destinados a efectuar pagos de cualquier naturaleza. Con todo, las deducciones a que se refiere este inciso, no podrán exceder del quince por ciento de la remuneración total del trabajador.
+
+Cualquiera sea el fundamento de las deducciones realizadas a las remuneraciones por parte del empleador, o el origen de los préstamos otorgados, en ningún caso aquéllas podrán exceder, en conjunto, del 45% de la remuneración total del trabajador.
 
 El empleador no podrá deducir, retener o compensar suma alguna que rebaje el monto de las remuneraciones por arriendo de habitación, luz, entrega de agua, uso de herramientas, entrega de medicinas, atención médica u otras prestaciones en especie, o por concepto de multas que no estén autorizadas en el reglamento interno de la empresa.
 
@@ -2619,6 +2621,12 @@ Si ambos padres son trabajadores dependientes, cualquiera de ellos, a elección 
 El tiempo no trabajado deberá ser restituido por el trabajador mediante imputación a su próximo feriado anual o laborando horas extraordinarias o a través de cualquier forma que convengan libremente las partes. Sin embargo, tratándose de trabajadores regidos por estatutos que contemplen la concesión de días administrativos, primeramente el trabajador deberá hacer uso de ellos, luego podrá imputar el tiempo que debe reponer a su próximo feriado anual o a días administrativos del año siguiente al uso del permiso a que se refiere este artículo, o a horas extraordinarias.
 
 En el evento de no ser posible aplicar dichos mecanismos, se podrá descontar el tiempo equivalente al permiso obtenido de las remuneraciones mensuales del trabajador, en forma de un día por mes, lo que podrá fraccionarse según sea el sistema de pago, o en forma íntegra si el trabajador cesare en su trabajo por cualquier causa.
+
+Iguales derechos y mecanismos de restitución serán aplicables a los padres, a la persona que tenga su cuidado personal o sea cuidador en los términos establecidos en la letra d) del artículo 6º, de la ley Nº 20.422, de un menor con discapacidad, debidamente inscrito en el Registro Nacional de la Discapacidad, o siendo menor de 6 años, con la determinación diagnóstica del médico tratante.
+
+Lo dispuesto en el inciso precedente se aplicará, en iguales términos, tratándose de personas mayores de 18 años con discapacidad mental, por causa psíquica o intelectual, multidéficit o bien presenten dependencia severa.
+
+En todo caso, de la ausencia al trabajo se deberá dar aviso al empleador dentro de las 24 horas siguientes al ejercicio del derecho.
 
 #### Artículo 200
 
