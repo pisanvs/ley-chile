@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.467, de 14 de septiembre de 2011, de esta Subsecretaría, modifícanse los numerales 3º y 4º de la resolución exenta Nº 1.392 de 2011, de esta Subsecretaría de Pesca, que autorizó al CENTRO DE ECOLOGÍA APLICADA LTDA. (CEA) para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo ambiental medio marino Cía. Minera Los Pelambres: Concentración de metales pesados en ejemplares de Concholepas concholepas", en el sentido de ampliar las localidades y especies a investigar, según lo señalado en la resolución extractada.
+
+Valparaíso, 14 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
