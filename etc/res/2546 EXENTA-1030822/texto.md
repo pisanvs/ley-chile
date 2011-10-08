@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.546, de 30 de septiembre de 2011, de esta Subsecretaría, recházanse las solicitudes números 209111343, 209111347, 208111705, 209111361, 210111082 y 209111209, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 30 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
