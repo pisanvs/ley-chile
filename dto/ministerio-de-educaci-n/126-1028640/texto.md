@@ -2,7 +2,7 @@ DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO AL ELTUN O C
 
 Núm. 126.- Santiago, 23 de marzo de 2011.- Considerando:
 
-Que, los señores Pablo Gutiérrez Quiñemil y Valentín Ancan Salas, junto con la señora Bernarda Marican, solicitaron la declaración de Monumento Nacional en la categoría de Monumento Histórico, para el "Eltun" o Cementerio Mapuche, ubicado en la localidad de Los Huape, comuna de Arauco, Región del Maule;
+Que, los señores Pablo Gutiérrez Quiñemil y Valentín Ancan Salas, junto con la señora Bernarda Marican, solicitaron la declaración de Monumento Nacional en la categoría de Monumento Histórico, para el "Eltun" o Cementerio Mapuche, ubicado en la localidad de Los Huape, comuna de Arauco, Región del Biobío;
 
 Que, la solicitud se acogió por unanimidad de los miembros del Consejo de Monumentos Nacionales, durante la sesión celebrada el 12 de agosto de 2009, atendidas las siguientes consideraciones:
 
