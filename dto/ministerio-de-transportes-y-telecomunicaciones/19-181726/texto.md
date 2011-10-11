@@ -4,7 +4,7 @@ Núm. 19.- Santiago, 8 de febrero de 2001.- Visto: Lo dispuesto en los artículo
 
 D e c r e t o:
 
-1. Los vehículos a que se refieren los decretos supremos números 211, de 1991 y 54, de 1994, ambos del Ministerio de Transportes y Telecomunicaciones, que circulen en la Región Metropolitana y que hayan sido inscritos en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación con anterioridad al 1º de septiembre de 1992 o que estén dotados de motor diesel, deberán aprobar un control cuatrimestral de emisión de contaminantes, de acuerdo al calendario siguiente:
+1. Los vehículos a que se refieren los decretos supremos números 211, de 1991 y 54, de 1994, ambos del Ministerio de Transportes y Telecomunicaciones, que circulen en la Región Metropolitana y que hayan sido inscritos en el Registro de Vehículos Motorizados del Servicio de Registro Civil e Identificación con anterioridad al 1º de septiembre de 1992 o que estén dotados de motor diesel y cuyo año de fabricación sea 2004 o anterior, deberán aprobar un control cuatrimestral de emisión de contaminantes, de acuerdo al calendario siguiente:
 
 Ultimo dígito de la Meses en que corresponde
 
