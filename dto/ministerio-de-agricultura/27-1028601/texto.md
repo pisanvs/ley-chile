@@ -14,7 +14,7 @@ Decreto:
 
 2.- Por razones impostergables de buen servicio, el funcionario nombrado precedentemente asumirá sus funciones en la fecha indicada, sin esperar la total tramitación de este decreto.
 
-3.- El presente nombramiento otorga el derecho a percibir los beneficios del Estatuto Administrativo, cuando correspondan y la asignación de alta dirección pública, contemplada en la ley Nº 19.882 y autorizada por decreto con fuerza de ley Nº10, de 2003, del Ministerio de Hacienda, que asciende a un 70% de la suma de las remuneraciones brutas de carácter permanente que le corresponda percibir al señor Aníbal Ariztía Reyes.
+3. El presente nombramiento otorga el derecho a percibir los beneficios del Estatuto Administrativo, cuando correspondan y la asignación de Alta Dirección Pública contemplada en la ley 19.882 y autorizada por el decreto Nº747, de 2009, del Ministerio de Hacienda, que asciende a un 83% de la suma de las remuneraciones brutas de carácter permanente que le corresponda percibir al señor Aníbal Ariztía Reyes.
 
 4.- Declárase que el señor Aníbal Ariztía Reyes deberá rendir la fianza correspondiente.
 
