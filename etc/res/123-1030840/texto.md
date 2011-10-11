@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 123, DE 2011
+
+Por resolución Nº 123, de 9 de mayo de 2011, del Ministerio de Transportes y Telecomunicaciones, se aprueba formato tipo de contrato de concesión de uso de vías de licitación pública de servicios de taxis colectivos en vías de la provincia de Santiago y las comunas de Puente Alto y San Bernardo, proceso 2010. El formato tipo de contrato de concesión que se aprueba, será aplicable a los adjudicatarios de servicios licitados en conformidad a lo resuelto en resolución exenta Nº 3.652, de 2010, publicada en el Diario Oficial de 31 de diciembre de 2010, modificada por la resolución exenta Nº 283, de 2011, publicada en el Diario Oficial de 13 de enero de 2011, que contienen el listado de adjudicación de las propuestas presentadas en el proceso de Licitación de Servicios de Taxis Colectivos en Vías de la provincia de Santiago y las comunas de Puente Alto y San Bernardo, proceso 2010, cuyas bases de licitación fueron aprobadas mediante resolución Nº 67, de 2009, del Ministerio de Transportes y Telecomunicaciones.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
