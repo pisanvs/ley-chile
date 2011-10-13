@@ -30,7 +30,7 @@ d) Evaluar los resultados del proceso de desarrollo regional, provincial y local
 
 e) Velar por la aplicación de los programas que se establezcan para impulsar el desarrollo regional, provincial y local;
 
-f) Participar en las comisiones que determine el Ministro del Interior y servir de contraparte técnica en los proyectos nacionales o internacionales que digan relación con el desarrollo regional, y
+f) Participar en las comisiones que determine el Ministro del Interior y servir de contraparte técnica en los proyectos nacionales o internacionales que digan relación con el desarrollo regional;
 
 g) Ejercer las funciones que realiza el Ministerio del Interior en materias de:
 
@@ -46,7 +46,9 @@ g) Ejercer las funciones que realiza el Ministerio del Interior en materias de:
 
 6.- Diseño, formulación y control de las instrucciones relativas a los presupuestos municipales, y
 
-7.- Ser contraparte en los convenios referidos a recursos para el desarrollo regional, provincial y local que se celebren con instituciones nacionales o internacionales.
+7.- Ser contraparte en los convenios referidos a recursos para el desarrollo regional, provincial y local que se celebren con instituciones nacionales o internacionales, y
+
+h) Velar por la coherencia de los planes y estrategias regionales con las políticas y estrategias nacionales de desarrollo.
 
 #### Artículo 3°
 
