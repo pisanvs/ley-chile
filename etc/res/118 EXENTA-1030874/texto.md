@@ -1,0 +1,9 @@
+DESAFILIA DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 118, de 7 de octubre de 2011, que desafilia del sistema de facturación electrónica a contribuyentes que se señalan.
+
+Téngase por desafiliados del Sistema de Facturación Electrónica, a los contribuyentes RUT Nº 76.845.230-K, RUT Nº 76.493.530-6, RUT Nº 10.973.657-0, RUT Nº 11.845.273-9, RUT Nº 99.596.580-1, RUT Nº 11.472.425-4, RUT Nº 14.154.727-5, RUT Nº 78.510.370-K, RUT Nº 76.102.597-K, RUT Nº 13.668.073-0, RUT Nº 12.901.263-3, RUT Nº 9.865.921-8, RUT Nº 10.395.171-2, RUT Nº 76.585.320-6, RUT Nº 78.570.550-5, RUT Nº 15.401.377-6, RUT Nº 15.543.958-0, RUT Nº 77.743.830-1, RUT Nº 77.947.350-3, RUT Nº 76.015.458-K, RUT Nº 6.087.289-9, RUT Nº 12.688.231-9, RUT Nº 12.670.451-8, RUT Nº 13.663.785-1, RUT Nº 76.012.385-4, RUT Nº 12.042.033-K, RUT Nº 9.005.715-4, RUT Nº 50.545.330-1, RUT Nº 10.367.732-7, RUT Nº 7.037.179-0, RUT Nº 13.597.104-9, RUT Nº 76.053.677-6, RUT Nº 76.262.910-0, RUT Nº 13.683.106-2, RUT Nº 79.848.500-8, RUT Nº 96.824.770-0, RUT Nº 76.763.740-3, RUT Nº 76.006.380-0, RUT Nº 76.088.942-3, RUT Nº 53.311.423-7 y 76.021.955-K.
+
+Téngase por desafiliados del Sistema de Facturación Electrónica, con el fin de incorporarse al sistema de facturación electrónica Portal MIPYME, a los contribuyentes RUT Nº 76.111.282-1, RUT Nº 77.611.470-7, RUT Nº 96.835.550-3 y RUT Nº 76.278.490-4.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de octubre de 2011.
