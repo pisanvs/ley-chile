@@ -102,7 +102,7 @@ El otorgamiento de todo tipo de patentes y permisos municipales en general, esta
 
 #### Artículo 8°
 
-La instalación de pequeños comercios o industrias artesanales o el ejercicio de una actividad profesional, podrá ser aceptada en viviendas siempre que este uso no ocupe una superficie superior al 20% del total de la vivienda y cumpla con el uso de suelo del sector.
+La instalación de pequeños comercios o industrias artesanales o el ejercicio de una actividad profesional, podrá ser aceptada en viviendas siempre que este uso no ocupe una superficie superior al 50% del total de la vivienda y cumpla con el uso de suelo del sector.
 
 La patente que se otorgue, de acuerdo al inciso anterior, no autoriza para vender directamente al público productos elaborados, salvo cuando se trate de viviendas unifamiliares y cumpla con el uso de suelo del sector. La publicidad que se instale deberá conformarse a la Ordenanza especial sobre la materia.
 
