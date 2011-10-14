@@ -1,0 +1,3 @@
+Por resolución Nº 2.437, de 12 de septiembre de 2011, de esta Subsecretaría, autorízase a FRANCISCO ALBERTO CHÁVEZ CATEPILLÁN para realizar actividades de colecta de semillas, por seis meses contados desde el 1º de noviembre de 2011, con superficie y coordenadas geográficas señaladas en la resolución extractada.
+
+Valparaíso, 12 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
