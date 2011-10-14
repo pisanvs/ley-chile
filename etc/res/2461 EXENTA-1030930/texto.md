@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.461, de 12 de septiembre de 2011, de esta Subsecretaría, autorízase a COMERCIAL PANAMERICANA S.A. para realizar actividades de acuicultura experimental sobre la especie Abalón rojo, cuyo objetivo general es identificar y conocer grado de impacto por agentes colonizadores marinos sobre conchas de Abalón en cultivo suspendido, en la X Región.
+
+Las actividades se desarrollarán por 48 meses desde la fecha de esta resolución, en la concesión de acuicultura transferida por resolución Nº 816 de 2008, de Subsecretaría de Marina, a su actual titular Agrícola y Pesquera Altamira Limitada, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico citado en Visto y en la resolución extractada.
+
+Valparaíso, 12 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
