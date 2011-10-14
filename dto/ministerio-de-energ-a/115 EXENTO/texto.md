@@ -568,61 +568,71 @@ nueva línea en 500 kV, entre la Subestación
 
 Cardones y la Subestación Maitencillo, de una
 
-longitud aproximada de 132,4 km, en estructuras
+longitud aproximada de 132,4 km, en
 
-para doble circuito, con una capacidad de 1.500
+estructuras para doble circuito, con una
 
-MVA. El proyecto incluye los paños de línea en
+capacidad de 1.500 MVA. El proyecto incluye
 
-ambos extremos de la línea.
+los paños de línea en ambos extremos de
+
+la línea.
 
 Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad térmica, reactores de línea,
+tales como capacidad térmica, reactores de
 
-cable de guardia, compensación serie y enlace
+línea, cable de guardia, compensación serie y
 
-con las subestaciones existentes, entre otras.
+enlace con las subestaciones existentes,
+
+entre otras.
 
 1.1.2 Paños de conexión
 
 Para la conexión de la línea se deberán
 
-considerar paños de conexión para cada circuito.
+considerar paños de conexión para cada
 
-En el caso del lado Maitencillo, la línea se
+circuito.
 
-deberá conectar a las diagonales que serán
+En el caso del lado Maitencillo,
 
-instaladas en dicho lugar. En el lado Cardones,
+la línea se deberá conectar a las diagonales
 
-el proyecto contempla la construcción de
+que serán instaladas en dicho lugar. En el
 
-diagonales en 500 kV, sus barras principales en
+lado Cardones, el proyecto contempla la
 
-500 kV y reactores de las líneas.
+construcción de diagonales en 500 kV, sus
+
+barras principales en 500 kV y reactores de
+
+las líneas.
 
 Adicionalmente, se deberá dejar el espacio
 
-suficiente para alojar la futura transformación
+suficiente para alojar la futura
 
-500/220 kV y ampliaciones en 500 kV y 220 kV,
+transformación 500/220 kV y ampliaciones en
 
-entre otros.
+500 kV y 220 kV, entre otros.
 
-Las diagonales de conexión y barras de 500 kV en
+Las diagonales de conexión y barras de 500 kV
 
-el lado Cardones, serán construidas en una zona
+en el lado Cardones, serán construidas en una
 
-cercana a esa subestación, la cual será definida
+zona cercana a esa subestación, la cual será
 
-en las respectivas bases de licitación.
+definida en las respectivas bases de
+
+licitación.
 
 1.1.3 Equipos de alta tensión
 
@@ -632,27 +642,29 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería básica
 
-exigencias del sistema en estos nudos.
+según sean las exigencias del sistema en
+
+estos nudos.
 
 1.1.4 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 60 meses
+operación, a más tardar, dentro de los 60
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.1.5 Valor de inversión (V.I.) y costo de operación,
+1.1.5 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 79,32
 
@@ -660,11 +672,11 @@ millones de dólares, moneda de los Estados
 
 Unidos de América. El COMA referencial se
 
-establece en 1,14 millones de dólares (1,4 % del
+establece en 1,14 millones de dólares (1,4 %
 
-V.I. referencial), moneda de los Estados Unidos
+del V.I. referencial), moneda de los Estados
 
-de América.
+Unidos de América.
 
 1.2 Nueva Línea Maitencillo - Pan de Azúcar 2x500 kV
 
@@ -674,69 +686,81 @@ Esta obra consiste en la construcción de una
 
 nueva línea en 500 kV entre la Subestación
 
-Maitencillo y la Subestación Pan de Azúcar, de
+Maitencillo y la Subestación Pan de Azúcar,
 
-una longitud aproximada de 209,2 km, en
+de una longitud aproximada de 209,2 km, en
 
 estructuras para doble circuito, con una
 
-capacidad de 1.500 MVA. El proyecto incluye los
+capacidad de 1.500 MVA. El proyecto incluye
 
-paños de línea en ambos extremos de la línea.
+los paños de línea en ambos extremos de la
+
+línea.
 
 Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad térmica, reactores de línea,
+tales como capacidad térmica, reactores de
 
-cable de guardia, compensación serie y enlace
+línea, cable de guardia, compensación serie
 
-con las subestaciones existentes, entre otras.
+y enlace con las subestaciones existentes,
+
+entre otras.
 
 1.2.2 Paños de conexión
 
 Para la conexión de la línea se deberán
 
-considerar paños de conexión para cada circuito.
+considerar paños de conexión para cada
+
+circuito.
 
 En el caso del lado Pan de Azúcar, la línea se
 
 deberá conectar a las diagonales que serán
 
-instaladas en dicho lugar, además de considerar
+instaladas en dicho lugar, además de
 
-los reactores de la línea y la compensación
+considerar los reactores de la línea y la
 
-serie hacia Maitencillo. En el lado Maitencillo,
+compensación serie hacia Maitencillo. En el
 
-el proyecto contempla la construcción de
+lado Maitencillo, el proyecto contempla la
 
-diagonales en 500 kV, sus barras principales en
+construcción de diagonales en 500 kV, sus
 
-500 kV, reactores de las líneas, y el espacio
+barras principales en 500 kV, reactores de
 
-suficiente para alojar la futura transformación
+las líneas, y el espacio suficiente para
+
+alojar la futura transformación
 
 500/220 kV junto con espacio para bancos de
 
 condensadores estáticos. Adicionalmente se
 
-deberá dejar el espacio suficiente para futuras
+deberá dejar el espacio suficiente para
 
-ampliaciones en 500 kV y 220 kV, entre otros.
+futuras ampliaciones en 500 kV y 220 kV,
 
-Las diagonales de conexión y las barras de 500
+entre otros.
 
-kV en el lado Maitencillo, serán construidas en
+Las diagonales de conexión y las barras de
 
-una zona cercana a esa subestación, la cual será
+500 kV en el lado Maitencillo, serán
 
-definida en la respectiva base de licitación.
+construidas en una zona cercana a esa
+
+subestación, la cual será definida en la
+
+respectiva base de licitación.
 
 1.2.3 Equipos de alta tensión
 
@@ -746,27 +770,29 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería básica
 
-exigencias del sistema en estos nudos.
+según sean las exigencias del sistema en
+
+estos nudos.
 
 1.2.4 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 60 meses
+operación, a más tardar, dentro de los 60
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.2.5 Valor de inversión (V.I.) y costo de operación,
+1.2.5 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 130,11
 
@@ -774,11 +800,11 @@ millones de dólares, moneda de los Estados
 
 Unidos de América. El COMA referencial se
 
-establece en 2,05 millones de dólares (1,57% del
+establece en 2,05 millones de dólares (1,57%
 
-V.I. referencial), moneda de los Estados Unidos
+del V.I. referencial), moneda de los Estados
 
-de América.
+Unidos de América.
 
 1.3 Nueva Línea Pan de Azúcar – Polpaico 2x500 kV
 
@@ -786,79 +812,91 @@ de América.
 
 Esta obra consiste en la construcción de una
 
-nueva línea en 500 kV entre la Subestación Pan
+nueva línea en 500 kV entre la Subestación
 
-de Azúcar y la Subestación Polpaico, de una
+Pan de Azúcar y la Subestación Polpaico, de
 
-longitud aproximada de 401,8 km, en estructuras
+una longitud aproximada de 401,8 km, en
 
-para doble circuito, con una capacidad de 1.500
+estructuras para doble circuito, con una
 
-MVA. El proyecto incluye los paños de línea en
+capacidad de 1.500 MVA. El proyecto incluye
 
-ambos extremos de la línea.
+los paños de línea en ambos extremos de la
+
+línea.
 
 Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad térmica, reactores de línea,
+tales como capacidad térmica, reactores de
 
-cable de guardia, compensación serie y enlace
+línea, cable de guardia, compensación serie
 
-con las subestaciones existentes, entre otras.
+y enlace con las subestaciones existentes,
+
+entre otras.
 
 1.3.2 Paños de conexión
 
 Para la conexión de la línea se deberán
 
-considerar paños de conexión para cada circuito.
+considerar paños de conexión para cada
 
-En el caso de la Subestación Polpaico, los paños
+circuito.
 
-a instalar deberán ser acordes con la
+En el caso de la Subestación Polpaico, los
+
+paños a instalar deberán ser acordes con la
 
 configuración de barras de esa subestación,
 
 incluyendo además la instalación de los
 
-reactores de la línea en esa subestación. Para
+reactores de la línea en esa subestación.
 
-el caso del extremo Pan de Azúcar, el proyecto
+Para el caso del extremo Pan de Azúcar, el
 
-contempla la construcción de diagonales en 500
+proyecto contempla la construcción de
 
-kV, sus barras principales en 500 kV,
+diagonales en 500 kV, sus barras principales
 
-construcción de las compensaciones series de las
+en 500 kV, construcción de las compensaciones
 
-líneas hacia Polpaico, reactores de las líneas y
+series de las líneas hacia Polpaico,
 
-el espacio suficiente para alojar la futura
+reactores de las líneas y el espacio
 
-transformación 500/220 kV junto con el espacio
+suficiente para alojar la futura
 
-para bancos de condensadores estáticos.
+transformación 500/220 kV junto con el
+
+espacio para bancos de condensadores
+
+estáticos.
 
 Adicionalmente, se deberá dejar el espacio
 
 suficiente para la compensación serie de las
 
-líneas hacia Maitencillo y futuras ampliaciones
+líneas hacia Maitencillo y futuras
 
-en 500 kV y 220 kV, entre otros.
+ampliaciones en 500 kV y 220 kV, entre otros.
 
-Las diagonales de conexión y barras en 500 kV en
+Las diagonales de conexión y barras en 500 kV
 
-el lado Pan de Azúcar, serán construidas en una
+en el lado Pan de Azúcar, serán construidas
 
-zona cercana a esa subestación, la cual será
+en una zona cercana a esa subestación, la cual
 
-definida en la respectiva base de licitación.
+será definida en la respectiva base de
+
+licitación.
 
 1.3.3 Equipos de alta tensión
 
@@ -868,27 +906,29 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería básica
 
-exigencias del sistema en estos nudos.
+según sean las exigencias del sistema en
+
+estos nudos.
 
 1.3.4 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 60 meses
+operación, a más tardar, dentro de los 60
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.3.5 Valor de inversión (V.I.) y costo de operación,
+1.3.5 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 280
 
@@ -896,13 +936,17 @@ millones de dólares, moneda de los Estados
 
 Unidos de América.
 
-El COMA referencial se establece en 4,2 millones
+El COMA referencial se establece en 4,2
 
-de dólares (1,5 % del V.I. referencial), moneda
+millones de dólares (1,5 % del V.I.
 
-de los Estados Unidos de América.
+referencial), monedade los Estados Unidos
 
-1.4 Nueva Línea 2x500 Charrúa-Ancoa: tendido del primer circuito
+de América.
+
+1.4 Nueva Línea 2x500 Charrúa-Ancoa: tendido del primer
+
+circuito
 
 1.4.1 Descripción general y ubicación de la obra
 
@@ -910,91 +954,15 @@ Esta obra consiste en la construcción de una
 
 nueva línea en 500 kV entre la Subestación
 
-Charrúa y la Subestación Ancoa, de una longitud
+Charrúa y la Subestación Ancoa, de una
 
-aproximada de 196,5 km, en estructuras para
+longitud aproximada de 196,5 km, en
 
-doble circuito, considerando en una primera fase
+estructuras para doble circuito, considerando
 
-el tendido de sólo un circuito, con una
+en una primera fase el tendido de sólo un
 
-capacidad de 1.400 MVA. El proyecto incluye los
-
-paños de línea en ambos extremos de la línea.
-
-Las respectivas bases de licitación podrán
-
-detallar y definir los requisitos mínimos con
-
-los cuales deberá cumplir el proyecto, y que no
-
-se han indicado en el presente artículo, tales
-
-como capacidad térmica, reactores de línea,
-
-cable de guardia y compensación serie, entre
-
-otras.
-
-1.4.2 Equipos de alta tensión
-
-Los equipos serán especificados de acuerdo al
-
-nivel de aislamiento, nivel de cortocircuito,
-
-grado de contaminación, tipo de servicio y su
-
-instalación. Las características se establecerán
-
-en el nivel de ingeniería básica según sean las
-
-exigencias del sistema en estos nudos.
-
-1.4.3 Entrada en operación
-
-El proyecto deberá ser construido y entrar en
-
-operación, a más tardar, dentro de los 60 meses
-
-siguientes a la fecha de adjudicación de la
-
-licitación respectiva.
-
-1.4.4 Valor de inversión (V.I.) y costo de operación,
-
-mantenimiento y administración (COMA)
-
-referenciales
-
-El V.I. referencial del proyecto es de 140,4
-
-millones de dólares, moneda de los Estados
-
-Unidos de América. El COMA referencial se
-
-establece en 2,02 millones de dólares (1,4 % del
-
-V.I. referencial), moneda de los Estados Unidos
-
-de América.
-
-1.5 Nueva Línea 2x220 Ciruelos-Pichirropulli: tendido del primer circuito
-
-1.5.1 Descripción general y ubicación de la obra
-
-Esta obra consiste en la construcción de una
-
-nueva línea en 220 kV entre la Subestación
-
-Ciruelos y la futura Subestación Pichirropulli,
-
-de una longitud aproximada de 83,0 km, en
-
-estructuras para doble circuito, considerando en
-
-una primera fase el tendido de solo un circuito;
-
-con una capacidad nominal de 290 MVA. El
+circuito, con una capacidad de 1.400 MVA. El
 
 proyecto incluye los paños de línea en ambos
 
@@ -1004,39 +972,127 @@ Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad térmica, reactores de línea,
+tales como capacidad térmica, reactores de
 
-cable de guardia y enlace con las subestaciones
+línea, cable de guardia y compensación serie,
 
-existentes, entre otras.
+entre otras.
+
+1.4.2 Equipos de alta tensión
+
+Los equipos serán especificados de acuerdo al
+
+nivel de aislamiento, nivel de cortocircuito,
+
+grado de contaminación, tipo de servicio y su
+
+instalación. Las características se
+
+establecerán en el nivel de ingeniería básica
+
+según sean las exigencias del sistema en estos
+
+nudos.
+
+1.4.3 Entrada en operación
+
+El proyecto deberá ser construido y entrar en
+
+operación, a más tardar, dentro de los 60
+
+meses siguientes a la fecha de adjudicación
+
+de la licitación respectiva.
+
+1.4.4 Valor de inversión (V.I.) y costo de
+
+operación, mantenimiento y administración
+
+(COMA) referenciales
+
+El V.I. referencial del proyecto es de 140,4
+
+millones de dólares, moneda de los Estados
+
+Unidos de América. El COMA referencial se
+
+establece en 2,02 millones de dólares (1,4 %
+
+del V.I. referencial), moneda de los Estados
+
+Unidos de América.
+
+1.5 Nueva Línea 2x220 Ciruelos-Pichirropulli: tendido del
+
+primer circuito
+
+1.5.1 Descripción general y ubicación de la obra
+
+Esta obra consiste en la construcción de una
+
+nueva línea en 220 kV entre la Subestación
+
+Ciruelos y la futura Subestación
+
+Pichirropulli, de una longitud aproximada
+
+de 83,0 km, en estructuras para doble
+
+circuito, considerando
+
+en una primera fase el tendido de solo un
+
+circuito; con una capacidad nominal de 290
+
+MVA. El proyecto incluye los paños de línea
+
+en ambos extremos de la línea.
+
+Las respectivas bases de licitación podrán
+
+detallar y definir los requisitos mínimos con
+
+los cuales deberá cumplir el proyecto, y que
+
+no se han indicado en el presente artículo,
+
+tales como capacidad térmica, reactores de
+
+línea, cable de guardia y enlace con las
+
+subestaciones existentes, entre otras.
 
 1.5.2 Paños de conexión
 
 Para la conexión de la línea se deberán
 
-considerar paños de conexión para cada circuito.
+considerar paños de conexión para cada
 
-En el caso de la Subestación Ciruelos, los paños
+circuito.
 
-a instalar deberán ser acordes con la
+En el caso de la Subestación Ciruelos, los
 
-configuración de barras de esa subestación y su
+paños a instalar deberán ser acordes con la
 
-proyecto de ampliación. Para el caso del extremo
+configuración de barras de esa subestación y
 
-Pichirropulli, el proyecto contempla la
+su proyecto de ampliación. Para el caso del
 
-construcción de los respectivos paños de
+extremo Pichirropulli, el proyecto contempla
 
-conexión en la nueva subestación seccionadora,
+la construcción de los respectivos paños de
 
-cuya zona de emplazamiento será definida en la
+conexión en la nueva subestación
 
-respectiva base de licitación.
+seccionadora, cuya zona de emplazamiento
+
+será definida en la respectiva base de
+
+licitación.
 
 1.5.3 Equipos de alta tensión
 
@@ -1046,27 +1102,29 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería básica
 
-exigencias del sistema en estos nudos.
+según sean las exigencias del sistema en
+
+estos nudos.
 
 1.5.4 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 66 meses
+operación, a más tardar, dentro de los 66
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.5.5 Valor de inversión (V.I.) y costo de operación,
+1.5.5 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 45,49
 
@@ -1086,41 +1144,43 @@ América.
 
 El proyecto consiste en la construcción de la
 
-subestación seccionadora Lo Aguirre 500/220 kV,
+subestación seccionadora Lo Aguirre 500/220
 
-banco de 4 autotransformadores monofásicos de
+kV, banco de 4 autotransformadores
 
-500/?(3) : 220/ ?(3) kV 1.000 MVA totales, con
+monofásicos de 500/?(3) : 220/ ?(3) kV 1.000
 
-espacio para disponer en el futuro una segunda
+MVA totales, con espacio para disponer en el
 
-transformación 500/220 kV. Para ello se
+futuro una segunda transformación 500/220 kV.
 
-considera el seccionamiento de uno de los
+Para ello se considera el seccionamiento de
 
-circuitos de la línea de 500 kV Alto Jahuel –
+uno de los circuitos de la línea de 500 kV
 
-Polpaico y el seccionamiento completo de la
+Alto Jahuel – Polpaico y el seccionamiento
 
-actual línea de 220 kV Rapel – Cerro Navia en la
+completo de la actual línea de 220 kV Rapel
 
-barra de 220 kV de la nueva subestación. La
+– Cerro Navia en la barra de 220 kV de la
 
-subestación seccionadora se emplazará cercana al
+nueva subestación. La subestación
 
-cruce de las líneas Alto Jahuel – Polpaico 500
+seccionadora se emplazará cercana al
 
-kV y Rapel – Cerro Navia 220 kV.
+cruce de las líneas Alto Jahuel – Polpaico
+
+500 kV y Rapel – Cerro Navia 220 kV.
 
 Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad, reactores, equipos de
+tales como capacidad, reactores, equipos de
 
 compensación reactiva, entre otras.
 
@@ -1128,17 +1188,19 @@ compensación reactiva, entre otras.
 
 La subestación contará, en una primera etapa,
 
-con dos patios principales, uno de 500 kV y otro
+con dos patios principales, uno de 500 kV y
 
-de 220 kV, en configuración interruptor y medio
+otro de 220 kV, en configuración interruptor
 
-o doble barra con barra de transferencia.
+y medio o doble barra con barra de
+
+transferencia.
 
 Adicionalmente, el proyecto incluye el espacio
 
-adicional para las futuras ampliaciones tanto en
+adicional para las futuras ampliaciones tanto
 
-500 kV como en 220 kV.
+en 500 kV como en 220 kV.
 
 1.6.3 Equipos de alta tensión
 
@@ -1148,27 +1210,29 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería básica
 
-exigencias del sistema en este nudo.
+según sean las exigencias del sistema en este
+
+nudo.
 
 1.6.4 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 36 meses
+operación, a más tardar, dentro de los 36
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.6.5 Valor de inversión (V.I.) y costo de operación,
+1.6.5 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 69,02
 
@@ -1188,21 +1252,21 @@ América.
 
 El proyecto consiste en la instalación de un
 
-equipo de compensación estática de reactivos en
+equipo de compensación estática de reactivos
 
-la subestación Cardones, conectado al sistema de
+en la subestación Cardones, conectado al
 
-220 kV mediante la instalación de un paño de
+sistema de 220 kV mediante la instalación
 
-conexión de 220 kV.
+de un paño de conexión de 220 kV.
 
-Las características generales del CER son las
+Las características generales del CER son
 
-siguientes:
+las siguientes:
 
-- Compensación Estática de Reactivos: 100/-60
+- Compensación Estática de Reactivos:
 
-MVAr en 220 kV.
+100/-60 MVAr en 220 kV.
 
 - Paño de Conexión en 220 kV.
 
@@ -1214,9 +1278,9 @@ Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto y que no
+los cuales deberá cumplir el proyecto y que
 
-se han indicado en el presente artículo.
+no se han indicado en el presente artículo.
 
 1.7.2 Equipos de alta tensión
 
@@ -1226,9 +1290,11 @@ nivel de aislamiento, nivel de cortocircuito,
 
 grado de contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería
+
+básica según sean las
 
 exigencias del sistema en este nudo.
 
@@ -1236,17 +1302,17 @@ exigencias del sistema en este nudo.
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 18 meses
+operación, a más tardar, dentro de los 24
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.7.4 Valor de inversión (V.I.) y costo de operación,
+1.7.4 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 20,7
 
@@ -1264,37 +1330,37 @@ América.
 
 1.8.1 Descripción general y ubicación de la obra
 
-El proyecto consiste en la construcción de una
+El proyecto consiste en la construcción de
 
-nueva línea en 220 kV, de una longitud
+una nueva línea en 220 kV, de una longitud
 
-aproximada de 152 km, en estructuras para doble
+aproximada de 152 km, en estructuras para
 
-circuito, con el tendido de un solo circuito, y
+doble circuito, con el tendido de un solo
 
-una capacidad máxima nominal de 290 MVA, entre
+circuito, y una capacidad máxima nominal de
 
-las subestaciones Cardones y Diego de Almagro,
+290 MVA, entre las subestaciones Cardones y
 
-ubicadas en la Región de Atacama. El proyecto
+Diego de Almagro, ubicadas en la Región de
 
-incluye los paños de línea en ambos extremos de
+Atacama. El proyecto incluye los paños de
 
-la línea.
+línea en ambos extremos de la línea.
 
 Las respectivas bases de licitación podrán
 
 detallar y definir los requisitos mínimos con
 
-los cuales deberá cumplir el proyecto, y que no
+los cuales deberá cumplir el proyecto, y que
 
-se han indicado en el presente artículo, tales
+no se han indicado en el presente artículo,
 
-como capacidad térmica, reactores de línea,
+tales como capacidad térmica, reactores de
 
-cable de guardia y enlace con las subestaciones
+línea, cable de guardia y enlace con las
 
-existentes, entre otras.
+subestaciones existentes, entre otras.
 
 1.8.2 Equipos de alta tensión
 
@@ -1306,27 +1372,29 @@ aislamiento, nivel de cortocircuito, grado de
 
 contaminación, tipo de servicio y su
 
-instalación. Las características se establecerán
+instalación. Las características se
 
-en el nivel de ingeniería básica según sean las
+establecerán en el nivel de ingeniería
 
-exigencias del sistema en este tramo.
+básica según sean las exigencias del sistema
+
+en este tramo.
 
 1.8.3 Entrada en operación
 
 El proyecto deberá ser construido y entrar en
 
-operación, a más tardar, dentro de los 60 meses
+operación, a más tardar, dentro de los 60
 
-siguientes a la fecha de adjudicación de la
+meses siguientes a la fecha de adjudicación
 
-licitación respectiva.
+de la licitación respectiva.
 
-1.8.4 Valor de inversión (V.I.) y costo de operación,
+1.8.4 Valor de inversión (V.I.) y costo de
 
-mantenimiento y administración (COMA)
+operación, mantenimiento y administración
 
-referenciales
+(COMA) referenciales
 
 El V.I. referencial del proyecto es de 37,0
 
@@ -1414,9 +1482,9 @@ Cobre, en USc/Lb.
 
 Los valores base para los índices antes definidos, corresponden a los que a continuación se indican:
 
-Los coeficientes α y β1 a β4 de la fórmula señalada, para
+Los coeficientes α y β1 a β4 de la fórmula señalada,
 
-las obras nuevas son los sigueintes:
+para las obras nuevas son los sigueintes:
 
 3. CONDICIONES Y TÉRMINOS PARA LA LICITACIÓN, EJECUCIÓN Y EXPLOTACIÓN DE LAS OBRAS NUEVAS
 
@@ -1426,27 +1494,29 @@ las obras nuevas son los sigueintes:
 
 licitaciones
 
-Las bases técnicas y administrativas del proceso
+Las bases técnicas y administrativas del
 
-de licitación, en adelante e indistintamente,
+proceso de licitación, en adelante e
 
-las "Bases", de las obras nuevas que se
+indistintamente, las "Bases", de las obras
 
-establecen en el presente decreto, serán
+nuevas que se establecen en el presente
 
-elaboradas por la Comisión y corresponderá a la
+decreto, serán elaboradas por la Comisión y
 
-Dirección de Peajes del CDEC-SIC, en adelante e
+corresponderá a la Dirección de Peajes del
 
-indistintamente, la "DP", llevar a cabo el
+CDEC-SIC, en adelante e indistintamente,
 
-proceso de licitación en todas sus etapas,
+la "DP", llevar a cabo el proceso de
 
-debiendo ambas instituciones ajustarse para ello
+licitación en todas sus etapas, debiendo
 
-a lo establecido en la Ley y a lo dispuesto en
+ambas instituciones ajustarse para ello
 
-el presente decreto.
+a lo establecido en la Ley y a lo dispuesto
+
+en el presente decreto.
 
 Las Bases regularán el desarrollo de todo el
 
@@ -1456,9 +1526,9 @@ proyectos, esto es, desde el llamado, la
 
 adjudicación, la ejecución y hasta que los
 
-proyectos estén en condiciones de operar en el
+proyectos estén en condiciones de operar en
 
-sistema eléctrico de transmisión troncal,
+el sistema eléctrico de transmisión troncal,
 
 conforme al artículo 7º de la Ley.
 
@@ -1466,11 +1536,11 @@ En todas las etapas de los procesos de
 
 licitación se deberá resguardar su
 
-transparencia, el cumplimiento del principio de
+transparencia, el cumplimiento del principio
 
-estricta sujeción a las Bases y de igualdad
+de estricta sujeción a las Bases y de
 
-entre los proponentes.
+igualdad entre los proponentes.
 
 3.1.2 Plazos de los procesos de licitación
 
@@ -1484,17 +1554,17 @@ Bases. Asimismo, copia de los llamados a
 
 licitación serán publicados también en los
 
-sitios de dominio electrónico del CDEC-SIC y de
+sitios de dominio electrónico del CDEC-SIC y
 
-la Comisión. Los plazos a considerar para los
+de la Comisión. Los plazos a considerar para
 
-procesos de licitación serán los siguientes,
+los procesos de licitación serán los
 
-expresados en días corridos.
+siguientes, expresados en días corridos.
 
-a) Plazo para el llamado a licitación: a más
+a) Plazo para el llamado a licitación:
 
-tardar 30 días contados desde la
+a más tardar 30 días contados desde la
 
 publicación del presente decreto en el
 
@@ -1502,15 +1572,9 @@ Diario Oficial.
 
 b) Plazo para la adjudicación: a más tardar
 
-240 días contados desde el inicio del
+360 días contados desde el inicio del
 
-Proceso de Licitación, para todas las
-
-obras, a excepción de la obra "Instalación
-
-de un CER en Subestación Cardones", para la
-
-que se dispondrá de 180 días. En todo caso,
+Proceso de Licitación. En todo caso,
 
 la adjudicación deberá realizarse en un
 
@@ -1518,23 +1582,25 @@ plazo no superior a 60 días de recibidas
 
 las propuestas.
 
-c) Plazo de inicio de las obras: a más tardar
+c) Plazo de inicio de las obras: a más
 
-30 días contados desde la publicación en el
+tardar 30 días contados desde la
 
-Diario Oficial del respectivo decreto de
+publicación en el Diario Oficial del
 
-adjudicación que establece el artículo 97°
+respectivo decreto de adjudicación que
+
+establece el artículo 97°
 
 de la Ley.
 
-d) Plazo para la entrada en operación de los
+d) Plazo para la entrada en operación de
 
-proyectos: a más tardar el último día del
+los proyectos: a más tardar el último
 
-mes del plazo indicado en el numeral 1 del
+día del mes del plazo indicado en el
 
-presente artículo.
+numeral 1 del presente artículo.
 
 La DP podrá convocar en forma simultánea la
 
@@ -1542,93 +1608,93 @@ licitación de dos o más proyectos. Las Bases
 
 respectivas establecerán los requisitos
 
-necesarios, los plazos de entrega y modalidad de
+necesarios, los plazos de entrega y modalidad
 
-presentación de las ofertas administrativas y de
+de presentación de las ofertas
 
-las ofertas técnicas y económicas
+administrativas y de las ofertas técnicas y
 
-correspondientes, de manera tal que cada
+económicas correspondientes, de manera tal
 
-oferente pueda presentar una oferta
+que cada oferente pueda presentar una oferta
 
-administrativa independientemente del número de
+administrativa independientemente del número
 
-proyectos al que presente propuestas.
+de proyectos al que presente propuestas.
 
 En caso que alguno de los plazos anteriores
 
-terminen en un día no hábil, entendiendo por tal
+terminen en un día no hábil, entendiendo por
 
-un sábado, domingo o festivo, el correspondiente
+tal un sábado, domingo o festivo, el
 
-plazo se entenderá prorrogado hasta el día hábil
+correspondiente plazo se entenderá prorrogado
 
-inmediatamente siguiente.
+hasta el día hábil inmediatamente siguiente.
 
 3.1.3 Financiamiento de los procesos de licitación
 
-Se podrá estipular en el llamado la exigencia de
+Se podrá estipular en el llamado la exigencia
 
-adquirir las Bases por una suma determinada, al
+de adquirir las Bases por una suma
 
-precio que se fije en éstas, y que será
+determinada, al precio que se fije en éstas,
 
-recaudado por la DP. Dicho precio se restará de
+y que será recaudado por la DP. Dicho precio
 
-los costos de las licitaciones, a efectos de
+se restará de los costos de las licitaciones,
 
-aplicar lo dispuesto en el inciso primero del
+a efectos de aplicar lo dispuesto en el
 
-#### Artículo 96°
+inciso primero del artículo 96° de la Ley.
 
-de la Ley.
+Para efectos del financiamiento de los
 
-Para efectos del financiamiento de los procesos
+procesos
 
 de licitación y para dar cumplimiento al
 
 #### Artículo 96°
 
-de la Ley, la DP deberá llevar una
+de la Ley, la DP deberá llevar
 
-contabilidad detallada de los gastos en que
+una contabilidad detallada de los gastos en
 
-incurra con motivo de las mismas, y de los
+que incurra con motivo de las mismas, y de
 
-ingresos que pudiera tener derivados de la venta
+los ingresos que pudiera tener derivados de
 
-de las Bases.
+la venta de las Bases.
 
 Las Bases establecerán los criterios y
 
-consideraciones para aplicar el artículo 96° de
+consideraciones para aplicar el artículo 96°
 
-la Ley, respecto de las prorratas para el pago
+de la Ley, respecto de las prorratas para el
 
-de los costos de los procesos de licitación y
+pago de los costos de los procesos de
 
-las funciones de la DP, en el procedimiento
+licitación y las funciones de la DP, en el
 
-respectivo.
+procedimiento respectivo.
 
 Se comprenderán dentro de los costos de las
 
-licitaciones a ser financiadas por los usuarios
+licitaciones a ser financiadas por los
 
-de los proyectos, el costo de las auditorías de
+usuarios de los proyectos, el costo de las
 
-la ejecución de los mismos, el que se
+auditorías de la ejecución de los mismos,
 
-especificará en las Bases.
+el que se especificará en las Bases.
 
-La DP, para la contratación de estas auditorías,
+La DP, para la contratación de estas
 
-deberá llamar a licitaciones públicas o
+auditorías, deberá llamar a licitaciones
 
-privadas, las que serán auditables por la
+públicas o privadas, las que serán auditables
 
-Superintendencia.
+por la Superintendencia.
 
 3.2 De los proponentes
 
@@ -1658,9 +1724,9 @@ requisito en caso de resultar adjudicados.
 
 Las Bases podrán requerir del proponente la
 
-suscripción de una promesa u otro instrumento en
+suscripción de una promesa u otro instrumento
 
-que conste y garantice su obligación de
+en que conste y garantice su obligación de
 
 constituir la sociedad señalada en el párrafo
 
@@ -1668,101 +1734,107 @@ precedente, sujeta a la condición de
 
 adjudicación que sea otorgada por la DP.
 
-Respecto de los proyectos "Nueva Línea Cardones-
+Respecto de los proyectos "Nueva Línea
 
-Maitencillo 2x500 kV", "Nueva Línea Maitencillo-
+Cardones-Maitencillo 2x500 kV", "Nueva Línea
 
-Pan de Azúcar 2x500 kV" y "Nueva Línea Pan de
+Maitencillo-Pan de Azúcar 2x500 kV" y "Nueva
 
-Azúcar – Polpaico 2x500 kV", las bases de
+Línea Pan de Azúcar – Polpaico 2x500 kV", las
 
-licitación deberán establecer su adjudicación
+bases de licitación deberán establecer su
 
-conjunta, dándole el tratamiento de proyecto
+adjudicación conjunta, dándole el tratamiento
 
-único.
+de proyecto único.
 
 3.2.2 De los consorcios
 
-Las Bases podrán contemplar la participación de
+Las Bases podrán contemplar la participación
 
-consorcios de dos o más empresas en las
+de consorcios de dos o más empresas en las
 
 licitaciones. A este efecto, las Bases
 
-requerirán que el acuerdo de las empresas para
+requerirán que el acuerdo de las empresas
 
-conformar un consorcio en los procesos de
+para conformar un consorcio en los procesos
 
-licitación conste al menos por escrito y ante
+de licitación conste al menos por escrito y
 
-notario público, y sea acompañado junto a los
+ante notario público, y sea acompañado junto
 
-demás antecedentes administrativos de su
+a los demás antecedentes administrativos de
 
-propuesta.
+su propuesta.
 
-Las Bases especificarán los demás documentos que
+Las Bases especificarán los demás documentos
 
-acompañarán las empresas asociadas en consorcio,
+que acompañarán las empresas asociadas en
 
-procurando que exista la debida proporcionalidad
+consorcio, procurando que exista la debida
 
-entre las exigencias requeridas a las empresas
+proporcionalidad entre las exigencias
 
-asociadas en consorcio con las que no lo estén.
+requeridas a las empresas asociadas en
 
-Los consorcios deberán cumplir, en el caso que
+consorcio con las que no lo estén.
 
-se les adjudique un proyecto, con la obligación
+Los consorcios deberán cumplir, en el caso
 
-de constituirse como sociedad anónima abierta
+que se les adjudique un proyecto, con la
 
-con giro exclusivo de transmisión o transporte
+obligación de constituirse como sociedad
+
+anónima abierta con giro exclusivo de
+
+transmisión o transporte
 
 de energía eléctrica.
 
 Las Bases establecerán que los consorcios
 
-deberán suscribir una promesa u otro instrumento
+deberán suscribir una promesa u otro
 
-en que conste su obligación de constituir la
+instrumento en que conste su obligación de
 
-sociedad señalada en el párrafo precedente,
+constituir la sociedad señalada en el
 
-sujeta a la condición de adjudicársele la
+párrafo precedente, sujeta a la condición
 
-licitación.
+de adjudicársele la licitación.
 
 3.2.3 Marco normativo de los procesos de licitación
 
-Las licitaciones deberán ajustarse especialmente
+Las licitaciones deberán ajustarse
 
-a lo dispuesto en la Ley, en la Ley Nº 18.410
+especialmente a lo dispuesto en la Ley, en la
 
-que crea la Superintendencia de Electricidad y
+Ley Nº 18.410 que crea la Superintendencia de
 
-Combustibles, a lo establecido en el Decreto N°
+Electricidad y Combustibles, a lo establecido
 
-327, de 1997, del Ministerio de Minería, que
+en el Decreto N° 327, de 1997, del Ministerio
 
-fija el reglamento de la Ley General de
+de Minería, que fija el reglamento de la Ley
 
-Servicios Eléctricos, a la Norma Técnica con
+General de Servicios Eléctricos, a la Norma
 
-Exigencias de Seguridad y Calidad del Servicio
+Técnica con Exigencias de Seguridad y Calidad
 
-para los Sistemas Interconectados, fijada
+del Servicio para los Sistemas
 
-mediante Resolución Ministerial Exenta N° 85, de
+Interconectados, fijada mediante Resolución
 
-7 de octubre de 2009, del Ministerio de
+Ministerial Exenta N° 85, de 7 de octubre de
 
-Economía, Fomento y Reconstrucción y sus
+2009, del Ministerio de Economía, Fomento y
 
-modificaciones, al presente decreto y a lo
+Reconstrucción y sus modificaciones, al
 
-estipulado en las Bases que elabore la Comisión,
+presente decreto y a lo estipulado en las
+
+Bases que elabore la Comisión,
 
 así como a toda la normativa vigente.
 
@@ -1780,19 +1852,19 @@ requerirán la constitución de una garantía de
 
 seriedad, con un plazo de vigencia mayor a la
 
-validez de la oferta, el cual quedará estipulado
+validez de la oferta, el cual quedará
 
-en las Bases. Esta garantía deberá ser tomada a
+estipulado en las Bases. Esta garantía deberá
 
-beneficio fiscal, siendo el Ministerio el
+ser tomada a beneficio fiscal, siendo el
 
-organismo encargado de su ejecución, en caso de
+Ministerio el organismo encargado de su
 
-verificarse por la DP las condiciones que
+ejecución, en caso de verificarse por la DP
 
-habiliten a su cobro, las que serán establecidas
+las condiciones que habiliten a su cobro,
 
-en las Bases.
+las que serán establecidas en las Bases.
 
 Las Bases deberán estipular el lugar, plazo y
 
@@ -1808,63 +1880,67 @@ resulten adjudicados.
 
 Todos los costos de las propuestas serán de
 
-cargo del proponente. Las propuestas deberán ser
+cargo del proponente. Las propuestas deberán
 
-presentadas íntegramente en idioma español. Se
+ser presentadas íntegramente en idioma
 
-podrán establecer excepciones para anexos
+español. Se podrán establecer excepciones
 
-técnicos cuyo idioma original sea el inglés, lo
+para anexos técnicos cuyo idioma original sea
 
-que se especificará en las Bases.
+el inglés, lo que se especificará en las
 
-La moneda de las ofertas será en dólares, moneda
+Bases.
 
-de los Estados Unidos de América, y su valor en
+La moneda de las ofertas será en dólares,
 
-pesos corresponderá al valor del dólar observado
+moneda de los Estados Unidos de América, y
 
-publicado por el Banco Central de Chile a la
+su valor en pesos corresponderá al valor del
 
-fecha de la presentación de la propuesta.
+dólar observado publicado por el Banco
 
-Las propuestas constarán de al menos una oferta
+Central de Chile a la fecha de la
 
-administrativa, una oferta técnica y una oferta
+presentación de la propuesta.
 
-económica, las que deberán ser entregadas en el
+Las propuestas constarán de al menos una
 
-plazo y lugar que determinen las Bases, en
+oferta administrativa, una oferta técnica y
 
-sobres separados.
+una oferta económica, las que deberán ser
+
+entregadas en el plazo y lugar que determinen
+
+las Bases, en sobres separados.
 
 Los contenidos generales de cada oferta de la
 
-propuesta son los que se indican en los números
+propuesta son los que se indican en los
 
-siguientes.
+números siguientes.
 
 3.2.6 De la oferta administrativa
 
-La oferta administrativa estará conformada por
+La oferta administrativa estará conformada
 
-aquellos antecedentes legales, comerciales,
+por aquellos antecedentes legales,
 
-financieros y tributarios que sirvan para
+comerciales, financieros y tributarios que
 
-identificar al proponente, comprobar su
+sirvan para identificar al proponente,
 
-existencia legal, establecer las condiciones
+comprobar su existencia legal, establecer las
 
-para cumplir con los requisitos establecidos en
+condiciones para cumplir con los requisitos
 
-el artículo 7º de la Ley para ser prestador de
+establecidos en el artículo 7º de la Ley para
 
-servicio público de transmisión troncal,
+ser prestador de servicio público de
 
-acreditar la experticia en el rubro y su
+transmisión troncal, acreditar la experticia
 
-solvencia financiera.
+en el rubro y su solvencia financiera.
 
 Las Bases detallarán los documentos que al
 
@@ -1876,7 +1952,9 @@ establecer que la omisión de uno o más de esos
 
 documentos habilitará a la DP para declarar
 
-fuera de Bases a la propuesta de que se trate.
+fuera de Bases a la propuesta de que se
+
+trate.
 
 Conforme lo señalado en el numeral 3.1.2 del
 
@@ -1890,59 +1968,65 @@ administrativa para varios de los proyectos
 
 establecidos en el numeral 1 del presente
 
-artículo. Las Bases respectivas establecerán los
+artículo. Las Bases respectivas establecerán
 
-requisitos necesarios, los plazos de entrega y
+los requisitos necesarios, los plazos de
 
-modalidad de presentación de la oferta
+entrega y modalidad de presentación de la
 
-administrativa y de las ofertas técnicas y
+oferta administrativa y de las ofertas
 
-económicas correspondientes.
+técnicas y económicas correspondientes.
 
 3.2.7 De la oferta técnica
 
 Las Bases establecerán los antecedentes,
 
-características e información de los proyectos
+características e información de los
 
-que los proponentes deberán entregar en su
+proyectos que los proponentes deberán
 
-oferta técnica, dentro del marco general a que
+entregar en su oferta técnica, dentro del
 
-se refiere el numeral 1 del presente artículo.
+marco general a que se refiere el numeral 1
 
-Las Bases deberán requerir que los proponentes
+del presente artículo.
 
-presenten un programa de ejecución de las obras,
+Las Bases deberán requerir que los
 
-identificando hitos relevantes, para efectos de
+proponentes presenten un programa de
 
-las auditorías de la ejecución de las obras por
+ejecución de las obras, identificando hitos
 
-parte de la DP, desde el decreto de adjudicación
+relevantes, para efectos de las auditorías de
+
+la ejecución de las obras por parte de la DP,
+
+desde el decreto de adjudicación
 
 y hasta su entrada en operación.
 
 3.2.8 De la oferta económica
 
-Las Bases indicarán que los proponentes, en su
+Las Bases indicarán que los proponentes, en
 
-oferta económica, deberán ofrecer un valor anual
+su oferta económica, deberán ofrecer un valor
 
-de la transmisión por tramo para el proyecto en
+anual de la transmisión por tramo para el
 
-el que participen, el que se indexará conforme a
+proyecto en el que participen, el que se
 
-la fórmula que las Bases establezcan, lo que
+indexará conforme a la fórmula que las Bases
 
-constituirá la remuneración de cada proyecto y
+establezcan, lo que constituirá la
+
+remuneración de cada proyecto y
 
 se aplicará durante cinco períodos tarifarios,
 
-transcurridos los cuales las instalaciones y su
+transcurridos los cuales las instalaciones y
 
-valorización deberán ser revisadas y
+su valorización deberán ser revisadas y
 
 actualizadas en el estudio de transmisión
 
@@ -1960,33 +2044,33 @@ de acuerdo con lo establecido en los artículos
 
 3.3.1 Apertura y evaluación de las propuestas
 
-Las Bases establecerán el protocolo de apertura
+Las Bases establecerán el protocolo de
 
-de las propuestas, señalando fecha, lugar, hora
+apertura de las propuestas, señalando fecha,
 
-y demás condiciones de la misma.
+lugar, hora y demás condiciones de la misma.
 
 3.3.2 Evaluación de las propuestas
 
 Las Bases describirán la metodología de
 
-evaluación que utilizará la DP para escoger al
+evaluación que utilizará la DP para escoger
 
-adjudicatario. Para ello las Bases podrán
+al adjudicatario. Para ello las Bases podrán
 
 establecer ponderaciones para cada uno de los
 
 ítems más importantes que se considerarán.
 
-Los criterios a considerar para la evaluación de
+Los criterios a considerar para la evaluación
 
-las propuestas serán el cumplimiento de aspectos
+de las propuestas serán el cumplimiento de
 
-administrativos y comerciales del oferente, la
+aspectos administrativos y comerciales del
 
-calidad de la oferta técnica y el valor
+oferente, la calidad de la oferta técnica
 
-económico de la oferta.
+y el valor económico de la oferta.
 
 Para ello, el orden de evaluación de las
 
@@ -2000,13 +2084,13 @@ propuestas
 
 Las Bases estipularán las condiciones en las
 
-cuales una propuesta puede ser declarada fuera
+cuales una propuesta puede ser declarada
 
-de bases y eliminada del proceso de licitación,
+fuera de bases y eliminada del proceso de
 
-declaración que deberá estar debidamente
+licitación, declaración que deberá estar
 
-fundamentada por la DP.
+debidamente fundamentada por la DP.
 
 3.3.4 Del derecho a declarar desierto el proceso de
 
@@ -2014,53 +2098,65 @@ licitación
 
 Las Bases podrán establecer que en caso que
 
-ninguna de las propuestas presentadas se ajuste
+ninguna de las propuestas presentadas se
 
-a los requerimientos exigidos en las Bases, la
+ajuste a los requerimientos exigidos en las
 
-DP podrá declarar desierta la licitación.
+Bases, la DP podrá declarar desierta la
 
-3.3.5 Adjudicación de la ejecución y los derechos de
+licitación.
 
-explotación de los proyectos
+3.3.5 Adjudicación de la ejecución y los derechos
 
-Las Bases señalarán la fecha estimada para la
+de explotación de los proyectos
 
-adjudicación de la ejecución, los derechos de
+Las Bases señalarán la fecha estimada para
 
-explotación de los proyectos, las condiciones,
+la adjudicación de la ejecución, los
 
-requisitos y requerimientos de las mismas y la
+derechos de explotación de los proyectos,
 
-obligación de cumplir con los requisitos
+las condiciones, requisitos y requerimientos
 
-señalados en el artículo 7º de la Ley.
+de las mismas y la obligación de cumplir con
 
-La DP deberá comunicar por escrito el resultado
+los requisitos señalados en el artículo 7º
 
-de los procesos de licitación a todos los
+de la Ley.
 
-proponentes. El o los proponentes que resulten
+La DP deberá comunicar por escrito el
 
-adjudicatarios deberán suscribir, dentro del
+resultado de los procesos de licitación a
 
-plazo que establezcan las Bases, un acta de
+todos los proponentes. El o los proponentes
 
-aceptación de adjudicación de la obra, mediante
+que resulten adjudicatarios deberán
 
-escritura pública. Los contenidos de esa acta
+suscribir, dentro del plazo que establezcan
+
+las Bases,
+
+un acta de aceptación de adjudicación de la
+
+obra, mediante escritura pública. Los
+
+contenidos de esa acta
 
 formarán parte de las Bases.
 
-La DP deberá además informar a la Comisión y a
+La DP deberá además informar a la Comisión y
 
-la Superintendencia respecto de la evaluación de
+a la Superintendencia respecto de la
 
-las propuestas y de la adjudicación. A efectos
+evaluación de las propuestas y de la
 
-de lo señalado en el artículo 97° de la Ley, la
+adjudicación. A efectos de lo señalado en el
 
-Comisión, dentro de los cinco días siguientes de
+#### Artículo 97°
+
+de la Ley, la Comisión, dentro
+
+de los cinco días siguientes de
 
 recibido el informe de la DP, remitirá al
 
@@ -2068,25 +2164,29 @@ Ministerio un informe técnico con todos los
 
 antecedentes que servirán de base para la
 
-dictación de los respectivos decretos supremos
+dictación de los respectivos decretos
 
-que regularán la adjudicación de cada obra.
+supremos que regularán la adjudicación
 
-Cada decreto de adjudicación individualizará a
+de cada obra.
 
-la empresa adjudicataria, y fijará las
+Cada decreto de adjudicación individualizará
 
-características técnicas del proyecto, el plazo
+a la empresa adjudicataria, y fijará las
 
-para la entrada en operación, el valor de
+características técnicas del proyecto, el
 
-transmisión por tramo de las nuevas líneas o
+plazo para la entrada en operación, el valor
 
-subestaciones de transmisión troncal conforme a
+de transmisión por tramo de las nuevas
 
-la propuesta que resulte adjudicada y la fórmula
+líneas o subestaciones de transmisión
 
-de indexación del valor de la transmisión por
+troncal conforme a la propuesta que
+
+resulte adjudicada y la fórmula de
+
+indexación del valor de la transmisión por
 
 tramo antes indicado, así como todas las
 
@@ -2094,57 +2194,61 @@ condiciones para la correcta ejecución de la
 
 obra.
 
-Asimismo, puede establecer las demás condiciones
+Asimismo, puede establecer las demás
 
-adicionales que deba cumplir el adjudicatario
+condiciones adicionales que deba cumplir el
 
-conforme a los términos de su propuesta.
+adjudicatario conforme a los términos de
 
-La dictación del decreto de adjudicación implica
+su propuesta.
 
-que el adjudicatario será el encargado de la
+La dictación del decreto de adjudicación
 
-ejecución del proyecto y de su explotación. A
+implica que el adjudicatario será el
 
-contar de la dictación señalada, el
+encargado de la ejecución del proyecto y de
 
-adjudicatario tendrá la calidad de prestador de
+su explotación. A contar de la dictación
 
-servicio público de transmisión, conforme al
+señalada, el adjudicatario tendrá la calidad
 
-#### Artículo 7º
+de prestador de servicio público de
 
-de la Ley, debiendo cumplir con el
+transmisión, conforme al artículo 7º de la
 
-marco normativo aplicable para los servicios
+Ley, debiendo cumplir con el marco normativo
 
-públicos eléctricos en general y de transmisión,
+aplicable para los servicios públicos
 
-según corresponda, generando además el derecho
+eléctricos en general y de transmisión,
 
-de cobrar la tarifa que se indica en el artículo
+según corresponda, generando además el
 
-95° de la Ley.
+derecho de cobrar la tarifa que se indica en
 
-3.3.6 De las garantías de ejecución de los proyectos
+el artículo 95° de la Ley.
+
+3.3.6 De las garantías de ejecución de los
+
+proyectos
 
 Las Bases deberán establecer, junto con la
 
-constitución de una garantía de seriedad de las
+constitución de una garantía de seriedad de
 
-ofertas, las garantías o cauciones de ejecución
+las ofertas, las garantías o cauciones de
 
-y cumplimiento de los proyectos.
+ejecución y cumplimiento de los proyectos.
 
 Las garantías podrán tener por objetivo:
 
-a) Garantizar la constitución del proponente
+a) Garantizar la constitución del
 
-como sociedad anónima de giro exclusivo de
+proponente como sociedad anónima de
 
-transmisión o transporte de energía
+giro exclusivo de transmisión o
 
-eléctrica.
+transporte de energía eléctrica.
 
 b) Garantizar el cumplimiento de los hitos
 
@@ -2158,107 +2262,115 @@ proyectos.
 
 d) Precaver eventuales daños a terceros.
 
-Adicionalmente, las Bases establecerán la forma
+Adicionalmente, las Bases establecerán la
 
-de constitución de dichas garantías, el plazo de
+forma de constitución de dichas garantías, el
 
-su vigencia y la oportunidad en que deben ser
+plazo de su vigencia y la oportunidad en que
 
-tomadas, las condiciones que las hacen
+deben ser tomadas, las condiciones que las
 
-ejecutables y el plazo y forma de su devolución,
+hacen ejecutables y el plazo y forma de su
 
-si procede. Las garantías o cauciones serán
+devolución, si procede. Las garantías o
 
-tomadas por los adjudicatarios a beneficio del
+cauciones serán tomadas por los
 
-Ministerio de Energía, y su cobro estará a cargo
+adjudicatarios a beneficio del Ministerio de
+
+Energía, y su cobro estará a cargo
 
 de la DP, para lo cual el Ministerio,
 
-individualmente o con la entidad pública con la
+individualmente o con la entidad pública con
 
-que deba actuar en conjunto para la aplicación
+la que deba actuar en conjunto para la
 
-de la Ley General de Servicios Eléctricos,
+aplicación de la Ley General de Servicios
 
-deberá endosarlas dentro de los 30 días
+Eléctricos, deberá endosarlas dentro de los
 
-siguientes a su recepción, en comisión de
+30 días siguientes a su recepción, en
 
-cobranza a la DP.
+comisión de cobranza a la DP.
 
 3.4 De la ejecución de los proyectos
 
-3.4.1 Cumplimiento de las condiciones de los proyectos
+3.4.1 Cumplimiento de las condiciones de los
+
+proyectos
 
 El cumplimiento de las condiciones de los
 
 proyectos, es decir, el seguimiento de las
 
-condiciones señaladas por los adjudicatarios en
+condiciones señaladas por los adjudicatarios
 
-sus propuestas, deberá ser supervisado por la DP
+en sus propuestas, deberá ser supervisado
 
-conforme a las condiciones y mecanismos que se
+por la DP conforme a las condiciones y
 
-establezcan en el presente decreto y las Bases.
+mecanismos que se establezcan en el presente
+
+decreto y las Bases.
 
 La DP será responsable de supervigilar el
 
 cumplimiento de las condiciones de los
 
-proyectos, mediante auditorías de la ejecución
+proyectos, mediante auditorías de la
 
-de los mismos, aprobar el cumplimiento de sus
+ejecución de los mismos, aprobar el
 
-hitos relevantes y hacer efectivas las garantías
+cumplimiento de sus hitos relevantes y hacer
 
-o cauciones correspondientes, conforme a las
+efectivas las garantías o cauciones
+
+correspondientes, conforme a las
 
 modalidades, formalidades y plazos que
 
 especificarán las Bases, en caso de
 
-incumplimiento de cualquiera de los requisitos,
+incumplimiento de cualquiera de los
 
-condiciones, plazos, modalidades u otros
+requisitos, condiciones, plazos, modalidades
 
-aspectos considerados en los proyectos, lo que
+u otros aspectos considerados en los
 
-deberá ser informado oportunamente al Ministerio
+proyectos, lo que deberá ser informado
 
-y a la Comisión.
+oportunamente al Ministerio y a la Comisión.
 
 Las características de las auditorías de
 
-ejecución de los proyectos se especificarán en
+ejecución de los proyectos se especificarán
 
-las Bases. Con todo, el costo de su contratación
+en las Bases. Con todo, el costo de su
 
-y el de la supervisión de la DP, son parte de
+contratación y el de la supervisión de la DP,
 
-los costos de los procesos de licitación y se
+son parte de los costos de los procesos de
 
-financiarán conforme a lo dispuesto en el
+licitación y se financiarán conforme a lo
 
-#### Artículo 96°
-
-de la Ley.
+dispuesto en el artículo 96° de la Ley.
 
 3.4.2 Servidumbres, adquisiciones de terrenos y
 
 expropiaciones
 
-La obtención de la constitución de servidumbres
+La obtención de la constitución de
 
-será de responsabilidad de los proponentes que
+servidumbres será de responsabilidad de los
 
-resulten adjudicados, quienes, en consecuencia,
+proponentes que resulten adjudicados,
 
-serán responsables de constituirlas conforme al
+quienes, en consecuencia, serán responsables
 
-marco legal vigente y respetando los plazos de
+de constituirlas conforme al marco legal
+
+vigente y respetando los plazos de
 
 ejecución de los proyectos y su entrada en
 
@@ -2266,39 +2378,43 @@ operación.
 
 Todos los costos derivados de compra de
 
-terrenos, expropiaciones y otros similares serán
+terrenos, expropiaciones y otros similares
 
-de cargo de los adjudicatarios correspondientes
+serán de cargo de los adjudicatarios
 
-y deberán internalizarlos en su oferta
+correspondientes y deberán internalizarlos
 
-económica.
+en su oferta económica.
 
 3.4.3 Aspectos medioambientales
 
 Las Bases deberán establecer que la
 
-responsabilidad directa por el cumplimiento de
+responsabilidad directa por el cumplimiento
 
-la normativa ambiental aplicable a los proyectos
+de la normativa ambiental aplicable a los
 
-es de los proponentes que resulten adjudicados y
+proyectos es de los proponentes que resulten
 
-que, en consecuencia, éstos deben contemplar el
+adjudicados y que, en consecuencia, éstos
 
-cumplimiento de estos aspectos al formular los
+deben contemplar el cumplimiento de estos
 
-plazos de ejecución de los proyectos.
+aspectos al formular los plazos de ejecución
+
+de los proyectos.
 
 Asimismo, todos los costos derivados del
 
 cumplimiento de la normativa ambiental,
 
-aplicable a los proyectos, son de cargo de los
+aplicable a los proyectos, son de cargo de
 
-adjudicatarios, y deberán internalizarlos en sus
+los adjudicatarios, y deberán
 
-ofertas económicas.
+internalizarlos en sus ofertas económicas.
+
+> **Nota.** El numeral 1 del Decreto 399 Exento, Energía, publicado el 14.10.2011, modifica el número 7 de la tabla incluida en el numeral 1 de la presente norma, correspondiente al proyecto "Instalación de un CER en S/E Cardones", en el sentido de modificar el plazo constructivo de 18 a 24 meses.
 
 Anótese y publíquese.- Por orden del Presidente de la República.- Laurence Golborne Riveros, Ministro de Energía.
 
