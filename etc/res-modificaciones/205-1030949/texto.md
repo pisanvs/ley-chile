@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS NILAHUE ANTES DE QUIAHUE, ESTERO QUIAHUE, ESTERO LOLOL, ESTERO PUMANQUE Y NILAHUE EN SANTA TERESA, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
+
+Mediante resolución DGA Nº 205, de fecha 27 de septiembre de 2011, se ha modificado el área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados Nilahue antes de Quiahue, Estero Quiahue, Estero Lolol, Estero Pumanque y Nilahue en Santa Teresa, Región del Libertador General Bernardo O'Higgins. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región del Libertador General Bernardo O'Higgins y en la página web de la DGA.-
+
+Francisco Echeverría Ellsworth, Director General de Aguas (S).
