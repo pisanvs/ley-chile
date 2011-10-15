@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2848 de 30 de septiembre de 2011, se expropió el lote de terreno Nº2, superficie 139 m2, rol de Avalúo 310-515, comuna de Freire, para la obra "PROYECTO RECONSTRUCCIÓN PUENTE PELALES, CAMINO QUEPE - BOROA, SECTOR KM. 8,70000 A KM. 8,87500", COMUNA DE FREIRE, PROVINCIA DE CAUTÍN, IX REGIÓN y se acordó el valor de la indemnización con su propietario don JOSÉ LUIS CASTILLA ESPARZA, ascendente a la cantidad de $863.806.-
+
+Fiscal del Ministerio de Obras Públicas.
