@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS ESTERO GUAQUÉN, SECTOR CATAPILCO SUBSECTOR ESTERO CATAPILCO, ESTERO VIÑA DEL MAR, ESTERO CASABLANCA DESEMBOCADURA, SECTOR PUNTA GALLO, ESTERO SAN JOSÉ, SECTOR ALGARROBO, ESTERO CARTAGENA Y ESTERO EL SAUCE, REGIÓN DE VALPARAÍSO Y REGIÓN METROPOLITANA
+
+Mediante resolución DGA Nº 206, de fecha 27 de septiembre de 2011, se ha modificado el área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados Estero Guaquén, sector Catapilco Subsector Estero Catapilco, Estero Viña del Mar, Estero Casablanca Desembocadura, sector Punta Gallo, Estero San José, Sector Algarrobo, Estero Cartagena y Estero El Sauce, Región de Valparaíso y Región Metropolitana. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Valparaíso y Región Metropolitana y en la página web de la DGA.-
+
+Francisco Echeverría Ellsworth, Director General de Aguas (S).
