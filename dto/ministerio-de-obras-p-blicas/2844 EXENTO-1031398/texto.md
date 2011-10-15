@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2844 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 90 y 91, superficies 1.037 y 1.405 m2 respectivamente, rol Nº1451-46, comuna de Puerto Varas para la obra "Camino Ruta U-99-V, Sector Las Cascadas-Ensenada, Km. 31,33730 a Km. 50,60320 Provincia de Osorno-Llanquihue, Comuna de Puerto Octay y Puerto Varas, X Región" y se acordó el valor de la indemnización con su propietario INVERSIONES INVIERTA PATAGONIA LIMITADA, ascendente a la cantidad de $8.656.083.-
+
+Fiscal del Ministerio de Obras Públicas.
