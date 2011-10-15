@@ -186,6 +186,18 @@ emplazadas en áreas urbanas o áreas de extensión
 
 urbana.
 
+En caso que se otorgue subsidio diferenciado a
+
+la localización, no será aplicable la exigencia
+
+contenida en el artículo 70 del D.S. Nº 174
+
+(V. y U.), de 2005, de aumentar a 15 años el
+
+plazo a que estará afecta la vivienda a
+
+prohibición de enajenar.
+
 i. Sólo se aceptará una postulación a este llamado
 
 en condiciones especiales por grupo familiar
@@ -228,27 +240,65 @@ k. El subsidio que se otorgue a las familias
 
 seleccionadas del presente llamado, será
 
-destinado a financiar la adquisición de una
+destinado a financiar la adquisición de
 
-vivienda nueva, existente o aquella que forme
+una vivienda nueva, existente, o que forme
 
-parte de un proyecto calificado por el Serviu
+parte de un proyecto calificado por el
 
-respectivo, y que cuente con viviendas
+Serviu respectivo, y que cuente con viviendas
 
 disponibles para efectuar operaciones de
 
-compraventa, según la resolución exenta 2.186
+compraventa, según la Resolución Exenta
 
-(V. y U.), del año 2010. Los montos de subsidio
+2.186 (V. y U.), de 2010, o a aquella que
 
-a otorgar serán los correspondientes a la comuna
+forme parte de un proyecto de construcción
 
-y modalidad de aplicación, según vivienda que se
+correspondiente a los futuros llamados del
 
-adquiera o el proyecto de construcción a que se
+Fondo Solidario de Vivienda, capítulo primero,
 
-adscriba.
+que este Ministerio disponga para atender a
+
+familias damnificadas de la catástrofe
+
+ocurrida el 27 de febrero del año 2010. En
+
+este último caso, el proyecto de
+
+construcción puede estar en preparación sin
+
+ser calificado aún, pudiendo el beneficiario
+
+inscribirse para integrar dicho proyecto sin
+
+necesidad que sea evaluada su factibilidad y
+
+condición, o puede tratarse de un proyecto de
+
+construcción calificado, según se establece
+
+en el número 5, de la mencionada resolución,
+
+pudiendo en ese caso el postulante inscribirse
+
+para integrar dicho proyecto, sólo si éste
+
+cuenta con viviendas disponibles.
+
+En los casos que el beneficiario se adscriba a
+
+un proyecto de construcción, los montos del
+
+subsidio se ajustarán a los montos establecidos
+
+para esta modalidad y corresponderán a los
+
+montos postulados por dicho proyecto para cada
+
+una de las familias postulantes.
 
 5. Los recursos involucrados para la selección de las personas que postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
