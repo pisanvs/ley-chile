@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.645, de 5 de octubre de 2011 de esta Subsecretaría, recházanse las solicitudes números 208023002, 207111075, 205101037, 206103401 y 204103046, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 del DS Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 5 de octubre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
