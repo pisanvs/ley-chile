@@ -44,6 +44,12 @@ e) Los remanentes no capturados de la fracción autorizada en el período respec
 
 5.- Sin perjuicio de lo dispuesto en el numeral 1-., las capturas de Jurel efectuadas entre el 1° de enero de 2011 y la fecha de publicación de la presente resolución en el Diario Oficial, deberán ser descontadas de la cuota asignada a la organización de pescadores artesanales antes individualizada, en proporción a los desembarques informados por las embarcaciones artesanales cuyos armadores hayan sido incluidos en la nómina indicada en el numeral 2.- de la presente resolución.
 
+6º.- Fíjase el día 2 de noviembre de 2011, inclusive, como plazo fatal para que todas las organizaciones de pescadores artesanales sometidas al régimen artesanal de extracción, establecido mediante decreto exento Nº 1.967, de 2009, modificado por decreto exento Nº 313, de 2010, ambos del Ministerio de Economía, Fomento y Reconstrucción, y por decreto exento Nº 374, de 2010, del Ministerio de Economía, Fomento y Turismo, comuniquen por escrito a esta Subsecretaría las variaciones o modificaciones que en el número de pescadores o embarcaciones experimentarán para el año 2012.
+
+Para tales efectos, las organizaciones de pescadores artesanales, antes indicadas, deberán remitir una carta firmada por la directiva respectiva, adjuntando el listado oficial de los afiliados inscritos y de sus embarcaciones, en caso de los armadores, que participarán por la respectiva organización en el Régimen para el año 2012.
+
+Asimismo, y dentro del mismo plazo indicado en el inciso primero del presente numeral, las organizaciones de pescadores artesanales que no se encuentren sometidas al régimen y que desearen incorporarse al mismo, deberán comunicar por escrito a la Subsecretaría su intención en tal sentido, mediante carta firmada por la directiva respectiva y adjuntando al efecto todos los antecedentes a que se refieren los artículos 7 inciso 2º y 9 del DS Nº 296, de 2004, modificado mediante DS Nº 223, de 2010, antes individualizados.
+
 > **Nota.** El Número 1 de la Resolución 655 Exenta, Economía, publicada el 31.03.2011, viene a modificar el numeral 1º letra b) de la presente resolución en el sentido de reemplazar durante el año 2011 las asignaciones del recurso Sardina común Clupea bentincki para las organizaciones de pescadores artesanales por las que en ella señala.
 
 Anótese, comuníquese y publíquese en el Diario Oficial por cuenta de esta Subsecretaría.- Felipe Palacio Rives, Subsecretario de Pesca (S).
