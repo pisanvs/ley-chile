@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2843 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº18, superficie 374 m2, rol Nº1450-3, para la obra "Reposición Ruta 225-CH, Sector Escuela Los Riscos - Ensenada, Tramo Km. 24,60000 a Km. 43,19047, Provincia de Llanquihue, Comuna de Puerto Varas, X Región de Los Lagos" y se acordó el valor de la indemnización con su propietario KARIN NORMA ANTONIETA LUCKEHEIDE MORAWITZ, ascendente a la cantidad de $3.999.373.-
+
+Fiscal del Ministerio de Obras Públicas.
