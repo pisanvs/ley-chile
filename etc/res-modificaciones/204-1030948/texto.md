@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS HUASCO DESEMBOCADURA, FREIRINA BAJO, FREIRINA ALTO, VALLENAR BAJO, VALLENAR ALTO, EL TRÁNSITO Y RÍO DEL CARMEN, REGIÓN DE ATACAMA Y REGIÓN DE COQUIMBO
+
+Mediante resolución DGA Nº 204, de fecha 27 de septiembre de 2011, se ha modificado el área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados Huasco Desembocadura, Freirina Bajo, Freirina Alto, Vallenar Bajo, Vallenar Alto, El Tránsito y Río del Carmen, Región de Atacama y Región de Coquimbo. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región de Atacama, Región de Coquimbo, y en la página web de la DGA.-
+
+Francisco Echeverría Ellsworth, Director General de Aguas (S).
