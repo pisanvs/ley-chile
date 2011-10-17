@@ -152,7 +152,7 @@ Para el efecto de subsanar esas deficiencias, la Directiva Central provisional d
 
 #### Artículo 16
 
-Los derechos que correspondan a los partidos políticos en materia de elecciones y de plebiscitos, sólo podrán ser ejercidos por aquellos que se encontraren inscritos en el Registro de Partidos Políticos al vencimiento del correspondiente plazo para la presentación de candidaturas o a la fecha de convocatoria a plebiscito, según el caso.
+Sin perjuicio de lo dispuesto en los artículos 4° y 9° de la ley N° 18.700, Orgánica Constitucional de Votaciones Populares y Escrutinios, los derechos que correspondan a los partidos políticos en materia de elecciones y de plebiscitos, sólo podrán ser ejercidos por aquellos que se encontraren inscritos en el Registro de Partidos Políticos al vencimiento del correspondiente plazo para la presentación de candidaturas o a la fecha de convocatoria a plebiscito, según el caso.
 
 #### Artículo 17
 
