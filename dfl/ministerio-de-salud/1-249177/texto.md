@@ -2466,6 +2466,14 @@ Con todo, tratándose de trabajadores independientes afiliados al Nuevo Sistema 
 
 Para los efectos del cálculo de los subsidios a que se refieren las disposiciones del Código del Trabajo citadas en el inciso segundo, se considerarán como un solo subsidio los originados en diferentes licencias médicas otorgadas en forma continuada sin interrupción entre ellas.
 
+#### Artículo 152 bis
+
+<!-- parte:9194258 -->
+
+Los trabajadores independientes tendrán derecho al permiso postnatal parental del artículo 197 bis del Código del Trabajo, el cual podrán ejercer por doce semanas, percibiendo la totalidad del subsidio, o por dieciocho semanas, percibiendo la mitad de aquel, además de las rentas o remuneraciones que pudieren percibir, dando aviso a la entidad pagadora del subsidio antes del inicio del período.
+
+La base de cálculo del subsidio establecido en este artículo será la misma del descanso de maternidad a que se refiere el inciso primero del artículo 195 del Código del Trabajo. Para efectos de determinar la compatibilidad de subsidios a que tiene derecho el trabajador se aplicará lo dispuesto en los incisos segundo y siguientes del artículo 25 del decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978.
+
 #### Artículo 153
 
 <!-- parte:8654002 -->
