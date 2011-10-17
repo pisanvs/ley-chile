@@ -1,8 +1,8 @@
-ESTABLECE NORMAS SOBRE ACCIDENTES DEL TRABAJO Y ENFERMEDADES PROFESIONALES
+ESTABLECE NORMAS SOBRE ACCIDENTES DEL TRABAJO y ENFERMEDADES PROFESIONALES
 
-Por cuanto el H. Congreso Nacional ha dado su aprobación al siguente
+Por cuanto el H. Congreso Nacional ha dado su aprobación al siguiente
 
-Proyecto de ley:
+PROYECTO DE LEY:
 
 ## Título I — (1-4)
 
@@ -46,9 +46,13 @@ No obstante, el Presidente de la República queda facultado para decidir la opor
 
 #### Artículo 3°
 
-Estarán protegidos, también, todos los estudiantes de establecimientos fiscales o particulares por los accidentes que sufran con ocasión de sus estudios o en la realización de su práctica educacional.
+Estarán protegidos también, todos los estudiantes por los accidentes que sufran a causa o con ocasión de sus estudios o en la realización de su práctica profesional. Para estos efectos se entenderá por estudiantes a los alumnos de cualquiera de los niveles o cursos de los establecimientos educacionales reconocidos oficialmente de acuerdo a lo establecido en la ley Nº 18.962, Orgánica Constitucional de Enseñanza.
 
-El Presidente de la República queda facultado para decidir la oportunidad, financiamiento y condiciones de la incorporación de tales estudiantes a este seguro escolar, la naturaleza y contenido de las prestaciones que se les otorgará y los organismos, institucionales o servicios que administrarán dicho seguro.
+El Presidente de la República queda facultado para decidir la oportunidad, financiamiento y condiciones de la incorporación de tales estudiantes a este seguro escolar, la naturaleza y contenido de las prestaciones que se les otorgará y los organismos, instituciones o servicios que administrarán dicho seguro.
+
+> **Nota.** El DTO 313, Trabajo, publicado el 12.05.1973, reglamentó el seguro establecido por el presente artículo.
+
+> **Nota.** NOTA 1: El Art. 2º de la LEY 20067, publicada el 25.11.2005, establece que la presente modificación entrará en vigencia a partir del 1 del mes siguiente al de su publicación.
 
 ### Párrafo 3°
 
@@ -70,7 +74,7 @@ Contingencias cubiertas
 
 Para los efectos de esta ley se entiende por accidente del trabajo toda lesión que una persona sufra a causa o con ocasión del trabajo, y que le produzca incapacidad o muerte.
 
-Son también accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre la habitación y el lugar del trabajo.
+Son también accidentes del trabajo los ocurridos en el trayecto directo, de ida o regreso, entre la habitación y el lugar del trabajo, y aquéllos que ocurran en el trayecto directo entre dos lugares de trabajo, aunque correspondan a distintos empleadores. En este último caso, se considerará que el accidente dice relación con el trabajo al que se dirigía el trabajador al ocurrir el siniestro.
 
 Se considerarán también accidentes del trabajo los sufridos por dirigentes de instituciones sindicales a causa o con ocasión del desempeño de sus cometidos gremiales.
 
@@ -78,7 +82,9 @@ Exceptúanse los accidentes debidos a fuerza mayor extraña que no tenga relaci�
 
 > **Nota.** El Art. 14 de la LEY 19303, publicada el13.04.1994, incorporó como accidentes del trabajo los daños físicos o síquicos que sufran los trabajadores de las empresas, entidades o establecimientos que sean objeto de robo, asalto u otra forma de violencia delictual, a causa o con ocasión del trabajo.
 
-> **Nota.** NOTA 1: El Art. 33 de la LEY 19518, publicada el14.10.1997, con vigencia a contar del 1° del mes subsiguiente al de su publicación, incorporó como accidente del trabajo a aquel sufrido con ocasión de actividades de capacitación.
+> **Nota.** NOTA 1: El Art. 33 de la LEY 19518, publicada el14.10.1997, con vigencia a contar del 1° del mes subsiguiente al de su publicación; así como el Art. 181 del Código del Trabajo, contenido en el DFL 1, publicado el 16.01.2003, incorporan como accidente del trabajo a aquel sufrido con ocasión de actividades de capacitación.
+
+> **Nota.** NOTA 2: El Art. 2º de la LEY 20101, publicada el 28.04.2006, dispuso que la modificación introducida en el presente artículo regirá a contar del 1º del mes subsiguiente al de su publicación.
 
 #### Artículo 6°
 
@@ -174,9 +180,9 @@ Los organismos administradores no podrán destinar a gastos de administración u
 
 El Seguro de Accidentes del Trabajo y Enfermedades Profesionales se financiará con los siguientes recursos:
 
-a) Con una cotización básica general del 1% de las remuneraciones imponibles, de cargo del empleador;
+a) Con una cotización básica general del 0,90% de las remuneraciones imponibles, de cargo del empleador;
 
-b) Con una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, la que será determinada por el Presidente de la República y no podra exceder de un 4% de las remuneraciones imponibles, que también será de cargo del empleador, y que se fijará sin perjuicio de lo dispuesto en el artículo 16°;
+b) Con una cotización adicional diferenciada en función de la actividad y riesgo de la empresa o entidad empleadora, la que será determinada por el Presidente de la República y no podrá exceder de un 3,4% de las remuneraciones imponibles, que también será de cargo del empleador, y que se fijará sin perjuicio de lo dispuesto en el artículo 16°;
 
 c) Con el producto de las multas que cada organismo administrador aplique en conformidad a la presente ley;
 
@@ -184,17 +190,35 @@ d) Con las utilidades o rentas que produzca la inversión de los fondos de reser
 
 e) Con las cantidades que les corresponda por el ejercicio del derecho de repetir de acuerdo con los artículos 56° y 69°.
 
+> **Nota.** El Decreto 67, Trabajo, publicado el 07.03.2000, con vigencia a contar de 1° de julio de 2001, establece el Reglamento para la aplicación del presente artículo.
+
+> **Nota.** NOTA 1: El artículo 97 de la LEY 18768, publicada el 29.12.1988, dispuso que la modificación introducida a este artículo entrará en vigencia a contar del primer día del mes siguiente al de su publicación.
+
+> **Nota.** NOTA 2: El Artículo sexto transitorio de la LEY 19578, publicada el 29.07.1998, en su texto modificado por el artículo único de la LEY 19969, publicada el 31.08.2004, estableció, a contar del 1º de septiembre de 1998 y hasta el 31 de agosto del año 2008, una cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales de la presente ley.
+
+> **Nota.** NOTA 3 El artículo 1° de la LEY 20288, publicada el 03.09.2008, extiende hasta el año 2011 la cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales, al reemplazar en el artículo sexto transitorio de la LEY 19578, modificatorio de la presente norma, la expresión "2008" por "2011".
+
+> **Nota.** NOTA 4 El N° 2 del artículo único de la Ley 20532, publicada el 30.08.2011, extiende hasta el año 2014 la cotización extraordinaria del 0,05% de las remuneraciones imponibles, de cargo del empleador, en favor del seguro social contra riesgos de accidentes del trabajo y enfermedades profesionales, al reemplazar en el artículo sexto transitorio de la LEY 19578, modificatorio de la presente norma, la frase "hasta el 31 de agosto del año 2011", por "hasta el 31 de marzo del año 2014".
+
 #### Artículo 16°
 
 Las empresas o entidades que implanten o hayan implantado medidas de prevención que rebajen apreciablemente los riesgos de accidentes del trabajo o de enfermedades profesionales, podrán solicitar que se les reduzca la tasa de cotización adicional o que se les exima de ella si alcanzan un nivel óptimo de seguridad.
 
 Las empresas o entidades que no ofrezcan condiciones satisfactorias de seguridad y/o higiene, o que no implanten las medidas de seguridad que el organismo competente les ordene, deberán cancelar la cotización adicional con recargo de hasta el 100%, sin perjuicio de las demás sanciones que les correspondan.
 
-El Reglamento establecerá los requisitos y proporciones de las rebajas y recargos, así como también la forma, proporciones y plazos en que se concederán o aplicarán.
+Las exenciones, rebajas o recargos de la cotización adicional se determinarán por las mutualidades de empleadores respecto de sus empresas adherentes y por los Servicios de Salud respecto de las demás empresas, en relación con la magnitud de los riesgos efectivos y las condiciones de seguridad existentes en la respectiva empresa, sin perjuicio de los demás requisitos que establece este artículo y el reglamento.
+
+Las empresas podrán reclamar de lo resuelto por la respectiva Mutualidad de Empleadores ante la Superintendencia de Seguridad Social, en conformidad al inciso tercero del artículo 77 de esta ley, la que para resolver, si lo estima pertinente, podrá solicitar informe al Servicio de Salud correspondiente.
+
+El reglamento establecerá los requisitos y proporciones de las rebajas y recargos, así como también la forma, proporciones y plazos en que se concederán o aplicarán.
+
+> **Nota.** El DTO 67, Trabajo, publicado el 07.03.2000, con vigencia a contar de 1° de julio de 2001, estableció el reglamento para la aplicación de este artículo.
 
 #### Artículo 17°
 
 Las cotizaciones se calcularán sobre la base de las mismas remuneraciones o rentas por las que se cotiza para el régimen de pensiones de la respectiva institución de previsión del afiliado.
+
+Durante el período en que los trabajadores se reincorporen al trabajo en virtud del artículo 197 bis del Código del Trabajo, los empleadores deberán efectuar las cotizaciones de esta ley sobre la base de la remuneración correspondiente a dicha jornada.
 
 Las cotizaciones que deban integrarse en alguna Caja de Previsión, se considerarán parte integrante de su sistema impositivo, gozando por lo tanto de los mismos privilegios y garantías. Asimismo, el incumplimiento de enterar las cotizaciones tendrá las mismas sanciones que las leyes establecen o establezcan en el futuro para dicho sistema.
 
@@ -220,6 +244,10 @@ El régimen financiero del seguro será el de reparto. Pero deberá formarse una
 
 Respecto de las Mutualidades, el estatuto orgánico de ellas deberá establecer que estas instituciones formen, además de la reserva de eventualidades a que se refiere el artículo anterior, una reserva adicional para atender el pago de las pensiones y de sus futuros reajustes.
 
+> **Nota.** Véanse los Arts. 22 y 23 del DFL 285, Trabajo, publicado el 26.02.1969, que reglamenta el Estatuto Orgánico de las Mutualidades de Empleadores.
+
+> **Nota.** NOTA 1: El Art. 21 de la LEY 19578, publicada el29.07.1998, dispuso que las Mutualidades de Empleadores deberán formar y mantener un Fondo de Contingencia y, además, deberán ajustarse a las normas de composición de activos representativos de la reserva de pensiones prevista en el presente artículo, según las reglas que indica y las instrucciones que al efecto imparta la Superintendencia de Seguridad Social, ello con la finalidad de financiar los mejoramientos extraordinarios de pensiones que se conceden en la referida ley y los beneficios pecuniarios extraordinarios que se establezcan a futuro, conforme a su Art. 20.
+
 #### Artículo 21°
 
 Mediante decreto supremo se determinará la proporción en que se distribuirá, entre el Servicio de Seguro Social y el Servicio Nacional de Salud, el producto de las cotizaciones que aquél recaude para este seguro.
@@ -232,7 +260,9 @@ Los excedentes que se produzcan en cada ejercicio, en los fondos respectivos de 
 
 #### Artículo 22°
 
-La respectiva entidad administradora aportará al fondo de pensiones de la institución de previsión que corresponda el 15% del monto total de los subsidios que pague.
+DEROGADO.
+
+> **Nota.** El artículo 97 de la LEY 18768, publicada el 29.12.1988, dispuso que la derogación del presente artículo entrará en vigencia a contar del primer día del mes siguiente al de su publicación.
 
 #### Artículo 23°
 
@@ -266,15 +296,15 @@ Para los efectos de esta ley se entenderá por "entidad empleadora" a toda empre
 
 #### Artículo 26°
 
-Para los efectos del cálculo de las pensiones, se entiende por sueldo base mensual el promedio de las remuneraciones o rentas, sujetas a cotización, excluidos los subsidios, percibidas por el afiliado en los últimos seis meses, inmediatamente anteriores al accidente o al diagnóstico médico, en caso de enfermedad profesional.
+Para los efectos del cálculo de las pensiones e indemnizaciones, se entiende por sueldo base mensual el promedio de las remuneraciones o rentas, sujetas a cotización, excluidos los subsidios, percibidas por el afiliado en los últimos seis meses, inmediatamente anteriores al accidente o al diagnóstico médico, en caso de enfermedad profesional.
 
 En caso que la totalidad de los referidos seis meses no estén cubiertos por cotizaciones, el sueldo base será igual al promedio de las remuneraciones o rentas por las cuales se han efectuado cotizaciones.
 
-El trabajador podrá acreditar, en todo caso, que ha percibido una remuneración superior a aquélla por la cual se le hicieron las cotizaciones, debiendo entonces calcularse el sueldo base sobre la renta efectivamente percibida, sin perjuicio de que la respectiva institución previsional persiga el pago de las cotizaciones adeudadas con sus intereses y multas, por la diferencia entre la remuneración real y la declarada para los efectos previsionales. Al empleador, también, se le aplicará la sanción máxima establecida en el artículo 80°.
+El trabajador podrá acreditar, en todo caso, que ha percibido una remuneración superior a aquélla por la cual se le hicieron las cotizaciones, debiendo entonces calcularse el sueldo base sobre la renta efectivamente percibida, sin perjuicio de que la respectiva institución previsional persiga el pago de las cotizaciones adeudadas, con sus intereses y multas, por la diferencia entre la remuneración real y la declarada para los efectos previsionales. Al empleador, también se le aplicará la sanción máxima establecida en el artículo 80°.
 
 Si el accidente o enfermedad ocurre antes que hubiere correspondido enterar la primera cotización, se tendrá por sueldo base el indicado como sueldo o renta en el acto de la afiliación o el que tuvo derecho a percibir a la fecha en que la afiliación debió efectuarse.
 
-Para calcular el sueldo base mensual, las remuneraciones o rentas que se consideren, se amplificarán en el mismo porcentaje en que hubiere aumentado el sueldo vital, escala A) del departamento de Santiago, desde la fecha en que ellas fueron percibidas hasta la fecha a partir de la cual de declaró el derecho a pensión.
+Para calcular el sueldo base mensual, las remuneraciones o rentas que se consideren, se amplificarán en el mismo porcentaje en que hubiere aumentado el sueldo vital, escala A) del departamento de Santiago, desde la fecha en que ellas fueros percibidas hasta la fecha a partir de la cual se declaró el derecho a pensión.
 
 En ningún caso el sueldo base mensual será inferior al sueldo vital mensual, escala A) del departamento de Santiago o al salario mínimo industrial, según fuere la actividad profesional del afiliado, vigente a la fecha a partir de la cual se declaró el derecho a pensión.
 
@@ -318,15 +348,15 @@ f) Los gastos de traslado y cualquier otro que sea necesario para el otorgamient
 
 También tendrán derecho a estas prestaciones médicas los asegurados que se encuentren en la situación a que se refiere el inciso final del artículo 5° de la presente ley.
 
-### Párrafo 3°
-
-Prestaciones por incapacidad temporal
+### 3. Prestaciones por incapacidad temporal
 
 #### Artículo 30°
 
-La incapacidad temporal da derecho al accidentado o enfermo a un subsidio diario equivalente al 85% de las remuneraciones o rentas, sujetas a cotización, que esté percibiendo o haya percibido en el último período de pago.
+La incapacidad temporal da derecho al accidentado o enfermo a un subsidio al cual le serán aplicables las normas contenidas en los artículos 3°, 7°, 8°, 10, 11, 17, 19 y 22 del decreto con fuerza de ley N° 44, de 1978, del Ministerio del Trabajo y Previsión Social, Subsecretaría de Previsión Social, en el inciso segundo del artículo 21 de la ley N° 18.469 y en el artículo 17 del decreto ley N° 3.500 de 1980.
 
 En todo caso, el monto del subsidio se reajustará en un porcentaje equivalente al alza que experimenten los correspondientes sueldos y salarios en virtud de leyes generales, o por aplicación de convenios colectivos de trabajo.
+
+> **Nota.** El artículo 97 de la LEY 18768, publicada el 29.12.1988, dispuso que la modificación introducida a este artículo entrará en vigencia a contar del primer día del mes siguiente al de su publicación.
 
 #### Artículo 31°
 
@@ -434,7 +464,7 @@ El viudo inválido que haya vivido a expensas de la cónyuge afiliada, tendrá d
 
 #### Artículo 47°
 
-Cada uno de los hijos del causante, menores de 18 años o mayores de esa edad, pero menores de 23 años, que sigan estudios regulares secundarios, técnicos o superiores, o inválidos de cualquiera edad, tendrán derecho a percibir una pensión equivalente al 20% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente o de la pensión básica que percibía en el momento de la muerte.
+Cada uno de los hijos del causante, menores de 18 años o mayores de esa edad, pero menores de 24 años, que sigan estudios regulares secundarios, técnicos o superiores, o inválidos de cualquiera edad, tendrán derecho a percibir una pensión equivalente al 20% de la pensión básica que habría correspondido a la víctima si se hubiere invalidado totalmente o de la pensión básica que percibía en el momento de la muerte.
 
 #### Artículo 48°
 
@@ -570,7 +600,7 @@ En toda industria o faena en que trabajen más de 25 personas deberán funcionar
 
 2.- Vigilar el cumplimiento, tanto por parte de las empresas como de los trabajadores, de las medidas de prevención, higiene y seguridad.
 
-3.- Investigar las causas de los accidentes del trabajo y enfermedades profesionales, que se produzcan en la empresa;
+3.- Investigar las causas de los accidentes del trabajo y enfermedades profesionales, que se produzcan en la empresa y de cualquiera otra afección que afecte en forma reiterada o general a los trabajadores y sea presumible que tenga su origen en la utilización de productos fitosanitarios, químicos o nocivos para la salud;
 
 4.- Indicar la adopción de todas las medidas de higiene y seguridad, que sirvan para la prevención de los riesgos profesionales;
 
@@ -591,6 +621,18 @@ Lo dispuesto en este artículo no se aplicará a las actividades a que se refier
 > **Nota.** El DTO 54, Trabajo, publicado el 11.03.1969, aprobó el Reglamento para la constitución y funcionamiento de los Comités Paritarios.
 
 > **Nota.** NOTA 1: El DL 2200, de 1978, a que se hace referencia en este texto, fue derogado por el Nº 6 del artículo Segundo de la LEY 18620, publicada el 06.07.1987, por lo que referencia a su Art. 162-A debe entenderse hecha al actual Art. 96 del Código del Trabajo.
+
+#### Artículo 66° Bis
+
+Los empleadores que contraten o subcontraten con otros la realización de una obra, faena o servicios propios de su giro, deberán vigilar el cumplimiento por parte de dichos contratistas o subcontratistas de la normativa relativa a higiene y seguridad, debiendo para ello implementar un sistema de gestión de la seguridad y salud en el trabajo para todos los trabajadores involucrados, cualquiera que sea su dependencia, cuando en su conjunto agrupen a más de 50 trabajadores.
+
+Para la implementación de este sistema de gestión, la empresa principal deberá confeccionar un reglamento especial para empresas contratistas y subcontratistas, en el que se establezca como mínimo las acciones de coordinación entre los distintos empleadores de las actividades preventivas, a fin de garantizar a todos los trabajadores condiciones de higiene y seguridad adecuadas. Asimismo, se contemplarán en dicho reglamento los mecanismos para verificar su cumplimiento por parte de la empresa mandante y las sanciones aplicables.
+
+Asimismo, corresponderá al mandante, velar por la constitución y funcionamiento de un Comité Paritario de Higiene y Seguridad y un Departamento de Prevención de Riesgos para tales faenas, aplicándose a su respecto para calcular el número de trabajadores exigidos por los incisos primero y cuarto, del artículo 66, respectivamente, la totalidad de los trabajadores que prestan servicios en un mismo lugar de trabajo, cualquiera sea su dependencia. Los requisitos para la constitución y funcionamiento de los mismos serán determinados por el reglamento que dictará el Ministerio del Trabajo y Previsión Social.
+
+> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
+
+> **Nota.** NOTA 1: El DTO 76, Trabajo, publicado el 18.01.2007, fijó el Reglamento para la aplicación del presente artículo.
 
 #### Artículo 67°
 
@@ -670,21 +712,45 @@ Las delegaciones de que trata el artículo 72° deberán ser autorizadas por la 
 
 #### Artículo 76°
 
-La entidad empleadora deberá denunciar al organismo administrador respectivo, inmediatamente de producido, todo accidente o enfermedad que pueda ocasionar incapacidad para el trabajo o la muerte de la víctima. El accidentado o enfermo, o sus derecho-habientes, o el médico que trató o diagnosticó la lesión o enfermedad, como igualmente el Comité Paritario de Seguridad, tendrán, también, la obligación de denunciar el hecho en dicho organismo administrador, en el caso de que la entidad empleadora no hubiere realizado la denuncia.
+La entidad empleadora deberá denunciar al organismo administrador respectivo, inmediatamente de producido, todo accidente o enfermedad que pueda ocasionar incapacidad para el trabajo o la muerte de la víctima. El accidentado o enfermo, o sus derecho-habientes, o el médico que trató o diagnosticó la lesión o enfermedad, como igualmente el Comité Paritario de Seguridad, tendrán también, la obligación de denunciar el hecho en dicho organismo administrador, en el caso de que la entidad empleadora no hubiere realizado la denuncia.
 
 Las denuncias mencionadas en el inciso anterior deberán contener todos los datos que hayan sido indicados por el Servicio Nacional de Salud.
 
-Los organismos administradores deberán informar al Servicio Nacional de Salud los accidentes o enfermedades que les hubieren sido denunciados y que hubieren ocasionado incapacidad para el trabajo o la muerte de la víctima, en la forma y con la periodicidad que señale el Reglamento.
+Los organismos administradores deberán informar al Servicio Nacional de Salud los accidentes o enfermedades que les hubieren sido denunciados y que hubieren ocasionado incapacidad para el trabajo o la muerte de la víctima, en la forma y con la periodicidad que señale el reglamento.
+
+Sin perjuicio de lo dispuesto en los incisos precedentes, en caso de accidentes del trabajo fatales y graves, el empleador deberá informar inmediatamente a la Inspección del Trabajo y a la Secretaría Regional Ministerial de Salud que corresponda, acerca de la ocurrencia de cualquiera de estos hechos. Corresponderá a la Superintendencia de Seguridad Social impartir las instrucciones sobre la forma en que deberá cumplirse esta obligación.
+
+En estos mismos casos el empleador deberá suspender de forma inmediata las faenas afectadas y, de ser necesario, permitir a los trabajadores la evacuación del lugar de trabajo. La reanudación de faenas sólo podrá efectuarse cuando, previa fiscalización del organismo fiscalizador, se verifique que se han subsanado las deficiencias constatadas.
+
+Las infracciones a lo dispuesto en los incisos cuarto y quinto, serán sancionadas con multa a beneficio fiscal de cincuenta a ciento cincuenta unidades tributarias mensuales, las que serán aplicadas por los servicios fiscalizadores a que se refiere el inciso cuarto.
+
+> **Nota.** El Art. segundo transitorio de la LEY 20123, publicada el 16.10.2006, estableció que la modificación introducida al presente artículo regirá a contar de 90 días después de su publicación.
 
 #### Artículo 77°
 
-Los afiliados o sus derecho-habientes, así como también los organismos administradores podrán reclamar dentro del plazo de 90 días hábiles ante la Comisión Médica de Reclamos de Accidentes del Trabajo y Enfermedades Profesionales, de las decisiones del Servicio Nacional de Salud recaídas en cuestiones de hecho que se refieran a materias de orden médico.
+Los afiliados o sus derecho-habientes, así como también los organismos administradores podrán reclamar dentro del plazo de 90 días hábiles ante la Comisión Médica de Reclamos de Accidentes del Trabajo y Enfermedades Profesionales, de las decisiones de los Servicios de Salud o de las Mutualidades en su caso recaidas en cuestiones de hecho que se refieran a materias de orden médico.
 
 Las resoluciones de la Comisión serán apelables, en todo caso, ante la Superintendencia de Seguridad Social dentro del plazo de 30 días hábiles, la que resolverá con competencia exclusiva y sin ulterior recurso.
 
 Sin perjuicio de lo dispuesto en los incisos precedentes, en contra de las demás resoluciones de los organismos administradores podrá reclamarse, dentro del plazo de 90 días hábiles, directamente a la Superintendencia de Seguridad Social.
 
-Los plazos mencionados en este artículo se contarán desde la recepción de la carta certificada que notifica la resolución de la cual se reclama.
+Los plazos mencionados en este artículo se contarán desde la notificación de la resolución, la que se efectuará mediante carta certificada o por los otros medios que establezcan los respectivos reglamentos. Si se hubiere notificado por carta certificada, el plazo se contará desde el tercer día de recibida la misma en el Servicio de Correos.
+
+#### Artículo 77 bis
+
+El trabajador afectado por el rechazo de una licencia o de un reposo médico por parte de los organismos de los Servicios de Salud, de las Instituciones de Salud Previsional o de las Mutualidades de Empleadores, basado en que la afección invocada tiene o no tiene origen profesional, según el caso, deberá concurrir ante el organismo de régimen previsional a que esté afiliado, que no sea el que rechazó la licencia o el reposo médico, el cual estará obligado a cursarla de inmediato y a otorgar las prestaciones médicas o pecuniarias que correspondan, sin perjuicio de los reclamos posteriores y reembolsos, si procedieren, que establece este artículo.
+
+En la situación prevista en el inciso anterior, cualquier persona o entidad interesada podrá reclamar directamente en la Superintendencia de Seguridad Social por el rechazo de la licencia o del reposo médico, debiendo ésta resolver, con competencia exclusiva y sin ulterior recurso, sobre el carácter de la afección que dio origen a ella, en el plazo de treinta días contado desde la recepción de los antecedentes que se requieran o desde la fecha en que el trabajador afectado se hubiere sometido a los exámenes que disponga dicho Organismo, si éstos fueren posteriores.
+
+Si la Superintendencia de Seguridad Social resuelve que las prestaciones debieron otorgarse con cargo a un régimen previsional diferente de aquel conforme al cual se proporcionaron, el Servicio de Salud, el Instituto de Normalización Previsional, la Mutualidad de Empleadores, la Caja de Compensación de Asignación Familiar o la Institución de Salud Previsional, según corresponda, deberán reembolsar el valor de aquéllas al organismo administrador de la entidad que las solventó, debiendo este último efectuar el requerimiento respectivo. En dicho reembolso se deberá incluir la parte que debió financiar el trabajador en conformidad al régimen de salud previsional a que esté afiliado.
+
+El valor de las prestaciones que, conforme al inciso precedente, corresponda reembolsar, se expresará en unidades de fomento, según el valor de éstas en el momento de su otorgamiento, con más el interés corriente para operaciones reajustables a que se refiere la ley N° 18.010, desde dicho momento hasta la fecha del requerimiento del respectivo reembolso, debiendo pagarse dentro del plazo de diez días, contados desde el requerimiento, conforme al valor que dicha unidad tenga en el momento del pago efectivo. Si dicho pago se efectúa con posterioridad al vencimiento del plazo señalado, las sumas adeudadas devengarán el 10% de interés anual, que se aplicará diariamente a contar del señalado requerimiento de pago.
+
+En el evento de que las prestaciones hubieren sido otorgadas conforme a los regímenes de salud dispuestos para las enfermedades comunes, y la Superintendencia de Seguridad Social resolviere que la afección es de origen profesional, el Fondo Nacional de Salud, el Servicio de Salud o la Institución de Salud Previsional que las proporcionó deberá devolver al trabajador la parte del reembolso correspondiente al valor de las prestaciones que éste hubiere solventado, conforme al régimen de salud previsional a que esté afiliado, con los reajustes e intereses respectivos. El plazo para su pago será de diez días, contados desde que se efectuó el reembolso.
+
+Si, por el contrario, la afección es calificada como común y las prestaciones hubieren sido otorgadas como si su origen fuere profesional, el Servicio de Salud o la Institución de Salud Previsional que efectuó el reembolso deberá cobrar a su afiliado la parte del valor de las prestaciones que a éste le corresponde solventar, según el régimen de salud de que se trate, para lo cual sólo se considerará el valor de aquéllas.
+
+Para los efectos de los reembolsos dispuestos en los incisos precedentes, se considerará como valor de las prestaciones médicas el equivalente al que la entidad que las otorgó cobra por ellas al proporcionarlas a particulares.
 
 #### Artículo 78°
 
@@ -918,8 +984,6 @@ El personal que actualmente se desempeña a contrata en la Caja de Accidentes de
 
 El personal de la Caja de Accidentes del Trabajo que a la fecha de vigencia de la presente ley desempeñe de hecho las funciones de auxiliar de enfermería, podrá obtener dicho título, previo examen de competencia rendido ante una comisión designada por el Director del Servicio Nacional de Salud, sin que para ello se necesiten otros requisitos."
 
-Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
+Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley la República.
 
-Santiago, veintitrés de Enero de mil novecientos sesenta y ocho.- EDUARDO FREI MONTALVA.- William Thayer Arteaga.- Ramón Valdivieso Delaunay.
-
-Lo que transcribo a U. para su conocimiento.- Saluda a U.- Alvaro Covarrubias B., Subsecretario de Previsión Social.
+Santiago, veintitrés de enero de mil novecientos sesenta y ocho.- EDUARDO FREI MONTALVA.- William Thayer.- Ramón Valdivieso.

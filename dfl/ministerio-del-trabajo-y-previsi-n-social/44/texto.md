@@ -30,7 +30,7 @@ Con todo, para acceder a los subsidios, los trabajadores dependientes contratado
 
 #### Artículo 5°
 
-DEROGADO.-
+El subsidio que origine el permiso postnatal parental establecido en el artículo 197 bis del Código del Trabajo se otorgará sobre la base de la licencia médica por reposo postnatal y conforme a las instrucciones que imparta la Superintendencia de Seguridad Social.
 
 #### Artículo 6°
 
@@ -44,15 +44,21 @@ Remuneración neta, para la determinación de las bases de cálculo, es la remun
 
 La base del cálculo para la determinación del monto de los subsidios considerará los datos existentes a la fecha de iniciación de la licencia médica y será una cantidad equivalente al promedio de la remuneración mensual neta, del subsidio, o de ambos, que se hayan devengado en los tres meses calendario más próximos al mes en que se inicia la licencia.
 
-En todo caso, el monto diario de los subsidios del inciso primero del articulo 195, y del inciso segundo del artículo 196, ambos del Código del Trabajo, y del artículo 2° de la ley N° 18.867, no podrá exceder del equivalente a las remuneraciones mensuales netas, subsidios o de ambos, devengados por las trabajadoras dependientes en los tres meses anteriores más próximos al séptimo mes calendario que precede al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los siete meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%.
+En todo caso, el monto diario de los subsidios del inciso primero del articulo 195, del inciso segundo del artículo 196 y del artículo 197 bis, todos del Código del Trabajo, y del artículo 2° de la ley N° 18.867, no podrá exceder del equivalente a las remuneraciones mensuales netas, subsidios o de ambos, devengados por las trabajadoras dependientes en los tres meses anteriores más próximos al séptimo mes calendario que precede al del inicio de la licencia, dividido por noventa, aumentado en el 100% de la variación experimentada por el Indice de Precios al Consumidor en el período comprendido por los siete meses anteriores al mes precedente al del inicio de la licencia, e incrementado en un 10%.
 
 Los tres meses a que se refiere el inciso anterior deberán estar comprendidos dentro de los seis meses inmediatamente anteriores al séptimo mes calendario que precede al mes de inicio de la licencia. Si dentro de dicho período sólo se registraren uno o dos meses con remuneraciones y/o subsidios, para determinar el límite del subsidio diario, se dividirá por 30 o 60, respectivamente.
 
-Para los efectos del cálculo de los subsidios a que se refieren el inciso primero del artículo 195, y el inciso segundo del artículo 196, ambos del Código del Trabajo, se considerarán como un solo subsidio los originados en diferentes licencias médicas otorgadas en forma continuada y sin interrupción entre ellas.
+Para los efectos del cálculo de los subsidios a que se refieren el inciso primero del artículo 195, el inciso segundo del artículo 196 y el artículo 197 bis, todos del Código del Trabajo, se considerarán como un solo subsidio los originados en diferentes licencias médicas otorgadas en forma continuada y sin interrupción entre ellas.
 
-En caso de accidentes en que el trabajador no registre cotizaciones suficientes para enterar las mesas a promediar, se considerará para estos efectos la remuneración mensual neta resultante de la establecida en el contrato de trabajo, las veces que sea necesario.
+La base de cálculo del subsidio que origine el permiso postnatal parental del artículo 197 bis del Código del Trabajo será la misma del subsidio derivado del descanso de maternidad a que se refiere el inciso primero del artículo 195 del citado cuerpo legal.
+
+En caso de accidentes en que el trabajador no registre cotizaciones suficientes para enterar los meses a promediar, se considerará para estos efectos la remuneración mensual neta resultante de la establecida en el contrato de trabajo, las veces que sea necesario.
 
 El subsidio de cesantía se exceptúa de la base de cálculo establecida en este artículo.
+
+#### Artículo 8° bis
+
+Cuando el trabajador haga uso del permiso postnatal parental establecido en el artículo 197 bis del Código del Trabajo, el límite al monto diario del subsidio a que se refiere el inciso segundo del artículo anterior se determinará considerando sus remuneraciones mensuales netas, subsidios o ambos, correspondientes al período establecido en el inciso antes citado.
 
 #### Artículo 9°
 
@@ -139,6 +145,16 @@ La Superintendencia de Seguridad Social determinará la proporción en que deban
 #### Artículo 25°
 
 Los derechos a los subsidios a que se refiere este decreto y los regidos por la ley 16.744, son incompatibles entre sí, pero podrán ser ejercidos sucesivamente mientras la incapacidad laboral subsista por alguna de sus causas.
+
+El subsidio a que se refiere el artículo 199 del Código del Trabajo sólo podrá otorgarse una vez terminado el permiso postnatal parental.
+
+Cuando se haga uso del derecho a reincorporarse a trabajar según lo establecido en el artículo 197 bis del Código del Trabajo, el trabajador o la trabajadora percibirán un subsidio equivalente al cincuenta por ciento del subsidio que les hubiere correspondido de acuerdo al inciso primero de la citada norma. Dicho subsidio será compatible con el que se origine por una licencia por enfermedad o accidente común, o en virtud de la ley Nº 16.744, o por el permiso del artículo 199 del Código del Trabajo, de acuerdo a las normas de los incisos siguientes.
+
+Para efectos del artículo 8°, en caso de reincorporación de la trabajadora o trabajador de acuerdo al artículo 197 bis del Código del Trabajo, en la base de cálculo del subsidio que se origine por una licencia por enfermedad o accidente común o en virtud de la ley N° 16.744 o del artículo 199 del Código del Trabajo, se considerará exclusivamente la remuneración mensual neta que origine dicha reincorporación, el subsidio derivado de ella, o ambos. En caso de que la trabajadora o el trabajador no registren cotizaciones suficientes para enterar los meses a promediar, se considerará para estos efectos la remuneración mensual neta resultante del contrato de trabajo que corresponda a la reincorporación, las veces que sea necesario.
+
+No obstante, cuando el permiso postnatal parental se ejerciere conforme a lo dispuesto en el inciso segundo del artículo 197 bis del Código del Trabajo y la trabajadora o el trabajador tenga derecho al subsidio establecido en el artículo 199 del mismo Código, la suma de los valores diarios de ambos subsidios no podrá exceder, en ningún caso, el monto diario del subsidio por permiso postnatal parental que le hubiere correspondido de no haberse reincorporado a trabajar. Asimismo, la suma total de ambos subsidios durante el período de permiso postnatal parental no podrá exceder el monto equivalente al subsidio que le hubiere correspondido por dicho permiso, de no haberse reincorporado a trabajar. Al completarse dicha suma, se extinguirá el permiso postnatal parental.
+
+Durante el período de permiso postnatal parental sólo tendrá derecho al subsidio por enfermedad grave del niño menor de un año quien esté haciendo uso del referido permiso postnatal parental, conforme al inciso segundo del artículo 197 bis del Código del Trabajo.
 
 #### Artículo 26°
 

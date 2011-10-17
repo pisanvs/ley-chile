@@ -2572,15 +2572,15 @@ Ningún empleador podrá condicionar la contratación de trabajadoras, su perman
 
 Las trabajadoras tendrán derecho a un descanso de maternidad de seis semanas antes del parto y doce semanas después de él.
 
-El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de forma continua, excluyendo el descanso semanal, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre o la madre, sin perjuicio de lo dispuesto en el inciso primero del artículo 200, que se le conceda la adopción de un hijo, contado desde la respectiva sentencia definitiva. Este derecho es irrenunciable.
+El padre tendrá derecho a un permiso pagado de cinco días en caso de nacimiento de un hijo, el que podrá utilizar a su elección desde el momento del parto, y en este caso será de forma continua, excluyendo el descanso semanal, o distribuirlo dentro del primer mes desde la fecha del nacimiento. Este permiso también se otorgará al padre que se encuentre en proceso de adopción, y se contará a partir de la notificación de la resolución que otorgue el cuidado personal o acoja la adopción del menor, en conformidad a los artículos 19 y 24 de la ley Nº 19.620. Este derecho es irrenunciable.
 
-Si la madre muriera en el parto o durante el período del permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo, corresponderá al padre, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
+Si la madre muriera en el parto o durante el período de permiso posterior a éste, dicho permiso o el resto de él que sea destinado al cuidado del hijo corresponderá al padre o a quien le fuere otorgada la custodia del menor, quien gozará del fuero establecido en el artículo 201 de este Código y tendrá derecho al subsidio a que se refiere el artículo 198.
 
-El padre que sea privado por sentencia judicial del cuidado personal del menor, perderá el derecho a fuero establecido en el inciso anterior.
+El padre que sea privado por sentencia judicial del cuidado personal del menor perderá el derecho a fuero y subsidio establecidos en el inciso anterior.
 
 Los derechos referidos en el inciso primero no podrán renunciarse y durante los períodos de descanso queda prohibido el trabajo de las mujeres embarazadas y puérperas.
 
-Asimismo, no obstante cualquiera estipulación en contrario, deberán conservárseles sus empleos o puestos durante dichos períodos.
+Asimismo, no obstante cualquier estipulación en contrario, deberán conservárseles sus empleos o puestos durante dichos períodos, incluido el período establecido en el artículo 197 bis.
 
 #### Artículo 196
 
@@ -2589,6 +2589,12 @@ Si durante el embarazo se produjere enfermedad como consecuencia de éste, compr
 Si el parto se produjere después de las seis semanas siguientes a la fecha en que la mujer hubiere comenzado el descanso de maternidad, el descanso prenatal se entenderá prorrogado hasta el alumbramiento y desde la fecha de éste se contará el descanso puerperal, lo que deberá ser comprobado, antes de expirar el plazo, con el correspondiente certificado médico o de la matrona.
 
 Si como consecuencia del alumbramiento se produjere enfermedad comprobada con certificado médico, que impidiere regresar al trabajo por un plazo superior al descanso postnatal, el descanso puerperal será prolongado por el tiempo que fije, en su caso, el servicio encargado de la atención médica preventiva o curativa.
+
+Cuando el parto se produjere antes de iniciada la trigésimo tercera semana de gestación, o si el niño al nacer pesare menos de 1.500 gramos, el descanso postnatal del inciso primero del artículo 195 será de dieciocho semanas.
+
+En caso de partos de dos o más niños, el período de descanso postnatal establecido en el inciso primero del artículo 195 se incrementará en siete días corridos por cada niño nacido a partir del segundo.
+
+Cuando concurrieren simultáneamente las circunstancias establecidas en los incisos cuarto y quinto de este artículo, la duración del descanso postnatal será la de aquel que posea una mayor extensión.
 
 Los certificados a que se refiere este artículo serán expedidos gratuitamente, cuando sean solicitados a médicos o matronas que por cualquier concepto perciban remuneraciones del Estado.
 
@@ -2600,9 +2606,33 @@ El descanso se concederá de acuerdo con las formalidades que especifique el reg
 
 Estos certificados serán expedidos gratuitamente por los médicos o matronas a que se refiere el inciso final del artículo anterior.
 
+#### Artículo 197 bis
+
+Las trabajadoras tendrán derecho a un permiso postnatal parental de doce semanas a continuación del período postnatal, durante el cual recibirán un subsidio cuya base de cálculo será la misma del subsidio por descanso de maternidad a que se refiere el inciso primero del artículo 195.
+
+Con todo, la trabajadora podrá reincorporarse a sus labores una vez terminado el permiso postnatal, por la mitad de su jornada, en cuyo caso el permiso postnatal parental se extenderá a dieciocho semanas. En este caso, percibirá el cincuenta por ciento del subsidio que le hubiere correspondido conforme al inciso anterior y, a lo menos, el cincuenta por ciento de los estipendios fijos establecidos en el contrato de trabajo, sin perjuicio de las demás remuneraciones de carácter variable a que tenga derecho.
+
+Las trabajadoras exentas del límite de jornada de trabajo, de conformidad a lo establecido en el inciso segundo del artículo 22, podrán ejercer el derecho establecido en el inciso anterior, en los términos de dicho precepto y conforme a lo acordado con su empleador.
+
+Para ejercer los derechos establecidos en los incisos segundo, tercero y octavo, la trabajadora deberá dar aviso a su empleador mediante carta certificada, enviada con a lo menos treinta días de anticipación al término del período postnatal, con copia a la Inspección del Trabajo. De no efectuar esta comunicación, la trabajadora deberá ejercer su permiso postnatal parental de acuerdo a lo establecido en el inciso primero.
+
+El empleador estará obligado a reincorporar a la trabajadora salvo que, por la naturaleza de sus labores y las condiciones en que aquella las desempeña, estas últimas sólo puedan desarrollarse ejerciendo la jornada que la trabajadora cumplía antes de su permiso prenatal. La negativa del empleador a la reincorporación parcial deberá ser fundamentada e informada a la trabajadora, dentro de los tres días de recibida la comunicación de ésta, mediante carta certificada, con copia a la Inspección del Trabajo en el mismo acto. La trabajadora podrá reclamar de dicha negativa ante la referida entidad, dentro de tres días hábiles contados desde que tome conocimiento de la comunicación de su empleador. La Inspección del Trabajo resolverá si la naturaleza de las labores y condiciones en las que éstas son desempeñadas justifican o no la negativa del empleador.
+
+En caso de que la trabajadora opte por reincorporarse a sus labores de conformidad a lo establecido en este artículo, el empleador deberá dar aviso a la entidad pagadora del subsidio antes del inicio del permiso postnatal parental.
+
+Con todo, cuando la madre hubiere fallecido o el padre tuviere el cuidado personal del menor por sentencia judicial, le corresponderá a éste el permiso y subsidio establecidos en los incisos primero y segundo.
+
+Si ambos padres son trabajadores, cualquiera de ellos, a elección de la madre, podrá gozar del permiso postnatal parental, a partir de la séptima semana del mismo, por el número de semanas que ésta indique. Las semanas utilizadas por el padre deberán ubicarse en el período final del permiso y darán derecho al subsidio establecido en este artículo, calculado en base a sus remuneraciones. Le será aplicable al trabajador lo dispuesto en el inciso quinto.
+
+En caso de que el padre haga uso del permiso postnatal parental, deberá dar aviso a su empleador mediante carta certificada enviada, a lo menos, con diez días de anticipación a la fecha en que hará uso del mencionado permiso, con copia a la Inspección del Trabajo. Copia de dicha comunicación deberá ser remitida, dentro del mismo plazo, al empleador de la trabajadora. A su vez, el empleador del padre deberá dar aviso a las entidades pagadoras del subsidio que correspondan, antes del inicio del permiso postnatal parental que aquél utilice.
+
+El subsidio derivado del permiso postnatal parental se financiará con cargo al Fondo Único de Prestaciones Familiares y Subsidio de Cesantía del decreto con fuerza de ley Nº150, del Ministerio del Trabajo y Previsión Social, de 1982.
+
+El empleador que impida el uso del permiso postnatal parental o realice cualquier práctica arbitraria o abusiva con el objeto de dificultar o hacer imposible el uso del permiso establecido en los incisos precedentes, será sancionado con multa a beneficio fiscal de 14 a 150 unidades tributarias mensuales. Cualquier infracción a lo dispuesto en este inciso podrá ser denunciada a la Inspección del Trabajo, entidad que también podrá proceder de oficio a este respecto.
+
 #### Artículo 198
 
-La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, o de descansos suplementarios y de plazo ampliado señalados en el artículo 196, recibirá un subsidio equivalente a la totalidad de las remuneraciones y asignaciones que perciba, del cual sólo se deducirán las imposiciones de previsión y descuentos legales que correspondan.
+La mujer que se encuentre en el período de descanso de maternidad a que se refiere el artículo 195, de descansos suplementarios y de plazo ampliado señalados en el artículo 196, como también los trabajadores que hagan uso del permiso postnatal parental, recibirán un subsidio calculado conforme a lo dispuesto en el decreto con fuerza de ley Nº 44, del Ministerio del Trabajo y Previsión Social, de 1978, y en el artículo 197 bis.
 
 #### Artículo 199
 
@@ -2630,23 +2660,21 @@ En todo caso, de la ausencia al trabajo se deberá dar aviso al empleador dentro
 
 #### Artículo 200
 
-La trabajadora o el trabajador que tenga a su cuidado un menor de edad inferior a seis meses, por habérsele otorgado judicialmente la tuición o el cuidado personal del menor como medida de protección, tendrá derecho a permiso y subsidio hasta por doce semanas.
+La trabajadora o el trabajador que tenga a su cuidado un menor de edad, por habérsele otorgado judicialmente la tuición o el cuidado personal como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº 19.620, tendrá derecho al permiso postnatal parental establecido en el artículo 197 bis. Además, cuando el menor tuviere menos de seis meses, previamente tendrá derecho a un permiso y subsidio por doce semanas.
 
-A la correspondiente solicitud de permiso deberá acompañarse necesariamente una declaración jurada suya de tener bajo su cuidado personal al causante del beneficio y un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección.
+A la correspondiente solicitud de permiso, el trabajador o la trabajadora, según corresponda, deberá acompañar necesariamente una declaración jurada de tener bajo su tuición o cuidado personal al causante del beneficio, así como un certificado del tribunal que haya otorgado la tuición o cuidado personal del menor como medida de protección, o en virtud de lo previsto en los artículos 19 o 24 de la ley Nº19.620.
 
 #### Artículo 201
 
-Durante el período de embarazo y hasta un año después de expirado el descanso de maternidad, la trabajadora estará sujeta a lo dispuesto en el artículo 174.
+Durante el período de embarazo y hasta un año después de expirado el descanso de maternidad, excluido el permiso postnatal parental establecido en el artículo 197 bis, la trabajadora gozará de fuero laboral y estará sujeta a lo dispuesto en el artículo 174. En caso de que el padre haga uso del permiso postnatal parental del artículo 197 bis también gozará de fuero laboral, por un período equivalente al doble de la duración de su permiso, a contar de los diez días anteriores al comienzo del uso del mismo. Con todo, este fuero del padre no podrá exceder de tres meses.
 
-Tratándose de mujeres o de hombres solteros o viudos que manifiesten al tribunal su voluntad de adoptar un hijo en conformidad a las disposiciones de la Ley de Adopción, el plazo de un año establecido en el inciso precedente se contará desde la fecha en que el juez, mediante resolución dictada al efecto, confíe a estos trabajadores el cuidado personal del menor en conformidad al artículo 19 de la Ley de Adopción o bien le otorgue la tuición en los términos del inciso tercero del artículo 24 de la misma ley.
+Tratándose de mujeres o de hombres solteros o viudos que manifiesten al tribunal su voluntad de adoptar un hijo en conformidad a las disposiciones de la ley Nº 19.620, el plazo de un año establecido en el inciso primero se contará desde la fecha en que el juez, mediante resolución dictada al efecto, confíe a estos trabajadores el cuidado personal del menor en conformidad al artículo 19 de la ley Nº 19.620 o bien le otorgue la tuición en los términos del inciso tercero del artículo 24 de la misma ley.
 
 Sin perjuicio de lo antes indicado, cesará de pleno derecho el fuero establecido en el inciso precedente desde que se encuentre ejecutoriada la resolución del juez que decide poner término al cuidado personal del menor o bien aquella que deniegue la solicitud de adopción. Cesará también el fuero en el caso de que la sentencia que acoja la adopción sea dejada sin efecto en virtud de otra resolución judicial.
 
-Si por ignorancia del estado de embarazo o del cuidado personal o tuición de un menor en el plazo y condiciones indicados en el inciso segundo precedente, se hubiere dispuesto el término del contrato en contravención a lo dispuesto en el artículo 174, la medida quedará sin efecto, y la trabajadora volverá a su trabajo, para lo cual bastará la sola presentación del correspondiente certificado médico o de matrona, o bien de una copia autorizada de la resolución del tribunal que haya otorgado la tuición o cuidado personal del menor, en los términos del inciso segundo, según sea el caso, sin perjuicio del derecho a remuneración por el tiempo en que haya permanecido indebidamente fuera del trabajo, si durante ese tiempo no tuviere derecho a subsidio. La afectada deberá hacer efectivo este derecho dentro del plazo de 60 días hábiles contados desde el despido.
+Si por ignorancia del estado de embarazo o del cuidado personal o tuición de un menor en el plazo y condiciones indicados en el inciso segundo se hubiere dispuesto el término del contrato, en contravención a lo dispuesto en el artículo 174, la medida quedará sin efecto y la trabajadora volverá a su trabajo, para lo cual bastará la sola presentación del correspondiente certificado médico o de matrona, o bien de una copia autorizada de la resolución del tribunal que haya otorgado la tuición o cuidado personal del menor, en los términos del inciso segundo, según sea el caso, sin perjuicio del derecho a remuneración por el tiempo en que haya permanecido indebidamente fuera del trabajo, si durante ese tiempo no tuviere derecho a subsidio. La afectada deberá hacer efectivo este derecho dentro del plazo de 60 días hábiles contados desde el despido.
 
-No obstante lo dispuesto en el inciso primero, si el desafuero se produjere mientras la mujer estuviere gozando del descanso maternal a que aluden los artículos 195 y 196, aquélla continuará percibiendo el subsidio del artículo 198 hasta la conclusión del período de descanso. Para los efectos del subsidio de cesantía, si hubiere lugar a él, se entenderá que el contrato de trabajo expira en el momento en que dejó de percibir el subsidio maternal.
-
-Inciso suprimido.
+No obstante lo dispuesto en el inciso primero, si el término del fuero se produjere mientras la mujer estuviere gozando del descanso maternal o permiso parental a que aluden los artículos 195, 196 y 197 bis, continuará percibiendo el subsidio mencionado en el artículo 198 hasta la conclusión del período de descanso o permiso. Para los efectos del subsidio de cesantía, si hubiere lugar a él, se entenderá que el contrato de trabajo expira en el momento en que dejó de percibir el subsidio maternal.
 
 #### Artículo 202
 
