@@ -76,89 +76,9 @@ Tubos radiantes para calefacción que utilizan combustibles gaseosos.
 
 Calefactores radiantes para cría de animales, que utilizan combustibles gaseosos.
 
-2.- Materiales de Instalación
-
-Tubos de cobre sin costura para gas, tipos "K" y "L".
-
-Llaves de paso de baja y media presión para gases combustibles, para presión nominal menor o igual 500 kPa.
-
-Conexiones metálicas flexibles para GLP.
-
-Mangueras flexibles de elastómero para GLP, con o sin conexiones roscadas.
-
-Mangueras de caucho para equipos de soldeo, corte y procesos afines que utilizan GLP, con y sin uniones roscadas.
-
-Tubos flexibles de elastómero con o sin conexiones roscadas, con o sin cubierta metálica, para conducción de combustibles gaseosos.
-
-Tubos flexibles de PVC para GLP en baja presión.
-
-Accesorios de unión de polietileno en redes de distribución para combustibles gaseosos.
-
-Accesorios de unión para tubos de cobre para gases combustibles.
-
-Accesorios de unión de cobre forjado para gases combustibles.
-
-Tuberías de polietileno (PE) enterradas para redes, de distribución de combustibles gaseosos.
-
-Reguladores domiciliarios para gases combustibles.
-
-Válvula con sistema de corte automático del paso de gas ante sismos.
-
-Tubos flexibles de policloruro de vinilo (PVC) con conectores metálicos incorporados, para uso en artefactos móviles y portátiles que utilizan gases licuados de petróleo en cilindros, en baja presión.
-
-3.- Envases a Presión
-
-Cilindros portátiles soldados de acero para GLP.
-
-Cilindros portátiles para GLP, completamente recubiertos de materiales compuestos (composite), con liner no metálico.
-
-Cartuchos metálicos para GLP, no recargables, con o sin válvula, destinados a alimentar artefactos portátiles.
-
-Tanques de almacenamiento de combustibles gaseosos.
-
-Tanques de transporte de combustibles gaseosos.
-
-Tanques autosoportantes para transporte de GLP sobre boggies de ferrocarril.
-
 4.- Instrumentos
 
 Medidores de volumen de gas para baja presión, de paredes deformables o diafragmas.
-
-5.- Dispositivos y Accesorios
-
-Reguladores de presión para cilindros portátiles soldados para gases licuados de petróleo.
-
-Válvulas de seguridad para tanques de almacenamiento de GLP.
-
-Válvulas de accionamiento automático para cilindros portátiles soldados para GLP.
-
-Válvulas de accionamiento manual para cilindros portátiles soldados para GLP.
-
-Llaves de control manual para artefactos a gas.
-
-Regulador de presión para artefactos que utilizan combustibles gaseosos.
-
-Llaves de control termoeléctricas.
-
-Llaves de control variable con seguridad termoeléctrica.
-
-Materiales de elastómeros para juntas destinadas a artefactos y equipos que utilizan combustibles gaseosos.
-
-Materiales de elastómeros para membranas destinadas a artefactos y equipos que utilizan combustibles gaseosos.
-
-Anillo de ajuste para hermeticidad en válvulas de accionamiento automático para cilindros para GLP.
-
-Adaptadores tipo universal para artefactos portátiles que utilizan GLP, operando a presión directa de vapor.
-
-Reguladores de alta presión a media presión para cilindros portátiles soldados para GLP.
-
-Kit para la conversión de los calefones que utilizan gases combustibles.
-
-Dispositivo de control de la evacuación de los productos de combustión de los artefactos del tipo B.
-
-Quemadores atmosféricos que utilizan combustibles gaseosos.
-
-Dispositivo de ayuda a la evacuación de los productos de la combustión acoplados a calderas y calefones, Tipo B, en servicio, que utilizan combustibles gaseosos, y cuyo gasto nominal es inferior o igual a 70 kW.
 
 B) Productos de Combustibles Líquidos:
 
