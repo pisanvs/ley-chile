@@ -82,6 +82,24 @@ El número de postulantes seleccionados en cada Región alcanzará hasta el núm
 
 8. Si la aplicación del subsidio se realiza para la adquisición de una vivienda nueva, de acuerdo a la definición que el DS Nº 174 (V. y U ) de 2005, hace de ella, esta operación podrá presentar el mismo programa arquitectónico exigido en la adquisición de una vivienda existente. previa autorización del Serviu respectivo.
 
+9. La tasación comercial respectiva podrá efectuarse por un profesional competente la cual deberá tener en consideración los siguientes aspectos:
+
+. Lugar de ubicación.
+
+. Análisis urbano.
+
+. Análisis arquitectónico.
+
+. Antecedentes legales.
+
+. Análisis constructivo.
+
+. Elementos de conflicto ambiental.
+
+. Condiciones de mercado vigente.
+
+10. Las condiciones dispuestas en la presente resolución podrán ser aplicables a las operaciones seleccionadas mediante el llamado efectuado por la resolución exenta Nº 2.967 (V. y U.), de 2010, siempre que éstas sean más favorables a los beneficiarios, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli Del Río, Subsecretario de Vivienda y Urbanismo.
