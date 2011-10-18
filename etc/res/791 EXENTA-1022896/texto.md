@@ -94,6 +94,8 @@ q) Los proyectos que consulten como elemento constructivo tierra cruda o similar
 
 En estos casos, la Comisión Técnico Evaluadora de SERVIU no revisará el proyecto de cálculo, debiendo cumplirse con lo señalado en la Circular Ord. N° 338, DDU Específica N° 18/2010, de fecha 26 de mayo de 2010, de la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo.
 
+r) Los postulantes al presente llamado especial acreditarán dominio, sea a título personal, a nombre de su cónyuge, o en comunidad, sólo mediante declaración jurada, en formato provisto por el SERVIU.
+
 3. Los recursos involucrados para la selección de los proyectos que se postulen al llamado dispuesto por esta Resolución, serán los siguientes:
 
 El número de familias seleccionadas condicionalmente en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla anterior, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras.
@@ -104,7 +106,7 @@ a) Las familias podrán postular en forma individual o colectiva. La postulació
 
 El SERVIU podrá agrupar territorialmente a las familias damnificadas, para la elección y posterior desarrollo de construcción de una vivienda de proyecto tipo, según capacidad y disponibilidad de construcción que el SERVIU acredite para tal efecto. El grupo de familias definirá por mayoría simple el tipo de proyecto de vivienda a ser seleccionada, lo que deberá constar en un Acta. Tal documento deberá ser suscrito por todos los integrantes del grupo, dejando constancia que las familias que integran dicho grupo han elegido determinado proyecto tipo de vivienda.
 
-b) Una vez evaluados satisfactoriamente los antecedentes del postulante, el SERVIU entregará un certificado de seleccionado condicional, comprometiendo los recursos para esta operación. El beneficiario se mantendrá en esa condición hasta que se obtenga la aprobación por parte del SERVIU del informe realizado por la Asesoría Técnica y Jurídica, en el cual se acredite la disponibilidad de terreno conforme al artículo 15 o al artículo 28, letra j) 7. del D.S. N° 174 (V. y U.), de 2005, según corresponda, o a lo dispuesto en las letras k) y l), del Resuelvo 2 de esta resolución, y el certificado de factibilidad técnica al que se refiere el número 5.4 de esta resolución.
+b) Una vez evaluados satisfactoriamente los antecedentes del postulante, el SERVIU entregará un certificado de seleccionado condicional, comprometiendo los recursos para esta operación. El beneficiario se mantendrá en esa condición hasta que se obtenga la aprobación por parte del SERVIU del informe realizado por la Asesoría Técnica y Jurídica y el certificado de factibilidad técnica al que se refiere el número 5.4 de esta resolución.
 
 c) El SERVIU deberá proceder a registrar a las empresas disponibles para la participación de este llamado especial, en función del procedimiento y condiciones establecidas en el Oficio N° 385, de fecha 1 de junio de 2010, del Subsecretario de Vivienda y Urbanismo, o en el instrumento que lo reemplace.
 
@@ -239,6 +241,8 @@ g) Si transcurrido el plazo de 180 días señalado en la letra d) precedente, la
 En el caso que se haga efectiva la boleta de garantía, la devolución a la empresa constructora de las cantidades correspondientes a los anticipos de los subsidios ratificados, sólo procederá contra entrega de una nueva boleta bancaria de garantía que caucione el valor de esos anticipos.
 
 h) El convenio que celebre el SERVIU con cada empresa constructora, deberá, a lo menos, dejar constancia de las condiciones que se contienen en este Resuelvo y las demás acciones, condiciones, compromisos y obligaciones que asumirá la empresa constructora para la ratificación de los subsidios reservados y el desarrollo y ejecución de los proyectos, como asimismo cualquier otra estipulación que se estime conveniente a los intereses de las partes, según formato tipo de convenio proporcionado por la División Técnica de Estudio y Fomento Habitacional del MINVU.
+
+11. Las condiciones dispuestas en la presente resolución podrán ser aplicables a los beneficiarios preseleccionados mediante el llamado efectuado por la resolución exenta Nº 2.968 (V. y U.), de 2010, siempre que éstas sean más favorables, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
 
 Anótese, comuníquese, publíquese y archívese.- Andrés Iacobelli del Río, Ministro de Vivienda y Urbanismo (S).
 

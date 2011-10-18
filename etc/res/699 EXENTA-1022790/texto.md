@@ -78,6 +78,8 @@ j) Los postulantes al presente llamado especial que tengan la calidad de damnifi
 
 k) Los postulantes que tengan la calidad de damnificados podrán acreditar disponibilidad de terreno mediante constitución de derecho real de uso a su favor o al de su cónyuge, por parte del propietario sobre una porción del mismo, según lo señalado en el artículo 28, letra j.7, del D.S. N° 174 (V. y U.), de 2005, sin que sea exigible cumplir con la condición de parentesco.
 
+Asimismo, los postulantes que tengan la calidad de damnificados con proyectos de la tipología de construcción en sitio propio acreditarán dominio, sea a título personal, a nombre de su cónyuge, o en comunidad, sólo mediante declaración jurada, en formato provisto por el SERVIU.
+
 l) A contar de la fecha de emisión del Certificado de Proyecto Ingresado, la Comisión Técnica Evaluadora dispondrá de un plazo máximo de 20 días corridos para calificar los antecedentes acompañados que respalden la factibilidad técnica, económica, legal y social del proyecto, debiendo emitir en ese plazo las observaciones al proyecto, si las hubiere, o su calificación respectiva.
 
 m) Los proyectos podrán permanecer en el Banco "Con Observaciones" hasta por 30 días corridos contados desde la fecha de emisión del documento de observaciones. Cumplido dicho plazo, sin respuesta por parte de la EGIS, el proyecto será eliminado del Banco de Proyectos.
@@ -198,7 +200,9 @@ Estas familias no serán evaluadas, incorporándose a los proyectos como familia
 
 Para proceder a la adscripción de estas familias, el beneficiario deberá firmar una declaración en que acepta validar su subsidio de Adquisición de Vivienda Construida en un proyecto de construcción, previamente individualizado. El certificado quedará automáticamente caducado una vez que el proyecto sea calificado y en ese caso se hará entrega al beneficiario de un nuevo certificado. Si el proyecto está seleccionado, el Serviu deberá dictar una resolución autorizando la adscripción y emitir un nuevo certificado de subsidio, informando de ello a la División de Política Habitacional del Ministerio de Vivienda y Urbanismo.
 
-7. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
+7. Las condiciones dispuestas en la presente resolución podrán ser aplicables a los proyectos y beneficiarios seleccionados mediante el llamado efectuado por la resolución exenta Nº 2.186 (V. y U.), de 2010, siempre que éstas sean más favorables en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
+
+8. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
 > **Nota.** La letra e) del numeral 4 de la Resolución 4821 Exenta, Vivienda, publicada el 17.08.2011 modifica la presente norma en el sentido de reemplazar en la tabla inserta en la fila N° 13 por aquella que la norma indica.
 
