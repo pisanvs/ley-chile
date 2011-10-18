@@ -70,7 +70,7 @@ Conforme a lo dispuesto en el Artículo 94 de la Ley Orgánica Constitucional de
 
 - Plebiscitos Comunales
 
-- Consejo Económico y Social Comunal
+- Consejo Comunal de Organizaciones de la Sociedad Civil
 
 - Audiencias Públicas
 
@@ -128,7 +128,7 @@ De conformidad con el artículo 99 de la Ley 18.695, se podrán someter a plebis
 
 <!-- parte:8435336 -->
 
-El Alcalde, con el acuerdo del Concejo, o por requerimiento de los dos tercios (2/3) de éste, o por solicitud de los ciudadanos que se precisan en el artículo 10, someterá a plebiscito comunal las materias de administración local que se indiquen en la respectiva convocatoria.-
+El Alcalde, con el acuerdo del Concejo, a requerimiento de los dos tercios de los integrantes en ejercicio del mismo y a solicitud de dos tercios de los integrantes en ejercicio del Consejo Comunal de las Organizaciones de la Sociedad Civil, ratificada por los dos tercios de los Concejales en ejercicio, o por iniciativa de los ciudadanos inscritos en los registros electorales de la comuna conforme a lo establecido en el artículo 10, someterá a plebiscito comunal, las materias de administración local referidas en el artículo precedente u otras de interés para la comunidad local y que se indiquen en la respectiva convocatoria.
 
 #### Artículo 9º
 
@@ -142,7 +142,7 @@ Si el plebiscito se origina en la autoridad comunal -Alcalde o Concejo- la Munic
 
 <!-- parte:8435338 -->
 
-Para el requerimiento del plebiscito comunal a través de la ciudadanía, ésta deberá concurrir con la firma ante Notario Público u Oficial de Registro Civil, de a lo menos el 10% de los ciudadanos inscritos en los Registros Electorales de la Comuna al 31 de Diciembre del año anterior a la petición, debiendo acreditarse dicho porcentaje mediante certificado extendido por el Director Regional del Servicio Electoral.-
+Para el requerimiento del plebiscito comunal a través de la ciudadanía, ésta deberá concurrir con la firma ante Notario Público u Oficial de Registro Civil, de a lo menos el 5% de los ciudadanos inscritos en los Registros Electorales de la Comuna al 31 de Diciembre del año anterior a la petición, debiendo acreditarse dicho porcentaje mediante certificado extendido por el Director Regional del Servicio Electoral.-
 
 #### Artículo 11º
 
@@ -236,13 +236,13 @@ Los plebiscitos comunales se realizarán, preferentemente, en días sábados y e
 
 ## Capítulo II
 
-CONSEJO ECONÓMICO Y SOCIAL COMUNAL
+CONSEJO COMUNAL DE ORGANIZACIONES DE LA SOCIEDAD CIVIL
 
 #### Artículo 25º
 
 <!-- parte:8435353 -->
 
-En la Municipalidad de Providencia existirá un Consejo Económico y Social Comunal (CESCO), compuesto por representantes de la comunidad local organizada.-
+En la Municipalidad de Providencia existirá un Consejo Comunal de Organizaciones de la Sociedad Civil, compuesto por representantes de la comunidad local organizada.-
 
 #### Artículo 26º
 
@@ -254,7 +254,7 @@ Será un órgano asesor de la Municipalidad y tendrá por objetivo asegurar la p
 
 <!-- parte:8435356 -->
 
-El Consejo Económico y Social Comunal deberá pronunciarse respecto de las siguientes materias:
+El Consejo Comunal de Organizaciones de la Sociedad Civil deberá pronunciarse respecto de las siguientes materias:
 
 - La cuenta pública del Alcalde
 
@@ -666,7 +666,7 @@ DE LA CUENTA PUBLICA E INFORMACION LOCAL
 
 <!-- parte:8435393 -->
 
-El Alcalde deberá dar cuenta pública al Concejo, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la Municipalidad.
+El Alcalde deberá dar cuenta pública al Concejo Municipal, al Consejo Comunal de Organizaciones de la Sociedad Civil y a la ciudadanía, a más tardar en el mes de abril de cada año, de su gestión anual y de la marcha general de la Municipalidad.
 
 La Cuenta Pública se efectuará mediante informe escrito, el cual deberá hacer referencia a lo menos a los siguientes contenidos:
 
@@ -710,9 +710,9 @@ PLAN REGULADOR COMUNAL
 
 <!-- parte:8435397 -->
 
-De acuerdo con lo dispuesto en los artículos 43 y 45 del D.F.L. N°458 del Ministerio de Vivienda y Urbanismo de 1975, Ley General de Urbanismo y Construcciones y en el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones, el Proyecto del Plan Regulador Comunal, sus modificaciones y actualizaciones deberán comunicarse a la comunidad para que formulen observaciones, a través de dos publicaciones efectuadas en algún diario de los de mayor circulación en la comuna, en semanas distintas, en las que se indicará el lugar y el plazo en que será expuesto para conocimiento del público y el lugar, fecha y hora en que se realizarán las audiencias públicas. Esta exposición deberá mantenerse a lo menos durante los 30 días siguientes a la fecha de las audiencias públicas. Además se deberá consultar la opinión del Consejo Económico y Social Comunal, en sesión citada expresamente para este efecto.
+De acuerdo con lo dispuesto en los artículos 43 y 45 del D.F.L. N°458 del Ministerio de Vivienda y Urbanismo de 1975, Ley General de Urbanismo y Construcciones y en el artículo 2.1.11 de la Ordenanza General de Urbanismo y Construcciones, el Proyecto del Plan Regulador Comunal, sus modificaciones y actualizaciones deberán comunicarse a la comunidad para que formulen observaciones, a través de dos publicaciones efectuadas en algún diario de los de mayor circulación en la comuna, en semanas distintas, en las que se indicará el lugar y el plazo en que será expuesto para conocimiento del público y el lugar, fecha y hora en que se realizarán las audiencias públicas. Esta exposición deberá mantenerse a lo menos durante los 30 días siguientes a la fecha de las audiencias públicas. Además se deberá consultar la opinión del Consejo Comunal de Organizaciones de la Sociedad Civil, en sesión citada expresamente para este efecto.
 
-Vencido el plazo señalado en el inciso primero, se consultará a la comunidad, por medio de una nueva audiencia pública y al Consejo Económico y Social Comunal, en sesión convocada especialmente para este efecto. En dicha sesión deberá presentarse un informe que sintetice las observaciones recibidas.
+Vencido el plazo señalado en el inciso primero, se consultará a la comunidad, por medio de una nueva audiencia pública y al Consejo Comunal de Organizaciones de la Sociedad Civil, en sesión convocada especialmente para este efecto. En dicha sesión deberá presentarse un informe que sintetice las observaciones recibidas.
 
 Los interesados podrán formular observaciones al proyecto dentro del plazo de 15 días después de la audiencia pública a que se refiere el inciso precedente, las que deberán ser fundadas y presentarse por escrito al Municipio. Estas observaciones deberán ser oportunamente puestas en conocimiento del Concejo Municipal al someterse a su aprobación el citado proyecto. Lo resuelto por el Concejo respecto de las observaciones formuladas por los interesados, será informado a éstos.
 
@@ -810,7 +810,7 @@ GRUPOS DE APOYO
 
 <!-- parte:8435414 -->
 
-El Alcalde podrá invitar a participar en Comisiones de trabajo a personas calificadas en determinadas materias para que colaboren con la Municipalidad en el diagnóstico y propuestas de solución en los distintos ámbitos del quehacer comunal. Las Comisiones estarán integradas, además, por los miembros del Consejo Económico y Social Comunal y los funcionarios que el Alcalde designe.
+El Alcalde podrá invitar a participar en Comisiones de trabajo a personas calificadas en determinadas materias para que colaboren con la Municipalidad en el diagnóstico y propuestas de solución en los distintos ámbitos del quehacer comunal. Las Comisiones estarán integradas, además, por los miembros del Consejo Comunal de Organizaciones de la Sociedad Civil y los funcionarios que el Alcalde designe.
 
 #### Artículo 73º
 
