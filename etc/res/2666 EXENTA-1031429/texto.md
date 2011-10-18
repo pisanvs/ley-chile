@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.666, de 6 de octubre de 2011 de esta Subsecretaría, recházanse las solicitudes números 208103140, 208103138, 200111528, 208103139, 201112095, 201111980 y 208106086, señaladas en la resolución extractada, y publicada íntegramente en web , en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 6 de octubre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
