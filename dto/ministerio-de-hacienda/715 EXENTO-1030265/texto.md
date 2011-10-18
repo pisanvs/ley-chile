@@ -48,7 +48,7 @@ REGIÓN DEL BIOBÍO
 
 Ingenieros de Ejecución:
 
-- Marcela Paula Garrido Moreno
+- Marcela Paola Garrido Moreno
 
 - Karina Alejandra Lorca Pérez
 
