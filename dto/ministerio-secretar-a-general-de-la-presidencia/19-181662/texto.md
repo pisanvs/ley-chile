@@ -70,61 +70,93 @@ Delégase en los Ministros de Estado la facultad de suscribir, bajo la fórmula 
 
 28. Disponer aportes o transferencias, con o sin convenio, de los recursos que considere anualmente la Ley de Presupuestos, con excepción de aquellos que de conformidad a la ley citada deban distribuirse directamente por las Subsecretarías correspondientes.
 
-### II. MINISTERIO DEL INTERIOR
+### II. MINISTERIO DEL INTERIOR y Seguridad Pública
 
-1. Determinación de balnearios y lugares de turismo para el expendio de bebidas alcohólicas, de conformidad con el artículo 28º del D.L. Nº 3.063, de 1979.
+1. Nombramientos, ascensos y retiros del personal civil de nombramiento supremo de las plantas de las Fuerzas de Orden y Seguridad Pública.
 
-2. Determinación de los factores que fijarán los coeficientes de distribución del Fondo Común Municipal; establecimiento de las ponderaciones relativas al número de habitantes que corresponda asignar a comunas -balnearios y otras de población flotante, de conformidad con el artículo 38º, inciso 4º del D.L. Nº 3.063 de 1979.
+2. Los permisos o autorizaciones que se concedan al General Director de Carabineros, de conformidad al artículo 46 Nº 2 del DFL Nº 2, de 1968, del Ministerio del Interior.
 
-3. Establecimiento del menor ingreso que presenten ciertas Municipalidades para cubrir sus gastos de operación, y la cantidad que podrá destinarse a esos efectos, de conformidad con el artículo 38º, inciso 6º, del D.L. Nº 3.063 de 1979.
+3. Establecer el número de empleos y grados del personal de Carabineros de Chile de nombramiento supremo e institucional que podrá ser llamado al servicio.
 
-4. Transferencia gratuita de inmuebles municipales a instituciones públicas o privadas que no persigan fines de lucro y a personas naturales, chilenas y de escasos recursos, previstas en el inciso 2º, del artículo 16º del D.F.L. 789, de 1978, del ex Ministerio de Tierras y Colonización.
+4. Llamado, prórroga y término del llamado al servicio del personal de nombramiento supremo de Carabineros de Chile.
 
-5. Izamiento del pabellón nacional en los casos que autoriza la ley, cuando ello se efectúe en todo el territorio nacional.
+5. Nombramientos, ascensos, retiros y aceptación de renuncia de los oficiales hasta el grado de Coronel de Carabineros de Chile o de Prefecto en la Policía de Investigaciones de Chile.
 
-6. Otorgamiento de condecoración ''De Servicio a la Presidencia de la República'', a que se refiere el D.S.
+6. Determinación de la inutilidad, su clasificación y la capacidad para continuar o no en el servicio del personal de la Policía de Investigaciones de Chile de acuerdo al artículo 74 del DFL Nº 1, de 1980, del Ministerio de Defensa Nacional.
+
+7. Determinación de la inutilidad, su clasificación para los efectos de los abonos y la capacidad para continuar o no en el servicio del personal de Carabineros de Chile, de acuerdo al artículo 87 del DFL Nº 2, de 1968, del Ministerio del Interior.
+
+8. Declaración de la procedencia de otorgar el derecho de montepío en favor de los asignatarios de dicho beneficio, en los casos referidos a personal de las Fuerzas de Orden y Seguridad Pública que desapareciere a consecuencia de un accidente o catástrofe ocurrida en actos de servicio, de acuerdo a las normas de sus respectivos Estatutos de Personal.
+
+9. Aumento transitorio de plazas en escalafones pertenecientes a las Fuerzas de Orden y Seguridad Pública, en caso que estos aumentos importen ascensos o nombramientos hasta el grado de Coronel de Carabineros o de Prefecto en la Policía de Investigaciones de Chile.
+
+10. Declaración de cese de funciones por fallecimiento, respecto del personal de Nombramiento Supremo de las Fuerzas de Orden y Seguridad Pública.
+
+11. Otorgamiento de gratificaciones especiales de riesgo por misiones peligrosas de excepción, respecto de las Fuerzas de Orden y Seguridad Pública.
+
+12. Fijación del número o cuota de oficiales de la Policía de Investigaciones de Chile que deben acogerse a retiro.
+
+13. Disponer el ingreso de oficiales que deben pasar a integrar el Escalafón de Complemento de las Fuerzas de Orden y Seguridad Pública.
+
+14. Disponer el cambio de escalafón del Personal de Nombramiento Supremo de Carabineros de Chile.
+
+15. Fijación de la jornada efectiva de trabajo del personal de la Policía de Investigaciones de Chile que ocupe cargos para cuyo desempeño se requiera título profesional universitario, excluido el personal del Escalafón de Oficiales Policiales Profesionales.
+
+16. Determinación de balnearios y lugares de turismo para el expendio de bebidas alcohólicas, de conformidad con el artículo 28º del D.L. Nº 3.063, de 1979.
+
+17. Determinación de los factores que fijarán los coeficientes de distribución del Fondo Común Municipal; establecimiento de las ponderaciones relativas al número de habitantes que corresponda asignar a comunas -balnearios y otras de población flotante, de conformidad con el artículo 38º, inciso 4º del D.L. Nº 3.063 de 1979.
+
+18. Establecimiento del menor ingreso que presenten ciertas Municipalidades para cubrir sus gastos de operación, y la cantidad que podrá destinarse a esos efectos, de conformidad con el artículo 38º, inciso 6º, del D.L. Nº 3.063 de 1979.
+
+19. Transferencia gratuita de inmuebles municipales a instituciones públicas o privadas que no persigan fines de lucro y a personas naturales, chilenas y de escasos recursos, previstas en el inciso 2º, del artículo 16º del D.F.L. 789, de 1978, del ex Ministerio de Tierras y Colonización.
+
+20. Izamiento del pabellón nacional en los casos que autoriza la ley, cuando ello se efectúe en todo el territorio nacional.
+
+21. Otorgamiento de condecoración ''De Servicio a la Presidencia de la República'', a que se refiere el D.S.
 
 Nº 228, de 1994, del Ministerio del Interior.
 
-7. Declaración de Duelo Nacional u Oficial prevista en los artículos 70 al 73 del D.S. Nº 150, de 1990, del Ministerio de Relaciones Exteriores.
+22. Declaración de Duelo Nacional u Oficial prevista en los artículos 70 al 73 del D.S. Nº 150, de 1990, del Ministerio de Relaciones Exteriores.
 
-8. Nombramientos de Intendentes Regionales y de Gobernadores Provinciales en calidad de suplentes.
+23. Nombramientos de Intendentes Regionales y de Gobernadores Provinciales en calidad de suplentes.
 
-9. Destinación de determinados bienes al patrimonio del Gobierno Regional por aplicación de lo dispuesto en el inciso 2º de la disposición Quinta Transitoria de la ley Nº 19.175, como asimismo, la mantención de determinados bienes en dicho patrimonio, de conformidad con el artículo 70º letra h) de la referida ley, incluyéndose además en esta delegación, el perfeccionamiento de transferencias de dominio de bienes adquiridos o construidos con recursos del F.N.D.R. con anterioridad a la entrada en vigencia de la citada ley, a las entidades públicas que no sean fiscales, y que estén actualmente destinadas a éstas, según lo dispuesto en el inciso 1º, de la citada disposición Quinta Transitoria.
+24. Destinación de determinados bienes al patrimonio del Gobierno Regional por aplicación de lo dispuesto en el inciso 2º de la disposición Quinta Transitoria de la ley Nº 19.175, como asimismo, la mantención de determinados bienes en dicho patrimonio, de conformidad con el artículo 70º letra h) de la referida ley, incluyéndose además en esta delegación, el perfeccionamiento de transferencias de dominio de bienes adquiridos o construidos con recursos del F.N.D.R. con anterioridad a la entrada en vigencia de la citada ley, a las entidades públicas que no sean fiscales, y que estén actualmente destinadas a éstas, según lo dispuesto en el inciso 1º, de la citada disposición Quinta Transitoria.
 
-10.- Los que conceden pensión de gracias de acuerdo a la ley Nº 18.056 y los que lo modifican modifican.
+25.- Los que conceden pensión de gracias de acuerdo a la ley Nº 18.056 y los que lo modifican modifican.
 
-11.- Convenios de colaboración y de prestación de servicios incluidos en el marco de la ejecución del Programa de Seguridad y Participación Ciudadana del Ministerio del Interior, conforme a lo dispuesto en la Ley de Presupuestos del Sector Público de cada año.
+26.- Convenios de colaboración y de prestación de servicios incluidos en el marco de la ejecución del Programa de Seguridad y Participación Ciudadana del Ministerio del Interior, conforme a lo dispuesto en la Ley de Presupuestos del Sector Público de cada año.
 
 ### III. MINISTERIO DE DEFENSA NACIONAL
 
-1. Nombramientos, ascensos y retiros del personal civil de nombramiento supremo de las plantas de las Fuerzas de Orden y Seguridad Pública y los permisos o autorizaciones que se concedan a los Comandantes en Jefe de las Fuerzas Armadas y al General Director de Carabineros, de conformidad a los artículos 228 del DFL Nº1 de 1997 y 46 del DFL Nº 2 de 1968, ambos del Ministerio de Defensa.
+1. Los permisos o autorizaciones que se concedan
+
+a los Comandantes en Jefe de las Fuerzas Armadas, de conformidad al artículo 228 del DFL Nº 1 de 1997 del Ministerio de Defensa Nacional.
 
 2. Llamado, prórroga y término del llamado al servicio activo en la reserva de las instituciones de las Fuerzas Armadas.
 
-3. Nombramientos, ascensos, retiros y aceptación de renuncia de los oficiales hasta el grado de Coronel o su equivalente en las Fuerzas Armadas y en las Fuerzas de Orden y Seguridad Pública.
+3. Nombramientos, ascensos, retiros y aceptación de renuncia de los oficiales hasta el grado de Coronel o su equivalente en las Fuerzas Armadas.
 
 4. Fijación de la jornada efectiva de trabajo de los oficiales de los Servicios que requieran título profesional universitario, de conformidad al artículo 139º del D.F.L. Nº 1, (G), de 1997.
 
 5. Decretos a que se refiere el artículo 71º del D.F.L. Nº 1 (G), de 1997.
 
-6. Determinación de la inutilidad, su clasificación y la capacidad para continuar o no en el servicio del personal de Orden y Seguridad Pública, de acuerdo al artículo 87º del D.F.L. Nº 2, (1), de 1968 y artículo 74º del D.F.L. Nº 1, de Defensa, de 1980.
+6. DEROGADO.
 
 7. Concesión de gratificación de zona al personal de conscriptos de las Fuerzas Armadas, de conformidad al artículo 185º, letra c), inciso cuarto, del D.F.L. Nº 1, (G), de 1997.
 
 8. Determinación del derecho y fijación del monto de los rubros especiales señalados en el artículo 189º, letra g), del D.F.L. Nº1 (G), de 1997.
 
-9. Declaración de la procedencia de otorgar el derecho de montepío en favor de los asignatarios de dicho beneficio, en los casos referidos a personal de la Fuerzas Armadas y de Orden y Seguridad Pública que desapareciere a consecuencia de un accidente o catástrofe ocurrida en actos de servicio, de acuerdo a las normas de su Estatuto de Personal.
+9. Declaración de la procedencia de otorgar el derecho de montepío en favor de los asignatarios de dicho beneficio, en los casos referidos a personal de la Fuerzas Armadas que desapareciere a consecuencia de un accidente o catástrofe ocurrida en actos de servicio, de acuerdo a las normas de su Estatuto de Personal.
 
-10. Aumento transitorio de plazas en escalafones pertenecientes a las Fuerzas Armadas y las Fuerzas de Orden y Seguridad Pública, en caso que estos aumentos importen ascensos o nombramientos hasta el grado de Coronel o su equivalente.
+10. Aumento transitorio de plazas en escalafones pertenecientes a las Fuerzas Armadas, en caso que estos aumentos importen ascensos o nombramientos hasta el grado de Coronel o su equivalente.
 
 11. Decretos del Ministerio de Defensa Nacional que llamen anualmente a reconocer cuartel al contingente.
 
 12. Fijación del número o cuota de oficiales y empleados civiles que deben acogerse a retiro y el número, grado e individualización de oficiales que deben pasar a integrar el Escalafón de Complemento.
 
-13. Declaración de vacancia por fallecimiento, respecto de las Fuerzas de Orden y Seguridad Pública.
+13. DEROGADO.
 
-14. Otorgamiento de asignaciones de riesgo por misiones peligrosas de excepción, respecto de la Fuerzas de Orden y Seguridad Pública.
+14. DEROGADO.
 
 15. Fijación de las tasas contempladas en las leyes de reclutamiento, control de armas, artes marciales y derechos aeronáuticos.
 
