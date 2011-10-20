@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.482, de 16 de septiembre de 2011, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 3.956 de 2010, de esta Subsecretaría de Pesca, que autorizó a don PATRICIO TORRES HEVIA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Determinación de taxones de parásitos de peces introducidos y nativos en cuerpos de agua de la XIV Región de Los Ríos", en el sentido de ampliar en 4 meses el plazo de ejecución de la citada pesca de investigación.
+
+Valparaíso, 16 de septiembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
