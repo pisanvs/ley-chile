@@ -42,6 +42,8 @@ Ambito del reglamento.
 
 El presente reglamento será aplicable al traslado de organismos hidrobiológicos, como también a los efluentes descargados en cuerpos de agua receptores provenientes de plantas de proceso, piscinas de desarenado, talleres de limpieza de artes de cultivo y demás instalaciones similares que operen con tales organismos.
 
+Asimismo, será aplicable a la internación en el país y traslado de artes, aparejos, equipos y embarcaciones. Quedará excluida del presente reglamento la importación de dichos equipos cuando sean nuevos.
+
 Quedarán fuera del ámbito de aplicación los traslados de organismos hidrobiológicos que hubieren sido transformados total o parcialmente y los que hubieren sido eviscerados.
 
 #### Artículo 3
@@ -93,6 +95,8 @@ t) Vector: Cualquier agente biológico que facilita la propagación de organismo
 u) Artefacto de cultivo o artefacto: Elemento utilizado para el cultivo, retención, mantención o traslado de especies hidrobiológicas.
 
 v) Comité: El Comité Consultivo a que se refiere el Título VI del presente Reglamento.
+
+w) Reporte: la denuncia fundada acerca de la aparición de una plaga hidrobiológica en un sector o cuerpo de agua determinado nacional o extranjero.
 
 ## Título II
 
@@ -186,7 +190,13 @@ f) Muestreos puntuales y esporádicos;
 
 g) Recolección, captura, eliminación y/o destrucción de ejemplares que constituyan plaga;
 
-h) Contención de recursos hidrobiológicos, e i) Entrega oportuna de información, según lo dispuesto en el artículo 14 del presente reglamento.
+h) Contención de recursos hidrobiológicos,
+
+i) Entrega oportuna de información, según lo dispuesto en el artículo 14 del presente reglamento.
+
+j) Disponer la obligación de los pasajeros que ingresen al país para que declaren si portan en su equipaje o carga artes, aparejos, equipos y embarcaciones que se utilicen en actividades de pesca.
+
+k) Disponer la adopción de medidas de desinfección de artes, aparejos, equipos y embarcaciones de pesca.
 
 La medida de la letra e) será de responsabilidad del Servicio, para lo cual podrá ejecutarla directamente o a través de terceros calificados, según los términos de referencia que el mismo Servicio determine.
 
@@ -378,11 +388,19 @@ a) Un representante de la Subsecretaría;
 
 b) Un representante del Servicio;
 
-c) Un representante de cada una de las asociaciones de acuicultores presentes en cada una de las macrozonas a que se refiere el artículo 150 de la Ley General de Pesca y Acuicultura. Dichos representantes serán convocados dependiendo de la zona potencialmente afectada por la respectiva plaga; y
+c) Un representante de cada una de las asociaciones de acuicultores presentes en cada una de las macrozonas a que se refiere el artículo 150 de la Ley General de Pesca y Acuicultura. Dichos representantes serán convocados dependiendo de la zona potencialmente afectada por la respectiva plaga;
 
 d) Un representante de cada una de las confederaciones de pescadores artesanales.
 
-Cada una de las asociaciones de acuicultores y de las confederaciones de pescadores artesanales deberá comunicar a la Subsecretaría en el mes de diciembre de cada año la designación de un profesional representante para los efectos de la integración del Comité.
+e) Un representante de cada una de las asociaciones de operadores de pesca recreativa presentes en cada una de las macrozonas a que se refiere el artículo 150 de la Ley General de Pesca y Acuicultura. Dichos representantes serán convocados dependiendo de la zona potencialmente afectada por la respectiva plaga;
+
+f) Un representante de la Dirección General del Territorio Marítimo y la Marina Mercante;
+
+g) Un representante del Ministerio de Salud;
+
+h) Un académico experto en limnología, cuando la plaga que sea objeto de análisis corresponda a cuerpos de agua terrestres, convocado por la Subsecretaría.
+
+Cada una de las asociaciones de acuicultores, de las confederaciones de pescadores artesanales y de las asociaciones de operadores de pesca recreativa, deberá comunicar a la Subsecretaría en el mes de diciembre de cada año, la designación de un profesional representante para los efectos de la integración del Comité.
 
 El Comité podrá invitar a sus sesiones a expertos en los diversos taxa, cuando lo estime pertinente.
 
