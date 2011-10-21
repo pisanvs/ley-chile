@@ -128,7 +128,7 @@ CAPITULO III {N°s. 5-12} Disposiciones Generales
 
 CAPITULO IV {N°s. 13-25} Organización
 
-13.- El Instituto Hidrográfico dependerá directamente de la Comandancia en Jefe de la Armada.
+13.- El Servicio Hidrográfico y Oceanográfico de la Armada de Chile, dependerá de la Dirección General del Territorio Marítimo y de Marina Mercante.
 
 14.- Para el cumplimiento de sus funciones el Instituto Hidrográfico estará constituido por la Dirección, la Sub-Dirección y seis Departamentos, a saber:
 
@@ -234,7 +234,7 @@ c) Controlar y dirigir el servicio de Señales Horarias Oficiales tanto para fin
 
 d) Fiscalizar el estricto cumplimiento de las disposiciones reglamentarias relacionadas con el Instituto Hidrográfico.
 
-e) Proponer a la Comandancia en Jefe de la Armada la ejecución de las actividades hidrográficas, aerofotogramétricas, oceanográficas y de señalización marítima que sea necesario realizar, para incluir en el Plan Anual de Actividades de la Armada .
+e) Proponer a la Comandancia en Jefe de la Armada por intermedio de la Dirección General del Territorio Marítimo y de Marina Mercante, la, ejecución de las actividades hidrográficas, aerofotogramétricas, oceanográficas y de señalización marítima que sea necesario realizar, para incluir en el Plan Anual de Actividades de la Armada .
 
 f) Dar las instrucciones técnicas generales para la ejecución de los levantamientos hidrográficos, actividades aerofotogramétricas relacionada con cartas náuticas y trabajos oceanográficos, fijando los métodos de cálculos, observaciones y procedimientos en líneas generales.
 
@@ -246,7 +246,7 @@ i) Preparar y presentar anualmente al Ministerio de Hacienda el presupuesto de g
 
 j) Velar para que mantenga al día las informaciones sobre sistemas, procedimientos, material o instrumental moderno para su empleo en las actividades del Instituto Hidrográfico disponiendo las adquisiciones que sean necesarias.
 
-k) Proponer a la Dirección General del Personal de la Armada las destinaciones de los Jefes, Oficiales y personal para el Instituto Hidrográfico y Sub Departamentos de Señalización Marítima. Asimismo propondrá la destinación general de todos los oficiales y personal especialista en Faros.
+k) Proponer a la Dirección General del Personal de la Armada por intermedio de la Dirección General del Territorio Marítimo y de Marina Mercante, las, destinaciones de los Jefes, Oficiales y personal para el Instituto Hidrográfico y Sub Departamentos de Señalización Marítima. Asimismo propondrá la destinación general de todos los oficiales y personal especialista en Faros.
 
 l) Presidir la Junta Económica del Instituto Hidrográfico y hacer cumplir sus acuerdos.
 
@@ -262,7 +262,7 @@ p) Dictar las órdenes e instrucciones internas necesarias para el mejor funcion
 
 q) Solicitar directamente a la Dirección de Fronteras y Límites del Estado su aprobación antes de adoptar decisión o realizar hecho alguno que diga relación con los límites internacionales de Chile y sus zonas fronterizas.
 
-r) Proponer al Comandante en Jefe de la Armada la asistencia de oficiales y personal técnico a cursos de instrucción en el país, la asistencia a cursos de perfeccionamiento, congresos y otras actividades técnicas en el extranjero, que vayan en beneficio directo de la dirección, organización y ejecución de los trabajos o estudios del Instituto Hidrográfico.
+r) Proponer al Comandante en Jefe de la Armada por intermedio de la Dirección General del Territorio Marítimo y de Marina Mercante, la, asistencia de oficiales y personal técnico a cursos de instrucción en el país, la asistencia a cursos de perfeccionamiento, congresos y otras actividades técnicas en el extranjero, que vayan en beneficio directo de la dirección, organización y ejecución de los trabajos o estudios del Instituto Hidrográfico.
 
 CAPITULO VI {N°. 27} FUNCIONES Y DEBERES DEL SUBDIRECTOR
 
@@ -506,7 +506,9 @@ b) Realizar las inversiones y otros gastos que sean necesarios para el mejor cum
 
 c) Celebrar todos los actos, contratos y convenciones de cualquier naturaleza y, en general, suscribir todos los documentos que para el logro de los fines del Servicio se requieran;
 
-d) Contratar el personal necesario para el desarrollo y cumplimiento de las labores del Servicio, sean éstas de carácter técnico o administrativo. El personal contratado en estas condiciones estará afecto al régimen previsional de la Caja de Defensa Nacional; y e) Proponer al Comandante en Jefe de la Armada la asistencia de personal técnico a cursos de instrucción en el país, la asistencia a cursos de perfeccionamiento, congresos y otras actividades técnicas en el extranjero, que vayan en beneficio directo de la dirección, organización o ejecución de los trabajos o estudios del Instituto Hidrográfico de la Armada. El financiamiento de los gastos que demanden estas actividades se hará con fondos del Instituto Hidrográfico y/o del Presupuesto de la Armada.
+d) Contratar el personal necesario para el desarrollo y cumplimiento de las labores del Servicio, sean éstas de carácter técnico o administrativo. El personal contratado en estas condiciones estará afecto al régimen previsional de la Caja de Defensa Nacional; y
+
+e) Proponer al Comandante en Jefe de la Armada por intermedio de la Dirección General del Territorio Marítimo y de Marina Mercante, la, asistencia de personal técnico a cursos de instrucción en el país, la asistencia a cursos de perfeccionamiento, congresos y otras actividades técnicas en el extranjero, que vayan en beneficio directo de la dirección, organización o ejecución de los trabajos o estudios del Instituto Hidrográfico de la Armada. El financiamiento de los gastos que demanden estas actividades se hará con fondos del Instituto Hidrográfico y/o del Presupuesto de la Armada.
 
 48.- Para facilitar la administración y manejo de los fondos puestos a disposición del Instituto Hidrográfico, en lo posible se adoptarán las mismas denominaciones de ítem indicados en el presupuesto de la nación.
 
