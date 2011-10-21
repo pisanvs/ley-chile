@@ -28,13 +28,19 @@ Parte esencial de la política fiscal de la presente Administración Presidencia
 
 #### Artículo 2º
 
-De la Meta de Balance Estructural
+De la Meta de Déficit Estructural
 
-La situación de déficit estructural que enfrenta esta Administración como punto de partida, sumada a la necesidad de implementar el Plan de Reconstrucción diseñado como respuesta al terremoto del 27 de febrero de 2010, así como la aplicación del Programa de Gobierno, justifican implementar una política fiscal que procurará converger a un balance estructural equilibrado hacia fines del actual período presidencial.
+La situación de déficit estructural que enfrenta esta Administración como punto de partida, sumada a la necesidad de implementar el Plan de Reconstrucción diseñado como respuesta al terremoto del 27 de febrero de 2010, así como la aplicación del Programa de Gobierno, justifican implementar una política fiscal que procurará converger a un déficit estructural del 1% del producto interno bruto hacia fines del actual período presidencial.
 
-El objetivo de convergencia hacia tal equilibrio estructural se mantendrá mientras perduren las condiciones señaladas.
+El objetivo de convergencia hacia tal déficit estructural se mantendrá mientras perduren las condiciones señaladas.
 
 #### Artículo 3º
+
+Del Gasto Público
+
+Procurando evitar presiones inflacionarias, quitar presión sobre las tasas de interés y evitar la apreciación excesiva del tipo de cambio, esta Administración implementará una normalización de la política fiscal de modo que en promedio, durante el presente período presidencial, el crecimiento del gasto público tienda a ser equivalente al crecimiento del producto interno bruto, salvo en situaciones de carácter excepcional tales como una crisis económica internacional.
+
+#### Artículo 4º
 
 De la Situación Patrimonial del Sector Público
 
