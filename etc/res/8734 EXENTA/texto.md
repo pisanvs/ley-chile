@@ -1,0 +1,7 @@
+REVOCA Y DELEGA FACULTADES EN RELACIÓN A MÁQUINAS REGISTRADORAS EN UNIDADES Y DIRECCIÓN REGIONAL
+
+Extracto de resolución exenta del Servicio de Impuestos Internos, XV Dirección Regional Metropolitana Santiago Oriente, Nº 8.734 de 15 de septiembre de 2011, que Revoca delegaciones de facultades efectuadas con anterioridad en los funcionarios de esta Dirección Regional del Departamento de Resoluciones, hoy, Departamento Plataforma de Atención y Asistencia, y en los Jefes de Unidad de Ñuñoa y de La Florida, para autorizar, o derogar total o parcialmente, el empleo de máquinas registradoras o electrónicas para la emisión de vales en reemplazo de boletas de ventas y servicios, así como la facultad de conceder la exención de emitir boletas por ventas efectuadas a través de máquinas expendedoras automáticas; y Delega en el Jefe del Departamento de Plataforma de Atención y Asistencia de esta Dirección Regional y en los Jefes de la Unidad de Ñuñoa y de La Florida, la facultad de autorizar, o derogar total o parcialmente, el empleo de máquinas registradoras o electrónicas para la emisión de vales en reemplazo de boletas de ventas y servicios, y la facultad de conceder la exención de emitir boletas por ventas efectuadas a través de máquinas expendedoras automáticas.
+
+El texto íntegro de esta resolución, está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl).
+
+Santiago, 20 de septiembre de 2011.- Rómulo Gómez Sepúlveda, Director Regional.
