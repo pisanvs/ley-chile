@@ -708,7 +708,7 @@ Interés Colectivo o Difuso de los Consumidores
 
 #### Artículo 51
 
-El procedimiento señalado en este Párrafo se aplicará cuando se vea afectado el interés colectivo o difuso de los consumidores. Este procedimiento se sujetará a las normas del procedimiento sumario, con excepción de los artículos 681, 684 y 685 del Código de Procedimiento Civil y con las particularidades que se contemplan en la presente ley. Todas las pruebas que deban rendirse, se apreciarán conforme a las reglas de la sana crítica.
+El procedimiento señalado en este Párrafo se aplicará cuando se vea afectado el interés colectivo o difuso de los consumidores. Este procedimiento especial se sujetará a las siguientes normas de procedimiento. Todas las pruebas que deban rendirse, se apreciarán conforme a las reglas de la sana crítica.
 
 1.- Se iniciará por demanda presentada por:
 
@@ -748,45 +748,57 @@ El juez, de oficio o a petición de parte y por resolución fundada, podrá revo
 
 #### Artículo 52
 
-Corresponderá al propio tribunal declarar la admisibilidad de la acción deducida para cautelar el interés colectivo o difuso de los consumidores, verificando para ello la concurrencia de los siguientes elementos:
+El tribunal examinará la demanda, la declarará admisible y le dará tramitación, una vez que verifique la concurrencia de los siguientes elementos:
 
-a) Que la acción ha sido deducida por uno de los legitimados activos individualizados en el artículo 51.
+a) Que la demanda ha sido deducida por uno de los legitimados activos individualizados en el artículo 51.
 
-b) Que la conducta que se persigue afecta el interés colectivo o difuso de los consumidores en los términos señalados en el artículo 50.
+b) Que la demanda contiene una exposición clara de los hechos y fundamentos de derecho que justifican razonablemente la afectación del interés colectivo o difuso de los consumidores, en los términos del artículo 50.
 
-c) Que la acción deducida precisa las cuestiones de hecho que afectan el interés colectivo o difuso de los consumidores y los derechos afectados.
+La resolución que declare admisible la demanda conferirá traslado al demandado, para que la conteste dentro de diez días fatales contados desde su notificación.
 
-d) Que el número potencial de afectados justifica, en términos de costos y beneficios, la necesidad procesal o económica de someter su tramitación al procedimiento especial del presente Párrafo para que sus derechos sean efectivamente cautelados. Cualquiera sea el número de afectados, se entenderá que esta circunstancia no concurre si se dan todas y cada una de las siguientes condiciones respecto del caso: el proceso de fabricación, por su naturaleza, contempla un porcentaje de fallas dentro de los estándares de la industria; el proveedor pruebe mantener procedimientos de calidad en la atención de reclamos, reparación y devolución de dinero en caso de productos defectuosos, sin costo para el consumidor, y las fallas o defectos no representan riesgo para la salud.
+En contra de la resolución que declare admisible la demanda no procederá el recurso de casación, procediendo el recurso de reposición y el de apelación en el solo efecto devolutivo, los que deberán interponerse dentro de diez días fatales contados desde la notificación de la demanda. La apelación sólo podrá interponerse con el carácter de subsidiaria de la solicitud de reposición y para el caso que ésta no sea acogida. El recurso de reposición interrumpe el plazo para contestar la demanda.
 
-El demandado dispondrá de un plazo de diez días para exponer lo que estime procedente en relación con los requisitos de admisibilidad de la acción. Si el juez estima que existen hechos sustanciales, pertinentes y controvertidos, recibirá a prueba la admisibilidad. La prueba se regirá por las reglas de los incidentes. El juez se pronunciará sobre la admisibilidad de la acción dentro de los cinco días siguientes a aquél en que se efectúe la presentación del demandado o dentro de los cinco días siguientes al vencimiento del plazo para efectuar dicha presentación y ésta no se hubiere efectuado, o dentro de los cinco días siguientes al vencimiento del término probatorio, en su caso.
+Del recurso de reposición se concederá traslado por tres días fatales a la demandante, transcurridos los cuales el tribunal deberá resolver si acoge o rechaza la reposición. Notificada por el estado diario la resolución que rechaza la reposición, el demandado deberá contestar la demanda en el plazo de diez días fatales.
 
-La resolución que se pronuncie sobre la admisibilidad de la acción será apelable en ambos efectos.
+La resolución que conceda la apelación en el solo efecto devolutivo deberá determinar las piezas del expediente que, además de la resolución apelada, deban fotocopiarse para enviarlas al tribunal superior para resolver el recurso. El apelante, dentro de los cinco días siguientes a la fecha de notificación de esta resolución, deberá depositar en la secretaría del tribunal la suma que el secretario estime necesaria para cubrir el valor de las fotocopias. El secretario deberá dejar constancia de esta circunstancia en el proceso, señalando la fecha y el monto del depósito. Si el apelante no da cumplimiento a esta obligación, se le tendrá por desistido del recurso, sin más trámite.
 
-Una vez que se encuentre ejecutoriada la resolución que declara admisible la acción, se certificará esta circunstancia en el expediente. Si es declarada inadmisible, la acción respectiva sólo podrá deducirse individualmente ante el juzgado competente, de conformidad a lo señalado en la letra
+Respecto de la resolución que declara inadmisible la demanda procederá el recurso de reposición y, subsidiariamente, el de apelación en ambos efectos, los que se deducirán en el plazo indicado en el inciso tercero, contado desde la notificación por el estado diario de la resolución respectiva.
 
-c) del artículo 2º bis.
+En el evento que se declare inadmisible la demanda colectiva, la acción respectiva sólo podrá deducirse individualmente ante el juzgado competente, de conformidad con lo señalado en la letra c) del artículo 2º bis. Lo anterior es sin perjuicio del derecho de todo legitimado activo de iniciar una nueva demanda colectiva, fundada en nuevos antecedentes.
 
-No obstante lo dispuesto en los incisos anteriores, si aparecen nuevas circunstancias que justifiquen la revisión de la inadmisibilidad declarada, cualquier legitimado activo podrá iniciar ante el mismo tribunal una nueva acción.
+Contestada la demanda o en rebeldía del demandado, el juez citará a las partes a una audiencia de conciliación, para dentro de quinto día. A esta audiencia las partes deberán comparecer representadas por apoderado con poder suficiente y deberán presentar bases concretas de arreglo. El juez obrará como amigable componedor y tratará de obtener una conciliación total o parcial en el litigio. Las opiniones que emita no lo inhabilitan para seguir conociendo de la causa. La audiencia se llevará a cabo con las partes que asistan.
+
+Si los interesados lo piden, la audiencia se suspenderá para facilitar la deliberación de las partes. Si el tribunal lo estima necesario postergará la audiencia para dentro de tercero día, se dejará constancia de ello y a la nueva audiencia las partes concurrirán sin necesidad de nueva notificación.
+
+De la conciliación total o parcial se levantará un acta que consignará sólo las especificaciones del arreglo, la cual subscribirán el juez, las partes que lo deseen y el secretario, y tendrá el valor de sentencia ejecutoriada para todos los efectos legales, en especial para los establecidos en el artículo 54.
+
+Si se rechaza la conciliación o no se efectúa la audiencia, y si el tribunal estima que hay hechos sustanciales, pertinentes y controvertidos, recibirá la causa a prueba por el lapso de veinte días. Sólo podrán fijarse como puntos de prueba los hechos sustanciales controvertidos en los escritos anteriores a la resolución que ordena recibirla. En caso contrario, se citará a las partes a oír sentencia.
+
+En todo caso, si el demandado ha solicitado en su contestación que la demanda sea declarada temeraria por carecer de fundamento plausible o por haberse deducido de mala fe, para que se apliquen al demandante las sanciones previstas en el artículo 50 E, el juez deberá incluir este punto como hecho sustancial y controvertido en la resolución que recibe la causa a prueba.
 
 #### Artículo 53
 
-Una vez ejecutoriada la resolución que declaró admisible la acción, el tribunal ordenará al demandante que, dentro de décimo día, mediante publicación de al menos dos avisos en un medio de circulación nacional, informe a los consumidores que se consideren afectados, para que se hagan parte, si lo estiman procedente.
+En la misma resolución en que se rechace la reposición interpuesta contra la resolución que declaró admisible la demanda y se ordene contestar o se tenga por contestada la demanda, cuando dicho recurso no se haya interpuesto, el juez ordenará al demandante que, dentro de décimo día, informe a los consumidores que puedan considerarse afectados por la conducta del proveedor demandado, mediante la publicación de un aviso en un medio de circulación nacional y en el sitio Web del Servicio Nacional del Consumidor, para que comparezcan a hacerse parte o hagan reserva de sus derechos. El aviso en el sitio Web del Servicio Nacional del Consumidor se deberá mantener publicado hasta el último día del plazo señalado en el inciso cuarto de este artículo.
 
 Corresponderá al secretario del tribunal fijar el contenido del aviso, el que contendrá, a lo menos, las siguientes menciones:
 
-a) El tribunal que en primera instancia emitió la certificación de admisibilidad;
+a) El tribunal de primera instancia que declaró admisible la demanda;
 
-b) La fecha de la certificación;
+b) La fecha de la resolución que declaró admisible la demanda;
 
-c) El nombre, rol único tributario, profesión u oficio y domicilio del representante del grupo;
+c) El nombre, rol único tributario o cédula nacional de identidad, profesión u oficio y domicilio del representante del o de los legitimados activos;
 
-d) El nombre, rol único tributario, profesión u oficio y domicilio de la persona en contra de la cual se solicita la acción colectiva;
+d) El nombre o razón social, rol único tributario o cédula nacional de identidad, profesión, oficio o giro y domicilio del proveedor demandado;
 
-e) Breve exposición de los hechos y peticiones concretas sometidas a consideración del tribunal, y f) El llamado a los afectados por los mismos hechos a hacerse parte en el juicio, expresando que los resultados del juicio empecerán también a aquellos afectados que no se hicieran parte en él.
+e) Una breve exposición de los hechos y peticiones concretas sometidas a consideración del tribunal;
+
+f) El llamado a los afectados por los mismos hechos para hacerse parte o para que hagan reserva de sus derechos, expresando que los resultados del juicio empecerán también a aquellos afectados que no se hicieran parte en él, y
+
+g) La información de que el plazo para comparecer es de veinte días hábiles a contar de la fecha de la publicación.
 
 Desde la publicación del aviso a que se refiere el inciso segundo, ninguna persona podrá iniciar otro juicio en contra del demandado fundado en los mismos hechos, sin perjuicio de lo señalado en el inciso siguiente y de lo dispuesto en el artículo 54 C respecto de la reserva de derechos.
 
-Dentro del plazo de 30 días contados desde la publicación del aviso a que se refiere el inciso anterior, cualquier consumidor podrá ocurrir ante el tribunal haciendo reserva de sus acciones, en cuyo caso no le serán oponibles los resultados del juicio.
+El plazo para hacer uso de los derechos que confiere el inciso primero de este artículo será de veinte días hábiles contados desde la publicación del aviso en el medio de circulación nacional, y el efecto de la reserva de derechos será la inoponibilidad de los resultados del juicio.
 
 Aquellos juicios que se encuentren pendientes contra el mismo proveedor al momento de publicarse el aviso y que se funden en los mismos hechos, deberán acumularse de conformidad a lo previsto en el Código de Procedimiento Civil, con las siguientes reglas especiales:
 
