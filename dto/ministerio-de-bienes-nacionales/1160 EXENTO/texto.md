@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE ANTOFAGASTA, AL CUERPO DE BOMBEROS DE ANTOFAGASTA
+
+Mediante decreto exento Nº 1.160, de 12 de octubre de 2011, el Ministerio de Bienes Nacionales otorgó concesión gratuita al Cuerpo de Bomberos de Antofagasta, RUT Nº 81.809.500-7, el inmueble fiscal que corresponde al Lote A, población Mantos Blancos, comuna, provincia y Región de Antofagasta, Rol de Avalúo Fiscal Nº 426-5, amparado por inscripción global a nombre del Fisco, a fs. 850 vta. Nº 1.003 del Registro de Propiedad del año 1965, del Conservador de Bienes Raíces de Antofagasta, singularizado en el plano Nº II-2-2551-CU, de una superficie aproximada de 787,87 m2. La concesión se otorga por un plazo de 10 años, contado desde la fecha de suscripción de la escritura pública de concesión gratuita. La concesión se otorga para dar cumplimiento al Proyecto que sirvió de fundamento para el otorgamiento de la concesión gratuita del inmueble fiscal a fin de consolidar el dominio del inmueble donde ha introducido importantes mejoras y en cual funciona la Tercera Compañía de Bomberos de Antofagasta. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Subsecretario de Bienes Nacionales Subrogante.
