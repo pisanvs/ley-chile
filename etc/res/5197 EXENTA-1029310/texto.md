@@ -68,8 +68,6 @@ San Fernando, Santa Cruz, San Vicente de Tagua Tagua y Rengo
 
 > **Nota.** El Número 1º de la resolución 6596 Exenta, Vivienda y Urbanismo, publicada el 22.10.2011 viene a modificar resuelvo 4º de la presente resolución, en el sentido de reemplazar en el Cuadro "A: Aspectos mínimos del proyecto - Obligatorios", la descripción señalada en el Nº 4 "Altura Máxima del Conjunto", por el siguiente texto: "La altura máxima del conjunto debe ser equivalente a 5 pisos, más zócalo de 1.5 m. de altura, a excepción de la comuna de San Fernando, en la que se permitirá una altura máxima de 7 pisos, más zócalo de 1.5 m. de altura."
 
-> **Nota.** NOTA 1 El numeral 1º de la Resolución 9361 Exenta, Vivienda, publicada el 30.12.2011, modifica la presente norma, en el sentido de agregar en el resuelvo primero, correspondiente a la Pauta de Selección de Proyectos en las comunas con alta densidad en la Región del Biobío ítem número dos, lo siguiente: "En el caso de Concepción y Talcahuano se permitirá que el valor de estas viviendas sea "<" UF 1.000".
-
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
