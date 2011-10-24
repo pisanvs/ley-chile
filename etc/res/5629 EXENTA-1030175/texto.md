@@ -6,7 +6,11 @@ Núm. 5.629 exenta.- Visto: El DS Nº 1 (V. y U.), de 2011, que regula el Sistem
 
 Resolución:
 
-1º.- Llámase a partir del 21 de octubre y hasta el 18 de noviembre de 2011, ambas fechas inclusive, a postulación nacional para el Sistema Integrado de Subsidio Habitacional en sus Títulos I y II, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, período en que los Serviu procederán a la recepción de solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
+1º.- Llámase a partir del 21 de octubre y hasta el 18 de noviembre de 2011, ambas fechas inclusive, a
+
+postulación nacional para el Sistema Integrado de Subsidio Habitacional en sus Títulos I y II, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, período en que los Serviu procederán directamente, o a través de oficinas municipales o de los medios electrónicos que se establezcan al efecto, a la recepción de
+
+solicitudes de postulación e ingreso al sistema computacional respectivo con los documentos que deben acompañarlas.
 
 2º.- El monto de Unidades de Fomento (UF) que se destinarán al financiamiento del subsidio directo, conforme a las disposiciones del DS Nº 1 (V. y U.), de 2011, se distribuirán regionalmente, por Título y alternativa de postulación, según el cuadro que se presenta a continuación, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución, en caso de agotarse los recursos para un Título y/o alternativa, quedando excedentes en otras:
 
