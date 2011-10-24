@@ -38,7 +38,7 @@ g) Desarrollar otras actividades de asesoría directamente relacionadas con el o
 
 #### Artículo 3º
 
-La Comisión deberá dar cuenta al Ministerio de Energía del cumplimiento de las tareas señaladas en el artículo anterior, a más tardar el día 30 de septiembre de 2011, mediante la entrega de un informe técnico final que contenga las proposiciones sobre las materias señaladas en el artículo anterior, con propuestas técnicas, económicas legislativas específicas o regulatorias para alcanzar el objetivo propuesto. Entregado el referido informe, la Comisión terminará su objetivo y quedará de pleno derecho disuelta, y el Ministerio podrá hacer públicas sus conclusiones y adoptar las decisiones o iniciativas que estime pertinente.
+La Comisión deberá dar cuenta al Ministerio de Energía del cumplimiento de las tareas señaladas en el artículo anterior, a más tardar el día 30 de octubre de 2011, mediante la entrega de un informe técnico final que contenga las proposiciones sobre las materias señaladas en el artículo anterior, con propuestas técnicas, económicas legislativas específicas o regulatorias para alcanzar el objetivo propuesto. Entregado el referido informe, la Comisión terminará su objetivo y quedará de pleno derecho disuelta, y el Ministerio podrá hacer públicas sus conclusiones y adoptar las decisiones o iniciativas que estime pertinente.
 
 #### Artículo 4º
 
