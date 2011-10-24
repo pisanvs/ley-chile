@@ -1,0 +1,31 @@
+SUPRIME OFICINA DE REGISTRO CIVIL E IDENTIFICACIÓN DE SELVA OSCURA, UBICADA EN LA COMUNA DE VICTORIA, PROVINCIA DE MALLECO, Y MODIFICA LÍMITES CIRCUNSCRIPCIÓN OFICINA DE LA MISMA COMUNA, REGIÓN DE LA ARAUCANÍA
+
+Santiago, 22 de agosto de 2011.- Hoy se resolvió lo que sigue:
+
+Núm. 3.457 exenta.- Vistos: Lo dispuesto en los artículos 7º letra t) y 21 de la ley Nº 19.477, Orgánica del Servicio de Registro Civil e Identificación; lo informado por el Director de la Región de la Araucanía a través de memorándum DR Nº 1.609, de fecha 13 de mayo, y Nº 1.776, de 26 de mayo, ambas de 2011; oficio Ord. Nº 1.941, del Instituto Nacional de Estadísticas, de fecha 1 de agosto de 2011, y lo dispuesto en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1.- Que la oficina de Selva Oscura, situada en la comuna de Victoria, Provincia de Malleco, ha registrado decrecientes índices de ingresos y actuaciones durante los últimos tres años, esto es, 2008, 2009 y 2010.
+
+2.- Que la localidad de Selva Oscura registra bajo porcentaje de habitantes, lo cual no justifica la presencia permanente de un funcionario en dicha oficina, no resultando eficiente el uso de los recursos públicos en la referida comuna.
+
+Resuelvo:
+
+1.- Suprímese, a contar del día 31 de agosto de 2011, la Oficina de Registro Civil e Identificación de Selva Oscura, ubicada dentro del territorio jurisdiccional de la Oficina de Victoria, en la comuna del mismo nombre, anexándose aquella a la Circunscripción de la Oficina de Registro Civil e Identificación de esta última, encontrándose con competencia para realizar todas las actuaciones y requerimientos de los usuarios(as) de la localidad de Selva Oscura.
+
+2.- Fíjense los nuevos límites de la circunscripción de la Oficina de Victoria, según información proporcionada por el Instituto Nacional de Estadísticas, según se indica a continuación:
+
+Norte: La línea de cumbres del cordón de Quechereguas y la línea de cumbres que limita por el sur la hoya del estero Temocuicui, desde el cerro Requín o trigonométrico Las Mesas hasta el cerro Catalán, pasando por la cota 528 y el cerro Coipué; el lindero sur de los predios Santa Ester (rol 353-36) y San Alberto (rol 352-20), desde el cerro Catalán hasta el estero Dumo; el estero Dumo, desde el lindero sur del predio San Alberto hasta la desembocadura del estero Pichidumo; el estero Pichidumo, desde su desembocadura en el estero Dumo hasta el lindero oriente del predio Santa Elisa (rol 264-9); dicho lindero predial, desde el estero Pichidumo hasta el río Malleco; y el río Malleco, desde el lindero oriente del predio Santa Elisa hasta el lindero poniente del predio Pino Huacho (rol 205-1).
+
+Este: El lindero poniente del predio Pino Huacho (rol 205-1), desde el río Malleco hasta el lindero poniente del predio Bellavista (rol 205-2); el lindero poniente de los predios Bellavista, San Cornelio (rol 205-16) y Zapadores (rol 203-103), desde el lindero poniente del predio Pino Huacho hasta el camino de Victoria a Curacautín; el camino antes citado, desde el lindero poniente del predio Zapadores, hasta el río Quillén; el río Quillén, desde el camino de Victoria a Curacautín hasta el lindero oriente del predio parcela 13 proyecto San Francisco (rol 560-107); el lindero oriente del predio parcela 13 Proyecto San Francisco, desde el río Quillén, hasta el lindero surponiente del predio San Francisco (rol 203-113); el lindero sur poniente del predio San Francisco, desde el lindero poniente del predio parcela 13 Proyecto San Francisco hasta el estero Colliguanqui; y el estero Colliguanqui, desde el lindero sur poniente del predio San Francisco hasta su desembocadura en el río Cautín.
+
+Sur: El río Cautín, desde la desembocadura del estero Colliguanqui hasta el lindero poniente del predio Santa Hilda (rol 583-71); el lindero poniente de los predios Santa Hilda, reducción Ancao Ancatén (roles 585-25, 585-26, 585-28, 585-29, 585-32, 585-33, 585-36, 585-37, 585-40, 585-1) y San Ramón (rol 583-58), desde el río Cautín hasta el río Quillén; el río Quillén, desde el lindero poniente del predio San Ramón hasta el lindero sur del predio Santa Rosa (rol 587-6); el lindero sur de los predios Santa Rosa, San Bartolo (rol 587-66), Santa María (rol 638-2), Santa María de P. parcela 10 (rol 638-90) y reducción Quiñanao (roles 638-67, 638-77 638-76, 638-74, 638-66, 638-62, 638-60 y 638-58), desde el río Quillén hasta el camino de Perquenco a reducción Quiñanao; el camino de Perquenco a reducción Quiñanao, y el camino de reducción Quiñanao a Púa, desde el lindero sur del predio reducción Quiñanao (rol 638-58) hasta el estero Púa; el estero Púa, desde el camino de reducción Quiñanao a Púa hasta su desembocadura en el estero El Salto; y el estero El Salto, desde la desembocadura del estero Púa hasta su desembocadura en el río Quino.
+
+Oeste: El río Quino, desde la desembocadura del estero El Salto, hasta el lindero poniente del predio Guadaco (rol 697-48); el lindero poniente del predio Guadaco, desde el río Quino hasta el estero Guadaco; el estero Guadaco, desde el lindero poniente del predio Guadaco hasta el lindero oriente del predio Ñanco (rol 803-10); el lindero oriente de los predios Ñanco, Licura Grande (rol 803-8), Tricauco (rol 803-6) y Santa Lea (rol 803-5), desde el estero Guadaco hasta el estero Tricauco; el estero Tricauco, desde el lindero oriente del predio Santa Lea hasta el lindero oriente del predio Tricauco (rol 852-11); el lindero oriente del predio Tricauco, desde el estero Tricauco hasta el río Traiguén; el río Traiguén, desde el lindero oriente del predio Tricauco (rol 852-11) hasta el lindero poniente del predio María Ester (rol 852-3); el lindero poniente y norte del predio María Ester, desde el río Traiguén hasta la línea de cumbres de los cerros de Adencul; y la línea de cumbres de los cerros de Adencul, desde el lindero norte del predio María Ester hasta el cerro Requín o trigonométrico Las Mesas.
+
+3.- Trasládense los Registros de la oficina que se suprime, previo inventario, a la Oficina de Registro Civil e Identificación de Victoria, de la comuna que recibe el mismo nombre.
+
+Anótese y publíquese.- Rodrigo Durán López, Director Nacional.
+
+Lo que transcribo a usted para su conocimiento y demás fines.- Paola Flores Espinoza, Jefa Departamento Desarrollo de las Personas.
