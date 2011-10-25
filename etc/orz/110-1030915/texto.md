@@ -10,7 +10,7 @@ Considerando:
 
 3.- El memorándum Nº 16.013 y Nº 18.366 de 17 de agosto y 16 de septiembre, ambos de 2011, del Director de Aseo, Ornato y Mantención.
 
-4.- El acuerdo Nº 115 adoptado en Sesión Ordinaria Nº 121 de 7 de octubre de 2011, del Concejo Municipal.
+4.- El acuerdo Nº 715 adoptado en Sesión Ordinaria Nº 121 de 7 de octubre de 2011, del Concejo Municipal.
 
 Ordenanza:
 

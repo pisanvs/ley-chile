@@ -10,7 +10,7 @@ Considerando:
 
 3.- El memorándum Nº 13.556, de 6 de julio de 2011, del Director de Control.
 
-4.- El acuerdo Nº 117 adoptado en la sesión ordinaria Nº 121, de 7 de octubre de 2011, del Concejo Municipal.
+4.- El acuerdo Nº 717 adoptado en la sesión ordinaria Nº 121, de 7 de octubre de 2011, del Concejo Municipal.
 
 Ordenanza:
 

@@ -18,7 +18,7 @@ Considerando:
 
 7.- El memorándum Nº 18.703, de 23 de septiembre de 2011, de la Administradora Municipal.
 
-8.- El Acuerdo Nº116 adoptado en Sesión Ordinaria Nº121, de 7 de octubre de 2011, del Concejo Municipal.
+8.- El Acuerdo Nº 716 adoptado en Sesión Ordinaria Nº121, de 7 de octubre de 2011, del Concejo Municipal.
 
 Ordenanza:
 
