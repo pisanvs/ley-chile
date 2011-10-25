@@ -2082,7 +2082,7 @@ Los jinetes de los caballos que hayan ocupado los cuatro primeros lugares y adem
 
 Los jinetes que por accidente o fuerza mayor no estuvieren en estado de ser pesados, quedarán exentos de la obligación a que se refiere el inciso anterior.
 
-Ni los caballos ni sus jinetes deberán ser tocados por extraños, antes de verificarse el peso. Si esto ocurriere los caballos podrán ser distanciados si, a juicio de la Junta de Comisarios, el hecho puede envolver un acto fraudulento.
+Los hipódromos adoptarán las medidas que sean necesarias para evitar que los caballos y sus jinetes sean tocados por otras personas antes de verificarse el peso. Si esto ocurriere, los caballos podrán ser distanciados si, a juicio de la Junta de Comisarios, el hecho puede envolver un acto fraudulento.
 
 #### Artículo 239
 
@@ -2102,7 +2102,7 @@ b) Lleguen con falta de medio kilo o más respecto al peso de salida anotado en 
 
 c) Sean culpables de un acto fraudulento relacionado con su peso;
 
-d) Tengan contacto con terceros antes de verificar su peso, siempre que, a juicio de la Junta de Comisarios, este hecho pueda envolver un acto doloso, y e) Si a juicio de la Junta de Comisarios la presencia del infractor en la carrera hubiera influido en el resultado de ella, podrá distanciar además al compañero de corral que haya figurado en tabla.
+d) Tengan contacto con otras personas antes de verificar su peso, siempre que, a juicio de la Junta de Comisarios, este hecho pueda envolver un acto doloso, y
 
 2°.- Con multa, cuyo monto fijará la Junta de Comisarios, y/o con suspensión, cuando un jinete, luego de disputada la carrera, llegue con exceso de un kilo o más con respecto al peso de salida anotado en el Registro de Carreras, salvo que, a juicio del Juez de Peso este hecho se deba al estado de la cancha.
 
@@ -2232,7 +2232,13 @@ El propietario de un caballo extranjero que participe en Chile por haber sido es
 
 En el caso que la participación del caballo en la carrera no corresponda a una invitación sino que a una decisión voluntaria de su propietario, el premio que pudiere obtener en tal carrera se liquidará y pagará de acuerdo con las normas establecidas en el presente Reglamento.
 
-CAPITULO XL {ARTS. 255-270} De las Drogas y otras Substancias Artículo 255.- Queda estrictamente prohibido suministrar medicamentos, drogas u otras substancias químicas o cualquier agente físico, a excepción de fenilbutazona y furosemida, a los ejemplares que participen en carreras públicas. La forma y condiciones en que podrán ser suministrados los medicamentos fenilbutazona y furosemida serán determinadas por el Consejo Superior de la Hípica Nacional, mediante un reglamento que dictará especialmente para dicho efecto.
+CAPITULO XL {ARTS. 255-270} De las Drogas y otras Substancias
+
+#### Artículo 255
+
+Se prohíbe suministrar medicamentos, drogas u otras sustancias químicas o cualquier agente físico, a excepción de furosemida, a los caballos inscritos para participar en carreras públicas. La forma y condiciones en que podrá ser suministrada la furosemida será determinada por el Consejo Superior de la Hípica Nacional, mediante un reglamento que dictará especialmente para dicho efecto.
+
+La fenilbutazona sólo podrá ser suministrada en los casos, formas, condiciones y a los caballos que determine el Consejo Superior de la Hípica Nacional mediante un reglamento que dictará especialmente para dicho efecto.
 
 #### Artículo 256
 
