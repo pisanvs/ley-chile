@@ -18,12 +18,6 @@ El número de proyectos seleccionados y preseleccionados en cada región alcanza
 
 3. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de los proyectos seleccionados y preseleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El numeral 1 letra a) de la Resolución 9953 Exenta, Vivienda, publicada el 07.01.2012, modifica el cuadro inserto en el resuelvo 2 de la presente norma, agregado por la Resolución 6722 Exenta, Vivienda, publicada el 26.10.2011, en el sentido de reemplazar las filas correspondientes a "Región de Valparaíso" y "Total País", por aquellas que la citada norma indica.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 9730 Exenta, Vivienda, publicada el 05.12.2012, modifica el cuadro inserto en el resuelvo 2 de la presente norma, en el sentido de reemplazar las filas correspondientes a Región de "Los Ríos" y "Total País", por aquellas que la citada norma indica.
-
-> **Nota.** NOTA 2 El numeral 1 de la Resolución 1425 Exenta, Vivienda, publicada el 09.03.2013, modifica la tabla inserta en el Resuelvo 2 de la presente norma, en el sentido de reemplazar las filas correspondientes a Región de "Los Lagos" y "Total País", por aquellas que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
