@@ -80,9 +80,9 @@ b) Acreditar el funcionamiento efectivo del Consejo Escolar, del Consejo de Prof
 
 c) Acreditar la existencia de horas docentes destinadas a cumplir la función técnico-pedagógica en el establecimiento y asegurar el cumplimiento efectivo de las horas curriculares no lectivas.
 
-d) Presentar al Ministerio de Educación y cumplir un Plan de Mejoramiento Educativo elaborado con la comunidad del establecimiento educacional, que contemple acciones desde el primer nivel de transición en la educación parvularia hasta octavo básico en las áreas de gestión del currículum, liderazgo escolar, convivencia escolar o gestión de recursos en la escuela, de conformidad a lo dispuesto en el artículo siguiente. Para efectos de esta ley se entenderá que el Plan de Mejoramiento Educativo es el mismo al que se hace referencia en la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación, sin perjuicio de los requisitos de formulación del plan y los efectos en caso de incumplimiento, los que quedarán sujetos a las normas que contempla esta ley.
+d) Presentar al Ministerio de Educación y cumplir un Plan de Mejoramiento Educativo elaborado con el director del establecimiento y el resto de la comunidad, que contemple acciones en las áreas de gestión del currículum, liderazgo escolar, convivencia escolar o gestión de recursos en la escuela, de conformidad a lo dispuesto en el artículo siguiente. Para efectos de esta ley se entenderá que el Plan de Mejoramiento Educativo es el mismo al que se hace referencia en la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación, sin perjuicio de los requisitos de formulación del plan y los efectos en caso de incumplimiento, los que quedarán sujetos a las normas que contempla esta ley. El mencionado Plan deberá ser presentado conjuntamente a la Agencia de Calidad de la Educación.
 
-e) Establecer y cumplir las metas de efectividad del rendimiento académico de sus alumnos, y en especial de los prioritarios, concordadas con el Ministerio de Educación, en función de los resultados que se obtengan por aplicación del sistema de evaluación nacional a que se refiere el artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.962, Orgánica Constitucional de Enseñanza, de acuerdo a lo establecido en el decreto a que se refiere el artículo 10.
+e) Establecer metas de efectividad del rendimiento académico de sus alumnos, y en especial de los prioritarios, en función del grado de cumplimiento de los estándares de aprendizaje y del grado de cumplimiento de los otros indicadores de calidad a que se refiere el artículo 17 de la ley N° 20.529.
 
 f) Señalar en el convenio el monto de las subvenciones o recursos que por la vía del financiamiento público reciben los sostenedores para los establecimientos educacionales.
 
@@ -98,21 +98,53 @@ INCISO ELIMINADO.
 
 Los convenios serán siempre públicos.
 
+#### Artículo 7° bis
+
+Sin perjuicio de lo establecido en el número 1) del artículo 34, el Convenio de Igualdad de Oportunidades y Excelencia Educativa podrá ser renovado para cada establecimiento educacional cuando se cumplan, copulativamente, los siguientes requisitos:
+
+a) Solicitar al Ministerio de Educación, de acuerdo a la modalidad que éste establezca mediante resolución exenta, la renovación del convenio. La solicitud deberá ser presentada, a lo menos, 60 días antes de la expiración del mismo.
+
+b) Haber rendido la totalidad de las subvenciones y aportes recibidos, conforme a lo establecido en el artículo 7°, letra a).
+
+c) Haber gastado, a lo menos, un 70% de las subvenciones y aportes recibidos, de acuerdo a lo dispuesto en el artículo 6°, letra e).
+
+Los Convenios de Igualdad de Oportunidades y Excelencia Educativa cuya renovación se solicite se entenderán prorrogados, por el solo ministerio de la ley, hasta por un máximo de 12 meses, período en el cual el Ministerio de Educación deberá verificar el cumplimiento de los requisitos establecidos en el inciso anterior. Asimismo, durante dicho período, los establecimientos estarán sujetos a las obligaciones y condiciones establecidas en el convenio original. El Ministerio de Educación, por su parte, deberá continuar entregando las subvenciones y aportes asociados a esta ley.
+
+En caso de renovación de los Convenios de Igualdad de Oportunidades y Excelencia Educativa, los recursos recibidos durante la prórroga mencionada en el inciso anterior y aquellos no gastados que hayan formado parte del convenio expirado, serán parte y estarán sujetos a las obligaciones y condiciones del que se suscriba en virtud de la renovación.
+
+De no proceder la renovación de los Convenios de Igualdad de Oportunidades y Excelencia Educativa, sea por no cumplir el sostenedor con los requisitos establecidos en el inciso primero o por haber renunciado expresamente a ella, deberá acreditar el cumplimiento de todas las obligaciones generadas durante la vigencia del convenio expirado, así como el hecho de haber destinado la totalidad de las subvenciones y aportes recibidos a las medidas comprendidas en el Plan de Mejoramiento Educativo. En caso que dichos recursos no hubiesen sido destinados a la finalidad señalada, deberán ser restituidos, sin perjuicio de la responsabilidad civil, penal o administrativa que corresponda.
+
+En relación con los Convenios de Igualdad de Oportunidades y Excelencia Educativa cuya renovación fuera rechazada, regirá la obligación establecida en el artículo 7°, letra a), y serán aplicables las exigencias señaladas en el inciso anterior, respecto de la totalidad de las subvenciones y aportes transferidos durante la vigencia de la prórroga establecida en el inciso segundo de este artículo.
+
 #### Artículo 8º
 
-Para dar cumplimiento a lo dispuesto en la letra d) del artículo anterior, el sostenedor deberá elaborar un Plan de Mejoramiento Educativo que incluya orientaciones y acciones en cada una de las áreas o dimensiones señaladas a continuación:
+Para dar cumplimiento a lo dispuesto en la letra d) del artículo anterior, el sostenedor deberá elaborar un Plan de Mejoramiento Educativo que incluya orientaciones y acciones en cada una de las áreas o dimensiones señaladas a continuación, priorizando aquellas donde el sostenedor considere que existen mayores necesidades de mejora.
+
+Las acciones a que hace referencia el inciso anterior son las siguientes:
 
 1. Acciones en el área de gestión del currículum, tales como fortalecimiento del proyecto educativo; mejoramiento de las prácticas pedagógicas; apoyo a los alumnos con necesidades educativas especiales; mejoramiento de los sistemas de evaluación de los alumnos; modificación del tamaño de cursos o contar con profesores ayudantes; apoyos a alumnos rezagados en sus aprendizajes y desarrollo personal; giras y visitas a lugares funcionales al cumplimiento de los objetivos educativos, entre otras.
 
-2. Acciones en el área de liderazgo escolar, tales como fortalecimiento del Consejo de Profesores; participación en el establecimiento de personalidades de la vida cultural y científica y de profesionales o dirigentes de la sociedad local o nacional; proyección de la escuela en la comunidad; fortalecimiento de la formación valórica y cívica de los alumnos, entre otras.
+2. Acciones en el área de liderazgo escolar, tales como preparación y capacitación de equipos directivos; fortalecimiento del Consejo de Profesores; participación en el establecimiento de personalidades de la vida cultural y científica y de profesionales o dirigentes de la sociedad local o nacional; proyección de la escuela en la comunidad; fortalecimiento de la formación valórica y cívica de los alumnos, entre otras.
 
 3. Acciones en el área de convivencia escolar, tales como apoyo sicológico y de asistencia social a los alumnos y a sus familias; mejoramiento de la convivencia y gestión del clima escolar; fortalecimiento del Consejo Escolar; fortalecimiento de las familias y de los apoderados en el vínculo educativo y afectivo con los alumnos y la escuela; apoyos a los aprendizajes de todos los alumnos, y contratación de personal idóneo para el logro de las acciones mencionadas en este número, entre otras.
 
-4. Acciones en el área de gestión de recursos, tales como la definición de una política de perfeccionamiento para los docentes del establecimiento, destinada a fortalecer aquellas áreas del currículo en que los alumnos han obtenido resultados educativos insatisfactorios, y establecimiento de sistemas de evaluación de los docentes, esto último en el caso de los establecimientos particulares subvencionados; fortalecimiento de los instrumentos de apoyo a la actividad educativa, tales como biblioteca escolar, computadores, Internet, talleres, sistemas de fotocopia y materiales educativos, entre otras.
+4. Acciones en el área de gestión de recursos, tales como la definición de una política de perfeccionamiento para los docentes del establecimiento, destinada a fortalecer aquellas áreas del currículo en que los alumnos han obtenido resultados educativos insatisfactorios; diseño e implementación de sistemas de evaluación de los docentes de los establecimientos educacionales particulares subvencionados y sistemas de evaluación complementarios en establecimientos municipales o administrados por corporaciones municipales; incentivo al desempeño de los equipos directivos, docentes y otros funcionarios del establecimiento, los que deberán estar referidos a las metas y resultados estipulados en el Plan de Mejoramiento Educativo, de acuerdo a lo establecido en el artículo 47 del decreto con fuerza de ley N° 1, de 1996, del Ministerio de Educación, o en base a los mecanismos propios que establezcan los establecimientos particulares subvencionados, los que deberán estar basados en instrumentos transparentes y objetivos; fortalecimiento de los instrumentos de apoyo a la actividad educativa, tales como biblioteca escolar, computadores, Internet, talleres, sistemas de fotocopia y materiales educativos, entre otras.
 
 Tratándose de establecimientos educacionales emergentes y en recuperación de conformidad a lo establecido en el artículo 9º, deberán incluir las acciones comprometidas en el Plan de Mejoramiento Educativo para establecimientos educacionales emergentes a que hace referencia el artículo 19 y en el Plan de Mejoramiento Educativo para establecimientos educacionales en recuperación a que se refiere el artículo 26, respectivamente.
 
-El Ministerio de Educación entregará, por sí o por medio de terceros registrados según lo dispuesto en el artículo 30, orientaciones y apoyo para elaborar e implementar el Plan de Mejoramiento Educativo.
+El Ministerio de Educación propondrá, por sí o por medio de terceros registrados según lo dispuesto en el artículo 30, orientaciones y apoyo para elaborar e implementar el Plan de Mejoramiento Educativo.
+
+Las acciones contenidas en los Planes de Mejoramiento podrán ser modificadas, excepcionalmente, cuando se produzcan cambios en las condiciones que se tuvieron en consideración para la formulación de dichos planes. Dichas modificaciones sólo se materializarán una vez cumplida la obligación del literal d) del artículo 7° de esta ley.
+
+#### Artículo 8° bis
+
+Para el cumplimiento de las acciones mencionadas en el artículo anterior, el sostenedor podrá contratar docentes, asistentes de la educación a los que se refiere el artículo 2° de la ley N° 19.464, y el personal necesario para mejorar las capacidades técnico pedagógicas del establecimiento y para la elaboración, desarrollo, seguimiento y evaluación del Plan de Mejoramiento. Asimismo, y con la misma finalidad, podrá aumentar la contratación de las horas de personal docente, asistentes de la educación y de otros funcionarios que laboren en el respectivo establecimiento educacional, así como incrementar sus remuneraciones. La contratación a que se refiere este inciso se regirá por las normas del decreto con fuerza de ley N° 1, de 1997, del Ministerio de Educación, del Código del Trabajo o por las normas del derecho común, según corresponda. Con la misma finalidad podrán contratarse personas o entidades pedagógicas y técnicas de apoyo que sean parte del Registro a que hace referencia el artículo 18, letra d) de la ley N° 18.956.
+
+Tratándose de contrataciones efectuadas de conformidad al decreto con fuerza de ley N° 1, de 1997, del Ministerio de Educación, no regirá la limitación establecida en el inciso primero del artículo 26 del mencionado decreto.
+
+En cualquier caso, las contrataciones, incrementos y aumentos de hora a que se refieren los incisos anteriores deberán estar vinculados a las acciones y metas específicas del Plan de Mejoramiento y no podrán superar el 50% de los recursos que obtenga por aplicación de esta ley, a menos que en el Plan de Mejoramiento se fundamente un porcentaje mayor.
+
+No podrán ser contratadas en virtud de este artículo las personas que tengan la calidad de cónyuge, hijos, adoptados, parientes hasta el tercer grado de consanguinidad ni segundo de afinidad, ambos inclusive, respecto de los administradores o representantes legales de la persona jurídica que tenga la calidad de sostenedor, salvo en el caso de los establecimientos educacionales uni, bi y tri docentes y aquellos beneficiados con lo dispuesto en el inciso cuarto del artículo 12 del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
 
 #### Artículo 9°
 
@@ -151,6 +183,36 @@ DEROGADO.
 La subvención escolar preferencial tendrá el siguiente valor unitario mensual por alumno prioritario, expresado en unidades de subvención educacional (USE), según la categoría del establecimiento educacional establecida de acuerdo al artículo 9º:
 
 Valor Subvención en USE
+
+Desde 1° Desde 1°
+
+nivel de hasta 4°
+
+transición 5° y 7° y año de
+
+hasta 4° 6° año 8°año enseñanza
+
+año de la básico básico media
+
+educación
+
+básica
+
+A:
+
+Establecimientos 1,694 1,1253 0,5687 0,5687
+
+educacionales
+
+autónomos
+
+B:
+
+Establecimientos 0,847 0,56265 0,28435 0,28435
+
+educacionales
+
+emergentes.
 
 #### Artículo 15
 
@@ -224,7 +286,7 @@ Este Plan deberá contener al menos:
 
 a) Un diagnóstico de la situación inicial del establecimiento comprendiendo una evaluación respecto de los recursos humanos, técnicos y materiales con que cuenta el establecimiento.
 
-b) Un conjunto de metas de resultados educativos a ser logrados en el transcurso de la ejecución del Plan. En todo caso, al cumplirse el plazo de ejecución del Plan, el establecimiento educacional deberá lograr los estándares nacionales.
+b) Un conjunto de metas de resultados educativos para el período que cubre el Plan.
 
 2. Coordinar y articular acciones con las instituciones y redes de servicios sociales competentes para detectar, derivar y tratar problemas sicológicos, sociales y necesidades educativas especiales de los alumnos prioritarios.
 
@@ -234,17 +296,17 @@ b) Un conjunto de metas de resultados educativos a ser logrados en el transcurso
 
 Sin perjuicio de la subvención a que se refiere la letra B del artículo 14, los establecimientos clasificados como emergentes tendrán derecho a percibir un aporte de recursos adicional para contribuir al financiamiento del diseño y ejecución del Plan de Mejoramiento Educativo a que se refiere el artículo anterior.
 
-Para la implementación del Plan a que se refiere el inciso anterior, los establecimientos allí señalados podrán utilizar los recursos adicionales para contratar servicios de apoyo de una persona o entidad externa con capacidad técnica al respecto, la que en todo caso deberá estar incluida en el registro indicado en el artículo 30.
+INCISO SUPRIMIDO.
 
 La suma anual de los recursos que reciban los establecimientos emergentes por la aplicación de la letra B del artículo 14 y el aporte adicional a que se refiere este artículo, será equivalente a lo que le correspondería recibir al mismo establecimiento si éste estuviera en la categoría de Autónomo, por los niveles que se especifican en el inciso siguiente.
 
-Este aporte adicional será de 0,7 U.S.E. por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 4º año de la educación general básica; de 0,465 U.S.E. en el caso de los alumnos que cursen 5º y 6º año de la educación general básica; de 0,235 U.S.E. por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,235 U.S.E. por los alumnos que cursen desde el 1° hasta 4° año de enseñanza media.
+Este aporte adicional será de 0,847 por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 4º año de la educación general básica; de 0,56265 USE en el caso de los alumnos que cursen 5º y 6º año de la educación general básica; de 0,28435 USE por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,28435 USE por los alumnos que cursen desde el 1° hasta 4° año de enseñanza media.
 
-No obstante lo anterior, durante el primer año de vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan, un tercio del aporte adicional mensual a que se refiere el inciso anterior, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que comiencen a ejecutar el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
+No obstante lo anterior, durante el primer año de vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan, un tercio del aporte adicional mensual a que se refieren los incisos anteriores, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que presenten el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
 
-A contar del segundo año de vigencia del convenio, el aporte a que se refiere el inciso cuarto se suspenderá si el Ministerio de Educación, conforme al procedimiento establecido en el artículo 17, verifica que las acciones no se han efectuado conforme al Plan de Mejoramiento Educativo.
+El aporte a que se refiere este artículo se suspenderá si el Ministerio de Educación, conforme al procedimiento establecido en el artículo 17, verifica que las acciones no se han efectuado conforme al Plan de Mejoramiento Educativo.
 
-De la resolución a que se refiere el inciso anterior podrá apelarse dentro de los quince días hábiles siguientes a su emisión, ante el Subsecretario de Educación, disponiendo éste de igual plazo para pronunciarse sobre la apelación.
+De la resolución de suspensión a que se refiere el inciso anterior podrá apelarse dentro de los quince días hábiles siguientes a su emisión, ante el Subsecretario de Educación, disponiendo éste de igual plazo para pronunciarse sobre la apelación.
 
 Una instrucción de la Superintendencia de Educación establecerá el modo y la oportunidad de rendición de cuentas y los medios de verificación de la ejecución de las acciones comprometidas.
 
@@ -278,15 +340,9 @@ de Apoyo registradas
 
 #### Artículo 23
 
-La Agencia de la Calidad de la
+La Agencia de la Calidad de la Educación ordenará como Establecimientos Educacionales en Recuperación a aquellos establecimientos incorporados al régimen de esta ley que obtengan resultados educativos reiteradamente deficientes de sus alumnos. Se entenderá que tienen resultados reiteradamente deficientes aquellos establecimientos en la categoría de insatisfactorios que no demuestren una mejora significativa, de acuerdo a lo establecido en el Párrafo 5° del Título II de la ley N° 20.529.
 
-Educación clasificará como Establecimientos Educacionales en Recuperación a aquellos establecimientos incorporados al régimen de la presente ley que obtengan resultados educativos reiteradamente deficientes de sus alumnos, de acuerdo a los instrumentos diseñados por el Ministerio de Educación para los efectos del artículo 21 del decreto con fuerza de ley Nº 1, de 2006, y de conformidad a los estándares nacionales que se establezcan para tales efectos. Se entenderá por resultados reiteradamente deficientes, lo establecido en el Párrafo 5° del Título II de la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación.
-
-También serán clasificados en la categoría de Establecimientos Educacionales en Recuperación, los establecimientos emergentes que, en el plazo de un año contado desde la suscripción del Convenio de Igualdad de Oportunidades y Excelencia Educativa, no cuenten con el Plan de Mejoramiento Educativo señalado en el artículo 19. Igual clasificación recibirán aquellos establecimientos educacionales emergentes que, teniendo un Plan, no lo apliquen, situación que comprobará el Ministerio de Educación a través de lo establecido en el inciso primero del artículo 17. El cambio en la clasificación del establecimiento se realizará mediante resolución fundada.
-
-La clasificación de un establecimiento en la categoría en Recuperación podrá ser efectuada a partir del segundo semestre del primer año de suscrito el Convenio de Igualdad de Oportunidades y Excelencia Educativa, salvo que se trate de un establecimiento que deba entrar en esta categoría de conformidad a lo dispuesto en el artículo 66 de la Ley de Subvenciones.
-
-El establecimiento que sea clasificado en la categoría en Recuperación mantendrá dicha clasificación y estará sujeto a las obligaciones que esta ley impone a dichos establecimientos por cuatro años contados desde el año escolar siguiente a aquél en que fue clasificado en tal categoría.
+El Ministerio de Educación apercibirá a los establecimientos educacionales ordenados en la categoría de emergentes que, en el plazo de un año contado desde la suscripción del Convenio de Igualdad de Oportunidades y Excelencia Educativa, no cuenten con el Plan de Mejoramiento Educativo señalado en el artículo 19 para que dentro de tres meses lo presenten. Si transcurrido este último plazo no presentan el citado plan, los establecimientos serán ordenados en la categoría de en Recuperación.
 
 #### Artículo 24
 
@@ -302,7 +358,7 @@ Las escuelas que sean clasificadas "en recuperación", en relación con lo estab
 
 Los sostenedores de los establecimientos educacionales en Recuperación deberán cumplir con el Plan de Mejoramiento Educativo establecido en el artículo 8º. Además, tendrán las siguientes obligaciones:
 
-1) Lograr los estándares nacionales correspondientes a la categoría Emergentes en un plazo máximo de cuatro años a partir del año escolar siguiente al de la resolución del artículo anterior, mejorando el rendimiento académico de los alumnos prioritarios.
+1) Lograr los estándares nacionales correspondientes a la categoría Emergentes en los plazos que se establecen en el Párrafo 5°, Título II de la ley N° 20.529. El incumplimiento de este numeral no tendrá más consecuencias que las indicadas en dicha ley.
 
 2) Elaborar y cumplir el Plan de Mejoramiento Educativo para establecimientos educacionales "en recuperación". Éste deberá ser elaborado o ejecutado, a elección del sostenedor, con apoyo del Ministerio de Educación o mediante alguna de las personas o entidades del registro a que alude el artículo 30.
 
@@ -320,29 +376,31 @@ c) Desarrollo de planes de superación profesional para los docentes, pudiendo r
 
 Dicho plan podrá tomar en consideración las orientaciones que realice la Agencia de la Calidad de la Educación, como parte de la evaluación de estándares indicativos de desempeño para los establecimientos y sus sostenedores a que se refiere el artículo 6° de la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación.
 
+Los recursos entregados en virtud de esta ley podrán ser utilizados para financiar las medidas de reestructuración a las que se refiere este numeral.
+
 #### Artículo 27
 
 Para diseñar y llevar a cabo las actividades señaladas en el artículo anterior, el Ministerio de Educación dispondrá de un aporte económico extraordinario para los sostenedores de los establecimientos educacionales declarados en Recuperación a que se refiere el artículo 23.
 
 La suma anual de este aporte extraordinario será equivalente al monto que le correspondería al establecimiento educacional si se le aplicara la subvención establecida en la letra A del artículo 14, por el promedio de los alumnos prioritarios matriculados en los niveles correspondientes en el primer trimestre del año escolar, considerando el porcentaje de la asistencia media efectiva de los alumnos prioritarios registrada en los meses del año escolar inmediatamente anterior.
 
-Estos recursos deberán ser aplicados a medidas de mejoramiento contenidas en el Plan mencionado en el artículo anterior. La rendición de estos recursos deberá ser visada por la persona o entidad externa.
+Estos recursos deberán ser aplicados a medidas de mejoramiento contenidas en el Plan mencionado en el artículo anterior.
 
-Este aporte será entregado en cuotas mensuales, iguales y sucesivas; será objeto de un convenio y se suspenderá cuando el Ministerio de Educación certifique, mediante resolución fundada, que las acciones no se han ejecutado conforme al Plan aprobado.
+Este aporte será entregado en cuotas mensuales, iguales y sucesivas; y se suspenderá cuando el Ministerio de Educación certifique, mediante resolución fundada, que las acciones no se han ejecutado conforme al Plan.
 
 En todo caso, un alumno prioritario que se traslade durante el año escolar de un establecimiento en Recuperación a cualquier otro, no dará derecho a impetrar la subvención escolar preferencial ni los aportes de los artículos 20 y 27 al nuevo establecimiento, durante ese año.
 
 INCISO ELIMINADO.
 
-Durante el primer año de incorporación de un establecimiento educacional al régimen de subvención escolar preferencial, el aporte a que se refiere el inciso primero será determinado según la fórmula establecida en el inciso segundo, dividido por doce y multiplicado por el número de meses que resten del año, contados desde el mes siguiente a la firma del convenio complementario.
+Durante el primer año de incorporación de un establecimiento educacional al régimen de subvención escolar preferencial, el aporte a que se refiere el inciso primero será determinado según la fórmula establecida en el inciso segundo, dividido por doce y multiplicado por el número de meses que resten del año, contados desde el mes siguiente a la clasificación del establecimiento en la categoría en Recuperación.
 
 #### Artículo 28
 
-Si concluido el plazo de cuatro años establecido en el Nº 1 del artículo 26, el establecimiento educacional en Recuperación alcanza los objetivos de los numerales 1, 2 y 3 de dicho artículo será clasificado automáticamente como Emergente o Autónomo, según corresponda. No obstante, los establecimientos educacionales en recuperación podrán solicitar a contar del segundo semestre del segundo año el cambio a la categoría de emergentes, si sus evaluaciones indican que ha logrado los estándares nacionales correspondientes a dicha categoría, renovándose en ese caso el convenio automáticamente por un nuevo período de cuatro años con las adecuaciones pertinentes a la nueva clasificación. Esta clasificación tendrá efecto a partir del año escolar siguiente.
+Concluido el plazo a que se refiere el N° 1) del artículo 26, el establecimiento educacional en Recuperación deberá alcanzar los resultados educativos que permitan ordenarlo en una categoría superior, de acuerdo a los mecanismos establecidos en la ley N° 20.529.
 
-Por otra parte, si el establecimiento en recuperación no logra dichos objetivos en el plazo indicado, la Agencia de la Calidad de la Educación informará a todos los miembros de la comunidad escolar la circunstancia de que el establecimiento no ha alcanzado los resultados académicos esperados y ofrecerá a las familias del mismo la posibilidad de buscar otro centro educativo y facilidades de transporte para su acceso, lo que se regulará vía decreto suscrito por el Ministerio de Educación y el Ministerio de Hacienda. Esta comunicación la efectuará la Agencia de la Calidad de la Educación por carta certificada a cada uno de los apoderados y familias del establecimiento. Dicha comunicación podrá efectuarse por cualquier otro medio que el Ministerio de Educación determine, siempre que se cumpla con el objetivo de informar directamente a cada uno de los apoderados y familias del establecimiento.
+Por otra parte, si el establecimiento en recuperación no logra dichos resultados educativos en el plazo indicado, la Agencia de la Calidad de la Educación lo informará a todos los miembros de la comunidad escolar y ofrecerá a las familias del mismo la posibilidad de buscar otro centro educativo y facilidades de transporte para su acceso, lo que se regulará vía decreto suscrito por el Ministerio de Educación y el Ministerio de Hacienda. Esta comunicación la efectuará la Agencia de la Calidad de la Educación por carta certificada a cada uno de los apoderados y familias del establecimiento. Dicha comunicación podrá efectuarse por cualquier otro medio que el Ministerio de Educación determine, siempre que se cumpla con el objetivo de informar directamente a cada uno de los apoderados y familias del establecimiento.
 
-En el caso de no lograrse los objetivos señalados en el inciso primero, los establecimientos estarán afectos al mecanismo de revocación del reconocimiento oficial que se establece en los artículos 30 y 31 de la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación.
+En el caso de no lograrse los resultados educativos señalados en el inciso primero, los establecimientos estarán afectos al mecanismo de revocación del reconocimiento oficial que se establece en los artículos 30 y 31 de la ley que crea el Sistema Nacional de Aseguramiento de la Calidad de la Educación.
 
 INCISO DEROGADO.
 
@@ -364,7 +422,7 @@ b) Suscribir los Convenios de Igualdad de Oportunidades y Excelencia Educativa y
 
 c) SUPRIMIDO
 
-d) Determinar los instrumentos y la oportunidad en que se verificará el cumplimiento de los compromisos contraídos por los establecimientos educacionales que forman parte del régimen de la subvención preferencial;
+d) Determinar los instrumentos y la oportunidad en que se verificará, de acuerdo a lo establecido en el artículo 17, el cumplimiento de los compromisos contraídos por los establecimientos educacionales que forman parte del régimen de la subvención preferencial.
 
 e) Mantener un sistema de apoyo técnico pedagógico a los establecimientos educacionales, por si o por medio de terceros, de aquellos incorporados en el registro a que se refiere el artículo 30.
 
@@ -382,15 +440,35 @@ j) Realizar todas las demás acciones necesarias para el cumplimiento y fines de
 
 #### Artículo 30
 
-Estarán habilitadas para prestar apoyo técnico pedagógico a los establecimientos educaciones en lo concerniente a la elaboración e implementación del Plan de Mejoramiento Educativo a que se refieren los artículos 8°, 19, 20 y 26 aquellas personas o entidades que cumplan los estándares de certificación para integrar el Registro Público de Entidades Pedagógicas y Técnicas de Apoyo administrado por el Ministerio de Educación de acuerdo a lo establecido en el artículo 18, letra d), de la ley N° 18.956.
+Estarán habilitadas para prestar apoyo técnico pedagógico a los establecimientos educacionales en lo concerniente a la elaboración e implementación del Plan de Mejoramiento Educativo a que se refieren los artículos 8°, 19, 20 y 26, aquellas personas o entidades que cumplan los estándares de certificación para integrar el Registro Público de Entidades Pedagógicas y Técnicas de Apoyo, administrado por el Ministerio de Educación de acuerdo a lo establecido en el artículo 18, letra d), de la ley N° 18.956.
 
-Las personas o entidades que, incorporadas al registro a que se refiere el inciso precedente, presten asesorías a establecimientos educacionales que reiteradamente obtengan resultados insatisfactorios de conformidad a lo establecido en el reglamento a que se refiere el artículo 18, letra d) de la ley N° 18.956, serán eliminadas del Registro Público de Personas o Entidades Pedagógicas y Técnicas de Apoyo.
+Serán requisitos para integrar el Registro Público de Entidades Pedagógicas y Técnicas de Apoyo administrado por el Ministerio de Educación de acuerdo a lo establecido en el artículo 18, letra d), de la ley N° 18.956, a lo menos, los siguientes:
+
+a) Identificación de los objetivos, metas y áreas de especialización de la entidad o persona;
+
+b) Descripción de las metodologías e instrumentos de trabajo y de evaluación y monitoreo utilizados por la entidad o persona;
+
+c) Descripción de la formación y experiencia de la persona, o de sus equipos de trabajo cuando se trate de entidades, y
+
+d) No registrar incumplimientos de obligaciones previsionales ni comerciales.
+
+Para los efectos de permanecer en el registro a que se refieren los incisos anteriores, además de realizar una actualización periódica de los requisitos antes mencionados, conforme se estipule en el reglamento, se exigirán estándares de certificación en las siguientes áreas:
+
+i) Cumplimiento oportuno y eficiente de la asesoría contratada.
+
+ii) Efectividad de los programas en el cumplimiento de objetivos y el logro de los resultados esperados.
+
+Para verificar lo señalado en el inciso anterior se obtendrá información de los usuarios, con encuestas u otros medios.
+
+Regirán, respecto de las personas o entidades a que se refiere este artículo, exclusivamente las inhabilidades de los artículos 54 y siguientes de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+El Ministerio de Educación deberá crear, mantener y administrar un registro de información de la Asistencia Técnica Educativa, que será público e indicará, a lo menos, las personas y entidades que forman parte del Registro Público de Personas o Entidades Pedagógicas y Técnicas de Apoyo, los establecimientos educacionales que hayan recibido sus servicios, las áreas en que les prestaron servicio y, en los casos que corresponda, los resultados educativos alcanzados por los establecimientos. Deberá, asimismo, incluir información acerca de la Asistencia Técnica Educativa que brinde el Ministerio de Educación por medio de la unidad o unidades respectivas.
+
+Las personas o entidades a que se refiere este artículo, que reiteradamente obtengan resultados insatisfactorios de conformidad a lo establecido en el reglamento a que se refiere el artículo 18, letra d), de la ley N° 18.956, serán eliminadas del Registro Público de Personas o Entidades Pedagógicas y Técnicas de Apoyo.
 
 Los sostenedores podrán asociarse entre sí para recibir apoyo técnico de una misma persona o entidad registrada.
 
 Los costos de cada persona o entidad pedagógica y técnica de apoyo serán pagados por el sostenedor que requiera sus servicios.
-
-Regirán respecto de estas personas o entidades las inhabilidades de los artículos 54 y siguientes del decreto con fuerza de ley Nº 1-19.653, de 2001, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
 
 #### Artículo 31
 
@@ -409,6 +487,12 @@ DEROGADO.
 #### Artículo 33
 
 Los miembros del equipo directivo del establecimiento educacional podrán impartir clases en aula en la medida que con ello no se perjudique el adecuado desarrollo de sus funciones directivas.
+
+#### Artículo 33 bis
+
+Los municipios, corporaciones municipales u otras entidades creadas por ley que administren establecimientos educacionales que estén adscritos al régimen de subvención preferencial, deberán administrar los recursos que perciban por aplicación de esta ley en una cuenta corriente única para este solo efecto.
+
+Los recursos entregados en virtud de esta ley son inembargables salvo en el caso de deudas derivadas del incumplimiento de obligaciones contraídas en implementación y ejecución del plan de mejoramiento educativo.
 
 ### Párrafo 7º
 
@@ -560,7 +644,7 @@ El mayor gasto fiscal que representen las subvenciones a que se refiere el artí
 
 #### Artículo primero
 
-Mientras no se establezcan los estándares nacionales, de conformidad con lo dispuesto en el artículo 9°, los establecimientos que postulen y se incorporen al régimen de subvención preferencial podrán ser clasificados en la categoría de Autónomos en la oportunidad que señala el artículo 12, si cumplen los siguientes requisitos relacionados con los resultados obtenidos en las mediciones realizadas a los 4° básicos por el Ministerio de Educación para los efectos del artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación, esto es:
+Mientras no se establezcan los estándares nacionales, de conformidad con lo dispuesto en el artículo 9°, los establecimientos que postulen y se incorporen al régimen de subvención preferencial podrán ser clasificados en la categoría de Autónomos en la oportunidad que señala el artículo 12, si cumplen los siguientes requisitos relacionados con los resultados obtenidos en las mediciones realizadas a los 4° básicos por el Ministerio de Educación para los efectos del artículo 37 de la Ley General de Educación, esto es:
 
 a) Que su puntaje promedio como establecimiento sea mayor que el puntaje promedio del establecimiento situado en la mediana de rendimientos de su grupo similar.
 
@@ -588,7 +672,7 @@ En el mismo período señalado en el inciso primero, los establecimientos educac
 
 #### Artículo segundo
 
-Mientras no se establezcan los estándares nacionales, de conformidad con lo dispuesto en el artículo 9°, los establecimientos serán clasificados en la categoría en Recuperación si cumplen las siguientes condiciones con relación a los resultados obtenidos en las mediciones realizadas a los 4° básicos por el Ministerio de Educación para los efectos del artículo 21 del decreto con fuerza de ley Nº 1, de 2006, del Ministerio de Educación:
+Mientras no se establezcan los estándares nacionales, de conformidad con lo dispuesto en el artículo 9°, los establecimientos serán clasificados en la categoría en Recuperación si cumplen las siguientes condiciones con relación a los resultados obtenidos en las mediciones realizadas a los 4° básicos por el Ministerio de Educación para los efectos del artículo 37 de la Ley General de Educación,:
 
 a) Que su puntaje promedio sea inferior a 220 puntos.
 
@@ -665,6 +749,24 @@ El reglamento correspondiente a la presente ley deberá ser dictado dentro del p
 Artículo undécimo.- DEROGADO.
 
 Artículo duodécimo.- Los niveles de 1° año de enseñanza media a 4° año de enseñanza media se incorporarán gradualmente a la percepción de la subvención escolar preferencial, de la subvención por concentración de alumnos prioritarios y de los aportes adicionales establecidos en esta ley, a razón de un nivel por año, comenzando el año escolar 2014 con 1° año de enseñanza media.
+
+#### Artículo decimo
+
+tercero.- En tanto no estén plenamente operativas aquellas normas de la ley N° 20.529 que crean la Superintendencia de Educación y la Agencia de Calidad de la Educación, de acuerdo a lo dispuesto en el o los decretos con fuerza de ley a que alude el artículo tercero transitorio, y a lo establecido en el artículo decimotercero transitorio de la ley N° 20.529, las facultades que la presente ley les otorga serán ejercidas por el Ministerio de Educación.
+
+#### Artículo decimo
+
+cuarto.- El plazo que los establecimientos lleven ordenados en la categoría de "en recuperación" de conformidad a la presente ley se agregará para efectos de lo establecido en el párrafo 5° del Título II de la ley N° 20.529.
+
+#### Artículo decimo
+
+quinto.- En la primera renovación de los Convenios de Igualdad de Oportunidades y Excelencia Educativa vigentes a la fecha de publicación de esta ley en el Diario Oficial, el porcentaje de gasto que deberá acreditarse para dar cumplimiento a lo dispuesto en la letra c) del artículo 7° bis será de, a lo menos, 50%.
+
+Para efectos del cálculo del cumplimiento del porcentaje de gasto indicado en el inciso anterior se podrán considerar gastos hasta por un 15% de la subvención y aportes recibidos, en fines distintos a los establecidos en el Convenio de Igualdad de Oportunidades y Excelencia Educativa, siempre que cumplan los siguientes requisitos copulativos: haber sido utilizados hasta el 31 de agosto de 2011 y haberse destinado de acuerdo a los usos previstos en el inciso primero del artículo 5° del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
+
+#### Artículo decimo
+
+sexto.- Los Convenios de Igualdad de Oportunidades y Excelencia Educativa suscritos con anterioridad al 30 de junio de 2011 se entenderán finalizados al término del año escolar en que dicho convenio establecía que expiraban.
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
