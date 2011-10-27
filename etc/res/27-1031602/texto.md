@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE DE SAN MIGUEL
+
+Por resolución SII Nº 27, de 30 de septiembre de 2011, se designó a don Héctor Romero González, RUT Nº 9.120.914-4, como Secretario Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de San Miguel, en reemplazo de don Jorge León Vilches, RUT Nº 7.422.031-2.
