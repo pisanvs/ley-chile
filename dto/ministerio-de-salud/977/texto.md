@@ -540,7 +540,7 @@ Los mataderos de aves y otras especies distintas del ganado, deberán estar ubic
 
 #### Artículo 77
 
-Los mataderos de ganado se rigen por lo establecido en el Reglamento sobre funcionamiento de Mataderos, Cámaras Frigoríficas y Centrales de Desposte y fija Equipamiento Mínimo de tales Establecimientos, aprobado por decreto supremo N° 342, de 1993, de los Ministerios de Agricultura y Salud.
+Los mataderos de ganado se rigen por lo establecido en el Reglamento sobre estructura y funcionamiento de mataderos, establecimientos frigoríficos, cámaras frigoríficas y plantas de desposte y fija equipamiento mínimo de tales establecimientos, aprobado por decreto supremo Nº 94, de 2008, de los Ministerios de Agricultura y de Salud.
 
 #### Artículo 78
 
@@ -560,7 +560,7 @@ Además deberán disponer de un área para el sistema de tratamiento o destrucci
 
 Se prohíbe el sacrificio y el faenamiento de animales destinados a la alimentación humana en locales o recintos no autorizados por la autoridad sanitaria.
 
-No se permitirá la presencia dentro de la sala de faenamiento de personas ajenas a las tareas propias del matadero, la mantención de otros animales que no estén destinados al sacrificio, ni la salida o retiro de animales vivos del recinto.
+No se permitirá la presencia dentro de la sala de faenamiento de personas ajenas a las tareas propias del matadero, la mantención de otros animales que no estén destinados al sacrificio, ni la salida o retiro de animales vivos del recinto, salvo circunstancias excepcionales, debidamente calificadas por la autoridad sanitaria.
 
 ### Párrafo X
 
@@ -570,9 +570,7 @@ carnes
 
 #### Artículo 82
 
-La encierra de las reses deberá efectuarse con un mínimo de 6 horas de antelación al sacrificio, con el fin de permitir el reposo y el examen ante-mortem. Los animales no podrán permanecer en el recinto del matadero sin ser faenados por más de 48 horas.
-
-En casos justificados, se podrá modificar el tiempo de reposo, previa autorización del médico veterinario del Servicio de Salud.
+La encierra de las reses deberá efectuarse por un período de tiempo de antelación al sacrificio, con el fin de permitir el reposo y el examen ante-mortem.
 
 #### Artículo 83
 
@@ -1416,7 +1414,7 @@ En el caso que antecedentes sanitarios y técnicos hagan conveniente introducir 
 
 ## Título IV
 
-De los contaminantes
+De los Contaminantes y Residuos
 
 ### Párrafo I
 
@@ -1818,11 +1816,15 @@ Otros productos 100,0
 
 En el caso de que antecedentes sanitarios y técnicos hagan conveniente introducir modificaciones a las listas establecidas en el artículo precedente, el Ministerio de Salud propondrá el correspondiente decreto supremo modificatorio al Presidente de la República.
 
+### Párrafo II
+
+De los residuos de plaguicidas
+
 #### Artículo 162
 
 El Ministerio de Salud mediante la dictación de la correspondiente norma técnica determinará las tolerancias de residuos de plaguicidas permitidos en los alimentos.
 
-### Párrafo II
+### Párrafo III
 
 De los radionucleidos
 
@@ -1926,7 +1928,7 @@ Para efectos de cálculo de la contaminación de las leches y fórmulas para lac
 
 Los niveles de intervención derivados señalados en el artículo 166 se han calculado sobre la base de un alimento contaminado con sólo un radionucleido. Si más de una categoría de alimento está contaminada y/o si hay varios radionucleidos presentes, la autoridad competente establecerá nuevos NID, de acuerdo a la metodología recomendada internacionalmente.
 
-### Párrafo III
+### Párrafo IV
 
 De las micotoxinas
 
@@ -1940,9 +1942,135 @@ Aflatoxina M1 0,05 ppb
 
 Zearalenona 200 ppb
 
+### Párrafo V
+
+De otros contaminantes y residuos
+
 #### Artículo 170
 
-En el caso de que antecedentes sanitarios y técnicos hagan conveniente introducir modificaciones a las listas establecidas en los artículos 165, 166 y 169, el Ministerio de Salud propondrá el correspondiente decreto supremo modificatorio al Presidente de la República.
+Los contenidos máximos de Dioxinas y Bifenilos Policlorados Coplanares (PCBs) en los alimentos que a continuación se indican son los siguientes:
+
+Contenido Máximo de
+
+Alimento Dioxinas y PCBs Unidad
+
+coplanares
+
+Carne de cerdo y 2,0 (pg EQT/OMS/g
+
+productos derivados de grasa)
+
+Carne de ave y 3,5 (pg EQT/OMS/g
+
+productos derivados de grasa)
+
+Carne de bovino y ovino 6,0 (pg EQT/OMS/g
+
+y productos derivados de grasa)
+
+Pescados y productos 2,0 (pg EQT/OMS/g de
+
+derivados peso fresco)
+
+Huevos y productos 3,0 (pg EQT/OMS/g de
+
+derivados grasa)
+
+Leche y productos 6,0 (pg EQT/OMS/g de
+
+derivados grasa)
+
+Para los efectos de este reglamento se entiende por:
+
+- Dioxinas: Familia de compuestos clorados relacionados entre sí desde el punto de vista estructural y químico, constituida por Dibenzo-para-dioxinas policloradas (PCDD) y Dibenzofuranos policlorados (PCDF).
+
+- Bifenilos Policlorados Coplanares: Algunos PCBs que poseen propiedades tóxicas similares a las dioxinas.
+
+- Equivalencia Tóxica (EQT): valor relativo calculado multiplicando la concentración de un compuesto análogo a las dioxinas por el factor de equivalencia tóxica (FET).
+
+- EQT/OMS: Equivalencia Tóxica de la Organización Mundial de Salud para Dioxinas y PCBs coplanares, basada en factores de equivalencia tóxica (FET).
+
+- Factor de Equivalencia Tóxica (FET): estimaciones de la toxicidad de compuestos análogos a las dioxinas en relación con la toxicidad de 2,3,7,8-Tetraclorodibenzo-p-dioxina (TCDD), a la que se asigna un FET de 1.
+
+Tabla de Factores de Equivalencia Tóxica
+
+Compuesto (congénere) Abreviatura FET
+
+Dibenzodioxinas Policloradas
+
+2,3,7,8-Tetraclorodibenzodioxina TCDD 1
+
+1,2,3,7,8-Pentaclorodibenzodioxina 1,2,3,7,8-PeCDD 1
+
+1,2,3,4,7,8-Hexaclorodibenzodioxina 1,2,3,4,7,8-HxCDD0 . 1
+
+1,2,3,6,7,8-Hexaclorodibenzodioxina 1,2,3,6,7,8-HxCD D0. 1
+
+1,2,3,6,7,9-Hexaclorodibenzodioxina 1,2,3,6,7,9-HxCDD 0.1
+
+1,2,3,4,6,7,8
+
+Heptaclorodibenzodioxina 1,2,3,4,6,7,8-HxCDD0.01
+
+Octaclorodibenzodioxin OCDD 0.0001
+
+Dibenzofuranos Policlorados
+
+2,3,7,8-Tetraclorodibenzofurano 2,3,7,8-TCDF 0.1
+
+1,2,3,7,8-Pentaclorodibenzofurano 1,2,3,7,8-PeCDF 0.05
+
+2,3,4,7,8-Pentaclorodibenzofurano 2,3,4,7,8-PeCDF 0.5
+
+1,2,3,4,7,8-Hexaclorodibenzofurano 1,2,3,4,7,8-HxCDF 0.1
+
+1,2,3,6,7,8-Hexaclorodibenzofurano 1,2,3,6,7,8-HxCDF 0.1
+
+1,2,3,7,8,9-Hexaclorodibenzofurano 1,2,3,7,8,9-HxCDF 0.1
+
+2,3,4,6,7,8-Hexaclorodibenzofurano 2,3,4,6,7,8-HxCDF 0.1
+
+1,2,3,4,6,7,8-Heptaclorodibenzofurano
+
+1,2,3,4,6,7,8-HpCDF 0.01
+
+1,2,3,4,7,8,9-Heptaclorodibenzofurano
+
+1,2,3,4,7,8,9-HpCDF 0.01
+
+Octaclorodibenzofurano OCDF 0.0001
+
+Bifenilos policlorados "no-orto"
+
+3,3',4',4'-Tetraclorobifenilo 3,3',4,4'-TCB 0.0001
+
+3,4,4',5,-Tetraclorobifenilo 3,4,4',5-TCB 0.0001
+
+3,3',4,4',5-Pentaclorobifenilo 3,3',4,4',5-PeCB 0.1
+
+3,3',4,4',5,5'-Hexaclorobifenilo 3,3',4,4',5,5'-HxCB 0.01
+
+Bifenilos policlorados "mono-orto"
+
+2,3,3',4,4'-Pentaclorobifenilo 2,3,3',4,4'-PeCB 0.0001
+
+2,3,4,4',5-Pentaclorobifenilo 2,3,4,4',5-PeCB 0.0005
+
+2,3',4,4',5-Pentaclorobifenilo 2,3',4,4',5-PeCB 0.0001
+
+2,3',4,4',5'-Pentaclorobifenilo 2,3',4,4',5'-PeCB 0.0001
+
+2,3,3',4,4',5-Hexaclorobifenilo 2,3,3',4,4',5-HxCB 0.0005
+
+2,3,3',4,4',5'-Hexaclorobifenilo 2,3,3',4,4',5'-HxCB0.0005
+
+2,3',4,4',5,5'-Hexaclorobifenilo
+
+2,3',4,4',5,5'-HxCB0. 00001
+
+2,3,3',4,4',5,5'-Heptaclorobifenilo
+
+2,3,3',4,4',5,5'-HpCB 0.00001
 
 ## Título V
 
@@ -3116,17 +3244,15 @@ La carne recién faenada debe tener apariencia marmórea, con superficie brillan
 
 #### Artículo 271
 
-Carne fresca es aquella que ha sido sometida a un proceso de enfriamiento, en un rango de temperatura de + 1° a +7°C por 24 a 48 horas.
+Carne fresca es aquella que, aparte de haber sido refrigerada o enfriada en un rango de temperatura que va entre 0° a +7°C, según medición dispuesta en el artículo 22 del decreto Nº 94, de 2008, de los Ministerios de Agricultura y Salud, no ha recibido, a los efectos de su conservación, otro tratamiento que el envasado protector y que conserva sus características naturales.
 
 #### Artículo 272
 
-Carne enfriada es aquella cuya temperatura interna medida en el centro de la masa muscular está comprendida entre +2°C al finalizar el proceso de enfriado y -12°C.
-
-> **Nota.** NOTA: El Art. segundo del DTO 68, Salud, publicado el 23.01.2006, dispuso que la modificación introducida al presente artículo rige a contar de 180 días después de su publicación.
+Derogado.
 
 #### Artículo 273
 
-Carne congelada es aquella cuya temperatura interna medida en el centro de la masa muscular es de -18°C como máximo. Sin embargo para fines de transporte de las mismas, de acuerdo a los artículos 190 y 191 del presente reglamento, se consideran igualmente como carnes congeladas, aquellas que presenten una temperatura máxima de hasta -12°C.
+Carne congelada es aquella cuya temperatura interna medida en el centro de la masa muscular es de -18°C como máximo. Sin embargo, para fines de transporte de las mismas, se considerarán igualmente como carnes congeladas, aquellas definidas en los artículos 190 y 191 del presente reglamento.
 
 #### Artículo 274
 
@@ -4578,9 +4704,7 @@ b) pH:4,4 como máximo.
 
 Mayonesa es la emulsión de aceite comestible en huevo y agua, adicionada de vinagre, jugo de limón, otros ácidos orgánicos, sal comestible, condimentos y aditivos. Se permite la adición de caroteno y otros aditivos autorizados.
 
-INCISO DEROGADO
-
-> **Nota.** El artículo transitorio del DTO 57, Salud, publicado el 06.05.2005, dispone que las modificaciones a la presente norma entrarán en vigencia dieciocho meses después de su publicación.
+En los locales de atención a público que ofrezcan o incluyan mayonesa en alimentos, la mayonesa sólo se podrá elaborar a base de huevos pasteurizados, líquidos, congelados o deshidratados que cumplan con las especificaciones microbiológicas del artículo 173 del presente reglamento o estar lista para el consumo procedente de fábricas autorizadas
 
 #### Artículo 451
 
