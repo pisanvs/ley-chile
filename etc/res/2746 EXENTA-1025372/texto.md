@@ -36,6 +36,8 @@ El plazo para la ejecución del proyecto y para la recepción municipal, podrá 
 
 5º.- El número de subsidios dispuestos para los proyectos habitacionales presentados que cumplan los requisitos y condiciones señaladas en esta resolución, se distribuirán comunalmente según el cuadro que se inserta a continuación:
 
+Si luego de efectuada la selección quedaren subsidios disponibles en una o más comunas, el Director del Serviu respectivo, mediante resolución fundada, podrá disponer que éstos se asignen a otra comuna o comunas de la respectiva Región.
+
 6º.- El subsidio habitacional que se aplicará a la adquisición de las viviendas que sean parte de los proyectos aprobados, estará orientado a quienes tengan la calidad de damnificados. Si transcurridos 180 días corridos desde el inicio de obras la entidad aún no completase las nóminas y quedaren subsidios disponibles para ser aplicados a viviendas del correspondiente proyecto habitacional, el Serviu tendrá un plazo de 60 días corridos para completar la nómina con damnificados que aplicarán el subsidio a la adquisición de viviendas de los proyectos presentados. En caso que el Serviu no haga entrega de estas nóminas o que con la entrega de estas nóminas no se complete el total de las viviendas que integran los proyectos, los subsidios podrán otorgarse a personas no damnificadas.
 
 La entidad tendrá un plazo de dos años a partir de la fecha de recepción municipal del proyecto, para completar el número de viviendas del proyecto con postulantes que proponga al Serviu.
