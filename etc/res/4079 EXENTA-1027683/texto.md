@@ -20,6 +20,12 @@ Resolución:
 
 Se seleccionará en primer lugar el proyecto que obtenga el mayor puntaje en el punto 1.8, Diseño Acorde a la Localidad, de la Pauta de Selección de Proyectos y si los proyectos tienen igual puntaje en este factor el Ministro de Vivienda y Urbanismo decidirá acerca del proyecto ganador.
 
+3º.- En caso de existir zócalo y/o comercio en el primer piso, se deberá cumplir lo siguiente:
+
+A) En caso de existir zócalo, se prohibirá su uso con fines habitacionales. En todo caso, se permitirá el uso del zócalo para estacionamientos y equipamiento del edificio.
+
+B) En caso de existir comercio en el primer piso, éste deberá tener una altura mínima interior de 2,50 metros.
+
 > **Nota.** La Resolución 4874 Exenta, Vivienda, publicada el 22.08.2011, modifica la presente norma, en el sentido de agregar al punto 3.6 del Ítem 3 "Aspectos Mínimos del Proyecto" de la Pauta de Selección de Proyectos, en su descripción, la siguiente frase: "Se exime de este punto a los proyectos con un número total de viviendas menor o igual a 20 unidades.".
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
