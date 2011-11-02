@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2959 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº23, superficie 95 m2, rol Nº1203-10, comuna de Valdivia, para la obra "Construcción Puente Cau Cau y Accesos", región de Los Ríos y se acordó el valor de la indemnización con su propietario ALFRED WILLIAM BECK VOOT o ALFREDO WILLIAM BECK VOOT, ascendente a la cantidad de $9.353.974.-
+
+Fiscal del Ministerio de Obras Públicas.
