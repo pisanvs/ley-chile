@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2960 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 145-B y 146-B, superficies 4.354 y 1.530 m2 respectivamente, rol Nº266-7, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L – 30 – M – Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Séptima Región, y se acordó el valor de la indemnización con su propietario PEDRO ENRIQUE GONZÁLEZ REVECO, ascendente a la cantidad de $12.891.773.-
+
+Fiscal del Ministerio de Obras Públicas.
