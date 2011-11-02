@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2942 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº48, superficie 118 m2, rol Nº527-247, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tirúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario PATRICIO GUILLERMO CARIPAN COLLIPAL, ascendente a la cantidad de $90.728.-
+
+Fiscal del Ministerio de Obras Públicas.
