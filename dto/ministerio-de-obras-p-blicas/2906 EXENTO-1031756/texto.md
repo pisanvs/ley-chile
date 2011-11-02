@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2906 de 30 de septiembre de 2011, se expropió el lote de terreno Nº9-A, superficie 50.244 m2, rol de Avalúo 158-97, comuna de Cochamó, para la obra "CAMINO PUELO - PASO El BOLSÓN, SECTOR LLANADA GRANDE - SEGUNDO CORRAL, TRAMO RÍO MAPOCHO - PRIMER CORRAL, X REGION", y se acordó el valor de la indemnización con su propietaria MARIE FRANCOISE DUTHEIL BERARD, ascendente a la cantidad de $19.155.817.-
+
+Fiscal del Ministerio de Obras Públicas.
