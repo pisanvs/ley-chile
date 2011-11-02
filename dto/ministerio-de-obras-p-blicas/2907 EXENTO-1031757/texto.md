@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2907 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº25, superficie 25 m2, rol Nº41-141, comuna de Lolol, para la obra "Mejoramiento Ruta I-70-J, sector Lolol – Ranguil, tramo Km. 0,00000 a Km. 19,38878", Sexta Región, y se acordó el valor de la indemnización con su propietario CARLOS PATRICIO CORNEJO BRAVO, ascendente a la cantidad de $437.850.-
+
+Fiscal del Ministerio de Obras Públicas.
