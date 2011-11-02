@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2882 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº10-B1, superficie 919 m2, rol Nº118-1, comuna de Pelarco, para la obra "Camino Ruta K-45, Sector Pelarco – Huencuecho Sur, Tramo Km. 0,00000 a Km. 8,54141, comuna de Pelarco, provincia de Talca, Región del Maule", y se acordó el valor de la indemnización con su propietario JOSÉ ROLANDO CUBILLOS DÍAZ, ascendente a la cantidad de $1.775.556.-
+
+Fiscal del Ministerio de Obras Públicas.
