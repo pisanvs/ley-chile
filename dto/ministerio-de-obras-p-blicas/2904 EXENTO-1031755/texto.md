@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2904 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº49, superficie 1.657 m2, rol Nº527-279, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tirúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario ROSAMEL SAN MARTIN FICA, ascendente a la cantidad de $1.096.449.-
+
+Fiscal del Ministerio de Obras Públicas.
