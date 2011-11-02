@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº3256, de 18 de octubre de 2011, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº528, de 30 de abril de 2010, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº6, expropiado con motivo de la obra "Conservación Camino Básico, Achao - Quinchao - Chequián, Sector Quinchao - Chequián". Consígnese judicialmente el monto provisional de la indemnización, fijado el 8 de febrero de 2008, por la Comisión de Peritos Tasadores en la suma de $330.000.
+
+Fiscal del Ministerio de Obras Públicas.
