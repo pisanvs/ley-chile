@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2908 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº8-A, superficie 107 m2, rol Nº239-112, para la obra "Camino Ruta L-202 Sector Villa Alegre – Putagan Km. 0,00000 a Km. 11,44287, comuna Villa Alegre, provincia de Linares, VII Región", y se acordó el valor de la indemnización con su propietario FLORENTINO SAENS LEIVA, ascendente a la cantidad de $725.436.-
+
+Fiscal del Ministerio de Obras Públicas.
