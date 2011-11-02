@@ -1,0 +1,5 @@
+MODIFICA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS TINGUIRIRICA SUPERIOR, TINGUIRIRICA INFERIOR, EL MONTE, LAS CADENAS-YERBAS BUENAS, REQUÍNOA-ROSARIO- RENGO-QUINTA TILCOCO, PELEQUÉN-MALLOA-SAN VICENTE DE TAGUA TAGUA Y PEUMO-PICHIDEGUA-LAS CABRAS, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O' HIGGINS Y REGIÓN METROPOLITANA
+
+Mediante resolución DGA Nº 197, de fecha 26 de septiembre de 2011, se ha modificado el área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados Tinguiririca Superior, Tinguiririca Inferior, El Monte, las Cadenas-Yerbas Buenas, Requínoa-Rosario-Rengo-Quinta Tilcoco, Pelequén-Malloa-San Vicente de Tagua Tagua y Peumo-Pichidegua-Las Cabras, Región del Libertador General Bernardo O'Higgins y Región Metropolitana. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región del Libertador General Bernardo O'Higgins, Región Metropolitana y en la página web de la DGA.-
+
+Matías Desmadryl Lira, Director General de Aguas.
