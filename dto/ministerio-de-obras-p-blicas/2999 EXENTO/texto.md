@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2999 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 42, 42-A, superficies 6,69 y 116,43 m2 respectivamente, rol Nº230-1 y Nºs 44, 45, 48 y 49, superficies 23,84, 22,70, 15,55 y 31,74 m2 respectivamente, rol Nº208-34, comuna de Valdivia, para la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos", XIV Región, y se acordó el valor de la indemnización con su propietario JOSÉ RÍOS NEIRA Y OTROS ascendente a la cantidad de $9.454.703.-
+
+Fiscal del Ministerio de Obras Públicas.
