@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2937 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº85, superficie 917 m2, rol Nº2451-20, comuna de Temuco, para la obra "Camino Ruta S-30 Sector Temuco – Labranza Km. 4,61500 a Km. 11,68000", y se acordó el valor de la indemnización con su propietario INMOBILIARIA E INVERSIONES SUR LIMITADA o INVERSUR LTDA, ascendente a la cantidad de $8.955.697.-
+
+Fiscal del Ministerio de Obras Públicas.
