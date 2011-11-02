@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2903 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 52 y 56, superficies 1.962 y 1.693 m2 respectivamente, rol Nº3250-63, comuna de Temuco, para la obra "Camino Ruta S-30 Sector Temuco – Labranza Km. 4,61500 a Km. 11,68000", y se acordó el valor de la indemnización con su propietario CARMEN VERÓNICA ALVEAR BENAVENTE Y OTRA, ascendente a la cantidad de $36.136.268.-
+
+Fiscal del Ministerio de Obras Públicas.
