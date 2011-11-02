@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2883 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 37, 38 y 39, superficies 212, 2.482 y 219 m2 respectivamente, rol Nº524-338, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tirúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario RUTH ELIANA LIGUEMPI CAYUPI, ascendente a la cantidad de $1.972.547.-
+
+Fiscal del Ministerio de Obras Públicas.
