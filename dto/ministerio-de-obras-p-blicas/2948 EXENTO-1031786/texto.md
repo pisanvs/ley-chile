@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2948 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº51, superficie 228 m2, rol Nº524-293, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tirúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario MARÍA OTILIA CANDIA ELGUETA, ascendente a la cantidad de $141.137.-
+
+Fiscal del Ministerio de Obras Públicas.
