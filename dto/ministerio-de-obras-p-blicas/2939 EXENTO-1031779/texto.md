@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2939 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº149-B, superficie 2.112 m2, rol Nº276-9, comuna de San Javier, para la obra "Camino Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L – 30 – M – Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Séptima Región, y se acordó el valor de la indemnización con su propietario AQUILES ANTONIO VÁSQUEZ ROJAS Y OTRO, ascendente a la cantidad de $14.144.162.-
+
+Fiscal del Ministerio de Obras Públicas.
