@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2945 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº31, superficie 173 m2, rol Nº236-31, comuna de Los Lagos, para la obra "Mejoramiento Ruta T-35, Sector Los Lagos – Valdivia, tramo Nº2 Km. 0,00000 a Km. 16,60000", XIV Región, y se acordó el valor de la indemnización con su propietario DIONICIA DEL CARMEN MATAMALA LÓPEZ, ascendente a la cantidad de $429.508.-
+
+Fiscal del Ministerio de Obras Públicas.
