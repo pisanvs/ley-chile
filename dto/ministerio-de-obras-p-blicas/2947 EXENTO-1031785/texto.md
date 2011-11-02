@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2947 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº35-C, superficie 12 m2, rol Nº110-19, para la obra "Camino Ruta L-202 Sector Villa Alegre – Putagan Km. 0,00000 a Km. 11,44287, comuna Villa Alegre, provincia de Linares, VII Región", y se acordó el valor de la indemnización con su propietario JUNTA DE VECINOS DESPERTAR DE CUNACO, ascendente a la cantidad de $368.316.-
+
+Fiscal del Ministerio de Obras Públicas.
