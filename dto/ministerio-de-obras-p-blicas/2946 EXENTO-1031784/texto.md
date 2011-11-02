@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2946 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº84, superficie 99 m2, rol Nº611-12, comuna de Santa Cruz, para la obra "Mejoramiento Ruta I-710, Bifurcación I-50 – Yáquil, Km. 0,00000 a Km. 6,98000", Sexta Región, y se acordó el valor de la indemnización con su propietario ELIECER SEGUNDO NÚÑEZ GARRIDO, ascendente a la cantidad de $1.115.365.-
+
+Fiscal del Ministerio de Obras Públicas.
