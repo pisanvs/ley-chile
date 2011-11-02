@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2888 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 35 y 36, superficies 241 y 5.257 m2 respectivamente, rol Nº524-257, comuna de Tirúa, para la obra "Mejoramiento Camino Costero S: Tirúa - Límite Regional", Región del Bío Bío, y se acordó el valor de la indemnización con su propietario JUAN BAUTISTA MEÑACO HUENUPIL, ascendente a la cantidad de $3.523.826.-
+
+Fiscal del Ministerio de Obras Públicas.
