@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2910 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nºs 94-B y 95-B, superficie 526 y 2.083 m2 respectivamente, rol Nº275-5, comuna de San Javier, para la obra "Mejoramiento Ruta 126, Los Conquistadores, Sector 1 Cruce Ruta L – 30 – M – Carrizal, Tramo Km. 0,50000 a Km. 17,34000", Séptima Región, y se acordó el valor de la indemnización con su propietario MARÍA DEL TRÁNSITO JARA GUTIÉRREZ Y OTROS, ascendente a la cantidad de $5.808.152.-
+
+Fiscal del Ministerio de Obras Públicas.
