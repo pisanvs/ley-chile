@@ -382,7 +382,7 @@ b) Renuncia del operador, en la forma y condiciones que determine el reglamento;
 
 c) Disolución de la sociedad anónima operadora;
 
-d) Por encontrarse el operador sometido a un procedimiento concursal de liquidación, y
+d) Quiebra del operador, y
 
 e) Revocación.
 
