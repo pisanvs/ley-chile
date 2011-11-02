@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº3055, de 17 de octubre de 2011, se dejó sin efecto los numerales 3°, 4º, 5° y 6º, del Decreto Exento MOP. Nº501, de 31 de marzo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº5-B, expropiado con motivo de la obra "Camino Ruta U-99-V, sector Las Cascadas - Ensenada, Km. 31,33730 a Km. 50,60320", Provincia de Osorno - Llanquihue, Comuna de Puerto Octay y Puerto Varas, X Región". Consígnese judicialmente el monto provisional de la indemnización, fijado el 12 de marzo de 2009, por la Comisión de Peritos Tasadores en la suma de $15.054.500.
+
+Fiscal del Ministerio de Obras Públicas.
