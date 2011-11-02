@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2944 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº36-A, superficie 64 m2, rol Nº243-56, para la obra "Camino Ruta L-202 Sector Villa Alegre – Putagan Km. 0,00000 a Km. 11,44287, comuna Villa Alegre, provincia de Linares, VII Región", y se acordó el valor de la indemnización con su propietario LUIS OMAR ROJAS BENAVIDES, ascendente a la cantidad de $479.146.-
+
+Fiscal del Ministerio de Obras Públicas.
