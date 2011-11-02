@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2909 de fecha 30 de septiembre de 2011, se expropiaron los lotes de terreno Nº55, superficie 126 m2, rol Nº41-183 y Nº56 superficie 47 m2, rol Nº41-184, comuna de Lolol, para la obra "Mejoramiento Ruta I-70-J, sector Lolol – Ranguil, tramo Km. 0,00000 a Km. 19,38878", Sexta Región, y se acordó el valor de la indemnización con su propietario MARÍA TERESA DE JESÚS VILCHES ZÚÑIGA, ascendente a la cantidad de $710.010.-
+
+Fiscal del Ministerio de Obras Públicas.
