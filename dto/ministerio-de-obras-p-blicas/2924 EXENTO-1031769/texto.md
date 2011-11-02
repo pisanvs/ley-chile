@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2924 de fecha 30 de septiembre de 2011, se expropió el lote de terreno Nº1, superficie 1.433 m2, rol Nº307-323, comuna de Freire, para la obra "Proyecto de Emergencia Camino Quepe-Mahuidache, Sector Km. 0,00000 al Km. 5,00000", y se acordó el valor de la indemnización con su propietario EDUARDO AGUILERA ARIAS, ascendente a la cantidad de $1.822.322.-
+
+Fiscal del Ministerio de Obras Públicas.
