@@ -10,7 +10,7 @@ Que la persona que se nombra por el presente decreto reúne los requisitos neces
 
 Decreto:
 
-1.- Nómbrase, a contar del 19 de abril de 2010, a don Gustavo Alejandro Alfaro Jarpa, RUT 9.854.708-8, en el cargo de Secretario Regional Ministerial del Trabajo y Previsión Social en la Región Metropolitana, en el grado 4º de la E.U.S., en la ciudad de Santiago.
+1.- Nómbrase, a contar del 19 de abril de 2010, a don Gustavo Alejandro Alfaro Jarpa, RUT 10.987.125-7, en el cargo de Secretario Regional Ministerial del Trabajo y Previsión Social en la Región Metropolitana, en el grado 4º de la E.U.S., en la ciudad de Santiago.
 
 2.- Por razones impostergables de buen servicio, la persona que se nombra asumirá sus funciones en la fecha antes señalada, de conformidad con lo dispuesto por el artículo 16º de la ley Nº 18.834, sin esperar la total tramitación del presente decreto.
 
