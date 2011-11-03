@@ -1348,25 +1348,27 @@ DERECHOS MUNICIPALES RELATIVOS A CONCESIONES DE CONSTRUCCIÓN O INSTALACIÓN EN 
 
 ARTICULO 13 - 6635091> ARTÍCULO 13: ARTICULO 13 - 6635091> ARTÍCULO 13: El permiso para instalar, construir y ocupar bienes nacionales de uso público, en los casos debidamente calificados por la Municipalidad, pagarán los siguientes derechos municipales, sin perjuicio de la contribución, que por patentes municipales o permisos correspondiere.
 
-1.-Estaciones de servicio para vehículos, bomba
+1.- Estaciones de servicio para vehículos,
 
-de bencina y otros combustibles, por MT2 o
+bomba de bencina y otros combustibles,
 
-fracción:
+por MT2 o fracción:
 
 Valor anual 0.50 UTM
 
-2.-Kioscos, stand, ramadas, fondas u otras
+2.- Kioscos, stand, ramadas, fondas u otras
 
 instalaciones para ventas menores,
 
-adheridos o no al suelo, por MT2 o fracción:
+adheridos o no al suelo, por MT2 o
+
+fracción:
 
 Valor diario 0.0010 UTM
 
 Valor mensual 0.040 UTM
 
-3.-Puestos en ferias libres o cachureos persas,
+3.- Puestos en ferias libres o cachureos persas,
 
 exposiciones culturales, comerciales u otros
 
@@ -1374,13 +1376,13 @@ similares, por MT2 o fracción:
 
 Valor diario 0.05 UTM
 
-4.-Torneos y otros eventos de carácter lucrativo o
+4.- Torneos y otros eventos de carácter lucrativo o
 
 publicitario:
 
 Valor diario 0.20 UTM
 
-5.-Circos, parques de entretenciones y otros similares,
+5.- Circos, parques de entretenciones y otros similares,
 
 por MT2 o fracción:
 
@@ -1388,7 +1390,7 @@ Valor diario 0.20 UTM
 
 Valor mensual 0.50 UTM
 
-6.-Ocupación de vereda que enfrenta a locales
+6.- Ocupación de vereda que enfrenta a locales
 
 comerciales, por MT2 o fracción:
 
@@ -1396,49 +1398,67 @@ Valor semestral 1.00 UTM
 
 Con todo, cuando estas ocupaciones tengan un fin de interés comunal o recreativo, con libre acceso al público, El Alcalde, previo informe del respectivo departamento, podrá rebajar lo derechos referidos, hasta un 50%.
 
-7.- Las actividades esporádicas que se realizan en las épocas de cada año que se indican, pagarán los siguientes valores, por cada contribuyente.
+7.- Las actividades esporádicas que se realizan en
 
-a) Feria del juguete en el mes de diciembre 0.50 UTM
+las épocas de cada año que se indican, pagarán
 
-b) Venta de flores en sector del cementerio
+los siguientes valores, por cada contribuyente.
 
-y en la feria libre los días anteriores y
+a) Feria del juguete en el mes
 
-posteriores de la festividad del día 1 de
+de diciembre 0.50 UTM
 
-Noviembre 0.30 UTM
+b) Venta de flores en sector
 
-c) Venta de pescados y mariscos en sectores
+del cementerio y en la feria
 
-de feria libre en Semana Santa 0.60 UTM
+libre los días anteriores y
 
-d) Ferias artesanales en los lugares
+posteriores de la festividad
 
-autorizados por el Municipio
+del día 1 deNoviembre 0.30 UTM
 
-Enero o Febrero 0.50 UTM
+c) Venta de pescados y mariscos
 
-e) Fondas y ramadas en los lugares que el
+en sectores de feria libre en
 
-Municipio fije, en el mes de Septiembre
+Semana Santa 0.60 UTM
 
-de cada año 2.00 UTM
+d) Ferias artesanales en los
 
-f) Permisos para fondas o ramadas en lugares
+lugares autorizados por el
 
-particulares en Septiembre de cada año 0.60 UTM
+Municipio Enero o Febrero 0.50 UTM
 
-g) Venta de seguros automotrices obligatorios
+e) Fondas y ramadas en los lugares
 
-en lugares que el municipio determine, por
+que el Municipio fije, en el mes
+
+de Septiembre de cada año 2.00 UTM
+
+f) Permisos para fondas o ramadas
+
+en lugares particulares en
+
+Septiembre de cada año 0.60 UTM
+
+g) Venta de seguros automotrices
+
+obligatorios en lugares que el
+
+municipio determine, por
 
 mes o fracción de mes 1.00 UTM x m2
 
-h) Venta de tarjetas de Navidad en la vía
+h) Venta de tarjetas de Navidad
 
-pública, por instituciones que no persigan
+en la vía pública, por
 
-fines de lucro por mes o fracción de mes 0.10 UTM
+instituciones que no persigan
+
+fines de lucro por mes o
+
+fracción de mes 0.10 UTM
 
 No obstante lo anterior, las empresas o personas
 
@@ -1450,23 +1470,27 @@ materializarse mediante Decreto Alcaldicio, en cada
 
 caso en particular.
 
-8.- Puesto o locales en feria artesanal instalada en pasaje Gabriela Mistral s/n localidad San Pedro de Atacama:
+8.- Puesto o locales en feria artesanal instalada en
 
-Valor metro cuadrado mensual 0.25 UTM
+pasaje Gabriela Mistral s/n localidad San
 
-Valor metro cuadrado semestral 1.5 UTM
+Pedro de Atacama:
 
-Valor metro cuadrado anual 3 UTM
+Valor metro cuadrado Mensual 0.19 UTM
 
-9.- Arriendo de espacios municipales sin construcción
+Valor metro cuadrado Semestral 1.13 UTM
 
-por metro cuadrado.
+Valor metro cuadrado Anual 2.25 UTM
 
-Valor metro cuadrado mensual 0.15 UTM
+9.- Arriendo de espacios municipales sin construcción por
 
-Valor metro cuadrado semestral 1 UTM
+metro cuadrado:
 
-Valor metro cuadrado anual 2 UTM
+Valor metro cuadrado mensual 0.06 UTM
+
+Valor metro cuadrado semestral 0.36 UTM
+
+Valor metro cuadrado anual 0.72 UTM
 
 ## Título VI
 
