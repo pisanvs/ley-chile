@@ -38,23 +38,23 @@ Los valores aplicables a los envíos serán los vigentes al momento de su admisi
 
 #### Artículo 6º
 
-La Empresa de Correos de Chile, en resguardo de sus intereses, podrá exigir al cliente la constitución de una garantía en un Pagaré firmado ante Notario u otro documento, que a su juicio, garantice el fiel cumplimiento de las obligaciones contraídas, por el monto que se estipule en el contrato, la que deberá ser entregada al momento de su suscripción. Asimismo podrá exigir su actualización o renovación si fuere necesario.
+ELIMINADO.
 
 #### Artículo 7º
 
-La Empresa de Correos de Chile podrá hacer efectiva la garantía después de 30 días corridos contados desde la fecha en que debió efectuarse el pago de los valores tarifarios adeudados, sin perjuicio del ejercicio de las acciones legales que procedan.
+ELIMINADO.
 
 #### Artículo 8º
 
-En caso de incumplimiento por parte del cliente de las condiciones pactadas, la Empresa de Correos de Chile se reserva el derecho de suspender de inmediato el servicio y poner término al respectivo contrato sin expresión de causa ni derecho a indemnización alguna.
+En caso de incumplimiento por parte del cliente de las condiciones pactadas, la Empresa de Correos de Chile se reserva el derecho de suspender de inmediato el servicio y poner término al respectivo contrato.
 
 #### Artículo 9º
 
-La Empresa de Correos de Chile se reserva el derecho de denegar las solicitudes del servicio cuando las necesidades e intereses de la Empresa lo aconsejen, sin expresión de causa.
+La Empresa de Correos de Chile se reserva el derecho de denegar las solicitudes del servicio cuando las necesidades e intereses de la Empresa lo aconsejen.
 
 #### Artículo 10º
 
-En el caso de término de un contrato, la garantía que se hubiere otorgado será devuelta al cliente, previa liquidación y pago de lo eventualmente adeudado.
+ELIMINADO.
 
 #### Artículo 11
 
@@ -68,7 +68,7 @@ Este reglamento empezará a regir a contar de la fecha de su publicación en el 
 
 #### Artículo 13
 
-El cliente del Servicio de Franqueo Convenido estará siempre obligado a declarar el contenido fehaciente de aquellos envíos en que se requiera dicha declaración y en especial a dar cumplimiento a la reglamentación relativa a los contenidos de los envíos y en particular las prohibiciones a las que está sujeto el servicio postal y que se describen en la pagina Web de la Empresa de Correos de Chile: www.correos.cl.
+El cliente se obliga a cumplir las disposiciones relativas a envíos peligrosos establecidas en la ley, los convenios internacionales postales y la normativa general vigente, declarar fehacientemente el contenido de cada envío postal, cuando ello proceda, y en general a dar fiel cumplimiento a las condiciones de cada servicio, las que se detallan en www.correos.cl.
 
 2.- Déjese sin efecto a contar de la fecha de entrada en vigencia del presente Reglamento, la resolución exenta Nº337 de 3 de agosto de 1999, de la Empresa de Correos de Chile.
 
