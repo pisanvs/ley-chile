@@ -1,6 +1,6 @@
-APRUEBA REFORMA DE ESTATUTOS DE BANCO RABOBANK CHILE
+APRUEBA REFORMA DE ESTATUTOS DE RABOBANK CHILE
 
-Certifico que por resolución Nº 273, de 19 de octubre de 2011, se aprobó la reforma introducida a los estatutos de Banco Rabobank Chile, acordada en la Junta Extraordinaria de Accionistas celebrada el 14 de septiembre de 2011, cuya acta fue reducida a escritura pública el día 16 de septiembre de 2011, en la Notaría de Santiago, de doña María Gloria Acharán Toledo.
+Certifico que por resolución Nº 273, de 19 de octubre de 2011, se aprobó la reforma introducida a los estatutos de Rabobank Chile, acordada en la Junta Extraordinaria de Accionistas celebrada el 14 de septiembre de 2011, cuya acta fue reducida a escritura pública el día 16 de septiembre de 2011, en la Notaría de Santiago, de doña María Gloria Acharán Toledo.
 
 Extracto de la reforma:
 
