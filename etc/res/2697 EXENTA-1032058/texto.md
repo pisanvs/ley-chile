@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.697, de 6 de octubre de 2011, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 2.470, de 2011, de esta Subsecretaría de Pesca que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección de los recursos Raya volantín (Zearaja chilensis) y Raya espinosa (Dipturus trachyderma) en Bahía Mansa, X Región, año 2011", en el sentido de señalar que la pesca de investigación se efectuará en el área marítima comprendida entre el límite norte de la X Región y el paralelo 41°28,6' L.S.
+
+Valparaíso, 6 de octubre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
