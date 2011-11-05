@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.813, de 27 de octubre de 2011, de esta Subsecretaría, rectifíquese el numeral 1º de la resolución exenta N° 2.787, de 2011, de esta Subsecretaría de Pesca, que modificó el numeral 1º, letra b) de la resolución exenta N° 475, de 2011, y sus modificaciones posteriores, todas de esta Subsecretaría, en el sentido de rectificar para el año 2011 la asignación del recurso Sardina común, correspondiente a la ORGANIZACIÓN ASOCIACIÓN GREMIAL DE ARMADORES Y PRODUCTORES PELÁGICOS ARTESANALES DE LA OCTAVA REGIÓN - ARPROPELAR A.G., Registro de Asociaciones Gremiales 353-8, conforme se dispone a continuación:
+
+Valparaíso, 27 de octubre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
