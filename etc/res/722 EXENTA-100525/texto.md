@@ -14,7 +14,7 @@ d) La resolución Nº 55, de 1992, cuyo texto refundido, coordinado y sistematiz
 
 #### Artículo 1º
 
-La banda de frecuencias 1.910-1.930 MHz está destinada para ser utilizada como acceso inalámbrico fijo y aplicaciones de PABX inalámbricas, en forma compartida en una misma zona geográfica, por concesionarias de servicio público de telefonía, excluidas las de telefonía móvil, y por concesionarias de servicios intermedios de telecomunicaciones, acorde a sus respectivas concesiones.
+La banda de frecuencias 1.910-1.930 MHz está destinada para ser utilizada como acceso inalámbrico y aplicaciones de PABX inalámbricas, en forma compartida en una misma zona geográfica, por concesionarias de servicio público de telefonía, y por concesionarias de servicios intermedios de telecomunicaciones, acorde a sus respectivas concesiones.
 
 #### Artículo 2º
 
@@ -32,15 +32,15 @@ c) La potencia máxima de las estaciones debe ser 250 mW.
 
 #### Artículo 4º
 
-Sin perjuicio de lo señalado en la letra a) del artículo precedente, será responsabilidad de las concesionarias tomar las medidas correspondientes para que los sistemas de acceso inalámbrico fijo no causen interferencias a otros sistemas autorizados previamente, en la misma banda o en bandas adyacentes. En caso de provocar interferencias, la concesionaria deberá suspender inmediatamente sus transmisiones hasta subsanar dicha situación.
+Sin perjuicio de lo señalado en la letra a) del artículo precedente, será responsabilidad de las concesionarias tomar las medidas correspondientes para que los sistemas de acceso inalámbrico no causen interferencias a otros sistemas autorizados previamente, en la misma banda o en bandas adyacentes. En caso de provocar interferencias, la concesionaria deberá suspender inmediatamente sus transmisiones hasta subsanar dicha situación.
 
 #### Artículo 5º
 
-Las aplicaciones de PABX inalámbricas en la banda 1.910-1.930 MHz no deben provocar limitaciones ni interferencias a los sistemas de acceso inalámbrico fijo.
+Las aplicaciones de PABX inalámbricas en la banda 1.910-1.930 MHz no deben provocar limitaciones ni interferencias a los sistemas de acceso inalámbrico.
 
 #### Artículo 6º
 
-Las radioestaciones de los sistemas se podrán ubicar en cualquier parte dentro de la zona de servicio autorizada y podrán reubicarse de acuerdo a la demanda, por lo que constituyen radioestaciones móviles para efectos del numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones. No obstante, conforme a lo establecido en el último inciso del artículo antes referido, en forma previa a la instalación de las estaciones base de estos sistemas, se requerirá de una modificación de concesión, la cual será autorizada mediante resolución exenta de la Subsecretaría de Telecomunicaciones.
+Las radioestaciones de los sistemas de acceso inalámbrico fijo se podrán ubicar en cualquier parte dentro de la zona de servicio autorizada y podrán reubicarse de acuerdo a la demanda, por lo que constituyen radioestaciones móviles para efectos del numeral 2 del inciso segundo del artículo 14º de la Ley General de Telecomunicaciones. No obstante, conforme a lo establecido en el último inciso del artículo antes referido, en forma previa a la instalación de las estaciones base de estos sistemas de acceso inalámbrico fijo, se requerirá de una modificación de concesión, la cual será autorizada mediante resolución exenta de la Subsecretaría de Telecomunicaciones.
 
 #### Artículo 7º
 
