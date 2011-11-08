@@ -32,8 +32,6 @@ Resolución:
 
 4.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3º de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva cédula nacional de identidad y el puntaje obtenido por el grupo o persona.
 
-> **Nota.** El Nº 2 de la Resolución 9920 Exenta, Vivienda, publicada el 07.01.2011, modifica la presente norma, en el sentido de reemplazar en la nómina de la comuna de Freirina, Región de Atacama, el monto de subsidio asignado al señor Víctor Alexis Villalobos Díaz, RUT N° 13.411.658-7, de 90 Unidades de Fomento por 100 Unidades de Fomento.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
