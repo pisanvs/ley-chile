@@ -22,9 +22,9 @@ Resolución:
 
 3.- Los recursos asignados para la selección de los proyectos que postulen a los concursos a que se refiere, el resuelvo 1 de esta resolución, corresponden a 615.328 UF, distribuidas por región de acuerdo al siguiente cuadro:
 
-4.- Conforme a lo indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda una vez intervenida cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica definida en la resolución Nº 482 (V. y U.), de 1999. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico los proyectas presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
+4.- Conforme a lo indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda una vez intervenida cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica definida en la resolución Nº 482 (V. y U.), de 1999. No obstante lo anterior se permitirá que postulen a este llamado viviendas que hayan obtenido su recepción definitiva con posterioridad al 5 de enero de 2007, ya sea porque obtuvieron su permiso de edificación previo a la entrada en vigencia de esta norma y fueron recepcionadas con fecha posterior, o porque la Dirección de Obras Municipales mediante la aplicación de la ley Nº 20.251, hubiera regularizado el inmueble, no exigiéndole que cumpla con lo señalado en este artículo. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
 
-El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo). Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
+El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo). Sólo se permitirá invertir un porcentaje menor del monto del subsidio al pago de los permisos y/o obras necesarias para la regularización de la vivienda. Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
 
 Excepcionalmente y en los proyectos que presenten un presupuesto detallado que justifique que el monto del subsidio entregado no fuese suficiente para dar íntegro cumplimiento a lo establecido en el párrafo anterior, el SERVIU respectivo podrá aprobar proyectos que den cumplimiento parcial a las exigencias establecidas por el citado artículo 4.1.10. En estos casos se deberá considerar la siguiente priorización de intervención por tipo de elemento:
 
@@ -44,25 +44,29 @@ Las situaciones de excepción deben asegurar a lo menos la intervención del com
 
 7.- Se definen los siguientes puntajes adicionales que se sumarán a los puntajes definidos para el Título II, y que serán aplicados a los proyectos presentados a cada una de las selecciones de este llamado:
 
-7.1 Puntajes adicionales por condiciones de la vivienda original.
+7.1 Puntajes adicionales por condiciones de la vivienda
 
-a) Puntaje adicional por ubicación del proyecto. Se
+original.
 
-otorgará un puntaje mayor a aquellos proyectos
+a) Puntaje adicional por ubicación del proyecto.
 
-ubicados en zonas térmicas más desfavorables:
+Se otorgará un puntaje mayor a aquellos
 
-b) Puntaje adicional por grado de cumplimiento de las
+proyectos ubicados en zonas térmicas más
 
-exigencias del artículo 4.1.10 de la Ordenanza
+desfavorables:
 
-General de Urbanismo y Construcciones, antes de la
+b) Puntaje adicional por grado de cumplimiento de
 
-intervención proyectada:
+las exigencias del artículo 4.1.10 de la
 
-En caso que la vivienda no cumpla las exigencias en
+Ordenanza General de Urbanismo y Construcciones,
 
-más de un tipo de elemento se deben sumar los
+antes de la intervención proyectada:
+
+En caso que la vivienda no cumpla las exigencias
+
+en más de un tipo de elemento se deben sumar los
 
 puntajes asignados a cada elemento a que no da
 
@@ -74,37 +78,37 @@ a) Puntaje adicional por diseño higrotérmico de la
 
 solución a incorporar en los elementos de muro y
 
-piso ventilado. Se otorgarán 30 puntos adicionales
+piso ventilado. Se otorgarán 30 puntos
 
-si la aislación térmica considerada es proyectada
+adicionales si la aislación térmica considerada
 
-por la cara exterior del elemento.
+es proyectada por la cara exterior del elemento.
 
-b) puntaje adicional por mejoras al proyecto por sobre
+b) puntaje adicional por mejoras al proyecto por
 
-lo establecido en el artículo 4.1.10 de la
+sobre lo establecido en el artículo 4.1.10 de la
 
 Ordenanza General de Urbanismo y Construcciones:
 
-En caso que la vivienda sea intervenida en más de
+En caso que la vivienda sea intervenida en más
 
-un tipo de elemento por sobre las exigencias
+de un tipo de elemento por sobre las exigencias
 
-establecidas en la RT, se deben sumar los puntajes
+establecidas en la RT, se deben sumar los
 
-asignados a cada elemento, de acuerdo con la tabla
+puntajes asignados a cada elemento, de acuerdo
 
-anterior.
+con la tabla anterior.
 
-c) Ventanas: Priorización por cambio de ventana con
+c) Ventanas: Priorización por cambio de ventana
 
-vidrio monolítico a ventana de doble vidriado
+con vidrio monolítico a ventana de doble
 
-hermético (DVH) en recintos habitables (estar-
+vidriado hermético (DVH) en recintos habitables
 
-comedor, dormitorios):
+(estar-comedor, dormitorios):
 
-8.- La obtención de un Subsidio destinado al Acondicionamiento Térmico a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar.
+8.- La obtención de un Subsidio destinado al Acondicionamiento Térmico a través de este llamado, no será impedimento para obtener otros subsidios correspondientes al Título II, del Programa de Protección del Patrimonio Familiar. Además, las personas que hayan sido beneficiadas anteriormente con un subsidio de Mejoramiento de la Vivienda, del Título II del Programa de Protección del Patrimonio Familiar, no tendrán impedimento para concursar y ser beneficiados en este llamado.
 
 9.- Además de dar cumplimiento a las normas que regulan el Programa de Protección del Patrimonio Familiar, los proyectos para acondicionamiento térmico presentados deben dar cumplimiento a lo dispuesto en la resolución exenta Nº 2.070 (V. y U.), de 2 de abril de 2009, en todos aquellos ítem relacionados con los elementos a intervenir y con las especificaciones técnicas mínimas que la División Técnica de Estudio y Fomento Habitacional del MINVU defina como complemento de dicha resolución.
 
