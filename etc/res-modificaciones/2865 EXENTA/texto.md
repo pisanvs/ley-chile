@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 347 EXENTA, DE 2011, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA, SARDINA COMÚN Y JUREL EN LA XIV REGIÓN
+
+Por resolución exenta Nº 2.865 de 2 de noviembre de 2011 de esta Subsecretaría, modifícase el inciso primero numeral 6º.- de la resolución exenta Nº 347 de 2011, de esta Subsecretaría, y sus modificaciones posteriores, que estableció la distribución de las fracciones artesanales de las pesquerías artesanales de Anchoveta Engraulis ringens, Sardina común Strangomera bentincki y Jurel Trachurus murphyi en la XIV Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de ampliar el plazo ahí establecido hasta el día 18 de novi
+
+Valparaíso, 2 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
