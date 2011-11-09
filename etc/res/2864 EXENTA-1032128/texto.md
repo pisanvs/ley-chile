@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.864, de 2 de noviembre de 2011, de esta Subsecretaría, modifícase el inciso primero numeral 6º.- de la resolución exenta Nº 301, de 2011, de esta Subsecretaría, y sus modificaciones posteriores, que estableció la distribución de las fracciones artesanales de las pesquerías artesanales de Anchoveta, Sardina común y Jurel en la X Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de ampliar el plazo ahí establecido hasta el día 18 de noviembre de 2011, inclusive.
+
+Valparaíso, 2 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
