@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.891, de 3 de noviembre de 2011, de esta Subsecretaría, modifícase resolución Nº 1.896 de 2011, de esta Subsecretaría, que estableció agrupaciones de concesiones de acuicultura de salmónidos en X y XI Regiones, reemplazando coordenadas geográficas de las agrupaciones 9A, 10A, 20, 33 y 34, publicada íntegramente en www.subpesca.cl y www.sernapesca.cl.
+
+Valparaíso, 3 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
