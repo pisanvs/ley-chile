@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO ALCALDICIO N° 1.701, DE 2011
+
+Por decreto alcaldicio Nº 1.701 (19.10.2011), la I. Municipalidad de Macul otorgó un plazo de 10 días corridos, al Sr. Jorge Zapata Fuenzalida, para hacer retiro de su Kiosco ubicado en calle Peatonal 36, frente al Nº 1739, por infringir la Ordenanza sobre Actividad Comercial, Industrial y Servicios, facultando a la Dirección de Aseo y Ornato para su retiro, si no se diere cumplimiento.
