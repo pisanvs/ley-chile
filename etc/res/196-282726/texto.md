@@ -38,77 +38,7 @@ Derógase la resolución Nº 90, de 6 de mayo de 2004, del Consejo Nacional de l
 
 #### Artículo cuarto
 
-Deléganse en los funcionarios del Consejo Nacional de la Cultura y las Artes que se indican, las siguientes facultades:
-
-a) En la Subdirección Nacional:
-
-1) Nombramiento en general, salvo los de exclusiva confianza;
-
-2) Suscribir y aprobar contratos a honorarios cuya cuantía mensual sea superior a 10 UTM y no exceda las 36 UTM.
-
-3) Prórroga de las Contratas;
-
-4) Promoción y ascenso;
-
-5) Autorizar, suscribir y aprobar todos los actos administrativos y contratos para el suministro de bienes muebles y provisión de servicios necesarios para el desarrollo de las funciones del Consejo Nacional de la Cultura y las Artes efectuadas a través de cualesquiera de los mecanismos de contratación contemplados en la ley Nº 19.886 y su Reglamento, respecto de contrataciones cuya cuantía sea superior a 200 UTM y no exceda de 1.000 UTM.
-
-6) Autorizar y aprobar convenios de ejecución de
-
-proyectos de los Fondos Concursables administrados por el Consejo Nacional de la Cultura y las Artes;
-
-7) Designación en comisión de servicio;
-
-8) Autorización para programación y pago de trabajos extraordinarios, y
-
-9) Deducciones de remuneraciones de acuerdo al inciso 2º del artículo 91 de la ley 18.834, sobre Estatuto Administrativo.
-
-b) En la jefatura del Departamento de Administración General:
-
-1) Reconocimiento de pagos por imprevistos, y 2) Autorizar, suscribir y aprobar todos los actos administrativos y contratos para el suministro de bienes muebles y provisión de servicios necesarios para el desarrollo de las funciones del Consejo Nacional de la Cultura y las Artes efectuadas a través de cualesquiera de los mecanismos de contratación contemplados en la ley Nº 19.886 y su Reglamento, respecto de contrataciones cuya cuantía no exceda 200 UTM.
-
-c) En la jefatura del Departamento de Recursos Humanos creado por la presente resolución:
-
-1) Suscribir y aprobar contratos a honorarios cuya cuantía mensual no exceda las 10 UTM;
-
-2) Reconocimiento de asignación familiar;
-
-3) Reconocimiento de asignación por concepto movilización estatutaria;
-
-4) Reconocimiento de asignación por pérdida de caja;
-
-5) Autorización para efectuar cometido, con derecho a pasaje y viático cuando corresponda;
-
-6) Autorización para hacer uso de permiso con o sin goce de remuneraciones;
-
-7) Autorización para hacer uso de feriado legal;
-
-8) Reconocimiento de tiempo servido para efectos de feriado legal;
-
-9) Autorización de uso de horas extraordinarias;
-
-10) Autorización para hacer uso de descanso complemen-tario;
-
-11) Autorización de uso de compensación horaria;
-
-12) Autorización de horarios especiales;
-
-13) Autorización para uso de licencia médicas;
-
-14) Autorización para asistir a capacitación y perfeccionamiento;
-
-15) Autorización para efectuar prácticas
-
-profesionales;
-
-16) Reconocimiento de asignación profesional;
-
-17) Reconocimiento de asignación por antigüedad;
-
-18) Reconocimiento de asignación por cambio de residencia, y
-
-19) Reconocimiento de asignación de vivienda fiscal.
-
-> **Nota.** El Art. Segundo de la Resolución 1630 Exenta, Consejo Nacional de la Cultura y de las Artes, publicada el 08.05.2009, dispuso la revocación del Nº 6 de la letra a) del presente artículo, respecto de convenios de ejecución de proyectos de los Fondos concursables administrados por el Consejo Nacional de la Cultura y las Artes cuya cuantía no sea superior a 5.000 U.T.M., manteniéndose vigente esta facultad en el Director Nacional del Servicio cuando los convenios indicados superen dicho monto.
+Derogado.
 
 #### Artículo quinto
 

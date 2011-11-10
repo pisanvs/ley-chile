@@ -14,67 +14,7 @@ Resolución:
 
 #### Artículo primero
 
-Modifícase el artículo primero de la resolución N° 161, de 2007, del Consejo Nacional de la Cultura y las Artes, conforme se indica a continuación, quedando inalterada en todo lo demás:
-
-a) Sustitúyase el N° 1 del artículo primero, por el siguiente:
-
-"1. Suscripción y aprobación de contratos a honorarios cuya cuantía mensual no exceda de 20 UTM;"
-
-b) Sustitúyase el N° 2 del artículo primero, por el siguiente: "2. Suscripción y aprobación de contratos a honorarios cuya cuantía total no exceda de 30 UTM;"
-
-c) Sustitúyase el N° 18 del artículo primero, por el siguiente: "18. Autorización de permisos maternales y pater-nales;"
-
-d) Sustitúyase el N° 20 del artículo primero, por el siguiente:
-
-"20. Autorizar, suscribir y aprobar todos los actos administrativos y contratos necesarios para el suministro de bienes muebles y provisión de servicios que se requieran para el desarrollo de las funciones del Consejo Regional respectivo efectuadas a través de cualesquiera de los mecanismos de contratación contemplados en la ley N° 19.886 y su Reglamento, respecto de contrataciones cuya cuantía no exceda las 800 U.T.M.;"
-
-e) Sustitúyese el N° 21 del artículo primero, por el siguiente:
-
-"21. Autorizar, suscribir y aprobar convenios de colaboración y cooperación regionales, en consideración a la disponibilidad presupuestaria regional, y cuya cuantía no sea superior a 5.000 U.T.M. y;"
-
-f) Sustitúyese el N° 22 del artículo primero, por el siguiente:
-
-"22. Suscribir y aprobar convenios de ejecución de proyectos del Fondo Nacional de Escuelas Artísticas respecto de Escuelas y Liceos Artísticos y/o entidades sitos en su respectiva región, cuya cuantía no sea superior a 5.000 U.T.M."
-
-g) Agrégase un N° 23 en el artículo primero, cuyo texto es el siguiente:
-
-"23. Formalizar mediante resolución administrativa las personas que integrarán en su respectiva región los Comités Especialistas y el Jurado en los concursos públicos de ámbito regional del Fondo Nacional de Desarrollo Cultura y las Artes."
-
-h) Agrégase un N° 24 en el artículo primero, cuyo texto es el siguiente:
-
-"24. Formalizar mediante resolución administrativa la nómina de proyectos seleccionados en su respectiva región por el Jurado en los concursos públicos de ámbito regional del Fondo Nacional de Desarrollo Cultura y las Artes.".
-
-i) Agrégase un N° 25 en el artículo primero, cuyo texto es el siguiente:
-
-"25. Suscribir y aprobar convenios de ejecución de proyectos enmarcados dentro de concursos públicos de ámbito nacional de los Fondos de Cultura administrados por este Servicio, respecto de responsables domiciliados en la Región dentro de la cual ejercen sus funciones, cuya cuantía no sea superior a 5.000 U.T.M. Cada Director Regional realizará las acciones que deriven del seguimiento, supervisión y control del cumplimiento de dichos convenios.".
-
-j) Agrégase un N° 26 en el artículo primero, cuyo texto es el siguiente:
-
-"26. Aplicar sanciones e inhabilidades a ejecutores de proyectos derivadas del incumplimiento de convenios de ejecución de proyectos enmarcados dentro de concursos públicos de ámbito nacional de los Fondos de Cultura administrados por este Servicio, respecto de responsables domiciliados en la Región dentro de la cual ejercen sus funciones, cuya cuantía no sea superior a 5.000 U.T.M."
-
-k) Agrégase un N° 27 en el artículo primero, cuyo texto es el siguiente:
-
-"27. Cobrar extrajudicialmente los recursos entregados, debido al incumplimiento de convenios de ejecución de proyectos enmarcados dentro de concursos públicos de ámbito nacional de los Fondos de Cultura administrados por este Servicio, respecto de responsables domiciliados en la Región dentro de la cual ejercen sus funciones, cuya cuantía no sea superior a 5.000 U.T.M.".
-
-l) Agrégase un N° 28 en el artículo primero, cuyo texto es el siguiente:
-
-"28. Solicitar la representación de nuestro Servicio al Consejo de Defensa del Estado para demandar el cobro de recursos entregados, debido al incumplimiento de convenios de ejecución de proyectos enmarcados dentro de concursos públicos de ámbito nacional de los Fondos de Cultura administrados por este Servicio, respecto de responsables domiciliados en la Región dentro de la cual ejercen sus funciones, cuya cuantía no sea superior a 5.000 U.T.M.".
-
-m) Agrégase un N° 29 en el artículo primero, cuyo texto es el siguiente:
-
-"29. Girar letras de cambio emitidas en garantía de obligaciones contraídas en convenios de ejecución de proyectos enmarcados dentro de concursos públicos de ámbito nacional de los Fondos de Cultura administrados por este Servicio, cuya cuantía no sea superior a 5.000 U.T.M., respecto de responsables domiciliados en la Región dentro de la cual ejercen sus funciónes, y autorizar su devolución.".
-
-n) Agrégase un N° 30 en el artículo primero, cuyo texto es el siguiente:
-
-"30. En lo relativo a la Ley de Acceso a la Información Pública, cada Director Regional ejercerá las siguientes atribuciones y responsabilidades referidas a información que posean dentro del ámbito de sus competencias:
-
-a) Proporcionar la información pública a quien lo solicite de acuerdo a lo contemplado en el artículo 16° de la Ley de Acceso a la Información Pública.
-
-b) Realizar el respectivo traslado a terceros cuando la información solicitada pueda afectar sus derechos conforme se contempla en el artículo 20 de la Ley de Acceso a la Información Pública.
-
-c) Declarar o calificar, en virtud de alguna de las causales establecidas en el artículo 21° de la Ley de Acceso a la Información Pública, la reserva o secreto de antecedentes o documentos solicitados, denegando total o parcialmente su entrega.
-
-d) Comunicar a la autoridad competente las solicitudes de acceso que hayan, recibido cuando no sean competentes o no tengan los documentos solicitados, de acuerdo al artículo 13 de la ley de Acceso a la Información pública.
+Derogado.
 
 #### Artículo segundo
 
