@@ -234,6 +234,10 @@ Se considerará situación consolidada a la existente en cada costado en a lo me
 
 En los sitios de esquina afectados por antejardines en dos de sus lados se podrá reducir las exigencias que lo afecten hasta en un 25% en la calle o pasaje de menor importancia vial.
 
+En la zona Z3, en el área correspondiente a la población Lautaro, se elimina la exigencia de antejardín para las edificaciones con uso de suelo de equipamiento de las clases social y deporte.
+
+> **Nota.** El numeral 1 letras a y b del Artículo 1 de la Enmienda al Plan Regulador de San Joaquín, anexado en el Decreto 1696, Municipalidad de San Joaquín, publicado el 11.11.2011, modifica la presente norma, en el sentido de eliminar la exigencia de antejardín en la zona Z.3, para el área correspondiente a la Población Lautaro y aumentar en un 21,4% el coeficiente de ocupación de suelo en la zona Z.3, para el área correspondiente a la Población Lautaro.
+
 #### Artículo 13
 
 Estacionamientos. Los proyectos de obras nuevas y los de cambio de destino de todo o parte de edificaciones existentes, deberán cumplir con las normas y estándares mínimos de estacionamientos que se establecen para la Zona D, en el artículo 7.1.2.1 del Plan Regulador Metropolitano de Santiago.
@@ -989,6 +993,8 @@ Construcciones.
 Densidad bruta mínima : 150 hab/há
 
 Densidad bruta máxima : 800 hab/há
+
+Porcentaje de ocupación de suelo para equipamiento de clase social y deportivo en el área correspondiente a la Población Lautaro: 85%
 
 ZONA Z-3.A. RESIDENCIAL CON DENSIFICACION Y TALLERES
 
