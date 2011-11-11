@@ -1,0 +1,9 @@
+Por resolución exenta Nº 2.922, de 7 de noviembre de 2011, de esta Subsecretaría, aplícase al grupo de armadores PESQUERA EL GOLFO S.A., PESCA CHILE S.A., PESQUERA BÍO BÍO S.A., SOCIEDAD PESQUERA VIENTO SUR S.A., AQUAFISH S.A., PESQUERA SUR AUSTRAL S.A. y PESQUERA GRIMAR S.A., cuya participación conjunta fue reconocida mediante resolución Nº 156, de 2010, de esta Subsecretaría, la sanción establecida en el artículo 11 inciso 1º de la ley Nº 19.713, respecto de la unidad de pesquería de Merluza común individualizada en el artículo 2º letra m) de la ley Nº 19.713.
+
+Descuéntese al grupo de armadores antes individualizado, el triple del exceso capturado durante el año 2010, en la unidad de pesquería de Merluza común individualizada en el artículo 2º letra m) de la ley Nº 19.713, lo que equivale a 567,739 toneladas del límite máximo de captura asignado para el año 2011.
+
+Redúzcanse los límites máximos de captura asignados para el año 2011, a los armadores que a continuación se individualizan, quedando para el año 2011, el límite que en cada caso se indica; Pesquera El Golfo S.A.: 7.867,169 toneladas; Pesca Chile S.A.: 167,886 toneladas; Pesquera Bío Bío S.A.: 7.403,971 toneladas; Sociedad Pesquera Viento Sur S.A.: 2.102,284 toneladas; Aquafish S.A.: 190,142 toneladas; Friosur IX S.A., hoy Pesquera Sur Austral S.A.: 483,472 toneladas; Friosur X S.A., hoy Pesquera Grimar S.A.: 4.997,094 toneladas.
+
+Los descuentos se harán efectivos de los límites máximos de captura autorizados para el año 2011, mediante decreto exento Nº 1.454, de 2010, del Ministerio de Economía, Fomento y Turismo.
+
+Valparaíso, 7 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
