@@ -198,7 +198,7 @@ B.- Derogado.
 
 C.- El Ministerio, además, deberá llamar a concurso público para otorgar concesiones o permisos para servicios de telecomunicaciones en caso que exista una norma técnica, publicada en el Diario Oficial, que sólo permita otorgar un número limitado de concesiones o permisos a su respecto.
 
-En caso que la solicitud se haya presentado con anterioridad a la publicación de la norma técnica en el Diario Oficial, el peticionario, en igualdad de condiciones, tendrá derecho preferente para la adjudicación de la concesión o el otorgamiento del permiso. Si hubieren dos o más peticionarios en similares condiciones, se resolverá la adjudicación entre etnre éstos, mediante licitación.
+El concurso se resolverá asignándose la concesión o permiso al postulante cuyo proyecto, ajustándose cabalmente a las bases del concurso, ofrezca las mejores condiciones técnicas que asegure una óptima transmisión o excelente servicio. Si hubiere dos o más postulantes en igualdad de condiciones, se resolverá la asignación entre éstos, mediante licitación.
 
 Se procederá de igual manera en aquellos casos en que, en virtud de una solicitud de concesión o de permiso, la Subsecretaría estime que debe emitirse una norma técnica para el servicio respecto del cual se solicita la concesión o permiso.
 
