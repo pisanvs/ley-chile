@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2887 de 30 de septiembre de 2011, se expropió el lote de terreno Nº31, superficie 1.384 m2, rol de Avalúo 1430-51, comuna de Llanquihue, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL (LLANQUIHUE) - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000", PROVINCIA DE LLANQUIHUE, X REGIÓN y se acordó el valor de la indemnización con su propietaria MARITZA JOHANNA WERNER BÓRQUEZ, ascendente a la cantidad de $1.627.506.-
+
+Fiscal del Ministerio de Obras Públicas.
