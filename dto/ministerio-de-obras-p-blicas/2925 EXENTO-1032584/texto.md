@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2925 de 30 de septiembre de 2011, se expropió el lote de terreno Nº30, superficie 326 m2, rol de Avalúo 2206-146, comuna de Puerto Montt, para la obra "CAMINO RUTA 7, SECTOR LENCA – CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", PROVINCIA DE LLANQUIHUE, X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con sus propietaria MARÍA DEL PILAR SOTO CÁRCAMO, ascendente a la cantidad de $2.264.954.-
+
+Fiscal del Ministerio de Obras Públicas.
