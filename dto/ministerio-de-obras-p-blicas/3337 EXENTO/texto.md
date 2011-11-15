@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3337, de fecha 27 de octubre del 2011, se expropiaron los lotes de terrenos Nºs. 8 y 10, superficies 7.137 y 653 m2., Rol Nº11-237, comuna de Pichidegua, para la obra "CAMINO RUTA H-864, SECTOR PICHIDEGUA CRUCE RUTA H-82, TRAMO KM. 0,00000 A KM. 5,28200-, VI REGIÓN, y se acordó el valor de indemnización con su propietario JUAN RAMÓN DONOSO, ascendente a la cantidad de $9.305.949.-
+
+Fiscal del Ministerio de Obras Públicas.
