@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2940 de 30 de septiembre de 2011, se expropió el lote de terreno Nº1, superficie 184 m2, rol de Avalúo 647-4, comuna de Coquimbo, para la obra "CONSTRUCCIÓN ENLACE JUAN ANTONIO RÍOS EN RUTA 5, COQUIMBO", IV Región y se acordó el valor de la indemnización con su propietario don HUGO JAIME ELGUETA SÁNCHEZ, ascendente a la cantidad de $34.415.069.-
+
+Fiscal del Ministerio de Obras Públicas.
