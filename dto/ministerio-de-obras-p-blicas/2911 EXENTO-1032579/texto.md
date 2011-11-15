@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2911 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nº24 y 25-A, superficies 2.186 y 437 m2, rol de Avalúo 1410-5, comuna de Llanquihue, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000, COMUNA DE LLANQUIHUE, PROVINCIA DE LLANQUIHUE, X REGIÓN" y se acordó el valor de la indemnización con su propietaria IRMA PATRICIA DETHLEFFSEN HAPETTE, ascendente a la cantidad de $3.596.050.-
+
+Fiscal del Ministerio de Obras Públicas.
