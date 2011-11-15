@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3305 de 25 de octubre de 2011, se dejó sin efecto el Decreto MOP (Exento) Nº667 de 10 de mayo de 2011, que se refiere al Nº60-A, debido a que la superficie del lote Nº60-A señalada en dicho Decreto no corresponde a la que es necesaria afectar para la obra pública: Mejoramiento Ruta I-70-J, Sector Lolol – Ranguil, Tramo km. 0,00000 a km. 19,38878. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
