@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2943 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 3 y 4, superficies 246 y 105 m2, rol de Avalúo 340-158, comuna de Purranque, para la obra "PUENTE LAS CRUCES CAMINO PAMPA BONITA – CAMARONES – SAN PEDRO, ROL U-910, SECTOR DIEZMO" PROVINCIA DE CHILOÉ, X Región y se acordó el valor de la indemnización con su propietario JAIME ALFREDO AMTHAUER HAPETTE, ascendente a la cantidad de $430.397.-
+
+Fiscal del Ministerio de Obras Públicas.
