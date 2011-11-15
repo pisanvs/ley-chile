@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3309 de 25 de octubre de 2011, se modificó la superficie del Decreto MOP Nº648, de 10 de mayo de 2011, que ordenó la expropiación del lote Nº3-C, correspondiente a la obra: "Proyecto de Pavimentación Av. General San Martín". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
