@@ -1,0 +1,3 @@
+Por Decreto (Exento) MOP Nº2956 de 30 de septiembre de 2011, se expropió el lote de terreno Nº29-A, superficie 423 m2, Rol Nº970-7, comuna de Alto del Carmen, III Región para la obra "MEJORAMIENTO CAMINOS DE ACCESO AL PROYECTO , MINERO PASCUA – LAMA, RUTAS C-485 Y C-489, SENDERO PEATONAL, ETAPA I" y se acordó el valor de indemnización con la propietaria FLORENTINA MAGDALENA DENEGRI GALLO Y OTROS, ascendente a la cantidad de $562.865.-
+
+Fiscal del Ministerio de Obras Públicas.
