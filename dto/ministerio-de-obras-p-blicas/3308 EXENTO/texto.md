@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº3308, de 25 de octubre de 2011, se modificó el numeral primero del Decreto Exento MOP. Nº2960, de 19 de noviembre de 2010, con motivo de la ejecución de la obra: "Ampliación Camino La Pólvora, Sector Enlace Ruta 68 - Quebrada Las Ánimas, Sector Cruce Las Torres, Tramo Km. 4,22000 a Km. 5,08000", y "Ampliación Camino La Pólvora, Sector Enlace Ruta 68 - Quebrada Las Ánimas, Sector Cruce Placilla, Tramo Km. 2,50000 a Km. 2,80000" y "Ampliación Camino La Pólvora, Sector Enlace Ruta 68 - Quebrada Las Ánimas, Sector Zeal, Tramo Km. 9,98400 a Km. 13,17094", en cuanto a que el lote de terreno Nº3, se ubica entre el Km. 4,57321 a Km. 4,66307.
+
+Fiscal del Ministerio de Obras Públicas.
