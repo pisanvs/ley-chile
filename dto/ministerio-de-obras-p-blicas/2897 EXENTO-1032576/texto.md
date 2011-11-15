@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2897 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 3 y 4, superficies 1.284 y 2.005 m2, rol de Avalúo 208-08, comuna de Chaitén, para la obra "MEJORAMIENTO RUTA 7, SECTOR MICHIMAHUIDA – PUERTO CÁRDENAS ( PUENTE YELCHO) KM. 30,50000 A KM. 45,95163", X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con sus propietario JOSÉ DI BATTISTA LA ROSA, ascendente a la cantidad de $798.290.-
+
+Fiscal del Ministerio de Obras Públicas.
