@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2898 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 10 y 11, superficie 260 y 858 m2, rol de Avalúo 2208-12, comuna de Puerto Montt, para la obra "CAMINO RUTA 7, SECTOR LENCA – CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", PROVINCIA DE LLANQUIHUE, X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con sus propietario GERARDO SEGUNDO VEGA LA ROSA, ascendente a la cantidad de $3.830.967.-
+
+Fiscal del Ministerio de Obras Públicas.
