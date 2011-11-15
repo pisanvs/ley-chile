@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº3255, de 18 de octubre de 2011, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº735, de 31 de mayo de 2010, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº60-E, expropiado con motivo de la obra "Mejoramiento Ruta D-37, Sector Limahuida - Canelillo". Consígnese judicialmente el monto provisional de la indemnización, fijado el 02 de mayo de 2009, por la Comisión de Peritos Tasadores en la suma de $150.890.
+
+Fiscal del Ministerio de Obras Públicas.
