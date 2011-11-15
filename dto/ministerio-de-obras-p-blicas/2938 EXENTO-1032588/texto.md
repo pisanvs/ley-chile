@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2938, de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 6, 6-A y 6-B, superficies 289, 1.487 y 56 m2, rol de Avalúo 162-33, comuna de Puerto Octay, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320" PROVINCIA DE OSORNO – LLANQUIHUE", X Región y se acordó el valor de la indemnización con su propietaria MARÍA JULIETA TRIVIÑO ÁLVAREZ, ascendente a la cantidad de $12.354.684.-
+
+Fiscal del Ministerio de Obras Públicas.
