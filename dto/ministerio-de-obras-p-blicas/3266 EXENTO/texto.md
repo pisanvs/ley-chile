@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3266 de 25 de octubre de 2011, se modificó el Decreto MOP Nº915, de 24 de mayo de 2011, que ordenó la expropiación del lote Nº1, en el sentido de reemplazar el numeral sexto del Decreto para la obra: "Sistema de agua potable Rural Reina Norte". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
