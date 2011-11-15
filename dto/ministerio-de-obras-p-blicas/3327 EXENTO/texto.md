@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3327, de 27 de octubre de 2011, se dejó sin efecto el Decreto Exento MOP Nº1089, de 10 de junio de 2011, que ordenaba la expropiación del lote de terreno Nº10, para la obra "Concesión Internacional Ruta 5. Tramo: Santiago - Talca. Sector: Terceras Pistas y nueva Plaza de Peaje Angostura Km. 50.880,00 - Km. 58.240,00", por haber sido subdividido el lote Nº10.
+
+Fiscal del Ministerio de Obras Públicas.
