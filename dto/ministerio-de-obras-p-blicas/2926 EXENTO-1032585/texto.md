@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2926 de 30 de septiembre de 2011, se expropió el lote de terreno Nº11-A, superficie 162 m2, rol de Avalúo 1166-3, comuna de Ancud, para la obra "AMPLIACION REPOSICION RUTA 5 CHILOE, BIF. PUENTE BICENTENARIO – BIF. PUPELDE, TRAMO 1 VARIANTE CHACAO", PROVINCIA DE CHILOE, X REGION DE LOS LAGOS", y se acordó el valor de la indemnización con su propietaria la empresa DURAN Y CIA. LTDA., ascendente a la cantidad de $3.641.330.-
+
+Fiscal del Ministerio de Obras Públicas.
