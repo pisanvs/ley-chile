@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS ESTERO LOS MOLLES, CATAPILCO - SUBSECTOR LA CANELA, QUINTERO - SUBSECTOR PUCALÁN, QUINTERO - SUBSECTOR MANTAGUA, ESTERO LAGUNA VERDE, QUINTAY, ESTERO EL MEMBRILLO, ESTERO EL ROSARIO Y EL TABO, REGIÓN DE VALPARAÍSO
+
+Mediante resolución DGA Nº 250, de fecha 21 de octubre de 2011, se ha declarado área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados estero Los Molles, Catapilco - subsector La Canela, Quintero - subsector Pucalán, Quintero - subsector Mantagua, estero Laguna Verde, Quintay, estero El Membrillo, estero El Rosario y El Tabo, Región de Valparaíso. Los antecedentes se encuentran disponibles en la oficina de la Dirección General de Aguas de la Región de Valparaíso, y en la página web de la DGA.-
+
+Matías Desmadryl Lira, Director General de Aguas.
