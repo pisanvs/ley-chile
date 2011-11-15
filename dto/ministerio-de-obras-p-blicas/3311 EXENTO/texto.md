@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3311 de 25 octubre de 2011, se dejó sin efecto el Decreto MOP Exento Nº777 de 31 de octubre de 2006, por cuanto la expropiación del lote de terreno Nº14, ordenada por dicho Decreto, no es necesaria para la ejecución de la obra "MEJORAMIENTO RUTA P-540, SECTOR CAÑETE – CAYUCUPIL, TRAMO KM. 0,00000 A KM. 12,80844" comuna de Cañete, VIII Región.
+
+Fiscal del Ministerio de Obras Públicas.
