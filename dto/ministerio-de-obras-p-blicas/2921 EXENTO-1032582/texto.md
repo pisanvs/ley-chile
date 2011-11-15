@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2921 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 26 y 28, superficies 33 y 339 m2, rol de Avalúo 1182-7, comuna de Ancud, para la obra "MEJORAMIENTO RUTA 5 – W15-175, SECTOR RUTA 5 – PUMANZANO, CAMINO RUTA 5 – PUMANZANO", PROVINCIA DE CHILOÉ, X REGIÓN y se acordó el valor de la indemnización con su propietaria MARÍA LUISA MIENERT LINNEBRINK, ascendente a la cantidad de $1.438.976.-
+
+Fiscal del Ministerio de Obras Públicas.
