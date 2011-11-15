@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3268 de 25 de octubre de 2011, se modificó los Decretos MOP Nºs. 1502, 1506, 1510, 1516, 1517 y 1519 de 30 de junio de 2011, en la parte que se refiere a la asignación presupuestaria correspondiente numeral sexto de los Decretos MOP para la obra: "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
