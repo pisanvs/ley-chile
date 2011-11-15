@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3313 de 25 de octubre de 2011, se modificó el numeral segundo del Decreto MOP Nº231 de 30 de abril de 2008, que ordenó, la expropiación del lote Nº4, en la parte que se refiere al rol de avalúo y al nombre del expropiado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
