@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3307 de 25 de octubre de 2011, se dejó sin efecto el Decreto MOP Nº668 de 10 de mayo de 2011, que ordenó la expropiación del lote Nº74-A, en el sentido que la superficie señalada en el Decreto no corresponde a la que es necesaria afectar para la expropiación. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
