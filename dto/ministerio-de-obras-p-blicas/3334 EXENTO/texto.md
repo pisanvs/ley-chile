@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3334, de 27 de octubre de 2011, se expropió el lote de terreno Nº67-A, superficie 1.168 m2., Rol Nº213-123, comuna de Florida, VIII Región, "MEJORAMIENTO RUTA O-390, CRUCE RUTA 148 (FLORIDA) – AUTOPISTA ITATA", y se acordó el valor de indemnización con sus propietarios doña ELSA DEL ROSARIO RUIZ PÉREZ Y OTROS, ascendente a la cantidad de $917.093.-
+
+Fiscal del Ministerio de Obras Públicas.
