@@ -6,7 +6,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Declárase de utilidad pública y autorízase la expropiación del inmueble, o parte de él, en que nació el Presidente de la República, don Juan Antonio Ríos Morales, ubicado en Cañete, en el que se instalará el Museo Folklórico Araucano que llevará su nombre.
+Declárase de utilidad pública y autorízase la expropiación del inmueble, o parte de él, en que nació el Presidente de la República, don Juan Antonio Ríos Morales, ubicado en Cañete, en el que se instalará el Museo Ruka kimvn taiñ volil, lonko Juan Cayupi Huechicura.
 
 La Sociedad Constructora de Establecimientos Educacionales construirá en el mismo predio una Escuela Hogar que llevará el nombre del Presidente Juan Antonio Ríos.
 
