@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2905 de 30 de septiembre de 2011, se expropió el lote de terreno Nº2-N, superficie 401,71 m2, rol de Avalúo 429-40, comuna de Ancud, para la obra "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO - BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con su propietario RIGOBERTO PAREDES LEVITUREO, ascendente a la cantidad de $20.408.792.-
+
+Fiscal del Ministerio de Obras Públicas.
