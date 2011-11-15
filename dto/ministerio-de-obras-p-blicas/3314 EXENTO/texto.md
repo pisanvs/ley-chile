@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº3314 de fecha 25 de octubre de 2011, que modifica Decreto MOP (exento) Nº1390 de fecha 30 de junio de 2011, en el siguiente sentido, en el numeral 4°: donde dice: "la escritura pública se otorgue e inscriba a favor del Fisco", debe decir: "la escritura pública se otorgue e inscriba a favor de NUEVOSUR S.A." y donde dice: Aguas Nuevosur S.A.", debe decir "NUEVOSUR S.A.".
+
+Fiscal del Ministerio de Obras Públicas.
