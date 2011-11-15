@@ -1,0 +1,3 @@
+PONE TÉRMINO ANTICIPADO A CONVENIOS MARCO ÚNICOS REGIONALES
+
+Por resoluciones exentas Nº 1.622 y Nº 1.623, ambas de fecha 21 de octubre de 2011, de la SEREMI MINVU de Los Lagos, ordena notificar resoluciones que ponen término anticipado a Convenios Marco Únicos Regionales celebrados con la EGIS/PSAT "Consultores y Asesores Técnicos Limitada o Asetec Ltda.", RUT Nº 77.824.090-4 y el EGIS/PSAT "Pedro Pablo Leyton Abarca", RUT Nº 14.285.810-K, respectivamente. Resoluciones íntegras disponibles en Gobierno Transparente de web www.minvu.cl.
