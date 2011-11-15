@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2885 de 30 de septiembre de 2011, se expropió el lote de terreno Nº53, superficie 229 m2, rol de Avalúo 3450-25, comuna de Puerto Montt, para la obra "CAMINO RUTA 7, SECTOR LENCA – CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", PROVINCIA DE LLANQUIHUE, X REGIÓN DE LOS LAGOS y se acordó el valor de la indemnización con sus propietario ALADINO HERNÁNDEZ IGOR, ascendente a la cantidad de $1.039.152.-
+
+Fiscal del Ministerio de Obras Públicas.
