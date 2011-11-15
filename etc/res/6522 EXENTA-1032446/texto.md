@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 6.522, de 9 noviembre 2011, Serviu Región del Biobío ordenó expropiación total inmueble ubicado en Calle 4 3462 D 212 Leonera Chgte, del Conjunto Habitacional Villa Futuro, Sector La Leonera, Rol de Avalúo Nº 3251-169 comuna Chiguayante, superficie 42,11. metros cuadrados de construcción y los derechos cuotativos que recaen sobre los bienes comunes de ese departamento, consistentes en 38,22. metros cuadrados de terreno y 4,081. metros cuadrados de edificación, con todo lo edificado y plantado en ella, dentro del polígono y linderos señalados plano expropiación Nº S8R-27572, de aparente dominio de Verónica Poblete Toloza, para ejecución "Programa de Reconstrucción y Reparación de Viviendas de la Región del Biobío, en Conjuntos Habitacionales construidos por el Serviu Región del Biobío, gravemente dañados por el terremoto de 27 de Febrero de 2010" en la comuna de Chiguayante, conforme artículo 51 Ley 16.391 y DL 2.186. Comisión Peritos integrada por Álvaro Berríos San Martín, Arquitecto, Rodrigo Vilches Van Rysselberghe, Arquitecto y Orlando Paredes Vásquez, ingeniero Civil, según informe de fecha 7 de noviembre de 2011, fijó monto provisional indemnización en $10.573.997.- pagadera de contado.
+
+Director Serviu Región del Biobío.
