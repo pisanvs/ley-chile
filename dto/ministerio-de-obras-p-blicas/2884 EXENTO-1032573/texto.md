@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2884 de 30 de septiembre de 2011, se expropió el lote de terreno Nº14-A, superficie 547 m2, rol de Avalúo 1438-7, comuna de Llanquihue, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000, COMUNA DE LLANQUIHUE, PROVINCIA DE LLANQUIHUE, X REGIÓN" y se acordó el valor de la indemnización con su propietaria MODINGER HERMANOS S.A., ascendente a la cantidad de $1.999.680.-
+
+Fiscal del Ministerio de Obras Públicas.
