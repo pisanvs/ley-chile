@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3330, de 25 de octubre de 2011, se dejó sin efecto los numerales 3°, 4°, 5° y 6° del Decreto MOP (Exento) Nº288 de 31 de mayo de 2006, en la parte que se refiere al Convenio Ad Referéndum Directo de Precio, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote Nº2, por la suma de $120.000, para la obra pública: Camino Ruta K-16, Sector Curepto – Puente Lautaro, Tramo: Km. 73,30000 a km. 81,91430, Comuna de Curepto, Provincia de Talca. La publicación se fectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
