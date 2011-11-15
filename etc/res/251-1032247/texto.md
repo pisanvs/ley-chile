@@ -1,0 +1,5 @@
+DECLARA ÁREA DE RESTRICCIÓN DE LOS SECTORES HIDROGEOLÓGICOS DE APROVECHAMIENTO COMÚN DENOMINADOS RÍO RAPEL BAJO JUNTA ESTERO EL ROSARIO, ESTERO EL ROSARIO, ESTERO SAN ANTONIO Y RÍO RAPEL ANTES DE JUNTA ESTERO EL ROSARIO, REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS Y REGIÓN METROPOLITANA
+
+Mediante resolución DGA Nº 251, de fecha 21 de octubre de 2011, se ha declarado área de restricción para nuevas extracciones de aguas subterráneas, en los sectores hidrogeológicos de aprovechamiento común denominados río Rapel Bajo junta estero El Rosario, estero El Rosario, estero San Antonio y río Rapel antes de junta estero El Rosario, Región del Libertador General Bernardo O'Higgins y Región Metropolitana. Los antecedentes se encuentran disponibles en oficinas de la Dirección General de Aguas de la Región del Libertador General Bernardo O'Higgins, Región Metropolitana, y en la página web de la DGA.-
+
+Matías Desmadryl Lira, Director General de Aguas.
