@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº3278, de 25 de octubre de 2011, se dejó sin efecto el Decreto Exento MOP Nº121, de 28 de marzo de 2003, que ordenaba la expropiación del lote de terreno Nº7-1, para la obra "Concesión Internacional Interconexión Vial Santiago - Valparaíso - Viña del Mar. Troncal Sur. Variante Ribera Sur. Tramo 1: Lámina Especial 4", por no ser necesario para la obra.
+
+Fiscal del Ministerio de Obras Públicas.
