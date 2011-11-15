@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3335, de fecha 27 de octubre del 2011, se expropió el lote de terreno Nº81, superficie 138 m2., Rol Nº602-37, comuna de Santa Cruz, para la obra "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 - YÁQUIL, KM. 0,00000 A KM. 6,98000", VI REGIÓN, y se acordó el valor de indemnización con su propietario MIGUEL MARIANO DONOSO NÚÑEZ, ascendente a la cantidad de $1.316.453.-
+
+Fiscal del Ministerio de Obras Públicas.
