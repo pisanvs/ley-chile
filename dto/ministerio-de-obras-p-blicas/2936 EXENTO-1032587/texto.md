@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2936 de 30 de septiembre de 2011, se expropiaron los lotes de terrenos Nºs. 94 y 95, superficies 1.164 y 974 m2, rol de Avalúo 1451-48, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320, X REGIÓN" y se acordó el valor de la indemnización con su propietario INVERSIONES Y ASESORÍAS GGF LTDA., ascendente a la cantidad de $7.707.843.-
+
+Fiscal del Ministerio de Obras Públicas.
