@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3486, de 28 de octubre de 2011, se expropiaron los lotes de terreno Nºs. 1 y 1-A, superficies 3.585,94 y 540,20 m2., Rol Nº144-74, comuna de Cochamó, X Región, "CONSTRUCCIÓN RAMPAS PARA BARCAZAS LAGO TAGUA TAGUA, SECTOR EL CANELO - LAGO TAGUA TAGUA, y se acordó el valor de indemnización con su propietaria EXPLORA CHILE S.A., ascendente a la cantidad de $6.750.365.-
+
+Fiscal del Ministerio de Obras Públicas.
