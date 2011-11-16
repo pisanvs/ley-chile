@@ -540,6 +540,24 @@ e instrumentos
 
 Complementarios.
 
+11.Muelle Multipro- Permanente Paso de personas,
+
+pósito Puerto mercancías y todo
+
+Las Losas, ubi- tipo de destinacio-
+
+cado en la Bahía nes aduaneras.
+
+Huasco, Sector
+
+de Punta Loros,
+
+Comuna de Huasco,
+
+Tercera Región
+
+de Atacama.
+
 F. SUJETOS A LA JURISDICCION DE LA ADUANA DE COQUIMBO:
 
 Punto Habilitado Habilitación Operaciones aduaneras
