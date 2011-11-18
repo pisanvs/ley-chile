@@ -1,0 +1,35 @@
+AUTORIZA CIRCULACIÓN DE VEHÍCULO EN LOS TÉRMINOS QUE SEÑALA
+
+Santiago, 26 de octubre de 2011.- Hoy se decretó lo que sigue:
+
+Núm. 5.156 exento.- Visto: El oficio reservado Nº 18, de 18 de octubre de 2011, del señor Gobernador Provincial (S) de Tierra del Fuego; lo dispuesto en el decreto ley Nº 799, de 1974 y sus modificaciones, del Ministerio del Interior, el decreto supremo Nº 19, de 2001, del Ministerio Secretaría General de la Presidencia; el oficio circular Nº 26 de abril de 2003, de Hacienda e Interior, y la resolución Nº 1.600, de 2008 de la Contraloría General de la República, y
+
+Considerando: Que, atendidas las exigencias propias de la gestión de la Gobernación Provincial de Tierra del Fuego y los requerimientos de movilización para la realización de las tareas propias de esa Gobernación, muchas de las cuales se desarrollan mas allá del horario hábil y en días sábados en la tarde, domingos y festivos,
+
+Decreto:
+
+#### Artículo único
+
+Autorízase la circulación en horas inhábiles y días sábados en la tarde, domingos y festivos, al vehículo de la dotación del Servicio de Gobierno Interior asignado a la Gobernación Provincial de Tierra del Fuego que a continuación se individualiza, conforme lo dispuesto en el artículo 1° del DL Nº 799, de 1974, del Ministerio del Interior.
+
+Vehículo : Camioneta
+
+Marca : Mazda
+
+Modelo : BT 50 2.5 4X4 SDX ABS
+
+Año : 2011
+
+Color : Rojo burdeo
+
+Nº chassis : JMZUN8F120W869860
+
+Nº motor : WLAT1196814
+
+I.R.V.M. : CYBD 41-6
+
+Placa Fiscal : CYBD 41-6
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Rodrigo Ubilla Mackenney, Ministro del Interior y Seguridad Pública (S).
+
+Lo que transcribo a Ud., para su conocimiento.- Saluda Atte. a Ud., María Claudia Alemparte Rodríguez, Subsecretaria del Interior Subrogante.
