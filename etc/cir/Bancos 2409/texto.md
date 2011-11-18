@@ -714,7 +714,7 @@ Son complementarios de la Ley General de Bancos, sin perjuicio de que, según el
 
 #### Artículo 50 bis
 
-Trata del comité de directores y designación de director independiente. Es aplicable, en forma obligatoria, a los bancos cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento y a lo menos un 12,5% de sus acciones emitidas con derecho a voto, se encuentren en poder de accionistas que individualmente controlen o posean menos del 10% de sus acciones. Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el N° 1 de la Circular N° 1.526 de la Superintendencia de Valores y Seguros, del 19 de febrero de 2001.
+Trata del comité de directores y designación de director independiente. Es aplicable, en forma obligatoria, a los bancos cuyo patrimonio bursátil sea igual o superior al equivalente de 1.500.000 unidades de fomento y a lo menos un 12,5% de sus acciones emitidas con derecho a voto, se encuentren en poder de accionistas que individualmente controlen o posean menos del 10% de sus acciones. Se entiende por patrimonio bursátil, para estos efectos, aquel definido en el literal a) del N° 1 de la Circular N° 1.956 de la Superintendencia de Valores y Seguros, del 22 de diciembre de 2009.
 
 Los bancos que no cumplan con las condiciones copulativas del inciso 1° del artículo 50 bis, podrán acogerse voluntariamente a las disposiciones de este artículo.
 
@@ -2310,7 +2310,7 @@ CAPTACIONES E INTERMEDIACION.
 
 ### I. CONSIDERACIONES GENERALES
 
-La intermediación, por cuenta propia o ajena, de dinero o de créditos representados por valores mobiliarios, efectos de comercio o cualquier otro título de crédito, como asimismo la simple captación de fondos del público o la oferta pública de títulos de crédito, se encuentra regulada por la Ley General de Bancos y la Ley N° 18.045 sobre Mercado de Valores, las que prohíben ejercer esa actividad a personas naturales o jurídicas no autorizadas por la ley. Esta materia fue objeto de la Circular Conjunta emitida por este Organismo y la Superintendencia de Valores y Seguros, cuyo texto se transcribe, para facilitar su consulta, en el Anexo N° 1 de este Capítulo.
+La intermediación, por cuenta propia o ajena, de dinero o de créditos representados por valores mobiliarios, efectos de comercio o cualquier otro título de crédito, como asimismo la simple captación de fondos del público o la oferta pública de títulos de crédito, se encuentra regulada por la Ley General de Bancos y la Ley N° 18.045 sobre Mercado de Valores, las que prohíben ejercer esa actividad a personas naturales o jurídicas no autorizadas por la ley. Esta materia fue objeto de la Circular Conjunta emitida por este Organismo y la Superintendencia de Valores y Seguros, cuyo texto se transcribe, para facilitar su consulta, en el Anexo de este Capítulo.
 
 El concepto de captación tiene en la legislación vigente una acepción amplia, de manera que cubre todas las operaciones, a la vista o a plazo, que involucran recibir dinero del público, sea como depósito, mutuo, participación, cesión o transferencia de efectos de comercio o en cualquiera otra forma. Así, por ejemplo, constituyen captaciones la recepción de depósitos en cuentas corrientes bancadas o en cuentas de ahorro, los depósitos a la vista o a plazo en general, la emisión y colocación en el mercado de bonos o letras de crédito y las ventas con pacto de retrocompra de títulos de crédito. Muchas de estas operaciones deben sujetarse a normas legales o reglamentarias especiales como, asimismo, a instrucciones específicas impartidas por esta Superintendencia que se encuentran contenidas en otros capítulos de esta Recopilación Actualizada de Normas.
 
@@ -4948,7 +4948,7 @@ Como primera página, deberá presentarse un índice de la información contenid
 
 a) Identificación básica: Razón social, domicilio legal y Rol Único Tributario.
 
-b) Direcciones: Dirección, número de teléfono, casilla y télex de las oficinas principales de la entidad.
+b) Direcciones: Dirección, número de teléfono, casilla, y correo electrónico y dirección del sitio web de la entidad.
 
 3.4. Descripción de la emisión.
 
@@ -4992,7 +4992,7 @@ e) Amortización extraordinaria: Indicación de si existirán procedimientos de 
 
 f) Remplazo o canje de títulos: Referencia a procedimientos de remplazo de los títulos hurtados, robados, dañados o extraviados, o de canje por otros que representen un menor número de láminas, cuando se trate de emisiones en forma material.
 
-g) Juntas de tenedores de bonos: Indicación de quienes pueden convocar las, forma de citación, quórum para constitución y acuerdos y materias a tratarse.
+g) Juntas de tenedores de bonos: Indicación de quienes pueden convocarlas, forma de citación, quórum para constitución y acuerdos y materias a tratarse.
 
 h) Información a los tenedores de bonos:
 
@@ -5204,25 +5204,23 @@ Las empresas bancarias podrán actuar como mandatarias de un emisor de tarjetas 
 
 En tal calidad, les corresponderá efectuar los pagos a los establecimientos afiliados, por cuenta de su mandante, quien en todo caso, es responsable del pago.
 
-CAPITULO 3-1 (Bancos y Financieras)
-
-MATERIA:
+## Capítulo 3-1
 
 VALORES EN COBRO.
 
 ### 1. Valores en cobro
 
-Para los efectos de estas normas, se entiende por "valores en cobro" los importes aún no percibidos de los documentos cuyo pago las instituciones financieras deben obtener mediante una gestión de cobro y que se han recibido como depósitos en cuentas corrientes u otras cuentas de depósito a la vista o a plazo; para la constitución de depósitos documentados con efectos de comercio; por depósitos para boletas de garantía o por un encargo expreso de cobranza.
+Para los efectos de estas normas, se entiende por "valores en cobro" los importes aún no percibidos de los documentos cuyo pago los bancos deben obtener mediante una gestión de cobro y que se han recibido como depósitos en cuentas corrientes u otras cuentas de depósito a la vista o a plazo; para la constitución de depósitos documentados con efectos de comercio; por depósitos para boletas de garantía o por un encargo expreso de cobranza.
 
-Mientras la institución depositaria o mandataria no obtenga el pago de dichos valores, éstos no pueden considerarse fondos disponibles, de modo que el hecho de permitir que un depositante gire los respectivos importes o, en general, el de entregarle a un cliente anticipadamente el importe de una cobranza en curso, como asimismo el acto de entregarle al tomador los títulos o instrumentos emitidos contra valores en cobro, constituye de hecho un crédito concedido por la institución financiera, asociado al reembolso de los respectivos documentos.
+Mientras la institución depositaria o mandataria no obtenga el pago de dichos valores, éstos no pueden considerarse fondos disponibles, de modo que el hecho de permitir que un depositante gire los respectivos importes o, en general, el de entregarle a un cliente anticipadamente el importe de una cobranza en curso, como asimismo el acto de entregarle al tomador los títulos o instrumentos emitidos contra valores en cobro, constituye de hecho un crédito concedido por el banco, asociado al reembolso de los respectivos documentos.
 
-Las presentes normas incluyen disposiciones relativas a las retenciones aplicables a los depósitos que adquieren el carácter de condicionales por las razones antedichas en el lapso comprendido entre la fecha de su recepción por el banco y la de término del proceso de cobro, en que aún no constituyen fondos disponibles, ya los créditos que las instituciones pueden conceder sobre esos valores durante dicho lapso.
+Las presentes normas incluyen disposiciones relativas a las retenciones aplicables a los depósitos que adquieren el carácter de condicionales por las razones antedichas en el lapso comprendido entre la fecha de su recepción por el banco y la de término del proceso de cobro, en que aún no constituyen fondos disponibles, y a los créditos que las instituciones pueden conceder sobre esos valores durante dicho lapso.
 
-2.- Retención aplicable a los depósitos constituidos mediante documentos en cobro.
+2. Retención aplicable a los depósitos constituidos mediante documentos en cobro.
 
-Las instituciones financieras se ceñirán a las siguientes instrucciones en relación con los plazos de retención:
+Los bancos se ceñirán a las siguientes instrucciones en relación con los plazos de retención:
 
-2.1.- Documentos a cargo de otras instituciones financieras del país.
+2.1. Documentos a cargo de otros bancos del país.
 
 La retención para los valores en cobro en moneda chilena correspondientes a cheques y otros documentos de cargo de otras instituciones del país, se aplicará de acuerdo con lo siguiente:
 
@@ -5230,7 +5228,7 @@ a) Cuando se trate de documentos de cargo de instituciones que tienen presencia 
 
 b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la misma plaza en que fueron depositados, ni en plazas que concurren a la misma localidad de cámara, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
 
-No obstante lo anterior, las oficinas bancarias situadas en las siguientes localidades, podrán extender la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informar apropiadamente a sus depositantes acerca del mayor plazo que deben aplicar por razones de su aislamiento geográfico.
+No obstante lo anterior, las oficinas bancarias situadas en las siguientes localidades, podrán extender la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informar apropiadamente a sus depositantes acerca del mayor plazo que deben aplicar por razones de su aislamiento geográfico:
 
 - Putre
 
@@ -5268,65 +5266,63 @@ Para la retención sobre valores en cobro correspondientes a documentos en moned
 
 En aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que recibe el reembolso, permitir al depositante disponer del respectivo importe.
 
-La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado, en ningún caso exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta corriente Al respecto debe tenerse presente que una institución está obligada a recibir la devolución de un documento que ha presentado a cobro en la primera reunión de una cámara de compensación, sólo en su respectiva segunda reunión, quedando liberada de la obligación de recibirlo posteriormente.
+La liberación de fondos que, por cualquier circunstancia, se efectúe sobre un documento que resulte rechazado, en ningún caso exime al depositante de que, una vez producida la devolución del documento, éste se cargue a su cuenta corriente. Al respecto debe tenerse presente que una institución está obligada a recibir la devolución de un documento que ha presentado a cobro en la primera reunión de una cámara de compensación, sólo en su respectiva segunda reunión, quedando liberada de la obligación de recibirlo posteriormente.
 
-2.2.- Documentos de cargo de la misma institución depositaria.
+2.2. Documentos de cargo de la misma institución depositaría.
 
-Los importes correspondientes a los documentos que sean de cargo de la misma institución depositaria, quedarán disponibles desde el momento mismo en que se cargue la cuenta girada, lo que en todo caso deberá realizarse a más tardar al cierre de las operaciones del mismo día en que se efectúe el depósito.
+Los importes correspondientes a los documentos que sean de cargo de la misma institución depositaría quedarán disponibles desde el momento mismo en que se cargue la cuenta girada, lo que en todo caso deberá realizarse a más tardar al cierre de las operaciones del mismo día en que se efectúe el depósito.
 
 3. Giro de los importes depositados y liberación de documentos antes de obtenerse el pago de los valores en cobro.
 
-Las retenciones señaladas en las instrucciones precedentes no son óbice para que las instituciones financieras permitan la utilización anticipada de los fondos o de los documentos retenidos, mediante la concesión de un crédito a los depositantes.
+Las retenciones señaladas en las instrucciones precedentes no son óbice para que los bancos permitan la utilización anticipada de los fondos o de los documentos retenidos, mediante la concesión de un crédito a los depositantes.
 
-Para los efectos de tales créditos las instituciones financieras deben considerar lo siguiente:
+Para los efectos de tales créditos los bancos deben considerar lo siguiente:
 
 3.1. Control sobre los créditos otorgados y evaluación de los riesgos.
 
-Cuando una institución financiera permita la utilización anticipada de fondos, esa práctica debe quedar sujeta a procedimientos que permitan un adecuado manejo de los riesgos de crédito que se asumen por ese motivo y el cumplimiento de las disposiciones legales y reglamentarias que rigen tales operaciones.
+Cuando un banco permita la utilización anticipada de fondos, esa práctica debe quedar sujeta a procedimientos que permitan un adecuado manejo de los riesgos de crédito que se asumen por ese motivo y el cumplimiento de las disposiciones legales y reglamentarias que rigen tales operaciones.
 
-Las políticas y procedimientos de las instituciones financieras deben considerar los riesgos inherentes a la calidad de los documentos en cobro y a la situación del deudor, cuando corresponda, debiendo quedar claramente establecidas las condiciones que deben cumplirse para el otorgamiento de los créditos, los niveles jerárquicos de autorización, los resguardos en cuanto a la necesidad de documentar y garantizar los créditos, etc.
+Las políticas y procedimientos de los bancos deben considerar los riesgos inherentes a la calidad de los documentos en cobro y a la situación del deudor, cuando corresponda, debiendo quedar claramente establecidas las condiciones que deben cumplirse para el otorgamiento de los créditos, los niveles jerárquicos de autorización, los resguardos en cuanto a la necesidad de documentar y garantizar los créditos, etc.
 
-Los sistemas que las instituciones financieras utilicen, deben permitir verificar el cumplimiento de tales políticas y procedimientos.
+Los sistemas que los bancos utilicen, deben permitir verificar el cumplimiento de tales políticas y procedimientos.
 
-3.2.- Cumplimiento de los límites de crédito.
+3.2. Cumplimiento de los límites de crédito.
 
-Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación de la institución financiera, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, aunque su pago se realice el mismo día.
+Cualquiera sea la forma en que los referidos créditos se otorguen, esto es, aunque fuere por el mero acto de efectuarse el giro o el desembolso, o de entregar títulos de crédito en que consta una obligación del banco, ellos están sujetos a los límites y prohibiciones establecidos en el artículo 84 de la Ley General de Bancos, en el instante en que se cursen, aunque su pago se realice el mismo día.
 
 No obstante lo anterior, cuando los valores en cobro correspondan a los documentos que se mencionan en el numeral 3.3 siguiente, los giros que se hagan sobre dichos valores no se considerarán como créditos para los efectos antes indicados.
 
-3.3.- Excepciones a las retenciones sobre valores en cobro.
+3.3. Excepciones a las retenciones sobre valores en cobro.
 
-La institución depositaría podrá optar por prescindir de las retenciones cuando los valores en cobro correspondan a i) vales vista emitidos por otras entidades financieras o cheques viajeros, ii) cheques girados contra cuentas subsidiarias de la Cuenta Única Fiscal, o, iii) pagarés o certificados de depósito a plazo plazo no reajustables emitidos por otras instituciones financieras.
+La institución depositaria podrá optar por prescindir de las retenciones cuando los valores en cobro correspondan a: i) vales vista emitidos por otros bancos del país; ii) cheques girados contra cuentas subsidiarias de la Cuenta Única Fiscal; o, iii) pagarés o certificados de depósito a plazo no reajustables, emitidos por otros bancos del país.
 
-3.4. Giros contra valores en cobro depositados en cuentas. Registro contable.
+3.4. Giros contra valores en cobro depositados en cuentas.
 
 Los créditos generados por el pago de cheques y otras operaciones con cargo a una cuenta corriente bancaria que no dispone de fondos, deben ceñirse a lo dispuesto en el Capítulo 8-1 de esta Recopilación Actualizada de Normas.
 
-Las cuentas de depósito distintas a una cuenta corriente bancaria no admiten sobregiro y , por lo tanto, no es posible girar de la cuenta los importes correspondientes a los valores cuya gestión de cobro se encuentre en trámite. Ello no obsta para que la institución otorgue anticipos de los importes depositados condicionalmente, del mismo modo que puede hacerlo con cualquier documento que reciba en comisión de cobranza, y registre en sus colocaciones los créditos originados por esos avances.
+Las cuentas de depósito distintas a una cuenta corriente bancaria no admiten sobregiro y, por lo tanto, no es posible girar de la cuenta los importes correspondientes a los valores cuya gestión de cobro se encuentre en trámite. Ello no obsta para que la institución otorgue anticipos de los importes depositados condicionalmente, del mismo modo que puede hacerlo con cualquier documento que reciba en comisión de cobranza, casos en los cuales el desembolso quedará registrado como un crédito para todos los efectos.
 
-3.5. Créditos que permiten la entrega de títulos emitidos contra valores en cobro.
+3.5. Entrega de títulos emitidos contra valores en cobro.
 
 3.5.1. Situación de los títulos entregados.
 
-Los títulos de crédito que una institución financiera entrega a los beneficiarios se independizan de la relación jurídica que les dio origen. Esto significa que la institución financiera, por el solo hecho de firmar el documento y entregarlo al tomador, se hace responsable de su pago frente a su legítimo tenedor, el cual de manera alguna puede verse afectado por la relación jurídica absolutamente ajena existente entre tomador y depositario.
+Los títulos de crédito que un banco entrega a los beneficiarios se independizan de la relación jurídica que les dio origen. Esto significa que el banco, por el solo hecho de firmar el documento y entregarlo al tomador, se hace responsable de su pago frente a su legítimo tenedor, el cual de manera alguna puede verse afectado por la relación jurídica absolutamente ajena existente entre tomador y depositario.
 
-En ningún caso una institución financiera puede intentar precaverse de los efectos de entregar un título de crédito contra valores en cobro, agregando en el documento indicaciones que condicionen su pago o transferencia al reembolso de tales valores.
+En ningún caso un banco puede intentar precaverse de los efectos de entregar un título de crédito contra valores en cobro, agregando en el documento indicaciones que condicionen su pago o transferencia al reembolso de tales valores.
 
-3.5.2. Registro contable.
+3.5.2 Créditos inherentes a la entrega anticipada de los títulos.
 
-De acuerdo con las convenciones contables, la emisión de vales vista, pagarés o certificados de depósitos a plazo y otros documentos similares que por su naturaleza sólo pueden provenir de depósitos de dinero, se registran como pasivos de la institución con prescindencia del hecho de que la operación puede estar condicionada al cobro previo de documentos, cuestión que sólo guarda relación con la necesidad de evitar la entrega de los mismos al depositante o tomador durante los plazos de retención, cuando la institución no se encuentre cubierta del riesgo de crédito.
-
-Por consiguiente, aunque la entrega anticipada de tales documentos involucra un crédito y debe computarse, con las excepciones señaladas en el numeral 3.2, para efectos de los márgenes crediticios, no procede registrar contablemente una operación de crédito en el activo.
+Si la operación efectuada por el cliente queda sujeta al cobro de documentos, la entrega durante el plazo de retención de vales vista, pagarés de depósitos a plazo y otros documentos similares, involucra un crédito que, aunque no se registre ni se informe como tal, debe ser evaluado en su riesgo y computarse para los efectos de márgenes de crédito, como ya se indicó en los numerales 3.1 y 3.2. No obstante, cuando los valores en cobro correspondan a los señalados en el numeral 3.3, la operación puede tratarse para esos efectos como un depósito en efectivo que permite la entrega inmediata del título.
 
 4. Prohibición de pagar cheques a cargo de otros bancos. Excepción calificada.
 
-En relación con la naturaleza jurídica de las operaciones, que determina la presencia de un crédito en cualquier pago o giro que se realice contra valores en cobro, las instituciones financieras deben tener presente que pueden recibir cheques a cargo de otros bancos sólo en cobranza o en pago de obligaciones. Por consiguiente, entre otras cosas, a las instituciones financieras les está vedado pagar cheques girados contra otros bancos, a menos que se trate de cheques girados a cargo de la Cuenta Unica Fiscal.
+En relación con la naturaleza jurídica de las operaciones, que determina la presencia de un crédito en cualquier pago o giro que se realice contra valores en cobro, los bancos deben tener presente que pueden recibir cheques a cargo de otros bancos sólo en cobranza o en pago de obligaciones. Por consiguiente, entre otras cosas, a los bancos les está vedado pagar cheques girados contra otros bancos, a menos que se trate de cheques girados a cargo de la Cuenta Única Fiscal.
 
-No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de sus apoderados, las instituciones financieras pueden pagar a sus trabajadores los cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también pagarles a éstos los cheques girados a su orden por sus respectivos organismos previsionales.
+No obstante lo anterior, excepcionalmente, con el previo visto bueno de uno de sus apoderados, los bancos pueden pagar a sus trabajadores los cheques girados por éstos contra sus cuentas corrientes personales que mantengan en otros bancos, como también pagarles a éstos los cheques girados a su orden por sus respectivos organismos previsionales.
 
 5. Cobro por intermedio de corresponsales en el país. Uso de cuentas corrientes.
 
-Las instituciones financieras que reciban cheques y documentos girados sobre bancos que no tengan presencia en la misma plaza de la oficina depositaria ni en plazas que concurran a la misma localidad de cámara a la que ella concurre, y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
+Los bancos que reciban cheques y documentos girados sobre bancos que no tengan presencia en la misma plaza de la oficina depositaría ni en plazas que concurran a la misma localidad de cámara a la que ella concurre, y realicen el cobro por intermedio de un banco corresponsal, operarán a través de una cuenta corriente que mantendrán con dicho corresponsal y que se utilizará exclusivamente para ese fin.
 
 ## Capítulo 4-1
 
@@ -5862,7 +5858,7 @@ ORDENES DE PAGO DE PENSIONES LEY 17.671.
 
 1.- Obligación de pagar órdenes de pago de pensiones.
 
-El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Normalización Previsional (INP), la Caja de Previsión de la Defensa Nacional (CAPREDENA)y la Dirección de Previsión de Carabineros de Chile.
+El artículo 15 de la Ley 17.671 dispone que las instituciones de previsión podrán emitir y entregar a los beneficiarios, órdenes de pago intransferibles, las que deberán ser pagadas a partir de sus respectivas fechas de vencimiento en cualquiera institución bancaria, libres de comisiones o derechos, lo que actualmente sólo tiene aplicación respecto del Instituto de Previsión Social (IPS), la Caja de Previsión de la Defensa Nacional (CAPREDENA)y la Dirección de Previsión de Carabineros de Chile.
 
 Las empresas bancarias deberán, en consecuencia, pagar esos documentos al beneficiario que compruebe su identidad, salvo que no cuenten con los medios suficientes para verificar la autenticidad de la orden de pago, caso en el cual deberán explicar al interesado el motivo por el cual rechazan su pago.
 
@@ -6268,7 +6264,7 @@ Además de los sistemas señalados en los literales precedentes, conforme a lo i
 
 Debe tenerse presente también que en su oportunidad fue autorizada la adquisición, por parte de los bancos, de los créditos otorgados por la ex-ANAP, los que tienen su propio sistema de reajustabilidad. En el Anexo N° 3 de este Capítulo se indican los porcentajes que debieron aplicarse según ese sistema a contar del 31 de diciembre de 1990.
 
-Por otra parte, debe entenderse que las normas generales en materia de reajustes no impiden adquirir instrumentos expresados en Unidades Tributarias Mensuales u otro tipo de reajustabilidad distinta de las autorizadas para pactar operaciones, cuando se trate de Pagarés Reajustables de la Tesorería General de la República o Bonos de Reconocimiento o Complementos de Bonos de Reconocimiento emitidos por el Instituto de Normalización Previsional.
+Por otra parte, debe entenderse que las normas generales en materia de reajustes no impiden adquirir instrumentos expresados en Unidades Tributarias Mensuales u otro tipo de reajustabilidad distinta de las autorizadas para pactar operaciones, cuando se trate de Pagarés Reajustables de la Tesorería General de la República o Bonos de Reconocimiento o Complementos de Bonos de Reconocimiento emitidos por el Instituto de Previsión Social (ex INP).
 
 2.2.2. Operaciones pagaderas en moneda extranjera.
 
@@ -7300,7 +7296,7 @@ Cada vez que un banco venda o adquiera un mutuo hipotecario endosable, ya sea po
 
 CRÉDITO A EMPRESAS DEL ESTADO
 
-Las empresas en que el Estado, directa o indirectamente, tiene una participación igual o superior al 50% del capital social, requieren, según las disposiciones del artículo 44 del D.L. N° 1.263, de 1975, complementado por el artículo 15 de la Ley N° 18.382, de la autorización previa de los Ministros de Hacienda y de Economía, Fomento y Reconstrucción para iniciar actos administrativos que puedan comprometer el crédito público.
+Las empresas en que el Estado, directa o indirectamente, tiene una participación igual o superior al 50% del capital social, requieren, según las disposiciones del artículo 44 del D.L. N° 1.263, de 1975, complementado por el artículo 15 de la Ley N° 18.382, de la autorización previa de los Ministros de Hacienda y de Economía, Fomento y Turismo para iniciar actos administrativos que puedan comprometer el crédito público.
 
 No obstante lo anterior, en virtud de lo dispuesto en el último inciso del artículo 11 de la Ley N° 18.196, las empresas que dependen o se relacionan con el Ejecutivo a través del Ministerio de Defensa Nacional, caso en el cual se encuentran las empresas Astilleros y Maestranzas de la Armada (ASMAR), Empresa Nacional de Aeronáutica (ENAER) y Fábrica y Maestranzas del Ejército (FAMAE), sólo requerirán autorización previa del Ministro de Hacienda para aquel efecto. Asimismo, en el caso de la Corporación Nacional del Cobre de Chile (CODELCO), la referida autorización debe ser otorgada por el Ministro de Hacienda, de acuerdo con lo prescrito en el D.L. N° 1.350, de 1976, orgánico de esa Corporación.
 
@@ -8154,7 +8150,7 @@ b) En los contratos de arriendo con personas relacionadas se deberá incluir sie
 
 ### 6. Operaciones con empresas del Estado
 
-De conformidad con lo prescrito en el inciso segundo del artículo 24 de la Ley N° 18.482, las empresas en que el Estado, directa o indirectamente, tenga una participación igual o superior al 50% del capital social, pueden suscribir contratos de arrendamiento a largo plazo no renovables sólo cuando cuenten con la autorización previa concedida, mediante decreto exento conjunto, por los Ministerios de Hacienda y de Economía, Fomento y Reconstrucción.
+De conformidad con lo prescrito en el inciso segundo del artículo 24 de la Ley N° 18.482, las empresas en que el Estado, directa o indirectamente, tenga una participación igual o superior al 50% del capital social, pueden suscribir contratos de arrendamiento a largo plazo no renovables sólo cuando cuenten con la autorización previa concedida, mediante decreto exento conjunto, por los Ministerios de Hacienda y de Economía, Fomento y Turismo.
 
 Atendido lo anterior, para celebrar contratos de leasing con alguna empresa en que participe el Estado, los bancos deberán obtener de su cliente una declaración escrita en el sentido de que la empresa cuenta con la autorización de que se trata, o bien, de que no se encuentra dentro de aquellas sociedades a que se refiere el artículo 24 antes mencionado.
 
@@ -9192,7 +9188,7 @@ Los instrumentos financieros representativos de títulos de crédito de renta fi
 
 Las recepciones en pago provenientes de colocaciones a personas naturales o jurídicas relacionadas con el banco en los términos del N° 2 del artículo 84 de la Ley General de Bancos y del Capítulo 12-4 de esta Recopilación de Normas, deberán ser consultadas previamente a esta Superintendencia, señalando especialmente la naturaleza y valorización de los bienes. Sin embargo, desde ya se establece que dichas daciones en pago no podrán consistir en acciones de sociedades de inversión o de otras empresas que no tengan un giro dedicado a la producción o comercialización de bienes o servicios.
 
-En la consulta a que se hace referencia en el párrafo anterior, deberá incluirse expresamente el parecer de la administración respecto de la conveniencia para el banco de recibir en pago o adjudicarse los bienes de que se trate. Además, deberá acompañarse la opinión de sus auditores externos, acerca del valor de mercado de esos bienes, determinado sobre la base del estado en que se adquieran.
+En la consulta a que se hace referencia en el párrafo anterior, deberá incluirse expresamente el parecer de la administración respecto de la conveniencia para el banco de recibir en pago o adjudicarse los bienes de que se trate. Además, deberá acompañarse la opinión de un profesional idóneo que sea independiente del banco y de sus auditores externos, acerca del valor de mercado de esos bienes, determinado sobre la base del estado en que se adquieran.
 
 ### 3. Plazos para enajenar los bienes recibidos o adjudicados en pago
 
@@ -9228,7 +9224,7 @@ Cuando se trate de acciones recibidas en pago o adjudicadas, su venta debe reali
 
 En todo caso, tanto las enajenaciones a personas o empresas relacionadas con el banco, a que se refiere el Capítulo 12-4 ya citado, como las efectuadas a trabajadores, ya sea de la propia institución o de empresas relacionadas, no podrán realizarse en condiciones menos favorables para los intereses de la empresa que aquéllas que se hubieren obtenido en una venta a terceros.
 
-Para enajenar a entidades relacionadas, bienes recibidos en pago o adjudicados, se requerirá la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberán informarse los precios, condiciones de pago y demás antecedentes necesarios para evaluar la eventual transacción, acompañada de una opinión de los auditores externos del banco, acerca de la conveniencia de la venta propuesta. En dicha opinión deberán constar las razones por las cuales la opción de vender a una entidad relacionada resulta más adecuada para los intereses del banco.
+Para enajenar a entidades relacionadas, bienes recibidos en pago o adjudicados, se requerirá la autorización previa de esta Superintendencia. En la solicitud que para este objeto se presente, deberán informarse los precios, condiciones de pago y demás antecedentes necesarios para evaluar la eventual transacción, acompañada de una opinión de un profesional idóneo que sea independiente del banco y de sus auditores externos, acerca de la conveniencia de la venta propuesta. En dicha opinión deberán constar las razones por las cuales la opción de vender a una entidad relacionada resulta más adecuada para los intereses del banco.
 
 El banco deberá asegurar que en el proceso de enajenación de los bienes recibidos o adjudicados, éstos sean ofrecidos al público siguiendo sanas prácticas de transparencia las que deben contemplar, a modo de ejemplo, políticas que aseguren la publicación en la página web de los bienes ofrecidos, así como también la aplicación de estrictos estándares que regulen los conflictos de intereses en su venta, especialmente si en la compra respectiva se encuentra involucrado personal de la entidad o empresas relacionadas a la misma.
 
@@ -9856,7 +9852,7 @@ d) Que el país en el que se efectuará la inversión o se abrirá la oficina, o
 
 e) Que, si en la empresa establecida en el exterior, participan socios o accionistas con un porcentaje igual o superior al 10% del capital de ella, cumplan con los requisitos establecidos en el artículo 36 de la Ley General de Bancos.
 
-Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo N° 1 de este Capítulo.
+Para acreditar el cumplimiento de los requisitos antes mencionados y proporcionar la información necesaria para otorgar la respectiva autorización, los bancos interesados deberán entregar los antecedentes que se detallan en el Anexo de este Capítulo.
 
 ### 3. Tramitación de la solicitud
 
@@ -10408,7 +10404,7 @@ Los créditos que los bancos otorguen para financiar obras públicas fiscales ej
 
 De acuerdo con lo establecido en el artículo 84 de la Ley General de Bancos y en el Decreto Supremo N° 917, de 1994, modificado por el Decreto Supremo N° 1.410, de 1996, ambos del Ministerio de Hacienda conjuntamente con el Ministerio de Obras Públicas, publicados en el Diario Oficial del 30 de enero de 1995 y 7 de febrero de 1997, respectivamente, estos préstamos pueden alcanzar el límite del 15% señalado, siempre que el exceso sobre el 10% del patrimonio efectivo de la institución acreedora, esté garantizado con la prenda especial de concesión de obra pública contemplada en el artículo 43 del D.F.L. N° 164, de 1991, del Ministerio de Obras Públicas, o bien, que sean otorgados conjuntamente por dos o más instituciones financieras, debiendo cumplir, en este caso, las siguientes condiciones:
 
-a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas en las categorías A1, A2, A3 o B a que se refiere el Capítulo 7-10 de esta Recopilación, por las instituciones financieras que otorguen el financiamiento, o bien, deben calificar para alguna de ellas, entendiéndose para el efecto que así ocurre cuando reúnen los requisitos exigidos para una de esas categorías de riesgo;
+a) Las empresas constructoras o concesionarias del proyecto, deberán estar clasificadas por los bancos que otorguen el financiamiento, en las categorías A1, A2, A3 o A4 según lo indicado el Capítulo B-1 del Compendio de Normas Contables, entendiendo que dichas categorías corresponden actualmente a las "dos mejores clasificaciones" a que se refirió el Decreto Supremo N° 917 antes mencionado;
 
 b) Las empresas constructoras o concesionarias deberán comprometerse a constituir en garantía de su obligación ante la entidad crediticia, los ingresos mínimos que se generarán en la fase de explotación del proyecto de infraestructura que se encuentren garantizados por el Estado o por un seguro de carácter privado. Esta garantía tiene por único fin amparar el pago del crédito, de modo que dadas sus características, no servirá para la ampliación del margen individual de crédito establecido en el artículo 84 de la Ley General de Bancos; y,
 
@@ -10458,7 +10454,7 @@ Las inversiones en valores mobiliarios de renta fija están afectas a los límit
 
 Quedan excluidos de los márgenes individuales de crédito del artículo 84, con respecto a los emisores, las inversiones en los instrumentos que se indican a continuación:
 
-a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluidos los Bonos de Reconocimiento y Complementos de éstos, emitidos por el Instituto de Normalización Previsional (INP) y los instrumentos emitidos por el Banco Central de Chile, excluidas las obligaciones de empresas del Estado.
+a) Instrumentos que correspondan a bonos de la deuda interna o cualquier otra clase de documentos emitidos en serie que representen obligaciones del Estado o de sus instituciones, incluidos los Bonos de Reconocimiento y Complementos de éstos, emitidos por el Instituto de Previsión Social (ex INP) y los instrumentos emitidos por el Banco Central de Chile, excluidas las obligaciones de empresas del Estado.
 
 b) Bonos u obligaciones de renta de Estados, Bancos Centrales e instituciones internacionales a las que se encuentre adherido el Estado de Chile.
 
@@ -18534,23 +18530,19 @@ Los bancos enviarán a esta Superintendencia un ejemplar o fotocopia de las publ
 
 INFORMACIÓN A LA SUPERINTENDENCIA DE VALORES Y SEGUROS.
 
-### I. INFORMACIÓN DE TRANSACCIONES DE ACCIONISTAS
-
-El artículo 12 de la Ley N° 18.045 modificado por el artículo 1° de la Ley N° 19.705 dispone que las personas que directamente o a través de otras personas naturales o jurídicas posean el 10% o más del capital suscrito de una sociedad cuyas acciones se encuentren inscritas en el Registro de Valores, así como los directores y gerentes de esas sociedades, cualquiera sea la cantidad de acciones que posean, deben informar a la Superintendencia de Valores y Seguros y a las bolsas de valores en que dichas acciones se coticen, toda transacción que de ellas efectúen, sean adquisiciones o enajenaciones, dentro de los dos días hábiles siguientes al de la respectiva operación.
-
-De acuerdo con lo señalado precedentemente y de conformidad con lo dispuesto en el artículo 69 de la ley en comento, se establece que los bancos deben dar cumplimiento, en todo lo que les sea aplicable, a las instrucciones impartidas por la Superintendencia de Valores y Seguros acerca de esas materias, de manera que la información que entreguen a esa Superintendencia sea concordante y armónica con la que es proporcionada por las demás empresas emisoras de valores de oferta pública.
-
-### II. INFORMACIÓN PRIVILEGIADA
+### I. INFORMACIÓN PRIVILEGIADA
 
 El Título XXI de la Ley N° 18.045 establece normas relativas al manejo y uso de la información privilegiada tanto de emisores de valores de oferta pública y de sus negocios, como de dichos valores y señala que cualquier persona que en razón de su cargo, posición, actividad o relación tenga acceso a dicha información, está obligada a guardar estricta reserva y no la puede utilizar para beneficio propio o ajeno.
 
-El artículo 171 de dicha Ley establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
+El artículo 171 de dicha Ley establece que las personas que participen en las decisiones y operaciones de adquisición y enajenación de valores para inversionistas institucionales e intermediarios de valores y aquellas que, en razón de su cargo o posición, tengan acceso a la información respecto a las transacciones de estas entidades, deberán informar a la dirección de la respectiva empresa y ésta a la Superintendencia de Valores y Seguros, toda adquisición o enajenación de valores de oferta pública que hayan realizado, en la forma y oportunidades que ese Organismo Contralor determine.
 
-sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio, siguiendo para el efecto las instrucciones que dicha Superintendencia ha impartido para ese objeto, en la forma y dentro de los plazos que ella señale.
+Sobre la base de la disposición antes mencionada y de conformidad con lo señalado en el artículo 69 de la Ley N° 18.045, esta Superintendencia de Bancos e Instituciones Financieras establece, sin perjuicio de las facultades de fiscalización que le competen, que los bancos deberán remitir directamente a la Superintendencia de Valores y Seguros la información requerida por ese Servicio, siguiendo para el efecto las instrucciones que dicha Superintendencia ha impartido para ese objeto en la forma y dentro de los plazos que ella señale.
 
-### III. INFORMACIÓN SOBRE EL GRUPO EMPRESARIAL
+### II. INFORMACIÓN SOBRE EL GRUPO EMPRESARIAL
 
-Los bancos deberán hacer llegar a la Superintendencia de Valores y Seguros la información acerca del grupo empresarial del que forma parte la sociedad, que ese Organismo ha exigido a las entidades sujetas a su fiscalización. Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse los datos específicos exigidos por esa Superintendencia, en las oportunidades y dentro de los plazos que para esos fines ha establecido.
+Los bancos deberán hacer llegar a la Superintendencia de Valores y Seguros la información acerca del grupo empresarial del que forma parte la sociedad, que ese Organismo ha exigido a las entidades sujetas a su fiscalización.
+
+Dicha información se confeccionará de acuerdo a las definiciones sobre grupos empresariales y controladores contenidas en el Título XV de la Ley N° 18.045, debiendo entregarse los datos específicos exigidos por esa Superintendencia, en las oportunidades y dentro de los plazos que para esos fines ha establecido.
 
 ## Capítulo 18-12
 
@@ -18702,29 +18694,15 @@ AUDITORES EXTERNOS.
 
 ### I. AUDITORÍAS DE ESTADOS FINANCIEROS
 
-### 1. Requisitos que deben cumplir las firmas de auditores externos
+### 1. Contratación de los auditores
 
-De acuerdo con las disposiciones contenidas en el artículo 16 de la Ley General de Bancos, los estados financieros de las instituciones financieras fiscalizadas por esta Superintendencia deben ser informados por una firma de auditores externos.
+Los auditores que deben designar anualmente los bancos, deberán encontrarse inscritos en el Registro de Auditores Externos de esta Superintendencia y cumplir, además, con los requisitos que le permiten efectuar la auditoría de los estados financieros al banco y sus filiales, de acuerdo con lo indicado en Título XXVIII de la Ley N° 18.045 y en la Circular N° 12 de este Organismo, dirigida a los auditores externos.
 
-Para estos efectos, los auditores externos que deben designar anualmente los bancos, deberán elegirse de entre los inscritos en el Registro de Auditores Externos de esta Superintendencia.
+Desde un inicio y hasta el término del contrato, el banco deberá cuidar que la firma de auditores contratada, el socio y todas las personas que participan en la auditoría, mantengan la necesaria independencia respecto al banco y sus filiales.
 
-La nómina de las firmas de auditores que se encuentran inscritas en dicho Registro y facultadas para efectuar la auditoría de estados financieros de bancos, se informa en el sitio web de esta Superintendencia.
+Para el efecto deben tener presente lo dispuesto en los artículos 242, 243, 244 y 245 de la ley antes citada y lo indicado por esta Superintendencia, en relación con el eventual otorgamiento de créditos, en la mencionada Circular N° 12.
 
-Con el objeto de mantener la independencia indispensable que la firma de auditores debe observar en el ejercicio de sus funciones respecto de las empresas auditadas, los bancos deberán abstenerse de contratar una empresa de auditores externos que mantenga directamente o a través de terceros, intereses económicos en los negocios de la institución financiera, con su plana directiva o con los dueños o accionistas principales, o que esté subordinada en cualquier forma respecto a la institución. Al respecto se entenderá que no afecta su independencia cuando se lleven a cabo con las entidades auditadas las operaciones necesarias para el giro de la firma de auditores, siempre que no se realicen en condiciones más favorables que las obtenidas por terceros en casos similares.
-
-Una vez designada la firma de auditores que realizará la auditoría de los estados financieros y hasta el término del contrato o de la prestación específica encomendada, la institución financiera no podrá otorgarle nuevos créditos a esa firma o a cualquiera de sus socios. Igual limitación regirá cuando la firma de auditores sea contratada por alguna filial de la institución financiera.
-
-Se exceptúan de la prohibición señalada en el párrafo precedente, los créditos que se otorguen a la firma de auditores que en total no excedan del equivalente de UF 100 y un crédito hipotecario por un importe no superior de UF 5.000, destinado a la adquisición de un inmueble con el único propósito de que la empresa realice en él sus actividades. Asimismo, se exceptúan los créditos que se otorguen a algún socio cuando se trate de un crédito personal de consumo, incluido el que provenga del uso de tarjeta de crédito, y de un crédito hipotecario para vivienda. En todo caso, dichos créditos no podrán ser contratados en condiciones preferentes con respecto a los demás clientes de la institución financiera.
-
-### 2. Contratación de los auditores
-
-Para la designación de sus auditores externos, los bancos deberán solicitar y evaluar, como mínimo, las propuestas de servicios de auditoría presentadas por tres firmas de auditores independientes y que no tengan vínculos comerciales o jurídicos entre sí.
-
-El referido análisis o evaluación de las propuestas y la proposición sugerida deberán someterse a la Junta de Accionistas para su aprobación.
-
-Con todo, en caso que se proponga a la Junta de Accionistas la recontratación de la misma firma de auditores que examinó y dictaminó los estados financieros del ejercicio anterior, podrá prescindirse de las propuestas de servicios de auditoría antes señaladas.
-
-### 3. Obligaciones de los bancos
+### 2. Desarrollo de la auditoría
 
 La administración deberá velar por el cumplimiento, tanto de los términos indicados en la proposición de los auditores contratados, como de los compromisos que se hayan contraído con ellos para facilitar su trabajo.
 
@@ -18732,7 +18710,7 @@ Las empresas fiscalizadas deberán permitir a sus auditores el examen de toda la
 
 Conforme ha señalado este Organismo en su Carta Circular N° 110-92 de 3 de noviembre de 1987, no existe impedimento legal alguno para que los auditores externos, con el objeto de desempeñar cabalmente su función propia, tomen conocimiento de las operaciones sujetas a secreto o a reserva que los bancos realicen.
 
-### 4. Información que debe remitirse a esta Superintendencia
+### 3. Información que debe remitirse a esta Superintendencia
 
 Los bancos deberán enviar a este Organismo la información que se señala a continuación, dentro de los plazos que en cada caso se indican:
 
@@ -18742,7 +18720,7 @@ Dentro de los diez días hábiles bancarios siguientes a la designación por par
 
 b) Deficiencias observadas por los auditores y medidas para corregirlas.
 
-Los bancos deberán enviar a esta Superintendencia el informe o memorándum entregado por los auditores externos, donde se señalen las deficiencias que hubieren detectado respecto a la adopción de prácticas contables, al mantenimiento un sistema administrativo contable efectivo y a la creación y mantención de un sistema de control interno adecuado, los que deben ser puestos por los auditores en conocimiento de la dirección de la empresa para cumplir con lo dispuesto en el N°4 del Art. 55 del D.S. N°587 de Hacienda de 1982, de acuerdo con lo indicado en el N° 6 de la Circular N° 2 de esta Superintendencia dirigida a los auditores externos.
+Los bancos deberán enviar a esta Superintendencia el informe o memorándum entregado por los auditores externos, donde se señalen las deficiencias que hubieren detectado respecto a la adopción de prácticas contables, al mantenimiento de un sistema administrativo contable efectivo y a la creación y mantención de un sistema de control interno adecuado, los que deben ser puestos por los auditores en conocimiento de la dirección de la empresa para cumplir con lo dispuesto en la letra a) del artículo 246 de la Ley N° 18.045, de acuerdo con lo indicado en el N° 3 del título III de la Circular N° 12 de esta Superintendencia dirigida a los auditores externos.
 
 Esta información deberá ser entregada a este Organismo junto con el acta de la sesión de directorio en la cual se tomó conocimiento de las observaciones de los auditores externos y en la cual debe quedar constancia de lo tratado en relación con dicho informe.
 
@@ -18754,23 +18732,21 @@ La opinión sobre los estados financieros emitida por los auditores externos, de
 
 ### 1. Trabajos diferentes a la auditoría de estados financieros anuales
 
-La contratación de firmas de auditores para asesorías o auditorías especiales, no está sujeta al requisito de inscripción en el Registro de esta Superintendencia.
+La contratación de firmas de auditores para asesorías o auditoría especiales, no está sujeta al requisito de inscripción en el Registro de esta Superintendencia.
 
-No obstante, deberá contratarse la misma firma de auditores que realice la auditoría de los estados financieros anuales en los siguientes casos:
+No obstante, deberá contratarse la misma firma de auditores que realice la auditoría de los estados financieros anuales cuando se publiquen con una opinión de los auditores, los estados de situación preparados a fechas intermedias.
 
-a) Cuando se publiquen, con una opinión de los auditores externos, los estados de situación preparados a fechas intermedias; y,
-
-b) Para acreditar el valor de mercado de bienes que se pretende recibir en pago de créditos adeudados por personas relacionadas, según lo dispuesto en el Capítulo 10-1 de esta Recopilación.
+Por el contrario, cuando se trate de alguno de los servicios que se indican en inciso segundo del artículo 242 de la Ley N° 18.045, sólo podrá contratarse a una empresa de auditores distinta de la que realice la auditoría de los estados financieros.
 
 ### 2. Designación de auditores por parte de esta Superintendencia
 
 Esta Superintendencia, en uso de sus facultades legales, puede exigir que los bancos contraten a su costo, una firma de auditores externos para efectuar auditorías de balances referidos a determinadas fechas; para obtener una opinión imparcial acerca de operaciones específicas, o para que se evalúe la eficacia de los controles internos de la institución.
 
-Por otra parte, en el evento de que esta Superintendencia detecte situaciones o hechos que a su parecer constituyen o pueden constituir omisiones o errores de apreciación importantes en la auditoría de estados financieros, o la presencia de un compromiso o lealtad inconveniente entre la gerencia y los auditores, podrá solicitar que se contrate otra firma, ya sea para realizar una revisión limitada de cuentas u operaciones específicas o para que se emita una segunda opinión acerca de los estados financieros en su conjunto, sin perjuicio de las sanciones que pueda imponer a la empresa que realizó la auditoría o al banco auditado, cuando corresponda.
+Por otra parte, en el evento de que existiera algún incumplimiento grave a las normas de auditoría por parte de la empresa encargada de la auditoría de los estados financieros anuales, esta Superintendencia podrá solicitar que se contrate otra firma de auditores, ya sea para realizar una revisión limitada de cuentas u operaciones específicas o para que se emita una segunda opinión acerca de los estados financieros en su conjunto, sin perjuicio de las sanciones que puede aplicar.
 
 ### III. TAREAS ESPECIALES ENCOMENDADAS POR ESTA SUPERINTENDENCIA A LOS AUDITORES EXTERNOS
 
-Las disposiciones de las letras f) y 1) del artículo 4° del D.L N° 3.538, conforme a lo dispuesto en el artículo 26 de la Ley General de Bancos, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
+Las disposiciones de las letras f) y l) del artículo 4° del D.L N° 3.538, conforme a lo dispuesto en el artículo 26 de la Ley General de Bancos, facultan a esta Superintendencia para inspeccionar a las entidades fiscalizadas por medio de auditores externos o designar a esos auditores a fin de que realicen las tareas que específicamente les encomiende.
 
 En uso de esas facultades, esta Superintendencia encargará labores especiales a los auditores externos en los bancos conforme al siguiente procedimiento:
 
