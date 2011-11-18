@@ -22,10 +22,6 @@ Resolución:
 
 > **Nota.** La Resolución 7270 exenta, Vivienda, publicada 18.11.2011, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, las filas correspondientes a don Juan Schulz Osorio, RUT 11.570.275-0, a doña Luisa Huenumán Antipán, RUT 6.996.882-1 y a doña Rosa Rivas Sepúlveda, RUT 6.678.593-9, los guarismos "40" por "75" y "455" por "490"; "40" por "43,46" y "455" por "485,46"; "40" por "75" y "455" por "490" respectivamente; y en las filas correspondientes a los Totales, los guarismos "4.083" por "4.156,46" y "50.868" por "50.941,46".
 
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 9553 Exenta, Vivienda, publicada 03.01.2012, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, en la fila correspondiente a la Sra. Luisa Fresia Huenumán Antipán, RUT 6.996.882-1, en la columna "Total subsidios" el guarismo "485,46" por "458,46".
-
-> **Nota.** NOTA 2 El numeral 1 de la Resolución 2797 Exenta, Vivienda, publicada el 12.04.2012, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, la fila del proyecto individual código 60895 correspondiente a don José Rosendo Burdiles Beltrán, por la Sra. Blanca Elena Acuña Miranda, RUT 7.507.412-3.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
