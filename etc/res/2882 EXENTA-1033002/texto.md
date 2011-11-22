@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.882, de 2 de noviembre de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 4.098, de 2009, que fue modificada a su vez por la resolución exenta Nº 3.099, de 2010, ambas de esta Subsecretaría, que autorizó a WILDLIFE CONSERVATION SOCIETY (Sucursal Chile) para efectuar una pesca de investigación, en el sentido de extender su vigencia hasta el 31 de marzo de 2012.
+
+Valparaíso, 2 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
