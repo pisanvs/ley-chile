@@ -224,7 +224,7 @@ De igual modo, en lo que le corresponda, esta resolución será también aplicab
 
 #### Artículo 8º
 
-La Subsecretaría de Transportes podrá eximir de la aplicación de las normas sobre presentación exterior y de publicidad a que se refieren los artículos anteriores, a los buses que se empleen con fines experimentales o de demostración de tecnologías vinculadas con propulsión eléctrica, uso de combustibles alternativos, disminución de emisiones contaminantes u otro, debiendo disponerse en el mismo acto que autorice la nueva presentación exterior, los requisitos que deberá cumplir ésta.
+La Subsecretaría de Transportes podrá eximir de la aplicación de las normas sobre presentación exterior, interior y de publicidad a que se refieren los artículos anteriores, a los buses que se empleen con fines experimentales o de demostración de tecnologías vinculadas con propulsión eléctrica, uso de combustibles alternativos, disminución de emisiones contaminantes, programas piloto de sistemas publicitarios y de información u otro, debiendo disponerse en el mismo acto que autorice la nueva presentación exterior, interior o publicidad, los requisitos que deberá cumplir ésta. Los programas piloto de sistemas publicitarios y de información deberán ser autorizados previamente por la Subsecretaría de Transportes, la que podrá fijar condiciones técnicas y de seguridad aplicables a los componentes del sistema de que se trate.
 
 El Ministerio de Transportes y Telecomunicaciones podrá utilizar el espacio interior del bus reservado para sus comunicaciones, para campañas de bien social.
 
