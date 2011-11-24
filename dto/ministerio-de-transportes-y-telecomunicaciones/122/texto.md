@@ -598,11 +598,11 @@ Las bases técnicas y administrativas que se empleen en las licitaciones públic
 
 #### Artículo 4°
 
-Los buses Tipo L referidos en la letra a) del artículo 2° anterior, además de cumplir con los requisitos técnicos relativos a capacidad de pasajeros a que se refiere el número 2 del articulo 3° precedente, deberán cumplir con los siguientes requisitos:
+Los buses Tipo L referidos en la letra a) del artículo 2° anterior, además de cumplir con los requisitos técnicos relativos a capacidad de pasajeros a que se refiere el número 2 del artículo 3° precedente, deberán cumplir con los siguientes requisitos:
 
 1. Puertas de servicio
 
-Deberá contar con dos puertas de servicio, una de las cuales estará ubicada en la mitad delantera y la otra detrás del eje trasero del vehículo; no obstante, dichas puertas podrán ser reemplazadas por una puerta doble ubicada en la mitad anterior del vehículo.
+Deberán tener, a lo menos, dos puertas de servicio.
 
 Las dimensiones y requisitos funcionales que deberán cumplir las puertas de servicio serán las señaladas en el N° 3 del artículo 3° anterior, salvo el requisito relativo al comando que opera simultáneamente todas las puertas de servicio; el ancho del espacio libre con las puertas abiertas, que será como mínimo 65 cm; el requisito de ancho mínimo de la protección del borde libre de las puertas que podrá ser 5 cm; y la prueba de la elasticidad de la protección, que no será exigible.
 
@@ -628,13 +628,7 @@ _______________________________________________________
 
 4. Pasillo
 
-Se aplica lo estipulado en el N° 6 del artículo 3°
-
-anterior, con la consideración de que el dispositivo
-
-de prueba que allí se especifica tenga las
-
-dimensiones siguientes:
+Se aplica lo estipulado en el N° 6 del artículo 3° anterior, con la consideración de que el dispositivo de prueba que allí se especifica tenga las dimensiones siguientes:
 
 _______________________________________________________
 
@@ -652,23 +646,11 @@ _______________________________________________________
 
 5. Asientos de pasajeros
 
-Los asientos para los pasajeros deberán ser del tipo
+Los asientos para los pasajeros deberán ser del tipo de butacas individuales, dispuestos transversalmente
 
-de butacas individuales, dispuestos transversalmente
+al eje longitudinal del vehículo y orientados en el sentido de marcha de éste.
 
-al eje longitudinal del vehículo y orientados en el
-
-sentido de marcha de éste.
-
-Además, se aplica lo indicado en las letras a2) y b)
-
-a e) del N° 7 del artículo 3° anterior, salvo
-
-respecto de las dimensiones y espaciamiento que se
-
-detallan más adelante, en que se aplicarán los
-
-valores que en cada caso se indican;
+Además, se aplica lo indicado en las letras a2) y b) a e) del N° 7 del artículo 3° anterior, salvo respecto de las dimensiones y espaciamiento que se detallan más adelante, en que se aplicarán los valores que en cada caso se indican;
 
 _______________________________________________________
 
