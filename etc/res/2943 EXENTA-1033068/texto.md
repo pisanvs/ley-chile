@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.943, de 7 de noviembre de 2011, de esta Subsecretaría, modifícase la resolución exenta Nº 1.412, de 2011, de esta Subsecretaría de Pesca que autorizó a la UNIVERSIDAD CATÓLICA DEL NORTE, Sede Coquimbo para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto FIP 2011-02 denominado "Evaluación Directa de camarón nailon entre la II y la VIII Regiones, año 2011", en el sentido de incorporar, en el numeral 8, el siguiente inciso final:
+
+"Asimismo, para efectos de la presente pesca de investigación, se exceptúa el cumplimiento del porcentaje de desembarque de las especies langostino amarillo y langostino colorado en la pesca dirigida a camarón nailon, entre la II y la VIII Región, establecido en el decreto Nº 184, de 2011, del Ministerio de Economía, Fomento y Turismo.".
+
+Valparaíso, 7 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
