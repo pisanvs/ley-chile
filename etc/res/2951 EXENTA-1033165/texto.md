@@ -1,0 +1,5 @@
+Por resolución exenta Nº2.951, de 10 de noviembre de 2011, de esta Subsecretaría, modifíquese el numeral 1º letra b) de la resolución exenta Nº 475 de 2011, y sus modificaciones posteriores, todas de esta Subsecretaría, que distribuye para el año 2011 la fracción artesanal de pesquería de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales, en el sentido de modificar las asignaciones para el recurso Sardina común correspondiente a la organización SINDICATO DE PESCADORES Y ARMADORES ARTESANALES DEL MAR, Registro sindical único 08.05.0399 y al SINDICATO INDEPENDIENTE DE ARMADORES Y PESCADORES ARTESANALES AFINES, Registro Sindical único 08.07.0398, de acuerdo con lo siguiente:
+
+b) Pesquería artesanal de Sardina común:
+
+Valparaíso, 10 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
