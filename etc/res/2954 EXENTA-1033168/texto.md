@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.954, de 10 de noviembre de 2011, de esta Subsecretaría, modifíquese el numeral 1º letra b) de la resolución exenta Nº 347 de 2011, de esta Subsecretaría, y sus modificaciones posteriores, que distribuye la fracción artesanal de pesquería de Anchoveta, Sardina común y Jurel en la XIV Región, sometida al Régimen Artesanal de Extracción por unidad de asignación organizaciones de pescadores artesanales para el período comprendido entre la fecha de entrada en vigencia de la resolución antes indicada y el 31 de diciembre de 2011, en el sentido de modificar las asignaciones para los recursos Anchoveta y Sardina común correspondientes a la organización artesanal ASOCIACIÓN GREMIAL DE ARMADORES CERQUEROS DE LA REGIÓN DE LOS RÍOS, Registro de Asociación Gremial Nº 3.793, de acuerdo con lo siguiente:
+
+b) Pesquería artesanal de Sardina común:
+
+Valparaíso, 10 de noviembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
