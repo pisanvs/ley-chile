@@ -1,0 +1,7 @@
+REORGANIZA ÁREA JURÍDICA DE DIRECCIONES REGIONALES QUE INDICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 134, de 23 de noviembre de 2011, que señala:
+
+Crea Oficina de Procedimientos Administrativos Tributarios en la X Dirección Regional Puerto Montt; revoca autorización para delegar facultades que indica y autoriza delegación de facultades que señala. Suprime Departamento Tribunal Tributario y Oficina Jurídica, y crea Departamento Jurídico en la XI Dirección Regional Coyhaique; revoca delegación de facultades que indica; modifica resolución que señala; delega facultad que indica y autoriza delegación de facultades que señala. Crea Oficina de Procedimientos Administrativos Tributarios en la XVII Dirección Regional Valdivia; revoca autorización para delegar facultades que indica y autoriza delegación de facultades que señala. Suprime Oficina Jurídica y crea Departamento Jurídico en la XVIII Dirección Regional Arica; revoca delegación de facultades que indica; modifica resolución que señala; delega facultad que indica, autoriza revocación de delegación de facultades que indica y delegación de facultades que señala.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2011.
