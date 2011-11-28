@@ -1,0 +1,17 @@
+MODIFICA RESOLUCIÓN N° 2.746 EXENTA, DE 2011, QUE DISPONE EL LLAMADO ESPECIAL PARA SELECCIÓN DE PROYECTOS EN LAS COMUNAS DE TALCA, CURICÓ, LINARES, CAUQUENES Y CONSTITUCIÓN, DE LA REGIÓN DEL MAULE; EN LAS COMUNAS DE CONCEPCIÓN, TALCAHUANO, CHIGUAYANTE, CHILLÁN, CHILLÁN VIEJO, TOMÉ, LOS ÁNGELES, LOTA, CORONEL, PENCO, ARAUCO, CAÑETE, CURANILAHUE Y LEBU, DE LA REGIÓN DEL BIOBÍO; EN LA COMUNA DE VALPARAÍSO, DE LA REGIÓN DE VALPARAÍSO; EN LAS COMUNAS DE RANCAGUA, SAN FERNANDO, RENGO, SAN VICENTE DE TAGUA TAGUA Y SANTA CRUZ, DE LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS; EN LA COMUNA DE ANGOL, EN LA REGIÓN DE LA ARAUCANÍA, CONFORME AL ARTÍCULO 46 DEL DECRETO N°40, DE 2004, EN EL SENTIDO DE REEMPLAZAR LAS ZONAS DEL CASCO URBANO DE LAS COMUNAS QUE SE INDICAN
+
+Santiago, 22 de noviembre de 2011.- Hoy se resolvió lo que sigue:
+
+Núm. 7.670 exenta.- Visto: El DS N° 40 (V. y U.), de 2004, y sus modificaciones, que regula el Sistema de Subsidio Habitacional, en especial su artículo 46; la resolución exenta N° 8.816, de fecha 31 de diciembre de 2010; el DS N° 332 (V. y U.), de 2000, y sus modificaciones, que Reglamenta el Sistema de Atención Habitacional para Situaciones de Emergencia; el DS N° 150, de Interior, de 2010, que señala como zona afectada por la catástrofe derivada del sismo de gran magnitud a las Regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía y Metropolitana, prorrogado por DS N° 148, de Interior, de 2011; la resolución exenta N° 2.746 (V. y U.), de fecha 4 de mayo de 2011, publicada en el Diario Oficial de 14 de mayo de 2011, que dispone el Llamado Especial para Selección de Proyectos en las comunas de Talca, Curicó, Linares, Cauquenes y Constitución, de la Región del Maule, y sus modificaciones, contenidas en las resoluciones exentas N° 4.089, N° 4.791, N° 5.198, N° 5.654, N° 6.863, todas de Vivienda y Urbanismo, de 2011, publicadas en el Diario Oficial de fechas 19 de julio de 2011, 17 de agosto de 2011, 5 de septiembre de 2011, 23 de septiembre de 2011, 29 de octubre de 2011, respectivamente.
+
+Considerando: La necesidad de modificar la resolución exenta N°2.746 (V. y U.), de 2011, en el sentido de reemplazar los anexos que definen las zonas del casco urbano donde deberán estar emplazados los proyectos seleccionados correspondientes a las comunas de Linares, Cauquenes, Curicó y Constitución, todas de la Región del Maule, y la comuna de Concepción, de la Región del Biobío, con el objetivo de incorporar nuevas zonas que también fueron afectadas por el sismo del 27de febrero de 2010.
+
+Resolución:
+
+1°.- Reemplázase en los anexos adjuntos a la resolución exenta N°2.746 (V. y U.), de 2011, que fijan las zonas del casco urbano de las comunas de Linares, Cauquenes, Curicó y Constitución, todas de la Región del Maule, y la comuna de Concepción, de la Región del Biobío, definidas por la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, por los anexos que se adjuntan a la presente resolución.
+
+Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
+
+VER DIARIO OFICIAL 28.11.2011, PÁGINA 4-6, CUERPO I.
