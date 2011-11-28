@@ -372,6 +372,32 @@ a continuación se indican:
 
 Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para Proyectos Patrimoniales
 
+En caso que Serviu verifique que un mismo
+
+Informe de Diagnóstico Patrimonial, se
+
+utiliza para más de una vivienda, sea que
+
+se postulen individual o colectivamente,
+
+independientemente de que los informes se
+
+ingresen en una misma o varias instancias,
+
+el incremento de 2 UF señalado en la tabla
+
+precedente se pagará por una de las
+
+viviendas, ascendiendo en las sucesivas a
+
+0,5 UF por familia, sin importar el tamaño
+
+del proyecto o la cantidad de proyectos
+
+individuales o colectivos en los cuales
+
+se utilice dicho Informe.
+
 El incremento de los honorarios establecidos en
 
 la presente Resolución, se pagará una
