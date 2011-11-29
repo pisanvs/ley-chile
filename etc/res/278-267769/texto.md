@@ -38,11 +38,7 @@ Sin perjuicio de lo anterior, la cantidad de alumnos que se encuentren en alguna
 
 B.- Total de Subsidios al Semestre
 
-Con cargo al Fondo de Subsidio de Becas, CORFO financiará hasta 400 subsidios semestralmente, que beneficiarán tanto a alumnos nuevos como a alumnos regulares.
-
-Para el caso en que la demanda no permitiere asignar el número de subsidios señalados, el saldo disponible de recursos podrá ser destinado a financiar un último semestre de titulación o un quinto semestre para cursar asignaturas pendientes, previa autorización del Director Regional del Biobío de CORFO.
-
-En ningún caso el número de subsidios otorgados podrá ser inferior a 300. Si la demanda no permitiere asignar este número, sólo podrá utilizarse para los fines señalados en el párrafo anterior, el saldo de recursos que exceda del cálculo del financiamiento de las 300 becas, o la matrícula real si ésta fuere superior a ese número, y los 400 subsidios contemplados, más los recursos derivados de deserciones u otra causa.
+Con cargo al Fondo de subsidios de becas, CORFO financiará hasta 400 subsidios semestralmente, que beneficiarán a alumnos nuevos y a alumnos que asistan regularmente al Centro de Formación Técnica-CFT.
 
 C.- Tipo de Subsidios
 
@@ -220,7 +216,7 @@ Los recursos para el financiamiento del programa provendrán del presupuesto de 
 
 IV.3. Pago de las Subvenciones
 
-El pago de las subvenciones descritas en el presente Reglamento, se efectuará una vez que se encuentre totalmente tramitada la resolución del Director Regional del Biobío de CORFO, en la que se identifique a los beneficiarios y el tipo de beca; otorgada y disponga la transferencia de los recursos.
+El pago de las subvenciones descritas en el presente Reglamento se efectuará al inicio de cada semestre académico, una vez que se encuentre totalmente tramitada la resolución del Director Regional de la Corporación en la Región del Bío-Bío, que identifique a los alumnos beneficiados y el tipo de beca asignada y disponga la transferencia de los subsidios que correspondan.
 
 ### V. EVALUACIÓN DE LAS OPERACIONES
 
