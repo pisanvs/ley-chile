@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3441 de 28 de octubre de 2011, se expropiaron los lotes de terreno N°s. 81 y 83, superficies 778 y 617 m2, rol de Avalúo 1098-38, comuna de Quillón, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietario FRANCISCO AIRO MARDONES ROJAS, ascendente a la cantidad de $2.152.110.-
+
+Fiscal del Ministerio de Obras Públicas.
