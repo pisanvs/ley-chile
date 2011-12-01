@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 6.929, 22 de noviembre de 2011, Serviu Región del Biobío ordenó expropiación total del inmueble ubicado en M. Rodríguez 302 de la comuna de Talcahuano, Rol de Avalúo Nº 29-1 de esa comuna de dominio de Empresa Orizon S.A. La parte afecta a expropiación tiene una superficie de 14.298 m2. de terreno y 10.336,0 m2 de edificación, más obras complementarias y cuyos linderos particulares, enmarcados en el polígono A, B, C, D, E, A del plano S8R-26.398, para la ejecución Programa de Expropiaciones para los años 2011 y siguientes para la Región del Biobío, destinado a la adquisición de inmuebles, en la comuna de Talcahuano, para construcción de viviendas para residentes en las aldeas de emergencia, enmarcado en programa de reconstrucción del sismo del 27 de febrero de 2010. Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por el arquitecto Leonardo Fasce Casanueva, el arquitecto Rubén Muñoz Vera, y el ingeniero civil Orlando Paredes Vásquez que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación y obras complementarias expropiadas en la suma de $3.077.621.405. El monto definitivo de indemnización por esta expropiación, será fijado de conformidad a resolución exenta Nº 5.926 de 19 de octubre de 2011.
+
+Director Serviu Región del Biobío.
