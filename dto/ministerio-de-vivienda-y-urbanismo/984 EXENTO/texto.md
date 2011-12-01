@@ -8,7 +8,7 @@ Decreto:
 
 1º.- Apruébase el siguiente programa de expropiaciones para los años 2011 y siguientes, para el desarrollo de un Plan de Expropiación de un terreno de 2,79 hectáreas que forma parte del Lote H-3-b, de mayor superficie, ubicado en el Sector Punta Norte, Chacalluta, inscrito a fojas 5.696 Nº 2.947, del Registro de Propiedad del Conservador de Bienes Raíces de Arica, del año 2002, para llevar a cabo en dicho terreno programas de construcción de viviendas con aplicación de subsidios habitacionales del Programa Fondo Solidario de Vivienda, modalidad Construcción en Nuevos Terrenos, otorgados a las familias afectadas por la contaminación de polimetales en la ciudad y comuna de Arica, terreno que se encuentra emplazado en un lote de mayor cabida ubicado entre las calles Capitán Ávalos, avenida Robinson Rojas y Linderos Poniente, de la referida ciudad y comuna:
 
-Inmuebles a expropiar: 2,79 hectáreas aproximadamente.
+Inmuebles a expropiar: 3,2581 hectáreas.
 
 2º.- El Serviu Región de Arica y Parinacota deberá dar estricto cumplimiento a las observaciones contenidas en la Conclusión del Informe Técnico elaborado por el arquitecto tasador Sr. Gustavo Cardemil Dávila, anexo al Ord. Nº 526, de 28 de julio de 2011, de la División Técnica de Estudio y Fomento Habitacional del Minvu, copia del cual se adjunta y se entenderá forma parte integrante del presente decreto.
 
