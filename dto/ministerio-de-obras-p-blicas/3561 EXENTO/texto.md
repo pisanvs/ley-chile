@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3561, de 28 de octubre de 2011, se expropió el lote de terreno Nº1, superficie 693 m2., Rol Nº384-175, comuna de Pitrufquén, IX Región, "DISEÑO DEFINITIVO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES DE RIEGO PROYECTO FAJA MAISAN", "CANAL SANTA ANA DERIVADO 3-1", y se acordó el valor de indemnización con su propietario WALTER ALBERTO PERLWITZ MORALES, ascendente a la cantidad de $502.852.-
+
+Fiscal del Ministerio de Obras Públicas.
