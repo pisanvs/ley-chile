@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3459, de 28 de octubre de 2011, se expropió el lote de terreno Nº38, superficie 320 m2., Rol Nº561-136, comuna de Tomé, VIII Región, "CAMINO RUTA 126, SECTOR COELEMU - RAFAEL - TOMÉ, TRAMO II, KM. 20,30000 A KM. 23,92041", y se acordó el valor de indemnización con su propietario don MARCIAL ANTONIO ARELLANO PARRA, ascendente a la cantidad de $2.155.461.-
+
+Fiscal del Ministerio de Obras Públicas.
