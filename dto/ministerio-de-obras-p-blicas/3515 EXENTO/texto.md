@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3515, de 28 de octubre de 2011, se expropió el lote de terreno Nº1-C, superficie 2.312 m2., Rol Nº236-78, comuna de Pucón, IX Región, "PROYECTO DEFINITIVO PUENTE QUELHUE, CAMINO PUCÓN CURARREHUE, SECTOR KM. 0,00000 A KM. 0,76686", y se acordó el valor de indemnización con su propietaria INVERSIONES PUCÓN LIMITADA, ascendente a la cantidad de $14.162.613.-
+
+Fiscal del Ministerio de Obras Públicas.
