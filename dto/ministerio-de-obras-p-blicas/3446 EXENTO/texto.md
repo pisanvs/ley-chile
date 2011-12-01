@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3446 de 28 de octubre de 2011, se expropió el lote de terreno Nº10, superficie 1.891 m2, rol de Avalúo 1168-209, E/T, comuna de Ancud, para la obra "AMPLIACION REPOSICION RUTA 5 CHILOE, BIF. PUENTE BICENTENARIO – BIF. PUPELDE, TRAMO 1 VARIANTE CHACAO", X REGION DE LOS LAGOS", y se acordó el valor de la indemnización con su propietario HÉCTOR DAGOBERTO TORRES CÁRCAMO, ascendente a la cantidad de $5.284.852.-
+
+Fiscal del Ministerio de Obras Públicas.
