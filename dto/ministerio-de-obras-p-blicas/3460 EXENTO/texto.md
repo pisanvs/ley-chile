@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3460, de 28 de octubre de 2011, se expropió el lote de terreno Nº39, superficie 461 m2., Rol Nº561-135, comuna de Tomé, VIII Región, "CAMINO RUTA 126, SECTOR COELEMU - RAFAEL - TOMÉ, TRAMO II, KM. 20,30000 A KM. 23,92041", y se acordó el valor de indemnización con su propietario don MANUEL FERNANDO CABRALES TEJEDA, ascendente a la cantidad de $1.544.062.-
+
+Fiscal del Ministerio de Obras Públicas.
