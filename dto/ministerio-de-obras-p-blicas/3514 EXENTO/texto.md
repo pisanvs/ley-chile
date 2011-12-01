@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3514, de 28 de octubre de 2011, se expropió el lote de terreno Nº1, superficie 2.538 m2., Rol Nº26-3, comuna de Lolol, VI Región, "MEJORAMENTO RUTA I-70-J, SECTOR LOLOL - RANGUIL, TRAMO KM. 0,00000 A KM. 19,38878", y se acordó el valor de indemnización con su propietario don FACUNDO LOZANO MANZANARES, ascendente a la cantidad de $15.000.165.-
+
+Fiscal del Ministerio de Obras Públicas.
