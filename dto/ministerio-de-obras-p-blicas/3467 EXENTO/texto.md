@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3467 de 28 de octubre de 2011, se expropiaron los lotes de terrenos N°s. 39 y 40-A, superficies 82 y 163 m2, rol de Avalúo 1248-65 y 1248-66, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietaria PABLA YOLANDA MENDOZA MUÑOZ, ascendente a la cantidad de $518.175.-
+
+Fiscal del Ministerio de Obras Públicas.
