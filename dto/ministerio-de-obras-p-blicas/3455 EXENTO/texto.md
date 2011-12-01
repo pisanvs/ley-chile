@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3455, de 28 de octubre de 2011, se expropió el lote de terreno Nº18, superficie 1.114 m2., Rol Nº162-104, comuna de Puerto Octay, X Región, "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS - ENSENADA, KM. 31,33730 A KM. 50,60320", y se acordó el valor de indemnización con su propietaria INVERSIONES LAS CUMBRES LIMITADA, ascendente a la cantidad de $5.032.666.-
+
+Fiscal del Ministerio de Obras Públicas.
