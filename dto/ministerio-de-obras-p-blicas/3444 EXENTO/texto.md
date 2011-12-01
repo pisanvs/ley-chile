@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3444 de 28 de octubre de 2011, se expropiaron los lotes de terrenos N°s. 17 y 18, superficies 2.948 y 801 m2, rol de Avalúo 209-01, comuna de Chaitén, para la obra "MEJORAMIENTO RUTA 7, SECTOR MICHIMAHUIDA – PUERTO CÁRDENAS ( PUENTE YELCHO) KM. 30,50000 A KM. 45,95163", X Región y se acordó el valor de la indemnización con sus propietaria ULDA SOTO ALTAMIRANO, ascendente a la cantidad de $1.305.143.-
+
+Fiscal del Ministerio de Obras Públicas.
