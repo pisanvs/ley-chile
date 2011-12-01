@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3443 de 28 de octubre de 2011, se expropió el lote de terreno Nº23-A, superficie 578 m2, rol de Avalúo 1410-20, comuna de Llanquihue, para la obra "CAMINO RUTA V- 40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE – LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000", X Región y se acordó el valor de la indemnización con sus propietarios HERNAN MAURICIO GOTSCHLICH WERNER Y OTRA, ascendente a la cantidad de $1.230.572.-
+
+Fiscal del Ministerio de Obras Públicas.
