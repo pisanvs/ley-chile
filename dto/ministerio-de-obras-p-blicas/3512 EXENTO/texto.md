@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°3512 de 28 de octubre de 2011, se expropió el lote de terreno Nº2-J, superficie 241,69 m2, rol de Avalúo 429-62, comuna de Ancud, para la obra "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO – BIF. PUPELDE, TRAMO 8 VARIANTE ANCUD", Comuna de Ancud, X Región y se acordó el valor de la indemnización con su propietaria RUTH MÓNICA ANTIMAN LINZ, ascendente a la cantidad de $21.844.748.-
+
+Fiscal del Ministerio de Obras Públicas.
