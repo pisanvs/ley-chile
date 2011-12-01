@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3450, de 28 de octubre de 2011, se expropió el lote de terreno Nº16, superficie 86 m2., Rol Nº3400-23, comuna de Puerto Montt, X Región, "CAMINO RUTA 7, SECTOR LENCA - CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", y se acordó el valor de indemnización con su propietaria MARGARITA LAFUENTE GUTIÉRREZ, ascendente a la cantidad de $629.259.-
+
+Fiscal del Ministerio de Obras Públicas.
