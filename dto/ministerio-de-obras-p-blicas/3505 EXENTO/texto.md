@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3505 de 28 de octubre de 2011, se expropió el lote de terreno Nº62, superficie 555 m2, rol de Avalúo 602-54, comuna de Tomé, para la obra "CAMINO RUTA 126, SECTOR COELEMU – RAFAEL – TOMÉ, TRAMO II, KM. 23,92041 A KM. 25,77000, VIII Región y se acordó el valor de la indemnización con sus propietarios BELARMINO ROJAS ROJAS Y OTRA, ascendente a la cantidad de $1.722.235.-
+
+Fiscal del Ministerio de Obras Públicas.
