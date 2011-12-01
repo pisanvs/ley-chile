@@ -1,0 +1,3 @@
+Por Decreto MOP Exento N°4301 de 28 de noviembre de 2011, se expropiaron los lotes de terrenos N°s. 1, 2, 3, 13, 14 y 15, superficies 2.656, 3.462, 2.682, 1.917, 2.599 y 1.971 m2, rol de Avalúo E/T, comuna de Chaitén, para la obra "MEJORAMIENTO RIPIO RUTA 7, SECTOR LEPTEPU - FIORDO LARGO TRAMO KM. 0,00000 A KM. 10,03805", X Región y se acordó el valor de la indemnización con su propietaria THE CONSERVATION LAND TRUST, ascendente a la cantidad de $12.454.170.-
+
+Fiscal del Ministerio de Obras Públicas.
