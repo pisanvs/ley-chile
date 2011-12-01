@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3461 de fecha 28 de octubre de 2011, se expropiaron los lotes de terrenos Nºs. 1, 3 y 4, superficies 384, 379 y 365 m2., Roles Nºs. 105-65 105-62, comuna de Peralillo, para la obra "REPOSICIÓN PUENTE LAS TOSCAS EN RUTA I-318, KM. 0,00000 A KM. 0,40000" , VI Región y se acordó el valor de indemnización con su propietaria la SOCIEDAD SAN JAVIER DE LIHUEIMO S.A., ascendente a la cantidad de $1.191.245.-
+
+Fiscal del Ministerio de Obras Públicas.
