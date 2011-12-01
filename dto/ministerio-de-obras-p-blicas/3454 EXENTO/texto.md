@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3454 de 28 de octubre de 2011, se expropió el lote de terreno Nº7, superficie 55 m2, rol de Avalúo 1246-108, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietario SERGIO IVÁN VERA SANHUEZA, ascendente a la cantidad de $189.422.-
+
+Fiscal del Ministerio de Obras Públicas.
