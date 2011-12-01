@@ -1,0 +1,7 @@
+ORDENA EXPROPIACIÓN PARCIAL Y TOTAL DE INMUEBLES QUE INDICA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 6.930, 22 de noviembre de 2011, Serviu Region del Biobío ordenó expropiación total del inmueble ubicado en Pérez Gacitúa 55 de la comuna de Talcahuano, rol de avalúo Nº 29-2 de esa comuna de dominio de Empresa Orizon S.A. La parte afecta a expropiación tiene una superficie de 2.374 m2. de terreno y 2.721 m2 de edificación, más obras complementarias y cuyos linderos particulares, enmarcados en el polígono E, F, G, H, E del plano S8R-26.399, para la ejecución Programa de Expropiaciones para los años 2011 y siguientes para la Región del Biobío, destinado a la adquisición de inmuebles, en la comuna de Talcahuano, para construcción de viviendas para residentes en las aldeas de emergencia, enmarcado en programa de reconstrucción del sismo del 27 de febrero de 2010. Comisión Peritos integrada por el arquitecto Leonardo Fasce Casanueva, el arquitecto María Pamela Mac-Guire Acevedo, y el constructor civil Italo Zerga Arancibia que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación y obras complementarias expropiadas en la suma de $468.226.024. El monto definitivo de indemnización por esta expropiación, será fijado de conformidad a resolución exenta Nº5.926 de 19 de octubre de 2011.
+
+Director Serviu Región del Biobío.
