@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3513, de 28 de octubre de 2011, se expropiaron los lotes de terreno N°s. 85 y 87, superficies 3.401 y 2.731 m2., Rol Nº1451-44, comuna de Puerto Varas, X Región, "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS - ENSENADA, KM. 31,33730 A KM. 50,60320", y se acordó el valor de indemnización con su propietaria INVERSIONES INVIERTA PATAGONIA LIMITADA, ascendente a la cantidad de $21.355.815.-
+
+Fiscal del Ministerio de Obras Públicas.
