@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3453, de 28 de octubre de 2011, se expropió el lote de terreno Nº32, superficie 246 m2., Rol Nº2206-362, comuna de Puerto Montt, X Región, "CAMINO RUTA 7, SECTOR LENCA - CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", y se acordó el valor de indemnización con su propietario JOSÉ RUBÉN CHÁVEZ SOTO, ascendente a la cantidad de $1.348.758.-
+
+Fiscal del Ministerio de Obras Públicas.
