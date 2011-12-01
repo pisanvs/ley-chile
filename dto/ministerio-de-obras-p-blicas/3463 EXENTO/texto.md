@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3463 de 28 de octubre de 2011, se expropiaron los lotes de terrenos N°s. 29 y 30, superficies 654 y 457 m2, rol de Avalúo 1247-39, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietario NELSON ANTONIO SALAS OLIVARES, ascendente a la cantidad de $11.580.291.-
+
+Fiscal del Ministerio de Obras Públicas.
