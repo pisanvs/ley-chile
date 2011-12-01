@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3462 de 28 de octubre de 2011, se expropiaron los lotes de terrenos N°s. 99 y 100-A, superficies 5.460 y 936 m2, rol de Avalúo 1451-96, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320", COMUNA DE PUERTO OCTAY Y PUERTO VARAS, X REGIÓN y se acordó el valor de la indemnización con su propietaria la SOCIEDAD DE SERVICIOS AUTOMOTRICES DEL SUR LIMITADA, ascendente a la cantidad de $21.796.710.-
+
+Fiscal del Ministerio de Obras Públicas.
