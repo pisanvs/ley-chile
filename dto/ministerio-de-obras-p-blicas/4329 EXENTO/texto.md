@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°4329, de 28 de noviembre de 2011, se expropiaron los lotes de terreno Nºs. 10, 11 y 12, superficies 17.537, 22.736 y 17.517 m2., Rol Nº 102-226, comuna de Chaitén, X Región, "MEJORAMIENTO RIPIO RUTA 7, SECTOR LEPTEPU – FIORDO LARGO, TRAMO KM. 0,00000 A KM. 10,03805", y se acordó el valor de indemnización con su propietaria FUNDACIÓN PUMALÍN, ascendente a la cantidad de $12.009.761.-
+
+Fiscal del Ministerio de Obras Públicas.
