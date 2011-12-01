@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3464, de 28 de octubre de 2011, se expropió el lote de terreno Nº45, superficie 152 m2., Rol Nº3450-27, comuna de Puerto Montt, X Región, "CAMINO RUTA 7, SECTOR LENCA - CHAICA, TRAMO KM. 27,89372 A KM. 33,17100", y se acordó el valor de indemnización con su propietaria MARÍA ORFELINA CHÁVEZ MENOR, ascendente a la cantidad de $799.666.-
+
+Fiscal del Ministerio de Obras Públicas.
