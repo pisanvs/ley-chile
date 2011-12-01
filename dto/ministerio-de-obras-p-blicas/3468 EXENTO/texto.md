@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3468 de 28 de octubre de 2011, se expropió el lote de terreno Nº51, superficie 580 m2, rol de Avalúo 1247-58, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietario JORGE EDUARDO FIGUEROA BURGOS, ascendente a la cantidad de $654.758.-
+
+Fiscal del Ministerio de Obras Públicas.
