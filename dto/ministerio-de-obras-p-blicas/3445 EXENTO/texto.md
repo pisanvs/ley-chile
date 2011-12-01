@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3445, de 28 de octubre de 2011, se expropiaron los lotes de terreno N°s- 44 y 45, superficies 1.343 y 675 m2., Rol Nº522-14, comuna de Tirúa, VIII Región, "MEJORAMIENTO CAMINO COSTERO S: TIRÚA - LÍMITE REGIONAL", y se acordó el valor de indemnización con sus propietarios don JULIO HERNÁN CARBULLANCA DE LA VEGA Y OTROS, ascendente a la cantidad de $1.255.357.-
+
+Fiscal del Ministerio de Obras Públicas.
