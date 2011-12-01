@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3458, de 28 de octubre de 2011, se expropiaron los lotes de terreno N°s. 31, 32 y 32-A, superficies 543, 304 y 47 m2., Rol Nº155-248, comuna de Las Cabras, VI Región, "MEJORAMIENTO RUTA H-780, SECTOR LAS CABRAS - EL MANZANO, TRAMO KM. 3,56000 AL KM. 19,47571", y se acordó el valor de indemnización con sus propietarios LUIS ANDRÉS GAMBOA TOBAR Y OTROS, ascendente a la cantidad de $2.533.003.-
+
+Fiscal del Ministerio de Obras Públicas.
