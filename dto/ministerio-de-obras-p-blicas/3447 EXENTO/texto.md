@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3447, de 28 de octubre de 2011, se expropió el lote de terreno Nº49, superficie 906 m2., Rol Nº3250-460, comuna de Temuco, IX Región, "CAMINO RUTA S-30 SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", y se acordó el valor de indemnización con su propietaria INMOBILIARIA E INVERSIONES CASAGRANDE SOCIEDAD ANÓNIMA, ascendente a la cantidad de $10.600.144.-
+
+Fiscal del Ministerio de Obras Públicas.
