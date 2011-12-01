@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3573, de 28 de octubre de 2011, se expropió el lote de terreno Nº1, superficie 468 m2., Rol Nº383-102, comuna de Pitrufquén, IX Región, "ESTUDIO DE INGENIERÍA DEL SISTEMA DE RIEGO DE LA RED SECUNDARIA Y TERCIARIA DE CANALES FAJA MAISAN", OBRA: "CANAL LOS LINGUES SUR DERIVADO 4 EXTENDIDO", y se acordó el valor de indemnización con su propietario LUIS ANTONIO ROUDERGUE MUÑOZ, ascendente a la cantidad de $448.149.-
+
+Fiscal del Ministerio de Obras Públicas.
