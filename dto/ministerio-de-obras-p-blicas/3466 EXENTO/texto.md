@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº3466, de 28 de octubre de 2011, se expropiaron los lotes de terreno N°s. 2, 2-A y 3, superficies 464, 164 y 1.082 m2., Rol Nº916-1, comuna de Alto del Carmen, III Región, " MEJORAMIENTO RUTA C-495, EL TRÁNSITO - JUNTA DE VALERIANO, ETAPA II" (LA PAMPA - CONAY, KM. 46,42610 AL KM. 49,80000), y se acordó el valor de indemnización con sus propietarios ANTONIA DEL CARMEN ARDILES ALDAY Y OTROS, ascendente a la cantidad de $4.123.547.-
+
+Fiscal del Ministerio de Obras Públicas.
