@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3451 de 28 de octubre de 2011, se expropió el lote de terreno Nº87, superficie 570 m2, rol de Avalúo 1098-269, comuna de Quillón, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietario LUIS HERNÁN CARRASCO VIDAL, ascendente a la cantidad de $755.857.-
+
+Fiscal del Ministerio de Obras Públicas.
