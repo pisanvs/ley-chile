@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3560 de 28 de octubre de 2011, se expropió el lote de terreno Nº56, superficie 373 m2, rol de Avalúo 1247-163, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO", VIII Región y se acordó el valor de la indemnización con su propietaria LIDIA DEL CARMEN QUEZADA QUEZADA, ascendente a la cantidad de $1.358.858.-
+
+Fiscal del Ministerio de Obras Públicas.
