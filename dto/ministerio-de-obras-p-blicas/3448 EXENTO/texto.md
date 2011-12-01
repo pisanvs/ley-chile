@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº3448 de 28 de octubre de 2011, se expropiaron los lotes de terrenos N°s. 30 y 31, superficies 1.054 y 1.435 m2, rol de Avalúo 67-192, comuna de Lago Ranco, para la obra "CONSTRUCCIÓN PUENTES CAICAYEN Y HUEINAHUE CAMINO MAIHUE – HUEINAHUE - RUPUMEICA". COMUNA DE LAGO RANCO, XIV REGIÓN, y se acordó el valor de la indemnización con sus propietarios TELMO RAIHUANQUE PRIETO, ascendente a la cantidad de $8.361.528.-
+
+Fiscal del Ministerio de Obras Públicas.
