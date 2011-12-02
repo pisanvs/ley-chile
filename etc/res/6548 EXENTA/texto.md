@@ -56,7 +56,7 @@ Alternativamente, el interesado podrá ingresar la DTI independiente del sistema
 
 7. Las operaciones de tránsito, transbordo y redestinación deberán continuar siendo garantizadas conforme a las instrucciones actualmente vigentes contempladas en los numerales 19.3; 20.3 y 21.3 del Capítulo III del Compendio de Normas Aduaneras. No obstante lo anterior, en el caso de garantías individuales, la persona que tramite la operación deberá mantener dicha garantía como un antecedente en la carpeta de despacho, la que podrá ser requerida en cualquier momento por el Servicio de Aduanas. En el caso de garantías globales, éstas deberán continuar siendo custodiadas por la Aduana respectiva.
 
-8. Una vez aceptada por el sistema, la declaración deberá ser impresa en la misma cantidad de ejemplares y de acuerdo a la distribución que contempla el Anexo 33 del Compendio de Normas Aduaneras. No obstante lo anterior, el formulario Anexo de la Declaración, cuando proceda, deberá ser presentado conforme al formato que actualmente contempla el Anexo 33 antes citado. Para estos efectos, la persona que tramita la operación deberá señalar el número de aceptación de la DTI en el respectivo recuadro del formulario Anexo.
+8. Una vez aceptada por el sistema, la declaración deberá ser impresa en la misma cantidad de ejemplares y de acuerdo a la distribución que contempla el Anexo 33 del Compendio de Normas Aduaneras junto con el Formulario Anexo de la Declaración, cuando proceda.
 
 9. Las DTI aceptadas a trámite por el Servicio de Aduanas, podrán ser aclaradas o anuladas mediante la transmisión electrónica de una Solicitud de Aclaración o Solicitud de Anulación, según corresponda. Para estos efectos, la persona que presentó la declaración deberá ingresar a la opción Mantención DTI del sistema y seleccionar la opción Aclarar o Anular DTI.
 
@@ -68,7 +68,7 @@ En el Anexo N° 2 de estas instrucciones se detallan los campos que podrán ser 
 
 10. Tratándose de operaciones anticipadas en las que no se hubieren consignado los datos asociados al Almacenista, en forma previa al retiro de las mercancías desde los Recintos de Depósito Aduanero la persona que tramitó la operación deberá presentar una aclaración electrónica señalando los datos requeridos en el recuadro Almacenaje Aduana Origen de la declaración, la que será autorizada en forma automática por el sistema. Dicha información constituirá un requisito para el retiro de las mercancías.
 
-11. Para el retiro de la carga desde los recintos de depósito aduanero, el interesado deberá presentar la Declaración debidamente aprobada por el Servicio de Aduanas y firmada por la persona que tramita la operación y el formulario Anexo de la Declaración, cuando proceda, el que deberá cumplir con lo señalado en el numeral 8 anterior.
+11. Para el retiro de la carga desde los recintos de depósito aduanero, el interesado deberá presentar la Declaración debidamente aprobada por el Servicio de Aduanas y firmada por la persona que tramita la operación y el formulario Anexo de la Declaración, cuando proceda.
 
 12. Para entregar las mercancías, el almacenista deberá ingresar al sistema dispuesto por el Servicio de Aduanas para los Almacenistas, seleccionar la opción DTI y consultar por la respectiva declaración para verificar la existencia de las mercancías y el estado de la operación. Además, el sistema informará el tipo de revisión al que deberá ser sometida la DTI, lo que deberá ser comunicado por el Almacenista a la persona que retira las mercancías. En caso que esta operación se realice en el mismo Almacén, el encargado del recinto deberá esperar tener los resultados de la revisión registrados en el sistema para entregar las mercancías. Para los efectos anteriores, los Almacenistas deberán ingresar al sistema Web que actualmente provee el Servicio Nacional de Aduanas en la opción Declaración de Tránsito Interno.
 
@@ -92,21 +92,27 @@ La prórroga será otorgada en forma automática en caso que se trate de la prim
 
 transbordo indirectas, al momento de la
 
-presentación de las mercancías ante el control
+presentación de las mercancías ante el
 
-aduanero de ingreso a la zona primaria de la
+control aduanero de ingreso a la zona
 
-Aduana de Destino, o ante la Unidad que
+primaria de la Aduana de Destino, o
 
-establezca la Aduana, en caso que ésta no cuente
+ante la Unidad que establezca la
 
-con un Control Aduanero de Acceso a la Zona
+Aduana, en caso que ésta no cuente
 
-primaria, el funcionario aduanero encargado
+con un Control Aduanero de Acceso a
 
-deberá ingresar al sistema el número de la DTI y
+la Zona primaria, el funcionario
 
-el sistema le entregará la siguiente información:
+aduanero encargado deberá ingresar al
+
+sistema el número de la DTI y
+
+el sistema le entregará la siguiente
+
+información:
 
 - Aduana de origen.
 
@@ -134,143 +140,165 @@ corresponde.
 
 El sistema realizará una validación de la
 
-información ingresada respecto a los datos de la
+información ingresada respecto a los datos de
 
-DTI, informando al funcionario su conformidad o
+la DTI, informando al funcionario su
 
-los errores detectados. Asimismo, e
+conformidad o los errores detectados.
 
-independientemente de la revisión física que
+Asimismo, e independientemente de la
 
-decida realizar el funcionario, el sistema
+revisión física que decida realizar el
 
-informará el tipo de revisión que se deberá
+funcionario, el sistema informará el tipo
 
-practicar a las mercancías. Ante cualquier
+de revisión que se deberá practicar a las
 
-irregularidad, el funcionario deberá poner los
+mercancías. Ante cualquier irregularidad,
+
+el funcionario deberá poner los
 
 antecedentes en conocimiento de la Unidad de
 
-Fiscalización de la Aduana. Asimismo, en caso que
+Fiscalización de la Aduana. Asimismo, en
 
-el sistema detecte que el vehículo no se
+caso que el sistema detecte que el
 
-encuentra asociado a la DTI desplegará un mensaje
+vehículo no se encuentra asociado a
 
-al usuario, con el objeto de que se consulte
+la DTI desplegará un mensaje
 
-nuevamente o se envíe el vehículo a
+al usuario, con el objeto de que se
 
-fiscalización.
+consulte nuevamente o se envíe el
+
+vehículo a fiscalización.
 
 El sistema registrará la presentación del
 
-vehículo en el punto de control de entrada y
+vehículo en el punto de control de
 
-cambiará el estado de la mercancía a Presentado
+entrada y cambiará el estado de la
 
-en Zona Primaria, señalando si dicha presentación
+mercancía a Presentado en Zona Primaria,
 
-se hizo conforme o con las irregularidades
+señalando si dicha presentación se hizo
+
+conforme o con las irregularidades
 
 detectadas.
 
-El funcionario aduanero deberá además, consignar
+El funcionario aduanero deberá además,
 
-en el Anexo de la declaración los datos del
+consignar en el Anexo de la declaración
 
-recuadro "PRESENTACIÓN DE MERCANCÍAS"; retener
+los datos del recuadro "PRESENTACIÓN DE
 
-copias de la declaración y del Anexo y entregar
+MERCANCÍAS"; retener copias de la
 
-al interesado copia de la declaración y del
+declaración y del Anexo y entregar
 
-Anexo.
+al interesado copia de la declaración y
 
-Una vez presentadas ante el Control Aduanero de
+del Anexo.
 
-la Aduana de destino, las mercancías podrán ser
+Una vez presentadas ante el Control
 
-entregadas al Almacenista, quien, una vez
+Aduanero de la Aduana de destino, las
 
-recibidas, deberá ingresar al sistema DTI la
+mercancías podrán ser entregadas al
 
-recepción de éstas. En el caso de operaciones de
+Almacenista, quien, una vez recibidas,
 
-Tránsito, las mercancías ingresadas a zona
+deberá ingresar al sistema DTI la
 
-primaria podrán ser embarcadas directamente con
+recepción de éstas. En el caso de
 
-destino al exterior o entregadas al recinto de
+operaciones de Tránsito, las mercancías
 
-depósito aduanero en espera de su embarque, lo
+ingresadas a zona primaria podrán ser
 
-cual deberá ser registrado en el sistema por el
+embarcadas directamente con destino al
 
-funcionario de Aduanas.
+exterior o entregadas al recinto de depósito
+
+aduanero en espera de su embarque, lo
+
+cual deberá ser registrado en el sistema
+
+por el funcionario de Aduanas.
 
 17.2 Tratándose de operaciones de tránsito o
 
 transbordo directas, en que las mercancías
 
-arriban a la Aduana de destino sin pasar por un
+arriban a la Aduana de destino sin pasar
 
-punto de control aduanero de ingreso a la zona
+por un punto de control aduanero de
 
-primaria, las mercancías deberán ser presentadas
+ingreso a la zona primaria, las mercancías
 
-directamente al Almacenista, quien deberá
+deberán ser presentadas directamente al
 
-ingresar al sistema DTI los datos requeridos por
+Almacenista, quien deberá ingresar al
+
+sistema DTI los datos requeridos por
 
 el Sistema y completar la información del
 
-recuadro Presentación de las Mercancías del
+recuadro Presentación de las Mercancías
 
-Formulario Anexo de la Declaración. En estos
+del Formulario Anexo de la Declaración. En
 
-casos, la persona que suscribió la declaración
+estos casos, la persona que suscribió la
 
-deberá presentar la segunda copia o fotocopia de
+declaración deberá presentar la segunda
 
-la declaración y el original o fotocopia del
+copia o fotocopia de la declaración y el
 
-Anexo a la unidad de Control de la Zona Primaria
+original o fotocopia del Anexo a la unidad
 
-de la Aduana de destino o ante la Unidad que
+de Control de la Zona Primaria de la Aduana
 
-establezca cada Aduana, a más tardar, dentro de
+de destino o ante la Unidad que establezca
 
-los tres días hábiles siguientes a la fecha del
+cada Aduana, a más tardar, dentro de los
 
-cumplido. Una vez recibida esta información, el
+tres días hábiles siguientes a la fecha del
 
-funcionario aduanero encargado deberá ingresar al
+cumplido. Una vez recibida esta información,
 
-sistema y consultar por el estado de la DTI, la
+el funcionario aduanero encargado deberá
 
-que deberá figurar con el estado de "Cumplida".
+ingresar al sistema y consultar por el
 
-En caso afirmativo, y tratándose de transbordos,
+estado de la DTI, la que deberá figurar
 
-el funcionario deberá ingresar al sistema la
+con el estado de "Cumplida".
 
-cancelación de la operación.
+En caso afirmativo, y tratándose de
 
-17.3 En el caso de las operaciones de redestinación,
+transbordos, l funcionario deberá ingresar
 
-las mercancías siempre deberán ser presentadas
+al sistema la cancelación de la operación.
 
-ante el control aduanero de la Aduana de destino,
+17.3 En el caso de las operaciones de
 
-la cual deberá registrar en el sistema el
+redestinación, las mercancías siempre
 
-cumplido de la operación. En todo lo demás, se
+deberán ser presentadas ante el control
 
-deberán seguir las instrucciones contempladas en
+aduanero de la Aduana de destino, la cual
 
-el numeral 21 del Compendio de Normas Aduaneras.
+deberá registrar en el sistema el cumplido
+
+de la operación. En todo lo demás, se
+
+deberán seguir las instrucciones
+
+contempladas en el numeral 21 del
+
+Compendio de Normas Aduaneras.
 
 18. La cancelación de las declaraciones de tránsito se entenderá realizada con la salida al exterior de las mercancías, circunstancia que deberá ser certificada en la declaración por la compañía transportista, en el Anexo de la Declaración, conforme a la normativa vigente.
 
@@ -340,27 +368,29 @@ Señale la cantidad total de Hojas que tiene la declaración.
 
 8.1.1 Nombre
 
-Señale el nombre completo del destinatario
+Señale el nombre completo del
 
-final de las mercancías, por cuenta de
+destinatario final de las mercancías,
 
-quien el despachador o transportista
+por cuenta de quien el despachador o
 
-presenta la declaración. El nombre del
+transportista presenta la declaración.
 
-consignatario debe corresponder al
+El nombre del consignatario debe
 
-consignado en el RUT, sin perjuicio de
+corresponder al consignado en el RUT,
 
-poder señalar además, cuando proceda, el
+sin perjuicio de poder señalar además,
 
-nombre de fantasía. Tratándose de
+cuando proceda, el nombre de fantasía.
 
-operaciones de Tránsito, el consignatario
+Tratándose de operaciones de Tránsito,
 
-debe corresponder a quien figura en el
+el consignatario debe corresponder a
 
-conocimiento de embarque o documento que
+quien figura en el conocimiento de
+
+embarque o documento que
 
 haga sus veces.
 
@@ -370,11 +400,11 @@ Señale el tipo de documento, RUT o
 
 Pasaporte, que identifica al
 
-consignatario. En caso de operaciones de
+consignatario. En caso de operaciones
 
-Tránsito o Transbordo, este recuadro podrá
+de Tránsito o Transbordo, este recuadro
 
-quedar en blanco.
+podrá quedar en blanco.
 
 8.1.3 Identificador
 
@@ -382,11 +412,13 @@ Señale el número del RUT o Pasaporte,
 
 según corresponda, que identifica al
 
-consignatario de las mercancías. En caso
+consignatario de las mercancías.
 
-de operaciones de Tránsito o Transbordo,
+En caso de operaciones de Tránsito
 
-este recuadro podrá quedar en blanco.
+o Transbordo, este recuadro podrá
+
+quedar en blanco.
 
 8.1.4 Dirección
 
@@ -396,13 +428,15 @@ indicando la calle y número.
 
 8.1.5 Comuna
 
-Señale la comuna a la que pertenece la
+Señale la comuna a la que pertenece
 
-dirección del consignatario. Deje en
+la dirección del consignatario.
 
-blanco este recuadro en caso que la
+Deje en blanco este recuadro en caso
 
-dirección no corresponda a Chile.
+que la dirección no corresponda
+
+a Chile.
 
 8.1.6 País
 
@@ -414,27 +448,31 @@ dirección del consignatario.
 
 8.2.1 Nombre
 
-Señale el nombre de la persona natural o
+Señale el nombre de la persona
 
-jurídica que remite las mercancías
+natural o jurídica que remite las
 
-amparadas por la DTI. En caso de una
+mercancías amparadas por la DTI. En
 
-Redestinación que abona o cancela un
+caso de una Redestinación que abona
 
-régimen suspensivo, el consignante debe
+o cancela un régimen suspensivo, el
 
-corresponder al consignatario de las
+consignante debe corresponder al
 
-mercancías amparadas por la DAPI que se
+consignatario de las mercancías
+
+amparadas por la DAPI que se
 
 cancela o abona. Este recuadro podrá
 
-quedar en blanco en caso de transbordos o
+quedar en blanco en caso de
 
-en el caso de redestinaciones pura y
+transbordos o en el caso de
 
-simple o de Rancho de Exportación, en cuyo
+redestinaciones pura y simple o de
+
+Rancho de Exportación, en cuyo
 
 caso todos los siguientes campos de este
 
@@ -480,9 +518,11 @@ dirección del consignante.
 
 Señale el nombre completo de la persona
 
-que presenta la declaración (despachador)
+que presenta la declaración
 
-ante el Servicio de Aduanas. En caso que
+(despachador) ante el Servicio
+
+de Aduanas. En caso que
 
 la declaración sea presentada por el
 
@@ -498,11 +538,11 @@ documento que identifica al despachador
 
 RUT, en el caso de persona natural o
 
-jurídica. Si la declaración es presentada
+jurídica. Si la declaración es
 
-por un Agente de Aduana, deje en blanco
+presentada por un Agente de Aduana,
 
-este recuadro.
+deje en blanco este recuadro.
 
 8.3.3 Identificador
 
@@ -512,25 +552,27 @@ según corresponda, que identifica al
 
 despachador de las mercancías. Si la
 
-declaración es presentada por un Agente de
+declaración es presentada por un Agente
 
-Aduana, deje en blanco este recuadro.
+de Aduana, deje en blanco
+
+este recuadro.
 
 8.3.4 CÓDIGO
 
 Este recuadro sólo deberá ser llenado en
 
-caso que la declaración sea presentada por
+caso que la declaración sea presentada
 
-un Agente de Aduana, en cuyo caso se
+por un Agente de Aduana, en cuyo caso se
 
 deberá señalar el código asignado por el
 
-Servicio de Aduanas a dicho Agente. En el
+Servicio de Aduanas a dicho Agente. En
 
-resto de los casos este recuadro deberá
+elresto de los casos este recuadro
 
-quedar en blanco.
+deberá quedar en blanco.
 
 8.3.5 Dirección
 
@@ -546,81 +588,89 @@ blanco este recuadro.
 
 Señale la comuna a la que pertenece la
 
-dirección del despachador. En caso que se
+dirección del despachador. En caso que
 
-trate de un Agente de Aduana, deje en
+se trate de un Agente de Aduana,
 
-blanco este recuadro.
+deje en blanco este recuadro.
 
 8.3.7 País
 
 Señale el país al que pertenece la
 
-dirección del despachador. En caso que se
+dirección del despachador. En caso
 
-trate de un Agente de Aduana, deje en
+que se trate de un Agente de Aduana,
 
-blanco este recuadro.
+deje en blanco este recuadro.
 
 ### 9. Origen y Transporte
 
 9.1 País Origen - CÓDIGO
 
-Indique el país y código del cual son originarias
+Indique el país y código del cual son
 
-las mercancías o el de procedencia, en caso que se
+originarias las mercancías o el de procedencia,
 
-desconozca el primero. Indique el país de origen o
+en caso que se desconozca el primero. Indique
 
-de procedencia, correspondiente a las mercancías
+el país de origen o de procedencia,
 
-cuyo valor CIF sea superior al 50% del valor total
+correspondiente a las mercancías cuyo valor CIF
 
-declarado y su código, según Anexo N° 51, en caso
+sea superior al 50% del valor total
 
-que las mercancías sean originarias o procedentes
+declarado y su código, según Anexo N° 51,
 
-de distintos países. Indique la expresión "VARIOS"
+en caso que las mercancías sean originarias
 
-y el código 904, en caso que las mercancías sean
+o procedentes de distintos países. Indique la
 
-originarias o procedentes de distintos países y
+expresión "VARIOS" y el código 904, en caso
 
-ninguna de ellas supere el 50% del valor total
+que las mercancías sean originarias o
 
-declarado.
+procedentes de distintos países y ninguna
+
+de ellas supereel 50% del valor
+
+total declarado.
 
 9.2 TIPO DE CARGA
 
-Señale el código del tipo de carga que corresponde
+Señale el código del tipo de carga que
 
-a las mercancías que ampara la declaración, según
+corresponde a las mercancías que ampara
 
-el Anexo 51-12.
+la declaración, según el Anexo 51-12.
 
 9.3 VÍA TRANSPORTE
 
-Indique el medio en el que se transportaron o
+Indique el medio en el que se transportaron
 
-transportarán las mercancías hacia nuestro país
+o transportarán las mercancías hacia
 
-(aéreo, marítimo, terrestre, etc.).
+nuestro país (aéreo, marítimo,
+
+terrestre, etc.).
 
 9.4 Puerto embarque origen - CÓDIGO
 
-Indique el nombre del puerto extranjero en el cual
+Indique el nombre del puerto extranjero en
 
-se embarcaron las mercancías y su código, según
+el cual se embarcaron las mercancías y su
 
-Anexo N° 51. Indique el nombre del último puerto
+código, según Anexo N° 51. Indique el nombre
 
-de embarque extranjero y su código, según Anexo N°
+del último puerto de embarque extranjero
 
-51, en caso que la mercancía hubiere sido
+y su código, según Anexo N° 51, en caso que
 
-transbordada en un puerto extranjero. Este
+la mercancía hubiere sido transbordada en
 
-recuadro podrá quedar en blanco tratándose de
+un puerto extranjero. Este recuadro podrá
+
+quedar en blanco tratándose de
 
 declaraciones de redestinación que abonen o
 
@@ -640,29 +690,33 @@ redestinación que abonen o cancelen un DAPI.
 
 9.6 Nombre CÍa. Transportista
 
-Indique la razón social o el nombre abreviado de
+Indique la razón social o el nombre
 
-acuerdo al Anexo Nº 51-29, del transportista de
+abreviado de acuerdo al Anexo Nº 51-29, del
 
-las mercancías. Se entenderá por transportista a
+transportista de las mercancías. Se entenderá
 
-aquel que emite el documento de transporte "Madre"
+por transportista a aquel que emite el
 
-o "Master Bill of Lading", o el documento que haga
+documento de transporte "Madre" o "Master
 
-sus veces en el caso de transporte no naviero.
+Bill of Lading", o el documento que haga sus
 
-Este recuadro podrá quedar en blanco tratándose de
+veces en el caso de transporte no naviero.
 
-declaraciones de redestinación que abonen o
+Este recuadro podrá quedar en blanco tratándose
 
-cancelen un DAPI.
+de declaraciones de redestinación que abonen
 
-En caso que las mercancías sean transportadas por
+o cancelen un DAPI.
 
-sus propios medios, o que no existiere Compañía
+En caso que las mercancías sean
 
-Transportadora, indique la expresión "No existe".
+transportadas por sus propios medios, o que
+
+no existiere Compañía Transportadora, indique
+
+la expresión "No existe".
 
 En estos casos, los datos Cod. País y RUT
 
@@ -674,39 +728,39 @@ Señale el tipo de documento que identifica a la
 
 compañía transportista antes señalada,
 
-especificando si se trata de RUT o código asignado
+especificando si se trata de RUT o código
 
-por el Servicio de Aduanas.
+asignado por el Servicio de Aduanas.
 
 9.8 Identificador
 
-Señale el número del RUT o el código asignado a la
+Señale el número del RUT o el código asignado
 
-compañía transportista por el Servicio de Aduanas,
+a la compañía transportista por el Servicio
 
-correspondiente al tipo de identificador
+de Aduanas,correspondiente al tipo de
 
-anteriormente señalado.
+identificador anteriormente señalado.
 
 9.9 Manifiesto Número - FECHA
 
-Indique el número y fecha del manifiesto. La fecha
+Indique el número y fecha del manifiesto. La
 
-deberá ser consignada con ocho dígitos
+fecha deberá ser consignada con ocho dígitos
 
 (dd/mm/aaaa).
 
 En el caso de declaraciones anticipadas por vía
 
-marítima, se deberá consultar en la página Web del
+marítima, se deberá consultar en la página Web
 
-Servicio de Aduanas el número asignado a la nave,
+del Servicio de Aduanas el número asignado
 
-número que se deberá indicar en este campo. El
+a la nave, número que se deberá indicar en
 
-dato "Fecha del Manifiesto" deberá quedar en
+este campo. El dato "Fecha del Manifiesto"
 
-blanco.
+deberá quedar en blanco.
 
 Cuando se cancele o abone un régimen suspensivo
 
@@ -714,65 +768,69 @@ mediante redestinación, en este recuadro se
 
 indicarán los mismos datos contenidos en la
 
-declaración de régimen suspensivo, con la salvedad
+declaración de régimen suspensivo, con la
 
-que en caso de tratarse de declaraciones de
+salvedad que en caso de tratarse de
 
-régimen suspensivo anticipadas, se indicará el N°
+declaraciones de régimen suspensivo anticipadas,
 
-y fecha del manifiesto que amparó la presentación
+se indicará el N° y fecha del manifiesto que
 
-de las mercancías.
+amparó la presentación de las mercancías.
 
 9.10 EMISOR
 
 Señale el nombre del emisor del manifiesto de
 
-carga. Tratándose de transporte aéreo o marítimo,
+carga. Tratándose de transporte aéreo o
 
-el emisor del manifiesto deberá corresponder a
+marítimo, el emisor del manifiesto deberá
 
-aquel que presentó en Encabezado del manifiesto
+corresponder a aquel que presentó en Encabezado
 
-respectivo.
+del manifiesto respectivo.
 
 9.11 Documento Transporte Número- fecha
 
-Indique el número del conocimiento de embarque, en
+Indique el número del conocimiento de embarque,
 
-caso de transporte marítimo, el número de la carta
+en caso de transporte marítimo, el número
 
-de porte en caso de transporte carretero o
+de la carta de porte en caso de transporte
 
-ferroviario o el número de la guía aérea, en caso
+carretero o
 
-de transporte aéreo. Este número deberá
+ferroviario o el número de la guía aérea,
 
-corresponder exactamente al número del documento
+en caso de transporte aéreo. Este número
 
-tal y como fue informado en el respectivo
+deberá corresponder exactamente al número
 
-manifiesto. En caso de transporte aéreo, el número
+del documento tal y como fue informado en el
 
-deberá considerar como máximo los últimos ocho
+respectivo manifiesto. En caso de transporte
 
-dígitos de la guía aérea o los que contuviere si
+aéreo, el número deberá considerar como máximo
 
-fuere menos, excluyendo en todo caso los primeros
+los últimos ocho dígitos de la guía aérea o
 
-dígitos correspondientes al código de la compañía
+los que contuviere si fuere menos, excluyendo
+
+en todo caso los primeros dígitos
+
+correspondientes al código de la compañía
 
 aérea; no obstante, en caso de guía aérea hija,
 
 sólo deberá consignarse los dígitos
 
-correspondientes a su número correlativo, y el o
+correspondientes a su número correlativo,
 
-los dígitos a continuación del guión, si los
+y el o los dígitos a continuación del guión,
 
-contuviere. Si el número tuviere más de 30
+si los contuviere. Si el número tuviere más
 
-caracteres, sólo señale los últimos 30.
+de 30 caracteres, sólo señale los últimos 30.
 
 Indique con ocho dígitos, la fecha en que la
 
@@ -782,15 +840,17 @@ transporte marítimo, o el "día del vuelo"
 
 tratándose de transporte aéreo. Si la referida
 
-fecha no se encuentra consignada en los documentos
+fecha no se encuentra consignada en los
 
-antes aludidos o tratándose de transporte
+documentos antes aludidos o tratándose de
 
-terrestre, deberá indicarse la fecha de emisión
+transporte terrestre, deberá indicarse la
 
-del conocimiento de embarque, guía aérea o carta
+fecha de emisión el conocimiento de embarque,
 
-de porte, según corresponda. Esta misma fecha
+guía aérea o carta de porte, según
+
+corresponda. Esta misma fecha
 
 deberá consignarse en caso de declaraciones con
 
@@ -798,15 +858,15 @@ trámite anticipado por vía aérea.
 
 En caso de transbordo, indique el número del
 
-conocimiento de embarque o documento que haga sus
+conocimiento de embarque o documento que haga
 
-veces, correspondiente al del último transbordo,
+sus veces, correspondiente al del último
 
-cuando haya más de un conocimiento o documento que
+transbordo, cuando haya más de un conocimiento
 
-haga sus veces. En el recuadro "Fecha", señale la
+o documento que haga sus veces. En el recuadro
 
-fecha del primer embarque.
+"Fecha", señale la fecha del primer embarque.
 
 Cuando se cancele o abone un régimen suspensivo
 
@@ -824,23 +884,25 @@ mercancías a la Aduana.
 
 9.12 EMISOR
 
-Señale el nombre y Rol Único Tributario del emisor
+Señale el nombre y Rol Único Tributario del
 
-el documento de transporte que acredita la
+emisor el documento de transporte que
 
-consignación de las mercancías. En caso que el
+acredita la consignación de las mercancías. En
 
-emisor de este documento sea una empresa
+caso que el emisor de este documento sea una
 
-extranjera, señale el nombre del emisor del
+empresa extranjera, señale el nombre del
 
-documento de transporte y el RUT de su
+emisor del documento de transporte y el RUT
 
-representante legal en el país. Si dicha empresa
+de su representante legal en el país. Si
 
-no tiene representante legal en el país, señale su
+dicha empresa no tiene representante legal
 
-nombre, debiendo dejar en blanco el espacio
+en el país, señale su nombre, debiendo
+
+dejar en blanco el espacio
 
 correspondiente al RUT.
 
@@ -854,29 +916,29 @@ depósito en donde se encuentran almacenadas las
 
 mercancías y su código, según Anexo N° 51.
 
-Igualmente se indicarán estos datos, tratándose de
+Igualmente se indicarán estos datos, tratándose
 
-redestinación de mercancías que hubieren sido
+de redestinación de mercancías que hubieren sido
 
 entregadas a la Aduana para cancelar un régimen
 
 suspensivo. Indique, en caso de trámite
 
-anticipado, el nombre del encargado del recinto de
+anticipado, el nombre del encargado del recinto
 
-depósito correspondiente al puerto en donde se
+de depósito correspondiente al puerto en donde
 
-descargarán las mercancías y su código, según
+se descargarán las mercancías y su código, según
 
 Anexo N° 51. En caso que se cancele un régimen
 
-suspensivo mediante redestinación y las mercancías
+suspensivo mediante redestinación y las
 
-no hubieren sido previamente entregadas a la
+mercancías no hubieren sido previamente
 
-Aduana en este recuadro no se deberá señalar
+entregadas a la Aduana en este recuadro
 
-información.
+no se deberá señalar información.
 
 10.2 Dirección - COMUNA
 
@@ -884,21 +946,23 @@ Indique la ubicación de las mercancías en el
 
 recinto de depósito. De la misma forma señale la
 
-ubicación de las mercancías, cuando hubieren sido
+ubicación de las mercancías, cuando hubieren
 
-entregadas a la Aduana para cancelar un régimen
+sido entregadas a la Aduana para cancelar un
 
-suspensivo. Indique la dirección de almacén
+régimen suspensivo. Indique la dirección de
 
-particular en donde se encuentran depositadas las
+almacén particular en donde se encuentran
 
-mercancías, en caso que se cancele una Almacén
+depositadas las mercancías, en caso que se
 
-Particular de Importación y las mercancías no
+cancele una Almacén Particular de Importación
 
-hubieren sido entregadas a la Aduana. Este
+y las mercancías no hubieren sido entregadas
 
-recuadro deberá permanecer en blanco tratándose de
+a la Aduana. Este recuadro deberá permanecer
+
+en blanco tratándose de
 
 trámite anticipado.
 
@@ -914,13 +978,15 @@ recibió las mercancías amparadas por la
 
 Declaración. Deje en blanco este recuadro
 
-tratándose de operaciones de trámite anticipado o
+tratándose de operaciones de trámite anticipado
 
-en caso de cancelación de un régimen suspensivo
+o en caso de cancelación de un régimen
 
-mediante una Redestinación, en que las mercancías
+suspensivo mediante una Redestinación, en que
 
-no hubieren sido entregadas a la Aduana.
+las mercancías no hubieren sido entregadas
+
+a la Aduana.
 
 10.4 Fecha Recepción
 
@@ -928,39 +994,43 @@ Indique la fecha en que el encargado del recinto
 
 de depósito recibió las mercancías. Indique la
 
-fecha de la primera papeleta de recepción en caso
+fecha de la primera papeleta de recepción en
 
-que se hubiere emitido más de una con distintas
+caso que se hubiere emitido más de una con
 
-fechas. Sin embargo, cuando se trate de recepción
+distintas fechas. Sin embargo, cuando se trate
 
-de cargas masivas llegadas al país por vía
+de recepción de cargas masivas llegadas al país
 
-marítima, en la cual el almacenista requiere más
+por vía marítima, en la cual el almacenista
 
-de un día para su recepción final, señale la fecha
+requiere más de un día para su recepción final,
 
-de recepción definitiva, la que deberá ser
+señale la fecha de recepción definitiva, la que
 
-documentada por el almacenista. La fecha deberá
+deberá ser documentada por el almacenista. La
 
-ser consignada con ocho dígitos (dd/mm/aaaa).
+fecha deberá ser consignada con ocho
 
-Cuando las mercancías hubiesen sido entregadas a
+dígitos (dd/mm/aaaa).
 
-la Aduana cancelando un régimen suspensivo se
+Cuando las mercancías hubiesen sido entregadas
+
+a la Aduana cancelando un régimen suspensivo se
 
 indicará la fecha de recepción, conforme a lo
 
 dispuesto en el párrafo precedente.
 
-Este recuadro deberá quedar en blanco, tratándose
+Este recuadro deberá quedar en blanco,
 
-de declaraciones con trámite anticipado o en caso
+tratándose de declaraciones con trámite
 
-que se cancele o abone un régimen suspensivo y las
+anticipado o en caso que se cancele o abone
 
-mercancías no hubieren sido previamente entregadas
+un régimen suspensivo y las mercancías no
+
+hubieren sido previamente entregadas
 
 a la Aduana.
 
@@ -968,15 +1038,17 @@ a la Aduana.
 
 Señale la cantidad de días en que las mercancías
 
-permanecieron en el recinto de depósito aduanero.
+permanecieron en el recinto de depósito
 
-Este recuadro deberá quedar en blanco, tratándose
+aduanero. Este recuadro deberá quedar en
 
-de declaraciones con trámite anticipado o en caso
+blanco, tratándose de declaraciones con trámite
 
-que se cancele o abone un régimen suspensivo y las
+anticipado o en caso que se cancele o abone un
 
-mercancías no hubieren sido previamente entregadas
+régimen suspensivo y las mercancías no
+
+hubieren sido previamente entregadas
 
 a la Aduana.
 
@@ -1004,9 +1076,9 @@ mercancías se presenten ante una Aduana
 
 Intermedia, señale la vía de transporte que
 
-cubrirá el tramo entre esta última y la Aduana de
+cubrirá el tramo entre esta última y la
 
-destino.
+Aduana de destino.
 
 12.3 Fecha presentación Aduana Destino
 
@@ -1024,29 +1096,33 @@ embarcadas directamente.
 
 12.4 PAÍS DESTINO
 
-Señale el país de destino final de las mercancías.
+Señale el país de destino final de las
 
-Esta información solo deberá ser entregada en caso
+mercancías. Esta información solo deberá ser
 
-que la operación corresponda a Tránsito.
+entregada en caso que la operación
+
+corresponda a Tránsito.
 
 12.5 VÍA TRANSPORTE
 
-Señale la vía de transporte que se utilizará para
+Señale la vía de transporte que se utilizará
 
-transportar las mercancías desde la Aduana de
+para transportar las mercancías desde la
 
-destino hacia el país de destino.
+Aduana de destino hacia el país de destino.
 
 12.6 Aduana Intermedia
 
-En caso que las mercancías deban ser presentadas a
+En caso que las mercancías deban ser
 
-una Aduana anterior a la Aduana de destino, señale
+presentadas a una Aduana anterior a la Aduana
 
-el nombre de la Aduana Intermedia. En los demás
+de destino, señale el nombre de la Aduana
 
-casos, este recuadro deberá quedar en blanco.
+Intermedia. En los demás casos, este recuadro
+
+deberá quedar en blanco.
 
 12.7 Vía Transporte
 
@@ -1068,21 +1144,23 @@ Indique la razón social o el nombre abreviado de
 
 acuerdo al Anexo Nº 51-29, de la empresa que
 
-efectuará el transporte de las mercancías hacia la
+efectuará el transporte de las mercancías hacia
 
-Aduana de destino o hacia la Aduana Intermedia,
+la Aduana de destino o hacia la Aduana
 
-según corresponda. En caso que las mercancías sean
+Intermedia, según corresponda. En caso que
 
-transportadas por sus propios medios, o que no
+las mercancías sean transportadas por sus
 
-existiere Compañía Transportadora, indique la
+propios medios, o que no existiere Compañía
 
-expresión "No existe". En estos casos, los datos
+Transportadora, indique la expresión "No
 
-Tipo Identificador e Identificador deberán quedar
+existe". En estos casos, los datos
 
-en blanco.
+Tipo Identificador e Identificador deberán
+
+quedar en blanco.
 
 13.2 Tipo Identificador
 
@@ -1090,77 +1168,79 @@ Señale el tipo de documento que identifica a la
 
 compañía transportista antes señalada,
 
-especificando si se trata de RUT o código asignado
+especificando si se trata de RUT o código
 
-por el Servicio de Aduanas.
+asignado por el Servicio de Aduanas.
 
 13.3 IDENTIFICADOR
 
-Señale el número del RUT o el código asignado a la
+Señale el número del RUT o el código asignado
 
-compañía transportista por el Servicio de Aduanas,
+a la compañía transportista por el Servicio
 
-según corresponda al tipo de identificador
+de Aduanas,según corresponda al tipo de
 
-anteriormente señalado.
+identificadoranteriormente señalado.
 
 13.4 TIPO DE VEHÍCULO
 
 Señale, de acuerdo al Anexo 51 – el tipo de
 
-vehículo en el que se transportarán las mercancías
+vehículo en el que se transportarán las
 
-hacia la Aduana de Destino.
+mercancías hacia la Aduana de Destino.
 
 13.5 IDENTIFICACIÓN DEL VEHÍCULO
 
-Señale la identificación del vehículo, consignando
+Señale la identificación del vehículo,
 
-su patente, en caso de vehículo terrestre, el
+consignando su patente, en caso de vehículo
 
-nombre de la nave, en caso de transporte marítimo,
+terrestre, el nombre de la nave, en caso de
 
-o el número del vuelo, en caso de transporte
+transporte marítimo, o el número del vuelo,
 
-aéreo.
+en caso de transporte aéreo.
 
 ### 14. MONTO DE LA OPERACIÓN
 
 14.1 VALOR FOB
 
-Indique el valor de las mercancías, según factura,
+Indique el valor de las mercancías, según
 
-incluyendo todos los costos en que hubiere
+factura, incluyendo todos los costos en que
 
-incurrido hasta situarla sobre o dentro del medio
+hubiere incurrido hasta situarla sobre o
 
-de transporte utilizado. Este recuadro es
+dentro del medio de transporte utilizado. Este
 
-obligatorio sólo en caso que la DTI se presente
+recuadro es obligatorio sólo en caso que la
 
-como una redestinación pura y simple o de
+DTI se presente como una redestinación pura y
 
-redestinación que abona o cancela un DAPI,
+simple o de redestinación que abona o cancela
 
-pudiendo quedar en blanco en el resto de los
+un DAPI, pudiendo quedar en blanco en el
 
-casos.
+resto de los casos.
 
 14.2 FLETE
 
-Indique el costo en que se hubiere incurrido por
+Indique el costo en que se hubiere incurrido
 
-concepto de transporte de la mercancía desde el
+por concepto de transporte de la mercancía
 
-puerto de embarque hasta el puerto específico de
+desde el puerto de embarque hasta el puerto
 
-destino, incluyendo los costos por flete de los
+específico de destino, incluyendo los costos
 
-transbordos que se hubieren realizado. Este
+por flete de los transbordos que se hubieren
 
-recuadro es obligatorio sólo en caso que la DTI se
+realizado. Este recuadro es obligatorio sólo
 
-presente como una redestinación pura y simple o de
+en caso que la DTI se presente como una
+
+redestinación pura y simple o de
 
 redestinación que abona o cancela un DAPI,
 
@@ -1168,15 +1248,17 @@ pudiendo quedar en blanco en el resto de los
 
 casos.
 
-Indique el monto resultante de aplicar un 5% sobre
+Indique el monto resultante de aplicar un
 
-el valor FOB de la mercancía, en los casos a que
+5% sobre el valor FOB de la mercancía, en los
 
-se refiere el número 6.2.3 del Subcapítulo Primero
+casos a que se refiere el número 6.2.3 del
 
-del Capítulo II. En este caso se deberá señalar en
+Subcapítulo Primero del Capítulo II. En este
 
-el recuadro "Observaciones del Ítem" el Código de
+caso se deberá señalar en el recuadro
+
+"Observaciones del Ítem" el Código de
 
 Observación 01 y en el recuadro contiguo, el
 
@@ -1184,21 +1266,25 @@ número 5.
 
 14.3 SEGURO
 
-Indique el monto de la prima de seguro de acuerdo
+Indique el monto de la prima de seguro de
 
-a lo estipulado en el respectivo contrato. Indique
+acuerdo a lo estipulado en el respectivo
 
-el monto resultante de aplicar un 2% sobre el
+contrato. Indique el monto resultante de
 
-valor FOB de la mercancía, en caso que no se
+aplicar un 2% sobre el valor FOB de la
 
-hubiere celebrado contrato de seguro. En este caso
+mercancía, en caso que no se hubiere
 
-se deberá señalar en el recuadro "Observaciones
+celebrado contrato de seguro. En este caso
 
-del Ítem" el Código de Observación 02 y en el
+se deberá señalar en el recuadro
 
-recuadro contiguo, el número 2. Este recuadro es
+"Observaciones del Ítem" el Código de
+
+Observación 02 y en el recuadro contiguo,
+
+el número 2. Este recuadro es
 
 obligatorio sólo en caso que la DTI se presente
 
@@ -1212,15 +1298,27 @@ casos.
 
 14.4 VALOR CIF
 
-Señale el valor CIF de las mercancías. En caso de
+Señale el valor CIF de las mercancías. En
 
-redestinación pura y simple o de redestinación que
+caso de redestinación pura y simple o de
 
-abona o cancela un DAPI, señale el monto
+redestinación que abona o cancela un
 
-resultante de sumar las cifras correspondientes a
+DAPI, señale el monto resultante de
+
+sumar las cifras correspondientes a
 
 valor FOB, Flete y Seguro precedentes.
+
+Este valor podrá ser omitido tratándose
+
+de operaciones marítimas de tránsito
+
+o transbordo directos tramitados
+
+por una compañía naviera y/o
+
+agencia naviera.
 
 ### 15. GARANTÍA
 
@@ -1228,15 +1326,17 @@ valor FOB, Flete y Seguro precedentes.
 
 Señale el tipo de garantía que cauciona la
 
-operación amparada por la DTI. Indique además, la
+operación amparada por la DTI. Indique además,
 
-expresión "GLOBAL", en caso que el transportista
+la expresión "GLOBAL", en caso que el
 
-hubiere ofrecido garantía global y se trate de
+transportista hubiere ofrecido garantía
 
-transbordo o redestinación de rancho de naves
+global y se trate de transbordo o
 
-extranjeras de transporte internacional. Deje en
+redestinación de rancho de naves extranjeras
+
+de transporte internacional. Deje en
 
 blanco este recuadro en caso operaciones de
 
@@ -1254,17 +1354,19 @@ garantía.
 
 15.3 Número del documento de garantía
 
-Señale el número y fecha de emisión del documento
+Señale el número y fecha de emisión del
 
-que garantiza la operación. En caso que dicho
+documento que garantiza la operación. En
 
-documento no tenga un número asociado, indique la
+caso que dicho documento no tenga un número
 
-expresión "s/número". Tratándose de garantías
+asociado, indique la expresión "s/número".
 
-globales, señale el número y fecha de la
+Tratándose de garantías globales, señale
 
-Resolución que autoriza dicha garantía.
+el número y fecha de la Resolución que
+
+autoriza dicha garantía.
 
 ### 16. RÉGIMEN SUSPENSIVO
 
@@ -1296,9 +1398,9 @@ tramitó la declaración de régimen suspensivo.
 
 16.5 Cancela Total o Parcial
 
-Indique si la declaración de régimen suspensivo se
+Indique si la declaración de régimen suspensivo
 
-cancela en forma total o parcial.
+se cancela en forma total o parcial.
 
 ### 17. DESCRIPCIÓN DE BULTOS
 
@@ -1306,29 +1408,29 @@ Para cada uno de los diferentes tipos de bultos que ampare la declaración, señ
 
 17.1 TIPO
 
-Indique el tipo de bultos de acuerdo a las opciones
+Indique el tipo de bultos de acuerdo a las
 
-que entrega el sistema.
+opciones que entrega el sistema.
 
 17.2 CANTIDAD
 
-Señale la cantidad de bultos correspondiente al
+Señale la cantidad de bultos correspondiente
 
-tipo de bulto anteriormente indicado.
+al tipo de bulto anteriormente indicado.
 
 17.3 MARCAS O SIGLAS CONTENEDOR
 
-En caso que el tipo de bulto sea contenedor, señale
+En caso que el tipo de bulto sea contenedor,
 
-las marcas o siglas que lo identifican.
+señale las marcas o siglas que lo identifican.
 
 17.4 TIPO DE CONTENEDOR
 
-En caso que el tipo de bulto sea contenedor, señale
+En caso que el tipo de bulto sea contenedor,
 
-el tipo de contenedor de acuerdo a las opciones que
+señale el tipo de contenedor de acuerdo a
 
-entrega el sistema.
+las opciones que entrega el sistema.
 
 17.5 PRECINTOS O SELLOS
 
@@ -1338,17 +1440,21 @@ contendor, señale los precintos o sellos de los
 
 bultos. En caso que el tipo de bultos no tenga
 
-sellos ni precintos, deje en blanco este recuadro.
+sellos ni precintos, deje en blanco este
+
+recuadro.
 
 17.6 CARGA PELIGROSA / CÓDIGO IMO
 
-Señale si la carga contenida en los bultos consiste
+Señale si la carga contenida en los bultos
 
-en carga peligrosa, en cuyo caso, señale a
+consiste en carga peligrosa, en cuyo caso,
 
-continuación, el correspondiente Código IMO. En
+señale a continuación, el correspondiente
 
-caso contrario, señale la palabra NO.
+Código IMO. En caso contrario, señale
+
+la palabra NO.
 
 17.7 TOTALES
 
@@ -1364,19 +1470,21 @@ Señale el peso bruto total de las
 
 mercancías con todos sus envases y
 
-embalajes interiores y exteriores con los
+embalajes interiores y exteriores con
 
-que habitualmente se presentan. Indique el
+los que habitualmente se presentan.
 
-peso de las mercancías en las condiciones
+Indique el peso de las mercancías en
 
-en que se presentan, en caso que
+las condiciones en que se presentan,
 
-ordinariamente se transporten a granel o
+en caso que ordinariamente se
 
-sin envases o embalajes, tales como el
+transporten a granel o sin envases o
 
-carbón, los líquidos en barco, en vagones
+embalajes, tales como el carbón, los
+
+líquidos en barco, en vagones
 
 u otros vehículos cisternas, los
 
@@ -1392,19 +1500,21 @@ mercancías.
 
 17.8 Documento Transporte Número - fecha - EMISOR
 
-Este recuadro sólo deberá ser llenado tratándose de
+Este recuadro sólo deberá ser llenado tratándose
 
-las operaciones de Tránsito o Transbordo Globales.
+de las operaciones de Tránsito o Transbordo
 
-En este caso, por cada tipo de bulto descrito
+Globales. En este caso, por cada tipo de bulto
 
-anteriormente, señale el número, fecha y emisor del
+descrito anteriormente, señale el número,
 
-documento de transporte que ampara los bultos
+fecha y emisor del documento de transporte que
 
-objeto de la declaración. Estos Campos deberán ser
+ampara los bultos objeto de la declaración.
 
-llenados de acuerdo a las instrucciones señaladas
+Estos Campos deberán ser llenados de acuerdo
+
+a las instrucciones señaladas
 
 en los numerales 9.11 y 9.12s.
 
@@ -1416,55 +1526,59 @@ En caso que las mercancías hubieren sido entregadas a la Aduana cancelando un r
 
 19.1 ÍTEM N°
 
-Numere en forma correlativa cada uno de los ítems.
+Numere en forma correlativa cada uno de
+
+los ítems.
 
 19.2 NOMBRE
 
-Describa genéricamente las mercancías, aún cuando
+Describa genéricamente las mercancías, aún
 
-fueren de naturaleza distinta, de acuerdo a lo
+cuando fueren de naturaleza distinta, de
 
-consignado en el conocimiento de embarque o
+acuerdo a lo consignado en el conocimiento
 
-documento que haga sus veces, en caso de tránsito,
+de embarque o documento que haga sus veces, en
 
-transbordo o redestinación de rancho de nave
+caso de tránsito, transbordo o redestinación
 
-extranjera de tráfico internacional.
+de rancho de nave extranjera de tráfico
+
+internacional.
 
 En caso de Redestinación códigos de tipo de
 
 operación 321 y 323, indique la información de
 
-referencia correspondiente, según lo establecido en
+referencia correspondiente, según lo
 
-el Apéndice I del Capítulo III del Compendio de
+establecido en el Apéndice I del Capítulo
 
-Normas Aduaneras.
+III del Compendio de Normas Aduaneras.
 
 19.3 ATRIBUTOS 1 A 6
 
-Sólo en caso de redestinación códigos de tipo de
+Sólo en caso de redestinación códigos de tipo
 
-operación 321 y 323, indique la información
+de operación 321 y 323, indique la información
 
-correspondiente al nombre de la mercancía; conforme
+correspondiente al nombre de la mercancía;
 
-a las instrucciones de Descripción de Mercancías
+conforme a las instrucciones de Descripción de
 
-señaladas en el Apéndice I del Capítulo III del
+Mercancías señaladas en el Apéndice I del
 
-Compendio de Normas Aduaneras. Para el resto de las
+Capítulo III del Compendio de Normas Aduaneras.
 
-operaciones, estos recuadros podrán quedar en
+Para el resto de las operaciones, estos
 
-blanco.
+recuadros podrán quedar en blanco.
 
 19.4 CÓDIGO NAB
 
-Sólo en caso de Redestinación códigos de tipo de
+Sólo en caso de Redestinación códigos de tipo
 
-operación 321 y 323, señale la clasificación
+de operación 321 y 323, señale la clasificación
 
 arancelaria de las mercancías según el Arancel
 
@@ -1478,49 +1592,53 @@ Sólo en caso de Redestinación códigos de tipo de
 
 operación 321 y 323, señale la cantidad de
 
-mercancías que ampara el ítem. Esta cantidad deberá
+mercancías que ampara el ítem. Esta cantidad
 
-estar expresada en la Unidad de Medida que le
+deberá estar expresada en la Unidad de Medida
 
-corresponde al código arancelario. En los demás
+que le corresponde al código arancelario. En
 
-casos, este recuadro podrá quedar en blanco.
+los demás casos, este recuadro podrá quedar
+
+en blanco.
 
 19.6 UNIDAD DE MEDIDA
 
-Señale la Unidad de Medida en que está expresada la
+Señale la Unidad de Medida en que está
 
-cantidad de mercancías, y que deberá corresponder a
+expresada la cantidad de mercancías, y que
 
-la Unidad de medida del respectivo código
+deberá corresponder a la Unidad de medida
 
-arancelario.
+del respectivo código arancelario.
 
 19.7 VALOR FOB UNITARIO (US$)
 
-Sólo en caso de Redestinación códigos de tipo de
+Sólo en caso de Redestinación códigos de
 
-operación 321 y 323, señale en dólares de los
+tipo de operación 321 y 323, señale en dólares
 
-Estados Unidos de Norteamérica, el valor FOB
+de los Estados Unidos de Norteamérica, el
 
-unitario de las mercancías descritas en el ítem. En
+valor FOB unitario de las mercancías descritas
 
-los demás casos, este recuadro podrá quedar en
+en el ítem. En los demás casos, este recuadro
 
-blanco.
+podrá quedar en blanco.
 
 19.7 VALOR FOB DEL ÍTEM
 
-Sólo en caso de Redestinación códigos de tipo de
+Sólo en caso de Redestinación códigos de
 
-operación 321 y 323, señale en dólares de los
+tipo de operación 321 y 323, señale en
 
-Estados Unidos de Norteamérica, el valor FOB total
+dólares de los Estados Unidos de Norteamérica,
 
-de las mercancías descritas en el ítem. En los
+el valor FOB total de las mercancías descritas
 
-demás casos, este recuadro podrá quedar en blanco.
+en el ítem. En los demás casos, este recuadro
+
+podrá quedar en blanco.
 
 19.8 VALOR CIF ÍTEM
 
@@ -1528,57 +1646,63 @@ Sólo en caso de Redestinación códigos de tipo de
 
 operación 321 y 323, señale en dólares de los
 
-Estados Unidos de Norteamérica, el valor CIF de las
+Estados Unidos de Norteamérica, el valor CIF
 
-mercancías descritas en el ítem. En los demás
+de las mercancías descritas en el ítem. En
 
-casos, este recuadro podrá quedar en blanco.
+los demás casos, este recuadro podrá
+
+quedar en blanco.
 
 19.9 CARGA PELIGROSA 7 CÓDIGO IMO
 
 Señale si las mercancías descritas en el ítem
 
-consiste en carga peligrosa, en cuyo caso, señale a
+consiste en carga peligrosa, en cuyo caso, señale
 
-continuación, el correspondiente Código IMO. En
+a continuación, el correspondiente Código IMO.
 
-caso contrario, señale la palabra NO.
+En caso contrario, señale la palabra NO.
 
 19.10 OBSERVACIONES DEL ÍTEM 1 A 6
 
-El recuadro observación del ítem tiene dos espacios
+El recuadro observación del ítem tiene dos
 
-para datos, correspondiendo el primer espacio, al
+espacios para datos, correspondiendo el
 
-código de la observación y el segundo, al valor de
+primer espacio, al código de la observación y
 
-la observación. La consignación de un determinado
+el segundo, al valor de la observación. La
 
-código de observación obedece al cumplimiento de
+consignación de un determinado código de
 
-ciertas condiciones, las cuales se explicitan en
+observación obedece al cumplimiento de
 
-cada caso.
+ciertas condiciones, las cuales se
 
-- Tratándose de DTI presentadas para abonar o
+explicitan en cada caso.
 
-cancelar un Almacén Particular de Importación,
+- Tratándose de DTI presentadas para
 
-señale el código 26 y en el espacio contiguo,
+abonar o cancelar un Almacén Particular
 
-con tres dígitos, el número del ítem en el que
+de Importación, señale el código 26 y en
 
-se encuentran declaradas las mercancías en el
+el espacio contiguo, con tres dígitos,
+
+el número del ítem en el que se encuentran
+
+declaradas las mercancías en el
 
 respectivo DAPI.
 
 - Tratándose de operaciones en que se haya
 
-señalado un flete teórico del 5% del valor FOB,
+señalado un flete teórico del 5% del valor
 
-indique el código 01 y en el recuadro contiguo,
+FOB, indique el código 01 y en el recuadro
 
-el número 5.
+contiguo, el número 5.
 
 - Tratándose de operaciones en que se haya
 
