@@ -860,27 +860,7 @@ reemplazar el mensaje de acuerdo a lo
 
 señalado en el numeral 9.2 anterior.
 
-10.3 Al anular un mensaje de conocimiento de
-
-embarque, su número de emisión no podrá
-
-ser reutilizado en las mismas
-
-condiciones en las que fue señalado en
-
-el primer mensaje, aun cuando se asocie
-
-a otro encabezado de manifiesto 2. Por
-
-tanto, cuando se deba reutilizar, se
-
-deberá agregar a este número, precedido
-
-por un guión, el número del manifiesto
-
-al cual debe ser asignado.
-
-10.4 La anulación de un mensaje de
+10.3 La anulación de un mensaje de
 
 conocimiento de embarque estando
 
@@ -900,7 +880,7 @@ que será notificado en forma
 
 electrónica al interesado.
 
-10.5 El mensaje de anulación de un
+10.4 El mensaje de anulación de un
 
 conocimiento de embarque se deberá
 
@@ -914,7 +894,7 @@ estas anulaciones estarán sujetas a
 
 sanción.
 
-10.6 La anulación del mensaje de un
+10.5 La anulación del mensaje de un
 
 conocimiento de embarque será informada
 
