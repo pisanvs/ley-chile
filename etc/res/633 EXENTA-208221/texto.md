@@ -88,9 +88,9 @@ FRUTALES:
 
 Especie Fitopatógenos a Certificar
 
-Actinidia spp. Sin Declaración Adicional
+Actinidia spp. Pseudomonas syringae pv.
 
-(Kiwi)
+(Kiwi) actinidiae
 
 Ananas spp. Sin Declaración Adicional
 
@@ -592,6 +592,8 @@ Solanum maglia Potato spindle tuber viroid
 
 Allium porrum (Puerro) Sin declaración adicional
 
+Allium sativum (Ajo) Sin declaración adicional
+
 FORESTALES :
 
 Especie Fitopatógenos a Certificar
@@ -762,6 +764,8 @@ N. paradoxa Viola spp. (excepto V. arvensis)
 
 Osteospermun spp. Zantedeschia aethiopica
 
+Zinnia elegans
+
 Agaphanthus spp. Brunnera spp.
 
 Ageratum houstonianum Cimicifuga spp.
@@ -857,6 +861,8 @@ Yucca spp.
 Aloe spp. Hakonechloa spp.
 
 Alstroemeria spp. Hyacinthus spp.
+
+Anigozanthus spp.
 
 Anthurium spp. Lisianthus spp
 
