@@ -142,31 +142,27 @@ DIF = (IERaño + IERprevio) - (Oaño + Oprevia)
 
 Donde:
 
-• IERaño corresponde a la suma de las magnitudes de las inyecciones señaladas en la letra c),
+. IERaño corresponde a la suma de las magnitudes de las inyecciones señaladas en la letra c),
 
-• IERprevio corresponde a la magnitud de las inyecciones señaladas en la letra d),
+. IERprevio corresponde a la magnitud de las inyecciones señaladas en la letra d),
 
-• Oaño corresponde la magnitud de la obligación señalada en la letra b),
+. Oaño corresponde la magnitud de la obligación señalada en la letra b),
 
-• Oprevia corresponde a la magnitud de la postergación señalada en la letra e),
+. Oprevia corresponde a la magnitud de la postergación señalada en la letra e),
 
 y
 
 g) magnitud de los excedentes (EX) señalados en el inciso tercero del artículo 150º bis posibles de traspasar a otra empresa eléctrica, expresada en megawatts-hora y calculada de acuerdo al siguiente procedimiento:
 
-• Si DIF es menor o igual a 0 (cero), EX será igual a 0 (cero).
+. Si DIF es menor o igual a 0 (cero), EX será igual a 0 (cero).
 
-• Si la diferencia entre IERaño y Oaño (IERaño - Oaño) es menor o igual a 0 (cero), EX será igual a 0 (cero).
-
-• Si DIF es mayor que 0 (cero) y la diferencia entre IERaño y Oaño es mayor que 0 (cero), entonces EX será igual al menor valor entre DIF y la diferencia entre IERaño y Oaño, esto es:
-
-EX = Min [DIF; (IERaño - Oaño)]
-
-El balance preliminar anual deberá publicarse a más tardar el 28 de enero del año siguiente al año correspondiente al balance.
+. Si DIF es mayor que 0 (cero), entonces, EX será igual a DIF.
 
 20.- El balance definitivo anual deberá contener, además de los antecedentes contemplados en el balance preliminar anual, al menos los siguientes antecedentes para cada empresa eléctrica considerada en el balance de inyecciones y retiros de energía de los CDECs respectivos:
 
-h) magnitud de los excedentes señalados en el inciso tercero del artículo 150º bis que han sido traspasados, expresados en megawatts-hora, identificando las empresas a las cuales se han efectuado los traspasos o desde las cuales se han recibido los traspasos, según sea el caso. La magnitud de los excedentes que son recibidos en traspaso será expresada en valores positivos y la de los entregados en traspaso en valores negativos;
+h) magnitud de los excedentes señalados en el inciso tercero del artículo 150º bis que han sido traspasados, expresados en megawatts-hora, identificando las empresas a las cuales se han efectuado los traspasos o desde las cuales se han recibido los traspasos, según sea el caso. La magnitud de los excedentes que son recibidos en traspaso será expresada en valores positivos y la de los entregados en traspaso en valores negativos.
+
+En caso que la suma de las magnitudes de excedentes que traspasa una empresa resultase superior a la magnitud de sus excedentes (EX), calculados en conformidad con lo estipulado en la letra g) del numeral precedente, las magnitudes de excedentes traspasados pertenecientes a los últimos convenios registrados en conformidad con lo señalado en el numeral 14, serán ajustados de manera de no exceder el referido monto EX;
 
 i) magnitud del déficit de acreditación de la obligación correspondiente al año del balance (DEF), expresada en megawatts-hora y calculada de acuerdo a la siguiente expresión:
 
@@ -213,10 +209,6 @@ m) magnitud de las inyecciones de energía a los sistemas eléctricos realizadas
 IERsig = Min [RC; IERaño]
 
 En caso que el resultado de la expresión anterior sea inferior a 0 (cero), IERsig será 0 (cero);
-
-En el caso que para alguna empresa la suma de los excedentes que traspasa, deducidos de los convenios señalados en el numeral 14, sea superior a la magnitud de sus excedentes (EX) calculados en conformidad con lo estipulado en la letra g) del numeral precedente, no se considerarán los traspasos de dicha empresa en la contabilización de la magnitud de los excedentes señalados en la letra h) previa.
-
-Las trasferencias de los excedentes señalados en el inciso tercero del artículo 150º bis se realizarán siempre hacia una empresa donde la magnitud de la diferencia (DIF) señalada en la letra f) del numeral anterior sea inferior a 0 (cero).
 
 Adicionalmente, el balance definitivo anual deberán informar el valor promedio ponderado al cual se han transado los excedentes señalados en el inciso tercero del artículo 150º bis, medido en pesos chilenos por megawatt-hora, de acuerdo a lo informado por las empresas en los convenios señalados en el numeral 14.
 
