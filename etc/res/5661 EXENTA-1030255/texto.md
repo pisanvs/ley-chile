@@ -18,8 +18,6 @@ Resolución:
 
 2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 161.134 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Biobío, para el año 2011.
 
-> **Nota.** El Nº 1 de la Resolución 9853 Exenta, Vivienda, publicada el 05.01.2012, modifica la presente norma en el sentido de reemplazar en el Resuelvo 1, las filas correspondientes al Proyecto "Comité Damnificados Los Ángeles" y Totales, de la manera que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
