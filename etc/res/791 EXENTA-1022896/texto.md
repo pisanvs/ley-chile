@@ -78,9 +78,9 @@ i) Los postulantes al Capítulo Primero del D.S. N° 174 (V. y U.), de 2005, de 
 
 j) Las postulaciones que accedan al Capítulo Segundo del D.S. N° 174 (V. y U.), de 2005, del presente llamado especial podrán optar a la construcción de una vivienda cuyo precio de venta final no podrá exceder de 1.000 unidades de fomento.
 
-k) En caso que el inmueble poseído por el postulante damnificado o por su cónyuge se encuentre sometido al procedimiento de regularización establecido en el D.L. Nº 2.695, de 1979, se podrá postular acreditando disponibilidad de terreno mediante copia autorizada de la resolución señalada en el artículo 11° de esa ley y copia del plano respectivo que acompañe a ésta. Obtenido el certificado de subsidio, y para los efectos de suscribir contrato de construcción de la vivienda, se deberá contar con la resolución señalada en el artículo 12° del D.L. Nº 2.695, de 1979. El SERVIU podrá proceder al pago del certificado de subsidio, contra acreditación de que se ha inscrito esta última resolución en el Registro de Propiedad del Conservador de Bienes Raíces, en conformidad a lo dispuesto en el artículo 14° del D.L. Nº 2.695, de 1979, sin perjuicio del cumplimiento de los restantes requisitos exigidos para dicho pago en el artículo 55 del D.S N° 174 (V. y U.), de 2005.
+k) En caso que el inmueble poseído por el postulante damnificado o por su cónyuge se encuentre sometido al procedimiento de regularización establecido en el D.L. Nº 2.695, de 1979, se podrá postular y asignar el subsidio acreditando disponibilidad de terreno mediante copia autorizada de la resolución señalada en el artículo 11º de esa ley y declaración jurada de éste de estar en posesión material del inmueble, en forma continua y exclusiva, sin violencia ni clandestinidad durante 5 años a lo menos, que no exista juicio pendiente en su contra en que se discuta el dominio o posesión del inmueble, iniciado con anterioridad a la fecha de la presentación de la solicitud. Obtenido el certificado de subsidio, y para los efectos de suscribir contrato de construcción de la vivienda, se deberá contar con la resolución señalada en el artículo 12° del D.L. Nº 2.695, de 1979. El SERVIU podrá proceder al pago del certificado de subsidio, contra acreditación de que se ha inscrito esta última resolución en el Registro de Propiedad del Conservador de Bienes Raíces, en conformidad a lo dispuesto en el artículo 14° del D.L. Nº 2.695, de 1979, sin perjuicio del cumplimiento de los restantes requisitos exigidos para dicho pago en el artículo 55 del D.S N° 174 (V. y U.), de 2005.
 
-l) Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aun, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
+l) Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio a nombre de ésta mediante declaración jurada, en formato provisto por el Serviu.
 
 m) Para postular al Capítulo Primero del D.S. N° 174 (V. y U.), de 2005, del presente llamado especial, sólo se aceptará una postulación por grupo familiar acreditado en la Ficha de Protección Social, a excepción que el número de integrantes sea igual o mayor a 7, en cuyo caso se podrá identificar un núcleo secundario dentro de los integrantes totales de dicha Ficha, el que podrá postular en forma independiente.
 
@@ -120,6 +120,8 @@ La Asesoría Técnica y Jurídica también podrá ser desarrollada por la empres
 
 La Asesoría Técnica y Jurídica que preste la empresa constructora deberá contemplar la realización de los servicios señalados en el resuelvo 5 de esta resolución, de acuerdo a las condiciones que allí se señalan, considerando para la aprobación y pago de los servicios, la entrega de los informes, documentos y permisos que se indiquen en las Bases de Licitación para la contratación de Servicios de Asesoría Técnica y Jurídica establecidas por cada SERVIU. En caso de que el SERVIU respectivo no tenga bases de licitación vigentes para la contratación de esta asesoria, deberá fijar las condiciones para estos servicios mediante resolución.
 
+Los Serviu en las bases o resoluciones respectivas podrán establecer que, la empresa que desarrolle los servicios de Asesoría Técnica y Jurídica, garantice mediante la entrega de una sola boleta de garantía todas las operaciones contratadas o un universo determinado de operaciones contratadas o por contratar.
+
 e) Una vez ingresados los antecedentes señalados en la letra anterior, el SERVIU dispondrá de hasta 7 días hábiles, para su aprobación o rechazo, debiendo dentro del mismo plazo emitir la Resolución de Ratificación del Subsidio, si corresponde.
 
 Para aquellos casos en que, con anterioridad al sismo y posterior tsunami del 27 de febrero del año 2010, la vivienda inhabitable no hubiera contado con los servicios de agua potable y electricidad, y que no exista una red colectiva frente al terreno para abastecer de estos servicios, el SERVIU podrá emitir esta resolución para construir en dicho terreno aun cuando el proyecto de la nueva vivienda no contemple la conexión a dichos servicios, debiendo al menos contemplarse la construcción del sistema de alcantarillado de aguas servidas particular, o la conexión a una red colectiva pública o particular de aguas servidas.
@@ -144,11 +146,13 @@ El monto total del subsidio no anticipado se pagará contra certificado del Depa
 
 Una vez recibidas las obras por SERVIU, la boleta de fiel cumplimiento del contrato deberá ser reemplazada por la de buena ejecución y buen comportamiento de las obras señalada en el artículo 25 del DS Nº 174 (V. y U.), de 2005. La boleta de buena ejecución y buen comportamiento deberá tener vigencia a partir de dicha recepción, y deberá caucionar, además, la obtención de la recepción definitiva de obras por parte de la Dirección de Obras Municipales, del sello verde de las instalaciones de gas contemplado en la normativa de la Superintendencia de Electricidad y Combustibles, cuando corresponda y de la recepción de la solución sanitaria especial por parte del Servicio de Salud respectivo, cuando corresponda.
 
+En estos proyectos de construcción el constructor podrá entregar una Boleta de Garantía única para garantizar el fiel, oportuno y total cumplimiento del contrato y la buena ejecución de las obras y su buen comportamiento en la forma establecida en los incisos 4, 5, 6 y 7 del artículo 25 del DS Nº 174 (V. y U.), de 2005.
+
 5. Los servicios que deberá realizar la Asesoría Técnica y Jurídica antes señalada, serán los siguientes:
 
 5.1 Presentar al SERVIU, en un plazo de 30 días, contados desde que le son asignadas las familias a su cargo, una Carta Gantt previamente aprobada por ese Servicio, donde se establezcan las fechas de ejecución de cada una de las actividades encomendadas en los servicios contratados para cada una de las familias a su cargo. En el caso que la empresa constructora realice la asesoría técnica y jurídica, deberá entregar la Carta Gantt en el mismo plazo, contado desde que inicia el trabajo con la familia seleccionada condicionalmente.
 
-5.2 Elaborar en un plazo máximo de 15 días, contados desde que le son asignadas las familias a su cargo, un informe de diagnóstico de habitabilidad de la vivienda existente en el terreno, según formato entregado por el SERVIU, que determine la efectividad del estado de inhabitabilidad del inmueble o en su defecto, que se encuentra en estado habitable y que es posible efectuar su reparación, incluyendo una descripción de los daños, los elementos afectados y su ubicación en la vivienda. En el caso que la empresa constructora realice la asesoría técnica y jurídica, deberá entregar este informe en el mismo plazo, contado desde que inicia el trabajo con la familia seleccionada condicional.
+5.2 ELIMINADO.
 
 5.3 Asesorar y apoyar la acreditación de propiedad de terreno conforme a la letra b) del Resuelvo 4 de la presente resolución.
 
@@ -164,53 +168,55 @@ La inspección técnica de obras podrá realizarse cumpliendo con lo establecido
 
 5.7 Los honorarios que percibirá la Asesoría Técnica y Jurídica por el desarrollo de los servicios descritos alcanzarán un monto de hasta 15 Unidades de Fomento, y serán pagados de la siguiente manera:
 
-5.7.1 Hasta 2 Unidades de Fomento contra la
+5.7.1 Hasta 7 Unidades de Fomento una vez
 
-presentación al SERVIU del informe de
-
-diagnóstico de habitabilidad de la vivienda
-
-existente.
-
-5.7.2 Hasta 5 Unidades de Fomento una vez
-
-seleccionado el postulante por el SERVIU y
+seleccionado el postulante por el Serviu y
 
 otorgado el certificado de subsidio
 
 correspondiente.
 
-5.7.3 Hasta 8 Unidades de Fomento una vez
+5.7.2 Hasta 5 Unidades de Fomento una vez
 
-obtenida la recepción final de la
+terminada la vivienda y recibida por el
 
-vivienda construida por la Dirección
+Serviu.
 
-de Obras Municipales respectiva y
+5.7.3 Hasta 3 Unidades de Fomento una vez
 
-pagado el subsidio a la empresa
+obtenida la recepción final de la vivienda
 
-constructora de la vivienda.
+construida por la Dirección de Obras
 
-5.7.4 Los honorarios que recibirá la
+Municipales respectiva y pagado el
 
-empresa constructora por realizar
+subsidio a la empresa constructora de la
 
-los servicios de Asesoría Técnica
+vivienda.
 
-y Jurídica descritos, alcanzarán
+5.7.4 Los honorarios que percibirá la empresa
 
-un monto de hasta 10 Unidades de
+constructora por realizar los servicios de
 
-Fomento y serán pagados en su
+Asesoría Técnica y Jurídica descritos,
 
-totalidad una vez obtenida la
+alcanzarán un monto de hasta 10 Unidades
 
-recepción final de la vivienda
+de Fomento, de los que se pagarán hasta 7
 
-construida por la Dirección de
+Unidades de Fomento una vez seleccionado
 
-Obras Municipales respectiva.
+el postulante por el Serviu y otorgado el
+
+subsidio correspondiente y hasta 3
+
+Unidades de Fomento una vez obtenida la
+
+recepción final de la vivienda construida
+
+por la Dirección de Obras Municipales
+
+respectiva.
 
 6. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el SERVIU, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
 
