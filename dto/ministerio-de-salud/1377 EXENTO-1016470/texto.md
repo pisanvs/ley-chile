@@ -12,6 +12,10 @@ Primer orden de Subrogancia
 
 D. Francisco José Bustamante Rubio, cédula de identidad Nº 6.226.740-2, Directivo, Suplente, grado 3º EUS.
 
+Segundo orden de subrogancia:
+
+D. Juan Luis Solari Silva, RUT Nº 7.028.775-7, profesional, titular, grado 5 EUS, funcionario de la Seremi de Salud de Valparaíso.
+
 3. Declárese que el subrogante del cargo de Secretario Regional Ministerial de Salud de Valparaíso asumirá sus funciones, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
