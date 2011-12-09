@@ -374,7 +374,9 @@ COLECTORAS DISTRIBUIDORAS:
 
 - Av. Luis Pasteur
 
-- José Manuel Balmaceda (Renca)
+- José Manuel Balmaceda entre la calle
+
+Condell y la calle Caupolicán (Renca)
 
 - Condell (Renca)
 
