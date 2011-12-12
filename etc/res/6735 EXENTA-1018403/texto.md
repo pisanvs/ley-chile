@@ -18,8 +18,6 @@ Resolución:
 
 2.- Los recursos comprometidos conforme al número 1 de la presente resolución, para los proyectos seleccionados "Los Canelos II" y "Unidos", de la comuna de Los Ángeles; "La Candelaria" y "Por un Futuro Mejor", de la comuna de Cobquecura; "Nevados de Shangrila II", de la comuna de Chillán; "Bicentenario I", de la comuna de Cabrero, y "Puesta del Sol IV", de la comuna de San Carlos, se detallan en el siguiente cuadro:
 
-> **Nota.** La Resolución 7949, Vivienda, publicada el 03.12.2010, modifica el cuadro contenido en el presente decreto, en el sentido de reemplazar en la columna que indica los códigos de los proyectos seleccionados, la cifra "46610" por "46612".
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
