@@ -1,0 +1,3 @@
+Por resolución exenta Nº3.186, de 5 de diciembre de 2011 de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.651 de 2011, que autorizó a ORIZON S.A. para realizar actividades pesqueras extractivas con una nave en construcción, respecto del recurso hidrobiológico Alfonsino en el área marítima comprendida entre la VI a X Regiones y el área marítima correspondiente a las Islas de Pascua, Sala y Gómez, Desventuradas y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 5 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
