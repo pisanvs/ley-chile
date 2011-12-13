@@ -16,7 +16,7 @@ e ) La resolución exenta N° 2187 de fecha 09 de Abril de 2010, que llama a pos
 
 Resolución:
 
-1.- Llámase a partir del 31 de Enero y hasta que se agoten los recursos disponibles en cada región, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del D.S. N° 255 (V. y U.), de 2006, y sus modificaciones, y del D.S. N° 332 (V. y U.) de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, la Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados en la primera postulación 2011, éstos deberán estar calificados hasta el 10 de Febrero, para las postulaciones de los meses siguientes, los proyectos deberán estar calificados hasta el último día hábil de cada mes.
+1.- Llámase a partir del 31 de enero y hasta que se agote el total de recursos disponibles para todas las regiones, a postulación extraordinaria para el Programa de Protección del Patrimonio Familiar, conforme a las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, y del DS Nº 332 (V. y U.), de 2000, y sus modificaciones, en las Regiones de Valparaíso, Libertador General Bernardo O'Higgins, del Maule, La Araucanía y Metropolitana, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación. Respecto de los proyectos presentados en la primera postulación 2011, éstos deberán estar calificados hasta el 10 de febrero; para las postulaciones de los meses siguientes, los proyectos deberán estar calificados hasta el último día hábil de cada mes.
 
 2. Para esta postulación, solo se podrán presentar proyectos del Titulo II en sus modalidades de Habitabilidad de la Vivienda, de Seguridad de la Vivienda o de Mantención de la Vivienda, estos últimos sólo en lo referido a reparación o reposición de cierros perimetrales.
 
@@ -125,8 +125,6 @@ En el caso de estos proyectos, el incremento por servicios indicado en el inciso
 El pago a efectuar por concepto de esta Asistencia Técnica Patrimonial se calculará de acuerdo a los montos que correspondan según las UF indicadas para cada ítem establecido en la tabla precedente, las que se adicionarán a los montos regulares de la asistencia técnica, definida según la resolución Nº 533 (V. y U.), de 1997. Los montos adicionales indicados en dicha tabla se pagarán en dos parcialidades, esto es, 50% contra el cobro del primer cupón, correspondiente a Organización de la Demanda y Postulación de Proyecto, y el 50% final contra el pago del segundo cupón, por concepto de Gestión de Proyecto e Inspección Técnica de Obras. Para efectuar el cobro de los ítems realizados se requerirá presentar los verificadores indicados en la tabla precedente.
 
 9. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para el Programa regulado por el D. S. N° 255 (V. y U.), de 2006, para el año 2011.
-
-> **Nota.** El Número 1° de la Resolución 3082 exenta, Vivienda, publicada el 27.05.2011, incorpora a la Región del Biobío en este Resuelvo.
 
 > **Nota.** NOTA 1 El Número 2° de la Resolución 3082 exenta, Vivienda, publicada el 27.05.2011, agrega al cuadro inserto en el Resuelvo 3 de la presente norma, la Región del Biobío asignando un total de 770.464 Unidades de Fomento. Asimismo, modifica la línea correspondiente al total de Unidades de Fomento, quedando esta en 2.481.323 Unidades de Fomento.
 
