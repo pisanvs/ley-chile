@@ -1,0 +1,5 @@
+Por resolución exenta N°3.236, de 6 de diciembre de 2011 de esta Subsecretaría, modifícase el numeral 1° de la resolución exenta N° 2.040 de 2011, modificada mediante resoluciones exentas N° 2.048 y N° 2.904, ambas de 2011, ambas de esta Subsecretaría de Pesca, que estableció la distribución de la fracción artesanal de la pesquería de Merluza común correspondiente al Área Sur de la VII Región, sometida al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de señalar que la distribución para el periodo julio-diciembre de 2011, expresada en toneladas, se efectuará de la siguiente manera:
+
+El texto íntegro de la presente resolución se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y del Servicio Nacional de Pesca.
+
+Valparaíso, 6 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
