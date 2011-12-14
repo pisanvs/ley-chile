@@ -1570,7 +1570,7 @@ La aprobación de proyectos de urbanización producto de los proyectos de loteo 
 
 Los antejardines mínimos no establecidos en los planos de loteo y/o seccionales, ni en las disposiciones que se fijan sobre esta materia para las diferentes Áreas de Edificación, serán de 5 m. para los predios que enfrentan calles, y de 3 m. para los predios que enfrentan pasajes y/o áreas verdes sin una vía pública de por medio.
 
-Sin perjuicio de los antejardines fijados en los Cuadros de Edificación del Artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones en edificaciones acogidas a los cuadros sin densificación del Artículo 41, se aplicará los antejardines de loteo, excepto en las vías afectas a utilidad pública.
+Sin perjuicio de los antejardines fijados en los cuadros de edificación del artículo 41, para todos los proyectos de reparaciones, alteraciones, obras menores en la construcción existente y/o ampliaciones en edificaciones acogidas a los cuadros sin densificación del artículo 41, los interesados podrán mantener la aplicación del antejardín existente, cuando este sea menor que el antejardín fijado por dichos cuadros, excepto en las propiedades en vías afectas a utilidad pública, en las cuales se aplicarán siempre los antejardines de los cuadros citados.
 
 #### Artículo 9
 
@@ -1806,7 +1806,7 @@ Más de 12000 m2. 5 estacionamientos de 30 m2. c/u
 
 f) Los recintos destinados exclusivamente a celebración de culto, deberán disponer de los estacionamientos indicados en la tabla; con excepción de los recintos destinados a oficinas, salas de reunión u otros destinos anexos, los cuales se regirán por lo establecido para cada uno de ellos en esta Ordenanza. Para estos efectos, se podrá destinar hasta un 30% del antejardín para estacionamiento, siempre que dicho antejardín tenga un fondo igual o superior a 20 m.
 
-g) Los recintos destinados a la educación Pre- escolar, básica y media, deberán disponer, adicionalmente, de un recinto de estacionamiento y de una pista caletera de desembarque al interior del predio para uso exclusivo de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
+g) Los recintos destinados a la educación pre-escolar, básica y media de más de 100 alumnos, deberán disponer, adicionalmente, de un recinto de estacionamiento para uso de los vehículos de transporte escolar, con una capacidad de 1 estacionamiento por cada 30 alumnos.
 
 h) Los estacionamientos para visitas, minusválidos y los estacionamientos adicionales exigidos por esta Ordenanza, no podrán venderse ni asignarse y deberán mantenerse disponibles para el uso público. Estos estacionamientos deberán tener fácil acceso desde la vía pública y podrán ubicarse ocupando hasta el 20% de la superficie de antejardín.
 
@@ -4086,6 +4086,12 @@ desarrollo espiritual o
 
 religioso
 
+3. Av. Manquehue 1320, Actividades de
+
+Las Hualtatas 6060 desarrollo espiritual o
+
+religioso
+
 5 Av. Padre Hurtado
 
 848, Mar Jónico 8860 Actividades de
@@ -4130,6 +4136,16 @@ _______________________________
 
 3/473, D.O. 04.03.02. (Enmienda Nº 2)
 
+NOTA:
+
+En los predios en que se desarrollan Actividades de desarrollo espiritual o religioso, identificados en el cuadro precedente, se permitirá:
+
+a) Un coeficiente de ocupación de suelo de 0,65.
+
+b) Una altura de máxima de edificación, sólo para
+
+los edificios destinados a templos.
+
 c) Equipamiento de Educación
 
 Cuadro 55: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Educación
@@ -4150,91 +4166,85 @@ educacional
 
 educacional
 
-5. Av. Luis Pasteur 6600 Establecimiento
+5. Av. Luis Pasteur 6700 Establecimiento
 
 educacional
 
-6. Av. Luis Pasteur 6700 Establecimiento
-
-educacional
-
-7. Av. Nueva Costanera
+6. Av. Nueva Costanera
 
 4190 Establecimiento
 
 educacional
 
-8. Av. Padre Hurtado 1150 Establecimiento
+7. Av. Padre Hurtado 1150 Establecimiento
 
 educacional
 
-9. Av. Presidente Kennedy
+8. Av. Presidente Kennedy
 
 5850 Establecimiento
 
 educacional
 
-10. Av. Vitacura 7404,
-
-El Aromo 7367 Establecimiento
+9. Av. Vitacura 10.15(1) Establecimiento
 
 educacional
 
-11. Av. Vitacura 10.15(1) Establecimiento
+10. Costanera Norte Establecimiento
 
-educacional
+Av. Santa María 6.400 Educacional
 
-12. Costanera Norte Av.
+11. Costanera Norte Av.
 
 Santa María 6480 Establecimiento
 
 educacional
 
-13. El Litre 1410 Establecimiento
+12. El Litre 1410 Establecimiento
 
 educacional
 
-14. Las Hualtatas 7440 Establecimiento
+13. Las Hualtatas 7440 Establecimiento
 
 educacional
 
-15. Las Hualtatas
+14. Las Hualtatas
 
 10500 (*) Establecimiento
 
 educacional
 
-16. Las Tranqueras 1180 Establecimiento
+15. Las Tranqueras 1180 Establecimiento
 
 educacional
 
-17. Lo Arcaya 1970 Establecimiento
+16. Lo Arcaya 1970 Establecimiento
 
 educacional
 
-18 Lo Beltrán 8751,
+17. Lo Beltrán 8751,
 
 Las Tranqueras 1851 Establecimiento
 
 Educacional
 
-19. Padre Damián de
+18. Padre Damián de
 
 Veuster 2215 Establecimiento
 
 educacional
 
-20. Parque Antonio
+19. Parque Antonio
 
 Rabat 6150 Establecimiento
 
 educacional
 
-21. San Damián 0100 Establecimiento
+20. San Damián 0100 Establecimiento
 
 educacional
 
-22. Vía Morada 5.400 Establecimiento
+21. Vía Morada 5.400 Establecimiento
 
 educacional
 
@@ -4243,6 +4253,8 @@ educacional
 d) Equipamiento de Salud (2)
 
 Cuadro 56: Zona U-Ee1, Uso Equipamiento Especial Nº 1, Salud
+
+1. Av. Luis Pasteur 5292 Atenciones de salud
 
 1. Av. Presidente Kennedy 3210 Atenciones de salud
 
