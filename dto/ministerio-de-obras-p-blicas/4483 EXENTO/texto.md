@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº4483,de 29 de noviembre de 2011, se expropió el lote de terreno Nº64, superficie 89 m2, rol de Avalúo 1247-68, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", VIII Región, tasado con fecha 22 de diciembre de 2010, por la Comisión de Peritos designada mediante Resolución SRM VIII Región Nº1004, de 24 de septiembre de 2009, acordándose el valor de la indemnización con sus propietarios OMAR SEGUNDO MUÑOZ BADILLA Y OTRA, en la cantidad de $205.439.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
