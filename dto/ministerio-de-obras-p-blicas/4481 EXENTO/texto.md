@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4481, de fecha 29 de noviembre de 2011, se expropiaron los lotes de terreno N°s. 4 y 5, superficies 5.952 y 967 m2, rol Nº152-35, para la obra "CAMINO RUTA U-775, SECTOR CRUCE RUTA U-99-V (NOCHACO) - RUPANQUITO, TRAMO KM. 0,00000 A KM. 22,26000", Comuna de Puerto Octay, X Región, tasado con fecha 8 de octubre de 2010 por la Comisión de Peritos designada mediante Resolución SRM. Exenta X Región Nº1113, de 13 de septiembre de 2010, acordándose el valor de la indemnización con sus propietarios JOSÉ EDUARDO MIRANDA GUZMAN Y OTRAS, en la cantidad de $4.253.402, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
