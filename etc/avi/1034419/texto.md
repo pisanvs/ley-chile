@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3641 de 22 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº15-1 de la obra: CONCESIO INTERNACIONAL RUTA 5. TRAMO: SANTIAGO - TALCA. SECTOR H: KM. 128.400,00 - KM. 140.850,00, la integraron los señores Cristián Larraín Arnolds, Carolina Claudia Verdejo Díaz y Mufida Viola Abuawad Elías".
+
+Fiscal del Ministerio de Obras Públicas.
