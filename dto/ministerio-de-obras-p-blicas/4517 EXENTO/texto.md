@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4517, de 30 de noviembre de 2011, se modificó el numeral segundo del Decreto Exento MOP. Nº753, de 19 de mayo de 2009, correspondiente a la obra: "Camino Ruta N-102-M, Sector Cobquecura - Límite Regional, Tramo II, Km. 10,50000 a Km. 18,60807, VIII Región", en lo que respecta al nombre del propietario y rol de avalúo de la comuna de Cobquecura, señalándose lo siguiente; propietario MUNOZ VEGA DIGNA Y OTROS, Rol de avalúo Nº171-19.
+
+Fiscal del Ministerio de Obras Públicas.
