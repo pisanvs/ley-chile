@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) N°4231, de 25 de noviembre de 2011, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°10, para la obra: "Habilitación Acceso Norte a Osorno", Provincia de OSORNO, que figura a nombre de TURNER OLEA MARIA SOLEDAD, rol de avalúo 2229-32, Comuna de OSORNO, X Región, superficie 62 m2. La Comisión de Peritos mediante informe de tasación de 10 de mayo de 2011, fijó el monto de la indemnización provisional en la cantidad de $1.594.000.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
