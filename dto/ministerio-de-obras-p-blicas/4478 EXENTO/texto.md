@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº4478 de 29 de noviembre de 2011, se expropiaron los lotes de terrenos N°s. 25-B y 26-B, superficies 220 y 444 m2, rol de Avalúo 1245-165, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", VIII Región, tasado con fecha 7 de abril de 2011, por la Comisión de Peritos designada mediante Resolución SRM VIII Región Nº1004, de 24 de septiembre de 2009, acordándose el valor de la indemnización con su propietario SERGIO HERNAN FIGUEROA SALAS, en la cantidad de $1.092.304.-, suma,que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
