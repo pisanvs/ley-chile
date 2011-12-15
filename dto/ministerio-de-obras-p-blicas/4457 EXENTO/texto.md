@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, Por Decreto MOP. (Exento) Nº4457, de 29 de noviembre de 2011, se expropiaron los lotes de terreno N°s. 13, 15 y 18, superficies 389, 80 y 317 m2., Rol Nº1129-13, para la obra "MEJORAMIENTO RUTA 5 - W15 - 175, SECTOR RUTA 5 - PUMANZANO, CAMINO RUTA 5 - PUMANZANO", Comuna de Ancud, X Región, tasado con fecha 15 de noviembre de 2007, por la Comisión de Peritos designada mediante Resolución SRM. (Exenta) X Región Nº1859, de 23 de octubre de 2007, acordándose el valor de indemnización con sus propietarios SUCESIÓN ELIAS LAUBSCHER HAASE, en la cantidad de $629.239, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
