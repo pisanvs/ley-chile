@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4509, de 29 de noviembre de 2011, se dejó sin efecto los numerales 3º, 4º, 5° y 6°, del Decreto Exento MOP. N°618, de 29 de abril de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº8, expropiado con motivo de la obra "Mejoramiento Camino Ruta U-95, Sector Coñoco - Puerto Octay, Km. 7,10000 a Km. 22,50572, Comunas de Purranque y Puerto Octay, Provincia de Osorno, Xa Región". Consígnese judicialmente el monto provisional de la indemnización, fijado el 14 de marzo de 2007, por la Comisión de Peritos Tasadores en la suma de $145.200.
+
+Fiscal del Ministerio de Obras Públicas.
