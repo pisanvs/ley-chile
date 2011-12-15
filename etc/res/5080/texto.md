@@ -1,0 +1,5 @@
+ORDENA EXPROPIACIÓN PARCIAL DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Por resolución Nº 5.080 de 7 de diciembre de 2011, Serviu Región de Valparaíso, dispuesto expropiación parcial conforme al artículo 51 ley 16.391 y decreto ley 2.186 de 1978, de inmueble correspondiente al departamento Nº 7 del block 4, Conjunto Habitacional "José Miguel Carrera" de la comuna de Quillota, dominio de Sandra Bravo Olivares, Rol de avalúo 280-00067 Comisión Tasadora integrada por Marcelo González Astengo (arquitecto), Víctor Calvo Barros (arquitecto) y Carlos Palma Urrutia (arquitecto), según informe marzo de 2011 fijó monto indemnización provisional en $5.957.337.- que será pagada al contado.
