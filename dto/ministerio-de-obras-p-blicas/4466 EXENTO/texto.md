@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4466, de 29 de noviembre de 2011, se dejó sin efecto los numerales 3º, 4º, 5° y 6°, del Decreto Exento MOP. Nº502, de 31 de marzo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°68-A, expropiado con motivo de la obra "Camino Ruta J-810, Sector Licantén - Vichuquén, Tramo km. 0,00000 a km. 15,372989" VII Región. Consígnese judicialmente el monto provisional de la indemnización, fijado el 15 de mayo de 2008, complementada por acta de fecha 30 de enero de 2009, por la Comisión de Peritos Tasadores en la suma de $2.351.800.
+
+Fiscal del Ministerio de Obras Públicas.
