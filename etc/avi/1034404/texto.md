@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3535 de 28 de octubre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº5 de la obra: REEMPLAZO PUENTE MAIPO, RUTA 5 SUR. REGION METROPOLITANA, la integraron los señores Andrés Rainer Schulz Villanueva, María Cristina Camus Palacios y Andrés Echeverría Campo".
+
+Fiscal del Ministerio de Obras Públicas.
