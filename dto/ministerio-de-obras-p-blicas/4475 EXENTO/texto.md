@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4475, de fecha 29 de noviembre de 2011, se expropió el lote de terreno Nº8-A, superficie 642 m2, rol Nº1437-32, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000", Comuna de Llanquihue, X Región, tasado con fecha 30 de agosto de 2010 por la Comisión de Peritos designada mediante Resolución SRM. Exenta X Región N°1648, de 28 de octubre de 2009, acordándose el valor de la indemnización con su propietaria SOCIEDAD AGRICOLA LLANQUIHUE S.A., en la cantidad de $1.079.680, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
