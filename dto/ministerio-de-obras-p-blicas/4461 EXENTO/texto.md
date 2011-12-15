@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP NO 850 de 1997, por Decreto MOP Exento Nº4461 de 29 de noviembre de 2011, se expropió el lote de terreno Nº8, superficie 9.937 m2, rol de Avalúo 158-78, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO - LAS GAVIOTAS, TRAMO KM. 65,58046 A KM. 72,78493", X Región, tasado con fecha 15 de marzo de 2007, por la Comisión de Peritos designada mediante Resolución SRM X Región Nº271 de fecha 16 de febrero de 2007, acordándose el valor de la indemnización con su propietaria INVERSIONES BARTOLOMÉ LIMITADA, en la cantidad de $31.625.724.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
