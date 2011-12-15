@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) N°4077, de 24 de noviembre de 2011, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°40, para la obra: "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos, que figura a nombre de MARTINEZ ALVAREZ LUIS, rol de avalúo 230-2, Comuna de VALDIVIA, XIV REGIÓN, superficie 16,62 m2. La Comisión de Peritos el 04 de diciembre de 2009, fijó el monto de la indemnización provisional en la cantidad de $745.360.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
