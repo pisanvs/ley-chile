@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art. 105 del DFL. MOP. MOP. Nº850 de 1997, por Decreto MOP. Exento Nº4484, de 29 de noviembre de 2011, se expropió el lote de terreno Nº69, superficie 26 m2., Rol de avalúo 18-223, para la obra "MEJORAMIENTO RUTA D-595, OVALLE - HURTADO, SECTOR SAMO ALTO PICHASCA", Comuna de Río Hurtado, IV Región, tasado con fecha 13 de agosto de 2007, por la Comisión de Peritos designada mediante Resolución SRM. (Exenta) IV Región Nº754, de 20 de junio de 2007, acordándose el valor de la indemnización con su propietaria YOLANDA DEL TRÁNSITO JERALDO URQUETA o YOLANDA DEL TRANSITO GERALDO URQUETA, en la cantidad de $754.826, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
