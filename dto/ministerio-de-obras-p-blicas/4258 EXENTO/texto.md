@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) N°4258, de 25 de noviembre de 2011, y en base a la facultad otorgada por el articulo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.810, se expropió el lote de terreno N°47, para la obra: "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos, que figura a nombre de SERVIU, rol de avalúo 208-53, Comuna de VALDIVIA, XIV REGIÓN, superficie 37,70 m2. La Comisión de Peritos el 04 de diciembre de 2009, fijó el monto de la indemnización provisional en la cantidad de $1.404.500.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el articulo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
