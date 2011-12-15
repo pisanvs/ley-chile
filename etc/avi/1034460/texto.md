@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3683 de 22 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº48 de la obra: CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 1: PUERTO MONTT - CALBUCO. SUBTRAMO 1A, la integraron los señores Gabriel Antonio Pantoja Rivera, María de Jesús Ríos Marcuello y Andrés Aníbal Risso Caamaño".
+
+Fiscal del Ministerio de Obras Públicas.
