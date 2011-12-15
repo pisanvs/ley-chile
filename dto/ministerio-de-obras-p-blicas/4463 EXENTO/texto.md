@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP NO 850 de 1997, por Decreto MOP Exento Nº4463 de 29 de noviembre de 2011, se expropió el lote de terreno Nº38, superficie 10.853 m2, rol de Avalúo 14-48, comuna de Colbún, para la obra "CONSTRUCCIÓN PUENTE SOBRE EL RÍO MAULE (COLBÚN) Y ACCESOS, VII Región, tasado con fecha 26 de octubre de 2010, por la Comisión de Peritos designada mediante Resolución SRM VII Región Nº1279 de fecha 1 de septiembre de 2010, acordándose el valor de la indemnización con su propietario JUAN ENRIQUE CONTRERAS DÍAZ, ascendente a la cantidad de $11.313.420.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
