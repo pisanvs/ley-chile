@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4510, de 29 de noviembre de 2011, se dejó sin efecto los numerales 3°, 4°, 5º y 6°, del Decreto Exento MOP. N°564, de 29 de abril de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°5, expropiado con motivo de la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 al Km. 33,17100, Comuna de Puerto Montt y Provincia de Llanquihue, Xa Región". Consígnese judicialmente el monto provisional de la indemnización, fijado el 09 de marzo de 2010, por la Comisión de Peritos Tasadores en la suma de $833.600.
+
+Fiscal del Ministerio de Obras Públicas.
