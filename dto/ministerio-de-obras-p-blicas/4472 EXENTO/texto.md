@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº4472 de 29 de noviembre de 2011, se expropió el lote de terreno Nº73-0, superficie 287 m2, rol de Avalúo 280-34, comuna de San Javier, para la obra "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", VII Región, tasado con fecha 29 de julio de 2008, por la Comisión de Peritos designada mediante Resolución SRM VII Región Nº996 de fecha 24 de julio de 2008, acordándose el valor de la indemnización con sus propietarios MARIANO ANTONIO CÁCERES ARÉVALO Y OTROS, ascendente a la cantidad de $1.282.553.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
