@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP NO 850 de 1997, por Decreto MOP Exento Nº4471,de 29 de noviembre de 2011, se expropió el lote de terreno Nº18, superficie 141 m2, rol de Avalúo 67-211, comuna de Lago Ranco, para la obra "CONSTRUCCIÓN PUENTES CAICAYEN Y HUEINAHUE CAMINO MAIHUE - HUEINAHUE - RUPUMEICA", XIV Región, tasado con fecha 18 de junio de 2010, por la Comisión de Peritos designada mediante Resolución SRM XIV Región Nº576, de fecha 1 de junio de 2010, acordándose el valor de la indemnización con sus propietarios SOFÍA ELIANA CARRILLO SANTIBÁÑEZ Y OTROS, en la cantidad de $1.159.425.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
