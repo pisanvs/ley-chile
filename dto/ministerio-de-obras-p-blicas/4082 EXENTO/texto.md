@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº4082, de 24 de noviembre de 2011, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°87, para la obra: "Mejoramiento del Cauce del Estero Las Cruces", Provincia de Santiago, que figura a nombre de GUAJARDO RIVAAS JOSE HECTOR, rol de avalúo 7764-182, Comuna de Pudahuel, Región Metropolitana, superficie 2.376 m2. La Comisión de Peritos el 11 de noviembre de 2009, fijó el monto de la indemnización provisional en la cantidad de $8.329.300.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
