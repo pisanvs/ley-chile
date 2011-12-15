@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº4488 de 29 de noviembre de 2011, se expropiaron los lotes de terrenos N°s. 49-A y 57-B, superficies 76 y 47 m2, rol de Avalúo 281-7, comuna de San Javier, para la obra "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", VII Región, tasado con fecha 29 de julio de 2008, por la Comisión de Peritos designada mediante Resolución SRM VII Región Nº996 de fecha 24 de julio de 2008, acordándose el valor de la indemnización con su propietaria ELIZABETH ADELINA GAETE ORELLANA, ascendente a la cantidad de $652.903.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
