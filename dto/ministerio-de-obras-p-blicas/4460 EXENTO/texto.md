@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº4460 de 29 de noviembre de 2011, se expropió el lote de terreno Nº24-B1, superficie 933 m2, rol de Avalúo 620-2, comuna de Puerto Octay, para la obra "RUTA U-99-V, SECTOR LAS CASCADAS - ENSENADA, KM. 31,33730 A KM. 50,60320", X Región, tasado con fecha 8 de octubre de 2010, por la Comisión de Peritos designada mediante Resolución SRM X Región Nº183 de fecha 30 de enero de 2009, modificada por Resolución SRM X Región Nº326 de fecha 12 de marzo de 2010, acordándose el valor de la indemnización con su propietario MAURICIO RENÉ ROSAS ROSAS, ascendente a la cantidad de $3.708.609.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
