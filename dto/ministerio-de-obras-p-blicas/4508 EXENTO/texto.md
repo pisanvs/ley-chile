@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4508, de 29 de noviembre de 2011, se dejó sin efecto los numerales 3º, 4º, 5° y 6°, del Decreto Exento MOP. Nº618, de 29 de abril de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°11, expropiado con motivo de la obra "Mejoramiento Camino Ruta U-95, Sector Coñico - Puerto Octay, km. 7,10000 a km. 22,50572" X Región. Consígnese judicialmente el monto provisional de la indemnización, fijado el 14 de marzo de 2007, por la Comisión de Peritos Tasadores en la suma de $324.800.
+
+Fiscal del Ministerio de Obras Públicas.
