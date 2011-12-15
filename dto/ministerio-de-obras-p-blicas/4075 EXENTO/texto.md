@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº4075, de 24 de noviembre de 2011, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº850 de 1997, que fijó el texto actualizado de la Ley Nº15.840, se expropió el lote de terreno N°96, para la obra: "Mejoramiento del Cauce del Estero Las Cruces", Provincia de Santiago, que figura a nombre de TAPIA VILLALOBOS ROSA ELENA, rol de avalúo 7764-193, Comuna de Pudahuel, Región Metropolitana, superficie 2.991 m2. La Comisión de Peritos el 11 de noviembre de 2009, fijó el monto de la indemnización provisional en la cantidad de $9.930.300.-. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
