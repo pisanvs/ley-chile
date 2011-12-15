@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3556 de 28 de octubre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº41-B de la obra: CONCESION RUTA 160, TRAMO TRES PINOS - ACCESO NORTE A CORONEL TRAMO A, SECTOR II: ACCESO NORTE A LOTA - RAMADILLAS SUBTRAMO: KM. 33.800,00 - KM. 43.800,00, la integraron los señores Camilo José Jara Bravo, Helena Alejandra Zapata Navarrete y Verónica Paz Olivier Valdebenito".
+
+Fiscal del Ministerio de Obras Públicas.
