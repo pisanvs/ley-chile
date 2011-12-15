@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3674 de 22 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº432-1 de la obra: CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 2: CALBUCO - PARGUA. SUBTRAMO 5A, la integraron los señores Nicolás Alejandro Alarcón Sánchez, Patricio Fernando Casagrande Ulloa y Sonia Catalina Gallegos Blanch".
+
+Fiscal del Ministerio de Obras Públicas.
