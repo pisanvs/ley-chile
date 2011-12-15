@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3656 de 22 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº1 de la obra: CONCESIÓN INTERNACIONAL SISTEMA ORIENTE - PONIENTE la integraron los señores Itsang Lu Chen, María Cristina Camus Palacios y Gustavo Eduardo Picero García". Adicionalmente, donde dice "rol de avalúo 105-2, Comuna de Las Condes-Providencia", debe decir "rol de avalúo 105-2, Comuna de Las Condes".
+
+Fiscal del Ministerio de Obras Públicas.
