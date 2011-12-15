@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4462, de fecha 29 de noviembre de 2011, se expropió el lote de terreno Nº95, superficie 1.102 m2, rol Nº3251-33, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", Comuna de Temuco, IX Región, tasado con fecha 9 de noviembre de 2009 por la Comisión de Peritos designada mediante Resolución SRM. (Exenta) IX Región Nº1785, de 20 de octubre de 2009, acordándose el valor de la indemnización con su propietaria MYRNA DALILA CUEVAS ESPINOZA, en la cantidad de $10.913.728, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
