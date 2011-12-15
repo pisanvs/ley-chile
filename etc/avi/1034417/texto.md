@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3639 de 11 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº131 de la obra: CONCESION INTERNACIONAL RUTA 5. TRAMO: SANTIAGO - TALCA. SECTOR G: KM. 110.200,00 - KM. 128.400,00", la integraron los señores Miguel Juan Fernández Cádiz, Mónica del Carmen Conejeros Rudloff y Ricardo Antonio Strickler Arellano".
+
+Fiscal del Ministerio de Obras Públicas.
