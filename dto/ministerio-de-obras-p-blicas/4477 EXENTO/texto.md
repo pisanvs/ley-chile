@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4477, de fecha 29 de noviembre de 2011, se expropió el lote de terreno Nº80, superficie 165 m2, rol Nº602-38, para la obra "MEJORAMIENTO RUTA I-710 BIFURCACIÓN I-50 - YÁQUIL, KM. 0,00000 A KM. 6,98000", Comuna de Santa Cruz, VI Región, tasado con fecha 19 de marzo de 2010 por la Comisión de Peritos designada mediante Resolución SRM. Exenta VI Región Nº942, de 21 de julio de 2009, acordándose el valor de la indemnización con su propietario MARCELO MAURICIO DONOSO NUÑEZ, en la cantidad de $2.895.546, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
