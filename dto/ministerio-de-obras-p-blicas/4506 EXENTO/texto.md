@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4506, de 29 de noviembre de 2011, se dejó sin efecto los numerales 3°, 4° y 5°, del Decreto Exento MOP. Nº1564, de 29 de julio de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°22, expropiado con motivo de la obra "Construcción Puentes Caicayen y Hueinahue Camino Maihue - Hueinahue - Rupumeica". Consígnese judicialmente el monto provisional de la indemnización, fijado el 18 de junio de 2010, por la Comisión de Peritos Tasadores en la suma de $1.632.000.
+
+Fiscal del Ministerio de Obras Públicas.
