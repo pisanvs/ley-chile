@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4465, de fecha 29 de noviembre de 2011, se expropió el lote de terreno Nº37-E, superficie 329 m2, rol Nº3250-726, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", Comuna de Temuco, IX Región, tasado con fecha 3 de diciembre de 2010 por la Comisión de Peritos designada mediante Resolución SRM. (Exenta) IX Región Nº1785, de 20 de octubre de 2009, acordándose el valor de la indemnización con su propietaria SARA POBLETE HUAIQUIÑIR, en la cantidad de $5.777.047, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
