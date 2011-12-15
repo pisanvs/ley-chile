@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.124, del 1° de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº3662 de 22 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº356 de la obra: CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 2: CALBUCO - PARGUA. SUBTRAMO 3B, la integraron los señores Camilo José Jara Bravo, Verónica Paz Olivier Valdebenito y Juan Pablo Contreras Mallea". Adicionalmente, donde dice "rol de avalúo 521-58, Comuna de Maullín y Calbuco", debe decir "rol de avalúo 521-58, Comuna de Maullín".
+
+Fiscal del Ministerio de Obras Públicas.
