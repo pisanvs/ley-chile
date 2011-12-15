@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP NO 850 de 1997, por Decreto MOP Exento Nº4473 de 29 de noviembre de 2011, se expropió el lote de terreno Nº78, superficie 725 m2, rol de Avalúo 601-12, comuna de Tomé, para la obra "CAMINO RUTA 126, SECTOR COELEMU - RAFAEL - TOMÉ, TRAMO II, KM. 23,92041 A KM. 25,77000", VIII Región, tasado con fecha 25 de enero de 2010, por la Comisión de Peritos designada mediante Resolución SRM VIII Región Nº1318 de fecha 22 de diciembre de 2009, acordándose el valor de la indemnización con su propietaria MICOL VALERIE RIVERA MISSLIN, en la cantidad de $1.189.732.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
