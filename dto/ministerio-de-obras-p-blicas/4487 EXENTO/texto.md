@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº4487, de fecha 29 de noviembre de 2011, se expropió el lote de terreno Nº58, superficie 171 m2, rol Nº1247-11, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", Comuna de Yumbel, VIII Región, tasado con fecha 22 de diciembre de 2010, por la Comisión de Peritos designada mediante Resolución SRM. (Exenta) VIII Región Nº1004, de 24 de septiembre de 2009, acordándose el valor de la indemnización con su propietaria JUANA MARÍA CALABRANO BADILLA, en la cantidad de $371.257, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
