@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº4519 de 30 de noviembre de 2011, se dejó sin efecto del Decreto MOP Nº1981, de 17 de noviembre de 2009, que ordenó, la expropiación del lote Nº39, debido a que este se encuentra emplazado en dos inmuebles con distinta denominación y rol de avalúo. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
