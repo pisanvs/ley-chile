@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4543, de 30 de noviembre de 2011, se complementa el numeral tercero del Decreto Exento MOP. Nº1839, de 25 de agosto de 2011, en el sentido que con fecha 8 de septiembre de 2008 la comisión de peritos fijo el monto de la indemnización provisional en la cantidad de $194.226.000.-, la cual fue complementada por acta de fecha 15 de julio de 2009, en la cantidad de $5.906.500.-. Consígnese judicialmente el monto complementario.
+
+Fiscal del Ministerio de Obras Públicas.
