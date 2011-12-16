@@ -90,7 +90,7 @@ En donde P corresponde al precio de la vivienda de acuerdo al artículo 4 del DS
 
 a) Plano georreferenciado con la ubicación del terreno en que se emplazará el proyecto.
 
-b) Permiso de edificación del proyecto completo de las viviendas y de la urbanización, otorgado por la Dirección de Obras Municipales correspondiente o anteproyecto aprobado por la Dirección de Obras Municipales.
+b) Permiso de edificación del proyecto completo de las viviendas y de la urbanización, otorgado por la Dirección de Obras Municipales correspondiente o anteproyecto aprobado por la Dirección de Obras Municipales o que cuente con informe favorable de un Revisor Independiente, a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, que verifique que el proyecto cumple con las disposiciones legales y reglamentarias que corresponda.
 
 c) Plano de loteo con cuadro de superficies o el correspondiente a condominio de viviendas destinado a acogerse a la ley Nº 19.537, Sobre Copropiedad Inmobiliaria, identificando etapas del proyecto, si corresponde, orientación y emplazamiento de las viviendas.
 
@@ -175,3 +175,5 @@ El plazo para acogerse a lo dispuesto en este número, será el señalado en el 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
+
+> **Nota.** La Resolución 7670 Exenta, Vivienda, publicada el 28.11.2011, ordena reemplazar los anexos fijan las zonas del casco urbano de las comunas de Linares, Cauquenes, Curicó y Constitución, todas de la Región del Maule, y la comuna de Concepción, de la Región del Biobío, por los anexos que en ella se adjuntan.

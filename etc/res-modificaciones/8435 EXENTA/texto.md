@@ -1,0 +1,15 @@
+MODIFICA RESOLUCIÓN N° 2.746 EXENTA, DE 2011, QUE DISPONE EL LLAMADO ESPECIAL PARA SELECCIÓN DE PROYECTOS EN LAS COMUNAS DE TALCA, CURICÓ, LINARES, CAUQUENES Y CONSTITUCIÓN, DE LA REGIÓN DEL MAULE; EN LAS COMUNAS DE CONCEPCIÓN, TALCAHUANO, CHIGUAYANTE, CHILLÁN, CHILLÁN VIEJO, TOMÉ, LOS ÁNGELES, LOTA, CORONEL, PENCO, ARAUCO, CAÑETE, CURANILAHUE Y LEBU DE LA REGIÓN DEL BIOBÍO; EN LA COMUNA DE VALPARAÍSO DE LA REGIÓN DE VALPARAÍSO; EN LAS COMUNAS DE RANCAGUA, SAN FERNANDO, RENGO, SAN VICENTE DE TAGUA TAGUA Y SANTA CRUZ DE LA REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS; EN LA COMUNA DE ANGOL EN LA REGIÓN DE LA ARAUCANÍA, CONFORME AL ARTÍCULO 46 DEL DS N°40, DE 2004, EN EL SENTIDO DE MODIFICAR LOS ANTECEDENTES TÉCNICOS EXIGIDOS EN LA PRESENTACIÓN DE LOS PROYECTOS
+
+Santiago, 7 de diciembre de 2011.- Hoy se resolvió lo que sigue:
+
+Núm. 8.435 exenta.- Visto: El DS N° 40 (V. y U.), de 2004, y sus modificaciones, que regula el Sistema de Subsidio Habitacional, en especial su artículo 46; la resolución exenta N° 8.816, de fecha 31 de diciembre de 2010; el DS N° 332 (V. y U.), de 2000, y sus modificaciones, que Reglamenta el Sistema de Atención Habitacional para Situaciones de Emergencia; el DS N° 150, de Interior, de 2010, que señala como zona afectada por la catástrofe derivada del sismo de gran magnitud a las Regiones de Valparaíso, del Libertador General Bernardo O'Higgins, del Maule, del Biobío, de la Araucanía y Metropolitana, cuya vigencia fue prorrogada por DS N° 148, del citado Ministerio, de 2011; la resolución exenta N° 2.746 (V. y U.), publicada en el Diario Oficial del 14 de mayo de 2011, que dispone el Llamado Especial para Selección de Proyectos en las comunas de Talca, Curicó, Linares, Cauquenes y Constitución, de la Región del Maule; y sus modificaciones, contenidas en las resoluciones exentas N° 4.089, N° 4.791, N° 5.198, N° 5.654, N° 6.863, todas de Vivienda y Urbanismo, publicadas en el Diario Oficial de fechas 19 de julio, 17 de agosto, 5 de septiembre, 23 de septiembre y 29 de octubre de 2011, respectivamente, y
+
+Considerando: La necesidad de modificar la resolución exenta N°2.746 (V. y U.), de 2011, con el objeto de permitir la presentación de proyectos con informe favorable de un Revisor Independiente, a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, dicto la siguiente:
+
+Resolución:
+
+Modifícase la letra b) del resuelvo 13, de la resolución exenta N° 2.746 (V. y U.), de 2011, y sus modificaciones, en el sentido de agregar la siguiente expresión final "o que cuente con informe favorable de un Revisor Independiente, a que se refiere el artículo 116 bis de la Ley General de Urbanismo y Construcciones, que verifique que el proyecto cumple con las disposiciones legales y reglamentarias que corresponda.".
+
+Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
