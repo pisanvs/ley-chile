@@ -394,14 +394,6 @@ Los empleadores que durante los 24 meses inmediatamente anteriores a la respecti
 
 > **Nota.** NOTA 6: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
-#### Artículo 20
-
-La parte de la remuneración y renta imponible destinada al pago de las cotizaciones establecidas en los artículos 17, 17 bis, 18, 84, 85 y 92, se entederá comprendida dentro de las excepciones que contempla el N° 1 del artículo 42 de la Ley sobre Impuesto a la Renta.
-
-Los incrementos que experimenten las cuotas de los fondos de pensiones no constituirán renta para los efectos de la Ley sobre Impuesto a la Renta. Sin embargo, las pensiones otorgadas conforme a esta ley, estarán afectas al Impuesto a la Renta que grave las pensiones, sueldos y salarios.
-
-> **Nota.** El artículo 5° de la ley 18646, publicada en el Diario Oficial del 29 de agosto de 1987, establece que la modificación contenida en el presente artículo, entrará en vigencia el día primero del mes siguiente a aquel en que se cumplan 120 días de publicada
-
 2. De las Cotizaciones Voluntarias, de los Depósitos Convenidos y de los Depósitos de Ahorro Previsional Voluntario
 
 #### Artículo 20
@@ -410,7 +402,9 @@ Cada trabajador podrá efectuar cotizaciones voluntarias en su cuenta de capital
 
 Los planes de ahorro previsional voluntario que ofrezcan las instituciones autorizadas mencionadas en el inciso anterior, se regirán por lo señalado en los artículos 18, 20 y 20A al 20E de esta ley y por las leyes que rigen a las mencionadas instituciones. Se entenderá por instituciones autorizadas las definidas en la letra q) del artículo 98.
 
-El trabajador podrá, también, depositar en su cuenta de capitalización individual, en cualquier fondo de la administradora de fondos de pensiones en la que se encuentre afiliado, los depósitos convenidos que hubiere acordado con su empleador con el objeto de incrementar el capital requerido para financiar una pensión anticipada de acuerdo a lo establecido en el artículo 68 o para incrementar el monto de la pensión. Asimismo, el trabajador podrá instruir a la administradora de fondos de pensiones que los depósitos convenidos sean transferidos a las instituciones autorizadas. Además, el trabajador podrá instruir a su empleador para que tales depósitos sean efectuados directamente en una de las citadas Instituciones. En este último caso, la Institución Autorizada deberá efectuar la cobranza, sujetándose a lo dispuesto en el artículo 19 y la fiscalización de dicha cobranza corresponderá a la Superintendencia de Bancos e Instituciones Financieras o de Valores y Seguros, según la institución de que se trate. Estas sumas, en tanto se depositen en la cuenta de capitalización individual o en alguno de los planes de ahorro previsional voluntario, no constituirán remuneración para ningún efecto legal, no se considerarán renta para los fines tributarios y les será aplicable el artículo 19. Con todo, los depósitos convenidos y la rentabilidad generada por ellos, podrán retirarse como excedente de libre disposición, cumpliendo los requisitos específicos establecidos en esta ley.
+El trabajador podrá, también, depositar en su cuenta de capitalización individual, en cualquier fondo de la administradora de fondos de pensiones en la que se encuentre afiliado, los depósitos convenidos que hubiere acordado con su empleador con el objeto de incrementar el capital requerido para financiar una pensión anticipada de acuerdo a lo establecido en el artículo 68 o para incrementar el monto de la pensión. Asimismo, el trabajador podrá instruir a la administradora de fondos de pensiones que los depósitos convenidos sean transferidos a las instituciones autorizadas. Además, el trabajador podrá instruir a su empleador para que tales depósitos sean efectuados directamente en una de las citadas Instituciones. En este último caso, la Institución Autorizada deberá efectuar la cobranza, sujetándose a lo dispuesto en el artículo 19 y la fiscalización de dicha cobranza corresponderá a la Superintendencia de Bancos e Instituciones Financieras o de Valores y Seguros, según la institución de que se trate. Estas sumas, en tanto se depositen en la cuenta de capitalización individual o en alguno de los planes de ahorro previsional voluntario, no constituirán remuneración para ningún efecto legal y no se considerarán renta para los fines tributarios por la parte que no exceda de un monto máximo anual de 900 unidades de fomento, por cada trabajador. Los excesos sobre los montos señalados se gravarán con el Impuesto Único de Segunda Categoría o con Impuesto Global Complementario, según corresponda. La cobranza de estos depósitos se sujetará a lo dispuesto en el artículo 19. El monto total de los depósitos realizados por cada trabajador, deberá ser informado anualmente por las Administradoras o instituciones autorizadas al Servicio de Impuestos Internos, de la forma que este último establezca. Con todo, los depósitos convenidos y la rentabilidad generada por ellos, podrán retirarse como excedente de libre disposición, cumpliendo los requisitos específicos establecidos en esta ley.
+
+Cuando los depósitos a que se refiere el inciso anterior no hayan gozado del beneficio tributario que en él se establece y se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43 de la Ley de Impuesto a la Renta, se rebajará el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a pensión representen dichos depósitos. El saldo de dichos depósitos será determinado por las Administradoras de Fondos de Pensiones según establezca una norma de carácter general de la Superintendencia.
 
 Las cotizaciones voluntarias, los depósitos de ahorro previsional voluntario y los depósitos convenidos no serán considerados para el cálculo del aporte adicional señalado en el artículo 53.
 
@@ -1238,9 +1232,9 @@ h) Cuotas de fondos de inversión a que se refiere la ley Nº 18.815 y cuotas de
 
 i) Efectos de comercio emitidos por empresas públicas y privadas;
 
-j) Títulos de crédito, valores o efectos de comercio, emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias extranjeras o internacionales; acciones y bonos emitidos por empresas extranjeras y cuotas de participación emitidas por Fondos Mutuos y Fondos de Inversión extranjeros, que se transen habitualmente en los mercados internacionales y que cumplan a lo menos con las características que señale el Régimen de Inversión de los Fondos de Pensiones a que se refiere el inciso vigésimo cuarto. A su vez, para efectos de la inversión extranjera, las Administradoras, con los recursos de los Fondos de Pensiones, podrán invertir en títulos representativos de índices de instrumentos financieros, depósitos de corto plazo y en valores extranjeros del título XXIV de la ley N° 18.045 que se transen en un mercado secundario formal nacional; y celebrar contratos de préstamos de activos; todo lo cual se efectuará en conformidad a las condiciones que señale el citado Régimen. Asimismo, para los efectos antes señalados, podrán invertir en otros valores e instrumentos financieros, realizar operaciones y celebrar contratos de carácter financiero, que autorice la Superintendencia, previo informe del Banco Central de Chile, y bajo las condiciones que establezca el Régimen de Inversión;
+j) Títulos de crédito, valores o efectos de comercio, emitidos o garantizados por Estados extranjeros, bancos centrales o entidades bancarias extranjeras o internacionales; acciones y bonos emitidos por empresas extranjeras y cuotas de participación emitidas por Fondos Mutuos y Fondos de Inversión extranjeros, y que cumplan a lo menos con las características que señale el Régimen de Inversión de los Fondos de Pensiones a que se refiere el inciso vigésimo cuarto. A su vez, para efectos de la inversión extranjera, las Administradoras, con los recursos de los Fondos de Pensiones, podrán invertir en títulos representativos de índices de instrumentos financieros, depósitos de corto plazo y en valores extranjeros del título XXIV de la ley N° 18.045 que se transen en un mercado secundario formal nacional; y celebrar contratos de préstamos de activos; todo lo cual se efectuará en conformidad a las condiciones que señale el citado Régimen. Asimismo, para los efectos antes señalados, podrán invertir en otros valores e instrumentos financieros, realizar operaciones y celebrar contratos de carácter financiero, que autorice la Superintendencia, previo informe del Banco Central de Chile, y bajo las condiciones que establezca el Régimen de Inversión;
 
-k) Otros instrumentos de oferta pública, cuyos emisores sean fiscalizados por la Superintendencia de Valores y Seguros o la Superintendencia de Bancos e Instituciones Financieras, según corresponda, que autorice la Superintendencia de Pensiones, previo informe del Banco Central de Chile;
+k) Otros instrumentos, operaciones y contratos, que autorice la Superintendencia de Pensiones, previo informe del Banco Central de Chile;
 
 l) Operaciones con instrumentos derivados que cumplan con las características señaladas en el inciso duodécimo de este artículo y en el Régimen de Inversión;
 
@@ -1252,9 +1246,15 @@ Para efectos de lo dispuesto en este artículo, se entenderá por instrumento ga
 
 Los recursos de los Fondos de Pensiones Tipo A, B, C, D y E podrán invertirse en los instrumentos, efectuar las operaciones y celebrar los contratos señalados en las letras a) a la m) del inciso segundo de este artículo.
 
-Los Fondos de Pensiones podrán adquirir títulos de las letras b), c), d), e), f), i), y de la letra j) cuando se trate de instrumentos de deuda, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105, elaboradas por diferentes clasificadoras privadas, y acciones de la letra g) que cumplan con los requisitos a que se refiere el inciso siguiente.
+Los Fondos de Pensiones podrán adquirir títulos de las letras b), c), d), e), f), i), y de la letra
 
-Asimismo, podrán adquirir cuotas emitidas por fondos de inversión y cuotas emitidas por fondos mutuos a que se refiere la letra h) y títulos representativos de capital de la letra j) que estén aprobados por la Comisión Clasificadora de Riesgo, e instrumentos de la letra k), autorizados por la Superintendencia y en caso que ésta lo requiera por la Comisión Clasificadora de Riesgo.
+- **j)** cuando se trate de instrumentos de deuda, cuando cuenten con al menos dos clasificaciones de riesgo iguales o superiores a BBB y nivel N-3, a que se refiere el artículo 105, elaboradas por diferentes clasificadoras privadas, y acciones de la letra
+
+- **g)** que cumplan con los requisitos a que se refiere el inciso siguiente. Asimismo, podrán adquirir cuotas emitidas por fondos de inversión y cuotas emitidas por fondos mutuos a que se refiere la letra
+
+- **h)** y títulos representativos de capital de la letra
+
+- **j)** que estén aprobados por la Comisión Clasificadora de Riesgo, e instrumentos de la letra k), autorizados por la Superintendencia y en caso que ésta lo requiera por la Comisión Clasificadora de Riesgo.
 
 Las acciones a que se refiere la letra g) podrán ser adquiridas por los Fondos de Pensiones cuando el emisor cumpla con los requisitos mínimos que serán determinados en el Régimen de Inversión. Aquellas acciones que no cumplan con los requisitos anteriores podrán ser adquiridas por los Fondos de Pensiones cuando éstas sean clasificadas en primera clase por al menos dos entidades clasificadoras de riesgo a las que se refiere la ley N° 18.045.
 
@@ -1266,9 +1266,7 @@ Las clasificaciones de riesgo de los instrumentos de deuda de la letra j) deber�
 
 Para efectos de la inversión de los Fondos de Pensiones en los instrumentos de deuda señalados en las letras b), c), d), e), f), i), j) y k) y las acciones de la letra g), se deberá considerar la categoría o clasificación de mayor riesgo de entre las que les hubieren otorgado los clasificadores privados.
 
-Las clasificadoras a que se refiere la ley N° 18.045 presentarán a la Superintendencia dentro de los cinco primeros días de cada mes, una lista de clasificación de riesgo de los instrumentos de deuda y de las acciones que les hayan sido encomendadas, con los respectivos informes públicos de acuerdo a lo que determine la Superintendencia de Valores y Seguros.
-
-Adicionalmente a la lista de clasificación de riesgo, se acompañarán los informes de actualización periódica que deban presentar a la referida Superintendencia y a la de Bancos e Instituciones Financieras, según corresponda.
+Las clasificadoras a que se refiere la ley N° 18.045 presentarán a la Superintendencia dentro de los cinco primeros días de cada mes, una lista de clasificación de riesgo de los instrumentos de deuda y de las acciones que les hayan sido encomendadas, con los respectivos informes públicos de acuerdo a lo que determine la Superintendencia de Valores y Seguros. Adicionalmente a la lista de clasificación de riesgo, se acompañarán los informes de actualización periódica que deban presentar a la referida Superintendencia y a la de Bancos e Instituciones Financieras, según corresponda.
 
 Las operaciones con instrumentos derivados a que se refiere la letra l), podrán tener como objeto la cobertura del riesgo financiero que pueda afectar a los Fondos de Pensiones u otros fines distintos. El Régimen de Inversión señalará los tipos de operaciones con instrumentos derivados y los activos objeto involucrados en ellas, que estarán autorizados para los recursos de los Fondos de Pensiones. Asimismo, dicho Régimen podrá condicionar la autorización de operaciones con instrumentos derivados a la adopción de políticas, procedimientos, controles y otras restricciones que provean los resguardos suficientes para su uso.
 
@@ -1296,7 +1294,7 @@ Si el afiliado opta por la modalidad de pensión de renta vitalicia o renta temp
 
 Las restricciones antes mencionadas se aplicarán para la primera transacción del Bono de Reconocimiento y la calidad de afiliado se medirá al momento de efectuarse la adquisición en el mercado secundario formal.
 
-Las inversiones con recursos de los Fondos de Pensiones en los instrumentos que se indican en los números 1 al 4 siguientes, deberán ceñirse a los límites máximos de inversión que establezca el Banco Central de Chile dentro de los rangos que se señalan para cada uno de ellos:
+Las inversiones con recursos de los Fondos de Pensiones en los instrumentos que se indican en los números 1 al 3siguientes, deberán ceñirse a los límites máximos de inversión que establezca el Banco Central de Chile dentro de los rangos que se señalan para cada uno de ellos:
 
 1) El límite máximo para la suma de las inversiones en los instrumentos mencionados en la letra a) del inciso segundo no podrá ser inferior ni superior a: 30% y 40% del Fondo, respectivamente, para los Fondos Tipos A y B; 35% y 50% del Fondo, respectivamente, para el Fondo Tipo C; 40% y 70% del Fondo, respectivamente, para el Fondo Tipo D, y 50% y 80% del Fondo, respectivamente, para el Fondo Tipo E.
 
@@ -1306,9 +1304,7 @@ El Banco Central de Chile fijará el límite máximo para la suma de las inversi
 
 Por inversión en el extranjero se entenderá la inversión que se efectúe en títulos extranjeros, a que se refiere la letra j) del inciso segundo, más el monto de la inversión de los Fondos de Pensiones en los instrumentos de los números 17) al 28) del artículo 5° de la ley Nº 18.815, que se efectúe a través de los fondos de inversión, más el monto de la inversión de los Fondos de Pensiones en los instrumentos 9. y 11. del artículo 13 del decreto ley Nº 1.328, de 1976, que se efectúe a través de los fondos mutuos. El Régimen de Inversión establecerá en qué casos se entenderá que la inversión que se efectúe a través de los fondos a que se refiere la letra h) del inciso segundo, se considerará en los límites señalados.
 
-3) Los límites máximos para la inversión en moneda extranjera sin cobertura cambiaria que podrán mantener las Administradoras para cada tipo de Fondo no podrán ser inferiores ni superiores a: 30% y 50% del Fondo, respectivamente, para el Fondo Tipo A; 25% y 40% del Fondo, respectivamente, para el Fondo Tipo B; 20% y 35% del Fondo, respectivamente, para el Fondo Tipo C; 15% y 25% del Fondo, respectivamente, para el Fondo Tipo D, y 10% y 15% del Fondo, respectivamente, para el Fondo Tipo E. En todo caso, el límite máximo para el Fondo Tipo E deberá ser menor al del Fondo Tipo D; éste, menor al del Fondo Tipo C, el que, a su vez, deberá ser menor al del Fondo Tipo B.
-
-4) El límite máximo para la suma de las inversiones en los instrumentos que se señalan en los números 1, 2, 3, 4, 6 y 7 del inciso vigésimo primero y en las letras e), f), g), i) y k), todas del inciso segundo, cuyo emisor tenga menos de tres años de operación, no podrá ser inferior al diez por ciento ni superior al veinte por ciento del valor del Fondo, para cada Tipo de Fondo A, B, C y D. La Superintendencia de Pensiones podrá excluir de la determinación de porcentajes máximos de inversión contemplada en este número a los instrumentos de cada tipo señalados en la letra k).
+3) El límite máximo para la suma de las inversiones en los instrumentos que se señalan en los números 1, 2, 3, 4, 6 y 7 del inciso vigésimo primero, no podrá ser inferior al diez por ciento ni superior al veinte por ciento del valor del Fondo, para cada Tipo de Fondo A, B, C y D. La Superintendencia de Pensiones podrá excluir de la determinación de porcentajes máximos de inversión contemplada en este número a los instrumentos, operaciones y contratos de cada tipo señalados en la letra k) podrá incluir otros instrumentos, operaciones y contratos de carácter financiero que aquella autorice, aludidos en la letra j) del inciso segundo de este artículo.
 
 El límite máximo para la suma de las inversiones en los instrumentos señalados en las letras
 
@@ -1320,9 +1316,7 @@ El límite máximo para la suma de las inversiones en los instrumentos señalado
 
 - **h)** y j), cuando sus carteras de inversiones se encuentren constituidas preferentemente por títulos de deuda. El Régimen de Inversión establecerá en qué casos se entenderá que la cartera de los títulos representativos de índices, los fondos de inversión y fondos mutuos se considerará constituida preferentemente por títulos de deuda. Con todo, siempre que un Tipo de Fondo tenga autorizado en la Ley un mayor límite máximo en instrumentos representativos de capital, deberá tener un porcentaje mayor de su cartera invertido en este grupo de instrumentos.
 
-El Régimen de Inversión podrá establecer otros límites máximos en función del valor del o los Fondos de Pensiones, según corresponda, para los instrumentos, operaciones y contratos del inciso segundo.
-
-Adicionalmente, el citado Régimen podrá fijar límites mínimos sólo para la inversión de los Fondos en instrumentos representativos de capital.
+El Régimen de Inversión podrá establecer otros límites máximos en función del valor del o los Fondos de Pensiones, según corresponda, para los instrumentos, operaciones y contratos del inciso segundo. Asimismo, deberá establecer límites máximos para la inversión en moneda extranjera sin cobertura cambiaria que podrán mantener las Administradoras respecto de cada Tipo de Fondo, así como la definición de cobertura cambiaria, debiendo contar con informe previo favorable del Banco Central de Chile. Adicionalmente, el citado Régimen podrá fijar límites mínimos sólo para la inversión de los Fondos en instrumentos representativos de capital.
 
 En todo caso, el Régimen de Inversión deberá establecer límites respecto de los instrumentos u operaciones que se señalan en los números 1 al 9 siguientes:
 
@@ -1350,15 +1344,11 @@ El Régimen de Inversión establecerá también los criterios que definirán en 
 
 Mediante Resolución dictada por la Superintendencia de Pensiones se establecerá el Régimen de Inversión, previo informe del Consejo Técnico que se refiere el Título XVI. La Superintendencia no podrá establecer en el Régimen de Inversión contenidos que hayan sido rechazados por el Consejo Técnico de Inversiones y asimismo, en la mencionada resolución deberá señalar las razones por las cuales no consideró las recomendaciones que sobre esta materia haya efectuado el referido Consejo. Dicha Resolución será dictada previa visación del Ministerio de Hacienda, a través de la Subsecretaría de Hacienda.
 
-Si como resultado del ejercicio de una opción de conversión de bonos canjeables por acciones, se excedieran los límites máximos de inversión por instrumento, o existiendo exceso éste se incrementara, el Fondo respectivo tendrá un plazo de tres años para eliminar el monto representativo de la conversión.
-
-Si como resultado del ejercicio de una opción para suscribir acciones de aumento de capital, se excedieran los límites máximos de inversión por instrumento, o existiendo exceso éste se incrementara, el Fondo respectivo tendrá un plazo de tres años para eliminar el monto representativo de la suscripción.
-
-Si como resultado de recibir valores de oferta pública, como consecuencia de la enajenación de acciones de los Fondos de Pensiones en una oferta pública de adquisición de acciones, se excedieran los límites máximos de inversión por instrumento, o existiendo exceso éste se incrementara, el Fondo tendrá un plazo de tres años para eliminar el monto representativo del exceso resultante de la operación.
+INCISO SUPRIMIDO.
 
 La suma de las inversiones en instrumentos específicos de cada tipo de aquellos señalados en la letra k), podrán incorporarse a los límites globales por instrumento establecidos por la ley o el Régimen de Inversión. Esta incorporación será determinada por la Superintendencia.
 
-INCISO ELIMINADO
+INCISO ELIMINADO.
 
 > **Nota.** NOTA : El artículo noveno de la LEY 19301, publicada el 19.03.1994, dispuso que, en el evento de que por aplicación de lo dispuesto en el Artículo Cuarto de la misma, un Fondo de Pensiones excedido de los límites máximos de inversión determinados en conformidad a lo dispuesto en los artículos 45, 45 bis, 47 y 47 bis del presente decreto ley, el exceso de inversión producido podrá ser mantenido por tiempo indefinido.
 
@@ -1530,7 +1520,7 @@ Sin perjuicio de lo dispuesto en el inciso anterior, con los recursos de los Fon
 
 - **c)** del artículo 45, en el mercado primario formal definido en el presente artículo, cuando estos instrumentos no se hubieren transado anteriormente.
 
-Las Administradoras de Fondos de Pensiones podrán participar con recursos de los Fondos de Pensiones Tipos A, B, C y D que administren, en las ofertas públicas de adquisición de acciones que se realicen de acuerdo con lo dispuesto en el Título XXV de la ley Nº 18.045.
+Las Administradoras de Fondos de Pensiones podrán participar con recursos de los Fondos de Pensiones Tipos A, B, C, D y E que administren, en las ofertas públicas de adquisición de acciones que se realicen de acuerdo con lo dispuesto en el Título XXV de la ley Nº 18.045.
 
 La Superintendencia de Valores y Seguros hará llegar a la Superintendencia copia del prospecto a que alude el artículo 203 de la ley Nº 18.045, dentro de los 3 días siguientes de recibido.
 
@@ -1556,7 +1546,11 @@ instrumentos únicos emitidos por instituciones financieras nacionales que no se
 
 - **j)** del inciso segundo del artículo 45, éstas podrán ser compradas y vendidas, directamente a la entidad emisora. A su vez, las operaciones o contratos que tengan como objeto el préstamo o mutuo de instrumentos financieros de emisores nacionales o extranjeros, así como las operaciones señaladas en la letra
 
-- **l)** del inciso segundo del artículo 45 realizadas con contrapartes que cumplan con los requisitos establecidos por la Comisión Clasificadora de Riesgo, se exceptuarán de la disposición establecida en el inciso primero de este artículo.
+- **l)** del inciso segundo del artículo 45 realizadas con contrapartes que cumplan con los requisitos establecidos por la Comisión Clasificadora de Riesgo y los instrumentos, operaciones y contratos de la letra
+
+- **k)** que la Superintendencia de Pensiones determine, se exceptuarán de la disposición establecida en el inciso primero de este artículo.
+
+Los Fondos de Pensiones podrán efectuar operaciones de compra o venta de instrumentos de la letra h) del inciso segundo del artículo 45, con cargo a la venta o compra, respectivamente, de títulos representativos de los activos subyacentes de dichos instrumentos, de acuerdo a la norma de carácter general que al efecto establezca la Superintendencia de Pensiones.
 
 Para los efectos de esta ley se entenderá por:
 
@@ -1930,7 +1924,7 @@ Renta Vitalicia Inmediata es aquella modalidad de pensión que contrata un afili
 
 El contrato de seguro a que se refiere el inciso precedente deberá ajustarse a las normas generales que dicte la Superintendencia de Valores y Seguros y tendrá el carácter de irrevocable. Las mencionadas normas deberán resguardar la naturaleza previsional de este seguro y permitir una adecuada comparación de las ofertas de pensión. En forma previa a la emisión de estas normas la Superintendencia de Valores y Seguros consultará la opinión de la Superintendencia de Pensiones. En todo caso, para el cálculo de la renta deberá considerarse el total del saldo de la cuenta individual del afiliado, salvo que éste opte por retirar excedentes de libre disposición en conformidad al inciso sexto. El monto de la renta mensual que resulte de aplicar lo anterior, podrá ser constante o variable en el tiempo. Las rentas vitalicias constantes y la parte fija de las rentas vitalicias variables, deberán expresarse en unidades de fomento. El componente variable podrá expresarse en moneda de curso legal, en moneda extranjera o en un índice asociado a carteras de inversión que sea autorizado por la misma Superintendencia. En el caso de que la renta mensual pactada sea variable, el componente fijo de la renta vitalicia deberá cumplir con el requisito que establece el inciso siguiente, a menos que se trate de una pensión de vejez anticipada, en cuyo caso el componente fijo de la renta pactada deberá ser al menos equivalente al ciento cincuenta por ciento de la pensión mínima a que se refiere el inciso antes señalado.
 
-Por la modalidad de renta vitalicia inmediata sólo podrán optar aquellos afiliados que puedan contratar una renta que sea igual o mayor que la pensión mínima de vejez garantizada por el Estado, a que se refiere el artículo 73.
+Por la modalidad de renta vitalicia inmediata sólo podrán optar aquellos afiliados que puedan contratar una renta que sea igual o mayor que la pensión básica solidaria de vejez.
 
 El contrato de seguro de renta vitalicia se perfecciona mediante la aceptación por escrito del afiliado de la oferta de la Compañía de Seguros de Vida de su elección o la adjudicación en remate, debiendo el asegurador contratante remitir a la Administradora la póliza y demás antecedentes que acrediten el cumplimiento de lo dispuesto en el artículo 61 bis. Una vez que la Administradora reciba la póliza y dichos antecedentes, deberá traspasar a la Compañía los fondos de la cuenta individual del afiliado que sean necesarios para pagar la prima, previa certificación del cumplimiento del requisito establecido en el inciso anterior. Los plazos en los cuales deberán cumplirse los procedimientos señalados en este inciso, serán establecidos mediante una norma de carácter general que dictarán conjuntamente las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros.
 
@@ -1950,13 +1944,13 @@ Los afiliados o beneficiarios de pensión que opten por contratar una renta vita
 
 #### Artículo 62 bis
 
-Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que la pensión mínima de vejez garantizada por el Estado a que se refiere el artículo 73.
+Renta Vitalicia Inmediata con Retiro Programado es aquella modalidad de pensión por la cual el afiliado contrata con una Compañía de Seguros de Vida una Renta Vitalicia Inmediata con una parte del saldo de la cuenta de capitalización individual, acogiéndose con la parte restante a la modalidad de Retiro Programado. En este caso, la pensión corresponderá a la suma de los montos percibidos por cada una de las modalidades. Sólo podrán optar por esta modalidad aquellos afiliados que puedan obtener una renta vitalicia inmediata que sea igual o mayor que la pensión básica solidaria de vejez.
 
 Bajo esta modalidad de pensión tendrán derecho a retirar excedente de libre disposición los afiliados que obtengan una pensión mayor o igual al ciento cincuenta por ciento de la pensión mínima de vejez señalada en el artículo 73 y al setenta por ciento del promedio de las remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo siguiente. Tratándose de afiliados declarados inválidos se considerará el setenta por ciento del ingreso base.
 
 No obstante lo establecido en el inciso tercero del artículo 23, los afiliados que seleccionen la modalidad de pensión definida en este artículo, y que contraten una Renta Vitalicia Inmediata constante que cumpla con los requisitos señalados en el inciso anterior, podrán optar por cualquiera de los Fondos de la Administradora, con aquella parte del saldo con la que se acogen a la modalidad de retiro programado.
 
-El afiliado podrá solicitar a su Administradora una disminución del monto a que tiene derecho a percibir bajo la modalidad de Retiro Programado. Asimismo, podrá solicitar que el monto percibido por Retiro Programado se ajuste, de modo tal que la suma de éste y aquél percibido por Renta Vitalicia, se iguale al valor de la pensión mínima que señala el artículo 73.
+El afiliado podrá solicitar a su Administradora una disminución del monto a que tiene derecho a percibir bajo la modalidad de Retiro Programado. Asimismo, podrá solicitar que el monto percibido por Retiro Programado se ajuste, de modo tal que la suma de éste y aquél percibido por Renta Vitalicia, se iguale al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
 
 Cuando el afiliado haya seleccionado la modalidad de Renta Vitalicia Inmediata con Retiro Programado, la Compañía de Seguros obligada al pago del aporte adicional, estará obligada a suscribir el contrato y a pagar una renta vitalicia no inferior al producto entre, la proporción del saldo de la cuenta de capitalización individual del trabajador que éste decida traspasar a la referida Compañía y el ciento por ciento de las pensiones de referencia establecidas en el artículo 56. Para este efecto, se considerará aquella parte del saldo de la cuenta de capitalización individual señalado en el inciso octavo del artículo 62.
 
@@ -1994,7 +1988,7 @@ Renta temporal es aquel retiro, convenido con la Administradora, que realiza el 
 
 Dicho cálculo deberá ajustarse anualmente, a contar de la fecha en que fue determinado por primera vez, y cada vez que por razones fundadas lo requieran conjuntamente las Superintendencias de Administradoras de Fondos de Pensiones y de Valores y Seguros.
 
-En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, como también por que su renta temporal mensual sea ajustada al monto de la pensión mínima que señala el artículo 73.
+En todo caso, el afiliado podrá optar, durante el período de renta temporal, por retirar una suma inferior, como también por que su renta temporal mensual sea ajustada al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
 
 El afiliado que hubiere contratado una renta vitalicia diferida mayor o igual al ciento cincuenta por ciento de la pensión mínima de vejez señalada en el artículo 73 y al menos igual al setenta por ciento del promedio de sus remuneraciones percibidas y rentas declaradas, calculado según lo establecido en el artículo 63 o del ingreso base cuando se trate de afiliados declarados inválidos, y mientras la renta temporal que percibiere fuere mayor o igual a dicha renta vitalicia, podrá optar por disponer libremente del excedente de su cuenta de capitalización individual por sobre los fondos necesarios para financiar la renta temporal convenida con la Administradora.
 
@@ -2016,7 +2010,7 @@ El capital necesario se calculará utilizando las bases técnicas y la tasa de i
 
 La anualidad que resulte de aplicar lo dispuesto en el inciso primero se pagará en doce mensualidades y se corregirá por un factor de ajuste, determinado de acuerdo a lo que establezca la Superintendencia en norma de carácter general, siempre que la pensión autofinanciada de referencia del afiliado sea superior a la pensión máxima con aporte solidario o que el afiliado no cumpla con los requisitos para acceder al sistema de pensiones solidarias. El citado factor deberá ser tal que permita suavizar los cambios en el monto de la pensión producto del recálculo del retiro programado.
 
-En todo caso, el afiliado podrá optar por retirar una suma inferior, como también podrá optar porque el retiro mensual que efectúe sea ajustado al monto de la pensión mínima que señala el artículo 73.
+En todo caso, el afiliado podrá optar por retirar una suma inferior, como también podrá optar porque el retiro mensual que efectúe sea ajustado al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias.
 
 El afiliado que haga uso de la opción de retiro programado, para quien el saldo de su cuenta de capitalización individual, a la fecha en que se determine el retiro a que se refiere el inciso primero, fuere superior al saldo mínimo requerido, podrá disponer libremente del excedente.
 
@@ -2036,11 +2030,11 @@ El capital necesario a que se refieren los dos incisos anteriores se calculará 
 
 #### Artículo 65 bis
 
-Los afiliados declarados inválidos parciales que se encuentren en alguna de las situaciones descritas en las letras a) y b) del artículo 54, tendrán derecho a percibir pensiones de invalidez conforme al primer dictamen, cuyo monto estará expresado en Unidad de Fomento y será igual al ciento por ciento de la pensión de referencia establecida en el artículo 56. En caso que ésta fuere inferior al monto de la pensión mínima que señala el artículo 73, el afiliado podrá optar por que su pensión se ajuste a la mínima utilizando fondos de su cuenta de capitalización individual.
+Los afiliados declarados inválidos parciales que se encuentren en alguna de las situaciones descritas en las letras a) y b) del artículo 54, tendrán derecho a percibir pensiones de invalidez conforme al primer dictamen, cuyo monto estará expresado en Unidad de Fomento y será igual al ciento por ciento de la pensión de referencia establecida en el artículo 56. En caso que ésta fuere inferior al cien por ciento del valor de la pensión básica solidaria de vejez y siempre que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias, éste podrá optar por que su pensión se ajuste a la pensión básica solidaria utilizando fondos de su cuenta de capitalización individual.
 
 Tratándose de afiliados declarados inválidos parciales que no se encuentren en algunas de las situaciones señaladas en el artículo 54, tendrán derecho a percibir pensiones conforme al primer dictamen de invalidez bajo la modalidad de retiros programados, equivalentes al setenta por ciento de dicho retiro determinado en conformidad a lo señalado en el artículo 65. Esta pensión no estará afecta a las comisiones señaladas en el inciso segundo del artículo 29. Con todo, el afiliado no podrá optar por retirar excedentes de libre disposición mientras su pensión de invalidez no se pague de acuerdo a un segundo dictamen.
 
-Los afiliados declarados inválidos parciales, una vez ejecutoriado el segundo dictamen, podrán acogerse a alguna de las modalidades de pensión que señala el artículo 61. Sin embargo, para el financiamiento de la pensión, no podrá considerarse el saldo retenido, el que se destinará a recalcular el monto de la pensión que el afiliado estuviere percibiendo o a financiar una nueva pensión de acuerdo a lo establecido en el inciso sexto del artículo 69, cuando la invalidez sea declarada total, el afiliado cumpla la edad señalada en el artículo 3°, o se acoja a pensión de vejez en conformidad al artículo 68. Asimismo, podrá destinar el saldo para ajustar su pensión al monto de la pensión mínima que señala el artículo 73. Se entenderá por saldo retenido el treinta por ciento del saldo de la cuenta de capitalización individual a la fecha en que quedó ejecutoriado el segundo dictamen, incluido el Bono de Reconocimiento y su Complemento, si correspondiere. Para el cálculo del saldo retenido no se considerarán las cotizaciones realizadas durante el período transitorio, a que se refiere el inciso tercero del artículo 4°.
+Los afiliados declarados inválidos parciales, una vez ejecutoriado el segundo dictamen, podrán acogerse a alguna de las modalidades de pensión que señala el artículo 61. Sin embargo, para el financiamiento de la pensión, no podrá considerarse el saldo retenido, el que se destinará a recalcular el monto de la pensión que el afiliado estuviere percibiendo o a financiar una nueva pensión de acuerdo a lo establecido en el inciso sexto del artículo 69, cuando la invalidez sea declarada total, el afiliado cumpla la edad señalada en el artículo 3°, o se acoja a pensión de vejez en conformidad al artículo 68. Asimismo, podrá destinar el saldo para ajustar su pensión al cien por ciento del valor de la pensión básica solidaria de vejez, en el caso en que el afiliado no cumpla los requisitos para acceder al sistema de pensiones solidarias. Se entenderá por saldo retenido el treinta por ciento del saldo de la cuenta de capitalización individual a la fecha en que quedó ejecutoriado el segundo dictamen, incluido el Bono de Reconocimiento y su Complemento, si correspondiere. Para el cálculo del saldo retenido no se considerarán las cotizaciones realizadas durante el período transitorio, a que se refiere el inciso tercero del artículo 4°.
 
 Los afiliados declarados inválidos parciales con derecho al pago de pensiones conforme a un segundo dictamen, no podrán retirar excedentes de libre disposición, según lo dispone el inciso sexto del artículo 62, el inciso sexto del artículo 64 y los incisos quinto y sexto del artículo 65, a menos que hagan uso de su saldo retenido conforme lo señala el inciso tercero de este artículo y según lo establecido en el inciso sexto del artículo 65.
 
@@ -2280,11 +2274,11 @@ Otórgase la garantía del Estado a los aportes adicionales y a la contribución
 
 El monto de dicha garantía estatal será equivalente al ciento por ciento de la diferencia que faltare para completar el aporte adicional, la contribución y las pensiones de invalidez originadas por un primer dictamen, en caso de que por cesación de pagos o por declaratoria de quiebra de una Compañía de Seguros obligada al pago de dichos beneficios, éstos no pudieren ser enterados o pagados total y oportunamente, circunstancias que deberán ser certificadas por la Superintendencia de Pensiones. Para estos efectos el Estado podrá licitar un seguro que cubra los beneficios antes mencionados.
 
-En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente al cien por ciento de las pensiones mínimas a que se refiere el artículo 73, en caso de que por cesación de pagos o por declaratoria de quiebra, las Compañías de Seguros no dieren cumplimiento a las obligaciones emanadas de los contratos celebrados con los afiliados en las condiciones señaladas en esta ley, o estas rentas pudieran ser pagadas con retraso, circunstancias que deberán ser certificadas por la Superintendencia de Valores y Seguros.
+En el caso de las rentas vitalicias que señala el artículo 61, la garantía del Estado será de un monto equivalente al cien por ciento de la pensión básica solidaria de vejez, en caso de que por cesación de pagos o por declaratoria de quiebra, las Compañías de Seguros no dieren cumplimiento a las obligaciones emanadas de los contratos celebrados con los afiliados en las condiciones señaladas en esta ley, o estas rentas pudieran ser pagadas con retraso, circunstancias que deberán ser certificadas por la Superintendencia de Valores y Seguros.
 
 La garantía estatal señalada en los incisos precedentes cubrirá aquella parte del aporte adicional, contribución, pensiones de invalidez originadas por el primer dictamen y rentas vitalicias, no pagadas por la Compañía de Seguros.
 
-Respecto de las rentas vitalicias de montos superiores a los señalados en el inciso tercero, la garantía del Estado cubrirá el setenta y cinco por ciento del exceso por sobre la pensión mínima.
+Respecto de las rentas vitalicias de montos superiores a los señalados en el inciso tercero, la garantía del Estado cubrirá el setenta y cinco por ciento del exceso por sobre la básica solidaria de vejez.
 
 En todo caso, tratándose de rentas vitalicias, la garantía del Estado no podrá exceder, mensualmente y por cada pensionado o beneficiario, de cuarenta y cinco Unidades de Fomento, suma esta de la que se deducirá la cantidad correspondiente al pago parcial que se hubiere efectuado, en su caso.
 
@@ -2338,13 +2332,17 @@ Facúltase al Presidente de la República para que, en el plazo de ciento ochent
 
 Todas las pensiones que establece este cuerpo legal estarán afectas a una cotización uniforme del siete por ciento en la parte que no exceda de sesenta Unidades de Fomento del día de su pago.
 
-Dicha cotización será destinada a financiar prestaciones de salud y descontada por la entidad obligada al pago de la respectiva pensión para ser enterada en el Fondo Nacional de Salud.
+Dicha cotización serán destinada a financiar prestaciones de salud y descontada por la entidad obligada al pago de la respectiva pensión para ser enterada en el Fondo Nacional de Salud.
 
 Aquellos afiliados pensionados bajo la modalidad de retiro programado o renta temporal que habiendo agotado el saldo de su cuenta de capitalización individual no tengan derecho al sistema de pensiones solidarias, podrán enterar la cotización a que alude el inciso primero, calculada sobre el monto de la pensión básica solidaria vigente que corresponda.
 
 > **Nota.** Las modificaciones introducidas por la ley 18482, en su artículo 8°, rigen a contar del 1° de enero de 1986.
 
 > **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
+
+> **Nota.** NOTA 2 El Artículo 1 de la Ley 20531, publicada el 31.08.2011, dispone que a partir del 1 de noviembre de 2011 todas las pensiones que se encuentren percibiendo o que en el futuro perciban los beneficiarios del Sistema de Pensiones Solidarias de la ley Nº 20.255, estarán exentas de la cotización legal establecida por el presente artículo.
+
+> **Nota.** NOTA 3 El Artículo 2 de la Ley 20531, publicada el 31.08.2011, dispone que a contar del día 1 de diciembre de 2012, la cotización legal consagrada en este artículo, será de 5% para los pensionados del sistema de pensiones establecidos en las leyes N°s 16.744, 19.234, y en el presente Decreto, siempre que cumplan con los requisitos establecidos en las letras a) y c) del artículo 3º de la ley Nº 20.255 y que integren un grupo familiar perteneciente a los cuatro primeros quintiles de la población de Chile conforme al instrumento técnico de focalización señalado en el artículo 32 de la ley antes citada. Asimismo ordena que esta rebaja no será aplicable a las pensiones de los regímenes de la Caja de Previsión de la Defensa Nacional y de la Dirección de Previsión de Carabineros de Chile. Y, finalmente, consagra que los pensionados que sean beneficiarios del Sistema de Pensiones Solidarias se aplicarán las normas de exención de la referida cotización contenidas en el artículo 31 de la ley Nº 20.255 y en el artículo 1º de la referida ley N° 20531, según corresponda.
 
 #### Artículo 86
 
