@@ -30,7 +30,13 @@ Deléganse en el Subsecretario para las Fuerzas Armadas las siguientes facultade
 
 3. Aprobar y firmar todos los informes, oficios y demás documentos de carácter presupuestario, financiero y administrativo que tengan como consecuencia inmediata y directa la aplicación de los recursos de la ley 13.196.
 
-4. Suscribir los contratos que se originen como consecuencia de la aplicación de la ley en referencia.
+4. Suscribir contratos con las siguientes personas jurídicas:
+
+a) Con bancos, respecto a las colocaciones transitorias en el Mercado de Capitales;
+
+b) Con bancos, derivados de la administración de Cuentas Corrientes; y
+
+c) Con bancos, referente a operaciones ordinarias en el Mercado de Divisas.
 
 5. Resolver todas aquellas materias relacionadas con los procedimientos a que se refiere el DS (G)(R) 124, de 26.oct.2004, que aprueba el reglamento complementario de la ley Nº 7.144, que crea el CONSUDENA, en todo lo que no sea contrario a la ley Nº 20.424.
 
