@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.314, de 12 de diciembre de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 855 de 1989, modificada por la resolución exenta Nº 3.565 de 2007, ambas de esta Subsecretaría de Pesca, que autorizó a Pesquera El Golfo S.A. - hoy BLUMAR S.A.- para realizar actividades pesqueras extractivas con la nave "Pelikan", respecto del recurso hidrobiológico Reineta, en el área marítima comprendida entre la V Región y el paralelo 41° L.S., en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum Técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 12 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
