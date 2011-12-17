@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.317, de 12 de diciembre de 2011, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 2.564 de 2007, sólo en cuanto autorizó a PESQUERA BÍO BÍO S.A., para realizar actividades pesqueras extractivas con una nave en construcción en el área marítima comprendida entre la XV Región y el paralelo 41°28,6' L.S., sobre el recurso hidrobiológico Reineta, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memorándum Técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 12 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
