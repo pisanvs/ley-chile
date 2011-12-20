@@ -48,6 +48,10 @@ Se garantiza la libertad ideológica y religiosa de los internos, su derecho al 
 
 La Administración Penitenciaria velará por la vida, integridad y salud de los internos y permitirá el ejercicio de los derechos compatibles con su situación procesal.
 
+Los internos que hayan cumplido su condena en un establecimiento penitenciario de régimen cerrado, podrán al momento de su egreso pernoctar extraordinariamente hasta las 07:00 horas del día siguiente al de la fecha de su cumplimiento, siempre y cuando lo soliciten como medida de resguardo de su integridad.
+
+La forma en que se implemente esta medida, se establecerá mediante resolución fundada por cada Director Regional. Con todo, el interno deberá permanecer siempre separado del resto de la población penal, debiendo adoptar la administración penitenciaria las medidas de seguridad que correspondan.
+
 #### Artículo 7º
 
 El principio de inocencia presidirá el régimen penitenciario de todos los internos detenidos y sujetos a prisión preventiva.
@@ -188,6 +192,14 @@ La Administración Penitenciaria abrirá al ingreso de un interno, una ficha ún
 
 La Administración Penitenciaria, por Resolución del Director Regional respectivo, establecerá el horario que regirá las actividades de los establecimientos penitenciarios, que fomente hábitos similares al del medio libre, tales como horas de inicio y término de la jornada diaria, y de alimentación, garantizando al menos ocho horas diarias para el descanso. En el resto del horario deberán atenderse las necesidades espirituales y físicas, las actividades de tratamiento, formativas y culturales de los internos.
 
+#### Artículo 27 bis
+
+La administración penitenciaria, como medida de seguridad, y con el objeto de detectar la tenencia de elementos declarados prohibidos por la autoridad, podrá disponer la realización de registros corporales a los internos, que consistirán en una revisión visual y táctil exhaustiva de la vestimenta y especies que éstos porten. Dichas actuaciones se realizarán por funcionarios del mismo sexo de la persona a quien se registra, en espacios previamente determinados y de conformidad a los procedimientos establecidos por resolución del Director Nacional.
+
+Con todo, en la realización de los registros corporales, quedará prohibido el desprendimiento integral de la vestimenta de los internos, la ejecución de registros intrusivos, la realización de ejercicios físicos y, en general, cualquier otra actividad que menoscabe la dignidad de éstos. Para tales efectos, la administración penitenciaria propenderá a la utilización de elementos tecnológicos.
+
+Cuando existan antecedentes que hagan presumir que un interno oculta en su cuerpo algún elemento prohibido, susceptible de causar daño a la salud o integridad física de éste, o de otras personas, o de alterar la seguridad del establecimiento, el interno será derivado a la respectiva unidad médica para la realización del procedimiento correspondiente.
+
 #### Artículo 28
 
 Por Resolución fundada del Director Nacional, quien podrá delegar esta facultad en los Directores Regionales, serán ingresados o trasladados a departamentos, módulos, pabellones o establecimientos especiales, los penados cuya situación haga necesaria la adopción de medidas dirigidas a garantizar la vida e integridad física o psíquica de las personas y el orden y seguridad del recinto.
@@ -215,6 +227,18 @@ Se cuidará especialmente la observancia puntual del horario, de los encierros y
 Por razones de seguridad, podrán ser intervenidas o restringidas las comunicaciones orales y escritas.
 
 Todas las actividades serán programadas y/o autorizadas y controladas por la Administración Penitenciaria.
+
+#### Artículo 29 bis
+
+El registro corporal a que pueden ser sometidos los internos se hará de manera individual, respetando su integridad y dignidad. Existirán tres tipos de registro: el cotidiano o en situación normal; el especial y el correspondiente a situaciones de emergencia.
+
+El registro cotidiano o en situación normal consiste en una revisión visual y táctil superficial. Se propenderá a que este registro se realice una vez terminado el horario de visita.
+
+El registro especial consiste en la realización de una revisión corporal visual y táctil de las prendas y especies que porte el interno en el contexto de procedimientos especiales o preventivos relacionados con salidas fuera del establecimiento penitenciario o ante procedimientos catalogados como sensibles, a juicio del Jefe de Unidad, al interior del mismo, tales como los allanamientos.
+
+El registro en situación de emergencia, se realizará cuando exista la necesidad real y urgente de pesquisar, detectar o incautar cualquier elemento prohibido por la Administración o este Reglamento, respecto de situaciones que revistan características de delito o quiebre del régimen interno, a partir de la vulneración de la seguridad integral del establecimiento.
+
+Los procedimientos de registro corporal deben ser realizados por funcionarios del mismo sexo del interno a quien se registra.
 
 #### Artículo 30
 
