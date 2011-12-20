@@ -1,0 +1,21 @@
+APRUEBA REFORMA DE ESTATUTOS A "SECURITIZADORA LA CONSTRUCCIÓN S.A."
+
+Certifico: Que por escritura pública de 27 de octubre de 2011, otorgada en la notaría de don Camilo Valenzuela Riveros, se redujo el acta de la junta extraordinaria de accionistas de la sociedad anónima especial denominada "Securitizadora La Construcción S.A.", celebrada el 26 de octubre de 2011.
+
+Que por resolución exenta Nº 615, de fecha 14 de diciembre de 2011 esta Superintendencia de Valores y Seguros junto con revocar la autorización de existencia de la sociedad anónima especial denominada "Securitizadora La Construcción S.A." y cancelar su inscripción en el Registro de Valores, como sociedad securitizadora, aprobó reforma de estatutos de ésta, consistente en su transformación a una sociedad de responsabilidad limitada, en los siguientes términos:
+
+La sociedad denominada "Compañía de Asesorías e Inversiones Las Lengas", representada por don Juan Pablo Cristóbal Cruz Barros, ambos domiciliados en calle San Carlos de Apoquindo Nº 1318, comuna de Las Condes, Santiago; la sociedad denominada "Compañía de Inversiones y Asesorías Santa Amalia", representada por don Álvaro Carlos Molina Campaña, ambos domiciliados en calle Camino La Villa Nº 828-C, comuna de Lo Barnechea, Santiago; la sociedad denominada "Asesorías e Inversiones Zúñiga Conte y Compañía", representada por don Hernán Osvaldo Zúñiga Obregón, ambos domiciliados en Avenida Marathon Nº 5613, comuna de Macul, Santiago; la sociedad denominada "Asesorías e Inversiones Reni Limitada", representada por don Eduardo Alberto Birke Pfister, ambos domiciliados en calle Medinacelli Nº 1205, comuna de Las Condes, Santiago; y la sociedad denominada "Compañía de Asesorías e Inversiones Vichuquén", representada por don José Andrés Alliende González, ambos domiciliados en calle Monseñor Sótero Sanz Nº 100, oficina 604, comuna de Providencia, Santiago constituyeron una Sociedad Civil de Responsabilidad Limitada, cuyas indicaciones esenciales a continuación se extractan:
+
+a) Nombre de la sociedad "Inversiones SLC Limitada".
+
+b) Administración y uso de la razón social: Corresponderá conjuntamente a dos cualesquiera de los señores Eduardo Alberto Birke Pfister, José Andrés Alliende González, Álvaro Carlos Molina Campaña y Hernán Osvaldo Zúñiga Obregón.
+
+c) Capital: La suma de $329.249.080, que los socios aportan y enteran de la siguiente forma: "Compañía de Asesorías e Inversiones Las Lengas", "Compañía de Inversiones y Asesorías Santa Amalia", "Asesorías e Inversiones Zúñiga Conte y Compañía", "Asesorías e Inversiones Reni Limitada" y "Compañía de Asesorías e Inversiones Vichuquén", $65.849.816 cada una, equivalentes al 20% del capital social cada una, todos aportes íntegramente pagados con anterioridad, pues corresponde al capital suscrito y pagado, revalorizado, por cada socio en la sociedad anónima especial "Securitizadora La Construcción S.A.", transformada a la presente. Los socios limitan su responsabilidad personal hasta el monto de sus respectivos aportes.
+
+d) Objeto: El ahorro en toda clase de instrumentos de inversión, para la obtención de rentas civiles, incluso formar parte o tomar participación en otras sociedades existentes o que se constituyan en el futuro. La sociedad no podrá, en caso alguno, realizar actividades secundarias y terciarias, a las que se refieren el decreto ley Nº 3.063, de 1979, sobre Rentas Municipales, y el decreto supremo Nº 484, del Ministerio del Interior, de 1980.
+
+e) Duración: Será de 1 año a contar del día 1º de octubre de 2011, plazo que se renovará automática y sucesivamente por períodos iguales y sucesivos de 1 año cada uno, salvo que alguno de los socios exprese su voluntad de ponerle término en el plazo estipulado mediante una declaración hecha por escritura pública y de la cual deberá tomarse nota al margen de la inscripción respectiva en el Registro de Comercio antes de la fecha fijada para la disolución. Las mencionadas declaración y anotación deberán hacerse con no menos de 60 días de anticipación al vencimiento respectivo.
+
+f) Otras cláusulas contenidas en escritura pública extractada.
+
+Santiago, 14 de diciembre de 2011.- Nelson Torres Morgado, Secretario General Subrogante.
