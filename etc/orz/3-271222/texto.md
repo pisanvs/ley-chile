@@ -98,7 +98,7 @@ Del Horario de Funcionamiento
 
 Considerando que la comuna, en todas sus zonas, tiene carácter eminentemente turístico; por medidas de seguridad ciudadana y en resguardo de la tranquilidad de los vecinos y turistas -objetivo primordial de la gestión municipal- se hace necesario fijar horarios diferenciados de funcionamiento a los establecimientos de expendio de bebidas alcohólicas para ser consumidas dentro o fuera del local de venta que se indican:
 
-.
+NOTA: VER DIARIO OFICIAL DE 14.05.2008, PAGINA 9
 
 Sin perjuicio de lo señalado en el inciso anterior y previo pago del respectivo derecho municipal, otórguese autorización especial transitoria para el expendio de bebidas alcohólicas, en los locales o establecimientos que estén clasificados como tales, para el expendio de dichas bebidas y previa evaluación de la Municipalidad, en los siguientes días y horarios:
 
@@ -111,8 +111,6 @@ Sin perjuicio de lo señalado en el inciso anterior y previo pago del respectivo
 - 25 de Diciembre: entre las 02:00 horas y las 05:00 horas del día 25 de Diciembre.
 
 Lo anterior, siempre y cuando los solicitantes cumplan con las disposiciones establecidas, en cuanto al funcionamiento, por el artículo 3º y demás normas pertinentes de la Ley Nº 19.925.
-
-> **Nota.** El artículo 1° de la Ordenanza, Municipalidad de San Pedro de Atacama, publicada el 24.04.2019, modifica temporalmente la categoría C del cuadro de la presente norma hasta el 31 de julio del año 2019.
 
 #### Artículo 11
 
