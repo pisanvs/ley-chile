@@ -12,15 +12,11 @@ a) Servicios desde y hacia Ruta 68:
 
 a.1) Primer grupo de trazados:
 
-Acceso:
-
-Vía Las Palmas - Trébol Villa Dulce - Camino Troncal - 1 Norte -Puente Alonso de Riberos - Marina - Arlegui - Quilpué - Terminal Rodoviario.
+Acceso: Vía Las Palmas - Troncal Sur - Rotonda Troncal Sur - Limache - Viana - Quillota - Avda. Valparaíso - Quilpué (Terminal)
 
 a.2) Segundo grupo de trazados:
 
-Acceso:
-
-Ruta 66 - Agua Santa - Alvares - Quinta - Errázuriz - Eduardo Grove - Bhon - Quillota - Av. Valparaíso - Crucero - Arlegui - Quilpué - Terminal Rodoviario.
+Acceso: Ruta 66 – Avda. Agua Santa - Álvarez - Quinta – Errázuriz - E. Grove - Álvarez – Quillota - Avda. Valparaíso - Quilpué (Terminal).
 
 Salida:
 
@@ -42,9 +38,7 @@ Valparaíso-Batuco-Arlegui-Puente Mercado-1 Norte-Puente Casino- Marina- Av. Esp
 
 c) Servicios por Ruta 60 CH (Camino Internacional):
 
-Acceso:
-
-Ruta 60 CH- Rotonda Santa Julia- Av. Carlos Ibáñez del Campo- Rubén Hurtado- Trébol Villa Dulce- Troncal- 1 Norte- Puente Alonso de Riberos- Marina- Arlegui- Quilpué- Pasaje San Luis- Terminal Rodoviario.
+Acceso Ruta 60 CH - Rotonda Santa Julia - Avda. Carlos Ibáñez del Campo - Rubén Hurtado - Trébol Villa Dulce - Vía Las Palmas - Troncal Sur - Rotonda Troncal Sur - Limache - Viana - Quillota - Avda. Valparaíso - Quilpué (Terminal).
 
 Salida:
 
@@ -52,9 +46,7 @@ Terminal Rodoviario-Av. Valparaíso-Cancha-Puente Alonso de Riberos-1 Norte-Tron
 
 d) Servicios por Camino Troncal:
 
-Acceso:
-
-Troncal-1 Norte-Puente Alonso de Riberos- Marina-Arlegui- Quilpué- Pasaje San Luis-Terminal Rodoviario.
+Acceso: Camino Troncal Urbano - 1 Norte - Puente Alonso de Riberos - Cancha - Valdivia - Viana - Quillota - Avda. Valparaíso - Quilpué (Terminal)
 
 Salida:
 
