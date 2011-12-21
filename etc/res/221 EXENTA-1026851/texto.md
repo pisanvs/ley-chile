@@ -20,7 +20,7 @@ Resolución:
 
 3.- Conforme a lo indicado en el artículo 6º bis del DS Nº 255 (V. y U.), de 2006, el proyecto presentado debe considerar que la vivienda, una vez intervenida, cumpla con las exigencias de Acondicionamiento Térmico establecidas en el artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones, para la zona térmica definida en la resolución Nº 482 (V. y U.), de 1999. Para acreditar el cumplimiento de la señalada exigencia de acondicionamiento térmico, los proyectos presentados deben incluir el detalle de la vivienda sin intervenir y de la vivienda una vez intervenida, señalando la forma en que se da cumplimiento a la misma, según formato adjunto para tal efecto.
 
-El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo), o en menor medida las que sean necesarias para la regularización de la vivienda. Se deberá considerar como parte del proyecto la instalación de ventilación mecánica controlada en baño y cocina.
+El monto del subsidio solicitado deberá destinarse en un 100% a obras de acondicionamiento térmico de la vivienda (cumplimiento del artículo 4.1.10 de la Ordenanza General de Urbanismo y Construcciones y mejoras por sobre los estándares fijados por dicho artículo), o en menor medida las que sean necesarias para la regularización de la vivienda. Se deberá considerar como parte del proyecto la instalación de ventilación controlada en baño y cocina.
 
 Excepcionalmente y en los proyectos que presenten un presupuesto detallado que justifique que el monto del subsidio entregado no fuese suficiente para dar íntegro cumplimiento a lo establecido en el párrafo anterior, el Serviu respectivo podrá aprobar proyectos que den cumplimiento parcial a las exigencias establecidas por el citado artículo 4.1.10. En estos casos se deberá considerar la siguiente priorización de intervención por tipo de elemento:
 
@@ -249,5 +249,7 @@ comedor, dormitorios).
 8. Mediante resoluciones de esta SEREMI de Vivienda y Urbanismo de la Región de Magallanes y Antártica Chilena, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por el SERVIU Magallanes en los términos previstos en el DS Nº 255 (V. y U.), de 2006.
 
 9. Facúltese al SERVIU Magallanes para utilizar los recursos de Asistencia Técnica, en caso de tener que actuar como Prestador de Asistencia Técnica, para el pago de Servicios Profesionales.
+
+10. En el presente llamado se permitirá la participación de Prestadores de Servicios de Asistencia Técnica que hubieran suscrito el anterior Convenio Marco Único Regional con esta Seremi prorrogándose, para este solo efecto, la vigencia de dicho instrumento hasta el 31 de diciembre de 2011.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Christian Matheson Villán, Secretario Regional Ministerial de Vivienda y Urbanismo Región de Magallanes y Antártica Chilena.
