@@ -16,7 +16,7 @@ b) La facultad que me confiere el inciso sexto del artículo 34 del DS Nº 174 (
 
 Resolución:
 
-1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el desarrollo de proyectos de construcción en las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, L. B. O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana. Los proyectos postulantes deberán contar con Certificado de Calificación hasta el día 12 de diciembre de 2011.
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el desarrollo de proyectos de construcción en las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Coquimbo, Valparaíso, L. B. O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana. Los proyectos postulantes deberán contar con Certificado de Calificación hasta el día 23 de diciembre de 2011.
 
 2. Los proyectos postulantes podrán participar acreditando la disponibilidad de terreno mediante contrato de promesa de compraventa, suscrito entre el vendedor y la municipalidad respectiva en que se desarrollará el proyecto habitacional, acompañando copia de la inscripción de dominio vigente a nombre del promitente vendedor. Además deberán contar con el acuerdo del Concejo Municipal en el cual quede establecido que el terreno una vez adquirido por la Municipalidad será transferido al Serviu respectivo. La municipalidad financiará la adquisición del terreno con recursos procedentes de la Subsecretaría de Desarrollo Regional y Administrativa.
 
