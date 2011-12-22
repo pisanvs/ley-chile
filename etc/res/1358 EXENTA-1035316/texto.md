@@ -1,0 +1,1 @@
+Pone termino administrativo a Convenio Marco Unico Regional suscrito por Egis
