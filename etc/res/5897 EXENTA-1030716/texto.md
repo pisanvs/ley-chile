@@ -22,23 +22,23 @@ Límite Norte : Río Puelche.
 
 Límite Sur : Autopista Acceso Sur.
 
-Límite Oriente : Av. Santa Rosa.
+Límite Oriente : Av. Autopista Acceso Sur.
 
-Límite Poniente : Av. Autopista Acceso Sur.
+Límite Poniente : Av. Santa Rosa.
 
 2. Selecciónase como nuevo barrio para la atención a través del Programa de Recuperación de Barrios, al Barrio La Cañamera de la comuna de Puente Alto, ubicada dentro del polígono comprendido entre los límites que a continuación se señalan:
 
-Límite Norte : Estación Pitrufquén - Nueve de agosto
+Límite Norte : Estación Pitrufquén - Nueve de
 
-- El Sauce - Fondo de Sitio El Retén -
+agosto - El Sauce - Fondo de Sitio
 
-Quitalmahue - Fondo de Sitio Punta
+El Retén - Quitalmahue - Fondo de
 
-Chilén.
+Sitio Punta Chilén.
 
-Límite Sur : La Lechería - El Sauce - El Xilófono -
+Límite Sur : La Lechería - El Sauce - El Xilófono
 
-Fondo de Sitio Quellón.
+- Fondo de Sitio Quellón.
 
 Límite Oriente : Av. Juanita.
 
