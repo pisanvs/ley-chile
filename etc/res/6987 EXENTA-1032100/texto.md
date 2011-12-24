@@ -24,19 +24,19 @@ El desarrollo de un proceso de selección considerando estas zonas, donde las Se
 
 Resolución:
 
-1. Llámase a postulación en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, del Libertador Bernardo 0'Higgins, del Maule, del Biobío, de La Araucanía, de Los Lagos y Metropolitana para el otorgamiento de subsidios de los Títulos I y II del Capítulo Primero del Programa de Protección del Patrimonio Familiar, destinados al desarrollo de proyectos de Equipamiento Comunitario y/o Mejoramiento del Entorno y Mejoramiento de Bienes Comunes Edificados y Obras de Innovación de Eficiencia Energética del Título II, a ser seleccionados mensualmente si cuentan con Certificado de Calificación hasta el último día hábil de cada mes, a partir del mes de octubre y hasta el mes de diciembre de 2011. Se excluyen de este llamado los proyectos señalados en las letras b.1), b.2) y b.3), de la letra b) del título II del artículo 5º, del DS 255 (V. y U.), de 2006.
+1. Llámase a postulación en las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, del Libertador Bernardo O'Higgins, del Maule, del Biobío, de La Araucanía, de Los Lagos y Metropolitana para el otorgamiento de subsidios de los Títulos I y II del Capítulo Primero del Programa de Protección del Patrimonio Familiar, destinados al desarrollo de proyectos de Equipamiento Comunitario y/o Mejoramiento del Entorno y Mejoramiento de Bienes Comunes Edificados y Obras de Innovación de Eficiencia Energética del Título II, a ser seleccionados mensualmente si cuentan con Certificado de Calificación hasta el último día hábil de cada mes, a partir del mes de octubre y hasta el mes de diciembre de 2011. Siendo la excepción de este llamado los proyectos presentados en la selección del mes de diciembre, donde el certificado de calificación deberá estar al día 28 de diciembre y el ahorro al día 23 de diciembre de 2011. Se excluyen de este llamado los proyectos señalados en las letras b.1), b.2) y b.3), de la letra b) del título II del artículo 5º, del DS 255 (V. y U.), de 2006.
 
-2. Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos y condiciones del DS Nº 255 (V. y U.) de 2006:
+2. Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos y condiciones establecidos en el DS Nº 255 (V. y U.), de 2006:
 
-a. De los montos de subsidio regulados por los artículos 6º y 6º bis.
+a) De los montos de subsidio regulados por los artículos 6º y 6º bis.
 
-b. De las exigencias de ahorro contenidas en el artículo 9º y la letra f) del artículo 16.
+b) De las exigencias de ahorro contenidas en el artículo 9º en la letra f) del artículo 16.
 
-c. De lo establecido en el artículo 46, letras a) y b).
+c) De lo establecido en el artículo 46, letras a) y b).
 
-d. De cumplir con lo señalado en el resuelvo 6º de la resolución exenta Nº 7.080 (V. y U.), de 2008, que determina la metodología para definir puntaje de corte para calificar programas habitacionales que indica.
+d) De cumplir con lo señalado en el resuelvo 6º de la resolución exenta Nº 7.080 (V. y U.), de 2008, que determina la metodología para definir puntaje de corte para calificar a Programas Habitacionales que indica.
 
-Podrán participar en este llamado los Conjuntos Habitacionales que se indican en la siguiente tabla, cuya selección se realizó conforme a lo establecido en el oficio al que se refiere el visto 4 y a los lineamientos del Programa de Condominios Sociales de la Secretaría Ejecutiva de Desarrollo de Barrios:
+Podrán participar en este llamado los conjuntos habitacionales que se indican en la siguiente tabla, cuya selección se realizó conforme a lo establecido en el oficio Nº 340, del Subsecretario de Vivienda y Urbanismo, de fecha 13 de abril de 2011, y a los lineamientos del Programa de Condominios Sociales de la Secretaría Ejecutiva de Desarrollo de Barrios:
 
 3. Los recursos disponibles para este llamado, se distribuirán regionalmente según el siguiente cuadro:
 
