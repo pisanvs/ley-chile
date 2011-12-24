@@ -122,6 +122,8 @@ Temuco:
 
 . El tramo urbano de la Ruta S-30, S-40, desde el límite urbano Oriente hasta Ruta 5; a través de Manuel Recabarren.
 
+. El Sistema Vial que interconecta Rudecindo Ortega con la Ruta S-215, a través de: Nahuelbuta y Barros Arana, hasta el Límite Urbano Nororiente
+
 5º Declárase Caminos Públicos en las áreas urbanas de las siguientes ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Almagro:
@@ -184,9 +186,9 @@ General López:
 
 - El tramo urbano de la Ruta S-273, desde el límite urbano Sur hasta Ruta S-31, a través de Luis Cruz Martínez e Ignacio Carrera Pinto.
 
-Gualpin:
+Hualpín
 
-. El tramo urbano de la Ruta S-60, desde el límite urbano Norte hasta el límite urbano Sur; a través de: Av. Esperanza, Manuel Plaza, O'Higgins, Prat y Camino a Toltén.
+El tramo urbano de la Ruta S-60, desde el límite urbano norte hasta el límite urbano sur, a través de Avenida Esperanza, calles Manuel Plaza, Alessandri, Prat y Camino a Toltén.
 
 Labranza:
 
