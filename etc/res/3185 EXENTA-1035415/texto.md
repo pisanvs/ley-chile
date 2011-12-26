@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.185, de 5 de diciembre de 2011, de esta Subsecretaría, apruébase proyecto técnico de acuicultura para el área de manejo Meninea, sector A, XI Región, presentado por el SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL, BUZOS MARISCADORES "NUEVA VENTURA", en dos sectores ubicados en un área de 4,09 hectáreas, cuyas coordenadas geográficas, referidas a la carta SHOA Nº 4320, 1ª Edición 1994 (WGS-84), son:
+
+Valparaíso, 5 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
