@@ -1,0 +1,3 @@
+EXTRACTO DE DECRETO Nº 1.963, DE 2011
+
+Por decreto alcaldicio Nº 1.963 (24.11.2011), la I. Municipalidad de Macul otorgó un plazo de 10 días corridos, al Sr. Agustín Rodríguez Villagra, para hacer retiro de su kiosco ubicado en calle Gabriela Mistral frente al Nº 3164 Villa Continental, por infringir la Ordenanza sobre Actividad Comercial, Industrial y Servicios, facultando a la Dirección de Aseo y Ornato para su retiro, si no se diere cumplimiento.
