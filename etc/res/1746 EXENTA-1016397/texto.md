@@ -12,12 +12,14 @@ Considerando:
 
 Resuelvo:
 
-Delégase, indistintamente y a partir del 23 de agosto de 2010, en el Jefe de Departamento, don Sergio Eduardo Stephan Orellana, RUN Nº 10.150.084-5, directivo grado 4º E.U.S., y en la funcionaria administrativa doña Carmen Sandra Flores Navarro, RUN Nº 10.065.361-3, grado 14º E.U.S., ambos con desempeño en la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, la facultad de firmar bajo la fórmula "Por orden del Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana", las siguientes materias:
+Delégase, y a partir del 23 de agosto de 2010, en la funcionaria administrativa doña Carmen Sandra Flores Navarro, RUN Nº 10.065.361-3, grado 14º E.U.S., con desempeño en la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, la facultad de firmar bajo la fórmula "Por orden del Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana", las siguientes materias:
 
 a) Emisión de Certificado de Cancelación Definitiva de taxi del Registro Nacional de Servicios de Transporte de Pasajeros (RNSTP) por reemplazo, según artículo 73 bis del D.S. Nº 212, de 1992, del Ministerio de Transportes y Telecomunicaciones.
 
 b) Emisión de certificado que habilita a vehículo en trámite de incorporación como taxi al RNSTP, para obtener en planta revisora autorizada, certificado de revisión técnica o certificado de verificación de características de servicio, según corresponda, todo de conformidad con el respectivo Manual de Instrucciones para la Revisión Técnica.
 
 c) Formulación, vía oficio, de observaciones o reparos a solicitud de incorporación de vehículos, tanto a servicios inscritos de transporte público remunerado de pasajeros y de transporte remunerado de escolares, como de servicios autorizados de transporte privado remunerado de pasajeros.
+
+d) Emisión de Certificados de Inscripción Provisoria.
 
 Anótese, comuníquese y publíquese.- Raimundo Cruzat Correa, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana
