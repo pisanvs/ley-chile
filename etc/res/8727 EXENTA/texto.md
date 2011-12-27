@@ -18,7 +18,9 @@ Resolución:
 
 2. En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en el área urbana de una localidad de hasta 2.000 habitantes según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución N° 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidades de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, equivalentes a 44 Unidades de Fomento y 11 Unidades de Fomento respectivamente.
 
-3. Los subsidios asignados mediante los resuelvos 1 y 2 de la presente resolución, ascendentes a un total de 9.889 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Maule, para el año 2010.
+3. Impútese el monto total de 9.919 Unidades de Fomento asignado en los puntos 1 y 2 de esta resolución de la siguiente forma: 9.889 Unidades de Fomento a los recursos dispuestos para el Programa Fondo Solidario de Vivienda de la Región del Maule para el año 2010, y el monto de 30 Unidades de Fomento a los recursos dispuestos para el Programa Fondo Solidario de Vivienda de la Región del Maule para el año 2011.
+
+> **Nota.** El numeral 1 letra a) de la Resolución 9288 Exenta, Vivienda, publicada el 27.12.2011, modifica la presente norma, en el sentido de reemplazar en el resuelvo 1 la fila correspondiente a la Sra. Francisca Márquez Salazar, de acuerdo a lo que señala la citada norma.
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 

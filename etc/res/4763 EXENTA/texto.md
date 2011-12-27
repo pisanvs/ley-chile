@@ -20,7 +20,9 @@ Resolución:
 
 2. En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en área urbana de localidades de hasta 2.000 habitantes según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución N° 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidad de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, incremento total equivalente a 196 Unidades de Fomento y 49 Unidad de Fomento respectivamente.
 
-3. Los subsidios asignados mediante los Resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 46.169 Unidades de Fomento se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Maule, para el año 2011.
+3. Los subsidios asignados mediante los Resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 46.089 Unidades de Fomento se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Maule, para el año 2011.
+
+> **Nota.** El numeral 4 de la Resolución 9288 Exenta, Vivienda, publicada el 27.12.2011, modifica el resuelvo 1 de la presente norma de la manera siguiente:- En la letra a) dispone reemplazar las filas correspondientes a Ema del Carmen Arellano Fuentealba y Alejandro Antonio Vásquez Morales, de acuerdo a lo que la citada norma indica, y- En la letra b) ordena reemplazar en la fila correspondiente a Vitaly del Carmen Arellano Bravo, la comuna de "Curepto" por la de "Pencahue".
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
