@@ -54,93 +54,121 @@ Documento emitido por la Dirección, que acredita que una determinada persona na
 
 Proveedor que suministra bienes o servicios a las Entidades, en virtud de la Ley de Compras y del presente Reglamento.
 
-9. Contrato de Suministro y Servicio:
+9. Contrato de Suministro de Bienes Muebles:
 
-Contrato que tiene por objeto la contratación o el arrendamiento, incluso con opción de compra, de bienes muebles o servicios.
+Aquel que tiene por objeto la compra o el arrendamiento, incluso con opción de compra, de productos o bienes muebles. Un contrato será considerado igualmente de suministro si el valor del servicio que pudiere contener es inferior al cincuenta por ciento del valor total o estimado del contrato.
 
-10. Convenio Marco:
+10. Contrato de Servicios:
+
+Aquél mediante el cual las entidades de la Administración del Estado encomiendan a una persona natural o jurídica la ejecución de tareas, actividades o la elaboración de productos intangibles. Un contrato será considerado igualmente de servicios cuando el valor de los bienes que pudiese contener sean inferiores al cincuenta por ciento del valor total o estimado del contrato.
+
+Para efectos del presente reglamento, los servicios se clasificarán en generales y personales, los que a su vez podrán tener el carácter de servicios personales propiamente tal y personales especializados según lo señalado en el capítulo XII.
+
+11. Servicios Generales:
+
+Aquellos que no requieren un desarrollo intelectual intensivo en su ejecución, de carácter estándar, rutinario o de común conocimiento.
+
+12. Servicios Personales:
+
+Son aquellos que en su ejecución demandan un intensivo desarrollo intelectual.
+
+13. Servicios Habituales:
+
+Aquellos que se requieren en forma permanente y que utilizan personal de manera intensiva y directa para la prestación de lo requerido por la entidad licitante, tales como servicios de aseo, seguridad, alimentación, soporte telefónico, mantención de jardines, extracción de residuos, entre otros.
+
+***
+
+14. Convenio Marco:
 
 Procedimiento de contratación realizado por la Dirección de Compras, para procurar el suministro directo de bienes y/o servicios a las Entidades, en la forma, plazo y demás condiciones establecidas en dicho convenio.
 
-11. Dirección de Compras o Dirección:
+15. Dirección de Compras o Dirección:
 
 La Dirección de Compras y Contratación Pública.
 
-12. Entidades:
+16. Entidades:
 
 Los órganos y servicios indicados en el artículo 1° de la ley N° 18.575, salvo las empresas públicas creadas por ley y demás casos que la ley señale.
 
-13. Entidad Licitante:
+17. Entidad Licitante:
 
 Cualquier organismo regido por la Ley de Compras, que llama o invita a un Proceso de Compras.
 
-14. Formulario:
+18. Formulario:
 
 Formato o documentos elaborados por la Dirección, los cuales deberán ser completados por las Entidades interesadas en efectuar un Proceso de Compras, a través del Sistema de Información y de otros medios para la contratación electrónica.
 
-15. Ley de Compras:
+19. Ley de Compras:
 
 Ley Nº 19.886 de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
 
-16. Licitación o Propuesta Privada:
+20. Licitación o Propuesta Privada:
 
 Procedimiento administrativo de carácter concursal, previa resolución fundada que lo disponga, mediante el cual la Administración invita a determinadas personas para que, sujetándose a las bases fijadas, formulen propuestas, de entre las cuales seleccionará y aceptará la más conveniente.
 
-17. Licitación o Propuesta Pública:
+21. Licitación o Propuesta Pública:
 
 Procedimiento administrativo de carácter concursal mediante el cual la Administración realiza un llamado público, convocando a los interesados para que, sujetándose a las bases fijadas, formulen propuestas, de entre las cuales seleccionará y aceptará la más conveniente.
 
-18. Oferente:
+22. Oferente:
 
 Proveedor que participa en un Proceso de Compras, presentando una oferta o cotización.
 
-19. Plan Anual de Compras:
+23. Plan Anual de Compras:
 
 Plan anual de compras y contrataciones, que corresponde a la Lista de bienes y/o servicios de carácter referencial, que una determinada Entidad planifica comprar o contratar durante un año calendario.
 
-20. Proceso de Compras:
+24. Proceso de Compras:
 
 Corresponde al Proceso de compras y contratación de bienes y/o servicios, a través de algún mecanismo establecido en la Ley de Compras y en el Reglamento, incluyendo los Convenios Marcos, Licitación Pública, Licitación Privada y Tratos o Contratación Directa.
 
-21. Proveedor:
+25. Proveedor:
 
 Persona natural o jurídica, chilena o extranjera, o agrupación de las mismas, que puedan proporcionar bienes y/o servicios a las Entidades.
 
-22. Proveedor Inscrito:
+26. Proveedor Inscrito:
 
 Proveedor que se encuentra inscrito en alguna de las categorías del Registro de Proveedores.
 
-23. Registro de Proveedores:
+27. Registro de Proveedores:
 
 Registro electrónico oficial de Proveedores, a cargo de la Dirección, de conformidad a lo prescrito por la Ley de Compras.
 
-24. Reglamento:
+28. Reglamento:
 
 El presente reglamento.
 
-25. Sistema de Información:
+29. Sistema de Información:
 
 Sistema de Información de compras y contratación públicas y de otros medios para la compra y contratación electrónica de las Entidades, administrado y licitado por la Dirección de Compras y compuesto por software, hardware e infraestructura electrónica, de comunicaciones y soporte que permite efectuar los Procesos de Compra.
 
-26. Términos de Referencia:
+30. Términos de Referencia:
 
 Pliego de condiciones que regula el proceso de Trato o Contratación Directa y la forma en que deben formularse las cotizaciones.
 
-27. Trato o Contratación Directa:
+31. Trato o Contratación Directa:
 
 Procedimiento de contratación que por la naturaleza de la negociación debe efectuarse sin la concurrencia de los requisitos señalados para la Licitación o Propuesta Pública y para la Privada.
 
-28. Usuario comprador:
+32. Usuario comprador:
 
 Funcionario que participa directa y habitualmente en los Procesos de Compra de una Entidad Licitante en los términos previstos en el artículo 5 de este reglamento.
 
-29. Usuario oferente:
+33. Usuario oferente:
 
 Persona natural o jurídica que utiliza el Sistema de Información con el fin de participar en los Procesos de Compra que se realizan a través de él.
 
-30. Usuario ciudadano:
+34. Usuario ciudadano:
 
 Persona natural o jurídica que requiere información de los Procesos de Compra a través del Sistema de Información.
+
+35. Cotización:
+
+Requerimiento de información respecto de precios, especificaciones y detalles del bien o servicio.
+
+36. Documentos administrativos:
+
+Para efectos de este reglamento se entiende por documentos administrativos las certificaciones, antecedentes y en general aquellos que dan cuenta de la existencia legal y situación económica y financiera de los oferentes y aquellos que los habilitan para desarrollar actividades económicas reguladas.
 
 #### Artículo 3
 
@@ -154,7 +182,7 @@ Manual de Procedimientos de Adquisiciones:
 
 Las Entidades, para efectos de utilizar el Sistema de Información, deberán elaborar un Manual de Procedimientos de Adquisiciones, el que se deberá ajustar a lo dispuesto en la Ley de Compras y su Reglamento.
 
-Para estos efectos, el Manual de Procedimientos de Adquisiciones deberá referirse a lo menos, a las siguientes materias: Planificación de Compras, Selección de Procedimientos de Compra, Formulación de Bases y Términos de Referencia, Criterios y Mecanismos de Evaluación, Gestión de Contratos y de Proveedores, Recepción de Bienes y Servicios, Procedimientos de Pago, Política de Inventarios, uso del sistema www.chilecompra.cl, autorizaciones que se requieran para las distintas etapas del Proceso de Compra, y Organigrama de la Entidad y de las Areas que intervienen en los mismos, con sus respectivos niveles y flujos.
+Para estos efectos, el Manual de Procedimientos de Adquisiciones deberá referirse a lo menos, a las siguientes materias: Planificación de Compras, Selección de Procedimientos de Compra, Formulación de Bases y Términos de Referencia, Criterios y Mecanismos de Evaluación, Gestión de Contratos y de Proveedores, Recepción de Bienes y Servicios, Procedimientos de Pago, Política de Inventarios, uso del sistema www.chilecompra.cl, autorizaciones que se requieran para las distintas etapas del Proceso de Compra, y Organigrama de la Entidad y de las Areas que intervienen en los mismos, con sus respectivos niveles y flujos. Ademas, este manual deberá contemplar un procedimiento para la custodia, mantención y vigencia de las garantías, indicando los funcionarios encargados de dichas funciones y la forma y oportunidad para informar al Jefe del Servicio el cumplimiento del procedimiento establecido, sin perjuicio de la responsabilidad de éste.
 
 Dicho Manual deberá publicarse en el Sistema de Información y formará parte de los antecedentes que regulan los Procesos de Compra del organismo que lo elabora.
 
@@ -192,9 +220,17 @@ CAPITULO II: Determinación y Requisitos de los Procesos de Compras y Contrataci
 
 Procesos de Compras y Contrataciones:
 
-Las adquisiciones o contrataciones de Bienes o Servicios serán efectuadas por las Entidades a través de los Convenios Marcos, Licitación Pública, Licitación Privada y Trato o Contratación Directa, de conformidad a la Ley de Compras y al Reglamento.
+Las adquisiciones de bienes o contrataciones de servicios serán efectuadas por las entidades a través de los Convenios Marco, Licitación Pública, Licitación Privada, Trato o Contratación Directa, de conformidad a la Ley de Compras y su Reglamento.
 
-Además, las entidades podrán ser representadas por la Dirección de Compras en la licitación de bienes o servicios. Para ello, y en cada caso, se suscribirá un convenio en el cual se regulará la forma y alcance del mandato requerido.
+Cuando se trate de la contratación de servicios, el procedimiento dependerá de la clasificación de éstos, de acuerdo a lo establecido en el presente reglamento.
+
+Las entidades podrán ser representadas por la Dirección de Compras en la licitación de bienes o servicios. Para ello, y en cada caso, se suscribirá un convenio en el cual se regulará la forma y alcance del mandato requerido.
+
+#### Artículo 7 bis
+
+De las cotizaciones:
+
+Las cotizaciones se efectuarán a través del Sistema de Información y deberán contener información comprensiva de los requerimientos del bien o servicio cotizado.
 
 #### Artículo 8
 
@@ -292,6 +328,12 @@ Fragmentación:
 
 La Administración no podrá fragmentar sus contrataciones con el propósito de variar el procedimiento de contratación.
 
+#### Artículo 13 bis
+
+Consultas al Mercado:
+
+Las entidades licitantes podrán efectuar, antes de la elaboración de las bases de licitación, procesos formales de consultas o reuniones con proveedores, mediante llamados públicos y abiertos, convocados a través del Sistema de Información, con el objeto de obtener información acerca de los precios, características de los bienes o servicios requeridos, tiempos de preparación de las ofertas, o cualquier otra que requieran para la confección de las bases.
+
 CAPITULO III: Convenios Marco
 
 #### Artículo 14
@@ -311,6 +353,16 @@ Cada Entidad estará obligada a consultar el Catálogo antes de proceder a llama
 Si el Catálogo contiene el bien y/o servicio requerido, la Entidad deberá adquirirlo emitiendo directamente al Contratista respectivo una orden de compra, salvo que obtenga directamente condiciones más ventajosas en los términos referidos en el artículo 15 del presente Reglamento.
 
 Las órdenes de compra que se emitan en virtud del Catálogo, deberán ajustarse a las condiciones y beneficios pactados en el Convenio Marco y se emitirán a través del Sistema de Información.
+
+#### Artículo 14 bis
+
+Adquisiciones vía Convenio Marco:
+
+En las adquisiciones vía convenio marco superiores a 1.000 UTM, las entidades deberán comunicar, a través del Sistema, la intención de compra a todos los proveedores que tengan adjudicado en Convenio Marco el tipo de producto requerido.
+
+Esta comunicación será realizada con la debida antelación, considerando los tiempos estándares necesarios para la entrega de la cantidad de bienes o servicios solicitados, plazo que en ningún caso será inferior a los 10 días corridos antes de la emisión de la orden de compra.
+
+En ella se indicará, al menos, la fecha de decisión de compra, el producto o servicio requerido, la cantidad y las condiciones de entrega. La entidad deberá seleccionar la oferta más conveniente según resultado del cuadro comparativo que deberá confeccionar sobre la base de los criterios de evaluación y ponderaciones definidas en las bases de licitación del convenio marco respectivo, en lo que les sean aplicables, cuadro que será adjuntado a la orden de compra que se emita y servirá de fundamento de la resolución que apruebe la adquisición.
 
 #### Artículo 15
 
@@ -420,7 +472,7 @@ En todo caso, este requisito será obligatorio para las contrataciones que super
 
 7. Los criterios objetivos que serán considerados para decidir la adjudicación, atendido la naturaleza de los bienes y servicios que se licitan, la idoneidad y calificación de los Oferentes y cualquier otro antecedente que sea relevante para efectos de la Adjudicación.
 
-8. El nombre completo del funcionario de la Entidad Licitante encargado del Proceso de Compras y el medio de contacto.
+8. En las licitaciones menores a 1000 UTM y superiores a 100, definir si se requerirá la suscripción de contrato o si éste se formalizará mediante la emisión de la orden de compra por el comprador y aceptación por parte del proveedor, de conformidad con lo establecido en el articulo 63 del presente reglamento.
 
 9. Los medios para acreditar si el proveedor adjudicado registra saldos insolutos de remuneraciones o cotizaciones de seguridad social con sus actuales trabajadores o con trabajadores contratados en los últimos dos años y la oportunidad en que ellos serán requeridos.
 
@@ -478,7 +530,9 @@ No obstante, el plazo señalado precedentemente podrá rebajarse hasta 5 días c
 
 Lo anterior es sin perjuicio de las normas que sobre el particular se establecen en los acuerdos comerciales suscritos por Chile y se encuentren vigentes.
 
-En el caso de las licitaciones para contrataciones iguales o inferiores a 100 UTM, el plazo mínimo que debe mediar entre la publicación de las bases y la recepción de las ofertas será de 5 días corridos, el cual podrá rebajarse hasta 48 horas hábiles en el evento que se trate de bienes o servicios de simple y objetiva especificación, y que razonablemente conlleve un esfuerzo menor en la preparación de las ofertas. Con todo, en este último caso el plazo no podrá vencer en días inhábiles ni en un día lunes o en un día siguiente a un día inhábil, antes de medio día.
+En el caso de las licitaciones para contrataciones iguales o inferiores a 100 UTM, el plazo mínimo que debe mediar entre la publicación de las bases y la recepción de las ofertas será de 5 días corridos.
+
+Con todo, el plazo de cierre para la recepción de ofertas no podrá vencer en días inhábiles ni en un día lunes o en un día siguiente a un día inhábil, antes de las quince horas.
 
 > **Nota.** El artículo 2º del DTO 1562, Hacienda, publicado el 20.04.2006, dispone que la modificación a la presente norma, comenzarán a regir 30 días después de la fecha de su publicación.
 
@@ -492,11 +546,11 @@ Además, con el objeto de aumentar la difusión al llamado, la entidad licitante
 
 #### Artículo 27
 
-Aclaraciones:
+Contactos durante la licitación y aclaraciones:
 
 Las Bases establecerán la posibilidad de efectuar aclaraciones, en donde los Proveedores podrán formular preguntas, dentro del período establecido en ellas.
 
-Las preguntas formuladas por los Proveedores deberán efectuarse a través del Sistema de Información, salvo que en las Bases se permitan aclaraciones en soporte papel.
+Las preguntas formuladas por los Proveedores deberán efectuarse a través del Sistema de Información, salvo que en las Bases se permitan aclaraciones en soporte papel, no pudiendo los proveedores contactarse de ninguna otra forma con la entidad licitante o sus funcionarios, por la respectiva licitación, durante el curso del proceso.
 
 La Entidad Licitante pondrá las referidas preguntas en conocimiento de todos los proveedores interesados, a través del Sistema de Información, sin indicar el autor de las mismas.
 
@@ -646,9 +700,13 @@ La entidad licitante podrá permitir la presentación de certificaciones o antec
 
 Adjudicación de la oferta y notificación:
 
+Las entidades licitantes deberán publicar oportunamente en el Sistema de Información los resultados de sus procesos de licitación o contratación. Asimismo, deberán publicar la resolución fundada que declare la inadmisibilidad y/o la declaración de desierto del proceso.
+
+Cuando la adjudicación no se realice dentro del plazo señalado en las bases de licitación, la entidad deberá informar en el Sistema de Información las razones que justifican el incumplimiento del plazo para adjudicar e indicar un nuevo plazo para la adjudicación, debiendo estar contemplada en las bases esta posibilidad.
+
 La Entidad Licitante aceptará la propuesta más ventajosa, considerando los criterios de evaluación con sus correspondientes puntajes y ponderaciones, establecidos en las Bases y en el Reglamento.
 
-La Entidad Licitante aceptará una oferta mediante acto administrativo debidamente notificado al adjudicatario y al resto de los oferentes. En dicho acto deberán especificarse los criterios de evaluación que, estando previamente definidos en las bases, hayan permitido al adjudicatario obtener la calificación de oferta más conveniente.
+La Entidad Licitante aceptará una oferta mediante acto administrativo debidamente notificado al adjudicatario y al resto de los oferentes. En dicho acto deberán especificarse los criterios de evaluación que, estando previamente definidos en las bases, hayan permitido al adjudicatario obtener la calificación de oferta más conveniente. Para estos efectos deberán publicar la mayor cantidad de información respecto del proceso de evaluación, tal como informes técnicos, actas de comisiones evaluadoras, cuadros comparativos, entre otros. Igualmente, deberán indicar el mecanismo para resolución de consultas respecto de la adjudicación.
 
 La Entidad Licitante no podrá adjudicar la licitación a una oferta que no cumpla con las condiciones y requisitos establecidos en las Bases.
 
@@ -910,13 +968,13 @@ CAPITULO VIII: Contrato de Suministro y Servicio
 
 #### Artículo 63
 
-Contratos menores y Validez de la Oferta
+Contratos y Validez de la Oferta
 
-Los contratos menores a 100 UTM se formalizarán mediante la emisión de la orden de compra y la aceptación de ésta por parte del proveedor. En caso que una orden de compra no haya sido aceptada, los organismos públicos podrán solicitar su rechazo, entendiéndose definitivamente rechazada una vez transcurridas 24 horas desde dicha solicitud.
+Los contratos menores a 100 UTM se formalizarán mediante la emisión de la orden de compra y la aceptación de ésta por parte del proveedor. De la misma forma podrán formalizarse los contratos superiores a ese monto e inferiores a 1000 UTM, cuando se trate de bienes o servicios estándar de simple y objetiva especificación y se haya establecido así en las respectivas bases de licitación.
+
+En caso que una orden de compra no haya sido aceptada, los organismos públicos podrán solicitar su rechazo, entendiéndose definitivamente rechazada una vez transcurridas 24 horas desde dicha solicitud.
 
 El plazo de validez de las ofertas será de 40 días corridos, salvo que las Bases establezcan algo distinto. Si el Adjudicatario se niega a cumplir con su oferta, y a suscribir el correspondiente contrato definitivo, será responsable por el incumplimiento de conformidad a lo establecido en la Ley de Compras y en el Reglamento.
-
-> **Nota.** El artículo 2º del DTO 1562, Hacienda, publicado el 20.04.2006, dispone que la modificación a la presente norma, comenzarán a regir 30 días después de la fecha de su publicación.
 
 #### Artículo 64
 
@@ -962,7 +1020,7 @@ Cada entidad licitante podrá establecer, respecto del adjudicatario, en las res
 
 Garantía de cumplimiento:
 
-Para garantizar el fiel y oportuno cumplimiento del contrato una vez producida la adjudicación, el adjudicado entregará las cauciones o garantías que correspondan, a favor de la entidad licitante, cuyos montos ascenderán entre un 5% y un 30% del valor total del contrato, salvo lo dispuesto en los artículos 42 y 69 del presente Reglamento. Las bases administrativas que regulen contratos de ejecución sucesiva podrán asociar el valor de las garantías a las etapas o hitos de cumplimiento y permitir al contratante la posibilidad de sustituir la garantía de fiel cumplimiento, debiendo en todo caso respetarse los porcentajes precedentemente indicados en relación con los saldos insolutos del contrato a la época de la sustitución.
+Para garantizar el fiel y oportuno cumplimiento del contrato una vez producida la adjudicación, el adjudicado entregará las cauciones o garantías que correspondan, a favor de la entidad licitante, cuyos montos ascenderán entre un 5% y un 30% del valor total del contrato, salvo lo dispuesto en los artículos 42 y 69 del presente Reglamento. Las bases administrativas que regulen contratos de ejecución sucesiva podrán asociar el valor de las garantías a las etapas, hitos o períodos de cumplimiento y permitir al contratante la posibilidad de sustituir la garantía de fiel cumplimiento, debiendo en todo caso respetarse los porcentajes precedentemente indicados en relación con los saldos insolutos del contrato a la época de la sustitución.
 
 En el caso de contrataciones de prestación de servicios, se entenderá, sin necesidad de estipulación expresa, que las garantías constituidas para asegurar el fiel cumplimiento del contrato caucionan también el pago de las obligaciones laborales y sociales con los trabajadores de los contratantes.
 
@@ -1180,19 +1238,33 @@ Los Proveedores que deseen inscribirse en el Registro deberán presentar los doc
 
 Causales:
 
-Estarán inhabilitados para inscribirse en el Registro de Proveedores, los Proveedores que se encuentren en alguna de las siguientes circunstancias:
+Estarán inhabilitados para inscribirse en el Registro de Proveedores los que se encuentren en alguna de las siguientes circunstancias:
 
-1. Haber sido condenado con sanción de multa, por infracción al DFL Nº1 del 2005 que fija el texto refundido, coordinado y sistematizado del decreto ley Nº211, de 1973, en más de dos oportunidades, dentro de un período de 2 años, contado hacia atrás desde la fecha de solicitud de inscripción en el Registro, salvo que hubieren transcurrido 3 años desde el pago de la última multa impuesta.
+1) Haber sido condenado por cualquiera de los delitos de cohecho contemplados en el título V del Libro Segundo del Código Penal.
 
-2. Haber sido condenado como consecuencia de incumplimiento de un contrato celebrado con alguna Entidad regida por la Ley de Compras, y siempre que no hayan transcurrido 2 años a contar desde la fecha de la sentencia.
+2) Registrar una o más deudas tributarias por un monto total superior a 500 UTM por más de un año, o superior a 200 UTM e inferior a 500 UTM por un período superior a 2 años, sin que exista un convenio de pago vigente. En caso de encontrarse pendiente juicio sobre la efectividad de la deuda, esta inhabilidad regirá una vez que se encuentre firme o ejecutoriada la respectiva resolución.
 
-3. Registrar deudas tributarias de cualquier naturaleza por más de un año, a menos que exista un convenio de pago vigente.
+3) Registrar deudas previsionales o de salud por más de 12 meses por sus trabajadores dependientes, lo que se acreditará mediante certificado de la autoridad competente.
 
-4. Registrar deudas previsionales y de salud o reclamos pendientes en materia laboral con sus trabajadores por más de un año, lo que se acreditará a través de certificado de la autoridad competente.
+4) La presentación al Registro Nacional de Proveedores de uno o más documentos falsos, declarado así por sentencia judicial ejecutoriada.
 
-5. Estar suspendido o haber sido eliminado del Registro de Proveedores, a través de una resolución fundada de la Dirección de Compras.
+5) Haber sido declarado en quiebra por resolución judicial ejecutoriada.
 
-> **Nota.** El artículo 2º del DTO 1562, Hacienda, publicado el 20.04.2006, dispone que la modificación a la presente norma, comenzarán a regir 30 días después de la fecha de su publicación.
+6) Haber sido eliminado o encontrarse suspendido del Registro Nacional de Proveedores por resolución fundada de la Dirección de Compras.
+
+7) Haber sido condenado por prácticas antisindicales o infracción a los derechos fundamentales del trabajador.
+
+En el caso de la causal indicada en el número 1), la inhabilidad regirá a contar de la fecha en que la resolución se encuentre ejecutoriada, y durará el mismo tiempo establecido para las inhabilidades señaladas en dichos artículos, salvo el caso del artículo 250 bis, en el que la inhabilidad durará 3 años.
+
+En el caso de la causal indicada en el número 2), la inhabilidad durará mientras se encuentre pendiente el pago de la deuda, o bien 2 años desde que la respectiva resolución judicial que la declare se encuentre ejecutoriada.
+
+Tratándose de la causal establecida en el número 3), la inhabilidad durará mientras se encuentre configurada la causal.
+
+Para las causales 4) y 7), la inhabilidad durará 2 años a contar desde que el respectivo pronunciamiento se encuentre ejecutoriado.
+
+Tratándose del deudor declarado en quiebra, la inhabilidad durará mientras se encuentre configurada la causal o, en último término, hasta un plazo de 2 años desde que la resolución que lo declara se encuentre ejecutoriada, salvo que se haya determinado la existencia de delitos relacionados con la quiebra a que se refieren los artículos 218 y siguientes del Libro IV del Código de Comercio, en cuyo caso el plazo será de 5 años.
+
+La inhabilidad de la sociedad afectará también a quienes tengan la administración de ésta, tratándose de sociedades de responsabilidad limitada, incluidas las empresas individuales, así como colectivas y en comandita. En el caso de sociedades anónimas, la inhabilidad afectará a todos sus directores. En todos los casos, la inhabilidad afectará a todos quienes tengan el uso de la razón social.
 
 #### Artículo 93
 
@@ -1336,69 +1408,79 @@ Las tarifas señaladas anteriormente se fijarán por resolución fundada de la D
 
 Las tarifas serán informadas con una antelación de 60 días corridos, contados hacia atrás desde el día que comiencen a regir.
 
-CAPITULO XII: Convenios con Personas Jurídicas Referidos en el Artículo 16 del Decreto Ley Nº 1.608, de 1976
+CAPÍTULO XII: Clasificación de las prestaciones de Servicios Personales y su contratación
 
 #### Artículo 105
 
-Convenios para la prestación de servicios personales por personas jurídicas:
+Tipos de servicios
 
-La celebración de convenios que involucren la prestación de servicios personales a los servicios e instituciones regidos por el decreto ley Nº 249, de 1974, que no se relacionen con la construcción de obras, estarán afectos a este artículo y siguientes.
+Los servicios personales a requerir se clasificarán dentro de las categorías que se señalan a continuación:
 
-Para los efectos de lo dispuesto en el inciso anterior se considerarán, en todo caso, que se relacionan con la construcción de obras, los convenios referentes a proyectos, diseños, construcción y su inspección y conservación de obras públicas y los convenios que, a juicio del Ministro del ramo, tengan el carácter indicado.
+1) Servicios Personales propiamente tales, definidos en el artículo 2 Nº12 de este reglamento, a los cuales se les aplica las reglas generales establecidas en el presente reglamento.
 
-Los convenios que se celebren con personas jurídicas, que involucren la prestación de servicios personales de los socios o de personas dependientes de la entidad contratante, sobre la base de honorarios, deberán cumplir los siguientes requisitos:
+2) Servicios Personales Especializados: Aquéllos para cuya realización se requiere una preparación especial, en una determinada ciencia, arte o actividad, de manera que quien los provea o preste, sea experto, tenga conocimientos, o habilidades muy específicas. Generalmente, son intensivos en desarrollo intelectual, inherente a las personas que prestarán los servicios, siendo particularmente importante la comprobada competencia técnica para la ejecución exitosa del servicio requerido. Es el caso de proyectos de arquitectura, arte o diseño; proyectos tecnológicos o de comunicaciones sin oferta estándar en el mercado; asesorías en estrategia organizacional o comunicacional; asesorías especializadas en ciencias naturales o sociales; asistencia jurídica especializada y la capacitación con especialidades únicas en el mercado, entre otros.
 
-a) La prestación que se contrate debe ser indispensable para la ejecución eficiente de las funciones que son propias del organismo;
+#### Artículo 106º
 
-b) Que no pueda lograrse por medio de los recursos humanos propios de la institución;
+Clasificación de servicios por la entidad:
 
-c) La entidad contratante deberá contar con las disponibilidades presupuestarias suficientes para financiar el pago de los honorarios;
+Cada entidad será responsable de clasificar los servicios a contratar según sus características en servicios personales y servicios personales especializados, utilizándose los procedimientos de convenio marco, licitación pública, privada y trato directo, con las particularidades que se precisan en los artículos siguientes en el caso de los servicios especializados.
 
-d) Las personas jurídicas cuyos servicios se contraten, no podrán tener entre sus socios a uno o más funcionarios pertenecientes a las entidades regidas por el Decreto Ley N° 249, de 1974, cuya representación, en conjunto, sea superior al 50% del capital social, ni tener, entre sus trabajadores, a personas que sean a la vez funcionarios de las entidades antes indicadas;
+La resolución que apruebe las bases de licitación o autorice el trato directo, según corresponda, deberá expresar los motivos que justifican la clasificación de un servicio como especializado y las razones por las cuales esas funciones no puedan ser realizadas por personal de la propia entidad.
 
-e) Deberá llamarse a cotizaciones privadas, a no menos de tres personas jurídicas, para la adjudicación del contrato.
+#### Artículo 107º
 
-Los requisitos a que se refieren las letras d) y e) de este artículo no serán exigibles respecto de los convenios que involucren la prestación de servicios personales por entidades del sector público, incluidas las Universidades e Institutos Profesionales, estatales, o por Universidades e Institutos Profesionales, particulares reconocidos por el Estado. Asimismo, en casos calificados, se podrá exceptuar del cumplimiento del requisito contemplado en la letra e), mediante decreto supremo fundado expedido a través del Ministerio de Hacienda, a los convenios de prestación de servicios que se celebren con personas jurídicas extranjeras y que deban ejecutarse fuera del territorio nacional.
+Contratación de Servicios Personales Especializados:
 
-Del cumplimiento de los requisitos deberá dejarse constancia en el decreto supremo del Ministerio del ramo que apruebe el convenio y agregarse a sus antecedentes la documentación pertinente.
+Las entidades efectuarán licitación pública de conformidad al siguiente procedimiento:
 
-#### Artículo 106
+1.- Preselección:
 
-Criterios a considerar para resolver la contratación:
+Para estos efectos se realizará, a lo menos, lo siguiente:
 
-Para resolver respecto de las cotizaciones, deberán considerarse, especialmente, los siguientes aspectos:
+- Publicación a través del Sistema de Información de las bases y del llamado público a presentar antecedentes para proveer los servicios requeridos. Las bases contendrán lo indicado en el artículo 22 del presente Reglamento, los mecanismos de selección técnica de los proveedores y los plazos de esta fase.
 
-1.- La solvencia económica y la capacidad técnica de los proponentes;
+- Se requerirá documentación acerca de los antecedentes de los proveedores que permitan su selección.
 
-2.- El título o títulos de especialización de las personas que tendrán a su cargo la responsabilidad directa de la prestación;
+- Durante esta fase se podrá establecer un período de consultas de los proveedores.
 
-3.- La experiencia de los proponentes y, particularmente, la de las personas que tendrán a su cargo la responsabilidad de la prestación;
+- Recibidos los antecedentes, la entidad verificará la idoneidad técnica de los proveedores que participen en el proceso de selección, según la complejidad técnica requerida, la que abordará los distintos aspectos relevantes y afines a la provisión del servicio según lo establecido en las bases. Se considerarán, entre otros criterios, la revisión de antecedentes académicos relacionados al servicio requerido, la trayectoria laboral afín, las referencias de servicios similares, encuestas a clientes que recibieron servicios comparables, pruebas técnicas y/o entrevistas a los candidatos para medir conocimientos y habilidades acorde a los servicios solicitados.
 
-4.- Precio del contrato;
+- Se seleccionará a los mejores puntajes en conformidad a la metodología establecida en las bases, cuyos resultados serán notificados de conformidad al artículo 6 del presente reglamento.
 
-5.- Plazo en que se cumplirá la prestación;
+2.- Presentación de ofertas, selección y negociación:
 
-6.- Relación entre el precio y el plazo;
+- Presentación por parte de los proveedores preseleccionados de sus ofertas técnicas y económicas dentro del plazo establecido en las bases. El plazo mínimo para presentar tales ofertas será de 10 días contados desde la notificación a los proveedores seleccionados, de conformidad a lo establecido en el artículo 6 del presente reglamento.
 
-7.- Forma de pago en relación con el avance de los trabajos;
+- Evaluación de ofertas de conformidad a los criterios establecidos en las bases. Del resultado de esta evaluación se establecerá un ranking según los puntajes obtenidos por cada proveedor.
 
-8.- Multas u otras sanciones que se ofrezca pactar por los atrasos en que pueda incurrirse y por la falta de cumplimiento del contrato, y
+- Se podrá negociar con el proveedor que haya obtenido el más alto puntaje aspectos específicos de su oferta. En todo caso, estas modificaciones no podrán alterar el contenido esencial de los servicios requeridos, ni superar el 20% del monto total ofertado. De lo anterior, deberá darse cuenta en la resolución de adjudicación. Si no se llegare a acuerdo con el proveedor, se podrá negociar con uno o más sucesivamente en orden descendente según el ranking establecido, o bien declarar desierto el proceso.
 
-9.- Relación que exista entre el precio y los aranceles vigentes de las profesiones respectivas.
+- El resultado del proceso deberá publicarse en el Sistema de Información.
 
-#### Artículo 107
+Excepcionalmente, tratándose de servicios especializados de un monto inferior a 1.000 UTM, las entidades podrán efectuar una contratación directa con un determinado proveedor, previa verificación de su idoneidad. La resolución fundada que autorice este trato directo deberá señalar la naturaleza especial del servicio requerido, la justificación de su idoneidad técnica y la conveniencia de recurrir a este tipo de procedimiento, la que deberá publicarse en el Sistema de Información. Para estos efectos se realizará, a lo menos, lo siguiente:
 
-Control y Evaluación:
+- Elaboración de los términos de referencia de los servicios a contratar y de las competencias requeridas al proveedor.
 
-Los trabajos concretos de la prestación deberán ser controlados y evaluados, con su avance, cantidad y calidad, por el propio organismo que contrate el servicio.
+- Elaborar un presupuesto del servicio a requerir o bien contar con estimaciones referenciales del valor de los servicios a contratar.
 
-El Jefe superior del organismo autorizará los pagos parciales que procedan y el pago total, previa comprobación de que se ha cumplido con lo estipulado. Asimismo, aplicará los castigos pactados por el no cumplimiento o el atraso en que se incurra.
+- Invitar a través del Sistema de Información a un proveedor que se estime pudiera contar con las competencias necesarias para ejecutar el servicio y realizar una verificación de su idoneidad, según la complejidad técnica requerida, que abordará los distintos aspectos relevantes y afines a la provisión del servicio según lo establecido en los términos de referencia, tales como revisión de antecedentes académicos relacionados al servicio requerido, trayectoria laboral afín, referencias de servicios similares, encuestas a clientes que recibieron servicios comparables, pruebas técnicas y/o entrevistas a los candidatos para medir conocimientos y habilidades acorde a los servicios solicitados. Para todos los elementos subjetivos se procurará considerar la mayor cantidad de antecedentes provenientes de fuentes distintas.
 
-#### Artículo 108
+- Si el proveedor no fuese idóneo o no se presentare, se podrá invitar a otro proveedor en las mismas condiciones señaladas.
 
-Convenios para la prestación de servicios personales por personas naturales:
+- La oferta económica y técnica del proveedor seleccionado se enviará a través del Sistema de Información y se evaluará si cumple con las especificaciones técnicas establecidas en los términos de referencia y con el presupuesto del servicio requerido. Se podrá solicitar al proveedor mejorar su oferta técnica o económica, en base a las especificaciones requeridas o bien a los valores o prestaciones referenciales.
 
-Los convenios que se celebren con personas naturales, que involucren la prestación de servicios personales del contratante, deberán ajustarse a las normas del decreto supremo Nº 98, del Ministerio de Hacienda, de 1991, los artículos 10 de la ley Nº 18.834, en su caso, y 33 del decreto ley Nº249, de 1974, o del artículo 13 del decreto ley Nº1.608, de 1976, y demás disposiciones que complementan o reglamentan dichos textos legales.
+- Una vez alcanzado un acuerdo, deberá publicarse en el Sistema de Información el contrato respectivo, si lo hubiere.
+
+#### Artículo 108º
+
+La regulación contemplada en el presente capítulo se aplicará también a los servicios contratados con personas jurídicas de conformidad a lo establecido en el artículo 16 del decreto ley Nº1.608, de 1976.
+
+#### Artículo 109º
+
+Convenios para la prestación de servicios personales por personas naturales.
+
+Los convenios que se celebren con personas naturales, que involucren la prestación de servicios personales del contratante, deberán ajustarse a las normas del decreto supremo Nº98 del Ministerio de Hacienda, de 1991; el artículo 11 del decreto con fuerza de ley Nº29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº18.834, en su caso, y 33 del decreto ley Nº249, de 1974, o del artículo 13 del decreto ley 1.608, de 1976, y demás disposiciones que complementan o reglamentan dichos textos legales.
 
 ARTICULOS TRANSITORIOS
 
