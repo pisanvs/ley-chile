@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.420, de 22 de diciembre de 2011, de esta Subsecretaría, recházanse solicitudes números 207103083, 208101140, 209103105 y 206103114, señaladas en la resolución extractada y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y los artículos 11 y 13 del DS Nº 320 de 2001, de este Ministerio.
+
+Valparaíso, 22 de diciembre de 2011.- Pablo Galilea Carrillo, Subsecretario de Pesca.
