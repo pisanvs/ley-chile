@@ -142,6 +142,8 @@ Se podrá optar por una tarifa anual o por cada viaje, según se indica a contin
 
 a) Naves mercantes chilenas dedicadas exclusivamente al cabotaje en aguas sometidas a la jurisdicción nacional: 0,46 de dólar por cada tonelada de registro grueso.
 
+No obstante, las naves de pasaje chilenas, dedicadas exclusivamente al turismo en aguas sometidas a la jurisdicción nacional, pagarán 0,45 dólares para cada tonelada de registro grueso.
+
 b) Naves especiales chilenas que desarrollen sus actividades exclusivamente en aguas sometidas a jurisdicción nacional: 0,46 de dólar por cada tonelada de registro grueso.
 
 c) Naves especiales extranjeras que desarrollen sus actividades exclusivamente en aguas sometidas a jurisdicción nacional: 1,48 dólares por cada tonelada de registro grueso.
@@ -200,7 +202,7 @@ Los artefactos navales pagarán el cincuenta por ciento de la tarifa.
 
 Las naves de turismo que recalen en Isla de Pascua o en alguna de las islas del Archipiélago Juan Fernández, y siempre que no lo hagan en otro puerto nacional, pagarán el diez por ciento de la tarifa.
 
-A su vez, las naves de pasaje, dedicadas exclusivamente al turismo, y que dentro de un mismo viaje sean recepcionadas y permanezcan a lo menos seis horas en uno o más de los puertos de Arica, Iquique, Antofagasta, Coquimbo, Valparaíso, Puerto Montt, Puerto Chacabuco, Punta Arenas y Puerto Williams, pagarán la tarifa que corresponda, conforme a las siguientes condiciones:
+A su vez, las naves de pasaje, dedicadas exclusivamente al turismo, y que dentro de un mismo viaje sean recepcionadas y permanezcan a lo menos seis horas en uno o más de los puertos de Arica, Iquique, Antofagasta, Coquimbo, Valparaíso, Talcahuano, Corral, Puerto Montt, Castro, Puerto Chacabuco, Punta Arenas, Puerto Natales, Puerto Williams, pagarán la tarifa que corresponda, conforme a las siguientes condiciones.
 
 En caso de recalada a uno de los puertos señalados en el inciso anterior, la nave pagará el 60% de la tarifa correspondiente. Si recala a dos de esos puertos, pagará el 40% de la tarifa. Si recala a tres o más de los puertos mencionados, pagará el 20% de la tarifa.
 
