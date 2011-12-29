@@ -96,7 +96,7 @@ d) Edecanes del Senado y de la Cámara de Diputados;
 
 e) Secretarios de Comisiones del Senado y de la Cámara de Diputados;
 
-f) Funcionarios de la Administración del Estado, de la Judicatura, del Magisterio, de las Fuerzas Armadas, Carabineros, Policía de Investigaciones; Jefes Superiores y Funcionarios de los Organismos Autónomos del Estado a quienes mediante decreto supremo o resolución pertinente, se les confiera misiones oficiales en el exterior, según corresponda;
+f) Funcionarios de la Administración del Estado, de la Judicatura, del Magisterio, de las Fuerzas Armadas, Carabineros, Policía de Investigaciones; Jefes Superiores y Funcionarios de los Organismos Autónomos del Estado a quienes mediante decreto supremo o resolución pertinente, se les confiera misiones oficiales en el exterior, según corresponda. Asimismo, se concederá pasaporte oficial a sus dependientes indicados en el Artículo 7º, si sus misiones en el exterior son por un período superior a un año;
 
 g) SUPRIMIDA.
 
@@ -108,7 +108,7 @@ El Subsecretario de Relaciones Exteriores podrá, en casos calificados, disponer
 
 #### Artículo 7º
 
-Para los efectos de otorgamiento de pasaportes que correspondan de acuerdo a la categoría del titular, conforme al artículo 4º, letras n), ñ), r) y s) y artículo 5º, letra g), se concederá pasaporte a las siguientes personas, aun cuando tengan nacionalidad extranjera:
+Para los efectos de otorgamiento de pasaportes que correspondan de acuerdo a la categoría del titular, conforme al artículo 4º, letras n), ñ), r), s) y v) y artículo 5º, letra f), se concederá pasaporte a las siguientes personas, aun cuando tengan nacionalidad extranjera:
 
 a) Cónyuge del funcionario titular, que lo acompañe y/o resida con él (ella) durante el período de su misión en el exterior,
 
