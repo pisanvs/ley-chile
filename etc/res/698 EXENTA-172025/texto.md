@@ -28,7 +28,7 @@ e) Que, la información proporcionada, a través de los mecanismos dispuestos en
 
 R e s o l u c i ó n:
 
-Fíjase la siguiente norma técnica para el establecimiento de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet, con el correspondiente sistema para que dichos indicadores puedan ser conocidos por todos los usuarios, de conformidad a lo estipulado en el artículo 7º de la resolución exenta Nº 1.483, de 22 de octubre de 1999, de la Subsecretaría de Telecomunicaciones, que fija procedimiento y plazo para establecer y aceptar conexiones entre ISP.
+Resuelvo: Fíjase la siguiente norma técnica para el establecimiento de los indicadores de calidad de los enlaces de conexión para cursar tráfico nacional e internacional de internet, con el correspondiente sistema de publicidad para que puedan ser conocidos por todos los usuarios correspondientes.
 
 ## Título I
 
@@ -38,117 +38,269 @@ De las definiciones
 
 Para los efectos de esta norma se entenderá por:
 
-a) Subsecretaría : Subsecretaría de Telecomunicaciones.
+a) Subsecretaría : Subsecretaría de
+
+Telecomunicaciones.
 
 b) Resolución exenta
 
-Nº 1.483 : Resolución exenta Nº1.483, de 22 de
+Nº 1.483 : Resolución exenta
 
-octubre de 1999, de la Subsecretaría
+Nº1.483, de 22 de
 
-de Telecomunicaciones, que Fija
+octubre de 1999, de
 
-Procedimiento y Plazo para Establecer
+la Subsecretaría de
 
-y Aceptar Conexiones entre ISP.
+Telecomunicaciones,
 
-c) Servicio de acceso a
+que Fija
 
-Internet : Servicio que permite acceder a la
+Procedimiento y
 
-información y aplicaciones
+Plazo para
 
-disponibles en la red Internet.
+Establecer y
 
-d) Proveedor de acceso a
+Aceptar Conexiones
 
-Internet, ISP : Persona natural o jurídica que presta
+entre ISP.
 
-el servicio de acceso a Internet a
+c) Servicio de acceso
 
-público en general, de conformidad a
+a Internet : Servicio que permite
 
-la ley y su normativa complementaria.
+a los usuarios
 
-e) Usuario : Persona natural o jurídica que a
+acceder al contenido,
 
-través de los servicios de un ISP
+información,
 
-accede a la red Internet.
+aplicaciones u otros
 
-f) Paquete : Unidad de información de tamaño
+servicios ofrecidos
 
-variable, enviada a través de la red
+por internet.
 
-Internet, que contiene su propia
+d) ISP : Las concesionarias
 
-información de encaminamiento
+de servicio público
 
-asociada, para ser enrutada
+de telecomunicaciones
 
-correctamente a través de la red
+que presten servicio
+
+a los proveedores de
+
+acceso a internet y
+
+también estos
+
+últimos,
+
+entendiéndose por
+
+tales, toda
+
+persona natural
+
+o jurídica que preste
+
+servicios comerciales
+
+de conectividad
+
+entre los usuarios
+
+o sus redes e
+
+internet.
+
+e) Usuario : Persona natural o
+
+jurídica que goza
+
+o hace uso del
+
+servicio de acceso
+
+a internet, en
+
+cualquier modalidad.
+
+f) Paquete : Unidad de
+
+información de
+
+tamaño variable,
+
+enviada a través de
+
+la red Internet, que
+
+contiene su propia
+
+información de
+
+encaminamiento
+
+asociada, para ser
+
+enrutada
+
+correctamente a
+
+través de la red
 
 Internet.
 
 g) Tasa de pérdida de
 
-paquetes : Corresponde a la medida del
+paquetes : Corresponde a la
 
-porcentaje de pérdida de paquetes
+medida del
 
-enviados a un destino y que no
+porcentaje de
 
-reciben su respectiva respuesta,
+pérdida de paquetes
 
-durante un determinado período de
+enviados a un destino
 
-tiempo.
+y que no reciben su
 
-h) Latencia : Tiempo que demora un paquete en ir y
+respectiva respuesta,
 
-volver hacia otro punto definido
+durante un determinado
 
-dentro de la red Internet.
+período de tiempo.
 
-i) Página Web : Documento editado en hipertexto
+h) Latencia : Tiempo que demora un
 
-(HTML), publicado, y que puede ser
+paquete en ir y
 
-accesado en la red Internet.
+volver hacia otro
 
-j) PIT : Corresponde, para los efectos de la
+punto definido
 
-medición de los indicadores de
+dentro de la red
 
-calidad a que se refiere esta norma,
+Internet.
 
-al punto de intercambio de tráfico
+i) Página Web : Documento editado
 
-nacional de Internet, que cumple la
+en hipertexto
 
-función de agrupar e intercambiar el
+(HTML), publicado,
 
-tráfico de dos o más ISPs.
+y que puede ser
+
+accesado en la red
+
+Internet.
+
+j) PIT : Corresponde, para
+
+los efectos de la
+
+medición de los
+
+indicadores de
+
+calidad a que se
+
+refiere esta norma,
+
+al punto de
+
+intercambio de
+
+tráfico
+
+nacional de Internet,
+
+que cumple la
+
+función de agrupar
+
+e intercambiar el
+
+tráfico de dos o más
+
+ISPs.
 
 k) Tasa de ocupación
 
-de un enlace : Porcentaje de la capacidad del enlace
+de un enlace : Porcentaje de
 
-de subida y de bajada, entre un ISP y
+ocupación con respecto
 
-su respectivo PIT o entre PITs
+a la capacidad del
 
-conectados, en un determinado período
+enlace de subida y
+
+bajada, entre un ISP
+
+y su respectivo
+
+PIT, PCI o entre PITs
+
+conectados, en
+
+un determinado período
 
 de tiempo.
 
+l) Servicio de
+
+Enlaces
+
+Internacionales : Servicio de
+
+transmisión
+
+de datos que
+
+permite a los
+
+ISP's obtener
+
+una conexión
+
+internacional para
+
+acceder a la red
+
+de datos de internet.
+
+m) Proveedor de Conexiones
+
+Internacionales (PCI) : Toda persona que
+
+provea a uno
+
+o más ISP los
+
+servicios de
+
+conexión o enlace
+
+de datos a redes
+
+internacionales, ya
+
+sea por medios
+
+físicos o
+
+inalámbricos.
+
 ## Título II
 
-De los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet
+De los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional e Internacional de Internet
 
 #### Artículo 2º
 
-Establécese el siguiente conjunto mínimo de indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet:
+Establécese el siguiente conjunto mínimo de indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional e internacional de Internet:
 
 1. Tasa de pérdida de paquetes.
 
@@ -184,115 +336,55 @@ De las mediciones
 
 #### Artículo 6º
 
-El equipamiento y los protocolos de medición necesarios para efectuar las mediciones de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet, deberán permitir la medición, de dichos indicadores, de manera independiente del tráfico internacional.
-
-#### Artículo 7º
-
-El equipamiento y los protocolos de medición, señalados en el artículo precedente, deberán ser acordados por los operadores de los respectivos PITs e informados, por cada uno de ellos, a la Subsecretaría. En caso que no se produzca el acuerdo señalado, la Subsecretaría definirá, en base a consideraciones técnicas, mediante resolución, el equipamiento y los protocolos de medición que se deberán utilizar para los efectos de dar cumplimiento a lo previsto en la presente norma.
+El equipamiento y los protocolos de medición necesarios para efectuar las mediciones de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional e internacional de internet, deberán ser acordados por los operadores de los respectivos PITs y PCIs e informados, por cada uno de ellos, a la Subsecretaría. En caso que no se produzca el acuerdo señalado, la Subsecretaría definirá, en base a consideraciones técnicas, mediante resolución, el equipamiento y los protocolos de medición que se deberán utilizar para los efectos de dar cumplimiento a lo previsto en la presente norma.
 
 ## Título V
 
-De la publicación en una página Web común o única de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet
+De la publicación en una página Web común o única de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional e Internacional de Internet
 
-#### Artículo 8º
+#### Artículo 7º
 
-Los valores correspondientes a las mediciones de los indicadores de calidad, señalados en el título II precedente, deberán publicarse en una página Web común o única a nivel nacional, dispuesta por todos los PITs o por cada uno de ellos, de público conocimiento y de libre acceso. En todo caso, si se adoptare la modalidad de publicación en una página Web dispuesta por cada uno de los PITs, desde cada una de estas páginas deberá ser posible consultar la información referente a todos los ISPs y todos los PITs en operación en el país, en forma directa o mediante enlaces a las otras páginas.
+Los valores correspondientes a las mediciones de los indicadores de calidad, señalados en el título II precedente, deberán publicarse en una página Web común o única a nivel nacional, dispuesta por todos los PITs o por cada uno de ellos, de público conocimiento y de libre acceso. En todo caso, si se adoptare la modalidad de publicación en una página Web dispuesta por cada uno de los PITs y PCIs, desde cada una de estas páginas deberá ser posible consultar la información referente a todos los ISPs y todos los PITs en operación en el país, en forma directa o mediante enlaces a las otras páginas.
 
-El formato de la página Web, señalada en el inciso precedente, deberá ser acordado por los ISPs conectados a los PITs e informado a la Subsecretaría. En caso de no existir acuerdo, la Subsecretaría definirá el formato de dicha página.
+El formato de la página Web, señalada en el inciso precedente, deberá ser acordado por los ISPs conectados a los PITs y PCI e informado a la Subsecretaría. En caso de no existir acuerdo, la Subsecretaría definirá el formato de dicha página.
 
 La página Web, señalada en los párrafos precedentes, deberá entregar, al menos, la siguiente información, en relación a los indicadores de calidad establecidos en el artículo 2º de la presente norma:
 
-1. PITs en operación en el país.
+1. PITs y PCIs en operación en el país.
 
-2. Listado de ISPs conectados a cada PIT.
+2. Listado de ISPs conectados a cada PIT y PCI.
 
-3. Tasa de ocupación del enlace de subida y bajada entre el ISP y el PIT.
+3. Tasa de ocupación del enlace de subida y bajada entre el ISP y el PIT y PCI.
 
 4. Tasa de ocupación en los enlaces de
 
-entroncamiento entre los PITs.
+entroncamiento entre los PITs y PCIs.
 
-5. Tasa de pérdida de paquetes entre cada ISP y su respectivo PIT.
+5. Tasa de pérdida de paquetes entre cada ISP y su respectivo PIT y PCI.
 
-6. Tasa de pérdida de paquetes entre los PITs entroncados.
+6. Tasa de pérdida de paquetes entre los PITs y PCIs entroncados.
 
-7. Latencia entre cada ISP y su respectivo PIT.
+7. Latencia entre cada ISP y su respectivo PIT y PCI.
 
-8. Latencia entre los PITs entroncados.
+8. Latencia entre los PITs y PCIs entroncados.
 
-9. Tasa de pérdida, latencia y tasa de ocupación de enlaces entre los ISPs no conectados a un mismo PIT.
+9. Tasa de pérdida, latencia y tasa de ocupación de enlaces entre los ISPs no conectados a un mismo PIT y PCI.
 
-La actualización de la publicación de dichos indicadores se realizará en línea y con la periodicidad que corresponda, de manera de permitir a los usuarios conocer la calidad del enlace de conexión de cada ISP y de su respectivo PIT.
+La actualización de la publicación de dichos indicadores se realizará en línea y con la periodicidad que corresponda, de manera de permitir a los usuarios conocer la calidad del enlace de conexión de cada ISP y de su respectivo PIT y PCI.
 
-#### Artículo 9º
+Los ISP que cumplen funciones de conectividad o de transporte para otros ISP, deberán informar por separado el tráfico y la capacidad de los enlaces de subida y bajada de cada uno de los ISP que accedan a través de él a los PITs/PCIs.
 
-Para los efectos previstos en la presente norma, establécese el siguiente calendario que contiene las etapas de implantación de la publicación de los indicadores de calidad de los enlaces de conexión para cursar el tráfico nacional de Internet.
+Tratándose de la información sobre el tráfico y la capacidad de los enlaces asignados a clientes residenciales, la información publicada debe excluir el tráfico y capacidad de enlaces de los clientes empresas o de servicios que se provean a otros ISPs.
 
-Etapa Inicio
+La información aquí señalada deberá representarse en gráficos hora a hora, con visualización diaria, semanal, mensual y anual, separadamente para internet fijo y móvil, y deberá estar debidamente respaldada para los efectos de lo dispuesto en la letra k) del decreto ley Nº1.762, de 1977, y artículo 37º, inciso segundo, de la ley Nº 18.168, General de Telecomunicaciones.
 
-Publicación de PITs en operación,
+Asimismo, los ISP, PIT y PCI deberán publicar el diagrama de conexión, que refleje la totalidad de sus enlaces de entrada y de salida, según el tipo de tráfico y para destinos nacionales o internacionales, según corresponda.
 
-listado de ISPs conectados a cada PIT,
+#### Artículo 8º
 
-1 publicación de tasa de pérdida de paque-
+Los ISP deberán proporcionar a la Subsecretaría, los contratos relacionados con la contratación de anchos de bandas para los enlaces nacionales e internacionales y sus niveles de servicios o SLA asociados, de modo de permitir el aseguramiento de la homologación en el cálculo y en la forma de medir a cada ISP, respecto de los indicadores de calidad establecidos en el artículo 2º precedente y la tasa de agregación nacional e internacional.
 
-tes, latencia, y tasa de ocupación de los 6 meses
-
-enlaces de subida y de bajada desde cada
-
-ISP hacia su respectivo PIT.
-
-Publicación de tasa de pérdida de paque-
-
-2 tes, latencia y tasa de ocupación de los 8 meses
-
-enlaces de subida y de bajada entre to-
-
-dos los PITs entroncados.
-
-Publicación de las mediciones de tasa
-
-de pérdida de paquetes, latencia y tasa
-
-3 de ocupación de los enlaces de subi- 12 meses
-
-da y de bajada, de cada uno de los ISPs
-
-con los demás ISPs conectados a otros
-
-PITs entroncados.
-
-Los plazos señalados, para las etapas 1, 2 y 3, consideran la publicación de los mencionados indicadores de acuerdo a lo dispuesto en el artículo 8º precedente. Sin perjuicio de lo anterior, con anterioridad al vencimiento de los plazos dispuestos para las referidas etapas podrá implantarse un período de prueba, en el que se muestren los resultados de las mediciones, en una página Web, de acceso a los ISPs y a la Subsecretaría.
-
-#### Artículo 10º
-
-En caso de no encontrarse disponible la página Web, en los plazos previstos para cada una de las etapas a que se refiere el artículo 9º precedente, la Subsecretaría hará exigible, a cada ISP, el cumplimiento de las obligaciones dispuestas en la presente norma, sin perjuicio de lo dispuesto en el artículo 11º.
-
-#### Artículo 11º
-
-En todo caso, los ISPs que no opten por la modalidad de conexión a los PITs o tengan, además, enlaces directos entre sí, deberán adoptar las medidas pertinentes para cumplir con las publicaciones que establece esta norma, debiendo, sin embargo, utilizar una metodología de medición de indicadores, que contemple la intervención de un tercero, independiente, en el procedimiento de medición.
-
-## Título VI
-
-De la implantación de un sistema de medición de la calidad del servicio de acceso a Internet
-
-Artítulo 12º: Los ISPs deberán implantar un sistema de medición de los indicadores de calidad del servicio de acceso a Internet, desde la perspectiva de un usuario final. El conjunto de indicadores de calidad específicos, junto con el sistema de publicación correspondiente, será definido por la Subsecretaría, considerando las propuestas de los ISPs, mediante resolución exenta.
-
-## Título VII
-
-Disposiciones finales
-
-#### Artículo 13º
-
-Los plazos máximos antes señalados, se cuentan en meses completos, a partir de la fecha de publicación de la presente norma en el Diario Oficial.
-
-#### Artículo 14º
-
-Los reclamos que se deriven de la aplicación de la presente norma deberán tramitarse de conformidad a lo dispuesto en el decreto supremo Nº 556, de 1997, del Ministerio de Transportes y Telecomunicaciones, Reglamento sobre Tramitación y Resolución de Reclamos de Servicios de Telecomunicaciones.
-
-#### Artículo 15º
-
-Las infracciones a la presente norma técnica serán sancionadas por el Ministro de Transportes y Telecomunicaciones, de conformidad a lo dispuesto en los artículos 36º y siguientes de la ley Nº 18.168, General de Telecomunicaciones.
+Eliminado
 
 Anótese y publíquese en el Diario Oficial.- Christian Nicolai Orellana, Subsecretario de Telecomunicaciones.
 
