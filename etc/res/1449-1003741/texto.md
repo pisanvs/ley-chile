@@ -54,7 +54,7 @@ El cálculo de la fórmula deberá realizarse considerando en el volumen de la b
 
 #### Artículo tercero
 
-Los titulares de los centros de cultivo ubicados en las subzonas que se indican en el presente artículo, deberán cumplir con períodos de descanso coordinado durante un plazo de 3 meses.
+Los titulares de los centros de cultivo ubicados en las subzonas que se indican en el presente artículo, deberán cumplir con períodos de descanso coordinado durante un plazo de 3 meses. Por su parte los centros de acopio de peces deberán cumplir con periodos de descanso coordinado durante el último mes del trimestre mencionado. Los ejemplares que ingresen al centro de acopio deberán estar en buen estado de salud, lo cual debe ser acreditado en base a un certificado de salud para transporte de peces vivos emitido por un médico veterinario.
 
 Durante dicho período estará prohibido el ingreso y mantención de especies en los centros de cultivo integrantes del área.
 
@@ -62,123 +62,7 @@ Los titulares de los centros de cultivos integrantes del área de manejo sanitar
 
 Los períodos de descanso por área de manejo sanitario serán los siguientes:
 
-Región Zona Periodos de descanso
-
-X 1 Enero-Marzo 2011
-
-X 2 Octubre-Diciembre 2010
-
-X 3A Abril-Junio 2009
-
-X 3B Enero-Marzo 2010
-
-X 6 Diciembre 2009
-
-Febrero 2010
-
-X 7 Enero-Marzo 2011
-
-X 8 Mayo-Julio 2009
-
-X 9A Enero-Marzo 2011
-
-X 9B Febrero-Abril 2010
-
-X 9C Enero-Marzo 2009
-
-X 10B Febrero-Abril 2010
-
-X 11 Enero-Marzo 2010
-
-X 13 Octubre-Diciembre 2009
-
-X 14 Junio-Agosto 2009
-
-X 15 Abril-Junio 2009
-
-X 16 Diciembre-Febrero 2010
-
-X 17A Mayo-Julio 2010
-
-XI 18A Mayo-Julio 2009
-
-XI 18B Enero-Marzo 2010
-
-XI 18C Agosto-Octubre 2010
-
-XI 18D Octubre-Diciembre 2009
-
-XI 19A Junio-Agosto 2010
-
-XI 19B Marzo-Mayo 2009
-
-XI 19C Julio-Septiembre 2009
-
-XI 20 Julio-Septiembre 2009
-
-XI 21A Junio-Agosto 2010
-
-XI 21B Julio-Septiembre 2010
-
-XI 21C Diciembre 2009-Febrero 2010
-
-XI 22A Abril-Junio 2010
-
-XI 22B Mayo-Julio 2009
-
-XI 22C Enero-Marzo 2011
-
-XI 22D Junio-Agosto 2010
-
-XI 23A Enero-Marzo 2011
-
-XI 23B Mayo-Julio 2010
-
-XI 23C Enero-Marzo 2011
-
-XI 24 Octubre-Diciembre 2009
-
-XI 25 Julio-Septiembre 2012
-
-XI 27 Febrero-Abril 2009
-
-XI 28A Enero-Marzo 2012
-
-XI 28B Enero-Marzo 2011
-
-XI 29 Diciembre-Febrero 2010
-
-XI 30A Abril-Junio 2011
-
-XI 30B Marzo-Mayo 2010
-
-XI 31A Mayo-Julio 2009
-
-XI 31B Septiembre-Noviembre 2010
-
-XI 32 Febrero-Abril 2010
-
-XI 33 Agosto-Octubre 2010
-
-XI 34 Junio-Agosto 2011
-
-XI 35 Julio-Septiembre 2009
-
-X 10A Agosto-Octubre 2012
-
-X 12A Mayo-Julio 2011
-
-X 12B Mayo-Julio 2012
-
-X 12C Mayo-Julio 2012
-
-X 17B Agosto-Octubre 2010
-
-XI 26A Diciembre 2011-
-
-Febrero 2012
-
-XI 26B Enero-Marzo 2013
+> **Nota.** El Artículo primero de la Resolución 2534 Exenta, Economía, publicada el 29.12.2011, modifica el cuadro de períodos de descanso contenido en el inciso final del artículo tercero de la presente norma, en el sentido siguiente:- En la letra a) dispone incorporar los siguientes segundo y tercer períodos de descanso de la agrupación de concesiones 18 D correspondiente a la XI Región: "Noviembre 2011 - Enero 2012" y "Octubre - Diciembre 2013", respectivamente.- En la letra b) ordena incorporar los siguientes segundo y tercer períodos de descanso de la agrupación de concesiones 28 A correspondiente a la XI Región: "Enero - Marzo 2014" y "Enero - Marzo 2016", respectivamente y- En la letra c) dispone incorporar los siguientes primer y segundo períodos de descanso para las agrupaciones de concesiones de la XI Región 18 E, 25 A, 25 B y 28 C, de acuerdo a lo que la citada norma indica.
 
 #### Artículo cuarto
 
@@ -186,6 +70,6 @@ Los titulares de cada centro de cultivo integrante de un área deberán dar estr
 
 #### Artículo quinto
 
-Por disposición del artículo 86 de la Ley General de Pesca y Acuicultura, la infracción de lo dispuesto en la presente resolución se sancionará conforme a las disposiciones del Título IX de esa ley, en relación al artículo 77 del Reglamento.
+Por disposición del artículo 86 de la Ley General de Pesca y Acuicultura, la infracción de lo dispuesto en la presente resolución se sancionará conforme a las disposiciones del Título IX de esa ley, en relación al artículo 77 del DS 319 citado en Vistos, con excepción de aquellos casos en que proceda la aplicación de lo dispuesto en el artículo 118 ter de la Ley General de Pesca y Acuicultura.
 
 Anótese, comuníquese y publíquese.- Félix Inostroza Cortés, Director Nacional.
