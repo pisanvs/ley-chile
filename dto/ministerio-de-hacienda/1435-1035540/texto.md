@@ -1,0 +1,19 @@
+DEJA SIN EFECTO DESIGNACIÓN Y NOMBRA PRESIDENTES TITULARES Y SUPLENTES EN LOS TRIBUNALES ESPECIALES DE ALZADA DE LOS BIENES RAÍCES DE LA PRIMERA Y SEGUNDA SERIE, CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE CONCEPCIÓN
+
+Núm. 1.435.- Santiago, 18 de octubre de 2011.- Vistos: Lo dispuesto en el artículo 121 del Código Tributario; oficios Nos 68 y 67, de 8 de junio, y 70 y 71, de 17 de marzo, todos de 2011, que transcribe acuerdos de pleno de 14 de marzo del año en curso; oficio Nº 84, de 5 de julio de 2011, todos de la I. Corte de Apelaciones de Concepción; oficio Ord. Nº 45, de 29 de marzo de 2011, de la VIII Dirección Regional Concepción del Servicio de Impuestos Internos, y Ord. 2.262, de 30 de septiembre de 2011, del Director del Servicio de Impuestos Internos; el Nº 25 del numeral VI del artículo 1º del decreto supremo Nº 19, de 22 de enero de 2001, del Ministerio Secretaría General de la Presidencia; la resolución Nº 1.600, de 30 de octubre de 2008, que fija normas sobre exención del trámite de toma de razón, de la Contraloría General de la República.
+
+Considerando:
+
+1.- Que por acuerdo de pleno Nº 68, de diecisiete de junio de 2011, de la I. Corte de Apelaciones de Concepción, se comunica que se ha procedido a efectuar las designaciones en calidad de Presidente Titular del Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, de la Ministra señora Rosa Patricia Mackay Foigelman, y en calidad de Suplente al Ministro señor Hadolff Gabriel Ascencio Molina.
+
+2.- Que por Acuerdo de Pleno Nº 67, de diecisiete de junio de 2011, de la I. Corte de Apelaciones de Concepción, se comunica que se ha procedido a efectuar las designaciones en el Tribunal de Alzada de Bienes Raíces no agrícolas, en calidad de Presidente Titular del Tribunal Especial de Alzada, al Ministro señor Hadolff Gabriel Ascencio Molina, y en calidad de Suplente al Ministro señor César Gerardo Panés Ramírez.
+
+Decreto:
+
+1º.- Déjase sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Primera Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Concepción, la designación recaída en el Ministro señor Carlos Aldana Fuentes, RUT Nº 6.392.788-0, como Presidente Titular, y en la Ministra señora Rosa Patricia Mackay Foigelman, RUT Nº 5.046.219-6, como Presidente Suplente, efectuadas por decreto supremo Nº 335, del Ministerio de Hacienda, de 16 de marzo de 2010, publicado en el Diario Oficial el 24 de mayo del mismo año, y nómbrase en su reemplazo a la Ministra señora Rosa Patricia Mackay Foigelman, RUT Nº 5.046.219-6, como Presidente Titular, y al Ministro señor Hadolff Gabriel Ascencio Molina, RUT Nº 8.928.210-1, como Presidente Suplente, en el referido tribunal, ambos desde el 2 de marzo del presente año hasta el 1 de marzo del año 2013.
+
+2.- Déjase sin efecto, en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Concepción, la designación recaída en la Ministra señora Rosa Patricia Mackay Foigelman, RUT Nº 5.046.219-6, como Presidente Titular, y en el Ministro señor Hadolff Gabriel Ascencio Molina, RUT Nº 8.928.210-1, como Presidente Suplente, efectuadas por decreto supremo Nº 335, del Ministerio de Hacienda, de 16 de marzo de 2010, publicado en el Diario Oficial el 24 de mayo del mismo año, y nómbrase en su reemplazo al Ministro señor Hadolff Gabriel Ascencio Molina, RUT Nº 8.928.210-1, como Presidente Titular, y al Ministro señor César Gerardo Panés Ramírez, RUT Nº 7.640.409-7, como Presidente Suplente, en el referido tribunal, ambos desde el 2 de marzo del presente año hasta el 1 de marzo del año 2013.
+
+Tómese razón, regístrese y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Julio Dittborn Cordua, Subsecretario de Hacienda.
