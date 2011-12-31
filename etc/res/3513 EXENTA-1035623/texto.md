@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.513, de 27 de diciembre de 2011, de esta Subsecretaría, publicada íntegramente en la página web www.subpesca.cl, aplícase a TARA SALMON, sanción administrativa de 2.000 unidades tributarias mensuales por la infracción cometida en el centro de cultivo ubicado en el lago Tarahuin, Los Lagos, RNA Nº 100521, prevista en el artículo 118 ter letra b) de la Ley General de Pesca y Acuicultura y el DS Nº 319, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de diciembre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
