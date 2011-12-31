@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.517, de 27 de diciembre de 2011, de esta Subsecretaría, recházanse las solicitudes números 209103094, 209106006, 205103134, 209101119, 209101122, 208103099, 209101133, 209103107, 209103096, 209103108, 208103178, 208103038 y 208103042, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 27 de diciembre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
