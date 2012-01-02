@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 3876 de 23 de noviembre de 2011, que se complementa de la siguiente manera: donde dice que el lote Nº 455 de la obra CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 2: CALBUCO - PARGUA. SUBTRAMO 5A figura a nombre de "ÁLVAREZ VILLARROEL MARTA CREMILDA", debe decir "ÁLVAREZ VILLARROEL MARIA CREMILDA".
+
+Fiscal del Ministerio de Obras Públicas.
