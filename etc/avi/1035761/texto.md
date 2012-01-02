@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 4015 de 24 de noviembre de 2011, que se complementa de la siguiente manera: "La comisión de peritos encargada de tasar el lote Nº 14-2 de la obra: CONCESION RUTA 5 NORTE TRAMO: VALLENAR - CALDERA. SECTOR: VALLENAR - INICIO BY-PASS A COPIAPÓ. KM. 665.000,00 AL KM. 783.402,00 la integraron los señores Miguel Juan Fernández Cádiz, Verónica Paz Olivier Valdebenito y Ángel Mauricio Cáceres Barra".
+
+Fiscal del Ministerio de Obras Públicas.
