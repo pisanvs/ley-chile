@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 3881 de 23 de noviembre de 2011, de la obra CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 1: PUERTO MONTT - CALBUCO. SUBTRAMO 213, que se complementa de la siguiente manera: donde dice que la fecha del Decreto Exento MOP Nº 3881 es "22 de noviembre de 2011", debe decir "23 de noviembre de 2011".
+
+Fiscal del Ministerio de Obras Públicas.
