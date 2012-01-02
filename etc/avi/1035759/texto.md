@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 4013 de 24 de noviembre de 2011, que se complementa de la siguiente manera: donde dice que el lote Nº 28 de la obra CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 1: PUERTO MONTT - CALBUCO. SUBTRAMO 1A figura a nombre de "NEUMANN YUNGE MARTA VERONICA", debe decir "NEUMANN YUNGE MARIA VERONICA".
+
+Fiscal del Ministerio de Obras Públicas.
