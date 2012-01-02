@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 3804 de 22 de noviembre de 2011, que se complementa de la siguiente manera: Donde dice que el lote Nº 231 de la obra CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 1: PUERTO MONTT - CALBUCO. SUBTRAMO 2B figura a nombre de "SARRIA ARAVENA RUBÉN ROBERTO", debe decir "BARRÍA ARAVENA RUBÉN ROBERTO".
+
+Fiscal del Ministerio de Obras Públicas.
