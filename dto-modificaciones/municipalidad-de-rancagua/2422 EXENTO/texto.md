@@ -42,7 +42,7 @@ I. Modifíquese decreto exento Nº 1.900 de la Ilustre Municipalidad de Rancagua
 
 "En el punto I de la parte resolutiva, reemplácense los deslindes de los lotes 8 y 11 por los siguientes:
 
-"Lote 11: "Norte: tramo G2-G en 205,46 metros; Sur: tramo I3-I2 en 131,74 metros, tramo I2-I1 en 94,12 metros y tramo H-I, 2,59 metros; Oriente: tramo G-I en 12,51 metros; y Poniente: tramo I3-G2 en 25,83 metros. Lote 8: Norte: tramo N2-N3 en 10,96 metros, tramo N3-N4 y tramo N4-N5 en 110,11 metros; Sur: tramo N-M2 en 123,50 metros; Oriente: tramo M2-N5 en 31,43 metros; y Poniente: tramo N-N2 en 16,50 metros".
+"Lote 11: "Norte: tramo G2-G en 205,46 metros; Sur: tramo I3-I2 en 131,74 metros, tramo I2-I1 en 94,12 metros y tramo I1-I, 2,59 metros; Oriente: tramo G-I en 12,51 metros; y Poniente: tramo I3-G2 en 25,83 metros. Lote 8: Norte: tramo N2-N3 en 10,96 metros, tramo N3-N4 y tramo N4-N5 en 110,11 metros; Sur: tramo N-M2 en 123,50 metros; Oriente: tramo M2-N5 en 31,43 metros; y Poniente: tramo N-N2 en 16,50 metros".
 
 II. Publíquense, por parte de la Dirección de Relaciones Públicas y Comunicaciones, las rectificaciones en el Diario Oficial y en la página web Municipal.
 
