@@ -1,0 +1,3 @@
+Por Decreto Exento Nº 4594, de 21 de diciembre de 2011, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. Nº 850 de 1997, que fijó el texto actualizado de la Ley Nº 15.840, se modificaron los numerales tercero y sexto del Decreto Exento MOP. Nº3696, de 22 de noviembre de 2011, en la parte que se refiere al monto de la indemnización provisional, el cual es $2.106.000.- y no como en él se indica. La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
