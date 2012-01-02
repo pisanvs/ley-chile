@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº 40.135, del 15 de diciembre de 2011, se publicó extracto del Decreto Exento MOP Nº 4044 de 24 de noviembre de 2011, que se complementa de la siguiente manera: Donde dice que la comisión de peritos fijó el valor provisional de la indemnización para el lote Nº 281 de la obra CONCESIÓN RUTA 5. TRAMO PUERTO MONTT - PARGUA. TRAMO 1: PUERTO MONTT - CALBUCO. SUBTRAMO 2C con informe de tasación de fecha "22 9 de septiembre de 2011", debe decir "9 de septiembre de 2011".
+
+Fiscal del Ministerio de Obras Públicas.
