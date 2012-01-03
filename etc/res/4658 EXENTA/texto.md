@@ -156,6 +156,16 @@ Cynara scolymus Cabezuelas Sin declaración
 
 adicional
 
+Ipomoea batata Raíces El envío deberá
+
+tuberosas venir libre de
+
+Euscepes
+
+postfasciatus (Col.:
+
+Curculionidae)
+
 Lactuca sativa Hojas Sin declaración
 
 adicional
@@ -210,7 +220,7 @@ y sin hojas
 
 2. Complementariamente cada partida de importación deberá cumplir con los siguientes requisitos de ingreso:
 
-2.1 Los envíos deberán venir libre de suelo y en el caso de bulbos de ajo, cebolla y chalotas los envíos deberán venir con las raíces recortadas.
+2.1 Los envíos deberán venir libre de suelo y en el caso de bulbos de ajo, cebolla y chalotas los envíos deberán venir con las raíces recortadas. Los envíos de raíces tuberosas de Ipomoea batata, deberán venir libres de restos vegetales.
 
 2.2 Los envases deberán ser nuevos y de primer uso; deberán venir rotulados con una etiqueta que indique: país y departamento de origen, nombre de la especie vegetal, nombre o código del productor, nombre o código de la empacadora y fecha de embalaje.
 
