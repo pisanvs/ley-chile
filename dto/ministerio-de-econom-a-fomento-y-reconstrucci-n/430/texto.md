@@ -112,6 +112,40 @@ Si se constata por tres veces, en el plazo dos años, que una embarcación artes
 
 26) Pequeño armador pesquero industrial: persona inscrita en el Registro Nacional Pesquero Industrial, que ejecuta una actividad pesquera extractiva utilizando hasta tres naves, de hasta 22,5 metros de eslora máxima y de hasta 100 toneladas de registro grueso cada una.
 
+26 bis) Observador científico: persona
+
+natural, encargada de la observación
+
+y recopilación de datos a bordo
+
+de naves pesqueras, puntos de
+
+desembarque o en plantas de proceso,
+
+exclusivamente para la investigación
+
+con fines de conservación y
+
+administración de los recursos
+
+hidrobiológicos.
+
+Los observadores científicos
+
+deberán acreditar conocimientos
+
+y aptitudes para llevar a cabo
+
+tareas científicas básicas y podrán
+
+ser profesionales o técnicos ligados
+
+a las ciencias marinas, pesqueras o
+
+acuícolas, de universidades e
+
+institutos profesionales acreditados.
+
 27) Permiso extraordinario de pesca: es el acto administrativo mediante el cual la Subsecretaría a través del procedimiento establecido en esta ley faculta a las personas adjudicatarias de cuotas individuales de captura para realizar actividades pesqueras extractivas, por el tiempo de vigencia del permiso, en pesquerías declaradas en los regímenes de plena explotación, o en pesquerías en desarrollo incipiente o en pesquerías en recuperación.
 
 28) Pesca artesanal: actividad pesquera extractiva realizada por personas naturales que, en forma personal, directa y habitual, trabajan como pescadores artesanales inscritos en el Registro Pesquero Artesanal, con o sin el empleo de una embarcación artesanal.
@@ -150,13 +184,43 @@ d) Recolector de orilla, alguero o buzo apnea: es la persona que realiza activid
 
 Las categorías antes señaladas no serán excluyentes unas de otras, pudiendo, por tanto, una persona ser calificada y actuar simultánea o sucesivamente en dos o más de ellas, siempre que todas se ejerciten en la misma región, sin perjuicio de las excepciones que contempla el título IV de la presente ley.
 
-29) Pesca de investigación: actividad pesquera extractiva que tiene por objeto la realización de los siguientes tipos de pesca sin fines comerciales:
+29) Pesca de investigación: extracción
 
-- Pesca exploratoria: uso de equipos de detección y artes o aparejos de pesca para determinar la existencia de recursos pesqueros presentes en un área y obtener estimaciones cualitativas o cuantitativas.
+sin fines de lucro de individuos de
 
-- Pesca de prospección: uso de equipos de detección y artes o aparejos de pesca, especialmente diseñados para capturar cierto tipo de especie, con el objeto de determinar su cantidad y su distribución espacial en un área determinada.
+una especie hidrobiológica o parte
 
-- Pesca experimental: uso de artes o aparejos y sistemas de pesca para determinar las propiedades de éstos y sus efectos en la especie o especies objetivo de la captura, como así también cuando corresponda, evaluar el impacto sobre otras especies asociadas y sobre el hábitat mismo.
+de ellos, con la finalidad de obtener
+
+datos e información para alguno de
+
+los siguientes propósitos: Generar
+
+conocimiento científico o tecnológico,
+
+realizar actividades de docencia,
+
+contar con antecedentes para adoptar
+
+medidas de administración o proteger
+
+la biodiversidad, el ambiente
+
+acuático y el patrimonio sanitario
+
+del país. Asimismo, se considerarán
+
+pescas de investigación aquellas
+
+de carácter exploratorio, de
+
+prospección y experimental.
+
+La extracción podrá comprender
+
+la captura con retención temporal
+
+o permanente de los individuos.
 
 30) Pesca industrial: actividad pesquera extractiva realizada por armadores industriales, utilizando naves o embarcaciones pesqueras, de conformidad con esta ley.
 
@@ -339,6 +403,266 @@ c) Medidas de conservación y regímenes de acceso que le son aplicables.
 d) Antecedentes de captura, producción elaborada y mercado de los productos.
 
 e) Requerimientos de investigación con fines de conservación y manejo.
+
+#### Artículo 9º bis
+
+Para la administración
+
+y manejo de una o más pesquerías
+
+de recursos bentónicos de
+
+invertebrados y algas, la
+
+Subsecretaría podrá establecer
+
+un plan de manejo aplicable a
+
+todo o parte de una región o
+
+regiones, el que deberá
+
+contener las menciones y
+
+se implementará de conformidad
+
+a las reglas establecidas en
+
+el artículo 9º.
+
+No obstante lo anterior,
+
+en la formulación de estos
+
+planes de manejo se deberá
+
+determinar los pescadores
+
+artesanales involucrados en
+
+la o las pesquerías que lo
+
+integren. En los casos en
+
+que éste sea aplicable sólo
+
+a una parte de la región o
+
+regiones, participarán los
+
+pescadores artesanales inscritos
+
+en la pesquería que cumplan con
+
+los criterios de participación
+
+establecidos en el plan, entre
+
+los cuales deberá considerarse
+
+el haber efectuado operaciones
+
+extractivas en el área de
+
+aplicación del plan. Sólo
+
+podrán continuar operando
+
+en el área quienes cumplan
+
+con los requisitos de
+
+participación y operación
+
+establecidos en el plan.
+
+Al menos cada tres años
+
+se evaluará el esfuerzo
+
+pesquero aplicado al área,
+
+pudiendo la Subsecretaría,
+
+mediante resolución fundada,
+
+determinar el ingreso de
+
+nuevos pescadores artesanales,
+
+siempre que ello no afecte la
+
+sustentabilidad de la pesquería.
+
+Además de las medidas de
+
+conservación y administración
+
+contempladas en esta ley, en
+
+los planes de manejo a que
+
+se refiere este artículo se
+
+podrán establecer por resolución
+
+del Subsecretario las siguientes medidas:
+
+a) Rotación de áreas de pesca.
+
+b) Criterio y limitación de la
+
+extracción.
+
+c) Traslocación y repoblación
+
+de recursos bentónicos.
+
+d) Técnicas de extracción o
+
+cosecha.
+
+e) Buenas prácticas,
+
+sustentabilidad y
+
+recuperación de
+
+ecosistemas.
+
+f) Programas de educación y capacitación.
+
+En el plan de manejo se
+
+podrá considerar un
+
+procedimiento de certificación
+
+de la información de desembarque
+
+a que se refiere el artículo 63
+
+de esta ley, el cual será
+
+efectuado, previa licitación,
+
+por entidades auditoras externas.
+
+La certificación de desembarques
+
+será obligatoria para todos los
+
+pescadores artesanales que
+
+participen en el plan de manejo.
+
+Los requisitos para la
+
+certificación serán establecidos
+
+por el Servicio, asimismo, la
+
+entidad que realice la
+
+certificación deberá ser
+
+evaluada anualmente por aquel
+
+y los resultados de dicha
+
+evaluación serán públicos.
+
+Para la elaboración de la
+
+propuesta, implementación,
+
+evaluación y adecuación si
+
+correspondiere del plan de
+
+manejo, la Subsecretaría
+
+constituirá una mesa de
+
+trabajo público privada
+
+que tendrá el carácter
+
+de asesora y será
+
+presidida por el
+
+funcionario que el
+
+Subsecretario designe
+
+al efecto. Dicha mesa
+
+deberá estar integrada por
+
+los pescadores artesanales
+
+inscritos en la o las
+
+pesquerías de que se trate,
+
+a través de las
+
+organizaciones a las
+
+cuales pertenecen.
+
+La propuesta de plan de
+
+manejo será sometida a
+
+consulta pública a través
+
+del sitio de dominio
+
+electrónico de la Subsecretaría,
+
+mediante mensaje radial y
+
+publicación en extracto en
+
+un diario de circulación regional.
+
+Se podrán formular observaciones
+
+dentro del plazo de un mes
+
+contado de la fecha de
+
+publicación en el sitio de
+
+dominio electrónico. Recibidas
+
+las observaciones, la
+
+Subsecretaría evaluará la
+
+pertinencia de reformular
+
+la propuesta y dará pública
+
+respuesta a las observaciones
+
+planteadas, aprobando el plan
+
+de manejo mediante resolución.
+
+Una vez aprobado el plan de
+
+manejo será obligatorio para
+
+todos los pescadores artesanales,
+
+así como las embarcaciones,
+
+incluidas las transportadoras y
+
+las plantas de proceso.
 
 #### Artículo 10°
 
@@ -768,7 +1092,7 @@ Con todo, las disposiciones de los incisos segundo y tercero de este artículo n
 
 #### Artículo 50
 
-El régimen de acceso a la explotación de los recursos hidrobiológicos para la pesca artesanal es el de libertad de pesca. No obstante, para ejercer actividades pesqueras extractivas, los pescadores artesanales y sus embarcaciones deberán previamente inscribirse en el registro artesanal que llevará el Servicio.
+El régimen de acceso a la explotación de los recursos hidrobiológicos para la pesca artesanal es el de libertad de pesca. No obstante, para ejercer actividades pesqueras extractivas, los pescadores artesanales y sus embarcaciones deberán previamente inscribirse en el registro artesanal que llevará el Servicio, salvo que se configure alguna de las causales denegatorias del artículo 50 A.
 
 No obstante, con el fin de cautelar la preservación de los recursos hidrobiológicos, cuando una o más especies hayan alcanzado un estado de plena explotación, la Subsecretaría, mediante resolución, previo informe técnico debidamente fundamentado del Consejo Zonal de Pesca que corresponda, podrá suspender transitoriamente por categoría de pescador artesanal y por pesquería, la inscripción en el registro artesanal en una o más regiones. En este caso, no se admitirán nuevas inscripciones de embarcaciones ni de personas para esa categoría y pesquería en la región respectiva. Mediante igual procedimiento se podrá dejar sin efecto la medida de suspensión establecida.
 
@@ -882,7 +1206,145 @@ determine el reglamento.
 
 #### Artículo 50
 
-A.- Las inscripciones en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
+A.- Se inscribirán en el
+
+Registro Artesanal las solicitudes
+
+de inscripción que recaigan sobre
+
+las pesquerías que se encuentran
+
+incorporadas en una nómina que
+
+determinará la Subsecretaría por
+
+región.
+
+La Subsecretaría establecerá,
+
+mediante resolución, la nómina
+
+de pesquerías y las especies que
+
+la constituyen por región, el
+
+respectivo arte o aparejo de pesca
+
+y categoría de pescador artesanal
+
+que la puede extraer, y que
+
+conformarán el Registro Artesanal.
+
+Dicha nómina se deberá actualizar,
+
+a lo menos, cada dos años.
+
+La solicitud de inscripción
+
+será denegada cuando concurra
+
+alguna de las siguientes causales:
+
+a) Encontrarse suspendida
+
+transitoriamente la inscripción
+
+de la pesquería solicitada en
+
+el Registro Artesanal, de
+
+conformidad con los artículos
+
+20, 33 y 50 de esta ley.
+
+b) Constituir la o las
+
+pesquerías solicitadas,
+
+unidades de pesquerías
+
+declaradas en régimen de
+
+recuperación o de desarrollo
+
+incipiente, según lo
+
+dispuesto en el Párrafo
+
+3º del Título III de esta ley.
+
+c) Constituir la o las
+
+especies solicitadas, en
+
+conformidad a una nómina
+
+que establecerá la
+
+Subsecretaría de Pesca,
+
+fauna acompañante de
+
+las pesquerías señaladas
+
+en las letras a) o b)
+
+anteriores, salvo que el
+
+solicitante se encuentre
+
+inscrito en ellas.
+
+En el evento que la
+
+especie solicitada no
+
+se encuentre en la
+
+nómina el Servicio
+
+deberá remitir dicha
+
+solicitud a la
+
+Subsecretaría la que
+
+deberá pronunciarse
+
+en el plazo de un mes,
+
+incluyendo en la nómina
+
+las respectivas especies
+
+y artes o denegándola
+
+mediante resolución
+
+fundada en virtud de
+
+las siguientes causales:
+
+a) Por no tener
+
+distribución geográfica
+
+en el área solicitada.
+
+b) Cuando la actividad
+
+solicitada sea contraria
+
+a la normativa pesquera
+
+vigente.
+
+#### Artículo 50
+
+B.- Las inscripciones
+
+en el Registro Pesquero Artesanal podrán ser reemplazadas en pesquerías con el acceso cerrado, en conformidad con lo previsto en los artículos 33 y 50 de esta ley. Asimismo, podrá efectuar el reemplazo la sucesión del pescador artesanal en conformidad con el inciso tercero del artículo 55 de esta ley.
 
 El reemplazo operará en forma indivisible respecto de todas las categorías, y en todas las pesquerías cerradas y vigentes que el reemplazado tenga inscritas en el Registro, quedando sin efecto la inscripción respecto de las pesquerías con acceso abierto, por el solo ministerio de la ley. Los armadores que cuenten con dos embarcaciones inscritas en el Registro Pesquero Artesanal podrán efectuar el reemplazo de una o de ambas, manteniendo en el primer caso su inscripción respecto de la embarcación no reemplazada con las pesquerías que tuviere inscritas, conservando, asimismo, el resto de sus categorías.
 
@@ -1271,6 +1733,178 @@ G.- El funcionamiento de este régimen deberá ser establecido por reglamento.
 H.- En caso de renuncia o caducidad de un área de manejo, por alguna de las causales previstas en el artículo 144, la organización de pescadores artesanales, que era titular de la misma, no podrá solicitarla nuevamente sino transcurridos tres años, contados desde la fecha de la notificación de la resolución que declaró la caducidad, según corresponda.
 
 Para estos efectos, se considerará como una misma organización aquélla en que participen más del 20% de los pescadores artesanales asociados a otra. Se considerará como referencia, la organización que tenga el menor número de asociados.
+
+#### Artículo 55
+
+I.- Dentro del marco
+
+del Régimen Artesanal
+
+de Extracción establecido
+
+de conformidad con el
+
+#### Artículo 48
+
+A, los
+
+titulares de asignaciones
+
+podrán ceder las toneladas
+
+asignadas para el respectivo
+
+año calendario a otro titular
+
+de la misma región o a
+
+titulares de otras regiones,
+
+siempre que se trate de una
+
+misma unidad poblacional.
+
+También se podrán celebrar
+
+estos actos jurídicos en
+
+beneficio de uno o más
+
+pescadores artesanales
+
+inscritos en el Registro
+
+Artesanal en el recurso
+
+respectivo en regiones
+
+no sometidas al régimen
+
+y dentro de la misma
+
+unidad poblacional.
+
+La Subsecretaría,
+
+mediante resolución
+
+fundada, autorizará
+
+las cesiones a que se
+
+refiere el inciso
+
+anterior.
+
+El Servicio llevará,
+
+de oficio, un registro
+
+público de traspasos
+
+que estará disponible
+
+en su página de dominio
+
+electrónico, en el que
+
+se registrará la cesión
+
+celebrada, debiendo
+
+constar en ella el
+
+cedente y el cesionario
+
+y las toneladas objeto
+
+de la cesión, así como
+
+el listado de los
+
+pescadores artesanales
+
+propiamente tales que
+
+hayan participado en
+
+el último zarpe de la
+
+embarcación del
+
+cedente, de conformidad
+
+con el registro de
+
+zarpe otorgado por la
+
+Autoridad Marítima o
+
+en el contrato de
+
+embarque, cualquiera
+
+que conste en la
+
+solicitud de cesión.
+
+En el evento de que
+
+las toneladas objeto
+
+de la cesión superen
+
+los saldos de asignación
+
+disponibles al momento
+
+de la autorización,
+
+ésta se realizará hasta
+
+el límite disponible.
+
+En los casos antes
+
+regulados las capturas
+
+se imputarán al titular
+
+original de la asignación.
+
+No obstante lo anterior,
+
+el titular de la asignación
+
+sólo podrá ceder, en un período
+
+de tres años corridos, hasta
+
+el 50% de la cuota asignada
+
+para dicho período.
+
+La infracción a la
+
+obligación señalada en
+
+el inciso anterior será
+
+causal de caducidad de
+
+la inscripción en el
+
+Registro Artesanal del
+
+pescador o pescadores
+
+titulares de la
+
+asignación y de la
+
+embarcación artesanal,
+
+en su caso.
 
 ### Párrafo 4°
 
@@ -2056,37 +2690,49 @@ DE LA PESCA DE INVESTIGACION
 
 #### Artículo 98
 
-La Subsecretaría autorizará la pesca de investigación de conformidad con las normas de este párrafo.
+La Subsecretaría autorizará mediante resolución la pesca de investigación de conformidad con las normas de este Párrafo. Las solicitudes deberán enmarcarse dentro de los propósitos definidos en el número 29) del artículo 2º de esta ley.
+
+Los resultados de las investigaciones deberán comunicarse a la Subsecretaría mediante el envío de informes, incluyendo los datos recopilados, dentro de los plazos y de acuerdo con la metodología y objetivos del proyecto aprobado. Dentro del plazo de diez días de cumplida la exigencia de enviar el informe de resultados, éstos deberán publicarse en el sitio web de la Subsecretaría.
+
+El incumplimiento de la obligación antes señalada se considerará como causal suficiente para denegar cualquier nueva solicitud de pesca de investigación, mientras no se regularice la entrega y aprobación del informe final, el que será público.
+
+Todos los resultados y bases de datos obtenidos mediante la investigación realizada con pesca de investigación serán públicos. La Subsecretaría deberá llevar un registro de ellos y publicarlos en su sitio web.
 
 #### Artículo 99
 
-Para realizar pesca de investigación respecto de especies y en áreas sujetas al régimen general de acceso, la Subsecretaría, mediante resolución, autorizará la captura de especies hidrobiológicas en función del proyecto aprobado, eximiéndola del cumplimiento de las normas de administración que establece esta ley.
+Las personas naturales y jurídicas
+
+interesadas en realizar pesca de investigación deberán presentar una solicitud a la Subsecretaría de Pesca, acompañada de los términos técnicos de referencia del proyecto y de los demás antecedentes que establezca el reglamento.
+
+Si el solicitante es una persona natural o jurídica extranjera deberá contar con el patrocinio de una institución pública o privada chilena dedicada a la investigación.
+
+Los términos técnicos de referencia y la ejecución de las actividades de investigación deberán ser realizadas por personas naturales y jurídicas que tengan conocimiento y experiencia profesional o académica en relación a los objetivos planteados en el estudio.
 
 #### Artículo 100
 
-En el evento de que personas naturales o jurídicas deseen realizar pesca de investigación en pesquerías declaradas en régimen de plena explotación, régimen de pesquerías en recuperación o régimen de pesquerías en desarrollo incipiente, eximiéndose del cumplimiento de las normas de administración pesquera que puedan estar vigentes, deberán previamente presentar una solicitud, a la Subsecretaría acompañando un proyecto que reúna los antecedentes señalados en el artículo 101.
+La Subsecretaría podrá autorizar, en casos fundados, la ejecución de proyectos de investigación, exceptuándolos de las medidas de administración vigentes para las especies en estudio.
 
-La Subsecretaría, mediante resolución, podrá autorizar el proyecto de pesca de investigación, permitiendo la captura o extracción fuera de las medidas de administración que expresamente se dispongan.
+No obstante, tratándose de recursos hidrobiológicos sometidos a cuotas globales anuales de captura, sólo se podrán eximir de tales medidas de administración las pescas de investigación que se efectúen con cargo a la cuota de investigación. Asimismo, tratándose de recursos hidrobiológicos no sometidos a cuotas globales de captura, no se podrá autorizar a capturar más del 2% de los desembarques del año calendario anterior exceptuándolos de las medidas de administración.
 
-La Subsecretaría sólo podrá autorizar capturas exentas de las medidas de administración para los fines de este artículo, entendiéndose que éstas siempre se imputarán a las cuotas globales de captura si las hubiere.
+Lo dispuesto en el inciso anterior no se aplicará tratándose de los proyectos de investigación que tengan por objeto proteger la biodiversidad, el ambiente acuático o el patrimonio sanitario del país, en cuyo caso la Subsecretaría podrá, fundadamente, eximir de las medidas de administración vigentes para las especies en estudio.
 
-Los extractos de las resoluciones a que se refieren los incisos anteriores y el artículo 99 de la presente ley, deberán siempre publicarse en el Diario Oficial, por cuenta del interesado, y los informes técnicos respectivos serán públicos.
+En ningún caso podrá eximirse de las prohibiciones contempladas por esta ley ni de las obligaciones legales y reglamentarias establecidas para la realización de actividades pesqueras extractivas.
 
 #### Artículo 101
 
-Las personas interesadas en practicar pesca de investigación en conformidad con los artículos 99, 100 y 102, deberán solicitarlo a la Subsecretaría, presentando una petición expresa al respecto, la que deberá incluir las informaciones o antecedentes que fije el reglamento.
+Las naves industriales o embarcaciones artesanales que se utilicen en pesca de investigación deberán estar inscritas en el Registro Nacional Pesquero Industrial o en el Registro Artesanal, según corresponda, y en los casos que la pesquería esté declarada en plena explotación o con su acceso cerrado, dichas naves deberán contar con autorización o inscripción sobre el respectivo recurso. En el caso de las pesquerías bentónicas la obligación antes señalada se hará aplicable al buzo y al recolector de orilla, alguero o buzo apnea.
 
-La Subsecretaría podrá autorizar, mediante resolución que se publicará en el Diario Oficial por cuenta de los interesados, las peticiones de pesca de investigación para un año calendario determinado, hasta alcanzar los límites indicados en los artículos 99 y 100.
+Quedarán exceptuados de las disposiciones antes señaladas los buques de investigación matriculados como tales ante la Autoridad Marítima o aquellos con dedicación preferente a la ejecución de actividades de investigación, lo cual deberá ser acreditado ante la Subsecretaría. En el caso de proyectos de investigación sobre recursos bentónicos, o que tengan por objeto proteger la biodiversidad, el ambiente acuático o el patrimonio sanitario del país, quedarán exceptuados los muestreadores científicos acreditados por instituciones de investigación.
+
+La Subsecretaría podrá exigir al peticionario la obligación de admitir a bordo al o a los observadores científicos o profesionales que ésta determine y las demás obligaciones necesarias para el cabal cumplimiento de los objetivos de la investigación.
+
+Los armadores podrán disponer de las capturas obtenidas, incluyendo el desembarque y procesamiento de las mismas, una vez recopilada la información necesaria para el cumplimiento de los objetivos de la investigación.
 
 #### Artículo 102
 
-Las personas que soliciten realizar pesca de investigación con naves, no estarán obligadas a inscribirse previamente en el registro industrial o artesanal. En todo caso, deberán obtener una autorización especial de la Subsecretaría, mediante resolución, expresando el nombre y dirección de la persona responsable, domiciliada en el país, para los efectos de la presente ley.
+Sin perjuicio de lo dispuesto en los incisos tercero y cuarto del artículo 11 del decreto ley Nº 2.222, de 1978, del Ministerio de Defensa Nacional, que sustituye la Ley de Navegación, se podrá autorizar la operación de naves extranjeras para los efectos de la pesca de investigación, supeditada a la celebración de un convenio con organismos de investigación públicos o privados chilenos. La solicitud deberá señalar el nombre y dirección de la persona responsable, domiciliada en el país, para efectos de esta ley.
 
-Esta autorización especial deberá condicionarse a la obligación de admitir a bordo al o a los profesionales que fije la misma Subsecretaría de acuerdo con la importancia del proyecto, como asimismo a la entrega de los datos recopilados y al envío de los resultados de la investigación dentro de los plazos y de acuerdo con la metodología y objetivos del proyecto.
-
-Sin perjuicio de lo establecido en el artículo 161 de esta ley se podrá autorizar la operación de naves extranjeras para los efectos de la pesca de investigación, supeditada a la celebración de un contrato con armadores nacionales, u organismos públicos o privados chilenos.
-
-Estos extranjeros deberán cumplir con las disposiciones de la presente ley, así como con las que otorgan atribuciones a la autoridad marítima.
+Los armadores extranjeros deberán cumplir con las disposiciones de la presente ley y con aquellas que otorgan atribuciones a la Autoridad Marítima.
 
 ## Título VIII
 
