@@ -42,7 +42,11 @@ Colombia,
 
 Estados
 
-Unidos, México,
+Unidos,
+
+Filipinas, Sin declaración
+
+México, adicional
 
 Perú
 
@@ -62,9 +66,13 @@ análisis oficial de
 
 laboratorio.
 
+Musa textilis Filipinas Sin declaración
+
+adicional
+
 Raphia farinifera Cualquier origen Sin declaración
 
-(= R. ruffia) adiciona
+(= R. ruffia) adicional
 
 Saccharum
 
@@ -75,5 +83,7 @@ adicional
 2. La partida debe venir libre de suelo, semillas y en envases nuevos de primer uso.
 
 3. Cada partida será inspeccionada por el Servicio en el puerto de ingreso para la verificación física y documental de los requisitos fitosanitarios establecidos. Si durante la inspección se detectan plagas distintas a las mencionadas en esta resolución, se evaluará mediante un Análisis de Riesgo de Plagas, si las mismas cumplen con el criterio de Plaga Reglamentada, aplicándose las medidas fitosanitarias de manejo de riesgo, acordes con el riesgo involucrado.
+
+El numeral 1 de la Resolución 8270 Exenta, Agricultura, publicada el 03.01.2012 modifica la presente norma, en el sentido de agregar al resuelvo número 1, a continuación del registro "Cocos nucifera" la especie, origen y requisitos fitosanitarios, que la citada norma indica.
 
 Anótese, comuníquese y publíquese.- Francisco Bahamonde Medina, Director Nacional.
