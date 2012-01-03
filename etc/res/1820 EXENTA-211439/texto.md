@@ -536,7 +536,15 @@ h) Acta de Reunión en que conste que el proyectista expuso el proyecto al respe
 
 i) Presupuesto del proyecto que señale claramente el valor unitario del metro cuadrado de pavimentación o de repavimentación a aplicar, según sea el caso, el cual deberá ser igual o inferior a los valores indicados para cada región en las siguientes tablas respectivamente:
 
-VER DIARIO OFICIAL DE 22.08.2008, PAGINA 7
+(1) El valor límite de los pavimentos y/o repavimentos en piedra canteada para la comuna Camarones es $35.000/m². Para las comunas de Putre y Gral. Lagos, los valores límites de los pavimentos y/o repavimentos en pasajes y en calle en adocretos es $36.000/m² y en adoquín de piedra canteada es $40.000/m². Para la comuna de Arica, el valor límite de aceras es $8.500/m².
+
+(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es $55.000/m2 en adocretos y $64.000/m2 en adoquín de piedra canteada. En el caso de pavimentos en adocretos prefabricados para las comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es $54.000/m2. Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es $51.000/m2.
+
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, los valores límites para la comuna de San Pedro de Atacama es $80.000/m2, tanto para calles como para pasajes.
+
+(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el correspondiente valor límite de pavimentación es $86.000/m2. En el caso de las islas que forman parte de la comuna de Guaitecas, el correspondiente valor límite de pavimentación y de repavimentación es $97.000/m2. Para la comuna de O'Higgins, el valor límite para pavimentos y repavimentos será $77.000/m2 en pasajes y $85.000/m2 en calles.
+
+(5) En la comuna Cabo de Hornos, el correspondiente valor límite de pavimentación y de repavimentación es $70.000/m2 para pasajes y $77.000/m2 en calles.
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -706,7 +714,7 @@ La Secretaría Regional Ministerial de Vivienda y Urbanismo informará el result
 
 Una vez realizada la publicación en la prensa de la lista definitiva de proyectos seleccionados, la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo entregará a los Comités de Pavimentación seleccionados un Certificado de Pavimentación, que acredite que su proyecto fue seleccionado por el Programa y que será construido de acuerdo a las disposiciones reglamentarias vigentes.
 
-El proceso de selección de proyectos realizado por el Encargado Regional del Programa deberá ser validado por una Comisión integrada por el Auditor de la Seremi, el Jefe del Departamento a cargo del Programa y un funcionario del Serviu respectivo, designado al efecto por su Director.
+El proceso de selección de proyectos realizado por el Encargado Regional del Programa deberá ser validado por una Comisión integrada por el Jefe del Departamento a cargo del Programa, un funcionario externo al Departamento a cargo del Programa designado por el respectivo Secretario(a) Regional Ministerial de Vivienda y Urbanismo y un funcionario del correspondiente Serviu, designado al efecto por su Director.
 
 Si entre dos cuadras que califican para su repavimentación existe una cuadra que no califica y requiere mantención para igualar estándar de calidad y nivelar rasantes, las operaciones requeridas de mantención podrán ser incluidas en el proyecto.
 
@@ -764,11 +772,7 @@ Los responsables del Programa de Pavimentación Participativa en la Secretaría 
 
 > **Nota.** El Nº 1º D) de la RES 2983 Exenta, vivienda, publicada el 10.09.2005, ordena sustituir la letra c), del inciso segundo, de la letra i), del número 3º, por la siguiente: "c) En el caso de las comunas de Ovalle, Canela e Illapel de la IV Región, de las comunas de Valparaíso y de Viña del Mar de la V Región y de las comunas de Penco, Tomé, Talcahuano, Lota, Coronel y Lebu de la VIII Región, en atención a sus características morfológicas, que demandan la ejecución de obras especiales de estabilización de suelos y de canalización de aguas lluvias en el espacio público, el valor límite de pavimentación podrá ser incrementado, sólo por concepto de obras anexas imprescindibles, hasta en $20.000 por metro cuadrado." Sin embargo, la citada letra que se indica no existe, por tanto, no se ha incorporado al presente texto actualizado.
 
-> **Nota.** NOTA 1: La letra D) del Nº 1 de la RES 5644 exenta, Vivienda, publicada el 22.08.2008, reemplazó las tablas contenidas en el inciso 1º de la letra i) del Nº 3, las que no se ingresaron por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
-
 > **Nota.** NOTA 2: Las letras E) y F) del Nº 1 de la RES 5644 exenta, Vivienda, publicada el 22.08.2008, modificaron la letra c) del inciso 3º de la letra i), en el siguiente sentido: "E) Reemplázase en la letra c) del inciso tercero de la letra i) del número 3º, el guarismo $20.000 por el guarismo $25.000. F) Agrégase a la letra c) del inciso tercero de la letra i) del número 3º, el siguiente inciso: "Excepcionalmente en otras comunas, la Seremi, con aprobación del Serviu respectivo, podrá autorizar la aplicación del beneficio especificado en el inciso anterior a aquellos proyectos que presenten situaciones extremas y fundadas de requerimientos de mayores obras anexas imprescindibles para la pavimentación y que por esta razón superen el Valor Límite de Pavimentación fijado en esta resolución.". Por no estar incorporada la citada letra, según lo que se expone en nota anterior, no se ha ingresado al presente texto actualizado.
-
-> **Nota.** NOTA 3 El Nº 1 de la Resolución 7226 exenta, Vivienda, publicada el 05.11.2009, reemplazó las tablas contenidas en el inciso 1º de la letra i) del Nº 3, las que no se ingresaron por restricciones técnicas, por lo que no se ha podido construir su texto actualizado.
 
 #### Artículo 1º
 
