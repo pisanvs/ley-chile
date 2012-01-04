@@ -18,7 +18,7 @@ Decreto:
 
 #### Artículo 1º
 
-El Instituto Nacional de Estadísticas procederá a levantar en todo el país, durante el curso del año 2012, el XVIII Censo Nacional de Población y VII de Vivienda, facultándose al(la) Director(a) Nacional de Estadísticas para fijar el día de la realización del Censo mediante resolución que deberá publicarse en el Diario Oficial.
+El Instituto Nacional de Estadísticas procederá a levantar en todo el país, durante el curso del año 2012, el XVIII Censo Nacional de Población y VII de Vivienda.
 
 #### Artículo 2º
 
