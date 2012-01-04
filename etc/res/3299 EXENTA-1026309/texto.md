@@ -18,7 +18,9 @@ Resolución:
 
 2. En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en área urbana de localidades de hasta 2.000 habitantes según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución Nº 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidad de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, incremento total equivalente a 52 Unidades de Fomento y 13 Unidades de Fomento respectivamente.
 
-3. Los subsidios asignados mediante los resuelvos 1 y 2 de la presente resolución, ascendentes a un total de 12.870 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L. B. O'Higgins, para el año 2011.
+3. Los subsidios asignados mediante los resuelvos 1 y 2 de la presente resolución, ascendentes a un total de 12.900 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L. B. O'Higgins, para el año 2011.
+
+> **Nota.** La letra a) del Nº 2 de la Resolución 9837 Exenta, Vivienda, publicada el 04.01.2012, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1. las filas correspondientes a doña Zunilda del Carmen Huerta Pérez, cédula de identidad Nº 4.999.483-4, y al total, de la manera que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
