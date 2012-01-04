@@ -208,25 +208,7 @@ Destinación : Servicio Nacional de Aduanas
 
 12.- ELIMINADO
 
-13.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan 2.5
-
-Año : 2004
-
-Color : Dorado
-
-Nº Motor : D4BH3-893466
-
-Chasis Nº : KMHNM81WP4U-128228
-
-I.R.N.V.M. : XL.7803-0
-
-Destinación : Servicio Nacional de Aduanas
-
-(ANTOFAGASTA)
+13.- ELIMINADO.
 
 14.- Vehículo . Furgón
 
@@ -290,25 +272,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (LOS ANDES)
 
-18.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner
-
-Año : 2004
-
-Color : Blanco blanquise
-
-Nº Motor : 10FSF34382427
-
-Chasis Nº : 30451513
-
-I.R.N.V.M. : VZ.7029-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(LOS ANDES)
+18.- ELIMINADO.
 
 19.- Vehículo . Station Wagon
 
@@ -330,45 +294,9 @@ Destinación : Servicio Nacional de Aduanas
 
 (LOS ANDES)
 
-20.- Vehículo . Camioneta
+20.- ELIMINADO.
 
-Marca : Hyundai
-
-Modelo : Porter 2.5
-
-Año : 2004
-
-Color : Blanco
-
-Nº Motor : D4BF3813991
-
-Chasis Nº : KMFXKN7FP4U707250
-
-I.R.N.V.M. : XT.8722-8
-
-Destinación : Servicio Nacional de Aduanas
-
-(LOS ANDES)
-
-21.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner 1.9
-
-Año : 2004
-
-Color : Blanco blanquise
-
-Nº Motor : 10DXFR6012750
-
-Chasis Nº : 3J580137
-
-I.R.N.V.M. : XT.8752-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(LOS ANDES)
+21.- ELIMINADO.
 
 22.- Vehículo . Camioneta
 
@@ -554,25 +482,7 @@ Destinación : Servicio Nacional de Aduanas
 
 32.- ELIMINADO
 
-33.- Vehículo . Station Wagon
-
-Marca : Kia Motors
-
-Modelo : Sportage II DLX 2.0
-
-Año : 2003
-
-Color : Plateado
-
-Nº Motor : FE230756
-
-Chasis Nº : 5180706
-
-I.R.N.V.M. : XB.4790-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(VALPARAÍSO)
+33.- ELIMINADO.
 
 34.- Vehículo . Camioneta
 
@@ -762,45 +672,9 @@ Destinación : Servicio Nacional de Aduanas
 
 (TALCAHUANO)
 
-47.- Vehículo . Furgón
+47.- ELIMINADO.
 
-Marca : Peugeot
-
-Modelo : Partner M 59 1.9
-
-Año : 2005
-
-Color : Blanco blanquise
-
-Nº Motor : 10DXFR6072961
-
-Chasis Nº : 5JO16390
-
-I.R.N.V.M. : YJ.6987-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(TALCAHUANO)
-
-48.- Vehículo : Minibús
-
-Marca : Hyundai
-
-Modelo : H-1 Minibús SVX
-
-Año : 2006
-
-Color : Blanco
-
-Nº Motor : D4BH5205036
-
-Chasis Nº : KMJWWH7HP6U704639
-
-I.R.N.V.M. : ZJ.6381-8
-
-Destinación : Servicio Nacional de Aduanas
-
-(TALCAHUANO)
+48.- ELIMINADO.
 
 49.- Vehículo : Camioneta
 
@@ -964,45 +838,9 @@ Destinación : Servicio Nacional de Aduanas
 
 (COYHAIQUE)
 
-58.- Vehículo : Camioneta
+58.- ELIMINADO.
 
-Marca : Nissan
-
-Modelo : Terrano D CAB 4X4 3.0
-
-Año : 2005
-
-Color : Rojo metálico
-
-Nº Motor : ZD30-054833T
-
-Chasis Nº : JN1CNUD22Z0007115
-
-I.R.N.V.M. : ZE.8432-4
-
-Destinación : Servicio Nacional de Aduanas
-
-(COYHAIQUE)
-
-59.- Vehículo . Station Wagon
-
-Marca : Kia Motors
-
-Modelo : Sportage II DLX 2.0 MEC A/C 4X4
-
-Año : 2003
-
-Color : Plata/marengo
-
-Nº Motor : FE230771
-
-Chasis Nº : 5180643
-
-I.R.N.V.M. : VL.9973-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(PUERTO AYSÉN)
+59.- ELIMINADO.
 
 60.- Vehículo . Station Wagon
 
@@ -1024,25 +862,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (PUNTA ARENAS)
 
-61.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan 2.5
-
-Año : 2004
-
-Color : Dorado gris
-
-Nº Motor : D4BH3-893109
-
-Chasis Nº : KMHNM81WP4U128212
-
-I.R.N.V.M. : XN.5169-7
-
-Destinación : Servicio Nacional de Aduanas
-
-(PUNTA ARENAS)
+61.- ELIMINADO.
 
 62.- Vehículo : Minibús
 
