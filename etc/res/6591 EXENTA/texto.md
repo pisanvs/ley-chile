@@ -18,7 +18,13 @@ Considerando:
 
 Resolución:
 
-1.- Llámase a postulación especial para el otorgamiento de subsidios del Título II, Del Programa de Protección del Patrimonio Familiar, para Proyectos de Obras de Innovación de Eficiencia Energética, destinados a la instalación de sistemas solares térmicos en la vivienda, conforme a lo indicado en el artículo 5°, Título II, letra b.5 del DS Nº 255 (V. y U.), de 2006, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2011, a partir del mes de octubre y hasta el mes de diciembre o hasta agotar el número de subsidios disponibles. Para la primera selección del mes de octubre 2011, los proyectos deberán estar calificados hasta el día 7 de noviembre de 2011.
+1.- Llámase a postulación especial para el otorgamiento de subsidios del Título II del Programa de Protección del Patrimonio Familiar, para Proyectos de Obras de Innovación de Eficiencia Energética, destinados a la instalación de sistemas solares térmicos en la vivienda conforme a lo indicado en el artículo 5º, Título II, letra b.5 del DS Nº 255 (V. y U.), de 2006, para efectuar selecciones mensuales de proyectos que cuenten con Certificado de Calificación hasta el último día hábil de cada mes del año 2011, a partir del mes de octubre y hasta el mes de diciembre o hasta agotar el número de subsidios disponibles. En consideración a lo indicado en la letra d) del artículo 13 del DS Nº 255 (V. y U.), de 2006, se definen las siguientes condiciones especiales para esta postulación:
+
+a) Para la primera selección del mes de octubre 2011, los proyectos deberán estar calificados hasta el día 7 de noviembre de 2011.
+
+b) Para la selección de diciembre de 2011, las familias podrán acreditar su ahorro hasta el día 28 de diciembre de 2011.
+
+c) Además en las selecciones de este llamado, no se exigirá a Serviu que aplique en la evaluación de los presupuestos de obra de los proyectos presentados, la Tabla de Valores Referenciales definida en el artículo 36 del DS Nº 255 (V. y U.) de 2006.
 
 2.- No podrán postular a este llamado las personas que hayan sido beneficiarias de un subsidio del Programa de Protección del Patrimonio Familiar en su Título II, letra b.5), correspondiente a Obras de Innovaciones de Eficiencia Energética.
 
