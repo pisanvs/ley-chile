@@ -16,7 +16,9 @@ Resolución:
 
 1. Apruébanse los proyectos que se identifican a continuación y los recursos respectivos, los cuales cuentan con Calificación Definitiva, para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el concurso convocado mediante resolución exenta Nº699 (V. y U.), de 2011, y sus modificaciones:
 
-2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 227.733 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
+2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 136.044 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L.B. O'Higgins, para el año 2011.
+
+> **Nota.** El numeral 1 letra a) de la Resolución 9828 Exenta, Vivienda, publicada el 04.01.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el Resuelvo 1, el proyecto "Compañía Real II" de la comuna de Rancagua.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
