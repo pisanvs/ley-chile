@@ -18,7 +18,9 @@ Resolución:
 
 2. En caso que los proyectos seleccionados mediante la presente resolución se encuentren emplazados en área rural o en área urbana de localidades de hasta 2.000 habitantes según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución Nº 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidad de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, incremento total equivalente a 18 Unidades de Fomento y 4,5 Unidades de Fomento respectivamente.
 
-3. Los subsidios asignados mediante los Resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 4.732,5 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L. B. O'Higgins, para el año 2011.
+3. Los subsidios asignados mediante los Resuelvo 1 y 2 de la presente resolución, ascendentes a un total de 4.822,5 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del L. B. O'Higgins, para el año 2011.
+
+> **Nota.** La letra a)del Nº 4 de la Resolución 9837 Exenta, Vivienda, publicada el 04.01.2012, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1. las filas correspondientes don Manuel Fernando Araneda Allende, cédula de identidad N° 5.841.755-6, don Carlos Patricio Correa López, cédula de identidad Nº 12.179.377-6, y don Luis Gilberto Guerra Duque, cédula de identidad Nº 9.559.169-8, y al Total, de la manera que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
