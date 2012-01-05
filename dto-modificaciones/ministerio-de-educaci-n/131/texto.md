@@ -2468,13 +2468,7 @@ Las instituciones que participen en las licitaciones deberán presentar una prop
 
 #### Artículo 9°
 
-Las personas interesadas en realizar estudios de acuerdo a este programa, deberán cumplir con lo siguiente:
-
-a) Para Educación Básica: tener 15 años cumplidos y acreditar la aprobación del cuarto año de educación básica o el sexto año de educación básica, o sus equivalentes, para ingresar al Nivel 2 o al Nivel 3, respectivamente.
-
-En su defecto, deberán incorporarse a un proceso de evaluación diagnóstica, el que determinará el ingreso al Nivel 1, Nivel 2 o Nivel 3 del Plan de Estudio en el que iniciará su proceso educativo.
-
-b) Para Educación Media: tener 18 años cumplidos y acreditar la aprobación del curso anterior al cual postula. No obstante, las personas que tengan aprobado el primero o tercer año de Educación Media, deberán cumplir obligatoriamente con la totalidad de las actividades que contempla el programa para el primer y segundo ciclo, respectivamente.
+Derogado.
 
 #### Artículo 10°
 
