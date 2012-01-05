@@ -26,6 +26,8 @@ Los recursos comprometidos para los proyectos pre-seleccionados, se detallan en 
 
 4° En relación a los números 2° y 3° de la presente Resolución, los recursos comprometidos para los proyectos seleccionados y pre-seleccionados en el concurso correspondiente al mes de febrero del 2008, se detallan en el siguiente cuadro por región del país:
 
+> **Nota.** La letra a) de la Resolución 9846 Exenta, Vivienda, publicada el 05.01.2012, reemplaza primer cuadro inserto en el Resuelvo 2, en las columnas correspondientes a Nº de Familias, Total Recursos UF (Subs. Viv. + Equip. + Fondo I. + Asist. Tec.), en la fila correspondiente al Comité para la Vivienda El Gran Sueño Que Haremos Realidad, los guarismos "23" por "22" y "9.171" por "8.662" y en la fila con los totales los guarismos "1.031" por "1.030" y "381.773" por "381.264".
+
 Anótese, comuníquese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
