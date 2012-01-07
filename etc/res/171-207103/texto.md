@@ -86,7 +86,7 @@ Tercero.- Publíquese la presente Resolución y el texto completo de la Ordenanz
 
 Anótese, tómese razón, comuníquese y publíquese.- Jaime Tohá González, Intendente Región del Bío Bío.
 
-ORDENANZA
+> ORDENANZA
 
 PLAN REGULADOR METROPOLITANO DE CONCEPCION
 
@@ -1326,8 +1326,6 @@ ZTT - 12 PUERTO SUR. I. SANTA CORONEL
 
 MARIA
 
-ZTT - 13 PUERTO DE LOTA LOTA
-
 #### Artículo 3
 
 9.3.- Los destinos permitidos en esta zona son los siguientes:
@@ -2532,7 +2530,7 @@ CAPITULO VII. 1 VIALIDAD ESTRUCTURANTE METROPOLITANA
 
 #### Artículo 7
 
-1.1.- La vialidad estructurante del presente plan regulador metropolitano corresponde a la red de vías metropolitanas expresas, troncales y colectoras que se consignan en el plano PRMC-02, y representa una estructura general, cuya ubicación y características definitivas deberá ser ratificada, detallada y precisada en los planes regula dores comunales o seccionales.
+1.1.- La vialidad estructurante del presente plan regulador metropolitano corresponde a la red de vías metropolitanas expresas, troncales y colectoras que se consignan en el plano PRMC-02 , y representa una estructura general, cuya ubicación y características definitivas deberá ser ratificada, detallada y precisada en los planes regula dores comunales o seccionales.
 
 #### Artículo 7
 
@@ -2546,7 +2544,7 @@ VER DIARIO OFICIAL DE 28.01.2003, PAGINAS 26 - 27
 
 Los anchos entre líneas oficiales, mientras no se confeccionen o amplíen los limites urbanos vigentes de los instrumentos de planificación de nivel local señalados, serán los establecidos en la Ordenanza General de Urbanismo y Construcciones. Asimismo, los trazados de las vías colectoras propuestas serán los definidos en el presente PRMC, sólo en aquellos territorios donde no existe plan regulador comunal o seccional.
 
-VER DIARIO OFICIAL DE 28.01.2003, PAGINAS 27 - 28 NOTA 1
+VER DIARIO OFICIAL DE 28.01.2003, PAGINAS 27-28
 
 #### Artículo 7
 
@@ -2938,9 +2936,7 @@ INDUSTRIAL Y DOMESTICO.
 
 12.2.- Los sistemas de tratamiento de residuos líquidos de tipo industrial, sólo se podrán localizar al interior de las zonas industriales y en el Area Rural Metropolitana, y deberán contemplar medidas de mitigación de sus efectos, las que serán establecidas y dimensionadas por los organismos competentes, en concordancia con los estudios técnicos de riesgo e impacto ambiental, que les sean exigibles.
 
-</NOTA>
-
-> **Nota.** El artículo primero de la RES 8, Gobierno Reg., Región del Bío Bío, agrega en el destino de equipamientos permitidos de la presente norma, los tipos de equipamiento de culto y científico.
+> **Nota.** El artículo primero de la Resolución 8 Gobierno Regional del Bío Bío, agrega en el destino de equipamientos permitidos de la presente norma, los tipos de equipamiento de culto y científico.
 
 > **Nota.** NOTA 1 La letra a) de la Resolución 146, Gobierno Regional del Bío Bío, publicada el 30.11.2009, modifica la presente norma en el sentido de prorrogar por 5 años, a partir del 14 de febrero de 2010, las declaratorias de utilidad pública correspondientes a los terrenos destinados a vías troncales propuestas, emplazadas en el Área Urbana del Plan Regulador Metropolitano de Concepción, e identificadas en el cuadro del artículo 7.1.2.
 
@@ -2956,6 +2952,12 @@ INDUSTRIAL Y DOMESTICO.
 
 > **Nota.** NOTA 7 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.5, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Las Golondrinas, Camino Lenga, Costanera Lenga, Gran Bretaña 2, Camino Desembocadura y Costanera Ribera Norte 1.
 
-> **Nota.** NOTA 8 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de agregar la cita de la comuna de Hualpén correspondiente a las filas de las siguientes vías: Puente Nº 4, Colón 2 y Las Golondrinas.<NOTA: NOTA AL PIE 130 - 0> El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Acceso Norte Puente Nº 4, Costanera Ribera Norte 1, Arteaga Alemparte, Gran Bretaña 2, Camino a Lenga y Camino Desembocadura.</NOTA>
+> **Nota.** NOTA 8 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de agregar la cita de la comuna de Hualpén correspondiente a las filas de las siguientes vías: Puente Nº 4, Colón 2 y Las Golondrinas.
 
 > **Nota.** NOTA 9 El numeral 2 de la Resolución 121, Gobierno Regional del Bio Bío, publicada el 08.07.2011, modifica el cuadro del Artículo 7.1.2, en el sentido de reemplazar la cita de la comuna de Talcahuano por la comuna de Hualpén correspondientes a las filas de las siguientes vías: Acceso Norte Puente Nº 4, Costanera Ribera Norte 1, Arteaga Alemparte, Gran Bretaña 2, Camino a Lenga y Camino Desembocadura.
+
+> **Nota.** NOTA 10 El numeral 1 de la Resolución 36, Gobierno Regional del Bio Bío, publicada el 19.08.2011, modifica el cuadro contenido en el Artículo 7.1.2, en el sentido de agregar las filas correspondientes a la comuna de Talcahuano de la manera que en dicha norma se indica y por otra parte, ordena disminuir el Ancho Mínimo entre Líneas Oficiales en la columna de las siguientes vías: Las Golondrinas de 40 a 36 m.; La Marina-Juan Antonio Ríos de 30 a 26 m. y Villarroel-Blanco Encalada - Gacitúa de 30 a 28 m.
+
+> **Nota.** NOTA 11 El numeral 2 de la Resolución 36, Gobierno Regional del Bio Bío, publicada el 19.08.2011 modifica el Plano PRMC-02 de Vialidad y Transporte en el sentido de incorporar los tramos de las vías troncales y actualizar los anchos señalados en la ordenanza, de acuerdo a lo graficado en el Plano MPRMC-05 confeccionado a escala 1:50.000 por el Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Biobío.
+
+> **Nota.** NOTA 12 El numeral 3 de la Resolución 276, Gobierno Regional VIII Región del BioBío, publicada el 07.01.2012, modifica el Plano PRMC-01 Zonificación, en el sentido de eliminar la Zona ZTT-13 Terminal de Transporte Puerto de Lota, de acuerdo a lo graficado en el Plano MPRMC-06, confeccionado por el Departamento de Desarrollo Urbano e Infraestructura de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Biobío.
