@@ -102,13 +102,13 @@ Asimismo, en este caso, las viviendas estarán exentas de cumplir con las especi
 
 Para los casos de proyectos certificados previamente por el MINVU o SERVIU y con anterioridad al sismo y posterior tsunami del 27 de febrero del año 2010, la vivienda inhabitable no hubiera contado con los servicios de agua potable y electricidad, y que no exista una red colectiva frente al terreno para abastecer de estos servicios, el SERVIU podrá aprobar la construcción en dicho terreno aun cuando el proyecto de la nueva vivienda no contemple la conexión a dichos servicios, debiendo al menos contemplarse la construcción del sistema de alcantarillado de aguas servidas particular, o la conexión a una red colectiva pública o particular de aguas servidas.
 
-19. El SERVIU pagará el subsidio mencionado en tres parcialidades, a través de cargas a la tarjeta que permitirán la adquisición de los materiales de construcción. Las cargas corresponderán a los siguientes montos y se verificarán contra los siguientes hitos:
+19. El Serviu pagará el subsidio mencionado en dos parcialidades, a través de cargas a la tarjeta que permitirán la adquisición de los materiales de construcción. Las cargas corresponderán a los siguientes montos y se verificarán contra los siguientes hitos:
 
-La carga se efectuará en pesos, al valor de la Unidad de Fomento del día en que ésta se apruebe. Se podrán efectuar hasta tres compras por cada carga.
+Asimismo podrá optarse porque el Serviu pague las cargas indicadas en los siguientes porcentajes:
 
 El SERVIU podrá establecer requisitos de avance de obras distintos para las cargas en función de las características del proyecto, cuando las partidas señaladas en el cuadro anterior no se ajusten a la tipología de la vivienda en ejecución. Los avances de obra serán certificados ante el SERVIU por la EGIS o PSAT.
 
-En caso que la tarjeta se utilice para la adquisición de paquetes de materiales pertenecientes a modelos de vivienda previamente certificados por el SERVIU o el MINVU, podrán fusionarse las cargas 2 y 3, según el siguiente cuadro:
+En caso que la tarjeta se utilice para la adquisición de paquetes de materiales pertenecientes a modelos de vivienda previamente certificados por el Serviu o el Minvu, las cargas se pagarán según lo señalado en el siguiente cuadro:
 
 La carga 2 deberá utilizarse exclusivamente en la adquisición del paquete de materiales del proyecto certificado por MINVU o SERVIU.
 
@@ -122,15 +122,15 @@ firmado por la EGIS o PSAT y por el postulante,
 
 quien deberá aceptar el proyecto.
 
-ii. Permiso de edificación aprobado por la DOM
+ii. Permiso de edificación en trámite en la
 
-correspondiente.
+respectiva Dirección de Obras Municipales.
 
 iii. Acta sobre contrato de mano de obra, si
 
 corresponde.
 
-El SERVIU deberá verificar que el proyecto cuente con Permiso de Edificación aprobado por la Dirección de Obras Municipales, que la vivienda cumple con el estándar técnico señalado en el Resuelvo 18. de esta Resolución y que se acredita la contratación de mano de obra cuando corresponda.
+El SERVIU deberá verificar que la vivienda cumple con el estándar técnico señalado en el Resuelvo 18. de esta Resolución y que se acredita la contratación de mano de obra cuando corresponda.
 
 Por otro lado, en caso que corresponda a proyectos previamente aprobados y certificados por el SERVIU o el MINVU que se encuentren a disposición de los interesados, no se requerirá su evaluación. Tampoco se requerirá en este caso Permiso de Edificación, pudiendo éste obtenerse simultáneamente con la Recepción Definitiva conforme señala la Ordenanza General de Urbanismo y Construcciones. Sólo se requerirá en este caso la presentación de una copia del proyecto aprobado y certificado firmado por la EGIS o PSAT y por el beneficiario en señal de aprobación y del acta sobre contratación de mano de obra, si corresponde.
 
@@ -140,7 +140,7 @@ a) Luego de recibida la primera carga, la familia asesorada por la EGIS o PSAT p
 
 b) El proveedor deberá verificar la identidad del beneficiario con su Cédula Nacional de Identidad y entregará una factura o boleta con el detalle y cantidad de materiales adquiridos y el valor de cada uno de ellos, debiendo guardar como respaldo una copia firmada por el beneficiario en que conste que éste recibió los materiales a conformidad. Para verificar el saldo con que cuenta el beneficiario y la validez de la tarjeta, el proveedor deberá acceder a la página web del Ministerio de Vivienda y Urbanismo, en la que ingresará los datos de la operación y se generará un código de validación de la misma y un comprobante.
 
-c) Concluida la primera fase de ejecución de las obras, y habiendo utilizado los materiales adquiridos con la primera carga de la tarjeta, podrá hacerse efectiva la segunda carga de la misma, previa visación de la EGIS o PSAT del avance de obras, que indique que éstas se ejecutan correctamente y que los materiales adquiridos con la primera carga fueron empleados en ella. Este último informe se efectuará en un formato tipo que se proporcionará para estos efectos. De la misma manera se procederá en las siguientes cargas.
+c) Concluida la primera fase de ejecución de las obras, y habiendo utilizado los materiales adquiridos con la primera carga de la tarjeta, podrá hacerse efectiva la segunda carga de la misma, previa visación de la EGIS o PSAT del avance de obras, que indique que éstas se ejecutan correctamente y que los materiales adquiridos con la primera carga fueron empleados en ella. Este último informe se efectuará en un formato tipo que se proporcionará para estos efectos.
 
 22. Una vez terminadas las obras y para acreditar su finalización, se exigirán como respaldo los siguientes documentos:
 
@@ -168,7 +168,7 @@ SERVIU para estos efectos.
 
 El SERVIU, una vez recibidos los antecedentes señalados, deberá efectuar una visita a la vivienda para recibir las obras.
 
-23. Opcionalmente, podrá financiarse con un subsidio adicional la contratación de mano de obra complementaria a la que aportará el beneficiario, por un monto de hasta 80 Unidades de Fomento, a pagar en dos parcialidades de igual monto, incluidas en las cargas 2 y 3 señaladas en el Resuelvo 19. de esta Resolución.
+23. Opcionalmente, podrá financiarse con un subsidio adicional la contratación de mano de obra complementaria a la que aportará el beneficiario, por un monto de hasta 90 Unidades de Fomento, a pagar en dos parcialidades de igual monto, incluidas en las cargas 1 y 2 señaladas en el Resuelvo 19. de esta resolución.
 
 La mano de obra complementaria deberá ser contratada por la EGIS o PSAT, a quién se le pagará hasta el monto señalado en el inciso anterior, debiendo éste a su vez pagar íntegramente a quien se contrate para dicho efecto, cuando corresponda, dando cumplimiento en forma directa o indirecta, a todas las obligaciones emanadas de las leyes sociales respecto del personal que labora en las faenas, incluyendo el personal de las empresas subcontratistas.
 
@@ -176,7 +176,7 @@ Para los efectos de aplicar el monto destinado a mano de obra, deberá presentar
 
 El costo de la mano de obra complementaria, si corresponde, deberá formar parte del presupuesto del proyecto.
 
-En caso de tratarse de un proyecto certificado previamente por el SERVIU o el MINVU, en el cual se fusionen las cargas 2 y 3 para la compra del paquete de materiales de acuerdo a lo señalado en el Resuelvo 19. la mano de obra se pagará de una sola vez junto a la carga 2.
+En caso de tratarse de un proyecto certificado previamente por el Serviu o el Minvu, la mano de obra se pagará de una sola vez junto a la carga 2.
 
 En caso que el beneficiario asuma la ejecución de las obras, los recursos destinados a mano de obra podrán ser pagados directamente a éste, pero en dichas situaciones las dos parcialidades señaladas se pagarán en la siguiente forma: la primera, una vez autorizada la última carga, y la segunda, una vez recibidas las obras por el Serviu. En estos casos, el beneficiario deberá suscribir una declaración jurada en que se comprometa a asumir en forma íntegra la mano de obra.
 
@@ -210,7 +210,7 @@ En caso que la EGIS o PSAT no dé cumplimiento a las obligaciones señaladas, el
 
 26. Los honorarios que percibirán las EGIS o PSAT, por las labores de asistencia técnica en el presente llamado, alcanzarán un monto de hasta 60 Unidades de Fomento, y se pagarán en tres parcialidades, de acuerdo al siguiente detalle:
 
-En caso de tratarse de un proyecto certificado previamente por el SERVIU o el MINVU, en el cual se fusionen las cargas 2 y 3 para la compra del paquete de materiales de acuerdo a lo señalado en el Resuelvo 19. los honorarios se pagarán en tres parcialidades, de acuerdo al siguiente detalle:
+En caso de tratarse de un proyecto certificado previamente por el Serviu o el Minvu, para la compra del paquete de materiales de acuerdo a lo señalado en el Resuelvo 19. los honorarios se pagarán en tres parcialidades, de acuerdo al siguiente detalle:
 
 27. Para el pago a los proveedores de materiales de los valores correspondientes cada carga, el SERVIU solicitará lo siguiente:
 
