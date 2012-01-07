@@ -82,15 +82,21 @@ d) Declaración jurada simple acerca del monto del capital propio del negocio.
 
 e) Certificado de iniciación de actividades emitido por el Servicio de Impuestos Internos.
 
-f) Copia del título que justifique el dominio o tenencia de las máquinas o juegos electrónicos de destreza. La factura o copia autorizada de ella que acredite la adquisición por el peticionario servirá para los efectos de este artículo.
+f) Copia del título que justifique el dominio o tenencia de las máquinas o juegos electrónicos de destreza. La factura o copia autorizada de ella que acredite la adquisición por el peticionario servirá para los efectos de este artículo. Sólo respecto de aquellos contribuyentes que hayan presentado ante el Municipio una solicitud de autorización para funcionamiento de máquinas electrónicas de habilidad o destreza hasta el 23 de agosto del año 2011 y que hayan fundamentado la carencia de estos documentos por extravío u otra causal debidamente justificada podrán acompañar una declaración jurada notarial para demostrar dominio o tenencia.
 
 g) La individualización completa de las máquinas a explotar, la que deberá contener, al menos, las siguientes especificaciones: nombre de la máquina, tipo de modelo, características técnicas y físicas, adjuntando, en caso de ser posible, el catálogo que la comprende.
 
-h) Se acompañará copia del permiso de edificación del respectivo inmueble, emitido por la Dirección de Obras Municipales.
+h) Se acompañará copia del permiso de edificación del respectivo inmueble, emitido por la Dirección de Obras Municipales. Este documento no se exigirá respecto de aquellos locales reglados en el artículo 11 de esta Ordenanza.
 
 #### Artículo 6º
 
 Normativa Técnica sobre urbanismo, construcción y uso de suelo. Además de los requisitos exigidos para el funcionamiento de cada tipo de establecimiento regulado en esta Ordenanza, deberá el solicitante cumplir con todas las normas generales relativas a urbanización, uso del suelo, construcción y edificación, contenidas en la legislación vigente. Al efecto, la Dirección de Obras Municipales solicitará lo que corresponda en conformidad a la Ley General de Urbanismo y Construcciones, la Ordenanza General de Urbanismo y Construcciones, el Plan Regulador Comunal Vigente y las Ordenanzas Municipales respectivas que le sean aplicables.
+
+Respecto de aquellos solicitantes cuyos locales estén comprendidos en las hipótesis del artículo 11º de la ordenanza sólo les será exigible el cumplimiento de las condiciones de uso de suelo según plano regulador, siempre y cuando el respectivo inmueble ya cuente con los permisos y autorizaciones de competencia de la Dirección de Obras Municipales o bien el local cuente ya con una patente que pueda ser calificada como "comercial" en los términos de la Ordenanza General de Urbanismo y Construcciones según la determinación que haga la Dirección de Obras Municipales.
+
+Para hacer efectiva esta revisión, el Departamento de Rentas Municipales en los casos mencionados en el inciso anterior consultará por el uso del suelo y si la patente puede ser calificada como comercial en los términos de la Ordenanza General de Urbanismo y Construcciones.
+
+Con todo, siempre será procedente para todo tipo de locales la obtención de permisos y patentes provisorios de conformidad a las normas generales a aquellos contribuyentes que presenten observaciones de construcción o edificación que sean subsanables de acuerdo al artículo 26 del decreto ley Nº 3.063, de 1979 Ley de Rentas Municipales.
 
 #### Artículo 7º
 
@@ -172,7 +178,7 @@ h) Instalación eléctrica reglamentaria, aprobada y recibida por el organismo c
 
 El número máximo de máquinas será de cinco.
 
-Les serán, en todo caso, aplicables las obligaciones y exigencias contenidas en los artículos 4º, 5º con excepción de la letra h), 6º, 7º, 13º, 16º, 18º, 19º, 20º y 21º de esta norma.
+Les serán, en todo caso, aplicables las obligaciones y exigencias contenidas en los artículos 4º, 5º con excepción de la letra h), 6º, 7º, 13º, 18º, 19º, 20º y 21º de esta norma.
 
 Estas exigencias serán también aplicables a los negocios cuyo giro principal o único sea el expendio de máquinas o juegos electrónicos de habilidad o destreza, cuya cantidad de máquinas no exceda de 5. En caso de querer ampliar esta cantidad, deberá someterse a las obligaciones generales.
 
@@ -192,11 +198,13 @@ Ubicación respecto de establecimientos educacionales. Las dependencias en que s
 
 Sin perjuicio de lo anterior, el Municipio podrá considerar esta circunstancia respecto de los negocios que funcionen dentro de centros comerciales, recintos afines, y no se aplicará a aquellos locales ya constituidos con patente de juego electrónico al día a la fecha de entrada en vigencia de la Ordenanza.
 
+El cálculo de la distancia que efectuará la Dirección de Inspección Municipal se realizará tomando las distancias más cortas entre los respectivos establecimientos de muro a muro.
+
 #### Artículo 14º
 
 Proscripción de venta de alcohol. Queda estrictamente prohibida la venta o expendio de bebidas alcohólicas en los locales de máquinas o juegos electrónicos de destreza. La infracción a esta norma será castigada de conformidad a lo dispuesto en la ley Nº 19.925 sobre Expendio y Consumo de Bebidas Alcohólicas, y sin perjuicio de las multas que esta ordenanza impone.
 
-Lo anterior es sin perjuicio, además, de lo dispuesto en el inciso final del artículo 11.
+Lo anterior es sin perjuicio de la excepción referida a los minimercados de alcohol regulados en el artículo 3º letra H) de la ley Nº 19.925 contemplada en el inciso final del artículo 11 de esta ordenanza.
 
 #### Artículo 15º
 
@@ -205,6 +213,8 @@ Obligación de vigilancia. En locales de más de 20 máquinas deberá existir un
 Artículirá la ubicación de una máquina por cada 3,75 metros cuadrados de superfo 16º. Ubicación de máquinas por local. En el interior del local se permiticie dedicado exclusivamente a máquinas.
 
 Los locales que cuenten con más de diez máquinas, quedarán sujetos a una revisión técnica adicional, que será efectuada por la Dirección de Obras Municipales. En esta revisión deberá verificarse que el revestimiento interior de las dependencias impida o atenúe la emisión de ruidos molestos hacia el exterior.
+
+En el interior de cada local deberán disponerse las medidas necesarias para una adecuada distribución de las máquinas, evitando generar riesgos para la seguridad del público asistente.
 
 #### Artículo 17º
 
@@ -229,6 +239,10 @@ En estos casos de ampliación, el número máximo de máquinas, cuya explotació
 #### Artículo 19º
 
 Recepción de la solicitud. Recibidos los antecedentes señalados en los artículos 5º, 6º y 7º, a través del Departamento de Rentas Municipales, se oficiará a los Departamentos de Inspección General, Dirección de Obras Municipales y Dirección de Asesoría Jurídica para que informen y se pronuncien sobre lo competente.
+
+El Departamento de Rentas Municipales dará cuenta mensual a la Administración Municipal de las solicitudes ingresadas para efectos de registro.
+
+Existiendo dudas interpretativas o controversias entre las unidades municipales por aplicación de esta Ordenanza, se solicitará informe a la Dirección de Asesoría Jurídica quien emitirá el pronunciamiento dirimiendo la cuestión.
 
 Recibida la respuesta de Asesoría Jurídica, Inspección General, de la Dirección de Obras Municipales, el Municipio aceptará o denegará la autorización, lo que se comunicará al interesado mediante carta certificada o a través del mecanismo de notificación que haya señalado.
 
@@ -309,5 +323,11 @@ Sin perjuicio de ello, deberá publicarse por una única vez en un diario de la 
 Establecimientos constituidos con anterioridad a la vigencia de la Ordenanza. Los establecimientos regulados, que se hayan constituido como tal con anterioridad a la vigencia de la Ordenanza con patente de juegos electrónicos u otra afín, deberán regularizar su situación cumpliendo con todos los requisitos exigidos en esta norma para contar con la autorización en el plazo de 90 días a contar desde la entrada en vigencia de la norma.
 
 Se encomienda al Departamento de Rentas enviar comunicación escrita, vía carta certificada, acompañando copia de esta Ordenanza a todos los establecimientos que se encuentren en la situación contemplada en el artículo anterior, en el plazo de sesenta días desde la entrada en vigencia de este cuerpo.
+
+#### Artículo 28º
+
+Afinidad. Para los efectos del artículo 27º debe entenderse como "patente afín" aquellas que correspondan a locales que hayan solicitado alguna vez patente de juegos electrónicos de conformidad a la Ordenanza Nº 02/1995 que en los hechos mantengan en sus dependencias máquinas electrónicas de habilidad o destreza con algún otro giro ya autorizado y que hayan efectuado su solicitud dentro del plazo dispuesto en este artículo, esto es, a más tardar el 23 de agosto de 2011.".
+
+En virtud de lo anterior, únicamente estos contribuyentes podrán acogerse a la excepción especial del artículo 13º y podrán quedar liberados de la limitación del artículo 17º
 
 Anótese, comuníquese y publíquese.- Marcela Hernando Pérez, Alcaldesa.- Rossana Tomicic Araya-Lamas, Secretaria Municipal Subrogante.
