@@ -42,7 +42,7 @@ La presente Ordenanza Local del Plan Regulador Comunal de Santa Cruz en adelante
 
 #### Artículo 2º
 
-El área territorial de la comuna normada por el Plan Regulador de Santa Cruz y esta Ordenanza Local corresponde al área urbana comprendida en la línea poligonal cerrada definida por los puntos 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16- 17-18- 19- 20- 21- 1 que constituye el límite urbano.
+El área territorial de la comuna normada por el Plan Regulador Comunal de Santa Cruz y esta ordenanza local corresponde al área urbana comprendida en la línea poligonal cerrada definida por los puntos 1-2-3-4-5-6-6a-6b-6c-6d-6e-6f-6g-6h-6i-7-8-9-10-11-12-13-14-15-16-17-18-19-20-21-1, que constituye el límite urbano.
 
 La descripción de los puntos y tramos del límite urbano se detalla en el Articulo 6º, de la presente Ordenanza.
 
@@ -68,7 +68,9 @@ Descripción del Límite Urbano
 
 El límite urbano de Santa Cruz, que comprende el área ya urbanizada y de futura expansión, está definido por los puntos y tramos que se describen a continuación:
 
-Punto Descripción del Punto Tramo Descripción Tramo
+Punto Descripción del Tramo Descripción
+
+Punto Tramo
 
 1.- Ubicado en la intersección
 
@@ -80,17 +82,25 @@ al norponiente del eje de
 
 la calle Gobernador N.
 
-Mujica con el eje del canal
+Mujica con el eje del
 
-de regadío Paniahue 1. Tramo 1-2
+canalde regadío
+
+Paniahue 1. Tramo 1-2
 
 Línea sinuosa
 
-correspondiente al eje del
+correspondiente
 
-canal de regadío Paniahue
+al eje del
 
-1, entre los puntos 1 y 2.
+canal de regadío
+
+Paniahue 1,
+
+entre los puntos
+
+1 y 2.
 
 2.- Ubicado en la intersección
 
@@ -104,13 +114,15 @@ Paniahue 2. Tramo 2-3
 
 Línea sinuosa
 
-correspondiente al eje
+correspondiente
 
-del canal de regadío
+al eje del canal
 
-Paniahue 2, entre los
+de regadío
 
-puntos 2 y 3.
+Paniahue 2, entre
+
+los puntos 2 y 3.
 
 3.- Ubicado en la intersección
 
@@ -124,13 +136,15 @@ Paniahue 3. Tramo 3-4
 
 Línea sinuosa
 
-correspondiente al eje
+correspondiente
 
-del canal de regadío
+al eje del canal
 
-Paniahue 3, entre los
+de regadío
 
-puntos 3 y 4.
+Paniahue 3, entre
+
+los puntos 3 y 4.
 
 4.- Ubicado en la intersección
 
@@ -142,15 +156,21 @@ sur de la ruta 1-50.
 
 Tramo 4-5
 
-Línea correspondiente al
+Línea
 
-costado sur oriente de la
+correspondiente al
 
-antigua línea férrea de
+costado sur
 
-Santa Cruz que une los
+oriente de la
 
-puntos 4 y 5.
+antigua línea férrea
+
+de Santa Cruz que
+
+une los puntos 4
+
+y 5.
 
 5.- Ubicado en la intersección
 
@@ -166,43 +186,25 @@ poniente de la subestación
 
 eléctrica de Paniahue. Tramo 5-6
 
-Proyección imaginaria al
+Proyección
 
-norte y sur de la línea
+imaginaria al
 
-de cierro poniente de la
+norte y sur de la
 
-subestación eléctrica de
+línea de cierro
 
-Paniahue entre los puntos
+poniente de la
+
+subestación
+
+eléctrica de
+
+Paniahue entre
+
+los puntos
 
 5 y 6.
-
-6.- Ubicado en la intersección
-
-de la proyección al norte de
-
-la línea de cierro del costado
-
-poniente de la subestación
-
-eléctrica de Paniahue con el
-
-costado norte de la Avenida
-
-Nueva La Paz. Tramo 6-7
-
-Línea correspondiente al
-
-cierro oriente de
-
-Población Villa Las
-
-Garzas, y su proyección
-
-al sur, entre los puntos
-
-6 y 7.
 
 7.- Ubicado en la intersección
 
@@ -220,13 +222,17 @@ del eje del camino
 
 El Guindo. Tramo 7-8
 
-Línea imaginaria trazada
+Línea imaginaria
 
-paralela 570 metros al
+trazada paralela
 
-surponiente del eje del
+570 metros al
 
-camino El Guindo entre
+surponiente del
+
+eje del camino El
+
+Guindo entre
 
 los puntos 7 y 8.
 
@@ -244,13 +250,17 @@ al surponiente del eje del
 
 camino El Guindo. Tramo 8-9
 
-Línea imaginaria trazada
+Línea imaginaria
 
-por el eje del antiguo
+trazada por el eje
 
-canal de regadío Paniahue
+del antiguo canal
 
-entre los puntos 8 y 9.
+de regadío Paniahue
+
+entre los puntos
+
+8 y 9.
 
 9.- Ubicado en la intersección
 
@@ -262,15 +272,21 @@ antiguo canal de regadío
 
 Paniahue con el eje del
 
-canal de regadío Capellanía. Tramo 9-10
+canal de regadío
 
-Línea imaginaria trazada
+Capellanía. Tramo 9-10
 
-por el eje del canal de
+Línea imaginaria
 
-regadío Capellanía entre
+trazada por el eje
 
-los puntos 9 y 10.
+del canal de
+
+regadío Capellanía
+
+entre los puntos
+
+9 y 10.
 
 10.- Ubicado en la intersección
 
@@ -284,13 +300,17 @@ con el eje del estero
 
 Guirivilo. Tramo 10-11
 
-Línea imaginaria trazada
+Línea imaginaria
 
-por el eje del estero
+trazada por el eje
 
-Guirivilo entre los
+del estero
 
-puntos 10 y 11.
+Guirivilo entre
+
+los puntos 10
+
+y 11.
 
 11.- Ubicado en la intersección
 
@@ -306,11 +326,17 @@ a calle Ramón Sanfurgo,
 
 distante 520 m al oriente
 
-del eje de callejón Malermo. Tramo 11-12
+del eje de callejón
 
-Línea recta trazada entre
+Malermo. Tramo 11-12
 
-los puntos 11 y 12.
+Línea recta
+
+trazada
+
+entre los puntos
+
+11 y 12.
 
 12.- Ubicado en la intersección
 
@@ -332,13 +358,19 @@ Sanfurgo. Tramo 12-13
 
 Línea imaginaria
 
-equidistante trazada 200
+equidistante
 
-metros al sur de calle
+trazada 200
 
-Ramón Sanfurgo entre los
+metros al sur de
 
-puntos 12 y 13.
+calle Ramón
+
+Sanfurgo entre
+
+los puntos 12 y
+
+13.
 
 13.- Ubicado en la intersección
 
@@ -354,15 +386,23 @@ una paralela trazada a 150
 
 metros al suroriente del
 
-eje del callejón Escuela. Tramo 13-14
+eje del callejón
 
-Línea imaginaria trazada
+Escuela. Tramo 13-14
 
-paralela 150 metros al
+Línea imaginaria
 
-suroriente del callejón
+trazada paralela
 
-Escuela entre los puntos
+150 metros al
+
+suroriente del
+
+callejón
+
+Escuela entre
+
+los puntos
 
 13 y 14.
 
@@ -386,17 +426,25 @@ Rafael Casanova-J.J.
 
 Carvacho. Tramo 14-15
 
-Línea imaginaria trazada
+Línea imaginaria
 
-paralela 400 metros al
+trazada
 
-sur de calle Ramón
+paralela 400 metros
 
-Sanfurgo, tramo Rafael
+al sur de calle
 
-Casanova-J.J. Carvacho
+Ramón Sanfurgo,
 
-entre los puntos 14 y 15.
+tramo Rafael
+
+Casanova-J.J.
+
+Carvacho
+
+entre los puntos
+
+14 y 15.
 
 15.- Ubicado en la intersección
 
@@ -414,13 +462,17 @@ sur del eje de calle Rafael
 
 Casanova. Tramo 15-16
 
-Línea imaginaria trazada
+Línea imaginaria
 
-paralela 320 metros al
+trazada paralela
 
-sur del eje de calle
+320 metros al
 
-Rafael Casanova entre los
+sur del eje de
+
+calle Rafael
+
+Casanova entre los
 
 puntos 15 y 16.
 
@@ -442,15 +494,21 @@ eje de calle Bernardo
 
 O'Higgins. Tramo 16-17
 
-Línea imaginaria trazada
+Línea imaginaria
 
-paralela 600 metros al
+trazada paralela
 
-poniente del eje de calle
+600 metros al
 
-Bernardo O'Higgins entre
+poniente del eje
 
-los puntos 16 y 17.
+de calle
+
+Bernardo O'Higgins
+
+entre los puntos
+
+16 y 17.
 
 17.- Ubicado en la intersección
 
@@ -468,19 +526,31 @@ al nor-poniente de la línea
 
 oficial suroriente de Av.
 
-Circunvalación Barreales. Tramo 17-18
+Circunvalación
 
-Línea imaginaria trazada
+Barreales. Tramo 17-18
 
-paralela a 200 metros al
+Línea imaginaria
 
-norponiente de la línea
+trazada
 
-oficial suroriente de Av.
+paralela a 200
 
-Circunvalación Barreales
+metros al
 
-entre los puntos 17 y 18.
+norponiente de la
+
+línea oficial
+
+suroriente de Av.
+
+Circunvalación
+
+Barreales
+
+entre los puntos
+
+17 y 18.
 
 18.- Ubicado en la intersección
 
@@ -496,11 +566,17 @@ Circunvalación Barreales
 
 con línea oficial oriente
 
-del camino a Barreales. Tramo 18-19
+del camino a
 
-Línea oficial oriente del
+Barreales. Tramo 18-19
 
-camino a Barreales entre
+Línea oficial
+
+oriente del
+
+camino a
+
+Barreales entre
 
 los puntos 18 y 19.
 
@@ -514,11 +590,15 @@ una línea paralela trazada
 
 a 600 metros al norponiente
 
-del eje de calle Cabello. Tramo 19-20
+del eje de calle
 
-Línea imaginaria trazada
+Cabello. Tramo 19-20
 
-entre los puntos 19 y 20.
+Línea imaginaria
+
+trazada entre los
+
+puntos 19 y 20.
 
 20.- Ubicado en la intersección
 
@@ -536,13 +616,17 @@ nororiente del eje de calle
 
 Adriano Díaz. Tramo 20-21
 
-Línea imaginaria trazada
+Línea imaginaria
 
-paralela 250 metros al
+trazada
 
-nororiente del eje de
+paralela 250 metros
 
-calle Adriano Díaz entre
+al nororiente del
+
+eje de calle
+
+Adriano Díaz entre
 
 los puntos 20 y 21.
 
@@ -560,17 +644,23 @@ paralela trazada a 160 metros
 
 al norponiente del eje de calle
 
-Gobernador N. Mujica. Tramo 21-1
+Gobernador N.
 
-Línea imaginaria trazada
+Mujica. Tramo 21-1
 
-paralela a 160 metros al
+Línea imaginaria
 
-norponiente del eje de
+trazada
 
-calle Gobernador N.
+paralela a 160
 
-Mujica entre los puntos
+metros al norponiente
+
+del eje de calle
+
+Gobernador N. Mujica
+
+entre los puntos
 
 21 y 1.
 
@@ -1693,3 +1783,5 @@ Vialidad Estructurante Las vías que integran la vialidad estructurante se encue
 NOTA: VER DIARIO OFICIAL Nº36159, DE 07.09.1998
 
 Carlos Manuel Rojas Contreras , Director de Obras Municipales.- I. Municipalidad de Santa Cruz.
+
+> **Nota.** El Artículo 2º del Decreto 38, Vivienda, publicado el 07.01.2012, dispone que para el polígono 6-6a-6b-6c-6d-6e-6f-6g-6h-6i-6, graficado en el Plano "Modificación Plan Regulador Comuna de Santa Cruz", escala 1:5.000, de la Secretaría Regional Ministerial de Vivienda y Urbanismo de la Región del Libertador General Bernardo O'Higgins, se aplicarán los usos de suelo y normas urbanísticas establecidas para la "Zona Z4 Habitacional Mixta", señaladas en el presente artículo 20, con excepción del frente predial mínimo y de las escalas de equipamiento comunal y vecinal, por no encontrarse vigentes.
