@@ -54,7 +54,7 @@ Definidas las materias señaladas en el artículo precedente, el Tribunal transm
 
 <!-- parte:9077583 -->
 
-Las Facultades de Derecho dispondrán de un plazo de cuarenta días corridos, contado desde la recepción de la comunicación antes señalada, para seleccionar su propuesta y enviarla al Tribunal Constitucional, tomando en especial consideración los criterios expuestos en el artículo 3° del presente Reglamento y el catálogo al cual se refiere el artículo 4°.
+En la respectiva convocatoria el Tribunal fijará el plazo dentro del cual las Facultades de Derecho deberán seleccionar y enviar su propuesta, tomando en especial consideración los criterios expuestos en el artículo 3º del presente Reglamento y el catálogo al cual se refiere el artículo 4º.
 
 #### Artículo 7º
 
@@ -68,7 +68,7 @@ Las Facultades de Derecho deberán enviar, conjuntamente con la memoria o tesis,
 
 <!-- parte:9077585 -->
 
-El Tribunal decidirá sobre los trabajos presentados dentro de un plazo de sesenta días, contado desde la recepción de la última tesis. El Premio, que consistirá en la publicación de la obra, una Medalla y Diploma recordatorio, será entregado por el Tribunal Constitucional dentro del mes de abril de cada año.
+El Tribunal decidirá sobre los trabajos presentados dentro de un plazo de 4 meses, contado desde la recepción de la última tesis. El Premio, que consistirá en la publicación de la obra, una Medalla y Diploma recordatorio, será entregado por el Tribunal Constitucional en ceremonia que deberá verificarse dentro del año siguiente al de la convocatoria.
 
 #### Artículo 9º
 
