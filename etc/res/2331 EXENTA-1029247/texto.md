@@ -30,7 +30,7 @@ La capacidad en número de pasajeros determinada de acuerdo al procedimiento des
 
 b) Respecto al Vehículo Entrante: La capacidad en número de pasajeros se determinará según lo establecido por el número 2 del artículo 3º del decreto supremo 122, de 1991, del Ministerio de Transportes y Telecomunicaciones, y cuando se trate de vehículos nuevos sin uso deberá ser realizada por el Ministerio de Transportes y Telecomunicaciones, a través del Centro de Control y Certificación Vehicular (3CV). Lo anterior deberá ser solicitado al 3CV por los fabricantes, armadores, importadores o sus respectivos representantes, quienes además deberán poner a disposición del 3CV un vehículo representativo del modelo, para efectos de la aplicación del proceso antes indicado. Concluido el proceso, el 3CV otorgará al solicitante un certificado en el cual se señalará la capacidad en número de pasajeros y la identificación de la marca y modelo del respectivo vehículo.
 
-Cuando se trate de vehículos usados, la certificación de la capacidad en número de pasajeros se deberá realizar en una Planta de Revisión Técnica autorizada, la que consignará dicha capacidad en el campo de observaciones del correspondiente certificado de revisión técnica.
+Cuando se trate de vehículos usados, la certificación de la capacidad en número de pasajeros se deberá realizar en una Planta de Revisión Técnica autorizada, utilizando la misma fórmula descrita en la letra a) anterior, la que consignará dicha capacidad en el campo de observaciones del correspondiente certificado de revisión técnica.
 
 Anótese, comuníquese y publíquese.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
