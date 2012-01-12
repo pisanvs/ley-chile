@@ -9912,7 +9912,21 @@ Las inversiones mencionadas en el N° 1 se encuentran comprendidas dentro del l�
 
 2.2. Límite de inversiones en un mismo país.
 
-De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo sin consolidar, en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también a las sucursales que mantuvieren en el mismo país. Para la aplicación de este límite se tomarán los saldos de los activos del banco que correspondan a sucursales e inversiones en sociedades en un mismo país, incluido el "goodwill" que exista.
+De acuerdo con lo establecido en el N° 1 del artículo 80 de la Ley General de Bancos, los bancos constituidos en Chile sólo podrán invertir hasta un 40% de su patrimonio efectivo sin consolidar, en bancos u otras sociedades establecidas en un mismo país. Ese porcentaje incluirá también a las sucursales que mantuvieren en el mismo país.
+
+Debido a que el patrimonio efectivo no incluye el tipo de inversiones de que se trata, el porcentaje en un mismo país se computará según:
+
+P = (IP / PE + IT) * 100
+
+En que:
+
+P: Porcentaje de inversiones en un mismo país.
+
+IP: Saldos de los activos del banco que correspondan a sucursales e inversiones en sociedades en un mismo país, incluido el "goodwill" que exista.
+
+PE: Patrimonio efectivo no consolidado, calculado según lo indicado en el numeral 3.2 del título I del Capítulo 12-1.
+
+IT: Saldos de los activos del banco que fueron deducidos del capital básico por tratarse de inversiones en sociedades en el país y en el exterior, incluido el "goodwill" que existiere por las mismas, y sucursales en el exterior.
 
 ### 3. Otras exigencias legales de carácter general
 
@@ -10215,6 +10229,8 @@ i) Se agregan los mismos montos que se indican en las letras
 - **d)** de ese numeral.
 
 ii) Se deducen los montos de los activos del banco que correspondan a las inversiones en las sociedades que participan en la consolidación de los estados financieros consolidados.
+
+En todo caso, cuando se trate de la aplicación del límite del artículo 80 N° 1 de la Ley General de Bancos, el cálculo se efectuará agregando todos los activos correspondientes a inversiones en sociedades y sucursales, según lo indicado en el numeral 2.2 del título II del Capítulo 11-7.
 
 ### 4. Reparto de dividendos o remesas de utilidades
 
@@ -10662,7 +10678,7 @@ Sólo podrá considerarse un valor para las garantías que cumplan con los requi
 
 a) Las hipotecas y las prendas sujetas a trámite de inscripción, registro o publicidad determinada, deben estar respaldadas por un certificado de la fiscalía del banco, que se agregará a la carpeta del deudor, en que conste que la garantía ha sido legalmente constituida.
 
-b) Los bienes entregados en garantía deben estar situados en Chile y ser ejecutables de acuerdo a la ley chilena, excepto los documentos originados por operaciones de comercio exterior y las cartas de crédito emitidas con el objeto de servir de garantía, señalados en el numeral 3.2 de este título.
+b) Los bienes entregados en garantía deben estar situados en Chile y ser ejecutables de acuerdo a la ley chilena, excepto los documentos originados por operaciones de comercio exterior y las cartas de crédito emitidas con el objeto de servir de garantía, señalados en el numeral 3.2 de este título. Si el banco tuviere sucursales o filiales constituidas en el exterior, la condición de que los bienes estén situados y sean ejecutables en Chile debe entenderse referida al país en el cual radica la entidad que otorgó el crédito.
 
 c) En el caso de bienes corporales, muebles o inmuebles, las valorizaciones deben estar amparadas por tasaciones o certificaciones que cumplan los requisitos mencionados en los numerales 3.3.2 y 3.3.3 de este título.
 
