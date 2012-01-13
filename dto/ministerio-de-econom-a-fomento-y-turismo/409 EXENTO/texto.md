@@ -70,7 +70,7 @@ Asignado a: Secretaría Regional Ministerial de Economía de la Región de Aysé
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Magallanes y Antártica Chilena.
 
-14.- Tipo de vehículo: Station Wagon; Marca: Suzuki; Modelo: Grand Nomade 1.9; Nº motor: F9QB-063408; Nº chasis: JS3TD44VXB4610032; Color: Beige claro; Año: 2011; Placa única: DGLT 65-3.
+14.- Tipo de vehículo: Station wagon; marca: Suzuki; modelo: Grand Nomade 1.9; Nº motor: F9QB-063408; Nº chasis: JS3TD44VXB4610032; color: Beige claro; año: 2011; placa única: DGLT.65-3.
 
 Asignado a: Secretaría Regional Ministerial de Economía de la Región de Los Ríos.
 
