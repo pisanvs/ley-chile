@@ -48,8 +48,6 @@ Para los efectos del presente reglamento, se entenderá por:
 
 6) Buenas Prácticas de Manufactura (BPM): Normas técnicas mínimas establecidas para todos los procedimientos destinados a garantizar la calidad uniforme y satisfactoria de los productos farmacéuticos, dentro de los límites aceptados y vigentes para cada uno de ellos; estas normas técnicas serán aprobadas por Decreto Supremo del Ministerio, a propuesta del Instituto.
 
-Atendida la naturaleza y empleo de los productos farmacéuticos destinados a su uso en investigaciones científicas en seres humanos, se dictarán normas específicas en relación a su manufactura, las que serán aprobadas como normas técnicas, por decreto supremo del Ministerio de Salud, a propuesta del Instituto.
-
 7) Calidad de un medicamento: Aptitud del medicamento para el uso para el cual se destina, la que está determinada por su eficacia, seguridad y estabilidad, conforme a las características de identidad, potencia, pureza y otras, conforme al respectivo registro sanitario.
 
 8) Certificado de registro sanitario: Documento extendido por la autoridad sanitaria del país productor o de procedencia, a petición del interesado, en el cual debe constar:
@@ -392,7 +390,7 @@ Las solicitudes presentadas por los interesados, para la venta o uso provisional
 
 #### Artículo 23°
 
-Las solicitudes para el uso provisional en investigación científica o ensayo clínico de un producto farmacéutico deberán presentarse ante el Instituto acompañadas del protocolo aprobado por el comité de ética, en los términos a que se refiere la letra c) del artículo 21°; el mismo documento deberá acompañarse cuando se trate de un producto que cuenta con registro sanitario y se pretenda su utilización de manera distinta a la autorizada. Asimismo, las solicitudes deberán acompañar un certificado oficial emitido por la autoridad competente del país donde se sitúe el establecimiento productor, emitido en los términos señalados en el numeral 10.a.4 del artículo 29 del presente reglamento, en lo que corresponda.
+Las solicitudes para el uso provisional en investigación científica o ensayo clínico de un producto farmacéutico deberán presentarse ante el Instituto acompañadas del protocolo aprobado por el comité de ética, en los términos a que se refiere la letra c) del artículo 21°; el mismo documento deberá acompañarse cuando se trate de un producto que cuenta con registro sanitario y se pretenda su utilización de manera distinta a la autorizada.
 
 #### Artículo 24°
 
@@ -937,8 +935,6 @@ l) Farmacopea Japonesa.
 m) Farmacopea Española.
 
 n) Farmacopea de México.
-
-ñ) Farmacopea Brasileña.
 
 Se reconocerán también para los fines antes señalados, en forma complementaria de las farmacopeas indicadas, las series de informes técnicos del Comité de Expertos de la Organización Mundial de la Salud para patrones biológicos, biotecnológicos, químicos radioactivos u otros y el Título 21 del "Code of Federal Regulations" (C.F.R.), punto 1.1 de los Estados Unidos de Norteamérica.
 
@@ -2085,14 +2081,6 @@ Los rótulos deberán señalar en forma destacada, cuando proceda, las siguiente
 - "MUESTRA MÉDICA PROHIBIDA SU VENTA"
 
 - R=Receta Simple, RR=Receta Retenida, RCH=Receta Cheque, VD = Venta Directa
-
-En el caso de los rótulos de los envases secundarios de los productos farmacéuticos que hayan demostrado su equivalencia terapéutica, ante el Instituto de acuerdo con las disposiciones del artículo 221 de este reglamento y sus normas complementarias, éstos deberán contener la siguiente imagen y textos asociados (isologo):
-
-La imagen y sus textos asociados deberán estar impresos en los envases secundarios correspondientes. Estas menciones en ningún caso, podrán contener u ocultar ningún tipo de información propia del envase.
-
-El isologo deberá figurar al menos en cuatro de las seis caras habituales del envase secundario, en la forma como se establece en la norma gráfica pertinente, a la que alude el siguiente inciso, cubriendo un 20% de su área, en la parte inferior de la misma. En el caso de aquellos productos que se expendan o entreguen en sus envases primarios, deberá incorporarse la imagen y sus textos asociados, en la respectiva etiqueta o superficie rotulada, en la misma forma y condiciones detalladas precedentemente.
-
-Este isologo deberá ajustarse a las especificaciones técnicas establecidas y aprobadas mediante decreto supremo del Ministerio de Salud, suscrito bajo la fórmula "Por orden del Presidente de la República", las que incluirán aspectos relacionados con el cuerpo y expandido de la letra, interlineado, tipografía, contraste, colores y demás características de la imagen y del texto, dimensiones, relaciones y especificaciones técnicas. Asimismo, las imágenes del envase conteniendo el isologo podrán ser replicadas en otros materiales de publicidad e información, si éstos están permitidos.
 
 #### Artículo 88º
 
