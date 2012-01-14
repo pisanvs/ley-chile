@@ -1,0 +1,5 @@
+Por decreto exento N°3, de 9 de enero de 2012, de este Ministerio, modifícase el artículo 1° del decreto exento N° 1.967, de 2009, del Ministerio de Economía, Fomento y Reconstrucción, que estableció el Régimen Artesanal de Extracción en la X Región para el período 2010 - 2014, en las pesquerías de Anchoveta, Sardina común y Jurel, en el sentido de incorporar al listado de organizaciones sometidas a dicho Régimen al SINDICATO DE TRABAJADORES INDEPENDIENTES, PESCADORES ARTESANALES, ARMADORES ARTESANALES Y RAMOS AFINES DE LA COMUNA DE CALBUCO "Percercal", Registro Sindical Único 10.01.0948.
+
+El texto íntegro del presente decreto se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y del Servicio Nacional de Pesca.
+
+Valparaíso, 9 de enero de 2012.- Edith Saa Collantes, Subsecretaria de Pesca (S).
