@@ -42,6 +42,10 @@ Se considerarán como zonas con bajo desempeño económico, aquellas provincias 
 
 La propuesta de calificación de zonas con bajo desempeño económico, será aprobada por el Vicepresidente Ejecutivo de CORFO. Asimismo, dicho Vicepresidente Ejecutivo aprobará la exclusión de la calidad de zonas con bajo desempeño económico, cuando proceda en virtud de la metodología antes descrita.
 
+Sin perjuicio de lo anterior, las Zonas con Bajo Desempeño Económico que hayan obtenido esa calidad por haber sido decretadas anteriormente como Zonas en Rezago Productivo en virtud de la aplicación de la resolución (A) Nº 287, de 2010, y sus modificaciones, mantendrán la calidad de Zonas con Bajo Desempeño Económico no obstante la aplicación de la metodología de evaluación de zonas.
+
+Lo anterior es sin perjuicio de la facultad del Vicepresidente Ejecutivo para, en cualquier tiempo, someter a revisión la continuidad de tales zonas en conformidad a los resultados que genere la elaboración periódica de la metodología antes citada.
+
 1.2 Ámbito de Aplicación
 
 El Programa será aplicable a todo el territorio nacional.
