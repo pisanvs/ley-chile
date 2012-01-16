@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) N° 4603 de 22 de diciembre de 2011, se modificó el Decreto MOP N° 4069 de 24 de noviembre de 2011, en la parte que se refiere a la fecha de la tasación en el sentido que es 17 de diciembre de 2009, y no como se indicó en el Decreto MOP para la obra: "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias de los Barrios Bajos". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
