@@ -12,21 +12,37 @@ Y teniendo presente: Lo dispuesto en el artículo 13 Nº21 del D.F.L. Nº290 de 
 
 D e c r e t o:
 
-1. Establécese como recinto portuario del Puerto de Puerto Montt, dependiente de la Empresa Portuaria de Chile, las áreas marítimas y terrestres comprendidas dentro del polígono identificado por los siguientes deslindes, según se indica en plano NºPMC-001-98 de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998, bajo el Nº923 en la Notaría de Valparaíso, de don Alfonso Díaz S.:
+1. Establécese como recinto portuario, de la Empresa Portuaria de Puerto Montt, las áreas marítimas y terrestres comprendidas dentro de los polígonos identificados por los siguientes deslindes, según se indica en plano Nº PMC-001-98 de la Empresa Portuaria de Chile, protocolizado con fecha 11 de marzo de 1998, bajo el Nº 923 en la Notaría de Valparaíso, de don Alfonso Díaz S., y en plano PR-3 de la Empresa Portuaria Puerto Montt, protocolizado con fecha 13 de diciembre de 2011 bajo el Nº 3861, en el registro de documentos protocolizados en la Primera Notaría de Puerto Montt de don Edward Langlois Danks:
+
+Sector Puerto Montt (plano PMC-001-98):
 
 Norte: En línea quebrada continua en tramos de cincuenta metros cuarenta centímetros, cinco metros y ochenta metros cincuenta centímetros con terrenos fiscales; ochenta metros sobre la ribera del Canal de Tenglo, y cuatrocientos diecisiete y ciento cuarenta y cinco metros sobre el Canal de Tenglo (Puntos M-A-B-C-D). Los tramos sobre el Canal de Tenglo tienen las siguientes orientaciones:
 
-Tramo B-C: N 75,6° E Tramo C-D: S 31,05° E
+Tramo B-C: N 75,6° E
 
-Este: En línea quebrada continua en tramos de cuatrocientos ochenta y dos, doscientos veintidós, cuarenta y siete, cuatrocientos cincuenta y cinco, y ciento treinta metros sobre el Canal de Tenglo (Puntos D-E-F-G-H-I), con las siguientes orientaciones de los tramos:
+Tramo C-D: S 31,05° E
 
-Tramo D-E: S 58,05° O Tramo E-F: S 47,7° O Tramo F-G: S 30,15° E Tramo G-H: S 59,4° O Tramo H-I: S 73,8° O
+Este: En línea quebrada continua en tramos de cuatrocientos ochenta y dos, doscientos veintidós, cuarenta y siete, cuatrocientos cincuenta y cinco, y ciento treinta metros sobre el Canal de Tenglo (Puntos D-E-F-G-H-I), con las siguietes orientaciones de los tramos:
+
+Tramo D-E: S 58,05° O
+
+Tramo E-F: S 47,7° O
+
+Tramo F-G: S 30,15° E
+
+Tramo G-H: S 59,4° O
+
+Tramo H-I: S 73,8° O
 
 Sur: En línea quebrada continua en tramos de ciento sesenta y ciento dos metros sobre el Canal de Tenglo, y de ciento sesenta y seis metros cuarenta y seis centímetros con terrenos fiscales destinados a la Armada de Chile (Puntos I-J-K-L). Los tramos sobre el Canal de Tenglo tienen la siguiente orientación:
 
-Tramo I-J: N 26,1° O Tramo J-K: N 2,25° E
+Tramo I-J: N 26,1° O
+
+Tramo J-K: N 2,25° E
 
 Oeste: En línea de tramos rectos y curvos de longitud setecientos veinte metros veinte centímetros con Avenida Angelmó (Puntos L-M).
+
+Sector Panitao (plano PR-3):
 
 2. La delimitación anterior, en lo que se refiere a las aguas, sin perjuicio de lo expuesto en el Art. Nº595 del Código Civil y la Ley de Navegación.
 
