@@ -1,0 +1,5 @@
+Por resolución exenta Nº40, de 10 de enero de 2012, de esta Subsecretaría, acógese el desistimiento de la presentación C.I. Subpesca Nº13820-2011, relativa a las solicitudes de las organizaciones de pescadores artesanales S.T.I PESCADORES ARTESANALES, de Caleta Horcón, RSU Nº05.06.0134, S.T.I Pescadores Artesanales, de Caleta El Manzano de Quintero, RSU Nº05.06.0122; S.T.I Pescadores Artesanales, de Caleta Papudo, RSU Nº05.07.0018 y S.T.I Pescadores Artesanales, de Caleta Loncura de Quintero, RSU Nº05.06.0250, de participar en el Régimen Artesanal de Extracción por organizaciones pesquerías artesanales de Anchoveta, Sardina común y Jurel de la V Región, en virtud de lo dispuesto en los artículos 40 y 42 de la ley Nº19.880.
+
+El texto íntegro de la presente resolución extractada se publicará en los sitios de dominio electrónico de la Subsecretaría de Pesca y del Servicio Nacional de Pesca.
+
+Valparaíso, 10 de enero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
