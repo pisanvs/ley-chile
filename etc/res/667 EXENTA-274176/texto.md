@@ -176,21 +176,13 @@ autorización previa para operar como
 
 Autoridad Encargada de la Contabilidad.
 
-2. Estados financieros básicos de la persona jurídica al 31 de diciembre del año anterior al que solicita su registro como Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo. Para los efectos de esta resolución, se entenderán como estados financieros básicos: El balance general, el estado de resultados, estado de flujos de efectivo y notas explicativas. Estos estados financieros deberán venir debidamente auditados por un auditor externo, sea persona natural o jurídica, que esté debidamente inscrita en el Registro de Auditores Externos de la Superintendencia de Valores y Seguros.
+2. Declaración jurada del representante legal, autorizada ante notario, donde su representada se compromete a garantizar el pago de las cuentas a los proveedores de servicios de telecomunicaciones por el tráfico originado por las estaciones del servicio móvil marítimo que representen.
 
-3. Declaración jurada del representante legal, autorizada ante notario, donde su representada se compromete a garantizar el pago de las cuentas a los proveedores de servicios de telecomunicaciones por el tráfico originado por las estaciones del servicio móvil marítimo que representen.
-
-4. Declaración jurada del representante legal, autorizada ante notario, en que conste que está en conocimiento y cumplirá las disposiciones de la presente resolución, como también que conoce y atenderá lo dispuesto por la Recomendación UIT-T D.90, como asimismo cualquiera otra regulación nacional o de la UIT concerniente a responsabilidades y deberes de una Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo.
+3. Declaración jurada del representante legal, autorizada ante notario, en que conste que está en conocimiento y cumplirá las disposiciones de la presente resolución, como también que conoce y atenderá lo dispuesto por la Recomendación UIT-T D.90, como asimismo cualquiera otra regulación nacional o de la UIT concerniente a responsabilidades y deberes de una Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo.
 
 #### Artículo 3º
 
-Será responsabilidad de cada Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo registrada ante la Subsecretaría, presentar a ésta, antes del 28 de febrero de cada año, sus estados financieros básicos, en los términos indicados en el numeral 2 del Artículo 2º precedente, todos al 31 de diciembre del año anterior a la fecha señalada.
-
-Lo anterior, salvo que los hubieran presentado en su oportunidad, precisamente con motivo del procedimiento de registro y reconocimiento contemplado en el antes citado Artículo 2º.
-
-#### Artículo 4º
-
-La Subsecretaría se reserva todas y cada una de las facultades que le confiere la normativa pertinente, entre ellas, la de revocar el registro y reconocimiento como Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo, respecto de aquellas entidades que incurran en incumplimiento de sus obligaciones, particularmente aquellas establecidas en los numerales 3 y 4 del Artículo 2º y lo señalado en el Artículo 3º.
+La Subsecretaría se reserva todas y cada una de las facultades que le confiere la normativa pertinente, entre ellas, la de revocar el registro y reconocimiento como Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo, respecto de aquellas entidades que incurran en incumplimiento de sus obligaciones, particularmente en cuanto a garantizar el pago de las cuentas a los proveedores de servicios de telecomunicaciones por el tráfico originado por las estaciones del servicio móvil marítimo que representan, así como respecto a su obligación de conocimiento y cumplimiento de las disposiciones de la actual resolución y de lo dispuesto por la recomendación UIT-T D.90 y por cualquiera otra regulación nacional o de la UIT concerniente a responsabilidades y deberes de una Autoridad Encargada de la Contabilidad del Servicio Móvil Marítimo.
 
 DISPOSICIÓN TRANSITORIA
 
