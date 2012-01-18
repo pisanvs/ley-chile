@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.531, de 27 de diciembre de 2011, de esta Subsecretaría, amplíese por ocho meses, a contar del 1º de febrero de 2012, el plazo otorgado por el numeral 4.- inciso 1º de la resolución exenta Nº 3.843, de 2010, de esta Subsecretaría, a Sociedad Pesquera Galicia Limitada para iniciar actividades pesqueras extractivas con la nave "Brisca" en el área marítima comprendida entre la XV a X Regiones, Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez Espada y su fauna acompañante, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Déjase sin efecto la resolución exenta Nº 3.362, de 2011, de esta Subsecretaría de Pesca.
+
+Valparaíso, 27 de diciembre de 2011.- Felipe Palacio Rives, Subsecretario de Pesca (S).
