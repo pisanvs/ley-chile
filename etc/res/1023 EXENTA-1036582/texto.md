@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN Nº 1.023 EXENTA, DE 2011
+
+Por resolución exenta Nº 1.023, de 27 de diciembre de 2011, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región de Arica y Parinacota, se autorizó la ampliación de capacidad a cuatro (4) líneas de revisión tipo L, y con ello a cinco (5) la cantidad total de líneas de revisión de la Planta de Revisión Técnica AB1501, comuna de Arica, de la Concesionaria "A. Denham y Cía. Ltda.".
