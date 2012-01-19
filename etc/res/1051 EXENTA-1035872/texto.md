@@ -18,15 +18,15 @@ Resuelvo:
 
 .
 
-2º Establécense la siguiente prorrata para las empresas que se mencionan para el financiamiento del presupuesto del Panel de Expertos y la contribución expresada en pesos que a cada empresa corresponde enterar, según la aplicación de dicha prorrata, para el pago de la suma de $1.254.051.044, monto que se agrega al remanente del presupuesto de 2011 de $98.090.010, para cubrir el total del presupuesto de 2012 por $1.352.141.054.
-
-Las empresas que no cumplieran con la obligación del inciso segundo del artículo 24, serán requeridas de pago una vez que se cumpla con el respectivo trámite de entrega de información y su aporte se adicionará al presupuesto 2012.
-
-.
+2º Establécese la siguiente prorrata para las empresas que se mencionan, para el financiamiento del presupuesto del Panel de Expertos y la contribución expresada en pesos que a cada empresa corresponde enterar, según la aplicación de dicha prorrata, para el pago de la suma de $1.263.873.477, monto que se agrega al remanente del presupuesto de 2011 de $88.267.577, para cubrir el total del presupuesto de 2012 por $1.352.141.054.-
 
 3º Publíquese la presente resolución en el Diario Oficial, conforme a lo dispuesto en el Reglamento del Panel de Expertos, y cuéntese desde la fecha de la citada publicación el plazo de cinco días para que las empresas obligadas a contribuir al financiamiento del Panel, enteren el pago correspondiente en la forma que se señala en la presente resolución.
 
 4º Establécese que las empresas deberán depositar las sumas indicadas en el numeral 2º del presente acto administrativo, en una cuota única en la cuenta corriente del Banco Santander Santiago - Chile "Subsecretaría de Energía" Nº 63683418, que la Subsecretaría ha habilitado especialmente para tal efecto. El no pago en forma íntegra y oportuna por algunas de las empresas obligadas al pago, dará lugar a lo establecido en el artículo 27 del Reglamento del Panel de Expertos.
+
+> **Nota.** NOTA 1 El numeral 2 de la Resolución 2 Exenta, Energía, publicada el 19.01.2012, complementa la presente norma, en el sentido de agregar, en su resuelvo 4º, que el RUT de la Subsecretaria de Energía corresponde al Nº 61.979.830-9.
+
+> **Nota.** NOTA 2 El numeral 3 de la Resolución 2 Exenta, Energía, publicada el 19.01.2012, dispone publicar la citada resolución conforme a lo dispuesto en el Reglamento del Panel de Expertos, y contar desde la fecha de su publicación, el plazo de cinco días para que las empresas obligadas a contribuir al financiamiento del Panel, enteren el pago correspondiente en la forma que se señala en la presente resolución, quedando por tanto sin efecto el plazo señalado en el resuelvo 3º de la presente norma.
 
 Anótese, comuníquese, publíquese y archívese.- Sergio del Campo Fayet, Subsecretario de Energía.
 
