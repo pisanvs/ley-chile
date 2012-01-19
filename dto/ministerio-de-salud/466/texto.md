@@ -36,7 +36,7 @@ La autorización de instalación o funcionamiento será válida por un plazo de 
 
 #### Artículo 6°
 
-En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos.
+En aquellas comunas en que no exista farmacia podrá autorizarse la instalación de almacenes farmacéuticos o farmacias móviles itinerantes que cumplan los requisitos reglamentarios que se prevén en los artículos pertinentes.
 
 Por excepción podrá autorizarse la instalación de dichos establecimientos en los sectores de las comunas, en las que existiendo farmacia, se verifiquen impedimentos geográficos o de transporte, que dificulten el acceso de los usuarios a ellas.
 
@@ -68,7 +68,11 @@ Del Dominio, Instalación, Funcionamiento y Cierre.
 
 #### Artículo 8°
 
-Farmacia es todo establecimiento o parte de él, destinado a la venta de productos farmacéuticos y alimentos de uso médico; a la confección de productos farmacéuticos de carácter oficinal y a los que se preparen extemporáneamente conforme a fórmulas magistrales prescritas por profesionales legalmente habilitados; y al fraccionamiento de envases clínicos de productos farmacéuticos, conforme a las normas que imparta el Ministerio de Salud, mediante resolución. Además, podrán ordenar a un laboratorio de producción DS autorizado, la elaboración de productos farmacéuticos S y cosméticos, para su venta en el establecimiento, e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
+Farmacia es todo establecimiento o parte de él, destinado a la venta de productos farmacéuticos y alimentos de uso médico; a la confección de productos farmacéuticos de carácter oficinal y a los que se preparen extemporáneamente conforme a fórmulas magistrales prescritas por profesionales legalmente habilitados; y al fraccionamiento de envases clínicos de productos farmacéuticos, conforme a las normas que imparta el Ministerio de Salud, mediante resolución.
+
+Además, podrán ordenar a un laboratorio de producción DS autorizado, la elaboración de productos farmacéuticos S y cosméticos, para su venta en el establecimiento, e importar productos farmacéuticos, alimentos de uso médico y cosméticos en conformidad a las disposiciones reglamentarias pertinentes.
+
+Podrán instalarse farmacias móviles itinerantes, en las localidades y con la periodicidad y horarios que determine la autoridad sanitaria en el acto de su autorización sanitaria, destinadas al expendio al público de productos farmacéuticos, que se regirán por las disposiciones especiales que se contemplan en esta reglamentación y en subsidio por aquellas que son aplicables a las demás farmacias. Estas farmacias no podrán adquirir ni expender productos psicotrópicos o estupefacientes, elaborar productos farmacéuticos de carácter oficinal o magistral, fraccionar envases clínicos de productos farmacéuticos ni realizar las actividades a las que se refiere el siguiente artículo 9º.
 
 #### Artículo 9°
 
@@ -83,6 +87,16 @@ Para obtener la autorización de instalación y funcionamiento o traslado, el in
 a) Solicitud en que deberá constar la individualización del propietario o del representante legal según el caso, nombre del Director Técnico y la ubicación del establecimiento.
 
 b) Declaración del químico-farmacéutico o farmacéutico que asumirá la dirección técnica de la farmacia acreditando su calidad de tal y señalando su cédula de identidad y domicilio particular, y c) Copia autorizada de los instrumentos legales que acrediten el dominio del establecimiento.
+
+En el caso de las farmacias móviles itinerantes, para obtener la autorización de instalación y funcionamiento, el interesado deberá adicionalmente presentar a la autoridad sanitaria la siguiente documentación:
+
+a) Declaración respecto de la ubicación, horarios e itinerarios cuya autorización se pretende.
+
+b) Copia de los instrumentos legales que acrediten el dominio del vehículo, su permiso circulación y
+
+revisión técnica.
+
+c) Autorización emitida por la o las municipalidades respectivas respecto de los sitios de su ubicación cuando se trate de vías o lugares de uso públicos o copia autorizada de los instrumentos que acrediten el título en virtud del cual puede utilizar el lugar si es de propiedad privada.
 
 #### Artículo 11°
 
@@ -108,7 +122,13 @@ De los Requisitos que Deben Reunir sus Instalaciones
 
 #### Artículo 14°
 
-La planta física de una farmacia deberá contar con un local debidamente circunscrito, y con el equipamiento que asegure el almacenamiento y conservación adecuada de los productos farmacéuticos y la elaboración de productos farmacéuticos y cosméticos en su caso, según las normas que fije el Ministerio de Salud, debiendo cumplir las condiciones sanitarias y ambientales mínimas de los lugares de trabajo dispuestas en el decreto supremo 78, de 9 de febrero de 1983, del Ministerio de Salud. Para la elaboración de productos farmacéuticos D de carácter oficinal o magistral la farmacia deberá contar con un recetario en sección aparte diferenciada de las otras secciones, que permita y facilite la mantención de condiciones higiénicas adecuadas y permanentes. Sus instalaciones, equipos, instrumentos y demás implementos deberán ser adecuados para el tipo de fórmulas magistrales u oficinales que se preparen. Deberá mantener en una estantería exclusiva y bajo llave los estupefacientes, productos psicotrópicos y los venenos, sin perjuicio de adoptar, cuando corresponda, las medidas necesarias para prevenir su hurto, robo, sustracción o extravío.
+La planta física de una farmacia deberá contar con un local debidamente circunscrito, y con el equipamiento que asegure el almacenamiento y conservación adecuada de los productos farmacéuticos y la elaboración de productos farmacéuticos y cosméticos en su caso, según las normas que fije el Ministerio de Salud, debiendo cumplir las condiciones sanitarias y ambientales mínimas de los lugares de trabajo dispuestas en el decreto supremo 78, de 9 de febrero de 1983, del Ministerio de Salud.
+
+Para la elaboración de productos farmacéuticos D de carácter oficinal o magistral la farmacia deberá contar con un recetario en sección aparte diferenciada de las otras secciones, que permita y facilite la mantención de condiciones higiénicas adecuadas y permanentes. Sus instalaciones, equipos, instrumentos y demás implementos deberán ser adecuados para el tipo de fórmulas magistrales u oficinales que se preparen.
+
+Deberá mantener en una estantería exclusiva y bajo llave los estupefacientes, productos psicotrópicos y los venenos, sin perjuicio de adoptar, cuando corresponda, las medidas necesarias para prevenir su hurto, robo, sustracción o extravío.
+
+En el caso de las farmacias itinerantes, el vehículo deberá contar con el equipamiento que asegure el almacenamiento, control de temperatura y conservación adecuada de los medicamentos y con la señalética apropiada, que permita su inequívoca identificación como establecimiento de expendio de farmacéutico.
 
 #### Artículo 15°
 
@@ -336,6 +356,8 @@ Durante el horario nocturno las farmacias podrán atender público a través de 
 
 Sin perjuicio de lo anterior, el Servicio de Salud podrá autorizar el funcionamiento de Farmacias de Urgencia, las que deberán permanecer abiertas y atender público las 24 horas del día, durante todo el año. En este caso deberán contar con la presencia del Director Técnico, sin que la mera ausencia constituya infracción, si ha sido registrada en el Registro de recetas.
 
+Tratándose de las farmacias itinerantes, su horario de funcionamiento será determinado por su propietario, y autorizado por la Seremi competente, no pudiendo ser inferior a 4 horas en cada ubicación.
+
 #### Artículo 42°
 
 El Servicio de Salud fijará semestralmente los turnos de las farmacias de su territorio, los que serán obligatorios, sin perjuicio de lo dispuesto en el artículo 45°.
@@ -357,6 +379,8 @@ Las farmacias deberán indicar su turno mediante un cartel, que se colocará en 
 #### Artículo 45°
 
 Ninguna farmacia podrá eximirse de los turnos fijados por el Servicio de Salud. No obstante, el Servicio podrá, en casos debidamente calificados, suspender el cumplimiento del turno por el tiempo que estime prudencial, designando en su reemplazo otra farmacia que lo haga.
+
+Las farmacias móviles itinerantes quedan eximidas de la realización de turnos.
 
 ## Título III
 
