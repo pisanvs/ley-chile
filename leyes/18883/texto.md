@@ -20,13 +20,11 @@ Sin perjuicio de lo señalado en el inciso anterior, la dotación de las municip
 
 Los empleos a contrata durarán, como máximo, sólo hasta el 31 de diciembre de cada año y los empleados que los sirvan cesarán en sus funciones en esa fecha, por el solo ministerio de la ley, salvo que hubiere sido dispuesta la prórroga con treinta días de anticipación, a lo menos.
 
-Los cargos a contrata, en su conjunto, no podrán representar un gasto superior al cuarenta por ciento del gasto de remuneraciones de la planta municipal. Sin embargo, en las municipalidades con planta de menos de veinte cargos, podrán contratarse hasta ocho personas.
+Los cargos a contrata, en su conjunto, no podrán representar un gasto superior al veinte por ciento del gasto de remuneraciones de la planta municipal. Sin embargo, en las municipalidades con planta de menos de veinte cargos, podrán contratarse hasta cuatro personas.
 
 Podrán existir empleos a contrata con jornada parcial y, en tal caso, la correspondiente remuneración será proporcional a dicha jornada.
 
 Los empleos a contrata deberán ajustarse a las posiciones relativas que se contempla para el personal de la planta de Profesionales, de Técnicos, de Admninistrativos y de Auxiliares, o de los escalafones vigentes en su caso, de la respectiva municipalidad, según sea la función que se encomienda. Los grados que se asignen a los empleos a contrata no podrán exceder el tope máximo ue se contempla para el personal de las plantas de Profesionales, Técnicos, Administrativos y Auxiliares a que se refiere el artículo 11.
-
-El gasto anual en personal no podrá exceder, respecto de cada municipalidad, del 42% (cuarenta y dos por ciento) de los ingresos propios percibidos en el año anterior. Se entenderá por gasto en personal el que se irrogue para cubrir las remuneraciones correspondientes al personal de planta y a contrata. Asimismo, se considerarán en dicho gasto los honorarios a suma alzada pagados a personas naturales, honorarios asimilados a grado, jornales, remuneraciones reguladas por el Código del Trabajo, suplencias y reemplazos, personal a trato y/o temporal y alumnos en práctica. A su vez, los ingresos propios percibidos serán considerados como la suma de los ingresos propios permanentes señalados en el artículo 38 del decreto ley N° 3.063, de 1979, sobre Rentas Municipales, incluyendo la totalidad de la recaudación por concepto de permisos de circulación y patentes municipales, más los ingresos por participación en el Fondo Común Municipal indicados en el artículo 14 de la ley N° 18.695, orgánica constitucional de Municipalidades. Sólo para los efectos del cálculo del gasto anual en personal que dispone el presente artículo, no se considerarán los pagos que realice el municipio por concepto de la asignación de zona establecida en el artículo 7° del decreto ley N° 249, del Ministerio de Hacienda, promulgado el año 1973 y publicado el año 1974, otorgada por el artículo 25 del decreto ley N° 3.551, del Ministerio de Hacienda, promulgado el año 1980 y publicado el año 1981; de la bonificación establecida en el artículo 3° de la ley N° 20.198, ni de la bonificación compensatoria del artículo 29 de la ley N° 20.717, destinada a los beneficiarios de la mencionada bonificación del artículo 3° de la ley N° 20.198.
 
 #### Artículo 3°
 
@@ -92,49 +90,9 @@ Son subrogantes aquellos funcionarios que entran a desempeñar el empleo del tit
 
 Para los efectos de la carrera funcionaria, cada municipalidad sólo podrá tener las siguientes plantas de personal: de Directivos, de Profesionales, de Jefaturas, de Técnicos, de Administrativos y de Auxiliares.
 
-Las plantas municipales establecidas de acuerdo al inciso anterior tendrán las siguientes posiciones relativas:
-
-Alcaldes del grado 1 al 6
-
-Directivos del grado 3 al 10
-
-Profesionales del grado 5 al 12
-
-Jefaturas del grado 7 al 12
-
-Técnicos del grado 9 al 17
-
-Administrativos del grado 11 al 18
-
-Auxiliares del grado 13 al 20.
-
-Para los efectos de establecer el grado asignado al cargo de alcalde dentro de la planta municipal respectiva al momento de fijarla o modificarla de conformidad a lo dispuesto por el artículo 49 bis de la ley N° 18.695, los municipios deberán ajustarse a la categoría en que se encuentren según el total de sus ingresos anuales percibidos o el número de habitantes de la comuna, a su elección. Un reglamento dictado por el Ministerio del Interior y Seguridad Pública, y suscrito además por el Ministro de Hacienda, fijará las categorías según los criterios antes indicados y el rango de grados posibles para cada categoría, sin que pueda dicho reglamento de manera alguna significar una disminución de remuneraciones o grado al alcalde, o algún miembro de cualquier escalafón de la municipalidad. Dicho reglamento deberá dictarse en los seis meses siguientes a la publicación de esta ley. En caso que no se dicte el reglamento dentro de plazo, los municipios igualmente podrán modificar sus respectivas plantas.
-
 #### Artículo 8°
 
 La carrera funcionaria se iniciará con el ingreso a un cargo de planta, y se extenderá hasta el cargo de jerarquía inmediatamente inferior al de alcalde.
-
-Para el ingreso y la promoción en los cargos de las plantas de personal de las municipalidades se deberá cumplir con los siguientes requisitos:
-
-1) Plantas de Directivos: Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
-
-No obstante, para los cargos de dirección destinados al mando superior de las unidades que se indican seguidamente, deberán cumplirse los requisitos específicos que se señalan:
-
-a) Para la unidad de obras municipales se requerirá título de arquitecto, de ingeniero civil, de ingeniero constructor civil o de constructor civil, otorgado por una institución de educación superior del Estado o reconocida por éste.
-
-b) En la unidad de asesoría jurídica se requerirá título de abogado, habilitado para el ejercicio de la profesión.
-
-2) Plantas de Profesionales: Título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste.
-
-3) Plantas de Jefaturas: título profesional universitario o título profesional de una carrera de, a lo menos, ocho semestres de duración, otorgado por una institución de educación superior del Estado o reconocida por éste, o título técnico que cumpla los requisitos fijados para la planta de técnicos.
-
-4) Plantas de Técnicos: Título técnico de nivel superior otorgado por una institución de educación superior del Estado o reconocida por éste, en el área que la municipalidad lo requiera; o, en su caso, título técnico de nivel medio, en el área que la municipalidad lo requiera, otorgado por una institución de educación del Estado o reconocida por éste; o haber aprobado, a lo menos, cuatro semestres de una carrera profesional impartida por una institución del Estado o reconocida por éste, en el área que la municipalidad lo requiera.
-
-5) Plantas de Administrativos: Licencia de educación media o su equivalente.
-
-6) Plantas de Auxiliares: Haber aprobado la educación básica o encontrarse en posesión de estudios equivalentes. Para el ingreso o la promoción a cargos que impliquen el desarrollo de funciones de chofer, será necesario estar en posesión de la licencia de conducir que corresponda según el vehículo que se asignará a su conducción.
-
-Las plantas podrán considerar requisitos específicos para determinados cargos.
 
 #### Artículo 9°
 
@@ -150,17 +108,17 @@ b) Haber cumplido con la ley de reclutamiento y movilización, cuando fuere proc
 
 c) Tener salud compatible con el desempeño del cargo;
 
-d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley. Para aquellos cargos regidos por esta ley en los que se exija tener licencia de educación media, se entenderá que cumplen dicho requisito las personas con discapacidad mayores de 18 años que acrediten haber completado sus estudios en la modalidad de educación especial, de conformidad con lo dispuesto en el decreto N° 83, de 2015, del Ministerio de Educación que aprueba criterios y orientaciones de adecuación curricular para estudiantes con necesidades educativas especiales de educación parvularia y educación básica o a la normativa que lo reemplace.
+d) Haber aprobado la educación básica y poseer el nivel educacional o título profesional o técnico que por la naturaleza del empleo exija la ley;
 
-e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones. Con todo, conforme a lo establecido en el artículo 120, no será necesario el cumplimiento de dicho plazo cuando así lo determine el respectivo fiscal.
+e) No haber cesado en un cargo público como consecuencia de haber obtenido una calificación deficiente, o por medida disciplinaria, salvo que hayan transcurrido más de cinco años desde la fecha de expiración de funciones, y
 
-f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por delito que tenga asignada pena de crimen o simple delito. Sin perjuicio de lo anterior, tratándose del acceso a cargos de auxiliares y administrativos, no será impedimento para el ingreso encontrarse condenado por ilícito que tenga asignada pena de simple delito, siempre que no sea de aquellos contemplados en el Título V, Libro II, del Código Penal.
+f) No estar inhabilitado para el ejercicio de funciones o cargos públicos, ni hallarse condenado por crimen o simple delito.
 
 #### Artículo 11
 
 Los requisitos señalados en las letras a), b), y d) del artículo anterior, deberán ser acreditados mediante documentos o certificados oficiales auténticos.
 
-El requisito establecido en la letra c) del artículo que precede, se acreditará mediante certificación del Servicio de Salud correspondiente. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley N° 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no podrá ser considerado por el respectivo Servicio de Salud como fundamento de incumplimiento de dicho requisito.
+El requisito establecido en la letra c) del artículo que precede, se acreditará mediante certificación del Servicio de Salud correspondiente.
 
 El requisito de título profesional o técnico exigido por la letra d) del artículo anterior, se acreditará mediante los títulos conferidos en la calidad de profesional o técnico, según corresponda, de conformidad a las normas legales vigentes en materia de Educación Superior.
 
@@ -200,8 +158,6 @@ De la Carrera Funcionaria
 
 El ingreso a los cargos de planta en calidad de titular se hará por concurso público y procederá en el último grado de la planta respectiva, salvo que existan vacantes de grados superiores a éste que no hubieren podido proveerse mediante ascensos.
 
-Las municipalidades deberán dictar un reglamento de concurso público.
-
 Todas las personas que cumplan con los requisitos correspondientes tendrán el derecho a postular en igualdad de condiciones.
 
 #### Artículo 16
@@ -209,8 +165,6 @@ Todas las personas que cumplan con los requisitos correspondientes tendrán el d
 El concurso consistirá en un procedimiento técnico y objetivo que se utilizará para seleccionar el personal que se propondrá al alcalde, debiéndose evaluar los antecedentes que presenten los postulantes y las pruebas que hubieren rendido, si así se exigiere, de acuerdo a las características de los cargos que se van a proveer.
 
 En cada concurso deberán considerarse a lo menos los siguientes factores: los estudios y cursos de formación educacional y de capacitación; la experiencia laboral, y las aptitudes específicas para el desempeño de la función. La municipalidad los determinará previamente y establecerá la forma en que ellos serán ponderados y el puntaje mínimo para ser considerado postulante idóneo.
-
-No obstante lo anterior, en el caso de los requisitos para cargos directivos municipales, éstos podrán considerar perfiles ocupacionales definidos por el Programa Academia de Capacitación Municipal y Regional de la Subsecretaría de Desarrollo Regional y Administrativo, a que se refieren los artículos 4° y siguientes de la ley N° 20.742.
 
 #### Artículo 17
 
@@ -246,7 +200,7 @@ El concurso podrá ser declarado total o parcialmente desierto, sólo por falta 
 
 #### Artículo 20
 
-El alcalde seleccionará a una de las personas propuestas con especial consideración de los factores señalados en el inciso segundo del artículo 16 y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original, copia autentificada ante Notario o a través de documento electrónico suscrito con las formalidades que en cada caso exija la ley, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
+El alcalde seleccionará a una de las personas propuestas y notificará personalmente o por carta certificada al interesado, quien deberá manifestar su aceptación del cargo y acompañar, en original o en copia autentificada ante Notario, los documentos probatorios de los requisitos de ingreso señalados en el artículo 11 dentro del plazo que se le indique. Si así no lo hiciere, la autoridad deberá nombrar a alguno de los otros postulantes propuestos.
 
 #### Artículo 21
 
@@ -276,7 +230,7 @@ Aquellas actividades que sólo exijan asistencia y las que tengan una extensión
 
 #### Artículo 25
 
-Las municipalidades deberán considerar en sus programas de capacitación y perfeccionamiento el tipo y características de la comuna y su beneficio para la eficiencia en el cumplimiento de las funciones municipales. Dichos programas deberán contemplar, a lo menos, cursos sobre derecho administrativo, probidad administrativa, contabilidad y gestión financiera municipal, estas dos últimas materias preferentemente para aquellos funcionarios que se desempeñen en áreas afines.
+Las municipalidades deberán considerar en sus programas de capacitación y perfeccionamiento el tipo y características de la comuna y su beneficio para la eficiencia en el cumplimiento de las funciones municipales.
 
 Estas actividades podrán también llevarse a cabo mediante convenios con organismos públicos o privados, nacionales, extranjeros o internacionales.
 
@@ -299,8 +253,6 @@ El funcionario que no diere cumplimiento a lo dispuesto en el inciso precedente 
 #### Artículo 28
 
 Para el cumplimiento de lo dispuesto en el artículo 37 de la ley N° 18.695, el proyecto de presupuesto municipal deberá consultar los fondos necesarios para desarrollar los programas de capacitación y perfeccionamiento. Podrán otorgarse para estos efectos becas a los funcionarios municipales.
-
-En las municipalidades podrán existir comités bipartitos que desarrollen tareas consultivas en materias de capacitación del personal.
 
 ### Párrafo 3° — DE LAS CALIFICACIONES
 
@@ -512,13 +464,11 @@ i) Observar una vida social acorde con la dignidad del cargo;
 
 j) Proporcionar con fidelidad y precisión los datos que la municipalidad le requiera relativos a situaciones personales o de familia, cuando ello sea de interés para la municipalidad, debiendo ésta guardar debida reserva de los mismos;
 
-k) Denunciar, con la debida prontitud, ante el Ministerio Público, las policías, o ante cualquier tribunal con competencia criminal, los hechos de los que tome conocimiento en el ejercicio de sus funciones y que revistan caracteres de delito;
+k) Denunciar ante el Ministerio Público, o ante la policía si no hubiere fiscalía en la comuna en que tiene su sede la municipalidad, con la debida prontitud, los crímenes o simples delitos y al alcalde los hechos de carácter irregular o las faltas al principio de probidad de que tome conocimiento;
 
-l) Denunciar, con la debida prontitud, ante la autoridad competente los hechos de que tome conocimiento en el ejercicio de sus funciones y que revistan el carácter de faltas administrativas o infracciones disciplinarias, especialmente aquellas que contravengan el principio de probidad administrativa;
+l) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
 
-m) Rendir fianza cuando en razón de su cargo tenga la administración y custodia de fondos o bienes, de conformidad con la Ley Orgánica Constitucional de la Contraloría General de la República, y
-
-n) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
+m) Justificarse ante el superior jerárquico de los cargos que se le formulen con publicidad, dentro del plazo que éste le fije, atendidas las circunstancias del caso.
 
 #### Artículo 59
 
@@ -580,7 +530,7 @@ Los funcionarios no estarán obligados a trabajar las tardes de los días 17 de 
 
 #### Artículo 69
 
-Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias, permiso postnatal parental o permisos con goce de remuneraciones, previstos en este Estatuto, de suspensión preventiva contemplada en el artículo 134, o de caso fortuito o fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
+Por el tiempo durante el cual no se hubiere efectivamente trabajado no podrán percibirse remuneraciones, salvo que se trate de feriados, licencias o permisos con goce de remuneraciones, previstos en este Estatuto, de suspensión preventiva contemplada en el artículo 134, o de caso fortuito o fuerza mayor. Mensualmente deberá descontarse por los pagadores, a requerimiento escrito del jefe inmediato, el tiempo no trabajado por los empleados, considerando que la remuneración correspondiente a un día, medio día o una hora de trabajo, será el cuociente que se obtenga de dividir la remuneración mensual por treinta, sesenta y ciento noventa, respectivamente.
 
 Las deduciones de rentas motivadas por inasistencia o por atrasos injustificados, no afectarán al monto de las imposiciones y demás descuentos, los que deben calcularse sobre el total de las remuneraciones, según corresponda. Tales deducciones constituirán ingreso propio de la municipalidad empleadora.
 
@@ -668,13 +618,7 @@ h) Realizar cualquier actividad política dentro de la Administración del Estad
 
 i) Organizar o pertenecer a sindicatos en el ámbito de la Administración del Estado; dirigir, promover o participar en huelgas, interrupción o paralización de actividades, totales o parciales, en la retención indebida de personas o bienes, y en otros actos que perturben el normal funcionamiento de los órganos de la Administración;
 
-j) Atentar contra los bienes de la municipalidad, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro;
-
-k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen;
-
-l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación, y
-
-m) Realizar todo acto calificado como acoso laboral en los términos que dispone el inciso segundo del artículo 2° del Código del Trabajo.
+j) Atentar contra los bienes de la municipalidad, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro; k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen, y l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo.
 
 ### Párrafo 6 — .° DE LAS INCOMPATIBILIDADES
 
@@ -732,21 +676,15 @@ Los funcionarios tendrán derecho, además, a ser defendidos y a exigir que la m
 
 La denuncia será hecha ante el respectivo tribunal por el alcalde de la municipalidad, tanto si el afectado es él, como si lo fuere cualquier funcionario. En este último caso se requerirá siempre una solicitud escrita del afectado.
 
-Con todo, cuando se atente contra la vida o integridad física de los funcionarios y las funcionarias, la autoridad deberá resolver fundadamente acerca de la necesidad de iniciar de oficio el procedimiento de investigación sumaria o sumario para determinar las responsabilidades administrativas en caso de que correspondan.
-
 #### Artículo 88
 
-A.- Los funcionarios que ejerzan las acciones a que se refieren las letras k) y l) del artículo 58 tendrán los siguientes derechos:
+A.- Los funcionarios que ejerzan las acciones a que se refiere la letra k) del artículo 58 tendrán los siguientes derechos:
 
 a) No podrán ser objeto de las medidas disciplinarias de suspensión del empleo o de destitución, desde la fecha en que el alcalde tenga por presentada la denuncia y hasta noventa días después de haber terminado la investigación sumaria o sumario, incoados a partir de la citada denuncia.
 
-Tratándose de las personas contratadas a honorarios, regirá lo dispuesto en el inciso final del artículo 4; sin embargo, no podrá ponerse término anticipado a su contrato por el hecho de haber denunciado fundadamente, y con prueba suficiente que acredite sus afirmaciones, respecto a la existencia de algún acto o irregularidad de las previstas en las letras k) y l) del artículo 58; que hubiese presenciado o de las que hubiese tomado conocimiento en el ejercicio de sus funciones; caso en el cual la vigencia del contrato se sujetará al plazo acordado en su contratación.
-
-b) No ser trasladados de localidad o de la función que desempeñen sin su autorización por escrito, durante el lapso a que se refiere la letra precedente. Asimismo, los funcionarios tendrán derecho a solicitar su traslado de la localidad o de la función que desempeñen, especialmente cuando la denuncia se haya realizado en contra de un superior jerárquico. La resolución que deniega esta solicitud deberá fundarse exclusivamente en la imposibilidad material del servicio para organizar sus funciones de forma distinta. Esta decisión deberá ser adoptada por el jefe superior del servicio, y si éste se encuentra implicado en los hechos objeto de la denuncia, por la persona no inhabilitada que le subrogue.
+b) No ser trasladados de localidad o de la función que desempeñaren, sin su autorización por escrito, durante el lapso a que se refiere la letra precedente.
 
 c) No ser objeto de precalificación anual, si el denunciado fuese su superior jerárquico, durante el mismo lapso a que se refieren las letras anteriores, salvo que expresamente la solicitare el denunciante. Si no lo hiciere, regirá su última calificación para todos los efectos legales.
-
-d) En aquellos casos en que los hechos denunciados hayan implicado un detrimento del patrimonio fiscal, la funcionaria o el funcionario público denunciante tendrá derecho a que se le otorgue una anotación de mérito en el factor que corresponda, que mejore su calificación en el año o período en que se haya acreditado ese detrimento; siempre y cuando haya aportado antecedentes precisos, fundados, comprobables y suficientes para la investigación administrativa o persecución penal.
 
 #### Artículo 88
 
@@ -771,10 +709,6 @@ Las denuncias que no cumplan con lo prescrito en los incisos primero y segundo p
 La autoridad que reciba la denuncia tendrá desde esa fecha un plazo de tres días hábiles para resolver si la tendrá por presentada.
 
 Si habiendo transcurrido el término establecido en el inciso anterior, la autoridad no se ha pronunciado sobre la procedencia de la denuncia, entonces se tendrá por presentada.
-
-#### Artículo 88
-
-C.- No serán aplicables los artículos 88 A y 88 B respecto del funcionario que realice su denuncia a través del Canal de Denuncias de la Contraloría General de la República establecido en la ley que establece un estatuto de protección en favor del denunciante. En dicho caso, serán aplicables las disposiciones contenidas en los títulos II, III y IV de dicha ley.
 
 #### Artículo 89
 
@@ -902,7 +836,7 @@ Los funcionarios que se desempeñen en unidades o servicios municipales que deje
 
 El funcionario que desempeñe sus funciones en las comunas de Isla de Pascua, de Juan Fernández y de la Antártica, tendrá derecho a que su feriado se aumente en el tiempo que le demande el viaje de ida al continente y regreso a sus funciones.
 
-Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles.
+Los funcionarios que residan en las regiones de Tarapacá, Antofagasta, Aisén del General Carlos Ibáñez del Campo, y de Magallanes y de la Antártica Chilena, y en las provincias de Chiloé y Palena de la Región de los Lagos, tendrán derecho a gozar de su feriado aumentado en cinco días hábiles, siempre que se trasladen a una región distinta de aquella en la que se encuentren prestando servicios o hacia fuera del país.
 
 #### Artículo 106
 
@@ -938,8 +872,6 @@ El límite señalado en el inciso anterior, no será aplicable en el caso de fun
 
 Se entiende por licencia médica el derecho que tiene el funcionario de ausentarse o reducir su jornada de trabajo durante un determinado lapso, con el fin de atender al restablecimiento de su salud, en cumplimiento de una prescripción profesional certificada por un médico cirujano, cirujano dentista o matrona, según corresponda, autorizada por el competente Servicio de Salud o Institución de Salud Previsional, en su caso. Durante su vigencia el funcionario continuará gozando del total de sus remuneraciones.
 
-Durante el período de permiso postnatal parental regulado en el artículo 197 bis del Código del Trabajo, los funcionarios que hagan uso de él también continuarán gozando del total de sus remuneraciones.
-
 #### Artículo 111
 
 La declaración de irrecuperabilidad de los funcionarios afiliados a una Administradora de Fondos de Pensiones será resuelta por la Comisión Médica competente, en conformidad con las normas legales que rigen a estos organismos, disposiciones a las que se sujetarán los derechos que de tal declaración emanan para el funcionario.
@@ -952,7 +884,7 @@ La declaración de irrecuperabilidad afectará a todos los empleos compatibles q
 
 #### Artículo 113
 
-En caso de que un funcionario fallezca, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
+En caso de que un funcionario fallezca, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir la remuneración que a éste correspondiere, hasta el último día del mes en que ocurriere el deceso.
 
 #### Artículo 114
 
@@ -1000,9 +932,9 @@ De la Responsabilidad Administrativa
 
 El empleado que infringiere sus obligaciones o deberes funcionarios podrá ser objeto de anotaciones de demérito en su hoja de vida o de medidas disciplinarias.
 
-Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo, cuyos procedimientos deberán sujetarse a los principios de confidencialidad, imparcialidad, celeridad y perspectiva de género.
+Los funcionarios incurrirán en responsabilidad administrativa cuando la infracción a sus deberes y obligaciones fuere susceptible de la aplicación de una medida disciplinaria, la que deberá ser acreditada mediante investigación sumaria o sumario administrativo.
 
-Tratándose del alcalde su responsabilidad administrativa se hara efectiva en conformidad al artículo 60 de la ley N.° 18.695.
+Tratándose del alcalde su responsabilidad administrativa se hara efectiva en conformidad al artículo 76, letra b) de la ley N.° 18.695.
 
 #### Artículo 119
 
@@ -1025,22 +957,6 @@ c) Suspensión del empleo desde treinta días a tres meses, y
 d) Destitución.
 
 Las medidas disciplinarias se aplicarán tomando en cuenta la gravedad de la falta cometida y las circunstancias atenuantes o agravantes que arroje el mérito de los antecedentes.
-
-Se considerará circunstancia atenuante la cooperación eficaz que conduzca al esclarecimiento de los hechos denunciados o permita la identificación de sus responsables, o sirva para prevenir o impedir la perpetración de nuevos hechos.
-
-En estos casos, el fiscal, en el dictamen, vista o informe que emita en el contexto del respectivo procedimiento disciplinario, deberá expresar en qué términos la cooperación prestada ha sido eficaz a los fines señalados en el inciso precedente.
-
-La circunstancia atenuante prevista en este artículo no se aplicará en los siguientes casos:
-
-1. Cuando solo resultare procedente la medida disciplinaria de destitución, de conformidad a lo establecido en el artículo 123.
-
-2. Tratándose de autoridades que desempeñen un cargo de elección popular o de exclusiva confianza de éstos o de la autoridad facultada para efectuar su nombramiento y respecto de cargos de Alta Dirección Pública.
-
-En caso de que la cooperación prestada por el denunciante en razón de su participación en los hechos materia de la denuncia, resultare eficaz para los fines señalados en el inciso primero, la inhabilitación para ingresar a la Administración del Estado que se imponga como consecuencia del procedimiento disciplinario relativo a los hechos denunciados, durará tres años. Dicha circunstancia deberá ser calificada por la autoridad encargada de aplicar la medida disciplinaria y deberá constar en el acto administrativo que se dicte para tales efectos.
-
-Lo señalado en el inciso anterior no tendrá aplicación en caso de auto denuncia de hechos en los que no hubiesen tenido participación terceras personas, ni tratándose de los sujetos a que refiere el numeral 2 del inciso quinto.
-
-En el caso que se aplique la medida disciplinaria de destitución como consecuencia de la inobservancia de lo dispuesto en el artículo 82 letra m), el fiscal podrá determinar, considerando lo señalado en el inciso anterior, que el funcionario o funcionaria se encuentre eximido de cumplir el plazo establecido en el artículo 10 letra e), decisión que no será aplicable respecto de la municipalidad que aplica la medida.
 
 #### Artículo 121
 
@@ -1074,21 +990,17 @@ a) Ausentarse de la municipalidad por más de tres días consecutivos, sin causa
 
 b) Infringir las disposiciones de las letras i), j) y k) del artículo 82;
 
-c) Infringir lo dispuesto en las letras l) y m) del artículo 82.
+c) Infringir lo dispuesto en la letra l) del artículo 82;
 
 d) Condena por crimen o simple delito, y
 
-e) Presentar denuncias falsas de infracciones disciplinarias, faltas administrativas o delitos, a sabiendas o con el ánimo deliberado de perjudicar al o a los sujetos denunciados.
+e) Efectuar denuncias de irregularidades o de faltas al principio de probidad de las que haya afirmado tener conocimiento, sin fundamento y respecto de las cuales se constatare su falsedad o el ánimo deliberado de perjudicar al denunciado.
 
-f) Ejecutar acciones de hostigamiento en contra de cualquier persona que efectúe una denuncia de acuerdo a lo previsto en la ley o declare como testigo en una investigación administrativa o ante la justicia, afectando su indemnidad o estabilidad en el empleo, su vida o integridad, su libertad o su patrimonio, o que produzca la misma afectación respecto de un miembro de su familia.
-
-g) En los demás casos contemplados en este Estatuto o leyes especiales.
+f) En los demás casos contemplados en este Estatuto o leyes especiales.
 
 #### Artículo 124
 
 Si el alcalde estimare que los hechos son susceptibles de ser sancionados con una medida disciplinaria o en el caso de disponerlo expresamente la ley, decretará la instrucción de una investigación sumaria, la cual tendrá por objeto verificar la existencia de los hechos, y la individualización de los responsables y su participación, si los hubiere, designando para tal efecto a un funcionario que actuará como investigador.
-
-Con todo, ante una denuncia de hechos que pudiesen vulnerar lo dispuesto en el artículo 82 letras l) o m), la autoridad solo podrá desestimarla mediante una resolución fundada y deberá notificar dicho acto dentro del plazo de cinco días a la persona denunciante, la que podrá ejercer el derecho establecido en el artículo 156.
 
 Las notificaciones que se realicen durante la investigación sumaria deberán hacerse personalmente. Si el funcionario no fuere habido por dos días consecutivos en su domicilio o en su lugar de trabajo, se lo notificará por carta certificada, de lo cual deberá dejarse constancia. En ambos casos se deberá dejar copia íntegra de la resolución respectiva. En esta última circunstancia, el funcionario se entenderá notificado cumplidos tres días desde que la carta haya sido despachada.
 
@@ -1112,25 +1024,13 @@ Si en el transcurso de la investigación se constata que los hechos revisten una
 
 Si la naturaleza de los hechos denunciados o su gravedad así lo exigiere, el alcalde dispondrá la instrucción de un sumario administrativo.
 
-En caso que la persona denunciada, o la persona denunciante por las prohibiciones establecidas en el artículo 82 letras l) y m) sea el alcalde o la alcaldesa, un concejal o concejala o funcionarios o funcionarias que se desempeñen como jefaturas que jerárquicamente dependan de forma directa del alcalde o alcaldesa, se deberá poner en conocimiento de la Contraloría General de la República dicha situación, en un plazo de tres días hábiles, entidad que sustanciará el sumario respectivo conforme a las reglas del presente Estatuto, en cuanto sean compatibles.
-
-Si se determina la responsabilidad del alcalde o alcaldesa en los hechos, se indicará en la resolución respectiva. Los concejales y concejalas deberán observar lo dispuesto en el artículo 60, letra c) de la ley N° 18.695, orgánica constitucional de Municipalidades.
-
 #### Artículo 127
 
 El sumario administrativo se ordenará por el alcalde mediante decreto, en el cual designará al fiscal que estará a cargo del mismo.
 
-En caso de que el sumario se ordene por hechos que vulneren lo dispuesto en el artículo 82 letras l) o m), deberá designarse preferentemente fiscal a un funcionario o funcionaria que cuente con formación en materias de prevención, investigación y sanción de acoso, género o derechos fundamentales.
-
-En los procedimientos instruidos para determinar la responsabilidad administrativa en este tipo de casos, las víctimas y personas afectadas por las eventuales infracciones tendrán derecho a aportar antecedentes a la investigación, a conocer su contenido desde la formulación de cargos, a ser notificadas e interponer recursos en contra de los actos administrativos, en los mismos términos que el funcionario inculpado.
-
-Lo anterior aplicará también para las reclamaciones establecidas en los artículos 135 y 138.
-
-Si designado el fiscal, apareciere involucrado en los hechos investigados un funcionario de mayor grado o jerarquía o de dependencia directa en su caso, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
-
 El fiscal deberá tener igual o mayor grado o jerarquía que el funcionario que aparezca involucrado en los hechos. Si no fuera posible aplicar esta norma, bastará que no exista relación de dependencia directa.
 
-> **Nota.** La letra b) del N° 8 del artículo 4 de la ley 21643, publicada el 15.01.2024, ordena sustituir en el inciso sexto del presente artículo la expresión "lo" por "los, no obstante, estar ubicado en su texto en el inciso quinto actual, ello tras la incorporación de los incisos tercero, cuarto y quinto nuevos, conforme lo dispone el literal a) N° 8 de la citada disposición, que posiciona como inciso sexto el preliminar inciso segundo.
+Si designado el fiscal, apareciere involucrado en lo hechos investigados un funcionario de mayor grado o jerarquía o de dependencia directa en su caso, continuará aquél sustanciando el procedimiento hasta que disponga el cierre de la investigación.
 
 #### Artículo 128
 
@@ -1174,8 +1074,6 @@ Cada vez que se nombre un nuevo fiscal o actuario se notificará al sumariado pa
 
 El fiscal tendrá amplias facultades para realizar la investigación y los funcionarios estarán obligados a prestar la colaboración que se les solicite.
 
-En el caso de hechos referidos a las prohibiciones establecidas en el artículo 82 letras l) o m), el o la fiscal deberá adoptar las medidas de resguardo necesarias respecto de las personas involucradas, entre las que se encuentran la separación de los espacios físicos, la redistribución de la jornada de trabajo y el proporcionar a la persona denunciante atención psicológica temprana, a través de los programas que disponga el organismo administrador respectivo de la ley Nº16.744. Las medidas adoptadas subsistirán por el tiempo que dure el procedimiento disciplinario y hasta que éste se encuentre afinado.
-
 La investigación de los hechos deberá realizarse en el plazo de veinte días al término de los cuales se declarará cerrada la investigación y se formularán cargos al o los afectados o se solicitará el sobreseimiento, para lo cual habrá un plazo de tres días.
 
 En casos calificados, al existir diligencias pendientes decretadas oportunamente y no cumplidas por fuerza mayor, se podrá prorrogar el plazo de instrucción del sumario hasta completar sesenta días, resolviendo sobre ello el alcalde.
@@ -1191,8 +1089,6 @@ En caso de que el fiscal proponga en su dictamen la medida de destitución, podr
 #### Artículo 135
 
 En el evento de proponer el fiscal el sobreseimiento se enviarán los antecedentes al alcalde, quien estará facultado para aprobar o rechazar tal proposición. En el caso de rechazarla, dispondrá que se complete la investigación dentro del plazo de cinco días.
-
-Cuando el o la fiscal proponga el sobreseimiento y éste sea aprobado por el alcalde o alcaldesa, deberá notificarse esa resolución a la persona denunciante de los hechos referidos en el artículo 82 letras l) o m), dentro del plazo de cinco días, quien podrá reclamar de ella ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de ello, sin perjuicio de lo establecido en el inciso tercero del artículo 129.
 
 El sumario será secreto hasta la fecha de formulación de cargos, oportunidad en la cual dejará de serlo para el inculpado y para el abogado que asumiere su defensa.
 
@@ -1218,7 +1114,7 @@ No obstante, el alcalde podrá ordenar la realización de nuevas diligencias o l
 
 Ningún funcionario podrá ser sancionado por hechos que no han sido materia de cargos.
 
-La aplicación de toda medida disciplinaria deberá ser notificada al afectado. Con todo, cuando el alcalde o alcaldesa apruebe la absolución o aplique cualquier medida disciplinaria respecto de los hechos referidos en el artículo 82 letras l) o m), deberá notificar la resolución que afina el procedimiento disciplinario a la persona denunciante, dentro del plazo de cinco días. Ésta podrá reclamar de la referida resolución ante la Contraloría General de la República, en el plazo de veinte días contado desde que tomó conocimiento de aquella, sin perjuicio de lo establecido en el inciso tercero del artículo 129.
+La aplicación de toda medida disciplinaria deberá ser notificada al afectado.
 
 #### Artículo 139
 
@@ -1232,7 +1128,7 @@ Acogida la reposición el alcalde dictará el decreto correspondiente en el plaz
 
 #### Artículo 141
 
-Vencidos los plazos de instrucción de un sumario y no estando éste afinado, el alcalde que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal. En los casos referidos al incumplimiento de las prohibiciones consagradas en el artículo 82 letras l) o m), tales medidas deberán ser adoptadas dentro del plazo de veinte días contado desde el vencimiento de los plazos de instrucción.
+Vencidos los plazos de instrucción de un sumario y no estando éste afinado, el alcalde que lo ordenó deberá revisarlo, adoptar las medidas tendientes a agilizarlo y determinar la responsabilidad del fiscal.
 
 #### Artículo 142
 
@@ -1280,7 +1176,7 @@ El funcionario que jubile, se pensione u obtenga una renta vitalicia en un régi
 
 La declaración de vacancia procederá por las siguientes causales:
 
-a) Salud irrecuperable o incompatible con el desempeño del cargo. El solo hecho de contar con una calificación y certificación de discapacidad de conformidad con la ley N° 20.422 y/o ser asignataria de una pensión de invalidez de cualquier régimen previsional, no configurará esta causal;
+a) Salud irrecuperable o incompatible con el desempeño del cargo;
 
 b) Pérdida sobreviniente de alguno de los requisitos de ingreso a la municipalidad, y
 
@@ -1291,10 +1187,6 @@ c) Calificación del funcionario en lista de Eliminación o Condicional, de acue
 El alcalde podrá considerar como salud incompatible con el desempeño del cargo, haber hecho uso de licencia médica en un lapso continuo o discontinuo superior a seis meses en los últimos dos años, sin mediar declaración de salud irrecuperable.
 
 No se considerarán para el cómputo de los seis meses señalado en el inciso anterior, las licencias otorgadas en los casos a que se refiere el artículo 114 de este Estatuto y el Título II, del Libro II, del Código del Trabajo.
-
-El alcalde, para ejercer la facultad señalada en el inciso primero, deberá requerir previamente a la Comisión de Medicina Preventiva e Invalidez la evaluación del funcionario respecto a la condición de irrecuperabilidad de su salud y que no le permite desempeñar el cargo.
-
-En caso de discapacidad sobreviniente, calificada y certificada según la ley N° 20.422, la evaluación que realice la Comisión de Medicina Preventiva e Invalidez en cumplimiento de lo establecido en el inciso anterior deberá considerar la condición de salud de la persona en relación con el cargo específico que desempeña, indicando si podrá continuar realizando las labores respectivas.
 
 #### Artículo 149
 
@@ -1470,9 +1362,9 @@ Corresponderá a la respectiva Comisión de Medicina Preventiva e Invalidez pron
 
 A contar de la fecha de la notificación y durante el referido plazo de seis meses el funcionario no estará obligado a trabajar y gozará de todas las remuneraciones correspondientes a su empleo, las que serán de cargo del empleador.
 
-#### Artículo 17
+#### Artículo 17°
 
-En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge o conviviente civil sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha del fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
+En el caso de fallecimiento de un funcionario con derecho a desahucio, el cónyuge sobreviviente, los hijos o los padres, en el orden señalado, tendrán derecho a percibir el desahucio que habría correspondido al funcionario si se hubiere retirado a la fecha de fallecimiento. Si no existieren las personas indicadas, el derecho al desahucio integrará el haber de la herencia.
 
 JOSE T. MERINO CASTRO, Almirante, Comandante en Jefe de la Armada, Miembro de la Junta de Gobierno.- FERNANDO MATTHEI AUBEL, General del Aire, Comandante en Jefe de la Fuerza Aérea, Miembro de la Junta de Gobierno.-
 

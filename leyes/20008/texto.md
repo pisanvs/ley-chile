@@ -16,7 +16,7 @@ Para los efectos señalados, renuévase la vigencia de las disposiciones permane
 
 2) SUPRIMIDO
 
-3) Dicha asignación no será aplicable a los jueces de policía local.
+3) DEROGADO.
 
 4) Facúltase a las municipalidades para otorgar a los funcionarios señalados en el artículo 1º permanente de la ley N° 19.803 y en servicio a la fecha de publicación de la presente ley, una bonificación mensual, imponible y tributable, a contar del mes de enero del año 2005 y sólo hasta diciembre del mismo año, de un 6% de la suma de los estipendios a que se refiere el artículo 3º del cuerpo legal citado. Esta asignación se pagará durante el año 2005, en las cuotas que el municipio determine, siendo el monto a pagar en cada una de ellas equivalente al valor acumulado en los meses anteriores al pago.
 
