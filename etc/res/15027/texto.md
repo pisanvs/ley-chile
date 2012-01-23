@@ -50,9 +50,9 @@ Si se practicare una nueva medición de emisiones a una fuente, el titular deber
 
 #### Artículo 7°
 
-Para los efectos de la presentación de la Declaración, el Servicio pondrá a disposición de los interesados un formulario, que podrá ser retirado en las dependencias del Servicio.
+La Declaración de Emisiones deberá presentarse mediante formularios electrónicos ubicados en el sitio web del Ministerio de Salud o en el dominio www.declaracionemision.cl, correspondiente al mismo Sistema de Declaración de Emisiones de Fuentes Fijas utilizado para declarar las emisiones de contaminantes atmosféricos solicitado por el decreto supremo Nº 138 de 2005, del Ministerio de Salud.
 
-El documento Declaración de Emisiones deberá presentarse en original y una copia. Se mantendrá en poder del Servicio el original, en tanto la copia se entregará timbrada al titular de la fuente declarada.
+Sin perjuicio de lo anterior, la Secretaría Regional Ministerial de Salud de la Región Metropolitana, podrá autorizar, cuando los antecedentes lo justifiquen, el uso de otro tipo de formulario.
 
 #### Artículo 8°
 
