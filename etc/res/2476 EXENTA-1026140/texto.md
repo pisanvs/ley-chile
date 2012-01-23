@@ -28,7 +28,7 @@ Resuelvo:
 
 #### Artículo 1º
 
-Establécese el cierre de la TPD por parte del OAP a las 22:00 horas de cada día. La TPD definitiva deberá quedar a disposición de las proveedoras receptoras y donantes 2 horas después, es decir, a las 00:00 horas de cada día.
+Establécese el cierre de la TPD por parte del OAP a las 22:00 horas de cada día. La TPD definitiva deberá quedar a disposición de las proveedoras receptoras y donantes 2 horas después, es decir, a las 00:00 horas de cada día. Esto último, exceptuando los domingos y festivos.
 
 #### Artículo 2º
 
