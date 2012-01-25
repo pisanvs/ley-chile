@@ -1,10 +1,16 @@
-LEY NÚM. 20.234
+LEY NÚM. 20.562
 
-ESTABLECE UN PROCEDIMIENTO DE SANEAMIENTO Y REGULARIZACIÓN DE LOTEOS
+MODIFICA LA LEY N° 20.234, QUE ESTABLECE UN PROCEDIMIENTO DE SANEAMIENTO Y REGULARIZACIÓN DE LOTEOS IRREGULARES Y RENUEVA SU VIGENCIA
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley originado en una moción de los Diputados Eugenio Tuma Zedán, Sergio Bobadilla Muñoz, Gonzalo Duarte Leiva, Fidel Espinoza Sandoval, René García García, Rodrigo González Torres, Jorge Insunza Gregorio de las Heras, Juan Carlos Latorre Carmona, Carlos Montes Cisternas y Gonzalo Uriarte Herrera.
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente:
 
 Proyecto de ley:
+
+#### Artículo único
+
+Introdúcense las siguientes modificaciones en la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos irregulares:
+
+1. Sustitúyense los artículos 1° a 8°, por los siguientes:
 
 #### Artículo 1°
 
@@ -62,11 +68,11 @@ Vencido el plazo de cinco años a que se refiere este artículo o su prórroga, 
 
 Una vez otorgada la recepción definitiva del loteo podrá requerirse la regularización de las edificaciones en conformidad a las normas generales, quedando sin efecto la prohibición a que se refiere el inciso sexto, la que deberá ser alzada, en caso de que haya sido inscrita.
 
-#### Artículo 5º
+#### Artículo 5°
 
-Tratándose de loteos declarados en situación irregular de conformidad con la ley N° 16.741 que, en su totalidad o parte de los mismos cuenten con urbanización suficiente, el Servicio de Vivienda y Urbanización respectivo podrá solicitar la recepción definitiva, parcial o total.
+Tratándose de loteos declarados en situación irregular en conformidad con la ley N° 16.741, que en su totalidad o parte de los mismos cuenten con urbanización suficiente, el Servicio de Vivienda y Urbanización respectivo deberá solicitar la recepción definitiva, parcial o total.
 
-Para los efectos del presente artículo se entenderá por urbanización suficiente si el loteo cuenta, a lo menos, con un informe de dotación, conexión o certificado de pago de cuentas emitido por la respectiva empresa de agua potable, alcantarillado y electricidad.
+Para los efectos de este artículo se entenderá por urbanización suficiente si el loteo cuenta, a lo menos, con agua potable, electricidad y solución sanitaria, lo que deberá ser comprobado con un informe de dotación, conexión o comprobante de pago de cuentas emitido por la respectiva entidad prestadora del servicio.
 
 #### Artículo 6°
 
@@ -82,7 +88,9 @@ La recepción provisoria otorgada conforme a esta ley habilitará al interesado,
 
 Asimismo, el certificado de recepción provisoria podrá ser presentado ante las empresas de servicios de distribución domiciliaria con la finalidad de obtener las conexiones a las redes correspondientes. En estos casos, los consumos de los servicios serán de cargo de los solicitantes.
 
-A partir de la recepción provisoria, en conformidad a lo dispuesto en la ley N° 18.695, Orgánica Constitucional de Municipalidades, los municipios estarán facultados para celebrar convenios con otros órganos de la administración del Estado, o con empresas de servicios básicos, como electricidad, agua potable, alcantarillado y otros, para los efectos de dotar de servicios a los loteos objeto del procedimiento de regularización de esta ley o para ejecutar la urbanización faltante.
+A partir de la recepción provisoria, en conformidad a lo dispuesto en la ley N° 18.695, Orgánica Constitucional de Municipalidades, los municipios estarán facultados para celebrar convenios con otros órganos de la administración del Estado, o con empresas de servicios básicos, como electricidad, agua potable, alcantarillado y otros, para los efectos de dotar de servicios a los loteos objeto del procedimiento de regularización de esta ley o para ejecutar la urbanización faltante.".
+
+2. Agréganse los siguientes artículos 9°, 10 y 11:
 
 #### Artículo 9°
 
@@ -92,20 +100,28 @@ Artículo l0.- Los funcionarios municipales no tendrán la responsabilidad a que
 
 #### Artículo 11
 
-El Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, podrá impartir instrucciones para la aplicación de las disposiciones de esta ley.
+El Ministerio de Vivienda y Urbanismo, a través de la División de Desarrollo Urbano, podrá impartir instrucciones para la aplicación de las disposiciones de esta ley.".
 
-Habiéndose cumplido con lo establecido en el Nº 1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
+#### Artículo transitorio
 
-Santiago, 17 de diciembre de 2007.- MICHELLE BACHELET JERIA, Presidenta de la República.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.- Belisario Velasco Baraona, Ministro del Interior.
+Tratándose de loteos a que se refieren los artículos 1°, 5° y 6° del texto original de la ley N°20.234, que se encuentren en trámite de regularización, les serán aplicables las nuevas disposiciones del artículo único de la presente ley, en todo aquello que les pudiere resultar favorable.".
 
-Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
+Habiéndose cumplido con lo establecido en el N° l° del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
-Tribunal Constitucional
+Santiago, 13 de enero de 2012.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.- Rodrigo Hinzpeter Kirberg, Ministro del Interior y Seguridad Pública.
 
-Proyecto de ley que establece un procedimiento de saneamiento y regularización de loteos
+Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
 
-El Secretario del Tribunal Constitucional, quien suscribe, certifica que el Senado de la República envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de los incisos primero, tercero, quinto y sexto del artículo 4º del mismo, y que por sentencia de 27 de noviembre de dos mil siete en los autos Rol Nº 992-O7- CPR.
+TRIBUNAL CONSTITUCIONAL
 
-Declaró: Que los incisos primero, tercero, quinto y sexto del artículo 4º del proyecto remitido son constitucionales.
+Proyecto de ley que modifica la ley N° 20.234, que establece un procedimiento de saneamiento y regularización de loteos irregulares, y renueva su vigencia. (Boletín N° 6830-14).
 
-Santiago, 28 de noviembre de 2007.- Rafael Larraín Cruz, Secretario.
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control preventivo de constitucionalidad respecto del texto sustitutivo del artículo 4° de la ley N° 20.234, propuesto por el numeral N° 1 del artículo único del proyecto y por sentencia de 27 de diciembre de 2011 en los autos Rol N°2138-11-CPR.
+
+Se declara:
+
+1°. Que las disposiciones contenidas en los incisos primero, segundo, tercero, quinto, sexto y séptimo del artículo 4° de la ley N° 20.234, cuyo texto sustituye el numeral 1 del artículo único del proyecto de ley remitido, son constitucionales.
+
+2°. Que este Tribunal Constitucional no emitirá pronunciamiento, en examen preventivo de constitucionalidad, respecto de las disposiciones contenidas en los incisos cuarto, octavo y noveno del artículo 4° de la ley N° 20.234, cuyo texto sustituye el numeral 1 del artículo único del proyecto de ley remitido, por no ser propias de ley orgánica constitucional.
+
+Santiago, 27 de diciembre de 2011.- Marta de la Fuente Olguín, Secretaria.
