@@ -1,0 +1,9 @@
+AUTORIZA INCORPORACIÓN DE ESPECIES EN CONCESIÓN DE ACUICULTURA EN CONCESIÓN DE ACUICULTURA
+
+Mediante resolución 3.852, de 7 de noviembre de 2011, Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, se resolvió:
+
+1.- Autorízase a Acuinova Chile S.A., sociedad chilena, RUT 95.023.000-2, con domicilio en Paseo Presidente Errázuriz Echaurren 2631, piso 6, Providencia, Santiago, para incorporar el cultivo del grupo de especies salmónidos, solicitud 210111071, del 2 de marzo de 2010, en la concesión de acuicultura de porción de agua y fondo de mar, otorgada por resolución 1.501, del 1 de agosto de 2003, modificada por resolución 981, del 22 de agosto de 2008, ambas del Ministerio de Defensa Nacional, Subsecretaría de Marina y modificada por resolución exenta 5.250, de 27 de julio de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, ubicada en Canal Pulluche, Caleta Campamento, Isla Rivero, comuna y provincia de Aysén, XI Región de Aysén del General Carlos Ibáñez del Campo.
+
+2.- El concesionario deberá dar cabal cumplimiento al proyecto técnico y cronograma de actividades, aprobado por resolución exenta 1.346, de 24 de junio de 2003, del Ministerio de Economía, Fomento y Reconstrucción, Subsecretaría de Pesca, modificada por resolución exenta 2.772, de 8 de septiembre de 2010, y modificado por resolución exenta 2.775, de 17 de octubre de 2011, ambas del Ministerio de Economía, Fomento y Turismo, Subsecretaría de Pesca.
+
+Santiago, 27 de diciembre de 2011.- Por orden del Subsecretario para las Fuerzas Armadas, Gonzalo Fuenzalida del Solar, Abogado División Jurídica.
