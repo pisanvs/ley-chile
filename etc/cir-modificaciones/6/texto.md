@@ -1,0 +1,7 @@
+MODIFICA CRITERIO DE CIRCULAR N° 66, DE 1999, RESPECTO A REQUISITO QUE DEBE CUMPLIRSE PARA GOZAR DEL CRÉDITO TRIBUTARIO DE LA LEY N° 19.606
+
+Extracto de Circular del Servicio de Impuestos Internos N°6, de fecha 20 de enero de 2012, la cual tiene por objeto modificar el criterio contenido en Circular N° 66, de 1999, respecto al requisito que deben cumplir los contribuyentes propietarios de embarcaciones y aeronaves, de requerir la anotación, al margen del registro, de la obligación de radicación que establece la ley N° 19.606, para gozar del crédito tributario que establece dicha ley. La obligación de requerir la referida anotación al margen del registro, resulta exigible para todos los contribuyentes propietarios de las embarcaciones y aeronaves a que se refiere la letra a), del N° 1, de la ley N° 19.606, sea que presten o no, servicios de transporte internacional.
+
+Las nuevas instrucciones contenidas en la presente Circular, rigen a contar de su publicación en extracto en el Diario Oficial, afectando en consecuencia, a los créditos tributarios que establece la ley N° 19.606, que se devenguen a partir de la fecha de dicha publicación.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en enero de 2012.
