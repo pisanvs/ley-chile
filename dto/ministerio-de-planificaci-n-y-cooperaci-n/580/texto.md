@@ -12,7 +12,7 @@ a) Los integrantes del Consejo serán designados por el Presidente de la Repúbl
 
 b) Los integrantes del Consejo desempeñarán sus funciones sin percibir por ello remuneración alguna.
 
-c) Las sesiones del Consejo se realizarán una vez al mes y requerirán un quórum para sesionar del cincuenta por ciento de sus miembros para en primera citación, y de los presentes en segunda citación.
+c) La sesiones del Consejo se realizarán trimestralmente y requerirán un quórum para sesionar del cincuenta por ciento de sus miembros en primera citación, y de los presentes en segunda citación.
 
 d) Oficinará como Secretario de Actas el funcionario del Servicio Nacional de la Mujer, que la Directora determine. De estas actas se llevará un registro y una síntesis de los acuerdos y materias más relevantes se remitirá anualmente al Presidente de la República.
 
