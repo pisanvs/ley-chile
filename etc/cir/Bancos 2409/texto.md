@@ -2662,7 +2662,7 @@ Esa opinión se fundamenta en que, en esos casos, existen dos patrimonios, uno d
 
 La Ley sobre Cuentas Corrientes Bancarias y Cheques, en su artículo 22, expresa: "...la Superintendencia dictará normas de carácter general destinadas a sancionar con multa a aquellos bancos respecto de los cuales pueda presumirse que, por el número de cheques que protestan en cada semestre, no dan cumplimiento cabal a las instrucciones sobre apertura de cuentas corrientes bancarias."
 
-Concordante con dicho precepto, al término de cada período semestral este Organismo efectúa una evaluación de la situación individual de cada banco y del porcentaje de protestos de cheques que registra en relación con el término medio que arroja la banca en general. Sobre la base de dicha evaluación, esta Superintendencia puede aplicar sanciones, de conformidad con el artículo 19 de la Ley General de Bancos, a todos aquellos bancos cuya clientela acuse protestos que excedan en un porcentaje importante al promedio general.
+Concordante con dicho precepto, al término de cada período semestral y como consecuencia de una evaluación del comportamiento de los protestos que registra cada uno de los bancos, esta Superintendencia puede aplicar sanciones, de conformidad con el artículo 19 de la Ley General de Bancos, a aquellos bancos cuya clientela acuse protestos que excedan el 1% de los cheques presentados.
 
 ### 2. Cuentacorrentistas con más de una cuenta corriente en el mismo banco
 
