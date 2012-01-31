@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A CULTIVOS PROMUSSEL LTDA.
+
+La Décima Dirección Regional Puerto Montt, del Servicio Impuestos Internos, por resolución Ex. Nº 77312000422 de fecha 16 de enero de 2012, otorga a contar del 1º del mes siguiente de esta publicación, al contribuyente Cultivos Promussel Ltda., RUT Nº 76.081.259-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la compra de especies hidrobiológicas, establecido en la resolución exenta Nº 3.311 del 30 de junio de 2000, de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1º de julio de 2000.
