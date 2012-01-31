@@ -14,7 +14,7 @@ Los partidos políticos son asociaciones voluntarias, dotadas de personalidad ju
 
 #### Artículo 2°
 
-Son actividades propias de los partidos políticos sólo las conducentes a obtener para sus candidatos el acceso constitucional a los cargos públicos de elección popular, para lo cual y con el objeto de poner en práctica los principios y postulados de sus programas, podrán participar en los procesos electorales y plebiscitarios en la forma que determine la ley orgánica constitucional respectiva. Asimismo, podrán asistir, sólo con derecho a voz, mediante un representante debidamente acreditado en la forma que señale el Director del Servicio Electoral, a las actividades de las juntas inscriptoras establecidas por la ley 18.556.
+Son actividades propias de los partidos políticos sólo las conducentes a obtener para sus candidatos el acceso constitucional a los cargos públicos de elección popular, para lo cual y con el objeto de poner en práctica los principios y postulados de sus programas, podrán participar en los procesos electorales y plebiscitarios en la forma que determine la ley orgánica constitucional respectiva.
 
 Los partidos políticos podrán, además:
 
@@ -48,7 +48,7 @@ Los partidos políticos quedarán legalmente constituidos una vez practicada su 
 
 #### Artículo 5°
 
-Para constituir un partido político, sus organizadores, que deberán ser a lo menos cien ciudadanos inscritos en los Registros Electorales y que no pertenezcan a otro partido existente o en formación, procederán a extender una escritura pública que contendrá las siguientes menciones:
+Para constituir un partido político, sus organizadores, que deberán ser a lo menos cien ciudadanos con derecho a sufragio y que no pertenezcan a otro partido existente o en formación, procederán a extender una escritura pública que contendrá las siguientes menciones:
 
 a) Individualización completa de los comparecientes;
 
@@ -72,11 +72,11 @@ La administración y la eventual liquidación del patrimonio de un partido polí
 
 #### Artículo 6°
 
-El partido político en formación podrá proceder a la afiliación de sus miembros, para lo cual dispondrá de un plazo de doscientos diez días. Será necesario que se afilie al partido un número de ciudadanos inscritos en los Registros Electorales equivalente, a lo menos, al 0,5 por ciento del electorado que hubiere sufragado en la última elección de Diputados en cada una de las Regiones donde esté constituyéndose, según el escrutinio general practicado por el Tribunal Calificador de Elecciones.
+El partido político en formación podrá proceder a la afiliación de sus miembros, para lo cual dispondrá de un plazo de doscientos diez días. Será necesario que se afilie al partido un número de ciudadanos con derecho a sufragio equivalente, a lo menos, al 0,5 por ciento del electorado que hubiere sufragado en la última elección de Diputados en cada una de las Regiones donde esté constituyéndose, según el escrutinio general practicado por el Tribunal Calificador de Elecciones.
 
-La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano inscrito en los Registros Electorales ante cualquier notario de la región respectiva, o ante el oficial del Registro Civil, si en la comuna donde la persona tenga su domicilio no hubiere notario.
+La afiliación al partido en formación se efectuará mediante declaración suscrita por cada ciudadano con derecho a sufragio ante cualquier notario de la región respectiva, o ante el oficial del Registro Civil, si en la comuna donde la persona tenga su domicilio no hubiere notario.
 
-Las declaraciones podrán ser individuales o colectivas y contendrán, respecto de cada afiliado, su nombre completo, apellidos, domicilio, fecha de nacimiento y cédula nacional de identidad. Cada afiliado deberá acreditar personalmente ante el ministro de fe su condición de ciudadano inscrito en los Registros Electorales de la Región respectiva y declarar bajo juramento no estar afiliado a otro partido político inscrito o en formación ni estar o haber estado participando en la formación de un partido político en los últimos doscientos cuarenta días.
+Las declaraciones podrán ser individuales o colectivas y contendrán, respecto de cada afiliado, su nombre completo, apellidos, domicilio, fecha de nacimiento y cédula nacional de identidad. Cada afiliado deberá acreditar personalmente ante el ministro de fe su condición de ciudadano habilitado para votar en la Región respectiva y declarar bajo juramento no estar afiliado a otro partido político inscrito o en formación ni estar o haber estado participando en la formación de un partido político en los últimos doscientos cuarenta días.
 
 La Directiva Central provisional podrá excluir, sin expresión de causa, a cualquier afiliado que haya suscrito la declaración a que se refiere este artículo. El ciudadano excluido no será considerado como afiliado al partido para efecto alguno.
 
@@ -170,7 +170,7 @@ De la afiliación a los partidos políticos
 
 #### Artículo 18
 
-Para afiliarse a un partido político se requiere ser ciudadano inscrito en los Registros Electorales. Con todo, no podrán afiliarse a partido político alguno el personal de las Fuerzas Armadas y el de las de Orden y Seguridad Pública, los funcionarios y empleados de los diferentes escalafones del Poder Judicial, del Ministerio Público, del Tribunal Calificador de Elecciones y del Servicio Electoral.
+Para afiliarse a un partido político se requiere ser ciudadano con derecho a sufragio. Con todo, no podrán afiliarse a partido político alguno el personal de las Fuerzas Armadas y el de las de Orden y Seguridad Pública, los funcionarios y empleados de los diferentes escalafones del Poder Judicial, del Ministerio Público, del Tribunal Calificador de Elecciones y del Servicio Electoral.
 
 Las personas que, estando afiliadas a un partido político, ingresaren a alguna de las instituciones señaladas en el inciso precedente, cesarán de pleno derecho en su carácter de afiliadas a aquél.
 
@@ -252,7 +252,7 @@ Corresponderán al Consejo General, entre otras, las siguientes atribuciones:
 
 Los partidos políticos deberán crear Consejos Regionales en cada una de las Regiones en que estén constituidos en conformidad a esta ley. Cada Consejo Regional estará integrado a lo menos por un presidente, un secretario y un tesorero. Sus miembros serán elegidos por los afiliados de la Región respectiva.
 
-Para ser elegido consejero regional se requerirá estar inscrito en los Registros Electorales de la Región.
+Para ser elegido consejero regional se requerirá que el domicilio electoral esté ubicado en una circunscripción de la Región.
 
 #### Artículo 28
 

@@ -1238,65 +1238,25 @@ De los plebiscitos comunales
 
 #### Artículo 99
 
-El alcalde, con
-
-acuerdo del concejo, a requerimiento
-
-de los dos tercios de los integrantes
-
-en ejercicio del mismo y a solicitud
-
-de dos tercios de los integrantes en
-
-ejercicio del consejo comunal de
-
-organizaciones de la sociedad civil,
-
-ratificada por los dos tercios de los
-
-concejales en ejercicio, o por iniciativa
-
-de los ciudadanos inscritos en los
-
-registros electorales de la comuna,
-
-someterá a plebiscito las materias
-
-de administración local relativas a
-
-inversiones específicas de desarrollo
-
-comunal, a la aprobación o
-
-modificación del plan comunal de
-
-desarrollo, a la modificación del
-
-plan regulador o a otras de interés
-
-para la comunidad local, siempre
-
-que sean propias de la esfera de
-
-competencia municipal, de acuerdo
-
-con el procedimiento establecido
-
-en los artículos siguientes.
+El alcalde, con acuerdo del concejo, a requerimiento de los dos tercios de los integrantes en ejercicio del mismo y a solicitud de dos tercios de los integrantes en ejercicio del consejo comunal de organizaciones de la sociedad civil, ratificada por los dos tercios de los concejales en ejercicio, o por iniciativa de los ciudadanos habilitados para votar en la comuna, someterá a plebiscito las materias de administración local relativas a inversiones específicas de desarrollo comunal, a la aprobación o modificación del plan comunal de desarrollo, a la modificación del plan regulador o a otras de interés para la comunidad local, siempre que sean propias de la esfera de competencia municipal, de acuerdo con el procedimiento establecido en los artículos siguientes.
 
 #### Artículo 100
 
-Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 5% de los ciudadanos inscritos en los registros electorales de la comuna al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
+Para la procedencia del plebiscito a requerimiento de la ciudadanía, deberá concurrir con su firma, ante notario público u oficial del Registro Civil, a lo menos el 10% de los ciudadanos que
+
+sufragaron en la última elección municipal
+
+al 31 de diciembre del año anterior, debiendo acreditarse dicho porcentaje mediante certificación que expedirá el Director Regional del Servicio Electoral.
 
 #### Artículo 101
 
 Dentro del décimo día de adoptado el acuerdo del concejo, de recepcionado oficialmente el requerimiento del concejo o de los ciudadanos en los términos del artículo anterior, el alcalde dictará un decreto para convocar a plebiscito. Dicho decreto se publicará, dentro de los quince días siguientes a su dictación, en el Diario Oficial y en un periódico de los de mayor circulación en la comuna. Asimismo, se difundirá mediante avisos fijados en la sede comunal y en otros lugares públicos.
 
-El decreto contendrá la o las cuestiones sometidas a plebiscito. Además, señalará la fecha de su realización, debiendo efectuarse, en todo caso, no antes de sesenta ni después de noventa días, contados desde la publicación de dicho decreto en el Diario Oficial.
+El decreto contendrá la o las cuestiones sometidas a plebiscito. La votación plebiscitaria se celebrará ciento veinte días después de la publicación de dicho decreto si ese día correspondiere a un domingo. Si así no fuere, ella se realizará el domingo inmediatamente siguiente.
 
-Los resultados del plebiscito serán vinculantes para la autoridad municipal, siempre que vote en él más del 50% de los ciudadanos inscritos en los registros electorales de la comuna.
+Los resultados del plebiscito serán vinculantes para la autoridad municipal, siempre que vote en él más del 50% de los ciudadanos habilitados para votar en la comuna.
 
-Las inscripciones electorales en la comuna respectiva se suspenderán desde el día siguiente a aquel en que se publique en el Diario Oficial el decreto alcaldicio que convoque a plebiscito y se reanudarán desde el primer día hábil del mes subsiguiente a la fecha en que el Tribunal Calificador de Elecciones comunique al Director del Servicio Electoral el término del proceso de calificación del plebiscito.
+INCISO SUPRIMIDO.-
 
 En materia de plebiscitos municipales, no habrá lugar a propaganda electoral por televisión y no serán aplicables los preceptos contenidos en los artículos 31 y 31 bis de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
 
@@ -1338,13 +1298,15 @@ De la presentación de candidaturas
 
 Las candidaturas a alcaldes y concejales sólo podrán ser declaradas hasta las veinticuatro horas del nonagésimo día anterior a la fecha de la elección correspondiente. Tales declaraciones sólo podrán incluir hasta tantos candidatos como cargos corresponda elegir en la respectiva comuna o agrupación de comunas. Las candidaturas a alcalde y concejal son excluyentes entre sí. Una misma persona sólo podrá postular al cargo de alcalde o de concejal en una sola comuna.
 
-Cada declaración debe ir acompañada de un testimonio jurado del respectivo candidato, en el cual éste afirme cumplir con todos los requisitos exigidos por los artículos 73 y 74. Dicha declaración consignará, además, el nombre, cédula de identidad y domicilio del Administrador Electoral y del Administrador Electoral General, en su caso. Esta declaración jurada será hecha ante notario público. También podrá efectuarse ante el oficial del Registro Civil correspondiente a la comuna. La falsedad de cualquiera de los hechos aseverados en la declaración, o su omisión, producen la nulidad de la declaración de ese candidato y la de todos sus efectos legales posteriores, incluyendo su elección.
+La falsedad de cualquiera de los hechos aseverados en la declaración mencionada en el artículo 3° de la ley N° 18.700, o su omisión, producen la nulidad de la declaración de ese candidato y la de todos sus efectos legales posteriores, incluyendo su elección.
 
 En el caso que un alcalde postulare a su reelección o a su elección como concejal en su propia comuna, se procederá a su subrogación en conformidad con el inciso primero del artículo 62, desde los treinta días anteriores a la fecha de la elección y hasta el día siguiente de ella. En todo caso, durante el período señalado, la presidencia del concejo sólo podrá ejercerla un concejal que no estuviere repostulando a dicho cargo. Si hubiere más de uno en tal situación la presidencia le corresponderá a quien haya obtenido individualmente mayor votación ciudadana en la elección respectiva. Si todos los concejales estuvieren repostulando, la presidencia se decidirá por sorteo entre ellos.
 
 Las declaraciones de candidaturas a alcalde y a concejales que presente un pacto electoral y los subpactos comprendidos en él podrán incluir candidatos de cualquiera de los partidos que los constituyan, independientemente de si éste se encuentra legalmente constituido en la respectiva región, siempre que lo esté en la mayoría de las regiones del país y al menos uno de los partidos suscriptores del pacto se encuentre constituido a nivel nacional.
 
-En lo demás, las declaraciones de candidaturas se regirán por los artículos 3º, 3º bis, con excepción de su inciso tercero, 4º, incisos segundo y siguientes, y 5º de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+En lo demás, las declaraciones de candidaturas se regirán por los artículos 3°, con excepción del inciso tercero para el caso de los concejales, 3° bis, con excepción de su inciso tercero, 4°, incisos segundo y siguientes, y 5° de la ley N° 18.700.
+
+Las declaraciones de candidaturas de concejales deberán ser presentadas por los partidos políticos o pactos electorales en un solo acto respecto de cada comuna.
 
 #### Artículo 108
 
@@ -1364,7 +1326,7 @@ A la formalización de un subpacto electoral le serán aplicables, en lo pertine
 
 #### Artículo 110
 
-Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos y las candidaturas a alcalde y a concejales que se incluyan, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral dentro del mismo plazo establecido en el artículo 107 para la declaración de candidaturas.
+Las declaraciones de pactos electorales, de los subpactos que se acuerden, así como la o las comunas excluidas de los subpactos, deberán constar en un único instrumento y su entrega se formalizará en un solo acto ante el Director del Servicio Electoral, dentro del mismo plazo establecido en el artículo 107 y en forma previa a las declaraciones de candidaturas.
 
 #### Artículo 111
 
@@ -1388,7 +1350,7 @@ Sin perjuicio de lo dispuesto en los incisos anteriores, los independientes que 
 
 #### Artículo 113
 
-El patrocinio de candidaturas independientes a alcalde o concejal deberá suscribirse ante un notario público de la respectiva comuna, por ciudadanos inscritos en los registros electorales de la misma. En aquellas comunas en donde no exista notario público, será competente para certificar el patrocinio el oficial del Registro Civil de la jurisdicción respectiva.
+El patrocinio de candidaturas independientes a alcalde o concejal deberá suscribirse ante un notario público de la respectiva comuna, por ciudadanos habilitados para votar en la misma. En aquellas comunas en donde no exista notario público, será competente para certificar el patrocinio el oficial del Registro Civil de la jurisdicción respectiva.
 
 No podrá figurar el mismo patrocinante en diversas declaraciones de candidaturas independientes. Si ello ocurriere, será válido solamente el patrocinio que figure en la primera declaración hecha ante el Servicio Electoral, y si se presentaren varias simultáneamente, no será válido en ninguna de ellas el patrocinio que se haya repetido.
 
@@ -1434,17 +1396,13 @@ calificación de las elecciones
 
 #### Artículo 119
 
-El escrutinio general y la calificación de las elecciones municipales serán practicados por los tribunales electorales regionales, que tendrán, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones en los Títulos IV y V de la Ley Orgánica Constitucional sobre Votaciones Populares y Escrutinios.
+El escrutinio general y la calificación de las elecciones municipales serán practicados por los tribunales electorales regionales, en conformidad a los Títulos IV y V de la ley N° 18.700, orgánica constitucional sobre votaciones populares y escrutinios, teniendo, en cuanto les fueren aplicables, todas las facultades que se conceden al Tribunal Calificador de Elecciones.
 
-Las resoluciones que dicten los tribunales electorales regionales, en el marco de la competencia que se les confiere por la presente ley, serán apelables para ante el Tribunal Calificador de Elecciones.
+Las resoluciones que dicten los Tribunales Electorales Regionales, en el marco de la competencia que se les confiere por la presente ley, serán apelables para ante el Tribunal Calificador de Elecciones.
 
-Con todo, las reclamaciones de nulidad y las solicitudes de rectificaciones, se interpondrán directamente ante el tribunal electoral regional del territorio en que se hubieren cometido los hechos que sirvan de fundamento al reclamo, dentro de los tres días siguientes a la fecha de la respectiva elección, acompañándose en el mismo acto los antecedentes en que se funde.
+El plazo para comparecer en segunda instancia será el segundo día contado desde el respectivo certificado de ingreso. La resolución que proclame a los candidatos definitivamente electos no será susceptible de recurso alguno.
 
-Dentro del plazo de dos días, contado desde el respectivo reclamo, se rendirán ante el tribunal las informaciones y contrainformaciones que se produzcan. El tribunal dictará la sentencia que resuelva las reclamaciones electorales, sean de nulidad o de rectificación de escrutinios, a más tardar al duodécimo día contado desde la fecha de la elección. Esta sentencia se notificará por el estado diario y sólo será susceptible del recurso de apelación, el que deberá deducirse dentro del plazo de segundo día, contado desde la notificación practicada por el estado diario, y será someramente fundado.
-
-El plazo para comparecer en segunda instancia será de segundo día contado desde el respectivo certificado de ingreso. La resolución que proclame a los candidatos definitivamente electos, no será susceptible de recurso alguno.
-
-Sin perjuicio de lo establecido en los incisos precedentes, las instancias jurisdiccionales electorales deberán poner en conocimiento del tribunal del crimen competente, aquellos hechos o circunstancias fundantes de la reclamación, que a su juicio revistieren las características de delito.
+Sin perjuicio de lo establecido en los incisos precedentes, las instancias jurisdiccionales electorales deberán poner en conocimiento del Juzgado de Garantía competente aquellos hechos o circunstancias fundantes de la reclamación que, a su juicio, revistieren características de delito.
 
 #### Artículo 120
 
@@ -1452,13 +1410,19 @@ Para determinar los concejales elegidos, el tribunal electoral regional deberá 
 
 #### Artículo 121
 
+Se considerará que constituyen una lista, los pactos electorales, los partidos que participen en la elección sin formar parte de un pacto electoral y cada una de las candidaturas independientes que no formen parte de un pacto electoral.
+
 Para establecer los votos de lista, el tribunal sumará las preferencias emitidas a favor de cada uno de los candidatos de una misma lista.
 
 #### Artículo 122
 
-Para determinar el cuociente electoral, los votos de lista se dividirán sucesivamente por uno, dos, tres, cuatro, y así sucesivamente, hasta formar tantos cuocientes por cada lista como concejales corresponda elegir. Todos estos cuocientes se colocarán en orden decreciente hasta tener un número de ellos igual al de cargos por elegir. El cuociente que ocupe el último de estos lugares será el cuociente electoral y permitirá determinar cuántos son los elegidos en cada lista mediante la división del total de votos de la misma por dicho cuociente.
+Se determinará el cuociente electoral, para lo cual los votos de lista se
 
-Sin embargo, en el caso del Nº 3 del artículo 123, el cuociente electoral pasará a ser el que siga en el orden decreciente a que se refiere el inciso anterior si el cargo sobrante fuera uno, o el que le siga, si fueren dos y así sucesivamente, si fueren más.
+dividirán sucesivamente por uno, dos, tres, cuatro, y así sucesivamente, hasta formar tantos cuocientes por cada lista como concejales corresponda elegir. Todos esos cuocientes se ordenarán en forma decreciente de mayor a menor y el que ocupe la posición ordinal correspondiente al número de concejales a elegir, será el cuociente electoral.
+
+Para determinar cuántos son los elegidos en cada lista se dividirá el total de votos de la
+
+lista por el cuociente electoral. Se considerará la parte entera del resultado de la división, sin aproximar y despreciando cualquiera fracción o decimal.
 
 #### Artículo 123
 
@@ -1468,7 +1432,9 @@ Para determinar los candidatos a concejales elegidos dentro de cada lista se obs
 
 2) Si el número de candidatos presentados es mayor que el de los concejales que a la lista corresponda, se proclamará elegidos a los que hubieren obtenido las más altas mayorías individuales, a menos que la lista corresponda a un pacto electoral, caso en el cual se aplicará la norma del artículo siguiente.
 
-3) Si el número de candidatos de una o más listas es inferior al de concejales que le haya correspondido, el cuociente será reemplazado en la forma señalada en el inciso segundo del artículo precedente.
+3) Si el número de candidatos presentados es inferior al de los concejales que a la lista
+
+le corresponde elegir, se proclamará elegidos a todos los candidatos de la lista, debiendo reasignar el cargo sobrante recalculando el número de cargos elegidos por las demás listas. Para ello se repetirá el cálculo del inciso segundo del artículo anterior, utilizando como cuociente electoral al cuociente que ocupe la posición ordinal que siga en el orden decreciente de los cuocientes determinados según el inciso primero del artículo anterior. Si fuesen más de uno los cargos sobrantes, para determinar el cuociente electoral, se avanzará en el orden decreciente de los cuocientes del inciso primero del artículo anterior, tantas posiciones ordinales como cargos sobrantes existan.
 
 4) Si, dentro de una misma lista, un cargo correspondiere con igual derecho a dos o más candidatos, resultará elegido aquel que haya obtenido el mayor número de preferencias individuales y, en caso de que persista la igualdad, se procederá por el tribunal electoral regional al sorteo del cargo en audiencia pública.
 
@@ -1476,13 +1442,9 @@ Para determinar los candidatos a concejales elegidos dentro de cada lista se obs
 
 #### Artículo 124
 
-Para determinar los candidatos elegidos en una lista en la cual existan pactos o subpactos, se procederá a sumar las preferencias de los candidatos incluidos en cada uno de los partidos o de los subpactos, según sea el caso.
+Para determinar los candidatos elegidos en una lista que corresponda a un pacto electoral se procederá a sumar las preferencias de los candidatos incluidos en cada uno de los partidos o de los subpactos, según sea el caso.
 
-El total de votos válidamente obtenidos por cada partido o subpacto se dividirá por uno, dos, tres, cuatro, y así sucesivamente, hasta formar por cada uno de los partidos o subpactos tantos cuocientes como cargos corresponda elegir a la lista. Todos esos cuocientes se ordenarán en forma decreciente y el que ocupe el ordinal correspondiente al último de los cargos por elegir por la lista será el cuociente de los partidos o subpactos de la misma. El total de votos de cada partido o subpacto deberá dividirse por dicho cuociente para determinar cuántos cargos corresponderá elegir al respectivo partido o subpacto.
-
-Si el número de candidatos de algún partido o subpacto fuere inferior al de concejales que les correspondiere, o si el candidato independiente que no se hubiere integrado a un subpacto, obtuviere votos suficientes para elegir más de un cargo, el cuociente aplicable pasará a ser el que siga en el orden decreciente a que se refiere el inciso anterior, si el cargo sobrante fuera uno, o, el que le siga, si fueren dos y así sucesivamente.
-
-Dentro de cada partido o subpacto, los candidatos preferirán entre sí según el número de votos que hubieren obtenido.
+Posteriormente, se repetirá el procedimiento descrito en los artículos 122 y 123, considerando para estos efectos como si fueran una lista a cada uno de los integrantes del pacto electoral, ya sea que se trate de partidos, subpactos o candidatos independientes que no hubieran subpactado, según sea el caso.
 
 #### Artículo 125
 

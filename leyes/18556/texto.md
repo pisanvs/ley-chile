@@ -26,15 +26,15 @@ Créase un Registro Electoral permanente bajo la dirección del Servicio Elector
 
 El Registro Electoral contendrá también la nómina de los demás chilenos y extranjeros mayores de 17 años, que cumplan con los requisitos para sufragar establecidos en los artículos 13 y 14 de la Constitución Política de la República.
 
-El Registro Electoral contendrá a todos los electores potenciales a que se refieren los incisos anteriores, sea que se encuentren en Chile o en el extranjero, aun cuando se encontraren con su derecho a sufragio suspendido, o hubieren perdido la ciudadanía por cualquier causa.
+El Registro Electoral contendrá a todos los electores potenciales a que se refieren los incisos anteriores, aun cuando se encontraren con su derecho a sufragio suspendido, o hubieren perdido la ciudadanía por cualquier causa.
 
-El Registro Electoral servirá de base para conformar los Padrones Electorales que deberán usarse en cada plebiscito o elección, que contendrán exclusivamente los electores con derecho a sufragio en ella, sea que se encuentren en Chile o en el extranjero.
+El Registro Electoral servirá de base para conformar los Padrones Electorales que deberán usarse en cada plebiscito o elección, que contendrán exclusivamente los electores con derecho a sufragio en ella.
 
 #### Artículo 4°
 
 El conocimiento público del Registro Electoral procederá en la forma dispuesta en el Párrafo 1° del Título II.
 
-Los datos de los padrones electorales no podrán ser usados para fines comerciales.
+Los datos del Padrón Electoral no podrán ser usados para fines comerciales.
 
 El Servicio Electoral deberá dar cumplimiento a lo previsto en la ley N° 19.628, sobre protección de la vida privada, salvo en los casos señalados en esta ley.
 
@@ -50,19 +50,19 @@ Los chilenos comprendidos en el número 3° del artículo 10 de la Constitución
 
 #### Artículo 6°
 
-Los chilenos comprendidos en los números 2° y 4° del artículo 10 y los extranjeros señalados en el artículo 14, ambos de la Constitución Política de la República, serán inscritos en el Registro Electoral desde que se acredite que cumplen los requisitos de edad y avecindamiento exigido por el inciso cuarto del artículo 13 o por el artículo 14 de la Constitución Política de la República, según corresponda.
+Los chilenos comprendidos en los números 2° y 4° del artículo 10 y los extranjeros señalados en el artículo 14, ambos de la Constitución Política de la República, serán inscritos en el Registro Electoral desde que se acredite que cumplen los requisitos de edad y avecindamiento exigido por el inciso tercero del artículo 13 o por el artículo 14 de la Constitución Política de la República, según corresponda.
 
 La inscripción procederá de forma automática en la medida que el Servicio Electoral tenga acceso a la información que acredite el cumplimiento del requisito de avecindamiento.
 
-Sin perjuicio de lo anterior, el interesado podrá presentar una solicitud de inscripción ante el Servicio Electoral en cualquiera de sus oficinas o en los consulados de Chile, acompañando los antecedentes que acrediten su avecindamiento en el país por el tiempo exigido, y declarando bajo juramento su domicilio electoral en Chile o en el extranjero. Dicha solicitud será remitida al Departamento de Extranjería del Ministerio del Interior y Seguridad Pública o a la Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, quienes, si correspondiere, emitirán un certificado que acreditará el hecho de haber cumplido el avecindamiento y lo remitirán al Servicio Electoral para que practique la correspondiente inscripción. En caso que la persona tenga su residencia en el extranjero, dicha solicitud podrá ser presentada en el Consulado de Chile respectivo. Los interesados que declaren su domicilio electoral en el extranjero deberán informar una casilla de correo electrónico, que será el medio preferente para recibir notificaciones del Servicio Electoral o, en su defecto, un domicilio. Si los interesados no informan su casilla de correo electrónico o el domicilio, dicha declaración no producirá efecto alguno.
+Sin perjuicio de lo anterior, el interesado podrá presentar una solicitud de inscripción ante el Servicio Electoral en cualquiera de sus oficinas, acompañando los antecedentes que acrediten su avecindamiento en el país por el tiempo exigido, y declarando bajo juramento su domicilio electoral en Chile. Dicha solicitud será remitida al Departamento de Extranjería del Ministerio del Interior y Seguridad Pública o a la Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, quienes, si correspondiere, emitirán un certificado que acreditará el hecho de haber cumplido el avecindamiento y lo remitirán al Servicio Electoral para que practique la correspondiente inscripción. En caso que la persona tenga su residencia en el extranjero, dicha solicitud podrá ser presentada en el Consulado de Chile respectivo.
 
 Para los efectos de esta ley se entenderá por Consulado las Oficinas Consulares, incluyendo las Secciones Consulares de una Misión Diplomática, a cargo de un funcionario de la Planta del Servicio Exterior del Ministerio de Relaciones Exteriores designado para desempeñar funciones consulares.
 
 #### Artículo 7°
 
-El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral y la mesa receptora de sufragios donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral en Chile consignado en el Registro Electoral. En caso que se trate de nuevos electores con domicilio electoral en el extranjero, el Servicio Electoral efectuará la comunicación señalada enviando una notificación al correo electrónico que señale el elector, en conformidad a lo dispuesto en el artículo 6 o, en su caso, al domicilio que este haya informado.
+El Servicio Electoral deberá comunicar a los nuevos electores el hecho de su inscripción en el Registro Electoral, entre los ciento ochenta y noventa días anteriores a la siguiente elección o plebiscito, indicando la circunscripción electoral y la mesa receptora de sufragios donde le corresponde votar, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral.
 
-El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna, en caso de circunscripciones nacionales; o país y ciudad, en caso de circunscripciones en el extranjero, donde se encuentra inscrito, su mesa de votación y si está habilitado para votar en la próxima elección.
+El Servicio Electoral deberá poner a disposición del público en forma permanente, a través de su sitio web y de una línea telefónica, un sistema de consulta donde cada elector podrá verificar mediante su número de cédula de identidad o nombre, el hecho de su inscripción, la circunscripción y comuna donde se encuentra inscrito, su mesa de votación y si está habilitado para votar en la próxima elección.
 
 ### Párrafo 3°
 
@@ -70,7 +70,7 @@ De los datos electorales
 
 #### Artículo 8°
 
-El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna, o del país y ciudad extranjera, según corresponda, a que pertenezca, el número de la mesa receptora de sufragios en que le corresponde votar y el cumplimiento del requisito de avecindamiento, si procede.
+El Registro Electoral deberá contener los nombres y apellidos de los inscritos, e indicará para cada uno el número de rol único nacional, la fecha y el lugar de nacimiento, la nacionalidad, el sexo, la profesión, el domicilio electoral, la circunscripción electoral que corresponde a dicho domicilio con identificación de la región, provincia y comuna a que pertenezca, el número de la mesa receptora de sufragios en que le corresponde votar y el cumplimiento del requisito de avecindamiento, si procede.
 
 El Registro Electoral también deberá contener los antecedentes necesarios para determinar si la persona inscrita ha perdido la ciudadanía, el derecho a sufragio o se encuentra éste suspendido.
 
@@ -80,25 +80,21 @@ Se entenderá por datos electorales los señalados en este artículo y cualquier
 
 Para el solo efecto de obtener los datos señalados en el artículo anterior, el Servicio Electoral tendrá acceso directo y permanente a los datos electorales de todas las personas registradas en el Servicio de Registro Civil e Identificación y al registro de extranjeros avecindados del Departamento de Extranjería del Ministerio del Interior y Seguridad Pública. La Jefatura Nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile deberán proporcionar, de la misma forma, la información del avecindamiento de los chilenos comprendidos en los números 2° y 4° del artículo 10 de la Constitución Política de la República.
 
-El Servicio de Registro Civil e Identificación, el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, la jefatura nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile y los consulados de Chile deberán proporcionar al Servicio Electoral información acerca de cambio de domicilio del elector o cualquier otro antecedente que resulte necesario para la inscripción de los chilenos y extranjeros en el Registro Electoral y que se encuentre en su poder, quedándole expresamente prohibido calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
+El Servicio de Registro Civil e Identificación deberá proporcionar al Servicio Electoral cualquier otro antecedente que resulte necesario para la inscripción de los chilenos y extranjeros en el Registro Electoral y que se encuentre en su poder, quedándole expresamente prohibido calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
 
 #### Artículo 10
 
-El domicilio electoral es aquel situado dentro de Chile, con el cual la persona tiene un vínculo objetivo, sea porque reside habitual o temporalmente, ejerce su profesión u oficio o desarrolla sus estudios en él. En el caso de los ciudadanos con derecho a sufragio que se encuentren en el extranjero, el domicilio electoral es aquel situado fuera de Chile, declarado como tal por el elector.
-
-No se podrá declarar como domicilio electoral la oficina o sede de un candidato o partido político, salvo que quienes lo declaren tengan una relación de trabajador dependiente con dicho partido o candidato.
-
-Tratándose de una residencia temporal, el vínculo objetivo deberá corresponder a la condición de propiedad o arriendo superior a un año del bien raíz por parte del elector, o de su cónyuge, sus padres o sus hijos.
+El domicilio electoral es aquel situado dentro de Chile, con el cual la persona tiene un vínculo objetivo, sea porque reside habitual o temporalmente, ejerce su profesión u oficio o desarrolla sus estudios en él. En el caso de los chilenos que residen en el extranjero, dicho vínculo se considerará respecto del tiempo en que residieron en Chile o de su lugar de nacimiento.
 
 Se tendrá como domicilio electoral el último domicilio declarado como tal ante el Servicio de Registro Civil e Identificación o ante el Servicio Electoral.
 
-Para efectos del registro automático de las personas referidas en los artículos 5 y 6, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación, ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, ante la jefatura nacional de extranjería y Policía Internacional de la Policía de Investigaciones de Chile o ante los consulados de Chile, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda.
+Para efectos del registro automático de las personas referidas en los artículos 5° y 6°, el domicilio electoral será el último declarado ante el Servicio de Registro Civil e Identificación o ante el Departamento de Extranjería del Ministerio del Interior y Seguridad Pública, o el acreditado para el cumplimiento del requisito de avecindamiento, según corresponda. En caso que este último domicilio se encuentre ubicado en el extranjero, el domicilio electoral corresponderá al último domicilio en Chile informado al Servicio de Registro Civil e Identificación y, a falta de éste, al lugar de nacimiento en Chile.
 
 #### Artículo 11
 
 Todo elector con derecho a sufragio deberá estar inscrito en una mesa receptora de sufragios que pertenezca a la circunscripción electoral correspondiente a su domicilio electoral.
 
-Si los antecedentes del domicilio o lugar de nacimiento con que se cuente para el registro automático de las personas referidas en los artículos 5° y 6° no permitieran al Servicio Electoral poder identificarlos con una determinada circunscripción electoral, procederá a registrarlos en la circunscripción electoral con más electores de la comuna o país con cuya información se cuente.
+Si los antecedentes del domicilio o lugar de nacimiento con que se cuente para el registro automático de las personas referidas en los artículos 5° y 6° no permitieran al Servicio Electoral poder identificarlos con una determinada circunscripción electoral, procederá a registrarlos en la circunscripción electoral con más electores de la comuna con cuya información se cuente.
 
 #### Artículo 12
 
@@ -168,13 +164,9 @@ Dentro de los cinco primeros días de cada mes el Ministerio de Justicia deberá
 
 Los órganos, servicios y tribunales señalados en este Párrafo, así como cualquier otra repartición que deba aportar datos para la conformación y actualización del Registro Electoral, deberán proporcionar todos los antecedentes que para este solo efecto requiera el Servicio Electoral y, en ningún caso, podrán excluir información, calificar los antecedentes de las personas o pronunciarse acerca del cumplimiento de los requisitos legales para el ejercicio del derecho a sufragio.
 
-#### Artículo 21 bis
-
-Sin perjuicio de lo dispuesto en los artículos anteriores, cualquier elector podrá solicitar al Servicio Electoral la actualización del Registro Electoral, para lo cual acompañará los antecedentes fundantes de su petición.
-
 #### Artículo 22
 
-Entre los ciento ochenta y los noventa días anteriores a una elección o plebiscito, el Servicio Electoral deberá informar a los electores que su derecho a sufragio ha sido suspendido o que han sido inhabilitados para votar en la siguiente elección, con indicación de la causa que dio origen a dicha suspensión o inhabilidad, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral, a la casilla de correo electrónico informado por el elector que declare su domicilio electoral en el extranjero o, en su caso, al domicilio señalado por este, de acuerdo a lo dispuesto en el artículo 6 inciso tercero.
+Entre los ciento ochenta y los noventa días anteriores a una elección o plebiscito, el Servicio Electoral deberá informar a los electores que su derecho a sufragio ha sido suspendido o que han sido inhabilitados para votar en la siguiente elección, con indicación de la causa que dio origen a dicha suspensión o inhabilidad, mediante carta certificada dirigida al domicilio electoral consignado en el Registro Electoral.
 
 ### Párrafo 5°
 
@@ -184,23 +176,21 @@ De las modificaciones de los datos electorales
 
 El Servicio Electoral modificará los datos de las personas inscritas en el Registro Electoral, considerando las siguientes circunstancias:
 
-a) Las solicitudes de cambio de domicilio electoral y las actualizaciones de domicilio electoral realizadas al renovar los inscritos su cédula de identidad o pasaporte.
+a) Las solicitudes de cambio de domicilio electoral y las actualizaciones de domicilio electoral realizadas al renovar los inscritos su cédula de identidad.
 
 b) Las rectificaciones de inscripciones de nacimiento de los ciudadanos, con indicación de los datos originales que fueron objeto de la rectificación.
 
-c) Cualquier otro cambio o solicitud de cambio en los datos señalados en el artículo 8°.
+c) Cualquier otro cambio en los datos señalados en el artículo 8° de esta ley.
 
 #### Artículo 24
 
-Con ocasión de la obtención o renovación de cédula de identidad o pasaporte, el Servicio de Registro Civil e Identificación o el correspondiente consulado de Chile deberán informar a la persona su domicilio electoral registrado, otorgándole la posibilidad de actualizarlo, declarando bajo juramento uno nuevo en ese acto, si así lo desea.
+Con ocasión de la obtención o renovación de cédula de identidad o pasaporte, el Servicio de Registro Civil e Identificación deberá informar a la persona su domicilio electoral registrado, otorgándole la posibilidad de actualizarlo, declarando bajo juramento uno nuevo en ese acto, si así lo desea.
 
 #### Artículo 25
 
-Sin perjuicio de lo dispuesto en el artículo anterior, el cambio de domicilio podrá también efectuarse directamente ante el Servicio Electoral, en las oficinas que este organismo disponga en el país, o ante la jefatura nacional de Extranjería y Policía Internacional de la Policía de Investigaciones de Chile, al entrar en el territorio nacional o salir de él, mediante una solicitud escrita firmada por el peticionario en formularios especialmente diseñados por el Servicio Electoral, que se encontrarán además disponibles en su sitio web, donde declarará bajo juramento su nuevo domicilio electoral. Los ciudadanos chilenos residentes en el extranjero podrán presentar la solicitud a través del respectivo consulado.
+Sin perjuicio de lo dispuesto en el artículo anterior, el cambio de domicilio podrá también efectuarse directamente ante el Servicio Electoral, mediante una solicitud escrita firmada por el peticionario en formularios especialmente diseñados por este organismo, donde declarará bajo juramento su nuevo domicilio electoral. Dichas solicitudes deberán ser presentadas en las oficinas que el Servicio Electoral disponga en el país. Los ciudadanos chilenos residentes en el extranjero podrán presentar la solicitud a través del respectivo Consulado.
 
-Para efectos de lo establecido en el inciso anterior, la Dirección General de Asuntos Consulares y de Inmigración del Ministerio de Relaciones Exteriores implementará las medidas necesarias para facilitar la inscripción en el Registro Electoral o el trámite de cambio de domicilio electoral de los chilenos residentes en el extranjero y otras tendientes al mejor cumplimiento de sus funciones vinculadas al ejercicio del sufragio en el extranjero, de acuerdo a las instrucciones que, para estos efectos, dicte el Consejo Directivo del Servicio Electoral.
-
-El Servicio Electoral deberá notificar al elector, mediante carta certificada dirigida al nuevo domicilio electoral en Chile, que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral y mesa de sufragio donde le corresponderá votar. A los electores cuyo nuevo domicilio se encuentre en el extranjero, se les notificará mediante correo electrónico a la casilla que se informe para tales efectos durante el cambio de domicilio o, en su caso, mediante carta certificada enviada al domicilio señalado por estos.
+El Servicio Electoral deberá notificar al elector, mediante carta certificada dirigida al nuevo domicilio electoral, que ha procedido al cambio de su domicilio en el registro, indicando la circunscripción electoral y mesa de sufragio donde le corresponderá votar.
 
 El Servicio Electoral podrá disponer de otras formas para solicitar el cambio de domicilio electoral, ya sea a distancia o por medios electrónicos, siempre que éstas garanticen la confiabilidad en la identidad del elector y la seguridad de sus datos.
 
@@ -210,7 +200,7 @@ El Servicio Electoral podrá convenir con otros organismos públicos la recepci�
 
 #### Artículo 27
 
-El domicilio electoral será aquel que registre el Servicio Electoral.
+Para todos los efectos legales se considerará como domicilio electoral el último declarado por el elector ante el Servicio de Registro Civil e Identificación o ante el Servicio Electoral.
 
 ### Párrafo 6°
 
@@ -218,7 +208,7 @@ De la suspensión de inscripciones, actualizaciones y modificaciones
 
 #### Artículo 28
 
-Con el objeto de elaborar los padrones electorales que se utilizarán en cada elección o plebiscito, las inscripciones en el Registro Electoral que provengan de solicitudes de acreditación de avecindamiento conforme al artículo 6°, las actualizaciones de las circunstancias contenidas en las letras a) a la e) del artículo 13 y las modificaciones señaladas en el artículo 23 se suspenderán a los ciento cuarenta días anteriores a cada elección o en la fecha de publicación del decreto que convoque a plebiscito, reanudándose a partir del primer día del mes siguiente de la elección o plebiscito.
+Con el objeto de elaborar los padrones electorales que se utilizarán en cada elección o plebiscito, las inscripciones en el Registro Electoral que provengan de solicitudes de acreditación de avecindamiento conforme al artículo 6°, las actualizaciones de las circunstancias contenidas en las letras a) a la e) del artículo 13 y las modificaciones señaladas en el artículo 23 se suspenderán a los ciento veinte días anteriores a cada elección o plebiscito, reanudándose a partir del primer día del mes siguiente de la elección o plebiscito.
 
 #### Artículo 29
 
@@ -232,63 +222,69 @@ DEL PADRÓN ELECTORAL Y DE SU AUDITORÍA
 
 Del Padrón Electoral
 
+#### Artículo 28
+
+Un ejemplar de cada Registro llevará impresas las palabras "Registro Electoral Local". Dicho ejemplar será el único que se utilizará en los actos electorales o plebiscitarios y servirá para formar el Archivo Electoral Local, conforme lo disponga el Director del Servicio Electoral. La custodia y responsabilidad del Archivo será del Secretario de la Junta Electoral correspondiente.
+
+El otro ejemplar, que llevará impresas las palabras "Registro del Servicio Electoral", estará destinado a formar el Archivo Electoral General de todo el país, que estará bajo la custodia y responsabilidad del Director del Servicio Electoral. Los Registros de este Archivo no podrán retirarse de las oficinas del Servicio Electoral en ningún caso ni por motivo alguno.
+
 #### Artículo 30
 
-El Servicio Electoral deberá elaborar dos padrones electorales, uno para electores que sufraguen en territorio nacional, y otro para electores que sufraguen en el extranjero. Cada uno de estos padrones, contendrá la nómina de los electores inscritos en el Registro Electoral que reúnen los requisitos necesarios para ejercer el derecho a sufragio conforme a los antecedentes conocidos por él, dentro o fuera de Chile, según corresponda.
+El Servicio Electoral deberá elaborar un Padrón Electoral, el que contendrá la nómina de los electores inscritos en el Registro Electoral que reúnen los requisitos necesarios para ejercer el derecho a sufragio conforme a los antecedentes conocidos por él.
 
-Cada elector podrá figurar en un padrón electoral y sólo una vez en él.
+Cada elector podrá figurar sólo una vez en él.
 
 #### Artículo 31
 
-Para cada uno de los padrones electorales, el Servicio Electoral determinará un Padrón Electoral con carácter de provisorio, ciento veinte días antes de una elección o plebiscito. Éste contendrá una nómina de las personas inscritas en el Registro Electoral que, conforme a los antecedentes conocidos por el Servicio Electoral antes de los ciento cuarenta días previos al acto electoral, reúnan a la fecha de la elección o plebiscito correspondiente los requisitos necesarios para ejercer el derecho a sufragio.
+El Servicio Electoral determinará un Padrón Electoral con carácter de provisorio, ciento diez días antes de una elección o plebiscito. Éste contendrá una nómina de las personas inscritas en el Registro Electoral que, conforme a los antecedentes conocidos por el Servicio Electoral antes de los ciento veinte días previos al acto electoral, reúnan a la fecha de la elección o plebiscito correspondiente los requisitos necesarios para ejercer el derecho a sufragio.
 
-Cada Padrón Electoral con carácter de provisorio será objeto de auditorías conforme al Párrafo 2° de este Título.
+El Padrón Electoral con carácter de provisorio será objeto de auditorías conforme al Párrafo 2° de este Título.
 
-Estos padrones se ordenarán en forma alfabética y contendrán los nombres y apellidos del elector, su número de rol único nacional, sexo, domicilio electoral con indicación de la circunscripción electoral, comuna, provincia y región a la que pertenezcan, o del país y ciudad extranjera, según sea el caso, y el número de mesa receptora de sufragio en que le corresponde votar.
+Este Padrón se ordenará en forma alfabética y contendrá los nombres y apellidos del elector, su número de rol único nacional, sexo, domicilio electoral con indicación de la circunscripción electoral, comuna, provincia y región a la que pertenezcan y el número de mesa receptora de sufragio en que le corresponde votar.
 
-Junto con cada Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará dos nóminas provisorias de Inhabilitados, que incluirá a las personas inscritas que se encuentren inhabilitadas para votar en la correspondiente elección o plebiscito, y que sufraguen dentro o fuera de Chile, según corresponda, con indicación de la causal que dio lugar a dicha condición.
+Junto con este Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará una Nómina Provisoria de Inhabilitados, que incluirá a las personas inscritas que se encuentren inhabilitadas para votar en la correspondiente elección o plebiscito, con indicación de la causal que dio lugar a dicha condición.
 
-Los padrones electorales y las nóminas provisorias de Inhabilitados son públicos, sólo en lo que se refiere a los datos señalados en el inciso tercero, debiendo los requirentes pagar únicamente los costos directos de la reproducción. Los partidos políticos recibirán del Servicio Electoral, dentro de los cinco días siguientes a su emisión, en forma gratuita, copia de ellos en medios magnéticos o digitales, no encriptados y procesables por software de general aplicación. Lo mismo se aplicará para los candidatos independientes, respecto de las circunscripciones electorales donde participen.
+El Padrón Electoral y la Nómina Provisoria de Inhabilitados son públicos, sólo en lo que se refiere a los datos señalados en el inciso tercero. Los partidos políticos podrán tener acceso y copia de ellos en medios magnéticos o digitales, no encriptados y procesables por software de general aplicación, debiendo pagar sólo los costos directos de la reproducción. Lo mismo se aplicará para los candidatos independientes, respecto de las circunscripciones electorales donde participan.
 
 Sólo las personas inhabilitadas podrán conocer, además, la respectiva causal que las inhabilita.
 
 #### Artículo 32
 
-Para cada uno de los padrones electorales, el Servicio Electoral determinará un padrón electoral con carácter de auditado, noventa días antes de una elección o plebiscito. Éstos corresponderán a los padrones electorales con carácter de provisorio, después de ser auditado por las empresas de auditoría a las que se refiere el título II y que haya sido modificado sólo como consecuencia de las correcciones sugeridas por las empresas de auditoría en sus informes, si las hubiere, y que, conforme a lo señalado en el artículo 43, sean aceptadas por el Servicio Electoral.
+El Servicio Electoral determinará un Padrón Electoral con carácter de auditado, setenta días antes de una elección o plebiscito. Éste corresponderá al Padrón Electoral con carácter de provisorio, después de ser auditado por las empresas de auditoría a las que se refiere el Título II de esta ley y que haya sido modificado sólo como consecuencia de las correcciones sugeridas por las empresas de auditoría en sus informes, si las hubiere, y que, conforme a lo señalado en el artículo 43 de esta ley, sean aceptadas por el Servicio Electoral.
 
-Los padrones electorales con carácter de auditado podrán ser objeto de reclamación de conformidad a lo establecido en la presente ley.
+El Padrón Electoral con carácter de auditado podrá ser objeto de reclamación de conformidad a lo establecido en la presente ley.
 
-Junto con cada Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará dos nóminas auditadas de inhabilitados, modificando las anteriores en base a las correcciones sugeridas por las empresas de auditoría que haya aceptado, si las hubiere.
+Junto con este Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará una Nómina Auditada de Inhabilitados, modificando la anterior en base a las correcciones sugeridas por las empresas de auditoría que haya aceptado, si las hubiere.
 
-Los padrones electorales con carácter de auditado y las nóminas auditadas de inhabilitados deberán ser publicados por el Servicio Electoral en su sitio web con noventa días de antelación a la fecha que deba verificarse una elección o plebiscito.
+El Padrón Electoral con carácter de auditado y la Nómina Auditada de Inhabilitados deberán ser publicados por el Servicio Electoral en su sitio web con setenta días de antelación a la fecha que deba verificarse una elección o plebiscito.
 
-Serán aplicables a los padrones y nóminas antes mencionados las disposiciones contenidas en los incisos tercero, quinto y sexto del artículo anterior.
+Serán aplicables al Padrón y la Nómina antes mencionados las disposiciones contenidas en los incisos tercero, quinto y sexto del artículo anterior.
 
 #### Artículo 33
 
-El Servicio Electoral determinará dos padrones electorales, uno para electores que sufraguen dentro del país y otro para quienes lo hagan en el extranjero, con carácter de definitivo, sesenta días antes de una elección o plebiscito. Éstos corresponderán a los padrones electorales con carácter de auditado, que hayan sido modificados como consecuencia de las reclamaciones acogidas, si las hubiere, de conformidad a lo dispuesto en el título siguiente.
+El Servicio Electoral determinará un Padrón Electoral con carácter de definitivo, treinta días antes de una elección o plebiscito. Éste corresponderá al Padrón Electoral con carácter de auditado, que haya sido modificado sólo como consecuencia de las reclamaciones acogidas, si las hubiere, de conformidad con lo dispuesto en el Título siguiente.
 
-Junto con cada Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará dos nóminas definitivas de inhabilitados, una para electores que no pueden sufragar en el territorio nacional y otra para electores que no pueden sufragar en el extranjero, modificando las anteriores de acuerdo a las reclamaciones acogidas.
+Junto con este Padrón, y dentro del mismo plazo, el Servicio Electoral elaborará una Nómina Definitiva de Inhabilitados, modificando la anterior de acuerdo a las reclamaciones acogidas.
 
-El Servicio Electoral publicará en su sitio web, con al menos sesenta días de anticipación a la fecha en que deba verificarse una elección o plebiscito, los padrones electorales con carácter de definitivo, que contengan las nóminas de electores con derecho a sufragio en la respectiva elección o plebiscito, que lo ejerzan dentro o fuera de Chile, según corresponda, y las nóminas definitivas de electores inhabilitados.
+El Servicio Electoral publicará en su sitio web, con al menos treinta días de anticipación a la fecha en que deba verificarse una elección o plebiscito, el Padrón Electoral con carácter de definitivo, que contiene la nómina de electores con derecho a sufragio en la respectiva elección o plebiscito y la Nómina Definitiva de Electores Inhabilitados.
 
-Serán aplicables a los padrones y nóminas antes mencionados las disposiciones contenidas en los incisos tercero, quinto y sexto del artículo 31.
+Serán aplicables al Padrón y la Nómina antes mencionados las disposiciones contenidas en los incisos tercero, quinto y sexto del artículo 31.
 
 #### Artículo 34
 
-El Servicio Electoral deberá publicar en su sitio web las modificaciones efectuadas a los padrones electorales y a las nóminas de Inhabilitados que provengan de las reclamaciones acogidas en conformidad a esta ley, o de las correcciones sugeridas por las empresas de auditoría que hayan sido aceptadas por el Servicio.
+El Servicio Electoral deberá publicar en su sitio web las modificaciones efectuadas al Padrón Electoral y la Nómina de Inhabilitados que provengan de las reclamaciones acogidas en conformidad a esta ley, o de las correcciones sugeridas por las empresas de auditoría que hayan sido aceptadas por el Servicio.
 
 #### Artículo 35
 
-Para la segunda votación de la elección presidencial que se realice en virtud del inciso segundo del artículo 26 de la Constitución Política de la República se utilizarán los mismos padrones electorales de la primera votación.
+Para la segunda votación de la elección presidencial que se realice en virtud del inciso segundo del artículo 26 de la Constitución Política de la República se utilizará el mismo Padrón Electoral de la primera votación.
 
-Cuando deba repetirse la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República, se utilizarán los mismos padrones electorales de la primera votación de la elección que no pudo perfeccionarse, ya sea por fallecimiento de un candidato para la segunda votación o por impedimento absoluto del presidente electo para tomar posesión del cargo.
+Cuando deba repetirse la elección presidencial, en virtud de ocurrir alguna de las circunstancias contempladas en los incisos cuarto del artículo 26 o segundo del artículo 28 de la Constitución Política de la República, se utilizará el mismo Padrón Electoral de la primera votación de la elección que no pudo perfeccionarse, ya sea por fallecimiento de un candidato para la segunda votación o por impedimento absoluto del presidente electo para tomar posesión del cargo.
 
 #### Artículo 36
 
-El Servicio Electoral, en la misma oportunidad en que debe determinar los padrones electorales con carácter de definitivo, deberá confeccionar los Padrones de Mesa que se utilizarán en la respectiva elección o plebiscito.
+El Servicio Electoral, en la misma oportunidad en que debe determinar el Padrón Electoral con carácter de definitivo, deberá confeccionar los Padrones de Mesa que se utilizarán en la respectiva elección o plebiscito.
 
-A cada Mesa Receptora de Sufragios, en Chile o en el extranjero, le corresponderá un Padrón de Mesa.
+A cada Mesa Receptora de Sufragios le corresponderá un Padrón de Mesa.
 
 Cada Padrón de Mesa contendrá una nómina, ordenada alfabéticamente, de las personas habilitadas para votar en la Mesa Receptora de Sufragios respectiva.
 
@@ -298,17 +294,21 @@ Cada elector podrá figurar sólo en un Padrón de Mesa y una vez en él.
 
 #### Artículo 37
 
-Los partidos políticos podrán solicitar al Servicio Electoral, con al menos sesenta días de anticipación a una elección o plebiscito, un listado impreso de cada Padrón de Mesa, que contendrá los nombres, apellidos y número de rol único nacional de los electores. Los candidatos independientes podrán solicitar dicha información respecto de las circunscripciones electorales donde participen.
-
-El Servicio Electoral deberá entregar el referido listado con al menos treinta días de anticipación a una elección o plebiscito.
+Veinte días antes de la elección o plebiscito, el Servicio Electoral en forma gratuita pondrá a disposición de los partidos que participan en la elección o plebiscito, un listado impreso de cada Padrón de Mesa, que contendrá los nombres, apellidos y número de rol único nacional de los electores. Igual información deberá entregarse a los candidatos independientes respecto de las circunscripciones electorales donde participan.
 
 ### Párrafo 2°
 
 De las Auditorías
 
+#### Artículo 37
+
+Se inscribirán en los Registros Electorales los chilenos que hayan cumplido dieciocho años de edad.
+
+Podrán, además, inscribirse los extranjeros que hayan cumplido dieciocho años de edad y que se encuentren avecindados en Chile por más de cinco años. El requisito constitucional de avencidamiento en Chile se acreditará con un certificado otorgado por el Ministerio del Interior en que conste dicha circunstancia.
+
 #### Artículo 38
 
-El Registro Electoral, los padrones electorales con carácter de provisorio y las nóminas provisorias de inhabilitados serán sometidos a un proceso de auditoría con el objeto de revisar y determinar si contienen los antecedentes dispuestos por la ley. También se revisarán los procedimientos, sistemas de información, mecanismos de control y programas computacionales utilizados en su elaboración.
+El Registro Electoral, el Padrón Electoral con carácter de provisorio y la Nómina Provisoria de Inhabilitados serán sometidos a un proceso de auditoría con el objeto de revisar y determinar si contienen los antecedentes dispuestos por la ley. También se revisarán los procedimientos, sistemas de información, mecanismos de control y programas computacionales utilizados en su elaboración.
 
 #### Artículo 39
 
@@ -328,19 +328,19 @@ Las empresas serán seleccionadas por un período de ocho años. Dentro de ese p
 
 #### Artículo 41
 
-Las empresas de auditoría deberán revisar anualmente y emitir un informe que contendrá su opinión, sobre los procedimientos, sistemas de información, mecanismos de control y programas computacionales del Servicio Electoral, destinados a la inscripción de los electores en el Registro Electoral y a la confección de los padrones electorales y las nóminas de inhabilitados. Dicho informe deberá señalar la capacidad de ellos para cumplir las funciones para la cual están requeridos, sus errores, si los hubiere, y los factores de riesgo que pudieran afectar su correcto funcionamiento. El informe deberá contener también sugerencias respecto a la solución de los problemas detectados.
+Las empresas de auditoría deberán revisar anualmente y emitir un informe que contendrá su opinión, sobre los procedimientos, sistemas de información, mecanismos de control y programas computacionales del Servicio Electoral, destinados a la inscripción de los electores en el Registro Electoral y a la confección del Padrón Electoral y la Nómina de Inhabilitados. Dicho informe deberá señalar la capacidad de ellos para cumplir las funciones para la cual están requeridos, sus errores, si los hubiere, y los factores de riesgo que pudieran afectar su correcto funcionamiento. El informe deberá contener también sugerencias respecto a la solución de los problemas detectados.
 
 En los años que correspondan elecciones generales, el informe deberá ser emitido doscientos diez días antes de la elección.
 
 #### Artículo 42
 
-Determinado los padrones electorales con carácter de provisorio y las nóminas provisorias de inhabilitados conforme al artículo 31 de esta ley, las empresas de auditoría procederán a su revisión, que tendrá por objeto entregar una opinión respecto de si ellos cumplen con lo dispuesto en la ley. Terminada la revisión elaborarán un informe que deberá ser emitido ochenta días antes de la elección o plebiscito y que contendrá, al menos, un detalle de los errores encontrados con indicación de una sugerencia respecto de cómo pueden ser subsanados, y los demás comentarios u observaciones que los auditores estimen procedentes.
+Determinado el Padrón Electoral con carácter de provisorio y la Nómina Provisoria de Inhabilitados conforme al artículo 31 de esta ley, las empresas de auditoría procederán a su revisión, que tendrá por objeto entregar una opinión respecto de si ellos cumplen con lo dispuesto en la ley. Terminada la revisión elaborarán un informe que deberá ser emitido ochenta días antes de la elección o plebiscito y que contendrá, al menos, un detalle de los errores encontrados con indicación de una sugerencia respecto de cómo pueden ser subsanados, y los demás comentarios u observaciones que los auditores estimen procedentes.
 
 #### Artículo 43
 
 El Consejo del Servicio Electoral analizará los informes de auditoría y realizará las correcciones que estime pertinentes. Lo anterior constará en un acta que será publicada en la página web de dicho organismo.
 
-Cumplido lo anterior, el Consejo del Servicio determinará los padrones electorales con carácter de auditado y las nóminas auditadas de inhabilitados, conforme al artículo 32.
+Cumplido lo anterior, el Consejo del Servicio determinará el Padrón Electoral con carácter de auditado y la Nómina Auditada de Inhabilitados, conforme al artículo 32.
 
 #### Artículo 44
 
@@ -352,7 +352,7 @@ Las empresas de auditoría deberán efectuar sus funciones con total independenc
 
 #### Artículo 46
 
-El Servicio Electoral deberá poner a disposición de las empresas de auditoría todos sus registros, físicos y computacionales y demás antecedentes que en opinión de ellas sean necesarios para realizar sus informes. El Servicio de Registro Civil e Identificación y los demás organismos señalados en los artículos 15 al 20 deberán poner a disposición de las empresas de auditoría la misma información que hubieren entregado al Servicio Electoral, cuando exista disconformidad entre los datos electorales y los padrones electorales.
+El Servicio Electoral deberá poner a disposición de las empresas de auditoría todos sus registros, físicos y computacionales y demás antecedentes que en opinión de ellas sean necesarios para realizar sus informes. El Servicio de Registro Civil e Identificación y los demás organismos señalados en los artículos 15 al 20 deberán poner a disposición de las empresas de auditoría la misma información que hubieren entregado al Servicio Electoral, cuando exista disconformidad entre los datos electorales y el Padrón Electoral.
 
 Las empresas de auditoría deberán mantener reserva o secreto, según corresponda, de la información, datos y antecedentes que se les proporcione en virtud de este artículo, siendo públicos solamente los resultados de su auditoría.
 
@@ -362,21 +362,21 @@ DE LAS RECLAMACIONES
 
 #### Artículo 47
 
-La persona que estimare que injustificadamente fue omitida de los padrones electorales, según corresponda, con carácter de auditado, publicado conforme al artículo 32, podrá reclamar de este hecho, por escrito o verbalmente, dentro de los diez días siguientes a la publicación, ante el Tribunal Electoral Regional de su domicilio electoral, que conocerá del asunto. En caso que la persona se encuentre en el extranjero, podrá presentar su reclamo a través del sitio web del Tribunal Electoral Regional de turno de la Región Metropolitana, o acercarse a un consulado chileno en el extranjero, el que tendrá la obligación de ingresarlo en el sitio web mencionado, en el plazo antes señalado.
+La persona que estimare que injustificadamente fue omitida del Padrón Electoral con carácter de auditado, publicado conforme al artículo 32, podrá reclamar de este hecho, por escrito o verbalmente, dentro de los diez días siguientes a la publicación, ante el Tribunal Electoral Regional de su domicilio electoral, que conocerá del asunto.
 
-En el mismo plazo, los partidos políticos, candidato independiente y cualquier otra persona, podrán presentar reclamaciones ante el mismo Tribunal respecto de electores injustificadamente omitidos de uno de los padrones electorales o que figuren con datos erróneos.
+En el mismo plazo, los partidos políticos, candidato independiente y cualquier otra persona, podrán presentar reclamaciones ante el mismo Tribunal respecto de electores injustificadamente omitidos de dicho Padrón Electoral o que figuren con datos erróneos.
 
 El Tribunal resolverá con los antecedentes que el interesado le suministre, previo informe del Servicio Electoral, el cual deberá ser emitido dentro del plazo de cuatro días de requerido. El Tribunal deberá fallar, con o sin informe, dentro del plazo de diez días, contados desde la fecha de la presentación del reclamo.
 
-El Tribunal ordenará la incorporación del reclamante o electores afectados al Padrón Electoral que corresponda en los casos en que hubiere lugar a la reclamación.
+El Tribunal ordenará la incorporación del reclamante o electores afectados al Padrón Electoral en los casos en que hubiere lugar a la reclamación.
 
 Las sentencias de los Tribunales Electorales Regionales serán apelables por el requirente o por el Servicio Electoral dentro del plazo de tres días, contado desde la fecha de su incorporación en el Estado Diario del respectivo Tribunal, ante el Tribunal Calificador de Elecciones, el cual deberá fallar dentro de un plazo de cinco días de presentada la apelación.
 
-Ejecutoriada la sentencia, el Tribunal remitirá al Servicio Electoral, de oficio, copia fiel e íntegra de aquélla, la que deberá individualizar a los electores que se deban incorporar. El Servicio Electoral procederá a cumplirla sin más trámite, siempre que a la fecha de recepción faltaren, a lo menos, tres días para el vencimiento del plazo a que se refiere el inciso primero del artículo 33.
+Ejecutoriada la sentencia, el Tribunal, de oficio o a petición de parte, la comunicará inmediatamente al Servicio Electoral, el cual procederá a cumplirla sin más trámite.
 
 #### Artículo 48
 
-Dentro de los diez días siguientes a la publicación de los padrones electorales con carácter de auditado señalados en el artículo 32, cualquier persona natural, partido político o candidato independiente podrá pedir al Tribunal Electoral Regional correspondiente al domicilio electoral del impugnado la exclusión de quien figure en el padrón electoral respectivo en contravención a la ley. Tratándose de personas naturales que se encuentren en el extranjero, podrán hacer la petición en el sitio web del Tribunal Electoral Regional de turno de la Región Metropolitana o en cualquier consulado chileno en el extranjero, el que tendrá la obligación de ingresarla en el sitio web antes mencionado.
+Dentro de los diez días siguientes a la publicación del Padrón Electoral con carácter de auditado, señalado en el artículo 32, cualquiera persona natural, partido político o candidato independiente podrá pedir al Tribunal Electoral Regional correspondiente al domicilio electoral del impugnado la exclusión de quien figure en el Padrón Electoral en contravención a la ley.
 
 No procederá solicitar la exclusión del Padrón Electoral respecto de un candidato cuya aceptación de candidatura se encuentre ejecutoriada.
 
@@ -394,7 +394,7 @@ La resolución se expedirá dentro de los cinco días siguientes a la audiencia 
 
 Las sentencias de los Tribunales Electorales Regionales, serán apelables por el requirente, el o los afectados y el Servicio Electoral, dentro del plazo de tres días, contado desde la fecha de incorporación en el Estado Diario del Tribunal, ante el Tribunal Calificador de Elecciones, el cual deberá resolver la apelación dentro del plazo de cinco días.
 
-Ejecutoriada la sentencia, el Tribunal remitirá al Servicio Electoral, de oficio, copia fiel e íntegra de aquélla, la que deberá individualizar a los electores que se deban excluir. El Servicio Electoral procederá a cumplirla sin más trámite, siempre que a la fecha de recepción faltaren, a lo menos, tres días para el vencimiento del plazo a que se refiere el inciso primero del artículo 33.
+Ejecutoriada la sentencia que ordene la exclusión será notificada al Servicio Electoral para que efectúe la cancelación correspondiente.
 
 #### Artículo 49
 
@@ -406,13 +406,13 @@ DE LAS CIRCUNSCRIPCIONES ELECTORALES
 
 #### Artículo 50
 
-Las Circunscripciones Electorales son la unidad territorial electoral básica, formada por todo o parte del territorio comunal en el caso de las circunscripciones en el territorio nacional, o por todo o parte del territorio de un país o países, en el caso de circunscripciones en el extranjero. En cada circunscripción electoral se determinarán Mesas Receptoras de Sufragios que deberán funcionar en el territorio jurisdiccional de la circunscripción.
+Las Circunscripciones Electorales son la unidad territorial electoral básica, formada por todo o parte del territorio comunal. En cada circunscripción electoral se determinarán Mesas Receptoras de Sufragios que deberán funcionar en el territorio jurisdiccional de la circunscripción.
 
-El Servicio Electoral, por resolución fundada, podrá crear circunscripciones electorales cuando lo hagan aconsejable circunstancias tales como la cantidad de población, las dificultades de comunicación con la sede comunal o consular, las distancias excesivas o la existencia de diversos centros poblados de importancia.
+El Servicio Electoral, por resolución fundada, podrá crear circunscripciones electorales cuando lo hagan aconsejable circunstancias tales como la cantidad de población, las dificultades de comunicación con la sede comunal, las distancias excesivas o la existencia de diversos centros poblados de importancia.
 
-La resolución determinará el territorio jurisdiccional de las nuevas circunscripciones y se publicará dentro de quinto día en el Diario Oficial y, además, en el caso de circunscripciones en el territorio nacional, en un periódico de la localidad respectiva y, si allí no lo hubiere, en el correspondiente de la capital provincial o regional. Sin perjuicio de lo anterior, podrán difundirse avisos por otros medios de comunicación social, cuando las circunstancias lo requieran, o en el caso de circunscripciones en el extranjero.
+La resolución determinará el territorio jurisdiccional de las nuevas circunscripciones y se publicará dentro de quinto día en el Diario Oficial y, además, en un periódico de la localidad respectiva y, si allí no lo hubiere, en el correspondiente de la capital provincial o regional. Sin perjuicio de lo anterior, podrán difundirse avisos por otros medios de comunicación social, cuando las circunstancias lo requieran.
 
-El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción más cercana incorporándolos a una mesa receptora de sufragios de conformidad al artículo 12 y efectuando la comunicación señalada en el artículo 7°, inciso primero, de esta ley. Sin perjuicio de lo anterior, el Servicio Electoral no podrá cancelar una circunscripción en el extranjero, si ésta es la única existente en el respectivo país.
+El Servicio Electoral, por resolución fundada, podrá cancelar una circunscripción electoral cuando lo hagan aconsejable circunstancias tales como la cantidad de población o las dificultades para sufragar. En este caso, deberá asignar a los electores a la circunscripción más cercana incorporándolos a una mesa receptora de sufragios de conformidad al artículo 12 y efectuando la comunicación señalada en el artículo 7°, inciso primero, de esta ley.
 
 ## Título V
 
@@ -442,23 +442,23 @@ Sufrirá la pena de reclusión menor en su grado mínimo y multa de una a tres u
 
 1.- El que, al momento de solicitar cambio de domicilio electoral o la acreditación del avecindamiento, suplantare a otra persona.
 
-2.- El que, al declarar o actualizar domicilio electoral o la acreditación del avecindamiento, proporcione datos falsos o un domicilio electoral diferente de los permitidos en el artículo 10.
+2.- El que proporcionare datos falsos al solicitar cambio de domicilio electoral o la acreditación del avecindamiento.
 
 3.- El que ocultare, sustrajere o destruyere una solicitud de cambio de domicilio o una solicitud de acreditación de avecindamiento o los antecedentes que la acompañan.
 
-4.- El que use para fines comerciales los datos del Registro Electoral o de los padrones electorales.
+4.- El que use para fines comerciales los datos del Registro Electoral o Padrón Electoral.
 
 #### Artículo 54
 
 Sufrirá la pena de presidio menor en su grado medio, multa de diez a cincuenta unidades tributarias mensuales y la inhabilitación absoluta y perpetua para el desempeño de cargos y oficios públicos:
 
-1.- El que maliciosamente altere la información contenida en el Registro Electoral, en los padrones electorales, en los Padrones de Mesas Receptoras de Sufragio, en las Nóminas de Inhabilitados y en los antecedentes del Servicio de Registro Civil e Identificación y cualquier otro antecedente que pueda ser usado para conformar el Registro Electoral y sus actualizaciones.
+1.- El que maliciosamente altere la información contenida en el Registro Electoral, en el Padrón Electoral, en los Padrones de Mesas Receptoras de Sufragio, en las Nóminas de Inhabilitados y en los antecedentes del Servicio de Registro Civil e Identificación y cualquier otro antecedente que pueda ser usado para conformar el Registro Electoral y sus actualizaciones.
 
 2.- El que maliciosamente modifique el domicilio electoral informado por los electores al recibir solicitudes de éstos o cuando lo informen al obtener o renovar su cédula de identidad.
 
-3.- El que incite, promueva, solicite u organice a los electores, a modificar su domicilio electoral, declarando uno nuevo con datos falsos o diferente de los permitidos en el artículo 10.
+3.- El que incite u organice a electores para proporcionar datos falsos al solicitar cambio de domicilio electoral.
 
-4.- El que comercialice los datos del Registro Electoral o los datos de los padrones electorales.
+4.- El que comercialice los datos del Registro Electoral o Padrón Electoral.
 
 #### Artículo 55
 
@@ -466,7 +466,7 @@ Si los delitos señalados en el artículo precedente fueren cometidos por un fun
 
 #### Artículo 56
 
-El que por negligencia extraviare documentos, solicitudes de cambio de domicilio electoral, solicitudes de acreditación de avecindamiento o destruyera información computacional que contenga antecedentes del Registro Electoral o de los padrones electorales y de los Padrones de Mesas Receptoras de Sufragios, sufrirá la pena de prisión en su grado máximo.
+El que por negligencia extraviare documentos, solicitudes de cambio de domicilio electoral, solicitudes de acreditación de avecindamiento o destruyera información computacional que contenga antecedentes del Registro Electoral o del Padrón Electoral y de los Padrones de Mesas Receptoras de Sufragios, sufrirá la pena de prisión en su grado máximo.
 
 Si en la desaparición de estos efectos mediare dolo, los autores del hecho sufrirán la pena de presidio menor en su grado mínimo, multa de una a tres unidades tributarias mensuales e inhabilitación absoluta y perpetua para ejercer cargos y oficios públicos.
 
@@ -478,7 +478,7 @@ Del Servicio Electoral
 
 #### Artículo 57
 
-El Servicio Electoral es un organismo autónomo de rango constitucional, con personalidad jurídica y patrimonio propio, cuyo objeto será cumplir con las funciones que le señale la ley. Su domicilio será la capital de la República.
+Créase el Servicio Electoral, organismo autónomo, con personalidad jurídica y patrimonio propio, cuyo objeto será cumplir con las funciones que le señale la ley y que se relacionará con el Presidente de la República a través del Ministerio del Interior. Su domicilio será la capital de la República.
 
 El activo de su patrimonio estará integrado por los fondos que anualmente destine al efecto la Ley de Presupuestos, sus ingresos propios y los demás bienes que adquiera a cualquier título.
 
@@ -486,9 +486,7 @@ Las remuneraciones de su personal estarán sujetas al régimen general aplicable
 
 #### Artículo 58
 
-El Servicio Electoral estará sometido a la fiscalización de la Contraloría General de la República únicamente en lo que concierne al examen y juzgamiento de sus cuentas de entradas y gastos. Las contrataciones y nombramientos de su personal serán enviadas a la Contraloría General de la República para el solo efecto de su registro.
-
-Los actos del Servicio Electoral no estarán afectos al trámite de toma de razón.
+El Servicio estará sometido a la fiscalización de la Contraloría General de la República en lo que concierne al examen y juzgamiento de sus cuentas de entradas y gastos y al control de legalidad de los actos del Servicio relativos a su personal y al régimen estatutario de éste.
 
 #### Artículo 59
 
@@ -496,23 +494,27 @@ Para todos los efectos legales el Servicio Electoral será el continuador y suce
 
 #### Artículo 60
 
-El Servicio Electoral tendrá por objeto:
+Corresponderá al Servicio Electoral ejercer las siguientes funciones:
 
-1) Administrar, supervigilar y fiscalizar el proceso de inscripción electoral, la elaboración y actualización de los padrones electorales y el acto electoral.
+a) Supervigilar y fiscalizar a las Juntas Electorales establecidas en la ley N° 18.700 y velar por el cumplimiento de las normas electorales, debiendo denunciar ante la autoridad que corresponda a las personas que las infringieren, sin perjuicio de la acción pública o popular que fuere procedente.
 
-2) Supervigilar y fiscalizar el cumplimiento de las normas sobre campañas electorales y su financiamiento.
+b) Formar, mantener y actualizar el Registro Electoral.
 
-3) Supervigilar y fiscalizar el cumplimiento de las normas que regulen las actividades propias y ámbitos de acción de los partidos políticos, con pleno respeto por la autonomía de estos y su financiamiento.
+c) Determinar el Padrón Electoral y la Nómina de Inhabilitados en los términos señalados en esta ley.
 
-4) Las demás materias que esta u otras leyes establezcan.
+d) Ordenar y resolver directamente sobre el diseño e impresión de formularios y demás documentos que se utilicen en el proceso de formación y actualización del Registro Electoral.
 
-Al Servicio Electoral le serán aplicables las normas del Título IV del decreto con fuerza de ley Nº 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, que fija el texto refundido, coordinado y sistematizado de la ley Nº18.575, orgánica constitucional de Bases Generales de la Administración del Estado.
+e) Resolver respecto de las solicitudes de cambio de domicilio electoral y de acreditación de avecindamiento que se le presenten.
+
+f) Solicitar la colaboración y antecedentes que sean necesarios, de los distintos órganos del Estado, para el examen de las situaciones comprendidas en el ámbito de su competencia.
+
+g) Disponer la compra de los programas y equipos computacionales que utilizará en el cumplimiento de sus funciones, y los sistemas de mantención, protección y actualización de éstos.
+
+h) Las demás funciones que ésta u otras leyes establezcan.
 
 #### Artículo 61
 
-Los órganos de dirección del Servicio Electoral serán el Consejo Directivo y su Director. Al Consejo Directivo corresponderá la dirección superior del Servicio.
-
-Al Director del Servicio le corresponderá la dirección administrativa y técnica del mismo.
+Los órganos de dirección del Servicio Electoral serán el Consejo Directivo y su Director. Al Consejo corresponderá la dirección superior del Servicio y la dirección administrativa al Director.
 
 ### Párrafo 2°
 
@@ -520,17 +522,17 @@ Del Consejo Directivo del Servicio Electoral
 
 #### Artículo 62
 
-El Consejo Directivo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado adoptado por los dos tercios de sus miembros en ejercicio. Luego de recibida la propuesta del Presidente de la República, se realizará una audiencia pública de presentación del candidato a consejero ante la Comisión del Senado que corresponda.
+El Consejo Directivo estará integrado por cinco consejeros designados por el Presidente de la República, previo acuerdo del Senado adoptado por los tres quintos de sus miembros en ejercicio. El Presidente formulará su proposición en un solo acto y el Senado se pronunciará sobre el conjunto de la propuesta.
 
-Los consejeros elegirán de entre ellos un Presidente por mayoría de votos. En caso de ausencia o impedimento temporal, el Presidente será subrogado por el consejero que en el acto se elija. Si no se lograre mayoría, en ambos casos, se procederá por sorteo. La representación del Consejo en eventos protocolares nacionales e internacionales, así como en las gestiones que se desarrollen ante cualquier entidad extranjera, le corresponderá al Presidente del Consejo o a quien, en subsidio, determine el Consejo.
+Los consejeros durarán ocho años en sus cargos y podrán ser designados para otro período, por una sola vez, en la forma prevista en el inciso precedente. Se renovarán por parcialidades cada cuatro años.
+
+Los consejeros elegirán de entre ellos un Presidente por mayoría de votos. En caso de ausencia o impedimento temporal, el Presidente será subrogado por el consejero que en el acto se elija. Si no se lograre mayoría, en ambos casos, se procederá por sorteo.
 
 El Presidente del Consejo durará cuatro años en el cargo y podrá ser reelegido por una sola vez. El Presidente subrogante ejercerá el cargo mientras dure la ausencia o impedimento de aquél.
 
-En caso de que un consejero cesare en su cargo por cualquier causa, se designará un nuevo consejero dentro de los treinta días siguientes a la fecha en que tuvo lugar el hecho o circunstancia que ocasionó el cese. El nuevo consejero desempeñará su cargo hasta completar el período del consejero reemplazado.
+En caso de que un consejero cesare en su cargo por cualquier causa, se designará un nuevo consejero de conformidad con el inciso primero, dentro de los treinta días siguientes a la fecha en que tuvo lugar el hecho o circunstancia que ocasionó el cese. El nuevo consejero desempeñará su cargo hasta completar el período del consejero reemplazado.
 
 Si el que cesare fuere el Presidente del Consejo, se procederá a la elección de su reemplazante una vez que se haya provisto su cargo de consejero. El nuevo Presidente desempeñará el cargo hasta completar el período del cesado.
-
-Corresponderá al Presidente del Consejo comunicar los acuerdos que adopte dicha instancia sobre las materias de su competencia, al Director del Servicio, al Tribunal Calificador de Elecciones y a los Tribunales Electorales Regionales, según corresponda.
 
 #### Artículo 63
 
@@ -540,11 +542,11 @@ Tampoco podrán ser consejeros las personas que se encuentren en alguno de los c
 
 Los consejeros no podrán estar afiliados a partidos políticos mientras ejerzan su cargo.
 
-La función de consejero no es delegable y se ejerce colectivamente, en sesiones ordinarias o extraordinarias, de conformidad a la ley.
+La función de consejero no es delegable y se ejerce colectivamente, en sala legalmente constituida.
 
 #### Artículo 64
 
-Inciso Eliminado.
+Los consejeros tendrán derecho a ser informados plena y documentadamente y en cualquier tiempo, por el Director o quien haga sus veces, sobre todo lo relacionado con el funcionamiento del Servicio. Además, tendrán derecho a revisar el Registro Electoral y los padrones electorales, con la sola limitación de no afectar el funcionamiento del Servicio.
 
 Los consejeros percibirán una dieta equivalente a treinta unidades de fomento por cada sesión a la que asistan, con un máximo de ciento veinte unidades de fomento por mes calendario.
 
@@ -558,19 +560,17 @@ a) Expiración del plazo por el que fue nombrado. Sin perjuicio de ello, éste s
 
 b) Haber cumplido los 75 años de edad.
 
-c) Renuncia por razones fundadas, aceptada por el Presidente de la República.
+c) Renuncia, aceptada por el Presidente de la República.
 
 d) Incapacidad síquica o física para el desempeño del cargo.
 
 e) Alguna causal de inhabilidad sobreviniente. El consejero que adquiera una calidad que lo inhabilite para desempeñar el cargo cesará automáticamente en él.
 
-f) Mal comportamiento o negligencia manifiesta en el cumplimiento de las obligaciones como consejero. Se entenderá como mal comportamiento o negligencia manifiesta en el ejercicio de sus funciones, la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones del Consejo, ordinarias o extraordinarias, durante un semestre calendario.
+f) Falta grave al cumplimiento de las obligaciones como consejero. Serán faltas graves la inasistencia injustificada a tres sesiones consecutivas o a seis sesiones del Consejo, ordinarias o extraordinarias, durante un semestre calendario.
 
-g) Infracción grave a la Constitución o las leyes.
+La existencia de las causales establecidas en las letras d) y e), si hubiere discusión sobre la sobreveniencia de la inhabilidad, y f) precedentes, serán declaradas por el Tribunal Calificador de Elecciones, a requerimiento del Consejo o del Ministro del Interior y Seguridad Pública en el caso de la letra f), o de cualquier persona en el caso de la letra e). El requerimiento deberá hacerse por escrito, acompañándose todos los elementos de prueba que acrediten la existencia de la causal. Se dará traslado al afectado por el término fatal de diez días para que exponga lo que estime conveniente en su defensa.
 
-La existencia de las causales establecidas en las letras d), e), f) y g) serán declaradas por la Corte Suprema, a requerimiento del Presidente de la República o de un tercio de los miembros en ejercicio de la Cámara de Diputados. La Corte conocerá del asunto en pleno especialmente convocado al efecto, y para acordar la remoción deberá reunir el voto conforme de la mayoría de sus miembros en ejercicio. El requerimiento deberá hacerse por escrito, acompañándose todos los elementos de prueba que acrediten la existencia de la causal. Se dará traslado al afectado por el término fatal de diez días para que exponga lo que estime conveniente en su defensa.
-
-Vencido este plazo, con o sin la respuesta del afectado, se decretará autos en relación y la causa, para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección. Tratándose de la causal de la letra d), la Corte Suprema, como medida para mejor resolver, podrá decretar informe pericial.
+Vencido este plazo, con o sin la respuesta del afectado, se decretará autos en relación y la causa, para su agregación a la tabla, vista y fallo, se regirá por las reglas aplicables al recurso de protección. Tratándose de la causal de la letra d), el Tribunal, como medida para mejor resolver, podrá decretar informe pericial.
 
 Los consejeros y el Director tendrán el carácter de ministro de fe en las actuaciones que las leyes les encomienden.
 
@@ -584,49 +584,39 @@ El Consejo podrá sesionar en forma ordinaria o extraordinaria.
 
 Son sesiones ordinarias aquellas que determine el propio Consejo para días y horas determinadas. En ellas se tratarán todas las materias que el Presidente incluya en la tabla respectiva, la que deberá ser comunicada a los consejeros con no menos de 24 horas de anticipación a la fecha de la sesión.
 
-Por cada mes el Consejo deberá sesionar en forma ordinaria no menos de cuatro veces.
+Por cada mes el Consejo deberá sesionar en forma ordinaria no menos de una vez y no más de tres veces.
 
 Son sesiones extraordinarias aquellas en que el Consejo es convocado especialmente para conocer de modo exclusivo las materias que motivan la convocatoria. Estas sesiones serán convocadas por su Presidente, cuando exista algún asunto urgente que requiera del conocimiento del Consejo, o cuando así sea solicitado a éste, por requerimiento escrito de dos consejeros. La citación a sesión extraordinaria deberá hacerse con una anticipación no inferior a 48 horas y contendrá expresamente las materias a tratar.
 
-Los acuerdos requerirán del voto favorable de la mayoría de sus miembros presentes.
+Los acuerdos requerirán del voto favorable de, a lo menos, cuatro consejeros. Si el Consejo no lograra el anterior quórum, deberá dejar constancia pública de su desacuerdo y las razones fundadas de las partes, convocando el Presidente del Consejo a una nueva sesión que deberá realizarse no antes de cuatro días ni después de quince, siempre que este último plazo no altere el cumplimiento de un plazo legal, donde deberá resolverse el desacuerdo con el voto conforme de, a lo menos, tres de sus miembros.
 
-En todo caso, se requerirá siempre del voto conforme de, al menos, cuatro consejeros para adoptar los acuerdos señalados en la letra g) del artículo 67.
+En todo caso, se requerirá siempre del voto conforme de, al menos, cuatro consejeros para tomar los acuerdos señalados en la letra h) del artículo 67.
 
-El Servicio no podrá celebrar actos o contratos en los que uno o más consejeros tengan interés por sí o como representantes de otra persona, o lo tengan su cónyuge, conviviente civil, hijos o sus parientes hasta el tercer grado de consanguinidad o segundo por afinidad. Se presume que existe interés directo de un consejero en toda negociación, acto, contrato u operación en la que deba intervenir él mismo, su cónyuge , conviviente civil, hijos o sus parientes hasta el tercer grado de consanguinidad o segundo de afinidad, o las sociedades o empresas en las cuales sea director o dueño, directo o a través de otras personas naturales o jurídicas.
-
-Los consejeros deberán abstenerse de intervenir, en razón de sus funciones, en asuntos en que tengan interés personal o en que lo tengan el cónyuge, conviviente civil, hijos o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive. Asimismo, deberán abstenerse de participar en decisiones en que exista cualquier circunstancia que les reste imparcialidad.
+El Servicio no podrá celebrar actos o contratos en los que uno o más consejeros tengan interés por sí o como representantes de otra persona. Se presume que existe interés directo de un consejero en toda negociación, acto, contrato u operación en la que deba intervenir él mismo, su cónyuge o sus parientes hasta el segundo grado de consanguinidad o afinidad, o las sociedades o empresas en las cuales sea director o dueño, directo o a través de otras personas naturales o jurídicas, de un 10% o más de su capital.
 
 De toda deliberación y acuerdo del Consejo se deberá dejar constancia en un libro de actas. El acta deberá ser firmada por todos los consejeros que hubieren concurrido a la sesión.
 
 #### Artículo 67
 
-Corresponderá al Consejo Directivo del Servicio Electoral:
+Corresponderá al Consejo:
 
 a) Designar a los miembros de las Juntas Electorales según propuesta del Director.
 
-b) Velar por el cumplimiento de las normas aplicables al Servicio.
+b) Velar por el cumplimiento de las normas aplicables al Servicio y adoptar las medidas necesarias para asegurar su normal funcionamiento.
 
 c) Aprobar la propuesta del presupuesto del Servicio efectuada por el Director.
 
-d) Supervisar los actos del Director.
+d) Supervisar los actos del Director y del Subdirector.
 
-e) Aprobar los Padrones Electorales y las Nóminas de Electores Inhabilitados a los que se refiere esta ley.
+e) Dar instrucciones generales sobre la aplicación de las normas electorales para su ejecución por los organismos establecidos en ellas.
 
-f) Aprobar las bases para llamar a la licitación de las empresas de auditoría, seleccionarlas y conocer de sus informes.
+f) Aprobar los Padrones Electorales y la Nómina de Electores Inhabilitados a los que se refiere esta ley.
 
-g) Designar y remover al Director del Servicio Electoral, conforme a lo dispuesto en el artículo 68. La designación se hará a partir de una quina propuesta para el cargo por el Consejo de la Alta Dirección Pública, en conformidad a las normas del Título VI de la ley N° 19.882.
+g) Aprobar las bases para llamar a la licitación de las empresas de auditoría, seleccionarlas y conocer de sus informes.
 
-h) Dictar normas e instrucciones acerca de la aplicación de las disposiciones electorales, de partidos políticos y de control del gasto electoral, especialmente aquellas que correspondan a la aplicación de las leyes Nºs. 18.700, 18.603 y 19.884 que deban aplicarse en Chile o en el extranjero, según corresponda. La normativa y las resoluciones que emanen de este Consejo serán obligatorias y deberán ser sistematizadas a fin de facilitar el acceso y conocimiento de las mismas por el público en general. Esta facultad no obsta a lo establecido en el artículo 61 de la ley Nº18.603.
+h) Designar y remover al Director y Subdirector del Servicio Electoral. La designación se hará a partir de una quina propuesta para el cargo por el Consejo de la Alta Dirección Pública, en conformidad a las normas del Título VI de la ley N° 19.882.
 
-i) Aprobar las políticas y medidas para la accesibilidad de las personas al ejercicio del sufragio.
-
-j) Pronunciarse sobre la infracción señalada en la letra a) del artículo 28 bis de la ley Nº19.884.
-
-k) Requerir el pronunciamiento del Tribunal Calificador de Elecciones en los casos en que la ley lo ordene.
-
-l) Contribuir al desarrollo de la vida democrática del país, fomentando la educación cívica electoral de los ciudadanos.
-
-m) Los demás asuntos que la ley le encomiende o sobre los que deba pronunciarse en virtud de sus funciones o atribuciones.
+i) Los demás asuntos que la ley le encomiende o sobre los que deba pronunciarse en virtud de sus funciones o atribuciones.
 
 ### Párrafo 3°
 
@@ -634,225 +624,45 @@ Del Director del Servicio Electoral
 
 #### Artículo 68
 
-El Director del Servicio Electoral será el representante legal del Servicio y el Jefe Superior de éste. Le corresponderán, especialmente, las siguientes funciones y atribuciones:
+El Director del Servicio Electoral será el representante legal del Servicio y el Jefe Superior de éste. Le corresponderán, especialmente, las siguientes funciones:
 
 a) Cumplir y hacer cumplir los acuerdos del Consejo Directivo.
 
 b) Planificar, organizar, dirigir y coordinar el funcionamiento del Servicio de conformidad con las directrices que defina el Consejo Directivo.
 
-c) Dictar los reglamentos internos necesarios para el buen funcionamiento del Servicio.
+c) Dictar los reglamentos internos necesarios para el buen funcionamiento del Servicio, previo acuerdo del Consejo Directivo.
 
-d) Nombrar al personal del Servicio y poner término a sus servicios, de conformidad a las normas estatutarias. Asimismo, el Director del Servicio propondrá para su aprobación al Consejo el aumento de presupuesto para la contratación del personal transitorio necesario para los procesos electorales.
+d) Nombrar al personal del Servicio y poner término a sus servicios, de conformidad a las normas estatutarias.
 
-e) Ejecutar los actos, dictar las resoluciones y celebrar las convenciones necesarias para el cumplimiento de los fines del Servicio, tales como, contratar bienes y servicios para el cumplimiento de sus funciones.
+e) Ejecutar los actos y celebrar las convenciones necesarias para el cumplimiento de los fines del Servicio.
 
-f) Delegar atribuciones o facultades específicas en funcionarios del Servicio, salvo la dictación de la resolución final de procedimientos sancionatorios.
+f) Delegar atribuciones o facultades específicas en funcionarios del Servicio.
 
 g) Representar al Servicio Electoral, tanto judicial como extrajudicialmente.
 
-h) Celebrar con personas naturales o jurídicas, públicas o privadas, convenios especiales para la ejecución de estudios, investigaciones o programas, que tengan por objeto el mejor cumplimiento o la difusión de los fines del Servicio.
+h) Llevar el Registro de Partidos Políticos, actualizado por regiones, y ejercer las demás atribuciones y funciones que le encomienden la Ley Orgánica Constitucional de los Partidos Políticos u otras leyes.
 
-i) Convocar a propuestas públicas o privadas, aceptarlas o rechazarlas.
+i) Celebrar con personas naturales o jurídicas, públicas o privadas, convenios especiales para la ejecución de estudios, investigaciones o programas, que tengan por objeto el mejor cumplimiento o la difusión de los fines del Servicio.
 
-j) Designar y remover a los Subdirectores de conformidad a las normas del Título VI de la ley Nº19.882.
+j) Convocar a propuestas públicas o privadas, aceptarlas o rechazarlas.
 
-k) Proponer para su aprobación al Consejo Directivo el presupuesto del Servicio.
+k) Dictar las resoluciones generales y particulares necesarias para el ejercicio de sus atribuciones.
 
-l) Proponer al Consejo Directivo del Servicio Electoral los miembros de las Juntas Electorales.
+l) Contratar personal en forma transitoria, a contrata o a honorarios, a suma alzada o asimilado a grados, cuando por necesidades del Servicio así se requiera.
 
-m) Proponer al Consejo Directivo los Padrones Electorales y las Nóminas de Electores Inhabilitados a los que se refiere la ley.
+m) Ejercer las demás funciones que le sean delegadas por el Consejo Directivo.
 
-n) Proponer al Consejo Directivo, con la colaboración de los Subdirectores, las normas e instrucciones de carácter general que disponga el Párrafo 6º del Título I de la ley Nº18.700, la ley Nº18.603, la ley Nº19.884 y aquellas políticas y medidas para la accesibilidad de las personas al ejercicio del sufragio.
-
-ñ) Supervigilar y fiscalizar a las Juntas Electorales establecidas en la ley Nº18.700 y velar por el cumplimiento de las normas electorales, debiendo denunciar ante la autoridad que corresponda a las personas que las infringieren, sin perjuicio de la acción pública o popular que fuere procedente.
-
-o) Informar al Consejo Directivo del Servicio, plena y documentadamente, sobre todo lo relacionado con el funcionamiento del Servicio.
-
-p) Requerir, personalmente o a través de los Subdirectores, los antecedentes necesarios de los distintos órganos del Estado para el examen de las situaciones comprendidas en el ámbito de su competencia.
-
-q) Disponer, para la fiscalización o investigación de las materias de competencia del Servicio Electoral, la citación o el requerimiento de antecedentes a candidatos, administradores electorales, administradores generales electorales, administradores generales de fondos de partidos políticos y miembros de las directivas centrales de partidos políticos, y el ingreso a los domicilios registrados ante el Servicio Electoral por aquellas personas y a las sedes oficiales de candidatos y partidos políticos.
-
-Si de la investigación resultare fundamental el acceso a cuentas corrientes de las personas mencionadas en el párrafo anterior o el ingreso a sus domicilios particulares, deberá siempre requerir el consentimiento del afectado o la autorización judicial correspondiente.
-
-r) Resolver los procedimientos administrativos que esta ley establece, y aplicar las sanciones que correspondan de conformidad a lo dispuesto en esta ley.
-
-s) Elevar al Consejo Directivo los antecedentes respecto de infracciones graves a las normas sobre transparencia, límite y control del gasto electoral.
-
-t) Disponer la publicación en el sitio web institucional de todas aquellas resoluciones, instrucciones o normas de carácter general que el Servicio dicte.
-
-u) Ejercer las demás funciones que le encomienden esta u otras leyes y ejecutar las normas e instrucciones de general aplicación que dicte el Consejo.
-
-El Director del Servicio Electoral durará cinco años en su cargo, pudiendo ser renovado hasta por dos períodos consecutivos. Cesará en su cargo por las siguientes causales:
-
-1. Expiración del plazo por el que fue nombrado.
-
-2. Haber cumplido los 75 años de edad.
-
-3. Renuncia voluntaria, aceptada por el Consejo Directivo del Servicio Electoral.
-
-4. Incapacidad síquica o física sobreviniente para el desempeño del cargo.
-
-5. Inhabilidad sobreviniente.
-
-6. Incumplimiento grave de sus obligaciones.
-
-Las causales señaladas en los números 3, 4, 5 y 6 serán declaradas por el Consejo Directivo del Servicio Electoral, previa audiencia del Director afectado.
-
-Cuando el Director cese en su cargo por expiración del plazo por el que fue nombrado, tendrá derecho a la indemnización que señala el artículo 154 del decreto con fuerza de ley Nº 29, de 2004, del Ministerio de Hacienda, que fija el texto refundido, coordinado y sistematizado de la ley Nº 18.834, sobre Estatuto Administrativo.
-
-El Director del Servicio Electoral estará afecto a los Párrafos 5º y 6º del Título VI de la ley Nº 19.882. En este caso, el convenio de desempeño será celebrado entre el Consejo Directivo y el Director del Servicio Electoral y tendrá una duración de cinco años. Corresponderá al Consejo determinar el grado de cumplimiento de los objetivos acordados.
+n) Ejercer las demás funciones que le encomienden ésta u otras leyes.
 
 #### Artículo 69
 
-La Dirección del Servicio contará con tres Subdirecciones que serán sus colaboradoras inmediatas y tendrán las funciones y atribuciones que se indican en los Párrafos 4º, 5º y 6º de este Título.
-
-Los Subdirectores deberán informar al Director del Servicio, dentro de las cuarenta y ocho horas siguientes desde que tomen conocimiento, de toda información o antecedente que corresponda fiscalizar o supervisar respecto de otro organismo o servicio de la Administración del Estado.
-
-Los Subdirectores estarán afectos al Título VI de la ley Nº 19.882. Los perfiles de los cargos de Subdirector deberán ser aprobados por el Consejo del Servicio Electoral.
-
-El Director del Servicio tendrá derecho a asistir a las sesiones del Consejo Directivo, con derecho a voz.
+El Director y Subdirector tendrán derecho a asistir a las sesiones de Consejo, con derecho a voz.
 
 #### Artículo 70
 
-Al Director y a los Subdirectores les serán aplicables las inhabilidades, prohibiciones e incompatibilidades aplicables a los consejeros.
+Al Director y al Subdirector les serán aplicables las inhabilidades, prohibiciones e incompatibilidades aplicables a los consejeros.
 
-### Párrafo 4º
-
-De la Subdirección de Registro, Inscripciones y Acto Electoral
-
-#### Artículo 70
-
-A.- Corresponderán a la Subdirección de Registro, Inscripciones y Acto Electoral las siguientes funciones y atribuciones:
-
-a) Administrar los Padrones Electorales, para lo cual deberá formar, mantener y actualizar el Registro Electoral.
-
-b) Elaborar y presentar al Director una propuesta de los Padrones Electorales y las Nóminas de Electores Inhabilitados en los términos señalados en la ley.
-
-c) Elaborar propuestas sobre el diseño e impresión de formularios y demás documentos y medios electrónicos que se utilicen en el proceso de formación y actualización del Registro Electoral, las que serán ordenadas y resueltas por el Director del Servicio.
-
-d) Resolver las solicitudes de cambio de domicilio electoral y de acreditación de avecindamiento.
-
-e) Recepcionar, ponerles cargo y otorgar recibo de las declaraciones de candidaturas que les presenten los partidos políticos, pactos electorales y candidatos independientes. Asimismo, recibir el retiro de candidaturas independientes.
-
-f) Recepcionar los pactos electorales que los partidos políticos le presenten y recibir las comunicaciones referidas a los mismos.
-
-g) Comunicar a las Juntas Electorales las designaciones de las personas y sus respectivos subrogantes que estarán a cargo de los trabajos electorales y de los nombramientos de apoderados, por cada distrito y circunscripción senatorial.
-
-h) Proponer al Director la resolución que determine el número mínimo necesario de patrocinantes para candidaturas independientes.
-
-i) Colaborar con el Director en el ejercicio de las facultades y atribuciones que la ley Nº18.700 le encomienda en lo relativo al acto electoral.
-
-j) Determinar, para cada circunscripción electoral en el territorio nacional, los locales de votación en que funcionarán las mesas receptoras de sufragios.
-
-k) Determinar las características de la urna de conformidad a la ley.
-
-l) Fiscalizar que los candidatos cumplan con la normativa electoral al inscribir sus candidaturas.
-
-m) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por incumplimientos o infracciones a la normativa sobre votaciones populares y escrutinios.
-
-n) Desempeñar las demás atribuciones que esta u otras leyes le encomienden.
-
-### Párrafo 5º
-
-De la Subdirección de Control del Gasto y Financiamiento Electoral
-
-#### Artículo 70
-
-B.- Corresponderán a la Subdirección de Control del Gasto y Financiamiento Electoral las siguientes funciones y atribuciones:
-
-a) Fiscalizar y controlar el cumplimiento de las normas sobre aportes y gastos electorales, campañas electorales y propaganda electoral.
-
-b) Recepcionar, conocer y analizar las rendiciones de cuentas de campaña de los candidatos y los partidos políticos, y pronunciarse a su respecto, observándolas y proponiendo su aprobación o rechazo. Para lo anterior, podrá realizar y ordenar auditorías al estado financiero del candidato o del partido, con cargo a quien es objeto de la misma, según corresponda.
-
-c) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por incumplimientos o infracciones a las normas de la ley Nº 19.884 y al Párrafo 6º del Título I de la ley Nº 18.700.
-
-d) Mantener un sitio web que dé publicidad a la información relativa a los gastos, sean o no electorales, en que incurran los candidatos y los partidos políticos, así como del financiamiento de los mismos y de las demás materias que la ley dispone sean publicadas en dicha plataforma.
-
-e) Disponer el diseño e impresión de libros, formularios y demás documentos que sean necesarios para el control de los ingresos y gastos electorales.
-
-f) Proponer al Director del Servicio la contratación de personal necesario para el desarrollo de actos electorales y plebiscitarios.
-
-g) Desempeñar las demás funciones que esta u otras leyes le encomienden.
-
-### Párrafo 6º
-
-De la Subdirección de Partidos Políticos
-
-#### Artículo 70
-
-C.- Corresponderán a la Subdirección de Partidos Políticos las siguientes funciones y atribuciones:
-
-a) Fiscalizar y controlar el cumplimiento de la normativa sobre transparencia, elecciones internas, aportes y gastos de partidos políticos, y en general todas las obligaciones establecidas en la ley Nº 18.603.
-
-b) Supervisar el cumplimiento de lo establecido en los artículos 21 y 21 bis de la ley Nº19.884.
-
-c) Recibir las oposiciones a la formación de partidos políticos y sustanciar dicho procedimiento de oposición de conformidad a lo dispuesto en la ley Nº18.603.
-
-d) Llevar el Registro de Partidos Políticos actualizado correspondiente a cada región, según lo disponga el Director.
-
-e) Llevar el Registro general actualizado de los afiliados de los partidos políticos y recibir las renuncias de afiliación que le presenten.
-
-f) Recibir en custodia las declaraciones de intereses y patrimonio que deban efectuar aquellos miembros de las Directivas de los Partidos que señale la ley y velar por el cumplimiento de las normas que las regulan.
-
-g) Formular cargos y sustanciar la tramitación de todos los procedimientos sancionatorios que correspondan por los incumplimientos o infracciones a la normativa sobre partidos políticos.
-
-h) Ejercer las demás funciones que le encomienden esta u otras leyes.
-
-### Párrafo 7º
-
-Del procedimiento administrativo sancionador
-
-#### Artículo 70
-
-D.- Los procedimientos administrativos a que dé lugar la aplicación de esta ley se sujetarán a las reglas de este artículo:
-
-1. Podrán iniciarse de oficio por la Subdirección competente o por denuncia fundada presentada por cualquier elector ante ella.
-
-Las denuncias que se interpongan podrán ser formuladas por escrito ante la Subdirección competente, ante el Director Regional respectivo o por medio del sitio web del Servicio Electoral. En todos los casos, las denuncias deberán señalar el lugar y fecha de presentación y la individualización completa del denunciante, quien deberá suscribirla personalmente o por su mandatario o representante habilitado. Asimismo, deberá contener una descripción de los hechos concretos que se estiman constitutivos de infracción, precisando la fecha de su comisión, la norma eventualmente infringida, la disposición que establece la infracción y, en caso de estar en conocimiento, la identificación del presunto infractor.
-
-Sin embargo, la denuncia originará un procedimiento sancionatorio solo si a juicio del Subdirector respectivo resulta seria, plausible y tiene mérito suficiente. En caso contrario, se ordenará su archivo por resolución fundada, notificando de ello al interesado.
-
-Declarada admisible la denuncia se procederá conforme al número 3 de este artículo.
-
-2. La Subdirección impulsará de oficio el procedimiento. Todos los antecedentes que se recaben, presentaciones que se formulen y actos administrativos que se dicten en el procedimiento tendrán carácter reservado hasta la notificación de la resolución final, salvo respecto del denunciante y de los sujetos en contra quienes se dirige la investigación, los que tendrán acceso al expediente desde el inicio del procedimiento.
-
-3. La instrucción de oficio del procedimiento se iniciará con la notificación al presunto infractor, mediante correo electrónico o carta certificada, en su caso, dirigida al domicilio del mismo registrado en el Servicio Electoral.
-
-Dicha notificación contendrá una descripción de los hechos que se estimen constitutivos de infracción y la fecha de su verificación, la norma eventualmente infringida y el plazo para evacuar traslado.
-
-4. Las notificaciones se harán mediante correo electrónico o carta certificada, en su caso, dirigida al domicilio del presunto infractor registrado en el Servicio Electoral. La notificación por carta certificada se entenderá practicada el tercer día hábil siguiente al de su despacho en la Oficina de Correos correspondiente.
-
-5. El sujeto cuya responsabilidad se investiga tendrá un plazo de diez días, contado desde la respectiva notificación, para contestar ante la Subdirección competente, ante el Director Regional respectivo o por medio del sitio web del Servicio Electoral.
-
-6. Evacuado el traslado del presunto infractor o transcurrido el plazo otorgado para ello, la Subdirección respectiva resolverá de plano cuando pueda fundar su decisión en hechos no controvertidos que consten en el proceso o sean de pública notoriedad. En caso contrario, abrirá un término de prueba de ocho días. Dicho plazo se ampliará, en el caso que corresponda, de acuerdo al artículo 26 de la ley Nº19.880. Los funcionarios fiscalizadores del Servicio aportarán pruebas en calidad de ministros de fe.
-
-La Subdirección respectiva dará lugar a las medidas o diligencias probatorias que solicite el presunto infractor en sus descargos, siempre que resulten pertinentes y conducentes. En caso contrario, las rechazará mediante resolución motivada.
-
-7. Los hechos investigados y las responsabilidades a que estos den lugar podrán acreditarse mediante cualquier medio de prueba admisible en derecho, los que se apreciarán conforme a las reglas de la sana crítica.
-
-8. Cumplidos los trámites señalados en los numerales anteriores, el Subdirector correspondiente emitirá, dentro de cinco días, un informe en el cual propondrá la absolución o la sanción que a su juicio corresponda aplicar. Dicho informe deberá contener la individualización del o de los sujetos investigados; la relación de los hechos investigados y la forma como se ha llegado a comprobarlos, según corresponda, y la proposición al Director del Servicio Electoral de las sanciones que estimare procedente aplicar o de la absolución.
-
-9. Emitido el informe, el Subdirector correspondiente elevará los antecedentes al Director del Servicio Electoral, quien resolverá en el plazo de diez días, dictando al efecto una resolución fundada en la cual absolverá al infractor o aplicará la sanción, en su caso.
-
-No obstante lo establecido en el párrafo anterior y una vez recibido el informe del Subdirector, si el Director determina que existen antecedentes suficientes que pudieren configurar alguna de las infracciones graves señaladas en el artículo 28 bis de la ley Nº19.884, sobre Transparencia, Límite y Control del Gasto Electoral elevará dichos antecedentes al Consejo Directivo dentro del plazo de cinco días hábiles, para que éste resuelva. El Consejo Directivo tendrá el plazo de quince días hábiles contado desde la recepción de los antecedentes para resolver.
-
-En caso de que el Consejo Directivo resuelva que no se ha verificado una infracción grave devolverá los antecedentes al Director del Servicio Electoral, para que dicte resolución final, de conformidad al párrafo primero.
-
-10. De la resolución que pusiere fin a la instancia administrativa ante el Director del Servicio Electoral podrá deducirse reclamación para ante el Tribunal Calificador de Elecciones, dentro del plazo de cinco días, contado desde su notificación. El expediente se remitirá a dicho Tribunal por el Servicio Electoral, a más tardar dentro de quinto día de interpuesta la reclamación. El Tribunal fallará de acuerdo al procedimiento que establezca para tal efecto, de conformidad al artículo 12 de la ley Nº18.460.
-
-11. Contra las resoluciones del Tribunal Calificador de Elecciones no procederá recurso alguno, sin perjuicio de lo establecido en el artículo 13 de la ley Nº18.460.
-
-12. La resolución que aplica la multa tendrá mérito ejecutivo.
-
-Los plazos establecidos en este Párrafo 7º son de días hábiles, entendiéndose que son inhábiles los días sábados, los domingos y los festivos.
-
-#### Artículo 70
-
-E.- La multa será determinada por el Director del Servicio Electoral considerando la cantidad de infracciones cometidas por parte del infractor, su eventual reincidencia y la colaboración que haya prestado al Servicio antes o durante la fiscalización o investigación. El Consejo Directivo del Servicio Electoral determinará mediante instrucciones generales la forma en que deberán aplicarse estos criterios.
-
-Si en una misma campaña electoral se iniciaren procedimientos sancionatorios por más de una infracción respecto de un mismo sujeto, se acumularán tales procedimientos y se aplicará como sanción la suma de los montos de las multas a que dé lugar cada una de las infracciones constatadas.
-
-### Párrafo 8°
+### Párrafo 4°
 
 Del personal del Servicio Electoral
 
@@ -889,10 +699,6 @@ El Director del Servicio Electoral tendrá la obligación de ordenar la difusió
 Los anuncios e impresiones ordenados por esta ley, así como los demás gastos ocasionados por funciones o prestaciones encomendados por el Servicio Electoral, serán de cargo de éste.
 
 Las cuentas pertinentes deberán ser presentadas al Servicio dentro del término de dos meses contado desde que se hubiere efectuado la prestación. Vencido este plazo sin que la cuenta hubiere sido presentada, la acción de cobro caducará.
-
-#### Artículo 76
-
-En los años en que se realicen elecciones o plebiscitos de conformidad a lo establecido en la ley Nº 18.700, el Servicio Electoral consultará en los respectivos programas presupuestarios, recursos para la contratación de personal, según lo disponga la ley de Presupuestos del Sector Público respectiva.
 
 DISPOSICIONES TRANSITORIAS
 

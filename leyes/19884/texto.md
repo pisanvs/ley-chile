@@ -130,7 +130,7 @@ De los límites al gasto electoral
 
 Ninguna candidatura a Presidente de la República, senador, diputado, alcalde o concejal podrá sobrepasar, por concepto de gastos electorales, los límites que se indican en los incisos siguientes.
 
-Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de tres mil unidades de fomento, más aquella que resulte de multiplicar por cuatro centésimos de unidad de fomento los primeros doscientos mil electores, por tres centésimos de unidad de fomento los siguientes doscientos mil electores y por dos centésimos de unidad de fomento los restantes electores en la respectiva circunscripción.
+Tratándose de candidaturas a senador, el límite de gasto no podrá exceder de la suma de tres mil unidades de fomento, más aquella que resulte de multiplicar por cuatro centésimos de unidad de fomento los primeros doscientos mil inscritos, por tres centésimos de unidad de fomento los siguientes doscientos mil inscritos y por dos centésimos de unidad de fomento los restantes inscritos en la respectiva circunscripción.
 
 Los candidatos a diputado no podrán exceder de la suma de mil quinientas unidades de fomento, más aquella que resulte de multiplicar por tres centésimos de unidad de fomento el número de electores en el respectivo distrito.
 

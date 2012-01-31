@@ -62,7 +62,19 @@ Los miembros del Tribunal Calificador de Elecciones serán inviolables por las o
 
 #### Artículo 6 bis
 
-Derogado
+Los integrantes del Tribunal Calificador de Elecciones deberán efectuar una declaración jurada de patrimonio, en los mismos términos de los artículos 60 B, 60 C y 60 D de la ley Nº 18.575, Orgánica Constitucional de Bases Generales de la Administración del Estado.
+
+La declaración de patrimonio deberá efectuarse ante el Secretario del Tribunal, quien la mantendrá para su consulta pública.
+
+La no presentación oportuna de la declaración de patrimonio será sancionada con multa de diez a treinta unidades tributarias mensuales. Transcurridos sesenta días desde que la declaración sea exigible, se presumirá incumplimiento del infractor.
+
+El incumplimiento de la obligación de actualizar la declaración de patrimonio se sancionará con multa de cinco a quince unidades tributarias mensuales. Las sanciones a que se refieren los incisos anteriores serán aplicadas por el Tribunal Calificador de Elecciones.
+
+El procedimiento se podrá iniciar de oficio por el Tribunal o por denuncia de uno de sus Ministros. La formulación de cargos dará al Ministro afectado el derecho a contestarlos en el plazo de diez días hábiles. En caso de ser necesario, el período probatorio será de ocho días. Podrán presentarse todos los medios de prueba, los que se apreciarán en conciencia. El Tribunal deberá dictar la resolución final dentro de los diez días siguientes a aquél en que se evacuó la última diligencia.
+
+No obstante lo señalado en los incisos anteriores, el infractor tendrá el plazo fatal de diez días, contado desde la notificación de la resolución de multa, para presentar la declaración omitida o para corregirla. Si así lo hace, la multa se rebajará a la mitad.
+
+> **Nota.** El artículo 2º Transitorio de la LEY 20088, publicada el 05.01.2006, modificatoria de la presente norma, dispone que las modificaciones que introduce a esta, entrarán en vigencia noventa días después de la publicación del Reglamento que establecerá los requisitos de las declaraciones de patrimonio, según lo dispone el artículo 1º Transitorio de la citada Ley.
 
 #### Artículo 7°
 
@@ -132,13 +144,13 @@ Contra las resoluciones del Tribunal no procederá recurso alguno. El Tribunal p
 
 Los miembros del Tribunal percibirán una remuneración equivalente a cuatro unidades tributarias mensuales por cada audiencia a que concurran, con un máximo por cada mes calendario de veinte unidades tributarias mensuales.
 
-Excepcionalmente, en los años calendario en los que se realicen elecciones de Presidente de la República, diputados, senadores, gobernadores regionales y municipales, los miembros del tribunal podrán realizar sesiones extraordinarias y percibirán una remuneración por cada una de ellas equivalente a 4 unidades tributarias mensuales.
+No obstante lo anterior, en los meses de octubre y diciembre de los años en que se realicen elecciones de Presidente de la República y de diputados y senadores, el máximo señalado en el inciso anterior se elevará a veintiocho y a ochenta unidades tributarias mensuales, respectivamente.
 
-Adicionalmente, el miembro indicado en el literal b) del inciso segundo del artículo 95 de la Constitución Política de la República percibirá una remuneración mensual equivalente a 20 unidades tributarias mensuales.
+Asimismo, el máximo a que se refiere el inciso primero se elevará a veintiocho unidades tributarias mensuales en los meses de agosto y diciembre de los años en que se realicen elecciones municipales. En el mes de noviembre de dichos años, se elevará a cuarenta unidades tributarias mensuales.
 
-En el mes de enero del año siguiente a una elección de Presidente de la República, cuando se produjere lo previsto por el inciso segundo del artículo 26 de la Constitución Política de la República, y/o de una elección parlamentaria, el máximo a que se refiere el inciso primero se elevará a ochenta y ocho unidades tributarias mensuales.
+En el mes de enero del año siguiente a una elección de Presidente de la República, cuando se produjere lo previsto por el inciso segundo del artículo 26 de la Constitución Política de la República, y/o de una elección parlamentaria, el máximo antes referido se elevará a ochenta y ocho unidades tributarias mensuales.
 
-Con todo, el total de las remuneraciones de cada miembro del tribunal indicadas en los incisos primero, segundo y cuarto, no podrán exceder de 308 unidades tributarias mensuales, en los años calendario a que se refieren los incisos segundo y cuarto.
+Con todo, las remuneraciones de cada miembro del tribunal no podrán exceder de 276 unidades tributarias mensuales en los años calendario a que se refiere el inciso tercero, y en los años calendario señalados en los incisos segundo y cuarto, no podrán exceder de 308 unidades tributarias mensuales.
 
 #### Artículo 15°
 
