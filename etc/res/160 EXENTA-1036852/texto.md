@@ -20,9 +20,9 @@ Considerando:
 
 Resuelvo:
 
-1º. Aplícase, a partir del 31 de enero de 2012, el ajuste y aumento en el nivel de tarifas del sistema de transporte público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, determinado por el Panel de Expertos, en las resoluciones Nos 21, de 2011 y 1, de 2012, de forma que la Tarifa de servicios puro será la que se indica a continuación:
+1º. Aplícase, a partir del 31 de enero de 2012, a las 23:59:59 el ajuste y aumento en el nivel de tarifas del sistema de transporte público de la provincia de Santiago y las comunas de San Bernardo y Puente Alto, determinado por el Panel de Expertos, en las resoluciones Nos 21, de 2011 y 1, de 2012, de forma que la Tarifa de servicios puro será la que se indica a continuación:
 
-2º. Instrúyese, a través de la presente resolución, al Administrador Financiero de Transantiago S.A., implementar el ajuste y aumento en el nivel de tarifas ordenados en las resoluciones Nos 21, de 2011 y 1, de 2012, del Panel de Expertos, señalados en los considerandos 4º y 5º de la presente resolución, a partir del 31 de enero de 2012.
+2º. Instrúyese, a través de la presente resolución, al Administrador Financiero de Transantiago S.A., implementar el ajuste y aumento en el nivel de tarifas ordenados en las resoluciones Nos 21, de 2011 y 1, de 2012, del Panel de Expertos, señalados en los considerandos 4º y 5º de la presente resolución, a partir del 31 de enero de 2012, a las 23:59:59.
 
 Anótese, publíquese y notifíquese.- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
 
