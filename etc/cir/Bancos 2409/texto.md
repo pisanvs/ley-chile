@@ -5094,7 +5094,7 @@ d) Los casos en que haya retención, prenda o embargo sobre los dineros correspo
 
 ### 3. Listas de acreencias y sus publicaciones
 
-Los bancos confeccionarán, en el mes de enero de cada año, una lista de las acreencias afectas a caducidad que hayan cumplido dos años de inmovilización en el curso del año calendario inmediatamente anterior. Deberán fijar dicha lista en su domicilio principal.
+Los bancos confeccionarán, en el mes de enero de cada año, una lista de las acreencias afectas a caducidad que hayan cumplido dos años de inmovilización en el curso del año calendario inmediatamente anterior. Deberán fijar dicha lista en su domicilio principal. Asimismo, deberán remitir a esta Superintendencia un archivo en formato digital que contenga esa información, a más tardar el primer día hábil bancario del mes de abril de cada año.
 
 El plazo de dos años a que se refiere el párrafo precedente, se cuenta desde la fecha en que la acreencia debió haber sido cobrada por su titular, o bien, desde la fecha en que se registró el último giro. En el caso de los dividendos, el plazo de caducidad comienza a regir desde la fecha en que el accionista haya tenido derecho a exigir su pago.
 
