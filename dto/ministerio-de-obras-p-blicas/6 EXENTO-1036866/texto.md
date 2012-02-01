@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. N° 6, de 09 de enero de 2012, se dejó sin efecto la expropiación del lote de terreno N°28, dispuesta por Decreto Exento MOP. N°1048, de 10 de junio de 2011, por no ser necesaria para la construcción de la obra pública "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II", (Conay - Malaguin), Comuna de Alto del Carmen, Provincia de Huasco, III Región.
+
+Fiscal del Ministerio de Obras Públicas.
