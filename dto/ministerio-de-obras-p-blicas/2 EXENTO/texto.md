@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) N° 2 de 9 de enero de 2012, se dejó sin efecto el Decreto MOP (Exento) N°3500 de 28 de octubre de 2011, que ordena la expropiación del lote N°13-A, por haber sido expropiado por Decreto MOP (Exento) N°1026 de 30 de septiembre de 2008 para la obra pública: Camino Ruta K-45, Sector Pelarco - Huencuecho Sur, Tramo km. 0,00000 a km. 8,54141, Comuna de Pelarco, Provincia de Talca, VII Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
