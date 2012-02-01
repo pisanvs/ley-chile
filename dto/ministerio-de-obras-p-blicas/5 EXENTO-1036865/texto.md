@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. N° 5, de 9 de enero de 2012, y en base a la facultad otorgada por el artículo 105 del D.F.L. M.O.P. N° 850 de 1997, que fijó el texto actualizado de la Ley N° 15.840, se modificó el numeral segundo del Decreto Exento N°1413, de 31 de agosto de 2010, a fin de individualizar correctamente el rol de avalúo del lote de terreno N°45, el cual es 907-251, necesario para la ejecución de la obra: "Mejoramiento Ruta D-35, (Camino La Cantera) S: Av. Del Mar - Ruta 43", Comuna de Coquimbo, Provincia de Elqui, IV Región de Coquimbo. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
