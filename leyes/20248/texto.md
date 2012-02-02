@@ -76,6 +76,8 @@ Mediante este convenio, el sostenedor se obligará a los siguientes compromisos 
 
 a) Presentar anualmente a la Superintendencia de Educación, dentro de la rendición de cuenta pública del uso de los recursos, y a la comunidad escolar un informe relativo al uso de los recursos percibidos por concepto de subvención escolar preferencial y de los demás aportes contemplados en esta ley. Dicho informe deberá contemplar la rendición de cuentas respecto de todos los recursos recibidos por concepto de esta ley.
 
+Cada rendición deberá llevar la firma del director del establecimiento educacional correspondiente, mediante la cual se confirmará el visto bueno de éste frente a lo presentado por el sostenedor previo conocimiento del consejo escolar.
+
 b) Acreditar el funcionamiento efectivo del Consejo Escolar, del Consejo de Profesores y del Centro General de Padres y Apoderados, el que no requerirá gozar de personalidad jurídica.
 
 c) Acreditar la existencia de horas docentes destinadas a cumplir la función técnico-pedagógica en el establecimiento y asegurar el cumplimiento efectivo de las horas curriculares no lectivas.
