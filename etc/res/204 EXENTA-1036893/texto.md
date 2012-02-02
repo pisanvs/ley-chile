@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 204 EXENTA, DE 2012
+
+Por resolución exenta N° 204 de 25 de enero de 2012, del Ministerio de Transportes y Telecomunicaciones, se modifica resolución exenta Nº 975, de 2010, en lo que sigue: Se prorroga término de vigencia de las "Condiciones Específicas de Operación y Utilización de Vías para Servicios de Taxi Colectivos de la provincia de Santiago y las comunas de Puente Alto y San Bernardo", establecidas mediante resolución exenta Nº 975, de 2010, hasta el 31 de mayo de 2012, o bien, hasta la fecha de puesta en marcha de los servicios concesionados en el marco del próximo proceso de licitación pública de Servicios de Taxis Colectivos en Vías de la provincia de Santiago y las comunas de Puente Alto y San Bernardo, Proceso 2010.
+
+- Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
