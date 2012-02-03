@@ -18,8 +18,6 @@ El número de proyectos seleccionados y preseleccionados en cada Región alcanza
 
 3. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de los proyectos seleccionados y preseleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El Numeral 1 letra a) de la Resolución 1439 Exenta, Vivienda, publicada el 09.03.2013, modifica la presente norma el el sentido de reemplazar en el cuadro inserto en el resuelvo 1., en la fila correspondiente a la Región de "Los Ríos" el guarismo "97.068,00" por el guarismo "86.658" y en la fila Total País el guarismo "1.507.142,82" por el guarismo "1.496.732,82".
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
