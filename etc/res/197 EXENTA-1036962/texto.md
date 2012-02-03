@@ -1,0 +1,3 @@
+Por resolución exenta Nº 197, de 26 de enero de 2012, de esta Subsecretaría, recházanse las solicitudes números 208111681, 209111155, 209111375, 209111414, 209111416, 209111418, 209111441, 209111457, 210111158 y 210111769, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 26 de enero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
