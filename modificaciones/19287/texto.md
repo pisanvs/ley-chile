@@ -222,16 +222,6 @@ Los administradores generales de los respectivos fondos estarán facultados para
 
 En todo caso, la muerte del deudor causará la extinción de la deuda.
 
-#### Artículo 17 bis
-
-En caso de mora, y sólo una vez agotadas todas las instancias de recuperación prejudicial de la deuda, el administrador del fondo podrá reprogramar la deuda morosa de los deudores que no hubieren reprogramado con anterioridad y que se lo soliciten. Esta reprogramación deberá ser en cuotas fijas, anuales y sucesivas. No obstante lo anterior, una reprogramación individual no podrá ocurrir antes de que hayan transcurrido 18 meses desde que el deudor entró en mora.
-
-Para acogerse a esta reprogramación los deudores deberán hacer un pago inicial del todo o parte del saldo de capital más los intereses adeudados, sin contar los intereses penales, y se les condonarán estos últimos en la misma proporción que el porcentaje de la deuda que inicialmente paguen, menos un 10%. Con todo, esta condonación en ningún caso podrá exceder del 80% de los intereses penales ni ser inferior al 20%.
-
-El pago inicial no podrá ser inferior al monto mayor entre el 10% de la deuda, excluyendo los intereses penales, y el equivalente a 4 unidades tributarias mensuales. Asimismo, en caso que el 10% de la deuda resulte superior a 20 unidades tributarias mensuales, el deudor podrá optar por pagar inicialmente este último monto.
-
-El plazo de pago del remanente de la deuda no deberá exceder de 10 años, si el monto de la deuda reprogramada es igual o inferior a 150 unidades tributarias mensuales, o de 15 años, si el monto de la deuda reprogramada es superior a 150 unidades tributarias mensuales.
-
 #### Artículo 18
 
 Facúltase, asimismo, a los administradores generales de fondo solidario de crédito universitario para celebrar convenios o constituir sociedades de recaudación y cobranza, entre sí y con terceros.
