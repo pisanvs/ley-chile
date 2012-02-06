@@ -1,0 +1,5 @@
+REQUISITOS PARA QUE UN VALOR SEA CONSIDERADO DE PRESENCIA BURSÁTIL PARA EFECTOS DE LA APLICACIÓN DEL ARTÍCULO 57 BIS, LETRA A), Nº10 Y DEL ARTÍCULO 107 DE LA LIR
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 10, de fecha 31 de enero de 2012, la cual tiene por objeto, dar a conocer la Norma de Carácter General (NCG) Nº327, de 17 de enero de 2012, de la Superintendencia de Valores y Seguros, la cual establece los requisitos para que un valor sea considerado de presencia bursátil, e impartir las instrucciones pertinentes para los efectos de lo dispuesto en el artículo 57 bis, Letra A, Nº10 y en el artículo 107, de la LIR.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en enero de 2012.
