@@ -102,15 +102,23 @@ En estos procedimientos será aplicable además lo dispuesto en el inciso segund
 
 #### Artículo 13
 
-Todas las notificaciones relacionadas con el procedimiento de otorgamiento de un derecho de propiedad industrial, oposiciones, nulidad y, en general, con cualquier materia que se siga ante el Instituto, se efectuarán por el estado diario que el Instituto deberá confeccionar y publicar en la forma que determine el reglamento. Se entenderá notificada cualquier resolución que aparezca en el estado diario, salvo aquéllas respecto de las cuales la ley ordene una forma de notificación diferente.
+Todas las notificaciones que digan relación con el procedimiento de otorgamiento de un derecho de propiedad industrial, oposiciones, nulidad y, en general, cualquier materia que se siga ante el Departamento, se efectuarán por el estado diario que este último deberá confeccionar.
 
-La notificación de oposición a la solicitud de registro se practicará a través del medio electrónico definido por el solicitante en el expediente. En estos casos, la notificación se entenderá efectuada con el envío de copia íntegra de la oposición y su proveído. Cuando, además de la oposición, se hubieren formulado observaciones de fondo a la solicitud de registro, dicha resolución será notificada igualmente por medio electrónico, conjuntamente con la notificación de oposición. Si no resultare posible realizar la notificación por medio electrónico, la resolución correspondiente se entenderá notificada por el estado diario, conforme a lo que disponga el reglamento.
+Dicho estado diario podrá constar de uno o más listados.
 
-La notificación de la demanda de caducidad o de nulidad de un registro se efectuará en los términos señalados en los artículos 40 y siguientes del Código de Procedimiento Civil, para lo cual los solicitantes extranjeros deberán fijar un domicilio en Chile. La demanda de caducidad o de nulidad de un registro concedido a una persona sin domicilio ni residencia en Chile se notificará al apoderado o representante a que se refiere el inciso primero del artículo 2.
+Se entenderá notificada cualquier resolución que aparezca en dichos listados.
 
-Las notificaciones que realice el Tribunal de Propiedad Industrial se efectuarán por el estado diario, que deberá confeccionar su Secretario.
+La notificación de oposición a la solicitud de registro se efectuará por carta certificada expedida al domicilio indicado por el solicitante en el expediente.
 
-La fecha y forma en que se haya practicado la notificación deberá constar en el expediente.
+En estos casos, la notificación se entenderá efectuada tres días después que la carta sea depositada en el correo y consistirá en el envío de copia íntegra de la oposición y su proveído. Cuando, además de la oposición, se hubieren dictado observaciones de fondo a la solicitud de registro, dicha resolución será notificada igualmente por carta certificada, conjuntamente con la notificación de oposición.
+
+La notificación de la demanda de nulidad de un registro se efectuará en los términos señalados en los artículos 40 y siguientes del Código de Procedimiento Civil, para lo cual los solicitantes extranjeros deberán fijar un domicilio en Chile. La demanda de nulidad de un registro concedido a una persona sin domicilio ni residencia en Chile se notificará al apoderado o representante a que se refiere el artículo 2º de esta ley.
+
+Todas las providencias y resoluciones que se dicten en los procesos contenciosos seguidos ante el Jefe del Departamento serán suscritas por éste y el Secretario Abogado del Departamento.
+
+Las notificaciones que realice el Tribunal de Propiedad Industrial se efectuarán por el estado diario, que deberá confeccionarlo el Secretario del mismo.
+
+La fecha y forma en que se practicó la notificación, deberá constar en el expediente.
 
 #### Artículo 14
 
@@ -466,17 +474,11 @@ K.- Antes de asumir sus funciones, los integrantes del Tribunal, Secretario y Re
 
 La concesión de patentes de invención, de modelos de utilidad, de dibujos y diseños industriales y de esquemas de trazado o topografías de circuitos integrados, estará sujeta al pago de un derecho equivalente a dos unidades tributarias mensuales por cada cinco años de concesión del derecho. Al presentarse la solicitud, deberá pagarse el equivalente a una unidad tributaria mensual, sin lo cual no se le dará trámite. Aceptada la solicitud, se completará el pago del derecho de los primeros diez años, para las patentes de invención, y de los primeros cinco años, para el caso de los modelos de utilidad, dibujos y diseños industriales y esquemas de trazado o topografías de circuitos integrados.
 
-Sin perjuicio de lo señalado en el inciso precedente, y a requerimiento del solicitante, el Instituto podrá otorgar fecha de presentación a una solicitud aun cuando no se haya acreditado el pago previsto, pero no se le dará más trámite a la solicitud hasta que éste no se acredite, lo que deberá hacerse dentro de los treinta días siguientes de otorgada la fecha de presentación, bajo apercibimiento de tener por no presentada la solicitud.
+Si la solicitud fuera rechazada, la cantidad pagada quedará a beneficio fiscal.
 
-Toda solicitud de patente de invención que exceda de 80 hojas deberá pagar, conjuntamente con la tasa de presentación, una tasa adicional equivalente a 1 unidad tributaria mensual por cada 20 hojas adicionales o fracción.
+El pago de los derechos correspondientes al segundo decenio o quinquenio, según se trate de patentes de invención, modelos de utilidad, dibujos y diseños industriales o esquemas de trazado o topografías de circuitos integrados, deberá efectuarse antes del vencimiento del primer decenio o quinquenio o dentro de los seis meses siguientes a la expiración de dicho plazo, con una sobretasa de 20% por cada mes o fracción de mes, contados a partir del primer mes del plazo de gracia.
 
-El pago de los derechos correspondientes al segundo decenio de las patentes, al segundo quinquenio de los modelos de utilidad y los esquemas de trazado o topografías de circuitos integrados, y al segundo y tercer quinquenio de los dibujos y diseños industriales, podrá efectuarse mediante una de las siguientes modalidades, a elección del titular:
-
-a) Pagos anuales e iguales, equivalentes a 0,4 unidades tributarias mensuales, a partir del vencimiento del primer decenio o quinquenio, según corresponda. Estos pagos deberán efectuarse dentro del año previo a la anualidad que corresponda o dentro de un periodo de gracia de seis meses siguientes a la expiración de cada año, con una sobretasa de 20% por cada mes o fracción de mes, contado a partir del primer mes del periodo de gracia; o
-
-b) Un pago único antes del vencimiento del primer decenio o quinquenio, según corresponda, que será equivalente a 4 unidades tributarias mensuales en el caso de las patentes y los dibujos y diseños industriales, y a 2 unidades tributarias mensuales en el caso de los modelos de utilidad y los esquemas de trazado o topografías de circuitos integrados. El pago único deberá efectuarse dentro del año previo al cumplimiento del primer decenio o quinquenio, según corresponda, o dentro de un periodo de gracia de seis meses siguientes a su expiración, con una sobretasa de 20% por cada mes o fracción de mes, contado a partir del primer mes del periodo de gracia.
-
-En caso de no efectuarse el pago dentro de los términos señalados en los literales a) o b) precedentes, caducarán los derechos a los cuales hace referencia este artículo.
+En caso de no efectuarse el pago dentro del término señalado, los derechos a los cuales hace referencia este artículo, caducarán.
 
 #### Artículo 18 bis
 
@@ -496,9 +498,11 @@ En el caso de no pago oportuno de los derechos y honorarios periciales diferidos
 
 #### Artículo 18 bis
 
-B.- La inscripción de marcas comerciales, indicaciones geográficas y denominaciones de origen, estarán afectas al pago de un derecho equivalente a tres unidades tributarias mensuales. Al presentarse la solicitud, deberá pagarse el equivalente a una unidad tributaria mensual, sin lo cual no se le dará trámite. Aceptada la solicitud, se completará el pago del derecho.
+B.- La inscripción de marcas comerciales, indicaciones geográficas y denominaciones de origen, estarán afectas al pago de un derecho equivalente a tres unidades tributarias mensuales. Al presentarse la solicitud, deberá pagarse el equivalente a una unidad tributaria mensual, sin lo cual no se le dará trámite.
 
-La renovación de registros de marcas estará sujeta al pago de una tasa equivalente a 6 unidades tributarias mensuales por clase. La acreditación de dicho pago deberá realizarse conjuntamente con la solicitud de renovación. Las solicitudes de renovación presentadas con posterioridad al vencimiento del registro a renovar estarán sujetas al pago de una sobretasa correspondiente al 20% por cada mes o fracción de mes posterior a la expiración del registro.
+Aceptada la solicitud, se completará el pago del derecho y, si es rechazada, la cantidad pagada quedará a beneficio fiscal.
+
+La renovación de registros de marcas estará sujeta al pago del doble del derecho contemplado en el inciso anterior. El pago podrá efectuarse dentro de los seis meses siguientes al vencimiento del registro, con una sobretasa de 20% por cada mes o fracción de mes contados a partir del primer mes de expiración del plazo establecido en el artículo 24 de esta ley.
 
 Tratándose de indicaciones geográficas o denominaciones de origen, éstas no estarán afectas al pago de renovación establecido para las marcas comerciales en el inciso anterior.
 
@@ -510,19 +514,21 @@ A la presentación deberá acompañarse el comprobante de pago respectivo. De se
 
 #### Artículo 18 bis
 
-D.- La inscripción de las transferencias de dominio, licencias de uso, prendas y cambios de nombre y cualquier otro tipo de gravámenes que puedan afectar a una patente de invención, modelo de utilidad, dibujos y diseño industrial, marca comercial o esquemas de trazado o topografía de circuitos integrado, se efectuará previo pago de un derecho equivalente a una unidad tributaria mensual, cuyo pago se acreditará en el momento de presentar la respectiva solicitud. Los actos señalados no serán oponibles a terceros mientras no se proceda a su inscripción en el Departamento.
+D.- La inscripción de las transferencias de dominio, licencias de uso, prendas y cambios de nombre y cualquier otro tipo de gravámenes que puedan afectar a una patente de invención, modelo de utilidad, dibujos y diseño industrial, marca comercial o esquemas de trazado o topografía de circuitos integrado, se efectuará previo pago de un derecho equivalente a una unidad tributaria mensual. Los actos señalados no serán oponibles a terceros mientras no se proceda a su inscripción en el Departamento.
 
 #### Artículo 18 bis
 
-E.- Los derechos establecidos en los artículos anteriores serán a beneficio fiscal.
+E.- Los derechos establecidos en los artículos anteriores, serán a beneficio fiscal, debiendo acreditarse su pago dentro de los 60 días contados desde la fecha en que quede ejecutoriada la resolución que autoriza la inscripción en el registro respectivo, sin lo cual se tendrá por abandonada la solicitud, procediéndose a su archivo.
 
-Para completar el pago de los derechos correspondientes a la aceptación de un registro de propiedad industrial, éste deberá acreditarse dentro de los sesenta días contados desde la fecha en que quede ejecutoriada la resolución que autoriza la inscripción en el registro respectivo, sin lo cual se tendrá por abandonada la solicitud, procediéndose a su archivo, sin perjuicio de lo establecido en el inciso segundo del artículo 45.
-
-La resolución señalada en el inciso anterior deberá notificarse por medio electrónico en la forma y condiciones que establezca el reglamento.
+Dicha resolución deberá notificarse por carta certificada en la forma y condiciones que establezca el reglamento.
 
 #### Artículo 18 bis
 
-F.- No procederá la devolución de los montos pagados por concepto de derechos.
+F.- Los registros de marcas comerciales que distingan servicios y se encuentran limitados a una o más provincias, se entenderán extensivos a todo el territorio nacional.
+
+Los registros de marcas comerciales efectuados por provincias para amparar establecimientos comerciales, se entenderá que cubren toda la región o regiones en que se encuentren comprendidas las provincias respectivas.
+
+Los titulares de los registros a que se refieren los dos incisos precedentes que, por efectos de este artículo, amplíen el ámbito territorial de protección de sus marcas, no podrán prestar servicios o instalar establecimientos comerciales amparados por dichas marcas en las mismas provincias para las cuales se encuentren inscritas marcas iguales o semejantes respecto a servicios o establecimientos del mismo giro, bajo apercibimiento de incurrir en la infracción contemplada en la letra a) del artículo 28 de esta ley.
 
 ### Párrafo 5º — Del procedimiento de nulidad de registro
 
@@ -602,9 +608,9 @@ De las marcas comerciales
 
 #### Artículo 19
 
-Bajo la denominación de marca comercial, se comprende todo signo capaz de distinguir en el mercado productos o servicios. Tales signos podrán consistir en palabras, incluidos los nombres de personas, letras, números, elementos figurativos tales como imágenes, gráficos, símbolos, combinaciones de colores, sonidos, olores o formas tridimensionales, así como también, cualquier combinación de estos signos. Cuando los signos no sean intrínsecamente distintivos, podrá concederse el registro si han adquirido distintividad por medio del uso en el mercado nacional.
+Bajo la denominación de marca comercial, se comprende todo signo que sea susceptible de representación gráfica capaz de distinguir en el mercado productos, servicios o establecimientos industriales o comerciales. Tales signos podrán consistir en palabras, incluidos los nombres de personas, letras, números, elementos figurativos tales como imágenes, gráficos, símbolos, combinaciones de colores, sonidos, así como también, cualquier combinación de estos signos. Cuando los signos no sean intrínsecamente distintivos, podrá concederse el registro si han adquirido distintividad por medio del uso en el mercado nacional.
 
-Podrán también inscribirse las frases de propaganda o publicitarias, siempre que vayan unidas o adscritas a una marca registrada del producto o servicio para el cual se vayan a utilizar.
+Podrán también inscribirse las frases de propaganda o publicitarias, siempre que vayan unidas o adscritas a una marca registrada del producto, servicio o establecimiento comercial o industrial para el cual se vayan a utilizar.
 
 La naturaleza del producto o servicio al que la marca ha de aplicarse no será en ningún caso obstáculo para el registro de la marca.
 
@@ -618,9 +624,11 @@ El reglamento de uso y control deberá presentarse junto a la solicitud de marca
 
 El incumplimiento por parte de alguno de los comuneros de las normas previstas en el reglamento de uso y control, dará acción a cualquiera de los demás comuneros para solicitar el cumplimiento forzoso y/o la indemnización de perjuicios conforme a las normas del Título X de esta ley.
 
+Con igual procedimiento y efectos podrá registrarse una marca para ser usada colectivamente, con la finalidad de garantizar la naturaleza o cualidad de determinados productos o servicios. En este caso, la marca no podrá ser cedida a terceras personas.
+
 #### Artículo 19 bis
 
-A.- La nulidad o caducidad producirán los mismos efectos respecto de las frases de propaganda adscritas al registro. En consecuencia, anulada o caducada una marca, el Departamento procederá a cancelar de oficio los registros de frases de propaganda dependientes de la marca anulada o caducada. De ello deberá dejarse constancia mediante la subinscripción marginal en el registro correspondiente.
+A.- La nulidad o caducidad por no pago de los derechos de renovación producirán los mismos efectos respecto de las frases de propaganda adscritas al registro. En consecuencia, anulada o caducada una marca, el Departamento procederá a cancelar de oficio los registros de frases de propaganda dependientes de la marca anulada o caducada. De ello deberá dejarse constancia mediante la subinscripción marginal en el registro correspondiente.
 
 #### Artículo 19 bis
 
@@ -632,19 +640,15 @@ C.- Los registros de marcas que contengan signos, figuras, cifras, colores, voca
 
 #### Artículo 19 bis
 
-D.- La marca confiere a su titular el derecho exclusivo y excluyente de utilizarla en el tráfico económico en la forma que se le ha conferido y para distinguir los productos o servicios comprendidos en el registro.
+D.- La marca confiere a su titular el derecho exclusivo y excluyente de utilizarla en el tráfico económico en la forma que se le ha conferido y para distinguir los productos, servicios, establecimientos comerciales o industriales comprendidos en el registro.
 
-Por consiguiente, el titular de una marca registrada podrá impedir que cualquier tercero, sin su consentimiento, utilice en el curso de las operaciones comerciales marcas idénticas o similares para productos o servicios que sean idénticos o similares a aquéllos para los cuales se ha concedido el registro, y a condición de que el uso hecho por el tercero pueda inducir a error o confusión.
+Por consiguiente, el titular de una marca registrada podrá impedir que cualquier tercero, sin su consentimiento, utilice en el curso de las operaciones comerciales marcas idénticas o similares para productos, servicios o establecimientos comerciales o industriales que sean idénticos o similares a aquéllos para los cuales se ha concedido el registro, y a condición de que el uso hecho por el tercero pueda inducir a error o confusión.
 
-Cuando el uso hecho por el tercero se refiera a una marca idéntica para productos o servicios idénticos, se presumirá que existe confusión.
+Cuando el uso hecho por el tercero se refiera a una marca idéntica para productos, servicios o establecimientos comerciales o industriales idénticos, se presumirá que existe confusión.
 
 #### Artículo 19 bis
 
 E.- El derecho que confiere el registro de la marca no faculta a su titular para prohibir a terceros el uso de la misma respecto de los productos legítimamente comercializados en cualquier país con esa marca por dicho titular o con su consentimiento expreso.
-
-Los derechos conferidos a los titulares de marcas registradas no impedirán de modo alguno el ejercicio del derecho de cualquier persona a usar, en el curso de operaciones comerciales, su nombre o seudónimo o el nombre de su antecesor en la actividad comercial, excepto cuando ese nombre se use de manera que induzca a error o confusión al público consumidor.
-
-Del mismo modo, los titulares de marcas registradas que incorporen términos geográficos o indicaciones relativas al género, naturaleza, variedad, origen, nacionalidad, procedencia, destinación, peso, valor, calidad, características u otros términos descriptivos de productos o servicios, no podrán impedir la utilización de dichos términos o indicaciones cuando se utilicen precisamente para identificar o informar el origen geográfico, el género, naturaleza, variedad, origen, nacionalidad, procedencia, destinación, peso, valor, calidad u otra característica descriptiva para un producto o servicio, excepto cuando induzca a error o confusión al público consumidor.
 
 #### Artículo 20
 
@@ -660,25 +664,25 @@ Con todo, no podrán registrarse nombres de personas cuando ello constituya infr
 
 d) Las que reproduzcan o imiten signos o punzones oficiales de control de garantías adoptados por un Estado, sin su autorización; y las que reproduzcan o imiten medallas, diplomas o distinciones otorgadas en exposiciones nacionales o extranjeras, cuya inscripción sea pedida por una persona distinta de quien las obtuvo.
 
-e) Las expresiones o signos empleados para indicar el género, naturaleza, origen, nacionalidad, procedencia, destinación, peso, valor o cualidad de los productos o servicios; las que sean de uso general en el comercio para designar cierta clase de productos o servicios, y las que no presenten carácter distintivo o describan los productos o servicios a que deban aplicarse.
+e) Las expresiones o signos empleados para indicar el género, naturaleza, origen, nacionalidad, procedencia, destinación, peso, valor o cualidad de los productos, servicios o establecimientos; las que sean de uso general en el comercio para designar cierta clase de productos, servicios o establecimientos, y las que no presenten carácter distintivo o describan los productos, servicios o establecimientos a que deban aplicarse.
 
-f) Las que se presten para inducir a error o engaño respecto de la procedencia, cualidad o género de los productos o servicios, comprendidas aquellas pertenecientes a distintas clases cuyas coberturas tengan relación o indiquen una conexión de los respectivos productos o servicios.
+f) Las que se presten para inducir a error o engaño respecto de la procedencia, cualidad o género de los productos, servicios o establecimientos, comprendidas aquellas pertenecientes a distintas clases cuyas coberturas tengan relación o indiquen una conexión de los respectivos bienes, servicios o establecimientos.
 
-g) Las marcas iguales o que gráfica o fonéticamente se asemejen, en forma de poder confundirse con otras registradas en el extranjero para distinguir los mismos productos o servicios, siempre que ellas gocen de fama y notoriedad en el sector pertinente del público que habitualmente consume esos productos o demanda esos servicios, en el país originario del registro.
+g) Las marcas iguales o que gráfica o fonéticamente se asemejen, en forma de poder confundirse con otras registradas en el extranjero para distinguir los mismos productos, servicios o establecimientos comerciales o industriales, siempre que ellas gocen de fama y notoriedad en el sector pertinente del público que habitualmente consume esos productos, demanda esos servicios o tiene acceso a esos establecimientos comerciales o industriales, en el país originario del registro.
 
 Rechazado o anulado el registro por esta causal, el titular de la marca notoria registrada en el extranjero, dentro del plazo de 90 días, deberá solicitar la inscripción de la marca. Si así no lo hiciera, la marca podrá ser solicitada por cualquier persona, teniendo prioridad dentro de los 90 días siguientes a la expiración del derecho del titular de la marca registrada en el extranjero, aquella a quien se le hubiera rechazado la solicitud o anulado el registro.
 
-De igual manera, las marcas registradas en Chile que gocen de fama y notoriedad, podrán impedir el registro de otros signos idénticos o similares solicitados para distinguir productos o servicios distintos y no relacionados, a condición, por una parte, de que estos últimos guarden algún tipo de conexión con los productos o servicios que distingue la marca notoriamente conocida y que, por otra parte, sea probable que esa protección lesione los intereses del titular de la marca notoria registrada.
+De igual manera, las marcas registradas en Chile que gocen de fama y notoriedad, podrán impedir el registro de otros signos idénticos o similares solicitados para distinguir productos, servicios o establecimiento comercial o industrial distintos y no relacionados, a condición, por una parte, de que estos últimos guarden algún tipo de conexión con los productos, servicios o establecimiento comercial o industrial que distingue la marca notoriamente conocida y que, por otra parte, sea probable que esa protección lesione los intereses del titular de la marca notoria registrada.
 
-Para este caso, la fama y notoriedad se determinará en el sector pertinente del público que habitualmente consume esos productos o demanda esos servicios en Chile.
+Para este caso, la fama y notoriedad se determinará en el sector pertinente del público que habitualmente consume esos productos, demanda esos servicios o tiene acceso a esos establecimientos comerciales o industriales en Chile.
 
-h) Aquellas iguales o que gráfica o fonéticamente se asemejen de forma que puedan confundirse con otras ya registradas o válidamente solicitadas con anterioridad para productos o servicios idénticos o similares, pertenecientes a la misma clase o clases relacionadas.
+h) Aquellas iguales o que gráfica o fonéticamente se asemejen de forma que puedan confundirse con otras ya registradas o válidamente solicitadas con anterioridad para productos, servicios o establecimiento comercial o industrial idénticos o similares, pertenecientes a la misma clase o clases relacionadas.
 
 Esta causal será igualmente aplicable respecto de aquellas marcas no registradas que estén siendo real y efectivamente usadas con anterioridad a la solicitud de registro dentro del territorio nacional. Rechazado o anulado el registro por esta causal, el usuario de la marca deberá solicitar su inscripción en un plazo de 90 días. Si así no lo hiciera, la marca podrá ser solicitada por cualquier persona, teniendo prioridad dentro de los 90 días siguientes a la expiración del derecho del usuario, aquélla a quien se le hubiera rechazado la solicitud o anulado el registro.
 
 No obstante lo dispuesto en el párrafo primero de esta letra, el Departamento podrá aceptar los acuerdos de coexistencia de marcas, siempre que no transgredan derechos adquiridos por terceros con anterioridad o induzcan a confusión al público consumidor.
 
-i) El color de los productos o de los envases, además del color en sí mismo.
+i) La forma o el color de los productos o de los envases, además del color en sí mismo.
 
 j) Las que puedan inducir a error o confusión en el público consumidor, respecto de la procedencia o atributos del producto que pretende distinguir en Chile una Indicación Geográfica o Denominación de Origen.
 
@@ -687,8 +691,6 @@ k) Las contrarias al orden público, a la moral o a las buenas costumbres, compr
 #### Artículo 20 bis
 
 En el caso de que una marca haya sido solicitada previamente en el extranjero, el interesado tendrá prioridad por el plazo de seis meses contado desde la fecha de su presentación en el país de origen, para presentar la solicitud en Chile.
-
-La prioridad podrá acreditarse de acuerdo a los medios y modalidades establecidas en el reglamento.
 
 #### Artículo 21
 
@@ -856,7 +858,7 @@ de los registros divididos.
 
 #### Artículo 22
 
-Presentada una solicitud, el Conservador de Marcas verificará que se haya cumplido con las formalidades exigidas para la validez de la presentación. Si en este examen formal el Conservador de Marcas detectare algún error u omisión, apercibirá al interesado para que realice las correcciones o aclaraciones pertinentes dentro del término de 30 días, sin que por ello pierda su fecha de prioridad. De no mediar la corrección dentro del plazo señalado, la solicitud se tendrá por abandonada. De la resolución que declara abandonada la solicitud, se podrá reclamar ante el Jefe del Departamento de acuerdo a las normas generales. De no ser aceptada la reclamación, la solicitud se tendrá por abandonada.
+Presentada una solicitud, el Conservador de Marcas verificará que se haya cumplido con las formalidades exigidas para la validez de la presentación. Si en este examen formal el Conservador de Marcas detectare algún error u omisión, apercibirá al interesado para que realice las correcciones o aclaraciones pertinentes dentro del término de 30 días, sin que por ello pierda su fecha de prioridad. De no mediar la corrección dentro del plazo señalado, la solicitud se tendrá por abandonada. De la resolución que declara abandonada la solicitud, se podrá reclamar ante el Jefe del Departamento de acuerdo a las normas generales. De no mediar la corrección o no aceptada la reclamación, la solicitud se tendrá por abandonada.
 
 Si el Jefe del Departamento acepta a tramitación una solicitud, ella no podrá ser posteriormente rechazada de oficio por la misma razón y fundamento legal de que conoció tal funcionario por la vía de la reclamación.
 
@@ -872,57 +874,35 @@ Vencido el plazo señalado y habiéndose cumplido con las demás diligencias ord
 
 Cada marca sólo podrá solicitarse para productos o servicios específicos y determinados, con la indicación de la o las clases del Clasificador Internacional a que pertenecen.
 
-Podrá solicitarse marcas para distinguir frases de propaganda para aplicarse en publicidad de marcas ya inscritas.
+Podrá solicitarse marcas para distinguir establecimientos comerciales o industriales de fabricación o comercialización asociados a productos específicos y determinados de una o varias clases; y frases de propaganda para aplicarse en publicidad de marcas ya inscritas.
 
-Cuando se hayan incluido enuna única solicitud productos y/o servicios que pertenezcan a varias clases de la Clasificación Internacional de Niza, dicha solicitud dará por resultado un registro único.
+Cuando se hayan incluido en
 
-#### Artículo 23 bis
+una única solicitud productos y/o
 
-A.- Bajo la denominación marca colectiva se comprende todo signo o combinación de signos capaz de distinguir en el mercado los productos o servicios de los miembros de una asociación respecto de los productos o servicios de terceros.
+servicios que pertenezcan a varias
 
-Para estos efectos se entenderá por asociación a las agrupaciones de productores, fabricantes, comerciantes o prestadores de servicios que gocen de personalidad jurídica.
+clases de la Clasificación
 
-La marca colectiva no podrá cederse a terceras personas.
+Internacional de Niza, dicha
 
-#### Artículo 23 bis
+solicitud dará por resultado
 
-B.- Bajo la denominación marca de certificación se comprende todo signo o combinación de signos capaz de distinguir en el mercado los productos o servicios de terceros, garantizando que éstos cumplen con requisitos y características comunes.
-
-No podrán ser titulares de marcas de certificación quienes fabriquen o comercialicen productos o servicios idénticos o similares a aquéllos a los que fuere a aplicarse la citada marca.
-
-El titular de una marca de certificación deberá autorizar su uso a toda persona cuyo producto o servicio cumpla las condiciones establecidas en el reglamento de uso de la marca.
+un registro único.
 
 #### Artículo 23 bis
 
-C.- Las solicitudes de registro de marcas colectivas o marcas de certificación deberán acompañarse de un reglamento de uso.
-
-El reglamento de uso deberá cumplir con los requisitos siguientes:
-
-a) Contener los datos de identificación del titular.
-
-b) Individualizar los productos o servicios que distinguirá la marca colectiva o los productos y servicios que serán objeto de la certificación.
-
-c) Indicar las condiciones y modalidades para el uso de la marca.
-
-d) Contener los motivos por los que se pueda prohibir el uso de la marca colectiva a un miembro de la asociación o a la persona previamente autorizada en el caso de la marca de certificación.
-
-e) Contener las demás menciones que establezca el reglamento de esta ley.
-
-El Instituto podrá objetar el registro del reglamento de uso o su modificación según lo estime pertinente, en la etapa de examen formal o en la de examen sustantivo, en caso de que a su juicio se infrinjan disposiciones legales o reglamentarias, o éste contenga disposiciones contrarias al orden público o que puedan inducir a error o confusión al público consumidor.
+A.- Para los efectos del pago de derechos, la solicitud o inscripción de una marca para productos y servicios se tendrá como una solicitud o registro distinto por cada clase, cualquiera sea el número de productos o servicios específicos incluidos en cada una. Lo establecido en el artículo anterior será igualmente aplicable a las diversas clases de productos comprendidos en la cobertura de los establecimientos industriales y comerciales. Dicho principio será extensivo tanto a los registros nuevos como a las renovaciones de los registros.
 
 #### Artículo 23 bis
 
-D.- Para los efectos del pago de derechos, la solicitud o inscripción de una marca para productos y servicios se tendrá como una solicitud o registro distinto por cada clase, cualquiera sea el número de productos o servicios específicos incluidos en cada una. Dicho principio será extensivo tanto a los registros nuevos como a las renovaciones de los registros.
+B.- Los registros de marcas que distinguen productos, servicios y establecimientos industriales tendrán validez para todo el territorio de la República.
 
-#### Artículo 23 bis
-
-E.- Los registros de marcas tendrán validez para todo el territorio de la República.
+Los registros de marcas que protejan establecimientos comerciales servirán sólo para la región en que estuviera ubicado el establecimiento. Si el interesado quisiera hacer extensiva a otras regiones la propiedad de la misma marca, lo indicará en su solicitud de registro, debiendo pagar el derecho correspondiente a una solicitud y a una inscripción por cada región.
 
 #### Artículo 24
 
-El registro de una marca tendrá una duración de diez años, contados desde la fecha de su inscripción en el registro respectivo. El titular tendrá el derecho a pedir su renovación por periodos iguales durante los seis meses anteriores al vencimiento de su vigencia y hasta seis meses contados desde su expiración, cumpliendo con lo previsto en el artículo 18 bis B sobre tasas aplicables.
-
-Vencido el plazo señalado en el inciso anterior sin que se presente la solicitud de renovación, el registro caducará.
+El registro de una marca tendrá una duración de diez años, contados desde la fecha de su inscripción en el registro respectivo. El titular tendrá el derecho de pedir su renovación por períodos iguales, durante su vigencia o dentro de los 30 días siguientes a la expiración de dicho plazo.
 
 #### Artículo 25
 
@@ -938,41 +918,11 @@ La acción de nulidad del registro de una marca prescribirá en el término de 5
 
 La referida acción de nulidad no prescribirá respecto de los registros obtenidos de mala fe.
 
-#### Artículo 27 bis
-
-A.- Procederá la declaración de caducidad total o parcial de un registro de marca si concurre alguna de las siguientes circunstancias:
-
-a) Si transcurridos cinco años desde la fecha de concesión del registro, la marca no hubiese sido objeto de un uso real y efectivo dentro del territorio nacional, por el titular o por un tercero con su consentimiento, para distinguir uno o más de los productos y/o servicios para los cuales haya sido concedida; o si dicho uso se hubiese suspendido de forma ininterrumpida por el mismo periodo.
-
-b) Si su titular ha provocado o tolerado que se transforme en la designación usual de un producto o servicio para el que esté registrada, de tal modo que en el curso de las operaciones comerciales y en el uso generalizado del público, la marca haya perdido su fuerza o capacidad para distinguir el producto o servicio al cual se aplique. Con todo, no se entenderá que el titular de una marca ha provocado o tolerado dicha transformación si ha usado en el comercio las indicaciones que dan cuenta de que se trata de una marca registrada, referidas en el artículo 25.
-
-La declaración de caducidad no podrá formularse de oficio y sólo podrá requerirse por quien detente un interés legítimo.
-
-#### Artículo 27 bis
-
-B.- La carga de la prueba del uso de la marca corresponderá a su titular. El uso efectivo de la marca se acreditará mediante cualquier prueba admitida por esta ley, que demuestre que la marca se ha usado en el territorio nacional. Toda prueba de uso de una marca presentada para efectos de esta ley tendrá valor de declaración jurada, y el titular de la marca será responsable de su veracidad.
-
-Si el titular no ha acreditado el uso de la marca en los términos señalados, procederá la declaración de caducidad, salvo que el titular demuestre que hubo razones válidas basadas en la existencia de obstáculos para su uso.
-
-Se reconocerán como razones válidas de falta de uso las circunstancias que surjan independientemente de la voluntad del titular y que constituyan un obstáculo para el uso de la marca, como las restricciones a la importación u otros requisitos oficiales impuestos a los productos o servicios protegidos.
-
-#### Artículo 27 bis
-
-C.- Podrá deducir demanda reconvencional de caducidad quien sea demandado de nulidad o de oposición en base a una marca registrada con anterioridad, debiendo hacerlo en el escrito de contestación. La reconvención se substanciará y fallará conjuntamente con la demanda principal.
-
-Una vez presentada la demanda reconvencional se dará traslado al actor, quien deberá responder dentro del plazo de treinta días contado desde su notificación, a cuyo vencimiento se recibirá la causa a prueba respecto de todas las acciones deducidas, las cuales seguirán un mismo procedimiento.
-
-#### Artículo 27 bis
-
-D.- La caducidad producirá sus efectos desde que se practique la cancelación total o parcial del registro correspondiente ordenada por sentencia firme.
-
-Si la causal de caducidad sólo se configurara para una parte de los productos o servicios para los cuales esté registrada la marca, su declaración sólo se extenderá a los productos y/o servicios afectados. El registro de la marca subsistirá respecto de los demás productos y/o servicios.
-
 #### Artículo 28
 
 Serán condenados a pagar una multa a beneficio fiscal de 25 a 1.000 unidades tributarias mensuales:
 
-a) Los que maliciosamente usen, con fines comerciales, una marca igual o semejante a otra ya inscrita para los mismos productos o servicios o respecto de productos, servicios o establecimientos relacionados con aquellos que comprende la marca registrada. Lo anterior se entenderá sin perjuicio de lo dispuesto en el artículo 19 bis E.
+a) Los que maliciosamente usen, con fines comerciales, una marca igual o semejante a otra ya inscrita para los mismos productos, servicios o establecimientos o respecto de productos, servicios o establecimientos relacionados con aquellos que comprende la marca registrada. Lo anterior se entenderá sin perjuicio de lo dispuesto en el artículo 19 bis E.
 
 b) Los que usen, con fines comerciales, una marca no inscrita, caducada o anulada, con las indicaciones correspondientes a una marca registrada o simulando aquéllas.
 
@@ -980,19 +930,9 @@ c) Los que, con fines comerciales, hagan uso de envases o embalajes que lleven u
 
 Al que reincida dentro de los cinco años siguientes a la aplicación de una multa, se le aplicará otra que no podrá ser inferior al doble de la anterior y cuyo monto máximo podrá llegar a 2.000 unidades tributarias mensuales.
 
-#### Artículo 28 bis
-
-Será sancionado con la pena de reclusión menor en su grado mínimo a medio:
-
-a) El que falsifique una marca ya registrada para los mismos productos o servicios.
-
-b) El que fabrique, introduzca en el país, tenga para comercializar o comercialice objetos que ostenten falsificaciones de marcas ya registradas para los mismos productos o servicios, con fines de lucro y para su distribución comercial.
-
-El que tenga para comercializar o comercialice directamente al público productos o servicios que ostenten falsificaciones de marcas ya registradas para los mismos productos o servicios será sancionado con la pena de reclusión menor en su grado mínimo.
-
 #### Artículo 29
 
-Los condenados de acuerdo a los artículos 28 y 28 bis serán obligados al pago de las costas y de los daños y perjuicios causados al dueño de la marca.
+Los condenados de acuerdo al artículo anterior serán obligados al pago de las costas y de los daños y perjuicios causados al dueño de la marca.
 
 Los utensilios y los elementos directamente empleados para la falsificación o imitación y los objetos con marcas falsificadas caerán en comiso. Tratándose de objetos con marca falsificada, se procederá a su destrucción. En el caso de los utensilios o elementos utilizados, será facultad del juez competente decidir sobre su destino, pudiendo ordenar su destrucción o distribución benéfica.
 
@@ -1038,10 +978,6 @@ También quedará comprendido dentro del estado de la técnica, el contenido de 
 
 En caso que una patente haya sido solicitada previamente en el extranjero, el interesado tendrá prioridad por el plazo de un año, contado desde la fecha de su presentación en el país de origen, para presentar la solicitud en Chile.
 
-El solicitante podrá requerir la restauración del derecho de prioridad dentro de los dos meses siguientes a la fecha de vencimiento del plazo de prioridad.
-
-La prioridad podrá acreditarse de acuerdo a los medios y modalidades establecidas en el reglamento.
-
 #### Artículo 35
 
 Se considera que una invención tiene nivel inventivo, si, para una persona normalmente versada en la materia técnica correspondiente, ella no resulta obvia ni se habría derivado de manera evidente del estado de la técnica.
@@ -1076,21 +1012,7 @@ Las patentes de invención se concederán por un periodo no renovable de 20 año
 
 #### Artículo 40
 
-Sin perjuicio de lo establecido en el artículo 42, cualquier persona que tenga una invención, pero que aún no pueda cumplir con todos los elementos de una solicitud de patente para su presentación, de acuerdo a lo establecido en el artículo 43, podrá presentar una solicitud de patente provisional, que el Instituto reconocerá por el término de doce meses, previo pago de la tasa correspondiente.
-
-La solicitud de patente provisional confiere a su titular un derecho de prioridad por el plazo señalado en el inciso anterior, contado desde su presentación. La solicitud provisional no podrá reivindicar la prioridad de una solicitud anterior.
-
-La solicitud de patente provisional no requiere de la presentación de reivindicaciones ni de las declaraciones a que se refiere el artículo 44, sin perjuicio de lo que establezca el reglamento.
-
-Además, la solicitud de patente provisional deberá venir acompañada de un documento en español o inglés que describa la invención de manera suficientemente clara y completa. En caso de ser necesario deberá acompañarse también, al menos, un dibujo.
-
-Antes de la expiración del plazo de doce meses contado desde la fecha de presentación de la solicitud provisional, el titular deberá solicitar la patente definitiva, acompañando todos los documentos mencionados en los artículos 43, 43 bis y 44, debidamente redactados en español.
-
-Si transcurrido el plazo señalado en el inciso anterior, el titular de una patente provisional no hubiese solicitado la patente definitiva, se tendrá por no presentada.
-
-La solicitud definitiva conservará la prioridad de la solicitud provisional, siempre que su contenido no implique una ampliación del campo de la invención de esta última o de la divulgación contenida en la solicitud provisional. Si la solicitud definitiva ampliare dicho campo, los contenidos modificados tendrán para todos los efectos jurídicos la fecha de presentación de la solicitud definitiva.
-
-El plazo de vigencia de la solicitud de patente definitiva presentada de acuerdo a los artículos precedentes se contará desde la fecha de presentación de la solicitud provisional de patente.
+Derogado.
 
 #### Artículo 41
 
@@ -1134,7 +1056,7 @@ La concesión de una patente no significa que el Estado garantice la necesidad y
 
 Ingresada la solicitud al Departamento, se practicará un examen preliminar, destinado a verificar que se hayan acompañado los documentos señalados en el artículo 43. Si en el examen preliminar se detectara algún error u omisión, se apercibirá al interesado para que realice las correcciones, aclaraciones o acompañe los documentos pertinentes dentro del término de sesenta días, sin que por ello pierda su fecha de prioridad. De no subsanarse los errores u omisiones dentro del plazo señalado, la solicitud se tendrá por no presentada.
 
-Las solicitudes que no cumplan con alguna otra exigencia de tramitación, dentro de los plazos señalados en esta ley o su reglamento, se tendrán por abandonadas, procediéndose a su archivo. Sin perjuicio de lo anterior, el solicitante podrá requerir su desarchivo siempre que subsane las exigencias de tramitación dentro de los cuarenta y cinco días siguientes, contados desde la fecha del abandono, sin que pierda el derecho de prioridad, para lo cual deberá acreditar el pago de una tasa equivalente a 2 unidades tributarias mensuales. Vencido el plazo sin que se hayan subsanado los errores u omisiones, la solicitud se tendrá por abandonada definitivamente.
+Las solicitudes que no cumplan con alguna otra exigencia de tramitación, dentro de los plazos señalados en esta ley o su reglamento, se tendrán por abandonadas, procediéndose a su archivo. Sin perjuicio de lo anterior, el solicitante podrá requerir su desarchivo siempre que subsane las exigencias de tramitación dentro de los ciento veinte días siguientes, contados desde la fecha del abandono, sin que pierda el derecho de prioridad. Vencido el plazo sin que se hayan subsanado los errores u omisiones, la solicitud se tendrá por abandonada definitivamente.
 
 Cuando del examen de una solicitud de derecho de propiedad industrial se deduzca que el derecho reclamando corresponde a otra categoría, será analizada y tratado como tal, conservando la prioridad adquirida.
 
@@ -1162,35 +1084,19 @@ El derecho de patente se extenderá a todo el territorio de la República hasta 
 
 La patente de invención no confiere el derecho de impedir que terceros comercialicen el producto amparado por la patente, que ellos hayan adquirido legítimamente después de que ese producto se haya introducido legalmente en el comercio de cualquier país por el titular del derecho o por un tercero, con el consentimiento de aquél.
 
-La patente de invención no confiere el derecho de impedir que terceros importen, exporten, fabriquen, produzcan o utilicen la materia protegida por una patente con el único objeto de obtener el registro o autorización sanitaria de un producto farmacéutico, químico-agrícola u otro. Lo anterior no faculta para que dichos productos sean comercializados sin autorización del titular de la patente.
-
-El derecho conferido por la patente no se extenderá:
-
-a) A los actos realizados privadamente y sin motivos comerciales.
-
-b) A los actos realizados por motivos exclusivamente experimentales relativos al objeto de la invención patentada.
-
-c) A la preparación de medicamentos bajo prescripción médica para casos individuales.
-
-d) Al empleo a bordo de navíos de otros países de medios que constituyan el objeto de la patente en el casco del navío, en las máquinas, aparejos, aparatos y demás accesorios, cuando dichos navíos penetren temporal o accidentalmente en aguas del territorio chileno, con la reserva de que dichos medios se empleen exclusivamente para las necesidades del navío.
-
-e) Al empleo de medios que constituyan el objeto de la patente en la construcción o funcionamiento de los aparatos de locomoción aérea o terrestre de otros países o de los accesorios de dichos aparatos, cuando éstos penetren temporal o accidentalmente en territorio chileno.
+La patente de invención no confiere el derecho de impedir que terceros importen, exporten, fabriquen o produzcan la materia protegida por una patente con el objeto de obtener el registro o autorización sanitaria de un producto farmacéutico. Lo anterior no faculta para que dichos productos sean comercializados sin autorización del titular de la patente.
 
 #### Artículo 50
 
 Procederá la declaración de nulidad de una patente de invención por alguna de las causales siguientes:
 
-a) Eliminado.
+a) Cuando quien haya obtenido la patente no es el inventor ni su cesionario.
 
 b) Cuando la concesión se ha basado en informes periciales errados o manifiestamente deficientes.
 
 c) Cuando el registro se ha concedido contraviniendo las normas sobre patentabilidad y sus requisitos, de acuerdo con lo dispuesto en esta ley.
 
 La acción de nulidad de una patente de invención prescribirá en el término de cinco años, contado desde el registro de la misma.
-
-#### Artículo 50 bis
-
-En los casos en que quien haya obtenido la patente no tuviere derecho, el legítimo titular tendrá derecho a solicitar la transferencia del registro y la correspondiente indemnización de perjuicios. Esta acción podrá ejercerse durante toda la vigencia del registro. Conocerá de ella el juez de letras en lo civil, según las normas generales de competencia y de acuerdo al procedimiento sumario establecido en el Código de Procedimiento Civil.
 
 #### Artículo 51
 
@@ -1270,15 +1176,11 @@ Cuando existan solicitudes en trámite, se deberá indicar esa situación, en el
 
 #### Artículo 53 Bis
 
-1.- Dentro de los sesenta días de otorgada una patente, el titular tendrá derecho a requerir un término de protección suplementaria, siempre que hubiese existido demora administrativa injustificada en el otorgamiento de la patente y el plazo en el otorgamiento hubiese sido superior a cinco años, contado desde la fecha de presentación de la solicitud o de tres años contado desde el requerimiento de examen, cualquiera de ellos que sea posterior.
-
-Se entenderá que el requerimiento de examen se produce con la aceptación del cargo mencionada en el inciso primero del artículo 7.
-
-La protección suplementaria se extenderá sólo por el período acreditado como demora administrativa injustificada y no se podrá conceder un término de protección suplementaria superior a cinco años.
+1.- Dentro de los seis meses de otorgada una patente, el titular tendrá derecho a requerir un término de Protección Suplementaria, siempre que hubiese existido demora administrativa injustificada en el otorgamiento de la patente y el plazo en el otorgamiento hubiese sido superior a cinco años, contado desde la fecha de presentación de la solicitud o de tres años contados desde el requerimiento de examen, cualquiera de ellos que sea posterior. La protección suplementaria se extenderá sólo por el período acreditado como demora administrativa injustificada.
 
 #### Artículo 53 Bis
 
-2.- Dentro de los sesenta días de otorgado un registro sanitario de un producto farmacéutico protegido por una patente, el titular tendrá derecho a requerir un término de Protección Suplementaria para aquella parte de la patente que contiene el producto farmacéutico, siempre que haya existido demora injustificada en el otorgamiento del señalado registro. Podrán requerir esta protección suplementaria, aquellos titulares cuya autorización o registro sanitario haya sido otorgado después de un año contado desde la fecha de presentación de la solicitud. La protección suplementaria se extenderá sólo por el período acreditado como demora injustificada por parte del órgano administrativo encargado de resolver dicho registro.
+2.- Dentro de los seis meses de otorgado un registro sanitario de un producto farmacéutico protegido por una patente, el titular tendrá derecho a requerir un término de Protección Suplementaria para aquella parte de la patente que contiene el producto farmacéutico, siempre que haya existido demora injustificada en el otorgamiento del señalado registro. Podrán requerir esta protección suplementaria, aquellos titulares cuya autorización o registro sanitario haya sido otorgado después de un año contado desde la fecha de presentación de la solicitud. La protección suplementaria se extenderá sólo por el período acreditado como demora injustificada por parte del órgano administrativo encargado de resolver dicho registro.
 
 #### Artículo 53 Bis
 
@@ -1300,7 +1202,7 @@ Previo a la vista de la causa, el Tribunal ordenará se oficie al organismo resp
 
 #### Artículo 53 Bis
 
-5.- El término de protección suplementaria deberá ser anotado al margen del registro respectivo, previo pago de una tasa de 1 unidad tributaria mensual por cada año o fracción de año de protección adicional. El pago sólo se podrá efectuar dentro de los treinta días siguientes a la resolución que lo requiere, sin el cual no se tendrá la protección establecida en este párrafo.
+5.- El término de protección suplementaria deberá ser anotado al margen del registro respectivo, previo pago de una tasa de 1 UTM por cada año o fracción de año de protección adicional. El pago sólo se podrá efectuar dentro de los seis meses que preceden al vencimiento del plazo original de vigencia de la patente, sin el cual, no se tendrá la protección establecida en este título.
 
 ## Título IV — De los modelos de utilidad
 
@@ -1362,10 +1264,6 @@ Al que reincida dentro de los cinco años siguientes a la aplicación de una mul
 
 ## Título V — De los dibujos y diseños industriales
 
-### Párrafo 1°
-
-Del registro de los dibujos y diseños industriales
-
 #### Artículo 62
 
 Bajo la denominación de diseño industrial se comprende toda forma tridimensional asociada o no con colores, y cualquier artículo industrial o artesanal que sirva de patrón para la fabricación de otras unidades y que se distinga de sus similares, sea por su forma, configuración geométrica, ornamentación o una combinación de éstas, siempre que dichas características le den una apariencia especial perceptible por medio de la vista, de tal manera que resulte una fisonomía nueva.
@@ -1410,7 +1308,7 @@ Ingresada la solicitud al Departamento se practicará un examen preliminar, en e
 
 #### Artículo 65
 
-El registro de un dibujo o diseño industrial se otorgará por un período no renovable de hasta quince años, contado desde la fecha de su solicitud.
+El registro de un dibujo o diseño industrial se otorgará por un período no renovable de 10 años, contado desde la fecha de su solicitud.
 
 #### Artículo 66
 
@@ -1431,54 +1329,6 @@ Los condenados de acuerdo a este artículo serán obligados al pago de las costa
 Los utensilios y los elementos directamente empleados en la comisión de cualesquiera de los delitos mencionados en este artículo y los objetos producidos en forma ilegal caerán en comiso. Tratándose de objetos producidos en forma ilegal, se procederá a su destrucción. En el caso de los utensilios o elementos utilizados, será facultad del juez competente decidir sobre su destino, pudiendo ordenar su destrucción o su distribución benéfica.
 
 Al que reincida dentro de los cinco años siguientes a la aplicación de una multa, se le aplicará otra que no podrá ser inferior al doble de la anterior y cuyo monto máximo podrá llegar a 2.000 unidades tributarias mensuales.
-
-### Párrafo 2°
-
-Certificado de Depósito de Dibujos y Diseños Industriales
-
-#### Artículo 67 bis
-
-A.- En el momento de presentar una solicitud de dibujo o diseño industrial se entenderá que el solicitante opta por seguir el procedimiento de registro general, en conformidad a los títulos I, III y V de esta ley. En caso contrario, el solicitante deberá señalar su intención de tramitar la solicitud conforme al procedimiento abreviado para la obtención de un certificado de depósito, establecido en el presente título.
-
-El procedimiento abreviado para la obtención de un certificado de depósito no considerará la práctica de un examen de fondo destinado a verificar el cumplimiento de los requisitos establecidos en el artículo 62 por parte de la solicitud de dibujo o diseño industrial.
-
-El titular de un certificado de depósito de dibujo o diseño industrial obtenido en conformidad al procedimiento abreviado establecido en este título no podrá ejercer las acciones contempladas en el párrafo 1° anterior, mientras no haya realizado y aprobado el examen de fondo contemplado en el procedimiento de registro general.
-
-#### Artículo 67 bis
-
-B.- Ingresada la solicitud conforme al procedimiento abreviado para la obtención de un certificado de depósito, el Instituto practicará un examen preliminar, destinado a verificar el cumplimiento en forma cabal de los requisitos formales de presentación establecidos en esta ley y su reglamento.
-
-Si en el examen preliminar se detectare algún error u omisión, se apercibirá al solicitante para que realice las correcciones, aclaraciones o acompañe los documentos pertinentes dentro del término de treinta días, sin que por ello pierda su fecha de prioridad. De no subsanarse los errores u omisiones dentro del plazo señalado, la solicitud se tendrá por no presentada.
-
-Si el solicitante diere cumplimiento parcial o erróneo a lo ordenado, el Instituto reiterará por una sola vez las observaciones subsistentes, bajo apercibimiento de tener la solicitud por no presentada si ellas no fueren subsanadas íntegramente dentro del plazo de treinta días.
-
-#### Artículo 67 bis
-
-C.- Una vez comprobado el cumplimiento de los requisitos formales de presentación o subsanados los errores u omisiones en el plazo establecido, el Instituto emitirá el certificado de depósito del dibujo o diseño industrial objeto de la solicitud, indicando que este certificado fue emitido conforme al procedimiento abreviado para la obtención de un certificado de depósito y que, por lo tanto, no ha aprobado un examen sustantivo que habilite a su titular a ejercer las acciones contempladas en el párrafo 1° de este título.
-
-#### Artículo 67 bis
-
-D.- El certificado de depósito del dibujo o diseño industrial obtenido conforme a este título tendrá una duración máxima de quince años, contados desde la presentación de la respectiva solicitud. Dicho certificado confiere a su titular una fecha cierta para efectos de verificar, en un eventual examen sustantivo, el cumplimiento de los requisitos establecidos en el artículo 62 por parte de la solicitud de dibujo o diseño industrial.
-
-#### Artículo 67 bis
-
-E.- Una vez emitido el certificado de depósito del dibujo o diseño industrial se publicará un extracto de la solicitud correspondiente en el Diario Oficial, en la forma y plazos que determine el reglamento.
-
-#### Artículo 67 bis
-
-F.- A partir de la publicación indicada en el artículo anterior, tanto el titular como cualquier interesado podrá solicitar, a su costo, el examen de fondo del dibujo o diseño industrial, con el objetivo de verificar si cumple con los requisitos exigidos en el artículo 62. Dicho examen se llevará a efecto de acuerdo al procedimiento general establecido en esta ley.
-
-Quien solicite la práctica del examen de fondo deberá acreditar el pago del arancel pericial de acuerdo a lo establecido en el artículo 8. En caso contrario, se tendrá por no presentada la solicitud de examen.
-
-#### Artículo 67 bis
-
-G.- De no aprobarse el examen de fondo establecido en el artículo anterior, el Instituto procederá de oficio a la cancelación del certificado de depósito.
-
-Si el examen resulta favorable, se procederá a la publicación de este hecho en el Diario Oficial, en la forma y plazos que determine el reglamento, continuándose la tramitación de la solicitud de dibujo o diseño industrial objeto del correspondiente certificado de depósito, conforme a las reglas generales en materia de oposición. Vencido el plazo establecido en el artículo 5 sin que se haya interpuesto oposición, o una vez que el procedimiento de oposición se encuentre en estado de resolver, el Instituto dictará la resolución de aceptación o rechazo de la solicitud de dibujo o diseño industrial, conforme a las normas aplicables al procedimiento general de registro. Si la solicitud de dibujo o diseño industrial objeto del certificado de depósito es aceptada a registro, se tendrá, para todos los efectos, como una solicitud de dibujo o diseño industrial presentada conforme al procedimiento de registro general y se estará a lo dispuesto en el artículo 18 para enterar el pago de los derechos correspondientes.
-
-#### Artículo 67 bis
-
-H.- La solicitud de obtención de un certificado de depósito de dibujos y diseños industriales conforme al procedimiento abreviado establecido en este título estará afecta al pago de un derecho equivalente a 1 unidad tributaria mensual, sin el cual no se dará curso a la tramitación. El pago de este derecho será a beneficio fiscal y no procederá su devolución, en ningún caso.
 
 ## Título VI — De las invenciones en servicio
 
@@ -1504,7 +1354,7 @@ Los derechos establecidos en beneficio del trabajador en los artículos preceden
 
 #### Artículo 72
 
-Todas las controversias relacionadas con la aplicación de las disposiciones de este título se resolverán breve y sumariamente por la justicia ordinaria, según las reglas generales.
+Todas las controversias relacionadas con la aplicación de las disposiciones de este Título serán de competencia del Tribunal de Propiedad Industrial a que se refiere el Párrafo 3º del Título I de esta ley.
 
 ## Título VII — De los esquemas de trazado o topografías de los circuitos
 
@@ -1616,27 +1466,21 @@ Al que reincida dentro de los cinco años siguientes a la aplicación de una mul
 
 ## Título VIII
 
-De los secretos comerciales y de la información presentada a la autoridad para la obtención de registros o autorizaciones sanitarios
+De los secretos empresariales y de la información presentada a la autoridad para la obtención de registros o autorizaciones sanitarios
 
-### Párrafo 1° — De los secretos comerciales
+De los secretos empresariales
 
 #### Artículo 86
 
-Se entenderá por secreto comercial toda información no divulgada que una persona posea bajo su control y que pueda usarse en alguna actividad productiva, industrial o comercial, siempre que dicha información cumpla los siguientes requisitos copulativos:
-
-a) Sea secreta en el sentido de no ser, como conjunto o en la configuración y reunión precisas de sus componentes, generalmente conocida ni fácilmente accesible para personas que se encuentran en los círculos en los que normalmente se utiliza ese tipo de información.
-
-b) Tenga un valor comercial por ser secreta.
-
-c) Haya sido objeto de medidas razonables tomadas por su legítimo poseedor para mantenerla secreta.
+Se entiende por secreto empresarial todo conocimiento sobre productos o procedimientos industriales, cuyo mantenimiento en reserva proporciona a su poseedor una mejora, avance o ventaja competitiva.
 
 #### Artículo 87
 
-Constituirá violación del secreto comercial la adquisición ilegítima del mismo, su divulgación o explotación sin autorización de su legítimo poseedor y la divulgación o explotación de secretos comerciales a los que se haya tenido acceso legítimamente pero con deber de reserva, a condición de que la violación del secreto haya sido efectuada con ánimo de obtener provecho, propio o de un tercero, o de perjudicar a su legítimo poseedor.
+Constituirá violación del secreto empresarial la adquisición ilegítima del mismo, su divulgación o explotación sin autorización de su titular y la divulgación o explotación de secretos empresariales a los que se haya tenido acceso legítimamente pero con deber de reserva, a condición de que la violación del secreto haya sido efectuada con ánimo de obtener provecho, propio o de un tercero, o de perjudicar a su titular.
 
 #### Artículo 88
 
-Sin perjuicio de la responsabilidad penal que corresponda, serán aplicables a la violación del secreto comercial las normas del Título X, relativas a la observancia de los derechos de propiedad industrial.
+Sin perjuicio de la responsabilidad penal que corresponda, serán aplicables a la violación del secreto empresarial las normas del Título X, relativas a la observancia de los derechos de propiedad industrial.
 
 ### Párrafo 2º
 
@@ -1714,12 +1558,6 @@ c) Que puedan inducir a error o confusión en el público consumidor, respecto d
 
 d) Que sean indicaciones comunes o genéricas para distinguir el producto de que se trate, entendiéndose por ello las consideradas como tales por los conocedores de la materia o por el público en general, salvo que hayan sido reconocidas como Indicaciones Geográficas o Denominaciones de Origen en virtud de tratados internacionales ratificados por Chile.
 
-e) Que gráfica, fonética o conceptualmente se asemejen, de forma que puedan confundirse con otros signos distintivos previamente solicitados o registrados, de buena fe, para productos o servicios idénticos o relacionados.
-
-f) Que gráfica, fonética o conceptualmente se asemejen de forma que puedan crear confusión con un signo distintivo no registrado, pero que esté siendo real y efectivamente usado con anterioridad a la solicitud de reconocimiento, por un tercero que tendría un mejor derecho a obtener el registro, siempre que la indicación o denominación haya sido solicitada para productos idénticos o relacionados con los productos o servicios para los cuales el signo distintivo ha sido utilizado por dicho tercero.
-
-g) Que constituyan la reproducción total o parcial, la imitación, la traducción o la transcripción de una marca comercial, denominación de origen o indicación geográfica notoriamente conocida en Chile, en el sector pertinente del público, sea que esté o no registrada, y cualesquiera que sean los productos para los cuales el signo se solicite, cuando su uso, en relación con los productos requeridos, sea susceptible de causar confusión o inducir a error o engaño sobre la procedencia del producto, o exista riesgo de asociar la indicación geográfica o la denominación de origen solicitada con el titular de la marca comercial, denominación de origen o indicación geográfica notoriamente conocida o constituya una explotación desleal de la reputación de éstas, incluida la dilución de la fuerza distintiva de las mismas, siempre que sea probable que dicho registro o su posterior uso lesione los intereses del titular de la marca, denominación de origen o indicación geográfica notoriamente conocida.
-
 #### Artículo 96
 
 Las indicaciones geográficas y denominaciones de origen extranjeras podrán registrarse en Chile, de conformidad con las normas de esta ley. No podrán protegerse, o perderán la protección si la tuvieran, cuando dejen de estar protegidas o hayan caído en desuso en su país de origen.
@@ -1752,11 +1590,11 @@ e) Estudio técnico, elaborado por un profesional competente, que aporte anteced
 
 f) Un proyecto de reglamento específico de uso y control de la indicación o denominación solicitada.
 
-g) Las demás menciones que establezca el reglamento.
-
 #### Artículo 98
 
-Respecto del cumplimiento de todas o algunas de las exigencias establecidas en el artículo anterior, el Instituto podrá requerir un informe a otros ministerios o servicios públicos, los que deberán evacuarlo en el plazo de cuarenta y cinco días, a contar de la notificación del requerimiento del mismo.
+Tratándose de solicitudes de indicaciones geográficas o denominaciones de origen chilenas, relativas a productos silvoagropecuarios y agroindustriales, se requerirá además, para el registro de las mismas, un informe favorable del Ministerio de Agricultura respecto del cumplimiento de las exigencias establecidas en el artículo 97. En el caso de las indicaciones geográficas y denominaciones de origen extranjeras relativas a los mencionados productos, se requerirá un informe del Ministerio de Agricultura.
+
+Dicho informe deberá emitirse en el plazo de ciento veinte días, a contar de la fecha de requerimiento del mismo por el Jefe del Departamento.
 
 #### Artículo 99
 
@@ -1774,7 +1612,7 @@ Asimismo, tal resolución aprobará y ordenará el registro del reglamento espec
 
 #### Artículo 100
 
-El registro de una indicación geográfica o denominación de origen tendrá duración indefinida, en tanto se mantengan las condiciones que dieron lugar al reconocimiento. Cualquier persona podrá impetrar una acción de cancelación, fundada en que el producto ha dejado de elaborarse en la zona protegida o que se han dejado de cumplir las condiciones que justificaron su reconocimiento, sin limitación de tiempo.
+El registro de una indicación geográfica o denominación de origen tendrá duración indefinida.
 
 El registro podrá ser modificado en cualquier tiempo cuando cambie alguna de las circunstancias establecidas en el artículo 97. La modificación deberá sujetarse al procedimiento de registro, en cuanto corresponda.
 
@@ -1841,8 +1679,6 @@ a) Las utilidades que el titular hubiera dejado de percibir como consecuencia de
 b) Las utilidades que haya obtenido el infractor como consecuencia de la infracción, o
 
 c) El precio que el infractor hubiera debido pagar al titular del derecho por el otorgamiento de una licencia, teniendo en cuenta el valor comercial del derecho infringido y las licencias contractuales que ya se hubieran concedido.
-
-En caso de falsificación de marca, se podrá solicitar, una vez acreditada judicialmente la respectiva infracción, que las indemnizaciones de los daños y perjuicios causados sean sustituidas por una suma única compensatoria determinada por el tribunal en relación con la gravedad de la infracción, la que no podrá ser mayor a 2.000 unidades tributarias mensuales por infracción. Este derecho de opción deberá ejercerse en la demanda de indemnización de perjuicios.
 
 #### Artículo 109
 
@@ -2120,15 +1956,53 @@ correspondientes.
 
 #### Artículo 118
 
-Para iniciar la tramitación de una solicitud internacional, en fase nacional, sin perjuicio de los demás requisitos que exija esta ley, el solicitante deberá:
+Para
 
-a) Presentar una traducción al idioma español de la solicitud internacional, en caso que ésta no se hubiera presentado en este idioma, y de todas las modificaciones ocurridas durante la fase internacional, junto al formulario habilitado para el efecto, y
+iniciar la tramitación de una
 
-b) Pagar la tasa establecida en el artículo 18 de esta ley para la presentación de la solicitud y las demás tasas que fije el Instituto, de acuerdo con lo establecido por el Tratado de Cooperación en Materia de Patentes.
+solicitud internacional, en fase
 
-En las solicitudes respecto de las cuales el Instituto hubiere emitido informe de búsqueda internacional y opinión escrita actuando como Administración Encargada de la Búsqueda Internacional o evacuado informe de examen preliminar internacional como Administración Encargada del Examen Preliminar Internacional, el solicitante podrá acompañar, conjuntamente con la presentación de la solicitud en fase nacional, un escrito en el que conteste las observaciones formuladas en estos informes y opinión escrita, los cuales deberán ser considerados para los efectos de su examen.
+nacional, sin perjuicio de los
 
-En el evento de que el solicitante conteste los informes y opinión escrita de la Administración Encargada de la Búsqueda Internacional o Administración Encargada del Examen Preliminar Internacional, de acuerdo a lo señalado en el inciso anterior, sólo deberá acreditar el pago del 50 por ciento del arancel pericial, conforme a lo establecido en el artículo 8.
+demás requisitos que exija esta
+
+ley, el solicitante deberá:
+
+a) Presentar una traducción
+
+al idioma español de la
+
+solicitud internacional,
+
+en caso que ésta no se
+
+hubiera presentado en este
+
+idioma, y de todas las
+
+modificaciones ocurridas
+
+durante la fase internacional,
+
+junto al formulario habilitado
+
+para el efecto, y
+
+b) Pagar la tasa establecida
+
+en el artículo 18 de esta ley
+
+para la presentación de la
+
+solicitud y las demás tasas
+
+que fije el Instituto, de
+
+acuerdo con lo establecido
+
+por el Tratado de Cooperación
+
+en Materia de Patentes.
 
 #### Artículo 119
 
