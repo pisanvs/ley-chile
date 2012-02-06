@@ -1,0 +1,5 @@
+MODIFICACIONES INCORPORADAS A LA LEY DE LA RENTA POR LA LEY Nº 20.552 RELATIVAS AL TRATAMIENTO TRIBUTARIO DEL AHORRO PREVISIONAL VOLUNTARIO (APV), AHORRO PREVISIONAL VOLUNTARIO COLECTIVO (APVC) Y DE LA CUENTA DE AHORRO VOLUNTARIO (CAV)
+
+Extracto de Circular del Servicio de Impuestos Internos Nº 8 de fecha 31 de enero de 2012, la cual tiene por objeto, impartir las instrucciones pertinentes sobre el tratamiento tributario del Ahorro Previsional Voluntario (APV), Ahorro Previsional Voluntario Colectivo (APVC) y de la cuenta de Ahorro Voluntario (CAV), a raíz de las modificaciones incorporadas a los artículos 20 L y 22, del D.L. Nº3500, de 1980; y a los artículos 42 Nº1, 42 bis y 57 bis, de la LIR, por la Ley Nº 20.552, publicada en el Diario Oficial de 17.12.2011.
+
+El texto íntegro de esta Circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en enero de 2012.
