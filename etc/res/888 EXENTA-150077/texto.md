@@ -14,7 +14,7 @@ R e s u e l v o:
 
 1. Prohíbese el ingreso y circulación de los vehículos inscritos en el Registro Nacional de Transporte de Pasajeros que presten servicios especiales en conformidad al aludido D.S. 237/92, por las calles que se encuentran comprendidas al interior del área circunscrita por las siguientes vías, todas pertenecientes a la comuna de Estación Central:
 
-General Velásquez, Avda. Portales, Matucana, Alameda Bernardo O'Higgins, Exposición, 5 de Abril, hasta Avda. General Velásquez.
+Av. Nueva Imperial, Av. Portales, Av. Matucana, Av. Libertador Bernardo O'Higgins, Av. Exposición, calle Arica, Av. 5 de Abril, calle General Amengual, calle Blanco Garcés hasta Nueva Imperial.
 
 2. Ofíciese al Departamento de Fiscalización del Ministerio de Transportes y Telecomunicaciones, a la Dirección de Tránsito de la Municipalidad de Estación Central y a Carabineros de Chile a fin de que se adopten las medidas y se efectúen los controles necesarios para dar eficaz cumplimiento al presente acto administrativo. Sin perjuicio de la publicación del presente acto administrativo éste comenzará a producir efectos desde la fecha de su dictación.
 
