@@ -1,0 +1,3 @@
+Por resolución exenta Nº 174, de 24 de enero de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 171 de 2011, de esta Subsecretaría, que autorizó a la UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN, para efectuar una pesca de investigación, en el sentido de ampliar su vigencia hasta el 18 de enero de 2013.
+
+Valparaíso, 24 de enero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
