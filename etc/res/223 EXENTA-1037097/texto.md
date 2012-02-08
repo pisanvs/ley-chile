@@ -1,0 +1,5 @@
+Por resolución exenta Nº 223, de 2 de febrero de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 582, de 2011, de esta Subsecretaría de Pesca, que autorizó a MARCELINO GONZÁLEZ RIVERA para realizar actividades pesqueras extractivas con la nave "Walrus", respecto del recurso hidrobiológico Alfonsino, en el área marítima correspondiente a V Región, en virtud de lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Déjase sin efecto parcialmente la resolución exenta Nº 342, de 2011, de esta Subsecretaría de Pesca, en lo relativo al recurso Alfonsino en el área marítima correspondiente a V Región.
+
+Valparaíso, 2 de febrero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
