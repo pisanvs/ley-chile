@@ -1,0 +1,3 @@
+Por resolución exenta Nº 109, de 16 de enero de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 2.226, de 2011, de esta Subsecretaría, que autorizó a ECOTECNOS LIMITADA para efectuar una pesca de investigación, en el sentido de incorporar un nuevo sector de muestreo según lo señalado en la resolución extractada.
+
+Valparaíso, 16 de enero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
