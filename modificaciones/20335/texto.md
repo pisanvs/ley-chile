@@ -36,7 +36,7 @@ i) El no uso de la concesión dentro del término de un año, contado desde la f
 
 #### Artículo transitorio
 
-En todos los concursos de radiodifusión sonora en la banda de frecuencia modulada que se hayan llamado o se llamen hasta tres años luego de la entrada en vigencia de esta ley, cada vez que dos o más concursantes ofrezcan similares condiciones, y siempre que no se aplique el derecho preferente que corresponde a quien renueva, la concesión se asignará a aquel postulante que acredite contar con una mayor antigüedad en la plaza.
+En todos los concursos de radiodifusión sonora en la banda de frecuencia modulada que se hayan llamado o se llamen hasta seis años luego de la entrada en vigencia de esta ley, cada vez que dos o más concursantes ofrezcan similares condiciones, y siempre que no se aplique el derecho preferente que corresponde a quien renueva, la concesión se asignará a aquel postulante que acredite contar con una mayor antigüedad en la plaza.
 
 Se entenderá que se encuentra en la situación señalada, el postulante que al momento del llamado a concurso de radiodifusión sonora en la banda de frecuencia modulada, sea titular de una concesión de radiodifusión, a lo menos por cinco años, para la misma plaza en la banda de amplitud modulada, y no sea titular ni opere ninguna otra concesión en la banda de frecuencia modulada en dicha plaza.
 
@@ -44,7 +44,7 @@ La identidad de plaza entre la concesión del postulante y la sometida a concurs
 
 De no poder aplicarse los criterios anteriores, o de subsistir la igualdad una vez aplicados, el concurso se resolverá por sorteo público entre los postulantes que lleguen en igualdad.
 
-Los concursos cuyo llamado sea posterior a los tres años señalados en el inciso primero, no se someterán a éste, sino que exclusivamente a lo señalado en los artículos 13 y 13 A de la ley N° 18.168.".
+Los concursos cuyo llamado sea posterior a los seis años señalados en el inciso primero, no se someterán a éste, sino que exclusivamente a lo señalado en los artículos 13 y 13 A de la ley N° 18.168.".
 
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
