@@ -456,21 +456,21 @@ Se presume muerto el individuo que ha desaparecido, ignorándose si vive, y veri
 
 #### Artículo 81
 
-1º La presunción de muerte debe declararse por el juez del último domicilio que el desaparecido haya tenido en Chile, justificándose previamente que se ignora el paradero del desaparecido, que se han hecho las posibles diligencias para averiguarlo, y que desde la fecha de las últimas noticias que se tuvieron de su existencia, han transcurrido a lo menos cinco años.
+1º. La presunción de muerte debe declararse por el juez del último domicilio que el desaparecido haya tenido en Chile, justificándose previamente que se ignora el paradero del desaparecido, que se han hecho las posibles diligencias para averiguarlo, y que desde la fecha de las últimas noticias que se tuvieron de su existencia, han transcurrido a lo menos cinco años.
 
-2º Entre estas pruebas será de rigor la citación del desaparecido; que deberá haberse repetido hasta por tres veces en el periódico oficial, corriendo más de dos meses entre cada dos citaciones.
+2º. Entre estas pruebas será de rigor la citación del desaparecido; que deberá haberse repetido hasta por tres veces en el periódico oficial, corriendo más de dos meses entre cada dos citaciones.
 
-3º La declaración podrá ser provocada por cualquiera persona que tenga interés en ella, con tal que hayan transcurrido tres meses al menos desde la última citación.
+3º. La declaración podrá ser provocada por cualquiera persona que tenga interés en ella, con tal que hayan transcurrido tres meses al menos desde la última citación.
 
-4º Será oído, para proceder a la declaración, y en todos los trámites judiciales posteriores, el defensor de ausentes; y el juez, a petición del defensor, o de cualquiera persona que tenga interés en ello, o de oficio, podrá exigir, además de las pruebas que se le presentaren del desaparecimiento, si no las estimare satisfactorias, las otras que según las circunstancias convengan.
+4º. Será oído, para proceder a la declaración, y en todos los trámites judiciales posteriores, el defensor de ausentes; y el juez, a petición del defensor, o de cualquiera persona que tenga interés en ello, o de oficio, podrá exigir, además de las pruebas que se le presentaren del desaparecimiento, si no las estimare satisfactorias, las otras que según las circunstancias convengan.
 
-5º Todas las sentencias, tanto definitivas como interlocutorias, se insertarán en el periódico oficial.
+5º. Todas las sentencias, tanto definitivas como interlocutorias, se insertarán en el periódico oficial.
 
-6º El juez fijará como día presuntivo de la muerte el último del primer bienio contado desde la fecha de las últimas noticias; y transcurridos cinco años desde la misma fecha, concederá la posesión provisoria de los bienes del desaparecido.
+6º. El juez fijará como día presuntivo de la muerte el último del primer bienio contado desde la fecha de las últimas noticias; y transcurridos cinco años desde la misma fecha, concederá la posesión provisoria de los bienes del desaparecido.
 
-7º Con todo, si después que una persona recibió una herida grave en la guerra, o le sobrevino otro peligro semejante, no se ha sabido más de ella, y han transcurrido desde entonces cinco años y practicándose la justificación y citaciones prevenidas en los números precedentes, fijará el juez como día presuntivo de la muerte el de la acción de guerra o peligro, o, no siendo enteramente determinado ese día, adoptará un término medio entre el principio y el fin de la época en que pudo ocurrir el suceso, y concederá inmediatamente la posesión definitiva de los bienes del desaparecido.
+7º. Con todo, si después que una persona recibió una herida grave en la guerra, o le sobrevino otro peligro semejante, no se ha sabido más de ella, y han transcurrido desde entonces cinco años y practicándose la justificación y citaciones prevenidas en los números precedentes, fijará el juez como día presuntivo de la muerte el de la acción de guerra o peligro, o, no siendo enteramente determinado ese día, adoptará un término medio entre el principio y el fin de la época en que pudo ocurrir el suceso, y concederá inmediatamente la posesión definitiva de los bienes del desaparecido.
 
-8º Se reputará perdida toda nave o aeronave que no apareciere a los seis meses de la fecha de las últimas noticias que de ella se tuvieron. Expirado este plazo, cualquiera que tenga interés en ello podrá provocar la declaración de presunción de muerte de los que se encontraban en la nave o aeronave. El juez fijará el día presuntivo de la muerte en conformidad al número que precede, y concederá inmediatamente la posesión definitiva de los bienes de los desaparecidos.
+8º. Se reputará perdida toda nave o aeronave que no apareciere a los tres meses de la fecha de las últimas noticias que de ella se tuvieron. Expirado este plazo, cualquiera que tenga interés en ello podrá provocar la declaración de presunción de muerte de los que se encontraban en la nave o aeronave. El juez fijará el día presuntivo de la muerte en conformidad al número que precede, y concederá inmediatamente la posesión definitiva de los bienes de los desaparecidos.
 
 Si se encontrare la nave o aeronave náufraga o perdida, o sus restos, se aplicarán las mismas normas del inciso anterior, siempre que no pudieren ubicarse los cuerpos de todos o algunos de sus ocupantes, o identificarse los restos de los que fueren hallados.
 
@@ -478,7 +478,7 @@ Si durante la navegación o aeronavegación cayere al mar o a tierra un tripulan
 
 En este caso no regirá lo dispuesto en el número 2º, ni el plazo establecido en el número 3º; pero será de rigor oír a la Dirección General de la Armada o a la Dirección General de Aeronáutica, según se trate de nave o de aeronave.
 
-9º Después de un año de ocurrido un sismo o catástrofe que provoque o haya podido provocar la muerte de numerosas personas en determinadas poblaciones o regiones, cualquiera que tenga interés en ello podrá pedir la declaración de muerte presunta de los desaparecidos que habitaban en esas poblaciones o regiones.
+9º. Después de seis meses de ocurrido un sismo o catástrofe que provoque o haya podido provocar la muerte de numerosas personas en determinadas poblaciones o regiones, cualquiera que tenga interés en ello podrá pedir la declaración de muerte presunta de los desaparecidos que habitaban en esas poblaciones o regiones.
 
 En este caso, la citación de los desaparecidos se hará mediante un aviso publicado por una vez en el Diario Oficial correspondiente a los días primero o quince, o al día siguiente hábil, si no se ha publicado en las fechas indicadas, y por dos veces en un diario de la comuna o de la capital de la provincia o de la capital de la región, si en aquélla no lo hubiere, corriendo no menos de quince días entre estas dos publicaciones. El juez podrá ordenar que por un mismo aviso se cite a dos o más desaparecidos.
 
@@ -562,19 +562,19 @@ En la rescisión del decreto de posesión definitiva se observarán las reglas q
 
 6ª. El haber sabido y ocultado la verdadera muerte del desaparecido, o su existencia, constituye mala fe.
 
-### 4. De la muerte civil
+### 4. De la comprobación judicial de la muerte
 
 #### Artículo 95
 
-Derogado.
+Toda vez que la desaparición de una persona se hubiere producido en circunstancias tales que la muerte pueda ser tenida como cierta, aun cuando su cadáver no fuere hallado, el juez del último domicilio que el difunto haya tenido en Chile, a solicitud de cualquiera que tenga interés en ello, podrá tener por comprobada su muerte para efectos civiles y disponer la inscripción de la resolución correspondiente en el Servicio de Registro Civil e Identificación. Igual regla se aplicará en los casos en que no fuere posible la identificación del cadáver.
 
 #### Artículo 96
 
-Derogado.
+Un extracto de la resolución que tenga por comprobada la muerte del desaparecido deberá publicarse en el Diario Oficial dentro del plazo de sesenta días, contado desde que ésta estuviere firme y ejecutoriada. Dicho extracto deberá contener, al menos, los antecedentes indispensables para su identificación y la fecha de muerte que el juez haya fijado.
 
 #### Artículo 97
 
-Derogado.
+La resolución a que se refiere el artículo 95 podrá dejarse sin efecto conforme a lo dispuesto en el párrafo precedente.
 
 ## Título III
 
@@ -15784,7 +15784,7 @@ DE LAS DEFUNCIONES
 
 #### Artículo 44
 
-La inscripción de defunción se hará en virtud del parte verbal o escrito que, acerca de ella, deben dar los parientes del difunto o los habitantes de la casa en que ocurrió el fallecimiento o, en su defecto, los vecinos.
+La inscripción de defunción se hará en virtud del parte verbal o escrito que, acerca de ella, deben dar los parientes del difunto o los habitantes de la casa en que ocurrió el fallecimiento o, en su defecto, los vecinos. Asimismo, se efectuará en virtud de una resolución judicial, en los casos que la ley lo determine.
 
 Si el fallecimiento hubiere ocurrido en convento, hospital, lazareto, hospicio, cárcel, nave, cuartel u otro establecimiento público, el jefe del mismo estará obligado a solicitar la licencia o pase del entierro y llenar los requisitos necesarios para la respectiva inscripción en el Registro.
 
@@ -15792,7 +15792,7 @@ Igual obligación corresponde a la autoridad de policía en el caso de hallarse 
 
 #### Artículo 45
 
-Al requerirse la inscripción de un fallecimiento deberá presentarse un certificado expedido por el médico encargado de comprobar las defunciones o por el que haya asistido al difunto en su última enfermedad.
+Al requerirse la inscripción de un fallecimiento deberá presentarse un certificado expedido por el médico encargado de comprobar las defunciones o por el que haya asistido al difunto en su última enfermedad, a menos que la inscripción se haga en virtud de la resolución judicial a que se refiere el inciso primero del artículo precedente.
 
 Si se trata del fallecimiento de un párvulo, el Oficial del Registro Civil indagará si el nacimiento ha sido inscrito previamente, y si no lo estuviere, procederá a efectuar, también, esta inscripción.
 
