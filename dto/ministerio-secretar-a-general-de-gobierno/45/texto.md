@@ -26,7 +26,7 @@ Social Regionales, Provinciales y Comunales
 
 #### Artículo 2º
 
-El Fondo será administrado por el Ministerio Secretaría General de Gobierno a través de la División Secretaría de Comunicación y Cultura, quien deberá coordinar, realizar el seguimiento y evaluar en conjunto con las Regiones las distintas etapas de llamado, selección y asignación del Fondo.
+El Fondo será administrado por el Ministerio Secretaría General de Gobierno, quien deberá coordinar, realizar el seguimiento y evaluar en conjunto con las Regiones las distintas etapas de llamado, selección y asignación del Fondo.
 
 El Fondo de Fomento de Medios de Comunicación Social Regionales, Provinciales y Comunales estará constituido por los recursos asignados anualmente por la Ley de Presupuestos del Sector Público, a través del Ministerio Secretaría General de Gobierno.
 
@@ -38,11 +38,11 @@ A la Región Metropolitana le corresponderá un 10% del fondo restante.
 
 El total restante del Fondo, será repartido de la siguiente manera:
 
-a) Un cuarto del restante del Fondo será distribuido por partes iguales entre las doce regiones.
+a) Un cuarto del restante del Fondo será distribuido por partes iguales entre las restantes regiones.
 
 b) Los otros dos cuartos del Fondo, serán distribuidos entre las regiones a prorrata de la incidencia de población sobre el total nacional, de acuerdo a cifras oficiales del Instituto Nacional de Estadísticas; y
 
-c) Un cuarto será distribuido por partes iguales entre las ocho regiones de menor densidad demográfica, de acuerdo a cifras oficiales del Instituto Nacional de Estadísticas.
+c) Un cuarto será distribuido por partes iguales entre las nueve regiones de menor densidad demográfica, de acuerdo a cifras oficiales del Instituto Nacional de Estadísticas.
 
 ## Título Tercero
 
@@ -50,11 +50,7 @@ De la asignación de los recursos del Fondo
 
 #### Artículo 3º
 
-La asignación de la parte o cuota, que de los recursos del Fondo corresponda a una región, según la distribución establecida en el artículo anterior, será efectuada por el respectivo Consejo Regional, previo concurso público. De acuerdo a los siguientes criterios:
-
-- Un 60% para proyectos de radiodifusión sonora, dado la mayor cantidad y masividad de esta clase de medios a nivel regional.
-
-- El restante 40% a los otros medios de comunicación social de acuerdo a la definición del art. 2º de la ley Nº 19.733.
+La asignación de la parte o cuota, que de los recursos del Fondo corresponda a cada región, según la distribución establecida en el artículo anterior, será efectuada por el respectivo Consejo Regional, previo concurso público, destinando al menos un 60% a los proyectos de radiodifusión sonora.
 
 ## Título Cuarto
 
@@ -66,11 +62,19 @@ De los concursos
 
 Los concursos públicos deberán ser convocados por los respectivos Consejos Regionales durante el primer trimestre de cada ejercicio y, si al cabo de un proceso de selección quedaren recursos remanentes, se deberá convocar a nuevos concursos públicos para su asignación.
 
+No obstante, en aquellos casos en que los remanentes, por su bajo monto, no justificaran la realización de nuevos concursos públicos, o bien, cuando por encontrarse en el último trimestre del año respectivo no se alcanzaran a cumplir los plazos mínimos exigidos por este Reglamento para un procedimiento concursal, se podrán reasignar a una o más regiones, siempre que éstas cuenten con una lista de espera de proyectos, y que dicha reasignación se realice considerando criterios objetivos
+
 #### Artículo 5º
 
-Corresponderá a los Consejos Regionales con la asesoría de la Secretaría Regional Ministerial de Gobierno en cada Región, y de la División Secretaría de Comunicación y Cultura en la Región Metropolitana, las siguientes funciones:
+Corresponderá a los Consejos Regionales con la asesoría del Ministerio Secretaría General de Gobierno, las siguientes funciones:
 
-a) Elaborar las bases de los concursos;
+a) Aprobar las bases del concurso, de acuerdo al texto propuesto por el Ministerio Secretaría General de Gobierno, no pudiendo modificar o suprimir las ponderaciones otorgadas a los criterios de evaluación, los montos máximos adjudicables por proyecto y el puntaje mínimo que estos deban cumplir para ser seleccionados.
+
+Cuando el Consejo estimare necesario introducir cambios a las bases de los concursos, éstos en caso alguno podrán modificar lo establecido en la presente letra a) y lo dispuesto en este Reglamento. En caso de incorporarse otros cambios, éstos deberán ser adoptados en un plazo máximo de cinco días hábiles, comunicando al Ministerio Secretaría General de Gobierno tal decisión, dentro del mismo plazo.
+
+Transcurridos diez días hábiles desde la recepción de las bases en la Oficina de Partes del respectivo Gobierno Regional, el Ministerio Secretaría General de Gobierno podrá solicitar la aprobación de las bases enviadas. Si dentro del plazo de cinco días hábiles el Consejo no emitiere pronunciamiento, se entenderán aprobadas las bases originalmente enviadas, lo cual será certificado de oficio por el ministro de fe del respectivo Consejo Regional.
+
+La certificación indicada en el inciso anterior implicará que las bases del concurso no podrán ser modificadas por dicho Consejo con posterioridad.
 
 b) Hacer las publicaciones que correspondan;
 
@@ -80,7 +84,7 @@ d) Realizar, el seguimiento y evaluación de los proyectos en ejecución, sin pe
 
 #### Artículo 6º
 
-Las convocatorias deberán publicarse en a lo menos dos medios de comunicación social regionales, de modo que su noticia alcance a la totalidad de la población en el respectivo territorio regional; ellas deberán ser efectuadas con a lo menos quince días de antelación a la fecha de cierre del proceso de recepción de las postulaciones.
+Las convocatorias a los concursos públicos deberán difundirse, con a lo menos quince días hábiles de antelación a la fecha de cierre del proceso de recepción de las postulaciones, a través de uno o más medios de comunicación social regionales
 
 #### Artículo 7
 
@@ -118,7 +122,7 @@ f) información regional, provincial y comunal
 
 #### Artículo 10º
 
-Para iniciar el o los concursos que tengan lugar en un ejercicio presupuestario, los Consejos Regionales establecerán, en la segunda quincena del mes de enero de cada año, una Comisión Regional compuesta de siete personas, de acuerdo a la siguiente representación:
+Para iniciar el o los concursos que tengan lugar en un ejercicio presupuestario, los Consejos Regionales establecerán, en la segunda quincena del mes de enero de cada año, una Comisión Regional compuesta de ocho personas, de acuerdo a la siguiente representación:
 
 a) Un representante del Colegio de Periodistas, designado por la instancia regional respectiva.
 
@@ -134,13 +138,15 @@ f) Un representante del Secretario Regional Ministerial de Educación.
 
 g) El Secretario Regional Ministerial de Gobierno, quien además actuará como Secretario y Ministro de Fe de la Comisión Regional respectiva.
 
-Se designarán además, siguiendo los mismos criterios anteriores 7 miembros suplentes de la Comisión Regional para cuando se susciten a su respecto las circunstancias inhabilitantes previstas en el artículo 12º de este reglamento.
+h) Un representante de la Secretaría Regional Ministerial de Economía.
+
+Se podrán designar además, siguiendo los mismos criterios anteriores, miembros suplentes, cuando acontecieren a su respecto las circunstancias previstas en el artículo 12º de este Reglamento. Con todo, respecto de aquellos miembros que fuesen funcionarios públicos, se aplicarán las normas pertinentes en materia de subrogación y probidad administrativa.
 
 La Comisión Regional será presidida por uno de sus integrantes, elegido al efecto por sus pares.
 
 #### Artículo 11º
 
-En el proceso de selección de los proyectos postulados, sólo tendrán derecho a voto los siete miembros de la Comisión Regional.
+En el proceso de selección de los proyectos postulados, sólo tendrán derecho a voto los ocho miembros de la Comisión Regional.
 
 #### Artículo 12º
 
@@ -150,19 +156,19 @@ Ningún miembro de la Comisión Regional podrá tener participación directa ni 
 
 Los miembros de las Comisiones Regionales desempeñarán las siguientes funciones en los concursos:
 
-a) evaluar y seleccionar los proyectos que habrán de ser financiados por el Fondo;
+a) evaluar los proyectos que resultaron admisibles, conforme a lo señalado en las Bases del concurso.
 
-b) proponer fundadamente la cuantía del financiamiento para cada proyecto, no pudiendo exceder esta última al 25% de los recursos disponibles en cada parte o cuota de la asignada en las letras a) y b) del artículo 3º del presente Reglamento, en cada Región;
+b) proponer fundadamente la cuantía del financiamiento para cada proyecto, de acuerdo a las Bases respectivas.
 
 c) elaborar un listado, en estricto orden de precedencia, de proyectos que, no obstante meritorios, no hayan resultado seleccionados, para el caso en que proceda una nueva adjudicación de los recursos del Fondo, ocasionada por la no comparecencia a suscribir el respectivo convenio de ejecución o el incumplimiento del mismo por parte de alguno de los responsables de los proyectos seleccionados.
 
-Al término de sus funciones, la Comisión Regional deberá dar cuenta por escrito al Consejo Regional del cumplimiento de su cometido.
+Al término de sus funciones, la Comisión Regional deberá dar cuenta por escrito, dentro de un plazo máximo de cinco días hábiles, del cumplimiento de su cometido al Consejo Regional y a la Subsecretaría General de Gobierno.
 
 #### Artículo 14º
 
-Las postulaciones de proyectos deberán ser presentadas ante la Secretaría Regional Ministerial de Gobierno -en cuyo territorio jurisdiccional deban ser ejecutados- y en la División Secretaría de Comunicación y Cultura en el caso de la Región Metropolitana, de acuerdo a los formularios de postulación que ella haya elaborado y puesto a disposición de los interesados oportunamente; y si se tratare de proyectos postulados por personas residentes en el extranjero, se aplicará la misma regla.
+Las postulaciones de proyectos deberán ser presentadas ante la Secretaría Regional Ministerial de Gobierno -en cuyo territorio jurisdiccional deban ser ejecutados- y en la Subsecretaría General de Gobierno en el caso de la Región Metropolitana, de acuerdo a los formularios de postulación que ella haya elaborado y puesto a disposición de los interesados oportunamente; y si se tratare de proyectos postulados por personas residentes en el extranjero, se aplicará la misma regla.
 
-Los proyectos deberán ser presentados escritos a máquina, computador o similar, en un original y dos copias, acompañados de toda la documentación correspondiente y de los formatos de presentación de proyectos audiovisuales en su caso; quien los postule recibirá un comprobante de recepción, en el que constará el nombre del proyecto, la individualización de su respectivo responsable y la fecha de su recepción.
+Los proyectos deberán ser presentados por escrito en la Oficina de Partes que corresponda, o por vía electrónica en el sitio web del Ministerio Secretaría General de Gobierno, en los términos y condiciones que indiquen las bases respectivas.
 
 Los órganos a que se refiere el inciso 1º, deberán remitir los proyectos al Consejo Regional, previo informe sobre el mismo.
 
@@ -184,17 +190,23 @@ proyectos
 
 #### Artículo 18º
 
-Una vez expirado el plazo de presentación de las postulaciones, establecido en la respectiva convocatoria, el Consejo Regional, con la asesoría del Secretario Regional Ministerial de Gobierno en la región respetiva, y la División Secretaría de Comunicación y Cultura en la Región Metropolitana, y teniendo a la vista el informe a que se refiere el inciso 3º del artículo 14 verificará el cumplimiento que en cada caso se haya dado a los requisitos y exigencias de carácter meramente formal establecidos en las bases del concurso, de lo cual dejará constancia en cada uno de los expedientes que abra para cada postulación. Cuando el postulante fuere una persona jurídica, se verificará que efectivamente tenga dicha calidad y que, además, se encuentra vigente. Si alguna postulación adoleciere de insuficiencia de índole formal o fuere extemporánea, el Consejo Regional declarará de plano su inadmisibilidad.
+Una vez expirado el plazo de presentación de las postulaciones establecido en la respectiva convocatoria, el Secretario Regional Ministerial de Gobierno en la región respectiva, y la Subsecretaría General de Gobierno en la Región Metropolitana, verificará el cumplimiento de los requisitos y exigencias de carácter formal establecidos en las Bases del concurso, de lo cual dejará constancia en cada uno de los expedientes que abra para cada postulación.
+
+Si alguna postulación fuere extemporánea, se deberá declarar de plano su inadmisibilidad. En los demás casos se podrá solicitar a los participantes, en la forma señalada en las bases, que salven errores u omisiones formales o adjunten antecedentes otorgados por algún organismo público que hubieran omitido presentar al momento de efectuar dicha postulación. Dicha solicitud deberá hacerse de manera general e igualitaria, de manera de abarcar a todos los participantes que se encuentren en la misma situación
 
 #### Artículo 19º
 
-Realizado que sea el examen indicado en el artículo anterior, el Consejo Regional remitirá a la Comisión Regional los expedientes de aquellas postulaciones, que presentadas oportunamente, cumplan con los requisitos y exigencias formales establecidos en las bases del concurso. Y notificará de inmediato y por escrito a las personas naturales y jurídicas que postularon los proyectos declarados inadmisibles.
+Realizado que sea el examen indicado en el artículo anterior, el Ministerio Secretaría General de Gobierno remitirá a la Comisión Regional los expedientes de aquellas postulaciones, que presentadas oportunamente, cumplan con los requisitos y exigencias formales establecidos en las bases del concurso. Y notificará de inmediato y por escrito a las personas naturales y jurídicas que postularon los proyectos declarados inadmisibles.
+
+Dentro del plazo de cinco días hábiles, contados desde su notificación, cualquier postulante podrá solicitar a la respectiva autoridad ministerial la reconsideración de la decisión adoptada respecto de su proyecto.
+
+El examen de admisibilidad que se efectúe será vinculante para la Comisión Regional y el Consejo Regional, los que no podrán modificarlo en caso alguno.
 
 #### Artículo 20º
 
 En su sesión constitutiva, la Comisión Regional procederá a elegir un presidente, el que dirigirá sus sesiones y organizará su trabajo.
 
-La Comisión Regional se relacionará con el Consejo Regional y la comunidad a través del Secretario Regional Ministerial de Gobierno en la región respectiva, y a través de la División Secretaría de Comunicación y Cultura en la Región Metropolitana.
+La Comisión Regional se relacionará con el Consejo Regional y la comunidad a través del Secretario Regional Ministerial de Gobierno en la región respectiva, y a través de la Subsecretaría General de Gobierno en la Región Metropolitana.
 
 #### Artículo 21º
 
@@ -202,23 +214,17 @@ La Comisión Regional deberá cumplir su cometido dentro del plazo de veinte dí
 
 #### Artículo 22º
 
-La Comisión Regional no podrá sesionar sin la concurrencia de los tres quintos de sus integrantes y adoptará sus acuerdos por la mayoría absoluta de sus miembros presentes. Si no pudiere sesionar por faltar el quórum requerido, podrá ser integrado por sus miembros suplentes, en el número que sea necesario. En caso de empate, el Presidente de la Comisión Regional resolverá.
+La Comisión Regional no podrá sesionar sin la concurrencia de al menos cinco integrantes y adoptará sus acuerdos por la mayoría absoluta de sus miembros presentes. En caso de empate, resolverá el Presidente de la Comisión.
 
-#### Artículo 23º
+#### Artículo 23°
 
-Para la evaluación de los proyectos, la Comisión Regional deberá considerar los siguientes criterios:
+Para la evaluación de los proyectos, la Comisión Regional considerará los siguientes criterios, que deben encontrarse recogidos y detallados en las Bases del concurso:
 
-- calidad;
+a) Calidad: Identificación en forma clara y coherente del objetivo y estrategia de la iniciativa presentada.
 
-- viabilidad;
+b) Viabilidad: Planificación detallada acerca del uso de los recursos humanos y financieros, y de las actividades asociadas.
 
-- oportunidad;
-
-- presupuesto;
-
-- proyección previsible para las comunidades
-
-regional, provincial y comunal.
+c) Impacto social: Beneficios específicos dentro de la región, provincia o comuna, y la capacidad del proyecto para que sus efectos permanezcan en el tiempo.
 
 #### Artículo 24º
 
@@ -226,7 +232,7 @@ La Comisión Regional, primero, seleccionará proyectos hasta concurrencia de lo
 
 #### Artículo 25º
 
-La Comisión Regional, al momento de seleccionar los proyectos, deberá priorizarlos de acuerdo a los criterios señalados en el Art. 24º del presente Reglamento y a las Bases del concurso. La Comisión Regional también podrá declarar desierto, total o parcialmente, el concurso.
+La Comisión Regional, al momento de seleccionar los proyectos, deberá priorizarlos de acuerdo a los criterios señalados en el Art. 23º del presente Reglamento y a las Bases del concurso. La Comisión Regional también podrá declarar desierto, total o parcialmente, el concurso.
 
 #### Artículo 26º
 
@@ -244,9 +250,11 @@ seleccionados
 
 Conocida que sea por el Consejo Regional la decisión de la Comisión Regional, deberá, dentro de los cinco días siguientes, efectuar las asignaciones que correspondan a los proyectos priorizados, por ésta. En el caso que el Consejo estimare necesario cambiar alguna o algunas de estas prioridades de asignación, deberá hacerlo de manera fundada, con la aprobación de los dos tercios de sus integrantes, comunicando a la Comisión Regional su decisión.
 
+Sin perjuicio de lo anterior, solamente se podrán seleccionar proyectos evaluados por la Comisión Regional que alcancen el puntaje mínimo indicado en las bases del concurso.
+
 #### Artículo 29º
 
-Finalizado el proceso de selección el Secretario Regional Ministerial de Gobierno deberá publicar - en a lo menos dos medios de comunicación social regionales, de manera de alcanzar a la totalidad de la población en la región- el listado de proyectos seleccionados, con las sumas a ellos asignadas o, en su defecto, la decisión de la Comisión Regional de declarar desierto el concurso.
+Finalizado el proceso de selección el Secretario Regional Ministerial de Gobierno deberá publicar el listado de proyectos seleccionados, con las sumas a ellos asignadas o, en su defecto, la decisión de la Comisión Regional de declarar desierto el concurso.
 
 De estas decisiones podrán apelar las personas que hayan participado en los respectivos concursos regionales, dentro de los cinco días hábiles siguientes a la publicación, ante el Intendente Regional, quién dispondrá de cinco días hábiles para resolver, comunicando su decisión al solicitante.
 
@@ -256,7 +264,7 @@ De los convenios de ejecución de los proyectos
 
 #### Artículo 30º
 
-Dentro de los treinta días siguientes a la publicación regulada en el artículo inmediatamente precedente, las personas naturales, que de conformidad con el artículo 15º de este reglamento sean responsables de proyectos seleccionados, deberán celebrar un Convenio de Ejecución con el respectivo Gobierno Regional y el Ministerio Secretaría General de Gobierno a través del Secretario Regional Ministerial respectivo.
+Dentro de los diez días hábiles siguientes a la publicación regulada en el artículo inmediatamente precedente, las personas naturales, que de conformidad con el artículo 15º de este reglamento sean responsables de proyectos seleccionados, deberán celebrar un Convenio de Ejecución con el respectivo Gobierno Regional y el Ministerio Secretaría General de Gobierno a través del Secretario Regional Ministerial respectivo.
 
 Si expirare el plazo señalado en el inciso anterior, sin que el responsable del proyecto seleccionado hubiere firmado el respectivo Convenio de Ejecución, el Secretario de la Comisión Regional certificará dicha circunstancia y con su solo mérito el Consejo Regional procederá a adjudicar y reasignar los recursos del Fondo entre aquellos proyectos seleccionados y priorizados especialmente para el efecto, de conformidad con los artículos 25º y 13º Lit. c) de este reglamento.
 
@@ -274,19 +282,19 @@ Del control de la ejecución de los proyectos
 
 #### Artículo 33º
 
-Corresponderá al Consejo Regional con la asesoría del Secretario Regional Ministerial de Gobierno y al Jefe de la División Secretaría de Comunicación y Cultura en la Región Metropolitana, velar por que la ejecución de los proyectos se ajuste a los términos del respectivo Convenio de Ejecución, las bases y el presente reglamento, supervisarlos y evaluarlos periódicamente.
+Corresponderá al Consejo Regional con la asesoría del Secretario Regional Ministerial de Gobierno y de la Subsecretaría General de Gobierno. en la Región Metropolitana, velar por que la ejecución de los proyectos se ajuste a los términos del respectivo Convenio de Ejecución, las bases y el presente reglamento, supervisarlos y evaluarlos periódicamente.
+
+> **Nota.** El N° 19 del Artículo Único del Decreto 156, Secretaría General de Gobierno, publicado el 08.02.2012, modifica el presente artículo en el sentido de reemplazar la frase "al Jefe de la División Secretaría de Comunicación y Cultura" por la expresión "de la Subsecretaría General de Gobierno.", razón por la cual aparece de esta manera en el texto.
 
 #### Artículo 34º
 
-Si el responsable de un proyecto incurriere en incumplimiento de sus obligaciones contractuales, el Consejo Regional podrá disponer la suspensión inmediata de los aportes al proyecto.
-
-Si el responsable se allanare a cumplir efectivamente sus obligaciones contractuales, el Consejo Regional podrá éste resolver la prosecución del proyecto y la consiguiente reanudación de los aportes.
+Si el responsable de un proyecto incurriere en incumplimiento de sus obligaciones contractuales, el Ministerio Secretaría General de Gobierno podrá disponer la suspensión inmediata de los aportes al proyecto, hasta que el responsable se allanare a cumplir efectivamente dichas obligaciones, en cuyo caso esa Secretaría de Estado podrá exigir en forma previa a la reanudación de los aportes una mejora de las garantías entregadas.
 
 #### Artículo 35
 
 Los recursos que entregue el Fondo deberán destinarse exclusivamente a la ejecución del proyecto. Todos los gastos deberán estar respaldados con boletas o facturas emitidas a nombre al medio de comunicación que se adjudicó los recursos, y desglosados de acuerdo a los ítem que fueron aprobados por el Consejo Regional luego de la evaluación del proyecto y su respectiva asignación.
 
-La rendición de estos dineros deberá ser remitida al Secretario Regional Ministerial de Gobierno, y al Jefe de la División de Comunicación y Cultura en caso de la Región Metropolitana, rendición que deberá ser enviada a la División Administración y Finanzas del Ministerio Secretaría General de Gobierno con copia a los Consejos Regionales.
+La rendición de esos dineros deberá ser remitida al Secretario Regional Ministerial de Gobierno, y a la Subsecretaría General de Gobierno en el caso de la Región Metropolitana, para que sea enviada a la División de Administración y Finanzas del Ministerio Secretaría General de Gobierno
 
 Ninguna boleta o factura podrá ser emitida a nombre del Gobierno Regional o del Ministerio Secretaría General de Gobierno.
 
