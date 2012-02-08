@@ -130,15 +130,11 @@ INCISOS SUPRIMIDOS.
 
 Donaciones materializadas directamente al Fondo, a los beneficiarios o a sus representantes. Los donantes podrán materializar la donación directamente al Fondo para que sea asignada por parte del Ministerio de Hacienda al beneficiario en la forma que disponga el Reglamento, directamente al beneficiario o a un tercero en representación de éste.
 
-Las obras específicas podrán ser ejecutadas por organismos públicos, por el donante o por entidades privadas sin fines de lucro que cuenten con experiencia comprobable y fehaciente en la materia de la obra a ejecutar.
+Las obras específicas podrán ser ejecutadas, además, directamente por el donante, para lo cual, en caso de tratarse de obras específicas de naturaleza pública, será necesaria la suscripción con los Ministerios, Gobiernos Regionales o Municipios, según corresponda, de uno o más convenios en los que deberá constar el valor referencial de la obra donada, así como las especificaciones técnicas de la misma. En el mismo convenio, se dejará constancia del período de ejecución de la obra y de los aportes comprometidos por el o los donantes.
 
-Para ello, será necesaria la suscripción de uno o más convenios con el organismo público, donante o entidad privada sin fines de lucro que ejecute la obra, en los que deberá constar la tasación de la obra, además, sus especificaciones técnicas, el período en el que deberá ejecutarse, y la forma y el plazo en que se efectuará a aquél el traspaso de los recursos para el financiamiento de la obra objeto del convenio. El ejecutor deberá remitir oportunamente al Ministerio de Hacienda la información que acredite los estados de avance de la obra, y deberá efectuar una completa rendición de cuentas conforme lo establezca el reglamento.
+El Ministerio de Hacienda podrá solicitar de los donantes que hayan celebrado los convenios señalados en el inciso anterior, la información pertinente para verificar el cumplimiento de las condiciones establecidas al respecto. Con todo, para efectos de fiscalización, el Servicio de Impuestos Internos podrá solicitar del Ministerio de Hacienda los antecedentes referidos.
 
-El Ministerio de Hacienda podrá solicitar de los ejecutores que hayan celebrado los convenios señalados en el inciso tercero, la información pertinente para verificar el cumplimiento de las condiciones establecidas al respecto. Con todo, para efectos de fiscalización, el Servicio de Impuestos Internos podrá solicitar del Ministerio de Hacienda los antecedentes referidos.
-
-En el caso de donaciones a obras específicas, públicas o privadas, en que no haya ejecución por parte del donante o una entidad privada sin fines de lucro, el beneficiario de la donación estará habilitado para contratar la ejecución de la obra financiada total o parcialmente con donaciones, mediante el mecanismo de trato o contratación directa regulado en la ley Nº 19.886, de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
-
-El Ministerio de Hacienda llevará un registro público actualizado que individualizará a los ejecutores, las obras a su cargo y su estado de avance.
+En el caso de donaciones a obras específicas públicas en que no haya ejecución por parte del donante, el beneficiario de la donación estará habilitado para contratar la ejecución de la obra financiada total o parcialmente con donaciones, mediante el mecanismo de trato o contratación directa regulado en la ley N° 19.886, Ley de Bases sobre Contratos Administrativos de Suministro y Prestación de Servicios.
 
 #### Artículo 8° ter
 

@@ -150,17 +150,33 @@ Un reglamento del Ministerio de Planificación y Cooperación, suscrito además 
 
 Tanto el registro como las resoluciones del consejo deberán encontrarse a disposición de la Contraloría General de la República, para el efecto de que ésta conozca la asignación y rendición de cuenta de estos recursos.
 
-## Título II — - Derogado.
+## Título II
 
 De los beneficios tributarios a las donaciones destinadas a entidades de carácter político
 
-#### Artículo 8°
+#### Artículo 8º
 
-Derogado.
+Los contribuyentes a que se refiere el artículo 1º, que efectúen donaciones en dinero a los Partidos Políticos inscritos en el Servicio Electoral o a los institutos de formación política que se definen en la presente ley, podrán deducir éstas de la renta líquida imponible, una vez efectuados los ajustes previstos en los artículos 32º y 33º de la Ley sobre Impuesto a la Renta, en la forma y cumpliendo con los requisitos que a continuación se establecen:
 
-#### Artículo 9°
+1.- La donación deducible no podrá superar el equivalente al 1% de la renta líquida imponible correspondiente al ejercicio en el cual se efectúe la donación.
 
-Derogado.
+2.- El máximo señalado, se determinará deduciendo de la renta líquida previamente las donaciones a que se refiere este artículo.
+
+3.- Estas donaciones se liberarán del trámite de la insinuación y se eximirán del impuesto a las herencias y donaciones establecido en la ley Nº 16.271.
+
+4.- Para hacer uso del beneficio que establece este artículo, los donatarios, sus entidades recaudadoras o el Servicio Electoral, deberán otorgar un certificado a la entidad donante, que acredite la identidad de ésta, el monto de la donación y la fecha en que esta se efectuó, certificado que deberá ser emitido cumpliendo las formalidades y requisitos que establezca para este efecto el Servicio Electoral. Este Certificado deberán mantenerlo en su poder las entidades donantes, para ser exhibido al Servicio de Impuestos Internos cuando este así lo requiera. Sin perjuicio de lo anterior y de la reserva o secreto que la ley establezca al Servicio Electoral o a sus funcionarios, el Servicio de Impuestos Internos podrá solicitar directamente a dicho Servicio la información adicional que requiera para fiscalizar el buen uso de este beneficio, sin que pueda solicitar información sobre la identidad del donatario. La información que se proporcione en cumplimiento de lo prescrito en este número se amparará en el secreto establecido en el artículo 35º del Código Tributario.
+
+Igual beneficio y en los mismos términos precedentes, tendrán las donaciones que se efectúen directamente a candidatos a ocupar cargos de elección popular que se encuentren debidamente inscritos y siempre que las donaciones se efectúen en el período que corre desde el día en que venza el plazo para declarar candidaturas y el día de la elección respectiva. Con todo, las donaciones a que se refiere este inciso no podrán exceder, en conjunto con las señaladas en el inciso primero, del límite establecido en este artículo.
+
+Sólo podrán hacer uso de este beneficio aquellas donaciones a las que la ley otorgue el carácter de públicas o reservadas.
+
+#### Artículo 9º
+
+Para los efectos del artículo anterior se entenderá que son institutos de formación política aquellas entidades con personalidad jurídica propia y que sean señaladas por los Partidos Políticos como instituciones formadoras.
+
+Estas Instituciones deberán inscribirse en un registro que al efecto llevará el Servicio Electoral y no podrán corresponder a más de una por cada Partido Político inscrito en el Servicio Electoral.
+
+Para controlar el correcto uso del beneficio tributario que se establece en el artículo precedente, el Servicio de Impuestos Internos podrá requerir del Servicio Electoral, y este entregar, la información relativa a la formación de dichos institutos. Dicha información quedará amparada por el secreto que establece el artículo 35 del Código Tributario.
 
 ## Título III
 
@@ -168,11 +184,11 @@ Disposiciones Generales
 
 #### Artículo 10
 
-El conjunto de las donaciones efectuadas por los contribuyentes del impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del decreto ley Nº 824, de 1974, sea para los fines que señala el artículo 2º de esta ley o para los establecidos en el artículo 69 de la ley Nº 18.681; artículo 8º de la ley Nº 18.985; artículo 3º de la ley Nº 19.247; ley Nº 19.712; artículo 46 del decreto ley Nº 3.063, de 1979; decreto ley Nº 45, de 1973; artículo 46 de la ley Nº 18.899, y en el Nº 7 del artículo 31 de la Ley sobre Impuesto a la Renta, así como para los que se establezcan en otras normas legales que se dicten para otorgar beneficios tributarios a donaciones, tendrán como límite global absoluto el equivalente al 5% de la renta líquida imponible. Dicho límite se aplicará ya sea que el beneficio tributario consista en un crédito contra el impuesto de Primera Categoría, o bien en la posibilidad de deducir como gasto la donación. Sin embargo, en este límite no se incluirá aquel a que se refiere el artículo 8º. Para la determinación de este límite se deducirán de la renta líquida imponible las donaciones a las entidades señaladas en el artículo 2º. No obstante lo señalado en el párrafo anterior, en el caso en que los donantes indicados en el referido párrafo se encuentren en situación de pérdida tributaria, podrán considerar como límite global absoluto, el equivalente al 4,8 por mil de su capital propio tributario, o el 1,6 por mil del capital efectivo, sólo para los fines de rebajar como gasto tributario tales donaciones, en los términos dispuestos en el número 7 del artículo 31 de la Ley sobre Impuesto a la Renta. Sin embargo, este límite global absoluto, no se aplicará en los casos en que la ley especial que establece beneficios tributarios por donaciones, contenga un límite particular para el caso en que exista pérdida tributaria en el ejercicio.
+El conjunto de las donaciones efectuadas por los contribuyentes del impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta contenida en el artículo 1° del decreto ley Nº 824, de 1974, sea para los fines que señala el artículo 2º de esta ley o para los establecidos en el artículo 69 de la ley Nº 18.681; artículo 8º de la ley Nº 18.985; artículo 3º de la ley Nº 19.247; ley Nº 19.712; artículo 46 del decreto ley Nº 3.063, de 1979; decreto ley Nº 45, de 1973; artículo 46 de la ley Nº 18.899, y en el Nº 7 del artículo 31 de la Ley sobre Impuesto a la Renta, así como para los que se establezcan en otras normas legales que se dicten para otorgar beneficios tributarios a donaciones, tendrán como límite global absoluto el equivalente al 5% de la renta líquida imponible. Dicho límite se aplicará ya sea que el beneficio tributario consista en un crédito contra el impuesto de Primera Categoría, o bien en la posibilidad de deducir como gasto la donación. Sin embargo, en este límite no se incluirá aquel a que se refiere el artículo 8º. Para la determinación de este límite se deducirán de la renta líquida imponible las donaciones a las entidades señaladas en el artículo 2º.
 
 Con todo, los contribuyentes afectos al impuesto de Primera Categoría de la Ley sobre Impuesto a la Renta señalados en el artículo 1°, podrán efectuar donaciones irrevocables de largo plazo a las instituciones señaladas en el artículo 2º o al Fondo establecido en el artículo 3º, hasta por el equivalente a 1,6 por mil de su capital propio tributario, con un máximo de 14.000 Unidades Tributarias Mensuales al año, cualquiera sea la renta imponible del ejercicio respectivo o cuando tengan pérdidas. En tal caso, si en alguno de los ejercicios correspondiente a la duración de la donación, el contribuyente registra una renta líquida imponible tal, que el 5% de ella sea inferior al monto de las cuotas de dicha donación que han vencido y han sido pagadas en el ejercicio, el contribuyente no tendrá derecho al crédito que se indica en el artículo 1° por las cuotas indicadas, pero podrá deducirlas totalmente como gasto aceptado. Las donaciones a que se refiere este inciso son aquéllas en que la donación se efectúa irrevocablemente mediante una escritura pública, no sujeta a modo o condición, estableciendo pagos futuros en cuotas anuales y fijas, expresadas en unidades de fomento y por períodos no inferiores a cuatro ejercicios comerciales.
 
-Tratándose de los contribuyentes del impuesto Global Complementario, el límite global absoluto que establece el inciso primero de este artículo para las donaciones que efectúen de conformidad con las leyes tributarias, será el equivalente al 20% de su renta imponible, o será de 320 Unidades Tributarias Mensuales, si este monto fuera inferior a dicho porcentaje. En todo caso, las donaciones que excedan dicho límite quedarán igualmente liberadas del trámite de la insinuación.
+Tratándose de los contribuyentes del impuesto Global Complementario que determinen sus rentas de conformidad con lo dispuesto en el artículo 50 de la Ley sobre Impuesto a la Renta, y aquellos contribuyentes afectos al impuesto contemplado en el número 1º del artículo 43 del mismo texto legal, el límite global absoluto que establece el inciso primero de este artículo para las donaciones que efectúen de conformidad con las leyes tributarias, será el equivalente al 20% de su renta imponible, o será de 320 Unidades Tributarias Mensuales, si este monto fuera inferior a dicho porcentaje. En todo caso, las donaciones que excedan dicho límite quedarán igualmente liberadas del trámite de la insinuación.
 
 Para las donaciones reguladas en esta ley, no se aplicarán los límites que establezcan otras leyes que otorguen algún tipo de beneficio tributario a los donantes. Esta disposición primará sobre las contenidas en las leyes señaladas en este artículo.
 
