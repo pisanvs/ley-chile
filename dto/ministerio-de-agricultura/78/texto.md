@@ -634,9 +634,17 @@ j. Betaglucanasa.
 
 k. Materia proteica de origen vegetal.
 
+l. Extractos proteicos de levaduras.
+
+m. Quitosano, en dosis máxima de 100 g/hL.
+
+n. Glucano-Quitina, en dosis máxima de 100 g/hL
+
 15. El uso de madera en diferentes formas.
 
 16. El empleo de Acido D,L- Tartárico, también llamado Acido Racémico o de su sal neutra de potasio, en mostos y vinos, con el fin de eliminar el exceso de calcio.
+
+17. Acidificación de mostos mediante tratamiento con electromembranas.
 
 #### Artículo 23º
 
@@ -690,6 +698,12 @@ i. Betaglucanasa.
 
 j. Materia proteica de origen vegetal.
 
+k. Extractos proteicos de levaduras.
+
+l. Quitosano, en dosis máxima de 100 g/hL.
+
+m. Glucano-Quitina, en dosis máxima de 100 g/hL.
+
 15. El empleo de tanino.
 
 16. El empleo de carbón activado.
@@ -718,7 +732,7 @@ j. Materia proteica de origen vegetal.
 
 28. El empleo de Acido D,L- Tartárico, también llamado Acido Racémico o de su sal neutra de potasio, con el fin de eliminar el exceso de calcio.
 
-29. La adición de Dicarbonato de Dimetilo (DMDC), sólo en vinos cuyo contenido de azúcar sea igual o superior a 5 g/L, en dosis máxima de 200 mg/L.
+29. La adición de Dicarbonato de Dimetilo (DMDC), en dosis máxima de 200 mg/L.
 
 30. El empleo de Manoproteinas de Levaduras, con el fin de lograr la estabilización tartárica y/o proteica.
 
@@ -729,6 +743,14 @@ j. Materia proteica de origen vegetal.
 33. El empleo de Columna de Cono Rotatorio para el desalcoholizado parcial del vino, siempre que el producto final no disminuya en más de 2° GL, la graduación alcohólica inicial.
 
 34. El empleo de Resinas de Intercambio Catiónico, con el fin de lograr la estabilización tartárica.
+
+35. Tratamiento con cloruro de plata, en dosis máxima de 1 g/hL.
+
+36. El empleo de Glucano-Quitina con el fin de reducir metales pesados y evitar quiebras férricas y cúpricas en dosis máxima de 100 g/hL.
+
+37. El empleo de Glucano-Quitina para reducir Ocratoxina A, en dosis máxima de 500 g/hL.
+
+38. Acidificación de vinos mediante tratamiento con electromembranas.
 
 #### Artículo 24°
 
@@ -771,6 +793,8 @@ f) Los productos finales que contengan más de 250 mg/L de anhídrido sulfuroso 
 g) Aquellos productos finales que contengan una cantidad de sodio excedentario superior a 80 mg/L o de sulfatos expresados en sulfato de potasio superior a 2 g/L, salvo en los vinos dulces, generosos y licorosos que podrán contener hasta 4 g/L de sulfatos por litro.
 
 h) Aquellos productos finales que contengan más de 1 g/L de ácido cítrico, o más de 1 mg/L de cobre por litro.
+
+i) Aquellos productos finales que contengan más de 0,1 mg/L de cloruro de plata.
 
 #### Artículo 28º
 
