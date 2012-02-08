@@ -1,0 +1,3 @@
+Por resolución exenta Nº 221, de 2 de febrero de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.228, de 2009, modificada mediante resolución exenta Nº 276, de 2011, ambas de esta Subsecretaría de Pesca, que autorizó a SOCIEDAD PESQUERA PESSUR LIMITADA para realizar actividades pesqueras extractivas con la nave "Pesur I", respecto del recurso hidrobiológico Alfonsino, en el área marítima comprendida entre el paralelo 33º L. S. a la VIII Región, en virtud de lo dispuesto en el artículo 143 letra b), de la Ley General de Pesca y Acuicultura, y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 2 de febrero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
