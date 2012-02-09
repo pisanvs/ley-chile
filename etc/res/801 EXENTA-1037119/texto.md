@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 801 EXENTA, DE 2012, QUE RECTIFICA LLAMADO A CONCURSO PÚBLICO
+
+Por resolución exenta Nº 801, de 01.02.2012, del Ministerio de Transportes y Telecomunicaciones, se rectifica de oficio, de conformidad con lo dispuesto en el artículo 61º de la Ley Nº 19.880, el llamado a concurso público para el otorgamiento de concesiones de radiodifusión sonora, correspondiente al primer cuatrimestre de 2012, publicado en la edición Nº 40.162 del Diario Oficial del día 16 de enero de 2012, en el sentido que en la modalidad de frecuencia modulada, en la tabla correspondiente a "solicitudes nuevas", la localidad de Chiguayante, VIII Región, es reemplazada por Melinka, XI Región, y en la modalidad de comunitaria ciudadana incluir en la convocatoria la solicitud de apertura de concurso de radiodifusión sonora para San Miguel, Región Metropolitana.
+
+- Subsecretaría de Telecomunicaciones.
