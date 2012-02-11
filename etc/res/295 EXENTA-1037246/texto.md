@@ -1,0 +1,3 @@
+Por resolución exenta Nº295, de 3 de febrero de 2012, de esta Subsecretaría, recházanse solicitudes números 208121099, 209101092, 208101107, 211012003, 211022004, 211012006, 211012005, 99031013 y 211151001, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 del DS N° 290, de 1993, de este Ministerio.
+
+Valparaíso, 3 de febrero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
