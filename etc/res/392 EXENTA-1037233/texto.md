@@ -1,0 +1,11 @@
+DELEGA FACULTADES QUE INDICA Y DEROGA OTRAS
+
+Por Res. Ex. Nº392, de 23 enero 2012, la suscrita delegó en el Jefe del Depto. Procedimientos Administrativos Tributarios IX Dirección Regional, las sgtes. facultades:
+
+- **1.-** Aplicar las sanciones administrativas que correspondan respecto de las infracciones tributarias previstas y tipificadas en el art. 97 Nº 3, 6, 7, 10, 15, 16, 17, 19, 20 y 21 y en el artículo 109, ambos del Código Tributario, cuando no se haya reclamado de ellas, y conceder las condonaciones que se soliciten respecto de las sanciones que les corresponda aplicar, siempre que se cumplan las condiciones establecidas en las resoluciones e instrucciones dictadas al efecto;
+
+- **2.-** Resolver administrativamente, de acuerdo al art. 6º, letra B, Nº 5 del Código Tributario, las peticiones de revisión fundadas en vicios o errores manifiestos que se deduzcan en cualquier tiempo, respecto de las liquidaciones, giros o resoluciones que incidan en el pago de un impuesto o en los elementos que sirvan de base para determinarlo o que denieguen cualquiera de las peticiones a que se refiere el art. 126 del citado cuerpo legal;
+
+- **3.-** Resolver los recursos de reposición administrativa interpuestos por los contribuyentes respecto de las resoluciones, giros y liquidaciones dictadas por la respectiva Dirección Regional. El funcionario designado, al hacer uso de las facultades delegadas, deberá mencionar la referida Res. Ex., y anteponer a su firma la frase "Por orden del Director Regional". Por la misma Res. Ex. Nº 392 se derogan las Res. Ex. Nº 8, de 10 enero 2001, y Nº 189, de 19 mayo 2008, ambas del Director Regional, delegatorias de facultades en el Jefe del Depto. Jurídico Regional; y la resolución exenta Nº 1296, de 24 de febrero de 2011, del Director Regional, delegatoria de facultades en el Jefe del Depto. Procedimientos Administrativos Tributarios. El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet.
+
+- Paulina Carrasco Piñones, Directora Regional.
