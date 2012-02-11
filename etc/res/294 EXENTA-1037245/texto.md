@@ -1,0 +1,3 @@
+Por resolución exenta Nº 294, de 3 de febrero de 2012, de esta Subsecretaría, recházanse las solicitudes Nº 208121122, Nº208121125 y Nº209106013, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de ar-tículos 10 c) y 14 a) del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, de 3 de febrero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
