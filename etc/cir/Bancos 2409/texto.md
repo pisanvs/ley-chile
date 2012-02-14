@@ -2432,7 +2432,9 @@ b) Las cesiones serán sin responsabilidad de pago del cedente ni con condicione
 
 c) La cesión de créditos a entidades no sujetas a la fiscalización de esta Superintendencia deberá contar con el consentimiento previo del deudor, salvo que se trate de créditos vencidos o castigados. Se podrá prescindir de ese consentimiento cuando se trate de créditos pagaderos en cuotas, en que una o más de ellas hayan cumplido 90 días en mora. La cesión podrá comprender todas las cuotas vencidas y también aquellas que no han vencido. En los demás casos el deudor dará su consentimiento por escrito y, para solicitarlo, el banco deberá informarle quien será su nuevo acreedor y dónde tendrá que servir sus créditos en caso de otorgarlo.
 
-d) Las cesiones de créditos a una parte relacionada requerirá de la autorización previa de esta Superintendencia. La respectiva autorización se solicitará por escrito, acompañando la misma información que se indica en el N° 2 siguiente.
+d) Los contratos que den cuenta de la venta de créditos hipotecarios a entidades distintas de otros bancos fiscalizados por esta Superintendencia, deberán incluir una cláusula que obligue al comprador a admitir una carta de resguardo para alzar la hipoteca, emitida por cualquier banco establecido en el país con el objeto de prepagar alguno de los créditos cedidos.
+
+e) Las cesiones de créditos a una parte relacionada requerirá de la autorización previa de esta Superintendencia. La respectiva autorización se solicitará por escrito, acompañando la misma información que se indica en el N° 2 siguiente.
 
 2.- Envío a esta Superintendencia de información acerca de las transacciones realizadas.
 
@@ -7112,9 +7114,11 @@ La tasa de interés que se acuerde puede ser fija o flotante. La tasa de interé
 
 Los bancos no podrán recargar la tasa de interés pactada en estas operaciones con comisiones, gastos u otras prestaciones, salvo los conceptos a que se refiere el N° 10 siguiente.
 
-### 6. Entrega del importe de los préstamos
+### 6. Inscripción de la hipoteca
 
-El desembolso del importe del préstamo se efectuará una vez que quede inscrita la hipoteca respectiva, en el correspondiente registro del Conservador de Bienes Raíces.
+En concordancia con lo señalado en el N° 12 de este Capítulo, es condición imprescindible para la cesión del mutuo que la respectiva garantía hipotecaria se encuentre inscrita en el Conservador de Bienes Raíces.
+
+En el evento de que la hipoteca no se encontrare inscrita una vez transcurridos 120 días desde la fecha de la escritura, el crédito dejará de tener la calidad de un mutuo hipotecario endosable para los efectos de las presentes normas y las demás instrucciones que se refieren a este tipo de crédito.
 
 ### 7. Dividendos hipotecarios
 
@@ -8249,6 +8253,8 @@ Los activos que vendan los bancos deberán ser de su propiedad, estar libres de 
 La venta de documentos se efectuará sin responsabilidad para los bancos cedentes, sin perjuicio de mantener su responsabilidad en calidad de emisores cuando sea el caso. La venta de contratos de leasing comprenderá la transferencia del dominio del bien objeto del respectivo contrato.
 
 La venta se efectuará por documentos completos y su pago deberá percibirse al contado.
+
+Cuando se trate de créditos hipotecarios, los contratos deberán incluir una cláusula que obligue al cesionario a admitir una carta de resguardo para alzar la hipoteca, emitida por cualquier banco establecido en el país para prepagar alguno de los créditos cedidos.
 
 ### 4. Prohibición de recomprar los activos vendidos
 
