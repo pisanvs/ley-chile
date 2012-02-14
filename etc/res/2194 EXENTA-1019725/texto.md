@@ -136,7 +136,9 @@ j) Resolver acerca de las solicitudes de suspensión de las resoluciones que dic
 
 k) Deducir en representación del Instituto las demandas de cualquier clase que tengan por objeto el cobro de toda acreencia que exista en contra del Instituto.
 
-l) Instruir sumarios sanitarios.
+l) Ordenar instruir sumarios sanitarios.
+
+m) Asumir las funciones de Jefe de Gabinete en caso de ausencia de su titular.
 
 9.- Delégase en la Jefatura del Departamento de Control Nacional las siguientes facultades:
 
