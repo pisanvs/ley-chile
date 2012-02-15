@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) N° 52 de 25 de enero de 2012, se modificó el Decreto MOP N° 4912, de 31 de octubre de 20000, que ordenó entre otros la expropiación del lote N° 2, en la parte que se refiere al número de rol de avalúo y el nombre del propietario. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley N° 2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
