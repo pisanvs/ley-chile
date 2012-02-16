@@ -164,11 +164,9 @@ resoluciones exentas Nº545, Nº1.377 y Nº1.620,
 
 todas de 2011, Consultora Pupelde Limitada.
 
-### 11. Erizo, Loco, Huepo, Caracol Trofón, Ostión del Sur y Ostión Patagónico:
+### 11. Erizo, loco, huepo, caracol trofón, ostión del sur y ostión patagónico:
 
-a) XII Región, resolución exenta Nº4.483 de 2010,
-
-Mares Chile Limitada.
+a) XII Región, resolución exenta Nº 3.483 de 2010, Mares Chile Limitada.
 
 ### 12. Centollón:
 
