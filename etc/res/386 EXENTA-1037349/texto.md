@@ -1,0 +1,3 @@
+Por resolución exenta Nº 386, de 10 de febrero de 2012, de esta Subsecretaría, recházanse las solicitudes Nºs. 203104058, 209012003, 206103342, 209111338 y 211111009, señaladas en la resolución extractada, y publicada www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y 14 bis del DS Nº 290 de 1993, de este Ministerio.
+
+Valparaíso, 10 de febrero de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
