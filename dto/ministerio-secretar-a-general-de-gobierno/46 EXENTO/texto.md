@@ -70,13 +70,13 @@ g) Región de Los Lagos:
 
 3.- Alex Bartsch Bórquez (Seremi de Transportes y Telecomunicaciones, Región de Los Lagos).
 
-h) Región de Aysén:
+h) Región de Aysén
 
-1.- Quemel Sade Barría (Seremi de Obras Públicas, Región de Aysén).
+1.- Víctor Oyarzún Rodríguez (Seremi de Justicia, Región de Aysén)
 
-2.- Ximena Carrasco Hauestein (Directora Regional del Servicio Nacional de la Mujer, Región de Aysén).
+2.- Andrés Pincheira Stambuk (Seremi del Trabajo y Previsión Social, Región de Aysén)
 
-3.- Patricio Alejandro Escobar Neumann (Seremi de Transportes y Telecomunicaciones, Región de Aysén).
+3.- Ximena Carrasco Hauenstein (Directora Regional del Sernam, Región de Aysén).
 
 2) Déjase sin efecto cualquier otro orden de subrogación que se haya fijado con anterioridad respecto a las regiones referidas y que sea incompatible con lo señalado en el presente decreto exento.
 
