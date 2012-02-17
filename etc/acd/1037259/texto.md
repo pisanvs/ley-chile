@@ -1,6 +1,6 @@
 ACUERDOS SOBRE DESIGNACIÓN DE PRESIDENTE, INTEGRACIÓN DE SALAS, SALA DE TURNO, DISTRIBUCIÓN DE CAUSAS
 
-En sesión plenaria llevada a cabo por el Tribunal de Propiedad Industrial el día jueves 19 de enero del año 2011, bajo la presidencia del Ministro Sr. Marco Arellano Quiroz, con la concurrencia de los Ministros Sr. Víctor Hugo Rojas Aguirre, Sra. Carmen Gloria Olave Lavín, Sr. Eleazar Bravo Manríquez y Sr. Oscar Torres Zagal y la asistencia de la Secretario - Abogado Subrogante Sra. Ana María Troncoso Veas, se adoptaron los siguientes acuerdos:
+En sesión plenaria llevada a cabo por el Tribunal de Propiedad Industrial el día jueves 19 de enero del año 2012, bajo la presidencia del Ministro Sr. Marco Arellano Quiroz, con la concurrencia de los Ministros Sr. Víctor Hugo Rojas Aguirre, Sra. Carmen Gloria Olave Lavín, Sr. Eleazar Bravo Manríquez y Sr. Oscar Torres Zagal y la asistencia de la Secretario - Abogado Subrogante Sra. Ana María Troncoso Veas, se adoptaron los siguientes acuerdos:
 
 1) Designar Presidente del Tribunal por el año judicial 2012, al señor Marco Antonio Arellano Quiroz;
 
