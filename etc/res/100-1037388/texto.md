@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 100, DE 2009
+
+Por resolución Nº 100, de 26 de junio de 2009, del Ministerio de Transportes y Telecomunicaciones, tomada de razón el 16 de noviembre de 2011, se aprobó modificación al Contrato de Concesión de Uso de Vías de la Ciudad de Santiago para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros Mediante Buses, de 23 de junio de 2009, suscrito entre Buses Metropolitana S.A., concesionario de la Unidad de Negocio Troncal N°5 y el Ministerio de Transportes y Telecomunicaciones, que versa sobre programas de operación, modificación de recorridos, ingresos del concesionario, fechas de pago, sanciones, extensión del plazo de la concesión, programa de renovación, recepción de la concesión, vida útil, reemplazo y condiciones de los buses y otras disposiciones. Texto íntegro de la resolución en la página web www.coordinaciontransantiago.cl.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
