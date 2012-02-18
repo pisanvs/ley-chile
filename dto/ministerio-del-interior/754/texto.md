@@ -18,6 +18,8 @@ Para el solo efecto de la asesoría al Presidente de la República dispuesta por
 
 Los actuales miembros de la Comisión Especial designados con anterioridad a la dictación del presente decreto, continuarán asesorando al Presidente de la República en el estudio de las solicitudes de las pensiones de gracia que se sometan a su consideración.
 
+El Ministro del Interior y Seguridad Pública designará suplentes de los cuatro representantes de esta Cartera de Estado, a que se alude en el inciso primero del presente artículo, quienes los reemplazarán en sus funciones con derecho a voz y voto, en aquellos casos en que falte el titular.
+
 #### Artículo 2°
 
 Sustitúyese el artículo 2° del Decreto Supremo N° 1.795, de Interior, de 1993, por el siguiente:
