@@ -1,0 +1,3 @@
+Por resolución exenta Nº 417, de esta Subsecretaría, déjanse sin efecto las resoluciones correspondientes a las áreas de manejo: Los Andariveles, II Región y Cailín Sector C, X Región, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 21 del DS Nº 355, de 1995, de este Ministerio.
+
+Valparaíso, 16 de febrero de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
