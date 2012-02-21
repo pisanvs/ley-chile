@@ -1,0 +1,3 @@
+Por resolución exenta Nº 168, de 23 de enero de 2012, de esta Subsecretaría, amplíese por doce meses, a contar del 18 de diciembre de 2011, el plazo otorgado por el numeral 5.- inciso 1º de la resolución exenta Nº 3.601 de 2010, de esta Subsecretaría, que autorizó a DAVID CRUZ LÓPEZ para ampliar actividades pesqueras extractivas con la nave "Areamilla", en el área marítima comprendida entre la XV a X Regiones, Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez espada y su fauna acompañante, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 23 de enero de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
