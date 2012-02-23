@@ -1,0 +1,3 @@
+Por resolución exenta N° 333, de 9 de febrero de 2012, de esta Subsecretaría, modifícase el numeral 3.- de la resolución exenta N° 604 de 2010, de esta Subsecretaría, que autorizó a O.N.G. DE DESARROLLO Y CONSERVACIÓN DE MAMÍFEROS ACUÁTICOS CENTRO DE CONSERVACIÓN CETÁCEA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia en el marco del proyecto denominado "Estudio de especies de cetáceos en todo el territorio nacional", en el sentido de extender el período de ejecución de la citada pesca de investigación hasta el día 31 de diciembre de 2012, inclusive.
+
+Valparaíso, 9 de febrero de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
