@@ -22,10 +22,6 @@ Resolución:
 
 > **Nota.** El numeral 1 letra a) de la Resolución 1593, Exenta, publicada el 23.02.2012, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, la fila correspondiente al proyecto código "Comité Habitacional Nuestra Casa", de la comuna de Longaví, de la manera que la citada Resolución indica.
 
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 9583 Exenta, Vivienda, publicada el 29.11.2012, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, las filas correspondientes al proyecto Comité Habitacional Nuestra Casa y Total, de la manera que la citada resolución indica.
-
-> **Nota.** NOTA 2 El numeral 2 de la Resolución 9583 Exenta, Vivienda, publicada el 29.11.2012, modifica la presente norma, en el sentido de reemplazar en el resuelvo 3 el guarismo "15.580" por "15.550", sin embargo, el citado guarismo ya fue actualizado con anterioridad.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
