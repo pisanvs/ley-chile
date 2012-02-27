@@ -74,19 +74,29 @@ Asimismo, para los efectos del presente reglamento, se entenderá que se supera 
 
 #### Artículo 4º
 
-Todo centro de cultivo deberá cumplir siempre con las siguientes condiciones: a) Adoptar medidas para impedir el vertimiento de residuos y desechos sólidos y líquidos, que tengan como causa la actividad, incluidas las mortalidades, compuestos sanguíneos, sustancias químicas, lodos y en general materiales y sustancias de cualquier origen, que puedan afectar el fondo marino, columna de agua, playas, terrenos de playa, sin perjuicio de lo dispuesto por las normas de emisión dictadas en conformidad con el artículo 40 de la Ley Nº 19.300 sobre Bases Generales del Medio Ambiente
+Todo centro de cultivo deberá cumplir siempre con las siguientes condiciones:
+
+a) Adoptar medidas para impedir el vertimiento de residuos y desechos sólidos y líquidos, que tengan como causa la actividad, incluidas las mortalidades, compuestos sanguíneos, sustancias químicas, lodos y en general materiales y sustancias de cualquier origen, que puedan afectar el fondo marino, columna de agua, playas, terrenos de playa, sin perjuicio de lo dispuesto por las normas de emisión dictadas en conformidad con el artículo 40 de la Ley Nº 19.300 sobre Bases Generales del Medio Ambiente
 
 La acumulación, traslado y disposición de dichos desechos y residuos deberá hacerse en contenedores herméticos que impidan escurrimientos. El transporte fuera del centro y la disposición final deberá realizarse conforme los procedimientos establecidos por la autoridad competente.
 
 b) Mantener la limpieza de las playas y terrenos de playa aledaños al centro de cultivo de todo residuo
 
-sólido generado por la acuicultura. c) Retirar, al término de su vida útil o a la cesación definitiva de las actividades del centro, todo tipo de soportes no degradables o de degradación lenta que hubieren sido utilizados como sistema de fijación al fondo, con excepción de las estructuras de concreto, pernos y anclas.
+sólido generado por la acuicultura.
+
+c) Retirar, al término de su vida útil o a la cesación definitiva de las actividades del centro, todo tipo de soportes no degradables o de degradación lenta que hubieren sido utilizados como sistema de fijación al fondo, con excepción de las estructuras de concreto, pernos y anclas.
 
 d) La profundidad de las redes, linternas u otras artes de cultivo, incluidas las redes loberas, que penden de estructuras flotantes, no debe exceder al 90% de la altura de la columna de agua, respecto del nivel de reducción de sonda, debiendo quedar el decil más profundo siempre libre de estas estructuras. Esta condición no será aplicable a los colectores de semillas y sistemas de fijación al fondo. Tampoco será aplicable respecto de artes de cultivo que hayan sido sumergidos como medida de contingencia ante un florecimiento algal nocivo así declarado por la autoridad pesquera o por otra causa de fuerza mayor.
 
 e) Disponer de módulos de cultivo y fondeo que presenten condiciones de seguridad apropiadas a las características geográficas y oceanográficas del sitio concesionado, para prevenir el escape o pérdida masiva de recursos en sistemas de cultivo intensivo o desprendimiento o pérdida de recursos exóticos en cultivos extensivos. Deberá verificarse semestralmente el buen estado de los mencionados módulos, debiendo realizarse la mantención en caso necesario para el restablecimiento de las condiciones de seguridad, de lo cual se llevará registro en el centro.
 
+Para tales efectos el centro de cultivo deberá contar con un estudio de ingeniería que incluya una memoria de cálculo en la que se especifiquen las condiciones para las cuales se diseñaron las artes y módulos de cultivo. En dicho estudio deberá especificarse además la información base respecto del sector en que se emplazará el centro de cultivo, la que deberá comprender las características batimétrica, geográfica, meteorológica y oceanográfica, así como los procedimientos de instalación, operación y mantenimiento.
+
+La metodología para el levantamiento de información, procesamiento y cálculos del estudio de ingeniería, así como las especificaciones técnicas de las estructuras de cultivo, se establecerán por resolución de la Subsecretaría, con consulta previa al Ministerio del Medio Ambiente.
+
 Las condiciones de seguridad de los módulos de cultivo y del fondeo de los centros de cultivo intensivo de peces, deberán ser certificadas anualmente, por un profesional o entidad debidamente calificados.
+
+Para tales efectos deberá darse cumplimiento a un plan de mantención y de reparación en su caso, de las estructuras de cultivo que dé cumplimiento a las especificaciones técnicas que sean fijadas en la resolución de la Subsecretaría a que alude el inciso 3º de este literal.
 
 Una copia de las certificaciones señaladas en el inciso anterior deberán ser mantenidas en el centro de cultivo.
 
@@ -95,6 +105,8 @@ f) Utilizar sólo aquellos sistemas de emisión de sonidos destinados a ahuyenta
 g) Utilizar elementos de flotación que no permitan ningún tipo de desprendimiento de los materiales que lo componen.
 
 h) Activar durante el proceso de alimentación un sistema de detección o captación del alimento no ingerido. Se exceptúan de esta obligación los centros que alimenten las especies en cultivo, exclusivamente con algas y los centros ubicados en tierra.
+
+Las medidas de protección ambiental que se requieran en relación con el cultivo de las especies que sean incorporadas en la nómina de especies hidrobiológicas vivas de importación autorizada, fijada en conformidad al artículo 13 de la ley, serán establecidas mediante decreto supremo expedido a través del Ministerio de Economía, Fomento y Reconstrucción, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal que corresponda.
 
 #### Artículo 5º
 
