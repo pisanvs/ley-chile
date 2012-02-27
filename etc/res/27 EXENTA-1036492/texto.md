@@ -164,6 +164,8 @@ resoluciones exentas Nº545, Nº1.377 y Nº1.620,
 
 todas de 2011, Consultora Pupelde Limitada.
 
+Las capturas de erizo se imputarán a la cuota global anual de captura autorizada para el mencionado recurso mediante decreto exento N° 208 de 2012, del Ministerio de Economía, Fomento y Turismo, sectorizadas según corresponda.
+
 ### 11. Erizo, loco, huepo, caracol trofón, ostión del sur y ostión patagónico:
 
 a) XII Región, resolución exenta Nº 3.483 de 2010, Mares Chile Limitada.
