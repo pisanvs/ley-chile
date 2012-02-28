@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 234 EXENTA, DE 2012
+
+Mediante resolución Ex. RCO3.00 N° 234, de 20 de febrero de 2012, de la Dirección Regional de Copiapó del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) Nº 7 del Código Tributario, en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1º del DFL Nº 7 del Ministerio de Hacienda, de 1980, en el articulo 41 de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado se contiene en el decreto con fuerza de ley N° 1-19.653, de 13 de diciembre de 2000, del Ministerio Secretaría General de la Presidencia, resolución Nº 1.600 de la Contraloría General de la República, de 30 de octubre de 2008, se dictó resolución que deja sin efecto derogación de facultades, revoca delegaciones de facultades que indica y delega atribuciones en el Jefe y funcionarios de la Unidad de Chañaral, según se expresa en la resolución cuyo extracto se publica.
+
+El texto íntegro de la resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl).-
+
+Claudio Rodríguez González, Director Regional.
