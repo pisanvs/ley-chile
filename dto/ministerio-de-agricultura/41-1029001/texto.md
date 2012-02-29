@@ -98,6 +98,10 @@ Actividad que se realiza en bosque nativo de preservación o en formaciones xero
 
 4. Déjense sin efecto los decretos Nº 88, de 2008 y Nº 41, de 2009, ambos del Ministerio de Agricultura.
 
+#### Artículo transitorio
+
+único: Sin perjuicio de lo señalado en el número 4 del decreto Nº41 de 28 de julio de 2011, del Ministerio da Agricultura, los concursos públicos y asignaciones directas, correspondientes a los años 2009 a 2011, serán bonificados conforme a las tablas de valores fijadas por los decretos Nº 88 de 23 de octubre de 2008 y Nº 41 de 8 de mayo de 2009, ambos del Ministerio de Agricultura, respectivamente.
+
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- José Antonio Galilea Vidaurre, Ministro de Agricultura.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atentamente a Ud., Álvaro Cruzat O., Subsecretario de Agricultura.
