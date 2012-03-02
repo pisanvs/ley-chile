@@ -64,6 +64,8 @@ n) Atención obstétrica;
 
 o) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j) y m), precedentes.
 
+p) El Servicio, en la medida que sus recursos lo permitan, podrá bonificar el copago de exámenes de salud preventivos no considerados en las instituciones de salud a las que perteneciera el afiliado. El porcentaje será fijado por el Consejo Administrativo.
+
 #### Artículo 3°
 
 El Servicio podrá, en la medida que sus recursos lo permitan, instalar una Clínica Médica y/o Dental, o administrar alguna dependencia Médica y/o Dental perteneciente a la Universidad Tecnológica Metropolitana, con el propósito de entregar a sus afiliados un mejor nivel de atención y servicios en materia de salud, quedándole excluida la facultad de contratar personal, la que corresponderá a la Universidad.
@@ -110,9 +112,15 @@ f) Catástrofe: Se otorgará al
 
 afiliado por daños sufridos en su patrimonio, con ocasión de incendios, robos, movimientos sísmicos, inundaciones u otro tipo de catástrofes naturales.
 
-Para solicitar esta ayuda, deberá comprobarse la necesidad mediante un certificado extendido por el Servicio Público correspondiente, o el informe de la Asistente Social del Servicio, y g) Desgravamen: Al fallecimiento de un
+Para solicitar esta ayuda, deberá comprobarse la necesidad mediante un certificado extendido por el Servicio Público correspondiente, o el informe de la Asistente Social del Servicio, y
 
-afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio, con excepción de préstamos habitacionales.
+g) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviere pendientes con el Servicio, con excepción de préstamos habitacionales.
+
+h) Incentivo al ahorro: El Servicio podrá abrir una libreta de ahorro en una institución financiera para sus afiliados, con un monto base que fijará su Consejo Administrativo, con el objeto que posteriormente los afiliados ahorren un monto mensual que libremente fijen y que será descontado por planilla de sueldos.
+
+i) Mérito académico: Podrá otorgar un incentivo al rendimiento académico de las cargas familiares de los afiliados que se encuentren en los niveles de enseñanza básica, media, técnica especializada y superior en establecimientos del Estado o reconocidos por éste. Dicho beneficio será fijado anualmente por el Consejo Administrativo, y su otorgamiento será regulado por un reglamento interno.
+
+j) Ayuda al duplo: Es una ayuda en dinero, no reembolsable, que beneficia a las cargas familiares reconocidas ante la Universidad y calificadas por la Comisión Médica, Preventiva e Invalidez (Compin), con invalidez absoluta. El monto lo fijará anualmente el Consejo Administrativo, de acuerdo a los recursos de que disponga.
 
 Los montos de los beneficios antes referidos, con excepción de la letra g), serán fijados a lo menos una vez al año por el Consejo Administrativo del Servicio.
 
@@ -179,6 +187,14 @@ funcionamiento de soluciones habitacionales colectivas;
 d) Orientación en la búsqueda y selección de Centros Hospitalarios, Casas de Reposo, Colegios, Jardines Infantiles, Centros Recreativos y Vacacionales, y
 
 e) Organizar y financiar total o parcialmente la celebración de festividades de Navidad para el afiliado, su cónyuge e hijos que sean cargas familiares.
+
+f) Siempre que sus recursos lo permitan, el Servicio podrá en ocasiones especiales tales como: cumpleaños, fiestas patrias, día del padre, día de la madre, día internacional de la mujer, día de la secretaria, aniversario de la Universidad, otorgar presentes a sus afiliados, siempre que se encuentren aprobados por el Consejo Administrativo.
+
+g) Asimismo, podrá adquirir y proporcionar a sus afiliados, vales de supermercados, multitiendas y otros beneficios equivalentes, los que serán descontados por planilla de sueldos.
+
+h) Podrá administrar centros de veraneo, colonias, casas de huéspedes, refugios u otros similares de propiedad de la Universidad para el uso de sus afiliados, quedando expresamente excluidas de dicha facultad la de contratar personal, la que corresponderá a la Institución.
+
+i) En caso de fallecimiento de algún afiliado, el Servicio podrá, siempre que sus recursos lo permitan, financiar el arriendo de buses para el traslado de los afiliados que deseen concurrir a los funerales.
 
 ## Título III
 
@@ -247,6 +263,8 @@ h) Con los demás bienes o recursos que el Servicio obtenga a cualquier título.
 #### Artículo 14°
 
 Los fondos del Servicio serán depositados en cuentas corrientes bancarias, y contra ellas sólo podrán girar, conjuntamente, el Jefe y el Contador del Servicio, o en su reemplazo, las personas habilitadas designadas por el Rector de la Institución.
+
+Eventualmente y previa aprobación del Consejo Administrativo, parte de los fondos del Servicio que se encuentren momentáneamente disponibles, podrán ser invertidos en instrumentos que otorguen rentabilidad. Lo anterior, con la finalidad de obtener mayores recursos que permitan incrementar los fondos para mayores beneficios.
 
 ## Título V
 
