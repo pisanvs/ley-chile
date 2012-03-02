@@ -124,7 +124,7 @@ I. Deróganse las resoluciones exentas Nº 6.034 de 02.12.98, Nº 7.218 de 14.12
 
 6. Deléganse en el Director Regional de la Aduana de Arica las siguientes facultades:
 
-6.1 Prorrogar plazo de almacenaje de mercancías en tránsito a Bolivia.
+6.1 Prorrogar el plazo de almacenaje de mercancías en tránsito, desde y hacia Bolivia.
 
 6.2 Autorizar la suscripción de declaración de tránsito de mercancías acogidas a Convenio Chile-Bolivia, contemplada en Convención de Tránsito de 1937.
 
