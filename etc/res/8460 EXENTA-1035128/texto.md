@@ -18,8 +18,6 @@ Resolución:
 
 2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 48.639 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda del Programa de Reconstrucción de Viviendas, de la Región del Biobío, para el año 2011.
 
-> **Nota.** El Numeral 1 de la Resolución 4988 Exenta, Vivienda, Publicada el 25.06.2012, modifica la presente norma en el sentido de complementar los recursos del proyecto "Mejor Vida I" de Los Ángeles, de la manera que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
