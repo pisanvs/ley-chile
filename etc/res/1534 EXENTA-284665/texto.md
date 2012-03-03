@@ -87,3 +87,45 @@ Lo que transcribo para su conocimiento.- Saluda atentamente a Ud., Cristián Nú
 APÉNDICE
 
 Este apéndice es parte integrante de la norma técnica que establece la numeración para servicios de emergencia y el procedimiento de asignación correspondiente.
+
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+
+1414 Municipalidad de
+
+Providencia La recepción de llamadas
+
+atendidas por personal
+
+de la Dirección de
+
+Protección Civil y
+
+Seguridad Vecinal de
+
+la Municipalidad de
+
+Providencia, Región
+
+Metropolitana, respecto
+
+de situaciones de
+
+emergencia que ocurran
+
+en dicha comuna.
+
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
+
+1407 Mutual de Seguridad La recepción de llamadas
+
+atendidas por personal de
+
+la Mutual de Seguridad,
+
+para el servicio de
+
+atención de urgencia
+
+de dicha entidad a nivel
+
+nacional.
