@@ -32,6 +32,10 @@ Resolución:
 
 4.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3º de esta resolución, las que deberán contener, a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva cédula nacional de identidad y el puntaje obtenido por el grupo o persona.
 
+> **Nota.** El Nº 2 de la Resolución 9920 Exenta, Vivienda, publicada el 07.01.2011, modifica la presente norma, en el sentido de reemplazar en la nómina de la comuna de Freirina, Región de Atacama, el monto de subsidio asignado al señor Víctor Alexis Villalobos Díaz, RUT N° 13.411.658-7, de 90 Unidades de Fomento por 100 Unidades de Fomento.
+
+> **Nota.** NOTA 1 El numeral 2 de la Resolución 1767 Exenta, Vivienda, publicada el 03.03.2012, modifica a presente norma de la manera siguiente:- En la letra a) dispone reemplazar en la nómina de seleccionados de la Región de Coquimbo, el monto de subsidio asignado a la señora Rosa Elvira Araya Barraza, de la comuna de Coquimbo, RUT N° 4.957.092-9, de 90 Unidades de Fomento por 225 Unidades de Fomento, y - En la letra b) ordena modificar los montos de Asistencia técnica de los proyectos de la Región de Arica y Parinacota correspondientes a los grupos Putire Marka, código 62506, compuesto por 91 familias, Unión y Progreso, código 60523, compuesto por 120 familias y Hogar Dulce Hogar, código 70111, compuesto por 89 familias, en el sentido de disminuir 80 UF.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
