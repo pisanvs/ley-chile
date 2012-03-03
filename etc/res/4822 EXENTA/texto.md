@@ -50,19 +50,23 @@ El subsidio se asignará a las familias que cumplan con todos los requisitos que
 
 i. Ser propietario o su cónyuge del terreno donde
 
-construirá la vivienda objeto de este programa y no
+construirá la vivienda objeto de este programa y
 
-poseer, ni él ni su cónyuge, una segunda vivienda.
+no poseer, ni él ni su cónyuge, una segunda
 
-ii. Obligarse a utilizar los materiales adquiridos con
+vivienda.
 
-el subsidio en la construcción de su vivienda.
+ii. Obligarse a utilizar los materiales adquiridos
 
-iii. Comprometerse a ejecutar las obras siguiendo las
+con el subsidio en la construcción de su
 
-indicaciones técnicas que dé la EGIS o PSAT y
+vivienda.
 
-conforme al proyecto correspondiente.
+iii. Comprometerse a ejecutar las obras siguiendo
+
+las indicaciones técnicas que dé la EGIS o PSAT
+
+y conforme al proyecto correspondiente.
 
 iv. DEROGADO.
 
@@ -144,27 +148,29 @@ c) Concluida la primera fase de ejecución de las obras, y habiendo utilizado lo
 
 22. Una vez terminadas las obras y para acreditar su finalización, se exigirán como respaldo los siguientes documentos:
 
-a) Informe final de la EGIS o PSAT que certifique que
+a) Informe final de la EGIS o PSAT que certifique
 
-se utilizaron los materiales adquiridos en la obra,
+que se utilizaron los materiales adquiridos en
 
-que éstas se desarrollaron de acuerdo al apoyo
+la obra, que éstas se desarrollaron de acuerdo
 
-técnico que él proporcionó conforme al proyecto
+al apoyo técnico que él proporcionó conforme
 
-aprobado.
+al proyecto aprobado.
 
-b) Libro de Obras con las indicaciones de la EGIS o
+b) Libro de Obras con las indicaciones de la
 
-PSAT.
+EGIS o PSAT.
 
-c) Documento suscrito por el beneficiario que indique
+c) Documento suscrito por el beneficiario que
 
-su conformidad con el trabajo realizado por la EGIS
+indique su conformidad con el trabajo realizado
 
-o PSAT, según documento tipo proporcionado por el
+por la EGIS o PSAT, según documento tipo
 
-SERVIU para estos efectos.
+proporcionado por el SERVIU para estos
+
+efectos.
 
 El SERVIU, una vez recibidos los antecedentes señalados, deberá efectuar una visita a la vivienda para recibir las obras.
 
