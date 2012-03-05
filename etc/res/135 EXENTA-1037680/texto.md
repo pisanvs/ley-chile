@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº135 EXENTA, DE 2012
+
+Por resolución exenta Nº 135, de fecha 1 de febrero de 2012, de esta Secretaría Regional Ministerial, se autoriza el funcionamiento del terminal de Buses No Urbano, ubicado en Santa Cruz Nº 659, en la comuna de Traiguén, de propiedad de Inmobiliaria Alba Ltda., RUT 79.930.690-5, cuyo representante legal es el Sr. Nelson Albornoz Ruedingler, RUT 4.633.903-7. El Director de Tránsito y Transporte Público de la Ilustre Municipalidad de Traiguén, deberá dar cumplimiento a lo establecido en la Ordenanza Local Nº 9 de fecha 8 de abril de 1986 y sus modificaciones, dictada por la Municipalidad de Traiguén.
+
+Temuco, 1 de febrero de 2012.- Luis R. Calderón Ramírez, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región de la Araucanía.
