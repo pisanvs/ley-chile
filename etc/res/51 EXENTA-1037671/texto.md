@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A COMERCIAL CAMMAR LIMITADA
+
+La XIV Dirección Regional Metropolitana Santiago Poniente del SII, por resolución Ex. Nº 51 de 8/02/2012, otorga, a contar del 1º del mes siguiente al de esta publicación en el Diario Oficial a Comercial Cammar Limitada, RUT Nº 78.329.040-5, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas Chatarra, establecido en la Res. Ex. Nº 7, del 28 de enero de 2003, de la Dirección Nacional del Servicio de Impuestos Internos.
