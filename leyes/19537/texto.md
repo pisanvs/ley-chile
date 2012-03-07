@@ -30,7 +30,7 @@ Tipo A, las construcciones, divididas en unidades, emplazadas en un terreno de d
 
 3.- Bienes de dominio común:
 
-a) Los que pertenezcan a todos los copropietarios por ser necesarios para la existencia, seguridad y conservación del condominio, tales como terrenos de dominio común, cimientos, fachadas, muros exteriores y soportantes, estructura, techumbres, instalaciones generales y ductos de calefacción, de aire acondicionado, de energía eléctrica, de alcantarillado, de gas, de agua potable y de sistemas de comunicaciones, recintos de calderas y estanques;
+a) Los que pertenezcan a todos los copropietarios por ser necesarios para la existencia, seguridad y conservación del condominio, tales como terrenos de dominio común, cimientos, fachadas, muros exteriores y soportantes, estructura, techumbres, ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, así como todo tipo de instalaciones generales y ductos de calefacción, de aire acondicionado, de energía eléctrica, de alcantarillado, de gas, de agua potable y de sistemas de comunicaciones, recintos de calderas y estanques;
 
 b) Aquellos que permitan a todos y a cada uno de los copropietarios el uso y goce de las unidades de su dominio exclusivo, tales como terrenos de dominio común diferentes a los indicados en la letra a) precedente, circulaciones horizontales y verticales, terrazas comunes y aquellas que en todo o parte sirvan de techo a la unidad del piso inferior, dependencias de servicio comunes, oficinas o dependencias destinadas al funcionamiento de la administración y a la habitación del personal;
 
@@ -98,13 +98,13 @@ En los juicios de cobro de gastos comunes, la notificación del requerimiento de
 
 #### Artículo 7º
 
-En la administración de todo condominio deberá considerarse la formación de un fondo común de reserva para atender a reparaciones de los bienes de dominio común o a gastos comunes urgentes o imprevistos. Este fondo se formará e incrementará con el porcentaje de recargo sobre los gastos comunes que, en sesión extraordinaria, fije la asamblea de copropietarios; con el producto de las multas e intereses que deban pagar, en su caso, los copropietarios, y con los aportes por concepto de uso y goce exclusivos sobre bienes de dominio común a que alude el inciso segundo del artículo 13.
+En la administración de todo condominio deberá considerarse la formación de un fondo común de reserva para atender a reparaciones de los bienes de dominio común, a la certificación periódica de las instalaciones de gas, certificación de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas y sus instalaciones o a gastos comunes urgentes o imprevistos. Este fondo se formará e incrementará con el porcentaje de recargo sobre los gastos comunes que, en sesión extraordinaria, fije la asamblea de copropietarios; con el producto de las multas e intereses que deban pagar, en su caso, los copropietarios, y con los aportes por concepto de uso y goce exclusivos sobre bienes de dominio común a que alude el inciso segundo del artículo 13.
 
 Los recursos de este fondo se mantendrán en depósito en una cuenta corriente bancaria o en una cuenta de ahorro o se invertirán en instrumentos financieros que operen en el mercado de capitales, previo acuerdo del Comité de Administración. Esta cuenta podrá ser la misma a que se refiere el inciso tercero del artículo 23.
 
 #### Artículo 8º
 
-En todo condominio deberá contemplarse la cantidad mínima obligatoria de estacionamientos que señale el plan regulador. Los estacionamientos que correspondan a la cuota mínima obligatoria antes mencionada deberán singularizarse en el plano a que se refiere el artículo 11 y, en caso de enajenación, ésta sólo podrá hacerse en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación. En caso de contemplarse estacionamientos de visitas, éstos tendrán el carácter de bienes comunes del condominio.
+En todo condominio deberá contemplarse la cantidad mínima obligatoria de estacionamientos que señale el plan regulador. No obstante, los condominios de viviendas sociales a que se refiere el Título IV de esta ley deberán contar, a lo menos, con un estacionamiento por cada dos unidades destinadas a viviendas. Los estacionamientos que correspondan a la cuota mínima obligatoria antes mencionada deberán singularizarse en el plano a que se refiere el artículo 11 y, en caso de enajenación, ésta sólo podrá hacerse en favor de personas que adquieran o hayan adquirido una o más unidades en el condominio. Los estacionamientos que excedan la cuota mínima obligatoria serán de libre enajenación. En caso de contemplarse estacionamientos de visitas, éstos tendrán el carácter de bienes comunes del condominio.
 
 Los terrenos en que se emplacen los condominios no podrán tener una superficie predial inferior a la establecida en el instrumento de planificación territorial o a la exigida por las normas aplicables al área de emplazamiento del predio. Los tamaños prediales de los sitios que pertenezcan en dominio exclusivo a cada copropietario podrán ser inferiores a los mínimos exigidos por los instrumentos de planificación territorial, siempre que la superficie total de todos ellos, sumada a la superficie de terreno en dominio común, sea igual o mayor a la que resulte de multiplicar el número de todas las unidades de dominio exclusivo por el tamaño mínimo exigido por el instrumento de planificación territorial. Para los efectos de este cómputo, se excluirán las áreas que deban cederse conforme al artículo 9º.
 
@@ -116,7 +116,7 @@ Los terrenos de dominio común y los sitios de dominio exclusivo de cada copropi
 
 Todo condominio deberá cumplir con lo previsto en los artículos 66, 67, 70, 134, 135 y en el artículo 136, con excepción de su inciso cuarto, del decreto con fuerza de ley Nº 458, de 1975, Ley General de Urbanismo y Construcciones. Las calles, avenidas, plazas y espacios públicos que se incorporarán al dominio nacional de uso público conforme al artículo 135, antes citado, serán sólo aquellos que estuvieren considerados en el respectivo plan regulador. Tratándose de los condominios a que se refiere el Título IV de esta ley, se aplicará lo dispuesto en la Ordenanza General de Urbanismo y Construcciones para las viviendas sociales.
 
-Cuando las superficies que deban cederse para áreas verdes resulten inferiores a 500 metros cuadrados, podrán ubicarse en otros terrenos dentro de la misma comuna, o compensarse su valor en dinero, con una suma equivalente a la parte proporcional de esa superficie en el valor comercial del terreno, en cualquiera de ambos casos previo acuerdo con la municipalidad respectiva, la que sólo podrá invertir estos recursos en la ejecución de nuevas áreas verdes. Lo anterior se aplicará igualmente a las superficies que deban cederse para equipamiento, cualquiera que sea el tamaño resultante y, en caso de acordarse su compensación en dinero, la municipalidad sólo podrá invertir estos recursos en la ejecución de nuevas obras de equipamiento.
+Cuando las superficies que deban cederse para áreas verdes resulten inferiores a 500 metros cuadrados, podrán ubicarse en otros terrenos dentro de la misma comuna, o compensarse su valor en dinero, con una suma equivalente a la parte proporcional de esa superficie en el valor comercial del terreno, en cualquiera de ambos casos previo acuerdo con la municipalidad respectiva, la que sólo podrá invertir estos recursos en la ejecución de nuevas áreas verdes. Lo anterior se aplicará igualmente a las superficies que deban cederse para equipamiento, cualquiera que sea el tamaño resultante y, en caso de acordarse su compensación en dinero, la municipalidad sólo podrá invertir estos recursos en la ejecución de nuevas obras de equipamiento. Lo dispuesto en este inciso no será aplicable tratándose de los condominios de viviendas sociales a que se refiere el Título IV de esta ley.
 
 El terreno en que estuviere emplazado un condominio deberá tener acceso directo a un espacio de uso público o a través de servidumbres de tránsito. La franja afecta a servidumbre deberá tener, a lo menos, el ancho mínimo exigido por la Ordenanza General de Urbanismo y Construcciones para los trazados viales urbanos, según la función que se le asigne en el proyecto o la que le haya asignado el instrumento de planificación territorial. Los sitios que pertenezcan en dominio exclusivo a cada copropietario deberán tener acceso directo a un espacio de uso público o a través de espacios de dominio común destinados a la circulación. El administrador será personalmente responsable de velar por la seguridad y expedición de estas vías de acceso. Se prohíbe la construcción o colocación de cualquier tipo de objetos que dificulten el paso de personas o vehículos de emergencia por dichas vías.
 
@@ -188,6 +188,16 @@ A los actos y contratos a que se refiere el inciso anterior, comparecerá el adm
 
 Si la enajenación implica la alteración en el número de unidades de un condominio, deberá modificarse el reglamento de copropiedad dejando constancia de los nuevos porcentajes de los derechos de los copropietarios sobre los bienes comunes.
 
+#### Artículo 14 bis
+
+Las construcciones o transformaciones de arquitectura que afecten el volumen de aire disponible en los espacios utilizables por las personas o en superficies destinadas a la ventilación, como asimismo, las obras que alteren las instalaciones de gas y los conductos colectivos de evacuación de gases, sean en bienes de dominio común o en las unidades de los condominios, deberán ser ejecutadas por una persona o entidad autorizada por la Superintendencia de Electricidad y Combustibles, con el acuerdo de la asamblea de copropietarios y el permiso de la Dirección de Obras Municipales, cuando corresponda.
+
+El propietario, arrendatario u ocupante a cualquier título de una unidad sólo podrá efectuar dentro de ésta instalaciones de artefactos a gas, de ventilaciones, de inyectores o extractores que modifiquen el movimiento y circulación de masas de aire, a través de la persona o entidad autorizada por la Superintendencia de Electricidad y Combustibles y previa comunicación al administrador o a quien haga sus veces.
+
+Si el propietario, arrendatario u ocupante a cualquier título de una unidad no cumpliere con lo prevenido en este artículo será sancionado conforme a lo dispuesto en el artículo 32.
+
+Asimismo, las alteraciones o transformaciones que afecten a las instalaciones de ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas, sean en bienes de dominio común o en las unidades de los condominios, deberán ser ejecutadas por empresas o personas que cuenten con una inscripción vigente en el registro de instaladores, mantenedores y certificadores del Ministerio de Vivienda y Urbanismo y contar con el acuerdo de la asamblea de copropietarios y el permiso de la Dirección de Obras Municipales, cuando corresponda.
+
 #### Artículo 15
 
 Para cambiar el destino de una unidad, se requerirá que el nuevo uso esté permitido por el instrumento de planificación territorial y que el copropietario obtenga, además del permiso de la Dirección de Obras Municipales, el acuerdo previo de la asamblea.
@@ -238,11 +248,13 @@ Las siguientes materias sólo podrán tratarse en sesiones extraordinarias de la
 
 10. Administración conjunta de dos o más condominios de conformidad al artículo 26 y establecer subadministraciones en un mismo condominio.
 
+11. Programas de autofinanciamiento de los condominios y asociaciones con terceros para estos efectos.
+
 Todas las materias que de acuerdo al inciso precedente deban tratarse en sesiones extraordinarias, con excepción de las señaladas en el número 1 cuando alteren los derechos en el condominio y en los números 2, 3, 4, 5 y 6, podrán también ser objeto de consulta por escrito a los copropietarios, firmada por el Presidente del Comité de Administración y por el administrador del condominio, la que se notificará a cada uno de los copropietarios en igual forma que la citación a Asamblea a que se refiere el inciso primero del artículo 18. La consulta deberá ser acompañada de los antecedentes que faciliten su comprensión, junto con el proyecto de acuerdo correspondiente, para su aceptación o rechazo por los copropietarios. La consulta se entenderá aprobada cuando obtenga la aceptación por escrito y firmada de los copropietarios que representen a lo menos el 75% de los derechos en el condominio. El acuerdo correspondiente deberá reducirse a escritura pública suscrita por el Presidente del Comité de Administración y por el administrador del condominio, debiendo protocolizarse los antecedentes que respalden el acuerdo, dejándose constancia de dicha protocolización en la respectiva escritura. En caso de rechazo de la consulta ella no podrá renovarse antes de 6 meses.
 
 #### Artículo 18
 
-El Comité de Administración, a través de su presidente, o si éste no lo hiciere, el administrador, deberá citar a asamblea a todos los copropietarios o apoderados, personalmente o mediante carta certificada dirigida al domicilio registrado para estos efectos en la oficina de la administración, con una anticipación mínima de cinco días y que no exceda de quince. Si no lo hubieren registrado, se entenderá para todos los efectos que tienen su domicilio en la respectiva unidad del condominio. El administrador deberá mantener en el condominio una nómina actualizada de los copropietarios, con sus respectivos domicilios registrados.
+El Comité de Administración, a través de su presidente, o si éste no lo hiciere, el administrador, deberá citar a asamblea a todos los copropietarios o apoderados, personalmente o mediante carta certificada dirigida al domicilio registrado para estos efectos en la oficina de la administración, o en la Secretaría Municipal cuando se tratare de condominios de viviendas sociales, con una anticipación mínima de cinco días y que no exceda de quince. Si no lo hubieren registrado, se entenderá para todos los efectos que tienen su domicilio en la respectiva unidad del condominio. El administrador deberá mantener en el condominio una nómina actualizada de los copropietarios, con sus respectivos domicilios registrados.
 
 Las sesiones de la asamblea deberán celebrarse en el condominio, salvo que la asamblea o el Comité de Administración acuerden otro lugar, el que deberá estar situado en la misma comuna, y deberán ser presididas por el presidente del Comité de Administración o por el copropietario asistente que elija la Asamblea.
 
@@ -278,7 +290,7 @@ A las sesiones de la asamblea en las que se adopten acuerdos que incidan en las 
 
 #### Artículo 21
 
-La asamblea de copropietarios en su primera sesión deberá designar un Comité de Administración compuesto, a lo menos, por tres personas, que tendrá la representación de la asamblea con todas sus facultades, excepto aquellas que deben ser materia de asamblea extraordinaria. El Comité de Administración durará en sus funciones el período que le fije la asamblea, el que no podrá exceder de tres años, sin perjuicio de poder ser reelegido indefinidamente, y será presidido por el miembro que designe la asamblea, o en subsidio, el propio Comité. Sólo podr�n ser designados miembros del Comité de Administración: a) las personas naturales que sean propietarias en el condominio o sus cónyuges; y, b) los representantes de las personas jurídicas que sean propietarias en el condominio. El Comité de Administración podrá también dictar normas que faciliten el buen orden y administración del condominio, como asimismo imponer las multas que estuvieren contempladas en el reglamento de copropiedad, a quienes infrinjan las obligaciones de esta ley y del reglamento de copropiedad. Las normas y acuerdos del Comité mantendrán su vigencia mientras no sean revocadas o modificadas por la asamblea de copropietarios. Para la validez de las reuniones del Comité de Administración, será necesaria una asistencia de la mayoría de sus miembros y los acuerdos serán adoptados por la mitad m�s uno de los asistentes.
+La asamblea de copropietarios en su primera sesión deberá designar un Comité de Administración compuesto, a lo menos, por tres personas, salvo que el número de copropietarios fuere inferior, que tendrá la representación de la asamblea con todas sus facultades, excepto aquellas que deben ser materia de asamblea extraordinaria. El Comité de Administración durará en sus funciones el período que le fije la asamblea, el que no podrá exceder de tres años, sin perjuicio de poder ser reelegido indefinidamente, y será presidido por el miembro que designe la asamblea, o en subsidio, el propio Comité. Sólo podrán ser designados miembros del Comité de Administración: a) las personas naturales que sean propietarias en el condominio o sus cónyuges; y, b) los representantes de las personas jurídicas que sean propietarias en el condominio. El Comité de Administración podrá también dictar normas que faciliten el buen orden y administración del condominio, como asimismo imponer las multas que estuvieren contempladas en el reglamento de copropiedad, a quienes infrinjan las obligaciones de esta ley y del reglamento de copropiedad. Las normas y acuerdos del Comité mantendrán su vigencia mientras no sean revocadas o modificadas por la asamblea de copropietarios. Para la validez de las reuniones del Comité de Administración, será necesaria una asistencia de la mayoría de sus miembros y los acuerdos serán adoptados por la mitad más uno de los asistentes.
 
 #### Artículo 22
 
@@ -288,7 +300,11 @@ El administrador, si lo hubiere, no podrá integrar el Comité de Administració
 
 #### Artículo 23
 
-Serán funciones del administrador las que se establezcan en el reglamento de copropiedad y las que específicamente le conceda la asamblea de copropietarios, tales como cuidar los bienes de dominio común; ejecutar los actos de administración y conservación y los de carácter urgente sin recabar previamente acuerdo de la asamblea, sin perjuicio de su posterior ratificación; cobrar y recaudar los gastos comunes; velar por la observancia de las disposiciones legales y reglamentarias sobre copropiedad inmobiliaria y las del reglamento de copropiedad; representar en juicio, activa y pasivamente, a los copropietarios, con las facultades del inciso primero del artículo 7º del Código de Procedimiento Civil, en las causas concernientes a la administración y conservación del condominio, sea que se promuevan con cualquiera de ellos o con terceros; citar a reunión de la asamblea; pedir al tribunal competente que aplique los apremios o sanciones que procedan al copropietario u ocupante que infrinja las limitaciones o restricciones que en el uso de su unidad le imponen esta ley, su reglamento y el reglamento de copropiedad.
+Serán funciones del administrador las que se establezcan en el reglamento de copropiedad y las que específicamente le conceda la asamblea de copropietarios, tales como cuidar los bienes de dominio común; efectuar los actos necesarios para realizar la certificación de las instalaciones de gas y el mantenimiento y certificación de los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas y sus instalaciones; ejecutar los actos de administración y conservación y los de carácter urgente sin recabar previamente acuerdo de la asamblea, sin perjuicio de su posterior ratificación; cobrar y recaudar los gastos comunes; velar por la observancia de las disposiciones legales y reglamentarias sobre copropiedad inmobiliaria y las del reglamento de copropiedad; representar en juicio, activa y pasivamente, a los copropietarios, con las facultades del inciso primero del artículo 7º del Código de Procedimiento Civil, en las causas concernientes a la administración y conservación del condominio, sea que se promuevan con cualquiera de ellos o con terceros; citar a reunión de la asamblea; pedir al tribunal competente que aplique los apremios o sanciones que procedan al copropietario u ocupante que infrinja las limitaciones o restricciones que en el uso de su unidad le imponen esta ley, su reglamento y el reglamento de copropiedad.
+
+El administrador o quien haga sus veces está facultado para requerir a la Superintendencia de Electricidad y Combustibles con objeto de que dicho organismo fiscalice el cumplimiento de la normativa vigente en materia de gas. El administrador podrá encomendar a cualquier persona o entidad autorizada la certificación de las instalaciones de gas de la comunidad, para lo cual deberá notificar por escrito el valor del servicio al Comité de Administración, el que tendrá un plazo de diez días hábiles contados desde la notificación para aceptar lo propuesto o presentar una alternativa distinta. Si, transcurrido este plazo, no se pronunciare, el administrador procederá a contratar la certificación conforme a la propuesta notificada al Comité de Administración. Asimismo, el administrador podrá disponer, previo aviso a dicho Comité, cualquier revisión relativa al gas en los bienes de dominio común o en las unidades que forman parte del condominio, cuando sea dispuesta por la autoridad competente.
+
+El administrador o quien haga sus veces está facultado para contratar la mantención y la certificación de los ascensores, tanto verticales como inclinados o funiculares, montacargas y escaleras o rampas mecánicas y sus instalaciones, para lo cual deberá notificar al Comité de Administración conforme al procedimiento establecido en el inciso precedente.
 
 A falta de disposiciones sobre la materia en el reglamento de copropiedad y en el silencio de la asamblea, serán funciones del administrador las señaladas en esta ley y su reglamento.
 
@@ -344,7 +360,7 @@ j) Fijar la periodicidad de las asambleas ordinarias y la época en que se celeb
 
 #### Artículo 29
 
-El primer reglamento de copropiedad será dictado por la persona natural o jurídica propietaria del condominio y en él no podrán fijarse mayorías superiores a las establecidas en el artículo 19. Este instrumento deberá ser reducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces respectivo como exigencia previa para obtener el certificado a que alude el inciso segundo del artículo 10.
+El primer reglamento de copropiedad será dictado por la persona natural o jurídica propietaria del condominio, teniendo en consideración las características propias del condominio. Deberá contener las menciones específicas para los diferentes aspectos a que se refiere el artículo 28 y en él no podrán fijarse mayorías superiores a las establecidas en el artículo 19. Este instrumento deberá ser reducido a escritura pública e inscrito en el Registro de Hipotecas y Gravámenes del Conservador de Bienes Raíces respectivo como exigencia previa para obtener el certificado a que alude el inciso segundo del artículo 10.
 
 #### Artículo 30
 
@@ -378,7 +394,11 @@ b) Citar a asamblea de copropietarios, si el administrador o el presidente del C
 
 c) Exigir al administrador que someta a la aprobación de la asamblea de copropietarios rendiciones de cuentas, fijándole plazo para ello y, en caso de infracción, aplicarle la multa a que alude la letra anterior.
 
-d) En general, adoptar todas las medidas necesarias para la solución de los conflictos que afecten a los copropietarios derivados de su condición de tales.
+d) Citar a asamblea de copropietarios a fin de que se proceda a elegir el Comité de Administración en los casos en que no lo hubiere. La citación a asamblea se notificará mediante carta certificada, conforme a una nómina que deberá ser puesta a disposición del tribunal por los copropietarios que representen, a lo menos, el cinco por ciento de los derechos en el condominio.
+
+No obstante, tratándose de condominios de viviendas sociales, el juez podrá disponer que un funcionario del tribunal o de la municipalidad respectiva notifique la citación a asamblea mediante la entrega de esta última a cualquier persona adulta que se encontrare en el domicilio del copropietario o a través de su fijación en la puerta de ese lugar, conforme a una nómina de copropietarios que deberá ser proporcionada por quien solicitó la citación. Para este efecto, el juez podrá solicitar al Conservador de Bienes Raíces competente que complemente dicha nómina respecto de aquellas unidades cuyos dueños no estuvieren identificados, de acuerdo con las inscripciones de dominio vigentes. Asimismo, podrá disponer que un funcionario del tribunal o de la municipalidad respectiva se desempeñe como ministro de fe.
+
+e) En general, adoptar todas las medidas necesarias para la solución de los conflictos que afecten a los copropietarios derivados de su condición de tales.
 
 Las resoluciones que se dicten en las gestiones a que alude el inciso anterior serán apelables, aplicándose a dicho recurso las normas contempladas en el Título III de la ley Nº 18.287.
 
@@ -410,6 +430,8 @@ Todo condominio deberá tener un plan de emergencia ante siniestros, como incend
 
 El plan de emergencia, junto con los planos del condominio detallados según necesidad, será actualizado anualmente por el Comité de Administración respectivo y copia del mismo, junto con los planos, serán entregados a la unidad de carabineros y de bomberos más cercana, las que podrán hacer llegar al Comité de Administración las observaciones que estimaren pertinentes.
 
+Los copropietarios, arrendatarios u ocupantes de las unidades que componen el condominio están obligados a facilitar la expedición de revisiones o certificaciones en el interior de sus unidades, cuando hayan sido dispuestas conforme a la normativa vigente. Si no otorgaren las facilidades para efectuarlas, habiendo sido notificados por escrito por el administrador en la dirección que cada uno registre en la administración, serán sancionados conforme a lo dispuesto en el artículo 32.
+
 Si se viere comprometida la seguridad o conservación de un condominio sea respecto de sus bienes comunes o de sus unidades, por efecto de filtraciones, inundaciones, emanaciones de gas u otros desperfectos, para cuya reparación fuere necesario ingresar a una unidad, no encontrándose el propietario, arrendatario, u ocupante que facilite o permita el acceso, el administrador del condominio podrá ingresar forzadamente a ella, debiendo hacerlo acompañado de un miembro del Comité de Administración, quien levantará acta detallada de la diligencia, incorporando la misma al libro de actas del Comité de Administración y dejando copia de ella en el interior de la unidad. Los gastos que se origen serán de cargo del o los responsables del desperfecto producido.
 
 #### Artículo 37
@@ -430,7 +452,9 @@ De los condominios de viviendas sociales
 
 #### Artículo 39
 
-Los condominios de viviendas sociales se regirán por las disposiciones especiales contenidas en este Título y, en lo no previsto por éstas y siempre que no se contrapongan con lo establecido en ellas, se sujetarán a las normas de carácter general contenidas en los restantes Títulos de esta ley.
+Los condominios de viviendas sociales no podrán contar con más de 150 unidades de viviendas, se regirán por las disposiciones especiales contenidas en este Título y, en lo no previsto por éstas y siempre que no se contrapongan con lo establecido en ellas, se sujetarán a las normas de carácter general contenidas en los restantes Títulos de esta ley.
+
+Se considerarán condominios de viviendas sociales aquellos conjuntos que estén constituidos mayoritariamente por viviendas sociales.
 
 #### Artículo 40
 
@@ -452,17 +476,25 @@ a) En los bienes de dominio común, con el fin de mejorar la calidad de vida de 
 
 b) En gastos que demande la formalización del reglamento de copropiedad a que alude el artículo 43 y los que se originen de la protocolización a que se refiere el artículo 44;
 
-c) En pago de primas de seguros de incendio y adicionales para cubrir riesgos catastróficos de la naturaleza, tales como terremotos, inundaciones, incendios a causa de terremotos u otros del mismo tipo, y
+c) En pago de primas de seguros de incendio y adicionales para cubrir riesgos catastróficos de la naturaleza, tales como terremotos, inundaciones, incendios a causa de terremotos u otros del mismo tipo;
 
-d) En instalaciones de las redes de servicios básicos que no sean bienes comunes.
+d) En instalaciones de las redes de servicios básicos que no sean bienes comunes;
+
+e) En programas de mantenimiento, mejoramiento y ampliación de las unidades del condominio;
+
+f) En apoyo de los programas de autofinanciamiento de los condominios a que se refiere el número 11 del artículo 17, y
+
+g) En programas de capacitación para los miembros del Comité de Administración y Administradores, relativos a materias propias del ejercicio de tales cargos.
+
+Asimismo, los condominios de viviendas sociales podrán postular a los programas financiados con recursos fiscales en las mismas condiciones que las juntas de vecinos, organizaciones comunitarias, organizaciones deportivas y otras entidades de similar naturaleza.
 
 #### Artículo 42
 
-Los Servicios de Vivienda y Urbanización respectivos podrán designar, por una sola vez, en los condominios de viviendas sociales que carezcan de administrador, una persona que actuará provisionalmente como administrador, con las mismas facultades y obligaciones que aquél.
+Los Gobiernos Regionales, las Municipalidades y los Servicios de Vivienda y Urbanización respectivos podrán designar, por una sola vez, en los condominios de viviendas sociales que carezcan de administrador, una persona que actuará provisionalmente como administrador, con las mismas facultades y obligaciones que aquél.
 
-La persona designada deberá ser mayor de edad, capaz de contratar y de disponer libremente de sus bienes y se desempeñará temporalmente mientras se designa el administrador definitivo, no pudiendo exceder el plazo de su desempeño de seis meses, contados desde su designación.
+La persona designada deberá ser mayor de edad, capaz de contratar y de disponer libremente de sus bienes y se desempeñará temporalmente mientras se designa el administrador definitivo.
 
-La asamblea de copropietarios, por acuerdo adoptado en sesión ordinaria, podrá solicitar del Servicio de Vivienda y Urbanización que hubiere designado al administrador provisional la sustitución de éste, por causa justificada.
+La asamblea de copropietarios, por acuerdo adoptado en sesión ordinaria, podrá solicitar del Gobierno Regional, de la Municipalidad o del Servicio de Vivienda y Urbanización que hubiere designado al administrador provisional la sustitución de éste, por causa justificada.
 
 #### Artículo 43
 
@@ -479,6 +511,34 @@ Las empresas que proporcionen servicios de energía eléctrica, agua potable, al
 #### Artículo 46
 
 Tratándose de condominios de viviendas sociales integrados por más de un bloque independiente, cada bloque podrá establecer subadministraciones, en la forma dispuesta en el artículo 25, cualquiera que sea el número de unidades que lo integren.
+
+#### Artículo 46 Bis
+
+Las actuaciones que deban efectuar los condominios de viviendas sociales en cumplimiento de esta ley estarán exentas del pago de los derechos arancelarios que correspondan a los notarios, conservadores de bienes raíces y archiveros. Para tales efectos, la calidad de condominio de viviendas sociales se acreditará mediante certificado emitido por la dirección de obras municipales correspondiente. Asimismo, la exigencia de que un notario intervenga en dichas actuaciones se entenderá cumplida si participa en ellas, como ministro de fe, el secretario municipal respectivo o el oficial de registro civil competente.
+
+#### Artículo 46 Ter
+
+En los condominios a que se refiere este Título, la municipalidad correspondiente estará obligada a actuar como instancia de mediación extrajudicial, conforme a lo establecido en el artículo 35, y a proporcionar su asesoría para la organización de los copropietarios. Para estos efectos, la municipalidad podrá celebrar convenios con instituciones públicas o privadas.
+
+#### Artículo 46 quáter
+
+Facúltase a las municipalidades para subdividir los condominios de viviendas sociales, conforme a lo dispuesto en el artículo 39.
+
+Para tales efectos, los copropietarios podrán solicitar a la Dirección de Obras Municipales la división del condominio.
+
+Esta solicitud puede contener una propuesta de división del condominio, que consta de un plano suscrito por un profesional competente, y que esté aprobado por los copropietarios que representen, a lo menos, el 75% de los derechos en el condominio.
+
+El 10% de los copropietarios, alternativamente, pueden solicitar a la Dirección de Obras Municipales que elabore una propuesta de división. Esta propuesta, con su correspondiente plano, debe ser aprobada por el 75% de los derechos del condominio.
+
+La municipalidad, por propia iniciativa, podrá proponerle a los condominios de vivienda social un plano de división que facilite una mejor administración. Esta propuesta será elaborada por la Dirección de Obras Municipales, y requerirá de la aprobación del 75% de los derechos del condominio.
+
+Para acreditar la mayoría establecida en este artículo, bastará el acta de la asamblea suscrita por los copropietarios que reúnan el citado quórum legal o, en su defecto, el instrumento en que conste la aprobación de la propuesta de subdivisión firmada por los respectivos copropietarios, protocolizada ante notario.
+
+El Director de Obras Municipales, después de aprobadas las modificaciones por los copropietarios dictará, si procediere, una resolución que disponga la subdivisión del condominio, la cual deberá inscribirse en el conservador de bienes raíces conjuntamente con el plano respectivo. Los cambios producidos como consecuencia de la división de los bienes del condominio regirán desde la fecha de la referida inscripción.
+
+Las normas de la Ley General de Urbanismo y Construcciones, de la Ordenanza General de Urbanismo y Construcciones y de los respectivos instrumentos de planificación territorial, no serán aplicables a las edificaciones y a la división del suelo que se originen con motivo de la subdivisión de los condominios que se efectúe en virtud de lo dispuesto en los incisos anteriores.
+
+Los condominios de viviendas sociales estarán exentos del pago de los derechos municipales que pudieren devengarse respecto de las actuaciones a que se refiere este artículo. Asimismo, los interesados gozarán de privilegio de pobreza en el pago de los derechos arancelarios que correspondan a notarios, conservadores y archiveros, con motivo de tales actuaciones.
 
 T I T U L O V
 
