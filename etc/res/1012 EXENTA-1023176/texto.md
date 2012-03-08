@@ -22,14 +22,6 @@ El número de proyectos seleccionados en cada una de las regiones antes señalad
 
 4. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** El Nº 1 de la Resolución 7690 Exenta, Vivienda, publicada el 28.11.2011, modifica el resuelvo Nº 1, debiendo ser el Nº 3 de la presente norma, en el sentido de reemplazar en la tabla inserta en el mismo, las filas correspondientes "Región de la Araucanía" y "Total País" por las que la citada Resolución indica.
-
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 9065 Exenta, Vivienda, publicada el 23.12.2011, modifica el resuelvo N° 1, debiendo ser el N° 3 de la presente norma, en el sentido de reemplazar en la tabla inserta en el mismo, las filas correspondientes a "Región de La Araucanía" y "TOTAL PAIS" por las que la citada Resolución indica.
-
-> **Nota.** NOTA 2 El numeral 1 de la Resolución 9844 Exenta, Vivienda, publicada el 05.01.2012, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el Resuelvo 3, las filas correspondientes a "Región de Los Ríos" y "Total País", por las que la citada Resolución indica.
-
-> **Nota.** NOTA 3 El Nº 1 de la Resolución 9859 Exenta, Vivienda, publicada el 07.01.2012, modifica la presente norma, en el sentido de reemplazar en la tabla inserta en el Resuelvo 3, las filas correspondientes a "Región de Los Lagos" y "Total País" por las que la citada Resolución indica.
-
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.

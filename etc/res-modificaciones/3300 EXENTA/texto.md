@@ -32,8 +32,6 @@ Resolución:
 
 > **Nota.** NOTA 5 El numeral 4 letra b) de la Resolución 1903 Exenta, Vivienda, publicada el 08.03.2012 modifica la presente norma, en el sentido de reemplazar en la nómina de beneficiarios en la fila correspondiente a doña Aurora del Carmen Pérez Fuentes, Cédula Nacional de Identidad N° 11.504.281-5, de la comuna de Cisnes, en la celda concerniente a "Subsidio Discapacitados (UF)" el guarismo "0" por "20".
 
-> **Nota.** NOTA 6 La Resolución 1946 Exenta, Vivienda, publicada el 12.03.2012, modifica la presente norma de la manera siguiente:- El numeral 1, dispone reemplazar en la nómina de beneficiarios adjunta, en las filas correspondientes a doña Clotilde Jara Contreras, Cédula Nacional de Identidad Nº 5.216.072-3 y a don Ismael Tabie Guaquel, Cédula Nacional de Identidad Nº 3.782.299-K, de la comuna de Coyhaique, en la celda correspondiente a "Subsidio Saneamiento (UF)" el guarismo "70" por "0", y- El numeral 2, ordena reemplazar en la nómina de beneficiarios adjunta, en las filas correspondientes a doña Domitila Águila Miranda, Cédula Nacional de Identidad Nº 2.679.433-1 y a don Camilo Enrique Guajardo Morales, Cédula Nacional de Identidad Nº 6.728.933-1, de la comuna de Río Ibáñez, en la celda correspondiente a "Subsidio Saneamiento (UF)" el guarismo "0" por "70".
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
