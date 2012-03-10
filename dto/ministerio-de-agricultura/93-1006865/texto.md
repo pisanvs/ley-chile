@@ -24,11 +24,11 @@ Para los efectos de este Reglamento se entenderá por:
 
 a) Alteración de hábitat: Cambio en el ambiente de uno o más individuos de una especie vegetal, que puede llevar a su muerte o a que se vea imposibilitado de reproducirse.
 
-b) Bosque nativo de interés especial para la preservación: Aquellas unidades de bosque nativo, que presentan elevada singularidad, o elevado valor de representatividad de los ecosistemas originales, o especies clasificadas en las categorías de "en peligro de extinción", "vulnerables", "raras", "insuficientemente conocidas", o especies de elevado valor de singularidad.
+b) Bosque nativo de interés especial para la preservación: Aquellas unidades de bosque nativo con presencia de especies clasificadas en las categorías señaladas en el numeral 4) del artículo 2° de la ley 20.283, o que correspondan a ambientes únicos o representativos de la diversidad biológica natural del país, cuyo manejo sólo puede hacerse con el objetivo del resguardo de dicha diversidad.
 
 c) Corporación: Corporación Nacional Forestal.
 
-d) Formación xerofítica de alto valor ecológico: Aquellas formaciones xerofíticas que presentan elevada singularidad, o elevado valor de representatividad de los ecosistemas originales, o especies clasificadas en las categorías de "en peligro de extinción", "vulnerables", "raras", "insuficientemente conocidas", o especies de elevado valor de singularidad.
+d) Formación xerofítica de alto valor ecológico: Aquellas formaciones xerofíticas que presentan elevada singularidad, o elevado valor de representatividad de los ecosistemas originales, o especies clasificadas en las categorías señaladas en el numeral 4) del artículo 2° de la ley 20.283, o especies de elevado valor de singularidad.
 
 e) Glaciar: Aquel contenido en el Inventario Público de Glaciares, que forma parte del Catastro Público de Aguas de la Dirección General de Aguas.
 
@@ -40,9 +40,9 @@ h) Plan de Manejo Forestal bajo el criterio de ordenación: Instrumento que orga
 
 i) Plan de Manejo de preservación: Instrumento que planifica la gestión del patrimonio ecológico buscando resguardar la diversidad biológica, asegurando la mantención de las condiciones que hacen posible la evolución y el desarrollo de las especies y ecosistemas contenidos en el área objeto de su acción, resguardando la calidad de las aguas y evitando el deterioro de los suelos.
 
-j) Plan de trabajo: Instrumento que regula el aprovechamiento sustentable de las formaciones xerofíticas de un terreno determinado, considerando la diversidad biológica, resguardando la calidad de las aguas y evitando el deterioro de los suelos.
+j) Plan de trabajo: Instrumento que regula la corta,destrucción o descepado de las formaciones xerofíticas de un terreno determinado, dispuesta en el artículo 60 de la ley, procurando el resguardo de la calidad de las aguas y evitando el deterioro de los suelos.
 
-k) Presencia accidental de especies exóticas en un bosque nativo: Situación en la cual, los individuos de especies exóticas distribuidas al azar no superan el 50 % del área basal de un bosque nativo.
+k) Presencia accidental de especies exóticas en un bosque nativo: Situación en la cual, los individuos de especies exóticas generados naturalmente no superan el 50% del área basal total o el 50% de la cobertura de copa total del bosque.
 
 ## Título Segundo
 
@@ -54,15 +54,27 @@ Disposiciones comunes
 
 #### Artículo 2°
 
-Para dar cumplimiento a las obligaciones que la Ley señala, se deberá contar con un plan de manejo, plan de trabajo, o autorización simple de corta, según corresponda. Asimismo, para obtener los beneficios que la Ley establece, se deberá contar con un plan de manejo aprobado por la Corporación. Para tales efectos, el interesado deberá presentar una solicitud ante la oficina de la Corporación que corresponda según la ubicación del predio.
+Para dar cumplimiento a las obligaciones que la Ley señala, se deberá contar con un plan de manejo, plan de trabajo, o autorización simple de corta, según corresponda. Asimismo, para obtener los beneficios que la Ley establece, se deberá contar con un plan de manejo aprobado por la Corporación. Para tales efectos, el interesado deberá presentar una solicitud ante la oficina de la Corporación que corresponda según la ubicación del predio. Si el predio estuviere ubicado en más de una provincia, el interesado deberá hacerlo en cualquiera de las provincias en la que se encuentre inscrito el inmueble, salvo que los antecedentes del interesado ya se encontraren en alguna de las oficinas de la Corporación con jurisdicción en las provincias respectivas, caso en el cual deberá presentarse la solicitud en dicha oficina
 
 #### Artículo 3°
 
-Toda acción de corta de bosque nativo o de corta, destrucción o descepado de formaciones xerofíticas obligará a la presentación y aprobación previa de un plan de manejo forestal o de un plan de trabajo, según corresponda, los que deberán considerar las normas de protección ambiental establecidas en la Ley y sus reglamentos.
+Toda acción de corta de bosque nativo obligará a la presentación y aprobación previa, por parte de la Corporación, de un plan de manejo forestal, el que deberá considerar las normas de protección ambiental establecidas en la ley.
 
-Se exceptuarán de esta obligación las medidas adoptadas por el Servicio Agrícola y Ganadero con relación a la erradicación de plagas de control obligatorio señaladas en el artículo 5° de este reglamento.
+La corta o explotación de bosque nativo, excepto cuando se trate de cortas intermedias, obligará a reforestar o regenerar una superficie de terreno igual, a lo menos, a la cortada o explotada, en las condiciones contempladas en el plan de manejo aprobado por la Corporación de conformidad a lo establecido en el decreto ley N° 701, de 1974.
 
-La corta de bosque nativo o corta, destrucción o descepado de formaciones xerofíticas en cualquier tipo de terreno, obligará al interesado a asegurar la regeneración, reforestación y resguardo de los bosques nativos y formaciones xerofíticas contenidos en el área objeto de su acción, de conformidad a lo establecido en el artículo 22 del Decreto Ley N° 701, de 1974.
+Tratándose de la corta, destrucción o descepado de formaciones xerofíticas, será obligatoria la presentación y aprobación previa por la Corporación, de un plan de trabajo, cuando tales formaciones reúnan la totalidad de las siguientes condiciones:
+
+a) superficie mayor o igual a una hectárea;
+
+b) un ancho mínimo de 20 metros para las formaciones ubicadas al norte del río Elqui y de 40 metros para aquellas ubicadas al sur del señalado río;
+
+c) presencia de una o más especies nativas, de carácter xerofítico; y
+
+d) densidad mínima de individuos xerofíticos, suculentos o arbustivos, con o sin presencia de árboles aislados, de 300 individuos por hectárea en la zona comprendida entre el sur del río Elqui y el límite norte de la Región de Valparaíso o de 500 individuos por hectárea desde la Región de Valparaíso hasta la Región del Biobío, incluida la Región Metropolitana de Santiago. Tratándose de estas últimas regiones, los individuos en estado adulto deberán tener una altura mínima de un metro.
+
+En la zona comprendida desde el río Elqui y hasta el límite norte del país, no se considerará la condición de densidad mínima para las formaciones xerofíticas.
+
+Cuando la corta, destrucción o descepado de formaciones xerofíticas sea realizado con la finalidad de establecer una cobertura vegetal, arbórea o arbustiva, con una cobertura superior a la intervenida, no se harán exigibles los artículos 6 y 7 del Reglamento de Suelos, Aguas y Humedales, aprobado por decreto supremo N° 82, de 2010, del Ministerio de Agricultura, por cuanto la protección del agua y el suelo queda asegurada por el establecimiento de dicha cobertura.
 
 #### Artículo 4°
 
@@ -72,13 +84,13 @@ Toda intervención de un bosque de preservación obligará a la presentación y 
 
 En los casos de plagas de control obligatorio, las medidas de vigilancia, prevención, control y erradicación, serán las que determine el Servicio Agrícola y Ganadero, de conformidad con la normativa vigente.
 
-Corresponderá a dicho Servicio informar a la Corporación la circunstancia de haber determinado que se está en presencia de una plaga de control obligatorio y las medidas que se ha resuelto aplicar, con el fin de coordinar la acción de la autoridad para enfrentar la plaga y el posterior manejo del bosque o formación xerofítica afectado.
+Corresponderá a dicho Servicio informar a la Corporación la circunstancia de haber determinado que se está en presencia de una plaga de control obligatorio y las medidas que se ha resuelto aplicar, con el fin de coordinar la acción de la autoridad para enfrentar la plaga y el posterior manejo del bosque para lo cual la Corporación dispondrá de un procedimiento simplificado para cumplir con la obligación de presentar un plan de manejo.
 
 #### Artículo 6°
 
-La Corporación deberá pronunciarse sobre la aprobación o rechazo, en todo o parte, de la solicitud de los planes de manejo o planes de trabajo, en un plazo de 90 días hábiles, contados desde la fecha de ingreso de la solicitud a la Corporación.
+La Corporación deberá pronunciarse sobre la aprobación o rechazo de la solicitud de los planes de manejo, en todo o parte, en un plazo no superior a los 90 días hábiles, contados desde la fecha de ingreso de la solicitud a la Corporación. En el caso de los planes de trabajo, tal pronunciamiento deberá emitirse en un plazo no superior a los 45 días hábiles, contados de la misma forma antes referida.
 
-Si la Corporación objetare alguna proposición contenida en un plan de manejo o plan de trabajo, por no ajustarse a los requisitos establecidos en la Ley y sus reglamentos, o a los objetivos definidos en el plan, deberá fundadamente rechazar toda la superficie objetada, mediante resolución.
+Si la Corporación objetare alguna proposición contenida en un plan de manejo o plan de trabajo, por no ajustarse a los requisitos establecidos en la Ley y sus reglamentos, o a los objetivos definidos en el plan, deberá fundadamente rechazar sólo la superficie objetada, mediante resolución.
 
 Si la Corporación denegare en todo o parte la solicitud de aprobación del plan de manejo o plan de trabajo, deberá remitir al interesado copia de la resolución correspondiente mediante carta certificada, dirigida al domicilio señalado en la solicitud, dentro de los 10 días hábiles siguientes a la fecha de la respectiva resolución. El requirente podrá reclamar de aquéllas en la forma, plazo y condiciones señaladas en el artículo 5° del Decreto Ley N° 701, de 1974. En este caso, la sentencia definitiva será apelable, de conformidad con las disposiciones establecidas para dichos efectos por el Código de Procedimiento Civil.
 
@@ -92,15 +104,15 @@ La propuesta de modificación de plan de manejo o plan de trabajo no podrá alte
 
 Las solicitudes de modificación de plan de manejo o plan de trabajo deberán presentarse en los formatos dispuestos por la Corporación para tal efecto, y se les deberá adjuntar los antecedentes señalados en los artículos 22, 23, 24 y 26 de este reglamento, según corresponda.
 
-Ejecutada la corta, o la corta, destrucción o descepado, la obligación de cumplir el calendario de ejecución de las actividades de regeneración o reforestación no podrá ser modificada.
+Ejecutada la corta, según el plan de manejo, la obligación de cumplir el calendario de ejecución de las actividades de regeneración o reforestación no podrá ser modificada.
 
 #### Artículo 8°
 
-La postergación de las actividades de corta contempladas en un plan de manejo o de corta, destrucción o descepado contempladas en un plan de trabajo que no impliquen deterioro del bosque o de la formación xerofítica, respectivamente, sólo requerirá de una comunicación por parte del interesado, la que deberá realizarse antes de la fecha de vencimiento de la actividad programada en el plan de manejo o plan de trabajo.
+La postergación de las actividades de corta contempladas en un plan de manejo que no impliquen deterioro del bosque, sólo requerirá de una comunicación por parte del interesado.
 
 Dicha comunicación, que deberá ser presentada en el formato que para tal efecto elabore la Corporación, contendrá, a lo menos, lo siguiente:
 
-a) Número de resolución aprobatoria del plan de manejo o plan de trabajo;
+a) Número de resolución aprobatoria del plan de manejo ;
 
 b) Actividad cuya postergación se solicita, indicando el año de intervención aprobado y el nuevo propuesto;
 
@@ -112,9 +124,9 @@ La Corporación, mediante resolución fundada, podrá objetar la postergación c
 
 #### Artículo 9°
 
-El plan de manejo o plan de trabajo deberá contemplar una calendarización de las actividades y deberá señalar los criterios de marcación de los individuos, los que se utilizarán para orientar en terreno las actividades de corta, destrucción o descepado. Aprobado dicho plan, el interesado deberá dar aviso escrito a la Corporación con antelación a la ejecución de las faenas aprobadas. Dicho aviso, deberá ser presentado en los formularios que la Corporación proporcione para tales efectos.
+El plan de manejo o plan de trabajo deberá contemplar una calendarización de las actividades y deberá señalar, en el caso de plan de manejo, los criterios de corta de los individuos, los que se utilizarán para orientar en terreno las actividades de corta. Alternativamente, la oportunidad de ejecución de las actividades podrá determinarse en función de los parámetros de desarrollo específico que alcance el bosque, definidas en el tratamiento silvicultural. Aprobado dicho plan, el interesado deberá dar aviso escrito a la Corporación con antelación a la ejecución de las faenas aprobadas. Dicho aviso deberá ser presentado en los formularios que la Corporación proporcione para tales efectos.
 
-Iniciada la ejecución de las actividades, se deberá acreditar anualmente el grado de avance del plan respectivo, a través de un informe que señale las actividades ejecutadas y el cumplimiento de las medidas de protección, de acuerdo a las prescripciones técnicas contenidas en dicho plan, acompañado de la cartografía digital georeferenciada que fuere presentada con antelación.
+Cumplido un año de iniciada la ejecución de las actividades, el interesado deberá acreditar anualmente el grado de avance del plan respectivo, a través de un informe que señale las actividades ejecutadas y el cumplimiento de las medidas de protección, de acuerdo a las prescripciones técnicas contenidas en dicho plan, acompañado de la cartografía señalada en el artículo 14 letra i) de este reglamento que fuere presentada con antelación. Este informe deberá ser presentado dentro de los tres meses siguientes de cumplida la anualidad respectiva.
 
 #### Artículo 10
 
@@ -124,11 +136,11 @@ La solicitud deberá contener la individualización de cada uno de los interesad
 
 #### Artículo 11
 
-Los planes de manejo necesarios para la mantención de las obras o actividades a que se refiere el inciso cuarto del artículo 7° de la Ley, estarán vigentes en tanto subsista la concesión, servidumbre u otra autorización legal, según corresponda.
+Derogado
 
 #### Artículo 12
 
-La Corporación podrá elaborar planes de manejo o planes de trabajo tipo y normas de manejo para determinadas condiciones, áreas, tipos forestales o formaciones xerofíticas, a los cuales podrán adherirse los propietarios.
+La Corporación podrá elaborar planes de manejo o planes de trabajo tipo y normas de manejo para determinadas condiciones, áreas, tipos forestales o formaciones xerofíticas, a los cuales podrán adherirse los interesados.
 
 Los interesados que, cumpliendo las condiciones y requisitos contenidos en las normas y planes señalados en el inciso anterior, se adhieran a alguna de estas alternativas, tendrán por cumplida la obligación de presentar el plan de manejo forestal o plan de trabajo.
 
@@ -166,11 +178,13 @@ d) Definición de los objetivos de manejo;
 
 e) Tratamiento silvicultural consecuente a los objetivos de manejo;
 
-f) Programa y calendarización de las actividades a ejecutar;
+f) Calendarización y/o programación de acuerdo a los parámetros silvícolas de las actividades a ejecutar;
 
 g) Prescripciones técnicas;
 
-h) Medidas de protección ambiental de acuerdo a lo dispuesto en la Ley y sus reglamentos; e
+h) Medidas de protección ambiental y de protección contra plagas y enfermedades forestales, de acuerdo a
+
+lo dispuesto en la ley y sus reglamentos;
 
 i) Cartografía digital georeferenciada, de acuerdo a lo establecido por la Corporación en los formularios respectivos.
 
@@ -198,9 +212,9 @@ b) Alteración de hábitat o corta, eliminación, destrucción o descepado, en c
 
 Sin perjuicio de lo establecido en el artículo 14 de este reglamento, el plan de manejo de preservación deberá incluir, además, lo siguiente:
 
-a) Información general y diagnóstico de la biodiversidad existente en el entorno inmediato del bosque nativo o formación xerofítica a preservar;
+a) Información general y diagnóstico de la biodiversidad existente en el entorno inmediato del bosque nativo o formación xerofítica de alto valor ecológico a preservar;
 
-b) Caracterización detallada del bosque nativo o formación xerofítica a preservar;
+b) Caracterización detallada del bosque nativo o formación xerofítica de alto valor ecológico a preservar;
 
 c) Definición de los objetivos de preservación;
 
@@ -212,11 +226,11 @@ Tratándose de las intervenciones excepcionales señaladas en el artículo 16 de
 
 #### Artículo 18
 
-Tratándose de las especies señaladas en el inciso primero del artículo 19 de la Ley, se deberá presentar un plan de manejo forestal cuando el interesado acredite que los individuos de dichas especies han sido plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación dispuestas por una resolución de calificación ambiental u otra autoridad competente.
+Tratándose de la corta, eliminación, destrucción o descepado de individuos de las especies señaladas en el inciso primero del artículo 19 de la ley, que formen parte de un bosque nativo, se deberá presentar un plan de manejo de conformidad a lo establecido en el DL 701, de 1974, cuando el interesado acredite que los individuos de dichas especies han sido plantados por el hombre, a menos que tales plantaciones se hubieren efectuado en cumplimiento de medidas de compensación, reparación o mitigación, dispuestas por una resolución de calificación ambiental u otra autoridad competente.
 
 #### Artículo 19
 
-Cuando se trate de corta de bosques nativos o la corta, destrucción o descepado de formaciones xerofíticas por motivos de cambio de uso de suelos rurales establecido en la Ley General de Urbanismo y Construcciones, o la construcción de caminos, ejercicio de concesiones o servidumbres mineras, de gas, servicios eléctricos, ductos u otras concesiones o servidumbres reguladas por ley, se requerirá la aprobación de un plan de manejo o plan de trabajo, según corresponda. Dicho instrumento deberá incluir:
+Cuando se trate de corta de bosques nativos por motivos de cambio de uso de suelos rurales, establecido en la Ley General de Urbanismo y Construcciones, de la construcción de obras o la construcción de caminos, ejercicio de concesiones o servidumbres mineras, de gas, servicios eléctricos, ductos u otras reguladas por ley, según corresponda,se requerirá la aprobación de un plan de manejo. Dicho instrumento deberá incluir:
 
 a) Individualización del interesado, concesionario o titular de la servidumbre;
 
@@ -230,7 +244,7 @@ e) Descripción del área a intervenir;
 
 f) Descripción de la vegetación a eliminar;
 
-g) Programas de reforestación, los cuales deberán realizarse con especies del mismo tipo forestal o formación xerofítica intervenido, en suelos de similares características;
+g) Programa de reforestación, el cual deberá realizarse con especies, preferentemente, del mismo tipo forestal intervenido;
 
 h) Medidas de protección ambiental de acuerdo a lo dispuesto en la Ley y sus reglamentos; e
 
@@ -250,7 +264,7 @@ El plan de manejo deberá ser firmado por el interesado y el profesional habilit
 
 Cuando se trate de bosques fiscales, el plan de manejo deberá ser suscrito por el concesionario o arrendatario del respectivo inmueble fiscal, quien será responsable del cumplimiento de las obligaciones contenidas en él. Será también suscrito por el respectivo Secretario Regional Ministerial de Bienes Nacionales, con lo que se acreditará que el solicitante tiene alguna de dichas calidades y que no existe oposición por parte del Ministerio de Bienes Nacionales.
 
-Cuando se trate de corta de bosque nativo o corta, destrucción o descepado de formaciones xerofíticas para los fines señalados en el artículo 19 de este reglamento, el plan de manejo o plan de trabajo correspondiente deberá ser presentado por el respectivo concesionario o titular de la servidumbre, según los casos, quien será responsable del cumplimiento de todas las obligaciones contenidas en él.
+Cuando se trate de corta de bosque nativo o corta, destrucción o descepado de formaciones xerofíticas para los fines señalados en el artículo 19 de este reglamento, el plan de manejo o plan de trabajo correspondiente deberá ser presentado por el interesado, quien será responsable del cumplimiento de todas las obligaciones contenidas en él.
 
 #### Artículo 22
 
@@ -264,15 +278,17 @@ b) Cartografía digital georeferenciada, de acuerdo a lo establecido por la Corp
 
 c) Copia simple de cédula nacional de identidad o del Rol Único Tributario;
 
-d) Copia de inscripción de dominio del predio, con vigencia no mayor de 90 días corridos, contados desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces;
+d) Copia de inscripción de dominio del predio, con certificado de vigencia con una antigüedad no mayor a 120 días hábiles, contados desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces. No obstante, la acreditación de la propiedad a través de la copia de inscripción de dominio, con certificado de vigencia, se requerirá para la primera presentación que efectúen los interesados ante la Corporación. Para las siguientes presentaciones, bastará el certificado de vigencia o una declaración jurada del interesado firmada ante notario, de una antigüedad de no más de 120 días hábiles, para acreditar que no ha existido cambio en el dominio del respectivo predio.
 
 e) Copia autorizada ante notario público o según lo dispuesto en la Ley N° 19.088, del o los certificados de título del profesional que lo habiliten para efectuar los estudios en conformidad al artículo 7° de la Ley;
 
-f) Copia del Certificado de Avalúo Fiscal del predio;
+f) Cuando el interesado sea poseedor en trámite de regularización de títulos, se deberá acompañar certificado del Ministerio de Bienes Nacionales de haberse iniciado formalmente el trámite de regularización de conformidad con el DL N° 2.695 ante dicha Secretaría de Estado, de una antigüedad no superior a 120 días hábiles. Esta certificación será exigible cuando el interesado postule a las bonificaciones señaladas en el artículo 22 de la ley.
 
 g) Copia autorizada del documento en que conste la respectiva servidumbre o concesión, en caso de intervención de bosques con motivo de la construcción de caminos, el ejercicio de concesiones o servidumbres mineras, de gas, de servicios eléctricos, de ductos u otras reguladas por Ley; y
 
 h) Copia autorizada del documento en que conste la respectiva concesión o arrendamiento del inmueble fiscal, en caso de intervención de bosques fiscales.
+
+i) Declaración jurada que acredite su condición de pequeño propietario forestal, sólo para el caso en que el plan de manejo contemple actividades bonificables previamente adjudicadas en el respectivo concurso de conformidad con el N° 17 del artículo 2° de la ley N° 20.283 y adjunte copia de la inscripción en el Conservador de Bienes Raíces que corresponda con una antigüedad no superior a 120 días hábiles.
 
 #### Artículo 23
 
@@ -294,13 +310,15 @@ b) La identificación del predio;
 
 c) La superficie solicitada a incorporar en el plan de manejo;
 
-d) Acompañar copia de inscripción de dominio del predio, con vigencia no mayor de 90 días corridos, contados desde la fecha de su expedición por parte del respectivo Conservador de Bienes Raíces; y
+d) Acompañar copia de inscripción de dominio del predio,con certificado de vigencia de una antigüedad no mayor a 120 días hábiles, contados desde la fecha de su expedición por parte del respectivo Conservador de
 
-e) Cartografía digital georeferenciada, de acuerdo a lo establecido por la Corporación en los formularios respectivos.
+Bienes Raíces. No obstante, la acreditación de la propiedad a través de la copia de inscripción de dominio, con certificado de vigencia, se requerirá para la primera presentación que efectúe el interesado ante la Corporación. Para las siguientes presentaciones bastará el certificado de vigencia o una declaración jurada del interesado, firmada ante Notario Público, de una antigüedad de no más de 120 días hábiles, para acreditar que no ha existido cambio en el dominio del respectivo predio;
+
+e) Cartografía digital georreferenciada, de acuerdo a lo establecido por la Corporación en los formularios respectivos, salvo tratándose de normas de manejo, en cuyo caso podrá reemplazarse por otro tipo de cartografía.
 
 Respecto de las personas jurídicas que deseen acogerse a un plan de manejo tipo, deberán acompañar los antecedentes exigidos respecto de éstas en el artículo 23 de este reglamento.
 
-En aquellos casos en que un interesado utilice los planes de manejo o planes de trabajo tipo establecidos por la Corporación, se entenderá cumplida la obligación de presentar el respectivo plan de manejo forestal o plan de trabajo.
+En aquellos casos en que un interesado utilice los planes de manejo tipo y norma de manejo establecidos por la Corporación, se entenderá cumplida la obligación de presentar el respectivo plan de manejo forestal.
 
 #### Artículo 25
 
@@ -324,9 +342,11 @@ Autorización Simple de Corta
 
 #### Artículo 27
 
-El interesado podrá solicitar autorización simple de corta cuando requiera el aprovechamiento o corta de una cantidad reducida de árboles destinados al autoconsumo o a mejoras prediales. Las autorizaciones anuales no podrán superar un total de 50 árboles por predio, en la Región del Libertador General Bernardo O’Higgins al norte, o de 100 árboles por predio, de la Región del Maule al sur. En todo caso, el total de tales autorizaciones no podrán exceder el 20% de los árboles nativos existentes en el predio.
+El interesado podrá solicitar autorización simple de corta cuando requiera el aprovechamiento o corta de una cantidad reducida de árboles destinados al autoconsumo o a mejoras prediales. Las autorizaciones anuales no podrán superar un total de 50 árboles por predio, en la Región del Libertador General Bernardo O'Higgins al norte, o de 100 árboles por predio, de la Región del Maule al sur. En todo caso, el total de tales autorizaciones no podrán exceder el 20% de los árboles nativos existentes en el predio.
 
-El interesado estará obligado a reponer, en la misma temporada, al menos 5 individuos de la misma especie u otra del mismo tipo forestal, según lo autorice la Corporación, por cada individuo autorizado a extraer. De la misma manera, las cortas autorizadas por esta vía deberán respetar las normas de protección ambiental establecidas en la Ley y sus reglamentos.
+El interesado estará obligado a reponer o regenerar el bosque intervenido durante la misma temporada, o a más tardar al año siguiente de efectuada la corta, al menos con 5 individuos de la misma especie u otra del mismo tipo forestal, por cada individuo autorizado a cortar, según lo autorice la Corporación. Excepcionalmente, la Corporación podrá eximir al interesado de la obligación de reponer o regenerar, cuando se constate que existe un nivel de regeneración de especies arbóreas o arbustivas de la misma especie u otra del mismo tipo forestal, que lo hacen innecesario.
+
+Las cortas autorizadas por esta vía deberán respetar las normas de protección ambiental establecidas en la ley y sus reglamentos.
 
 #### Artículo 28
 
@@ -336,7 +356,9 @@ a) Individualización del interesado;
 
 b) Individualización del predio, indicando el nombre del predio y rol de avalúo fiscal;
 
-c) Acreditación de la calidad de propietario, mediante certificado de dominio vigente;
+c) Acreditación de la calidad de interesado, mediante copia de inscripción de dominio del predio con certificado de vigencia, de una antigüedad no mayor a 120 días hábiles. No obstante, la acreditación de la
+
+propiedad a través de la copia de inscripción de dominio, con certificado de vigencia, se requerirá para la primera presentación que efectúen los interesados ante la Corporación. Para las siguientes presentaciones bastará el certificado de vigencia o una declaración jurada del interesado, firmada ante notario, de una antigüedad de no más de 120 días hábiles, para acreditar que no ha existido cambio en el dominio del respectivo predio;
 
 d) El objetivo de la corta;
 
@@ -346,15 +368,21 @@ f) Croquis o plano del predio, con ubicación de los individuos a cortar; y
 
 g) Antecedentes de presentaciones de autorización simple de corta anteriores para el mismo predio.
 
-Sólo podrán solicitar nuevas autorizaciones simples de corta, respecto del mismo predio, aquellos propietarios que mediante declaración jurada señalen haber dado cumplimiento a la obligación de reponer a que se refiere el artículo anterior, sin perjuicio de las fiscalizaciones que realice la Corporación para verificar esta circunstancia.
+h) Declaración jurada simple que señale que la cantidad de árboles nativos a cortar no superan el 20% del total de los árboles con diámetro superior a 10 cm existente en el predio; e
+
+i) Declaración jurada simple de haber dado cumplimiento a las obligaciones contenidas en ambos incisos del artículo 27 de este reglamento, cuando se trate de predios con autorizaciones simples de corta anteriores.
+
+Sólo podrán solicitar nuevas autorizaciones simples de corta, respecto del mismo predio, aquellos interesados que mediante declaración jurada señalen haber dado cumplimiento a las obligaciones en conformidad al artículo anterior, sin perjuicio de las fiscalizaciones que realice la Corporación para verificar esta circunstancia.
+
+La Corporación deberá pronunciarse sobre la aprobación o rechazo de las solicitudes de autorizaciones simples de corta, en un plazo no mayor a 30 días hábiles, contados desde la fecha de ingreso de la solicitud.
 
 Párrafo quinto
 
-Registro Público de Planes De Manejo y Planes de Trabajo
+Registro Público de Planes de Manejo
 
 #### Artículo 29
 
-La Corporación mantendrá en su página web, un registro público de planes de manejo y planes de trabajo aprobados que contendrá, a lo menos, la siguiente información:
+La Corporación mantendrá en su página web, un registro público de planes de manejo aprobados que contendrá, a lo menos, la siguiente información:
 
 a) Región;
 
@@ -362,7 +390,7 @@ b) Provincia;
 
 c) Comuna;
 
-d) Tipo de plan de manejo o plan de trabajo;
+d) Tipo de plan de manejo;
 
 e) Nombre del predio;
 
@@ -374,29 +402,29 @@ h) Propietario del predio;
 
 i) Superficie afecta;
 
-j) Tipo forestal o formación xerofítica;
+j) Tipo forestal;
 
 k) Vigencia del plan; y
 
-l) Resolución del plan de manejo o plan de trabajo.
+l) Resolución del plan de manejo.
 
-Los planes de manejo y planes de trabajo estará disponibles para quien lo requiera, debiendo la Corporación certificar su existencia respecto de un determinado predio, para quien lo solicite. Además, se mantendrá un sistema de información consolidado por provincias.
+Los planes de manejo estarán disponibles para quien lo requiera, debiendo la Corporación certificar su existencia respecto de un determinado predio, para quien lo solicite. Además, se mantendrá un sistema de información consolidado por provincias.
 
 ## Título Tercero
 
-De las actividades excepcionales de intervención de las especies clasificadas en categorías de conservación, o alteración de su hábitat
+De las actividades excepcionales de intervención de las especies clasificadas en categorías señaladas en el numeral 4) del artículo 2° de la ley 20.283, o alteración de su hábitat
 
 #### Artículo 30
 
-El interesado en realizar alguna de las actividades excepcionales señaladas en el artículo 16 de este reglamento que impliquen la corta, eliminación, destrucción o descepado de especies vegetales señaladas en el inciso primero del artículo 19 de la Ley, o la alteración de su hábitat, deberá presentar una solicitud a través del formulario que la Corporación pondrá a su disposición para dichos efectos.
+Quien requiera en realizar alguna de las actividades excepcionales señaladas en el artículo 16 de este reglamento que impliquen la corta, eliminación, destrucción o descepado de especies vegetales señaladas en el inciso primero del artículo 19 de la Ley, o la alteración de su hábitat, deberá presentar una solicitud a través del formulario que la Corporación pondrá a su disposición para dichos efectos.
 
 Dicha solicitud, deberá contener, los siguientes antecedentes:
 
-a) Individualización del interesado;
+a) Individualización del solicitante;
 
 b) Acreditación, acompañando la documentación que corresponda, de que la obra o actividad que genera la alteración del hábitat o intervención de especies:
 
-i. se encuentra comprendida entre las señaladas en el inciso 4° del artículo 7° de la Ley; o
+i. esté destinada a la ejecución de obras o al desarrollo de las actividades señaladas en el inciso 4° del artículo 7° de la ley; o
 
 ii. tiene por objeto la realización de investigaciones científicas; o
 
@@ -412,9 +440,9 @@ f) Informe de expertos que determine si la continuidad de la especie, a nivel de
 
 #### Artículo 31
 
-Con el mérito de los antecedentes aportados en la solicitud y de aquellos que fueren recabados directamente, la Corporación dictará la resolución fundada que la apruebe o rechace, dentro del plazo de 60 días hábiles, contado desde la fecha de recepción de la misma y la notificará al interesado por carta certificada.
+Con el mérito de los antecedentes aportados en la solicitud y de aquellos que fueren recabados directamente, la Corporación dictará la resolución fundada que la apruebe o rechace, dentro del plazo de 60 días hábiles, contado desde la fecha de recepción de la misma y la notificará al solicitante por carta certificada. En el caso de que la Corporación, para emitir esta resolución, requiera el pronunciamiento de otras entidades del Estado o informes de terceros, se suspenderá dicho plazo hasta que tales informes sean evacuados y recepcionados por la Corporación.
 
-La resolución fundada que apruebe la corta o alteración deberá fijar el plazo dentro del cual el interesado deberá presentar un plan de manejo de preservación, previo a la intervención o alteración, el que deberá considerar, además de los requisitos establecidos en la Ley y este reglamento, las medidas señaladas en la referida resolución.
+Una vez emitida la resolución fundada que apruebe la corta o alteración, el solicitante, previo a la intervención o alteración, deberá contar con un plan de manejo de preservación aprobado por la Corporación, el que deberá considerar, además de los requisitos establecidos en la ley y este reglamento,las medidas señaladas en la referida resolución.
 
 ## Título Cuarto
 
@@ -422,17 +450,17 @@ Guías de Libre Tránsito
 
 #### Artículo 32
 
-Las guías de libre tránsito son el instrumento exigido para acreditar que los productos primarios de bosque nativo o de formación xerofítica que sean transportados, acopiados o que se encuentren en poder de personas naturales o jurídicas, provienen de una corta autorizada por la Corporación.
+Las guías de libre tránsito son el instrumento exigido para acreditar que los productos primarios de bosque nativo que sean transportados, acopiados o que se encuentren en poder de personas naturales o jurídicas, provienen de una corta autorizada por la Corporación.
 
 Los funcionarios designados por la Corporación para la fiscalización de la Ley o Carabineros de Chile, serán los encargados de exigir esta acreditación.
 
 #### Artículo 33
 
-La Corporación pondrá a disposición del interesado guías de libre tránsito, correspondientes al plan de manejo o plan de trabajo que le haya sido aprobado, para el sólo efecto de la acreditación a que se refiere el artículo precedente.
+La Corporación autorizará a los interesados, guías de libre tránsito que éstos le presenten para dichos efectos, que correspondan al plan de manejo que les haya sido aprobado, para el solo efecto de la acreditación a que se refiere el artículo precedente. No obstante, en casos calificados, tales como planes de manejo de pequeños propietarios forestales, la Corporación pondrá a disposición de los interesados este instrumento debidamente autorizado. La Corporación elaborará un formato tipo para estas guías de libre tránsito, que será publicado en la página web institucional.
 
-Las guías de libre tránsito deberán contener, al menos, lo siguiente:
+El formato de las guías indicadas deberá contener, al menos, lo siguiente:
 
-a) Número del plan de manejo o plan de trabajo aprobado;
+a) Número del plan de manejo aprobado;
 
 b) Fecha de expedición y vencimiento de la guía;
 
@@ -446,17 +474,19 @@ f) Productos que se acreditan;
 
 g) Lugar de expedición, firma y timbre de la Corporación; y
 
-h) Visaciones de Carabineros de Chile.
+h) ELIMINADO.
 
 Cada guía de libre tránsito podrá ser utilizada sólo en una ocasión, debiendo permanecer con los productos una vez finalizado su transporte.
 
 #### Artículo 34
 
-Para amparar el transporte de productos primarios provenientes de árboles nativos aislados, que no formen parte de un bosque y que no requieran autorización previa para su corta, así como aquellos provenientes de las autorizaciones a que se refieren los artículos 27 y 28 de este reglamento, la Corporación pondrá a disposición del interesado guías de libre tránsito, siempre y cuando el volumen a transportar no supere los 5 metros cúbicos por predio de origen, en cada año calendario. Para estos efectos, el interesado deberá solicitarlo formalmente a la Corporación, la cual, para pronunciarse, podrá adoptar las medidas que estime pertinentes con el fin de comprobar la veracidad de los antecedentes aportados en la solicitud.
+Para amparar el transporte de productos primarios provenientes de árboles nativos aislados, que no formen parte de un bosque y que no requieran autorización previa para su corta, la Corporación autorizará guías de libre tránsito, para efectos de acreditación del origen legal de tales productos obtenidos bajo estas circunstancias y que serán transportados. No obstante, en casos calificados, la Corporación pondrá a disposición del interesado este instrumento. Para estos efectos, el interesado deberá solicitarlo formalmente a la Corporación, la cual, para pronunciarse, podrá adoptar las medidas que estime pertinentes con el fin de comprobar la veracidad de los antecedentes aportados en la solicitud. El interesado deberá presentar conjuntamente con la solicitud un certificado de dominio vigente de la propiedad de que se trate o una declaración jurada en caso de siguientes presentaciones.
+
+Para el caso del transporte de productos primarios provenientes de las autorizaciones simples de corta, la Corporación autorizará al interesado guías de libre tránsito, siempre y cuando el volumen a transportar no supere lo establecido por la Corporación en cada caso en que se conceda la autorización simple de corta, previa determinación, por parte de la Corporación, del volumen en pie de los árboles a cortar. Para estos efectos, el interesado deberá solicitarlo formalmente a la Corporación, la que, para pronunciarse, podrá adoptar las medidas que estime pertinentes con el fin de comprobar la veracidad de los antecedentes aportados en la solicitud.
 
 #### Artículo 35
 
-La Corporación publicará en su página web el listado de productos del bosque nativo y de formaciones xerofíticas que se considerarán productos primarios para cada región y sobre los cuales será obligatorio acreditar su origen.
+La Corporación publicará en su página web el listado de productos del bosque nativo que se considerarán productos primarios para cada región y sobre los cuales será obligatorio acreditar su origen.
 
 ## Título Quinto
 
@@ -476,7 +506,7 @@ Los funcionarios de la Corporación que tengan el carácter de ministros de fe y
 
 #### Artículo 39
 
-En los casos en que la infracción consistiere en corta no autorizada, el funcionario fiscalizador de la Corporación deberá consignar en un informe técnico, a lo menos, la ubicación digital georeferenciada del lugar, las especies cortadas, el número de ejemplares intervenidos o la cantidad o medida de los productos obtenidos de la corta, según corresponda, estado o grado de explotación o elaboración, y una valorización comercial aproximada de tales productos, o la circunstancia de no tener valor comercial. Esta última información deberá constar, además, cuando se afecten las especies indicadas en el artículo 16 de este reglamento.
+En los casos en que la infracción consistiere en corta no autorizada, el funcionario fiscalizador de la Corporación deberá consignar en un informe técnico, a lo menos, la ubicación digital georeferenciada del lugar, las especies cortadas, el número de ejemplares intervenidos o la cantidad o medida de los productos obtenidos de la corta, según corresponda, estado o grado de explotación o elaboración, la circunstancia de encontrarse o no los productos en el predio y una valorización comercial aproximada de tales productos, o la circunstancia de no tener valor comercial. Esta última información deberá constar, además, cuando se afecten las especies indicadas en el artículo 16 de este reglamento.
 
 #### Artículo 40
 
@@ -498,11 +528,13 @@ La enajenación de los productos decomisados deberá hacerse en subasta pública
 
 #### Artículo 44
 
-El pago de las multas que se impongan por infracciones a las normas de la Ley, no eximirá al infractor del cumplimiento de las correspondientes obligaciones. Para estos efectos, la Corporación podrá solicitar al tribunal respectivo que obligue al infractor a presentar un plan de manejo o plan de trabajo de reforestación o de corrección, o un plan de manejo de preservación, según el caso, de acuerdo a lo establecido en el artículo 5° de la Ley.
+El pago de las multas que se impongan por infracciones a las normas de la Ley, no eximirá al infractor del cumplimiento de las correspondientes obligaciones. Para estos efectos, la Corporación podrá solicitar al tribunal respectivo que obligue al infractor a presentar un plan de manejo que permita corregir las infracciones sancionadas, de acuerdo a lo establecido en el artículo 5° de la Ley.
+
+Cuando se trate de corta, destrucción o descepado en formaciones xerofíticas sin plan de trabajo o en contravención a lo establecido en éste, la Corporación podrá solicitar al Tribunal respectivo que obligue al infractor a presentar un plan de trabajo que permita corregir las infracciones sancionadas.
 
 #### Artículo 45
 
-Los funcionarios designados por la Corporación para la fiscalización de esta Ley tendrán el carácter de ministro de fe en todas las actuaciones que deban realizar para el cumplimiento de esa labor. La designación de los funcionarios de la Corporación será realizada mediante Resolución del Director Ejecutivo, quien podrá delegar esta facultad a los Directores Regionales. El listado de fiscalizadores deberá ser remitido a los tribunales competentes.
+Los funcionarios designados por la Corporación para la fiscalización de esta Ley tendrán el carácter de ministro de fe en todas las actuaciones que deban realizar para el cumplimiento de esa labor, de conformidad con el artículo 47 de la ley. La designación de los funcionarios de la Corporación será realizada mediante Resolución del Director Ejecutivo, quien podrá delegar esta facultad a los Directores Regionales. El listado de fiscalizadores deberá ser remitido a los tribunales competentes.
 
 ## Título Sexto
 
@@ -690,7 +722,7 @@ f) Actividad ejecutada y superficie asociada;
 
 g) Parámetros técnicos que justifican la correcta ejecución de la actividad;
 
-h) Existencia y estado actual del bosque nativo o formación xerofítica sobre el cual se solicita la bonificación;
+h) Existencia y estado actual del bosque nativo o formación xerofítica de alto valor ecológico sobre el cual se solicita la bonificación;
 
 i) Fecha de comprobación de ejecución de actividades comprometidas;
 
@@ -752,7 +784,7 @@ Procedimiento para la Aplicación de Medidas Administrativas
 
 #### Artículo 65
 
-La Corporación deberá, en forma previa a la aplicación de las medidas administrativas señaladas en el artículo 41 de la Ley, requerir al acreditador forestal, mediante carta certificada, un informe sobre los hechos cuestionados. Dicho informe deberá ser evacuado por el acreditador en un plazo de 15 días corridos, desde la fecha de notificación de la carta certificada. En caso contrario, se resolverá con los antecedentes que se tengan a la vista.
+La Corporación deberá, en forma previa a la aplicación de las medidas administrativas señaladas en el artículo 41 de la Ley, requerir al acreditador forestal, mediante carta certificada, un informe sobre los hechos cuestionados. Dicho informe deberá ser evacuado por el acreditador en un plazo de hasta 15 días corridos, desde la fecha de notificación de la carta certificada. En caso contrario, se resolverá con los antecedentes que se tengan a la vista.
 
 ## Título Séptimo
 
@@ -768,17 +800,15 @@ Para identificar en el catastro forestal, a lo menos cartográficamente, aquella
 
 a) Presencia de especies vegetales declaradas legalmente bajo protección;
 
-b) Presencia de especies vegetales clasificadas en las categorías de "en peligro de extinción"; "vulnerables", "raras" e "insuficientemente conocidas";
+b) Presencia de especies vegetales clasificadas en las categorías señaladas en el numeral 4) del artículo 2° de la ley 20.283; y
 
 c) Presencia de ambientes únicos o representativos de la diversidad biológica del país, según los listados oficiales que establezca la Comisión Nacional del Medio Ambiente.
 
-DISPOSICIÓN TRANSITORIA
+DISPOSICIÓN TRANSITORIA (DEROGADO)
 
 #### Artículo único
 
-Para efectos de lo dispuesto en el artículo 2° transitorio de la Ley, las prohibiciones y demás regulaciones establecidas en el inciso primero del artículo 19 de la Ley se aplicarán, antes de la clasificación a que se refiere dicho precepto, respecto de las especies vegetales vivas nativas que, a la fecha de entrada en vigencia de la Ley, estén identificadas como en peligro de extinción, vulnerables, raras o insuficientemente conocidas en el documento denominado "Libro Rojo" de la Corporación Nacional Forestal, de 1989.
-
-En caso de duda acerca de la categoría de estado de conservación en que se encuentre clasificada alguna de las especies individualizadas en el mencionado Libro, se podrán realizar estudios que evalúen el estado de conservación de la especie. Si tales estudios indican que la especie se encuentra actualmente libre de amenazas y sus poblaciones se han recuperado, la Corporación podrá eximir, mediante resolución fundada, de la aplicación de las prohibiciones y demás regulaciones señaladas en el artículo 19 de la Ley a la referida especie.
+DEROGADO.
 
 Anótese, tómese razón y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la Republica.- Marigen Hornkohl Venegas, Ministra de Agricultura.- Andrés Velasco Brañes, Ministro de Hacienda.
 
