@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 197, DE 2010
+
+Por resolución Nº 197, de 5 de marzo de 2010, del Ministerio de Transportes y Telecomunicaciones, se aprobó modificación al Contrato de Concesión de Uso de Vías de la ciudad de Santiago, para la Prestación de Servicios Urbanos de Transporte Público Remunerado de Pasajeros mediante buses de 5 de marzo de 2010, suscrito entre Express de Santiago Uno S.A., concesionario de la Unidad de Negocio Troncal Nº 4 y el Ministerio de Transportes y Telecomunicaciones, que versa sobre programas de operación, modificación de recorridos, ingresos del concesionario, fechas de pago, sanciones, extensión del plazo de la concesión, programa de renovación, recepción de la concesión, vida útil, reemplazo y condiciones de los buses y otras disposiciones. Texto íntegro de la resolución en la página web www.coordinaciontransantiago.cl.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
