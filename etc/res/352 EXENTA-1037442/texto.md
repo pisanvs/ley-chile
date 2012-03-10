@@ -24,6 +24,8 @@ Resuelvo:
 
 1.- Infórmese el otorgamiento del Premio Nacional de los Derechos Humanos 2011, por parte del Consejo del Instituto Nacional de Derechos Humanos, a doña Viviana Díaz Caro, RUT 6.082.926-8.
 
-2.- Publíquese la presente resolución para conocimiento e información.
+2.- Determínase que el Servicio de Tesorerías, conforme al programa de caja, cargará al ítem 50.01.03-23.01.001 la cantidad destinada al pago de la pensión vitalicia señalada en el apartado c) del Considerando 4° de la presente resolución, correspondiente a uno de los galardones que le corresponde percibir a doña Viviana Díaz Caro, RUT 6.082.926-8, en su calidad de ganadora del Premio Nacional a los Derechos Humanos, de acuerdo con lo dispuesto en el artículo 14 de la ley N° 20.405, para la procedencia por parte del Servicio de Tesorerías del pago directo o a transferir, según proceda.
+
+3.- Publíquese la presente resolución para conocimiento e información.
 
 Anótese, comuníquese y publíquese.- Lorena Fries Monleón, Directora Instituto Nacional de Derechos Humanos.
