@@ -18664,16 +18664,6 @@ Los bancos deberán enviar a sus clientes una vez al año, un cuadro con la info
 
 Podrá prescindirse del envío de la información anual a que se refiere el párrafo precedente cuando en los estados de cuenta periódicos ("cartolas"), sean éstos mensuales, trimestrales, anuales o con cualquiera otra frecuencia, que se entregan a los clientes, relativos a sus movimientos en cuentas corrientes, cuentas vista, cuentas de ahorro, uso de tarjetas de crédito u otros servicios o productos, se incluya la información suficientemente clara sobre las tarifas de comisiones a que está afecto el respectivo producto o servicio y los importes cobrados por ese concepto en el período informado.
 
-### 4. Información a enviar a esta Superintendencia
-
-Las entidades bancarias deben enviar a la Superintendencia, para su mero conocimiento, los modelos de contrato de los productos ofrecidos al público y el mapa completo de tarifas asociadas a los productos ofrecidos.
-
-Todo nuevo modelo de contrato, así como las modificaciones a los contratos existentes y los cambios de tarifas deben ser remitidos a esta Superintendencia en la misma oportunidad en que sean aplicados.
-
-### 5. Disposiciones transitorias
-
-La información a que se refiere el N° 4 anterior, deberá enviarse por primera vez dentro de los sesenta días siguientes de promulgadas las normas del presente Capítulo. De igual forma, en la misma oportunidad y por única vez, se deberán enviar los documentos en que se describan las políticas y procedimientos establecidos a que se refiere el numeral 3.6 del título II del Capítulo 1-13 de la Recopilación Actualizada de Normas.
-
 ## Capítulo 19-1
 
 FIRMAS EVALUADORAS DE BANCOS.
