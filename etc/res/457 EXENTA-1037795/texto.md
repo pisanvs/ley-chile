@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 457 EXENTA, DE 2012
+
+Por resolución exenta Nº 457, de 20 de febrero de 2012, del Ministerio de Transportes y Telecomunicaciones, y en atención a la necesidad de establecer medidas de ordenamiento de los servicios de transporte rurales que operan al interior de zonas urbanas de las comunas de "Lota - Coronel", se establece perímetro de exclusión y dispone condiciones de operación y utilización de vías para servicios de transporte público rural prestado mediante buses que inicien o terminen sus servicios desde las comunas de Lota y Coronel hacia el interior de las ciudades del conglomerado urbano del Gran Concepción, las que se aprueban por este acto, se mantendrán vigentes hasta la aplicación de otras medidas de ordenamiento definidas por este Ministerio. Demás antecedentes y resolución íntegra pueden consultarse en www.mtt.gob.cl.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
