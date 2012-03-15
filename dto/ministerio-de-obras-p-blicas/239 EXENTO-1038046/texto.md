@@ -1,0 +1,5 @@
+Por Decreto Exento MOP Nº239 de 16 de febrero de 2012, y en base a la facultad otorgada por los artículos 14 letra e) y 105 del DFL MOP Nº850, de 1997, que fijó el texto actualizado de la ley Nº15.840 y DFL MOP Nº206, de 1960, se expropió el lote de terreno Nº3 para la obra: CAMINO: AUTOPISTA SANTIAGO - SAN ANTONIO. SEGMENTO 6: MALVILLA - AGUA BUENA, Región de Valparaíso, que figura a nombre de DOMINGA VARSOVIA MIMICA SCARPA, rol de avalúo 1101-25, comuna de Cartagena, superficie 35.958 m2. La comisión de peritos, nombrada por Resolución Expropiaciones Fiscalía Exenta Nº174 de 8 de abril de 2011, integrada por los señores Jesús Fernando Díaz Pasmiño, Carolina Claudia Verdejo Díaz y Ricardo Antonio Strickler Arellano, fijó con fecha 27 de abril de 2011, el valor provisional de la indemnización
+
+en la cantidad de $667.363.000.- La indemnización se pagará al contado. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
