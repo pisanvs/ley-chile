@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº4574, de 13 de diciembre de 2011, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. Nº142, de 31 de marzo de 2008, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº11, expropiado con motivo de la obra "Reposición Ruta E-35, Cruce Longitudinal Cabildo - Petorca, Sector III, Tramo Km. 40,40000 al Km. 57,65500". Consígnese judicialmente el monto provisional de la indemnización, fijado el 18 de junio de 2007, por la Comisión de Peritos Tasadores en la suma de $2.193.410.
+
+Fiscal del Ministerio de Obras Públicas.
