@@ -1004,7 +1004,7 @@ Prohíbese a los conductores de estos vehículos:
 
 2.- Llevar pasajeros en las pisaderas y no mantener cerradas las puertas del vehículo cuando se encuentre en movimiento;
 
-3.- Admitir individuos ebrios, desaseados, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad o cualquier clase de comercio en el vehículo;
+3.- Admitir individuos que fumen o que no guarden compostura debida, o que ejerzan la mendicidad.
 
 4.- Admitir animales, canastos, bultos o paquetes que molesten a los pasajeros o que impidan la circulación por el pasillo del vehículo. Exceptúanse de esta prohibición, los perros de asistencia que acompañen a pasajeros con discapacidad;
 
@@ -1014,17 +1014,27 @@ Prohíbese a los conductores de estos vehículos:
 
 7.- Fumar en el interior del vehículo.
 
-> **Nota.** El Nº 1 del artículo único de la LEY 20388, publicada el 07.11.2009, ordenó modificar el artículo 91 de la Ley 18290. Sin embargo, la modificación no se incorporó al texto refundido debido a que la referencia no es concordante, ya que la enumeración de los artículos en el texto refundido fue cambiada. De acuerdo a los contenidos, el texto que correspondería actualizar es el presente artículo, que quedaría como sigue: "Articulo 87.- Prohíbese a los conductores de estos vehículos: 1.- Proveerlos de combustible con personas en su interior; 2.- Llevar pasajeros en las pisaderas y no mantener cerradas las puertas del vehículo cuando se encuentre en movimiento; 3.- Admitir individuos ebrios, que fumen o que no guarden compostura debida, o que ejerzan la mendicidad; 4.- Admitir animales, canastos, bultos o paquetes que molesten a los pasajeros o que impidan la circulación por el pasillo del vehículo. Exceptúanse de esta prohibición, los perros de asistencia que acompañen a pasajeros con discapacidad. 5.- Ponerlo en movimiento o no detenerlo completamente cuando hayan pasajeros que deseen subir o bajar del vehículo; 6.- Aumentar o disminuir la velocidad del vehículo con el objeto de disputarse pasajeros, entorpeciendo la circulación y el buen servicio, y 7.- Fumar en el interior del vehículo."
+#### Artículo 87 bis
 
-> **Nota.** NOTA 1 El Nº 2 del artículo único de la LEY 20388, ordenó agregar un artículo 91 bis. De acuerdo a su contenido, dicho artículo debería quedar ubicado a continuación del artículo 87 del presente texto refundido. Su texto es el siguiente: "Articulo 87 bis.- Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones: a) Los trabajadores vendedores ambulantes independientes del transporte deberán contar con iniciación de actividades como tales ante el Servicio de Impuestos Internos. b) En el caso de que dichos trabajadores se encuentren, además, organizados y registrados como sindicato de trabajadores independientes en la Dirección del Trabajo, podrán solicitar, a su costo, la emisión de una credencial que los acredite como tales. c) Los trabajadores que ejerzan este oficio deberán acreditar el origen de las mercaderías que expendan y exhibir la copia de su iniciación de actividades, ante el requerimiento que en cualquier momento efectúe la fuerza pública. d) Las empresas de transporte urbano de pasajeros podrán acordar con los sindicatos de trabajadores independientes la emisión de credenciales que permitan el ejercicio de esta actividad. e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejercicio de esta actividad en sus respectivas máquinas, salvo si ello implica, en un momento determinado, un peligro de accidente vial, o bien entorpece de manera manifiesta y evidente la comodidad de los pasajeros, especialmente en las horas de mayor congestión. Asimismo, deberán negarse a la subida de un vendedor en paraderos no autorizados. f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor."
+Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones:
+
+a) Los trabajadores vendedores ambulantes independientes del transporte deberán contar con iniciación de actividades como tales ante el Servicio de Impuestos Internos.
+
+b) En el caso de que dichos trabajadores se encuentren, además, organizados y registrados como sindicato de trabajadores independientes en la Dirección del Trabajo, podrán solicitar, a su costo, la emisión de una credencial que los acredite como tales.
+
+c) Los trabajadores que ejerzan este oficio deberán acreditar el origen de las mercaderías que expendan y exhibir la copia de su iniciación de actividades, ante el requerimiento que en cualquier momento efectúe la fuerza pública.
+
+d) Las empresas de transporte urbano de pasajeros podrán acordar con los sindicatos de trabajadores independientes la emisión de credenciales que permitan el ejercicio de esta actividad.
+
+e) Los conductores del transporte urbano de pasajeros no podrán negarse al ejercicio de esta actividad en sus respectivas máquinas, salvo si ello implica, en un momento determinado, un peligro de accidente vial, o bien entorpece de manera manifiesta y evidente la comodidad de los pasajeros, especialmente en las horas de mayor congestión. Asimismo, deberán negarse a la subida de un vendedor en paraderos no autorizados.
+
+f) El conductor podrá exigir la exhibición de la copia de la respectiva iniciación de actividades o su certificado para permitir el ingreso de un vendedor.
 
 §2. DE LOS PASAJEROS DE VEHÍCULOS DE LOCOMOCIÓN COLECTIVA
 
 #### Artículo 88
 
-Los pasajeros tienen la obligación de pagar la tarifa, respetar las normas de comportamiento que determinan la ley, la moral y las buenas costumbres y abstenerse de ejecutar cualquier acto que impida el normal desempeño del conductor.
-
-Asimismo, les estará estrictamente prohibido fumar.
+Los pasajeros tienen la obligación de pagar la tarifa, respetar las normas de comportamiento que determinan la ley, la moral y las buenas costumbres y abstenerse de ejecutar cualquier acto que impida el normal desempeño del conductor. Este último tendrá la facultad de no admitir a personas que puedan causar problemas o desórdenes al interior del vehículo o que se encuentren en manifiesto estado de ebriedad. Asimismo, les estará estrictamente prohibido fumar.
 
 ## Título VII
 
@@ -1047,8 +1057,6 @@ El Ministerio de Transportes y Telecomunicaciones podrá licitar la función de 
 #### Artículo 91
 
 Lo dispuesto en el artículo 89 no obsta a las revisiones que decreten los Tribunales en los casos particulares que conozcan y de los controles que se practiquen en la vía pública.
-
-> **Nota.** El Nº 1 y N° 2 del artículo único de la LEY 20388, publicada el 07.11.2009 ordenó modificar el artículo 91 y agregar un artículo 91 bis en la Ley 18290. Sin embargo, dichas modificaciones no se incorporaron en este texto refundido debido a que la referencia no es concordante, ya que la enumeración de los artículos es distinta. De acuerdo a los contenidos, el texto a actualizar por la Ley 20388 correspondería al artículo 87 y el artículo adicionado a continuación de éste. Ambos textos pueden ser revisados en la nota incorporada en el artículo 87.
 
 #### Artículo 92
 
@@ -1236,9 +1244,9 @@ Se prohíbe, asimismo, la conducción de cualquier vehículo o medio de transpor
 
 Para la determinación del estado de ebriedad del imputado o del hecho de encontrarse bajo la influencia del alcohol, el tribunal podrá considerar todos los medios de prueba, evaluando especialmente el estado general del imputado en relación con el control de sus sentidos, como también el nivel de alcohol presente en el flujo sanguíneo, que conste en el informe de alcoholemia o en el resultado de la prueba respiratoria que hubiera sido practicada por Carabineros.
 
-Sin perjuicio de lo anterior, se entenderá que hay desempeño en estado de ebriedad cuando el informe o prueba arroje una dosificación igual o superior a 1,0 gramos por mil de alcohol en la sangre o en el organismo.
+Sin perjuicio de lo anterior, se entenderá que hay desempeño en estado de ebriedad cuando el informe o prueba arroje una dosificación igual o superior a 0,8 gramos por mil de alcohol en la sangre o en el organismo.
 
-Se entenderá que hay desempeño bajo la influencia del alcohol cuando el informe o prueba arroje una dosificación superior a 0,5 e inferior a 1,0 gramos por mil de alcohol en la sangre. Si la dosificación fuere menor, se estará a lo establecido en el artículo 109 y en el Nº 1 del artículo 200, si correspondiere.
+Se entenderá que hay desempeño bajo la influencia del alcohol cuando el informe o prueba arroje una dosificación superior a 0,3 e inferior a 0,8 gramos por mil de alcohol en la sangre. Si la dosificación fuere menor, se estará a lo establecido en el artículo 109 y en el Nº 1 del artículo 200, si correspondiere.
 
 #### Artículo 112
 
@@ -1888,6 +1896,10 @@ En el caso que la persona se apreste a conducir bajo la influencia del alcohol, 
 
 #### Artículo 183
 
+Carabineros podrá someter a cualquier conductor a una prueba respiratoria evidencial u otra prueba científica, a fin de acreditar la presencia de alcohol en el organismo y su dosificación, o el hecho de encontrarse la persona conduciendo bajo la influencia del alcohol o de estupefacientes o sustancias sicotrópicas o en estado de ebriedad.
+
+Con el objeto de garantizar la precisión de la prueba que se practique, ésta deberá ser realizada con instrumentos certificados por el Ministerio de Transportes y Telecomunicaciones, conforme a las características técnicas que defina el reglamento, distinguiendo entre aquellos que son capaces de detectar la conducción bajo la influencia del alcohol de los otros. En caso que en el momento de efectuarse el procedimiento de fiscalización no se encuentre disponible el instrumento para realizar la prueba, Carabineros podrá llevar al conductor a la Comisaría más cercana que cuente con dicho equipo, o podrá disponer que se realice un examen, de acuerdo a lo dispuesto en los incisos siguientes.
+
 Cuando fuere necesario someter a una persona a un examen científico para determinar la dosificación del alcohol en la sangre o en el organismo, los exámenes podrán practicarse en cualquier establecimiento de salud habilitado por el Servicio Médico Legal, de conformidad a las instrucciones generales que imparta dicho Servicio. El responsable del establecimiento arbitrará todas las medidas necesarias para que dichos exámenes se efectúen en forma expedita y para que los funcionarios de Carabineros empleen el menor tiempo posible en la custodia de los imputados que requieran la práctica de los mismos.
 
 Sin perjuicio de lo dispuesto en el artículo anterior, el conductor y el peatón que hayan tenido participación en un accidente de tránsito del que resulten lesionados o muertos serán sometidos a una prueba respiratoria o de otra naturaleza destinada a establecer la presencia de alcohol o de sustancias estupefacientes o sicotrópicas en sus cuerpos. En esos casos, los funcionarios de Carabineros deberán practicar al conductor y peatón las pruebas respectivas y, de carecer en el lugar de los elementos técnicos necesarios para ello, o de proceder la práctica de la alcoholemia, los llevarán de inmediato al establecimiento de salud más próximo. Se aplicarán al efecto las reglas del inciso precedente.
@@ -1946,7 +1958,7 @@ El que instale señales de tránsito o barreras sin estar facultado para ello, s
 
 #### Artículo 192
 
-Será castigado con presidio menor en su grado medio a máximo y, en su caso, con la suspensión de la licencia de conductor o inhabilidad para obtenerla, hasta por 5 años, el que:
+Será castigado con presidio menor en su grado medio a máximo y, en su caso, con la suspensión de la licencia de conductor o inhabilidad para obtenerla, hasta por 5 años, y multa de 50 a 100 unidades tributarias mensuales, el que:
 
 a) Falsifique una licencia de conductor, boleta de citación, o un permiso provisorio o cualquier certificado o documento requerido por esta ley para obtenerlos;
 
@@ -1968,17 +1980,19 @@ Las penas señaladas en este artículo se aplicarán también al responsable de 
 
 #### Artículo 193
 
-El que infringiendo la prohibición establecida en el inciso segundo del artículo 110, conduzca, opere o desempeñe las funciones bajo la influencia del alcohol, ya sea que no se ocasione daño alguno ni lesiones, o que con ello se causen daños materiales o lesiones leves, será sancionado con multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por un mes.
+El que, infringiendo la prohibición establecida en el inciso segundo del artículo 110, conduzca, opere o desempeñe las funciones bajo la influencia del alcohol, será sancionado con multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por tres meses. Si a consecuencia de esa conducción, operación o desempeño, se causaren daños materiales o lesiones leves, será sancionado con una multa de una a cinco unidades tributarias mensuales y la suspensión de la licencia de conducir por seis meses. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor a siete días.
 
-Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones menos graves, se impondrá la pena de prisión en su grado mínimo o multa de cuatro a diez unidades tributarias mensuales y la suspensión de la licencia de conducir de dos a cuatro meses.
+Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones menos graves, se impondrá la pena de prisión en su grado mínimo o multa de cuatro a diez unidades tributarias mensuales y la suspensión de la licencia de conducir por nueve meses.
 
-Si se causaren lesiones graves, la pena asignada será aquélla señalada en el artículo 490, Nº 2, del Código Penal y la suspensión de la licencia de conducir de cuatro a ocho meses.
+Si se causaren lesiones graves, la pena asignada será aquélla señalada en el artículo 490, Nº 2, del Código Penal y la suspensión de la licencia de conducir de dieciocho a treinta y seis meses.
 
-Si se causaren algunas de las lesiones indicadas en el artículo 397, Nº 1, del Código Penal o la muerte, se impondrá la pena de reclusión menor en su grado máximo, multa de ocho a quince unidades tributarias mensuales y la suspensión de la licencia para conducir por el plazo que determine el juez, el que no podrá ser inferior a doce ni superior a veinticuatro meses.
+Si se causaren algunas de las lesiones indicadas en el artículo 397, Nº 1, del Código Penal o la muerte, se impondrá la pena de reclusión menor en su grado máximo, multa de veintiuno a treinta unidades tributarias mensuales y la suspensión de la licencia para conducir por el plazo que determine el juez, el que no podrá ser inferior a treinta y seis ni superior a sesenta meses.
 
-Los jueces podrán siempre, aunque no medie condena por concurrir alguna circunstancia eximente de responsabilidad penal, decretar la inhabilidad temporal o perpetua para conducir vehículos motorizados, si las condiciones psíquicas y morales del autor lo aconsejan.
+INCISO ELIMINADO.
 
-En caso de reincidencia el infractor sufrirá, además de la pena que le corresponda, la suspensión de la licencia para conducir por el tiempo que estime el juez, el que no podrá ser inferior a veinticuatro ni superior a cuarenta y ocho meses.
+En caso de reincidencia el infractor sufrirá, además de la pena que le corresponda, la suspensión de la licencia para conducir por el tiempo que estime el juez, el que no podrá ser inferior a cuarenta y ocho ni superior a setenta y dos meses.
+
+Las penas de multas de este artículo podrán siempre ser reemplazadas, a voluntad del infractor, por trabajos a favor de la comunidad y la asistencia a charlas sobre la conducción bajo los efectos del alcohol o estupefacientes, las que serán impartidas por el respectivo municipio.
 
 #### Artículo 194
 
@@ -1992,17 +2006,13 @@ El incumplimiento, a sabiendas, de lo señalado en el artículo 168 será sancio
 
 #### Artículo 196
 
-El que infrinja la prohibición establecida en el inciso segundo del artículo 110, cuando la conducción, operación o desempeño fueren ejecutados en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, será sancionado con la pena de presidio menor en su grado mínimo y multa de dos a diez unidades tributarias mensuales, ya sea que no se ocasione daño alguno, o que con ello se causen daños materiales o lesiones leves. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor de siete días.
+El que infrinja la prohibición establecida en el inciso segundo del artículo 110, cuando la conducción, operación o desempeño fueren ejecutados en estado de ebriedad, o bajo la influencia de sustancias estupefacientes o sicotrópicas, será sancionado con la pena de presidio menor en su grado mínimo y multa de dos a diez unidades tributarias mensuales, además de la suspensión de la licencia para conducir vehículos motorizados por el término de dos años, si fuese sorprendido en una primera ocasión, la suspensión por el término de cinco años, si es sorprendido en un segundo evento y, finalmente, con la cancelación de la licencia al ser sorprendido en una tercera ocasión, ya sea que no se ocasione daño alguno, o que con ello se causen daños materiales o lesiones leves. Se reputarán leves, para estos efectos, todas las lesiones que produzcan al ofendido enfermedad o incapacidad por un tiempo no mayor de siete días.
 
-Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones graves o menos graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales.
+Si, a consecuencia de esa conducción, operación o desempeño, se causaren lesiones graves o menos graves, se impondrá la pena de presidio menor en su grado medio y multa de cuatro a doce unidades tributarias mensuales, además de la suspensión de la licencia de conducir por el término de treinta y seis meses en el caso de producirse lesiones menos graves, y de cinco años en el caso de lesiones graves. En caso de reincidencia, el juez deberá decretar la cancelación de la licencia.
 
-Si se causaren algunas de las lesiones indicadas en el artículo 397 Nº 1 del Código Penal o la muerte de una o más personas, se impondrán las penas de presidio menor en su grado máximo y multa de ocho a veinte unidades tributarias mensuales.
+Si se causaren algunas de las lesiones indicadas en el artículo 397 Nº 1 del Código Penal o la muerte de una o más personas, se impondrán las penas de presidio menor en su grado máximo y multa de ocho a veinte unidades tributarias mensuales, además de la pena de inhabilidad perpetua para conducir vehículos de tracción mecánica.
 
-El tribunal, en todo caso, podrá hacer uso de la facultad que le confiere el inciso final del artículo 193.
-
-Enlos delitos previstos en este artículo se aplicarán como pena accesoria la suspensión de la licencia para conducir vehículos motorizados por el término de seis meses a un año; de uno a dos años, si se causaren lesiones menos graves o graves, de dos a cuatro años, si resultare la muerte. En caso de reincidencia, los plazos máximos señalados en este inciso se elevarán al doble, debiendo el juez decretar la cancelación de la licencia cuando estime que la conducción de vehículos por parte del infractor ofrece peligro para el tránsito o para la seguridad pública; lo que fundará en las anotaciones que registre la hoja de vida del conductor o en razones médicas debidamente comprobadas.
-
-Las medidas indicadas en el inciso precedente no podrán ser suspendidas, ni aun cuando el juez hiciere uso de la facultad contemplada en el artículo 398 del Código Procesal Penal. Sin embargo, cumplidos a lo menos seis años desde que se canceló la licencia de conducir, el juez podrá alzar esa medida cuando nuevos antecedentes permitan estimar fundadamente que ha desaparecido el peligro para el tránsito o para la seguridad pública que importaba la conducción de vehículos motorizados por el infractor.
+INCISOS DEROGADOS.
 
 #### Artículo 197
 
@@ -2012,9 +2022,9 @@ Tratándose de procedimientos por faltas, el fiscal podrá solicitar la aplicaci
 
 Para los efectos de la aplicación del artículo 395 del Código Procesal Penal, el juez deberá informar al imputado todas las penas copulativas y accesorias que de acuerdo a la ley pudieren imponérsele, cualquiera sea su naturaleza.
 
-En el caso de los delitos de conducción, operación o desempeño en estado de ebriedad o bajo la influencia de sustancias estupefacientes o sicotrópicas, el juez de garantía podrá decretar, de conformidad a las reglas del Código Procesal Penal, la medida cautelar de retención del carné, permiso o licencia de conductor del imputado, por un plazo que no podrá ser superior a seis meses.
+En el caso de los delitos de conducción, operación o desempeño en estado de ebriedad o bajo la influencia de sustancias estupefacientes o sicotrópicas, el tribunal, a petición del fiscal, el querellante o la víctima, podrá decretar la medida cautelar de suspensión provisoria de la licencia de conducir desde que se realice la audiencia de control de detención, debiendo quedar constancia en la hoja de vida del conductor. El tiempo que medie entre dicha audiencia y la dictación de la sentencia se imputará a la condena.
 
-Asimismo, en los procedimientos por estos delitos, el fiscal podrá solicitar al juez de garantía la suspensión del procedimiento, reuniéndose los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer, además de cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, la suspensión de la licencia para conducir por un plazo no menor de seis meses ni superior a un año.
+Asimismo, en los procedimientos por los delitos a que se refiere el inciso primero, el fiscal podrá solicitar al juez de garantía la suspensión del procedimiento, reuniéndose los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, debiendo siempre decretar la suspensión, cancelación o inhabilitación perpetua, conforme a lo establecido en los artículos 193 y 196, según corresponda. En estos delitos no procederá la atenuante de responsabilidad penal contenida en el artículo 11 N° 7ª del Código Penal.
 
 Tratándose del procedimiento simplificado, la suspensión condicional del procedimiento podrá solicitarse en la audiencia que se llevare a efecto de acuerdo con el artículo 394 del Código Procesal Penal.
 
@@ -2025,6 +2035,12 @@ Si del resultado de la prueba se desprende que se ha incurrido en la conducción
 Lo establecido en el inciso anterior procederá siempre que el imputado tuviere control sobre sus actos, o lo recuperare, y se asegure que no continuará conduciendo. Para ello, la policía adoptará las medidas necesarias para informar a la familia del imputado o a las personas que él indique acerca del lugar en el que se encuentra, o bien le otorgará las facilidades para que se comunique telefónicamente con alguna de ellas, a fin de que sea conducido a su domicilio, bajo su responsabilidad. Podrá emplearse en estos casos el procedimiento señalado en el inciso final del artículo 7, en lo que resultare aplicable.
 
 Si no concurrieren las circunstancias establecidas en los dos incisos precedentes, se mantendrá detenido al imputado para ponerlo a disposición del tribunal, el que podrá decretar la prisión preventiva cuando procediere de acuerdo con las reglas generales. Sin perjuicio de la citación al imputado, o de su detención cuando corresponda, aquél será conducido a un establecimiento hospitalario para la práctica de los exámenes a que se refiere el artículo 183.
+
+Las penas de suspensión, cancelación o inhabilitación perpetua para conducir vehículos a tracción mecánica o animal, no podrán ser suspendidas, ni aun cuando el juez hiciere uso de la facultad contemplada en el artículo 398 del Código Procesal Penal.
+
+#### Artículo 197 bis
+
+Los jueces podrán siempre, aunque no medie condena por concurrir alguna circunstancia eximente de responsabilidad penal, decretar la inhabilidad temporal o perpetua para conducir vehículos motorizados, si las condiciones psíquicas y morales del autor lo aconsejan.
 
 #### Artículo 198
 
@@ -2244,7 +2260,7 @@ Las multas señaladas en los artículos anteriores, no estarán afectas a recarg
 
 Los distintivos y dispositivos que se utilicen en contravención a la ley o los reglamentos y los taxímetros que se usen adulterados, caerán en comiso y serán destruidos.
 
-### 3. DE LA SUSPENSION Y CANCELACION DE LA LICENCIA DE CONDUCTOR
+§ 3. DE LA SUSPENSIÓN E INHABILITACIÓN PARA CONDUCIR VEHÍCULOS A TRACCIÓN MECÁNICA Y LA CANCELACIÓN DE LA LICENCIA DE CONDUCTOR.
 
 (ARTS. 207 - 209)
 
@@ -2258,23 +2274,23 @@ b) Tratándose de procesos por acumulación de infracciones, al responsable de d
 
 #### Artículo 208
 
+La pena de suspensión para conducir vehículos de tracción mecánica o animal conlleva la imposibilidad de usarla durante el tiempo de la condena; la de inhabilitación para conducir vehículos de tracción mecánica o animal conlleva la cancelación de la licencia de conducir o la imposibilidad de obtenerla.
+
 Sin perjuicio de las multas que sean procedentes y de lo señalado en los artículos 193 y 196, el juez decretará la cancelación de la licencia de conducir del infractor, en los siguientes casos:
 
-a) Ser responsable por tres veces dentro de los últimos 12 meses de conducir un vehículo bajo la influencia del alcohol o ser responsable por tres veces dentro de los últimos 24 meses de conducir en estado de ebriedad o bajo el efecto de estupefacientes o sustancias sicotrópicas;
+a) Ser responsable, durante los últimos doce meses, de tres o más infracciones o contravenciones gravísimas;
 
-b) Ser reincidente, dentro de los últimos sesenta meses, en cuasidelito de homicidio o de lesiones con alguno de los resultados señalados en el número 1º del artículo 397 del Código Penal o por conducir vehículos motorizados o a tracción animal en estado de ebriedad o con pérdida notoria de conciencia debido al consumo de estupefacientes o sustancias sicotrópicas;
-
-c) Ser responsable, durante los últimos doce meses, de tres o más infracciones o contravenciones gravísimas;
-
-d) Haber sido condenado con la suspensión de la licencia de conducir por tres veces dentro de los últimos doce meses, o cuatro veces dentro de los últimos veinticuatro meses.
+b) Haber sido condenado con la suspensión de la licencia de conducir por tres veces dentro de los últimos doce meses, o cuatro veces dentro de los últimos veinticuatro meses.
 
 El infractor, transcurridos que sean dos años desde la fecha de cancelación de su licencia de conducir, podrá solicitar una nueva al Departamento de Tránsito y Transporte Público de la municipalidad de su domicilio, de acuerdo a las normas establecidas en el Título I de esta ley, salvo que la sentencia condenatoria haya impuesto una pena superior, en cuyo caso regirá ésta.
 
+En los casos que, como consecuencia de la aplicación de lo dispuesto en los artículos 193 y 196, se hubiere cancelado la licencia de conducir, el juez, transcurridos doce años desde que se canceló la licencia, podrá alzar esta medida cuando nuevos antecedentes permitan estimar fundadamente que ha desaparecido el peligro para el tránsito o para la seguridad pública que importaba la conducción de vehículos motorizados por el infractor.
+
 #### Artículo 209
 
-El que haya sido sancionado con la cancelación de su licencia de conductor y que, no obstante ello, sea sorprendido conduciendo un vehículo, será castigado con la pena de presidio menor en su grado mínimo y multa de hasta quince unidades tributarias mensuales.
+El conductor que hubiere sido condenado a las penas de suspensión o inhabilitación perpetua para conducir vehículos de tracción mecánica o animal, y fuere sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta, será castigado con prisión en su grado máximo y multa de hasta diez unidades tributarias mensuales.
 
-Si el conductor hubiese sido sancionado con la suspensión de su licencia y es sorprendido conduciendo un vehículo durante la vigencia de la sanción impuesta será castigado con prisión en su grado máximo y multa de hasta diez unidades tributarias mensuales.
+Si los delitos a que se refieren los artículos 193 y 196 de la presente ley, fueren cometidos por quien no haya obtenido licencia de conducir, o que, teniéndola, hubiese sido cancelada o suspendida, el tribunal deberá aumentar la pena en un grado.
 
 ## Título XVIII
 

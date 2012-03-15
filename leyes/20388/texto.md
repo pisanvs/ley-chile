@@ -12,9 +12,9 @@ Modifícase la ley N°18.290, de Tránsito, de la siguiente forma:
 
 1. Elimínanse en el N°3 del artículo 91, la expresión "desaseados," y la frase final "o cualquier clase de comercio en el vehículo".
 
-2. Incorpórase el siguiente artículo 91 bis, nuevo:
+2. Incorpórase el siguiente artículo 87 bis, nuevo:
 
-#### Artículo 91 bis
+#### Artículo 87 bis
 
 Se podrá ejercer el comercio o actividades artísticas a bordo de vehículos de transporte urbano de pasajeros, en las siguientes condiciones:
 
