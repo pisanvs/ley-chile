@@ -18,7 +18,7 @@ Resuelvo:
 
 2. Toda persona que sospeche o compruebe la existencia de Lobesia botrana, deberá dar aviso de inmediato al SAG, en forma verbal o por escrito.
 
-3. Fíjase como área reglamentada la zona definida por un radio de 3 Km. determinado desde cada lugar de detección
+3. Fíjase como área reglamentada la zona definida por un radio de 3 km. determinado desde cada brote de la plaga Lobesia botrana que se verifique en vid (Vitis vinifera).
 
 4. Facúltese a los Directores Regionales del SAG para notificar a los propietarios, arrendatarios o tenedores de los predios afectados las medidas fitosanitarias que regula la presente resolución, su forma de implementación, los plazos para su cumplimiento y el medio de notificación. El costo de la aplicación de las medidas fitosanitarias será de cargo de los afectados.
 
