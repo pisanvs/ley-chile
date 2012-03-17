@@ -302,11 +302,13 @@ Los Prácticos Autorizados que participan en la maniobra respectiva percibirán 
 
 La nave que estando obligada a emplear los servicios de practicaje realizare la maniobra sin su intervención, pagará el doble de la Tarifa correspondiente.
 
+Lo dispuesto no será aplicable a aquellas naves que a consecuencia de una alarma de tsunami, deban zarpar sin mayor demora y sin práctico, con el objeto de asegurar la vida de la dotación, la propia nave o las instalaciones portuarias.
+
 > **Nota.** El Nº 2 del Art. único del DTO 329, Defensa, publicado el 19.04.2002, dispuso que la presente modificación entrará en vigor 30 días después de su publicación en el Diario Oficial.
 
 #### Artículo 305
 
-ELIMINADO
+No estarán afectas a cobro de practicaje, las naves que deban zarpar de los puertos de la República a consecuencia de alarma de tsunami, conforme a lo señalado en el artículo 151, letra e), del decreto supremo (M) Nº 1.340 bis de 14.jun.1941, "Reglamento General de Orden, Seguridad y Disciplina en las Naves y Litoral de la República.
 
 #### Artículo 306
 

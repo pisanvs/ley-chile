@@ -84,6 +84,10 @@ Los documentos que deben adjuntarse a la Declaración General son aquellos que e
 
 En puertos intermedios, la Autoridad Marítima podrá conceder la recepción y el despacho de la nave, con el solo examen documental de sus antecedentes presentados por el capitán, armador o agente, si no merecieren observaciones.
 
+#### Artículo 8° bis
+
+Cuando a consecuencia de una alerta o alarma de tsunami en las costas de Chile, las naves deban hacerse a la mar sin cumplir con las formalidades del despacho, la Autoridad Marítima local comunicará dicha circunstancia a la autoridad del próximo puerto. Tratándose de naves que se dirigen a puertos extranjeros, será la Dirección General del Territorio Marítimo y de Marina Mercante, la que comunicará dicha circunstancia a la Autoridad Marítima Nacional del puerto de destino de la nave.
+
 #### Artículo 9°
 
 Todo buque o nave perteneciente a la marina de guerra de algún país extranjero, que efectúe tráfico comercial, deberá solicitar por la vía diplomática y en forma previa a su ingreso en aguas de jurisdicción nacional, la autorización para su admisión. En cuanto a su permanencia, serán considerados como buques de guerra en visita no oficial, y su tratamiento será el mismo que se dé a los buques de guerra chilenos en el país de origen del respectivo buque o nave.

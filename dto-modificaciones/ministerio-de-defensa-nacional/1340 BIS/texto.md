@@ -862,7 +862,7 @@ Los que infrinjan esta disposición serán sancionados con multas por el capitá
 
 ## Capítulo XVIII
 
-Mal tiempo
+MAL TIEMPO Y EMERGENCIAS
 
 #### Artículo 147
 
@@ -889,6 +889,10 @@ a) Cuando reinen temporales, bravezas de mar, densas neblinas, cerrazones lluvio
 b) Cuando por razón de guerra exterior o conmociones civiles internas, lo decrete así el Gobierno de la República.
 
 c) Cuando por alguna causa extraordinaria, como ser: ras de mareas, temblores de tierra, derrumbe o hundimiento de las obras de abrigo del puerto u otro fenómeno anormal, puedan surgir peligros para la navegación, haciéndose necesario un reconocimiento de los efectos reales que haya tenido el fenómeno en la localidad.
+
+d) Cuando a consecuencia de un terremoto, la autoridad competente decrete alerta de tsunami en las costas de Chile, caso en el cual, además el o los Capitanes de Puerto de las áreas comprendidas en la alerta, comunicarán a las agencias de naves, operadores portuarios y empresas portuarias de su jurisdicción, la resolución adoptada por la autoridad y recomendarán las medidas que convenga adoptar, entre las cuales se podrá incluir la suspensión de las faenas marítimo portuarias, el cierre del puerto y eventualmente el zarpe de naves mayores atracadas y/o amarradas a los muelles y terminales marítimos de su jurisdicción.
+
+e) Cuando a consecuencia de un terremoto, la autoridad competente decretare una alarma de tsunami en las costas de Chile y cuando a consecuencia de dicha alarma, se dispusiere la evacuación de la zona costera, ya sea a nivel nacional o en determinadas zonas del país, caso en el cual, los respectivos Capitanes de Puerto de las áreas sometidas a evacuación, notificarán a las agencias de naves, operadores portuarios y empresas portuarias de su jurisdicción, la medida adoptada por la autoridad y dispondrán la suspensión de las faenas marítimo portuarias, el cierre del puerto y el zarpe de las naves mayores atracadas y/o amarradas a los muelles y terminales marítimos de su jurisdicción.
 
 #### Artículo 152
 
