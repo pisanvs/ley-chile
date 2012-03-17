@@ -102,6 +102,12 @@ Los documentos que deben adjuntarse a la Declaración General son aquellos que e
 
 En puertos intermedios, la Autoridad Marítima podrá conceder la recepción y el despacho de la nave, con el solo examen documental de sus antecedentes presentados por el capitán, armador o agente, si no merecieren observaciones.
 
+#### Artículo 8° bis
+
+<!-- parte:9242711 -->
+
+Cuando a consecuencia de una alerta o alarma de tsunami en las costas de Chile, las naves deban hacerse a la mar sin cumplir con las formalidades del despacho, la Autoridad Marítima local comunicará dicha circunstancia a la autoridad del próximo puerto. Tratándose de naves que se dirigen a puertos extranjeros, será la Dirección General del Territorio Marítimo y de Marina Mercante, la que comunicará dicha circunstancia a la Autoridad Marítima Nacional del puerto de destino de la nave.
+
 #### Artículo 9°
 
 <!-- parte:8973818 -->
