@@ -82,21 +82,15 @@ Públicas de la Pontificia Universidad Católica de
 
 Chile.
 
-### 2. Benito Baranda Ferrán, del Hogar de Cristo
+### 2. Verónica Monroy Herrera, del Hogar de Cristo
 
 ### 3. Verónica Figueroa Huencho, de la CONADI
 
-### 4. María Isabel Bastías Bermúdez, de la Federación
+### 4. Olga San Martín Pulgar, Centro de Madres Santa Ana
 
-Metropolitana de Uniones Comunales.
+### 5. Nayda Haydee Valdés Carvajal, Junta de Vecinos Villa Chiloé Puente Alto
 
-### 5. Osmán Brichetto Aguilera, de la Confederación
-
-Nacional de Uniones Comunales de Juntas de Vecinos.
-
-### 6. María Inés de Ferrari Zaldívar, de la Corporación
-
-Participa.
+### 6. José Manuel de Ferrari, Corporación Participa
 
 ### 7. Pablo Lira Rojas, del Instituto Libertad
 
