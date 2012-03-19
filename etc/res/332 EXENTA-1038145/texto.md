@@ -1,0 +1,7 @@
+DELEGA FACULTADES QUE SEÑALA EN FUNCIONARIOS QUE INDICA
+
+Mediante resolución Ex. RCO3.00 Nº 332, de 8 de marzo de 2012, de la Dirección Regional de Copiapó del Servicio de Impuestos Internos, en virtud de lo dispuesto en la letra c) del artículo 19 y en el artículo 20 del DFL Nº 7, de 1980, del Ministerio de Hacienda, que fija el texto de la Ley Orgánica del Servicio de Impuestos Internos; lo establecido en el artículo 41 de la ley Nº 18.575, sobre Ley Orgánica Constitucional de Bases Generales de la Administración del Estado; lo previsto en los Nos 5 y 7 de la letra B del artículo 6º y artículos 83 y 87 del Código Tributario; lo dispuesto en la ley Nº 17.235; lo preceptuado en la resolución Nº 1.600, de 2008, de la Contraloría General de la República, sobre exención del trámite de toma de razón; y lo preceptuado en resolución exenta Nº 622, de 21 de febrero de 2012, se dictó resolución que delega en el Jefe Regional del Departamento de Avaluaciones y en los Jefes de Unidad de Vallenar y Chañaral la facultad de requerir información a las municipalidades, conforme a lo previsto en los artículos 83 y 87 del Código Tributario, y/o dar respuesta a los requerimientos de información de éstas, en los casos que ello sea pertinente, en el curso de la tramitación de los procedimientos administrativos referidos en la circular Nº 14, de 2012.
+
+El texto íntegro de este documento está publicado en www.sii.cl.-
+
+Claudio Rodríguez González, Director Regional.
