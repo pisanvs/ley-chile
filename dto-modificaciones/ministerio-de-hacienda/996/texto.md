@@ -1,0 +1,85 @@
+MODIFICA DECRETO Nº 793, DE 2004, QUE AUTORIZA A CORFO PARA CONTRAER OBLIGACIONES INDIRECTAS, COBERTURAS O SUBSIDIOS CONTINGENTES QUE SE INDICAN Y APRUEBA NUEVO TEXTO REFUNDIDO
+
+Núm. 996.- Santiago, 18 de julio de 2011.- Vistos: Lo solicitado por la Corporación de Fomento de la Producción contenida en oficio Nº 5.872, de 24 de junio de 2011; el artículo 25 de la ley Nº 6.640; el artículo 10 letra l) del decreto supremo Nº 360, de 1945, del ex Ministerio de Economía y Comercio; el artículo 44 del DL Nº 1.263, de 1975; el artículo 32 número 6 de la Constitución Política de la República de Chile; el artículo 3 del DL 1.056, de 1975; el decreto supremo Nº 793, de 2004, del Ministerio de Hacienda, y sus modificaciones posteriores; y la resolución Nº 1.600, de la Contraloría General de la República, de 2008:
+
+Decreto:
+
+#### Artículo primero
+
+Modifícase el artículo 7 bis del decreto supremo Nº 793, de 2004, del Ministerio de Hacienda, de la siguiente forma:
+
+1) Reemplácese el texto de la letra a) del inciso primero por el siguiente:
+
+"a) $110.200.000.000 (ciento diez mil doscientos millones de pesos) para coberturas o subsidios contingentes destinados al desarrollo de alternativas de créditos de fomento productivo (inversiones y capital de trabajo), incluyendo las líneas de crédito, que los bancos y otros intermediarios financieros otorguen a las empresas privadas de menor tamaño a que se refiere la ley Nº 20.416 (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y servicios. Sin perjuicio de lo anterior, para el caso de empresas que inviertan con fines productivos y/o de servicios en tierras administradas a cualquier título por las personas naturales indígenas o las comunidades indígenas, o de propiedad de éstas, a que se refiere la ley Nº 19.253, de 1993, y el decreto supremo Nº 392, de 24 de noviembre de 1993, del Ministerio de Planificación, no aplicará límite de venta alguno. Esta cobertura estará destinada a responder parcialmente por los créditos de fomento productivo que los bancos y otros intermediarios financieros otorguen a las empresas privadas y que no fueren pagados por éstas.".
+
+2) Las letras d), f), g), h), i), j), k) y l), pasan a denominarse, respectivamente, b), c), d), e), f), g), h) e i).
+
+3) Reemplácese el inciso segundo por el siguiente texto:
+
+"Lo dispuesto en los artículos 1º, 2º, 3º, 4º, 5º y 6º del presente decreto, será aplicable a cada uno de los instrumentos especiales de cobertura señalados en las letras a), b), c), d), e), f), g), h) e i) precedentes, cuyas operaciones serán llevadas en cuenta o registro financiero separado e independiente.".
+
+#### Artículo segundo
+
+Atendidas sus sucesivas modificaciones, incluidas las dispuestas por el artículo precedente, apruébase un nuevo texto refundido del decreto supremo Nº 793, de 2004, del Ministerio de Hacienda y reemplazándolo a partir de su artículo 1º, por el siguiente:
+
+#### Artículo 1º
+
+Autorízase a la Corporación de Fomento de la Producción para contraer obligaciones indirectas, coberturas y subsidios contingentes, hasta por el equivalente a 10 veces el monto del Fondo de Cobertura de Riesgos contemplado en las partidas correspondientes al Presupuesto de la Corporación dentro del Presupuesto del Sector Público de cada año, sin que para ello sea necesaria la constitución de contragarantías en su favor.
+
+#### Artículo 2º
+
+Las obligaciones que asuma la Corporación, con cargo al Fondo de Cobertura de Riesgos, tendrán por finalidad facilitar el acceso a los créditos que otorguen los bancos e intermediarios financieros en relación con el financiamiento de inversiones, de exportaciones, de estudios superiores, la reprogramación de pasivos y, en general, con el financiamiento de actividades productivas de bienes y servicios. Asimismo, con cargo a dicho fondo, podrán asumirse obligaciones indirectas, coberturas o subsidios contingentes ya sea relacionados con el desarrollo o fomento de operaciones respecto de toda clase de derivados en el mercado local sobre moneda extranjera para mitigar los efectos de la volatilidad del tipo de cambio, o con cuotas, títulos de deudas, derechos o participación, emitidos o representativos por o de fondos de inversión a que se refiere la ley Nº 18.815 o por cualquier otro fondo, cuenta o patrimonio separado creado o reconocido por ley.
+
+#### Artículo 3º
+
+El monto del Fondo de Cobertura de Riesgos se incrementará por el producto de las inversiones realizadas de conformidad al artículo 5, por las comisiones que se perciban y por las recuperaciones que se obtengan de las obligaciones pagadas por la Corporación, y que sean resultado de la cobranza del crédito respectivo realizada por ella misma o a través de los intermediarios financieros, ya sea mediante la liquidación de garantías o del ejercicio de sus demás derechos como acreedores. A su vez, el monto del Fondo se rebajará por las sumas que la Corporación deba pagar como consecuencia de las obligaciones indirectas contraídas.
+
+#### Artículo 4º
+
+Del monto total de los compromisos asumidos por la Corporación, se descontarán las amortizaciones que se hicieren a los créditos que, otorgados por los intermediarios financieros, se encuentren amparados por las obligaciones indirectas, coberturas o subsidios contingentes a que se ha hecho referencia en los artículos anteriores, de igual manera, se descontarán los montos correspondientes a los créditos y las participaciones que hayan quedado sin efecto total o parcialmente.
+
+#### Artículo 5º
+
+El monto disponible del Fondo de Cobertura de Riesgos, que constituyan excedentes estacionales de caja, deberá ser invertido por la Corporación en el mercado de capitales en instrumentos de renta fija.
+
+#### Artículo 6º
+
+Los requisitos, condiciones, modalidades de pago y demás características de las obligaciones indirectas, las coberturas o los subsidios contingentes a que se refiere el presente decreto, serán establecidos por la Corporación de Fomento de la Producción, de acuerdo a las facultades que le otorga su Ley Orgánica.
+
+#### Artículo 7º
+
+La presente autorización se entenderá también concedida para los años 2005 y siguientes en la medida que las respectivas leyes de presupuesto contemplen recursos para estos fines y por los montos y márgenes de endeudamiento que en ellas se indiquen. El monto total del Fondo de Cobertura de Riesgos fijado para el año 2004 asciende a M$46.000.000 (cuarenta y seis mil millones de pesos).
+
+#### Artículo 7º bis
+
+Sin perjuicio de lo dispuesto en el artículo 7º, el Fondo de Cobertura de Riesgos considerará un monto adicional para los siguientes instrumentos especiales de cobertura por los montos que en cada caso se indican:
+
+a) $110.200.000.000.- (ciento diez mil doscientos millones de pesos) para coberturas o subsidios contingentes destinados al desarrollo de alternativas de créditos de fomento productivo (inversiones y capital de trabajo), incluyendo las líneas de crédito, que los bancos y otros intermediarios financieros otorguen a las empresas privadas de menor tamaño a que se refiere la ley Nº 20.416 (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y servicios. Sin perjuicio de lo anterior, para el caso de empresas que inviertan con fines productivos y/o de servicios en tierras administradas a cualquier título por las personas naturales indígenas o las comunidades indígenas, o de propiedad de éstas, a que se refiere la ley Nº 19.253, de 1993, y el decreto supremo Nº 392, de 24 de noviembre de 1993, del Ministerio de Planificación, no aplicará límite de venta alguno. Esta cobertura estará destinada a responder parcialmente por los créditos de fomento productivo que los bancos y otros intermediarios financieros otorguen a las empresas privadas y que no fueren pagados por éstas.
+
+b) $32.826.700.000.- (treinta y dos mil ochocientos veintiséis millones setecientos mil pesos) para coberturas o subsidios contingentes destinados al desarrollo o fomento de operaciones que los bancos y otros intermediarios financieros celebren u otorguen a empresas privadas de menor tamaño a que se refiere la ley Nº 20.416, para el financiamiento de sus inversiones o necesidades de capital de trabajo en general, y/o para operaciones destinadas a mitigar los efectos de la volatilidad del tipo de cambio celebradas respecto de toda clase de derivados en el mercado local sobre moneda extranjera, y en todos los casos, en relación directa o indirecta con operaciones de comercio exterior. Sin perjuicio de lo anterior, para el caso de empresas exportadoras podrá permitirse un nivel de ventas anuales netas de hasta UF 450.000, así como para el caso de empresas que inviertan con fines productivos y/o de servicios en tierras administradas a cualquier título por las personas naturales indígenas o las comunidades indígenas, o de propiedad de éstas, a que se refiere la ley Nº 19.253, de 1993, y el decreto supremo Nº 392, de 24 de noviembre de 1993, del Ministerio de Planificación, no aplicará límite de venta alguno. Esta cobertura estará destinada a responder parcialmente por las operaciones de comercio exterior que los bancos y otros intermediarios financieros celebren u otorguen a las empresas privadas y que no fueren pagadas por éstas.
+
+c) $80.400.000.000.- (ochenta mil cuatrocientos millones de pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de financiamientos que los bancos y otros intermediarios financieros otorguen a personas naturales o jurídicas de la industria del cluster del salmón, sean empresas salmoneras o empresas que provean bienes y/o servicios a las anteriores. Esta cobertura estará destinada a responder parcialmente por los créditos que los bancos y otros intermediarios financieros otorguen a los beneficiarios finales señalados para financiar proyectos que permitan mejorar las condiciones de manejo sanitario y ambiental de los cultivos de salmón en el país y que no fueren pagados por éstos.
+
+d) $31.500.000.000.- (treinta y un mil quinientos millones de pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de consolidación, refinanciamiento o reprogramación que los bancos y otros intermediarios financieros otorguen a empresas privadas de menor tamaño a que se refiere la ley Nº 20.416 (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y servicios, destinadas a reprogramar, refinanciar o consolidar sus pasivos vigentes contraídos con un intermediario financiero, siempre que se encuentren al día o en mora temprana al momento de efectuada la reprogramación, refinanciamiento o consolidación. Se podrá además acoger a la cobertura los créditos destinados a reprogramar, refinanciar o consolidar los pasivos vigentes adeudados a un acreedor no financiero, sin necesidad de atender a sus niveles de morosidad. Esta cobertura estará destinada a responder parcialmente por los créditos de refinanciamiento de toda clase de pasivos que los bancos y otros intermediarios financieros otorguen a las empresas privadas y que no fueren pagados por éstas.
+
+e) $28.619.500.000.- (Veintiocho mil seiscientos diecinueve millones quinientos mil pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de refinanciamientos que los bancos o sus filiales (con la sola excepción de las filiales de factoring), otorguen a grandes empresas, constituidas por personas naturales o jurídicas con ventas superiores a UF 200.000 y hasta por UF 500.000 al año, excluido el IVA, destinadas a reprogramar sus créditos vigentes que se encuentren al día o en mora temprana, y en ningún caso vencidos al momento de efectuada la reprogramación. Esta cobertura estará destinada a responder parcialmente por los créditos que los bancos otorguen a los beneficiarios finales señalados para posibilitarles la consolidación y reprogramación de sus pasivos, mediante el refinanciamiento a largo plazo de dichas obligaciones crediticias.
+
+f) $5.972.565.223.- (cinco mil novecientos setenta y dos millones quinientos sesenta y cinco mil doscientos veintitrés pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de financiamiento que los bancos otorguen a las siguientes Instituciones de Educación Superior reconocidas por el Ministerio de Educación: Universidades, Institutos Profesionales y Centros de Formación Técnica, destinados a financiar las necesidades de tales instituciones derivadas de la actual coyuntura económica.
+
+g) $551.700.000.- (quinientos cincuenta y un millones setecientos mil pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de créditos que los intermediarios financieros otorguen a las empresas privadas (personas jurídicas y personas naturales con giro), destinados al financiamiento de largo plazo para los proyectos de inversión en Eficiencia Energética (EE). Entendiendo a la Eficiencia Energética como la disminución de la cantidad de energía utilizada para producir una unidad de actividad económica o para satisfacer las necesidades de la población (iluminación, calefacción, movilidad, etc.), manteniendo un determinado nivel de servicio o confort.
+
+h) $39.170.700.000.- (treinta y nueve mil ciento setenta millones setecientos mil pesos), para coberturas o subsidios contingentes destinados al desarrollo de alternativas de créditos que los intermediarios financieros, otorguen a las empresas privadas (personas jurídicas y personas naturales con giro), destinados al financiamiento de largo plazo para los proyectos de inversión, en Energías Renovables No Convencionales (ERNC). Entendiendo a las Energías Renovables No Convencionales como las obtenidas de fuentes naturales, inagotables a escala humana, no fósiles, o con capacidad de regenerarse.
+
+i) $62.048.400.000.- (sesenta y dos mil cuarenta y ocho millones cuatrocientos mil pesos), para coberturas contingentes destinados al desarrollo de alternativas de créditos que los intermediarios financieros otorguen a las empresas privadas (personas jurídicas o personas naturales sujetos de crédito) productoras de bienes y servicios, con ventas hasta UF 100.000 al año, excluido el IVA, que puedan constatar daños causados por el terremoto ocurrido con fecha 27 de febrero de 2010, orientados a reparación o reposición de activos fijos, capital de trabajo y reprogramación de pasivos. Dichas empresas deberán estar localizadas en las Regiones de Valparaíso, Metropolitana, del Libertador General Bernardo O'Higgins, del Maule, del Biobío y de la Araucanía de la República de Chile.
+
+Lo dispuesto en los artículos 1º, 2º, 3º, 4º, 5º y 6º del presente decreto, será aplicable a cada uno de los instrumentos especiales de cobertura señalados en las letras a), b), c), d), e), f), g), h) e i) precedentes, cuyas operaciones serán llevadas en cuenta o registro financiero separado e independiente.
+
+Por las obligaciones que contraiga la Corporación de Fomento de la Producción en virtud de la aplicación del presente artículo, sólo responderá hasta el monto de los recursos que considere la contabilidad de cada instrumento. Asimismo, cada uno de dichos instrumentos incrementará sus recursos separadamente, de conformidad al artículo 3º, sin perjuicio de las transferencias presupuestarias que puedan recibir.
+
+#### Artículo 8º
+
+En virtud de la autorización que dan cuenta los artículos precedentes, se dejan sin efecto los decretos supremos Nº 42, del año 1985; Nº 426, del año 1999, Nºs. 163, 228 y 669, del año 2000, y sus modificaciones, todos ellos del Ministerio de Economía, Fomento y Reconstrucción y los decretos Nº 1.447, del año 1996, y Nº 177, del año 1997, y sus modificaciones, todos ellos del Ministerio de Hacienda.".
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Rodrigo Álvarez Zenteno, Ministro de Hacienda (S).- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
+
+Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, Ramón Delpiano Ruiz-Tagle, Jefe de Gabinete Ministro de Hacienda.
