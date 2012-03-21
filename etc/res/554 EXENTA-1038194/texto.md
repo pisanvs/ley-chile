@@ -1,0 +1,3 @@
+Por resolución exenta Nº 554, de 14 de marzo de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.656, de 2009, que autorizó a PESQUERA ISLA QUIHUA S.A. para realizar actividades pesqueras extractivas con la nave "Terranova", respecto del recurso hidrobiológico Alfonsino en el área marítima comprendida entre la V a la IX Regiones, y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memoranda técnicos citados en Visto de la resolución extractada.
+
+Valparaíso, 14 de marzo de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
