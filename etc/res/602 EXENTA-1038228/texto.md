@@ -1,0 +1,3 @@
+Por resolución exenta Nº 602, de 15 de marzo de 2012, de esta Subsecretaría, recházanse las solicitudes números 208121101, 207104085, 208121100, 208121098, 208121115, 208121123, 208121120, 208121119, 208121121, 208121116, 208121124 y 210101126, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 15 de marzo de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
