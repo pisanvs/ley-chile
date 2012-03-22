@@ -20,7 +20,7 @@ Decreto:
 
 Autorízase circular en días sábado en la tarde, domingo y festivos, al Station Wagon marca Suzuki, modelo Gran Nomade 2.0 GLX, tracción 4x4, patente BLVF.51-2, color plata, año 2008, motor J20A-576066, chasis JS3TD54V094100949, que forma parte de la dotación de vehículos de la Superintendencia de Servicios Sanitarios, para labores de fiscalización.
 
-Autorízase circular en días sábado en la tarde, domingo y festivos, al Station Wagon marca Suzuki, modelo Gran Nomade 2.0 GLX, tracción 4x4, patente BLVF.52-0, color plata, año 2008, motor J20A-576929, chasis JS3TD54V494100985, que forma parte de la dotación de vehículos de la Superintendencia de Servicios Sanitarios, para labores de fiscalización.
+DEROGADO.
 
 #### Artículo 2º
 
