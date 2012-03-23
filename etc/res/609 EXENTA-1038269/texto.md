@@ -1,0 +1,3 @@
+Por resolución exenta Nº 609, de 16 de marzo de 2012, de esta Subsecretaría, déjase sin efecto la resolución Nº 2.723 de 2009, de esta Subsecretaría, que autorizó la realización del proyecto de manejo y explotación para el área de manejo y explotación de recursos bentónicos denominada Pichidangui, Sector B, IV Región, a la ASOCIACIÓN GREMIAL DE PESCADORES ARTESANALES CALETA PICHIDANGUI, en virtud del artículo 11 del DS Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 16 de marzo de 2012.- Felipe Palacio Rives, Subsecretario de Pesca.
