@@ -1,0 +1,3 @@
+Por resolución exenta Nº 616, de 16 de marzo de 2012, de esta Subsecretaría, recházanse las solicitudes números 211012004, 211071013, 211071015, 211071016, 211071014, 211071012 y 208121097, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 16 de marzo de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
