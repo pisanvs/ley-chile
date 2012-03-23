@@ -1,0 +1,3 @@
+Por resolución exenta Nº 566, de 15 de marzo de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 3.536 de 2011, modificada mediante resolución exenta Nº 85 de 2012, ambas de esta Subsecretaría, que autorizó a PESCA CHILE S.A., para realizar operaciones pesqueras de conformidad con lo dispuesto en el artículo 12 Transitorio de la ley Nº 18.892, en el sentido de señalar que la nave fábrica "Saint Pierre", podrá operar en el área marítima comprendida entre los paralelos 44º30' L.S. y 57º L.S., en aguas exteriores, respecto de los recursos y con las obligaciones establecidas en la resolución exenta Nº 83 de 2012, de esta Subsecretaría.
+
+Valparaíso, 15 de marzo de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
