@@ -30,7 +30,7 @@ Declárase alerta sanitaria en la Región del Biobío y en la provincia de Malle
 
 #### Artículo 2º
 
-Otórgase a las Secretarías Regionales Ministeriales de Salud del Biobío y de La Araucanía facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
+Otórgase a las Secretarías Regionales Ministeriales de Salud del Biobío y de La Araucanía y al Instituto de Salud Pública de Chile facultades extraordinarias para disponer, según proceda, de todas o algunas de las siguientes medidas:
 
 1º.- Contratación del personal de acuerdo a lo establecido en el artículo 10 del Código Sanitario, además de otros mecanismos de contratación previstos en la legislación vigente y realizar los traslados del personal que se requieran desde otras dependencias o establecimientos, mediante los correspondientes cometidos o comisiones de servicio.
 
