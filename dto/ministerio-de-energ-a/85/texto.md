@@ -902,8 +902,6 @@ Los clientes deberán pagar las facturas dentro del plazo de 20 días a contar d
 
 Las tarifas del presente pliego son netas y no incluyen el impuesto al valor agregado ni otros impuestos o tributos que sean de cargo de los clientes.
 
-> **Nota.** El Artículo Decimoséptimo del Decreto 2T, Energía, publicado el 06.10.2014, modifica la presente norma en el sentido de actualizar la estructura tarifaria y los valores indicados, de acuerdo con la tabla contenida en el señalado artículo.
-
 #### Artículo segundo
 
 Téngase por determinado, para las licitaciones de suministro a que se refiere el artículo 131º y siguientes de la Ley y que se efectúen durante el periodo de vigencia del presente decreto, la forma en que se configurarán los precios de energía ofrecidos en los puntos de abastecimiento o suministros conforme al artículo 134º inciso primero de la Ley.
