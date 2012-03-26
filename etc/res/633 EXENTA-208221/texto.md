@@ -498,6 +498,18 @@ davidiana Plum pox virus (PPV)
 
 Xylella fastidiosa
 
+Prunus pumila X P. Apricot chlorotic leaf roll
+
+armeniaca X phythoplasma
+
+P. domestica Peach X disease phythoplasma
+
+Peach yellows phythoplasma
+
+Plum pox virus
+
+Xylella fastidiosa
+
 Lonicera caerulea
 
 (Madreselva azul) Sin declaración adicional
