@@ -658,7 +658,7 @@ d) El nivel, la calidad y la trayectoria de la institución educacional extranje
 
 Los rankings internacionales a utilizar en la evaluación serán fijados por las entidades ejecutoras respectivas.
 
-e) A su vez, y según el tipo de beca, se podrá considerar para efecto de la evaluación los siguientes criterios: región de residencia; pertenencia a etnias indígenas; nivel socioeconómico; presencia de discapacidad física; patrocinio laboral; presentación de proyectos de retribución; pertenencia al sector público; postulación para realizar estudios en un área prioritaria definida por el Comité de Ministros; y/o haber sido beneficiario de una beca de reparación para sus estudios de educación superior, regulada en el decreto N° 97, de 2013, del Ministerio de Educación.
+e) A su vez, y según el tipo de beca, se podrá considerar para efecto de la evaluación los siguientes criterios: región de residencia; pertenencia a etnias indígenas; nivel socioeconómico; presencia de discapacidad física; patrocinio laboral; presentación de proyectos de retribución; pertenencia al sector público; y/o postulación para realizar estudios en un área prioritaria definida por el Comité de Ministros.
 
 f) El proyecto de investigación y/o tesis propuesto por el postulante, cuando corresponda, según el tipo de estudio.
 
@@ -714,13 +714,11 @@ del programa de postdoctorado, tanto
 
 para el becario, como para su
 
-cónyuge o conviviente civil e hijos,
+cónyuge e hijos, cuando corresponda
 
-cuando corresponda y de acuerdo a
+y de acuerdo a las disposiciones
 
-las disposiciones legales sobre
-
-migración de cada país
+legales sobre migración de cada país
 
 de destino.
 
@@ -768,59 +766,55 @@ y/o materiales de US $300
 
 (trescientos dólares americanos).
 
-v. Asignación de manutención mensual
+v. Asignación de manutención mensual por
 
-por el cónyuge o conviviente civil,
+el cónyuge, establecida en el
 
-establecida en el artículo 18º, por
+#### Artículo 18
 
-el tiempo que el becario declare
+, por el tiempo que el
 
-su compañía. En caso que ambos
+becario declare su compañía. En caso
 
-cónyuges o convivientes civiles
+que ambos cónyuges ostenten la
 
-ostenten la calidad de becarios, se
+calidad de becarios, se perderá este
 
-perderá este beneficio. Con todo,
+beneficio. Con todo, el cónyuge
 
-el cónyuge o conviviente civil
+deberá residir junto al becario por
 
-deberá residir junto al becario
+un período no inferior al 50% de la
 
-por un período no inferior al 50%
+estadía completa del becario
 
-de la estadía completa del becario
-
-financiada a través de la Beca Chile
+financiada a través de la BECA CHILE
 
 de postdoctorado. Este beneficio
 
-sólo se hará efectivo por cónyuges o
+sólo se hará efectivo por cónyuges
 
-convivientes civiles que posean
+que posean nacionalidad chilena o
 
-nacionalidad chilena o extranjera con
+extranjera con permanencia
 
-permanencia definitiva en Chile. En
+definitiva en Chile. En caso que el
 
-caso de que el becario contraiga
+becario contraiga matrimonio con
 
-matrimonio o celebre un acuerdo de
+posterioridad a la adjudicación de
 
-unión civil con posterioridad a la
+la beca, éste deberá informar sobre
 
-adjudicación de la beca, éste deberá
+dicha situación a la entidad
 
-informar sobre dicha situación a la
+ejecutora con el objeto de evaluar
 
-entidad ejecutora con el objeto de
+si se dan las condiciones exigidas
 
-evaluar si se dan las condiciones
+en este numeral para percibir el
 
-exigidas en este numeral para
-
-percibir el beneficio.
+beneficio.
 
 vi. Asignación de manutención
 
@@ -874,11 +868,9 @@ americanos), en la cual podrá
 
 incluir como cargas a los hijos y
 
-cónyuge o conviviente civil que
+cónyuge que convivan con éste en el
 
-convivan con éste en el país de
-
-destino.
+país de destino.
 
 viii.Asignación única de regreso por un
 
@@ -926,15 +918,13 @@ Chile, en clase económica al término
 
 del programa de estudio, tanto para
 
-el becario, como para su cónyuge o
+el becario, como para su cónyuge e
 
-conviviente civil e hijos, cuando
+hijos, cuando corresponda y de
 
-corresponda y de acuerdo a las
+acuerdo a las disposiciones legales
 
-disposiciones legales sobre
-
-migración de cada país de
+sobre migración de cada país de
 
 destino.
 
@@ -996,61 +986,53 @@ y/o materiales de US $300
 
 (trescientos dólares americanos).
 
-vi. Asignación de manutención mensual
+vi. Asignación de manutención mensual por
 
-por el cónyuge o conviviente civil,
+el cónyuge, establecida en el
 
-establecida en el artículo 18, por
+#### Artículo 18
 
-el tiempo que el becario declare
+, por el tiempo que el
 
-su compañía. En caso que ambos
+becario declare su compañía. En caso
 
-cónyuges o convivientes civiles
+que ambos cónyuges ostenten la
 
-ostenten la calidad de becarios,
+calidad de becarios, se perderá este
 
-se perderá este beneficio. Con
+beneficio. Con todo, el cónyuge
 
-todo, el cónyuge o conviviente
+deberá residir junto al becario por
 
-civil deberá residir junto al
+un período no inferior al 50% de la
 
-becario por un período no inferior
+estadía completa del becario
 
-al 50% de la estadía completa
+financiada a través de la BECA
 
-del becario financiada a través de
+CHILE. Este beneficio sólo se hará
 
-la Beca Chile. Este beneficio sólo
-
-se hará efectivo por cónyuges o
-
-convivientes civiles que posean
+efectivo para cónyuges que posean
 
 nacionalidad chilena o extranjera
 
-con permanencia definitiva en
+con permanencia definitiva en Chile.
 
-Chile. En caso de que el becario
+En caso que el becario contraiga
 
-contraiga matrimonio o celebre un
+matrimonio con posterioridad a la
 
-acuerdo de unión civil con
+adjudicación de la beca, éste deberá
 
-posterioridad a la adjudicación
+informar sobre dicha situación a la
 
-de la beca, éste deberá informar
+entidad ejecutora con el objeto de
 
-sobre dicha situación a la entidad
+evaluar si se dan las condiciones
 
-ejecutora con el objeto de evaluar
+exigidas en este numeral para
 
-si se dan las condiciones exigidas
-
-en este numeral para percibir el
-
-beneficio.
+percibir el beneficio.
 
 vii. Asignación de manutención mensual por
 
@@ -1102,11 +1084,9 @@ americanos), en la cual podrá
 
 incluir como cargas a los hijos y/o
 
-cónyuge o conviviente civil que
+cónyuge que residan con el becario
 
-residan con el becario en el país
-
-de destino.
+en el país de destino.
 
 ix. Asignación única de regreso por un
 
@@ -1148,9 +1128,9 @@ xii. Suma equivalente al costo de la
 
 obtención de los visados para el
 
-becario, su cónyuge o conviviente
+becario, su cónyuge e hijos, de
 
-civil e hijos, de corresponder
+corresponder
 
 3) Pasantías Doctorales:
 
@@ -1318,7 +1298,7 @@ obtención de los visados para
 
 el becario.
 
-Sin perjuicio de lo establecido anteriormente, el pasaje de ida y retorno para cónyuge o conviviente civil e hijos, la asignación de manutención por el cónyuge o conviviente civil e hijos y la extensión de la asignación de manutención mensual para becarias con permiso de pre y post natal serán otorgados solamente a aquellos becarios cuya duración de la beca sea igual o superior a los 12 meses y en caso que el cónyuge o conviviente civil e hijos residan junto al becario por un período no inferior al 50% de la estadía completa del mismo financiada a través de la BECA CHILE.
+Sin perjuicio de lo establecido anteriormente, el pasaje de ida y retorno para cónyuge e hijos, la asignación de manutención por el cónyuge e hijos y la extensión de la asignación de manutención mensual para becarias con permiso de pre y post natal serán otorgados solamente a aquellos becarios cuya duración de la beca sea igual o superior a los 12 meses y en caso que el cónyuge e hijos residan junto al becario por un período no inferior al 50% de la estadía completa del mismo financiada a través de la BECA CHILE.
 
 Los montos equivalentes a los beneficios entregados podrán ser pagados directamente al becario o a las instituciones educacionales extranjeras, de acuerdo a los convenios celebrados con estas últimas. Del monto de los beneficios se rebajarán todos aquellos similares que otorgue la institución de educación extranjera o le concedan convenios internacionales suscritos por Chile.
 
@@ -1388,9 +1368,7 @@ curso de idioma, tanto para el
 
 becario como para sus hijos y
 
-cónyuge o conviviente civil
-
-según corresponda. Este
+cónyuge según corresponda. Este
 
 beneficio reemplaza el beneficio de
 
@@ -1456,43 +1434,41 @@ programa específico de estudios.
 
 iv. Asignación de manutención mensual
 
-por el cónyuge o conviviente civil,
+por el cónyuge, establecida en el
 
-establecida en el artículo 18º,
+#### Artículo 18º
 
-correspondiente al país y ciudad
+, correspondiente al
 
-de destino, por el período de
+país y ciudad de destino, por el
 
-vigencia del curso de idioma que
+período de vigencia del curso de
 
-no exceda de 6 meses u 8 meses,
+idioma que no exceda de 6 meses u
 
-según corresponda. En caso que
+8 meses, según corresponda. En
 
-ambos cónyuges o convivientes
+caso que ambos cónyuges ostenten la
 
-civiles ostenten la calidad de
-
-beneficiario, se perderá este
+calidad de becarios, se perderá este
 
 beneficio. Con todo, el cónyuge
 
-o conviviente civil deberá
+deberá residir junto al becario por
 
-residir junto al becario por
+un período no inferior al 50% de la
 
-un período no inferior al 50%
-
-de la estadía completa del becario,
+estadía completa del becario,
 
 sumando el período del curso de
 
-idioma más el del programa específico
+idioma más el del programa
 
-de estudios del becario financiada
+específico de estudios del becario,
 
-a través de la Beca Chile.
+financiada a través de la BECA
+
+CHILE.
 
 v. Asignación de manutención mensual por
 
@@ -1542,11 +1518,9 @@ americanos), en la cual podrá
 
 incluir como cargas a los hijos y
 
-cónyuge o conviviente civil que
+cónyuge que convivan con éste en el
 
-convivan con éste en el país de
-
-destino.
+país de destino.
 
 vii. Asignación única de instalación
 
@@ -1564,7 +1538,7 @@ Sin perjuicio de lo señalado en el presente artículo, un becario podrá realiz
 
 Asignación de manutención.-
 
-Los valores de la asignación de manutención mensual que otorga la beca expresado en dólares americanos, tanto al becario como al cónyuge o conviviente civil e hijos, serán los siguientes, según el país y ciudad que a continuación se indican:
+Los valores de la asignación de manutención mensual que otorga la beca expresado en dólares americanos, tanto al becario como al cónyuge e hijos, serán los siguientes, según el país y ciudad que a continuación se indican:
 
 .
 
@@ -1616,7 +1590,7 @@ d) Se compromete a cumplir todas las obligaciones inherentes a la realización d
 
 e) Se compromete a tener dedicación exclusiva sus estudios y a abstenerse de ejecutar cualquier actividad remunerada, salvo la realización de actividades académicas y/o de investigación u otras remuneradas autorizadas en los convenios suscritos con los becarios que estén en directa relación con dichos estudios. Se exceptúa de esta restricción el periodo de tiempo comprendido entre el término de los estudios y el plazo máximo de retorno a Chile, según lo establecido en el artículo 25º del presente reglamento.
 
-f) Para efectos de recibir los beneficios respectivos, si correspondiere, se compromete a residir junto con su conviviente civil o cónyuge y/o sus hijos menores de 18 años en el extranjero durante sus estudios, si correspondiere, de acuerdo a los términos y requisitos establecidos en el artículo 24º letra j) del presente reglamento.
+f) Para efectos de recibir los beneficios respectivos, si correspondiere, se compromete a residir junto con sus hijos menores de 18 años y/o cónyuge en el extranjero durante sus estudios, si correspondiere, de acuerdo a los términos y requisitos establecidos en el artículo 24º letra j) del presente reglamento.
 
 La declaración jurada deberá señalar la fecha de inicio y término del programa de estudios o curso de idioma, según corresponda, como así mismo la fecha de inicio y término de la beca.
 
@@ -1694,7 +1668,7 @@ g) Aprobar en tiempo y forma los estudios que lo lleven a la obtención del tít
 
 i) Remitir certificado con las calificaciones obtenidas y/o avance del proyecto emitido por la institución de estudios para efectos de acreditar el progreso de sus estudios, según corresponda.
 
-j) Remitir anualmente, si correspondiere, una declaración jurada ante notario o cónsul del país donde curse sus estudios en el extranjero, según corresponda de acuerdo a la naturaleza de la beca, donde declara estar residiendo junto a sus hijos menores de 18 años y cónyuge o conviviente civil por un período mínimo del 50%, de la duración total de la beca.
+j) Remitir anualmente, si correspondiere, una declaración jurada ante notario o cónsul del país donde curse sus estudios en el extranjero, según corresponda de acuerdo a la naturaleza de la beca, donde declara estar residiendo junto a sus hijos menores de 18 años y cónyuge por un período mínimo del 50%, de la duración total de la beca.
 
 k) Proceder a informar a la entidad ejecutora en caso de ausencia del país donde se está realizando sus estudios por motivos académicos o de investigación.
 
@@ -1768,7 +1742,9 @@ c) Magíster:
 
 El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
-d) Magíster para Profesionales de la Educación:
+d) Magíster para Profesionales de la
+
+Educación:
 
 El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
@@ -1776,7 +1752,9 @@ Además, el becario deberá acreditar su reincorporación laboral en el establec
 
 e) Pasantías doctorales:
 
-El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
+El becario deberá acreditar su permanencia en Chile por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones
+
+ºdistintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
 Además, el becario, al retornar a Chile, deberá cumplir un Plan de Retribución a la comunidad, el que deberá contener al menos dos seminarios dirigidos a estudiantes de enseñanza media de colegios municipales y/o particulares subvencionados en el cual se explicite la experiencia científica del postulante y de su estadía en el extranjero. Al mismo tiempo, el postulante podrá proponer otras formas de retribución que considere importantes para el desarrollo de la comunidad escolar, universitaria y/o científica chilena, las cuales serán consideradas en el proceso de evaluación de los postulantes.
 
@@ -1784,13 +1762,19 @@ f) Subespecialidades médicas:
 
 El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
-Además, el becario a su retorno deberá obligatoriamente y sin excepciones egresar a ejercer sus labores profesionales por un mínimo de 22 horas semanales, por el doble del período de duración de la beca, con un mínimo de 2 años, dentro de un periodo de hasta 8 años en un Servicio de Salud Pública; establecimientos de salud municipal; las Fuerzas Armadas o en el Cuerpo de Carabineros de Chile; Universidades del Estado reconocidas por éste y sus respectivos Hospitales Universitarios; Servicios de la Administración del Estado, empresas fiscales e instituciones autónomas.
+Además, el becario a su retorno deberá obligatoriamente y sin excepciones egresar a ejercer sus labores profesionales por un mínimo de 22 horas semanales, por el doble del período de duración de la beca, con un mínimo de 2 años, dentro de un periodo de hasta 8 años en un Servicio de Salud Pública;
+
+establecimientos de salud municipal; las Fuerzas Armadas o en el Cuerpo de Carabineros de Chile; Universidades del Estado reconocidas por éste y sus respectivos Hospitales Universitarios;
+
+Servicios de la Administración del Estado, empresas fiscales e instituciones autónomas.
 
 g) Pasantías de matemáticas y ciencias en el extranjero:
 
 El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
-Además, el becario que sea docente, al retornar a Chile, deberá acreditar su reincorporación laboral en el establecimiento de educación que autorizó la realización de los estudios, por al menos 2 años dentro de un periodo de 4 años contados desde su regreso a Chile. Lo anterior, deberá acreditar a la entidad ejecutoras por medio de un contrato o documento vigente que acredite su situación laboral por al menos 22 horas semanales. En caso que el establecimiento de educación no reincorpore al becario, éste podrá reinsertarse laboralmente en cualquier establecimiento municipal o particular subvencionado.
+Además, el becario que sea docente, al retornar a Chile, deberá acreditar su reincorporación laboral en el establecimiento de educación que autorizó la realización de los estudios, por al menos 2 años dentro de un periodo de 4
+
+años contados desde su regreso a Chile. Lo anterior, deberá acreditar a la entidad ejecutoras por medio de un contrato o documento vigente que acredite su situación laboral por al menos 22 horas semanales. En caso que el establecimiento de educación no reincorpore al becario, éste podrá reinsertarse laboralmente en cualquier establecimiento municipal o particular subvencionado.
 
 h) Estudios de un semestre en el extranjero de alumnos de pedagogía en inglés:
 
@@ -1804,7 +1788,9 @@ El becario deberá acreditar su permanencia en Chile, por el doble del período 
 
 Además, el becario a su retorno deberá reintegrarse a sus labores académicas en la universidad que lo patrocinó por el doble del periodo de duración de la beca, por un mínimo de un año.
 
-j) Pasantías de Perfeccionamiento para Técnicos de Nivel Superior:
+j) Pasantías de Perfeccionamiento para
+
+Técnicos de Nivel Superior:
 
 El becario deberá acreditar su permanencia en Chile, por el doble del período de duración de la beca, a través de certificados de residencia, los que deberán ser enviados a las entidades ejecutoras de la beca. Si el becario regresa a Chile a residir en regiones distintas de la Región Metropolitana, sólo deberá acreditarla por el mismo periodo de duración de la beca.
 
@@ -1818,9 +1804,9 @@ En los casos que exista patrocinio laboral, en el momento de su regreso a Chile 
 
 Las obligaciones de retorno y/o la retribución podrán suspenderse, previa autorización de la entidad ejecutora, en el caso de aquellos beneficiarios que habiendo estudiado con una BECA CHILE hayan sido beneficiados nuevamente con otra BECA CHILE otorgada para un programa y/o grado distinto al primero, ya sea obtenida inmediatamente o durante su periodo de retribución en Chile. En estos casos el cómputo total del tiempo para efectos de la retribución será la suma de todos ellos.
 
-En el caso que ambos cónyuges o convivientes civiles estén beneficiados con una Beca Chile, pero con fechas de finalización de estudios distintas, el retorno y/o la retribución podrá posponerse, previa autorización de la entidad ejecutora, hasta la finalización de la beca del cónyuge o conviviente civil, según corresponda, que haya concluido último sus estudios, lo cual se acreditará mediante la correspondiente obtención del grado académico, título, certificación u otro equivalente, una vez finalizada la beca.
+En el caso que ambos cónyuges estén beneficiados con una BECA CHILE, pero con fechas de finalización de estudios distintas, el retorno y/o la retribución podrá posponerse, previa autorización de la entidad ejecutora, hasta la finalización de la beca del cónyuge que haya concluido último sus estudios, lo cual se acreditará mediante la correspondiente obtención del grado académico, título, certificación u otro equivalente, una vez finalizada la beca.
 
-Serán autorizados a suspender su periodo de retorno y/o retribución los becarios cuyos cónyuges o convivientes civiles se vean afectados por funciones que les sean encomendadas por el Estado y que por ello deban desempeñarse fuera de Chile.
+Serán autorizados a suspender su periodo de retorno y/o retribución los becarios cuyos cónyuges se vean afectados por funciones que les sean encomendadas por el Estado y que por ello deban desempeñarse fuera de Chile.
 
 Finalmente, los funcionarios del Estado que deben realizar alguna misión encomendada por el Estado fuera del país se encontrarán autorizados para suspender su retribución.
 
@@ -1898,13 +1884,11 @@ realizando sus estudios en el
 
 extranjero, así como la permanencia
 
-de sus cónyuges o convivientes
+de sus cónyuges e hijos en el
 
-civiles e hijos en el exterior, a
+exterior, a los cuales se les haya
 
-los cuales se les haya otorgado
-
-beneficios.
+otorgado beneficios.
 
 ii. Verificar que los becarios que hayan
 
