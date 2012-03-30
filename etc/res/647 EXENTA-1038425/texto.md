@@ -1,0 +1,3 @@
+Por resolución exenta Nº 647, de 23 de marzo de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 1.999 de 2003, que autorizó a Pesquera San José S.A., hoy, ORIZON S.A., para realizar actividades pesqueras extractivas con la nave "Don Julio", respecto del recurso hidrobiológico Alfonsino, en el área marítima del archipiélago de Juan Fernández, Isla de Pascua, Islas Salas y Gómez e Islas Desventuradas, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memoranda Técnicos citados en visto de la resolución extractada.
+
+Valparaíso, 23 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
