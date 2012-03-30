@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución ex. del Servicio de Impuestos Internos Nº 44, de 26 de marzo de 2012, que autoriza a las instituciones sin fines de lucro, Vicaría para la Educación San Egidio, RUT Nº 81.795.119-8, Fundación San Francisco de Borja, RUT Nº 65.450.420-2, Fundación Misión Batuco, RUT Nº 65.878.090-5, Fundación ONG - Visión por Chile, RUT Nº 65.033.166-4, Corporación Programa Poblacional Servicios La Caleta, RUT Nº 72.441.600-4 y Fundación Vida Compartida, RUT Nº 65.382.330-4, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de marzo de 2012.
