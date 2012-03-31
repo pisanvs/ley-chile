@@ -1,0 +1,5 @@
+SUSPENDE TRANSITORIAMENTE LA INSCRIPCION EN EL REGISTRO ARTESANAL EN LA PESQUERIA QUE INDICA POR PERIODO QUE SEÑALA
+
+Por resolución número 752 exenta, de esta Subsecretaría, suspéndase desde la fecha de publicación de la presente resolución en el Diario Oficial, de conformidad con la Ley General de Pesca y Acuicultura, hasta el 31 de diciembre de 2014, ambas fechas inclusive, la inscripción en los Registros Pesqueros Artesanales de la XV Región de Arica y Parinacota, I Región de Tarapacá, II Región de Antofagasta, III Región de Atacama, IV Región de Coquimbo, V Región de Valparaíso, VI Región del Libertador General Bernardo O'Higgins, VII Región del Maule, VIII Región del Bíobío, IX Región de la Araucanía, XIV Región de Los Ríos, X Región de Los Lagos, XI Región de Aysén y XII Región de Magallanes y Antártica Chile, en todas sus categorías, sección de pesquería del recurso Jibia, por haber alcanzado el estado de plena explotación en dicha área de pesca.
+
+Valparaíso, 30 de marzo de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
