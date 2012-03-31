@@ -160,27 +160,29 @@ De los Préstamos
 
 #### Artículo 11º
 
-El Servicio de Bienestar podrá conceder préstamos no reajustables a sus afiliados cuando sus recursos lo permitan, por las siguientes causales:
+El Servicio de Bienestar podrá conceder préstamos no reajustables a sus afiliados, cuando sus recursos lo permitan, por las siguientes causales:
 
-1) Préstamo Médico: Se otorgará como complemento de las prestaciones a que se refiere el artículo 9 del presente Reglamento, y su monto no será superior a tres ingresos mínimos mensuales, por afiliado, en cada año calendario.
+1) Préstamo Médico: Se otorgará como complemento de las prestaciones a que se refiere el artículo 9 del presente Reglamento, y su monto no podrá ser superior a cinco ingresos mínimos mensuales para fines no remuneracionales, por afiliado.
 
-2) Préstamo de Auxilio: Se otorgará por necesidades urgentes debidamente calificadas por el Consejo Administrativo. Su monto no podrá exceder de uno y medioingresos mínimos mensuales por afiliado en cada año calendario y se concederá por acuerdo de dicho Consejo.
+Para solicitar un nuevo préstamo médico, será necesario haber pagado íntegramente el anterior.
 
-No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios y otras catástrofes similares, estos préstamos podrán otorgarse hasta por un monto máximo de ocho ingresos mínimos mensuales. En tales casos, el préstamo podrá concederse sin que sea necesario que el afiliado haya cancelado íntegramente un préstamo de auxilio obtenido con anterioridad.
+2) Préstamo de Auxilio: Se otorgarán por necesidades urgentes, debidamente calificadas por el Consejo Administrativo. Su monto no podrá exceder de cinco ingresos mínimos mensuales para fines no remuneracionales y se concederá por acuerdo de dicho Consejo.
 
-3) Préstamo Habitacional: Se otorgarán para complementar el ahorro previo necesario para la adquisición de una vivienda, y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales.
+No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios y otras catástrofes similares; estos préstamos podrán otorgarse hasta por un monto máximo de ocho ingresos mínimos mensuales para fines no remuneracionales. En tales casos, el préstamo podrá concederse sin que sea necesario que el afiliado haya pagado íntegramente un préstamo de auxilio obtenido con anterioridad.
 
-Este mismo beneficio y por el monto máximo indicado se podrá otorgar para la construcción, ampliación, reparación otérmino de la vivienda propia.
+3) Préstamo Habitacional: Se otorgarán para complementar el ahorro previo necesario para la adquisición de una vivienda. Su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales, para fines no remuneracionales.
 
-Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior.
+Este mismo beneficio se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia, hasta el monto máximo indicado en el inciso precedente.
+
+Para solicitar un nuevo préstamo habitacional, será necesario haber pagado íntegramente el anterior.
 
 #### Artículo 12º
 
-El reintegro de los préstamos señalados en el artículo 11º, deberá hacerse en cuotas mensuales iguales y sucesivas. Los préstamos médicos y de auxilio serán servidos en un plazo de hasta 10 meses, los habitacionales y de auxilio concedidos con ocasión de un sismo y otra catástrofe, en el plazo de hasta 36 meses, todos a partir del mes siguiente al de su otorgamiento.
+El reintegro de los préstamos señalados en el artículo 11º, deberá hacerse en cuotas mensuales iguales y sucesivas. Los préstamos médicos y de auxilio serán pagados en un plazo de hasta 24 meses, los habitacionales y de auxilio, concedidos con ocasión de un sismo u otra catástrofe, en el plazo de hasta 36 meses, todo a partir del mes siguiente al de su otorgamiento.
 
-La tasa de interés que devengarán estos préstamos será determinada anualmente por el Consejo Administrativo, en conformidad a la Ley Nº 18.010, antes del inicio de cada ejercicio financiero y consistirá en un porcentaje de interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
+La tasa de interés, que devengarán estos préstamos, será determinada anualmente por el Consejo Administrativo, en conformidad a la ley Nº18.010, antes del inicio de cada ejercicio financiero. Dicha tasa consistirá en un porcentaje de interés corriente para operaciones no reajustables fijado por la Superintendencia de Bancos e Instituciones Financieras, vigente al día primero del mes en que se otorga el préstamo.
 
-Para solicitar un nuevo préstamo de auxilio será necesario haber cancelado íntegramente el primero, salvo lo dispuesto en el segundo párrafo del número 2) del artículo 11 del presente Reglamento.
+Para solicitar un nuevo préstamo de auxilio, será necesario haber pagado íntegramente el primero, salvo lo dispuesto en el segundo párrafo del número 2), del artículo 11 º, del presente Reglamento.
 
 #### Artículo 13º
 
@@ -188,7 +190,7 @@ La solicitud de cualquier tipo de préstamos será suscrita, además del afiliad
 
 #### Artículo 14º
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 40% de su remuneración imponible para pensiones o de su pensión según corresponda.
+Las sumas que el afiliado deba pagar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 15% de su remuneración imponible de su pensión según corresponda.
 
 ### Párrafo C — UARTO
 
