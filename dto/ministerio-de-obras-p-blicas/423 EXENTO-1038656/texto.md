@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº423 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº7, superficie 381 m2, rol Nº3-23, para la obra "Mejoramiento Puente Ojancos y Accesos Tierra Amarilla, Región de Atacama", Comuna de Tierra Amarilla, Provincia de Copiapó. La Comisión de Peritos integrada por Patricio Casagrande Ulloa, Claudio Concha Grossi y Miguel Fernández Cádiz, fijó valor de tasación con fecha 17 de junio de 2011, acordándose la indemnización con su propietaria ZOILA ROSA COLMAN, en la cantidad de $19.390.241, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
