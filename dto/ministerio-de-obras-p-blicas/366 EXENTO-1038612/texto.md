@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº366 de 29 de febrero de 2012, se expropió el lote de terreno Nº8, superficie 35 m2., rol de avalúo 729-5, comuna de Coquimbo, para la obra "CONSTRUCCIÓN ENLACE JUAN ANTONIO RÍOS EN RUTA 5, COQUIMBO", IV Región. La Comisión de Peritos integrada por Pablo Flores Salinas, Patricio Casagrande Ulloa y María Isabel Ríos Marcuello, mediante informe de tasación de fecha 21 de marzo de 2011, acordó el valor de la indemnización con su propietaria INMOBILIARIA DON JUAN S.A., en la cantidad de $4.352.819.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
