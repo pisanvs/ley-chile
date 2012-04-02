@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. (Exento) Nº371, de 29 de febrero de 2012, se expropió el lote de terreno Nº10, superficie 1.897 m2., Rol Nº1455-103, para la obra "Reposición Ruta 225-CH, Sector Escuela Los Riscos - Ensenada, Tramo Km. 24,60000 a Km. 43,19047", Comuna de Puerto Varas, Provincia de Llanquihue, X Región. La Comisión de Peritos integrada por Juan Samuel Barrientos Bahamonde, Leopoldo Ramón Schumacher Guarda y Christian Emil Rauch Yáñez, mediante informe de tasación de fecha 07 de diciembre de 2009, acordó el valor de la indemnización con su propietaria SOCIEDAD DE INVERSIONES LOS CEIBOS LIMITADA, en la cantidad de $8.109.096, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
