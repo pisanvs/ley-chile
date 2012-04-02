@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº411 de 29 de febrero de 2012, se expropió el lote de terreno Nº85, superficie 704 m2, rol de Avalúo Nº1098-231, comuna de Quillón, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO". La Comisión de peritos, integrada por ADRIANA FASCE CASANUEVA, CLAUDIO CASTRO GUTIÉRREZ Y SUSANA CONEJEROS RUDLOFF, fijó el valor de tasación con fecha 22 de diciembre de 2010, acordándose la indemnización con su propietaria LUCIA DEL ROSARIO VIDAL LAGOS, en la cantidad de $1.284.462.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
