@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº410 de 29 de febrero de 2012, se expropió el lote de terreno Nº13, superficie 445 m2, rol de Avalúo Nº207-16, comuna de Florida, para la obra "REPOSICIÓN RUTA 148, S: QUILLÓN - AGUA DE LA GLORIA (Por Tramos), KM. 28,69536 A KM. 39,66000, REGIÓN DEL BÍO-BÍO". La Comisión de peritos, integrada por CLAUDIO CASTRO GUTIÉRREZ, VALERIA MARDONEZ LEMA Y OSCAR CHÁVEZ ALCAINO, fijó el valor de tasación con fecha 18 de mayo de 2009, acordándose la indemnización con su propietario LUIS ALBERTO SEGUEL BENAVENTE Y OTRAS, en la cantidad de $238.320.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
