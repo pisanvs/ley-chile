@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº377 de 29 de febrero de 2012, se expropió el lote de terreno Nº34, superficie 812 m2, rol de Avalúo 250-15, comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA - QUELEN BAJO", IV Región. La Comisión de Peritos integrada por Víctor Vargas Reyes, Juan Ibáñez Palma y Elisa Tapia Fernández, mediante informe de tasación de fecha 5 de junio de 2011, acordó el valor de la indemnización con su propietario TOMÁS GERALDO GONZÁLEZ BARRAZA, en la cantidad de $1.703.013.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
