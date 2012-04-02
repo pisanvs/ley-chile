@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº369 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº19, superficie 819 m2, rol Nº181-386, comuna de San Clemente, para la obra "Construcción Puente sobre el Río Maule (Colbún) y Accesos", Comuna de San Clemente - Colbún, Provincia de Talca - Linares, Región del Maule. La Comisión de Peritos integrada por Juan Eduardo Salazar León, Iván Correa Opazo y Alicia Flores Pacheco, mediante informe de tasación de fecha 26 de octubre de 2010, acordó el valor de la indemnización con su propietario GUILLERMO ANDRÉS ROJAS RETAMAL, en la cantidad de $958.317, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
