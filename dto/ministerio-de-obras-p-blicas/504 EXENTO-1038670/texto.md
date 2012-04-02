@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº504 de 16 de marzo de 2012, se dejó sin efecto el Decreto MOP (Exento) N°924 de 16 de septiembre de 2008, en la parte que se refiere a los lote N°20, 26 y 27, por no ser necesaria la expropiación de dichos lotes para la obra pública: Camino Mejoramiento Ruta K-175, Sector Tres Esquinas - Las Trancas, km. 8,306.62 a km. 25,735.24. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
