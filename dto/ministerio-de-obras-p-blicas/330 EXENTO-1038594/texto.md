@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº330, de 29 de febrero de 2012, se dejó sin efecto el Decreto Exento MOP. Nº481, de 30 de abril de 2010, referido al lote N°7, por no ser necesaria la expropiación de dicho lote para la obra pública "Mejoramiento Ruta E-46, Sector Cruce Longitudinal (Catapilco) - La Laguna, Tramo Km. 12,22000 a Km. 19,06322", comuna de Zapallar, Provincia de Petorca, V Región.
+
+Fiscal del Ministerio de Obras Públicas.
