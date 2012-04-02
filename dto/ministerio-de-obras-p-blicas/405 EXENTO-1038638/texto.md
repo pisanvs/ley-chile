@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº405 de 29 de febrero de 2012, se expropió el lote de terreno Nº39, superficie 302 m2, rol de Avalúo Nº3704-183, comuna de Talca, para la obra "HABILITACIÓN CIRCUNVALACIÓN SUR DE TALCA VII REGIÓN DEL MAULE", La Comisión de peritos, integrada por PATRICIO DURÁN MARCOS, CARLOS VEGA RIVERA Y MOISÉS FALCÓN ALVEAR, fijó el valor de tasación con fecha 30 de junio de 2011, acordándose la indemnización con su propietaria GEORGINA ANDREA VILLALOBOS LEIVA, en la cantidad de $9.592.128.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
