@@ -1,0 +1,1 @@
+En la edición del Diario Oficial Nº40.135 de 15 de diciembre de 2011, se publicó extracto de decreto exento "MOP Nº4065", con el error que se salva a continuación: II Cuerpo, página sesenta y uno, segunda columna, donde dice "... que figura a nombre de CONTRERAS RARO SEIN, ..." debe decir " ... que figura a nombre de CONTRERAS HARO SEIN, ...".
