@@ -1,0 +1,5 @@
+APRUEBA INICIO ESTUDIO DE EXPROPIACIÓN, DECLARA DE UTILIDAD PÚBLICA INMUEBLE Y ORDENA REALIZAR ESTUDIO, PARA EXPROPIACIÓN PARCIAL
+
+Por decreto alcaldicio N° 907/2012, de fecha 02.03.2012, de la Municipalidad de Padre Hurtado, se aprueba inicio estudio de expropiación del predio ubicado en calle Primera Transversal N° 2196, esquina calle Río Ñuble, denominado Sitio Siete del Proyecto de Parcelación El Progreso, predio parte de la Hijuela Segunda Fundo El Manzano, Rol de Avalúo Fiscal 332-144, comuna Padre Hurtado; se declara de utilidad pública porción de aproximadamente 268 m cuadrados, que forma parte del mencionado inmueble. Los deslindes del área afecta a declaración de utilidad pública son: Norte, calle Río Ñuble en 26,80 m. aproximadamente; Sur, resto del sitio siete del Proyecto de Parcelación El Progreso; Oriente, calle Río Ñuble en 10,00 m aproximadamente; y Poniente, calle Primera Transversal en 10,00 m. aproximadamente; se ordena realizar estudio para expropiación parcial del inmueble antes referido. Demás antecedentes en decreto alcaldicio extractado.-
+
+José Miguel Arellano Merino, Alcalde.- Rolando Cornejo Adasme, Secretario Municipal.
