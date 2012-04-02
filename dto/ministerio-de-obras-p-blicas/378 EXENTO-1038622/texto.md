@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, por Decreto MOP (exento) Nº378, de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº39, superficie 97 m2, rol Nº3250-730, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", Comuna de Temuco, Provincia de Cautín, IX Región. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, mediante informe de tasación de fecha 09 de noviembre de 2009, acordó con su propietaria NANCY DEL CARMEN OPAZO POBLETE, en la cantidad de $1.280.648, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
