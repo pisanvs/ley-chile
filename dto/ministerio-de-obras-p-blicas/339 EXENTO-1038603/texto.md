@@ -1,0 +1,3 @@
+Por decreto MOP exento Nº339, de 29 de febrero de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del decreto exento MOP N°2102, de 31 de agosto de 2011, en la parte que se refiere al Convenio Directo de Precio Ad Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°32, expropiado con motivo de la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, Km. 20,30000 a Km. 23,92041, Región del Biobío". Consígnese judicialmente el monto provisional de la indemnización, fijado el 25 de enero de 2010, complementada por acta de fecha 12 de mayo de 2011, por la Comisión de Peritos Tasadores en la suma de $523.721.
+
+Fiscal del Ministerio de Obras Públicas.
