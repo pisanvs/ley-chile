@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el artículo 105 del DFL MOP. N°850 de 1997, por Decreto MOP. (Exento) Nº432, de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº3, superficie 522 m2., rol Nº790-13, para la obra "Reposición y Construcción de Puentes Varias provincias, Región Metropolitana", Puente Los Suspiros, Comuna de Paine y Provincia de Maipo. La comisión de peritos, integrada por Néstor Abello Rodríguez, Marcela Redard Ayala y Douglas Herrera Flores, fijó el valor de tasación con fecha 9 de agosto de 2011, acordándose la indemnización con su propietario TADEO ARMANDO GARRIDO MORALES, en la cantidad de $2.159.889, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
