@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº382 de fecha 29 de febrero de 2012, se expropiaron los lotes de terreno N°s 18 y 18-A, superficies 76 y 9,2 m2 respectivamente, rol Nº906-22, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II, (Conay - Malaguín)", Comuna de Alto del Carmen, Provincia de Huasco. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó valor de tasación con fechas 25 de septiembre de 2009 y 05 de marzo de 2010, acordándose la indemnización con su propietario IRMA DEL CARMEN NAVARRETE RODRÍGUEZ, en la cantidad de $1.805.408, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
