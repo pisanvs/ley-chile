@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº416 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº28B1, superficie 136,74 m2, rol Nº3600-173, para la obra "Mejoramiento Ruta D-35 (Camino La Cantera) S: Av. Del Mar - Ruta 43", Etapa I, Comuna de Coquimbo, Provincia de Elqui. La Comisión de Peritos integrada por Patricio Casagrande Ulloa, María Isabel Ríos Marcuello y Pablo Flores Salinas, fijó valor de tasación con fecha 05 de julio de 2011, acordándose la indemnización con su propietaria EUGENIA ARACENA GAMBOA, en la cantidad de $12.654.185, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
