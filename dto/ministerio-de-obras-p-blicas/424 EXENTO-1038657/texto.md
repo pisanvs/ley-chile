@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el artículo 105 del DFL MOP. N°850 de 1997, por Decreto MOP. (Exento) Nº424, de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº35, superficie 150 m2., rol Nº243-38, para la obra "Camino Ruta L-202, Sector Villa Alegre - Putagán, Km. 0,00000 a Km. 11,44287", Comuna de Villa Alegre, Provincia de Linares, VII Región. La comisión de peritos, integrada por Carlos Sottolichio Díaz, Iván Correa Opazo y Renato Guerra Estévez, fijó el valor de tasación con fecha 18 de enero de 2006, acordándose la indemnización con sus propietarios HORTENSIA DEL CARMEN PONCE VICENCIO Y OTROS, en la cantidad de $754.320, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
