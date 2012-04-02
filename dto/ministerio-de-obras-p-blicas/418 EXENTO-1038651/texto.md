@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº418 de 29 de febrero de 2012, se expropiaron los lotes de terrenos N°s. 3 y 4, superficie 2.405 y 496 m2, rol de Avalúo Nº302-15, comuna de Cunco, para la obra "PROYECTO RECONSTRUCCIÓN PUENTE CHOMI, CAMINO CHERQUENCO - EL SALTO, TRAMO KM. 20,30000 A KM. 20,70000". La Comisión de peritos, integrada por ENRIQUE VALLETE DE LA HARPE, PABLO ALEJANDRO SEPULVEDA GÓMEZ Y HUGO NELSON LABRAÑA MÉNDEZ, fijó el valor de tasación con fecha 18 de octubre de 2007, acordándose la indemnización con su propietario la SOCIEDAD AGRÍCOLA FORESTAL Y GANADERA EL MANZANO GRANDE LIMITADA, en la cantidad de $1.273.302.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
