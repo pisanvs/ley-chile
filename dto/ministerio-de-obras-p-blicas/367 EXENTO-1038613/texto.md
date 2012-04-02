@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº367 de 29 de febrero de 2012, se expropió el lote de terreno Nº40, superficie 779 m2, rol de Avalúo 234-8, comuna de Los Lagos, para la obra "MEJORAMIENTO RUTA T-35, SECTOR LOS LAGOS - VALDIVIA, TRAMO Nº2, KM. 0,00000 A KM. 16,60000", XIV Región. La Comisión de Peritos integrada por Juan Samuel Barrientos Bahamonde, Christian Emil Rauch Yáñez y Leopoldo Ramón Schumacher Guarda, mediante informe de tasación de fecha 30 de agosto de 2008, acordó el valor de la indemnización con su propietario PEDRO HUMBERTO SILVA ROSAS, en la cantidad de $764.699.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
