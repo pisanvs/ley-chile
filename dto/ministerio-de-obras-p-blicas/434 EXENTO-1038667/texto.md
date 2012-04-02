@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº434 de 29 de febrero de 2012, se expropió el lote de terreno Nº1, superficie 261 m2, rol de Avalúo Nº2451-779, comuna de Melipilla, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES VARIAS PROVINCIAS, REGIÓN METROPOLITANA" PUENTE LAS PILASTRAS. La Comisión de peritos, integrada por NÉSTOR ABELLO RODRÍGUEZ, MARCELA REDARD AYALA Y DOUGLAS HERRERA FLORES, fijó el valor de tasación con fecha 29 de julio de 2011, acordándose la indemnización con su propietario HERNÁN VILLEGAS ZÚÑIGA, en la cantidad de $5.310.121.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
