@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. Exento Nº422, de 29 de febrero de 2012, se expropiaron los lotes de terreno N°s. 1 y 2, superficies 366 y 2.602 m2., Rol de avalúo 420-118, para la obra, "Construcción Puente Santa Marta en Ruta E-253, Comuna de La Ligua, Provincia de Petorca, V Región". La Comisión de Peritos integrada por José Rogelio Reyes Azancot, Carmen Pilar Ríos Marcuello y Andrés Echeverría Campos, fijó el valor de tasación con fecha 20 de mayo de 2011, acordándose la indemnización con su propietario RICARDO ENRIQUE CABRERA PINILLA, en la cantidad de $9.511.131.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
