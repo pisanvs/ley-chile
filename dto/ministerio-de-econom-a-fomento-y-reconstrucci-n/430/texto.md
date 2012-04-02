@@ -272,9 +272,11 @@ que permiten administrar una pesquería basados en el conocimiento actualizado d
 
 50) Organismo genéticamente modificado (OGM): Organismo cuyo material genético ha sido alterado en una forma que no ocurre naturalmente por cruzamiento y/o por recombinación natural.
 
-51) Acuicultura experimental: actividad de cultivo de recursos hidrobiológicos que tiene por objeto la investigación científica, el desarrollo tecnológico o la docencia. No se comprende dentro de esta actividad la mantención de recursos hidrobiológicos para su exhibición pública con fines demostrativos o de recreación.
+51) Acuicultura experimental: actividad de cultivo de recursos hidrobiológicos que tiene por objeto la investigación científica, mejora genética, el desarrollo tecnológico o la docencia. No se comprende dentro de esta actividad la mantención de recursos hidrobiológicos para su exhibición pública con fines demostrativos o de recreación.
 
-52) Agrupación de concesiones: conjunto de concesiones de acuicultura que se encuentran dentro de un área apta para el ejercicio de la acuicultura en un sector que presenta características epidemiológicas, oceanográficas, operativas o geográficas que justifican su manejo sanitario coordinado por grupo de especies hidrobiológicas, así declarado por la Subsecretaría. El Servicio establecerá períodos de descanso coordinado y medidas profilácticas y tratamientos terapéuticos para los centros que cultiven el grupo de especies respectivo, de conformidad con el reglamento a que se refiere el artículo 86. La prestación de servicios a los centros de cultivo respectivos, así como la operación de centros de acopio de peces, quedarán sometidas a las medidas coordinadas.
+52) Agrupación de concesiones: conjunto de concesiones de acuicultura que se encuentran dentro de un área apta para el ejercicio de la acuicultura en un sector que presenta características de inocuidadepidemiológicas, oceanográficas, operativas o geográficas que justifican su manejo sanitario coordinado por grupo de especies hidrobiológicas, así declarado por la Subsecretaría. El Servicio establecerá períodos de descanso coordinado y medidas profilácticas y tratamientos terapéuticos para los centros que cultiven el grupo de especies respectivo, de conformidad con el reglamento a que se refiere el artículo 86. En los casos que corresponda conforme al grupo de especies hidrobiológicas, por resolución del Servicio, se establecerán programas de vigilancia bacteriológica, química y toxicológica, de conformidad con el reglamento que se dicte en virtud del artículo 122 letra b) de esta ley. La prestación de servicios a los centros de cultivo respectivos, así como la operación de centros de acopio de peces, quedarán sometidas a las medidas coordinadas.
+
+Podrán establecerse agrupaciones de concesiones que comprendan centros de cultivo cuyo objeto exclusivo sea la smoltificación de peces o la mantención de reproductores y el manejo genético de especies hidrobiológicas.
 
 La declaración de agrupación de concesiones no afectará la libre navegación, el ejercicio de la actividad pesquera, ni los derechos emanados de las áreas de manejo y explotación de recursos bentónicos o de las concesiones marítimas o de acuicultura, que habilitan el ejercicio de actividades diversas a las señaladas en el párrafo anterior.
 
@@ -297,6 +299,8 @@ Las medidas acordadas deberán ser comunicadas al Servicio para su aprobación y
 56) Especies ornamentales: organismos hidrobiológicos pertenecientes a diversos grupos taxonómicos que, dadas sus particulares características morfológicas y fisiológicas, son destinados a fines culturales, decorativos o de recreación.
 
 57) Zonificación del borde costero: proceso de ordenamiento y planificación de los espacios que conforman el borde costero del litoral, que tiene por objeto definir el territorio y establecer sus múltiples usos, expresados en usos preferentes, los que no serán excluyentes, salvo en los casos que se establezcan incompatibilidades de uso con actividades determinadas en sectores delimitados en la misma zonificación y graficados en planos que identifiquen, entre otros aspectos, los límites de extensión, zonificación general y las condiciones y restricciones para su administración, en conformidad con lo dispuesto en la Política Nacional de Uso del Borde Costero establecida en el decreto supremo (M) Nº 475, de 1995, del Ministerio de Defensa Nacional, o la normativa que lo reemplace.
+
+> **Nota.** La ley 19713, publicada el 25.01.2001, intercaló en el presente artículo el Nº 14 bis "Descarte", a continuación del Nº 14, referido a la "Conservación". Con posterioridad, la ley 20434, publicada el 08.04.2010, dispuso la supresión del Nº 10, con lo que pasaron los numerales 11 a 51 a ser 10 a 50 respectivamente, sin disponer acerca de reenumerar el referido 14 bis.
 
 ## Título II
 
@@ -2104,7 +2108,9 @@ Ante la falla del sistema de posicionamiento automático instalado a bordo, se i
 
 De no producirse la regularización del sistema dentro de las seis horas siguientes a su detección, la nave deberá suspender sus faenas y retornar a puerto habilitado. Sin perjuicio de ello y mientras la falla no sea reparada, la nave afectada deberá informar su posición cada dos horas, conjuntamente con el total de la captura obtenida al momento de detectarse la falla y su actualización cada vez que deba informar su posición.
 
-El cumplimiento de las acciones ordenadas en el inciso precedente podrá considerarse como circunstancia eximente de responsabilidad por la infracción establecida en la letra h) del artículo 110.
+Lo dispuesto en el inciso precedente no será aplicable a las embarcaciones que prestan servicios a los centros de cultivo en el caso que les sea exigible el uso del sistema de posicionamiento automático de conformidad con los artículos 86 ter y 122 letra l). Para estas embarcaciones en el evento de no producirse la regularización del sistema de posicionamiento dentro de las seis horas siguientes a su detección, la nave podrá continuar la navegación hasta su destino informado al zarpe. Si persiste la falla del sistema, la nave no podrá continuar prestando servicios a los centros de cultivo.
+
+El cumplimiento de las acciones ordenadas en el inciso precedente podrá considerarse como circunstancia eximente de responsabilidad por las infracciones establecidas en los artículos 110 letra h) y 86 ter, según corresponda.
 
 > **Nota.** El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que la presente modificación entrará en vigor sesenta días después de su publicación en el Diario Oficial.
 
@@ -2159,6 +2165,8 @@ La Subsecretaría, una vez elaborados los estudios técnicos, deberá publicar e
 Las clases de concesiones y autorizaciones de acuicultura reconocidas por esta ley son: de playa; de terrenos de playa; de porción de agua y fondo, y de rocas. Los decretos que se dicten de conformidad con lo dispuesto en el inciso primero de este artículo, deberán delimitar claramente las áreas geográficas que se fijen como apropiadas para el ejercicio de la acuicultura, especificándose el perímetro de ellas.
 
 En caso de que en la región respectiva se haya establecido una zonificación del borde costero cuyo decreto supremo de aprobación haya sido publicado en el Diario Oficial, las áreas apropiadas para el ejercicio de la acuicultura deberán modificarse a fin de compatibilizarse con dicha zonificación. Desde la fecha de publicación del decreto supremo que establezca la zonificación, no podrán otorgarse nuevas concesiones de acuicultura en los sectores que se hayan definido de uso incompatible con dicha actividad. En estos casos, la modificación de las áreas apropiadas para el ejercicio de la acuicultura no se someterá al procedimiento señalado en este artículo, debiendo ser sólo aprobada por decreto supremo.
+
+En los casos en que la Subsecretaría de Pesca proponga áreas apropiadas para la acuicultura, la Comisión Regional de Uso del Borde Costero de la región respectiva, deberá pronunciarse en el plazo de seis meses contado desde el requerimiento. Vencido este plazo sin que se haya emitido el pronunciamiento de la Comisión respecto de las áreas propuestas, se entenderá que ellas son aprobadas, sin más trámite.
 
 #### Artículo 67 bis
 
@@ -2312,7 +2320,7 @@ En el caso que la solicitud se refiera a la ampliación de área de una concesi�
 
 #### Artículo 78
 
-Recibida la solicitud por la Subsecretaría, deberá verificarse, previo el informe técnico del Servicio, si ella da cumplimiento a lo establecido en los artículos 87 y 88 de la presente ley y si el área se sobrepone, en forma total o parcial a una o más concesiones o autorizaciones de acuicultura ya otorgadas o a las solicitudes en trámite presentadas con anterioridad. Asimismo, deberá verificarse si la solicitud cumple con los requisitos de distancia con concesiones de acuicultura o solicitudes en trámite establecidos en los reglamentos.
+Recibida la solicitud por la Subsecretaría, deberá verificarse si ella da cumplimiento a lo establecido en los artículos 87 y 88 de la presente ley y si el área se sobrepone, en forma total o parcial a una o más concesiones o autorizaciones de acuicultura ya otorgadas o a las solicitudes en trámite presentadas con anterioridad. Asimismo, deberá verificarse si la solicitud cumple con los requisitos de distancia con concesiones de acuicultura o solicitudes en trámite establecidos en los reglamentos.
 
 Si el área solicitada ya estuviere concedida o se sobrepone con la de otra solicitud en trámite, o la solicitud no cumple con los requisitos de distancia con concesiones otorgadas o con tres solicitudes previas en trámite en el sector, la Subsecretaría devolverá al solicitante los antecedentes, dictando una resolución denegatoria fundada al efecto; en los demás casos, se procederá de acuerdo a lo establecido en el reglamento.
 
@@ -2464,9 +2472,21 @@ Terminan, además, por incurrir el titular en una causal de caducidad, debidamen
 
 #### Artículo 84
 
-Los titulares de concesiones y autorizaciones de acuicultura pagarán anualmente una patente única de acuicultura, correspondiente a dos unidades tributarias mensuales por hectárea, salvo en el caso de concesiones o autorizaciones de acuicultura cuyo proyecto técnico considere peces exóticos, las que pagarán 10 unidades tributarias mensuales por hectárea. Por las concesiones y autorizaciones de acuicultura de superficie inferior a una hectárea se pagará la patente antes indicada en la proporción que corresponda.
+Los titulares de concesiones y autorizaciones de acuicultura pagarán anualmente una patente única de acuicultura, correspondiente a dos unidades tributarias mensuales por hectárea, salvo en el caso de concesiones o autorizaciones de acuicultura cuyo proyecto técnico considere peces exóticos, las que pagarán 20 unidades tributarias mensuales por hectárea. Por las concesiones y autorizaciones de acuicultura de superficie inferior a una hectárea se pagará la patente antes indicada en la proporción que corresponda.
 
-El producto de la patente referida precedentemente, se distribuirá entre las regiones y comunas del país en la forma que a continuación se indica:
+En los casos en que el centro de cultivo a que se refiere la concesión no sea usado en los cincuenta y cuatro meses anteriores y no proceda la aplicación de la causal de caducidad por falta de operación, se pagarán 10 UTM por hectárea adicionales por cada año de no uso. El centro de cultivo que no opere sólo se eximirá del pago adicional por no uso cuando se encuentre en alguna de las siguientes circunstancias:
+
+a) sometido a descanso obligatorio conforme a un plan de manejo sanitario de la agrupación de concesiones respectiva.
+
+b) se encuentre en un sector afectado por un evento ambiental, catástrofe natural o fuerza mayor.
+
+c) se encuentre en un sector declarado en emergencia sanitaria por la Autoridad.
+
+d) la autoridad hubiere dispuesto una suspensión de operaciones obligatoria.
+
+Para efectos que se realice el cargo de patentes aumentado por no uso, en el mes de agosto de cada año, la Subsecretaría de Pesca, previo informe técnico del Servicio, informará a la Subsecretaría para las Fuerzas Armadas las concesiones que han dejado de ser usadas los cincuenta y cuatro meses previos y que no se encuentran en los casos indicados en las letras del inciso anterior.
+
+El producto de la patente que sea pagada por los titulares de concesiones de acuicultura cuyo proyecto técnico considere especies hidrobiológicas que no sean peces exóticos, y 10 UTM por hectárea de las que corresponda pagar a cada uno de los titulares de concesiones de acuicultura cuyo proyecto técnico considere peces exóticos, se distribuirán entre las regiones y comunas del país en la forma que a continuación se indica:
 
 1) El 50% se incorporará a la cuota del Fondo Nacional de Desarrollo Regional que anualmente se le asigne, en el Presupuesto Nacional, a la región correspondiente a la concesión o autorización de acuicultura. La Ley de Presupuestos de cada año incluirá en los presupuestos de los gobiernos regionales pertinentes, estas cantidades;
 
@@ -2476,11 +2496,9 @@ No obstante lo señalado precedentemente, los aportes directos en dinero que hag
 
 Se exceptúan de estas disposiciones las autorizaciones otorgadas en cursos de agua fluviales.
 
-Se exceptúan además de las disposiciones contenidas en el
+Se exceptúan además de las disposiciones contenidas en el presente artículo, las concesiones de acuicultura otorgadas para desarrollar actividades de cultivo de algas, cuya extensión total sea igual o menor a una hectárea y cuyo titular no posea más concesión que aquella que le permite acogerse a esta excepción.
 
-presente artículo, por un período de tres años, a contar de la fecha de publicación en el Diario Oficial de la resolución que las autoriza, las concesiones de acuicultura otorgadas para desarrollar actividades de cultivo de algas, cuya extensión total sea igual o menor a media hectárea y cuyo titular no posea más concesión que aquella que le permita acogerse a esta excepción.
-
-Esta misma exención se aplicará a las organizaciones de pescadores artesanales que sean titulares de concesiones, cualquiera sea el tipo de cultivo, cuando la proporción de superficie total, dividida por el número total de afiliados sea igual o menor a 0,5 hectáreas.
+Se exceptúan, asimismo, de las disposiciones contenidas en este artículo, por un período de tres años, a contar de la fecha de publicación en el Diario Oficial de la resolución que las autoriza, las concesiones de acuicultura de que sean titulares las organizaciones de pescadores artesanales, cualquiera que sea el tipo de cultivo, cuando la proporción de superficie total, dividida por el número total de afiliados sea igual o menor a 0,5 hectáreas.
 
 Se exceptúa asimismo del pago de la patente a los titulares de concesiones o autorizaciones de acuicultura afectados por catástrofes naturales a que se refiere el artículo 142 letra e), por el término que dure este evento.
 
@@ -2524,7 +2542,7 @@ Se considerará densidad de cultivo la biomasa de peces existente por área util
 
 #### Artículo 86 ter
 
-En los casos en que el Servicio haya determinado una condición sanitaria de riesgo entre zonas o agrupaciones de concesiones, no se autorizará el tránsito de embarcaciones que presten servicios a los centros de cultivo desde zonas o agrupaciones de concesiones que presenten una condición sanitaria de mayor riesgo a otra de menor riesgo, salvo que estas embarcaciones sean desinfectadas en estaciones de desinfección autorizadas por el Servicio. Estas estaciones deberán cumplir los protocolos de desinfección establecidos en el reglamento.
+En los casos en que el Servicio haya determinado una condición sanitaria de riesgo entre zonas o agrupaciones de concesiones, no se autorizará el tránsito de embarcaciones que presten servicios a los centros de cultivo desde zonas o agrupaciones de concesiones que presenten una condición sanitaria de mayor riesgo a otra de menor riesgo, salvo que estas embarcaciones sean desinfectadas en estaciones de desinfección autorizadas por el Servicio o que se disponga otra medida de mitigación de los riesgos, previa evaluación de los mismos mediante la realización de un análisis de riesgo. Estas estaciones deberán cumplir los protocolos de desinfección establecidos en el reglamento.
 
 Las estaciones de desinfección se ubicarán en los sectores que determine el Servicio atendiendo a condiciones de bioseguridad y la obtención de las concesiones marítimas o permisos que se requieran. Para estos efectos se someterán a las disposiciones del decreto con fuerza de ley Nº 340, de 1960, sobre concesiones marítimas, o a la normativa que lo reemplace.
 
@@ -2539,6 +2557,10 @@ La prohibición de zarpe que dispone este artículo se entenderá sin perjuicio 
 Los titulares de las estaciones de desinfección autorizadas que no cumplan los protocolos establecidos, serán sancionados con la suspensión de actividades por un período de tres meses. En caso de reiteración de la infracción en una misma estación de desinfección, el plazo de suspensión se duplicará.
 
 Estas infracciones se someterán al procedimiento previsto en este artículo.
+
+#### Artículo 86 quáter
+
+No podrá negarse el uso de los puntos de embarque o desembarque señalados por el Servicio de conformidad con el artículo 122 letra ñ) y su uso gozará de preferencia. El titular o administrador del punto de embarque o desembarque podrá cobrar a quien los utiliza el costo en que incurra.
 
 #### Artículo 87
 
@@ -2580,7 +2602,7 @@ Los establecimientos de cultivos en áreas de propiedad privada, que no requiera
 
 Los centros de acopio y centros de faenamiento en bienes nacionales de uso público requerirán de una autorización de la Subsecretaría para su funcionamiento, previa acreditación del cumplimiento de los requisitos sanitarios y de protección ambiental que sean previstos en los reglamentos dictados conforme al procedimiento establecido en los artículos 86 y 87 de esta ley. Deberán dar cumplimiento, asimismo, durante su operación, cualquiera sea el régimen de propiedad de los bienes en que se encuentran, a las obligaciones y prohibiciones establecidas en los reglamentos señalados.
 
-Se autorizará la operación de centros de acopio de peces en los casos en que se utilice una tecnología o procedimiento que asegure que no se produce la diseminación de patógenos por intercambio de aguas en destino y se implemente un mecanismo bioseguro de descarga a las plantas de procesamiento, de conformidad con las condiciones establecidas en el reglamento.
+Se autorizará la operación de centros de acopio de peces en los casos en que se utilice una tecnología o procedimiento que asegure que no se produce la diseminación de patógenos y se implemente un mecanismo bioseguro de descarga a las plantas de procesamiento, de conformidad con las condiciones establecidas en el reglamento.
 
 Los requisitos y el procedimiento para otorgar la autorización a que se refiere el inciso precedente se establecerán en el reglamento.
 
@@ -2588,7 +2610,7 @@ Los permisos o concesiones sobre bienes nacionales de uso público que se requie
 
 #### Artículo 90 ter
 
-Las resoluciones que autoricen la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público o que las modifiquen en cualquier forma serán inscritos por el Servicio en el registro. Los titulares de de centros de faenamiento en terrenos privados deberán inscribirlos de conformidad con lo dispuesto en el reglamento, previa acreditación del cumplimiento de los requisitos sanitarios y de protección ambiental señalados en el artículo anterior.
+Las resoluciones que autoricen la operación de centros de acopio o centros de faenamiento en bienes nacionales de uso público o que las modifiquen en cualquier forma serán inscritos por el Servicio en el registro. Los titulares de de centros de faenamiento y de centros de acopio en terrenos privados deberán inscribirlos de conformidad con lo dispuesto en el reglamento, previa acreditación del cumplimiento de los requisitos sanitarios y de protección ambiental señalados en el artículo anterior.
 
 Para los efectos de esta ley, será siempre responsable del cumplimiento de la normativa, el titular de la correspondiente inscripción.
 
@@ -2928,13 +2950,37 @@ En aquellos casos en que la conducta descrita en el inciso anterior causare dañ
 
 Serán sancionados los titulares de las concesiones y autorizaciones de acuicultura que incurran en las siguientes infracciones:
 
-a) En el caso de los cultivos de peces, sembrar ejemplares en el centro de cultivo sin contar con la información ambiental evaluada por el Servicio, dentro del plazo establecido en el reglamento o, en el caso de los demás cultivos, no suspender el ingreso de ejemplares al centro de cultivo desde la fecha de comunicación de la evaluación negativa de la información ambiental efectuada por el Servicio, dentro del plazo establecido en el reglamento.
+a) En el caso de los cultivos de peces, sembrar ejemplares en el centro de cultivo sin contar con la información ambiental evaluada por el Servicio, dentro del plazo establecido en el reglamento o, en el caso de los demás cultivos, no suspender el ingreso de ejemplares al centro de cultivo desde la fecha de comunicación de la evaluación negativa de la información ambiental efectuada por el Servicio, dentro del plazo establecido en el reglamento. En los casos en que el Servicio no apruebe la información ambiental en el plazo que corresponda conforme al reglamento, se entenderá aprobada sin más trámite.
 
-b) No dar cumplimiento a las condiciones de densidad o descanso en los centros de cultivo o la coordinación de las mismas en las agrupaciones de concesiones, dispuestas de conformidad con la ley y sus reglamentos.
+b) No dar cumplimiento a las condiciones de densidad o descanso en los centros de cultivo, dispuestas de conformidad con la ley y sus reglamentos.
 
-En los casos antes señalados, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 y 3.000 UTM.
+c) No dar cumplimiento a las medidas coordinadas de densidad, descanso o vacunaciones, que se hayan establecido para la agrupación de concesiones respectiva, de conformidad con la ley y sus reglamentos.
 
-Si en el plazo de cuatro años contado desde la primera infracción, se configura una segunda infracción de las antes señaladas en el mismo centro, se sancionará al titular de la concesión con la suspensión de operaciones del centro respectivo por el plazo de tres años. Se caducará la concesión o autorización respectiva, al titular de la misma que no dé cumplimiento a la suspensión de operaciones antes indicada.
+d) No eliminar los ejemplares en cultivo o eliminarlos fuera de plazo, cuando así lo haya dispuesto el Servicio como medida para enfrentar una emergencia sanitaria o en aplicación de un programa sanitario de control de una enfermedad de alto riesgo.
+
+e) No dar cumplimiento a los tratamientos terapéuticos ordenados obligatoriamente por el Servicio en emergencia sanitaria, dispuesta de conformidad con el reglamento a que se refiere el artículo 86.
+
+f) No dar cumplimiento a los tratamientos terapéuticos establecidos por el Servicio en un programa específico de control de conformidad con el reglamento a que se refiere el artículo 86.
+
+En el caso de las letras
+
+- **a)** y
+
+- **d)** anteriores, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 unidades tributarias mensuales y hasta el equivalente al valor de cosecha de los ejemplares sembrados. En el caso de las letras b),
+
+- **c)** y
+
+- **e)** anteriores, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 unidades tributarias mensuales y hasta el equivalente al valor de cosecha de los ejemplares que exceden el número fijado para dar cumplimiento a la densidad de cultivo o de los ejemplares que permanecieron en el centro de cultivo excediendo el período de descanso o que hayan debido ser objeto de las vacunaciones o de los tratamientos terapéuticos respectivos. En todos estos casos, se podrá sancionar con la suspensión de las operaciones del centro de cultivo por hasta los cuatro años consecutivos siguientes al de la infracción.
+
+En el caso de la letra f) anterior, el titular del centro de cultivo en que se hubiere cometido la infracción será sancionado con multa entre 2.000 y 3.000 unidades tributarias mensuales, equivalentes al valor en pesos que corresponda a la fecha del pago.
+
+El valor de la multa deberá enterarse en la Tesorería comunal correspondiente, dentro del plazo de diez días contado desde la fecha de notificación de la resolución sancionatoria o la sentencia firme que pone término a la reclamación judicial.
+
+El pago de la multa deberá acreditarse ante la Subsecretaría acompañando el comprobante respectivo. El no pago de la multa constituirá una nueva infracción que se sancionará con una suspensión de operaciones equivalente a los tres ciclos productivos siguientes y se someterá al procedimiento previsto en este artículo.
+
+Para la aplicación de las multas, el valor de cosecha corresponderá al valor de los ejemplares al término de un ciclo productivo completo y se fijará por especie o grupos de especies en cultivo en el mes de enero y junio de cada año por resolución de la Subsecretaría, previo informe técnico.
+
+Si en el plazo de cuatro años contado desde la primera infracción, se configura una segunda infracción de las antes señaladas en el mismo centro, se sancionará al titular de la concesión con la suspensión de operaciones del centro respectivo por el plazo de cinco años y con la multa indicada en el inciso anterior. Se caducará la concesión o autorización respectiva, al titular de la misma que no dé cumplimiento a la suspensión de operaciones indicadas en el presente inciso y el segundo.
 
 La suspensión se hará efectiva a partir de la fecha de notificación de la resolución de la Subsecretaría que la impone. No obstante, en los casos en que existan ejemplares en cultivo a dicha fecha, la suspensión será aplicada a partir de la cosecha de éstos, quedando prohibido el nuevo ingreso de ejemplares.
 
@@ -2942,7 +2988,7 @@ El plazo de suspensión de operaciones dispuesto en virtud de este artículo no 
 
 Se declarará la caducidad de la concesión de acuicultura, si se configura una tercera infracción de las señaladas precedentemente, en el plazo de tres años contado desde el cumplimiento de la segunda suspensión respecto de este centro de cultivo.
 
-En el evento de escape o pérdida masiva de recursos en sistemas de cultivo intensivo o de desprendimiento o pérdida de recursos exóticos en cultivos extensivos, y constatado el incumplimiento de la adopción de medidas de seguridad de los módulos de cultivo y fondeo o de la mantención de las mismas en los casos que corresponda, conforme al reglamento, el titular del centro de cultivo será sancionado con multa de 500 a 3.000 unidades tributarias mensuales.
+En el evento de escape, desprendimiento o pérdida de recursos exóticos, cualquiera sea su magnitud y la pérdida, desprendimiento o escape de recursos nativos, que revistan el carácter de masivos, y siempre que se hubiere constatado el incumplimiento de la adopción de medidas de seguridad de los módulos de cultivo y fondeo o de la mantención de las mismas en los casos que corresponda, conforme al reglamento, el titular del centro de cultivo será sancionado con multa de 500 a 3.000 unidades tributarias mensuales.
 
 El titular del centro de cultivo en que se constate el uso de fármacos o de sustancias químicas prohibidas para la acuicultura, será sancionado con multa de 500 a 3.000 unidades tributarias mensuales. En caso de reiterarse la infracción dentro del plazo de dos años, la multa se duplicará.
 
@@ -2951,6 +2997,12 @@ Las infracciones de este artículo no se someterán al procedimiento establecido
 #### Artículo 118 quáter
 
 Sin perjuicio de lo señalado en el inciso séptimo del artículo anterior, en caso de escape o pérdida masiva de recursos en sistemas de cultivo intensivo o el desprendimiento o pérdida de recursos hidrobiológicos exóticos en sistemas extensivos, se presumirá que existe daño ambiental de conformidad con la ley Nº 19.300 si el titular del centro no recaptura como mínimo el 10% de los ejemplares en el plazo de 30 días contado desde el evento, prorrogables por una vez en los mismos términos.
+
+#### Artículo 118
+
+quinquies.- Se aplicará la suspensión de operaciones por el plazo de dos años, a un centro de cultivo por haber sido clasificado en bioseguridad baja por dos veces consecutivas, al término de los descansos sanitarios respectivos, de conformidad con la metodología establecida en el reglamento a que se refiere el artículo 86.
+
+La suspensión de operaciones se aplicará de conformidad al procedimiento previsto en el artículo 118 ter.
 
 #### Artículo 119
 
@@ -3040,7 +3092,7 @@ PROCEDIMIENTO
 
 #### Artículo 122
 
-La fiscalización del cumplimiento de las disposiciones de la presente ley, será ejercida por funcionarios del servicio y personal de la Armada y de Carabineros, según corresponda, a la jurisdicción de cada una de estas instituciones.
+La fiscalización del cumplimiento de las disposiciones de la presente ley, será ejercida por funcionarios del Servicio y personal de la Armada y de Carabineros, según corresponda, a la jurisdicción de cada una de estas instituciones.
 
 En el ejercicio de la función fiscalizadora de la actividad pesquera, los funcionarios del Servicio y el personal de la Armada tendrán la calidad de Ministros de Fe.
 
@@ -3048,13 +3100,17 @@ En el ejercicio de la función fiscalizadora, el servicio estará facultado para
 
 a) Inspeccionar y registrar inmuebles, establecimientos, centros de cultivo, centros de acopio, centros de faenamiento, viveros, centros de matanza, recintos, naves, aeronaves, trenes, vehículos, contenedores, cajas, embalajes, envases o elementos que hayan servido para cometer las infracciones, tales como artes y aparejos de pesca donde se produzcan, cultiven, elaboren, procesen, almacenen, distribuyan y comercialicen especies hidrobiológicas y sus productos derivados.
 
+Asimismo, el Servicio podrá inspeccionar y registrar los establecimientos en que realicen sus funciones las personas inscritas en el registro a que se refiere la letra k) de este artículo, centros de experimentación u otros que importen, mantengan o utilicen, material biológico o patológico.
+
+El Servicio podrá efectuar muestreos de las especies hidrobiológicas vivas o muertas y material de alto riesgo, patológico o genético, en los establecimientos y centros a que se refiere esta letra.
+
 En el evento de oposición al registro o inspección, los funcionarios del Servicio podrán solicitar el auxilio de la fuerza pública, la que contará con la facultad de descerrajar, si fuere necesario, para ingresar a lugares cerrados que no constituyan morada.
 
-b) Controlar la calidad sanitaria de los materiales de importación usados destinados a las actividades de pesca o acuicultura, y de los productos de importación, que se destinen a carnada, a usos alimenticios o medicinales de los recursos hidrobiológicos. Igualmente, podrá controlar la calidad sanitaria de los productos pesqueros de exportación y otorgar los certificados oficiales correspondientes, cuando así lo requieran los peticionarios.
+b) Controlar la calidad sanitaria de los materiales y embarcaciones de importación usados destinados a las actividades de pesca o acuicultura, y de los productos de importación, que se destinen a carnada, a usos alimenticios o medicinales de los recursos hidrobiológicos. Igualmente, podrá controlar la calidad sanitaria de los productos pesqueros de exportación y otorgar los certificados oficiales correspondientes, cuando así lo requieran los peticionarios.
 
 Las labores de inspección, muestreo y análisis podrán ser encomendadas a las entidades que cumplan con los requisitos que fije el reglamento.
 
-c) Efectuar los controles sanitarios, zoosanitarios y fitosanitarios de las especies acuáticas vivas de exportación y otorgar los certificados oficiales correspondientes; y controlar la internación de alimentos y de productos biológicos de uso en la acuicultura de acuerdo con los requisitos que fije el reglamento.
+c) Efectuar los controles sanitarios, zoosanitarios y fitosanitarios de las especies acuáticas vivas de exportación e importación y otorgar los certificados oficiales correspondientes; y controlar la internación de alimentos y de productos biológicos de uso en la acuicultura de acuerdo con los requisitos que fije el reglamento.
 
 La labor de análisis, para efectos de control, podrá ser encomendada a las entidades que cumplan con los requisitos que fije el reglamento.
 
@@ -3062,15 +3118,13 @@ d) Adoptar las medidas necesarias para evitar la internación al territorio naci
 
 El reglamento determinará la forma y condiciones en que se harán efectivas las medidas de protección necesarias para el adecuado cumplimiento de lo dispuesto en el inciso precedente.
 
-Para los efectos de lo dispuesto en la letra b) precedente, derógase el artículo 41° de la Ley N° 18.768.
-
 e) Registrar bodegas y centros de distribución y consumo, cuando se presuma fundadamente que en ellos se encuentran recursos o productos adquiridos con infracción a la normativa pesquera, o elementos que hayan servido para cometer dichas infracciones, tales como artes o aparejos de pesca.
 
-f) Requerir y examinar toda la documentación que se relacione con la actividad pesquera extractiva, de elaboración y de comercialización que se fiscaliza, tales como libros, cuentas, archivos, facturas, guías de despacho y órdenes de embarque.
+f) Requerir y examinar toda la documentación que se relacione con la actividad pesquera extractiva y de acuicultura, de elaboración y de comercialización que se fiscaliza, tales como libros, cuentas, archivos, facturas, guías de despacho y órdenes de embarque.
 
 g) Requerir de los fiscalizados, a través de sus gerentes, representantes legales o administradores, los antecedentes y aclaraciones que sean necesarias para dar cumplimiento a su cometido.
 
-h) Requerir de los fiscalizados, bajo declaración jurada, informes extraordinarios de producción y declaraciones de stock de los recursos elaborados y de los productos derivados de ellos, respecto de las plantas de procesamiento y transformación de recursos hidrobiológicos, centros de consumo y comercialización de recursos pesqueros.
+h) Requerir de los fiscalizados, bajo declaración jurada, informes extraordinarios de abastecimiento, existencia, traslado o cosecha, producción y declaraciones de stock de los recursos pesqueros o cultivados, elaborados y de los productos derivados de ellos, respecto de los centros de cultivo, de las plantas de procesamiento y transformación de recursos hidrobiológicos, centros de consumo y comercialización de los recursos hidrobiológicos.
 
 i) Proceder a la colocación de sellos en containers, objetos, vehículos o lugares sujetos a fiscalización y que contengan o trasladen recursos o productos derivado de ellos.
 
@@ -3088,11 +3142,25 @@ La inscripción en el registro tendrá una vigencia de tres años y podrá ser r
 
 l) Exigir el uso de un sistema de posicionamiento automático a las embarcaciones que prestan servicios de cualquier naturaleza a los centros de cultivo integrantes de agrupaciones de concesiones, de conformidad con las disposiciones del Título V de esta ley.
 
+m) Llevar un registro de personas naturales o jurídicas, según corresponda, de acuerdo a la categoría indicada en el reglamento, que realicen las actividades de prestación de servicios de transporte, lavado, desinfección, procesamiento y embarque y desembarque, en los casos en que los reglamentos así lo dispongan para verificar el cumplimiento de los requisitos de operación establecidos para estas actividades.
+
+El Servicio deberá notificar al prestador de servicios las disconformidades menores que pueda constatar en el cumplimiento de las obligaciones señaladas en el reglamento, otorgándole un plazo que no exceda de diez días corridos para subsanarlas. Asimismo, el Servicio deberá suspender del registro hasta por un plazo de tres años, a quienes incumplan con los requisitos y obligaciones legales y reglamentarias o no subsanen las disconformidades constatadas en el plazo antes referido. El reglamento determinará el plazo de la suspensión aplicable a cada tipo de incumplimiento dependiendo de su gravedad y reiteración.
+
+La suspensión del registro afectará a la persona jurídica y a sus socios personalmente considerados, quienes no podrán inscribirse por el mismo plazo de la suspensión, ya sea directamente o a través de otra persona jurídica de la que formen parte.
+
+La inscripción en el registro mantendrá su vigencia mientras no se configure alguna causal de suspensión.
+
+n) Destruir el material biológico o patológico que, sin contar con la autorización correspondiente, sea encontrado por el Servicio en el ejercicio de controles fronterizos o de la actividad de fiscalización. La destrucción será obligatoria, sin mediar autorización judicial previa, en los casos en que se trate de patógenos no presentes en Chile, de un agente causal de una enfermedad de alto riesgo de Lista 1 o Lista 2, de material biológico sin identificar, de material patológico o que constituyan plagas. Los gastos que demande la ejecución de estas medidas serán de cargo de su tenedor.
+
+ñ) Disponer obligatoriamente los puntos de embarque y desembarque que deberán ser utilizados para el transporte de ejemplares, sean vivos o muertos, que provengan de centros de cultivo en que se haya producido una emergencia sanitaria, para evitar o disminuir en el mayor grado posible la diseminación del agente causal de la enfermedad de alto riesgo respectiva. El titular de los ejemplares deberá utilizar los puntos de embarque y desembarque señalados por el Servicio y asumirá los costos que de ello se deriven.
+
+Para los efectos de lo dispuesto en la letra b) precedente, derógase el artículo 41° de la Ley N° 18.768.
+
 #### Artículo 122 bis
 
 El Servicio deberá elaborar, por cuenta y costo de los titulares de centros de cultivo, a cualquier título, la información ambiental que acredite que el centro está operando de conformidad con el artículo 87 de esta ley. El Servicio podrá encomendar esta labor, previa licitación, a personas naturales o jurídicas, inscritas en el registro a que se refiere el artículo 122, letra k).
 
-Las tasas que deban pagar los titulares de centros de cultivo por la elaboración de la información ambiental serán fijadas por decreto del Ministerio. Los titulares deberán entregar al Servicio, previo a la elaboración de la información ambiental, en la oportunidad fijada en el reglamento, el comprobante de pago de la tasa correspondiente ante la Tesorería General de la República.
+La tarifa por la elaboración de la información ambiental que deba ser pagada por los titulares de los centros de cultivo será fijada por resolución del Ministerio, previo informe técnico del Servicio, salvo que este último encomiende dicha labor, en virtud del inciso primero de este artículo, a personas naturales o jurídicas, de conformidad con la ley Nº 19.886, sobre contratación pública. En tal evento, el Servicio fijará dicha tarifa en la resolución que resuelva la contratación de la elaboración de la información ambiental. Los titulares deberán entregar al Servicio, previo a la elaboración de la información ambiental, en la oportunidad fijada en la resolución respectiva, el comprobante de pago de la tasa correspondiente ante la Tesorería General de la República.
 
 Los resultados de los muestreos efectuados conforme a este artículo se presumirán válidos salvo que los afectados acrediten por cualquier vía que los mismos son erróneos, falsos, infundados o que en su elaboración se han cometido omisiones.
 
@@ -3222,7 +3290,7 @@ Procederá de igual forma el Ministerio Público cuando se le denuncie la perpet
 
 #### Artículo 129
 
-Las especies hidrobiológicas, en su estado natural o procesadas, objeto de la infracción, como también las artes y aparejos de pesca y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, y puestos a disposición del juez competente a la mayor brevedad.
+Las especies hidrobiológicas, en su estado natural o procesadas, y los materiales biológicos o patológicos, objeto de la infracción, como también las artes y aparejos de pesca y medios de transporte utilizados al efecto, deberán ser incautados por los fiscalizadores que hayan constatado la infracción, y puestos a disposición del juez competente a la mayor brevedad. Tratándose de los materiales biológicos o patológicos, con excepción de los casos en que se haya procedido de conformidad con el artículo 122 letra n) de esta ley, el Servicio podrá inactivar o destruir estos productos, previa autorización judicial.
 
 Podrá el juez de la causa, tratándose de especies hidrobiológicas incautadas, en su estado natural o procesadas, y actuando como representante legal de su propietario, ordenar a un almacén general de depósito u otro establecimiento similar el bodegaje de ellas y su inmediata subasta por intermedio de un martillero público que designe al efecto. El producto de la subasta, luego de descontarse el valor de los servicios de bodegaje, martillo y otros proporcionados, deberá depositarse en la cuenta corriente del tribunal en garantía del pago de las multas que pudieren ser aplicadas.
 
@@ -3429,6 +3497,10 @@ j) Incurrir en una tercera infracción de conformidad con lo dispuesto en el art
 k) En el caso de los centros de cultivo que en virtud de esta ley se mantengan en operación en lagos, incurrir por tres veces en condición anaeróbica, de conformidad con el reglamento a que se refiere el artículo 87.
 
 l) Haber sido sancionado el titular tres veces en dos años en virtud de lo dispuesto en el artículo 118 ter, letra b), párrafo séptimo o del artículo 137 bis.
+
+m) Haber sido clasificado el centro de cultivo con bioseguridad baja de acuerdo con el reglamento a que se refiere el artículo 86, inmediatamente después de la suspensión de operaciones aplicada de conformidad con el artículo 118 quinquies.
+
+n) En los casos en que se trate de concesiones que se encuentren ubicadas en franjas de distancia obligatoria entre macro zonas y que no hayan solicitado relocalizarse al 8 de abril de 2015, existiendo áreas apropiadas al efecto, incurrir por dos veces, al término del descanso sanitario correspondiente a la concesión, en una clasificación de bioseguridad baja, conforme a la metodología establecida en el reglamento a que se refiere el artículo 86.
 
 El tribunal que haya conocido de una infracción a esta ley y cuya reiteración pueda dar lugar a la configuración de causales de caducidad de conformidad con este artículo, deberá comunicar la sentencia que impone la sanción al acreedor hipotecario inscrito en el Registro de Concesiones de Acuicultura que lleva la Subsecretaría de Marina, en el plazo de un mes contado desde la fecha de la resolución respectiva. Dentro del mismo plazo, la Subsecretaría deberá comunicar al acreedor hipotecario las sanciones impuestas de conformidad con el artículo 118 ter.
 

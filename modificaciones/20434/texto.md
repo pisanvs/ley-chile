@@ -518,13 +518,13 @@ Desde la fecha de publicación de la presente ley, suspéndese en las Regiones D
 
 En las regiones antes señaladas, sólo se tramitarán las solicitudes de ampliación de área presentadas al 31 de enero de 2009 y los cambios de proyectos técnicos. Además, se permitirá la relocalización de las concesiones de conformidad con el artículo 5º de esta ley.
 
-Las solicitudes de concesiones de acuicultura para peces presentadas en la Décima Región de Los Lagos, que no se encuentren en los casos previstos en los incisos anteriores, deberán ser denegadas.
+Las solicitudes de concesiones de acuicultura para peces presentadas en la Décima Región de Los Lagos, que no se encuentren en los casos previstos en los incisos anteriores, deberán ser denegadas. Las solicitudes de concesiones de acuicultura, cualquiera sea la especie o grupo de especies a cultivar, que hayan sido presentadas en la Undécima Región de Aysén del General Carlos Ibáñez del Campo y que no se encuentren en los casos previstos en los incisos anteriores, deberán ser denegadas, con excepción de las solicitudes de relocalización.
 
 La Subsecretaría de Pesca deberá determinar, previo informe de la Autoridad Marítima, los sectores que encontrándose dentro de áreas apropiadas para la acuicultura en las Regiones Décima de Los Lagos, y Undécima de Aisén del General Carlos Ibáñez del Campo, sean canalizos de acceso a caletas de pesca artesanal, atracaderos y áreas de seguridad de embarcaciones menores. Una vez delimitados dichos sectores deberán desafectarse las áreas apropiadas para la acuicultura en ellos, con el solo mérito de lo informado por la Autoridad Marítima.
 
-Vencido el plazo de dos años, contado desde la fecha de publicación de esta ley, se reiniciará en la Undécima Región de Aisén del General Carlos Ibáñez del Campo el ingreso de solicitudes de nuevas concesiones y el otorgamiento de las mismas.
+INCISO DEROGADO.
 
-Vencido el plazo de cinco años, contado desde la fecha de publicación de esta ley, en la Décima Región de Los Lagos, sólo se otorgarán nuevas concesiones de acuicultura de peces en las áreas apropiadas para la acuicultura vigentes a la fecha de publicación de esta ley, en el evento de que existan nuevos espacios disponibles originados por la renuncia o declaración de caducidad de concesiones actualmente vigentes. Los espacios disponibles serán determinados por la Subsecretaría de Pesca previo informe técnico. Las nuevas concesiones se otorgarán de conformidad con las disposiciones de la presente ley y de los reglamentos vigentes a la fecha de otorgamiento.
+Vencido el plazo de cinco años, contado desde la fecha de publicación de esta ley, en la Décima Región de Los Lagos y en la Undécima Región de Aysén del General Carlos Ibáñez del Campo, sólo se otorgarán nuevas concesiones de acuicultura de peces en las áreas apropiadas para la acuicultura vigentes a la fecha de publicación de esta ley, en el evento de que existan nuevos espacios disponibles originados por la renuncia o declaración de caducidad de concesiones actualmente vigentes. Los espacios disponibles serán determinados por la Subsecretaría de Pesca previo informe técnico. Las nuevas concesiones se otorgarán de conformidad con las disposiciones de la presente ley y de los reglamentos vigentes a la fecha de otorgamiento.
 
 #### Artículo 3º
 
@@ -552,7 +552,7 @@ Vencido el plazo máximo señalado para que el Gobierno Regional proponga modifi
 
 #### Artículo 5º
 
-Los centros de cultivo de peces en las Regiones Décima de Los Lagos, y Undécima de Aisén del General Carlos Ibáñez del Campo podrán relocalizarse, en la misma región, dentro de una agrupación de concesiones fijada por la Subsecretaría o el Servicio, según corresponda, o cambiarse a otra, cumpliendo con los siguientes requisitos:
+Los centros de cultivo de peces en las Regiones Décima de Los Lagos, y Undécima de Aysén del General Carlos Ibáñez del Campo y Duodécima de Magallanes y Antártica Chilena podrán relocalizarse, en la misma región, dentro de una agrupación de concesiones fijada por la Subsecretaría o el Servicio, según corresponda, o cambiarse a otra, cumpliendo con los siguientes requisitos:
 
 a) Mantener el grupo de especies hidrobiológicas y área de la concesión autorizada.
 
@@ -568,11 +568,13 @@ El titular de dos o más concesiones de acuicultura podrá fusionarlas, sometié
 
 Para efectuar la relocalización y las fusiones, el reglamento podrá fijar una distancia inferior a la establecida en virtud del artículo 87 de la Ley General de Pesca y Acuicultura, entre los centros de cultivo integrantes de agrupaciones de concesiones.
 
-Los titulares de concesiones de acuicultura ubicadas en sectores declarados de uso incompatible con la acuicultura, gozarán de preferencia para solicitar la relocalización de dichas concesiones en el plazo de seis meses contado desde la fecha de publicación de esta ley o del decreto supremo que establezca la zonificación, según corresponda.
+INCISO DEROGADO.
 
-Asimismo, tendrá preferencia en la relocalización la solicitud cuyo objeto sea reemplazar una concesión cuyo titular haya tenido una producción de salmón del pacífico o trucha arcoiris que represente a lo menos el 50% de su producción total, en los dos años anteriores a la fecha de la solicitud de relocalización.
+Asimismo, tendrá preferencia en la relocalización la solicitud cuyo objeto sea reemplazar una concesión cuyo titular haya tenido una producción de salmón del pacífico o trucha arcoiris que represente a lo menos el 50% de su producción total, en los dos años anteriores a la fecha de la solicitud de relocalización. Esta preferencia sólo será aplicable respecto de las solicitudes de relocalización que hayan sido presentadas antes del 8 de abril de 2011.
 
 En los casos en que exista superposición entre solicitudes de relocalización y exista una zonificación del borde costero aprobada por decreto supremo, se dará preferencia a aquella solicitud que implique la renuncia a una concesión de acuicultura ubicada en un sector definido de uso incompatible con la acuicultura y la relocalización en un sector definido de uso compatible con dicha actividad. En los demás casos, se estará al procedimiento general.
+
+Asimismo, se considerará que la concesión de acuicultura se encuentra en un área de uso incompatible con la acuicultura, conforme al criterio de incompatibilidad fijado mediante la zonificación del borde costero, cuando quede emplazada en un sector que sea declarado por la Subsecretaría como una franja de distancia obligatoria entre agrupaciones de concesiones o de macro zonas por razones sanitarias y con el solo mérito del acto que así lo establezca, de conformidad con el reglamento a que se refiere el artículo 86.
 
 #### Artículo 6º
 
@@ -612,13 +614,13 @@ Durante los años 2010 a 2015, los titulares de concesiones o autorizaciones de 
 
 Prohíbese el otorgamiento de nuevas autorizaciones para la operación de centros de acopio de peces y la renovación de las concesiones marítimas de playa de mar, de porción de agua o fondo de mar otorgadas a la fecha de publicación de esta ley para la operación de aquéllos.
 
-Mientras no se dicte el reglamento a que se refiere el inciso segundo del artículo 90 bis de la Ley General de Pesca y Acuicultura, que contemple la tecnología o procedimiento que asegure que no se produzca la diseminación de patógenos por intercambio de aguas en destino, la Subsecretaría no podrá autorizar ninguna nueva solicitud de centros de acopio de peces.
+Mientras no se dicte el reglamento a que se refiere el inciso segundo del artículo 90 bis de la Ley General de Pesca y Acuicultura, que contemple la tecnología o procedimiento que asegure que no se produzca la diseminación de patógenos, la Subsecretaría no podrá autorizar ninguna nueva solicitud de centros de acopio de peces.
 
-Los centros cuya concesión marítima tenga como fecha de vencimiento los años 2009 ó 2010 podrán seguir operando, previa renovación, hasta el 31 de diciembre de 2011.
+Los centros cuya concesión marítima tenga fecha de vencimiento entre los años 2009 y 2013 podrán seguir operando, previa renovación, hasta el 31 de marzo de 2014.
 
 #### Artículo 3º
 
-El plazo de paralización de actividades en que hubieren incurrido las concesiones de acuicultura, en el lapso comprendido entre el 1 de julio de 2007 y el 31 de diciembre de 2011, no se contabilizará para efectos de la configuración de la causal de caducidad prevista en el artículo 142, letra e), de la Ley General de Pesca y Acuicultura.
+El plazo de inactividad en que hubieren incurrido las concesiones y autorizaciones de acuicultura, en el lapso comprendido entre el 1 de enero de 2006 y el 31 de diciembre de 2011, no se contabilizará para efectos de la configuración de la causal de caducidad prevista en el artículo 142, letra e), de la Ley General de Pesca y Acuicultura.
 
 #### Artículo 4º
 
