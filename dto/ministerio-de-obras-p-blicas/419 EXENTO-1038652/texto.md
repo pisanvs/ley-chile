@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, por Decreto MOP Exento Nº419 de 29 de febrero de 2012, se expropiaron los lotes de terrenos N°s. 21 y 22, superficies 734 y 489 m2, rol de Avalúo 204-16, comuna de Panguipulli, para la obra "MEJ0RAMIENTO RUTA 203-CH, SECTOR PUENTE RUCATREHUA-CHOSHUENCO, TRAMO KM. 71,54000 AL KM. 93,28612", XIV Región. La Comisión de Peritos integrada por Juan Celestino Giovannini Mansilla, Juan Samuel Barrientos Bahamonde y Nelson Bernardo Turra Turra, fijó el valor de tasación con fecha 6 de noviembre de 2008, acordándose la indemnización con su propietaria MARÍA TERESA GONZÁLEZ ETCHEGARAY, en la cantidad de $9.445.453.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
