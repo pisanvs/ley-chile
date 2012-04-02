@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº435 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº7, superficie 57 m2, rol Nº3206-43, para la obra "Camino Ruta S-30 Sector Temuco - Labranza Km. 4,61500 a Km. 11,68000", Comuna de Temuco, Provincia de Cautín Región de la Araucanía. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, fijó valor de tasación con fecha 09 de noviembre de 2009, acordándose la indemnización con sus propietarios ERNA FEDERIKE JULIANNE WAGEMANN PROESSEL Y OTROS, en la cantidad de $1.887.329, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
