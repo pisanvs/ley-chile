@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº412 de 29 de febrero de 2012, se expropiaron los lotes de terrenos N°s. 35, 36 y 37-A, superficies 666, 15 y 382 m2, rol de Avalúo Nº1245-36, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO". La Comisión de peritos, integrada por ADRIANA FASCE CASANUEVA, CLAUDIO CASTRO GUTIÉRREZ Y SUSANA CONEJEROS RUDLOFF, fijó el valor de tasación con fecha 18 de octubre de 2009, acordándose la indemnización con su propietario HERIBERTO CARRASCO TORRES, en la cantidad de $3.124.106.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
