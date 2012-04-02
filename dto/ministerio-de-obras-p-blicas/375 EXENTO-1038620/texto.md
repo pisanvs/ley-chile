@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. (Exento) Nº375, de 29 de febrero de 2012, se expropió el lote de terreno Nº10, superficie 25.470 m2., Rol Nº158-54, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO - LAS GAVIOTAS, TRAMO KM. 65,58046 AL KM. 72,78493", Comuna de Puerto Octay, Provincia de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Nelson Bernardo Turra Turra y Enrique Edgardo Hoelck Altmann, mediante informe de tasación de fecha 15 de marzo de 2007, acordó el valor de la indemnización con sus propietarios JOSEF HELMLINGER FABJANCIC y OTRA, en la cantidad de $66.884.661, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
