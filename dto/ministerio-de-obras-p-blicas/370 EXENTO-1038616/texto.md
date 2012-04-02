@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº370 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº10, superficie 16 m2, rol Nº902-54, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II, (Malaguín - Las Losas)", Comuna de Alto del Carmen, Provincia de Huasco. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, mediante informe de tasación de fecha 25 de julio de 2011, acordó el valor de la indemnización con su propietario JOSE WILLIAMS CAMPILLAY ROJAS, en la cantidad de $510.763, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
