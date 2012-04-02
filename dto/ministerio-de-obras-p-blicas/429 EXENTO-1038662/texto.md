@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el artículo 105 del DFL MOP. N°850 de 1997, por Decreto MOP. (Exento) Nº429, de fecha 29 de febrero de 2012, se expropió el lote de terreno N°16, superficie 2.376 m2., rol Nº181-271, para la obra "Construcción Puente sobre el Río Maule (Colbún) y Accesos", Comuna de San Clemente - Colbún, Provincia de Talca - Linares, Región del Maule. La comisión de peritos, integrada por Juan Eduardo Salazar León, Iván Correa Opazo y Alicia Flores Pacheco, fijó el valor de tasación con fecha 26 de octubre de 2010, acordándose la indemnización con su propietaria IDALIA ROJAS VERGARA, en la cantidad de $2.182.352, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
