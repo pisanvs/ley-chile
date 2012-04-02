@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº4590, de 16 de diciembre de 2011, se dejó sin efecto la expropiación del lote de terreno N°2, correspondiente al Estudio de Ingeniería del Sistema de Riego de la Red Secundaria y Terciaria de Canales Faja Maisan, Obra: "Canal Mapu Quimey", Derivados 2 y 2-3, ordenado a expropiar mediante Decreto MOP. Exento N°3183, de 17 de octubre de 2011, en consideración que el lote N°2, se encuentra emplazado en tres inmuebles con distinta denominación y rol de avalúo.
+
+Fiscal del Ministerio de Obras Públicas.
