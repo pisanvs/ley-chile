@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. (Exento) Nº368, de 29 de febrero de 2012, se expropió el lote de terreno Nº1-A, superficie 4.762 m2., Rol Nº1900-2, para la obra "CONSTRUCCIÓN CONEXIÓN VIAL RUTA 5 (PUERTO MONTT) - RUTA 7 (CHAMIZA)", Comuna de Puerto Montt, Provincia de Llanquihue, X Región. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Leopoldo Ramón Schumacher Guarda y Juan Samuel Barrientos Bahamonde, mediante informe de tasación de fecha 06 de junio de 2011, acordó el valor de la indemnización con su propietario SERVICIO DE SALUD RELONCAVI, en la cantidad de $185.763.709, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
