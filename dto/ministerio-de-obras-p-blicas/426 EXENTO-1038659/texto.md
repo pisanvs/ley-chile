@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº426 de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº17, superficie 3.402 m2, rol Nº250-12, para la obra "Mejoramiento Camino 64D825, Sector Salamanca - Quelén Bajo", Comuna de Salamanca, Provincia de Choapa. La Comisión de Peritos integrada por Victor Vargas Reyes, Juan Ibáñez Palma y Elisa Tapia Fernández, fijó valor de tasación con fecha 05 de junio de 2011, acordándose la indemnización con su propietario ARTURO ELOY CUEVAS ATENAS, en la cantidad de $6.762.450, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
