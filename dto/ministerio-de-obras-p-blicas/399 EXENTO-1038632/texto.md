@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el artículo 105 del DFL MOP. N°850 de 1997, por Decreto MOP. (Exento) Nº399, de fecha 29 de febrero de 2012, se expropió el lote de terreno Nº66, superficie 3.436 m2., rol Nº270-9, para la obra "Camino Cauquenes - Chanco NºRol M - 50, Sector Tutuvén - Chanco, Tramo Km. 15,20000 a Km. 28,80000", Comuna de Chanco, Provincia de Cauquenes, Región del Maule. La comisión de peritos, integrada por Patricio Casagrande Ulloa, Nelson Ramírez Ramírez y Rodrigo Silva Lazo, fijó el valor de tasación con fecha 27 de junio de 2008, acordándose la indemnización con su propietario RAÚL ALEJANDRO VERA PEÑAILILLO, en la cantidad de $2.574.393, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
