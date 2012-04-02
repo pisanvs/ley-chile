@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº401 de fecha 29 de febrero de 2012, se expropiaron los lotes de terreno N°s 1 y 2, superficies 149 y 152 m2 respectivamente, rol Nº291-776, para la obra "Camino Pircunche - Llamuco, Sector Puente Llamuco, Km. 5,150, tramo Km. 5,00500 a Km. 5,32000", Comuna de Vilcún, Provincia de Cautín, Región de la Araucanía. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, fijó valor de tasación con fecha 06 de agosto de 2010, acordándose la indemnización con su propietario SEGUNDO PAINENAO MARIVIL, en la cantidad de $1.940.412, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
