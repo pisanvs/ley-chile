@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP (exento) Nº357 de fecha 29 de febrero de 2012, se expropiaron los lotes de terreno N°s 3-A y 3-B, superficies 1.592 y 607 m2 respectivamente, rol Nº110-179, para la obra "Proyecto de Pavimentación Av. General San Martín", Comuna de Quilicura, Provincia de Santiago. La Comisión de Peritos integrada por Ramón Undurraga Montes, Patricia Zavala Contreras y Patricio Fernando Casagrande Ulloa, mediante informe de tasación de fecha 15 de junio de 2010, acordó el valor de la indemnización con su propietario SUNG NAN LU LI, en la cantidad de $45.169.849, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
