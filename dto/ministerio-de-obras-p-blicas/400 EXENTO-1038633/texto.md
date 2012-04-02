@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº400 de 29 de febrero de 2012, se expropió el lote de terreno Nº18, superficie 1.237 m2, rol de Avalúo Nº524-365, comuna de Tirúa, para la obra "MEJORAMIENTO CAMINO COSTERO S: TIRÚA - LÍMITE REGIONAL", REGIÓN DEL BÍO BÍO. La Comisión de peritos, integrada por ALEJANDRA FIGUEROA GIRALT, CLAUDIO CASTRO GUTIÉRREZ Y JUAN TEPPER LAVANDEROS, fijó el valor de tasación con fecha 18 de septiembre de 2010, acordándose la indemnización con su propietario JOSÉ OLEGARIO MILLANAO LEUMAN Y OTROS, en la cantidad de $4.377.558.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
