@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el art. 105 del DFL. MOP. MOP. Nº850 de 1997, por Decreto MOP. (Exento) Nº413, de 29 de febrero de 2012, se expropió el lote de terreno Nº5, superficie 26 m2., Rol de avalúo 4900-2, para la obra "Mejoramiento Ruta C-495, El Tránsito - Junta de Valeriano, Etapa II" (Conay - Malaguín), Comuna de Alto del Carmen, Provincia de Huasco, IV Región. La comisión de peritos, integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 25 de septiembre de 2009, acordándose la indemnización con su propietaria NURY EDITH ESPINOZA FLORES, en la cantidad de $537.193, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
