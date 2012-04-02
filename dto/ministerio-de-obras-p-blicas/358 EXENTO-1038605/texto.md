@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. (Exento) Nº358, de 29 de febrero de 2012, se expropió el lote de terreno Nº16, superficie 76 m2., Rol Nº1450-115, para la obra "Reposición Ruta 225-CH, Sector Escuela Los Riscos - Ensenada, Tramo Km. 24,60000 a Km. 43,19047", Comuna de Puerto Varas, Provincia de Llanquihue, X Región. La Comisión de Peritos integrada por Juan Samuel Barrientos Bahamonde, Leopoldo Ramón Schumacher Guarda y Christian Emil Rauch Yáñez, mediante informe de tasación de fecha 04 de mayo de 2011, acordó el valor de la indemnización con su propietaria DORIS MARGARITA ANITA LUCKEHEIDE MORAWITZ, en la cantidad de $1.683.293, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
