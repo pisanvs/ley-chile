@@ -1,0 +1,3 @@
+De conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, por Decreto MOP. Exento Nº381, de 29 de febrero de 2012, se expropió el lote de terreno Nº189, superficie 372 m2., Rol de avalúo 3457-307, para la obra, "Mejoramiento Ruta F-50, Sector Lo Orozco - Quilpué, Tramo 3: Km. 17,57835 a Km. 29,49799", Comuna de Quilpué, Provincia de Valparaíso. La Comisión de Peritos integrada por María Isabel Ríos Marcuello, Marcela Redard Ayala y Juan Pablo Navarro Rachow, mediante informe de tasación de fecha 10 de diciembre de 2010, acordó el valor de la indemnización con su propietaria ANA TERESA MORENO SÁEZ, en la cantidad de $3.883.352.-
+
+Fiscal del Ministerio de Obras Públicas.
