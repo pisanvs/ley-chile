@@ -24,6 +24,8 @@ Resolución:
 
 4.- Publíquese en un periódico de circulación regional, un aviso que indique el lugar y fecha en que serán publicadas las nóminas de los postulantes seleccionados y los respectivos proyectos, conforme al número 3. de esta resolución, las que deberán contener a lo menos, la comuna, el Título del cual se trate, el nombre de cada postulante con su respectiva Cédula Nacional de Identidad y el puntaje obtenido por el grupo o persona.
 
+> **Nota.** El numeral 3 de la Resolución 2457 Exenta, Vivienda, publicada el 03.04.2012, modifica la presente norma, en el sentido de incorporar a la nómina de seleccionados en el Titulo II modalidad de Seguridad de la Vivienda, del grupo Mejoramiento Ilusión de Villa Jardín del Este, cuyo Código de Grupo es N° 73567, comuna de Talca, a las personas que la citada norma indica.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
