@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 987 EXENTA, DE 2012
+
+Por resolución exenta N° 987, de fecha 13 de marzo de 2012, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "B "& B Capacitación y Conducción Limitada", cuyo nombre de fantasía es "B & B Ltda.", representada legalmente por la señora Jessica Viviana Bastías Rodríguez, RUT N° 14.368.058-4, y por el señor Rodrigo Alejandro Bravo Ureta, RUT Nº 12.726.181-4, quien es su Director, la que tendrá su lugar de funcionamiento en el local ubicado en Pasaje Phillips N° 16, piso 5, oficina H, comuna de Santiago.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial Transportes y Telecomunicaciones Región Metropolitana.
