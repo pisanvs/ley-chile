@@ -1,0 +1,7 @@
+Por resolución exenta Nº 232, de 3 de febrero de 2012, de esta Subsecretaría, autorízase la cesión de 717,332 toneladas de Merluza del sur provenientes de los armadores artesanales pertenecientes a las flotas de las Áreas Punta Arenas y Puerto Natales, sometidas al Régimen Artesanal de Extracción, al grupo de armadores industriales cuya participación conjunta en la unidad de pesquería sur exterior de Merluza del sur para el año 2012 fue reconocida mediante resolución exenta Nº75, de 2012, de esta Subsecretaría.
+
+Descuéntense de las cuotas autorizadas mediante resolución exenta Nº3.537 de 2011, de esta Subsecretaría de Pesca, 319,484 toneladas al Área Punta Arenas y 397,848 toneladas al Área de Puerto Natales, provenientes de los armadores artesanales cedentes pertenecientes a las flotas que en cada caso se indica en la resolución extractada.
+
+El límite máximo de captura total autorizado para el año 2012 al grupo de armadores industriales integrado por EMDEPES S.A., PESQUERA GRIMAR S.A., PESCA CHILE S.A. y PESQUERA SUR AUSTRAL S.A., cuya participación conjunta en la unidad de pesquería sur exterior del recurso Merluza del sur, en el área marítima comprendida entre los paralelos 47º L.S. y 57º L.S., fue reconocida mediante resolución exenta Nº75, de 2012, de esta Subsecretaría de Pesca, ascenderá a 4.319,469 toneladas.
+
+Valparaíso, 3 de febrero de 2012.- Pablo Galilea Carillo, Subsecretario de Pesca.
