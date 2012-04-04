@@ -1,0 +1,3 @@
+Por resolución exenta Nº 750, de 29 de marzo de 2012, de esta Subsecretaría, recházanse las solicitudes números 210103090, 210101046, 210103016, 210103017, 210101111, 210103019, 210103075, 210103078 y 210103018, señaladas en la resolución extractada, y publicada íntegramente www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de marzo de 2012.- Pablo Galilea Carillo, Subsecretario de Pesca.
