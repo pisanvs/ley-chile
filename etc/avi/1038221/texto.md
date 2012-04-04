@@ -354,7 +354,7 @@ Para estos efectos, se deberá incorporar la siguiente frase: "Proyecto Aprobado
 
 ### 7. Seguimiento y Supervisión de los Proyectos Aprobados
 
-Las entidades ejecutoras de estos proyectos deberán otorgar las facilidades pertinentes cuando así lo requiera el Gobierno Regional, para verificar el cumplimiento de las actividades del proyecto y con ello, el logro de sus objetivos, conforme a lo dispuesto en la letra d) del artículo 20 del DFL 1-19.175, de 2005, que fija el Texto Refundido, Coordinado, Sistematizado y Actualizado de la Ley Nº 19.175, Orgánica Constitucional de Gobierno y Administración Regional e informar, recibir y cumplir las observaciones que se le formulen a través del o los funcionarios que este designe para tal efecto.
+Las entidades ejecutoras de estos proyectos deberán otorgar las facilidades pertinentes cuando así lo requiera el Gobierno Regional, para verificar el cumplimiento de las actividades del proyecto y con ello, el logro de sus objetivos, conforme a lo dispuesto en la letra d) del artículo 20 del DFL 1-19.175, del 2005, que fija el Texto Refundido, Coordinado, Sistematizado y Actualizado de la Ley Nº 19.175, Orgánica Constitucional de Gobierno y Administración Regional e informar, recibir y cumplir las observaciones que se le formulen a través del o los funcionarios que éste designe para tal efecto.
 
 ### VI. PROCEDIMIENTO PARA RENDICIONES DE CUENTAS
 
