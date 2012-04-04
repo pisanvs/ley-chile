@@ -1,0 +1,3 @@
+Por resolución exenta Nº 717, de 29 de marzo de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.657, de 2009, que autorizó a BUENA PESCA S.A. para realizar actividades pesqueras extractivas con la nave "Nicomar", respecto del recurso hidrobiológico Alfonsino, en el área marítima comprendida entre la III a X Regiones, y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante Memoranda Técnicos citados en Visto de la resolución extractada.
+
+Valparaíso, 29 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
