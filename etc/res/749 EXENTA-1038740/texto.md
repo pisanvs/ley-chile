@@ -1,0 +1,3 @@
+Por resolución exenta Nº 749, de 29 de marzo de 2012, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nº 210103076, 210103082, 209111050, 210103020, 210106010, 210103014 y 210103015, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 29 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
