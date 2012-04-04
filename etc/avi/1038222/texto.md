@@ -50,7 +50,7 @@ Por la sola presentación de un proyecto a esta Convocatoria se entiende, para t
 
 En el evento que un proyecto involucre derechos de propiedad intelectual de terceros, corresponderá a su responsable el cumplimiento de la normativa vigente sobre derechos de autor. Sin perjuicio de lo indicado, se deberá acompañar autorización expresa del titular de los derechos, con firma autorizada ante notario público.
 
-C. Devolución de antecedentes
+### 6. Devolución de antecedentes
 
 No se devolverán los antecedentes, documentos o información de los proyectos postulados.
 
@@ -58,7 +58,7 @@ No se devolverán los antecedentes, documentos o información de los proyectos p
 
 A. Iniciativas presentadas por municipalidades
 
-A.1. Objetivos y tipos de proyectos
+A.1. Objetivos y tipo de proyectos
 
 Se considerarán aquellos proyectos presentados por las municipalidades de la Región de La Araucanía que establezcan propuestas de carácter local, comunal, intercomunal y/o regional, con resultados socioculturales objetivables y con miras al desarrollo de actividades significativas. Además, rescaten elementos de la multiculturalidad existente, involucrando de preferencia a un número importante de artistas y cultores locales, ya sea mediante espacios de formación, gestión, discusión, participación directa o indirecta en la ejecución del proyecto; así como iniciativas consideradas novedosas o relevantes para la región.
 
@@ -240,7 +240,7 @@ De acuerdo a las líneas de postulación, se deberán adjuntar los siguientes an
 
 4.1 Proyectos presentados por municipalidades
 
-a) Cartas compromiso por aportes propios y/o de terceros, si los hubiere.
+a) Cartas compromisos por aportes propios y/o de terceros, si los hubiere.
 
 b) Declaración jurada simple, certificando la gratuidad de las actividades contempladas en el proyecto, según formato tipo entregado por el Gobierno Regional en formato Word y PDF (Anexo Nº 01).
 
@@ -248,7 +248,7 @@ c) Copia del acta del Concejo Municipal en que se aprueba la presentación del p
 
 d) Designación de un funcionario municipal, con responsabilidad administrativa, como Encargado de la ejecución de los proyectos aprobados por el Gobierno Regional y representante ante éste, según formato tipo entregado por el Gobierno Regional, en formato Word y PDF, en formulario de postulación (Anexo Nº 02).
 
-e) Fotocopia de la cédula de identidad vigente del (de los) representante(s) legal(es) del postulante.
+e) Fotocopia de la cédula de identidad vigente del (los) representante(s) legal(es) del postulante.
 
 4.2 Proyectos presentados por instituciones privadas sin fines de lucro
 
@@ -260,7 +260,7 @@ c) Carta designando por escrito a uno de los integrantes del Directorio de la in
 
 d) Declaración jurada simple, certificando la gratuidad de las actividades contempladas en el proyecto, según formato tipo entregado por el Gobierno Regional, en formato Word y PDF (Anexo Nº 03).
 
-e) Fotocopia de la cédula de identidad vigente del (de los) representante(s) legal(es) del postulante.
+e) Fotocopia de la cédula de identidad vigente del (los) representante(s) legal(es) del postulante.
 
 f) Certificado de inscripción en el Registro Único de Personas Jurídicas Receptoras de Fondos Públicos (disponible en el portal www.registros19862.cl).
 
@@ -276,7 +276,7 @@ b) Verificación del estado de las rendiciones de cuentas, de concursos anterior
 
 c) Recepción de todos los antecedentes requeridos. Se revisarán todos los antecedentes solicitados en el apartado Postulación de proyectos, dependiendo de la línea a la que se postula.
 
-d) Adecuación de los proyectos a los límites y restricciones de financiamiento incluidos en el presente Reglamento.
+d) Adecuación de los proyectos a los límites y restricciones de financiamiento incluidas en el presente Reglamento.
 
 Será declarado inadmisible el proyecto que no cumpla parte o alguno de los aspectos antes mencionados. Se levantará un acta con los resultados de este análisis, incluyendo los proyectos declarados admisibles como los declarados inadmisibles y sus causas.
 
@@ -376,7 +376,7 @@ Las entidades ejecutoras de estos proyectos deberán otorgar las facilidades per
 
 La resolución Nº 759, de 2003, de la Contraloría General de la República, que fija normas de procedimientos sobre rendición de cuentas, establece lo siguiente:
 
-Toda entidad que reciba, custodie, administre o pague fondos del Fisco, está obligada a rendir a la Contraloría General de la República las cuentas comprobadas de su manejo.
+Toda entidad que reciba, custodie, administre o pague fondos del Fisco, están obligadas a rendir a la Contraloría General de la República las cuentas comprobadas de su manejo.
 
 Se deberá preparar mensualmente la rendición de las operaciones, dentro de los cinco días hábiles siguientes al mes que corresponda. Esta rendición de cuentas estará constituida por los comprobantes de ingreso, egreso y traspaso, acompañados de la documentación en que se fundamentan, los que constituyen el reflejo de las transacciones realizadas en el desarrollo de su gestión en dicho período.
 
