@@ -1,0 +1,3 @@
+Por resolución exenta Nº 748, de 29 de marzo de 2012, de esta Subsecretaría, recházanse las solicitudes números 209111333 y 203103052, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290, de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 29 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
