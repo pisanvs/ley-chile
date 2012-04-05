@@ -1,0 +1,3 @@
+Por resolución exenta N° 648, de 23 de marzo de 2012, de esta Subsecretaría, autorízase a ORIZON S.A. para ampliar actividades pesqueras extractivas con la nave "Malleco", en las áreas marítimas que a continuación se indican, donde podrá capturar los siguientes recursos hidrobiológicos: a) En el área marítima de la III y IV Regiones, por fuera del área de reserva artesanal, con cerco: Jibia o Calamar rojo, Pampanito, Agujilla, Machuelo o Tritre y Vinciguerria; b) En el área marítima de la V a VII y XIV a X Regiones, por fuera del área de reserva artesanal, con cerco: Jibia o Calamar rojo, Pampanito, Agujilla, Machuelo o Tritre y Vinciguerria.
+
+Valparaíso, 23 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
