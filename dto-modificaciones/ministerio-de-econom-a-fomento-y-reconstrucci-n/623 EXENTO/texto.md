@@ -38,47 +38,7 @@ c) Santa Elisa Nº 3441, comuna de San Joaquín, domicilio particular del conduc
 
 #### Artículo 3º
 
-Asígnase para uso del Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción los vehículos que a continuación se señalan, autorizándoles para circular en días sábados en la tarde, domingos y festivos, exentos del disco fiscal distintivo a que se refiere el artículo 3º del Decreto Ley Nº 799, de 1974, y sin restricción de horarios, los que podrán ser estacionados en los domicilios particulares que se indican:
-
-Vehículo Modelo Nº Motor Placa Única
-
-Automóvil Legacy 2.0R 4D AT D614662 BRYJ.73-7
-
-AWD UQ
-
-Marca Año Nº Chassis Color
-
-Subaru 2009 G053177 Plateado
-
-Acero
-
-Metálico
-
-Asignado a don Hernán Cheyre Valenzuela.
-
-Cargo: Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción.
-
-Estacionamiento: Calle El Overo Nº 10767, La Dehesa, comuna de Lo Barnechea, Santiago.
-
-Conductor: Domingo Vallejos Gutiérrez.
-
-Domicilio conductor: Calle Raquel Nº 59, comuna de San Joaquín, Santiago.
-
-Vehículo de Apoyo a la Vicepresidencia Ejecutiva de la Corporación de Fomento de la Producción:
-
-Vehículo Modelo Nº Motor Placa Única
-
-Automóvil Optra II LS NB 4P F18D3040902K SW.6833-2
-
-1.8 AT AC
-
-Marca Año Nº Chassis Color
-
-Chevrolet 2007 KL1JJ52B77K603644 Plateado
-
-Conductor: Marcos Uribe Rojas.
-
-Domicilio conductor: Calle Santa Elisa Nº 3441, comuna de San Joaquín, Santiago.
+Asígnese para uso del Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción, los vehículos que a continuación se señalan, autorizándose su circulación en días sábados en la tarde, domingos y festivos, exentos del disco fiscal distintivo a que se refiere el artículo 3º del decreto ley Nº 799, de 1974, y sin restricción de horario, los que podrán ser estacionados en los domicilios particulares que se indican:
 
 #### Artículo 4º
 
