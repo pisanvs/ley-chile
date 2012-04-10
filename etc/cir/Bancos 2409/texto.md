@@ -2600,8 +2600,6 @@ Para abrir cuentas corrientes a personas jurídicas, debe verificarse que la soc
 
 - **e)** y la acreditación de que están legalmente facultados para girar sobre la cuenta corriente.
 
-La documentación en que conste el cumplimiento de las exigencias antes señaladas, se mantendrá archivada en la oficina en que se abra la cuenta corriente.
-
 1.2. Registro y comprobación del domicilio del cuentacorrentista.
 
 1.2.1. Registro del domicilio.
@@ -3482,11 +3480,11 @@ Simultáneamente con la apertura de la cuenta debe efectuarse el depósito inici
 
 Al tratarse de una cuenta de ahorro con libreta, dicho depósito quedará registrado en la libreta que debe entregársele en el acto al titular.
 
+Lo anterior no es óbice para suscribir un contrato de cuenta de ahorro sin efectuar simultáneamente un depósito, siempre que en dicho contrato se establezca que surtirá efecto sólo una vez que se efectúe el primer depósito dentro de un plazo determinado, oportunidad que corresponderá a la fecha de apertura para la aplicación de sus cláusulas y de las presentes normas.
+
 3.5. Modificaciones a las condiciones pactadas con el titular.
 
-Para efectuar cualquier cambio a las condiciones por las que se rige una cuenta de ahorro, el banco deberá informar debidamente al interesado acerca de las características y costos de las nuevas condiciones.
-
-Las modificaciones a las condiciones se tratarán igual que el cierre y apertura de una nueva cuenta de ahorro, salvo en los siguientes casos en que podrán seguirse los procedimientos que se indican:
+En caso de que las partes acuerden cambios en las condiciones de una cuenta de ahorro, se procederá igual que el cierre y apertura de una nueva cuenta, salvo por lo siguiente:
 
 a) Si no hay cambios en la condición de giro diferido, giro incondicional o de cuenta a la vista, no será necesario suscribir un nuevo contrato, sino que basta un anexo en que conste la conformidad del titular con las nuevas condiciones por las que se regirá la cuenta a partir de la fecha que se indique. En estos casos podrá también seguir utilizándosela misma libreta, dejando constancia en ella, mediante un timbre u otro medio, del cambio en las condiciones pactadas.
 
