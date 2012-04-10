@@ -18,6 +18,6 @@ Que, por otro lado, cabe señalar que las pesquerías de merluza austral en las 
 
 Resuelvo:
 
-Suspéndase la vigencia y aplicación de la resolución exenta Nº 1.155, de 12 de julio de 2007, del Servicio Nacional de Pesca, a contar de la publicación de la presente resolución, hasta el 31 de marzo del año en curso.
+Suspéndase la vigencia y aplicación de la resolución exenta Nº 1.155, de 12 de julio de 2007, del Servicio Nacional de Pesca, a contar de la publicación de la presente resolución, hasta el 30 de junio del año en curso.
 
 Anótese, comuníquese y publíquese en el Diario Oficial.- Ana María Urrutia Garay, Directora Nacional (S).
