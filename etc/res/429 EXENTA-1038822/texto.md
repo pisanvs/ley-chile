@@ -1,0 +1,7 @@
+DELEGA FACULTADES EN LOS JEFES DE AVALUACIONES Y JEFES DE UNIDADES QUE INDICA
+
+Extracto de resoluciones exentas que se indican, relativas a delegación de facultades dictadas por los Directores de las Direcciones Regionales I, II, IV, V, VI, VII, IX, X, XI, XII, Metropolitanas Centro, Oriente, Poniente, de Los Ríos y Arica y Parinacota, en los Jefes de Avaluaciones y Jefes de Unidades en materias de su competencia.
+
+. Por resoluciones exentas Nos 429, de 13/03/2012, 660, de 14/03/2012, 755, de 08/03/2012, 1.836, de 13/03/2012, 21, de 08/03/2012, 1.578, de 12/03/2012, 1.591, de 19/03/2012, 1.121, de 15/03/2012, 150, de 08/03/2012, 272, de 08/03/2012, 127, de 07/03/2012, 84, de 16/03/2012, 1.791, de 07/03/2012, 604, de 08/03/2012, 406, de 14/03/2012, respectivamente, los Directores de las Direcciones Regionales I, II, IV, V, VI, VII, IX, X, XI, XII, Metropolitanas Centro, Oriente, Poniente, de Los Ríos y Arica y Parinacota delegaron en los Jefes de Avaluaciones y en los Jefes de Unidades la facultad de requerir información a las municipalidades, conforme a lo previsto en los artículos 83 y 87 del Código Tributario y/o dar respuesta a los requerimientos de información de éstas, en los casos que ello sea pertinente, en el curso de la tramitación de los procedimientos administrativos referidos en la Circular 14 de 2012.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en abril de 2012.
