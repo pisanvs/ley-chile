@@ -1,0 +1,3 @@
+Por resolución exenta N°766, de 3 de abril de 2012, de esta Subsecretaría, recházanse las solicitudes números 210103050, 210103099, 210103086, 210103122, 210103182, 209121041, 210101123, 210103144, 210103145, 210103146, 204101140, 210103138, 210103105 y 210103130, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 3 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
