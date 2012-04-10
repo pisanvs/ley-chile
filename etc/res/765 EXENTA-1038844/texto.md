@@ -1,0 +1,3 @@
+Por resolución exenta Nº 765, de 3 de abril de 2012, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nos 209121069 y 209121064, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, y 13 del DS Nº 320 de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
