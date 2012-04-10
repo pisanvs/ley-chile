@@ -1,0 +1,3 @@
+Por resolución exenta N° 768, de 3 de abril de 2012, de esta Subsecretaría, recházanse las solicitudes números 210104005, 210104015, 210104006, 210104007, 210103031, 210103004, 210103157, 210103032 y 209111002, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 3 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
