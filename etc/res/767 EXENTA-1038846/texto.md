@@ -1,0 +1,3 @@
+Por resolución exenta Nº 767, de 3 de abril de 2012, de esta Subsecretaría, recházanse las solicitudes números 208111547, 209111134, 209111164, 209111440, 210111382, 210111423 y 210111575, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 3 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
