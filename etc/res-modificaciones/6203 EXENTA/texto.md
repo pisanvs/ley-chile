@@ -26,6 +26,8 @@ Resolución:
 
 > **Nota.** Los numerales 2, 3 y 4 de la Resolución 7936 Exenta, Vivienda, publicada el 03.12.2010, modifican en la forma que indica los cuadros contenidos en los resuelvos 2, 3 y 6 de la presente norma.
 
+> **Nota.** NOTA 1 La Resolución 2662 Exenta, Vivienda, publicada el 11.04.2012 modifica el resuelvo 2 de la presente norma de la siguiente manera:- El numeral 1, dispone eliminar en la nómina de postulantes seleccionados el número 2.391 correspondiente a doña Stefania Fabiola Orellana Mora, Cédula Nacional de Identidad Nº 15.711.035-7, de la Región Metropolitana y,- El numeral 2, ordena insertar en la nómina de postulantes seleccionados en el número 136 a doña Stefania Fabiola Orellana Mora, Cédula Nacional de Identidad Nº 15.711.035-7, correspondiente a la Región de Valparaíso, pasando el actual 136 a 137 y así sucesivamente hasta el número final de la nómina.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
