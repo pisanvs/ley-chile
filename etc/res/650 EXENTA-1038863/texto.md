@@ -1,0 +1,3 @@
+Por resolución exenta N° 650, de 23 de marzo de 2012, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA LANDES S.A., para ampliar actividades pesqueras extractivas con la nave "Don Tito", en las áreas marítimas que a continuación se indican, donde podrá capturar los siguientes recursos hidrobiológicos: a) En el área marítima de la V a IX Regiones, por fuera del área de reserva artesanal, con cerco: Bacaladillo o Mote; b) En el área marítima de la V a IX Regiones, por fuera de las 60 millas marinas, con arrastre de media agua: Bacaladillo o Mote.
+
+Valparaíso, 23 de marzo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
