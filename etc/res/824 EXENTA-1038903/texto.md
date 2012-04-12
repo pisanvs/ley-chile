@@ -1,0 +1,3 @@
+Por resolución exenta Nº 824, de 5 de abril de 2012, de esta Subsecretaría, rectifícanse las resoluciones exentas Nº 753 y Nº 754, ambas de 2012 y de esta Subsecretaría de Pesca, que establecieron las nóminas provisorias de buzos, recolectores de orilla, algueros o buzos apnea y de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refieren los artículos 1º y 2º de la ley Nº 20.560, en el sentido de eliminar en ambas resoluciones su numeral 2.- y el párrafo 4º del considerando respectivo.
+
+Valparaíso, 5 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
