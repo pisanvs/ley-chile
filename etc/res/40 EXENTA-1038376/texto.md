@@ -22,6 +22,6 @@ Congrio Dorado:
 
 3.- Transcríbase copia de la presente resolución a la Dirección General del Territorio Marítimo y Marina Mercante, al Servicio Nacional de Pesca y a la Subsecretaría de Pesca.
 
-Anótese, comuníquese y publíquese.- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo.
+Anótese, comuníquese y publíquese.- Tomás Flores Jaña, Ministro de Economía, Fomento y Turismo (S).
 
 Lo que transcribe para su conocimiento.- Saluda atentamente a Ud., Pablo Galilea Carrillo, Subsecretario de Pesca.
