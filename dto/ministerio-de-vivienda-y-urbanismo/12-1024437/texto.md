@@ -32,7 +32,7 @@ c) De un monto equivalente al 25% de cada dividendo para los deudores cuyo punta
 
 d) De un monto equivalente al 20% de cada dividendo para los deudores cuyo puntaje de la Ficha de Protección Social sea superior a 10.320 puntos y no exceda de 11.734 puntos.
 
-Para estos efectos se atenderá al puntaje de la Ficha de Protección Social vigente al 30 de noviembre de 2010.
+Para estos efectos se atenderá al puntaje de la Ficha de Protección Social vigente al 30 de noviembre de 2010. Tratándose de deudores, que no tengan Ficha de Protección Social vigente al 30 de noviembre de 2010, se atenderá a la ficha de menor puntaje, comprendida entre los meses de mayo de 2010 y mayo de 2011.
 
 Para hacer uso del beneficio, el solicitante deberá haber enterado la parte del respectivo dividendo no cubierta con la subvención que le corresponde conforme al presente decreto y deberá encontrarse al día en el servicio de su deuda.
 
@@ -58,6 +58,8 @@ d) Que el equivalente al promedio mensual de sus ingresos brutos durante el año
 
 e) Presentar antes del 30 de septiembre de 2011 la solicitud de postulación a los beneficios regulados por el presente decreto, en formulario que le proporcionará el SERVIU y/o el MINVU, en la cual se incluirá mandato al SERVIU y/o al MINVU para requerir todos los antecedentes inclusive los personales que se estimen necesarios para verificar la veracidad de la información proporcionada, como asimismo el cumplimiento de los requisitos que lo habilitan para acceder a estos beneficios.
 
+Tratándose de deudores que cumpliendo con todos los demás requisitos, no hubieren presentado su postulación a los beneficios regulados por el presente decreto antes del día 30 de septiembre de 2011, se abrirá un nuevo plazo de postulación desde el día 1º hasta el día 31 de mayo de 2012.
+
 #### Artículo 4º
 
 En caso que el postulante entregue información falsa, no podrá acceder a ninguno de los beneficios regulados por el presente decreto.
@@ -72,9 +74,11 @@ El beneficio que regula el presente decreto, podrá ser impetrado por el deudor 
 
 Sin perjuicio de lo anterior, en el caso que el deudor y su cónyuge se encuentren separados de hecho, lo que se acreditará mediante declaración jurada, y por dicha causa tengan Fichas de Protección Social separadas y siempre que la vivienda a cuya adquisición se aplicó el subsidio hubiere obtenido la declaración o afectación, sea temporal o permanente, como bien familiar, para los efectos del presente decreto y en particular para el cumplimiento de los requisitos señalados en su artículo 3º, se atenderá a los antecedentes del cónyuge requirente de la citada declaración, el que deberá señalar en la solicitud a que se refiere la letra e) del citado artículo 3º, el ingreso de la demanda interpuesta con este objeto indicando el RIT y el Tribunal de la causa o acompañar copia de la inscripción de dominio en que conste la subinscripción de dicha afectación.
 
+En caso que a la fecha de postulación al beneficio el cónyuge requirente aún no hubiere ingresado la demanda por la que solicita la declaración o afectación del inmueble como bien familiar, se tendrá por ingresada su postulación, debiendo, en todo caso, ingresar la demanda interpuesta e informar su número de RIT y el Tribunal de la causa, al Serviu respectivo antes del día 15 de julio de 2012.
+
 #### Artículo 6º
 
-Establécese, por una sola vez y hasta el 31 de diciembre de 2011, para los deudores que cumpliendo los requisitos señalados en los artículos 1º y 3º, reprogramen, el total o parte de los montos adeudados a la entidad financiera que les hubiere otorgado el crédito hipotecario o el mutuo hipotecario endosable o su cesionaria, una subvención a fin de permitir la implementación del respectivo proceso de reprogramación, cuyo monto no podrá exceder de la suma a que asciendan los gastos operacionales que irrogue esta medida, deducido el copago previo de una Unidad de Fomento que debe efectuar el deudor a la institución que detente el título de la deuda, destinada a financiar los referidos gastos operacionales. La subvención antes mencionada se hará efectiva siempre que la entidad financiera efectúe un recálculo de los intereses por todos los dividendos atrasados, ajustándolos a la tasa normal del crédito, entendiéndose por tal aquella con la que a la fecha de la reprogramación se está sirviendo el crédito, sin recargos, a menos que la tasa normal del crédito sea superior a la tasa de interés máxima convencional vigente a esa fecha, en cuyo caso se aplicará esta última. Asimismo, la tasa que se aplique a este monto resultante, para el período hacia delante, deberá ser igual o inferior a la tasa normal del crédito.
+Establécese, por una sola vez y hasta el 31 de agosto de 2012, para los deudores que cumpliendo los requisitos señalados en los artículos 1º y 3º, reprogramen, el total o parte de los montos adeudados a la entidad financiera que les hubiere otorgado el crédito hipotecario o el mutuo hipotecario endosable o su cesionaria, una subvención a fin de permitir la implementación del respectivo proceso de reprogramación, cuyo monto no podrá exceder de la suma a que asciendan los gastos operacionales que irrogue esta medida, deducido el copago previo de una Unidad de Fomento que debe efectuar el deudor a la institución que detente el título de la deuda, destinada a financiar los referidos gastos operacionales. La subvención antes mencionada se hará efectiva siempre que la entidad financiera efectúe un recálculo de los intereses por todos los dividendos atrasados, ajustándolos a la tasa normal del crédito, entendiéndose por tal aquella con la que a la fecha de la reprogramación se está sirviendo el crédito, sin recargos, a menos que la tasa normal del crédito sea superior a la tasa de interés máxima convencional vigente a esa fecha, en cuyo caso se aplicará esta última. Asimismo, la tasa que se aplique a este monto resultante, para el período hacia delante, deberá ser igual o inferior a la tasa normal del crédito.
 
 #### Artículo 7º
 
@@ -95,6 +99,8 @@ b) Estar habitando el beneficiario y/o su cónyuge la vivienda motivo del contra
 c) Que el precio prometido pagar por la vivienda a la cual se aplicó el subsidio habitacional, no haya sido superior a 650 unidades de fomento.
 
 d) Que el equivalente al promedio mensual de sus ingresos brutos durante el año 2009 no exceda de $500.000.- (quinientos mil pesos).
+
+En el evento que la evaluación de la Comisión concluya que la situación del deudor no es de extrema vulnerabilidad, la solicitud se considerará presentada para acogerse a los demás beneficios que contempla el presente decreto, siempre que cumpla los requisitos para acceder a ellos.
 
 #### Artículo 8º
 
