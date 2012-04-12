@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.225, de 29 de marzo de 2012, se publicó resolución exenta Núm. 40, que Establece Distribución Temporal de la Fracción Artesanal de las Pesquerías de Merluza del Sur y Congrio Dorado, con los errores que se salvan a continuación: Cuerpo I, página tres, primera columna, donde dice: "... Anótese, comuníquese y publíquese.- Pablo Longueira Montes, Ministro de Economía, Fomento y Turismo ..." debe decir: "...
+
+Anótese, comuníquese y publíquese.- Tomás Flores Jaña, Ministro de Economía, Fomento y Turismo (S) ...".
