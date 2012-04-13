@@ -8,8 +8,6 @@ Decreto:
 
 .
 
-> **Nota.** El N° 4 del Decreto 51, Salud, publicado el 31.12.2013, agregando los Servicios de Atención Primaria de Urgencia Urbanos, a continuación del último establecimiento, Villa Alegre Temuco, 7598 horas semanales, dando un total de 65731 horas semanales de dotación de SAPU Urbano, correspondiendo a un 3,04% del total nacional.
-
 Anótese, tómese razón y publíquese en el Diario Oficial.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Jaime Mañalich Muxi, Ministro de Salud.
 
 Transcribo para su conocimiento decreto afecto número 130, de 21-12-2010.- Saluda atentamente a Ud., Jorge Díaz Anaiz, Subsecretario de Salud Pública.
