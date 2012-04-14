@@ -72,7 +72,7 @@ De la misma manera, las personas que posean un título de nivel medio obtenido e
 
 #### Artículo 6º
 
-La División de Educación General, a través de la Oficina encargada, procederá a practicar la convalidación de estudios, otorgando un certificado de estudios que señale los cursos convalidados. La convalidación se hará mediante el examen de legalidad de la documentación escolar presentada para acreditar el nivel de escolaridad que se solicita que se reconozca.
+La Unidad de Atención e Información Educacional procederá a practicar la convalidación de estudios, otorgando un certificado de estudios que señale los cursos convalidados. La convalidación se hará mediante el examen de legalidad de la documentación escolar presentada para acreditar el nivel de escolaridad que se solicita se reconozca. Lo anterior, de acuerdo con las orientaciones técnico-pedagógicas que entregue la División de Educación General.
 
 III.- DE LA VALIDACION DE ESTUDIOS PARA EDUCACION BASICA
 
@@ -110,9 +110,27 @@ En todo caso, no podrán inscribirse para rendir exámenes de validación los me
 
 #### Artículo 10
 
-Será competente para conocer de la solicitud de validación la Secretaría Regional Ministerial de Educación de la jurisdicción correspondiente al domicilio del interesado, debiendo proceder para tal efecto a designar un establecimiento educacional reconocido oficialmente del nivel y la modalidad de estudios que se solicita validar para que elabore y administre los exámenes correspondientes.
+Será competente para conocer de la solicitud de validación la Secretaría Regional Ministerial de Educación de la jurisdicción correspondiente al domicilio del interesado, debiendo proceder para tal efecto a designar un establecimiento educacional que cumpla los siguientes requisitos:
 
-> **Nota.** La letra c) del DTO 2137 exento, Educación, publicado el 01.08.2008, ordenó sustituir en el presente artículo la expresión "de la respectiva Secretaría Regional Ministerial de Educación", por "del respectivo Departamento Provincial de Educación". Sin embargo la referida expresión no se encuentra en el presente artículo, por lo que no fue posible proceder a su actualización.
+a) Que cuente con reconocimiento oficial del Estado del nivel o modalidad de estudios que se solicita validar.
+
+b) Que no forme parte del registro a que se refiere el artículo 5º, del decreto supremo Nº 131, de 2003, del Ministerio de Educación, cuyo texto refundido fue fijado por el decreto 211, de 2009, del Ministerio de Educación.
+
+Las Secretarías Regionales Ministeriales de Educación designarán, preferentemente, a establecimientos educacionales que cuenten con resultados por sobre la media regional, para lo cual deberá considerarse a lo menos las últimas dos mediciones de carácter nacional realizadas de acuerdo al Sistema de Medición de la Calidad de la Educación (SIMCE) y/o aquellos establecimientos que estén seleccionados, de acuerdo al Sistema Nacional de Evaluación de Desempeño de los establecimientos subvencionados (SNED).
+
+#### Artículo 10º bis
+
+Los establecimientos designados como entidades examinadoras, de acuerdo a lo dispuesto en el artículo anterior, estarán obligados a:
+
+a) Aceptar por escrito ante la Secretaría Regional Ministerial de Educación correspondiente, la designación como entidad examinadora para validar estudios de Educación Básica y Media.
+
+b) Aplicada la examinación, suscribir el acta de registro de calificaciones, evaluación y promoción escolar, de acuerdo al formato dispuesto para tales efectos por el Ministerio de Educación.
+
+c) Designar un coordinador del proceso de examinación y conformar las comisiones con los docentes idóneos para llevar a cabo la examinación.
+
+Esta coordinación podrá ser ejercida por la o él director del establecimiento.
+
+d) Verificar que el acta de registro de calificaciones y promoción de alumnos o alumnas esté completa y remitirla en triplicado a la Secretaría Regional Ministerial de Educación correspondiente, dentro del plazo de diez días hábiles contados desde la fecha de comunicación de los resultados de la examinación al establecimiento educacional.
 
 #### Artículo 11
 
@@ -120,11 +138,13 @@ La preparación de estos exámenes deberá hacerse a partir de lo dispuesto en l
 
 El examen de validación de 1º a 4º año de Educación General Básica consistirá en una evaluación global y de 5º año de Educación General Básica a 4º año de Enseñanza Media consistirá en un examen por cada curso y subsector de aprendizaje.
 
-Las personas mayores de 15 años de edad que soliciten rendir este tipo de exámenes en Educación Básica y de los mayores de 18 años de edad que lo hagan en Educación Media, en ambos casos cumplidos al momento de presentar su solicitud, deberán ser examinados de conformidad a los planes oficiales vigentes para la modalidad de adultos y su evaluación y promoción se hará en conformidad a las disposiciones del reglamento de evaluación vigente para dicha modalidad.
+Las personas mayores de dieciocho años que requieran certificar estudios de educación básica y media serán evaluados de acuerdo al marco curricular y de Evaluación y Promoción vigente para la Educación de Adultos.
 
-El examen de las personas contempladas en el inciso precedente se realizará por nivel. El nivel de Educación Básica incluirá los subsectores del Ámbito de Formación General y el nivel de Educación Media los subsectores de los Ámbitos de Formación General y Formación Instrumental.
+El examen de las personas a las que se refiere el inciso precedente se realizará por nivel. Tanto en los niveles de Educación Básica, como en el nivel de Educación Media incluirán los subsectores del ámbito de Formación General.
 
 Los docentes que realicen la examinación deberán ser titulados en el nivel o sector y/o subsectores evaluados o contar con autorización o habilitación para impartir dicho nivel o sector y/o subsector.
+
+Las fechas de examinación se establecerán a través de un calendario anual, el que será determinado y comunicado por la División de Educación General del Ministerio de Educación.
 
 #### Artículo 12
 
@@ -132,7 +152,7 @@ El establecimiento confeccionará un Acta de Registro de Calificaciones y Promoc
 
 #### Artículo 13
 
-El examen de validación podrá ser administrado en la forma de tutoría, que corresponde a conversaciones donde el profesor del establecimiento designado expresa al alumno o alumna, en no más de tres reuniones, sus exigencias de contenidos y objetivos del módulo y lo orienta para que pueda prepararse, al final de las cuales se aplicará el examen por los profesionales del mismo establecimiento educacional.
+ELIMINADO
 
 DEL PROCESO DE VALIDACION
 
