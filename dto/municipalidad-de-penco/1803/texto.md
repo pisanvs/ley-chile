@@ -1,0 +1,5 @@
+ORDENA ESTUDIO DE EXPROPIACIÓN QUE INDICA
+
+Por decreto alcaldicio Nº 1.803 de Municipalidad Penco, de 30 de marzo de 2012, y en mérito de lo dispuesto en el artículo 2º y siguientes del DL 2.186/1978 Ley Orgánica de Procedimiento de Expropiaciones, y facultades conferidas por artículo 33 ley Nº 18.695/88, se ordenó estudio de expropiación por causa de utilidad pública del Lote 93 E, Rol de avalúo 130-148 comuna Penco, de dominio aparente de Juan Eduardo Fierro Díaz, inscrito a fjs. 165 vlta. Nº 149 del Registro de Propiedad año 1999 del Conservador de Bienes Raíces de Penco. La publicación se efectúa de conformidad y para los efectos de lo dispuesto en el artículo 2º del DL 2.186 citado. Inscríbase en el Registro de Interdicciones y Prohibiciones de Enajenar y anótese al margen de la inscripción de dominio citada en el Conservador de Bienes Raíces de Penco.
+
+- Asesor Jurídico I. Municipalidad de Penco.
