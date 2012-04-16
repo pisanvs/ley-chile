@@ -1,0 +1,3 @@
+Por resolución exenta Nº 291, de 30 de marzo de 2012, Serviu III Región de Atacama, conforme DL Nº2.186 de 1978 y DS Nº 1.048 de V. y U. de 2011, ordenó la expropiación parcial del inmueble denominado Lote 1 ubicado en Los Carrera Nº 2883, ciudad de Copiapó, rol de avalúo fiscal Nº 349-38, de aparente dominio de Claudio Graciano Bassi Pacheco para proyecto "Construcción Avenida Circunvalación Sur y Diego de Almagro, Copiapó" comisión tasadora integrada por Jaime Patricio Marín Salgado, ingeniero civil industrial; Marcelo Molina Ross, arquitecto, y Mario Hernán Castillo Fuentes, arquitecto, según informe de 28 de marzo de 2012, fijó un monto provisional de indemnización de $10.548.150.- pagadera al contado.
+
+- Director Serviu III Región Atacama.
