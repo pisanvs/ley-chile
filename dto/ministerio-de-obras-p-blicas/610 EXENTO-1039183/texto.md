@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº610, de 29 de marzo de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°667, de 29 de octubre de 2007, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°31-B, expropiado con motivo de la obra "Mejoramiento Ruta D-825, Limahuida - Almendrillo, Sector Tahuinco - Salamanca, Km. 13,14000 a Km. 23,49783, II Etapa". Consígnese judicialmente el monto provisional de la indemnización, fijado mediante tasación de 04 de septiembre de 2006, en la suma de $111.283.
+
+Fiscal del Ministerio de Obras Públicas.
