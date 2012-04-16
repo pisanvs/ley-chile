@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº558 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº4, superficie 253 m2, rol Nº403-15, para la obra "Reposición Pavimento Ruta 5, Sector Portofino - Chañaral", Comuna y Provincia de Chañaral. La Comisión de Peritos integrada por Manuel Pino Acevedo, Claudio Concha Grossi y Norman Calderón Pontiggia, fijó valor de tasación con fecha 27 de septiembre de 2010, acordándose la indemnización con su propietaria TERESA AMÉRICA SILVA ÁLVAREZ, en la cantidad de $8.276.348, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
