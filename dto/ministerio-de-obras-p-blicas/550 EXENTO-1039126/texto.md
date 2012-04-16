@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº550, de fecha 29 de marzo de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº59, superficie 446 m2, rol Nº3251-169, para la obra "CAMINO RUTA S:30, SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", Comuna de Temuco, Provincia de Cautín, IX Región. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, fijó el valor de tasación con fecha 09 de noviembre de 2009, acordándose la indemnización con su propietaria LUIS OMAR GUISILINE JARA ARRENDAMIENTO MAQUINARIAS Y VEHICULOS MOTORIZADOS EN GENERAL E.I.R.L., en la cantidad de $6.020.221, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
