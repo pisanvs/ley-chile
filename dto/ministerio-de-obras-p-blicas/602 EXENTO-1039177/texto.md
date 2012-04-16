@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº602, de 29 de marzo de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº45, superficie 371 m2., Rol Nº602-117, para la obra "Camino Rut 126, sector Coelemu - Rafael - Tomé, Tramo II, Km. 20,30000 a Km. 23,92041", Provincia de Concepción, Comuna de Tomé, Región de Bío Bío. La comisión de peritos, integrada por María A. Gutiérrez Flores, Claudio Castro Gutiérrez y Oscar Chávez Alcaino, fijó el valor de tasación con fecha 25 de enero de 2010, acordándose la indemnización con su propietario MIGUEL ÁNGEL OVIEDO CABRALES, en la cantidad de $349.858, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
