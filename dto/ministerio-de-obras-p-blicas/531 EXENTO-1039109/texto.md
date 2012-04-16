@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº531 de 22 de marzo de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP NO 850 de 1997, se expropiaron los lotes de terrenos N°s. 1 y 2, superficies 989,66 y 1.919,08 m2, rol de Avalúo 102-229 y 102-228, comuna de Chaitén, para la obra "PROYECTO DE CONECTIVIDAD EN LA X REGIÓN, LEPTEPÚ", X Región. La Comisión de Peritos integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN CELESTINO GIOVANNINI MANSILLA Y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 21 de octubre de 2010, acordándose la indemnización con su propietaria THE CONSERVATION LAND TRUST, en la cantidad de $37.435.708.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
