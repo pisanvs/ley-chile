@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº609, de 29 de marzo de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°2195, de 31 de agosto de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°19, expropiado con motivo de la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100". Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 9 de marzo de 2010, complementada por acta de fecha 25 de abril de 2011, en la suma de $366.000.
+
+Fiscal del Ministerio de Obras Públicas.
