@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº587 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº5, superficie 194 m2, rol Nº58-39, para la obra "Conservación Periódica Puentes Ñiquén 1, Ñiquén 2 en Ruta N-245 y Chacaicito en Ruta N-15, Provincia de Ñuble, Región del Bío Bío", Comuna de Ñiquén. La Comisión de Peritos integrada por Oscar Chávez Alcaíno, Valeska Ale Goñi y Francisco José Lama Vergara, fijó valor de tasación con fecha 07 de abril de 2011, acordándose la indemnización con su propietaria MIRTA GLADYS VELÁSQUEZ VELÁSQUEZ, en la cantidad de $1.376.281, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
