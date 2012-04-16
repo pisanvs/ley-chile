@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº563, de 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº13, superficie 541 m2., Rol Nº2235-114, para la obra "REPOSICIÓN RUTA 215-CH, BIFURCACIÓN AEROPUERTO CARLOS HOTT - CRUCE LAS LUMAS, DESDE EL KM. 3,99292 AL KM. 21,80000", Provincia y Comuna de Osorno, X Región. La comisión de peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 8 de abril de 2011, acordándose la indemnización con su propietaria AGRÍCOLA DONOSTIA LTDA., en la cantidad de $4.920.728, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
