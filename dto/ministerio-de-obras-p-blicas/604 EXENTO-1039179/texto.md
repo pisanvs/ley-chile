@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº604 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s 86-B y 88, superficies 253 y 341 m2, rol Nº213-238, para la obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) - Autopista Itata", región del Biobío, Comuna de Florida. La Comisión de Peritos integrada por María Gutiérrez Flores, Oscar Chávez Alcaíno y Valeska Ale Goñi, fijó valor de tasación con fecha 14 de julio de 2009, acordándose la indemnización con su propietario FERNANDO IGNACIO VERGARA RIVERA, en la cantidad de $378.356, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
