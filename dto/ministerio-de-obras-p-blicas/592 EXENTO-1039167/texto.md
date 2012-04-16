@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº592, de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropiaron los lotes de terreno N°s. 11, 12, 13 y 14, superficies 17, 336, 427 y 1.772 m2, rol Nº1248-27, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", Provincia y Región del Bío Bío, Comuna de Yumbel, VIII Región. La comisión de peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Susana Conejeros Rudloff, fijó el valor de tasación con fecha 18 de octubre de 2009, acordándose la indemnización con su propietario VICTOR H. MENDOZA FICA, en la cantidad de $2.840.088, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
