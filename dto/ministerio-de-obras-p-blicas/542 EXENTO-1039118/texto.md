@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº542, de 23 de marzo de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°508, de 31 de marzo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°16-A, expropiado con motivo de la obra "Camino Construcción Ruta U-91, Sector Río Correntoso - Las Gaviotas, Tramo Km. 65,58046 a Km. 72,78493". Consígnese judicialmente el monto provisional de la indemnización, fijado mediante tasación de 31 de marzo de 2009, complementada por acta de fecha 23 de septiembre de 2010, en la suma de $23.465.750.
+
+Fiscal del Ministerio de Obras Públicas.
