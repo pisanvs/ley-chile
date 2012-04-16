@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº564 de 29 de marzo de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº41-B, superficie 2.784 m2, rol de Avalúo 1423-71, comuna de Llanquihue, para la obra "CAMINO RUTA V-40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE - LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000", X Región. La Comisión de Peritos integrada por CHRISTIAN EMIL RAUCH YÁÑEZ, JUAN SAMUEL BARRIENTOS BAHAMONDE Y JUAN CELESTINO GIOVANNINI MANSILLA, fijó el valor de tasación con fecha 2 de diciembre de 2010, acordándose la indemnización con su propietario RODRIGO SERGIO LAVÍN CHRISTOPH, en la cantidad de $2.570.385.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
