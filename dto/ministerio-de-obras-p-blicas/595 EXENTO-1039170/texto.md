@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº595 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº83, superficie 127 m2, rol Nº611-11, para la obra "Mejoramiento Ruta I-710 Bifurcación I-50 - Yáquil, Km. 0,00000 a Km. 6,98000", Comuna de Santa Cruz. La Comisión de Peritos integrada por Robert Hilliard Jorquera, José Luis Pezo Segovia y Patricio Casagrande Ulloa, fijó valor de tasación con fecha 19 de marzo de 2010, acordándose la indemnización con su propietario JUAN DEL CARMEN NÚÑEZ GARRIDO, en la cantidad de $771.518, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
