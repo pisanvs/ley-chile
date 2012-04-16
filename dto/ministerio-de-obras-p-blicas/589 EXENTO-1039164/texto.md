@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº589 de 29 de marzo de 2012, y de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 16 y 17, superficies 1.111 y 971 m2, rol de Avalúo Nº1248-64, comuna de Yumbel, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO" VIII Región. La Comisión de peritos, integrada por ADRIANA FASCE CASANUEVA, CLAUDIO CASTRO GUTIÉRREZ Y SUSANA CONEJEROS RUDLOFF, fijó el valor de tasación con fecha 18 de octubre de 2009, acordándose la indemnización con su propietario VICTOR H. MENDOZA FICA, en la cantidad de $2.266.079.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
