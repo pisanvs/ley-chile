@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº297, de 29 de febrero de 2012, se dejó sin efecto el Decreto Exento MOP Nº1285, de 13 de junio de 2011, que ordenaba la expropiación del lote de terreno Nº104, para la obra "CONCESIÓN DE MEJORAMIENTO, REHABILITACIÓN Y CONSERVACIÓN DE LA RED VIAL DE LA REGIÓN DE COQUIMBO. TRAMO 10. BY PASS PAN DE AZÚCAR. KM. 0.000,00 A KM. 14.689,80", por no ser necesaria su expropiación para la obra.
+
+Fiscal del Ministerio de Obras Públicas.
