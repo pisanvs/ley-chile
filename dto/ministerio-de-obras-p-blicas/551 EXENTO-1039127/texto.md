@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº551 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s 27-A y 29-A, superficies 12.634 y 512 m2 respectivamente, rol Nº353-5, para la obra "Camino Ruta S-69, Sector Pedregoso - Villarrica Tramo Km. 25,80000 a Km. 38,52500", Comuna de Villarrica, Provincia de Cautín, IX Región. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Enrique Vallette de la Harpe, fijó valor de tasación con fecha 03 de diciembre de 2009, acordándose la indemnización con su propietario SEBASTIAN VARAS BRAUN Y OTROS, en la cantidad de $50.208.470, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
