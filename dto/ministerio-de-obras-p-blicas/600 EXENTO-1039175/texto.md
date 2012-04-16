@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº600 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s 1 y 4, superficie 682 y 332 m2 respectivamente, rol Nº23-39, para la obra "Conservación Periódica Puentes Ñiquén 1, Ñiquén 2 en Ruta N-245 y Chacaicito en Ruta N-15, Provincia de Ñuble, Región del Bío Bío", Comuna de Ñiquén. La Comisión de Peritos integrada por Oscar Chávez Alcaíno, Valeska Ale Goñi y Francisco José Lama Vergara, fijó valor de tasación con fecha 07 de abril de 2011, acordándose la indemnización con su propietario RAMÓN IGNACIO RAMÍREZ SALGADO, en la cantidad de $1.457.063, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
