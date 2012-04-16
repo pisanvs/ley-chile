@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº580 de fecha 29 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº25, superficie 283 m2, rol Nº2208-24, para la obra "Camino Ruta 7, Sector Lenca - Chaica, Tramo Km. 27,89372 a Km. 33,17100", Comuna de Puerto Montt, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Nelson Bernardo Turra Turra, fijó valor de tasación con fecha 09 de marzo de 2010, acordándose la indemnización con su propietario ERASMO SOTO HERNÁNDEZ, en la cantidad de $1.497.914, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
