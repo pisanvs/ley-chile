@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº567 de 29 de marzo de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº82, superficie 425 m2, rol de Avalúo 249-263, comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA - QUELEN BAJO", IV Región. La Comisión de Peritos integrada por Víctor Vargas Reyes, Juan Ibáñez Palma y Elisa Tapia Fernández, fijó el valor de tasación con fecha 5 de junio de 2011, acordándose el valor de la indemnización con su propietario, OSCAR RUBÉN CARVAJAL GALLARDO, en la cantidad de $2.014.390.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
