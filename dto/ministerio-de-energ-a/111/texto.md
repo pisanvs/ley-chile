@@ -48,7 +48,7 @@ Considerando:
 
 22. Que de acuerdo a lo indicado en el considerando anterior, con fecha 13 de octubre de 2011, el Comité de Análisis de Energía Geotérmica realizó la referida reevaluación así como la calificación de las ofertas económicas presentadas por las empresas oferentes, como consta en Acta de dicha fecha, aprobada por medio de resolución exenta Nº 695, de fecha 19 de octubre de 2011, del Ministerio de Energía, comunicada a los oferentes por medio de carta Minenergia Nº 1109, de fecha 19 de octubre de 2011, del Subsecretario de Energía.
 
-23. Que según consta en la citada resolución exenta Nº 645, el oferente que obtuvo un mayor puntaje para el área de concesión geotérmica denominada "Gorbea", fue la empresa Compañía Minera Zaldívar Limitada, con un total de 94.7 puntos.
+23. Que según consta en la citada resolución exenta Nº 695, el oferente que obtuvo un mayor puntaje para el área de concesión geotérmica denominada "Gorbea", fue la empresa Compañía Minera Zaldívar Limitada, con un total de 94.7 puntos.
 
 24. Que mediante oficio ord. Nº 1453, de fecha 4 de noviembre de 2011, la Dirección Nacional de Fronteras y Límites del Estado, en cumplimiento a lo establecido en el artículo 5º del DFL Nº 83, de 1979 del Ministerio de Relaciones Exteriores, manifestó su opinión favorable al otorgamiento de la concesión de exploración de energía geotérmica denominada "Gorbea" a la empresa Compañía Minera Zaldívar Limitada.
 
