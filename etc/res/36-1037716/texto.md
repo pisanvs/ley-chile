@@ -1,6 +1,6 @@
 OTORGA CONCESIÓN DE ACUICULTURA
 
-1.- Resolución 36, del 10 de enero de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Salmones Gama Limitada, sociedad chilena, RUT N° 76.065.730-1, domicilio en calle Klenner N° 547, piso 2, Puerto Varas, concesión de acuicultura de porción de agua y fondo de mar, requerida mediante solicitud N° 204111252, de fecha 2 de septiembre de 2004, ubicada en Isla Elena, al Sur de Punta Graciela, comuna y provincia de Aysén, XI Región de Aysén General Carlos Ibáñez del Campo, individualizada en la ubicación señalada en el Plano N° 907/2011-AC, visado por la Autoridad Marítima de Puerto Chacabuco.
+1.- Resolución 36, del 10 de enero de 2012, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó al Salmones Gama Limitada, sociedad chilena, RUT N° 76.065.730-1, domicilio en calle Klenner N° 547, piso 2, Puerto Varas, concesión de acuicultura de porción de agua y fondo de mar, requerida mediante solicitud N° 204111252, de fecha 2 de septiembre de 2004, ubicada en Isla Elena, al Sur de Punta Graciela, comuna y provincia de Aysén, XI Región de Aysén General Carlos Ibáñez del Campo, individualizada en la ubicación señalada en el Plano N° 907/2011-AC, visado por la Autoridad Marítima de Puerto Chacabuco.
 
 2.- Superficie 6,00 hectáreas, delimitada por las siguientes coordenadas geográficas:
 
