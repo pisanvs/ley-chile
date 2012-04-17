@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.232, de 9 de abril de 2012, se publicó decreto Nº 111, que "Adjudica y otorga concesión de exploración de energía geotérmica a la empresa Compañía Minera Zaldívar Limitada, en el área denominada "Gorbea", ubicada en las comunas de Antofagasta y Diego de Almagro, provincias de Antofagasta y Chañaral, regiones de Antofagasta y Atacama, en virtud de la ley Nº 19.657", con los errores que se salvan a continuación: II Cuerpo, página cinco, segunda columna, en el considerando Nº 23, donde dice: "... Que según consta en la citada resolución exenta Nº 645, el oferente que ..." debe decir: "... Que según consta en la citada resolución exenta Nº 695, el oferente que ...".
