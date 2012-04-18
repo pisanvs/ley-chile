@@ -68,15 +68,13 @@ b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: en el inmueble ubicado en 
 
 c) CENTRO DE INTERNACION PROVISORIA: en el inmueble ubicado en Avenida Eduardo Sepúlveda Whittle Nº 4498, comuna de La Serena.
 
-V.- QUINTA REGION:
+V.- Quinta Región
 
-a) CENTRO PARA LA INTERNACION EN REGIMEN CERRADO: en el inmueble ubicado en Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache.
+a) Centro para la Internación en Régimen Cerrado: En el inmueble ubicado en Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache.
 
-b) CENTRO PARA LA INTERNACION EN REGIMEN SEMICERRADO: los que se ubicarán en los siguientes domicilios. LIMACHE: Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache.
+b) Centro para la Internación en Régimen Semicerrado: En el inmueble ubicado en Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache.
 
-VALPARAISO: Calle Guacolda Nº 213, Cerro Lecheros, comuna de Valparaíso.
-
-c) CENTRO DE INTERNACION PROVISORIA: en el inmueble ubicado en Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache.
+c) Centro de Internación Provisoria: En el inmueble ubicado en Camino San Alfonso Nº 1000, Sector Camino Lliu Lliu, comuna de Limache
 
 VI.- SEXTA REGION:
 
@@ -140,29 +138,37 @@ c) CENTRO DE INTERNACION PROVISORIA: en el inmueble ubicado en Kilómetro 5 y ½
 
 XIII.- REGION METROPOLITANA
 
-a) CENTROS PARA LA INTERNACION EN REGIMEN CERRADO: los que se ubicarán en los siguientes domicilios: SANTIAGO: calle San Francisco Nº 1152, comuna de Santiago.
+a) Centros para la Internación en Régimen Cerrado: Los que se ubicarán en los siguientes domicilios:
 
-SAN JOAQUIN: calle Canadá Nº 5359, comuna de San Joaquín.
+Santiago: Calle San Francisco Nº 1152, comuna de Santiago.
 
-SAN BERNARDO: calle San Francisco Nº 16361, comuna de San Bernardo.
+San Joaquín: Calle Canadá Nº 5359, comuna de San Joaquín.
 
-b) CENTROS PARA LA INTERNACION EN REGIMEN SEMICERRADO: los que se ubicarán en los siguientes domicilios:
+San Bernardo: Calle San Francisco Nº 16361, comuna de San Bernardo.
 
-SANTIAGO: calle Santa Rosa Nº 1189, comuna de Santiago.
+Til Til: Camino Quilapilún s/n, comuna de Til Til.
 
-LA CISTERNA: calle Goycolea Nº 144, comuna de La Cisterna.
+b) Centros para la Internación en Régimen Semicerrado: Los que se ubicarán en los siguientes domicilios:
 
-PUDAHUEL: calle El Cobre Nº 8605, comuna de Pudahuel.
+Santiago: Calle Santa Rosa Nº 1189, comuna de Santiago.
 
-CALERA DE TANGO: Camino Santa Inés sin número, comuna de Calera de Tango.
+La Cisterna: Calle Goycolea Nº 144, comuna de La Cisterna.
 
-c) CENTROS DE INTERNACION PROVISORIA: los que se ubicarán en los siguientes domicilios:
+Pudahuel: Calle El Cobre Nº 8605, comuna de Pudahuel.
 
-SANTIAGO: calle San Francisco Nº 1152, comuna de Santiago.
+Calera de Tango: Camino Santa Inés sin número, comuna de Calera de Tango.
 
-SAN JOAQUIN: calle Canadá Nº 5359, comuna de San Joaquín.
+Ñuñoa: Avenida Grecia Nº 2298, comuna de Ñuñoa.
 
-SAN BERNARDO: calle San Francisco Nº 16361, comuna de San Bernardo.
+c) Centros de Internación Provisoria: Los que se ubicarán en los siguientes domicilios:
+
+Santiago: Calle San Francisco Nº 1152, comuna de Santiago.
+
+San Joaquín: Calle Canadá Nº 5359, comuna de San Joaquín.
+
+San Bernardo: Calle San Francisco Nº 16361, comuna de San Bernardo.
+
+Til Til: Camino Quilapilún s/n, comuna de Til Til.
 
 Segundo: Se deja constancia que, en virtud de lo dispuesto por los artículos 11 y 13 de la ley Nº 20.175, que crea la XV Región de Arica y Parinacota, publicada en el Diario Oficial el 11 de abril de 2007, cuya entrada en vigencia está prevista para 180 días después de tal publicación, toda referencia que se efectúe a través de normas legales, reglamentarias y demás disposiciones, en forma conjunta, a las provincias de Arica y Parinacota debe entenderse hecha a la Región de Arica y Parinacota, así como toda referencia hecha a las regiones de Tarapacá o Primera Región debe entenderse hecha a ambas regiones.
 
