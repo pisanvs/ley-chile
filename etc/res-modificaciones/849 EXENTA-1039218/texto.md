@@ -1,0 +1,5 @@
+MODIFICA RESOLUCIÓN Nº 523, DE 2012, QUE ESTABLECIÓ LA DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA Y SARDINA COMÚN EN LA VIII REGIÓN
+
+Por resolución exenta Nº 849, de 11 de abril de 2012, de esta Subsecretaría, modifíquese el numeral 3.- letras A. y B. de la resolución exenta N° 523, de 2012, de esta Subsecretaría, que distribuye para el año 2012 la fracción artesanal de las pesquerías de Anchoveta y Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción por unidad de asignación tipo de embarcación y organización de pescadores artesanales, en el sentido de que la asignación para el tipo de embarcaciones que se indican en el literal c) del artículo 1º del decreto exento N° 227, de 2012, del Ministerio de Economía, Fomento y Turismo, hasta el 31 de diciembre de 2012, expresada en toneladas, para los recursos Anchoveta y Sardina común, se efectuará de la siguiente manera:
+
+Valparaíso, 11 de abril de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
