@@ -2020,11 +2020,47 @@ Los principales componentes de este sistema dicen relación con la existencia de
 
 El Directorio deberá aprobar el sistema de prevención de lavado de activos y financiamiento del terrorismo, con todos los componentes señalados precedentemente. El sistema deberá ser acorde al volumen y complejidad de las operaciones de la entidad, incluidas sus filiales y sociedades de apoyo al giro cuando corresponda, y de la presencia internacional que pudiera tener. A su vez, deberá recibir información periódica sobre las operaciones analizadas, las acciones realizadas sobre ellas, aquellas informadas a la Unidad de Análisis Financiero y también sobre el cumplimiento de las políticas y procedimientos internos.
 
+Si el banco tiene sucursales o filiales en el exterior, el Directorio deberá velar porque las leyes y regulaciones del país anfitrión permitan cumplir adecuadamente las exigencias establecidas en este Capítulo. En el caso que ello no sea posible, deberá informarlo a esta Superintendencia.
+
 ### 2. Conocimiento del cliente
 
-Es obligación del banco identificar y conocer a sus clientes. Esto debe abordarse desde una perspectiva prudencial, vale decir, que no sólo sea una herramienta orientada a la prevención, sino que también un mecanismo de gestión eficaz de los riesgos a los cuales está expuesta una entidad.
+Es obligación no delegable del banco identificar y conocer a sus clientes. Esto debe abordarse desde una perspectiva prudencial, vale decir, que no sólo sea una herramienta orientada a la prevención, sino que también un mecanismo de gestión eficaz de los riesgos a los cuales está expuesta una entidad.
 
-El conocimiento del cliente comienza desde el momento en que, con motivo de una operación, éste se vincula con la entidad bancaria. Por lo tanto, el banco requiere la elaboración de políticas y procedimientos de aceptación e identificación, los que deberán tener en cuenta, entre otros factores, los antecedentes del cliente; perfiles de actividad; monto y origen de los fondos involucrados; el país de origen de éstos y si dicho país cumple con los estándares mínimos de aceptación exigidos; y sus relaciones societarias u otros indicadores de riesgo. Si se trata de una persona de influencia a nivel internacional, deberá contar con la aprobación de la alta administración.
+El conocimiento del cliente comienza desde el momento en que, con motivo de una operación, éste se vincula con la entidad bancaria. Por lo tanto, el banco requiere la elaboración de políticas y procedimientos de aceptación e identificación, los que deberán tener en cuenta, entre otros factores, los antecedentes del cliente; perfiles de actividad; monto y origen de los fondos involucrados; el país de origen de éstos y si dicho país cumple con los estándares mínimos de aceptación exigidos; y sus relaciones societarias u otros indicadores de riesgo. Si se trata de una persona expuesta políticamente o pasa a esa condición durante el transcurso de la relación comercial, deberá contar con la aprobación de la alta administración.
+
+Se entenderá como personas expuestas políticamente (PEP), a los chilenos o extranjeros que desempeñen o hayan desempeñado funciones públicas destacadas en algún país, Chile inclusive, a lo menos hasta un año de finalizado el ejercicio de las mismas. Se incluyen en esta categoría los jefes de estado o de un gobierno, políticos de alta jerarquía (entre ellos, a los miembros de mesas directivas de partidos políticos), funcionarios gubernamentales, judiciales o militares de alta jerarquía, altos ejecutivos de empresas estatales, así como sus cónyuges, sus parientes hasta el segundo grado de consanguinidad y las personas naturales con las que hayan celebrado un pacto de actuación conjunta mediante el cual tengan poder de voto suficiente para influir en sociedades constituidas en Chile.
+
+De acuerdo con lo anterior, se entiende que en Chile a lo menos deberán estar calificados como PEP, sin que este enunciado sea taxativo:
+
+- Presidente de la República, senadores, diputados y alcaldes.
+
+- Ministros de la Corte Suprema y de las Cortes de Apelaciones.
+
+- Ministros de Estado, subsecretarios, intendentes, gobernadores, secretarios regionales ministeriales, embajadores, jefes superiores de servicios tanto centralizados como descentralizados y el directivo superior inmediato que deba subrogar a cada uno de ellos.
+
+- Comandantes en Jefe de las Fuerzas Armadas, General Director de Carabineros, Director General de Investigaciones y el superior inmediato que deba subrogar a cada uno de ellos.
+
+- Directores y ejecutivos principales de empresas estatales, según lo definido en la Ley N° 18.045.
+
+- Directores de sociedades anónimas nombrados por el Estado o sus organismos.
+
+- Miembros de las directivas de los partidos políticos.
+
+- Fiscal Nacional del Ministerio Público y Fiscales Regionales.
+
+- Contralor General de la República.
+
+- Consejeros del Banco Central de Chile.
+
+- Presidente y Consejeros del Consejo de Defensa del Estado.
+
+- Ministros del Tribunal Constitucional.
+
+- Ministros del Tribunal de la Libre Competencia.
+
+- Integrantes titulares y suplentes del Tribunal de Contratación Pública.
+
+- Miembros del Consejo de Alta Dirección Pública.
 
 Para una adecuada identificación de los clientes que no mantengan una cuenta corriente con la institución, pero que habitual u ocasionalmente realicen operaciones con el banco, se recomienda al menos aplicar las exigencias establecidas al respecto en el Capítulo 2-2 de esta Recopilación. No obstante, considerando la naturaleza, características y nivel de riesgo de los productos y servicios que contraten con éste, podrán omitirse ciertos requisitos como, por ejemplo, la exigencia de una fotografía del cliente y la impresión digital. Las políticas deberán referirse a los procedimientos que deben aplicarse en estos casos.
 
@@ -2032,13 +2068,13 @@ Cabe agregar que para personas jurídicas, deberá demostrarse la existencia de 
 
 Con la información obtenida, se deberán elaborar perfiles de clientes, que permitan determinar en forma aproximada, el volumen y tipo de operaciones que harán éstos en lo futuro.
 
-Para los casos de operaciones no habituales o cuando se trate de clientes ocasionales o expuestos políticamente a nivel internacional, el banco deberá exigir una declaración sobre el origen de los fondos, cuando corresponda a una operación que supere el umbral menor entre el definido por la Ley N° 19.913 y el reglamentado internamente. Esa declaración deberá acompañarse con documentación que la sustente.
+Para los casos de operaciones no habituales o cuando se trate de clientes ocasionales o expuestos políticamente, el banco deberá exigir una declaración sobre el origen de los fondos, cuando corresponda a una operación que supere el umbral menor entre el definido por la Ley N° 19.913 y el reglamentado internamente. Esa declaración deberá acompañarse con documentación que la sustente.
 
 Especial atención se deberá tener en el caso de transferencias de fondos en cuanto a identificar al ordenante y al beneficiario.
 
 La entidad financiera deberá mantener actualizados los antecedentes de sus clientes en el curso de su relación comercial, de modo de asegurarse que los datos de identificación y financieros estén siempre al día. Lo anterior, con el objeto que les permita asegurar que las operaciones que realizan esos clientes son coherentes con la actividad, sus negocios y su perfil de riesgo.
 
-La institución debe prevenir al cliente de su obligación de actualizar, a lo menos anualmente, los datos que varíen, según el producto o servicio de que se trate, suministrando los antecedentes correspondientes. Asimismo, esta deberá verificar y asegurarse, por los medios que estime más adecuados, que la información sobre la identificación entregada por los clientes corresponda a la realidad.
+La institución debe prevenir al cliente de su obligación de actualizar, a lo menos anualmente, los datos que varíen, según el producto o servicio de que se trate, suministrando los antecedentes correspondientes. Asimismo, esta deberá verificar y asegurarse, por los medios que estime más adecuados, que la información sobre la identificación entregada por los clientes corresponda a la realidad. Si existieren dudas sobre su veracidad o el cliente impidiere su adecuada identificación, el banco deberá evaluar el término de la relación comercial y emitir un reporte de operación sospechosa a la Unidad de Análisis Financiero.
 
 ### 3. Manual de políticas y procedimientos
 
@@ -2052,9 +2088,11 @@ El manual debe permanecer actualizado, es decir, debe incluir los nuevos product
 
 Por otra parte, para el caso de detección de operaciones que merezcan sospechas, deben establecerse procedimientos específicos que consideren el discreto manejo y recopilación de los antecedentes y las etapas y plazos que se deben seguir para informar tales operaciones a quien corresponda.
 
-El manual también deberá contener procedimientos para el adecuado seguimiento de sus clientes, los que deben ser diferenciados en función del nivel de riesgo de estos. Para los clientes que estén dentro de la categoría de políticamente expuestos a nivel internacional o para personas que, de acuerdo con su perfil, pudieran estar expuestas a ser utilizadas para el lavado de activos, corresponderá desarrollar un sistema especial de seguimiento de sus operaciones.
+El manual también deberá contener procedimientos para el adecuado seguimiento de sus clientes, los que deben ser diferenciados en función del nivel de riesgo de estos. En este ámbito, también se deben considerar las relaciones comerciales y transacciones con personas naturales o jurídicas de o en países que apliquen de manera insuficiente las recomendaciones del GAFI. Para los clientes que estén dentro de la categoría de políticamente expuestos o para personas que, de acuerdo con su perfil, pudieran estar expuestas a ser utilizadas para el lavado de activos, corresponderá desarrollar un sistema especial de seguimiento de sus operaciones.
 
-Por su importancia requiere especial atención la banca corresponsal. En efecto, en lo que se refiere a las relaciones de corresponsalía y otras con la banca transnacional, las instituciones financieras, entre otros factores, además de aplicar las medidas sobre conocimiento de sus clientes ya señaladas, deberán: i) reunir información suficiente sobre los bancos con los cuales mantengan cualquier tipo de relación que les permita comprender cabalmente la naturaleza de los negocios que éstos desarrollan y verificar la reputación y la calidad de su supervisión; ii) tomar conocimiento de los controles implementados para detectar operaciones de lavado de activos y financiamiento del terrorismo; y, iii) documentar las respectivas responsabilidades de cada institución, cuando sea del caso.
+Por su importancia requiere especial atención la banca corresponsal. En efecto, en lo que se refiere a las relaciones de corresponsalía y otras con la banca transnacional, las instituciones financieras, entre otros factores, además de aplicar las medidas sobre conocimiento de sus clientes ya señaladas, deberán: i) reunir información suficiente sobre los bancos con los cuales mantengan cualquier tipo de relación que les permita comprender cabalmente la naturaleza de los negocios que éstos desarrollan y verificar la reputación y la calidad de su supervisión; ii) evaluar las políticas y procedimientos aplicados para detectar operaciones de lavado de activos y financiamiento del terrorismo; iii) documentar las respectivas responsabilidades de cada institución, cuando sea del caso; y, iv) obtener la aprobación de la alta gerencia antes de establecer nuevas relaciones corresponsales.
+
+En todo caso, los bancos deberán abstenerse de establecer relaciones comerciales o efectuar operaciones con bancos denominados como pantallas o ficticios.
 
 ### 4. Oficial de Cumplimiento
 
