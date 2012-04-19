@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº1, DE 2012
+
+Por resolución Nº1, de 28 de marzo de 2012, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se regularizan las resoluciones exentas Nº3.652, de 2010, y 283, de 2011, ambas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, y se ratifican las adjudicaciones dispuestas por las mencionadas resoluciones. Así también, se modifican los parámetros fijados mediante la resolución exenta Nº3.652, de 2010, ya citada, respecto de las propuestas Nos: 6, 33, 53, 85, 95, 166, 179, 182, 229, 233, 234, 329, 330, 334, 337 y se incorpora en el listado la propuesta Nº272.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
