@@ -52,29 +52,21 @@ El control del tiempo de estacionamiento se efectuará a través de los sistemas
 
 #### Artículo 5º
 
-Todo vehículo motorizado de 4 ó más ruedas que ocupe un estacionamiento de tiempo limitado, deberá pagar las tarifas que se señalan a continuación , las que serán indicadas en las señalizaciones correspondientes:
+Todo vehículo motorizado que ocupe un estacionamiento de tiempo limitado, deberá pagar las tarifas que se señalan a continuación, las que serán indicadas en las señalizaciones correspondientes:
 
-Tarifa A : $300 por 30 minutos y $10 por minuto
+Tarifa A: $330 por cada 20 minutos o fracción
 
-adicional
+Tarifa B: $130 por cada 20 minutos o fracción.
 
-Tarifa B : $250 por 30 minutos y $8,33 por
+Estos valores son con IVA incluido y se reajustarán anualmente de acuerdo a la variación acumulada del IPC, usando como base el mes de marzo de 2011.
 
-minuto adicional
-
-Tarifa C : $100 por 30 minutos y $3,33 por
-
-minuto adicional
-
-Estos valores son con IVA incluido y se reajustarán anualmente de acuerdo a la variación acumulada del IPC, usando como base el mes de Marzo de 2003.
-
-La Municipalidad mediante decreto alcaldicio fundado podrá aumentar o disminuir las tarifas indicadas.
+La Municipalidad, mediante decreto alcaldicio fundado, podrá aumentar o disminuir las tarifas indicadas.
 
 #### Artículo 6º
 
-Los residentes que sean dueños de vehículos, que no cuenten con estacionamiento propio y frente a cuyas propiedades actualmente se controlen o, en el futuro, se contemple controlar los espacios de estacionamientos, podrán solicitar, por razones fundadas, especialmente de carácter económico, no estar afectos al pago de las tarifas señaladas en el artículo precedente, sólo para estacionar su vehículo en la cuadra donde residen. La Dirección de Desarrollo Comunitario evaluará cada caso, considerando además que de acuerdo a los términos de la concesión hay un máximo de 200 vehículos que pueden acogerse a este beneficio, e informará a la Dirección de Tránsito la procedencia de otorgarlo.
+Los residentes que sean dueños de vehículos, que no cuenten con estacionamiento propio y frente a cuyas propiedades actualmente se controlen o, en el futuro, se contemple controlar los espacios de estacionamientos, podrán solicitar, por razones fundadas, de carácter económico, no estar afectos al pago de la tarifas señaladas en el artículo precedente, sólo para estacionar su vehículo en la cuadra donde residen. La Dirección de Desarrollo Comunitario evaluará cada caso, considerando además que de acuerdo a los términos de la concesión hay un máximo de 50 vehículos que pueden acogerse a este beneficio, e informará a la Dirección de Tránsito la procedencia de otorgarlo.
 
-Acogida la solicitud se aplicará la tarifa D de $0, para lo cual la Dirección de Tránsito informará la patente del vehículo de propiedad del beneficiario a la empresa concesionaria.
+Acogida la solicitud se aplicará la tarifa C de $0, para lo cual la Dirección de Tránsito informará la patente del vehículo de propiedad del beneficiario a la empresa concesionaria.
 
 #### Artículo 7º
 
