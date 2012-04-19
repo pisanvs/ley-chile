@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN Nº 3.028 EXENTA, DE 2012
+
+Res. exenta Nº 3.028, de fecha 13 de abril de 2012, dispone rectificación de los puntajes de ahorro y de los montos de ahorro consignados en los Certificados de Subsidio Habitacional extendidos a favor de don Oriel Aldo Huanchicay Varas, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T1 2-2011 NA01218, don Manuel Octavio Pérez Márquez, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T1 2-2011 NA00869, don Enrique Antonio Marín Castillo, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T2 2-2011 NA01509, doña Luz Irene Oñate Castro, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T1 2-2011 NA01200, doña Roxana Maribel Araya Alfaro, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T2 2-2011 NA01489, y don Alfonso Andrés Campusano Campusano, a quien se extendió el Certificado de Subsidio Habitacional Serie DS1T1 2-2011 NA01241, postulantes seleccionados en el Segundo Llamado 2011, regulado por el DS 1 (V. y U.), de 2011.
+
+Como consecuencia de lo anterior, no se modifica el número de postulantes seleccionados, ni el monto de recursos comprometidos para el financiamiento del subsidio directo para la atención de los postulantes seleccionados en ese llamado.-
+
+Bernardo Garrido Valenzuela, Abogado, Ministro de Fe.
