@@ -14,19 +14,19 @@ b) La remuneración que, de acuerdo con las tarifas establecidas por la Corporac
 
 El Directorio y la Asamblea General de Socios de Egeda Chile ha acordado las siguientes tarifas generales:
 
-1.- Derechos del Productor por la Ejecución Pública de Obras Audiovisuales Mediante la Retransmisión
+1.- Derechos del Productor por la Ejecución Pública de Obras Audiovisuales mediante la retransmisión.
 
 Procederá el cobro de la tarifa cuando la retransmisión por hilo, cable, fibra óptica u otro procedimiento similar, o por vía atmosférica, microondas o satelital, sea efectuada por una entidad diferente del emisor primario, sea o no titular de la red de distribución, y sea o no entidad de radiodifusión, con independencia de si dicha actividad se efectúa de forma gratuita o mediante el devengo de una cantidad fija o variable, única o de vencimiento periódico, como contraprestación por los servicios que preste.
 
-Tarifa Mensual: La tarifa aplicable será de UF 0,020 o su equivalente en moneda nacional al día del vencimiento de la obligación, por mes y abonado o vivienda conectada a la red de distribución. La tarifa se aplica sin consideración al número o clase de canales (emisiones o transmisiones) retransmitidos.
+Tarifa mensual: la tarifa aplicable será de UF 0,010 o su equivalente en moneda nacional al día del vencimiento de la obligación, por mes y abonado o vivienda conectada a la red de distribución. La tarifa se aplica sin consideración al número o clase de canales (emisiones o transmisiones) retransmitidos.
 
 En los casos de incumplimiento por parte de la entidad retransmisora de las obligaciones derivadas de la legislación vigente en materia de Propiedad Intelectual, la tarifa vigente tendrá un recargo del 50%.
 
-1.1 En aras de favorecer la implantación de los Derechos de Propiedad Intelectual de los Productores Audiovisuales, durante un plazo limitado de tiempo, el Directorio podrá acordar una Tarifa reducida.
+1.1. En aras de favorecer la implantación de los Derechos de Propiedad Intelectual de los Productores Audiovisuales, durante un plazo limitado de tiempo, el Directorio podrá acordar una Tarifa reducida.
 
-1.2 Para los efectos del cobro de la tarifa señalada, queda asimilada a la retransmisión simultánea por hilo, cable, fibra óptica, satelital, atmosférica u otro procedimiento análogo, la que se efectúe por vía inalámbrica cuando la entidad retransmisora codifique su señal o emplee un sistema técnico que permita conocer, de forma efectiva, el número total de receptores de la señal retransmitida.
+1.2. Para los efectos del cobro de la tarifa señalada, queda asimilada a la retransmisión simultánea por hilo, cable, fibra óptica, satelital, atmosférica u otro procedimiento análogo, la que se efectúe por vía inalámbrica cuando la entidad retransmisora codifique su señal o emplee un sistema técnico que permita conocer, de forma efectiva, el número total de receptores de la señal retransmitida.
 
-1.3 En el caso de instalaciones de sistemas que permitan, mediante el uso de un único decodificador, el acceso colectivo a la señal, de modo que una pluralidad de usuarios, situados en las diferentes viviendas, apartamentos, locales o espacios diferenciados de un mismo inmueble, tenga acceso a su señal, la tarifa se multiplicará por el número de viviendas a que se extienda la instalación.
+1.3. En el caso de instalaciones de sistemas que permitan, mediante el uso de un único descodificador, el acceso colectivo a la señal, de modo que una pluralidad de usuarios, situados en las diferentes viviendas, apartamentos, locales o espacios diferenciados de un mismo inmueble, tenga acceso a su señal, la tarifa se multiplicará por el número de viviendas a que se extienda la instalación.
 
 Igual previsión se aplicará respecto a los sistemas de acceso colectivo instalados en edificios de oficinas y empresas o entes titulares de la explotación de establecimientos, mercantiles o no, en los que la tarifa se aplicará respecto de cada uno de los apartamentos, oficinas, habitaciones o espacios diferenciados de que conste cada edificio o conjunto de edificios conectados.
 
