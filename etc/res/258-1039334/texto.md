@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 258, DE 2011
+
+Por resolución Nº 258, de 23 de diciembre de 2011, el Ministerio de Transportes y Telecomunicaciones, en su calidad de órgano rector en materia de tránsito y transporte por las calles y caminos del territorio nacional y sobre la base de las atribuciones que el legislador le ha entregado a través de las leyes Nº 18.696 y Nº 20.504, en conjunto con el Ministerio de Hacienda, aprobó el monto de indemnización que indica, puso término anticipado al Contrato de Concesión de Uso de Vías suscrito con la sociedad concesionaria Inversiones Alsacia S.A. y aprobó Contrato Ad-Referéndum de Concesión de Uso de Vías para la prestación de servicios de transporte público urbano remunerado de pasajeros mediante Buses de 22 de diciembre de 2011, suscrito entre Inversiones Alsacia S.A., concesionario de la Unidad de Negocio Nº1 y el Ministerio de Transportes y Telecomunicaciones.-
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
