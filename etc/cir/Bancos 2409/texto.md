@@ -18184,7 +18184,7 @@ Por otra parte, las demás obligaciones deberán dejar de informarse al presenta
 
 a) cuando un crédito que presente una morosidad de 90 días o más, deba ser excluido por las razones indicadas en el N° 2 siguiente.
 
-b) cuando hayan trascurrido seis años a contar de la fecha en que el pago del crédito se hizo exigible (desde que se exigió el pago en su totalidad, cuando corresponda a créditos pagaderos en cuotas o parcialidades).
+b) cuando hayan trascurrido cinco años a contar de la fecha en que el pago del crédito se hizo exigible (desde que se exigió el pago en su totalidad, cuando corresponda a créditos pagaderos en cuotas o parcialidades).
 
 ### 2. Información sobre créditos morosos por 90 días o más
 
