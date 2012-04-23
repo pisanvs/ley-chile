@@ -1,0 +1,3 @@
+EXTRACTO DE RESOLUCIÓN Nº 71, DE 2012
+
+Resolución exenta Nº 71, 30 marzo 2012, SEA, Región Antofagasta, apercibe abandono procedimiento proyecto EIA "Planta Desaladora de Agua de Mar, Antofagasta - Chile (segunda presentación)", U.S. Filter Corp. representante legal Carlos Figueroa C. Apercíbase al titular efectúe diligencias dentro siete días hábiles bajo apercibimiento declararse abandono procedimiento conforme al Art 43, ley 19.880.
