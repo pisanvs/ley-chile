@@ -18,7 +18,7 @@ Considerando:
 
 Resuelvo:
 
-1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 2.403 de 2000; 1.408 de 2001; 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
+1. Compleméntese las resoluciones del Servicio Agrícola y Ganadero Nºs 2.403 de 2000; 1.877 de 2001; 2.867 de 2001; 3.679 de 2003; 3.435 de 2004; 5.479 de 2006 y 5.695 de 2006, con relación a los requisitos fitosanitarios de importación, para las plantas y/o partes de plantas (frutos, estacas, ramillas, púas y esquejes), de las siguientes especies hospederas de Epiphyas postvittana (Lep.:Tortricidae), procedentes de los Estados de California y Hawaii de los Estados Unidos de Norteamérica :
 
 1.1 Material de propagación (plantas, estacas,
 
@@ -83,5 +83,7 @@ material vegetal:
 > **Nota.** NOTA 3 El Nº 2 del Resuelvo II, de la Resolución 467 Exenta, Agricultura, publicada el 17.04.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el resuelvo número 1.2 las palabras "Fragaria spp".
 
 > **Nota.** NOTA 4 El Nº 2 del Resuelvo II de la Resolución 468 Exenta Agricultura, publicada el 17.04.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el resuelvo número 1.2 las palabras "Actinidia spp.".
+
+> **Nota.** NOTA 5 El numeral 2 del Resuelvo II de la Resolución 2074 Exenta, Agricultura, publicada el 21.04.2012, modifica la presente norma, en el sentido de eliminar en el cuadro inserto en el resuelvo número 1.2, las palabras "Rubus sp.".
 
 Anótese, comuníquese y publíquese.- Víctor Venegas Venegas, Director Nacional Servicio Agrícola y Ganadero.
