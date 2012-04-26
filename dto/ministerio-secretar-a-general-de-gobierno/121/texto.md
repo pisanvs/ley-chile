@@ -48,171 +48,333 @@ Los integrantes del Consejo asumirán apenas se les comunique dicha designación
 
 2.1. CONSEJO REGIÓN DE ARICA-PARINACOTA
 
-### 1. María Victoria Reyes Meza, Junta de Vecinos Nº 4 Loa, Arica
+### 1. María Victoria Reyes Meza, Junta de Vecinos Nº 4
 
-### 2. Cincia Llanos Llanos, Junta de Vecinos Nº 23 Independencia, Arica
+Loa, Arica.
 
-3. Carlos Davis Vásquez Vásquez, Junta de Vecinos Nº 36 Fuerte Ciudadela, Arica.
+### 2. Cincia Llanos Llanos, Junta de Vecinos Nº 23
 
-### 4. Vilma Ley Ramírez, Junta de Vecinos Nº 38 Empart 5, Arica
+Independencia, Arica.
 
-### 5. Edwin René Briceño Cobb, Fundación Superación de la Pobreza, Arica
+### 3. Francisco Araya Vásquez, Junta de Vecinos Nº 43
+
+Villa del Mar, Arica.
+
+### 4. Wilma Ley Ramírez, Junta de Vecinos Nº 38
+
+Conjunto Habitacional Empart 5, 3ª Etapa, Arica.
+
+### 5. Edwin René Briceño Cobb, Fundación Superación
+
+de la Pobreza, Arica.
 
 2.2. CONSEJO REGIÓN DE TARAPACÁ
 
-### 1. Marina Bravo Vallejos, Comité de Vivienda de Alto Hospicio, Iquique
+### 1. Daniel Flores Órdenes, Unión Comunal de Alto
 
-### 2. Alicia Naranjo Silva, Unión Comunal Sector Norte Iquique, Iquique
+Hospicio, Alto Hospicio.
 
-### 3. Jenny Ayala Bravo, Comité de Vivienda de Alto Hospicio, Iquique
+### 2. Alicia Naranjo Silva, Unión Comunal Sector
 
-### 4. Margarita Soto Clavel, Unión Comunal CAM Iquique, Iquique
+Norte Iquique, Iquique.
 
-5. María del Canto Castro, Agrupación Mujeres Jefas de Hogar de Iquique, Iquique.
+### 3. Margarita Iriarte Zárate, Centro Cultural
+
+y Social Adulto Mayor, Iquique.
+
+### 4. Bernardita Pilar del Rosario Ortiz Alfar,
+
+Junta Vecinal Caleta Los Verdes, Iquique.
+
+### 5. Ricardo Rivera Reyes, Agrupación Juvenil
+
+Comunitaria, Iquique.
 
 2.3. CONSEJO REGIÓN DE ANTOFAGASTA
 
-1. Olga Mora Castillo, Unión Comunal Juntas de Vecinos Agrupación Protección al Peatón, Antofagasta.
+### 1. Elizabeth Richards Muñoz, Junta de Vecinos
 
-### 2. Daisy Barraza Araya, Unión Comunal Calama, Calama
+Nº 22 Paseo del Mar, Tocopilla.
 
-3. Elizabeth Richards Muñoz, Junta de Vecinos Nº 22 Paseo del Mar, Tocopilla.
+### 2. María Mondaca Díaz, Centro General de Padres
 
-### 4. Ivanica Ostoic Muñoz, Red Voluntariado Antofagasta, Antofagasta
+y Apoderados, Tal Tal.
 
-5. Alejandro Luco Salinas, Junta de Vecinos René Schneider Norte, Antofagasta.
+### 3. Ivanica Ostoic Muñoz, Asociación Guías y
+
+Scout de Chile, Antofagasta.
+
+### 4. Alejandro Luco Salinas, Junta de Vecinos
+
+René Schneider, Antofagasta.
+
+### 5. Daisy Barraza Araya, Unión Comunal Calama,
+
+Calama.
 
 2.4. CONSEJO REGIÓN DE ATACAMA
 
-### 1. Carlos Nicolás Galeb, Corproa, Copiapó
+### 1. Carlos Nicolás Galeb, Corporación para el
 
-2. Carlos Munizaga Castillo, Unión Comunal de Discapacitados de Copiapó, Copiapó.
+Desarrollo de la Región de Atacama (Corproa),
 
-3. Rosa Cortés Mercado, Pequeños agricultores y regantes sector canal Palermo, sector Punta del Cobre, Tierra Amarilla.
+Copiapó.
 
-4. Pablo Espinoza Aguirre, Directivo Centro General de Padres Liceo Cervantino, Copiapó.
+### 2. Carlos Munizaga Castillo, Unión Comunal de
 
-### 5. Josué Varas Arancibia, Unión Comunal Junta de Vecinos Copiapó, Copiapó
+Discapacitados de Copiapó, Copiapó.
+
+### 3. Pablo Espinoza Aguirre, Centro General de
+
+Padres Liceo Cervantino, Copiapó.
+
+### 4. Josué Varas Arancibia, Unión Comunal Junta
+
+de Vecinos Copiapó, Copiapó.
+
+### 5. Mercedes Romero Ramírez, Junta de Vecinos
+
+Ignacio Carrera Pinto, Copiapó.
 
 2.5. CONSEJO REGIÓN DE COQUIMBO
 
-### 1. Marcelo Gutiérrez, Serena Up, La Serena
+### 1. Marcelo Gutiérrez Gutiérrez, Serena Up,
 
-### 2. Exequiel Villegas Rodríguez, Junta de Vecinos La Serena, La Serena
+La Serena.
 
-### 3. Olga Valencia, Junta de Vecinos Parte Alta - Centro Coquimbo, Coquimbo
+### 2. Exequiel Villegas Rodríguez, Unión Comunal
 
-4. María Varas Carvajal, Comité de Adulto Mayor Profesores Jubilados, La Serena.
+Junta de Vecinos La Serena, La Serena.
 
-5. Iris Pérez Flores, Consejo Vecinal de Desarrollo, Pb. Héroes de la Concepción, La Serena.
+### 3. Isabel Malebrán Santander, Agrupación de
+
+Juntas de Vecinos Parte Alta-Centro
+
+Coquimbo, Coquimbo.
+
+### 4. María Varas Carvajal, Club de Adulto
+
+Mayor Profesores Jubilados, La Serena.
+
+### 5. Iris Pérez Flores, Consejo Vecinal de
+
+Desarrollo, Población Héroes de La
+
+Concepción-El Olivar Cía. Alta, La Serena.
 
 2.6. CONSEJO REGIÓN DE VALPARAÍSO
 
-### 1. Juan Carlos Toledo, Corporación Arte Música, Viña del Mar
+### 1. Juan Carlos Toledo, Corporación Arte Música,
 
-### 2. Roxana Jimena Campos Serey, En Todo Amar y Servir, Viña del Mar
+Viña del Mar.
 
-### 3. Mauricio Rojas Abarca, Corporación Acción Gay, Valparaíso
+### 2. Roxana Jimena Campos Serey, Voluntariado
 
-4. Bernardina Veloz Ramírez, Unión Comunal de Juntas de Vecinos de Rocas de Santo Domingo, Santo Domingo.
+En Todo Amar y Servir, Viña del Mar.
 
-5. Arturo Celedón Águila, Unión Comunal de Juntas de Vecinos Viña Oriente, Viña del Mar.
+### 3. Juan Guerrero Álvarez, Unión Comunal de
+
+Juntas de Vecinos de Viña del Mar,
+
+Viña del Mar.
+
+### 4. Marcelo Aguilar Vergara, Corporación
+
+Acción Gay, Valparaíso.
+
+### 5. Patricia Mora Sepúlveda, Unión Comunal
+
+Recreo-Agua Santa, Viña del Mar.
 
 2.7. CONSEJO REGIÓN DE O'HIGGINS
 
-1. Gabriel Navarro Arriagada, Comité de Adulto Mayor Alegría de Vivir, Rancagua.
+### 1. Patricia Guajardo Gálvez, Fundación
 
-### 2. Erika Ampai Miranda, Newen Mapu, Rengo
+Caritas, Rancagua.
 
-### 3. Patricia Guajardo Gálvez, Fundación Caritas Chile, Rancagua
+### 2. María Elena Miranda Oyarce, Cruz Roja,
 
-### 4. María Nequelhueque Tobar, Agrupación Indígena Rayen Pewen, Rancagua
+Rancagua.
 
-### 5. Moisés Melivilu Henríquez, Agrupación Indígena Rayen Pewen, Rancagua
+### 3. María Nequelhueque Tobar, Agrupación
 
-2.8. CONSEJO REGIÓN DE MAULE
+Indígena Rayen Pewen, Rancagua.
 
-1. Victoria Consuelo Maliqueo Orellana, Centro General de Alumnos Liceo Antonio Varas, Cauquenes.
+### 4. María Fresia Muñoz, Unión Comunal Adulto
 
-2. Marcelo Alejandro Gaete Mique, Club Deportivo Lautaro, Junta de Vecinos Nº 1, Plaza Vieja Cauquenes, Cauquenes.
+Mayor Rancagua, Rancagua.
 
-### 3. Ema Pérez Soto, Club Deportivo Cobra Chile, Linares
+### 5. Moisés Melivilu Henríquez, Agrupación
 
-4. Francisco Yébenes, Junta de Vecinos, Sector Los Cristales Zapallar, Curicó.
+Indígena Rayen Pewen, Rancagua.
 
-5. Jorge Fuentes Urriaga, Unión Comunal Juntas de Vecinos Linares, El Bosque, Linares.
+2.8 CONSEJO REGIÓN DE MAULE
 
-2.9. CONSEJO REGIÓN DE BÍO-BÍO
+### 1. Victoria Consuelo Maliqueo Orellana,
 
-### 1. Abel Figueroa, Aldeas Meryland, Talcahuano
+Centro General de Alumnos Liceo Antonio
 
-2. Luisa Catalán, Pdta. Junta de Vecinos John Kennedy y Pdta. Unión Comunal Juntas de Vecinos Concepción, Concepción.
+Varas, Cauquenes.
 
-### 3. Jaime Aravena, Asociación de Fútbol Concepción, Concepción
+### 2. Marcelo Alejandro Gaete Mique, Club
 
-### 4. María Foglia, Club de Adulto Mayor Oro Verde, Concepción
+Deportivo Lautaro, Junta de Vecinos Nº1,
 
-### 5. Gabriel Jiménez, Junta de Vecinos Los Héroes, San Pedro de la Paz
+Plaza Vieja Cauquenes, Cauquenes.
 
-2.10. CONSEJO REGIÓN DE LA ARAUCANÍA
+### 3. Ema Pérez Soto, Club Deportivo Cobra
 
-1. Fernando Meza Teppa, Green Peace Miembro del Consejo Provisorio Mixto, Temuco.
+Chile,Linares.
 
-### 2. María Elena Pezo Garcés, Mujeres de la Frontera, Temuco
+### 4. Francisco Yébenes Villena, Junta de
 
-### 3. Julio Valverde Vello, Rotary Club, Lautaro
+Vecinos Sector Los Cristales
 
-### 4. Ana María Vera, Centro Comunitario La Rueda, Temuco
+Zapallar, Curicó.
 
-### 5. Patricio Olivos Estroz, Junta de Vecinos Villa San Pedro, Pucón
+### 5. Jorge Fuentes Urriaga, Unión Comunal
 
-2.11. CONSEJO REGIÓN DE LOS RÍOS
+Juntas de Vecinos Linares, El
 
-### 1. Cecilia López Boegeholz, Damas de Verde, Valdivia
+Bosque, Linares.
 
-### 2. Andrés Barriga Quezada, Sector Rural de Valdivia, Valdivia
+2.9. CONSEJO REGIÓN DE BIOBÍO
 
-### 3. Elizabeth Barría Mansilla, Agrupación de Mujeres Los Ríos, Valdivia
+### 1. Juan Torres Torres, Asociación General
 
-### 4. Patricio Quijada Vergara, Organizaciones Educacionales, Valdivia
+en Retiro FFAA, Viudos y Montepíos,
 
-### 5. René Manquelipe Jerez, Asociación Comunal de Rayuela, Panguipulli
+Talcahuano.
 
-2.12. CONSEJO REGIÓN DE LOS LAGOS
+### 2. María Bermúdez Bustos, Unión Comunal
 
-### 1. Silvia Oyarzo Gallardo, Red Regional de Voluntariado, Puerto Montt
+Juntas de Vecinos Concepción, Concepción.
 
-### 2. Pedro Aguilar Arriagada, Junta de Vecinos Urbana, Puerto Montt
+### 3. Arturo Hermosilla Cortés, Club de Rayuela
 
-### 3. Armando Medina Hanne, Unión Comunal Adultos Mayores, Puerto Montt
+Los Nogales, Talcahuano.
 
-4. Marcelo Gallardo Vargas, Club Deportivo Regional Los Lagos, Puerto Montt.
+### 4. María Foglia Pérez, Unión Comunal
 
-### 5. Luis Toledo Mora, Diario El Llanquihue, Puerto Montt
+de Adultos Mayores de Concepción,
 
-2.13. CONSEJO REGIÓN DE AYSÉN
+Concepción.
 
-### 1. Ema Vega Urrutia, Presidenta Unión Comunal Pampas del Corral, Coyhaique
+### 5. Gabriel Jiménez Alarcón, Unión Comunal
 
-2. Marilyn Ortiz Pérez, Presidenta Agrupación Trabajadoras Jefas de Hogar, Coyhaique.
+de Adultos Mayores de San Pedro de la
 
-3. Carlos Ramírez Muñoz, Director Grupo Folklórico "Fogón del Sur", Coyhaique.
+Paz, San Pedro de la Paz.
 
-4. Luis Quiniyao Muñoz, Pte. Asoc. Indígena Rakidantum, Coyhaique.
+2.10 CONSEJO REGIÓN DE LA ARAUCANÍA
 
-### 5. José Tocol Canipane, Conferencia San Vicente de Paul, Puerto Aysén
+### 1. Fernando Meza Teppa, Green Peace,
 
-2.14. CONSEJO REGIÓN XII DE MAGALLANES
+Temuco.
 
-### 1. Cristian Villablanca Tapia, Imago Mundi, Punta Arenas
+### 2. María Elena Pezo Garcés, Mujeres de
 
-2. Sandra Jelves González, Asociación Mapuche Huilliche Pewu Antü, Punta Arenas.
+La Frontera, Temuco.
 
-3. María Soledad Queduman Cárcamo, Agrupación Productiva Rural Punta Arenas, Punta Arenas.
+### 3. Julio Valverde Bello, Rotary Club,
 
-4. Daniela Maripillán Maripillán, Junta de Vecinos Nº 27 Puerto Natales, Última Esperanza.
+Lautaro.
 
-5. Juan Antonio Cárdenas Barría, Unión Comunal Juntas de Vecinos Porvenir, Tierra del Fuego.
+### 4. Ana María Vera, Centro Comunitario
+
+La Rueda/Mujeres Radialistas, Temuco.
+
+### 5. Patricio Olivos Estroz, Junta de Vecinos
+
+Villa San Pedro, Pucón.
+
+2.11 CONSEJO REGIÓN DE LOS RÍOS
+
+### 1. Cecilia López Boegeholz, Damas de Verde,
+
+Valdivia.
+
+### 2. Andrés Barriga Quezada, Sector Rural
+
+de Valdivia, Valdivia.
+
+### 3. Elizabeth Barría Mansilla, Agrupación
+
+de Mujeres Los Ríos, Valdivia.
+
+### 4. Patricio Quijada Vergara, Organización
+
+Educacional, Valdivia.
+
+### 5. René Manquelipe Jerez, Asociación Comunal
+
+de Rayuela, Panguipulli.
+
+2.12.CONSEJO REGIÓN DE LOS LAGOS
+
+### 1. Silvia Oyarzo Gallardo, Red Regional de
+
+Voluntariado, Puerto Montt.
+
+### 2. Pedro Aguilar Arriagada, Junta de Vecinos
+
+Modelo Unido, Puerto Montt.
+
+### 3. Armando Medina Hanne, Unión Comunal Adultos
+
+Mayores, Puerto Montt.
+
+### 4. Marcelo Gallardo Vargas, Asociación Deportiva
+
+Regional Los Lagos, Puerto Montt.
+
+### 5. Ximena Fuenzalida Besa, Junta de Vecinos
+
+Sol de Oriente, Puerto Montt.
+
+2.13 CONSEJO REGIÓN DE AYSÉN
+
+### 1. Marilyn Ortiz Pérez, Agrupación Jefas de
+
+Hogar, Coyhaique.
+
+### 2. Carlos Ramírez Muñoz, Grupo Folklórico
+
+Fogón del Sur, Coyhaique.
+
+### 3. Luis Quiniyao Muñoz, Asociación Indígena
+
+Rakiduamtun, Coyhaique.
+
+### 4. José Tocol Canipane, Conferencia San Vicente
+
+de Paul, Puerto Aysén.
+
+### 5. Juvenal Cárcamo Larenas, Consejo de Desarrollo
+
+del Barrio Quinta Burgos, Coyhaique.
+
+2.14.CONSEJO REGIÓN XII DE MAGALLANES
+
+### 1. Cristian Villablanca Tapia, Imago Mundi
+
+Patagonia, Punta Arenas.
+
+### 2. Sandra Jelves González, Asociación Mapuche
+
+Huilliche, Punta Arenas.
+
+### 3. María Soledad Quedumán Cárcamo, Agrupación
+
+Sector Rural, Punta Arenas.
+
+### 4. René Cárdenas Santana, Junta de Vecinos
+
+Nº3 Gabriela Mistral, Puerto Natales.
+
+### 5. Lida Liliana Jara Arismendi, Agrupación
+
+Reproderes, Punta Arenas.
 
 1.3.- El Consejo Regional del Fondo de Fortalecimiento de Organizaciones y Asociaciones de Interés Público, elegirá:
 
