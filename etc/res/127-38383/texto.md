@@ -14,4 +14,6 @@ Resuelvo:
 
 En servicios rurales de más de 50 Km. de longitud que se presten con buses dentro de la IV Región de Coquimbo podrán transportarse pasajeros de pie hasta un máximo de 20, incluidos estudiantes.
 
+No obstante, en los servicios de buses rurales que cubren la Ruta 43, que une las ciudades de La Serena - Coquimbo y Ovalle sólo se podrán transportar a un máximo de 10 pasajeros de pie
+
 Anótese, comuníquese y publíquese.- Freddy Bonilla Torreblanca, Secretario Regional Ministerial de Transportes y Telecomunicaciones, IV Región de Coquimbo.
