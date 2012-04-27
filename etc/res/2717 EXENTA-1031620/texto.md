@@ -50,8 +50,4 @@ e) Diagrama de flujo de los ensayos.
 
 Una vez evaluados los antecedentes presentados, esta Superintendencia emitirá una resolución exenta, sobre el particular.
 
-> **Nota.** Los numerales 1 y 3 de la Resolución 12244, Energía, publicado el 02.06.2016 modifican la presente norma en el sentido de modificar lo dispuesto en los Protocolos de Análisis y/o Ensayos indicados en la citada norma, modificar ademas el plazo de entrada en vigencia.
-
-> **Nota.** NOTA 1 Los numerales 1 y 5 de la Resolución 16032, Energía, publicado el 30.12.2016 modifican la presente norma en el sentido de modificar lo dispuesto en los Protocolos de Análisis y/o Ensayos indicados en la citada norma, modificar ademas el plazo de entrada en vigencia.
-
 Anótese, notifíquese y publíquese.- Luis Ávila Bravo, Superintendente de Electricidad y Combustibles.
