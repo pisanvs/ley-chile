@@ -1,0 +1,23 @@
+COMISIÓN NACIONAL ENCARGADA DE INVESTIGAR LA EXISTENCIA DE DISTORSIONES EN EL PRECIO DE LAS MERCADERÍAS IMPORTADAS
+
+La Comisión, en Sesión Extraordinaria celebrada el 23 de abril de 2012, de acuerdo a lo previsto en el artículo 7 de la Ley N°18.525 y el artículo 3.1 del Acuerdo sobre Salvaguardias (Decreto Nº16/95 del Ministerio de Relaciones Exteriores, publicado en el Diario Oficial del 17.05.95), resolvió iniciar una investigación de oficio por medidas de salvaguardia respecto de las importaciones de maíz partido.
+
+Extracto de los Antecedentes
+
+a) Fecha de inicio de la investigación: 27 de abril de 2012.
+
+b) Producto objeto de la solicitud: maíz partido, clasificado en el código arancelario 1104.2300.
+
+c) Plazo de la investigación: la resolución definitiva será adoptada dentro del plazo de 90 días desde el inicio de la investigación.
+
+d) Constataciones relativas a la existencia de un aumento de importaciones que causen o amenacen causar daño: aumento de las importaciones de maíz partido en términos absolutos y relativos a la producción nacional de maíz.
+
+e) Audiencia pública: la audiencia pública se llevará a cabo el día 27 de junio de 2012, a las 10:00 horas, en Agustinas 853, piso 12, Santiago. Las partes que deseen comparecer para intervenir en dicha audiencia deberán manifestar por escrito a la Secretaría Técnica su intención en tal sentido, hasta dentro del tercer día hábil anterior a la fecha fijada para su realización.
+
+Los antecedentes que las partes interesadas quisieran presentar por escrito y las solicitudes de audiencia ante la Comisión que quisieran formular, serán recibidos, dentro del plazo de 30 días desde el inicio de la presente investigación, en la Secretaría Técnica, Morandé 115, 1er piso, Banco Central de Chile, Teléfono 6702564, Fax 6702419.
+
+Si dentro de la información proporcionada existen antecedentes de carácter confidencial, deberán darse las razones que justifiquen la reserva de los mismos y, además, suministrarse simultáneamente un resumen público de ellos, que deberá ser lo más detallado posible. El fundamento de este requerimiento es garantizar la transparencia y el debido acceso de todas las partes a la información relativa a esta investigación. Si los resúmenes no son entregados oportunamente y no existe una causa justificada, la Comisión podrá prescindir de la información calificada como confidencial.
+
+Cualquier información adicional deberá consultarse en la misma Secretaría Técnica.
+
+LA COMISIÓN
