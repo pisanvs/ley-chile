@@ -28,9 +28,9 @@ Resuelvo:
 
 1. Determínase, para los efectos previstos en el artículo 4 letra a) de la ley Nº 20.378, que el conjunto de zonas que cuentan con información de demanda disponible y el monto del subsidio a entregar por vehículo para el proceso de entrega 2011, se regirá de acuerdo al cuadro siguiente:
 
-/ª Para efectos de aplicación de la fórmula de cálculo, el Reglamento establece que se considerarán viajes urbanos y rurales menores a 50 kms.
+/a Para efectos de aplicación de la fórmula de cálculo, el Reglamento establece que se considerarán viajes urbanos y rurales menores a 50 kms.
 
-/b El monto de Subsidio Anual para los Servicios Urbanos no podrá ser menor a $199.421, que es el monto de subsidio a entregar en las zonas sin información de demanda urbana. El monto de Subsidio Anual para los Servicios Rurales no podrá ser menor a $152.494, que es el monto de subsidio a entregar en las zonas sin información de demanda rural.
+/b El monto de Subsidio Anual para los Servicios Urbanos no podrá ser menor a $404.496, que es el monto de subsidio a entregar en las zonas sin información de demanda urbana. El monto de Subsidio Anual para los Servicios Rurales no podrá ser menor a $263.532, que es el monto de subsidio a entregar en las zonas sin información de demanda rural.
 
 2. Fíjense las fechas que a continuación se indican para el período de presentación de la postulación, según lo establecido en el inciso segundo del artículo 6º del decreto supremo Nº 1, de 2010, citado en el Visto de esta resolución:
 
