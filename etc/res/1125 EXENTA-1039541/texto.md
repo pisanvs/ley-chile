@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.125, de 24 de abril de 2012, de esta Subsecretaría, déjese sin efecto totalmente la resolución exenta Nº 1.101 de 2012, de esta Subsecretaría de Pesca, conforme lo señalado en la parte resolutiva de la presente resolución y a lo dispuesto en el artículo 48 A de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 24 de abril de 2012.- Edith Saa Collantes, Subsecretaria de Pesca (S).
