@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.103, de 23 de abril de 2012, de esta Subsecretaría, déjanse sin efecto las resoluciones N° 1.783 de 2006 y Nº 3.718 de 2009, ambas de esta Subsecretaría, correspondientes al área de manejo Sur Piedra Fusil, XIV Región, de la ASOCIACIÓN INDÍGENA DE PESCADORES INDÍGENAS, NOMELOLEN DE MAIQUILLAHUE, en virtud del artículo 21 del DS N° 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 23 de abril de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
