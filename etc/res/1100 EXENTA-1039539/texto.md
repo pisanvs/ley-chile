@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.100, de 20 de abril de 2012, de esta Subsecretaría, recházanse las solicitudes de concesión números 208103227, 210103173 y 211104007, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura y artículo 14 bis del DS Nº 290 de 1993, del Ministerio de Economía, Fomento y Reconstrucción.
+
+Valparaíso, 20 abril de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
