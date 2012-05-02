@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº568, de 29 de marzo de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº19, superficie 10.897 m2, rol de Avalúo 1125-7, comuna de Ancud, para la obra "REPOSICIÓN PUENTE SAN ANTONIO EN RUTA 5 CHILOÉ", X Región. La Comisión de Peritos integrada por NORMAN ESTANISLAO CALDERÓN PONTIGGIA, SONIA CATALINA GALLEGOS BLANCH Y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 2 de agosto de 2010, acordándose la indemnización con su propietario, HARDY ALEJANDRO DIMTER MALDONADO Y OTRA, en la cantidad de $13.169.861.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
