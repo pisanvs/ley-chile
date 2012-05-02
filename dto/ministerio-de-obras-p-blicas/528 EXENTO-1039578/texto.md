@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº528 de fecha 22 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº21, superficie 5.045 m2, rol de avalúo 1216-40, para la obra "REPOSICION PUENTE SAN ANTONIO EN RUTA 5 CHILOE", Comuna de Ancud, Provincia de Chiloé, Región de Los Lagos. La Comisión de Peritos integrada por Norman Estanislao Calderón Pontiggia, Sonia Catalina Gallegos Blanch y Patricio Fernando Casagrande Ulloa, fijó valor de tasación con fecha 02 de agosto de 2010, acordándose la indemnización con su propietario JOSÉ ARIEL MEDINA SOTO, en la cantidad de $59.134.527, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
