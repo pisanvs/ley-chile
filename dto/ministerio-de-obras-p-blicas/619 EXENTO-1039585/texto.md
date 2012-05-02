@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº619 de fecha 30 de marzo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº1-B, superficie 2.706 m2, rol Nº185-40, para la obra "Reparación Inf. Vial C y Ptes. En P-22, 24, 40; Rutas 126, 160 y otras, Sector Bifurcación Curaquilla - Tubul", Comuna y Provincia de Arauco. La Comisión de Peritos integrada por Adriana Fasce Casanueva, Ricardo Echeverría Hohmann y Oscar Chávez Alcaíno, fijó valor de tasación con fecha 21 de febrero de 2011, acordándose la indemnización con su propietario CARLOS RUBEN ULLOA ALVIAL Y OTRAS, en la cantidad de $2.831.558, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
