@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) N°538 de fecha 23 de marzo de 2012, de conformidad a lo dispuesto en el art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº14, superficie 2.169 m2, rol de avalúo 1225-9, para la obra "REPOSICIÓN PUENTE MECHAICO Y ACCESOS EN RUTA 5", Comuna de Ancud, Provincia de Chiloé, Región DE LOS LAGOS. La comisión de peritos, integrada por Patricio Fernando Casagrande Ulloa, Sonia Catalina Gallegos Blanch y Norman Estanislao Calderón Pontiggia, fijó el valor de tasación con fecha 09 de marzo de 2011, acordándose la indemnización con su propietaria MARÍA HERMINIA BUSTAMANTE, en la cantidad de $3.294.331.- suma que e pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
