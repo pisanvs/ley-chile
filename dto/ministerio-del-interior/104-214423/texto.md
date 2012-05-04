@@ -226,13 +226,21 @@ Respecto de aquellas comunas en que existan áreas damnificadas que deban ser mo
 
 #### Artículo 27º
 
-El Ministerio de la Vivienda y Urbanismo deberá, dentro del plazo de noventa días siguientes a la recepción del acuerdo respectivo, pronunciarse acerca de las modificaciones que aprueben las Municipalidades afectadas por un sismo o catástrofe a sus respectivos planos reguladores, debiendo dictarse de inmediato el decreto supremo correspondiente, si éstas fueren aprobadas.
+A solicitud de una Municipalidad afectada por sismo o catástrofe, el Presidente de la República, mediante decreto supremo del Ministerio de Vivienda y Urbanismo, podrá aprobar planes reguladores, planes seccionales o modificaciones de los mismos, necesarios para resolver las dificultades originadas por sismo o catástrofe, o para implementar el plan de reconstrucción regional o municipal debiendo dictarse el decreto supremo correspondiente. Para tal efecto no se requerirán aprobaciones o pronunciamientos de otros organismos del Estado.
 
-La modificación de los plazos reguladores que acuerde la Municipalidad deberá contar con la aprobación del especialista antisísmico que la asesore o que fuere designado para este efecto por el Colegio de Ingenieros de Chile para prestarle atención gratuita.
+El procedimiento de aprobación y los contenidos de dichos planes reguladores o modificaciones serán reglamentados por la Ordenanza General de Urbanismo y Construcciones, considerando en forma previa a la aprobación del proyecto de plan o modificación por parte del Concejo Municipal una exposición al público por al menos 30 días, durante los cuales se podrán recibir las observaciones y comentarios que sobre el proyecto emita cualquier interesado.
 
-Cuando dichas comunas carezcan de planos reguladores definitivos, podrá el Presidente de la República, dentro de los dos años siguientes al sismo o catástrofe, aprobar proyectos parciales o anteproyectos de planos reguladores elaborados por la Municipalidad respectiva o por la Dirección de Planificación del Desarrollo Urbano del Ministerio de la Vivienda y Urbanismo. Para todos los efectos legales estos proyectos parciales o anteproyectos serán considerados como planos reguladores y, para su aprobación, se estará a lo dispuesto en los incisos anteriores. Estos planos se harán sin costo alguno para la respectiva Municipalidad.
+Asimismo, deberán contar con los siguientes antecedentes mínimos: Memoria Explicativa, que incluirá un estudio de riesgos elaborado por profesional especialista; Ordenanza, que contendrá las disposiciones reglamentarias necesarias, sobre materias relacionadas, directa o indirectamente, con la catástrofe o los planes de reconstrucción; y Planos, que expresen gráficamente las disposiciones de la Ordenanza.
 
-Las Municipalidades de las zonas afectadas por el sismo o catástrofe podrán permutar los terrenos e inmuebles que sean necesarios para ejecutar el plan de remodelación.
+No se requerirán antecedentes adicionales o requisitos no contemplados en la Ordenanza General de Urbanismo y Construcciones, la que asimismo fijará el plazo máximo para ingresar al Ministerio de Vivienda y Urbanismo las respectivas solicitudes de aprobación de los planes o modificaciones, el cual no podrá ser superior a 2 años, contado desde la declaración de zona de catástrofe, aun cuando no se encontraren vigentes los respectivos decretos. Dicho plazo se podrá prorrogar, mediante decreto supremo, hasta por igual período, por una sola vez.
+
+En caso de municipalidades que carezcan de los recursos necesarios para elaborar los citados planes o modificaciones a solicitud de la Municipalidad respectiva, éstos podrán ser elaborados por el Ministerio de Vivienda y Urbanismo, sin costo alguno para la respectiva municipalidad.
+
+El presente artículo también será aplicable a las modificaciones que sea necesario introducir en un Plan Regulador Intercomunal o Metropolitano de una región con comunas afectadas por sismo o catástrofe.
+
+#### Artículo 27º bis
+
+Las Municipalidades de las zonas afectadas por sismo o catástrofe podrán permutar los terrenos que sean necesarios para ejecutar el plan de reconstrucción.
 
 #### Artículo 28º
 

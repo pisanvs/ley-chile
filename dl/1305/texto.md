@@ -182,9 +182,13 @@ d) Construcción en áreas rurales de nuevas poblaciones, industrias, o equipami
 
 m) Emitir los informes favorables a las expropiaciones que se propongan conforme al inciso 2° del artículo 51° de la ley 16.391.
 
-Las facultades de las letras h), i), j), k), l) y m), precedentes, deberán entenderse en concordancia con lo que se dispone en el artículo 24° de este cuerpo legal;
-
 n) Informar técnicamente los planes, proyectos y programas correspondientes al sistema de financiamiento urbano compartido, que propongan los Servicios de Vivienda y Urbanización.
+
+ñ) Autorizar proyectos tipo y especificaciones técnicas de edificaciones que cuenten con la aprobación de los Servicios de Vivienda y Urbanización o las Municipalidades, conforme a los requisitos establecidos en la Ordenanza General de Urbanismo y Construcciones.
+
+o) Autorizar modificaciones de áreas de riesgo, previo estudio fundado suscrito por un profesional especialista, y previo informe favorable del Ministerio de Obras Públicas, o sus órganos dependientes, en caso que tales áreas hubieren sido establecidas por estudios de dichas entidades. En caso de obras a que se refiere el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, dicho informe deberá ser evacuado por la citada autoridad en un plazo máximo de 15 días hábiles, contado desde la recepción del requerimiento respectivo. Transcurrido dicho plazo sin que hubiere pronunciamiento, se entenderá que no existen observaciones que formular.
+
+Las facultades de las letras h), i), j), k), l) , m), ñ) y o), precedentes, deberán entenderse en concordancia con lo que se dispone en el artículo 24° de este cuerpo legal;
 
 De la División de Política Habitacional.
 
@@ -266,9 +270,11 @@ h) Mantener, coordinar y supervigilar el Registro Nacional de Contratistas, el R
 
 i) Realizar, en general, todos los estudios de alto nivel que el Ministro o el Subsecretario le encomienden y sean necesarios para una mejor orientación de la política nacional habitacional.
 
-j) Recibir de los Servicios Regionales y Metropolitano información periódica de postulaciones y asignaciones, con el objeto de velar por su coordinación y por el cumplimiento de las normas sobre esta materia, y
+j) Recibir de los Servicios Regionales y Metropolitano información periódica de postulaciones y asignaciones, con el objeto de velar por su coordinación y por el cumplimiento de las normas sobre esta materia;
 
-k) Evaluar los resultados de la actividad de las Secretarías Ministeriales y de los Servicios Regionales y Metropolitano, e informar de ello N° 4 al Ministro y al Subsecretario.
+k) Evaluar los resultados de la actividad de las Secretarías Ministeriales y de los Servicios Regionales y Metropolitano, e informar de ello N° 4 al Ministro y al Subsecretario, y
+
+l) Autorizar proyectos y especificaciones técnicas tipo de viviendas industrializadas.
 
 De la División Jurídica
 
@@ -390,13 +396,15 @@ Deberán velar, además, por el estricto cumplimiento por parte de los Servicios
 
 #### Artículo 24°
 
-Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), y
+Corresponderá a cada Secretaría Ministerial, en su jurisdicción, el ejercicio de las facultades señaladas en las letras h), i), j), k), l), m), ñ) y
 
-- **m)** del artículo 12° y letras
+- **o)** del artículo 12° y letras
 
 - **f)** y
 
 - **g)** del artículo 13° del presente decreto ley, cuando el Ministro de Vivienda y Urbanismo determine que cuentan con unidades competentes para realizar estas actividades.
+
+Asimismo, les corresponderá otorgar permisos y recepciones definitivas de construcciones en zonas declaradas afectadas por catástrofe, en los casos especiales que contempla la Ley General de Urbanismo y Construcciones. Para tal efecto podrán nombrar delegados que cumplan dichas funciones en las localidades afectadas, con las mismas competencias que el Secretario Regional Ministerial en esta materia.
 
 ## Título III
 

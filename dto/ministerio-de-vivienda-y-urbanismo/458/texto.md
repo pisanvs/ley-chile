@@ -968,11 +968,31 @@ Transcurridos treinta días desde la publicación a que se refiere el inciso ant
 
 #### Artículo 116 bis
 
-D).- La Ordenanza General de esta ley podrá establecer normas especiales y procedimientos simplificados de aprobación y recepción, para la regularización de construcciones existentes y la aprobación de nuevas construcciones que se realicen en zonas que hubieren sido decretadas zona afectada por catástrofe.
+D).- La Ordenanza General de esta ley podrá establecer normas especiales y procedimientos simplificados de aprobación y recepción para la regularización de construcciones y la aprobación de nuevas construcciones que se realicen en zonas que hubieren sido decretadas zona afectada por catástrofe, cuando formen parte de los planes de reconstrucción regionales o municipales, o se trate de reconstruir o reponer construcciones dañadas por la catástrofe.
 
-La Ordenanza General deberá establecer los plazos en que se aplicarán las disposiciones que se establecen en el inciso primero de este artículo.
+Los permisos y recepciones de obras de que trata el inciso anterior podrán ser otorgados por la Secretaría Regional Ministerial de Vivienda y Urbanismo cuando se trate de las siguientes situaciones especiales:
 
-Durante dicho período las regularizaciones y permisos de viviendas sociales, y de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, estarán exentos del pago de derechos municipales a que se refiere el artículo 130 de la Ley General de Urbanismo y Construcciones.
+a) Solicitudes sobre las cuales la Dirección de Obras Municipales no se hubiere pronunciado dentro del plazo máximo establecido en la presente ley, o se encuentren con observaciones que no corresponden de acuerdo a la normativa vigente.
+
+b) Obras ubicadas en localidades distantes más de 30 kilómetros de la ciudad sede de la Dirección de Obras Municipales.
+
+Para los efectos del inciso anterior, la Secretaría Regional, previo al otorgamiento del permiso, deberá consultar la opinión del Director de Obras Municipales respectivo, quien tendrá 5 días hábiles para responder.
+
+Otorgado un permiso o recepción por parte de la Secretaría Regional, para los efectos de archivo y catastro, los planos y antecedentes de la construcción deberán remitirse a la Dirección de Obras Municipales en un plazo no superior a 30 días, junto con el pago de los derechos municipales correspondientes.
+
+La Secretaría Regional Ministerial de Vivienda y Urbanismo podrá autorizar excepciones respecto de las obligaciones de urbanización, atendiendo a las características especiales de las localidades en que se emplazarán los proyectos.
+
+Los proyectos a que se refiere el presente artículo no requerirán autorizaciones o pronunciamientos de otros organismos del Estado ni requisitos adicionales a los que establezca la Ordenanza General.
+
+Las disposiciones que se establecen en el presente artículo, tendrán un plazo de vigencia de dos años, a partir de la fecha de publicación en el Diario Oficial del decreto que declaró la zona afectada por catástrofe, plazo que se podrá prorrogar, mediante decreto supremo, hasta por igual período, por una sola vez.
+
+Tratándose de proyectos habitacionales con subsidio estatal, dirigidos a resolver problemas derivados de la catástrofe, podrá aplicarse lo dispuesto en el artículo 50 de la presente ley.
+
+Las solicitudes de modificaciones de cauces naturales o artificiales a que se refieren los artículos 41 y 171 del Código de Aguas, que fueren necesarias para ejecutar obras de edificación o urbanización, en los casos a que se refiere el presente artículo, deberán ser evacuadas por el organismo competente en un plazo máximo de 15 días hábiles, contados desde la recepción del requerimiento respectivo. Transcurrido dicho plazo sin que hubiere pronunciamiento, se entenderá que no existen objeciones a lo solicitado. Las modificaciones a que se refiere este inciso quedarán exentas del procedimiento establecido en el párrafo 1 del título I del Libro Segundo del Código de Aguas. Lo anterior no podrá menoscabar o perjudicar derechos de terceros.
+
+Durante el plazo establecido en el inciso séptimo del presente artículo, las regularizaciones y ampliaciones de viviendas sociales, cuyo valor de tasación de la vivienda no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, estarán exentas del pago de derechos municipales a que se refiere el artículo 130 de esta ley.
+
+El Ministro de Vivienda y Urbanismo, mediante resolución, podrá asignar a un proyecto de construcción específico la calificación de "proyecto de interés público". Se entenderá que dichos proyectos forman parte de las nuevas construcciones a que se refiere el inciso primero del presente artículo.
 
 #### Artículo 117
 
@@ -1472,7 +1492,7 @@ Cuando el Plan Regulador exija destino comercial obligatorio en primer piso y cu
 
 #### Artículo 166
 
-A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, emplazadas en áreas urbana o rural, sólo les serán aplicables las disposiciones de los planes reguladores y las normas técnicas que se indican a continuación:
+A las ampliaciones de viviendas sociales, viviendas progresivas e infraestructuras sanitarias, y a las ampliaciones de viviendas cuyo valor de tasación de la construcción no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, emplazadas en áreas urbana o rural, sólo les serán aplicables las disposiciones de los planes reguladores y las normas técnicas que se indican a continuación:
 
 a) Disposiciones de los planes reguladores referidas a zonas de riesgo o protección, declaraciones de utilidad pública y uso de suelo.
 
