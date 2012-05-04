@@ -90,7 +90,7 @@ Las regularizaciones que se efectúen de conformidad al presente artículo, esta
 
 <!-- parte:8133014 -->
 
-Lo dispuesto en el artículo 116 bis D) de la Ley General de Urbanismo y Construcciones, será aplicable a las zonas decretadas zona afectada por catástrofe, por un plazo de 6 años, aun cuando no se encuentren vigentes los respectivos decretos.
+DEROGADO.
 
 #### Artículo 4º
 
