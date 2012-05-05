@@ -6,8 +6,6 @@ Considerando: Lo informado por la Superintendencia de Electricidad y Combustible
 
 Decreto:
 
-> **Nota.** El Aviso S/N, Contraloría General de la República, publicado el 26.03.2012, complementa la presente norma, en el sentido de señalar que este decreto fue publicado sin incluir el texto del alcance de toma de razón de la Contraloría, oficio Nº 10.690, de 2012, ordenando que se adopte a la brevedad las providencias necesarias para subsanar la indicada omisión.
-
 #### Artículo 1º
 
 Otórgase a Sistema de Transmisión del Sur S.A. STS, concesión definitiva para establecer en las regiones de Los Ríos y Los Lagos, provincias Del Ranco y Osorno, comunas de Río Bueno y Puyehue, una línea de transmisión de energía eléctrica que se denominará "Línea de Transmisión 110 kV Pilmaiquén-Antillanca", cuyo trazado se describe en el plano de planta general STS-08-10-12-01-01.
@@ -83,3 +81,25 @@ La concesión que por este acto se otorga no exime del cumplimiento de las demá
 Anótese, tómese razón, notifíquese y publíquese.- Por orden del Presidente de la República, Rodrigo Álvarez Zenteno, Ministro de Energía.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica, Subsecretaría de Energía.
+
+CONTRALORÍA GENERAL DE LA REPÚBLICA
+
+División de Infraestructura y Regulación
+
+Subdivisión Jurídica
+
+Cursa con alcance el decreto Nº8, de 2012, del Ministerio de Energía
+
+Nº10.690.- Santiago, 22 de febrero de 2012.
+
+Esta Entidad de Control ha dado curso al documento del rubro, mediante el cual se otorga a la Empresa Sistema de Transmisión del Sur S.A., concesión definitiva para establecer la línea de transmisión "Pilmaiquén-Antillanca", en las Regiones de Los Ríos y Los Lagos; pero cumple con hacer presente que los planos especiales de servidumbre que se aprueban en el artículo 5º del decreto en estudio, son los indicados en el 6º del mismo instrumento.
+
+Con el alcance que antecede se ha tomado razón del acto administrativo del epígrafe.
+
+Saluda atentamente a Us., por orden del Contralor General de la República, Jefe Subdivisión Jurídica, División de Infraestructura y Regulación.
+
+Al señor
+
+Ministro de Energía
+
+Presente.
