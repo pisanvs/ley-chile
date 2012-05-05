@@ -10,15 +10,17 @@ Considerando:
 
 3. Que, por Oficio Res. 32 de fecha 25 de abril de 2012, el Ministro de Hacienda comunica a S.E. el Presidente de la República la recomendación señalada precedentemente; y
 
-4. Que, por Oficio 659, de fecha 25 de abril de 2012, S.E. el Presidente de la República, informa al Ministro de Hacienda que ha resuelto aplicar como medida de salvaguardia provisional una sobretasa arancelaria ad valorem de 10,8% a las importaciones de trigo partido clasificado en la partida arancelaria 1104.2300 y solicita se proceda a formalizar dicha medida,
+4. Que, por Oficio 659, de fecha 25 de abril de 2012, S.E. el Presidente de la República, informa al Ministro de Hacienda que ha resuelto aplicar como medida de salvaguardia provisional una sobretasa arancelaria ad valorem de 10,8% a las importaciones de maíz partido clasificado en la partida arancelaria 1104.2300 y solicita se proceda a formalizar dicha medida,
 
 Decreto:
 
-1.- Establécese, como medida de salvaguardia provisional, una sobretasa arancelaria ad valorem de 10,8% a las importaciones de trigo partido clasificadas en el código arancelario 1104.2300.
+1.- Establécese, como medida de salvaguardia provisional, una sobretasa arancelaria ad valorem de 10,8% a las importaciones de maíz partido clasificadas en el código arancelario 1104.2300.
 
 2.- La medida de salvaguardia provisional que se establece mediante el presente decreto, en conformidad con lo dispuesto en el artículo 15 del Decreto Supremo de Hacienda N° 909 de 1999, regirá desde su publicación en el Diario Oficial hasta la publicación en éste de la decisión que resuelva la aplicación o no de medidas definitivas.En todo caso, su duración no podrá exceder del término de doscientos días.
 
 3.- Corresponderá al Servicio Nacional de Aduanas adoptar las medidas conducentes a controlar la correcta aplicación de la medida de salvaguardia establecida en el presente Decreto.
+
+Exclúyase de la aplicación de la medida, a los países en desarrollo miembros de la Organización Mundial de Comercio (OMC) que en promedio de 24 meses comprendidos entre abril 2010 - marzo 2012 tengan una participación individual inferior al 3% en las importaciones totales de maíz partido y que en conjunto no superen el 9% de dichas importaciones, según lo establecido en el artículo 9.1 del Acuerdo sobre Salvaguardias.
 
 Anótese, comuníquese y publíquese.- Por orden de S.E. el Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
 
