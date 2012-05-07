@@ -1,0 +1,3 @@
+Por resolución exenta N°1.143, de 26 de abril de 2012, de esta Subsecretaría, rectifícase el numeral 1° letra a) de la resolución exenta N° 944, de 2012, que modificó la distribución para el año 2012 de la fracción artesanal de pesquería de Sardina común en la VIII Región, sometida al Régimen Artesanal de Extracción, en sentido de reemplazar la asignación efectuada a la organización de pescadores artesanales que se individualiza, por la siguiente:
+
+Valparaíso, 26 de abril de 2012.- Maximiliano Alarma Carrasco, Subsecretario de Pesca (S).
