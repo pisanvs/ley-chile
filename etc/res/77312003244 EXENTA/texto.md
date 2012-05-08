@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCIONARSE DEL RÉGIMEN DE CAMBIO DE SUJETO DEL IVA A AGRÍCOLA CAOBA S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77312003244 de fecha 20 de marzo de 2012, excepciona, a contar del 1º del mes siguiente al de esta publicación, a Agrícola Caoba S.A., RUT Nº99.529.240-8, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas de ganado vivo, establecido en la resolución Ex. Nº3.721 de 28-07-2000 de la Dirección Nacional, publicada en el Diario Oficial del 01-08-2000. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de compras de Ganado Vivo.
