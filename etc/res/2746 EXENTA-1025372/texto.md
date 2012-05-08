@@ -50,7 +50,7 @@ Si el postulante tiene la calidad de arrendatario según la Ficha de Registro de
 
 . Cuentas de consumo de servicios a su nombre de fecha anterior al 27 de febrero de 2010.
 
-8º.- Podrán postular a este llamado especial los damnificados inscritos en el Registro de Damnificados correspondiente a la comuna en que se emplazará el proyecto, que no sean propietarios ni asignatarios de una vivienda ni lo sea su cónyuge, así como aquellos damnificados que sean propietarios de un terreno, o lo sea su cónyuge, cuya vivienda resultó destruida o con daños irreparables, o hubiere sido demolida o fuere necesario demoler.
+8º.- Podrán postular a este llamado especial los damnificados inscritos en el Registro de Damnificados correspondientes a la provincia en que se emplazará el proyecto previa aprobación del Director Serviu en la resolución que aprueba las nóminas de postulantes seleccionados, que no sean propietarios ni asignatarios de una vivienda ni lo sea su cónyuge, así como aquellos damnificados que sean propietarios de un terreno, o lo sea su cónyuge, cuya vivienda resultó destruida o con daños irreparables, o hubiere sido demolida o fuere necesario demoler.
 
 No podrán postular a este llamado, las personas que aún cuando tengan la calidad de damnificados, o la tenga su cónyuge, se encuentren postulando a otro Programa Habitacional, o sean propietarias de otro inmueble de carácter habitacional o cuando lo fuere su cónyuge, ni las personas o sus cónyuges, cuyo certificado de subsidio esté vigente, a excepción de aquellos casos en que el certificado de subsidio se hubiese aplicado al financiamiento de la vivienda declarada inhabitable, pero éste aún no hubiere sido cobrado y siempre que el postulante acredite su inhabitabilidad.
 
