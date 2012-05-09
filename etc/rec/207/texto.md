@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.254, de 5 de mayo de 2012, se publicó extracto de resolución Nº 2.237 exenta, de "Mauricio Robles y Compañía Limitada", con el error que se salva a continuación: II Cuerpo, página diez, segunda columna: donde dice "..., se ha asignado a la sociedad Mauricio Flores Robles y Compañía Limitada, ...", debe decir "..., se ha asignado a la sociedad Mauricio Robles y Compañía Limitada, ...".

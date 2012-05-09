@@ -1,6 +1,6 @@
 EXTRACTO DE RESOLUCIÓN N° 2.237 EXENTA , DE 18.04.2012, QUE ADJUDICA PERMISO DE SERVICIO LIMITADO DE RADIOCOMUNICACIONES MULTI-FRECUENCIAS EN LA BANDA DE 400 MHZ QUE INDICA
 
-En el llamado a concurso público, se ha asignado a la sociedad Mauricio Flores Robles y Compañía Limitada, RUT N° 78.562.680-K, un permiso de Servicio Limitado de Radiocomunicaciones Multi-Frecuencias en la Banda 400 MHz, para la VIII Región, con las características técnicas siguientes:
+En el llamado a concurso público, se ha asignado a la sociedad Mauricio Robles y Compañía Limitada, RUT N° 78.562.680-K, un permiso de Servicio Limitado de Radiocomunicaciones Multi-Frecuencias en la Banda 400 MHz, para la VIII Región, con las características técnicas siguientes:
 
 .
 
