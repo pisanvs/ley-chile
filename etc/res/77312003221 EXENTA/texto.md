@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A DON RAÚL ALBERTO WILLER ELLWANGER
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución ex. N° 77312003221, de fecha 20 de marzo de 2012, otorga a contar del 1° del mes siguiente de esta publicación, al contribuyente Raúl Alberto Willer Ellwanger, RUT N°8.131.417-9, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la compras de ganado vivo, establecido en la resolución exenta N° 3.721 del 28 de julio de 2000 de la Dirección Nacional del SII, publicada en el Diario Oficial de fecha 1° de agosto de 2000.
