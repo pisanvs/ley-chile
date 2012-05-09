@@ -14,7 +14,7 @@ Del Objetivo y Fines
 
 #### Artículo 1º
 
-El Servicio de Bienestar del Servicio de Salud Talcahuano, en adelante el Servicio de Bienestar, tiene por objeto contribuir al bienestar del afiliado y sus causantes de asignación familiar, cooperando a su adaptación al medio y la elevación de sus condiciones de vida.
+El Servicio de Bienestar del Servicio de Salud Talcahuano tiene como objetivo contribuir al mejoramiento de la calidad de vida individual y familiar (cargas familiares) de sus afiliados, a través del diseño y aplicación de programas y acciones en los ámbitos del bienestar físico, psicosocial, cultural y recreativo.
 
 El referido Servicio de Bienestar se regirá por el artículo 134 de la Ley Nº 11.764, la Ley Nº 17.538, el artículo 24 de la Ley Nº 16.395, el D.S. Nº 28, de 1994, del Ministerio del Trabajo y Previsión Social, en adelante "El Reglamento General" y por el presente Reglamento.
 
@@ -64,31 +64,29 @@ El Servicio de Bienestar podrá otorgar a los afiliados y sus cargas familiares 
 
 #### Artículo 7º
 
-Este Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
+Este Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar los siguientes subsidios, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
 a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
 
 b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo. Si ambos padres fuesen afiliados, el beneficio lo recibirá cada uno de ellos. En caso de nacimientos múltiples, se otorgarán tantas ayudas como hijos nazcan;
 
-c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
+c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5° mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
 
-En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
+En caso de fallecimiento de afiliado, este subsidio se otorgará en el siguiente orden de precedencia:
 
-1) A la persona designada expresamente para tales efectos por el afiliado;
+1.- A la persona designada expresamente por escrito, para tales efectos por el afiliado.
 
-2) Al Cónyuge sobreviviente;
+2.- Al cónyuge o conviviente sobreviviente, que acredite haber tenido vida en común con el afiliado al momento del fallecimiento.
 
-3) A los hijos legítimos;
+3.- A los hijos.
 
-4) A los hijos naturales;
+4.- A los padres.
 
-5) A los padres legítimos, y
-
-6) A la persona que acredite haber efectuado los gastos del funeral;
+5.- A la persona que acredite haber efectuado los gastos del funeral.
 
 d) Adquisición de Nicho o Bóveda: También se otorgará una ayuda para la adquisición de nicho o bóveda al funcionario afiliado que careciere de él y sus cargas familiares reconocidas, como complemento a la ayuda de fallecimiento, según normas establecidas;
 
-e) Educación: El Servicio de Bienestar concederá anualmente una asignación de escolaridad, al afiliado y sus cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste;
+e) Educación: El Servicio de Bienestar concederá anualmente una asignación de escolaridad en los niveles pre-básico, básico, medio y superior, al afiliado y sus cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste;
 
 f) Becas de Estudio: Este Servicio de Bienestar, podrá otorgar en caso de extrema necesidad económica, calificada como tal por el Consejo Administrativo, becas de estudio destinadas a complementar los gastos derivados de la Educación del afiliado y/o sus cargas familiares, siempre que su disponibilidad presupuestaria lo permita;
 
@@ -110,29 +108,35 @@ El Servicio de Bienestar podrá conceder préstamos a sus afiliados cuando sus r
 
 3) Préstamos de Auxilio Especiales: Tratándose de situaciones de emergencia derivadas de sismos, incendios u otras catástrofes similares, estos préstamos podrán otorgarse hasta por un monto máximo de ocho ingresos mínimos mensuales. En tales casos, el préstamo podrá conceder sin que sea necesario que el afiliado haya cancelado íntegramente un préstamo de auxilio obtenido con anterioridad, y
 
-4) Préstamo Habitacional: Se otorgará para completar el ahorro previo necesario para la adquisición de una vivienda, y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales.
+4) Préstamo Habitacional: Este beneficio considera las siguientes variantes de préstamos:
 
-Este mismo beneficio, y por el monto máximo indicado, se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia, de acuerdo a reglamentación interna de Bienestar.
+a) Préstamo habitacional para completar el ahorro previo.
 
-Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior.
+b) Préstamo habitacional para la adquisición o construcción de la vivienda propia.
+
+c) Préstamo habitacional para la ampliación o reparación de la vivienda propia.
+
+El monto de este beneficio no podrá exceder el 50% de la cantidad, ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales.
+
+Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior
 
 #### Artículo 10º
 
 Los préstamos médicos y de auxilio serán servidos en un plazo de hasta 12 meses; los habitacionales en un plazo de hasta 36 meses; los préstamos de auxilio concedidos con ocasión de un sismo u otra catástrofe, en el plazo de hasta 30 meses, todos contados a partir del mes siguiente al de su otorgamiento.
 
-Los préstamos devengarán un interés anual del 6% y se reajustarán conforme al mecanismo que anualmente determine el Consejo Administrativo en la forma que corresponda según la Ley Nº 18.010.
+Los préstamos devengarán un interés anual del 6%, de acuerdo con la Ley N° 18.010 del año 1981 y sus modificaciones, que establece Normas para las Operaciones de Crédito y Otras Obligaciones de Dinero.
 
 En todo caso, el interés mensual no podrá ser superior al interés corriente a que se refiere el artículo 6º de la Ley Nº 18.010, debiendo rebajarse a dicho límite si fuere superior a él.
 
 Para solicitar un nuevo préstamo de auxilio será necesario haber cancelado íntegramente el primero, salvo lo dispuesto en el artículo 12º, Nº 3, del presente Reglamento.
 
-#### Artículo 11º
+#### Artículo 11°
 
-La solicitud de cualquier tipo de préstamo será suscrita, además del afiliado, por dos codeudores solidarios, que deberán tener a lo menos 3 meses de afiliación al Servicio de Bienestar y ser funcionarios de la planta. A excepción de los funcionarios del Código del Trabajo, en cuyo caso los codeudores deberán ser sólo funcionarios titulares.
+La solicitud de cualquier tipo de préstamo será suscrita además del afiliado, por dos codeudores solidarios, que deberán tener a lo menos 1 año de afiliación al Servicio de Bienestar.
 
 #### Artículo 12º
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 40% de su remuneración imponible para pensiones, o su pensión, según corresponda.
+Las sumas que el afiliado deba pagar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 15% de su remuneración imponible para pensiones, o su pensión, según corresponda.
 
 #### Artículo 13º
 
@@ -145,6 +149,12 @@ Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines 
 El Servicio de Bienestar podrá celebrar la festividad de Navidad para sus afiliados y sus cargas familiares, de acuerdo a sus recursos financieros.
 
 El Consejo Administrativo anualmente fijará el porcentaje del presupuesto que podrá destinarse para estos efectos.
+
+#### Artículo 14° bis
+
+El Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, la contratación de seguros de vida para sus afiliados y seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+
+En caso de enfermedad grave o catastrófica, tratamientos prolongados y de alto costo, calificados por el Médico Contralor y/o el Consejo Administrativo de Bienestar y en la medida que los recursos financieros lo permitan, se hará entrega de una ayuda económica complementaria, a las prestaciones médicas contempladas en el artículo 15° del Reglamento General para los Servicios de Bienestar.
 
 #### Artículo 15º
 
@@ -162,7 +172,7 @@ a) Aportes que anualmente se consulten en el presupuesto de la Institución, con
 
 b) Con el aporte mensual de los afiliados en el servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;
 
-c) Con el aporte mensual de los afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte Institucional;
+c) Con el aporte mensual de los afiliados jubilados de hasta el 1% de su pensión de jubilación, más un 50% del aporte institucional;
 
 d) Con los intereses de los préstamos que otorgue el Servicio de Bienestar a sus afiliados;
 
