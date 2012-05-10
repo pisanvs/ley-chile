@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 104 EXENTA, DE 2012
+
+Por resolución exenta Nº 104, del 17 de abril de 2012, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos urbanos, ubicado en Av. Padre Hurtado Nº1250, de la comuna de Los Ángeles, provincia y Región del Biobío, de responsabilidad de la Sociedad de Transporte de Pasajeros S.A., rol único tributario Nº 96.884.600-0. El tipo de terminal es un terminal clasificado en "Categoría A-2", de acuerdo al artículo 45º bis del DS 212/92 del Ministerio de Transportes y Telecomunicaciones y a la tabla establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La capacidad máxima del terminal corresponde a 120 vehículos, de conformidad al inciso quinto del artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones y oficio ordinario Nº 1483 de 22 de mayo de 2009, de esta Secretaría Regional Ministerial. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxis colectivos urbanos de Los Ángeles, cuyo responsable es la Sociedad de Transporte de Pasajeros S.A., rol único tributario Nº 96.884.600-0, con recorrido Troncal: Av. Padre Hurtado - Camino Las Trancas - Bogotá - Lima; Variante 1: Laguna Laja - Bombero Rioseco - Av. Oriente - Tolpán; Variante 2: Galvarino - Valdivia - Mendoza - Janequeo.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima de 120 vehículos, en conformidad al inciso quinto del artículo 45º del DS 212/92 del Ministerio de Transportes y Telecomunicaciones y oficio ordinario Nº 1483 de 22 de mayo de 2009, de esta Secretaría Regional Ministerial.
+
+- **C)** El administrador del terminal será don Tito Samuel Escobar González, rol único tributario Nº 7.766.658-3 con domicilio en Madrid Nº 1266, Villa España, comuna de Los Ángeles. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza. Déjese sin efecto la resolución exenta Nº 199, del 28 de octubre de 2003, de esta Secretaría Regional Ministerial.-
+
+Claudio Silva González, Secretario Regional Ministerial Transportes y Telecomunicaciones Región del Biobío.
