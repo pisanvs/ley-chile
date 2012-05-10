@@ -1,4 +1,4 @@
-FIJA NORMA TÉCNICA PARA EL USO DE LA FRECUENCIA 77,5 kHz
+FIJA NORMA TÉCNICA PARA EL USO DE LAS FRECUENCIAS 77,5; 129,1; 135,6 y 139,0 kHz
 
 Santiago, 7 de octubre de 2011.- Con esta fecha se ha resuelto lo que sigue:
 
@@ -16,11 +16,11 @@ Considerando: La necesidad de administrar eficientemente el espectro radioeléct
 
 Resuelvo:
 
-Fíjese la siguiente norma técnica para el uso de la frecuencia 77,5 kHz.
+Fíjese la siguiente norma técnica para el uso de las frecuencias 77,5; 129,1; 135,6 y 139,0 kHz.
 
 #### Artículo 1°
 
-Destínese la frecuencia 77,5 kHz para la operación de equipos de radiocomunicación del servicio fijo con fines de sincronización, con señal horaria emitida centralizadamente, y emisión de señales de control y de alarmas, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones.
+Destínese las frecuencias 77,5; 129,1; 135,6 y 139,0 kHz para la operación de equipos de radiocomunicación del servicio fijo con fines de sincronización, con señal horaria emitida centralizadamente, y emisión de señales de control y de alarmas, que se autorice mediante el correspondiente permiso de servicio limitado de telecomunicaciones.
 
 #### Artículo 2º
 
