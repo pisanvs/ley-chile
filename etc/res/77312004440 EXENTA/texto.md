@@ -1,0 +1,3 @@
+AUTORIZA EXEPCIONARSE DEL RÉGIMEN DE CAMBIO SUJETO DE DERECHO DEL IVA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. N° 77312004440, de fecha 20 de abril de 2012, excepciona, a contar del 1° del mes siguiente al de esta publicación, a Agrícola Casa del Sur Limitada, RUT N° 77.988.540-2, del régimen de cambio sujeto del Impuesto al Valor Agregado, en las ventas de ganado vivo, establecido en la resolución Ex. N° 3.721 de 28-07-2000, de la Dirección Nacional, publicada en el Diario Oficial del 01-08-2000. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de compras de Ganado Vivo.
