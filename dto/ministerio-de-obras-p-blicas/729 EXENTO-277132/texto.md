@@ -118,6 +118,8 @@ Américo Vespucio hasta el límite urbano Surponiente; a través de Camino Lonqu
 
 a través de: Av. Dorsal, túneles y Comodoro Arturo Merino Benítez.
 
+- Costanera Sur Río Mapocho / Avenida Andrés Bello (T270), entre Av. Américo Vespucio y Av. Presidente Kennedy, y su prolongación al sur hasta el sector de calle Nueva Tajamar.
+
 4º Declárense Caminos Públicos en las áreas urbanas de los siguientes centros poblados, pueblos y ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 Calera de Tango:
