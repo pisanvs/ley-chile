@@ -1296,6 +1296,10 @@ cuanto no se opusieren a lo previsto en este Párrafo.
 
 Suspensión temporal de otras medidas cautelares personales. El tribunal podrá dejar temporalmente sin efecto las medidas contempladas en este Párrafo, a petición del afectado por ellas, oyendo al fiscal y previa citación de los demás intervinientes que hubieren participado en la audiencia en que se decretaron, cuando estimare que ello no pone en peligro los objetivos que se tuvieron en vista al imponerlas. Para estos efectos, el juez podrá admitir las cauciones previstas en el artículo 146.
 
+#### Artículo 156 bis
+
+Medidas cautelares especiales. En los casos de investigaciones por fraude en el otorgamiento de licencias médicas, el tribunal podrá, en la oportunidad y a petición de las personas señaladas en el artículo 155, decretar la suspensión de la facultad de emitir dichas licencias mientras dure la investigación o por el menor plazo que, fundadamente, determine.
+
 ## Título VI
 
 Medidas cautelares reales
@@ -1802,7 +1806,7 @@ No se podrán interceptar las comunicaciones entre el imputado y su abogado, a m
 
 La orden que dispusiere la interceptación y grabación deberá indicar circunstanciadamente el nombre y dirección del afectado por la medida y señalar la forma de la interceptación y la duración de la misma, que no podrá exceder de sesenta días. El juez podrá prorrogar este plazo por períodos de hasta igual duración, para lo cual deberá examinar cada vez la concurrencia de los requisitos previstos en los incisos precedentes.
 
-Las empresas telefónicas y de comunicaciones deberán dar cumplimiento a esta medida, proporcionando a los funcionarios encargados de la diligencia las facilidades necesarias para que se lleve a cabo con la oportunidad con que se requiera.. Con este objetivo los proveedores de tales servicios deberán mantener, en carácter reservado, a disposición del Ministerio Público, un listado actualizado de sus rangos autorizados de direcciones IP y un registro, no inferior a seis meses, de los números IP de las conexiones que realicen sus abonados. La negativa o entorpecimiento a la práctica de la medida de interceptación y grabación será constitutiva del delito de desacato. Asimismo, los encargados de realizar la diligencia y los empleados de las empresas mencionadas en este inciso deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento.
+Las empresas telefónicas y de comunicaciones deberán dar cumplimiento a esta medida, proporcionando a los funcionarios encargados de la diligencia las facilidades necesarias para que se lleve a cabo con la oportunidad con que se requiera. Con este objetivo los proveedores de tales servicios deberán mantener, en carácter reservado, a disposición del Ministerio Público, un listado actualizado de sus rangos autorizados de direcciones IP y un registro, no inferior a un año, de los números IP de las conexiones que realicen sus abonados. La negativa o entorpecimiento a la práctica de la medida de interceptación y grabación será constitutiva del delito de desacato. Asimismo, los encargados de realizar la diligencia y los empleados de las empresas mencionadas en este inciso deberán guardar secreto acerca de la misma, salvo que se les citare como testigos al procedimiento.
 
 Si las sospechas tenidas en consideración para ordenar la medida se disiparen o hubiere transcurrido el plazo de duración fijado para la misma, ella deberá ser interrumpida inmediatamente.
 
