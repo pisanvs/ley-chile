@@ -18,7 +18,7 @@ Decreto:
 
 a) Camioneta Mazda BT-50 SDX, doble cabina, año 2008, Nº Motor WLAT-902315, color plateado plata, inscripción Registro Nacional de Vehículos Motorizados BLJZ.47-7, patente BLJZ.47-7, inventario 4-500-1, se destina a la Dirección de la I Región del Instituto de Desarrollo Agropecuario.
 
-b) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 951676, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBYB.19-7, patente DBYB.19-7, inventario 4-626-1, se destina a la Dirección de la II Región del Instituto de Desarrollo Agropecuario.
+b) Camioneta Mazda modelo BT50, doble cabina, año 2012, Nº de Motor WLAT 1271057, color blanco, inscripción Registro Nacional de Vehículos Motorizados DLST-83-7, Patente DLST-83-7, Inventario 4-735-1, se destina a la Dirección de la XV Región del Instituto de Desarrollo Agropecuario.
 
 c) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 951680, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBYB.20-0, patente DBYB.20-0, inventario 4-595-1, se destina a la Dirección de la III Región del Instituto de Desarrollo Agropecuario.
 
@@ -30,7 +30,7 @@ f) Station Wagon Suzuki Gran Nomade 2.0 GLX Sport, año 2009, Nº Motor J20A-671
 
 g) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25159539B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-30-8, patente DBRD-30-8, inventario 4-629-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
 
-h) Station Wagon Suzuki Gran Nomade 2.0 GLX Sport, año 2009, Nº Motor J20A-671207, color gris oscuro, inscripción Registro Nacional de Vehículos Motorizados CBBL.96-K, patente CBBL.96-K, inventario 4-529-1, se destina a la Dirección de la VIII Región del Instituto de Desarrollo Agropecuario.
+h) Camioneta Chevrolet Modelo Dmax TH 3.0, doble cabina, año 2011, Nº de Motor 952153, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ-91-5, Inventario 4-604-1, se destina a la Dirección de la VIII Región del Instituto de Desarrollo Agropecuario.
 
 i) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 939711, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ.86-9, patente DBXZ.86-9, inventario 4-601-1, se destina a la Dirección de la IX Región del Instituto de Desarrollo Agropecuario.
 
