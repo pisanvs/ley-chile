@@ -70,6 +70,8 @@ En caso que el inmueble poseído por el postulante damnificado o por su cónyuge
 
 12.- Los postulantes seleccionados en el Primer Llamado Extraordinario 2010 del Sistema de Subsidio Habitacional regulado por el D.S. Nº40 (V. y U.), de 2004, en su clase regulada por el Título I, Subsidio General, destinado a la atención de los damnificados de las Regiones indicadas en el numero 1º de esta resolución, dispuesto por la resolución exenta Nº 2.185 (V. y U.). de 2010, podrán aplicar los montos de subsidio y condiciones establecidos en el número 4º de esta resolución, por ser más beneficiosos para ellos, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos.
 
+13) El certificado de subsidio tendrá una vigencia de 36 meses contados desde la fecha de su emisión, consignado en el mismo certificado.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
