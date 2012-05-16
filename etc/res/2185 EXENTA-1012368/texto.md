@@ -70,6 +70,8 @@ Para efectos de la aplicación del inciso segundo del artículo 14 del D.S. N° 
 
 10.- La recepción de las solicitudes de postulación e ingreso de las solicitudes al sistema computacional respectivo con los documentos que deben acompañarlas, se efectuará sólo en las Oficinas del Serviu respectivo o en los lugares de atención que éstos dispongan al efecto.
 
+11) El certificado de subsidio tendrá una vigencia de 36 meses contados desde la fecha de su emisión, consignado en el mismo certificado.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
