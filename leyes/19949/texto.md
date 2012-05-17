@@ -76,7 +76,21 @@ Para efectos de lo dispuesto en los artículos 7º y 8º de esta ley, en los pre
 
 #### Artículo 10
 
-Las personas que maliciosamente proporcionen información falsa, parcial, adulterada, la oculten, o hagan mal uso del o los beneficios que esta ley contempla, serán excluidas del sistema "Chile Solidario" y de las prestaciones que conlleva, sin perjuicio de la devolución de lo indebidamente percibido y de las responsabilidades civiles o penales que procedan.
+Las personas que proporcionen información falsa, parcial, adulterada, la oculten, o hagan mal uso del o los beneficios que esta ley contempla, serán excluidas del sistema "Chile Solidario" y de las prestaciones que conlleva, sin perjuicio de la devolución de lo indebidamente percibido y de las responsabilidades civiles o penales que procedan.
+
+#### Artículo 11
+
+Causales de Término de la Participación en Chile Solidario. Las familias y personas dejarán de formar parte de Chile Solidario en cualquiera de las siguientes situaciones:
+
+1. Renuncia voluntaria del representante de la familia o de quien le corresponda recibir el pago de los beneficios del Chile Solidario, según sea el caso, manifestada por escrito ante el Ministerio de Desarrollo Social, a través de la entidad encargada de la ejecución del Componente de Apoyo Psicosocial.
+
+2. Incumplimiento del documento de compromiso que establece el artículo 5° de esta ley.
+
+3. Término de participación en el apoyo psicosocial regulado en el artículo 4° de esta ley, respecto de quienes no sean beneficiarios del Bono de Egreso regulado en el artículo segundo transitorio de esta ley.
+
+4. Extinción del derecho a percibir el Bono de Egreso, respecto de quienes sean beneficiarios de él, según lo dispuesto en el artículo segundo transitorio de esta ley.
+
+No obstante lo anterior, los sostenedores de establecimientos educacionales que acrediten haber matriculado y logrado la permanencia o egreso regular de educandos que pertenezcan a familias que hayan sido beneficiarias de Chile Solidario y que cumplan los requisitos de la ley N° 19.873, tendrán acceso al Subsidio Pro Retención Escolar, en los términos establecidos por dicha ley.
 
 ## Artículos transitorios
 
