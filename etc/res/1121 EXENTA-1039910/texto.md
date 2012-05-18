@@ -8,6 +8,6 @@ Diciembre 2012 7,40 UTM
 
 Diciembre 2013 7,40 UTM.
 
-Déjase sin efecto resolución exenta Nº 12.542, de 2011, de esta Subsecretaría de Pesca.
+Déjase sin efecto resolución exenta N° 1.254, de 2011, de esta Subsecretaría de Pesca.
 
 Valparaíso, 24 de abril de 2012.- Edith Saa Collantes, Subsecretaria de Pesca (S).
