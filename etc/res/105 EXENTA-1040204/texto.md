@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 105 EXENTA, DE 2012
+
+Por resolución exenta Nº 105, del 18 de abril de 2012, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos urbanos, ubicado en calle Riñihue Nº9, de la comuna de Lota, provincia de Concepción, Región del Biobío, de responsabilidad de la Sociedad de Transportes Línea Nueve Louta Limitada, rol único tributario Nº 76.829.200-0. El tipo de terminal es un terminal clasificado en "Categoría A-1", de acuerdo al artículo 45º bis del DS 212/92, del Ministerio de Transportes y Telecomunicaciones, y a la tabla establecida en el artículo 4.13.6 del DS 47/92, del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La capacidad máxima del terminal corresponde a 30 vehículos, de conformidad al inciso quinto del artículo 45º del DS 212/92, del Ministerio de Transportes y Telecomunicaciones, y el oficio Nº 410, de 6 de febrero de 2009, de esta Secretaría Regional Ministerial. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de taxis colectivos urbanos de la comuna de Lota, cuyo responsable es la Sociedad de Transportes Línea Nueve Louta Limitada, rol único tributario Nº 76.829.200-0, con recorrido Troncal: Cousiño - Luis Cruz Martínez - Los Copihues - Riñihue.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por una cantidad máxima de 30 vehículos, en conformidad al inciso quinto del artículo 45º del DS 212/92, del Ministerio de Transportes y Telecomunicaciones, y el oficio Nº 410, de 6 de febrero de 2009, de esta Secretaría Regional Ministerial.
+
+- **C)** El administrador del terminal será don Lorenzo Cartes Castillo, rol único tributario Nº 8.730.716-6, con domicilio en calle Cousiño Nº 574, de la comuna de Lota. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.-
+
+Claudio Silva González, Secretario Regional Ministerial Transportes y Telecomunicaciones Región del Biobío.
