@@ -208,7 +208,7 @@ La solicitud de cualquier tipo de préstamo será suscrita además del afiliado,
 
 #### Artículo 14º
 
-Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos o por concepto de créditos de casas comerciales no podrán exceder del 40% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las cuotas que el afiliado adeude al Servicio de Bienestar por préstamos personales o por créditos contraídos con casas comerciales, no podrán exceder del 15% de la remuneración imponible o de su pensión, según corresponda.
 
 ### Párrafo C — uarto
 
@@ -218,7 +218,7 @@ De las asistencias y otros beneficios
 
 El Servicio de Bienestar propenderá al progreso social, cultural, recreativo, educacional y deportivo de sus beneficiarios. Con este objeto, siempre que sus recursos lo permitan, podrá:
 
-a) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, festividades navideñas, y actividades vacacionales y cualquiera otra actividad que propenda a los fines señalados.
+a) Financiar o ayudar a financiar eventos culturales, deportivos, recreativos, festividades navideñas, celebraciones de aniversarios institucionales, actividades de vacaciones de los afiliados y sus beneficiarios, y cualquiera otra que diga relación con los fines de este Servicio de Bienestar.
 
 b) Asesorar, otorgar ayuda y firmar, a través de la autoridad superior de la institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educacional y/o cultural jurídica, que beneficien directamente a sus afiliados y en general utilizar el máximo de los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
 
