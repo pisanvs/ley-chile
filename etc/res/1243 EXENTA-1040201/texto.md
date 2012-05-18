@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.243, de 11 de mayo de 2012, de esta Subsecretaría, rectifíquese el extracto de la resolución exenta N° 1.121, de 2012, que otorgó a CAMANCHACA PESCA SUR S.A. un permiso extraordinario de pesca para la unidad de pesquería del recurso hidrobiológico Langostino amarillo, en el sentido de reemplazar su frase final por la siguiente: "Déjase sin efecto resolución exenta N° 1.254, de 2011, de esta Subsecretaría de Pesca".
+
+Valparaíso, 11 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
