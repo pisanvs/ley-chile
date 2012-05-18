@@ -62,6 +62,10 @@ Herramienta online que se encuentra en la página Web del Servicio, que permite 
 
 Herramienta informática interna del Servicio de Aduanas, que cumple con el objetivo, entre otros, de llevar un control de flujo de las operaciones amparadas por MIC/DTA.
 
+### 5. Leasing
+
+Contrato entre un arrendatario y un arrendador, en el cual el primero cede los derechos de uso de un bien al segundo, el cual le paga una cuota por su utilización, teniendo derecho de compra a la adquisición del elemento al finalizar el plazo convenido de uso.
+
 II DISPOSICIONES GENERALES
 
 El sistema de transmisión electrónica de los manifiestos de carga por vía terrestre, permite que el usuario autorizado envíe al Servicio Nacional de Aduanas los manifiestos, mediante diversos mensajes ya sea de registro, modificación, y/o anulación. El Servicio valida la información contenida en los mensajes y procede a responder al usuario la aceptación o rechazo del manifiesto, según corresponda.
@@ -1210,7 +1214,25 @@ por defecto el mismo dato del
 
 recuadro 1, sin embargo
 
-se puede editar.
+se puede editar. En caso de
+
+que el camión esté en calidad
+
+de "Leasing", en este campo
+
+se deben colocar los datos
+
+correspondientes a la empresa
+
+de transporte o "arrendador"
+
+y no a la institución
+
+financiera que opera como
+
+"arrendataria" en el contrato
+
+de "Leasing".
 
 Nombre del Propietario
 
