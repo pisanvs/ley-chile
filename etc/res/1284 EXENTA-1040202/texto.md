@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.284, de 14 de mayo de 2012, de esta Subsecretaría, recházanse las solicitudes números 91001101, 208123015, 209103037, 210101042, 210101073, 205104045, 209101050, 210101016 y 208121118, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 14 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
