@@ -1,0 +1,39 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO AVOSOL CÁPSULAS
+
+Núm. 1.130 exenta.- Santiago, 2 de mayo de 2012.- Visto: Estos antecedentes; el oficio ordinario Nº 2.566, de fecha 21 de diciembre de 2011, de la Secretaría Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins, mediante el cual se adjunta la documentación técnica correspondiente, de fecha 5 de enero de 2012, y por el que solicita determinar el régimen de control que corresponde aplicar al producto Avosol Cápsulas, presentado por el peticionario Latitud Consultores; el acuerdo de la sesión Nº 3/12 de la Comisión de Régimen de Control Aplicable, de fecha 19 de marzo de 2012, y
+
+Considerando:
+
+Primero: Que se declara que cada cápsula de Avosol contiene: 100 mg. de extracto insaponificable del fruto de Persea americana Mill. y 200 mg. de extracto insaponificable de poroto de Glycine max L., recomendado para: "Promover la salud de las articulaciones y la movilidad. Reduce el dolor de las articulaciones y puede ayudar a desarrollar cartílago sano y proteger contra el deterioro del cartílago. Los estudios clínicos mostraron una menor necesidad de AINESs". Dosis recomendada: 2 cápsulas al día;
+
+Segundo: Que el interesado declara que: "Se trata del producto Avosol, que corresponde a un Alimento en cápsulas en base a aceite de palta y soya, viene en un envase de presentación de 60 cápsulas. Se trata de un producto importado, terminado, fabricado por Biokraft Pharma AB, Suecia, importado y distribuido por Ethon Pharmaceuticals Comercializadora";
+
+Tercero: Que el interesado adjunta la siguiente documentación:
+
+Un proyecto de rotulado gráfico para el producto, donde describe en el envase lo siguiente: Información nutricional; Ingredientes: Aceite de soya, aceite de palta, carbonato de calcio, gelatina, aislado de proteína de soya, dióxido de silicio, tocoferoles, talco, almidón de maíz, estearato de magnesio, maltodextrina, lecitina de soya. Fabricado por Biokraft Pharma AB, Alterumsvägen 326, SE-251, 10 Helsingborg, Suecia. Importado y distribuido por: EthonPharmaceuticals Comercializadora, Importadora, Exportadora y Distribuidores Ltda., Cuevas 021, Rancagua, Chile. Seremi de Salud Región del Libertador General Bernardo O'Higgins, Resol. Nº 4.978, del 10/11/11, Lote, fecha vencimiento;
+
+Certificado de la autoridad sanitaria Sueca (Läkemedelsverket, Medical Products Agency), manifestando que el fabricante está autorizado en Suecia para fabricar productos farmacéuticos y especialidades farmacéuticas, que la fabricación está de acuerdo con las BPM de productos farmacéuticos, dice además que la planta está sujeta a intervalos de inspección con una vigencia de tres años, la última fue hecha en octubre de 2008;
+
+Certificado de especificaciones de la materia prima: Corresponde a extracto insaponificable del fruto de Persea americana Mill y de poroto de Glycine max L., con una relación droga cruda/extracto de 20:1 y la relación de palta/soya de 1:2. Identifica fitoesteroles de soja, proteínas, tocoferoles, lecitina. Determina proteína, humedad y acidez, además de análisis microbiológico, metales pesados, aditivos, características físicas, período de validez;
+
+Envase secundario (estuche del producto), señalando lo siguiente: Cara anterior de la caja: Avosol TM, promueve la salud de las articulaciones y la movilidad. Reduce el dolor de las articulaciones y puede ayudar a desarrollar cartílago sano y proteger contra el deterioro del cartílago. Los estudios clínicos mostraron una menor necesidad de AINEs, 60 cápsulas. Caras laterales: Promueve la salud de las articulaciones y reduce el dolor en las articulaciones. Cara posterior: AVOSOL® Avosol es el único producto natural que contiene extractos insaponificables de palta y soja en relación 1:2 - 100 mg. de palta y 200 mg. de extracto de soja por día.
+
+Recomendaciones de uso: Promueve la salud de las articulaciones y la movilidad. Reduce el dolor de las articulaciones y puede ayudar a desarrollar cartílago sano y proteger contra el deterioro del cartílago. Los estudios clínicos mostraron una menor necesidad de AINEs. Dosis recomendada (adultos): Tome dos cápsulas al día junto con las comidas. Cada cápsula contiene: Fitoesteroles insaponificables de Palta y aceite de soja (Persea americana Mill y Glycine max ......... 150 mg). Excipientes: Carbonato de calcio, gelatina, proteína insoluble de soja, dióxido de silicio, mezcla de tocoferoles, talco, almidón de maíz, estearato de magnesio, maltodextrina, lecitina de soja. Información de riesgo: Deje alejado de los niños, consulte a su médico o práctico en salud en caso de embarazo o lactancia materna. En raros casos puede provocar problemas gastrointestinales leves. Almacenar en lugar frío. No usar si el sello está roto. A/S Anjo, Pappelgaardvej 17, DK-2860 Soeborg, Denmark, Imported by Biosa Canada Inc. 7622 Charozy St., Niagara Falls, ONL2H 2P1;
+
+Cuarto: Que respecto de los ingredientes activos de esta formulación cabe señalar lo que este Instituto tiene registrado como producto farmacéutico los productos Piascledine Cápsulas e Inflax Cápsulas 300 mg., cuya composición es: Insaponificables de aceite de pulpa de Persea gratissima (Gaertn) 100 mg. e Insaponificables de Glycine max 200 mg, indicado para el tratamiento de enfermedades osteoartrósicas (osteoartríticas);
+
+Quinto: Que los criterios empleados por este Instituto para definir el régimen de control que corresponde aplicar a un determinado producto son: Su composición, finalidad de uso, propiedades en las que fundamenta dicha finalidad de uso y propiedades con las que se promociona o pretende promocionar el producto en cuestión. En base a ellos y según lo estipulado en la regulación sanitaria vigente en nuestro país, se le clasifica, señalándose en la correspondiente resolución su categoría y reglamentación por la cual se debe regir;
+
+Sexto: Que de acuerdo a la composición, indicación y los antecedentes de productos registrados con el mismo principio activo y en la misma proporción, este producto corresponde a un medicamento, y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102° del Código Sanitario; en los artículos 8° y 9° del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3, de 2010, del Ministerio de Salud; los artículos 59º letra b), del decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979, y de las leyes Nº 18.933 y Nº 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo Nº 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta Nº 334, del 25 de febrero de 2011, y Nº 597, del 30 de marzo de 2011, del Instituto de Salud Pública de Chile, dicto la siguiente:
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Avosol Cápsulas, solicitado por Secretaría Regional Ministerial de Salud de la Región del Libertador General Bernardo O'Higgins, es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, DS Nº 3, de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º, del decreto Nº 3, de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Agencia Nacional de Medicamentos, Instituto de Salud Pública.
