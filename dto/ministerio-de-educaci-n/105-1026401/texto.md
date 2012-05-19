@@ -26,7 +26,7 @@ Asimismo, se financiarán en las mismas condiciones y requisitos 120 becas para 
 
 #### Artículo 2º
 
-Las Becas se pondrán a disposición de los alumnos becados mediante depósitos efectuados en una cuenta personal de ahorro, a través de una entidad bancaria que establezca la Junta Nacional de Auxilio Escolar y Becas, en adelante Junaeb. Lo anterior, sin perjuicio del pago directo que Junaeb, excepcionalmente, pueda realizar a un beneficiario.
+Las Becas se pondrán a disposición de los alumnos becados mediante depósitos efectuados en una cuenta personal de ahorro, cuenta RUT o pago en caja, a través de una entidad bancaria que establezca la Junta Nacional de Auxilio Escolar y Becas, en adelante Junaeb. Lo anterior, sin perjuicio del pago directo que Junaeb, excepcionalmente, pueda realizar a un beneficiario.
 
 #### Artículo 3º
 
@@ -34,7 +34,7 @@ Corresponderá a la Junaeb la administración y la responsabilidad técnica del 
 
 En el ejercicio de esta función, Junaeb actuará de acuerdo con las facultades establecidas en su Ley Orgánica y las normas del presente decreto, correspondiéndole especialmente:
 
-a) Establecer los procedimientos para la concesión, renovación, prórroga, suspensión o término anticipado de la Beca;
+a) Establecer los procedimientos para la concesión, renovación, prórroga, revisión, cambio de carrera, continuidad de estudios, suspensión o término anticipado de la Beca;
 
 b) Verificar, cuando corresponda, si la situación socioeconómica y académica declarada por el estudiante es fidedigna;
 
@@ -131,6 +131,14 @@ La renovación de esta beca estará supeditada a que las leyes de presupuestos r
 #### Artículo 14º
 
 El gasto que demande el cumplimiento del presente decreto se imputará a la asignación presupuestaria que corresponda del presupuesto de la Junta Nacional de Auxilio Escolar y Becas.
+
+#### Artículo transitorio
+
+Respecto de los estudiantes que requieran renovar sus becas, pertenecientes a las cohortes del año 2008, 2009 y 2010, déjase establecido que:
+
+a) Tratándose de los estudiantes de educación media, deberán mantener un promedio de notas igual o superior a 6.0 y acreditar la mantención de la situación socioeconómica que dio origen al beneficio.
+
+b) Tratándose de los estudiantes de educación superior, deben acreditar en cada semestre, su calidad de alumno regular y mantener la situación socioeconómica que dio origen al beneficio.
 
 Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Fernando Rojas Ochagavía, Ministro de Educación (S).- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
