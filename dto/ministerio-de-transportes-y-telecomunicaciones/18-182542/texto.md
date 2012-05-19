@@ -32,11 +32,15 @@ Años Antigüedad máxima
 
 2005 14
 
-2006 12
+2006 y posterior 12
 
 La antigüedad del vehículo se calcula como la diferencia entre el año en que se realiza el cálculo y el año de fabricación del vehículo anotado en el certificado de inscripción y anotaciones vigentes extendido por el Registro de Vehículos Motorizados del Registro Civil e Identificación.
 
-La prohibición indicada en la letra a) del artículo 1º, no regirá en aquellas vías que, de conformidad al Plan Regulador Metropolitano de Santiago, pertenecen a las Zonas Industriales Exclusivas de las comunas de Cerro Navia, Conchalí, Pudahuel, Quilicura y Renca.
+La prohibición indicada en la letra a) del artículo 1º, no regirá en aquellas vías que, de conformidad al Plan Regulador Metropolitano de Santiago, pertenecen a las Zonas Industriales Exclusivas de las comunas de Cerro Navia, Conchalí, Pudahuel, Quilicura y Renca. Tampoco regirá para los vehículos de carga, de peso bruto vehicular superior a los 16.000 kilos, que circulen, en el horario y vías que, mediante resolución, establezca el Ministerio de Transportes y Telecomunicaciones.
+
+La prohibición a que se refiere la letra b) del inciso primero de este artículo, no regirá para los vehículos de carga dotados de motor de encendido por compresión que, en las fiscalizaciones que se efectúen en la vía pública, en las plantas revisoras autorizadas al efecto o en otras adicionales que establezca el Ministerio de Transportes y Telecomunicaciones, se constate que el coeficiente de extinción (k) medido, en su ensayo de aceleración libre, es igual o inferior a 1,6 m-1. A contar del 1 enero de 2015, el valor 1,6 m-1, se rebajará a 1,0 m-1. El ensayo de aceleración libre, se describe en la letra b.2 del artículo 4º del decreto supremo Nº 4 de 1994, del Ministerio de Transportes y Telecomunicaciones.
+
+El Ministerio de Transportes y Telecomunicaciones, mediante el acto administrativo que corresponda, establecerá los requisitos técnicos y administrativos necesarios para la implementación y adecuado control de las excepciones señaladas.
 
 #### Artículo 1º bis
 
