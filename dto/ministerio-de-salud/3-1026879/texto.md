@@ -2082,6 +2082,14 @@ Los rótulos deberán señalar en forma destacada, cuando proceda, las siguiente
 
 - R=Receta Simple, RR=Receta Retenida, RCH=Receta Cheque, VD = Venta Directa
 
+En el caso de los rótulos de los envases secundarios de los productos farmacéuticos que hayan demostrado su equivalencia terapéutica, ante el Instituto de acuerdo con las disposiciones del artículo 221 de este reglamento y sus normas complementarias, éstos deberán contener la siguiente imagen y textos asociados (isologo):
+
+La imagen y sus textos asociados deberán estar impresos en los envases secundarios correspondientes. Estas menciones en ningún caso, podrán contener u ocultar ningún tipo de información propia del envase.
+
+El isologo deberá figurar al menos en cuatro de las seis caras habituales del envase secundario, en la forma como se establece en la norma gráfica pertinente, a la que alude el siguiente inciso, cubriendo un 20% de su área, en la parte inferior de la misma. En el caso de aquellos productos que se expendan o entreguen en sus envases primarios, deberá incorporarse la imagen y sus textos asociados, en la respectiva etiqueta o superficie rotulada, en la misma forma y condiciones detalladas precedentemente.
+
+Este isologo deberá ajustarse a las especificaciones técnicas establecidas y aprobadas mediante decreto supremo del Ministerio de Salud, suscrito bajo la fórmula "Por orden del Presidente de la República", las que incluirán aspectos relacionados con el cuerpo y expandido de la letra, interlineado, tipografía, contraste, colores y demás características de la imagen y del texto, dimensiones, relaciones y especificaciones técnicas. Asimismo, las imágenes del envase conteniendo el isologo podrán ser replicadas en otros materiales de publicidad e información, si éstos están permitidos.
+
 #### Artículo 88º
 
 Toda serie o lote o subserie o sublote de un producto farmacéutico se identificará mediante una clave que permitirá individualizarlo en cualquiera de las etapas, desde su producción hasta su dispensación o uso.
