@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.308, de 15 de mayo de 2012, de esta Subsecretaría, modifícase el numeral 4.- del número 1 de la resolución exenta N° 27, de fecha 2012, de esta Subsecretaría, en el sentido de incrementar en la letra a) la cuota de Sardina austral, autorizada a FUNDACIÓN CHINQUIHUE, en 9 toneladas, y de incrementar en la letra b) la cuota de Sardina austral, autorizada a CONSULTORA MARES CHILE LIMITADA, en 9 toneladas.
+
+Valparaíso, 15 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
