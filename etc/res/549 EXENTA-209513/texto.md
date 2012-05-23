@@ -32,7 +32,11 @@ Salida : Límite Comunal Viña del Mar - Av. Los Carrera
 
 Comunal Quilpué.
 
-3º Fíjanse al interior de la zona urbana de la comuna de Quilpué los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural provenientes de la Provincia de Quillota y que no cuentan con terminal o recinto para iniciar y terminar el servicio en la Comuna de Quilpué:
+3º Fíjanse al interior de la zona urbana de la comuna de Quilpué los siguientes trazados que deberán utilizar los servicios de locomoción colectiva rural provenientes de la Provincia de Quillota o de las comunas de Limache y Olmué, y que no cuentan con terminal o recinto
+
+para iniciar y terminar el servicio en la
+
+Comuna de Quilpué:
 
 Límite Comunal Villa Alemana - Av. Freire - Diego Portales - Av. Los Carrera - Circunvalación en Rotonda Los Lunes - Av. Los Carrera - Variante Los Carrera - Av. Freire - Límite Comunal Villa Alemana.
 
