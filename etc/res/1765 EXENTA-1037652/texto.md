@@ -20,7 +20,7 @@ Resolución:
 
 1. Apruébase el proyecto que se identifica a continuación y los recursos respectivos, el cual cuenta con Calificación Definitiva, para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda en su Capítulo Segundo, para el concurso convocado mediante resolución exenta Nº697 (V. y U.), de 2011, y sus modificaciones:
 
-2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 30.215 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda, de la Región del Maule, para el año 2012.
+2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 26.560 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda, de la Región del Maule, para el año 2012.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
