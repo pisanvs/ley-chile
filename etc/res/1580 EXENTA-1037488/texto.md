@@ -20,7 +20,9 @@ Resolución:
 
 1. Apruébanse los proyectos que se identifican a continuación y los recursos respectivos, los cuales cuentan con Calificación Definitiva, para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda en su Capítulo Primero, para el concurso convocado mediante resolución exenta Nº 699 (V. y U.), de 2011, y sus modificaciones:
 
-2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 57.733 unidades de fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región del Maule, para el año 2012.
+2. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 56.745 unidades de fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región del Maule, para el año 2012.
+
+> **Nota.** La letra a) del Nº 1 de la Resolución 3959 Exenta, Vivienda, publicada el 24.05.2012, modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el Resuelvo 1, la fila correspondiente al proyecto "Villa Los Robles" y la fila correspondiente a "Total" de la manera que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Juan Carlos Jobet Eluchans, Ministro de Vivienda y Urbanismo Subrogante.
 
