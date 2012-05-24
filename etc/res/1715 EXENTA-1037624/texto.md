@@ -24,7 +24,9 @@ Resolución:
 
 3. A los proyectos pre-seleccionados señalados en el resuelvo anterior, no se les otorgará Certificado de Subsidio hasta que mediante resolución del Seremi respectivo se declare su calidad de proyecto seleccionado una vez obtenida la Calificación Definitiva, conforme lo establece el artículo 41 del DS N° 174 (V. y U.), de 2005.
 
-4. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 434.815 unidades de fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región del Maule, para el año 2012.
+4. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 433.647 unidades de fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región del Maule, para el año 2012.
+
+> **Nota.** NOTA La letra a) de la Resolución 1715 Exenta, Vivienda, publicada el 24.05.2012, modifica la presente norma, en el sentido de reemplazar en el cuadro inserto en el Resuelvo 2, la fila correspondiente al proyecto "Villa del Maule 2" y la fila correspondiente a "Totales(UF)", por aquellas que la citada norma indica.
 
 Anótese, comuníquese, publíquese y archívese.- Juan Carlos Jobet Eluchans, Ministro de Vivienda y Urbanismo Subrogante.
 
