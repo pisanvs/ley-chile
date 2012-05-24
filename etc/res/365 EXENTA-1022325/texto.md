@@ -102,6 +102,8 @@ El número de postulantes seleccionados en cada Región alcanzará hasta el núm
 
 10. Las condiciones dispuestas en la presente resolución podrán ser aplicables a las operaciones seleccionadas mediante el llamado efectuado por la resolución exenta Nº 2.967 (V. y U.), de 2010, siempre que éstas sean más favorables a los beneficiarios, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
 
+11. En el caso que familias con beneficio otorgado renuncien al mismo, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la adquisición de vivienda construida, del Programa Fondo Solidario de Vivienda.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli Del Río, Subsecretario de Vivienda y Urbanismo.
