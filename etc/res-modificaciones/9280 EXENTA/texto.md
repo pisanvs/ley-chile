@@ -24,6 +24,8 @@ Resolución:
 
 6. Fíjase el monto de Unidades de Fomento comprometidas, de acuerdo a lo establecido mediante la resolución exenta Nº 365 (V. y U.), de 2011, para las Regiones de Valparaíso, Libertador Bernardo O'Higgins, Maule, Biobío, Araucanía y Metropolitana correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Primero del citado reglamento, según se indica en las tablas siguientes:
 
+.
+
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
