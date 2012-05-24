@@ -6,7 +6,11 @@ Considerando: Que, el artículo 3.6.5 de las Bases de Licitación Transantiago 2
 
 Resuelvo:
 
-1. Apruébase el Sistema de Reclamos y Atención a Usuarios de Transantiago, al que deberán atenerse los concesionarios de Uso de Vías (en adelante "Concesionarios"), el que a continuación se describe:
+1. Apruébase el Sistema de Reclamos y Atención a Usuarios de Transantiago, al que deberán atenerse los operadores de los perímetros de exclusión
+
+de la provincia de Santiago y las comunas de San Bernardo
+
+y Puente Alto (en adelante "operadores de vías"), el que a continuación se describe:
 
 SISTEMA DE RECLAMOS Y SUGERENCIAS DE LOS USUARIOS DE TRANSANTIAGO
 
@@ -24,11 +28,17 @@ SISTEMA DE RECLAMOS Y SUGERENCIAS DE LOS USUARIOS DE TRANSANTIAGO
 
 1.2.1 Cuando se recibe un reclamo o sugerencia, la OIRS debe notificar al reclamante el Acuso de Recibo dentro de un plazo máximo de dos días contados desde la recepción del reclamo, por carta, correo electrónico o vía telefónica.
 
-1.2.2 La OIRS deriva la sugerencia o reclamo al concesionario respectivo, en un máximo de 5 días, siguientes a la recepción del reclamo o sugerencia, a una casilla de correo electrónico proporcionada e informada por el concesionario.
+1.2.2 La OIRS deriva la sugerencia o reclamo al operador de vías respectivo, en un máximo de 5 días, siguientes a la recepción del reclamo o sugerencia, al Portal web de la Subsecretaría de Transportes. Los operadores de vías tendrán acceso a un portal web a través de la página de la Subsecretaría de Transportes. En dicho portal podrán acceder, gestionar y responder los reclamos y sugerencias recibidos por la Oficina de Informaciones, Reclamos y Sugerencias (en adelante, OIRS), con el objetivo de que ésta a su vez responda al usuario. Los operadores de vías contarán con un código de usuario y una contraseña con la que podrán ingresar al portal. El acceso al portal web como el código de usuario y contraseña serán informados el día de la publicación en el Diario Oficial de la presente resolución a los operadores de vías por parte de la OIRS.
 
-1.2.3 El concesionario respectivo debe responder directamente a la OIRS en un plazo máximo de 10 días de recibida la comunicación señalada en el número anterior.
+La OIRS notificará los reclamos y sugerencias que correspondan a cada operador de vías enviándolas a su portal en forma automática, y una vez terminada la jornada recibirán un correo electrónico informativo con el número de requerimientos ingresados a su portal durante dicho período.
 
-1.2.4 Una vez recibida la respuesta, la OIRS tendrá un plazo máximo de 5 días para responder al usuario.
+Dentro de su portal web, el operador de vías podrá visualizar todos los reclamos y sugerencias que se le han enviado y que se encuentren dentro del plazo para responder. El portal cuenta con un buscador que desplegará una lista con los estados en los que se pueden encontrar las denuncias y, de esta forma, al seleccionar alguno de ellos, filtrará la búsqueda y sólo mostrará las denuncias en el estado seleccionado.
+
+El plazo para responder los reclamos y sugerencias será de 10 días hábiles, contados desde el día siguiente hábil de la notificación al operador de vías.
+
+Los reclamos y sugerencias que la OIRS devuelva a la concesionaria, para complementar la respuesta, también aparecerán en el portal y se responderán de la misma manera señalada con anterioridad. El plazo para complementar la respuesta, cuando corresponda, será de 3 días hábiles, contados desde el día siguiente hábil de notificado el requerimiento complementario al operador de vías.
+
+1.2.3 Una vez recibida la respuesta, la OIRS tendrá un plazo máximo de 5 días para responder al usuario.
 
 ### 2. Plazos
 
@@ -60,7 +70,7 @@ Correo electrónico:
 
 oirs
 
-2. Una vez que la presente resolución se encuentre completamente tramitada, el Ministerio deberá comunicarla a cada uno de los concesionarios de uso de vías, mediante carta certificada.
+2. Una vez que la presente resolución se encuentre completamente tramitada, el Ministerio deberá comunicarla a cada uno de los operadores de vías, mediante carta certificada
 
 Anótese, comuníquese y publíquese.- Jaime Estévez Valencia, Ministro de Transportes y Telecomunicaciones.
 
