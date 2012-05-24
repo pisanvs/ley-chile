@@ -1,0 +1,3 @@
+AUTORIZA EXCEPCIONARSE DEL RÉGIMEN DE CAMBIO SUJETO DE DERECHO DE IVA A AGRÍCOLA INPU LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio Impuestos Internos, por resolución Ex. N° 77312004771 de fecha 3 de mayo de 2012, excepciona, a contar del 1º del mes siguiente al de esta publicación, a Agrícola Inpu Limitada, RUT N° 76.027.597-2, del régimen de cambio de sujeto del Impuesto al Valor Agregado, en las ventas del ganado vivo, establecido en la resolución Ex. N° 3.721 de 28-07-2000 de la Dirección Nacional, publicada en el Diario Oficial del 01-08-2000. El peticionario excepcionado pasa a tener la calidad de retenedor del Impuesto al Valor Agregado en sus operaciones de compras de Ganado Vivo.
