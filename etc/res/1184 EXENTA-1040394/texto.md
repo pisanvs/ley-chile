@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 1.184 EXENTA, DE 2012
+
+Por resolución exenta N° 1.184, de 18 de mayo de 2012, del Ministerio de Transportes y Telecomunicaciones, considerando el término de vigencia de las condiciones de operación para la prestación de servicios de transporte público remunerado de pasajeros en las vías de la ciudad de Antofagasta, se aprueba la prórroga de las condiciones específicas de operación y utilización de vías que establece la resolución exenta Nº 3.407, de 12 de noviembre de 2010, del Ministerio de Transportes y Telecomunicaciones, y cuyos prestadores son los respectivos responsables inscritos en el Registro Nacional de Servicios de Transporte Público de Pasajeros de la Región de Antofagasta. La prórroga tendrá una vigencia de 18 meses, a contar del término de las condiciones de operación vigentes, o hasta la puesta en marcha del próximo proceso de licitación de vías de la ciudad de Antofagasta a Servicios Urbanos de Transporte Público Remunerado de Pasajeros Prestados con Buses, cualesquiera de ellos ocurra primero.
+
+Demás antecedentes y resolución íntegra pueden consultarse en www.mtt.gob.cl.
+
+Pedro Pablo Errázuriz Domínguez, Ministro de Transportes y Telecomunicaciones.
