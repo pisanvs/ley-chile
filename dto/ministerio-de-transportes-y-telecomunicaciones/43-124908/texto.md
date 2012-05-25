@@ -12,19 +12,15 @@ Y teniendo presente: Lo dispuesto en el artículo 13 Nº 21 del D.F.L. Nº 290 d
 
 D e c r e t o:
 
-1.- Establécese como recinto portuario del puerto de Coquimbo, dependiente de la Empresa Portuaria Coquimbo, las áreas marítimas y terrestres comprendidas dentro del polígono identificado por los siguientes deslindes, según se indica en el plano Nº CQQ - TC - 9801 Mod. 1, de la Empresa Portuaria Coquimbo, protocolizado con fecha 25 de mayo de 2009 bajo el número 1517 del Registro de Instrumentos Públicos de la Notaría de Coquimbo de don Mariano Torrealba Ziliani:
+1.- Establécese como recinto portuario del puerto de Coquimbo, dependiente de la Empresa Portuaria Coquimbo, las áreas marítimas y terrestres comprendidas dentro del polígono identificado por los siguientes deslindes, según se indica en el plano N° CQQ - TC - 9801 Mod. 3, de la Empresa Portuaria Coquimbo, protocolizado con fecha 3 de noviembre de 2011 bajo el número 477 del Registro de Instrumentos Públicos de la Notaría de Coquimbo de don Mariano Torrealba Ziliani:
 
-Norte: en línea recta continua, en tramo de seiscientos cuarenta y dos metros sobre la bahía de Coquimbo, puntos A-B, con orientación S82,35°E;
+Norte: En línea recta continua, en tramo de doscientos metros saliendo desde la costa (puntos A'-B'), y tramo de un mil doscientos setenta y dos metros (puntos C'-D'), ambos sobre la Bahía de Coquimbo con una orientación OE.
 
-Este: en línea quebrada continua, en tramo de ochocientos noventa y un y quinientos sesenta y seis metros sobre la bahía de Coquimbo, y quinientos setenta y nueve metros con la bahía de Coquimbo y terrenos destinados al Puerto Pesquero (puntos B-C-D-E). Los tramos sobre el mar tienen la siguiente orientación:
+Este: En línea recta continua de un mil setecientos catorce metros sobre la Bahía de Coquimbo con orientación NS (puntos D'-E'), y línea quebrada continua en tramo de quinientos sesenta y seis metros sobre la Bahía de Coquimbo con orientación S 56,7° O (puntos C-D) y tramo de quinientos setenta y nueve metros con la Bahía de Coquimbo y terrenos destinados al Puerto Pesquero (puntos D-E).
 
-Tramo B-C: S7,2°O
+Sur: En tramo recto de diez metros con terrenos fiscales (puntos E-F) y tramo recto de novecientos sesenta y ocho metros extendidos hacia el mar sobre la Bahía de Coquimbo con orientación OE (puntos E'-C), y
 
-Tramo C-D: S56,7°O
-
-Sur: en tramo recto de diez metros con terrenos fiscales (puntos E-F), y
-
-Oeste: en línea quebrada continua, en tramos de mil setecientos cuatro metros, cuarenta y un metros cincuenta centímetros y trescientos treinta y seis metros con Av. Costanera, Gobernación Marítima, calles públicas, y sobre el borde costero, con terrenos fiscales (puntos F-G-H-A).
+Oeste: En línea quebrada continua en tramos de mil setecientos cuatro metros, cuarenta y un metros cincuenta centímetros, y trescientos treinta y seis metros, con Av. Costanera, Gobernación Marítima, calles públicas y sobre el borde costero con terrenos fiscales (puntos F-G-H-A); línea quebrada continua de doscientos cinco metros, sobre el borde costero ( punto A-A' ); y línea recta paralela al borde costero en quinientos metros sobre la Bahía de Coquimbo (puntos B'-C').
 
 Anótese, tómese razón y publíquese.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Claudio Hohmann Barrientos, Ministro de Transportes y Telecomunicaciones.
 
