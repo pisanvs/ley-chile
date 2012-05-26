@@ -1,0 +1,11 @@
+APRUEBA ENMIENDA DE PLAN REGULADOR COMUNAL
+
+Núm. 854.- Chiguayante, 11 de mayo de 2012.- Vistos: Estos antecedentes: Decreto alcaldicio Nº 637, de fecha 20 de junio de 2003 y publicado en el Diario Oficial de fecha 4 de julio de 2003; modificado el año 2006, según publicación en el Diario Oficial de fecha 28 de julio de 2006; modificado en el año 2007, según publicación efectuada el día 27 de noviembre de 2007; modificado en el año 2009, según publicación en el Diario Oficial de fecha 18 de noviembre de 2009; modificado por decreto alcaldicio 179, de fecha 25 de enero de 2010, publicado en el Diario Oficial de fecha 4 de febrero de 2010; el Acuerdo Nº 45-14-2012, de fecha 3 de mayo de 2012, que aprueba texto de la enmieda del artículo 26 de la Ordenanza del Plan Regulador Comunal de la comuna de Chiguayante, y en uso de las facultades que me confiere la Ley 18.695, Orgánica Constitucional de Municipalidades.
+
+Decreto:
+
+1.- Apruébese la enmienda del Plan Regulador Comunal de Chiguayante agregándose al final del artículo 26 de la Ordenanza Local del Plan Regulador Comunal el siguiente inciso cuarto:
+
+"Los loteos con construcción simultánea de vivienda unifamiliar DFL 2 de 1959 o conjuntos de vivienda económicas colectivas en extensión acogidos o no a la Ley 19.537 de Copropiedad Inmobiliaria, que sean presentados con el objetivo de solucionar problemas habitacionales de quienes acrediten tener la calidad de afectados por sismos o catástrofes declarados por decreto supremo en el marco del artículo 1º de la ley 16.282, podrán incrementar hasta en un 20% la densidad habitacional definida, según corresponda, en las zonificaciones del presente artículo. El presente incremento se aplicará a los proyectos mencionados por un lapso de 3 años contados desde la publicación del respectivo decreto supremo que declare zona afectada por sismo o catástrofe.".
+
+Anótese, comuníquese, publíquese en el Diario Oficial, inscríbase en el Conservador de Bienes Raíces de Chiguayante y archívese.- Tomás Solís Nova, Alcalde.- Lisandro Tapia Sandoval, Secretario Municipal.
