@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.362, de 17 de mayo de 2012, de esta Subsecretaría, recházanse las solicitudes números 207103226 y 206101150, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320 de 2001, de este Ministerio.
+
+Valparaíso, 17 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
