@@ -1,0 +1,7 @@
+DELEGA FACULTAD DE OTORGAR CERTIFICADOS DE HERENCIAS Y DONACIONES
+
+Mediante resolución Ex. Nº 4.322 de 16 de mayo de 2012, de la Dirección Regional de Concepción del Servicio de Impuestos Internos, en virtud de lo dispuesto en el artículo 6 letra B) N° 7 del Código Tributario; en el artículo 20º de la Ley Orgánica del Servicio de Impuestos Internos contenida en el artículo 1º del DFL Nº 7 del Ministerio de Hacienda de 1980; en el artículo 41 de la Ley Nº 18.575 Orgánica Constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado se contiene en el decreto con fuerza de ley Nº 1-19.653, de 13 de diciembre de 2000, del Ministerio Secretaría General de la Presidencia, resolución Nº 1.600, de la Contraloría General de la República, de 30 de octubre de 2008, se dicta resolución exenta N° 90 de fecha 21.09.2004; se delega facultad de otorgar certificados de herencias y donaciones a los Jefes de Grupo N°1 de Atención y Asistencia de las Unidades de Chillán y Los Ángeles, de la VIII Dirección Regional de Concepción, según se expresa en la resolución cuyo extracto se publica.
+
+El texto íntegro de la resolución está publicado en la oficina virtual del Servicio de Impuestos Internos en internet (www.sii.cl).-
+
+Roberto Rojas Retamal, Director Regional (S).
