@@ -1,8 +1,8 @@
-DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO LAS IGLESIAS DE GUAÑACAGUA, DE PARCOHAILLA, DE TULAPALCA Y DE SAGUARA, UBICADAS EN LA COMUNA DE CAMARONES, PROVINCIA DE PARINACOTA, REGIÓN DE ARICA Y PARINACOTA
+DECLARA MONUMENTO NACIONAL EN LA CATEGORÍA DE MONUMENTO HISTÓRICO LAS IGLESIAS DE GUAÑACAGUA, DE PARCOHAILLA, DE TULAPALCA Y DE SAGUARA, UBICADAS EN LA COMUNA DE CAMARONES, PROVINCIA DE ARICA, REGIÓN DE ARICA Y PARINACOTA
 
 Núm. 3.365 exento.- Santiago, 5 de noviembre de 2008.- Considerando:
 
-Que, las Iglesias de Guañacagua, de Parcohailla, de Tulapalca y de Saguara que se ubican en la Comuna de Camarones, Provincia de Parinacota, Región de Arica y Parinacota forman parte del conjunto conocido como Iglesias del Altiplano, las que poseen un enorme valor cultural, histórico, arquitectónico y artístico y cada una de ellas tiene sus propias peculiaridades, que le otorgan un valor único.
+Que, las Iglesias de Guañacagua, de Parcohailla, de Tulapalca y de Saguara que se ubican en la Comuna de Camarones, Provincia de Arica, Región de Arica y Parinacota forman parte del conjunto conocido como Iglesias del Altiplano, las que poseen un enorme valor cultural, histórico, arquitectónico y artístico y cada una de ellas tiene sus propias peculiaridades, que le otorgan un valor único.
 
 Que, los poblados ubicados en la meseta pre- cordillerana andina entre los 2.500 y 4.000 m.s.n.m. aproximadamente y sus quebradas, son parte del territorio aymara, cuya cultura ancestral permanece viva hasta nuestros días. Las prácticas cotidianas de subsistencia, pastoreo y agricultura, se desarrollaron en un medio geográfico de condiciones extremas para la vida humana; dichos poblados se integran gracias a una rica cosmovisión, que contiene en sí misma una organización social y económica que se basa en la complementariedad.
 
@@ -70,7 +70,7 @@ Decreto:
 
 #### Artículo único
 
-Decláranse Monumento Nacional en la categoría de Monumento Histórico las Iglesias de Guañacagua, de Parcohailla, de Tulapalca y de Saguara, ubicadas en la Comuna de Camarones, Provincia de Parinacota, Región de Arica y Parinacota.
+Decláranse Monumento Nacional en la categoría de Monumento Histórico las Iglesias de Guañacagua, de Parcohailla, de Tulapalca y de Saguara, ubicadas en la Comuna de Camarones, Provincia de Arica, Región de Arica y Parinacota.
 
 Las áreas protegidas se determinan en los polígonos, que en cada caso se indican, en los planos que se adjuntan y que forman parte del correspondiente decreto.
 
