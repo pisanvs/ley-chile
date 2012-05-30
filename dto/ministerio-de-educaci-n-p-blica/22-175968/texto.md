@@ -32,15 +32,15 @@ B.- Otros documentos:
 
 2.- Copia de certificados anuales de estudios, copia de certificado de títulos, copia de certificado de equivalencia a Licencia Media o Secundaria u otras equivalencias y documentación expedida por el Departamento de Exámenes y Colegios Particulares y por Sección Títulos y Colegios Particulares: c/u 0,03 UTM
 
-2.1: Copia de certificados anuales de estudios, vía web, c/u 0.015 U.T.M.
+2.1: Copia de certificados anuales de estudios, vía web, sin costo
 
 3.- Copia de Licencia de Educación Media: c/u 0,06 UTM
 
-3.1: Copia de Licencia de Educación Media, vía web c/u 0.03 U.T.M.
+3.1: Copia de Licencia de Educación Media, vía web, sin costo
 
 4.- Concentración de Calificaciones o de notas de Educación Media: c/u 0,06 UTM
 
-4.1: Concentración de Calificaciones o Notas de Educación Media, vía web c/u, 0.03 U.T.M.
+4.1: Concentración de Calificaciones o Notas de Educación Media, vía web, sin costo
 
 5.- Documentos de propuestas públicas o privadas (por hoja): c/u 0,05 UTM
 
@@ -112,9 +112,9 @@ c/u 0,03 UTM
 
 34.- Compendio de Información Estadística del sector educación y cultura. 0,12 UTM
 
-#### Artículo 2º
+#### Artículo 2°
 
-Autorízase una vez realizada la conversión de los valores fijados en el artículo precedente, el cobro de la cantidad monetaria inmediata superior en los casos que la fracción decimal sea igual o superior a $ 0,50 (cincuenta centésimos de peso); asimismo, el cobro de la cantidad monetaria entera solamente, en los casos que la fracción decimal sea inferior a la señalada.
+Una vez realizada la conversión de los valores fijados en el artículo anterior, y para efectos de facilitar el pago de los mismos, autorízase su cobro ajustándose su valor a la centena inmediatamente inferior
 
 #### Artículo 3º
 
