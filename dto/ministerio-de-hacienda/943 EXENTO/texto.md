@@ -230,10 +230,6 @@ Destinación : Administración de Aduana Osorno
 
 3.- Elimínase del listado de vehículos autorizados en el Nº 1 del decreto exento de Hacienda Nº 912, de 2008, para transitar los días sábados en la tarde, domingos y festivos y exceptuados de llevar pintado el disco distintivo estatal, el vehículo que se individualiza en el lugar sexto.
 
-> **Nota.** La letra c) del Numeral 2, del Decreto 240 Exento, Hacienda, publicado el 30.10.2014, elimina del listado de vehículos autorizados para transitar los días sábados en la tarde, domingos y festivos y exceptuados de llevar pintado el disco distintivo estatal, a aquel indicado en el segundo lugar, del numeral 1 del decreto.
-
-> **Nota.** NOTA 1 La letra b) del numeral 3 del Decreto 111 Exento, Hacienda, publicado el 13.07.2016, elimina del listado de vehículos autorizados para transitar los días sábados en la tarde, domingos y festivos y exceptuados de llevar pintado el disco distintivo estatal, aquellos indicados en el lugar 1, 5, 9 y 11 del numeral 1 de la presente norma.
-
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Andrés Velasco Brañes, Ministro de Hacienda.- Edmundo Pérez Yoma, Ministro del Interior.
 
 Lo que transcribo a usted para su conocimiento.- Saluda atte. a usted, María Olivia Recart Herrera, Subsecretaria de Hacienda.
