@@ -380,25 +380,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (Valparaíso)
 
-27.- Vehículo . Station Wagon
-
-Marca : Hyundai
-
-Modelo : Terracan F/L 2.9 GL
-
-Año : 2006
-
-Color : Azul
-
-Nº Motor : J3 919611
-
-Chasis Nº : KMHNM81XP6U202782
-
-I.R.N.V.M. : ZX.7956-6
-
-Destinación : Servicio Nacional de Aduanas
-
-(Valparaíso)
+27.- ELIMINADO
 
 28.- Vehículo . Station Wagon
 
@@ -532,25 +514,7 @@ Destinación : Servicio Nacional de Aduanas
 
 39.- ELIMINADO
 
-40.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner 1.9
-
-Año : 2006
-
-Color : Gris aluminium
-
-Nº Motor : 10DXFZ6035505
-
-Chasis Nº : 6JO25606
-
-I.R.N.V.M. : WG.7268-1
-
-Destinación : Servicio Nacional de Aduanas
-
-(SANTIAGO)
+40.- ELIMINADO
 
 41.- Vehículo . Minibús
 
@@ -632,25 +596,7 @@ Destinación : Servicio Nacional de Aduanas
 
 (SAN ANTONIO)
 
-45.- Vehículo . Furgón
-
-Marca : Peugeot
-
-Modelo : Partner 1.9
-
-Año : 2005
-
-Color : Gris aluminium
-
-Nº Motor : 10DXFZ6000585
-
-Chasis Nº : 5JO16671
-
-I.R.N.V.M. : YS.6742-K
-
-Destinación : Servicio Nacional de Aduanas
-
-(SAN ANTONIO)
+45.- ELIMINADO
 
 46.- Vehículo . Station Wagon
 
@@ -676,25 +622,7 @@ Destinación : Servicio Nacional de Aduanas
 
 48.- ELIMINADO.
 
-49.- Vehículo : Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano DX A/A LA72
-
-Año : 2006
-
-Color : Blanco
-
-Nº Motor : QD32219969
-
-Chasis Nº : JN1CJUD22Z0743453
-
-I.R.N.V.M. : ZJ.6389-3
-
-Destinación : Servicio Nacional de Aduanas
-
-(TALCAHUANO)
+49.- ELIMINADO
 
 50.- Vehículo : Minibús
 
@@ -718,25 +646,7 @@ Destinación : Servicio Nacional de Aduanas
 
 51.- ELIMINADO
 
-52.- Vehículo . Camioneta
-
-Marca : Nissan
-
-Modelo : Terrano DX A/A L472
-
-Año : 2006
-
-Color : Plateado metálico KY
-
-Nº Motor : QD3222O326
-
-Chasis Nº : JN1CJUD22Z0743578
-
-I.R.N.V.M. : ZT.6424-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(OSORNO)
+52.- ELIMINADO
 
 53.- Vehículo . Camioneta
 
@@ -864,25 +774,7 @@ Destinación : Servicio Nacional de Aduanas
 
 61.- ELIMINADO.
 
-62.- Vehículo : Minibús
-
-Marca : Hyundai
-
-Modelo : H1 2.5
-
-Año : 2006
-
-Color : Beige
-
-Nº Motor : D4BH5-224955
-
-Chasis Nº : KMJWWH7HYP6U-714014
-
-I.R.N.V.M. : WL.3275-9
-
-Destinación : Servicio Nacional de Aduanas
-
-(PUNTA ARENAS)
+62.- ELIMINADO
 
 2.- Déjanse sin efecto los decretos supremos exentos Nº 658, de 21 de diciembre de 2001, Nº 355, de 2 de agosto de 2001, Nº 74, de 17 de marzo de 2000, y Nº 369, de 4 de noviembre de 1998, todos de este Ministerio de Hacienda.
 
