@@ -1,0 +1,11 @@
+FIJA FECHA DE PUESTA EN MARCHA DE LOS SERVICIOS PERTENECIENTES A PROCESO DE LICITACIÓN PÚBLICA DE SERVICIOS DE TAXIS COLECTIVOS EN VÍAS DE LA PROVINCIA DE SANTIAGO Y COMUNAS DE PUENTE ALTO Y SAN BERNARDO, PROCESO 2010
+
+Núm. 1.906 exenta.- Santiago, 17 de mayo de 2012.- Visto: Las Bases de Licitación de Servicios de Taxis Colectivos en Vías de la Provincia de Santiago y las Comunas de Puente Alto y San Bernardo, Proceso 2010, en especial el punto 4.8.4, aprobadas mediante resolución Nº 67, de 2009; las Modificaciones, Aclaraciones y Respuestas a las Consultas sobre las Bases de Licitación de Servicios de Taxis Colectivos en Vías de la Provincia de Santiago y las Comunas de Puente Alto y San Bernardo Proceso 2010, aprobadas mediante resolución N°154 y resolución exenta N°2329, de 2010, respectivamente, y la resolución Nº123, de 2011, que aprobó formato tipo de contrato de concesión, todas del Ministerio de Transportes y Telecomunicaciones; la resolución exenta Nº3652 de 2010 y resolución exenta N°283, de 2011, que dispusieron la adjudicación de las propuestas del proceso en referencia y la resolución Nº1, de 2012, que Modifica, Regulariza y Ratifica resoluciones exentas Nº3652, de 2010 y 283, de 2011, todas de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana; y la resolución N° 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando: Que, de conformidad con el punto 4.8.4, citado en el Visto, corresponde que esta Secretaría Regional determine la fecha de puesta en marcha de los servicios del proceso de Licitación en referencia.
+
+Resuelvo:
+
+Fíjese las 00:00 del día 1º de junio de 2012 como fecha de puesta en marcha de los servicios correspondientes al proceso de Licitación de Servicios de Taxis Colectivos en Vías de la Provincia de Santiago y las Comunas de Puente Alto y San Bernardo, Proceso 2010.
+
+Anótese y publíquese.- Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
