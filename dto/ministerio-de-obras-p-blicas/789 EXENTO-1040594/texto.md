@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento N°789, de 30 de abril de 2012, se modificó el Decreto MOP. Exento N°648, de 30 de abril de 2010, en la parte que se refiere al nombre del expropiado y rol de avalúo del lote de terreno N°63, correspondiente a la Obra "Mejoramiento Ruta O-390, Cruce Ruta 148 (Florida) – Autopista Itata", sustituyéndose por ALEJANDRO VERA MEGE, rol de avalúo 211-76 de la comuna de Florida.
+
+Fiscal del Ministerio de Obras Públicas.
