@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº778, de fecha 30 de abril de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº10, superficie 1.459 m2, rol Nº3207-39, para la obra "PROYECTO MEJORAMIENTO PASADAS URBANAS RUTA S-30-40, SECTOR TEMUCO - CARAHUE, TRAMO TEMUCO", Comuna de Temuco, IX Región. La Comisión de Peritos integrada por Yaschala Maribel Yáñez Riffo, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, fijó el valor de la tasación con fecha 6 de abril de 2011, acordándose la indemnización con su propietario PABLO AQUILES ALISTER CONTRERAS, en la cantidad de $54.103.645, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
