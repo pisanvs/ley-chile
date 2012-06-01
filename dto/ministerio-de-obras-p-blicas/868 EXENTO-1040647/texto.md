@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº868, de 7 de mayo de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. Nº3444, de 28 de octubre de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°17, expropiado con motivo de la obra "Mejoramiento Ruta 7, Sector Michimahuida - Puerto Cárdenas (Puerto Yelcho) Km. 30,50000 a Km. 45,95163". Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 20 de abril de 2010, complementada por acta de fecha 7 de julio de 2011, en la suma de $737.000.-
+
+Fiscal del Ministerio de Obras Públicas.
