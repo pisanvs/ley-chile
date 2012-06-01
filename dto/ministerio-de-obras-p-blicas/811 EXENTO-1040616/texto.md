@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº811 de 30 de abril de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº157-B2, superficie 631 m2, rol de Avalúo Nº266-87, comuna de San Javier, para la obra "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000", VII Región. La Comisión de peritos, integrada por PATRICIO DURÁN MARCOS, NELSON RAMÍREZ RAMÍREZ Y RODRIGO SILVA LAZO, fijó el valor de tasación con fecha 14 de junio de 2011, acordándose la indemnización con su propietario LUIS ALBERTO GONZÁLEZ REVECO, en la cantidad de $1.723.035.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
