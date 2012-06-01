@@ -1,0 +1,13 @@
+AMPLIACIÓN DE CONCESIÓN DE SERVICIOS SANITARIOS
+
+Por decreto número 181, del Ministerio de Obras Públicas, de fecha 5 de abril de 2012, íntegramente tramitado el 30 de abril de 2012, se concedió a la Empresa Concesionaria de Servicios Sanitarios S.A. (ECONSSA CHILE S.A.), RUT Nº 96.579.410-7, domiciliada para estos efectos en calle Monjitas número 392, piso 10, oficina 1003, Santiago, Región Metropolitana, ampliación de las concesiones de producción y distribución de agua potable y de recolección y disposición de aguas servidas para atender el área denominada "Sector O El Volcán" de la comuna de Temuco, provincia de Cautín, IX región de la Araucanía.
+
+El área comprendida en la concesión o territorio operacional de los servicios de distribución de agua potable y de recolección de aguas servidas que se otorgan se encuentra identificada y delimitada en el plano codificado con el Nº SC-09-29-G denominado "Ampliación territorio operacional de agua potable y agua servidas sector O "El Volcán" Temuco. Contenido: Sector de Ampliación "El Volcán" Territorio operacional planta general", que forma parte integrante del presente decreto. Se espera que en el primer establecimiento (2016), contar con 427 arranques de agua potable y 427 uniones domiciliarias de alcantarillado, situación que se mantendrá hacia el final del período (2026).
+
+El servicio público de producción de agua potable para el sistema del sector que se amplía por este decreto, será abastecido por las fuentes que se indican en el numeral 3.1 letra a), de la Ficha de Antecedentes Técnicos (FAT), sobre las cuales la concesionaria tiene los derechos que se individualizan en los respectivos informes de títulos, que son suficientes para satisfacer la demanda de servicio, en los términos exigidos por el art. 26 del DS MOP número 1199/04, y se encuentran afectos a la concesión. Todos los documentos indicados forman parte integrante del presente decreto.
+
+Las demás condiciones de prestación de los servicios otorgados en concesión, son las establecidas en la Ficha de Antecedentes Técnicos (FAT) Nº SC-09-29-G, que forma parte integrante del presente decreto.
+
+Programa de desarrollo, nivel tarifario, garantías y otros en decreto extractado que se redujo a escritura pública con fecha 8 de mayo de 2012, ante el Notario de la 27ª Notaría de Santiago, don Eduardo Avello Concha y archivados en la Superintendencia de Servicios Sanitarios bajo el Nº SC-09-29-G.
+
+Santiago, 14 de mayo de 2012.- David Peralta Anabalón, Superintendente de Servicios Sanitarios Subrogante.
