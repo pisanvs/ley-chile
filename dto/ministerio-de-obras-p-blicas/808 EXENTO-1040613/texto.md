@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº808, de 30 de abril de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº12, superficie 184,59 m2., Rol Nº1932-3, para la obra "HABILITACIÓN CIRCUNVALACIÓN SUR DE TALCA VII REGION DEL MAULE", comuna y Provincia de Talca, VII Región. La comisión de peritos integrada por Patricio Durán Marcos, Carlos Vega Rivera y Moisés Falcón Alvear, fijó el valor de tasación con fecha 30 de junio de 2011, acordándose la indemnización con su propietaria, MARÍA TERESA JEREZ AEDO, en la cantidad de $43.124.301.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
