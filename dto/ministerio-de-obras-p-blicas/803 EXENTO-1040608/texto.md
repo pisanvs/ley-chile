@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº803 de 30 de abril de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº30, superficie 366 m2, rol de Avalúo Nº2321-8, comuna de Temuco, para la obra "MEJORAMIENTO PASADAS URBANAS RUTA S-30-40 TEMUCO-CARAHUE, TRAMO LABRANZA". La Comisión de peritos, integrada por ENRIQUE AUGUSTO VALLETE DE LA HARPE, YASCHALA MARIBEL YÁÑEZ RIFFO Y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó el valor de tasación con fecha 20 de julio de 2011, acordándose la indemnización con su propietario BENITO TOLOZA CHÁVEZ Y OTROS, en la cantidad de $17.166.740.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
