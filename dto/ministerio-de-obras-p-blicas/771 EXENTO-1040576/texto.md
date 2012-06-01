@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº771 de 30 de abril de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 2 y 2-A, superficies 2.900 y 714 m2, rol de Avalúo Nº306-148, comuna de Melipeuco, para la obra "PROYECTO DEFINITIVO, PUENTE TRUFUL – TRUFUL, CAMINO S-61, MELIPEUCO – HUACHAPAN, SECTOR KM. 0,00000 A KM. 0,63657". La Comisión de peritos, integrada por PAULA ANDREA LAGOS CARRASCO, EVALDO ROBERTO CONTRERAS ROA Y CÉSAR NOLBERTO CAMPOS VERGARA, fijó el valor de tasación con fecha 4 de febrero de 2010, acordándose la indemnización con su propietario ROMILIO RODEMIL SANHUEZA ABARZUA, en la cantidad de $6.393.636.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
