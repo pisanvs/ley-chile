@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº801 de 30 de abril de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº15, superficie 269 m2, rol de Avalúo Nº1450-3, comuna de Puerto Varas, para la obra "REPOSICIÓN RUTA 225-CH, SECTOR ESCUELA LOS RISCOS – ENSENADA, TRAMO KM. 24,60000 A KM. 43,19047". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE Y CHRISTIAN EMÍL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 4 de mayo de 2011, acordándose la indemnización con sus propietaria KARIN NORMA ANTONIETA LUCKEHEIDE MORAWITZ, en la cantidad de $8.825.447.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
