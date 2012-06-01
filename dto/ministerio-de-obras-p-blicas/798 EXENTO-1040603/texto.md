@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº798, de 30 de abril de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº3, superficie 3.777 m2., Rol Nº641-35, para la obra "CAMINO VARIANTE EL YACAL, SECTOR PUENTE EL YACAL, TRAMO KM. 0,00613 A KM. 0,55440", comuna de Molina, Provincia de Curicó, Región del Maule. La comisión de peritos integrada por Rodrigo Silva Lazo, Iván Correa Opazo y Reinaldo Yáñez Gallego, fijó el valor de tasación con fecha 14 de septiembre de 2010, acordándose la indemnización con su propietario RAMON IGNACIO TORRES ROJAS, en la cantidad de $4.654.245.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
