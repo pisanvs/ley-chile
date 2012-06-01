@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº812, de fecha 30 de abril de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº18, superficie 650 m2, rol de avalúo 2324-13, para la obra: "MEJORAMIENTO PASADAS URBANAS RUTA S-30-40 TEMUCO-CARAHUE, TRAMO LABRANZA", comuna de Temuco, Provincia de Cautín, Región de La Araucanía. La Comisión de Peritos integrada por Enrique Augusto Vallete de la Harpe, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, fijó el valor de la tasación con fecha 20 de julio de 2011, acordándose la indemnización con su propietaria SYLVIA ELIANA CARRASCO GONZÁLEZ, en la cantidad de $71.075.743.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
