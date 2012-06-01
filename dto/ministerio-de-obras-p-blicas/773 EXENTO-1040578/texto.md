@@ -1,0 +1,3 @@
+Por Decreto MOP (E) N°773 de 30 de abril de 2012, de conformidad a lo dispuesto en el Art. 105 del D.F.L. MOP. Nº850, de 1997, se expropió el lote de terreno Nº20, para el proyecto MEJORAMIENTO PASADAS URBANAS RUTA S-30-40 TEMUCO-CARAHUE, TRAMO LABRANZA, rol de avalúo 2323-1, comuna de TEMUCO, superficie 31 m2. La comisión de peritos integrada por ENRIQUE AUGUSTO VALLETE DE LA HARPE, YÁSCHALA MARIBEL YÁÑEZ RIFFO Y MARÍA SOLEDAD NÚÑEZ ARROYO, fijó valor de tasación con fecha 20 de julio de 2011, acordándose la indemnización con su propietario LUIS HERNÁN OÑATE SÁNCHEZ, en la cantidad de $1.591.330.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
