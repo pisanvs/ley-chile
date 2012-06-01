@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº796 de 30 de abril de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº5, superficie 79 m2, rol de Avalúo Nº2593-31, comuna de Yumbel, para la obra "CONSERVACIÓN RED VIAL VIII REGIÓN AÑOS 2009-2011, SECTOR PUENTE QUINQUIHUENO", VIII Región. La Comisión de peritos, integrada por ADRIANA FASCE CASANUEVA, VALESKA CAROLINA ALÉ GOÑI Y SUSANA CONEJEROS RUDLOFF, fijó el valor de tasación con fecha 28 de octubre de 2011, acordándose la indemnización con su propietario ROBERTO ALEJANDRO CAMPOS BASCUÑAN, en la cantidad de $183.961.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
