@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº807, de fecha 30 de abril de 2012, de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº59, superficie 60 m2, rol Nº1247-164, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN - PASO HONDO, COM. YUMBEL, CABRERO", Comuna de Yumbel, Provincia y Región del Bío Bío. La comisión de peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Susana Conejeros Rudloff, fijó el valor de tasación con fecha 22 de diciembre de 2010, acordándose la indemnización con su propietario BELARMINO MENDOZA REBOLLEDO, en la cantidad de $186.324.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
