@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº777, de 30 de abril de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº52A, superficie 1.370 m2., Rol Nº2410-51 en trámite, para ta obra "MEJORAMIENTO RUTA T-35, LOS LAGOS -VALDIVIA, SECTOR ANTILHUE - VALDIVIA TRAMO 2", comuna de Valdivia, Región de Los Ríos. La comisión de peritos integrada por Sonia Catalina Gallegos Blanch, Patricio Fernando Casagrande Ulloa y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 10 de diciembre de 2010, acordándose la indemnización con su propietaria JEANNETTE ABIGAIL CATALÁN REYES, en la cantidad de $2.449.754.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
