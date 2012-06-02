@@ -54,7 +54,7 @@ Para este efecto, se entenderá por primera actuación del procedimiento cualqui
 
 #### Artículo 8º
 
-Ámbito de la defensa. El imputado tendrá derecho a ser defendido por un letrado desde la primera actuación del procedimiento dirigido en su contra.
+Ámbito de la defensa. El imputado tendrá derecho a ser defendido por un letrado desde la primera actuación del procedimiento dirigido en su contra. Todo imputado que carezca de abogado tendrá derecho irrenunciable a que el Estado le proporcione uno. La designación del abogado la efectuará el juez antes de que tenga lugar la primera actuación judicial del procedimiento que requiera la presencia de dicho imputado.
 
 El imputado tendrá derecho a formular los planteamientos y alegaciones que considerare oportunos, así como a intervenir en todas las actuaciones judiciales y en las demás actuaciones del procedimiento, salvas las excepciones expresamente previstas en este Código.
 
@@ -686,7 +686,7 @@ e) Solicitar que se active la investigación y conocer su contenido, salvo en lo
 
 f) Solicitar el sobreseimiento definitivo de la causa y recurrir contra la resolución que lo rechazare;
 
-g) Guardar silencio o, en caso de consentir en prestar declaración, a no hacerlo bajo juramento;
+g) Guardar silencio o, en caso de consentir en prestar declaración, a no hacerlo bajo juramento. Sin perjuicio de lo dispuesto en los artículos 91 y 102, al ser informado el imputado del derecho que le asiste conforme a esta letra, respecto de la primera declaración que preste ante el fiscal o la policía, según el caso, deberá señalársele lo siguiente: "Tiene derecho a guardar silencio. El ejercicio de este derecho no le ocasionará ninguna consecuencia legal adversa; sin embargo, si renuncia a él, todo lo que manifieste podrá ser usado en su contra.";
 
 h) No ser sometido a tortura ni a otros tratos crueles, inhumanos o degradantes, e
 
@@ -772,7 +772,7 @@ El imputado que fuere habido pagará las costas causadas con su rebeldía, a men
 
 #### Artículo 102
 
-Derecho a designar libremente a un defensor. Desde la primera actuación del procedimiento y hasta la completa ejecución de la sentencia que se dictare, el imputado tendrá derecho a designar libremente uno o más defensores de su confianza. Si no lo tuviere, el ministerio público solicitará que se le nombre un defensor penal público, o bien el juez procederá a hacerlo, en los términos que señale la ley respectiva. En todo caso, la designación del defensor deberá tener lugar antes de la realización de la primera audiencia a que fuere citado el imputado.
+Derecho a designar libremente a un defensor. Desde la primera actuación del procedimiento y hasta la completa ejecución de la sentencia que se dictare, el imputado tendrá derecho a designar libremente uno o más defensores de su confianza. Si no lo tuviere, el juez procederá a hacerlo, en los términos que señale la ley respectiva. En todo caso, la designación del defensor deberá tener lugar antes de la realización de la primera audiencia a que fuere citado el imputado.
 
 Si el imputado se encontrare privado de libertad, cualquier persona podrá proponer para aquél un defensor determinado, o bien solicitar se le nombre uno. Conocerá de dicha petición el juez de garantía competente o aquél correspondiente al lugar en que el imputado se encontrare.
 
