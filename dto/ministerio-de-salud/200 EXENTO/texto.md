@@ -1,0 +1,21 @@
+ESTABLECE ORDEN DE SUBROGANCIA DEL CARGO DE DIRECTOR DEL SERVICIO DE SALUD ANTOFAGASTA
+
+Núm. 200 exento.- Santiago, 28 de mayo de 2012.- Vistos: Lo dispuesto en el artículo 81º de la ley Nº 18.834, lo establecido en el artículo 9º del DS Nº 140, de 2004 del Ministerio de Salud, lo señalado en el Nº 22 del artículo 1º del DS Nº 19 de 2001 del Ministerio Secretaría General de la Presidencia de la República y teniendo presente las facultades que me confieren los artículos 24º y 32º Nºs. 8, 12 y 35 de la Constitución Política de la República de Chile.
+
+Decreto:
+
+1º.- Establécese a contar del 28 de mayo de 2012 el siguiente orden de subrogancia del cargo de Director del Servicio de Salud Antofagasta, en caso de ausencia o impedimento del titular o suplente:
+
+Primer orden de Subrogancia
+
+Sr. Enrique Bastías Nieto, RUT 12.838.828-1 Director del Hospital de Calama, Titular.
+
+Segundo orden de Subrogancia
+
+Dr. Juan Pablo Mattatall Lankin, RUT 7.358.353-6, Director del Hospital de Antofagasta, Subrogante.
+
+2º.- Declárase que el director subrogante asumirá sus funciones, en caso de ser necesario, a contar de la fecha indicada, sin esperar la total tramitación de este decreto.
+
+Anótese y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
+
+Transcribo para su conocimiento decreto exento Nº 200 de 28-05-2012.- Saluda atentamente a Ud., Jorge Díaz Anaiz, Subsecretario de Salud Pública.
