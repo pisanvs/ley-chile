@@ -1,0 +1,7 @@
+MODIFICA RESOLUTIVO 4° DE LA RESOLUCIÓN Nº 52 EXENTA, DE 2012, QUE DISPUSO EL CAMBIO DE SUJETO DEL IMPUESTO AL VALOR AGREGADO EN LAS VENTAS DE PRODUCTOS POR CATÁLOGO
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 67 del 31 de mayo de 2012, que reemplaza el párrafo segundo del Resolutivo 4° de la resolución Ex. SII Nº 52 de 5 de abril de 2012, por el siguiente:
+
+"El Director Regional o el Director de Grandes Contribuyentes, sobre la base del informe que emita el Jefe del Departamento o Unidad a cargo de la fiscalización, en relación al cumplimiento tributario y al cumplimiento de los requisitos señalados en los resolutivos 1º y 2º dictará, si procede, una resolución en la cual certificará la calidad de agente retenedor, debiendo confeccionar y entregar al interesado el respectivo extracto de la resolución que debe publicarse. El extracto de la resolución que se dicte, deberá publicarse en el Diario Oficial por cuenta del peticionario, dentro de los primeros quince días corridos de ser dictada dicha resolución, y entrará en vigencia a contar del día de su publicación. Si el contribuyente no publicare dicho extracto en el plazo establecido, el Servicio lo hará por medio de un listado, adquiriendo la calidad de agente retenedor, a partir de la fecha de publicación correspondiente.".
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de mayo de 2012.
