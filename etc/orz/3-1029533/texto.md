@@ -68,11 +68,11 @@ b) A los estudiantes universitarios, parte del valor del arancel anual de una ca
 
 c) Los estudiantes (media y superior) destacados en actividades deportivas y/o culturales, desarrollo de la disciplina que practica y gastos de estudios.
 
+d) Los postulantes con discapacidad podrán postular a la beca para financiar cursos, capacitaciones u oficios.
+
 #### Artículo 3
 
-Forma de entrega del beneficio: Los alumnos que deseen ser beneficiados deberán postular cada año al beneficio.
-
-La Beca Municipal será otorgada una vez en el año, y pagada en dos cuotas, a excepción de los alumnos de educación superior que postulen al financiamiento de examen de grado, memorias, actividades de titulación y/o matrícula, este beneficio será pagado en una sola cuota.
+Todas las becas otorgadas serán pagadas en una sola cuota, mediante cheque extendido por la Tesorería Municipal.
 
 #### Artículo 4
 
@@ -94,11 +94,13 @@ Requisitos Generales: Para acceder a la Beca Municipal todos los alumnos deberá
 
 3. Estar encuestado por la Ficha de Protección Social;
 
-4. No ser beneficiario(a) de alguna otra beca adicional de mantención, ya sea estatal o privada, (incluida Beca Presidente de la República y Beca Indígena);
+4. No estar beneficiado con las Becas Presidente de la República o Indígena:;
 
 5. Que no existan más de tres beneficiados por la presente beca en un mismo grupo familiar, en cualquier de sus niveles y/o excepciones (superior, media, personas discapacitadas, deportistas y/o artísticas);
 
-6. No tener más de 24 años para postular a la beca, con excepción de los estudiantes de educación superior que postulen a pago de título para acceder a examen de grado, que no podrán exceder de los 29 años.
+6. No existirán límites de edad para postular. No obstante, en el caso de las carreras técnicas profesionales y/o universitarias, no podrán exceder la permanencia del alumno por un periodo de tiempo equivalente a la duración de la carrera aumentada en un 50%.
+
+7. Se aceptarán postulaciones sólo de aquellos alumnos que hayan cambiado de carrera máximo una vez, durante su vida académica (Si procede).
 
 #### Artículo 6º
 
@@ -114,9 +116,9 @@ B. Estudiantes superiores
 
 1. Estar matriculado en una institución de educación superior reconocida por el Estado a través del Ministerio de Educación;
 
-2. Tener promedio de notas igual o superior a 5,0;
+2. Tener promedio de notas igual o superior a 5,0; Los postulantes que ingresen por primera vez a la universidad, deberán acreditar promedio de notas de cuarto medio igual o superior a 5,0.
 
-3. Los estudiantes que opten a la beca municipal que se encuentren egresados y requieren del beneficio para optar al pago de título, deberán presentar la documentación pertinente que acredite su condición y monto a pagar.
+3. Los estudiantes que opten a la beca municipal que se encuentren egresados y requieren del beneficio para optar al pago de título, deberán presentar la documentación pertinente que acredite su condición y monto a pagar. Los alumnos que se encuentran en trabajo de tesis, deberán presentar un certificado que acredite su condición de tesista.
 
 4. Los postulantes que permanezcan estudiando en horario vespertino serán calificarlos caso a caso por la comisión establecida para tal efecto, solicitándose los antecedentes necesarios para determinar asignación del beneficio.
 
@@ -126,7 +128,7 @@ C. Estudiantes con discapacidad
 
 2. Los estudiantes que presentan discapacidad y asistente a establecimientos educacionales tradicionales, deberán tener promedio de notas igual o superior a 6,0 para el caso de los alumnos de enseñanza media y promedio igual o superior a 5,0 para los de enseñanza superior.
 
-3. Acompañar credencial de discapacidad.
+3. Fotocopia de credencial de discapacidad, que acredite que el postulante pertenece a dicha clasificación. En el caso de no poseerla, podrá presentar por una sola vez la resolución o dictamen de Compin que indique su condición.
 
 D. Estudiantes destacados en actividades deportivas y/o culturales
 
@@ -145,6 +147,8 @@ Período de postulación: Las postulaciones se realizarán una vez en el año, a
 Para postular, deberán acudir al Departamento Social de la Dirección de Desarrollo Comunitario de la Municipalidad (DIDECO), procediendo a entregar la información y los documentos pertinentes.
 
 El resultado de la postulación no podrá exceder del último día hábil del mes de enero, notificándose a los postulantes del resultado de su postulación mediante carta certificada enviada al domicilio registrado, a más tardar 15 días después de obtenido el resultado del proceso de postulación.
+
+> **Nota.** El artículo 6º de la Ordenanza Nº 1, Municipalidad de Antofagasta , publicada el 06.06.2012, modifica la presente norma en el sentido de que la fecha de postulación a la Beca será una vez en el año, a contar del primer día hábil y hasta el último día hábil del mes de mayo de cada año.
 
 #### Artículo 8
 
@@ -204,6 +208,8 @@ Se crea una Comisión Técnica de evaluación de las solicitudes de becas, la cu
 
 El o la encargado(a) de becas municipales tendrá la función de informar, actualizar, regularizar y tramitar documentos que involucra el proceso de becas hasta la cancelación del beneficio.
 
+se establece que para el funcionamiento de la Comisión, se requerirá un quórum de mayoría simple de sus miembros.
+
 #### Artículo 11
 
 Las funciones de la Comisión de Evaluación serán:
@@ -217,6 +223,8 @@ Las funciones de la Comisión de Evaluación serán:
 . Seleccionar y determinar quiénes recibirán la beca y el monto a asignar.
 
 . Determinar la pérdida de la beca cuando la situación lo amerite.
+
+. La Facultad de determinar rango de puntaje de acuerdo a la evaluación efectuada de la Asistente Social y tabulación del sistema informático para determinar los potenciales beneficiarios cuando supere la demanda de postulación.
 
 ## Título V
 
