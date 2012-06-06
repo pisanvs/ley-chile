@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.279, de 5 de junio de 2012, se publicó extracto decreto exento Nº 521 que "ESTABLECE VEDA BIOLÓGICA PARA LOS RECURSOS ANCHOVETA Y SARDINA COMÚN EN ÁREA Y PERÍODO QUE INDICA", con el error que salva a continuación: I Cuerpo, página ocho, tercera columna: donde dice " ... Por decreto exento Nº 520, de 1 de junio de 2012, ..." debe decir "... Por decreto exento Nº 521, de 1 de junio de 2012, ... ".
