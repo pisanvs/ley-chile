@@ -1,0 +1,87 @@
+APRUEBA NORMA TÉCNICA N° 0136, NOMINADA "NORMA QUE DETERMINA LOS PRINCIPIOS ACTIVOS CONTENIDOS EN PRODUCTOS FARMACÉUTICOS QUE DEBEN DEMOSTRAR SU EQUIVALENCIA TERAPÉUTICA Y LISTA DE PRODUCTOS FARMACÉUTICOS QUE SIRVEN DE REFERENCIA DE LOS MISMOS"
+
+Núm. 500 exento.- Santiago, 1 de junio de 2012.- Visto: Lo dispuesto en el artículo 4° del Libro I del decreto con fuerza de ley N° 1 de 2005, del Ministerio de Salud, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley 2.763, de 1979, y de las leyes 18.469 y 18.933; las disposiciones del inciso 1° del artículo 221°, del decreto supremo N° 3 de 2010, también del Ministerio de Salud y mediante el cual se aprueba el Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano; lo solicitado mediante el oficio ordinario N° 1.286, de fecha 8 de mayo de 2012, por el Instituto de Salud Pública de Chile y teniendo presente las facultades concedidas en el decreto supremo N° 28, de 2009, del Ministerio de Salud, dicto el siguiente,
+
+Decreto:
+
+> **Nota.** El Artículo primero del Decreto 553 Exento, Salud, publicado el 14.09.2012, modifica la presente norma, en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica" aquellos que la citada norma indica.
+
+> **Nota.** NOTA 1 El Artículo primero letra a) del Decreto 864 Exento, Salud, publicado el 30.10.2012, modifica la presente norma, en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica" aquellos que la citada norma indica. Se otorga el plazo de un año para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica señalada en la propia norma.
+
+> **Nota.** NOTA 2 El artículo primero del Decreto 981 Exento, Salud, publicado el 28.12.2012, modifica la presente norma, de la siguiente manera:- En la letra a) ordena incorporar a la "Lista de Principios Activos contenidos en Productos Farmacéuticos que deberán realizar Estudios Comparativos de Biodisponibilidad In Vivo para demostrar Equivalencia Terapéutica, aquellos que la citada norma indica y, - En la letra b) dispone incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica", aquellos que la citada norma señala.
+
+> **Nota.** NOTA 3 El Artículo primero del Decreto 633 exento, Salud, publicado el 12.06.2013, modifica en la forma que indica el texto de la Norma Técnica Nº 136, aprobada por la presente norma.
+
+> **Nota.** NOTA 4 El artículo primero del Decreto 1067 Exento, Salud, publicado el 30.10.2013 modifica el plazo otorgado por el decreto exento Nº 864, de 24 de octubre de 2012 respecto de la exigencia de presentación de estudios efectuados de equivalencia terapéutica a productos que contengan algunos de los principios activos contenidos en la presente norma, el cronograma de exigencia esta establecido en la citada norma.
+
+> **Nota.** NOTA 5 El artículo primero del Decreto 123 Exento, Salud, publicado el 13.03.2014, modifica la presente norma, de la siguiente manera:- En la letra a) ordena incorporar a la "Lista de principios activos contenidos en productos farmacéuticos que deberán realizar estudios comparativos de biodisponibilidad in vivo para demostrar equivalencia terapéutica, aquellos que la citada norma indica; - En la letra b) dispone incorporar a la "Lista de productos de referencia para los estudios de equivalencia terapéutica", aquellos que la citada norma señala, y- En la letra c) ordena incorporar a continuación de la "Lista de productos de referencia para los estudios de equivalencia terapéutica", aquellos que la citada norma indica.
+
+> **Nota.** NOTA 6 El artículo primero del Decreto 1157 Exento, Salud, publicado el 02.12.2015, modifica presente norma en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica" que determina los principios activos contenidos en productos farmacéuticos que deben demostrar su equivalencia terapéutica y lista de productos farmacéuticos que sirven de referencia de los mismos, en la forma que la citada norma indica.
+
+> **Nota.** NOTA 7 El artículo primero del Decreto 187 Exento, Salud, publicado el 27.05.2016, modifica presente norma en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica" que determina los principios activos contenidos en productos farmacéuticos que deben demostrar su equivalencia terapéutica y lista de productos farmacéuticos que sirven de referencia de los mismos, en la forma que la citada norma indica.
+
+> **Nota.** NOTA 8 El artículo primero del decreto exento Nº 644, Salud, publicado el 13.01.2017, modifica la presente norma, en el sentido de reemplazar el plazo del 31 de diciembre de 2016, fijado por el decreto exento Nº 1.162, de 9 de diciembre de 2015, que modificó el decreto exento Nº 981/2012, respecto del Grupo C, y el decreto exento Nº 123/2014, para la demostración de bioequivalencia, por los siguientes plazos y respecto de los principios activos que se detallan en el citado decreto.
+
+> **Nota.** NOTA 9 El artículo primero del Decreto 115 Exento, Salud, publicado el 08.11.2018, modifica la presente norma, de la siguiente manera:- En la letra a) dispone incorporar a la "Lista de Principios Activos Contenidos en Productos Farmacéuticos que deberán realizar estudios comparativos de Biodisponibilidad In Vivo para demostrar equivalencia terapéutica", aquellos que la citada norma indica; - En la letra b) determina fusionar los listados nominados "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica" y "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica de Medicamentos Monodrogas de Liberación Modificada" en uno solo que se denominará "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica, y - En la letra c) ordena incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica", aquellos que la citada norma indica, otorgando plazos que deberán contarse desde la fecha de publicación del citado Decreto, con la finalidad de cumplir con la exigencia de presentación de estudios de equivalencia terapéutica ante el Instituto de Salud Pública, respecto de los productos farmacéuticos ya registrados que los contengan y se presenten en las formas farmacéuticas de liberación que en cada caso se indica.
+
+> **Nota.** NOTA 10 El artículo 1 del Decreto 127, Salud, publicado el 05.12.2018, suspende la exigencia de demostración de equivalencia terapéutica de productos farmacéuticos ante el Instituto de Salud Pública, que contengan los principios activos, según listado que indica.
+
+> **Nota.** NOTA 11 El artículo segundo del Decreto 17 Exento, Salud, publicado el 21.03.2019 modifica la presente norma. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado.
+
+> **Nota.** NOTA 12 El artículo primero del Decreto 40 Exento, Salud, publicado el 12.07.2019, modifica la presente norma. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado.
+
+> **Nota.** NOTA 13 El artículo primero del decreto 65 Exento, Salud, publicado el 29.10.2019, modifica la presente norma en el sentido de incorporar a la "Lista de Principios Activos Contenidos en Productos Farmacéuticos que deberán realizar Estudios Comparativos de Biodisponibilidad In Vivo para demostrar Equivalencia Terapéutica", los principios que la citada norma indica.
+
+> **Nota.** NOTA 14 Las letras a, b y d del artículo primero del Decreto 60 Exento, Salud, publicado el 30.09.2022, modifican la presente norma. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado.
+
+> **Nota.** NOTA 15 Las letras a) y b) del artículo primero y la letra a) del artículo segundo del Decreto 51 Exento, Salud, publicado el 03.11.2023, modifican la presente norma, en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica", los productos que la citada norma indica. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado en esta norma.
+
+> **Nota.** NOTA 16 Las letras a) y b) del artículo primero del Decreto 8 Exento, Salud, publicado el 08.02.2024, modifican la presente norma, en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica", los productos que la citada norma indica. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado en esta norma.
+
+> **Nota.** NOTA 17 La letra a) del artículo primero del Decreto 35 Exento, Salud, publicado el 16.04.2024, modifica la presente norma, en el sentido de otorgar plazo hasta el 30 de septiembre de 2025, para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica ante el Instituto de Salud Pública, para los productos farmacéuticos que contengan los "Principios Activos o Asociación" y bajo la "Forma de Liberación" que indica en tabla adjunta.
+
+> **Nota.** NOTA 18 La letra a) del artículo primero del Decreto 69 Exento, Salud, publicado el 27.11.2024, modifica la presente norma, en el sentido de otorgar plazo 24 meses, para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica ante el Instituto de Salud Pública, para los productos farmacéuticos que contengan los "Principios Activos o Asociación" y bajo la "Forma de Liberación" que indica en tabla adjunta.
+
+> **Nota.** NOTA 19 Las letras a) y b) del artículo segundo del Decreto 6 Exento, Salud, publicado el 21.02.2025, modifican la presente norma, en el sentido de incorporar a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica” y a la "Lista de Productos que sin perder su condición de Bioequivalente en Chile, podrán ser empleados como productos de referencia para los estudios de Equivalencia Terapéutica", respectivamente, los productos de referencia que la citada norma indica. Sin embargo, no es posible efectuar la actualización por cuanto las disposiciones modificadas se encuentran insertas en Anexo no publicado en esta norma.
+
+> **Nota.** NOTA 20 La letra a) del artículo primero del Decreto 48 Exento, Salud, publicado el 10.10.2025, modifica la presente norma, en el sentido de otorgar plazo hasta el 30 de septiembre de 2027, para cumplir con la exigencia de presentación de estudios de Equivalencia Terapéutica ante el Instituto de Salud Pública de Chile, para los productos farmacéuticos registrados que contengan los "Principios Activos" o "Asociaciones" y bajo la "Forma de Liberación", que se indican en tabla adjunta.
+
+> **Nota.** NOTA 21 El artículo primero del Decreto 9 Exento, Salud, publicado el 12.02.2026, modifica la presente norma de la manera siguiente: en la letra a), otorga plazo desde la fecha de publicación de la citada norma, para cumplir con la exigencia de presentación de estudios de equivalencia terapéutica ante el Instituto de Salud Pública de Chile, para los productos farmacéuticos que contengan los "Principios Activos o Asociación" y bajo la "Forma de Liberación" que se señala; en su letra b), incorpora a la "Lista de Productos de Referencia para los Estudios de Equivalencia Terapéutica", los productos de referencia indicados y, finalmente, en su letra c), agrega a la "Lista de Productos que sin perder su condición de Bioequivalente en Chile, podrán ser empleados como productos de referencia para los estudios de Equivalencia Terapéutica", cuyo detalle se indica en el citado Decreto.
+
+#### Artículo primero
+
+Ratifíquense y ténganse por aprobadas las "Listas de Principios Activos Contenidos en Productos Farmacéuticos que Deben Establecer Equivalencia Terapéutica Mediante Estudios In Vivo o In Vitro", aprobadas previamente mediante la resolución exenta N° 726, de 14 de noviembre de 2005, del Ministerio de Salud, publicada en el Diario Oficial de fecha 29 de noviembre de 2005, y sus modificaciones posteriores.
+
+#### Artículo segundo
+
+Ténganse por aprobadas las listas de productos de referencia para los estudios de equivalencia terapéutica contenidas en las resoluciones exentas N° 244 de 2011; Nos 728 y 2.920, ambas de 2009; y N° 3.225 de 2008, todas del Instituto de Salud Pública de Chile, así como la resolución exenta N° 5.555 de 2009, de la misma entidad, todas publicadas en el Diario Oficial.
+
+#### Artículo tercero
+
+Entiéndase incorporado al presente decreto y constituyente de esta norma técnica, un anexo que contiene las listas consolidadas de principios activos contenidos en productos farmacéuticos que deben establecer su equivalencia terapéutica mediante estudios in vivo o in vitro y las listas de productos farmacéuticos que servirán de referencia para los mismos.
+
+#### Artículo cuarto
+
+Los titulares de registros sanitarios de productos farmacéuticos que deberán realizar estudios comparativos de biodisponibilidad in vivo para demostrar su equivalencia terapéutica, podrán hacerlo mediante estudios "in vitro", previa solicitud al Instituto de Salud Pública, adjuntando los antecedentes científico-técnicos que permitan respaldar su ejecución y la validez de sus resultados.
+
+Otórgase el plazo de un mes, contado desde la publicación en el Diario Oficial del presente decreto, a los titulares de registros sanitarios de productos farmacéuticos, cuyos principios activos y respectivos productos de referencia han sido aludidos en el artículo tercero, para presentar ante el Instituto de Salud Pública de Chile los resultados de estudios de equivalencia terapéutica.
+
+#### Artículo Cuarto
+
+Bis: Una copia debidamente visada de esta norma técnica que se aprueba, se mantendrá en el Departamento de Políticas Farmacéuticas y Profesiones Médicas de la División de Políticas Públicas Saludables y Promoción de la Subsecretaría de Salud Pública, entidad que a su vez deberá velar por su oportuna publicación en la página web del Ministerio de Salud, www.minsal.cl, para su adecuado conocimiento y difusión, debiendo además asegurar que las copias y reproducciones que se emitan guarden estricta concordancia con el texto original aprobado.
+
+La norma técnica que se aprueba por este acto administrativo se expresa en un documento que consta de 7 páginas, incluyendo este decreto.
+
+#### Artículo 5°
+
+La obligación de demostración de equivalencia terapéutica se hará exigible a todo titular de registro sanitario de un producto farmacéutico que reúna alguna de las características descritas en el Punto 4.2. de la Norma Técnica N°131, Norma que define los criterios destinados a establecer la equivalencia terapéutica en productos farmacéuticos en Chile, aprobada mediante el decreto exento N° 27 de fecha 18 de enero de 2012, del Ministerio de Salud; y, que hayan sido registrados bajo el procedimiento de registro sanitario señalado en el numeral 1° del artículo 52° del decreto supremo N° 3 de 2010, del Ministerio de Salud que aprobó el Reglamento del Sistema Nacional de Productos Farmacéuticos de Uso Humano u otro similar que haya implicado la omisión de la presentación de antecedentes de eficacia y seguridad.
+
+Otórgase plazo hasta el 30 de septiembre de 2027, para que a todo titular de registro sanitario de un producto farmacéutico que reúna alguna de las características descritas en el Punto 4.2. de la Norma Técnica Nº 131, "Norma que define los criterios destinados a establecer la equivalencia terapéutica en productos farmacéuticos en Chile", aprobada mediante el decreto exento Nº 27, de fecha 18 de enero de 2012, del Ministerio de Salud, presente ante el Instituto de Salud Pública de Chile los antecedentes para demostrar su equivalencia terapéutica. El mismo plazo señalado precedentemente aplicará para productos farmacéuticos registrados por los principios activos o sus asociaciones que se indican en el listado incorporado más abajo, que deban cumplir con la señalada demostración y se presenten como formulaciones masticables, bucodispersables, dispersables, láminas bucodispersables o cualquier otra forma farmacéutica de administración oral, que difiera de aquella en la que se presenta el respectivo producto de referencia establecido para la realización de los estudios de equivalencia terapéutica.
+
+#### Artículo sexto
+
+La Norma Técnica que se aprueba a través del presente decreto, comenzará a regir desde la publicación del mismo en el Diario Oficial.
+
+Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Mañalich Muxi, Ministro de Salud.
+
+Transcribo para su conocimiento decreto exento N° 500 de 01-06-2012.- Saluda atentamente a Ud., Nancy Sepúlveda Velásquez, Subsecretaria de Salud Pública (S).
