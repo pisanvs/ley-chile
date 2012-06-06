@@ -14,7 +14,7 @@ Resolución:
 
 4º.- Cuando las boletas bancarias estuvieran extendidas a plazo indefinido, se aplicarán los coeficientes determinados para el último mes de la(s) tabla(s) precedente(s), según corresponda.
 
-5º.- Estos coeficientes regirán para los efectos de calcular el monto adicional correspondiente a la proyección de reajuste y/o de interés de aquellas boletas bancarias de garantía cuya emisión se practique entre el 16 de abril de 2012 y el 15 de mayo de 2012, inclusive.
+5º.- Estos coeficientes regirán para los efectos de calcular el monto adicional correspondiente a la proyección de reajuste y/o de interés de aquellas boletas bancarias de garantía cuya emisión se practique entre el 16 de mayo de 2012 y el 15 de junio de 2012, inclusive.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
