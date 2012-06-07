@@ -1,0 +1,23 @@
+DECLARA PROCEDENCIA DEL CRÉDITO FISCAL CONTENIDO EN EL ARTÍCULO 21, DEL DECRETO LEY Nº 910, DE 1975
+
+Núm. 572.- Santiago, 7 de mayo de 2012.- Vistos: Lo dispuesto en el inciso segundo del artículo 21, del decreto ley Nº 910, de 1975; lo establecido en el decreto supremo Nº 5, de 5 de abril de 1988, del Ministerio de Hacienda; lo establecido en el Nº 6, del numeral VI. "Ministerio de Hacienda", del artículo 1º, del decreto supremo Nº 19, del Ministerio Secretaría General de la Presidencia, de 22 de enero de 2001; lo informado por el Director del Servicio de Impuestos Internos mediante oficio ordinario Nº 1022, de 3 de mayo de 2012; el Informe Económico evacuado por el Ministerio de Hacienda con fecha 4 de mayo de 2012; lo que dispone el artículo 32, Nº 6, y 35, de la Constitución Política de la República; la resolución Nº 1.600, de 30 de octubre de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, la Fundación Madre Admirable, Fundación de Derecho Canónico, Rol Único Tributario Nº 65.588.670-2, pertenece al Instituto Secular de Schoenstatt Hermanas de María y está plenamente vigente, según consta en el decreto Nº 164, del 21 de junio de 2005, de conformidad a lo certificado por el Obispado de Temuco, su domicilio es calle Rancagua Nº 1659, Temuco, ha solicitado el beneficio contenido en el artículo 21, del decreto ley Nº 910, de 1975, respecto del contrato de construcción individualizado en el considerando 4 del presente decreto.
+
+2. Que, según consta del Certificado de Vigencia ya reproducido en considerando anterior y de los estatutos de dicha Fundación, cuya copia asimismo acompaña, la solicitante es una institución de beneficencia que tiene como único objeto proporcionar ayuda material exclusivamente en forma gratuita, solamente a personas de escasos recursos económicos, que de acuerdo a sus estatutos o a la naturaleza de sus actividades no realiza principalmente operaciones gravadas con el Impuesto al Valor Agregado, y el otorgamiento del beneficio solicitado no implica discriminar respecto del mismo giro de empresas que no pueden acogerse a la franquicia.
+
+3. Que, el inmueble cuya edificación se ha contratado, corresponde a la construcción del Jardín Infantil Madre Admirable, ubicado en calle Orella Nº 0439, Temuco, cuyo fin está exclusivamente dirigido al servicio gratuito de los niños vulnerables del sector de Pueblo Nuevo, en la ciudad de Temuco.
+
+4. Que, el contrato para construcción acompañado, celebrado el 13 de enero de 2012, entre la Constructora San Ignacio Limitada, RUT Nº 76.129.220-K y la Fundación Madre Admirable, RUT Nº 65.588.670-2, es un contrato general de construcción a suma alzada, de aquellos a que se refiere el artículo 21, del decreto ley Nº 910, de 1975, para el otorgamiento del beneficio que contempla dicha norma legal.
+
+Decreto:
+
+1.- La Empresa Constructora San Ignacio Limitada, RUT Nº 76.129.220-K, del giro de su denominación, Rol Único Tributario Nº 76.129.220-K, representada legalmente por don René Puig Merino, cédula nacional de identidad Nº 10.292.838-5, domiciliada en calle Rancagua Nº 1659, comuna de Temuco, podrá imputar, de acuerdo a lo dispuesto en el artículo 21, del decreto ley Nº 910, de 1975, pero sin las limitaciones en cuanto al monto del beneficio y valor del inmueble establecidas en el inciso primero de dicha norma, el 0,65 del débito del Impuesto al Valor Agregado que corresponda aplicar en el contrato general de construcción, por suma alzada, celebrado el 13 de enero de 2012, con la Fundación Madre Admirable, personalidad jurídica de la Iglesia Católica, institución de beneficencia que no persigue fines de lucro, por la cantidad de doscientos cincuenta millones doscientos cuarenta y cuatro mil doscientos veintiocho pesos ($250.244.228), más el recargo que corresponda por concepto del Impuesto al Valor Agregado, para la construcción de un jardín infantil destinado a los fines propios de la institución, esto es, la ayuda gratuita de los niños más vulnerables del sector del Pueblo Nuevo, en la ciudad de Temuco.
+
+2.- Lo dispuesto en el presente decreto regirá respecto de los pagos que se efectúen en cumplimiento del contrato señalado en el número anterior y que se encuentren gravados con el Impuesto al Valor Agregado de la Ley sobre Impuesto a las Ventas y Servicios, Título II, del decreto ley Nº 825, de 1974.
+
+Anótese, tómese razón y publíquese.- Por orden del Presidente de la República, Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Atentamente, Julio Dittborn Cordua, Subsecretario de Hacienda.
