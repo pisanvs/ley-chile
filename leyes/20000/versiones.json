@@ -23,7 +23,7 @@
   },
   {
     "fecha": "2012-06-08",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "20587",
       "idNorma": 1040829,
@@ -32,7 +32,7 @@
   },
   {
     "fecha": "2015-04-21",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "20830",
       "idNorma": 1075210,
@@ -41,7 +41,7 @@
   },
   {
     "fecha": "2023-05-23",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "21575",
       "idNorma": 1192530,
@@ -50,7 +50,7 @@
   },
   {
     "fecha": "2024-09-04",
-    "committed": false,
+    "committed": true,
     "modificadaPor": {
       "numero": "21694",
       "idNorma": 1206373,
