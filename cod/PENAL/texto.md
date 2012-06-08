@@ -368,6 +368,10 @@ ELIMINADA.
 
 Incomunicación con personas extrañas al establecimiento penal, en conformidad al Reglamento carcelario.
 
+Penas sustitutivas por vía de conversión de la multa
+
+Prestación de servicios en beneficio de la comunidad.
+
 #### Artículo 22
 
 Son penas accesorias las de suspensión e inhabilitación para cargos y oficios públicos, derechos políticos y profesiones titulares en los casos en que, no imponiéndolas especialmente la ley, ordena que otras penas las lleven consigo.
@@ -566,9 +570,61 @@ En caso de concurso o quiebra, estos créditos se graduarán, considerándose co
 
 #### Artículo 49
 
-Si el sentenciado no tuviere bienes para satisfacer la multa, sufrirá por vía de substitución o apremio la pena de reclusión, regulándose un día por cada un quinto de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
+Si el sentenciado no tuviere bienes para satisfacer la multa podrá el tribunal imponer, por vía de sustitución, la pena de prestación de servicios en beneficio de la comunidad.
 
-Queda exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave.
+Para proceder a esta sustitución se requerirá del acuerdo del condenado. En caso contrario, el tribunal impondrá, por vía de sustitución y apremio de la multa, la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
+
+No se aplicará la pena sustitutiva señalada en el inciso primero ni se hará efectivo el apremio indicado en el inciso segundo, cuando, de los antecedentes expuestos por el condenado, apareciere la imposibilidad de cumplir la pena.
+
+Queda también exento de este apremio el condenado a reclusion menor en su grado máximo o a otra pena mas grave que deba cumplir efectivamente.
+
+#### Artículo 49 bis
+
+La pena de prestación de servicios en beneficio de la comunidad consiste en la realización de actividades no remuneradas a favor de ésta o en beneficio de personas en situación de precariedad, coordinadas por un delegado de Gendarmería de Chile.
+
+El trabajo en beneficio de la comunidad será facilitado por Gendarmería, pudiendo establecer los convenios que estime pertinentes para tal fin con organismos públicos y privados sin fines de lucro.
+
+Gendarmería de Chile y sus delegados, y los organismos públicos y privados que en virtud de los convenios a que se refiere el inciso anterior intervengan en la ejecución de esta sanción, deberán velar por que no se atente contra la dignidad del penado en la ejecución de estos servicios.
+
+#### Artículo 49 ter
+
+La pena de prestación de servicios en beneficio de la comunidad se regulará en ocho horas por cada tercio de unidad tributaria mensual, sin perjuicio de la conversión establecida en leyes especiales.
+
+Su duración diaria no podrá exceder de ocho horas.
+
+En cualquier momento el condenado podrá solicitar poner término a la prestación de servicios en beneficio de la comunidad previo pago de la multa, a la que se deberán abonar las horas trabajadas.
+
+#### Artículo 49 quáter
+
+En caso de decretarse la sanción de prestación de servicios en beneficio de la comunidad, el delegado de Gendarmería de Chile responsable de gestionar el cumplimiento informará al tribunal que dictó la sentencia, quien a su vez notificará al Ministerio Público, al defensor y al condenado, el tipo de servicio, el lugar donde deba realizarse y el calendario de su ejecución, dentro de los treinta días siguientes a la fecha en que la condena se encontrare firme o ejecutoriada.
+
+#### Artículo 49
+
+quinquies.
+
+En caso de incumplimiento de la pena de servicios en beneficio de la comunidad, el delegado deberá informar al tribunal que haya impuesto la sanción.
+
+El tribunal citará a una audiencia para resolver la mantención o la revocación de la pena.
+
+#### Artículo 49
+
+sexies.
+
+El juez podrá revocar la pena de servicios en beneficio de la comunidad cuando el condenado:
+
+a) No se presentare, injustificadamente, ante Gendarmería de Chile a cumplir la pena en el plazo que determine el juez, el que no podrá ser menor a tres ni superior a siete días;
+
+b) Se ausentare del trabajo durante al menos dos jornadas laborales. Si el penado faltare al trabajo por causa justificada no se entenderá dicha ausencia como abandono de la actividad;
+
+c) Su rendimiento en la ejecución de los servicios fuere sensiblemente inferior al mínimo exigible, a pesar de los requerimientos del responsable del centro de trabajo, o
+
+d) Se opusiere o incumpliere de forma reiterada y manifiesta las instrucciones que se le dieren por el responsable del centro de trabajo.
+
+En caso de revocar la pena de servicios en beneficio de la comunidad, el tribunal impondrá al condenado, por vía de sustitución y apremio de la multa originalmente impuesta, la pena de reclusión, regulándose un día por cada tercio de unidad tributaria mensual, sin que ella pueda nunca exceder de seis meses.
+
+Habiéndose decretado la revocación se abonará al tiempo de reclusión un día por cada ocho horas efectivamente trabajadas en beneficio de la comunidad.
+
+Si el tribunal no revocare la pena de servicios en beneficio de la comunidad podrá ordenar que el cumplimiento de la misma se lleve a cabo en un lugar distinto a aquel en el cual originalmente se estaba ejecutando; todo lo anterior sin perjuicio de la facultad prevista en el inciso tercero del artículo 49.
 
 ### IV. De la aplicación de las penas
 
