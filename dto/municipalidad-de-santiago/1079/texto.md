@@ -1,0 +1,15 @@
+SUSPENDE CALENDARIO DE PAGOS A FAVOR DE LA MUNICIPALIDAD DE SANTIAGO QUE CONCESIONES SANTIAGO SOCIEDAD PARTICIPANTE S.A. DEBE CUMPLIR DE ACUERDO A CONTRATO QUE INDICA
+
+Sección 2ª número 1.079.- Santiago, 1 de junio de 2012.- Vistos: La Ley Nº19.865 de Financiamiento Urbano Compartido (Ley de FUC) y su Reglamento; Bases Administrativas y Técnicas del Llamado a Licitación Pública para el "Contrato de Participación y Concesión del Proyecto Estacionamiento Subterráneo Plaza de la Justicia de Santiago", circulares aclaratorias Nº 1, Nº 2, Nº 3, Nº 4 y Nº5; decreto Secc. 2ª Nº 2.378 de fecha 1 de julio de 2010, que adjudica la Licitación Pública; decreto Secc. 2ª Nº 3.073, que modifica el decreto de adjudicación, convenio entre Corporación Administrativa del Poder Judicial y la Ilustre Municipalidad de Santiago del 3 de octubre de 2007; Contrato de Participación y Concesión del Proyecto "Estacionamiento Subterráneo Plaza de la Justicia de Santiago" suscrito con fecha 25 de noviembre de 2010; Carta de Concesiones Santiago Sociedad Participante S.A. del 12 de abril de 2012; memorando Nº 137, del 17 de abril de 2012 y Nº 152 del 27 de abril de 2012 de la Dirección Coordinación de Área Urbana a Dirección de Asesoría Jurídica; Ord. Nº 1760, del 9 de mayo de 2012, de Asesoría Jurídica a Dirección Coordinación de Área Urbana; oficio Nº 1034, del 10 de mayo de 2012, del Sr. Alcalde a Concesiones Santiago Sociedad Participante S.A. y en ejercicio que me confiere la Ley Nº 18.695, Orgánica Constitucional de Municipalidades,
+
+Decreto:
+
+Suspéndase el calendario de pagos a favor de la Ilustre Municipalidad de Santiago, que Concesiones Santiago Sociedad Participante S.A., debe cumplir de acuerdo al "Contrato de Participación y Concesión del Proyecto Estacionamiento Subterráneo Plaza de la Justicia de Santiago", a partir de la cuota cuyo vencimiento estaba previsto para el día 25 de mayo de 2012, por la suma equivalente a 8.276 UF, hasta 60 días después de la fecha de aprobación del Proyecto por el Consejo de Monumentos Nacionales.
+
+Pasen los antecedentes a la Dirección de Asesoría Jurídica, la que deberá redactar la modificación del Contrato de Participación, según lo antes indicado.
+
+Notifíquese personalmente o por cédula, por el señor Secretario Municipal, el presente decreto a la empresa adjudicataria.
+
+Anótese y transcríbase a la Dirección de Control, Secretaría Municipal, Dirección de Asesoría Jurídica, Secretaría Comunal de Planificación, Dirección Coordinación de Área Urbana, Dirección de Obras Municipales, Dirección de Contabilidad y Finanzas, Dirección de Rentas, Inspector Técnico de Obra y pase al señor Secretario Municipal para su notificación al adjudicatario y publicación en el Diario Oficial.
+
+María Loreto Silva Rebeco, Alcaldesa (S).- Alfredo Egaña Respaldiza, Secretario Municipal.
