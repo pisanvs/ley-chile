@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A "ACE SEGUROS DE VIDA S.A."
+
+Certifico: Que por resolución exenta Nº 221, de 1 de junio de 2012, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "ACE Seguros de Vida S.A.", acordada en Junta Extraordinaria de Accionistas de 5 de abril de 2012, cuya acta consta en escritura pública de fecha 18 de abril de 2012 y escritura rectificatoria de fecha 8 de mayo de 2012, ambas otorgadas ante la Notario de Santiago, doña María Gloria Acharán Toledo, con domicilio en Matías Cousiño Nº 154, Santiago.
+
+La modificación consiste en el aumento del capital social de $2.231.889.165.-, dividido en 111.200 acciones nominativas, sin valor nominal, de una misma y única serie, íntegramente suscrito y pagado, a $5.351.898.272.- dividido en 266.649 acciones nominativas, sin valor nominal y de una misma serie, mediante la emisión de 155.449 acciones de pago, correspondiente a $3.120.009.107.-, a ser suscritas y pagadas dentro del plazo de 3 años a contar de la fecha de la junta. Se modifica el artículo quinto y primero transitorio. Demás estipulaciones en escritura extractada.
+
+Santiago, 1 de junio de 2012.- Nelson Torres Morgado, Secretario General Subrogante.
