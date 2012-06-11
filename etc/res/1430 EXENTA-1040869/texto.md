@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.430, de 29 de mayo de 2012, de esta Subsecretaría de Pesca, modifícase el numeral 4º de la resolución exenta Nº 1.393 de 2012, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los términos técnicos de referencia del proyecto denominado "Determinación de la distribución espacial de jurel entre la V y X Regiones, desde las 5 a 600 mn de la costa, año 2012" en el sentido de incorporar a la nave "Vulcano", en calidad de suplente de la nave titular "Don Alfonso", ambas de propiedad del armador Blumar S.A.
+
+Valparaíso, 29 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
