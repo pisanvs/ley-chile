@@ -1,0 +1,5 @@
+RECTIFICA EXTRACTO DE DECRETO Nº 42, DE 20 DE ENERO DE 2012
+
+Rectifícase extracto de decreto de Educación Nº 42, de fecha 20 de enero de 2012, mediante el cual se aprobó el convenio celebrado con fecha 9 de diciembre de 2011 entre el Ministerio de Educación y la Universidad Tecnológica Metropolitana, en virtud del cual y de conformidad con lo dispuesto en el DL Nº3.166, de 1980, y su Reglamento fijado por DL Nº 5.077, del mismo año, el Ministerio entrega a la señalada universidad la administración delegada del "Liceo Industrial Superior de Chillán" (ex A-11), en el sentido que éste es el nombre del establecimiento educacional y no "Liceo Industrial San Agustín de Puñual" como erróneamente se consigna en dicho extracto.
+
+Santiago, 1 de junio de 2012.- Fernando Rojas Ochagavía, Subsecretario de Educación.
