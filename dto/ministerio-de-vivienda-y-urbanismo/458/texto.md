@@ -908,7 +908,7 @@ DEROGADO
 
 ## Capítulo II
 
-De la ejecución de obras de urbanización y de edificación
+De la ejecución de obras de urbanización, edificación e instalaciones complementarias
 
 ### Párrafo 1° — .- De los permisos
 
@@ -993,6 +993,142 @@ Las solicitudes de modificaciones de cauces naturales o artificiales a que se re
 Durante el plazo establecido en el inciso séptimo del presente artículo, las regularizaciones y ampliaciones de viviendas sociales, cuyo valor de tasación de la vivienda no sea superior a 520 unidades de fomento, calculado conforme a la tabla de costos unitarios por metro cuadrado de construcción del Ministerio de Vivienda y Urbanismo, estarán exentas del pago de derechos municipales a que se refiere el artículo 130 de esta ley.
 
 El Ministro de Vivienda y Urbanismo, mediante resolución, podrá asignar a un proyecto de construcción específico la calificación de "proyecto de interés público". Se entenderá que dichos proyectos forman parte de las nuevas construcciones a que se refiere el inciso primero del presente artículo.
+
+#### Artículo 116 bis
+
+E.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones podrán instalarse en áreas urbanas y rurales, debiendo en ambos casos sujetarse a lo dispuesto en este artículo y en los artículos 116 bis F, 116 bis G, 116 bis H y 116 bis I de esta ley, según sea el caso.
+
+Para estos efectos, se entenderá que las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones corresponden al conjunto específico de elementos soportantes de una antena y sistema radiante de transmisión de telecomunicaciones. Por su parte, la antena y sistema radiante de transmisión de telecomunicaciones corresponde a aquel dispositivo a que se refiere el artículo 19 bis de la Ley General de Telecomunicaciones.
+
+Tratándose de los permisos de instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se soliciten en áreas de riesgo, además de cumplir con los requisitos que se indican en esta ley, se deberá acompañar a la respectiva solicitud un estudio fundado, elaborado por un profesional especialista y validado por el organismo competente, que determine las acciones que deberán ejecutarse para la adecuada utilización de las mismas, conforme a lo dispuesto en la Ordenanza General de esta ley. Tales acciones deberán estar materializadas antes de la recepción de la torre por parte de la Dirección de Obras de la municipalidad respectiva y, en todo caso, dentro del plazo de 12 meses contado desde la fecha de la solicitud del permiso o del aviso de instalación, cuando correspondiere.
+
+Tratándose de áreas de protección, la instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones será autorizada debiendo darse siempre cumplimiento a lo establecido en la ley Nº 19.300, en los casos que así corresponda. En caso de zonas declaradas de interés turístico conforme al Nº 7) del artículo 8º de la ley Nº 20.423 se aplicará el régimen establecido en los artículos siguientes, según corresponda.
+
+No podrán instalarse antenas y sistemas radiantes de transmisión de telecomunicaciones en aquellas zonas urbanas saturadas de sistemas radiantes de telecomunicaciones conforme al artículo 7º de la Ley General de Telecomunicaciones, mientras dicha calificación se encuentre vigente.
+
+Tampoco podrán emplazarse torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones dentro de establecimientos educacionales públicos o privados, salas cuna, jardines infantiles, hospitales, clínicas o consultorios, predios urbanos donde existan torres de alta tensión, ni hogares de ancianos u otras áreas sensibles de protección así definidas por la Subsecretaría de Telecomunicaciones, ni en sitios ubicados a una distancia menor a cuatro veces la altura de la torre de los deslindes de estos establecimientos, con un mínimo de 50 metros de distancia, salvo que se trate de aquellas torres soportes de antenas y sistemas radiantes de transmisión de telecomunicaciones a que se refieren los artículos 116 bis G y 116 bis H de esta ley o sean requeridas por dichos establecimientos para sus fines propios.
+
+Para los efectos de lo dispuesto en los artículos siguientes, la altura de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones se medirá desde el suelo natural, salvo que se instalen sobre edificios de más de 5 pisos.
+
+Lo dispuesto en este artículo no será exigible para las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de los servicios de aficionados a las telecomunicaciones ni al cuerpo de bomberos u organismos que presten servicios de utilidad pública respecto de estas mismas torres instaladas en virtud de una concesión de servicios limitados de telecomunicaciones. Las torres soporte de antenas y sistemas radiantes instaladas en aplicación de la presente norma no podrán compartir su infraestructura con otros concesionarios salvo que reúnan los mismos requisitos establecidos en ésta.
+
+#### Artículo 116 bis
+
+F.- Toda torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de doce metros de altura, incluidos en ello sus antenas y sistemas radiantes, instalada por concesionarios, requerirá permiso de instalación de la Dirección de Obras Municipales respectiva.
+
+Con todo, las municipalidades deberán determinar mediante ordenanza dictada conforme con el artículo 65 letra k) de la ley Nº 18.695, las zonas de los bienes municipales o nacionales de uso público que administran, donde preferentemente se tendrá derecho de uso para el emplazamiento de torres soporte de antenas de más de doce metros. Dicha ordenanza establecerá las tarifas que la municipalidad respectiva podrá cobrar por el mencionado derecho de uso. Lo anterior, sin perjuicio del pago de los derechos que las municipalidades cobren en el ejercicio de sus atribuciones conforme al artículo 130 de la presente ley.
+
+La instalación de tales torres en las zonas preferentes se regirá por la presente disposición con la salvedad que en estos casos no será necesaria la autorización municipal a que se refiere la letra a) de este artículo.
+
+Las instalaciones a que se refiere el presente artículo deberán cumplir con lo dispuesto en el artículo 116 bis E, con los distanciamientos establecidos en la Ordenanza General de la presente ley y, en caso de emplazarse en áreas urbanas, les será aplicable, adicionalmente, el régimen de rasantes que establezca el plan regulador respectivo, o en su defecto la Ordenanza General de esta ley.
+
+Quedarán exentas del cumplimiento de las normas sobre distanciamientos a que se refiere el inciso anterior aquellas instalaciones de estructuras que, con el solo objetivo de colocalizar una nueva antena o sistema radiante de otro operador, deban modificar su altura. Para tales efectos, dichas instalaciones podrán sobrepasar las rasantes, siempre que dicha modificación no supere el treinta por ciento de la altura total de la torre soporte original.
+
+A la solicitud de permiso de instalación a que se refiere este artículo se deberán acompañar los siguientes antecedentes:
+
+a) Solicitud de instalación, suscrita por el propietario o propietarios del inmueble donde se efectuará la instalación y por el concesionario responsable de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones. En caso de que el permiso se solicite para la instalación de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones en bienes nacionales de uso público o en bienes fiscales administrados por municipalidades, será necesario además de la solicitud por parte del operador, de autorización de la Municipalidad respectiva.
+
+b) Proyecto firmado por un profesional competente en el que se incluyan los planos de la instalación de la torre, los cuales deberán graficar el cumplimiento de los distanciamientos mínimos y las rasantes a que se refiere este artículo. Dicho plano deberá ser firmado por el propietario o copropietarios del inmueble donde se efectuará la instalación y por el concesionario responsable de la misma o su representante legal. Asimismo, el proyecto deberá acompañar una memoria explicativa que indique las medidas de diseño y construcción adoptadas para armonizar la estructura con el entorno urbano y con la arquitectura del lugar donde se emplazan. Tal memoria explicativa no será requerida cuando el diseño de la torre se encuentre entre aquellos incluidos en el catálogo o nómina que al efecto haya dictado el Ministerio de Vivienda y Urbanismo, previo informe de la Subsecretaría de Telecomunicaciones, la que podrá considerar las características urbanas y naturales de las distintas regiones del país.
+
+c) Presupuesto del costo total del proyecto, considerando, entre otros, estructuras, sistemas radiantes de transmisión de telecomunicaciones, equipos, sala de equipos, sistemas anexos y rentas por arriendos.
+
+d) Proyecto de cálculo estructural de la torre, incluidas sus fundaciones, con su respectiva memoria de cálculo y planos de estructura, que señale la capacidad de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, elaborado y suscrito por un profesional competente. El proyecto deberá acreditar que la capacidad de soporte antes señalada permitirá la colocalización de antenas y sistemas radiantes de transmisión de telecomunicaciones de, a lo menos, otro concesionario en las mismas condiciones si la infraestructura fuera menor de 30 metros o tres cuando se trate de estructuras de más de 30 metros.
+
+e) Certificado emitido por Correos de Chile, que acredite la comunicación por carta certificada, enviada con una antelación de al menos treinta días a la presentación de la solicitud, a la junta de vecinos respectiva y a los propietarios de todos los inmuebles que se encuentren comprendidos total o parcialmente en el área ubicada al interior de la circunferencia que tiene por centro el eje vertical de la torre y un radio equivalente a dos veces la altura de la misma, incluidas sus antenas y sistemas radiantes. Los inmuebles que se encuentren en la situación antes descrita deberán singularizarse en un plano autorizado ante Notario.
+
+La comunicación deberá incluir el proyecto de instalación de la torre soporte de antenas y sistemas radiantes, indicando la ubicación exacta de la instalación y su altura, así como la propuesta del diseño a adoptar para minimizar el impacto urbanístico y arquitectónico de la torre sobre el entorno en que se emplazará y una reseña de la propuesta de obra u obras de mejoramiento del espacio público a que se refiere la letra f) de este artículo, indicando alternativas priorizadas para el caso que no exista pronunciamiento de los propietarios a que se refiere este literal. Esta comunicación no será necesaria para el inmueble en que se instale la torre. Para los efectos de lo dispuesto en este párrafo, se entenderá cumplida la obligación de comunicación al propietario del inmueble por el solo hecho de haberse remitido la referida carta certificada al propietario registrado en el Servicio de Impuestos Internos para efectos del impuesto territorial.
+
+Los mismos antecedentes incluidos en la comunicación a que hace referencia el párrafo anterior deberán ser puestos en conocimiento de la comunidad por medio de una inserción publicada en un periódico de la capital de la provincia o región con una anticipación de, a lo menos, 15 días a la presentación de la solicitud.
+
+El incumplimiento de lo dispuesto en los párrafos anteriores acarreará la denegación del permiso de instalación o quedará sin efecto de pleno derecho, si es que se hubiese otorgado.
+
+Los propietarios que se encuentren dentro del área descrita en esta letra podrán formular a través de la respectiva Dirección de Obras al Concejo Municipal, por escrito, y previo informe de la junta de vecinos respectiva, las observaciones que estimen convenientes acerca del proyecto de instalación de la torre hasta treinta días corridos después de practicada la comunicación respectiva, debiendo optar sea por una obra de compensación o por una torre armonizada con el entorno urbano y la arquitectura del lugar donde se emplaza, para lo cual se requerirá de la mayoría simple de los propietarios a que hace referencia el primer párrafo de esta letra. Dentro del mismo plazo dicha mayoría conforme a la opción realizada podrá proponer sea obras de mejoramiento del espacio público alternativas a las propuestas por el solicitante, hasta por el monto equivalente al porcentaje a que se refiere la letra f) del presente artículo, o diseños de torres alternativos a los propuestos por el solicitante, que cumplan con el objetivo de minimizar el impacto urbanístico y arquitectónico de la torre sobre el entorno en que se emplazará, siempre y cuando estos diseños se encuentren dentro de la nómina a que se refiere la letra b) de este artículo. Si los propietarios no se pronunciaren sobre la opción a que se refiere el presente literal o no formularen observaciones conforme al procedimiento y dentro de los plazos establecidos en el presente artículo, la Dirección de Obras tendrá por aprobada la obra de mejoramiento o el diseño de torre propuesto por el interesado, de acuerdo a la priorización realizada.
+
+Además, los propietarios que se encuentren dentro del área descrita en esta letra podrán oponerse a la instalación de la torre soporte de antenas y sistemas radiantes, por razones técnicas, en conformidad al artículo 15 de la ley Nº 18.168, General de Telecomunicaciones. El plazo para ejercer tal oposición será de 30 días y se contará desde la fecha en que se haya verificado la publicación a que se refiere el párrafo tercero de esta letra e). Esta comunicación deberá realizarse conjuntamente con la publicación del extracto a que se refiere el inciso tercero del mismo artículo 15. Para los efectos previstos en el presente inciso no será obligatorio fijar domicilio en la comuna de Santiago y las notificaciones que correspondan podrán realizarse por carta certificada o correo electrónico.
+
+El Concejo Municipal deberá pronunciarse exclusivamente sobre la respectiva propuesta de obra de compensación o la modificación del diseño de la torre, conforme a las observaciones que haya recibido de los propietarios, a través de la Dirección de Obras, aprobando la propuesta del solicitante o de los propietarios, para lo cual deberá adoptar los acuerdos pertinentes, todo dentro de un plazo de veinte días corridos contado desde el vencimiento del término para formular tales observaciones. Los acuerdos adoptados por el Concejo en esta materia deberán ser certificados por el Secretario Municipal y remitidos a la respectiva Dirección de Obras. Vencido el plazo de que dispone para ello, sin que exista pronunciamiento del Concejo Municipal, se tendrán por rechazadas tales observaciones y por aprobada la obra de mejoramiento o el diseño de torre propuesto por el interesado, o el o la primera de la lista si la propuesta acompañada comprendiera más de una. Para efectos de lo dispuesto en este párrafo, el Concejo, una vez al año, deberá elaborar un listado que indique los tipos de obras de mejoramiento que serán susceptibles de financiamiento por parte de los interesados.
+
+f) Propuesta escrita de obra u obras de mejoramiento del espacio público ubicado al interior de la circunferencia que tiene por centro el eje vertical de la torre hasta un radio de doscientos cincuenta metros a la redonda del lugar donde se emplazará la misma. La propuesta deberá referirse a obras relacionadas con la implementación o habilitación de servicios de telecomunicaciones, el mejoramiento de áreas verdes, pavimentos, ciclovías, luminarias, ornato u otras, por un monto equivalente al treinta por ciento del costo total de la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, tomando como referencia el presupuesto a que se refiere la letra c) de este artículo. Las obras de mejoramiento mencionadas precedentemente deberán encontrarse terminadas dentro del plazo de un año contado desde la fecha en que se otorgue el respectivo permiso de instalación de la torre. Este plazo podrá prorrogarse por una sola vez, y por un máximo de seis meses, por motivos de fuerza mayor o caso fortuito debidamente acreditados ante la Dirección de Obras Municipales, debiendo en este caso renovarse la garantía a que se refiere el párrafo siguiente. En caso de que la propuesta aprobada por el Concejo Municipal consista en la prestación de servicios de telecomunicaciones, tales servicios deberán ser otorgados en forma permanente mientras se encuentre instalada la torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones correspondiente.
+
+Para garantizar el fiel cumplimiento de las obras de mejoramiento del espacio público a que se refiere esta letra, el solicitante deberá rendir una caución a favor de la Municipalidad respectiva, la cual podrá consistir indistintamente en una boleta bancaria o póliza de seguro por el monto de la obra de que se trate. La garantía debe otorgarse por el plazo de ejecución de la obra. Las instituciones bancarias o aseguradoras que hubieren emitido el respectivo documento de garantía pagarán los valores garantizados con el solo mérito del certificado que otorgue el Director de Obras Municipales, en el sentido de que las obras no se han ejecutado y que el plazo correspondiente se encuentra vencido. En este último caso, dichos valores deberán igualmente destinarse a las obras de mejoramiento anteriormente mencionadas.
+
+g) Certificado de la Dirección General de Aeronáutica Civil que acredite que la altura total de la torre que se pretende emplazar, incluidas sus antenas y sistemas radiantes, no constituyen peligro para la navegación aérea. Estos antecedentes de ubicación geográfica deben coincidir con los del certificado a que se refieren la letra h) y siguientes.
+
+h) Certificado de la Subsecretaría de Telecomunicaciones que acredite el hecho de haber sido presentada una solicitud de otorgamiento o modificación de concesión de un servicio de telecomunicaciones, cuyo proyecto técnico establezca que los sistemas y equipos respectivos se emplazarán en la torre cuyo permiso de instalación se solicita. En caso que el permiso sea solicitado por un concesionario de servicios intermedios de telecomunicaciones que provea de estos servicios de infraestructura sólo se requerirá que sea presentada una copia del decreto en virtud del cual se le otorgó su concesión o una certificación efectuada por la Subsecretaría de encontrarse en tramitación el otorgamiento de la respectiva concesión.
+
+i) Certificado de línea oficial e informaciones previas.
+
+En caso de que la solicitud establecida en este artículo involucre torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones comprendidas dentro del catálogo a que se refiere la letra
+
+- **b)** del presente artículo, la solicitud de permiso sólo deberá cumplir con los requisitos establecidos en las letras a), b), salvo memoria explicativa, d), salvo en lo relativo a la obligación de colocalización,
+
+- **e)** y
+
+- **f)** sólo en cuanto a la comunicación para efectos de la opción a que se refiere el primer literal,
+
+- **g)** y
+
+- **h)** anteriores. A este mismo régimen estarán sometidas aquellas torres soporte de antenas y sistemas radiantes financiadas por la respectiva concesionaria que constituyan una contribución a la arquitectura y al entorno urbano por tratarse de un objeto de arte para la ciudad certificado por un Comité de Expertos convocado por el Consejo Nacional de la Cultura y las Artes integrado por dos miembros del Colegio de Arquitectos designados por éste, dos artistas de reconocida trayectoria en el ámbito artístico pertinente nombrados por el Consejo y un representante de este último organismo nominado por su Presidente, quien tendrá voto dirimente.
+
+Las torres que estén instaladas y las que se pretenda emplazar en zonas declaradas de interés turístico a que se refiere el Nº 7) del artículo 8º de la ley Nº 20.423 deberán reunir las condiciones de diseño y construcción establecidas en la letra
+
+- **b)** del presente artículo o estar comprendidas en el catálogo a que se refiere el mismo literal. Asimismo, en caso de tratarse de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se instalen en reemplazo de otras torres, de acuerdo a lo establecido en el artículo 19 bis de la Ley General de Telecomunicaciones, deberán cumplir con los requisitos establecidos en las letras a),
+
+- **b)** con excepción de la memoria explicativa, d), g), y
+
+- **h)** del presente artículo. En tanto, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones que se intervengan o emplacen en reemplazo de otras torres, con el propósito de realizar un objeto de arte urbano certificado por la misma instancia señalada en el inciso anterior sólo requerirán de aviso de instalación, siempre que su modificación no supere el treinta por ciento de la altura total de la torre soporte original.
+
+La Dirección de Obras Municipales respectiva, dentro del plazo máximo de quince días hábiles contado de acuerdo a lo establecido en la letra e) precedente, otorgará el permiso si, de acuerdo a los antecedentes acompañados, la solicitud de instalación de la torre cumple con las disposiciones establecidas en esta ley, previo pago de los derechos municipales correspondientes a las Obras Provisorias conforme al Nº 3 de la tabla contenida en el artículo 130 de la Ley General de Urbanismo y Construcciones, o se pronunciará denegándolo. Si cumplido dicho plazo no hubiere pronunciamiento por escrito sobre el permiso, el interesado podrá pedir en forma expresa que se pronuncie otorgando o rechazando el permiso dentro de los dos días hábiles siguientes contados desde el requerimiento. De persistir el silencio se entenderá por ese solo hecho otorgado el permiso por la Dirección de Obras Municipales. Si el permiso fuere denegado los interesados podrán reclamar ante la Secretaría Regional Ministerial correspondiente del Ministerio de Vivienda y Urbanismo, aplicándose para tales efectos lo dispuesto en el inciso cuarto del artículo 118.
+
+El permiso de instalación se otorgará al concesionario de servicios públicos e intermedios de telecomunicaciones. Identificará claramente al beneficiario; la localización de las instalaciones autorizadas, y no podrá tener un plazo inferior al que le reste al interesado para completar el plazo de su concesión. Los costos relacionados con el retiro de las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, una vez expirados los plazos de los permisos, serán de cargo de cada operador, sin perjuicio de lo dispuesto en el inciso segundo del artículo 124, en lo que fuere pertinente.
+
+El Director de Obras, una vez instalada la torre, deberá verificar que la instalación se ejecutó conforme al permiso otorgado y procederá a efectuar la recepción, si fuere procedente.
+
+Los propietarios de los inmuebles emplazados en el radio a que se refiere la letra e) del presente artículo que fueren contribuyentes de impuesto territorial podrán solicitar una retasación del avalúo fiscal de sus propiedades para obtener una disminución de contribuciones, salvo que la instalación de la torre soporte de antenas o un sistema radiante que constituye el factor que disminuye considerablemente el valor de la propiedad le sea imputable al propietario u ocupante. Lo anterior, de acuerdo al artículo 10, letra e), de la ley Nº 17.235 sobre Impuesto Territorial.
+
+#### Artículo 116 bis
+
+G.- Toda torre soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de tres y hasta doce metros de altura, incluidos en ellos sus antenas y sistemas radiantes, que reúnan las condiciones de diseño y construcción previstas en la letra b) del precepto anterior, requerirá permiso de instalación del Director de Obras Municipales conforme a lo dispuesto en este artículo.
+
+Las instalaciones a que se refiere el inciso anterior deberán cumplir con las normas dispuestas en el artículo 116 bis E y con los distanciamientos establecidos en la Ordenanza General de esta ley. La correspondiente solicitud de permiso de instalación, deberá estar acompañada de los antecedentes señalados en las letras a), b),
+
+- **h)** e
+
+- **i)** del artículo 116 bis F de la presente ley. Además, el solicitante deberá presentar un comprobante de correos que acredite haberse enviado con una antelación no menor a 15 días una comunicación a los propietarios a que se refiere la letra
+
+- **e)** del artículo 116 bis F que informe a éstos de su solicitud y en particular de las características de la torre a instalar y su diseño. La mayoría simple de los propietarios podrá solicitar a la Dirección de Obras, dentro del plazo de 15 días, un diseño alternativo para la torre, siempre que éste se encontrare en la nómina a que se refiere la letra
+
+- **b)** del artículo 116 bis F, la que en definitiva resolverá.
+
+La Dirección de Obras Municipales respectiva deberá pronunciarse en la misma forma y dentro del mismo plazo señalado en el artículo 116 bis F, con la excepción de que en estos casos no se podrá denegar el permiso, aun cuando la torre se emplace en un territorio saturado de instalación de estructuras de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones. Si no hubiere pronunciamiento por escrito del permiso dentro del plazo para dicho efecto o éste fuere denegado, se aplicará lo dispuesto en el referido artículo.
+
+El permiso de instalación de soporte de antenas y sistemas radiantes se otorgará al concesionario de servicios públicos e intermedios de telecomunicaciones. Identificará claramente al beneficiario; la localización de las instalaciones autorizadas, y no podrá tener un plazo inferior al que le reste al interesado para completar el plazo de su concesión.
+
+El Director de Obras, una vez instalada la torre, deberá verificar que la instalación se ejecutó conforme al permiso otorgado y procederá a efectuar la recepción, si fuere procedente.
+
+Aquellas torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de más de tres y hasta doce metros que no reúnan las condiciones descritas en el inciso primero del presente precepto deberán sujetarse íntegramente a lo dispuesto en el artículo anterior.
+
+Tanto a las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones a que se refiere este artículo, que se adosen o adhieran a una edificación preexistente, como a los postes de alumbrado público o eléctrico, elementos publicitarios, señalética o mobiliario urbano en cualquier altura, no les será exigible el permiso que se contempla en el inciso primero del presente artículo, debiendo cumplir sólo con el aviso de instalación establecido en el artículo 116 bis H. Dichas estructuras deberán cumplir condiciones de armonización con el entorno urbano y la arquitectura del lugar donde se adhieran o adosen.
+
+Sin perjuicio de lo antes señalado, las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de hasta 18 metros que cumplan con las condiciones de armonización con la arquitectura y el entorno urbano y diseñadas para colocalizar antenas y sistemas radiantes de terceros concesionarios que provean a la comunidad servicio telefónico móvil o de transmisión de datos, se regirán por lo dispuesto en el presente artículo, debiendo acompañar, además de los antecedentes señalados en dicho artículo, los dispuestos en la letra d) del artículo anterior y el acuerdo de colocalización respectivo.
+
+#### Artículo 116 bis
+
+H.- Las torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones de tres o menos metros de altura, incluidos en ellos sus antenas y sistemas radiantes, requerirán de aviso de instalación a la Dirección de Obras Municipales conforme a los requisitos establecidos en la Ordenanza General de esta ley.
+
+Al mismo aviso estará sujeta la instalación de aquellas estructuras porta antenas que se levanten sobre edificios de más de cinco pisos y aquellas que se pretenda instalar en zonas rurales, cualquiera fuese su tamaño.
+
+La instalación de antenas y sistemas radiantes en una torre ya construida producto de la autorización para colocalizar otorgada por el concesionario en virtud de lo dispuesto en el artículo 116 bis F no requerirá permiso o aviso alguno de la Dirección de Obras Municipales respectiva.
+
+#### Artículo 116 bis
+
+I.- Se entenderá que un territorio urbano se encuentra saturado de instalación de estructuras de torres soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones cuando un concesionario pretenda instalar una torre nueva dentro del radio de cien metros a la redonda donde ya existieren dos o más torres de doce metros o más, medido éste desde el eje vertical de cualquiera de las torres preexistentes. En este caso, el solicitante deberá proceder conforme a los incisos siguientes. La declaración de territorio saturado a que se refiere este inciso se efectuará por la Subsecretaría de Telecomunicaciones, teniendo como antecedente las estructuras existentes en el respectivo territorio, al momento de emitir un pronunciamiento conforme al artículo 19 bis de la Ley General de Telecomunicaciones o durante la tramitación de una solicitud de concesión o su modificación.
+
+En caso que por declaración de un territorio urbano, como saturado de instalación de estructuras de soporte de antenas y sistemas radiantes de transmisión de telecomunicaciones, se deba instalar una o más antenas o sistemas radiantes de transmisión de telecomunicaciones en condiciones de colocalización se requerirá aviso de instalación el que deberá acompañar el acuerdo o autorización de colocalización del propietario de la respectiva torre o copia de la resolución favorable de la Subsecretaría de Telecomunicaciones al concesionario requerido, o del laudo arbitral, según corresponda, conforme a lo dispuesto en el artículo 19 bis de la ley Nº 18.168, General de Telecomunicaciones.
+
+Sólo cuando conforme al artículo 19 bis de la Ley General de Telecomunicaciones la Subsecretaría hubiere determinado que la negativa a la colocalización es fundada por parte del concesionario requerido, se podrán instalar de manera excepcional torres soporte de antenas de más de doce metros en estos territorios, siempre que reúnan las condiciones de armonización con el entorno urbano o la arquitectura del lugar donde se emplaza, y conforme al procedimiento y requisitos señalados en los artículos anteriores.
+
+Este régimen también será aplicable a la franja de 500 metros contigua al límite entre una zona urbana y rural determinado en el instrumento de planificación territorial que corresponda.
 
 #### Artículo 117
 
@@ -1145,6 +1281,20 @@ línea, recepción, venta
 por pisos, etc. - - - - - - 1 cuota de ahorro
 
 para vivienda.
+
+10. Permiso de instalación
+
+de torre soporte de antenas
+
+y sistemas radiantes
+
+de transmisión de
+
+telecomunicaciones ----
+
+5% del presupuesto
+
+de la instalación.
 
 =======================================================
 
