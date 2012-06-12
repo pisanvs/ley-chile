@@ -10,7 +10,9 @@ Apruébanse las siguientes normas para la realización del Curso de Capacitació
 
 #### Artículo 1
 
-Los titulares de licencias de conductor clase A-1 o A-2 obtenidas con anterioridad al 8 de marzo de 1997, vigentes al 20 de enero de 2001, podrán optar a licencia de conductor profesional clase A-3 o A-5, respectivamente, previa acreditación con el certificado correspondiente, de haber aprobado el curso de capacitación a que se refiere el presente reglamento, cumpliendo, en todo caso, con los demás requisitos legales y reglamentarios.
+Los titulares de licencias de conductor Clase A-1, otorgadas con anterioridad al 8 de marzo de 1997, vigentes al 23 de junio de 2011, podrán optar a la licencia de conductor profesional Clase A-3. Asimismo, los titulares de licencias de conductor Clase A-2, obtenida con anterioridad al 8 de marzo de 1997, vigentes al 23 de junio de 2011, podrán optar a las licencias de conductor profesional Clases A-3 y A-5.
+
+Para los efectos de lo dispuesto en el inciso anterior, corresponderá aprobar el respectivo curso de capacitación a que se refiere el presente reglamento, cumpliendo, en todo caso, con los demás requisitos legales y reglamentarios.
 
 #### Artículo 2
 
@@ -50,7 +52,7 @@ La infraestructura y equipamiento del Organismo corresponderá a las mismas exig
 
 #### Artículo 5
 
-Los planes y programas del curso deberán tener los siguientes contenidos:
+Los planes y programas de aquellos cursos dirigidos sólo a la licencia de conductor profesional Clase A-3 o Clase A-5, deberán tener los siguientes contenidos:
 
 a.- Módulo de Normativa Aplicada al Transporte: contenido: Responsabilidad civil y penal como conductor; legislación laboral, de drogas y estupefacientes y sustancias sicotrópicas y de alcoholes; infraestructura vial y medio ambiente. Total, 10 horas cronológicas.
 
@@ -59,6 +61,16 @@ b.- Módulo de Seguridad en la Conducción: contenido: Conducción segura; prime
 c.- Módulo Relaciones Humanas: contenido: Relaciones con sus pares; atención a clientes. Total, 5 horas cronológicas. Psicología del conductor; cambios conductuales, autoestima y valoración en el puesto de trabajo. Total, 3 horas cronológicas.
 
 d.- Evaluación: 2 horas cronológicas.
+
+En el caso del curso orientado a los conductores titulares de licencias de conductor Clase A-2, otorgadas con anterioridad al 8 de marzo de 1997 y vigentes al 23 de junio de 2011, conducentes a la obtención conjunta de las licencias de conductor profesional Clases A-3 y A-5, los módulos tendrán la siguiente duración:
+
+- **a)** Normativa Aplicada al Transporte, 15 horas cronológicas;
+
+- **b)** Seguridad en la Conducción, 15 horas cronológicas;
+
+- **c)** Relaciones Humanas: Contenido: Relaciones con sus pares; atención a clientes. Total 6 horas cronológicas. Psicología del Conductor; cambios conductuales, autoestima y valoración en el puesto de trabajo. Total 5 horas cronológicas; y
+
+- **d)** Evaluación: 2 horas cronológicas
 
 #### Artículo 6
 
@@ -76,7 +88,7 @@ La omisión del informe señalado precedentemente importará la no autorización
 
 #### Artículo 9
 
-El Organismo acreditará mediante certificados la aprobación de cada curso, entendiéndose que cada curso será conducente a la obtención de sólo una clase de licencia profesional. Estos certificados serán diseñados por la Subsecretaría de Transportes e impresos y foliados por la Casa de Moneda de Chile, y firmados por el o la representante legal o propietario(a) del Organismo capacitador.
+El Organismo acreditará mediante certificados la aprobación de cada curso. En el caso del curso orientado a los titulares de licencias de conductor Clase A-2, otorgadas con anterioridad al 8 de marzo de 1997 y vigentes al 23 de junio de 2011, conducentes a las licencias de conductor profesional Clases A-3 y A-5, el Organismo Técnico de Capacitación acreditará la aprobación mediante dos certificados, uno para cada Clase de licencia de conductor profesional. Estos certificados serán diseñados por la Subsecretaría de Transportes e impresos y foliados por la Casa de Moneda de Chile, y firmados por el o la representante legal o propietario(a) del Organismo capacitador.
 
 El o la representante legal o propietario(a) del Organismo capacitador será responsable de la correcta extensión de los certificados y en caso de extravío o hurto de los mismos deberá efectuar la denuncia en Carabineros de Chile, hacer una publicación en un diario de alta circulación de la región, poniendo en conocimiento del público la nulidad de los certificados extraviados o hurtados, y comunicar este hecho a la Secretaría Regional respectiva, y, además deberá mantener en custodia los certificados en blanco.
 
