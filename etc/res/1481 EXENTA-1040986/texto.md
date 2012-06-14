@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.481, de 30 de mayo de 2012, de esta Subsecretaría de Pesca, modifícase el numeral 4º de la resolución exenta Nº 1.236, de 2012, se autorizó al INSTITUTO DE INVESTIGACIÓN PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución y abundancia de Jurel en la zona centro-sur de Chile, año 2012", en el sentido de reemplazar la nave "Bucanero I" por la nave "Corsario I", ambas del armador Compañía Pesquera Camanchaca S.A., y la nave "Toyita" por la nave "Francisco", ambas del armador Pesquera Centro Sur S.A.
+
+Valparaíso, 30 de mayo de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
