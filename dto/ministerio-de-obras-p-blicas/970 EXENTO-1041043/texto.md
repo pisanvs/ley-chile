@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº970, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº12-A, superficie 552,30 m2., rol Nº2907-150, para la obra "Camino Ruta G - 184, Sector el Noviciado, Km. 0,07700 a Km. 5,40000", comuna de Pudahuel, provincia de Santiago, Región Metropolitana. La comisión de peritos, integrada por Ramón Undurraga Montes, Patricia Verónica Zavala Contreras y Marcela Alejandra Redard Ayala, fijó el valor de tasación con fecha 15 de junio de 2010, acordándose la indemnización con su propietaria CECILIA ROJAS LEÓN, en la cantidad de $10.739.035, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
