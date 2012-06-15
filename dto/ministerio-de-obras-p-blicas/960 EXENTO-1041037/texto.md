@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº960 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs 1 y 1-A, superficies 2.376 y 307 m2 respectivamente, rol Nº596-99, para la obra "Reposición Puente Las Toscas en Ruta I-710, Km. 7,44299 a Km. 7,70775", Comuna de Santa Cruz, VI Región. La Comisión de Peritos integrada por Marlene Ríos Marcuello, Robert Hilliard Jorquera y Sergio Shipley Rubio, fijó valor de tasación con fecha 01 de abril de 2011, acordándose la indemnización con su propietario MANUEL IGNACIO GUTIÉRREZ JIMÉNEZ, en la cantidad de $13.522.161, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
