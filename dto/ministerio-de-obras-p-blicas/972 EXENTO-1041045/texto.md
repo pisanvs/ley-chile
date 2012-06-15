@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº972 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs 13 y 15, superficies 140 y 399 m2 respectivamente, roles Nºs 84-64 y 84-65, comuna de Doñihue, para la obra "Reposición Puente Coinco, Comunas de Coinco y Doñihue Sexta Región, Km. 0,00000 a Km. 2,50595", VI Región. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Oscar Navea Muñoz y María Isabel de Jesús Ríos Marcuello, fijó valor de tasación con fecha 01 de agosto de 2011, acordándose la indemnización con su propietaria RUTH DE LAS MERCEDES URZÚA CARREÑO, en la cantidad de $3.632.952, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
