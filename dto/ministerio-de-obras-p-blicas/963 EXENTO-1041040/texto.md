@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº963, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº4, superficie 687 m2., rol Nº2026-166, para la obra "Reposición y Construcción de Puentes varias Provincias Región Metropolitana Puente Las Pilastras", comuna de Melipilla, Región Metropolitana. La comisión de peritos, integrada por Néstor Abello Rodríguez, Marcela Alejandra Redard Ayala y Douglas Herrera Flores, fijó el valor de tasación con fecha 29 de julio de 2011, acordándose la indemnización con su propietario JOSÉ AYALA, en la cantidad de $2.659.409, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
