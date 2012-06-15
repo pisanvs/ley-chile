@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº985 de 31 de mayo de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº32-F, superficie 163 m2, rol de Avalúo Nº400-1, comuna de Chanco, para la obra "CAMINO CAUQUENES - CHANCO NºROL M-50, SECTOR TUTUVEN - CHANCO, TRAMO KM. 15,20000 A KM. 28,80000", VII Región. La Comisión de peritos, integrada por Patricio Casagrande Ulloa, Nelson Ramírez Ramírez y Rodrigo Silva Lazo, fijó el valor de tasación con fecha 27 de junio de 2008, acordándose la indemnización con su propietario MAXIMILIANO GARCÍA YÉVENES, en la cantidad de $599.952.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
