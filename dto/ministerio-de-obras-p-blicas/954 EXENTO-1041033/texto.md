@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº954, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº9-A, superficie 2.218 m2, rol Nº3206-66, para la obra "CAMINO RUTA S:30, SECTOR TEMUCO - LABRANZA KM. 4,61500 A KM. 11,68000", Comuna de Temuco, Provincia de Cautín, IX Región. La Comisión de Peritos integrada por María Elena Harcha Abuhadba, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, fijó el valor de tasación con fecha 3 de diciembre de 2010, acordándose la indemnización con sus propietarios JUAN ROBERTO CONTRERAS OBREQUE Y OTROS, en la cantidad de $36.513.207, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
