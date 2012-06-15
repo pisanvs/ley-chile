@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº956 de 31 de mayo de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº22, superficie 308 m2, rol de Avalúo Nº232-58, comuna de Purén, para la obra "MEJORAMIENTO RUTA R-42, SECTOR PURÉN-LUMACO, KM. 1,80000 AL KM. 9,32000". La Comisión de peritos, integrada por ENEDINA DEL CARMEN CID RAMIÉREZ, PAULA ANDREA LAGOS CARRASCO Y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 16 de mayo de 2011, acordándose la indemnización con su propietaria CLAUDINA DEL CARMEN HUENUPI CURIN, en la cantidad de $1.108.284.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
