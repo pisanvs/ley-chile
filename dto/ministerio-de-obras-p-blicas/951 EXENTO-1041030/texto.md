@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº951 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº14, superficie 86 m2, rol Nº2229-15, para la obra "Habilitación a Acceso Norte a Osorno, Sector Camino Pilauco, Calle Luis Cruz Martínez, Av. Héroes de La Concepción y Ruta U-16", Comuna de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Christian Emil Rauch Yáñez y Juan Samuel Barrientos Bahamonde, fijó valor de tasación con fecha 10 de mayo de 2011, acordándose la indemnización con su propietario OSVALDO ALEJANDRO TAPIA SALGADO, en la cantidad de $25.655.485, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
