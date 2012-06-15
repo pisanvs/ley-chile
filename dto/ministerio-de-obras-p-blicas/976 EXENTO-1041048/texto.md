@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº976 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº23, superficie 371 m2, rol Nº1114-21, para la obra "Habilitación a Acceso Norte a Osorno, Sector Camino Pilauco, Calle Luis Cruz Martínez, Av. Héroes de La Concepción y Ruta U-16", Comuna de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Christian Emil Rauch Yáñez y Juan Samuel Barrientos Bahamonde, fijó valor de tasación con fecha 10 de mayo de 2011, acordándose la indemnización con su propietario CLUB ATLÉTICO LLANQUIHUE, en la cantidad de $19.669.958, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
