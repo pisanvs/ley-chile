@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº971 de 31 de mayo de 2012, se expropió el lote de terreno Nº2, superficie 142 m2, rol de Avalúo Nº259-217, comuna de Carahue, para la obra "RECONSTRUCCIÓN PUENTE LA OBRA, CAMINO CARAHUE POR EL BAJO, SECTOR KM. 13,71200 AL KM. 13,91000". La Comisión de peritos, integrada por Paula Andrea Lagos Carrasco, Patricio Fernando Casagrande Ulloa y César Nolberto Campos Vergara, fijó el valor de tasación con fecha 22 de enero de 2011, acordándose la indemnización con su propietaria JUANA CURIHUENTRO AILLAPAN, en la cantidad de $486.610.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
