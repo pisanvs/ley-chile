@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº952 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº76-B, superficie 151 m2, rol Nº40-33, para la obra "Mejoramiento Ruta I-70-J, Sector Lolol - Ranguil, Tramo Km. 0,00000 a Km. 19,38878", Comuna de Lolol, VI Región. La Comisión de Peritos integrada por Orlando Fariña Vásquez, Manuel Díaz Farfán y Patricio Casagrande Ulloa, fijó valor de tasación con fecha 20 de enero de 2010, acordándose la indemnización con su propietario NELSON DEL CARMEN VALENZUELA CORNEJO, en la cantidad de $1.138.344, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
