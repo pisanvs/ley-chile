@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº975 de 31 de mayo de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 218 m2, rol de Avalúo Nº1114-21, comuna de Osorno, para la obra "REPARACIÓN PUENTE BULNES EN OSORNO". La Comisión de peritos, integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 10 de junio de 2011, acordándose la indemnización con el CLUB ATLÉTICO LLANQUIHUE, en la cantidad de $3.804.780.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
