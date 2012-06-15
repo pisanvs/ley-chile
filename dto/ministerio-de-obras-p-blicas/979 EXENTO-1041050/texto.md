@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº979, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº31, superficie 103 m2, rol Nº2226-117, para la obra "HABILITACIÓN A ACCESO NORTE A OSORNO, SECTOR CAMINO PILAUCO, CALLE LUIS CRUZ MARTÍNEZ, AV. HÉROES DE LA CONCEPCIÓN Y RUTA U-16", Comuna y Provincia de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Christian Emil Rauch Yáñez y Juan Samuel Barrientos Bahamonde, fijó el valor de tasación con fecha 10 de mayo de 2011, acordándose la indemnización con su propietario JOHANNES EPPLE DAVANZO, en la cantidad de $959.754, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
