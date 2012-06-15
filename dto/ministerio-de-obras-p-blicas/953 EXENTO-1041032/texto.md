@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº953 de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº25, superficie 2.295 m2, rol Nº152-25, para la obra "Camino Ruta U-775, Sector Cruce Ruta U-99-V (Nochaco) - Rupanquito, Tramo Km. 0,00000 a Km. 22,26000", Comuna de Puerto Octay, X Región. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Juan Samuel Barrientos Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó valor de tasación con fecha 08 de octubre de 2010, acordándose la indemnización con su propietario JUAN ANTONIO MARTABIT SCAFF, en la cantidad de $3.048.778, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
