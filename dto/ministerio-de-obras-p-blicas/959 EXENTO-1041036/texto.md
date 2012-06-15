@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº959 de 31 de mayo de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos Nºs. 42, 43, 48 y 50, superficies 1.029, 1.063, 4.133 y 81 m2, rol de Avalúo Nº213-74 y 212-9, comuna de Florida, para la obra "MEJORAMIENTO RUTA 0-390, CRUCE RUTA 148 (Florida) - AUTOPISTA ITATA", VIII Región. La Comisión de peritos, integrada por María Gutiérrez Flores, Oscar Chávez Alcaino y Valeska Ale Goñi, fijó el valor de tasación con fecha 30 de abril de 2008, acordándose la indemnización con su propietaria AGRÍCOLA Y FORESTAL EL RETAMO LIMITADA, en la cantidad de $4.610.446.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
