@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº990, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº17, superficie 79 m2, rol Nº1455-120, para la obra "REPOSICIÓN RUTA 225-CH, SECTOR ESCUELA LOS RISCOS - ENSENADA, TRAMO KM. 24,60000 A KM. 43,19047", Comuna de Puerto Varas, Provincia de Llanquihue, X Región de Los Lagos. La Comisión de Peritos integrada por Juan Samuel Barrientos Bahamonde, Leopoldo Ramón Schumacher Guarda y Christian Emil Rauch Yáñez, fijó el valor de tasación con fecha 4 de mayo de 2011, acordándose la indemnización con su propietario JOSÉ MANFREDO BOEGEL FELMER, en la cantidad de $2.195.782, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
