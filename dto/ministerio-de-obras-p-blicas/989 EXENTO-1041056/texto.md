@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº989, de fecha 31 de mayo de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº6, superficie 523 m2, rol Nº2225-335, para la obra "HABILITACIÓN A ACCESO NORTE A OSORNO, SECTOR CAMINO PILAUCO, CALLE LUIS CRUZ MARTÍNEZ, AV. HÉROES DE LA CONCEPCIÓN Y RUTA U-16", Comuna y Provincia de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Christian Emil Rauch Yáñez y Juan Samuel Barrientos Bahamonde, fijó el valor de tasación con fecha 10 de mayo de 2011, acordándose la indemnización con su propietaria XIMENA ANDREA BUSCHMANN SAAVEDRA, en la cantidad de $5.734.096, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
