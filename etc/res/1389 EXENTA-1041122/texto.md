@@ -1,0 +1,7 @@
+Por resolución exenta Nº 1.389, de esta Subsecretaría, modifícase la resolución exenta Nº 1.203 de 2012, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2011-07 denominado "Evaluación hidroacústica del reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2012", en el sentido que a continuación se indica:
+
+a) En el numeral 5º inciso 3º, prorrogar hasta el 31 de mayo de 2012 inclusive, la operación de las embarcaciones artesanales participantes en el estudio en el área marítima de la IX Región, pudiendo sólo desarrollar faenas de prospección acústica y pesca de identificación, sin resultado de captura, debiendo el Servicio Nacional de Pesca sellar las bodegas durante el periodo antes indicado.
+
+b) En el numeral 6º, permitir la operación de las embarcaciones artesanales participantes en el estudio dentro de la primera milla, quedando exceptuadas del cumplimiento de las medidas de conservación establecidas en el DS Nº 408 de 1986, del Ministerio de Economía, Fomento y Reconstrucción, y sus modificaciones posteriores, hasta el 31 de mayo de 2012, inclusive.
+
+Valparaíso, 18 de mayo de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
