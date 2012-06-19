@@ -104,7 +104,7 @@ Cuando se trate de proyectos específicos a desarrollar para cada caso, no certi
 
 Asimismo, en este caso, las viviendas estarán exentas de cumplir con las especificaciones técnicas determinadas en el Itemizado Técnico de la Construcción aprobado por Resolución Exenta Nº 2.070 (V. y U.), de 2009, establecido en el artículo 19, inciso tercero, letra c), del mismo decreto.
 
-Para los casos de proyectos certificados previamente por el MINVU o SERVIU y con anterioridad al sismo y posterior tsunami del 27 de febrero del año 2010, la vivienda inhabitable no hubiera contado con los servicios de agua potable y electricidad, y que no exista una red colectiva frente al terreno para abastecer de estos servicios, el SERVIU podrá aprobar la construcción en dicho terreno aun cuando el proyecto de la nueva vivienda no contemple la conexión a dichos servicios, debiendo al menos contemplarse la construcción del sistema de alcantarillado de aguas servidas particular, o la conexión a una red colectiva pública o particular de aguas servidas.
+Para los casos de proyectos certificados previamente por el MINVU o SERVIU y con anterioridad al sismo y posterior tsunami del 27 de febrero del año 2010, la vivienda inhabitable no hubiera contado con los servicios de agua potable y electricidad, y que no exista una red colectiva frente al terreno para abastecer de estos servicios, el SERVIU podrá aprobar la construcción en dicho terreno aun cuando el proyecto de la nueva vivienda no contemple la conexión a dichos servicios, debiendo al menos contemplarse la construcción del sistema de alcantarillado de aguas servidas particular, o la conexión a una red colectiva pública o particular de aguas servidas. En los casos a que se refiere el inciso 3º del presente Resuelvo, si debido a las dimensiones del terreno y a las normas urbanísticas aplicables a éste no se puede alcanzar una superficie edificada de 45 metros cuadrados, el Director del Serviu podrá autorizar que dicha superficie edificada sea de 42 metros cuadrados como mínimo, manteniendo la exigencia de los recintos conformados.
 
 19. El Serviu pagará el subsidio mencionado en dos parcialidades, a través de cargas a la tarjeta que permitirán la adquisición de los materiales de construcción. Las cargas corresponderán a los siguientes montos y se verificarán contra los siguientes hitos:
 
@@ -174,7 +174,7 @@ efectos.
 
 El SERVIU, una vez recibidos los antecedentes señalados, deberá efectuar una visita a la vivienda para recibir las obras.
 
-23. Opcionalmente, podrá financiarse con un subsidio adicional la contratación de mano de obra complementaria a la que aportará el beneficiario, por un monto de hasta 90 Unidades de Fomento, a pagar en dos parcialidades de igual monto, incluidas en las cargas 1 y 2 señaladas en el Resuelvo 19. de esta resolución.
+23. Opcionalmente, podrá financiarse con un subsidio adicional la contratación de mano de obra complementaria a la que aportará el beneficiario, por un monto de hasta 90 Unidades de Fomento, a pagar en dos parcialidades de igual monto, incluidas en las cargas 1 y 2 señaladas en el Resuelvo 19. de esta resolución. En caso de existir remanentes en los montos de compra de los materiales, el Serviu podrá reasignar esos recursos al subsidio adicional para la contratación de esta mano de obra complementaria, sin embargo, este incremento que considera las UF 90 antes indicadas no podrá superar en total las UF 120 destinadas a este subsidio. Asimismo, en el caso de existir remanentes en los montos destinados a la mano de obra, el Serviu podrá reasignar esos recursos a la compra de materiales, hasta por un monto de UF 30.
 
 La mano de obra complementaria deberá ser contratada por la EGIS o PSAT, a quién se le pagará hasta el monto señalado en el inciso anterior, debiendo éste a su vez pagar íntegramente a quien se contrate para dicho efecto, cuando corresponda, dando cumplimiento en forma directa o indirecta, a todas las obligaciones emanadas de las leyes sociales respecto del personal que labora en las faenas, incluyendo el personal de las empresas subcontratistas.
 
@@ -184,13 +184,13 @@ El costo de la mano de obra complementaria, si corresponde, deberá formar parte
 
 En caso de tratarse de un proyecto certificado previamente por el Serviu o el Minvu, la mano de obra se pagará de una sola vez junto a la carga 2.
 
-En caso que el beneficiario asuma la ejecución de las obras, los recursos destinados a mano de obra podrán ser pagados directamente a éste, pero en dichas situaciones las dos parcialidades señaladas se pagarán en la siguiente forma: la primera, una vez autorizada la última carga, y la segunda, una vez recibidas las obras por el Serviu. En estos casos, el beneficiario deberá suscribir una declaración jurada en que se comprometa a asumir en forma íntegra la mano de obra.
+En el caso que el beneficiario asuma la ejecución de las obras, los recursos destinados a mano de obra podrán ser pagados directamente a éste, los que se pagarán en la forma indicada en el inciso 1º del presente Resuelvo.
 
 24. La asistencia técnica será desarrollada por Entidades de Gestión Inmobiliaria y Social (o EGIS), Prestadores de Servicios de Asistencia Técnica (o PSAT), ambos con Convenio Marco Regional vigente, o por consultores con inscripción vigente en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo, regulado por el D.S. N° 135, (V. y U.), de 1978, en el rubro de Estudio de Proyectos, especialidad Ingeniería o Arquitectura, o en el rubro de Prestaciones de Servicios de Asistencia Técnica, especialidad Gestión de Proyectos Habitacionales, que serán denominados igualmente Prestadores de Servicios de Asistencia Técnica, para los efectos del presente llamado.
 
 Cada SERVIU, mediante resoluciones del Director, determinará por zonas geográficas las Entidades de Gestión Inmobiliaria Social (EGIS) y/o Prestadores de Servicios de Asistencia Técnica (PSAT) que prestarán asesoría y apoyo a las familias beneficiadas. No obstante lo anterior las familias podrán acudir a las correspondientes Municipalidades o a otras EGIS, PSAT o consultores para que las provean de esta asistencia técnica.
 
-Opcionalmente, en caso que no se cuente con las entidades señaladas en el inciso anterior, esta asesoría podrá ser desarrollada por los SERVIU directamente con cargo a los recursos dispuestos para ello, o a través de personas naturales o jurídicas que el SERVIU contrate para la prestación de estos servicios, los cuales podrán estar o no inscritos en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo, regulado por el D.S. N° 135 (V. y U.), de 1978.
+Opcionalmente, esta asesoría podrá ser desarrollada por los SERVIU directamente con cargo a los recursos dispuestos para ello, o a través de personas naturales o jurídicas que el SERVIU contrate para la prestación de estos servicios, los cuales podrán estar o no inscritos en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo, regulado por el D.S. N° 135 (V. y U.), de 1978.
 
 25. Las labores que serán responsabilidad de la EGIS o PSAT, sean ejecutadas por si mismas o por terceros que ésta subcontrate, serán las siguientes:
 
@@ -222,7 +222,19 @@ En caso de tratarse de un proyecto certificado previamente por el Serviu o el Mi
 
 a) Código de validación de la operación, entregado por el soporte respectivo del Sistema RUKAN del Ministerio de Vivienda y Urbanismo.
 
-b) Copia de Factura o Boleta, con el detalle y cantidad de materiales entregados, y en caso de no constar en éstos, deberá acompañarse copia de la correspondiente Guía de Despacho, debiendo estar firmada por el beneficiario como forma de acreditar la recepción conforme de los materiales.
+b) Copia de factura o boleta, con el detalle y cantidad de materiales entregados, y en caso de que no conste dicho detalle y cantidad, a la factura o boleta deberá acompañarse uno de los siguientes documentos:
+
+- Copia de la correspondiente guía de despacho,
+
+firmada por el beneficiario como forma de
+
+acreditar la recepción conforme de los
+
+materiales; o
+
+- Listado de materiales firmado por el proveedor
+
+y por el beneficiario.
 
 c) Una vez presentada la Factura o Boleta al SERVIU, éste dispondrá de 10 días hábiles para su revisión. El monto a pagar al proveedor será el indicado en la Boleta o Factura, luego de verificar que los materiales y herramientas adquiridos correspondan a los del proyecto aprobado. En caso que algunos de los elementos detallados en la Boleta o Factura no estén incluidos en el proyecto, no serán considerados en la liquidación del monto a pagar.
 
@@ -247,5 +259,7 @@ Cuando se obtenga el incremento a que se alude en este resuelvo, el valor de la 
 32. Para los pagos de subsidios y de los honorarios por concepto de servicios de asistencia técnica sólo podrá exigirse el cumplimiento de las condiciones establecidas en la presente Resolución no siendo aplicable las exigencias contenidas para esos efectos en el D.S. N° 174 (V. y U.), de 2005.
 
 33. Los subsidios habitacionales que se otorguen conforme a esta Resolución se imputarán a los recursos dispuestos en la Resolución Exenta N° 8.816 (V. y U.), de 2010, para el Plan de Reconstrucción del Fondo Solidario de Vivienda.
+
+34. En el caso que familias seleccionadas, en la forma que indica la presente resolución, renuncien a su beneficio o que éste sea eliminado por otra causa, el Ministerio de Vivienda y Urbanismo podrá sustituir a dichas familias, siempre que cumplan los requisitos de obtención del subsidio que reglamenta la presente resolución, destinando para estos efectos los recursos provenientes de esos subsidios a la modalidad de autoconstrucción asistida, del Programa Fondo Solidario de Vivienda.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
