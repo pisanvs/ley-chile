@@ -106,7 +106,7 @@ Arquitectos:
 
 - Pierre Henri Merlet Tassara
 
-- Andrés Aníbal Risco Caamaño.
+- Andrés Aníbal Risso Caamaño.
 
 REGIÓN DE ARICA Y PARINACOTA
 
