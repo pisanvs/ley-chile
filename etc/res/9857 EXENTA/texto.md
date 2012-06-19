@@ -26,6 +26,8 @@ Resolución:
 
 > **Nota.** El numeral 1 de la Resolución 1900 Exenta, Vivienda, publicada el 08.03.2012, modifica los montos de Asistencia Técnica para 19 familias del proyecto de la Región del Libertador Bernardo O'Higgins correspondiente al grupo "Rancagua Sur", Código 73327, en el sentido de disminuir 1 UF por familia.
 
+> **Nota.** NOTA 1 El numeral 2 de la Resolución 4445 Exenta, Vivienda, publicada el 06.06.2012, modifica los montos de Asistencia Técnica en el sentido de aumentar 1 UF por familia, a los proyectos de la Región del Biobío que la citada norma indica.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Perez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
