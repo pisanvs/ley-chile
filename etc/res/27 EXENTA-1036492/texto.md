@@ -52,49 +52,59 @@ Chile Limitada.
 
 a) X Región, resolución exenta Nº932 de 2011,
 
-Fundación Chinquihue, 46 toneladas sardina austral,
+Fundación Chinquihue, 70 toneladas sardina
 
-2 toneladas anchoveta y 18 toneladas sardina común.
-
-b) X Región, resolución exenta Nº931 de 2011,
-
-Consultora Mares Chile Limitada, 46 toneladas
-
-sardina austral, 2 toneladas anchoveta y 18
+austral, 2 toneladas anchoveta y 18
 
 toneladas sardina común.
 
+b) X Región, resolución exenta Nº931 de
+
+2011, Consultora Mares Chile Limitada,
+
+70 toneladas sardina austral, 2
+
+toneladas anchoveta y 18 toneladas
+
+sardina común.
+
 c) X Región, resolución exenta Nº107 de 2011,
 
-Instituto de Fomento Pesquero, 6.908 toneladas de
+Instituto de Fomento Pesquero, 6.908
 
-sardina austral.
+toneladas de sardina austral.
 
-d) XI Región, resolución exenta Nº150 de 2011,
+d) XI Región, resolución exenta Nº150 de
 
-Universidad del Mar, 1.738 toneladas de sardina
+2011, Universidad del Mar, 1.738 toneladas
 
-austral.
+de sardina austral.
 
-e) XI Región, resolución exenta Nº1.808 de 2011,
+e) XI Región, resolución exenta Nº1.808
 
-Universidad del Mar.
+de 2011, Universidad del Mar.
 
 Las capturas de anchoveta y sardina común se imputarán a la reserva de investigación autorizada para los mencionados recursos mediante decreto exento Nº1.251 de 2011, citado en Visto.
 
 ### 5. Merluza Común:
 
-a) VII Región, resolución exenta Nº1.743 de 2011, SP
+a) VII Región, resolución exenta Nº1.743 de
+
+2011, SP
 
 Consultores Limitada, 100 toneladas.
 
-b) VIII Región, resolución exenta Nº927 de 2011, SP
+b) VIII Región, resolución exenta Nº927 de
+
+2011, SP
 
 Consultores Limitada, 227 toneladas.
 
-c) VIII Región, resolución exenta Nº1.748 de 2012, SP
+c) VIII Región, resolución exenta Nº1.748
 
-Consultores Limitada, 50 toneladas.
+de 2012, SP Consultores Limitada, 50
+
+toneladas.
 
 Las capturas de Merluza común se imputarán a la reserva de investigación autorizada para el mencionado recurso mediante decreto exento Nº1.251 de 2011, citado en Visto.
 
@@ -124,9 +134,9 @@ c) III Región, resolución exenta Nº1.662 de 2011,
 
 Universidad de Atacama.
 
-d) IV Región, resolución Nº 3.948 de 2010, Universidad
+d) IV Región, resolución Nº 3.948 de 2010,
 
-Católica del Norte.
+Universidad Católica del Norte.
 
 ### 8. Pulpo del Norte, Lapas y Erizo:
 
