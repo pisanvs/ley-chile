@@ -316,6 +316,8 @@ Relegación mayor.
 
 Inhabilitación absoluta perpetua para cargos y oficios públicos, derechos políticos y profesiones titulares.
 
+Inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
+
 Inhabilitación especial perpetua para algún cargo u oficio público o profesión titular.
 
 Inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad.
@@ -494,13 +496,13 @@ Las penas de inhabilitación especial perpetua y temporal para algún cargo u of
 
 #### Artículo 39 bis
 
-La pena de inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372 de este Código, produce:
+Las penas de inhabilitación absoluta perpetua o temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, prevista en el artículo 372 de este Código, produce:
 
-1º La privación de todos los cargos, empleos, oficios y profesiones que tenga el condenado.
+1º La privación de todos los cargos, empleos, oficios y profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad que tenga el condenado.
 
-2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguno de los beneficios de la ley Nº 18.216, como alternativa a la pena principal.
+2º La incapacidad para obtener los cargos, empleos, oficios y profesiones mencionados, perpetuamente cuando la inhabilitación es perpetua, y si la inhabilitación es temporal, la incapacidad para obtenerlos, antes de transcurrido el tiempo de la condena de inhabilitación, contado desde que se hubiere dado cumplimiento a la pena principal, obtenido libertad condicional en la misma, o iniciada la ejecución de alguno de los beneficios de la ley Nº 18.216, como alternativa a la pena principal.
 
-La pena de inhabilitación de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
+La pena de inhabilitación absoluta temporal de que trata este artículo tiene una extensión de tres años y un día a diez años y es divisible en la misma forma que las penas de inhabilitación absoluta y especial temporales.
 
 #### Artículo 40
 
@@ -3096,7 +3098,9 @@ Los maestros o encargados en cualquier manera de la educación o dirección de l
 
 Los comprendidos en el artículo anterior y cualesquiera otros condenados por la comisión de los delitos previstos en los dos párrafos precedentes en contra de un menor de edad, serán también condenados a las penas de interdicción del derecho de ejercer la guarda y ser oídos como parientes en los casos que la ley designa, y de sujeción a la vigilancia de la autoridad durante los diez años siguientes al cumplimiento de la pena principal. Esta sujeción consistirá en informar a Carabineros cada tres meses su domicilio actual. El incumplimiento de esta obligación configurará la conducta establecida en el artículo 496 Nº 1 de este Código.
 
-Asimismo, el tribunal condenará a las personas comprendidas en el artículo precedente a la pena de inhabilitación absoluta temporal para cargos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, en cualquiera de sus grados.
+El que cometiere cualquiera de los delitos previstos en los artículos 362, 365 bis, 366 bis, 366 quáter, 366 quinquies y 372 bis, en contra de un menor de catorce años de edad, será condenado además a la pena de inhabilitación absoluta perpetua para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad. La misma pena se aplicará a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433 N° 1° de este Código, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de catorce años.
+
+Si alguno de los delitos señalados en los artículos 361, 363, 365 bis, 366, 366 quáter, 366 quinquies, 367, 367 ter y 372 bis se cometiere en contra de un menor de edad pero mayor de catorce años, el culpable será condenado además a la pena de inhabilitación absoluta temporal para cargos, empleos, oficios o profesiones ejercidos en ámbitos educacionales o que involucren una relación directa y habitual con personas menores de edad, en cualquiera de sus grados. La misma pena se impondrá a quien cometiere cualquiera de los delitos establecidos en los artículos 142 y 433, N° 1°, de este Código, cuando alguna de las víctimas hubiere sufrido violación y fuere menor de edad pero mayor de catorce años.
 
 #### Artículo 372 bis
 
