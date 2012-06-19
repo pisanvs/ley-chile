@@ -724,7 +724,9 @@ El presente reglamento se aplicará a los vehículos de 18 o más asientos, incl
 
 #### Artículo 6°
 
-Por resolución del Ministerio de Transportes y Telecomunicaciones, se podrá eximir de la aplicación de determinadas exigencias a que se refieren los artículos anteriores, a los buses que requieran utilizarse con fines experimentales y de realización de estudios de interés para el transporte.
+El acondicionamiento interior de los buses no podrá afectar el cumplimiento de los requisitos dimensionales y funcionales que establece el presente decreto, salvo que el Ministerio de Transportes y Telecomunicaciones por resolución fundada de aplicación general y con el informe favorable del Centro de Control y Certificación Vehicular, lo autorice.
+
+Del mismo modo, por resolución fundada del Ministerio de Transportes y Telecomunicaciones, se podrá eximir de la aplicación de una o más exigencias a que se refiere el presente decreto, a buses que requieran utilizarse en programas pilotos para la realización de estudios de interés para el transporte u otros fines experimentales. En caso que el Ministerio de Transportes y Telecomunicaciones, por resolución fundada, califique favorablemente los resultados de los programas pilotos o experimentales y determine que éstos fueren beneficiosos para la prestación de servicios de transporte público, los requisitos funcionales y dimensionales autorizados en dichos programas pilotos o experimentales se entenderán incorporados al presente decreto supremo, en los términos que indique la resolución antes referida.
 
 #### Artículo 7°
 
