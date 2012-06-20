@@ -1,0 +1,3 @@
+DESIGNA SECRETARIA SUPLENTE EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE RANCAGUA
+
+Por resolución SII Nº 11, de 24 de mayo de 2012, se designó a doña Marcela Alejandra Rodríguez Casanova, RUT Nº 12.064.399-1, como Secretaria Suplente en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Rancagua.
