@@ -1,0 +1,3 @@
+DESIGNA SECRETARIO TITULAR EN EL TRIBUNAL ESPECIAL DE ALZADA DE LOS BIENES RAÍCES DE LA SEGUNDA SERIE CON JURISDICCIÓN EN EL TERRITORIO DE LA ILUSTRÍSIMA CORTE DE APELACIONES DE PUERTO MONTT
+
+Por resolución SII Nº 12, de 24 de mayo de 2012, se designó a don Juan Carlos Pesce García, RUT Nº 5.728.719-5, como Secretario Titular en el Tribunal Especial de Alzada de los Bienes Raíces de la Segunda Serie, con jurisdicción en el territorio de la Ilustrísima Corte de Apelaciones de Puerto Montt.
