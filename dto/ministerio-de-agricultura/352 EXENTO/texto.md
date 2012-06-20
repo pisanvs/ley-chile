@@ -32,25 +32,17 @@ Decreto:
 
 Autorízase la circulación en horario inhábil y en días sábados en la tarde, domingos y festivos al vehículo, sin disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, que a continuación se individualiza:
 
-Vehículo : Automóvil
+Vehículo: Station Wagon
 
-Marca : Mazda
+Marca: Nissan
 
-Modelo : 6.2.0 Sedan
+Modelo: X-Trail S MT
 
-Año : 2008
+Nº motor: QR25160248B
 
-Nº Motor : LF20223953
+Patente: DB RD - 31 - 6
 
-Nº Chasis : JM7GH42F881108331
-
-Inscripción
-
-y Patente : BRDD 95-5
-
-Color : Gris claro
-
-Inventario : 4-502-1
+Inventario: 4-627-1.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República.- Álvaro Rojas Marín, Ministro de Agricultura.- Belisario Velasco Baraona, Ministro del Interior.
 

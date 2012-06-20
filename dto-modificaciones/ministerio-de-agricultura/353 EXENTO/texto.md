@@ -14,25 +14,17 @@ Decreto:
 
 Modifícase el decreto exento Nº 352, de 2007, del Ministerio de Agricultura, que autoriza la circulación en horario inhábil y en días sábado en la tarde, domingo y festivos al vehículo, sin disco fiscal, propiedad del Instituto de Desarrollo Agropecuario, como vehículo de respaldo al Sr. Director Nacional de dicha institución, y sustitúyese por el vehículo que a continuación se individualiza:
 
-Vehículo : Automóvil
+Vehículo: Station Wagon
 
-Marca : Mazda
+Marca: Nissan
 
-Modelo : 6.2.0 Sedan
+Modelo: X-Trail S MT
 
-Año : 2008
+Nº motor: QR25160248B
 
-Nº Motor : LF20223953
+Patente: DB RD - 31 - 6
 
-Nº Chasis : JM7GH42F881108331
-
-Inscripción
-
-y Patente : BRDD 95-5
-
-Color : Gris claro
-
-Inventario : 4-502-1
+Inventario: 4-627-1.
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Marigen Hornkohl Venegas, Ministra de Agricultura.- Edmundo Pérez Yoma, Ministro del Interior.
 
