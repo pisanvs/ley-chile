@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.635, de 14 de junio de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 1.586, de 2012, que autorizó a EDIC INGENIEROS S.A. para desarrollar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto denominado "Pesca de investigación de la flora y fauna acuática en cursos y cuerpos de aguas continentales e insulares de Chile", en el sentido de reemplazar el numeral 13.-, por el indicado en la resolución extractada.
+
+Valparaíso, 14 de junio de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
