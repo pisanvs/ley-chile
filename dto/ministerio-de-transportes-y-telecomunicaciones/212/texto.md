@@ -870,6 +870,10 @@ Los vehículos de servicios interurbanos deberán estar provistos de un disposit
 
 En servicios interurbanos se permitirá el funcionamiento de radios, tocacasetes, televisores y videograbadoras, siempre que los vehículos estén dotados de audífonos para los pasajeros.
 
+Antes de iniciar cada servicio, en los buses que cuenten con un sistema de reproducción de imágenes deberá exhibirse un video de seguridad de tránsito con mensajes informativos y educativos relacionados con el uso de cinturón de seguridad cuando corresponda, el transporte seguro de bultos y equipaje de mano, cómo actuar en caso de accidentes y el derecho de los pasajeros a que se respeten los límites de velocidad.
+
+En aquellos servicios no provistos de los medios audiovisuales antes referidos, deberá disponerse de una cartilla u otro medio escrito con mensajes sobre los temas a que alude el inciso anterior en todos los asientos.
+
 #### Artículo 67°
 
 Los responsables de servicios rurales e interurbanos que vendan pasajes anticipadamente, deberán devolver, al menos, el 85% de su valor, cuando el correspondiente pasaje sea anulado por el interesado hasta cuatro horas antes de la hora de partida.
@@ -931,6 +935,8 @@ Para prestar servicios de taxi, los automóviles deberán cumplir con los siguie
 a) Ser vehículos de una antiguedad no superior a un año, al solicitar su incorporación al Registro Nacional por primera vez. La antiguedad se calculará como la diferencia entre el año en que se solicita la inscripción y el año de fabricación o modelo de del vehículo anotado en el Registro de Vehículos Motorizados.
 
 b) contar con un motor de 1,5 litros de cilindrada o superior, o contar con motor eléctrico puro, entendiendo como tal aquel vehículo impulsado exclusivamente por energía eléctrica o vehículo híbrido, entendiendo como tal aquel vehículo impulsado por una cadena de tracción híbrida con al menos dos convertidores de energía distintos y dos sistemas diferentes de almacenamiento de energía (situados en el propio vehículo) para propulsar el vehículo para prestar servicio de taxis, en cualquiera de sus modalidades.
+
+Tratándose de vehículos que se incorporen conforme lo dispuesto en la ley 20.474, el requisito de antigüedad señalado en la letra a) del inciso precedente, será de cinco (5) años como máximo.
 
 Para efectos del presente decreto, en la categoría de motor de 1,5 litros quedarán comprendidos aquellos cuya cilindrada sea superior a 1.450 cc. e inferior a 1551 cc.
 
