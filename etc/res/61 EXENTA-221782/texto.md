@@ -18,6 +18,4 @@ R e s u e l v o:
 
 4.- En el caso de los servicios urbanos de taxis colectivos, en el horario comprendido entre las 00:00 hrs. AM y las 05:59 AM de un mismo día, el número máximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las vías de la ciudad de Concepción, será de tres (3) sin computar para tales efectos la variante que rija en otro horario. Para tales efectos, en el horario señalado, los trazados variantes de dichos servicios deberán coincidir en a lo menos un 1% con el correspondiente trazado troncal.
 
-> **Nota.** La Resolución 308 Exenta, Transportes, publicada el 10.10.2012, modifica en la presente norma el número máximo de variantes denominadas nocturnas para cada recorrido troncal, de los taxis colectivos que prestan servicios en las vías de la ciudad de Concepción, aumentándolas a cinco (5).
-
 Anótese y publíquese.- Dalton Campos Seguin, Secretario Regional Ministerial Transportes y Telecomunicaciones VIII Región del Biobío.
