@@ -76,6 +76,28 @@ Argentina - Av. Santos Ossa - Ruta 68 Ch.
 
 (Límite Comunal)
 
+c) Servicios desde y hacia Ruta F-98G:
+
+Ruta F-98G, Baden Powell, Av. Federico Santa
+
+María, Levarte, Domeyko, Av. Quebrada Verde,
+
+Vista Hermosa, Levarte, Av. Playa Ancha,
+
+Parque, Av. Altamirano, Av. Antonio Varas,
+
+Errázuriz, Av. Francia, Independencia,
+
+Rancagua, Victoria, Av. Francia, Errázuriz,
+
+Av. Antonio Varas, Av. Altamirano, Parque,
+
+Av. Playa Ancha, Av. Quebrada Verde, Domeyko,
+
+Levarte, Av. Federico Santa María, Baden
+
+Powell, Ruta F-98G.
+
 6º.- La presente resolución entrará en vigencia transcurridos 7 días de la fecha de su publicación en el Diario Oficial.
 
 Anótese y publíquese.- Emilio Oñate Vera, Secretario Regional Ministerial de Transportes y Telecomunicaciones V Región.
