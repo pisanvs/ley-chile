@@ -358,7 +358,7 @@ j) De las apelaciones que el requirente o el Servicio Electoral deduzcan en cont
 
 <!-- parte:9250804 -->
 
-15° Plazo para interponer el recurso de apelación. El recurso se interpondrá en el término fatal de cinco días corridos, contados desde la notificación de la parte que entabla el recurso.
+15° Plazo para interponer el recurso de apelación. El recurso se interpondrá en el término fatal de cinco días hábiles, contados desde la notificación de la parte que entabla el recurso.
 
 Tratándose de las declaraciones de candidaturas a Alcalde y Concejal y de las solicitudes de nulidad y rectificación de escrutinios de las elecciones de Consejeros Regionales, el recurso se interpondrá dentro de los cinco días contados desde la notificación de la sentencia.
 
