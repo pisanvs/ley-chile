@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A RENTA NACIONAL COMPAÑÍA DE SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 232, de fecha 7 de junio de 2012, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de Renta Nacional Compañía de Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 19 de marzo de 2012, reducida a escritura pública el 5 de abril de 2012 y en junta extraordinaria de accionistas celebrada el 10 de mayo de 2012, reducida a escritura pública ese mismo día, ambas escrituras otorgadas en la Notaría de Santiago de don Enrique Tornero Figueroa, domiciliado en Paseo Phillips 433.
+
+La reforma consiste en aumentar el capital social de $4.148.998.955 pesos dividido en 1.962.707 acciones sin valor nominal, íntegramente suscritas y pagadas, a $5.148.998.955 pesos dividido en 2.435.763 acciones. El aumento de capital se entera mediante la emisión de 473.056 acciones por $1.000.000.000 pesos a suscribir y pagar dentro del plazo de 90 días contado desde el 19 de marzo de 2012. Otros acuerdos que no son materia de extracto. Se modifican artículos quinto permanente y primero y tercero transitorios de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 7 de junio de 2012.- Nelson Torres Morgado, Secretario General Subrogante.
