@@ -10,7 +10,7 @@ Decreto:
 
 #### Artículo único
 
-Autorízase la circulación en horas inhábiles y días sábados en la tarde,domingos y festivos, exento del uso de Disco Fiscal, al vehículo de la dotación del Gobierno Regional de Atacama que a continuación se individualiza, conforme lo dispuesto en el artículo 1° y 3° del DL N° 799, de 1974, del Ministerio del Interior.
+Autorízase la circulación en horas inhábiles y días sábados en la tarde,domingos y festivos, exento del uso de Disco Fiscal, al vehículo asignado a la Intendencia Regional de Atacama, placa patente DPWC.98-8 que individualiza, conforme lo dispuesto en el artículo 1° y 3° del DL N° 799, de 1974, del Ministerio del Interior.
 
 Vehículo : Minibus
 
