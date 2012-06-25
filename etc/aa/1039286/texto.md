@@ -298,7 +298,7 @@ j) De las apelaciones que el requirente o el Servicio Electoral deduzcan en cont
 
 14° Interposición del recurso. El recurso de apelación se interpondrá ante el Tribunal Electoral Regional respectivo, o ante el Director del Servicio Electoral o ante los Directores del Servicio Electoral Regionales, en su caso, para ante el Tribunal Calificador de Elecciones.
 
-15° Plazo para interponer el recurso de apelación. El recurso se interpondrá en el término fatal de cinco días corridos, contados desde la notificación de la parte que entabla el recurso.
+15° Plazo para interponer el recurso de apelación. El recurso se interpondrá en el término fatal de cinco días hábiles, contados desde la notificación de la parte que entabla el recurso.
 
 Tratándose de las declaraciones de candidaturas a Alcalde y Concejal y de las solicitudes de nulidad y rectificación de escrutinios de las elecciones de Consejeros Regionales, el recurso se interpondrá dentro de los cinco días contados desde la notificación de la sentencia.
 

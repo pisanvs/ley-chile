@@ -1,0 +1,9 @@
+MODIFICA AUTO ACORDADO DE VEINTE DE ABRIL DE DOS MIL DOCE, QUE FIJA EL TEXTO REFUNDIDO, COORDINADO, SISTEMATIZADO Y ACTUALIZADO DE LOS AUTOS ACORDADOS SOBRE FUNCIONAMIENTO Y TRAMITACIÓN DE LAS CAUSAS Y ASUNTOS QUE DEBEN SUSTANCIARSE ANTE EL TRIBUNAL CALIFICADOR DE ELECCIONES
+
+En Santiago, a siete de junio de dos mil doce, siendo las 17:00 horas, se reunió extraordinariamente el Tribunal Calificador de Elecciones bajo la presidencia del Ministro, don Patricio Valdés Aldunate, y con la asistencia de la señora Ministra, doña Sonia Araneda Briones y con los señores Ministros, don Carlos Künsemüller Loebenfelder y don Haroldo Brito Cruz. No asistió el señor Ministro don Mario Ríos Santander. Actuó la Secretaria Relatora, doña Carmen Gloria Valladares Moyano.
+
+Conforme a las facultades conferidas por los artículos 9º letra f) y 12 de la Ley N° 18.460, Orgánica Constitucional sobre el Tribunal Calificador de Elecciones, modificada por la ley N° 20.568 de treinta y uno de enero de dos mil doce, que fijan la competencia de este Tribunal y establecen la facultad para regular mediante autos acordados el procedimiento para la tramitación de las causas y asuntos que se sustancien ante él, asegurando en todo caso un racional y justo proceso, se acordó modificar el Auto Acordado referido en lo siguiente:
+
+Se modifica el numeral 15° del Auto Acordado del Tribunal Calificador de Elecciones, publicado el veinte de abril de dos mil doce, en el sentido que el plazo para interponer el recurso de apelación es de cinco días hábiles contados desde la notificación de la resolución que se recurre.
+
+Comuníquese y publíquese.- Firman los señores Ministros y la Secretaria Relatora.- Patricio Valdés Aldunate, Sonia Araneda Briones, Carlos Künsemüller Loebenfelder y Haroldo Brito Cruz.- Carmen Gloria Valladares Moyano, Secretaria Relatora.
