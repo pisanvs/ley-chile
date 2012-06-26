@@ -996,7 +996,7 @@ Estas áreas se subdividen a su vez por usos de suelo excluyentes en las siguien
 
 ZH-14, ZH-1T, ZH-2T, ZH-3T- ZH-4T, ZH-5T, ZH-6T,
 
-ZH-7T.
+ZH-7T, ZH-8T.
 
 * Zona Residencial Equipamiento: ZHEQ-1.
 
@@ -1499,6 +1499,8 @@ NOTA: VER D.O. 31.01.2006, PAGINA 33
 > **Nota.** NOTA 1 El Nº 2 del Decreto 703, Municipalidad de Talcahuano, publicado el 25.05.2010, introduce varias modificaciones al presente artículo, agregando, sustituyendo o eliminando cuadros de determinadas zonas.
 
 > **Nota.** NOTA 2 El Nº 3 del Decreto 1865, Municipalidad de Talcahuano, publicado el 08.07.2011, introduce diversas modificaciones a las tablas del presente artículo, en la forma que en ella se indica.
+
+> **Nota.** NOTA 3 El Artículo Nº 2 del Decreto 16, Vivienda, publicado el 26.06.2012, introduce diversas modificaciones a las tablas del presente artículo, en la forma que en ella se indica.
 
 ## Capítulo V
 
