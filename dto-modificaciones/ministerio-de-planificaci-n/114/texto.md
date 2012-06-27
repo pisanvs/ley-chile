@@ -1,24 +1,32 @@
-APRUEBA REGLAMENTO QUE ESTABLECE NORMAS PARA LA IMPLEMENTACIÓN DEL PROGRAMA "BONIFICACIÓN AL INGRESO ÉTICO FAMILIAR" ESTABLECIDO EN LA PARTIDA 21, CAPÍTULO 01, PROGRAMA 05, SUBTÍTULO 24, ÍTEM 03, ASIGNACIÓN 010, GLOSA 08 DE LA LEY Nº 20.481, DE PRESUPUESTOS DEL SECTOR PÚBLICO PARA EL AÑO 2011
+MODIFICA DECRETO Nº 29, DE 2011, QUE APRUEBA REGLAMENTO QUE ESTABLECE NORMAS PARA LA IMPLEMENTACIÓN DEL PROGRAMA "BONIFICACIÓN AL INGRESO ÉTICO FAMILIAR" ESTABLECIDO EN LA PARTIDA 21, CAPÍTULO 01, PROGRAMA 05, SUBTÍTULO 24, ÍTEM 03, ASIGNACIÓN 010, GLOSA 08 DE LA LEY Nº 20.481, DE PRESUPUESTOS DEL SECTOR PÚBLICO PARA EL AÑO 2011
 
-Santiago, 7 de marzo de 2011.- Hoy se decretó lo que sigue:
+Santiago, 27 de diciembre de 2011.- Hoy se decretó lo que sigue:
 
-Núm. 29.- Visto: Lo dispuesto en los artículos 32 número 6 y 35 de la Constitución Política de la República de Chile; la Glosa 08 de la Partida 21.01.05, de la ley Nº 20.481, que aprueba el Presupuesto del Sector Público para el año 2011; la ley Nº 19.949, que establece un Sistema de Protección Social para Familias en Situación de Extrema Pobreza denominado "Chile Solidario"; el decreto supremo Nº 235 de 2004, del Ministerio de Planificación, que Reglamenta la Aplicación de la Ley Nº 19.949; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre Exención del Trámite de Toma de Razón.
+Núm. 114.- Visto: Lo dispuesto en los artículos 32 número 6, y 35 de la Constitución Política de la República de Chile; la glosa 08 de la partida 21.01.05, de la Ley Nº 20.481, que aprueba el Presupuesto del Sector Público para el año 2011; la glosa 07 de la partida 21.01.05, de la ley Nº 20.557, que aprueba el Presupuesto del Sector Público para el año 2012; la ley Nº 19.949, que establece un Sistema de Protección Social para Familias en Situación de Extrema Pobreza, denominado "Chile Solidario"; el decreto supremo Nº 235, de 2004, del Ministerio de Planificación, que Reglamenta la Aplicación de la Ley Nº 19.949; y la resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fija Normas sobre exención del trámite de toma de razón.
 
 Considerando:
 
-Que la Glosa 08 de la Partida 21.01.05, de la ley Nº 20.481, creó el Programa Bonificación al Ingreso Ético Familiar, consistente en un beneficio monetario de carácter extraordinario en favor de las personas que allí indica. Esta bonificación extraordinaria formará parte integrante de las prestaciones del Sistema de Protección Social "Chile Solidario", establecido por la ley Nº 19.949.
+Que la glosa 08 de la partida 21.01.05, de la ley Nº 20.481, creó el Programa Bonificación al Ingreso Ético Familiar, consistente en un beneficio monetario de carácter extraordinario en favor de las personas que allí indica.
 
-Que el inciso cuarto de la glosa citada dispone que un decreto supremo, expedido por el Ministerio de Planificación y suscrito, además, por el Ministro de Hacienda, regulará el pago de la bonificación, su periodicidad y demás normas necesarias para la implementación, aplicación y evaluación del programa.
+Que esta bonificación extraordinaria forma parte integrante de las prestaciones del Sistema de Protección Social "Chile Solidario", establecido por la ley Nº 19.949.
 
-Que el mismo inciso cuarto de la referida glosa establece que un panel de expertos entregará recomendaciones técnicas sobre los criterios que se aplicarán para el otorgamiento de la bonificación, hará un seguimiento sobre la operación de esta bonificación e informará trimestralmente a la Comisión Mixta de Presupuestos.
+Que el inciso cuarto de la glosa citada dispuso que un decreto supremo, expedido por el Ministerio de Planificación y suscrito, además, por el Ministro de Hacienda, regularía el pago de la bonificación, su periodicidad y demás normas necesarias para la implementación, aplicación y evaluación del programa.
 
-Que para efectos de dar cumplimiento a lo señalado en el considerando precedente, el Ministerio de Planificación, mediante decreto supremo Nº 155, de 22 de diciembre de 2010, designó a los integrantes del citado panel de expertos y estableció las normas para su funcionamiento.
+Que, con fecha 7 de marzo de 2011, se dictó el decreto supremo Nº 29, de 2011, del Ministerio de Planificación, que aprueba Reglamento que Establece Normas para la Implementación del Programa "Bonificación al Ingreso Ético Familiar" establecido en la partida 21, capítulo 01, programa 05, subtítulo 24, ítem 03, asignación 010, glosa 08 de la ley Nº 20.481, de Presupuestos del Sector Público para el año 2011.
 
-Para el cumplimiento de sus funciones, el panel de expertos conformado de la forma señalada en el considerando anterior, se reunió en cuatro sesiones efectuadas durante los días 17 y 30 de diciembre de 2010 y 17 y 27 de enero de 2011. Durante las referidas sesiones, el panel de expertos entregó las recomendaciones técnicas de que dan cuenta las actas de cada una de las sesiones, recomendaciones que el Ejecutivo ha tenido en cuenta para efectos de dictar el presente Reglamento,
+Que el referido reglamento ha sido modificado por los decretos supremos Nos 59, 80 y 91, todos de 2011, del Ministerio de Planificación.
+
+Que la glosa 07 de la partida 21.01.05, de la ley Nº 20.557, de Presupuestos para el Sector Público para el año 2012, dispone recursos para continuar implementando el Programa, estableciendo que éste se ejecutará conforme al decreto supremo Nº 29, de 2011, del Ministerio de Planificación, y sus modificaciones.
+
+Que se hace necesario modificar el referido decreto supremo para que sea aplicable durante el año 2012, de conformidad a lo dispuesto en la citada glosa 07.
 
 Decreto:
 
-Apruébase el siguiente Reglamento que establece normas para la implementación del programa "Bonificación al Ingreso Ético Familiar" establecido en la Partida 21, Capítulo 01, Programa 05, Subtítulo 24, Ítem 03, Asignación 010, Glosa 08 de la ley Nº 20.481, de Presupuestos del Sector Público para el año 2011:
+#### Artículo único
+
+Modifícase el decreto supremo Nº 29, de 2011, del Ministerio de Planificación, que Aprueba el Reglamento que Establece Normas para la Implementación del Programa "Bonificación al Ingreso Ético Familiar" establecido en la partida 21, capítulo 01, programa 05, subtítulo 24, ítem 03, asignación 010, glosa 08 de la ley Nº 20.481, de Presupuestos del Sector Público para el año 2011, en el siguiente sentido:
+
+1) Sustitúyense sus Títulos Primero, Segundo y Tercero, por los siguientes:
 
 ## Título Primero
 
@@ -240,102 +248,28 @@ Los requisitos señalados en el inciso anterior podrán ser acreditados por cual
 
 El incremento de este artículo ascenderá a la cantidad única y total de $50.000.- (cincuenta mil pesos) por beneficiario y se pagará por una sola vez, a más tardar, en el mes de mayo de 2013.
 
-Las familias que durante el año 2012 hayan dejado de formar parte del Programa Bonificación al Ingreso Ético Familiar, tendrán derecho a este incremento cumpliendo con los requisitos señalados en este artículo.
+Las familias que durante el año 2012 hayan dejado de formar parte del Programa Bonificación al Ingreso Ético Familiar, tendrán derecho a este incremento cumpliendo con los requisitos señalados en este artículo.".
 
-## Título Cuarto
+2) Sustitúyase la letra a) del artículo 19 por la siguiente:
 
-Nómina de beneficiarios, difusión y supervisión de la Bonificación
+"a) Por la pérdida de cualquiera de los requisitos
 
-#### Artículo 14
-
-El Ministerio de Planificación concederá mensualmente la Bonificación, para lo cual fijará, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", la nómina de quienes son beneficiarios, las personas receptoras de la misma y su RUN, señalará el monto total de la Bonificación que corresponderá pagar a cada familia y ordenará el pago de la Bonificación.
-
-Copia del decreto señalado en el inciso anterior, será remitida al Instituto de Previsión Social oportunamente.
-
-#### Artículo 15
-
-Los beneficiarios de la Bonificación serán notificados por cualquiera de los medios de notificación establecidos en la ley Nº 19.880.
-
-Sin perjuicio de lo dispuesto en el inciso anterior, para consulta de los interesados, el Ministerio de Planificación deberá incluir en su página web información respecto de la Bonificación, señalando quienes son sus beneficiarios y su RUN, la persona receptora de la misma, el monto al cual tienen derecho, los lugares de pago y la fecha a contar de la cual podrán cobrar dicho beneficio.
-
-#### Artículo 16
-
-El Ministerio de Planificación podrá en cualquier oportunidad y en conformidad a la normativa vigente, revisar el otorgamiento de la Bonificación, en especial, podrá actualizar o validar la información contenida en la Ficha de Protección Social de las familias beneficiarias de la Bonificación, mediante los antecedentes que le proporcionen los organismos públicos correspondientes.
-
-## Título Quinto
-
-Entidad pagadora y persona receptora de la bonificación
-
-#### Artículo 17
-
-La Bonificación se pagará por el Instituto de Previsión Social a cada familia beneficiaria, identificada de conformidad a lo establecido en el artículo 14.
-
-En caso que la Bonificación no fuere cobrada por la persona receptora del pago durante tres meses consecutivos, el Instituto de Previsión Social deberá comunicar tal circunstancia, mediante oficio dirigido al Ministro de Planificación, con el objeto de que éste adopte las medidas necesarias para verificar y, de ser procedente, revocar la mantención de la misma.
-
-#### Artículo 18
-
-El pago de esta Bonificación se efectuará a la persona que esté recibiendo el Bono de Protección o el Bono de Egreso, en caso que exista una sola persona en la familia con derecho a percibir estos bonos.
-
-En el caso en que no exista un único autorizado para percibir el Bono de Protección o el Bono de Egreso dentro de la familia o que la familia no se encuentre percibiendo alguno de los bonos señalados precedentemente, el pago se efectuará a la persona que viva sola o al integrante de la familia que corresponda según el siguiente orden de precedencia:
-
-1º La madre de los hijos menores o con discapacidad o de los que pudieren causar el Subsidio Familiar de la ley Nº 18.020.
-
-2º La mujer, sea ésta la jefa de familia o la pareja del jefe de familia.
-
-3º La mujer que desempeña la función de dueña de casa, siempre que sea mayor de 18 años al momento del pago.
-
-4º Sólo en los casos de familias donde ningún adulto sea de sexo femenino mayor de 18 años, la Bonificación podrá ser pagada a un miembro de la familia de sexo masculino mayor de 18 años de edad al momento del pago.
-
-5º En caso que no sea aplicable ninguna de las anteriores, la Bonificación podrá ser pagada a quien tenga a su cuidado un menor de edad respecto de quien se le haya otorgado judicialmente, en forma temporal o permanente, el cuidado personal.
-
-## Título Sexto
-
-Extinción de la Bonificación y procedimiento de la reclamación
-
-#### Artículo 19
-
-La Bonificación se dejará de percibir por alguna de las siguientes causales:
-
-a) Por la pérdida de cualquiera de los requisitos siguientes:
+siguientes:
 
 i) Formar parte de Chile Solidario.
 
 ii) Encontrarse en situación de extrema pobreza.
 
-En estos casos, la Bonificación se extinguirá desde el mes siguiente en que se dejó de cumplir cualquiera de los requisitos antes señalados.
+En estos casos, la Bonificación se extinguirá desde el mes siguiente en que se dejó de cumplir cualquiera de los requisitos antes señalados.".
 
-b) Por el no cobro del beneficio durante un período de 3 meses continuados, sin causa justificada. En este caso, la Bonificación se extinguirá a contar del primer mes de no cobro.
+3) Incorpórase, a continuación de su artículo 23, el siguiente texto nuevo:
 
-Recibida la comunicación a que se refiere el inciso segundo del artículo 17, el Ministerio de Planificación enviará al interesado carta certificada al domicilio registrado en su Ficha de Protección Social. El interesado tendrá un plazo de 10 días hábiles contados desde la fecha de la recepción de la notificación para exponer los fundamentos que justificaron el no cobro durante este periodo. Transcurrido este plazo, haya o no recibido respuesta, el Ministerio de Planificación resolverá al respecto y procederá a emitir un decreto fundado expedido bajo la fórmula "Por orden del Presidente de la República", en el que hará constar si procede o no el pago, conforme a los hechos verificados. Dicho acto administrativo será notificado personalmente o por carta certificada al interesado e informado al Instituto de Previsión Social.
-
-#### Artículo 20
-
-La revisión de los actos administrativos a que se refiere el presente Reglamento se efectuará de conformidad a lo previsto en la ley Nº 19.880.
-
-Con todo, para efectos de este Programa, las modificaciones que soliciten quienes se encuentren percibiendo la Bonificación, con motivo de la variación del número de integrantes de la familia, podrán actualizar sus antecedentes en la Ficha de Protección Social, adjuntando el certificado emitido por el órgano público competente que acredite la relación de parentesco por consanguinidad respecto de la persona titular de la Ficha de Protección Social o de la persona receptora de la Bonificación conforme al artículo 18. En caso que el solicitante acredite con los documentos antes señalados, que ha cambiado su composición familiar y tenga el derecho a la Bonificación por un nuevo integrante, se le pagará a partir del mes siguiente a la actualización de sus antecedentes en la Ficha de Protección Social.
-
-## Título Séptimo
-
-Disposiciones varias
-
-#### Artículo 21
-
-El Ministerio de Hacienda, a través de la Dirección de Presupuestos, realizará la evaluación de impacto del Programa.
-
-#### Artículo 22
-
-Los beneficiarios de la Bonificación estarán sujetos a las responsabilidades y sanciones establecidas en el artículo 10 de la ley Nº 19.949, en cuanto corresponda.
-
-#### Artículo 23
-
-En lo no previsto por el presente Reglamento se aplicarán, en lo que corresponda, supletoriamente las leyes Nº 19.880 y Nº 19.949, y el decreto supremo Nº 235, de 2004, del Ministerio de Planificación.
-
-DISPOSICIONES TRANSITORIAS
+"DISPOSICIONES TRANSITORIAS
 
 #### Artículo único
 
-El decreto supremo Nº 29, de 2011, del Ministerio de Planificación, vigente al 31 de diciembre de 2011, continuará aplicándose a los beneficiarios del Programa del año 2011, a que se refiere la glosa 08 de la partida 21.01.05 de la ley Nº 20.481, respecto a los componentes e incrementos de la bonificación que se hubieren devengado durante esa anualidad y deban pagarse y/o acreditar los requisitos correspondientes durante el año 2012.
+El decreto supremo Nº 29, de 2011, del Ministerio de Planificación, vigente al 31 de diciembre de 2011, continuará aplicándose a los beneficiarios del Programa del año 2011, a que se refiere la glosa 08 de la partida 21.01.05 de la ley Nº 20.481, respecto a los componentes e incrementos de la bonificación que se hubieren devengado durante esa anualidad y deban pagarse y/o acreditar los requisitos correspondientes durante el año 2012.".
 
-Anótese, tómese razón y publíquese.- RODRIGO HINZPETER KIRBERG, Vicepresidente de la República.- Felipe Kast Sommerhoff, Ministro de Planificación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Planificación.- Julio Dittborn Cordua, Ministro de Hacienda (S).
 
-Lo que comunico a Ud. para su conocimiento.- Soledad Arellano Schmidt, Subsecretaria de Planificación.
+Lo que comunico a Ud. para su conocimiento.- M. Soledad Arellano Schmidt, Subsecretaria de Planificación.
