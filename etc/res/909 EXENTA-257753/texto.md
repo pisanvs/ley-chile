@@ -12,7 +12,7 @@ Resuelvo:
 
 1. Establécese la obligatoriedad de portar diariamente, excepto sábados, domingos y festivos, en los taxis colectivos adscritos a servicios urbanos en la comuna de Pichilemu, el documento denominado "Hoja de Control Diario", que en Anexo se adjunta y forma parte de la presente resolución.
 
-2. Asimismo los servicios señalados precedentemente deberán registrar en el documento establecido en el numeral anterior, la información correspondiente al "Registro de Horarios de Salida y Llegada"; a lo menos en el horario comprendido entre las 08:00 y las 20:00 horas.
+2. Asimismo, los servicios señalados precedentemente deberán registrar en el documento establecido en el numeral anterior, la información correspondiente al "Registro de Horarios de Salida y Llegada", en el horario comprendido entre las 9:00 - 13:00 horas y las 15:00 - 19:00 horas.
 
 3. Las características de diseño y los datos que se contendrán en el documento "Hoja de Control Diario", serán los siguientes:
 
