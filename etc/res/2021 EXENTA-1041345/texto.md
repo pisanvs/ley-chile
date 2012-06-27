@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº2.021 EXENTA, DE 2012
+
+Por resolución Nº2.021 exenta, de 29 de mayo de 2012, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el procedimiento para materializar las solicitudes de modificación de los recorridos o bucles de Servicios de Taxis Colectivos Urbanos presentadas por los concesionarios de los Servicios de Taxis Colectivos en Vías de la provincia de Santiago, y las comunas de Puente Alto y San Bernardo, proceso de Licitación 2010, previa aprobación del Secretario Regional de la solicitud del interesado, mediante formulario dispuesto al efecto y cumplimiento de los requisitos que allí se indican.
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
