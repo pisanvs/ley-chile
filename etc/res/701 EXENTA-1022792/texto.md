@@ -24,6 +24,22 @@ Además, en aquellos casos de reparación en Bienes Comunes Edificados de los Co
 
 3. El monto de recursos que se destinaran para la selección de los proyectos postulantes en los concursos establecidos en el resuelvo número 1 de esta resolución, se distribuirán regionalmente, según el siguiente cuadro, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución del Ministro de Vivienda y Urbanismo:
 
+Región Total UF
+
+Valparaíso 113.697
+
+L.B. O'Higgins 673.403
+
+Maule 496.328
+
+Araucanía 51.325
+
+Metropolitana 376.106
+
+Bio – Bio 770.464
+
+Total 2.481.323
+
 El número de proyectos seleccionados en cada Región alcanzara hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 4. En caso que en alguna de las selecciones los recursos definidos no alcanzaren para atender la totalidad de las postulaciones ingresadas, la selección se efectuará considerando el orden de prelación que determine el puntaje de los postulantes, hasta enterar el total de los recursos disponibles.
@@ -114,9 +130,13 @@ j) Los proyectos postulantes en Condominios de Viviendas Sociales que afecten Bi
 
 8. El monto del subsidio para el pago de Asistencia Técnica y de Inspección Técnica de Obras que obtendrá cada familia beneficiada, será el que corresponda al tipo de Proyecto de Mejoramiento de que se trate, conforme a lo establecido en la resolución N° 533 (V. y U.), de 1997. No obstante lo anterior, tratándose de Proyectos de Seguridad de la Vivienda que requieran de un especialista estructural y de Proyectos de Habitabilidad de la Vivienda que incluyan la intervención de instalaciones sanitarias, eléctricas o de gas y que requieran ser ejecutados por un profesional competente en la materia, se podrá incrementar con 1 Unidad de Fomento por beneficiario los montos indicados para el área Organización de la Demanda y Postulación de Proyectos.
 
-En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial se utiliza para más de una vivienda, sea que se postule individual o colectivamente, e independientemente de que los informes se ingresen en una misma o en varias instancias, el incremento de 3 UF señalado en la tabla precedente se pagará por una de las viviendas, ascendiendo respecto de las siguientes viviendas a 0,5 UF por familia, sin importar el tamaño del proyecto o la cantidad de proyectos individuales o colectivos en los cuales se utilice dicho Informe.
+En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial se utiliza para más de una vivienda, sea que se postule individual o colectivamente, e independientemente de que los informes se ingresen en una misma o en varias instancias, el incremento de 3 UF señalado en la tabla contenida en inciso tercero se pagará por una de las viviendas, ascendiendo respecto de las siguientes viviendas a 0,5 UF por familia, sin importar el tamaño del proyecto o la cantidad de proyectos individuales o colectivos en los cuales se utilice dicho Informe.
 
 Excepcionalmente, para el caso de proyectos de Seguridad de la Vivienda y para proyectos de Habitabilidad de la Vivienda, emplazados en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas, o Pintorescas, o se trate de Inmuebles de Conservación Histórica o Monumentos Históricos, o incluso áreas de interés patrimonial, definidas por resolución fundada de la SEREMI de Vivienda y Urbanismo, para aquellas localidades en que no existe una declaración y se reconozca un valor patrimonial arquitectónico que preservar, los valores de Asistencia Técnica a los que hace mención la resolución Nº 533 (V. y U.), de 1997, serán incrementados conforme a los ítems y valores descritos en la siguiente tabla:
+
+En casos excepcionales, previa resolución fundada, cada Serviu podrá reducir, reemplazar o establecer una o más de las actividades a que se refiere la tabla precedente, en atención a las particularidades propias del proyecto, manteniendo el monto máximo a asignar en un total de 11 UF.
+
+Con todo, el informe favorable del Revisor Estructural, aludido en el número 5 de la tabla precedente, no podrá en ningún caso eliminarse o reemplazarse, manteniéndose el honorario fijado en dicha tabla para esa actividad.
 
 Se entenderá por proyectos de Seguridad de la Vivienda aquellos donde la mayor parte del monto del subsidio vaya destinado a partidas de mejoramiento estructural de la vivienda, aun cuando el resto de las partidas corresponda a otro tipo de obras de mejoramiento.
 
@@ -125,8 +145,6 @@ En el caso de estos proyectos, el incremento por servicios indicado en el inciso
 El pago a efectuar por concepto de esta Asistencia Técnica Patrimonial se calculará de acuerdo a los montos que correspondan según las UF indicadas para cada ítem establecido en la tabla precedente, las que se adicionarán a los montos regulares de la asistencia técnica, definida según la resolución Nº 533 (V. y U.), de 1997. Los montos adicionales indicados en dicha tabla se pagarán en dos parcialidades, esto es, 50% contra el cobro del primer cupón, correspondiente a Organización de la Demanda y Postulación de Proyecto, y el 50% final contra el pago del segundo cupón, por concepto de Gestión de Proyecto e Inspección Técnica de Obras. Para efectuar el cobro de los ítems realizados se requerirá presentar los verificadores indicados en la tabla precedente.
 
 9. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos para el Programa regulado por el D. S. N° 255 (V. y U.), de 2006, para el año 2011.
-
-> **Nota.** NOTA 1 El Número 2° de la Resolución 3082 exenta, Vivienda, publicada el 27.05.2011, agrega al cuadro inserto en el Resuelvo 3 de la presente norma, la Región del Biobío asignando un total de 770.464 Unidades de Fomento. Asimismo, modifica la línea correspondiente al total de Unidades de Fomento, quedando esta en 2.481.323 Unidades de Fomento.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
