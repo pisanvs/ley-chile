@@ -1030,13 +1030,7 @@ t) Fiscalizar el cumplimiento de las demás normas e instrumentos de carácter a
 
 u) Proporcionar asistencia a sus regulados para la presentación de planes de cumplimiento o de reparación, así como para orientarlos en la comprensión de las obligaciones que emanan de los instrumentos individualizados en el artículo 2º de esta ley.
 
-v) Administrar un mecanismo de evaluación y verificación de cumplimiento, respecto de criterios de sustentabilidad y contribución a la protección del patrimonio ambiental del país, de conformidad con lo dispuesto en el artículo 48 ter de la ley Nº 19.300.
-
-Para estos efectos, la Superintendencia administrará un sistema de acreditación de personas naturales y jurídicas que realicen estas evaluaciones y verificaciones. El reglamento determinará los requisitos, condiciones y procedimientos necesarios para su administración y funcionamiento.
-
-Las infracciones derivadas de este sistema, así como de las personas acreditadas, se sancionarán de conformidad con lo dispuesto en el Título III de la presente ley.
-
-w) Las demás funciones y atribuciones que le asigne la ley.
+v) Las demás funciones y atribuciones que le asigne la ley.
 
 ### Párrafo 2º
 
