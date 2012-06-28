@@ -1,26 +1,20 @@
-SUSTITUYE LISTA DE BIENES DE CAPITAL A QUE SE REFIERE EL Nº 10, LETRA B, DEL ARTICULO 12, DEL DECRETO LEY 825, DE 1974
+SUSTITUYE LISTA DE BIENES DE CAPITAL A QUE SE REFIERE EL N° 10, LETRA B, DEL ARTÍCULO 12 DEL DECRETO LEY N° 825, DE 1974
 
-Núm. 370.- Santiago, 14 de diciembre de 2006.- Visto:
+Núm. 181.- Santiago, 30 de diciembre de 2011.- Vistos: Lo dispuesto en el decreto supremo N° 370, de 2006, del Ministerio de Economía, Fomento y Reconstrucción; en el decreto N° 1.148, de 2011, del Ministerio de Hacienda, y en la resolución N° 1.600, de 2008, de la Contraloría General de la República.
 
-El decreto supremo Nº 204, de 2002, del Ministerio de Economía, Fomento y Reconstrucción, que contiene la lista de máquinas y equipos a que se refiere el Nº 10, letra B, del artículo 12, del decreto ley Nº 825, de 1974;
-
-El decreto de Hacienda Nº 997, de 11 de septiembre de 2006, que modifica el Arancel Aduanero Nacional, a contar del 1º de enero de 2007;
-
-El oficio Nº 20.560, de 14 de noviembre de 2006, del Director Nacional de Aduanas, mediante el cual se propone el texto del presente decreto.
-
-Considerando: La necesidad de adecuar los desgloses arancelarios y la designación de las mercancías comprendidas en la lista de bienes de capital establecida por el decreto del Ministerio de Economía, Fomento y Reconstrucción al nuevo Arancel Aduanero, así como hacer algunos ajustes a la lista,
+Considerando: La necesidad de adecuar los desgloses arancelarios y la designación de las mercancías comprendidas en la lista de bienes de capital establecida por el decreto supremo N°370, de 2006, del Ministerio de Economía, Fomento y Reconstrucción al nuevo Arancel Aduanero, así como hacer algunos ajustes a la lista.
 
 Decreto:
 
 #### Artículo único
 
-Sustitúyese la lista de máquinas y equipos establecida por el decreto del Ministerio de Economía, Fomento y Reconstrucción Nº 204 de 2002, por la contenida en el anexo del presente decreto que forma parte integrante de él.
+Sustitúyese la lista de máquinas y equipos establecida por el decreto N° 370, de 2006, del Ministerio de Economía, Fomento y Reconstrucción por la contenida en el anexo del presente decreto que forma parte integrante de él.
 
-Tómese razón, comuníquese y publíquese.- MICHELLE BACHELET JERIA, Presidenta de la República.- Alejandro Ferreiro Yazigi, Ministro de Economía, Fomento y Reconstrucción.
+Tómese razón, comuníquese y publíquese.- SebastiÁn Piñera EcheNique, Presidente de la República.- Tomás Flores Jaña, Ministro (S) de Economía, Fomento y Turismo.
 
-Lo que transcribe para su conocimiento.- Saluda atentamente a usted, Ana María Correa López, Subsecretaria de Economía.
+Lo que transcribe, para su conocimiento.- Saluda atentamente a usted, Tomás Flores Jaña, Subsecretario de Economía y Empresas de Menor Tamaño.
 
-A N E X O
+ANEXO
 
 ITEM DESCRIPCION
 
