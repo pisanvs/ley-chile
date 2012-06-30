@@ -1,6 +1,6 @@
 OTORGA CONCESIÓN DE ACUICULTURA
 
-1.- Resolución 3.832, del 7 de noviembre de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Cultivos Marinos del Pacífico S.A., sociedad chilena, RUT 96.633.150-K, con domicilio en El Golf 99, piso Nº 10, Santiago, concesión de acuicultura de porción de agua y fondo de mar, solicitud 205103133, del 24 de junio de 2005, ubicada al Sureste de Isla Quenac, Sector 4, comuna de Quinchao, provincia de Chiloé, X Región de Los Lagos, individualizada en la ubicación señalada en los Planos 881-2011/AC y 882-2011/AC, visados por la Autoridad Marítima de Tongoy.
+1.- Resolución 3.832, del 7 de noviembre de 2011, del Ministerio de Defensa Nacional, Subsecretaría para las Fuerzas Armadas, otorgó a Cultivos Marinos del Pacífico S.A., sociedad chilena, RUT 96.633.150-K, con domicilio en El Golf 99, piso Nº 10, Santiago, concesión de acuicultura de porción de agua y fondo de mar, solicitud 205103133, del 24 de junio de 2005, ubicada al Sureste de Isla Quenac, Sector 4, comuna de Quinchao, provincia de Chiloé, X Región de Los Lagos, individualizada en la ubicación señalada en los Planos 881-2011/AC y 882-2011/AC, visados por la Autoridad Marítima de Achao.
 
 2.- Superficie 42,67 hectáreas, delimitada por las siguientes coordenadas geográficas:
 
