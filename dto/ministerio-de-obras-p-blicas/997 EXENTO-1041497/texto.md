@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº997 de 31 de mayo de 2012, se modificó Decreto MOP Exento Nº1158 de 30 de agosto de 2010, en los siguientes aspectos: en el numeral 2°, el propietario del predio afecto a expropiación es don DANIEL ENRIQUE VERA AGUILAR y, en el numeral 3°, se autoriza el convenio ad referéndum directo de precio, suscrito por dicho propietario y el Director Regional de Vialidad de la Región del Bío Bío, con fecha 15 de noviembre de 2011.
+
+Fiscal del Ministerio de Obras Públicas.
