@@ -1,0 +1,7 @@
+DISPONE EXPROPIACIÓN DE INMUEBLES QUE SEÑALA
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 893 de 14 junio 2012, Serviu Región de Tarapacá, conforme a DL Nº 1.523 de 1976 y Nº 2.186 de 1978 y DS Nº 355 de 1976, 131 de 2002 y resolución 277 del 21 de marzo de 2011, todos de Vivienda y Urbanismo, dispuso expropiación del inmueble ubicado en Iquique, Pasaje 1 Nº 387 sitio 17, rol de avalúo 82-17, de una superficie de 87,15 m² aproximadamente, de presunto dominio de Sergio Narváez Jeria. Comisión integrada por peritos señores Juan Tepper Lavanderos, Ingeniero Civil Industrial, Gastón González Kemnis y Moisés Gatica González, Constructores Civiles, según informe tasación de 30 enero 2012, fijó monto provisional de indemnización en $41.000.000.- pagadera contado.
+
+Directora Serviu Región de Tarapacá (S).
