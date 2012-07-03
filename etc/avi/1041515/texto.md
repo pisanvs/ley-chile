@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.288 de 15 de junio de 2012, se publicó extracto del Decreto Exento MOP N°1001, de 31 de mayo de 2012, con el error que salva a continuación: II Cuerpo, página cuarenta y dos, quinta columna, donde dice lote de terreno N°201-6 debe decir 20L6, y en la parte donde se individualiza el monto provisional se menciona nuevamente lote 2016 siendo 20-L6.
+
+Fiscal del Ministerio de Obras Públicas.
