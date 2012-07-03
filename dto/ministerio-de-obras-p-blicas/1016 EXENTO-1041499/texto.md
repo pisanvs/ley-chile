@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1016, de 15 de junio de 2012, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº446, de 28 de marzo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº13, expropiado con motivo de la obra "Conservación Global de Varios Caminos, Sector Norte de la Provincia de Osorno II Etapa", Comuna de San Juan de la Costa, Provincia de Osorno. Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 25 de octubre de 2007, en la suma de $145.800.-
+
+Fiscal del Ministerio de Obras Públicas.
