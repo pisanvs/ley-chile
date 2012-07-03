@@ -1,0 +1,3 @@
+Por Decreto Exento Nº946, de 31 de mayo de 2012, se modificó el numeral primero del decreto MOP (E) N°653, de 30 de abril de 2009, en el sentido de que se autorizó nuevo plano y cuadro de expropiación respecto de la expropiación del lote de terreno N°1, correspondiente a la obra pública "Construcción y Conservación Pequeño Aeródromo Yendegaia". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7º del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
