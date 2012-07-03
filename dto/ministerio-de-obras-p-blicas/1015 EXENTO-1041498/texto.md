@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1015, de 15 de junio de 2012, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº2100, de 31 de agosto de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº61, expropiado con motivo de la obra "Mejoramiento Ruta 5 W15 – 175, Sector Ruta 5 – Pumanzano, Camino Ruta 5 – Pumanzano". Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 07 de marzo de 2008, complementada por acta de fecha 31 de mayo de 2010, en la suma de $336.500.-
+
+Fiscal del Ministerio de Obras Públicas.
