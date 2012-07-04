@@ -122,7 +122,7 @@ El Director Nacional podrá liberar del pago de tarifas y derechos cuando el con
 
 o) Autorizar la ejecución de trabajos extraordinarios y labores inspectivas en horarios que excedan la jornada normal, con cargo a las tarifas adicionales que deban pagar los usuarios.
 
-p) Aceptar donaciones, legados y herencias a favor del Servicio, estas últimas con beneficio de inventario, y acordar transacciones judiciales o extrajudiciales, acuerdos de reorganización a que se refiere la Ley de Reorganización y Liquidación de Activos de Empresas y Personas y someter asuntos a compromisos. En el caso de convenios internacionales, otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo. Asimismo, le corresponderá asumir la representación extrajudicial y judicial del Servicio con las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil, pudiendo designar mandatario al efecto.
+p) Aceptar donaciones, legados y herencias a favor del Servicio, estas últimas con beneficio de inventario, y acordar transacciones judiciales o extrajudiciales, convenios a que se refiere la Ley de Quiebras y someter asuntos a compromisos. En el caso de convenios internacionales, otorgar a los árbitros facultades de arbitradores en cuanto al procedimiento y fallo. Asimismo, le corresponderá asumir la representación extrajudicial y judicial del Servicio con las facultades de ambos incisos del artículo 7° del Código de Procedimiento Civil, pudiendo designar mandatario al efecto.
 
 q) Fijar domicilios especiales del Servicio, y
 

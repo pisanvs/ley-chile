@@ -62,6 +62,10 @@ o Cuando las leyes autoricen el racionamiento del beneficio de animales, éste d
 
 o Los comisos y las multas que se establecen en la presente ley quedarán a beneficio de la Municipalidad respectiva".
 
+#### Artículo 8
+
+° Para los efectos del control de identidad, Carabineros de Chile estará facultado para revisar los vehículos que transiten en zonas rurales o que pasen por tenencias o retenes, debiendo exigir la boleta, factura, guía de despacho o el formulario de movimiento animal, según sea el caso.
+
 Y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como ley de la República.
 
 Santiago, veintiséis de Julio de mil novecientos cincuenta y cuatro.- CARLOS IBAÑEZ DEL CAMPO.- Jorge Silva G.

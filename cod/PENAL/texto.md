@@ -3674,33 +3674,51 @@ También será castigado con presidio menor en su grado mínimo y multa de cinco
 
 #### Artículo 448 bis
 
-El que robe o hurte uno o más caballos o bestias de silla o carga, o especies de ganado mayor, menor o porcino, comete abigeato y será castigado con las penas señaladas en los Párrafos 2, 3 y 4.
+El que robe o hurte uno o más caballos o bestias de silla o carga, o especies de ganado mayor o menor, comete abigeato y será castigado con las penas señaladas en los Párrafos 2, 3 y 4.
+
+Asimismo, se considerará autor del delito de abigeato al que sin el consentimiento de quienes pueden disponer del ganado:
+
+1°. Altere o elimine marcas o señales en animales ajenos.
+
+2°. Marque, señale, contramarque o contraseñale animales ajenos.
+
+3°. Expida o porte certificados falsos para obtener guías o formularios o haga conducir animales ajenos sin estar debidamente autorizado.
 
 #### Artículo 448 ter
 
-Una vez determinada la pena que correspondería a los autores, cómplices y encubridores de abigeato sin el requisito de tratarse de la substracción de animales y considerando las circunstancias modificatorias de responsabilidad penal concurrentes, el juez deberá aumentarla en un grado.
+Una vez determinada la pena que correspondería a los autores, cómplices y encubridores de abigeato sin el requisito de tratarse de la substracción de animales y considerando las circunstancias modificatorias de responsabilidad penal concurrentes, el juez deberá aumentarla en un grado y aplicará, en todo caso, la pena de comiso en los términos del artículo 31 de este Código.
 
-Cuando las especies substraídas tengan un valor que exceda las cinco unidades tributarias mensuales, se aplicará, además, la accesoria de multa de diez a cincuenta unidades tributarias mensuales.
+Cuando las especies substraídas tengan un valor que exceda las cinco unidades tributarias mensuales, se aplicará, además, la accesoria de multa de setenta y cinco a cien unidades tributarias mensuales.
 
 Si la pena consta de dos o más grados, el aumento establecido en el inciso primero se hará después de determinar la pena que habría correspondido al imputado, con prescindencia del requisito de tratarse de la substracción de animales.
 
-Será castigado como culpable de abigeato el que beneficie o destruya una especie para apropiarse de toda ella o de alguna de sus partes.
+Será castigado como autor de abigeato el que beneficie o destruya una especie para apropiarse de toda ella o de alguna de sus partes.
 
 La regla del inciso primero de este artículo se observará también en los casos previstos en el artículo 448, si se trata de animales comprendidos en el artículo anterior.
 
 #### Artículo 448 quáter
 
-Se presumirá autor de abigeato aquél en cuyo poder se encuentren animales o partes de los mismos, referidos en este Párrafo, cuando no pueda justificar su adquisición o legítima tenencia y, del mismo modo, al que sea habido en predio ajeno, arreando, transportando, manteniendo cautivas, inmovilizadas o maniatadas dichas especies animales. El porte, en dichas circunstancias, de armas, herramientas o utensilios comúnmente empleados en estas faenas, se castigará de conformidad con lo establecido en el artículo 445.
+Se castigará como autor de abigeato a aquel en cuyo poder se encuentren animales o partes de los mismos referidos en este Párrafo, cuando no pueda justificar su adquisición o legítima tenencia y, del mismo modo, al que sea habido en predio ajeno, arreando, transportando, manteniendo cautivas, inmovilizadas o maniatadas dichas especies animales. El porte de armas, herramientas o utensilios comúnmente empleados para el faenamiento de animales por quien no diere descargo suficiente de su tenencia, se castigará de conformidad a lo establecido en el artículo 445.
 
 Las marcas registradas, señales conocidas, dispositivos de identificación individual oficial registrados ante el Servicio Agrícola y Ganadero u otras de carácter electrónico o tecnológico puestas sobre el animal, constituyen presunción de dominio a favor del dueño de la marca o señal.
 
-Para los efectos previstos en el inciso primero, en los casos de traslado de animales o de partes de los mismos, realizado en vehículos de transporte de carga, Carabineros de Chile deberá exigir, además de la guía de libre tránsito, la boleta, factura o guía de despacho correspondiente, a efectos de acreditar el dominio, posesión o legítima tenencia de las especies. Ante la imposibilidad de acreditar dicho dominio, posesión o legítima tenencia, según corresponda, por carecer de los mencionados documentos o por negarse a su exhibición, los funcionarios policiales se incautarán de las especies, sus partes y del medio de transporte, dando aviso a la fiscalía correspondiente para el inicio de la investigación que proceda y al Servicio de Impuestos Internos ante un eventual delito tributario.
+Para los efectos previstos en el inciso primero, en los casos de traslado de animales o de partes de los mismos, realizado en vehículos de transporte de carga, Carabineros de Chile deberá exigir, además del formulario de movimiento animal, la boleta, factura o guía de despacho correspondiente, a efectos de acreditar el dominio, posesión o legítima tenencia de las especies. Ante la imposibilidad de acreditar dicho dominio, posesión o legítima tenencia, según corresponda, por carecer de los mencionados documentos o por negarse a su exhibición, los funcionarios policiales se incautarán de las especies, sus partes y del medio de transporte, dando aviso a la fiscalía correspondiente para el inicio de la investigación que proceda, al Servicio de Impuestos Internos ante un eventual delito tributario, a la autoridad sanitaria competente para que instruya sumario sanitario y al Servicio Agrícola y Ganadero para determinar la eventual existencia de infracciones a la normativa agropecuaria.
+
+Ante la sospecha o la comisión de los delitos a que se refiere este párrafo, el Ministerio Público podrá, en lo pertinente, autorizar la correspondiente investigación bajo la técnica de entrega vigilada o controlada, en los términos regulados en el Título II, Párrafo 1°, de la ley N° 20.000, que sanciona el tráfico ilícito de estupefacientes y sustancias sicotrópicas.
 
 #### Artículo 448
 
 quinquies.
 
-El que se apropie de las plumas, pelos, crines, cerdas o cualquier elemento del pelaje de animales ajenos, por cualquier medio que ello se realice, será castigado con presidio menor en sus grados mínimo a medio.
+El que se apropie de las plumas, pelos, crines, cerdas, lanas o cualquier elemento del pelaje de animales ajenos, por cualquier medio que ello se realice, será castigado con presidio menor en sus grados mínimo a medio.
+
+#### Artículo 448
+
+sexies.
+
+Los vehículos motorizados o de otra clase, las herramientas y los instrumentos utilizados en la comisión del delito de abigeato, caerán en comiso.
+
+Durante el curso del procedimiento dichos bienes serán incautados de conformidad a las reglas generales, sin perjuicio del derecho establecido en el artículo 189 del Código Procesal Penal.
 
 ### V. Disposiciones comunes a los cuatro Párrafos anteriores
 
@@ -3783,6 +3801,8 @@ Para la determinación de la pena aplicable el tribunal tendrá especialmente en
 Cuando el objeto de la receptación sean cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
+
+Tratándose del delito de abigeato la multa establecida en el inciso primero será de setenta y cinco a cien unidades tributarias mensuales y el juez podrá disponer la clausura definitiva del establecimiento.
 
 ### VI. De la usurpación
 

@@ -118,9 +118,9 @@ El Director de Agricultura y Pesca, los Ingenieros Agrónomos Zonales y Provinci
 
 El Presidente de la República, por decreto supremo expedido a través del Ministerio de Agricultura, podrá prohibir total o parcialmente o limitar el beneficio de animales y aves de cualquier especie.
 
-Todo aquél que infringiere cualesquiera de las disposiciones que dicte el Presidente de la República, en virtud del presente artículo, será sancionado con una multa equivalente al valor de hasta diez sueldos vitales anuales de los empleados particulares de la industria y el comercio del departamento de Santiago. Sin perjuicio de la aplicación de esta multa, el Servicio Agrícola y Ganadero decomisará los productos y subproductos provenientes del beneficio realizado con infracción a dichas disposiciones.
+Todo aquel que infringiere las disposiciones que dicte el Presidente de la República, en virtud del presente artículo, será sancionado con una multa de hasta 100 unidades tributarias mensuales. Sin perjuicio de la aplicación de esta multa, el Servicio Agrícola y Ganadero decomisará los productos y subproductos provenientes del beneficio realizado con infracción a dichas disposiciones.
 
-La aplicación y cobro de las multas a que se refiere el inciso anterior, se ajustarán en todo al procedimiento establecido para el Servicio Agrícola y Ganadero en el artículo 236° de la ley 16.640.
+La aplicación y cobro de multas a que se refiere el inciso anterior, se ajustarán en todo al procedimiento establecido en el Párrafo IV del Título I, de la ley N°18.755, que establece normas sobre el Servicio Agrícola y Ganadero.
 
 Los fondos que se recauden por concepto de las ventas que el Servicio Agrícola y Ganadero realice de los productos y subproductos decomisados, ingresarán a su patrimonio.
 
@@ -218,124 +218,46 @@ El Presidente de la República dictará los reglamentos necesarios para la ejecu
 
 #### Artículo 30° bis
 
-La infracción a los preceptos de este título, será sancionada con multa de uno a diez sueldos vitales mensuales de los empleados particulares de la industria y el comercio del departamento de Santiago en proporción al número de animales que sean marcados en contravención a sus preceptos.
+La infracción a los preceptos de este título, será sancionada con multa de hasta
+
+100 unidades tributarias mensuales en
+
+proporción al número de animales que sean marcados en contravención a sus preceptos.
 
 ## Título Tercero
 
-De las guías de libre tránsito de animales
+De los documentos para el transporte de ganado
 
 #### Artículo 31°
 
-Sólo se podrá transportar ganado por el territorio de la República mediante la guía de tránsito que establece el presente decreto.
+Será obligación del conductor del medio de transporte o el responsable de la carga, ya sea que se realice por caminos públicos, vía férrea, vía fluvial, aérea o marítima, llevar consigo durante el transporte de los animales, el formulario de movimiento animal, que se indica en el artículo siguiente, y entregarlo al destinatario, según lo establezca el Servicio Agrícola y Ganadero.
 
 #### Artículo 32°
 
-No será necesaria la guía de tránsito para el transporte de animales que transiten por caminos públicos, entre terrenos de un mismo propietario, usufructuario o arrendatario, situados dentro de una misma comuna, y tampoco para el transporte de los que pertenezcan a una misma persona o personas, cuya propiedad o propiedades contiguas estén ubicadas en diversas comunas o departamentos, siempre que los caminos públicos se usen para llevar los animales de una parte a otra.
+El Servicio Agrícola y Ganadero establecerá por resolución, los formularios de movimiento animal, sus especificaciones técnicas según especie animal y la forma de obtenerlos. Asimismo, el Servicio Agrícola y Ganadero podrá, en coordinación con otros servicios públicos, establecer formularios conjuntos.
+
+Sin perjuicio de lo establecido en el inciso anterior, los formularios de movimiento animal estarán a disposición de los requirentes y usuarios en general en todas las unidades de Carabineros de Chile y en todas las oficinas del Servicio Agrícola y Ganadero existentes en el territorio nacional. Dichas reparticiones deberán hacer entrega de los formularios de manera expedita.
 
 #### Artículo 33°
 
-Las guías y cuadernos de guías de tránsito, con los sellos y timbres correspondientes al impuesto, serán expedidos por los Tesoreros Comunales y proporcionados a éstos por la Casa de Moneda de Chile, con cargo a la respectiva Tesorería.
+Los dueños, gerentes o empleados de ferias de ganado y mataderos no podrán recibir, rematar ni beneficiar ganado sin que, previamente, hayan recepcionado el o los formularios de movimiento animal respectivos, emitidos en el establecimiento de origen.
 
-Los Tesoreros Comunales que expendan guías o libretos de guías de tránsito que no tengan los sellos de impuestos y la numeración correlativa que establezca el Reglamento, o que no exijan los documentos comprobatorios a que hace referencia el artículo 36°, incurrirán en una multa equivalente a un décimo de sueldo vital mensual, por cada libreto o guía que hayan vendido en tales condiciones.
-
-Para el transporte de animales por los caminos públicos, por ferrocarril, por vía aérea o marítima, será necesaria una guía de tránsito expedida por el Tesorero de la comuna de donde parten los animales.
+Los dueños, gerentes o empleados de ferias y mataderos tendrán la obligación de conservar y entregar los formularios de movimiento animal que comprueben la procedencia del ganado vendido o beneficiado, en la forma y plazo que determine el Servicio Agrícola y Ganadero.
 
 #### Artículo 34°
 
-Si estuviese acéfala la Tesorería Comunal o el Tesorero se negare a emitir una guía de tránsito a las personas que tienen derecho a obtenerlas, conforme a lo dispuesto en el artículo 36° el interesado podrá ocurrir al Gobernador, quien procederá a extenderlas, previa comprobación de las circunstancias exigidas y de la resistencia puesta por el Tesorero, en su caso.
+La feria o matadero que venda o beneficie animales, sin contar con el formulario de movimiento animal respectivo, será sancionado con multa de 1 a 50 unidades tributarias mensuales por cada animal vendido o beneficiado.
 
-El Tesorero que indebidamente se negare a emitir una guía de tránsito incurrirá en una multa de un veinteavo a un décimo de sueldo vital mensual. La multa será regulada teniendo en cuenta el número y clase de animales cuyo transporte se haya entorpecido.
+La aplicación y cobro de la multa a que se refiere el inciso anterior, se ajustará al procedimiento establecido en el Párrafo IV del Título I, de la ley N° 18.755, que establece normas sobre el Servicio Agrícola y Ganadero.
+
+Lo anterior, sin perjuicio del derecho del dueño de los animales a demandar de indemnización de perjuicios en forma breve y sumaria.
 
 #### Artículo 35°
 
-Los dueños, gerentes o empleados de ferias y mataderos públicos o particulares no podrán rematar ni beneficiar ningún animal sin tener a la vista la respectiva guía de tránsito.
-
-Las personas indicadas en el inciso anterior tienen la obligación de conservar por el término de tres años, en el establecimiento que dirigen, las guías que comprueben la procedencia del ganado vendido o beneficiado.
-
-Queda, igualmente, prohibido a los jefes de balseaderos, a los Jefes de Estaciones de Ferrocarril, a empleados de su dependencia, a los capitanes de buques o aeronaves, embarcar animales cuando éstos no vayan acompañados de la correspondiente guía de tránsito.
-
-Las infracciones a lo dispuesto en el presente artículo serán penadas con las siguientes multas: un quinto de sueldo vital mensual por cada vacuno; un décimo de sueldo vital mensual por cada caballar, y un quinceavo de sueldo vital mensual por cada ovejuno, caprino o porcino.
+Carabineros de Chile y los funcionarios del Servicio Agrícola y Ganadero, en el ejercicio de las facultades que la ley les otorga, deberán controlar que el transportista o el responsable del mismo lleve consigo durante el transporte el respectivo formulario de movimiento animal, documentación que será visada en el acto para efectos de dejar constancia del control realizado.
 
 #### Artículo 36°
 
-Los dueños de ferias, los propietarios o tenedores legales de predios rústicos de un valor de tasación fiscal, para los efectos de la contribución territorial, superior a cinco sueldos vitales anuales para empleados particulares de la industria y el comercio del departamento de Santiago, tendrán derecho a obtener cuadernos de guías de tránsito con tal que acrediten el asiento de sus negocios y la ubicación de sus predios por medio de la patente, del recibo de la contribución de haberes, del certificado de la inscripción en el Registro del Conservador de Bienes Raíces, o de la escritura constitutiva de su título.
-
-Las personas mencionadas en el inciso anterior podrán, a su vez, y bajo su responsabilidad, proporcionar guías de tránsito a sus empleados e inquilinos, o bien a pequeños propietarios que temporalmente trabajan en su fundo, en el caso de que las necesiten para el tránsito de sus animales, pero quedarán sujetas bajo las sanciones penales que establece el inciso último de este artículo, a la condición de firmarlas y de verificar por sí mismas o por sus encargados, de que ellas sean llenadas debidamente con los requisitos que establece la ley.
-
-Podrán solicitar guías de tránsito en la dependencia de Carabineros más próxima, los propietarios o tenedores legales de predios avaluados por el Fisco para los efectos de la contribución territorial, en menos de cinco sueldos vitales anuales para empleados particulares de la industria y del comercio del departamento de Santiago y cualquiera persona que las necesite, siempre que acrediten suficientemente su identidad con su carnet respectivo, o por medio de dos testigos, los que quedarán sujetos a las mismas responsabilidades que establece el inciso anterior, para los que otorguen guías de tránsito a sus inquilinos.
-
-Las personas que acogiéndose al inciso 2° proporcionen guías de tránsito y los testigos de que habla el inciso 3°, en su caso, responderán del valor de los animales a que ellos se refieran, si resultare que éstos han sido hurtados o robados.
-
-#### Artículo 37°
-
-Para los efectos del artículo anterior, las Tesorerías Comunales deberán, mediante recibo, proporcionar cuadernos de guías de tránsito, que solicitaren por intermedio del Jefe respectivo de la comuna, las dependencias de Carabineros, las cuales deberán rendir cuenta mensualmente de las cantidades que percibieren por las guías que hubieren extendido.
-
-#### Artículo 38°
-
-Toda guía de tránsito, expedida en las condiciones indicadas por este decreto, deberá ser visada por la primera tenencia o pareja de carabineros encontrada en el trayecto seguido por los animales, después de su salida del predio de donde provienen.
-
-Se exceptúan las guías que correspondan a los embarques que las ferias hagan de los animales que han concurrido a esos establecimientos.
-
-#### Artículo 39°
-
-En las guías de tránsito se determinará:
-
-El nombre del propietario del ganado;
-
-El nombre de la persona, feria o establecimiento a que va destinado;
-
-El dibujo de la marca del propietario;
-
-La especie, sexo y cantidad de animales, y La firma del propietario de los animales o del Administrador del predio, feria o establecimiento de que procedan.
-
-Respecto a los animales comprados en ferias o establecimientos de ventas, se determinará en las guías la marca con que hayan sido vendidos, si no hubieren sido contramarcados por el nuevo propietario.
-
-#### Artículo 40°
-
-Cada guía de libre tránsito deberá pagar impuesto, el que se aplicará de conformidad a las leyes vigentes.
-
-#### Artículo 41°
-
-Salvo en los casos indicados en el artículo 32°, los conductores de ganado por los caminos públicos, por ferrocarril o vapor, por la vía fluvial, marítima o aérea, deberán llevar consigo la correspondiente guía de tránsito, y entregarla al destinatario.
-
-Toda persona que condujere animales por los caminos públicos, o que los remitiere a las ferias o mataderos para su venta o beneficio sin la guía de tránsito respectiva, o sin que ésta reúna los requisitos establecidos en el artículo 39°, incurrirá en una multa de un quinceavo del sueldo vital mensual por cada vacuno o caballar, y de un veinticincoavo del sueldo vital mensual por cada ovejuno, caprino o porcino que conduzca en tales condiciones y se la presumirá autor del delito de hurto o robo.
-
-#### Artículo 42°
-
-Toda persona que acredite que se han vendido en ferias o beneficiado en mataderos animales de su propiedad, que no han llevado la guía respectiva, podrá cobrar a la feria o al beneficiador de los animales el precio en que se hubieren vendido y el valor íntegro obtenido por su beneficio, más un 10% sobre estas cantidades.
-
-Los juicios a que diere lugar lo dispuesto en el inciso anterior se tramitarán conforme al procedimiento sumario, cuyas normas se encuentran en el Título XI del Libro III del Código de Procedimiento Civil.
-
-La acción que concede este artículo deberá iniciarse dentro de los 90 días, contados desde el momento en que se efectúe el remate o ingreso del animal en el establecimiento de matadero.
-
-#### Artículo 43°
-
-El producto de la venta de guías de libre tránsito ingresará en arcas municipales de la respectiva comuna.
-
-Las multas que se apliquen de conformidad a este Título ingresarán al patrimonio del Instituto de Desarrollo Agropecuario.
-
-#### Artículo 44°
-
-Las guías de libre tránsito de los ganados que vayan a pastar a la República Argentina deberán ser visadas por el Jefe del Resguardo y por el Tesorero Fiscal respectivo, quienes dejarán copias de ellas.
-
-Las guías servirán para el retorno al país del mismo ganado, siempre que éste se efectúe dentro del plazo de ocho meses, las que serán visadas nuevamente por el Jefe del Resguardo, quien deberá acreditar que a los animales indicados en la guía no se les ha agregado ninguna marca.
-
-#### Artículo 45°
-
-Las personas que internaren animales del extranjero deberán proveerse de la guía de tránsito del país de origen y donde no la hubiere, de un certificado o documento que acredite la légitima procedencia del ganado.
-
-Esta guía o documento deberá ser visada por el Jefe del Resguardo de la Aduana respectiva.
-
-#### Artículo 46°
-
-Toda persona que interne ganado del extranjero deberá pagar los derechos de Aduana correspondientes en la Tesorería Fiscal de la comuna respectiva, donde podrá, a su vez, solicitar guías de tránsito siempre que acompañe la guía o documento a que se refiere el artículo anterior, quedando archivado el referido documento o guía en dicha Oficina.
-
-#### Artículo 47°
-
-El sueldo vital a que se refiere el presente decreto será el que se fije anualmente para los empleados particulares de la Industria y del Comercio, escala A, del departamento de Santiago.
-
-#### Artículo 48°
-
-El presente decreto regirá desde la fecha de su publicación en el "Diario Oficial".
+Las normas establecidas en el presente Título serán fiscalizadas por Carabineros de Chile y por el Servicio Agrícola y Ganadero.
 
 Tómese razón, comuníquese y publíquese.- JORGE ALESSANDRI RODRIGUEZ.- Luis Mackenna.- Orlando Sandoval.- Julio Philippi.
