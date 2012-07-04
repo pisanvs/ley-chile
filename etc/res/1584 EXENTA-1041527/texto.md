@@ -1,0 +1,5 @@
+Por resolución exenta Nº 1.584, de 12 de junio de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 1.203, de 2012, que autorizó al INSTITUTO DE FOMENTO PESQUERO para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del proyecto FIP 2011-07 denominado "Evaluación hidroacústica del reclutamiento de Anchoveta y Sardina común entre la V-X Regiones, año 2012", en el sentido de ampliar hasta el 10 de julio de 2012, inclusive, la operación de las embarcaciones artesanales participantes en el estudio, en el área marítima de la XIV Región.
+
+Sin perjuicio de lo anterior, las embarcaciones artesanales citadas, no podrán operar durante la veda biológica establecida mediante decreto exento Nº 536, de 2012, del Ministerio de Economía, Fomento y Turismo, ni dentro de la primera milla náutica.
+
+Valparaíso, 12 de junio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
