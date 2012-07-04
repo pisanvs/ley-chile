@@ -60,41 +60,7 @@ El gasoducto se inicia en la comuna de San Bernardo, Región Metropolitana, dond
 
 La ubicación de los puntos de origen y destino, la longitud proyectada, la capacidad de transporte, la presión máxima de operación, el tipo de tubería a emplear, la ubicación de las válvulas y arranques principales, y las características energéticas del gas a transportar son las siguientes:
 
-a) Punto de origen y destino
-
-Punto de Origen. (PSAD 56 PLANO PGO-01-001)
-
-ORIGEN
-
-Origen Denominación Coord. Norte Coord. Este
-
-Interconexión
-
-gasoducto Estación de
-
-Gas Andes Recepción Chena,
-
-comuna de San 6.285.467 340.318
-
-Bernardo, Región
-
-Metropolitana.
-
-Punto de Destino. (PSAD 56 PLANO PGO-01-001)
-
-DESTINO
-
-Denominación Ubicación Coord. Coord.
-
-Norte Este
-
-Estación de Entrega,
-
-Medición y Regulación
-
-Quillota (Plant Gate) Comuna de Quillota,
-
-V Región 6.353.819 283.575
+a) COORDENADAS DE LOS PUNTOS DE ORIGEN Y DESTINO DEL GASODUCTO DE ACUERDO AL PLANO PGO-03-000
 
 b) Longitud aproximada: El gasoducto tiene una longitud aproximada de 123 km, siendo los primeros 11,814 km en diámetro de 30", para continuar el resto del trazado en diámetro de 24".
 
@@ -123,26 +89,6 @@ Válvulas RM Maipú 2 13 PSE-01-001
 3 VR Casablanca 7 60 PSE-01-005
 
 4 VR Quilpué 8 68 PSE-01-006
-
-CUADRO ARRANQUES
-
-Sector Comuna Región Pto. Plano Pto. Plano
-
-PGO-01-001 Servidumbre
-
-Tapihue Casablanca VR 5 54 PSE-01-005
-
-Tapihue Casablanca VR 6 55 PSE-01-005
-
-Quebrada Villa Alemana VR 9 69 PSE-01-007
-
-Escobares
-
-Quebrada Villa Alemana VR 10 70 PSE-01-007
-
-Escobares
-
-El Maqui Quillota VR 11 77 PSE-01-007
 
 g) Características y tipo del gas a transportar:
 
