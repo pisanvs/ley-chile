@@ -176,8 +176,6 @@ El sistema automáticamente excluirá del cobro de arancel las causas acogidas a
 
 Cabe señalar que el beneficiario deberá dejar constancia y registro de la veracidad de la declaración de cesantía en la ficha de primera entrevista, donde se comunica que la falsedad de la información proporcionada podrá ser sancionada penalmente según lo establecido en el artículo 210 del Código Penal.
 
-> **Nota.** El N° 2 de la Resolución 609 Exenta, Justicia, publicada el 26.02.2014, amplía hasta el día 30 de junio de 2014, el plazo de 120 días otorgado por el presente artículo, para que obtengan su registro en la Ficha de Protección Social y así la determinación del puntaje y décil a que se adscriben, a todos los beneficiarios de la defensa penal pública que no se encuentren registrados en la Ficha de Protección Social y que se encuentran con sus causas terminadas, o cuyas causas terminen antes del 28 de febrero de 2014, cualquiera sea el estado en que se encuentren.
-
 #### Artículo 11
 
 Ingreso de Forma de Término de la Causa al Sistema SIGDP. Una vez ingresada la forma de término de la causa al sistema SIGDP podrán presentarse los siguientes casos:
@@ -191,8 +189,6 @@ El sistema otorgará un plazo de 120 días corridos, a partir de la fecha de té
 Si el imputado queda en el tramo de exención, se accionará automáticamente el "Fin de Proceso".
 
 Si transcurridos los 120 días antes señalados, el imputado aún no se encontrara registrado en la FPS, el sistema lo clasificará automáticamente con tramo de copago del 100% del arancel.
-
-> **Nota.** El N° 2 de la Resolución 609 Exenta, Justicia, publicada el 26.02.2014, amplía hasta el día 30 de junio de 2014, el plazo de 120 días otorgado por el presente artículo, para que obtengan su registro en la Ficha de Protección Social y así la determinación del puntaje y décil a que se adscriben, a todos los beneficiarios de la defensa penal pública que no se encuentren registrados en la Ficha de Protección Social y que se encuentran con sus causas terminadas, o cuyas causas terminen antes del 28 de febrero de 2014, cualquiera sea el estado en que se encuentren.
 
 #### Artículo 12
 
@@ -219,8 +215,6 @@ Si el imputado se encontrare en el caso del Nº 5 del presente artículo, el sis
 Si el imputado se encontrare en el caso del Nº 6 del presente artículo, y habiendo transcurrido los 120 días contados desde la fecha de término de su causa, la Defensoría podrá reconsiderar administrativamente de oficio, utilizando para estos efectos la información socioeconómica que entrega el Sistema Fonasa, pudiendo declarar exentas de cobro a aquellas personas que integran los tramos de clasificación A y B, señalados en el literal de la letra h) del artículo 1º de la presente resolución. Realizada la consideración administrativa la causa pasará automáticamente al estado "Pendiente Resolución de Cobro", en espera de la emisión del acto administrativo.
 
 En caso de no existir reconsideración administrativa, el sistema calculará el monto a cobrar en función del tramo de copago al que quedó afecto el imputado y del arancel fijado para la forma de término de la causa. Una vez determinado el valor a cobrar, la causa pasará automáticamente al estado "Pendiente Resolución de Cobro" en espera de la emisión del acto administrativo.
-
-> **Nota.** El N° 2 de la Resolución 609 Exenta, Justicia, publicada el 26.02.2014, amplía hasta el día 30 de junio de 2014, el plazo de 120 días otorgado por el presente artículo para que obtengan su registro en la Ficha de Protección Social y así la determinación del puntaje y décil a que se adscriben, a todos los beneficiarios de la defensa penal pública que no se encuentren registrados en la Ficha de Protección Social y que se encuentran con sus causas terminadas, o cuyas causas terminen antes del 28 de febrero de 2014, cualquiera sea el estado en que se encuentren en el procedimiento.
 
 #### Artículo 13
 
