@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.781, de 29 de junio de 2012, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 3.355 de 2003, Nº 2.298 de 2004, Nos 1.400 y 2.943, ambas de 2006, todas de esta Subsecretaría, correspondientes al área de manejo Punta Lobos, VI Región, del SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL DE PICHILEMU, en virtud del artículo 21 del DS N° 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 29 de junio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
