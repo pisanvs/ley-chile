@@ -318,9 +318,9 @@ Urbanización
 
 Antejardines.
 
-El ancho mínimo de antejardín será el que se establezca para cada zona en el Artículo 16 de la presente Ordenanza.
+El ancho mínimo del antejardín será 5.0m. frente a las vías expresas, troncales y colectoras y de 3,0m. frente a las vías de servicio y locales, excepto para las zonas zhr1, zhr2, zm3, ze1, ze2, ze3, ze4, ze6, ze7; que se debe aplicar lo que se establezca para cada zona en el artículo 16 de la presente ordenanza.
 
-No obstante, cuando a lo menos en un 50 + 1% de los predios de la cuadra exista antejardín con un ancho diferente al establecido para el sector, el Director de Obras Municipales podrá exigir el ancho predominante. Para la aplicación de lo anterior, los sitios no construidos se consideran equivalentes a la exigencia de la norma midiéndose dicho porcentaje en metros lineales y no por número de predios.
+Se permitirán edificaciones en el antejardín solo del tipo caseta de portería, pérgola u otras de similar naturaleza según lo indicado en el articulo 2.5.8 de la oguc y se prohibirá el uso del antejardín para estacionamientos, excepto lo indicado en las tablas de uso de suelo.
 
 ## Título 2
 
@@ -396,7 +396,7 @@ Solo las ventanas salientes (bow-windows) se permitirán también a nivel de 1º
 
 Para el caso de los balcones, éstos podrán superar la longitud máxima de los cuerpos salientes y respetando el distanciamiento a los deslindes.
 
-Las marquesinas serán obligatorias u optativas según las zonas en que se emplacen las construcciones, determinadas en el presente instrumento. En los casos que nada se indique, se entenderán prohibidas.
+Las marquesinas serán opcionales en las tres zonas de emplazamiento (zhr1, zhr2, ze1) y prohibidas en los inmuebles de conservación histórica definidos en la memoria explicativa del Plan Regulador comunal. En todas las zonas restantes serán prohibidas.
 
 En caso que la marquesina proyectada pudiera afectar la arborización u otra instalación dispuesta en el Bien Nacional de Uso Público, la Dirección de Obras deberá resolver al respecto, pudiendo exigir la alteración o interrupción de la marquesina si fuera necesario.
 
@@ -404,13 +404,17 @@ La marquesina deberá evacuar las aguas lluvia de manera tal que no deje caer ag
 
 Cada marquesina solucionará su bajada de aguas lluvias frente a su rol. Pudiendo existir conexiones, de común acuerdo de los vecinos en los medianeros.
 
-Las marquesinas deberán cumplir para su diseño las siguientes condiciones específicas:
+- Las marquesinas deberán emplazarse en la linea oficial de edificaciones de fachada continua sin antejardín y ademas cumplir para su diseño con las siguientes condiciones específicas:
 
-. Deberán sobresalir 3 metros, medidos desde la línea oficial.
+deberán sobresalir como mínimo 1,5mt
 
-. Sin embargo, cuando la acera correspondiente tenga un ancho inferior a 3,5 metros, su diseño deberá ajustarse, considerando una separación mínima de 50 cm. respecto de la línea de solera.
+la altura mínima será de 3.5mt
 
-. Su volumen se desarrollará entre los 3,5 y los 4,5 metros de altura respecto del nivel medio de la acera correspondiente.
+el alto máximo será de 1.5mt
+
+la longitud sera de dimensiones libres
+
+- deberá respetar distanciamientos a los conductores eléctricos, definidos por la norma eléctrica: nseg 5 reglamento de instalaciones eléctricas de corrientes fuertes.
 
 #### Artículo 9
 
@@ -966,6 +970,8 @@ TABLA DE EDIFICACION PARA LA ZONA "ZE7"
 
 > **Nota.** El Número 1 de la Resolución 1462, Municipalidad de Temuco, publicada el 20.06.11, viene a modificar el presente artículo.
 
+> **Nota.** NOTA 1 El Decreto 2181, Municipalidad de Temuco, publicado el 07.07.2012, modifica en la forma que indica los cuadros contenidos en el presente artículo.
+
 ## Capítulo V
 
 Normas específicas de conservación histórica
@@ -1071,6 +1077,8 @@ VER DIARIO OFICIAL DE 02-02-2010, PAGINA 27.
 Cuando en una edificación se contemplen simultáneamente diferentes actividades, establecidos en la tabla del presente artículo, se sumará la exigencia de estacionamientos que genere cada actividad.
 
 > **Nota.** El Número 1 de la Resolución 1462, Municipalidad de Temuco, publicada el 20.06.11, viene a modificar el presente artículo.
+
+> **Nota.** NOTA 1 El Decreto 2181, Municipalidad de Temuco, publicado el 07.07.2012, modifica en la forma que indica el presente artículo.
 
 #### Artículo 24
 
