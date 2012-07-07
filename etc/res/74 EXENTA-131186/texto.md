@@ -18,7 +18,7 @@ R e s u e l v o:
 
 2º La presente autorización será válida para ejercer con la infraestructura física y humana evaluadas por SEC, en la dirección individualizada anteriormente y sujeta al estricto cumplimiento de las disposiciones legales, reglamentarias y normativas vigentes, especialmente lo prescrito en la norma chilena NCh 957/85, ''Cilindros portátiles soldados para gases licuados de petróleo-Inspección periódica y reparación'', el decreto supremo Nº 381/90 del Ministerio de Economía, Fomento y Reconstrucción ''Requisitos mínimos que deben cumplir los Organismos Técnicos de inspección periódica y reparación de cilindros para GLP en servicio, y el oficio circular de SEC Nº 5897/93, que ''Establece obligaciones a profesionales de organismos técnicos''.
 
-3º La presente autorización no será válida para inspeccionar y/o reparar cilindros que haya fabricado, importado y comercializado Metrain S.A.
+3º ELIMINADO.
 
 4º La presente resolución exenta entrará en vigencia a contar de su publicación en el Diario Oficial por cuenta de Metrain S.A.
 
