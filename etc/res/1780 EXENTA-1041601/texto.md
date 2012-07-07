@@ -1,0 +1,3 @@
+Por resolución exenta Nº 1.780, de 29 de junio de 2012, de esta Subsecretaría, déjanse sin efecto las resoluciones exentas Nº 1.778 de 2005, Nº 492 y Nº 3.352, ambas de 2006, todas de esta Subsecretaría, correspondientes al área de manejo La Boca Sector A, V Región, del SINDICATO DE TRABAJADORES INDEPENDIENTES MARISCADORES PUERTECITO DE SAN ANTONIO, en virtud del artículo 21 del DS Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 29 de junio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
