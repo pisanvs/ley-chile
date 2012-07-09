@@ -100,13 +100,13 @@ La infraestructura de los establecimientos educacionales deberá contar, como m�
 
 1.1. Sala Cuna.
 
-a) Area Administrativa.
+a) Área Administrativa.
 
 - Oficina.
 
-- Sala de amamantamiento y control de salud.
+- Una sala que funcione como lugar de
 
-- Sala Multiuso
+amamantamiento y de control de salud.
 
 b) Área Docente
 
@@ -126,31 +126,43 @@ Ministerio de Salud, a que se refiere el
 
 de este Reglamento.
 
-- Despensa.
+- Recinto o bodega que sirva como despensa,
 
-- Servicios Higiénicos, de conformidad a los
+el cual podrá estar ubicado dentro de
+
+la cocina.
+
+- Servicios higiénicos, de conformidad a los
 
 decretos del Ministerio de Salud, a que se
 
 refiere el artículo segundo de este
 
-Reglamento
+Reglamento, para uso de:
 
-para uso de:
+. Personal docente y administrativo
 
-º Personal docente y administrativo
+. Personal de servicio y manipuladores
 
-º Personal de servicio
+Sin perjuicio de lo anterior, los
 
-º Manipulador(es)
+establecimientos que cuenten con hasta cinco
 
-- Bodega, closet o gabinete para material
+aulas podrán tener servicios higiénicos
 
-didáctico.
+comunes para personal docente,
 
-- Bodega, closet o gabinete para artículos
+administrativo, de servicio
 
-de aseo.
+y manipuladores.
+
+- Bodega, closet o gabinete para
+
+material didáctico.
+
+- Bodega, closet o gabinete para
+
+artículos de aseo.
 
 1.2. Jardín Infantil.
 
@@ -158,7 +170,9 @@ a) Area Administrativa.
 
 - Oficina
 
-- Sala multiuso y primeros auxilios.
+- Al menos una sala que funcione como
+
+sala multiuso y primeros auxilios.
 
 b) Area Docente.
 
@@ -170,41 +184,65 @@ b) Area Docente.
 
 c) Área de Servicios.
 
-- Cocina, de conformidad a los decretos del
+- Cocina general, en los casos en que se
 
-Ministerio de Salud, a que se refiere el
+proporcione alimentación. Aquellos Jardines
 
-#### Artículo segundo
+Infantiles que no entreguen alimentación,
 
-de este Reglamento.
+deberán disponer a lo menos de un recinto
 
-- Despensa, cuando se proporcione
+exclusivo destinado a la instalación de una
 
-alimentación.
+cocinilla y un lavaplatos, de conformidad a
 
-- Servicios Higiénicos, de conformidad a los
+los decretos del Ministerio de Salud, a que
 
-decretos del Ministerio de Salud, a que se
+se refiere el artículo segundo de este
 
-refiere el artículo segundo de este
+Reglamento.
 
-Reglamento,
+- Recinto o bodega que sirva como despensa,
 
-para uso de:
+en los casos en que se proporcione
 
-º Personal docente y administrativo
+alimentación, el cual podrá estar
 
-º Personal de servicio
+ubicado dentro de la cocina.
 
-º Manipulador(es)
+- Servicios higiénicos, de conformidad
 
-- Bodega, closet o gabinete para material
+a los decretos del Ministerio de
 
-didáctico.
+Salud, a que se refiere el artículo
 
-- Bodega, closet o gabinete para artículos
+segundo de este Reglamento,para
 
-de aseo.
+uso de:
+
+. Personal docente y administrativo
+
+. Personal de servicio y manipuladores
+
+Sin perjuicio de lo anterior, los
+
+establecimientos que cuenten con
+
+hasta cinco aulas podrán tener
+
+servicios higiénicos comunes para
+
+personal docente, administrativo,
+
+de servicio y manipuladores.
+
+- Bodega, closet o gabinete para
+
+material didáctico,
+
+- Bodega, closet o gabinete para
+
+artículos de aseo.
 
 Cuando el local atienda sala cuna y jardín
 
@@ -212,7 +250,17 @@ infantil, podrá tener en común el área de
 
 servicios y los siguientes recintos del
 
-área administrativa:oficina y sala multiuso.
+área administrativa y docente: oficina,
+
+sala multiuso y patio, respectivamente.
+
+En los casos en que se tenga en común el
+
+patio, los alumnos de ambos niveles no
+
+deberán hacer uso de éste de manera
+
+simultánea.
 
 En caso que el Jardín Infantil o Sala Cuna
 
@@ -230,9 +278,9 @@ las bañeras y en al menos un lavamanos.
 
 2.- NIVEL DE EDUCACIÓN BÁSICA.
 
-a) Area Administrativa.
+a) Área Administrativa.
 
-- Oficina para dirección cuando el local escolar
+- Oficina cuando el local escolar
 
 tenga más de tres aulas.
 
@@ -264,69 +312,79 @@ c) Área de Servicios.
 
 - Servicios higiénicos independientes para uso
 
-de los alumnos y para uso de las alumnas.
+de los alumnos y para uso de las a alumnas.
 
 - Servicios higiénicos, de conformidad a los
 
 decretos del Ministerio de Salud, a que se
 
-refiere el artículo segundo de este
+refiere el artículo segundo de este Reglamento,
 
-reglamento, para uso de:
+para uso de:
 
-º Personal docente y administrativo
+. Personal docente y administrativo
 
-º Personal de servicio
+. Personal de servicio y manipuladores
 
-º Manipulador(es)
+Sin perjuicio de lo anterior, los
+
+establecimientos que cuenten con
+
+hasta cinco aulas podrán tener
+
+servicios higiénicos comunes para
+
+personal docente, administrativo,
+
+de servicio y manipuladores.
 
 - Bodega.
 
 - Patio de servicio.
 
-- Cuando se considere entrega del servicio de
+- Cuando se considere entrega del
 
-alimentación se deberán exigir los siguientes
+servicio de alimentación se
 
-recintos:
+deberán exigir los
 
-* Comedor, en locales que cuenten con más de
+siguientes recintos:
 
-4 aulas.
+. Comedor, en locales que cuenten
 
-* Cocina.
+con más de 4 aulas.
 
-* Despensa.
+. Cocina.
 
-* Servicios higiénicos para manipulador(es),
+. Recinto o bodega que sirva
 
-de conformidad a los decretos del
+como despensa, el cual
 
-Ministerio de Salud, a que se refiere el
+podrá estar ubicado
 
-#### Artículo segundo
-
-de este reglamento.
+dentro de la cocina.
 
 - Sala de primeros auxilios.
 
 INCISO ELIMINADO.
 
-Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina, despensa, bodega, servicios higiénicos para el uso del personal docente y administrativo, servicios higiénicos para el personal de servicio y servicios higiénicos para manipulador(es) y patio de servicio.
+Cuando en el local se atienda alumnos de Jardín Infantil y del Nivel de Educación Básica, podrá tener comunes los siguientes recintos: oficina, cocina general -en los casos en que se proporcione alimentación-, despensa, bodega, servicios higiénicos para el uso del personal docente y administrativo, servicios higiénicos para el personal de servicio y servicios higiénicos para manipulador(es) y patio de servicio.
+
+Cuando el local atienda alumnos de Sala Cuna, Jardín Infantil y Nivel de Educación Básica, podrá compartir todos los recintos descritos en el inciso anterior.
 
 3.- EDUCACION ESPECIAL O DIFERENCIAL.
 
-a) Area Administrativa.
+a) Área Administrativa.
 
-- Oficina para dirección.
+- Oficina.
 
-- Sala de profesores, en locales con más de 5
+- Sala de profesores, en locales con más de
 
-aulas.
+5 aulas.
 
-- Sala de espera para público, en locales con
+- Sala de espera para público, en locales
 
-más de 3 aulas.
+con más de 3 aulas.
 
 b) Area Docente.
 
@@ -364,17 +422,23 @@ una barra de apoyo para el usuario.
 
 - Servicios higiénicos, de conformidad a los
 
-decretos del Ministerio de Salud, a que se
+decretos del Ministerio de Salud, a que
 
-refiere el artículo segundo de este reglamento,
+se refiere el artículo segundo de este
 
-para uso de:
+Reglamento, para uso de:
 
-º Personal docente y administrativo
+. Personal docente y administrativo
 
-º Personal de servicio
+. Personal de servicio y manipuladores
 
-º Manipulador(es)
+Sin perjuicio de lo anterior, los establecimientos
+
+que cuenten con hasta cinco aulas podrán tener
+
+servicios higiénicos comunes para personal docente,
+
+administrativo, de servicio y manipuladores.
 
 - Bodega.
 
@@ -386,21 +450,15 @@ alimentación se deberán exigir los siguientes
 
 recintos:
 
-* Comedor, en locales que cuenten con más de
+. Comedor, en locales que cuenten con más
 
-cuatro aulas.
+de 4 aulas.
 
-* Cocina.
+. Cocina.
 
-* Despensa.
+. Recinto o bodega que sirva como despensa, el
 
-* Servicios higiénicos para manipulador(es),
-
-según los decretos del Ministerio de
-
-Salud, a que se refiere el artículo
-
-segundo de este reglamento.
+cual podrá estar ubicado dentro de la cocina.
 
 Disposiciones Generales:
 
@@ -464,67 +522,71 @@ vivos.
 
 4. NIVEL DE EDUCACION MEDIA.
 
-a) Area Administrativa.
+a) Área Administrativa.
 
-- Oficina para la dirección.
-
-- Oficina administrativa.
+- Oficina.
 
 - Una sala de profesores.
 
-- Oficina inspectoría en locales con más de 7
+- Oficina inspectoría en locales con más
 
-aulas.
+de 7 aulas.
 
 - Portería.
 
 b) Área Docente.
 
-- Aulas, en número igual a la cantidad de grupos
+- Aulas, en número igual a la cantidad de
 
-cursos que asisten en cada turno.
+grupos cursos que asisten en cada turno.
 
-- Laboratorio taller, en locales de hasta cuatro
+- Laboratorio taller, en locales de hasta
 
-aulas.
+cuatro aulas.
 
 - Laboratorio con gabinete o closet en locales
 
 con más de cuatro aulas.
 
-- Biblioteca o Centro de Recursos para el
+- Biblioteca o centro de recursos para el
 
-Aprendizaje (CRA), con una capacidad mínima de
+aprendizaje (CRA), con una capacidad mínima
 
-30 alumnos.
+de 30 alumnos.
 
-- Taller o multitaller en locales con más de
+- Taller o multitaller en locales con más
 
-cuatro aulas.
-
-- Sala para la Unidad Técnico Pedagógica (UTP).
+de cuatro aulas.
 
 - Patio.
 
 c) Área de Servicios.
 
-- Servicios higiénicos independientes para uso de
+- Servicios higiénicos independientes para uso
 
-los alumnos y para uso de las alumnas.
+de los alumnos y para uso de las alumnas.
 
 - Servicios higiénicos, de conformidad a los
 
 decretos del Ministerio de Salud, a que se
 
-refiere el artículo segundo de este reglamento,
+refiere el artículo segundo de este Reglamento,
 
 para uso de:
 
-º Personal docente y administrativo
+. Personal docente y administrativo
 
-º Personal de servicio
+. Personal de servicio y manipuladores
 
-º Manipulador(es)
+Sin perjuicio de lo anterior, los establecimientos
+
+que cuenten con hasta cinco aulas podrán
+
+tener servicios higiénicos comunes para
+
+personal docente, administrativo, de servicio
+
+y manipuladores.
 
 - Bodega.
 
@@ -536,23 +598,17 @@ alimentación se deberán exigir los siguientes
 
 recintos:
 
-* Comedor, en locales que cuenten con más de
+. Comedor, en locales que cuenten
 
-4 aulas.
+con más de 4 aulas.
 
-* Cocina.
+. Cocina.
 
-* Despensa.
+. Recinto o bodega que sirva como despensa,
 
-* Servicios higiénicos para manipu-lador(es),
+el cual podrá estar ubicado dentro
 
-de conformidad a los decretos del
-
-Ministerio de Salud, a que se refiere el
-
-#### Artículo segundo
-
-de este reglamento.
+de la cocina.
 
 - Sala de primeros auxilios.
 
@@ -574,7 +630,7 @@ considerando el total de las aulas de ambos niveles.
 
 5. HOGARES ESTUDIANTILES O INTERNADOS.
 
-Por razones pedagógicas y para una mejor administración educacional, los hogares estudiantiles tendrán una capacidad máxima de 200 alumnos. Capacidades mayores deberán ser autorizadas por el Secretario Regional Ministerial de Educación que corresponda.
+ELIMINADO.
 
 a) Area Administrativa.
 
@@ -584,7 +640,9 @@ a) Area Administrativa.
 
 que lo amerite.
 
-b) Area Dormitorios, se exigen los siguientes recintos por sexo:
+b) Area Dormitorios, se exigen los siguientes
+
+recintos por sexo:
 
 - Dormitorios para alumnos.
 
@@ -610,25 +668,33 @@ c) Area Docente.
 
 d) Área de Servicios.
 
-- Cocina con despensa.
+- Cocina.
 
-- Bodega para alimentos.
+- Recinto o bodega que sirva como despensa,
+
+el cual podrá estar ubicado dentro de la cocina.
 
 - Recinto para lavados de ropa.
 
 - Servicios higiénicos, de conformidad a los
 
-decretos del Ministerio de Salud, a que se
+decretos de Ministerio de Salud, a que se
 
-refiere el artículo segundo de este reglamento,
+refiere el artículo segundo de este
 
-para uso de:
+Reglamento, para uso de:
 
-º Personal docente y administrativo
+. Personal docente y administrativo
 
-º Personal de servicio
+. Personal de servicio y manipuladores
 
-º Manipulador(es)
+Sin perjuicio de lo anterior, los establecimientos
+
+que cuenten con hasta cinco aulas podrán tener
+
+servicios higiénicos comunes para personal docente,
+
+administrativo, de servicio y manipuladores.
 
 - Patio de servicio.
 
@@ -674,15 +740,27 @@ A) Locales escolares y locales complementarios:
 
 - Nivel de educación parvularia:
 
-* Sala cuna: cuarto piso.
+. Sala cuna: cuarto piso.
 
-* Jardín infantil: primer piso.
+. Jardín infantil: primer piso. Sin embargo,
 
-- Nivel de educación básica: tercer piso
+se podrá utilizar el segundo piso siempre
+
+que se disponga de una rampa con las
+
+protecciones adecuadas y, en caso de existir
+
+una escalera, ésta deberá contar con elementos
+
+para impedir su uso por los párvulos en la
+
+llegada a los pisos.
+
+- Nivel de educación básica: tercer piso.
 
 - Nivel de educación media: cuarto piso.
 
-- Educación especial o diferencial: segundo piso.
+- Educación especial o diferencial: segundo piso. Sin perjuicio de esto, los párvulos pertenecientes a esta modalidad, sólo podrán estar ubicados en el segundo piso en caso de que se disponga de una rampa con las protecciones adecuadas y, de existir una escalera, ésta deberá contar con los elementos necesarios para impedir su uso por los párvulos en la llegada a los pisos.
 
 B) Hogares estudiantiles o internados:
 
@@ -748,7 +826,7 @@ c. Todos los recintos del hogar estudiantil deberán disponer de luz artificial.
 
 Los recintos de los locales escolares y locales complementarios deberán contar con el mobiliario y equipamiento adecuado y suficiente para el nivel y modalidad de educación que se imparta, de manera que el establecimiento pueda cumplir su proyecto educativo.
 
-El mobiliario de los locales deberá cumplir con las Normas Chilenas vigentes establecidas por el Instituto Nacional de Normalización sobre esta materia, lo que se demostrará mediante el sello o certificado de calidad emitido por un organismo de certificación de productos acreditado por el Instituto Nacional de Normalización o su equivalente internacional.
+ELIMINADO.
 
 Los dormitorios de los hogares estudiantiles e internados deberán contar con camas de hasta dos niveles, además de roperos y similares.
 
@@ -766,11 +844,11 @@ Derógase el decreto Supremo de Educación N° 1.835 de 1986 y su modificación.
 
 #### Artículo Primero
 
-Transitorio. Los locales escolares, locales complementarios, hogares estudiantiles e internados, que cuenten con Reconocimiento Oficial del Estado a la fecha de entrada en vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, deberán cumplir con las normas que en éste se establecen dentro de un plazo de 5 años contados desde dicha fecha. Para estos efectos, los sostenedores, cuyos establecimientos educacionales no cumplan con dichas normas, deberán presentar a la Secretaría Regional Ministerial de Educación respectiva, dentro del primer año de entrada en vigencia de ese decreto, un cronograma de ejecución en base o las instrucciones que al efecto dicte el Ministerio de Educación, con el objeto de adecuarse a las nuevas exigencias que impone la presente normativa.
+Transitorio. Los locales escolares, locales complementarios, hogares estudiantiles e internados, que cuenten con Reconocimiento Oficial del Estado a la fecha de entrada en vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, deberán cumplir con las normas que en éste se establecen dentro de un plazo de 5 años contados desde dicha fecha.
 
-#### Artículo Segundo
+#### Artículo segundo
 
-Transitorio. Los locales escolares y complementarios que cuenten con Reconocimiento Oficial del Estado a la fecha de entrada en vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, tendrán el plazo de un año contado desde dicha fecha para cumplir con lo dispuesto en el artículo 10º en las adquisiciones de mobiliario escolar que se realicen desde ese plazo en adelante. No obstante lo anterior, el mobiliario existente podrá continuar en uso hasta el término de su vida útil, con un plazo máximo de 8 años desde la entrada en vigencia de dicho decreto. Para estos efectos, los sostenedores, cuyos establecimientos educacionales utilicen mobiliario que no cumpla con lo dispuesto en el artículo 10º, deberán presentar a la Secretaría Regional Ministerial de Educación dentro del primer año de vigencia del decreto supremo Nº 560, de 2010, del Ministerio de Educación, un cronograma de ejecución para reponer dicho mobiliario, elaborado en base a las instrucciones del Ministerio de Educación
+transitorio. ELIMINADO
 
 Anótese, tómese razón, publíquese e insértese en la Recopilación de Reglamentos de la Contraloría General de la República.- AUGUSTO PINOCHET UGARTE, General de Ejército, Presidente de la República.- Juan Antonio Guzmán Molinari, Ministro de Educación Pública.
 
