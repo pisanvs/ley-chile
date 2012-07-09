@@ -118,6 +118,10 @@ Tratándose de proyectos que cumplan las condiciones para obtener el incremento 
 
 Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para Proyectos Patrimoniales
 
+En casos excepcionales, previa resolución fundada, cada Serviu podrá reducir, reemplazar o establecer una o más de las actividades a que se refiere la Tabla de Actividades Extraordinarias e Incremento de Honorarios por Servicios de Asistencia Técnica para proyectos Patrimoniales, en atención a las particularidades propias del proyecto, manteniendo el monto máximo a asignar en un total de 30 UF.
+
+Con todo, el informe favorable del Revisor de Proyecto de Cálculo Estructural, aludido en el número 6 de la tabla precedente, no podrá en ningún caso eliminarse o remplazarse, manteniéndose el honorario fijado en dicha tabla para esa actividad.
+
 En caso que Serviu verifique que un mismo Informe de Diagnóstico Patrimonial, se utiliza para más de una vivienda, sea que se postulen individual o colectivamente, independientemente de que los informes se ingresen en una misma o varias instancias, el incremento de 3 UF señalado en la tabla precedente se pagará por una de las viviendas, ascendiendo en las sucesivas a 0,5 UF por familia, sin importar el tamaño del proyecto o la cantidad de proyectos individuales o colectivos en los cuales se utilice dicho Informe.
 
 El incremento de los honorarios de la EGIS establecidos en la presente resolución, se pagará en dos parcialidades; la primera, de hasta un 50% del monto del incremento, se pagará luego de seleccionado el proyecto y una vez acreditado ante Serviu el inicio de la ejecución de las obras de construcción, y el resto, se pagará una vez recepcionadas las obras de construcción del proyecto por la Dirección de Obras Municipales respectiva.
