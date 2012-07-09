@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A INMOBILIARIA Y CONSTRUCTORA SAN MATEO S.A.
+
+La V Dirección Regional Valparaíso del Servicio de Impuestos Internos, por resolución Ex. Nº 4.079 de 22 de junio de 2012, otorga, a contar del 1º mes siguiente al de esta publicación, a la sociedad Inmobiliaria y Constructora San Mateo S.A., RUT 76.543.280-4, la calidad de agente retenedor del Impuesto al Valor Agregado en los contratos de instalación o confección de especialidades que contraten, conforme a lo establecido en la Res. Ex. Nº 142, del 26 de diciembre de 2005.
