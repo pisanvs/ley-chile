@@ -220,7 +220,7 @@ por la Dirección de Obras Municipales
 
 respectiva.
 
-6. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el SERVIU, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida.
+6. Para el caso de familias seleccionadas condicionalmente, y en cuyo terreno acreditado para la postulación no sea factible la construcción de un proyecto tipo, en ninguna de las opciones propuestas por el Serviu, se podrá otorgar, si el postulante así lo requiere, un nuevo Certificado de Subsidio para la Adquisición de Vivienda Construida. Asimismo, el postulante podrá adscribirse a proyectos de las tipologías de Construcción en Nuevos Terrenos, Construcción Colectiva en Zonas Rurales y Alteración o Reparación de Inmuebles, que se encuentren en preparación en el Banco de Proyectos, o bien se encuentren seleccionados, según las resoluciones exentas Nº 2.186 (V. y U.), de 2010, Nº 699 (V. y U.), de 2011 o en su defecto beneficiados a través de asignaciones directas del Ministro de Vivienda y Urbanismo, según lo establecido en el artículo 3° del decreto supremo Nº 174 (V. y U.), de 2005 o en el artículo 17 del decreto supremo Nº 49 (V. y U.), de 2012.
 
 7. Para estas postulaciones, no será exigible el Plan de Habilitación Social.
 
@@ -251,6 +251,8 @@ g) Si transcurrido el plazo de 180 días señalado en la letra d) precedente, la
 En el caso que se haga efectiva la boleta de garantía, la devolución a la empresa constructora de las cantidades correspondientes a los anticipos de los subsidios ratificados, sólo procederá contra entrega de una nueva boleta bancaria de garantía que caucione el valor de esos anticipos.
 
 h) El convenio que celebre el SERVIU con cada empresa constructora, deberá, a lo menos, dejar constancia de las condiciones que se contienen en este Resuelvo y las demás acciones, condiciones, compromisos y obligaciones que asumirá la empresa constructora para la ratificación de los subsidios reservados y el desarrollo y ejecución de los proyectos, como asimismo cualquier otra estipulación que se estime conveniente a los intereses de las partes, según formato tipo de convenio proporcionado por la División Técnica de Estudio y Fomento Habitacional del MINVU.
+
+i) Sin perjuicio de lo anterior, las empresas que tengan convenios de reserva firmados con ratificaciones de subsidios aún pendientes, contarán con un plazo no superior al 31 de julio de 2012 para hacer el ingreso de los antecedentes que permitan a Serviu hacer la ratificación de los subsidios reservados. De no cumplirse este plazo, se entenderán vencidos todos los convenios previamente firmados, extinguiéndose las reservas de subsidios relacionadas. Las empresas constructoras involucradas deberán hacer el reintegro de los dineros solicitados como anticipos de los subsidios en un plazo no superior a 10 días, de lo contrario, Serviu deberá hacer efectivas las Boletas de Garantía asociadas a dichos convenios de reserva de subsidios.
 
 11. Las condiciones dispuestas en la presente resolución podrán ser aplicables a los beneficiarios preseleccionados mediante el llamado efectuado por la resolución exenta Nº 2.968 (V. y U.), de 2010, siempre que éstas sean más favorables, en cuyo caso se aplicarán a las actuaciones aún no realizadas y a los efectos aún no producidos.
 
