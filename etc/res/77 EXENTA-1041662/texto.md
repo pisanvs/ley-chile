@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución ex. del Servicio de Impuestos Internos Nº 77, del 6 de julio de 2012, que autoriza a las instituciones sin fines de lucro, O.N.G. de Desarrollo Corporación de Beneficencia Jesús Niño, RUT Nº 73.064.000-5, Corporación de Apoyo a la Niñez y Juventud en Riesgo Social, RUT Nº 71.992.600-2 y Corporación de Investigación y Desarrollo de la Sociedad y las Migraciones Colectivo Sin Fronteras, RUT Nº 65.015.346-4 como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio Web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de julio de 2012.
