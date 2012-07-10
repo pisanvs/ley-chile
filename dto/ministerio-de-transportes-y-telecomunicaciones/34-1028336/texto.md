@@ -140,7 +140,9 @@ y Sistema Radiante : Fundo Esperanza, camino
 
 interior, San Pedro, comuna
 
-de Concepción, VIII Región.
+de San Pedro de la Paz,
+
+VIII Región.
 
 - Coordenadas geográficas : 36°51'10" Latitud Sur.
 
