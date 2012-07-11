@@ -42,9 +42,13 @@ c) Región de Valparaíso:
 
 3.- Paola La Rocca Mattar (Seremi de Bienes Nacionales, Región de Valparaíso).
 
-d) Región del Libertador General Bernardo O'Higgins:
+d) Región del Libertador General Bernardo O'Higgins
 
-1.- Patricio Rey Sommer (Seremi de Planificación, Región de O'Higgins).
+1.- Paula Middleton Jorquera (Seremi de Justicia, Región de O'Higgins).
+
+2.- Cristian Callejas Rodríguez (Seremi de Desarrollo Social, Región de O'Higgins).
+
+3.- Sebastián Camiruaga Marschall (Seremi de Transportes y Telecomunicaciones, Región de O'Higgins).
 
 e) Región del Maule:
 
