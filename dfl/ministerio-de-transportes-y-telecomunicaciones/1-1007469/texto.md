@@ -276,9 +276,13 @@ LICENCIA PROFESIONAL
 
 2) Acreditar haber estado en posesión de la licencia Clase B durante dos años;
 
-3) Aprobar los cursos teóricos y prácticos que impartan las escuelas de conductores profesionales debidamente reconocidas por el Estado, y
+3) Aprobar los cursos teóricos y prácticos que impartan las escuelas de conductores profesionales debidamente reconocidas por el Estado;
 
-4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia profesional clases A-2, A-3 o A-4.
+4) Acreditar, en caso de la Clase A-3, haber estado en posesión, durante a lo menos dos años, de la Licencia Profesional Clases A-1, A-2, A-4 o A-5. Tratándose de la Clase A-5, los postulantes deberán acreditar haber estado en posesión, durante a lo menos dos años, de la licencia profesional clases A-2, A-3 o A-4;
+
+5) Acreditar, para el caso de las licencias de conductor profesional clases A-3 y A-5, en aquellos casos de conductores que no hayan estado en posesión de las licencias indicadas en el número 4) precedente, haber aprobado un curso teórico y práctico especial, que contemple el uso de simuladores de inmersión total u otra tecnología equivalente, cuyas características y especificaciones técnicas estarán establecidas en un reglamento dictado por el Ministerio de Transportes y Telecomunicaciones, en una Escuela para Conductores Profesionales reconocida oficialmente por dicho Ministerio, que haya sido autorizada para impartir este curso especial, de conformidad con el respectivo reglamento, y
+
+6) Aprobar en la Municipalidad respectiva el examen teórico correspondiente a la Clase de licencia profesional a la que se postula.
 
 LICENCIA NO PROFESIONAL CLASE B
 
@@ -330,7 +334,9 @@ A) LICENCIA PROFESIONAL
 
 a) La idoneidad física y psíquica por medio de un certificado expedido por el médico del Departamento de Tránsito y Transporte Público Municipal respectivo;
 
-b) Los conocimientos teóricos y prácticos, por medio de certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, sin perjuicio del deber por parte del Director de Tránsito de la Municipalidad respectiva de adoptar las medidas que estime necesarias, a fin de comprobar la efectividad de dichos conocimientos y las destrezas y habilidades requeridas para conducir el vehículo de que se trate.
+b) Los conocimientos teóricos por medio del examen rendido en la Municipalidad respectiva, y los conocimientos prácticos por medio de certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, debiendo el Director de Tránsito de la Municipalidad correspondiente adoptar las medidas que estime necesarias a fin de comprobar la efectividad de dichos conocimientos y las destrezas y habilidades requeridas para conducir el vehículo de que se trate.
+
+A los conductores profesionales que renueven su licencia profesional no les será exigible el requisito especial establecido en los números 3) o 5), según corresponda, del inciso segundo del artículo 13, en el acápite Licencia Profesional.
 
 B) LICENCIA NO PROFESIONAL Y LICENCIA ESPECIAL
 
@@ -508,6 +514,8 @@ g) Adquirir conocimientos generales sobre relaciones humanas para lograr una mej
 
 Además, deberán tener la infraestructura docente, de equipamiento y elementos de docencia necesarios para impartir debidamente la correspondiente enseñanza. El personal docente deberá poseer la idoneidad moral y profesional que requiere la asignatura respectiva.
 
+Sin perjuicio de la libertad señalada en el inciso precedente, el Ministerio de Transportes y Telecomunicaciones establecerá en un reglamento, la duración del curso y contenidos mínimos prácticos y teóricos que habrá de considerar el programa del curso especial especificado en el número 5) del artículo 13, incluyendo el mínimo de horas de conducción por alumno en vehículo y el mínimo y máximo de horas en simulador, las cuales en ningún caso podrán superar un 30 por ciento del total de horas de conducción, y todas las materias relacionadas con su debida instrucción.
+
 #### Artículo 34
 
 Las Escuelas de Conductores Profesionales, para obtener su reconocimiento oficial, deberán entregar a la autoridad regional de transportes correspondiente, los planes y programas que elaboren para cumplir los objetivos establecidos en el artículo anterior. Asimismo, deberán señalar la infraestructura, equipamiento, elementos de docencia, calificaciones, títulos, especialidades y experiencia del personal docente, y el lugar o los lugares donde funcionará la Escuela. Todo cambio de lugar deberá ser informado al Ministerio de Transportes y Telecomunicaciones, dentro de los 5 días siguientes de efectuado el traslado.
@@ -536,7 +544,7 @@ A los cursos impartidos por las Escuelas de Conductores Profesionales les serán
 
 #### Artículo 37
 
-El Ministerio de Transportes y Telecomunicaciones podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales, mediante resolución fundada, si ésta no cumple con los planes, programas, docencia e infraestructura que determinaron su reconocimiento oficial. Esta resolución se notificará al representante legal de la Escuela mediante carta certificada enviada al lugar de funcionamiento que esté registrado en el Ministerio. La afectada, dentro de los 15 días siguientes de entregada la carta al Servicio de Correos, podrá solicitar reconsideración de la cancelación, acompañando a su solicitud todos los antecedentes que justifiquen sus descargos.
+El Ministerio de Transportes y Telecomunicaciones podrá revocar el reconocimiento oficial a una Escuela de Conductores Profesionales, mediante resolución fundada, si ésta no cumple con los planes, programas, docencia e infraestructura que determinaron su reconocimiento oficial. También podrá revocar dicho reconocimiento y,o cursar una multa a beneficio fiscal de 300 a 500 unidades tributarias mensuales en caso de acreditarse que la Escuela ha otorgado certificados a personas que no han recibido total o parcialmente los contenidos, actividades, evaluaciones y,o asignaturas, prácticas o teóricas, que corresponden a los cursos que imparten. Esta resolución se notificará al representante legal de la Escuela mediante carta certificada enviada al lugar de funcionamiento que ésta haya registrado en el Ministerio, entendiéndose practicada la notificación a contar del tercer día siguiente a su recepción en la oficina de Correos del lugar de funcionamiento de la Escuela. La afectada, dentro de los 15 días siguientes a su notificación, podrá solicitar reconsideración de la cancelación, acompañando a su solicitud todos los antecedentes que justifiquen sus descargos.
 
 El Ministerio deberá resolver esta solicitud dentro de los 30 días siguientes a la fecha de su presentación. La resolución que recaiga en ella deberá ser notificada a la interesada, dentro de los 5 días siguientes a la fecha de su pronunciamiento, mediante carta certificada enviada al domicilio que la recurrente haya señalado en su presentación y, de no haberlo hecho, al lugar de funcionamiento que la Escuela tenga registrado en el Ministerio. La no resolución oportuna o su falta de notificación o la notificación tardía, hará que se tenga por aceptada la reconsideración. De rechazar la reconsideración, la afectada podrá reclamar a la Corte de Apelaciones respectiva, dentro del plazo de 10 días contados desde la fecha de entrega, al Servicio de Correos, de la carta certificada que notifique el rechazo. La Corte de Apelaciones conocerá en cuenta, sin esperar la comparecencia del reclamante y en única instancia.
 
