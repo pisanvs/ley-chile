@@ -1,0 +1,7 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A INDUSTRIAS CAMPO LINDO S.A.
+
+Núm. 20.- El Director Regional del Servicio de Impuestos Internos que suscribe, certifica que la sociedad Industrias Campo Lindo S.A., RUT Nº 87.579.600-3, representada legalmente por don Andrés Pedro Bada Gracia, RUT Nº 7.033.690-1, todos con domicilio en Hermanos Carrera Pinto Nº 82, Colina, cumple con los requisitos establecidos en Res. Ex. Nº 3.722, de 28 de julio de 2000, y que, en consecuencia, tiene la calidad de Agente Retenedor del Impuesto al Valor Agregado IVA, por las ventas de carnes y servicios de faenamiento de ganado que efectúe.
+
+La presente autorización regirá a contar del día primero del mes siguiente al de la fecha de publicación de este Certificado en el Diario Oficial, por cuenta y costo del peticionario, dentro de los primeros quince días de la emisión del presente Certificado, y tendrá vigencia indefinida, siempre que de cabal cumplimiento a las obligaciones señaladas en la resolución mencionada. Su incumplimiento, producirá la caducidad de esta autorización y la aplicación de las sanciones que fueran procedentes.
+
+Santiago, 5 de julio de 2012.- Alejandro Saldívar Alarcón, Director Regional (S).
