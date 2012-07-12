@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.869, de 6 de julio de 2012, de esta Subsecretaría de Pesca, modifícase el numeral 4º de la resolución exenta N° 1.236, de 2012, que autorizó al INSTITUTO DE INVESTIGACIÓN PESQUERA para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Distribución y abundancia de Jurel en la zona centro-sur de Chile, año 2012", en el sentido de reemplazar el primer párrafo por el señalado en la resolución extractada.
+
+Valparaíso, 6 de julio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
