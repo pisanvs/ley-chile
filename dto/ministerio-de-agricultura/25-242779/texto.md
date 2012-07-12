@@ -18,87 +18,41 @@ Disposiciones Generales
 
 Para los efectos del presente Reglamento se entenderá por:
 
-1.- Autovacuna: Producto inmunológico inactivado que ha sido preparado a solicitud del médico veterinario tratante, a partir de cultivos de microorganismos aislados de los animales infectados, para ser utilizado sólo en el establecimiento animal del cual se aisló el microorganismo o en instalaciones epidemiológicamente relacionadas.
+1.- Certificado de libre venta: Documento extendido por la autoridad sanitaria competente del país de origen, el cual debe consignar que el establecimiento productor reúne las condiciones exigidas por la legislación sanitaria del país de procedencia, que tiene la autorización para elaborar, distribuir y vender el producto a importar, reproduciendo en forma íntegra la fórmula autorizada y si su expendio está sometido a algún régimen restrictivo o control especial.
 
-2.- Certificado de libre venta: Documento extendido por la autoridad sanitaria competente del país de origen, el cual debe consignar que el establecimiento productor reúne las condiciones exigidas por la legislación sanitaria del país de procedencia, que tiene la autorización para elaborar, distribuir y vender el producto a importar, reproduciendo en forma íntegra la fórmula autorizada y si su expendio está sometido a algún régimen restrictivo o control especial.
+2.- Certificado sanitario de exportación: Documento extendido por la autoridad sanitaria competente del país de origen, el cual debe consignar que el establecimiento productor reúne las condiciones exigidas por la legislación sanitaria del país de procedencia y que tiene autorización para elaborar y exportar el producto en cuestión.
 
-3.- Certificado sanitario de exportación: Documento extendido por la autoridad sanitaria competente del país de origen, el cual debe consignar que el establecimiento productor reúne las condiciones exigidas por la legislación sanitaria del país de procedencia y que tiene autorización para elaborar y exportar el producto en cuestión.
+3.- Estabilidad: Mantención de las especificaciones señaladas y aceptadas en la monografía de una forma farmacéutica que aseguran identidad, potencia, calidad, eficacia y pureza inalterables, desde su preparación, hasta la fecha de expiración.
 
-4.- Control de Serie: Conjunto de actividades de inspección y control oficial realizadas por el Servicio, para verificar, entre otros aspectos, la calidad de una serie de un producto biológico previo a su distribución y venta. Los aspectos analizados tienen como fin verificar el cumplimiento de las especificaciones del producto terminado, rotulado gráfico y condiciones en las cuales la serie se encuentra almacenada.
+4.- Establecimiento animal: Corresponde a todo lugar donde exista una unidad productiva de animales, destinada a su utilización, tratamiento, crianza, engorda, comercialización, beneficio, faenamiento, producción de carnes, producción de leche, producción apícola, producción de genética o tránsito de ganado; se incluyen en esta definición, las clínicas veterinarias e hipódromos.
 
-5.- Envase: Corresponde al envase primario y al envase secundario, o bien, sólo al envase primario cuando no exista envase secundario.
+5.- Estudio de estabilidad: Conjunto de pruebas y ensayos a que se somete un producto, en condiciones preestablecidas y que permitirá pronosticar o establecer su período de eficacia.
 
-6.- Envase primario: Aquel que es empleado para contener un producto farmacéutico en su forma farmacéutica definitiva y que se encuentra en contacto directo con él.
+6.- Forma farmacéutica: Estado físico o forma en la cual se presenta un producto para facilitar su fraccionamiento, dosificación, administración o empleo.
 
-7.- Envase secundario: Aquel que permite contener, proteger y conservar el envase primario.
+7.- Lote: Fracción específica e identificada de una partida o serie.
 
-8.- Estabilidad: Capacidad de un producto farmacéutico para mantener sus características físico-químicas, biológicas o microbiológicas señaladas y aceptadas en las especificaciones de un producto farmacéutico veterinario, que aseguran la identidad, potencia, calidad, eficacia y pureza inalterables, desde su preparación hasta la fecha de expiración, bajo condiciones de almacenamiento definidas y material de envase autorizado.
+8.- Nombre genérico de un producto: Es la denominación aceptada para éste por la Organización Mundial de la Salud (O.M.S) bajo los distintivos y siglas "Denominaciones Comunes Internacionales" (DCI) o "International Nonpropietary Names" (INN), o por farmacopeas oficialmente reconocidas en el país.
 
-9.- Establecimiento animal: Corresponde a todo lugar donde exista una unidad productiva de animales, destinada a su utilización, tratamiento, crianza, engorda, comercialización, beneficio, faenamiento, producción de carnes, producción de leche, producción apícola, producción de genética o tránsito de ganado; se incluyen en esta definición, las clínicas veterinarias e hipódromos.
+9.- Partida o serie: Cantidad de un producto obtenido en un ciclo de producción, a través de etapas continuadas y que se caracteriza por su homogeneidad.
 
-10.- Estudio de estabilidad: Conjunto de pruebas y ensayos a que se somete un producto, en condiciones preestablecidas, que permite pronosticar, mediante una evaluación de estabilidad acelerada, o establecer, mediante una evaluación de estabilidad a tiempo real, su período de eficacia. En el caso de los productos multidosis, el estudio considera adicionalmente, una evaluación de la estabilidad en uso.
+10.- Potencia: Actividad terapéutica de un producto para producir un efecto, verificada por ensayos de laboratorio o por datos clínicos controlados, obtenidos a través de la administración del producto en las condiciones de empleo prescritas.
 
-11.- Estudio de estabilidad acelerado: Estudio diseñado y realizado utilizando condiciones de almacenamiento severas de temperatura y humedad, con el objetivo de incrementar la velocidad de degradación química o los cambios físicos en un menor periodo de tiempo que el propuesto, el cual es complementario a los estudios de estabilidad a tiempo real.
+11.- Principio activo: Sustancia o mezcla de sustancias dotadas de efecto farmacológico específico, o bien, que sin poseer actividad farmacológica, al ser administrada al organismo adquieren dicha propiedad.
 
-12.- Estudio de estabilidad a tiempo real: Estudio diseñado y realizado en condiciones de almacenamiento, temperatura y humedad preestablecidas, durante la duración total del período de eficacia propuesto.
+12.- Producto: Producto farmacéutico de uso exclusivamente veterinario.
 
-13.- Estudio de estabilidad en uso: Estudio diseñado y realizado con la finalidad de determinar el período durante el cual un producto multidosis puede ser utilizado manteniendo la calidad dentro de las especificaciones aprobadas, una vez que se abre el envase primario o después de la extracción de la primera dosis de producto desde el envase primario.
+13.- Producto adulterado: Es aquel que con posterioridad a su producción ha sido objeto de maniobras tendientes a alterar la fórmula aprobada o sufrido transformaciones o degradaciones que lo hagan inapto para los fines que se elaboró.
 
-14.- Farmacovigilancia: Conjunto de actividades encaminadas a conocer, identificar, cuantificar, evaluar y prevenir los efectos adversos derivados del uso de los productos farmacéuticos.
+14.- Productos biológicos: Son aquellos para cuya elaboración se recurre a sustancias originadas parcial o totalmente en procesos biológicos; se incluyen en este rubro, las vacunas, los sueros de origen animal, los antígenos, los alergenos, los antibióticos, las hormonas y las enzimas.
 
-15.- Forma farmacéutica: Estado físico o forma en la cual se presenta un producto para facilitar su fraccionamiento, dosificación, administración o empleo.
+15.- Producto contaminado: Es aquel que contiene microorganismos, parásitos o sustancias químicas que no corresponden a la fórmula registrada.
 
-16. Granel primario: producto farmacéutico que no está contenido en su envase primario.
+16.- Producto falsificado: Es aquel en cuyo proceso de producción o fabricación se han empleado ingredientes distintos a los indicados en el momento del registro.
 
-17. Granel secundario: producto farmacéutico que estando en su envase primario, no ha sido acondicionado totalmente, faltando procesos como etiquetado, impresión, introducción de prospecto interno y/o estuchado.
-
-18.- Lote, serie o partida: Cantidad definida de materia prima, material de envase o producto terminado, que se realiza en un solo ciclo productivo a través de etapas continuas y que se caracteriza por su homogeneidad.
-
-19.- Nombre genérico de un producto: Es la denominación aceptada para éste por la Organización Mundial de la Salud (O.M.S) bajo los distintivos y siglas "Denominaciones Comunes Internacionales" (DCI) o "International Nonpropietary Names" (INN), o por farmacopeas oficialmente reconocidas en el país.
-
-20.- Período de eficacia: Lapso propuesto por la empresa farmacéutica y autorizado por el Servicio, avalado con estudios de estabilidad, que demuestran que el producto mantiene las especificaciones de calidad si se almacena bajo las condiciones recomendadas en el rotulado gráfico.
-
-21.- Período de resguardo, de carencia o de retiro: Lapso que debe transcurrir entre la última administración del producto farmacéutico de uso exclusivamente veterinario, en las condiciones establecidas en su rotulado, y la obtención de productos alimenticios de dicho animal (carne, leche, miel, huevos, entre otros), con el fin de proteger la salud pública y de garantizar que dichos productos alimenticios no contienen residuos (principios activos o sus metabolitos) en cantidades que superen los límites máximos de residuos permitidos.
-
-22.- Poder o Licencia: Documento legalmente otorgado por una persona natural o jurídica, que concede a otra la autorización para solicitar, renovar, modificar o cancelar un registro, establecer sublicencias o convenios con terceros y que se encuentra vigente. Deberá consignar inequívocamente la titularidad del registro y de la marca comercial, cuando proceda.
-
-23.- Potencia: Actividad terapéutica de un producto |para producir un efecto, verificada por ensayos de laboratorio o por datos clínicos controlados, obtenidos a través de la administración del producto en las condiciones de empleo prescritas.
-
-24.- Principio activo o sustancia activa: Sustancia o mezcla de sustancias dotadas de efecto farmacológico específico, o bien, que sin poseer actividad farmacológica, al ser administrada al organismo adquieren dicha propiedad.
-
-25.- Producto: Producto farmacéutico de uso exclusivamente veterinario.
-
-26.- Producto adulterado: Es aquel que con posterioridad a su producción ha sido objeto de maniobras tendientes a alterar la fórmula aprobada o sufrido transformaciones o degradaciones que lo hagan inapto para los fines que se elaboró.
-
-27.- Producto biológico: Aquel producto para cuya elaboración se recurre a sustancias originadas parcial o totalmente en procesos biológicos, o que su control de calidad requiere realizarse por algún método biológico. Se incluyen en este rubro: vacunas, autovacunas, antígenos, alérgenos, hormonas, antimicrobianos, antiparasitarios, entre otros. Se identifican mediante el sufijo -B o -BP posterior al N° de Registro SAG o N° Registro Provisional SAG, respectivamente.
-
-28.- Producto contaminado: Aquel que contiene microorganismos, virus, parásitos, sustancias extrañas o deletéreas de origen mineral, orgánico, biológico, radiactivo o tóxico, en cantidades superiores a las permitidas en la especificación de calidad del producto, o que se presumen nocivas para la salud.
-
-29.- Producto falsificado: Es aquel en cuyo proceso de producción o fabricación se han empleado ingredientes distintos a los indicados en el momento del registro.
-
-30.- Producto farmacéutico de uso exclusivamente veterinario: Cualquier sustancia natural o sintética, o mezcla de ellas, que se administre a los animales con el fin de prevenir, tratar o curar enfermedades o sus síntomas; restablecer, corregir o modificar las funciones fisiológicas; estimular la inmunidad activa; otorgar inmunidad pasiva o diagnosticar las enfermedades de los mismos.
-
-31.- Producto farmacológico de uso veterinario: Producto que se administra a los animales con el fin de prevenir, tratar o curar sus enfermedades o síntomas, restablecer, corregir o modificar las funciones fisiológicas del animal ejerciendo una acción farmacológica o metabólica.
-
-32.- Producto inmunológico de uso veterinario: Producto que se administra a los animales con el fin de prevenir las enfermedades de los animales o sus síntomas, mediante la estimulación de la inmunidad activa, otorgamiento de inmunidad pasiva o que se utiliza con fines de diagnóstico in vitro e in vivo.
-
-33.- Rotulado gráfico: Representación gráfica (correspondiente a etiquetas, estuches, prospectos internos y folletos) que reproduce el texto aprobado por el Servicio, y que se encuentra adherida o impresa tanto en el envase primario (etiqueta) como en el envase secundario (estuche) y en el folleto de información al médico veterinario, o contenida en cualquier estuche o envoltura del producto (prospecto interno). Se excluye de esta definición a los embalajes de externo.
-
-34. Régimen de fabricación: modalidad de elaboración por cuenta propia o a través de contrato con terceros (maquila).
-
-35. Régimen de importación: modalidad de internación al país de un producto farmacéutico.
-
-Se considerarán regímenes de importación las siguientes modalidades: a granel, a granel primario, a granel secundario o terminado.
-
-36.- Servicio: Servicio Agrícola y Ganadero.
+17.- Servicio: Servicio Agrícola y Ganadero.
 
 Los plazos de días establecidos en este Reglamento son de días hábiles, entendiéndose que son inhábiles los días sábado, domingo y festivos.
-
-37.- Solicitante: Persona natural o jurídica, nacional o extranjera, debidamente representada y domiciliada en Chile que solicita al Servicio el registro de un producto.
-
-38.- Titular del registro: Persona natural o jurídica, nacional o extranjera, a cuyo nombre figura inscrito el registro de un producto.
-
-39.- Titular de la comercialización: Persona natural o jurídica, domiciliada en Chile, autorizada para realizar la comercialización primaria de un producto.
 
 #### Artículo 2
 
@@ -124,8 +78,6 @@ Al registrar un producto, el servicio le dará un número correlativo que servir
 
 #### Artículo 4
 
-El registro de un producto podrá ser solicitado por cualquier persona natural o jurídica, nacional o extranjera, debidamente representada y domiciliada en Chile, la que tendrá la calidad de solicitante.
-
 La solicitud de registro deberá contener las siguientes menciones:
 
 a) Nombre o razón social del solicitante y de su representante, en caso de corresponder.
@@ -138,51 +90,49 @@ d) Firma del solicitante o de su representante y la del director técnico, segú
 
 #### Artículo 5
 
-La solicitud de registro se presentará acompañada de los siguientes antecedentes e información:
+La solicitud de registro se presentará acompañada de los siguientes antecedentes e información, en lengua española, salvo los antecedentes bibliográficos, que pueden ser presentados en lengua inglesa:
 
 a. Poder o licencia, legalizada, del mandante extranjero.
 
-b. Convenio de investigación y desarrollo, fabricación o maquila, almacenamiento, envasado, acondicionamiento secundario, control de calidad y otros, según corresponda.
+b. Convenio de investigación y desarrollo, fabricación o distribución suscrito por el solicitante con un laboratorio de producción nacional o extranjero, cuando proceda.
 
 c. Certificado de libre venta expedido por la autoridad sanitaria competente del país de origen.
 
 d. Certificado extendido por la autoridad sanitaria competente del país de origen, en el cual se consigne que el laboratorio productor se encuentra habilitado para fabricar productos farmacéuticos veterinarios bajo la aplicación de buenas prácticas de manufactura y es inspeccionado rutinariamente por la autoridad competente.
 
-e. Certificado sanitario de exportación.
+e. Certificado expedido por la autoridad sanitaria competente del país de origen, en el cual señale el nombre, forma farmacéutica y número de autorización de registro de todos los productos fabricados por el establecimiento, indicando su nombre y sitios de manufactura, en el caso de laboratorios que exporten productos por primera vez al país.
 
-f. Fórmula completa en duplicado, cualitativa y cuantitativamente expresada en unidades de peso o volumen del sistema métrico decimal o en otras internacionalmente reconocidas.
+f. Certificado sanitario de exportación.
 
-Para estos efectos todos los ingredientes que constituyen la forma farmacéutica, se expresarán por sus nombres genéricos. En la expresión de la fórmula se dejará constancia de los requisitos de cada componente, citando las farmacopeas donde se describen o, en su defecto, acompañando la monografía correspondiente.
+g. Fórmula completa en duplicado, cualitativa y cuantitativamente expresada en unidades de peso o volumen del sistema métrico decimal o en otras internacionalmente reconocidas.
 
-g. Metodología analítica de los principios activos, excipientes y material de envase.
+Para estos efectos todos los ingredientes que constituyen la forma farmacéutica, se expresarán por sus nombres genérico o químico. En la expresión de la fórmula se dejará constancia de los requisitos de cada componente, citando las farmacopeas donde se describen o, en su defecto, acompañando la monografía correspondiente.
 
-h. Especificaciones y metodología analítica cualitativa y cuantitativa del producto terminado.
+h. Metodología analítica de los principios activos y excipientes.
 
-i. Estándares analíticos primarios o secundarios de referencia de todos los principios activos con sus respectivos certificados de análisis, señalando, al menos, su origen, potencia, vigencia y condición de almacenamiento, además de la trazabilidad cuando se trate de un estándar secundario.
+i. Especificaciones del producto terminado.
 
-j. Antecedentes sobre manufactura y calidad.
+j. Estándares de los principios activos o de las cepas cuando corresponda.
 
-k. Período de eficacia avalado por los estudios de estabilidad a tiempo real, acelerado o en uso, según corresponda.
+k. Antecedentes sobre manufactura y calidad.
 
-l. Tres muestras del producto, que correspondan exactamente a la fórmula declarada y a su forma farmacéutica, debidamente rotuladas, contenidas en los envases originales. Tratándose de productos que se distribuyan en envases de 10 o más kilos o litros, se podrá presentar una muestra en un envase equivalente al original y en cantidad suficiente para efectuar el análisis respectivo, un ejemplar de la etiqueta y una descripción detallada del envase.
+l. Período de eficacia avalado por los estudios de estabilidad.
 
-m. Etiquetas de origen y proyecto de rotulado gráfico para el país.
+m. Tres muestras del producto, que correspondan exactamente a la fórmula declarada y a su forma farmacéutica debidamente rotuladas, contenidas en los envases correspondientes. Tratándose de productos que se distribuyan en envases de 10 o más kilos o litros, se presentará una muestra en cantidad suficiente para efectuar el análisis respectivo, un ejemplar de la etiqueta y una descripción detallada del envase.
 
-n. Certificado de registro de marca comercial, otorgado por la autoridad competente en la clase correspondiente.
+n. Etiquetas de origen y proyecto de etiqueta para el país.
 
-o. Especificación del tipo de unidad de venta en la cual el producto será puesto a disposición del consumidor final.
+o. Certificado de registro de marca comercial, otorgado por la autoridad competente en la clase correspondiente.
 
-p. Estudios de seguridad en animales de laboratorio y en las especies de destino, tanto en condiciones controladas como en condiciones productivas, estudios de impacto ambiental y de seguridad para el ser humano.
+p. Especificación del tipo de unidad de venta en la cual el producto será puesto a disposición del consumidor final.
 
-q. Estudios de eficacia en animales de laboratorio y en las especies de destino, tanto en condiciones controladas como en condiciones productivas.
+q. Folleto de información en el cual se señalan los antecedentes clínicos y farmacológicos del producto, la información toxicológica, las precauciones de uso, condiciones de almacenamiento y período de resguardo.
 
-r. Período de resguardo para el producto, cuando corresponda, el que deberá acreditarse con los antecedentes científicos correspondientes.
+r. Estudios de seguridad y eficacia en animales de laboratorio y en las especies de destino.
 
-s. Resumen de características del producto o ficha técnica que describa en forma resumida las características técnicas y científicas del producto.
+s. Período de resguardo para el producto, cuando corresponda, el que deberá acreditarse con los antecedentes científicos correspondientes.
 
-Los antecedentes antes señalados se presentarán en español o inglés, con excepción de los siguientes documentos que deberán presentarse obligatoriamente en idioma español: resumen de las características del producto, fórmula cuali-cuantitativa completa, rotulado gráfico, descripción de los envases y especificaciones del producto terminado.
-
-Los certificados, convenios y licencias emitidos en el extranjero deberán ser debidamente legalizados por el Consulado de Chile respectivo y ante el Ministerio de Relaciones Exteriores de Chile o apostillados, según corresponda. Los documentos y convenios emitidos en Chile que requieran la firma de las partes deberán ser extendidos con firma ratificada ante notario. En ambos casos, se podrá adjuntar los documentos originales o una copia autorizada ante notario.
+t. Monografía clínica y farmacológica que describa en forma resumida las características técnicas y científicas del producto.
 
 El Servicio podrá solicitar antecedentes e informaciones adicionales para realizar el reconocimiento y evaluación de un producto para su registro, como excepcionar de la entrega de alguno de ellos, en caso que las especiales características del producto lo haga necesario o atendible; así como verificar el proceso de manufactura y control de calidad en el laboratorio de producción, sea nacional o extranjero.
 
@@ -212,71 +162,25 @@ b. Venta bajo receta médico veterinaria.
 
 c. Venta bajo receta médico veterinaria retenida: Es aquella en que la receta médico veterinaria queda archivada en el establecimiento donde se adquiera el producto.
 
-d. Venta bajo receta médico veterinaria retenida con control de saldo: Es aquella en que la receta médico veterinaria , tiene un formato oficial establecido por el Servicio y queda archivada en el establecimiento donde se adquiera el producto y anotada en un registro de control de saldo de existencias.
+d. Venta bajo receta médico veterinaria retenida con control de saldo: Es aquella en que la receta médico veterinaria queda archivada en el establecimiento donde se adquiera el producto y anotada en un registro de control de saldo de existencias.
 
-e. Venta sólo a médicos veterinarios: Es aquella en que el producto no es vendido al público general, sino que sólo a médicos veterinarios para el ejercicio profesional.
+Toda receta médico veterinaria debe ser extendida y firmada por un médico veterinario, quien deberá indicar en ella su nombre, domicilio y número de cédula nacional de identidad, el producto prescrito y su forma de empleo, la especie animal tratada, el nombre del propietario y la fecha en que se realiza la prescripción.
 
-f. Venta sólo a médicos veterinarios con receta retenida con control de saldo: Es aquella en que el producto no es vendido al público general, sino que sólo a médicos veterinarios para el ejercicio profesional, quedando la receta archivada en el establecimiento donde se adquiere el producto y anotada en un registro de control de saldo de existencia.
+El Servicio también determinará las condiciones de tenencia de cada producto, quedando éstas señaladas en la resolución correspondiente.
 
-g. Venta para uso exclusivo del Servicio: Corresponde a aquellos productos que no son vendidos al público general ni a médicos veterinarios, sino que su comercialización se encuentra restringida al Servicio para efectos de su uso en programas oficiales de control o erradicación de enfermedades.
-
-Toda receta médico veterinaria debe ser extendida y firmada por un médico veterinario, quien deberá indicar en ella su nombre, domicilio y número de cédula nacional de identidad, el producto prescrito, la dosis, ritmo horario, vía de administración y su forma de empleo, la especie animal tratada, el nombre del propietario y la fecha en que se realiza la prescripción.
-
-Inciso Eliminado.
-
-La resolución que otorga el registro de un producto deberá contener, al menos, lo siguiente:
-
-a. Número de registro.
-
-b. Nombre genérico del producto y su nombre de fantasía, si lo tuviese.
-
-c. Forma farmacéutica.
-
-d. Nombre y cantidad de los principios o sustancias activas.
-
-e. Nombre del titular del registro.
-
-f. Nombre del titular de la comercialización.
-
-g. Nombre del fabricante, licenciante e importador, según corresponda.
-
-h. Régimen de fabricación o importación, según corresponda.
-
-i. Nombre del laboratorio de acondicionamiento, cuando corresponda.
-
-j. Condición de venta.
-
-k. Si el producto queda sometido a control de serie.
-
-l. Número de registro de la marca comercial, si la tuviese.
-
-m. Indicaciones de uso autorizadas.
-
-n. Especie de destino.
-
-o. Período de resguardo.
-
-p. Período de eficacia.
-
-q. Condiciones de almacenamiento.
-
-r. Envases y presentaciones autorizadas.
-
-s. Período de vigencia del registro.
-
-t. Fórmula cuali-cuantitativa completa, especificaciones del producto terminado, rotulado gráfico autorizado y resumen de las características del producto, las que se incluirán en uno o más anexos timbrados, que se considerarán parte integrante de la resolución.
+El Servicio establecerá en la resolución correspondiente, las demás condiciones y requisitos que resulten de la solicitud de registro.
 
 #### Artículo 7
 
-Para los efectos de investigación, desarrollo y fabricación de productos, así como para el establecimiento de las especificaciones de calidad, metodología analítica de identificación, valoración, determinación de potencia, pruebas microbiológicas y otras, tanto de materias primas, material de envase y producto terminado, se deberán utilizar las siguientes referencias: Farmacopea Europea, Farmacopea Británica, Farmacopea de los Estados Unidos de América - Formulario Nacional (USP-NF), Farmacopea Internacional, Real Farmacopea Española y adicionalmente Código Federal de Regulaciones del Gobierno de los Estados Unidos de América (CFR) y Normas de la Organización Mundial de Sanidad Animal (OIE), para el caso de los productos inmunológicos.
+Para los efectos de investigación y desarrollo de productos, así como para el establecimiento de las especificaciones de calidad, metodología analítica de identificación, valoración, determinación de potencia, pruebas microbiológicas y otras, se deberán utilizar referencias oficiales nacionales e internacionales.
 
 #### Artículo 8
 
-Cuando una determinada materia prima y material de envase no esté contenida en las referencias mencionadas en el artículo anterior, el Servicio calificará la monografía interna o monografía de la farmacopea propuesta por el interesado.
+En el caso que no existan referencias oficiales para un caso particular, el Servicio calificará la información utilizada y proporcionada por el interesado.
 
 #### Artículo 9
 
-Los productos que constituyan asociación de principios activos a dosis fijas, deberán reunir las siguientes condiciones:
+Los productos que constituyan asociación de medicamentos a dosis fijas, deberán reunir las siguientes condiciones:
 
 a. Cada componente activo deberá contribuir al efecto global del producto;
 
@@ -316,14 +220,6 @@ El Servicio podrá otorgar registro provisional a un producto al cual se ha soli
 
 El Servicio calificará caso a caso este tipo de solicitudes y, de otorgarse el registro provisional, éste tendrá una duración de un año, pudiendo renovarse en períodos iguales y sujeto al cumplimiento de los requisitos especiales que se establezcan en la resolución correspondiente. En la etiqueta de estos productos, deberá señalarse en forma destacada la leyenda "REGISTRO PROVISIONAL SAG Nº".
 
-Una vez cumplidos los requisitos establecidos para demostrar la eficacia en la especie de destino, se otorgará el registro definitivo al producto.
-
-#### Artículo 15 bis
-
-El Servicio podrá otorgar el registro a productos con fines exclusivos para la exportación, los cuales serán identificados con el texto "Registro SAG N° - EXP", siempre y cuando su fabricación no interfiera con las acciones sanitarias del Servicio y se dé cumplimiento a las disposiciones del presente reglamento; que hayan sido evaluados satisfactoriamente los antecedentes de calidad y de seguridad referidos a estudios toxicológicos de los principios activos del producto farmacológico y seguridad en animales de laboratorio del producto inmunológico; quedando eximidos de los requisitos de rotulado señalados en los artículos 52, 52 bis, 52 ter y 53 de este reglamento.
-
-Queda prohibida la fabricación con fines exclusivos para la exportación de productos inmunológicos para la prevención de enfermedades exóticas para el país y de productos farmacológicos cuya fabricación, importación o uso se encuentren expresamente prohibidos en el país.
-
 #### Artículo 16
 
 Si fuere necesario en forma urgente prevenir, curar, atenuar o diagnosticar enfermedades para las cuales no existen productos registrados en el país o, existiendo productos registrados en el país, éstos se encuentran descontinuados, el Servicio podrá evaluar las solicitudes de uso especial de productos presentadas por los médicos veterinarios tratantes, en tanto se acompañen antecedentes fundados y suficientes, y podrá aprobar mediante resolución fundada su internación, elaboración, distribución, venta, tenencia y uso bajo las condiciones que indique.
@@ -354,7 +250,7 @@ e. Descripción del tipo de productos y procesos de fabricación.
 
 El plano de la planta deberá considerar las siguientes áreas o secciones:
 
-. bodegas de almacenamiento de materias primas y material de envase aprobados, productos terminados aprobados, materias primas y material de envase rechazados, productos terminados rechazados, cuarentena de materias primas y material de envase, cuarentena de productos terminados, productos en proceso, productos retirados y productos devueltos.
+. bodegas de almacenamiento de materias primas, de productos aprobados, rechazados y en proceso;
 
 . de baños y vestuario;
 
@@ -370,41 +266,9 @@ El plano de la planta deberá considerar las siguientes áreas o secciones:
 
 . de despacho de mercaderías;
 
-. de oficinas para el departamento de producción y de control de calidad;
+. de oficinas para el departamento de producción y de control de calidad; y
 
 . de tratamiento de desechos para impedir la contaminación del medio ambiente.
-
-. de fraccionamiento de materias primas; y
-
-. de muestreo de materias primas, la cual debe estar dotada de esclusa y de las condiciones necesarias para su correcta función.
-
-La planta física de los laboratorios de acondicionamiento deberá considerar, al menos, las siguientes áreas:
-
-. Recepción y muestreo de materiales de envase y productos por acondicionar;
-
-. Cuarentena de materiales de envase y de productos;
-
-. Almacenamiento de materiales de envase y productos por acondicionar;
-
-. Acondicionamiento;
-
-. Cuarentena de productos terminados;
-
-. Almacenamiento de productos terminados aprobados;
-
-. Almacenamiento de productos rechazados y retirados, debidamente circunscritos;
-
-. Almacenamiento de muestras de referencia y de contramuestras;
-
-. Expedición o despacho;
-
-. Control de calidad en lo que proceda a la línea o líneas de producción que se desarrollen, incluyendo, a lo menos, áreas de análisis de material de etiquetado, de envase y de producto terminado respecto de su rotulado gráfico;
-
-. Oficina para el o los profesionales responsables del departamento de producción y de control de la calidad; y
-
-. Baños y vestuarios.
-
-Las zonas descritas como cuarentena de materias primas y material de envase y de productos, almacenamiento de materias primas y material de envase y productos aprobados, cuarentena de productos terminados y almacenamiento de productos terminados aprobados, no requerirán tener secciones separadas físicamente, siempre y cuando exista un sistema electrónico que permita el adecuado control de los diferentes estados de las materias primas, material de envase y productos.
 
 Sin perjuicio de lo establecido en otras normas especiales, los laboratorios deberán disponer, además, de recintos especiales e independientes para el almacenamiento de sustancias inflamables, que presenten riesgos de explosión, corrosivas, tóxicas o contaminantes y de productos farmacéuticos que tengan principios activos sometidos a controles legales especiales. El acceso a estos recintos será controlado.
 
@@ -432,49 +296,29 @@ La investigación y desarrollo de productos, deberá realizarse en instalaciones
 
 #### Artículo 22
 
-Los laboratorios de producción deberán funcionar bajo la dirección técnica de un profesional en química y farmacia, medicina veterinaria o bioquímica, u otro profesional idóneo. Este profesional será responsable ante la autoridad del cumplimiento de las disposiciones de este Reglamento. La producción, el control de calidad y el aseguramiento de la calidad en estos establecimientos, deberá desarrollarse bajo la responsabilidad de profesionales independientes entre sí.
+Los laboratorios de producción deberán funcionar bajo la dirección técnica de un profesional en química y farmacia, medicina veterinaria o bioquímica, u otro profesional idóneo. Este profesional será responsable ante la autoridad del cumplimiento de las disposiciones de este Reglamento. La producción y el control de calidad en estos establecimientos, deberá desarrollarse bajo la responsabilidad de profesionales independientes entre sí.
 
 Los laboratorios deberán comunicar al Servicio el nombre de los profesionales a que se refiere el inciso anterior, los de sus reemplazantes y los datos necesarios para su cabal individualización.
 
-Los cargos profesionales de director técnico, jefe de producción, jefe de control de calidad y jefe de aseguramiento de la calidad deberán ser ejercidos en forma continua y durante todo el tiempo de funcionamiento del laboratorio.
-
-#### Artículo 22 bis
-
-Tratándose de laboratorios de acondicionamiento, el profesional a cargo de la dirección técnica podrá asumir, además, las funciones y responsabilidades del jefe de producción; por su parte el jefe de control de calidad podrá asumir las del jefe de aseguramiento de la calidad.
-
-#### Artículo 22 ter
-
-Corresponderá al director técnico representar al laboratorio de producción ante el Servicio y, además, tendrá las siguientes funciones:
-
-a. Garantizar la veracidad de la información declarada en el registro sanitario;
-
-b. Mantener un archivo actualizado con las resoluciones de registro de productos, sus renovaciones y modificaciones, rotulado gráfico aprobado, material publicitario y de toda documentación enviada desde el Servicio;
-
-c. Remitir oportunamente toda la información que, en conformidad al presente reglamento, deba enviarse al Servicio o que éste le requiera y que no tenga señalado otro responsable; y
-
-d. Velar por que los mensajes publicitarios, en cuanto a la información de los productos, se ajusten a lo aprobado en el registro y a la normativa vigente.
+La dirección técnica será ejercida durante todo el tiempo de funcionamiento del laboratorio.
 
 #### Artículo 23
 
-La jefatura del departamento de producción deberá ser asumida por un profesional químico farmacéutico, médico veterinario u otro profesional idóneo, quien tendrá las siguientes funciones:
+El jefe del departamento de producción tendrá las siguientes funciones:
 
 a. Organizar, dirigir y supervisar la producción;
 
 b. Dirigir el personal que intervenga en la producción;
 
-c. Garantizar la conformidad de los productos que se elaboren, envasen o importen con las fórmulas registradas;
+c. Garantizar la conformidad de los productos que se elaboren, envasen o importen con las fórmulas registradas; y
 
-d. Observar y hacer cumplir las buenas prácticas de manufactura, recomendadas por la Organización Mundial de la Salud (OMS);
-
-e. Asegurar el correcto cumplimiento de los procedimientos relacionados con los procesos de fabricación, envasado y almacenamiento, incluyendo los controles de proceso; y
-
-f. Supervisar el mantenimiento general de las áreas productivas, de las instalaciones y de los equipos.
+d. Mantener y conservar ordenadamente un archivo con las resoluciones de autorizaciones y registro de productos, sus modificaciones, propaganda y demás documentación oficial.
 
 #### Artículo 24
 
 El jefe del departamento de control de calidad tendrá las siguientes funciones:
 
-a. Organizar, dirigir y supervisar las actividades inherentes al sistema de control de calidad adoptado por el establecimiento, en conformidad al presente Reglamento, velando por el cumplimiento de las Buenas Prácticas de Laboratorio recomendadas por la Organización Mundial de la Salud (OMS) o por la Organización y Cooperación para el Desarrollo Económico (OCDE);
+a. Organizar, dirigir y supervisar las actividades inherentes al sistema de control de calidad adoptado por el establecimiento, en conformidad al presente Reglamento;
 
 b. Establecer especificaciones para las materias primas, materiales de envase y empaque, productos en proceso y productos terminados;
 
@@ -484,45 +328,13 @@ d. Responder ante el Servicio de la aprobación o rechazo y reprocesamiento, cua
 
 e. Diseñar y ejecutar los estudios de estabilidad para cada uno de los productos terminados;
 
-f. Verificar y analizar las reclamaciones sobre calidad de los productos que hayan sido devueltos por los usuarios o investigadas por la autoridad;
+f. Verificar y analizar las reclamaciones sobre calidad de los productos que hayan sido devueltos por los usuarios o investigadas por la autoridad; y
 
 g. Velar por la mantención adecuada de las muestras de referencia o contramuestra de materias primas y de productos terminados.
 
-h. Garantizar que las especificaciones y metodología analítica, para cada una de las materias primas, envase, productos en proceso y productos terminados, correspondan a lo autorizado en el respectivo registro;
-
-i. Aprobar o rechazar materias primas, material de envase, productos en proceso y productos terminados, de acuerdo a las especificaciones y metodologías autorizadas en el respectivo registro, proponiendo su rectificación, reprocesamiento o destrucción, cuando corresponda, dejándose constancia por escrito de la observación pertinente;
-
-j. Informar al jefe de aseguramiento de la calidad, oportunamente, de todos los antecedentes requeridos para la liberación de un lote o serie de un producto, debiendo indicar expresamente cualquier observación que influya en la misma; y
-
-k. Garantizar la confiabilidad de los resultados analíticos de los controles de calidad que se realicen, ya sea por cuenta propia o por contrato con terceros, en los productos que se elaboren, envasen e importen.
-
-#### Artículo 24 bis
-
-Corresponderá al jefe de aseguramiento de la calidad realizar las actividades inherentes al sistema de calidad adoptado y las gestiones necesarias para asegurar que los productos tengan la calidad requerida, conforme al respectivo registro y, especialmente, deberá:
-
-a. Garantizar que los procesos y productos cumplan las normativas legales y técnicas de calidad recomendadas por la Organización Mundial de la Salud (OMS) y la autoridad sanitaria, que permitan fabricar y comercializar productos de calidad;
-
-b. Establecer y ejecutar un sistema de gestión de la calidad de manera que garantice la calidad de los productos y de los procesos;
-
-c. Elaborar, mantener y asegurar el cumplimiento del Plan Maestro de Validación, de acuerdo a lo establecido en las Buenas Prácticas de Manufactura de la Organización Mundial de la Salud (OMS);
-
-d. Elaborar y revisar el cumplimiento de los programas establecidos;
-
-e. Realizar auditorías internas de calidad para el cumplimiento del programa respectivo;
-
-f. Seleccionar y evaluar a los proveedores;
-
-g. Coordinar y responder por la atención e investigación de los reclamos sobre productos, asegurando que sus resultados sean reportados a las autoridades competentes;
-
-h. Coordinar y responder por todo lo relacionado con retiro de productos del mercado;
-
-i. Elaborar y supervisar el sistema de gestión de documentación; y
-
-j. Liberar cada serie o lote de producción para su distribución al mercado.
-
 #### Artículo 25
 
-Las responsabilidades que afecten al director técnico, al jefe del departamento de producción, al jefe del departamento de aseguramiento de la calidad y al jefe del departamento de control de calidad alcanzarán al propietario del establecimiento, de acuerdo a las normas generales que regulan la materia.
+Las responsabilidades que afecten al director técnico, al jefe del departamento de producción y al jefe del departamento de control de calidad alcanzarán al propietario del establecimiento, de acuerdo a las normas generales que regulan la materia.
 
 Para los efectos del inciso anterior, el propietario deberá proporcionar a los profesionales señalados los equipos e implementos que ellos precisen para responder de la calidad, potencia, pureza y estabilidad de las materias primas y de los productos elaborados.
 
@@ -534,101 +346,9 @@ El propietario y el director técnico del establecimiento responderán de la adq
 
 #### Artículo 27
 
-Los laboratorios de producción deberán mantener un registro cronológico de la producción diaria o un registro general de producción, el cual deberá considerar, al menos, lo siguiente:
+Los laboratorios de producción deberán mantener un registro cronológico de la producción diaria.
 
-a. Foliado;
-
-b. Fecha de planificación;
-
-c. Nombre del producto;
-
-d. Número de serie;
-
-e. Número de la planilla de fabricación;
-
-f. Fecha de inicio y término de la elaboración a granel;
-
-g. Rendimiento teórico y real del granel;
-
-h. Número de planilla de envase;
-
-i. Fecha de inicio y término del proceso de envase;
-
-j. Rendimiento teórico-práctico del producto terminado;
-
-k. Número de boletín de análisis del producto terminado;
-
-l. Número y fecha de la resolución de control de serie, si procediere;
-
-m. Nombre y firma del jefe de producción y del jefe de control de calidad;
-
-n. Orden cronológico de las anotaciones.
-
-Se deberá contar con una fórmula maestra o patrón para cada producto y tamaño de serie a fabricar, que corresponda fielmente a la fórmula unitaria cuali-cuantitativa autorizada en el respectivo registro sanitario. La fórmula maestra deberá considerar, al menos, los siguientes aspectos:
-
-a. Ser preparada, revisada, aprobada y firmada por el jefe de producción y el jefe de control de calidad;
-
-b. Denominación del producto, forma farmacéutica, dosis del producto, tamaño de la serie y período de eficacia;
-
-c. Fórmula unitaria o porcentual;
-
-d. Fórmula industrial o de fabricación: nombre, código, cantidad y unidades de cada ingrediente;
-
-e. Exceso de materias primas declaradas, si procede;
-
-f. Instrucciones detalladas de todas y cada una de las etapas de fabricación, sector donde debe efectuarse y equipos a ser utilizados.
-
-Por cada partida, serie o lote se extenderá una Planilla de Fabricación y una Planilla de Envase.
-
-La planilla de fabricación deberá considerar, al menos, lo siguiente:
-
-a. Fórmula cuali-cuantitativa que deberá corresponder a la fórmula maestra y proporcionalmente a la fórmula autorizada en el registro sanitario;
-
-b. Nombre del producto, fecha de emisión, número de serie y la fecha de vencimiento del producto terminado;
-
-c. Cantidad a fabricar;
-
-d. Fechas de inicio y término de la fabricación;
-
-e. Materias primas que se utilicen en la fabricación del producto;
-
-f. Número de boletines de análisis de las materias primas;
-
-g. Rendimiento teórico y real;
-
-h. Procedimientos detallados de fabricación;
-
-i. Boletines de análisis del producto;
-
-j. Todo otro antecedente sobre problemas especiales, incluyendo detalles, con la firma autorizada para cualquier desviación de la fórmula registrada; y
-
-k. Nombre y firma del profesional responsable de la planilla de fabricación.
-
-La planilla de envase deberá considerar, al menos, los siguientes aspectos:
-
-a. Nombre y cantidad de los insumos utilizados en conformidad a lo autorizado en el registro sanitario, de acuerdo con el tamaño de la serie;
-
-b. Materiales de envase que se utilicen en el acondicionamiento del producto y los números de serie y de códigos;
-
-c. Número de los boletines de análisis de los materiales que se utilicen;
-
-d. Nombre del producto, fecha de emisión, número de serie y la fecha de vencimiento del producto terminado;
-
-e. Cantidad a envasar;
-
-f. Fecha de inicio y término del proceso de envasado;
-
-g. Rendimiento teórico y real;
-
-h. Procedimientos detallados de las etapas de envase;
-
-i. Conciliación de los materiales de envase impresos utilizados en el proceso, destruidos, devueltos, entre otros;
-
-j. Todo otro antecedente sobre problemas especiales, incluyendo detalles, con la firma autorizada para cualquier desviación de las instrucciones de envasado, equipamientos, ambiente u otra condición; y
-
-k. Nombre y firma del profesional responsable de la planilla de envase.
-
-En el caso de los laboratorios de acondicionamiento la planilla de envase deberá tener las mismas menciones señaladas en el inciso precedente.
+Por cada partida, serie o lote se extenderá una Planilla de Fabricación y una Planilla de Empaque.
 
 El registro y las planillas antes referidos deberán conservarse, a lo menos, durante un año, contado desde la fecha de expiración del respectivo producto y deberán contener las menciones que señale el Servicio. En el caso de productos inmunológicos, dichos documentos deberán conservarse a lo menos durante dos años contados desde la fecha de expiración.
 
@@ -642,7 +362,7 @@ La responsabilidad de la calidad de los productos corresponderá a los fabricant
 
 #### Artículo 29
 
-El Servicio verificará las características de calidad de los productos por medio de fiscalizaciones selectivas en los establecimientos de fabricación, de importación, de expendio o de distribución, mediante el análisis de muestras de productos.
+El Servicio verificará las características de calidad de los productos por medio de inspecciones selectivas en los establecimientos de fabricación, de distribución o de análisis de muestras de productos, en cualquiera de las etapas de elaboración, distribución o expendio.
 
 #### Artículo 30
 
@@ -684,7 +404,7 @@ c. Nombre y firma de quien haya realizado el análisis, y
 
 d. El informe final, fechado y suscrito por el jefe del departamento o por el encargado del laboratorio según proceda.
 
-Si el protocolo diere cuenta del rechazo de una muestra, el jefe del departamento de control de calidad deberá hacerlo presente al director técnico al jefe del departamento de aseguramiento de la calidad y al propietario o al representante legal del establecimiento fabricante o importador, quienes deberán adoptar, en forma inmediata, las medidas pertinentes para subsanar la causa que hubiere motivado el reparo.
+Si el protocolo diere cuenta del rechazo de una muestra, el jefe del departamento de control de calidad deberá hacerlo presente al director técnico y al propietario o al representante legal del establecimiento fabricante o importador, quienes deberán adoptar, en forma inmediata, las medidas pertinentes para subsanar la causa que hubiere motivado el reparo.
 
 #### Artículo 37
 
@@ -714,13 +434,11 @@ h. Nombre y firma del director técnico responsable.
 
 Para efectuar el control de serie, el Servicio captará las muestras en número suficiente para su análisis, debiendo dejar una contramuestra que el interesado conservará en su poder, hasta un año después de la fecha de vencimiento de la serie del producto.
 
-El interesado deberá aportar los estándares analíticos primarios y secundarios de referencia para la realización de los análisis, los cuales serán aprobados por el Servicio previo a su uso.
-
-El Servicio efectuará los análisis que estime pertinentes y notificará al interesado, previo pago de la tarifa respectiva, la resolución que apruebe o rechace la serie dentro del plazo de cuarenta días, contados desde la fecha de declaración de la misma, a excepción de las vacunas, en que dicho plazo se extenderá a noventa días. En caso de ser rechazado el control de serie, mediante resolución que exprese el fundamento del mismo, el fabricante o importador, según se trate de un producto de fabricación nacional o importado, deberá proceder a la destrucción del producto. El método de destrucción será propuesto y financiado por el interesado, evaluado y aprobado por el Servicio. Cuando la destrucción se realice en ausencia de inspectores del Servicio, el director técnico deberá adjuntar un certificado de destrucción emitido por la empresa ejecutora, autorizada por el Servicio para estos fines, con el detalle de los productos y series destruidas..
+El Servicio efectuará los análisis que estime pertinentes y notificará al interesado, previo pago de la tarifa respectiva, la resolución que apruebe o rechace la serie dentro del plazo de cuarenta días, contados desde la fecha de declaración de la misma, a excepción de las vacunas, en que dicho plazo se extenderá a noventa días. En caso de rechazo, la resolución deberá expresar el fundamento del mismo.
 
 En aquellos casos excepcionales en que haya que efectuar análisis que requieran plazos mayores que los indicados, el Servicio fijará el tiempo requerido para ello, debiendo justificar tal necesidad con antecedentes científicos que así lo demuestren. En caso de aprobación de la serie, el interesado podrá disponer libremente del producto, previa recepción de la resolución que autorice su uso, pudiendo el Servicio disponer el timbraje, si lo estima conveniente; en caso contrario, el interesado podrá solicitar al Director Nacional del Servicio la reconsideración de la resolución denegatoria dentro del plazo de diez días, contados desde la fecha de la notificación. La solicitud de reconsideración deberá ser fundada y podrá contener una petición de reprocesamiento, si procediere.
 
-Vencido el plazo para solicitar la reconsideración y si ésta fuere rechazada, el Servicio dispondrá la destrucción del producto, de acuerdo a lo señalado en el inciso tercero precedente.
+Vencido el plazo para solicitar la reconsideración y si ésta fuere rechazada, el Servicio dispondrá la destrucción del producto, en presencia de inspectores del Servicio.
 
 No obstante lo anterior, si el rechazo recayere en productos importados terminados, el interesado podrá solicitar se autorice su reexportación.
 
@@ -768,13 +486,13 @@ Las etiquetas de las autovacunas deberán indicar el nombre del producto y del l
 
 #### Artículo 43
 
-Sólo con autorización del Servicio se podrán efectuar experimentos, en condiciones productivas, con productos no registrados. La resolución que autorice los ensayos fijará las condiciones en que éstos se llevarán a cabo.
+Sólo con autorización del Servicio se podrán efectuar experimentos con productos no registrados. La resolución que autorice los ensayos fijará las condiciones en que éstos se llevarán a cabo.
 
 El Servicio tendrá siempre acceso a tales investigaciones, pudiendo efectuar las comprobaciones que estime pertinentes o exigir las repeticiones que fuesen necesarias.
 
 #### Artículo 44
 
-La internación de productos no registrados o materias primas destinadas a la fabricación de productos no registrados, con fines de efectuar pruebas experimentales, deberá ser aprobada por el Servicio, fijando en cada caso los requisitos obligatorios a cumplir. Las materias primas farmacológicamente activas podrán ser internadas por los laboratorios de producción o por los establecimientos importadores que tengan convenio de investigación y desarrollo con un laboratorio de producción inscrito por el Servicio, siendo destinadas, al momento de su ingreso al país, directamente al laboratorio de producción.
+La internación o fabricación de productos no registrados o materias primas destinadas a la fabricación de productos no registrados, con fines de efectuar pruebas experimentales, deberá ser aprobada por el Servicio, fijando en cada caso los requisitos obligatorios a cumplir.
 
 En la respectiva solicitud de realización de ensayos experimentales con productos desarrollados en el país o en el extranjero, deberá describirse en forma detallada la naturaleza del producto, el lugar y el protocolo de experimentación, el propósito de la misma y otros antecedentes que el Servicio requiera. La metodología de desarrollo de productos, deberá realizarse utilizando referencias oficiales nacionales e internacionales.
 
@@ -788,9 +506,7 @@ Del Comercio de Productos
 
 #### Artículo 46
 
-El comercio de productos registrados, será efectuado por los laboratorios de producción, por los establecimientos importadores o por los |establecimientos de expendio que cumplan los requisitos de este Reglamento. El fraccionamiento de productos, sólo podrá ser realizado por los laboratorios de producción que cumplan los requisitos de este Reglamento. Sólo se podrán vender a público, productos terminados. Los laboratorios de producción y los establecimientos importadores que vendan a público, deberán cumplir adicionalmente con los mismos requisitos que los establecimientos de expendio.
-
-Queda prohibido el fraccionamiento de productos en los establecimientos importadores, distribuidores y de expendio, pudiendo sólo comercializarse las unidades de venta autorizadas.
+El comercio de productos registrados, será efectuado por los laboratorios de producción, por los establecimientos importadores o por los establecimientos de expendio que cumplan los requisitos de este Reglamento. El fraccionamiento de productos, sólo podrá ser realizado por los laboratorios de producción que cumplan los requisitos de este Reglamento. Sólo se podrán vender a público, productos terminados. Los laboratorios de producción y los establecimientos importadores que vendan a público, deberán cumplir adicionalmente con los mismos requisitos que los establecimientos de expendio.
 
 #### Artículo 47
 
@@ -798,7 +514,7 @@ Los establecimientos importadores, deberán contar con un director técnico. Los
 
 Los establecimientos importadores de productos, deberán acreditar ante el Servicio el cumplimiento de los siguientes requisitos:
 
-a. Contar con una bodega de almacenamiento que garantice la adecuada conservación de los productos y contar, cuando corresponda, con una unidad de frío de capacidad suficiente para las necesidades. Todas las áreas de almacenamiento de productos deberán contar con control y registro de temperatura máxima y mínima.
+a. Contar con una bodega de almacenamiento que garantice la adecuada conservación de los productos y contar con una unidad de frío de capacidad suficiente para las necesidades, con termómetros de máxima y mínima cuando corresponda.
 
 b. Los muros deberán estar enlucidos con material lavable, los pisos deberán ser lisos y de material lavable, los cielos deberán estar pintados con pintura antihongos.
 
@@ -828,8 +544,6 @@ i. Deberá llevar un archivo con los correspondientes análisis nacionales por c
 
 j. Deberá mantener contramuestras de cada serie del producto terminado, hasta un año después de la fecha de expiración del producto.
 
-k. Velar por el mantenimiento general del establecimiento, de las instalaciones y de los equipos.
-
 #### Artículo 48
 
 Los directores técnicos de los laboratorios de producción así como los directores técnicos de los establecimientos importadores, serán responsables ante el Servicio de que cada serie o lote de producto fabricado o importado para su comercio en el país, según corresponda, haya sido fabricado y controlado en conformidad con las disposiciones del presente Reglamento, o bien, importado y sometido a los análisis nacionales necesarios para garantizar su calidad en forma previa a su comercio o a su expendio.
@@ -842,7 +556,7 @@ Los establecimientos de expendio de productos, deberán acreditar ante el Servic
 
 a. Funcionar en locales o secciones separadas de uso exclusivo para el expendio de productos;
 
-b. Contar con una bodega o área de almacenamiento que garantice la adecuada conservación de los productos y, cuando corresponda, con una unidad de frío, de capacidad suficiente para las necesidades. Todas las áreas de almacenamiento de productos deberán contar con control y registro de temperatura máxima y mínima..
+b. Contar con una bodega de almacenamiento que garantice la adecuada conservación de los productos y, cuando corresponda, con una unidad de frío, de capacidad suficiente para las necesidades, con termómetro de máxima y mínima.
 
 Del mismo modo, deberán contar con transporte adecuado que garantice la conservación de los productos, en caso que éstos se entreguen al domicilio del usuario;
 
@@ -854,9 +568,9 @@ d. Contar con un director técnico por cada local o sucursal de atención a púb
 
 Los establecimientos de expendio y cada uno de sus locales o sucursales, funcionarán bajo la dirección técnica de un profesional médico veterinario o químico farmacéutico, u otro profesional idóneo quien tendrá las siguientes obligaciones:
 
-a. Constatar que el expendio de los productos se realice bajo la condición de venta correspondiente y verificar que las recetas de todos los productos con dicha condición de venta se encuentren correctamente emitidas; también, deberá efectuar personalmente el expendio de productos sometidos a controles especiales, manteniendo un archivo de las recetas retenidas y un registro de control de existencias para los productos que lo requieran;
+a. Constatar que el expendio de los productos se realice bajo la condición de venta correspondiente; también, deberá efectuar personalmente el expendio de productos sometidos a controles especiales, manteniendo un archivo de las recetas retenidas y un registro de control de existencias para los productos que lo requieran;
 
-b. Velar porque el sistema de almacenamiento de los productos asegure la conservación de sus características y retirar los productos vencidos, deteriorados y devueltos o retirados por problemas de calidad;
+b. Velar porque el sistema de almacenamiento de los productos asegure la conservación de sus características y retirar los productos vencidos y deteriorados;
 
 c. Mantener libros oficiales de inspección y reclamos;
 
@@ -868,9 +582,7 @@ f. Colocar en un lugar visible del local, un letrero con el nombre completo del 
 
 g. Supervisar el correcto desempeño de las funciones del auxiliar.
 
-h. Informarse de todas las normativas y reglamentaciones vigentes que regulan la materia y velar por su cumplimiento.
-
-El director técnico no podrá extender en el mismo local, recetas para los usuarios del establecimiento de expendio. No se podrá vender productos que hubiesen sido prescritos por un médico veterinario que, a su vez, sea el director técnico del establecimiento de expendio.
+El director técnico no podrá extender en el mismo local, recetas para los usuarios del establecimiento de expendio.
 
 Los establecimientos que sólo expendan productos de venta libre, podrán prescindir del profesional director técnico.
 
@@ -880,37 +592,17 @@ El envase de los productos deberá ser apto y adecuado para la conservación de 
 
 #### Artículo 52
 
-En las etiquetas o en un folleto adjunto, se deberá indicar, en idioma español, el nombre genérico y de fantasía o comercial del producto; forma farmacéutica; contenido; composición; especie de destino y subcategoría; indicaciones de uso; dosis del principio activo y del producto; frecuencia y duración del tratamiento, vía de administración; modo de empleo; advertencias, precauciones de uso e interacciones; contraindicaciones, efectos no deseados y reacciones adversas; condiciones de almacenamiento; período de resguardo; precauciones para el operador; precauciones para la disposición del producto sin utilizar o el material de desecho; nombre y domicilio del laboratorio productor y del importador; fecha de fabricación; fecha de expiración; número de serie, número de registro otorgado por el Servicio en que figure la sigla SAG y clave de fabricación; y la condición de venta para la cual fue autorizado. Además, deberá señalarse en forma destacada la leyenda "USO VETERINARIO" e incluirse la palabra "VENENO" acompañada de su símbolo universal (calavera), cuando corresponda.
+En las etiquetas y en un folleto adjunto, se deberá indicar, en lengua española, nombre genérico y comercial del producto; forma farmacéutica; contenido; composición de la fórmula; indicaciones y vía de administración; período de resguardo; modo de empleo; advertencias, precauciones y contraindicaciones; condiciones de almacenamiento y conservación; condiciones de tenencia; nombre y domicilio del laboratorio productor y del importador; fecha de expiración; número de registro otorgado por el Servicio en que figure la sigla S.A.G. y clave de fabricación; y, la condición de venta para la cual fue autorizado. Además, deberá señalarse en forma destacada la leyenda "USO VETERINARIO".
 
 La resolución del Servicio por la cual se incorpore un producto al registro o lo autorice, establecerá la información mínima que deberá contener la etiqueta de la unidad de venta.
 
-En las etiquetas o en el texto de los anexos de un producto de importación, podrán emplearse otras lenguas además de la española, siempre que no altere el texto autorizado por el Servicio.
-
-#### Artículo 52 bis
-
-En caso que el envase primario sea de un tamaño que no permita la inclusión de una etiqueta que contenga la impresión legible de toda la información señalada en el artículo precedente, se deberá indicar en ésta, a lo menos, la denominación del producto (nombre de fantasía, nombre genérico y forma farmacéutica), número de serie, fecha de fabricación, fecha de vencimiento y Registro SAG N°. Además, se deberá señalar que el resto de la información se encuentra en el estuche o inserto, según corresponda.
-
-En forma excepcional y sólo para aquellos productos cuyo envase primario sea muy pequeño, que no permita incluir la información señalada en el inciso anterior, se podrá indicar como mínimo el nombre genérico o de fantasía, número de serie y fecha de vencimiento, ya sea en español, en inglés u otro idioma, según corresponda.
-
-Podrá incluirse en el rotulado gráfico, bajo exclusiva responsabilidad del titular del registro, las menciones que en relación a derechos de propiedad industrial establezca la ley, para habilitar el ejercicio de los derechos conferidos por ella.
-
-Asimismo, podrá incluirse en el rotulado gráfico la mención a una certificación de calidad, siempre y cuando se haya adjuntado el certificado correspondiente, se encuentre vigente y se refiera a las Buenas Prácticas de Manufactura (GMP) basadas en la Organización Mundial de la Salud (OMS) o a un Sistema de Gestión de Calidad basado en la norma ISO 9001 y cuyo alcance se refiera al proceso de fabricación o control de calidad del producto en cuestión.
-
-El tamaño y tipo de letras utilizadas en los rotulados gráficos deberán ser presentados en dimensiones que permitan su fácil lectura, quedando prohibidas las leyendas publicitarias o de promoción.
-
-#### Artículo 52 ter
-
-El producto no podrá designarse con un nombre de fantasía o comercial, en los siguientes casos:
-
-a. Que sea igual o similar a una denominación común internacional, o a una denominación química o genérica propia o distinta de aquella referida al o a los principios activos que la componen.
-
-b. Que el nombre haya servido para identificar otro producto, cuyo registro haya sido cancelado o haya expirado, salvo que hayan transcurrido 10 años o más
+En las etiquetas o en el texto de los anexos de un producto de importación, podrán emplearse otras lenguas además de la española.
 
 #### Artículo 53
 
 Para los efectos señalados en el artículo anterior, todas las etiquetas y folletos adjuntos presentados al momento de solicitar el registro, deberán corresponder fielmente a la composición tipográfica definitiva que tendrán una vez aprobados, sin perjuicio de las modificaciones que pueda introducirles el Servicio.
 
-La misma exigencia regirá para las modificaciones posteriores de tales etiquetas. Tratándose de productos cuyas unidades están protegidas en tiras de celofán, aluminio y otro material o en los que se emplee el sistema blister pack, cada tira o lámina deberá llevar impreso el nombre registrado del producto que corresponda a su etiqueta externa, serie y fecha de expiración.
+La misma exigencia regirá para las modificaciones posteriores de tales etiquetas. Tratándose de productos cuyas unidades están protegidas en tiras de celofán, aluminio y otro material o en los que se emplee el sistema blister pack, cada tira o lámina deberá llevar impreso el nombre registrado del producto que corresponda a su etiqueta externa y la cantidad unitaria de principio activo; además, deberá señalarse el número de registro SAG, serie y fecha de expiración.
 
 #### Artículo 54
 
@@ -956,7 +648,7 @@ El informe sobre estas medidas se archivará junto a la reclamación.
 
 #### Artículo 61
 
-Queda prohibida la distribución y utilización en el país de los productos registrados con fines exclusivos para la exportación. En el caso que el interesado solicite un certificado sanitario de exportación, el Servicio verificará el cumplimiento de las disposiciones del presente Reglamento en lo que fuere pertinente.
+Los productos destinados a la exportación deberán cumplir con los requisitos oficiales exigidos por el país importador, siempre que su fabricación no interfiera con las acciones sanitarias del Servicio. En el caso que el interesado solicite un certificado sanitario de exportación, el Servicio verificará el cumplimiento de las disposiciones del presente Reglamento en lo que fuere pertinente.
 
 #### Artículo 62
 
@@ -973,10 +665,6 @@ Se prohíbe la fabricación, importación, exportación, tenencia, distribución
 No se podrán emplear términos, expresiones o gráficos con fines promocionales que contraríen la verdad científica o induzcan a confusión o engaño respecto al producto, como tampoco expresiones exageradas respecto a las propiedades o efectos de un producto.
 
 Se prohíbe promocionar productos no registrados, o autorizados para uso experimental o especial.
-
-#### Artículo 64 bis
-
-Los laboratorios nacionales de producción farmacéutica y los establecimientos importadores deberán declarar anualmente las cantidades de productos comercializados, que se determinen mediante resolución del Servicio, con la finalidad de que se pueda establecer patrones de utilización y realizar evaluaciones de riesgo. De igual forma, los establecimientos animales deberán declarar anualmente al el uso de los productos, que se determinen mediante resolución del Servicio.
 
 ## Título V
 
@@ -1101,14 +789,6 @@ c. Productos registrados con efecto anabolizante con fines productivos;
 d. Productos registrados antimicrobianos que se pretendan utilizar con fines de promoción del crecimiento, o
 
 e. Productos registrados para los cuales no exista o no se pueda establecer un método analítico aceptable para la determinación del residuo resultante, sea del principio activo, sus metabólicos u otras sustancias relacionadas.
-
-#### Artículo 66
-
-quinquies: Corresponderá al Servicio implementar y gestionar un Sistema Nacional de Farmacovigilancia, con el objeto de conocer, identificar, cuantificar, evaluar y prevenir los efectos adversos derivados del uso de los productos farmacéuticos. Los requisitos del Sistema serán establecidos por el Servicio mediante resolución fundada.
-
-El Servicio analizará la información de farmacovigilancia disponible y requerirá los estudios necesarios para evaluar la seguridad o eficacia de un producto farmacéutico, en las condiciones de uso autorizadas. Además, podrá proponer las medidas necesarias para minimizar los riesgos asociados al uso del producto, para efectos de mantener un adecuado equilibrio en la relación beneficio-riesgo.
-
-Los antecedentes, la evaluación y las medidas señaladas precedentemente, tendrán el carácter de información pública, pudiendo darse a conocer por cualquier medio de difusión.
 
 ## Título VI
 
