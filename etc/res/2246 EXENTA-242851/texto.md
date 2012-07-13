@@ -96,11 +96,11 @@ Al interior de dicho perímetro, el Secretario Regional Ministerial de Transport
 
 1.7. Flota Teórica: Corresponde al número mínimo de vehículos necesarios para cumplir la frecuencia máxima establecida para cada servicio.
 
-1.8. Hora Punta Mañana: Corresponde al período comprendido entre las 07:00 y las 09:30 horas de un día hábil.
+1.8. SUPRIMIDO.
 
-1.9. Hora Punta Tarde: Es el período comprendido entre las 17:30 y las 20:30 horas de un día hábil.
+1.9. SUPRIMIDO.
 
-1.10. Hora Fuera de Punta: Corresponde al resto del día no especificado en los períodos de Hora Punta Mañana, Punta Tarde y a los días inhábiles.
+1.10. SUPRIMIDO.
 
 1.11.Terminal o Recinto Habilitado Fuera de la Vía Pública: Es el espacio físico que contempla un área de estacionamiento para buses y un área de oficinas y baños para el uso del personal.
 
@@ -124,7 +124,7 @@ e) Los vehículos de la flota deberán cumplir con las normas que establezca por
 
 f) Asientos preferentes. Cada vehículo que integre los servicios, deberá asegurar por lo menos 4 asientos para ser usados en forma preferente por mujeres embarazadas, adultos mayores y discapacitados. Dichos asientos se señalizarán en la forma que para el efecto fije por resolución el Secretario Regional, de acuerdo a lo establecido en el Decreto Supremo N°212/92 del Ministerio de Transportes y Telecomunicaciones.
 
-2.1. Procedimiento de reemplazo. Los vehículos de la flota podrán reemplazarse previa autorización del Secretario Regional, siempre que los vehículos reemplazantes mantengan o mejoren la antigüedad y número promedio de asientos de los vehículos que conforman la flota en servicio al momento del reemplazo y que tengan al menos 24 asientos. En todo caso, cuando el reemplazo se realice con vehículos nuevos, éstos deberán cumplir con el Decreto Supremo Nº 122/91 y la normativa dictada en conformidad a dicho decreto.
+2.1. Procedimiento de reemplazo. Los vehículos de la flota podrán reemplazarse previa autorización del Secretario Regional, siempre que los vehículos reemplazantes mantengan o mejoren la antigüedad y que tengan al menos 24 asientos y que el promedio de asientos no sea menor al 20% del promedio actual. En todo caso, cuando el reemplazo se realice con vehículos nuevos, éstos deberán cumplir con el decreto supremo Nº 122/1991 y la normativa dictada en conformidad a dicho decreto.
 
 2.2. Retiro de vehículos de la flota. Se podrán retirar vehículos de la flota sin ser reemplazados, previa autorización del Secretario Regional. En este caso y si correspondiese, el Secretario Regional efectuará los cálculos para definir el nuevo valor de la frecuencia y flota, cuyos resultados se aproximarán siempre al entero superior, en el caso de resultar números no enteros.
 
@@ -148,7 +148,7 @@ Tanto el plazo para el inicio de la exigencia del SIGF y GPS, las especificacion
 
 3. Programas de Operación (PO).
 
-Los servicios podrán presentar, a partir de los 30 días de operación y cada treinta días, ante el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, en adelante "el Secretario Regional", una propuesta de Programa de Operación (PO) en papel y en medio magnético, para eventuales modificaciones de frecuencias, flota, horarios, terminales y/o trazados, de conformidad al formato que se adjunta en el Anexo 4 de la presente Resolución. Su aprobación estará condicionada al cumplimiento de al menos los siguientes criterios:
+Los servicios podrán presentar, a partir de los 30 días de operación, ante el Secretario Regional Ministerial de Transportes y Telecomunicaciones de la VIII Región, en adelante "el Secretario Regional", una propuesta de Programa de Operación (PO) en papel y en medio magnético, para eventuales modificaciones de frecuencias, velocidades de operación, flota, horarios, terminales y/o trazados, de conformidad al formato que se adjunta en el Anexo 4 de la presente Resolución. Su aprobación estará condicionada al cumplimiento de algunos de los siguientes criterios:
 
 3.1. Se admitirá la modificación de los servicios corrientes a servicios de integración, siempre que se acredite la previa suscripción de un contrato entre el solicitante y la Empresa de Ferrocarriles del Estado, a través de su filial Fesub S.A. Esta solicitud de modificación deberá implicar una disminución de la distancia de su recorrido.
 
@@ -156,7 +156,7 @@ Los servicios podrán presentar, a partir de los 30 días de operación y cada t
 
 3.3. La solicitud de modificación no podrá implicar dejar de prestar servicios en sectores o comunas que no cuenten con una adecuada cobertura.
 
-3.4. Se faculta a los responsables para solicitar una modificación de su servicio, que contemple el aumento de la flota y la distancia recorrida, en caso de comenzar a habitarse nuevos conjuntos habitacionales.
+3.4. Se faculta a los responsables para solicitar una modificación de su servicio que contemple cambio de la frecuencia, aumento o retiro de vehículos a la flota autorizada y/o de la distancia recorrida, en caso de comenzar a habitarse nuevos conjuntos habitacionales, creación de centros atractores de viajes, modificación de la infraestructura vial, u otras que impliquen mejoras en la calidad del servicio.
 
 3.5. Otros aspectos que el Secretario Regional establezca por resolución.
 
@@ -172,37 +172,11 @@ Sin perjuicio de lo anterior, el Secretario Regional mediante resolución y por 
 
 5. Frecuencias
 
-5.1. Frecuencia en Hora Punta: Los servicios estarán obligados a cumplir una frecuencia dentro del rango establecido en el Anexo 1 de la presente resolución y que corresponde a la de los períodos denominados Hora Punta Mañana y Hora Punta Tarde.
+5.1. Los servicios estarán obligados a cumplir una frecuencia dentro de los períodos y días establecidos en el Anexo 1. Los responsables de cada servicio podrán solicitar, en el marco del programa de operación, ajustes de las frecuencias establecidas. En todo caso, los servicios no podrán suspenderse dentro del horario establecido en el numeral 8 de la presente resolución, salvo autorización expresa del Secretario Regional, la cual deberá ser otorgada mediante resolución fundada.
 
-5.2. Frecuencia en Hora Fuera de Punta: Los servicios estarán obligados a cumplir una frecuencia dentro del rango de frecuencia establecido en el Anexo 1 de la presente resolución.
+5.2. SUPRIMIDO.
 
-5.3. No obstante lo anterior, los responsables de cada servicio podrán solicitar al Secretario Regional, modificaciones a los rangos de frecuencias establecidos en el Anexo 1. Estas modificaciones deberán considerar las siguientes restricciones:
-
-. En horario fuera punta, la nueva cota superior no
-
-podrá exceder el 70%, ni ser inferior al 40%, de la
-
-cota superior del rango de frecuencia en Hora
-
-Punta.
-
-. En horario fuera punta, la nueva cota inferior no
-
-podrá exceder el 70%, ni ser inferior al 40%, de la
-
-cota inferior del rango de frecuencia en Hora
-
-Punta.
-
-. Las cotas superiores e inferiores de los rangos de
-
-frecuencias deben mantener la debida correlación.
-
-. La frecuencia mínima en horario fuera de punta, en
-
-ningún caso podrá ser inferior a 2veh/hr.
-
-El responsable del servicio podrá solicitar posteriormente, en el marco del Programa de Operación, nuevos ajustes de frecuencias, de acuerdo a las exigencias anteriores. En todo caso, los servicios no podrán suspenderse dentro del horario establecido en el numeral 8 de la presente resolución, salvo autorización expresa del Secretario Regional, la cual deberá ser otorgada mediante resolución fundada.
+5.3. SUPRIMIDO.
 
 5.4. Frecuencia en temporada de verano: La frecuencia para el período comprendido por los meses de enero y febrero de cada año, podrá reducirse en hora punta hasta un valor equivalente al 40% de la máxima establecida para cada servicio en el Anexo 1 de la presente Resolución.
 
@@ -426,9 +400,7 @@ De conformidad con lo establecido en el artículo 6º del Decreto Supremo Nº 5 
 
 Dichas garantías deberán ser renovadas o reemplazadas 30 (treinta) días antes de la fecha de su vencimiento, por otras cuyo monto y vigencia, deberá ajustarse a lo establecido en los numerales 11.2 y 11.4, respectivamente, de la presente Resolución.
 
-12. Vigencia de la Inscripción
-
-La inscripción tendrá una vigencia de 90 días a partir de la fecha de inicio de operación del servicio respectivo, o hasta la puesta en marcha del próximo proceso de licitación de vías para el Gran Concepción, cualesquiera de ellos ocurra primero.
+12. ELIMINADO.
 
 13. Restricción vehicular.
 
