@@ -3624,6 +3624,10 @@ Con la misma pena señalada en el artículo anterior se castigará el robo de co
 
 Si con ocasión de alguna de las conductas señaladas en el inciso anterior, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo..
 
+#### Artículo 443 bis
+
+El robo con fuerza de cajeros automáticos, dispensadores o contenedores de dinero, o del dinero y valores contenidos en ellos, será sancionado con la pena de presidio menor en su grado máximo. Para los efectos del presente artículo se entenderá que hay fuerza en las cosas si se ha procedido con alguno de los medios señalados en el artículo 440, Nos 1° y 2°; si se ha fracturado, destruido o dañado el cajero automático o dispensador o sus dispositivos de protección o sujeción mediante el uso de instrumentos contundentes o cortantes de cualquier tipo, incluyendo el empleo de medios químicos; o si se utilizan medios de tracción.
+
 #### Artículo 444
 
 Se presume autor de tentativa de robo al que se introdujere con forado, fractura, escalamiento, uso de llave falsa o de llave verdadera sustraída o de ganzúa en algún aposento, casa, edificio habitado o destinado a la habitación o en sus dependencias.
