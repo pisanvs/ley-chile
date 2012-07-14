@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.311, de 13 de julio de 2012, se publicó decreto Nº 42, que "APRUEBA REGLAMENTO SOBRE INFORMACIÓN AL CONSUMIDOR DE CRÉDITOS HIPOTECARIOS", con el error de publicación que se salva a continuación: I Cuerpo, página 25, segunda columna, en DISPOSICIÓN TRANSITORIA, donde dice "Artículo único transitorio.- El presente reglamento entrará en vigencia el 1 de julio de 2012. ..." debe decir "Artículo único transitorio.- El presente reglamento entrará en vigencia el 31 de julio de 2012. ...".
