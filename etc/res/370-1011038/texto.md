@@ -124,11 +124,13 @@ B) Acreditación de experiencia en la construcción y operación de líneas de t
 
 El postulante debe acreditar su experiencia en la construcción y operación de líneas de transmisión.
 
-En el caso que el postulante no cuente con experiencia en el desarrollo y operación de proyectos de transmisión, deberá presentar un convenio o contrato con un tercero que posea esa experiencia para un adecuado diseño, construcción y operación de la línea proyectada en el proyecto. Para estos efectos, deberán acompañarse a la postulación, los antecedentes que acrediten la experiencia del tercero.
+En el caso que el postulante no cuente con experiencia en el desarrollo y operación de proyectos de transmisión o subtransmisión, deberá presentar un convenio o contrato con un tercero que posea esa experiencia y entregue las garantías necesarias para un adecuado diseño, construcción y operación de la línea proyectada en el proyecto.
+
+Para estos efectos, deberán acompañarse a la postulación, los antecedentes que acrediten la experiencia del tercero.
 
 C) Estudio de ingeniería del proyecto de transmisión.
 
-El solicitante deberá presentar los respectivos estudios de ingeniería básica del proyecto de transmisión que se esté postulando al subsidio, los que podrán ser revisados y/o auditados por CORFO o un tercero encomendado al efecto por el Gerente de Inversión y Desarrollo de CORFO.
+El solicitante deberá presentar los respectivos estudios de ingeniería básica del proyecto de transmisión que se esté postulando al subsidio, los que podrán ser revisados y/o auditados por CORFO o un tercero encomendado al efecto por el Gerente Corporativo de CORFO.
 
 D) Acreditación de la demanda cierta con la que cuenta el proyecto, e identificación de la demanda incierta o potencial del proyecto.
 
@@ -138,7 +140,7 @@ Respecto de la demanda incierta, el transmisor deberá tener caracterizadas sus 
 
 Asimismo, CORFO podrá exigir información a las empresas que componen la demanda cierta e incierta declarada para el proyecto.
 
-Independiente de lo anterior, tanto en el período de postulación como en el de vigencia del subsidio, la empresa de transmisión que postule al subsidio deberá dar todas las facilidades de acceso a la información y antecedentes del proyecto de transmisión, así como preparar y costear las visitas a terreno, que sean requeridas por CORFO. A su vez, deberá obtener de los proyectos ERNC que se conecten o vayan a conectarse a la línea de transmisión, todas las facilidades de acceso a la información y antecedentes de los mismos, como aquellas para efectuar visitas a terreno.
+Independiente de lo anterior, tanto en el período de postulación como en el de vigencia del subsidio, la empresa de transmisión que postule al subsidio deberá dar todas las facilidades de acceso a la información y antecedentes del proyecto de transmisión, que sean requeridas por CORFO. A su vez, deberá obtener de los proyectos ERNC que se conecten o vayan a conectarse a la línea de transmisión, todas las facilidades de acceso a la información y antecedentes de los mismos, como aquellas para efectuar visitas a terreno.
 
 E) Declaración Jurada propia y de los titulares de proyectos ERNC
 
@@ -152,11 +154,15 @@ V EVALUACIÓN Y APROBACIÓN DEL SUBSIDIO.
 
 V.1 COMITÉ TÉCNICO DE EVALUACIÓN.
 
-El Comité Técnico de Evaluación estará conformado por tres miembros, los cuales podrán ser profesionales de CORFO, del Centro de Energías Renovables de CORFO, del Ministerio de Energía, o de otros servicios o instituciones de la Administración del Estado.
+El Comité Técnico de Evaluación estará conformado por tres miembros designados por el Gerente de Desarrollo Empresarial de la Corporación, pudiendo también éste formar parte de aquél como uno de sus
 
-El Gerente de Inversión y Desarrollo de la Corporación designará los tres miembros de dicho Comité, y podrá participar en el mismo como uno de los tres miembros. En cualquier caso, el Comité deberá siempre estar integrado por al menos un profesional de CORFO.
+miembros.
 
-El Comité será responsable de la evaluación de las postulaciones al subsidio establecido en el presente instrumento, y de proponer los montos de asignación de subsidios que correspondan a los proyectos evaluados favorablemente por aquél.
+El Comité será responsable de la evaluación de las postulaciones al subsidio establecido en el presente instrumento, y de proponer los montos de asignación de subsidios que correspondan a los proyectos evaluados favorablemente por aquél. En este Comité Técnico también podrán participar profesionales del Centro de Energías Renovables de CORFO, de la Comisión Nacional de Energía, o de otros servicios o instituciones de la Administración del Estado, si el Gerente de
+
+Desarrollo Empresarial de la Corporación lo estimare necesario, debiendo siempre integrarse al
+
+menos por un profesional de CORFO.
 
 El Comité Técnico podrá asesorarse para la evaluación de proyectos por una entidad o profesionales especialistas de carácter externo a la organización del Estado.
 
@@ -172,7 +178,7 @@ iii. Evaluar las proyecciones de demanda cierta e incierta realizada por el post
 
 b) Proponer al Comité de Asignación de Fondos a Energías Renovables no Convencionales los montos a cofinanciar para las postulaciones evaluadas favorablemente, de acuerdo a los antecedentes aportados por los titulares de los proyectos y la evaluación realizada.
 
-El Comité Técnico de Evaluación de las postulaciones tendrá un plazo de 40 días hábiles, contados desde la presentación de la solicitud del subsidio, para presentar su recomendación técnica respecto de una postulación al Comité de Asignación de Fondos a Energías Renovables no Convencionales. Dicho plazo podrá ser prorrogado hasta por dos períodos iguales en caso que el mismo Comité Técnico de Evaluación lo estime necesario, basado en la falta de cierta información específica o en la complejidad del estudio necesario para evaluar el proyecto en evaluación, lo cual deberá ser comunicado al solicitante antes del vencimiento del plazo correspondiente por el Gerente de Inversión y Desarrollo.
+El Comité Técnico de Evaluación de las postulaciones tendrá un plazo de 40 días hábiles, contados desde la presentación de la solicitud del subsidio, para presentar su recomendación técnica respecto de una postulación al Comité de Asignación de Fondos a Energías Renovables no Convencionales. Dicho plazo podrá ser prorrogado hasta por dos períodos iguales en caso que el mismo Comité Técnico de Evaluación lo estime necesario, basado en la falta de cierta información específica o en la complejidad del estudio necesario para evaluar el proyecto presentado, lo cual deberá ser comunicado al solicitante antes del vencimiento del plazo correspondiente por el Gerente de Desarrollo Empresarial.
 
 V.2 CRITERIOS DE EVALUACIÓN DE LAS POSTULACIONES.
 
@@ -188,7 +194,7 @@ d) Capacidades del equipo ejecutor del proyecto, sus consultores y otros experto
 
 e) Monto de subsidio requerido para la línea, estructura de peajes propuesta, plazo de la ejecución y horizonte de evaluación del proyecto de transmisión, grado de avance de la ingeniería básica o ingeniería de detalles de los proyectos de generación, servicios adicionales, fórmula de indexación de los peajes, cronograma de entrada en operación de los proyectos de generación (demanda cierta e incierta). (0 a 10 puntos).
 
-Los proyectos cuya calificación total sea inferior a 50 puntos no podrán someterse a consideración del Comité de Asignación de Fondos a Energías Renovables No Convencionales para el otorgamiento del Subsidio.
+El Comité Técnico de Evaluación señalado en el punto anterior establecerá los puntajes que correspondan a las categorías señaladas en los literales anteriores, y calificará los proyectos con nota entre 0 y 100. Los proyectos cuya calificación sea inferior a 50 puntos no podrán someterse a consideración del Comité de Asignación de Fondos a Energías Renovables No Convencionales para el otorgamiento del Subsidio.
 
 V.3 APROBACIÓN.
 
@@ -200,13 +206,13 @@ La facultad de llevar a efecto los acuerdos de aprobación de subsidio del Comit
 
 Una vez asignado el subsidio a un solicitante, éste tendrá un plazo máximo de 24 meses para tener en operación técnica y comercial el proyecto de transmisión que preste servicios a proyectos ERNC. Este plazo se contará desde el momento en que quede totalmente tramitada la resolución que disponga la aprobación del correspondiente contrato de subsidio entre CORFO y el solicitante. Sin perjuicio de ello, a solicitud del beneficiario, calificada por el Comité de Asignación de Fondos a Energías Renovables No Convencionales, el contrato de subsidio podrá disponer que el plazo referido comience a contarse desde una fecha posterior, la cual, en cualquier caso, no podrá exceder de 6 meses desde la total tramitación de la resolución que apruebe dicho contrato.
 
-Entre los años 6 y 10 de operación del proyecto de transmisión, será aplicado el subsidio, y sólo en el caso que el proyecto no hubiese conseguido la demanda total proyectada.
+Entre los años 6 y 10 de operación del proyecto de transmisión, será aplicado el subsidio, y sólo en el caso de que durante los años 1 al 5 inclusive, el proyecto no hubiese conseguido la demanda total proyectada.
 
 Desde el momento en que el proyecto alcance el total de su demanda proyectada, independiente del año de desarrollo en que se encuentre el proyecto, el subsidio dejará de operar sin posibilidad de renovarse.
 
-En caso que proceda, el interesado deberá enviar al Gerente de Inversión y Desarrollo de CORFO, dentro de los 60 días hábiles siguientes al término del Período i, una solicitud de pago del subsidio, adjuntando los antecedentes y señalando los fundamentos por los cuales se solicita el pago.
+En caso que proceda, el interesado deberá enviar al Gerente Corporativo de CORFO, dentro de los 60 días hábiles siguientes al término del Período i, una solicitud de pago del subsidio, adjuntando los antecedentes y señalando los fundamentos por los cuales se solicita el pago.
 
-Dentro de los 20 días hábiles siguientes a la recepción de dicha solicitud, el Gerente de Inversión y Desarrollo de CORFO designará un Comité Técnico de Operación, conformado en la forma señalada en el número V.1 del presente Reglamento, el cual tendrá las siguientes funciones:
+Dentro de los 20 días hábiles siguientes a la recepción de dicha solicitud, el Gerente Corporativo de CORFO designará un Comité Técnico de Operación, conformado en la forma señalada en el número V.1 del presente Reglamento, el cual tendrá las siguientes funciones:
 
 a) Auditar los flujos anuales de potencia transportados efectivamente por el proyecto. Para ello se contrastará la información entregada por el transmisor, con la información disponible en los respectivos CDEC.
 
@@ -214,9 +220,9 @@ b) Determinar, anualmente, los montos de subsidio que corresponden a los transmi
 
 c) Auditar la tarifa y los métodos de indexación que el transmisor aplica durante la vida útil del subsidio a los proyectos de generación y a los retiros.
 
-El Comité Técnico de Operación informará al Gerente de Inversión y Desarrollo acerca de la procedencia del pago del subsidio dentro de los 40 días hábiles siguientes a la designación del Comité Técnico. Dicho plazo podrá ser prorrogado hasta en 40 días hábiles adicionales en caso que el referido Comité requiera información adicional a la entregada por el interesado, lo cual deberá ser comunicado al solicitante antes del vencimiento del plazo correspondiente por el Gerente de Inversión y Desarrollo.
+El Comité Técnico de Operación informará al Gerente Corporativo acerca de la procedencia del pago del subsidio dentro de los 40 días hábiles siguientes a la designación del Comité Técnico. Dicho plazo podrá ser prorrogado hasta en 40 días hábiles adicionales en caso que el referido Comité requiera información adicional a la entregada por el interesado, lo cual deberá ser comunicado al solicitante antes del vencimiento del plazo correspondiente por el Gerente Corporativo.
 
-Sobre la base del informe del Comité Técnico de Operación, dentro del plazo de 15 días hábiles contados desde la recepción del respectivo informe de dicho Comité, el Gerente de Inversión y Desarrollo arbitrará los medios para efectuar el pago del subsidio que corresponda al interesado o informará al beneficiario de la improcedencia de dicho pago, según sea el caso.
+Sobre la base del informe del Comité Técnico de Operación, dentro del plazo de 15 días hábiles contados desde la recepción del respectivo informe de dicho Comité, el Gerente Corporativo arbitrará los medios para efectuar el pago del subsidio que corresponda al interesado o informará al beneficiario de la improcedencia de dicho pago, según sea el caso.
 
 El pago del beneficio se efectuará en unidades de fomento, anualmente, entre el año seis y décimo inclusive, será equivalente al menor valor entre:
 
@@ -274,11 +280,13 @@ producto de TPi por DPi. (U.F.)
 
 i : Año de aplicabilidad del subsidio (6 a 10)
 
-Durante la operación del instrumento, la empresa beneficiada por el subsidio estará obligada a informar la relación entre energía y potencia del proyecto cada vez que CORFO se lo solicite, adjuntando los antecedentes que permitan auditar dicha relación.
+En caso de que por aplicación de lo dispuesto en el artículo 113° de la LGSE, los ingresos proyectados por transporte de potencia superen a los ingresos efectivamente percibidos por el transmisor, el subsidio operará independientemente de que la demanda real por transporte de potencia del proyecto supere o iguale la demanda total proyectada para el mismo. En dicho caso, el pago del beneficio se otorgará anualmente, en unidades de fomento, entre el año seis y décimo inclusive, y su monto será equivalente a la diferencia entre los Ingresos Proyectados (IPi) y aquella parte del valor de transmisión anual a que se refiere en el artículo 113° de la LGSE, incluida bajo el concepto de valor presente de las inversiones y valor residual. Con todo, el monto del beneficio no podrá exceder de 18.000 UF o de aquel valor que represente el 5% de la inversión inicial del proyecto
+
+Durante la operación del instrumento, la empresa beneficiada por el subsidio se obliga a informar la relación entre energía y potencia del proyecto. Sin perjuicio de ello, CORFO podrá solicitar antecedentes para auditar dicha relación.
 
 Los medios de evaluación serán establecidos en el contrato que CORFO suscriba con la empresa que postula al subsidio.
 
-En el caso de que opere el subsidio, el beneficiario deberá entregar, previo al pago correspondiente al periodo i respectivo, una boleta bancaria de garantía, a la vista, con un plazo de vigencia de 1 año contado desde la fecha en que se haga efectivo el pago del subsidio asociado a dicho período y por un monto equivalente al valor del subsidio entregado, expresado en unidades de fomento.
+En el caso de que opere el subsidio, el beneficiario deberá entregar, previo al pago correspondiente al período i respectivo, una boleta bancaria de garantía, con un plazo de vigencia de 1 año contado desde la fecha en que se haga efectivo el pago del subsidio asociado a dicho período y por un monto equivalente al valor del subsidio entregado.
 
 Esta garantía se hará efectiva si, dentro del año siguiente al pago correspondiente al periodo i respectivo, se suspendiera o terminase la operación de la línea de transmisión.
 
@@ -296,7 +304,9 @@ b) La declaración de la beneficiaria en el sentido que acepta las condiciones d
 
 c) La condición de que, previo a cada pago que deba efectuarse en cumplimiento del contrato, la beneficiaria acredite a satisfacción de CORFO que no tiene obligaciones laborales o sociales pendientes de pago con sus trabajadores.
 
-d) La condición de que el desembolso de los fondos que correspondan para cada Período i se ajustará a los recursos que se contemplen anualmente en el Presupuesto de CORFO para el Período i respectivo, y de que la entrega incompleta, o la falta de entrega de dichos recursos en cualquiera de dichos períodos, por no existir suficientes recursos en el Presupuesto correspondiente, no generará responsabilidad alguna para CORFO.
+d) ELIMINADO.
+
+> **Nota.** El numeral 1, letra f) de la Resolución 370, Corporación Fomento de la Producción, publicado el 18.07.2012, modifica el numeral VII de la presente norma, denominado "Condiciones Generales del Contrato", en el sentido de reemplazar el párrafo primero, sin embargo, debió decir párrafo segundo, por el siguiente: La firma de contrato quedará sujeta a la obtención de la resolución de calificación ambiental favorable (en caso de tratarse de un proyecto que debe ser evaluado en el Sistema de Evaluación de Impacto Ambiental que contempla la ley 19.300), y la tramitación completa de permisos para la construcción y operación del proyecto de línea.
 
 Anótese, tómese razón por la Contraloría General de la República, transcríbase y publíquese en el Diario Oficial.- Carlos Álvarez Voullième, Vicepresidente Ejecutivo.- Jaime Arellano Quintana, Fiscal.- Yerko Koscina Peralta, Secretario General.
 
