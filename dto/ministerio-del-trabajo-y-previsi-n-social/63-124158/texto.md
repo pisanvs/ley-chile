@@ -66,7 +66,7 @@ El Bienestar se financiará con los siguientes recursos:
 
 a) Con una cuota de incorporación cuyo monto fijará el Consejo Administrativo la cual no podrá ser superior al 3% de la remuneración mensual imponible para pensiones de los funcionarios activos y del 1,5% de la pensión en el caso de los pensionados.
 
-b) Con el aporte mensual de sus afiliados en servicio activo de hasta el 1,0% de su remuneración mensual imponible para pensiones;
+b) Con el aporte mensual de sus afiliados en servicio activo de hasta el 2,5% de su remuneración mensual imponible para pensiones;
 
 c) Con el aporte mensual de sus afiliados pensionados que no exceda del 0,5% de sus pensiones, más la cantidad correspondiente al aporte institucional, que será de su cargo;
 
