@@ -58,7 +58,7 @@ Dentro del tercer día de verificada la votación, se comunicará su resultado a
 
 El Consejo Administrativo celebrará sesiones ordinarias y extraordinarias.
 
-Las sesiones ordinarias se celebrarán una vez al mes, en el día y hora que fije el Consejo Administrativo, y se citará a ellas por escrito por el Jefe del Bienestar, lo que también regirá respecto de las sesiones extraordinarias, debiendo efectuarse la citación en este último caso con una anticipación de 48 horas.
+Las sesiones ordinarias se celebrarán a lo menos una vez cada tres meses, en el día y hora que fije el Consejo Administrativo, y se citará a ellas por escrito por el Jefe de Bienestar, lo que también regirá respecto de las sesiones extraordinarias, debiendo efectuarse la citación en este último caso con una anticipación de 48 horas.
 
 ## Título III
 
@@ -94,7 +94,7 @@ g) Con las sumas provenientes de herencias, legados, donaciones, y erogaciones v
 
 #### Artículo 9°
 
-Los fondos del Bienestar deberán depositarse en una cuenta corriente bancaria, y contra ella sólo podrán girar conjuntamente la persona designada por el Superintendente de Bancos e Instituciones Financieras y el Jefe del Bienestar. En caso de ausencia de cualquiera de estas personas, serán reemplazados por el Director Jurídico o, a falta de éste, por el abogado que le suceda por orden de antigüedad. No será necesario acreditar esta ausencia ante terceros.
+Los fondos del Bienestar deberán depositarse en una cuenta corriente bancaria, y contra ella sólo podrán girar conjuntamente una de las personas designadas por el Superintendente de Bancos e Instituciones Financieras y el Jefe del Bienestar. En caso de ausencia de este último, por cualquier causa, será reemplazado por cualquiera de las personas designadas. No será necesario acreditar esta ausencia ante terceros.
 
 ## Título V
 
@@ -150,13 +150,23 @@ b) Ayudas en dinero
 
 5) Vacaciones: hasta 2 Ingresos Mínimos sin incremento para fines no remuneracionales.
 
+6) Efemérides: Hasta 2 Ingresos Mínimos sin incremento para fines no remuneraciones, para la celebración de las siguientes fechas conmemorativas de acontecimientos nacionales y/o personales:
+
+Celebración de Fiestas Patrias
+
+Celebración día del Padre o de la Madre
+
+Celebración de cumpleaños del afiliado
+
 c) Préstamos El Bienestar, cuando sus recursos lo permitan, podrá conceder préstamos a sus afiliados para los siguientes fines:
 
 1) Préstamos de auxilio: con un máximo de tres Ingresos Mínimos sin incremento para fines no remuneracionales por año, a una tasa de interés anual determinada por el Consejo Administrativo, y con un plazo de servicio no superior a dos años;
 
 2) Préstamos de complementación asistencial: con el objeto de financiar aquella parte del valor de los servicios señalados en la letra a) de este artículo, que es de cargo del afiliado. El valor de estos préstamos, sumados a la ayuda asistencial y a la que proporcionen las respectivas Isapres, no podrá ser superior al monto total de la prestación, o a los siguientes valores:
 
-a.- 10 Ingresos Mínimos sin incremento para fines no remuneracionales, para aquellos préstamos otorgados a un plazo no superior a un año con una tasa de interés anual conforme a lo señalado en el número 1) precedente, y b.- 45 Ingresos Mínimos sin incremento para fines no remuneracionales, para aquellos préstamos otorgados a un plazo no superior a tres años con un reajuste e interés determinado por el Consejo Administrativo;
+a.- 10 Ingresos Mínimos sin incremento para fines no remuneracionales, para aquellos préstamos otorgados a un plazo no superior a un año con una tasa de interés anual conforme a lo señalado en el número 1) precedente, y
+
+b.- 45 Ingresos Mínimos sin incremento para fines no remuneracionales, para aquellos préstamos otorgados a un plazo no superior a seis años con un reajuste e interés determinado por el Consejo Administrativo;
 
 3) Préstamos para la adquisición de bienes durables: con un máximo de hasta un 80% del valor de la compra, con un reajuste e interés determinado por el Consejo Administrativo, y a un plazo no superior a seis años. El 80% referido no podrá exceder en ningún caso la suma de 8 Ingresos Mínimos sin incremento para fines no remuneracionales, y
 
@@ -175,6 +185,8 @@ e.- Refaccionar, terminar o ampliar viviendas ocupadas habitualmente por los afi
 Las operaciones señaladas en el número 4.- anterior, serán controladas por el Consejo Administrativo del Bienestar y deberán efectuarse por medio de personas o de Empresas Constructoras aceptadas por dicho Consejo. Estos préstamos se otorgarán por una sola vez a cada afiliado hasta una suma equivalente a quince sueldos bases de cada uno de ellos, estarán afectos al mecanismo de reajuste e interés que fije el Consejo Administrativo, su servicio podrá efectuarse hasta en un plazo de diez años y será garantizado con hipoteca o cualquier otro sistema que el Consejo acuerde.
 
 d) Otros beneficios El Bienestar podrá financiar para sus afiliados y familiares la celebración de Navidad en las condiciones que determine su Consejo Administrativo
+
+5) Préstamo de emergencia: a un plazo no superior a 72 meses, destinado a financiar al afiliado y a su grupo familiar directo, frente a situaciones de peligro o desastre que requieran de una acción inmediata, cuyas condiciones serán determinadas por el Consejo Administrativo, conforme a los antecedentes individuales analizados caso a caso.
 
 #### Artículo 10 bis
 
