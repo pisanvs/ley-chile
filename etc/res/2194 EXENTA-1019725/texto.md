@@ -138,7 +138,7 @@ k) Deducir en representación del Instituto las demandas de cualquier clase que 
 
 l) Ordenar instruir sumarios sanitarios.
 
-m) Asumir las funciones de Jefe de Gabinete en caso de ausencia de su titular.
+m) ELIMINADO.
 
 9.- Delégase en la Jefatura del Departamento de Control Nacional las siguientes facultades:
 
@@ -252,7 +252,7 @@ La facultad que se delega comprende las comunicaciones, reservadas o no, que rem
 
 25.- Delégase en la Jefatura de Gabinete la facultad de firmar providencias de mero trámite, fijar plazos a los requerimientos de la Dirección, fijar reuniones y requerir directamente a cualquier Departamento, Subdepartamento, Sección o Unidad del Instituto, informes, antecedentes u otros documentos que estime pertinente y fijar plazo para su respuesta.
 
-25 bis.- Delégase en todas las Jefaturas de este Instituto, ya sean de Departamento, Subdepartamento, Unidades, Secciones y Oficinas, la facultad de autorizar los permisos de salida de su(s) subordinado(s), sobre los que ejecuten supervisión directa
+25 bis.- Delégase en todas las Jefaturas de este Instituto, ya sean de Departamento, Subdepartamento, Unidades, Secciones y Oficinas, la facultad de autorizar los permisos de salida, conceder o denegar el uso de permiso administrativo, autorizar el uso del derecho a feriado, anticipar o postergar la época del feriado, autorizar el uso conjunto del feriado con el que corresponda al año siguiente y autorizar la acumulación del feriado al año siguiente de su(s) subordinado(s), sobre los que ejecuten supervisión directa
 
 26.- Déjanse sin efecto las resoluciones Nºs 110, 1275 y 1585 de 2005; 1236 y 2183, ambas de 2006; 447, 1038 de 2007; 1492, 1645, 1735 de 2008; 695, 789, 2215 y 2291, todas de 2009; 388 y 1246, ambas de 2010; sobre esta misma materia, de tal manera que a contar de esta fecha toda delegación de facultades se regirá por la presente resolución o por especial delegación.
 
@@ -261,5 +261,7 @@ La facultad que se delega comprende las comunicaciones, reservadas o no, que rem
 28.- Publíquese en el Diario Oficial, fecha desde la cual comenzará a regir.
 
 > **Nota.** La Resolución 3089 Exenta, Salud, publicada el 25.01.2012, modifica la presente norma de la siguiente manera : - El numeral 1, ordena agregar en la Jefatura del Departamento de Administración y Finanzas de este Instituto, según corresponda, la facultad de autorizar el aumento de obra, que no involucre aumento de costos monetarios.- El numeral 3, dispone agregar en todas las Jefaturas de Departamentos de este Instituto, la facultad de elaborar y solicitar a la Dirección, las comisiones de servicio que estimen pertinentes y,- El numeral 4, ordena agregar en todas las Jefaturas de Departamento de este Instituto, la facultad de autorizar los cometidos funcionarios que no impliquen gastos.
+
+> **Nota.** NOTA 1 El numeral 2 de la Resolución 735 Exenta, Salud, publicada el 17.04.2012 establece como subrogante del cargo de Jefe de Gabinete de este Instituto, en caso de ausencia o impedimento del titular, al Jefe de Asesoría Jurídica.
 
 Anótese, regístrese y comuníquese.- María Teresa Valenzuela Bravo, Directora (S), Instituto de Salud Pública de Chile.
