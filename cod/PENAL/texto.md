@@ -212,6 +212,8 @@ El tribunal tomará o no en consideración esta circunstancia, según la natural
 
 20.° Ejecutarlo portando armas de fuego o de aquellas referidas en el artículo 132.
 
+21ª. Cometer el delito o participar en él motivado por la ideología, opinión política, religión o creencias de la víctima; la nación, raza, etnia o grupo social a que pertenezca; su sexo, orientación sexual, identidad de género, edad, filiación, apariencia personal o la enfermedad o discapacidad que padezca.
+
 ### V. De las circunstancias que atenúan o agravan la responsabilidad criminal, según la naturaleza y accidentes del delito
 
 #### Artículo 13

@@ -714,8 +714,6 @@ Cuando la comisión deba efectuarse en el extranjero, el decreto que así lo dis
 
 Los funcionarios públicos pueden cumplir cometidos funcionarios que los obliguen a desplazarse dentro o fuera de su lugar de desempeño habitual para realizar labores específicas inherentes al cargo que sirven. Estos cometidos no requieren ser ordenados formalmente, salvo que originen gastos para la institución, tales como pasajes, viáticos u otros análogos, en cuyo caso se dictará la respectiva resolución o decreto.
 
-> **Nota.** El artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el Art. 78 de la Ley 18.834. Sin embargo en este texto refundido se alteró la numeración. Consúltese la nota al pie del artículo 84 para ver el contenido de la referida modificación.
-
 ### Párrafo 4º
 
 De la subrogación
@@ -756,9 +754,7 @@ a) Ejercer facultades, atribuciones o representación de las que no esté legalm
 
 b) Intervenir, en razón de sus funciones, en asuntos en que tengan interés él, su cónyuge, sus parientes consanguíneos hasta el tercer grado inclusive o por afinidad hasta el segundo grado, y las personas ligadas a él por adopción;
 
-c) Actuar en juicio ejerciendo acciones civiles en contra de los intereses del Estado o de las instituciones que de él formen parte, salvo que se trate de un derecho que ataña directamente al funcionario, a su
-
-cónyuge o a sus parientes hasta el tercer grado de consanguinidad o por afinidad hasta el segundo grado y las personas ligadas a él por adopción;
+c) Actuar en juicio ejerciendo acciones civiles en contra de los intereses del Estado o de las instituciones que de él formen parte, salvo que se trate de un derecho que ataña directamente al funcionario, a su cónyuge o a sus parientes hasta el tercer grado de consanguinidad o por afinidad hasta el segundo grado y las personas ligadas a él por adopción;
 
 d) Intervenir ante los tribunales de justicia como parte, testigo o perito, respecto de hechos de que hubiere tomado conocimiento en el ejercicio de sus funciones, o declarar en juicio en que tenga interés el Estado o sus organismos, sin previa comunicación a su superior jerárquico;
 
@@ -772,13 +768,11 @@ h) Realizar cualquier actividad política dentro de la Administración del Estad
 
 i) Organizar o pertenecer a sindicatos en el ámbito de la Administración del Estado; dirigir, promover o participar en huelgas, interrupción o paralización de actividades, totales o parciales, en la retención indebida de personas o bienes, y en otros actos que perturben el normal funcionamiento de los órganos de la Administración del Estado;
 
-j) Atentar contra los bienes de la institución, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro, y
+j) Atentar contra los bienes de la institución, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro;
 
-k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen.
+k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen, y
 
-l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo.
-
-> **Nota.** El Nº 3 del artículo 2º de la LEY 20005, publicada el 18.03.2005, ordena modificar el artículo 78 de la LEY 18834, que aprueba el Estatuto Administrativo, el que en este texto refundido corresponde al presente artículo. La modificación señalada se ha incorporado al presente texto refundido no obstante que la referencia no es concordante, por cuanto la enumeración de los artículos en el presente texto fue cambiada.
+l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación.
 
 ### Párrafo 6°
 
@@ -1152,7 +1146,7 @@ La medida disciplinaria de destitución procederá sólo cuando los hechos const
 
 a) Ausentarse de la institución por más de tres días consecutivos, sin causa justificada;
 
-b) Infringir las disposiciones de las letras i), j) y k) del artículo 84 de este Estatuto;
+b) Infringir las disposiciones de las letras i), j), k) y l) del artículo 84 de este Estatuto;
 
 c) Condena por crimen o simple delito, y
 
