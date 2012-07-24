@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.952, de 18 de julio de 2012, de esta Subsecretaría, declárase la caducidad total de la resolución exenta N° 888, de 2004, que autorizó a Pesquera Bío-Bío S.A. hoy CAMANCHACA PESCA SUR S.A. para ampliar actividades pesqueras extractivas con la nave "Don Roberto I", respecto del recurso hidrobiológico Jibia en el área marítima comprendida entre la III a VII y IX a X Regiones, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 18 de julio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
