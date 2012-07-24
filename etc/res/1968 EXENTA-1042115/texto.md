@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.968, de 18 de julio de 2012, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura N° 211101067, N° 211101066 y N° 210103077, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de julio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
