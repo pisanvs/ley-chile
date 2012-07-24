@@ -1,0 +1,3 @@
+Por resolución exenta N° 1.967, de 18 de julio de 2012, de esta Subsecretaría, recházanse las solicitudes N° 210103111, 210103132, 208101091, 210101081, 210101092, 210101074 y 210101096, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 18 de julio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
