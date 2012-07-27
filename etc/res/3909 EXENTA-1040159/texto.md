@@ -36,8 +36,6 @@ El monto definitivo a considerar para la aplicación del subsidio será determin
 
 > **Nota.** NOTA 1 El Numeral 1º letra a) de la Resolución 5803 exenta, Vivienda, publicada el 27.07.2012, modifica la presente norma en el sentido reemplazar en la tabla inserta en el Resuelvo 3 las columnas Postulación colectiva con proyecto habitacional y Subtotal de la manera que la citada norma indica.
 
-> **Nota.** NOTA 2 El Numeral 1º de la Resolución 6405 exenta, Vivienda, publicada el 18.08.2012, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el Resuelvo 3 las columnas "Postulación colectiva sin proyecto habitacional" y "Subtotal" de la manera que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
