@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA A FERIA GANADEROS OSORNO S.A.
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº77312007574, de fecha 20 de junio de 2012, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Feria Ganaderos Osorno S.A., RUT Nº76.360.720-8, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de ganado vivo, establecido en la resolución Ex. Nº3.721 del 28 de julio de 2000, de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1º de agosto de 2000.
