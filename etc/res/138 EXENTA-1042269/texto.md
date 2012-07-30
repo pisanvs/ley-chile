@@ -1,0 +1,9 @@
+INICIA PROCESO DE REVISIÓN DE RESOLUCIÓN N°67 EXENTA, DE 2004, QUE CALIFICA AMBIENTALMENTE EL PROYECTO "CONVENTO VIEJO ETAPA II"
+
+Se informa a la ciudadanía que, mediante resolución exenta Nº 138/2012, de fecha 13 de julio de 2012, la Comisión de Evaluación de la Región del Libertador General Bernardo O'Higgins ha resuelto iniciar proceso de revisión de la resolución exenta Nº 67/2004, de 8 de junio de 2004, que califica ambientalmente el proyecto "Convento Viejo Etapa II", cuyo titular es el Ministerio de Obras Públicas, de conformidad con los artículos 25 quinquies de la ley Nº 19.300 y 39 de la ley Nº 19.880.
+
+Cualquier persona podrá examinar el expediente del procedimiento, el que se encuentra disponible para su consulta, en días hábiles, de lunes a viernes, de 8:30 a 13:00 horas, en las oficinas del Servicio de Evaluación Ambiental de la Región del Libertador General Bernardo O'Higgins, ubicadas en calle Campos Nº 241, piso 7º y formular observaciones debidamente justificadas por escrito.
+
+Para ello, dispondrán de un plazo 10 días hábiles (lunes a viernes, excluyendo días festivos), contados a partir de la fecha de la presente publicación. Las observaciones deberán ser dirigidas por escrito a la dirección antes señalada, a la Secretaría de la Comisión de Evaluación de la Región del Libertador General Bernardo O'Higgins, indicando el nombre del proyecto, individualización y domicilio de la persona que realiza la observación.-
+
+Edesio Carrasco Quiroga, Director (PT) Servicio de Evaluación Ambiental, Secretario de la Comisión de Evaluación Región del Libertador General Bernardo O'Higgins.
