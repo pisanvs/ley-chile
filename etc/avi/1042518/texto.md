@@ -1,0 +1,3 @@
+En la edición del Diario Oficial Nº40.313 de 17 de julio de 2012, se publicó extracto del Decreto Exento MOP N°998, de 31 de mayo de 2012, con el error que salva a continuación: II Cuerpo, página veintisiete, primera columna, donde dice lote de terreno N°151-3 debe decir 15L3, y en la parte donde se individualiza el monto provisional se menciona nuevamente lote 151-3 siendo 15L3.
+
+Fiscal del Ministerio de Obras Públicas.
