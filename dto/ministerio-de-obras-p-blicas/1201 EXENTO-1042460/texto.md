@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1201 de 29 de junio de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 2, 3 y 4, superficies 316, 338 y 740 m2, rol de Avalúo Nº158-97, comuna de Cochamó, para la obra "CONSTRUCCIÓN CAMINO PUELO - PASO EL BOLSÓN, SECTOR: SEGUNDO CORRAL - EL BOLSÓN". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 28 de septiembre de 2011, acordándose la indemnización con su propietaria MARIE FRANCOISE DUTHEIL BERARD, en la cantidad de $677.770.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
