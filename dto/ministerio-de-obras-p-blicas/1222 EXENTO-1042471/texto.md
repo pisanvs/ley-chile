@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1222 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 129 m2, rol Nº259-218, para la obra "Proyecto Reconstrucción Puente La Obra, Camino Carahue por El Bajo, Sector Km. 13,712 a Km. 13,910", Provincia de Cautín, Comuna de Carahue, Región de La Araucanía. La Comisión de Peritos integrada por Paula Andrea Lagos Carrasco, Patricio Fernando Casagrande Ulloa y César Nolberto Campos Vergara, fijó valor de tasación con fecha 22 de enero de 2011, acordándose la indemnización con su propietario JOSÉ NECUL CURIHUENTRO MULATO, en la cantidad de $478.703, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
