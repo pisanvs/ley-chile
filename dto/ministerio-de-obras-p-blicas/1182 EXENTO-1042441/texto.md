@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1182 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº17, superficie 2.924 m2, rol Nº124-8, para la obra "Mejoramiento Ruta U-16, Sector Bif. Quilacahuin - Puente Momberg Tramo Km. 12,50000 a Km. 22,30800", Provincia de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamondes y Juan Celestino Giovannini Mansilla, fijó valor de tasación con fecha 06 de octubre de 2010, acordándose la indemnización con su propietario INVERSIONES NAHUELPALMO LTDA, en la cantidad de $1.946.656, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
