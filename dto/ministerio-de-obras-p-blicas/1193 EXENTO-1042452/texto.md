@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1193 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 22.200 m2, rol Nº4335-4, para la obra "Construcción Conexión Vial Ruta A-65- Ruta 5 (Sara), Km. 0,00000 al Km. 3,23350", Comuna de Pozo Almonte, Región de Tarapacá. La Comisión de Peritos integrada por Gastón Fernando González Kemnis, Moisés Leopoldo Gatica González y Juan Andrés Tepper Lavanderos, fijó valor de tasación con fecha 04 de junio de 2011, acordándose la indemnización con su propietario OBISPADO DE IQUIQUE, en la cantidad de $18.211.036, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
