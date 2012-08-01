@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1183, de 29 de junio de 2012, se modificó el numeral primero del Decreto MOP. (Exento) N°485, de 30 de abril de 2010, en la parte que se refiere al kilometraje del lote de terreno N°2, el cual es Km. 0,74190 a Km. 0,97270, expropiado con motivo de la obra "Conservación Global de Varios Caminos, Sector Norte de la Provincia de Osorno II Etapa", Comuna de San Juan de la Costa, Provincia de Osorno.
+
+Fiscal del Ministerio de Obras Públicas.
