@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1190 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº98, superficie 566 m2, rol Nº1099-183, para la obra "Mejoramiento Ruta O-516 S: Reunión - Paso Hondo, Com. Yumbel, Cabrero, Sector Km. 0,00000 a Km. 12,53400", Comuna de Cabrero, Región del Bío-Bío. La Comisión de Peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Susana Conejeros Rudloff, fijó valor de tasación con fecha 22 de diciembre de 2010, acordándose la indemnización con su propietaria ALICIA MUÑOZ GUTIÉRREZ, en la cantidad de $1.014.662, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
