@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1188 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 763 m2, rol Nº12.004-2, para la obra "Reposición Puente sobre Río Biobío, Concepción - San Pedro de La Paz, Sector Tramo I", Comuna de San Pedro de La Paz, Provincia de Concepción, Región del Biobío. La Comisión de Peritos integrada por María Pamela Mac-Guire Acevedo, Alejandra Leonor Figueroa Giralt y Ricardo Pedro Echeverría Hohmann, fijó valor de tasación con fecha 08 de agosto de 2011, acordándose la indemnización con su propietaria CARMEN LIESBETH MOMBERG HAAS Y OTROS, en la cantidad de $67.991.915, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
