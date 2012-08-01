@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1179 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº14, superficie 611 m2, rol Nº84-79, comuna de Doñihue, para la obra "Reposición Puente Coinco, Comunas de Coinco y Doñihue", VI Región. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Oscar Navea Muñoz y María Isabel de Jesús Ríos Marcuello, fijó valor de tasación con fecha 01 de agosto de 2011, acordándose la indemnización con su propietario ALEJANDRO DANIEL FERNÁNDEZ SOTO, en la cantidad de $4.846.935, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
