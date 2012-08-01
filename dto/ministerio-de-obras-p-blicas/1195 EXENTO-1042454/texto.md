@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1195 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº17, comuna de Lago Ranco, superficie 3.439 m2, rol Nº67-203, para la obra "Construcción Puentes Caicayen y Hueinahue, Camino Maihue - Hueinahue - Rupumeica", Comunas de Futrono y Lago Ranco, Región de Los Ríos. La Comisión de Peritos integrada por Patricio Fernando Casagrande Ulloa, Norman Calderón Pontiggia y María Soledad Núñez Arroyo, fijó valor de tasación con fecha 18 de junio de 2010, acordándose la indemnización con su propietaria CARMEN GLORIA SANTIBAÑEZ ÑANCUMIL Y OTRA, en la cantidad de $7.945.379, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
