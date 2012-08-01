@@ -150,6 +150,8 @@ En caso que el inspector Serviu visite la vivienda antes que las partidas se enc
 
 23. Los beneficiarios de las regiones de Valparaíso, del Libertador Bernardo O'Higgins, del Maule y de la Araucanía, podrán realizar compras asociadas a este subsidio hasta el día 30 de junio del año 2012 mientras que las familias beneficiadas de la Región del Biobío, podrán hacer uso de su tarjeta hasta el día 31 de marzo del año 2013.
 
+No obstante lo señalado en el párrafo precedente, todas aquellas familias que resultaren seleccionadas durante los meses de septiembre, octubre, noviembre y diciembre del año 2011, que no correspondan a la Región de Biobío, podrán realizar compras hasta el día 31 de diciembre del año 2012.
+
 Después de esa fecha, toda autorización para el registro de las transacciones asociadas a este subsidio será deshabilitada por el Ministerio de Vivienda y Urbanismo y cualquier eventual saldo que quede a favor de los beneficiarios no podrá ser utilizado.
 
 24. Los subsidios habitacionales que se otorguen conforme a esta resolución se imputarán a los recursos dispuestos en la resolución exenta N° 8.816 (V. y U.), de 2010, para el Programa Extraordinario de Reconstrucción y Reparación del D.S. N° 255 (V. y U.), de 2006.
