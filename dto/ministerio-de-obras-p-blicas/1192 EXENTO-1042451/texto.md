@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1192 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº6, superficie 652 m2, rol Nº2218-882, para la obra "Conservación Global de Varios Caminos, Sector Norte de la Provincia de Osorno, II Etapa", Comuna de San Juan de la Costa, X Región de Los Lagos. La Comisión de Peritos integrada por Carlos Eugenio Mera Santibáñez, Juan Celestino Giovannini Mansilla y Christian Emil Rauch Yáñez, fijó valor de tasación con fecha 25 de octubre de 2007, acordándose la indemnización con su propietario KUEI-CHI CHEN, en la cantidad de $605.264, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
