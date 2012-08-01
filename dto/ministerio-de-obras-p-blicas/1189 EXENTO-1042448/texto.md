@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1189 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº14, superficie 382 m2, rol Nº2113-107, para la obra "Mejoramiento Ruta V-815, Tramo: Bif. Ilque-Cruce Ruta V-85", Comuna de Puerto Montt, X Región de Los Lagos. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabían Igor Flores, fijó valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietario RENÉ LUIS MANRÍQUEZ ENCINA, en la cantidad de $671.192, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
