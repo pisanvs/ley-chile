@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1191 de fecha 29 de junio de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno N°3, superficie 14 m2, rol Nº189-13, para la obra "Reposición Infraestructura Vial Ruta O-60 Chiguayante-Hualqui Prov. De Concepción", Comuna de Hualqui, Región del Bío-Bío. La Comisión de Peritos integrada por María Pamela Mac-Guire Acevedo, Roxana Cecilia Abarzúa Gajardo y Consuelo Loreto Zuloaga Sanhueza, fijó valor de tasación con fecha 01 de diciembre de 2011, acordándose la indemnización con su propietaria FRANCISCA DEL CARMEN MIRANDA ALARCÓN, en la cantidad de $1.501.711, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
