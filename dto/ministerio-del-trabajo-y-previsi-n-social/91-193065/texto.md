@@ -8,7 +8,7 @@ Decreto:
 
 #### Artículo 1º
 
-El régimen de prestaciones de crédito social, en adelante el régimen, que podrán establecer las Cajas de Compensación de Asignación Familiar, en adelante las Cajas, en conformidad a lo dispuesto en la ley Nº 18.833 y el artículo 16 de la ley Nº 19.539, se regirá por las disposiciones de dichos cuerpos legales, por el presente reglamento y por el reglamento particular de cada una de las Cajas que establezca el régimen.
+El régimen de prestaciones de crédito social, en adelante el régimen, que podrán establecer las Cajas de Compensación de Asignación Familiar, en adelante las Cajas, en conformidad a lo dispuesto en la ley Nº 18.833, el artículo 16 de la ley Nº 19.539 y el artículo 90 de la ley Nº 20.255, se regirá por las disposiciones de dichos cuerpos legales, por el presente reglamento y por el reglamento particular de cada una de las Cajas que establezca el régimen.
 
 #### Artículo 2º
 
@@ -22,7 +22,7 @@ Las prestaciones del régimen consistirán en préstamos en dinero.
 
 Los préstamos podrán ser otorgados para las finalidades relacionadas con las necesidades del trabajador y del pensionado afiliados, y de sus causantes de asignación familiar, relativas a:
 
-a) Bienes de consumo durables, trabajo, educación, salud, recreación, ahorro previo para la adquisición de viviendas, contingencias familiares, y otras necesidades de análoga naturaleza. El plazo de restitución de estos préstamos no podrá exceder de siete años.
+a) Bienes de consumo durables, trabajo, educación, salud, recreación, ahorro previo para la adquisición de viviendas, contingencias familiares, y otras necesidades de análoga naturaleza. El plazo de restitución de estos préstamos no podrá exceder de cinco años.
 
 En el caso de los créditos de educación, el plazo antes indicado podrá ampliarse previa autorización de la Superintendencia de Seguridad Social hasta 15 años.
 
