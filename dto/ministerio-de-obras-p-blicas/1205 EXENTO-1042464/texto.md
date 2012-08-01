@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1205 de 29 de junio de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº89-A, superficie 1.371 m2, rol de Avalúo Nº213-240, comuna de Florida, para la obra "MEJORAMIENTO RUTA 0-390, CRUCE RUTA 148 (Florida) - AUTOPISTA ITATA", VIII Región. La Comisión de peritos, integrada por María Gutiérrez Flores, Oscar Chávez Alcaino y Valeska Ale Goñi, fijó el valor de tasación con fecha 14 de julio de 2009, acordándose la indemnización con su propietario VICTOR HUGO RIVERA RUÍZ, en la cantidad de $11.408.287.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
