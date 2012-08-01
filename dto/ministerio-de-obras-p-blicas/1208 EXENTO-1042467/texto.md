@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1208 de 29 de junio de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 62.361 m2, rol de Avalúo Nº158-137, comuna de Cochamó, para la obra "CONSTRUCCIÓN CAMINO PUELO - PASO EL BOLSÓN, SECTOR: SEGUNDO CORRAL - EL BOLSÓN". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, JUAN SAMUEL BARRIENTOS BAHAMONDE Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 28 de septiembre de 2011, acordándose la indemnización con su propietario JOSÉ OSCAR ARGEL CARABANTE, en la cantidad de $16.324.951.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
