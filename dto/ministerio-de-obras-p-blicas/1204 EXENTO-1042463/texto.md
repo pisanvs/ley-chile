@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1204 de 29 de junio de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 1, 2 y 3, superficies 4.196, 1.806 y 780 m2, rol de Avalúo Nº152-8, comuna de Puerto Octay, para la obra "CAMINO RUTA U-775, SECTOR CRUCE RUTA U-99-V (Nochaco) - RUPANQUITO, TRAMO KM. 0,00000 A KM. 22,26000". La Comisión de peritos, integrada por Nelson Bernardo Turra Turra, Juan Samuel Barrientos Bahamonde y Leopoldo Ramón Schumacher Guarda, fijó el valor de tasación con fecha 8 de octubre de 2010, acordándose la indemnización con INMOBILIARIA Y FINANCIERA TÉCNICA S.A., en la cantidad de $4.188.318.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
