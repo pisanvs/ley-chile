@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº1322 de 19 de julio de 2012, se dejó sin efecto los Decretos MOP N°s. 822, 823, 825, 826, 827, 829, 831 y 833, todos de fecha 30 de abril de 2012, que ordenaron, la expropiación de los lotes N°s. 3L6, 7L6, 8L6, 9L6, 30L6, 22L6, 23L6 y 24L6. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
