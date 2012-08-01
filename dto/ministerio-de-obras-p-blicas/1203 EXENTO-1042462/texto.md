@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1203 de 29 de junio de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 53 m2, rol de Avalúo Nº189-2, comuna de Hualqui, para la obra "REPOSICIÓN INFRAESTRUCTURA VIAL RUTA 0-60, CHIGUAYANTE - HUALQUI PROV. DE CONCEPCIÓN", VIII Región. La Comisión de peritos, integrada por María Pamela Mac-Guire Acevedo, Roxana Cecilia Abarzúa Gajardo y Consuelo Loreto Zuloaga Sanhueza, fijó el valor de tasación con fecha 1 diciembre de 2011, acordándose la indemnización con su propietario don FERNANDO LAGOS RODRÍGUEZ, en la cantidad de $2.479.292.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
