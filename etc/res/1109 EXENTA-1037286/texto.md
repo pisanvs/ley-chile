@@ -24,7 +24,9 @@ Al proyecto pre-seleccionado, señalado en el cuadro anterior, no se le otorgar�
 
 2. En caso que el proyecto seleccionado mediante la presente resolución se encuentre emplazado en área rural o en área urbana, de localidades de hasta 2.000 habitantes, según el último censo de población, los honorarios que perciban las EGIS por la prestación de servicios de asistencia técnica y los dispuestos para la labor de Inspección Técnica de Obras, se incrementarán de acuerdo a lo definido por la resolución Nº 533 (V. y U.), de 1997, agregándose adicionalmente 0,5 Unidades de Fomento por familia a cada una de las áreas o fases que componen dichos servicios, que efectivamente se hubieren desarrollado por la EGIS, aplicándose igual incremento a la labor de Inspección Técnica de Obras, incremento total equivalente a 112 Unidades de Fomento y 28 Unidades de Fomento, respectivamente. Lo anterior según se dispone en la letra r) del Resuelvo 3 de la resolución Ex. Nº699 (V. y U.), de 2011.
 
-3. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 41.341 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región de Valparaíso, para el año 2012.
+3. Los subsidios asignados mediante la presente resolución, ascendentes a un total de 38.965,6 Unidades de Fomento, se imputarán a los recursos dispuestos para el Fondo Solidario de Vivienda de la Región de Valparaíso, para el año 2012.
+
+> **Nota.** El numeral 1 letra a) de la Resolución 6059 Exenta, Vivienda, publicada el 02.08.2012, modifica el cuadro inserto en el numeral 1 de la presente norma, en el sentido de reemplazar los guarismos "24.142" por "21.902", "3.640" por "3.504,6" y "41.201" por "38.825,6".
 
 Anótese, comuníquese, publíquese y archívese.- Juan Carlos Jobet Eluchans, Ministro de Vivienda y Urbanismo Subrogante.
 
