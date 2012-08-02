@@ -134,6 +134,14 @@ Una vez ingresada a trámite la respectiva solicitud, el SENCE procederá a veri
 
 El SENCE podrá requerir al solicitante la información pertinente que no esté contenida en el Sistema de Información de Datos Previsionales para verificar el cumplimiento de los requisitos señalados en este reglamento.
 
+#### Artículo 11 Bis
+
+El instrumento técnico de focalización que utilizará el SENCE para determinar si el trabajador integra un grupo familiar perteneciente al 40% más pobre de la población será la Ficha de Protección Social, que establece el decreto supremo N° 291, de 2006, del Ministerio de Planificación, o el instrumento que la reemplace.
+
+Para determinar que el trabajador cumple con dicho requisito, el SENCE deberá verificar que el trabajador, a la fecha de presentación de la solicitud, tenga un puntaje igual o inferior a 11.734 puntos en la referida Ficha o el puntaje que lo reemplace, el que deberá ser establecido mediante decreto del Ministerio de Planificación, suscrito también por el Ministerio de Hacienda.
+
+En la aplicación de la Ficha de Protección Social, o el instrumento que la reemplace, no se considerará el subsidio al empleo que se encuentre percibiendo el trabajador.
+
 #### Artículo 12
 
 Acreditado el derecho al subsidio al empleo o determinado su rechazo, el SENCE deberá emitir una resolución que notificará al solicitante. La resolución que rechace la solicitud de los beneficios señalados en este reglamento, deberá estar debidamente fundada.
