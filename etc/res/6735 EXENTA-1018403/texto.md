@@ -14,9 +14,11 @@ Considerando: Que los proyectos "Los Canelos II" y "Unidos" de la comuna de Los 
 
 Resolución:
 
-1.- Apruébanse los proyectos con Calificación Definitiva "Los Canelos II" y "Unidos", de la comuna de Los Ángeles; "La Candelaria" y "Por un Futuro Mejor", de la comuna de Cobquecura; "Nevados de Shangrila II", de la comuna de Chillán, y apruébanse los proyectos con Calificación Condicional "Bicentenario I", de la comuna de Cabrero, y "Puesta del Sol IV", de la comuna de San Carlos, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, para el concurso establecido mediante resolución exenta Nº 2.186 (V. y U.), de 2010.
+1.- Apruébanse los proyectos con Calificación Definitiva "Los Canelos II" y "Unidos", de la comuna de Los Ángeles; "Comité de Vivienda La Candelaria" y "Por un Futuro Mejor", de la comuna de Cobquecura; "Nevados de Shangrila II", de la comuna de Chillán, y apruébanse los proyectos con Calificación Condicional "Bicentenario I", de la comuna de Cabrero, y "Puesta del Sol IV", de la comuna de San Carlos, y los recursos respectivos para el otorgamiento de subsidios habitacionales en la modalidad Proyectos de Construcción del Programa Fondo Solidario de Vivienda, para el concurso establecido mediante resolución exenta Nº 2.186 (V. y U.), de 2010.
 
-2.- Los recursos comprometidos conforme al número 1 de la presente resolución, para los proyectos seleccionados "Los Canelos II" y "Unidos", de la comuna de Los Ángeles; "La Candelaria" y "Por un Futuro Mejor", de la comuna de Cobquecura; "Nevados de Shangrila II", de la comuna de Chillán; "Bicentenario I", de la comuna de Cabrero, y "Puesta del Sol IV", de la comuna de San Carlos, se detallan en el siguiente cuadro:
+2.- Los recursos comprometidos conforme al número 1 de la presente resolución, para los proyectos seleccionados "Los Canelos II" y "Unidos", de la comuna de Los Ángeles; "Comité de Vivienda La Candelaria" y "Por un Futuro Mejor", de la comuna de Cobquecura; "Nevados de Shangrila II", de la comuna de Chillán; "Bicentenario I", de la comuna de Cabrero, y "Puesta del Sol IV", de la comuna de San Carlos, se detallan en el siguiente cuadro:
+
+> **Nota.** La Resolución 6063 Exenta, Vivienda, publicada el 02.08.2012, modifica la tabla inserta en el Resuelvo 2 de la presente norma en el sentido de reemplazar el guarismo "46610" por "46612".
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
