@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial N° 40.319, del martes 24 de julio de 2012, se publicó extracto que autoriza emisores de boletas electrónicas, con el error que se salva a continuación: cuerpo II, página uno, tercera columna, donde dice: "... Se autoriza como emisor de boleta electrónica a contribuyentes RUT 78.903.750-7, RUT 84.553.600-7, RUT 83.150.900-7, RUT 83.002.400-K, y RUT 78.445.210-7, a contar del mes de julio de 2012. ..." debe decir: "... Se autoriza como emisor de boleta electrónica a contribuyentes RUT 71.368.100-8, RUT 70.449.600-1, RUT 65.810.660-0, RUT 82.409.100-5, RUT 76.063.356-9 y RUT 76.063.343-7, a contar del mes de julio de 2012. ...".
