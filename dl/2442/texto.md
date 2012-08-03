@@ -256,7 +256,7 @@ DEL SERVICIO NACIONAL DE PESCA
 
 <!-- parte:8707440 -->
 
-Créase el Servicio Nacional de Pesca que dependerá del Ministerio de Economía, Fomento y Reconstrucción.
+Créase el Servicio Nacional de Pesca y Acuicultura que dependerá del Ministerio de Economía, Fomento y Reconstrucción.
 
 #### Artículo 13
 
