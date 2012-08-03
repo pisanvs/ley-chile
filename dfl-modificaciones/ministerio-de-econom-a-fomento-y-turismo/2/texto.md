@@ -6,7 +6,29 @@ Decreto con fuerza de ley:
 
 #### Artículo primero
 
-Créase, en el Servicio Nacional de Pesca, la Subdirección Nacional de Acuicultura, a cargo de un Subdirector, cuya función será planificar y coordinar, a nivel nacional, regional y local, la fiscalización y otras funciones en materia de acuicultura en el ámbito del Servicio.
+Créase, en el Servicio Nacional de Pesca, la Subdirección Nacional de Acuicultura, cuya función será planificar y coordinar, a nivel nacional, regional y local, la fiscalización y otras funciones en materia de acuicultura en el ámbito del Servicio. La Subdirección estará a cargo de un Subdirector Nacional de Acuicultura, grado 4º de la Escala Única de Sueldos, de Segundo Nivel Jerárquico y que estará afecto al Sistema de Alta Dirección Pública.
+
+#### Artículo primero
+
+bis.- Corresponderán, especialmente, al Subdirector Nacional de Acuicultura, las siguientes funciones:
+
+a) Subrogar al Subdirector Nacional.
+
+b) Asesorar al Director Nacional y demás órganos del Servicio en materia de acuicultura.
+
+c) Planificar las acciones de fiscalización de cumplimiento de la normativa ambiental, de salud animal y demás aplicable a la acuicultura.
+
+d) Supervisar y evaluar la ejecución de las acciones a que se refiere el literal precedente.
+
+e) Coordinar a las Direcciones Regionales, Departamentos y demás unidades del Servicio que ejecutan funciones en materia de acuicultura.
+
+f) Proponer al Director Nacional los programas sanitarios y demás normas que, conforme a la legislación aplicable a la acuicultura, corresponda dictar al Servicio.
+
+g) Administrar el registro de personas acreditadas para elaborar los instrumentos de evaluación ambiental y sanitaria y demás que se requieran.
+
+h) Controlar a las personas a que se refiere el literal anterior y proponer al Director Nacional las sanciones que corresponda aplicar a las mismas en los casos previstos por la normativa.
+
+i) Presentar al Director Nacional, para que éste ejerza la facultad a que se refiere la letra a) del artículo 28 del decreto con fuerza de ley Nº 5, del Ministerio de Economía, Fomento y Reconstrucción, de 1983, propuestas de normas para la aplicación y fiscalización de las leyes y reglamentos sobre acuicultura.
 
 #### Artículo segundo
 

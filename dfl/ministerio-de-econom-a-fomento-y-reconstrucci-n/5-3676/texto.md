@@ -128,17 +128,19 @@ c) División de Administración Pesquera, constituida por:
 
 (i) Departamento de Pesquerías;
 
-(ii) Departamento de Acuicultura;
-
 d) División de Desarrollo Pesquero, constituido por:
 
 (i) Departamento de Análisis Sectorial;
 
 (ii) Departamento de Coordinación Pesquera;
 
-e) Departamento de Difusión y Cooperación Pesquera;
+(iii) Departamento de Pesca Artesanal.
 
-f) Departamento Administrativo.
+e) División de Acuicultura.
+
+f) Departamento de Difusión y Cooperación Pesquera;
+
+g) Departamento Administrativo.
 
 #### Artículo 17°
 
@@ -172,19 +174,19 @@ k) Las demás que le confieren las leyes.
 
 1. Corresponderá a la División de Administración Pesquera:
 
-a) Formular y evaluar los planes de manejo de las principales pesquerías nacionales y de las actividades de acuicultura.
+a) Formular y evaluar los planes de manejo de las principales pesquerías nacionales.
 
 b) Proponer y evaluar las normas y medidas de administración, y de protección de los recursos hidrobiológicos y su medio ambiente.
 
 c) Actualizar los datos e información sobre el desarrollo y estado de explotación de los recursos hidrobiológicos de las aguas jurisdiccionales y extrajurisdiccionales de interés nacional.
 
-d) Proponer planes, programas y estudios de investigación pesquera y de acuicultura.
+d) Proponer planes, programas y estudios de investigación pesquera.
 
 e) Asesorar y proporcionar la información necesaria al Consejo de Investigación Pesquera.
 
-f) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de acciones comunes en aspectos sectoriales de administración de recursos hidrobiológicos y de acuicultura.
+f) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de acciones comunes en aspectos sectoriales de administración de recursos hidrobiológicos.
 
-2. Corresponderá a la División de Desarrollo Pesquero:
+2. Corresponderá a la División de Desarrollo Pesquero y de Acuicultura:
 
 a) Establecer, evaluar y proyectar los indicadores sectoriales y la eficiencia de las actividades pesqueras extractivas, de acuicultura, de transformación, y el almacenamiento, transporte o comercialización de los recursos hidrobiológicos.
 
@@ -196,7 +198,7 @@ d) Asesorar y proporcionar la información necesaria al Consejo Nacional de Pesc
 
 e) Participar y coordinar las actividades de desarrollo y fomento de la pesca artesanal y dimensionar los aportes presupuestarios correspondientes.
 
-f) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de acciones comunes en aspectos sectoriales de administración de recursos hidrobiológicos y de acuicultura.
+f) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de acciones comunes en aspectos sectoriales de administración de recursos hidrobiológicos.
 
 3. Corresponderá a la División Jurídica:
 
@@ -213,6 +215,36 @@ e) Mantener actualizada la legislación relativa al sector pesquero.
 f) Elaborar los proyectos de Resoluciones de pesca, contratos, convenios y demás instrumentos y proponerlos para la firma del Subsecretario.
 
 g) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de las acciones comunes en aspectos sectoriales de administración de recursos hidrobiológicos y de acuicultura.
+
+4. Corresponderá a la División de Acuicultura:
+
+a) Coordinar su gestión con las demás unidades orgánicas para la formulación y ejecución de acciones comunes en aspectos sectoriales de administración de la actividad de acuicultura.
+
+b) Proponer planes, programas y estudios de investigación en acuicultura.
+
+c) Mantener actualizada la información de las actividades de acuicultura a nivel nacional y el catastro de resoluciones sobre concesiones y autorizaciones de acuicultura.
+
+d) Estudiar y proponer las áreas apropiadas para el ejercicio de la acuicultura.
+
+e) Informar técnicamente las propuestas de ordenamiento territorial que afecten al sector.
+
+f) Evaluar y proponer medidas especiales para la sanidad y protección de las especies hidrobiológicas y del medio ambiente en relación a las actividades de acuicultura, de propagación o de repoblación.
+
+g) Identificar las necesidades de conocimiento para optimizar el manejo de la acuicultura nacional.
+
+h) Elaborar los informes técnicos para el otorgamiento de concesiones de acuicultura y otros relacionados con las empresas de cultivo y los que sean necesarios para fundar la normativa sectorial propuesta para ser dictada.
+
+i) Asesorar al Subsecretario en materias de políticas y estrategias de la actividad acuícola.
+
+j) Evaluar e informar técnicamente las solicitudes de internación de especies hidrobiológicas con fines de acuicultura, ornamentales, investigación y recreación, entre otros.
+
+k) Evaluar el desempeño de la actividad acuícola nacional.
+
+l) Evaluar ambientalmente proyectos acuícolas y de impacto en esta actividad.
+
+m) Coordinar el funcionamiento y operación de las agrupaciones de concesiones.
+
+n) Mantener relaciones permanentes con instancias de participación sectorial a nivel nacional e internacional.
 
 La Subsecretaría, en el ejercicio de los derechos y responsabilidades que le corresponden conforme a esta ley, deberá reunir los antecedentes e informaciones necesarios, para lo cual podrá solicitar directamente la ejecución de estudios a personas u organismos técnicos.
 
@@ -244,17 +276,13 @@ d) Estudiar y proponer prohibiciones o medidas de administración de recursos hi
 
 e) Identificar las necesidades de información e investigación necesaria para optimizar el manejo de las pesquerías nacionales.
 
-3. Corresponde al Departamento de Acuicultura:
+3. Corresponderá al Departamento de Pesca Artesanal:
 
-a) Mantener actualizada la información de las actividades de acuicultura a nivel nacional y el catastro de resoluciones sobre concesiones y autorizaciones de acuicultura.
+a) Proponer al Subsecretario las políticas tendientes a desarrollar y fomentar la actividad pesquera artesanal.
 
-b) Estudiar y proponer las áreas apropiadas para el ejercicio de la acuicultura.
+b) Coordinar con las demás Divisiones y Departamentos de esta Subsecretaría las solicitudes y requerimientos que realicen los pescadores artesanales y sus organizaciones legalmente constituidas.
 
-c) Evaluar y proponer medidas especiales para la sanidad y protección de las especies hidrobiológicas y del medio ambiente en relación a las actividades de acuicultura, de propagación o de repoblación.
-
-d) Identificar las necesidades de conocimiento para optimizar el manejo de la acuicultura nacional.
-
-e) Elaborar los informes técnicos para el otorgamiento de concesiones de acuicultura y otros relacionados con las empresas de cultivo.
+c) Coordinar las relaciones institucionales con los pescadores artesanales y sus organizaciones.
 
 4. Corresponderá al Departamento de Análisis Sectorial:
 
@@ -385,6 +413,8 @@ TOTAL 51
 > **Nota.** La letra C) del artículo 1° de la LEY 18506, publicada el 30.04.1986, crea nuevos escalafones y cargos en la planta del personal fijada por este artículo.
 
 > **Nota.** NOTA 1 El Artículo 9º de la Ley N° 20.434, publicada el 08.04.2010, ordena crear en la Planta de Directivos de la Subsecretaría de Pesca, establecida en el presente artículo, un cargo de Director Zonal, grado 5º EUS, que para el solo efecto del artículo 7º de la ley Nº 18.834, sobre Estatuto Administrativo, se considerará equivalente a Jefe de División. Asimismo, señala que dicho cargo será destinado al ejercicio de funciones en la Undécima Región.
+
+> **Nota.** NOTA 2 El Artículo 2º de la Ley N° 20.597, publicada el 03.08.2012, ordena crear en la Planta de Directivos de la Subsecretaría de Pesca, establecida en el presente artículo, dos cargos de Director Zonal de Pesca, uno de los cuales ejercerá sus competencias en las Regiones V de Valparaíso, VI del Libertador Bernardo O'Higgins y VII del Maule y el otro ejercerá sus competencias en las Regiones IX de La Araucanía y XIV de Los Ríos, ambos grado 5° de la Escala Única de Sueldos, los que se considerarán equivalentes a Jefes de División para el solo efecto del artículo 7º de la ley Nº 18.834, sobre Estatuto Administrativo, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley Nº29, del Ministerio de Hacienda, de 2005.
 
 DEL CONSEJO NACIONAL DE PESCA
 

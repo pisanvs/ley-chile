@@ -1948,23 +1948,25 @@ c) Un representante del Ministerio de Planificación y Cooperación;
 
 d) Un representante de la Subsecretaría de Pesca, y
 
-e) Tres representantes de los pescadores artesanales entre los cuales deberán quedar representados los pescadores artesanales propiamente tales, los mariscadores y los cultivadores y algueros. Cada uno de estos representantes deberá además provenir de las siguientes macro zonas pesqueras del país: de la I a IV Región; de la V a IX Región e Islas Oceánicas; y de la XIV, X, XI y XII Región. El reglamento determinará las normas de funcionamiento interno del Consejo, las formas de designación de los Consejeros señalados en la letra e), así como también los requisitos que deberán reunir dichos Consejeros.
+e) Tres representantes de los pescadores artesanales, que representen a los pescadores artesanales propiamente tales, a los mariscadores y a los cultivadores y algueros. Estos representantes deberán provenir de las siguientes macrozonas pesqueras del país: de la I a la IV Región; de la V a la IX Región e Islas Oceánicas, y de la XIV, la X, la XI y la XII Región. Durarán en sus cargos dos años, no podrán ser nuevamente designados y quienes los reemplacen deberán provenir de una región distinta, dentro de la macrozona respectiva.
+
+El reglamento determinará las normas de funcionamiento interno del Consejo, las formas de designación de los Consejeros señalados en la letra e), así como también los requisitos que deberán reunir dichos Consejeros.
 
 > **Nota.** El Artículo 13 de la LEY 20174, publicada el 05.04.2007, dispuso que las modificaciones introducidas en el presente artículo rigen a contar de 180 días después de su publicación.
 
 #### Artículo 60
 
-El Servicio solicitará anualmente a los pescadores artesanales, a través de los Consejos Zonales de Pesca, y a los organismos encargados de las obras de infraestructura para la pesca artesanal, las sugerencias que estimen pertinentes para la elaboración del programa anual de inversión en infraestructura para la pesca artesanal. Igualmente, requerirá de sugerencias e información respecto de necesidades de capacitación, asistencia técnica, repoblamiento y cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros, a los organismos pertinentes. Una vez completado dicho trámite, el Servicio pondrá el programa anual a disposición del Consejo de Fomento de la Pesca Artesanal para su aprobación y el establecimiento de las prioridades anuales correspondientes. El programa anual priorizado será enviado a los Consejos Nacional y Zonales de Pesca para que, si lo estimaran conveniente, hagan llegar sus sugerencias en un plazo no superior a 20 días al Consejo de Fomento de la Pesca Artesanal.
+La Subsecretaría solicitará anualmente a los pescadores artesanales, a través de los Consejos Zonales de Pesca, y a los organismos encargados de las obras de infraestructura para la pesca artesanal, las sugerencias que estimen pertinentes para la elaboración del programa anual de inversión en infraestructura para la pesca artesanal. Igualmente, requerirá de sugerencias e información respecto de necesidades de capacitación, asistencia técnica, repoblamiento y cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros, a los organismos pertinentes. Una vez completado dicho trámite, la Subsecretaría pondrá el programa anual a disposición del Consejo de Fomento de la Pesca Artesanal para su aprobación y el establecimiento de las prioridades anuales correspondientes. El programa anual priorizado será enviado a los Consejos Nacional y Zonales de Pesca para que, si lo estimaran conveniente, hagan llegar sus sugerencias en un plazo no superior a 20 días al Consejo de Fomento de la Pesca Artesanal.
 
 #### Artículo 61
 
-El Consejo de Fomento de la Pesca Artesanal efectuará la asignación de proyectos y programas que contenga el programa anual, la que deberá efectuarse a través de concurso público, de acuerdo a las normas que se establezcan en el reglamento. El mecanismo de asignación de los proyectos deberá considerar una mayor ponderación a aquellas instituciones regionales que participen en los concursos que se realicen en su zona.
+El Consejo de Fomento de la Pesca Artesanal efectuará la asignación de proyectos y programas que contenga el programa anual, la que deberá efectuarse a través de concurso público, de acuerdo a las normas que se establezcan en el reglamento. El mecanismo de asignación de los proyectos deberá considerar una mayor ponderación a aquellas instituciones regionales que participen en los concursos que se realicen en su zona. Asimismo, el mecanismo de asignación de los proyectos deberá considerar, en el caso de proyectos que compitan en una misma categoría, una mayor ponderación para aquellos que contemplen un cofinanciamiento por parte de los pescadores artesanales u organización de pescadores artesanales que los presentan.
 
-El estado de avance y los resultados finales de cada uno de los proyectos y programas realizados serán enviados por el Fondo de Fomento de la Pesca Artesanal al Servicio, los que, en conjunto, darán destino final a las obras y proyectos y se encargarán de difundir los programas de capacitación y asistencia técnica impartidos, a través de las organizaciones de pescadores artesanales. Será también labor conjunta de ambos organismos, la difusión de los programas de repoblamiento y el cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros financiados a través de este Fondo.
+El estado de avance y los resultados finales de cada uno de los proyectos y programas realizados serán enviados por el Fondo de Fomento de la Pesca Artesanal a la Subsecretaría, los que, en conjunto, darán destino final a las obras y proyectos y se encargarán de difundir los programas de capacitación y asistencia técnica impartidos, a través de las organizaciones de pescadores artesanales. Será también labor conjunta de ambos organismos, la difusión de los programas de repoblamiento y el cultivo de los recursos hidrobiológicos y comercialización de productos pesqueros financiados a través de este Fondo.
 
 #### Artículo 62
 
-Por intermedio del Servicio, los Consejos Nacional y Zonales de Pesca tomarán conocimiento del resultado de los proyectos y programas ejecutados y realizarán las observaciones que estimen pertinentes. Estos resultados estarán disponibles para los usuarios a través de los Consejos precitados.
+Por intermedio de la Subsecretaría, los Consejos Nacional y Zonales de Pesca tomarán conocimiento del resultado de los proyectos y programas ejecutados y realizarán las observaciones que estimen pertinentes. Estos resultados estarán disponibles para los usuarios a través de los Consejos precitados.
 
 ## Título V
 
@@ -2518,7 +2520,7 @@ El reglamento determinará la forma de acreditar la procedencia de las especies 
 
 #### Artículo 86
 
-El Ministerio, mediante decreto supremo previos informes técnicos fundados de la Subsecretaría, y del Consejo Nacional de Pesca, dictará un reglamento que establecerá las medidas de protección y control para evitar la introducción de enfermedades de alto riesgo y especies que constituyan plagas, aislar su presencia en caso de que éstas ocurran, evitar su propagación y propender a su erradicación. El mismo reglamento determinará las patologías que se clasifican como de alto riesgo y las especies hidrobiológicas que constituyan plagas.
+El Ministerio, mediante decreto supremo previo informe técnico fundado de la Subsecretaría, y previa consulta a la Comisión Nacional de Acuicultura, dictará un reglamento que establecerá las medidas de protección y control para evitar la introducción de enfermedades de alto riesgo y especies que constituyan plagas, aislar su presencia en caso de que éstas ocurran, evitar su propagación y propender a su erradicación. El mismo reglamento determinará las patologías que se clasifican como de alto riesgo y las especies hidrobiológicas que constituyan plagas.
 
 Dichas medidas podrán incluir la eliminación de las especies hidrobiológicas en cultivo, el establecimiento de condiciones sanitarias para las actividades de acuicultura, así como para el transporte, lavado, procesamiento, desinfección y demás actividades relacionadas con el cultivo de especies hidrobiológicas y la sujeción a la vigilancia y control de la autoridad de la aplicación de antimicrobianos y otros productos destinados al control de patologías y plagas. El reglamento establecerá las condiciones y el procedimiento para el establecimiento de las agrupaciones de concesiones, las condiciones que deberán cumplir las pisciculturas y los centros de cultivo en agua dulce, los informes que deberán ser entregados periódicamente por los titulares de los centros de cultivo cuyo contenido deberá referirse como mínimo al uso de antimicrobianos, vacunas, químicos y tratamiento de desechos. Prohíbese la aplicación de antimicrobianos en forma preventiva en la acuicultura y todo uso perjudicial para la salud humana.
 
@@ -2564,7 +2566,7 @@ No podrá negarse el uso de los puntos de embarque o desembarque señalados por 
 
 #### Artículo 87
 
-Por uno o más decretos supremos expedidos por intermedio de los Ministerios de Economía, Fomento y Reconstrucción y del Medio Ambiente, previos informes técnicos debidamente fundamentados de la Subsecretaría, del Consejo Nacional de Pesca y del Consejo Zonal de Pesca que corresponda, se deberán reglamentar las medidas de protección del medio ambiente para que los establecimientos que exploten concesiones o autorizaciones de acuicultura operen en niveles compatibles con las capacidades de carga de los cuerpos de agua lacustres, fluviales y marítimos, que asegure la vida acuática y la prevención del surgimiento de condiciones anaeróbicas en las áreas de impacto de la acuicultura. Asimismo, deberán contemplarse, entre otras, medidas para la prevención de escapes y desprendimiento de ejemplares exóticos en cultivo, las que incluirán las referidas a la seguridad de las estructuras de cultivo atendidas las características geográficas y oceanográficas del sector, las obligaciones de reporte de estos eventos y las acciones de mitigación, las que serán de costo del titular del centro de cultivo.
+Por uno o más decretos supremos expedidos por intermedio de los Ministerios de Economía, Fomento y Reconstrucción y del Medio Ambiente, previo informe técnico fundado de la Subsecretaría y previa consulta a la Comisión Nacional de Acuicultura y al Consejo Zonal de Pesca que corresponda, se deberán reglamentar las medidas de protección del medio ambiente para que los establecimientos que exploten concesiones o autorizaciones de acuicultura operen en niveles compatibles con las capacidades de carga de los cuerpos de agua lacustres, fluviales y marítimos, que asegure la vida acuática y la prevención del surgimiento de condiciones anaeróbicas en las áreas de impacto de la acuicultura. Asimismo, deberán contemplarse, entre otras, medidas para la prevención de escapes y desprendimiento de ejemplares exóticos en cultivo, las que incluirán las referidas a la seguridad de las estructuras de cultivo atendidas las características geográficas y oceanográficas del sector, las obligaciones de reporte de estos eventos y las acciones de mitigación, las que serán de costo del titular del centro de cultivo.
 
 El incumplimiento de cualquiera de las medidas establecidas en el reglamento, indicado en el inciso anterior, será sancionado conforme a las normas del título IX.
 
@@ -2638,6 +2640,74 @@ e) Centros de cultivo con suspensión de operaciones por incumplimiento de las c
 
 f) Identificación de las embarcaciones sancionadas de conformidad con el artículo 86 ter.
 
+### Párrafo 3º
+
+DE LA COMISIÓN NACIONAL DE ACUICULTURA
+
+#### Artículo 90
+
+A.- Créase la Comisión Nacional de Acuicultura, en adelante "la Comisión", cuya función será asesorar al Presidente de la República, a través del Ministerio de Economía, Fomento y Turismo, en la formulación y evaluación de las acciones, medidas y programas que se requieran para implementar la Política Nacional de Acuicultura.
+
+#### Artículo 90
+
+B.- La Comisión será presidida por el Subsecretario de Pesca y Acuicultura, y estará integrada además por los siguientes miembros:
+
+a) Un representante de la Subsecretaría para las Fuerzas Armadas.
+
+b) Un representante del Servicio Nacional de Pesca y Acuicultura.
+
+c) Un representante del Ministerio de Economía, Fomento y Turismo.
+
+d) Un representante del Ministerio del Medio Ambiente.
+
+e) Un representante de la Dirección General del Territorio Marítimo y de Marina Mercante.
+
+f) Un representante del Instituto de Fomento Pesquero.
+
+g) Siete miembros provenientes de las asociaciones de acuicultores legalmente constituidas, designados por el Presidente de la República, a propuesta del Subsecretario de Pesca y Acuicultura.
+
+h) Tres miembros provenientes de una asociación de prestadores de servicios de la acuicultura legalmente constituida, designados por el Presidente de la República, a propuesta del Subsecretario de Pesca y Acuicultura.
+
+i) Dos representantes de los trabajadores de centros de cultivo designados por el Presidente de la República, a propuesta del Subsecretario de Pesca y Acuicultura.
+
+#### Artículo 90
+
+C.- Corresponderán a la Comisión, en especial, las siguientes tareas:
+
+a) Dar su opinión respecto de los reglamentos a que se refieren los artículos 86 y 87 de esta ley.
+
+b) Elaborar y proponer las medidas, planes y programas tendientes a la ejecución e implementación de la Política Nacional de Acuicultura.
+
+c) Dar su opinión respecto de la zonificación del borde costero en relación con actividades de acuicultura.
+
+d) Dar su opinión sobre asuntos internacionales con relevancia para el sector.
+
+e) Dar su opinión sobre las modificaciones a la Ley General de Pesca y Acuicultura en materia de acuicultura, que proponga el Presidente de la República, antes que sean presentadas al Congreso Nacional.
+
+La Comisión podrá referirse a las demás materias que estime pertinentes y que incidan en la actividad de acuicultura, quedando facultada para solicitar los antecedentes necesarios de los organismos públicos o privados del sector, a través de su Presidente.
+
+#### Artículo 90
+
+D.- La Comisión contará con una Secretaría Ejecutiva, que estará radicada en la Subsecretaría.
+
+Corresponderá a la Secretaría Ejecutiva coordinar las reuniones de la Comisión, levantar acta de los acuerdos adoptados, elaborar una memoria anual que resuma las actividades desarrolladas por la Comisión durante el año calendario anterior y, en general, efectuar todas aquellas tareas que sean necesarias para el cumplimiento de los fines de la Comisión establecidos en la presente ley.
+
+#### Artículo 90
+
+E.- La Comisión podrá invitar a sus sesiones a representantes de otros Ministerios y Servicios relacionados con las materias a tratar, así como a representantes del sector privado y de las organizaciones de trabajadores del sector que lo soliciten.
+
+#### Artículo 90
+
+F.- Las autoridades y directivos de los órganos de la Administración del Estado deberán prestar a la Comisión, dentro del ámbito de sus respectivas competencias, toda la colaboración que ésta les solicite.
+
+#### Artículo 90
+
+G.- Corresponderá a la Subsecretaría prestar el apoyo técnico y administrativo que sea menester para el funcionamiento de la Comisión y de su Secretaría Ejecutiva.
+
+#### Artículo 90
+
+H.- La Comisión acordará las demás normas para su funcionamiento interno, el que deberá considerar al menos tres reuniones ordinarias anuales.
+
 ## Título VII
 
 DE LA INVESTIGACION
@@ -2692,7 +2762,7 @@ El Consejo de Investigación Pesquera tendrá las siguientes funciones:
 
 1) Establecer el programa anual de investigación y sus prioridades;
 
-2) Asignar los proyectos de investigación y los fondos para su ejecución, los que se asignarán a través de concurso público de acuerdo con las normas que se establezcan en el reglamento;
+2) Asignar los proyectos de investigación y los fondos para su ejecución, los que se asignarán de conformidad con las normas establecidas en la ley Nº 19.886;
 
 3) Sancionar la calificación técnica de los proyectos de investigación, y
 
@@ -3240,7 +3310,7 @@ Si el sentenciado no tuviere bienes para satisfacer la multa impuesta, sufrirá 
 
 12) En contra de la sentencia definitiva sólo procederá el recurso de apelación para ante la Corte de Apelaciones respectiva, el que deberá interponerse en el plazo de diez días, contado desde la notificación de la parte que entable el recurso, y fundarse someramente, debiendo el apelante exponer las peticiones concretas que formula respecto de la resolución apelada.
 
-Para interponer el recurso de apelación, será necesaria la consignación de hasta el 50% de la multa que se imponga, porcentaje que señalará el Juez, y que deberá ser enterado en la cuenta corriente del Tribunal de la causa. La resolución que determine el porcentaje de la multa que deba consignarse no será susceptible de recurso alguno.
+PÁRRAFO SUPRIMIDO.
 
 Los autos se enviarán a la Corte de Apelaciones al tercer día de notificada la resolución que concede el último recurso de apelación.
 
@@ -3578,7 +3648,9 @@ b) El Director del Servicio Nacional de Pesca, y
 
 c) El Director Ejecutivo del Instituto de Fomento Pesquero.
 
-2. Cinco representantes de las organizaciones gremiales del sector empresarial legalmente constituidas, designados por las respectivas organizaciones, entre los que deberán contarse representantes de las siguientes macrozonas del país: I, XV y II Regiones; III a IV Regiones; V a IX Regiones e Islas Oceánicas y XIV, X, XI y XII Regiones; y un representante de los pequeños armadores industriales. Un representante de las organizaciones gremiales legalmente constituidas del sector acuicultor. Este representante no tendrá derecho a voto en las decisiones sobre la medida de administración de cuotas globales de captura y sobre el fraccionamiento de dicha cuota.
+2. Cinco representantes de las organizaciones gremiales del sector empresarial legalmente constituidas, designados por las respectivas organizaciones, entre los que deberán contarse representantes de las siguientes macrozonas del país: I, XV y II Regiones; III a IV Regiones; V a IX Regiones e Islas Oceánicas y XIV, X, XI y XII Regiones; y un representante de los pequeños armadores industriales.
+
+PÁRRAFO ELIMINADO.
 
 3. Siete representantes de las organizaciones gremiales legalmente constituidas del sector laboral, designados por sus propias organizaciones, en donde deberán quedar integrados: un representante de los oficiales de naves pesqueras; un representante de los tripulantes de naves pesqueras, y cuatro representantes de plantas de procesamiento de recursos hidrobiológicos, dos de los cuales deberán provenir de plantas de procesamiento de recursos hidrobiológicos destinados al consumo humano, que facturen ventas por un monto igual o inferior a 25.000 unidades de fomento al año, y que los titulares de dichas plantas no sean titulares de autorizaciones de pesca para naves, y un representante de los encarnadores de la pesca artesanal.
 
@@ -3668,23 +3740,25 @@ DE LOS CONSEJOS ZONALES DE PESCA
 
 #### Artículo 150
 
-Créanse cinco organismos zonales, denominados Consejos Zonales de Pesca:
+Créanse ocho organismos zonales, denominados Consejos Zonales de Pesca:
 
-- Uno en la zona correspondiente a la I, XV y II Regiones, con sede en la ciudad de Iquique;
+a) Uno en la zona correspondiente a las Regiones XV de Arica y Parinacota, I de Tarapacá y II de Antofagasta, con sede en la comuna de Iquique.
 
-- Uno en la zona correspondiente a la III y IV Regiones, con sede en la ciudad de Coquimbo;
+b) Uno en la zona correspondiente a las Regiones III de Atacama y IV de Coquimbo, con sede en la comuna de Coquimbo.
 
-- Uno en la zona correspondiente a la V, VI, VII, VIII y IX Regiones e Islas Oceánicas, con sede en la ciudad de Talcahuano;
+c) Uno en la zona correspondiente a las Regiones V de Valparaíso, VI del Libertador Bernardo O'Higgins y VII del Maule e Islas Oceánicas, con sede en la comuna de Constitución.
 
-- Uno en la zona correspondiente a la XIV, X y XI Regiones, con sede en la ciudad de Puerto Montt, y
+d) Uno en la zona correspondiente a la Región VIII del Biobío, con sede en la comuna de Talcahuano.
 
-- Uno en la zona correspondiente a la XII Región y Antártica Chilena, con sede en la ciudad de Punta Arenas.
+e) Uno en la zona correspondiente a las Regiones IX de La Araucanía y XIV de Los Ríos, con sede en la comuna de Valdivia.
+
+f) Uno en la zona correspondiente a la Región X de Los Lagos, con sede en la comuna de Puerto Montt.
+
+g) Uno en la zona correspondiente a la Región XI de Aysén del General Carlos Ibáñez del Campo, con sede en la comuna de Aysén.
+
+h) Uno en la zona correspondiente a la Región XII de Magallanes y de la Antártica Chilena, con sede en la comuna de Punta Arenas.
 
 Los Consejos Zonales de Pesca contribuirán a descentralizar las medidas administrativas que adopte la autoridad y a hacer efectiva la participación de los agentes del sector pesquero en el nivel zonal, en materias relacionadas con la actividad de pesca y acuicultura. Tendrán carácter consultivo o resolutivo, según corresponda, en las materias que la ley establezca.
-
-> **Nota.** El Artículo 13 de la LEY 20174, publicada el 05.04.2007, dispuso que la modificación introducida en el presente artículo rige a contar de 180 días después de su publicación.
-
-> **Nota.** NOTA 1: El Artículo 13 de la LEY 20175, publicada el 11.04.2007, dispuso que la modificación introducida en el presente artículo rige a contar de 180 días después de su publicación.
 
 #### Artículo 151
 
@@ -3700,7 +3774,7 @@ Asimismo, el Consejo Zonal de Pesca hará llegar a la Subsecretaría, al Consejo
 
 Los Consejos Zonales de Pesca estarán integrados por:
 
-a) El Director Zonal del Servicio, que lo presidirá y un Director Regional del Servicio Nacional de Pesca de la zona respectiva.
+a) El Director Zonal de Pesca, que lo presidirá y un Director Regional del Servicio Nacional de Pesca de la zona respectiva.
 
 b) El Gobernador Marítimo de la Región sede del Consejo Zonal.
 
@@ -3714,17 +3788,23 @@ f) Dos representantes de universidades o institutos profesionales de la zona, re
 
 Las designaciones señaladas con las letras a), d), e) y f), deberán distribuirse de tal manera que estén representadas al menos dos Regiones si la zona comprendiere más de una.
 
-g) Cuatro Consejeros en representación de las organizaciones gremiales legalmente constituidas de armadores; de pequeños armadores; de plantas procesadoras de productos pesqueros, y de titulares de concesiones o autorizaciones de acuicultura de la zona, según corresponda.
+g) El número de consejeros que en cada caso se indica, en representación de las organizaciones gremiales legalmente constituidas de armadores; de pequeños armadores; de plantas procesadoras de productos pesqueros, y de acuicultores de la zona.
 
 En el Consejo Zonal de la I, XV y II Regiones, uno de ellos representará a los armadores industriales de la industria de reducción; otro, a los armadores industriales de productos para la alimentación humana directa; otro, a los pequeños armadores industriales, y un cuarto, a los industriales de plantas procesadoras de productos pesqueros.
 
 En el Consejo Zonal de la III y IV Regiones, uno de ellos representará a los armadores industriales; otro, a los pequeños armadores industriales; otro, a los industriales de plantas procesadoras de productos pesqueros, y un cuarto, a los acuicultores.
 
-En el Consejo Zonal de la V, VI, VII, VIII y IX Regiones e Islas Oceánicas, uno representará a los armadores industriales de la pesca pelágica; otro, a los armadores industriales de pesca demersal; otro, a los pequeños armadores industriales, y un cuarto, a los industriales de plantas procesadoras de productos pesqueros.
+En el Consejo Zonal de la V, VI y VII Regiones e Islas Oceánicas, uno representará a los armadores industriales de la pesca pelágica; otro, a los armadores industriales de pesca demersal; otro, a los pequeños armadores industriales, y un cuarto, a los industriales de plantas procesadoras de productos pesqueros.
 
-En el Consejo Zonal de la XIV, X y XI Regiones, uno representará a los armadores industriales; otro, a los pequeños armadores; otro, a los industriales de plantas procesadoras de productos pesqueros, y un cuarto, a los acuicultores.
+En el Consejo Zonal de la VIII Región, uno representará a los armadores industriales de la pesca pelágica; otro a los armadores industriales de la pesca demersal; otro a los pequeños armadores industriales y, un cuarto a los industriales de plantas procesadoras de productos pesqueros.
+
+En el Consejo Zonal de la IX y XIV Regiones, uno representará a los armadores industriales de la pesca pelágica; otro a los armadores industriales de la pesca demersal; otro a los pequeños armadores industriales; otro a los industriales de plantas procesadoras de productos pesqueros, y otro a los acuicultores.
+
+En el Consejo Zonal de la X Región, uno representará a los armadores industriales; otro, a los pequeños armadores; otro, a los industriales de plantas procesadoras de productos pesqueros, y un cuarto, a los acuicultores.
 
 En el Consejo Zonal de la XII Región y Antártica Chilena, uno representará a los armadores industriales; otro, a los pequeños armadores industriales; otro, a los industriales de plantas procesadoras de productos pesqueros, y un cuarto, a los acuicultores.
+
+En el Consejo Zonal de la XI Región, uno representará a los armadores industriales, otro a los pequeños armadores, otro a los industriales procesadores de productos pesqueros, y otro a los acuicultores.
 
 h) Tres Consejeros en representación de las organizaciones gremiales de oficiales de naves especiales; de tripulantes de naves especiales; de trabajadores de la industria, todas ellas legalmente constituidas.
 
@@ -3890,7 +3970,7 @@ El Fondo será administrado por el Consejo de Administración Pesquera, integrad
 
 Los recursos que contemple este Fondo para cada año calendario deberán distribuirse para los objetivos que señala el inciso primero de este artículo.
 
-Para la administración del Fondo, la Subsecretaría de Pesca proveerá los recursos necesarios.
+Para la administración del Fondo, la Subsecretaría de Pesca proveerá los recursos necesarios, y designará un Director Ejecutivo.
 
 El Fondo se financiará con cargo a rentas generales de la Nación.
 

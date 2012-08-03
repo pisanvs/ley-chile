@@ -18,7 +18,7 @@ Decreto ley:
 
 #### Artículo 1°
 
-Créase en el Ministerio de Economía, Fomento y Reconstrucción, la Subsecretaría de Pesca, cuya organización, funciones y atribuciones serán determinadas por su ley orgánica.
+Créase en el Ministerio de Economía, Fomento y Reconstrucción, la Subsecretaría de Pesca y Acuicultura, cuya organización, funciones y atribuciones serán determinadas por su ley orgánica.
 
 #### Artículo 2°
 
