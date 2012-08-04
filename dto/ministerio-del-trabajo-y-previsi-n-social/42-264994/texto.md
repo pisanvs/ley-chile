@@ -40,7 +40,7 @@ a) El Jefe Superior del Servicio de Salud o la persona que éste designe en su r
 
 b) El Jefe del Departamento de Finanzas o quien lo subrogare;
 
-c) El Subdirector Administrativo del Hospital Herminda Martín de Chillán, o quien lo subrogare;
+c) El Subdirector(a) de Recursos Humanos del Hospital Clínico Herminda Martín de Chillán, o quien lo subrogare.
 
 d) Tres representantes de los afiliados, uno de los cuales será designado por la Asociación de Funcionarios, cuando proceda, de acuerdo con lo dispuesto en el inciso tercero del artículo 18 del Reglamento General.
 
@@ -57,6 +57,8 @@ Cada afiliado votará por una sola persona y se elegirán como representantes ti
 Los suplentes reemplazarán a los titulares de acuerdo al orden que resulte de las votaciones obtenidas por ellos.
 
 Los representantes titulares y suplentes de los afiliados en el Consejo Administrativo durarán dos años en sus funciones.
+
+En caso de empate, asumirá como titular el funcionario de mayor antigüedad ininterrumpida como afiliado del Servicio de Bienestar.
 
 #### Artículo 6º
 
@@ -148,25 +150,23 @@ Otras prestaciones
 
 El Servicio de Bienestar podrá otorgar las siguientes ayudas en dinero o en especies, no sujetas a restitución, según sus disponibilidades presupuestarias, por las causales que a continuación se indican:
 
-a) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuviesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente.
+a) Nacimiento: Se concederá una ayuda por el nacimiento de cada hijo que se acredite como carga familiar. Si ambos padres estuviesen afiliados al Servicio de Bienestar, tendrá derecho a este beneficio el afiliado que registre al hijo como carga familiar.
 
-b) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado, de su cónyuge y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar.
-
-En caso de tener un afiliado la calidad de cónyuge de otro afiliado, la ayuda procederá sólo por uno de estos conceptos.
+b) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluido el mortinato a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, que no hubiere sido aún reconocido como carga familiar. En caso de tener un afiliado la calidad de cónyuge de otro afiliado, la ayuda procederá sólo por uno de estos conceptos.
 
 En caso de fallecimiento del afiliado, esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1º.- A la persona designada expresamente para tales efectos por el afiliado;
+1º.- A la persona designada expresamente para tales efectos por el afiliado.
 
-2º.- Al cónyuge sobreviviente;
+2º.- Al cónyuge sobreviviente.
 
-3º.- A los hijos;
+3º.- A los hijos.
 
-4º.- A los padres;
+4º.- A los padres matrimoniales.
 
-5º.- A la persona que acredite haber efectuado los gastos del funeral;
+5º.- A la persona que acredite haber efectuado los gastos del funeral.
 
-También se podrá otorgar, por una sola vez, una ayuda para la adquisición, construcción o arrendamiento de nichos, nichos bóveda, bóveda o sepultura en tierra o para la cremación, ya sea en cementerios públicos o particulares, una vez ocurrido el fallecimiento de un afiliado, de su cónyuge o de cada una de sus cargas familiares.
+También se podrá otorgar, por una sola vez, una ayuda para la adquisición, construcción o arrendamiento de nichos, nichos bóveda, bóveda o sepultura en tierra o para la cremación, ya sea en cementerios públicos o particulares, una vez ocurrido el fallecimiento de un afiliado o de cada una de sus cargas familiares
 
 c) Educación: Se concederá una asignación de escolaridad a los afiliados y cargas familiares que se encuentren cursando estudios regulares en los niveles prebásico, básico, medio, técnico o de educación superior, en algún establecimiento del Estado o reconocido por éste.
 
@@ -174,7 +174,19 @@ d) Becas de estudio: El Servicio podrá otorgar becas de estudio destinadas a co
 
 e) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 9º de este Reglamento.
 
-f) Catástrofes: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otra catástrofe semejante, previa comprobación de los hechos por parte de Carabineros y/o Cuerpo de Bomberos.
+f) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves que tengan como consecuencia la pérdida del 50% de la vivienda o si ésta es declarada inhabitable. Para solicitar el subsidio y definir el monto final de la ayuda se deberán considerar los siguientes requisitos:
+
+1. En caso de terremoto, el afiliado deberá presentar certificado emitido por la Dirección de Obras Municipales, en el cual se detalle el nivel de daño sufrido por la vivienda.
+
+2. En caso de inundación o incendio se deberá acreditar el daño a través de certificado emitido por el Cuerpo de Bomberos.
+
+3. La ayuda será entregada previa visita domiciliaria de uno de los integrantes del Consejo Administrativo o la persona que éste designe, para cumplir dicha labor.
+
+4. El beneficio será entregado a los afiliados propietarios o arrendatarios, cuando figuren como titular del contrato de arriendo.
+
+5. La pérdida sólo de enseres también será evaluada por el Consejo Administrativo definiendo, según la magnitud del daño, la ayuda final a entregar.
+
+6. Si el funcionario registra seguro contra incendio deberá reembolsar primero en la compañía de seguros e informar el detalle de lo pagado por este concepto antes de solicitar el subsidio.
 
 g) Desgravamen: Al fallecimiento de un afiliado se entenderán condonadas automáticamente las deudas que tuviera pendientes con el Servicio por el concepto de préstamo que éste le hubiese otorgado.
 
