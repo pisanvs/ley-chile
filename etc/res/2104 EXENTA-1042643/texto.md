@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.104, de 27 de julio de 2012, de esta Subsecretaría, déjase sin efecto la resolución N° 2.574 de 2011, de esta Subsecretaría, correspondiente al área de manejo Islas Huichas, Sector F, XI Región, del SINDICATO DE TRABAJADORES INDEPENDIENTE DE LA PESCA ARTESANAL NUEVO HORIZONTE DE PUERTO AGUIRRE, en virtud del artículo 21 del DS N° 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 27 de julio de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
