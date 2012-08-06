@@ -1,6 +1,6 @@
 FIJA ARANCELES CORRESPONDIENTES A LOS HONORARIOS DE MEDIADORES Y ÁRBITROS FINANCIEROS QUE INDICA
 
-Núm. 132 exenta.- Santiago, 31 de julio de 2012.- Vistos: Lo dispuesto en la ley Nº 20.555, que modifica la ley Nº 19.946, sobre protección de los derechos de los consumidores, para dotar de atribuciones en materias financieras, entre otras, al Servicio Nacional del Consumidor; en la ley Nº 19.946, sobre protección de los derechos de los consumidores; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
+Núm. 132 exenta.- Santiago, 31 de julio de 2012.- Vistos: Lo dispuesto en la ley Nº 20.555, que modifica la ley Nº 19.946, sobre protección de los derechos de los consumidores, para dotar de atribuciones en materias financieras, entre otras, al Servicio Nacional del Consumidor; en la ley Nº 19.496, sobre protección de los derechos de los consumidores; y en la resolución Nº 1.600, de 2008, de la Contraloría General de la República.
 
 Considerando:
 
