@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.023, de 18 de julio de 2012, de esta Subsecretaría de Pesca, prorrógase por 30 días hábiles, contados desde la fecha de la presente autorización, el plazo para publicar en el Diario Oficial los extractos de las resoluciones exentas Nº 1.238, Nº 1.240 y Nº 1.245, todas de 2012, de esta Subsecretaría, que otorgaron a RUBIO Y MAUAD LIMITADA, permisos extraordinarios de pesca para las unidades de pesquería de Langostino colorado y Langostino amarillo.
+
+Valparaíso, 18 de julio de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca.
