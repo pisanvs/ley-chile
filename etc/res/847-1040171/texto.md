@@ -18,7 +18,7 @@ Datum WGS-84
 
 Vértice A Lat. 54º29'00,93" S. Long. 71º28'41,22" W.
 
-Vértice B Lat. 54º29'55,55" S. Long. 71º28'38,19" W.
+Vértice B Lat. 54º28'55,55" S. Long. 71º28'38,19" W.
 
 Vértice C Lat. 54º29'00,20" S. Long. 71º28'13,81" W.
 
