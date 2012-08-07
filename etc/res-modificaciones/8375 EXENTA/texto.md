@@ -24,6 +24,8 @@ Resolución:
 
 > **Nota.** NOTA 1 El Nº 2, letra b) de la Resolución 5954 Exenta, publicada el 28.09.2010, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el número 3, que fija el número de postulantes seleccionados para cada Título, las filas correspondientes a la Región 12 y al Total, por las que en dicha norma se indican.
 
+> **Nota.** NOTA 2 El Número 1 letra a) de la Resolución 6165 Exenta, Vivienda, publicada el 07.08.2012 modifica la presente norma en el sentido de eliminar de la nómina de seleccionados del mes de septiembre de 2009, en la comuna de San Joaquín, de la Región Metropolitana, a la Sra. Raquel Amanda Maza Torres, solamente en la fila asociada a la cédula de identidad Nº8.954.662-1.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Patricia Poblete Bennett, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Paulina Saball Astaburuaga, Subsecretaria de Vivienda y Urbanismo.
