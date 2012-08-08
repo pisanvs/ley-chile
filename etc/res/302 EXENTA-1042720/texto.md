@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ESTATUTOS A "COMPASS GROUP CHILE S.A. ADMINISTRADORA GENERAL DE FONDOS"
+
+Certifico: Que por resolución exenta Nº 302, de 23 de julio de 2012 de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Compass Group Chile S.A. Administradora General de Fondos", acordada en Junta Extraordinaria de Accionistas celebrada el 11 de junio de 2012, y reducida a escritura pública con igual fecha, en la 8ª Notaría de Santiago de don Andrés Rubio Flores, con domicilio en Miraflores 383, piso 29, Santiago, consistente en modificar el artículo segundo relativo al domicilio, quedando como sigue "Artículo Segundo: El domicilio de la sociedad es la ciudad de Santiago, sin perjuicio de que pueda establecer oficinas, filiales, agencias o sucursales en otros lugares dentro y/o fuera del país". Asimismo, se modifican los artículos sexto, décimo y décimo primero.
+
+Santiago, 23 de julio de 2012.- Carmen Undurraga Martínez, Secretaria General.
