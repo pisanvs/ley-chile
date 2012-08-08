@@ -620,9 +620,11 @@ i) Organizar o pertenecer a sindicatos en el ámbito de la Administración del E
 
 j) Atentar contra los bienes de la municipalidad, cometer actos que produzcan la destrucción de materiales, instrumentos o productos de trabajo o disminuyan su valor o causen su deterioro;
 
-k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen, y
+k) Incitar a destruir, inutilizar o interrumpir instalaciones públicas o privadas, o participar en hechos que las dañen;
 
-l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación.
+l) Realizar cualquier acto atentatorio a la dignidad de los demás funcionarios. Se considerará como una acción de este tipo el acoso sexual, entendido según los términos del artículo 2º, inciso segundo, del Código del Trabajo, y la discriminación arbitraria, según la define el artículo 2º de la ley que establece medidas contra la discriminación, y
+
+m) Realizar todo acto calificado como acoso laboral en los términos que dispone el inciso segundo del artículo 2° del Código del Trabajo.
 
 ### Párrafo 6 — .° DE LAS INCOMPATIBILIDADES
 
