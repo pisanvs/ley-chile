@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 3.075 EXENTA, DE 2012
+
+Por resolución exenta N° 3.075, de fecha 1 de agosto de 2012, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el programa de enseñanza para la obtención de licencia de conductor Clase B, a la Escuela de Conductores No Profesionales o Clase B "Instituto Capacitación de Tránsito Alto Manquehue Limitada", cuyo nombre de fantasía es "I.C.T. Alto Manquehue Ltda.", RUT Nº 76.167.877-9, representada legalmente por el señor Jaime Cristián Orellana Meza, RUT N° 9.615.256-6, y por el señor Guido Iván Escobar Murgan, RUT Nº 6.551.571-7, quien es su Director, la que tendrá su lugar de funcionamiento en el local ubicado en José Perotti N° 5510-Z, comuna de Macul.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones Región Metropolitana.
