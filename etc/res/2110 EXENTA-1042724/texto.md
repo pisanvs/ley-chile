@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.110, de 27 de julio de 2012, de esta Subsecretaría, modifícase el numeral 4º de la resolución exenta Nº 1.503, de 2012, que autorizó al CENTRO DE ESTUDIOS PESQUEROS S.A. para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Monitoreo pesquería-dependiente de la abundancia de bacalao e interacción con mamíferos marinos con la pesca en el área licitada", en el sentido de incorporar a la nave fábrica "Globalpesca II" en calidad de titular en la pesca de investigación, la que podrá operar simultáneamente con la nave fábrica "Globalpesca I" en el marco del estudio antes señalado.
+
+Valparaíso, 27 de julio de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
