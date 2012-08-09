@@ -1,0 +1,5 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A DISTRIBUCIÓN Y SERVICIOS META S.A.
+
+La XV Dirección Regional Metropolitana Santiago Oriente del SII, por resolución Ex. Nº 77312007815, de fecha 27 de julio de 2012, otorga a contar del 1º del mes siguiente al de esta publicación, a Distribución y Servicios Meta S.A., RUT 96.646.430-5, la calidad de sujeto del Impuesto al Valor Agregado y agente retenedor del impuesto incluido en las boletas-liquidaciones que se emitan por el período tributario correspondiente, por los márgenes de comercialización por venta de publicaciones a agentes distribuidores y suplementeros de acuerdo a lo dispuesto en las Res. Ex. SII Nos 1.423 de 1976 y 1.578 de 1979, respectivamente, de la Dirección Nacional del Servicio de Impuestos Internos.-
+
+Rebeca Ugalde Villa, Director (S) Regional.
