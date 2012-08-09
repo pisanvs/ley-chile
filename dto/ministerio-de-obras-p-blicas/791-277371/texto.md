@@ -38,6 +38,10 @@ I-72, Cruce Ruta I-50 (Paniahue) - Santa Cruz - Bucalemu, sector: Cruce La Capil
 
 S/R, La Capilla - Lo Valdivia
 
+Ruta H-10, Cruce ex Ruta 5 - Rancagua.
+
+Ruta H-210, Cruce H-10 - Cruce H-30.
+
 3º Declárense caminos públicos en las áreas urbanas de las siguientes capitales de provincia, dando continuidad a las rutas antes indicadas, a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
 RANCAGUA:
@@ -57,6 +61,12 @@ urbano Oriente hasta su intersección con la
 Carretera Longitudinal 5 Sur, a través de Río
 
 Loco, Costanera Norte Río Cachapoal.
+
+* El sistema vial denominado Camino Longitudinal
+
+Antiguo, desde límite urbano norte hasta límite
+
+urbano suroriente.
 
 PICHILEMU:
 
@@ -128,9 +138,27 @@ sistema vial urbano de las calles Av. Cura
 
 Cornejo, Av. Rosario, calle Luis Barahona,
 
-Av. Manuel Rodríguez, Av. Bernardo O’Higgins
+Av. Manuel Rodríguez, Av. Bernardo O'Higgins
 
 y Av. 11 de Septiembre.
+
+Mostazal:
+
+* El sistema vial que interconecta la Ruta 5
+
+con la Ruta H-10, a través de: Fundo Peuco
+
+y Avenida Independencia, hasta el límite
+
+urbano sur.
+
+Graneros:
+
+* El tramo urbano de la Ruta H-10, desde límite
+
+urbano norte hasta el límite urbano sur, a
+
+través de Camino Longitudinal Antiguo.
 
 5º Las calles o avenidas declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, y de los Planes Reguladores.
 
