@@ -6,21 +6,19 @@ Decreto:
 
 #### Artículo 1°
 
-Para el otorgamiento de licencias de conductor las Municipalidades deberán cumplir con las disposiciones del presente Decreto y del Decreto Supremo N° 97, de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para obtener Autorización de Otorgar Licencias de Conductor".
-
-Para los efectos del presente reglamento, la Ley de Tránsito se entenderá por el texto del Decreto con Fuerza de Ley N° 1, de 2007, del Ministerio de Transportes y Telecomunicaciones y del Ministerio de Justicia, que fija su texto refundido, coordinado y sistematizado.
+Para el otorgamiento de licencias de conductor las Municipalidades deberán cumplir con las disposiciones del presente Decreto.
 
 #### Artículo 2°
 
 En la calificación de la idoneidad moral a que se refieren los artículos 13, Nº 1; 14 y 15 de la Ley de Tránsito, se deberán considerar las condenas que registren los postulantes a licencia, por las siguientes causas;
 
-1.- Por infracción a la ley 17.105, sobre Alcoholes, Bebidas Alcohólicas y Vinagres y a la ley 20.000, sobre Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas;
+1.- Por infracción a la ley 17.105, sobre Alcoholes, Bebidas Alcohólicas y Vinagres y a la ley 19.366, sobre Tráfico Ilícito de Estupefacientes y Sustancias Sicotrópicas;
 
 2.- Por delitos o cuasidelitos para cuya perpetración se hubiere utilizado o conducido un vehículo;
 
 3.- Por delitos contra el orden de la familia, la moralidad pública, las personas, la propiedad y contra el orden o la seguridad pública;
 
-4.- Por el delito de conducir con licencia de conductor, boleta de citación o permiso provisorio judicial para conducir, falsos u obtenidos en contravención a la Ley de Tránsito o perteneciente a otra persona;
+4.- Por el delito de conducir con licencia de conductor, boleta de citación o permiso provisorio judicial para conducir, falsos u obtenidos en contravención a la ley 18.290 o perteneciente a otra persona;
 
 5.- Por conducir en estado de ebriedad o bajo la influencia del alcohol, drogas o estupefacientes;
 
@@ -32,9 +30,9 @@ En la calificación de la idoneidad moral a que se refieren los artículos 13, N
 
 9.- Por haber obtenido licencia valiéndose de cualquier engaño;
 
-10.- Por conducir sin haber obtenido licencia de conductor para el tipo de vehículo que conduce; y
+10.- Por conducir un vehículo para cuya conducción se requiere licencia profesional sin haberla obtenido; y
 
-11.- Por conducir sin tener licencia de conductor vigente para el tipo de vehículo que conduce.
+11.- Por conducir sin haber obtenido licencia de conductor.
 
 #### Artículo 3°
 
@@ -42,59 +40,55 @@ Serán consideradas carentes de aptitudes para conducir vehículos motorizados l
 
 I.- PARA TODO TIPO DE LICENCIAS
 
-1.- Todas aquellas enfermedades que produzcan crisis de compromiso de conciencia, cualquiera que sea su causa sin perjuicio de lo dispuesto en el número 9.- de este título y 4 del Título II, siguiente;
+1.- Todas aquellas enfermedades que produzcan crisis de compromiso de conciencia, cualquiera que sea su causa;
 
-2.- Todas aquellas enfermedades que produzcan movimientos involuntarios o una incapacidad de efectuar movimientos voluntarios que impidan actuar con la rapidez y precisión que la conducción, manejo o control físico de un vehículo requiera sin perjuicio de lo dispuesto en el número 6.- del Título II, siguiente;
+2.- Todas aquellas enfermedades que produzcan una incapacidad de efectuar movimientos voluntarios que impidan actuar con la rapidez y precisión que la conducción, manejo o control físico de un vehículo requiera;
 
-3.- Personas con alteraciones físicas o motoras, que con la mejor corrección les imposibiliten la conducción, manejo o control físico de un vehículo, aunque sea especialmente adaptado a tales defectos.
+3.- Todas aquellas enfermedades que se caractericen por movimientos involuntarios detectados, que interfieran seriamente con la habilidad de conducir;
 
-4.- Insuficiencia respiratoria que haga requerir oxígeno en forma habitual;
+4.- Personas con defectos de tipo anatómico o funcional, que con la mejor corrección les imposibiliten la conducción, manejo o control físico de un vehículo, aunque sea especialmente adaptado a tales defectos.
 
-5.- Insuficiencia cardíaca permanente grados III y IV;
+5.- Capacidad ventilatoria funcional igual o menor de 40%;
 
-6.- Angina inestable, de reposo o a esfuerzos mínimos;
+6.- Insuficiencia cardíaca permanente grados III y IV;
 
-7.- Hipertensión arterial mayor de 180 mmHg (sistólica) o mayor de 110 mmHg (diastólica), medida después de 5 minutos de reposo, en posición sentada con la extremidad superior apoyada en una mesa, a la altura del corazón; con un aparato calibrado, y usando un manguito acorde con las condiciones morfológicas del examinado;
+7.- Insuficiencia coronaria crónica con capacidad de esfuerzo menor de 6 METS o su equivalente;
 
-8.- Cardiopatías congénitas que condicionan insuficiencia cardíaca con capacidad funcional III o IV, hipertensión pulmonar o arritmias que puedan producir compromiso de conciencia;;
+8.- Hipertensión arterial maligna;
 
-9.- Alzheimer u otras demencias moderadas o severas;
+9.- Cardiopatías congénitas que condicionan insuficiencia cardíaca o respiratoria;
 
-10.- Cáncer, con performance status mayor o igual a 2, según el East Cooperative Oncology Group (Ecog);
+10.- Prótesis cardíacas valvulares, mitrales o aórticas;
 
-11.- Diplopia no corregida;
+11.- Diabetes Mellitus tipo I;
 
-12.- Toxicómanos (a drogas, alcohol o ambos) sin tratamiento, y aquellos que estándolo, no cuenten con la autorización del médico del Gabinete; y
+12.- Insuficiencia renal crónica grado IV;
 
-13.- Personas que estén bajo los efectos de sustancias que produzcan uno o varios de los siguientes efectos: alteraciones en el nivel de conciencia, en la percepción, en la habilidad motriz, en la estabilidad emocional y en el juicio.
+13.- Diplopia no corregida;
 
-No obstante lo señalado precedentemente, se podrá otorgar licencia de conductor restringida, conforme al Art. 22° de la Ley de Tránsito, en el caso de postulantes a licencias no profesional Clase B y C que presenten el correspondiente informe del médico tratante, en que se certifique bajo su responsabilidad y acompañando los exámenes atinentes, que la deficiencia está compensada y que el postulante se encuentra en condiciones de salud normal y en control periódico.
+14.- Toxicómanos (a drogas, alcohol o ambos) sin tratamiento, y aquellos que estándolo, no cuenten con la autorización del médico del Gabinete; y
+
+15.- Personas que estén bajo los efectos de sustancias que produzcan uno o varios de los siguientes efectos: alteraciones en el nivel de conciencia, en la percepción, en la habilidad motriz, en la estabilidad emocional y en el juicio.
+
+No obstante lo señalado precedentemente, se podrá otorgar licencia de conductor restringida, conforme al Art. 21° de la Ley de Tránsito, en el caso de postulantes a licencias no profesional Clase B y C que presenten el correspondiente informe del médico tratante, en que se certifique bajo su responsabilidad y acompañando los exámenes atinentes, que la deficiencia está compensada y que el postulante se encuentra en condiciones de salud normal y en control periódico.
 
 II.- PARA LICENCIAS CLASE A1 y A2 OBTENIDAS ANTES DEL 8 DE MARZO DE 1997; PARA LICENCIA PROFESIONAL CLASE A1, A2, A3, A4 Y A5; Y LICENCIA NO PROFESIONAL CLASE C:
 
-1.- Arritmias ventriculares o síncope cardioinhibitorio;
+1.- Capacidad ventilatoria funcional igual o menor de 66%;
 
-2.- Pacientes portadores de un desfibrilador cardíaco implantado;
+2.- Insuficiencia cardíaca permanente grados I y II;
 
-3.- Diabetes mellitus tipo I;
+3.- Insuficiencia coronaria crónica estable con capacidad de esfuerzo mayor de 6 METS o su equivalente:
 
-4.- Alzheimer u otra demencia de cualquier severidad;
+4.- Hipertensión arterial sistemática mayor de 95 mm. HG (diastólica) y 160 mm HG (sistólica);
 
-5.- Trastornos neuromusculares tales como: Esclerosis múltiple, Enfermedad de Parkinson y Distrofia Muscular Progresiva;
+5.- Arritmias;
 
-6.- Paresia de extremidad superior y/o inferior, o disfunción permanente del sistema musculoesquelético cuya gravedad impida la conducción segura;
+6.- Pacientes portadores de marcapaso;
 
-7.- Amputaciones o ausencia congénita de una extremidad que limiten en forma permanente la prensión gruesa o la ejecución segura de maniobras de conducción;
+7.- Diabetes mellitus tipo II; e
 
-8.- Anquilosis o movilidad dolorosa que limiten el rango de movimiento de tronco, cabeza o extremidades;
-
-9.- Traumatismo Encéfalo-Craneano (TEC) secuelado con alteraciones funcionales crónicas, y
-
-10.- Diplopia con o sin corrección.
-
-#### Artículo 3° bis
-
-El Ministerio de Transportes y Telecomunicaciones, en conjunto con el Ministerio de Salud, emitirán los instructivos técnicos para el apoyo a la gestión del médico del Gabinete Técnico Municipal y para el adecuado proceso de examinación de los postulantes a licencia de conductor.
+8.- Insuficiencia renal crónica grado III.
 
 #### Artículo 4°
 
@@ -590,37 +584,27 @@ no interfieren el acto de
 
 la conducción.
 
-No obstante en casos calificados y siempre que la deficiencia no sea grave, o atendida la edad y estado general del peticionario, se podrá otorgar licencia de conductor restringida, de acuerdo con lo establecido en el artículo 22 de la Ley de Tránsito. La restricción que se determine en este caso se consignará a través de la Plataforma Electrónica.
-
-Para efectos del presente decreto, se entiende por Plataforma Electrónica la que se define en el artículo 1° del decreto supremo N° 97, de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para obtener Autorización de Otorgar Licencias de Conductor".
+No obstante en casos calificados y siempre que la deficiencia no sea grave, o atendida la edad y estado general del peticionario, se podrá otorgar licencia de conductor no profesional restringida, de acuerdo con lo establecido en el artículo 21 de la ley 18.290.
 
 #### Artículo 5°
 
-El médico del Gabinete Técnico validará en el lugar habilitado para tal efecto en la Plataforma Electrónica, previo acceso a ésta mediante el correspondiente método de autenticación, los resultados de los exámenes Sensométricos y Sicométricos, que correspondan.
+El médico del Gabinete Técnico firmará en el recuadro habilitado para tal efecto en la ficha resumen para el otorgamiento de licencia de conductor a que se refiere el Decreto Supremo N° 123, publicado en el Diario Oficial de 29 de Diciembre de 1984, sólo cuando el postulante haya rendido y aprobado los exámenes Sensométricos y Sicométricos, que correspondan.
 
-La calificación de la idoneidad síquica la efectuará el médico del Gabinete, sobre la base de los exámenes sicométricos cuando corresponda y de la respectiva entrevista, pudiendo solicitar información adicional sobre algunos aspectos no considerados en la pauta de entrevista, con el propósito de descartar dudas con respecto al estado de salud mental. Además, cuando el caso así lo requiera, el médico podrá solicitar exámenes especiales para determinar la aptitud síquica del postulante. Asimismo, en caso de requerir antecedentes adicionales, estos deberán ser adjuntados en la Plataforma Electrónica referida en el inciso anterior, previo a la validación del médico.
+La calificación de la idoneidad síquica la efectuará el médico del Gabinete, sobre la base de los exámenes sicométricos cuando corresponda y de la respectiva entrevista, pudiendo solicitar información adicional sobre algunos aspectos no considerados en la pauta de entrevista, con el propósito de descartar dudas con respecto al estado de salud mental. Además, cuando el caso así lo requiera, el médico podrá solicitar exámenes especiales para determinar la aptitud síquica del postulante.
 
-En caso de presentarse en el examinado, algunas de las carencias de aptitud para conducir vehículos motorizados, deberá dejarse constancia de ello en la Plataforma Electrónica, de lo que se dejará anotación en el espacio para observaciones de la ficha resumen del Formulario para Gestión de Licencia a la que se refiere el decreto supremo N° 23 de 2000, del Ministerio de Transportes y Telecomunicaciones.
-
-#### Artículo 5° bis
-
-Las calificaciones de las idoneidades físicas y psíquicas deberán realizarse considerando lo estipulado por los instructivos que al amparo del artículo 3° bis de este Decreto, dicten el Ministerio de Transportes y Telecomunicaciones y el Ministerio de Salud.
+En caso de presentarse en el examinado, algunas de las carencias de aptitud para conducir vehículos motorizados, deberá dejarse constancia de ello en el espacio para observaciones de la ficha resumen.
 
 #### Artículo 6°
 
-El Director del Departamento de Tránsito y Transporte Público otorgará la respectiva licencia al conductor, previa suscripción de la misma mediante Firma Electrónica Avanzada, cuando en la Plataforma Electrónica estén calificados como aprobados todos los exámenes que la ley y los Reglamentos establecen.
+El Director del Departamento de Tránsito y Transporte Público otorgará la respectiva licencia al conductor, cuando en la ficha resumen de la licencia estén calificados como aprobados todos los exámenes que la ley establece.
 
-En caso contrario deberá procederse de acuerdo a lo establecido en el Art. 22, de la Ley de Tránsito.
+En caso contrario deberá procederse de acuerdo a lo establecido en el Art. 21, de la Ley de Tránsito.
 
 La fecha de otorgamiento de la licencia de conductor deberá corresponder al día en que se haya rendido el último examen.
 
-En cualquier caso, deberá utilizarse la Plataforma Electrónica para otorgar o denegar la licencia de conductor y almacenar los documentos que respalden dicha decisión, de acuerdo a lo dispuesto en el artículo 23 de la Ley de Tránsito.
-
-Las comunicaciones que, de acuerdo a lo establecido en el artículo 214 de la Ley de Tránsito y en el artículo 5 del decreto N° 739, de 1984, del Ministerio de Justicia, deben efectuar los Departamentos de Tránsito y Transporte Público Municipal al Registro Nacional de Conductores de Vehículos Motorizados respecto al otorgamiento o denegación de una licencia de conductor, así como también de los antecedentes necesarios para efectuar la inscripción y de cualquier otro dato que modifique la anotación de un conductor en el referido registro, se entenderán cumplidas por el hecho de haberse registrado dicha información en la Plataforma Electrónica.
-
 #### Artículo 7º
 
-Los exámenes teóricos establecidos en el D.S. Nº 97/84 antes referido, deberán contener el número de preguntas que indica el siguiente cuadro:
+Los exámenes teóricos establecidos en el D.S. Nº 97/84 antes referido, deberán contener el número de preguntas que indican los siguientes cuadros:
 
 Nº de preguntas de: Clase de Licencia
 
@@ -644,135 +628,147 @@ Total preguntas 20 20 12 10
 
 * Las clases de licencia A1 y A2 antes indicadas, se refieren a las licencias Clase A1 y A2 otorgadas antes del 8 de marzo de 1997.
 
+Nº de preguntas de: Licencia de Conductor
+
+Profesional
+
+A1 A2 A3 A4 A5
+
+Conocimientos legales 5 5 5 5 5
+
+Conducta vial 5 5 5 5 5
+
+Conocimientos reglamentarios 5 5 5 5 5
+
+Conocimientos mecánica 5 5 5 5 5
+
+Total preguntas 20 20 20 20 20
+
 Las preguntas antes indicadas deberán ser extraídas del Cuestionario Base elaborado por el Ministerio de Transportes y Telecomunicaciones para uso de las Municipalidades.
 
-Todos los exámenes teóricos de conducción correspondientes a las diversas clases de licencia que se postulan y de las disposiciones legales y reglamentarias que rigen al tránsito público, deberán rendirse a través de un sistema informático administrado por el Ministerio de Transportes y Telecomunicaciones. Se entenderá por sistema informático para efectos del presente decreto, el conjunto de los programas computacionales que posibilitarán la rendición del examen teórico en los municipios. Los programas que residirán en cada municipio descargarán periódicamente los exámenes disponibles desde un servidor alojado para tal efecto en la Subsecretaría de Transportes. Esta aplicación informática alojada en el servidor será responsable de la generación de exámenes aleatorios a partir de un banco de preguntas cuya administración asume el Ministerio de Transportes y Telecomunicaciones. Lo señalado anteriormente es sin perjuicio de la acreditación de los conocimientos prácticos que debe efectuar el Director de Tránsito y Transporte Público respectivo a que hace referencia el artículo 14 letra A) N° 2 letra b) de la Ley de Tránsito, por medio de un certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, el cual se deberá almacenar en la Plataforma Electrónica.
-
-El examen para postulantes a licencia de conductor profesional constará de 20 preguntas aleatorias y se aprobará con un mínimo de 17 respuestas correctas.
+Tratándose de postulantes a licencia profesional Clase A1, A2, A3, A4 y A5, los conocimientos teóricos se acreditarán por medio de un certificado expedido por una Escuela de Conductores Profesionales reconocida oficialmente, sin perjuicio del deber por parte del Director de Tránsito y Transporte Público de la Municipalidad respectiva de adoptar las medidas que estime necesarias, a fin de comprobar la efectividad de dichos conocimientos. El examen teórico municipal deberá contener el número de preguntas que se señala en el cuadro precedente y será aplicable tanto para la obtención de la licencia como para los exámenes de control.
 
 En el caso de postulantes a licencia especial Clase F, los conocimientos teóricos de conducción, así como de las disposiciones legales y reglamentarias que rigen el tránsito público, se acreditarán por medio de un certificado emitido por la respectiva institución en que conste la aprobación de los cursos institucionales que se impartan para el efecto.
 
 Para postulantes a licencia Clase E, el examen de conocimientos teóricos de las disposiciones legales y reglamentarias que rigen el tránsito público necesariamente deberá comprender, a lo menos, una pregunta sobre tres señales de tránsito efectuada verbalmente, computándose la respuesta del postulante como correcta, sólo si las tres señales que constituyen una pregunta son respondidas acertadamente.
 
-Tratándose de postulantes a licencias de conductor de las Clases B y C, el examen de conocimientos teóricos de la conducción y de las disposiciones legales y reglamentarias que rigen al tránsito público, será rendido a través del sistema informático a que se refiere el inciso tercero.
+Tratándose de postulantes a licencias de conductor de las Clases B y C, el examen de conocimientos teóricos de la conducción y de las disposiciones legales y reglamentarias que rigen al tránsito público, será rendido a través de un sistema informático administrado por el Ministerio de Transportes y Telecomunicaciones. Se entenderá por sistema informático, para efectos del presente decreto, el conjunto de los programas computacionales que posibilitarán la rendición del examen teórico en los municipios. Los programas que residirán en cada municipio descargarán periódicamente los exámenes disponibles desde un servidor alojado para tal efecto en la Subsecretaría de Transportes. Esta aplicación informática alojada en el servidor será responsable de la generación de exámenes aleatorios a partir de un banco de preguntas cuya administración asume el Ministerio de Transportes y Telecomunicaciones.
 
-El examen constará de 35 preguntas aleatorias, 3 de las cuales tendrán doble puntuación. La doble puntuación atenderá a materias vinculadas al consumo de alcohol, estupefacientes o sustancias sicotrópicas, velocidad, casco protector, cinturón de seguridad y sistemas de retención infantil. El examen se aprobará obteniendo un mínimo de 33 puntos de un máximo de 38.
-
-A petición del interesado, el examen teórico para postular a una licencia de conductor Clase B podrá ser rendido en idioma inglés, rigiéndose éste por las normas de los incisos 7º y 8º anteriores.
-
-Si el interesado postula a una licencia de conductor Clase C para conducir triciclos motorizados de carga, deberá rendir un examen teórico simplificado, el cual contendrá 20 preguntas y se aprobará con un mínimo de 15 respuestas correctas; rigiéndose, además, por la norma del inciso 7° anterior.
+El examen constará de 35 preguntas aleatorias, 3 de las cuales tendrán doble puntuación. La doble puntuación atenderá a materias vinculadas al consumo de alcohol, velocidad, casco protector, cinturón de seguridad y sistemas de retención infantil. El examen se aprobará obteniendo un mínimo de 33 puntos de un máximo de 38.
 
 La puesta en marcha del examen teórico informatizado en los Gabinetes Técnicos Municipales deberá ser aprobada, mediante resolución, por el Secretario Regional Ministerial de Transportes y Telecomunicaciones competente, previa constatación de su funcionamiento.
 
-Las municipalidades deberán aplicar el examen teórico informatizado, en caso contrario, el Ministerio de Transportes y Telecomunicaciones deberá suspender la autorización para otorgar las licencias de conductor de acuerdo al artículo 9º de la Ley de Tránsito.
+Las municipalidades deberán aplicar el examen teórico informatizado, en caso contrario, el Ministerio de Transportes y Telecomunicaciones deberá suspender la autorización para otorgar las licencias de conductor Clases B y C de acuerdo al artículo 9º de la Ley de Tránsito.
 
 #### Artículo 8º
 
 Las normas de aprobación de los exámenes teóricos serán las que se indican a continuación:
 
-En todo caso, para aprobar este examen no podrá tenerse más de dos respuestas incorrectas en el ítem de conocimientos legales y reglamentarios.
+Clase de Licencia Nº mínimo de
+
+respuestas
+
+correctas
+
+A1 otorgada antes del 8 de marzo de 1997 17 de 20
+
+A2 otorgada antes del 8 de marzo de 1997 16 de 20
+
+Especial D 9 de 12
+
+Especial E 7 de 10
+
+Clase de Licencia Profesional Nº mínimo de
+
+respuestas correctas
+
+A1 18 de 20
+
+A2 18 de 20
+
+A3 18 de 20
+
+A4 18 de 20
+
+A5 18 de 20
+
+En todo caso, para aprobar este examen no podrá tenerse más de dos respuestas incorrectas en el ítem de conocimientos legales y reglamentarios, salvo en los exámenes que rindan los postulantes a licencias clases B y C.
 
 #### Artículo 9°
 
-En los exámenes prácticos de conducción establecidos por el Decreto Supremo N° 97, de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para obtener Autorización de Otorgar Licencias de Conductor", deberán controlarse las siguientes condiciones generales y conductas para las licencias de conductor que se indican:
+En los exámenes prácticos de conducción establecidos por el Decreto Supremo N° 97 de 1984, del Ministerio de Transportes y Telecomunicaciones, deberán controlarse las siguientes condiciones generales y conductas para las licencias de conductor que se indican:
 
 I.- Condiciones Generales
 
-A.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997, y para las licencias profesionales Clase A1, A2, A3, A4 y A5:
+A.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997, y para licencia profesional Clase A1, A2, A3, A4 y A5
 
-1. Ingreso a la circulación.
+1.- Arranques reiterados con suavidad;
 
-2. Control de velocidad.
+2.- Cambio de sentido en espacio limitado;
 
-3. Llegada a una intersección.
+3.- Estacionamiento en línea;
 
-4. Ingreso a una intersección.
+4.- Salida de estacionamiento;
 
-5. Cambio de pista.
+5.- Circulación por un pasillo estrecho;
 
-6. Uso de señalizadores.
+6.- Detención con suavidad;
 
-7. Viraje a la derecha sin semáforo.
+7.- Detención al borde de la cuneta.
 
-8. Viraje a la izquierda sin semáforo.
+B.- Para la Licencia Clase B
 
-9. Separación con otros vehículos.
+1.- Arranque, aceleración y frenado en tramos reducidos;
 
-10. Adelantamiento y sobrepaso.
+2.- Estacionamiento en línea;
 
-11. Viraje a la derecha con semáforo.
+3.- Salida de estacionamiento;
 
-12. Viraje a la izquierda con semáforo.
+4.- Circulación por un pasillo estrecho, y 5.- Cambio de sentido en marcha atrás en un espacio limitado.
 
-13. Arranques reiterados con suavidad.
+C.- Para la Licencia Clase C
 
-14. Cambio de sentido en espacio limitado.
+1.- Zig-Zag entre conos;
 
-15. Detención con suavidad.
+2.- Describir en un espacio reducido curvas y contracurvas;
 
-16. Detención al borde de la cuneta.
+3.- Circular en una franja recta en espacio reducido;
 
-17. Otras detenciones.
+4.- Describir una curva cerrada, y
 
-18. Estacionamiento en línea.
+5.- Aceleración y frenado de emergencia.
 
-19. Salida de estacionamiento.
+D.- Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase B y C
 
-20. Circulación por un pasillo estrecho.
+1.- Ingreso a la circulación;
 
-B.- Para la Licencia Clase C. El examen práctico de conducción destinado a la obtención de la licencia de conductor no profesional Clase C controlará, en dos etapas, las siguientes aptitudes del postulante para la conducción del vehículo que corresponda y de manera secuencial:
+2.- Control de velocidad;
 
-Etapa 1: Maniobras y comprobaciones en vehículo con motor apagado:
+3.- Llegada a una intersección;
 
-1.1. Identificación de documentos del vehículo;
+4.- Ingreso a una intersección;
 
-1.2. Uso correcto del casco;
+5.- Cambio de pista;
 
-1.3. Identificación y activación de luces, bocina, señalizadores y frenos;
+6.- Usos de señalizadores;
 
-1.4. Desplazamiento junto con el vehículo en línea recta;
+7.- Viraje a la derecha sin semáforo;
 
-1.5. Desplazamiento junto con el vehículo en curva, evitando un obstáculo;
+8.- Viraje a la izquierda sin semáforo;
 
-1.6. Desplazamiento junto con el vehículo en línea recta, y
+9.- Separación con otros vehículos;
 
-1.7. Estacionar el vehículo sobre su soporte.
+10.- Adelantamiento y sobrepaso;
 
-Etapa 2: Maniobras en vehículo con motor encendido:
+11.- Detenciones;
 
-2.1. Zigzag entre conos;
+12.- Virajes a la derecha con semáforo, y
 
-2.2. Desplazamiento en trayectoria curva formando figura de ocho;
-
-2.3. Describir curvas y contracurvas sucesivas;
-
-2.4. Circular en una franja recta en espacio reducido;
-
-2.5. Frenado progresivo y detención en lugar establecido;
-
-2.6. Circular en trayectoria recta evitando un obstáculo;
-
-2.7. Describir una curva cerrada;
-
-2.8. Circular en trayectoria recta, y
-
-2.9. Frenado progresivo y detención en lugar establecido.
-
-El postulante deberá realizar la totalidad de las maniobras Nºs 2.6, 2.7, 2.8 y 2.9, en un tiempo máximo de treinta y cinco segundos.
-
-Si el interesado desea obtener licencia de conductor Clase C, restringida para conducir triciclos motorizados de carga, deberá realizar la totalidad de las maniobras de la Etapa 1 y las maniobras Nºs. 2.1, 2.4 y 2.5 de la Etapa 2.
-
-La evaluación del examen práctico de conducción para obtener la licencia no profesional Clase C y para obtener la licencia de conductor no profesional Clase C para la conducción de triciclos motorizados de carga se realizará considerando los errores cometidos durante la conducción, los que se clasificarán en reprobatorios graves y leves, según se indica en el artículo 10 ter.
-
-El postulante deberá ser evaluado en todas y cada una de las maniobras, comprobaciones y etapas del examen, salvo en el caso que el postulante cometa un error reprobatorio. En caso que el postulante no realice una de las maniobras, comprobaciones o etapas, el examen deberá ser reanudado desde dicha maniobra, comprobación o etapa no realizada.
-
-Los exámenes prácticos de conducción establecidos por el Decreto Supremo N° 97, de 1984, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que establece el "Reglamento para obtener Autorización de Otorgar Licencias de Conductor", no podrán realizarse si el vehículo no cumple con los requisitos legales y reglamentarios que permitan su circulación de manera segura. De la misma manera, el examen no podrá realizarse si el postulante no cumple con las reglamentaciones respecto del uso de elementos de seguridad no provistos por el vehículo. En estos casos, el examen deberá ser postergado hasta que sea posible acreditar el cumplimiento de los requisitos antes mencionados.
-
-C.- Eliminada.
+13.- Virajes a la izquierda con semáforo.
 
 II.- Conductas
 
-Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5,
+Para licencias Clase A1 y A2 obtenidas antes del 8 de marzo de 1997; para licencia profesional Clase A1, A2, A3, A4 y A5, y licencia no profesional Clase B y C
 
 1.- Comportamiento ante semáforo;
 
@@ -806,10 +802,6 @@ Las condiciones generales y las conductas a controlar deberán ser dadas a conoc
 
 En el caso de postulantes a licencia especial Clase F, los conocimientos prácticos de conducción se acreditarán por medio de un certificado emitido por la respectiva institución en que conste la aprobación de los cursos institucionales que se impartan al efecto.
 
-El examen práctico de conducción Clase B evaluará las aptitudes del postulante para la conducción de un vehículo motorizado, considerando los errores cometidos en la conducción, los que se clasifican en reprobatorios, graves y leves según se indica en el artículo 10º bis.
-
-El municipio, al definir el recorrido para el examen práctico conducente a obtener la licencia de conductor, ya sea que se trate de una licencia profesional como no profesional deberá considerar las circunstancias que permitan evaluar el comportamiento del postulante ante un cruce peatonal, señal Pare, señal Ceda el Paso, semáforo y las habilidades para estacionar en forma longitudinal, transversal (aculatado) o en diagonal, en un lugar habilitado y con espacio suficiente para ejecutar la maniobra.
-
 #### Artículo 10°
 
 Las normas de aprobación para el examen práctico de conducción serán las siguientes:
@@ -821,6 +813,10 @@ maniobras correctas
 A1 otorgada antes del 8 de marzo de 1997 25 de 30
 
 A2 otorgada antes del 8 de marzo de 1997 24 de 30
+
+No Profesional B 21 de 28
+
+No Profesional C 21 de 28
 
 Clase de Licencia Profesional Nº mínimo de
 
@@ -840,267 +836,57 @@ Para la licencia de conductor Clase D y E se deben evaluar las conductas del pos
 
 En todo caso, para aprobar este examen no podrá tenerse más de dos maniobras incorrectas en el ítem II.- Conductas.
 
-#### Artículo 10º bis
-
-Para licencia de conductor No Profesional Clase B será causal de reprobación del examen práctico de conducción el incurrir o acumular, durante el desarrollo del examen, errores de acuerdo al siguiente criterio:
-
-- Incurrir en un error reprobatorio. En este caso se dará por finalizado el examen sin necesidad de cumplir con el tiempo de duración mínima y kilometraje;
-
-- Acumular dos errores graves o más;
-
-- Acumular diez errores leves o más;
-
-- Acumular a lo menos un error grave y cinco errores leves.
-
-Son errores leves:
-
-1. No identificar correctamente los documentos obligatorios para el tránsito de un vehículo, señalados en los artículos 51 y 89 de la Ley de Tránsito.
-
-2. No ajustar espejos retrovisores y asiento antes de iniciar la marcha.
-
-3. Insistir en la puesta en marcha con el motor encendido.
-
-4. No desactivar freno de estacionamiento antes de iniciar la marcha.
-
-5. Iniciar marcha con la puerta abierta o mal cerrada.
-
-6. No dejar de señalizar una vez efectuado el cambio de pista.
-
-7. No señalizar virajes, incorporaciones a la circulación, salidas de la circulación o señalizarlas erróneamente.
-
-8. No dejar de señalizar una vez efectuado un viraje, una incorporación o una salida de la circulación.
-
-9. Subir a la cuneta o solera con alguna de las ruedas al virar.
-
-10. Estacionar dejando una separación respecto a la cuneta mayor a 30 cm y/o una distancia inferior a 60 cm entre vehículos.
-
-11. No activar freno de estacionamiento luego de finalizar el estacionamiento.
-
-12. Subir, forzar o golpear fuertemente la cuneta o solera al estacionar.
-
-13. No respetar líneas de pistas, bordes de calzada, líneas de detención demarcadas o imaginarias y achurados.
-
-14. Circular en una relación de marcha no adecuada en función de la velocidad, el vehículo y las circunstancias del tránsito y la vía o circular con la caja de cambios en posición neutra.
-
-15. Utilizar bocina sin motivo justificado o donde su uso esté prohibido.
-
-16. No identificar los mandos del vehículo (limpiaparabrisas, luces, bocina).
-
-17. Conducir de forma brusca o a saltos.
-
-18. No observar el tráfico durante el examen.
-
-19. No controlar el vehículo en vías con inclinación.
-
-20. Detención del motor del vehículo durante la conducción por mal uso de embrague, freno, acelerador, sin obstaculizar el tránsito de otros usuarios de las vías.
-
-21. No identificar los elementos de seguridad del vehículo: chaleco reflectante, extintor, triángulo reflectante y neumático de repuesto.
-
-22. No detener el motor luego de finalizar el estacionamiento.
-
-23. Realizar maniobra de retroceso donde no esté permitido.
-
-24. Mantener pedal del embrague accionado mientras su uso no sea necesario.
-
-25. Posicionarse incorrectamente sobre la calzada.
-
-26. En una vía inclinada, no estacionar el vehículo con las ruedas delanteras giradas hacia la cuneta o la calzada, según se trate de bajada o subida, respectivamente.
-
-Son errores graves:
-
-1. Realizar incorporación a la circulación, salida de la circulación, viraje o cambio de pista obstaculizando a los demás usuarios que cuentan con prioridad, sin generar riesgo de accidente.
-
-2. No señalizar al cambiarse de pista o señalizar erróneamente.
-
-3. Sobrepasar o adelantar en paso de peatones y cruces no regulados.
-
-4. Adelantar generando riesgo para los vehículos que transitan en sentido contrario.
-
-5. Ingresar a una intersección sin tener el espacio suficiente para no bloquear el cruce.
-
-6. Abrir la puerta y descender del vehículo sin observar.
-
-7. No respetar señal de prioridad "Ceda el Paso".
-
-8. No respetar señales de prohibición, restricción y obligación.
-
-9. Circular sin encender luces correspondientes cuando su uso sea obligatorio o necesario.
-
-10. Confundir: embrague, freno, acelerador, según corresponda.
-
-11. Soltar momentáneamente las dos manos del volante o conducir con una mano en el volante, excepto cuando sea necesario para realizar alguna acción propia de la conducción.
-
-12. Conducir el vehículo contra el sentido del tránsito.
-
-13. Circular sin mantener una distancia razonable y prudente respecto de otros usuarios de las vías.
-
-14. No respetar el derecho preferente de paso de peatones, ciclistas y otros vehículos.
-
-15. Detener o estacionar el vehículo donde no esté permitido.
-
-16. Detención del motor del vehículo durante la conducción por mal uso de embrague, freno, acelerador, obstaculizando el tránsito de otros usuarios de las vías.
-
-17. Adelantar en zonas donde no esté permitida esta maniobra.
-
-18. Conducir a una velocidad que interfiere con el tránsito normal de otros vehículos.
-
-19. Demorar más de tres minutos en ejecutar la maniobra de estacionamiento.
-
-20. Mojar a peatones o ciclistas.
-
-21. Realizar viraje desde una pista en la que no esté permitido este movimiento.
-
-Son errores reprobatorios:
-
-1. No usar cinturón de seguridad (conductor y pasajeros). Poner en movimiento el vehículo sin que todos los ocupantes de éste utilicen el cinturón de seguridad correctamente.
-
-2. Realizar incorporación a la circulación, salida de la circulación, viraje o cambio de pista obligando a que los usuarios con prioridad modifiquen su trayectoria, generando riesgo de accidente.
-
-3. No detenerse ante una luz roja o señal de prioridad "Pare".
-
-4. Golpear con el vehículo a personas, animales, vehículos u otros elementos.
-
-5. Sobrepasar la velocidad máxima permitida en la vía.
-
-6. Desobedecer las señales u órdenes de tránsito de un integrante de Carabineros.
-
-7. Manipular elementos electrónicos como teléfonos celulares, dispositivos de geolocalización, radio, y otros similares que generen distracción al postulante a conductor durante el examen.
-
-#### Artículo 10º ter
-
-Para la obtención de la licencia de conductor No Profesional Clase C será causal de reprobación del examen práctico de conducción el incurrir o acumular, durante el desarrollo del examen, errores de acuerdo al siguiente criterio:
-
-- Incurrir en un error reprobatorio. En este caso se dará por finalizado el examen sin necesidad de cumplir con las maniobras del circuito restantes;
-
-- Acumular dos errores graves o más;
-
-- Acumular seis errores leves o más;
-
-- Acumular un error grave y a lo menos tres errores leves.
-
-Son errores leves:
-
-1. No identificar correctamente los documentos obligatorios para el tránsito de un vehículo, señalados en los artículos 51 y 89 de la Ley de Tránsito.
-
-2. No ser capaz de colocar el vehículo que se permita conducir con licencia Clase C no restringida o restringida, según corresponda, sobre el soporte o dejarla caer al intentarlo.
-
-3. No ajustar espejos retrovisores antes de iniciar por primera vez la conducción del examen.
-
-4. Insistir en la puesta en marcha con el motor encendido.
-
-5. No adoptar la postura correcta en el vehículo.
-
-6. Topar, botar o mover un elemento señalizador del circuito de su posición original.
-
-7. Apoyar uno o ambos pies en el suelo durante la conducción.
-
-8. No seguir la trayectoria establecida en el circuito.
-
-9. Sobrepasar en no más de cinco segundos el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
-
-10. Detención del motor durante la conducción por mal manejo de los controles del vehículo (embrague, freno, acelerador).
-
-11. Detenerse posicionando la rueda delantera del vehículo que se permita conducir con licencia Clase C no restringida o restringida, según corresponda, a uno o más metros antes del lugar establecido para ello en el circuito.
-
-Son errores graves:
-
-1. No identificar los mandos del vehículo: luces, señalizadores y bocina.
-
-2. Caída del postulante y/o del vehículo en etapa 1.
-
-3. No recoger el soporte del vehículo al iniciar la marcha en la primera conducción del examen.
-
-4. Circular sin encender las luces correspondientes.
-
-5. Sobrepasar en más de cinco segundos y no más de diez segundos, el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
-
-6. Soltar momentáneamente una o ambas manos del manillar (manubrio).
-
-Son errores reprobatorios:
-
-1. No usar el casco o no abrocharlo o ajustarlo incorrectamente.
-
-2. Caída del postulante y/o del vehículo en etapa 2.
-
-3. No detenerse o hacerlo posicionando la rueda delantera del vehículo a más de 50 centímetros del lugar establecido para ello en el circuito.
-
-4. Sobrepasar en más de diez segundos el tiempo establecido para las maniobras 2.6, 2.7, 2.8 y 2.9 de la etapa 2.
-
-5. Golpear a personas, animales o a otros vehículos con el vehículo.
-
-6. Manipular elementos electrónicos como teléfonos celulares, dispositivos de geolocalización y otros similares que generen distracción al postulante a conductor durante el examen.
-
 #### Artículo 11°
 
-Para calificarse los requisitos a que se refiere el artículo 13, de la Ley de Tránsito, los postulantes a licencia de conductor deberán aprobar los correspondientes exámenes físico, síquico, teórico y práctico. La aprobación o reprobación de estas examinaciones deberán ser consignadas, en forma previa al otorgamiento o denegación de la licencia de conductor, en la Plataforma Electrónica y validadas en ésta por el funcionario que las haya llevado a cabo, previo acceso a la misma mediante el correspondiente método de autenticación.
+Para calificarse los requisitos a que se refiere el artículo 13, de la Ley de Tránsito, los postulantes a licencia de conductor deberán aprobar los correspondientes exámenes físico, síquico, teórico y práctico.
 
-Además de las causales de los artículos 13, 14 y 15 de la Ley de Tránsito, no se concederá licencia a quien no acredite, mediante los exámenes referidos, su idoneidad física y síquica y los conocimientos teóricos y prácticos respectivos.
+Además de las causales de los artículos 13, 14 y 14 bis. de dicha Ley, no se concederá licencia a quien no acredite, mediante los exámenes referidos, su idoneidad física y síquica y los conocimientos teóricos y prácticos repectivos.
 
-No obstante, antes de resolverse en definitiva sobre la concesión de la licencia requerida, el médico podrá reexaminar por una vez mas al postulante rechazado en un primer examen médico, en un plazo que determinará prudencialmente, el cual no podrá exceder de 60 días hábiles contados desde la fecha del rechazo original. Por su parte, el interesado podrá repetir por una vez, en su caso, sus exámenes teórico y práctico, en un plazo no superior a veinticinco días hábiles del primero. El proceso antes señalado resultará también aplicable cada vez que se presente una nueva solicitud luego de haberse denegado la concesión de la licencia por causas susceptibles de ser solucionadas, según los términos dispuestos en el artículo 17 de la Ley de Tránsito.
+No obstante, antes de resolverse en definitiva sobre la concesión de la licencia requerida, el médico podrá reexaminar por una vez mas al postulante rechazado en un primer examen, en un plazo que determinará. Por su parte, el interesado podrá repetir por una vez, en su caso, sus exámenes teórico y práctico, en un plazo no superior a veinticinco días del primero.
 
 Siempre deberán realizarse todos los exámenes correspondientes para las evaluaciones físicas y síquicas, no obstante haber sido reprobado el postulante en alguna de ellas.
 
 Los exámenes teóricos serán eliminatorios y, por consiguiente, los postulantes reprobados no serán admitidos al examen práctico. Asimismo, quienes no sean aprobados en los exámenes físico-síquico no serán admitidos al examen práctico.
 
-Durante la realización de los exámenes que verifican idoneidad física y síquica y conocimientos teóricos y prácticos, no se permitirá la utilización de teléfonos móviles o cualquier otro sistema de intercomunicación, ni la de equipos, aparatos, o sistemas de captación, grabación, recepción o transmisión de datos o información, ni de manuales ni documentos impresos. Asimismo, no se permitirá la captación, registro, almacenamiento y/o distribución de las preguntas y/o respuestas que conforman los exámenes que verifican los conocimientos teóricos.
-
-Pasados los plazos de reexamen sin la concurrencia del postulante, si persiste la reprobación o si el postulante incumple lo establecido en el inciso anterior, deberá denegarse la concesión de licencia.
+Pasados los plazos de reexamen sin la concurrencia del postulante o si persiste la reprobación, deberá denegarse la concesión de licencia.
 
 #### Artículo 12°
 
-Los Funcionarios municipales que evalúen exámenes prácticos de conducción, deberán cumplir las siguientes condiciones:
+Los funcionarios municipales que practiquen exámenes prácticos de conducción, deberán cumplir las siguientes condiciones:
 
-a. Estar en posesión de la licencia de conductor Clase A1 o A2 obtenidas antes del 8 de marzo de 1997 o de una clase de licencia profesional, con al menos, 2 años de antigüedad. Dicha antigüedad no será exigible si se acredita haber poseído con anterioridad otra clase de licencia profesional durante al menos dos años;
+a) Estar en posesión de licencia de conductor A1 obtenida antes del 8 de marzo de 1997 o de licencia profesional Clase A3;
 
-b. Ser egresado de Enseñanza Media, o su equivalente;
+b) Acreditar Cuarto Año de Enseñanza Media, o su equivalente, y
 
-c. Haber aprobado un programa de capacitación en materia de normativa y seguridad de tránsito de a lo menos, 45 horas cronológicas y uno de mecánica automotriz básica de al menos 10 horas cronológicas; impartidos por un organismo de capacitación debidamente reconocido por el Estado, y
+c) Haber efectuado un programa de capacitación en materia de tránsito de a lo menos 30 horas cronológicas y de mecánica automotriz básica.
 
-d. Acreditar la aprobación de un curso de formación de examinadores, de a lo menos 60 horas cronológicas, impartido por un organismo de capacitación debidamente reconocido por el Estado.
-
-Sin perjuicio de lo anteriormente señalado, los funcionarios municipales que evalúen los conocimientos prácticos de conducción deberán acreditar, cada 5 años, participación en cursos de capacitación que digan relación con materia de seguridad vial y transporte.
-
-Los funcionarios municipales que supervisen la rendición de los exámenes teóricos, deberán cumplir la condición establecida en la letra b) precedente.
+Los funcionarios municipales que practiquen exámenes teóricos, deberán cumplir las condiciones establecidas en las letras b) y c) precedentes.
 
 #### Artículo 13°
 
-De acuerdo a lo establecido en el Art. 23° de la Ley de Tránsito, el Departamento de Tránsito y Transporte Público para el control numérico y nominativo de las licencias de conductor otorgadas o denegadas, deberán mantener actualizado un registro con, a lo menos, los siguientes datos: nombre y apellidos del conductor o postulante, número de su cédula de identidad con dígito verificador, folio de la licencia cuando corresponda; clase o clases de licencia; fecha de otorgamiento y fecha de vencimiento o fecha de control de exámenes. Para actualizar el referido registro deberá utilizarse la Plataforma Electrónica.
+De acuerdo a lo establecido en el Art. 22° de la Ley de Tránsito, el Departamento de Tránsito y Transporte Público para el control numérico y nominativo de las licencias de conductor otorgadas o denegadas, deberán mantener actualizado un registro con, a lo menos, los siguientes datos: nombre y apellidos del conductor o postulante, número de su cédula de identidad con dígito verificador o número de licencia cuando corresponda; clase de licencia; fecha de otorgamiento y fecha de vencimiento o fecha de control de exámenes.
 
 Tratándose de licencias profesionales, adicionalmente se deberá consignar el nombre de la Escuela de Conductores Profesionales en que el postulante efectuó el correspondiente curso y la fecha de expedición del certificado de aprobación.
 
-En el caso de las licencias no profesionales, cuando el postulante haya realizado un curso en una Escuela de Conductores, también deberá indicarse el nombre del Establecimiento en la Plataforma Electrónica.
-
-En caso de que el postulante haya obtenido su licencia de conductor por haberse acogido a un tratado internacional sobre reconocimiento o canje de licencias extranjeras, deberá indicarse este hecho en la Plataforma Electrónica.
-
 #### Artículo 14°
 
-En los casos en que el conductor requiera exámenes de control, solicite cambio de clase, cambio de nombre o dirección, duplicado de licencia por destrucción parcial o cualquier otro trámite que implique emitir un nuevo documento de licencia de conductor, deberá entregar al Departamento de Tránsito y Transporte Público la primitiva licencia de que estuviere en posesión. El mencionado Departamento cancelará y destruirá la licencia física entregada y de ello dejará constancia en la Plataforma Electrónica. En estos casos, cuando procediere, se entregará el nuevo documento al interesado.
+En los casos en que el conductor requiera exámenes de control, solicite cambio de clase, cambio de nombre o dirección, duplicado de licencia por destrucción parcial, deberá entregar al Departamento de Tránsito y Transporte Público la primitiva licencia de que estuviere en posesión. El mencionado Departamento cancelará y destruirá la licencia entregada y de ello dejará constancia en la Ficha Resumen respectiva. En estos casos, cuando procediere, se entregará el nuevo documento al interesado.
 
-Ante cualquier solicitud que requiera la emisión de una nueva licencia, la Dirección de Tránsito revisará los antecedentes que obren en la carpeta electrónica del titular a través de la Plataforma Electrónica, para comprobar que el procedimiento anterior y el documento de licencia no presenten indicios de haber sido fraudulentos, falsificados o adulterados. Si la licencia presenta indicios de haber sido falsificada o adulterada el Director de Tránsito deberá poner en conocimiento al Ministerio Público, con copia al Secretario Regional Ministerial de Transportes y Telecomunicaciones que corresponda.
+Tratándose de una solicitud de nuevo domicilio o de duplicado de una licencia, presentada ante una municipalidad distinta de la que otorgó la licencia primitiva, aquella requerirá de esta última copia de de todos los antecedentes que obren en la carpeta del titular. Igual procedimiento se seguirá con ocasión de los exámenes a que se refiere el artículo 18° de la ley N° 18.290, o de una solicitud de cambio de clase de la licencia, si ésta presenta indicios de haber sido falsificada o adulterada.
 
 #### Artículo 15°
 
-Además de lo señalado en el artículo 13° del presente decreto, los Departamentos de Tránsito y Transporte Público deberán mantener, a través de la Plataforma Electrónica, inscripciones sobre la base de carpetas individuales, una por cada persona que hubiere solicitado ahí su licencia.
+Además de lo señalado en el artículo 13° del presente decreto, los Departamentos de Tránsito y Transporte Público deberán mantener un archivo sobre la base de carpetas individuales, una por cada persona que hubiere solicitado ahí su licencia.
 
-En cada carpeta electrónica deberán mantenerse los datos personales de los conductores o postulantes a conductor; el certificado de antecedentes; las licencias otorgadas; la cartilla electrónica de evaluación de los exámenes sensométrico, sicométrico, teórico y práctico de conducción, y todos los antecedentes relacionados con el otorgamiento o denegación de la licencia.
+En cada carpeta deberán mantenerse los datos personales de los conductores o postulantes a conductor; el certificado de antecedentes; la ficha resumen de las licencias otorgadas; la cartilla de evaluación de los exámenes sensométrico, sicométrico, teórico y práctico de conducción, y todos los antecedentes relacionados con el otorgamiento o denegación de la licencia.
 
-Deberá existir una relación entre el registro y la información en la Plataforma Electrónica sobre la base del número de la cédula de identidad con dígito verificador o al nombre de la persona, que permita obtener en la forma más rápida y oportuna los datos que se requieran en cualquier momento, a través de la Plataforma Electrónica.
+Deberá existir una relación entre el registro y el archivo sobre la base del número de la cédula de identidad con dígito verificador o al nombre de la persona, que permita obtener en la forma más rápida y oportuna los datos que se requieran en cualquier momento.
 
-La Plataforma Electrónica y el registro deberán permitir el resguardo fiel de los documentos y datos que en ellos consten.
+El archivador y el registro deberán permitir el resguardo fiel de los documentos y datos que en ellos consten.
 
-De igual forma, se deberá mantener en una carpeta física la ficha resumen del Formulario para Gestión de Licencia, definido en el Decreto Supremo N° 23, de 2000, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que "Fija especificaciones del documento Licencia de Conductor".
+#### Artículo 16°
 
-El o los funcionarios encargados de realizar el proceso de evaluación de los conocimientos prácticos de conducción deberán ingresar a más tardar el día hábil siguiente a aquel en que se realizaron las examinaciones, los resultados estadísticos obtenidos en las evaluaciones prácticas en el sistema informático que dispondrá para esos efectos el Ministerio de Transportes y Telecomunicaciones.
-
-#### Artículo 16
-
-El Departamento de Tránsito comprobará, a través de la Plataforma Electrónica, que el referido postulante no mantiene actualmente en tramitación algún proceso de obtención de licencia de conductor en alguna otra Municipalidad. En caso de detectar algún proceso paralelo, el Departamento deberá informar esta circunstancia al postulante, con el objeto de que realice aquellas gestiones pertinentes para dar término al proceso ya iniciado.
-
-En la ficha resumen del Formulario para Gestión de Licencia deberá estamparse la huella dactilar del dígito pulgar de la mano derecha del conductor. En caso de imposibilidad física, se estampará la huella dactilar de otro dedo, dejándose constancia de ello en la ficha resumen; de no ser posible lo anterior, solo se dejará constancia de ello en la ficha resumen. El conductor deberá firmar físicamente, dejando fiel testimonio de que ha recibido la licencia física a su entera conformidad, de lo cual se dejará constancia en la Plataforma Electrónica. Lo anterior se almacenará como información estadística en la referida Plataforma.
-
-El documento físico de licencia de conductor solo podrá ser entregado a su titular por el municipio que la otorgase.
-
-La descarga del aplicativo referido en el artículo 6° bis del decreto supremo N° 23, de 2000, del Ministerio de Transportes y Telecomunicaciones, Subsecretaría de Transportes, que "Fija especificaciones del documento Licencia de Conductor" y su acceso a través del correspondiente método de autenticación, serán comprobantes suficientes que la licencia digital se ha recibido en conformidad. Sin perjuicio de ello, el conductor tendrá derecho a reportar cualquiera equivocación en los datos que en ella figure.
+En la ficha resumen de la licencia de conductor, en el espacio marcado, deberá estamparse la huella dactilar del dígito pulgar de la mano derecha del conductor. En caso de imposibilidad física, se estampará la huella dactilar de otro dedo dejándose constancia de ello en la ficha resumen. Además, se deberá adherir o imprimir la fotografía reglamentaria del postulante en el lugar correspondiente.
 
 #### Artículo 17°
 
@@ -1130,7 +916,7 @@ En el proceso administrativo del otorgamiento de licencia de conductor deberá p
 
 No obstante lo dispuesto en los artículos anteriores, podrán otorgarse licencias que habiliten sólo para conducir un determinado vehículo, o restringida a horarios o áreas geográficas determinadas.
 
-En caso que el interesado sea una persona en situación de discapacidad que requiera conducir un vehículo con adaptaciones especiales fijas en éste que lo habiliten para conducirlo en forma satisfactoria, podrá otorgarse la licencia correspondiente para conducir exclusivamente dicho vehículo, previa revisión de éste y comprobada que sea su conducción por el interesado, sin perjuicio de que éste se someta a todos los exámenes y demás exigencias de orden general requeridas para el otorgamiento de la licencia.
+En caso que el interesado presente deformaciones físicas, que se superen con adaptaciones especiales fijas del vehículo que lo habiliten para conducirlo en forma satisfactoria, podrá otorgarse la licencia correspondiente para conducir exclusivamente dicho vehículo, previa revisión de éste y comprobada que sea su conducción por el interesado, sin perjuicio de que éste se someta a todos los exámenes y demás exigencias de orden general requeridas para el otorgamiento de la licencia.
 
 #### Artículo transitorio
 
