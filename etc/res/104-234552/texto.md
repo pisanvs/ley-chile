@@ -174,7 +174,7 @@ Disposiciones generales
 
 #### Artículo 1
 
-2.- Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, las que regirán dentro del área territorial del Plan, graficada en los Planos PRR-01, PRR-02, PRR-03 y PRR-04.
+2.- Las disposiciones contenidas en esta Ordenanza se refieren a las siguientes materias: Límite Urbano, Zonificación, Usos de Suelo, Condiciones de Subdivisión Predial, de Edificación, de Urbanización y Vialidad, las que regirán dentro del área territorial del Plan, graficada en los Planos PRR-01, PRR-02, PRR-03, PRR-04, PRR-01-M1 y PRR-02-M1.
 
 #### Artículo 1
 
@@ -396,6 +396,12 @@ En el sector norte de la comuna, desde las calles Av. Dorsal - Pedro Donoso al n
 
 Sin perjuicio de lo anterior, la evacuación de aguas lluvias en toda la comuna deberá ceñirse a lo establecido en el artículo 4.1.6 de la 0.G. U. y C.
 
+#### Artículo 3
+
+1.4 Cauces Naturales y Canales
+
+Los proyectos de edificación que contemplen modificaciones sobre cauces naturales o artificiales dentro del territorio comunal deberán cumplir con las condiciones establecidas en los artículos 41º y 171º del Código de Aguas.
+
 ### Párrafo 3 — .2
 
 Normas generales sobre usos de suelo
@@ -542,7 +548,7 @@ En conformidad con lo dispuesto en la OGU y C, se permitirán adosamientos a par
 
 Para la aplicación de normas sobre superficie de rasantes y distanciamiento, regirá lo dispuesto en el artículo 2.6.3 de la Ordenanza General de Urbanismo y Construcciones, sin perjuicio de lo establecido sobre esta materia en el Capítulo IV de la presente Ordenanza.
 
-En las zonas que se permita la construcción continua hasta una altura determinada, las rasantes dentro de las cuales deberán inscribirse la construcción aislada se aplicarán a partir de la altura máxima fijada para la continuidad.
+En las zonas que se permita la construcción continua hasta una altura determinada, las rasantes dentro de las cuales deberán inscribirse la construcción aislada se aplicarán a partir de la altura máxima fijada para la continuidad y serán de 70º para los deslindes y de 60º para el eje de la calle.
 
 En las edificaciones determinadas por rasantes no se aceptarán planos inclinados de fachada.
 
@@ -604,9 +610,9 @@ b. Los edificios deberán consultar espacios libres a nivel de acera y adyacente
 
 #### Artículo 3
 
-3.7.- Alturas máximas en calles de menos de 15 mt. y pasajes de menos de 8 mt.
+3.7.- Alturas máximas en calles de menos de 15 mt. y pasajes de ancho menor o igual a 8 mt.
 
-En calles de un ancho menor a 15 m. entre líneas oficiales, se permitirá una altura máxima de continuidad igual al ancho de la calle. En los pasajes de ancho menor a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m.
+En calles de un ancho menor o igual a 15 m. entre líneas oficiales, se permitirá una altura máxima de continuidad igual al ancho de la calle. En los pasajes de ancho menor a 8 m. entre líneas oficiales, se permitirá una altura máxima de continuidad de 7 m.
 
 Para los casos de pasajes ya constituidos la altura máxima de continuidad será la predominante.
 
@@ -722,6 +728,12 @@ Los proyectos que se realicen en predios colindantes a monumentos nacionales o i
 
 Los proyectos a que se refiere éste párrafo deberán cumplir con los estándares de estacionamientos determinados de acuerdo al Capítulo V de la presente Ordenanza, los que podrán autorizarse en otro predio de acuerdo al Art. 2.4.2 de la OGU y C. Cuando la aplicación de los estándares genere una exigencia de hasta 10 estacionamientos, no será obligatoria la provisión de estos.
 
+#### Artículo 3
+
+4.9
+
+Si como resultado de excavaciones y/o movimientos de tierra realizados por proyectos de edificación, viales u obras de cualquier naturaleza, se encontrasen vestigios arqueológicos en cualquiera de las zonas indicadas dentro del límite del Plan, el propietario o constructor de las obras deberá dar aviso inmediato a la Dirección de Obras Municipales y esta última al Consejo de Monumentos Nacionales, ordenando la paralización transitoria de las obras, si corresponde, hasta que se resuelva sobre la materia según lo estipulado en la ley 17.288 de Monumentos Nacionales. Ello sin perjuicio y en forma paralela al procedimiento fijado en el artículo 26º de la ley 17.288.
+
 ### Párrafo 3 — .5
 
 Normas generales sobre áreas de restricción
@@ -814,7 +826,7 @@ Los límites de las Zonas de Uso de Suelo y Areas de Edificación se definirán 
 
 Estos criterios se aplicarán respetando las Zonas Especiales y de Restricción graficadas en los mismos planos.
 
-Cuando el límite corresponde a los fondos de predios, se entenderá los predios constituidos a la fecha de entrada en vigencia de este PRC, o en el caso de fusiones, se extenderá la zona hasta una profundidad máxima de 50 mts. a partir de la calle límite.
+Cuando el límite corresponde a los fondos de predios, se entenderá los predios constituidos a la fecha de entrada en vigencia de este PRC, o en el caso de fusiones, se extenderá la zona hasta una profundidad máxima de 50 mts. medidos desde la línea oficial que enfrenta la calle límite.
 
 Cuando 2 predios contiguos pertenezcan a distintas zonas, respecto del uso del suelo, se aplicará en ambos predios, en una faja de 5 m. de ancho al deslinde común, la norma más restrictiva.
 
@@ -1066,13 +1078,13 @@ a. Sistema de Agrupamiento:
 
 b. Rasantes y Distanciamiento:
 
-Se regirán por lo establecido en el artículo 2.6.3 de la O.G.U.C.
+Se regirán por lo establecido en el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardín Mínimo: No se exige.
 
 d. Densidad Bruta Mínima: 100 hab/há.
 
-e. Densidad Bruta Máxima: 2.000 hab/há. f. Normas Especiales: En los edificios destinados a equipamiento se permitirá aumentar a 1,0 los coeficientes de ocupación del suelo y de los pisos superiores, en primero y segundo piso.
+e. Densidad Bruta Máxima: 2.000 hab/há. f. Normas Especiales: En los edificios destinados a equipamiento se permitirá aumentar a 1,0 el coeficiente de ocupación de suelo y el coeficiente de ocupación del piso 2.
 
 Se pueden acoger a la norma de excepción del artículo 3.3.6 de la presente Ordenanza.
 
@@ -1086,7 +1098,7 @@ a. Sistema de Agrupamiento: - Continua hasta la altura máxima permitida y Aisla
 
 b. Rasantes y Distanciamiento:
 
-Se regirán por lo establecido en el artículo,2.6.3 de la O.G.U.C.
+Se regirán por lo establecido en el artículo, 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardín Mínimo:
 
@@ -1124,7 +1136,7 @@ a. Sistema de Agrupamiento:
 
 b. Rasantes y Distanciamiento:
 
-Se regirá por el artículo 2.6.3 de la O.G.U.C.
+Se regirá por el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardin Mínimo: 3,0 m.
 
@@ -1154,7 +1166,7 @@ a. Sistema de Agrupamiento:
 
 b. Rasantes y Distanciamiento:
 
-Se regirán por el artículo 2.6.3 de la O.G.U.C.
+Se regirán por el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardín Mínimo: No se exige.
 
@@ -1186,7 +1198,7 @@ a. Sistema de Agrupamiento:
 
 b. Rasantes y Distanciamiento:
 
-Se regirán por el artículo 2.6.3 de la O.G.U.C.
+Se regirán por el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardin Mínimo:
 
@@ -1218,7 +1230,7 @@ a. Sistema de Agrupamiento:
 
 b. Rasantes y Distanciamiento:
 
-Se regirán según el artículo 2.6.3 de la O.G.U.C.
+Se regirán según el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardín Mínimo: 2,om en pasajes y 3,om en el resto del área.
 
@@ -1238,7 +1250,7 @@ VER DIARIO OFICIAL DE 08.01.2005, PÁGINA 19.
 
 a. Sistema de Agrupamiento: Aislada.
 
-b. Alturas, Rasantes y Distanciamiento: Se regirán según el artículo 2.6.3 de la O.G.U.C.
+b. Alturas, Rasantes y Distanciamiento: Se regirán según el artículo 2.6.3 de la O.G.U.C. y en el artículo 3.3.5 de esta Ordenanza Local.
 
 c. Antejardín Mínimo: 10 m.
 
@@ -1752,6 +1764,8 @@ Conforme a lo establecido en el Articulo 2.1.17 de la OGUC, si las condiciones d
 
 En dicho caso, el proyecto podrá. contemplar el uso de vivienda y se le aplicarán las condiciones de densidad, edificación y subdivisión establecidas para el área E-B1, de edificación baja, de esta Ordenanza Local, así como las normas para terrenos en pendientes establecidas en los Artículos 3.3.2 al 3.3.2.5 del PRMS.
 
+> **Nota.** El Número 7, letra A) del Artículo Único del Artículo Nº 1 de la Resolución 2591, Municipalidad de Recoleta, publicada el 10.08.2012 modifica el párrafo 4.3 Áreas Normativas de Edificación, en el sentido de eliminar de todas las tablas de Condiciones de Edificación, la columna "Frente Predial Mínimo".
+
 ## Capítulo V
 
 Vialidad, estacionamientos y transporte
@@ -1824,11 +1838,11 @@ todas las Zonas del PRC
 
 VIVIENDA 1).
 
-- Social No se exige
+- Social 1/5 viviendas
 
-- de 0 a 50 m². 1/5 viviendas
+- de 0 a 50 m². 1/4 viviendas
 
-- de 50 a 100 m². 1/3 viviendas
+- de 50 a 100 m². 1/2,5 viviendas
 
 - de 100 m² a 150 m². 1 / vivienda
 
@@ -2217,6 +2231,16 @@ En ambos casos, las actividades de estos locales se restringen a los límites de
 #### Artículo 5
 
 3.3.- Las actividades de transporte dentro de la comuna se regirán, para efecto de su localización y condiciones de funcionamiento, por lo establecido en el Capítulo IV y en el presente párrafo de esta Ordenanza, además de las normas previstas en la Ordenanza General de Urbanismo y Construcciones, y por las disposiciones del artículo 7.1.3 y siguientes del P.R.M.S.
+
+### Párrafo 5 — .4
+
+Estudios y Obras de Vialidad Asociados a Permisos de Edificación
+
+#### Artículo 5
+
+4.1
+
+Los permisos de edificación de proyectos en predios colindantes, que resulten de la aplicación de normas de conjunto armónico, condominio, condominios con construcción por etapas u otros o proyectos que establezcan servidumbres entre ellos, para efecto de la aplicación de los umbrales de estacionamientos o carga de ocupación que determinan la exigencia de realizar estudios y obras viales, deberán atenerse a los requerimientos resultantes por la suma de los destinos o proyectos individuales.
 
 #### Artículo 3º
 
