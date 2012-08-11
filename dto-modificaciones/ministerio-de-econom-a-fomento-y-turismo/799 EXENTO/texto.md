@@ -1,0 +1,5 @@
+MODIFICA DECRETO Nº 663 EXENTO, DE 2003, DESAFECTANDO ÁREAS DE MANEJO Y EXPLOTACIÓN DE RECURSOS BENTÓNICOS EN LA X REGIÓN
+
+Por decreto exento Nº 799, de 6 de agosto de 2012, de este Ministerio, modificase decreto exento Nº 663, de 2003, del Ministerio de Economía, Fomento y Reconstrucción, en el sentido de dejar sin efecto los numerales 13) y 14) del artículo 1º, que establecieron como áreas de manejo y explotación de recursos bentónicos a sectores Punta Barranco Sector A, y Punta Barranco Sector B, respectivamente, ambos de la X Región de Los Lagos en virtud de lo establecido en el artículo 27 del DS Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción, y a lo dispuesto en parte considerativa de decreto extractado.
+
+Valparaíso, 6 de agosto de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
