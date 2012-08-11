@@ -56,7 +56,11 @@ En caso que la suma de los recursos referenciales, calculados de acuerdo a lo in
 
 #### Artículo 6°
 
-Las bases de licitación o resoluciones respectivas, según el caso, podrán contemplar la actualización del subsidio para mantener el equilibrio de ingresos ante variaciones de demanda, que experimenten cada servicio, grupo de servicios o todos los servicios de una zona. Esta actualización podrá aplicarse de conformidad a la metodología señalada en los artículos anteriores y siempre que existe disponibilidad presupuestaria, según la ejecución de los fondos a que se refieren los artículos 12° y 13° del Reglamento del Artículo 2 de la ley 20.378.
+Las bases de licitación o resoluciones respectivas, según corresponda, podrán contemplar la actualización del subsidio ante variaciones de demanda, así como también, y en forma excepcional, ante variaciones significativas de otros factores que incidan en forma determinante en el equilibrio de ingresos que experimente cada servicio, grupo de servicios o todos los servicios de una zona, con el objeto de reducir las brechas que se produzcan con el transcurso del tiempo entre el mecanismo de reajustabilidad del subsidio establecido en el artículo 11º de este Reglamento y el de las tarifas, en relación con la recaudación. En este último caso, la actualización del subsidio será aplicada durante un período determinado de tiempo y deberá ser revisada anualmente.
+
+Para los efectos previstos en el inciso anterior, el Ministerio podrá aplicar la metodología contenida en los artículos precedentes, siempre que exista disponibilidad presupuestaria, según la ejecución de los fondos a que se refieren los artículos 12º y 13º del Reglamento del artículo 2º de la ley Nº 20.378.
+
+La metodología aplicada para la actualización del subsidio deberá ser sometida al pronunciamiento del Panel de Expertos contemplado en el artículo 14º de la ley Nº 20.378.
 
 ## Título III
 
