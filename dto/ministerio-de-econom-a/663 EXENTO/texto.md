@@ -284,8 +284,6 @@ C 42° 11' 04,93" 074° 07' 13,41"
 
 D 42° 11' 27,95" 074° 07' 04,40"
 
-> **Nota.** El Decreto 499 Exento, Economía, publicado 02.09.2014, modifica la presente norma en el sentido de regularizar su cartografía, de acuerdo a lo señalado en la citada norma.
-
 #### Artículo 2º
 
 Podrán optar a estas áreas de manejo y explotación de recursos bentónicos las organizaciones de pescadores artesanales legalmente constituidas, de conformidad con lo establecido en los Títulos III y IV del D.S. Nº 355 de 1995, del Ministerio de Economía, Fomento y Reconstrucción.
