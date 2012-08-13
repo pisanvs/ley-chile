@@ -550,6 +550,14 @@ Dungeness Bahía Gregorio 0,070
 
 Punta Arenas Isla Magdalena 0,038
 
+Ancud/Laitec/P. Montt Bahía Cook 1,120
+
+Punta Arenas Bahía Cook 0,370
+
+Puerto Natales Bahía Cook 0,720
+
+Puerto Chacabuco Bahía Cook 0,940
+
 TABLA DE SENOS Y ESTEROS
 
 Ingreso y salida de Factor multiplicador
