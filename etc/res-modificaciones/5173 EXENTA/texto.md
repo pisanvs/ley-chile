@@ -24,8 +24,6 @@ Resolución:
 
 6. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
-> **Nota.** En Número 1 de la Resolución 7662, Exenta, Vivienda, publicada el 25.09.2012, modifica la presente norma en el sentido de reemplazar en la tabla inserta en el Resuelvo 3 la columna "Recursos (UF)" por la que la citada norma indica.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Francisco Javier Irarrázabal Mena, Subsecretario de Vivienda y Urbanismo Subrogante.
