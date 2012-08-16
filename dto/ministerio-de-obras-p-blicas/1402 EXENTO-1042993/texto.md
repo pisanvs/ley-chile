@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1402, de 27 de julio de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto Exento MOP. N°934, de 31 de mayo de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno N°2, expropiado con motivo de la obra "Conservación Periódica Puente El Salto, Camino Contaco - Loma de La Piedra - El Bolsón", Provincia de Osorno. Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 23 de marzo de 2007, en la suma de $901.200.-
+
+Fiscal del Ministerio de Obras Públicas.
