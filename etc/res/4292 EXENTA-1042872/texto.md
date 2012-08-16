@@ -1,0 +1,7 @@
+DERECHOS DE AGUA EN COMUNA DE LLAY LLAY
+
+Servicio Agrícola y Ganadero mediante resolución exenta Nº 4.292, de 23 de julio de 2012, conforme artículo 5º transitorio Código Aguas, aclaró y complementó las resoluciones exentas del Servicio Agrícola y Ganadero Nº 2.738 de fecha 21 de diciembre de 1987, que aprobó el Estudio Técnico de División de los Derechos de Aprovechamiento de Aguas del predio denominado "Hijuela Dos de la división del fundo La Estancilla" y del Proyecto de Parcelación "La Estancilla", ubicados en la comuna de Llay-Llay, Región de Valparaíso; la resolución exenta Nº 64 de 25 de enero de 1988, que modificó la anterior y la resolución exenta Nº 1.710 de 9 de octubre de 1989, que aclaró la resolución Nº 2.738 de 1987, en el sentido de establecer las siguientes equivalencias, en unidad de volumen por unidad de tiempo, de los derechos de aprovechamiento de aguas del canal Las Vegas - El Molino; del canal comunero o Ucuquer y del canal Lorino o Pereirano, derivados del río Aconcagua, para el sector excluido de la expropiación y el sector expropiado del predio y de las unidades del proyecto mencionados, estableciendo que dichos derechos son superficiales, consuntivos, de ejercicio permanente y continuo.
+
+Publicación hecha conforme artículo 13º de la ley Nº 18.377.-
+
+Director Nacional.
