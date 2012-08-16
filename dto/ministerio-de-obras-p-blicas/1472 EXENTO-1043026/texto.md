@@ -1,0 +1,3 @@
+Por Decreto MOP (E) Nº1472, de 31 de julio de 2012, se dejó sin efecto el Decreto MOP Nº471, de 23 de mayo de 2003, el cual ordenó la expropiación del lote Nº135L4, expropiado para la obra "PROYECTO LINEA 4, SECTOR: A. VESPUCIO - PTE. ALTO", por haberse convenido una servidumbre subterránea voluntaria a favor de la Empresa de Transporte de Pasajeros Metro S.A.
+
+Fiscal del Ministerio de Obras Públicas.
