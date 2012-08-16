@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1305, de 19 de julio de 2012, se modificó el numeral segundo del Decreto MOP. (Exento) N°1793, de 22 de agosto de 2011, a fin de individualizar correctamente el lote de terreno N°9, ubicado en la comuna de Ancud, que figura a nombre de Cárcamo Barría Irelba y otros, rol de avalúo 1159-2, superficie 347 m2., complementando el informe de tasación emitido el 17 de abril de 2009, mediante acta emanada de la misma comisión el 05 de junio de 2012, expropiado con motivo de la obra "Ampliación Reposición Ruta 5 Chiloé, Bif. Puente Bicentenario - Bif. Pupelde, Tramo-1: Variante Chacao", Comuna de Ancud, Provincia de Chiloé, Décima Región.
+
+Fiscal del Ministerio de Obras Públicas.
