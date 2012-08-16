@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº1370 de 27 de julio de 2012, se dejó sin efecto el Decreto MOP (Exento) Nº765 de 31 de mayo de 2010, que ordena la expropiación del lote Nº28-A, por no ser necesaria la expropiación de dicha lote para la obra pública: Mejoramiento Ruta I-710 Bifurcación I-50-Yáquil, km. 0,00000 a km. 6,98000, VI Región. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
