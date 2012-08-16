@@ -1,0 +1,3 @@
+De conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, por Decreto MOP Exento Nº1227 de 29 de junio de 2012, se expropiaron los bienes muebles emplazados en el lote de terreno Nº22, comuna de Temuco, para la obra "MEJORAMIENTO PASADAS URBANAS RUTA S-30-40 TEMUCO-CARAHUE, TRAMO LABRANZA". La Comisión de peritos, integrada por Enrique Augusto Vallete de la Harpe, Yaschala Maribel Yáñez Riffo y María Soledad Núñez Arroyo, fijó el valor de tasación con fecha 20 de julio de 2011, acordándose la indemnización con su propietario HUGO HERNÁN OÑATE SILVA, en la cantidad de $12.728.500.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
