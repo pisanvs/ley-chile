@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1405, de 27 de julio de 2012, se modificó el Decreto MOP. Nº(E) 899, de 16 de mayo de 2012, que ordenó la expropiación del lote de terreno Nº21L3, expropiado para la obra "PROYECTO LINEA 3 LA REINA -HUECHURABA, SECTOR: AV. INDEPENDENCIA", en cuanto a que se rectificó el numeral 3°, en el sentido de que la comisión de peritos con fecha 9 de marzo de 2012, fijó el monto de la indemnización provisional y no el mes que figura en el decreto primitivo.
+
+Fiscal del Ministerio de Obras Públicas.
