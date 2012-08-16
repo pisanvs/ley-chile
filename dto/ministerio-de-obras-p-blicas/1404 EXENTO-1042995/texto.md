@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1404 de 27 de julio de 2012, se dejó sin efecto los numerales 3°, 4°, 5° y 6°, del Decreto MOP. (Exento) Nº596 de 29 de abril de 2011, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº9, expropiado con motivo de la obra Mejoramiento Ruta Q-75, Sector Mulchén - Quilaco, km. 0,00000 a km. 23,13600" Región del Bío Bío. Consígnese judicialmente el monto provisional de la indemnización, fijado el 23 de junio de 2008, por la Comisión de Peritos Tasadores, en la suma de $411.180, dicha Comisión fue nombrada por Resolución S.R.M VI Región Nº483 de 28 de mayo de 2008.
+
+Fiscal del Ministerio de Obras Públicas.
