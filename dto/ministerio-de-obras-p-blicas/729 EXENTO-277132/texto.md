@@ -22,7 +22,9 @@ Decreto:
 
 Ruta 5, Longitudinal Norte, sector: Av. Bernardo O.Higgins - Límite Regional Norte (Montenegro) y Longitudinal Sur, sector: Av. Bernardo O.Higgins - Túnel Angostura.
 
-Ruta 57 CH, A. Vespucio - Túnel Chacabuco - San Vicente - Cruce Ruta 60 CH, sector: A. Vespucio - Túnel Chacabuco.
+Ruta 57 CH, A. Vespucio - Túnel Chacabuco - San Vicente
+
+- Cruce Ruta 60 CH, sector: A. Vespucio - Túnel Chacabuco.
 
 Ruta 66, Cruce Longitudinal (Pelequén) - San
 
@@ -65,6 +67,8 @@ Ruta G-115-E, Cuesta Chacabuco.
 Acceso Nororiente a Santiago.
 
 Acceso Sur a Santiago.
+
+Ruta G-45-H, Cruce Av. El Mariscal - Camino Padre Hurtado - Cuesta Chada.
 
 3º Declárense Caminos Públicos en el continuo urbano de la siguiente Metrópoli, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
@@ -114,11 +118,15 @@ Américo Vespucio hasta el límite urbano Surponiente; a través de Camino Lonqu
 
 . Sistema Oriente Poniente; el Sistema Vial Urbano que interconecta las Rutas 68 y G-21 a través de: Costanera Sur Río Mapocho, nueva conexión vial, Costanera Norte Río Mapocho, Costanera Norte, nueva conexión vial a través de un túnel en el cauce del Río Mapocho, Costanera Norte Río Mapocho Av. Santa María, Av. La Dehesa, San Antonio y Av. Las Condes. Y desde Puente Lo Saldes hasta Av. Santa María, a través de Av. Kennedy y Camino Los Trapenses Oriente - Tabancura.
 
+El sistema vial que interconecta Costanera Norte Río Mapocho (E6O) con Avenida Las Condes (E10O), a través de: Costanera Norte Río Mapocho (E6O) desde Avenida La Dehesa hasta Dos Poniente, nuevo puente sobre río Mapocho y San José de la Sierra.
+
 . Anillo Intermedio tramo El Salto - Kennedy, desde Av. Américo Vespucio hasta Av. Kennedy;
 
 a través de: Av. Dorsal, túneles y Comodoro Arturo Merino Benítez.
 
 - Costanera Sur Río Mapocho / Avenida Andrés Bello (T270), entre Av. Américo Vespucio y Av. Presidente Kennedy, y su prolongación al sur hasta el sector de calle Nueva Tajamar.
+
+El tramo urbano de la Ruta G-45-H, desde Camino Internacional (E13S) hasta el límite urbano sur, a través de Avenida Padre Hurtado (T4S).
 
 4º Declárense Caminos Públicos en las áreas urbanas de los siguientes centros poblados, pueblos y ciudades, dando continuidad a las rutas antes indicadas; a las calles o avenidas que a continuación se señalan en los tramos que se indican:
 
@@ -144,9 +152,37 @@ San José de Maipo:
 
 . El tramo urbano de la Ruta G-25, desde el límite urbano Norte hasta el límite urbano Sur; a través de: Camino al Volcán, Cañada Norte, Calle Del Río, Calle Del Cerro, Cañada Sur y Camino al Volcán.
 
+. Alto Jahuel
+
+El tramo urbano de la Ruta G-45-H, desde el límite
+
+urbano norte hasta el límite urbano sur, a través
+
+Camino Alto Jahuel (T62S).
+
+. El Tránsito
+
+El tramo urbano de la Ruta G-45-H, desde límite
+
+urbano norte hasta límite urbano sur, a través
+
+Camino Alto Jahuel (T62S).
+
+. Huelquén
+
+El tramo urbano de la Ruta G-45-H, desde límite
+
+urbano norte hasta límite urbano sur, a través
+
+Camino Alto Jahuel (T62S).
+
 5º Las vías declaradas caminos públicos en el presente decreto sólo se considerarán como tales para los efectos de lo dispuesto en la legislación sobre caminos públicos, sin que por ello pierdan sus características de vías urbanas, sujetas a las disposiciones de la Ley General de Urbanismo y Construcciones y su Ordenanza, Plan Regulador Metropolitano de Santiago y Planes Reguladores Comunales o Seccionales, según corresponda.
 
 > **Nota.** El Nº 1 del Decreto 293 Exento, Obras Públicas, publicado el 27.05.2010, complementa la presente norma en el sentido de declarar Caminos Públicos en la Región Metropolitana de Santiago todos los tramos urbanos de las siguientes rutas:- Ruta 76, Camino Santiago-Malloco, Provincias de Santiago y Talagante;- Ruta G-78, Camino Malloco-Cuncumén, Provincias de Talagante y Melipilla.
+
+> **Nota.** NOTA 1 El N° 1.2 del numeral 1, del Decreto 1334 Exento, Obras Públicas, publicado el 17.08.2012, modifica la presente norma, en el sentido de reemplazar el acápite 10º, del numeral 2°, por lo siguiente: Ruta G-25, Cruce Ruta 70 (Av. Américo Vespucio) - San José de Maipo - Baños Morales.
+
+> **Nota.** NOTA 2 El N° 1.4 del numeral 1 del Decreto 1334 Exento, Obras Públicas, publicado el 17.08.2012, modifica la presente norma, en el sentido de reemplazar el acápite 9°, del numeral 3°, Metrópoli de Santiago, por lo siguiente: El tramo urbano de la Ruta G-25, desde Av. Américo Vespucio (E14S) hasta el límite urbano oriente; a través de: Av. La Florida, Av. Camilo Henríquez y Camino San José de Maipo (E11S).
 
 Anótese, comuníquese y publíquese.- Por orden de la Presidenta de la República, Sergio Bitar Chacra, Ministro de Obras Públicas.
 
