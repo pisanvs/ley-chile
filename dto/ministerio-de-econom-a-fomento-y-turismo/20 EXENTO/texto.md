@@ -24,7 +24,7 @@ Durante el período de veda biológica, prohíbese la captura, comercialización
 
 Sin perjuicio de lo dispuesto en el presente decreto, autorízase la extracción del recurso Merluza común en calidad de fauna acompañante en la pesca dirigida a otros peces, con red de arrastre, enmalle o espinel, con un porcentaje máximo de un 5%, medido en peso en relación con la especie objetivo, por viaje de pesca.
 
-Asimismo, autorízase la extracción del recurso Merluza común en calidad de fauna acompañante en la pesca dirigida a Langostino amarillo, Langostino colorado y Camarón nailon, con red de arrastre, en un porcentaje máximo de un 10%, medido en peso en relación con la especie objetivo, por viaje de pesca.
+Asimismo, autorízase la extracción del recurso Merluza común en calidad de fauna acompañante en la pesca dirigida a Langostino amarillo, Langostino colorado y Camarón nailon, con red de arrastre, en un porcentaje máximo de un 1%, medido en peso en relación con la especie objetivo, por viaje de pesca.
 
 Las capturas antes señaladas se someterán a las reglas de imputación que establezca el decreto que fije la cuota global anual de captura de Merluza común en el año calendario respectivo.
 
