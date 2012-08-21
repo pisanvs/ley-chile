@@ -9606,9 +9606,9 @@ En ese sentido, no se requiere autorización de esta Superintendencia cuando alg
 
 ### 1. Sociedades de apoyo al giro de los bancos
 
-Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de los bancos que participen en ellas, como asimismo aquellas en que, por su intermedio, los bancos puedan efectuar determinadas operaciones de su giro.
+Para los efectos de las presentes normas y de acuerdo con lo dispuesto en el artículo 74 de la Ley General de Bancos, se entenderá que constituyen empresas de apoyo al giro las sociedades que presten servicios destinados a facilitar el cumplimiento de los fines de los bancos, como asimismo aquellas en que, por su intermedio, los bancos puedan efectuar determinadas operaciones de su giro.
 
-Los servicios destinados a facilitar el cumplimiento de los fines de los bancos que pueden prestar las sociedades de apoyo al giro, comprenden: las prestaciones directas a sus socios o accionistas; los servicios contratados por las sociedades filiales constituidas al amparo del artículo 70 de la Ley General de Bancos; y, las prestaciones a otras sociedades de apoyo al giro.
+Aquellas sociedades autorizadas de conformidad a la letra a) del artículo 74 de la Ley General de Bancos, sólo podrán prestar sus servicios a bancos, filiales y sociedades de apoyo al giro bancario.
 
 El giro específico de estas sociedades es materia de autorización por parte de la Superintendencia y en todo caso, de acuerdo con la ley, ese giro no puede incluir la captación de dinero del público. Las actividades que ha autorizado este Organismo para empresas de apoyo al giro se describen en el Anexo N° 2 de este Capítulo.
 
@@ -9744,7 +9744,7 @@ ANEXO N° 2
 
 ACTIVIDADES AUTORIZADAS A EMPRESAS DE APOYO AL GIRO
 
-A continuación se describen los tipos de servicios que esta Superintendencia ha autorizado para la constitución de empresas de apoyo al giro:
+A continuación se describen los tipos de servicios que ya cuentan con la conformidad de esta Superintendencia, incluyendo tanto los que se han autorizado para la constitución de empresas de apoyo al giro, como aquellos acerca de los cuales se ha efectuado un análisis previo de su viabilidad.
 
 A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
@@ -9760,7 +9760,7 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
 - Operación de tarjetas de crédito.
 
-- Emisión de tarjetas de crédito en calidad de filial de un banco, sujeta a las normas de solvencia, gestión e información establecidas por esta Superintendencia al amparo de lo dispuesto en la letra A) del Título III del Capítulo III. J.1 del Compendio de Normas Financieras, según lo interpretado en el Acuerdo N° 1490-03-090723 del Consejo del Banco Central de Chile.
+- Emisión de tarjetas de crédito en calidad de filial de un banco, sujeta a las normas de solvencia, gestión e información establecidas por esta Superintendencia al amparo de lo dispuesto en la letra A) del Título III del Capítulo III.J.1 del Compendio de Normas Financieras, según lo interpretado en el Acuerdo N° 1490-03-090723 del Consejo del Banco Central de Chile.
 
 - Emisión y operación de tarjetas de pago con provisión de fondos.
 
@@ -9768,7 +9768,15 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
 - Otros servicios vinculados a los sistemas de pagos.
 
-B) OTROS SERVICIOS
+B) PRÉSTAMOS
+
+- Otorgamiento de préstamos de oferta masiva en calidad de filial de un banco, sujeta a todas las normas que rigen a los bancos en relación con la gestión y el riesgo de los créditos, como asimismo con la información que debe proporcionarse periódicamente a esta Superintendencia.
+
+## Capítulo 11-6
+
+Anexo N° 2-Hoja 2
+
+C) OTROS SERVICIOS
 
 - Transferencia electrónica de información.
 
