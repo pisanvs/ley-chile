@@ -70,44 +70,6 @@ Paraguay adicionales
 
 Oryza sativa Uruguay
 
-Arveja Argentina, Sin declaraciones
-
-adicionales
-
-(Pisum sativum) Canadá
-
-Países con Fumigación contra
-
-Trogoderma granarium
-
-Trogoderma y contra insectos de la
-
-Familia Bruchidae
-
-granarium con los productos, dosis
-
-y tiempo de exposición
-
-establecidos en el punto
-
-6 de esta resolución.
-
-Países
-
-libres de Fumigación contra
-
-insectos de la Familia
-
-Trogoderma Bruchidae con producto,
-
-dosis y tiempo
-
-granarium de exposición
-
-establecidos en el punto
-
-6 de esta resolución.
-
 Avena Argentina, Sin declaraciones
 
 adicionales
@@ -156,16 +118,6 @@ adicionales
 
 (Cuminum cyminum)
 
-Frejol Argentina, Canadá Sin declaraciones
-
-adicionales
-
-(Phaseolus vulgaris)
-
-Países con Fumigación contra
-
-Trogoderma grana-
-
 Frejol
 
 Mungo Trogoderma rium y contra insectos de
@@ -205,10 +157,6 @@ establecidos en el punto
 resolución.
 
 (Vicia faba)
-
-Lenteja
-
-(Lens culinaris)
 
 Linaza Cualquier origen Sin declaraciones
 
