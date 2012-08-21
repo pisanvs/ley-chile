@@ -14,23 +14,7 @@ Autorízase la circulación en días sábado en la tarde, domingo y festivos, a 
 
 Fiscalía Regional de la Región de Los Lagos
 
-Vehículo : Station Wagon
-
-Marca : Ford
-
-Modelo : Explorer II XLT 4.0
-
-Color : Rojo Burdeos
-
-Año : 2008
-
-Nº Motor : 7UB63710
-
-Nº Chasis : 1FMEU63E67UB63710
-
-I.R.N.V.M. : BDVS-38-1
-
-Placa Unica : BDVS-38-1
+DEROGADA.
 
 Fiscalía Regional de la Región de Arica y Parinacota
 
