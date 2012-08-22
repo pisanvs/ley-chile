@@ -6,7 +6,7 @@ Núm. 866 exento.- Vistos: Lo dispuesto en la ley Nº 10.262, de 1952; la ley N�
 
 Decreto:
 
-1.- Autorízase a la entidad denominada "Fundación Las Rosas de Ayuda Fraterna" para realizar una colecta pública en todo el territorio nacional, el día viernes 16 de noviembre de 2012.
+1.- Autorízase a la entidad denominada "Fundación Las Rosas de Ayuda Fraterna" para realizar una colecta pública en todo el territorio nacional, el día viernes 30 de noviembre de 2012.
 
 2.- Las utilidades, producto de esta colecta, serán destinadas a atender los gastos operacionales de los 40 establecimientos de larga estadía que la institución administra en distintas ciudades y pueblos, desde La Serena a Valdivia.
 
