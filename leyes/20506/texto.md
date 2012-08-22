@@ -74,15 +74,11 @@ a) Los cónyuges que durante el año 2010 hubiesen cumplido 60 o más años de m
 
 b) Los cónyuges que durante el año 2011 cumplan 60 años de matrimonio podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha en que hubiesen cumplido los años de matrimonio señalados o a contar de la fecha de publicación de la ley, si ésta fuese posterior a aquélla.
 
-c) Los cónyuges que durante el año 2012 cumplan 58, 59 y 60 años de matrimonio podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha en que hubiesen cumplido los años de matrimonio señalados.
+c) Los cónyuges que durante el año 2012 cumplan 58, 59 y 60 años de matrimonio podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha en que hubiesen cumplido los años de matrimonio señalados. También tendrán derecho al bono los cónyuges que durante dicho año cumplan entre 53 y 57 años de matrimonio.
 
-d) Los cónyuges que durante el año 2013 cumplan 57 y 58 años de matrimonio podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha en que hubiesen cumplido los años de matrimonio señalados.
+d) DEROGADO.
 
-e) Los cónyuges que durante el año 2014 cumplan 55, 56 y 57 años de matrimonio podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha en que hubiesen cumplido los años de matrimonio señalados.
-
-Aquellos cónyuges que hubiesen cumplido 50 años de matrimonio entre el 1 de enero de 2010 y la fecha de publicación de esta ley podrán impetrar el derecho al bono dentro de los doce meses siguientes a la fecha de dicha publicación, siempre que reúnan los requisitos para tener derecho a él.
-
-En ningún caso tendrán derecho al bono aquellos cónyuges que hubiesen sido beneficiarios del mismo al cumplir 50 años de matrimonio o que habiendo tenido derecho a impetrar el mencionado beneficio, en dicha oportunidad, no lo hubiesen solicitado dentro del plazo establecido al efecto.
+e) DEROGADO.
 
 #### Artículo segundo
 
