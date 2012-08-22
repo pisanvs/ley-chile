@@ -20,7 +20,7 @@ a) Postulaciones al Consejo Zonal de Pesca de las Regiones V de Valparaíso, VI 
 
 b) Postulaciones al Consejo Zonal de Pesca de las Regiones IX de la Araucanía y XIV de Los Ríos deberán presentarse en la Dirección Zonal de Pesca de la X Región de Los Lagos, ubicada en Avenida Juan Soler Manfredini N° 41, oficina 601, Edificio Torre Costanera, Puerto Montt.
 
-c) Postulaciones al Consejo Zonal de Pesca de la XI Región de Aysén del General Carlos Ibáñez del Campo deberán presentarse en la Dirección Zonal de la XI Región de Aysén, ubicada en Sargento Aldea N° 509, Puerto Aysén.
+c) Postulaciones al Consejo Zonal de Pesca de la XI Región de Aysén del General Carlos Ibáñez del Campo deberán presentarse en la Dirección Zonal de la XI Región de Aysén, ubicada en Avenida Municipal N° 458-A, Puerto Aysén.
 
 d) En todos los casos, las postulaciones podrán, además, ser presentadas en la oficina de partes de la Subsecretaría de Pesca, ubicada en Bellavista 168, piso 16, Valparaíso.
 
