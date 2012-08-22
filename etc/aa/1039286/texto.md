@@ -292,9 +292,13 @@ g) Las sentencias de los Tribunales Electorales Regionales que se pronuncien sob
 
 h) Las sentencias que dicten los miembros del Tribunal Calificador de Elecciones conociendo de las infracciones del Título VIII de la Ley Nº 18.603, Orgánica Constitucional de los Partidos Políticos;
 
-i) De las apelaciones que el requirente o el Servicio Electoral deduzcan en contra de las sentencias de los Tribunales Electorales Regionales, que resuelvan los requerimientos de cualquier persona que estime que injustificadamente ha sido omitida del Padrón Electoral Auditado en aplicación a lo dispuesto en el inciso quinto del artículo 47 de la Ley N° 18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral; y
+i) De las apelaciones que el requirente o el Servicio Electoral deduzcan en contra de las sentencias de los Tribunales Electorales Regionales, que resuelvan los requerimientos de cualquier persona que estime que injustificadamente ha sido omitida del Padrón Electoral Auditado en aplicación a lo dispuesto en el inciso quinto del artículo 47 de la Ley N° 18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
+
+En este caso, y en el de las exclusiones del Padrón Electoral, la apelación se interpondrá directamente en el Tribunal Calificador de Elecciones; y
 
 j) De las apelaciones que el requirente o el Servicio Electoral deduzcan en contra de las sentencias de los Tribunales Electorales Regionales respecto de los asuntos promovidos por los partidos políticos, candidatos independientes o cualquier otra persona por estimar que electores han sido injustificadamente omitidos del Padrón Electoral Auditado o que figuren datos erróneos, conforme a lo dispuesto en el inciso quinto del artículo 47 de la Ley N°18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral.
+
+En estas apelaciones no procederá el trámite de hacerse parte y se verán en cuenta.
 
 14° Interposición del recurso. El recurso de apelación se interpondrá ante el Tribunal Electoral Regional respectivo, o ante el Director del Servicio Electoral o ante los Directores del Servicio Electoral Regionales, en su caso, para ante el Tribunal Calificador de Elecciones.
 

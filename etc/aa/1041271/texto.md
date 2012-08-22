@@ -336,8 +336,6 @@ La reclamación en contra del decreto alcaldicio que declare la disolución de u
 
 De los procedimientos contemplados en la ley Nº 18.556, Orgánica Constitucional sobre Sistema de Inscripciones Electorales y Servicio Electoral
 
-### Párrafo 1º
-
 De las reclamaciones al Padrón Electoral Auditado por omisiones injustificadas o por figurar electores con datos erróneos.
 
 65º Interposición del reclamo. El reclamo podrá presentarse verbalmente o por escrito por toda persona que estime que injustificadamente se le ha omitido del Padrón Electoral Auditado, por los partidos políticos, candidatos independientes o cualquier otra persona respecto de electores injustificadamente omitidos del Padrón Electoral Auditado o que figuren con datos erróneos.
@@ -356,7 +354,9 @@ Si el reclamo se realiza verbalmente deberá prestarse ante el funcionario que e
 
 70º Resolución. El Tribunal deberá fallar la reclamación dentro del plazo de diez días corridos contados de la fecha de presentación del reclamo.
 
-71º Recursos. La sentencia del Tribunal será apelable por el requirente o por el Servicio Electoral, dentro del plazo de tres días corridos desde su notificación por el estado diario, para ante el Tribunal Calificador de Elecciones.
+71º Recursos. La sentencia del Tribunal será apelable por el requirente o por el Servicio Electoral, dentro del plazo de tres días corridos desde su notificación por el estado diario, ante el Tribunal Calificador de Elecciones.
+
+En los casos que estos recursos de apelación se presenten en los Tribunales Electorales Regionales, éstos serán enviados inmediatamente, en forma íntegra, con el carácter de urgente y por cualquier medio idóneo y expedito al Tribunal Calificador de Elecciones.
 
 72º Cumplimiento. Ejecutoriada la sentencia deberá comunicarse este hecho al Servicio Electoral para que proceda a cumplirla sin más trámite.
 
@@ -388,7 +388,9 @@ En el caso que la reclamación afectare a un gran número de personas o si el n�
 
 80° Sentencia. El Tribunal resolverá con los antecedentes que el interesado o los afectados le suministren, previo informe del Servicio Electoral, dentro del plazo de cinco días corridos contados de la fecha de la audiencia y se notificará por el estado diario.
 
-81º Recursos. Las sentencias del Tribunal serán apelables para ante el Tribunal Calificador de Elecciones, debiendo ser interpuesto por el requirente, el o los afectados y/o el Servicio Electoral, dentro del plazo de tres días corridos contados desde la fecha de incorporación en el estado diario.
+81º Recursos. Las sentencias del Tribunal serán apelables ante el Tribunal Calificador de Elecciones, debiendo ser interpuesto por el requirente, el o los afectados y/o el Servicio Electoral, dentro del plazo de tres días corridos contados desde la fecha de incorporación en el estado diario.
+
+En los casos que estos recursos de apelación se presenten en los Tribunales Electorales Regionales, éstos serán enviados inmediatamente, en forma íntegra, con el carácter de urgente y por cualquier medio idóneo y expedito al Tribunal Calificador de Elecciones.
 
 82º Cumplimiento. Ejecutoriada la sentencia que ordena la exclusión del elector, el Tribunal la comunicará inmediatamente al Servicio Electoral para que cancele la inscripción correspondiente, cuando se hubiere dado lugar a la reclamación.
 
