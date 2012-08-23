@@ -1292,11 +1292,13 @@ b) espumantes
 
 #### Artículo 143
 
-Se permite usar como sustancias antioxidantes, sólo aquellas que se indican en este artículo y en concentraciones no mayores, a las que se señalan en forma específica para cada aditivo, expresadas en base a materia grasa pura:
+Se permite usar como sustancias antioxidantes sólo aquellas que se indican en este artículo y en concentraciones no mayores a las que se señalan en forma específica para cada aditivo. Los límites de los antioxidantes señalados en la letra a) del presente artículo están expresados en base a materia grasa pura y en la letra b) se listan los antioxidantes para otros productos.
 
 a) Antioxidantes para materias grasas
 
 b) Antioxidantes para otros productos
+
+> **Nota.** El Nº 2 del Art. 1º del Decreto 71, Salud, publicado el 23.08.2010, con vigencia a contar de 24 meses después de su publicación, modificó el cuadro de la letra a) en el sentido de agregar los siguientes aditivos, Nºs. 304 y 305: N° NOMBRE LIMITE SIN CODEX SINONIMOS MAXIMO 304 Palmitato Vitamina C de ascorbilo palmitato 500 mg/kg 305 Estearato Vitamina C de ascorbilo estearato 500 mg/kg
 
 #### Artículo 144
 
@@ -1320,15 +1322,25 @@ Para los efectos de rotulación se deberá emplear el nombre, según el Codex Al
 
 #### Artículo 146
 
-Sólo se permite usar edulcorantes no nutritivos en los alimentos para regímenes de control de peso; en los alimentos bajos en grasas y/o calorías, y en los alimentos libres, bajos, reducidos o livianosen calorías, pudiendo emplearse únicamente los que se indican a continuación:
+Sólo se permite usar los edulcorantes no nutritivos en uno o más de los siguientes alimentos:
+
+a) Alimentos para regímenes de control de peso.
+
+b) Alimentos libres, bajos o reducidos en azúcar o azúcares (mono y disacáridos).
+
+c) Alimentos libres, bajos o reducidos en calorías.
+
+d) Alimentos libres, bajos o reducidos en grasas.
+
+Los descriptores anteriormente señalados en las letras b), c) y d) se rigen por lo dispuesto en el artículo 120 del presente reglamento.
+
+Los edulcorantes no nutritivos que se pueden utilizar en uno o más de los alimentos antes descritos, son los que se indican a continuación:
 
 En la rotulación de los alimentos que contienen estos productos deberá indicarse en forma destacada su agregado como aditivo y la cantidad de edulcorante por porción de consumo habitual servida y por cada 100 g o 100 ml del producto listo para el consumo, señalando, además, para cada edulcorante utilizado los valores de ingesta diaria admisible (I.D.A.), en mg/kg de peso corporal, según recomendaciones de FAO/OMS.
 
 Los edulcorantes de mesa, cualquiera sea su forma de presentación, deberán cumplir con la rotulación general y nutricional que establece este reglamento, indicando, además, la concentración por porción de consumo habitual y por cada 100 g o 100 ml y la I.D.A. correspondiente.
 
-Adicionalmente, en caso de empleo de Aspartamo, se deberá indicar en forma destacada en la rotulación:
-
-"Fenilcetonúricos; contiene fenilalanina".
+Adicionalmente, en caso de empleo de Aspartamo, se deberá indicar en forma destacada en la rotulación: "Fenilcetonúricos; contiene fenilalanina".
 
 Ninguna forma de bebidas o refrescos, tanto líquidos como en polvo para preparación, podrán contener más de 250 mg/litro de ácido ciclámico o de sus sales.
 
@@ -1383,6 +1395,8 @@ b) Blanqueadores o mejoradores de panificación
 #### Artículo 154
 
 Se permite utilizar como preservantes químicos sólo los que se indican en este artículo y en concentraciones no mayores, en productos terminando, que las que se señalan en forma específica para cada aditivo:
+
+> **Nota.** El Nº 4 del Art. 1º del Decreto 71, Salud, publicado el 23.08.2010, con vigencia a contar de 24 meses después de su publicación, modificó el Nº 234 del cuadro contenido en el presente artículo, el que queda de la siguiente forma:N° SIN NOMBRE CODEX SINONIMOS LIMITE MAXIMO 234 Nísina 12,5 mg/kg en quesos 10 mg/kg en crema natural o nata cuajada
 
 #### Artículo 155
 
@@ -3094,13 +3108,9 @@ Benzo (a) pireno Benzo (e) pireno Benzo (a) antraceno Benzo (b) fluoranteno Benz
 
 #### Artículo 250
 
-La distribución y comercialización de los aceites, mantecas y grasas comestibles, deberá realizarse en sus envases originales, prohibiéndose su fraccionamiento en el punto de venta.
+La distribución y comercialización de los aceites, mantecas y grasas comestibles deberá realizarse en sus envases originales, prohibiéndose su fraccionamiento en el punto de venta.
 
-Para efectos de rotulación de los aceites, mantecas y grasas comestibles como alimentos o ingredientes alimenticios, será obligatoria la individualización del orden vegetal o animal de los mismos y se aceptarán como nombre específico las nomenclaturas aceite, manteca y grasa "vegetal", "animal" o "combinado/a", calificadas con el término "hidrogenado/a" o "parcialmente hidrogenado/a", según sea el caso, sin necesidad de especificar el fruto, semilla o especie animal de que provienen tales productos y/o ingredientes.
-
-En las mezclas de aceite, mantecas y grasas comestibles que se comercialicen como productos terminados, se deberá declarar esta condición en el listado de ingredientes como "mezcla de aceites vegetales" o "mezcla de aceites, mantecas o grasa animal" o "combinado de aceites, mantecas o grasas animales". Se deberá incluir en el rótulo la tabla nutricional correspondiente, de acuerdo a lo establecido en el artículo 115 y último párrafo del artículo 116, del presente reglamento.
-
-> **Nota.** El artículo transitorio del DTO 115, Salud, publicado el 25.11.2003, dispone que la modificaciones a este artículo, regirán 180 días después de su publicación.
+Para efectos de rotulación de los aceites, mantecas y grasas comestibles como alimentos o ingredientes alimenticios, será obligatoria la individualización del fruto, semilla o especie animal de que provienen tales productos y/o ingredientes. Se deberá declarar si los aceites, mantecas y grasas comestibles se sometieron a proceso de hidrogenación parcial y/o interesterificación y/o fraccionamiento, según sea el caso. En las mezclas de aceites, mantecas y grasas comestibles que se comercialicen como productos terminados, se deberá declarar esta condición en el listado de ingredientes como "mezcla de aceites vegetales" o "mezcla de aceites, mantecas o grasa animal" o "combinado de aceites, mantecas o grasas animales", según corresponda, listando primero el aceite, manteca o grasa que esté en mayor proporción. Se deberá incluir en el rótulo la tabla nutricional correspondiente, de acuerdo a lo establecido en el artículo 115 y último inciso del artículo 116, del presente reglamento.
 
 ### Párrafo II
 
@@ -3864,7 +3874,7 @@ f) ser blanca, marfil o ligeramente amarillenta.
 
 #### Artículo 350
 
-La harina deberá contener como las siguientes cantidades de vitaminas y sales minerales:
+La harina deberá contener como mínimo las siguientes cantidades de vitaminas y sales minerales:
 
 Tiamina 6,3 mg/kg
 
@@ -3874,15 +3884,15 @@ Niacina 13,0 mg/kg
 
 Hierro 30,0 mg/kg
 
-Acido fólico 2,0 a 2,4 mg/kg
+El hierro debe agregarse en forma de sulfato ferroso, en el evento de no ser esto posible podrá usarse fumarato ferroso siempre que se mantenga la equivalencia con el sulfato ferroso.
 
-El hierro debe agregarse en forma de sulfato o de pirofosfato ferroso.
-
-La fortificación de la harina con ácido fólico será obligatoria a partir del 1 de enero del año 2000, pudiendo ser incorporada en forma voluntaria con anterioridad.
+Asimismo, la harina debe contener 1,8 mg/kg de ácido fólico, sin embargo éste se aceptará que esté presente en un rango de 1,0 a 2,6 mg/kg.
 
 #### Artículo 351
 
 Las mezclas vitamínicas que se comercialicen para enriquecer la harina sean nacionales o importadas deberán indicar en su rotulación las cantidades de nutrientes que aportan por gramo de mezcla.
+
+El Ministerio de Salud mediante decreto, dictado bajo la fórmula "Por orden del Presidente de la República", aprobará la directriz sobre los parámetros técnicos adecuados para que la composición de la premezcla vitamínica para harinas sea uniforme.
 
 #### Artículo 352
 
@@ -4708,7 +4718,7 @@ En los locales de atención a público que ofrezcan o incluyan mayonesa en alime
 
 #### Artículo 451
 
-Aderezos para ensaladas (salad dressings) son las emulsiones en las cuales el aceite comestible se encuentra finamente disperso en un medio acuoso que contiene: sal, azúcar, vinagre, especias, huevo y/o derivados lácteos y aditivos autorizados.
+Aderezos para ensaladas (salad dressings) son las emulsiones en las cuales el aceite comestible se encuentra finamente disperso en un medio acuoso que puede contener uno o más de los siguientes ingredientes: sal, azúcares, vinagre, especias, huevo y/o derivados lácteos y aditivos autorizados. En caso de incluir huevo, deberá cumplirse con lo establecido en el artículo precedente.
 
 ## Título XXIV
 
