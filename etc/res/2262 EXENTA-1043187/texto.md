@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.262, de 14 de agosto de 2012, de esta Subsecretaría, déjase sin efecto la resolución N° 2.575, de 2011, de esta Subsecretaría, correspondiente al área de manejo Islas Huichas, Sector J, XI Región, del SINDICATO DE TRABAJADORES INDEPENDIENTES DE LA PESCA ARTESANAL NUEVO HORIZONTE DE PUERTO AGUIRRE, en virtud del artículo 11 del DS N° 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 14 de agosto de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
