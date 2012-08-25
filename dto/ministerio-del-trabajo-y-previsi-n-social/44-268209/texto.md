@@ -32,9 +32,9 @@ La dirección y administración del Servicio corresponderá a un Consejo Adminis
 
 a) El Director Ejecutivo o el funcionario que él designe en su reemplazo, quien presidirá las sesiones;
 
-b) El Jefe del Subdepartamento de Administración;
+b) El Jefe de la División Personas;
 
-c) El Jefe de la Sección Personal;
+c) El Jefe del Departamento de Administración y Finanzas;
 
 d) Un funcionario designado por el Director Ejecutivo.
 
@@ -200,7 +200,7 @@ El monto máximo de los préstamos antes señalados será determinado anualmente
 
 #### Artículo 15º
 
-Para conceder un préstamo, el Consejo considerará las posibilidades de recuperación de los dineros prestados y será requisito indispensable constituir garantía de dos codeudores solidarios, que sean funcionarios de planta o contrata de la Institución y cuya solvencia será calificada por dicho Consejo. En el caso de préstamos médicos sólo se exigirá constituir la referida garantía para aquellos préstamos superiores a 8 UF.
+Para conceder un préstamo, el Consejo considerará las posibilidades de recuperación de los dineros prestados y será requisito indispensable constituir garantía de dos codeudores solidarios, que sean funcionarios de planta o contrata de la Institución y cuya solvencia será calificada por dicho Consejo. No se exigirá garantía por aquellos préstamos médicos que estén cubiertos por el reembolso del Seguro de Salud y el beneficio de Bienestar. Cuando el préstamo médico no se encuentre cubierto por el reembolso del Seguro de Salud y el beneficio de Bienestar y su monto sea distribuido en más de una cuota, se exigirá la constitución de dos codeudores solidarios.
 
 Para solicitar cualquier tipo de préstamo, el afiliado deberá tener por lo menos seis meses de afiliación ininterrumpida al Servicio.
 
