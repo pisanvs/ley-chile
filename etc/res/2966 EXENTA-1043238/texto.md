@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN Nº 2.966 EXENTA, DE 2012
+
+Por resolución exenta Nº 2.966, de 23 de julio de 2012, de la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se aprueba el procedimiento para solicitar aumento de flota por parte de los concesionarios de los Servicios de Taxis Colectivos Urbanos presentados por los concesionarios de los Servicios de Taxis Colectivos en Vías de la provincia de Santiago, y las comunas de Puente Alto y San Bernardo, proceso de Licitación 2010, previa aprobación del Secretario Regional de la solicitud del interesado, mediante formulario dispuesto al efecto y cumplimiento de los requisitos que allí se indican.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana.
