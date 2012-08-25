@@ -16,19 +16,19 @@ Decreto:
 
 1.- Autorízase la circulación de los vehículos, propiedad del Instituto de Desarrollo Agropecuario, en las Direcciones Regionales, en días sábados en la tarde, domingos y festivos, sin sujeción a la jornada ordinaria de trabajo, en las labores del Instituto de Desarrollo Agropecuario, de los móviles que se indican:
 
-a) Camioneta Mazda BT-50 SDX, doble cabina, año 2008, Nº Motor WLAT-902315, color plateado plata, inscripción Registro Nacional de Vehículos Motorizados BLJZ.47-7, patente BLJZ.47-7, inventario 4-500-1, se destina a la Dirección de la I Región del Instituto de Desarrollo Agropecuario.
+a) Camioneta Chevrolet Modelo Dmax TH 3.0, doble cabina, año 2011, Nº de Motor 939399, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ-92-3, Inventario 4-603-1, se destina a la Dirección de la Región de Tarapacá del Instituto de Desarrollo Agropecuario.
 
-b) Camioneta Mazda modelo BT50, doble cabina, año 2012, Nº de Motor WLAT 1271057, color blanco, inscripción Registro Nacional de Vehículos Motorizados DLST-83-7, Patente DLST-83-7, Inventario 4-735-1, se destina a la Dirección de la XV Región del Instituto de Desarrollo Agropecuario.
+b) Station Wagon Nissan X Trail Full 4WD 2.5, año 2010, Nº de motor QR25928937A, color plateado metálico, Inscripción Registro Nacional de Vehículos Motorizados CJFX.39-1, Patente CJFX.39-1, Inventario 4-752-1, se destina a la Dirección de la II Región del Instituto de Desarrollo Agropecuario
 
 c) Camioneta Chevrolet D-Max TH 4WD 3.0, año 2011, Nº de motor 951680, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBYB.20-0, patente DBYB.20-0, inventario 4-595-1, se destina a la Dirección de la III Región del Instituto de Desarrollo Agropecuario.
 
 d) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25110537B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados CZZH-21-9, patente CZZH-21-9, inventario 4-567-1, se destina a la Dirección de la IV Región del Instituto de Desarrollo Agropecuario.
 
-e) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25160248B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-31-6, patente DBRD-31-6, inventario 4-627-1, se destina a la Dirección de la V Región del Instituto de Desarrollo Agropecuario.
+e) Station Wagon Suzuki Gran Vitara GLX Sport, año 2012, Nº de motor M16A-1618399, color plateado plata, inscripción Registro Nacional de Ve-hículos Motorizados DKWH.68-8, patente DKWH.68-8, inventario 4-679-1, se destina a la Dirección de la V Región del Instituto de Desarrollo Agropecuario.
 
-f) Station Wagon Suzuki Gran Nomade 2.0 GLX Sport, año 2009, Nº Motor J20A-671547, color gris grafito, inscripción Registro Nacional de Vehículos Motorizados CBBL.98-6, patente CBBL.98-6, inventario 4-519-1, se destina a la Dirección de la VI Región del Instituto de Desarrollo Agropecuario.
+f) Station Wagon Nissan X Trail, año 2011, Nº de motor QR25117058B, color blanco perlado, Inscripción Registro Nacional de Vehículos Motorizados CZZH.20-0, Patente CZZH-20-0, Inventario 4-568-1, se destina a la Dirección de la VI Región del Instituto de Desarrollo Agropecuario.
 
-g) Station Wagon Nissan X-Trail S MT, año 2011, Nº motor QR25159539B, color blanco perlado, inscripción Registro Nacional de Vehículos Motorizados DBRD-30-8, patente DBRD-30-8, inventario 4-629-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
+g) Station Wagon Nissan X Trail S MT, año 2011, Nº de motor QR25160248B, color blanco perla, Inscripción Registro Nacional de Vehículos Motorizados DBRD.31-6, Patente DBRD.31-6, Inventario 4-627-1, se destina a la Dirección de la VII Región del Instituto de Desarrollo Agropecuario.
 
 h) Camioneta Chevrolet Modelo Dmax TH 3.0, doble cabina, año 2011, Nº de Motor 952153, color blanco, inscripción Registro Nacional de Vehículos Motorizados DBXZ-91-5, Inventario 4-604-1, se destina a la Dirección de la VIII Región del Instituto de Desarrollo Agropecuario.
 
@@ -38,7 +38,7 @@ j) Station Wagon Suzuki Gran Nomade 2.0 GLX Sport, año 2009, Nº Motor J20A-658
 
 k) Camioneta Mazda modelo BT50, doble cabina, año 2012, Nº motor WLAT1312920, color negro, Inscripción Registro Nacional de Vehículos Motorizados DHYF-16-4, Patente DHYF-16-4, Inventario 4.732-1, se destina a la Dirección de la XI Región del Instituto de Desarrollo Agropecuario.
 
-l) Camioneta Mazda BT-50, doble cabina, año 2011, Nº motor WLAT-1251636, color verde oscuro, inscripción Registro Nacional de Vehículos Motorizados DCRT.37-6, patente DCRT.37-6, inventario 4-656-1, se destina a la Dirección de la XII Región del Instituto de Desarrollo Agropecuario.
+l) Jeep Suzuki Gran Nomade GLX Sport, año 2009, Nº de Motor J20A-659730, color gris oscuro, Inscripción Registro Nacional de Vehículos Motorizados CCDS.34-7, Patente CCDS.34-7, Inventario 4-746-1, se destina a la Dirección de la Región de Magallanes y Antártica Chilena del Instituto de Desarrollo Agropecuario.
 
 m) Station Wagon Suzuki modelo Grand Nómade 2.4 GLX Sport, año 2012, Nº de Motor J24B1144579, color plateado, Inscripción Registro Nacional de Vehículos Motorizados DKWH.54-8, Inventario 4-677-1, se destina a la Dirección de la XIII Región del Instituto de Desarrollo Agropecuario.
 
