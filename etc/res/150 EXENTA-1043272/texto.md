@@ -1,0 +1,11 @@
+EXTRACTO DE RESOLUCIÓN Nº 150 EXENTA, DE 2012
+
+Por resolución exenta Nº 150, de 22 de mayo de 2012, la Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región del Biobío, autorizó el funcionamiento del terminal urbano para servicios de locomoción colectiva prestado mediante taxis colectivos urbanos, ubicado en calle Av. Vicuña Mackenna Nº 1960, de la comuna de Los Ángeles, provincia de Biobío, Región del Biobío, de responsabilidad de la Asociación Gremial de Dueños de Taxis Colectivos Iansa Avellano Bolsón Los Ángeles, rol único tributario Nº 71.777.200-8. El tipo de terminal es un terminal clasificado en "Categoría C-150", conforme a la clasificación establecida en el artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo, vigente a la fecha de recepción definitiva del mencionado terminal. La capacidad máxima del terminal corresponde a 150 vehículos. Déjase constancia de lo siguiente:
+
+- **A)** Hará uso del terminal referido el servicio de vehículos taxis colectivos urbanos de Los Ángeles, cuyo responsable es la Asociación Gremial de Dueños de Taxis Colectivos Iansa Avellano Bolsón Los Ángeles, Rol Único Tributario Nº 71.777.200-8, con recorrido Troncal: Av. Vicuña Mackenna - Alcázar - Mendoza - Sor Vicenta, Variante 1: Av. Padre Hurtado - Manuel Rodríguez - Orompello - Valdivia, y Variante 3: Av. Alcázar - Av. Ricardo Vicuña - Villagrán - Camilo Henríquez.
+
+- **B)** El terminal que se autoriza podrá ser utilizado hasta por un máximo de 150 vehículos, en conformidad al artículo 4.13.6 del DS 47/92 del Ministerio de Vivienda y Urbanismo.
+
+- **B)** El administrador del terminal será don Miguel Ángel Rodríguez Cisterna, rol único tributario Nº 8.589.301-7, con domicilio en Av. Padre Hurtado Nº 0438, sector Villa Galilea, de la comuna de Los Ángeles. El público usuario no podrá acceder al terminal cuyo funcionamiento se autoriza.-
+
+Claudio Silva González, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región del Biobío.
