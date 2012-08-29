@@ -210,7 +210,9 @@ Ante tal situación se ha requerido definir un conjunto de zonas con un determin
 
 3.2.1. Zonificación de la Situación Base La anteriormente referida zonificación ha significado un proceso de elaboración secuencial iniciado en la etapa de Diagnóstico Urbano con la identificación de las Areas de Características Homogéneas (. 7) y continuado en la etapa de "Alternativas de Desarrollo Urbano" con la definición de la Situación Base (. 8). De esta manera, la identificación de las áreas de características homogéneas sirvió para definir la zonificación de la situación base y ésta, a su vez, sirvió de referencia fundamental para la zonificación definitiva.
 
-El proceso de elaboración de la zonificación de la Situación Base fue realizado a través de los siguientes pasos: primero, el análisis de cada una de las unidades vecinales de Viña del Mar ante un conjunto de variables seleccionadas capaces de caracterizar el territorio urbano; y luego, la definición de las zonas homogéneas de acuerdo al comportamiento de las unidades vecinales ante las variables señaladas (. 9).
+El proceso de elaboración de la zonificación de la Situación Base fue realizado a través de los siguientes pasos: primero, el análisis de cada una de las unidades vecinales de Viña del Mar ante un conjunto de variables seleccionadas capaces de caracterizar el territorio urbano;
+
+y luego, la definición de las zonas homogéneas de acuerdo al comportamiento de las unidades vecinales ante las variables señaladas (. 9).
 
 Del reconocimiento realizado, se obtuvo como resultado la siguiente identificación y caracterización de áreas que en su conjunto representan la zonificación que se puede observar actualmente en el territorio urbano o Situación Base:
 
@@ -274,7 +276,9 @@ En Plano PR VM-01, se grafican las diferentes zonas, cuyos límites se entender�
 
 3) Una situación similar fue verificada en la zona 5 de la Situación Base "Subcentro Residencial" localizada en Reñaca, lo cual dio origen a las zonas E3, E3a, E3b y V5, también en las zonas 6 "Subcentro Habitacional" y 8 "Zona Habitacional", lo cual dio origen a las zonas V7 y E5 que cubren el territorio de todas las áreas habitacionales y poblacionales delimitadas en la Situación Base.
 
-4) Dentro de la zona 7 "Zona Residencial" se establecieron cinco situaciones diferentes de áreas residenciales, las cuales se encuentran basadas principalmente en el nivel de consolidación urbana alcanzado por cada una de ellas. De esta manera, se originaron las siguientes zonas: V1 que corresponde a los sectores de Miraflores Bajo, Viña del Mar Alto y por extensión al sector de Los Almendros sector Las Golondrinas, sector Foresta de la Costa, sector Oriente del Valle del Estero en Reñaca; V2 que cubre los sectores de la ladera Norte del Valle del Estero de Reñaca, al Oriente de calle Angamos, Los Médanos Oriente en Reñaca; V3 que coincide con el sector de dunar al Poniente del camino del Alto Reñaca ; V4 que envuelve los sectores de Recreo, Agua Santa, Traslaviña y Chorrillos, y Los Médanos al Oriente del Camino del Alto, Reñaca Concón; E4 que corresponde al conjunto de propiedades que enfrentan la calle 1 Norte en el sector de Miraflores Bajo.
+4) Dentro de la zona 7 "Zona Residencial" se establecieron cinco situaciones diferentes de áreas residenciales, las cuales se encuentran basadas principalmente en el nivel de consolidación urbana alcanzado por cada una de ellas. De esta manera, se originaron las siguientes zonas: V1 que corresponde a los sectores de Miraflores Bajo, Viña del Mar Alto y por extensión al sector de Los Almendros sector Las Golondrinas, sector Foresta de la Costa, sector Oriente del Valle del Estero en Reñaca;
+
+V2 que cubre los sectores de la ladera Norte del Valle del Estero de Reñaca, al Oriente de calle Angamos, Los Médanos Oriente en Reñaca; V3 que coincide con el sector de dunar al Poniente del camino del Alto Reñaca ; V4 que envuelve los sectores de Recreo, Agua Santa, Traslaviña y Chorrillos, y Los Médanos al Oriente del Camino del Alto, Reñaca Concón; E4 que corresponde al conjunto de propiedades que enfrentan la calle 1 Norte en el sector de Miraflores Bajo.
 
 5) Las referidas zonas E1, E2, E3, E4 y E5 corresponden a los denominados "Sectores Comerciales" que se definen en el Artículo 44 del Plan Intercomunal de Valparaíso; E5 además incluye industria inofensiva y no molesta.
 
@@ -384,7 +388,9 @@ Respecto de las condiciones de uso del suelo, subdivisión y edificación defini
 
 Corresponde a una parte de la propiedad de la "Hacienda de las Siete Hermanas", los usos del suelo y las condiciones de subdivisión y edificación aplicables en esta Zona son los establecidos en el Plan Seccional, Modificación al Plan Regulador de Valparaíso, Sector Sur de la Comuna de Viña del Mar, aprobado por Resolución Afecta Nº31-4/061 (V. y U.), de fecha 09 de Mayo de 2000 y publicado en el Diario Oficial de fecha 03 de Junio de 2000.
 
-2) Las Futuras Zonas de Extensión Urbana propuestas, son las siguientes.
+2) Las Futuras Zonas de Extensión Urbana
+
+propuestas, son las siguientes.
 
 - Futura Extensión Industrial; Teniendo presente que la industria molesta actualmente se encuentra alojada en algunas pequeñas áreas de la ciudad y en El Salto principalmente, establecidas en el D.S. 329/80; la aspiración de la comuna es ampliar el área de industrias molestas de la ciudad, con el objetivo de satisfacer las demandas por localizaciones de este tipo que no tienen cabida en las zonas existentes, teniendo en cuenta la localización estratégica hacia el sector de Lajarilla al Nor-Oriente de la comuna, con acceso a la vía 2-A-3 P.IV. la conexión vial hacia Argentina y también desde y hacia las ciudades del interior.
 
@@ -420,7 +426,9 @@ Por la diferente naturaleza de las A.V. se definieron 3 tipos:
 
 El área del borde costero y el contacto con el mar es de tal importancia para la ciudad que requiere, adicionalmente a la exposición de la normativa propuesta y sus objetivos, de una mención especial a sus aspectos históricos urbanos y a su situación actual.
 
-a) Aspectos históricos urbanos del Borde Costero Durante las décadas de los años 30 y 40 el borde costero comienza definitivamente a dejar de ser un deslinde posterior de la ciudad, en donde se construyen industrias e instalaciones de transferencia de carga, vestigios de lo cual aún pueden encontrarse en la playa por ejemplo detrás del Sanatorio Marítimo, y de la maestranza de Edwards y Cerutti. En ese momento se da inicio a un proceso dirigido a transformar el borde litoral en el frente o fachada de una ciudad turística, a través de las siguientes obras y acciones que dan cuenta de ello: construcción del Casino Municipal y luego de los jardines y la iluminación exterior que incluye la Avenida del Mar (actual Avenida Perú); construcción del Cap Ducal; compra por parte de la I. Municipalidad de los terrenos en que funcionó la maestranza de Lever y Murphy en Caleta Abarca; construcción de la Plaza Colombia; construcción de enrocado en la Avenida del Mar y construcción del Hotel Miramar.
+a) Aspectos históricos urbanos del Borde Costero Durante las décadas de los años 30 y 40 el borde costero comienza definitivamente a dejar de ser un deslinde posterior de la ciudad, en donde se construyen industrias e instalaciones de transferencia de carga, vestigios de lo cual aún pueden encontrarse en la playa por ejemplo detrás del Sanatorio Marítimo, y de la maestranza de Edwards y Cerutti. En ese momento se da inicio a un proceso dirigido a transformar el borde litoral en el frente o fachada de una ciudad turística, a través de las siguientes obras y acciones que dan cuenta de ello: construcción del Casino Municipal y luego de los jardines y la iluminación exterior que incluye la Avenida del Mar (actual Avenida Perú); construcción del Cap Ducal; compra por parte de la I. Municipalidad de los terrenos en que funcionó la maestranza de Lever y Murphy en Caleta Abarca; construcción de la Plaza Colombia;
+
+construcción de enrocado en la Avenida del Mar y construcción del Hotel Miramar.
 
 A continuación, en la década de los años 50, con obras como la Plaza Rapa Nui, en playa Miramar, los Jardines de Caleta Abarca, el Hotel San Martín y el balneario de Caleta Abarca, continúa esta consolidación del borde costero, terminando dicha década con la promulgación de la Ley Nº 13.364 ("Ley Lorca"), la cual sanciona legalmente el rol turístico del borde costero, declarando de utilidad pública los inmuebles adyacentes al litoral comprendidos entre la calle 8 Norte y el balneario Las Salinas (. 11), más el Castillo Wulff y al mismo tiempo, autorizando al Presidente de la República para expropiarlos en favor de la I. Municipalidad de Viña del Mar. Conjuntamente con lo anterior, dicha ley destina fondos para la habilitación de la playa de dicho sector costero y la construcción en ella de un balneario, incluyendo parques, jardines y demás obras anexas. Por otra parte, en relación con la totalidad del borde litoral de la comuna, la ley condiciona todos los permisos de edificación correspondientes a los predios costeros de todo el borde entre El Sauce y la desembocadura del Río Aconcagua, a la aprobación del Alcalde con acuerdo de los dos tercios de los regidores en ejercicio y previo informe favorable del Departamento de Obras, lo cual señala sin lugar a dudas, el especial cuidado implícito en la ley para salvaguardar los valores ciudadanos asociados al rol turístico del borde costero y al bien común.
 
@@ -828,7 +836,9 @@ Hidrológica del Estero de Viña del Mar
 
 ### 4. Obras públicas en Sectores Poblacionales
 
-A continuación se describen los términos de referencia general de cada uno de los proyectos de las Obras Básicas de Uso Público a ser materializadas en el horizonte del Plan Regulador. Su descripción debe ser complementada con el plano respectivo que las identifica; además muchas de las obras viales están incluidas en el Listado de la Vialidad Estructurante propuesta, indicándose allí cuándo la materialización de una obra implica el trazado y construcción de la misma, y cuándo sólo implica ensanches sujetos a expropiaciones.
+A continuación se describen los términos de referencia general de cada uno de los proyectos de las Obras Básicas de Uso Público a ser materializadas en el horizonte del Plan Regulador. Su descripción debe ser complementada con el plano respectivo que las identifica;
+
+además muchas de las obras viales están incluidas en el Listado de la Vialidad Estructurante propuesta, indicándose allí cuándo la materialización de una obra implica el trazado y construcción de la misma, y cuándo sólo implica ensanches sujetos a expropiaciones.
 
 A. OBRAS VIALES
 
@@ -2122,8 +2132,6 @@ El Salitre
 
 Lusitania
 
-15 Casa Losada Av. Libertad 702 138-1
-
 #### Artículo 15
 
 ANTENAS. Para la instalación de antenas se deberá dar cumplimiento a:
@@ -2176,7 +2184,7 @@ V6 N S6 Villanelo
 
 V6-a M S7 Uno Oriente
 
-Restricción S8 Vial Central
+V6-b Restricción S8 Vial Central
 
 Esteros Oriente.
 
@@ -2198,7 +2206,7 @@ E1 S12 A.E.U.B-14d
 
 Universidad
 
-Viña del Mar
+E2 Viña del Mar
 
 E3
 
@@ -3228,7 +3236,157 @@ Estacionamiento Vehicular de la presente
 
 Ordenanza.
 
-Zona V6 - b. Eliminado.
+Zona V6 - b.
+
+1. Usos del suelo:
+
+1.1. Usos permitidos.
+
+1.1.1. Residencial:
+
+Vivienda.
+
+Hoteles, Hosterías.
+
+1.1.2. Equipamiento:
+
+Comercio: Restaurante, Local Comercial.
+
+Culto; Cultura: Museo, Biblioteca, Sala de
+
+Concierto, Teatro, Casa de la Cultura, Cine.
+
+Deporte: Cancha, Piscina, Centro deportivo
+
+y Gimnasio;
+
+Educación;
+
+Salud: clínica, posta, dispensario y
+
+consultorio;
+
+Seguridad;
+
+Servicios: Oficinas de profesionales, Correo,
+
+Telégrafo y servicios de utilidad pública.
+
+Servicios artesanales inofensivos.
+
+Social;
+
+1.1.3. Espacio Público;
+
+1.1.4. Area Verde: Parques Plazas Jardines y Juegos
+
+Infantiles.
+
+1.1.5. En el área comprendida entre las calles 12
+
+Norte,-14 Norte, y 1 Oriente-límite Oriente
+
+de Zona V6-B, se autorizará Centro Comercial,
+
+Grandes Supermercados, y Grandes Multitiendas.
+
+Para ello las condiciones de edificación y
+
+subdivisión predial aplicables a estos
+
+destinos serán los definidos para la Zona E5.
+
+1.2. Usos prohibidos: Todos los no consignados en
+
+los numerales anteriores.
+
+2. Condiciones de subdivisión y edificación:
+
+2.1. Superficie predial mínima: 500 m2.
+
+2.2. Frente predial mínimo: 16 m.
+
+2.3. Coeficiente máximo de ocupación del suelo:
+
+a) Para edificaciones de hasta 9 metros de
+
+altura: 0,50.
+
+b) Para edificaciones de más de 9 metros de
+
+altura: 0,30.
+
+2.4. Coeficiente máximo de constructibilidad:
+
+Se determinará de acuerdo a la Tabla Nº1
+
+incluida en el Artículo 6 de la presente
+
+Ordenanza
+
+2.5. Tipo de agrupamiento: Aislado y Pareado. La
+
+edificación pareada no podrá sobrepasar el
+
+30% de la longitud del deslinde común.
+
+2.6. Altura máxima: se determinará de acuerdo a las
+
+rasantes establecidas en la Ordenanza de la
+
+Ley General de Urbanismo y Construcciones.
+
+2.7. Distanciamientos y rasantes: se deberá aplicar
+
+lo establecido en la Ordenanza de la Ley
+
+General de Urbanismo y Construcciones.
+
+2.8. Antejardín de Tipo A con los siguientes anchos
+
+mínimos:
+
+- Para edificaciones de hasta 9 metros de
+
+altura: 3 m
+
+- Para edificaciones de más de 9 metros de
+
+altura: 6 m
+
+La aplicación de esta condición deberá impedir
+
+que edificaciones o parte de ellas con una
+
+altura menor a 9 metros se construyan a menos
+
+de 3 metros de distancia de la línea oficial
+
+de la propiedad y edificaciones o parte de
+
+ellas con una altura mayor a 9 metros se
+
+construyan a menos de 6 metros de dicha línea
+
+oficial.
+
+2.9. Densidad neta máxima: se determinará de
+
+acuerdo a la Tabla Nº1 incluida en el
+
+#### Artículo 6
+
+de la presente Ordenanza,
+
+dependiendo de la superficie predial.
+
+2.10. Estacionamientos: Según se establece en
+
+Capítulo V y Tabla Dotaciones Mínimas de
+
+Estacionamiento Vehicular de la presente
+
+Ordenanza.
 
 Zona V 7.
 
@@ -3740,7 +3898,205 @@ Estacionamiento Vehicular de la presente
 
 Ordenanza.
 
-Zona E2. Eliminado.
+Zona E2.
+
+1. Usos del suelo:
+
+1.1. Usos permitidos.
+
+1.1.1. Residencial:
+
+Vivienda.
+
+Hoteles, Moteles, Residenciales, Hospederías,
+
+Hosterías.
+
+1.1.2. Equipamiento:
+
+Comercio;
+
+Nota: Las Estaciones de Servicio Automotor,
+
+sólo se permitirán las existentes legalmente
+
+autorizadas.
+
+Culto; Cultura: Museo, Biblioteca, Sala de
+
+Concierto, Teatro, Auditorio, Casa de la
+
+Cultura, Cine.
+
+Deporte: Centro Deportivo, cancha, piscina
+
+y gimnasio;
+
+Educación;
+
+Esparcimiento: Casino;
+
+Salud: clínica, posta, dispensario,
+
+consultorio;
+
+Seguridad;
+
+Servicios: Servicios Públicos, Servicios
+
+Profesionales; Servicios artesanales
+
+inofensivos;
+
+Social;
+
+1.1.3. Actividades Productivas "inofensivas":
+
+Talleres.
+
+1.1.5. Espacio Público;
+
+1.1.6. Area Verde: Parques, Plazas, Jardines y Juegos
+
+Infantiles.
+
+1.2. Usos prohibidos: Todos los no consignados en
+
+los numerales anteriores.
+
+2. Condiciones de subdivisión y edificación:
+
+2.1. Superficie predial mínima: 500 m2
+
+2.2. Frente predial mínimo: 20 m.
+
+2.3. Coeficiente máximo de ocupación del suelo:
+
+0.50
+
+2.4. Coeficiente máximo de constructibilidad:
+
+se determinará de acuerdo a la Tabla Nº1
+
+incluida en el Artículo 6 de la presente
+
+Ordenanza.
+
+2.5. Tipo de agrupamiento: a) Continuo: hasta 10.50
+
+metros y sobre dicha altura, sólo se permitirá
+
+edificación aislada. b) Aislado.
+
+2.6. Altura máxima:
+
+a) Para edificación continua 10.50 metros.
+
+b) Para edificación aislada se determinará
+
+de acuerdo a las rasantes establecidas en la
+
+Ordenanza de la Ley General de Urbanismo y
+
+Construcciones incluyendo la edificación sobre
+
+la edificación continua.
+
+2.7. Distanciamientos y rasantes: para edificación
+
+aislada y continua se aplicará lo establecido
+
+en la Ordenanza General de Urbanismo y
+
+Construcciones, incluyendo edificación aislada
+
+sobre edificación continua, donde las rasantes
+
+y distanciamientos se aplicarán a partir de
+
+los 10.50 m.
+
+2.8. Antejardín: de Tipo A o B con un ancho mínimo
+
+de 6 metros.
+
+2.9. Cuerpos Salientes.
+
+En la edificación aislada, sobre la
+
+edificación continua, sólo se permitirán
+
+cuerpos salientes, destinados a balcones,
+
+terrazas, jardineras u otros elementos
+
+ornamentales análogos, cuya área de fachada,
+
+no podrá exceder, más de un 50% de la
+
+superficie de la fachada. Dichos cuerpos
+
+salientes podrán sobresalir hasta 1,3 m como
+
+máximo a partir de la línea de edificación y
+
+a una altura no inferior a 14,00 m medidos
+
+desde el nivel del piso de la acera.
+
+2.10. Densidad neta máxima: se determinará de
+
+acuerdo a la Tabla Nº1, incluida en el
+
+#### Artículo 6
+
+de la presente Ordenanza,
+
+dependiendo de la superficie predial.
+
+2.11. Estacionamientos: Según se establece en
+
+Capítulo V y Tabla Dotaciones Mínimas de
+
+Estacionamiento Vehicular de la presente
+
+Ordenanza.
+
+2.12. Para Estaciones de Servicio Automotor, locales
+
+de exhibición y venta de vehículos livianos,
+
+así como las obras de ampliación y/o
+
+reconstrucción de locales preexistentes
+
+requerirán para su aprobación de un standard
+
+de calidad mínima, para ello constructivamente
+
+deberán ser clasificadas en la tabla de
+
+valores unitarios de construcción MINVU-S.I.I.
+
+en la clasificación A,B,C, y/o D, en las
+
+categorías (1) Superior (2) Buena.
+
+Para Estaciones de Servicio Automotor y
+
+Centros de Mantención y Reparación Automotor,
+
+les será aplicable lo señalado en el Capítulo
+
+VII de la presente Ordenanza.
+
+Para locales con destino exhibición de
+
+vehículos livianos, deberá dar cumplimiento a
+
+lo establecido en el Artículo 33 del Capítulo
+
+VI de la presente Ordenanza.
 
 Zona E3.
 
@@ -5688,7 +6044,7 @@ Vías locales proyectadas. Las condiciones y estándar de diseño, para las vía
 
 b) Vías Existentes.
 
-Todas las vías públicas existentes de la comuna con tránsito vehicular, que tengan un ancho entre líneas oficiales de menos de 12 metros y hasta 8 metros, cuya calzada no sea inferior a 6 metros, serán clasificadas como vías locales.
+Todas las vías públicas existentes de la comuna con tránsito vehicular, que tengan un ancho entre líneas oficiales de menos de 12 metros y hasta 8 metros o aquellas cuya calzada no sea inferior a 6 metros, serán clasificadas como vías locales.
 
 c) Vialidad Estructurante.
 
@@ -6759,26 +7115,6 @@ ofrezca la menor tarifa por la prestación de los
 servicios sanitarios.
 
 VER DIARIO OFICIAL DE 13.12.2003, PAGINAS 36 - 37
-
-> **Nota.** El Decreto 10928, Municipalidad de Viña Del Mar, publicado el 17.09.2015, modifica la presente norma en el sentido de postergar por el plazo de tres meses el otorgamiento permisos de edificación, urbanización, loteo y subdivisión en el sector de la Cuenca Sur del Estero de Reñaca, en el perímetro comprendido entre el Estero de Reñaca por el norte; Avda. Gómez Carreño y Avda. Alejandro Navarrete por el sur y sur poniente; Jardín del Mar por el poniente; y Glorias Navales y Expresos Viña por el oriente, según polígono 1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-1, graficado en "Plano Área Estudio - Cuenca Estero de Reñaca Sector Sur.
-
-> **Nota.** NOTA 1 El I y II del numeral 2° Decreto 14520, Municipalidad de Viña Del Mar, publicado el 27.11.2015, modifica la presente norma en el sentido de agrega modificaciones al artículo 14 de la manera que la citada norma indica.
-
-> **Nota.** NOTA 2 El III del numeral 2° Decreto 14520, Municipalidad de Viña Del Mar, publicado el 27.11.2015, modifica la presente norma en el sentido de agrega modificaciones al artículo 17 de la manera que la citada norma indica.
-
-> **Nota.** NOTA 3 El I, numeral 1° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar, a continuación del Anexo 7 memoria explicativa de la Modificación al Plan Regulador Comunal, "Actualización Zona V11-A del fundo naval Las Salinas", el Anexo 8 correspondiente a la memoria explicativa de la modificación al Plan regulador Comunal "Sector Población Vergara".
-
-> **Nota.** NOTA 4 El I, numeral 2° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar el capítulo XI y los artículos 49° y 50°, en los términos que la citada norma indica, los que sin embargo, no son posibles de incorporar debido a que no coincide la numeración en el texto.
-
-> **Nota.** NOTA 5 El I, numeral 4° I, y numeral 5° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifican la presente norma en el sentido de agregar al listado de Inmuebles de Conservación Histórica, detallado en el artículo 14.7, cuatro nuevas zonas numerales: 14.7.6, 14.7.7, 14.7.8, 14.7.9 y 14.7.10., como asimismo, agregando un nuevo numeral 14.9, respectivamnete, en los términos que dicha norma señala, los cuales sin embargo, no son incorporadas al presente texto por cuanto el último numeral del referido artículo es el 14.5.
-
-> **Nota.** NOTA 6 El I, numeral 8° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar al Artículo 16 "Zonas y Áreas" a la columna "Zonas Urbanas", las zonas V8, V9, E6-c, E6-c1, E7-c, E7-c1 y E8-1; la Zona de Conservación Histórica N° 5 Palacio Carrasco, la Zona de Conservación Histórica N° 6 Palacio Rioja, la Zona de Conservación Histórica N° 7 Palacio Astoreca y la Zona de Conservación Histórica N° 8 Iglesia Carmelitas.
-
-> **Nota.** NOTA 7 El I, numeral 9° del Decreto 4595, Municipalidad de Viña Del Mar, publicado el 13.05.2016, modifica la presente norma en el sentido de agregar, en su artículo 17 en "Normas de usos de suelo, condiciones de subdivisión y edificación", las siguientes zonas, según se detalla en la referida norma: Zona V8, Zona V9, Zona E6-c, Zona E6-c1, Zona E7-c, Zona E7-c1 y Zona E8-1.
-
-> **Nota.** NOTA 8 Los numerales 1 y 2 del Decreto 10046, Municipalidad de Viña del Mar, publicado el 16.09.2016, modifica la presente norma en el sentido de introducir cambios al plano regulador de la Comuna de Viña del Mar de la manera que la citada norma indica.
-
-> **Nota.** NOTA 9 El numeral 1 de la Resolución 2355 Exenta, Vivienda, publicada el 25.10.2022, interpreta el presente Plan Regulador Comunal en lo referente a su artículo 13.2, declarando que el citado artículo ha perdido su vigencia, al encontrarse derogada la norma en que se funda, como es el Plan Intercomunal de Valparaíso.
 
 II.- Anótese, comuníquese y publíquese estos documentos en el Diario Oficial, para finalizar el trámite legal y archívese.- Jorge Kaplan Meyer, Alcalde.- José Mora Carrasco, Secretario Municipal (S).
 
