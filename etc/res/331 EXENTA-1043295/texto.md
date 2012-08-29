@@ -1,0 +1,7 @@
+APRUEBA MODIFICACIÓN DE ESTATUTOS A ASEGURADORA MAGALLANES S.A.
+
+Certifico: Que por resolución exenta Nº 331, de 17 de agosto de 2012, de la Superintendencia de Valores y Seguros, se aprobó la modificación de los estatutos de la sociedad anónima "Aseguradora Magallanes S.A.", acordada en Junta Extraordinaria de Accionistas de 26 de abril de 2012, cuya acta consta en escritura pública de 15 de mayo de 2012, otorgada ante el Notario de Santiago don Enrique Tornero Figueroa, domiciliado en Paseo Phillips 433, Santiago.
+
+La modificación consiste en aumentar el capital social de $16.816.454.706.-, dividido en 309.327.004 acciones de la misma serie y sin valor nominal, íntegramente suscrito y pagado, a $28.318.025.929.- dividido en 350.847.043 acciones de una misma serie y sin valor nominal, mediante la capitalización de sobreprecio de venta de acciones por $224.333.917.-; capitalización de utilidades retenidas por $5.408.118.255.-; capitalización de fluctuación de valores de renta fija, producto de la división de la sociedad por $(8.000.949); y la emisión de 41.520.039 acciones de pago sin valor nominal, correspondiente a $5.877.120.000.- a pagar en el plazo de tres años a contar del 26 de abril de 2012.
+
+Santiago, 17 de agosto de 2012.- Carmen Undurraga Martínez, Secretario General.
