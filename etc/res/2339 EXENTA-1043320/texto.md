@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.339, de 24 de agosto de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 549 de 2007, sólo en cuanto autorizó a PESQUERA BÍO-BÍO S.A. para ampliar actividades pesqueras extractivas con una nave en construcción en el área marítima comprendida entre la III a VII Región y IX a X Regiones, sobre el recurso hidrobiológico Jibia o Calamar rojo, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum técnico citado en Visto de la resolución extractada.
+
+Valparaíso, 24 de agosto de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
