@@ -54,7 +54,7 @@ II-. TERMINAL DE BUSES UBICADO EN JANUARIO ESPINOSA Nº 848
 
 1-. Servicios de locomoción colectiva provenientes de Colbún e intermedios.
 
-Acceso: Ruta L 35 - Arturo Prat - Maipú - Januario Espinosa - Carmen - Januario Espinosa - Terminal.
+Acceso: Ruta L 35 - Arturo Prat - Maipú - Januario Espinosa - Terminal.
 
 Salida: Terminal - Januario Espinosa - Avda. Presidente Ibáñez - Arturo Prat - Ruta L 35.
 
