@@ -1,0 +1,9 @@
+CERTIFICADO
+
+El Banco Central de Chile, en conformidad con lo dispuesto en el Nº 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, certifica que la Tasa de Interés Promedio (TIP) de captación para operaciones reajustables de entre 90 y 365 días, correspondiente a la primera quincena de agosto de 2012, fue de 3,83% anual.
+
+Se deja constancia que la certificación antedicha respecto de la TIP quincenal de captación para operaciones reajustables de 90 a 365 días, corresponde a la última publicación de dicha Tasa que se efectúa en el Diario Oficial conforme a lo previsto en el Nº 5 del Capítulo IV.B.8.1 del Compendio de Normas Financieras, al ser derogado dicho Capítulo por el Acuerdo de Consejo Nº 1681-01-120524, lo que rige a contar del día 27 de agosto en curso. Del mismo modo, se informa que también se deja de publicar en el Diario Oficial la TIP mensual de captación para operaciones reajustables de 90 a 365 días, por cuanto ya no se aplica dicha tasa a operaciones vigentes del Banco Central de Chile.
+
+En todo caso, se comunica que el Banco continuará compilando y publicando la información antedicha en los términos previstos en el artículo 53 de su Ley Orgánica Constitucional y lo dispuesto por el Acuerdo de Consejo Nº 1493-02-090806, a la cual se puede acceder a través de su sitio web institucional, en la sección Estadísticas Económicas; Serie de Indicadores (Excel), sección Dinero y Banca, Tasa de interés, d) Tasas de interés promedio de captaciones y de colocaciones, en el link: http://www.bcentral.cl/estadisticas-economicas/seriesindicadores/xls/Tasa interes promedio.xls.
+
+Santiago, 28 de agosto de 2012.- Miguel Ángel Nacrur Gazali, Ministro de Fe.
