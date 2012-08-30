@@ -1,0 +1,39 @@
+LLAMA A CONCURSO EN CONDICIONES ESPECIALES PARA EL OTORGAMIENTO DE SUBSIDIOS HABITACIONALES DEL FONDO SOLIDARIO DE ELECCIÓN DE VIVIENDA, REGULADO POR EL DECRETO Nº 49, DE 2011, EN LA ALTERNATIVA DE POSTULACIÓN INDIVIDUAL, PARA OPERACIONES DE CONSTRUCCIÓN EN SITIO PROPIO EN ZONAS RURALES EN EL MES DE SEPTIEMBRE DEL AÑO 2012, EN LAS REGIONES QUE INDICA
+
+Santiago, 24 de agosto de 2012.- Hoy se resolvió lo que sigue:
+
+Núm. 6.850 exenta.- Visto:
+
+a) El DS Nº 49 (V. y U.), de 2011, que reglamenta el Programa Fondo Solidario de Elección de Vivienda, en especial lo dispuesto en el artículo 17, inciso cuarto, relativo a la realización de llamados a concurso en condiciones especiales, y en los artículos 1º y 2º transitorio, relativos a la postulación al Programa Fondo Solidario de Elección de Vivienda de familias postulantes del Capítulo Tercero del Programa Fondo Solidario de Vivienda regulado por el DS Nº 174 (V. y U.), de 2005;
+
+b) La resolución exenta Nº 214 (V. y U.), de fecha 9 de enero de 2012, y sus modificaciones, que autoriza efectuar llamados a postulación y/o comprometer recursos durante el año 2012 en el otorgamiento de subsidios habitacionales y señala el monto de los recursos destinados, entre otros, a la atención a través del programa regulado por el DS Nº 49 (V. y U.), de 2011, y
+
+Considerando:
+
+a) Que los artículos 1º y 2º transitorio del DS Nº 49 (V. y U.), de 2011, establecen un procedimiento de transición que beneficia, entre otros, a postulantes del Capítulo Tercero del Programa Fondo Solidario de Vivienda, regulado por el DS Nº 174 (V. y U.), de 2005, permitiéndoles postular a llamados del Fondo Solidario de Elección de Vivienda;
+
+b) Que existen familias que habitan en zonas rurales, que cuentan con proyectos de la tipología de Construcción en Sitio Propio de viviendas, cuyos proyectos fueron ingresados a los respectivos Serviu de acuerdo al procedimiento señalado en el Considerando anterior, y que es necesario atender, dicto la siguiente
+
+Resolución:
+
+1. Llámase a concurso en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa Fondo Solidario de Elección de Vivienda, en la alternativa de postulación individual, en la tipología de Construcción en Sitio Propio en zonas rurales, para postulantes individuales provenientes del Capítulo Tercero del Programa regulado por el DS Nº 174 (V. y U.), de 2005, de acuerdo a lo dispuesto en los artículos 1º y 2º transitorios del DS Nº 49 (V. y U.), de 2011, en las Regiones de Atacama, Coquimbo, Valparaíso, L.B. O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos, Aysén, Magallanes y Metropolitana.
+
+2. Sólo podrán postular a este llamado especial los postulantes que hayan ingresado sus antecedentes al Banco de Proyectos regulado por el Capítulo Tercero del DS Nº 174 (V. y U.), de 2005, a quienes aplique el procedimiento establecido en los artículos 1º y 2º transitorio del DS Nº 49 (V. y U.), de 2011, que cumplan con las condiciones especiales que señala esta resolución, y cuyas postulaciones se encuentren vigentes al 13 de septiembre de 2012.
+
+3. Los recursos involucrados por región del país para la selección de los postulantes al presente concurso en condiciones especiales son los siguientes:
+
+.
+
+4. El número de postulantes seleccionados en cada Región alcanzará hasta el número de subsidios susceptibles de financiar con los recursos previstos en la tabla inserta en el Resuelvo anterior, incluidos sus respectivos servicios de asistencia técnica, inspección técnica de obra y los subsidios complementarios si corresponde, pudiendo practicarse redistribuciones que serán sancionadas mediante resolución.
+
+5. Para los efectos de determinar el número de subsidios a financiar se considerarán los montos de subsidio referenciales de los proyectos a los cuales se encuentran vinculados los postulantes, incluidos sus respectivos servicios de asistencia técnica e inspección técnica de obras. El monto definitivo a considerar para la aplicación del subsidio será determinado al momento de la Calificación Definitiva del proyecto y de la adscripción a éste por parte del postulante seleccionado.
+
+6. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+
+> **Nota.** El Número 1 de la Resolución 8770 Exenta, Vivienda, publicada el 07.11.2012, modifica la presente norma en el sentido de reemplazar la tabla inserta en el resuelvo 2 por la que en ella señala, no obstante no existir tabla en el número 2, si no que en el número 3.
+
+> **Nota.** NOTA 1 El Número 1 de la Resolución 6247 Exenta, Vivienda, publicada el 03.09.2013, modifica la presente norma en el sentido de reemplazar en la Tabla inserta en el Resuelvo 1., la fila correspondiente a "Región de la Araucanía" y "Total País", por la que en ella señala, no obstante no existir tabla en el número 1, si no que en el número 3.
+
+Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
