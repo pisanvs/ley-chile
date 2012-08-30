@@ -1,0 +1,21 @@
+APRUEBA ENMIENDA N° 2 AL PLAN REGULADOR COMUNAL CONSTITUCIÓN
+
+Núm. 3.208/L exento.- Constitución, 23 de agosto de 2012.- Vistos y considerando: El Plan Regulador Comunal de Constitución, aprobado mediante decreto alcaldicio Nº 19/E de 6 de abril de 1987; el decreto Nº 189 del 4 de diciembre de 1987 del Ministerio de Vivienda y Urbanismo, y publicado en el Diario Oficial con fecha 6 de febrero de 1988; el acuerdo del Honorable Concejo Municipal Nº 337 del 25 de agosto de 2010, que aprueba la realización de una enmienda al Plan Regulador Vigente; el decreto exento Nº 2071/L de fecha 30 de mayo de 2012 que promulga la realización de la enmienda para el Plan Regulador de Constitución; el oficio Nº 921 del 1 de junio de 2012 dirigido a las organizaciones territoriales afectadas por la propuesta de la Enmienda al Plan Regulador Comunal de Constitución; los certificados Nº 56 y 57 de la Secretario Municipal que hay dos organizaciones que no operan, una por no contar con Directiva vigente y la otra no se encuentra en funcionamiento; las publicaciones efectuadas con fecha 9 y 12 de junio de 2012 en el Diario El Centro de la VII Región, informando la realización de dos audiencias públicas que señala también la exposición al público y la fecha límite para recibir observaciones en relación a la Enmienda; la primera Audiencia Pública realizada el 13 de junio de 2012. La segunda audiencia pública realizada el 12 de julio de 2012; el certificado Nº 91 del 01 de fecha 1 de agosto de 2012 de la Secretaría Municipal que da cuenta que no se formularon consultas durante el periodo de exposición al público; el certificado Nº 96 de fecha 1 de agosto de 2012 de la Secretaría Municipal que acredita la que el Consejo Económico y Social ha sido sustituido por el Consejo Comunal de Organizaciones de la Sociedad Civil de la Municipalidad de Constitución y que no ha sido constituido; el memorándum Nº 478 del 1 de agosto de la Dirección de Obras en que Informa al Concejo Municipal que no hubo consultas de la ciudadanía a la Enmienda; el memorándum Nº 486 del 6 de agosto de 2012 de la Dirección de Obras mediante el cual se solicita se dicte el decreto alcaldicio aprobatorio de la Enmienda; Acuerdo Nº 490 del H. Concejo Municipal, adoptado en sesión ordinaria Nº 28, de fecha 22 de agosto de 2012 Nº 490, que aprueba en forma definitiva el proyecto de enmienda del Plan Regulador de Constitución; la Ley General de Urbanismo y Construcciones, especialmente sus artículos 43 y 45; decreto supremo Nº 47, de 1992, con sus posteriores modificaciones, Ordenanza General de Urbanismo y Construcciones, especialmente sus artículos 2.1.11 y 2.1.13; la ley Nº 18.695, Orgánica Constitucional de Municipalidades y sus modificaciones, en especial sus artículos 15, 21 y 63; y las facultades propias de mi cargo:
+
+Decreto:
+
+Apruébese la enmienda al Plan Regulador Comunal de Constitución, conformado por su memoria explicativa elaborado por el Director de Obras Municipales, texto resolutivo y tabla de zona afectada, cuyos ejemplares se entienden forman parte integrante del presente decreto alcaldicio y en consecuencia incorpórense las rectificaciones y enmiendas que se exponen a continuación:
+
+Increméntese en un 20% la altura de edificación continua para la zona Z1 de manera que donde dice 7,00 mt. debe decir 8,40 mt.
+
+Reemplácese el guarismo correspondiente en la Ordenanza Local del Plan Regulador de Constitución, por el aprobado en el presente decreto alcaldicio.
+
+Remítase copia oficial del presente decreto alcaldicio junto a la Memoria Explicativa y tabla a la Secretaría Regional Ministerial de Vivienda y Urbanismo VII Región del Maule, y a la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo.
+
+Archívese en el Conservador de Bienes Raíces de Constitución y en la Municipalidad de Constitución.
+
+Publíquese por la Dirección de Administración y Finanzas en el Diario Oficial el presente decreto alcaldicio, cuyos gastos serán de cargo de la I. Municipalidad de Constitución, así como en la página web del municipio.
+
+Impútese el gasto resultante a la cuenta Nº 215.22.07.001, "Servicios de publicidad", del presupuesto municipal vigente 2012.-
+
+Hugo Tillería Torres, Alcalde.- Alda Véliz Syfrig, Secretario Municipal.
