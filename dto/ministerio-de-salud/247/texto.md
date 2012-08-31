@@ -110,15 +110,15 @@ o salpingectomía 75%
 
 GRUPO 25 PAGO ASOCIADO A DIAGNOSTICO (PAD)
 
-25-01-001 Colelitiasis 40%
+25-01-001 Colelitiasis 50%
 
 25-01-002 Apendicitis 37,5%
 
 25-01-003 Peritonitis 40%
 
-25-01-004 Hernia abdominal simple 40%
+25-01-004 Hernia abdominal simple 50%
 
-25-01-005 Hernia abdominal complicada 40%
+25-01-005 Hernia abdominal complicada 50%
 
 25-01-006 Tumor maligno de estómago 40%
 
@@ -128,27 +128,27 @@ GRUPO 25 PAGO ASOCIADO A DIAGNOSTICO (PAD)
 
 25-01-009 Parto 75%
 
-25-01-010 Embarazo ectópico 40%
+25-01-010 Embarazo ectópico 50%
 
 25-01-014 Enfermedad crónica de las
 
-amígdalas 40%
+amígdalas 50%
 
-25-01-015 Vegetaciones adenoides 40%
+25-01-015 Vegetaciones adenoides 50%
 
-25-01-016 Hiperplasia de la próstata 40%
+25-01-016 Hiperplasia de la próstata 50%
 
-25-01-017 Fimosis 40%
+25-01-017 Fimosis 50%
 
-25-01-018 Criptorquidia 40%
+25-01-018 Criptorquidia 50%
 
 25-01-019 Ictericia del recién nacido 40%
 
-25-01-021 Pago asociado a cataratas 40%
+25-01-021 Pago asociado a cataratas 50%
 
 25-01-022 Trasplante renal 26,6%
 
-25-01-026 Prolapso anterior o posterior 40%
+25-01-026 Prolapso anterior o posterior 50%
 
 25-01-027 Tumores y/o quistes
 
@@ -160,7 +160,7 @@ intracraneanos 18%
 
 25-01-030 Hernia del núcleo pulposo
 
-(cervical, dorsal, lumbar) 20%
+(cervical, dorsal, lumbar) 50%
 
 GRUPO 28 PAGO ASOCIADO A EMERGENCIA
 
