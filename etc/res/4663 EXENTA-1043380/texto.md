@@ -1,0 +1,7 @@
+RECTIFICA RESOLUCIÓN Nº 3.746 EXENTA, DE 2010
+
+NOTIFICACIÓN
+
+Resolución exenta 4.663 de 23 de agosto de 2012, Serviu Región del Biobío rectifica resolución exenta 3.746 de 7 de diciembre de 2010, que ordenó expropiación total de un inmueble ubicado en Pasaje 2 N° 125, Rol de Avalúo Nº 1326-33, de la comuna de Penco, de aparente dominio de Teresa del Rosario Carvajal Arriagada, se encuentra afecto a expropiación total para la ejecución de la reconstrucción de la población Villa Esperanza, comuna de Penco. La superficie afecta a expropiación es de 159,9 m2. de terreno correspondiente al lote 21 Manzana B según plano S8R-26.320, en orden a señalar que se rectifica en su resuelvo 1º en el siguiente sentido: donde dice "S8R 26.320", debe decir: "S8R 26.320-1" y donde dice "Norte: En tramo A-B en 8,2 mts. con Lote N° 20 Manzana B; Sur: En tramo C-D en 19,5 mts. con Lotes 5, 6 y 7 Manzana B; Oriente: En tramo B-C en 13,2 mts. con Lote 2 Manzana B; Poniente: En tramo D-A en 13,2 mts. con Lote 20 Manzana B." debe decir: "Norte: En tramo A-B en 19,5 m. (6,5 m. con Pje. 2 y 13 m. con lote 22); Sur: En tramo C-D en 19,5 m. con Lotes 5, 6 y 7 (6,5 m con lote 5, en 6,5 con lote 6 y 6,5 m. con lote 7); Oriente: En tramo B-D en 8,2 m. con Lote 2; Poniente: En tramo A-C en 8,2 m. con Lote 20.", conforme artículo 51 ley Nº 16.391 y DL Nº 2.186.
+
+Director Serviu Región del Biobío.
