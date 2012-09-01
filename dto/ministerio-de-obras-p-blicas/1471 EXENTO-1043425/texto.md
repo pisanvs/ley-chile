@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1471, de fecha 31 de julio de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº34, superficie 914 m2, rol Nº2114-81, para la obra "MEJORAMIENTO RUTA V-815, TRAMO: BIF. ILQUE-CRUCE RUTA V-85", Comuna de Puerto Montt, X Región de Los Lagos. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietaria AGRUPACIÓN DE PEQUEÑOS PRODUCTORES AGRÍCOLAS HUELMO ILQUE, en la cantidad de $3.340.260, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
