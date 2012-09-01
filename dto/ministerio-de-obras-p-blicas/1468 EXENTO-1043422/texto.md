@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1468, de fecha 31 de julio de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 1.600 m2, rol Nº246-95, para la obra "PASARELA HUAMAQUI CAMINO CHOL-CHOL – HUAMAQUI, SECTOR HUAMAQUI KM. 25,78295 – KM. 25,87080", Comuna de Galvarino, Provincia de Cautín, Región de la Araucanía. La Comisión de Peritos integrada por César Nolberto Campos Vegara, Pablo Alejandro Sepúlveda Gómez y Evaldo Roberto Contreras Roa, fijó el valor de tasación con fecha 31 de marzo de 2010, acordándose la indemnización con sus propietario ELIAS ANSELMO SUAZO FABRES, en la cantidad de $2.037.099, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
