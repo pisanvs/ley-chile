@@ -1,0 +1,3 @@
+Por Decreto (E) MOP Nº1555, de 09 de agosto de 2012, se dejó sin efecto el Decreto MOP Nº78, de 19 de febrero de 2003, el cual ordenó la expropiación del lote Nº140L4, expropiado para la obra "PROYECTO LINEA 4, SECTOR: A. VESPUCIO – PTE. ALTO", por haberse convenido una servidumbre subterránea voluntaria a favor de la Empresa de Transporte de Pasajeros Metro S.A.
+
+Fiscal del Ministerio de Obras Públicas.
