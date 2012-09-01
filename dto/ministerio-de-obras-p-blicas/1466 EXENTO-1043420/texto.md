@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1466, de fecha 31 de julio de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno N°s. 1 y 1-A, superficies 508 y 1.212 m2., rol Nº18-204, para la obra "CONSTRUCCIÓN PUENTE HACIENDA LOLOL, KM. 0,00000 A KM. 1,88000", comuna de Lolol, VI Región. La comisión de peritos, integrada por Manuel Díaz Farfan, Eduardo Schonhaut Guendelman y Hugo Leal Paredes, fijó el valor de tasación con fecha 25 de noviembre de 2010, acordándose la indemnización con su propietario GONZALO MUJICA ORTUZAR, en la cantidad de $8.775.455, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
