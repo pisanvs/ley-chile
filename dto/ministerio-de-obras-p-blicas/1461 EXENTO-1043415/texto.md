@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1461 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 24-B2 y 26, superficies 935 y 94 m2, rol de Avalúo Nº162-155, comuna de Puerto Octay, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320". La Comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, JUAN CELESTINO GIOVANNINI MANSILLA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 8 de octubre de 2010 y 12 de marzo de 2009, acordándose la indemnización con sus propietarios TERESITA ZUNILDA CUETO RAMÍREZ Y OTRA, en la cantidad de $4.116.415.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
