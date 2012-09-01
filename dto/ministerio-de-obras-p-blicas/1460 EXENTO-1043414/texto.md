@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1460 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 100-B Y 102-A, superficies 4.798 y 61 m2, rol de Avalúo Nº1451-4, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320". La Comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, JUAN CELESTINO GIOVANNINI MANSILLA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 20 de abril de 2011, acordándose la indemnización con su propietario MARTÍN SALDIVIA DÍAZ, en la cantidad de $16.606.797.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
