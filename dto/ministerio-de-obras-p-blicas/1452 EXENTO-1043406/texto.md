@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1452 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 9 y 11, superficies 866 y 1.834 m2, rol de Avalúo Nº84-13, comuna de Doñihue, para la obra "REPOSICIÓN PUENTE COINCO, COMUNAS DE COINCO Y DOÑIHUE". La Comisión de peritos, integrada por NORMAN CALDERÓN PONTIGGIA, OSCAR NAVEA MUÑOZ Y MARÍA ISABEL DE JESÚS RÍOS MARCUELLO, fijó el valor de tasación con fecha 1 de agosto de 2011, acordándose la indemnización con su propietario PEDRO SEGUNDO ACEVEDO BLAKE, en la cantidad de $8.673.807.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
