@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1467, de fecha 31 de julio de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº48, superficie 162 m2., rol Nº41-177, para la obra "MEJORAMIENTO RUTA I-70-J, SECTOR LOLOL - RANGUIL, KM. 0,00000 A KM. 19,38878", comuna de Lolol, Provincia de Colchagua, VI Región. La comisión de peritos, integrada por Manuel Díaz Farfan, Patricio Casagrande Ulloa y Orlando Fariña Vásquez, fijó el valor de tasación con fecha 20 de mayo de 2009, acordándose la indemnización con su propietaria ELSA DEL CARMEN MUÑOZ CASTRO, en la cantidad de $727.357, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
