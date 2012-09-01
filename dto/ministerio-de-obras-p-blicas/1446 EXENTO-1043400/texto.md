@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1446 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 24, 28 y 29, superficies 92, 846 y 717 m2, rol de Avalúo Nº20-26, comuna de Coinco, para la obra "REPOSICIÓN PUENTE COINCO, COMUNAS DE COINCO Y DOÑIHUE". La Comisión de peritos, integrada por NORMAN CALDERÓN PONTIGGIA, OSCAR NAVEA MUÑOZ Y MARÍA ISABEL DE JESÚS RÍOS MARCUELLO, fijó el valor de tasación con fecha 1 de agosto de 2011, acordándose la indemnización con su propietario CÉSAR RAMÓN SILVA GALAZ, en la cantidad de $7.704.564.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
