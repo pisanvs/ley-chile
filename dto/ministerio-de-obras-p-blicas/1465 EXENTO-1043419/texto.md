@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1465 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº14-B, superficie 1.837 m2, rol de Avalúo Nº281-96, comuna de San Javier, para la obra "CAMINO MEJORAMIENTO RUTA 126 LOS CONQUISTADORES, SECTOR 1 CRUCE RUTA L-30-M-CARRIZAL, TRAMO KM. 0,50000 A KM. 17,34000". La Comisión de peritos, integrada por PATRICIO DURÁN MARCOS, NELSON RAMÍREZ RAMÍREZ Y RODRIGO SILVA LAZO Y CARLOS VEGA RIVAS, fijó el valor de tasación con fecha 29 de julio de 2008, acordándose la indemnización con su propietaria VIÑA ALQUIHUE S.A., en la cantidad de $3.381.611.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
