@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1444 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 598 m2, rol de Avalúo Nº246-152, comuna de Galvarino, para la obra "PASARELA CORRIENTES BLANCAS, CAMINO CHOL-CHOL HUAMAQUI, SECTOR MADILHUE – REPOCURA, KM. 28,78220 AL KM. 29,04360". La Comisión de peritos, integrada por PABLO ALEJANDRO SEPULVEDA GÓMEZ, EVALDO ROBERTO CONTRERAS ROA Y CÉSAR NOLBERTO CAMPOS VERGARA, fijó el valor de tasación con fecha 31 de marzo de 2010, acordándose la indemnización con su propietaria OLGA OLIVIA CONTRERAS SAEZ, en la cantidad de $4.045.160.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
