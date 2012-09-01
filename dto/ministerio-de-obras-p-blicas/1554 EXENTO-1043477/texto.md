@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (Exento) Nº1554 de 9 de agosto de 2012, se dejó sin efecto la expropiación del lote de terreno N°6, ordenado mediante Decreto MOP. (Exento) N°827 de 25 de junio de 2010, para la obra "CONSTRUCCIÓN SOLUCIÓN SANEAMIENTO SECTOR GABRIELA MISTRAL", Comuna de Los Ángeles, Provincia del Bío Bío. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
