@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1455, de fecha 31 de julio de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº46-B, superficie 5.047 m2, rol Nº1451-35, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS- ENSENADA, KM. 31,33730 A KM. 50,60320", Comuna de Puerto Varas, X Región. La Comisión de Peritos integrada por Carlos Eugenio Mera Santibáñez, Juan Celestino Giovannini Mansilla y Nelson Bernardo Turra Turra, fijó el valor de tasación con fecha 20 de abril de 2011, acordándose la indemnización con sus propietarios VINZENZ EWALD HOFMANN GAETE Y OTROS, en la cantidad de $21.838.739, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
