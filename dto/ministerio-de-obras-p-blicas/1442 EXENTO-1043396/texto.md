@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1442 de 31 de julio de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº204, superficie 478 m2, rol de Avalúo 3900-08, comuna de Quilpué, para la obra "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO – QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", V Región. La Comisión de Peritos integrada por María Isabel Ríos Marcuello, Marcela Redard Ayala y Juan Pablo Navarro Rachow, fijó el valor de tasación con fecha 10 de diciembre de 2010, acordándose el valor de la indemnización con su propietario, HUMBERTO ENRIQUE ESPINOZA RUÍZ, en la cantidad de $4.065.810.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
