@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1445 de 31 de julio de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº18, superficie 255,58 m2, rol de Avalúo Nº429-36, comuna de Ancud, para la obra "AMPLIACIÓN REPOSICIÓN RUTA 5 CHILOÉ, SECTOR BIF. PUENTE BICENTENARIO – BIF. PUPELDE TRAMO 8 VARIANTE ANCUD X REGIÓN". La Comisión de peritos, integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIO FERNANDO CASAGRANDE ULLOA Y NORMAN ESTANISLAO CALDERÓN PONTIGGIA, fijó el valor de tasación con fecha 8 de septiembre de 2008, acordándose la indemnización con su propietario JOSÉ PATRICIO ALMONACID GUENTELICAN, en la cantidad de $31.826.116.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
