@@ -3186,15 +3186,15 @@ El portador del cheque puede ser el propio girador que lo pudo haber extraviado 
 
 12.4. Forma de dar la orden de no pago o revocación de un cheque.
 
-Las órdenes de no pago a que se refieren los numerales precedentes, deberán darse por el librador o el portador del cheque, según sea el caso, por un medio fidedigno. Para este efecto se considera un medio fidedigno el servicio telefónico que para ese fin debe tener habilitado el banco. Ese servicio deberá contar con un medio que le permita al banco identificar al usuario, cuando éste sea el librador del cheque. Sin perjuicio de mantener en forma permanente ese servicio, los avisos de no pago pueden darse también por escrito, sea por carta o mediante formularios que para ese fin disponga el banco, como también por fax, o a través de correo electrónico u otro medio que se tenga habilitado y que opere en forma permanente.
+Las órdenes de no pago a que se refieren los numerales precedentes, deberán darse siguiendo alguna de las siguientes modalidades:
 
-En todo caso, el servicio telefónico o cualquier otro medio de comunicación remota que se utilice, deberá estar habilitado en forma permanente, durante las 24 horas y todos los días del año, esto es incluidos los inhábiles bancarios y festivos. Estos servicios deben ser gratuitos.
+a) Mediante la concurrencia del librador o del portador de un cheque, según sea el caso, a una oficina del banco librado, en horario de atención al público, dejando constancia escrita y firmada de su orden o aviso. El banco deberá entregarle la constancia de recepción, indicando la hora en que quedó registrada.
 
-La ley dispone que el banco librado, receptor de una orden de no pago, deberá registrarla e identificarla mediante un número o código de recepción, dejando constancia de la fecha y hora en que fue recibida, datos que se comunicarán al librador o al portador, según corresponda, en el momento en que se proceda al registro del respectivo aviso.
+b) Utilizando el servicio gratuito de comunicación que, de acuerdo con lo prescrito en artículo 26 de la Ley sobre Cuentas Corrientes Bancarias y Cheques, el banco debe tener habilitado en forma permanente, durante las 24 horas y todos los días del año, esto es incluidos los inhábiles bancarios y festivos.
 
-Si el librador o el portador de un cheque no dispone de una clave de acceso que lo identifique para dar un aviso de no pago por vía telefónica o por un medio electrónico, deberá ratificar su instrucción ante el banco librado hasta las diez horas del día hábil bancario inmediatamente siguiente.
+Los servicios que el banco habilite para estos efectos, como es el caso de la atención telefónica o el acceso por Internet a sistemas automatizados, se consideran un medio fidedigno para los efectos previstos en la ley, cuando permiten al banco librado identificar al usuario y, por lo tanto, dar curso de inmediato a la orden de no pago sin que medien ratificaciones o verificaciones posteriores.
 
-En el caso de aquellas órdenes de no pago impartidas por el portador de un cheque, por cualquiera de los medios antes indicados, el banco librado suspenderá el pago del documento por diez días a contar de la fecha en que reciba el aviso correspondiente. Dicha suspensión podrá quedar sin efecto si dicho portador no hubiere ratificado la orden, según lo señalado en el párrafo precedente.
+Para el efecto la ley dispone que el banco librado, receptor de una orden de no pago, deberá registrarla e identificarla mediante un número o código de recepción, dejando constancia de la fecha y hora en que fue recibida, datos que deben ser informados al usuario en el mismo momento en que se dé la orden de no pago.
 
 ### 13. Protesto de cheques
 
@@ -5262,9 +5262,9 @@ Los bancos se ceñirán a las siguientes instrucciones en relación con los plaz
 
 La retención para los valores en cobro en moneda chilena correspondientes a cheques y otros documentos de cargo de otras instituciones del país, se aplicará de acuerdo con lo siguiente:
 
-a) Cuando se trate de documentos de cargo de instituciones que tienen presencia en la misma plaza en que fueron depositados, o en plazas distintas que concurren a la misma localidad de cámara, la retención se aplicará el día en que se efectúe el depósito y durante el siguiente día hábil bancario, hasta el término del proceso de la segunda reunión de la cámara de compensación o de cobro, según sea el caso.
+a) Cuando se trate de documentos de cargo de instituciones que tienen presencia en la misma plaza en que fueron depositados, o en plazas distintas que concurren a la misma localidad de cámara, la retenci*ón se aplicará hasta la hora en que, en el día hábil bancario siguiente, se obtenga la conformidad de pago por la exclusión del respectivo documento de las listas de devoluciones, informadas por el banco librado en el ciclo de la cámara de compensación.
 
-b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la misma plaza en que fueron depositados, ni en plazas que concurren a la misma localidad de cámara, el plazo máximo de retención será de tres días hábiles bancarios, incluido el día en que se reciben en depósito.
+b) Al tratarse de documentos que sean de cargo de instituciones que no tienen presencia en la misma plaza en que fueron depositados, ni en plazas que concurren a la misma localidad de cámara, la retención máxima incluirá dos días hábiles bancarios adicionales al tiempo indicado en la letra a) precedente.
 
 No obstante lo anterior, las oficinas bancarias situadas en las siguientes localidades, podrán extender la retención por el tiempo estrictamente necesario para efectuar el cobro, debiendo informar apropiadamente a sus depositantes acerca del mayor plazo que deben aplicar por razones de su aislamiento geográfico:
 
@@ -5300,7 +5300,7 @@ No obstante lo anterior, las oficinas bancarias situadas en las siguientes local
 
 - Puerto Williams
 
-Para la retención sobre valores en cobro correspondientes a documentos en moneda extranjera de cargo de otros bancos del país, se aplicará el plazo de retención señalado en la letra a) de este numeral, salvo que se trate de documentos que no pueden presentarse en la cámara de compensación de Santiago según lo indicado en el Capítulo 5-1 de esta Recopilación.
+Para la retención sobre valores en cobro correspondientes a documentos en moneda extranjera de cargo de otros bancos del país, el tiempo de la retención durará hasta el término del proceso de la segunda reunión de la cámara de compensación que debe realizarse el día hábil bancario siguiente, salvo que se trate de documentos que no pueden presentarse en la cámara de compensación de Santiago según lo indicado en el Capítulo 5-1 de esta Recopilación.
 
 En aquellos casos en que el cobro de los documentos se haga efectivo en plazos inferiores a los señalados en este numeral, la institución depositaría deberá, desde el momento en que recibe el reembolso, permitir al depositante disponer del respectivo importe.
 
@@ -5680,9 +5680,9 @@ Entre los documentos en moneda extranjera que se presenten para ser pagados por 
 
 Si un banco opta por no cobrar por intermedio de la Cámara de Compensación los documentos que posea a cargo de otros bancos, como asimismo si un banco, por circunstancias excepcionales, no concurre a alguna de las reuniones teniendo valores por cobrar de otros bancos, los reembolsos correspondientes puede hacerlos el banco obligado al pago, a su elección, ya sea mediante vale vista, vale de cámara, cheque contra su cuenta corriente bancaria o bien en dinero efectivo.
 
-2. Retención sobre depósitos efectuados con documentos a cargo de otros bancos.
+2. Retenciones sobre depósitos efectuados con documentos a cargo de otros bancos.
 
-Los bancos no podrán extender más allá del término del proceso de la segunda reunión los plazos de retención sobre los depósitos efectuados con los documentos presentados para su procesamiento en el correspondiente ciclo de cámara, lo que determina los plazos de retención para los documentos a cargo de otros bancos, señalados en el Capítulo 3-1 de esta Recopilación, que se cobren por intermedio de las Cámaras de Compensación.
+Los plazos de retención sobre los depósitos efectuados con los documentos presentados a cobro en el correspondiente ciclo de cámara, no podrán ser extendidos más allá del término de los procesos establecidos en cumplimiento de las normas del Banco Central de Chile, para el canje de documentos en moneda chilena o extranjera, según corresponda.
 
 3. Documentos a cargo de bancos que no tienen presencia en las plazas concurrentes. Servicio de corresponsalía.
 
