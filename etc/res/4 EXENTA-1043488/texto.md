@@ -1,0 +1,5 @@
+Por resolución exenta Nº 4, de 22 de agosto de 2012, de esta Subsecretaría, autorízase a UNIVERSIDAD CATÓLICA DE CHILE y al CLUB DE PESCA LICAN RAY para efectuar hasta el 31 de diciembre de 2013, el repoblamiento de 50.000 (cincuenta mil) ejemplares de alevines de Trucha arcoiris (Oncorhynchus mykiss) en las cuencas de los ríos Valdivia y Bueno, de la XIV Región, en los puntos y cantidades señaladas en la resolución extractada.
+
+El objetivo principal del repoblamiento, que por la presente resolución se autoriza, consiste en la captura de hasta 300 ejemplares reproductores y liberación de 50.000 alevines de Trucha arcoiris (Oncorhynchus mykiss) para suplementar la población natural de salmónidos de importancia para la pesca recreativa en las cuencas de los ríos Valdivia y Bueno.
+
+Puerto Montt, 22 de agosto de 2012.- Pedro Brunetti Barroso, Director Zonal de Pesca X Región.
