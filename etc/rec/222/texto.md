@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.346, de 25 de agosto del 2012, se publicó extracto de decreto alcaldicio Nº 1.723 exento, de 2012, sobre "Estacionamientos Controlados en las Vías Públicas de la Comuna", con el error que salva a continuación: I Cuerpo, página siete, tercera columna: donde dice "... , se fija el texto refundido, y sistematizado de la ordenanza Nº 9, de 28 de diciembre de 2003, ...", debe decir "... , se fija el texto refundido, y sistematizado de la Ordenanza Nº 9, de 22 de octubre de 2003, ...".
