@@ -64,7 +64,7 @@ Herramienta informática interna del Servicio de Aduanas, que cumple con el obje
 
 ### 5. Leasing
 
-Contrato entre un arrendatario y un arrendador, en el cual el primero cede los derechos de uso de un bien al segundo, el cual le paga una cuota por su utilización, teniendo derecho de compra a la adquisición del elemento al finalizar el plazo convenido de uso.
+ELIMINADO.
 
 II DISPOSICIONES GENERALES
 
@@ -846,7 +846,9 @@ Margen: Superior 10 mm. Izquierdo 20 mm.
 
 4) En todo caso, al utilizarse el sistema MIC-WEB para la confección de los formularios, estos se generarán en formato pdf el cual permitirá su impresión en papel blanco común y corriente con tamaño y especificaciones relativas a los márgenes variable dependiendo de la configuración del usuario. Estos formularios serán perfectamente válidos para Aduana siempre y cuando se guarde la debida preocupación de asemejarse lo más posible a lo señalado en el punto 1 anterior y que la información contenida en dichos documentos sea legible. Además, si los formularios de los MIC/DTA son obtenidos desde este sistema Web, no será necesario cumplir con lo especificado en el punto 2 anterior.
 
-VER DIARIO OFICIAL DE 28.09.2009, PÁGINA 10.
+ANVERSO MIC/DTA
+
+REVERSO MIC/DTA
 
 ANEXO 2
 
