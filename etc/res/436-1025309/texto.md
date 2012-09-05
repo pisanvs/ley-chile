@@ -54,6 +54,68 @@ Departamento Secretaría General
 
 2) Dictar Órdenes del Día, indicando al personal que integrará el turno semanal en la Región Metropolitana, para situaciones de emergencia, a proposición del Departamento respectivo.
 
+3) Adquirir, ejecutar actos y celebrar contratos en
+
+los términos previstos en la letra v) de la ley Nº
+
+16.752, hasta 400 UTM y dictar las resoluciones que
+
+aprueben dichos contratos, entendiéndose incluida
+
+en esta facultad todo el proceso de propuesta
+
+pública, privada o trato directo, según
+
+correspondiere; dictar las resoluciones que
+
+justifiquen la necesidad de recurrir a uno u otro
+
+sistema de contratación y la adjudicación de los
+
+respectivos contratos".
+
+4) Ejecutar los actos y celebrar los contratos que se
+
+requieran para la conservación, reparación y
+
+mantención de los bienes fiscales muebles e
+
+inmuebles; aseo; jardines y otros servicios
+
+auxiliares y dictar las resoluciones que aprueben
+
+dichos contratos, hasta 500 UTM, entendiéndose
+
+incluida en esta facultad todo el proceso de
+
+propuesta pública, privada o trato directo, según
+
+correspondiere; dictar las resoluciones que
+
+justifiquen la necesidad de recurrir a uno y otro
+
+sistema de contratación y la adjudicación de los
+
+respectivos contratos.
+
+5) Celebrar contratos de obra pública, entendiéndose
+
+incluido en esta facultad todo el proceso de
+
+propuesta pública, privada o trato directo, según
+
+correspondiere, y la adjudicación del contrato,
+
+hasta 200 UTM.
+
+6) Responder las solicitudes de información y dictar
+
+los demás actos administrativos durante el
+
+procedimiento de acceso a la información,
+
+establecido por la ley Nº 20.285
+
 Subdepartamento Museo Nacional Aeronáutico y del Espacio
 
 1) Adquirir, ejecutar actos y celebrar contratos en los términos previstos en la letra v) del artículo 3 de la ley Nº 16.752 hasta 400 UTM y dictar resoluciones aprobando dichos contratos.
@@ -250,11 +312,11 @@ Dirección Meteorológica de Chile
 
 Departamento Recursos Humanos
 
-1) Administrar los recursos del Fondo de Salud DGAC. (art. 37 de la ley Nº 16.752).
+1) SUPRIMIDO.
 
 2) Ordenar la instrucción de Investigaciones Sumarias Administrativas, para verificar la ocurrencia de accidentes en acto de servicio, por lesiones leves de los funcionarios de la Región Metropolitana, con excepción de la Zona Aeroportuaria Central, y dictar las resoluciones correspondientes tendientes a afinar el procedimiento.
 
-3) Establecer, mediante resolución fundada, la participación en cursos nacionales e internacionales de los funcionarios del Servicio y comprometer mediante el mismo documento, cuando corresponda, los fondos necesarios para solventar las diferentes acciones de capacitación.
+3) SUPRIMIDO.
 
 4) Conceder feriado legal y permiso hasta por seis días con goce de remuneraciones y autorizar las licencias médicas de los Directores grado 2) de la Planta Directiva del Servicio.
 
@@ -279,6 +341,22 @@ d) Autoricen licencias médicas del personal.
 2) Celebrar contratos de trabajo del personal auxiliar o de servicios menores, conforme a las disposiciones del Código del Trabajo, quedando expresamente facultado para convenir y establecer niveles de remuneraciones, como asimismo, poner término a dichos contratos y suscribir los respectivos finiquitos.
 
 3) Disponer el reembolso de pasajes y fletes en los términos previstos por el artículo 32 del Reglamento de Pasajes y Fletes de las Fuerzas Armadas.
+
+4) Administrar los recursos del Fondo de Salud, creado
+
+por el artículo 37 de la ley Nº 16.752.
+
+5) Establecer mediante resolución fundada la
+
+participación en cursos nacionales e
+
+internacionales de los funcionarios del Servicio y
+
+comprometer mediante el mismo documento, cuando
+
+corresponda, los fondos necesarios para solventar
+
+las diferentes acciones de capacitación
 
 Escuela Técnica Aeronáutica
 
