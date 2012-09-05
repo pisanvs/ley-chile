@@ -18,13 +18,11 @@ Resolución:
 
 3.- Fíjase el monto de Unidades de Fomento comprometidas por Región para el financiamiento de los subsidios establecidos en el Resuelvo precedente, correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Primero del Fondo Solidario de Vivienda, para el mes de Agosto de 2010, según se indica en la siguiente tabla:
 
-4.- Autorízase la aplicación de 1 subsidio en una región distinta de las que integran la zona de catástrofe y apruébase la nómina de 1 postulante seleccionada en concurso efectuado el día 31 de Agosto de 2010 para el otorgamiento de subsidios habitacionales correspondientes al llamado dispuesto por la resolución exenta N° 2.967 (V. y U.), de 2010, que eligió una región distinta de la que resultó damnificada para aplicar su subsidio, nómina que se adjunta y se entiende que forma parte integrante de esta resolución, según se indica en la siguiente tabla:
+4.- Autorízase la aplicación de 2 subsidios en una región distinta de las que integran la zona de catástrofe y apruébase la nómina de 2 postulantes seleccionadas en concurso efectuado el día 31 de Agosto de 2010 para el otorgamiento de subsidios habitacionales correspondientes al llamado dispuesto por la resolución exenta N° 2.967 (V. y U.), de 2010, que eligieron una región distinta de la que resultaron damnificadas para aplicar su subsidio, nómina que se adjunta y se entiende que forma parte integrante de esta resolución, según se indica en la siguiente tabla:
 
 5.- Fíjase el monto de Unidades de Fomento comprometidas por Región no damnificada para el financiamiento de los subsidios establecidos en el Resuelvo precedente, correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Primero del Fondo Solidario de Vivienda, para el mes de agosto de 2010, según se indica en la siguiente tabla:
 
 6.- Determínase el monto de Unidades de Fomento disponible para la selección que se efectuará en el mes de septiembre, de acuerdo a lo establecido mediante la resolución exenta N° 2.967 (V. y U.), de 2010, para las Regiones de Valparaíso, Libertador Bernardo O'Higgins, Maule, Bío Bío, Araucanía y Metropolitana correspondiente al llamado a concurso en condiciones especiales para operaciones de adquisición de viviendas construidas del Capítulo Primero del citado reglamento, según se indica en la siguiente tabla:
-
-> **Nota.** El Número 1º de la Resolución 7526 exenta, Vivienda, publicada el 20.11.2010, modifico la presente norma en el sentido de reemplazar en el cuadro del resuelvo número 6, en su última columna, la locución "octubre" por "septiembre".
 
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
