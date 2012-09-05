@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DE CAMBIO SUJETO DE DERECHO DE IVA A SOCIEDAD AGRÍCOLA GANADERA LOMAS DE MACAL LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución ex. N° 77312008326, de fecha 08/08/2012, otorga, a contar del 1° del mes siguiente al de esta publicación, al contribuyente Sociedad Agrícola Ganadera Lomas de Macal Limitada, RUT N°76.420.350-K, la calidad de Agente Retenedor del Impuesto al Valor Agregado en las ventas de ganado vivo, establecido en la resolución ex. Nº3.721, del 28 de julio de 2000 de la Dirección Nacional del Servicio de Impuestos Internos, publicada en el Diario Oficial el 1° de agosto de 2000.
