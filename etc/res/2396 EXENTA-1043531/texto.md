@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.396, de 30 de agosto de 2012, de esta Subsecretaría, modifícase el numeral 1° de la resolución exenta N° 2.271, de 2012, de esta Subsecretaría, que autorizó a CAMANCHACA PESCA SUR S.A., para continuar desarrollando actividades pesqueras extractivas, en el sentido de señalar que el nombre de la nave corresponde a "Antares" y no al que allí se indica.
+
+Valparaíso, 30 de agosto de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
