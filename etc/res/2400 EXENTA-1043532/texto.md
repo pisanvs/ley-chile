@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.400, de 30 de agosto de 2012, de esta Subsecretaría, modifícase el numeral 3° de la resolución exenta N° 1.445 de 2012, de esta Subsecretaría, que autorizó a AQUAOCEANA LIMITADA, para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Prospección del recurso Mesodesma donacium (Lamarck, 1818) o "macha" en las Playas de Punta Pangal a San Pedro de Nolasco, Playa Godoy y Playa Mar Brava de la comuna de Maullín", en el sentido de extender el plazo ahí indicado hasta el 31 de diciembre de 2012, inclusive.
+
+Valparaíso, 30 de agosto de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
