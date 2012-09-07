@@ -1,26 +1,34 @@
-ESTABLECE CRITERIOS Y CONDICIONES PARA ASIGNAR BECAS NACIONALES DE POSTGRADO, DE LA COMISIÓN NACIONAL DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA (CONICYT), AÑO 2010
+MODIFICA DECRETO Nº 335, DE 2010, QUE ESTABLECE CRITERIOS Y CONDICIONES PARA ASIGNAR BECAS NACIONALES DE POSTGRADO DE LA COMISIÓN NACIONAL DE INVESTIGACIÓN CIENTÍFICA Y TECNOLÓGICA
 
-Núm. 335.- Santiago, 20 de agosto de 2010.- Considerando:
+Núm. 325.- Santiago, 21 de septiembre de 2011.- Considerando:
 
-Que, la Comisión Nacional de Investigación Científica y Tecnológica es una corporación autónoma y funcionalmente descentralizada, con patrimonio propio y personalidad jurídica de derecho público, destinada a asesorar al Presidente de la República en el planeamiento, fomento y desarrollo de las investigaciones en el campo de las ciencias puras y aplicadas.
+Que, la Comisión Nacional de Investigación Científica y Tecnológica es una corporación autónoma y funcionalmente descentralizada, con patrimonio propio y personalidad jurídica de derecho público, destinada a asesorar al Presidente de la República en el planteamiento, fomento y desarrollo de las investigaciones en el campo de las ciencias puras y aplicadas.
 
-Que, la Comisión Nacional de Investigación Científica y Tecnológica, desde sus inicios ha financiado proyectos de investigación y desarrollo, lo que ha permitido lograr una sistematización de la información científica, permitiendo avanzar en la generación de conocimiento. Actualmente, tiene como principal orientación el fomentar la formación de capital humano avanzado, mediante el desarrollo y fortalecimiento de la base científica y tecnológica, propendiendo al desarrollo regional y la vinculación internacional inserta en el Sistema Nacional de Innovación. Se relaciona administrativamente con el Gobierno, a través del Ministerio de Educación.
+Que, la referida entidad, desde sus inicios ha financiado proyectos de investigación y desarrollo, lo que ha permitido lograr una sistematización de la información científica, permitiendo avanzar en la generación de conocimiento. Actualmente, se orienta por dos grandes objetivos o pilares estratégicos: El fomento de la formación de capital humano y el fortalecimiento de la base científica y tecnológica del país. A su vez, ambos pilares son potenciados de manera transversal por un área de información científica y una vinculación internacional inserta en el Sistema Nacional de Innovación. Se relaciona administrativamente con el Gobierno a través del Ministerio de Educación.
 
-Que, la Ley Nº 20.407, de Presupuestos del Sector Público para el año 2010, en su Partida 09, Capítulo 08, Programa 01, Subtítulo 24, Ítem 01, Asignación 221, denominada Becas Nacionales Postgrado, en su Glosa 07, establece respecto de las becas nacionales de postgrado que otorgue la Comisión Nacional de Investigación Científica y Tecnológica, que respecto de las nuevas becas que se asignen el año 2010, éstas se regirán en todo por lo que se establezca en un Decreto del Ministerio de Educación, suscrito además por el Ministerio de Hacienda, el que se dictará en el mes de diciembre del 2009.
+Que, para efectos de ejecutar la asignación presupuestaria Becas Nacionales de Postgrado, y en cumplimiento de la ley Nº 20.407, de Presupuestos del Sector Público para el año 2010, se dictó el decreto supremo Nº 335, de 2010 del Ministerio de Educación, que estableció los criterios y condiciones para el otorgamiento de Becas Nacionales de Postgrado de la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt), año 2010.
 
-Que, en cumplimiento de lo establecido en la citada Glosa 07, con fecha 28 de diciembre de 2009, el Ministerio de Educación, dictó el Decreto Supremo N° 479. Sin embargo, el mencionado decreto no pudo nacer a la vida jurídica, ya que, luego de pasar por las instancias administrativas necesarias para su tramitación en esta Secretaría de Estado, el cambio de Gobierno y Administración ocasionaron que las personas que inicialmente se encontraban facultadas e investidas por la Constitución Política de la República con la autoridad para la firma del respectivo decreto supremo en las otras instituciones que debían concurrir a su visación y suscripción, ya no ostentaban dichos cargos, lo que sumado a las instrucciones de dichas entidades, particularmente el Ord. (DJ) Nº 019, sobre la fecha de recepción de decretos para la firma de S.E. la Ex-Presidenta de la República, del Subsecretario del Ministerio Secretaría General de la Presidencia, de 7 de enero de 2010, en cuanto a fijar plazos para la firma de documentos, llevó a la imposibilidad de proseguir con su diligenciamiento administrativo hasta su total tramitación.
+Que, la Ley Nº 20.481, de Presupuestos del Sector Público para el año 2011 en su Partida 09, Capítulo 08, Programa 01, Subtítulo 24, Ítem 01, Asignación 221, denominada Becas Nacionales Postgrado, en su Glosa 07, estableció que respecto de las nuevas becas que se asignen, éstas se regirán en todo por lo que se establezca en el decreto Nº 335 del Ministerio de Educación de 2010 y sus modificaciones.
 
-Que los nuevos desafíos impuestos por el actual Gobierno de Chile en orden a priorizar la inversión en la formación de capital humano de excelencia, a través de la instauración de políticas públicas que permitan crear más instrumentos destinados a promover estudios de postgrado en Chile, están orientados a alcanzar un desarrollo científico y tecnológico que posibilite acortar las brechas existentes con los países desarrollados.
+Que, resulta esencial para la política pública en materia educacional incrementar el número de investigadores y la investigación de excelencia en nuestro país y dar acogida a la comunidad científica internacional que desea realizar estudios e investigación en Chile sumado a la necesidad de posicionar en el concierto internacional la calidad de las escuelas de postgrado chilenas. Ello permitirá, además, cimentar las bases de la reciprocidad internacional en el intercambio del conocimiento científico y de becas de postgrado.
 
-Que, en virtud de lo expresado precedentemente, el Ministerio de Educación debe dictar el presente Decreto Supremo a fin de dar cumplimiento a lo preceptuado en las normas anteriormente citadas.
+Que, en conformidad con el artículo 4º y 6º del decreto supremo Nº 491, de 1971, del Ministerio de Educación, y para el cumplimiento de los fines señalados en dicho cuerpo normativo, es necesario que el presente reglamento contemple la facultad de Conicyt para priorizar y/o restringir disciplinas y/o áreas de estudio y/o población de interés, con el objeto de orientar los instrumentos de política pública, de manera tal que los recursos públicos sean asignados de manera eficaz y eficiente en ámbitos donde se fomente el desarrollo económico, social y cultural de mayor impacto.
 
-Visto: Lo dispuesto en los artículos 32° N° 6° y 35° de la Constitución Política de la República; en el artículo 6° de la Ley Nº 16.746, de 1968; en el Decreto Supremo Nº 491, del Ministerio de Educación, de 1971; en el Decreto Ley Nº 116, de 1973; en el Decreto Ley Nº 668, de 1974; en la Ley Nº 20.407, de Presupuestos del Sector Público para el año 2010; en la Ley Nº 19.595, del Ministerio de Hacienda, del año 1998 y en la Resolución Nº 1.600, de la Contraloría General de la República, de 2008,
+Que, los nuevos desafíos impuestos por el Estado en orden a priorizar la inversión en la formación de capital humano de excelencia, a través de la instauración de políticas públicas que permitan promover estudios de postgrado en Chile, hacen necesario modificar el citado decreto supremo Nº 335, del año 2010, del Ministerio de Educación, respecto de las nuevas becas que se asignen con el objeto de optimizar el actual mecanismo de otorgamiento de becas nacionales; y
+
+Visto: Lo dispuesto en los artículos 32º Nº 6º y 35º de la Constitución Política de la República; en el artículo 6º de la ley Nº 16.746, de 1968; en el decreto supremo Nº 491, del Ministerio de Educación, de 1971; en el decreto ley Nº 116, de 1973; en el decreto ley Nº 668, de 1974; en la ley Nº 20.481, de Presupuestos del Sector Público para el año 2011; en el DFL Nº 1, de 1999, del Ministerio de Planificación y en la resolución Nº 1.600, de la Contraloría General de la República, de 2008,
 
 Decreto:
 
-#### Artículo único
+#### Artículo primero
 
-<!-- parte:9379010 -->
+<!-- parte:9294046 -->
+
+Modifícase el artículo único del decreto supremo Nº 335, del año 2010, que establece criterios y condiciones para el otorgamiento de Becas Nacionales de Postgrado de la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt), año 2010, respecto de las nuevas becas que se asignen, reemplazándolo por el siguiente nuevo artículo único, al tenor del siguiente texto:
+
+#### Artículo único (art. primero)
+
+<!-- parte:9294048 -->
 
 Apruébanse las normas que establecen los criterios y condiciones para el otorgamiento de Becas Nacionales de Postgrado de la Comisión Nacional de Investigación Científica y Tecnológica (Conicyt):
 
@@ -30,15 +38,15 @@ BECAS NACIONALES DE POSTGRADO DE LA COMISIÓN NACIONAL DE INVESTIGACIÓN CIENTÍ
 
 Ámbito de aplicación; definiciones y aspectos generales
 
-#### Artículo 1º (art. unico)
+#### Artículo 1º
 
-<!-- parte:9379013 -->
+<!-- parte:9294050 -->
 
 Ámbito de aplicación: A través del presente reglamento, se establecen las normas a las que se deberá sujetar el otorgamiento de las Becas Nacionales de Postgrado, el que será realizado por Conicyt, a través del Programa Formación de Capital Humano Avanzado, en adelante e indistintamente "el Programa", conteniendo este instrumento, las normas relativas al ámbito de aplicación; el financiamiento de las becas; su convocatoria; tipos de becas comprendidas; requisitos generales y mínimos exigidos para acceder a las becas; la postulación al sistema de becas; las incompatibilidades para ser beneficiario; el proceso de evaluación para seleccionar y adjudicar las becas; los beneficios comprendidos; los convenios a que da origen el otorgamiento de las becas, las obligaciones de los/as becarios/as y acerca de la aplicación de sanciones y reintegro de fondos.
 
-#### Artículo 2º (art. unico)
+#### Artículo 2º
 
-<!-- parte:9379014 -->
+<!-- parte:9294051 -->
 
 Definiciones: Para los efectos de este reglamento, se entenderá por:
 
@@ -52,9 +60,9 @@ d. Beca: Corresponde al conjunto de beneficios pecuniarios que se entregan a cad
 
 e. Becario: Aquella persona que resulte seleccionada de acuerdo al procedimiento establecido en el presente decreto y que haya suscrito el debido convenio de beca a efectos de obtener los beneficios que la misma comprende. Previo a la firma del convenio respectivo y la correspondiente aprobación del mismo por acto administrativo, se denominará adjudicatario.
 
-#### Artículo 3º (art. unico)
+#### Artículo 3º
 
-<!-- parte:9379015 -->
+<!-- parte:9294052 -->
 
 Aspectos generales: Conicyt adjudicará becas para estudios de postgrado en Chile, por medio de concursos públicos que serán convocados y desarrollados conforme a las bases concursales que para cada uno de ellos se aprueben conforme al presente reglamento, mediante el acto administrativo respectivo.
 
@@ -70,9 +78,9 @@ Tipos de beca; requisitos; postulación; admisibilidad; evaluación; selección;
 
 De los tipos de becas
 
-#### Artículo 4º (art. unico)
+#### Artículo 4º
 
-<!-- parte:9380980 -->
+<!-- parte:9294055 -->
 
 Tipos de Becas Nacionales de Postgrado. Para los efectos del presente reglamento, se entenderán por Becas Nacionales de Postgrado, las siguientes:
 
@@ -90,211 +98,167 @@ Conicyt en los llamados a concurso podrá priorizar y/o restringir disciplinas y
 
 De los requisitos generales y mínimos para ser beneficiario/a de Becas Nacionales de Postgrado
 
-#### Artículo 5º (art. unico)
+#### Artículo 5º
 
-<!-- parte:9380981 -->
+<!-- parte:9294057 -->
 
 Requisitos: Los/as postulantes a las Becas Nacionales de Postgrado deberán cumplir, a lo menos, los siguientes requisitos:
 
 a) Doctorado Nacional:
 
-i. Poseer el grado académico de Licenciado/a,
+i. Poseer el grado académico de Licenciado/a, otorgado
 
-otorgado por instituciones de educación
+por instituciones de educación superior chilenas o
 
-superior chilenas o extranjeras.
+extranjeras.
 
-ii. Encontrarse en proceso de postulación,
+ii. Encontrarse en proceso de postulación, admitido/a o
 
-admitido/a o tener la calidad de alumno/a
+tener la calidad de alumno/a regular en un programa
 
-regular en un programa de Doctorado
+de Doctorado acreditado en conformidad con la ley
 
-acreditado en conformidad con la ley
-
-Nº 20.129 e impartido por una universidad
-
-chilena.
+Nº 20.129 e impartido por una universidad chilena.
 
 b) Magíster Nacional:
 
-i. Poseer el Grado Académico de
+i. Poseer el Grado Académico de Licenciado/a o un
 
-Licenciado/a o un título profesional cuyo
+título profesional cuyo nivel y contenido de
 
-nivel y contenido de estudios sean
+estudios sean equivalentes a los necesarios para
 
-equivalentes a los necesarios para
+obtener el grado de licenciado, otorgados por
 
-obtener el grado de licenciado, otorgados
+instituciones de educación superior chilenas o
 
-por instituciones de educación superior
+extranjeras.
 
-chilenas o extranjeras.
+ii. Encontrarse en proceso de postulación o admitido/a
 
-ii. Encontrarse en proceso de postulación o
+para iniciar estudios en un programa de Magíster
 
-admitido/a para iniciar estudios en un
-
-programa de Magíster acreditado en
-
-conformidad con la ley Nº 20.129 en
+acreditado en conformidad con la ley Nº 20.129 en
 
 una universidad chilena.
 
 c) Magíster para Profesionales de la Educación:
 
-i. Poseer título profesional de profesor
+i. Poseer título profesional de profesor o educador
 
-o educador conferido por universidades,
+conferido por universidades, escuelas normales o
 
-escuelas normales o institutos
+institutos profesionales. Asimismo, también podrán
 
-profesionales. Asimismo, también podrán
+postular quienes están legalmente habilitados para
 
-postular quienes están legalmente
+ejercer la función docente o están autorizados para
 
-habilitados para ejercer la función
+desempeñarla de acuerdo a las normas legales
 
-docente o están autorizados para
+vigentes.
 
-desempeñarla de acuerdo a las normas
+ii. Encontrarse en proceso de postulación o admitido/a
 
-legales vigentes.
+para iniciar estudios en un programa de Magíster
 
-ii. Encontrarse en proceso de postulación
-
-o admitido/a para iniciar estudios en
-
-un programa de Magíster acreditado en
-
-conformidad con la ley Nº 20.129 en
+acreditado en conformidad con la ley Nº 20.129 en
 
 una universidad chilena.
 
 d) Magíster para Funcionarios del Sector Público:
 
-i. Poseer el Grado Académico de
+i. Poseer el Grado Académico de Licenciado/a, o un
 
-Licenciado/a, o un título profesional
+título profesional cuyo nivel y contenido de
 
-cuyo nivel y contenido de estudios sean
+estudios sean equivalentes a los necesarios para
 
-equivalentes a los necesarios para
+obtener el grado de licenciado, otorgados por
 
-obtener el grado de licenciado,
-
-otorgados por instituciones de
-
-educación superior chilenas o
+instituciones de educación superior chilenas o
 
 extranjeras.
 
-ii. Tener las calidad de funcionario de
+ii. Tener las calidad de funcionario de planta o a
 
-planta o a contrata de algún escalafón
+contrata de algún escalafón directivo, profesional,
 
-directivo, profesional, administrativo
+administrativo o de fiscalizadores de alguna de las
 
-o de fiscalizadores de alguna de las
+reparticiones del Estado a que se refiere el inciso
 
-reparticiones del Estado a que se
+segundo del artículo 1º de la Ley Nº 18.575,
 
-refiere el inciso segundo del
+Orgánica Constitucional de Bases Generales de la
 
-artículo 1º de la Ley Nº 18.575,
+Administración del Estado, cuyo texto refundido,
 
-Orgánica Constitucional de Bases
+coordinado y sistematizado fue fijado por el DFL Nº
 
-Generales de la Administración
+1 / ley 19.653, lo cual se acreditará mediante el
 
-del Estado, cuyo texto refundido,
+correspondiente decreto o resolución de
 
-coordinado y sistematizado fue
+nombramiento, con certificación de vigencia
 
-fijado por el DFL Nº 1 / ley 19.653,
+expedido por el/la Jefe/a de Personal del Servicio
 
-lo cual se acreditará mediante el
+respectivo.
 
-correspondiente decreto o resolución
+Se excluye el personal regido por la ley Nº 15.076,
 
-de nombramiento, con certificación de
-
-vigencia expedido por el/la Jefe/a
-
-de Personal del Servicio respectivo.
-
-Se excluye el personal regido por la
-
-ley Nº 15.076, de conformidad con lo
-
-dispuesto por el artículo 27
+de conformidad con lo dispuesto por el artículo 27
 
 de la ley Nº 19.595.
 
-iii. Certificación expedida por el
+iii. Certificación expedida por el Servicio en el cual
 
-Servicio en el cual se desempeña,
+se desempeña, en la cual conste que los estudios
 
-en la cual conste que los estudios que
+que pretende efectuar el/la postulante, son de
 
-pretende efectuar el/la postulante,
+aquellos que se relacionan con las funciones
 
-son de aquellos que se relacionan
-
-con las funciones propias de la
-
-institución a la cual pertenece el/la
+propias de la institución a la cual pertenece el/la
 
 interesado/a.
 
-iv. Desempeñarse actualmente en la
+iv. Desempeñarse actualmente en la administración
 
-administración pública, teniendo al
-
-menos dos años de antigüedad
+pública, teniendo al menos dos años de antigüedad
 
 en el sector público.
 
-v. Contar con el patrocinio oficial de
+v. Contar con el patrocinio oficial de la institución
 
-la institución a la que pertenece
+a la que pertenece el/la postulante. Este
 
-el/la postulante. Este patrocinio
+patrocinio implica la obligación de la institución
 
-implica la obligación de la
+en que se desempeña el/la postulante en orden a
 
-institución en que se desempeña
+mantener su remuneración mientras se realicen los
 
-el/la postulante en orden a
-
-mantener su remuneración mientras
-
-se realicen los estudios, de
-
-conformidad con las normas legales
+estudios, de conformidad con las normas legales
 
 vigentes.
 
-vi. Encontrarse en proceso de
+vi. Encontrarse en proceso de postulación o admitido/a
 
-postulación o admitido/a para
+para iniciar estudios en un programa de Magíster
 
-iniciar estudios en un programa de
+acreditado en conformidad con la ley Nº 20.129 en
 
-Magíster acreditado en conformidad
-
-con la ley Nº 20.129 en una
-
-universidad chilena.
+una universidad chilena.
 
 ### Párrafo 3º
 
 Forma de postulación a los concursos de becas
 
-#### Artículo 6º (art. unico)
+#### Artículo 6º
 
-<!-- parte:9380982 -->
+<!-- parte:9294059 -->
 
 Los/as interesados/as deberán efectuar sus postulaciones de conformidad con lo establecido en el presente reglamento y en las bases concursales respectivas aprobadas por Conicyt, para los diferentes tipos de becas.
 
@@ -308,9 +272,9 @@ El incumplimiento de cualquiera de los requisitos y condiciones establecidos en 
 
 De las incompatibilidades
 
-#### Artículo 7° (art. unico)
+#### Artículo 7°
 
-<!-- parte:9380983 -->
+<!-- parte:9294061 -->
 
 No podrán ser beneficiarios/as de las Becas Nacionales:
 
@@ -324,9 +288,9 @@ iii. Aquellos que a la fecha de firma del Convenio, mantengan compromisos pendie
 
 De la evaluación de las postulaciones, selección, adjudicación y notificación de los resultados
 
-#### Artículo 8º (art. unico)
+#### Artículo 8º
 
-<!-- parte:9380984 -->
+<!-- parte:9294063 -->
 
 Las postulaciones que cumplan con los requisitos y condiciones establecidos en el presente decreto, así como en las respectivas bases concursales, serán sometidas a un proceso de evaluación de conformidad a los criterios de evaluación establecidos en el artículo 9º. Este procedimiento será ejecutado por un Comité de Evaluación del área de estudios pertinente, designado por Conicyt, y estará conformado por académicos expertos, investigadores y profesionales pertenecientes al sector público y privado, de destacada trayectoria y reconocido prestigio.
 
@@ -340,9 +304,9 @@ Dictado el acto administrativo de adjudicación, de conformidad al ordenamiento 
 
 Asimismo, dictado el acto de adjudicación, se notificará a los postulantes no seleccionados y a los declarados fuera de bases, de conformidad al ordenamiento jurídico vigente.
 
-#### Artículo 9º (art. unico)
+#### Artículo 9º
 
-<!-- parte:9380985 -->
+<!-- parte:9294064 -->
 
 Criterios de Evaluación. Los Comités de Evaluación por disciplina señalados en el artículo anterior, entregarán un puntaje final de evaluación. Para estos efectos deberán considerarse los siguientes criterios para determinar la excelencia de los candidatos:
 
@@ -370,9 +334,9 @@ v. Área de estudios.
 
 De los beneficios de las Becas Nacionales de Postgrado
 
-#### Artículo 10º (art. unico)
+#### Artículo 10º
 
-<!-- parte:9380986 -->
+<!-- parte:9294066 -->
 
 Beneficios. Conicyt, a través de su programa de Becas Nacionales, entregará como máximo los siguientes beneficios, sin perjuicio que alguno(s) de éstos podrán excluirse en las correspondientes bases concursales:
 
@@ -390,9 +354,9 @@ respectivo programa de estudio.
 
 ii. Asignación anual, destinada al pago del arancel
 
-y/o matrícula del/de la becario/a, por un monto
+y/o matrícula del/de la becario/a, por un
 
-máximo de $2.250.000.-
+monto máximo de $2.250.000.-
 
 Esta asignación se pagará contra factura
 
@@ -404,37 +368,39 @@ de la permanencia del becario en el respectivo
 
 programa de estudio.
 
-iii. Asignación mensual para cada hijo/a menor de 18
+iii. Asignación mensual para cada hijo/a menor
 
-años equivalente al 5% de la manutención mensual
+de 18 años equivalente al 5% de la
 
-del/de la becario/a. En el caso que ambos padres
+manutención mensual del/de la becario/a. En
 
-ostenten la calidad de becarios, sólo uno de
+el caso que ambos padres ostenten la calidad
 
-ellos será causante de esta asignación. Esta
+de becarios, sólo uno de ellos será causante
 
-asignación se entregará siempre y cuando se
+de esta asignación. Esta asignación se
 
-cumpla con acreditar el parentesco de acuerdo
+entregará siempre y cuando se cumpla con
 
-a lo establecido en las respectivas bases
+acreditar el parentesco de acuerdo a lo
 
-de postulación.
+establecido en las respectivas bases de
 
-iv. Asignación por concepto de cobertura de salud
+postulación.
 
-por un monto máximo anual de $407.880, o la
+iv. Asignación por concepto de cobertura de
 
-proporción que corresponda en el caso de no
+salud por un monto máximo anual de
 
-completarse el año. Esta asignación será
+$407.880, o la proporción que corresponda
 
-renovable anualmente previa acreditación de
+en el caso de no completarse el año. Esta
 
-la permanencia del becario en el respectivo
+asignación será renovable anualmente previa
 
-programa de estudio.
+acreditación de la permanencia del becario
+
+en el respectivo programa de estudio.
 
 v. En el caso de embarazo, la becaria podrá
 
@@ -442,11 +408,11 @@ hacer uso de una extensión de la asignación
 
 de manutención por concepto de pre y post
 
-natal, hasta por un máximo de seis meses en
+natal, hasta por un máximo de seis meses
 
-total, para lo cual deberán informar sobre
+en total, para lo cual deberán informar
 
-dicha situación a Conicyt. Los meses
+sobre dicha situación a Conicyt. Los meses
 
 utilizados por este motivo, no se
 
@@ -456,59 +422,61 @@ original de la beca.
 
 vi. Asignación anual por un monto máximo de
 
-$2.678.000.- para gastos operacionales
+$2.678.000.- para gastos operacionales del
 
-del proyecto tesis doctoral, por un plazo
+proyecto tesis doctoral, por un plazo
 
-máximo de dos años.
+máximo de dos años. Los requisitos para
 
-Los requisitos para solicitar esta
+solicitar esta asignación, así como la
 
-asignación, así como la definición de
+definición de gasto operacional y la forma
 
-gasto operacional y la forma de rendición
+de rendición de ésta serán establecidos
 
-de ésta serán establecidos en las
+en las bases concursales.
 
-bases concursales.
+vii. Extensión de hasta un máximo de seis
 
-vii. Extensión de hasta un máximo de seis meses
-
-de los beneficios de mantenimiento
+meses de los beneficios de mantenimiento
 
 estipulados en los numerales i), iii) y
 
-iv), destinado a la redacción y entrega
+iv), destinado a la redacción
 
-de la tesis doctoral.
+y entrega de la tesis doctoral.
 
 Para la aprobación de este beneficio Conicyt
 
-evaluará las solicitudes en un comité interno,
+evaluará las solicitudes en un comité
 
-de acuerdo a la disponibilidad
+interno, de acuerdo a la disponibilidad
 
-presupuestaria. Los requisitos para solicitar
+presupuestaria. Los requisitos para
 
-esta ampliación, serán establecidos en las
+solicitar esta ampliación, serán
 
-bases concursales de Doctorado.
+establecidos en las bases concursales de
+
+Doctorado.
 
 viii.El becario podrá solicitar un beneficio
 
-opcional consistente en financiamiento para
+opcional consistente en financiamiento
 
-el desarrollo de pasantías doctorales en el
+para el desarrollo de pasantías
 
-extranjero, por el plazo máximo de diez
+doctorales en el extranjero, por el plazo
 
-meses, y/o estadías de cotutela, por el
+máximo de diez meses, y/o estadías de
 
-plazo máximo de 24 meses, siempre que el
+cotutela, por el plazo máximo de 24
 
-becario cuente con una carta de invitación
+meses, siempre que el becario cuente
 
-de una universidad o centro de investigación
+con una carta de invitación de una
+
+universidad o centro de investigación
 
 extranjero.
 
@@ -516,53 +484,51 @@ Para la aprobación y entrega de este
 
 financiamiento los becarios deberán
 
-solicitarlo por escrito a Conicyt, entidad
+solicitarlo por escrito a Conicyt,
 
-que procederá a la evaluación de las
+entidad que procederá a la evaluación de
 
-solicitudes en comité interno, conforme
+las solicitudes en comité interno, conforme
 
-o los requisitos y procedimiento
+o los requisitos y procedimiento establecidos
 
-establecidos en las bases concursales de
-
-Doctorado.
+en las bases concursales de Doctorado.
 
 En el caso de las pasantías doctorales se
 
 conferirán, como máximo, los beneficios de
 
-manutención mensual, seguro médico y
+manutención mensual, seguro médico y pasajes
 
-pasajes aéreos señalados en el decreto Nº
+aéreos señalados en el decreto Nº 664 de
 
-664 de Educación de 2008, que Establece
+Educación de 2008, que Establece Normas sobre
 
-Normas sobre el Otorgamiento de Becas
+el Otorgamiento de Becas del programa Becas
 
-del programa Becas Bicentenario de Postgrado,
+Bicentenario de Postgrado, BECAS CHILE, para
 
-BECAS CHILE, para el año 2009 y sus
+el año 2009 y sus modificaciones
 
-modificaciones conjuntamente con los
+conjuntamente con los otorgados por la beca de
 
-otorgados por la beca de Doctorado Nacional.
+Doctorado Nacional.
 
 Para estos efectos las bases concursales
 
 deberán establecer el detalle de los
 
-beneficios que serán otorgados durante la
+beneficios que serán otorgados durante
 
-pasantía doctoral, teniendo como límite
+la pasantía doctoral, teniendo como límite
 
-máximo los beneficios señalados en el
+máximo los beneficios señalados en el párrafo
 
-párrafo precedente. Su otorgamiento estará
+precedente. Su otorgamiento estará sujeto a
 
-sujeto a la disponibilidad presupuestaria
+la disponibilidad presupuestaria respectiva de
 
-respectiva de Conicyt.
+Conicyt.
 
 En el caso de la realización de una cotutela
 
@@ -588,37 +554,35 @@ Asimismo, para el caso de la referida
 
 cotutela de doctorado, las bases
 
-concursales deberán establecer el detalle
+concursales deberán establecer
 
-de los beneficios que serán otorgados
+el detalle de los beneficios que
 
-durante la misma, teniendo como límite máximo
+serán otorgados durante la misma, teniendo como
 
-los beneficios señalados en el párrafo
+límite máximo los beneficios señalados en el párrafo
 
 precedente. Su otorgamiento estará sujeto
 
-a la disponibilidad presupuestaria
+a la disponibilidad presupuestaria respectiva
 
-respectiva de Conicyt.
+de Conicyt.
 
 El tiempo utilizado para las pasantías
 
-doctorales y estadías de cotutela se
+doctorales y estadías de cotutela se computará
 
-computará dentro del plazo de los cuatro
+dentro del plazo de los cuatro años, establecidos
 
-años, establecidos en el presente
+en el presente reglamento, para la duración
 
-reglamento, para la duración máxima de
-
-financiamiento de un doctorado.
+máxima de financiamiento de un doctorado.
 
 Las solicitudes de los becarios relacionadas al otorgamiento de los beneficios estipulados, en los numerales vii) y viii), precedentes procederán previa evaluación de Conicyt a cargo del Comité Interno de Programa de Capital Humano Avanzado de Conicyt. El proceso de evaluación contemplará, como mínimo, los siguientes criterios:
 
-a) Desempeño académico del becario en el
+a) Desempeño académico del becario en el programa
 
-programa doctoral.
+doctoral.
 
 b) Relevancia del proyecto de tesis y/o
 
@@ -628,15 +592,97 @@ c) Estado de avance del proyecto de tesis y/o
 
 investigación emitido por el profesor tutor.
 
-d) Para el caso del numeral viii), la calidad
+d) Para el caso del numeral viii), la calidad y
 
-y prestigio de la institución extranjera
+prestigio de la institución extranjera en
 
-en la cual se realizará la pasantía o
-
-cotutela.
+la cual se realizará la pasantía o cotutela.
 
 2) Magíster Nacional: Los beneficios que comprende esta beca, por un máximo de dos años, serán los siguientes:
+
+i. Asignación de manutención anual por un máximo de
+
+$5.883.360.-, devengados en cuotas mensuales.
+
+Esta asignación será renovable anualmente previa
+
+acreditación de la permanencia del becario en el
+
+respectivo programa de estudio.
+
+ii. Asignación anual, destinada al pago del arancel
+
+y/o matrícula del/de la becario/a, por un monto
+
+máximo de $1.000.000.-
+
+Esta asignación se pagará contra factura
+
+directamente a la universidad. Esta asignación
+
+será renovable anualmente previa acreditación de
+
+la permanencia del becario en el respectivo
+
+programa de estudio.
+
+iii. Asignación mensual de manutención para cada
+
+hijo/a menor de 18 años, equivalente al 5% de
+
+la manutención mensual del/de la
+
+beneficiario/a. En caso de que ambos padres
+
+ostenten la calidad de becarios, sólo uno de
+
+ellos será causante de esta asignación. Este
+
+beneficio se entregará siempre y cuando se
+
+cumpla con acreditar el parentesco de
+
+acuerdo a lo establecido en las respectivas
+
+bases de postulación. Esta asignación será
+
+renovable anualmente previa acreditación de
+
+la permanencia del becario en el respectivo
+
+programa de estudio.
+
+iv. Asignación por concepto de cobertura de salud
+
+por un monto máximo anual de $407.880.-, o la
+
+proporción que corresponda en el caso de no
+
+completarse el año. Esta asignación será
+
+renovable anualmente previa acreditación de
+
+la permanencia del becario en el respectivo
+
+programa de estudio.
+
+v. En el caso de embarazo, la becaria podrá hacer
+
+uso de una extensión de la asignación de
+
+manutención por concepto de pre y post natal
+
+hasta por un máximo de seis meses en total,
+
+para lo cual deberán informar sobre dicha
+
+situación a Conicyt. Los meses utilizados
+
+por este motivo, no se considerarán para
+
+el cómputo del periodo original de la beca.
+
+3) Magíster para Profesionales de la Educación: Los beneficios que comprende esta beca, por un máximo de dos años, serán los siguientes:
 
 i. Asignación de manutención anual por un máximo
 
@@ -646,119 +692,15 @@ mensuales. Esta asignación será renovable
 
 anualmente previa acreditación de la
 
-permanencia del becario en el respectivo
+permanencia del becario en el
 
-programa de estudio.
+respectivo programa de estudio.
 
 ii. Asignación anual, destinada al pago del
 
 arancel y/o matrícula del/de la becario/a,
 
 por un monto máximo de $1.000.000.-
-
-Esta asignación se pagará contra factura
-
-directamente a la universidad. Esta
-
-asignación será renovable anualmente
-
-previa acreditación de la permanencia del
-
-becario en el respectivo programa
-
-de estudio.
-
-iii. Asignación mensual de manutención para cada
-
-hijo/a menor de 18 años, equivalente al
-
-5% de la manutención mensual del/de la
-
-beneficiario/a. En caso de que ambos
-
-padres ostenten la calidad de becarios,
-
-sólo uno de ellos será causante de esta
-
-asignación. Este beneficio se entregará
-
-siempre y cuando se cumpla con acreditar
-
-el parentesco de acuerdo a lo establecido
-
-en las respectivas bases de postulación.
-
-Esta asignación será renovable anualmente
-
-previa acreditación de la permanencia
-
-del becario en el respectivo programa
-
-de estudio.
-
-iv. Asignación por concepto de cobertura
-
-de salud por un monto máximo anual de
-
-$407.880.-, o la proporción que
-
-corresponda en el caso de no
-
-completarse el año. Esta asignación
-
-será renovable anualmente previa
-
-acreditación de la permanencia
-
-del becario en el respectivo programa
-
-de estudio.
-
-v. En el caso de embarazo, la becaria
-
-podrá hacer uso de una extensión de
-
-la asignación de manutención
-
-por concepto de pre y post natal
-
-hasta por un máximo de seis meses
-
-en total, para lo cual deberán
-
-informar sobre dicha situación a
-
-Conicyt. Los meses utilizados por
-
-este motivo, no se considerarán para
-
-el cómputo del periodo original
-
-de la beca.
-
-3) Magíster para Profesionales de la Educación: Los beneficios que comprende esta beca, por un máximo de dos años, serán los siguientes:
-
-i. Asignación de manutención anual por
-
-un máximo de $5.883.360.-, devengados
-
-en cuotas mensuales. Esta asignación
-
-será renovable anualmente previa
-
-acreditación de la permanencia del
-
-becario en el respectivo programa
-
-de estudio.
-
-ii. Asignación anual, destinada al
-
-pago del arancel y/o matrícula del/de
-
-la becario/a, por un monto máximo
-
-de $1.000.000.-
 
 Esta asignación se pagará contra factura
 
@@ -780,125 +722,95 @@ equivalente al 5% de la manutención
 
 mensual del/de la beneficiario/a. En
 
-caso de que ambos padres ostenten
+caso de que ambos padres ostenten la calidad
 
-la calidad de becarios, sólo uno de
+de becarios, sólo uno de ellos será causante
 
-ellos será causante de esta
+de esta asignación. Este beneficio se
 
-asignación. Este beneficio se entregará
+entregará siempre y cuando se cumpla con
 
-siempre y cuando se cumpla con
+acreditar el parentesco de acuerdo a lo
 
-acreditar el parentesco de acuerdo a
+establecido en las respectivas bases
 
-lo establecido en las respectivas bases
+de postulación. Esta asignación será renovable
 
-de postulación. Esta asignación será
+anualmente previa acreditación de la permanencia
 
-renovable anualmente previa acreditación
+del becario en el respectivo programa de estudio.
 
-de la permanencia del becario en el
+iv. Asignación por concepto de cobertura de salud por
 
-respectivo programa de estudio.
+un monto máximo anual de $407.880.-, o la
 
-iv. Asignación por concepto de cobertura
+proporción que corresponda en el caso de no
 
-de salud por un monto máximo anual de
+completarse el año. Esta asignación será renovable
 
-$407.880.-, o la proporción que
+anualmente previa acreditación de la permanencia
 
-corresponda en el caso de no
+del becario en el respectivo programa de estudio.
 
-completarse el año. Esta asignación
+v. En el caso de embarazo, la becaria podrá hacer uso
 
-será renovable anualmente previa
+de una extensión de la asignación de manutención
 
-acreditación de la permanencia
+por concepto de pre y post natal hasta por un
 
-del becario en el respectivo programa
+máximo de seis meses en total, para lo cual deberán
 
-de estudio.
+informar sobre dicha situación a Conicyt. Los meses
 
-v. En el caso de embarazo, la becaria
+utilizados por este motivo, no se considerarán para
 
-podrá hacer uso de una extensión de
+el cómputo del periodo original de la beca.
 
-la asignación de manutención por
+vi. Asignación única para la instalación del/la
 
-concepto de pre y post natal hasta
+becario/a por un monto máximo de $618.000.-,
 
-por un máximo de seis meses en
+tratándose de aquellos/as que cursarán sus estudios
 
-total, para lo cual deberán informar
+de postgrado en una región distinta de la de su
 
-sobre dicha situación a Conicyt. Los
+residencia o domicilio y que se trasladen a dicha
 
-meses utilizados por este motivo,
+región para efectuar sus estudios, lo que debe
 
-no se considerarán para el cómputo
-
-del periodo original de la beca.
-
-vi. Asignación única para la instalación
-
-del/la becario/a por un monto máximo
-
-de $618.000.-, tratándose de
-
-aquellos/as que cursarán sus estudios
-
-de postgrado en una región distinta
-
-de la de su residencia o domicilio
-
-y que se trasladen a dicha región
-
-para efectuar sus estudios, lo que
-
-debe demostrar al momento de la
-
-firma del convenio.
+demostrar al momento de la firma del convenio.
 
 4) Magíster para Funcionarios del Sector Público: Los beneficios que comprende esta beca, por un máximo de dos años, serán los siguientes:
 
-i. Asignación anual, equivalente al
+i. Asignación anual, equivalente al total del costo
 
-total del costo de matrícula y arancel
-
-del/de la becario/a.
+de matrícula y arancel del/de la becario/a.
 
 Esta asignación se pagará contra factura
 
-directamente a la universidad. Esta
+directamente a la universidad. Esta asignación
 
-asignación será renovable anualmente
+será renovable anualmente previa acreditación
 
-previa acreditación de la permanencia
+de la permanencia del becario en el respectivo
 
-del becario en el respectivo programa
+programa de estudio.
 
-de estudio.
+ii. Aporte anual la adquisición de libros y demás
 
-ii. Aporte anual la adquisición de libros y
+materiales por un máximo de $206.000.-
 
-demás materiales por un máximo de
+iii. Pago de gastos de traslado, cuando corresponda,
 
-$206.000.-
-
-iii. Pago de gastos de traslado, cuando
-
-corresponda, hasta la suma de
-
-$257.500.- al año.
+hasta la suma de $257.500.- al año.
 
 No procederá, bajo ninguna circunstancia, la duplicidad de beneficios, con otra beca del sector público.
 
 Los beneficios de la beca se devengarán a partir de la fecha de adjudicación del concurso, o a la fecha del inicio del programa de estudios si esta fuere posterior a la adjudicación.
 
-#### Artículo 11º (art. unico)
+#### Artículo 11º
 
-<!-- parte:9380987 -->
+<!-- parte:9294067 -->
 
 Conicyt podrá, excepcionalmente, previa solicitud fundada por escrito de los adjudicados y/o becarios y análisis de los antecedentes correspondientes, autorizar cambios de universidad, programa de estudios, suspensiones, modificaciones, prórrogas de beca y/o retribución, entre otras.
 
@@ -910,9 +822,9 @@ De los convenios, contenido y obligaciones del/de la becario/a
 
 De los convenios y su contenido
 
-#### Artículo 12º (art. unico)
+#### Artículo 12º
 
-<!-- parte:9380988 -->
+<!-- parte:9294070 -->
 
 De los convenios a suscribir con los/las beneficiarios/as de las becas.
 
@@ -920,9 +832,9 @@ Notificados los/as postulantes seleccionados/as, y una vez que hayan aceptado la
 
 Los convenios establecerán los derechos y obligaciones de los becarios, así como los beneficios que entrega Conicyt. Dichos convenios deberán ser aprobados mediante el respectivo acto administrativo.
 
-#### Artículo 13º (art. unico)
+#### Artículo 13º
 
-<!-- parte:9380989 -->
+<!-- parte:9294071 -->
 
 Del contenido de los convenios. Los convenios contemplarán, a lo menos, las siguientes menciones:
 
@@ -938,9 +850,9 @@ iv. La duración del programa de estudios y fecha de inicio y término de la bec
 
 De las obligaciones del/de la becario/a
 
-#### Artículo 14º (art. unico)
+#### Artículo 14º
 
-<!-- parte:9380990 -->
+<!-- parte:9294073 -->
 
 Sin perjuicio de los obligaciones establecidas en las bases de postulación y convenio de cada beca, el/la becario/a deberá cumplir, como mínimo, con las siguientes obligaciones:
 
@@ -998,9 +910,9 @@ De las sanciones por incumplimiento y del reintegro
 
 De las sanciones por incumplimiento
 
-#### Artículo 15º (art. unico)
+#### Artículo 15º
 
-<!-- parte:9380994 -->
+<!-- parte:9294076 -->
 
 El incumplimiento de las condiciones, obligaciónes o de los plazos estipulados en este reglamento, en las bases respectivas y en los convenios de becas, sin causa justificada, facultará a Conicyt para suspender de manera inmediata la entrega de los beneficios al/la becario/a, declarar el término anticipado de la beca mediante acto administrativo fundado y proceder en conformidad con el artículo 16º del presente reglamento.
 
@@ -1008,12 +920,18 @@ El incumplimiento de las condiciones, obligaciónes o de los plazos estipulados 
 
 Del reintegro
 
-#### Artículo 16º (art. unico)
+#### Artículo 16º
 
-<!-- parte:9380996 -->
+<!-- parte:9294078 -->
 
 Conicyt, a través de las acciones judiciales y extrajudiciales que correspondan o por medio de la ejecución del respectivo pagaré, exigirá a los becarios la restitución de la totalidad de los beneficios económicos pagados respecto de quienes sean eliminados, suspendan, abandonen y/o renuncien a su programa de estudios, sin causa justificada, así como a quienes no cumplan con las obligaciones inherentes a su condición de becarios/as o hayan adulterado sus antecedentes o informes.
 
-Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Joaquín Lavín Infante, Ministro de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+#### Artículo segundo
+
+<!-- parte:9294079 -->
+
+Disposición transitoria. A los becarios de convocatorias anteriores a la fecha de total tramitación del presente decreto, y que reciban beneficios pecuniarios a esa fecha, se les homologarán los beneficios del presente reglamento, en el caso de resultar estos últimos superiores a los que estén percibiendo, de acuerdo a la disponibilidad presupuestaria respectiva.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Felipe Bulnes Serrano, Ministro de Educación.- Felipe Larraín Bascuñán, Ministro de Hacienda.
 
 Lo que transcribo a Ud. para su conocimiento.- Saluda a Ud., Fernando Rojas Ochagavía, Subsecretario de Educación.
