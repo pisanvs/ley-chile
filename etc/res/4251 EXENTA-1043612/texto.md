@@ -1,0 +1,5 @@
+EXTRACTO DE RESOLUCIÓN N° 4.251 EXENTA, DE 2012
+
+Por resolución exenta N° 4.251, de fecha 21 de agosto de 2012, de Secretaría Regional Ministerial de Transportes y Telecomunicaciones de la Región Metropolitana, se autoriza al Organismo Técnico de Capacitación "E-Syste Capacitación Limitada", nombre de fantasía "E-Syste Capacitación", RUT Nº 77.805.400-0, representado legalmente por Jaime Andrés Fernández Oyarce, para impartir curso de capacitación para conductores que obtuvieron licencia de conductor Clase A2 con anterioridad al 8 de marzo de 1997 en locales ubicados en Phillips N° 40, Of. 41, y Tucapel Jiménez Nº 40, ambos de la comuna de Santiago. Asimismo, se aprueban los planes y programas del curso autorizado, y se ordena su incorporación al registro que lleva la Secretaría Regional Ministerial.-
+
+Sergio Stephan Orellana, Secretario Regional Ministerial de Transportes y Telecomunicaciones, Región Metropolitana.
