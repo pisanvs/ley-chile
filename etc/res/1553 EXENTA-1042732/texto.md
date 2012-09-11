@@ -168,7 +168,7 @@ a) Evaluar las solicitudes de registro de medicamentos y cosméticos sujetos a c
 
 b) Evaluar y resolver las solicitudes de registro de productos cosméticos.
 
-c) Autorizar las renovaciones de los registros de productos farmacéuticos.
+c) ELIMINADA.
 
 d) Autorizar las transferencias de registros de productos farmacéuticos y cosméticos.
 
@@ -197,6 +197,8 @@ b) Sección Registros Farmacéuticos: Encargada de evaluar las solicitudes de mo
 c) Sección Cosméticos: Encargada de evaluar las solicitudes de registro, modificaciones, renovaciones, exenciones de control de calidad de los registros sanitarios de productos cosméticos, como también, evaluar e inscribir a los titulares, resolver las declaraciones de productos de higiene y bajo riesgo y conceder o denegar las renovaciones de los mismos productos.
 
 d) Sección Estudios Clínicos: Encargada de evaluar la utilización en ensayos clínicos de productos farmacéuticos sin registro sanitario nacional o con registro sanitario nacional, pero usado en una indicación, esquema posológico o grupo etario diferente a la autorizada por este Departamento. Evaluar las modificaciones que se soliciten en relación con la autorización de uso de medicamentos en investigación clínica. Efectuar el seguimiento de las actividades de los centros y laboratorios que realizan dichos estudios en seres humanos, en relación con el uso de los medicamentos.
+
+> **Nota.** El N° 2 de la Resolución 1915 Exenta, Salud, publicada el 11.09.2012, agrega entre las funciones de la Sección Registros Farmacéuticos la de "Autorizar las renovaciones de los registros de productos farmacéuticos".
 
 Artículo diez: Al Subdepartamento de Inspecciones le corresponderán las siguientes funciones:
 
