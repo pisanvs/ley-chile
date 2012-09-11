@@ -40,8 +40,6 @@ Las enajenaciones a título gratuito que se hicieren en conformidad con las letr
 
 Los predios resultantes de una subdivisión quedarán sujetos a la prohibición de cambiar su destino en los términos que establecen los artículos 55° y 56° de la Ley General de Urbanismo y Construcciones.
 
-En las escrituras públicas en que conste el título de la enajenación de predios resultantes de una división se dejará constancia de la prohibición establecida en el inciso anterior.
-
 Los notarios públicos no autorizarán las escrituras públicas de enajenación ni los Conservadores de Bienes Raíces practicarán inscripción alguna si dichas escrituras no se ajustan a las disposiciones del presente decreto ley.
 
 #### Artículo 2°
