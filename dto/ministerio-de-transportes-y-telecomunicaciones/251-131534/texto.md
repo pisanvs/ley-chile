@@ -22,7 +22,9 @@ El o los propietarios y el o los representantes legales de las escuelas deberán
 
 #### Artículo 3º
 
-Los planes y programas de estudio serán determinados libremente por las respectivas escuelas, los que deberán ser adecuados para el cumplimiento de los objetivos básicos señalados en el artículo 31 A de la Ley de Tránsito.
+Los planes y programas de estudio serán determinados libremente por las respectivas escuelas, los que deberán ser adecuados para el cumplimiento de los objetivos básicos señalados en el artículo 33 de la Ley de Tránsito.
+
+Sin perjuicio de lo señalado en el inciso anterior, las escuelas que deseen ser autorizadas para impartir el Curso Teórico y Práctico Especial que contemple el uso de Simuladores de Inmersión Total deberán cumplir con los requisitos que señalan los respectivos reglamentos, en cuanto a contenidos y duración mínima del curso y características y especificaciones técnicas del simulador.
 
 #### Artículo 4º
 
@@ -54,11 +56,45 @@ Para obtener reconocimiento oficial, las escuelas deberán presentar, al respect
 
 10. Póliza de seguro, en favor de terceros, por una cantidad no inferior a 1.000 unidades de fomento, por cada vehículo destinado a la instrucción práctica, la que deberá acompañarse en el momento en que el Secretario Regional Ministerial la solicite con el objeto de dictar la resolución de reconocimiento.
 
+#### Artículo 5º bis
+
+"Para obtener la autorización para impartir el Curso Especial con Simuladores de Inmersión Total, las escuelas deberán presentar al respectivo Secretario Regional Ministerial de Transportes y Telecomunicaciones junto con los respectivos planes y programas una solicitud, la cual deberá acompañar lo siguiente:
+
+a. Factura de compra, contrato de arriendo u otro
+
+documento que acredite tener a disposición
+
+un Simulador de Inmersión Total.
+
+b. Documento otorgado por el Ministerio de
+
+Transportes y Telecomunicaciones, que certifique
+
+que el Simulador que tiene la escuela a
+
+disposición, cumple con las características y
+
+especificaciones técnicas establecidas en el
+
+respectivo reglamento.
+
+c. Factura de compra, contrato de arriendo u otro
+
+documento que acredite tener a disposición
+
+los vehículos para impartir las clases prácticas
+
+de conducción colectiva e individual que cumplan
+
+con lo establecido en este reglamento.
+
+Las escuelas que soliciten autorización para impartir el Curso Especial con Simuladores de Inmersión Total, no podrán tener un proceso de revocación en curso al momento de presentar la solicitud.
+
 #### Artículo 6º
 
 El Secretario Regional Ministerial de Transportes y Telecomunicaciones dará reconocimiento oficial a las Escuelas de Conductores Profesionales, mediante resolución.
 
-El procedimiento de reconocimiento se ajustará a lo establecido en los artículos 31 a 32 de la Ley de Tránsito.
+El procedimiento de reconocimiento se ajustará a lo establecido en los artículos 31 a 37 de la Ley de Tránsito.
 
 #### Artículo 7º
 
@@ -82,7 +118,7 @@ Cuando una escuela no diere cumplimiento a los planes, programas, docencia e inf
 
 El Secretario Regional Ministerial de Transportes y Telecomunicaciones podrá revocar, mediante resolución fundada, el reconocimiento otorgado a una Escuela de Conductores cuando se compruebe que ésta ha incurrido en inactividad por espacio de 12 meses. Se entenderá que existe inactividad cuando no se impartan los cursos ofrecidos para obtener licencia profesional en el lapso de tiempo antes señalado.
 
-La afectada por la revocación podrá ejercer los recursos contemplados en el artículo 32 de la Ley de Tránsito.
+La afectada por la revocación podrá ejercer los recursos contemplados en el artículo 37 de la Ley de Tránsito.
 
 #### Artículo 9º
 
@@ -91,6 +127,8 @@ Las escuelas deberán contar con la siguiente infraestructura y equipamiento:
 1. Infraestructura.
 
 a) Un local para el tipo de cursos a impartir, el que debe tener en forma independiente una sala de capacitación, una sala de laboratorio sensométrico y psicomático, que deberá estar en la sede autorizada y disponer de un taller mecánico dentro o fuera de la escuela, a no más de 5 (cinco) kilómetros del local autorizado.
+
+Las escuelas autorizadas para dictar el Curso Especial con Simuladores de Inmersión Total, deberán además contar con una sala acondicionada para albergar dicho equipo y que permita la inmersión total del alumno.
 
 b) El local deberá cumplir con las exigencias básicas sanitarias, relativas a centros educacionales.
 
@@ -116,6 +154,16 @@ e) Herramientas e instrumentos de medición propuestos por la escuela para la ap
 
 f) Los demás equipos, instrumentos y herramientas que disponga el Ministerio de Transportes y Telecomunicaciones.
 
+4. Otras Exigencias.
+
+a) En el local en que se imparta el o los cursos, deberá existir, en un lugar visible un libro para reclamos y sugerencias a disposición del público;
+
+b) Un libro para las clases y control de asistencia, en que se deberá consignar la nómina de alumnos asistentes a cada clase, las materias impartidas, fecha y hora en que se impartieron, nombre y firma del relator, y
+
+c) Un libro para las fiscalizaciones, el cual será con hojas autocopiativas.
+
+Todos los libros deberán estar foliados y timbrados por la Secretaría Regional respectiva.
+
 #### Artículo 10º
 
 Las escuelas deberán tener vehículos para instrucción práctica que cumplan con las exigencias establecidas en la Ley de Tránsito de acuerdo a las clases y especialidades de licencia para las cuales impartan cursos y adicionalmente con los siguientes requisitos:
@@ -126,9 +174,9 @@ Las escuelas deberán tener vehículos para instrucción práctica que cumplan c
 
 3. En los cursos para optar a licencia para conducir ambulancias, no podrán tener una antigüedad superior a 10 años y deberán estar equipados con sistema de comunicación y camilla.
 
-4. En los cursos para optar a licencia para conducir vehículos de transporte público y privado de personas, no comprendidos anteriormente, no podrán tener una antigüedad superior a 10 años.
+4. En los cursos para optar a licencia de conductor profesional Clase A-3, para conducir vehículos de transporte público y privado de personas, el vehículo deberá tener una capacidad mínima de 24 pasajeros, más el conductor. Dicho vehículo no podrá tener una antigüedad superior a 10 años.
 
-5. En los cursos para optar a una licencia de transporte de carga no podrán tener una antigüedad superior a 10 años.
+5. En el curso para optar a licencia de conductor profesional Clase A-5, para conducir vehículos articulados para el transporte de carga, el vehículo deberá corresponder a un camión articulado con capacidad de carga superior a 3.500 kilogramos. Dicho vehículo no podrá tener una antigüedad superior a 10 años.
 
 Los vehículos de instrucción deberán contar con revisiones técnicas semestrales efectuadas en Plantas de Revisiones Técnicas Clase A, de la región en que se encuentran autorizadas.
 
@@ -138,6 +186,12 @@ La antigüedad de los vehículos será determinada a contar del año de fabricac
 
 Las escuelas que impartan cursos para optar a licencias de conductor no profesional o clase B deber n contar con vehículos que cumplan con los requisitos exigidos en el D.S. Nº 39 del Ministerio de Transportes y Telecomunicaciones, publicado en el Diario Oficial con fecha 14 de mayo de 1985.
 
+#### Artículo 10º bis
+
+Las escuelas autorizadas para impartir el curso especial, a que hace referencia el artículo 13º número 5 de la Ley de Tránsito deberán tener acceso a un Simulador de Inmersión Total que cumpla con las características y especificaciones técnicas establecidas en el respectivo reglamento.
+
+Los simuladores podrán ser de propiedad de la escuela, arrendados o adquiridos a través de leasing o tomados en comodato.
+
 #### Artículo 11º
 
 Todos los vehículos de instrucción deberán cumplir con las características gráficas que disponga por resolución la Subsecretaría de Transportes.
@@ -146,15 +200,17 @@ Todos los vehículos de instrucción deberán cumplir con las características g
 
 La aprobación de los programas de estudio y de entrenamiento de los cursos que las escuelas deban impartir, se efectuará de acuerdo a la clase de licencia y especialidad del vehículo a conducir, teniendo en consideración:
 
-1. Las horas teóricas y prácticas impartidas para los diferentes cursos serán consideradas para todos los efectos horas cronológicas.
+1. La duración mínima de la enseñanza teórica y práctica corresponderá a 150 horas para los cursos A1, A2 y A4 y de 132 horas para los cursos A3 y A5, sin perjuicio de lo dispuesto para el curso especial que contemple el uso de Simulador de Inmersión Total
 
-2. El cupo por curso en su parte teórica, no podrá ser superior a 25 alumnos y la enseñanza no podrá exceder de 5 horas diarias.
+2. Las horas teóricas y prácticas impartidas para los diferentes cursos serán consideradas para todos los efectos horas cronológicas.
 
-3. Deberá verificarse por la escuela, previo al inicio del curso, que los postulantes cumplen con los requisitos para optar a la clase de licencia que requieren.
+3. El cupo por curso en su parte teórica, no podrá ser superior a 25 alumnos y la enseñanza no podrá exceder de 5 horas diarias.
 
-4. La asistencia de los alumnos deberá ser como mínimo de un 80% a las horas teóricas y 100% a las horas de práctica.
+4. Deberá verificarse por la escuela, previo al inicio del curso, que los postulantes cumplen con los requisitos para optar a la clase de licencia que requieren.
 
-5. Las calificaciones deberán ser efectuadas de acuerdo a una tabla de 0 a 100% para determinar el logro de los módulos teóricos y prácticos, siendo el porcentaje promedio mínimo de aprobación un 75% para optar a la licencia requerida de acuerdo al curso a realizar por el alumno.
+5. La asistencia de los alumnos deberá ser como mínimo de un 80% a las horas teóricas y 100% a las horas de práctica.
+
+6. Las calificaciones deberán ser efectuadas de acuerdo a una tabla de 0 a 100% para determinar el logro de los módulos teóricos y prácticos, siendo el porcentaje promedio mínimo de aprobación un 75% para optar a la licencia requerida de acuerdo al curso a realizar por el alumno.
 
 #### Artículo 13º
 
@@ -200,9 +256,9 @@ En el ejercicio de su representación les corresponderá en forma especial:
 
 #### Artículo 17º
 
-El cuerpo docente de las escuelas deberá considerar instructores por especialidad e instructores de conducción.
+El cuerpo docente de las escuelas deberá considerar instructores por especialidad e instructores de conducción en vehículos. Las escuelas que estén autorizadas para impartir el curso especial que contempla el uso de Simuladores de Inmersión Total, deberán contar además, con instructores de conducción en simulador.
 
-1. Los instructores por especialidad son los encargados de impartir las enseñanzas teórico-prácticas de los diversos cursos, con excepción de aquella que corresponde a la conducción de los vehículos de instrucción, debiendo cumplir los siguientes requisitos:
+1. Los instructores por especialidad son los encargados de impartir las enseñanzas teórico-prácticas de los diversos cursos, con excepción de aquella que corresponde a la conducción de los vehículos de instrucción y aquella que corresponde a la instrucción en simulador, debiendo cumplir los siguientes requisitos:
 
 a) Tener aprobada enseñanza media o equivalente.
 
@@ -221,6 +277,50 @@ c) Acreditar idoneidad moral mediante certificado de antecedentes personales oto
 d) Tener una experiencia de a lo menos 3 años continuos como conductor en el tipo de vehículo de acuerdo al curso a impartir, acreditada mediante certificados del o de los empleadores que hubiere tenido.
 
 e) Acreditar la aprobación de un curso de formación de instructores y/o habilitación pedagógica de a lo menos 120 horas cronológicas impartido por una Universidad o Instituto Profesional reconocido por el Estado.
+
+3. Los instructores encargados de impartir a los alumnos la enseñanza práctica en el simulador correspondiente a cada curso, deberán cumplir con los siguientes requisitos:
+
+a) Tener aprobada la enseñanza media o
+
+equivalente;
+
+b) Poseer licencia de conductor para el tipo
+
+de vehículo comprendido en la enseñanza a
+
+impartir, con a lo menos 5 años de antigüedad;
+
+c) Acreditar idoneidad moral de acuerdo con lo
+
+dispuesto en los artículos 14º y 15º de la
+
+Ley de Tránsito. Dichos antecedentes se
+
+deberán renovar cada 2 años;
+
+d) Acreditar la aprobación de un curso de
+
+formación de instructores y/o habilitación
+
+pedagógica de a lo menos 120 horas
+
+cronológicas impartido por una Universidad
+
+o Instituto Profesional reconocido por el
+
+Estado, y
+
+e) Acreditar la aprobación de un curso de
+
+formación de instructores y/o habilitación
+
+pedagógica para uso de simuladores impartido
+
+por una Universidad o Instituto Profesional
+
+reconocido por el Estado.
+
+> **Nota.** El Artículo transitorio del Decreto 121, Transportes, publicado el 11.09.2012, señala que el requisito establecido en la letra e) Nº3 que se agrega al Artículo 17º de la presente norma, será exigible a contar del 1 de agosto de 2014. Antes de esa fecha los instructores de conducción en simulador deberán acreditar su formación como instructor con la aprobación de un curso impartido por el fabricante, importador o sus representantes.
 
 #### Artículo 18º
 
