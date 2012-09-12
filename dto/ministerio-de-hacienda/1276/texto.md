@@ -6,7 +6,7 @@ Nº551, de 1982, modificado por los D.S. Nº1.231, de 1989 y Nº698, de 1997, to
 
 Decreto:
 
-1.- Autorízase al Ministro de Hacienda, al Embajador de la República de Chile en los Estados Unidos de América o al Encargado de Negocios Ad Interin que lo reemplace, para que, en representación de la República de Chile, contrate con el Banco Interamericano de Desarrollo (BID), un préstamo hasta por la suma US$50.000.000.- (Cincuenta millones de dólares de los Estados Unidos de América), o su equivalente en otras monedas, más los intereses y comisiones que correspondan. La presente operación se suscribirá con cargo al Convenio de la Línea de Crédito Condicional hasta por US$400.000.000 autorizado a suscribir con el BID mediante D.S. (Hda.) Nº1.278 de 2006, destinada a financiar uno o más Programas Individuales para apoyar el proceso de descentralización y el desarrollo regional del país.
+1.- Autorízase al Ministro de Hacienda, al Embajador de la República de Chile en los Estados Unidos de América o al Encargado de Negocios Ad Interin que lo reemplace, para que, en representación de la República de Chile, contrate con el Banco Interamericano de Desarrollo (BID), un préstamo hasta por la suma de US$23.500.000.- (Veintitrés millones quinientos mil dólares de los Estados Unidos de América), o su equivalente en otras monedas, más los intereses y comisiones que correspondan. La presente operación se suscribirá con cargo al Convenio de la Línea de Crédito Condicional hasta por US$400.000.000 autorizado a suscribir con el BID mediante D.S. (Hda.) Nº1.278 de 2006, destinada a financiar uno o más Programas Individuales para apoyar el proceso de descentralización y el desarrollo regional del país.
 
 2.- El préstamo estará destinado a financiar parcialmente el "Programa de Apoyo a la Gestión Subnacional en Chile", con el objeto de fortalecer las capacidades de las instituciones regionales y municipales.
 
@@ -14,7 +14,7 @@ Decreto:
 
 4.- Las condiciones financieras del préstamo serán las siguientes:
 
-Monto : Hasta US$50.000.000.-
+Monto : Hasta US$23.500.000.-
 
 Plazo total : No más de 15 años, a partir de
 
