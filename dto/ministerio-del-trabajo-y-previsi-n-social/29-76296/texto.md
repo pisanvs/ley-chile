@@ -96,39 +96,39 @@ l) Toma de muestra de exámenes a domicilio, m) Atención de urgencia, primeros 
 
 o) Insumos necesarios para el otorgamiento de las prestaciones de las letras b), d), g), h), i), j), m) precedentes.
 
+El Servicio de Bienestar podrá financiar con cargo a sus propios recursos, de acuerdo con sus disponibilidades presupuestarias, contratar de acuerdo a lo establecido en la Ley de Compras Públicas, seguros de vida para sus afiliados, seguros de salud, para solventar los gastos de salud de sus afiliados y/o cargas familiares no cubiertos por los sistemas de salud previsional, sin perjuicio de que los propios beneficiarios puedan concurrir a sufragar dichos seguros.
+
 #### Artículo 9º
 
 El Servicio de Bienestar, dependiendo de sus disponibilidades presupuestarias, podrá otorgar las siguientes ayudas, por las causales y de acuerdo a las modalidades que a continuación se indican:
 
 a) Matrimonio: Cuando el afiliado contraiga matrimonio. Si ambos contrayentes fuesen afiliados, la ayuda se pagará a cada uno de ellos en forma independiente;
 
-b) Nacimiento: Cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo.
-
-Si ambos padres fuesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples se otorgarán tantas ayudas como hijos nazcan;
+b) Nacimiento: cuando el afiliado compruebe con el instrumento público correspondiente el nacimiento de un hijo o la adopción de un menor. Si ambos padres fuesen afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente. En caso de nacimientos múltiples se otorgarán tantas ayudas como hijos nazcan;
 
 c) Fallecimiento: Se concederá una ayuda por el fallecimiento del afiliado y de sus cargas familiares reconocidas, incluido el mortinato, a partir del 5º mes de gestación, y el fallecimiento del hijo recién nacido que no hubiere sido aún reconocido como carga familiar.
 
 En caso de fallecimiento del afiliado esta ayuda se otorgará en el siguiente orden de precedencia:
 
-1. A la persona designada expresamente para tales efectos por el afiliado;
+1. A la persona designada expresamente para tales efectos por el afiliado.
 
-2. Al cónyuge sobreviviente;
+2. Al cónyuge sobreviviente.
 
-3. A los hijos legítimos;
+3. A los hijos.
 
-4. A los hijos naturales;
+4. A los padres.
 
-5. A los padres legítimos;
+5. A la persona que acredite haber efectuado los gastos del funeral
 
-6. A la persona que acredite haber efectuado los gastos del funeral.
-
-d) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste.
+d) Educación: El Servicio de Bienestar concederá una asignación de escolaridad, una vez al año, al afiliado y cargas familiares que estudien regularmente en algún establecimiento educacional del Estado o reconocido por éste, desde el nivel de pre-kinder hasta la enseñanza superior, en el nivel de pregrado.
 
 e) Becas de Estudio: El Servicio podrá otorgar en caso de extrema necesidad económica calificada como tal por el Consejo Administrativo, becas de estudio destinadas a completar los gastos derivados de la educación de sus hijos causantes de asignación familiar.
 
-f) Ayuda médica: En caso de enfermedad grave y tratamiento médico prolongado de alto costo, calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica complementaria de las prestaciones contempladas en el artículo 8º.
+f) Ayuda médica: en caso de viajes a control médico fuera de la región, tratamiento médico y exámenes de alto costo calificados como tales por el Jefe de Bienestar, se podrá otorgar al afiliado una ayuda económica suplementaria de las prestaciones contempladas en el artículo 8°, contemplada en la Tabla de beneficios aprobada por el Consejo Administrativo.
 
-g) Catástrofe: Se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considera como requisito la comprobación de los hechos por parte del Jefe del Servicio de Bienestar.
+g) Ayuda Médica Extraordinaria: en caso de enfermedad grave o catastrófica, tratamiento médico y/o insumos o medicamentos de alto costo calificados como tales por el Consejo Administrativo, se podrá otorgar al afiliado una ayuda económica suplementaria de las prestaciones contempladas en el artículo 8, por montos determinados caso a caso por el Consejo Administrativo.
+
+h) Catástrofe: se concederá una ayuda a cada afiliado que sufra daños graves a consecuencia de incendios, terremotos, inundaciones u otras catástrofes. Se considerará como la comprobación de los hechos por parte del Jefe del Servicio de Bienestar.
 
 El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), será determinado por el Consejo Administrativo conforme a lo señalado en la letra g) del artículo 29, del Reglamento General.
 
@@ -136,27 +136,17 @@ El monto de las ayudas contempladas en las letras a), b), c), d), e), f), g), se
 
 El Servicio de Bienestar podrá conceder préstamos a sus afiliados cuando sus recursos financieros lo permitan por las siguientes causales:
 
-1.) Préstamos Médicos: Se otorgarán como complemento de las prestaciones a que se refiere el artículo 8 del presente Reglamento, y su monto no será superior a tres ingresos mínimos mensuales, por afiliado, en cada año calendario;
+1) Préstamo Médico: Se podrá otorgar como complemento de las prestaciones a que se refiere el artículo 8° del presente Reglamento, y de acuerdo a la capacidad de endeudamiento del afiliado de acuerdo a lo señalado en el artículo 14° del mismo, y su monto será determinado por el Consejo Administrativo, al inicio de cada ejercicio presupuestario.
 
-2.) Préstamos de Auxilio: Se otorgarán a todo afiliado DTO 21, TRABAJO
+2) Préstamo Auxilio: Se podrá otorgar a todo afiliado que lo solicite, y que tenga capacidad de endeudamiento de acuerdo a lo señalado en el artículo 14° del presente Reglamento, y será de un monto fijado anualmente en la Tabla de Beneficios establecida anualmente por el Consejo Administrativo.
 
-que lo solicite. Su monto no podrá exceder de uno y medio ingreso mínimo mensual por afiliado en cada año calendario.
+No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios u otras catástrofes similares, estos préstamos podrán otorgarse por un monto establecido por el Consejo Administrativo, de acuerdo a cada caso, a la situación financiera del Servicio de Bienestar, de la capacidad de endeudamiento del afiliado y previo informe emitido por la Jefa de Bienestar, o por la Asistente Social del establecimiento correspondiente.
 
-No obstante lo anterior, tratándose de situaciones de emergencia derivadas de sismos, incendios u otras catástrofes similares, estos préstamos podrán otorgarse hasta por un monto máximo de ocho ingresos mínimos mensuales. En tales casos, el préstamo podrá concederse sin que sea necesario que el afiliado haya cancelado íntegramente un préstamo de auxilio obtenido con anterioridad.
+3) Préstamo Habitacional: Se podrá otorgar para completar el ahorro previo necesario para la adquisición de una vivienda y su monto será fijado anualmente por el Consejo Administrativo.
 
-3.) Préstamos Habitacionales: Se otorgarán para completar el ahorro previo necesario para la adquisición de una vivienda y su monto no podrá ser superior al 50% de la cantidad ahorrada por el afiliado, con un límite máximo de ocho ingresos mínimos mensuales.
+Este mismo beneficio y por el monto máximo indicado se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda, y para pagar los gastos operacionales en la compra de una vivienda propia.
 
-Este mismo beneficio y por el monto máximo indicado se podrá otorgar para la construcción, ampliación, reparación o término de la vivienda propia.
-
-Para solicitar un nuevo préstamo habitacional, será necesario haber cancelado íntegramente el anterior.
-
-4.) Préstamos Escolares: Se otorgarán una vez al año, y
-
-estarán orientados a solventar gastos de matrículas, Art. único Nº 1
-
-aranceles y traslados de los hijos que sean cargas
-
-familiares o bien para los propios afiliados, que cursen estudios superiores.
+4) Préstamo Escolar: se podrá otorgar una vez al año, de acuerdo a la capacidad de endeudamiento del afiliado, de acuerdo a lo señalado en el artículo 14° del presente Reglamento, y estarán orientados a solventar gastos de matrículas, aranceles, traslados de las cargas familiares o bien para los propios afiliados que cursen estudios superiores.
 
 #### Artículo 11º
 
@@ -178,15 +168,23 @@ El mecanismo de reajustabilidad que se aplicará y el interés que devengarán l
 
 En todo caso, el interés mensual no podrá ser superior al interés corriente a que se refiere el artículo 6º de la Ley Nº 18.010, debiendo rebajarse a dicho límite si fuere superior a él.
 
-#### Artículo 14º
+#### Artículo 14°
 
-Las sumas que el afiliado deba cancelar mensualmente al Servicio de Bienestar no podrán, en ningún caso, exceder del 40% de la remuneración imponible para pensiones del afiliado o de su pensión, según corresponda.
+Las sumas que el afiliado se comprometiese a pagar mensualmente al Servicio de Bienestar, no podrán exceder del 15% que establece el Estatuto Administrativo, aprobado por la Ley N° 18.834, en su artículo 96° cuyo texto refundido, coordinado y sistematizado se encuentra fijado por el DFL N° 29 de 2001, del Ministerio de Hacienda.
 
 #### Artículo 15º
 
-El Servicio de Bienestar propenderá al progreso social, cultural, educacional, deportivo y artístico de sus afiliados y causantes de asignación familiar, utilizando al máximo los recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+El Servicio de Bienestar propenderá el progreso social, cultural, educacional, deportivo y artístico de sus beneficiarios; con este objeto, siempre que sus recursos lo permitan, podrá:
 
-Con este objeto, el Servicio de Bienestar podrá conceder ayudas a los jardines infantiles, colonias de vacaciones, hogares sociales, casinos del personal, clubes deportivos, clubes escolares, clubes de jubilados y, en general, otras actividades que propendan a los fines señalados en el inciso anterior y que beneficien directamente a sus afiliados.
+a) Colaborar en la celebración de sus afiliados por actividades recreativas, deportivas y/o sociales del Día Aniversario del Servicio de Salud, Día del Hospital, día de celebración de las efemérides del sector salud.
+
+b) Financiar o ayudar a financiar actividades culturales, deportivas, recreativas, artísticas, sociales, festividades navideñas, festividades musicales, actividades vacacionales y programas de información y difusión a los afiliados.
+
+c) Conceder ayuda a los jardines infantiles, clubes escolares, colonias de veraneo, clubes deportivos, conjuntos folclóricos, coros, grupos de teatro, en el desarrollo de actividades que propendan directamente el bienestar a sus afiliados.
+
+d) Asesorar, otorgar ayuda y firmar, a través de autoridad superior de la Institución, convenios de cooperación con organizaciones que sean de carácter social, deportivo, recreativo, educativo y/o cultural, que beneficien directamente a sus afiliados y, en general, utilizar el máximo de recursos y facilidades que otras entidades o la comunidad puedan proporcionarle.
+
+e) Otorgar a sus afiliados regalos en cumpleaños, día del padre, día de la madre, día del niño, día de la mujer, día de las profesiones u oficios, en reconocimiento a los afiliados destacados por su labor en el Servicio, en reconocimiento a los afiliados pasivos y a los afiliados que se desvinculan de la Institución.
 
 #### Artículo 16º
 
