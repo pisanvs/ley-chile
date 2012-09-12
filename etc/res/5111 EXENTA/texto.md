@@ -144,8 +144,6 @@ del punto 3 de esta resolución.
 
 9. Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aún, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas, o de la resolución del Servicio de Registro Civil e Identificación tratándose de sucesiones intestadas.
 
-> **Nota.** La Resolución 2612 Exenta, Vivienda, publicada el 20.04.2013, modifica la Resolución 1124 Exenta, Vivienda, publicada el 28.02.2013, modificatoria de la presente norma, en el sentido de sustituir en la nómina de seleccionados de la Región del Maule, el monto de asistencia técnica asignado a los beneficiados, de la comuna de Cauquenes que en ella se indica e incrementa y sustituye en el cuadro inserto en el resuelvo 3°, las filas que corresponden a la Región del Maule y al total por las que se señalan.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
