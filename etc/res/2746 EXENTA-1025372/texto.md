@@ -42,6 +42,8 @@ Si luego de efectuada la selección quedaren subsidios disponibles en una o más
 
 La entidad tendrá un plazo de dos años a partir de la fecha de recepción municipal del proyecto, para completar el número de viviendas del proyecto con postulantes que proponga al Serviu.
 
+Sin perjuicio de lo anterior, mediante resolución fundada de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, podrán modificarse los plazos indicados en el párrafo precedente.
+
 7º.- La calidad de damnificado se acreditará mediante la Ficha de Registro de Damnificados extendida por la respectiva Municipalidad, ingresada en el sistema computacional que el Ministerio de Vivienda y Urbanismo ha implementado para estos efectos y con certificado de inhabitabilidad expedido por la Dirección de Obras Municipales respectiva, con la descripción del daño, señalando, a lo menos, la individualización del jefe de hogar afectado con indicación del número de su cédula nacional de identidad (RUN o RUT), dirección del inmueble afectado, rol de avalúo fiscal del inmueble y a qué título ocupaba la vivienda.
 
 Si el postulante tiene la calidad de arrendatario según la Ficha de Registro de Damnificados, deberá acompañar declaración jurada simple del postulante y del propietario que indique que era arrendatario de la vivienda declarada inhabitable, de acuerdo a formato tipo disponible en el Serviu, y presentar además, alguno de los siguientes documentos en los que conste la dirección de la vivienda declarada inhabitable:
@@ -83,6 +85,8 @@ h) Cuando la mujer casada bajo régimen de sociedad conyugal, a la disolución d
 En donde P corresponde al precio de la vivienda de acuerdo al artículo 4 del DS Nº 40, (V. y U.), de 2004.
 
 11.- Para postular al subsidio a que se refiere esta resolución, el interesado deberá contar con 50 Unidades de Fomento de ahorro, a excepción de los damnificados que acrediten tal condición, de acuerdo a lo señalado en el resuelvo 7º precedente.
+
+El ahorro acreditado deberá haber sido enterado en alguna de las cuentas señaladas en el artículo 5 del D.S. Nº 40 (V. y U.), de 2004, o estipularlo en la respectiva escritura de compraventa de la vivienda adquirida con el subsidio obtenido mediante el presente llamado especial
 
 12.- El Serviu confeccionará la nómina de postulantes seleccionados para la obtención del subsidio, considerando los postulantes propuestos por la entidad. Mediante resoluciones del Serviu, se aprobarán las nóminas de postulantes seleccionados, las que deberán dictarse con posterioridad a la aprobación del convenio a que se refiere el resuelvo 4º de esta resolución, ya sea por el número total de la viviendas indicadas en éste, o en forma fraccionada hasta completar dicho número, para lo cual tendrá un plazo de dos años a partir de la fecha de la recepción municipal de las obras.
 
@@ -161,6 +165,8 @@ Además del seguro señalado, los créditos deberán contar con seguro de incend
 Transcurrido el plazo de 180 días señalado en el inciso primero del número 6° de esta Resolución, también podrán acogerse a lo señalado en el inciso anterior, beneficiarios de subsidio habitacional de llamados nacionales, en cuyo caso se aplicarán a las actuaciones aún no realizadas y/o a los efectos aún no producidos. Dichos beneficiarios, sólo podrán aplicar el Certificado de Subsidio en la región que indicaron como región de preferencia al momento de postular.
 
 El plazo para acogerse a lo dispuesto en este número, será el señalado en el inciso segundo del número 6° de esta Resolución.
+
+Sin perjuicio de lo anterior, mediante resolución fundada de la Secretaría Regional Ministerial de Vivienda y Urbanismo respectiva, podrán modificarse los plazos indicados en el párrafo precedente.
 
 25.- Podrán participar en el presente llamado proyectos habitacionales que consideren un número de unidades de viviendas a ser vendidas sin la aplicación del subsidio habitacional. Estas viviendas no requerirán cumplir las exigencias que establece el resuelvo 14 de esta resolución y la entidad sólo podrá solicitar los préstamos de enlace a que se refiere el resuelvo 18, por las viviendas que serán vendidas con un subsidio habitacional.
 
