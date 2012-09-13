@@ -84,7 +84,7 @@ Décimo tercero.- Normas supletorias. En todo lo no previsto por el presente Reg
 
 Décimo cuarto.- Excepción del primer período calificatorio. El primer período calificatorio que se evalúe de acuerdo a las normas del presente decreto incluirá, por única vez, un Informe de Desempeño del Personal que abarcará el período comprendido entre el 1 de septiembre al último día del mes de febrero del año siguiente. Dicho informe será parte con los otros dos informes de evaluación del primer período calificatorio que funcione desde que rija este decreto.
 
-Décimo quinto.- Derogación. Derógase a contar de la fecha de publicación del presente decreto en el Diario Oficial, el decreto supremo Nº 144, de 1998, del Ministerio Secretaría General de la Presidencia de la República, que estableció el Reglamento Especial de Calificaciones del Personal de la Comisión Nacional del Medio Ambiente, en lo que se refiere al Ministerio del Medio Ambiente.
+Décimo Quinto.- Derogación. Derógase el decreto supremo Nº 144, de 1998, del Ministerio Secretaría General de la Presidencia, que establece el Reglamento Especial de Calificaciones del Personal de la Comisión Nacional del Medio Ambiente, en lo que se refiere al Ministerio del Medio Ambiente, a contar de la fecha de entrada en vigencia automática del Reglamento Especial de Calificaciones del Personal de la Subsecretaría del Ministerio del Medio Ambiente, de acuerdo al Artículo Primero Transitorio del presente decreto.
 
 #### Artículo primero
 
