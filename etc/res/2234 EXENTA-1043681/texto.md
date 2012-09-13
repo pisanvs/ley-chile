@@ -1,0 +1,31 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO SAN JUAN
+
+Núm. 2.234 exenta.- Santiago, 30 de agosto de 2012.- Visto: Estos antecedentes, la providencia Nº 552, de 19 de marzo de 2012, de Jefa Subdepartamento Registro y Autorizaciones Sanitarias, a la cual se acompaña el memorando Nº 118, de fecha 15 de marzo de 2012, de Jefa Subdepartamento Inspecciones, en el cual se requiere determinar el régimen que corresponde aplicar a 16 productos fabricados en un local farmacéutico, de acuerdo a las disposiciones del artículo 8º, del decreto Nº 3 de 2010, entre ellos el producto San Juan; el acuerdo de la Sesión Nº 4/12 de la Comisión de Régimen de Control Aplicable, de fecha 20 de abril de 2012; y
+
+Considerando:
+
+Primero: Que en la muestra enviada se declara que cada cápsula contiene: Yerva de San Juan T. M. (Hipericum T.M.). Además, en ella se indica que él es elaborado por Laboratorio Kornfeld, ubicado en Victoria 521, San Bernardo;
+
+Segundo: Que se acompañó un folleto promocional, en el cual se establecen las siguientes indicaciones de uso para este producto: "Depresión, Alzheimer";
+
+Tercero: Que el único ingrediente declarado en este producto, "Yerva de San Juan T.M. (Hipericum T.M.), muy probablemente corresponde a una preparación del vegetal conocido popularmente como Hierba de San Juan, Hypericum perforatum L. No se tiene conocimiento de que la Hierba de San Juan se consuma como planta alimenticia o que se emplee como aditivo en alimentos (como por ejemplo aromatizantes, saborizantes, colorantes, etc.) o como especia (condimentos), solamente se han descrito sus efectos terapéuticos. Como respaldo de estas afirmaciones se cuenta con la monografía de "St. John's Wort" elaborada por el National Center for Complementary and Alternative Medicine (NCCAM) de Estados Unidos, en que se establece que ella ha sido usada por centurias para tratar desórdenes mentales y dolor neurálgico; también, ha sido utilizada como sedante, para curar heridas, quemaduras y picaduras de insectos; actualmente, se emplea para la depresión, ansiedad y/o desórdenes del sueño (http://nccam.nih.gov/health/stjohnswort/ataglance.htm). En estas monografías del NCCAM normalmente se incluyen todos los posibles usos de los vegetales, lo cual no ocurre en este caso, en que sólo se describen usos terapéuticos;
+
+Cuarto: Que este Instituto tiene varios medicamentos autorizados, con sus registros vigentes, que contienen preparaciones de Hypericum perforatum L. como principio activo, como monodroga en fitofármacos y en asociaciones en medicamentos homeopáticos (Ej.: N-317/08, N-344/09, N-395/10, H-1026/06, H-1114/07, H-729/10, H-598/10, etc.). Cabe destacar que hasta el año 2010 se encontraba vigente el registro Nº H-1106/05, correspondiente al producto Yerba de San Juan T.M. solución oral para gotas, cuyo único principio activo era Hypericum perforatum T.M., este registro caducó porque no se renovó. Los fitofármacos que contienen este vegetal también están autorizados para el tratamiento de estados depresivos leves a moderados y tienen condición de venta bajo receta médica;
+
+Quinto: Que este producto fue evaluado con anterioridad, también a petición del Subdepartamento Inspecciones de este Instituto, en la Sesión Nº 6/11 de la Comisión de Régimen de Control Aplicable, de fecha 8 de septiembre de 2011, ocasión en que se recomendó clasificarlo como medicamento, porque la Hierba de San Juan, Hypericum perforatum L., es considerada producto farmacéutico en nuestro país y porque él se promociona con propiedades terapéuticas (Depresión, Alzheimer);
+
+Sexto: Que, adicionalmente, se debe agregar que las Tinturas Madres (T.M.) son preparaciones propias de medicamentos homeopáticos y que la Comisión D Alemana tiene una monografía de Hypericum perforatum (Hypericum), en que se emplea la planta entera y fresca en floración de Hypericum perforatum L., pudiéndose administrar en forma de tintura madre, diluciones líquidas, glóbulos, trituraciones y comprimidos por vía oral, en las siguientes indicaciones: Lesiones del sistema nervioso central o periférico, estados de desánimo, calcificación vascular cerebral y asma;
+
+Séptimo: Que, dada la composición descrita para este producto, el cual presenta una preparación homeopática, que corresponde a un principio activo propio de medicamentos homeopáticos y que a él se le atribuyen exclusivamente finalidades terapéuticas (depresión y enfermedad de Alzheimer), se debe mantener su clasificación como producto farmacéutico (artículos 7° y 15º, del Decreto Nº 3 de 2010); y
+
+Teniendo presente: Lo dispuesto en los artículos 94° y 102° del Código Sanitario; en los artículos 8° y 9° del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto N° 3 de 2010, del Ministerio de Salud; los artículos 59° letra b), del decreto con fuerza de ley N° 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley N° 2.763, de 1979 y de las leyes N° 18.933 y N° 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta N° 1.553, del 13 de julio de 2012, del Instituto de Salud Pública de Chile, dicto la siguiente:
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto San Juan, fabricado por Laboratorio Kornfeld, es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto N° 3 de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º, del decreto N° 3 de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Agencia Nacional de Medicamentos.
