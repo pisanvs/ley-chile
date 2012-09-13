@@ -1,0 +1,37 @@
+DETERMINA RÉGIMEN DE CONTROL A APLICAR AL PRODUCTO ULTRA-MAX FORTE
+
+Núm. 2.217 exenta.- Santiago, 30 de agosto de 2012.- Visto: Estos antecedentes, la providencia Nº 552, de 19 de marzo de 2012, de Jefa Subdepartamento Registro y Autorizaciones Sanitarias, a la cual se acompaña el memorando Nº 118, de fecha 15 de marzo de 2012, de Jefa Subdepartamento Inspecciones, en el cual se requiere determinar el régimen que corresponde aplicar a 16 productos fabricados en un local farmacéutico, de acuerdo a las disposiciones del artículo 8º, del decreto Nº 3 de 2010, entre ellos el producto Ultra-Max Forte; el acuerdo de la sesión Nº 4/12 de la Comisión de Régimen de Control Aplicable, de fecha 20 de abril de 2012; y
+
+Considerando:
+
+Primero: Que en la muestra enviada se declara que cada cápsula contiene: 160 mg de D-glucosamina, 80 mg de Condroitina, 25 mg de Uña de Gato, 15 mg de Chuchuhuasi, 15 mg de Árnica, 25 mg de Magnesio, 10 mg de Vitamina C y 20 mg de Sangre de Grado; se recomienda el siguiente modo de uso: 1 a 2 cápsulas diarias, alejado de los alimentos. Además, en ella se indica que él es elaborado por Laboratorio Kornfeld, ubicado en Victoria 521, San Bernardo;
+
+Segundo: Que se acompañó un folleto promocional, en el cual se establecen las siguientes indicaciones de uso para este producto: "Con Glucosamina y condroitina, Artritis, Artrosis, Dolor de huesos, Pérdida de Movilidad, Tendinitis";
+
+Tercero: Que Glucosamina y Condroitina son considerados principios activos propios de medicamentos, encontrándose autorizados una cantidad considerable de registros sanitarios vigentes que los presentan, solos o en asociación. De hecho, la resolución exenta Nº 1.216, de fecha 12 de febrero de 2002, de este Instituto, establece, en su punto 1.2, que los productos farmacéuticas de administración oral que contengan sales de glucosamina o condroitina como principios activos solos o en asociación, deben ser considerados especialidades farmacéuticas convencionales;
+
+Cuarto: Que este Instituto tiene varios medicamentos autorizados, con sus registros vigentes, que contienen Uña de Gato (Uncaria tomentosa). El vegetal Uña de gato no tiene usos como alimento;
+
+Quinto: Que, mediante la resolución exenta Nº 11.634, de fecha 28 de diciembre de 2004, se clasificó al producto Chuchuhuasi Cápsulas, el cual contenía 500 mg de Chuchuhuasi deshidratada y micropulverizada, que se promovía para una serie de cuadros patológicos, entre los cuales se pueden destacar: reumatismo, artritis, paludismo, depresión, diarrea, entre otros, como producto farmacéutico;
+
+Sexto: Que Árnica también es empleada como principio activo en productos farmacéuticos y este Instituto tiene varios autorizados, principalmente medicamentos homeopáticos que la contienen, sola o en asociación;
+
+Séptimo: Que, de acuerdo a la composición y modo de uso declarados para este producto, magnesio y vitamina C se encuentran dentro de los rangos autorizados para estos nutrientes en alimentos fortificados (resolución exenta Nº 393 de 2002, del Ministerio de Salud);
+
+Octavo: Que Sangre de Grado (Croton lechleri) es un árbol que crece a lo largo de los trópicos y las regiones del Amazonas de América del Sur, contiene una resina roja o "sangre", la cual junto con su corteza tienen una larga historia de uso indígena en América del Sur. La usan las tribus indígenas de Perú interna y externamente como cicatrizante de heridas, leucorrea, fracturas y, también, en la medicina folclórica brasileña, para enfermedades intestinales y úlceras gástricas. Otros usos indígenas incluyen baños vaginales antes de la menarquia, hemorragias después de las menarquia, desórdenes de la piel, duchas vaginales antisépticas, para las heridas y úlceras en la boca, garganta y estómago, así como para los desórdenes superficiales como el eczema. Algunos principios activos de Sangre de Grado han sido identificados e incluyen: proantocianinas (antioxidantes), taninos, un lingan de nombre Dimetil cedrusina, y un alcaloide llamado Taspina, el cual ha sido documentado como cicatrizante, antiinflamatorio, actividad contra el desarrollo de sarcomas y acción antiviral (específicamente contra Herpesvirus). En 1994, se encontraron otros fitoquímicos, incluyendo los compuestos fenólicos, proantocianinas y diterpenos que mostraron actividad antibacteriana potente así como propiedades curativas de heridas. Estudios realizados por Chen y col.en Bélgica revelaron que la resina cruda estimuló la curación de heridas, ayudando a la formación de una cicatriz en el sitio de la herida, acelerando la regeneración de la piel y la formación de nuevo colágeno (Tamariz Ortiz, Jesús Humberto, Capcha Mendoza, Roberto, Palomino Cadenas, Edwin Julio et al. Actividad antibacteriana de la Sangre de Grado (Croton lechleri) frente al Helicobacter pylori. Rev Med Hered. [online]. abr. 2003, vo1. 14, no.2, p.81-88. Disponible en la World Wide Web: <http://www.scielo.org.pe/scielo.php?script=sci arttext&pid=S1018-130X2003000200008&Ing=es&nrm=iso>.ISSN 1018-130X);
+
+Noveno: Que este producto fue evaluado con anterioridad, también a petición del Subdepartamento Inspecciones de este Instituto, en la Sesión Nº 6/11 de la Comisión de Régimen de Control Aplicable, de fecha 8 de septiembre de 2011, ocasión en que se recomendó clasificarlo como medicamento, dado que varios de sus ingredientes corresponden a principios activos y él se promociona para tratar varios cuadros patológicos, como artritis, artrosis y tendinitis;
+
+Décimo: Que se debe mantener su clasificación como producto farmacéutico, dada su composición y a que sus finalidades de uso son exclusivamente terapéuticas (artículo 7º, del decreto Nº 3 de 2010); y
+
+Teniendo presente: Lo dispuesto en los artículos 94º y 102º del Código Sanitario; en los artículos 8º y 9º del Reglamento del Sistema Nacional de Control de los Productos Farmacéuticos de Uso Humano, aprobado por el decreto Nº 3 de 2010, del Ministerio de Salud; los artículos 59º letra b), del decreto con fuerza de ley Nº 1, de 2005, que fija el texto refundido, coordinado y sistematizado del decreto ley Nº 2.763, de 1979 y de las leyes N° 18.933 y Nº 18.469; lo dispuesto en el Reglamento del Instituto de Salud Pública de Chile, aprobado por el decreto supremo núm. 1.222, de 1996, de la misma Secretaría de Estado; y en uso de las facultades que me otorga la resolución exenta Nº 1.553, del 13 de julio del 2012, del Instituto de Salud Pública de Chile, dicto la siguiente:
+
+Resolución:
+
+1. Establécese que el régimen que corresponde aplicar al producto Ultra - Max Forte, fabricado por Laboratorio Kornfeld, es el propio de los productos farmacéuticos.
+
+2. Por lo tanto, deberá regirse por las disposiciones del Reglamento del Sistema Nacional de Control de Productos Farmacéuticos de Uso Humano, decreto Nº 3 de 2010, del Ministerio de Salud.
+
+3. De acuerdo a lo señalado en el artículo 8º, del decreto Nº 3 de 2010, del Ministerio de Salud, desde la fecha de notificación de la presente resolución y mientras no se obtenga el registro sanitario de este medicamento, éste deberá ser retirado del mercado por parte de quien lo distribuye o expende, sin perjuicio de las responsabilidades sanitarias a que ello diere lugar.
+
+Anótese, comuníquese, publíquese en el Diario Oficial y en la página web ISP.- Helen Rosenbluth López, Jefa Subdepartamento Registro y Autorizaciones Sanitarias, Agencia Nacional de Medicamentos.
