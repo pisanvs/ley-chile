@@ -134,6 +134,8 @@ f).- Cuidado y mantención de la vivienda.
 
 12.- Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los SERVIU en los términos previstos en el DS Nº 255 (V. y U.), de 2006.
 
+13.- Tratándose de inmuebles pertenecientes a una sucesión hereditaria, el postulante podrá acreditar el dominio del inmueble a nombre de esa comunidad mediante copia de la inscripción especial de herencia o si ésta no se hubiere practicado aún, acompañando copia de la inscripción de dominio a favor del causante y acreditando su calidad de heredero con posesión efectiva en tramitación, mediante copia del auto de posesión efectiva del Tribunal competente en caso de sucesiones testadas, o de la resolución del Servicio de Registro Civil e Identificación, tratándose de sucesiones intestadas.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
