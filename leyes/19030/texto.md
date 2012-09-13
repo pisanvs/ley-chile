@@ -56,6 +56,8 @@ Para todos los efectos requeridos por esta ley, la Comisión Nacional de Energí
 
 Facúltase al Ministro de Hacienda para incrementar, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", el Fondo en 5,4 millones de dólares de los Estados Unidos de América, mediante una o más transferencias de recursos disponibles en activos financieros del Tesoro Público.
 
+Facúltase al Ministro de Hacienda para incrementar, mediante decreto expedido bajo la fórmula "Por orden del Presidente de la República", el Fondo en hasta 3 millones de dólares de los Estados Unidos de América, mediante una o más transferencias de recursos disponibles en activos financieros del Tesoro Público.
+
 #### Artículo 6°
 
 Establécese a beneficio o de cargo fiscal, según corresponda, los siguientes impuestos y créditos fiscales específicos de tasa variable, a los combustibles a que se refiere esta ley:
