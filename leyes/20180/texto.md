@@ -8,7 +8,7 @@ Proyecto de ley:
 
 #### Artículo 1°
 
-Autorízase erigir un monumento, en la comuna de Providencia, en memoria de don Hernán Briones Gorostiaga.
+Autorízase erigir un monumento, en la comuna de Las Condes, en memoria de don Hernán Briones Gorostiaga.
 
 #### Artículo 2°
 
