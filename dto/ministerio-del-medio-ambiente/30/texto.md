@@ -144,7 +144,7 @@ Décimo cuarto.- Excepción del primer período calificatorio. El primer períod
 
 <!-- parte:9247760 -->
 
-Décimo quinto.- Derogación. Derógase a contar de la fecha de publicación del presente decreto en el Diario Oficial, el decreto supremo Nº 144, de 1998, del Ministerio Secretaría General de la Presidencia de la República, que estableció el Reglamento Especial de Calificaciones del Personal de la Comisión Nacional del Medio Ambiente, en lo que se refiere al Ministerio del Medio Ambiente.
+Décimo Quinto.- Derogación. Derógase el decreto supremo Nº 144, de 1998, del Ministerio Secretaría General de la Presidencia, que establece el Reglamento Especial de Calificaciones del Personal de la Comisión Nacional del Medio Ambiente, en lo que se refiere al Ministerio del Medio Ambiente, a contar de la fecha de entrada en vigencia automática del Reglamento Especial de Calificaciones del Personal de la Subsecretaría del Ministerio del Medio Ambiente, de acuerdo al Artículo Primero Transitorio del presente decreto.
 
 #### Artículo primero transitorio
 
