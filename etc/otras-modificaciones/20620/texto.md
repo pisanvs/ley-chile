@@ -1,24 +1,30 @@
-FIJA NORMAS PARA PREVENCION Y SANCION DE HECHOS DE VIOLENCIA EN RECINTOS DEPORTIVOS CON OCASION DE ESPECTACULOS DE FUTBOL PROFESIONAL
+LEY NÚM. 20.620
 
-Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente
+MODIFICA LEY Nº 19.327, QUE FIJA NORMAS PARA LA PREVENCIÓN Y SANCIÓN DE HECHOS DE VIOLENCIA EN RECINTOS DEPORTIVOS, CON OCASIÓN DE ESPECTÁCULOS DE FÚTBOL PROFESIONAL
 
-Proyecto de Ley:
+Teniendo presente que el H. Congreso Nacional ha dado su aprobación al siguiente proyecto de ley
 
-## Título I
+Proyecto de ley:
 
-De las medidas de seguridad preventivas
+#### Artículo 1º
 
-#### Artículo 1°
+Modifícase la ley Nº 19.327, que fija normas para prevención y sanción de hechos de violencia en recintos deportivos, con ocasión de espectáculos de fútbol profesional, en la forma que a continuación se indica:
 
-Los centros o recintos deportivos destinados a la realización de espectáculos de fútbol profesional, requerirán de una autorización otorgada por el Intendente de la Región respectiva, previo informe de Carabineros, que acredite que reúnen las condiciones de seguridad para efectuar tales eventos, sin perjuicio de las exigencias establecidas en la Ordenanza General de la Ley General de Urbanismo y Construcciones y en el reglamento de esta ley. Las autorizaciones que se otorguen considerarán las características de los eventos que se realicen.
+1.- En el artículo 1º:
 
-La autorización indicada en el inciso precedente podrá siempre ser revocada si desaparecieren las circunstancias que motivaron su otorgamiento o sobrevinieren otras que, de haber existido, habrían justificado su denegación.
+a) Intercálase, a continuación de la palabra "Construcciones", lo siguiente: "y en el reglamento de esta ley. Las autorizaciones que se otorguen considerarán las características de los eventos que se realicen".
+
+b) Agréganse los siguientes incisos segundo, tercero, cuarto y quinto:
+
+"La autorización indicada en el inciso precedente podrá siempre ser revocada si desaparecieren las circunstancias que motivaron su otorgamiento o sobrevinieren otras que, de haber existido, habrían justificado su denegación.
 
 Los contratos que suscriban los organizadores de espectáculos de fútbol profesional con los administradores de los estadios destinados a dichos eventos deberán incorporar las condiciones de seguridad que haya fijado el Intendente en la respectiva resolución.
 
 En caso de incumplimiento de tales condiciones, el Intendente podrá suspender temporalmente la autorización otorgada conforme al inciso primero.
 
-En el reglamento de esta ley, establecido en un decreto supremo que llevará la firma del Ministro del Interior y Seguridad Pública, se regularán las condiciones mínimas que deberán cumplir los recintos y los organizadores de espectáculos de fútbol profesional, de acuerdo a las características y al riesgo para el orden público, la seguridad pública y los asistentes.
+En el reglamento de esta ley, establecido en un decreto supremo que llevará la firma del Ministro del Interior y Seguridad Pública, se regularán las condiciones mínimas que deberán cumplir los recintos y los organizadores de espectáculos de fútbol profesional, de acuerdo a las características y al riesgo para el orden público, la seguridad pública y los asistentes.".
+
+2.- Reemplázase el artículo 2º, por los siguientes:
 
 #### Artículo 2º
 
@@ -62,13 +68,9 @@ B.- El personal de seguridad contratado por el organizador del espectáculo de f
 
 #### Artículo 2º
 
-C.- Para los efectos de la presente ley y su reglamento, se entenderá por "inmediaciones", la distancia de mil metros perimetrales medidos en línea recta desde los límites exteriores y hacia todos los costados del recinto deportivo en que se realizan espectáculos de fútbol profesional.
+C.- Para los efectos de la presente ley y su reglamento, se entenderá por "inmediaciones", la distancia de mil metros perimetrales medidos en línea recta desde los límites exteriores y hacia todos los costados del recinto deportivo en que se realizan espectáculos de fútbol profesional.".
 
-#### Artículo 3°
-
-Las autoridades del fútbol profesional, al momento de fijar el calendario de las competencias nacionales e internacionales, o al tomar conocimiento de estas últimas, deberán comunicarlo al Intendente respectivo, para su evaluación.
-
-Los espectáculos no contemplados en el calendario y los cambios que se registren deberán ser informados al Intendente y a Carabineros con no menos de veinticuatro horas de anticipación a su realización. Las autoridades del fútbol profesional siempre deberán advertirles sobre aquellos partidos que, en su opinión, puedan revestir alto riesgo para la seguridad pública.
+3.- Sustitúyese el artículo 4º, por el que sigue:
 
 #### Artículo 4º
 
@@ -84,17 +86,9 @@ Asimismo, se prohíbe a las personas indicadas en el inciso anterior dar o conse
 
 La infracción de las prohibiciones señaladas será sancionada con la multa establecida en el inciso tercero.
 
-Conocerá de estas infracciones el juez de policía local correspondiente al lugar donde ellas se hubieren cometido, de conformidad al procedimiento ordinario que establece la ley Nº 18.287.
+Conocerá de estas infracciones el juez de policía local correspondiente al lugar donde ellas se hubieren cometido, de conformidad al procedimiento ordinario que establece la ley Nº 18.287.".
 
-#### Artículo 5°
-
-En el caso del artículo 1°, si la autoridad no se pronunciare dentro del plazo de treinta días, contado desde la fecha de presentación de la solicitud, se entenderá otorgada la autorización. Si fuere denegada o si la entidad obligada no se conformare con lo resuelto, el afectado podrá solicitar reposición ante la misma autoridad dentro del plazo de cinco días, la que deberá ser resuelta en el término de diez días. Si ese recurso no fuere interpuesto, o no fuere fallado dentro de plazo, o el recurrente no se conformare con lo resuelto, podrá reclamar dentro del plazo de quince días, ante el juez de letras en lo civil de turno que corresponda al lugar en donde funciona el respectivo recinto deportivo. Interpuesto el reclamo, al que se acompañarán los antecedentes en que se funde, el tribunal pedirá informe a la autoridad respectiva, fijándole un plazo breve para emitirlo. Recibido dicho informe, el tribunal dictará sentencia dentro de los quince días siguientes. En caso de ordenarse medidas para mejor resolver, dicho plazo se entenderá prorrogado por diez días. En contra de la sentencia no procederá el recurso de casación en la forma.
-
-## Título II
-
-De los delitos cometidos con ocasión de espectáculos
-
-de fútbol profesional
+4.- Reemplázase el artículo 6º, por los siguientes:
 
 #### Artículo 6º
 
@@ -162,7 +156,9 @@ El que, en el recinto deportivo o en sus inmediaciones, consumiere o portare sus
 
 En caso de reincidencia en alguna de las conductas señaladas en este artículo, las penas se elevarán al doble. Si el reincidente cometiere nuevamente alguna de las faltas señaladas precedentemente, la prohibición de asistir a cualquier espectáculo de fútbol profesional tendrá una duración de entre tres y cinco años. Quienes fueren sorprendidos cometiendo alguna de las faltas señaladas en este artículo serán desalojados de manera inmediata del recinto deportivo por las Fuerzas de Orden y Seguridad.
 
-El que quebrante la pena de suspensión para asistir a un espectáculo de fútbol profesional impuesta por haber cometido alguna de las faltas previstas en el presente artículo o por su reiteración será sancionado con la pena señalada en el párrafo segundo de la letra b) del artículo 6º D.
+El que quebrante la pena de suspensión para asistir a un espectáculo de fútbol profesional impuesta por haber cometido alguna de las faltas previstas en el presente artículo o por su reiteración será sancionado con la pena señalada en el párrafo segundo de la letra b) del artículo 6º D.".
+
+5.- Agrégase el siguiente artículo 6º H:
 
 #### Artículo 6º
 
@@ -170,7 +166,9 @@ H.- El que revendiere entradas para espectáculos de fútbol profesional será s
 
 Con la misma multa señalada en el inciso anterior se sancionará al organizador de un espectáculo de fútbol profesional que ofrezca un número de entradas superior al que se le hubiere autorizado para el evento respectivo. Dicha multa se elevará al doble en los casos en que, producto de la sobreoferta, se produjeren desórdenes, aglomeraciones que pongan en riesgo a los asistentes o cualquier otra alteración de la tranquilidad o el orden público.
 
-El reglamento de esta ley establecerá la forma en que se fijará el número máximo de boletos de entrada que se podrá vender y el plazo dentro del cual los organizadores de un espectáculo deportivo deberán acreditar, ante el Intendente respectivo, que el número de boletos impresos no excede del máximo autorizado.
+El reglamento de esta ley establecerá la forma en que se fijará el número máximo de boletos de entrada que se podrá vender y el plazo dentro del cual los organizadores de un espectáculo deportivo deberán acreditar, ante el Intendente respectivo, que el número de boletos impresos no excede del máximo autorizado.".
+
+6.- Sustitúyese el artículo 7º, por el siguiente:
 
 #### Artículo 7º
 
@@ -178,7 +176,9 @@ Se considerarán circunstancias agravantes especiales:
 
 1a. Ser integrante de un grupo organizado para la realización de los ilícitos descritos en los artículos precedentes.
 
-2a. Ser organizador o protagonista en el espectáculo de fútbol profesional, o dirigente de alguno de los clubes participantes en él.
+2a. Ser organizador o protagonista en el espectáculo de fútbol profesional, o dirigente de alguno de los clubes participantes en él.".
+
+7.- Agrégase el siguiente artículo 7º A:
 
 #### Artículo 7º
 
@@ -190,52 +190,66 @@ El personal de seguridad contratado por el organizador del espectáculo de fútb
 
 El personal de Carabineros de Chile podrá efectuar controles de identidad preventivos, con las facultades contempladas en el artículo 85 del Código Procesal Penal, en los recintos deportivos o sus inmediaciones, desde una hora antes de que se abran las puertas del establecimiento, durante la realización de un espectáculo de fútbol profesional y hasta tres horas después de su término.
 
-En el reglamento de esta ley se establecerán las normas de procedimientos y directrices para la aplicación de lo dispuesto en este artículo.
+En el reglamento de esta ley se establecerán las normas de procedimientos y directrices para la aplicación de lo dispuesto en este artículo.".
 
-#### Artículo 8°
-
-DEROGADO
+8.- Sustitúyese el artículo 9º, por el siguiente:
 
 #### Artículo 9º
 
 Se aplicarán las normas previstas en la ley Nº 20.084, sobre responsabilidad penal adolescente, a los menores de dieciocho años y mayores de catorce años de edad que incurrieren en las conductas contempladas en los artículos 6º, 6º A y 6º B.
 
-Además, en el caso de ser condenados, se les impondrán las mismas penas accesorias previstas en el artículo 6º D respecto de los mayores de edad.
+Además, en el caso de ser condenados, se les impondrán las mismas penas accesorias previstas en el artículo 6º D respecto de los mayores de edad.".
+
+9.- Agrégase el siguiente artículo 9º A:
 
 #### Artículo 9º
 
 A.- Si un menor de dieciocho años y mayor de catorce años de edad incurriere en alguna de las conductas descritas en los artículos 6º G y 6º H, se le impondrán las penas que, conforme a los artículos 21, 22, 23, número 5, y demás pertinentes de la ley Nº 20.084, corresponda aplicar.
 
-Además, se le impondrá la prohibición de asistir a cualquier espectáculo de fútbol profesional por los plazos previstos en el artículo 6º G.
+Además, se le impondrá la prohibición de asistir a cualquier espectáculo de fútbol profesional por los plazos previstos en el artículo 6º G.".
 
-#### Artículo 10
+10.- Agréganse, en el artículo 10, los siguientes incisos segundo y tercero:
 
-La investigación y el juzgamiento de los delitos contemplados en esta ley se regirán por el Código Procesal Penal.
+"El Fiscal podrá solicitar al juez de garantía la suspensión condicional del procedimiento siempre que se reúnan los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer al imputado cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, debiendo siempre decretar la prohibición de asistir a cualquier espectáculo de fútbol profesional, durante el tiempo que dure la suspensión.
 
-El Fiscal podrá solicitar al juez de garantía la suspensión condicional del procedimiento siempre que se reúnan los requisitos establecidos en el artículo 237 del Código Procesal Penal. En tal caso, el juez podrá imponer al imputado cualquiera de las condiciones contempladas en el artículo 238 de dicho Código, debiendo siempre decretar la prohibición de asistir a cualquier espectáculo de fútbol profesional, durante el tiempo que dure la suspensión.
+En los procesos penales que se inicien por infracción a las normas de este Título también podrán querellarse las organizaciones deportivas profesionales directamente afectadas y la Asociación Nacional de Fútbol Profesional.".
 
-En los procesos penales que se inicien por infracción a las normas de este Título también podrán querellarse las organizaciones deportivas profesionales directamente afectadas y la Asociación Nacional de Fútbol Profesional.
+11.- Elimínase el epígrafe "TÍTULO III Disposiciones varias".
 
-## Título III
+12.- Derógase el artículo 11.
 
-Disposiciones varias
+#### Artículo 2º
 
-#### Artículo 11
+Sustitúyese, en el inciso cuarto del artículo 19 de la ley Nº 19.925, sobre Expendio y Consumo de Bebidas Alcohólicas, la frase "califique de alto riesgo para la seguridad pública, decretará la prohibición de expendio", por "determine que existe riesgo para la seguridad pública, decretará la prohibición de venta o entrega".
 
-DEROGADO
+Disposiciones Transitorias
 
-#### Artículo transitorio
+#### Artículo primero
 
-Los clubes de fútbol profesional deberán dar cumplimiento a las obligaciones que les impone el artículo 4° dentro del plazo de sesenta días, contados desde la publicación de esta ley.
+Dentro del plazo de dieciocho meses contado desde la entrada en vigencia de la presente ley, el Intendente podrá autorizar la realización de espectáculos de fútbol en recintos deportivos que no cumplan con las obligaciones de contar con un sistema de control de acceso de los espectadores y de grabación de imágenes de los asistentes al espectáculo de fútbol profesional, conforme a lo previsto en las letras f) y g) del artículo 2º de la ley Nº 19.327.
 
-Establécese, asimismo, un plazo de ciento veinte días, contado desde la misma fecha, para que se solicite la autorización mencionada en el artículo 1° respecto de los actuales centros o recintos deportivos destinados a la realización de espectáculos de fútbol profesional.".
+Transcurrido el plazo señalado en el inciso precedente, sin que se haya dado cumplimiento a la mencionada exigencia, el Intendente no podrá otorgar la autorización a que se refiere el artículo 1º de dicha ley.
 
-Habiéndose cumplido con lo establecido en el N° 1 del Artículo 82 de la Constitución Política de la República, y por cuanto el H. Congreso Nacional ha aprobado las observaciones formuladas por el Ejecutivo; por tanto promúlguese y llévese a efecto como Ley de la República.
+#### Artículo segundo
 
-Santiago, 24 de agosto de 1994.- EDUARDO FREI RUIZ-TAGLE, Presidente de la República.- Germán Correa Díaz, Ministro del Interior.- María Soledad Alvear Valenzuela, Ministro de Justicia.
+Dentro del plazo de treinta y seis meses contado desde la entrada en vigencia de esta ley el juez deberá, al imponer la pena de prohibición de asistir a cualquier espectáculo de fútbol profesional, establecer la obligación del condenado de presentarse y permanecer en una comisaría mientras se desarrollen los espectáculos de fútbol profesional que determine el tribunal.
 
-Lo que transcribo a Ud., para su conocimiento.- Saluda atentamente a Ud., Eduardo Jara Miranda, Subsecretario de Justicia.
+Quien no se presentare en la comisaría y a la hora previamente fijada por el juez será sancionado con la pena de reclusión menor en su grado mínimo a medio.".
 
-TRIBUNAL CONSTITUCIONAL Proyecto de ley que reprime desórdenes y hechos de violencia cometidos en estadios y otros centros deportivos con ocasión de espectáculos públicos El Secretario del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto de ley enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de su constitucionalidad, y que por sentencia de 19 de julio de 1994, declaró que las disposiciones contempladas en el artículo 5° del proyecto remitido, son constitucionales.
+Habiéndose cumplido con lo establecido en el Nº1º del artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto, promúlguese y llévese a efecto como Ley de la República.
 
-Santiago, julio 20 de 1994.- Rafael Larraín Cruz Secretario.
+Santiago, 10 de septiembre de 2012.- RODRIGO HINZPETER KIRBERG, Vicepresidente de la República.- Rodrigo Ubilla Mackenney, Ministro del Interior y Seguridad Pública (S).- Teodoro Ribera Neumann, Ministro de Justicia.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., María Claudia Alemparte Rodríguez, Subsecretaria del Interior Subrogante.
+
+Tribunal Constitucional
+
+Proyecto de ley que modifica la ley Nº 19.327, que contiene normas para la prevención y sanción de hechos de violencia en recintos deportivos con ocasión de espectáculos de fútbol profesional. (Boletín Nº 4864-29).
+
+La Secretaria del Tribunal Constitucional, quien suscribe, certifica que la Honorable Cámara de Diputados envió el proyecto enunciado en el rubro, aprobado por el Congreso Nacional, a fin de que este Tribunal ejerciera el control de constitucionalidad respecto de las normas que regulan materias propias de ley orgánica constitucional que aquel contiene, y que por sentencia de 30 de agosto de 2012 en los autos Rol Nº 2.285-12-CPR.
+
+Se resuelve:
+
+Que el inciso final del artículo 4º que propone incorporar a la ley Nº 19.327 el numeral 3 del artículo 1º del proyecto de ley sometido a control es constitucional.
+
+Santiago, 31 de agosto de 2012.- Marta de la Fuente Olguín, Secretaria.

@@ -266,7 +266,7 @@ No se entenderá prohibida por este artículo la entrega o reparto de bebidas al
 
 En los días de Fiestas Patrias, las vísperas de Navidad y Año Nuevo, cuando se realicen actividades de promoción turística, y en otras oportunidades, especialmente cuando se persigan fines de beneficencia, las municipalidades podrán otorgar una autorización especial transitoria, por tres días como máximo, para que, en los lugares de uso público u otros que determinen, se establezcan fondas o locales donde podrán expenderse y consumirse bebidas alcohólicas. La Municipalidad correspondiente podrá cobrar a los beneficiarios de estos permisos el derecho que estime conveniente.
 
-En los espectáculos de fútbol profesional que el Intendente califique de alto riesgo para la seguridad pública, decretará la prohibición de expendio de bebidas alcohólicas en los centros o recintos donde se lleven a efecto y en un perímetro máximo de cinco cuadras, medida que regirá desde tres horas antes del inicio del evento hasta tres horas después de su finalización.
+En los espectáculos de fútbol profesional que el Intendente determine que existe riesgo para la seguridad pública, decretará la prohibición de venta o entrega de bebidas alcohólicas en los centros o recintos donde se lleven a efecto y en un perímetro máximo de cinco cuadras, medida que regirá desde tres horas antes del inicio del evento hasta tres horas después de su finalización.
 
 Los establecimientos afectados serán notificados de esta resolución por inspectores municipales o por Carabineros de Chile con veinticuatro horas de anticipación a la entrada en vigencia de la misma.
 
