@@ -12,7 +12,7 @@ Declárase feriado el día 17 de septiembre de 2004.
 
 #### Artículo 2º
 
-Los días 1 de mayo, 18 de septiembre, 25 de diciembre y 1 de enero de cada año, serán feriados obligatorios e irrenunciables para todos los dependientes del comercio, con excepción de aquellos que se desempeñen en clubes, restaurantes, establecimientos de entretenimiento, tales como, cines, espectáculos en vivo, discotecas, pub, cabarets, casinos de juego y otros lugares de juego legalmente autorizados. Tampoco será aplicable a los dependientes de expendio de combustibles, farmacias de urgencia y de las farmacias que deban cumplir turnos fijados por la autoridad sanitaria.
+Los días 1 de mayo, 18 y 19 de septiembre, 25 de diciembre y 1 de enero de cada año, serán feriados obligatorios e irrenunciables para todos los dependientes del comercio, con excepción de aquellos que se desempeñen en clubes, restaurantes, establecimientos de entretenimiento, tales como, cines, espectáculos en vivo, discotecas, pub, cabarets, casinos de juego y otros lugares de juego legalmente autorizados. Tampoco será aplicable a los dependientes de expendio de combustibles, farmacias de urgencia y de las farmacias que deban cumplir turnos fijados por la autoridad sanitaria.
 
 Las infracciones a lo dispuesto en este artículo serán sancionadas con multa a beneficio fiscal de 5 unidades tributarias mensuales por cada trabajador afectado por la infracción. Si el empleador tuviere contratado 50 o más trabajadores la multa aplicable ascenderá a 10 unidades tributarias mensuales por cada trabajador afectado por la infracción. Y cuando tuviere contratados 200 o más trabajadores la multa será de 20 unidades tributarias mensuales por cada trabajador afectado por la infracción.
 
