@@ -22,7 +22,7 @@ De los afiliados
 
 #### Artículo 2
 
-Podrá afiliarse al Servicio de Bienestar, además de las personas señaladas en el artículo 7 del Reglamento General, el personal que por aplicación del artículo 27 de la ley Nº 19.712, del Deporte, se encuentra bajo las normas del Código del Trabajo.
+Podrá afiliarse al Servicio de Bienestar, además de las personas señaladas en el artículo 7 del Reglamento General, el personal que por aplicación del artículo 27 de la ley Nº 19.712, del Deporte, se encuentra contratado bajo las normas del Código del Trabajo.
 
 ## Título III
 
@@ -78,7 +78,7 @@ b) Con los aportes que anualmente se consultan en el Presupuesto del Instituto N
 
 c) Con el aporte mensual de sus afiliados en servicio activo de hasta el 2% de sus remuneraciones imponibles para pensiones;
 
-d) Con el aporte mensual de sus afiliados jubilados en servicio activo de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte institucional, que será de su cargo;
+d) Con el aporte mensual de sus afiliados jubilados de hasta el 1% de sus pensiones, más la cantidad correspondiente al aporte institucional, que será de su cargo;
 
 e) Con los intereses de los préstamos que otorga el Servicio de Bienestar a sus afiliados;
 
@@ -116,7 +116,7 @@ El Servicio de Bienestar, podrá financiar con cargo a sus propios recursos, de 
 
 a) Nacimiento: se concederá una ayuda por el nacimiento de cada hijo. Si ambos padres estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
 
-b) Matrimonio: se concederá una por el matrimonio del afiliado. Si ambos cónyuges estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
+b) Matrimonio: Se concederá una ayuda por el matrimonio del afiliado. Si ambos cónyuges estuvieren afiliados al Servicio de Bienestar, cada uno de ellos tendrá derecho a este beneficio en forma independiente;
 
 c) Fallecimiento: se concederá una ayuda por el fallecimiento del afiliado y de cada una de sus cargas familiares, incluida la muerte fetal a partir del quinto mes de gestación y el fallecimiento del hijo recién nacido, aunque no hubiere sido aún reconocido como carga familiar.
 
@@ -168,7 +168,7 @@ a) Préstamos Médicos: se otorgarán como complemento de las prestaciones médi
 
 b) Préstamos de Auxilio: se otorgarán ante problemas económicos graves y otras causas justificadas, calificadas por el Consejo Administrativo.
 
-c) Préstamos Escolares: se otorgarán una vez al año sólo en casos muy calificados, determinados por el Consejo Administrativo, orientados a solventar gastos de matrícula, útiles y vestuario de los hijos estudiantes que sean causantes de asignación familiar o bien para los propios afiliados.
+c) Préstamos Escolares: Se otorgarán una vez al año sólo en casos muy calificados, determinados por el Consejo Administrativo, orientados a solventar gastos de matrícula, útiles y vestuario de los hijos estudiantes que sean causantes de asignación familiar o bien para los propios afiliados.
 
 d) Préstamos Personales: se otorgarán al afiliado con el objeto de propender al mejoramiento de las condiciones familiares.
 
