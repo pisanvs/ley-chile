@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1798, de 30 de agosto de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº7, superficie 197 m2., Rol Nº2411-19, para la obra "MEJORAMIENTO RUTA 35, LOS LAGOS – VALDIVIA, SECTOR ANTILHUE – VALDIVIA TRAMO 1", comuna de Valdivia, Región de Los Ríos. La comisión de peritos integrada por Patricio Fernando Casagrande Ulloa, Sonia Catalina Gallegos Blanch y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 12 de febrero de 2010, acordándose la indemnización con su propietario CLAUDIO HÉCTOR JAVIER ESPARZA DE LA CRUZ, en la cantidad de $1.620.571.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
