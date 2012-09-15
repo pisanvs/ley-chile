@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº1685 de 20 de agosto de 2012, se dejó sin efecto el Decreto MOP (Exento) N°1019 de 30 de junio de 2009, en la parte que se refiere a los lote N°37-B, 37-C y 37-D, por cambio en las superficies de los lotes expropiados para la obra pública: Camino Ruta L-202, Sector Villa Alegre - Putagán, km. 0,00000 a km. 11,44287. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
