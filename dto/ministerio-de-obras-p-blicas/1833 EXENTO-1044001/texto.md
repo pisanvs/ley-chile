@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1833 de 30 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 15 y 16, superficies 108 y 519 m2, rol de Avalúo Nº2141-47, comuna de Puerto Montt, para la obra "CONSTRUCCIÓN CONEXIÓN VIAL RUTA 5 (PUERTO MONTT) – RUTA 7 (CHAMIZA) X REGIÓN DE LOS LAGOS". La Comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, JUAN SAMUEL BARRIENTOS BAHAMONDE Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 14 de diciembre de 2011, acordándose la indemnización con su propietario SERGIO ORLANDO ALARCÓN GONZÁLEZ, en la cantidad de $82.941.733.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
