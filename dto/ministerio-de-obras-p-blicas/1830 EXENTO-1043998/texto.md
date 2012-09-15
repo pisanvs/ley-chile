@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1830, de fecha 30 de agosto de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº33, superficie 274 m2, rol Nº1182-50, para la obra "MEJORAMIENTO RUTA 5 – W15 – 175, SECTOR RUTA 5 – PUMANZANO. CAMINO RUTA 5 - PUMANZANO", Comuna de Ancud, X Región de Los Lagos. La Comisión de Peritos integrada por Juan Celestino Giovannini Mansilla, Carlos Eugenio Mera Santibáñez y Enrique Edgardo Hoelck Altmann, fijó el valor de tasación con fecha 18 de noviembre de 2007, acordándose la indemnización con su propietaria LADIS GUDITH LINNEBRINK GERDING, en la cantidad de $399.076, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
