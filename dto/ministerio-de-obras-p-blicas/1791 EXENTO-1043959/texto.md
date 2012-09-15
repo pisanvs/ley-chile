@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1791 de 30 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº39, superficie 11.998 m2, rol de Avalúo Nº179-1, comuna de San Vicente, para la obra "CONSTRUCCIÓN PUENTE EL TAMBO EN RUTA H – 806, COMUNAS DE SAN VICENTE Y MALLOA". La Comisión de peritos, integrada por NORMAN CALDERÓN PONTIGGIA OSCAR NAVEA MUÑOZ Y MARÍA ISABEL DE JESÚS RÍOS MARCUELLO, fijó el valor de tasación con fecha 30 de septiembre de 2011, acordándose la indemnización con su propietario JORGE ROMÁN CÁDIZ, en la cantidad de $77.587.630.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
