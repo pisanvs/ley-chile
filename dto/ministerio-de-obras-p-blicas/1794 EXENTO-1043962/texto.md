@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1794, de 30 de agosto de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº54, superficie 273 m2., Rol Nº62-533, para la obra "MEJORAMIENTO RUTA T-85, VARIOS TRAMOS EN LAGO RANCO - CALCURRUPE", comuna de Lago Ranco, Región de Los Ríos. La comisión de peritos integrada por Patricio Fernando Casagrande Ulloa, Karin Alicia Ernst Elizalde y María Soledad Núñez Arroyo, fijó el valor de tasación con fecha 26 de mayo de 2011, acordándose la indemnización con su propietario ANTONIO LEANDRO OJEDA DELGADO, en la cantidad de $1.373.062.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
