@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1696 de 27 de agosto de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº12, superficie 13 m2, rol de Avalúo Nº2369-24, comuna de Chiguayante, para la obra "Canal Papen, Tramo Cochrane – O'Higgins, Etapa 1". La Comisión de peritos, integrada por Orlando Javier Paredes Vásquez, Hernán Danilo Cáceres Moscoso y Rodrigo Enrique Vilches Rysselberghe, fijó el valor de tasación con fecha 8 de agosto de 2011, acordándose la indemnización con su propietaria Margarita del Carmen Henríquez Muñoz, en la cantidad de $587.690.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
