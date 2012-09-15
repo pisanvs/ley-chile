@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1804 de 30 de agosto de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº30A, superficie 434 m2, rol de Avalúo 250-131, comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA – QUELÉN BAJO", IV Región. La Comisión de Peritos integrada por Víctor Vargas Reyes, Juan Ibáñez Palma y Elisa Tapia Fernández, fijó el valor de tasación con fecha 12 de diciembre de 2011, acordándose el valor de la indemnización con su propietario, JOSÉ MANUEL TOLEDO ALFARO, en la cantidad de $3.403.162.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
