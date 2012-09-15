@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1839, de 30 de agosto de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 2A, 2B, 2C y 2D, superficies 1.270, 7.119, 6.671 y 2.308 m2., Sin Rol, para la obra "Construcción Colector Sistema Cuellar Urbanizado Linares", comuna de Linares, Región del Maule. La comisión de peritos integrada por Paula Soledad González Ortega, Carmen Pilar Ríos Marcuello y Norman Estanislao Calderón Pontiggia, fijó el valor de tasación con fecha 12 de marzo de 2012, acordándose la indemnización con su propietario Empresa Concesionaria de Servicios Sanitarios S.A., Econssa Chile S.A., en la cantidad de $239.536.998.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
