@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1697, de 28 de agosto de 2012, se dejó sin efecto el Decreto Exento MOP. N°789, de 28 de noviembre de 2007, en consideración a que el lote de terreno N°2, de la obra "Diseño de Obras para el Control Aluvional y Disposición de Flujos Aluvionales en las quebradas del Cerro Divisadero", de la obra "Canal de Trasvase Quebrada La Cruz a Quebrada el Carbón", no será necesario para la expropiación de la obra pública.
+
+Fiscal del Ministerio de Obras Públicas.
