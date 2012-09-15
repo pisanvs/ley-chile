@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1810 de 30 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº14, superficie 159 m2, rol de Avalúo Nº2801-2, comuna de Puerto Montt, para la obra "CONSTRUCCIÓN CONEXIÓN VIAL RUTA 5 (PUERTO MONTT) – RUTA 7 (CHAMIZA) X REGIÓN DE LOS LAGOS". La Comisión de peritos, integrada por CHRISTIAN EMIL RAUCH YAÑEZ, JUAN SAMUEL BARRIENTOS BAHAMONDE Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 14 de diciembre de 2011, acordándose la indemnización con su propietaria LINA DEL CARMEN ALARCÓN GONZÁLEZ, en la cantidad de $21.922.117.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
