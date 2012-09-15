@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3, de 22 de agosto de 2012, de esta Subsecretaría, autorízase a UNIVERSIDAD DE LOS LAGOS - CENTRO DE INVESTIGACIÓN I-MAR, para efectuar hasta el 31 de diciembre de 2014, el repoblamiento de ejemplares de alevines de Trucha arcoiris (Oncorhynchus mykiss), Trucha café (Salmo trutta) y Trucha de arroyo (Salvenilus fontinalis) en el marco del "Programa de repoblación de especies de importancia para la pesca recreativa en la Región de Los Lagos".
+
+El objetivo principal consiste en la captura de hasta 600 ejemplares reproductores y liberación de un máximo de 100.000 alevines de Trucha arcoiris (Oncorhynchus mykiss), Trucha café (Salmo trutta) y Trucha de río (Salvenilus fontinalis), en las subcuencas de los lagos Puyehue, Rupanco, Llanquihue y las subcuencas de los ríos Petrohué y Puelo, para suplementar la población natural de salmónidos de importancia para la pesca recreativa, en la forma y condiciones señaladas en la resolución extractada.
+
+Puerto Montt, 22 de agosto de 2012.- Pedro Brunetti Barroso, Director Zonal de Pesca X Región.
