@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº1809, de 30 de agosto de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº71, superficie 76 m2., Rol Nº2409-45, para la obra "MEJORAMIENTO RUTA T-35, LOS LAGOS – VALDIVIA, SECTOR ANTILHUE –VALDIVIA TRAMO 3", comuna de Valdivia, Región de Los Ríos. La comisión de peritos integrada por Sonia Catalina Gallegos Blanch, Patricio Fernando Casagrande Ulloa y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 15 de abril de 2010, acordándose la indemnización con su propietario ARNOLDO CORONADO ABURTO, en la cantidad de $1.258.855.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
