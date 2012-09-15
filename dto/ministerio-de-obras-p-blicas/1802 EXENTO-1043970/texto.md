@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1802, de fecha 30 de agosto de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº5, superficie 775 m2., rol Nº84-29, para la obra "REPOSICIÓN PUENTE COINCO, COMUNAS DE COINCO Y DOÑIHUE, 0,00000 A KM. 2,50595", comuna de Doñihue, Provincia de Cachapoal, VI Región. La comisión de peritos, integrada por Norman Calderón Pontiggia, Oscar Navea Muñoz y María Isabel de Jesús Ríos Marcuello, fijó el valor de tasación con fecha 01 de agosto de 2011, acordándose la indemnización con sus propietarios HUGO RICARDO SILVA MIRANDA Y OTROS, en la cantidad de $5.684.180, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
