@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1831 de 30 de agosto de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº36, superficie 145 m2, rol de Avalúo 234-37, comuna de Los Lagos, para la obra "MEJORAMIENTO RUTA T-35, SECTOR LOS LAGOS - VALDIVIA, TRAMO Nº2, KM. 0,00000 A KM. 16,60000", XIV Región. La Comisión de Peritos integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, CHRISTIAN EMIL RAUCH YÁÑEZ Y LEOPOLDO RAMÓN SCHUMACHER GUARDA, fijó el valor de tasación con fecha 30 de agosto de 2008, acordándose el valor de la indemnización con su propietaria, RUBENIA VÁSQUEZ SILVA, en la cantidad de $424.410.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
