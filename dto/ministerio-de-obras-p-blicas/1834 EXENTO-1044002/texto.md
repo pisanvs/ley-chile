@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº1834, de fecha 30 de agosto de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropiaron los lotes de terreno N°s. 19 y 21, superficies 141 y 1.430 m2, rol Nº901-30, para la obra "MEJORAMIENTO RUTA C-495, EL TRANSITO – JUNTA DE VALERIANO, ETAPA II, (MALAGUÍN – LAS LOSAS)", Comuna de Alto del Carmen, III Región. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 25 de julio de 2011, acordándose la indemnización con su propietario MARTÍN RICARDO GAYTAN ARCOS, en la cantidad de $3.510.853, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
