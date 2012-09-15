@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1793 de 30 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s 31, 32 y 33-A, superficies 973, 187 y 4.760 m2, rol de Avalúo Nº3250-47, comuna de Temuco, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO-LABRANZA KM. 4,61500 A KM. 11,68000". La Comisión de peritos, integrada por MARÍA ELENA HARCHA ABUHADBA, MARÍA SOLEDAD NUÑEZ ARROYO Y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 9 de noviembre de 2009, acordándose la indemnización con su propietaria MARYSA ENRIQUETA CARLINA JÜRGENS SCHAEFER, en la cantidad de $84.346.172.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
