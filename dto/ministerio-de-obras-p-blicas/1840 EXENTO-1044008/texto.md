@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1840, de fecha 30 de agosto de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº6, superficie 18 m2, rol Nº2369-9, para la obra "Canal Papen, Tramo Cochrane – O'Higgins, Etapa 1", Comuna de Chiguayante, Provincia de Concepción, VIII Región. La comisión de peritos integrada por Orlando Javier Paredes Vásquez, Hernán Danilo Cáceres Moscoso y Rodrigo Enrique Vilches Rysselberghe, fijó el valor de tasación con fecha 8 de agosto de 2011, acordándose la indemnización con su propietario Francisco Edmundo Oliva Sepúlveda, en la cantidad de $813.724.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
