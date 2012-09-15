@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº1790, de fecha 30 de agosto de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 624 m2, rol Nº24-44, para la obra "CONSERVACIÓN PERIÓDICA PUENTES ÑIQUÉN 1, ÑIQUÉN 2 EN RUTA N-245 Y CHACAICITO EN RUTA N-15", Comuna de Ñiquén, Provincia de Ñuble, Región del Bío Bío. La comisión de peritos integrada por Oscar Chávez Alcaíno, Valeska Ale Goñi y Francisco José Lama Vergara, fijó el valor de tasación con fecha 7 de abril de 2011, acordándose la indemnización con su propietario MARCO ANTONIO ASTORGA BRICEÑO, en la cantidad de $700.211.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
