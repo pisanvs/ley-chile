@@ -22,40 +22,6 @@ Resolución:
 
 3. Los recursos involucrados para la selección de los proyectos postulantes en el concurso establecido en el Resuelvo número 1 de esta resolución, se distribuyen regionalmente según el siguiente cuadro:
 
-Región UF
-
-15 -
-
-1 -
-
-2 22.000
-
-3 11.319
-
-4 35.000
-
-5 45.000
-
-6 45.000
-
-7 60.000
-
-8 90.000
-
-9 46.000
-
-14 16.000
-
-10 50.000
-
-11 -
-
-12 14.518
-
-13 160.000
-
-Total 594.837
-
 4. El número de proyectos seleccionados en cada región alcanzará hasta la cantidad de subsidios susceptibles de financiar con los recursos disponibles destinados a este llamado, según la tabla precedente, incluidos los servicios de asistencia técnica que correspondan.
 
 5. No podrán participar en este llamado aquellos proyectos referidos al Título III, Ampliación de la Vivienda y a la letra b.5) del Título II del artículo 5º del DS Nº 255 (V. y U.), de 2006, relativos a Obras de Innovaciones de Eficiencia Energética.
@@ -67,6 +33,8 @@ Total 594.837
 8. Los proyectos se deberán ingresar en las oficinas de partes del Serviu correspondiente a la región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu disponga, el que deberá ser debidamente publicitado.
 
 9. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS Nº 255 (V. y U.), de 2006.
+
+> **Nota.** El numeral 1 de la Resolución 7475 Exenta, Vivienda, publicada el 21.09.2012, modifica la presente norma, en el sentido de sustituir la tabla inserta en el resuelvo 1º, no obstante, encontrarse dicha tabla inserta en el resuelvo 3.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
