@@ -88,6 +88,40 @@ APÉNDICE
 
 Este apéndice es parte integrante de la norma técnica que establece la numeración para servicios de emergencia y el procedimiento de asignación correspondiente.
 
+.
+
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER
+
+ACCESO A
+
+136 Cuerpo de Socorro La recepción de
+
+Andino de Chile llamadas
+
+Atendidas
+
+por personal
+
+del Cuerpo de
+
+Socorro Andino
+
+de Chile,
+
+respecto de
+
+accidentes y
+
+emergencias que
+
+ocurran en
+
+lugares
+
+cordilleranos
+
+y agrestes.
+
 NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
 1414 Municipalidad de
