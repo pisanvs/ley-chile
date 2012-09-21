@@ -28,29 +28,37 @@ Formando parte de las actividades de aplicación del Programa, las Secretarías 
 
 En el desarrollo de estas actividades de difusión y de capacitación, la Secretaría Regional Ministerial de Vivienda y Urbanismo deberá contar con una estrategia que considere el objetivo, las realidades locales y asegure contenidos mínimos de información para ser entregados a los beneficiarios, que les permita igualdad de oportunidades para integrarse y participar en el Programa.
 
-Las calles y pasajes que se postulan al Programa deberán estar emplazados en centros poblados urbanos o rurales. Tratándose de centros poblados rurales, la aplicación del Programa será evaluada y definida por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, en adelante SEREMI MINVU, a solicitud de la correspondiente Municipalidad. Para estos efectos las SEREMI MINVU podrán aplicar un catastro de pavimentos, el que anualmente mantendrán actualizado en función de las obras de pavimentación que se construyan, a fin de conocer el déficit vigente en cada comuna.
+Las calles, pasajes y aceras que se postulan al Programa deberán estar emplazados en centros poblados urbanos o rurales. Tratándose de centros poblados rurales, la aplicación del Programa será evaluada y definida por la respectiva Secretaría Regional Ministerial de Vivienda y Urbanismo, en adelante Seremi Minvu, a solicitud de la correspondiente Municipalidad. Para estos efectos las Seremi Minvu podrán aplicar un catastro de pavimentos, el que anualmente mantendrán actualizado en función de las obras de pavimentación que se construyan, a fin de conocer el déficit vigente en cada comuna.
 
-Los Condominios de Viviendas Sociales podrán postular al Programa de Pavimentación Participativa, para la pavimentación o la repavimentación de sus calles y pasajes interiores. Esta postulación deberá cumplir con los mismos requisitos exigidos a los Comités de Pavimentación. Para estos efectos y para lo establecido en el artículo 41 de la ley Nº 19.537, se considerarán Viviendas Sociales las que cumplan con los requisitos señalados en el artículo 40 de la ley Nº 19.537.
+Los Condominios de Viviendas Sociales podrán postular al Programa de Pavimentación Participativa, para la pavimentación o la repavimentación de sus calles, pasajes y/o aceras interiores. Esta postulación deberá cumplir con los mismos requisitos exigidos a los Comités de Pavimentación. Para estos efectos y para lo establecido en el artículo 41 de la ley Nº19.537, se considerarán Viviendas Sociales las que cumplan con los requisitos señalados en el artículo 40 de la ley Nº19.537.
 
-De acuerdo a lo dispuesto en el artículo 8º de la ley Nº 20.234, se podrá postular a este Programa para la pavimentación de calles y pasajes pertenecientes a loteos acogidos al procedimiento de regularización normado en el artículo 4º de la misma ley, que hayan obtenido certificado de recepción provisoria, o pertenecientes a loteos declarados en situación irregular en conformidad con la ley Nº 16.741 que de acuerdo al artículo 5º de la ley Nº 20.234 cuenten con urbanización suficiente y hayan obtenido certificado de recepción definitiva, parcial o total. En ambos casos, los certificados deben ser extendidos por el respectivo Director de Obras Municipales.
+De acuerdo a lo dispuesto en el Art. 8º de la ley Nº20.234, se podrá postular a este Programa para la pavimentación de calles, pasajes y/o aceras pertenecientes a loteos acogidos al procedimiento de regularización normado en el artículo 4º de la misma ley, que hayan obtenido certificado de recepción provisoria, o pertenecientes a loteos declarados en situación irregular en conformidad con la ley Nº16.741 que de acuerdo al artículo 5º de la ley Nº20.234 cuenten con urbanización suficiente y hayan obtenido certificado de recepción definitiva, parcial o total. En ambos casos, los certificados deben ser extendidos por el respectivo Director de Obras Municipales.
+
+Los proyectos que tengan por objeto sólo la pavimentación o repavimentación de aceras, podrán postular únicamente en el caso en que dichas aceras pertenezcan a calles que se encuentren con sus calzadas pavimentadas.
 
 2º.- Los interesados en participar en los procesos de selección que efectúen las Secretarías Regionales Ministeriales de Vivienda y Urbanismo, deberán concurrir a inscribirse a través de grupos organizados, denominados Comités de Pavimentación, que tengan representante legal o mandatario que los represente con facultades suficientes, que actuarán en nombre y representación de cada integrante que postula por su intermedio.
 
 3º.- Las solicitudes de inscripción para postular obras de pavimentación conforme al Programa de Pavimentación Participativa, deberán contener las menciones y datos que se señalan a continuación, que deberán ser consignados por el representante legal o mandatario del Comité interesado, en el formulario correspondiente que proporcionará la Secretaría Regional Ministerial de Vivienda y Urbanismo, directamente o a través de la Municipalidad respectiva, debiendo acompañarse a dicha solicitud los documentos que en cada caso se indica:
 
-a) Nómina que incluya individualización completa de cada integrante del Comité, señalando sus nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de cada uno de ellos.
+a) Nómina que incluya individualización completa de cada integrante del Comité, señalando sus
 
-b) Identificación de la comuna, centro poblado (ciudad, pueblo o villorrio), calle o pasaje y el tramo respectivo. Se deberá señalar si el proyecto postula a pavimentación o a repavimentación.
+RES 4490 EXENTA,
 
-c) Oficio del SERVIU correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto;
+VIVIENDA
 
-planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el SERVIU para el correcto diseño de las obras de pavimentación.
+#### Artículo único
 
-Tratándose de obras de repavimentación, se deberá incluir adicionalmente lo siguiente: monografía de los pavimentos existentes (materialidad;
+Nos. 1 y 2
 
-ubicación, tipo y magnitud de deterioros;
+D.O. 04.12.2006nombres y apellidos, domicilios, su Cédula Nacional de Identidad, y firma de cada uno de ellos.
 
-espesores de capas estructurales; otro que requiera el SERVIU); obras de pavimentación que se mantienen; materiales que se reciclan (localización; tipo; cantidad; costo). El respectivo SERVIU deberá verificar en terreno los antecedentes técnicos de estos proyectos.
+b) Identificación de la comuna, centro poblado (ciudad, pueblo o villorrio), calle, pasaje o acera y el tramo respectivo. En el caso de aceras, el nombre del proyecto deberá indicar si contempla ambos costados de la vía o sólo uno, identificándolo mediante el punto cardinal correspondiente (norte, sur, oriente o poniente). Se deberá señalar si el proyecto postula a pavimentación o a repavimentación.
+
+c) Oficio del SERVIU correspondiente a la Región en que se ubica la obra de pavimentación, en que conste la aprobación del proyecto respectivo. El proyecto de pavimentación deberá contener, a lo menos, los siguientes antecedentes: Memoria explicativa y de cálculos; informe de mecánica de suelos; topografía, catastro y levantamiento de obras y servicios que interfieren con las obras de pavimentación; especificaciones técnicas generales y específicas; cubicación y presupuesto; planos del proyecto; plano del loteo y/o perfiles tipos de las vías, aprobados por la respectiva Dirección de Obras Municipales; otros antecedentes técnicos que requiera el SERVIU para el correcto diseño de las obras de pavimentación.
+
+Tratándose de obras de repavimentación, se deberá incluir adicionalmente lo siguiente: monografía de los pavimentos existentes (materialidad; ubicación, tipo y magnitud de deterioros;espesores de capas estructurales; otro que requiera el SERVIU); obras de pavimentación que se mantienen; materiales que se reciclan (localización; tipo; cantidad; costo). El respectivo SERVIU deberá verificar en terreno los antecedentes técnicos de estos proyectos.
+
+En el caso de postulaciones que consideren pavimentación o repavimentación de aceras exclusivamente, dichas aceras deberán pertenecer a calles que tengan sus calzadas pavimentadas.
 
 Los proyectos de pavimentación que se postulen a este Programa podrán considerar, entre otros, los siguientes elementos: Bases; subbases; carpeta de rodadura; soleras; zarpas; aceras; pavimentación de acceso vehicular a la propiedad; pasos minusválidos; ciclovías; demarcación de calzadas; señalética; arborización. Las aceras, soleras y/o pasos de minusválidos, faltantes o destruidos, deberán incorporarse al proyecto de pavimentación. También podrán postular a este Programa proyectos para vías peatonales tipo escalera, en los casos en que la pendiente longitudinal de la vía que se pavimenta, deba prolongarse superando los umbrales permitidos y normados para un seguro tránsito vehicular.
 
@@ -61,12 +69,6 @@ Todos los proyectos deberán contar con las aprobaciones de los Servicios compet
 Los ingenieros proyectistas deberán estar inscritos en el Registro Nacional de Consultores del Ministerio de Vivienda y Urbanismo.
 
 d) Indicación del monto total del aporte que efectuará el Comité, que deberá ser a lo menos el definido para las siguientes tres categorías:
-
-Categoría 1 Categoría 2 Categoría 3
-
-CALLE 5% 7% 15%
-
-PASAJE 7% 10% 25%
 
 Las categorías definidas son las siguientes:
 
@@ -536,15 +538,27 @@ h) Acta de Reunión en que conste que el proyectista expuso el proyecto al respe
 
 i) Presupuesto del proyecto que señale claramente el valor unitario del metro cuadrado de pavimentación o de repavimentación a aplicar, según sea el caso, el cual deberá ser igual o inferior a los valores indicados para cada región en las siguientes tablas respectivamente:
 
-(1) El valor límite de los pavimentos y/o repavimentos en piedra canteada para la comuna Camarones es $35.000/m². Para las comunas de Putre y Gral. Lagos, los valores límites de los pavimentos y/o repavimentos en pasajes y en calle en adocretos es $36.000/m² y en adoquín de piedra canteada es $40.000/m². Para la comuna de Arica, el valor límite de aceras es $8.500/m².
+(1) El valor límite de los pavimentos y/o repavimentos en piedra canteada para la comuna Camarones es $36.500/m². Para las comunas de Putre y Gral. Lagos, los valores límite de los pavimentos y/o repavimentos en pasajes y en calle en adocretos son respectivamente $36.000/m² y $43.500/m² y en adoquín de piedra canteada es $45.160/m².
 
-(2) Los valores límites de pavimentos y/o repavimentos para la comuna de Colchane es $55.000/m2 en adocretos y $64.000/m2 en adoquín de piedra canteada. En el caso de pavimentos en adocretos prefabricados para las comunas de provincia del Tamarugal el valor límite de pavimentación y/o de repavimentación es $54.000/m2. Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es $51.000/m2.
+(2) Los valores límite de pavimentos y/o repavimentos para la comuna de Colchane son $58.500/m² en adocretos y $68.000/m² en adoquín de piedra canteada. En el caso de pavimentos en adocretos prefabricados para las comunas de provincia del Tamarugal, el valor límite de pavimentación y/o de repavimentación es $60.000/m² y de adoquín canteado es $63.500/m². Para la comuna de Camiña, el valor límite de pavimentos y/o repavimentos de adocretos en calles y pasajes es $57.000/m² y en adoquín canteado es $63.500/m².
 
-(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, los valores límites para la comuna de San Pedro de Atacama es $80.000/m2, tanto para calles como para pasajes.
+(3) En el caso de los pavimentos y/o repavimentos en adocretos prefabricados, los valores límite para la comuna de San Pedro de Atacama son $86.500/m² y $91.600/m² para la localidad de Socaire, tanto para calles como para pasajes.
 
-(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el correspondiente valor límite de pavimentación es $86.000/m2. En el caso de las islas que forman parte de la comuna de Guaitecas, el correspondiente valor límite de pavimentación y de repavimentación es $97.000/m2. Para la comuna de O'Higgins, el valor límite para pavimentos y repavimentos será $77.000/m2 en pasajes y $85.000/m2 en calles.
+(4) En las soluciones de pasajes peatonales en madera para Caleta Tortel y localidades similares de la Región de Aysén, calificadas por la respectiva Seremi, el correspondiente valor límite de pavimentación es $100.000/m². En el caso de las islas que forman parte de las comunas Guaitecas y Aysén, el correspondiente valor límite de pavimentación y de repavimentación es $120.500/m² tanto para calles y pasajes. Para la comuna de O'Higgins y las localidades Nirehuao, Río Tranquilo y Cerro Castillo, el valor límite para pavimentos y repavimentos será $88.000/m² en pasajes y calles. Para la localidad de Puerto Bertrand, el valor límite de pavimentación y de repavimentación es $142.000/m².
 
-(5) En la comuna Cabo de Hornos, el correspondiente valor límite de pavimentación y de repavimentación es $70.000/m2 para pasajes y $77.000/m2 en calles.
+(5) En la comuna Cabo de Hornos, el correspondiente valor límite de pavimentación en calle es $80.900/m² y en pasaje $71.100/m² y de repavimentación es $74.100/m² para pasajes y $85.300/m² en calles.
+
+(6) Para la comuna de Corral, los valores límite de pavimentación y de repavimentación respectivamente son $51.500/m² y $53.500/m², tanto para calles como para pasajes.
+
+(7) En las comunas de la provincia de Palena, los valores límite de pavimentación son $55.000/m² en calles y $46.000/m² en pasajes, y de repavimentación son $57.000/m² en calles y $48.000/m² en pasajes.
+
+(1) El valor límite de los pavimentos y/o repavimentos de aceras para las comunas de Camarones y Putre es $24.500/m² y para comuna Gral. Lagos es $31.000/m².
+
+(2) En el caso de los pavimentos y/o repavimentos de aceras, el valor límite para la comuna de San Pedro de Atacama es $31.000/m².
+
+(3) El valor límite de los pavimentos y/o repavimentos de aceras en comuna de O'Higgins es $39.000/m².
+
+(4) En el caso de los pavimentos y/o repavimentos de aceras en comuna Cabo de Hornos de la Región de Magallanes y Antártica Chilena el valor límite es $50.000/m².
 
 j) Tabla que consigne los siguientes datos estadísticos de cada familia beneficiaria del Programa, integrante del respectivo Comité de Pavimentación. Por cada vivienda se registrarán los siguientes datos: cantidad de integrantes, edades, sexo, ingresos del grupo familiar, sexo del jefe de hogar. La SEREMI MINVU deberá mantener los antecedentes recogidos en la postulación del Comité de Pavimentación, de los grupos familiares que lo integran, según cuadro modelo, y de la evaluación efectuada al finalizar la ejecución de las obras de pavimentación, para los efectos de su posterior sistematización y análisis en estudios de evaluación de impacto y de beneficios del Programa.
 
@@ -574,7 +588,9 @@ Los Comités de Pavimentación que deseen participar en el Proceso de Selección
 
 Será requisito que las Municipalidades estén al día con el respectivo SERVIU en el ingreso de aportes del Programa correspondientes a anteriores llamados. La SEREMI deberá verificar la existencia de deudas de aportes, para lo cual, con anterioridad al concurso, deberá solicitar al SERVIU el informe específico. De existir deudas, la SEREMI lo informará a las respectivas Municipalidades antes de la fecha de cierre del llamado, otorgándoles un plazo para ponerse al día en el pago de éstas antes de la fecha de publicación de la selección preliminar. La SEREMI deberá devolver las correspondientes postulaciones de aquellos Municipios que no se pongan al día en el pago de su deuda. Los recursos que sean liberados por esta causa serán redistribuidos a otras comunas de la Región, respetando la distribución aprobada por el Gobierno Regional.
 
-7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu, y aprobado por la Secretaría Regional Ministerial de Vivienda y Urbanismo, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 30 de marzo de cada año. En caso de que el proyecto que se postula incluya la pavimentación de aceras, soluciones de aguas lluvia para puntos bajos de calzada u obras anexas imprescindibles para la ejecución de las obras de pavimentación cuyo financiamiento debe ser compartido, sus costos deberán incluirse en el Presupuesto de la Obra de Pavimentación. Para la determinación del valor referencial antes aludido, el Serviu resguardará la eficiencia y la eficacia en la utilización de los recursos fiscales. Para tal efecto, sólo considerará aquellos contratos cuyos costos reales no superen en más de un 30% su presupuesto original. Para la terminación de estos valores referenciales, la Unidad de Costos del Serviu deberá consultar al Departamento de Programación y Control y a la Unidad Técnica de Pavimentación de dicho Servicio, como también al Departamento de Planes y Programas de la respectiva Seremi.
+7º.- El valor referencial del metro cuadrado de pavimentación y de repavimentación deberá ser determinado por el Serviu, y aprobado por la Secretaría Regional Ministerial de Vivienda y Urbanismo, basándose en el estudio y proyección de los costos reales de obras similares contratadas en períodos anteriores que lo justifique, y se fijará con carácter uniforme para todas las comunas de la respectiva región. Excepcionalmente, por condiciones climáticas, geográficas o de aislamiento de ciertas localidades, el valor referencial del metro cuadrado de pavimentación podrá ser diferente para una o más comunas dentro de la región. La Seremi informará a los Municipios el valor referencial del metro cuadrado de pavimento a más tardar el 30 de marzo de cada año. Para la determinación del valor referencial antes aludido, el Serviu resguardará la eficiencia y la eficacia en la utilización de los recursos fiscales. Para tal efecto, sólo considerará aquellos contratos cuyos costos reales no superen en más de un 30% su presupuesto original. Para la terminación de estos valores referenciales, la Unidad de Costos del Serviu deberá consultar al Departamento de Programación y Control y a la Unidad Técnica de Pavimentación de dicho Servicio, como también al Departamento de Planes y Programas de la respectiva Seremi.
+
+Si el proyecto que se postula considera conjuntamente la pavimentación o repavimentación de calzadas y de sus aceras correspondientes, soluciones de aguas lluvia u obras anexas imprescindibles, el presupuesto de postulación debe incluir el costo de la totalidad de las obras a realizar.
 
 El SERVIU tendrá que establecer y brindar a las respectivas comunas alternativas de pavimentación de diferente costo, de forma de permitir la elección de soluciones que requieran una menor inversión. Las soluciones de pavimentación a aplicar deberán cumplir condiciones de calidad, durabilidad y de diseño, establecidas en el Código de Normas y Especificaciones Técnicas de Obras de Pavimentación año 2008, de la Ordenanza General de Urbanismo y Construcciones y de las Normas del Instituto Nacional de Normalización que garanticen lo siguiente:
 
@@ -584,17 +600,19 @@ b) Nivel de Confiabilidad en el diseño de 70%, o índice equivalente.
 
 8º.- De los proyectos válidamente postulados, es decir, que cumplen con todos los requisitos del Programa, se priorizarán y seleccionarán aquéllos que obtengan el mayor puntaje hasta completar los marcos presupuestarios correspondientes, como resultado de considerar los siguientes factores:
 
-a) Monto de los aportes del Comité y del Municipio, expresados en porcentajes con respecto al valor referencial del metro cuadrado de pavimentación de calle o pasaje, según corresponda.
+a) Monto de los aportes del Comité y del Municipio, expresados en porcentaje con respecto al valor referencial del metro cuadrado de pavimentación de calle, pasaje o acera, según corresponda.
 
 b) Magnitud del proyecto, entendiéndose por tal su
 
 importancia urbana, considerándose para estos efectos el ancho y la longitud de la vía a pavimentar o repavimentar. c) Antigüedad del conjunto habitacional, expresada en años, que se acreditará con certificado de la Dirección de Obras Municipales, considerándose para estos efectos un mínimo de 5 años y un máximo de 50 años.
 
-d) Grado de cobertura o eficacia del proyecto, expresado como la superficie de calzada a construir en m² por unidad de viviendas beneficiadas (M2/VIV.). e) Antigüedad de la postulación, expresada como el número de veces que un Comité ha participado válidamente en procesos de selección de proyectos.
+d) Grado de cobertura o eficacia del proyecto, expresado como la superficie a construir en m² por unidad de viviendas beneficiadas (m²/Viv). Para proyectos que consideren sólo aceras, la superficie a construir considerará únicamente la de la acera. Para proyectos que consideren calles o pasajes, con o sin aceras, para determinar la superficie a construir se considerará únicamente la superficie de la calzada.
+
+e) Antigüedad de la postulación, expresada como el número de veces que un Comité ha participado válidamente en procesos de selección de proyectos.
 
 f) Costo del pavimento o eficiencia del proyecto, que relaciona el costo referencial del pavimento adoptado con el costo referencial del pavimento de menor valor de la respectiva región.
 
-g) Acción de pavimentación, la que se refiere a obras de pavimentación de calzadas en tierra o a obras de repavimentación de calzadas con pavimento que presentan alto nivel de deterioro. En ambos casos pueden incluir las respectivas aceras.
+g) Acción de pavimentación: se refiere a obras de pavimentación de calzadas o aceras en tierra o a obras de repavimentación de calzadas o aceras con pavimento que presentan alto nivel de deterioro. En las postulaciones para pavimentación o repavimentación de calzadas en calles que no cuenten con acera, la acción de pavimentación debe considerar la ejecución tanto de la calzada como de la acera conjuntamente.
 
 h) Vulnerabilidad, compara Comités de Pavimentación que representan a familias que en su mayoría están en una situación de mayor vulnerabilidad, respecto de otro que no cumple esa condición.
 
@@ -636,7 +654,11 @@ El puntaje por magnitud o importancia urbana del proyecto será entonces el resu
 
 c) Antigüedad del conjunto habitacional: corresponderá 0,5 punto por cada año completo y fracción superior a nueve meses, con los límites que señala la letra c) del número 8º de la presente resolución.
 
-d) Grado de cobertura o eficacia del proyecto: corresponderá el puntaje que resulte de dividir la cantidad de viviendas beneficiadas, por los metros cuadrados de pavimento a construir, y multiplicar por quinientos el resultado obtenido.
+d) Grado de cobertura o eficacia del proyecto: En el caso de postulaciones de calzadas exclusivamente o, bien, de calzadas en conjunto con sus respectivas aceras, este factor corresponderá al puntaje que resulte de dividir la cantidad de viviendas beneficiadas por los metros cuadrados de calzada a construir, multiplicado por quinientos.
+
+En el caso de postulaciones de aceras exclusivamente, este factor corresponderá al puntaje que resulte de dividir la cantidad de viviendas beneficiadas por los metros cuadrados de acera a construir, multiplicado por ciento setenta.
+
+Si la postulación exclusiva de aceras considera sólo un costado de la vía, la cantidad de viviendas a contabilizar corresponderá sólo al costado intervenido.
 
 En caso de postulaciones que provengan de programas financiados o construidos por el Estado o por instituciones de ayuda social sin fines de lucro, el puntaje correspondiente al grado de cobertura será incrementado según la categoría en que se clasifica el proyecto, de la siguiente forma:
 
@@ -680,13 +702,13 @@ CPA= Costo referencial por m² del pavimento adoptado.
 
 CB= Costo referencial por m² del pavimento base.
 
-Corresponde al pavimento de menor valor en cada comuna, distinguiéndose calles de pasajes.
+Corresponde al pavimento de menor valor en cada comuna, distinguiéndose tres categorías: calles, pasajes y aceras.
 
 Los costos referenciales por m2 de pavimentos a utilizar en este cálculo corresponden a los determinados por el SERVIU, según lo establecido en el número 7º precedente.
 
 Si el costo referencial por m2 del pavimento adoptado duplica al costo referencial del m2 del pavimento base, o es aún mayor dicho costo, el puntaje por este factor es cero (0).
 
-g) Acción de pavimentación: Corresponderán 50 puntos si se trata de obra de pavimentación de calzada en tierra y 5 puntos si se trata de obra de repavimentación de calzada existente con alto nivel de deterioro.
+g) Acción de pavimentación: corresponde a 50 puntos si se trata de obra de pavimentación de calzada o de acera en tierra y 5 puntos si se trata de obra de repavimentación de calzada o acera existente con alto nivel de deterioro.
 
 La calzada que postule a repavimentación deberá cumplir las siguientes condiciones técnicas que den cuenta de su alto nivel de deterioro:
 
@@ -696,7 +718,11 @@ La calzada que postule a repavimentación deberá cumplir las siguientes condici
 
 - Las dos condiciones anteriores deberán cumplirse para tramos de calzada de longitud máxima 100 metros o entre cruces de vías, cuando sea superior a 100 metros, independiente de la longitud total que se evalúe en el contexto del proyecto.
 
-De acuerdo a lo anterior, podrán postular a repavimentación calzadas continuas, en donde tramos independientes de 100 metros de largo o entre cruces de vías cumplan las condiciones señaladas.
+Si la postulación a repavimentación es de aceras exclusivamente, deberá cumplir la siguiente condición técnica que dé cuenta de su alto nivel de deterioro:
+
+- al menos un 60% de la superficie de aceras presenta un alto nivel de deterioro, respaldado por una monografía.
+
+De acuerdo a lo anterior, podrán postular a repavimentación calzadas o aceras continuas, en donde se cumplan las condiciones señaladas en tramos independientes de 100 metros de largo o entre cruces de vías.
 
 h) Vulnerabilidad del Comité: Obtendrá 30 puntos el "Comité de Pavimentación muy Vulnerable", según lo dispuesto en el inciso tercero de la letra d) del número 3º de la presente Resolución. Los restantes Comités que no cumplan con esta condición tendrán cero puntos por este factor.
 
@@ -722,7 +748,11 @@ Si entre dos cuadras que califican para su repavimentación existe una cuadra qu
 
 En el convenio se deberá dejar constancia a lo menos de lo siguiente:
 
-a) De la superficie aproximada de pavimento y/o repavimento que incluye el proyecto. b) De la identificación de las calles y pasajes incluidos en el proyecto. c) De la inversión total aproximada que demandarán las obras.
+a) De la superficie aproximada de pavimento y/o repavimento que incluye el proyecto.
+
+b) De la identificación de las calles, pasajes y aceras incluidas en el proyecto.
+
+c) De la inversión total aproximada que demandarán las obras.
 
 d) Del aporte del Serviu.
 
