@@ -1,0 +1,5 @@
+APRUEBA REFORMA DE ETATUTOS A "EFLA CHILE ADMINISTRADORA DE FONDOS DE INVERSIÓN DE CAPITAL EXTRANJERO S.A."
+
+Certifico que por resolución exenta Nº 325, de 13 de agosto de 2012, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "Efla Chile Administradora de Fondos de Inversión de Capital Extranjero S.A.", acordada en Junta Extraordinaria de accionistas celebrada el 13 de julio de 2012, y reducida a escritura pública el 19 de julio del mismo año, en la 21ª Notaría de Santiago de don Iván Perry Pefaur, domiciliado en Ahumada 312, oficina 236, Santiago; consistente en el aumento del plazo de duración de la sociedad, reemplazando el artículo 2º por el siguiente: "Artículo Segundo: La Sociedad se constituye por un plazo fijo, el cual comenzará a regir a contar de la fecha de la presente escritura, y expirará el día 10 de agosto del año 2012.".
+
+Santiago, 13 de agosto de 2012.- Carmen Undurraga Martínez, Secretaria General.
