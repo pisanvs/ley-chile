@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.508, de 12 de septiembre de 2012, de esta Subsecretaría, rechánzase las reclamaciones interpuestas contra la resolución exenta N° 1.471, de 2012, del Servicio Nacional de Pesca, que declaró la caducidad de las inscripciones de embarcaciones en el Registro Pesquero Artesanal que a continuación se indican:
+
+Valparaíso, 12 de septiembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
