@@ -262,7 +262,7 @@ i) Ordenes de servicio que fijen lugar físico de desempeño del personal a cont
 
 j) Licencias médicas y reposos preventivos.
 
-k) Licencias pre y post natales.
+k) Licencias pre y post natales y permisos post natal parental.
 
 l) Licencias médicas por hijo enfermo.
 
