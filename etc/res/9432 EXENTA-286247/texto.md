@@ -322,15 +322,15 @@ términos que establece la Resolución
 
 4.2 El envío de los mensajes de los
 
-conocimientos de embarque se podrá
+conocimientos de embarque se deberá
 
-efectuar desde que el encabezado del
+efectuar desde que el encabezado
 
-manifiesto haya sido numerado por el
+del manifiesto haya sido numerado
 
-sistema de Aduanas, y a más tardar
+por el sistema y hasta el tercer
 
-hasta las 48 horas siguientes al zarpe
+día hábil siguiente al zarpe
 
 oficial de la nave.
 
@@ -364,21 +364,21 @@ Estos mensajes deberán ser
 
 transmitidos dentro del plazo señalado
 
-en el numeral anterior. En caso que no
+en el numeral anterior. En el caso
 
-se pueda cumplir con este plazo debido
+que el mensaje del conocimiento de
 
-a que no ha sido recibido por el
+embarque al cual se integran, sea
 
-sistema el mensaje del conocimiento de
+transmitido después del zarpe
 
-embarque al cual se integran, su
+oficial de la nave, su transmisión
 
-transmisión se deberá efectuar dentro
+se deberá efectuar dentro de los
 
-de las 24 horas siguientes al envío de
+dos días hábiles siguientes al
 
-éste.
+envío de éste.
 
 4.4 La carga en transbordo o tránsito
 
@@ -446,9 +446,11 @@ mediante el mensaje de un
 
 conocimiento de embarque, dentro
 
-de las 48 horas siguientes al
+de los tres días hábiles
 
-zarpe oficial de la nave.
+siguientes al zarpe oficial de
+
+la nave.
 
 1 Cuando no se conozca el zarpe de la nave con la anticipación suficiente para cumplir con el plazo de presentación del encabezado del manifiesto, se deberá incorporar en el mensaje del encabezado el código de Observación 01
 
@@ -510,23 +512,25 @@ manifiesto respectivo, dentro de las
 
 24 horas siguientes a dicho zarpe.
 
-6.4 El manifiesto de carga de salida para
+6.4 El Manifiesto de Carga de Salida
 
-cada puerto se entenderá conformado
+para cada puerto se entenderá
 
-transcurridas 48 horas desde el zarpe
+conformado transcurridos tres
 
-oficial de la nave. En dicho momento,
+días hábiles desde la fecha de
 
-se le asignará al manifiesto la fecha
+zarpe oficial de la nave. En dicho
 
-de presentación oficial y el número
+momento, se le asignará al manifiesto
 
-provisorio otorgado al momento de la
+la fecha de presentación oficial
 
-presentación del encabezado quedará
+y el número provisorio otorgado al
 
-como definitivo.
+momento de la presentación del
+
+manifiesto quedará como definitivo.
 
 6.5 La conformación del manifiesto será
 
