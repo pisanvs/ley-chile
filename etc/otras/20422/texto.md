@@ -66,16 +66,6 @@ e) Dependencia: El estado de carácter permanente en que se encuentran las perso
 
 f) Entorno: El medio ambiente, social, natural y artificial, en el que las personas desarrollan su participación social, económica, política y cultural, a lo largo de todo su ciclo vital.
 
-g) Persona con discapacidad auditiva: Aquella que, debido a su funcionalidad auditiva reducida o inexistente, producida por enfermedad, accidente o vejez, en la interacción con el entorno se enfrenta a barreras que impiden su acceso a la información y comunicación auditiva oral dadas por la lengua mayoritaria.
-
-h) Persona sorda: Aquella que, a partir de su funcionalidad auditiva reducida o inexistente, adquirida desde su nacimiento o a lo largo de su vida, se ha desarrollado como persona eminentemente visual, tiene derecho a acceder y usar la lengua de señas, a poseer una cultura sorda e identificarse como miembro de una comunidad lingüística y cultural minoritaria.
-
-i) Comunidad sorda: Grupo de personas que constituyen una minoría lingüística y cultural, conformado principalmente por personas sordas y organizaciones de personas sordas de cualquier tipo, en la que también pueden participar las personas con discapacidad auditiva y las personas oyentes que comparten la lengua y la cultura de las personas sordas.
-
-j) Persona sordociega: aquella que, debido a sus funcionalidades auditivas y visuales reducidas o inexistentes, simultáneamente presentes, constituye una discapacidad única, que, al interactuar con diversas barreras presentes en el entorno, ve impedida o restringida su comunicación, movilización, participación plena y efectiva en la sociedad, acceso a la información y al entorno en igualdad de condiciones con las demás.
-
-k) Guía intérprete: persona que desempeña la función de intérprete y guía de las personas sordociegas, con amplios conocimientos de los sistemas de comunicación oficial ajustados a sus necesidades.
-
 ## Título I
 
 Derecho a la igualdad de oportunidades
@@ -97,14 +87,6 @@ Se entiende por exigencias de accesibilidad, los requisitos que deben cumplir lo
 Los ajustes necesarios son las medidas de adecuación del ambiente físico, social y de actitud a las carencias específicas de las personas con discapacidad que, de forma eficaz y práctica y sin que suponga una carga desproporcionada, faciliten la accesibilidad o participación de una persona con discapacidad en igualdad de condiciones que el resto de los ciudadanos.
 
 Conducta de acoso, es toda conducta relacionada con la discapacidad de una persona, que tenga como consecuencia atentar contra su dignidad o crear un entorno intimidatorio, hostil, degradante, humillante u ofensivo.
-
-#### Artículo 8 bis
-
-Las instituciones públicas y privadas establecerán las condiciones para que las personas con discapacidad puedan acceder, concurrir y comparecer ante ellas con intérpretes de lengua de señas o guías intérpretes, según sea el caso y corresponda, previa acreditación de esta condición.
-
-#### Artículo 8 ter
-
-El Estado promoverá, dentro del ámbito de sus competencias, de acuerdo con sus atribuciones, medios y presupuestos, la formación y capacitación continua de guías intérpretes, conforme a los estándares que determine el reglamento dictado para tal efecto por el Ministerio de Desarrollo Social y Familia.
 
 ### Párrafo 2°
 
@@ -250,23 +232,13 @@ Los postulantes que presenten alguna discapacidad que les produzca impedimento o
 
 #### Artículo 25
 
-Los concesionarios de servicios de radiodifusión televisiva de libre recepción y los permisionarios de servicios limitados de televisión deberán aplicar mecanismos de comunicación audiovisual que posibiliten a las personas en situación de discapacidad auditiva el acceso a su programación en los casos que corresponda, según lo determine el reglamento que al efecto se dictará a través de los Ministerios de Desarrollo Social, de Transportes y Telecomunicaciones y Secretaría General de Gobierno.
+Los canales de la televisión abierta y los proveedores de televisión por cable, deberán aplicar mecanismos de comunicación audiovisual que posibiliten a la población con discapacidad auditiva el acceso a su programación en los casos que corresponda, según lo determine el reglamento que al efecto dictarán conjuntamente los Ministerios de Planificación, de Transportes y Telecomunicaciones y Secretaría General de Gobierno.
 
-Las campañas de servicio público financiadas con fondos públicos, la propaganda electoral, los debates presidenciales, las cadenas nacionales, los informativos de la Oficina Nacional de Emergencia del Ministerio del Interior y Seguridad Pública y los bloques noticiosos transmitidos por situaciones de emergencia o calamidad pública que se difundan a través de medios televisivos o audiovisuales deberán ser transmitidos o emitidos subtitulados y en lenguaje de señas, en las formas, modalidades y condiciones que establezca el reglamento indicado en el inciso precedente.
+Toda campaña de servicio público financiada con fondos públicos, la propaganda electoral, debates presidenciales y cadenas nacionales que se difundan a través de medios televisivos o audiovisuales, deberán ser transmitidas o emitidas con subtitulado y lengua de señas.
 
 #### Artículo 26
 
-La lengua de señas chilena es la lengua natural, originaria y patrimonio intangible de las personas sordas, así como también el elemento esencial de su cultura e identidad individual y colectiva. El Estado reconoce su carácter de lengua oficial de las personas sordas.
-
-El Estado reconoce y se obliga a promover, respetar y a hacer respetar, de conformidad con la Constitución, las leyes y los tratados internacionales ratificados por Chile y que se encuentren vigentes, los derechos culturales y lingüísticos de las personas sordas, asegurándoles el acceso a servicios públicos y privados, a la educación, al mercado laboral, la salud y demás ámbitos de la vida en sociedad en lengua de señas.
-
-#### Artículo 26 bis
-
-La enseñanza de la lengua de señas será realizada preferentemente por personas sordas calificadas. Un reglamento dictado por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia regulará las condiciones, requisitos y calificaciones necesarias para la enseñanza de la lengua de señas.
-
-#### Artículo 26 ter
-
-El Estado reconoce como sistemas de comunicación oficial la dactilología, el sistema braille, técnicas de orientación y movilidad y otros sistemas de comunicación alternativos reconocidos, según lo establecido en el reglamento dictado para estos efectos por el Ministerio de Educación y el Ministerio de Desarrollo Social y Familia. Las personas sordociegas serán libres de elegir el o los sistemas que deseen utilizar para comunicarse en su vida cotidiana.
+Se reconoce la lengua de señas como medio de comunicación natural de la comunidad sorda.
 
 #### Artículo 27
 
@@ -276,13 +248,11 @@ Las bibliotecas de acceso público deberán contar con material, infraestructura
 
 Todo edificio de uso público y todo aquel que, sin importar su carga de ocupación, preste un servicio a la comunidad, así como toda nueva edificación colectiva, deberán ser accesibles y utilizables en forma autovalente y sin dificultad por personas con discapacidad, especialmente por aquellas con movilidad reducida. Asimismo, estarán sometidas a esta exigencia las obras que el Estado o los particulares ejecuten en el espacio público al interior de los límites urbanos, y los accesos a los medios de transporte público de pasajeros y a los bienes nacionales de uso público. Si las edificaciones y obras señaladas en este inciso contaren con ascensores, estos deberán tener capacidad suficiente para transportar a las personas con discapacidad de conformidad a la normativa vigente.
 
-Los parques, plazas o áreas verdes, públicos y privados de uso público, que contemplen juegos infantiles no mecanizados, deberán construirse a partir de un diseño universal que permita su utilización de forma autónoma por todos los niños, incluidos aquellos con discapacidad, garantizando, a su vez, las condiciones de accesibilidad universal para que puedan ingresar de manera segura desde la calle al área común de juegos y circular por las distintas dependencias a través de rutas que hagan posible su continuidad en el desplazamiento. Las juntas de vecinos del respectivo sector podrán solicitar la adecuación de los referidos juegos, en los términos señalados en el presente inciso.
-
 Las edificaciones anteriores a la entrada en vigencia de la ley N° 19.284 quedarán sometidas a las exigencias de accesibilidad contenidas en el artículo 21 de dicha ley y sus normas complementarias. Del mismo modo, las edificaciones colectivas destinadas exclusivamente a vivienda, cuyos permisos de construcción fueron solicitados entre la entrada en vigencia de la ley Nº19.284 y la entrada en vigencia del presente cuerpo legal, continuarán siendo regidas por el artículo 21 de la ley N° 19.284 y sus normas complementarias.
 
 Para el cumplimiento de lo dispuesto en el inciso primero de este artículo, corresponderá al Ministerio de Vivienda y Urbanismo establecer las normas a las que deberán sujetarse las nuevas obras y edificaciones, así como las normas y condiciones para que las obras y edificaciones existentes se ajusten gradualmente a las nuevas exigencias de accesibilidad.
 
-La fiscalización del cumplimiento de la normativa establecida en los incisos precedentes, tanto en el momento de otorgar un permiso de edificación y su recepción, como durante el uso de las referidas obras, edificaciones, parques, plazas o áreas verdes, públicos y privados de uso público, y sus instalaciones, será de responsabilidad de las direcciones de obras municipales que deberán denunciar su incumplimiento ante el juzgado de policía local, aplicándose al efecto las disposiciones del Título VI de esta ley. Para el mejor cumplimiento de la fiscalización, las municipalidades, a requerimiento de las direcciones de obras, podrán celebrar convenios con personas naturales o jurídicas, con o sin fines de lucro, para que colaboren con aquéllas en el ejercicio de esta facultad.
+La fiscalización del cumplimiento de la normativa establecida en los incisos precedentes será de responsabilidad de las direcciones de obras municipales que deberán denunciar su incumplimiento ante el juzgado de policía local, aplicándose al efecto las disposiciones del Título VI de esta ley. Para el mejor cumplimiento de la fiscalización, las municipalidades, a requerimiento de las direcciones de obras, podrán celebrar convenios con personas naturales o jurídicas, con o sin fines de lucro, para que colaboren con aquéllas en el ejercicio de esta facultad.
 
 La denuncia por incumplimiento podrá ser realizada por cualquier persona, ante el juzgado de policía local, en conformidad a lo establecido en el inciso precedente.
 
@@ -334,8 +304,6 @@ El Estado garantizará a las personas con discapacidad el acceso a los estableci
 
 Los establecimientos de enseñanza parvularia, básica y media contemplarán planes para alumnos con necesidades educativas especiales y fomentarán en ellos la participación de todo el plantel de profesores y asistentes de educación y demás integrantes de la comunidad educacional en dichos planes.
 
-La enseñanza para los y las estudiantes sordas en los establecimientos señalados en el inciso anterior deberá garantizar el acceso a todos los contenidos del currículo común, así como cualquier otro que el establecimiento educacional ofrezca, a través de la lengua de señas como primera lengua y en español escrito como segunda lengua.
-
 #### Artículo 35
 
 La Educación Especial es una modalidad del sistema escolar que provee servicios y recursos especializados, tanto a los establecimientos de enseñanza regular como a las escuelas especiales, con el propósito de asegurar, de acuerdo a la normativa vigente, aprendizajes de calidad a niños, niñas y jóvenes con necesidades educativas especiales asociadas o no a una discapacidad, asegurando el cumplimiento del principio de igualdad de oportunidades, para todos los educandos.
@@ -378,7 +346,7 @@ Los establecimientos educacionales deberán, progresivamente, adoptar medidas pa
 
 ### Párrafo 3°
 
-De la inclusión laboral y de la capacitación
+De la capacitación e inserción laboral
 
 #### Artículo 43
 
@@ -398,17 +366,11 @@ El Estado creará condiciones y velará por la inserción laboral y el acceso a 
 
 #### Artículo 45
 
-En los procesos de selección de personal, los órganos de la Administración del Estado señalados en el artículo 1 de la ley N° 18.575, orgánica constitucional de Bases Generales de la Administración del Estado, cuyo texto refundido, coordinado y sistematizado fue fijado por el decreto con fuerza de ley N° 1/19.653, de 2000, del Ministerio Secretaría General de la Presidencia, el Congreso Nacional, el Poder Judicial, el Ministerio Público, el Tribunal Constitucional, el Servicio Electoral, la Justicia Electoral y demás tribunales especiales creados por ley, seleccionarán preferentemente, en igualdad de condiciones de mérito, a personas con discapacidad.
+En los procesos de selección de personal, la Administración del Estado y sus organismos, las municipalidades, el Congreso Nacional, los órganos de la administración de justicia y el Ministerio Público seleccionarán preferentemente, en igualdad de condiciones de mérito, a personas con discapacidad.
 
-En las instituciones a que se refiere el inciso anterior, que tengan una dotación anual de 100 o más funcionarios o trabajadores, a lo menos el 1% de la dotación anual deberán ser personas con discapacidad o asignatarias de una pensión de invalidez de cualquier régimen previsional. Las personas con discapacidad deberán contar con la calificación y certificación que establece esta ley.
+Un reglamento suscrito por los Ministros de Planificación y de Hacienda determinará la forma en que los organismos de la Administración del Estado darán cumplimiento a esta disposición.
 
-En el caso de las Fuerzas Armadas, de las Fuerzas de Orden y Seguridad Pública y de Gendarmería de Chile, la obligación establecida en el inciso anterior considerará sólo a su personal civil.
-
-El jefe superior o jefatura máxima del órgano, servicio o institución correspondiente deberá adoptar las medidas necesarias para el cumplimiento de la obligación a que se refiere el inciso segundo. En caso que no sea posible su cumplimiento total o parcial, las entidades antes señaladas deberán remitir un informe fundado a la Dirección Nacional del Servicio Civil y al Servicio Nacional de la Discapacidad, explicando las razones para ello. Sólo se considerarán razones fundadas aquellas relativas a la naturaleza de las funciones que desarrolla el órgano, servicio o institución, no contar con cupos disponibles en la dotación de personal y la falta de postulantes que cumplan con los requisitos respectivos.
-
-Un reglamento dictado por el Ministerio del Trabajo y Previsión Social y suscrito por los ministros de Hacienda y de Desarrollo Social, establecerá para los órganos de la Administración del Estado indicados en el inciso primero, los parámetros, procedimientos y demás elementos necesarios para dar cumplimiento a las obligaciones consignadas en este artículo o para justificar su excusa.
-
-En el caso del Congreso Nacional, el Poder Judicial, el Ministerio Público, la Contraloría General de la República, el Banco Central, el Tribunal Constitucional, las Fuerzas Armadas, las Fuerzas de Orden y Seguridad Pública, el Servicio Electoral, la Justicia Electoral y demás tribunales especiales creados por ley, serán sus propios órganos quienes deberán dictar las normas necesarias para dar cumplimiento a las disposiciones de este artículo. En estas instituciones, cuando la dotación máxima de personal se consulte en la Ley de Presupuestos del Sector Público o en alguna otra norma en particular, se estará a la dotación máxima fijada en ella.
+En el caso del Poder Judicial, el Poder Legislativo y el Ministerio Público, serán sus propios órganos quienes deberán determinar la forma de dar cumplimiento a esta obligación.
 
 #### Artículo 46
 
@@ -416,7 +378,7 @@ La capacitación laboral de las personas con discapacidad comprenderá, además 
 
 #### Artículo 47
 
-Las personas con discapacidad podrán celebrar el contrato de aprendizaje contemplado en el Código del Trabajo, hasta los 26 años de edad.
+Las personas con discapacidad podrán celebrar el contrato de aprendizaje contemplado en el Código del Trabajo, sin limitación de edad.
 
 ### Párrafo 4°
 
@@ -424,19 +386,19 @@ De las exenciones arancelarias
 
 #### Artículo 48
 
-Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº 17.238.
+Los vehículos importados por personas con discapacidad, sea que actúen por sí o por medio de sus guardadores, cuidadores o representantes legales o contractuales, accederán al beneficio para la importación de vehículos establecido en el artículo 6º de la ley Nº17.238.
 
-Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$ 41.722,53.-, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 49.310,45.- Dichas cantidades se actualizarán anualmente.
+Los vehículos a que se refiere el inciso primero no podrán tener un valor FOB superior a US$31.577, sin considerar el mayor valor que representen los elementos opcionales constitutivos del equipo especial para personas con discapacidad que se señalen en los certificados que, para los efectos de esta ley, debe emitir la Comisión de Medicina Preventiva e Invalidez, cuando resulte pertinente. En el caso de vehículos de transporte de mercancías, estos no podrán tener un valor FOB superior a US$ 37.319. Dichas cantidades se actualizarán anualmente.
 
-Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 72.069,3.-, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
+Los beneficios establecidos en este artículo serán aplicables también a la importación de vehículos destinados exclusivamente al transporte colectivo de personas con discapacidad. El valor FOB de dichos vehículos no podrá exceder de US$ 54.543, sin considerar los elementos opcionales constitutivos del equipo especial para personas con discapacidad que señale el reglamento.
 
 Los vehículos que se importen mediante la franquicia establecida en este artículo deberán permanecer por un lapso no inferior a 3 años afectos al uso y transporte de personas con discapacidad.
 
-Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto. Si el factor de actualización resultare negativo, se mantendrá el valor vigente anterior.
+Las cantidades en dólares establecidas en el presente artículo se actualizarán anualmente a contar del 1 de enero de cada año mediante decreto supremo expedido por el Ministerio de Hacienda, conforme a la variación experimentada por el Índice Oficial de Precios al por Mayor de los Estados Unidos de América en el período de doce meses comprendido entre el 1 de noviembre del año que antecede al de la dictación del decreto supremo y el 30 de octubre del año anterior a la vigencia de dicho decreto.
 
 Las personas jurídicas sin fines de lucro, que tengan por objeto la asistencia, cuidado o apoyo de personas con discapacidad podrán impetrar los beneficios establecidos en este artículo, para importar vehículos destinados exclusivamente al transporte de personas con discapacidad que ellas atiendan en el cumplimiento de sus fines.
 
-> **Nota.** El Decreto N° 101, Hacienda, publicado el 11.04.2024, dispone mantener, a contar del 1 de enero de 2024, las cantidades en dólares a que se refieren los incisos segundo y tercero del presente artículo, de acuerdo a lo establecido en el decreto supremo Nº 2271, de 15 de diciembre de 2022, del Ministerio de Hacienda.
+Un reglamento dictado por el Ministro de Hacienda determinará los procedimientos y competencias para el otorgamiento de autorizaciones, control y fiscalización de los beneficios establecidos en este artículo.
 
 #### Artículo 49
 
@@ -476,7 +438,7 @@ El Servicio de Impuestos Internos, a solicitud de los beneficiarios de las exenc
 
 #### Artículo 53
 
-Una resolución dictada por el Director Nacional de Aduanas determinará los procedimientos para el otorgamiento de las autorizaciones, control, fiscalización y la desafectación de los bienes acogidos a los beneficios aduaneros establecidos en los artículos 48 y 49 de la presente ley.
+Un reglamento dictado por el Ministerio de Hacienda determinará el procedimiento de obtención de los beneficios arancelarios y tributarios establecidos en los artículos precedentes, así como el de enajenación de los bienes a que los mismos artículos se refieren.
 
 #### Artículo 54
 
@@ -575,8 +537,6 @@ g) Financiar, total o parcialmente, ayudas técnicas y servicios de apoyo requer
 h) Estudiar y proponer al Presidente de la República, por intermedio del Ministro de Planificación, las normas y reformas legales necesarias para el ejercicio efectivo de los derechos de las personas con discapacidad.
 
 i) Realizar estudios sobre discapacidad y aquellos relativos al cumplimiento de sus fines, o bien, contratar los que estime necesarios de tal forma de contar periódicamente con un instrumento que permita la identificación y la caracterización actualizada, a nivel nacional y comunal, de la población con discapacidad, tanto en términos socioeconómicos como con respecto al grado de discapacidad que los afecta.
-
-Dichos estudios deberán considerar los diversos tipos de discapacidad existentes, de conformidad con lo dispuesto en el artículo 5. Asimismo, deberán considerar la sordoceguera como una discapacidad única, de manera de obtener los antecedentes suficientes que permitan el adecuado diseño, ejecución y evaluación de políticas, planes y programas.
 
 j) Velar por el cumplimiento de las disposiciones legales y reglamentarias relacionadas con la protección de los derechos de las personas con discapacidad. Esta facultad incluye la atribución de denunciar los posibles incumplimientos ante los organismos o instancias jurisdiccionales respectivas, y ejercer acciones y hacerse parte en aquellas causas en que estén afectados los intereses de las personas con discapacidad, de conformidad a la ley.
 
@@ -841,10 +801,6 @@ El Registro Nacional de la Discapacidad a que se refiere el artículo 55 de esta
 #### Artículo quinto
 
 Todos los reglamentos a los que se refiere esta ley, deberán dictarse dentro del plazo de nueve meses, contado desde su publicación en el Diario Oficial. Lo anterior, no obsta exigir el cumplimiento de los derechos, garantías y obligaciones consagrados en esta ley.".
-
-#### Artículo sexto
-
-Los reglamentos a que hacen referencia los artículos 8 ter y 26 ter deberán dictarse dentro de los seis meses siguientes a la publicación de esta ley.
 
 Habiéndose cumplido con lo establecido en el Nº1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
