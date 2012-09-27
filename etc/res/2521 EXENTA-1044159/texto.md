@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.521 de 14 de septiembre de 2012, de esta Subsecretaría, déjase sin efecto las resoluciones señaladas en la resolución extractada, correspondientes al área de manejo Punta Hueicolla Sector A, XIV Región, a la ASOCIACIÓN INDÍGENA DE PESCADORES, BUZOS Y RECOLECTORES DE LAMEGUAPI, en virtud del artículo 21 del DS Nº 355, de 1995, del Ministerio de Economía, Fomento y Reconstrucción y lo dispuesto en la resolución extractada, cuyo texto íntegro se encuentra publicado en la página web www.subpesca.cl.
+
+Valparaíso, 14 de septiembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
