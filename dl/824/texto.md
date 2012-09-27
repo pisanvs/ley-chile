@@ -116,9 +116,35 @@ Se considerarán rentas de fuente chilena, las que provengan de bienes situados 
 
 Son rentas de fuente chilena, entre otras, las regalías, los derechos por el uso de marcas y otras prestaciones análogas derivadas de la explotación en Chile de la propiedad industrial o intelectual.
 
-Asimismo, son rentas de fuente chilena las que se originen en la enajenación de acciones o derechos sociales o representativos del capital de una persona jurídica constituida en el extranjero, efectuada a una persona domiciliada, residente o constituida en el país, cuya adquisición le permita, directa o indirectamente, tener participación en la propiedad o en las utilidades de otra sociedad constituida en Chile. En todo caso, no constituirá renta la suma que se obtenga de la enajenación de las acciones o derechos sociales referidos, cuando la participación, que se adquiere directa o indirectamente de la sociedad constituida en Chile, represente un 10% o menos del capital o de las utilidades o se encuentre el adquirente bajo un socio o accionista común con ella que, directa o indirectamente, posea o participe en un 10% o menos del capital o de las utilidades.
+Se encontrarán afectas al impuesto establecido en el artículo 58 número 3), las rentas obtenidas por un enajenante no residente ni domiciliado en el país, que provengan de la enajenación de derechos sociales, acciones, cuotas, bonos u otros títulos convertibles en acciones o derechos sociales, o de la enajenación de otros derechos representativos del capital de una persona jurídica constituida o residente en el extranjero, o de títulos o derechos de propiedad respecto de cualquier tipo de entidad o patrimonio, constituido, formado o residente en el extranjero, en los siguientes casos:
 
-> **Nota.** El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la modificación introducida al presente artículo regirá a contar del día 1º del mes siguiente a su publicación.
+a) Cuando al menos un 20% del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que dicho enajenante posee, directa o indirectamente, en la sociedad o entidad extranjera, ya sea a la fecha de la enajenación o en cualquiera de los doce meses anteriores a esta, provenga de uno o más de los activos subyacentes indicados en los literales (i), (ii) y (iii) siguientes y en la proporción que corresponda a la participación indirecta que en ellos posee el enajenante extranjero. Para estos efectos, se atenderá al valor corriente en plaza de los referidos activos subyacentes chilenos o los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación, pudiendo el Servicio ejercer su facultad de tasación conforme a lo dispuesto en el artículo 64 del Código Tributario:
+
+(i) Acciones, derechos, cuotas u otros títulos de participación en la propiedad, control o utilidades de una sociedad, fondo o entidad constituida en Chile;
+
+(ii) Una agencia u otro tipo de establecimiento permanente en Chile de un contribuyente sin domicilio ni residencia en el país, considerándose para efectos tributarios que dicho establecimiento permanente es una empresa independiente de su matriz u oficina principal, y
+
+(iii) Cualquier tipo de bien mueble o inmueble situado en Chile, o de títulos o derechos respecto de los mismos, cuyo titular o dueño sea una sociedad o entidad sin domicilio o residencia en Chile.
+
+Además de cumplirse con el requisito establecido en esta letra, es necesario que la enajenación referida lo sea de, al menos, un 10% del total de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, considerando todas las enajenaciones, directas o indirectas, de dichas acciones, cuotas, títulos o derechos, efectuadas por el enajenante y otros miembros no residentes o domiciliados en Chile de su grupo empresarial, en los términos del artículo 96 de la ley N° 18.045, sobre Mercado de Valores, en un período de doce meses anteriores a la última de ellas.
+
+b) Cuando a la fecha de la enajenación de las acciones, cuotas, títulos o derechos extranjeros o en cualquier momento durante los doce meses anteriores a ésta, el valor corriente en plaza de uno o más de los activos subyacentes descritos en los literales (i), (ii) y (iii) de la letra a) anterior, y en la proporción que corresponda a la participación indirecta que en ellos posea el enajenante extranjero, sea igual o superior a 210.000 unidades tributarias anuales determinadas según el valor de ésta a la fecha de la enajenación. Será también necesario en este caso que se transfiera al menos un 10% del total de las acciones, cuotas, títulos o derechos de la persona jurídica o entidad extranjera, considerando todas las enajenaciones efectuadas por el enajenante y otros miembros no residentes o domiciliados en Chile de su grupo empresarial, en los términos del artículo 96 de la ley N° 18.045, sobre Mercado de Valores, en un periodo de doce meses anteriores a la última de ellas.
+
+c) Cuando las acciones, cuotas, títulos o derechos extranjeros enajenados, hayan sido emitidos por una sociedad o entidad domiciliada o constituida en uno de los países o jurisdicciones que figuren en la lista a que se refiere el número 2, del artículo 41 D. En este caso, bastará que cualquier porcentaje del valor de mercado del total de las acciones, cuotas, títulos o derechos extranjeros que dicho enajenante posea, directa o indirectamente, en la sociedad o entidad extranjera domiciliada o constituida en el país o jurisdicción listado, provenga de uno o más de los activos subyacentes indicados en los literales (i), (ii) y (iii) de la letra
+
+- **a)** anterior y en la proporción que corresponda a la participación indirecta que en ellos posea el enajenante extranjero, salvo que el enajenante, su representante en Chile o el adquirente, si fuere el caso, acredite en forma fehaciente ante el Servicio, que: (A) en la sociedad o entidad extranjera cuyas acciones, cuotas, títulos o derechos se enajenan, no existe un socio, accionista, titular o beneficiario con residencia o domicilio en Chile con un 5% o más de participación o beneficio en el capital o en las utilidades de dicha sociedad o entidad extranjera y, que, además, (B) sus socios, accionistas, titulares o beneficiarios que controlan, directa o indirectamente, un 50% o más de su capital o utilidades, son residentes o domiciliados en un país o jurisdicción que no forme parte de la lista señalada en el número 2, del artículo 41 D, en cuyo caso la renta obtenida por el enajenante extranjero sólo se gravará en Chile si se cumple con lo dispuesto en las letras
+
+- **a)** o
+
+- **b)** precedentes.
+
+En la aplicación de las letras anteriores, para determinar el valor de mercado de las acciones, cuotas, títulos o derechos de la persona o entidad extranjera, el Servicio podrá ejercer las facultades del artículo 41 E.
+
+Los valores anteriores cuando estén expresados en moneda extranjera, se considerarán según su equivalente en moneda nacional a la fecha de enajenación, considerando para tales efectos lo dispuesto en el número 1, de la letra D.-, del artículo 41 A. En la determinación del valor corriente en plaza de los activos subyacentes indirectamente adquiridos a que se refieren los literales (i) y (ii) de la letra a) anterior, se excluirán las inversiones que las empresas o entidades constituidas en Chile mantengan en el extranjero a la fecha de enajenación de los títulos, cuotas, derechos o acciones extranjeras, así como cualquier pasivo contraído para su adquisición y que se encuentre pendiente de pago a dicha fecha. Las inversiones referidas se considerarán igualmente según su valor corriente en plaza. El Servicio, mediante resolución, determinará las reglas aplicables para correlacionar pasivos e inversiones en la aplicación de la exclusión establecida en este inciso.
+
+El impuesto que grave las rentas de los incisos anteriores, se determinará, declarará y pagará conforme a lo dispuesto en el artículo 58 número 3).
+
+Con todo, lo dispuesto en el inciso tercero anterior no se aplicará cuando las enajenaciones ocurridas en el exterior se hayan efectuado en el contexto de una reorganización del grupo empresarial, según éste se define en el artículo 96, de la ley Nº 18.045, sobre Mercado de Valores, siempre que en dichas operaciones no se haya generado renta o un mayor valor para el enajenante, renta o mayor valor determinado conforme a lo dispuesto en el artículo 58 número 3).
 
 #### Artículo 11°
 
@@ -338,6 +364,22 @@ Los contribuyentes que se hayan retirado del régimen simplificado, no podrán v
 
 > **Nota.** NOTA 1: El artículo 2º de la LEY 20291, publicada el 15.09.2008, dispone que las modificaciones que introduce a la presente norma rigen a contar del 1º de enero de 2009.
 
+#### Artículo 14 quáter
+
+Los contribuyentes obligados a declarar su renta efectiva según contabilidad completa por rentas del artículo 20 de esta ley, que cumplan los siguientes requisitos, estarán exentos del Impuesto de Primera Categoría en conformidad al número 7° del artículo 40:
+
+a) Que sus ingresos totales del giro no superen, en cada año calendario, el equivalente a 28.000 unidades tributarias mensuales.
+
+Para calcular estos montos, los ingresos de cada mes se expresarán en unidades tributarias mensuales según el valor de ésta en el respectivo mes y el contribuyente deberá sumar a sus ingresos los obtenidos por sus relacionados en los términos establecidos por los artículos 20, N° 1, letra b), de la presente ley, y 100 letras a), b) y d) de la ley N° 18.045, que en el ejercicio respectivo se encuentren acogidos a este artículo;
+
+b) No poseer ni explotar, a cualquier título, derechos sociales o acciones de sociedades, ni formar parte de contratos de asociación o cuentas en participación, y
+
+c) Que en todo momento su capital propio no supere el equivalente a 14.000 unidades tributarias mensuales.
+
+Los contribuyentes deberán manifestar su voluntad de acogerse al régimen contemplado en el presente artículo, al momento de iniciar actividades o al momento de efectuar la declaración anual de impuestos a la renta. En este último caso la exención se aplicará a partir del año calendario en que se efectúe la declaración.
+
+Los contribuyentes acogidos a este artículo que dejen de cumplir con alguno de los requisitos a que se refiere el inciso primero, circunstancia que deberá ser comunicada al Servicio de Impuestos Internos durante el mes de enero del año calendario siguiente, no podrán aplicar la exención establecida en el número 7° del artículo 40, a partir del año calendario en que dejen de cumplir tales requisitos. En tal caso, no se podrá volver a gozar de esta exención sino a partir del tercer año calendario siguiente.
+
 #### Artículo 15°
 
 Para determinar los impuestos establecidos por esta ley, los ingresos se imputarán al ejercicio en que hayan sido devengados o percibidos, de acuerdo con las normas pertinentes de esta ley y del Código Tributario, salvo que las operaciones generadoras de la renta abarquen más de un período como en los contratos de larga ejecución, ventas extraordinarias de pago diferido y remuneraciones anticipadas o postergadas por servicios prestados durante un largo espacio de tiempo.
@@ -522,71 +564,21 @@ En caso de enajenación o cesión parcial de estas acciones, se considerará com
 
 #### Artículo 18° bis
 
-El mayor valor a que se refiere el inciso primero del artículo anterior y los incisos tercero, cuarto y quinto del número 8° del artículo 17°, obtenido por los inversionistas institucionales extranjeros, tales como fondos mutuos y fondos de pensiones u otros, en la enajenación de acciones de sociedades anónimas abiertas con presencia bursátil o de bonos u otros títulos de oferta pública representativos de deudas emitidos por el Banco Central de Chile, el Estado o por empresas constituidas en el país, realizada en bolsa o en conformidad al Título XXV de la ley N° 18.045 o mediante algún otro sistema autorizado por la Superintendencia de Valores y Seguros, estará exento de los impuestos de esta ley. Los mencionados inversionistas institucionales extranjeros deberán cumplir con los siguientes requisitos durante el tiempo que operen en el país:
+Derogado.
 
-1. Estar constituido en el extranjero y no estar domiciliado en Chile.
+> **Nota.** NOTA 1 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 106 de la presente ley.
 
-2. Acreditar su calidad de inversionista institucional extranjero cumpliendo con, a lo menos, alguna de las siguientes características:
+#### Artículo 18° ter
 
-a) Que sea un fondo que haga oferta pública de sus cuotas de participación en algún país que tenga un grado de inversión para su deuda pública, según clasificación efectuada por una agencia internacional clasificadora de riesgo calificada como tal por la Superintendencia de Valores y Seguros.
+Derogado.
 
-b) Que sea un fondo que se encuentre registrado ante una autoridad reguladora de un país que tenga un grado de inversión para su deuda pública, según clasificación efectuada por una agencia internacional clasificadora de riesgo calificada como tal por la Superintendencia de Valores y Seguros, siempre y cuando el fondo tenga inversiones en Chile que representen menos del 30% del valor accionario del mismo, incluyendo títulos emitidos en el extranjero que sean representativos de valores nacionales.
+> **Nota.** NOTA 2 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 107 de la presente ley.
 
-c) Que sea un fondo que tenga inversiones en Chile que representen menos del 30% del valor accionario del mismo, incluyendo títulos emitidos en el extranjero que sean representativos de valores nacionales, siempre y cuando demuestre que no más del 10% del valor accionario del fondo es directa o indirectamente de propiedad de residentes en Chile.
+#### Artículo 18° quater
 
-d) Que sea un fondo de pensiones, entendiéndose por tal aquel que está formado exclusivamente por personas naturales que perciben sus pensiones con cargo al capital acumulado en el fondo.
+Derogado.
 
-e) Que sea un fondo de aquellos regulados por la ley N° 18.657, en cuyo caso todos los tenedores de cuotas deberán ser residentes en el extranjero o inversionistas institucionales locales.
-
-f) Que sea otro tipo de inversionista institucional extranjero que cumpla las características que defina el reglamento para cada categoría de inversionista, previo informe de la Superintendencia de Valores y Seguros y del Servicio de Impuestos Internos.
-
-3. No participar directa ni indirectamente del control de las sociedades emisoras de los valores en los que se invierte ni poseer o participar directa o indirectamente el 10% o más del capital o de las utilidades de dichas sociedades.
-
-4. Celebrar un contrato, que conste por escrito, con un banco o una corredora de bolsa, constituidos en Chile, en el cual el agente intermediario se haga responsable, tanto de la ejecución de las órdenes de compra y venta de acciones, como de verificar, al momento de la remesa respectiva, que se trata de las rentas que en este artículo se eximen de impuesto o bien, si se trata de rentas afectas a los impuestos de esta ley, que se han efectuado las retenciones respectivas por los contribuyentes que pagaron o distribuyeron las rentas. Igualmente el agente deberá formular la declaración jurada a que se refiere el número siguiente y proporcionará la información de las operaciones y remesas que realice al Servicio de Impuestos Internos en la forma y plazos que éste fije.
-
-5. Inscribirse en un registro que al efecto llevará el Servicio de Impuestos Internos. Dicha inscripción se hará sobre la base de una declaración jurada, formulada por el agente intermediario a que se refiere el número anterior, en la cual se deberá señalar: que el inversionista institucional cumple los requisitos establecidos en este artículo o que defina el reglamento en virtud de la letra f) del número 2 anterior; que no tiene un establecimiento permanente en Chile, y que no participará del control de las empresas emisoras de los valores en los que está invirtiendo. Además dicha declaración deberá contener la individualización, con nombre, nacionalidad y domicilio, del representante legal del fondo o de la institución que realiza la inversión; e indicar el nombre del banco en el cual se liquidaron las divisas, el origen de éstas y el monto a que ascendió dicha liquidación.
-
-En el caso que el banco en el cual se liquidaron las divisas destinadas a la inversión, no fuere designado como agente intermediario, pesará sobre él la obligación de informar al Servicio de Impuestos Internos, cuando éste lo requiera, el origen y monto de las divisas liquidadas.
-
-En caso que la información que se suministre conforme al presente número resultare ser falsa, el administrador del fondo quedará afecto a una multa de hasta el 20% del monto de las inversiones realizadas en el país, no pudiendo, en todo caso, dicha multa ser inferior al equivalente a 20 UTA, la que podrá hacerse efectiva sobre el saldo de dicho fondo, sin perjuicio del derecho de éste contra el administrador. El agente intermediario será solidariamente responsable de la multa, salvo que éste acredite que las declaraciones falsas se fundaron en documentos proporcionados por el fondo correspondiente. La aplicación de esta multa se sujetará al procedimiento establecido en el artículo 165 del Código Tributario.
-
-> **Nota.** El artículo 1º transitorio de la LEY 19738, dispone que la modificaciones introducidas por esta norma regirán a contar del año tributario 2002, con ciertas excepciones. Entre ellas, y de acuerdo a lo dispuesto por el Nº 3 del mismo artículo se señala que esta modificación regirá respecto de las rentas que se paguen, abonen en cuenta, se contabilicen como gasto, se remesen o se pongan a disposición del interesado, a contar de la fecha de publicación de la ley.
-
-> **Nota.** NOTA 1: El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
-
-#### Artículo 18º ter
-
-No obstante lo dispuesto en los artículos 17º, Nº 8, y 18º bis, no se gravará con los impuestos de esta ley, ni se declarará, el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil, efectuada en una bolsa de valores del país o en otra bolsa autorizada por la Superintendencia de Valores y Seguros o en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045, siempre que las acciones hayan sido adquiridas en una bolsa de valores, o en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045 o en una colocación de acciones de primera emisión, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o con ocasión del canje de bonos convertibles en acciones considerándose en este caso como precio de adquisición de las acciones el precio asignado al ejercicio de la opción. Cuando las acciones se hubieren adquirido antes de su colocación en bolsa, el mayor valor exento será el que se produzca por sobre el valor superior entre el de dicha colocación o el valor libro que la acción tuviera el día antes de su colocación en bolsa, quedando en consecuencia afecto a los impuestos de esta ley, en la forma dispuesta en el artículo 17º, el mayor valor que resulte de comparar el valor de adquisición inicial, debidamente reajustado en la forma dispuesta en dicho artículo, con el valor señalado precedentemente. Para determinar el valor libro se aplicará lo dispuesto en el inciso tercero del artículo 41º. Se entenderá que tienen presencia bursátil aquellas acciones que cumplan con las normas para ser objeto de inversión de los fondos mutuos, de acuerdo a lo establecido en el Nº 1 del artículo 13º del decreto ley Nº 1.328, de 1976.
-
-También se aplicará la exención establecida en el inciso anterior, cuando la enajenación se efectúe dentro de los 90 días siguientes a aquél en que la acción hubiere perdido presencia bursátil. En este caso el mayor valor obtenido se eximirá de los impuestos de esta ley sólo hasta el equivalente al precio promedio que la acción hubiere tenido en los últimos noventa días en que tuvo presencia bursátil. El exceso sobre dicho valor se gravará en la forma establecida en el artículo 17º. Para que proceda esta exención el contribuyente deberá acreditar, cuando el Servicio de Impuestos Internos así lo requiera, con un certificado de una bolsa de valores, tanto la fecha de la pérdida de presencia bursátil de la acción, como el valor promedio señalado.
-
-Con todo, cuando se trate de la enajenación de un conjunto tal de acciones que permita al adquirente tomar el control de una sociedad anónima abierta, la exención se aplicará sólo en la medida que la enajenación sea efectuada como parte de un proceso de oferta pública de adquisición de las mismas, regido por el título XXV de la ley Nº 18.045, o bien si se efectúa en una bolsa del país, sin exceder el precio al que se refiere la letra ii) del inciso tercero del artículo 199 de dicha ley.
-
-Lo dispuesto en el inciso primero será también aplicable a la enajenación, en una bolsa de valores del país o en una autorizada por la Superintendencia de Valores y Seguros, de cuotas de fondos de inversión regidos por la ley Nº 18.815, que tengan presencia bursátil. Asimismo se aplicará a la enajenación en dichas bolsas de las cuotas señaladas, que no tengan presencia bursátil o al rescate de tales cuotas cuando el fondo se liquide o sus partícipes acuerden una disminución voluntaria de capital, y al rescate de cuotas de fondos mutuos regidos por el decreto ley Nº 1.328, de 1976, siempre y cuando se establezca en la política de inversiones de los reglamentos internos, de ambos tipos de fondos, que a lo menos el 90% de la cartera de inversiones del fondo se destinará a la inversión en acciones con presencia bursátil. Adicionalmente, para que las operaciones de rescate de cuotas de fondos mutuos puedan acogerse a lo dispuesto en este artículo, los fondos respectivos deberán contemplar en sus reglamentos internos la obligación de la sociedad administradora de distribuir entre los partícipes del fondo, la totalidad de los dividendos que hayan sido distribuidos, entre la fecha de adquisición de las cuotas y el rescate de las mismas, por las sociedades anónimas abiertas en que se hubieren invertido los recursos del fondo, de acuerdo a lo señalado en el artículo 17º del decreto ley Nº 1.328, de 1976.
-
-Lo dispuesto en el inciso anterior no resultará aplicable a las enajenaciones y rescates, según corresponda, de cuotas de fondos de inversión regulados por la ley Nº 18.815, que dejaren de dar cumplimiento al porcentaje de inversión contemplado en el reglamento interno respectivo por causas imputables a la administradora o, cuando no siendo imputable a la administradora, dicho incumplimiento no hubiere sido regularizado dentro de los seis meses siguientes de producido. Del mismo modo, el tratamiento a los rescates de fondos mutuos establecido en el inciso anterior, no resultará aplicable respecto de aquellos fondos mutuos que dejaren de dar cumplimiento al porcentaje de inversión establecido en su reglamento interno, por causas imputables a la administradora, o cuando, no siendo imputable a la administradora, no hubiere sido regularizado en las condiciones y plazo que, en el ejercicio de sus facultades, establezca la Superintendencia de Valores y Seguros, el cual no podrá ser superior a doce meses, contado desde la fecha en que se produzca el incumplimiento.
-
-Las administradoras de fondos deberán anualmente certificar, al Servicio de Impuestos Internos y a los partícipes que así lo soliciten, el cumplimiento de las condiciones señaladas.
-
-> **Nota.** El Nº 3 del Art. 1º transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación regirá desde la publicación de esta ley, pero solamente respecto de las acciones y cuotas que hubieren sido adquiridas con posterioridad al 19 de abril de 2001.
-
-> **Nota.** NOTA 1: El Art. transitorio de la LEY 19801, publicada el 25.04.2002, dispuso que esta modificación tendrá la misma vigencia que se establece en el Nº 3 del Art. 1º transitorio de la ley 19768, esto es, desde la publicación de dicha ley (07.11.2001), pero solamente respecto de las acciones y cuotas que hubieren sido adquiridas con posterioridad al 19 de abril de 2001.
-
-#### Artículo 18º quater
-
-El mayor valor obtenido por el rescate de cuotas de fondos mutuos que no se encuentre en la situación descrita en el artículo anterior, determinado en la forma dispuesta en el inciso primero del artículo 17º del decreto ley Nº 1.328, de 1976, se considerará renta, quedando, por consiguiente, sujeto a las normas de la primera categoría, global complementario o adicional de esta ley, según corresponda, a excepción del que obtengan los contribuyentes que no estén obligados a declarar sus rentas efectivas según contabilidad, el cual estará exento del impuesto de la referida categoría. Para estos efectos, las sociedades administradoras remitirán al Servicio de Impuestos Internos antes del 31 de marzo de cada año, la nómina de inversiones y rescates realizados por los partícipes de los fondos durante el año calendario anterior.
-
-Las personas que sean partícipes de fondos mutuos que tengan inversión en acciones y que no se encuentren en la situación contemplada en el inciso final del artículo anterior, tendrán derecho a un crédito contra el impuesto de primera categoría, global complementario o adicional, según corresponda, que será de un 5% del mayor valor declarado por el rescate de cuotas de aquellos fondos en los cuales la inversión promedio anual en acciones sea igual o superior al 50% del activo del fondo, y de un 3% en aquellos fondos que dicha inversión sea entre un 30% y menos de un 50% del activo del fondo. Si resultare un excedente de dicho crédito éste se devolverá al contribuyente en la forma señalada en el artículo 97º.
-
-Para los efectos de lo dispuesto en este artículo, no se considerará rescate la liquidación de las cuotas de un fondo mutuo que haga el partícipe para reinvertir su producto en otro fondo mutuo que no sea de los descritos en el inciso cuarto del artículo anterior. Para ello, el partícipe deberá instruir a la sociedad administradora del fondo mutuo en que mantiene su inversión, mediante un poder que deberá cumplir las formalidades y contener las menciones mínimas que el Servicio de Impuestos Internos establecerá mediante resolución, para que liquide y transfiera, todo o parte del producto de su inversión, a otro fondo mutuo administrado por ella o a otra sociedad administradora, quien lo destinará a la adquisición de cuotas en uno o más de los fondos mutuos administrados por ella.
-
-Los impuestos a que se refiere el presente artículo se aplicarán, en el caso de existir reinversión de aportes en fondos mutuos, comparando el valor de las cuotas adquiridas inicialmente por el partícipe, expresadas en unidades de fomento según el valor de dicha unidad el día en que se efectuó el aporte, menos los rescates de capital no reinvertidos efectuados en el tiempo intermedio, expresados en unidades de fomento según su valor el día en que se efectuó el rescate respectivo, con el valor de las cuotas que se rescatan en forma definitiva, expresadas de acuerdo al valor de la unidad de fomento del día en que se efectúe dicho rescate. El crédito a que se refiere el inciso segundo no procederá respecto del mayor valor obtenido en el rescate de cuotas de fondos mutuos, si la inversión respectiva no ha estado exclusivamente invertida en los fondos mutuos a que se refiere dicho inciso.
-
-Las sociedades administradoras de los fondos de los cuales se liquiden las cuotas y las administradoras de los fondos en que se reinviertan los recursos, deberán informar al Servicio de Impuestos Internos en la forma y plazos que éste determine, sobre las inversiones recibidas, las liquidaciones de cuotas no consideradas rescates y sobre los rescates efectuados. Además, las sociedades administradoras de los fondos de los cuales se realicen liquidaciones de cuotas no consideradas rescates, deberán emitir un certificado en el cual consten los antecedentes que exija el Servicio de Impuestos Internos en la forma y plazos que éste determine.
-
-La no emisión por parte de la sociedad administradora del certificado en la oportunidad y forma señalada en el inciso anterior, su emisión incompleta o errónea, la omisión o retardo de la entrega de la información exigida por el Servicio de Impuestos Internos, así como su entrega incompleta o errónea, se sancionará con una multa de una unidad tributaria mensual hasta una unidad tributaria anual por cada incumplimiento, la cual se aplicará de conformidad al procedimiento establecido en el Nº 1 del artículo 165 del Código Tributario.
-
-> **Nota.** El Nº 3 del Art. 1º transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación regirá desde la publicación de esta ley, pero solamente respecto de las acciones y cuotas que hubieren sido adquiridas con posterioridad al 19 de abril de 2001.
+> **Nota.** NOTA 3 El artículo único de la Ley 20466, publicado el 30.09.2010, dispuso que cualquier referencia al presente artículo derogado que se haga en las leyes, debe entenderse hecha al Art. 108 de la presente ley.
 
 ## Título II
 
@@ -732,15 +724,19 @@ INCISO DEROGADO.
 
 > **Nota.** NOTA: 10 El Nº 1 del Art. único de la LEY 19753, publicada el 28.09.2001, dispone el reemplazo del porcentaje "15%", por "17%" el que regirá con carácter permanente a contar del 1º de enero de 2004, de acuerdo a lo señalado en la letra a) del Art. 1° transitorio de dicha ley. Para los años 2002 y 2003, las tasas serán de 16% y 16,5% respectivamente.
 
+> **Nota.** NOTA 11 El Artículo 1º de la Ley 20.455, publicada el 31.07.2010, aumenta transitoriamente la tasa establecida en el presente artículo de la siguiente manera: A 20% (veinte por ciento) para las rentas que se perciban o devenguen durante el año calendario 2011. A 18,5% (dieciocho coma cinco por ciento) para las rentas que se perciban o devenguen durante el año calendario 2012.
+
 #### Artículo 20° bis
 
 DEROGADO
 
 #### Artículo 21°
 
-Los empresarios individuales y las sociedades que determinen la renta imponible sobre la base de la renta efectiva demostrada por medio de contabilidad, deberán considerar como retiradas de la empresa, al término del ejercicio, independiente del resultado tributario del mismo, todas aquellas partidas señaladas en el N° 1 del artículo 33°, que correspondan a retiros de especies o a cantidades representativas de desembolsos de dinero que no deban imputarse al valor o costo de los bienes del activo, con excepción de los gastos anticipados que deban ser aceptados en ejercicios posteriores, y los préstamos que las sociedades de personas efectúen a sus socios personas naturales o contribuyentes del impuesto adicional que no sean personas naturales, cuando en este último caso el Servicio de Impuestos Internos determine que el préstamo es un retiro encubierto de utilidades tributables los cuales tendrán el mismo tratamiento tributario de los retiros, sin perjuicio de lo dispuesto en el inciso segundo del N° 1 del artículo 54. Se excepcionarán también los intereses, reajustes y multas pagados al Fisco, Municipalidades y a organismos o instituciones públicas creadas por ley, los pagos a que se refiere el artículo 31, número 12º, en la parte que no puedan ser deducidos como gasto y el pago de las patentes mineras en la parte que no sean deducibles como gastos. Igualmente se considerará retiro el beneficio que represente el uso o goce, a cualquier título, o sin título alguno, que no sea necesario para producir la renta, por el empresario o socio, por el cónyuge o hijos no emancipados legalmente de éstos, de los bienes del activo de la empresa o sociedad respectiva. Para estos efectos, se presumirá de derecho que el valor mínimo del beneficio será de 10% del valor del bien determinado para fines tributarios al término del ejercicio, o el monto equivalente a la depreciación anual mientras sea aplicable cuando represente una cantidad mayor, y de 11% del avalúo fiscal tratándose de bienes raíces, cualquiera sea el período en que se hayan utilizado los bienes en el ejercicio o en la proporción que justifique fehacientemente el contribuyente. En el caso de automóviles, station wagons y vehículos similares, se presumirá de derecho que el valor mínimo del beneficio será de 20%. De la cantidad determinada podrán rebajarse las sumas efectivamente pagadas que correspondan al período por uso o goce del bien, constituyendo retiro la diferencia. En el caso de las sociedades anónimas, será aplicable a estos retiros las disposiciones del inciso tercero de este artículo, respecto de sus accionistas. En el caso de contribuyentes que realicen actividades en lugares rurales, no se considerará retiro el uso o goce de los activos de la empresa ubicados en esos lugares. Igual tratamiento tendrá el uso o goce de los bienes de la empresa, ubicados en cualquier lugar, destinados al esparcimiento de su personal, o el uso de otros bienes por éste, si no fuere habitual. En el caso que cualquier bien de la empresa sea entregado en garantía de obligaciones, directas o indirectas, de los socios personas naturales o contribuyentes del impuesto adicional, y ésta fuera ejecutada por el pago total o parcial de tales obligaciones, se considerará retiro en favor de dichas personas hasta el monto del pago efectuado por la empresa garante.
+Los empresarios individuales y las sociedades que determinen la renta imponible sobre la base de la renta efectiva demostrada por medio de contabilidad, deberán considerar como retiradas de la empresa, al término del ejercicio, independiente del resultado tributario del mismo, todas aquellas partidas señaladas en el N° 1 del artículo 33°, que correspondan a retiros de especies o a cantidades representativas de desembolsos de dinero que no deban imputarse al valor o costo de los bienes del activo, con excepción de los gastos anticipados que deban ser aceptados en ejercicios posteriores, y los préstamos que las sociedades de personas efectúen a sus socios personas naturales o contribuyentes del impuesto adicional que no sean personas naturales, cuando en este último caso el Servicio de Impuestos Internos determine que el préstamo es un retiro encubierto de utilidades tributables los cuales tendrán el mismo tratamiento tributario de los retiros, sin perjuicio de lo dispuesto en el inciso segundo del N° 1 del artículo 54. Se excepcionarán también los intereses, reajustes y multas pagados al Fisco, Municipalidades y a organismos o instituciones públicas creadas por ley, los pagos a que se refiere el artículo 31, número 12º, en la parte que no puedan ser deducidos como gasto, el pago del impuesto del número 3 del artículo 104 y el pago de las patentes mineras en la parte que no sean deducibles como gastos. Igualmente se considerará retiro el beneficio que represente el uso o goce, a cualquier título, o sin título alguno, que no sea necesario para producir la renta, por el empresario o socio, por el cónyuge o hijos no emancipados legalmente de éstos, de los bienes del activo de la empresa o sociedad respectiva. Para estos efectos, se presumirá de derecho que el valor mínimo del beneficio será de 10% del valor del bien determinado para fines tributarios al término del ejercicio, o el monto equivalente a la depreciación anual mientras sea aplicable cuando represente una cantidad mayor, y de 11% del avalúo fiscal tratándose de bienes raíces, cualquiera sea el período en que se hayan utilizado los bienes en el ejercicio o en la proporción que justifique fehacientemente el contribuyente. En el caso de automóviles, station wagons y vehículos similares, se presumirá de derecho que el valor mínimo del beneficio será de 20%. De la cantidad determinada podrán rebajarse las sumas efectivamente pagadas que correspondan al período por uso o goce del bien, constituyendo retiro la diferencia. En el caso de las sociedades anónimas, será aplicable a estos retiros las disposiciones del inciso tercero de este artículo, respecto de sus accionistas. En el caso de contribuyentes que realicen actividades en lugares rurales, no se considerará retiro el uso o goce de los activos de la empresa ubicados en esos lugares. Igual tratamiento tendrá el uso o goce de los bienes de la empresa, ubicados en cualquier lugar, destinados al esparcimiento de su personal, o el uso de otros bienes por éste, si no fuere habitual. En el caso que cualquier bien de la empresa sea entregado en garantía de obligaciones, directas o indirectas, de los socios personas naturales o contribuyentes del impuesto adicional, y ésta fuera ejecutada por el pago total o parcial de tales obligaciones, se considerará retiro en favor de dichas personas hasta el monto del pago efectuado por la empresa garante.
 
-También se consideran retiradas de la empresa, al término del ejercicio, las rentas presuntas determinadas en virtud de las normas de esta ley, y aquellas provenientes de la aplicación de lo dispuesto en los artículos 35°, 36°, inciso segundo, 38°, a excepción de su inciso primero , 70° y 71°, según proceda. Las sociedades anónimas y los contribuyentes señalados en el N° 1 del artículo 58, deberán pagar en calidad de impuesto único de esta ley, que no tendrá el carácter de impuesto de categoría, un 35% sobre las cantidades a que se refiere el inciso primero, con exclusión de los impuestos de primera categoría, de este artículo, del inciso segundo del artículo 104 y del impuesto territorial, pagados, y sobre las rentas que resulten por aplicación de lo dispuesto en los artículos 35°, 36°, inciso segundo, 38°, a excepción de su inciso primero, 70º y artículo 71°, según corresponda. Pagarán también este impuesto único las sociedades anónimas cerradas, siempre que éstas no se encuentren voluntariamente sujetas a las normas de las sociedades anónimas abiertas, por los préstamos que efectúen a sus accionistas personas naturales. Quedarán también afectas al impuesto establecido en este inciso las sociedades anónimas que hubieren adquirido acciones de su propia emisión, de conformidad a lo previsto en el artículo 27 A de la ley Nº 18.046, y que no las enajenaren dentro del plazo que establece el artículo 27 C de dicha ley. En este caso, el impuesto se aplicará sobre la cantidad que la sociedad hubiere destinado a la adquisición de tales acciones, debidamente reajustada de acuerdo a la variación del Indice de Precios al Consumidor, ocurrida entre el último día del mes que antecede a aquél en que se efectuó la adquisición y el último día del mes de noviembre del ejercicio en que debió enajenar dichas acciones.
+También se consideran retiradas de la empresa, al término del ejercicio, las rentas presuntas determinadas en virtud de las normas de esta ley, y aquellas provenientes de la aplicación de lo dispuesto en los artículos 35°, 36°, inciso segundo, 38°, a excepción de su inciso primero , 70° y 71°, según proceda.
+
+Las sociedades anónimas y los contribuyentes señalados en el N° 1 del artículo 58, deberán pagar en calidad de impuesto único de esta ley, que no tendrá el carácter de impuesto de categoría, un 35% sobre las cantidades a que se refiere el inciso primero, con exclusión de los impuestos de primera categoría, de este artículo, del número 3 del artículo 104 y del impuesto territorial, pagados, y sobre las rentas que resulten por aplicación de lo dispuesto en los artículos 35°, 36°, inciso segundo, 38°, a excepción de su inciso primero, 70º y artículo 71°, según corresponda. Pagarán también este impuesto único las sociedades anónimas cerradas, siempre que éstas no se encuentren voluntariamente sujetas a las normas de las sociedades anónimas abiertas, por los préstamos que efectúen a sus accionistas personas naturales. Quedarán también afectas al impuesto establecido en este inciso las sociedades anónimas que hubieren adquirido acciones de su propia emisión, de conformidad a lo previsto en el artículo 27 A de la ley Nº 18.046, y que no las enajenaren dentro del plazo que establece el artículo 27 C de dicha ley. En este caso, el impuesto se aplicará sobre la cantidad que la sociedad hubiere destinado a la adquisición de tales acciones, debidamente reajustada de acuerdo a la variación del Indice de Precios al Consumidor, ocurrida entre el último día del mes que antecede a aquél en que se efectuó la adquisición y el último día del mes de noviembre del ejercicio en que debió enajenar dichas acciones.
 
 En el caso de sociedades anónimas que sean socias de sociedades de personas, se aplicará el impuesto del inciso anterior a las partidas que de acuerdo con los incisos primero y segundo de este artículo deban considerarse retiradas de las sociedades de personas, salvo los impuestos de primera categoría y territorial, pagados, calculando el referido tributo sobre la parte que corresponda a la sociedad anónima y rebajando como crédito el impuesto de primera categoría que afecte a dichas partidas.
 
@@ -792,17 +788,11 @@ Tratándose de naves con cubierta, que no cuenten con certificado de la autorida
 
 Los pequeños mineros artesanales estarán afectos a un impuesto único sustitutivo de todos los impuestos de esta ley por las rentas provenientes de la actividad minera, que se aplicará sobre el valor neto de las ventas de productos mineros con arreglo a las siguientes tasas:
 
-1% Si el precio internacional del cobre, en base
+1% Si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, no excede de 284,42 centavos de dólar por libra;
 
-al cual se calcula la tarifa de compra de los
+2% Si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 284,42 centavos de dólar por libra y no sobrepasa de 365,72 centavos de dólar por libra, y
 
-minerales, no excede de 264,91 centavos de dólar
-
-por libra;
-
-2% Si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 264,91 centavos de dólar por libra y no sobrepasa de 340,62 centavos de dólar por libra, y
-
-4% Si el precio internacional del cobre en base al cual se calcula la tarifa de compra de los minerales, excede de 340,62 centavos de dólar por libra.
+4% Si el precio internacional del cobre, en base al cual se calcula la tarifa de compra de los minerales, excede de 365,72 centavos de dólar por libra.
 
 Se entiende por valor neto de la venta el precio recibido por el minero, excluida o deducida la renta de arrendamiento o regalía, cuando proceda.
 
@@ -815,8 +805,6 @@ No obstante, estos contribuyentes podrán optar por tributar anualmente mediante
 > **Nota.** El artículo 12 del DL 1604, Hacienda, publicado el 03.12.1976, dispone que las modificación introducida por el artículo 1º número 5, regirá a contar del día primero del mes siguiente al de su publicación, afectando a las ventas que se realicen desde dicha fecha. No obstante, dichas disposiciones, en lo que fuere pertinente, afectarán también a los ejercicios comerciales que se cierren a contar de la fecha de publicación del citado Decreto Ley.
 
 > **Nota.** NOTA: 1 El artículo 2º de la LEY 18293, dispone que las modificaciones introducidas por la presente norma, regirán a contar del 1 de enero de 1984, sin perjuicio de vigencias especiales indicadas por la citada Ley.
-
-> **Nota.** NOTA: 2 El DTO 190 Exento, Hacienda, publicado el 06.02.2009, reactualizó en un 0,1% las cantidades expresadas en centavos de dólar de los Estados Unidos de Norteamérica que conforman las escalas contenidas en los artículos 23º y 34 Nº 1 de la presente Ley, quedando dichas escalas con los tramos que se indican. Dispone además que la reactualización regirá en la forma dispuesta en la parte final del inciso penúltimo del Nº 1 del artículo 34º de la Ley de la Renta.
 
 #### Artículo 24°
 
@@ -1126,19 +1114,15 @@ Las rentas derivadas de la actividad minera tributarán de acuerdo con las sigui
 
 1°.- Respecto de los mineros que no tengan el carácter de pequeños mineros artesanales, de acuerdo con la definición contenida en el artículo 22°, N° 1, y con excepción de las sociedades anónimas y en comandita por acciones, y de los contribuyentes señalados en el número 2° de este artículo, se presume de derecho que la renta líquida imponible de la actividad de la minería, incluyendo en ella la actividad de explotación de plantas de beneficio de minerales, siempre que el volumen de los minerales tratados provengan en más de un 50% de minas explotadas por el mismo minero, será la que resulte de aplicar sobre las ventas netas anuales de productos mineros, la siguiente escala:
 
-4% Si el precio promedio de la libra de cobre en
+4% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo no excede de 268,14 centavos de dólar;
 
-el año o ejercicio respectivo no excede de 249,74
+6% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 268,14 centavos de dólar y no sobrepasa de 284,42 centavos de dólar;
 
-centavos de dólar;
+10% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 284,42 centavos de dólar y no sobrepasa de 325,03 centavos de dólar;
 
-6% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 249,74 centavos de dólar y no sobrepasa de 264,91 centavos de dólar;
+15% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 325,03 centavos de dólar y no sobrepasa de 365,72 centavos de dólar, y
 
-10% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 264,91 centavos de dólar y no sobrepasa de 302,73 centavos de dólar;
-
-15% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 302,73 centavos de dólar y no sobrepasa de 340,62 centavos de dólar, y
-
-20% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 340,62 centavos de dólar.
+20% Si el precio promedio de la libra de cobre en el año o ejercicio respectivo excede de 365,72 centavos de dólar.
 
 Por precio de la libra de cobre se entiende el Precio de Productores Chilenos fijado por la Comisión Chilena del Cobre.
 
@@ -1184,7 +1168,7 @@ INCISO DEROGADO
 
 > **Nota.** NOTA: 4 La RES 10 exenta, Hacienda, publicada el 19.02.2002, establece la Escala de Tasas que corresponde aplicar a la venta de oro, plata, y la combinación de estos minerales con cobre, de acuerdo al valor de los mismos en el mercado internacional.
 
-> **Nota.** NOTA: 5 El DTO 190 Exento, Hacienda, publicado el 06.02.2009, reactualizó en un 0,1% las cantidades expresadas en centavos de dólar de los Estados Unidos de Norteamérica que conforman las escalas contenidas en los artículos 23º y 34 Nº 1 de la presente Ley, quedando dichas escalas con los tramos que se indican. Dispone además que la reactualización regirá en la forma dispuesta en la parte final del inciso penúltimo del Nº 1 del artículo 34º de la Ley de la Renta.
+> **Nota.** NOTA 7 El Nº2 de la Resolución 36 Exenta, Hacienda, publicada el 22.02.2010, se establece para los efectos de la presunción de la renta líquida imponible de la actividad minera a que se refiere este numeral, las escalas aplicables a las ventas de minerales de oro y plata y combinación de éstos con cobre que se indican. Por su parte, el Nº3 de la norma de referencia, dispone que las escalas referidas al artículo 23º rigen a contar del 1º de marzo del año 2010 y hasta el último día del mes de febrero del año 2011 y, en cuanto a las escalas referidas al Nº 1 del artículo 34, éstas rigen para el Año Tributario 2010.
 
 #### Artículo 34° bis
 
@@ -1335,6 +1319,8 @@ Estarán exentas del impuesto de la presente categoría las rentas percibidas po
 5°.- Los comerciantes ambulantes, siempre que no desarrollen otra actividad gravada en esta categoría.
 
 6°.- Las empresas individuales no acogidas al artículo 14 bis o al artículo 14º ter que obtengan rentas líquidas de esta categoría conforme a los números 1, 3, 4 y 5 del artículo 20°, que no excedan en conjunto de una unidad tributaria anual.
+
+7°.- Los contribuyentes que cumplan los requisitos establecidos en el artículo 14 quáter, por la renta líquida imponible, deducidas las cantidades retiradas, distribuidas, remesadas o que deban considerarse retiradas conforme a esta ley, que determinen en conformidad al Título II, hasta un monto máximo anual equivalente a 1.440 unidades tributarias mensuales.
 
 Con todo, las exenciones a que se refieren los números 1, 2 y 3 no regirán respecto de las empresas que pertenezcan a las instituciones mencionadas en dichos números ni de las rentas clasificadas en los números 3 y 4 del artículo 20°.
 
@@ -1648,6 +1634,94 @@ Las sociedades acogidas a este artículo deberán informar al contribuyente y al
 
 > **Nota.** El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la presente modificación regirá a contar del día 1º del mes siguiente al de su publicación.
 
+#### Artículo 41
+
+E.- Para los efectos de esta ley, el Servicio podrá impugnar los precios, valores o rentabilidades fijados, o establecerlos en caso de no haberse fijado alguno, cuando las operaciones transfronterizas y aquellas que den cuenta de las reorganizaciones o reestructuraciones empresariales o de negocios que contribuyentes domiciliados, o residentes o establecidos en Chile, se lleven a cabo con partes relacionadas en el extranjero y no se hayan efectuado a precios, valores o rentabilidades normales de mercado.
+
+Las disposiciones de este artículo se aplicarán respecto de las reorganizaciones o reestructuraciones empresariales o de negocios señaladas cuando a juicio del Servicio, en virtud de ellas, se haya producido a cualquier título o sin título alguno, el traslado desde Chile a un país o territorio de aquellos incluidos en la lista a que se refiere el número 2, del artículo 41 D, de bienes o actividades susceptibles de generar rentas gravadas en el país y se estime que de haberse transferido los bienes, cedido los derechos, celebrados los contratos o desarrollado las actividades entre partes independientes, se habría pactado un precio, valor o rentabilidad normal de mercado, o los fijados serían distintos a los que establecieron las partes, para cuyos efectos deberá aplicar los métodos referidos en este artículo.
+
+Se entenderá por precios, valores o rentabilidades normales de mercado los que hayan o habrían acordado u obtenido partes independientes en operaciones y circunstancias comparables, considerando por ejemplo, las características de los mercados relevantes, las funciones asumidas por las partes, las características específicas de los bienes o servicios contratados y cualquier otra circunstancia razonablemente relevante. Cuando tales operaciones no se hayan efectuado a sus precios, valores o rentabilidades normales de mercado, el Servicio podrá impugnarlos fundadamente, conforme a lo dispuesto en este artículo.
+
+1.- Normas de relación.
+
+Para los efectos de este artículo, las partes intervinientes se considerarán relacionadas cuando:
+
+a) Una de ellas participe directa o indirectamente en la dirección, control, capital, utilidades o ingresos de la otra, o
+
+b) Una misma persona o personas participen directa o indirectamente en la dirección, control, capital, utilidades o ingresos de ambas partes, entendiéndose todas ellas relacionadas entre sí.
+
+Se considerarán partes relacionadas una agencia, sucursal o cualquier otra forma de establecimiento permanente con su casa matriz; con otros establecimientos permanentes de la misma casa matriz; con partes relacionadas de esta última y establecimientos permanentes de aquellas.
+
+También se considerará que existe relación cuando las operaciones se lleven a cabo con partes residentes, domiciliadas, establecidas o constituidas en un país o territorio incorporado en la lista a que se refiere el número 2 del artículo 41 D, salvo que dicho país o territorio suscriba con Chile un acuerdo que permita el intercambio de información relevante para los efectos de aplicar las disposiciones tributarias, que se encuentre vigente.
+
+Las personas naturales se entenderán relacionadas, cuando entre ellas sean cónyuges o exista parentesco por consanguinidad o afinidad hasta el cuarto grado inclusive.
+
+Igualmente, se considerará que existe relación entre los intervinientes cuando una parte lleve a cabo una o más operaciones con un tercero que, a su vez, lleve a cabo, directa o indirectamente, con un relacionado de aquella parte, una o más operaciones similares o idénticas a las que realiza con la primera, cualquiera sea la calidad en que dicho tercero y las partes intervengan en tales operaciones.
+
+2.- Métodos de precios de transferencia.
+
+El Servicio, para los efectos de impugnar conforme a este artículo los precios, valores o rentabilidades respectivos, deberá citar al contribuyente de acuerdo con el artículo 63 del Código Tributario, para que aporte todos los antecedentes que sirvan para comprobar que sus operaciones con partes relacionadas se han efectuado a precios, valores o considerando rentabilidades normales de mercado, según alguno de los siguientes métodos:
+
+a) Método de Precio Comparable no Controlado: Es aquel que consiste en determinar el precio o valor normal de mercado de los bienes o servicios, considerando el que hayan o habrían pactado partes independientes en operaciones y circunstancias comparables;
+
+b) Método de Precio de Reventa: Consiste en determinar el precio o valor normal de mercado de los bienes o servicios, considerando el precio o valor a que tales bienes o servicios son posteriormente revendidos o prestados por el adquirente a partes independientes. Para estos efectos, se deberá deducir del precio o valor de reventa o prestación, el margen de utilidad bruta que se haya o habría obtenido por un revendedor o prestador en operaciones y circunstancias comparables entre partes independientes. El margen de utilidad bruta se determinará dividiendo la utilidad bruta por las ventas de bienes o prestación de servicios en operaciones entre partes independientes. Por su parte, la utilidad bruta se determinará deduciendo de los ingresos por ventas o servicios en operaciones entre partes independientes, los costos de ventas del bien o servicio;
+
+c) Método de Costo más Margen: Consiste en determinar el precio o valor normal de mercado de bienes y servicios que un proveedor transfiere a una parte relacionada, a partir de sumar a los costos directos e indirectos de producción, sin incluir gastos generales ni otros de carácter operacional, incurridos por tal proveedor, un margen de utilidad sobre dichos costos que se haya o habría obtenido entre partes independientes en operaciones y circunstancias comparables. El margen de utilidad sobre costos se determinará dividiendo la utilidad bruta de las operaciones entre partes independientes por su respectivo costo de venta o prestación de servicios. Por su parte, la utilidad bruta se determinará deduciendo de los ingresos obtenidos de operaciones entre partes independientes, sus costos directos e indirectos de producción, transformación, fabricación y similares, sin incluir gastos generales ni otros de carácter operacional;
+
+d) Método de División de Utilidades: Consiste en determinar la utilidad que corresponde a cada parte en las operaciones respectivas, mediante la distribución entre ellas de la suma total de las utilidades obtenidas en tales operaciones. Para estos efectos, se distribuirá entre las partes dicha utilidad total, sobre la base de la distribución de utilidades que hayan o habrían acordado u obtenido partes independientes en operaciones y circunstancias comparables;
+
+e) Método Transaccional de Márgenes Netos: Consiste en determinar el margen neto de utilidades que corresponde a cada una de las partes en las transacciones u operaciones de que se trate, tomando como base el que hubiesen obtenido partes independientes en operaciones y circunstancias comparables. Para estos efectos, se utilizarán indicadores operacionales de rentabilidad o márgenes basados en el rendimiento de activos, márgenes sobre costos o ingresos por ventas, u otros que resulten razonables, y
+
+f) Métodos residuales: Cuando atendidas las características y circunstancias del caso no sea posible aplicar alguno de los métodos mencionados precedentemente, el contribuyente podrá determinar los precios o valores de sus operaciones utilizando otros métodos que razonablemente permitan determinar o estimar los precios o valores normales de mercado que hayan o habrían acordado partes independientes en operaciones y circunstancias comparables. En tales casos calificados el contribuyente deberá justificar que las características y circunstancias especiales de las operaciones no permiten aplicar los métodos precedentes.
+
+El contribuyente deberá emplear el método más apropiado considerando las características y circunstancias del caso en particular. Para estos efectos, se deberán tener en consideración las ventajas y desventajas de cada método; la aplicabilidad de los métodos en relación al tipo de operaciones y a las circunstancias del caso; la disponibilidad de información relevante; la existencia de operaciones comparables y de rangos y ajustes de comparabilidad.
+
+3.- Estudios o informes de precios de transferencia.
+
+Los contribuyentes podrán acompañar un estudio de precios de transferencia que dé cuenta de la determinación de los precios, valores o rentabilidades de sus operaciones con partes relacionadas.
+
+La aplicación de los métodos o presentación de estudios a que se refiere este artículo, es sin perjuicio de la obligación del contribuyente de mantener a disposición del Servicio la totalidad de los antecedentes en virtud de los cuales se han aplicado tales métodos o elaborado dichos estudios, ello conforme a lo dispuesto por los artículos 59 y siguientes del Código Tributario. El Servicio podrá requerir información a autoridades extranjeras respecto de las operaciones que sean objeto de fiscalización por precios de transferencia.
+
+4.- Ajustes de precios de transferencia.
+
+Si el contribuyente, a juicio del Servicio, no logra acreditar que la o las operaciones con sus partes relacionadas se han efectuado a precios, valores o rentabilidades normales de mercado, este último determinará fundadamente, para los efectos de esta ley, tales precios, valores o rentabilidades, utilizando los medios probatorios aportados por el contribuyente y cualesquiera otros antecedentes de que disponga, incluyendo aquellos que hayan sido obtenidos desde el extranjero, debiendo aplicar para tales efectos los métodos ya señalados.
+
+Determinados por el Servicio los precios, valores o rentabilidades normales de mercado para la o las operaciones de que se trate, se practicará la liquidación de impuestos o los ajustes respectivos, y la determinación de los intereses y multas que correspondan, considerando especialmente lo siguiente:
+
+Cuando en virtud de los ajustes de precios, valores o rentabilidades a que se refiere este artículo, se determine una diferencia, esta cantidad se afectará en el ejercicio a que corresponda, sólo con el impuesto único del inciso primero del artículo 21.
+
+En los casos en que se liquide el impuesto único del inciso primero del artículo 21, se aplicará además una multa equivalente al 5% del monto de la diferencia, salvo que el contribuyente haya cumplido debida y oportunamente con la entrega de los antecedentes requeridos por el Servicio durante la fiscalización. El Servicio determinará mediante circular los antecedentes mínimos que deberá aportar para que la multa no sea procedente.
+
+5.- Reclamación.
+
+El contribuyente podrá reclamar de la liquidación en que se hayan fijado los precios, valores o rentabilidades asignados a la o las operaciones de que se trata y determinado los impuestos, intereses y multas aplicadas, de acuerdo al procedimiento general establecido en el Libro III del Código Tributario.
+
+6.- Declaración.
+
+Los contribuyentes domiciliados, residentes o establecidos en Chile que realicen operaciones con partes relacionadas, incluidas las reorganizaciones o reestructuraciones empresariales a que se refiere este artículo, deberán presentar anualmente una declaración con la información que requiera el Servicio, en la forma y plazo que éste establezca mediante resolución. En dicha declaración, el Servicio podrá solicitar, entre otros antecedentes, que los contribuyentes aporten información sobre las características de sus operaciones tanto con partes relacionadas como no relacionadas, los métodos aplicados para la determinación de los precios o valores de tales operaciones, información de sus partes relacionadas en el exterior, así como información general del grupo empresarial al que pertenece, entendiéndose por tal aquel definido en el artículo 96 de la ley N° 18.045, sobre Mercado de Valores. La no presentación de esta declaración, o su presentación errónea, incompleta o extemporánea, se sancionará con una multa de 10 a 50 unidades tributarias anuales. Con todo, dicha multa no podrá exceder del límite mayor entre el equivalente al 15% del capital propio del contribuyente determinado conforme al artículo 41 o el 5% de su capital efectivo. La aplicación de dicha multa se someterá al procedimiento establecido por el número 1°, del artículo 165, del Código Tributario. Si la declaración presentada conforme a este número fuere maliciosamente falsa, se sancionará conforme a lo dispuesto por el inciso primero, del número 4°, del artículo 97, del Código Tributario. El contribuyente podrá solicitar al Director Regional respectivo, o al Director de Grandes Contribuyentes, según corresponda, por una vez, prórroga de hasta tres meses del plazo para la presentación de la citada declaración. La prórroga concedida ampliará, en los mismos términos, el plazo de fiscalización a que se refiere la letra a), del artículo 59 del Código Tributario.
+
+7.- Acuerdos anticipados.
+
+Los contribuyentes que realicen operaciones con partes relacionadas podrán proponer al Servicio un acuerdo anticipado en cuanto a la determinación del precio, valor o rentabilidad normal de mercado de tales operaciones. Para estos efectos, en la forma y oportunidad que establezca el Servicio mediante resolución, el contribuyente interesado deberá presentar una solicitud con una descripción de las operaciones respectivas, sus precios, valores o rentabilidades normales de mercado y el período que debiera comprender el acuerdo, acompañada de la documentación o antecedentes en que se funda y de un informe o estudio de precios de transferencia en que se hayan aplicado a tales operaciones los métodos a que se refiere este artículo. El Servicio, mediante resolución, podrá rechazar a su juicio exclusivo, la solicitud de acuerdo anticipado, la que no será reclamable, ni admitirá recurso alguno. En caso que el Servicio acepte total o parcialmente la solicitud del contribuyente, se dejará constancia del acuerdo anticipado en un acta, la que será suscrita por el Servicio y un representante del contribuyente autorizado expresamente al efecto, debiendo constar en ella los antecedentes en que se funda. El Servicio podrá suscribir acuerdos anticipados en los cuales intervengan además otras administraciones tributarias a los efectos de determinar anticipadamente el precio, valor o rentabilidad normal de mercado de las respectivas operaciones. Tratándose de la importación de mercancías, el acuerdo deberá ser suscrito en conjunto con el Servicio Nacional de Aduanas. El Ministerio de Hacienda establecerá mediante resolución el procedimiento a través del cual ambas instituciones resolverán sobre la materia.
+
+El acuerdo anticipado, una vez suscrita el acta, se aplicará respecto de las operaciones llevadas a cabo por el solicitante a partir del mismo año comercial de la solicitud y por los tres años comerciales siguientes, pudiendo ser prorrogado o renovado, previo acuerdo escrito suscrito por el contribuyente, el Servicio y, cuando corresponda, por la otra u otras administraciones tributarias.
+
+El Servicio deberá pronunciarse respecto de la solicitud del contribuyente ya sea concurriendo a la suscripción del acta respectiva o rechazándola mediante resolución, dentro del plazo de 6 meses contado desde que el contribuyente haya entregado o puesto a disposición de dicho Servicio la totalidad de los antecedentes que estime necesarios para resolverla. En caso que el Servicio no se pronuncie dentro del plazo señalado, se entenderá rechazada la solicitud del contribuyente, pudiendo este volver a proponer la suscripción del acuerdo. Para los efectos del cómputo del plazo, se dejará constancia de la entrega o puesta a disposición referida en una certificación del jefe de la oficina del Servicio que conozca de la solicitud.
+
+El Servicio podrá, en cualquier tiempo, dejar sin efecto el acuerdo anticipado cuando la solicitud del contribuyente se haya basado en antecedentes erróneos, maliciosamente falsos, o hayan variado sustancialmente los antecedentes o circunstancias esenciales que se tuvieron a la vista al momento de su suscripción, prórroga o renovación. La resolución que se dicte dejando sin efecto el acuerdo anticipado, deberá fundarse en el carácter erróneo de los antecedentes, en su falsedad maliciosa o en la variación sustancial de los antecedentes o circunstancias esenciales en virtud de las cuales el Servicio aceptó la solicitud de acuerdo anticipado, señalando de qué forma éstos son erróneos, maliciosamente falsos o han variado sustancialmente, según corresponda, y detallando los antecedentes que se han tenido a la vista para tales efectos. La resolución que deje sin efecto el acuerdo anticipado, regirá a partir de su notificación al contribuyente, salvo cuando se funde en el carácter maliciosamente falso de los antecedentes de la solicitud, caso en el cual se dejará sin efecto a partir de la fecha de suscripción del acta original o de sus renovaciones o prórrogas, considerando la oportunidad en que tales antecedentes hayan sido invocados por el contribuyente. Asimismo, la resolución será comunicada, cuando corresponda, a la o las demás administraciones tributarias respectivas. Esta resolución no será reclamable ni procederá a su respecto recurso alguno, ello sin perjuicio de la reclamación o recursos que procedan respecto de las resoluciones, liquidaciones o giros de impuestos, intereses y multas dictadas o aplicadas por el Servicio que sean consecuencia de haberse dejado sin efecto el acuerdo anticipado. Por su parte, el contribuyente podrá dejar sin efecto el acuerdo anticipado que haya suscrito cuando hayan variado sustancialmente los antecedentes o circunstancias esenciales que se tuvieron a la vista al momento de su suscripción, prórroga o renovación. Para estos efectos, deberá manifestar su voluntad en tal sentido mediante aviso por escrito al Servicio, en la forma que éste establezca mediante resolución, de modo que el referido acuerdo quedará sin efecto desde la fecha del aviso, pudiendo el Servicio ejercer respecto de las operaciones del contribuyente la totalidad de las facultades que le confiere la ley.
+
+La presentación de antecedentes maliciosamente falsos en una solicitud de acuerdo anticipado que haya sido aceptada total o parcialmente por el Servicio, será sancionada en la forma establecida por el inciso primero, del número 4°, del artículo 97, del Código Tributario.
+
+Una vez suscrita el acta de acuerdo anticipado, o sus prórrogas o renovaciones, y mientras se encuentren vigentes de acuerdo a lo señalado precedentemente, el Servicio no podrá liquidar a los contribuyentes a que se refiere, diferencias de impuestos por precios de transferencias en las operaciones comprendidas en él, siempre que los precios, valores o rentabilidades hayan sido establecidos o declarados por el contribuyente conforme a los términos previstos en el acuerdo.
+
+Las actas de acuerdos anticipados y los antecedentes en virtud de los cuales han sido suscritas, quedarán amparados por el deber de secreto que establece el artículo 35 del Código Tributario. Aquellos contribuyentes que autoricen al Servicio la publicación de los criterios, razones económicas, financieras, comerciales, entre otras, y métodos en virtud de los cuales se suscribieron los acuerdos anticipados conforme a este número, debiendo dejarse en este caso constancia de la autorización en el acta respectiva, serán incluidos si así lo autorizan, mientras se encuentre vigente el acuerdo, en una nómina pública de contribuyentes socialmente responsables que mantendrá dicho Servicio. Aun cuando no hayan autorizado ser incluidos en la nómina precedente, no se aplicará respecto de ellos, interés penal y multa algunos con motivo de las infracciones y diferencias de impuestos que se determinen durante dicha vigencia, salvo que se trate de infracciones susceptibles de ser sancionadas con penas corporales, caso en el cual serán excluidos de inmediato de la nómina señalada. Lo anterior es sin perjuicio del deber del contribuyente de subsanar las infracciones cometidas dentro del plazo que señale el Servicio, el que no podrá ser inferior a 30 días hábiles contado desde la notificación de la infracción; y/o declarar y pagar las diferencias de impuestos determinadas, y sin perjuicio de su derecho a reclamar de tales actuaciones, según sea el caso. Cuando el contribuyente no hubiese subsanado la infracción y/o declarado y pagado los impuestos respectivos dentro de los plazos que correspondan, salvo que haya deducido reclamación respecto de tales infracciones, liquidaciones o giros, el Servicio girará sin más trámite los intereses penales y multas que originalmente no se habían aplicado. En caso de haberse deducido reclamación, procederá el giro señalado cuando no haya sido acogida por sentencia ejecutoriada o el contribuyente se haya desistido de ella.
+
+8.- Ajuste correspondiente.
+
+Los contribuyentes podrán, previa autorización del Servicio tanto respecto de la naturaleza como del monto del ajuste, rectificar el precio, valor o rentabilidad de las operaciones llevadas a cabo con partes relacionadas, sobre la base de los ajustes de precios de transferencia que hayan efectuado otros Estados con los cuales se encuentre vigente un Convenio para evitar la doble tributación internacional que no prohíba dicho ajuste, y respecto de los cuales no se hayan deducido, ni se encuentren pendientes, los plazos establecidos para deducir recursos o acciones judiciales o administrativas. No obstante lo anterior, cuando se hayan deducido dichos recursos o acciones, el contribuyente podrá acogerse a lo dispuesto en este número en tanto el ajuste deba considerarse definitivo en virtud de la respectiva sentencia judicial o resolución administrativa. Para estos efectos, el Servicio deberá aplicar respecto de las operaciones materia de rectificación, en la forma señalada, los métodos contemplados en este artículo. La solicitud de rectificación deberá ser presentada en la forma que fije el Servicio mediante resolución, acompañada de todos los documentos en que se funde, incluyendo copia del instrumento que dé cuenta del ajuste practicado por el otro Estado, y dentro del plazo de 5 años contado desde la expiración del plazo legal en que se debió declarar en el país los resultados provenientes de las operaciones cuyos precios, valores o rentabilidades se pretenda rectificar. El Servicio deberá denegar total o parcialmente la rectificación solicitada por el contribuyente, cuando el ajuste de precios de transferencia efectuado por el otro Estado se estime incompatible con las disposiciones de esta ley, sin que en este caso proceda recurso administrativo o judicial alguno.
+
+Cuando con motivo de este ajuste resultare una diferencia de impuestos a favor del contribuyente, para los efectos de su devolución, ésta se reajustará de acuerdo al porcentaje de variación que haya experimentado el Índice de Precios al Consumidor en el período comprendido entre el mes anterior al del pago del impuesto y el mes anterior a la fecha de la resolución que ordene su devolución.
+
 SEGUNDA CATEGORIA
 
 De las rentas del trabajo
@@ -1662,11 +1736,13 @@ Se aplicará, calculará y cobrará un impuesto en conformidad a lo dispuesto en
 
 1°.- Sueldos, sobresueldos, salarios, premios, dietas, gratificaciones, participaciones y cualesquiera otras asimilaciones y asignaciones que aumenten la remuneración pagada por servicios personales, montepíos y pensiones, exceptuadas las imposiciones obligatorias que se destinen a la formación de fondos de previsión y retiro, y las cantidades percibidas por concepto de gastos de representación.
 
+Cuando los depósitos efectuados en la cuenta de ahorro voluntario a que se refiere el artículo 21 del decreto ley N°3.500, de 1980, que no hayan estado acogidos a las normas que se establecen en la letra A.- del artículo 57 bis, se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, se rebajará de la base de dicho tributo el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a ella representen tales depósitos. Este saldo será determinado por la Administradora de Fondos de Pensiones de acuerdo a lo establecido en el artículo 22 del decreto ley Nº 3.500, de 1980, registrando separadamente el capital invertido, expresado en unidades tributarias mensuales, el que corresponderá a la diferencia entre los depósitos y los retiros netos, convertidos cada uno de ellos al valor que tenga dicha unidad en el mes en que se efectúen estas operaciones.
+
 Respecto de los obreros agrícolas el impuesto se calculará sobre la misma cantidad afecta a imposiciones del Servicio de Seguro Social, sin ninguna deducción.
 
 Los choferes de taxis, que no sean propietarios de los vehículos que exploten, tributarán con el impuesto de este número con tasas de 3,5% sobre el monto de dos unidades tributarias mensuales, sin derecho a deducción alguna. El impuesto debe ser recaudado mensualmente por el propietario del vehículo el que debe ingresarlo en arcas fiscales entre el 1° y el 12 del mes siguiente.
 
-INCISO DEROGADO
+INCISO DEROGADO.
 
 2°.- Ingresos provenientes del ejercicio de las profesiones liberales o de cualquiera otra profesión u ocupación lucrativa no comprendida en la primera categoría ni en el número anterior, incluyéndose los obtenidos por los auxiliares de la administración de justicia por los derechos que conforme a la ley obtienen del público, los obtenidos por los corredores que sean personas naturales y cuyas rentas provengan exclusivamente de su trabajo o actuación personal, sin que empleen capital, y los obtenidos por sociedades de profesionales que presten exclusivamente servicios o asesorías profesionales.
 
@@ -1700,13 +1776,15 @@ Para los efectos de impetrar el beneficio, cada inversión efectuada en el año 
 
 Las administradoras de fondos de pensiones y las instituciones autorizadas que administren los recursos de ahorro previsional voluntario desde las cuales se efectúen los retiros descritos en el inciso anterior, deberán practicar una retención de impuesto, con tasa 15% que se tratará conforme a lo dispuesto en el artículo 75º de esta ley y servirá de abono al impuesto único determinado. Con todo, no se considerarán retiros los traspasos de recursos que se efectúen entre las entidades administradoras, siempre que cumplan con los requisitos que se señalan en el numeral siguiente.
 
+Los recursos originados en depósitos de ahorro previsional voluntario, cotizaciones voluntarias o ahorro previsional voluntario colectivo, acogidos a lo dispuesto en el número 1 del presente artículo, y que hayan sido destinados a pólizas de seguros de vida autorizadas por la Superintendencia de Valores y Seguros como planes de ahorro previsional voluntario, se gravarán en caso de muerte del asegurado con el impuesto que establece este numeral, en aquella parte que no se haya destinado a financiar costos de cobertura. Dicho impuesto, cuya tasa será, en este caso, de un 15%, deberá ser retenido por la Compañía de Seguros al momento de efectuar el pago de tales recursos a los beneficiarios, y enterado en arcas fiscales hasta el día 12 del mes siguiente a aquél en que haya efectuado la retención. Para los efectos de la determinación de este impuesto, las cantidades afectas a la tributación señalada se reajustarán en la forma dispuesta en el inciso penúltimo, del número 3 del artículo 54. El impuesto a que se refiere este inciso no se aplicará cuando los beneficiarios hayan optado por destinar tales recursos a la cuenta de capitalización individual del asegurado.
+
 4. Al momento de incorporarse al sistema de ahorro a que se refiere este artículo, la persona deberá manifestar a las administradoras de fondos de pensiones o a las instituciones autorizadas, su voluntad de acogerse al régimen establecido en este artículo, debiendo mantener vigente dicha expresión de voluntad. La entidad administradora deberá dejar constancia de esta circunstancia en el documento que dé cuenta de la inversión efectuada. Asimismo, deberá informar anualmente respecto de los montos de ahorro y de los retiros efectuados, al contribuyente y al Servicio de Impuestos Internos, en la oportunidad y forma que este último señale.
 
 5. Los montos acogidos a los planes de ahorro previsional voluntario no podrán acogerse simultáneamente a lo dispuesto en el artículo 57º bis.
 
 6. También podrán acogerse al régimen establecido en este artículo las personas indicadas en el inciso tercero del número 6º del artículo 31, hasta por el monto en unidades de fomento que represente la cotización obligatoria que efectúe en el año respectivo, de acuerdo a lo dispuesto en el primer inciso del artículo 17 del decreto ley Nº 3.500, de 1980.
 
-Si el contribuyente no opta por acogerse al régimen establecido en el inciso anterior, al momento de incorporarse al sistema de ahorro a que se refiere este artículo, los depósitos de ahorro previsional voluntario, las cotizaciones voluntarias o el ahorro previsional voluntario colectivo correspondiente a los aportes del trabajador, a que se refieren los números 2. y 3. del Título III del decreto ley Nº 3.500, de 1980, no se rebajarán de la base imponible del impuesto único de segunda categoría y no estarán sujetos al impuesto único que establece el número 3. del inciso primero de este artículo, cuando dichos recursos sean retirados. En todo caso, la rentabilidad de dichos aportes estará sujeta a las normas establecidas en el artículo 22 del mencionado decreto ley. Asimismo, cuando dichos aportes se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, se rebajará el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a pensión representen las cotizaciones voluntarias, aportes de ahorro previsional voluntario y aportes de ahorro previsional voluntario colectivo que la persona hubiere acogido a lo dispuesto en este inciso. El saldo de dichas cotizaciones y aportes, será determinado por las Administradoras de Fondos de Pensiones de acuerdo a lo establecido en el artículo 20 L del decreto ley N° 3.500, de 1980.
+Si el contribuyente no opta, al momento de incorporarse al sistema de ahorro a que se refiere este artículo, por acogerse al régimen establecido en el inciso anterior, o habiendo optado sus depósitos exceden de los límites que establece dicho inciso, los depósitos de ahorro previsional voluntario, las cotizaciones voluntarias, el ahorro previsional voluntario colectivo correspondiente a los aportes del trabajador, a que se refieren los números 2. y 3. del Título III del decreto ley Nº 3.500, de 1980, o el exceso en su caso, no se rebajarán de la base imponible del impuesto único de segunda categoría y no estarán sujetos al impuesto único que establece el número 3. del inciso primero de este artículo, cuando dichos recursos sean retirados. En todo caso, la rentabilidad de dichos aportes estará sujeta a las normas establecidas en el artículo 22 del mencionado decreto ley. Asimismo, cuando dichos aportes se destinen a anticipar o mejorar la pensión, para los efectos de aplicar el impuesto establecido en el artículo 43, se rebajará el monto que resulte de aplicar a la pensión el porcentaje que en el total del fondo destinado a pensión representen las cotizaciones voluntarias, aportes de ahorro previsional voluntario y aportes de ahorro previsional voluntario colectivo que la persona hubiere acogido a lo dispuesto en este inciso y los que no hubiese podido acoger por exceder de los límites que establece el inciso primero. El saldo de dichas cotizaciones y aportes será determinado por las Administradoras de Fondos de Pensiones de acuerdo a lo establecido en el artículo 20 L del decreto ley N° 3.500, de 1980.
 
 Los aportes que los empleadores efectúen a los planes de ahorro previsional voluntario colectivo se considerarán como gasto necesario para producir la renta de aquéllos. A su vez, cuando los aportes del empleador, más la rentabilidad que éstos generen, sean retirados por éste, aquéllos serán considerados como ingresos para efectos de la Ley sobre Impuesto a la Renta. En este último caso, la Administradora o Institución Autorizada deberá efectuar la retención establecida en el N°3 de este artículo.
 
@@ -1714,9 +1792,11 @@ Los aportes que los empleadores efectúen a los planes de ahorro previsional vol
 
 > **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que las modificaciones introducidas al presente artículo rigen a contar del primer día del séptimo mes siguiente al de su publicación.
 
-#### Artículo 42º ter
+> **Nota.** NOTA 2 El artículo Quinto transitorio de la Ley 20552, publicada el 17.12.2011, dispone que la modificación introducida por el N° 2) del artículo 4° regirá respecto de los seguros de vida a que se refiere dicha disposición, que se contraten a partir de la fecha de publicación de esta ley en el Diario Oficial, y para todos los nuevos aportes enterados, desde esa fecha, en las pólizas ya contratadas.
 
-El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley Nº 3.500, de 1980, determinado al momento en que los afiliados opten por pensionarse, podrá ser retirado libre de impuesto hasta por un máximo anual equivalente a 200 unidades tributarias mensuales, no pudiendo, en todo caso, exceder dicha exención el equivalente a 1.200 unidades tributarias mensuales. Con todo, el contribuyente podrá optar, alternativamente, por acoger sus retiros a una exención máxima de 800 unidades tributarias mensuales durante un año. No se aplicará esta exención a aquella parte del excedente de libre disposición que corresponda a recursos originados en depósitos convenidos.
+#### Artículo 42° ter
+
+El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley Nº 3.500, de 1980, determinado al momento en que los afiliados opten por pensionarse, podrá ser retirado libre de impuesto hasta por un máximo anual equivalente a 200 unidades tributarias mensuales, no pudiendo, en todo caso, exceder dicha exención el equivalente a 1.200 unidades tributarias mensuales. Con todo, el contribuyente podrá optar, alternativamente, por acoger sus retiros a una exención máxima de 800 unidades tributarias mensuales durante un año. Aquella parte del excedente de libre disposición que corresponda a recursos originados en depósitos convenidos, tributará de acuerdo al siguiente artículo.
 
 Para que opere la exención señalada, los aportes que se efectúen para constituir dicho excedente, por concepto de cotización voluntaria, depósito de ahorro voluntario o depósito de ahorro previsional voluntario colectivo, deberán haberse efectuado con a lo menos cuarenta y ocho meses de anticipación a la determinación de dicho excedente.
 
@@ -1725,6 +1805,10 @@ Los retiros que efectúe el contribuyente se imputarán, en primer lugar, a los 
 > **Nota.** El Art. 1° transitorio de la LEY 19768, publicada el 07.11.2001, dispuso que la presente modificación entrará en vigencia el primer día del mes siguiente a aquel en el cual se cumplan noventa días desde su publicación.
 
 > **Nota.** NOTA 1: El Art. trigésimo segundo de la LEY 20255, publicada el 17.03.2008, dispuso que la modificación introducida al presente artículo rige a contar del primer día del séptimo mes siguiente al de su publicación.
+
+#### Artículo 42° quáter
+
+El monto de los excedentes de libre disposición, calculado de acuerdo a lo establecido en el decreto ley N° 3.500, de 1980, que corresponda a depósitos convenidos efectuados por sobre el límite establecido en el inciso tercero del artículo 20 del citado decreto ley, podrá ser retirado libre de impuestos. Con todo, la rentabilidad generada por dichos depósitos, tributará conforme a las reglas generales. Aquella parte de los excedentes de libre disposición que correspondan a recursos originados en depósitos convenidos de montos inferiores al límite contemplado en el artículo 20 del decreto ley N° 3.500, de 1980, tributará conforme a las reglas generales.
 
 #### Artículo 43°
 
@@ -1796,17 +1880,19 @@ Para los efectos del inciso anterior, las remuneraciones voluntarias que se pagu
 
 > **Nota.** Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
 
-#### Artículo 47°
+#### Artículo 47
 
-Los contribuyentes del número 1° del artículo 42° que durante un año calendario o en una parte de él hayan obtenido rentas de más de un empleador, patrón o pagador simultáneamente, deberán reliquidar el impuesto del N° 1 del artículo 43 por el período correspondiente, considerando el monto de los tramos de las tasas progresivas y de los créditos pertinentes, que hubieren regido en cada período.
+Los contribuyentes del número 1º, del artículo 42, que durante un año calendario o en una parte de él hayan obtenido rentas de más de un empleador, patrón o pagador simultáneamente, deberán reliquidar el impuesto del número 1, del artículo 43, aplicando al total de sus rentas imponibles, la escala de tasas que resulte en valores anuales, según la unidad tributaria del mes de diciembre y los créditos y demás elementos de cálculo del impuesto.
 
-Estos contribuyentes podrán efectuar pagos provisionales a cuenta de las diferencias que se determinen en la reliquidación, las cuales deben declararse anualmente en conformidad al N° 5 del artículo 65.
+Estos contribuyentes podrán efectuar pagos provisionales a cuenta de las diferencias que se determinen en la reliquidación, las cuales deben declararse anualmente en conformidad al número 5, del artículo 65.
+
+Los demás contribuyentes del impuesto del número 1°, del artículo 43, que no se encuentren obligados a reliquidar dicho tributo conforme al inciso primero, ni a declarar anualmente el Impuesto Global Complementario por no haber obtenido otras rentas gravadas con el referido tributo, podrán efectuar una reliquidación anual de los impuestos retenidos durante el año, aplicando el mismo procedimiento descrito anteriormente.
+
+Para la aplicación de lo dispuesto en los incisos anteriores, las rentas imponibles se reajustarán en conformidad al inciso penúltimo del artículo 54 y los impuestos retenidos según el artículo 75.
+
+La cantidad a devolver que resulte de la reliquidación a que se refieren los incisos precedentes, se reajustará en la forma establecida en el artículo 97 y se devolverá por el Servicio de Tesorerías, en el plazo que señala dicha disposición.
 
 Se faculta al Presidente de la República para eximir a los citados contribuyentes de dicha declaración anual, reemplazándola por un sistema que permita la retención del impuesto sobre el monto correspondiente al conjunto de las rentas percibidas.
-
-INCISO SUPRIMIDO
-
-> **Nota.** El Nº 6 del artículo 1º transitorio de la LEY 19738, dispone que la modificación que introduce a este artículo, regirá a contar del 1° del mes siguiente al de su publicación.
 
 #### Artículo 48°
 
@@ -2040,7 +2126,7 @@ Las personas referidas en este artículo que opten por invertir en los instrumen
 
 Supuesto que se sujeten a las condiciones antes referidas y que se cumplan los requisitos que se mencionan más adelante, se incluyen dentro de los instrumentos o valores indicados, entre otros, los certificados de depósito a plazo, las cuentas de ahorro bancarias, las cuotas de fondos mutuos, las cuentas de ahorro voluntario establecidas en el artículo 21 del decreto ley N° 3.500, de 1980, y las cuentas de ahorro asociadas a los seguros de vida. En ningún caso podrán acogerse al mecanismo de esta letra los instrumentos a plazo fijo de menos de un año. El Servicio de Impuestos Internos establecerá la lista de instrumentos susceptibles de acogerse al mecanismo que trata esta letra, previo informe de la Superintendencia respectiva.
 
-Al momento de hacer cada inversión la persona deberá manifestar a la Institución Receptora su voluntad de acogerse al mecanismo establecido en esta letra. La Institución Receptora deberá dejar constancia de esta circunstancia en el documento que dé cuenta de la inversión efectuada. Una vez ejercida la opción ésta es irrenunciable, quedando el respectivo instrumento o valor sometido a las normas establecidas en esta letra. En el caso de las cuentas de ahorro voluntario a que se refiere el artículo 21 del decreto ley N° 3.500, de 1980, cuando no existan fondos depositados en un año calendario y se efectúe un nuevo depósito o inversión, el ahorrante podrá optar nuevamente por ejercer la opción establecida en este número; cuando en dichas cuentas de ahorro existan fondos que se encuentran acogidos al régimen general de esta ley, se mantendrá sobre ellos el tratamiento tributario que tengan a la fecha de la opción, el cual se aplicará desde los primeros retiros que se efectúen, imputándose éstos a las cuotas más antiguas.
+Al momento de hacer cada inversión la persona deberá manifestar a la Institución Receptora su voluntad de acogerse al mecanismo establecido en esta letra. La Institución Receptora deberá dejar constancia de esta circunstancia en el documento que dé cuenta de la inversión efectuada. Una vez ejercida la opción ésta es irrenunciable, quedando el respectivo instrumento o valor sometido a las normas establecidas en esta letra. En el caso de las cuentas de ahorro voluntario a que se refiere el artículo 21 del decreto ley Nº 3.500, de 1980, cuando existan algunos fondos que se encuentren acogidos al régimen general de esta ley y otros al régimen de este artículo, se mantendrá sobre ellos el tratamiento tributario que tengan a la fecha de la opción, el cual se aplicará desde los primeros retiros que se efectúen, imputándose éstos a las cuotas o depósitos afectos al régimen respectivo que determine a su elección el inversionista.
 
 El titular de los instrumentos o valores a que se refiere este número sólo podrá ceder o entregar la propiedad, el uso o el goce o la nuda propiedad de los mismos mediante el mecanismo de la cesión de créditos.
 
@@ -2142,9 +2228,21 @@ Se aplicará, cobrará y pagará un impuesto adicional a la renta, con tasa del 
 
 Cuando corresponda aplicar el crédito a que se refiere el artículo 63 de esta ley, se agregará un monto equivalente a éste para determinar la base gravada con el impuesto adicional y se considerará como suma afectada por el impuesto de primera categoría para el cálculo de dicho crédito.
 
-También pagarán este impuesto, en carácter de único, las personas domiciliadas o residentes en el extranjero, por la renta a que se refiere la segunda parte del inciso segundo del artículo 10º, determinada con sujeción a las normas del inciso tercero del artículo 41º, considerando el valor de libros de los derechos sociales de la sociedad constituida en Chile, en la cual tendrá participación directa o indirecta el adquirente, si ésta es sociedad de personas, o el valor a que se refiere el inciso segundo del número 8 del artículo 17º, si es una sociedad anónima y, como valor de enajenación, el pactado con el enajenante domiciliado o residente en el extranjero, en la proporción que represente el valor libro de la sociedad constituida en Chile en el valor patrimonial de la sociedad cuyas acciones o derechos se enajenan. Para estos efectos, el comprador deberá formular una declaración jurada ante el Servicio de Impuestos Internos, en la forma y plazo que éste determine en la cual, junto con individualizar al enajenante y a la sociedad cuyos derechos o acciones se enajenan, deberá señalar el valor patrimonial de dicha sociedad y cualquier otra información o antecedente relacionado con la operación, que exija dicho Servicio.
+INCISOS ELIMINADOS.
 
-Con todo, el contribuyente o el agente retenedor en su nombre, podrán, en sustitución del impuesto anterior, optar por someterse al régimen de tributación que hubiera correspondido aplicar de haberse enajenado en el país las acciones o derechos sociales de la entidad establecida en Chile, y cuya posesión determina la afectación al referido tributo.
+3) También pagarán el impuesto de este artículo, en carácter de único, los contribuyentes no residentes ni domiciliados en el país, que enajenen las acciones, cuotas, títulos o derechos a que se refiere el inciso tercero del artículo 10. La renta gravada, a elección del enajenante, será: (a) la cantidad que resulte de aplicar, al precio o valor de enajenación de las acciones, cuotas, títulos o derechos extranjeros enajenados, rebajado por el costo de adquisición que en ellos tenga el enajenante, la proporción que represente el valor corriente en plaza o los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, de los activos subyacentes a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero, del artículo 10 y en la proporción correspondiente en que ellos son indirectamente adquiridos con ocasión de la enajenación ocurrida en el exterior, sobre el precio o valor de enajenación de las referidas acciones, cuotas, títulos o derechos extranjeros; (b) la proporción del precio o valor de enajenación de las acciones, cuotas, títulos o derechos extranjeros, que represente el valor corriente en plaza o los que normalmente se cobren o cobrarían en convenciones de similar naturaleza, considerando las circunstancias en que se realiza la operación, de los activos subyacentes a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero, del artículo 10 y en la proporción correspondiente en que ellos son indirectamente adquiridos con ocasión de la enajenación ocurrida en el exterior, por el precio o valor de enajenación de las referidas acciones, cuotas, títulos o derechos extranjeros, rebajado el costo tributario de los activos subyacentes situados en Chile del o los dueños extranjeros directos de los mismos y que se adquieren indirectamente con ocasión de la enajenación correspondiente.
+
+El costo tributario de los activos subyacentes situados en Chile, será aquel que habría correspondido aplicar conforme a la legislación chilena, si ellos se hubieran enajenado directamente. Tratándose de una agencia u otro tipo de establecimiento permanente referido en el literal (ii) de la letra a), del inciso tercero, del artículo 10, el costo tributario corresponderá al capital propio determinado según balance al 31 de diciembre del año anterior a la enajenación, descontadas las utilidades o cantidades pendientes de retiro o distribución desde la agencia.
+
+Cuando no se acredite fehacientemente el valor de adquisición de las referidas acciones, cuotas, títulos o derechos, que tenga el enajenante extranjero, el Servicio determinará la renta gravada con impuestos en Chile conforme a la letra (b) precedente con la información que obre en su poder, perdiéndose la posibilidad de elección establecida anteriormente. Cuando los valores anteriormente indicados estén expresados en moneda extranjera se convertirán a moneda nacional según su equivalente a la fecha de enajenación, considerando para tales efectos lo dispuesto en el número 1, de la letra D, del artículo 41 A.
+
+Este impuesto deberá ser declarado y pagado por el enajenante no domiciliado ni residente en el país, sobre base devengada, conforme a lo dispuesto en los artículos 65, número 1, y 69, de esta ley. Las rentas a que se refiere el artículo 10 podrán, a juicio del contribuyente, considerarse como esporádicas para efectos de lo dispuesto en el artículo 69 N° 3. No se aplicará lo establecido en este inciso, cuando el impuesto haya sido retenido en su totalidad por el comprador conforme a lo dispuesto por el número 4, del artículo 74.
+
+En caso que el impuesto no sea declarado y pagado conforme a lo dispuesto precedentemente, el Servicio, con los antecedentes que obren en su poder y previa citación, podrá liquidar y girar el tributo adeudado al adquirente de las acciones, cuotas, títulos o derechos emitidos por la sociedad o entidad extranjera.
+
+El Servicio podrá exigir al enajenante, a su representante en Chile o a la sociedad, entidad constituida en el país o al adquirente, una declaración en la forma y plazo que establezca mediante resolución, en la cual se informe el precio o valor de enajenación de los títulos, derechos, cuotas o acciones, y el valor corriente en plaza de los activos subyacentes situados en Chile a que se refiere el inciso tercero del artículo 10, así como cualquier otro antecedente que requiera para los efectos de la determinación del impuesto de este número.
+
+Con todo, el enajenante o el adquirente, en su caso, podrá, en sustitución del impuesto establecido en este número, optar por acoger la renta gravada determinada conforme a las reglas anteriores, al régimen de tributación que habría correspondido aplicar de haberse enajenado directamente los activos subyacentes situados en Chile a que se refieren los literales (i), (ii) y (iii) de la letra a), del inciso tercero del artículo 10, que hayan originado la renta gravada, por aplicación del inciso tercero del mismo artículo. Esta alternativa se aplicará considerando las normas y los requisitos y condiciones que hubieran sido aplicables a la enajenación por el titular directo de dichos bienes, incluyendo la aplicación del impuesto en carácter de único, o bien, la existencia de un ingreso no renta que pudiere contemplar la legislación tributaria chilena vigente al momento de la enajenación extranjera.
 
 > **Nota.** El artículo 3º del DL 3454, Hacienda, publicado el 25.07.1980, dispone que la presente modificación se aplicará a los dividendos que se distribuyan a partir del 1 de enero de 1980.
 
@@ -2156,7 +2254,7 @@ Con todo, el contribuyente o el agente retenedor en su nombre, podrán, en susti
 
 > **Nota.** NOTA: 4 Las modificaciones introducidas por el artículo 1° la LEY 18985, publicada el 28.06.1990, rigen, según lo dispone el inciso primero de su artículo 2°, para los años tributarios 1991 y siguientes.
 
-> **Nota.** NOTA: 5 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la modificación introducida al presente artículo regirá a contar del día 1º del mes siguiente a su publicación.
+> **Nota.** NOTA 5 El Art. 1º transitorio de la LEY 19840, publicada el 23.11.2002, dispuso que la modificación introducida al presente artículo regirá a contar del día 1º del mes siguiente a su publicación.
 
 #### Artículo 59º
 
@@ -2348,63 +2446,97 @@ Impuesto específico a la actividad minera
 
 Establécese un impuesto específico a la renta operacional de la actividad minera obtenida por un explotador minero.
 
-Para los efectos de lo dispuesto en el presente artículo se entenderá por:
+Para los efectos de lo dispuesto en el presente título se entenderá por:
 
-1) Explotador minero, toda persona natural o jurídica que extraiga sustancias minerales de carácter concesible y las venda en cualquier estado productivo en que se encuentren.
+1. Explotador minero, toda persona natural o jurídica que extraiga sustancias minerales de carácter concesible y las venda en cualquier estado productivo en que se encuentren.
 
-2) Producto minero, la sustancia mineral de carácter concesible ya extraída, haya o no sido objeto de beneficio, en cualquier estado productivo en que se encuentre.
+2. Producto minero, la sustancia mineral de carácter concesible ya extraída, haya o no sido objeto de beneficio, en cualquier estado productivo en que se encuentre.
 
-3) Venta, todo acto jurídico celebrado por el explotador minero que tenga por finalidad o pueda producir el efecto de transferir la propiedad de un producto minero.
+3. Venta, todo acto jurídico celebrado por el explotador minero que tenga por finalidad o pueda producir el efecto de transferir la propiedad de un producto minero.
 
-El impuesto a que se refiere este artículo se aplicará a la renta imponible operacional del explotador minero de acuerdo a lo siguiente:
+4. Ingresos operacionales mineros, todos los ingresos determinados de conformidad a lo establecido en el artículo 29 de la presente ley, deducidos todos aquellos ingresos que no provengan directamente de la venta de productos mineros, con excepción de los conceptos señalados en la letra e) del número 3) del artículo 64 ter, de esta misma ley.
 
-i) A aquellos explotadores mineros cuyas ventas anuales excedan al valor equivalente a 50.000 toneladas métricas de cobre fino se les aplicará una tasa única de impuesto de 5%;
+5. Renta imponible operacional minera, corresponde a la renta líquida imponible del contribuyente con los ajustes contemplados en el artículo 64 ter de la presente ley.
 
-ii) A aquellos explotadores mineros cuyas ventas anuales sean iguales o inferiores al valor equivalente a 50.000 toneladas métricas de cobre fino y superiores al valor equivalente a 12.000 toneladas métricas de cobre fino, se les aplicará una tasa equivalente al promedio por tonelada de lo que resulte de aplicar lo siguiente: Sobre la parte que exceda al valor equivalente a 12.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 15.000 toneladas métricas de cobre fino, 0,5%;
+6. Margen operacional minero, el cociente, multiplicado por cien, que resulte de dividir la renta imponible operacional minera por los ingresos operacionales mineros del contribuyente.
 
-Sobre la parte que exceda al valor equivalente a 15.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 20.000 toneladas métricas de cobre fino, 1%;
+El impuesto a que se refiere este artículo se aplicará a la renta imponible operacional minera del explotador minero de acuerdo a lo siguiente:
 
-Sobre la parte que exceda al valor equivalente a 20.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 25.000 toneladas métricas de cobre fino, 1,5%;
+a) Aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo a la letra d) de este artículo, sean iguales o inferiores al valor equivalente a 12.000 toneladas métricas de cobre fino, no estarán afectos al impuesto.
 
-Sobre la parte que exceda al valor equivalente a 25.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 30.000 toneladas métricas de cobre fino, 2%;
+b) A aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo con la letra d), sean iguales o inferiores al valor equivalente a 50.000 toneladas métricas de cobre fino y superiores al valor equivalente a 12.000 toneladas métricas de cobre fino, se les aplicará una tasa equivalente al promedio por tonelada de lo que resulte de aplicar lo siguiente:
 
-Sobre la parte que exceda al valor equivalente a 30.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 35.000 toneladas métricas de cobre fino, 2,5%;
+i) Sobre la parte que exceda al valor equivalente a 12.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 15.000 toneladas métricas de cobre fino, 0,5%;
 
-Sobre la parte que exceda al valor equivalente a 35.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 40.000 toneladas métricas de cobre fino, 3%;
+ii) Sobre la parte que exceda al valor equivalente a 15.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 20.000 toneladas métricas de cobre fino, 1%;
 
-Sobre la parte que exceda al valor equivalente a 40.000 toneladas métricas de cobre fino, 4,5%;
+iii) Sobre la parte que exceda al valor equivalente a 20.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 25.000 toneladas métricas de cobre fino, 1,5%;
 
-iii) No estarán afectos al impuesto los explotadores mineros cuyas ventas, durante el ejercicio respectivo, hayan sido iguales o inferiores al equivalente a 12.000 toneladas métricas de cobre fino.
+iv) Sobre la parte que exceda al valor equivalente a 25.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 30.000 toneladas métricas de cobre fino, 2%;
 
-El valor de una tonelada métrica de cobre fino se determinará de acuerdo al valor promedio que el cobre Grado A contado haya presentado durante el ejercicio respectivo en la Bolsa de Metales de Londres, el cual será publicado, en moneda nacional, por la Comisión Chilena del Cobre dentro de los primeros 30 días de cada año.
+v) Sobre la parte que exceda al valor equivalente a 30.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 35.000 toneladas métricas de cobre fino, 2,5%;
 
-Para los efectos de determinar la tasa de impuesto a aplicar, se deberá considerar el valor total de venta de productos mineros del conjunto de personas relacionadas con el explotador minero, que puedan ser considerados explotadores mineros de acuerdo al numeral 1), del inciso segundo del presente artículo y que realicen dichas ventas.
+vi) Sobre la parte que exceda al valor equivalente a 35.000 toneladas métricas de cobre fino y no sobrepase el equivalente a 40.000 toneladas métricas de cobre fino, 3%, y
 
-Se entenderá por personas relacionadas aquéllas a que se refiere el numeral 2°, del artículo 34 de esta ley.
+vii) Sobre la parte que exceda al valor equivalente a 40.000 toneladas métricas de cobre fino, 4,5%.
 
-Se entenderá por renta imponible operacional para los efectos de este artículo, la que resulte de efectuar los siguientes ajustes a la renta líquida imponible determinada en los artículos 29 a 33 de la presente ley:
+c) A aquellos explotadores mineros cuyas ventas anuales determinadas de acuerdo con la letra d) de este artículo, excedan al valor equivalente a 50.000 toneladas métricas de cobre fino, se les aplicará la tasa correspondiente al margen operacional minero del respectivo ejercicio, de acuerdo a la siguiente tabla:
 
-1) Deducir todos aquellos ingresos que no provengan directamente de la venta de productos mineros;
+i) Si el margen operacional minero es igual o inferior a 35, la tasa aplicable ascenderá a 5%;
 
-2) Agregar los gastos y costos necesarios para producir los ingresos a que se refiere el número 1) precedente. Deberán, asimismo, agregarse los gastos de imputación común del explotador minero que no sean asignables exclusivamente a un determinado tipo de ingresos, en la misma proporción que representen los ingresos a que se refiere el numeral precedente respecto del total de los ingresos brutos del explotador minero;
+ii) Sobre la parte del margen operacional minero que exceda de 35 y no sobrepase de 40 la tasa aplicable ascenderá a 8%;
 
-3) Agregar, en caso que se hayan deducido, las siguientes partidas contenidas en el artículo 31 de la presente ley:
+iii) Sobre la parte del margen operacional minero que exceda de 40 y no sobrepase de 45 la tasa aplicable ascenderá a 10,5%;
 
-a) Los intereses referidos en el número 1°;
+iv) Sobre la parte del margen operacional minero que exceda de 45 y no sobrepase de 50 la tasa aplicable ascenderá a 13%;
 
-b) Las pérdidas de ejercicios anteriores a que hace referencia el número 3°;
+v) Sobre la parte del margen operacional minero que exceda de 50 y no sobrepase de 55 la tasa aplicable ascenderá a 15,5%;
+
+vi) Sobre la parte del margen operacional minero que exceda de 55 y no sobrepase de 60 la tasa aplicable ascenderá a 18%;
+
+vii) Sobre la parte del margen operacional minero que exceda de 60 y no sobrepase de 65 la tasa aplicable ascenderá a 21%;
+
+viii) Sobre la parte del margen operacional minero que exceda de 65 y no sobrepase de 70 la tasa aplicable ascenderá a 24%;
+
+ix) Sobre la parte del margen operacional minero que exceda de 70 y no sobrepase de 75 la tasa aplicable ascenderá a 27,5%;
+
+x) Sobre la parte del margen operacional minero que exceda de 75 y no sobrepase de 80 la tasa aplicable ascenderá a 31%;
+
+xi) Sobre la parte del margen operacional minero que exceda de 80 y no sobrepase de 85 la tasa aplicable ascenderá a 34,5%, y
+
+xii) Si el margen operacional minero excede de 85 la tasa aplicable será de 14%.
+
+d) Para los efectos de determinar el régimen tributario aplicable, se deberá considerar el valor total de venta de los productos mineros del conjunto de personas relacionadas con el explotador minero, que puedan ser considerados explotadores mineros de acuerdo al numeral 1), del inciso segundo, del presente artículo y que realicen dichas ventas.
+
+Se entenderá por personas relacionadas aquéllas a que se refiere el numeral 2), del artículo 34 de esta ley. Para estos efectos, lo dispuesto en el inciso cuarto de dicha norma se aplicará incluso en el caso que la persona relacionada sea un establecimiento permanente, un fondo y, en general, cualquier contribuyente.
+
+El valor de una tonelada métrica de cobre fino se determinará de acuerdo al valor promedio del precio contado que el cobre Grado A, haya presentado durante el ejercicio respectivo en la Bolsa de Metales de Londres, el cual será publicado, en moneda nacional, por la Comisión Chilena del Cobre dentro de los primeros 30 días de cada año.
+
+#### Artículo 64 ter
+
+De la renta imponible operacional minera.
+
+Se entenderá por renta imponible operacional minera, para los efectos de este artículo, la que resulte de efectuar los siguientes ajustes a la renta líquida imponible determinada en los artículos 29 a 33 de la presente ley:
+
+1. Deducir todos aquellos ingresos que no provengan directamente de la venta de productos mineros.
+
+2. Agregar los gastos y costos necesarios para producir los ingresos a que se refiere el número 1 precedente. Deberán, asimismo, agregarse los gastos de imputación común del explotador minero que no sean asignables exclusivamente a un determinado tipo de ingresos, en la misma proporción que representen los ingresos a que se refiere el numeral precedente respecto del total de los ingresos brutos del explotador minero.
+
+3. Agregar, en caso que se hayan deducido, las siguientes partidas contenidas en el artículo 31 de la presente ley:
+
+a) Los intereses referidos en el número 1°, de dicho artículo;
+
+b) Las pérdidas de ejercicios anteriores a que hace referencia el número 3° del referido artículo;
 
 c) El cargo por depreciación acelerada;
 
-d) La diferencia, de existir, que se produzca entre la deducción de gastos de organización y puesta en marcha, a que se refiere el número 9°, amortizados en un plazo inferior a seis años y la proporción que hubiese correspondido deducir por la amortización de dichos gastos en partes iguales, en el plazo de seis años. La diferencia que resulte de aplicar lo dispuesto en esta letra, se amortizará en el tiempo que reste para completar, en cada caso, los seis ejercicios, y
+d) La diferencia, de existir, que se produzca entre la deducción de gastos de organización y puesta en marcha, a que se refiere el número 9° del artículo 31, amortizados en un plazo inferior a seis años y la proporción que hubiese correspondido deducir por la amortización de dichos gastos en partes iguales, en el plazo de seis años. La diferencia que resulte de aplicar lo dispuesto en esta letra, se amortizará en el tiempo que reste para completar, en cada caso, los seis ejercicios, y
 
 e) La contraprestación que se pague en virtud de un contrato de avío, compraventa de minerales, arrendamiento o usufructo de una pertenencia minera, o cualquier otro que tenga su origen en la entrega de la explotación de un yacimiento minero a un tercero. También deberá agregarse aquella parte del precio de la compraventa de una pertenencia minera que haya sido pactado como un porcentaje de las ventas de productos mineros o de las utilidades del comprador.
 
-4) Deducir la cuota anual de depreciación por los bienes físicos del activo inmovilizado que hubiere correspondido de no aplicarse el régimen de depreciación acelerada.
+4. Deducir la cuota anual de depreciación por los bienes físicos del activo inmovilizado que hubiere correspondido de no aplicarse el régimen de depreciación acelerada.
 
-Tal como lo establecen los artículos 64 del Código Tributario y 38 de la presente ley, en caso de existir ventas de productos mineros del explotador minero a personas relacionadas residentes o domiciliadas en Chile, para los efectos de determinar la tasa, exención y la base del impuesto a que se refiere este artículo, el Servicio de Impuestos Internos, en uso de sus facultades, podrá impugnar los precios utilizados en dichas ventas. En este caso, el Servicio de Impuestos Internos deberá fundamentar su decisión considerando los precios de referencia de productos mineros que determine la Comisión Chilena del Cobre de acuerdo a sus facultades legales.
-
-> **Nota.** El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
+5. En conformidad a lo establecido en los artículos 64 del Código Tributario y 38 de la presente ley, en caso de existir ventas de productos mineros del explotador minero a personas relacionadas residentes o domiciliadas en Chile, para los efectos de determinar el régimen tributario, la tasa, exención y la base del impuesto a que se refiere este artículo, el Servicio de Impuestos Internos, en uso de sus facultades, podrá impugnar los precios utilizados en dichas ventas. En este caso, el Servicio de Impuestos Internos deberá fundamentar su decisión considerando los precios de referencia de productos mineros que determine la Comisión Chilena del Cobre de acuerdo a sus facultades legales.
 
 ## Título V
 
@@ -2666,7 +2798,7 @@ h) Los contribuyentes obligados al pago del impuesto establecido en el artículo
 
 En los casos en que el porcentaje aludido en el párrafo anterior de esta letra no pueda ser determinable, por no haberse producido renta imponible operacional en el ejercicio anterior o por tratarse del primer ejercicio comercial que se afecte al impuesto del artículo 64 bis, o por otra circunstancia, la tasa de este pago provisional será de 0,3%.
 
-i) Los contribuyentes acogidos al régimen del artículo 14º ter de esta ley, efectuarán un pago provisional con la tasa de 0,25% sobre los ingresos mensuales de su actividad.
+i) Los contribuyentes acogidos a los artículos 14 ter y 14 quáter de esta ley, efectuarán un pago provisional con la tasa de 0,25% sobre los ingresos mensuales de su actividad.
 
 Para los fines indicados en este artículo, no formarán parte de los ingresos brutos el reajuste de los pagos provisionales contemplados en el Párrafo 3° de este Título, las rentas de fuente extranjera a que se refieren las letras A.-, B.- y C.- del artículo 41 A y el ingreso bruto a que se refiere el inciso sexto del artículo 15.
 
@@ -2678,9 +2810,7 @@ Para los fines indicados en este artículo, no formarán parte de los ingresos b
 
 > **Nota.** NOTA 3: El artículo 1º transitorio de la LEY 20026, publicada el 16.06.2005, dispone que la modificación del presente artículo, rige a contar del 01.01.2006.
 
-> **Nota.** NOTA 4: El artículo 1º transitorio de la LEY 20170, publicada el 21.02.2007, dispone que las modificaciones introducidas por la presente norma, rigen a contar del 1º de enero del año 2007.
-
-> **Nota.** NOTA 5: El artículo 5º de la LEY 20326, publicado el 29.01.2009, rebaja transitoriamente los pagos provisionales mensuales del Impuesto de Primera Categoría cuyas tasas se ajusten anualmente, de conformidad a lo dispuesto en el presente artículo, que deban declararse y pagarse por los ingresos brutos percibidos o devengados a partir del mes de enero de 2009 y hasta el mes de diciembre de 2009, ambos incluidos, en la forma que la citada norma indica.
+> **Nota.** NOTA. 4 El artículo 5º de la LEY 20326, publicado el 29.01.2009, rebaja transitoriamente los pagos provisionales mensuales del Impuesto de Primera Categoría cuyas tasas se ajusten anualmente, de conformidad a lo dispuesto en el presente artículo, que deban declararse y pagarse por los ingresos brutos percibidos o devengados a partir del mes de enero de 2009 y hasta el mes de diciembre de 2009, ambos incluidos, en la forma que la citada norma indica.
 
 #### Artículo 85°
 
@@ -2937,6 +3067,154 @@ b) Para todos los efectos de esta ley, el cedente deberá considerar como un pas
 c) El resultado proveniente del contrato de que trata este artículo será determinado por el cedente en cada ejercicio comprendido en el mismo, y será equivalente a la diferencia entre el pasivo que corresponda proporcionalmente a cada ejercicio y los pagos a que se refiere la letra b). En esa misma oportunidad, y de acuerdo a las mismas reglas, la sociedad securitizadora deberá registrar en la contabilidad del patrimonio separado respectivo, los resultados provenientes del contrato a que se refiere este artículo, sin perjuicio que los excedentes obtenidos en la gestión del patrimonio separado no estarán afectos al Impuesto a la Renta en tanto dichos excedentes no sean traspasados al patrimonio común de la sociedad securitizadora.
 
 El Servicio, previa citación, podrá tasar el precio o valor de la cesión a que se refiere este artículo en los casos en que éste sea notoriamente inferior o superior a los corrientes en plaza o de los que normalmente se cobren en convenciones de similar naturaleza considerando las circunstancias en que se realiza la operación.
+
+#### Artículo 106
+
+El mayor valor a que se refiere el inciso primero del artículo 18 y los incisos tercero, cuarto y quinto del número 8 del artículo 17, obtenido por los inversionistas institucionales extranjeros, tales como fondos mutuos y fondos de pensiones u otros, en la enajenación de los valores a que se refieren los artículos 104 y 107, las cuotas de fondos mutuos a que se refiere el inciso final, u otros títulos de oferta pública representativos de deudas emitidos por el Banco Central de Chile, el Estado o por empresas constituidas en el país, realizada en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros o en conformidad al Título XXV de la ley Nº 18.045 o mediante el rescate de cuotas, según corresponda, estará exento de los impuestos de esta ley. Los mencionados inversionistas institucionales extranjeros deberán cumplir con los siguientes requisitos durante el tiempo que operen en el país:
+
+1) Estar constituido en el extranjero y no estar domiciliado en Chile.
+
+2) Acreditar su calidad de inversionista institucional extranjero cumpliendo con, a lo menos, alguna de las siguientes características:
+
+a) Que sea un fondo que haga oferta pública de sus cuotas de participación en algún país que tenga un grado de inversión para su deuda pública, según clasificación efectuada por una agencia internacional clasificadora de riesgo calificada como tal por la Superintendencia de Valores y Seguros.
+
+b) Que sea un fondo que se encuentre registrado ante una autoridad reguladora de un país que tenga un grado de inversión para su deuda pública, según clasificación efectuada por una agencia internacional clasificadora de riesgo calificada como tal por la Superintendencia de Valores y Seguros, siempre y cuando el fondo tenga inversiones en Chile, incluyendo títulos emitidos en el extranjero que sean representativos de valores nacionales, que representen menos del 30% del valor de su activo total.
+
+c) Que sea un fondo que tenga inversiones en Chile, incluyendo títulos emitidos en el extranjero que sean representativos de valores nacionales, que representen menos del 30% del valor de su activo total. Adicionalmente, no más del 10% del patrimonio o del derecho a las utilidades del fondo en su conjunto, podrá ser directa o indirectamente propiedad de residentes en Chile.
+
+d) Que sea un fondo de pensiones, entendiéndose por tal aquel que está formado exclusivamente por personas naturales que perciben sus pensiones con cargo al capital acumulado en el fondo o cuyo objeto principal sea financiar la constitución o el aumento de pensiones de personas naturales, y que se encuentren sometidos en su país de origen a regulación o supervisión por las autoridades reguladoras competentes.
+
+e) Que sea un fondo de aquellos regulados por la ley Nº 18.657, en cuyo caso todos los tenedores de cuotas deberán ser residentes en el extranjero o inversionistas institucionales locales.
+
+f) Que sea otro tipo de inversionista institucional extranjero que cumpla las características que defina el reglamento para cada categoría de inversionista, previo informe de la Superintendencia de Valores y Seguros y del Servicio de Impuestos Internos.
+
+3) No participar directa ni indirectamente del control de las entidades emisoras de los valores en los que se invierte ni poseer o participar directa o indirectamente en el 10% o más del capital o de las utilidades de dichos emisores.
+
+Lo dispuesto en este número no se aplicará para la inversión en cuotas emitidas por fondos mutuos regidos por el decreto ley N° 1.328, de 1976.
+
+4) Celebrar un contrato, que conste por escrito, con un banco o una corredora de bolsa, constituidos en Chile, en el cual el agente intermediario se haga responsable, tanto de la ejecución de las órdenes de compra y venta de los valores, como de verificar, al momento de la remesa respectiva, que se trata de las rentas que en este artículo se eximen de impuesto o bien, si se trata de rentas afectas a los impuestos de esta ley, que se han efectuado las retenciones respectivas por los contribuyentes que pagaron o distribuyeron las rentas. Igualmente el agente deberá formular la declaración jurada a que se refiere el número siguiente y proporcionará la información de las operaciones y remesas que realice al Servicio de Impuestos Internos en la forma y plazos que éste fije.
+
+5) Inscribirse en un registro que al efecto llevará el Servicio de Impuestos Internos. Dicha inscripción se hará sobre la base de una declaración jurada, formulada por el agente intermediario a que se refiere el número anterior, en la cual se deberá señalar: que el inversionista institucional cumple los requisitos establecidos en este artículo o que defina el reglamento en virtud de la letra f) del número 2 anterior; que no tiene un establecimiento permanente en Chile, y que no participará del control de los emisores de los valores en los que está invirtiendo. Además dicha declaración deberá contener la individualización, con nombre, nacionalidad, cuando corresponda, y domicilio, del representante legal y del administrador del fondo o de la institución que realiza la inversión; e indicar el nombre del banco en el cual se liquidaron las divisas, el origen de éstas y el monto a que ascendió dicha liquidación.
+
+En el caso que el banco en el cual se liquidaron las divisas destinadas a la inversión, no fuere designado como agente intermediario, pesará sobre él la obligación de informar al Servicio de Impuestos Internos, cuando éste lo requiera, el origen y monto de las divisas liquidadas.
+
+En caso que la información que se suministre conforme al presente número resultare ser falsa, el administrador del inversionista quedará afecto a una multa de hasta el 20% del monto de las inversiones realizadas en el país, no pudiendo, en todo caso, dicha multa ser inferior al equivalente a 20 unidades tributarias anuales, la que podrá hacerse efectiva sobre el patrimonio del inversionista, sin perjuicio del derecho de éste contra el administrador. El agente intermediario será solidariamente responsable de la multa, salvo que éste acredite que las declaraciones falsas se fundaron en documentos proporcionados por el inversionista correspondiente y que el agente intermediario no estuvo en condiciones de verificar en el giro ordinario de sus negocios.
+
+6) En el caso de los inversionistas institucionales a que se refieren las letras a) a e) del numeral 2., el tratamiento tributario previsto en este artículo se aplicará solamente respecto de las inversiones que efectúen actuando por cuenta propia y como beneficiarios efectivos de las inversiones realizadas, excluyéndose por tanto las inversiones efectuadas por cuenta de terceros o en que el beneficiario efectivo sea un tercero. Este requisito deberá acreditarse mediante declaración jurada efectuada por el representante legal del inversionista, en idioma español o inglés, y remitida al Servicio de Impuestos Internos junto con los antecedentes referidos en el número 5 anterior. A opción del inversionista, dicha declaración podrá señalar que éste actuará por cuenta propia y como beneficiario efectivo de las inversiones realizadas durante todo el tiempo que invierta en Chile, o bien que podrá invertir en Chile tanto en beneficio y cuenta propia como en beneficio o por cuenta de terceros. En caso de optar por la segunda alternativa, el representante legal deberá también declarar que el inversionista se compromete a identificar previamente y por escrito, al agente intermediario, cada operación en que actúe en beneficio y por cuenta propia, además de comprometerse a establecer a través de medios fehacientes la información necesaria para garantizar la veracidad de dicha identificación. El agente intermediario estará obligado a custodiar dichas comunicaciones escritas durante un plazo de 5 años.
+
+7) Si por cualquier motivo un inversionista institucional acogido a lo dispuesto en este artículo dejase de cumplir con alguno de los requisitos que para ello le son exigidos, el agente intermediario deberá informar dicha circunstancia al Servicio de Impuestos Internos en la forma y plazo que dicho Servicio establezca. El atraso en la entrega de esta información se sancionará con multa del equivalente a 1 a 50 unidades tributarias anuales. El inversionista respectivo cesará de gozar del beneficio tributario dispuesto en este artículo desde la fecha en que se ha configurado el incumplimiento, quedando por tanto afecto al régimen tributario común por las rentas que se devenguen o perciban a contar de ese momento, cualquiera haya sido la fecha de adquisición de los valores respectivos.
+
+La aplicación de las multas establecidas en los números 5 y 7 de este artículo se sujetará al procedimiento establecido en el artículo 165 del Código Tributario.
+
+Lo dispuesto en este artículo se aplicará sólo respecto de las cuotas emitidas por fondos mutuos regidos por el decreto ley N° 1.328, de 1976, que hayan establecido en sus reglamentos internos la obligación a que se refieren las letras d), e) y f) del número 3.2) del artículo 107.
+
+#### Artículo 107
+
+El mayor valor obtenido en la enajenación o rescate, según corresponda, de los valores a que se refiere este artículo, se regirá para los efectos de esta ley por las siguientes reglas:
+
+1) Acciones de sociedades anónimas abiertas constituidas en Chile con presencia bursátil.
+
+No obstante lo dispuesto en los artículos 17, Nº8, y 106, no constituirá renta el mayor valor obtenido en la enajenación de acciones emitidas por sociedades anónimas abiertas con presencia bursátil, que cumplan con los siguientes requisitos:
+
+a) La enajenación deberá ser efectuada en: i) una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045 o iii) en el aporte de valores acogido a lo dispuesto en el artículo 109;
+
+b) Las acciones deberán haber sido adquiridas en: i) una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) en un proceso de oferta pública de adquisición de acciones regida por el Título XXV de la ley Nº 18.045, o iii) en una colocación de acciones de primera emisión, con motivo de la constitución de la sociedad o de un aumento de capital posterior, o iv) con ocasión del canje de valores de oferta pública convertibles en acciones, o v) en un rescate de valores acogido a lo dispuesto en el artículo 109, y
+
+c) En el caso previsto en el literal iii), de la letra b), si las acciones se hubieren adquirido antes de su colocación en bolsa, el mayor valor no constitutivo de renta será el que se produzca por sobre el valor superior entre el de dicha colocación o el valor de libros que la acción tuviera el día antes de su colocación en bolsa, quedando en consecuencia afecto a los impuestos de esta ley, en la forma dispuesta en el artículo 17, el mayor valor que resulte de comparar el valor de adquisición inicial, debidamente reajustado en la forma dispuesta en dicho artículo, con el valor señalado precedentemente. Para determinar el valor de libros se aplicará lo dispuesto en el inciso tercero del artículo 41.
+
+En el caso previsto en el literal iv), de la letra b) anterior, se considerará como precio de adquisición de las acciones el precio asignado en el canje.
+
+2) Cuotas de fondos de inversión.
+
+Lo dispuesto en el numeral 1) será también aplicable a la enajenación, en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, de cuotas de fondos de inversión regidos por la ley Nº 18.815, que tengan presencia bursátil. Asimismo, se aplicará a la enajenación en dichas bolsas de las cuotas señaladas que no tengan presencia bursátil o al rescate de tales cuotas cuando el fondo se liquide o sus partícipes acuerden una disminución voluntaria de capital, siempre y cuando se establezca en la política de inversiones de los reglamentos internos, de ambos tipos de fondos, que a lo menos el 90% de la cartera de inversiones del fondo se destinará a la inversión en acciones con presencia bursátil.
+
+Lo dispuesto en el inciso anterior no resultará aplicable a las enajenaciones y rescates, según corresponda, de cuotas de fondos de inversión regulados por la ley Nº 18.815, que dejaren de dar cumplimiento al porcentaje de inversión contemplado en el reglamento interno respectivo por causas imputables a la administradora o, cuando no siendo imputable a la administradora, dicho incumplimiento no hubiere sido regularizado dentro de los seis meses siguientes de producido.
+
+Las administradoras de fondos deberán anualmente certificar, al Servicio de Impuestos Internos y a los partícipes que así lo soliciten, el cumplimiento de las condiciones señaladas.
+
+3) Cuotas de fondos mutuos.
+
+3.1) Cuotas de fondos mutuos cuyas inversiones consistan en valores con presencia bursátil.
+
+No constituirá renta el mayor valor obtenido en la enajenación de cuotas de fondos mutuos del decreto ley Nº 1.328, que cumplan con los siguientes requi-sitos:
+
+a) La enajenación deberá ser efectuada: i) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) mediante el aporte de valores conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo;
+
+b) Las cuotas deberán haber sido adquiridas: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros; o iii) en un rescate de valores efectuado de conformidad a lo dispuesto en el artículo 109;
+
+c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los valores que tengan presencia bursátil a que se refiere este artículo, y en los valores a que se refiere el artículo 104. Se tendrá por incumplido este requisito si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por causas imputables a la ejecución de la política de inversiones por parte de la sociedad administradora o, cuando ello ocurra por otras causas, si en este último caso dicho incumplimiento no es subsanado dentro de un período máximo de seis meses contado desde que éste se ha producido. Las administradoras de los fondos deberán certificar al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el inciso tercero, del Nº 4°, del artículo 97, del Código Tributario;
+
+d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior. De igual forma, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por los valores a que se refiere el artículo 104 en que haya invertido el fondo durante el ejercicio comercial respectivo, conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes, y
+
+e) La política de inversiones del fondo contenida en su reglamento interno deberá contemplar la prohibición de adquirir valores que en virtud de cualquier acto o contrato priven al fondo de percibir los dividendos, intereses, repartos u otras rentas provenientes de tales valores que se hubiese acordado o corresponda distribuir. La sociedad administradora que infrinja esta prohibición será sancionada con una multa de 1 unidad tributaria anual por cada uno de los valores adquiridos en contravención a dicha prohibición, sin perjuicio de las sanciones que correspondan conforme a lo dispuesto en el Título III del decreto ley N° 3.538, de 1980.
+
+3.2) Cuotas de fondos mutuos con presencia bursátil.
+
+No constituirá renta el mayor valor obtenido en la enajenación de cuotas de fondos mutuos del decreto ley Nº 1.328, de 1976, que tengan presencia bursátil y no puedan acogerse al número 3.1) anterior, siempre que se cumplan los siguientes requisitos:
+
+a) La enajenación de las cuotas deberá efectuarse: i) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o ii) mediante su aporte conforme a lo dispuesto en el artículo 109, o iii) mediante el rescate de las cuotas del fondo cuando se realice en forma de valores conforme a lo dispuesto en el artículo 109;
+
+b) La adquisición de las cuotas deberá efectuarse: i) en la emisión de cuotas del fondo respectivo, o ii) en una bolsa de valores del país autorizada por la Superintendencia de Valores y Seguros, o iii) en un rescate de valores efectuado conforme a lo dispuesto en el artículo 109;
+
+c) La política de inversiones del reglamento interno del fondo respectivo deberá establecer que a lo menos el 90% de su cartera se destinará a la inversión en los siguientes valores emitidos en el país o en el extranjero:
+
+c.1) Valores de oferta pública emitidos en el país: i) acciones de sociedades anónimas abiertas constituidas en Chile y admitidas a cotización en a lo menos una bolsa de valores del país; ii) instrumentos de deuda de oferta pública a que se refiere el artículo 104 y valores representativos de deuda cuyo plazo sea superior a tres años admitidos a cotización en a lo menos una bolsa de valores del país que paguen intereses con una periodicidad no superior a un año, y iii) otros valores de oferta pública que generen periódicamente rentas y que estén establecidos en el reglamento que dictará mediante decreto supremo el Ministerio de Hacienda.
+
+c.2) Valores de oferta pública emitidos en el extranjero: Debe tratarse de valores que generen periódicamente rentas tales como intereses, dividendos o repartos, en que los emisores deban distribuir dichas rentas con una periodicidad no superior a un año. Asimismo, tales valores deberán ser ofrecidos públicamente en mercados que cuenten con estándares al menos similares a los del mercado local, en relación a la revelación de información, transparencia de las operaciones y sistemas institucionales de regulación, supervisión, vigilancia y sanción sobre los emisores y sus títulos. El mismo reglamento fijará una nómina de aquellos mercados que cumplan con los requisitos que establece este inciso. Se entenderán incluidos en esta letra los valores a que se refiere el inciso final del artículo 11, siempre que cumplan con los requisitos señalados precedentemente.
+
+Se tendrá por incumplido el requisito establecido en esta letra si las inversiones del fondo respectivo en tales instrumentos resultasen inferiores a dicho porcentaje por un período continuo o discontinuo de 30 o más días en un año calendario. Las administradoras de los fondos deberán certificar anualmente al Servicio de Impuestos Internos, en la forma y plazo que éste lo requiera mediante resolución, el cumplimiento de los requisitos a que se refiere esta letra. La emisión de certificados maliciosamente falsos se sancionará conforme a lo dispuesto en el inciso tercero del número 4° del artículo 97 del Código Tributario;
+
+d) El reglamento interno del fondo respectivo deberá contemplar la obligación de la sociedad administradora de distribuir entre los partícipes la totalidad de los dividendos e intereses percibidos entre la fecha de adquisición de las cuotas y la enajenación o rescate de las mismas, provenientes de los emisores de los valores a que se refiere la letra c) anterior, salvo que se trate de intereses provenientes de los valores a que se refiere el artículo 104. En este último caso, el reglamento interno deberá contemplar la obligación de distribuir entre los partícipes un monto equivalente a la totalidad de los intereses devengados por dichos valores durante el ejercicio comercial respectivo conforme a lo dispuesto en el artículo 20. Esta última distribución deberá llevarse a cabo en el ejercicio siguiente al año comercial en que tales intereses se devengaron, independientemente de la percepción de tales intereses por el fondo o de la fecha en que se hayan enajenado los instrumentos de deuda correspondientes;
+
+e) Cuando se hayan enajenado acciones, cuotas u otros títulos de similar naturaleza con derecho a dividendos o cualquier clase de beneficios, sean éstos provisorios o definitivos, durante los cinco días previos a la determinación de sus beneficiarios, la sociedad administradora deberá distribuir entre los partícipes del fondo un monto equivalente a la totalidad de los dividendos o beneficios a que se refiere esta letra, el que se considerará percibido por el fondo.
+
+Cuando se hayan enajenado instrumentos de deuda dentro de los cinco días hábiles anteriores a la fecha de pago de los respectivos intereses, la sociedad administradora deberá distribuir entre los partícipes del mismo un monto equivalente a la totalidad de los referidos intereses, el que se considerará percibido por el fondo, salvo que provengan de los instrumentos a que se refiere el artículo 104.
+
+En caso de que la sociedad administradora no haya cumplido con la obligación de distribuir a los partícipes las rentas a que se refiere esta letra, dicha sociedad quedará afecta a una multa de hasta un cien por ciento de tales rentas, no pudiendo esta multa ser inferior al equivalente a 1 unidad tributaria anual. La aplicación de esta multa se sujetará al procedimiento establecido en el artículo 165 del Código Tributario. Además, la sociedad administradora deberá pagar por tales rentas un impuesto único y sustitutivo de cualquier otro tributo de esta ley con tasa de 35%. Este impuesto deberá ser declarado y pagado por la sociedad administradora en el mes de abril del año siguiente al año comercial en que debió efectuarse la distribución de tales rentas. Respecto del impuesto a que se refiere este inciso, no se aplicará lo dispuesto en el artículo 21, y se considerará como un impuesto sujeto a retención para los efectos de la aplicación de sanciones, y
+
+f) La política de inversiones del fondo contenida en su reglamento interno deberá contemplar la prohibición de adquirir valores que en virtud de cualquier acto o contrato priven al fondo de percibir los dividendos, intereses, repartos u otras rentas provenientes de tales valores que se hubiese acordado o corresponda distribuir. La sociedad administradora que infrinja esta prohibición será sancionada con una multa de 1 unidad tributaria anual por cada uno de los valores adquiridos en contravención a dicha prohibición, sin perjuicio de las sanciones que correspondan conforme a lo dispuesto en el Título III del decreto ley N° 3.538, de 1980.
+
+4) Presencia bursátil.
+
+Para los efectos de esta ley, se entenderá por títulos o valores con presencia bursátil, aquellos que la tengan conforme a lo dispuesto en el reglamento del decreto ley Nº 1.328, de 1976.
+
+También se aplicará lo dispuesto en este artículo, cuando la enajenación se efectúe dentro de los 90 días siguientes a aquél en que el título o valor hubiere perdido presencia bursátil. En este caso el mayor valor obtenido no constituirá renta sólo hasta el equivalente al precio promedio que el título o valor hubiere tenido en los últimos 90 días en que tuvo presencia bursátil. El exceso sobre dicho valor se gravará con los impuestos de primera categoría, global complementario o adicional, según corresponda. Para que proceda lo anterior, el contribuyente deberá acreditar, cuando el Servicio de Impuestos Internos así lo requiera, con un certificado de una bolsa de valores, tanto la fecha de la pérdida de presencia bursátil de la acción, como el valor promedio señalado.
+
+5) Las pérdidas obtenidas en la enajenación, en bolsa o fuera de ella, de los valores a que se refiere este artículo, solamente serán deducibles de los ingresos no constitutivos de renta del contribuyente.
+
+#### Artículo 108
+
+El mayor valor obtenido en el rescate o enajenación de cuotas de fondos mutuos que no se encuentren en las situaciones reguladas por los artículos 106 y 107, se considerará renta afecta a las normas de la primera categoría, global complementario o adicional de esta ley, según corresponda, a excepción del que obtengan los contribuyentes que no estén obligados a declarar sus rentas efectivas según contabilidad, el cual estará exento del impuesto de la referida categoría.
+
+El mayor valor se determinará como la diferencia entre el valor de adquisición y el de rescate o enajenación. Para los efectos de determinar esta diferencia, el valor de adquisición de las cuotas se expresará en su equivalente en unidades de fomento según el valor de dicha unidad a la fecha en que se efectuó el aporte y el valor de rescate se expresará en su equivalente en unidades de fomento según el valor de esta unidad a la fecha en que se efectúe el rescate.
+
+Las sociedades administradoras remitirán al Servicio de Impuestos Internos, antes del 31 de marzo de cada año, la nómina de inversiones y rescates realizados por los partícipes de los fondos durante el año calendario anterior.
+
+Las personas que sean partícipes de fondos mutuos que tengan inversión en acciones y que no se encuentren en la situación contemplada en los numerales 3.1 y 3.2 del artículo anterior, tendrán derecho a un crédito contra el impuesto de primera categoría, global complementario o adicional, según corresponda, que será del 5% del mayor valor declarado por el rescate de cuotas de aquellos fondos en los cuales la inversión promedio anual en acciones sea igual o superior al 50% del activo del fondo, y del 3% en aquellos fondos que dicha inversión sea entre 30% y menos del 50% del activo del fondo. Si resultare un excedente de dicho crédito éste se devolverá al contribuyente en la forma señalada en el artículo 97.
+
+Para los efectos de lo dispuesto en este artículo, no se considerará rescate la liquidación de las cuotas de un fondo mutuo que haga el partícipe para reinvertir su producto en otro fondo mutuo que no sea de los descritos en los numerales 3.1 y 3.2 del artículo anterior. Para ello, el partícipe deberá instruir a la sociedad administradora del fondo mutuo en que mantiene su inversión, mediante un poder que deberá cumplir las formalidades y contener las menciones mínimas que el Servicio de Impuestos Internos establecerá mediante resolución, para que liquide y transfiera, todo o parte del producto de su inversión, a otro fondo mutuo administrado por ella o a otra sociedad administradora, quien lo destinará a la adquisición de cuotas en uno o más de los fondos mutuos administrados por ella.
+
+Los impuestos a que se refiere el presente artículo se aplicarán, en el caso de existir reinversión de aportes en fondos mutuos, comparando el valor de las cuotas adquiridas inicialmente por el partícipe, expresadas en unidades de fomento según el valor de dicha unidad el día en que se efectuó el aporte, menos los rescates de capital no reinvertidos efectuados en el tiempo intermedio, expresados en unidades de fomento según su valor el día en que se efectuó el rescate respectivo, con el valor de las cuotas que se rescatan en forma definitiva, expresadas de acuerdo al valor de la unidad de fomento del día en que se efectúe dicho rescate. El crédito a que se refiere el inciso cuarto no procederá respecto del mayor valor obtenido en el rescate de cuotas de fondos mutuos, si la inversión respectiva no ha estado exclusivamente invertida en los fondos mutuos a que se refiere dicho inciso.
+
+Las sociedades administradoras de los fondos de los cuales se liquiden las cuotas y las administradoras de los fondos en que se reinviertan los recursos, deberán informar al Servicio de Impuestos Internos en la forma y plazos que éste determine, sobre las inversiones recibidas, las liquidaciones de cuotas no consideradas rescates y sobre los rescates efectuados. Además, las sociedades administradoras de los fondos de los cuales se realicen liquidaciones de cuotas no consideradas rescates, deberán emitir un certificado en el cual consten los antecedentes que exija el Servicio de Impuestos Internos en la forma y plazos que éste determine.
+
+La no emisión por parte de la sociedad administradora del certificado en la oportunidad y forma señalada en el inciso anterior, su emisión incompleta o errónea, la omisión o retardo de la entrega de la información exigida por el Servicio de Impuestos Internos, así como su entrega incompleta o errónea, se sancionará con una multa de una unidad tributaria mensual hasta una unidad tributaria anual por cada incumplimiento, la cual se aplicará de conformidad al procedimiento establecido en el Nº 1 del artículo 165 del Código Tributario.
+
+#### Artículo 109
+
+El mayor o menor valor en el aporte y rescate de valores en fondos mutuos reglado por los artículos 2°, 2° bis, 13 y siguientes del decreto ley Nº 1.328, de 1976, se determinará para los efectos de esta ley, conforme a las siguientes reglas:
+
+1) Adquisición de cuotas de fondos mutuos mediante el aporte de valores.
+
+a) El valor de adquisición de las cuotas del fondo para aquellos inversionistas que efectúen aportes en valores, se determinará conforme a lo dispuesto por el artículo 15 del decreto ley Nº 1.328, de 1976, y deberá ser informado públicamente por la sociedad administradora.
+
+b) El precio de enajenación de los valores que se aportan corresponderá al valor de los títulos o instrumentos que formen parte de la cartera de inversiones del fondo mutuo y que se haya utilizado para los efectos de determinar el valor de la cuota respectiva, ello conforme a lo dispuesto por el decreto ley Nº 1.328, de 1976. El valor de tales títulos o instrumentos deberá informarse públicamente por la sociedad administradora.
+
+2) Rescate de cuotas de fondos mutuos mediante la adquisición de valores.
+
+a) El valor de rescate de las cuotas del fondo para aquellos inversionistas que lo efectúen mediante la adquisición de valores que formen parte de la cartera del fondo, se determinará conforme a lo dispuesto en el artículo 15 del decreto ley Nº 1.328, de 1976, y será informado públicamente por la sociedad administradora.
+
+b) El valor de adquisición de los títulos o instrumentos mediante los cuales se efectúa el rescate a que se refiere el literal anterior, será el se haya utilizado para los efectos de determinar el valor de la cuota respectiva, ello conforme a lo dispuesto en el decreto ley Nº 1.328, de 1976. Del mismo modo, el valor de tales títulos o instrumentos deberá informarse públicamente por la sociedad administradora.
 
 #### Artículo 2°
 
