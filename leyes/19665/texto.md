@@ -2540,7 +2540,7 @@ Las Cortes de Apelaciones llamarán a concurso para proveer los cargos de jueces
 
 Juzgados de garantía correspondientes a las Cortes de Apelaciones de Valparaíso, Rancagua, Chillán, Concepción, Valdivia y Puerto Montt: diciembre de 2004.
 
-Juzgados de garantía correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008.
+Juzgados de garantía correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008, sin perjuicio de lo que se señala en el N° 4 ter).
 
 4) Una vez nombrados los jueces de garantía que asumirán en mayo del año correspondiente, las Cortes de Apelaciones efectuarán el llamado para el nombramiento de cuatro jueces de tribunal de juicio oral en lo penal, que constituirán una sala, con la finalidad de que asuman en los meses señalados en la tabla siguiente:
 
@@ -2576,7 +2576,7 @@ Las Cortes de Apelaciones llamarán a concurso para proveer los cargos de jueces
 
 Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Valparaíso, Rancagua, Chillán, Concepción, Valdivia y Puerto Montt: diciembre de 2005.
 
-Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008.
+Tribunales de juicio oral en lo penal correspondientes a las Cortes de Apelaciones de Santiago y de San Miguel: junio de 2008, sin perjuicio de lo que se señala en el N° 4 ter).
 
 4 bis) La sala, constituida de acuerdo al inciso primero del numeral anterior, actuará como itinerante dentro del territorio jurisdiccional correspondiente, ejerciendo, para todos los efectos legales, la competencia de los tribunales de juicio oral en lo penal de la Región o jurisdicción de la Corte respectiva, según sea el caso, que no estén instalados, hasta que todos se encuentren en funcionamiento por aplicación de dicho numeral.
 
@@ -2586,17 +2586,23 @@ Dicha sala funcionará, para todos los efectos administrativos, en el juzgado de
 
 4 bis B) Las Cortes podrán elaborar ternas simultáneas, de manera que el procedimiento respectivo concluya dentro de los plazos correspondientes.
 
+4 ter) Excepcionalmente, se diferirá el nombramiento de 131 cargos de jueces de garantía y de jueces de tribunal de juicio oral en lo penal en los territorios jurisdiccionales de las Cortes de Apelaciones de Santiago y de San Miguel. Sus nombramientos serán realizados de acuerdo a las necesidades derivadas de las cargas de trabajo de los tribunales de estas jurisdicciones, conforme a las siguientes reglas generales: hasta 24 cargos serán nombrados en el período comprendido entre el 1 de enero de 2012 y el 31 de diciembre del mismo año; hasta 30 cargos en el período comprendido entre el 1 de enero de 2013 y el 31 de diciembre del mismo año; y hasta 30 cargos en el período comprendido entre el 1 de enero de 2014 y el 31 de diciembre del mismo año. Los restantes cargos serán provistos en el período comprendido entre el 1 de enero de 2015 y el 31 de diciembre del mismo año.
+
+La Corte Suprema, previo informe técnico de la Corporación Administrativa del Poder Judicial, determinará, de entre los jueces señalados en este numeral, las cantidades que correspondan a jueces de garantía y a jueces de tribunal oral en lo penal en cada período.
+
 5) La Corte Suprema podrá disponer la ampliación de los plazos establecidos en los números precedentes cuando, atendido el número de cargos vacantes por proveer, ello resulte necesario para dar cumplimiento al plazo de instalación de los nuevos tribunales.
 
 6) El Presidente de la República procederá a la designación de los nuevos jueces dentro del plazo de veinte días desde que reciba las ternas respectivas.
 
 7) Para postular a los cargos de juez de juzgado de garantía y juez de tribunal de juicio oral en lo penal, con arreglo a lo previsto en los números 3) y 4) de este artículo, los postulantes, además de cumplir con los requisitos comunes, deberán haber aprobado el curso habilitante que la Academia Judicial impartirá al efecto. Con este objeto, la Academia Judicial deberá adoptar las medidas necesarias a fin de que se impartan suficientes cursos habilitantes en todas las regiones del país. Asimismo, podrá acreditar o convalidar como curso habilitante estudios equivalentes que hayan realizado los postulantes.
 
-8) SUPRIMIDO
+8) SUPRIMIDO.
 
 9) Los jueces a que se refieren los números anteriores no sufrirán disminución de remuneraciones, pérdida de la antigüedad que poseyeren en el Escalafón Primario del Poder Judicial, ni disminución de ninguno de sus derechos funcionarios.
 
-10) SUPRIMIDO 11) Los secretarios de los juzgados que son suprimidos por la presente ley, gozarán de un derecho preferente para ser incluidos en las ternas que se formen para proveer los cargos de jueces de los juzgados de garantía o de los tribunales de juicio oral en lo penal de su misma jurisdicción, en relación con los postulantes que provengan de igual o inferior categoría, siempre que hayan figurado en las dos primeras listas de mérito durante los dos últimos años.
+10) SUPRIMIDO.
+
+11) Los secretarios de los juzgados que son suprimidos por la presente ley, gozarán de un derecho preferente para ser incluidos en las ternas que se formen para proveer los cargos de jueces de los juzgados de garantía o de los tribunales de juicio oral en lo penal de su misma jurisdicción, en relación con los postulantes que provengan de igual o inferior categoría, siempre que hayan figurado en las dos primeras listas de mérito durante los dos últimos años.
 
 Asimismo, dichos secretarios que, por cualquier circunstancia, no fueren nombrados en los juzgados de garantía y en los tribunales de juicio oral en lo penal que se crean por la presente ley, serán destinados por la Corte de Apelaciones respectiva, con a lo menos 90 días de antelación a la supresión del tribunal, en un cargo de igual jerarquía al que a esa fecha poseyeren y de la misma jurisdicción, sin necesidad de nuevo nombramiento y sin que resulte afectado, bajo ningún respecto, ninguno de sus derechos funcionarios.
 
