@@ -28,7 +28,7 @@ b) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámase a postulación extraordinaria, a las regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, para el otorgamiento de subsidios de los Títulos I y II del Programa de Protección del Patrimonio Familiar, destinados a proyectos de equipamiento comunitario y mejoramiento del entorno, y a proyectos de mejoramiento de bienes comunes edificados y obras de innovación de eficiencia energética del Título II, a ser seleccionados cada dos meses si cuentan con Certificado de Calificación hasta el último día hábil del mes que precede a la selección, a partir del mes de julio y hasta el mes de diciembre de 2012. Se excluyen de este llamado los proyectos señalados en la letra b.1), b.2) y b.3), de la letra b) del artículo 5° del DS Nº 255 (V. y U.), de 2006.
+1. Llámase a postulación extraordinaria, a las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, para el otorgamiento de subsidios de los Títulos I y II del Programa de Protección del Patrimonio Familiar, destinados a proyectos de Equipamiento Comunitario y Mejoramiento del Entorno, de Mejoramiento de Bienes Comunes Edificados y Obras de Innovación de Eficiencia Energética del Título II, incluidas aquellas que previa autorización de la Seremi respectiva, consideren acondicionamiento térmico y cuenten con Certificado de Calificación hasta el último día hábil de los meses de septiembre, octubre y noviembre de 2012. Se excluyen de este llamado los proyectos señalados en la letra b.1), b.2) y b.3), de la letra b) del artículo 5º del DS Nº 255 (V. y U.), de 2006.
 
 2. Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos y condiciones del DS Nº 255 (V. y U.), de 2006.
 
@@ -78,8 +78,6 @@ g. Acta del Concejo Municipal respectivo que apruebe los aportes que se efectuar
 
 7. Los recursos disponibles para este llamado se distribuirán regionalmente según el siguiente detalle:
 
-.
-
 A solicitud de la Secretaría Ejecutiva de Desarrollo de Barrios, la Subsecretaría de Vivienda y Urbanismo podrá reasignar estos recursos entre las regiones en que exista una mayor demanda.
 
 8. Los proyectos seleccionados en cada región financiarán con los recursos destinados a este llamado, conforme a lo dispuesto en el resuelvo 7 precedente, incluidos los servicios de asistencia técnica.
@@ -96,7 +94,7 @@ ii. Residentes del condominio o postulantes que sean propietarios de más de una
 
 En el caso de tener dos o más propiedades en el mismo conjunto, solo podrá ser beneficiario de un subsidio.
 
-iii. Arrendatarios y asignatarios residentes de las copropiedades postulantes. El arrendatario deberá acreditar su condición presentando el contrato de arriendo, o en su defecto una declaración jurada simple suscrita por el propietario que compruebe dicha calidad. El asignatario deberá acreditar su condición mediante los instrumentos públicos que lo individualicen como legítimo usuario del inmueble, o declaración jurada simple firmada por el propietario o su representante legal, o certificado emitido para estos efectos por la institución correspondiente.
+iii. Arrendatarios y asignatarios residentes de las copropiedades postulantes. El arrendatario deberá acreditar su condición presentando el contrato de arriendo, o en su defecto una declaración jurada simple suscrita por el propietario que compruebe dicha calidad. El asignatario deberá acreditar su condición mediante los instrumentos públicos que lo individualicen como legítimo usuario del inmueble, o declaración jurada simple firmada por el propietario o su representante legal, o certificado emitido para estos efectos por la institución correspondiente. Sin perjuicio de lo anterior, los arrendatarios y asignatarios residentes, de no ser habido el propietario de la unidad del condominio beneficiado, y no existiendo documento escrito, podrán acreditar su condición, mediante una declaración jurada de dos testigos contestes, que den fe de su calidad de ocupante regular del inmueble.
 
 iv. Los residentes de inmuebles que integran las copropiedades seleccionadas aun cuando hayan sido beneficiados anteriormente por un subsidio del artículo 5°, Título I y del Título II, letras b.1), b.2) y b.3), del DS Nº 255 (V. y U.), de 2006.
 
@@ -136,7 +134,7 @@ El trabajo desarrollado por el equipo profesional de la Seremi, señalará expre
 
 El financiamiento para pagos del Prestador de Servicios de Asistencia Técnica provendrá del monto total de subsidios destinado para este llamado a nivel regional. Los montos serán aquellos estipulados en la resolución exenta Nº 533 (V. y U.), de 1997, para cada Título. En caso de postular proyectos de distintos Títulos o más de un proyecto del mismo Título, se pagará el monto más alto.
 
-Los antecedentes de postulación exigidos en el artículo 47 letras c) y d) de la DS Nº 255 (V. y U.), de 2006, serán requisito para el pago del cupón correspondiente a Gestión de Proyectos e Inspección Técnica de Obras respecto de obras tanto del Título I como del Título II.
+Los antecedentes de postulación exigidos en el artículo 47 letras c) y d) de la DS Nº 255 (V. y U.), de 2006, serán requisito para el pago del cupón correspondiente a Gestión de Proyectos e Inspección Técnica de Obras respecto de obras tanto del Título I como del Título II. Los honorarios correspondientes a Formalización del Condominio establecidos en la resolución Nº 533 (V. y U.), de 1997, serán pagados en dicho cupón, cuando corresponda
 
 Excepcionalmente, previa autorización escrita por parte del Serviu respectivo, se permitirá que los profesionales del área de la construcción de los Prestadores de Servicios de Asistencia Técnica participantes, puedan atender y/o supervisar simultáneamente a un número superior a 80 viviendas.
 
