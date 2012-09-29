@@ -12,7 +12,7 @@ La presente resolución será aplicable a los taxis básicos inscritos en el Reg
 
 #### Artículo 2º
 
-Los vehículos cuya antigüedad no sea superior a 5 años , al momento de presentar la solicitud de aprobación a que se refiere el artículo 3º, y que cuenten con sistemas de monitoreo satelital en línea, con segregación de los asientos delanteros y traseros mediante vidrio de seguridad y con un botón de pánico conectado al respectivo sistema de monitorización, no se encontrarán afectos a la obligación de llevar pintado en el techo el número de su patente única, en aquellas ciudades en que rija dicha obligación, y podrán exhibir avisos publicitarios ubicados sobre el techo cuyas dimensiones máximas deberán ser 30 cm. de ancho, 110 cm. de largo y 40 cm. de alto, estos últimos medidos desde la base del techo.
+Los vehículos cuya antigüedad no sea superior a 5 años , al momento de presentar la solicitud de aprobación a que se refiere el artículo 3º, y que cuenten con sistemas de monitoreo satelital en línea y con un botón de pánico conectado al respectivo sistema de monitorización, no se encontrarán afectos a la obligación de llevar pintado en el techo el número de su patente única, en aquellas ciudades en que rija dicha obligación, y podrán exhibir avisos publicitarios ubicados sobre el techo cuyas dimensiones máximas deberán ser 30 cm. de ancho, 110 cm. de largo y 40 cm. de alto, estos últimos medidos desde la base del techo.
 
 Asimismo, en estos vehículos se podrá instalar, sobre el techo, un aviso que contenga el nombre de la empresa y su logotipo o pictograma, cuyas dimensiones máximas deberán ser de 70 cm. de largo, 15 cm. de ancho y 15 cm. de alto, medidos en la misma forma señalada en el inciso precedente.
 
