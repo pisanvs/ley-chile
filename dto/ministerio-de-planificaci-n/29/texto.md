@@ -64,11 +64,19 @@ a) Que formen parte del Chile Solidario, y
 
 b) Que al 31 de diciembre de 2011 hayan sido beneficiarios de la Bonificación.
 
-También serán beneficiarios de la Bonificación quienes ingresen al Chile Solidario entre el 1º de enero y el 31 de diciembre de 2012, siempre que se encuentren en situación de extrema pobreza a la fecha de su ingreso al Chile Solidario.
+También serán beneficiarios de la Bonificación quienes ingresen al Chile Solidario entre el 1º de enero de 2012 y hasta antes de la fecha que señala el inciso primero del artículo segundo transitorio de la ley Nº 20.595, siempre que se encuentren en situación de extrema pobreza a la fecha de su ingreso al Chile Solidario.
 
 Los beneficiarios señalados en el inciso segundo ingresarán al Programa Bonificación al Ingreso Ético Familiar a contar del mismo mes en que ingresen al Chile Solidario, siempre que cumplan con los requisitos establecidos en dicho inciso.
 
 Respecto de los beneficiarios del Programa, las variaciones del puntaje en su ficha de protección social sólo serán consideradas cuando se verifiquen con motivo de la facultad de supervisión del artículo 16º.
+
+Con todo, el componente base de la bonificación y sus incrementos señalados en las letras
+
+- **a)** y
+
+- **b)** del artículo 8 se devengarán hasta que sus beneficiarios accedan a las transferencias monetarias establecidas en la ley Nº20.595. El incremento de la letra
+
+- **c)** del artículo 8º se devengará hasta 30 de junio de 2012.
 
 ## Título Tercero
 
