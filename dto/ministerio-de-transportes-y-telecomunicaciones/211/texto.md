@@ -328,9 +328,73 @@ Los niveles señalados en esta Tabla serán exigibles a contar de 1 de septiembr
 
 Las mediciones se efectuarán conforme lo señalado en la letra a), del artículo 5.
 
-Los niveles señalados en esta Tabla para Vehículos Livianos de Pasajeros y Vehículos Comerciales Livianos Clase 1, serán exigibles a contar del 1 de septiembre de 2011. Los niveles señalados en esta Tabla para Vehículos Comerciales Livianos Clase 2 y 3, serán exigibles a contar del 1 de septiembre de 2012.
+Los niveles señalados en esta Tabla para Vehículos Livianos de Pasajeros y Vehículos Comerciales Livianos Clase 1, serán exigibles a contar del 1 de septiembre de 2011. Los niveles señalados en esta Tabla para Vehículos Comerciales Livianos Clase 2 y 3, serán exigibles serán exigibles en el plazo señalado en el artículo 4º octies.
 
 Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
+#### Artículo 4º
+
+quinquies: Los vehículos motorizados livianos, dotados de motor de encendido por chispa y cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos seis meses contados desde la fecha de publicación del DS Nº 29 de 2012, del Ministerio del Medio Ambiente, en el Diario Oficial, sólo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan en las letras a) o b) del presente artículo, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación, de acuerdo a lo que se señala a continuación.
+
+a) Los límites señalados en la Tabla 1 siguiente, serán aplicables a vehículos cuyo motor utilice gasolina, bioetanol, gas natural o gas licuado de petróleo como combustible. Asimismo, aplicarán para aquellos denominados "flexible fuel" que define la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines y que utilicen combustible autorizado.
+
+La durabilidad, expresada en millas, para cada conjunto de emisiones de escape, señalado en la Tabla 1, deberá ser acreditada conforme a lo dispuesto en el número 3º del decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines, método FTP-75.
+
+b) Los límites señalados en la Tabla 2, son aplicables a vehículos cuyo motor utilice gasolina, gas natural o gas licuado de petróleo como combustible. Se deberá acreditar que dichos vehículos están construidos de manera de cumplir con los límites señalados para una durabilidad de 80.000 kilómetros (km) de uso y después de transcurridos 12 meses contados desde la fecha de publicación del DS Nº 29 de 2012, del Ministerio del Medio Ambiente, en el Diario Oficial, se deberá acreditar lo mismo, esta vez para una durabilidad de 100.000 kilómetros (km), en conformidad a lo dispuesto en el número 3º del decreto supremo Nº 54, de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
+#### Artículo 4º
+
+sexies: Los vehículos motorizados livianos, dotados de motor de encendido por chispa y cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite a contar del 1º de septiembre de 2014, sólo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan en las letras a) o b) del presente artículo, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación, de acuerdo a lo que se señala a continuación:
+
+a) Los límites señalados en la Tabla 3, serán aplicables a vehículos cuyo motor utilice gasolina, bioetanol, gas natural o gas licuado de petróleo como combustible y para aquellos denominados "flexible fuel" que define la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines y que utilicen combustible autorizado.
+
+La durabilidad, expresada en millas, para cada conjunto de emisiones de escape, señalado en la Tabla 3, deberá ser acreditada en conformidad a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines, método FTP-75.
+
+b) Los límites señalados en la Tabla 4 serán aplicables a vehículos con motor de encendido por chispa. Se deberá acreditar que dichos vehículos están construidos de manera de cumplir con los límites señalados para una durabilidad de 160.000 kilómetros de uso conforme a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por el Reglamento (CE) Nº 692/2008 del Parlamento Europeo.
+
+Los vehículos motorizados livianos que acrediten haber cumplido los límites máximos de emisiones de las tablas 3 o 4, según corresponda, deberán estar diseñados, construidos y equipados con componentes y sistemas de control que permitan cumplir sus niveles de emisiones para la durabilidad mínima indicada en cada caso, sin perjuicio de las especificaciones que el Ministerio de Transportes y Telecomunicaciones pueda establecer para dichos sistemas de control.
+
+#### Artículo 4º
+
+septies: Los vehículos livianos motorizados dotados de motor de encendido por compresión (diesel) cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de transcurridos seis meses contados desde la fecha de publicación del DS Nº 29, de 2012, del Ministerio del Medio Ambiente, en el Diario Oficial, sólo podrán circular por el territorio nacional, con excepción de la Región Metropolitana, si son mecánicamente aptos para cumplir con los niveles máximos de emisión que se señalan en las letras a) o b) del presente artículo, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación.
+
+a) La durabilidad, expresada en millas, para cada conjunto de emisiones de escape, señalado en la Tabla 5 deberá ser acreditada conforme a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines, método FTP-75.
+
+b) Se deberá acreditar que los vehículos que se señalan en la Tabla 6 están construidos de manera de cumplir con los límites de emisiones que se indican para una durabilidad de 80.000 kilómetros (km) de uso y después de transcurridos 12 meses contados desde la fecha de publicación del DS Nº 29 de 2012, del Ministerio del Medio Ambiente, en el Diario Oficial, deberá acreditarse lo mismo, esta vez para una durabilidad de 100.000 kilómetros (km), en conformidad a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por la Comunidad Europea en la Directiva 70/220/CEE, modificada por la Directiva 98/69/CE y la Directiva 2002/80/CE.
+
+#### Artículo 4º
+
+octies: Los vehículos livianos motorizados diesel cuya primera inscripción en el Registro Nacional de Vehículos Motorizados del Servicio de Registro Civil e Identificación, se solicite después de 12 meses contados desde la fecha de publicación en el Diario Oficial del DS Nº 29 de 2012, del Ministerio del Medio Ambiente, sólo podrán circular por el territorio nacional, si son mecánicamente aptos para cumplir con los niveles de emisión provenientes del sistema de escape, señaladas en las letras a) o b) de este artículo, según la norma que el fabricante, armador, importador o sus representantes soliciten al momento de la homologación.
+
+a) La durabilidad, expresada en millas, para cada conjunto de emisiones de escape, señalado en la Tabla 7 siguiente, deberá ser acreditada en conformidad a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones se efectuarán conforme a las condiciones normalizadas de medición estipuladas por la Agencia de Protección Ambiental de los Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation" título 40, parte 86-Control of air pollution from new vehicle engines, método FTP-75.
+
+b) Se deberá acreditar que los vehículos que se señalan en la Tabla 8 están construidos de manera de cumplir con los límites de emisiones para una durabilidad de 80.000 kilómetros (km) de uso y a partir del 1º de abril del 2014, deberá acreditarse lo mismo, esta vez para una durabilidad de 160.000 kilómetros (km), en conformidad a lo dispuesto en el número 3º del decreto supremo Nº 54 de 1997, del Ministerio de Transportes y Telecomunicaciones, que dispone normas sobre homologación de vehículos.
+
+Las mediciones deberán efectuarse conforme a las condiciones normalizadas de medición estipulada por el Reglamento (CE) Nº 692/2008 del Parlamento Europeo.
+
+En el caso de vehículos equipados con sistemas de regeneración periódica, para la determinación de los resultados de las emisiones medidas de acuerdo a lo señalado en el párrafo anterior, deberán ser considerados los factores de regeneración (Ki) desarrollados mediante los procedimientos del anexo 13, sección 3, del Reglamento CEPE Nº 83.
+
+Los vehículos motorizados livianos que acrediten haber cumplido los límites máximos de emisiones de las tablas 7 u 8, según corresponda, deberán estar diseñados, construidos y equipados con componentes y sistemas de control que permitan cumplir sus niveles de emisiones para la durabilidad mínima indicada en cada caso, sin perjuicio de las especificaciones que el Ministerio de Transportes y Telecomunicaciones pueda establecer para dichos sistemas de control.
+
+#### Artículo 4º
+
+nonies: Los vehículos motorizados livianos que sean mecánicamente aptos para cumplir con niveles máximos de emisión provenientes del tubo de escape, y/o niveles de emisiones evaporativas de hidrocarburos y del cárter, y/o durabilidad del nivel de emisiones, de un estándar superior a los exigidos por las normas vigentes, podrán solicitar al momento y adicionalmente a la homologación y/o certificación de los estándares vigentes, el reconocimiento del estándar superior en conformidad con las condiciones normalizadas de medición, homologación y/o certificación, estipuladas por la Agencia Ambiental de Estados Unidos de Norteamérica (USEPA), en el llamado "Code of Federal Regulation", o por las directivas de la Comunidad Europea, o por el Estado de California, en el llamado "California Code of Regulation", que en adelante se denominará como la legislación internacional. Para ello deberán cumplir con los mismos procesos de análisis técnico establecidos para la homologación de los estándares vigentes, en correspondencia con la legislación internacional que aplique. Asimismo, podrán solicitar el reconocimiento del cumplimiento de un estándar en correspondencia con la mencionada legislación internacional respecto de los requisitos técnicos del sistema de diagnóstico a bordo (OBD).
+
+El Ministerio de Transportes y Telecomunicaciones publicará para los modelos de vehículos homologados, el estándar superior reconocido.
 
 #### Artículo 5
 
@@ -362,7 +426,7 @@ Sin perjuicio de las normas generales de revisión que afecten a los vehículos 
 
 #### Artículo 8°
 
-El procedimiento a seguir en la revisión hecha por las plantas de revisión recién referidas, considerará en los vehículos con motor de encendido por chispa la medición de, a lo menos, HC, TRANSPORTES CO, CO2 y las revoluciones del motor. Las mediciones de gases deberán efectuarse en ralentí (entre 350 y 1.100 revoluciones por minutos) y en un modo de alta velocidad (entre 2.200 y 2.800 revoluciones por minuto).
+El procedimiento a seguir en la revisión hecha por las plantas de revisión recién referidas, considerará en los vehículos con motor de encendido por chispa la medición de, a lo menos, HC,CO, CO2 y las revoluciones del motor. Las mediciones de gases deberán efectuarse en ralentí (entre 350 y 1.100 revoluciones por minutos) y en un modo de alta velocidad (entre 2.200 y 2.800 revoluciones por minuto).
 
 Para obtener el certificado aprobado de revisión, las mediciones correspondientes deberán cumplir, en ambos regímenes, con las siguientes condiciones:
 
@@ -373,6 +437,8 @@ b) hidrocarburos totales (HC): 100 partes por millón como máximo, y
 c) monóxido de carbono + anhídrido carbónico (CO CO2): no menos de 6%.
 
 Los vehículos motorizados livianos con motor diesel deberán, de igual modo, aprobar la respectiva revisión técnica en las plantas mencionadas, utilizando un procedimiento que a lo menos deberá considerar partículas y las revoluciones del motor. Para obtener su aprobación, deberán producir cero de opacidad, medida en ralentí (entre 350 y 1.100 revoluciones por minuto) y en un modo de alta velocidad (entre 2.200 y 2.800 revoluciones por minuto); quedando facultado el Ministerio de Transportes y Telecomunicaciones para establecer, mediante decreto, otros procedimientos y límites de emisión, alternativos.
+
+Los vehículos motorizados livianos, internados al país bajo el régimen de Zona Franca, dotados de motor de encendido por chispa, con adaptación certificada para el uso de gas como combustible y que presten servicio de taxi en la XII Región, su emisión de contaminantes medida en Plantas Revisoras autorizadas en dicha Región, no podrá exceder las concentraciones máximas indicadas en el artículo 1º del DS Nº 4 de 1994, del Ministerio de Transportes y Telecomunicaciones y su medición se realizará de acuerdo al método descrito en el artículo 2º del citado DS Nº 4 de 1994.
 
 > **Nota.** El Art. 11 del DTO 149, Transportes, publicado el 24.04.2007, dejó sin efecto lo dispuesto en el presente artículo en la Región Metropolitana, respecto de los vehículos a que se refiere su artículo 1º, esto es, vehículos en uso, de encendido por chispa (ciclo Otto), a contar del 1 de septiembre de 2007.
 
@@ -405,6 +471,14 @@ Sólo podrán circular en la Región Metropolitana los vehículos comerciales y 
 El Ministerio de Transportes y Telecomunicaciones deberá fijar las características y demás condiciones de los autoadhesivos a que se refiere este decreto en un plazo de sesenta días.
 
 El Ministerio de Transportes y Telecomunicaciones determinará las normas complementarias que permitan la plena aplicación del presente decreto, especialmente para situaciones que excedan las disposiciones precedentes, como en el caso de vehículos importados directamente o cuyas marcas carezcan de representación formal en relación con lo dispuesto por el artículo 3°.
+
+#### Artículo 13
+
+Corresponderá la fiscalización de la presente norma de emisión al Ministerio de Transportes y Telecomunicaciones, sin perjuicio de las atribuciones que le correspondan a la Superintendencia del Medio Ambiente.
+
+#### Artículo 14
+
+Sin embargo, no se aplicarán las exigencias establecidas en el presente decreto a los vehículos livianos de proyectos experimentales para evaluación de tecnologías, los que excepcionalmente podrán ser autorizados, por un plazo determinado, mediante resolución del Subsecretario del Ministerio de Transportes y Telecomunicaciones.
 
 #### Artículo transitorio
 
