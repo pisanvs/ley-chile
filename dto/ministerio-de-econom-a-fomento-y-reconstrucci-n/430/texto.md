@@ -74,7 +74,11 @@ PARRAFO ELIMINDO
 
 13) Conservación: uso presente y futuro, racional, eficaz y eficiente de los recursos naturales y su ambiente.
 
-14) bis. Descarte: es la acción de desechar al mar especies hidrobiológicas capturadas.
+14) bis. Descarte: es la acción de devolver
+
+al mar especies hidrobiológicas
+
+capturadas.
 
 14) Embarcación pesquera artesanal o embarcación artesanal: es aquella explotada por un armador artesanal e inscrita en el Registro Pesquero Artesanal, de una eslora máxima no superior a 18 metros y 80 metros cúbicos de capacidad de bodega, garantizando la seguridad y el que no haya aumento del esfuerzo pesquero. No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, puente, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos y de un francobordo mínimo de 200 milímetros a lo largo de toda su eslora, que dé garantías de seguridad y navegabilidad.
 
@@ -100,6 +104,16 @@ Si se constata por tres veces, en el plazo dos años, que una embarcación artes
 
 21) Fauna acompañante: es la conformada por especies hidrobiológicas que, por efecto tecnológico del arte o aparejo de pesca, se capturan cuando las naves pesqueras orientan su esfuerzo de pesca a la explotación de las especies objetivo.
 
+21 bis) Pesca incidental: aquella
+
+conformada por especies que no son
+
+parte de la fauna acompañante y que
+
+está constituida por reptiles marinos,
+
+aves marinas y mamíferos marinos.
+
 22) Fondo de mar, río o lago: extensión del suelo que se inicia a partir de la línea de más baja marea aguas adentro en el mar, y desde la línea de aguas mínimas en sus bajas normales aguas adentro en ríos o lagos.
 
 23) Línea de base normal: Línea de bajamar de la costa del territorio continental e insular de la República. En los lugares en que la costa tenga profundas aberturas y escotaduras, o en los que haya una franja de islas a lo largo de la costa situada en su proximidad inmediata, podrá adoptarse, de conformidad al Derecho Internacional, como método para trazar la línea de base desde la que ha de medirse el mar territorial, el de líneas de base rectas que unan los puntos apropiados.
@@ -114,37 +128,73 @@ Si se constata por tres veces, en el plazo dos años, que una embarcación artes
 
 26 bis) Observador científico: persona
 
-natural, encargada de la observación
+natural designada por la Subsecretaría de
 
-y recopilación de datos a bordo
+Pesca encargada de la observación y
 
-de naves pesqueras, puntos de
+recopilación de datos a bordo de naves
 
-desembarque o en plantas de proceso,
+pesqueras, puntos de desembarque o en
 
-exclusivamente para la investigación
+plantas de proceso, exclusivamente para
 
-con fines de conservación y
+la investigación con fines de
 
-administración de los recursos
+conservación y administración de los
 
-hidrobiológicos.
+recursos hidrobiológicos.
 
-Los observadores científicos
+La recopilación de datos en ningún
 
-deberán acreditar conocimientos
+caso incluirá la individualización de
 
-y aptitudes para llevar a cabo
+las naves ni de los armadores, los
 
-tareas científicas básicas y podrán
+cuales deberán ser codificados para
 
-ser profesionales o técnicos ligados
+estos efectos. En relación a los
 
-a las ciencias marinas, pesqueras o
+tratados internacionales pesqueros
 
-acuícolas, de universidades e
+de los cuales Chile sea parte, la
 
-institutos profesionales acreditados.
+información del área regulada por
+
+ellos que corresponda a alta mar se
+
+entregará de conformidad con las
+
+disposiciones del respectivo
+
+instrumento internacional.
+
+La destrucción, sustracción o
+
+revelación indebida de los datos
+
+recopilados por parte del observador
+
+científico constituirá infracción
+
+grave al principio de probidad o
+
+incumplimiento grave del convenio
+
+de administración, según corresponda.
+
+El observador científico no
+
+tendrá bajo ningún respecto el
+
+carácter de inspector, fiscalizador,
+
+ministro de fe, certificador o
+
+verificador de capturas, quedando
+
+limitadas sus funciones a las
+
+expresadas en este numeral.
 
 27) Permiso extraordinario de pesca: es el acto administrativo mediante el cual la Subsecretaría a través del procedimiento establecido en esta ley faculta a las personas adjudicatarias de cuotas individuales de captura para realizar actividades pesqueras extractivas, por el tiempo de vigencia del permiso, en pesquerías declaradas en los regímenes de plena explotación, o en pesquerías en desarrollo incipiente o en pesquerías en recuperación.
 
@@ -385,6 +435,58 @@ En el evento de fenómenos oceanográficos, en un área o pesquería determinada
 #### Artículo 7°
 
 La actividad pesquera que se lleva a cabo en establecimientos de acuicultura quedará siempre excluida de las prohibiciones o medidas de administración a que se refiere este párrafo, adoptadas para la misma especie en estado natural.
+
+### Párrafo 1º — BIS
+
+DEL DESCARTE DE ESPECIES HIDROBIOLÓGICAS
+
+#### Artículo 7º
+
+A.- La Subsecretaría, mediante resolución y previo informe técnico, aprobará, para una o más especies objetivo y su fauna acompañante, un programa de investigación destinado a recopilar antecedentes técnicos que permitan elaborar un plan de reducción del descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental. Dicho programa de investigación deberá comprender a lo menos la cuantificación del descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental, la determinación de sus causas, la forma en que se realiza y los medios a través de los cuales se dejará constancia de esta información. El programa deberá considerar, a lo menos, la información biológica pesquera recopilada por los observadores científicos designados por la Subsecretaría de Pesca de conformidad con el Título VIII.
+
+El programa tendrá una duración no inferior a dos años y deberá incluir una propuesta de las medidas orientadas a la disminución del descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental.
+
+En el plazo máximo de tres años de ejecución del programa de investigación, la Subsecretaría de Pesca establecerá un plan de reducción del descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental, el que deberá contener, a lo menos, los siguientes elementos:
+
+a) Las medidas de administración y conservación y los medios tecnológicos necesarios para reducir el descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental.
+
+b) Un programa de monitoreo y seguimiento del plan.
+
+c) Una evaluación de las medidas adoptadas para reducir el descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental.
+
+d) Un programa de capacitación y difusión.
+
+El plan de reducción deberá considerar un código de buenas prácticas en las operaciones de pesca, como medida de mitigación complementaria. Asimismo, podrá considerar incentivos para la innovación en sistemas y artes de pesca, que tengan como objetivo la mitigación o disminución del descarte tanto de la especie objetivo como de la fauna acompañante y de la captura de la pesca incidental.
+
+La Subsecretaría de Pesca establecerá anualmente, mediante resolución fundada, la nómina de las especies objetivo y su fauna acompañante que se encuentren sometidas al programa de investigación a que se refiere este artículo.
+
+#### Artículo 7º
+
+B.- No podrá realizarse el descarte de individuos de una especie objetivo, cualquiera sea su régimen de acceso, y su fauna acompañante, salvo que se cumplan los siguientes requisitos:
+
+a) Que se hayan recopilado antecedentes técnicos suficientes del descarte, de acuerdo a un programa de investigación ejecutado de conformidad con lo dispuesto en el artículo anterior.
+
+b) Que se mantenga en ejecución el programa de investigación señalado en la letra anterior.
+
+c) Que se haya fijado una cuota global anual de captura para la especie objetivo.
+
+d) Que en el proceso de establecimiento de la cuota global anual de captura se haya considerado el descarte.
+
+e) Que la especie objetivo y su fauna acompañante se encuentren sometidas al plan de reducción a que se refiere el artículo anterior.
+
+f) Que el descarte no afecte la conservación de la especie objetivo.
+
+La Subsecretaría de Pesca establecerá anualmente, mediante resolución fundada y previo informe técnico, la nómina de las especies objetivo y su fauna acompañante que cumplan con los requisitos antes señalados.
+
+#### Artículo 7º
+
+C.- Será obligatoria la devolución al mar de mamíferos marinos, reptiles, pingüinos y otras aves marinas, salvo que se encuentren severamente dañados o heridos, en cuyo caso serán retenidos a bordo para efectos de ser enviados a un centro de rehabilitación de especies hidrobiológicas. Asimismo, será obligatoria la devolución de ejemplares de una especie hidrobiológica, en los casos en que así lo disponga expresamente la medida de administración vigente.
+
+La Subsecretaría establecerá, mediante resolución y previo informe técnico, la nómina de especies que se encuentren en los casos previstos en este artículo.
+
+#### Artículo 7º
+
+D.- Sin perjuicio de las normas de este Párrafo, se deberá dar cumplimiento a las medidas de administración establecidas de conformidad con la normativa vigente.
 
 ### Párrafo 2°
 
@@ -2060,6 +2162,10 @@ oportuna.
 
 Los armadores pesqueros artesanales e industriales deberán informar la recalada de la nave, antes de su arribo a puerto, en los casos, forma y condiciones que establezca el Servicio mediante resolución.
 
+#### Artículo 63 ter
+
+Los armadores pesqueros industriales o artesanales deberán informar, en los términos establecidos en los artículos anteriores, el descarte de especies sometido a las disposiciones del Párrafo 1º bis del Título II de esta ley.
+
 #### Artículo 64
 
 El reglamento establecerá las normas para asegurar informes adecuados de los armadores industriales o artesanales, a fin de facilitar el seguimiento de las capturas en los procesos de transformación y comercialización.
@@ -2115,6 +2221,26 @@ Lo dispuesto en el inciso precedente no será aplicable a las embarcaciones que 
 El cumplimiento de las acciones ordenadas en el inciso precedente podrá considerarse como circunstancia eximente de responsabilidad por las infracciones establecidas en los artículos 110 letra h) y 86 ter, según corresponda.
 
 > **Nota.** El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que la presente modificación entrará en vigor sesenta días después de su publicación en el Diario Oficial.
+
+#### Artículo 64
+
+E.- Los armadores de naves pesqueras a que se refiere el artículo 64 B y los armadores artesanales respecto de sus embarcaciones que tengan una eslora igual o superior a 15 metros deberán instalar a bordo y mantener en funcionamiento, durante todo el viaje de pesca, un dispositivo de registro de imágenes que permita detectar y registrar toda acción de descarte que pueda ocurrir a bordo.
+
+El Servicio Nacional de Pesca deberá requerir la entrega de la información registrada desde las naves pesqueras, en ejercicio de su función fiscalizadora.
+
+La instalación y mantención del dispositivo de registro de imágenes serán de cargo del armador. Asimismo, la recopilación y procesamiento de las imágenes podrá efectuarse por el Servicio directamente o encargándolo a entidades externas. En este último caso, serán también de cargo del armador.
+
+Este sistema deberá guardar relación en sus costos de instalación y operación con los que signifiquen los objetivos de protección de los recursos hidrobiológicos respectivos.
+
+La forma, requisitos y condiciones de aplicación de las exigencias establecidas en este artículo, así como los resguardos necesarios que eviten la manipulación e interferencia del funcionamiento de los dispositivos, serán determinados en el reglamento, pudiendo éste distinguir por pesquería, tipo de nave y arte de pesca. El Servicio acreditará, directamente o por intermedio de entidades externas, el cumplimiento de los requisitos establecidos en el reglamento.
+
+La Subsecretaría de Pesca podrá requerir la información de que trata este artículo para fines de administración y manejo de los recursos hidrobiológicos.
+
+#### Artículo 64
+
+F.- Las imágenes que registre el dispositivo a que se refiere el artículo 64 E tendrán el carácter de reservado de conformidad con la ley Nº 20.285. Su destrucción, sustracción o revelación indebida será sancionada con las penas señaladas en los artículos 242 ó 247 del Código Penal, según corresponda.
+
+La información que genere el dispositivo de registro de imágenes, certificada por el Servicio Nacional de Pesca, en su caso, tendrá el carácter de instrumento público y constituirá una presunción para acreditar infracciones a la normativa pesquera. La información, en este caso, no revestirá el carácter de reservada y su publicidad quedará sometida a las normas generales que regulan el procedimiento administrativo o judicial, según corresponda.
 
 #### Artículo 65
 
@@ -2828,23 +2954,45 @@ Los armadores extranjeros deberán cumplir con las disposiciones de la presente 
 
 ## Título VIII
 
-DE LA PESCA DEPORTIVA
+DE LOS OBSERVADORES CIENTÍFICOS
 
 #### Artículo 103
 
-DEROGADO
+Los observadores científicos tendrán como únicas funciones, las de recopilar, registrar y dar cuenta de los datos e información biológico-pesquera de las operaciones de pesca industrial y artesanal, puntos de desembarque o procesamiento de recursos pesqueros. Su labor no será de fiscalización.
+
+Los observadores científicos deberán acreditar conocimientos y aptitudes para llevar a cabo tareas científicas básicas y podrán ser profesionales o técnicos ligados a las ciencias marinas, pesqueras o acuícolas, de universidades e institutos profesionales acreditados.
 
 #### Artículo 104
 
-DEROGADO
+El reglamento establecerá un procedimiento de coordinación de embarque, el que deberá contemplar un plazo mínimo de 10 días para informar de la designación de observadores científicos a los armadores respectivos.
+
+La autoridad marítima no otorgará la autorización de zarpe a las naves o embarcaciones que, habiéndoles sido designado un observador, no esté incluido en la dotación a bordo.
+
+Los armadores deberán asegurarse que los capitanes o patrones de sus naves o embarcaciones brinden a los observadores una amplia cooperación, de manera que éstos puedan llevar a cabo las tareas de recopilación de datos. Para estos efectos se les deberá proporcionar un espacio adecuado para la toma de información y el análisis de las muestras como asimismo un lugar habilitado para procesar los datos de captura obtenidos.
+
+El cumplimiento de la obligación de cooperación incluye, además, brindar las facilidades adecuadas de alojamiento, alimentación, comunicación y seguridad personal a los observadores científicos.
+
+Los observadores científicos deberán contar con un dispositivo de localización de emergencia personal que accionarán exclusivamente en caso de peligro de su integridad física.
+
+La llamada de auxilio deberá ser respondida por la autoridad marítima, quien deberá contactarse con el capitán de la nave o embarcación a fin de indagar respecto de la situación denunciada y tomar las medidas necesarias para resguardar la integridad del observador científico.
 
 #### Artículo 105
 
-DEROGADO
+La información proveniente de los datos recopilados por los observadores científicos será pública en los términos de la ley Nº 20.285.
+
+La información recopilada por los observadores científicos en el marco del programa de investigación, previamente codificados los nombres de naves y armadores, será pública pudiendo requerirla cualquier institución de investigación, académica u organización no gubernamental, para efectos de su evaluación y propuestas al plan de reducción de la pesca incidental y el descarte.
+
+La información recopilada por los observadores será administrada por la Subsecretaría y utilizada exclusivamente para fines científicos, de conservación y administración pesquera.
 
 #### Artículo 106
 
-DEROGADO
+La Subsecretaría de Pesca podrá encomendar a una o más instituciones la administración del sistema de observadores científicos.
+
+Para tales efectos, la Subsecretaría suscribirá un convenio de administración y operación por el cual encargará a una o más instituciones la administración del sistema de observadores científicos.
+
+El convenio será aprobado por resolución y deberá suscribirse con personas jurídicas, públicas o privadas, las que deberán tener por objeto social o giro la investigación en el ámbito de las ciencias del mar y contar con experiencia en la recopilación y procesamiento de datos e información biológico-pesquera a bordo de naves y en plantas.
+
+El reglamento establecerá los requisitos y obligaciones que deberá cumplir el administrador del sistema.
 
 ## Título IX
 
@@ -2906,7 +3054,7 @@ f) Capturar especies hidrobiológicas con violación de las prohibiciones de la 
 
 - **c)** del artículo 48 y del inciso segundo del artículo 103.
 
-g) Informar capturas de especies hidrobiológicas menores que las reales, incluido el ocultamiento de capturas desembarcadas o desechadas al mar.
+g) Informar capturas de especies hidrobiológicas menores que las reales, incluido el ocultamiento de capturas desembarcadas.
 
 h) Realizar faenas de pesca en altamar con naves que enarbolen el pabellón chileno, infringiendo las normas de los tratados o convenciones internacionales ratificados por Chile y vigentes, que tengan por objeto la protección, conservación o uso racional de las especies hidrobiológicas. Si no hubiere resultado de captura o ésta fuere arrojada al mar , la sanción será de dos unidades tributarias mensuales por cada tonelada de registro grueso de la nave con que se cometa la infracción.
 
@@ -2927,6 +3075,18 @@ En los casos de los artículos 110 y
 110 bis, el capitán o patrón de la nave pesquera industrial en que se hubiere cometido la infracción, será sancionado personalmente con multa de 30 a 300 unidades tributarias mensuales, y el patrón de la embarcación artesanal, con multa de 3 a 150 unidades tributarias mensuales.
 
 Además, se les aplicará, de acuerdo con las reglas del párrafo 3° de este título, la sanción de suspensión del título de capitán o patrón hasta por 90 días. En caso de reincidencia, la pena será de cancelación del mismo.
+
+#### Artículo 111
+
+A.- El armador de la nave industrial o embarcación artesanal que realice descarte que no corresponda a los casos previstos en el Párrafo 1º bis del Título II de esta ley, será sancionado con multa de 30 a 300 unidades tributarias mensuales. En caso de que se trate de especies sometidas a la medida de administración límite máximo de captura por armador, se aplicará la sanción administrativa establecida en el artículo 12 de la ley Nº 19.713.
+
+En el caso del inciso anterior, el capitán o patrón de la nave pesquera industrial en que se hubiere cometido la infracción será sancionado personalmente con multa de 30 a 300 unidades tributarias mensuales, y el patrón de la embarcación artesanal, con multa de 3 a 30 unidades tributarias mensuales.
+
+#### Artículo 111
+
+B.- El armador de una nave pesquera industrial o de una embarcación artesanal de eslora igual o superior a 15 metros que haya operado sin mantener en funcionamiento el dispositivo de registro de imágenes, o lo haya manipulado o interferido, será sancionado con multa de 20 a 300 unidades tributarias mensuales.
+
+El capitán o patrón de la nave en que se hubiere cometido la infracción a que se refiere el inciso anterior será sancionado personalmente con multa de 3 a 30 unidades tributarias mensuales.
 
 #### Artículo 112
 
@@ -2950,11 +3110,43 @@ Iguales sanciones se aplicarán al o a los responsables de proporcionar informac
 
 Las personas naturales o jurídicas que realicen actividades de acuicultura y entreguen información falsa acerca de la operación de los centros de cultivo de que sean titulares a cualquier título, serán sancionados con multas de 50 a 300 unidades tributarias mensuales. En caso de reincidencia, la sanción se duplicará.
 
+La omisión de la entrega o
+
+la entrega incompleta de la
+
+información a que se refiere el
+
+#### Artículo 63 ter
+
+será sancionada
+
+con multa de 3 a 30 unidades
+
+tributarias mensuales.
+
+En caso de que la información
+
+entregada en cumplimiento del
+
+#### Artículo 63 ter
+
+sea falsa, la
+
+sanción será de multa de 50 a
+
+300 unidades tributarias
+
+mensuales.
+
 > **Nota.** El Art. 1º transitorio de la LEY 19521, publicada el 23.10.1997, dispuso que la modificación introducida al presente artículo rige a contar de sesenta días después de su publicación en el Diario Oficial.
 
 #### Artículo 113
 
 A.- Será sancionado con multa de 3 a 300 unidades tributarias mensuales el armador pesquero industrial o artesanal que no informe la recalada de acuerdo al procedimiento establecido en el artículo 63 bis.
+
+#### Artículo 113
+
+B.- Durante el desarrollo del programa de investigación a que se refiere el artículo 7º A no serán aplicables, a todas aquellas naves que participen de la investigación, las sanciones sobre descarte contempladas en esta ley y en la ley Nº 19.713.
 
 #### Artículo 114
 
@@ -3155,6 +3347,12 @@ obstaculizar la labor de los
 funcionarios del Servicio
 
 Nacional de Pesca.
+
+#### Artículo 121 ter
+
+Será sancionado con multa de 3 a 300 unidades tributarias mensuales el que obstaculice el ejercicio de las funciones del observador científico a bordo de las naves o en las plantas de proceso.
+
+En las mismas sanciones incurrirán los armadores pesqueros y los gerentes o administradores de las plantas de proceso por el incumplimiento de cualquiera de las obligaciones señaladas en los artículos precedentes o en el reglamento respectivo.
 
 ### Párrafo 2°
 

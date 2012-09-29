@@ -200,7 +200,7 @@ Al armador o grupo de armadores que sobrepase el límite máximo de captura esta
 
 Al armador o grupo de armadores que desembarque y no informe sus capturas de acuerdo con el procedimiento a que se refiere el artículo 10 o efectúe descarte, se le descontará el 30% del límite máximo de captura que le corresponda en la unidad de pesquería durante ese año calendario. Si al armador o grupo de armadores se le hubiere agotado su límite máximo de captura para ese año, se le descontará del año siguiente.
 
-Para estos efectos se entenderá por descarte el desechar al mar especies hidrobiológicas capturadas.
+Para estos efectos se entenderá por descarte la acción de devolver al mar las especies hidrobiológicas capturadas.
 
 Al armador o grupo de armadores que desembarque y no dé cumplimiento al procedimiento de certificación a que se refiere el artículo 10 en la forma y condiciones establecidas, se le descontará el 10% del límite máximo de captura que le corresponda en la unidad de pesquería durante ese año calendario. Si al armador o grupo de armadores se le hubiere agotado su límite máximo de captura para ese año, se le descontará del año siguiente.
 
@@ -286,9 +286,9 @@ Para los mismos efectos señalados precedentemente, el gerente o administrador d
 
 Modifícase la Ley General de Pesca y Acuicultura, contenida en el decreto supremo N° 430, de 1991, del Ministerio de Economía, Fomento y Reconstrucción, de la siguiente manera:
 
-1. Intercálase en el artículo 2º, a continuación del Nº 14) , el siguiente número 14) bis:
+1. Intercálase en el artículo 2º, a continuación del número 14), el siguiente número 14 bis):
 
-"14) bis. Descarte: es la acción de desechar al mar especies hidrobiológicas capturadas.".
+"14 bis) Descarte: es la acción de devolver al mar especies hidrobiológicas capturadas.
 
 2. En el inciso final del artículo 50, agrégase a continuación del punto aparte (.) , que pasa a ser un punto seguido (.) , la siguiente oración: "La Subsecretaría determinará, por resolución fundada, el número de inscripciones vacantes que podrán ser reemplazadas, de modo que el esfuerzo de pesca ejercido en cada pesquería no afecte la sustentabilidad del recurso.".
 
