@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1958, de fecha 31 de agosto de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº1-A, superficie 124,00 m2., Rol Nº644-25, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES VARIAS PROVINCIAS, REGIÓN METROPOLITANA', comuna de Paine. La comisión de peritos, integrada por Néstor Abello Rodríguez, Douglas Herrera Flores y Marcela Redard Ayala, fijó el valor de tasación con fecha 31 de agosto de 2011, acordándose la indemnización con su propietario SEGUNDO DEL CARMEN FERRADA ARENAS, en la cantidad de $2.680.768, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
