@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1962 de 31 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos Nºs. 1 y 3, superficies 157 y 407 m2, rol de Avalúo Nº2257-65, comuna de Puyehue, para la obra "CAMINO RUTA U-51, SECTOR RUPANQUITO-ENTRELAGOS, TRAMO KM. 23,30000 A KM. 38,93760". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, NELSON BERNARDO TURRA TURRA Y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 14 de noviembre de 2010, acordándose la indemnización con su propietaria AMELIA CASTILLO PARDO, en la cantidad de $651.990.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
