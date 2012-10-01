@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº1960 de 31 de agosto de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos Nºs. 55, 55-A, 55-B y 56, superficies 4.478, 447, 980 y 6.521 m2, rol de Avalúo Nº1451-1, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320". La Comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, JUAN CELESTINO GIOVANNINI MANSILLA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 4 de agosto de 2009 y 20 de abril de 2011, acordándose la indemnización con sus propietario GUSTAVO ALEJANDRO BIHL OYARZÚN, en la cantidad de $55.921.044.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
