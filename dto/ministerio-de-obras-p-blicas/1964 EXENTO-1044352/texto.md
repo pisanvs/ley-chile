@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1964, de fecha 31 de agosto de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº27, superficie 55 m2., Rol Nº41-15, para la obra "CAMINO RUTA H-864, SECTOR PICHIDEGUA CRUCE RUTA H-82, TRAMO KM. 0,00000 A KM. 5,28200", comuna de Pichidegua, Provincia de Cachapoal, VI Región. La comisión de peritos, integrada por Manuel Díaz Farfan, René Corvalán Correa y Orlando Fariña Vásquez, fijó el valor de tasación con fecha 11 de mayo de 2010, acordándose la indemnización con su propietaria MARÍA DE LA LUZ CARVAJAL ROJAS, en la cantidad de $383.544, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
