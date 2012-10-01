@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº1966, de fecha 31 de agosto de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº4-A, superficie 4.677,60 m2., Rol Nº24-133, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES EN SAN PEDRO - PIRQUE - LAMPA RM. - BADEN MANZANITO", comuna de San Pedro. La comisión de peritos, integrada por Néstor Abello Rodríguez, Douglas Herrera Flores y Norman Calderón Pontiggia, fijó el valor de tasación con fecha 27 de diciembre de 2011, acordándose la indemnización con su propietario ALFREDO SEGUNDO FUENTES HERRADA, en la cantidad de $48.130.965, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
