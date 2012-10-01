@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº1963 de 31 de agosto de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº103, superficie 118 m2, rol de Avalúo 2409-71, comuna de Valdivia, para la obra "MEJORAMIENTO RUTA T-35, LOS LAGOS – VALDIVIA, SECTOR ANTILHUE – VALDIVIA TRAMO 3", XIV Región. La Comisión de Peritos integrada por SONIA CATALINA GALLEGOS BLANCH, PATRICIO FERNANDO CASAGRANDE ULLOA Y NORMAN CALDERÓN PONTIGGIA, fijó el valor de tasación con fecha 15 de abril de 2010, acordándose el valor de la indemnización con su propietario, RICHARD DEL CARMEN MEUNIER ARTIGAS, en la cantidad de $812.434.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
