@@ -18,8 +18,6 @@ Resolución:
 
 1.- Homológanse los aranceles que a continuación se indican:
 
-.
-
 2.- Las previamente mencionadas prestaciones, se asimilan a aranceles ya fijados en la resolución exenta N° 393, de 2001, del Ministerio de Salud, por corresponder técnicamente al mismo procedimiento y similar costo.
 
 3.- Publíquese la presente resolución en la página web del Instituto de Salud Pública de Chile, www.ispch.cl.
