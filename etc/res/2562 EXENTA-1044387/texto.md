@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.562, de 25 de septiembre de 2012, de esta Subsecretaría, recházanse las solicitudes de concesión de acuicultura Nos 211101037, 211012012, 210103079 y 210122010, señaladas en la resolución extractada, y publicada íntegramente en la página web www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 25 de septiembre de 2012.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
