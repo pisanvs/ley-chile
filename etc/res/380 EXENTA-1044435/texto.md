@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS A QBE CHILE SEGUROS GENERALES S.A.
+
+Certifico: Que por resolución exenta Nº 380, de fecha 27 de septiembre de 2012, esta Superintendencia de Valores y Seguros aprobó reforma de estatutos de QBE Chile Seguros Generales S.A., acordada en junta extraordinaria de accionistas celebrada el 29 de junio de 2012, reducida a escritura pública el 3 de julio de 2012 y modificada por escritura pública de 16 de agosto de 2012, según lo observado por oficio 19.255 de 2012, todas otorgadas en la Notaría de Santiago de doña Nancy de la Fuente Hernández, domiciliada en Huérfanos 1117, oficina 1014.
+
+La reforma consiste en aumentar el capital social de $3.597.661.847 pesos dividido en 15.995 acciones nominativas, misma serie, sin valor nominal, íntegramente suscrito y pagado, a $7.675.461.594 pesos dividido en 34.272 acciones. El aumento de capital se entera mediante la emisión de 4.566 acciones por $1.018.724.826 pesos suscritas y pagadas en la junta y de 13.711 acciones por $3.059.074.921 pesos a suscribir y pagar dentro del plazo de 3 años desde fecha de la junta. Otros acuerdos que no son materia de extracto. Se modifican artículos quinto y primero transitorio de los estatutos. Demás estipulaciones constan en escritura extractada.
+
+Santiago, 27 de septiembre de 2012.- Carmen Undurraga Martínez, Secretaria General.
