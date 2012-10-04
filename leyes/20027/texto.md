@@ -64,6 +64,10 @@ En el caso de los créditos titularizados, para acceder a la garantía estatal d
 
 La garantía estatal de que trata el artículo 3º de esta ley, se hará efectiva en los casos en que el beneficiario del crédito, habiendo egresado de la carrera, deje de cumplir con la obligación de pago del mismo, en la forma que determine el reglamento.
 
+#### Artículo 6° bis
+
+Para efectos de la ponderación por riesgo a que se refiere el artículo 67 del decreto con fuerza de ley N° 3, de 1997, del Ministerio de Hacienda, que fija el texto refundido, sistematizado y concordado de la Ley General de Bancos, el monto de los créditos objeto de la garantía estatal establecida en esta ley se entenderá incluido en la Categoría 2 de dicho artículo y aquella porción del crédito que no cuente con garantía estatal, se entenderá incluida en la Categoría 5 de la referida norma.
+
 ## Título III
 
 De los requisitos para que se otorgue la garantía estatal
@@ -118,7 +122,7 @@ Sólo podrá otorgarse la garantía estatal de que trata esta ley, a los crédit
 
 En todo caso, la garantía estatal no se otorgará a nuevos créditos de estudiantes que hayan incurrido en deserción académica o eliminación académica más de una vez, sea en la misma carrera o en otra distinta.
 
-Asimismo, no podrán optar a la garantía estatal los egresados de nivel universitario que hayan hecho uso del crédito establecido en esta ley o del crédito solidario universitario.
+Para efectos de otorgar la garantía estatal a nuevos créditos de estudiantes que incurrieron en deserción o eliminación académica sólo una vez, los postulantes deberán encontrarse al día en el pago de las obligaciones correspondientes a los créditos otorgados con anterioridad, de conformidad con la presente ley. Asimismo, la renovación anual del nuevo financiamiento estará sujeta al cumplimiento de este requisito. La garantía estatal a que se refiere esta ley, no se otorgará a los estudiantes que hayan egresado de carreras conducentes a grado de licenciado utilizando el crédito con garantía estatal regulada en esta ley, o el crédito solidario universitario regulado en la ley N° 19.287.
 
 Se entenderá que existe deserción académica cuando el alumno, sin justificación, abandona los estudios durante doce meses consecutivos. El reglamento establecerá las causas y condiciones bajo las cuales un alumno pueda abandonar sus estudios sin que esto constituya deserción académica para efectos de esta ley.
 
@@ -141,6 +145,20 @@ De los requisitos que deben cumplir los créditos garantizados
 Los créditos objeto de garantía estatal deberán contar con seguros de desgravamen e invalidez, en la forma y condiciones determinadas por el reglamento.
 
 No se podrá exigir a los créditos y bonos que cuenten con garantía estatal la constitución de garantías adicionales a las que establece esta ley.
+
+#### Artículo 11 bis
+
+Los titulares de créditos objeto de garantía estatal pagarán un interés anual real de un 2%. Para estos efectos, el Fisco podrá pagar a las instituciones a que hace referencia el artículo 3° de esta ley los intereses que excedan del mencionado porcentaje.
+
+En caso que el valor de la cuota resultante, una vez aplicado lo establecido en el inciso anterior, sea mayor que el monto equivalente al 10% del promedio del total de la renta que hubiere obtenido durante los últimos doce meses, el deudor podrá optar por pagar este último monto. Este beneficio tendrá vigencia durante seis meses y podrá ser renovado, para lo cual deberá cumplir nuevamente con la obligación de información descrita en el inciso siguiente. En este caso, el Fisco pagará a las instituciones acreedoras la suma que falte para enterar el total de la cuota pactada. Esta diferencia no deberá ser reembolsada por el deudor al Fisco y no será considerada renta para todos los efectos legales. El pago referido será realizado por el Fisco a las instituciones a que hace referencia el artículo 3° de esta ley, dentro de los plazos y en la forma que determine el reglamento. Respecto de los créditos adquiridos por el Fisco de conformidad a lo dispuesto en el artículo 5° de la presente ley, la institución encargada de la cobranza deberá descontar el monto del copago de la cuota mensual respectiva, quedando la Tesorería General de la República facultada para efectuar el reflejo contable que corresponda.
+
+Los deudores que opten por esta alternativa deberán acreditar a la Comisión Administradora del Sistema de Créditos para Estudios Superiores el monto de su renta mediante una declaración jurada, a la que acompañarán la respectiva declaración anual de impuesto a la renta y, cuando proceda, el correspondiente certificado de remuneración del o de sus empleadores, así como cualquier otro documento que al efecto se les requiera, en conformidad a lo dispuesto en el reglamento. La entrega de estos antecedentes a la Comisión facultará a ésta para informar a las instituciones acreedoras el monto que corresponderá pagar a cada deudor por concepto de cuota contingente al ingreso. Asimismo, la Tesorería General de la República requerirá a la Comisión la entrega de los antecedentes necesarios para efectuar el copago que corresponda a las instituciones acreedoras.
+
+La Comisión podrá contrastar con el Servicio de Impuestos Internos la veracidad de la información suministrada por los deudores. En caso de determinarse que el deudor faltó a la verdad en la información proporcionada, no podrá optar al beneficio establecido en el inciso segundo de este artículo. Lo anterior es sin perjuicio de la responsabilidad penal que le correspondiere de acuerdo con lo dispuesto en el artículo 210 del Código Penal.
+
+Sólo tendrán derecho a acceder al beneficio establecido en el inciso segundo del presente artículo, los deudores que no se encuentren en mora.
+
+El reglamento de la ley definirá los plazos y forma en que el deudor deberá hacer su declaración de ingresos para acogerse al beneficio, así como la forma en que se determinará y pagará el exceso mencionado en los incisos primero y segundo precedentes.
 
 #### Artículo 12
 
@@ -216,7 +234,27 @@ La liberación a que se refiere el inciso anterior alcanzará sólo hasta el mon
 
 #### Artículo 18
 
-Lo dispuesto en el artículo 35, inciso segundo, del Código Tributario, no será aplicable a la información relativa a los ingresos de los deudores de los créditos otorgados en conformidad con esta ley. La información a que se refiere dicho artículo sólo podrá ser proporcionada a la Comisión Administradora del Sistema de Crédito para Estudios Superiores, individualizando dicha Comisión a los contribuyentes y señalando el uso que de acuerdo con esta ley se dará a la información requerida. La persona, sea empleado público o no, que divulgue esta información reservada obtenida directa o indirectamente para un uso distinto al autorizado, será sancionada, según corresponda, conforme al delito y penas establecidas en los artículos 246, 247 y 247 bis del Código Penal.
+Lo dispuesto en el artículo 35 inciso segundo del Código Tributario, no será aplicable a la información relativa a los deudores de los créditos otorgados en conformidad con esta ley. La información a que se refiere dicho artículo sólo podrá ser proporcionada a la Comisión Administradora del Sistema de Créditos para Estudios Superiores, individualizando dicha Comisión a los contribuyentes y señalando el uso que, de acuerdo con esta ley, se dará a la información requerida.
+
+La Comisión podrá solicitar a la institución de educación superior respectiva y a las instituciones que hayan otorgado el crédito a que se refiere esta ley, información de los respectivos deudores, para el cumplimiento de las funciones de la Comisión, y realizar el tratamiento de los mencionados datos.
+
+Además, cuando la Comisión lo solicite, las instituciones de previsión social y de salud previsional y el Fondo Nacional de Salud, estarán obligados a informarle el domicilio y la identificación del empleador de los deudores.
+
+La información proporcionada a la Comisión Administradora del Sistema de Créditos para Estudios Superiores de acuerdo a los incisos precedentes, sólo podrá ser utilizada por ésta o por los terceros que otorguen, administren y cobren créditos, de acuerdo a lo establecido en el N° 10 del artículo 22 de esta ley.
+
+La persona, sea empleado público o no, que divulgue información reservada, obtenida directa o indirectamente, para un uso distinto al autorizado, será sancionada, según corresponda, conforme a lo establecido en los artículos 246, 247 y 247 bis del Código Penal.
+
+#### Artículo 18 bis
+
+La Tesorería General de la República, en representación del Fisco, estará facultada para realizar las acciones de cobranza judicial y extrajudicial que sean procedentes respecto de los créditos de los que es titular el Fisco y aquellos en que se hubiera hecho efectiva la garantía, sea total o parcialmente, y que hayan sido otorgados de acuerdo a la presente ley.
+
+Las acciones de cobranza que ejerza la Tesorería General de la República, por sí o a través de terceros, se someterán a las reglas generales de procedimiento aplicables al cobro coactivo, ordinario o ejecutivo, de los títulos en que constan las obligaciones y créditos otorgados al amparo de esta ley.
+
+Para efectos de lo establecido en el inciso anterior, la Tesorería General de la República podrá delegar en terceros las acciones de cobro. Lo anterior es sin perjuicio de lo establecido en el número 10 del artículo 22.
+
+Asimismo, para efectos de la cobranza de los créditos de los que es titular el Fisco, sea total o parcialmente, la Tesorería General de la República estará facultada para otorgar facilidades y suscribir convenios de pago con deudores morosos, por sí o a través de terceros. También podrá condonar total o parcialmente los intereses y sanciones por la mora en el pago de estos créditos, mediante normas o criterios de general aplicación, que sean determinados por la Comisión.
+
+Adicionalmente, la Tesorería General de la República, previo visto bueno de la Dirección de Presupuestos, podrá vender o ceder los créditos de los que sea titular el Fisco, sea total o parcialmente, y que se encuentren en condición de morosidad.
 
 #### Artículo 19
 
