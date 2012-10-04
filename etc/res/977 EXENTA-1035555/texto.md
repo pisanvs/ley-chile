@@ -22,6 +22,8 @@ Resuelvo:
 
 CALENDARIO PARA RESTRICCIÓN VEHICULAR 2012
 
+.
+
 2. La prohibición señalada regirá de lunes a viernes, excepto festivos, entre las 7:00 y las 21:30.
 
 3. Estas restricciones se extenderán a todas las vías públicas de la comuna de Rancagua.
