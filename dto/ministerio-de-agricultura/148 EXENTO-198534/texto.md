@@ -90,7 +90,9 @@ Semillas cítrico:
 
 * Cachexia Viroide - CC Vd
 
-i) ELIMINADO
+i) Análisis de Organismos Vegetales 1,718
+
+Vivos Modificados de Propagación
 
 4.- Las tarifas fijadas en el presente decreto para los análisis indicados en los Nºs. 2 y 3 no incluyen el Impuesto al Valor Agregado (IVA).
 

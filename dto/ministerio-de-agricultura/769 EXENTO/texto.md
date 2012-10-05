@@ -12,17 +12,13 @@ ANALISIS DE VIROLOGIA PECUARIA
 
 Tipos de Análisis
 
-PCR - Polymerase Valor
+PCR - Polymerase Chain Reaction Valor por
 
-Chain Reaction por
+para diagnóstico molecular análisis
 
-para diagnóstico análisis
+en UTM
 
-molecular en UTM
-
-1 PCR General
-
-Virus Acido
+1 PCR General Virus Acido
 
 Deoxyribonucleico
 
@@ -32,9 +28,7 @@ Virus DNA 0,9180
 
 3 RT PCR anidado 1,7582
 
-4 Enzimas de
-
-restricción 0,6407
+4 Enzimas de restricción 0,6407
 
 Técnica ELISA
 
@@ -42,149 +36,87 @@ Técnica ELISA
 
 6 Fiebre Aftosa AOC 0,0472
 
-7 Estomatitis
+7 Estomatitis Vesicular 0,0472
 
-Vesicular 0,0472
-
-8 Bronquitis
-
-Infecciosa Aviar 0,0639
+8 Bronquitis Infecciosa Aviar 0,0639
 
 9 Reovirus Aviar 0,0639
 
-10 Rinotraqueítis
+10 Rinotraqueítis del Pavo (TRT) 0,0786
 
-del Pavo (TRT) 0,0786
+11 Encefalomielitis Aviar (EMA) 0,0769
 
-11 Encefalomielitis
+12 Retículo endoteliosis en pollos
 
-Aviar (EMA) 0,0769
+(REV) 0,0769
 
-12 Retículo
+13 Anemia del pollo (CAV) 0,0769
 
-endoteliosis
+14 Mixomatosis del conejo 0,1004
 
-en pollos(REV) 0,0769
+15 Influenza Aviar 0,0583
 
-13 Anemia del pollo
+16 Leucosis Aviar Cepa J 0,0853
 
-(CAV) 0,0769
-
-14 Mixomatosis
-
-del conejo 0,1004
-
-15 Influenza
-
-Aviar 0,0583
-
-16 Leucosis Aviar
-
-Cepa J 0,0853
-
-17 Diarrea Viral
-
-Bovina (DVB)
+17 Diarrea Viral Bovina (DVB)
 
 Anticuerpo 0,1063
 
-18 Diarrea Viral
-
-Bovina (DVB)
+18 Diarrea Viral Bovina (DVB)
 
 Antígeno 0,1294
 
-19 Eliminado.
+19 Síndrome Respiratorio Reproductivo
 
-20 Leucosis
+Porcino (PRRS) 0,1210
 
-Enzoótica
+20 Leucosis Enzoótica Bovina 0,0727
 
-Bovina 0,0727
-
-21 TGE-
-
-Gastroenteritis
-
-Transmisible
+21 TGE-Gastroenteritis Transmisible
 
 Porcina 0,0967
 
-22 TGE-
+22 TGE-Coronavirus diferencial 0,1000
 
-Coronavirus
+23 Enfermedad de Aujeszky 0,0685
 
-diferencial 0,1000
-
-23 Enfermedad
-
-de Aujeszky 0,0685
-
-24 Peste Porcina
-
-Clásica (PPC)
+24 Peste Porcina Clásica (PPC)
 
 (Anticuerpo) 0,0937
 
-25 Peste Porcina
-
-Clásica (PPC)
+25 Peste Porcina Clásica (PPC)
 
 (Antígeno) 0,1592
 
 26 Lengua Azul 0,1175
 
-27 Maedi-Visna
+27 Maedi-Visna y CAE Monofásico 0,0776
 
-y CAE
-
-Monofásico 0,0776
-
-28 Maedi-Visna
-
-y CAE Bifásico 0,1398
+28 Maedi-Visna y CAE Bifásico 0,1398
 
 Análisis Virología Pecuaria
 
-Tipos de Análisis
+Valor por
 
-IDAG Valor
-
-(Inmunodifusión por
-
-en Agar) análisis
+Tipos de Análisis análisis
 
 en UTM
 
-29 Laringotraqueitis
+IDAG (Inmunodifusión en Agar)
 
-Aviar (LT) 0,1030
+29 Laringotraqueitis Aviar (LT) 0,1030
 
-30 Anemia
+30 Anemia Infecciosa Equina AIE 0,0718
 
-Infecciosa
+31 Leucosis Enzoótica Bovina 0,0438
 
-Equina AIE 0,0718
-
-31 Leucosis
-
-Enzoótica
-
-Bovina 0,0438
-
-32 Enfermedad
-
-Hemorrágica
-
-del venado
+32 Enfermedad Hemorrágica del venado
 
 (EEH) 0,1388
 
-33 Artritis
+33 Artritis y Encefalitis Caprina
 
-y Encefalitis
-
-Caprina (CAE) 0,1026
+(CAE) 0,1026
 
 34 Maedi-Visna 0,0925
 
@@ -194,45 +126,25 @@ Caprina (CAE) 0,1026
 
 37 Influenza Aviar 0,0438
 
-38 Mixomatosis
+38 Mixomatosis 0,1030
 
-IHA
+IHA (Inhibición de Hemoaglutinación)
 
-(Inhibición
+39 Influenza Equina (cepa A1 y A2) 0,0506
 
-de
+40 Síndrome caída de postura EDS 0,0506
 
-Hemoaglutinación) 0,1030
+41 Parainfluenza-3 PI-3 0,0509
 
-39 Influenza Equina
+42 Parvovirus Porcino 0,0509
 
-(cepa A1 y A2) 0,0506
-
-40 Síndrome caída
-
-de postura EDS 0,0506
-
-41 Parainfluenza-3
-
-PI-3 0,0509
-
-42 Parvovirus
-
-Porcino 0,0509
-
-43 Encefalomielitis
-
-Equina Cepa
+43 Encefalomielitis Equina Cepa
 
 Oeste 0,0755
 
-44 Encefalomielitis
+44 Encefalomielitis Equina Cepa Este 0,0755
 
-Equina Cepa Este 0,0755
-
-45 Encefalomielitis
-
-Equina Cepa
+45 Encefalomielitis Equina Cepa
 
 Venezuela 0,0755
 
@@ -244,171 +156,93 @@ ANALISIS DE VIROLOGIA PECUARIA
 
 Tipos de Análisis
 
-Técnica ELISA (si
+Técnica ELISA (si el usuario aporta
 
-el usuario aporta
+el KIT ELISA de Diagnóstico) UTM
 
-el KIT ELISA
-
-de Diagnóstico) UTM
-
-01 Bronquitis
-
-Infecciosa Aviar 0,041
+01 Bronquitis Infecciosa Aviar 0,041
 
 02 Reovirus Aviar 0,041
 
-03 Rinotraqueítis
+03 Rinotraqueítis del Pavo (TRT) 0,041
 
-del Pavo (TRT) 0,041
+04 Encefalomielitis Aviar (EMA) 0,041
 
-04 Encefalomielitis
+05 Retículo endoteliosis 0,041
 
-Aviar (EMA) 0,041
-
-05 Retículo
-
-endoteliosis 0,041
-
-06 Anemia del pollo
-
-(CAV) 0,041
+06 Anemia del pollo (CAV) 0,041
 
 07 Mixomatosis 0,041
 
 08 Influenza Aviar 0,022
 
-09 Leucosis Aviar
+09 Leucosis Aviar Cepa J 0,041
 
-Cepa J 0,041
+10 Diarrea Viral Bovina (DVB) Anticuerpo 0,041
 
-10 Diarrea Viral
+11 Diarrea Viral Bovina (DVB) Antígeno 0,041
 
-Bovina (DVB)
+12 Síndrome Respiratorio Reproductivo
 
-Anticuerpo 0,041
+Porcino 0,041
 
-11 Diarrea Viral
+13 Leucosis Enzoótica Bovina 0,041
 
-Bovina (DVB)
-
-Antígeno 0,041
-
-12 Eliminado.
-
-13 Leucosis
-
-Enzoótica
-
-Bovina 0,041
-
-14 TGE-
-
-Gastroenteritis
-
-Transmisible
+14 TGE-Gastroenteritis Transmisible
 
 Porcina 0,041
 
-15 TGE-Coronavirus
+15 TGE-Coronavirus diferencial 0,041
 
-diferencial 0,041
+16 Enfermedad de Aujeszky 0,041
 
-16 Enfermedad
-
-de Aujeszky 0,041
-
-17 Peste Porcina
-
-Clásica (PPC)
+17 Peste Porcina Clásica (PPC)
 
 (Anticuerpo) 0,041
 
-18 Peste Porcina
-
-Clásica (PPC)
+18 Peste Porcina Clásica (PPC)
 
 (Antígeno) 0,041
 
 19 Lengua Azul 0,041
 
-20 Maedi-Visna
+20 Maedi-Visna y CAE Monofásico 0,041
 
-y CAE Monofásico 0,041
+21 Maedi-Visna y CAE Bifásico 0,041
 
-21 Maedi-Visna
+IDAG Inmunodifusión en Agar (si el
 
-y CAE Bifásico 0,041
+usuario aporta el Antígeno y Antisuero)
 
-IDAG
+22 Anemia Infecciosa Equina (AIE) 0,043
 
-Inmunodifusión
+23 Leucosis Enzoótica Bovina (LEB) 0,043
 
-en Agar (si el
-
-usuario aporta
-
-el Antígeno y
-
-Antisuero)
-
-22 Anemia Infecciosa
-
-Equina (AIE) 0,043
-
-23 Leucosis Enzoótica
-
-Bovina (LEB) 0,043
-
-24 Enfermedad
-
-Hemorrágica
-
-del venado
+24 Enfermedad Hemorrágica del venado
 
 (EEH) 0,043
 
-25 Artritis y
-
-Encefalitis
-
-Caprina (CAE) 0,043
+25 Artritis y Encefalitis Caprina (CAE) 0,043
 
 26 Maedi-Visna 0,043
 
 27 Lengua Azul 0,043
 
-28 Laringotraqueitis
-
-Aviar 0,043
+28 Laringotraqueitis Aviar 0,043
 
 29 Mixomatosis 0,043
 
-30 Influenza Aviar
+30 Influenza Aviar 0,025
 
-IHA Inhibición de
+IHA Inhibición de Hemoaglutinación
 
-Hemoaglutinación
+(si el usuario aporta el Antígeno)
 
-(si el usuario
+31 Influenza Equina (cepa A1 y A2) 0,049
 
-aporta el
+32 Síndrome caída de postura EDS 0,049
 
-Antígeno) 0,025
-
-31 Influenza
-
-Equina (cepa A1
-
-y A2) 0,049
-
-32 Síndrome caída
-
-de postura EDS 0,049
-
-33 Parainfluenza-3
-
-PI-3 0,049
+33 Parainfluenza-3 PI-3 0,049
 
 34 Parvovirus Porcino 0,049
 
@@ -418,41 +252,25 @@ PI-3 0,049
 
 4.- Fíjase las siguientes tarifas a los análisis que practiquen los Laboratorios de Protección Pecuaria del Servicio Agrícola y Ganadero, a solicitud de terceros, que se indican a continuación:
 
-Inoculación de Huevos
-
-Embrionados Primer
+Inoculación de Huevos Embrionados Primer
 
 Pasaje (tórula) U.T.M. 0,287
 
-Inoculación de Huevos
-
-Embrionados Segundo
+Inoculación de Huevos Embrionados Segundo
 
 Pasaje (tórula) U.T.M. 0,231
 
-Inoculación de Huevos
+Inoculación de Huevos Embrionados Primer y
 
-Embrionados Primer y
+Segundo Pasaje (tórula) U.T.M. 0,520
 
-Segundo Pasaje
-
-(tórula) U.T.M. 0,520
-
-Inoculación de Huevos
-
-Embrionados Primer
+Inoculación de Huevos Embrionados Primer
 
 Pasaje (órgano) U.T.M. 0,267
 
-Pruebas
+Pruebas complementarias (Identificación) U.T.M. 0,171
 
-complementarias
-
-(Identificación) U.T.M. 0,171
-
-Pruebas complementarias
-
-(Patogenicidad) U.T.M. 3,051
+Pruebas complementarias (Patogenicidad) U.T.M. 3,051
 
 5.- ELIMINADO.
 
@@ -461,8 +279,6 @@ Pruebas complementarias
 7.- Derógase el decreto de Agricultura Nº 647, de 28 de diciembre de 2004.
 
 8.- El presente decreto regirá a contar de la fecha de su publicación en el Diario Oficial.
-
-> **Nota.** El número 3º del Decreto 7 Exento, Agricultura, publicado el 31.03.2022, deja sin efecto la tarifa establecida en el N° 30, "Anemia Infecciosa Equina AIE", del título "Análisis de Virología Pecuaria", del tipo de análisis "IDAG" (inmunodifusión en Agar), de la presente norma. Dicha tarifa deberá cobrarse como Anemia Infecciosa Equina por método IDAG, contenida en el N° 3 del cuadro contenido en el N° 1 de la citada norma.
 
 Anótese, comuníquese y publíquese.- Por orden del Presidente de la República, Jaime Campos Quiroga, Ministro de Agricultura.- Nicolás Eyzaguirre Guzmán, Ministro de Hacienda.
 
