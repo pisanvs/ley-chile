@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.573, de 26 de septiembre de 2012, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA LANDES S.A. para ampliar actividades pesqueras extractivas con la nave "Don Tito", en las áreas marítimas que a continuación se indican, donde podrá capturar, los siguientes recursos hidrobiológicos: a) En el área marítima de la V a X Regiones, por fuera del área de reserva artesanal, con cerco: Vinciguerria; b) En el área marítima de la V a X Regiones, por fuera de las 60 millas marinas, con arrastre de media agua: Vinciguerria.
+
+Valparaíso, 26 de septiembre de 2012.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
