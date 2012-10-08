@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.601, de 3 de octubre de 2012, de esta Subsecretaría, rectifícase la resolución exenta N° 1.491 de 2012 y de esta Subsecretaría de Pesca, que estableció la nómina definitiva de armadores artesanales y sus embarcaciones, que participaron de las pescas de investigación a que se refiere el artículo 3° de la ley N° 20.560, en el sentido de modificar sus numerales 1.-, 2.-, 5.-, 6.-, 7.-, 8.-, 9.-, 11.-. 12.- y 13.- de conformidad a lo indicado en resolución extractada.
+
+Valparaíso, 3 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
