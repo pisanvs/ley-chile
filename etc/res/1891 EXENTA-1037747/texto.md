@@ -24,31 +24,33 @@ El número de proyectos seleccionados en cada Región alcanzará hasta la cantid
 
 4. El postulante de un proyecto de ampliación del Título III, que considere la ejecución de un nuevo dormitorio destinado a acoger a un Adulto Mayor, será favorecido con 80 puntos adicionales en el cálculo de su puntaje, siempre que cumpla con las siguientes condiciones:
 
-a. La vivienda a ampliar no debe ser propiedad del
+a. La vivienda a ampliar no debe ser propiedad
 
-Adulto Mayor o de su cónyuge.
+del Adulto Mayor o de su cónyuge.
 
-b. Presentar carta compromiso del postulante y del
+b. Presentar carta compromiso del postulante y
 
-Adulto Mayor que habitará la vivienda, que indique
+del Adulto Mayor que habitará la vivienda, que
 
-que este último morará en ella. El Serviu se
+indique que este último morará en ella. El
 
-reserva el derecho de verificar el cumplimiento de
+Serviu se reserva el derecho de verificar el
 
-esta condición y en caso de no cumplir con este
+cumplimiento de esta condición y en caso de
 
-requisito y que la vivienda intervenida no cumpla
+no cumplir con este requisito y que la vivienda
 
-con las condiciones habitacionales mínimas
+intervenida no cumpla con las condiciones
 
-señaladas en el resuelvo 4.c. de la presente
+habitacionales mínimas señaladas en el resuelvo
 
-resolución, el beneficiario del subsidio deberá
+4.c. de la presente resolución, el beneficiario
 
-hacer devolución al Serviu respectivo del monto de
+del subsidio deberá hacer devolución al
 
-subsidio entregado para este proyecto.
+Serviu respectivo del monto de subsidio
+
+entregado para este proyecto.
 
 c. El proyecto de ampliación debe corresponder a un
 
@@ -62,51 +64,53 @@ del DS N° 255 (V. y U.), de 2006. El
 
 nuevo dormitorio ejecutado no tiene que ser
 
-necesariamente destinado al Adulto Mayor, pudiendo
+necesariamente destinado al Adulto Mayor,
 
-el postulante asignarle a éste otro dormitorio
+pudiendo el postulante asignarle a éste
 
-dentro de la vivienda, siempre que éste cumpla con
+otro dormitorio dentro de la vivienda, siempre
 
-las características de habitabilidad descritas en
+que éste cumpla con las características de
 
-el resuelvo 4.d. de la presente resolución, lo que
+habitabilidad descritas en el resuelvo 4.d.
 
-se deberá expresar en un plano de arquitectura y en
+de la presente resolución, lo que se deberá
+
+expresar en un plano de arquitectura y en
 
 la carta compromiso indicada en el punto 3.b.
 
 precedente.
 
-d. El dormitorio a construir deberá contar con el
+d. El dormitorio a construir deberá contar con
 
-metraje mínimo que permita que en él puedan
+el metraje mínimo que permita que en él puedan
 
 ubicarse dos camas, con 2 closet y además con el
 
-espacio suficiente para el desplazamiento dentro de
+espacio suficiente para el desplazamiento dentro
 
-éste, todo de acuerdo al cuadro normativo contenido
+de éste, todo de acuerdo al cuadro normativo
 
-en el DS N° 255 (V. y U.), de 2006. Si el Adulto
+contenido en el DS N° 255 (V. y U.), de 2006. Si
 
-Mayor tuviera algún grado de discapacidad, el
+el Adulto Mayor tuviera algún grado de
 
-recinto que lo acoja deberá contar con las
+discapacidad, el recinto que lo acoja deberá
 
-facilidades que le permitan habitarlo
+contar con las facilidades que le permitan
 
-adecuadamente. En estos casos, Serviu deberá
+habitarlo adecuadamente. En estos casos, Serviu
 
-verificar que la solución propuesta contemple las
+deberá verificar que la solución propuesta
 
-medidas necesarias para su uso según el tipo de
+contemple las medidas necesarias para su uso
 
-discapacidad.
+según el tipo de discapacidad.
 
-e. El Adulto Mayor debe estar considerado en la Ficha
+e. El Adulto Mayor debe estar considerado en la
 
-de Protección Social.
+Ficha de Protección Social.
 
 5. No podrán participar en este llamado aquellos proyectos referidos a la letra b.5) del Título II del artículo 5° del DS N° 255 (V. y U.), de 2006, relativos a Obras de Innovaciones de Eficiencia Energética.
 
@@ -117,6 +121,8 @@ de Protección Social.
 8. Los proyectos se deberán ingresar en las oficinas de partes del Serviu correspondiente a la Región en la que se postula, en sus Delegaciones Provinciales, o en otro lugar que el Serviu disponga, el que deberá ser debidamente publicitado.
 
 9. Mediante resoluciones del Ministro de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los postulantes seleccionados y los respectivos proyectos. La difusión de dichas nóminas se realizará por los Serviu en los términos previstos en el DS N° 255 (V. y U.), de 2006.
+
+> **Nota.** NOTA El numeral 1 de la Resolución 6891 Exenta, Vivienda, publicada el 30.08.2012, modifica la presente norma, en el sentido de sustituir la tabla inserta en el resuelvo 1º, no obstante, encontrarse el cuadro inserto en el resuelvo 3.
 
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
