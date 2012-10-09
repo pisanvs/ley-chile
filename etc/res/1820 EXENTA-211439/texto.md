@@ -832,6 +832,12 @@ El beneficio dispuesto en el inciso anterior podrá ser aplicable a procesos de 
 
 Durante el año 2009 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 30 de noviembre de 2009.
 
+#### Artículo 6º transitorio
+
+<!-- parte:9304378 -->
+
+Durante el año 2012 el proceso de selección de proyectos efectuado por las Secretarías Regionales Ministeriales de Vivienda y Urbanismo tendrá como fecha de cierre el día 30 de noviembre de 2012.
+
 Anótese, publíquese en el Diario Oficial y archívese.- Jaime Ravinet de la Fuente, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Héctor López Alvarado, Subsecretario de Vivienda y Urbanismo Subrogante.
