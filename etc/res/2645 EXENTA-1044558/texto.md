@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.645, de 4 de octubre de 2012, de esta Subsecretaría, recházanse las solicitudes Nº 211071026, 211071024, 211103074, 211101051, 210103035, 210103168, 210103049, 211101110, 210103159, 212081001 y 211105022, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 4 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
