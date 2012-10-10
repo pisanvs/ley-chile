@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.646, de 4 de octubre de 2012, de esta Subsecretaría, recházanse las solicitudes números 209121072, 211071023, 212022001, 208101175, 211071020, 211101016, 211071030, 210103181 y 212012002, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 4 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
