@@ -1,0 +1,3 @@
+Por resolución exentas Nº 1.634, de 14 de junio de 2012, de esta Subsecretaría, modifícase el numeral 3º de la resolución exenta Nº 107, de 2012, que autorizó a la UNIVERSIDAD DE MAGALLANES para efectuar una pesca de investigación de conformidad con los Términos Técnicos de Referencia del Proyecto denominado "Microsporidiosis en Centolla (Lithodes santolla). Evaluación de una amenaza a la pesquería de Magallanes", en el sentido de señalar que el estudio se extenderá hasta el 31 de agosto de 2012, inclusive.
+
+Valparaíso, 14 de junio de 2012.- Felipe Palacio Rives, Subsecretario de Pesca (S).
