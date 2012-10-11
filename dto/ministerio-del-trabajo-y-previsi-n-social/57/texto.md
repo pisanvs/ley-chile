@@ -32,7 +32,7 @@ Para todos los efectos de este Reglamento se entenderá por:
 
 "Aportes de Ahorro Previsional Voluntario Colectivo": aquéllos realizados por el trabajador y el empleador, de acuerdo a lo establecido en el párrafo 3 del Título III de la ley;
 
-"Depósitos Voluntarios": los montos destinados a ahorro por el afiliado, que se abonarán en la cuenta de Ahorro Voluntario que establece el artículo 21 de la Ley;
+"Depósitos de Ahorro Voluntario": los montos destinados a ahorro por los afiliados titulares de la Cuenta de Ahorro Voluntario a que se refiere el artículo 21 de la ley, los que serán abonados a dicha cuenta;
 
 "Cuentas Personales: todas aquellas cuentas que mantenga una persona en una o más Administradoras.
 
@@ -78,7 +78,7 @@ En caso de disolución de una Administradora por cualquier causa, sus afiliados 
 
 En el caso que un afiliado hubiese mantenido sus saldos en más de un Tipo de Fondo en liquidación, el liquidador los transferirá a la Administradora de la localidad que haya registrado la mayor rentabilidad en el Tipo de Fondo, en los dos años calendarios anteriores a la disolución, en que el afiliado mantenga la mayor proporción del saldo correspondiente a sus cotizaciones obligatorias. En todo caso, en dichas transferencias el liquidador deberá respetar la distribución que mantenía el afiliado entre los distintos Tipos de Fondos.
 
-Para la transferencia de los saldos de las cuentas personales de los trabajadores que sólo mantienen cotizaciones voluntarias, depósitos convenidos, depósitos de ahorro previsional voluntario del inciso primero del artículo 20 E de la ley, aportes de ahorro previsional voluntario colectivo del inciso primero del artículo 20 F de la ley o depósitos de la cuenta especial de ahorro de indemnización a que se refieren los artículos 5º, 6º, 7º, 8º y 9º de la ley Nº 19.010, deberán aplicarse los mismos criterios establecidos en los incisos sexto y séptimo de este artículo, considerando para efectos del inciso precedente el Tipo de Fondo en que el trabajador mantenga mayor cantidad de recursos.
+Para la transferencia de los saldos de las cuentas personales de los trabajadores que sólo mantienen cotizaciones voluntarias, depósitos convenidos, depósitos de ahorro previsional voluntario del inciso primero del artículo 20 E de la ley, aportes de ahorro previsional voluntario colectivo del inciso primero del artículo 20 F de la ley, depósitos de la cuenta especial de ahorro de indemnización a que se refieren los artículos 5º, 6º, 7º, 8º y 9º de la ley Nº 19.010 o depósitos de ahorro voluntario, deberán aplicarse los mismos criterios establecidos en los incisos sexto y séptimo de este artículo, considerando para efectos del inciso precedente el Tipo de Fondo en que el trabajador mantenga mayor cantidad de recursos.
 
 De acuerdo a lo dispuesto en el artículo 43 de la ley, durante el proceso de liquidación, el liquidador deberá determinar si la modalidad de las transferencias de saldos a otras Administradoras, se efectuará en dinero o bien, en instrumentos financieros. No obstante, en el caso de que el liquidador opte por realizar las transferencias con instrumentos, podrá traspasar dinero efectivo sólo para efectos de ajustar el saldo de las cuentas personales con los activos transferidos. Asimismo, el liquidador procurará que durante todo el proceso de liquidación la composición de las carteras de instrumentos que se traspasen a otras Administradoras, sea similar a la estructura de las carteras que mantenían los Fondos en liquidación en el día previo al inicio de ésta.
 
@@ -426,19 +426,19 @@ Los empleadres estarán obligados a cumplir con el cargo a que se refiere el inc
 
 Cesará esta obligación para el empleador, en cada uno de los meses en que proceda un pago de cotizaciones del trabajador a través de una entidad pagadora de subsidios, cualquiera sea el número de días de reposo total o parcial establecidos en la licencia médica. Las entidades pagadoras de subsidios se abstendrán de descontar suma alguna destinada a la cuenta de ahorro voluntario del trabajador.
 
-Tanto el trabajador dependiente como el independiente y el afiliado voluntario, podrán efectuar depósitos voluntarios directamente en la Administradora.
+Tanto el trabajador dependiente como el independiente y el afiliado voluntario, podrán efectuar depósitos voluntarios directamente en la o las Administradoras en que tengan una cuenta de ahorro voluntario.
 
 #### Artículo 14
 
 Una norma de carácter general de la Superintendencia establecerá el número máximo de retiros que podrán efectuar los afiliados titulares de cuentas de ahorro voluntario en cada año calendario, el que no podrá ser inferior a cuatro. Los traspasos de saldo a otra Administradora o a otro Tipo de Fondo, no se considerarán retiros para los efectos de este límite.
 
-El retiro se entenderá realizado por el sólo hecho de quedar a disposición del afiliado los fondos correspondientes.
+El retiro se entenderá realizado por el sólo hecho de quedar a disposición del afiliado titular los fondos correspondientes.
 
 #### Artículo 15
 
 Los fondos existentes en una cuenta de ahorro voluntario, podrán acreditarse como ahorro en dinero en los sistemas habitacionales que operan a través de los Servicios de Vivienda y Urbanización, para lo que las Administradoras y afiliados deberán atenerse a lo dispuesto por este reglamento y a las normas que imparta la Superintendencia.
 
-Los afiliados deberán suscribir un contrato de ahorro con la Administradora, el que indicará el monto total mínimo de ahorro al cual se comprometen, el plazo en que éste se enterará, expresado en meses calendario, el saldo medio semestral mínimo que deberá mantenerse en la cuenta, y demás estipulaciones, conforme lo determine la Superintendencia. Dicho contrato podrá modificarse por una sola vez a petición del interesado, sin perjuicio de otras modalidades que se establezcan en el futuro, por la Superintendencia.
+Los afiliados titulares deberán suscribir un contrato de ahorro con la Administradora, el que indicará el monto total mínimo de ahorro al cual se comprometen, el plazo en que éste se enterará, expresado en meses calendario, el saldo medio semestral mínimo que deberá mantenerse en la cuenta, y demás estipulaciones, conforme lo determine la Superintendencia. Dicho contrato podrá modificarse por una sola vez a petición del interesado, sin perjuicio de otras modalidades que se establezcan en el futuro, por la Superintendencia.
 
 #### Artículo 16
 
@@ -1168,11 +1168,11 @@ Los afiliados al sistema cuya invalidez se hubiere producido antes de la fecha d
 
 #### Artículo 87
 
-Si el afiliado hubiere sido imponente de alguna institución de previsión, podrá disponer del saldo de su cuenta de capitalización individual para constituir una pensión en alguna de las modalidades que la Ley señala, componiéndose en este caso el saldo de esa cuenta por el capital acumulado por el afiliado, las cotizaciones voluntarias , aportes de ahorro previsional voluntario colectivo y depósitos convenidos, destinados al financiamiento de la pensión, el Bono de Reconocimiento y su complemento, cuando corresponda, el aporte adicional a que se refiere el artículo 3° de la Ley N° 18.753 y los traspasos que el afiliado realice desde su cuenta de ahorro voluntario.
+Si el afiliado hubiere sido imponente de alguna institución de previsión, podrá disponer del saldo de su cuenta de capitalización individual para constituir una pensión en alguna de las modalidades que la Ley señala, componiéndose en este caso el saldo de esa cuenta por el capital acumulado por el afiliado, las cotizaciones voluntarias , aportes de ahorro previsional voluntario colectivo y depósitos convenidos, destinados al financiamiento de la pensión, el Bono de Reconocimiento y su complemento, cuando corresponda, el aporte adicional a que se refiere el artículo 3° de la Ley N° 18.753 y los traspasos que el afiliado realice desde sus cuentas de ahorro voluntario.
 
 #### Artículo 88
 
-Si el afiliado no hubiere sido imponente de alguna institución de previsión o no tuviere derecho al aporte adicional señalado en el artículo anterior, podrá disponer de su cuenta de capitalización individual para constituir una pensión en alguna de las modalidades que la Ley señala, componiéndose el saldo de esa cuenta por el capital acumulado por el afiliado, las cotizaciones voluntarias, los aportes de ahorro previsional voluntario colectivo y depósitos convenidos, destinados al financiamiento de la pensión y los traspasos que éste realice desde su cuenta de ahorro voluntario, más el Bono de Reconocimiento y su complemento, en su caso.
+Si el afiliado no hubiere sido imponente de alguna institución de previsión o no tuviere derecho al aporte adicional señalado en el artículo anterior, podrá disponer de su cuenta de capitalización individual para constituir una pensión en alguna de las modalidades que la Ley señala, componiéndose el saldo de esa cuenta por el capital acumulado por el afiliado, las cotizaciones voluntarias, los aportes de ahorro previsional voluntario colectivo y depósitos convenidos, destinados al financiamiento de la pensión y los traspasos que éste realice desde sus cuentas de ahorro voluntario, más el Bono de Reconocimiento y su complemento, en su caso.
 
 #### Artículo 89
 
