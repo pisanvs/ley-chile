@@ -220,7 +220,7 @@ Código Civil, propietarios de
 
 hasta dos embarcaciones artesanales.
 
-Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal.
+Para efectos de determinar la limitación de titularidad de embarcaciones artesanales, se considerará la calidad de socio que revista la persona natural en cualquier persona jurídica o comunidad que, a su vez, tenga la calidad de armador artesanal. Sin perjuicio de lo anterior, no se considerará para efectos de establecer la limitación antes señalada, hasta una embarcación que sea de titularidad de una organización de pescadores artesanales, respecto de la cual el armador artesanal cuando sea persona natural, tenga la calidad de socio o comunero. Lo antes señalado sólo será posible en la medida que el recurso hidrobiológico como especie objetivo lo permita.
 
 En el caso que el armador sea una comunidad, deberá estar integrada sólo por pescadores artesanales, existiendo siempre responsabilidad solidaria entre todos ellos para el pago de las patentes y de las multas que se deriven de las sanciones pecuniarias impuestas de acuerdo con esta ley, según corresponda.
 
@@ -1525,6 +1525,18 @@ El reemplazo no operará respecto de la categoría de recolector de orilla, algu
 > **Nota.** NOTA 2: El artículo único de la LEY 20049, publicada el 06.09.2005, suspende la vigencia del presente artículo, hasta el 30 de Abril del año 2006 inclusive. Asimismo, se suspende por el mismo plazo la tramitación de las solicitudes de reemplazo, presentadas desde la fecha de publicación de la ley 19849, efectuada el día 26 de diciembre de 2002, hasta la publicación de la ley 20049.
 
 > **Nota.** NOTA 3: El artículo único de la LEY 20106, publicada el 29.04.2006, suspende la vigencia del presente artículo, hasta el 30 de Abril del año 2007 inclusive. Asimismo, se suspende por el mismo plazo la tramitación de las solicitudes de reemplazo, presentadas desde la fecha de publicación de la ley 19849, efectuada el día 26 de diciembre de 2002, hasta la publicación de la ley 20106.
+
+#### Artículo 50
+
+C.- Dos o más pescadores artesanales de la Región XI de Aysén del General Carlos Ibáñez del Campo podrán constituir una organización de pescadores artesanales de conformidad con la normativa vigente, a la que podrán aportar hasta dos embarcaciones artesanales de las que alguno de ellos sea titular.
+
+Los aportes se inscribirán en el Servicio correspondiente, quedando sin efecto para el aportante la inscripción original de la categoría de armador respectiva, conservando el resto de sus categorías.
+
+En el caso que el armador que realiza el aporte sea titular de dos embarcaciones mantendrá la inscripción en la embarcación que no sea objeto del aporte, conservando además el resto de sus categorías.
+
+Para todos los efectos legales la organización será continuadora del o los armadores artesanales que efectúen el respectivo aporte.
+
+Lo antes señalado sólo será posible en la medida que el recurso hidrobiológico como especie objetivo lo permita.
 
 ### Párrafo 2°
 
