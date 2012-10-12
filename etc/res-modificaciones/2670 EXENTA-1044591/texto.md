@@ -1,0 +1,11 @@
+MODIFICA RESOLUCIÓN Nº 522 EXENTA, DE 2012, QUE ESTABLECIÓ DISTRIBUCIÓN DE LA FRACCIÓN ARTESANAL DE PESQUERÍA DE ANCHOVETA Y SARDINA COMÚN EN LA VII REGIÓN
+
+Por resolución exenta Nº2.670 de 8 de octubre de 2012, de esta Subsecretaría, modifícase la resolución exenta Nº 522, de 2012, de esta Subsecretaría, que estableció la distribución de las fracciones artesanales de las pesquerías artesanales de Anchoveta y sardina común en la VII Región, sometidas al Régimen Artesanal de Extracción por organizaciones de pescadores artesanales, en el sentido de incorporar el siguiente numeral 6°, nuevo:
+
+"6°.- Fíjase el día 5 de noviembre de 2012, inclusive, como plazo fatal para que todas las organizaciones de pescadores artesanales sometidas al Régimen Artesanal de Extracción establecido mediante decreto exento Nº 191 de 2012, del Ministerio de Economía, Fomento y Turismo, comuniquen por escrito a esta Subsecretaría las variaciones o modificaciones que en el número de pescadores o embarcaciones experimentarán para el año 2013.
+
+Para tales efectos, las organizaciones de pescadores artesanales antes indicadas deberán remitir una carta firmada por la directiva respectiva, adjuntando el listado oficial de los afiliados inscritos y de sus embarcaciones, en caso de los armadores, que participarán por la respectiva organización en el Régimen para el año 2013.
+
+Asimismo, y dentro del mismo plazo indicado en el inciso primero del presente numeral, las organizaciones de pescadores artesanales que no se encuentren sometidas al Régimen y que desearen incorporarse al mismo deberán comunicar por escrito a la Subsecretaría su intención en tal sentido, mediante carta firmada por la directiva respectiva y adjuntando al efecto todos los antecedentes a que se refieren las artículos 7 inciso 2° y 9 del DS Nº 296, de 2004, modificado mediante DS Nº 223, de 2010, antes individualizados.".
+
+Valparaíso, 8 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
