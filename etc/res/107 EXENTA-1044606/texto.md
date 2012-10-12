@@ -1,0 +1,5 @@
+AUTORIZA A INSTITUCIONES SIN FINES DE LUCRO COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 107, de 9 de octubre de 2012, que autoriza a las instituciones sin fines de lucro Fundación Sueños en Red, Rol Único Tributario Nº 65.028.778-9; Gesta Fundación Marista por la Solidaridad, Rol Único Tributario Nº 74.009.700-8; Jardín Centro Infantil Nuestra Señora de la Victoria, Rol Único Tributario Nº 65.442.660-0; World Visión Internacional, Rol Único Tributario Nº 70.689.300-8, y a la Organización No Gubernamental de Desarrollo Pather Nostrum, Rol Único Tributario Nº 65.879.820-0, como receptora en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en octubre de 2012.
