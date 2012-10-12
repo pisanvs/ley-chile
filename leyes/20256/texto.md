@@ -88,9 +88,29 @@ Licencia de pesca recreativa. Toda persona natural, nacional o extranjera, que r
 
 La licencia de pesca recreativa será personal e intransferible, deberá portarse durante la práctica de la actividad y el transporte de especies capturadas, y exhibirse junto con la cédula de identidad o pasaporte, según corresponda, a los fiscalizadores de la presente ley, cuando lo requieran.
 
-La licencia habilitará para realizar actividades de pesca recreativa en cualquier curso o cuerpo de agua fluvial, lacustre o marítimo, sin perjuicio de lo dispuesto en el Título IV de la presente ley, y tendrá una vigencia anual. El monto de los derechos para la licencia de pesca recreativa será de 0,7 unidades de fomento para nacionales y extranjeros residentes y 1,5 unidades de fomento para turistas extranjeros.
+Para los nacionales y extranjeros residentes el valor de la licencia de pesca recreativa, sin perjuicio de lo dispuesto en el Título IV de la presente ley, será de:
 
-Quedarán exentos del pago de derechos, pero no del porte de la licencia, los nacionales y extranjeros residentes con discapacidad física o mental que se encuentren inscritos en el registro a que se refiere el artículo 12 de la ley Nº 19.284, los mayores de 65 años y los menores de 12 años.
+a) 0,2 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas marítimas del país y tendrá una vigencia de un año.
+
+b) 0,3 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas continentales del país y tendrá una vigencia de un año.
+
+c) 0,4 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas marítimas y continentales del país y tendrá una vigencia de un año.
+
+d) 0,1 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas continentales del país y tendrá una vigencia de una semana.
+
+e) 0,2 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas continentales del país y tendrá una vigencia de un mes.
+
+Para los turistas extranjeros el valor de la licencia de pesca recreativa, sin perjuicio de lo dispuesto en el Título IV de la presente ley, será de:
+
+a) 0,5 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas marítimas y continentales del país y tendrá una vigencia de una semana.
+
+b) 1,0 unidad de fomento para realizar actividades de pesca recreativa en todas las aguas marítimas y continentales del país y tendrá una vigencia de un mes.
+
+c) 1,5 unidades de fomento para realizar actividades de pesca recreativa en todas las aguas marítimas y continentales del país y tendrá una vigencia de un año.
+
+Para los efectos de determinar el valor de la licencia se utilizará el valor de la unidad de fomento correspondiente al último día del año anterior del que se obtenga, ajustada al ciento superior.
+
+Quedarán exentos de la obligación de obtención de la licencia a que se refiere este artículo para realizar las actividades de pesca recreativa o pesca submarina y del pago de derechos, los nacionales y extranjeros residentes con discapacidad física o mental que se encuentren inscritos en el registro a que se refiere el artículo 55 de la ley N° 20.422, los mayores de 65 años y los menores de 12 años.
 
 El Servicio deberá proporcionar al interesado, junto con la licencia de pesca recreativa, información sobre las medidas de administración vigentes que regulan la actividad. Deberá también mantener una base de datos de las licencias que ha entregado, la que será de acceso público.
 
@@ -132,7 +152,7 @@ Medidas de administración acordadas con países vecinos, en cuerpos y cursos de
 
 #### Artículo 10
 
-De los campeonatos de pesca. Los campeonatos de pesca, incluida la pesca submarina, se regirán por sus respectivas bases, las que deberán ser comunicadas previamente al Director Regional del Servicio que corresponda y en ningún caso podrán contravenir las medidas de administración vigentes.
+De los campeonatos de pesca. Los campeonatos de pesca, incluida la pesca submarina, se regirán por sus respectivas bases, las que deberán ser autorizadas previamente por el Director Regional del Servicio que corresponda, dentro del plazo de 10 días contado desde su presentación, y en ningún caso podrán contravenir las medidas de administración vigentes.
 
 En todo caso, los participantes en campeonatos de pesca deberán dar cumplimiento a las condiciones generales establecidas en el Título II de la presente ley y sin perjuicio de las demás autorizaciones que corresponda otorgar a otros organismos en el ámbito de su competencia.
 
@@ -594,9 +614,11 @@ Inspectores municipales y guardaparques. Los inspectores municipales y guardapar
 
 Infracciones menos graves. Son infracciones menos graves los siguientes hechos:
 
-a) No inscribir el coto de pesca en el registro a que se refiere el artículo 35, y
+a) Realizar actividades de pesca recreativa o pesca submarina sin portar la licencia obtenida de conformidad con el artículo 6°, debiendo portarla;
 
-b) Contravenir las prohibiciones o limitaciones establecidas para actividades distintas de la pesca recreativa en el plan de manejo de un área preferencial.
+b) No inscribir el coto de pesca en el registro a que se refiere el artículo 35, y
+
+c) Contravenir las prohibiciones o limitaciones establecidas para actividades distintas de la pesca recreativa en el plan de manejo de un área preferencial.
 
 #### Artículo 49
 
@@ -761,6 +783,10 @@ Los traspasos de personal que se dispongan en conformidad a este artículo no se
 La aplicación de lo dispuesto en el presente artículo no podrá significar pérdida del empleo, disminución de remuneraciones ni modificación de los derechos previsionales de los funcionarios traspasados. Cualquier diferencia de remuneraciones se pagará por planilla suplementaria, la que se absorberá por los futuros mejoramientos que correspondan a los funcionarios, excepto los derivados de los reajustes generales que se otorguen a los trabajadores del sector público. Esta planilla mantendrá la misma imponibilidad que la de las remuneraciones contempladas en ella.
 
 Los funcionarios traspasados conservarán el número de bienios que tengan reconocidos, como también el tiempo computable para uno nuevo. Para efectos del incremento por desempeño individual del artículo 7° de la Ley N° 19.553 que les corresponda percibir en la Subsecretaría de Pesca durante el año en que tenga lugar el traslado, conservarán el porcentaje que determinaron las últimas calificaciones ejecutoriadas a que estuvieron afectos en el Servicio Nacional de Pesca.
+
+#### Artículo 61
+
+Corresponderá al Subsecretario de Pesca el ejercicio de todas aquellas facultades que la presente ley confiere al Director Zonal de Pesca respectivo y que deban tener vigencia y,o aplicación en la Región Metropolitana de Santiago.
 
 Disposiciones Transitorias
 
