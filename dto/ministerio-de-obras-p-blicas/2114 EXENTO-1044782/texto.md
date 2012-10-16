@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº2114, de 28 de septiembre de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº24, superficie 518 m2., Rol Nº5680-3, para la obra "REPOSICIÓN RUTA 215-CH, BIFURCACIÓN AEROPUERTO CARLOS HOTT – CRUCE LAS LUMAS, DESDE EL KM. 3,99292 AL KM. 21,80000", Provincia y Comuna de Osorno, Región de Los Lagos. La comisión de peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 8 de abril de 2011, acordándose la indemnización con su propietario EUGENIO PATRICIO MONSALVE HIDALGO, en la cantidad de $3.550.671, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
