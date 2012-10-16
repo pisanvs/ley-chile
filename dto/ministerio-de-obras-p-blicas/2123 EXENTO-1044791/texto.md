@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2123, de fecha 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 878 M2, rol Nº62-321, para la obra "CAMINO PUENTE TUCAPEL POR PICHIPEHUENCO, SECTOR ACCESO A PUENTE LOLÉN TRAMO KM. 132,69162 A KM. 132,96280", Comuna de Lonquimay, IX Región. La Comisión de Peritos integrada por Enedina del Carmen Cid Ramírez, María Soledad Núñez Arroyo y Evaldo Roberto Contreras Roa, fijó el valor de tasación con fecha 11 de mayo de 2011, acordándose la indemnización con sus propietarios RAMÓN ISIDRO HERMOSILLA FUENTES Y OTROS, en la cantidad de $17.523.132.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
