@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2121, de fecha 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº28, superficie 3.158 m2, rol Nº2114-28, para la obra "MEJORAMIENTO RUTA V-815, TRAMO BIF. ILQUE – CRUCE RUTA V-85", Comuna de Puerto Montt, X Región. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietario OLIVIO ASIN SAYEG GÓMEZ, en la cantidad de $3.868.830, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
