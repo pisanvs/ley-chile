@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2186, de 28 de septiembre de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropió el lote de terreno Nº228, superficie 891 m2., Rol de avalúo 3564-5, para la obra, "MEJORAMIENTO RUTA F-50, SECTOR LO OROZCO – QUILPUÉ, TRAMO 3: KM. 17,57835 A KM. 29,49799", Comuna de Quilpué, V Región. La Comisión de Peritos integrada por Juan Pablo Navarro Rachow, Antonio Díaz Rozas y Claudia Arellano Gómez, fijó el valor de la tasación con fecha 19 de marzo de 2011, acordándose la indemnización con su propietario JAVIER LUCIANO MARGAS LOYOLA, en la cantidad de $23.696.608.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
