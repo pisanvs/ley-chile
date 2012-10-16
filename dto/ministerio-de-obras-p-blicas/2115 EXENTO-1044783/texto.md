@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2115, de 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 1, 2 y 3, superficies 3.312, 197 y 139 m2., Rol Nº178-5, para la obra "MEJORAMIENTO RUTA P-40, SECTOR QUIAPO – MILLONHUE, PROV. DE ARAUCO", Comuna de Arauco, Región de Bío Bío. La comisión de peritos, integrada por Valeska Carolina Ale Goñi, Roxana Cecilia Abarzúa Gajardo y Adriana Katherina Fasce Casanueva, fijó el valor de tasación con fecha 09 de enero de 2012, acordándose la indemnización con sus propietarios ANDREA PATRICIA GONZÁLEZ GARCIA Y OTRO, en la cantidad de $1.685.177, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
