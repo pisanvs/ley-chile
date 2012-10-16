@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2129, de fecha 28 de septiembre de 2012, de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº18-1, superficie 1.088 m2, rol Nº250-335, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA – QUELÉN BAJO", Comuna de Salamanca, IV Región. La comisión de peritos integrada por Víctor Vargas Reyes, Elisa Tapia Fernández y Juan Ibañez Palma, fijó el valor de tasación con fecha 12 de diciembre de 2011, acordándose la indemnización con su propietario WILDO ENRIQUE SALINAS CAMPOS, en la cantidad de $10.036.124.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
