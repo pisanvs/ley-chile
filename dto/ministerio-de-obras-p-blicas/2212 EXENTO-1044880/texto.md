@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2212, de fecha 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº62, superficie 751 m2, rol Nº2237-105, para la obra "CAMINO REPOSICIÓN RUTA 215-CH, SECTOR BIF. AEROPUERTO CARLOS HOTT – CRUCE LAS LUMAS, TRAMO KM. 3,99292 AL KM. 21,80000", Comuna y Provincia de Osorno, X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 15 de mayo de 2011, acordándose la indemnización con su propietaria NOEMI EDILIA RODRÍGUEZ FRIAS, en la cantidad de $4.675.762, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
