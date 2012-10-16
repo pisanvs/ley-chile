@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2211 de 28 de septiembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº3, superficie 9.857 m2, rol de Avalúo Nº101-4, comuna de Los Sauces, para la obra "PROYECTO REPOSICIÓN RUTA R-86, CAMINO LOS SAUCES – HUEQUÉN, TRAMO KM. 63,70000 A KM. 89,0000". La Comisión de peritos, integrada por MARÍA SOLEDAD NUÑEZ ARROYO, YASCHALA MARIBEL YAÑEZ RIFFO Y PATRICIO FERNANDO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 4 de octubre de 2007, acordándose la indemnización con su propietaria SOCIEDAD AGRÍCOLA CAVALLIERI LIMITADA, en la cantidad de $34.420.209.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
