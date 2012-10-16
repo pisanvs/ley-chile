@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2118 de 28 de septiembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 1.133 m2, rol de Avalúo Nº113-15, comuna de Coihueco, para la obra "CONSTRUCCIÓN PASARELA VEGUILLAS, COMUNAS SAN FABIÁN - COIHUECO", VIII Región. La Comisión de peritos, integrada por ADRIANA FASCE CASANUEVA, ROXANA CECILIA ABARZÚA GAJARDO Y FRANCISCO JOSÉ LAMA VERGARA, fijó el valor de tasación con fecha 28 de diciembre de 2011, acordándose la indemnización con su propietario don MIGUEL ARTURO GONZÁLEZ GONZÁLEZ, en la cantidad de $1.813.613.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
