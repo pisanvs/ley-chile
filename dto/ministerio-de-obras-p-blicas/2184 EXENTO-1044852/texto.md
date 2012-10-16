@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2184 de 28 de septiembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº13-A, superficie 58 m2, rol de Avalúo Nº2229-19, comuna de Osorno, para la obra "HABILITACIÓN A ACCESO NORTE A OSORNO, SECTOR CAMINO PILAUCO, CALLE LUIS CRUZ MARTÍNEZ, AV. HEROES DE LA CONCEPCIÓN Y RUTA U-16". La Comisión de peritos, integrada por LEOPOLDO RAMÓN SCHUMACHER GUARDA, CHRISTIAN EMIL RAUCH YÁÑEZ Y JUAN SAMUEL BARRIENTOS BAHAMONDE, fijó el valor de tasación con fecha 14 de diciembre de 2011, acordándose la indemnización con su propietario don LIONEL GONZALO RETAMAL MEIER, en la cantidad de $2.166.618.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
