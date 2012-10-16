@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2187 de 28 de septiembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos N°s. 33 y 33-A, superficies 865 y 63 m2, rol de Avalúo Nº158-264, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO – LAS GAVIOTAS, TRAMO KM. 65,58046 A KM. 72,78493". La Comisión de peritos, integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, LEOPOLDO RAMÓN SCHUMACHER GUARDA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 15 de marzo de 2007, acordándose la indemnización con su propietario CARLOS RODOLFO ULLRICH DUNNER, en la cantidad de $2.053.142.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
