@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2185, de fecha 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº39, superficie 738 m2, rol Nº2116-16, para la obra "MEJORAMIENTO RUTA V-815, TRAMO BIF. ILQUE – CRUCE RUTA V-85", Comuna de Puerto Montt, X Región. La Comisión de Peritos integrada por Nelson Bernardo Turra Turra, Christian Emil Rauch Yáñez y Nelson Fabián Igor Flores, fijó el valor de tasación con fecha 5 de diciembre de 2011, acordándose la indemnización con su propietario JOSÉ AUGUSTO OYARZÚN PROSCHLE, en la cantidad de $1.280.970, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
