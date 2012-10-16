@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2111 de 28 de septiembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 152 m2, rol de Avalúo Nº1150-43, comuna de Arauco, para la obra "REPOSICIÓN PUENTE CONUMO Y ACCESOS EN RUTA P-24, PROVINCIA DE ARAUCO", VIII Región. La Comisión de peritos, integrada por Roxana Cecilia Abarzúa Gajardo, Consuelo Loreto Zuloaga Sanhueza y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 14 de febrero de 2012, acordándose la indemnización con su propietario don BELARMINO RAÚL RIVAS MEDINA, en la cantidad de $2.847.888.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
