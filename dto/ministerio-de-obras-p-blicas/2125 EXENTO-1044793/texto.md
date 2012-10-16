@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2125 de 28 de septiembre de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº4-A, superficie 94 m2, rol de Avalúo 434-159, comuna de Illapel, para la obra "EMBALSE EL BATO CANAL NUEVO COCINERA FAJA ADICIONAL ENTREGA KM. 17,902", IV Región. La Comisión de Peritos integrada por PATRICIO FERNANDO CASAGRANDE ULLOA, NORMAN ESTANISLAO CALDERÓN PONTIGGIA Y MIGUEL JUAN FERNÁNDEZ CÁDIZ, fijó el valor de tasación con fecha 26 de marzo de 2012, acordándose el valor de la indemnización con su propietario, ESMILDO DEL ROSARIO CÉSPED RAMOS, en la cantidad de $37.656.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
