@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2113, de fecha 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº311, superficie 106 m2, rol Nº2117-115, para la obra "CONCESIÓN RUTA 5. TRAMO PUERTO MONTT – PARGUA. TRAMO 1: PUERTO MONTT – CALBUCO. SUBTRAMO 3A", Comuna de Puerto Montt, Provincia de Llanquihue, Región de Los Lagos. La Comisión de Peritos integrada por Camilo José Jara Bravo, Verónica Paz Olivier Valdebenito y Marlene Teresa Ríos Marcuello, fijó el valor de tasación con fecha 7 de junio de 2011, acordándose la indemnización con su propietaria NORA DEL CARMEN VARGAS PACHECO, en la cantidad de $691.486, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
