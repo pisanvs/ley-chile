@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2209 de 28 de septiembre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 29 m2, rol de Avalúo Nº189-3, comuna de Hualqui, para la obra "REPOSICIÓN INFRAESTRUCTURA VIAL RUTA O-60, CHIGUAYANTE – HUALQUI PROV. DE CONCEPCIÓN", VIII Región. La Comisión de peritos, integrada por María Pamela Mac-Guire Acevedo, Roxana Cecilia Abarzúa Gajardo y Consuelo Loreto Zuloaga Sanhueza, fijó el valor de tasación con fecha 1 diciembre de 2011, acordándose la indemnización con su propietaria CORPORACIÓN IGLESIA DE LOS ADVENTISTAS DEL SÉPTIMO DÍA, en la cantidad de $1.400.909.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
