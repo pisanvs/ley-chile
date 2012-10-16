@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº1938, de 31 de agosto de 2012, se dejó sin efecto los numerales 3º, 4º, 5º y 6º, del Decreto Exento MOP. Nº520, de 30 de junio de 2004, en la parte que se refiere al Convenio Directo de Precio Ad-Referéndum, a la suscripción de la escritura de expropiación y en lo que respecta a la indemnización del lote de terreno Nº32, expropiado con motivo de la obra "Pavimentación Ruta 7, sector Cruce Ruta 7-Ruta X-50-Villa Mañihuales – Pedregoso Km. 27.900 a Km. 53.120". Consígnese judicialmente el monto provisional de la indemnización fijado mediante tasación de 25 de octubre de 2001, en la suma de $5.670.000.-
+
+Fiscal del Ministerio de Obras Públicas.
