@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2210, de 28 de septiembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº27, superficie 1.196 m2., Rol Nº524-89, para la obra "MEJORAMIENTO CAMINO COSTERO S: TIRÚA – LÍMITE REGIONAL", Comuna de Tirúa, Región de Bío Bío. La comisión de peritos, integrada por Alejandra Figueroa Giralt, Claudio Castro Gutiérrez y Juan Tepper Lavanderos, fijó el valor de tasación con fecha 10 de septiembre de 2010, acordándose la indemnización con su propietario HILARIO LINCOPI YAUPI, en la cantidad de $1.987.141, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
