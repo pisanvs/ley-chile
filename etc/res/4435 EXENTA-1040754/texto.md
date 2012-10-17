@@ -32,7 +32,7 @@ Resolución:
 
 4.- Exímese del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS Nº 255 (V. y U.), de 2006, referido a la publicación del llamado en el Diario Oficial con 30 días de anterioridad a la fecha del inicio del proceso de selección.
 
-5.- Los recursos asignados para la selección de los proyectos que postulen a los concursos a que se refiere el resuelvo 1 de esta resolución, corresponden a un monto total de 45.750 unidades de fomento distribuidas por región de acuerdo al siguiente cuadro:
+5.- Los recursos asignados para la selección de los proyectos que postulen a los concursos a que se refiere el resuelvo 1 de esta resolución, corresponden a un monto total de 56.468 unidades de fomento distribuidas por región de acuerdo al siguiente cuadro:
 
 .
 
