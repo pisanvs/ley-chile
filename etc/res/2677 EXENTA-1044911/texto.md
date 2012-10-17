@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.677, de 9 de octubre de 2012, de esta Subsecretaría, autorízase a MARCELINO GONZÁLEZ SILVA, para ampliar actividades pesqueras extractivas con la nave "Berta" en las áreas marítimas que a continuación se indican, donde podrá capturar los siguientes recursos hidrobiológicos: a) En el área marítima de la IV a IX Regiones, por fuera del área de reserva artesanal, con arrastre: Pejerrata y Vinciguerria. b) En el área marítima correspondiente a la IV Región, por fuera del área de reserva artesanal, con arrastre: Cachurreta o Barrilete.
+
+Valparaíso, 9 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
