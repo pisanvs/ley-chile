@@ -12,13 +12,11 @@ La distribución nacional de los envíos postales Courier, Encomienda Estándar 
 
 No pudiéndose practicar el primer intento por alguna incidencia en la entrega, se deberá distinguir si ella es terminal o no terminal.
 
-a. Incidencia Terminal: Contingencia que impide la entrega de un envío cuyo origen se relaciona con la dirección de destino o con la persona del destinatario y que son susceptibles de superar con nuevas instrucciones o parámetros entregados por el remitente o información complementaria entregada por el destinatario. Entre otras se contempla: cambio de domicilio, dirección insuficiente, dirección incorrecta, destinatario desconocido en la dirección destino, número de dirección inexistente, destinatario fallecido, envío rehusado, entre otras.
+a. Incidencia Terminal: Contingencia que impide la entrega de un envío cuyo origen se relaciona con la dirección de destino o con la persona del destinatario y que son susceptibles de superar con nuevas instrucciones o parámetros entregados por el remitente o información complementaria entregada por el destinatario. Entre otras se contempla: cambio de domicilio, dirección insuficiente, dirección incorrecta, destinatario desconocido en la dirección de destino, número de dirección inexistente, destinatario fallecido, envío rehusado, plazo cumplido, entre otras.
 
-Procedimiento en caso de incidencia Terminal
+Procedimiento en caso de incidencia terminal
 
-La Empresa de Correos de Chile tomará contacto con el remitente y/o el destinatario para generar una nueva instrucción de entrega o complementar la información de entrega existente. Una vez establecido el contacto con el remitente y/o destinatario, éste tendrá 1 día hábil para generar una nueva instrucción de entrega o complementar la información de entrega existente, según corresponda, debiendo explicitarla vía telefónica o correo electrónico. Si dicha instrucción no se explicita o bien no se logra realizar el contacto, la Empresa de Correos de Chile procederá a devolver el envío al remitente.
-
-Recibida la información del remitente y/o destinatario, se ingresará al sistema y se procederá a ejecutarla.
+La Empresa de Correos de Chile, a través del Servicio al Cliente, tomará contacto con el remitente y/o destinatario para generar una nueva instrucción de entrega o complementar la información de entrega existente, dentro de 4 días hábiles contados desde que el envío fue trasladado a la bodega de la empresa, después del intento de entrega fallido. Una vez establecido el contacto con el remitente o destinatario, éste tendrá 1 día hábil para generar una nueva instrucción de entrega o complementar la información de entrega existente, según corresponda, debiendo explicitarla vía telefónica o correo electrónico. Si dicha instrucción no se explicita o bien no se logra contacto con el remitente, la Empresa de Correos de Chile procederá a devolver el envío al remitente. Recibida la información del remitente y/o destinatario, se ingresará al sistema y se procederá a ejecutarla.
 
 b. Incidencias no Terminales: Cualquier otra contingencia que impide la entrega de un envío cuyo origen no se relaciona con la dirección de destino o con la persona del destinatario. Entre otras se contempla: No existen personas que reciban el envío en la dirección de destino, oficina cerrada, otras que no requieran de nuevas instrucciones o parámetros respecto a la dirección o destinatario, para completar su entrega.
 
@@ -36,9 +34,11 @@ Sin perjuicio de lo anterior el cliente podrá solicitar la devolución del env�
 
 Con todo, y a expresa solicitud del remitente, el envío no le será devuelto, y podrá ser readmitido con nuevas instrucciones de entrega, lo que implicará la confección de una nueva guía y el cobro de la tarifa correspondiente a un nuevo envío.
 
-d. Envíos destinados a Sucursales: Para los envíos dirigidos a sucursales de la Empresa de Correos de Chile, éstos permanecerán 10 días en la sucursal de destino.
+d. Envíos destinados a Sucursales
 
-Transcurrido dicho plazo sin que el envío haya sido retirado por el destinatario, Correos tomará contacto con el remitente para informar de la incidencia y recibir instrucciones para su devolución. Si después de 5 días de realizado el contacto, no se recibe respuesta del remitente, el envío será remitido a la Unidad de Rezago.
+Para los envíos dirigidos a sucursales de la Empresa de Correos de Chile, éstos permanecerán 5 días hábiles en la sucursal de destino. Transcurrido dicho plazo sin que el envío haya sido retirado por el destinatario, el envío será remitido a la Planta de la Empresa de Correos de Chile, más cercana a la sucursal de destino, donde se le dará tratamiento de envío con incidencia terminal.
+
+El remitente podrá solicitar la devolución de su envío dentro del plazo de 5 días hábiles desde que el envío es recepcionado en la sucursal de destino. Dentro del mismo plazo antes mencionado, el envío podrá ser rehusado por su destinatario, y en tal caso, será trasladado a la Planta de la Empresa de Correos de Chile, más cercana a la sucursal de destino, en donde se le dará tratamiento de envío con incidencia terminal.
 
 e. Envíos sin información: En el evento que no se tengan datos del remitente o del destinatario de los envíos para completar los procedimientos antes señalados, el envío permanecerá 10 días en la sucursal de destino, luego de dicho plazo, se enviará a la Unidad de Rezago.
 
