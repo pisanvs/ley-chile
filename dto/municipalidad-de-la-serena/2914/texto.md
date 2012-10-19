@@ -1,0 +1,47 @@
+RECTIFICA NUMERAL 2.8 DEL DECRETO ALCALDICIO Nº 4.558, DE 2010
+
+Núm. 2.914/12.- La Serena, 1 de octubre de 2012.- Vistos: El Plan Regulador Comunal de La Serena, aprobado mediante decreto alcaldicio Nº 498/2004, de 2 de julio de 2004, y publicado en el Diario Oficial con fecha 5 de agosto de 2004; la Sesión Ordinaria Nº755, de 12 de agosto de 2009, del Concejo Comunal, en la cual se acordó iniciar los trámites para la Enmienda Nº 8 al Plan Regulador Comunal de La Serena; cartas remitidas a las organizaciones territoriales informando a los vecinos acerca del proceso de la Enmienda Nº8 al Plan Regulador Comunal de La Serena; publicaciones efectuadas en el diario "El Día" de la IV Región, de fecha 25 de agosto de 2009 y 1º de septiembre de 2009, informando la realización de la Primera Audiencia Pública para dar a conocer las implicancias de la Enmienda Nº8; la Audiencia Pública realizada el día 2 de septiembre de 2009, en la cual se expuso a la comunidad sobre el proceso de Enmienda Nº8 al Plan Regulador Comunal de La Serena; La Sesión Extraordinaria del Consejo Económico Social Comunal efectuada el día 28 de septiembre de 2009; el decreto alcaldicio Nº 3.581/09, de 9 de octubre de 2009, que ordena la exposición al público de la Enmienda Nº8 al Plan Regulador de La Serena; el decreto alcaldicio Nº 4.101/09, de 18 de noviembre de 2009, que extiende la fecha de exposición al público de la Enmienda Nº8; las publicaciones efectuadas con fechas 9 y 16 de octubre de 2009 y con fechas 20 y 27 de noviembre de 2009 en el diario El Día de la IV Región, informando la exposición al público de la Enmienda Nº8 al Plan Regulador Comunal de La Serena y la extensión de la fecha de exposición al público de la Enmienda Nº8 al Plan Regulador; la exposición de la Enmienda Nº8 al Plan Regulador Comunal de La Serena, efectuada en el Patio Colonial del Edificio Consistorial de la Municipalidad de La Serena, calle Prat Nº 451, desde el día 20 de octubre hasta el día 18 de noviembre de 2009 en una primera exposición y desde el día 18 de noviembre hasta el día 4 de diciembre de 2009 en su extensión de plazo; las cartas enviadas a diferentes organizaciones territoriales para informar acerca de la realización de la Segunda Audiencia Pública; las publicaciones efectuadas con fechas 21 y 28 de diciembre de 2009 en el diario El Día de la IV Región, informando la realización de una Segunda Audiencia Pública relativa a la tramitación de la Enmienda Nº8 al Plan Regulador Comunal de La Serena; la Segunda Audiencia Pública efectuada el día miércoles 6 de enero de 2010, respecto de la Enmienda Nº8 al Plan Regulador Comunal de La Serena; las cartas enviadas a diferentes organizaciones territoriales para informar acerca de la realización de una nueva Audiencia Pública para exponer la Enmienda Nº 8 al Plano Regulador Comunal de La Serena; las publicaciones efectuadas con fechas 28 de septiembre de 2010 y 5 de octubre de 2010 en el diario El Día de la IV Región, informando la realización de una nueva Audiencia Pública y nuevo plazo máximo de recepción de observaciones relativas a la tramitación de la Enmienda Nº8 al Plan Regulador Comunal de La Serena; la repetición de la Audiencia Pública Nº 2, efectuada el 13 de octubre de 2010; la carta con observaciones del Sr. Carlos Moreno, ingresada el 28 de octubre de 2010; la carta con observaciones del Sr. Juan Flores Burgoa, Inversiones San Mauricio, ingresada el 22 de octubre de 2010; la carta con observaciones del Sr. Ricardo Sánchez Letelier, ingresada el 27 de octubre de 2010; la carta de la Sra. Alicia Findel Westermeier, Inversiones San Javier, ingresada el 26 de octubre de 2010; certificado de fecha 10 de noviembre de 2010, del Secretario Municipal (S) de La Serena, dejando constancia que durante el plazo comprendido entre el 13 y el 28 de octubre de 2010, ingresaron al municipio observaciones al Proceso de Enmienda Nº8, presentadas por las siguientes personas:
+
+- **a)** don Carlos Moreno Gómez,
+
+- **b)** don Juan Flores Burgoa, Inversiones San Mauricio,
+
+- **c)** doña Alicia Findel Westermeier, Inversiones San Javier y
+
+- **d)** don Ricardo Sánchez Letelier; la Sesión Extraordinaria del Consejo Económico Social Comunal efectuada el día 4 de noviembre de 2010, en el salón de ceremonial y protocolo del Edificio Consistorial de la Municipalidad de La Serena, en la cual se expuso la Enmienda Nº8 al Plan Regulador Comunal de La Serena y la presentación de las observaciones recepcionadas; la Sesión Ordinaria Nº 803 del Concejo Comunal, efectuada el día 10 de noviembre de 2010, en la cual se adoptaron los acuerdos respecto de aprobar o rechazar las observaciones efectuadas, aprobándose en definitiva la Enmienda Nº 8 al Plan Regulador Comunal de La Serena; el ordinario Nº 1.195/03, de 18 de noviembre de 2010, de Secplan, solicitando la dictación del decreto alcaldicio aprobatorio de la Enmienda Nº8 al Plan Regulador Comunal de La Serena; la Ley General de Urbanismo y Construcciones, especialmente su artículo 45; decreto alcaldicio Nº 4.558/10, de fecha 22 de noviembre de 2010, que aprueba la Enmienda Nº 8 al Plan Regulador Comunal de La Serena; carta de fecha 22 de julio de 2012; certificado de la Secretaría Municipal de fecha 29 de agosto de 2012; Informe de Asesoría Urbana sobre rectificación solicitada de fecha 8 de agosto de 2012; Memoria Explicativa Nº 8, de 2010; la Ordenanza General de Urbanismo y Construcciones, especialmente sus artículos 2.1.11 y 2.1.13; la Ley Nº 18.695 Orgánica Constitucional de Municipalidades y las facultades propias de mi cargo;
+
+Considerando:
+
+1. Que con fecha 22 de julio de 2012, el señor Guillermo Condemarín Bustos solicitó la rectificación del decreto alcaldicio Nº 4.558/2010, correspondiente a la enmienda Nº 8 al Plan Regulador Comunal de La Serena, por existir un error en el coeficiente de constructibilidad de la Zona XC-8 "Huanhualí", generado en la Enmienda Nº 8, el que previo a proceso de enmienda tenía un valor equivalente a 4.2 y posterior a dicho proceso, el coeficiente vigente a la fecha corresponde a 0.55, por lo que se solicita rectificar dicho coeficiente a 5.5 (aumentado en un 30% del coeficiente original).
+
+2. Que la sección de Asesoría Urbana, en informe de fecha 8 de agosto de 2012, que solicita al Honorable Concejo Comunal aprobar la corrección al coeficiente de constructibilidad para el equipamiento de servicios, de la tabla de la Zona ZC-8, volviéndolo a su valor original, previo al proceso de enmienda de 4.2, pues nunca tuvo un valor equivalente a 0.42 como lo estipuló el decreto de enmienda Nº 8, y puesto que, además, no es posible, por proceso de enmienda, aumentar o disminuir dicha norma en más de un 30%, lo que hace inadmisible que tenga hoy un valor de 0.55, equivalente a una disminución de un 87% de su valor original (previo a la enmienda Nº 8), situación que evidencia un error de transcripción previo al proceso de rectificación de coeficientes de constructibilidad.
+
+3. Que mediante certificado de fecha 29 de agosto de 2012, el Secretario Municipal certificó que en Sesión Ordinaria Nº 874, efectuada el día miércoles 8 de agosto de 2012, el Concejo Municipal acordó corregir el coeficiente máximo de constructibilidad, modificado erróneamente y devolver el coeficiente máximo de constructibilidad de 4.2, valor vigente previo proceso de Enmienda.
+
+4. Que mediante ordinario Nº 1.099/03, del Secretario Comunal de Planificación Subrogante, se solicitó rectificar el decreto alcaldicio Nº 4.558/2010 que aprueba la Enmienda Nº 8 al Plan Regulador Comunal de La Serena.
+
+Decreto:
+
+1. Rectifíquese el numeral 2.8 del decreto alcaldicio Nº 4.558/10, de fecha 22 de noviembre de 2010, en la forma que a continuación se señala:
+
+Donde dice:
+
+2.8 Modifíquese la tabla de condiciones urbanísticas de las Zonas ZC 8, ZC 11-1, ZC 11-5, ZC 11-6, ZC 11-9 del artículo 74, Título V, Capítulo I, de la Ordenanza Local del Plan Regulador Comunal de La Serena, rectificando el coeficiente máximo de constructibilidad y ocupación de suelo, como sigue:
+
+Debe decir:
+
+2.8 Modifíquese la tabla de condiciones urbanísticas de las Zonas ZC 8, ZC 11-1, ZC 11-5, ZC 11-6, ZC 11-9 del artículo 74, Título V, Capítulo I, de la Ordenanza Local del Plan Regulador Comunal de La Serena, rectificando el coeficiente máximo de constructibilidad y ocupación de suelo, como sigue:
+
+2.- Apruébese la modificación a la tabla, relativa a las condiciones urbanísticas del artículo 74, Título V, Capítulo I, de la Ordenanza Local del Plan Regulador Comunal de La Serena, correspondientes a las zonas ZC-8, con la correspondiente modificación incorporada, y reemplácese la actualmente existente en la Ordenanza Local del Plan Regulador, por la aprobada mediante el presente decreto alcaldicio.
+
+3.- En todo lo demás permanecerá inalterable el decreto alcaldicio singularizado en el punto Nº 1.
+
+4.- Publíquese en el Diario Oficial el presente decreto alcaldicio.
+
+5.- Archívese el presente decreto alcaldicio.
+
+6.- Remítase copia oficial del presente decreto alcaldicio a la Secretaría Regional Ministerial de Vivienda y Urbanismo IV Región, a la Dirección de Desarrollo Urbano de dicha Secretaría y a la Dirección de Obras Municipales de La Serena.
+
+Anótese, comuníquese, publíquese y archívese.- Raúl Saldívar Auger, Alcalde.- Luciano Maluenda Villegas, Secretario Municipal.
+
+.
