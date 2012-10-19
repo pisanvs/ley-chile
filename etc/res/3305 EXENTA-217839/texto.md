@@ -328,6 +328,32 @@ R. procerus) Sin declaraciones adicionales
 
 Vaccinum spp. Sin declaraciones adicionales
 
+Vitis spp El envío fue inspeccionado y
+
+encontrado libre de Eurytoma
+
+vitis y Prodecatoma
+
+cooki (Hym. : Eurytomidae).
+
+Las semillas derivan de plantas
+
+madres que fueron inspeccionadas
+
+y analizadas (especificar
+
+técnica de diagnóstico para
+
+cada caso) en el momento
+
+óptimo, y encontradas libres
+
+de Raspberry ringspot virus,
+
+Tomato black ring virus y
+
+Peach rosette mosaic virus.
+
 2. Se aceptará como declaración adicional alternativa, que la partida proviene de un área o país libre de una plaga.
 
 3. Se considerará como tratamiento cuarentenario para el control de las plagas mencionadas, lo siguiente:
