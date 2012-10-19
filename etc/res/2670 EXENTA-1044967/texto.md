@@ -1,0 +1,3 @@
+EXCEPCIONA DEL CAMBIO DE SUJETO PARCIAL DE IVA A AGRÍCOLA LEONARDO DA VINCE LIMITADA
+
+La Décima Séptima Dirección Regional Valdivia, del Servicio de Impuestos Internos, por resolución exenta Nº2.670 de fecha 26.09.2012, excepciona del cambio de sujeto parcial de IVA en Ventas de Ganado Vivo a Agrícola Leonardo Da Vince Limitada, RUT 77.217.760-7, la que regirá a contar del 1º del mes siguiente de la publicación del extracto en el Diario Oficial.
