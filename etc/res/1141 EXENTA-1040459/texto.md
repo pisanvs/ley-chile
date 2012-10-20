@@ -22,19 +22,21 @@ El presente programa establece un manejo integrado de la Caligidosis, que tiene 
 
 1.1 Objetivos específicos
 
-. Determinar la presencia y abundancia de Caligus
+. Determinar la presencia y abundancia de
 
-rogercresseyi, en el tiempo y el espacio, en
+Caligus rogercresseyi, en el tiempo y el
 
-base al riesgo de infestación de los centros
+espacio, en base al riesgo de infestación
 
-por especie y zona de cultivo.
+delos centros por especie y zona de cultivo.
 
-. Proteger a la población en riesgo a través de
+. Proteger a la población en riesgo a
 
-la implementación de acciones oportunas ante
+través de la implementación de acciones
 
-la detección de centros de alta diseminación.
+oportunas ante la detección de centros
+
+de alta diseminación.
 
 2. Ámbito de Aplicación
 
@@ -42,7 +44,9 @@ Las disposiciones establecidas en el presente Programa Sanitario Específico se 
 
 3. Definiciones
 
-Para los efectos del presente Programa, se entenderá por:
+Para los efectos del presente Programa, se
+
+entenderá por:
 
 3.1 Abundancia o carga parasitaria o carga: Número de parásitos promedio en el total de peces muestreados, al momento de un monitoreo.
 
@@ -134,25 +138,31 @@ Se considerará como centro de alta vigilancia, a todo aquel centro de cultivo c
 
 5.2 Centro de baja vigilancia
 
-Es aquel centro de cultivo que cumple con alguna de las siguientes condiciones:
+Es aquel centro de cultivo que cumple con alguna
 
-a) Centro cultivado con las especies salmón coho
+de las siguientes condiciones:
 
-(Oncorhynchus kisutch) o salmón chinook
+a) Centro cultivado con las especies salmón
 
-(Oncorhynchus tshawytscha), ubicado en cualquiera
+coho (Oncorhynchus kisutch) o salmón
 
-de las agrupaciones de concesiones.
+chinook (Oncorhynchus tshawytscha),
 
-b) Centro cultivado con las especies salmón del
+ubicado en cualquiera de las
 
-atlántico (Salmo salar) o trucha arcoíris
+agrupaciones de concesiones.
 
-(Oncorhynchus mykiss), ubicado en alguna de las
+b) Centro cultivado con las especies
 
-agrupaciones de concesiones de aquellas regiones
+salmón del atlántico (Salmo salar)
 
-no comprendidas en el numeral 5.1 precedente.
+o trucha arcoíris (Oncorhynchus mykiss),
+
+ubicado en alguna de las agrupaciones
+
+de concesiones de aquellas regiones no
+
+comprendidas en el numeral 5.1 precedente.
 
 5.3 Centro de alta diseminación
 
@@ -166,23 +176,23 @@ Es aquel centro de cultivo, que se ubica dentro de una zona infectada, que en un
 
 6.1 Generalidades
 
-6.1.1 Todo centro de cultivo deberá contar con, al
+6.1.1 Todo centro de cultivo deberá contar con,
 
-menos, un muestreador calificado para el
+al menos, un muestreador calificado para
 
-monitoreo de C. rogercresseyi.
+el monitoreo de C. rogercresseyi.
 
-6.1.2 Los titulares de centros de cultivo deberán
+6.1.2 Los titulares de centros de cultivo
 
-capacitar a sus muestreadores calificados,
+deberán capacitar a sus muestreadores
 
-tomando como base la Guía de Vigilancia de
+calificados, tomando como base la Guía de
 
-Caligus, disponible en la página web del
+Vigilancia de Caligus, disponible en la
 
-Servicio. Los registros de estas
+página web del Servicio. Los registros
 
-capacitaciones deberán estar
+de estas capacitaciones deberán estar
 
 disponibles para las inspecciones del
 
@@ -196,15 +206,15 @@ por el muestreador calificado para el
 
 monitoreo de C. rogercresseyi.
 
-6.1.4 El Servicio podrá efectuar inspecciones a
+6.1.4 El Servicio podrá efectuar inspecciones
 
-la condición sanitaria de los peces y
+a la condición sanitaria de los peces y
 
-verificar las cargas parasitarias en
+verificar las cargas parasitarias en un
 
-un centro de cultivo en particular,
+centro de cultivo en particular, cuando
 
-cuando así lo estime necesario.
+así lo estime necesario.
 
 Asimismo, podrá requerir a un centro
 
@@ -212,43 +222,65 @@ realizar tales inspecciones y
 
 verificaciones mediante un Certificador
 
-de la Condición Sanitaria. El
+de la Condición Sanitaria. El certificador
 
-certificador de la condición sanitaria
+de la condición sanitaria deberá
 
-deberá enviar la planilla oficial de
+enviar la planilla oficial de monitoreo
 
-monitoreo de caligus y el informe sanitario
+de caligus y el informe sanitario según
 
-según el formato establecido en el manual
+el formato establecido en el manual de
 
-de procedimientos Nº 2 del Programa de
+procedimientos Nº 2 del Programa de
 
 Laboratorios, al correo electrónico
 
 caligus@sernapesca.cl, dentro de un
 
-plazo de cinco (5) días de efectuada la
+plazo de cinco (5) días de efectuada
 
-inspección.
+la inspección.
 
-6.1.5 Cada centro de cultivo deberá contar con
+Si como consecuencia de las referidas
 
-un registro interno foliado y actualizado
+inspecciones, el Servicio o el certificador
 
-de los monitoreos de las cargas parasitarias,
+de la condición sanitaria verifica que
 
-en el cualse indique la fecha,
+las cargas parasitarias en una jaula de
 
-identificación de las jaulas, cargas
+cultivo difieren, conforme a la biología
 
-parasitarias por pez y el muestreador
+del parásito, a lo declarado por el centro,
 
-calificado responsable del monitoreo,
+ésta declaración se considerará como
 
-debiendo estar disponible este registro
+información no fidedignay, por ende, un
 
-cada vez que el Servicio lo requiera.
+incumplimiento grave de la obligación de
+
+información de los monitoreos
+
+impuesta por el presente Programa.
+
+6.1.5 Cada centro de cultivo deberá contar con un
+
+registro interno foliado y actualizado de
+
+los monitoreos de las cargas parasitarias,
+
+en elcual se indique la fecha, identificación
+
+delas jaulas, cargas parasitarias por pez y
+
+el muestreador calificado responsable del
+
+monitoreo, debiendo estar disponible
+
+este registro cada vez que el Servicio
+
+lo requiera.
 
 6.1.6 Para todos los muestreos a que se refiere
 
@@ -256,119 +288,117 @@ el presente programa, deberá obtenerse,
 
 desde cada jaula muestreada, peces de forma
 
-aleatoria, en un número de diez (10). Luego
+aleatoria, en un número de diez (10).
 
-de anestesiado cada pez muestreado, deberá
+Luego de anestesiado cada pez muestreado,
 
-contabilizarse el número de chalimus o
+deberá contabilizarse el número de chalimus
 
-juveniles presentes, el total de adultos
+o juveniles presentes, el total de adultos
 
 móviles y el total de hembras ovígeras.
 
 Para esto último, las hembras ovígeras no
 
-deberán considerarse dentro del total de
+deberán considerarse dentro del total
 
-adultos móviles.
+de adultos móviles.
 
-Una vez terminado el muestreo de una jaula,
+Una vez terminado el muestreo de una
 
-el agua de la batea de anestesia deberá
+jaula, el agua de la batea de anestesia
 
-ser pasada por un filtro que permita
+deberá ser pasada por un filtro que
 
-contener los parásitos sueltos, para
+permita contener los parásitos sueltos,
 
-luego ser contados e informados en
+para luego ser contados e informados en
 
 ítem batea. Cuando se adviertan cargas
 
 superiores a cincuenta (50) caligus
 
-totalespor pez, se podrá realizar el
+totales por pez, se podrá realizar el
 
 conteo sólo en un flanco del pez y
 
-multiplicar su resultado por dos. El conteo
+multiplicar su resultado por dos. El
 
-de los juveniles se deberá hacer
+conteo de los juveniles se deberá hacer
 
 ayudándose del tacto.
 
 6.2 Diagnóstico General por Jaula de Ingreso (DGJI)
 
-6.2.1 El DGJI deberá realizarse una vez
+6.2.1 El DGJI deberá realizarse una vez cumplidos
 
-cumplidos treinta (30) días del término
-
-de la siembra.
+treinta (30) días del término de la siembra.
 
 6.2.2 Todo centro deberá muestrear en la forma
 
 establecida en el numeral 6.1.6 del
 
-presente programa, considerando el
+presente programa, considerando el muestreo
 
-muestreo de la totalidad de jaulas
+de la totalidad de jaulas pobladas
 
-pobladas del centro.
+del centro.
 
-6.2.3 A partir del DGJI se seleccionarán dos (2)
+6.2.3 A partir del DGJI se seleccionarán dos
 
-jaulas índices (JI) que se considerarán
+(2) jaulas índices (JI) que se
 
-en la vigilancia regular durante el
+considerarán en la vigilancia regular
 
-ciclo productivo. Los centros que cultiven
+durante el ciclo productivo. Los centros
 
-más de una especie deberán determinar
+que cultiven más de una especie deberán
 
-dos (2) JI por cada una de las especies
+determinar dos (2) JI por cada una de
 
-cultivadas.
+las especies cultivadas.
 
 6.2.4 Los resultados de este monitoreo, deberán
 
 ser informados al Servicio en un plazo
 
-máximo de cinco (5) días hábiles, contados
+máximo de cinco (5) días hábiles,
 
-desde su realización.
+contados desde su realización.
 
 6.3. Vigilancia Regular
 
-6.3.1 Todo centro de cultivo deberá muestrear en
+6.3.1 Todo centro de cultivo deberá muestrear
 
-la forma establecida en el numeral 6.1.6
+en la forma establecida en el numeral
 
-del presente programa, cuatro (4) jaulas
+6.1.6 del presente programa, cuatro (4)
 
-o el 100% de las jaulas si el centro tiene
+jaulas o el 100% de las jaulas si el
 
-menos de cuatro (4)jaulas pobladas.
+centro tiene menos de cuatro (4)jaulas
+
+pobladas.
 
 6.3.2 El monitoreo de las cargas parasitarias
 
-de Caligus rogercresseyi se iniciará
+de Caligus rogercresseyi se iniciará una
 
-una vez cumplidos treinta (30) días del
+vez cumplidos treinta (30) días del término
 
-término de la siembra de la primera jaula
+de la siembra de la primera jaula del
 
-del centro, y se extenderá hasta la
+centro, y se extenderá hasta la última semana
 
-última semana del ciclo productivo en
+del ciclo productivo en la que se encuentre
 
-la que se encuentre al menos una jaula
+al menos una jaula poblada.
 
-poblada.
+6.3.3 Una vez efectuado el DGJI, los centros de
 
-6.3.3 Una vez efectuado el DGJI, los centros
+alta vigilancia deberán monitorear dos
 
-de alta vigilancia deberán monitorear
-
-dos (2) JA y dos (2)JI, estas últimas
+(2) JA y dos (2) JI, estas últimas
 
 definidas para cada centro a partir
 
@@ -376,11 +406,11 @@ del DGJI.
 
 6.3.4 Los centros de baja vigilancia y aquellos
 
-centros de alta vigilancia que aún no hayan
+centros de alta vigilancia que aún no
 
-efectuado el DGJI, seleccionarán las cuatro
+hayan efectuado el DGJI, seleccionarán las
 
-(4) jaulas a muestrear de forma
+cuatro (4) jaulas a muestrear de forma
 
 aleatoria (JA).
 
@@ -390,33 +420,33 @@ realizar el muestreo semanal de cargas
 
 parasitarias dentro de un plazo que se
 
-extenderá entre el día jueves y
+extenderá entre el día jueves y hasta
 
-hasta el día domingo de cada semana.
+el día domingo de cada semana.
 
 6.3.6.Los centros de baja vigilancia deberán
 
 realizar el muestreo mensual durante la
 
-última semana del mes, dentro de un plazo
+última semana del mes, dentro de un
 
-que se extenderá entre el día jueves y
+plazo que se extenderá entre el día
 
-hasta el día domingo de la última semana
+jueves y hasta el día domingo de la
 
-del mes.
+última semana del mes.
 
-6.3.7 Si alguna de las jaulas índice de un centro
+6.3.7 Si alguna de las jaulas índice de un
 
-de alta vigilancia ha sido cosechada o
+centro de alta vigilancia ha sido
 
-eliminada, ésta deberá ser reemplazada
+cosechada o eliminada, ésta deberá ser
 
-por aquella que le haya seguido en mayor
+reemplazada por aquella que le haya
 
-número de parásitos por pez durante
+seguido en mayor número de parásitos
 
-el DGJI.
+por pez durante el DGJI.
 
 6.3.8 La información de los monitoreos deberá
 
@@ -426,11 +456,11 @@ Fiscalización de la Acuicultura (SIFA).
 
 Sólo en casos excepcionales y justificados,
 
-el Servicio podrá autorizar el envío
+el Servicio podrá autorizar el envío de la
 
-de la referida información al correo
+referida información al correo electrónico
 
-electrónico caligus@sernapesca.cl.
+caligus@sernapesca.cl.
 
 7. Control de la Caligidosis
 
@@ -440,17 +470,19 @@ electrónico caligus@sernapesca.cl.
 
 programa considera la aplicación de
 
-medidas oportunas y coordinadas ante la
+medidas oportunas y coordinadas ante
 
-detección de centros de alta diseminación,
+la detección de centros de alta
 
-considerando la zonificación, vigilancia
+diseminación, considerando la zonificación,
 
-intensiva, tratamientos coordinados,
+vigilancia intensiva, tratamientos
 
-control de la diseminación y cosecha
+coordinados, control de la diseminación
 
-anticipada de la biomasa infestada.
+y cosecha anticipada de la biomasa
+
+infestada.
 
 7.2 Tratamientos
 
@@ -464,9 +496,9 @@ Estos últimos deberán administrarse en
 
 forma coordinada por zona.
 
-7.2.2 Los tratamientos antiparasitarios,
+7.2.2 Los tratamientos antiparasitarios, deberán
 
-deberán considerar:
+considerar:
 
 . El uso de productos registrados o
 
@@ -490,11 +522,11 @@ emplear sistemas cerrados de tratamiento
 
 por inmersión (lona/wellboat). La
 
-implementación de esta medida estará sujeta
+implementación de esta medida estará
 
-a gradualidad según las cargas históricas
+sujeta a gradualidad según las cargas
 
-de caligus por ACS.
+históricas de caligus por ACS.
 
 7.2.4 Los tratamientos antiparasitarios por
 
@@ -524,25 +556,25 @@ se encuentren a menos de 200 metros de un
 
 centro de cultivo de mitílidos en operación
 
-o de áreas demanejo, y deban realizar
+o de áreas de manejo, y deban realizar
 
-tratamiento con productos aplicables
+tratamiento con productos aplicables mediante
 
-mediante inmersión, tendrán que presentar
+inmersión, tendrán que presentar al Servicio
 
-al Servicio la FTA y adjuntar, los
+la FTA y adjuntar, los antecedentes que
 
-antecedentes que permitan concluir que el
+permitan concluir que el tratamiento no
 
-tratamiento no producirá efectos adversos
+producirá efectos adversos detectables. El
 
-detectables. El Servicio evaluará los
+Servicio evaluará los antecedentes e
 
-antecedentes e informará si se autoriza el
+informará si se autoriza el tratamiento
 
-tratamiento solicitado o si se requieren
+solicitado o si se requieren medidas de
 
-medidas de mitigación adicionales.
+mitigación adicionales.
 
 7.2.7 Con el objeto de evitar alzas predecibles
 
@@ -584,9 +616,9 @@ el Servicio podrá establecer una distancia
 
 superior a la señalada y/o considerar
 
-dentro del área infectada la totalidad
+dentro del área infectada la
 
-de una o más agrupaciones de
+totalidad de una o más agrupaciones de
 
 concesiones.
 
@@ -600,21 +632,21 @@ horas posteriores a la notificación:
 
 . Un informe realizado por el médico
 
-veterinario de la empresa en el
+veterinario de la empresa en el cual
 
-cual se indique la situación sanitaria
+se indique la situación sanitaria del
 
-del centro y un análisis crítico de
+centro y un análisis crítico de la
 
-la situación, según formato disponible
+situación, según formato disponible
 
 en la página web del Servicio.
 
 . Un plan de acción que incorpore las
 
-medidas tendientes a reducir las cargas
+medidas tendientes a reducir las
 
-parasitarias.
+cargas parasitarias.
 
 7.4.2 Para todos los centros ubicados en la zona
 
@@ -634,35 +666,37 @@ la autorización previa del Servicio, para
 
 lo cual el centro de cultivo deberá
 
-presentar un FTA. Esta solicitud deberá
+presentar un FTA. Esta solicitud deberá ser
 
-ser enviada con una anticipación de al
+enviada con una anticipación de al menos
 
-menos tres (3) días hábiles previos a la
+tres (3) días hábiles previos a la fecha
 
-fecha de inicio de la terapia. Además, se
+de inicio de la terapia. Además, se
 
-deberá adjuntar a la FTA, la Prescripción
+deberá adjuntar a la FTA, la
 
-Médico Veterinaria correspondiente.
+Prescripción Médico Veterinaria
+
+correspondiente.
 
 7.4.4 Los FTA se deberán enviar al correo
 
 electrónico tratamientocaligus@sernapesca.cl.
 
-7.4.5 El centro de alta diseminación, en caso de
+7.4.5 El centro de alta diseminación, en
 
-haber realizado tratamiento, deberá informar
+caso de haber realizado tratamiento,
 
-la eficacia del mismo (IPT). Este, se
+deberá informar la eficacia del mismo
 
-deberá informar en el plazo máximo de dos
+(IPT). Este, se deberá informar en el plazo
 
-(2) días hábiles contados desde efectuado
+máximo de dos (2) días hábiles contados
 
-el monitoreo. El IPT se deberá enviar al
+desde efectuado el monitoreo. El IPT se
 
-correo electrónico
+deberá enviar al correo electrónico
 
 tratamientocaligus@sernapesca.cl.
 
@@ -682,35 +716,35 @@ condiciones:
 
 jaulas del centro.
 
-. Concluir la cosecha del centro en
+. Concluir la cosecha del centro en un
 
-un plazo no superior a 3 semanas.
+plazo no superior a 3 semanas.
 
 7.4.7 Todo centro de cultivo de alta diseminación
 
 que durante un período máximo de 6 semanas
 
-consecutivas posterior a su notificación,
+consecutivas posterior a su notificación, y
 
-y que presente 3 monitoreos semanales con
+que presente 3 monitoreos semanales con
 
 cargas ≥ 9 caligus adultos totales, quedará
 
 afecto, por disposición del Servicio, a la
 
-medida de cosecha anticipada de la
+medida de cosecha anticipada de la biomasa
 
-biomasa infestada.
+infestada.
 
 7.4.8 Todos los centros de alta diseminación
 
 que requirieron de la medida referida
 
-en el numerando anterior, serán objeto de
+en el numerando anterior, serán objeto
 
-la medidacontemplada en el artículo 15
+de la medidacontemplada en el artículo
 
-letra s) del RESA, esto es la fijación
+15 letra s) del RESA,esto es la fijación
 
 del número máximo de ejemplares a sembrar
 
@@ -726,21 +760,23 @@ de cultivo determine la siembra de
 
 alguna especie salmónida de baja
 
-susceptibilidad a la caligidosis, como
+susceptibilidad a la caligidosis,
 
-es el caso de Oncorhynchus kisutch y
+como es el caso de
 
-Oncorhynchus tshawytscha, en el ciclo
+Oncorhynchus kisutch y Oncorhynchus
 
-productivo siguiente.
+tshawytscha, en el ciclo productivo
+
+siguiente.
 
 8. Sistema de Notificación
 
 8.1 La notificación se efectuará mediante carta certificada, sin perjuicio del envío de oficio por correo electrónico, en los siguientes casos:
 
-a) Cuando se requiera que la vigilancia sea
+a) Cuando se requiera que la vigilancia
 
-efectuada por un certificador de la
+sea efectuada por un certificador de la
 
 condición sanitaria.
 
@@ -764,9 +800,9 @@ b) El centro informe, el Servicio o el
 
 certificador de la condición sanitaria
 
-verifiquen, cargas > 9 caligus
+verifiquen, cargas > 9 caligus adultos
 
-adultos totales.
+totales.
 
 c) El Servicio, mediante informe técnico,
 
