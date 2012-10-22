@@ -1,0 +1,5 @@
+AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº112, del 17 de octubre de 2012, que autoriza a las instituciones sin fines de lucro O.N.G. Cordillera, Rol Único Tributario Nº 74.615.700-2; O.N.G. Surcos, Rol Único Tributario Nº 75.347.400-5; Fundación de Acción Social Educacional Goretti, Rol Único Tributario Nº 70.826.500-4; O.N.G. Corporación Ascorp Liwen, Rol Único Tributario Nº 65.309.500-7; Fundación Estudio Para Un Hermano, Rol Único Tributario Nº 74.016.500-3; O.N.G. de Desarrollo Trabajo y Futuro Chile, Rol Único Tributario Nº 65.766.470-7; Fundación Solidaria Trabajo para un Hermano, Rol Único Tributario Nº 71.440.800-3, como receptoras en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en el mes de octubre de 2012.
