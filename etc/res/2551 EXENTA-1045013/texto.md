@@ -1,0 +1,5 @@
+Por resolución exenta Nº 2.551 de 25 de septiembre de 2012, de esta Subsecretaría, autorízase a la ASOCIACIÓN GREMIAL DE BUZOS, PESCADORES Y RAMOS SIMILARES ARTESANALES INDEPENDIENTES DE TONGOY, para realizar actividades experimentales de acuicultura de las especies Huiro y Huiro palo, cuyo objetivo es evaluar la factibilidad técnico económica del cultivo suspendido en mar de las especies, en la IV Región de Coquimbo.
+
+Las actividades se desarrollarán por 24 meses desde la fecha de la presente resolución, en la concesión de acuicultura otorgada por resolución Nº 1.433 de 2001, de la Subsecretaría de Marina, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico citado en Visto y en la resolución extractada.
+
+Valparaíso, 25 de septiembre de 2012.- Felipe Palacio Rives, Subsecretario de Pesca y Acuicultura (S).
