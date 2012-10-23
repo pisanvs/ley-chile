@@ -104,11 +104,7 @@ Pajaritos Anunciación 5 de Abril Ambos
 
 sentidos
 
-Av. Los
-
-Pajaritos 5 de Abril Camino
-
-Melipilla Sentido N-S
+ELIMINADA
 
 Av. Recoleta Av. Américo Mario Neira Sentido N-S
 
@@ -211,6 +207,14 @@ Bernado. Mackenna sentidos
 O'Higgins
 
 (Alameda)
+
+Av. Vicuña Av. Carlos Av. Manuel Sur-Norte
+
+Mackenna Dittborn Antonio Matta
+
+Av. Vicuña Av. Manuel Ñuble Norte-Sur
+
+Mackenna Antonio Matta
 
 2.- También podrán circular por estas pistas exclusivas, los siguientes vehículos:
 
