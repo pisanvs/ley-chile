@@ -46,7 +46,7 @@ Lo anterior no será obligatorio en aquellos casos que la concesionaria o el ISP
 
 #### Artículo 3º
 
-Las concesionarias y los ISP deberán realizar las modificaciones y ajustes necesarios para iniciar la facturación a todos sus usuarios, según las unidades establecidas en el artículo 1º de esta resolución a más tardar el 1 de noviembre de 2012.
+Las concesionarias y los ISP deberán realizar las modificaciones y ajustes necesarios para iniciar la facturación a todos sus usuarios, según las unidades establecidas en el artículo 1º de esta resolución a más tardar el 1 de diciembre de 2012.
 
 Anótese y publíquese en el Diario Oficial.- Jorge Atton Palma, Subsecretario de Telecomunicaciones.
 
