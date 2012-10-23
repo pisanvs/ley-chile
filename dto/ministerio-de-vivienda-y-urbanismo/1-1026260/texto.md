@@ -234,6 +234,12 @@ l) Declaración Jurada de Postulación, acerca de la necesidad de la obtención 
 
 Al momento de la postulación el interesado podrá otorgar su autorización al Serviu para que, en caso de resultar seleccionado, entregue datos de su postulación a terceros, para el solo efecto que éstos puedan hacerle llegar información de viviendas, créditos u otra que pueda orientarlo en la elección y financiamiento de la solución habitacional.
 
+m) Al postular, el interesado deberá declarar el monto total de ingresos del núcleo familiar incorporado a su declaración de núcleo.
+
+Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará el límite máximo de los ingresos que, para postular a cada Título de este Programa, podrá tener el núcleo familiar declarado.
+
+Al momento de postular, el interesado otorgará la autorización correspondiente para consultar al Servicio de Impuestos Internos u otra entidad, acerca de los ingresos de los integrantes del núcleo familiar declarado.
+
 ### Párrafo 5º — De los impedimentos para postular
 
 #### Artículo 17
@@ -1108,27 +1114,17 @@ a) Todas las regiones, provincias y comunas del país, excepto las señaladas en
 
 Los montos de subsidio se calcularán con dos decimales.
 
-b) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincias de Palena y Chiloé, comunas de Isla de Pascua y Juan Fernández.
+b) Provincia de Chiloé:
 
-* En que "P" corresponde al precio de vivienda de acuerdo al artículo 7º del presente reglamento.
+c) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincia de Palena, y comunas de Isla de Pascua y Juan Fernández:
 
-Los montos de subsidio se calcularán con dos decimales.
+d) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas, conforme a lo señalado en este reglamento, o a viviendas nuevas que formen parte de un proyecto de la Nómina de Oferta o de un proyecto habitacional, emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras a), b) o c) de este artículo, cuyo monto en ningún caso podrá ser inferior a 200 UF, ni superior a 300 UF, si se determina conforme a la letra a); 350 UF, si se determina de acuerdo a la letra b); o 400 UF, si se determina según la letra c), ya referidas.
 
-c) En caso que el subsidio habitacional se aplique a la adquisición de viviendas nuevas, conforme a lo señalado en este reglamento, o a viviendas nuevas que formen parte de un proyecto de la Nómina de Oferta o de un proyecto habitacional, emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, los beneficiarios de este Título obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras
+e) Tratándose de la adquisición de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios de este Título podrán obtener un subsidio de hasta 300 Unidades de Fomento dando cumplimiento a lo establecido en las respectivas normas vigentes, de acuerdo a la ley Nº 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. De la rehabilitación del inmueble deberán generarse dos o más viviendas.
 
-- **a)** o
+f) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las letras a), b), c) y d) precedentes, se adicionarán hasta 20 UF, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-- **b)** de este artículo, cuyo monto no podrá ser inferior a 200 UF en ambos casos ni superior a 300 UF si se determina conforme a la letra
-
-- **a)** señalada, o 400 UF, si se determina de acuerdo a la letra
-
-- **b)** referida.
-
-d) Tratándose de la adquisición de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios de este Título podrán obtener un subsidio de hasta 300 Unidades de Fomento dando cumplimiento a lo establecido en las respectivas normas vigentes, de acuerdo a la ley Nº 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. De la rehabilitación del inmueble deberán generarse dos o más viviendas.
-
-e) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las letras a), b), c) y d) precedentes, se adicionarán hasta 20 UF, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
-
-f) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional de hasta 100 UF al determinado en las letras
+g) Si el beneficiario aplica el subsidio a la adquisición, en primera transferencia, de una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional de hasta 100 UF al determinado en las letras
 
 - **a)** y
 
@@ -1138,7 +1134,7 @@ f) Si el beneficiario aplica el subsidio a la adquisición, en primera transfere
 
 - **d)** de este artículo.
 
-g) ELIMINADO.
+h) ELIMINADO.
 
 #### Artículo 68
 
