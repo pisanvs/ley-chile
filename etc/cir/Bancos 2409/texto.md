@@ -18434,26 +18434,6 @@ Los funcionarios a quienes se les otorgue acceso a la información, deben ser in
 
 Por su parte, el artículo 14 de la Ley General de Bancos, establece penas corporales para las personas que revelen el contenido de la información sobre deudores de que se trata.
 
-## Capítulo 18-6
-
-INFORMACIÓN SOBRE CUENTAS CORRIENTES DE LAS ADMINISTRADORAS DE FONDOS DE PENSIONES Y SUS RESPECTIVOS FONDOS
-
-Los bancos deberán informar mensualmente a la Superintendencia de Pensiones, las aperturas y cierres de cuentas corrientes a nombre de Administradoras de Fondos de Pensiones y de sus respectivos fondos. Para tal efecto, se indicará, en cada caso, el número de la cuenta corriente, oficina en la que se registra, fecha de apertura o fecha de cierre, según corresponda, y tipo de cuenta, según la siguiente clasificación:
-
-a) Del fondo de pensiones:
-
-Tipo 1: Recaudación de cotizaciones para el fondo de pensiones.
-
-Tipo 2: Depósito de recursos del fondo para su inversión.
-
-b) De la administradora:
-
-Tipo 3: Recaudación y traspaso de las cotizaciones adicionales para seguro de invalidez y sobrevivencia y de las cotizaciones de salud.
-
-Tipo 4: Pago de pensiones.
-
-Otras: Para operaciones de la administradora.
-
 ## Capítulo 18-7
 
 INFORMACIÓN AL SERVICIO DE IMPUESTOS INTERNOS SOBRE TASACIONES DE BIENES RAÍCES.
