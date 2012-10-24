@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.595, de 28 de septiembre de 2012, de esta Subsecretaría, amplíese por doce meses, a contar del 1° de octubre de 2012, el plazo otorgado en el numeral 6° de la resolución exenta N° 643 de 2012, a SOCIEDAD PESQUERA ESPADAMAR LIMITADA para continuar desarrollando las actividades pesqueras extractivas con la nave "Marleen", en el área marítima comprendida entre la XV a X Regiones, islas De Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, por fuera del área de reserva artesanal, con palangre y enmalle, sobre Albacora o Pez Espada y su fauna acompañante, en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 28 de septiembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
