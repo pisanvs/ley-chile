@@ -1,0 +1,23 @@
+DECLARA DESIERTO CONCURSO INTERNO JEFE DE DEPARTAMENTO PLANES Y PROGRAMAS DEPENDIENTE DE LA SECRETARÍA REGIONAL MINISTERIAL REGIÓN DEL MAULE
+
+Santiago, 19 de octubre de 2012.- Hoy se resolvió lo que sigue:
+
+Núm. 8.440 exenta.- Visto: El artículo 21º del DFL Nº 29, de Hacienda, de 2005, que fija el texto refundido, coordinado y sistematizado de la Ley N° 18.834, sobre Estatuto Administrativo; el artículo 4º del decreto supremo Nº 69, del Ministerio de Hacienda, de 2004, Reglamento sobre Concursos del Estatuto Administrativo; y la resolución Nº 1.600 de la Contraloría General de la República, de 30 de octubre de 2008, que fija normas sobre exención del trámite de toma de razón; y,
+
+Teniendo presente:
+
+a) La publicación efectuada en el Diario Oficial del 2 de mayo de 2012, mediante la cual se realizó el llamado a concurso interno para proveer, entre otros, un cargo de Jefe de Departamento de Planes y Programas dependiente de la Secretaría Regional Ministerial de Vivienda y Urbanismo, Región del Maule.
+
+b) La publicación y difusión de dicho concurso en la página web del Ministerio de Vivienda y Urbanismo, www.minvu.cl; y aviso interno a través de Minvuletín, del Ministerio de Vivienda y Urbanismo.
+
+c) Acta del concurso de fecha 25 de julio de 2012, elaborada por el Comité de Selección, conformado según lo establece la normativa, mediante la cual se proponía como único candidato idóneo al Sr. José Alejandro Palavecino Aceitón.
+
+d) El acta del concurso de fecha 13 de septiembre de 2012, elaborada por el Comité de Selección, mediante la cual se deja constancia que durante el proceso de nombramiento, el candidato antes señalado desiste de su postulación, dicto la siguiente:
+
+Resolución:
+
+1.- Declárase desierto por falta de postulantes idóneos, el concurso interno para proveer un cargo de Jefe de Departamento, grado 5º EUR, para el Departamento de Planes y Programas dependiente de la Secretaría Regional Ministerial de Vivienda y Urbanismo Región del Maule, con desempeño en la ciudad de Talca, cuya convocatoria se publicó en el Diario Oficial del 2 de mayo de 2012.
+
+Anótese, notifíquese, cúmplase, publíquese y archívese.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
+
+Lo que transcribo para su conocimiento.- Bernardo Garrido Valenzuela, Abogado, Ministro de Fe.
