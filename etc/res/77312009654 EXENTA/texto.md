@@ -1,0 +1,3 @@
+AUTORIZA CALIDAD DE AGENTE RETENEDOR DEL IVA A CONSTRUCTORA AVIFEL LIMITADA
+
+La Décima Dirección Regional Puerto Montt del Servicio de Impuestos Internos, por resolución Ex. Nº 77312009654 de fecha 7 de septiembre de 2012, otorga, a contar del 1º del mes siguiente al de esta publicación, al contribuyente Constructora Avifel Limitada, RUT Nº 76.123.847-7, la calidad de Agente Retenedor del Impuesto al Valor Agregado en la actividad de la construcción, establecido en la resolución Ex. Nº 142, del 26 de diciembre de 2005, de la Dirección Nacional del Servicio Impuestos Internos, publicada en el Diario Oficial el 25 de diciembre de 2005.
