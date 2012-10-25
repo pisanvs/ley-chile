@@ -32,8 +32,6 @@ Resolución:
 
 > **Nota.** La letra b) del Número 1 de la Resolución 8463 Exenta, Vivienda, publicada el 25.10.2012 modifica la presente norma en el sentido de reemplazar en el cuadro inserto en el resuelvo 3, en la fila "Total País", en la columna correspondiente al número de familias, el guarismo "2.608" por "2.074".
 
-> **Nota.** NOTA 1 El N° 1 de la Resolución 9729 Exenta, Vivienda, publicada el 05.12.2012, modifica la presente norma, en el sentido de reemplazar, en el resuelvo N° 2, el nombre del grupo correspondiente al Código 87630 de la Región de Arica y Parinacota, "Tarapacá Marca", debiendo decir "Taapaca Marca".
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
