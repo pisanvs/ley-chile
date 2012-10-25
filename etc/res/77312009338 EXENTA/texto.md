@@ -1,0 +1,3 @@
+OTORGA CALIDAD DE AGENTE RETENEDOR DEL IVA A COOPERATIVA AGRÍCOLA SAN ANDRÉS CALBUCO LTDA.
+
+La Décima Dirección Regional Puerto Montt, del Servicio de Impuestos Internos, por resolución N° Ex. 77312009338 de fecha 31/08/2012, otorga a contar del 1° del mes siguiente de esta publicación al contribuyente Cooperativa Agrícola San Andrés Calbuco Ltda., RUT 75.731.500-9 la calidad de Agente Retenedor del Impuesto al Valor Agregado por las compras a pequeños productores agrícolas, establecido en la resolución N° Ex. 5.517 de 26/11/1996 de la Dirección Nacional, publicada en el Diario Oficial del día 01/12/1996.
