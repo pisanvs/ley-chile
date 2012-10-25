@@ -1,0 +1,5 @@
+INSTRUYE SOBRE LAS MODIFICACIONES INTRODUCIDAS POR LA LEY Nº 20.630, DEL 27 DE SEPTIEMBRE DE 2012, A LA LEY SOBRE IMPUESTO A LA RENTA Y A LA LEY Nº 20.455, DE 2010, REFERIDAS AL AUMENTO DE LA TASA DEL IMPUESTO DE PRIMERA CATEGORÍA Y A LA TASA DE LOS PAGOS PROVISIONALES MENSUALES OBLIGATORIOS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 48, de fecha 19 de octubre de 2012, la cual tiene por objeto impartir instrucciones sobre las modificaciones introducidas al artículo 20, de la LIR y a la ley Nº 20.455, por la ley Nº 20.630, publicada en el Diario Oficial de 27.09.2012 y también sobre las normas transitorias, de la referida ley, que afectan a dichas modificaciones.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en Internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en octubre de 2012.
