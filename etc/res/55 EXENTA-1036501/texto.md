@@ -30,31 +30,23 @@ Resuelvo:
 
 I REGIÓN DE TARAPACÁ
 
-INSPECCIÓN PROVINCIAL DEL TRABAJO DE IQUIQUE
+Inspección Provincial del Trabajo de Iquique
 
 Ciudad : Iquique
 
-Jurisdicción : Iquique, Huara, Camiña, Colchane,
+Jurisdicción : Iquique, Huara, Camiña, Colchane, Pica,
 
-Pica
+Alto Hospicio
 
-Mod. Atención : Permanente
+Mod. atención : Permanente
 
-INSPECCIÓN COMUNAL DEL TRABAJO DE POZO ALMONTE
+Inspección Comunal del Trabajo de Pozo Almonte
 
 Ciudad : Pozo Almonte
 
 Jurisdicción : Pozo Almonte
 
-Mod. Atención : Permanente
-
-INSPECCIÓN COMUNAL DEL TRABAJO DE ALTO HOSPICIO
-
-Ciudad : Alto Hospicio
-
-Jurisdicción : Alto Hospicio
-
-Mod. Atención : Permanente
+Mod. atención : Permanente
 
 II REGIÓN DE ANTOFAGASTA
 
@@ -238,14 +230,6 @@ Jurisdicción : Valparaíso, Juan Fernández, Isla de Pascua
 
 Mod. atención : Permanente
 
-Inspección Provincial del Trabajo de Rapa Nui
-
-Comuna : Isla de Pascua.
-
-Jurisdicción : Sector Insular de la Región de Valparaíso.
-
-Mod. atención : Permanente.
-
 Inspección Provincial del Trabajo de San Felipe
 
 Ciudad : San Felipe
@@ -318,7 +302,7 @@ Ciudad : Casablanca
 
 Jurisdicción : Casablanca
 
-Mod. Atención : Permanente.
+Mod. atención : Permanente
 
 Inspección Comunal del Trabajo de Limache
 
@@ -335,18 +319,6 @@ Ciudad : Hijuelas
 Jurisdicción : Hijuelas, Nogales
 
 Mod. atención : Intermitente
-
-CENTRO DE CONCILIACION Y MEDIACIÓN DE LA V REGIÓN
-
-Ciudad : Valparaíso
-
-Jurisdicción
-
-Conciliación : Concón, Quintero, Puchuncaví, Isla de Pascua, Juan Fernández, Valparaíso, Viña del Mar.
-
-Mediación : Todas las comunas de la región.
-
-Mod. atención : Permanente.
 
 VI REGIÓN DEL LIBERTADOR GENERAL BERNARDO O'HIGGINS
 
@@ -508,7 +480,19 @@ Mod. atención : Permanente
 
 Inspección Provincial del Trabajo de Ñuble
 
-Eliminado.
+Ciudad : Chillán
+
+Jurisdicción : Chillán, Coihueco, Pinto, San Ignacio, El
+
+Carmen, Pemuco, Yungay, Bulnes, Quillón,
+
+Ranquil, Portezuelo, Treguaco, Cobquecura,
+
+Quirihue, Ninhue, Chillán Viejo y San
+
+Nicolás
+
+Mod. atención : Permanente.
 
 Inspección Provincial del Trabajo de Biobío
 
@@ -540,11 +524,13 @@ Jurisdicción : Talcahuano, Hualpén
 
 Mod. atención : Permanente
 
-Inspección
+Inspección Comunal del Trabajo de Tomé
 
-Comunal del Trabajo de Tomé
+Ciudad : Tomé
 
-Eliminado.
+Jurisdicción : Tomé, Coelemu
+
+Mod. atención : Permanente
 
 Inspección Comunal del Trabajo de Coronel
 
@@ -556,7 +542,11 @@ Mod. atención : Permanente
 
 Inspección Comunal del Trabajo de San Carlos
 
-Eliminado.
+Ciudad : San Carlos
+
+Jurisdicción : San Carlos, Ñiquén, San Fabián
+
+Mod. atención : Permanente
 
 Inspección Comunal del Trabajo de Curanilahue
 
@@ -592,19 +582,11 @@ Mod. atención : Intermitente
 
 Inspección Comunal del Trabajo de Coelemu
 
-Eliminado.
+Ciudad : Coelemu
 
-CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA VIII REGIÓN
+Jurisdicción : Coelemu
 
-Ciudad : Concepción
-
-Jurisdicción
-
-Conciliación : Chiguayante, Concepción, Florida, Hualpén, Hualqui, San Pedro de la Paz, Talcahuano.
-
-Mediación : Todas las comunas de la región.
-
-Mod. atención : Permanente.
+Mod. atención : Intermitente
 
 IX REGIÓN DE LA ARAUCANÍA
 
@@ -695,18 +677,6 @@ Ciudad : Traiguén
 Jurisdicción : Traiguén
 
 Mod. atención : Intermitente
-
-CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA IX REGIÓN
-
-Ciudad : Temuco
-
-Jurisdicción
-
-Conciliación : Carahue, Cholchol, Cunco, Melipeuco, Nueva Imperial, Padre Las Casas, Puerto Saavedra, Temuco, Vilcún.
-
-Mediación. Todas las comunas de la región.
-
-Mod. atención : Permanente.
 
 X REGIÓN DE LOS LAGOS
 
@@ -880,39 +850,17 @@ Jurisdicción : Porvenir, Primavera, Timaukel
 
 Mod. atención : Permanente
 
-Centro de Conciliación y Mediación de la Región de Magallanes y la Antártica Chilena
-
-Ciudad : Punta Arenas
-
-Jurisdicción
-
-conciliación : Punta Arenas
-
-Mediación : Punta Arenas
-
-Mod. atención : permanente.
-
-Inspección Provincial del Trabajo de la Antártica Chilena
-
-Comuna : Cabo de Hornos
-
-Localidad : Puerto Williams
-
-Jurisdicción : Cabo de Hornos (Ex-Navarino), Antártica
-
-Mod. Atención : Intermitente
-
 XIII REGIÓN METROPOLITANA ORIENTE
 
 Inspección Comunal del Trabajo Santiago Sur
 
 Ciudad : Santiago
 
-Jurisdicción : La Cisterna, Lo Espejo, San Ramón,
+Jurisdicción : La Cisterna, Lo Espejo, San Ramón, San
 
-San Miguel, San Joaquín,
+Miguel, San Joaquín, La Granja, Pedro
 
-Pedro Aguirre Cerda.
+Aguirre Cerda
 
 Mod. atención : Permanente
 
@@ -931,16 +879,6 @@ Ciudad : Buin
 Jurisdicción : Buin, Paine
 
 Mod. atención : Permanente
-
-Inspección Comunal del Trabajo Santiago Sur Oriente
-
-Ciudad : Santiago
-
-Jurisdicción : Ñuñoa, Peñalolén, La Reina
-
-Modalidad de
-
-atención : Permanente
 
 Inspección Comunal del Trabajo Santiago Sur Oriente
 
@@ -972,16 +910,6 @@ Inspección Comunal del Trabajo de La Florida
 
 Ciudad : Santiago
 
-Jurisdicción : La Florida, Macul, La Granja
-
-Modalidad de
-
-atención : Permanente
-
-Inspección Comunal del Trabajo de La Florida
-
-Ciudad : Santiago
-
 Jurisdicción : La Florida
 
 Mod. atención : Permanente
@@ -993,20 +921,6 @@ Ciudad : Santiago
 Jurisdicción : Las Condes, Vitacura, Lo Barnechea
 
 Mod. atención : Permanente
-
-CENTRO DE CONCILIACION Y MEDIACIÓN DE LA REGIÓN METROPOLITANA ORIENTE
-
-Ciudad : Santiago
-
-Jurisdicción
-
-Conciliación : La Reina, Las Condes, Lo Barnechea, Macul, La Florida, Ñuñoa,
-
-Peñalolén, Providencia, Vitacura.
-
-Mediación : Todas las comunas de la Región Metropolitana Oriente.
-
-Mod. atención : Permanente.
 
 XIII REGIÓN METROPOLITANA PONIENTE
 
@@ -1082,22 +996,6 @@ Jurisdicción : Curacaví
 
 Mod. atención : Intermitente
 
-CENTRO DE CONCILIACIÓN Y MEDIACIÓN DE LA REGIÓN METROPOLITANA PONIENTE
-
-Ciudad : Santiago
-
-Jurisdicción
-
-Conciliación : Cerro Navia, Colina, Conchalí, Estación Central, Huechuraba,
-
-Independencia, Lampa, Lo Prado, Pudahuel, Quilicura, Quinta
-
-Normal, Recoleta, Renca, Santiago, Tiltil.
-
-Mediación : Todas las comunas de la Región Metropolitana Poniente.
-
-Mod. atención : Permanente.
-
 XIV REGIÓN DE LOS RÍOS
 
 Inspección Provincial del Trabajo de Valdivia
@@ -1142,7 +1040,7 @@ Ciudad : Panguipulli
 
 Jurisdicción : Panguipulli
 
-Mod. atención : Permanente
+Mod. atención : Intermitente
 
 XV REGIÓN DE ARICA Y PARINACOTA
 
@@ -1159,40 +1057,6 @@ Inspección Comunal del Trabajo de Putre
 Ciudad : Putre
 
 Jurisdicción : Putre, General Lagos
-
-Mod. atención : Intermitente.
-
-XVI REGIÓN DE ÑUBLE
-
-Inspección Provincial del Trabajo de Ñuble
-
-Ciudad : Chillán.
-
-Jurisdicción : Chillán, Coihueco, Coelemu, Pinto, San Ignacio,
-
-El Carmen, Pemuco,Yungay, Bulnes, Quillón,
-
-Ránquil, Portezuelo, Treguaco, Cobquecura,
-
-Quirihue, Ninhue, Chillán Viejo y San
-
-Nicolás.
-
-Mod. atención : Permanente.
-
-Inspección Comunal del Trabajo de San Carlos
-
-Ciudad : San Carlos.
-
-Jurisdicción : San Carlos, Ñiquén, San Fabián.
-
-Mod. atención : Permanente.
-
-Inspección Comunal del Trabajo de Coelemu
-
-Ciudad : Coelemu.
-
-Jurisdicción : Coelemu.
 
 Mod. atención : Intermitente.
 
