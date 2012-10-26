@@ -1086,9 +1086,11 @@ Permisos de salida. Los permisos de salida forman parte de las actividades de re
 
 a) Salida esporádica;
 
-b) Salida semanal, y
+b) Salida semanal;
 
-c) Salida de fin de semana.
+c) Salida de fin de semana, y
+
+d) Salida con fines educacionales, laborales y de capacitación.
 
 Los permisos mencionados en las letras b) y c), se concederán a los adolescentes que cumplan los requisitos señalados en el presente párrafo, de modo progresivo, esto es, de manera que el cumplimiento satisfactorio de las condiciones de uno de ellos permita postular al siguiente.
 
@@ -1104,11 +1106,9 @@ Requisitos para su otorgamiento. Para la concesión de este beneficio, se deber�
 
 a) Haber cumplido el tiempo de condena requerido atendida la categoría de permiso de salida de que se trate;
 
-b) Contar con informe favorable de la unidad técnica respectiva, dando cuenta de las ventajas para el proceso de integración social del adolescente;
+b) Contar con informe favorable de la unidad técnica respectiva, dando cuenta de las ventajas para el proceso de integración social del adolescente, y
 
-c) No haberse rechazado en los 6 meses anteriores, una solicitud de sustitución de pena, y
-
-d) No haber quebrantado la pena, en los 6 meses anteriores a la solicitud.
+c) No haber quebrantado la pena, en los 6 meses anteriores a la solicitud.
 
 #### Artículo 127
 
@@ -1147,6 +1147,22 @@ De la salida semanal. Aquellos adolescentes que hayan cumplido al menos seis mes
 De la salida de fin de semana. Los adolescentes que hayan cumplido la mitad de la pena impuesta, podrán solicitar la salida de fin de semana, cuando hubieren dado cumplimiento cabal, durante los últimos tres meses, a las condiciones del beneficio de salida semanal.
 
 En este caso podrán ser autorizados para salir del centro desde las dieciocho horas del día viernes hasta las veintidós horas del día domingo, en cada fin de semana.
+
+#### Artículo 134 bis
+
+Salida con fines educacionales, laborales y de capacitación. Se entenderá por ésta, la autorización otorgada por el director del centro, para que aquellos adolescentes que, habiendo cumplido a lo menos un cuarto de la pena, puedan salir durante la semana, por un período no superior a diez horas diarias, con el objeto de concurrir a establecimientos laborales o instituciones de capacitación laboral y/o formación educacional, con el fin de desempeñar trabajos, cursar estudios o realizar otras actividades similares.
+
+Para acceder a este permiso sólo se deberá dar cumplimiento a los requisitos señalados en las letras a) y b) del artículo 126. En este caso, el informe que elabore la unidad técnica, además de dar cuenta de las ventajas para el proceso de integración social del adolescente, deberá acreditar de manera fehaciente la existencia del trabajo o curso que realizará el adolescente. Para tal efecto se adjuntará al informe, copia del contrato respectivo o comprobante de la matrícula correspondiente. Si ello no fuere factible, se adjuntarán los antecedentes que cumplan el mismo propósito.
+
+El director del centro, en la resolución que dicte autorizando y regulando la salida con fines educacionales, laborales y de capacitación, establecerá, además, la forma y periodicidad con que se efectuará el control del cumplimiento de este beneficio.
+
+Asimismo, en dicha resolución, se determinarán las condiciones que se deberán cumplir con el objeto de resguardar en todo momento la confidencialidad de la información de los datos sensibles del adolescente y de la respectiva sanción.
+
+En caso de incumplimiento injustificado, el que comprenderá tanto la inobservancia a dichos fines como a las condiciones de regreso al centro, procederá la revocación del permiso, la que deberá ser comunicada por el Director del Centro al lugar de trabajo del joven o a su institución de capacitación laboral y/o formación educacional, los que darán a dicha información, la reserva correspondiente.
+
+Sin perjuicio de la revocación del permiso, señalada en el inciso precedente, se constituirá la comisión disciplinaria a que se refiere el artículo 115.
+
+La concesión de este permiso no obsta a que el adolescente pueda optar a las otras salidas contempladas en el artículo 124.
 
 ### Párrafo 3°
 
