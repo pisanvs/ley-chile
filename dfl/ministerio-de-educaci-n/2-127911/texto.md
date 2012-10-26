@@ -146,223 +146,9 @@ De los Montos de la Subvención
 
 El valor unitario mensual de la subvención por alumno para cada nivel y modalidad de la enseñanza, expresado en unidades de subvención educacional (U.S.E.), corresponderá al siguiente:
 
-Enseñanza que Valor Valor Valor
-
-imparte el de la de la de la
-
-establecimiento subvención subvención subvención
-
-en U.S.E. en U.S.E. en U.S.E.
-
-factor por
-
-#### Artículo 9°
-
-aplicación
-
-(incluye del factor
-
-incrementos artículo 7º
-
-fijados ley
-
-por leyes Nº 19.933
-
-Nºs. 19.662 y
-
-19.808)
-
-Educación Parvularia
-
-(1° Nivel de
-
-Transición) 1,71690 0,17955 1,89645
-
-Educación Parvularia
-
-(2° Nivel de
-
-Transición) 1,71690 0,17955 1,89645
-
-Educación General
-
-Básica (1°, 2°, 3°,
-
-4°, 5° y 6°) 1,72077 0,17997 1,90074
-
-Educación General
-
-Básica
-
-(7° y 8°) 1,86764 0,19546 2,06310
-
-Educación Especial
-
-Diferencial 5,71092 0,59727 6,30819
-
-Necesidades
-
-Educativas
-
-Especiales de
-
-carácter Transitorio 4,88811 0,59727 5,48538
-
-Educación Media
-
-Humanístico-
-
-Científica 2,08550 0,21818 2,30368
-
-Educación Media
-
-Técnico-
-
-Profesional
-
-Agrícola Marítima 3,09091 0,32402 3,41493
-
-Educación
-
-Media Técnico-
-
-Profesional
-
-Industrial 2,41123 0,25252 2,66375
-
-Educación
-
-Media Técnico-
-
-Profesional
-
-Comercial y Técnica 2,16274 0,22634 2,38908
-
-Educación Básica
-
-de Adultos
-
-(Primer Nivel) 1,27633 0,13317 1,40950
-
-Educación Básica
-
-de Adultos
-
-(Segundo Nivel
-
-y Tercer Nivel) 1,69339 0,13317 1,82656
-
-Educación Básica
-
-de Adultos
-
-con oficios
-
-(Segundo Nivel y
-
-Tercer Nivel) 1,90193 0,13317 2,03510
-
-Educación Media
-
-Humanístico-
-
-Científica de
-
-adultos (Primer
-
-Nivel y Segundo
-
-Nivel) 2,06365 0,18363 2,24728
-
-Educación
-
-Media Técnico-
-
-Profesional de
-
-Adultos
-
-Agrícola y
-
-Marítima
-
-(Primer Nivel) 2,32589 0,18363 2,50952
-
-Educación Media
-
-Técnico-
-
-Profesional de
-
-Adultos
-
-Agrícola
-
-y Marítima
-
-(Segundo Nivel
-
-y Tercer Nivel) 2,85037 0,18363 3,03400
-
-Educación Media
-
-Técnico-
-
-Profesional de
-
-Adultos
-
-Industrial
-
-(Primer Nivel) 2,10552 0,18363 2,28915
-
-Educación Media
-
-Técnico-
-
-Profesional de
-
-Adultos
-
-Industrial
-
-(Segundo Nivel y
-
-Tercer Nivel) 2,18927 0,18363 2,37290
-
-Educación Media
-
-Técnico-
-
-Profesional de
-
-Adultos
-
-Comercial y
-
-Técnica
-
-(Primer Nivel,
-
-Segundo Nivel
-
-y Tercer Nivel) 2,06365 0,18363 2,24728.
-
 Para los efectos de esta ley, se entenderá por Necesidades Educativas Especiales de Carácter Transitorio, aquellas no permanentes que requieran los alumnos en algún momento de su vida escolar a consecuencia de un trastorno o discapacidad diagnosticada por un profesional competente, y que necesitan de ayudas y apoyos extraordinarios para acceder o progresar en el currículum por un determinado período de su escolarización. El Reglamento determinará los requisitos, instrumentos o pruebas diagnósticas para establecer los alumnos con necesidades educativas especiales que se beneficiarán de la subvención establecida en el inciso anterior, debiendo primero escuchar a los expertos en las áreas pertinentes. Con todo el Reglamento considerará entre otras discapacidades a los déficit atencionales y a los trastornos específicos del lenguaje y aprendizaje.
 
-Se entenderá por profesional competente, el idóneo que se encuentre inscrito en la Secretaría Ministerial de Educación respectiva. En todo caso, será inhábil para realizar diagnósticos de ingresos y egresos, el profesional que tenga la calidad de socio,
-
-representante legal o administrador
-
-de la persona jurídica
-
-sostenedora de una escuela especial o de un establecimiento con proyectos de integración o el cónyuge, hijo, adoptado o pariente hasta el tercer grado de consanguinidad y segundo de afinidad, inclusive, de un socio, representante legal o
-
-administrador de la entidad
-
-sostenedora de los mismos
-
-establecimientos.
+Se entenderá por profesional competente, el idóneo que se encuentre inscrito en la Secretaría Ministerial de Educación respectiva. En todo caso, será inhábil para realizar diagnósticos de ingresos y egresos, el profesional que tenga la calidad de socio, representante legal o administrador de la persona jurídica sostenedora de una escuela especial o de un establecimiento con proyectos de integración o el cónyuge, hijo, adoptado o pariente hasta el tercer grado de consanguinidad y segundo de afinidad, inclusive, de un socio, representante legal o administrador de la entidad sostenedora de los mismos establecimientos.
 
 Se cancelará la inscripción, en la Secretaría Regional Ministerial de Educación, del profesional que efectúe diagnósticos con clara intención fraudulenta destinada a obtener la subvención, sin perjuicio de las acciones judiciales que correspondan.
 
@@ -376,77 +162,59 @@ El monto de subvención para alumnos de Educación Especial Diferencial y/o con 
 
 En el caso de los establecimientos educacionales que operen bajo el régimen de jornada escolar completa diurna, el valor unitario mensual por alumno, para los niveles y modalidades de enseñanza que se indican, expresado en unidades de subvención educacional (U.S.E.), será el siguiente:
 
-Enseñanza que Valor Valor Valor
-
-imparte el de la de la de la
-
-establecimiento subvención subvención subvención
-
-en en U.S.E. en U.S.E.
-
-factor factor
-
-#### Artículo 9°
-
-artículo 7º
-
-en U.S.E. ley
-
-(incluye Nº 19.933
-
-incrementos
-
-fijados
-
-por leyes
-
-Nºs. 19.662 y
-
-19.808)
-
-Educación
-
-General Básica
-
-3º a 8º años 2,39487 0,24655 2,64142
-
-Educación Media
-
-Humanístico-
-
-Científica 2,85903 0,29481 3,15384
-
-Educación
-
-Media Técnico-
-
-Profesional
-
-Agrícola Marítima 3,85779 0,40013 4,25792
-
-Educación
-
-Media Técnico-
-
-Profesional
-
-Industrial 3,01835 0,31177 3,33012
-
-Educación
-
-Media Técnico-
-
-Profesional
-
-Comercial y
-
-Técnica 2,85903 0,29481 3,15384.
-
 Los establecimientos educacionales rurales de educación general básica, a que se refieren
 
 los incisos segundo y octavo del artículo 12 de este decreto con fuerza de ley, con cursos multigrados, también podrán funcionar de acuerdo al régimen de jornada escolar completa diurna para los alumnos correspondientes a los niveles de enseñanza de 1º y 2º años básicos. En este caso, tendrán derecho a percibir por estos alumnos la subvención establecida en el inciso noveno para la educación general básica de 3º a 8º años.
 
-Los establecimientos educacionales que atiendan alumnos de educación especial de 3º a 8º años, o su equivalente, beneficiarios de la subvención especial diferencial, correspondientes a las discapacidades que el reglamento autorice para operar bajo el régimen de jornada escolar completa diurna, tendrán derecho a percibir, en caso de funcionar bajo el referido régimen, una subvención mensual cuyo valor unitario por alumno, expresado en unidades de subvención educacional (U.S.E.), será de 7,28743 más el factor del artículo 7º de la ley Nº 19.933 que corresponde a 0,74991 U.S.E., en total 8,03734 U.S.E. En el caso de los alumnos de educación especial beneficiarios de la subvención de Necesidades Educativas Especiales de Carácter Transitorio, integrados en un establecimiento de enseñanza regular que funcione en régimen de jornada escolar completa, el valor unitario de la subvención educacional (U.S.E.) por alumno será de 6,23908 más el factor del artículo 7º de la ley Nº 19.933, que corresponde a 0,74991 U.S.E, en total 6,98899 U.S.E.
+Los establecimientos educacionales
+
+que atiendan alumnos de educación
+
+especial de 3º a 8º años, o su equivalente,
+
+beneficiarios de la subvención especial
+
+diferencial, correspondientes a las
+
+discapacidades que el reglamento autorice
+
+para operar bajo el régimen de jornada escolar
+
+completa diurna, tendrán derecho a percibir,
+
+en caso de funcionar bajo el referido régimen,
+
+una subvención mensual cuyo valor unitario
+
+por alumno, expresado en unidades de
+
+subvención educacional (U.S.E.), será de
+
+7,39674 más el factor del artículo 7º de
+
+la ley Nº 19.933 que corresponde a 0,74991
+
+U.S.E., en total 8,14665 U.S.E. En el caso
+
+de los alumnos de educación especial
+
+beneficiarios de la subvención de Necesidades
+
+Educativas Especiales de Carácter Transitorio,
+
+integrados en un establecimiento de enseñanza
+
+regular que funcione en régimen de jornada
+
+escolar completa, el valor unitario de la
+
+subvención educacional (U.S.E.) por alumno
+
+será de 6,33267 más el factor del artículo 7º
+
+de la ley Nº 19.933, que corresponde a
+
+0,74991 U.S.E, en total 7,08258 U.S.E.
 
 Los establecimientos educacionales subvencionales diurnos de educación general básica que atiendan a alumnos de 1º y 2º años de mayor vulnerabilidad, lo que se determinará de acuerdo a un reglamento, mediante normas de carácter general, y que extiendan su jornada diaria de atención para adecuarse a lo establecido en el artículo 6º, tendrán derecho a percibir por ellos la subvención establecida en el inciso noveno de este artículo, para la educación general básica de 3º a 8º años.
 
@@ -570,9 +338,71 @@ Para estos efectos, se entenderá por establecimiento rural aquel que se encuent
 
 El mayor valor que resulte de aplicar los factores de la tabla del inciso primero de este artículo, con relación a los montos que fija el artículo 9º, no estará afecto a la asignación a que se refiere el artículo 11 de esta ley.
 
-No obstante, aquellos establecimientos rurales que al 30 de junio de 2004 estén ubicados en zonas limítrofes o de aislamiento geográfico extremo y tengan una matrícula igual o inferior a 17 alumnos percibirán una subvención mínima de 54,50355 unidades de subvención educacional (U.S.E.), más el factor del artículo 7º de la ley Nº 19.933, que corresponde a 5,18320 U.S.E., en total 59,68675 U.S.E., y el incremento a que se refiere el artículo 11 y la subvención educacional preferencial por los alumnos prioritarios en caso de que sea procedente. Los establecimientos a que se refiere este inciso serán determinados por decreto del Ministerio de Educación.
+No obstante, aquellos
 
-Los establecimientos educacionales rurales a que se refiere el inciso anterior, que se incorporen al régimen de jornada escolar completa diurna percibirán una subvención mínima de 67,48255 unidades de subvención educacional (U.S.E.), más el factor del artículo 7º de la ley Nº 19.933, que corresponde a 6,42472 U.S.E., en total 73,90727 U.S.E., y el incremento a que se refiere el artículo 11.
+establecimientos rurales que al
+
+30 de junio de 2004 estén
+
+ubicados en zonas limítrofes o
+
+de aislamiento geográfico extremo
+
+y tengan una matrícula igual o
+
+inferior a 17 alumnos percibirán
+
+una subvención mínima de 55,32110
+
+unidades de subvención educacional
+
+(U.S.E.), más el factor del
+
+#### Artículo 7º
+
+de la ley Nº 19.933,
+
+que corresponde a 5,18320 U.S.E.,
+
+en total 60,50430 U.S.E., y el
+
+incremento a que se refiere el
+
+#### Artículo 11
+
+Los establecimientos
+
+a que se refiere este inciso
+
+serán determinados por decreto
+
+del Ministerio de Educación.
+
+Los establecimientos
+
+educacionales rurales a que se
+
+refiere el inciso anterior, que
+
+se incorporen al régimen de
+
+jornada escolar completa diurna
+
+percibirán una subvención mínima
+
+de 68,49479 unidades de subvención
+
+educacional (U.S.E.), más el
+
+factor del artículo 7º de la
+
+ley Nº 19.933, que corresponde a
+
+6,42472 U.S.E., en total 74,91951
+
+U.S.E., y el incremento a que se
+
+refiere el artículo 11.
 
 No obstante, no corresponderá la subvención mínima establecida en los dos incisos precedentes, a los establecimientos educacionales que superen la matrícula de 17 alumnos o pierdan su condición de estar ubicados en zonas de extremo aislamiento geográfico, sin perjuicio del derecho que tengan para percibir la subvención que corresponde a los establecimientos rurales por conservar su condición de tales.
 
@@ -1572,7 +1402,7 @@ Media Técnico- Profesional.
 
 > **Nota.** El artículo 2º de la LEY 20247, publicada el 24.01.2008, dispone que presente norma, entrará en vigencia en las fechas que en ella se establece.
 
-ARTÍCULO UNDÉCIMO TRANSITORIO.- El valor unitario mensual por alumno a que se refiere el artículo 9° de esta ley, para la educación de adultos de aquellos cursos que aún no apliquen el nuevo marco curricular establecido en el decreto supremo N° 239, de Educación, de 2004, será el siguiente, expresado en unidades de subvención educacional (U.S.E.):
+ARTÍCULO UNDÉCIMO TRANSITORIO.- El valor unitario mensual por alumno a que se refiere el artículo 9° de esta ley, para la educación de adultos de aquellos cursos que aún no apliquen el nuevo marco curricular establecido en el decreto supremo N° 239, de 2004, de Educación, será el siguiente, expresado en unidades de subvención educacional (U.S.E.):
 
 Enseñanza que Valor Valor Valor
 
@@ -1590,15 +1420,15 @@ fijados ley
 
 por leyes Nº 19.933
 
-Nºs. 19.662 y
+Nºs. 19.662
 
-19.808)
+y 19.808
 
 Educación General
 
 Básica
 
-de Adultos 1,27633 0,13317 1,40950
+de Adultos 1,29547 0,13317 1,42864
 
 Educación Media
 
@@ -1620,7 +1450,7 @@ horas semanales
 
 presenciales
 
-de clases) 1,45035 0,15128 1,60163
+de clases) 1,47211 0,15128 1,62339
 
 Educación Media
 
@@ -1642,59 +1472,7 @@ semanales
 
 presenciales
 
-de clases) 1,75628 0,18363 1,93991
-
-Enseñanza que imparte el Valor de la subvención en
-
-establecimiento U.S.E.
-
-Educación Fundamental
-
-de Capacitación Técnico
-
-Profesional de Adultos
-
-(valor máximo por clase
-
-efectivamente realizada
-
-al alumno) 0,01701
-
-Educación Práctica de
-
-Adultos (valor máximo
-
-por clase efectivamente
-
-realizada al alumno) 0,01701
-
-Para los mismos efectos señalados en el inciso primero de este artículo y por los mismos alumnos que ahí se indican, la subvención anual de apoyo al mantenimiento de los establecimientos educacionales a que se refiere el artículo 37 y la subvención adicional especial referida en el artículo 41 se pagarán de conformidad a la siguiente tabla:
-
-Subvención anual de Valor en
-
-apoyo al mantenimiento U.S.E.
-
-de establecimientos
-
-educacionales
-
-Educación General Básica de Adultos 0,1362
-
-Educación Media hasta 25 horas presenciales 0,3103
-
-Educación Media con más de 25
-
-horas presenciales 0,3999
-
-Subvención adicional especial
-
-Educación General Básica de Adultos 0,0583
-
-Educación Media Humanístico-Científica
-
-y Técnica-Profesional de Adultos 0,0874.
-
-> **Nota.** El artículo 2º de la LEY 20247, publicada el 24.01.2008, dispone que las modificaciones que introduce a la presente norma, rigen a contar del 1º de enero de 2008.
+de clases) 1,78262 0,18363 1,96625
 
 ARTÍCULO DUODÉCIMO TRANSITORIO.- DEROGADO.
 

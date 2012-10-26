@@ -202,7 +202,7 @@ básica
 
 A:
 
-Establecimientos 1,694 1,1253 0,5687 0,5687
+Establecimientos 1,694 1,694 1,129 1,129
 
 educacionales
 
@@ -210,7 +210,7 @@ autónomos
 
 B:
 
-Establecimientos 0,847 0,56265 0,28435 0,28435
+Establecimientos 0,847 0,847 0,5645 0,5645
 
 educacionales
 
@@ -302,7 +302,7 @@ INCISO SUPRIMIDO.
 
 La suma anual de los recursos que reciban los establecimientos emergentes por la aplicación de la letra B del artículo 14 y el aporte adicional a que se refiere este artículo, será equivalente a lo que le correspondería recibir al mismo establecimiento si éste estuviera en la categoría de Autónomo, por los niveles que se especifican en el inciso siguiente.
 
-Este aporte adicional será de 0,847 por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 4º año de la educación general básica; de 0,56265 USE en el caso de los alumnos que cursen 5º y 6º año de la educación general básica; de 0,28435 USE por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,28435 USE por los alumnos que cursen desde el 1° hasta 4° año de enseñanza media.
+Este aporte adicional será de 0,847 U.S.E. por los alumnos que cursen desde el primer y segundo año de transición de la educación parvularia y hasta el 6º año de la educación general básica; de 0,5645 U.S.E. por los alumnos que cursen 7º y 8º año de la educación general básica; y de 0,5645 U.S.E. por los alumnos que cursen desde el 1º hasta 4º año de enseñanza media.
 
 No obstante lo anterior, durante el primer año de vigencia del convenio se entregará a los sostenedores de los establecimientos educacionales que no cuenten con un plan, un tercio del aporte adicional mensual a que se refieren los incisos anteriores, para financiar la obligación establecida en el Nº 1 del artículo 19, recibiendo del Ministerio de Educación los dos tercios restantes una vez que presenten el Plan de Mejoramiento Educativo, pagándose este saldo con efecto retroactivo calculado desde el mes siguiente al acto de aprobación del convenio a que se refiere el artículo 7º.
 
@@ -750,7 +750,7 @@ El reglamento correspondiente a la presente ley deberá ser dictado dentro del p
 
 Artículo undécimo.- DEROGADO.
 
-Artículo duodécimo.- Los niveles de 1° año de enseñanza media a 4° año de enseñanza media se incorporarán gradualmente a la percepción de la subvención escolar preferencial, de la subvención por concentración de alumnos prioritarios y de los aportes adicionales establecidos en esta ley, a razón de un nivel por año, comenzando el año escolar 2014 con 1° año de enseñanza media.
+Artículo duodécimo.- Los niveles de 1º año de enseñanza media a 4º año de enseñanza media se incorporarán gradualmente a la percepción de la subvención escolar preferencial, de la subvención por concentración de alumnos prioritarios y de los aportes adicionales establecidos en esta ley, a razón de un nivel por año, comenzando el año escolar 2013 con el 1º año de enseñanza media.
 
 #### Artículo decimo
 
