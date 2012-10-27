@@ -40,7 +40,7 @@ Resuelvo:
 
 15. El Polígono N° 13 incorpora parcialmente a la Comuna de Cauquenes. El polígono N° 13 está determinado por 36 vértices, determinado por las siguientes coordenadas UTM señaladas a continuación:
 
-16. El Polígono N° 14 incorpora parcialmente a la Comuna de Cauquenes. El polígono N° 14 está determinado por 436 vértices, determinado por las siguientes coordenadas UTM señaladas a continuación:
+### 16. POLÍGONO N° 14 ELIMINADO
 
 17. El Polígono N° 15 incorpora parcialmente a la Comuna de Yerbas Buenas. El polígono N° 15 está determinado por 40 vértices, determinado por las siguientes coordenadas UTM señaladas a continuación:
 
