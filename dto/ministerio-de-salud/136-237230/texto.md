@@ -188,7 +188,7 @@ g) La evaluación de las acciones que ejecuten los organismos integrantes del Si
 
 #### Artículo 26
 
-El Ministerio de Salud estará organizado en Divisiones, Departamentos, Secciones y Oficinas, considerando la importancia relativa y el volumen de trabajo que signifique la función. En la Subsecretaría de Salud Pública existirán las siguientes Divisiones: de Prevención y Control de Enfermedades; de Políticas Públicas Saludables y Promoción; de Finanzas y Administración Interna y de Planificación Sanitaria. De la Subsecretaría de Redes Asistenciales dependerán las siguientes Divisiones: de Gestión de la Red Asistencial; de Gestión y Desarrollo de las Personas; de Atención Primaria y de Presupuesto e Inversiones. Asimismo, dependerá de la Subsecretaría de Salud Pública la División Jurídica, que en el desarrollo de sus funciones asesorará a ambas Subsecretarías.
+El Ministerio de Salud estará organizado en Divisiones, Departamentos, Secciones y Oficinas, considerando la importancia relativa y el volumen de trabajo que signifique la función. En la Subsecretaría de Salud Pública existirán las siguientes Divisiones: de Prevención y Control de Enfermedades; de Políticas Públicas Saludables y Promoción; de Finanzas y Administración Interna y de Planificación Sanitaria. De la Subsecretaría de Redes Asistenciales dependerán las siguientes Divisiones: de Gestión de la Red Asistencial; de Gestión y Desarrollo de las Personas; de Atención Primaria de Presupuesto e Inversiones; y de Gestión Financiera.. Asimismo, dependerá de la Subsecretaría de Salud Pública la División Jurídica, que en el desarrollo de sus funciones asesorará a ambas Subsecretarías.
 
 #### Artículo 27
 
@@ -454,7 +454,7 @@ Las Unidades de Licencias Médicas situadas en los establecimientos asistenciale
 
 #### Artículo 46
 
-Las Compin estarán formadas por profesionales que sean funcionarios de la Secretaría Regional respectiva; serán presididas por un médico cirujano designado por el Secretario Ministerial y contarán con un Secretario que actuará como ministro de fe respecto de las actuaciones de la Comisión que le corresponda autentificar.
+Las COMPIN estarán integradas por profesionales que sean funcionarios de la Secretaría Regional respectiva, debiendo ser médico cirujano a lo menos uno de ellos. Serán presididas por uno de sus integrantes designado por la autoridad sanitaria y contarán con un Secretario que actuará como ministro de fe respecto de las actuaciones que deban ser autentificadas.
 
 Sin perjuicio de lo anterior, la Comisión podrá ser integrada, en casos particulares, por los funcionarios de los establecimientos de los Servicios de Salud, cuya opinión sea necesaria.
 
