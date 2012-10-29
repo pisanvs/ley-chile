@@ -1464,6 +1464,8 @@ Se prohíbe llevar abiertas las puertas del vehículo, abrirlas antes de su comp
 
 Ninguna persona podrá conducir un vehículo cuando se encuentre en condiciones físicas o psíquicas deficientes.
 
+No se entenderá, para efectos de esta ley, como condición física o psíquica deficiente, arrojar en el informe de alcoholemia o en el resultado de la prueba respiratoria que hubiere sido practicada por Carabineros de Chile, una dosificación igual o inferior a 0,3 gramos por mil de alcohol en la sangre.
+
 #### Artículo 110
 
 <!-- parte:8795213 -->
