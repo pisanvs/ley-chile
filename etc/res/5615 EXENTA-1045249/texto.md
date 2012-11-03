@@ -1,0 +1,5 @@
+DISPONEN DESISTIMIENTO DE EXPROPIACIONES PARCIALES DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 5.615 de 24.10.2012, Serviu Región del Biobío dispuso el desistimiento parcial de la expropiación, dispuesta por resolución exenta Nº 4.918 de 21.09.2011, del inmueble ubicado en la localidad de Llico. Rol de avalúo Nº 191-41 de la comuna de Arauco, de aparente dominio de Isaac Azócar Medina. En el sentido de dejar fuera de dicha expropiación la cantidad de 4.421 metros cuadrados, de suelo enmarcados en el polígono A-B-C-D-E-F-A del plano S8R-28.548 y obtener por el Departamento Jurídico la devolución para Serviu Región del Bíobío de la cantidad de $4.301.633 correspondiente al valor de los 4.421 metros cuadrados desistido, de quien retiró el monto de indemnización provisional en causa rol V-2236-2011 del Tribunal de Arauco.
