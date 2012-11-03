@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2295, de 03 de octubre de 2012, se modificó el numeral segundo del Decreto MOP. (Exento) Nº901, de 16 de mayo de 2012, en el sentido que el nombre el propietario según rol de avalúo es PONCE ROSALES HUGO HERIBERTO Y OTRO y EL ROL DE AVALÚO ES 291-1, Comuna de Curacaví, y no como se señaló en dicho acto administrativo, complementando el informe de tasación emitido el 31 de agosto de 2011, mediante acta emanada de la misma comisión el 22 de agosto de 2012, expropiado con motivo de la obra "Sistema de Agua Potable Rural Las Rosas".
+
+Fiscal del Ministerio de Obras Públicas.
