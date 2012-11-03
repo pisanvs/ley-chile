@@ -1,0 +1,3 @@
+Por Decreto Exento MOP. Nº2332, de 09 de octubre de 2012, se modificó el numeral segundo del Decreto MOP. (Exento) Nº653, de 10 de mayo de 2011, a fin de individualizar correctamente el lote de terreno Nº12, ubicado en la comuna de Coquimbo, que figura a nombre de TREMOLEYEN INV INMOB S A, rol de avalúo 2913-4, superficie 335 m2., complementando el informe de tasación emitido el 26 de abril de 2010, mediante acta emanada de la misma comisión el 31 de julio de 2012, expropiado con motivo de la obra "Mejoramiento Ruta D-35 (Camino La Cantera) S: Av. Del Mar – Ruta 43".
+
+Fiscal del Ministerio de Obras Públicas.
