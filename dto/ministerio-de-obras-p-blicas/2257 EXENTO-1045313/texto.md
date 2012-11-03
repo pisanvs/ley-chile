@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2257 de 3 de octubre de 2012, se modificó el numeral segundo del Decreto MOP (Exento) Nº1606 de 18 de agosto de 2011, que ordenó la expropiación del Lote Nº40, en la parte que se refiere al número de rol de avalúo y nombre del propietario según el Servicio de Impuestos Internos, debe decir: propietario según S.I.I. BROCAL VERA RUTH, rol de avalúo 561-175 Comuna de Tomé, superficie 135 m2, expropiado con motivo de la obra "Camino Ruta 126, Sector Coelemu - Rafael - Tomé, Tramo II, km. 20,300000 a km. 23,92041, Región del Bío Bio". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 70 del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
