@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.872, de 26 de octubre de 2012, de esta Subsecretaría, recházanse las solicitudes Nos 209101010, 212012004, 211012013, 211012014, 211031013, 208122039, 208122037, 208122042, 208122073, 208122043, 208122044, 208122048, 207123091, 211022003, 212071007, 212071005, 209081009, 211121007, 211121011, 211121009, 209081014, 211101076 y Nº 210100025 sector 2, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de artículos 10 c) y 14 a) del DS Nº 290, de 1993, de este Ministerio.
+
+Valparaíso, 26 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
