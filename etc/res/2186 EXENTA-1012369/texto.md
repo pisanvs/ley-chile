@@ -1508,6 +1508,8 @@ Para el giro de los anticipos a cuenta del pago del subsidio para financiar la a
 
 6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los proyectos seleccionados y preseleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
+7. Tratándose de proyectos de construcción en sitio propio, cuando el beneficiario, con la autorización de la inspección técnica de obras y del Serviu, o el Serviu correspondiente, pongan término al contrato de construcción por causas no imputables al beneficiario y de común acuerdo Serviu y el beneficiario dispongan la contratación de una nueva empresa constructora, previamente seleccionada por dicho servicio para hacerse cargo de la terminación del proyecto, Serviu podrá, previo informe del Departamento Técnico, asignar un subsidio complementario por el monto necesario para la terminación de las obras. Esto deberá ser informado oportunamente a la División de Política Habitacional y al Comité de Reconstrucción del Ministerio de Vivienda y Urbanismo, para las operaciones de contabilidad y seguimiento de obras. Todo lo anterior sin perjuicio de perseguir las responsabilidades de quien corresponda.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.

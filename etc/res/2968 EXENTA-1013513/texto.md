@@ -1336,6 +1336,10 @@ entregado por el SERVIU.
 
 8. En caso que la Asesoría Técnico Legal determine mediante el informe de diagnóstico señalado en el punto 5.5. del resuelvo número 5 de esta resolución, que la vivienda existente en el terreno se encuentra en estado habitable y que es posible efectuar su reparación, no se continuará con el proceso de postulación, pagándose a la asesoría la parcialidad de los honorarios señalada en el punto 5.6.1. del resuelvo número 5. Posteriormente la Asesoría Técnico Legal podrá postular al damnificado a los llamados especiales del Programa de Protección del Patrimonio Familiar que se dispongan para la atención de damnificados cumpliendo los requisitos que en ellos se establezcan.
 
+9. En el caso que familias preseleccionadas renuncien a su beneficio, el Ministerio de Vivienda y Urbanismo podrá destinar los recursos provenientes de esos subsidios, a la preselección de una nueva familia en la modalidad de construcción de viviendas en sitio propio con proyecto tipo, del Programa Fondo Solidario de Vivienda.
+
+10. Tratándose de proyectos de construcción en sitio propio, cuando el beneficiario, con la autorización de la inspección técnica de obras y del Serviu, o el Serviu correspondiente, pongan término al contrato de construcción por causas no imputables al beneficiario y de común acuerdo Serviu y el beneficiario dispongan la contratación de una nueva empresa constructora, previamente seleccionada por dicho servicio para hacerse cargo de la terminación del proyecto, Serviu podrá, previo informe del Departamento Técnico, asignar un subsidio complementario por el monto necesario para la terminación de las obras. Esto deberá ser informado oportunamente a la División de Política Habitacional y al Comité de Reconstrucción del Ministerio de Vivienda y Urbanismo, para las operaciones de contabilidad y seguimiento de obras. Todo lo anterior sin perjuicio de perseguir las responsabilidades de quien corresponda.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
