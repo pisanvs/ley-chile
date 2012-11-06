@@ -1,0 +1,27 @@
+MODIFICA DECRETO (A) Nº 7, DE 2010, DEL MINISTERIO DE MINERÍA, QUE OTORGA CONCESIÓN DE EXPLOTACIÓN DE ENERGÍA GEOTÉRMICA A GGE CHILE SpA, EN EL ÁREA DENOMINADA "SAN GREGORIO", UBICADA EN LAS REGIONES DEL BIOBÍO Y DE LA ARAUCANÍA, PROVINCIAS DE BIOBÍO Y MALLECO, COMUNAS DE QUILACO Y CURACAUTÍN, EN VIRTUD DE LA LEY N° 19.657
+
+Núm. 400 exento.- Santiago, 16 de octubre de 2012.- Vistos: Lo dispuesto en la Ley N° 20.402, que crea el Ministerio de Energía estableciendo modificaciones al DL N° 2.224, de 1978 y a otros cuerpos legales; en la Ley N° 19.657, sobre Concesiones de Energía Geotérmica; en su reglamento aprobado mediante decreto supremo N° 32, de 22 de abril de 2004, y su modificación dispuesta por decreto supremo N° 224, de 4 de diciembre de 2008, ambos del Ministerio de Minería; en el decreto supremo N° 131, de 26 de diciembre de 2002, del Ministerio de Minería; en el decreto supremo (A) N° 7, de 13 de enero de 2010, del Ministerio de Minería; en la presentación de don Rüdiger Trenkle, de fecha 21 de junio de 2012; en la resolución N° 1.600, de 2008, de la Contraloría General de la República, y
+
+Considerando:
+
+1. Que, mediante decreto supremo (A) N° 7, de 13 de enero de 2010, del Ministerio de Minería, publicado en el Diario Oficial de fecha 17 de marzo de 2010, se otorgó a GGE Chile SpA la concesión de explotación de energía geotérmica denominada "San Gregorio".
+
+2. Que, a través de presentación de fecha 21 de junio de 2012, efectuada por el representante legal de la empresa concesionaria identificada en el considerando primero del presente decreto, se informó a esta Secretaría de Estado que por escritura pública de fecha 2 de marzo de 2012, se dividió la sociedad GGE Chile SpA, resultando de dicha división la subsistencia de GGE Chile SpA como continuadora legal y la creación de una nueva sociedad denominada GeoGlobal Energy Exploración SpA, dejándose expresa constancia en la cláusula primera transitoria de la referida escritura, que dentro del activo de la sociedad continuadora, esta es, GGE Chile SpA, se mantuvo la concesión de explotación de Energía Geotérmica denominada "San Gregorio", individualizada en el considerando anterior.
+
+3. Que, posteriormente, por escritura pública de fecha 27 de abril de 2012, otorgada en la Notaría Pública de Santiago de doña Antonieta Mendoza Escalas, se modificó y transformó la saciedad GGE Chile SpA en una sociedad de responsabilidad limitada denominada Geotermia Curacautín Limitada.
+
+4. Que, de acuerdo a lo establecido en el artículo 24 de la Ley N° 19.657, sobre Concesiones de Energía Geotérmica, las referidas concesiones pueden ser transferidas total o parcialmente a terceros mediante escritura pública, agregando dicho precepto que, otorgada que sea la escritura pública de transferencia, el nuevo concesionario se subrogará al concesionario anterior, por el solo ministerio de la ley, en las obligaciones y derechos de la concesión.
+
+5. Que, por su parte, el artículo 55 del decreto supremo N° 32, de 2004, del Ministerio de Minería, que aprueba el reglamento de la ley N° 19.657, establece que dentro del plazo de un mes contado desde el otorgamiento de la respectiva escritura de transferencia y sin perjuicio de la subrogación que opera por el solo ministerio de la ley, el concesionario deberá comunicar por escrito al Ministerio de Energía la transferencia de la concesión, adjuntando copia autorizada de la escritura pública de transferencia, agregando que el Ministerio, por medio de decreto supremo, procederá a modificar la concesión de acuerdo a lo establecido en la respectiva escritura pública de transferencia.
+
+6. Que, atendidos los antecedentes expuestos, el Ministerio de Energía considera ajustado a derecho proceder a la modificación de decreto supremo (A) Nº 7, de fecha 13 de enero de 2010, del Ministerio de Minería, que otorgó a GGE Chile SpA la concesión de explotación de energía geotérmica denominada "San Gregorio", de conformidad con lo establecido en la ley N° 19.657 y su reglamento.
+
+Decreto:
+
+1° Modifícase el decreto supremo (A) N° 7, de 13 de enero de 2010, del Ministerio de Minería, que otorga concesión de explotación de energía geotérmica a GGE Chile SpA, en el área denominada "San Gregorio", ubicada en las Regiones del Biobío y de la Araucanía, provincias del Biobío y Malleco, comunas de Quilaco y Curacautín, en virtud de la ley N° 19.657, en el sentido que el nuevo titular de dicha concesión a contar del día 27 de abril de 2012, fecha de otorgamiento de la referida escritura pública de modificación y transformación, es la empresa Geotermia Curacautín Limitada, RUT N° 75.033.715-3, con domicilio en Carmencita N° 25, oficina 52, comuna de Las Condes, Santiago.
+
+2° Remítase copia de la escritura pública de modificación y transformación de la concesión de explotación denominada "San Gregorio", ya identificada, conjuntamente con una copia del presente decreto supremo, al Servicio Nacional de Geología y Minería para el efecto previsto en el artículo 48 del reglamento de la ley N° 19.657.
+
+Anótese, notifíquese, publíquese y archívese.- Por orden del Presidente de la República, Jorge Bunster Betteley, Ministro de Energía.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Hernán Moya Bruzzone, Jefe División Jurídica Subsecretaría de Energía.
