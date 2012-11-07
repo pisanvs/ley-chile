@@ -32,8 +32,6 @@ Resolución:
 
 > **Nota.** El Número 1 de la Resolución 8770 Exenta, Vivienda, publicada el 07.11.2012, modifica la presente norma en el sentido de reemplazar la tabla inserta en el resuelvo 2 por la que en ella señala, no obstante no existir tabla en el número 2, si no que en el número 3.
 
-> **Nota.** NOTA 1 El Número 1 de la Resolución 6247 Exenta, Vivienda, publicada el 03.09.2013, modifica la presente norma en el sentido de reemplazar en la Tabla inserta en el Resuelvo 1., la fila correspondiente a "Región de la Araucanía" y "Total País", por la que en ella señala, no obstante no existir tabla en el número 1, si no que en el número 3.
-
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
