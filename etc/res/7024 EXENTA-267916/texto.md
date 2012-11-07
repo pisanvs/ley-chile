@@ -16,40 +16,6 @@ En tal sentido, se efectuarán procesos de selección y preselección en forma m
 
 2º.- Las entidades de gestión inmobiliaria social deberán presentar las respuesta a las observaciones, considerando los plazos establecidos en el articulo 12 del D.S Nº 174 (V. y U.), de 2005, en dependencias del Serviu respectivo. A continuación se inserta tabla que señala los recursos involucrados para la selección de los proyectos postulantes en los concursos establecidos en el número 1º de esta resolución, para cada región del país:
 
-Región Recursos (UF)
-
-Arica Parinacota 339.500
-
-Tarapacá 192.271
-
-Antofagasta 85.375
-
-Atacama 210.024
-
-Coquimbo 474.640
-
-Valparaíso 1.056.006
-
-L.B. O'Higgins 100.965
-
-Maule 1.127.474
-
-Bío-Bío 1.256.606
-
-Araucanía 634.738
-
-Los Ríos 324.451
-
-Los Lagos 650.319
-
-Aysén 250.572
-
-Magallanes 49.804
-
-Metropolitana 2.279.655
-
-Total País 9.032.400
-
 3º.- Adicionalmente se destinarán para los concursos mensuales a realizar según lo establecido en el número 1º de esta resolución 1.815.108 Unidades de Fomento para otorgar subsidios diferenciados a la localización de los proyectos de construcción que cumplan con lo dispuesto en el Título XVI del D.S Nº 174 (V. y U.), de 2005.
 
 4° Los puntajes de corte, su cálculo y procedimiento serán determinados conforme a lo establecido en la resolución exenta N° 4.545 (V. y U.), de 2007.
@@ -59,6 +25,8 @@ Total País 9.032.400
 6º.- Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de los seleccionados. La difusión de dichas nóminas podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 > **Nota.** El Nº 1, de la RES 741 Exenta, Vivienda, publicada el 10.02.2009, ordena sustituir la tabla "inserta en el Nº 1" de la presente norma. Sin embargo, la referencia debe ser realizada al Nº 2, que es la que contiene la citada tabla.
+
+> **Nota.** NOTA 1 El Número 1 a) de la Resolución 8786 Exenta, Vivienda, publicada 07.11.2012, ordena sustituir el cuadro inserto en el Resuelvo 1º de la presente norma. Sin embargo, la referencia debe ser realizada al Nº 2, que es la que contiene dicho cuadro.
 
 #### Artículo transitorio
 
