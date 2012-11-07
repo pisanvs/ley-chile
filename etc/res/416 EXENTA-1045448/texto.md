@@ -1,0 +1,7 @@
+APRUEBA REFORMA DE ESTATUTOS DE LA SOCIEDAD "MBI ADMINISTRADORA GENERAL DE FONDOS S.A."
+
+Certifico: Que por resolución exenta Nº 416, de 31 de octubre de 2012, de esta Superintendencia de Valores y Seguros, se aprobó una reforma de estatutos de la sociedad "MBI Administradora General de Fondos S.A.", acordada en junta extraordinaria de accionistas celebrada el 24 de septiembre de 2012, y reducida a escritura pública con la misma fecha, la cual fue complementada por escritura pública de 18 de octubre de 2012, ambas otorgadas en la Trigésima Tercera Notaría de Santiago de don Iván Torrealba Acevedo, domiciliado en calle Huérfanos Nº 979, oficina 501, de la comuna de Santiago, consistente en:
+
+Modificar el objeto social por el siguiente: "La sociedad tendrá por objeto exclusivo la administración de fondos mutuos regidos por el decreto ley Nº1.328, de 1976, fondos de inversión regidos por la ley 18.815, fondos de inversión de capital extranjero regidos por la ley 18.657, fondos para la vivienda regidos por la ley 19.281 y cualquier otro tipo de fondo cuya fiscalización sea encomendada a la Superintendencia de Valores y Seguros, todo en los términos definidos en el artículo 220 de la ley Nº 18.045, como asimismo, la realización de las actividades complementarias que autorice la Superintendencia de Valores y Seguros.
+
+Santiago, 31 de octubre de 2012.- Carmen Undurraga Martínez, Secretaria General.
