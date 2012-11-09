@@ -1,0 +1,7 @@
+INSTRUYE SOBRE LAS MODIFICACIONES EFECTUADAS POR LA LEY Nº 20.565, DE 2012, AL TRATAMIENTO TRIBUTARIO DE LAS DONACIONES QUE SE EFECTÚEN AL AMPARO DE LA LEY Nº 19.885, SOBRE DONACIONES CON FINES SOCIALES Y PÚBLICOS
+
+Extracto de circular del Servicio de Impuestos Internos Nº 49 de fecha 5 de noviembre de 2012, la cual tiene por objeto instruir sobre las modificaciones efectuadas por la ley Nº 20.565, de 2012, al tratamiento tributario de las donaciones que se efectúen al amparo de la Ley Nº 19.885 sobre Donaciones con Fines Sociales y Públicos.
+
+En conformidad a lo dispuesto en el artículo 3º del Código Tributario, las modificaciones legales señaladas afectan a los impuestos de Primera Categoría y Global Complementario que deban declararse y pagarse a partir del 1 de enero de 2013. Por otra parte, tales modificaciones rigen para los contribuyentes del Impuesto Único de Segunda Categoría respecto de las donaciones que efectúen a contar del mes siguiente al de la publicación de esta ley en el Diario Oficial, es decir, a contar del 1 de marzo de 2012. Las nuevas instrucciones contenidas en la presente circular, rigen a contar de su publicación en extracto en el Diario Oficial.
+
+El texto íntegro de esta circular está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre, de 2012.
