@@ -4,4 +4,6 @@ Determínase, para los efectos del D.S. N° 72/91, del Ministerio de Transportes
 
 Salvo, respecto a los servicios de taxi colectivo que presten servicios en las vías de la ciudad de Penco, respecto a los cuales se FIJA en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal.
 
+Respecto a los servicios de taxis colectivos que presten servicios en las vías de la ciudad de Mulchén, se fija en 50%, como mínimo, la coincidencia entre el trazado variante y el trazado troncal.
+
 Anótese y publíquese.- Mauricio Leiva Chamorro, Secretario Regional Ministerial Transportes y Telecomunicaciones, VIII Región del Bío Bío.
