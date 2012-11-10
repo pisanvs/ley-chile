@@ -88,6 +88,12 @@ Ciclopista: diseño de ciclovía consistente en pistas exclusivas para vehículo
 
 Ciclobanda: Diseño de ciclovía que comparte una misma calzada con el resto del tránsito. No contempla ningún tipo de separación física entre los distintos tipos de vehículos. Su diseño consiste sólo en una demarcación en el pavimento, la que determina un espacio exclusivo para el uso de bicicletas.
 
+La Propaganda y Publicidad, en tanto no esté en vigencia la ordenanza local de "Propaganda y Publicidad para la comuna de Maipú" se deberá ceñir a lo estipulado en la Ordenanza de Urbanismo y Construcciones OGUC y la Ordenanza de Cobros del Departamento de Rentas o la que se reemplace.
+
+Cauces artificiales (canales): Se entenderán como aquellos cuerpos de agua destinados para riego (lineales, embalse o tranques) que poseen obras de canalización; en tanto no entre en vigencia la Ordenanza Local de Canales y/o Cauces Artificiales los proyectos deberán ceñirse a lo estipulado en el Código de Aguas DFL Nº 1.122, de 1981, artículos (41, 171 y 294); consultar además, fajas de restricción para la localización de edificaciones de 3 y 5 m. según ancho de cauce referido por disposición de la DOH o la asociación de canalistas (respectivos) medidos desde el borde del cuerpo de agua, la faja de protección tendrá el uso de área verde y deberán contemplar una reja de 1,80 m de alto en todo el largo de la faja comprendida en el Área Urbana, con accesos para limpieza según lo estipule el organismo competente. Para los
+
+embalses y tranques se considerará una franja de protección de 20 m. Si el canal es entubado, el uso de suelo sobre él será zonificado como franja de restricción, sobre el cual queda expresamente prohibido edificar, permitiéndose solamente área verde, deporte y esparcimiento al aire libre, vialidad e infraestructura de aguas lluvia y espacio público.
+
 ### 2. Normas Generales sobre Loteos y Urbanizaciones
 
 #### Artículo 8°
@@ -141,6 +147,8 @@ Se autorizará marquesinas que sobrepasen la línea de edificación sólo en con
 Sobre el área destinada a antejardín podrán sobresalir hasta 2 metros del plano de fachada, volados abiertos por tres lados, siempre que éstos se encuentren a una altura igual o superior a 3 m del nivel de solera. Estos volados no podrán cerrarse parcial o totalmente. Las zonas verticales de seguridad a las que alude el artículo 4.3.7 de la Ordenanza General de Urbanismo y Construcciones no podrán ubicarse en los antejardines.
 
 Asimismo, no podrá localizarse en los antejardines antenas de telefonía celular u otras de telecomunicaciones.
+
+Para los predios esquinas se le aplicará sólo el antejardín de la vía de mayor jerarquía.
 
 #### Artículo 15º
 
@@ -550,6 +558,8 @@ Para los efectos de la aplicación de la presente Ordenanza, el área urbana reg
 
 NOTA: VER D.O. 13.11.2004, PAGINAS 8 A 12
 
+> **Nota.** El artículo único del numeral 2º del Decreto 6971, Municipalidad de Maipú, publicado el 10-11-2012, modifica cuadro de condiciones de edificación y subdivisión de las Zonas ZI Zonas Industriales ZI-1, ZI-2 y ZI-4, de la manera que la citada norma indica.
+
 #### Artículo 35º
 
 Para la instalación de establecimientos de venta minorista de combustibles líquidos y centros de servicio automotriz, se deberá dar cumplimiento a lo señalado en los artículos 7.1.3 del Plan Regulador Metropolitano de Santiago.
@@ -560,7 +570,7 @@ Sin perjuicio de lo indicado en el Art. 3.2.1 del Plan Regulador Metropolitano d
 
 #### Artículo 37º
 
-El porcentaje de arborización en las zonas industriales se concentrará hacia los límites prediales, en al menos un 50% de lo exigido.En los deslindes que enfrenten a zonas habitacionales o vías que enfrentan zonas habitacionales, la arborización deberá ocupar toda el área disponible en el antejardín o en el área de distanciamiento correspondiente, una vez descontadas las de circulaciones indicadas en el artículo 43° de esta ordenanza.
+El porcentaje de arborización en las zonas industriales se concentrará hacia los límites prediales, en al menos un 50% de lo exigido.En los deslindes que enfrenten a zonas habitacionales o vías que enfrentan zonas habitacionales, la arborización deberá ocupar toda el área disponible en el antejardín o en el área de distanciamiento correspondiente, una vez descontadas las de circulaciones indicadas en el artículo 36º de esta ordenanza.
 
 #### Artículo 38º
 
@@ -570,7 +580,7 @@ Sin perjuicio de lo que señala la Ordenanza General de Urbanismo y Construccion
 
 #### Artículo 39º
 
-Frente a la Av. 5 de Abril, entre la Av. Pajaritos y Carmen (en la zona ZC-2 del Plan) las edificaciones consultarán un pórtico en la vereda sur, de 3,00 m de ancho a partir de la línea oficial y con una altura de 6,00 m de piso a cielo. En la vereda norte las nuevas edificaciones consultarán una marquesina a una altura de 4,00 m a partir del nivel de la acera. Las características y el detalle de estos elementos deberán ser definidas por el Director de Obras Municipales de acuerdo a lo señalado en articulo 2.7.7 de la OGUC.
+En las Zonas ZH-1, ZH-2 y ZH-3 (sólo sectores de Ciudad Satélite y El Abrazo), ZE-5 y ZE-6 permítase equipamiento de infraestructura sanitaria "Plantas de Captación de Agua Potable" enterrados y semienterrados. Estas podrán emplazarse en predios no menores a 2.500 m², el estanque y sus instalaciones deberán dejar al menos 8 metros a la línea oficial, distancia a medianeros para estanques semienterrados será de 8 metros y para estanques enterrados 5 metros, deberán enfrentar vialidad colectora de 15 metros o 20 para vías sin categoría. La altura será según rasante, no se permite adosamiento ni edificación continua.
 
 #### Artículo 40º
 
@@ -580,7 +590,9 @@ En las zonas ZC-1, ZC-2, ZC-3 y ZC-4, cuando en un medianero concurran espacios 
 
 ZONAS DE USO ESPECIAL
 
-> **Nota.** NOTA: VER D.O. 13.11.2004, PAGINAS 12 Y 13 NOTA NOTA: El artículo 2º del DTO 1984, M. de Maipú, introduce diversas modificaciones a la presente normas, las que no se han incorporado al presente texto actualizado por razones técnicas temporales.
+> **Nota.** El artículo 2º del DTO 1984, M. de Maipú, introduce diversas modificaciones a la presente normas, las que no se han incorporado al presente texto actualizado por razones técnicas temporales.
+
+> **Nota.** NOTA 1 El artículo único del numeral 2º del Decreto 6971, Municipalidad de Maipú, publicado el 10-11-2012, modifica la presente en en el sentido de introducir cambios de la manera que la citada norma indica.
 
 #### Artículo 42º
 
@@ -906,7 +918,7 @@ Vargas y Arcaya Asunción 1440
 
 Reyes Palazuelos Elizabeth Heisse 500
 
-65 Franz Liszt Carmen 1294
+65 Franz Liszt Diego de Almagro 351
 
 66 Industrial
 
@@ -1088,11 +1100,67 @@ Patrimonio Arqueológico: Si como resultado de excavaciones y/o movimientos de t
 
 Usos de Suelo en Área Restringida o Excluida del Desarrollo Urbano: Corresponde al territorio comunal que se encuentra fuera del límite urbano, y los usos de suelo permitidos serán los indicados en Titulo 8 de la Ordenanza del Plan Regulador Metropolitano de Santiago, inclusive en lo que respecta a áreas de restricción, y se regirán por las disposiciones contenidas en su Ordenanza y por la Ley y Ordenanza General de Urbanismo y Construcciones.
 
+#### Artículo 47º
+
+(DEL NRO. Nº2)
+
+Sobre sistema de agrupamiento continuo:
+
+En aquellas zonas o subzonas habitacionales en que no se especifique la altura máxima de edificación continua y se permita como sistema de agrupamiento "continuo", ésta será para uso habitacional la que se indica o establece para cada zona como altura de edificación máxima, medida en la misma forma que establece el Nº 3, del inciso 2º, del artículo 2.6.2. de la Ordenanza General de la Ley General de Urbanismo y Construcciones para los adosamientos, y 15 metros para los otros usos.
+
+Para las zonas ZC1, ZC4 la altura máxima será de 15 metros para todos los usos.
+
+Sobre la edificación continua se permitirá construcción aislada, en los casos que no se indique lo contrario.
+
+Sin perjuicio del cumplimiento de otras disposiciones de esta ordenanza, laedificación continua para uso habitacional (residencial) no podrá tener una profundidad mayor de 12 metros de longitud como tampoco podrá abarcar la totalidad de la longitud del deslinde común; para otros usos la profundidad y adosamiento máximos es la indicada en la Ordenanza de Urbanismo y Construcciones.
+
+#### Artículo 48º
+
+(DEL NRO. Nº2)
+
+Complemento para ochavos:
+
+En los sitios esquina los cierros deberán formar ochavos no inferiores a 4 m. Según sea la intensidad del tránsito, el ángulo y el ancho de las calles en las intersecciones, esta longitud podrá variar según tamaño del perfil de la calle que enfrenten esté materializado o proyectado por los instrumentos de planificación, según los perfiles que a continuación se detallan:
+
+- Perfil de 11 a 15 metros: Ochavos de 8 metros.
+
+- Perfil de 15,01 a 20 metros: Ochavos de 6 metros.
+
+- Perfil de más de 20 metros: OGUC.
+
+En todos casos los ochavos cumplirán con los artículos 2.5.5., 2.5.6., 2.5.7., de la Ordenanza General de la Ley de Urbanismo y Construcciones.
+
+#### Artículo 49º
+
+(DEL NRO. Nº2)
+
+Pisos subterráneos
+
+En relación a la facultad dispuesta por el artículo transitorio de la ley 19.425, se establece que se permitirá la edificación en pisos subterráneos de bienes nacionales de uso público, sólo en los siguientes casos:
+
+1) Para actividades del uso de suelo "Equipamiento", con excepción de las incluidas en la clase "Social" y clase "Culto".
+
+2) Se permite el uso de suelo "infraestructura", para la clase "Transporte y Estanques de Agua Potable".
+
+3) Se prohíbe expresamente: Clase Educación actividad centros de rehabilitación conductual; clase seguridad, actividad cárceles; clase salud, actividad crematorios, clínicas veterinarias y centros de atención veterinaria; clase comercio venta de animales y mascotas, funerarias, ferreterías, distribuidora de gas y combustibles; clase servicios artesanales talleres mecánicos y desabolladuras.
+
+4) Sólo aquellos proyectos que no contemplen estacionamientos en superficie y pisos superiores, podrán considerar construcciones adosadas al área bajo el antejardín.
+
+Todo lo anterior sin perjuicio de las normas y exigencias que pudiera definir el municipio para la concesión de proyectos en estas áreas.
+
+#### Artículo 50º
+
+(DEL NRO. Nº2)
+
+Instalaciones de telecomunicaciones
+
+Las instalaciones destinadas a telecomunicaciones, tales como antenas, parabólicas, radares y otros similares, se atendrán a lo establecido en los artículo 2.6.3 y 5.1.2 de la OGUC y la ordenanza local que exista o entre en vigencia y sus modificaciones posteriores. Se exceptúan de la aplicación de las normas anteriores los radioaficionados.
+
 ## Capítulo V
 
 ÁREAS DE RIESGOS, RESTRICCIÓN Y PROTECCIÓN
 
-#### Artículo 47º
+#### Artículo 51º
 
 Áreas de Restricción: Las áreas de restricción son las definidas por el Plan Regulador Metropolitano de Santiago y las incorporadas en virtud de los resultados del Estudio de Riesgos Naturales y Protección Ambiental realizado para el Plan Regulador Comunal. En general se regirán de acuerdo a lo indicado en la ordenanza del Plan Regulador Metropolitano de Santiago. Se encuentran graficadas en el Plano PRCM-3 y su definición y regulaciones son las siguientes:
 
@@ -1148,6 +1216,8 @@ AR-4 De Terminales y Plantas de Combustible de Maipú
 
 Se regirán según lo dispuesto por el Art. 8.2.2.2. del PRMS. Se grafican en los planos PRCM-1B, PRCM-1C y PRCM-3 los predios correspondientes, y además las áreas de restricción de estanques definidas a la fecha por la Superintendencia de Electricidad y Combustibles, en las cuales. Las áreas de restricción de los nuevos estanques serán las indicadas por el organismo competente.
 
+Para el área y predios que queda en radio de influencia de 800 metros por BLEVE graficado en plano MPRCM-3, el uso permitido es Equipamiento clase salud sólo cementerios y áreas verdes complementarias y las indicadas como permitidas en Plan Regulador Metropolitano de Santiago según artículo 8.2.2.2 según proyecto aprobado por el Ministerio de Salud.
+
 AR-5 De Resguardo de Infraestructura de Transporte y Comunicaciones
 
 AR-5A Fajas de Resguardo de Vías Ferroviarias. Según Art. 8.4.1.1. del Plan Regulador Metropolitano de Santiago y lo indicado en los artículos 34°, 35°, 36°, 42° y 43° de la Ley General de Ferrocarriles.
@@ -1202,23 +1272,23 @@ protección (m)
 
 500 27 54
 
-## Capítulo V
+## Capítulo VI
 
 VIALIDAD
 
-#### Artículo 48º
+#### Artículo 52º
 
 La Vialidad Estructurante Metropolitana y la Red Vial Local del área urbana, reguladas en el presente Plan, están constituidas por el conjunto de vías expresas, troncales, colectoras, de servicio y locales graficadas en los planos PRCM-2A, PRCM-2B y PRCM-2C y cuya identificación, ancho entre líneas oficiales y demás características, se señalan más adelante.
 
 Sin perjuicio de lo anterior, en la zona excluida al desarrollo urbano la vialidad estructurante de la comuna será la que define el Plan Regulador Metropolitano de Santiago.
 
-#### Artículo 49º
+#### Artículo 53º
 
 Todas las vías públicas existentes en la comuna se reconocen como bienes nacionales de uso público destinados a vialidad.
 
 Estas vías mantienen sus anchos existentes entre líneas oficiales, salvo aquellos casos en que expresamente se dispongan modificaciones como ensanches, ya sea en el presente Plan, en los loteos y en las subdivisiones incorporadas a éstos.
 
-#### Artículo 50º
+#### Artículo 54º
 
 En las vías que se indica a continuación se consulta la habilitación de ciclovías. El proyecto correspondiente deberá ser realizado según exigencias contenidas en el REDEVU año 1984, y contar con un informe favorable del SERVIU, Asesoría Urbana y de la Dirección de Tránsito y Transporte.
 
@@ -1254,17 +1324,35 @@ Costanera Norte FFCC San Antonio.
 
 . Av. Segunda Transversal desde Av. Américo Vespucio hasta Av. 5 de Abril.
 
-#### Artículo 51º
+#### Artículo 55º
 
 En los siguientes cuadros se indica la vialidad estructurante de la comuna de Maipú:
 
 NOTA: VER D.O. 13.11.2004, PAGINAS 15 A 20
+
+> **Nota.** El artículo único del numeral 2º del Decreto 6971, Municipalidad de Maipú, publicado el 10-11-2012, modifica las columnas de observación, distancia entre líneas oficiales, códigos y tramos, de la manera que la citada norma indica.
 
 #### Artículo TRANSITORIO
 
 En los terrenos que se encuentran afectados al futuro nudo vial de Av. Pajaritos con Camino Melipilla, de acuerdo a proyecto de ingeniería de detalle elaborado y aprobado por el Ministerio de Obras Públicas, se podrán realizar las actividades contempladas para la zona de uso de suelo correspondiente (Zona Industrial Exclusiva) hasta que sean requeridos para la materialización de dicha obra de vialidad por parte de las autoridades competentes.
 
 Sin perjuicio de lo anterior, para la materialización de dicho nudo vial, se debe contar con el informe favorable de la SEREMI del Ministerio de Vivienda y Urbanismo, en conformidad a lo señalado en el artículo 7.1.1.3 de la ordenanza del PRMS.
+
+Segundo Artículo Transitorio:
+
+Permítase en las viviendas existentes de las zonas ZE-6 y ZI-3 un aumento de constructibilidad y altura hasta un 20% de lo aprobado por proyecto de loteo.
+
+Tercer artículo transitorio:
+
+Cuando en los cuadros de condiciones de edificación y subdivisión dispuestos en el artículo 34º, se indica "no", esto es de carácter prohibitivo, es decir significa que no se permite.
+
+Cuarto artículo transitorio:
+
+Para el sector ZE-6, ubicado en las intersecciones de las Vías Avenida Pajaritos y El Descanso, se aplicará antejardín de 12 metros por vía El Descanso (S89M).
+
+Quinto Artículo Transitorio:
+
+Para las viviendas existentes inscritas en el Área de Riesgo AR-4 (BLEVE), se permitirá la ampliación de su superficie construida con las condiciones técnico-urbanísticas de la zona correspondiente.
 
 3.- Publíquese en el Diario Oficial y archívense copias autorizadas en el Conservador de Bienes Raíces de Santiago, en la División de Desarrollo Urbano del Ministerio de Vivienda y Urbanismo y en la Secretaría Ministerial Metropolitana de Vivienda y Urbanismo.
 
