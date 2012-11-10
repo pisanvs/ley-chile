@@ -34,9 +34,7 @@ refundido, coordinado y sistematizado de la Ley
 
 Nº 18.834 sobre Estatuto Administrativo.
 
-2.- Instrucción de Investigaciones Sumarias y
-
-Sumarios administrativos.
+2.- ELIMINADO.
 
 3.1.- Autorizar, conforme la organización del trabajo
 
