@@ -78,7 +78,7 @@ En el ejercicio de esta facultad, el Servicio Nacional de Turismo podrá apoyar 
 
 21) Dictar las normas a las cuales deberán sujetarse las residencias particulares que se destinen transitoriamente al alojamiento de turistas;
 
-22) Declarar Zonas o Centros de Interés Turístico Nacional, previo informe del Ministerio de Defensa Nacional.
+22) DEROGADO.
 
 Respecto de zonas fronterizas, la declaración se hará previo informe, además, de la Dirección de Fronteras y Límites del Estado;
 
@@ -86,19 +86,15 @@ Respecto de zonas fronterizas, la declaración se hará previo informe, además,
 
 24) Cooperar y asesorar a los organismos pertinentes en la preservación, puesta en valor y explotación del patrimonio artístico, cultural e histórico, para lo cual podrá suscribir los convenios correspondientes;
 
-25) Propender a la simplificación de las normas y procedimientos requeridos para el ingreso, permanencia y salida de los turistas del territorio nacional, pudiendo proponer a los servicios competentes las respectivas medidas de facilitación. Para tal efecto, podrán crearse comisiones consultivas ad honorem;
+25) DEROGADO;
 
-26) Celebrar convenios con personas naturales, jurídicas o con organismos públicos, nacionales, extranjeros o internacionales, con el objeto de promover y facilitar el intercambio y desarrollo turísticos;
+26) DEROGADO;
 
-27) Conocer las infracciones a las leyes, reglamentos y demás normas que rigen la actividad turística, de conformidad a lo dispuesto en el Título V del decreto ley N° 1.224, de 1975, y su Reglamento;
+27) DEROGADO;
 
-28) Dictar normas e instrucciones relativas a la actividad turística;
+28) DEROGADO;
 
-29) Adquirir o enajenar material de promoción turística.
-
-Las adquisiciones a título oneroso se harán a través de propuestas privadas, salvo que el Director Nacional, previamente y por resolución fundada, exima a una determinada adquisición de dicho trámite.
-
-La enajenación a título oneroso de material de promoción turística se hará en forma directa, salvo que por circunstancias especiales se determine efectuarlas en una forma diversa;
+29) DEROGADO;
 
 30) Convenir con personas naturales, jurídicas o con organismos públicos nacionales, extranjeros o internacionales, la colaboración o coordinación necesaria para el mejor cumplimiento de las funciones del Servicio;
 
