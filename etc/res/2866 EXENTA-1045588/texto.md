@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.866, de 26 de octubre de 2012, de esta Subsecretaría, autorízase a SOCIEDAD PESQUERA PESSUR LIMITADA para ampliar actividades pesqueras extractivas con la nave "Pesur I" en el área marítima comprendida entre los paralelos 33º al 40º L.S., con red de arrastre, por fuera del área de reserva artesanal, los recursos hidrobiológicos Pampanito, Caballa, Cojinoba moteada, Pejerrata y Vinciguerria.
+
+Valparaíso, 26 de octubre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
