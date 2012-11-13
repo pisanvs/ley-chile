@@ -20,7 +20,7 @@ d) La facultad que me confiere el artículo 21 del DS Nº 49 (V. y U.), de 2011,
 
 Resolución:
 
-1. Exímase al grupo denominado Comité de la comuna de Peralillo, de la Región del L. B. O'Higgins, conformado por 50 personas, del requisito de postulación establecido en la letra b) del inciso final del artículo 19, referido a que a lo menos el 60% de los integrantes del grupo al momento de su constitución como persona jurídica deberá formar parte del grupo postulante o el 60% de los integrantes del grupo postulante debe tener una antigüedad de a lo menos un año formando parte de dicha personalidad jurídica.
+1. Exímase al grupo denominado Comité de Vivienda Alto Refugio 2 de la comuna de Pichilemu, de la Región del L. B. O'Higgins, conformado por 50 personas, del requisito de postulación establecido en la letra b) del inciso final del artículo 19, referido a que a lo menos el 60% de los integrantes del grupo al momento de su constitución como persona jurídica deberá formar parte del grupo postulante o el 60% de los integrantes del grupo postulante debe tener una antigüedad de a lo menos un año formando parte de dicha personalidad jurídica.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
