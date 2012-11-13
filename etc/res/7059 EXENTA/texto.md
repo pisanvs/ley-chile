@@ -18,7 +18,7 @@ d) La facultad que me confiere el artículo 21 del DS Nº 49 (V. y U.), de 2011,
 
 Resolución:
 
-Exímase a los grupos denominados Comité de Vivienda "Las Polillas del Desierto", de la comuna de Copiapó y "Juntos Creciendo", de la comuna de Diego de Almagro, ambos de la Región de Atacama, del requisito de postulación establecido en la letra b) del inciso final del artículo 19, referido a que a lo menos el 60% de los integrantes del grupo al momento de su constitución como persona jurídica deberán formar parte del grupo postulante o el 60% de los integrantes del grupo postulante debe tener una antigüedad de a lo menos un año formando parte de dicha personalidad jurídica.
+Exímase a los Comités de Vivienda "Las Polillas del Desierto", de la comuna de Copiapó y "Juntos Creciendo", de la comuna de Diego de Almagro, del requisito de postulación a que se refiere la letra a) del inciso final del artículo 19, del DS Nº49 (V. y U.), de 2011.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
