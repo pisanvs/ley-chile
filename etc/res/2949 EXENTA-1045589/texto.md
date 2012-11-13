@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.949, de 7 de noviembre de 2012, de esta Subsecretaría, recházanse las solicitudes Nº 212121015, Nº 212122040 y Nº210100025 sector 1, individualizadas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud del artículo 78 de la Ley General de Pesca y Acuicultura.
+
+Valparaíso, 7 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
