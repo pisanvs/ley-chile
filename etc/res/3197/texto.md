@@ -28,8 +28,4 @@ palmi no están presentes en el país".
 
 6.- Los envíos serán inspeccionados a su arribo al país por los profesionales del Servicio Agrícola y Ganadero destacados en el puerto de ingreso, quienes verificarán el cumplimiento de los requisitos y condiciones fitosanitarias y, con la documentación adjunta, resolverán su internación.
 
-7.- Las disposiciones contenidas en esta resolución, exceptúan el origen Ecuador.
-
-8.- Las disposiciones contenidas en esta resolución, exceptúan la especie crisantemo (Chrysanthemum sp.) procedentes de Ecuador.
-
 Anótese, comuníquese y publíquese.- Leopoldo Sánchez Grunert, Director Nacional.
