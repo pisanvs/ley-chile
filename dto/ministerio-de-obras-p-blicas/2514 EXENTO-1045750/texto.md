@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2514 de 29 de octubre de 2012 y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº 850 de 1997, se expropió el lote de terreno Nº1, superficies 123 m2, rol de Avalúo 410-2, comuna de San Felipe, para la obra "2011 conservación periódica ruta 60-CH, PROVINCIA Y COMUNA DE SAN FELIPE, REGIÓN DE VALPARAÍSO", V Región. La Comisión de Peritos integrada por MARÍA ISABEL RÍOS MARCUELLO, MARCELA REDARD AYALA Y ROBERTO LUIS SEBASTIÁN HERNÁNDEZ, fijó el valor de tasación con fecha 21 de julio de 2011, acordándose el valor de la indemnización con su propietaria, MARÍA CRISTINA LAZO LAZCANO, en la cantidad de $12.094.504.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
