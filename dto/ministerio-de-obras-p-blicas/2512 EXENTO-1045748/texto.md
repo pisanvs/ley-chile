@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2512 de 29 de octubre de 2012 y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº 850 de 1997, se expropiaron los lotes de terrenos Nºs. 2-A, 4-A y 4, superficies 1.780, 598 y 717 m2, rol de Avalúo 362-875, comuna de La Ligua, para la obra "CONSTRUCCIÓN PUENTE SANTA MARTA EN RUTA E-253", V Región. La Comisión de Peritos integrada por JOSÉ ROGELIO REYES AZANCOT, CARMEN PILAR RÍOS MARCUELLO Y ANDRÉS ECHEVERRÍA CAMPOS, fijó el valor de tasación con fecha 20 de mayo de 2011, acordándose el valor de la indemnización con sus propietarios, GRISELDA DEL CARMEN PINILLA ESPINOZA Y OTROS, en la cantidad de $4.526.960.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
