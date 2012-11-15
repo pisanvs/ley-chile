@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2531, de fecha 29 de octubre de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº86, superficie 1.898 m2, rol Nº1098-146, Comuna de Quillón, para la obra "MEJORAMIENTO RUTA O-516 S: REUNIÓN – PASO HONDO, COM. YUMBEL, CABRERO, SECTOR KM. 0,00000 A KM. 12,53400", VIII Región. La comisión de peritos integrada por Adriana Fasce Casanueva, Claudio Castro Gutiérrez y Susana Conejeros Rudloff, fijó el valor de tasación con fecha 22 de diciembre de 2010, acordándose la indemnización con su propietaria ELIANA REGINA JARA ROJAS Y OTROS, en la cantidad de $3.178.207.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
