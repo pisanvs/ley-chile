@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2518, de fecha 29 de octubre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº17, superficie 1.499 m2, rol Nº2141-51, Comuna de Puerto Montt, para la obra "CONSTRUCCIÓN CONEXIÓN VIAL RUTA 5 (PUERTO MONTT) – RUTA 7 (CHAMIZA)", X Región. La Comisión de Peritos integrada por Christian Emil Rauch Yáñez, Juan Samuel Barrientos Bahamonde y Nelson Bernardo Turra Turra, fijó el valor de tasación con fecha 14 de diciembre de 2011, acordándose la indemnización con su propietario CLUB AÉREO DE PUERTO MONTT, en la cantidad de $161.603.418, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
