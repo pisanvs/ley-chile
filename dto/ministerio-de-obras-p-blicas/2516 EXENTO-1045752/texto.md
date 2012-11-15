@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2516 de 29 de octubre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº74-A, superficie 276 m2, rol de Avalúo Nº3251-199, comuna de Temuco, para la obra "CAMINO RUTA S-30, SECTOR TEMUCO-LABRANZA KM. 4,61500 A KM. 11,68000". La Comisión de peritos, integrada por MARÍA ELENA HARCHA ABUHADBA, MARÍA SOLEDAD NUÑEZ ARROYO Y EVALDO ROBERTO CONTRERAS ROA, fijó el valor de tasación con fecha 1 de septiembre de 2011, acordándose la indemnización con su propietario MANUEL DEL TRÁNSITO MARIN INGLÉS, en la cantidad de $5.917.701.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
