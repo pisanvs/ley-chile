@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2513 de 29 de octubre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº113-A, superficie 13 m2, rol de Avalúo Nº1450-86, comuna de Puerto Varas, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS – ENSENADA, KM. 31,33730 A KM. 50,60320". La Comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, JUAN CELESTINO GIOVANNINI MANSILLA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 4 de julio de 2011, acordándose la indemnización con su propietario CARLOS SEGUNDO SIEGEL LINAY, en la cantidad de $830.373.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
