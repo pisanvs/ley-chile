@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2392 de 25 de octubre de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº 850 de 1997, se expropió el lote de terreno Nº67, superficie 660 m2, rol de Avalúo 252-176, comuna de Salamanca, para la obra "REPOSICIÓN PAVIMENTO RUTA D-81, ILLAPEL – SALAMANCA, IV REGIÓN". La Comisión de Peritos integrada por JOSÉ ANTONIO VALDÉS HERREROS, PABLO FLORES SALINAS Y PATRICIO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 29 de febrero de 2012, acordándose el valor de la indemnización con su propietaria, BERTA JAMETT VALENCIA, en la cantidad de $2.355.690.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
