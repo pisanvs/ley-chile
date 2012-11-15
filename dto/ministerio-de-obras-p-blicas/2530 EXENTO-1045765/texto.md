@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº2530, de fecha 29 de octubre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 2.626 m2., Rol Nº24-469, comuna de San Pedro, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES EN SAN PEDRO – PIRQUE – LAMPA RM". La comisión de peritos, integrada por Néstor Abello Rodríguez, Norman Calderón Pontiggia y Douglas Herrera Flores, fijó el valor de tasación con fecha 16 de septiembre de 2011, acordándose la indemnización con su propietaria FLOR DEL CARMEN QUIROZ ROJAS Y OTROS, en la cantidad de $5.113.370.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
