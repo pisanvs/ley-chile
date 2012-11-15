@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2393, de 25 de octubre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 4 y 5, superficies 4 y 44 m2., Rol Nº 102-15, para la obra "MEJORAMIENTO RUTA Nº77, EL CARMEN – TREHUALEMU – LOS CASTAÑOS", Comuna de El Carmen, Provincia de Ñuble, Región de Bío Bío. La comisión de peritos, integrada por Roxana Cecilia Abarzúa Gajardo, Adriana Katherina Fasce Casanueva y María Alejandra Gutiérrez Flores, fijó el valor de tasación con fecha 28 de marzo de 2012, acordándose la indemnización con su propietario JAVIER AURELIO SANDOVAL CHÁVEZ, en la cantidad de $338.354.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
