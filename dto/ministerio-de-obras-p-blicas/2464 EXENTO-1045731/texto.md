@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2464, de 25 de octubre de 2012, de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997,se expropió el lote de terreno Nº 25-A, superficie 1.430 m2., Rol Nº 434-78, comuna de Illapel, IV Región, para la obra "EMBALSE EL BATO CANAL NUEVO COCINERA FAJAS ADICIONALES, KM. 10,787 A KM. 11,106", Región de Coquimbo. La Comisión de peritos integrada por Patricio Fernando Casagrande Ulloa, Norman Estanislao Calderón Pontiggia y Miguel Juan Fernández Cádiz, fijó el valor de tasación con fecha 26 de marzo de 2012, acordándose la indemnización con su propietaria IRMA DE MERCEDES ARAYA TAPIA, en la cantidad de $554.051.-
+
+Fiscal del Ministerio de Obras Públicas.
