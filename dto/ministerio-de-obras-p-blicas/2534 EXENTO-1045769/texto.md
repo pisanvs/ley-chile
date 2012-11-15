@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº2534, de 29 de octubre de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº 850 de 1997, se expropió el lote de terreno Nº 7, superficie 1.372 m2., Rol Nº 115-16, Comuna de San Pablo, para la obra "MEJORAMIENTO RUTA U-16, SECTOR BIF. QUILACAHUÍN – PUENTE MOMBERG, TRAMO KM. 12,50000 A KM. 22,30800", X Región. La comisión de peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Juan Celestino Giovannini Mansilla, fijó el valor de tasación con fecha 6 de octubre de 2010, acordándose la indemnización con su propietaria MARÍA ELBA KEMP MARTÍNEZ, en la cantidad de $1.203.584.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
