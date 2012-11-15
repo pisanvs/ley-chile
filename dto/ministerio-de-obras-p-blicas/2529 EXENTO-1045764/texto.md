@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2529, de fecha 29 de octubre de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 566 m2, rol Nº902-60, Comuna de Alto del Carmen, para la obra "MEJORAMIENTO RUTA C-495, EL TRANSITO – JUNTA DE VALERIANO, ETAPA II, (MALAGUÍN – LAS LOSAS)", III Región. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 25 de julio de 2011, acordándose la indemnización con su propietario ALADINO AMALIO CAYO CAMPILLAY, en la cantidad de $922.070.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
