@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2416 de 25 de octubre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos Nºs. 39 Y 39-A, superficies 3.475 y 5.525 m2, rol de Avalúo Nº162-94, comuna de Puerto Octay, para la obra "CAMINO RUTA U-99-V, SECTOR LAS CASCADAS - ENSENADA, KM. 31,33730 A KM. 50,60320". La Comisión de peritos, integrada por CARLOS EUGENIO MERA SANTIBÁÑEZ, JUAN CELESTINO GIOVANNINI MANSILLA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 4 de agosto de 2009 y 20 de abril de 2011, acordándose la indemnización con su propietario BRAULIO HERRERA GONZÁLEZ, en la cantidad de $49.574.550.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
