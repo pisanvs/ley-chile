@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2480, de 29 de octubre de 2012, de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº 16-A, superficie 278 m2., Rol Nº 423-45, comuna de Illapel, para la obra "EMBALSE EL BATO CANAL NUEVO COCINERA FAJA ADICIONAL ENTREGA, KM. 1,378 - KM. 0,000 A KM. 0,086", IV Región. La Comisión de peritos integrada por Patricio Fernando Casagrande Ulloa, Norman Estanislao Calderón Pontiggia y Miguel Juan Fernández Cádiz, fijó el valor de tasación con fecha 26 der marzo de 2012, acordándose la indemnización con su propietaria CREMIRA DEL CARMEN PLAZA FERNÁNDEZ Y OTROS, en la cantidad de $168.335.-
+
+Fiscal del Ministerio de Obras Públicas.
