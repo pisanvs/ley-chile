@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº2521, de fecha 29 de octubre de 2012, y de conformidad a lo dispuesto en el artículo 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº2, superficie 2.052 m2., rol Nº2026-162, comuna de Melipilla, para la obra "REPOSICIÓN Y CONSTRUCCIÓN DE PUENTES VARIAS PROVINCIAS REGIÓN METROPOLITANA". La comisión de peritos, integrada por Néstor Abello Rodríguez, Douglas Herrera Flores y Marcela Alejandra Redard Ayala, fijó el valor de tasación con fecha 29 de julio de 2011, acordándose la indemnización con su propietario RICARDO HÉCTOR SEPÚLVEDA BAGU, en la cantidad de $24.465.470.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
