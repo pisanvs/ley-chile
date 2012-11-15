@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2526, de fecha 29 de octubre de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº16, superficie 664 m2, rol Nº250-133, Comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA – QUELÉN BAJO", IV Región. La comisión de peritos integrada por Víctor Vargas Reyes, Elisa Tapia Fernández y Juan Ibañez Palma, fijó el valor de tasación con fecha 05 de junio de 2011, acordándose la indemnización con su propietaria DANIELA HAYDÉE RIVERA VEAS en la cantidad de $2.163.402.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
