@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2522 de 29 de octubre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron los lotes de terrenos Nºs. 27 y 27-A, superficies 607 y 87 m2, rol de Avalúo Nº158-251, comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO – LAS GAVIOTAS, TRAMO KM. 65,58046 A KM. 72,78493". La Comisión de peritos, integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, LEOPOLDO RAMÓN SCHUMACHER GUARDA Y NELSON BERNARDO TURRA TURRA, fijó el valor de tasación con fecha 15 de marzo de 2007, acordándose la indemnización con don RUBÉN MARIO MARDOÑEZ ZENTENO, en la cantidad de $1.638.899.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
