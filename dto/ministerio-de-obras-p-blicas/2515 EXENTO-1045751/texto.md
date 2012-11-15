@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2515, de fecha 29 de octubre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº34, superficie 972 m2, rol Nº158-263, Comuna de Puerto Octay, para la obra "CAMINO CONSTRUCCIÓN RUTA U-91, SECTOR RÍO CORRENTOSO – LAS GAVIOTAS, TRAMO KM. 65,58046 A KM. 72,78493", X Región. La Comisión de Peritos integrada por Leopoldo Ramón Schumacher Guarda, Nelson Bernardo Turra Turra y Juan Samuel Barrientos Bahamonde, fijó el valor de tasación con fecha 15 de marzo de 2011, acordándose la indemnización con su propietaria AGRÍCOLA Y GANADERA CINCO SUR LIMITADA, en la cantidad de $2.128.212.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
