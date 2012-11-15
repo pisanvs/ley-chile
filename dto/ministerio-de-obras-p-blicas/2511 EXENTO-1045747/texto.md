@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2511 de 29 de octubre de 2012 y de conformidad a lo dispuesto en el art. 105 del DFL MOP Nº 850 de 1997, se expropiaron los lotes de terrenos Nº42, 44 y 46, superficies 1.535, 609 y 411 m2, rol de Avalúo 421-59, comuna de Illapel, para la obra "REPOSICIÓN PAVIMENTO RUTA D-81, ILLAPEL – SALAMANCA, IV REGIÓN". La Comisión de Peritos integrada por JOSÉ ANTONIO VALDÉS HERREROS, PABLO FLORES SALINAS Y PATRICIO CASAGRANDE ULLOA, fijó el valor de tasación con fecha 29 de febrero de 2012, acordándose el valor de la indemnización con su propietario, JOSÉ MERCEDES HURTADO ALCOTA, en la cantidad de $7.909.444.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
