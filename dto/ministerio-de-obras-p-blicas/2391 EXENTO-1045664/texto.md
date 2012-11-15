@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2391 de 25 de octubre de 2012, de conformidad a lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº4-A, superficie 212 m2, rol de Avalúo Nº236-49, comuna de Coelemu, para la obra "CAMINO RUTA 126, SECTOR COELEMU – RAFAEL – TOMÉ, TRAMO I, KM. 0,00000 A KM. 20,30000", VIII Región. La Comisión de peritos, integrada por ROXANA CECILIA ABARZÚA GAJARDO, CLAUDIO CASTRO GUTIÉRREZ Y MARÍA ALEJANDRA GUTIÉRREZ FLORES, fijó el valor de tasación con fecha 13 de junio de 2012, acordándose la indemnización con su propietario don JOSÉ ORLANDO CHANDÍA CARTES, en la cantidad de $533.604.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
