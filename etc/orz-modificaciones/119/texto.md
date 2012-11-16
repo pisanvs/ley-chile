@@ -1,6 +1,6 @@
 MODIFICA ORDENANZA Nº22, DE 2001
 
-Núm. 119.- Vistos: Lo dispuesto por el decreto ley Nº3.063 de 1979, Ley de Rentas Municipales; y teniendo presente las facultades que me confieren los artículos 5 letra d), 12, 63 letra i), 65 letra j) y 79 letra b) de la Ley Nº18.695 de 1988, Orgánica Constitucional de Municipalidades, y
+Núm. 119.- Providencia, 16 octubre 2012.- Vistos: Lo dispuesto por el decreto ley Nº3.063 de 1979, Ley de Rentas Municipales; y teniendo presente las facultades que me confieren los artículos 5 letra d), 12, 63 letra i), 65 letra j) y 79 letra b) de la Ley Nº18.695 de 1988, Orgánica Constitucional de Municipalidades, y
 
 Considerando:
 
