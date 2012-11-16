@@ -32,7 +32,9 @@ Resolución:
 
 .
 
-7. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
+7. La selección de los grupos postulantes, se hará a nivel regional y por estricto orden de puntaje, y sólo se considerará como factor de puntaje el porcentaje de integrantes del grupo que pertenezcan al Catastro Nacional de Campamentos del Ministerio de Vivienda y Urbanismo del año 2011, donde corresponderá un punto por cada punto porcentual de familias que integren dicho catastro.
+
+8. Mediante resolución del Ministro de Vivienda y Urbanismo, que se publicará en el Diario Oficial, se aprobará la nómina de grupos postulantes seleccionados. La difusión de dicha nómina podrá realizarse en un periódico de circulación regional o nacional u otro medio de comunicación pública.
 
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
