@@ -162,9 +162,11 @@ Directivos: Grados 1B, 2, 3, 4 y 5 de la escala de sueldos del decreto ley Nº 2
 
 Profesionales: Grados 5, 6, 7, 8, 9, 10, 11, 12, 13 y 14 de la escala de sueldos del decreto ley Nº 249, de 1974, 52% de la asignación de fiscalización correspondiente a los grados 5, 6, 7, 8, 9, 10, 11, 12, 13 y 14, respectivamente.
 
-La Asignación para los cargos de Administrativos y Técnicos será respecto de los grados 9, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 y 23 de la escala de sueldos del decreto ley Nº 249, de 1974, de $ 132.012, $ 101.577, $ 81.305, $ 60.467, $ 52.324, $ 43.831, $ 41.913, $ 24.545, $ 35.204, $ 25.708, $ 15.503 y $ 21.116, respectivamente. Para los cargos de Auxiliares, dicha asignación será respecto de los grados 18, 19, 20, 21, 22, 23, 24 y 25 de la misma escala, de $ 41.913, $ 35.725, $ 35.204, $ 25.708, $ 24.865, $ 21.116, $ 23.750 y $ 20.774, respectivamente.
+La Asignación para los cargos de Administrativos será respecto de los grados 9, 10, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22 y 23 de la escala de sueldos del decreto ley Nº 249, de 1974, de $ 132.012, $ 62.706,
 
-La Asignación para los cargos de Administrativos y Técnicos será respecto de los grados 10, 11 y 12 de la escala de sueldos del decreto ley N° 249, de 1974, de $279.670, $261.375 y $248.928, respectivamente.
+$ 101.577, $ 81.305, $ 60.467, $ 52.324, $ 43.831,
+
+$ 41.913, $ 24.545, $ 35.204, $ 25.708, $ 15.503 y $ 21.116, respectivamente. Para los cargos de Auxiliares, dicha asignación será respecto de los grados 18, 19, 20, 21, 22, 23, 24 y 25 de la misma escala, de $ 41.913, $ 35.725, $ 35.204, $ 25.708, $ 24.865, $ 21.116, $ 23.750 y $ 20.774, respectivamente.
 
 > **Nota.** El artículo 1º transitorio de la LEY 19646, establece que sus disposiciones rigen a contar del 1º de enero de 1999.
 
