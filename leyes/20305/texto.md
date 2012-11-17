@@ -84,6 +84,8 @@ El acto administrativo que conceda el bono al funcionario deberá establecer que
 
 En el caso de las corporaciones municipales creadas en virtud de lo dispuesto por el decreto con fuerza de ley N°1-3.063, de 1980, del Ministerio del Interior, remitirán a la municipalidad respectiva, todos los antecedentes del trabajador que acrediten el cumplimiento de los requisitos señalados en el artículo 2°. El municipio, con el mérito de dichos antecedentes, dictará el acto administrativo correspondiente, y cuando proceda los remitirá al Servicio de Tesorerías de conformidad al artículo 8°.
 
+El Jefe superior del servicio o la jefatura máxima que corresponda que no efectúe o efectúe extemporáneamente las gestiones necesarias para que los funcionarios accedan a los beneficios de esta ley, incurrirá en responsabilidad administrativa conforme a las normas generales.
+
 #### Artículo 4°
 
 <!-- parte:8676604 -->
@@ -138,7 +140,7 @@ El Servicio de Tesorerías pagará el bono a los beneficiarios. Para ello, el je
 
 El Servicio de Tesorerías podrá celebrar convenios con las administradoras de fondos de pensiones, compañías de seguros u otras entidades, para efectuar el pago del bono a través de ellas.
 
-El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes siguiente a la dictación del acto administrativo de concesión del beneficio.
+El bono se devengará a contar del día primero del mes siguiente a aquel en que el interesado haya presentado la solicitud para obtener el bono, siempre y cuando se acrediten todos los requisitos legales para impetrarlo; y se pagará a contar del día primero del mes subsiguiente a la dictación del acto administrativo de concesión del beneficio.
 
 #### Artículo 9°
 
