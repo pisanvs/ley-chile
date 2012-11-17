@@ -1814,7 +1814,7 @@ Le corresponderán a la Superintendencia, para la fiscalización de todos los pr
 
 La Intendencia de Prestadores de Salud no será competente para pronunciarse sobre el manejo clínico individual de casos.
 
-11. Fiscalizar a los prestadores de salud en el cumplimiento de lo dispuesto en los artículos 141, inciso final; 141 bis; 173, inciso séptimo, y 173 bis, y sancionar su infracción.
+11. Fiscalizar a los prestadores de salud en el cumplimiento de lo dispuesto en los artículos 134 bis; 141, incisos penúltimo y final; 141 bis; 173, incisos séptimo y octavo, y 173 bis, y sancionar su infracción.
 
 La infracción de dichas normas será sancionada, de acuerdo a su gravedad, con multa de diez hasta mil unidades tributarias mensuales.
 
@@ -1965,6 +1965,10 @@ Los organismos que integran el Sistema Nacional de Servicios de Salud son respon
 Establécese un Régimen de Prestaciones de Salud, denominado en adelante el Régimen, sujeto a las disposiciones de este Libro.
 
 Sus beneficiarios tendrán derecho a las acciones de salud previstas en este Libro en las condiciones que él establece.
+
+#### Artículo 134 bis
+
+Los prestadores de salud, las instituciones de salud previsional, el Fondo Nacional de Salud u otras entidades, tanto públicas como privadas, que elaboren, procesen o almacenen datos de origen sanitario no podrán vender, ceder o transferir, a cualquier título, bases de datos que contengan información sensible respecto de sus usuarios, beneficiarios o pacientes, si no cuentan para ello con el consentimiento del titular de tales datos, en los términos previstos en la ley N° 19.628 o en otras normas especiales que regulen dicha materia, salvo que se trate del otorgamiento de los beneficios de salud que les correspondan, así como del cumplimiento de sus respectivos objetivos legales, para lo cual no se requerirá de dicho consentimiento.
 
 ## Título I
 
@@ -2419,6 +2423,8 @@ Lo dispuesto en el inciso precedente se aplicará también respecto de atencione
 En las situaciones indicadas en los incisos cuarto y quinto de este artículo, las Instituciones podrán repetir en contra del afiliado el monto que exceda de lo que les corresponda pagar conforme al plan de salud convenido.
 
 Asimismo, en las situaciones indicadas en los incisos cuarto y quinto de este artículo, se prohíbe a los prestadores exigir a los beneficiarios de esta ley, dinero, cheques u otros instrumentos financieros para garantizar el pago o condicionar de cualquier otra forma dicha atención.
+
+Con todo, los prestadores de salud no podrán consultar sistemas de información comercial de ningún tipo, ni aun con el consentimiento del paciente, para efectos de condicionar o restringir una atención de urgencia.
 
 Para los efectos de la aplicación de este artículo se entenderá que las Instituciones han otorgado un préstamo a sus cotizantes por la parte del valor de las prestaciones que sea de cargo de estos, si una vez transcurrido el plazo de treinta días hábiles desde que la ISAPRE ha pagado al prestador el valor de las atenciones otorgadas, el cotizante no ha enterado dicho monto directamente a la Institución de Salud Previsional.
 
