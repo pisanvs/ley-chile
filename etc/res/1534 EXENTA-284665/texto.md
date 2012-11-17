@@ -90,9 +90,7 @@ Este apéndice es parte integrante de la norma técnica que establece la numerac
 
 .
 
-NÚMERO SERVICIO DE EMERGENCIA PARA TENER
-
-ACCESO A
+NÚMERO SERVICIO DE EMERGENCIA PARA TENER ACCESO A
 
 136 Cuerpo de Socorro La recepción de
 
@@ -163,3 +161,25 @@ atención de urgencia
 de dicha entidad a nivel
 
 nacional.
+
+Número Servicio de Para tener acceso a
+
+Emergencia
+
+1410 Fono Emergencia La recepción de llamadas
+
+Peñaflor atendidas por personal
+
+de la Oficina de Seguridad
+
+Ciudadana de la
+
+Municipalidad
+
+de Peñaflor, respecto de
+
+situaciones de emergencia
+
+que ocurran en dicha
+
+comuna.
