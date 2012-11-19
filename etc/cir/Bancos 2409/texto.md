@@ -11130,7 +11130,13 @@ i) Cuando las obligaciones del deudor sean servidas con recursos de una persona 
 
 j) Cuando el deudor mantenga cuentas, que representen un porcentaje importante de su activo o pasivo, con sociedades relacionadas al banco acreedor y no tenga un giro productivo que justifique la existencia de dichas cuentas.
 
-k) Cuando se trate de una sociedad deudora, previamente considerada relacionada, cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos de que se permitió la presentación de otras ofertas; cuando las condiciones de venta difieren significativamente de las que prevalecen en el mercado o cuando los adquirentes no hayan demostrado un patrimonio que guarde relación con la magnitud de la operación antes de efectuarla.
+k) Cuando los fondos provenientes de los créditos del deudor se destinen a financiar, directa o indirectamente, a una persona natural o jurídica relacionada con el banco acreedor, mediante aportes de capital, suscripción de cuotas de participación, otorgamiento de créditos o de cualquiera otra forma de beneficio económico.
+
+l) Cuando se trate de una sociedad deudora, previamente considerada relacionada, cuya propiedad sea traspasada a terceros sin que existan antecedentes fidedignos de que se permitió la presentación de otras ofertas; cuando las condiciones de venta difieren significativamente de las que prevalecen en el mercado o cuando los adquirentes no hayan demostrado un patrimonio que guarde relación con la magnitud de la operación antes de efectuarla.
+
+m) Cuando se trate de un patrimonio de afectación o de otra entidad cualquiera administrada por cuenta de terceros que no efectúe oferta pública de valores, en que no sea posible verificar la identidad de sus partícipes o aportantes que en conjunto sean propietarios de cuotas o acciones representativas de un 10% o más del capital, o en la que se dé alguno de los supuestos previstos en las letras c), d), e), f), g), i) o k) anteriores. En todo caso, se excluirá siempre de esta presunción a los Fondos Mutuos y Fondos de Pensiones.
+
+En caso que se presenten dudas respecto a la aplicación de las presunciones contenidas en el presente numeral, los bancos deberán efectuar sus consultas a esta Superintendencia en forma previa a la calificación de una persona como relacionada al banco, o a su inclusión o exclusión como parte de un grupo de personas vinculadas.
 
 2. Entidades relacionadas a un banco y que conforman un grupo de personas vinculadas entre sí.
 
@@ -11169,6 +11175,8 @@ Esta Superintendencia dispone, para efectos de control, de la nómina de las per
 Es responsabilidad de cada banco la actualización periódica de la respectiva nómina en la forma establecida en el Manual del Sistema de Información, incluyendo, en cada oportunidad, a aquellas personas que pasaron a ser consideradas relacionadas de acuerdo con los antecedentes de que dispone la institución y las comunicaciones que esta Superintendencia le haya enviado para la inclusión en el o los grupos de personas vinculadas entre sí.
 
 Cuando, a juicio de un banco, una persona natural o jurídica relacionada haya perdido las características que llevaron a considerarla como tal, la entidad correspondiente deberá comunicarlo a esta Superintendencia mediante una carta y hacer llegar los antecedentes que justifiquen su eliminación de la respectiva nómina. Sólo una vez que este Organismo haya manifestado su conformidad por escrito, se podrá considerar que la persona de que se trata ha dejado de ser relacionada. Lo anterior es sin perjuicio de las excepciones que esta Superintendencia pueda establecer al respecto para un determinado grupo o persona, mediante instrucciones de aplicación general incluidas en el Manual del Sistema de Información.
+
+Los criterios generales que se deben considerar para la actualización de la respectiva nómina, así como para la definición de los grupos y la asignación de las entidades y personas naturales vinculadas a los mismos, se encuentran en el Anexo del presente Capítulo.
 
 ### 5. Información a esta Superintendencia
 
@@ -11239,6 +11247,52 @@ Quedan afectos a este límite global tanto los créditos que se indican en el t�
 En todo momento los bancos deberán respetar, tanto las condiciones en que pueden pactarse los créditos a personas relacionadas, según lo establecido en el N° 1 precedente, como el límite de créditos a cada grupo de personas relacionadas y también el límite global de créditos a personas relacionadas a que se refieren los N°s. 2 y 3 de este título.
 
 Cualquiera infracción a estas disposiciones será castigada con una multa del 20% sobre el monto del crédito concedido.
+
+ANEXO
+
+CRITERIOS PARA LA ACTUALIZACIÓN DE LA NÓMINA DE ENTIDADES RELACIONADAS
+
+El presente anexo tiene por objeto servir de guía para el correcto envío a este Organismo de la información de entidades relacionadas, para efectos de las disposiciones contenidas en este Capítulo.
+
+### I. Actualización de la nómina de personas y entidades relacionadas al banco por propiedad
+
+Para fines de mantener actualizada la referida nómina, en primer lugar el banco debe identificar permanentemente a todas las personas naturales relacionadas por propiedad, que directa o indirectamente tengan una participación superior al 1% de las acciones del banco. Este porcentaje se elevará a un 5% si las acciones del banco tienen presencia bursátil. En el caso que se trate de un banco cuya entidad matriz está constituida en el extranjero, se podrá omitir la identificación de las personas naturales extranjeras relacionadas a la misma, en la medida que no tengan créditos vigentes, bastando con identificar a dicha matriz como relacionada.
+
+Una vez identificadas las personas señaladas en el párrafo precedente, se deben reconocer todas las entidades mediante las cuales se generan las relaciones de propiedad con el banco, en caso de no ser directa.
+
+Luego corresponde identificar a todas las entidades donde los relacionados señalados en los párrafos anteriores tengan una participación, directa o indirecta, superior al 5% de su capital o sus utilidades, salvo que tales entidades se encuentren constituidas en el extranjero y no mantengan créditos vigentes con el banco.
+
+### II. Actualización de la nómina de personas y entidades relacionadas al banco por gestión
+
+En primer lugar, se debe identificar a todas las personas naturales relacionadas por gestión al banco y sus filiales (incluyendo las sociedades de apoyo al giro que consolidan contablemente con el banco), de acuerdo a los cargos que ejercen en estas, según lo señalado el primer párrafo del numeral 1.2 del título I del presente Capítulo.
+
+Luego, corresponde identificar a cualquier entidad en la cual las personas naturales antes señaladas tengan una participación, directa o indirecta, igual o superior al 5% en la propiedad.
+
+Adicionalmente, se deben reconocer todas aquellas entidades donde las personas naturales relacionadas por gestión también desempeñen el cargo de director, gerente general u otro equivalente, considerando lo indicado en los párrafos tercero y cuarto del numeral 1.2, previamente citado.
+
+No obstante lo señalado previamente, si alguna de las entidades indicadas en los dos párrafos anteriores se encuentran en el extranjero, se deben reconocer solo aquellas que tengan créditos vigentes, en los términos definidos en el Título II de este Capítulo.
+
+### III. Conformación de grupos de personas y entidades vinculadas
+
+Una vez identificadas todas las personas o entidades relacionadas por propiedad y gestión, los grupos serán conformados de acuerdo a las relaciones que existen entre ellas, considerando una o más circunstancias señaladas en el numeral 2 del Título I de este Capítulo.
+
+Las personas naturales relacionadas por gestión, que no tengan participación directa o indirecta igual o superior al 5% en alguna entidad, serán clasificadas en un grupo común denominado "personas relacionadas por gestión", con el código "9XXX", donde "XXX" corresponde el código del banco. Cabe señalar que aquellas personas que se relacionen con el banco tanto por la vía de propiedad como de gestión, solo deberán incluirse en los grupos que consideren el primer criterio.
+
+Por último, se conformará un grupo de personas vinculadas al banco según lo descrito en el primer párrafo del numeral 3 del Título I de este Capítulo. Este grupo particular está integrado por todas las entidades en que participa el banco y sus filiales, si fuere el caso, independientemente de la participación en la propiedad que tengan. El nombre del grupo se denominará "entidades que no consolidan".
+
+### IV. Solicitud de números de grupos
+
+Los números con que esta Superintendencia identifica a cada uno de los grupos de personas vinculadas entre sí deben ser solicitados a este Organismo.
+
+### V. Eliminación de personas relacionadas y grupos vinculados
+
+El banco puede eliminar de la nómina a las personas relacionadas por propiedad o gestión, y al grupo de entidades de que forman parte, en el caso de que pierdan tal condición. Para proceder a dicha eliminación se debe solicitar autorización dirigida al Superintendente de Bancos e Instituciones Financieras, con los antecedentes que acrediten la pérdida de la condición de relacionado. Tales antecedentes deben guardar directa relación con el motivo de la solicitud (por ejemplo, disminuciones de participación se deben acreditar con las respectivas escrituras de venta). La eliminación tendrá efecto solo una vez obtenida dicha autorización.
+
+Se exceptúan de la referida autorización los siguientes casos:
+
+i) Cuando se trate de un grupo de relacionados por gestión, debido a que la persona que lo origina ha dejado de pertenecer a la institución o por otra circunstancia ha perdido su calidad de relacionado; y,
+
+ii) Cuando se trate de personas que conformen el grupo identificado con el código "9XXX antes mencionado.
 
 ## Capítulo 12-7
 
