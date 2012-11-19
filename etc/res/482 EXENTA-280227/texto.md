@@ -36,7 +36,7 @@ PURRANQUE - CRUCERO
 
 Salida desde el Paradero Nº 1, ubicado en O'Higgins de Purranque - 21 de Mayo - Las Heras - Santo Domingo - Arturo Prat - Crucero - Ruta U 90 hasta Crucero Hueyusca.
 
-Salida desde Crucero Hueyusca - Ruta U 90 - Crucero - Arturo Prat - Santo Domingo - Aníbal Pinto - 21 de Mayo - Circunvalación - Martínez de Rosas - O'Higgins, hasta el Paradero Nº 1 de Purranque.
+Salida desde Crucero Hueyusca - Ruta U90 - Crucero - Arturo Prat - Santo Domingo - Circunvalación - Martínez de Rozas hasta el Terminal de Buses de Purranque.
 
 PURRANQUE - COÑICO
 
