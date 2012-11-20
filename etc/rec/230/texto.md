@@ -1,0 +1,3 @@
+RECTIFICACIÓN
+
+En la edición del Diario Oficial Nº 40.064, de 17 de septiembre de 2011, se publicó decreto exento Nº 193 que "ESTABLECE ORDEN DE SUBROGANCIA DEL SUBSECRETARIO DEL MEDIO AMBIENTE": Con el error que se salva a continuación: I Cuerpo, página cuatro, segunda columna, donde dice "... Núm. 119 exento.- Santiago, 12 de septiembre de 2001.- ...", debe decir " ... Núm. 119 exento.- Santiago, 12 de septiembre de 2011.- ...".
