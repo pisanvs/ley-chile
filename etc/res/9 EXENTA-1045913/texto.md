@@ -1,0 +1,5 @@
+Por resolución exenta Nº 9, de 30 de octubre de 2012, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE LOS LAGOS, para efectuar la mantención de un stock de reproductores salvajes con ejemplares de las especies Trucha arcoiris (Oncorhynchus mykiss) y Trucha café (Salmo trutta) en el marco del programa "Investigación y desarrollo de los stocks de Salmonídeos provenientes de reproductores salvajes".
+
+El objetivo principal consiste en la mantención de un stock de reproductores salvajes conformado por 586 ejemplares de Trucha arcoiris (Oncorhynchus mykiss) y 637 ejemplares de Trucha café (Salmo trutta), pertenecientes a las subcuencas del Lago Puyehue y del Lago Rupanco, para conformar un reservorio genético, en la forma y condiciones señaladas en la resolución extractada.
+
+Puerto Montt, 30 de octubre de 2012.- Pedro Brunetti Barroso, Director Zonal de Pesca X Región de Los Lagos.
