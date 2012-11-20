@@ -1,0 +1,5 @@
+Por resolución exenta Nº 8, de 26 de octubre de 2012, de esta Subsecretaría, autorízase a la UNIVERSIDAD DE LOS LAGOS para efectuar el repoblamiento de ejemplares de Trucha arcoiris (Oncorhynchus mykiss) y Trucha café (Salmo trutta) en el marco del programa "Investigación y desarrollo de los stocks de Salmonídeos provenientes de reproductores salvajes".
+
+El objetivo principal consiste en la liberación de 3.400 ejemplares de Trucha arcoiris (Oncorhynchus mykiss) y 6.010 ejemplares de Trucha café (Salmo trutta), en las subcuencas del Lago Puyehue y del Lago Rupanco, para suplementar la población natural de salmónidos de importancia para la pesca recreativa, en la forma y condiciones señaladas en la resolución extractada.
+
+Puerto Montt, 26 de octubre de 2012.- Pedro Brunetti Barroso, Director Zonal de Pesca X Región.
