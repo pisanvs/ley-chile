@@ -1440,7 +1440,7 @@ g) Disminuir o incrementar las rasantes, dentro de los márgenes establecidos en
 
 h) Disminuir los distanciamientos mínimos a los medianeros hasta los márgenes establecidos en el inciso octavo del artículo 2.6.3. de esta Ordenanza.
 
-i) Incrementar o disminuir la dotación de estacionamientos hasta en un 30%.
+i) Incrementar o disminuir la dotación de estacionamientos.
 
 j) Fijar disposiciones relativas a cuerpos salientes de conformidad a lo establecido en el numeral 2 del artículo 2.7.1. de esta Ordenanza y disposiciones sobre los cuerpos salientes de la línea de edificación sobre los antejardines.
 
@@ -1876,7 +1876,7 @@ Cuando un proyecto contemple actividades de dos o más tipos de equipamiento, se
 
 #### Artículo 2
 
-1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, según la medida del efecto que produzcan en materia de flujos vehiculares y eventualmente peatonales, de acuerdo al tipo de vía existente que enfrentan, al número de personas contemplado según carga de ocupación, y a la cantidad de estacionamientos del proyecto. Para los efectos de lo dispuesto en el presente artículo, se entenderá como vía existente aquella vía materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
+1.35. Las escalas o niveles de equipamiento se refieren a la magnitud o tamaño de las construcciones con tal destino, de acuerdo al número de personas contemplado según carga de ocupación y al tipo de vía existente que enfrentan. Para los efectos de lo dispuesto en el presente artículo, se entenderá como vía existente aquella vía materializada y conectada con otra vía existente cuyo ancho de calzada sea igual o superior.
 
 #### Artículo 2
 
@@ -2470,7 +2470,11 @@ DE LOS ESTACIONAMIENTOS, ACCESOS Y SALIDAS VEHICULARES.
 
 4.1. Todo edificio que se construya deberá proyectarse con una dotación mínima de estacionamientos de acuerdo a lo que fije el Instrumento de Planificación Territorial respectivo.
 
-Tratándose de proyectos relacionados con Monumentos Nacionales, zonas típicas, inmuebles o zonas de conservación histórica, o que se emplacen al costado de vías de más de 100 años de antigüedad o de paseos peatonales, el Director de Obras Municipales podrá, previa solicitud fundada por parte del interesado, autorizar excepciones a las disposiciones de este Capítulo.
+Tratándose de proyectos relacionados con Monumentos Nacionales, zonas típicas, inmuebles o zonas de conservación histórica, o que se emplacen al costado de vías de más de 100 años de antigüedad o de paseos peatonales, el Director de Obras Municipales deberá autorizar excepciones a las disposiciones de este Capítulo, siempre que el interesado acompañe una solicitud fundada.
+
+Salvo que el respectivo instrumento de planificación territorial lo prohíba, los proyectos que se emplacen cerca de una estación de tranvía o de ferrocarril urbano o interurbano, a una distancia de menos de 300 o 600 metros, según se trate de proyectos de vivienda o de equipamiento de servicios, respectivamente, podrán rebajar hasta la mitad la dotación de estacionamientos requerida. Dicha distancia se medirá a través de un recorrido peatonal por vías de tránsito público.
+
+Los proyectos de ampliación deberán cumplir con la dotación de estacionamientos que corresponda a la superficie que se amplía. Los proyectos de alteración o de reconstrucción sólo deberán cumplir cuota de estacionamientos cuando contemplen un destino distinto.
 
 #### Artículo 2
 
@@ -2494,17 +2498,19 @@ Con todo, el Plan Regulador Comunal no podrá hacer exigencias de estacionamient
 
 4.2. Los estacionamientos subterráneos en predios de dominio privado serán considerados como una actividad complementaria a cualquier uso de suelo, sin restricción respecto de su localización, salvo que se trate de zonas en que estén expresamente prohibidos en el Plan Regulador Comunal o Seccional.
 
-Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso deberá cumplirse con las disposiciones señaladas en este artículo.
+Las exigencias de estacionamientos deberán cumplirse en el predio en que se emplaza el edificio que genera la obligación, o en otros predios o edificaciones que consulten estacionamientos y que no hubieren sido destinados al cumplimiento de tales exigencias respecto de otro edificio. En este último caso deberá cumplirse con las disposiciones señaladas en este artículo.
 
-Para los casos de estacionamientos ubicados en otros predios, la distancia entre los accesos de uno y otro inmueble, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 300 m tratándose de edificios de vivienda y 600 m en caso de otros usos.
+Para los casos de estacionamientos ubicados en otros predios o edificaciones, la distancia entre el acceso de éstos y el acceso del edificio que genera la obligación, medida a través de un recorrido peatonal por vías de tránsito público, no podrá superar los 300 m tratándose de edificios de vivienda y 600 m en caso de otros usos.
 
-Tratándose del cumplimiento de las exigencias de estacionamientos en otros predios, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos.
+Tratándose del cumplimiento de las exigencias de estacionamientos en otros predios o edificaciones, el propietario deberá acreditar ante la Dirección de Obras Municipales, la compra, el arriendo u otro título que le permite la ocupación de dichos estacionamientos.
 
-Los edificios destinados exclusivamente a equipamiento podrán cumplir la exigencia de estacionamientos a que se refiere este artículo en un mismo predio, siempre que los respectivos equipamientos funcionen, sucesivamente, en distintos horarios, de modo que sea posible su uso compartido. Para tal efecto, deberá acreditarse ante la Dirección de Obras Municipales el arriendo u otro título que permita la ocupación compartida. Con todo el Plan Regulador Comunal podrá prohibir el uso compartido de que trata este inciso.
+Las edificaciones con destino de equipamiento podrán cumplir la cuota exigida mediante estacionamientos compartidos, siempre que los respectivos equipamientos funcionen, sucesivamente, en distintos horarios, de modo que sea posible su uso compartido. Para tal efecto, deberá acreditarse ante la Dirección de Obras Municipales el arriendo u otro título que permita la ocupación compartida. Con todo el Plan Regulador Comunal podrá prohibir el uso compartido de que trata este inciso.
+
+Tratándose de condominios, en los planos del condominio deberán singularizarse los estacionamientos requeridos que se ubiquen en otros predios o edificaciones conforme al presente artículo.
 
 El cumplimiento de los requisitos indicados en este artículo deberá acreditarse ante la Dirección de Obras Municipales previamente al otorgamiento del permiso de edificación respectivo.
 
-Los estacionamientos destinados al cumplimiento de estas exigencias, emplazados en un predio distinto al del edificio que generó la obligación, podrán dejar de estar adscritos al proyecto que generó la obligación en el evento que el Instrumento de Planificación Territorial que hizo exigible la obligación se modifique, dejándola sin efecto o disminuya la exigencia de estacionamientos.
+Los estacionamientos destinados al cumplimiento de estas exigencias, emplazados en un predio o edificación distinta al del edificio que generó la obligación, podrán dejar de estar adscritos al proyecto que generó la obligación en el evento que el Instrumento de Planificación Territorial que hizo exigible la obligación se modifique, dejándola sin efecto o disminuya la exigencia de estacionamientos.
 
 Los estacionamientos contemplados en un proyecto deberán tener un ancho mínimo de 2,5 m, un largo no inferior a 5 m y una altura libre mínima de 2 m bajo vigas o elementos horizontales. Dicho ancho mínimo podrá reducirse hasta en un 10% por elementos estructurales, siempre que no afecte a más de la mitad del largo requerido.
 
@@ -2567,6 +2573,12 @@ Las disposiciones de este artículo son sin perjuicio de los requisitos especial
 #### Artículo 2
 
 4.5. Los edificios o instalaciones a que alude el artículo anterior, podrán tener sus accesos y salidas frente a vías expresas sólo a través de una calle de servicio o cuando no puedan comunicarse directamente con vías de menor categoría.
+
+En los casos en que un proyecto se emplace en un predio con frente a dos o más vías de distinta categoría, podrán contemplar sus accesos y salidas por la vía de menor categoría.
+
+#### Artículo 2
+
+4.6. La Municipalidad podrá autorizar la construcción de conexiones y rampas de acceso o salida en la vía pública, hacia o desde un nivel subterráneo de un proyecto determinado.
 
 ## Capítulo 5
 
@@ -2680,6 +2692,8 @@ Sin perjuicio de lo establecido en el inciso tercero del artículo 2.6.1. de est
 
 Los distanciamientos mínimos y rasantes que contempla el artículo 2.6.3. y las normas sobre las mismas materias contenidas en ordenanzas locales, no serán aplicables a las partes de una construcción que se acojan a las disposiciones de este artículo.
 
+En las edificaciones aisladas, pareadas o continuas, los muros medianeros o de adosamiento podrán contemplar vanos, siempre que se cuente con autorización del propietario del predio vecino y no se afecten las condiciones de seguridad o las normas urbanísticas o las exigencias derivadas del artículo 2.4.3. de esta Ordenanza. Dichos vanos deberán estar contemplados en el proyecto de estructuras.
+
 Los estacionamientos abiertos cubiertos podrán construirse adosados a los deslindes en toda su longitud, excepto en los antejardines, siempre que la altura de su cubierta, en cualquier punto de ella, no exceda de 2,50 m. Estos estacionamientos no requerirán contar con muro de adosamiento.
 
 INCISO ELIMINADO.
@@ -2764,6 +2778,8 @@ Comunales.
 
 Sobre el nivel natural de terreno, se podrá autorizar una construcción que comunique inmuebles de distintos propietarios destinada a, puentes, pasarelas y rampas, previa constitución de las servidumbres de tránsito respectivas. En cuyo caso, no le serán aplicables a las zonas que se conectan las rasantes y distanciamientos establecidos en este artículo, ni en los Instrumentos de Planificación Territorial, siempre que su ancho exterior no sobrepase 3,50 metros y su conexión se utilice únicamente para la circulación de personas, el traslado de productos, la unión de instalaciones interiores u otros similares.
 
+Asimismo, la Municipalidad podrá autorizar conexiones subterráneas bajo la vía pública entre distintos inmuebles, de acuerdo con las normas pertinentes.
+
 A las antenas con sus soportes y elementos rígidos no les serán aplicables las rasantes. Sin embargo deberán cumplir con un distanciamiento mínimo de un tercio de su altura total, salvo cuando estas estructuras se instalen sobre edificios de más de 5 pisos, en cuyo caso deberán cumplir con un distanciamiento de al menos un cuarto de su altura total. En todo caso, estos distanciamientos no serán exigidos para las antenas que se instalen adosadas a las fachadas de edificios existentes.
 
 Los distanciamientos a que se refiere el inciso anterior tendrán un mínimo de 4 m y la altura total de las torres porta antenas, en ambos casos, se medirá desde el suelo natural, siempre que no sobrepasen su altura total.
@@ -2772,7 +2788,7 @@ Además del cumplimiento de los distanciamientos señalados, dichas antenas debe
 
 Las instalaciones y equipos que sobrepasen la altura de 2 m, tales como salas de máquinas, estanques, chimeneas, ductos, equipos de climatización y paneles solares, ubicadas sobre el terreno o incorporadas a la edificación, deberán considerarse como fachadas sin vano y cumplir con los distanciamientos y rasantes exigidos en el presente artículo.
 
-Las salas de máquinas, chimeneas, estanques, miradores y similares elementos exteriores ubicados en la parte superior de los edificios podrán sobrepasar la altura de edificación máxima permitida, siempre que se encuentren contempladas en el proyecto aprobado, cumplan con las rasantes correspondientes y no ocupen más del 20% de la superficie de la última planta del edificio. El piso mecánico no se contabilizará para la altura máxima permitida siempre que se ubique en la parte superior de los edificios y se contemplen paramentos que impidan la visión de las instalaciones desde el exterior.
+Las salas de máquinas, chimeneas, estanques, miradores, barandas o paramentos perimetrales y similares elementos exteriores ubicados en la parte superior de los edificios podrán sobrepasar la altura de edificación máxima permitida, siempre que se encuentren contempladas en el proyecto aprobado, cumplan con las rasantes correspondientes y no ocupen más del 20% de la superficie de la última planta del edificio. El piso mecánico no se contabilizará para la altura máxima permitida ni para el coeficiente de constructibilidad, siempre que se ubique en la parte superior de los edificios y se contemplen paramentos que impidan la visión de las instalaciones desde el exterior.
 
 Los Planes Reguladores Comunales, según sean las características ambientales, topográficas o de asoleamiento, podrán disponer mayores exigencias que las señaladas en las tablas contenidas en el presente artículo. Excepcionalmente, para las Regiones I, II, XI, XII y XV, los Planes Reguladores Comunales podrán disponer menores exigencias.
 
@@ -2976,7 +2992,7 @@ Tratándose de edificación continua, estos cuerpos salientes, excluidas las mar
 
 #### Artículo 2
 
-7.2. Se podrá autorizar una construcción que comunique inmuebles que se enfrenten en ambos costados sobre una vía pública, previa concesión otorgada por la Municipalidad correspondiente, siempre que con ello no se afecte negativamente las condiciones físicas y ambientales del entorno, según lo defina el Plan Regulador Comunal o el Plan Seccional, cumpliendo además los siguientes requisitos técnicos:
+7.2. Se podrá autorizar una construcción que comunique inmuebles que se enfrenten en ambos costados sobre una vía pública, previa concesión o permiso otorgado por la Municipalidad correspondiente, de acuerdo con las normas pertinentes, siempre que con ello no se afecte negativamente las condiciones físicas y ambientales del entorno, según lo defina el Plan Regulador Comunal o el Plan Seccional, cumpliendo además los siguientes requisitos técnicos:
 
 1. Que la altura libre bajo la construcción, en ninguno de sus puntos, sea inferior a 4,50 m.
 
