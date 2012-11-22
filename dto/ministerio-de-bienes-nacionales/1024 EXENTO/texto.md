@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA DE INMUEBLE FISCAL EN LA REGIÓN DE LOS LAGOS, A LA SOCIEDAD "EMPRESA ELÉCTRICA LA ARENA SPA"
+
+Mediante decreto exento Nº 1.024, de 5 de noviembre de 2012, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Empresa Eléctrica La Arena SpA", RUT 76.037.036-3, el inmueble fiscal que corresponde a la Hijuela Nº 1, ubicada en el sector La Arena, comuna de Puerto Montt, provincia de Llanquihue, Región de Los Lagos, amparado por la inscripción global que rola a fs. 130 Nº 104, del Registro de Propiedad del Conservador de Bienes Raíces de Puerto Montt, correspondiente al año 1909; rol de avalúo fiscal Nº 2208-138; singularizado en el plano Nº 10101-1.407-C.R., archivado bajo el Nº 1.305 en los documentos anexos del Registro de Propiedad del Conservador citado, correspondiente al año 2011, de una superficie aproximada de 17,70 Has. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble, será el equivalente en moneda nacional a UF 177,30.
+
+La concesión se otorga para la ejecución del proyecto que consiste en la construcción y operación de la "Central Hidroeléctrica de pasada La Arena 3,0 MW, Puerto Montt". El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Subsecretario de Bienes Nacionales Subrogante.
