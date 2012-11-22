@@ -1,0 +1,9 @@
+OTORGA CONCESIÓN ONEROSA DIRECTA CONTRA PROYECTO DE INMUEBLE FISCAL EN LA REGIÓN DE TARAPACÁ, A LA SOCIEDAD POZO ALMONTE SOLAR 2 S.A.
+
+Mediante Decreto Exento Nº 1.026, de 5 de noviembre de 2012, el Ministerio de Bienes Nacionales otorgó en concesión onerosa directa contra proyecto a la Sociedad "Pozo Almonte Solar 2 S.A.", RUT 76.055.356-5, el inmueble fiscal ubicado en el Km. 4 de la Ruta A-65 dirección a Mamiña, detrás de la empresa Essat, comuna de Pozo Almonte, provincia del Tamarugal, Región de Tarapacá, Rol de Avalúo Fiscal Nº 2805-10; singularizado en el plano Nº 01401-1.180-C.R., de una superficie aproximada de 54,01 Has., amparado por la inscripción global que rola a fs. 1.396 Nº 1.366, del Registro de Propiedad del Conservador de Bienes Raíces de Pozo Almonte, correspondiente al año 1983. La concesión se otorga por un plazo de 30 años, contado desde la fecha de suscripción de la escritura pública de concesión. La renta anual de la concesión del inmueble será el equivalente en moneda nacional a UF 648,12.
+
+La concesión se otorga para ejecutar y desarrollar el proyecto energético denominado "Pozo Almonte Solar 2", de una potencia de 7,5 MW, con sus obras específicas, de acuerdo al cronograma programado de actividades acompañado, siendo responsable de su financiamiento, suministro e instalación de equipos, ejecución de las obras y obtención de los permisos necesarios, así como de operar, mantener y explotar las instalaciones durante el plazo de la concesión. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del extracto del decreto de concesión. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Subsecretario de Bienes Nacionales Subrogante.
