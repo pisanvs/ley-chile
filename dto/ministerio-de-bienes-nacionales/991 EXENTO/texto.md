@@ -1,0 +1,7 @@
+OTORGA CONCESIÓN GRATUITA DE INMUEBLE FISCAL QUE INDICA EN LA REGIÓN DE VALPARAÍSO, A LA I. MUNICIPALIDAD DE SAN ANTONIO
+
+Mediante Decreto Exento Nº 991, de 30 de octubre de 2012, el Ministerio de Bienes Nacionales otorgó en concesión gratuita a la I. Municipalidad de San Antonio, RUT Nº 69.073.400-1, el inmueble fiscal que corresponde al Lote 3, ubicado en calle El Canelo, esquina Alcalde Olegario Henríquez Escalante s/n, sector Cerro La Viuda, Llo Lleo, comuna y provincia de San Antonio, Región de Valparaíso, Rol de Avalúo Fiscal Nº 8295-1, inscrito a nombre del Fisco en mayor cabida a fs. 2.856 vta. Nº 1.912 del Registro de Propiedad del año 1987, del Conservador de Bienes Raíces de San Antonio, singularizado en el Plano Nº 05601-3912-C.U.; de una superficie aproximada de 2.301 m². La concesión se otorga por un plazo de 20 años, contados desde la fecha de suscripción de la escritura pública respectiva. La concesión se otorga para destinar el inmueble al proyecto que consiste en la construcción de un Centro de Salud para la localidad de Llo Lleo. El contrato de concesión deberá suscribirse dentro del plazo de 30 días contado desde la fecha de publicación en el Diario Oficial del presente extracto. El decreto con su texto íntegro se encuentra disponible en el sitio web del Ministerio de Bienes Nacionales.
+
+Autoriza extracto.-
+
+Alfonso Domeyko Letelier, Subsecretario de Bienes Nacionales Subrogante.
