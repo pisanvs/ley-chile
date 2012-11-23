@@ -1,0 +1,3 @@
+Por resolución exenta Nº 2.976, de 15 de noviembre de 2012, de esta Subsecretaría, amplíese por doce meses, a contar del 30 de septiembre de 2012, el plazo otorgado en el numeral 4º, inciso 2º de la resolución exenta Nº 542 de 2004, a CORPESCA S.A., para continuar desarrollando las actividades pesqueras extractivas con la nave "Eperva 51", en el área marítima comprendida entre la XV a II Regiones, sobre Jibia en virtud de haberse acreditado una circunstancia de fuerza mayor.
+
+Valparaíso, 15 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
