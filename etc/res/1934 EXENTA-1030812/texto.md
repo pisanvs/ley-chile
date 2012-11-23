@@ -92,7 +92,7 @@ Bajo este concepto se enmarcan actividades de promoción, atracción y materiali
 
 b) Postulación
 
-Los Programas serán presentados al CAZ respectivo por cada Director Regional, con la visación técnica de la gerencia de Desarrollo Empresarial de CORFO.
+INCISO ELIMINADO.
 
 Deberán contemplar a lo menos los siguientes aspectos:
 
@@ -100,15 +100,15 @@ i) Las entidades públicas y/o privadas que apoyan el
 
 Programa de Inversión.
 
-ii) Antecedentes referidos al sector económico, rubro o
+ii) Antecedentes referidos al sector económico,
 
-área geográfica predeterminada para promover y
+rubro o área geográfica predeterminada para
 
-atraer inversión, los objetivos del programa,
+promover y atraer inversión, los objetivos del
 
-estrategia, producto región, mercado meta y
+programa, estrategia, producto región, mercado
 
-beneficio esperados.
+meta y beneficio esperados.
 
 iii) Plan de actividades, con su cronograma de
 
@@ -124,25 +124,25 @@ considerando aportes de CORFO y de otros entes
 
 públicos o privados.
 
-v) Indicadores de logro, señalando, entre otros, monto
+v) Indicadores de logro, señalando, entre otros,
 
-de inversión y cantidad de empleo.
+monto de inversión y cantidad de empleo.
 
 c) Evaluación
 
-La Gerencia de Desarrollo Empresarial evaluará el Programa considerando los siguientes criterios:
+La Gerencia de Competitividad evaluará el Programa considerando los siguientes criterios:
 
-i) Evaluación del Programa de Inversión: consistencia
+i) Evaluación del Programa de Inversión:
 
-de las hipótesis competitivas y de la inteligencia
+consistencia de las hipótesis competitivas y de
 
-de mercado desarrollada; pertinencia del plan de
+la inteligencia de mercado desarrollada;
 
-actividades, cronograma y costos; fortaleza del
+pertinencia del plan de actividades,
 
-modelo de negocio y oportunidades de inversión
+cronograma y costos; fortaleza del modelo de
 
-regional.
+negocio y oportunidades de inversión regional.
 
 ii) Impacto económico en la región o el país:
 
@@ -152,21 +152,21 @@ desarrollo de territorios y consistencia con la
 
 estrategia de desarrollo regional.
 
-iii) Pertinencia y mérito de la iniciativa en función de
+iii) Pertinencia y mérito de la iniciativa en
 
-los focos de atracción de inversiones definidos por
+función de los focos de atracción de
 
-CORFO.
+inversiones definidos por CORFO.
 
 d) Asignación de subsidio
 
-Corresponderá al Comité de Asignación de Fondos -CAF- la facultad de resolver la aprobación de los programas de Inversión regionales en las fases de pertinencia y asignación de fondos, previo conocimiento y recomendación del CAZ respectivo.
+Corresponderá al Comité de Asignación de Fondos -CAF- la facultad de resolver la aprobación de los programas de Inversión regionales en las fases de pertinencia y asignación de fondos.
 
-Tratándose de modificaciones a Programas que hayan sido aprobados por el CAF, no se requerirá el conocimiento y recomendación previa del CAZ respectivo.
+INCISO ELIMINADO.
 
-Asimismo, no se requerirá nuevamente el conocimiento del CAF, cuando se trate de ampliaciones de plazo para la ejecución del Programa, y las siguientes modificaciones: reitemizaciones de recursos dentro del presupuesto general del Programa, reemplazo o supresión de actividades dentro de un determinado componente del mismo y la liberación de recursos no utilizados.
+No se requerirá nuevamente el conocimiento del CAF, cuando se trate de ampliaciones de plazo para la ejecución del Programa, y las siguientes modificaciones: reitemizaciones de recursos dentro del presupuesto general del Programa, reemplazo o supresión de actividades dentro de un determinado componente del mismo y la liberación de recursos no utilizados.
 
-Sin perjuicio de lo anterior, tales modificaciones deberán contar con la visación previa y por escrito de la Gerencia de Desarrollo Empresarial y la dictación del acto administrativo correspondiente por el Director Regional respectivo.
+Sin perjuicio de lo anterior, tales modificaciones deberán contar con la visación previa y por escrito de la Gerencia de Competitividad y la dictación del acto administrativo correspondiente por el Director Regional respectivo.
 
 e) Ejecución
 
@@ -176,27 +176,29 @@ IV.2 Programa de Inversión Transversales.
 
 a) Definición.
 
-Bajo este concepto se enmarcan actividades de promoción, atracción y materialización de inversiones en un sector o área priorizada a nivel nacional. La administración de estos programas estará a cargo de la Gerencia de Desarrollo Empresarial.
+Bajo este concepto se enmarcan actividades de promoción, atracción y materialización de inversiones en un sector o área priorizada a nivel nacional. La administración de estos programas estará a cargo de la Gerencia de Competitividad.
 
 b) Postulación.
 
-Serán presentados al CAF por el Gerente de Desarrollo Empresarial de CORFO.
+Serán presentados al CAF por el Gerente de Competitividad de CORFO.
 
 c) Evaluación
 
-La gerencia de Desarrollo Empresarial evaluará el Programa considerando, a lo menos, los siguientes criterios:
+La Gerencia de Competitividad evaluará el Programa considerando, a lo menos, los siguientes criterios:
 
-i) Evaluación del Programa de Inversión: consistencia
+i) Evaluación del Programa de Inversión:
 
-de las hipótesis competitivas y de la inteligencia
+consistencia de las hipótesis competitivas y
 
-de mercado desarrollada; pertinencia del plan de
+de la inteligencia de mercado desarrollada;
 
-actividades, cronograma y costos; fortaleza del
+pertinencia del plan de actividades, cronograma
 
-modelo de negocio y oportunidades de inversión a
+y costos; fortaleza del modelo de negocio y
 
-nivel nacional o sectorial.
+oportunidades de inversión a nivel nacional
+
+o sectorial.
 
 ii) Impacto económico en un sector de la actividad
 
@@ -206,11 +208,11 @@ acceso a nuevos mercados y desarrollo de
 
 territorios.
 
-iii) Pertinencia y mérito de la iniciativa en función de
+iii) Pertinencia y mérito de la iniciativa en
 
-los focos de atracción de inversiones definidos por
+función de los focos de atracción de inversiones
 
-CORFO.
+definidos por CORFO.
 
 d) Asignación de subsidio.
 
@@ -218,19 +220,19 @@ Corresponderá al Comité de Asignación de Fondos -CAF- la facultad de resolver
 
 Asimismo, no se requerirá nuevamente el conocimiento del CAF cuando se trate de ampliaciones de plazo para la ejecución del Programa, y las siguientes modificaciones: reitemizaciones de recursos dentro del presupuesto general del Programa, reemplazo o supresión de actividades dentro de un determinado componente del mismo y la liberación de recursos no utilizados.
 
-El Gerente de Desarrollo Empresarial dictará el acto administrativo correspondiente aprobando las referidas modificaciones.
+El Gerente de Competitividad dictará el acto administrativo correspondiente aprobando las referidas modificaciones.
 
 e) Ejecución.
 
-Corresponderá al Gerente de Desarrollo Empresarial de CORFO la facultad de dictar las resoluciones y suscribir los contratos que permitan la ejecución del Programa.
+Corresponderá al Gerente de Competitividad de CORFO la facultad de dictar las resoluciones y suscribir los contratos que permitan la ejecución del Programa.
 
 V. condiciones y pago
 
-Aprobado el Programa de Inversión por el Comité de Asignación de Fondos –CAF-, el Director Regional, o el Gerente de Desarrollo Empresarial en su caso, dictarán una Resolución que lo ponga en ejecución y se procederá a su aplicación en algunas de las formas que se indican a continuación:
+Aprobado el Programa de Inversión por el Comité de Asignación de Fondos –CAF-, el Director Regional, o el Gerente de Competitividad en su caso, dictarán una Resolución que lo ponga en ejecución y se procederá a su aplicación en algunas de las formas que se indican a continuación:
 
 a) Las actividades del Programa podrán encomendarse totalmente o parcialmente a un tercero, para lo cual deberá llamarse a propuesta pública o privada, pudiendo contratarse en forma directa sólo si por la naturaleza de la negociación corresponda, y previa autorización escrita del Vicepresidente Ejecutivo. Los Directores Regionales estarán facultados para efectuar este tipo de contrataciones y, en el caso de la contratación directa, podrán hacerlo sin necesidad de la autorización previa del Vicepresidente Ejecutivo, hasta por montos no superiores a 100 UTM.
 
-En todo caso, será de responsabilidad del Director Regional o el Gerente de Desarrollo Empresarial en su caso, velar por el cumplimiento de la normativa de CORFO, especialmente, en todo lo referente a los contratos que se celebren, giro de los recursos y exigencia de garantías.
+En todo caso, será de responsabilidad del Director Regional o el Gerente de Competitividad en su caso, velar por el cumplimiento de la normativa de CORFO, especialmente, en todo lo referente a los contratos que se celebren, giro de los recursos y exigencia de garantías.
 
 b) Sin perjuicio de lo anterior, las actividades del Programa podrán ejecutarse, de acuerdo a su naturaleza, directamente, sea en forma parcial o total. El gasto que se incurra se pagará contra entrega de facturas, boletas o la documentación correspondiente a nombre de CORFO e imputada a la Resolución que aprobó el Programa respectivo.
 
@@ -238,7 +240,7 @@ c) Finalmente, para ejecutar las actividades del Programa se podrá también sus
 
 ### VI. SUPERVISIÓN DEL PROGRAMA
 
-La supervisión, coordinación y orientación del Programa TODOCHILE será efectuada por la Gerencia de Desarrollo Empresarial de CORFO.
+La supervisión, coordinación y orientación del Programa TODOCHILE será efectuada por la Gerencia de Competitividad de CORFO.
 
 ### VII. VIGENCIA
 
