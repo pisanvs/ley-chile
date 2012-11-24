@@ -56,13 +56,13 @@ Son beneficiarios del cofinanciamiento CORFO las Organizaciones de Pescadores Ar
 
 CORFO cofinanciará hasta un 70% del costo del Estudio de Situación Base (ESBA), con un tope hasta de $9.000.000.- (nueve millones de pesos).
 
-El cofinanciamiento CORFO para esta Etapa puede ser pagado al Consultor en dos parcialidades:
+El cofinanciamiento CORFO para esta Etapa, puede ser pagado al Consultor en dos parcialidades:
 
-40% se paga una vez que la Subsecretaría de Pesca (SUBPESCA) apruebe, mediante resolución, la Propuesta de Estudio de Situación Base.
+50% una vez que la empresa consultora, con autorización previa de la organización de pescadores artesanales beneficiaria del instrumento, entrega a la Subsecretaría de Pesca (Subpesca) el Plan de Manejo y Explotación de Recursos Bentónicos.
 
-60% se paga una vez que la SUBPESCA apruebe, mediante resolución, el Plan de Manejo y Explotación de Recursos Bentónicos.
+50% una vez que la Subpesca apruebe, mediante resolución, el Plan de Manejo y Explotación de Recursos Bentónicos.
 
-El aporte empresarial de la Organización de pescadores artesanales puede ser hasta en un 50% en bienes y/o servicios, valorizados a precios de mercado, por el Agente Operador Intermediario. El saldo del aporte debe ser en dinero, el cual debe ser entregado por la Organización al Agente Operador Intermediario, conjuntamente con la firma del contrato de consultoría.
+El aporte empresarial de la organización de pescadores artesanales puede ser hasta en un 50% en bienes y/o servicios, valorizados a precios de mercado, por el Agente Operador Intermediario. El saldo del aporte debe ser en dinero, el cual debe ser entregado por la Organización al Agente Operador Intermediario, conjuntamente con la firma del contrato de consultoría
 
 4.2. Etapa de Seguimiento:
 
