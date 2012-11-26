@@ -9882,21 +9882,17 @@ A) SERVICIOS VINCULADOS A SISTEMAS DE PAGOS
 
 - Operación de tarjetas de crédito.
 
-- Emisión de tarjetas de crédito en calidad de filial de un banco, sujeta a las normas de solvencia, gestión e información establecidas por esta Superintendencia al amparo de lo dispuesto en la letra A) del Título III del Capítulo III.J.1 del Compendio de Normas Financieras, según lo interpretado en el Acuerdo N° 1490-03-090723 del Consejo del Banco Central de Chile.
+- Emisión de tarjetas de crédito en calidad de filial de un banco, en concordancia con lo indicado en la letra A) del Título II del Capítulo III.J.1, del Compendio de Normas Financieras del Banco Central de Chile.
 
-- Emisión y operación de tarjetas de pago con provisión de fondos.
+- Operación de tarjetas de pago con provisión de fondos.
 
-- Proveer medios de acceso a los servicios de transporte de personas, efectuar la recaudación, administración y custodia de los recursos provenientes de la comercialización y recarga de los medios que se provean para ese fin, distintos de los demás indicados en el Capítulo III.J.3 del Compendio de Normas Financieras del Banco Central de Chile, atender la distribución, entre los proveedores de los servicios de transporte, de los fondos recaudados y la prestación de servicios destinados a facilitar el cumplimiento de esos fines.
+- Efectuar la recaudación, administración y custodia de los recursos del Sistema Transantiago y demás actividades que debe ejecutar conforme a lo prescrito en el Contrato de Prestación de los Servicios Complementarios de Administración Financiera de los Recursos del Sistema de Transporte Público de Pasajeros de Santiago de 14 de diciembre de 2012, todo ello en el contexto de lo dispuesto por la Ley N°18.696 y sus posteriores modificaciones.
 
 - Otros servicios vinculados a los sistemas de pagos.
 
 B) PRÉSTAMOS
 
 - Otorgamiento de préstamos de oferta masiva en calidad de filial de un banco, sujeta a todas las normas que rigen a los bancos en relación con la gestión y el riesgo de los créditos, como asimismo con la información que debe proporcionarse periódicamente a esta Superintendencia.
-
-## Capítulo 11-6
-
-Anexo N° 2-Hoja 2
 
 C) OTROS SERVICIOS
 
