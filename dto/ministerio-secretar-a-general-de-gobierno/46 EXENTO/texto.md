@@ -18,11 +18,11 @@ Decreto:
 
 1. Desígnase en forma permanente los siguientes órdenes de subrogación para los cargos de Secretarios Regionales Ministeriales del Ministerio Secretaría General de Gobierno, de las regiones que se indican, en caso de ausencia o impedimento de su titular:
 
-a) Región de Tarapacá:
+a) Región de Tarapacá
 
-1.- Miguel Ángel Quezada Torres (Seremi de Hacienda, Región de Tarapacá).
+1.- Renzo Trisotti Martínez (Seremi de Desarrollo Social, Región de Tarapacá).
 
-2.- Renzo Trisotti Martínez (Seremi de Justicia, Región de Tarapacá).
+2.- Darío Chacón Vicentello (Seremi de Justicia, Región de Tarapacá).
 
 3.- Marcos Gómez Barrera (Seremi del Trabajo y Previsión Social, Región de Tarapacá).
 
