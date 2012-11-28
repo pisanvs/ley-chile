@@ -1,0 +1,35 @@
+DECLARA ZONA SATURADA POR MATERIAL PARTICULADO RESPIRABLE MP10, COMO CONCENTRACIÓN DIARIA Y ANUAL, A LA CIUDAD DE COYHAIQUE Y SU ZONA CIRCUNDANTE, EN CONFORMIDAD AL POLÍGONO QUE SE INDICA
+
+Núm. 33.- Santiago, 20 de agosto de 2012.- Vistos: Lo establecido en la Constitución Política de la República de Chile, en sus artículos 19 números 8 y 9, y 32 número 6; en la Ley N° 19.300 sobre Bases Generales del Medio Ambiente, artículos 2 y 43; en la resolución exenta N° 302, de 7 de marzo de 2011, del Subsecretario del Medio Ambiente, que instruye sobre modificaciones al procedimiento de declaración de zona saturada y latente, a partir de la entrada en vigencia de la nueva Institucionalidad Ambiental, modificada por la resolución exenta N° 422, de 22 de mayo de 2012, del Subsecretario del Medio Ambiente; en el DS N° 59, de 1998, del Ministerio Secretaría General de la Presidencia, que establece la Norma de Calidad Primaria para Material Particulado Respirable MP10; en el oficio ordinario N° 314, de 5 de julio de 2012, de la Secretaría Regional Ministerial del Medio Ambiente, Región de Aysén, que adjunta el Informe Técnico para Declarar Zona Saturada por Material Particulado Respirable MP10 a la ciudad de Coyhaique y su zona circundante, en conformidad al polígono que se indica, y demás antecedentes fundantes; en el oficio ordinario N° 622, de 18 de mayo de 2012, de la Secretaría Regional Ministerial de Salud, Región de Aysén; en el memorándum N° 224, de 25 de julio de 2012, del Jefe de la Oficina de Asuntos Atmosféricos, del Ministerio del Medio Ambiente; demás antecedentes fundantes; y lo dispuesto en la resolución N° 1.600, de 2008, de la Contraloría General de la República.
+
+Considerando:
+
+1° Que el objetivo de las normas primarias de calidad ambiental es la protección de la salud de las personas, y que la declaración de zona saturada es condición necesaria para la elaboración de un plan de descontaminación, instrumento de gestión ambiental que tiene por finalidad recuperar los niveles señalados en las normas primarias de calidad ambiental en una zona saturada.
+
+En Chile, la Norma de Calidad Primaria para Material Particulado Respirable MP10, contenida en el DS N° 59, de 1998, del Ministerio Secretaría General de la Presidencia, establece los estándares de calidad para este contaminante en ciento cincuenta microgramos por metro cúbico normal (150 µg/m³N) y en cincuenta microgramos por metro cúbico normal (50 µg/m³N) como concentración diaria y anual, respectivamente.
+
+2° Que, en la ciudad de Coyhaique existe operativa una estación de monitoreo que dispone de equipo de monitoreo continuo en tiempo real para medir Material Particulado Respirable MP10, tecnología de atenuación beta, de propiedad del Gobierno Regional de Aysén, con inicio de mediciones a partir de marzo de 2007, ubicada en la Avenida Simpson N° 1169, comuna de Coyhaique, la cual fue declarada como Estación de Monitoreo de Material Particulado Respirable MP10, con representatividad poblacional (EMRP), mediante resolución exenta N° 507, de 1 de agosto de 2007, de la Secretaría Regional Ministerial de Salud de la Región de Aysén.
+
+3° Que, los resultados de las mediciones efectuadas en dicha estación monitora de calidad del aire, validadas por la Secretaría Regional Ministerial de Salud de la Región de Aysén, según consta de su oficio ordinario N° 622, de 18 de mayo de 2012, que acompaña el Informe Técnico "Declaración de Zona Saturada Ciudad de Coyhaique", permiten concluir que la Norma de Calidad Primaria para Material Particulado Respirable MP10, como concentración diaria, se encuentra en condición de saturada, verificada tanto por el número de días como por el valor del percentil 98. De igual modo, la concentración anual, se encuentra en condición de saturada para el año 2010 y 2011, de acuerdo al promedio aritmético de tres años calendario consecutivos, en este caso, de los años 2008, 2009, 2010 y 2011.
+
+4° Que, el Informe Técnico, contenido en el oficio ordinario N° 314, de 5 de julio de 2012, de la Secretaría Regional Ministerial del Medio Ambiente de la Región de Aysén, concluye que, las emisiones diarias y anuales de Material Particulado Respirable MP10, de acuerdo a la información entregada por la estación de monitoreo de Coyhaique y validada por la Secretaría Regional Ministerial de Salud de la Región de Aysén, corresponden principalmente a la combustión residencial de leña. Asimismo, dicho informe propone la definición de la zona saturada mediante un polígono que abarca una superficie aproximada de 11.157 hectáreas. Esta delimitación atiende principalmente a los resultados de la modelación de trayectoria de las masas de aire, de acuerdo al potencial de dispersión que posee el Material Particulado Respirable MP10 y la ubicación de las zonas de mayor concentración de este contaminante, por lo que la zona geográfica a declarar saturada debe considerar una mayor extensión al área urbana, teniendo presente la proyección de expansión de la misma en relación a los límites de expansión de la ciudad dados por el Plan Regulador Comunal actual.
+
+5° Que, conforme lo dispone el inciso primero del artículo 43 de la ley N° 19.300, sobre Bases Generales del Medio Ambiente, modificado por la letra a) del N° 50, del artículo primero de la ley N° 20.417, la declaración de una zona del territorio como saturada se hará mediante decreto supremo que llevará la firma del Ministro del Medio Ambiente y contendrá la determinación precisa del área geográfica que abarca. Llevará además la firma del Ministro de Salud, si se trata de la aplicación de normas primarias de calidad ambiental.
+
+Decreto:
+
+#### Artículo único
+
+Declárase zona saturada por Material Particulado Respirable MP10, como concentración diaria y anual, la zona geográfica que comprende a la ciudad de Coyhaique y su zona circundante, en conformidad al polígono que se indica, cuyos límites geográficos son los siguientes:
+
+La delimitación de la Zona Saturada inicia en el Río Simpson (vértice 1: UTM E= 723486,04; UTM N = 4943078,20), luego se extiende hacia el Este hasta el Cerro Castillo (vértice 2: UTM E = 731818,56; UTM N = 4943603,91).
+
+Luego, sigue en dirección hacia el Noreste llegando a la intersección con el cruce R240/x-589 (vértice 3: UTM E = 739907,45; UTM N = 4951444,12).
+
+Sigue hacia el Noroeste hasta llegar a la Laguna Verde (vértice 4: UTM E = 731661,85; UTM N = 4953758,26).
+
+Continúa hacia el Noroeste hasta la Central Eólica Alto Baguales (vértice 5: UTM E = 725844,61; UTM N = 4954413,09), finalmente, se extiende hacia el suroeste alcanzando al vértice 1, el cual corresponde al Río Simpson.
+
+Anótese, tómese razón, publíquese y archívese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- María Ignacia Benítez Pereira, Ministra del Medio Ambiente.- Jaime Mañalich Muxi, Ministro de Salud.
+
+Lo que transcribo a Ud. para su conocimiento.- Ricardo Irarrázabal Sánchez, Subsecretario del Medio Ambiente.
