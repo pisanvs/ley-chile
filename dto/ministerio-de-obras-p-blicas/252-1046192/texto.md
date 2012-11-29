@@ -1,0 +1,91 @@
+MODIFICA, POR RAZONES DE INTERÉS PÚBLICO, LAS CARACTERÍSTICAS DE LAS OBRAS Y SERVICIOS QUE INDICA DEL CONTRATO DE CONCESIÓN DE LA OBRA PÚBLICA FISCAL DENOMINADA "SISTEMA NORTE-SUR"
+
+Núm. 252.- Santiago, 7 de agosto de 2012.- Vistos:
+
+- El DFL MOP Nº 850, de 1997, que fijó el texto refundido, coordinado y sistematizado de la Ley Nº 15.840, de 1964, Orgánica del Ministerio de Obras Públicas, y del DFL Nº 206, de 1960, Ley de Caminos.
+
+- El decreto supremo MOP Nº 900, de 1996, que fijó el texto refundido, coordinado y sistematizado del DFL MOP Nº 164, de 1991, Ley de Concesiones de Obras Públicas, en especial su artículo 19º.
+
+- El decreto supremo MOP Nº 956, de 1997, Reglamento de la Ley de Concesiones de Obras Públicas, en especial el artículo 69º.
+
+- El decreto supremo MOP Nº 4.153, de fecha 14 de septiembre de 2000, que adjudicó el contrato de concesión para la ejecución, conservación y explotación de la obra pública fiscal denominada "Sistema Norte-Sur".
+
+- La resolución DGOP (exenta) Nº 6.003, de fecha 17 de diciembre de 2009.
+
+- El decreto supremo MOP Nº 99, de fecha 18 de enero de 2010.
+
+- La resolución DGOP (exenta) Nº 3.074, de fecha 10 de septiembre de 2010.
+
+- El decreto supremo MOP Nº 388, de fecha 5 de noviembre de 2010.
+
+- La anotación del Inspector Fiscal en el Libro de Obras, folio Nº 33, de fecha 14 de marzo de 2011.
+
+- El oficio Ord. Nº 7.983/12, de fecha 8 de mayo de 2012, del Inspector Fiscal.
+
+- La carta D/GIN/CA/12/AA7077-0/MOP, de fecha 23 de mayo de 2012, de Sociedad Concesionaria Autopista Central S.A.
+
+- El oficio Ord. Nº 8.051/12, de fecha 8 de junio de 2012, del Inspector Fiscal.
+
+- El oficio Ord. Nº 62, de fecha 14 de junio de 2012, del Jefe de la División de Explotación de Obras Concesionadas.
+
+- La resolución Nº 1.600, de 2008, de la Contraloría General de la República, que fijó normas sobre exención del trámite de toma de razón.
+
+Considerando:
+
+- Que los artículos 19º de la Ley de Concesiones de Obras Públicas y 69º de su Reglamento, establecen que el Ministerio de Obras Públicas, desde que se perfeccione el contrato, podrá modificar, por razones de interés público, las características de las obras y servicios contratados.
+
+- Que el artículo 69º N° 4 del Reglamento agrega que el Director General de Obras Públicas, con el visto bueno del Ministro de Obras Públicas y del Ministro de Hacienda, por razones de urgencia, podrá exigir la modificación de las obras y servicios desde el momento que lo estime conveniente, aunque esté pendiente la determinación sobre la indemnización.
+
+- Que el artículo 1.9.2.18 de las Bases de Licitación establece que el Concesionario deberá proyectar y ejecutar, a su entero costo y sin derecho a indemnización alguna, las obras de ampliación de capacidad de las vías expresas del Eje General Velásquez correspondientes a los Sectores Sur (Tramo D) y Norte (Tramo E), de acuerdo a los estándares establecidos en el Proyecto Referencial y en las Bases de Licitación, fijando, en la letra c) del citado artículo, las condiciones requeridas para que se inicie la etapa de ejecución de las obras. No obstante, en la letra g) del citado artículo se establece que, en cualquier caso, el Concesionario debería dejar construidas y habilitadas al uso público las terceras pistas expresas de la totalidad del Eje General Velásquez, a más tardar, a los 120 meses contados desde el inicio de la concesión señalado en el artículo 1.7.5 de las Bases de Licitación, es decir, el día 3 de julio del año 2011.
+
+- Que, mediante resolución DGOP (exenta) Nº 6.003, de fecha 17 de diciembre de 2009, sancionada mediante el decreto supremo MOP Nº 99, de fecha 18 de enero de 2010, se modificaron las características de las obras y servicios del contrato de concesión, en el sentido que "Sociedad Concesionaria Autopista Central S.A." debería desarrollar el estudio denominado "Mejoramiento de las Conexiones del Sistema Oriente - Poniente con Avenida General Velásquez", según las condiciones y términos dispuestos en la citada resolución.
+
+- Que, como parte del estudio denominado "Mejoramiento de las Conexiones del Sistema Oriente - Poniente con Avenida General Velásquez", se dispuso la realización de estudios de tráfico e ingresos y evaluación social, cuyas conclusiones, entre otras, permitirían al MOP determinar la conveniencia y oportunidad para la ampliación de las calzadas expresas del Eje General Velásquez, las que deben guardar armonía y consistencia con las obras del estudio antes singularizado.
+
+- Que, mediante resolución DGOP (exenta) Nº 3.074, de fecha 10 de septiembre de 2010, sancionada mediante decreto supremo MOP Nº 388, de fecha 5 de noviembre de 2010, se modificaron las características de las obras y servicios del contrato de concesión, en particular, la regulación contenida en la letra g) del artículo 1.9.2.18 de las Bases de Licitación, en el sentido que "Sociedad Concesionaria Autopista Central S.A." debería dejar construidas y habilitadas al uso público las terceras pistas expresas de la totalidad del Eje General Velásquez, a más tardar, a los 18 meses contados desde lo que ocurriera primero entre: i) la fecha de aprobación, por parte del Inspector Fiscal, del Informe de Anteproyectos del estudio denominado "Mejoramiento de las Conexiones del Sistema Oriente - Poniente con Avenida General Velásquez", que dispusieron la resolución DGOP (exenta) Nº 6.003 y el decreto supremo MOP Nº 99, y ii) el 7 de junio de 2011. Lo anterior en atención a que ello contribuiría a estudiar la conveniencia y oportunidad de las obras de ampliación de las calzadas expresas del Eje General Velásquez, a fin de asegurar la consistencia con las obras que proyectase el estudio dispuesto mediante resolución DGOP (exenta) Nº 6.003 y decreto supremo MOP Nº 99.
+
+- Que, de acuerdo a lo señalado por el Inspector Fiscal en su anotación en el Libro de Obras, folio Nº 33, de fecha 14 de marzo de 2011, la Inspección Fiscal instruyó a la Sociedad Concesionaria suspender la Fase 2 del estudio denominado "Mejoramiento de las Conexiones del Sistema Oriente - Poniente con Avenida General Velásquez", correspondiente al Informe de Anteproyectos al que hace referencia el numeral i) del Considerando precedente. Por tanto, tomando como referencia el numeral ii) del Considerando anterior, el plazo máximo establecido en el resuelvo Nº 1 de la resolución DGOP (exenta) Nº 3.074, para la construcción y habilitación al uso público de las terceras pistas expresas de la totalidad del Eje General Velásquez que debería desarrollar la Sociedad Concesionaria, vencería con fecha 7 de diciembre de 2012.
+
+- Que la suspensión transitoria del estudio denominado "Mejoramiento de las Conexiones del Sistema Oriente - Poniente con Avenida General Velásquez" no compromete el buen desarrollo de las obras de ampliación correspondientes a la construcción y habilitación al uso público de las terceras pistas expresas de la totalidad del Eje General Velásquez.
+
+- Que, sin perjuicio de lo anterior, en virtud de los estudios de tráfico e ingresos y evaluación social que se han venido realizando, cuyas conclusiones, entre otras, permitirían al MOP determinar la conveniencia y oportunidad para la ampliación de las calzadas expresas del Eje General Velásquez, se ha estimado que las terceras pistas expresas, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, no serían necesarias sino hasta el año 2013.
+
+- Que, por otra parte, aún no ha sido posible establecer una solución de conectividad de las terceras pistas del Tramo E (del Eje General Velásquez) con el Tramo C (del Eje Norte-Sur), con la capacidad vehicular suficiente de este último para absorber la incorporación del flujo potencial de 3 pistas expresas.
+
+- Que, en atención a lo señalado precedentemente, el MOP estima de interés público modificar las características de las obras y servicios del contrato de concesión de la obra pública fiscal denominada "Sistema Norte-Sur", en el sentido de establecer un nuevo plazo máximo, separado por Tramos, para la construcción y habilitación al uso público, que debe ejecutar la Sociedad Concesionaria, de las terceras pistas expresas de la totalidad del Eje General Velásquez, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación. Específicamente, se ha estimado que: i) Las terceras pistas expresas, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, correspondientes al Sector Sur (Tramos D1 y D2) del Eje General Velásquez, deberán estar construidas y habilitadas al uso público a más tardar el día 28 de febrero de 2013, toda vez que ello permitiría programar su construcción de una manera menos invasiva, dadas las condiciones de flujo vehicular del tramo a intervenir y la naturaleza de los trabajos; y ii) Será conveniente postergar el inicio de la construcción de las terceras pistas expresas del Eje General Velásquez correspondientes al Sector Norte (Tramo E), a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, hasta que se determine la conveniencia y oportunidad para la ampliación de las calzadas respectivas, toda vez que ello permitirá que dichas obras se realicen de manera compatible y consistente con los estudios que se han venido realizando en la materia, lo que evitará que se realicen inversiones que a la luz de los estudios dispuestos pudiesen ser innecesarias.
+
+- Que el Nº 3 del decreto supremo MOP Nº 388 establece que los efectos económicos y financieros que se producen a favor de la Sociedad Concesionaria, producto de la postergación de la ampliación de las terceras pistas del Eje General Velásquez, podrán servir como compensación del MOP a la Sociedad Concesionaria por los perjuicios causados por la modificación de las características de las obras y servicios que: i) trataron la resolución DGOP (exenta) Nº 6.003 y el decreto supremo MOP Nº 99, ii) pudiera disponer el MOP de acuerdo a las normas que establece la Ley de Concesiones de Obras Públicas y su Reglamento, o bien ser pagados al MOP si así se acordare.
+
+- Que, de acuerdo al mérito del trabajo de coordinación que se ha venido realizando sobre esta materia, mediante oficio Ord. Nº 7.983/12, de fecha 8 de mayo de 2012, el Inspector Fiscal informó formalmente a Sociedad Concesionaria Autopista Central S.A. que, de conformidad a lo dispuesto en los artículos 19º de la Ley de Concesiones de Obras Púbicas y 69º de su Reglamento, el Ministerio de Obras Públicas modificará las características de las obras y servicios del contrato de concesión de la obra pública fiscal denominada "Sistema Norte-Sur", en particular, la regulación contenida en el decreto supremo MOP Nº 388, en el sentido que el plazo máximo establecido para la construcción y habilitación al uso público, que debe ejecutar la Sociedad Concesionaria, de las terceras pistas expresas de la totalidad del Eje General Velásquez, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, será el que indica. Adicionalmente, el Inspector Fiscal informó a la Sociedad Concesionaria que el monto correspondiente a los beneficios para la Concesionaria, dados por el efecto financiero de diferir los montos de inversión de la construcción de las terceras pistas y por los ahorros en los gastos de conservación respectivos, cuyo detalle adjuntó al citado oficio, se contabilizará en una cuenta que será utilizada como mecanismo de compensación por los gastos y perjuicios de la Sociedad Concesionaria por concepto de las obras de mejoramiento del Sistema Norte-Sur que el MOP ha venido solicitando durante el último tiempo.
+
+Finalmente, el Inspector Fiscal solicitó a la Sociedad Concesionaria ratificar su aceptación a los términos y condiciones señalados en el oficio citado precedentemente.
+
+- Que, mediante carta D/GIN/CA/12/AA7077-0/MOP, de fecha 23 de mayo de 2012, la Sociedad Concesionaria ratificó expresamente su acuerdo con la modificación a las características de las obras y servicios del contrato de concesión informada por el Inspector Fiscal en su oficio Ord. Nº 7.983/12, de fecha 8 de mayo de 2012, según las condiciones y términos ahí señalados.
+
+- Que el Inspector Fiscal, mediante oficio Ord. Nº 8.051/12, de fecha 8 de junio de 2012, informó al Jefe de la División de Explotación de Obras Concesionadas, su opinión favorable respecto de la modificación a las características de las obras y servicios del contrato de concesión de la obra pública fiscal denominada "Sistema Norte-Sur", considerando las razones de interés público que expone, y que se refieren a que la postergación de las obras de ampliación, correspondientes a la construcción y habilitación al uso público de las terceras pistas expresas de la totalidad del Eje General Velásquez, permitirá que éstas se programen de una manera menos invasiva, dada la naturaleza de los trabajos y las condiciones de flujo vehicular del área a intervenir, y que se realicen de manera compatible y consistente con los estudios que se han venido realizando en la materia, lo que evitará que se realicen inversiones que a la luz de los estudios dispuestos pudiesen ser innecesarias.
+
+- Que mediante oficio Ord. Nº 62, de fecha 14 de junio de 2012, el Jefe de la División de Explotación de Obras Concesionadas, luego de ponderar los antecedentes, recomendó al Coordinador de Concesiones de Obras Públicas se sirva solicitar al Director General de Obras Públicas tramitar el proyecto de decreto supremo que adjunta, atendidas las razones de interés público que fueron señaladas por el Inspector Fiscal en su oficio Ord. Nº 8.051/12, de fecha 8 de junio de 2012.
+
+- Que, a objeto de dar cumplimiento a lo indicado en los artículos 19º de la Ley de Concesiones de Obras Públicas y 69º de su Reglamento, se hace necesaria la dictación del presente decreto supremo fundado, que modifica las características de las obras y servicios contratados, por razones de interés público.
+
+Decreto:
+
+1. Modifícanse, por razones de interés público, las características de las obras y servicios del contrato de concesión de la obra pública fiscal denominada "Sistema Norte-Sur", en particular, la regulación contenida en el decreto supremo MOP Nº 388, en el sentido que el plazo máximo establecido para la construcción y habilitación al uso público, que debe ejecutar la Sociedad Concesionaria, de las terceras pistas expresas de la totalidad del Eje General Velásquez, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, será el siguiente:
+
+a) Las terceras pistas expresas, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, correspondientes al Sector Sur (Tramos D1 y D2) del Eje General Velásquez, deberán estar construidas y habilitadas al uso público a más tardar el día 28 de febrero de 2013.
+
+b) Las terceras pistas expresas, a las que hace referencia el artículo 1.9.2.18 de las Bases de Licitación, correspondientes al Sector Norte (Tramo E) del Eje General Velásquez, deberán estar construidas y habilitadas al uso público en el plazo de 240 días luego que el Inspector Fiscal notifique a la Sociedad Concesionaria, mediante anotación en el Libro de Explotación de la Obra, el inicio de su construcción. Para realizar esta notificación, el MOP tendrá en consideración el cumplimiento de las condiciones establecidas en el literal c) del referido artículo 1.9.2.18 de las Bases de Licitación y el hecho de que exista una solución de conectividad de las terceras pistas del Tramo E (del Eje General Velásquez) con el Tramo C (del Eje Norte-Sur), con la capacidad vehicular suficiente de este último para absorber la incorporación del flujo potencial de 3 pistas expresas. El plazo de 240 días recién señalado podrá ampliarse hasta por 240 días adicionales, atendida la complejidad de la obra de conexión recién señalada.
+
+2. Establécese que el monto correspondiente a los beneficios para la Sociedad Concesionaria, generados por el efecto financiero de diferir los montos de inversión de la construcción de las terceras pistas expresas y por los ahorros en los gastos de conservación respectivos, se contabilizará, a partir del día 1 de enero de 2010, en una cuenta denominada "Cuenta de Compensación Programa de Mejoramiento Sistema Norte-Sur".
+
+La cuenta señalada en el párrafo precedente se actualizará mensualmente a una tasa equivalente a una tasa de interés real anual compuesta de 5% y será utilizada como mecanismo de compensación por los gastos y perjuicios de la Sociedad Concesionaria por concepto de las obras de mejoramiento del Sistema Norte-Sur que el MOP ha venido solicitando durante el último tiempo.
+
+Se deja constancia que, de conformidad al detalle que adjuntó el Inspector Fiscal a su oficio Ord. Nº 7.983, el monto al que hace referencia el primer párrafo del presente numeral equivale a la cantidad única y total, a suma alzada, de UF 30.372 (treinta mil trescientas setenta y dos unidades de fomento). Dicho monto, sin embargo, podrá ser revisado por las partes una vez que se determine definitivamente el inicio de la construcción de las terceras pistas expresas del Tramo E, al que hace referencia el literal b) del Nº 1 del presente decreto supremo.
+
+3. Establécese que las modificaciones que trata el presente decreto supremo, no modifican ninguno de los demás plazos ni obligaciones del contrato de concesión.
+
+4. Dentro del plazo de 10 días hábiles, contados desde la publicación en el Diario Oficial del presente decreto supremo, tres transcripciones de éste serán suscritas ante notario por "Sociedad Concesionaria Autopista Central S.A.", en señal de aceptación de su contenido, debiendo protocolizar ante el mismo uno de los ejemplares. Dentro de los 5 días hábiles siguientes, una de las transcripciones referidas precedentemente será entregada para su archivo a la Dirección General de Obras Públicas, y la otra a la Fiscalía del Ministerio de Obras Públicas; ambas deberán acompañarse de una copia autorizada de la protocolización efectuada.
+
+Anótese, tómese razón y publíquese.- SEBASTIÁN PIÑERA ECHENIQUE, Presidente de la República.- Laurence Golborne Riveros, Ministro de Obras Públicas.- Felipe Larraín Bascuñán, Ministro de Hacienda.
+
+Lo que transcribo a Ud. para su conocimiento.- Saluda atte. a Ud., Lucas Palacios Covarrubias, Subsecretario de Obras Públicas.
