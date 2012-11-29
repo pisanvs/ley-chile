@@ -26,6 +26,8 @@ El SERVIU podrá postular hasta el día 22 de diciembre inclusive a las personas
 
 6. Mediante resoluciones de la Ministra de Vivienda y Urbanismo, que se publicarán en el Diario Oficial, se aprobarán las nóminas de postulantes seleccionados. La difusión de dichas nóminas podrá realizarse en un diario de circulación regional o nacional u otro medio de comunicación pública.
 
+7. Los certificados de subsidios obtenidos por el presente llamado no podrán aplicarse en polígonos sujetos de atención vía programa de actuación condominios sociales definidos por la Secretaría Ejecutiva de Barrios del Ministerio de Vivienda y Urbanismo.
+
 Anótese, comuníquese, publíquese y archívese.- Magdalena Matte Lecaros, Ministra de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Andrés Iacobelli del Río, Subsecretario de Vivienda y Urbanismo.
