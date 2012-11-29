@@ -100,6 +100,8 @@ Para el puntaje final de este factor, se sumarán los puntos mencionados anterio
 
 8. Los postulantes al presente llamado, que se sientan perjudicados con el proceso de selección, tendrán un plazo de 10 días corridos, desde la publicación de la resolución de selección indicada en el resuelvo precedente, para presentar por escrito ante el Serviu reclamos u observaciones, siempre que éstos no sean imputables al postulante. El Serviu deberá resolver administrativamente mediante resoluciones, sin ulterior recurso y sin perjuicio de los derechos establecidos en el Capítulo IV de la ley Nº 19.880 y de las facultades que la ley Nº 10.336 otorga a la Contraloría General de la República.
 
+9. Los certificados de subsidios obtenidos por el presente llamado no podrán aplicarse en polígonos sujetos de atención vía programa de actuación condominios sociales definidos por la Secretaría Ejecutiva de Barrios del Ministerio de Vivienda y Urbanismo.
+
 Anótese, comuníquese, publíquese y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
