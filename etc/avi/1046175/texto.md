@@ -1,0 +1,9 @@
+INFORMA NÓMINAS DE EXPERTOS PARA EL NOMBRAMIENTO DE COMISIONES ARBITRALES DEL ARTÍCULO 36 BIS DE LA LEY DE CONCESIONES DE OBRAS PÚBLICAS
+
+De conformidad con lo dispuesto en el artículo 36 bis del DS Nº 900, de 1996, del Ministerio de Obras Públicas, que fijó el texto refundido, coordinado y sistematizado de la Ley de Concesiones de Obras Públicas, y en las letras g) y b) del número 1 del artículo 109 del DS Nº 956, de 1997, del Ministerio de Obras Públicas, modificado por el DS Nº 215, de 2010, del Ministerio de Obras Públicas; y con lo ordenado por la resolución Ex. Nº 3.462, de 23 de noviembre de 2012, del Ministerio de Obras Públicas, se informa lo siguiente:
+
+1. Que por oficio Nº 48, de 19 de enero de 2011, la Corte Suprema comunicó la elaboración de la siguiente nómina de expertos abogados: señores Jaime Arancibia Mattar, Mario Barrientos Ossa, Marcelo Barrientos Zamorano, Luis Octavio Bofill Genzsch, Franco Brzovic González, Javier Carvallo Pardo, Gabriela Gardaiz Ondarza, Juan Pablo González Molina, Eduardo Jara Miranda, Ricardo Jungmann Davies, Alberto Labbé Valverde, Bernardo Lara Berríos, Jorge Martín Díaz, Patricio Morales Aguirre, Gia Quintana Fuentes, José Antonio Ramírez Arrayas, Juan Pablo Román Rodríguez, Emilio Sahurie Luer, Joaquín Solís de Ovando Vicuña y Juan Manuel Valenzuela Garrido.
+
+2. Que por medio del oficio Nº 63, de 29 de octubre de 2012, el Tribunal de Defensa de la Libre Competencia comunicó la elaboración de la siguiente nómina de expertos profesionales universitarios de áreas ligadas a la economía, la ingeniería y la construcción: señores Andrea Alvarado Duffau, José Coll Mori, Louis De Grange Concha, Antonio Domínguez Vázquez, Aldo González Tissinetti, Ramón Melo Silva, Carlos Mercado Herreros, Jorge Montecinos Alvarado, Francisco Schmidt Ariztía y René Ureta Quintana.-
+
+Luis Felipe Contreras Acuña, Jefe Subdivisión de Abastecimiento, Subsecretaría MOP.
