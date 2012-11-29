@@ -1,0 +1,3 @@
+Por resolución exenta N° 2.962, de 15 de noviembre de 2012, de esta Subsecretaría, modifícase la resolución exenta N° 1.980, de 2012, de esta Subsecretaría que autorizó a la UNIVERSIDAD CATÓLICA DE LA SANTÍSIMA CONCEPCIÓN para efectuar una pesca de investigación, en el sentido de incluir como zona de estudio el sector de Laja, de la VIII Región.
+
+Valparaíso, 15 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
