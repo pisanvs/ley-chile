@@ -1,0 +1,7 @@
+DISPONEN EXPROPIACIÓN PARCIAL, DESISTIMIENTO DE EXPROPIACIÓN, ESTUDIOS DE EXPROPIACIÓN Y RECTIFICAN EXPROPIACIONES DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 6.197, 23 de noviembre de 2012, Serviu Región del Biobío ordenó expropiación parcial del inmueble ubicado en Avenida Gabriela Mistral x Ruta 5 (Lote 1), de la comuna de Los Ángeles, Rol de avalúo Nº 1538-00008 de esa comuna de aparente dominio de Obispado de Los Ángeles. La parte afecta a expropiación tiene una superficie total de 2146,35 m² de terreno cuyos deslindes están dentro del polígono A-B-C-D-E-F-G-H-I-J-A y de 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 1A de 847,69 en el polígono A-B-C-D-E-F-A del plano S8R-28.062-2 y en el Lote 1B de 1298,66 en el polígono K-L-M-N-K del mismo plano, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta María Pamela Mac Guire Acevedo, arquitecto Rodrigo Gerardo Ríos Maldonado y arquitecto Miguel Ramón Vera Musso que fijaron el monto de la indemnización provisional, por concepto de terreno, más obras complementarias y especies vegetales, en la suma de $190.021.247.-
+
+Director (S) Serviu Región del Biobío.
