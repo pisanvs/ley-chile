@@ -1,0 +1,7 @@
+DISPONEN EXPROPIACIÓN PARCIAL, DESISTIMIENTO DE EXPROPIACIÓN, ESTUDIOS DE EXPROPIACIÓN Y RECTIFICAN EXPROPIACIONES DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Resolución exenta Nº 6.195, 23 de noviembre de 2012, Serviu Región del Biobío ordenó expropiación parcial de terreno y total de la edificación del inmueble ubicado en G Mistral 118 (Lote 2), de la comuna de Los Ángeles, Rol de avalúo Nº 503-00010 de esa comuna de aparente dominio de Suc. Moeller Bohnhorst, Carlos. La parte afecta a expropiación tiene una superficie de 87,85 m² de terreno y 0 m² de edificación, más obras complementarias y especies vegetales, cuyos linderos particulares se encuentran enmarcados en Lote 2 en el polígono A-B-C-D-A del plano S8R-28.063-2, para la ejecución Programa "Mejoramiento Accesos Gabriela Mistral y Los Carrera Ciudad de Los Ángeles". Conforme artículo 51 ley 16.391 y DL 2.186. Comisión Peritos integrada por arquitecta María Pamela Mac Guire Acevedo, arquitecto Rodrigo Gerardo Ríos Maldonado y arquitecto Miguel Ramón Vera Musso que fijaron el monto de la indemnización provisional, por concepto de terreno, edificación, más obras complementarias y especies vegetales, en la suma de $11.569.527.-
+
+Director (S) Serviu Región del Biobío.
