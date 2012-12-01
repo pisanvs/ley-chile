@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº2581 de 31 de octubre de 2012, se dejó sin efecto el Decreto MOP Nº1524 de 31 de octubre de 2012, que ordenó, la expropiación del lote N°1, por no ser necesaria para la obra, por haberse constituido una servidumbre para la obra pública "Colector Interceptor Mapocho Segunda Etapa", Región Metropolitana. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
