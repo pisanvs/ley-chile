@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº2611 de 31 de octubre de 2012, se complementó el Decreto MOP Nº2344 de 9 de octubre de 2012, en lo que respecta a la comuna según rol de avalúo singularizado de la siguiente forma, lotes N°s. 102 y 105, Propietario Trafinanco Neculpan Ida Fr, Roles 244-173 y 244-171, superficies 826 y 432 M2, comuna Panguipulli, para la obra: "Mejoramiento Rutas 203-201 CH Sector: Panguipulli - Coñaripe II". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
