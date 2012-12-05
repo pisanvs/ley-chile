@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.106, de 28 de noviembre de 2012, de esta Subsecretaría, declárase la caducidad de la resolución exenta Nº 129 de 2011, que autorizó a SOCIEDAD PESQUERA PESSUR LIMITADA, para ampliar actividades pesqueras extractivas con la nave "Pesur I", respecto del recurso hidrobiológico jibia en el área marítima comprendida entre los paralelos 33° LS y 40° LS, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 28 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
