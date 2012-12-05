@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.105, de 28 de noviembre de 2012, de esta Subsecretaría, declárase la caducidad parcial de la resolución exenta Nº 3.556, de 2010, sólo en cuanto autorizó a PESQUERA OMEGA LIMITADA para ampliar actividades pesqueras extractivas con la nave "Portugal II", respecto del recurso hidrobiológico Jibia, en las áreas marítimas comprendidas entre la XV a XII Regiones e Islas de Pascua, Salas y Gómez, Desventuradas y Archipiélago de Juan Fernández, en virtud de lo dispuesto en el artículo 143 letra b) de la Ley General de Pesca y Acuicultura y lo informado mediante memorándum citado en Visto de la resolución extractada.
+
+Valparaíso, 28 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
