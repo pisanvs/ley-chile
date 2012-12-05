@@ -28,7 +28,7 @@ b) Que las intervenciones a realizar en los condominios configuran situaciones d
 
 Resolución:
 
-1. Llámase a postulación extraordinaria, a las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, para el otorgamiento de subsidios de los Títulos I y II del Programa de Protección del Patrimonio Familiar, destinados a proyectos de Equipamiento Comunitario y Mejoramiento del Entorno, de Mejoramiento de Bienes Comunes Edificados y Obras de Innovación de Eficiencia Energética del Título II, incluidas aquellas que previa autorización de la Seremi respectiva, consideren acondicionamiento térmico y cuenten con Certificado de Calificación hasta el último día hábil de los meses de septiembre, octubre y noviembre de 2012. Se excluyen de este llamado los proyectos señalados en la letra b.1), b.2) y b.3), de la letra b) del artículo 5º del DS Nº 255 (V. y U.), de 2006.
+1. Llámase a postulación extraordinaria, a las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso, O'Higgins, Maule, Biobío, Araucanía, Los Ríos, Los Lagos y Metropolitana, para el otorgamiento de subsidios de los Títulos I y II del Programa de Protección del Patrimonio Familiar, destinados a proyectos de Equipamiento Comunitario y Mejoramiento del Entorno, de Mejoramiento de Bienes Comunes Edificados y Obras de Innovación de Eficiencia Energética y que cuenten con Certificado de Calificación hasta el último día hábil de los meses de septiembre, octubre, noviembre y hasta el día 20 diciembre de 2012. Se excluyen de este llamado los proyectos señalados en la letra b.1), b.2) y b.3), de la letra b) del artículo 5º del DS Nº 255 (V. y U.), de 2006.
 
 2. Exímese a los postulantes de este llamado de cumplir con los siguientes requisitos y condiciones del DS Nº 255 (V. y U.), de 2006.
 
@@ -88,7 +88,7 @@ Excepcionalmente, la Seremi podrá autorizar la postulación de proyectos corres
 
 ### 10. Podrán participar en el presente llamado especial:
 
-i. Los copropietarios y residente de las copropiedades seleccionadas por la Seremi, que cuenten con Ficha de Protección Social, sin considerar su puntaje y/o comuna de aplicación.
+i. Al Título II del DS Nº 255 de (V. y U.), de 2006, los copropietarios y residentes de las copropiedades seleccionadas por la Seremi, que cuenten con Ficha de Protección Social, sin considerar su puntaje y/o comuna de aplicación. A los postulantes al Título I, del DS Nº 255 (V. y U.), de 2006, no se les exigirá Ficha de Protección Social.
 
 ii. Residentes del condominio o postulantes que sean propietarios de más de una vivienda.
 
@@ -117,6 +117,8 @@ El ahorro enterado mediante libretas de ahorro colectivas o individuales, deber�
 16. Se podrá adicionar al subsidio base, un subsidio destinado a financiar obras de Eficiencia Energética desde un monto de 50 UF hasta 65 UF por beneficiario; este valor se determinará según la comuna a la cual pertenece el beneficiario, y de acuerdo a lo señalado en el DS Nº 255 (V. y U.), de 2006, deberá estar destinado a la implementación de Sistemas Solares Térmicos para el calentamiento de agua, correspondientes a aquellos proyectos señalados en el artículo 5°, Título II, letra b.5) del DS Nº 255 (V. y U.), de 2006.
 
 17. Los proyectos postulados a este llamado que correspondan al acondicionamiento térmico de las copropiedades seleccionadas, deberán cumplir lo indicado en el punto 4 de la resolución exenta Nº 3.239 (V. y U.), de 2011, respecto de las regiones en que podrá aplicarse y a los parámetros mínimos que deberá cumplir el acondicionamiento, respectivamente. Si cumplido lo anterior quedare un saldo de subsidio, se podrá utilizar en proyectos en bienes comunes edificados. En este caso se podrá postular simultáneamente a proyectos del Título I, siendo el monto máximo adicional de este subsidio hasta 30 UF.
+
+Sin perjuicio de lo anterior, las Regiones de Arica y Parinacota, Tarapacá, Antofagasta, Atacama, Valparaíso y Metropolitana podrán destinar un subsidio de 50 UF hasta 65 UF por beneficiario, a obras de Acondicionamiento Térmico; este valor se determinará según la comuna a la cual pertenece el beneficiario, de acuerdo a lo señalado en el DS Nº255 (V. y U.), de 2006.
 
 18. Las copropiedades seleccionadas contarán con el apoyo de un equipo profesional de la Seremi respectiva, que será responsable de coordinar la implementación del programa, el colaborar en el desarrollo de las siguientes labores:
 
