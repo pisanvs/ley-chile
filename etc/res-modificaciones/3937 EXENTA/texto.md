@@ -36,8 +36,6 @@ Resolución:
 
 > **Nota.** El numeral 2 letra b) de la Resolución 7972 Exenta, Vivienda, publicada el 09.10.2012, modifica la presente norma, en el sentido de reemplazar en la nómina de seleccionados de la Región de Atacama, el monto de subsidio asignado a la Sra. Glady Georgina Hurtado Traslaviña, de la comuna de Freirina, RUT 5.693.425-1, de 100 unidades de fomento por 150 unidades de fomento.
 
-> **Nota.** NOTA 1 El numeral 1 de la Resolución 3990 Exenta, Vivienda, publicada el 13.06.2013, modifica la presente norma, en el sentido de Incrementar y sustituir en el cuadro inserto en el resuelvo 3º, las filas que corresponden a la Región de la Araucanía y al total, por las que la citada norma indica.
-
 Anótese, publíquese en el Diario Oficial y archívese.- Rodrigo Pérez Mackenna, Ministro de Vivienda y Urbanismo.
 
 Lo que transcribo para su conocimiento.- Juan Carlos Jobet Eluchans, Subsecretario de Vivienda y Urbanismo.
