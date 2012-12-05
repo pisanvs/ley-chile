@@ -16,7 +16,7 @@ Considerando: Lo señalado en punto 4. de la circular Nº 2; además, la circula
 
 Resolución:
 
-1. Llámase a postulación nacional en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario y de Mejoramiento de la Vivienda, de conformidad con las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Certificado de Calificación hasta el 30 de noviembre de 2012.
+1. Llámase a postulación nacional en condiciones especiales para el otorgamiento de subsidios habitacionales del Programa de Protección del Patrimonio Familiar, para el desarrollo de proyectos de Mejoramiento del Entorno y Equipamiento Comunitario y de Mejoramiento de la Vivienda, de conformidad con las disposiciones del DS Nº 255 (V. y U.), de 2006, y sus modificaciones, para proyectos que cuenten con Certificado de Calificación hasta el 7 de diciembre de 2012.
 
 2. Exímese del cumplimiento de lo señalado en el inciso tercero del artículo 13, del DS Nº 255 (V. y U.), de 2006, referido a la publicación del llamado en el Diario Oficial con 30 días de anterioridad a la fecha del inicio del proceso de selección.
 
