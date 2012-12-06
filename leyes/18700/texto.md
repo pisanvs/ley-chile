@@ -1328,9 +1328,11 @@ Será castigado con presidio menor en su grado medio a presidio mayor en su grad
 
 #### Artículo 137
 
-El que solicitare votos por paga, dádiva o promesa de dinero u otra recompensa o cohechare en cualquier forma a un elector, sufrirá la pena de presidio menor en su grado mínimo a medio. Se presumirá que incurre en esta conducta el que acompañare a un elector hasta dentro del radio de veinte metros alrededor de una Mesa, salvo que se trate de discapacitados que hubieren optado por ser asistidos en el acto de votar, con excepción de los casos de delito flagrante.
+El que en cualquier elección popular, primaria o definitiva, solicitare votos por paga, dádiva o promesa de dinero u otra recompensa o cohechare en cualquier forma a un elector, sufrirá la pena de presidio menor en su grado medio, multa de 10 a 50 unidades tributarias mensuales y la inhabilitación absoluta y perpetua para el desempeño de cargos y oficios públicos.
 
-Igual pena sufrirá la persona que vendiere su voto o sufragare por dinero u otra dádiva. Se presumirá que ha incurrido en esta conducta el elector que, en el acto de sufragar, sea sorprendido empleando cualquier procedimiento o medio encaminado a dejar constancia de la preferencia que pueda señalar o haya señalado en la cédula.
+El que en cualquier elección popular, primaria o definitiva, vendiere su voto o sufragare por dinero u otra dádiva, sufrirá la pena de reclusión menor en su grado mínimo y multa de 1 a 3 unidades tributarias mensuales. Se presumirá que ha incurrido en esta conducta el elector que, en el acto de sufragar, sea sorprendido empleando cualquier procedimiento o medio encaminado a dejar constancia de la preferencia que pueda señalar o haya señalado en la cédula.
+
+En cualquier elección popular, primaria o definitiva, se presumirá, además, que incurre en alguna de estas conductas el que, después de entregada la cédula, acompañare a un elector hasta la mesa, salvo que se trate de discapacitados que hubieren optado por ser asistidos en el acto de votar, con excepción de los casos de delito flagrante.
 
 #### Artículo 138
 
