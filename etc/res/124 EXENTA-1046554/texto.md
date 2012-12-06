@@ -1,0 +1,5 @@
+AUTORIZA A LAS INSTITUCIONES SIN FINES DE LUCRO, COMO RECEPTORAS DE ALIMENTOS CUYA COMERCIALIZACIÓN SEA INVIABLE
+
+Extracto de resolución Ex. del Servicio de Impuestos Internos Nº 124, del 30 de noviembre de 2012 que autoriza a las Instituciones sin fines de lucro, Congregación de las Hermanitas de los Ancianos Desamparados, Rol Único Tributario Nº 70.283.104-0; ONG Corporación Evangélica para el Desarrollo, Rol Único Tributario Nº 65.731.820-5; Iglesia de Cristo Iberoamericana, Rol Único Tributario Nº 72.417.700-K; Fundación Madres Adolescentes Raíz, Flor y Fruto, Rol Único Tributario Nº 65.047.196-2; Fundación Tacal, Rol Único Tributario Nº 72.250.700-2; y Fundación de Desarrollo Juvenil Proyecto Joven, Rol Único Tributario Nº 65.058.379-5; Fundación Paréntesis, Rol Único Tributario Nº 72.421.000-7, como receptora en forma gratuita de alimentos, cuya comercialización sea inviable.
+
+El texto íntegro de esta resolución está publicado en el sitio web del Servicio de Impuestos Internos (www.sii.cl) y, además, aparecerá en el Boletín del SII en noviembre de 2012.
