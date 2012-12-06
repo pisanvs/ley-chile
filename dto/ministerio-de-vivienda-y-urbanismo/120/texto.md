@@ -50,7 +50,7 @@ El contrato de arrendamiento con promesa de compraventa deberá contener, a lo m
 
 6.- Gastos, derechos, impuestos y primas de seguro de cargo del arrendatario promitente comprador.
 
-7.- Facultad para solicitar al actual empleador y a los futuros empleadores el descuento por planilla, en su caso.
+7.- Facultad para solicitar al actual empleador y a los futuros empleadores el descuento por planilla, en su caso, si el arrendatario promitente comprador lo consiente.
 
 8.- Plazo y/o condición para la celebración del contrato de compraventa prometido.
 
@@ -81,6 +81,8 @@ En ningún caso la sociedad inmobiliaria podrá realizar o exigir otros cobros a
 21.- Si se pactare que gastos de mantención, seguros, derechos e impuestos serán pagados por el arrendador promitente vendedor por cuenta del arrendatario promitente comprador y restituidos por éste a aquél en cuotas, su cobro se efectuará en unidades de fomento con un interés que no podrá exceder el interés corriente para operaciones reajustables vigente a la fecha del pago de cada cuota.
 
 22.- Cláusulas penales que se pacten de acuerdo con el inciso segundo del artículo 38 de la ley N° 19.281.
+
+23.- Tratándose de operaciones con subsidio habitacional, respecto de los seguros a contratar deberá estarse a lo dispuesto en el inciso final del artículo 17 de este reglamento.
 
 #### Artículo 6°
 
@@ -162,6 +164,24 @@ En caso de cesión del contrato por parte del arrendatario promitente comprador 
 
 Las partes podrán convenir la contratación de seguros adicionales para cubrir riesgos tales como terremotos, inundaciones y otros daños de la naturaleza o actos terroristas.
 
+Los contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, deberán contar, por todo el plazo del contrato, con los siguientes seguros, que serán de cargo del arrendatario promitente comprador:
+
+a) Seguro de desempleo o de incapacidad temporal.
+
+Se deberá contratar un seguro de desempleo para trabajadores dependientes o de incapacidad temporal para trabajadores independientes, que deberá cubrir como mínimo el pago de seis meses del aporte mensual, pudiendo aplicarse nuevamente la cobertura si el asegurado vuelve a caer en situación de cesantía involuntaria o de incapacidad temporal, en su caso, siempre que se haya mantenido en el nuevo empleo, si corresponde, por un período de seis meses desde el término de la cesantía involuntaria o incapacidad temporal ya indemnizada. Para pensionados este seguro no será exigible, sin perjuicio que el interesado pueda optar por contratarlo.
+
+Por los primeros cuarenta y ocho aportes mensuales, el arrendatario promitente comprador obtendrá un subsidio adicional para contribuir al financiamiento del costo de la prima, que se aplicará al pago de ésta. Este subsidio será de un monto equivalente al de la prima respectiva, con un tope igual al resultante de aplicar el factor 0,60 por mil al monto del contrato de arrendamiento con promesa de compraventa. Mediante resoluciones del Ministro de Vivienda y Urbanismo se fijará la operatoria y el procedimiento de pago a la sociedad inmobiliaria respectiva.
+
+El arrendatario promitente comprador, otorgará mandato a la sociedad inmobiliaria para la contratación del seguro, lo que quedará estipulado en el respectivo contrato de arrendamiento con promesa de compraventa.
+
+b) Además del seguro de desgravamen exigido en el inciso primero de este artículo, que en el caso de contratos de arrendamiento con promesa de compraventa en que se hubiere aplicado subsidio habitacional se hará efectivo aun cuando el asegurado se hubiere encontrado en mora a la fecha del fallecimiento, siempre que no hubiere tenido más de 3 cuotas impagas, el arrendatario promitente comprador deberá contratar un seguro de invalidez que cubra la Invalidez Permanente Total o Parcial de a lo menos 2/3 de su capacidad, derivada de enfermedad o accidente. Este seguro se hará efectivo aun cuando el arrendatario promitente comprador se hubiere encontrado en mora a la fecha de la declaración de invalidez, siempre que a esa fecha no hubiere tenido más de 3 cuotas impagas.
+
+Si el arrendatario promitente comprador fuere mayor de 65 años y/o no pudiere contratar seguro de desgravamen, para dar curso al contrato de arrendamiento con promesa de compraventa deberá exigírsele la concurrencia de un aval u otra caución complementaria suficiente, a juicio exclusivo de la sociedad inmobiliaria.
+
+c) Adicionalmente al seguro de incendio exigido en el inciso primero de este artículo, se deberá contratar un seguro de sismo o, en su defecto, un seguro de incendio que incluya el riesgo de sismo, que cubra los daños ocasionados por estos siniestros. Si a consecuencia del siniestro la vivienda resulta inhabitable o con pérdida total, el o los seguros deberán cubrir el mayor valor entre la tasación de la vivienda y su valor comercial. Tratándose de viviendas, se descontará el precio del terreno. En todo caso, el o los seguros a contratar no podrán considerar condiciones más desfavorables que las que se determinen como obligatorias por la Superintendencia respectiva.
+
+Tratándose de viviendas en condominios tipo A) acogidas a la Ley N° 19.537, Sobre Copropiedad Inmobiliaria, se estará al 100% del valor comercial de la vivienda afectada.
+
 #### Artículo 18
 
 La sociedad inmobiliaria deberá ofrecer al arrendatario promitente comprador una alternativa de seguro de desempleo o de pérdida de su fuente de ingreso, que cubra el riesgo del no pago del aporte convenido y podrá contratarlo a petición del arrendatario promitente comprador, por cuenta y cargo de éste.
@@ -212,127 +232,45 @@ Este subsidio habitacional no podrá aplicarse al arrendamiento con promesa de c
 
 #### Artículo 23
 
-El monto del subsidio en valor actual neto, que podrá solicitar el postulante, corresponderá al señalado en las tablas siguientes para el respectivo tramo de valor de vivienda, expresados ambos en Unidades de Fomento, atendiendo a la región de emplazamiento de la vivienda, o a si está ubicada en Zona de Interés Territorial o en Zona de Conservación Histórica o en un Inmueble de Conservación Histórica:
+Los montos máximos de subsidio en valor actual neto que podrá solicitar el postulante, expresados en unidades de fomento, serán los siguientes:
 
-A. Todas las regiones, provincias y comunas del país, excepto las señaladas en las letras B y C:
+a) Todas las regiones, provincias y comunas del país, excepto las señaladas en las letras b) y c):
 
-Precio de la Vivienda (UF) Subsidio (UF)
+En ningún caso este subsidio podrá exceder del equivalente a 300 unidades de fomento.
 
-Hasta 1.000 275-P x 0,175
+b) Provincia de Chiloé:
 
-En ningún caso este subsidio podrá exceder del equivalente a 205 Unidades de Fomento.
+En ningún caso este subsidio podrá exceder del equivalente a 350 unidades de fomento.
 
-B. Regiones XI, XII y Provincias de Palena y Chiloé:
+c) Regiones de Aysén del General Carlos Ibáñez del Campo, de Magallanes y Antártica Chilena; provincia de Palena; comunas de Isla de Pascua y Juan Fernández:
 
-Precio de la Vivienda (UF) Subsidio (UF)
-
-Hasta 1.200 382-P x 0,16
-
-En ningún caso este subsidio podrá exceder del equivalente a 320 Unidades de Fomento.
-
-C. Comunas de Isla de Pascua y de Juan Fernández:
-
-Precio de la Vivienda (UF) Subsidio (UF)
-
-Hasta 1.200 530-P x 0,2
-
-En ningún caso este subsidio podrá exceder del equivalente a 400 Unidades de Fomento.
+En ningún caso este subsidio podrá exceder del equivalente a 400 unidades de fomento.
 
 En donde:
 
-P corresponde al precio de la vivienda determinado en la forma señalada en el inciso tercero de este artículo.
+"P" corresponde al precio de la vivienda determinado conforme al inciso segundo de este artículo.
 
-D. Subsidio de Interés Territorial:
+d) En caso que el subsidio habitacional se aplique a viviendas emplazadas en zonas de renovación urbana o en zonas de desarrollo prioritario, que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo, estas viviendas deberán ser nuevas, y los beneficiarios obtendrán un subsidio que se determinará de acuerdo a lo dispuesto en las letras a), b) o c) precedentes, cuyo monto, en ningún caso, podrá ser inferior a 200 unidades de fomento ni superior a 300 unidades de fomento, si se determina conforme a la letra a); o a 350 unidades de fomento si se determina de acuerdo a la letra b); o a 400 unidades de fomento, si se determina de acuerdo a la letra c), ya referidas.
 
-Tramo de valor de la vivienda Monto del subsidio
+e) Tratándose de una vivienda económica que se origine de la rehabilitación de un inmueble ubicado en áreas declaradas como Zonas de Conservación Histórica o Zonas Típicas o Pintorescas o se trate de Inmuebles de Conservación Histórica o Monumento Histórico, los beneficiarios podrán obtener un subsidio de hasta 300 unidades de fomento, dando cumplimiento a lo establecido en las respectivas normas vigentes, a la Ley N° 17.288 sobre Monumentos Nacionales y a la Ley General de Urbanismo y Construcciones y su Ordenanza. El inmueble deberá corresponder a una construcción anterior al 18 de julio de 1959, fecha de la publicación en el Diario Oficial del DFL N° 2, de 1959, y de su rehabilitación deberán generarse dos o más viviendas.
 
-Hasta 2.000 200
+El subsidio habitacional sólo podrá aplicarse a la primera transferencia de la vivienda, que se realice luego de la rehabilitación del inmueble.
 
-E. Subsidio de Rehabilitación Patrimonial:
+f) En caso que el beneficiario o uno o más integrantes del núcleo familiar declarado por éste estuvieren inscritos en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las letras a), b), c), d) y e) precedentes, se adicionarán hasta 20 unidades de fomento, siempre que al momento del pago se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el núcleo familiar del postulante.
 
-Tramo de valor de la vivienda Monto del subsidio
+g) Si el beneficiario aplica el subsidio a una vivienda que forme parte de un Proyecto de Integración Social, calificado como tal por el Serviu respectivo, obtendrá un subsidio adicional al determinado en las letras a),
 
-Hasta 2.000 250
+- **b)** y
 
-Con todo, los montos máximos de subsidio indicados en las tablas insertas en las letras A, B, C, D y E del inciso anterior, podrán ser modificados por resoluciones fundadas del Ministro de Vivienda y Urbanismo, cuando existan razones calificadas que así lo justifiquen, resoluciones que deberán ser visadas por la Dirección de Presupuestos del Ministerio de Hacienda.
+- **c)** de este artículo, cuyo monto se determinará conforme a lo siguiente, no siendo aplicable cuando se trate de los subsidios a que se refieren las letras
 
-Para los efectos de la determinación del valor de la vivienda se estará al precio estipulado en el respectivo contrato de arrendamiento con promesa de compraventa, expresado en Unidades de Fomento.
+- **d)** y
 
-Tratándose de viviendas acogidas a la Ley Nº 19.537, sobre Copropiedad Inmobiliaria, en el precio de la vivienda podrá también estar incluido el de los estacionamientos y/o bodegas.
+- **e)** del mismo:
 
-El Subsidio Habitacional de Interés Territorial a que se refiere la letra D., sólo podrá aplicarse a contratos de arrendamiento con promesa de compraventa que consideren viviendas económicas nuevas, emplazadas en Zonas de Renovación Urbana o en Zonas de Desarrollo Prioritario que se determinen para estos efectos mediante resoluciones del Ministro de Vivienda y Urbanismo.
+Para los efectos de la determinación del valor de la vivienda se estará al precio estipulado en el respectivo contrato de arrendamiento con promesa de compraventa, expresado en unidades de fomento.
 
-El Subsidio Habitacional de Rehabilitación Patrimonial a que se refiere la letra E., sólo podrá aplicarse a contratos de arrendamiento con promesa de compraventa de una vivienda económica que se origine por la rehabilitación de un inmueble ubicado en una Zona de Conservación Histórica o en un Inmueble de Conservación Histórica, definidos en el respectivo Instrumento de Planificación Territorial, que además cumpla con los siguientes requisitos:
-
-a. Que el inmueble objeto de la rehabilitación corresponda a una construcción anterior al 31 de julio de 1959, fecha de la publicación en el Diario Oficial del D.F.L. N° 2, de 1959.
-
-b. Que de la rehabilitación se generen dos o más viviendas económicas, la que deberá contar con autorización de la Secretaría Regional Ministerial de Vivienda y Urbanismo, de acuerdo al inciso segundo del artículo 60 de la Ley General de Urbanismo y Construcciones.
-
-c. El subsidio habitacional sólo podrá aplicarse a la primera transferencia que se efectúe de la vivienda, luego de originarse la rehabilitación del inmueble.
-
-En caso que el beneficiario o uno o más integrantes del grupo familiar acreditado por éste estuviere inscrito en el Registro Nacional de la Discapacidad, a los montos de subsidio indicados en las tablas precedentes o al determinado conforme al inciso segundo de este artículo, se adicionarán hasta 20 Unidades de Fomento, siempre que se acredite que dicho monto ha sido destinado a financiar la implementación de obras en la vivienda, que contribuyan a superar las limitaciones que afectan a quienes presentan tal condición de discapacidad en el grupo familiar del postulante, lo que deberá ser aprobado por el SERVIU previo a la suscripción del respectivo contrato de arrendamiento con promesa de compraventa.
-
-Al monto de subsidio determinado en la forma establecida en las tablas A, B y C de este artículo, podrá adicionarse un bono denominado Bono de Integración Social, por un monto máximo equivalente a 100 Unidades de Fomento, cuando el subsidio habitacional se aplique a un contrato de arrendamiento con promesa de compraventa de una vivienda, en primera transferencia, correspondiente a un Proyecto Habitacional de Integración Social, definido en la letra g. del artículo 1 del D.S. Nº 40 (V. y U.), de 2004, calificado como tal por el SERVIU respectivo.
-
-En el caso que el subsidio habitacional se aplique en Proyectos Habitacionales de Integración Social, el precio de la vivienda podrá exceder de los montos máximos fijados en las tablas contenidas en las letras A, B y C de este artículo, hasta un monto máximo de 2.000 Unidades de Fomento. Para estos efectos, los montos máximos de subsidio se señalan en las siguientes tablas:
-
-1. Todas las regiones, provincias y comunas del país, excepto las señaladas en los números 2 y 3:
-
-Bono
-
-Tramo precio
-
-de vivienda Monto de subsidio Integración
-
-(UF) (UF) Social (UF)
-
-Hasta 1.000 275-P x 0,175
-
-100
-
-Más de 1.000 y hasta 2.000 100
-
-En ningún caso este subsidio podrá exceder del equivalente a 270 Unidades de Fomento.
-
-2. Regiones XI, XII y Provincias de Palena y Chiloé:
-
-Bono
-
-Tramo precio
-
-de vivienda Monto de subsidio Integración
-
-(UF) (UF) Social (UF)
-
-Hasta 1.200 382-P x 0,16
-
-100
-
-Más de 1.200 y hasta 2.000 190
-
-En ningún caso este subsidio podrá exceder del equivalente a 350 Unidades de Fomento.
-
-3. Comunas de Isla de Pascua y de Juan Fernández:
-
-Bono
-
-Tramo precio
-
-de vivienda Monto de subsidio Integración
-
-(UF) (UF) Social (UF)
-
-Hasta 1.200 530-P x 0,2
-
-100
-
-Más de 1.200 y hasta 2.000 290
-
-En ningún caso este subsidio podrá exceder del equivalente a 410 Unidades de Fomento.
-
-Los SERVIU mantendrán disponibles, para consulta de los interesados, nóminas de Proyectos Habitacionales de Integración Social calificados para la respectiva Región, en los que se podrá acceder a este Bono de Integración Social. Dichos Proyectos se identificarán por el número de su permiso de edificación, año y comuna de su otorgamiento, y demás antecedentes que a juicio del SERVIU respectivo contribuyan a su mejor singularización.
-
-No será aplicable el Bono de Integración Social, cuando se trate del Subsidio Habitacional de Interés Territorial o del Subsidio Habitacional de Rehabilitación Patrimonial, a que se refieren las Tablas D. y E. de este artículo.
+Tratándose de viviendas acogidas a la Ley N° 19.537, Sobre Copropiedad Inmobiliaria, en el precio de la compraventa prometida podrá también estar incluido el de los estacionamientos y/o bodegas.
 
 #### Artículo 24
 
@@ -354,7 +292,7 @@ b) Las que hubieren celebrado más de un contrato de arrendamiento con promesa d
 
 c) Las que hubieren obtenido del SERVIU o de sus antecesores legales, o de las Municipalidades, una vivienda o una infraestructura sanitaria definida en el decreto supremo mencionado en la letra a ) anterior, o a través de los mecanismos del Impuesto Habitacional, o un Subsidio Habitacional o una Subvención Municipal, a través de cualesquiera de los sistemas que regulan o hayan regulado dichos beneficios, o con financiamiento proveniente de un préstamo habitacional obtenido del SERVIU o de sus antecesores legales, sea directamente o a través de cooperativas de vivienda, y lo hubieren aplicado a la adquisición o construcción de una vivienda o infraestructura sanitaria, o lo hubiere obtenido y aplicado su cónyuge, aunque la hubieren transferido posteriormente.
 
-No regirán las prohibiciones establecidas en el inciso anterior en los casos señalados en las letras a, b, c, d, e, f, g y h del número 5 del artículo 14 del D.S. N°40 (V. y U.), de 2004, aplicándose al respecto las condiciones señaladas en las letras indicadas, según corresponda.
+No regirán las prohibiciones establecidas en el inciso anterior en los casos señalados en las letras a), b), c), d), e), f), i) y j), del artículo 18 del DS N° 1, (V. y U.), de 2011, aplicándose al respecto las condiciones señaladas en las letras indicadas, según corresponda.
 
 d) Las que tengan un certificado de subsidio vigente extendido a su favor o si lo tuviere su cónyuge, como asimismo las que estuvieran incluidas en nóminas de postulantes seleccionados en cualesquiera de los sistemas habitacionales del Sector Vivienda y Urbanismo o cuando lo estuviere su cónyuge.
 
@@ -410,25 +348,21 @@ El pago de las cuotas del subsidio, se efectuará a sus tenedores sin presentaci
 
 #### Artículo 28 bis
 
-El Ministerio de Vivienda y Urbanismo podrá celebrar convenios con sociedades inmobiliarias a que se refiere el Título II de la ley 19.281, que serán visados por la Dirección de Presupuestos del Ministerio de Hacienda, los que serán sancionados por decreto supremo, en los que se establezca que para las operaciones de contratos de arrendamiento con promesa de compraventa de viviendas , en que haya aplicación de subsidio habitacional para viviendas de un precio no superior a 600 Unidades de Fomento, según el contrato referido, en las condiciones que señala el presente reglamento, el Ministerio de Vivienda y Urbanismo otorgará al beneficiario un subsidio adicional destinado a solventar los costos de originación del contrato de arrendamiento con promesa de compraventa denominado "Subsidio a la Originación", que será pagado directamente a la sociedad inmobiliaria que suscribió el contrato en un solo pago en un plazo que no podrá exceder al del pago de la primera cuota, cuyo monto se determinará de la siguiente forma, calculándose y expresándose los valores resultantes con tres decimales:
+Para operaciones de contratos de arrendamiento con promesa de compraventa de viviendas con subsidio habitacional, en que el contrato no exceda de 500 unidades de fomento, el Ministerio de Vivienda y Urbanismo otorgará al beneficiario un subsidio adicional destinado a solventar los costos de originación y administración del contrato de arrendamiento con promesa de compraventa, denominado "Subsidio a la Originación", que será pagado a la sociedad inmobiliaria que suscribió el contrato, cuyo monto se determinará de acuerdo a la siguiente fórmula, expresándose los valores resultantes con dos decimales:
 
-a.1. Para viviendas de más de 300 Unidades de Fomento:
+a) Para créditos hasta 100 UF
 
-3
+SO = 12 UF
 
-SOCA = 24 - --- * VV
+b) Para créditos de más de 100 y hasta 500 UF
 
-100
+SO = 13,5 - 0,015 * CA
 
-a.2. Para viviendas de hasta 300 Unidades de Fomento:
+En donde:
 
-SOCA = 15 En donde:
+SO Subsidio a la Originación
 
-SOCA Subsidio a la Originación para contratos de arrendamiento con promesa de compraventa, en Unidades de Fomento.
-
-VV Valor de la Vivienda según contrato de arrendamiento con promesa de compraventa, en Unidades de Fomento.
-
-El subsidio a la originación no se pagará nuevamente en el caso de cesión del contrato de arrendamiento con promesa de compraventa.
+CA Contrato de arrendamiento con promesa de compraventa.
 
 #### Artículo 29
 
@@ -490,13 +424,15 @@ Si el contrato de arrendamiento con promesa de compraventa fuere declarado resue
 
 #### Artículo 38
 
-En los contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, en que el precio de la compraventa prometida no exceda de 1O00 Unidades de Fomento, el arrendador promitente vendedor podrá solicitar al árbitro que conoce del juicio de terminación del contrato por no pago de los aportes a que se refiere el artículo 37 de la Ley Nº 19.281, que ordene la venta de la vivienda en pública subasta. Dicha resolución deberá notificarse al SERVIU respectivo con una anticipación mínima de 30 días a la fecha del remate.
+En los contratos de arrendamiento con promesa de compraventa con aplicación del subsidio habitacional, en que el precio de la compraventa prometida no exceda de 2O00 Unidades de Fomento, el arrendador promitente vendedor podrá solicitar al árbitro que conoce del juicio de terminación del contrato por no pago de los aportes a que se refiere el artículo 37 de la Ley Nº 19.281, que ordene la venta de la vivienda en pública subasta. Dicha resolución deberá notificarse al SERVIU respectivo con una anticipación mínima de 30 días a la fecha del remate.
 
 Con el producto del remate, al cual deben adicionarse los fondos que el arrendatario promitente comprador tenga depositados en la cuenta de ahorro o haya abonado al arrendador promitente vendedor conforme a lo dispuesto en el artículo 7º de la Ley 19.281, así como todo otro aporte o abono efectuado, destinado al pago de la renta de arrendamiento y al pago del precio de la compraventa prometida, debidamente estipulado en el respectivo contrato, sin deducción de monto alguno por concepto de otros pagos que correspondan con cargo a dichos fondos, el árbitro ordenará que se pague al arrendador promitente vendedor el precio de la compraventa prometida, más las rentas de arrendamiento devengadas y no pagadas y las costas del juicio.
 
-Si resultare un saldo en contra, el SERVIU respectivo enterará al arrendador promitente vendedor hasta el 75% de ese saldo insoluto, con un límite máximo de 200 Unidades de Fomento por operación.
+Si el producto del remate no alcanzare a cubrir el saldo de la deuda, incluidas las rentas de arrendamiento devengadas y no pagadas y las costas del juicio, el Serviu enterará al arrendador promitente vendedor el saldo insoluto de la deuda, en los porcentajes que se indican, según sea dicho precio, con un tope de 200 unidades de fomento:
 
-En convenios que el Ministerio de Vivienda y Urbanismo suscriba con sociedades inmobiliarias, los que deberán contar con el visto bueno de la Dirección de Presupuestos del Ministerio de Hacienda y ser sancionados por decreto supremo, se podrán establecer condiciones diferentes inferiores o superiores a las señaladas en los incisos primero y tercero de este artículo.
+En donde: P corresponde al precio de la vivienda determinado en la forma señalada en el inciso segundo del artículo 23 de este reglamento.
+
+INCISO ELIMINADO.
 
 Si quedare un saldo a favor, se dará cumplimiento a lo dispuesto en el artículo 37 de este Reglamento y, si restaren recursos, a otras obligaciones que procedan conforme a la ley, tales como cláusulas penales pactadas. El remanente, si lo hubiere, cederá en beneficio del arrendatario promitente comprador.
 
