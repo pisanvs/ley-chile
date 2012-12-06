@@ -44,7 +44,7 @@ Definiciones
 
 #### Artículo 1º
 
-La presente norma técnica regula las características y obligaciones que deberán cumplir los equipos terminales de telefonía móvil que sean compatibles con el Sistema de Alerta de Emergencias y quienes los comercialicen en el país.
+La presente norma técnica regula las características y obligaciones que deberán cumplir los equipos terminales de telefonía móvil y demás equipos móviles que se indican que sean compatibles con el Sistema de Alerta de Emergencias y quienes los comercialicen en el país.
 
 #### Artículo 2º
 
@@ -84,7 +84,7 @@ Tabla 2: Asignación de los canales a cada identificador de mensajes de alerta e
 
 (2): Canales reservados para su futura habilitación y el uso señalado en la presente norma, en la oportunidad en que la Subsecretaría establezca mediante resolución.
 
-Los canales antes indicados serán de uso exclusivo para los fines descritos en la presente norma.
+Los canales antes indicados serán de uso exclusivo para los fines descritos en la presente norma, y no podrán ser bloqueados por ningún motivo.
 
 La Subsecretaría, mediante resolución, podrá asignar otros canales distintos de los establecidos en la Tabla 2 anterior, dentro del mismo rango 0 al 999, a las necesidades que requiera el SAE, considerando la evolución tecnológica de los equipos terminales de telefonía móvil existentes en el país y los cambios en las normativas internacionales.
 
@@ -140,6 +140,62 @@ De las infracciones a la Norma Técnica
 
 Las infracciones a las disposiciones de la presente Norma Técnica, serán sancionadas de acuerdo a lo dispuesto en el Título VII de la Ley.
 
+## Título VI
+
+Otros dispositivos móviles.
+
+#### Artículo 9º
+
+Las disposiciones de la presente norma técnica serán también aplicables a los siguientes equipos móviles, con las particularidades que se señalan a continuación:
+
+a) Para los equipos móviles del tipo "Dongle", "USB
+
+Stick" o "BAM", que provean el servicio de
+
+transmisión de datos o internet sobre la red de
+
+telefonía móvil, para que puedan ser
+
+comercializados y considerados como compatibles
+
+con el SAE, deberán, al momento de recepcionar
+
+un mensaje de este sistema, generar una señal
+
+audible, conforme a lo señalado en la letra b)
+
+del artículo 5º de la presente norma, y
+
+simultáneamente desplegar al centro de la
+
+pantalla del computador, una ventana emergente
+
+de color rojo y letras blancas, tipo pop-up, con
+
+el mensaje de alerta, el cual deberá destellar
+
+de manera consecutiva hasta que el usuario
+
+accione la tecla de la computadora "Escape",
+
+"Intro" o "Enter", según corresponda o un botón
+
+de aceptación en la ventana emergente.
+
+b) Para aquellos equipos móviles del tipo "Tablet"
+
+que incluyan la funcionalidad de servicio
+
+telefónico móvil y que permita interconectarse a
+
+la red móvil, deberán cumplir con las letras a),
+
+b) y d) del artículo 5º de la presente norma
+
+para ser comercializados y considerados aptos
+
+para la recepción de mensajes SAE.
+
 DISPOSICIONES TRANSITORIAS
 
 Primera. La presente resolución comenzará a regir a partir de la fecha de su publicación.
@@ -150,13 +206,15 @@ Tercera. Quienes comercialicen los equipos terminales de telefonía móvil aptos
 
 Cuarta. Sin perjuicio de lo señalado en la disposición transitoria anterior, dispondrán de un plazo máximo de tres (3) meses contados desde la publicación de la presente norma, para publicar en sus respectivas páginas web y en los nuevos catálogos, los equipos terminales de telefonía móvil aptos para el SAE que se comercialicen a partir de la entrada en vigencia de la presente norma.
 
-Quinta. Los equipos terminales de telefonía móvil existentes en stock o comercializados a la fecha de publicación de la presente norma, y hasta un año después de su entrada en vigencia, se considerarán aptos para el SAE siempre que cumplan con cada uno de los siguientes requisitos básicos de compatibilidad:
+Quinta. Se podrán comercializar como aptos para el SAE los equipos terminales de telefonía móvil existentes en stock o comercializados a la fecha de publicación de la presente norma, y hasta el 31 de diciembre de 2013, siempre que cumplan con cada uno de los siguientes requisitos básicos de compatibilidad:
 
 a) Despliegue automático de la notificación del mensaje de alerta, soportando un largo máximo de hasta 90 caracteres.
 
 b) Notificación sonora.
 
 c) Notificación de vibración.
+
+En el caso de los equipos terminales que se consideren aptos para el SAE conforme a la presente disposición, y que deban ser configurados manualmente, será de responsabilidad del usuario efectuar y mantener la correcta configuración del equipo terminal y activación de los canales indicados en la Nota (1) de la Tabla 2, del artículo 3º de la presente norma, de acuerdo a las instrucciones dadas por el fabricante, información que quienes los comercialicen deberán poner y mantener a disposición del público de acuerdo a lo dispuesto en la disposición transitoria séptima de la presente resolución mientras dichos equipos permanezcan activados en su red.
 
 Sexta. Todos los equipos terminales de telefonía móvil, que se empiecen a comercializar en el país a partir del 1 de enero de 2014, y que fueren aptos para el SAE, deberán cumplir con la totalidad de los requisitos establecidos en el artículo 5º de la misma.
 
