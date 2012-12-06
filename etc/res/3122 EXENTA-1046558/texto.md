@@ -1,0 +1,3 @@
+Por resolución exenta Nº 3.122, de 28 de noviembre de 2012, de esta Subsecretaría, recházanse las solicitudes números 210122005, 211105026, 211103053, 211103079, 210103227 y 207101120, señaladas en la resolución extractada, y publicada íntegramente en www.subpesca.cl, en virtud de los artículos 78 de la Ley General de Pesca y Acuicultura, 11 y 13 del DS Nº 320, de 2001, de este Ministerio.
+
+Valparaíso, 28 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
