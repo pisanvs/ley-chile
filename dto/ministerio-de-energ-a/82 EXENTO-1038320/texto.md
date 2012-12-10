@@ -526,11 +526,11 @@ El V.I. referencial del Proyecto es de 6,150 millones de dólares, moneda de los
 
 El COMA referencial se establece en 127 mil dólares (2,07% del V.I. referencial), moneda de los Estados Unidos de América.
 
-2.3 Nueva Línea 2x220 kV Crucero – Lagunas, primer circuito.
+2.3 Nueva Línea 2x220 kV Encuentro – Lagunas, primer circuito.
 
 2.3.1 Descripción General y Ubicación de la Obra.
 
-Este proyecto consiste en la construcción de una nueva línea de transmisión de 174 km entre las barras de 220 kV de las Subestaciones Crucero y Lagunas, con tendido inicial de un circuito de capacidad 290 MVA a 35°C con sol.
+Este proyecto consiste en la construcción de una nueva línea de transmisión de 174 km entre las barras de 220 kV de las Subestaciones Encuentro y Lagunas, con tendido inicial de un circuito de capacidad 290 MVA a 35°C con sol.
 
 Las respectivas bases de licitación podrán detallar y definir los requisitos mínimos con los cuales deberá cumplir el proyecto, y que no se han indicado en el presente decreto, tales como capacidad térmica, reactores de línea, cable de guardia y enlace con las subestaciones existentes, entre otras.
 
@@ -811,6 +811,10 @@ Todos los costos derivados de compra de terrenos, expropiaciones y otros similar
 Las Bases deberán establecer que la responsabilidad directa por el cumplimiento de la normativa ambiental aplicable a los proyectos es de los proponentes que resulten adjudicados y que, en consecuencia, éstos deben contemplar el cumplimiento de estos aspectos al formular los plazos de ejecución de los proyectos.
 
 Asimismo, todos los costos derivados del cumplimiento de la normativa ambiental, aplicable a los proyectos, son de cargo de los adjudicatarios y deberán internalizarlos en sus ofertas económicas.
+
+> **Nota.** El numeral 1 del artículo Primero del Decreto 487 Exento, Energía, publicado el 10.12.2012, modifica la Tabla inserta en el numeral 2 del Artículo Segundo de la presente norma, en el sentido de reemplazar el Nº 3 por el siguiente: Nueva Línea 2x220 3 Inmediata 42 meses kV Encuentro - 38.700 800 Lagunas primer circuito
+
+> **Nota.** NOTA 1 El artículo Segundo del Decreto 487 Exento, Energía, publicado el 10.12.2012, modifica la Tabla inserta en el numeral 3 del artículo segundo de la presente norma, en el sentido de reemplazar en el Nº 3 del SING, la palabra "Crucero" por la palabra "Encuentro".
 
 Anótese, publíquese y archívese.- Por orden del Presidente de la República, Rodrigo Álvarez Zenteno, Ministro de Energía.
 
