@@ -18,9 +18,7 @@ El Sistema tendrá por objeto, asimismo, propender a asegurar la equidad, entend
 
 Se entenderá por educación el proceso de aprendizaje permanente que abarca las distintas etapas de la vida de las personas y que tiene como finalidad alcanzar su desarrollo espiritual, ético, moral, afectivo, intelectual, artístico y físico, mediante la transmisión y el cultivo de valores, conocimientos y destrezas.
 
-La educación se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de la identidad nacional y local, capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país y se manifiesta por medio de la enseñanza formal o regular, de la enseñanza no formal y de la educación informal.
-
-Una educación de calidad siempre comprenderá los principios educativos de carácter integral.
+La educación se enmarca en el respeto y valoración de los derechos humanos y de las libertades fundamentales, de la diversidad multicultural y de la paz, y de la identidad nacional, capacitando a las personas para conducir su vida en forma plena, para convivir y participar en forma responsable, tolerante, solidaria, democrática y activa en la comunidad, y para trabajar y contribuir al desarrollo del país y se manifiesta por medio de la enseñanza formal o regular, de la enseñanza no formal y de la educación informal.
 
 #### Artículo 2º
 
@@ -182,31 +180,7 @@ n) Asesorar técnicamente al Ministerio de Educación y a otros organismos en ma
 
 o) Cobrar y percibir derechos por la evaluación y orientación que le soliciten los establecimientos particulares pagados y por las demás certificaciones que establezca la ley en el ámbito de sus atribuciones.
 
-p) Diseñar, implementar y aplicar un Sistema de Monitoreo de la Convivencia Educativa en los establecimientos educacionales, con el objetivo de orientar la mejora continua del sistema educativo en sus distintas dimensiones.
-
-q) Ejercer las demás atribuciones que determine la ley.
-
-#### Artículo 11 bis
-
-El Sistema de Monitoreo de la Convivencia Educativa, señalado en el literal p) del artículo precedente, estará compuesto por un subsistema enfocado en la dimensión de la gestión de la convivencia en los establecimientos educacionales, y por otro subsistema centrado en la dimensión de la toma de decisiones para el diseño, ejecución, evaluación y actualización de las políticas públicas.
-
-Para el cumplimiento de los objetivos del Sistema de Monitoreo de la Convivencia Educativa, la Agencia tendrá las siguientes atribuciones específicas:
-
-a) Elaborar y actualizar anualmente un sistema de información integrado para el correcto monitoreo de la gestión educativa y de las políticas públicas relacionadas, habida consideración de los criterios y requerimientos de la Subsecretaría de Educación y la Subsecretaría de Educación Parvularia.
-
-b) Requerir información a cualquier órgano de la Administración del Estado sobre los programas y proyectos a su cargo, cuando éstos se vinculen con alguna de las dimensiones establecidas en la Política Nacional de Convivencia Educativa y su integración al sistema de monitoreo contribuya al fortalecimiento de sus objetivos. Sin perjuicio de lo anterior, deberá considerar, al menos, la información propia generada y la reportada por la Superintendencia de Educación, la Junta Nacional de Auxilio Escolar y Becas y cualquier otra entidad pública del sistema educativo que desarrolle servicios y programas relacionados con la Política y su Plan de Acción.
-
-Para ello, la Agencia deberá notificar a la entidad respectiva y señalarle los programas, proyectos o estudios, y el período sobre el que se requiere información. Asimismo, deberá indicar con qué dimensión o dimensiones de la Política Nacional de Convivencia Educativa se encuentran vinculados. La Agencia otorgará un plazo prudencial para remitir la información, el que, en todo caso, no podrá exceder los treinta días hábiles. La información deberá contener, al menos, datos y caracterización de cobertura, población objetivo, beneficiarios, territorios y temporalidad en los que se encuentra implementado, indicadores, mediciones y evaluaciones del programa, impacto esperado e impacto medido, si es que lo tiene.
-
-En caso de que los órganos requeridos no remitan la información solicitada en tiempo y forma, la Agencia podrá enviar los antecedentes a la Contraloría General de la República con el objeto de que ésta pondere el inicio de un procedimiento disciplinario.
-
-c) Disponer de un instrumento o conjunto de instrumentos de medición y evaluación diagnóstica de la convivencia educativa de uso voluntario para los establecimientos educacionales, aplicable a todos los integrantes de las comunidades educativas. Aplicado el instrumento, la Agencia proveerá al establecimiento una instancia o informe de retroalimentación, con recomendaciones y medidas de apoyo para la mejora y fortalecimiento de la gestión interna. Dicho informe deberá ser puesto en conocimiento de la comunidad escolar del respectivo establecimiento y considerado al momento de actualizar el Plan de Gestión de Convivencia Educativa señalado en el artículo 16 D del decreto con fuerza de ley N° 2, de 2009, del Ministerio de Educación, que fija texto refundido, coordinado y sistematizado de la ley N° 20.370 con las normas no derogadas del decreto con fuerza de ley N° 1, de 2005.
-
-d) Elaborar un informe bienal del estudio, análisis, hallazgos y recomendaciones que emanen del monitoreo de la convivencia al sistema educativo. Los datos personales que estén contenidos en dichos antecedentes deberán tratarse de conformidad con lo dispuesto en la ley N° 19.628, sobre protección de la vida privada, y se deberán utilizar sólo para los fines determinados por la ley.
-
-e) Asesorar y colaborar con el Ministerio de Educación, sobre la base de la evidencia levantada, en la optimización y pertinencia de la oferta pública vinculada a las dimensiones monitoreadas, y establecer recomendaciones y criterios orientados a la mejora continua de la actuación institucional. Asimismo, podrá identificar y realizar recomendaciones para la mejora de la oferta pública que otros órganos de la Administración del Estado desarrollen en los establecimientos educacionales, con el objeto de asegurar su concordancia con los lineamientos de la Política Nacional de Convivencia Educativa y evitar la duplicación, contradicción o sobreintervención.
-
-f) Llevar a cabo toda otra acción necesaria para el cumplimiento de los objetivos del Sistema de Monitoreo.
+p) Ejercer las demás atribuciones que determine la ley.
 
 ### Párrafo 2º
 
@@ -278,7 +252,7 @@ La ordenación se realizará anualmente y considerará el grado de cumplimiento 
 
 La Agencia, según lo dispuesto en el artículo anterior, determinará el modo en que técnicamente se ponderarán los estándares de aprendizaje y los otros indicadores de calidad educativa para efectos de efectuar la ordenación. Con todo, la ponderación de los estándares de aprendizaje no podrá ser inferior al 67% del total.
 
-Sin embargo, en el caso de establecimientos educacionales con un número insuficiente de alumnos que rindan las mediciones, y que no permita obtener resultados válidos, el Ministerio de Educación establecerá una metodología especial de evaluación que permita una ordenación pertinente, considerando, entre otros factores, un número mayor de mediciones consecutivas que para el resto de los establecimientos educacionales, tanto para los estándares de aprendizaje como para los otros indicadores de la calidad educativa los cuales deberán ser pertinentes y válidos para estos establecimientos, teniendo por objeto su apoyo y mejora. Dicha metodología será aprobada por decreto supremo del Ministerio de Educación.
+Sin embargo, en el caso de establecimientos educacionales con un número insuficiente de alumnos que rindan las mediciones, y que no permita obtener resultados válidos, el Ministerio de Educación establecerá la metodología que permita una ordenación pertinente, considerando, entre otros factores, un número mayor de mediciones consecutivas que para el resto de los establecimientos educacionales, tanto para los estándares de aprendizaje como para los otros indicadores de la calidad educativa. Dicha metodología será aprobada por decreto supremo del Ministerio de Educación.
 
 Los establecimientos educacionales que impartan educación básica y media serán ordenados por cada nivel en forma independiente. La Agencia y los sostenedores de dichos establecimientos educacionales deberán informar acerca de la categoría en que fueron ordenados en cada nivel educacional a los miembros de la comunidad educativa.
 
@@ -392,7 +366,7 @@ Los órganos de la Agencia son el Consejo y el Secretario Ejecutivo.
 
 #### Artículo 33
 
-El Consejo estará constituido por cinco miembros de destacada experiencia en la actividad educativa, nombrados por el Ministro de Educación, previa selección conforme al Sistema de Alta Dirección Pública. En su conformación se velará por garantizar el pluralismo del mismo, debiendo, al menos, uno de ellos contar con un reconocido prestigio, conocimiento y experiencia en la educación parvularia.
+El Consejo estará constituido por cinco miembros de destacada experiencia en la actividad educativa, nombrados por el Ministro de Educación, previa selección conforme al Sistema de Alta Dirección Pública. En su conformación se velará por garantizar el pluralismo del mismo.
 
 El Consejo designará de entre sus miembros a un Presidente, quien durará en el cargo tres años, pudiendo ser reelegido por una vez.
 
@@ -596,7 +570,7 @@ El domicilio de la Superintendencia será la ciudad de Santiago, sin perjuicio d
 
 #### Artículo 48
 
-El objeto de la Superintendencia será fiscalizar, de conformidad a la ley, que los sostenedores de establecimientos educacionales reconocidos oficialmente por el Estado se ajusten a las leyes, reglamentos e instrucciones que dicte la Superintendencia, en adelante "la normativa educacional". Asimismo, fiscalizará la legalidad del uso de los recursos por los sostenedores de los establecimientos subvencionados y que reciban aporte estatal y, respecto de los sostenedores de los establecimientos particulares pagados, fiscalizará la referida legalidad sólo en caso de denuncia. Además, proporcionará información, en el ámbito de su competencia, a las comunidades educativas y otros usuarios e interesados, y atenderá las denuncias y requerimientos de éstos, aplicando las sanciones que en cada caso corresponda.
+El objeto de la Superintendencia será fiscalizar, de conformidad a la ley, que los sostenedores de establecimientos educacionales reconocidos oficialmente por el Estado se ajusten a las leyes, reglamentos e instrucciones que dicte la Superintendencia, en adelante "la normativa educacional". Asimismo, fiscalizará la legalidad del uso de los recursos por los sostenedores de los establecimientos subvencionados y que reciban aporte estatal y, respecto de los sostenedores de los establecimientos particulares pagados, fiscalizará la referida legalidad sólo en caso de denuncia. Además, proporcionará información, en el ámbito de su competencia, a las comunidades educativas y otros usuarios e interesados, y atenderá las denuncias y reclamos de éstos, aplicando las sanciones que en cada caso corresponda.
 
 Las instrucciones que dicte la Superintendencia deberán resguardar el derecho a la educación, la libertad de enseñanza y los principios establecidos en el artículo 3° de la ley N° 20.370, General de Educación.
 
@@ -608,27 +582,25 @@ Para el cumplimiento de sus funciones, la Superintendencia tendrá las siguiente
 
 a) Fiscalizar que los establecimientos educacionales y sus sostenedores reconocidos oficialmente cumplan con la normativa educacional.
 
-b) Fiscalizar la rendición de la cuenta pública del uso de todos los recursos, públicos y privados, de acuerdo al Párrafo 3º de este Título, conforme a los principios de contabilidad generalmente aceptados. Dichos antecedentes estarán, también, a disposición de la comunidad educativa a través del Consejo Escolar.
+b) Fiscalizar la rendición de la cuenta pública del uso de todos los recursos, públicos y privados, de acuerdo al Párrafo 3º de este Título, a través de procedimientos contables simples generalmente aceptados. Dichas rendiciones consistirán en un estado anual de resultados que contemple, de manera desagregada, todos los ingresos y gastos de cada establecimiento. Dichos antecedentes estarán, también, a disposición de la comunidad educativa a través del Consejo Escolar.
 
-c) Realizar auditorías o autorizar a instituciones externas para que las efectúen a solicitud del sostenedor, siempre que existan, en ambos casos, sospechas fundadas respecto a la veracidad y exactitud de la información que se le haya proporcionado a la Superintendencia. Cuando las auditorías sean realizadas por instituciones externas, el financiamiento de éstas lo asumirá el propio sostenedor y será la Superintendencia quien las designe de entre una terna propuesta por el sostenedor que, en todo caso, deberá estar compuesta solo de aquellas instituciones registradas para tales efectos en la Superintendencia de Valores y Seguros, de conformidad al Título XXVIII de la ley Nº 18.045.
+c) Realizar y ordenar auditorías al estado anual de resultados mencionado en la letra anterior.
 
 d) Ingresar a los establecimientos educacionales y dependencias del sostenedor que tengan relación con la administración del establecimiento educacional, a objeto de realizar las funciones que le son propias. En el ejercicio de esta atribución, los funcionarios de la Superintendencia no podrán impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional.
 
-Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado o del título preliminar del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación. En este último caso, la Superintendencia no podrá examinar los libros y cuentas de la entidad fiscalizada.
+Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado. En este último caso, la Superintendencia no podrá examinar los libros y cuentas de la entidad fiscalizada.
 
-e) Acceder y solicitar cualquier documento, libro o antecedente que sea necesario para fines de fiscalización, sin impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional, y examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, cuentas, archivos y documentos de las personas o entidades fiscalizadas, y disponer de todos los antecedentes que juzgue necesarios para la mejor fiscalización. La Superintendencia, mediante resolución, determinará aquellos libros, archivos y documentos que deberán estar permanentemente disponibles para su examen en el propio establecimiento educacional. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren los establecimientos educacionales.
-
-La Superintendencia deberá mantener un registro de todas las cuentas bancarias en el que consten los ingresos que se destinen al cumplimiento de los fines educativos del establecimiento, de conformidad al artículo 3º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, pudiendo requerir, mediante resolución fundada, los movimientos de estas operaciones en dichas cuentas bancarias y los antecedentes que los respalden. En relación a esta última facultad, ante la negativa del titular de la cuenta, la Superintendencia podrá solicitar al juez competente la entrega de dicha información.
+e) Acceder a cualquier documento, libro o antecedente que sea necesario para fines de fiscalización, sin impedir el normal desarrollo de las actividades pedagógicas del establecimiento educacional, y examinar, por los medios que estime del caso, todas las operaciones, bienes, libros, cuentas, archivos y documentos de las personas o entidades fiscalizadas, y disponer de todos los antecedentes que juzgue necesarios para la mejor fiscalización. La Superintendencia, mediante resolución, determinará aquellos libros, archivos y documentos que deberán estar permanentemente disponibles para su examen en el propio establecimiento educacional. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren los establecimientos educacionales.
 
 Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título.
 
 f) Citar a declarar a los representantes legales, administradores y dependientes de las instituciones fiscalizadas respecto de algún hecho que estime necesario para resolver alguna denuncia que esté conociendo o cuando de oficio, en un procedimiento administrativo, lo determine en cumplimiento de sus funciones. Las mismas facultades, y en los mismos términos, tendrá la Superintendencia respecto de los terceros que administren establecimientos educacionales. La citación deberá considerar los horarios internos que posea la institución fiscalizada.
 
-Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado o del título preliminar del decreto con fuerza de ley Nº2, de 2009, del Ministerio de Educación.
+Respecto de los establecimientos educacionales particulares pagados, el ejercicio de esta atribución exigirá la existencia de una denuncia o reclamo conforme al Párrafo 4º de este Título, salvo que se trate de la verificación del cumplimiento de los requisitos exigidos para mantener el reconocimiento oficial del Estado.
 
 g) Absolver consultas, investigar y resolver denuncias que los distintos miembros de la comunidad escolar presenten.
 
-h) Recibir requerimientos y/o solicitudes de gestión colaborativa de conflictos, para luego realizar los procesos de mediación, facilitación, conciliación u otros mecanismos conducentes a su resolución.
+h) Recibir reclamos y actuar como mediador respecto de ellos.
 
 i) Formular cargos, sustanciar su tramitación y resolver los procesos que se sigan respecto de todos los incumplimientos o infracciones a la normativa educacional, así como de los que conozca por la vía de denuncias del público o por denuncia que formule el Ministerio de Educación u otros órganos públicos.
 
@@ -660,7 +632,7 @@ s) Realizar las demás funciones que le encomienden las leyes o los reglamentos.
 
 #### Artículo 50
 
-Las facultades señaladas en el artículo anterior no obstarán a aquellas facultades generales de fiscalización que le correspondan a la Contraloría General de la República y al Servicio de Impuestos Internos, en el ámbito de su competencia.
+Las facultades señaladas en el artículo anterior no obstarán a aquellas facultades generales de fiscalización que le correspondan a la Contraloría General de la República, en el ámbito de su competencia.
 
 ### Párrafo 2º
 
@@ -686,24 +658,6 @@ La Superintendencia deberá procurar que los procesos de fiscalización que llev
 
 En el ejercicio de la labor fiscalizadora los funcionarios de la Superintendencia deberán siempre informar al sujeto fiscalizado de la materia específica objeto de la fiscalización y de la normativa pertinente, dejar copia íntegra de las actas levantadas y realizar las diligencias estrictamente indispensables y proporcionales al objeto de fiscalización. Los sujetos fiscalizados podrán denunciar conductas abusivas de funcionarios ante el Superintendente.
 
-#### Artículo 52 bis
-
-La Superintendencia, a través de sus Direcciones Regionales, podrá ofrecer programas de cumplimiento normativo a los sostenedores de los establecimientos educacionales sujetos a su fiscalización. Asimismo, y sin perjuicio de lo dispuesto en los artículos 66 y 67, podrá, de oficio o a petición de parte, ofrecer un programa de cumplimiento al sostenedor durante la tramitación de un procedimiento sancionatorio y hasta antes de la formulación de cargos.
-
-La notificación de la resolución que acoja un programa de cumplimiento, conforme a lo dispuesto en el presente artículo, suspenderá los plazos establecidos en el artículo 86.
-
-El programa de cumplimiento consistirá en la suscripción por parte del sostenedor de un plan que contendrá acciones, metas y plazos definidos por la Superintendencia, destinado a subsanar y/o reparar las infracciones observadas, adecuar el funcionamiento del establecimiento a la normativa vigente, prevenir nuevas infracciones y/o mejorar la prestación del servicio educativo.
-
-La Superintendencia verificará la ejecución de las metas definidas en dichos programas en cada una de sus etapas y dentro de los plazos establecidos. Realizadas las obligaciones comprometidas dentro de los plazos respectivos, la Superintendencia dictará una resolución que declare el cumplimiento satisfactorio de las medidas suscritas o que ponga término al procedimiento administrativo, según corresponda. En caso de que se incumpla alguna de las metas, se podrá iniciar el correspondiente procedimiento sancionatorio o continuar con su tramitación, según sea el caso, sin perjuicio de que el programa pueda mantener su vigencia respecto de aquellas metas que no hayan sido incumplidas.
-
-La inobservancia total o parcial del programa de cumplimiento se considerará como agravante en los términos del artículo 80, en caso de existir un procedimiento sancionatorio previamente suspendido. Si no existe un procedimiento sancionatorio, la inobservancia del programa será considerada una infracción grave.
-
-No podrán acogerse a programas de cumplimiento aquellos sostenedores que se encuentren ejecutando otro programa de cumplimiento que aborde materias de similar naturaleza. Tampoco podrán acogerse a programas de cumplimiento respecto de aquellas infracciones que afecten gravemente los derechos de los estudiantes, conforme lo disponga el reglamento a que se refiere el inciso final.
-
-En los procedimientos sancionatorios relativos a expulsiones, cancelaciones de matrícula o procesos de admisión realizados con infracción a la normativa educacional, el programa de cumplimiento solo procederá cuando éste incluya la decisión del establecimiento de revertir la medida que afecta el derecho a la educación.
-
-Un reglamento del Ministerio de Educación establecerá los criterios que deberá contener el programa de cumplimiento para su aprobación, así como las demás materias que sean necesarias para la aplicación del presente artículo.
-
 #### Artículo 53
 
 Con el objeto de facilitar la fiscalización de las disposiciones de esta ley los sostenedores deberán enviar, dentro de los cinco días posteriores al segundo mes de comenzado el año escolar, un listado de los alumnos matriculados por curso, que considere su cédula nacional de identidad, nombres y apellidos. Del mismo modo deberán informar cuando, en el curso del año escolar, se cancele la matrícula a un estudiante, éste se retire del establecimiento o suspenda injustificadamente su asistencia regular por más de quince días.
@@ -716,75 +670,51 @@ De la rendición de cuenta pública del uso de los recursos
 
 #### Artículo 54
 
-Los sostenedores de establecimientos educacionales subvencionados o que reciban aportes regulares del Estado deberán rendir, anualmente, cuenta pública del uso de todos sus recursos, conforme a los principios de contabilidad generalmente aceptados, respecto de la entidad sostenedora y de cada uno de sus establecimientos educacionales.
+Los sostenedores de establecimientos educacionales subvencionados o que reciban aportes del Estado deberán rendir cuenta pública del uso de todos los recursos mediante procedimientos contables simples, generalmente aceptados, respecto de cada uno de sus establecimientos educacionales, de acuerdo a los instrumentos y formatos estandarizados que fije la Superintendencia. Adicionalmente, los sostenedores que posean más de un establecimiento educacional subvencionado o que reciba aportes del Estado, deberán entregar un informe consolidado del uso de los recursos respecto de la totalidad de sus establecimientos. El análisis de la rendición de cuentas sólo implicará un juicio de legalidad del uso de los recursos y no podrá extenderse al mérito del uso de los mismos.
 
-Los recursos recibidos durante el año calendario anterior, se rendirán hasta el 31 de marzo del año siguiente.
-
-Asimismo, como parte del proceso de rendición de cuentas, los sostenedores de establecimientos educacionales subvencionados o que reciban aportes regulares del Estado, deberán administrar todos los recursos destinados al cumplimiento de los fines educativos del establecimiento, de conformidad al artículo 3º del decreto con fuerza de ley Nº 2, de 1998, del Ministerio de Educación, en cuentas bancarias exclusivas, informadas a la Superintendencia de Educación.
-
-#### Artículo 54 bis
-
-Los establecimientos educacionales que reciben aportes del Estado deberán, además, presentar una declaración con la información que requiera el Servicio de Impuestos Internos, en la forma y plazo que éste establezca mediante resolución. En dicha declaración, el Servicio podrá solicitar, entre otros antecedentes, un desglose de los ingresos tributables, rentas exentas e ingresos no constitutivos de renta obtenidos por estas entidades, así como también de todos los costos, gastos y desembolsos asociados a cada una de las categorías de rentas e ingresos antes mencionados.
-
-El retardo u omisión en la presentación de la referida declaración jurada se sancionará conforme a lo dispuesto en el inciso primero del Nº 1 del artículo 97 del Código Tributario. Si la declaración presentada conforme a este número fuere maliciosamente falsa, se sancionará conforme a lo dispuesto por el inciso primero, del Nº4, del artículo 97 del Código Tributario.
+Además, previa resolución que señale la existencia de sospechas fundadas respecto a la veracidad y exactitud de la información que le hayan proporcionado, la Superintendencia podrá realizar auditorías o requerir, a petición del sostenedor del establecimiento educacional, que instituciones externas las efectúen, en cuyo caso su financiamiento corresponderá al sostenedor. Si estas auditorías fueran realizadas por instituciones externas, la elección de la institución será realizada por el sostenedor de entre aquellas que se encuentren contenidas en el registro que para tales efectos lleva la Superintendencia de Valores y Seguros.
 
 #### Artículo 55
 
-Las rendiciones de cuenta consistirán en estados financieros que contengan la información de manera desagregada, según las formas y procedimientos que establezca la Superintendencia de Educación, con especial consideración de las características de cada establecimiento educacional, y exigiendo, según sea el caso, procedimientos que sean eficientes y proporcionados a la gestión de cada sostenedor y sus respectivos establecimientos. Para tal efecto, la Superintendencia deberá tener en consideración factores tales como la ruralidad, número de estudiantes matriculados y nivel socioeconómico de cada establecimiento y sostenedor.
-
-Adicionalmente, los sostenedores que posean más de un establecimiento educacional subvencionado o que reciba aportes del Estado, deberán entregar un informe consolidado del uso de los recursos respecto de la totalidad de sus establecimientos.
-
-La Superintendencia pondrá a disposición de los sostenedores formatos estandarizados e instrumentos que sean necesarios para llevar a cabo de forma eficiente los procesos de rendición de cuentas. Se procurará, asimismo, facilitar programas computacionales u otros mecanismos que apoyen a los sostenedores en el registro de sus operaciones y la confección de los libros que se les exijan.
-
-El análisis de la rendición de cuentas sólo implicará un juicio de legalidad del uso de los recursos y no podrá extenderse al mérito del uso de los mismos.
+Si en las auditorías a que se refiere el artículo anterior se detectaren infracciones que pudieran ser objeto de sanción, la Superintendencia deberá realizar las observaciones y abrir el procedimiento sancionatorio correspondiente y formular los cargos que procedieren.
 
 #### Artículo 56
 
-Dentro del marco de sus atribuciones, y con el objeto de dar cumplimiento a los fines que la ley impone a cada uno de estos organismos, la Superintendencia de Educación, el Ministerio de Educación y el Servicio de Impuestos Internos, actuarán coordinadamente y se remitirán recíprocamente la información que sea necesaria para el correcto ejercicio de sus funciones de fiscalización. El contenido, plazo y forma en que se enviará esta información, se determinará en un reglamento que deberá dictarse conjuntamente por los Ministerios de Hacienda y Educación.
-
-Para los efectos de lo dispuesto en este artículo, el Servicio de Impuestos Internos se encontrará eximido del secreto tributario establecido en el inciso segundo del artículo 35 del decreto ley Nº830, del Ministerio de Hacienda que fija el texto del Código Tributario. La información que entregue el Servicio de Impuestos Internos a partir del presente artículo podrá ser utilizada únicamente para los fines propios de las instituciones que la reciban y bajo estrictos deberes de reserva y confidencialidad.
+La Superintendencia, en conjunto con el Ministerio de Educación, establecerá un mecanismo común de rendición de cuenta pública del uso de los recursos, a fin de simplificar y facilitar el cumplimiento de dicha obligación establecida en ésta o en otras leyes por parte de los sostenedores. Las características, modalidades y condiciones de este mecanismo serán establecidas en un reglamento expedido por el Ministerio de Educación.
 
 ### Párrafo 4º
 
-De la atención de denuncias y otros requerimientos ciudadanos
+De la atención de denuncias y reclamos
 
 #### Artículo 57
 
-La Superintendencia recibirá las denuncias y los requerimientos que se formulen por los miembros de la comunidad educativa u otros directamente interesados y que se refieran a materias de su competencia, sin perjuicio de las acciones legales correspondientes.
-
-En aquellos casos en que el requirente no haya previamente activado los protocolos contemplados en el reglamento interno del establecimiento educacional, la Superintendencia podrá orientarlo para su activación, con el objeto de propender a la resolución de los conflictos al interior de las comunidades educativas.
+La Superintendencia recibirá las denuncias y los reclamos que se formulen por los miembros de la comunidad educativa u otros directamente interesados y que se refieran a materias de su competencia, sin perjuicio de las acciones legales correspondientes.
 
 #### Artículo 58
 
 Para los efectos de esta ley la denuncia es el acto escrito u oral por medio del cual una persona o grupo de personas directamente interesadas y previamente individualizadas ponen en conocimiento de la Superintendencia una eventual irregularidad, con el objeto de que ésta investigue y adopte las medidas que correspondan.
 
-Se entenderá por requerimiento de gestión colaborativa de conflicto, la petición formal realizada a la Superintendencia por alguna de las personas señaladas en el artículo anterior, en orden a que intervenga en la controversia existente entre la parte solicitante y a quien ésta inste a participar en el proceso, cuando el adecuado desarrollo del proceso educativo esté siendo afectado.
+Se entenderá por reclamo la petición formal realizada a la Superintendencia por alguna de las personas señaladas en el artículo anterior, en orden a que ésta intervenga como mediador en la controversia existente entre el reclamante y alguna de las entidades fiscalizadas, apersonándose el reclamante en el procedimiento.
 
 #### Artículo 59
 
-Formulada una denuncia o recibido un requerimiento de gestión colaborativa de conflicto, la Superintendencia podrá abrir un período de información previo con el fin de conocer las circunstancias concretas del caso y la conveniencia de iniciar un procedimiento sancionatorio o la respectiva gestión colaborativa de conflicto.
+Formulada una denuncia o recibido un reclamo, la Superintendencia podrá abrir un período de información previo con el fin de conocer las circunstancias concretas del caso y la conveniencia de iniciar un procedimiento sancionatorio o la respectiva mediación.
 
 #### Artículo 60
 
-En el caso de denuncia o requerimiento respecto de los establecimientos particulares pagados, la Superintendencia podrá investigar y exigir la entrega de los antecedentes que correspondan.
+En el caso de denuncia o reclamo respecto de los establecimientos particulares pagados, la Superintendencia podrá investigar y exigir la entrega de los antecedentes que correspondan.
 
 #### Artículo 61
 
-Recibida una denuncia, la Superintendencia designará un funcionario encargado de su tramitación. En las denuncias referidas a la convivencia escolar deberá siempre ofrecerse la gestión colaborativa del conflicto planteado, salvo en aquellos casos en que los hechos denunciados sean constitutivos de delitos o cuando la aplicación de dicho mecanismo pueda generar una vulneración de derechos fundamentales de alguna de las partes.
-
-En aquellos casos en que se evalúe que la gestión colaborativa de conflicto no es el mecanismo adecuado para abordar el requerimiento, el funcionario notificará al establecimiento sobre el ingreso de la denuncia y le solicitará los antecedentes y documentación necesarios para determinar eventuales infracciones a la normativa educacional que hagan necesario derivar la denuncia a un procedimiento de fiscalización. Con todo, los denunciantes sólo podrán participar durante la tramitación de los procedimientos regulados en los Párrafos 2° y 4° del Título III.
-
-Sin perjuicio de lo expuesto, en cualquier momento de la tramitación la persona denunciante podrá solicitar reconducir su requerimiento al procedimiento de gestión colaborativa de conflictos.
+Admitida una denuncia o reclamo a tramitación, el Director Regional ordenará la apertura de un expediente y designará al funcionario encargado de su tramitación, quien notificará al denunciado o reclamado.
 
 #### Artículo 62
 
-Recibido un requerimiento de gestión colaborativa de conflicto, la Superintendencia designará un funcionario a cargo de su tramitación, quien determinará el mecanismo idóneo para la atención del caso. Para ello, el funcionario a cargo se comunicará con las partes involucradas con el objeto de indagar las circunstancias y evaluar la pertinencia de la aplicación del mecanismo, y verificará la voluntad de las partes de continuar con la gestión colaborativa.
+Recibido un reclamo a tramitación, el funcionario designado citará a los interesados a una audiencia de mediación en la cual propondrá bases de arreglo para solucionar el conflicto.
 
-Finalizada la gestión, el funcionario deberá levantar un acta en la que constará el resultado del proceso. En el caso de lograr un acuerdo para la resolución del conflicto, deberá dejar constancia de los compromisos asumidos por los involucrados y los plazos asociados para su cumplimiento.
+Las partes convendrán el nombre del mediador, el que en todo caso, para ejercer como tal, deberá inscribirse en el registro que al efecto lleve la Superintendencia.
 
-Para efectos de lo dispuesto precedentemente, cada Dirección Regional contará con funcionarios que se desempeñarán como gestores colaborativos de conflicto, con formación especializada en dicho ámbito. En caso de que el servicio no pueda cubrir el requerimiento oportunamente, podrá asignar a un profesional autorizado para dicha función, inscrito en el Registro de Mediadores para la Gestión Colaborativa de Conflictos, que tendrá a su cargo la Superintendencia.
-
-La Superintendencia fijará, mediante normas de general aplicación, los requisitos y el perfil profesional para el cargo de gestor colaborativo de conflicto. Asimismo, establecerá los requisitos, la duración y los procedimientos para la inscripción, renovación y eliminación de los profesionales que integren el registro señalado en el inciso anterior, y, también, contemplará los honorarios asociados. Además, fijará las formalidades, etapas, acciones, efectos y plazos de los procedimientos para la gestión colaborativa.
+Corresponderá a la Superintendencia fijar, mediante normas de general aplicación, los requisitos que deberán cumplir los mediadores a que se refiere este precepto, así como las normas generales de procedimiento a las que deberán sujetarse.
 
 #### Artículo 63
 
@@ -792,7 +722,7 @@ Las notificaciones a los interesados se realizarán por medio de carta certifica
 
 #### Artículo 64
 
-La Superintendencia deberá mantener un registro público con las estadísticas de denuncias, gestión colaborativa de conflictos y otros requerimientos conocidos y resueltos.
+La Superintendencia deberá mantener un registro público con las estadísticas de denuncias conocidas y resueltas.
 
 #### Artículo 65
 
@@ -908,8 +838,6 @@ g) Hacer obligatorio el pago de matrícula u otros cobros que tengan carácter v
 
 h) Toda otra que haya sido expresamente calificada como grave por la ley, especialmente las contempladas en el artículo 50 del decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998 y en el artículo 34 de la ley N° 20.248.
 
-i) Incumplir las normas señaladas en los artículos 3º, 3º bis y 6º del decreto con fuerza de ley Nº2, de 1998, del Ministerio de Educación, que fija el texto refundido, coordinado y sistematizado del decreto con fuerza de ley Nº2, de 1996, sobre subvención del Estado a Establecimientos Educacionales.
-
 #### Artículo 77
 
 Son infracciones menos graves:
@@ -922,9 +850,7 @@ c) Infringir los deberes y derechos establecidos en la normativa educacional que
 
 d) Cobrar indebidamente valores superiores a los establecidos.
 
-e) Tratándose de los establecimientos que reciben subvención o aportes del Estado, realizar maliciosamente publicidad que induzca a error respecto de la naturaleza del proyecto educativo del establecimiento, o que inhiba arbitrariamente la postulación de determinados estudiantes al establecimiento educacional de que se trate.
-
-f) Toda otra infracción que sea expresamente calificada como tal por la ley.
+e) Toda otra infracción que sea expresamente calificada como tal por la ley.
 
 En caso de infracciones que tengan el carácter de menos graves, sólo podrán aplicarse las sanciones de amonestación y multa establecidas en esta ley.
 
@@ -1008,17 +934,9 @@ Del administrador provisional
 
 #### Artículo 87
 
-La Superintendencia, mediante resolución fundada, podrá nombrar un administrador provisional para que asuma las funciones que competen al sostenedor de un establecimiento educacional subvencionado o que reciba aportes del Estado, cuando exista riesgo de afectar la continuidad del servicio educativo y con su nombramiento se pueda asegurar el adecuado funcionamiento del establecimiento y la continuidad de dicho servicio.
+La Superintendencia, mediante resolución fundada, podrá nombrar un administrador provisional para que asuma las funciones que competen al sostenedor de un establecimiento educacional subvencionado o que reciba aportes del Estado, con el objeto de asegurar el adecuado funcionamiento de dicho establecimiento y la continuidad del servicio educativo.
 
-El administrador provisional durará en su cargo hasta el término del año laboral docente en curso. Si se mantienen las condiciones que dieron origen a su nombramiento, este plazo podrá prorrogarse hasta por un periodo adicional, sin perjuicio de lo establecido en el inciso segundo del artículo 94.
-
-#### Artículo 87 bis
-
-Sin perjuicio de lo señalado en el artículo anterior, en casos graves y calificados, el administrador provisional podrá asumir las funciones que competen al sostenedor, de conformidad con lo establecido en el artículo 92, respecto de los establecimientos educacionales bajo su dependencia.
-
-Se entenderá que concurre esta circunstancia cuando el sostenedor no pueda mantener en funcionamiento los establecimientos educacionales bajo su dependencia ni garantizar, a la vez, el desarrollo normal del año escolar en dichos establecimientos. Asimismo, se entenderá que concurre esta circunstancia cuando, existiendo atraso en el pago de las remuneraciones o de las cotizaciones previsionales o de salud del personal del establecimiento, en los términos señalados en la letra d) del artículo 89, el sostenedor no pueda garantizar el pago de alguna de estas prestaciones en el mes subsiguiente a aquél en que se verifique la infracción.
-
-Sin perjuicio de lo anterior, conjuntamente con el nombramiento del administrador provisional, se deberán poner a disposición del Ministerio Público, de la Contraloría General de la República y del Consejo de Defensa del Estado, todos los antecedentes de que se disponga respecto de la situación del sostenedor, con la finalidad de que dichos órganos persigan las responsabilidades civiles, penales y administrativas que correspondan.
+El administrador provisional durará en su cargo sólo hasta el término del año escolar en curso, salvo lo establecido en el inciso segundo del artículo 94.
 
 #### Artículo 88
 
@@ -1034,8 +952,6 @@ Sin perjuicio de lo anterior, regirán respecto de estas personas las inhabilida
 
 En el caso de las personas jurídicas, las incompatibilidades mencionadas en este artículo serán aplicables a sus representantes legales y administradores.
 
-Si se nombra a un administrador provisional para dos o más establecimientos educacionales de un mismo sostenedor, deberá preferirse a una persona jurídica disponible del registro que acredite mantener a su disposición un equipo de profesionales calificados que colabore en su gestión.
-
 #### Artículo 89
 
 Sólo se podrá nombrar un administrador provisional en los siguientes casos:
@@ -1050,61 +966,29 @@ d) Cuando exista atraso reiterado en el pago de las remuneraciones o de las coti
 
 e) Cuando, por causa imputable al sostenedor, se suspendan reiteradamente los servicios básicos para el buen funcionamiento del local escolar. Se entenderá por suspensión reiterada la no disponibilidad del servicio básico en un período de tres días hábiles consecutivos o cinco días hábiles en un período de seis meses.
 
-f) Cuando, tratándose de los establecimientos municipales, se solicite por parte del sostenedor la renuncia al reconocimiento oficial del establecimiento educacional y de ello se derive una grave afectación al derecho a la educación de los y las estudiantes matriculados en dicho establecimiento.
-
-g) Cuando un sostenedor abandone, durante el año escolar, su proyecto educativo, dejando de prestar el servicio educacional en el establecimiento de su dependencia.
-
-Tratándose de las causales señaladas en las letras b), c), d), e), f) y g) precedentes, el Director Regional citará al sostenedor y propondrá al Superintendente el nombramiento del administrador provisional, si procediere. Dicho nombramiento se notificará por carta certificada al sostenedor para que éste, dentro del plazo de cinco días hábiles contados desde dicha notificación, pueda reclamar administrativamente ante el Superintendente de esa designación.
+Tratándose de las causales señaladas en las letras b), c), d) y e) precedentes, el Director Regional citará al sostenedor y propondrá al Superintendente el nombramiento del administrador provisional, si procediere. Dicho nombramiento se notificará por carta certificada al sostenedor para que éste, dentro del plazo de cinco días hábiles contados desde dicha notificación, pueda reclamar administrativamente ante el Superintendente de esa designación.
 
 El nombramiento del administrador provisional será una atribución privativa e indelegable del Superintendente.
 
 #### Artículo 90
 
-El administrador provisional quedará sometido desde que aceptare el cargo a un régimen especial de fiscalización y rendición de cuentas que deberá ser fijado por el Superintendente mediante resolución fundada. De la misma forma, la Superintendencia podrá fijar criterios diferenciadores para el uso de las subvenciones y aportes señalados en la ley N° 20.248.
+Al asumir sus funciones el administrador provisional levantará un acta que dé cuenta del estado administrativo y financiero del establecimiento educacional, que será entregada a la Superintendencia.
 
-Mientras dure su administración, los procedimientos sancionatorios originados por hechos ocurridos con anterioridad a su nombramiento se dirigirán en contra del sostenedor. Lo mismo ocurrirá en aquellos procedimientos en que la ejecución de la sanción se encuentre pendiente de ser aplicada por el Ministerio de Educación. En el evento de que se trate de sanciones de tipo pecuniario, deberán ser pagadas a la Tesorería General de la República, dentro del plazo de diez días, contados desde que dicha sanción se encuentre firme. Transcurrido este plazo sin que el sostenedor las haya pagado, el Ministerio de Educación oficiará a dicho organismo para que inicie el procedimiento de cobro respectivo.
+Además, dentro de los veinte días siguientes a su nombramiento, deberá presentar un plan de trabajo, que deberá ser aprobado por el Superintendente.
 
-El administrador provisional deberá proporcionar todos los antecedentes que el sostenedor requiera para una adecuada defensa en los casos a que se refiere el inciso anterior.
+El administrador provisional deberá presentar informes trimestrales de avance de su gestión y dar cuenta documentada de ella al Superintendente al término de sus funciones.
 
-Dentro de los quince días siguientes a la aceptación del cargo, el administrador provisional levantará un acta que dé cuenta del estado administrativo y financiero del establecimiento educacional que será entregada a la Superintendencia.
-
-Asimismo, en los veinte días siguientes a dicha aceptación, deberá presentar un plan de trabajo, que deberá ser aprobado por el Superintendente.
-
-El administrador provisional deberá presentar informes trimestrales de avance de su gestión tanto a la Dirección Regional de la Superintendencia de Educación como a la Secretaría Regional Ministerial de Educación respectiva, y dar cuenta documentada de ella al Superintendente al término de sus funciones.
-
-Una vez aprobados por la Superintendencia, dichos informes serán incorporados a un registro de carácter público, de conformidad a lo dispuesto en el reglamento a que hace referencia el artículo 97.
+Una vez que dichos informes hayan sido aprobados por la Superintendencia, ellos serán incorporados a un registro de carácter público, de conformidad a lo dispuesto en el reglamento a que hace referencia el artículo 97.
 
 El administrador provisional responderá de la culpa leve en su administración.
 
-Una vez nombrado, el administrador provisional deberá realizar una declaración de intereses y patrimonio, en los términos que indica la ley N° 20.880.
-
-En caso de incumplimiento de estas obligaciones, el Superintendente podrá disponer la eliminación del administrador provisional del registro señalado en el artículo 97, sin perjuicio de las demás responsabilidades que le correspondan.
-
 #### Artículo 91
 
-Desde la fecha de designación del administrador provisional el sostenedor del establecimiento quedará inhabilitado para efectos de su administración, así como para percibir la subvención educacional.
+Desde la fecha de designación del administrador provisional el sostenedor del establecimiento será sustituido por éste para todos los efectos legales, quedando inhabilitado para percibir la subvención educacional.
 
-El sostenedor será responsable de todas las obligaciones que se hubieren generado en virtud del funcionamiento del establecimiento educacional con antelación a la designación del administrador provisional.
+Sin perjuicio de lo anterior, el sostenedor será responsable de todas las obligaciones que se hubieren generado en virtud del funcionamiento del establecimiento educacional con antelación a la designación del administrador provisional.
 
-Para garantizar una adecuada gestión del administrador provisional, el sostenedor deberá cumplir con las siguientes obligaciones:
-
-a) Reintegrar, en la cuenta corriente señalada en la letra c) del artículo 92, los montos que el administrador deba pagar por obligaciones generadas con anterioridad a su nombramiento y que se devenguen o ejecuten en su administración, especialmente aquellos que digan relación con el pago de remuneraciones y cotizaciones previsionales. Asimismo, deberá depositar los saldos o excedentes de dichos aportes que no hayan sido ejecutados a la fecha de su nombramiento, según lo determinado por la Superintendencia de Educación.
-
-b) No podrá celebrar actos o contratos sobre el local escolar o el mobiliario de los establecimientos educacionales sujetos a administración provisional que puedan impedir el adecuado funcionamiento del servicio educativo.
-
-c) Poner a disposición del administrador provisional todos los bienes, muebles e inmuebles, donde funcionen el o los establecimientos educacionales sujetos a esta medida.
-
-d) Proporcionar al administrador provisional toda la información necesaria, especialmente laboral y financiera, que esté bajo su responsabilidad, para una adecuada gestión. Lo anterior, deberá ir acompañado de un informe detallado, en los primeros diez días contados desde asumidas las funciones por el administrador provisional.
-
-Mientras dure su administración, los recursos que reciba el administrador provisional y los bienes que administre no podrán ser objeto de medida judicial alguna que derive de las obligaciones señaladas en el inciso segundo de este artículo.
-
-Si el sostenedor se negare a entregar los inmuebles de los establecimientos educacionales sujetos a esta medida, o éste cerrare intempestivamente dichos locales, el administrador provisional podrá solicitar el auxilio de la fuerza pública para tomar posesión de ellos.
-
-El incumplimiento de las obligaciones establecidas en este artículo por parte del sostenedor se entenderá como infracción grave para los efectos del artículo 76 y soportará personalmente sus efectos, incluyendo el pago de multas. En los casos que existan hechos que puedan revestir carácter de delitos, la Superintendencia podrá enviar los antecedentes el Ministerio Público para los fines a que haya lugar.
-
-El nombramiento de administrador provisional procederá sin perjuicio de hacer efectiva la garantía establecida en el artículo 56 del decreto con fuerza de ley N° 2, de 1998, del Ministerio de Educación.
-
-Mientras dure la administración provisional, excepcionalmente y por resolución fundada, el Ministerio de Educación o la Superintendencia de Educación, según corresponda, podrán dejar sin efecto las retenciones de pago adoptadas por aplicación del artículo 7 de la ley N° 19.609, del artículo 69 de la presente ley, o en razón de otras medidas de carácter administrativo que hayan tenido por objeto la disminución o no pago de la subvención escolar.
+El nombramiento de administrador provisional procederá sin perjuicio de hacer efectiva la garantía establecida en el artículo 56 del decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998.
 
 #### Artículo 92
 
@@ -1112,29 +996,19 @@ El administrador provisional asumirá las facultades que competen al sostenedor 
 
 Sin perjuicio de lo dispuesto en el inciso anterior, el administrador provisional tendrá, especialmente, las siguientes facultades:
 
-a) Asumir la representación legal del establecimiento. Esta representación legal lo faculta, expresamente, para ejercer la titularidad de las acciones administrativas, civiles y/o penales para perseguir la responsabilidad, en su caso, de los administradores y/o sostenedores.
+a) Asumir la representación legal del establecimiento, sea particular subvencionado, municipal o cuyo sostenedor sea otra entidad creada por ley.
 
-b) Procurar la disponibilidad de matrícula para los alumnos del establecimiento, en el caso de renovación de su nombramiento de conformidad a lo establecido en el inciso final del artículo 87, informando periódicamente a los miembros de la comunidad escolar la situación general del establecimiento.
+b) Asegurar la continuidad escolar y procurar la disponibilidad de matrícula para los alumnos del establecimiento, de conformidad a lo establecido en esta ley.
 
-c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 , otros aportes regulares que entregue el Estado, así como los que pudiere disponer la ley de Presupuestos del Sector Público para asegurar la continuidad del servicio educacional del establecimiento correspondiente, siempre que concurran las siguientes circunstancias: i) que los aportes regulares que deba recibir no sean suficientes para financiar las remuneraciones del personal docente y asistentes de la educación, el pago de suministros básicos y demás gastos indispensables para su funcionamiento; ii) que los hechos que originaron el nombramiento del administrador provisional se produzcan durante el transcurso del año escolar respectivo, y iii) que dichos recursos se destinen íntegramente al pago relacionado con los gastos señalados en el numeral i) precedente.
-
-Para estos efectos, el administrador provisional deberá abrir una cuenta corriente fiscal, en la que el Ministerio de Educación depositará estos recursos. También deberá acompañar una boleta de garantía, póliza de seguro u otra caución previamente calificada por la Superintendencia
+c) Percibir y administrar los recursos de que trata el decreto con fuerza de ley Nº 2, del Ministerio de Educación, de 1998, la ley N° 20.248 y otros aportes regulares que entregue el Estado.
 
 d) Pagar las obligaciones derivadas del servicio educacional desde el momento que asume sus funciones, con el límite de los recursos que reciba para su gestión, de acuerdo a las prioridades que establezca y procurando el buen desempeño del establecimiento educacional.
 
-Podrá solucionar obligaciones generadas con anterioridad a su nombramiento, cuando digan relación con el pago de remuneraciones y cotizaciones previsionales del personal del establecimiento educacional o servicios básicos y cuente con recursos adicionales provenientes del sostenedor u otros dispuestos para tal efecto.
-
 e) Poner término a la relación laboral del personal del establecimiento educacional.
-
-El administrador provisional será responsable únicamente de la dotación docente y de los asistentes de la educación que trabajen en los establecimientos educacionales que queden bajo su gestión.
 
 f) Constituir prenda sobre los bienes del establecimiento, cuando sea estrictamente necesario para garantizar el buen funcionamiento del establecimiento.
 
 g) Devolver la administración de los bienes al sostenedor al término de su gestión.
-
-h) Coordinar, en caso de pérdida definitiva del reconocimiento oficial del Estado por parte del establecimiento educacional, la reubicación de los y las estudiantes en conjunto con la Secretaría Regional Ministerial de Educación correspondiente, y adoptar todas las medidas necesarias para asegurar su derecho a la educación.
-
-i) Convenir con el Ministerio de Educación u otros órganos de la Administración del Estado, así como con entidades privadas sin fines de lucro, la realización de acciones específicas o de prestación de servicios, que le permitan cumplir sus funciones u obtener recursos adicionales.
 
 Las facultades del administrador provisional serán indelegables.
 
@@ -1142,11 +1016,11 @@ Las facultades del administrador provisional serán indelegables.
 
 El nombramiento de un administrador provisional, en el caso de la letra a) del artículo 89, podrá tener por objeto hacer efectiva la revocación del reconocimiento oficial del establecimiento, siempre que existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en una categoría superior.
 
-Para proceder a revocar el reconocimiento oficial de un establecimiento el administrador provisional deberá dar continuidad al servicio educativo por el período que reste hasta el término del año laboral docente, procurando asegurar la matrícula disponible a los alumnos para el año escolar siguiente en otros establecimientos educacionales.
+Para proceder a revocar el reconocimiento oficial de un establecimiento el administrador provisional deberá dar continuidad al servicio educativo por el período que reste hasta el término del año escolar, procurando asegurar la matrícula disponible a los alumnos para el año escolar siguiente en otros establecimientos educacionales.
 
 #### Artículo 94
 
-El administrador provisional tendrá facultades para reestructurar un establecimiento educacional que se encuentre en las condiciones que establece el artículo 89, letra a), siempre que se trate de establecimientos educacionales subvencionados o que reciban aportes del Estado, o administrados por otras entidades creadas por ley, y no existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en mejor categoría y que cuenten con vacantes.
+El administrador provisional tendrá facultades para reestructurar un establecimiento educacional que se encuentre en las condiciones que establece el artículo 89, letra a), siempre que se trate de establecimientos educacionales administrados por municipalidades, sea directamente o por sus corporaciones municipales, o administrados por otras entidades creadas por ley, y no existan establecimientos cercanos que impartan el mismo nivel educativo, ordenados en mejor categoría y que cuenten con vacantes.
 
 En el caso de la reestructuración a que se refiere el inciso anterior, el administrador provisional se hará cargo de las obligaciones legales hasta la entrega del establecimiento educacional a la municipalidad o corporación respectiva, o a la entidad creada por ley que corresponda, la que deberá materializarse dentro del plazo de tres años, contado desde la fecha de su nombramiento.
 
@@ -1170,11 +1044,7 @@ Dicho registro deberá estar siempre abierto para el ingreso.
 
 #### Artículo 98
 
-Los honorarios del administrador provisional serán pagados con cargo al presupuesto de la Superintendencia de Educación.
-
-#### Artículo 98 bis
-
-La Superintendencia de Educación, mediante instrucciones de carácter general, regulará lo dispuesto en este párrafo.
+Los honorarios del administrador provisional serán pagados con cargo a la subvención que le corresponda recibir al establecimiento, conforme a la ley. En la parte no cubierta por estos recursos, serán de cargo de la Superintendencia.
 
 ### Párrafo 7º
 
@@ -1183,22 +1053,6 @@ De la organización de la Superintendencia
 #### Artículo 99
 
 Un funcionario de la exclusiva confianza del Presidente de la República, con el título de Superintendente de Educación, será el Jefe Superior de la Superintendencia y tendrá la representación judicial y extrajudicial de la misma.
-
-La organización interna de la Superintendencia considerará una Intendencia de Educación Parvularia, cuya función será elaborar los criterios técnicos que permitan orientar el ejercicio de las atribuciones de aquella respecto de establecimientos educacionales que impartan educación parvularia y que cuenten con reconocimiento oficial del Estado o la autorización, en su caso.
-
-Sin perjuicio de las atribuciones de la Superintendencia, señaladas en el artículo 49 de esta ley, corresponderá especialmente a la Intendencia:
-
-1) Elaborar y proponer los criterios técnicos, de acuerdo con la alta especialidad del nivel de educación parvularia, que orienten la función fiscalizadora de la Superintendencia respecto de los establecimientos que la imparten.
-
-2) Proponer al Superintendente la interpretación administrativa de la normativa educacional aplicable a los establecimientos que imparten educación parvularia.
-
-3) Proponer al Superintendente instrucciones de general aplicación al sector sujeto a su competencia.
-
-4) Elaborar índices, estadísticas y estudios relativos al sistema de educación parvularia.
-
-5) Las demás que le encomienden las leyes o reglamentos.
-
-La Intendencia estará a cargo de un Intendente de Educación Parvularia, directivo afecto al segundo nivel jerárquico de la Superintendencia, para los efectos del artículo trigésimo séptimo de la ley Nº 19.882.
 
 #### Artículo 100
 
@@ -1844,21 +1698,7 @@ cuarto.- Facúltase al Presidente de la República para que, mediante uno o más
 
 #### Artículo decimo
 
-quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con su reconocimiento oficial, tendrán plazo hasta el 31 de diciembre del año 2034 para obtenerlo. Transcurrido ese plazo los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.
-
-Para el cumplimiento de lo establecido en el inciso anterior, la Subsecretaría de Educación Parvularia desarrollará, en el plazo de un año, un plan de cumplimiento para que los establecimientos de educación parvularia que reciben aportes regulares del Estado accedan al reconocimiento oficial. Este plan establecerá etapas y plazos para el cumplimiento de los diferentes requisitos exigidos, y priorizará la seguridad de los niños y la calidad del servicio entregado. También considerará estrategias de apoyo a los establecimientos de educación parvularia.
-
-La elaboración del plan al que se refiere el inciso anterior comprenderá una etapa de diagnóstico y otra de elaboración.
-
-La etapa de diagnóstico tendrá como objetivo el levantamiento de la información de la situación actual de los establecimientos de educación parvularia que reciben aportes del Estado, en particular si cumplen los requerimientos para acceder al reconocimiento oficial del Estado.
-
-La etapa de elaboración del plan podrá considerar instancias de participación o consulta pública a representantes de los sostenedores y de las comunidades educativas de la oferta pública en educación parvularia.
-
-El cumplimiento de los objetivos establecidos en el plan será objeto de revisión y evaluación cada tres años.
-
-#### Artículo decimo
-
-sexto.- Las municipalidades y las corporaciones municipales que tengan la calidad de sostenedoras de jardines infantiles financiados vía transferencia de fondos deberán presentar, previo al traspaso al que refiere el artículo decimoctavo transitorio de la ley N° 21.040, que crea el Sistema de Educación Pública, un informe que contenga el estado de situación de los establecimientos que estén bajo su administración y que tengan convenio vigente con la Junta Nacional de Jardines Infantiles a su fecha de elaboración. Este informe deberá contener, para cada establecimiento, información detallada respecto de cada uno de los requisitos normativos para la obtención del reconocimiento oficial del Estado. La información y contenido específico de este informe será establecido por la Subsecretaría de Educación Parvularia por resolución. El informe deberá ser entregado en un plazo no superior a ciento ochenta días ni inferior a sesenta días previo al traspaso del servicio educacional.
+quinto.- Los establecimientos que imparten educación parvularia, que reciben aportes del Estado y que no cuentan con el reconocimiento oficial de éste, tendrán un plazo de ocho años a contar de la entrada en vigencia de esta ley para obtener tal reconocimiento. Transcurrido ese plazo, los establecimientos educacionales de educación parvularia que no cuenten con dicho reconocimiento no podrán recibir recursos del Estado para la prestación del servicio educativo.".
 
 Habiéndose cumplido con lo establecido en el Nº 1º del Artículo 93 de la Constitución Política de la República y por cuanto he tenido a bien aprobarlo y sancionarlo; por tanto promúlguese y llévese a efecto como Ley de la República.
 
