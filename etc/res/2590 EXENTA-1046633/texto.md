@@ -1,0 +1,7 @@
+EXTRACTO DE RESOLUCIÓN N° 2.590 EXENTA, DE 2012
+
+Por resolución exenta N° 2.590, de fecha 12 de noviembre de 2012, de este Servicio, y conforme lo dispuesto en la letra c) del inciso primero del artículo 2° de la ley N° 20.632, se ordena la modificación en el Registro Pesquero Artesanal, correspondiente a las Regiones de Los Lagos, de Aysén del General Carlos Ibáñez del Campo y de Magallanes y de la Antártica Chilena, de las inscripciones de pescadores artesanales y embarcaciones que indica, que al 12 de octubre de 2012 cuenten con inscripción vigente sobre el recurso Reineta con espinel, en el sentido de agregar a las mismas la pesquería de Congrio Dorado con espinel, en la medida que no tengan autorizado el referido recurso.
+
+El texto íntegro de la citada resolución, así como el informe técnico que individualiza los pescadores artesanales y las embarcaciones que cumplen con los requisitos señalados para agregar la pesquería de Congrio Dorado con espinel, se encuentran publicados con esta fecha en el dominio electrónico del Servicio Nacional de Pesca y Acuicultura y de la Subsecretaría de Pesca y Acuicultura.
+
+Valparaíso, 19 de noviembre de 2012.- Ana María Urrutia Garay, Directora Nacional (S).
