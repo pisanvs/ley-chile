@@ -3624,7 +3624,9 @@ El robo en lugar no habitado, se castigará con presidio menor en sus grados med
 
 Con la misma pena señalada en el artículo anterior se castigará el robo de cosas que se encuentren en bienes nacionales de uso público o en sitio no destinado a la habitación si el autor hace uso de llaves falsas o verdaderas que se hayan substraído, de ganzúas u otros instrumentos semejantes o si se procede, mediante fractura de puertas, vidrios, cierros, candados u otros dispositivos de protección o si se utilizan medios de tracción.
 
-Si con ocasión de alguna de las conductas señaladas en el inciso anterior, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo..
+Si el delito a que se refiere el inciso precedente recayere sobre un vehículo motorizado, se impondrá la pena de presidio menor en su grado máximo.
+
+Si con ocasión de alguna de las conductas señaladas en el inciso primero, se produce la interrupción o interferencia del suministro de un servicio público o domiciliario, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, la pena se aplicará en su grado máximo.
 
 #### Artículo 443 bis
 
@@ -3730,11 +3732,7 @@ Durante el curso del procedimiento dichos bienes serán incautados de conformida
 
 #### Artículo 449
 
-En los casos de robos o hurtos de vehículos podrán ser aplicadas respectivamente a los autores, cómplices y encubridores las penas superiores en un grado a las que les hayan correspondido.
-
-Cuando la pena conste de dos o más grados el aumento establecido en el inciso primero se hará después de determinarse la pena que habría correspondido al condenado con prescindencia de la expresada circunstancia.
-
-Será castigado en la forma señalada en este artículo, el que destruya las especies a que él se refiere para apropiarse solamente de partes de ella.
+Derogado.
 
 #### Artículo 450
 
@@ -3804,7 +3802,7 @@ El que conociendo su origen o no pudiendo menos que conocerlo, tenga en su poder
 
 Para la determinación de la pena aplicable el tribunal tendrá especialmente en cuenta el valor de las especies, así como la gravedad del delito en que se obtuvieron, si éste era conocido por el autor.
 
-Cuando el objeto de la receptación sean cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
+Cuando el objeto de la receptación sean vehículos motorizados o cosas que forman parte de redes de suministro de servicios públicos o domiciliarios, tales como electricidad, gas, agua, alcantarillado, colectores de aguas lluvia o telefonía, se impondrá la pena de presidio menor en su grado máximo y multa de cinco a veinte unidades tributarias mensuales. La sentencia condenatoria por delitos de este inciso dispondrá el comiso de los instrumentos, herramientas o medios empleados para cometerlos o para transformar o transportar los elementos sustraídos. Si dichos elementos son almacenados, ocultados o transformados en algún establecimiento de comercio con conocimiento del dueño o administrador, se podrá decretar, además, la clausura definitiva de dicho establecimiento, oficiándose a la autoridad competente.
 
 Se impondrá el grado máximo de la pena establecida en el inciso primero, cuando el autor haya incurrido en reiteración de esos hechos o sea reincidente en ellos. En los casos de reiteración o reincidencia en la receptación de los objetos señalados en el inciso precedente, se aplicará la pena privativa de libertad allí establecida, aumentada en un grado.
 
