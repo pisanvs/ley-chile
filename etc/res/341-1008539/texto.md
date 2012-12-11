@@ -38,31 +38,45 @@ II.1 Miembros del Comité.
 
 El Comité será integrado por las siguientes personas:
 
-a) El Ministro de Economía, Fomento y Reconstrucción, o un representante designado por éste.
+a. El Vicepresidente Ejecutivo de la Corporación de
 
-b) El Ministro de Hacienda, o un representante designado por éste.
+Fomento de la Producción o un representante
 
-c) El Ministro Presidente de la Comisión Nacional de Energía, o un representante designado por éste.
+designado por éste.
 
-d) El Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción o un representante designado por éste.
+b. El Gerente Corporativo de la Corporación de
 
-e) El Fiscal de la Corporación de Fomento de la Producción.
+Fomento de la Producción.
 
-f) El Gerente Corporativo de la Corporación de Fomento de la Producción.
+c. El Gerente de Competitividad de la Corporación
 
-g) El Director Ejecutivo del Comité Centro de Energías Renovables, o un representante designado por éste.
+de Fomento de la Producción.
 
-h) Dos miembros ajenos a la Administración del Estado, que provengan de organizaciones empresariales, gremiales, no gubernamentales, o del mundo académico, con ámbitos de acción que se relacionen directamente con el sector energético, designados por el Vicepresidente Ejecutivo de la Corporación de Fomento de la Producción.
+d. Un representante del Ministerio de Energía,
 
-En caso de ausencia o impedimento de las autoridades o funcionarios de la Administración del Estado mencionadas, éstas serán reemplazadas por quienes los subroguen, a menos que hayan designado representante.
+designado por el Ministro de Energía, el que
 
-En caso de ausencia o impedimento de los representantes de las autoridades o funcionarios de la Administración del Estado señalados, o de los miembros ajenos a la Administración del Estado, todos serán reemplazados por quienes sean designados en calidad de suplentes, según se determine mediante acto administrativo de quien corresponda.
+podrá tener o no la calidad de funcionario de
+
+esa Cartera de Estado.
+
+e. Un representante del Ministerio de Agricultura,
+
+designado por el Ministro de Agricultura, el que
+
+podrá tener o no la calidad de funcionario de
+
+esa Cartera de Estado.
+
+En caso de ausencia o impedimento de los miembros del Comité que se desempeñen en calidad de funcionarios de los órganos de la Administración del Estado antes mencionados, éstos serán reemplazados por quienes los subroguen legalmente, a menos que se haya designado un representante para estos efectos. Si el o los representantes del Ministerio de Energía o Ministerio de Agricultura no fueren funcionarios de dichos Ministerios, serán reemplazados por quienes sean designados en calidad de suplentes en el acto administrativo respectivo.
 
 Los subrogantes y suplentes participarán en las sesiones a las que asistan con las mismas facultades y prerrogativas de los miembros titulares.
 
+Se entenderá que participan en las sesiones aquellos miembros que a pesar de no encontrarse presentes, estén comunicados simultánea y permanentemente a través de conferencia telefónica o de video conferencia, debiendo dejarse constancia de dicha forma de participación en el acta correspondiente, bajo certificación de quien presidió la sesión y de quien haga las veces de Secretario.
+
 II.2. Presidente del Comité.
 
-El Comité será presidido por el Ministro Presidente de la Comisión Nacional de Energía, por su subrogante, o su representante, en su caso.
+El Comité será presidido por el Vicepresidente Ejecutivo de CORFO o por su subrogante legal, salvo que hubiere designado un representante para estos efectos.
 
 El Presidente del Comité tendrá las siguientes atribuciones:
 
@@ -76,13 +90,13 @@ II.3. Sesiones y quórum para sesionar.
 
 El Comité se reunirá las veces que sea necesario, en la medida que existan materias en las cuales se requiera su intervención.
 
-Las sesiones serán convocadas por el Gerente de Inversión y Desarrollo de la Corporación de Fomento de la Producción, o por el funcionario que éste designe.
+Las sesiones serán convocadas por el Gerente de Competitividad de la Corporación de Fomento de la Producción, o por el funcionario que éste designe.
 
 El quórum para sesionar será el equivalente a la mayoría absoluta de las personas convocadas a integrar el Comité según el numeral II.1 precedente, y los acuerdos se adoptarán por simple mayoría de quienes concurran a la sesión respectiva.
 
-El Gerente de Inversión y Desarrollo de la Corporación de Fomento de la Producción, o los profesionales de dicha Gerencia que él designe, serán los encargados de presentar a consideración del Comité las solicitudes que se efectúen en relación con las distintas materias entregadas al conocimiento y resolución de éste, lo cual se entenderá sin perjuicio de los procedimientos o requisitos alternativos o adicionales que el Consejo de CORFO determine al encomendar al Comité el conocimiento y resolución de alguna materia en particular.
+El Gerente de Competitividad de la Corporación de Fomento de la Producción, o los profesionales de dicha Gerencia que él designe, serán los encargados de presentar a consideración del Comité las solicitudes que se efectúen en relación con las distintas materias entregadas al conocimiento y resolución de éste, lo cual se entenderá sin perjuicio de los procedimientos o requisitos alternativos o adicionales que el Consejo de CORFO determine al encomendar al Comité el conocimiento y resolución de alguna materia en particular.
 
-De las sesiones se levantará acta por un Secretario designado al efecto por el Gerente de Inversión y Desarrollo de la Corporación.
+De las sesiones se levantará acta por un Secretario designado al efecto por el Gerente de Competitividad de la Corporación.
 
 ### III. EJECUCIÓN DE LOS ACUERDOS
 
@@ -90,7 +104,7 @@ Los acuerdos adoptados por el Comité serán llevados a efecto por el Vicepresid
 
 ### IV. DISPOSICIONES FINALES
 
-El Comité de Asignación de Fondos a Energías Renovables no Convencionales se constituirá una vez que se haya publicado en el Diario Oficial el presente Reglamento, previa citación de sus integrantes por el Gerente de Inversión y Desarrollo, cuando existan materias en las cuales se requiera su intervención.
+El Comité de Asignación de Fondos a Energías Renovables no Convencionales se constituirá una vez que se haya publicado en el Diario Oficial el presente Reglamento, previa citación de sus integrantes por el Gerente de Competitividad, cuando existan materias en las cuales se requiera su intervención.
 
 Anótese, tómese razón por la Contraloría General de la República, transcríbase y publíquese en el Diario Oficial.- Carlos Álvarez Voullieme, Vicepresidente Ejecutivo.- Jaime Arellano Quintana, Fiscal.- Yerko Koscina Peralta, Secretario General.
 
