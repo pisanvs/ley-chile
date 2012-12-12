@@ -1,0 +1,5 @@
+Por resolución exenta Nº 3.104, de 28 de noviembre de 2012, de esta Subsecretaría, autorízase a HIDROCULTIVOS S.A. para realizar actividades experimentales de acuicultura sobre las especies abalón rojo y abalón japonés, cuyo objetivo es evaluar la factibilidad técnico-económica a nivel piloto, de cultivo en diferentes sistemas suspendidos, que permita conocer la dinámica de las estructuras y los resultados de su comportamiento.
+
+Las actividades se desarrollarán por 36 meses, desde fecha de publicación, en concesión de acuicultura transferida por resolución Nº 1.722, de 1994, Subsecretaría de Marina, cumpliendo con la normativa vigente y en la forma indicada en el Informe Técnico y en resolución extractada.
+
+Valparaíso, 28 de noviembre de 2012.- Pablo Galilea Carrillo, Subsecretario de Pesca y Acuicultura.
