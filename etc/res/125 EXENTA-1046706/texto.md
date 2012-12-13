@@ -1,0 +1,9 @@
+DESAFILIA DEL SISTEMA DE FACTURACIÓN ELECTRÓNICA
+
+Extracto de resolución exenta del Servicio de Impuestos Internos Nº 125, de 5 de diciembre de 2012, que desafilia del Sistema de Facturación Electrónica a contribuyentes que se señalan:
+
+Téngase por desafiliados del Sistema de Facturación Electrónica, a los contribuyentes RUT 06.361.061-5, RUT 76.222.010-5, RUT 08.837.157-7, RUT 07.917.152-2, RUT 76.006.172-7, RUT 09.538.374-2, RUT 08.022.989-5, RUT 15.757.903-7, RUT 13.757.348-2, RUT 13.050.065-K, RUT 11.604.408-0, RUT 76.017.748-2, RUT 77.529.470-1, RUT 76.159.791-4, RUT 09.320.255-4, RUT 78.306.570-3, RUT 79.751.160-9, RUT 09.484.752-4, RUT 76.149.963-7, RUT 08.882.664-7, RUT 76.006.527-7, RUT 76.053.274-6, RUT 07.676.788-2, RUT 14.196.641-3, RUT 10.286.088-8, RUT 13.131.500-7, RUT 09.687.299-2, RUT 08.544.825-0, RUT 07.012.045-3, RUT 09.112.510-2, RUT 13.897.861-3, RUT 12.851.327-2, RUT 13.516.325-2, RUT 16.153.540-0, RUT 13.556.261-0, RUT 05.381.260-0, RUT 16.582.337-0, RUT 09.168.413-6, RUT 09.271.914-6, RUT 76.763.250-9, RUT 11.165.569-3, RUT 76.101.017-4, RUT 06.970.467-0, RUT 11.954.890-K, RUT 13.832.407-9, RUT 06.022.881-7, RUT 06.797.049-7, RUT 12.492.653-K, RUT 10.034.195-6, RUT 12.789.427-2, RUT 11.268.321-6, RUT 76.502.320-3, RUT 76.109.407-6, RUT 76.773.030-6, RUT 76.151.328-1, RUT 85.250.701-2, RUT 76.747.640-K, RUT 76.653.200-4, RUT 76.034.858-9, RUT 77.905.730-5, RUT 76.042.750-0, RUT 05.822.692-0 y RUT 03.546.798-K.
+
+Téngase por desafiliados del Sistema de Facturación Electrónica, con el fin de incorporarse al sistema de facturación electrónica Portal Mipyme, a los contribuyentes RUT 07.271.854-2, RUT 76.329.800-0, RUT 78.082.020-9, RUT 78.816.510-2 y RUT 77.634.500-8.
+
+El texto íntegro de esta resolución está publicado en la Oficina Virtual del Servicio de Impuestos Internos en internet (www.sii.cl) y, además, aparecerá en el Boletín del SII del mes de diciembre de 2012.
