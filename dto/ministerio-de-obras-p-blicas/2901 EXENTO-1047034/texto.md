@@ -1,0 +1,3 @@
+Por Decreto MOP. (Exento) Nº2901, de 29 de noviembre de 2012, y de conformidad a lo dispuesto en el Art. 105 del DFL. MOP. Nº850 de 1997, se expropiaron los lotes de terreno Nºs. 5, 6, 7, 8 y 9, superficies 10.904, 14.139, 23.112, 29.969 y 22.748 m2., Rol Nº202-244, Comuna de Chaitén, para la obra "CONSTRUCCIÓN RUTA 7, SECTOR PICHANCO – SANTA BÁRBARA, TRAMO CALETA GONZALO – STA. BÁRBARA", X Región. La comisión de peritos integrada por Leopoldo Ramón Schumacher Guarda, Juan Samuel Barrientos Bahamonde y Christian Emil Rauch Yáñez, fijó el valor de tasación con fecha 25 de enero de 2012, acordándose la indemnización con su propietaria FUNDACIÓN PUMALÍN, en la cantidad de $21.116.170.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
