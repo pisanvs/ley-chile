@@ -22,7 +22,7 @@ Considerando:
 
 ### 8. Que la indemnización que corresponda será pagada de contado
 
-9. Que el Municipio de Puchuncaví consignará el monto de la tasación a la orden del Tribunal competente, mediante depósito en su cuenta corriente, dentro de los 90 días siguientes a la publicación de este decreto en el Diario Oficial.
+9. Que el Municipio de Puchuncaví consignará el monto de la tasación a la orden del Tribunal competente, mediante depósito en su cuenta corriente, dentro de los 90 días siguientes a la publicación de este decreto en el Diario Oficial, o de la fecha de publicación en el Diario Oficial de sus eventuales modificaciones.
 
 Decreto:
 
@@ -36,7 +36,7 @@ La expropiación ordenada se lleva a efecto por ser necesaria para construir la 
 
 4. Consígnese en la cuenta corriente del Juzgado de Letras de Quintero, la totalidad del monto provisional de la indemnización determinada por los peritos tasadores, esto es, la suma de $ 2.932.380, con el fin de solicitar la toma de posesión material del inmueble expropiado.
 
-5. Tómese un vale a la vista a nombre del Juzgado de Letras de Quintero por la suma antes indicada.
+5. Emítase cheque a nombre del Juzgado de Letras y Garantía de Quintero por la suma antes indicada.
 
 6. Anótese, regístrese, comuníquese y archívese.-
 
