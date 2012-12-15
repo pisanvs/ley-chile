@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2913 de 29 de noviembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropiaron el lote de terreno Nº25-C, superficie 775 m2, rol de Avalúo Nº1437-25, comuna de Llanquihue, para la obra "CAMINO RUTA V- 40, SECTOR CRUCE LONGITUDINAL LLANQUIHUE – LONCOTORO, TRAMO KM. 0,34904 A KM. 17,90000". La Comisión de peritos, integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, JUAN CELESTINO GIOVANNINI MANSILLA Y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 25 de octubre de 2011, acordándose la indemnización con su propietaria AGRÍCOLA Y GANADERA LA ESCUADRA LIMITADA, en la cantidad de $1.106.251.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
