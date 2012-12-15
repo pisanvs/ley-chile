@@ -1,0 +1,3 @@
+Por Decreto MOP (Exento) Nº2896, de fecha 29 de noviembre de 2012, y de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº18-A, superficie 25 m2, rol Nº901-51, Comuna de Alto del Carmen, para la obra "MEJORAMIENTO RUTA C-495, EL TRANSITO – JUNTA DE VALERIANO, ETAPA II, (LAS LOSAS – EL CORRAL)", III Región. La Comisión de Peritos integrada por Norman Calderón Pontiggia, Claudio Concha Grossi y Patricio Casagrande Ulloa, fijó el valor de tasación con fecha 19 de diciembre de 2011, acordándose la indemnización con su propietario JOSÉ BORDONES CARRIL, en la cantidad de $1.008.460.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
