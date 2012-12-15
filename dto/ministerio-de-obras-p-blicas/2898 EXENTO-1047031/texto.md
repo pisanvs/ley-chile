@@ -1,0 +1,3 @@
+Por Decreto MOP. Exento Nº2898, de 29 de noviembre de 2012, y de conformidad a lo dispuesto en el art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº1, superficie 58 m2., Rol Nº540-52, Comuna de Bulnes, para la obra "REPOSICIÓN PUENTE QUILLAY, RUTA N-637, SAN IGNACIO – EL QUILLAY, BULNES", Provincia de Ñuble, Región del Bío Bío. La comisión de peritos, integrada por CLAUDIO ANDRÉS DUARTE MIRANDA, FRANCISCO JOSÉ LAMA VERGARA y ROXANA CECILIA ABARZÚA GAJARDO, fijó el valor de tasación con fecha 12 de enero de 2012, acordándose la indemnización con su propietario MANUEL FRANCISCO GUTIÉREZ RODRÍGUEZ, en la cantidad de $77.599.- suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
