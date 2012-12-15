@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº3190 de 10 de diciembre de 2012, se modificaron los Decretos MOP N°s. 2816, 2817, 2818, 2819, 2820, 2821 y 2815, todos de fecha 21 de noviembre de 2012, correspondiente a la obra "Construcción Parque la Aguada, Región Metropolitana, Comuna de San Joaquín, Provincia de Santiago, Región Metropolitana" en la parte que se refiere a la Sub Asignación presupuestaria, debiendo decir 30126600-0 y no como se indicó en dichos decretos. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
