@@ -1,0 +1,3 @@
+Por Decreto MOP (EXENTO) Nº3188 de 05 de diciembre de 2012, se modificó el Decreto MOP (Exento) Nº2982 de 19 de noviembre de 2010, correspondiente a la obra "Diseño Definitivo de la Red Primaria del Sistema de Aguas Lluvias e los Barrios Bajos", en lo que respecta a al monto de la indemnización provisional correspondiente al lote N°29, la que asciende a la suma de $27.281.000.-. La tasación de 4 de diciembre de 2009, fue complementada mediante acta emanada de la comisión de peritos de fecha 28 de septiembre de 2012. La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
