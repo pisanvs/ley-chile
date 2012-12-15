@@ -1,0 +1,3 @@
+Por Decreto M.O.P. (EXENTO) Nº2946 de 04 de diciembre de 2012, se modificó el Decreto MOP N°2358, de 23 de octubre de 2012, en lo que respecta a la comuna, correspondiente al rol de avalúo donde dice: Lago Ranco debe decir PANGUIPULLI, para la obra: "Mejoramiento Rutas 203-201 CH Sector: Panguipulli - Coñaripe II". La publicación se efectúa en cumplimiento a lo dispuesto en el artículo 7° del Decreto Ley Nº2186, de 1978.
+
+Fiscal del Ministerio de Obras Públicas.
