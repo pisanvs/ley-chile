@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2909 de 29 de noviembre de 2012 y de conformidad a lo dispuesto en al art. 105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº35A, superficie 971 m2, rol de Avalúo 250-340 E/T, comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA – QUELEN BAJO", IV Región. La Comisión de Peritos integrada por Víctor Vargas Reyes, Juan Ibáñez Palma y Elisa Tapia Fernández, fijó el valor de tasación con fecha 16 de enero de 2012, acordándose el valor de la indemnización con su propietaria, MARIANELA ELIZABETH GONZÁLEZ ARAYA, en la cantidad de $4.507.023.-, suma que se pagará al contado.-
+
+Fiscal del Ministerio de Obras Públicas.
