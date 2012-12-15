@@ -1,0 +1,3 @@
+Por Decreto Exento MOP Nº2908 de 29 de noviembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº54, superficie 11.055 m2, rol de Avalúo Nº203-52, comuna de Chaitén, para la obra "CONSTRUCCIÓN RUTA 7, SECTOR PICHANCO – SANTA BÁRBARA, TRAMO CALETA GONZALO – STA. BÁRBARA". La Comisión de peritos, integrada por JUAN SAMUEL BARRIENTOS BAHAMONDE, LEOPOLDO RAMÓN SCHUMACHER GUARDA Y CHRISTIAN EMIL RAUCH YÁÑEZ, fijó el valor de tasación con fecha 21 de febrero de 2012, acordándose la indemnización con THE CONSERVATION LAND TRUST, en la cantidad de $2.572.788.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
