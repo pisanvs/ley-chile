@@ -1,0 +1,3 @@
+Por Decreto MOP (exento) Nº2899, de fecha 29 de noviembre de 2012, de conformidad a lo dispuesto en el art.105 del DFL MOP Nº850 de 1997, se expropió el lote de terreno Nº104, superficie 399 m2, rol Nº249-50, Comuna de Salamanca, para la obra "MEJORAMIENTO CAMINO 64D825, SECTOR SALAMANCA – QUELÉN BAJO", IV Región. La comisión de peritos integrada por Víctor Vargas Reyes, Elisa Tapia Fernández y Juan Ibañez Palma, fijó el valor de tasación con fecha 05 de junio de 2011, complementada por Acta de fecha 9 de agosto de 2011, acordándose la indemnización con su propietario JOSÉ PRIMITIVO VALENZUELA GARCÍA, en la cantidad de $3.152.347.- suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
