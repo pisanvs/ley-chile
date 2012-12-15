@@ -1,0 +1,7 @@
+ORDENAN EXPROPIACIÓN DE INMUEBLES QUE SEÑALAN
+
+NOTIFICACIÓN
+
+Por resolución Nº 4.243 de fecha 22/11/2012, conforme al artículo 51 ley 16.391, DL 2.186/1978 y DS 1.128/2012 de Vivienda y Urbanismo, para destinarlo a causas de utilidad pública o de interés social o nacional, Serviu Región de la Araucanía ordenó expropiación de inmueble que corresponde a una extensión de terreno de 100.600 metros cuadrados que ocupa la Estación Ranquilco dentro de las hijuelas Nº 89, 90, 91, 95 y 96 de los terrenos comprendidos entre Carahue y Chol-Chol ubicado en la localidad sector Ranquilco, ruta S 40 altura Ranquilco Bajo, comuna de Nueva Imperial, Rol de Avalúo Nº 90634-2 de la Comuna de Nueva Imperial, cuya superficie aproximada a expropiar corresponden a 71.125 metros cuadrados, que forma parte de un predio de mayor cabida, de aparente dominio de la Empresa de Ferrocarriles del Estado. Comisión de Peritos integrada señores Mario Benjamín Gutiérrez Truan, Arquitecto, Roberto Enrique Gesche Robert, Ingeniero Civil, Julio Hernán Rosas Vega, Constructor Civil, fijó monto Indemnización Provisional en $32.750.000, según Informe de fecha 21/11/2012, pagadero contado.
+
+Director Serviu Región de la Araucanía.
