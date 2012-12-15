@@ -1,0 +1,3 @@
+Por Decreto MOP Exento Nº2911 de 29 de noviembre de 2012, de conformidad lo dispuesto en el Art. 105 del DFL MOP. Nº850 de 1997, se expropió el lote de terreno Nº7-A, superficie 86 m2, rol de Avalúo Nº114-7, comuna de Malloa, para la obra "CONSTRUCCIÓN CICLOVÍAS EN DIVERSAS COMUNAS, PROVINCIA DE CACHAPOAL, SEXTA REGIÓN". La Comisión de peritos, integrada por MARLENE RÍOS MARCUELLO, ORLANDO FARIÑA VÁSQUEZ Y PELAYO VIAL VIAL, fijó el valor de tasación con fecha 15 de marzo de 2012, acordándose la indemnización con su propietario HÉCTOR ANTONIO CORNEJO GONZÁLEZ, en la cantidad de $923.559.-, suma que se pagará al contado.
+
+Fiscal del Ministerio de Obras Públicas.
